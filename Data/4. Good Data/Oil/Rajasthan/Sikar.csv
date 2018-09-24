@@ -1,0 +1,1078 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Mustard,Fatehpur,2015-12-15,4250.0,0.6,6.6,clear
+1,Mustard,Sri Madhopur,2015-12-15,4200.0,0.4,6.6,clear
+2,Mustard,Fatehpur,2015-12-19,4250.0,0.8,7.0,clear
+3,Mustard,Sri Madhopur,2015-12-19,4350.0,0.8,7.0,clear
+4,Mustard,Sikar,2015-12-10,4900.0,10.3,12.2,clear
+5,Mustard,Surajgarh,2015-12-10,4600.0,1.5,12.2,clear
+6,Mustard,Sri Madhopur,2015-12-08,3950.0,2.7,12.8,clear
+7,Mustard,Surajgarh,2015-12-08,3825.0,1.3,12.8,clear
+8,Mustard,Sri Madhopur,2015-12-09,4150.0,10.5,12.6,clear
+9,Mustard,Surajgarh,2015-12-09,4013.0,26.0,12.6,clear
+10,Mustard,Sri Madhopur,2015-12-16,4315.0,5.6,7.0,clear
+11,Mustard,Sri Madhopur,2015-12-17,4200.0,11.4,6.2,clear
+12,Mustard,Sri Madhopur,2015-12-18,4283.0,4.1,6.4,clear
+13,Mustard,Sri Madhopur,2015-12-22,4315.0,0.7,7.2,clear
+14,Mustard,Sri Madhopur,2015-12-23,4350.0,0.8,7.6,clear
+15,Mustard,Sri Madhopur,2015-12-24,4350.0,3.0,7.2,clear
+16,Mustard,Sri Madhopur,2015-12-25,4400.0,1.5,7.0,clear
+17,Mustard,Sri Madhopur,2015-12-29,4400.0,6.5,11.2,clear
+18,Mustard,Sri Madhopur,2015-12-31,4500.0,5.0,12.0,clear
+19,Mustard,Fatehpur,2016-02-04,3700.0,4.3,11.8,clear
+20,Mustard,Neem Ka Thana,2016-02-04,3710.0,4.7,11.8,clear
+21,Mustard,Sikar,2016-02-04,3711.0,19.0,11.8,clear
+22,Mustard,Sri Madhopur,2016-02-04,3700.0,148.2,11.8,clear
+23,Mustard,Surajgarh,2016-02-04,3590.0,42.9,11.8,clear
+24,Mustard,Fatehpur,2016-04-04,3600.0,6.0,25.4,clear
+25,Mustard,Neem Ka Thana,2016-04-04,3795.0,4.1,25.4,clear
+26,Mustard,Sikar,2016-04-04,3850.0,29.1,25.4,clear
+27,Mustard,Sri Madhopur,2016-04-04,3750.0,194.8,25.4,clear
+28,Mustard,Surajgarh,2016-04-04,3600.0,132.1,25.4,clear
+29,Mustard,Fatehpur,2016-06-04,3600.0,1.7,43.0,clear
+30,Mustard,Neem Ka Thana,2016-06-04,3790.0,3.4,43.0,clear
+31,Mustard,Sikar,2016-06-04,3858.0,13.3,43.0,clear
+32,Mustard,Sri Madhopur,2016-06-04,3800.0,183.3,43.0,clear
+33,Mustard,Surajgarh,2016-06-04,3620.0,80.3,43.0,clear
+34,Mustard,Fatehpur,2016-09-04,3700.0,2.1,30.2,clear
+35,Mustard,Neem Ka Thana,2016-09-04,3837.0,2.8,30.2,clear
+36,Mustard,Sikar,2016-09-04,3985.0,14.9,30.2,clear
+37,Mustard,Sri Madhopur,2016-09-04,3892.0,159.7,30.2,clear
+38,Mustard,Surajgarh,2016-09-04,3732.0,52.5,30.2,clear
+39,Mustard,Fatehpur,2016-11-04,3710.0,4.3,27.6,clear
+40,Mustard,Neem Ka Thana,2016-11-04,3877.0,1.1,27.6,clear
+41,Mustard,Sri Madhopur,2016-11-04,3721.0,127.5,27.6,clear
+42,Mustard,Fatehpur,2016-04-13,3725.0,15.4,28.0,clear
+43,Mustard,Neem Ka Thana,2016-04-13,3850.0,0.7,28.0,clear
+44,Mustard,Sri Madhopur,2016-04-13,3813.0,228.3,28.0,clear
+45,Mustard,Surajgarh,2016-04-13,3720.0,47.4,28.0,clear
+46,Mustard,Fatehpur,2016-04-14,3825.0,6.2,38.0,clear
+47,Mustard,Neem Ka Thana,2016-04-14,3830.0,1.0,38.0,clear
+48,Mustard,Sikar,2016-04-14,3895.0,67.1,38.0,clear
+49,Mustard,Sri Madhopur,2016-04-14,3800.0,179.0,38.0,clear
+50,Mustard,Surajgarh,2016-04-14,3750.0,44.2,38.0,clear
+51,Mustard,Fatehpur,2016-04-15,3900.0,4.0,29.0,clear
+52,Mustard,Neem Ka Thana,2016-04-15,3828.0,0.9,29.0,clear
+53,Mustard,Sikar,2016-04-15,4100.0,52.5,29.0,clear
+54,Mustard,Sri Madhopur,2016-04-15,3800.0,218.8,29.0,clear
+55,Mustard,Surajgarh,2016-04-15,3725.0,98.4,29.0,clear
+56,Mustard,Fatehpur,2016-04-16,4000.0,6.0,38.0,clear
+57,Mustard,Neem Ka Thana,2016-04-16,3855.0,3.0,38.0,clear
+58,Mustard,Sikar,2016-04-16,4050.0,98.8,38.0,clear
+59,Mustard,Sri Madhopur,2016-04-16,3925.0,187.3,38.0,clear
+60,Mustard,Surajgarh,2016-04-16,3775.0,56.9,38.0,clear
+61,Mustard,Fatehpur,2016-04-18,4000.0,3.7,36.6,clear
+62,Mustard,Neem Ka Thana,2016-04-18,3965.0,12.1,36.6,clear
+63,Mustard,Sikar,2016-04-18,4106.0,50.7,36.6,clear
+64,Mustard,Sri Madhopur,2016-04-18,4025.0,205.4,36.6,clear
+65,Mustard,Surajgarh,2016-04-18,3850.0,102.4,36.6,clear
+66,Mustard,Fatehpur,2016-04-19,4000.0,1.8,36.0,clear
+67,Mustard,Neem Ka Thana,2016-04-19,3985.0,22.4,36.0,clear
+68,Mustard,Sikar,2016-04-19,4111.0,112.6,36.0,clear
+69,Mustard,Sri Madhopur,2016-04-19,4150.0,234.2,36.0,clear
+70,Mustard,Surajgarh,2016-04-19,3900.0,46.4,36.0,clear
+71,Mustard,Fatehpur,2016-04-20,3900.0,5.4,25.4,clear
+72,Mustard,Sikar,2016-04-20,4058.0,54.6,25.4,clear
+73,Mustard,Sri Madhopur,2016-04-20,4137.0,143.3,25.4,clear
+74,Mustard,Surajgarh,2016-04-20,3900.0,68.6,25.4,clear
+75,Mustard,Fatehpur,2016-04-21,4000.0,1.8,30.0,clear
+76,Mustard,Neem Ka Thana,2016-04-21,4000.0,1.3,30.0,clear
+77,Mustard,Sikar,2016-04-21,4104.0,64.8,30.0,clear
+78,Mustard,Sri Madhopur,2016-04-21,4133.0,174.6,30.0,clear
+79,Mustard,Surajgarh,2016-04-21,3900.0,56.9,30.0,clear
+80,Mustard,Fatehpur,2016-04-22,3850.0,5.4,28.0,clear
+81,Mustard,Sikar,2016-04-22,4056.0,33.1,28.0,clear
+82,Mustard,Sri Madhopur,2016-04-22,4130.0,174.8,28.0,clear
+83,Mustard,Surajgarh,2016-04-22,3875.0,69.6,28.0,clear
+84,Mustard,Fatehpur,2016-04-23,4000.0,5.2,35.2,clear
+85,Mustard,Neem Ka Thana,2016-04-23,3970.0,9.5,35.2,clear
+86,Mustard,Sikar,2016-04-23,4066.0,122.3,35.2,clear
+87,Mustard,Sri Madhopur,2016-04-23,4000.0,57.1,35.2,clear
+88,Mustard,Fatehpur,2016-04-25,3850.0,7.4,37.2,clear
+89,Mustard,Neem Ka Thana,2016-04-25,3950.0,0.4,37.2,clear
+90,Mustard,Sikar,2016-04-25,4245.0,16.1,37.2,clear
+91,Mustard,Sri Madhopur,2016-04-25,4133.0,204.9,37.2,clear
+92,Mustard,Surajgarh,2016-04-25,3900.0,28.4,37.2,clear
+93,Mustard,Fatehpur,2016-04-26,4000.0,8.9,37.0,clear
+94,Mustard,Neem Ka Thana,2016-04-26,3900.0,2.0,37.0,clear
+95,Mustard,Sri Madhopur,2016-04-26,4155.0,212.0,37.0,clear
+96,Mustard,Surajgarh,2016-04-26,3850.0,39.9,37.0,clear
+97,Mustard,Fatehpur,2016-04-27,4000.0,9.0,38.4,clear
+98,Mustard,Sri Madhopur,2016-04-27,4185.0,168.6,38.4,clear
+99,Mustard,Surajgarh,2016-04-27,3800.0,22.9,38.4,clear
+100,Mustard,Fatehpur,2016-04-28,3900.0,10.6,38.2,clear
+101,Mustard,Sikar,2016-04-28,3950.0,29.9,38.2,clear
+102,Mustard,Sri Madhopur,2016-04-28,3800.0,115.6,38.2,clear
+103,Mustard,Surajgarh,2016-04-28,3775.0,31.7,38.2,clear
+104,Mustard,Fatehpur,2016-04-29,3900.0,13.0,27.8,clear
+105,Mustard,Neem Ka Thana,2016-04-29,3872.0,8.5,27.8,clear
+106,Mustard,Sri Madhopur,2016-04-29,4000.0,226.1,27.8,clear
+107,Mustard,Surajgarh,2016-04-29,3800.0,18.0,27.8,clear
+108,Mustard,Fatehpur,2016-04-30,3900.0,10.3,39.6,clear
+109,Mustard,Neem Ka Thana,2016-04-30,3905.0,7.8,39.6,clear
+110,Mustard,Surajgarh,2016-04-30,3825.0,19.2,39.6,clear
+111,Mustard,Fatehpur,2016-02-05,3850.0,8.8,11.6,clear
+112,Mustard,Sikar,2016-02-05,3900.0,66.2,11.6,clear
+113,Mustard,Sri Madhopur,2016-02-05,4059.0,172.1,11.6,clear
+114,Mustard,Fatehpur,2016-03-05,3850.0,7.1,15.2,clear
+115,Mustard,Neem Ka Thana,2016-03-05,3850.0,0.4,15.2,clear
+116,Mustard,Sikar,2016-03-05,3912.0,91.4,15.2,clear
+117,Mustard,Sri Madhopur,2016-03-05,3980.0,147.2,15.2,clear
+118,Mustard,Surajgarh,2016-03-05,3800.0,24.3,15.2,clear
+119,Mustard,Fatehpur,2016-04-05,3800.0,5.8,35.6,clear
+120,Mustard,Sikar,2016-04-05,4150.0,59.3,35.6,clear
+121,Mustard,Sri Madhopur,2016-04-05,4100.0,105.4,35.6,clear
+122,Mustard,Surajgarh,2016-04-05,3775.0,11.0,35.6,clear
+123,Mustard,Fatehpur,2016-05-05,3825.0,7.6,28.8,clear
+124,Mustard,Neem Ka Thana,2016-05-05,3825.0,0.3,28.8,clear
+125,Mustard,Sikar,2016-05-05,4050.0,16.7,28.8,clear
+126,Mustard,Sri Madhopur,2016-05-05,4079.0,101.1,28.8,clear
+127,Mustard,Surajgarh,2016-05-05,3800.0,38.8,28.8,clear
+128,Mustard,Fatehpur,2016-06-05,3900.0,3.6,34.4,clear
+129,Mustard,Sikar,2016-06-05,3900.0,3.0,34.4,clear
+130,Mustard,Sri Madhopur,2016-06-05,3936.0,97.0,34.4,clear
+131,Mustard,Surajgarh,2016-06-05,3825.0,17.0,34.4,clear
+132,Mustard,Fatehpur,2016-07-05,3900.0,7.1,37.0,clear
+133,Mustard,Sikar,2016-07-05,4025.0,10.4,37.0,clear
+134,Mustard,Sri Madhopur,2016-07-05,3950.0,120.9,37.0,clear
+135,Mustard,Surajgarh,2016-07-05,3825.0,14.1,37.0,clear
+136,Mustard,Fatehpur,2016-09-05,3800.0,5.5,30.0,clear
+137,Mustard,Sri Madhopur,2016-09-05,4075.0,131.9,30.0,clear
+138,Mustard,Surajgarh,2016-09-05,3825.0,6.4,30.0,clear
+139,Mustard,Fatehpur,2016-10-05,3800.0,3.4,25.2,clear
+140,Mustard,Sikar,2016-10-05,3975.0,33.2,25.2,clear
+141,Mustard,Sri Madhopur,2016-10-05,4008.0,192.9,25.2,clear
+142,Mustard,Surajgarh,2016-10-05,3838.0,38.1,25.2,clear
+143,Mustard,Fatehpur,2016-11-05,3825.0,2.3,16.8,clear
+144,Mustard,Sikar,2016-11-05,3897.0,27.1,16.8,clear
+145,Mustard,Surajgarh,2016-11-05,3835.0,30.4,16.8,clear
+146,Mustard,Fatehpur,2016-12-05,3825.0,4.7,10.2,clear
+147,Mustard,Sikar,2016-12-05,3985.0,47.3,10.2,clear
+148,Mustard,Surajgarh,2016-12-05,3835.0,35.0,10.2,clear
+149,Mustard,Fatehpur,2016-05-13,3900.0,2.0,35.0,clear
+150,Mustard,Sikar,2016-05-13,4020.0,14.9,35.0,clear
+151,Mustard,Surajgarh,2016-05-13,3825.0,9.5,35.0,clear
+152,Mustard,Fatehpur,2016-05-14,3825.0,2.3,33.0,clear
+153,Mustard,Sikar,2016-05-14,3950.0,24.3,33.0,clear
+154,Mustard,Surajgarh,2016-05-14,3800.0,7.0,33.0,clear
+155,Mustard,Fatehpur,2016-05-17,3825.0,2.2,42.6,clear
+156,Mustard,Neem Ka Thana,2016-05-17,3900.0,0.5,42.6,clear
+157,Mustard,Sikar,2016-05-17,3975.0,30.3,42.6,clear
+158,Mustard,Sri Madhopur,2016-05-17,3902.0,83.9,42.6,clear
+159,Mustard,Surajgarh,2016-05-17,3825.0,11.3,42.6,clear
+160,Mustard,Fatehpur,2016-05-18,3950.0,0.7,43.8,clear
+161,Mustard,Sikar,2016-05-18,3925.0,45.0,43.8,clear
+162,Mustard,Sri Madhopur,2016-05-18,3902.0,109.1,43.8,clear
+163,Mustard,Surajgarh,2016-05-18,3850.0,9.5,43.8,clear
+164,Mustard,Fatehpur,2016-05-19,3900.0,1.7,34.0,clear
+165,Mustard,Sikar,2016-05-19,4000.0,23.8,34.0,clear
+166,Mustard,Sri Madhopur,2016-05-19,3950.0,90.6,34.0,clear
+167,Mustard,Surajgarh,2016-05-19,3850.0,4.5,34.0,clear
+168,Mustard,Fatehpur,2016-05-20,3900.0,2.3,44.4,clear
+169,Mustard,Sri Madhopur,2016-05-20,4140.0,78.1,44.4,clear
+170,Mustard,Surajgarh,2016-05-20,3800.0,7.5,44.4,clear
+171,Mustard,Fatehpur,2016-09-06,3950.0,2.0,30.0,clear
+172,Mustard,Sri Madhopur,2016-09-06,3940.0,39.1,30.0,clear
+173,Mustard,Surajgarh,2016-09-06,3950.0,6.5,30.0,clear
+174,Mustard,Fatehpur,2016-06-13,3900.0,2.5,38.4,clear
+175,Mustard,Sikar,2016-06-13,4135.0,9.7,38.4,clear
+176,Mustard,Sri Madhopur,2016-06-13,3850.0,75.1,38.4,clear
+177,Mustard,Surajgarh,2016-06-13,4000.0,4.0,38.4,clear
+178,Mustard,Fatehpur,2016-06-23,3900.0,2.0,32.6,clear
+179,Mustard,Sri Madhopur,2016-06-23,4140.0,21.6,32.6,clear
+180,Mustard,Surajgarh,2016-06-23,4125.0,4.0,32.6,clear
+181,Mustard,Neem Ka Thana,2016-03-25,3400.0,0.8,37.5,clear
+182,Mustard,Sikar,2016-03-25,3529.0,8.5,37.5,clear
+183,Mustard,Sri Madhopur,2016-03-25,3453.0,55.4,37.5,clear
+184,Mustard,Surajgarh,2016-03-25,3500.0,0.85,37.5,clear
+185,Mustard,Neem Ka Thana,2016-03-26,3350.0,0.7,27.6,clear
+186,Mustard,Sikar,2016-03-26,3539.0,4.9,27.6,clear
+187,Mustard,Sri Madhopur,2016-03-26,3470.0,128.9,27.6,clear
+188,Mustard,Surajgarh,2016-03-26,3500.0,1.2,27.6,clear
+189,Mustard,Neem Ka Thana,2016-03-28,3515.0,2.7,12.6,clear
+190,Mustard,Sri Madhopur,2016-03-28,3551.0,144.3,12.6,clear
+191,Mustard,Surajgarh,2016-03-28,3500.0,0.9,12.6,clear
+192,Mustard,Neem Ka Thana,2016-03-29,3700.0,0.9,38.6,clear
+193,Mustard,Sri Madhopur,2016-03-29,3650.0,325.8,38.6,clear
+194,Mustard,Surajgarh,2016-03-29,3600.0,26.3,38.6,clear
+195,Mustard,Neem Ka Thana,2016-03-30,3655.0,2.5,23.0,clear
+196,Mustard,Sri Madhopur,2016-03-30,3650.0,188.0,23.0,clear
+197,Mustard,Neem Ka Thana,2016-01-04,3643.0,5.2,12.0,clear
+198,Mustard,Sikar,2016-01-04,3726.0,51.5,12.0,clear
+199,Mustard,Sri Madhopur,2016-01-04,3700.0,148.2,12.0,clear
+200,Mustard,Neem Ka Thana,2016-05-04,3780.0,3.7,36.8,clear
+201,Mustard,Sikar,2016-05-04,3835.0,19.3,36.8,clear
+202,Mustard,Surajgarh,2016-05-04,3650.0,85.4,36.8,clear
+203,Mustard,Neem Ka Thana,2016-08-04,3825.0,22.0,30.8,clear
+204,Mustard,Sikar,2016-08-04,3851.0,29.7,30.8,clear
+205,Mustard,Sri Madhopur,2016-08-04,3699.0,123.7,30.8,clear
+206,Mustard,Neem Ka Thana,2016-12-04,3840.0,0.5,24.2,clear
+207,Mustard,Surajgarh,2016-12-04,3775.0,68.0,24.2,clear
+208,Mustard,Neem Ka Thana,2016-05-24,3840.0,0.5,27.0,clear
+209,Mustard,Sikar,2016-05-24,3938.0,26.5,27.0,clear
+210,Mustard,Sri Madhopur,2016-05-24,3900.0,109.5,27.0,clear
+211,Mustard,Surajgarh,2016-05-24,3800.0,53.0,27.0,clear
+212,Mustard,Neem Ka Thana,2016-05-26,3850.0,0.1,39.0,clear
+213,Mustard,Sikar,2016-05-26,3971.0,1.4,39.0,clear
+214,Mustard,Sri Madhopur,2016-05-26,3925.0,61.3,39.0,clear
+215,Mustard,Surajgarh,2016-05-26,3813.0,8.0,39.0,clear
+216,Mustard,Neem Ka Thana,2016-03-06,3892.0,1.8,16.8,clear
+217,Mustard,Surajgarh,2016-03-06,3850.0,9.5,16.8,clear
+218,Mustard,Neem Ka Thana,2016-08-06,3900.0,0.2,32.0,clear
+219,Mustard,Sikar,2016-08-06,4020.0,7.3,32.0,clear
+220,Mustard,Sri Madhopur,2016-08-06,3932.0,79.0,32.0,clear
+221,Mustard,Surajgarh,2016-08-06,3900.0,2.0,32.0,clear
+222,Mustard,Neem Ka Thana,2016-06-16,4061.0,0.2,40.0,clear
+223,Mustard,Sikar,2016-06-16,4235.0,6.7,40.0,clear
+224,Mustard,Sri Madhopur,2016-06-16,4125.0,31.7,40.0,clear
+225,Mustard,Surajgarh,2016-06-16,4125.0,4.2,40.0,clear
+226,Mustard,Neem Ka Thana,2016-07-21,4401.0,0.4,29.8,clear
+227,Mustard,Surajgarh,2016-07-21,4400.0,5.0,29.8,clear
+228,Mustard,Neem Ka Thana,2016-12-19,4000.0,2.2,22.2,clear
+229,Mustard,Sri Madhopur,2016-12-19,3900.0,0.8,22.2,clear
+230,Mustard,Neem Ka Thana,2016-12-21,3750.0,0.9,23.0,clear
+231,Mustard,Sri Madhopur,2016-12-21,3781.0,0.3,23.0,clear
+232,Mustard,Neem Ka Thana,2016-12-30,3892.0,3.3,12.6,clear
+233,Mustard,Sikar,2016-01-15,4350.0,22.6,11.2,clear
+234,Mustard,Sri Madhopur,2016-01-15,4100.0,0.1,11.2,clear
+235,Mustard,Sikar,2016-02-15,2950.0,8.5,13.0,clear
+236,Mustard,Sri Madhopur,2016-02-15,3980.0,7.0,13.0,clear
+237,Mustard,Sikar,2016-02-03,3800.0,0.3,12.0,clear
+238,Mustard,Sikar,2016-12-03,3814.0,0.4,26.4,clear
+239,Mustard,Sikar,2016-03-14,3828.0,2.5,20.0,clear
+240,Mustard,Sikar,2016-03-15,3771.0,0.8,20.2,clear
+241,Mustard,Sikar,2016-03-17,3623.0,6.1,21.2,clear
+242,Mustard,Sikar,2016-03-27,3511.0,6.0,19.6,clear
+243,Mustard,Sikar,2016-07-04,3993.0,12.3,36.2,clear
+244,Mustard,Sri Madhopur,2016-07-04,3699.0,101.1,36.2,clear
+245,Mustard,Surajgarh,2016-07-04,3625.0,56.5,36.2,clear
+246,Mustard,Sikar,2016-05-16,3988.0,34.0,32.2,clear
+247,Mustard,Surajgarh,2016-05-16,3825.0,18.0,32.2,clear
+248,Mustard,Sikar,2016-05-21,3950.0,14.5,43.0,clear
+249,Mustard,Sri Madhopur,2016-05-21,4025.0,60.1,43.0,clear
+250,Mustard,Surajgarh,2016-05-21,3850.0,8.5,43.0,clear
+251,Mustard,Sikar,2016-05-23,4000.0,2.8,39.0,clear
+252,Mustard,Sri Madhopur,2016-05-23,4000.0,67.5,39.0,clear
+253,Mustard,Surajgarh,2016-05-23,3850.0,18.5,39.0,clear
+254,Mustard,Sikar,2016-05-27,3925.0,1.9,32.0,clear
+255,Mustard,Sri Madhopur,2016-05-27,3965.0,93.1,32.0,clear
+256,Mustard,Surajgarh,2016-05-27,3813.0,23.9,32.0,clear
+257,Mustard,Sikar,2016-05-28,3875.0,33.1,39.4,clear
+258,Mustard,Sri Madhopur,2016-05-28,3950.0,81.0,39.4,clear
+259,Mustard,Surajgarh,2016-05-28,3800.0,18.3,39.4,clear
+260,Mustard,Sikar,2016-05-30,4016.0,7.3,32.0,clear
+261,Mustard,Sri Madhopur,2016-05-30,3876.0,113.4,32.0,clear
+262,Mustard,Surajgarh,2016-05-30,3825.0,2.0,32.0,clear
+263,Mustard,Sikar,2016-01-06,3880.0,23.6,13.0,clear
+264,Mustard,Sikar,2016-02-06,3965.0,17.3,12.0,clear
+265,Mustard,Sikar,2016-04-06,3920.0,15.2,33.6,clear
+266,Mustard,Surajgarh,2016-04-06,3800.0,1.5,33.6,clear
+267,Mustard,Sikar,2016-06-06,4000.0,13.3,35.0,clear
+268,Mustard,Surajgarh,2016-06-06,3825.0,5.5,35.0,clear
+269,Mustard,Sikar,2016-11-06,4140.0,6.6,15.0,clear
+270,Mustard,Sri Madhopur,2016-11-06,3968.0,56.3,15.0,clear
+271,Mustard,Surajgarh,2016-11-06,3975.0,6.0,15.0,clear
+272,Mustard,Sikar,2016-06-14,4223.0,18.0,38.0,clear
+273,Mustard,Sri Madhopur,2016-06-14,4187.0,47.8,38.0,clear
+274,Mustard,Surajgarh,2016-06-14,4075.0,6.0,38.0,clear
+275,Mustard,Sikar,2016-06-17,4100.0,14.4,34.0,clear
+276,Mustard,Sri Madhopur,2016-06-17,3980.0,22.2,34.0,clear
+277,Mustard,Surajgarh,2016-06-17,4100.0,5.9,34.0,clear
+278,Mustard,Sikar,2016-06-18,4280.0,4.5,41.8,clear
+279,Mustard,Sri Madhopur,2016-06-18,4050.0,23.1,41.8,clear
+280,Mustard,Sikar,2016-06-21,4150.0,16.0,33.0,clear
+281,Mustard,Sri Madhopur,2016-06-21,4125.0,16.5,33.0,clear
+282,Mustard,Surajgarh,2016-06-21,4100.0,5.0,33.0,clear
+283,Mustard,Sikar,2016-06-24,4000.0,10.2,35.0,clear
+284,Mustard,Sri Madhopur,2016-06-24,4025.0,16.6,35.0,clear
+285,Mustard,Sikar,2016-06-28,4050.0,13.0,34.0,clear
+286,Mustard,Sri Madhopur,2016-06-28,4161.0,15.4,34.0,clear
+287,Mustard,Sikar,2016-06-29,4271.0,0.9,34.6,clear
+288,Mustard,Sri Madhopur,2016-06-29,4193.0,24.3,34.6,clear
+289,Mustard,Surajgarh,2016-06-29,4100.0,4.5,34.6,clear
+290,Mustard,Sikar,2016-06-30,4330.0,2.4,40.2,clear
+291,Mustard,Sri Madhopur,2016-06-30,4125.0,23.1,40.2,clear
+292,Mustard,Surajgarh,2016-06-30,4100.0,2.0,40.2,clear
+293,Mustard,Sikar,2016-06-07,4100.0,0.7,42.6,clear
+294,Mustard,Sri Madhopur,2016-06-07,4230.0,18.9,42.6,clear
+295,Mustard,Surajgarh,2016-06-07,4150.0,10.0,42.6,clear
+296,Mustard,Sikar,2016-07-15,4450.0,15.1,30.0,clear
+297,Mustard,Sri Madhopur,2016-07-15,4310.0,7.9,30.0,clear
+298,Mustard,Sikar,2016-07-26,4300.0,4.0,32.0,clear
+299,Mustard,Sri Madhopur,2016-07-26,4250.0,17.2,32.0,clear
+300,Mustard,Sikar,2016-07-27,4300.0,5.5,29.6,clear
+301,Mustard,Sri Madhopur,2016-07-27,4400.0,3.2,29.6,clear
+302,Mustard,Surajgarh,2016-07-27,4300.0,2.0,29.6,clear
+303,Mustard,Sikar,2016-01-08,4431.0,1.0,12.4,clear
+304,Mustard,Sri Madhopur,2016-01-08,4275.0,1.1,12.4,clear
+305,Mustard,Sikar,2016-08-17,4525.0,2.5,31.0,clear
+306,Mustard,Sri Madhopur,2016-08-17,4275.0,9.9,31.0,clear
+307,Mustard,Surajgarh,2016-08-17,4200.0,2.0,31.0,clear
+308,Mustard,Sikar,2016-08-20,4550.0,2.0,31.8,clear
+309,Mustard,Sri Madhopur,2016-08-20,4340.0,27.2,31.8,clear
+310,Mustard,Surajgarh,2016-08-20,4325.0,6.0,31.8,clear
+311,Mustard,Sikar,2016-02-09,4365.0,3.8,12.6,clear
+312,Mustard,Surajgarh,2016-02-09,4300.0,2.0,12.6,clear
+313,Mustard,Sikar,2016-09-23,4300.0,12.7,32.4,clear
+314,Mustard,Sri Madhopur,2016-09-23,4175.0,3.7,32.4,clear
+315,Mustard,Surajgarh,2016-09-23,4200.0,2.0,32.4,clear
+316,Mustard,Sikar,2016-09-25,4300.0,12.7,34.0,clear
+317,Mustard,Sikar,2016-09-28,4200.0,0.8,36.0,clear
+318,Mustard,Sri Madhopur,2016-09-28,4060.0,7.5,36.0,clear
+319,Mustard,Surajgarh,2016-09-28,4100.0,2.0,36.0,clear
+320,Mustard,Sikar,2016-06-10,4200.0,16.4,41.0,clear
+321,Mustard,Sri Madhopur,2016-06-10,4130.0,14.9,41.0,clear
+322,Mustard,Surajgarh,2016-06-10,4000.0,2.0,41.0,clear
+323,Mustard,Sikar,2016-10-14,4100.0,1.0,31.4,clear
+324,Mustard,Sri Madhopur,2016-10-14,3995.0,0.5,31.4,clear
+325,Mustard,Sikar,2016-10-15,4100.0,3.0,25.0,clear
+326,Mustard,Sri Madhopur,2016-10-15,3850.0,9.3,25.0,clear
+327,Mustard,Surajgarh,2016-10-15,4025.0,2.0,25.0,clear
+328,Mustard,Sikar,2016-10-24,4025.0,1.9,25.0,clear
+329,Mustard,Sri Madhopur,2016-10-24,3550.0,1.2,25.0,clear
+330,Mustard,Sikar,2016-10-27,4175.0,0.8,20.4,clear
+331,Mustard,Sri Madhopur,2016-10-27,4017.0,5.4,20.4,clear
+332,Mustard,Sikar,2016-02-11,4200.0,11.1,13.0,clear
+333,Mustard,Sri Madhopur,2016-02-11,3960.0,8.4,13.0,clear
+334,Mustard,Sikar,2016-07-11,4200.0,7.1,29.8,clear
+335,Mustard,Sikar,2016-11-26,6600.0,0.2,26.6,clear
+336,Mustard,Sri Madhopur,2016-11-26,4000.0,2.0,26.6,clear
+337,Mustard,Surajgarh,2016-11-26,4000.0,2.0,26.6,clear
+338,Mustard,Sikar,2016-01-12,4050.0,15.7,12.4,clear
+339,Mustard,Sri Madhopur,2016-01-12,4185.0,3.0,12.4,clear
+340,Mustard,Sikar,2016-02-12,4000.0,0.8,13.4,clear
+341,Mustard,Surajgarh,2016-02-12,4050.0,4.2,13.4,clear
+342,Mustard,Sikar,2016-12-20,4050.0,0.8,22.2,clear
+343,Mustard,Sri Madhopur,2016-12-20,3775.0,5.9,22.2,clear
+344,Mustard,Sri Madhopur,2016-05-01,4150.0,0.7,41.0,clear
+345,Mustard,Sri Madhopur,2016-07-01,4250.0,3.3,37.6,clear
+346,Mustard,Sri Madhopur,2016-09-01,4150.0,2.9,30.2,clear
+347,Mustard,Sri Madhopur,2016-11-01,4150.0,6.0,28.6,clear
+348,Mustard,Sri Madhopur,2016-12-01,4200.0,1.5,16.0,clear
+349,Mustard,Sri Madhopur,2016-01-19,4100.0,1.2,11.0,clear
+350,Mustard,Sri Madhopur,2016-04-02,3650.0,0.9,23.6,clear
+351,Mustard,Sri Madhopur,2016-09-02,3600.0,0.1,28.4,clear
+352,Mustard,Sri Madhopur,2016-12-02,3700.0,4.5,23.4,clear
+353,Mustard,Sri Madhopur,2016-02-17,3750.0,2.3,12.0,clear
+354,Mustard,Sri Madhopur,2016-02-20,3881.0,2.6,13.8,clear
+355,Mustard,Sri Madhopur,2016-02-22,3850.0,2.1,11.2,clear
+356,Mustard,Sri Madhopur,2016-02-24,3900.0,3.1,13.6,clear
+357,Mustard,Sri Madhopur,2016-01-03,3950.0,1.1,11.4,clear
+358,Mustard,Sri Madhopur,2016-05-03,4400.0,11.7,38.6,clear
+359,Mustard,Sri Madhopur,2016-07-03,3400.0,2.2,29.4,clear
+360,Mustard,Sri Madhopur,2016-08-03,3000.0,0.3,28.0,clear
+361,Mustard,Sri Madhopur,2016-10-03,3401.0,0.8,31.2,clear
+362,Mustard,Sri Madhopur,2016-03-23,3370.0,65.1,34.0,clear
+363,Mustard,Sri Madhopur,2016-03-31,3500.0,200.4,19.0,clear
+364,Mustard,Surajgarh,2016-03-31,3562.0,17.0,19.0,clear
+365,Mustard,Sri Madhopur,2016-05-25,4000.0,87.4,31.0,clear
+366,Mustard,Surajgarh,2016-05-25,3825.0,11.2,31.0,clear
+367,Mustard,Sri Madhopur,2016-10-06,4010.0,44.3,25.4,clear
+368,Mustard,Surajgarh,2016-10-06,4000.0,3.0,25.4,clear
+369,Mustard,Sri Madhopur,2016-06-15,4117.0,34.7,34.0,clear
+370,Mustard,Surajgarh,2016-06-15,4100.0,3.0,34.0,clear
+371,Mustard,Sri Madhopur,2016-06-20,4137.0,25.5,34.0,clear
+372,Mustard,Surajgarh,2016-06-20,4050.0,4.0,34.0,clear
+373,Mustard,Sri Madhopur,2016-06-22,4150.0,32.2,29.8,clear
+374,Mustard,Surajgarh,2016-06-22,4075.0,2.0,29.8,clear
+375,Mustard,Sri Madhopur,2016-06-25,3975.0,24.0,32.6,clear
+376,Mustard,Surajgarh,2016-06-25,4100.0,2.0,32.6,clear
+377,Mustard,Sri Madhopur,2016-06-27,3975.0,34.5,34.6,clear
+378,Mustard,Sri Madhopur,2016-01-07,4221.0,11.6,12.2,clear
+379,Mustard,Sri Madhopur,2016-04-07,3975.0,8.5,33.6,clear
+380,Mustard,Sri Madhopur,2016-05-07,4235.0,38.0,37.2,clear
+381,Mustard,Sri Madhopur,2016-07-07,4150.0,18.5,31.6,clear
+382,Mustard,Sri Madhopur,2016-08-07,4212.0,2.7,34.6,clear
+383,Mustard,Surajgarh,2016-08-07,4200.0,2.0,34.6,clear
+384,Mustard,Sri Madhopur,2016-09-07,4192.0,14.9,24.5,clear
+385,Mustard,Sri Madhopur,2016-11-07,4215.0,22.7,20.0,clear
+386,Mustard,Sri Madhopur,2016-12-07,4262.0,10.9,25.2,clear
+387,Mustard,Surajgarh,2016-12-07,4200.0,10.0,25.2,clear
+388,Mustard,Sri Madhopur,2016-07-13,4295.0,7.3,29.8,clear
+389,Mustard,Sri Madhopur,2016-07-14,4291.0,5.7,31.6,clear
+390,Mustard,Surajgarh,2016-07-14,4300.0,2.0,31.6,clear
+391,Mustard,Sri Madhopur,2016-07-18,4375.0,3.9,28.0,clear
+392,Mustard,Surajgarh,2016-07-18,4350.0,10.0,28.0,clear
+393,Mustard,Sri Madhopur,2016-07-19,4335.0,20.2,34.0,clear
+394,Mustard,Surajgarh,2016-07-19,4375.0,17.1,34.0,clear
+395,Mustard,Sri Madhopur,2016-07-23,4310.0,8.5,35.6,clear
+396,Mustard,Surajgarh,2016-07-23,4300.0,2.0,35.6,clear
+397,Mustard,Sri Madhopur,2016-07-25,4412.0,9.8,31.8,clear
+398,Mustard,Sri Madhopur,2016-07-28,4375.0,23.2,27.0,clear
+399,Mustard,Surajgarh,2016-07-28,4300.0,2.0,27.0,clear
+400,Mustard,Sri Madhopur,2016-07-29,4318.0,5.4,28.2,clear
+401,Mustard,Sri Madhopur,2016-07-30,4287.0,6.7,31.0,clear
+402,Mustard,Surajgarh,2016-07-30,4300.0,2.0,31.0,clear
+403,Mustard,Sri Madhopur,2016-02-08,4307.0,5.9,12.8,clear
+404,Mustard,Sri Madhopur,2016-04-08,4411.0,7.1,27.8,clear
+405,Mustard,Sri Madhopur,2016-10-08,4306.0,3.1,26.4,clear
+406,Mustard,Sri Madhopur,2016-11-08,4345.0,6.5,27.6,clear
+407,Mustard,Surajgarh,2016-11-08,4325.0,2.0,27.6,clear
+408,Mustard,Sri Madhopur,2016-08-13,4286.0,5.6,31.0,clear
+409,Mustard,Surajgarh,2016-08-13,4312.0,4.0,31.0,clear
+410,Mustard,Sri Madhopur,2016-08-16,4342.0,8.6,31.8,clear
+411,Mustard,Sri Madhopur,2016-08-19,4120.0,21.2,32.0,clear
+412,Mustard,Sri Madhopur,2016-08-22,4100.0,16.8,26.8,clear
+413,Mustard,Surajgarh,2016-08-22,4300.0,2.5,26.8,clear
+414,Mustard,Sri Madhopur,2016-08-23,4300.0,23.4,32.0,clear
+415,Mustard,Sri Madhopur,2016-08-24,4159.0,6.4,26.6,clear
+416,Mustard,Sri Madhopur,2016-08-26,4375.0,8.6,33.0,clear
+417,Mustard,Sri Madhopur,2016-08-27,4148.0,12.5,33.6,clear
+418,Mustard,Surajgarh,2016-08-27,4300.0,2.0,33.6,clear
+419,Mustard,Sri Madhopur,2016-08-29,3995.0,5.0,27.0,clear
+420,Mustard,Sri Madhopur,2016-08-30,4315.0,6.5,29.8,clear
+421,Mustard,Sri Madhopur,2016-01-09,4200.0,3.4,11.8,clear
+422,Mustard,Sri Madhopur,2016-03-09,4062.0,5.6,17.5,clear
+423,Mustard,Sri Madhopur,2016-05-09,4192.0,11.9,42.2,clear
+424,Mustard,Surajgarh,2016-05-09,4250.0,3.0,42.2,clear
+425,Mustard,Sri Madhopur,2016-06-09,4232.0,8.4,34.0,clear
+426,Mustard,Surajgarh,2016-06-09,4250.0,4.0,34.0,clear
+427,Mustard,Sri Madhopur,2016-08-09,4350.0,14.7,30.0,clear
+428,Mustard,Surajgarh,2016-08-09,4200.0,4.0,30.0,clear
+429,Mustard,Sri Madhopur,2016-09-09,4125.0,17.3,27.0,clear
+430,Mustard,Surajgarh,2016-09-09,4200.0,4.0,27.0,clear
+431,Mustard,Sri Madhopur,2016-10-09,4245.0,9.4,27.2,clear
+432,Mustard,Surajgarh,2016-10-09,4150.0,4.0,27.2,clear
+433,Mustard,Sri Madhopur,2016-12-09,4081.0,3.9,26.6,clear
+434,Mustard,Sri Madhopur,2016-09-13,4225.0,6.7,26.0,clear
+435,Mustard,Surajgarh,2016-09-13,4100.0,1.0,26.0,clear
+436,Mustard,Sri Madhopur,2016-09-14,4205.0,16.6,31.0,clear
+437,Mustard,Sri Madhopur,2016-09-15,4125.0,4.0,27.2,clear
+438,Mustard,Sri Madhopur,2016-09-16,4225.0,10.7,34.4,clear
+439,Mustard,Surajgarh,2016-09-16,4100.0,2.0,34.4,clear
+440,Mustard,Sri Madhopur,2016-09-17,4272.0,6.4,34.2,clear
+441,Mustard,Sri Madhopur,2016-09-19,4227.0,20.0,31.0,clear
+442,Mustard,Surajgarh,2016-09-19,4150.0,2.0,31.0,clear
+443,Mustard,Sri Madhopur,2016-09-20,4250.0,20.2,35.2,clear
+444,Mustard,Surajgarh,2016-09-20,4150.0,3.0,35.2,clear
+445,Mustard,Sri Madhopur,2016-09-21,4200.0,5.8,36.8,clear
+446,Mustard,Sri Madhopur,2016-09-22,4200.0,8.3,36.0,clear
+447,Mustard,Surajgarh,2016-09-22,4200.0,2.0,36.0,clear
+448,Mustard,Sri Madhopur,2016-09-24,4260.0,10.7,31.0,clear
+449,Mustard,Sri Madhopur,2016-09-26,4214.0,11.3,34.8,clear
+450,Mustard,Surajgarh,2016-09-26,4200.0,3.0,34.8,clear
+451,Mustard,Sri Madhopur,2016-09-27,4210.0,0.7,34.6,clear
+452,Mustard,Sri Madhopur,2016-09-29,4265.0,24.5,36.0,clear
+453,Mustard,Sri Madhopur,2016-09-30,4050.0,9.3,36.6,clear
+454,Mustard,Sri Madhopur,2016-05-10,3900.0,5.9,31.4,clear
+455,Mustard,Sri Madhopur,2016-07-10,3935.0,7.2,30.0,clear
+456,Mustard,Sri Madhopur,2016-08-10,4010.0,5.5,26.8,clear
+457,Mustard,Surajgarh,2016-08-10,4050.0,2.0,26.8,clear
+458,Mustard,Sri Madhopur,2016-10-10,4012.0,14.1,25.2,clear
+459,Mustard,Sri Madhopur,2016-11-10,3750.0,0.9,20.2,clear
+460,Mustard,Sri Madhopur,2016-12-10,3950.0,12.0,13.6,clear
+461,Mustard,Sri Madhopur,2016-10-17,3950.0,1.8,25.0,clear
+462,Mustard,Sri Madhopur,2016-10-18,3907.0,2.7,32.0,clear
+463,Mustard,Sri Madhopur,2016-10-19,3850.0,2.4,26.0,clear
+464,Mustard,Surajgarh,2016-10-19,4050.0,2.0,26.0,clear
+465,Mustard,Sri Madhopur,2016-10-20,3875.0,6.6,25.6,clear
+466,Mustard,Surajgarh,2016-10-20,4050.0,1.0,25.6,clear
+467,Mustard,Sri Madhopur,2016-10-22,4055.0,11.7,24.6,clear
+468,Mustard,Sri Madhopur,2016-10-25,3925.0,7.5,30.2,clear
+469,Mustard,Surajgarh,2016-10-25,4000.0,2.0,30.2,clear
+470,Mustard,Sri Madhopur,2016-10-26,3975.0,10.9,31.0,clear
+471,Mustard,Surajgarh,2016-10-26,4000.0,2.0,31.0,clear
+472,Mustard,Sri Madhopur,2016-10-28,3900.0,7.7,30.8,clear
+473,Mustard,Sri Madhopur,2016-03-11,3930.0,15.7,21.4,clear
+474,Mustard,Surajgarh,2016-03-11,3950.0,2.0,21.4,clear
+475,Mustard,Sri Madhopur,2016-04-11,3975.0,8.9,35.4,clear
+476,Mustard,Sri Madhopur,2016-09-11,4100.0,3.7,27.2,clear
+477,Mustard,Sri Madhopur,2016-11-22,4037.0,3.7,25.6,clear
+478,Mustard,Sri Madhopur,2016-11-24,3850.0,6.4,26.4,clear
+479,Mustard,Sri Madhopur,2016-11-25,4125.0,7.0,25.6,clear
+480,Mustard,Sri Madhopur,2016-11-29,4125.0,1.3,27.0,clear
+481,Mustard,Sri Madhopur,2016-11-30,4136.0,5.7,16.0,clear
+482,Mustard,Sri Madhopur,2016-07-12,4120.0,11.7,31.0,clear
+483,Mustard,Sri Madhopur,2016-08-12,4125.0,3.9,30.2,clear
+484,Mustard,Sri Madhopur,2016-09-12,4125.0,2.3,31.2,clear
+485,Mustard,Sri Madhopur,2016-10-12,4030.0,0.5,31.6,clear
+486,Mustard,Sri Madhopur,2016-12-12,3950.0,3.5,25.2,clear
+487,Mustard,Sri Madhopur,2016-12-13,3975.0,12.8,16.6,clear
+488,Mustard,Sri Madhopur,2016-12-14,4018.0,5.9,24.0,clear
+489,Mustard,Sri Madhopur,2016-12-15,3945.0,9.2,22.2,clear
+490,Mustard,Sri Madhopur,2016-12-16,3875.0,8.3,23.0,clear
+491,Mustard,Sri Madhopur,2016-12-17,3900.0,3.5,23.4,clear
+492,Mustard,Sri Madhopur,2016-12-22,3700.0,6.0,23.2,clear
+493,Mustard,Sri Madhopur,2016-12-23,3650.0,0.7,25.0,clear
+494,Mustard,Sri Madhopur,2016-12-24,3550.0,0.1,23.4,clear
+495,Mustard,Sri Madhopur,2016-12-27,3700.0,1.2,8.0,clear
+496,Mustard,Sri Madhopur,2016-12-29,3800.0,5.3,10.0,clear
+497,Mustard,Surajgarh,2016-03-03,3550.0,1.0,16.2,clear
+498,Mustard,Surajgarh,2016-03-19,3600.0,0.9,24.0,clear
+499,Mustard,Surajgarh,2016-05-31,3838.0,5.0,34.2,clear
+500,Mustard,Surajgarh,2016-07-16,4250.0,10.0,27.0,clear
+501,Mustard,Surajgarh,2016-07-20,4350.0,9.0,35.6,clear
+502,Mustard,Surajgarh,2016-07-22,4387.0,14.0,30.0,clear
+503,Mustard,Surajgarh,2016-09-08,4350.0,2.0,31.4,clear
+504,Mustard,Surajgarh,2016-12-08,4200.0,2.0,25.2,clear
+505,Mustard,Surajgarh,2016-08-18,4325.0,6.0,27.0,clear
+506,Mustard,Surajgarh,2016-07-09,4250.0,4.0,31.0,clear
+507,Mustard,Surajgarh,2016-08-11,4050.0,2.0,28.8,clear
+508,Mustard,Surajgarh,2016-10-11,4000.0,1.0,25.2,clear
+509,Groundnut,Neem Ka Thana,2017-05-10,3650.0,0.9,40.0,clear
+510,Mustard,Sri Madhopur,2017-05-10,3365.0,29.4,40.0,clear
+511,Groundnut,Neem Ka Thana,2017-11-10,3950.0,1.7,27.0,clear
+512,Mustard,Sikar,2017-11-10,3400.0,11.7,27.0,clear
+513,Mustard,Sri Madhopur,2017-11-10,3337.0,5.4,27.0,clear
+514,Groundnut,Neem Ka Thana,2017-10-13,3700.0,0.4,34.0,clear
+515,Mustard,Sikar,2017-10-13,3375.0,7.1,34.0,clear
+516,Mustard,Sri Madhopur,2017-10-13,3215.0,2.6,34.0,clear
+517,Mustard,Surajgarh,2017-10-13,3390.0,5.0,34.0,clear
+518,Groundnut,Neem Ka Thana,2017-10-31,3380.0,0.8,30.0,clear
+519,Mustard,Sikar,2017-10-31,3425.0,13.3,30.0,clear
+520,Mustard,Sri Madhopur,2017-10-31,3325.0,4.0,30.0,clear
+521,Mustard,Surajgarh,2017-10-31,3480.0,10.4,30.0,clear
+522,Mustard,Fatehpur,2017-11-04,3300.0,1.3,29.8,clear
+523,Mustard,Neem Ka Thana,2017-11-04,3432.0,1.4,29.8,clear
+524,Mustard,Sikar,2017-11-04,3424.0,15.8,29.8,clear
+525,Mustard,Sri Madhopur,2017-11-04,3750.0,161.1,29.8,clear
+526,Mustard,Surajgarh,2017-11-04,3400.0,77.7,29.8,clear
+527,Mustard,Fatehpur,2017-04-13,3225.0,5.1,39.0,clear
+528,Mustard,Neem Ka Thana,2017-04-13,3440.0,3.9,39.0,clear
+529,Mustard,Sikar,2017-04-13,3382.0,18.4,39.0,clear
+530,Mustard,Sri Madhopur,2017-04-13,3300.0,124.7,39.0,clear
+531,Mustard,Surajgarh,2017-04-13,3415.0,40.0,39.0,clear
+532,Mustard,Fatehpur,2017-04-14,3225.0,4.2,40.2,clear
+533,Mustard,Neem Ka Thana,2017-04-14,3413.0,4.5,40.2,clear
+534,Mustard,Sikar,2017-04-14,3388.0,64.7,40.2,clear
+535,Mustard,Sri Madhopur,2017-04-14,3323.0,106.7,40.2,clear
+536,Mustard,Surajgarh,2017-04-14,3388.0,79.9,40.2,clear
+537,Mustard,Fatehpur,2017-04-15,3220.0,3.4,39.0,clear
+538,Mustard,Neem Ka Thana,2017-04-15,3460.0,19.2,39.0,clear
+539,Mustard,Sikar,2017-04-15,3360.0,28.1,39.0,clear
+540,Mustard,Sri Madhopur,2017-04-15,3387.0,118.5,39.0,clear
+541,Mustard,Surajgarh,2017-04-15,3400.0,46.4,39.0,clear
+542,Mustard,Fatehpur,2017-04-17,3175.0,4.7,40.2,clear
+543,Mustard,Neem Ka Thana,2017-04-17,3423.0,3.4,40.2,clear
+544,Mustard,Sikar,2017-04-17,3421.0,28.1,40.2,clear
+545,Mustard,Sri Madhopur,2017-04-17,3412.0,113.5,40.2,clear
+546,Mustard,Surajgarh,2017-04-17,3425.0,55.7,40.2,clear
+547,Mustard,Fatehpur,2017-04-18,3175.0,4.2,39.8,clear
+548,Mustard,Neem Ka Thana,2017-04-18,3380.0,2.0,39.8,clear
+549,Mustard,Sikar,2017-04-18,3400.0,28.7,39.8,clear
+550,Mustard,Sri Madhopur,2017-04-18,3330.0,204.7,39.8,clear
+551,Mustard,Surajgarh,2017-04-18,3400.0,56.3,39.8,clear
+552,Mustard,Fatehpur,2017-04-19,3225.0,5.9,30.2,clear
+553,Mustard,Neem Ka Thana,2017-04-19,3365.0,0.7,30.2,clear
+554,Mustard,Sikar,2017-04-19,3371.0,,30.2,clear
+555,Mustard,Sri Madhopur,2017-04-19,3376.0,54.7,30.2,clear
+556,Mustard,Surajgarh,2017-04-19,3403.0,78.0,30.2,clear
+557,Mustard,Fatehpur,2017-04-20,3225.0,5.1,31.6,clear
+558,Mustard,Neem Ka Thana,2017-04-20,3388.0,8.7,31.6,clear
+559,Mustard,Sikar,2017-04-20,3400.0,53.89,31.6,clear
+560,Mustard,Surajgarh,2017-04-20,3375.0,73.0,31.6,clear
+561,Mustard,Fatehpur,2017-04-21,3275.0,3.0,41.0,clear
+562,Mustard,Sikar,2017-04-21,3439.0,42.8,41.0,clear
+563,Mustard,Sri Madhopur,2017-04-21,3200.0,271.9,41.0,clear
+564,Mustard,Surajgarh,2017-04-21,3375.0,61.6,41.0,clear
+565,Mustard,Fatehpur,2017-04-22,3275.0,3.0,30.0,clear
+566,Mustard,Sikar,2017-04-22,3400.0,57.5,30.0,clear
+567,Mustard,Sri Madhopur,2017-04-22,3542.0,156.8,30.0,clear
+568,Mustard,Surajgarh,2017-04-22,3388.0,52.7,30.0,clear
+569,Mustard,Fatehpur,2017-04-24,3275.0,10.6,35.0,clear
+570,Mustard,Neem Ka Thana,2017-04-24,3236.0,2.2,35.0,clear
+571,Mustard,Sikar,2017-04-24,3325.0,57.5,35.0,clear
+572,Mustard,Sri Madhopur,2017-04-24,3225.0,143.5,35.0,clear
+573,Mustard,Surajgarh,2017-04-24,3375.0,42.5,35.0,clear
+574,Mustard,Fatehpur,2017-04-25,3325.0,9.8,34.6,clear
+575,Mustard,Neem Ka Thana,2017-04-25,3350.0,1.0,34.6,clear
+576,Mustard,Sikar,2017-04-25,3380.0,42.2,34.6,clear
+577,Mustard,Sri Madhopur,2017-04-25,3194.0,186.9,34.6,clear
+578,Mustard,Surajgarh,2017-04-25,3363.0,95.3,34.6,clear
+579,Mustard,Fatehpur,2017-04-26,3250.0,8.9,34.2,clear
+580,Mustard,Neem Ka Thana,2017-04-26,3363.0,3.9,34.2,clear
+581,Mustard,Sikar,2017-04-26,3425.0,69.4,34.2,clear
+582,Mustard,Sri Madhopur,2017-04-26,3215.0,131.9,34.2,clear
+583,Mustard,Fatehpur,2017-04-27,3225.0,7.6,36.0,clear
+584,Mustard,Neem Ka Thana,2017-04-27,3362.0,6.3,36.0,clear
+585,Mustard,Sikar,2017-04-27,3300.0,29.4,36.0,clear
+586,Mustard,Sri Madhopur,2017-04-27,3187.0,156.3,36.0,clear
+587,Mustard,Surajgarh,2017-04-27,3325.0,54.1,36.0,clear
+588,Mustard,Fatehpur,2017-04-28,3225.0,8.1,36.8,clear
+589,Mustard,Sikar,2017-04-28,3375.0,55.1,36.8,clear
+590,Mustard,Sri Madhopur,2017-04-28,3183.0,114.8,36.8,clear
+591,Mustard,Surajgarh,2017-04-28,3325.0,65.0,36.8,clear
+592,Mustard,Fatehpur,2017-04-29,3225.0,6.8,30.2,clear
+593,Mustard,Neem Ka Thana,2017-04-29,3350.0,2.7,30.2,clear
+594,Mustard,Sikar,2017-04-29,3405.0,26.9,30.2,clear
+595,Mustard,Sri Madhopur,2017-04-29,3187.0,132.5,30.2,clear
+596,Mustard,Surajgarh,2017-04-29,3325.0,48.2,30.2,clear
+597,Mustard,Fatehpur,2017-01-05,3225.0,4.7,23.0,clear
+598,Mustard,Neem Ka Thana,2017-01-05,3345.0,2.0,23.0,clear
+599,Mustard,Sikar,2017-01-05,3428.0,34.9,23.0,clear
+600,Mustard,Sri Madhopur,2017-01-05,3328.0,104.7,23.0,clear
+601,Mustard,Surajgarh,2017-01-05,3330.0,103.0,23.0,clear
+602,Mustard,Fatehpur,2017-02-05,3325.0,2.5,18.0,clear
+603,Mustard,Neem Ka Thana,2017-02-05,3344.0,2.1,18.0,clear
+604,Mustard,Sikar,2017-02-05,3374.0,49.6,18.0,clear
+605,Mustard,Sri Madhopur,2017-02-05,3220.0,153.9,18.0,clear
+606,Mustard,Surajgarh,2017-02-05,3335.0,114.0,18.0,clear
+607,Mustard,Fatehpur,2017-03-05,3275.0,5.2,12.0,clear
+608,Mustard,Sikar,2017-03-05,3371.0,11.1,12.0,clear
+609,Mustard,Sri Madhopur,2017-03-05,3500.0,74.1,12.0,clear
+610,Mustard,Surajgarh,2017-03-05,3345.0,45.0,12.0,clear
+611,Mustard,Fatehpur,2017-04-05,3225.0,7.9,36.4,clear
+612,Mustard,Sikar,2017-04-05,3353.0,23.7,36.4,clear
+613,Mustard,Sri Madhopur,2017-04-05,3225.0,133.8,36.4,clear
+614,Mustard,Surajgarh,2017-04-05,3305.0,81.1,36.4,clear
+615,Mustard,Fatehpur,2017-05-05,3200.0,2.1,39.4,clear
+616,Mustard,Neem Ka Thana,2017-05-05,3333.0,1.4,39.4,clear
+617,Mustard,Sikar,2017-05-05,3288.0,26.6,39.4,clear
+618,Mustard,Sri Madhopur,2017-05-05,3290.0,92.9,39.4,clear
+619,Mustard,Surajgarh,2017-05-05,3325.0,88.3,39.4,clear
+620,Mustard,Fatehpur,2017-08-05,3225.0,1.7,32.0,clear
+621,Mustard,Neem Ka Thana,2017-08-05,3350.0,1.8,32.0,clear
+622,Mustard,Sikar,2017-08-05,3359.0,32.0,32.0,clear
+623,Mustard,Sri Madhopur,2017-08-05,3245.0,111.6,32.0,clear
+624,Mustard,Surajgarh,2017-08-05,3330.0,100.3,32.0,clear
+625,Mustard,Fatehpur,2017-09-05,3225.0,3.1,32.0,clear
+626,Mustard,Neem Ka Thana,2017-09-05,3355.0,9.4,32.0,clear
+627,Mustard,Sikar,2017-09-05,3320.0,25.5,32.0,clear
+628,Mustard,Sri Madhopur,2017-09-05,3325.0,98.7,32.0,clear
+629,Mustard,Surajgarh,2017-09-05,3340.0,86.9,32.0,clear
+630,Mustard,Fatehpur,2017-10-05,3175.0,2.5,35.0,clear
+631,Mustard,Sikar,2017-10-05,3366.0,35.4,35.0,clear
+632,Mustard,Sri Madhopur,2017-10-05,3185.0,86.8,35.0,clear
+633,Mustard,Surajgarh,2017-10-05,3353.0,59.3,35.0,clear
+634,Mustard,Fatehpur,2017-11-05,3225.0,2.5,28.2,clear
+635,Mustard,Sikar,2017-11-05,3351.0,12.8,28.2,clear
+636,Mustard,Sri Madhopur,2017-11-05,3381.0,54.5,28.2,clear
+637,Mustard,Surajgarh,2017-11-05,3375.0,25.2,28.2,clear
+638,Mustard,Fatehpur,2017-12-05,3150.0,1.7,16.2,clear
+639,Mustard,Sikar,2017-12-05,3291.0,51.3,16.2,clear
+640,Mustard,Sri Madhopur,2017-12-05,3315.0,79.1,16.2,clear
+641,Mustard,Fatehpur,2017-05-13,3150.0,2.5,39.2,clear
+642,Mustard,Sikar,2017-05-13,3410.0,21.6,39.2,clear
+643,Mustard,Sri Madhopur,2017-05-13,3450.0,67.0,39.2,clear
+644,Mustard,Surajgarh,2017-05-13,3375.0,22.1,39.2,clear
+645,Mustard,Fatehpur,2017-05-16,3150.0,2.5,39.8,clear
+646,Mustard,Neem Ka Thana,2017-05-16,3354.0,0.3,39.8,clear
+647,Mustard,Sikar,2017-05-16,3325.0,27.3,39.8,clear
+648,Mustard,Sri Madhopur,2017-05-16,3416.0,110.9,39.8,clear
+649,Mustard,Surajgarh,2017-05-16,3385.0,52.5,39.8,clear
+650,Mustard,Fatehpur,2017-05-17,3160.0,2.1,39.4,clear
+651,Mustard,Sikar,2017-05-17,3375.0,28.2,39.4,clear
+652,Mustard,Sri Madhopur,2017-05-17,3475.0,93.3,39.4,clear
+653,Mustard,Surajgarh,2017-05-17,3375.0,8.5,39.4,clear
+654,Mustard,Fatehpur,2017-05-18,3180.0,1.7,36.0,clear
+655,Mustard,Sikar,2017-05-18,3495.0,32.5,36.0,clear
+656,Mustard,Sri Madhopur,2017-05-18,3284.0,108.4,36.0,clear
+657,Mustard,Surajgarh,2017-05-18,3415.0,17.6,36.0,clear
+658,Mustard,Fatehpur,2017-05-19,3120.0,1.3,35.0,clear
+659,Mustard,Sikar,2017-05-19,3300.0,11.2,35.0,clear
+660,Mustard,Sri Madhopur,2017-05-19,3368.0,90.3,35.0,clear
+661,Mustard,Surajgarh,2017-05-19,3403.0,17.1,35.0,clear
+662,Mustard,Fatehpur,2017-05-20,3180.0,1.7,39.0,clear
+663,Mustard,Sikar,2017-05-20,3600.0,21.4,39.0,clear
+664,Mustard,Sri Madhopur,2017-05-20,3365.0,51.2,39.0,clear
+665,Mustard,Surajgarh,2017-05-20,3375.0,2.5,39.0,clear
+666,Mustard,Fatehpur,2017-05-22,3150.0,1.7,32.0,clear
+667,Mustard,Sikar,2017-05-22,3358.0,13.6,32.0,clear
+668,Mustard,Sri Madhopur,2017-05-22,3587.0,98.2,32.0,clear
+669,Mustard,Surajgarh,2017-05-22,3363.0,2.2,32.0,clear
+670,Mustard,Fatehpur,2017-05-23,3160.0,2.5,38.0,clear
+671,Mustard,Sikar,2017-05-23,3363.0,15.7,38.0,clear
+672,Mustard,Surajgarh,2017-05-23,3350.0,2.5,38.0,clear
+673,Mustard,Fatehpur,2017-05-24,3140.0,2.1,32.0,clear
+674,Mustard,Sikar,2017-05-24,3346.0,10.8,32.0,clear
+675,Mustard,Sri Madhopur,2017-05-24,3200.0,83.4,32.0,clear
+676,Mustard,Surajgarh,2017-05-24,3300.0,26.6,32.0,clear
+677,Mustard,Fatehpur,2017-05-27,3200.0,1.9,34.0,clear
+678,Mustard,Neem Ka Thana,2017-05-27,3323.0,6.9,34.0,clear
+679,Mustard,Sikar,2017-05-27,3250.0,17.7,34.0,clear
+680,Mustard,Sri Madhopur,2017-05-27,3108.0,72.6,34.0,clear
+681,Mustard,Surajgarh,2017-05-27,3275.0,24.2,34.0,clear
+682,Mustard,Fatehpur,2017-05-29,3200.0,2.1,26.0,clear
+683,Mustard,Sikar,2017-05-29,3300.0,23.2,26.0,clear
+684,Mustard,Sri Madhopur,2017-05-29,3250.0,49.8,26.0,clear
+685,Mustard,Surajgarh,2017-05-29,3300.0,1.5,26.0,clear
+686,Mustard,Fatehpur,2017-05-30,3150.0,1.7,31.0,clear
+687,Mustard,Neem Ka Thana,2017-05-30,3275.0,0.3,31.0,clear
+688,Mustard,Sikar,2017-05-30,3270.0,1.3,31.0,clear
+689,Mustard,Sri Madhopur,2017-05-30,3148.0,60.6,31.0,clear
+690,Mustard,Surajgarh,2017-05-30,3300.0,6.3,31.0,clear
+691,Mustard,Fatehpur,2017-01-06,3100.0,1.3,11.0,clear
+692,Mustard,Sri Madhopur,2017-01-06,3264.0,38.2,11.0,clear
+693,Mustard,Fatehpur,2017-06-15,3250.0,1.7,32.2,clear
+694,Mustard,Neem Ka Thana,2017-06-15,3261.0,0.5,32.2,clear
+695,Mustard,Sikar,2017-06-15,3205.0,1.4,32.2,clear
+696,Mustard,Sri Madhopur,2017-06-15,3165.0,95.0,32.2,clear
+697,Mustard,Surajgarh,2017-06-15,3300.0,6.7,32.2,clear
+698,Mustard,Fatehpur,2017-06-16,3250.0,0.6,39.2,clear
+699,Mustard,Neem Ka Thana,2017-06-16,3280.0,0.5,39.2,clear
+700,Mustard,Sikar,2017-06-16,3300.0,23.4,39.2,clear
+701,Mustard,Sri Madhopur,2017-06-16,3145.0,41.4,39.2,clear
+702,Mustard,Surajgarh,2017-06-16,3200.0,2.0,39.2,clear
+703,Mustard,Fatehpur,2017-06-19,3200.0,0.8,38.0,clear
+704,Mustard,Sikar,2017-06-19,3251.0,7.2,38.0,clear
+705,Mustard,Sri Madhopur,2017-06-19,3245.0,33.8,38.0,clear
+706,Mustard,Surajgarh,2017-06-19,3250.0,1.0,38.0,clear
+707,Mustard,Fatehpur,2017-08-19,3000.0,3.0,31.0,clear
+708,Mustard,Sikar,2017-08-19,3350.0,12.5,31.0,clear
+709,Mustard,Neem Ka Thana,2017-03-23,3449.0,1.0,34.6,clear
+710,Mustard,Sikar,2017-03-23,3909.0,2.0,34.6,clear
+711,Mustard,Sri Madhopur,2017-03-23,3510.0,69.4,34.6,clear
+712,Mustard,Neem Ka Thana,2017-03-24,3495.0,0.9,32.6,clear
+713,Mustard,Sikar,2017-03-24,3566.0,5.6,32.6,clear
+714,Mustard,Surajgarh,2017-03-24,3500.0,1.0,32.6,clear
+715,Mustard,Neem Ka Thana,2017-03-25,3650.0,28.1,33.8,clear
+716,Mustard,Sikar,2017-03-25,3747.0,7.6,33.8,clear
+717,Mustard,Sri Madhopur,2017-03-25,3443.0,116.2,33.8,clear
+718,Mustard,Neem Ka Thana,2017-03-27,3537.0,19.0,36.0,clear
+719,Mustard,Sikar,2017-03-27,3680.0,14.1,36.0,clear
+720,Mustard,Sri Madhopur,2017-03-27,3475.0,103.0,36.0,clear
+721,Mustard,Neem Ka Thana,2017-12-04,3425.0,4.5,11.4,clear
+722,Mustard,Sikar,2017-12-04,3406.0,17.8,11.4,clear
+723,Mustard,Sri Madhopur,2017-12-04,3650.0,109.4,11.4,clear
+724,Mustard,Surajgarh,2017-12-04,3415.0,69.9,11.4,clear
+725,Mustard,Neem Ka Thana,2017-05-15,3374.0,0.7,39.6,clear
+726,Mustard,Sikar,2017-05-15,3463.0,24.4,39.6,clear
+727,Mustard,Sri Madhopur,2017-05-15,3325.0,111.7,39.6,clear
+728,Mustard,Surajgarh,2017-05-15,3390.0,13.0,39.6,clear
+729,Mustard,Neem Ka Thana,2017-05-06,3200.0,0.2,40.6,clear
+730,Mustard,Sikar,2017-05-06,3311.0,18.3,40.6,clear
+731,Mustard,Sri Madhopur,2017-05-06,3225.0,12.8,40.6,clear
+732,Mustard,Neem Ka Thana,2017-06-06,3200.0,0.1,32.0,clear
+733,Mustard,Sikar,2017-06-06,3296.0,15.7,32.0,clear
+734,Mustard,Sri Madhopur,2017-06-06,3225.0,11.3,32.0,clear
+735,Mustard,Surajgarh,2017-06-06,3200.0,1.5,32.0,clear
+736,Mustard,Neem Ka Thana,2017-12-06,3236.0,0.1,12.0,clear
+737,Mustard,Sikar,2017-12-06,3250.0,32.0,12.0,clear
+738,Mustard,Sri Madhopur,2017-12-06,3180.0,27.3,12.0,clear
+739,Mustard,Surajgarh,2017-12-06,3200.0,1.5,12.0,clear
+740,Mustard,Neem Ka Thana,2017-06-17,3300.0,0.2,37.2,clear
+741,Mustard,Sikar,2017-06-17,3275.0,17.0,37.2,clear
+742,Mustard,Surajgarh,2017-06-17,3250.0,6.0,37.2,clear
+743,Mustard,Neem Ka Thana,2017-06-28,3250.0,4.7,27.6,clear
+744,Mustard,Sikar,2017-06-28,3281.0,0.8,27.6,clear
+745,Mustard,Neem Ka Thana,2017-06-29,3270.0,0.2,30.0,clear
+746,Mustard,Neem Ka Thana,2017-04-07,3500.0,2.1,30.0,clear
+747,Mustard,Sikar,2017-04-07,3288.0,15.7,30.0,clear
+748,Mustard,Sikar,2017-01-24,3800.0,4.2,25.4,clear
+749,Mustard,Sri Madhopur,2017-01-24,3600.0,0.3,25.4,clear
+750,Mustard,Sikar,2017-01-02,3625.0,1.7,20.6,clear
+751,Mustard,Sri Madhopur,2017-01-02,3450.0,1.4,20.6,clear
+752,Mustard,Sikar,2017-04-02,3825.0,0.8,37.0,clear
+753,Mustard,Sri Madhopur,2017-04-02,3457.0,0.6,37.0,clear
+754,Mustard,Sikar,2017-08-02,3550.0,15.0,28.6,clear
+755,Mustard,Sikar,2017-02-16,3550.0,2.0,27.0,clear
+756,Mustard,Sri Madhopur,2017-02-16,3250.0,3.4,27.0,clear
+757,Mustard,Sikar,2017-02-20,3511.0,2.6,27.0,clear
+758,Mustard,Sri Madhopur,2017-02-20,3365.0,1.0,27.0,clear
+759,Mustard,Sikar,2017-02-23,3400.0,2.3,24.4,clear
+760,Mustard,Sri Madhopur,2017-02-23,3298.0,0.8,24.4,clear
+761,Mustard,Sikar,2017-02-24,3166.0,0.3,24.4,clear
+762,Mustard,Sri Madhopur,2017-02-24,2800.0,0.2,24.4,clear
+763,Mustard,Sikar,2017-01-03,3445.0,6.1,21.4,clear
+764,Mustard,Sikar,2017-04-03,3564.0,1.0,29.8,clear
+765,Mustard,Sri Madhopur,2017-04-03,3341.0,1.0,29.8,clear
+766,Mustard,Sikar,2017-08-03,3475.0,2.0,29.0,clear
+767,Mustard,Sri Madhopur,2017-08-03,3213.0,3.7,29.0,clear
+768,Mustard,Sikar,2017-10-03,3573.0,2.0,35.2,clear
+769,Mustard,Sri Madhopur,2017-10-03,3151.0,3.5,35.2,clear
+770,Mustard,Sikar,2017-11-03,3511.0,0.3,29.0,clear
+771,Mustard,Sri Madhopur,2017-11-03,3120.0,2.4,29.0,clear
+772,Mustard,Sikar,2017-03-15,3361.0,1.7,29.2,clear
+773,Mustard,Sri Madhopur,2017-03-15,3120.0,2.4,29.2,clear
+774,Mustard,Sikar,2017-03-16,3513.0,4.1,24.6,clear
+775,Mustard,Sri Madhopur,2017-03-16,3235.0,7.2,24.6,clear
+776,Mustard,Sikar,2017-03-17,3353.0,4.3,25.6,clear
+777,Mustard,Sri Madhopur,2017-03-17,3207.0,6.3,25.6,clear
+778,Mustard,Sikar,2017-03-18,3515.0,3.8,29.4,clear
+779,Mustard,Sri Madhopur,2017-03-18,3125.0,15.4,29.4,clear
+780,Mustard,Sikar,2017-03-21,3525.0,6.8,32.6,clear
+781,Mustard,Sri Madhopur,2017-03-21,3410.0,28.7,32.6,clear
+782,Mustard,Sikar,2017-03-22,3654.0,4.5,34.6,clear
+783,Mustard,Sri Madhopur,2017-03-22,3425.0,53.6,34.6,clear
+784,Mustard,Sikar,2017-03-30,3476.0,25.8,25.0,clear
+785,Mustard,Sri Madhopur,2017-03-30,3372.0,126.8,25.0,clear
+786,Mustard,Surajgarh,2017-03-30,3513.0,15.3,25.0,clear
+787,Mustard,Sikar,2017-01-04,3651.0,19.0,23.0,clear
+788,Mustard,Sri Madhopur,2017-01-04,3400.0,54.8,23.0,clear
+789,Mustard,Surajgarh,2017-01-04,3450.0,25.8,23.0,clear
+790,Mustard,Sikar,2017-03-04,3875.0,33.1,25.0,clear
+791,Mustard,Sri Madhopur,2017-03-04,3421.0,100.5,25.0,clear
+792,Mustard,Surajgarh,2017-03-04,3475.0,29.6,25.0,clear
+793,Mustard,Sikar,2017-04-04,4225.0,21.5,36.4,clear
+794,Mustard,Sri Madhopur,2017-04-04,3675.0,99.7,36.4,clear
+795,Mustard,Surajgarh,2017-04-04,3450.0,24.3,36.4,clear
+796,Mustard,Sikar,2017-05-04,3475.0,6.0,37.2,clear
+797,Mustard,Sri Madhopur,2017-05-04,3625.0,89.1,37.2,clear
+798,Mustard,Surajgarh,2017-05-04,3400.0,5.0,37.2,clear
+799,Mustard,Sikar,2017-06-04,3861.0,3.8,41.6,clear
+800,Mustard,Sri Madhopur,2017-06-04,3725.0,104.6,41.6,clear
+801,Mustard,Surajgarh,2017-06-04,3475.0,17.6,41.6,clear
+802,Mustard,Sikar,2017-07-04,3741.0,28.9,33.0,clear
+803,Mustard,Sri Madhopur,2017-07-04,3397.0,94.8,33.0,clear
+804,Mustard,Surajgarh,2017-07-04,3425.0,27.5,33.0,clear
+805,Mustard,Sikar,2017-08-04,3350.0,7.5,25.2,clear
+806,Mustard,Sri Madhopur,2017-08-04,3575.0,101.7,25.2,clear
+807,Mustard,Surajgarh,2017-08-04,3413.0,60.4,25.2,clear
+808,Mustard,Sikar,2017-10-04,3765.0,21.5,35.2,clear
+809,Mustard,Sri Madhopur,2017-10-04,3550.0,114.5,35.2,clear
+810,Mustard,Surajgarh,2017-10-04,3415.0,47.3,35.2,clear
+811,Mustard,Sikar,2017-06-05,3323.0,41.0,40.0,clear
+812,Mustard,Sri Madhopur,2017-06-05,3276.0,127.6,40.0,clear
+813,Mustard,Surajgarh,2017-06-05,3335.0,35.0,40.0,clear
+814,Mustard,Sikar,2017-02-06,3331.0,15.9,19.2,clear
+815,Mustard,Sri Madhopur,2017-02-06,3235.0,32.3,19.2,clear
+816,Mustard,Surajgarh,2017-02-06,3300.0,18.4,19.2,clear
+817,Mustard,Sikar,2017-03-06,3313.0,5.8,27.6,clear
+818,Mustard,Sri Madhopur,2017-03-06,3257.0,45.1,27.6,clear
+819,Mustard,Sikar,2017-08-06,3275.0,15.3,34.6,clear
+820,Mustard,Sri Madhopur,2017-08-06,3267.0,18.3,34.6,clear
+821,Mustard,Surajgarh,2017-08-06,3200.0,2.0,34.6,clear
+822,Mustard,Sikar,2017-09-06,3205.0,1.4,29.4,clear
+823,Mustard,Sri Madhopur,2017-09-06,3170.0,37.6,29.4,clear
+824,Mustard,Surajgarh,2017-09-06,3200.0,2.0,29.4,clear
+825,Mustard,Sikar,2017-10-06,3323.0,8.9,34.8,clear
+826,Mustard,Sri Madhopur,2017-10-06,3147.0,30.4,34.8,clear
+827,Mustard,Surajgarh,2017-10-06,3200.0,2.0,34.8,clear
+828,Mustard,Sikar,2017-06-13,3295.0,18.5,38.0,clear
+829,Mustard,Sri Madhopur,2017-06-13,3147.0,52.8,38.0,clear
+830,Mustard,Surajgarh,2017-06-13,3275.0,14.1,38.0,clear
+831,Mustard,Sikar,2017-06-14,3321.0,1.4,39.6,clear
+832,Mustard,Surajgarh,2017-06-14,3275.0,16.7,39.6,clear
+833,Mustard,Sikar,2017-06-20,3275.0,12.8,36.2,clear
+834,Mustard,Sri Madhopur,2017-06-20,3125.0,32.9,36.2,clear
+835,Mustard,Surajgarh,2017-06-20,3200.0,1.0,36.2,clear
+836,Mustard,Sikar,2017-06-21,3250.0,7.4,33.6,clear
+837,Mustard,Sri Madhopur,2017-06-21,3145.0,20.4,33.6,clear
+838,Mustard,Surajgarh,2017-06-21,3250.0,1.0,33.6,clear
+839,Mustard,Sikar,2017-06-22,3261.0,22.4,34.0,clear
+840,Mustard,Sri Madhopur,2017-06-22,3215.0,12.5,34.0,clear
+841,Mustard,Surajgarh,2017-06-22,3150.0,2.0,34.0,clear
+842,Mustard,Sikar,2017-06-23,3250.0,1.4,30.2,clear
+843,Mustard,Surajgarh,2017-06-23,3250.0,1.5,30.2,clear
+844,Mustard,Sikar,2017-06-24,3186.0,21.3,37.2,clear
+845,Mustard,Surajgarh,2017-06-24,3200.0,1.5,37.2,clear
+846,Mustard,Sikar,2017-06-26,3253.0,13.4,38.4,clear
+847,Mustard,Sikar,2017-06-27,3281.0,12.8,32.8,clear
+848,Mustard,Sikar,2017-05-07,3291.0,2.0,34.0,clear
+849,Mustard,Sikar,2017-10-07,3331.0,11.7,35.0,clear
+850,Mustard,Sri Madhopur,2017-10-07,3180.0,5.0,35.0,clear
+851,Mustard,Sikar,2017-12-07,3325.0,11.1,21.0,clear
+852,Mustard,Sri Madhopur,2017-12-07,3259.0,20.9,21.0,clear
+853,Mustard,Sikar,2017-07-14,3345.0,24.2,32.8,clear
+854,Mustard,Sri Madhopur,2017-07-14,3250.0,13.5,32.8,clear
+855,Mustard,Sikar,2017-07-15,3300.0,13.1,34.8,clear
+856,Mustard,Sri Madhopur,2017-07-15,3282.0,20.6,34.8,clear
+857,Mustard,Sikar,2017-07-18,3375.0,24.1,31.2,clear
+858,Mustard,Sri Madhopur,2017-07-18,3330.0,8.3,31.2,clear
+859,Mustard,Sikar,2017-07-19,3363.0,20.1,31.0,clear
+860,Mustard,Sri Madhopur,2017-07-19,3350.0,7.4,31.0,clear
+861,Mustard,Surajgarh,2017-07-19,3350.0,5.0,31.0,clear
+862,Mustard,Sikar,2017-07-20,3250.0,9.2,29.8,clear
+863,Mustard,Sri Madhopur,2017-07-20,3312.0,15.2,29.8,clear
+864,Mustard,Surajgarh,2017-07-20,3355.0,5.6,29.8,clear
+865,Mustard,Sikar,2017-07-24,3305.0,27.8,29.8,clear
+866,Mustard,Sri Madhopur,2017-07-24,3307.0,11.6,29.8,clear
+867,Mustard,Surajgarh,2017-07-24,3328.0,13.3,29.8,clear
+868,Mustard,Sikar,2017-07-25,3310.0,13.4,28.8,clear
+869,Mustard,Sri Madhopur,2017-07-25,3270.0,15.4,28.8,clear
+870,Mustard,Surajgarh,2017-07-25,3330.0,7.5,28.8,clear
+871,Mustard,Sikar,2017-07-27,3348.0,20.5,31.0,clear
+872,Mustard,Sri Madhopur,2017-07-27,3308.0,19.9,31.0,clear
+873,Mustard,Surajgarh,2017-07-27,3320.0,3.7,31.0,clear
+874,Mustard,Sikar,2017-07-28,3300.0,25.2,33.0,clear
+875,Mustard,Sri Madhopur,2017-07-28,3335.0,10.6,33.0,clear
+876,Mustard,Surajgarh,2017-07-28,3343.0,6.5,33.0,clear
+877,Mustard,Sikar,2017-01-08,3350.0,12.8,18.8,clear
+878,Mustard,Sri Madhopur,2017-01-08,3325.0,0.4,18.8,clear
+879,Mustard,Sikar,2017-02-08,3363.0,12.8,22.0,clear
+880,Mustard,Sri Madhopur,2017-02-08,3326.0,14.0,22.0,clear
+881,Mustard,Surajgarh,2017-02-08,3305.0,13.6,22.0,clear
+882,Mustard,Sikar,2017-03-08,3363.0,13.3,24.6,clear
+883,Mustard,Sri Madhopur,2017-03-08,3290.0,15.1,24.6,clear
+884,Mustard,Surajgarh,2017-03-08,3340.0,4.9,24.6,clear
+885,Mustard,Sikar,2017-04-08,3300.0,9.4,31.0,clear
+886,Mustard,Surajgarh,2017-04-08,3375.0,9.8,31.0,clear
+887,Mustard,Sikar,2017-05-08,3346.0,25.2,33.0,clear
+888,Mustard,Sri Madhopur,2017-05-08,3235.0,22.4,33.0,clear
+889,Mustard,Sikar,2017-08-08,3413.0,11.6,31.0,clear
+890,Mustard,Sri Madhopur,2017-08-08,3311.0,2.5,31.0,clear
+891,Mustard,Sikar,2017-09-08,3325.0,11.5,27.2,clear
+892,Mustard,Sri Madhopur,2017-09-08,3316.0,14.3,27.2,clear
+893,Mustard,Surajgarh,2017-09-08,3343.0,23.7,27.2,clear
+894,Mustard,Sikar,2017-10-08,3393.0,4.5,34.6,clear
+895,Mustard,Sri Madhopur,2017-10-08,3323.0,9.7,34.6,clear
+896,Mustard,Surajgarh,2017-10-08,3300.0,1.5,34.6,clear
+897,Mustard,Sikar,2017-11-08,3348.0,12.8,27.2,clear
+898,Mustard,Sri Madhopur,2017-11-08,3325.0,20.9,27.2,clear
+899,Mustard,Sikar,2017-08-14,3361.0,26.4,32.8,clear
+900,Mustard,Sri Madhopur,2017-08-14,3337.0,13.1,32.8,clear
+901,Mustard,Sikar,2017-08-15,3343.0,20.0,32.6,clear
+902,Mustard,Sri Madhopur,2017-08-15,3338.0,18.5,32.6,clear
+903,Mustard,Surajgarh,2017-08-15,3380.0,4.2,32.6,clear
+904,Mustard,Sikar,2017-08-16,3325.0,10.5,27.4,clear
+905,Mustard,Sikar,2017-08-17,3450.0,3.1,34.6,clear
+906,Mustard,Sri Madhopur,2017-08-17,3318.0,10.1,34.6,clear
+907,Mustard,Surajgarh,2017-08-17,3400.0,13.6,34.6,clear
+908,Mustard,Sikar,2017-08-21,3350.0,9.8,35.2,clear
+909,Mustard,Surajgarh,2017-08-21,3425.0,5.7,35.2,clear
+910,Mustard,Sikar,2017-08-23,1350.0,9.2,29.8,clear
+911,Mustard,Surajgarh,2017-08-23,3425.0,8.2,29.8,clear
+912,Mustard,Sikar,2017-08-24,3426.0,6.0,33.0,clear
+913,Mustard,Sri Madhopur,2017-08-24,3430.0,3.7,33.0,clear
+914,Mustard,Surajgarh,2017-08-24,3475.0,9.9,33.0,clear
+915,Mustard,Sikar,2017-08-26,3451.0,2.5,25.6,clear
+916,Mustard,Sri Madhopur,2017-08-26,3450.0,14.9,25.6,clear
+917,Mustard,Surajgarh,2017-08-26,3450.0,2.9,25.6,clear
+918,Mustard,Sikar,2017-08-30,3451.0,1.0,26.8,clear
+919,Mustard,Sri Madhopur,2017-08-30,3400.0,6.8,26.8,clear
+920,Mustard,Surajgarh,2017-08-30,3450.0,3.4,26.8,clear
+921,Mustard,Sikar,2017-08-31,3451.0,1.6,26.6,clear
+922,Mustard,Sikar,2017-02-09,3341.0,6.5,19.0,clear
+923,Mustard,Sikar,2017-04-09,3451.0,1.5,30.4,clear
+924,Mustard,Surajgarh,2017-04-09,3470.0,16.2,30.4,clear
+925,Mustard,Sikar,2017-09-09,3400.0,16.3,32.0,clear
+926,Mustard,Sikar,2017-09-18,3413.0,13.9,35.0,clear
+927,Mustard,Sikar,2017-09-20,3468.0,2.9,35.0,clear
+928,Mustard,Sikar,2017-09-23,3440.0,12.2,34.0,clear
+929,Mustard,Sri Madhopur,2017-09-23,3360.0,10.4,34.0,clear
+930,Mustard,Sikar,2017-09-25,4138.0,4.5,34.2,clear
+931,Mustard,Sri Madhopur,2017-09-25,3206.0,15.1,34.2,clear
+932,Mustard,Sikar,2017-09-26,4245.0,8.7,34.4,clear
+933,Mustard,Sri Madhopur,2017-09-26,3342.0,31.3,34.4,clear
+934,Mustard,Sikar,2017-09-29,3400.0,26.5,34.0,clear
+935,Mustard,Sri Madhopur,2017-09-29,3375.0,12.3,34.0,clear
+936,Mustard,Sikar,2017-02-10,3395.0,4.7,20.2,clear
+937,Mustard,Sri Madhopur,2017-02-10,3325.0,14.5,20.2,clear
+938,Mustard,Sikar,2017-03-10,3400.0,10.7,18.0,clear
+939,Mustard,Sri Madhopur,2017-03-10,3350.0,12.4,18.0,clear
+940,Mustard,Sikar,2017-04-10,3425.0,12.8,32.8,clear
+941,Mustard,Sri Madhopur,2017-04-10,3425.0,24.1,32.8,clear
+942,Mustard,Sikar,2017-09-10,3400.0,10.3,35.0,clear
+943,Mustard,Sri Madhopur,2017-09-10,3285.0,10.7,35.0,clear
+944,Mustard,Surajgarh,2017-09-10,3380.0,16.9,35.0,clear
+945,Mustard,Sikar,2017-10-10,3425.0,15.0,34.6,clear
+946,Mustard,Sri Madhopur,2017-10-10,3342.0,4.4,34.6,clear
+947,Mustard,Sikar,2017-12-10,3400.0,4.7,16.4,clear
+948,Mustard,Sri Madhopur,2017-12-10,3337.0,11.5,16.4,clear
+949,Mustard,Surajgarh,2017-12-10,3415.0,21.2,16.4,clear
+950,Mustard,Sikar,2017-10-14,3375.0,12.8,34.0,clear
+951,Mustard,Sri Madhopur,2017-10-14,3315.0,9.9,34.0,clear
+952,Mustard,Surajgarh,2017-10-14,3375.0,5.0,34.0,clear
+953,Mustard,Sikar,2017-10-16,3330.0,27.6,34.6,clear
+954,Mustard,Sri Madhopur,2017-10-16,3250.0,4.3,34.6,clear
+955,Mustard,Surajgarh,2017-10-16,3400.0,1.0,34.6,clear
+956,Mustard,Sikar,2017-10-17,3440.0,2.7,33.6,clear
+957,Mustard,Sri Madhopur,2017-10-17,3287.0,3.6,33.6,clear
+958,Mustard,Sikar,2017-10-18,3470.0,2.3,33.0,clear
+959,Mustard,Sri Madhopur,2017-10-18,3325.0,0.9,33.0,clear
+960,Mustard,Surajgarh,2017-10-18,3400.0,2.9,33.0,clear
+961,Mustard,Sikar,2017-10-21,3361.0,23.0,33.0,clear
+962,Mustard,Surajgarh,2017-10-21,3395.0,16.9,33.0,clear
+963,Mustard,Sikar,2017-10-24,3400.0,9.4,32.6,clear
+964,Mustard,Sri Madhopur,2017-10-24,3325.0,5.4,32.6,clear
+965,Mustard,Surajgarh,2017-10-24,3413.0,31.3,32.6,clear
+966,Mustard,Sikar,2017-10-26,3473.0,29.3,32.0,clear
+967,Mustard,Sri Madhopur,2017-10-26,3335.0,9.6,32.0,clear
+968,Mustard,Surajgarh,2017-10-26,3450.0,42.9,32.0,clear
+969,Mustard,Sikar,2017-10-27,3346.0,12.5,31.0,clear
+970,Mustard,Sri Madhopur,2017-10-27,3355.0,12.5,31.0,clear
+971,Mustard,Surajgarh,2017-10-27,3475.0,9.7,31.0,clear
+972,Mustard,Sikar,2017-10-28,3600.0,1.4,19.8,clear
+973,Mustard,Sri Madhopur,2017-10-28,3357.0,8.0,19.8,clear
+974,Mustard,Surajgarh,2017-10-28,3455.0,11.3,19.8,clear
+975,Mustard,Sikar,2017-10-30,3463.0,15.0,29.8,clear
+976,Mustard,Sri Madhopur,2017-10-30,3355.0,7.7,29.8,clear
+977,Mustard,Surajgarh,2017-10-30,3465.0,11.0,29.8,clear
+978,Mustard,Sikar,2017-01-11,3425.0,8.9,14.0,clear
+979,Mustard,Sri Madhopur,2017-01-11,3350.0,1.7,14.0,clear
+980,Mustard,Sikar,2017-02-11,3425.0,4.0,20.8,clear
+981,Mustard,Sri Madhopur,2017-02-11,3312.0,8.2,20.8,clear
+982,Mustard,Surajgarh,2017-02-11,3440.0,13.9,20.8,clear
+983,Mustard,Sri Madhopur,2017-02-01,3662.0,6.5,20.2,clear
+984,Mustard,Sri Madhopur,2017-04-01,3587.0,1.1,36.4,clear
+985,Mustard,Sri Madhopur,2017-05-01,3550.0,9.9,37.0,clear
+986,Mustard,Sri Madhopur,2017-06-01,3550.0,7.4,32.0,clear
+987,Mustard,Sri Madhopur,2017-07-01,3600.0,0.4,27.4,clear
+988,Mustard,Sri Madhopur,2017-09-01,3650.0,1.1,25.0,clear
+989,Mustard,Sri Madhopur,2017-10-01,3400.0,0.4,35.2,clear
+990,Mustard,Sri Madhopur,2017-11-01,3650.0,8.4,30.0,clear
+991,Mustard,Sri Madhopur,2017-12-01,3580.0,0.5,23.0,clear
+992,Mustard,Sri Madhopur,2017-01-13,3550.0,4.2,17.0,clear
+993,Mustard,Sri Madhopur,2017-01-16,3600.0,2.7,15.0,clear
+994,Mustard,Sri Madhopur,2017-01-17,3550.0,0.9,15.0,clear
+995,Mustard,Sri Madhopur,2017-01-18,3450.0,3.1,8.8,clear
+996,Mustard,Sri Madhopur,2017-01-19,3550.0,1.8,17.0,clear
+997,Mustard,Sri Madhopur,2017-01-20,3575.0,2.0,8.0,clear
+998,Mustard,Sri Madhopur,2017-01-21,3570.0,0.6,19.0,clear
+999,Mustard,Sri Madhopur,2017-01-23,3550.0,1.2,24.0,clear
+1000,Mustard,Sri Madhopur,2017-01-25,3600.0,1.0,24.2,clear
+1001,Mustard,Sri Madhopur,2017-01-27,3550.0,2.2,15.6,clear
+1002,Mustard,Sri Madhopur,2017-01-28,3550.0,0.1,19.2,clear
+1003,Mustard,Sri Madhopur,2017-01-31,3550.0,0.5,20.6,clear
+1004,Mustard,Sri Madhopur,2017-02-02,3325.0,0.5,22.6,clear
+1005,Mustard,Sri Madhopur,2017-03-02,3352.0,9.1,26.6,clear
+1006,Mustard,Sri Madhopur,2017-07-02,3440.0,1.0,27.6,clear
+1007,Mustard,Sri Madhopur,2017-09-02,3400.0,5.6,29.0,clear
+1008,Mustard,Sri Madhopur,2017-10-02,3477.0,2.1,35.2,clear
+1009,Mustard,Sri Madhopur,2017-11-02,3500.0,2.8,29.2,clear
+1010,Mustard,Sri Madhopur,2017-02-14,3450.0,5.5,7.4,clear
+1011,Mustard,Sri Madhopur,2017-02-15,3500.0,1.6,11.6,clear
+1012,Mustard,Sri Madhopur,2017-02-17,3385.0,2.2,25.4,clear
+1013,Mustard,Sri Madhopur,2017-02-21,3360.0,3.0,24.6,clear
+1014,Mustard,Sri Madhopur,2017-02-25,3155.0,10.0,27.4,clear
+1015,Mustard,Sri Madhopur,2017-02-27,3225.0,0.7,17.2,clear
+1016,Mustard,Sri Madhopur,2017-02-28,3300.0,0.4,29.6,clear
+1017,Mustard,Sri Madhopur,2017-03-03,3255.0,5.8,26.6,clear
+1018,Mustard,Sri Madhopur,2017-07-03,3137.0,2.4,33.0,clear
+1019,Mustard,Sri Madhopur,2017-09-03,3100.0,1.6,25.0,clear
+1020,Mustard,Sri Madhopur,2017-03-14,3227.0,1.3,25.0,clear
+1021,Mustard,Sri Madhopur,2017-03-20,3125.0,12.8,29.6,clear
+1022,Mustard,Sri Madhopur,2017-03-28,3238.0,90.2,38.4,clear
+1023,Mustard,Surajgarh,2017-03-28,3190.0,21.1,38.4,clear
+1024,Mustard,Sri Madhopur,2017-03-29,3725.0,127.1,38.0,clear
+1025,Mustard,Surajgarh,2017-03-29,3300.0,21.7,38.0,clear
+1026,Mustard,Sri Madhopur,2017-03-31,3327.0,92.0,37.0,clear
+1027,Mustard,Surajgarh,2017-03-31,3400.0,63.8,37.0,clear
+1028,Mustard,Sri Madhopur,2017-05-31,3077.0,25.6,31.4,clear
+1029,Mustard,Surajgarh,2017-05-31,3300.0,1.5,31.4,clear
+1030,Mustard,Sri Madhopur,2017-07-06,3245.0,44.9,33.8,clear
+1031,Mustard,Surajgarh,2017-07-06,3275.0,23.0,33.8,clear
+1032,Mustard,Sri Madhopur,2017-07-07,3250.0,9.2,35.0,clear
+1033,Mustard,Sri Madhopur,2017-08-07,3150.0,16.1,33.8,clear
+1034,Mustard,Surajgarh,2017-08-07,3250.0,1.0,33.8,clear
+1035,Mustard,Sri Madhopur,2017-11-07,3154.0,15.9,16.6,clear
+1036,Mustard,Surajgarh,2017-11-07,3300.0,5.0,16.6,clear
+1037,Mustard,Sri Madhopur,2017-07-13,3217.0,22.6,27.0,clear
+1038,Mustard,Surajgarh,2017-07-13,3300.0,4.5,27.0,clear
+1039,Mustard,Sri Madhopur,2017-07-17,3234.0,9.0,29.0,clear
+1040,Mustard,Surajgarh,2017-07-17,3350.0,3.5,29.0,clear
+1041,Mustard,Sri Madhopur,2017-07-21,3331.0,7.5,39.4,clear
+1042,Mustard,Sri Madhopur,2017-07-22,3300.0,10.0,32.4,clear
+1043,Mustard,Surajgarh,2017-07-22,3250.0,2.5,32.4,clear
+1044,Mustard,Sri Madhopur,2017-07-26,3285.0,10.7,31.8,clear
+1045,Mustard,Surajgarh,2017-07-26,3225.0,2.5,31.8,clear
+1046,Mustard,Sri Madhopur,2017-07-29,3250.0,22.2,30.0,clear
+1047,Mustard,Surajgarh,2017-07-29,3300.0,1.5,30.0,clear
+1048,Mustard,Sri Madhopur,2017-07-31,3175.0,13.3,26.0,clear
+1049,Mustard,Sri Madhopur,2017-07-08,3265.0,19.1,29.8,clear
+1050,Mustard,Sri Madhopur,2017-12-08,3180.0,15.4,22.0,clear
+1051,Mustard,Surajgarh,2017-12-08,3370.0,5.0,22.0,clear
+1052,Mustard,Sri Madhopur,2017-08-22,3370.0,12.6,30.0,clear
+1053,Mustard,Surajgarh,2017-08-22,3388.0,5.2,30.0,clear
+1054,Mustard,Sri Madhopur,2017-08-25,3400.0,12.8,27.6,clear
+1055,Mustard,Surajgarh,2017-08-25,3475.0,11.0,27.6,clear
+1056,Mustard,Sri Madhopur,2017-08-28,3430.0,16.2,32.0,clear
+1057,Mustard,Surajgarh,2017-08-28,3440.0,5.5,32.0,clear
+1058,Mustard,Sri Madhopur,2017-08-29,3390.0,23.5,27.6,clear
+1059,Mustard,Sri Madhopur,2017-01-09,3375.0,2.5,17.4,clear
+1060,Mustard,Sri Madhopur,2017-06-09,3450.0,1.3,37.0,clear
+1061,Mustard,Sri Madhopur,2017-07-09,3417.0,3.8,36.0,clear
+1062,Mustard,Sri Madhopur,2017-09-27,3355.0,35.5,35.0,clear
+1063,Mustard,Surajgarh,2017-09-27,3350.0,4.0,35.0,clear
+1064,Mustard,Sri Madhopur,2017-09-28,3380.0,15.7,35.2,clear
+1065,Mustard,Surajgarh,2017-09-28,3350.0,2.5,35.2,clear
+1066,Mustard,Sri Madhopur,2017-09-30,3400.0,19.1,35.0,clear
+1067,Mustard,Sri Madhopur,2017-10-23,3312.0,1.4,32.2,clear
+1068,Mustard,Sri Madhopur,2017-10-25,3325.0,8.2,17.6,clear
+1069,Mustard,Surajgarh,2017-10-25,3433.0,25.2,17.6,clear
+1070,Mustard,Sri Madhopur,2017-03-11,3282.0,3.7,22.0,clear
+1071,Mustard,Surajgarh,2017-03-11,3440.0,9.5,22.0,clear
+1072,Mustard,Sri Madhopur,2017-04-11,3290.0,7.3,35.6,clear
+1073,Mustard,Surajgarh,2017-04-11,3460.0,8.3,35.6,clear
+1074,Mustard,Surajgarh,2017-06-07,3250.0,2.0,38.0,clear
+1075,Mustard,Surajgarh,2017-05-09,3460.0,4.8,36.0,clear
+1076,Mustard,Surajgarh,2017-08-09,3460.0,6.0,29.0,clear

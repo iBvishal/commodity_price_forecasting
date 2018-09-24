@@ -1,0 +1,2378 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Bengal Gram(Gram),Gadaura,2012-07-09,5325.0,0.5,32.6,clear
+1,Bengal Gram(Gram),Partaval,2012-07-09,5275.0,1.0,32.6,clear
+2,Bengal Gram(Gram),Gadaura,2012-10-09,5290.0,1.0,22.2,clear
+3,Bengal Gram(Gram),Partaval,2012-10-09,5280.0,0.9,22.2,clear
+4,Bengal Gram(Gram),Gadaura,2012-09-13,5250.0,1.0,30.0,clear
+5,Bengal Gram(Gram),Partaval,2012-09-13,5240.0,1.4,30.0,clear
+6,Bengal Gram(Gram),Gadaura,2012-09-15,5250.0,1.0,29.4,rain
+7,Bengal Gram(Gram),Partaval,2012-09-15,5230.0,0.5,29.4,rain
+8,Bengal Gram(Gram),Gadaura,2012-09-17,5255.0,0.3,24.6,rain
+9,Bengal Gram(Gram),Partaval,2012-09-17,5235.0,0.6,24.6,rain
+10,Bengal Gram(Gram),Gadaura,2012-09-18,5255.0,0.4,27.0,clear
+11,Bengal Gram(Gram),Partaval,2012-09-18,5240.0,0.5,27.0,clear
+12,Bengal Gram(Gram),Gadaura,2012-09-19,5260.0,0.8,30.6,clear
+13,Bengal Gram(Gram),Partaval,2012-09-19,5240.0,0.8,30.6,clear
+14,Bengal Gram(Gram),Gadaura,2012-09-20,5260.0,1.5,32.4,clear
+15,Bengal Gram(Gram),Partaval,2012-09-20,5230.0,0.9,32.4,clear
+16,Bengal Gram(Gram),Gadaura,2012-09-21,5265.0,0.5,33.5,clear
+17,Bengal Gram(Gram),Partaval,2012-09-21,5240.0,0.7,33.5,clear
+18,Bengal Gram(Gram),Gadaura,2012-09-22,5275.0,0.6,32.5,clear
+19,Bengal Gram(Gram),Partaval,2012-09-22,5240.0,0.5,32.5,clear
+20,Bengal Gram(Gram),Gadaura,2012-09-24,5280.0,1.0,32.0,clear
+21,Bengal Gram(Gram),Partaval,2012-09-24,5245.0,0.8,32.0,clear
+22,Bengal Gram(Gram),Gadaura,2012-09-25,5275.0,0.5,32.0,clear
+23,Bengal Gram(Gram),Partaval,2012-09-25,5240.0,0.6,32.0,clear
+24,Bengal Gram(Gram),Gadaura,2012-09-26,5280.0,0.7,32.8,clear
+25,Bengal Gram(Gram),Partaval,2012-09-26,5230.0,0.9,32.8,clear
+26,Bengal Gram(Gram),Gadaura,2012-09-28,5265.0,0.5,32.4,clear
+27,Bengal Gram(Gram),Partaval,2012-09-28,5220.0,0.4,32.4,clear
+28,Bengal Gram(Gram),Gadaura,2012-09-29,5265.0,1.0,32.4,clear
+29,Bengal Gram(Gram),Partaval,2012-09-29,5225.0,0.3,32.4,clear
+30,Bengal Gram(Gram),Gadaura,2012-01-10,5275.0,2.0,9.2,clear
+31,Bengal Gram(Gram),Partaval,2012-01-10,5230.0,0.4,9.2,clear
+32,Bengal Gram(Gram),Gadaura,2012-03-10,5275.0,1.0,23.8,clear
+33,Bengal Gram(Gram),Partaval,2012-03-10,5235.0,0.5,23.8,clear
+34,Bengal Gram(Gram),Gadaura,2012-04-10,5280.0,1.5,27.6,clear
+35,Bengal Gram(Gram),Partaval,2012-04-10,5230.0,0.8,27.6,clear
+36,Bengal Gram(Gram),Gadaura,2012-05-10,5280.0,1.0,35.0,clear
+37,Bengal Gram(Gram),Partaval,2012-05-10,5230.0,0.5,35.0,clear
+38,Bengal Gram(Gram),Gadaura,2012-08-10,5275.0,2.0,34.6,clear
+39,Bengal Gram(Gram),Partaval,2012-08-10,5220.0,0.3,34.6,clear
+40,Bengal Gram(Gram),Gadaura,2012-10-10,5275.0,1.5,31.0,clear
+41,Bengal Gram(Gram),Gadaura,2012-12-10,5280.0,1.2,21.4,clear
+42,Bengal Gram(Gram),Partaval,2012-12-10,5215.0,1.0,21.4,clear
+43,Bengal Gram(Gram),Gadaura,2012-10-13,5280.0,0.5,31.7,clear
+44,Bengal Gram(Gram),Partaval,2012-10-13,5200.0,0.3,31.7,clear
+45,Bengal Gram(Gram),Gadaura,2012-10-16,5280.0,1.5,31.0,clear
+46,Bengal Gram(Gram),Partaval,2012-10-16,5150.0,0.5,31.0,clear
+47,Bengal Gram(Gram),Gadaura,2012-10-17,5285.0,1.0,29.2,clear
+48,Bengal Gram(Gram),Partaval,2012-10-17,5140.0,0.3,29.2,clear
+49,Bengal Gram(Gram),Gadaura,2012-10-18,5285.0,1.5,30.6,clear
+50,Bengal Gram(Gram),Partaval,2012-10-18,5120.0,0.7,30.6,clear
+51,Bengal Gram(Gram),Gadaura,2012-10-19,5250.0,0.6,29.4,clear
+52,Bengal Gram(Gram),Partaval,2012-10-19,5110.0,0.5,29.4,clear
+53,Bengal Gram(Gram),Gadaura,2012-10-20,5250.0,0.8,30.4,clear
+54,Bengal Gram(Gram),Partaval,2012-10-20,5100.0,0.4,30.4,clear
+55,Bengal Gram(Gram),Gadaura,2012-10-22,5240.0,1.0,29.0,clear
+56,Bengal Gram(Gram),Partaval,2012-10-22,5100.0,0.5,29.0,clear
+57,Bengal Gram(Gram),Gadaura,2012-10-23,5225.0,1.5,30.0,clear
+58,Bengal Gram(Gram),Partaval,2012-10-23,5110.0,0.3,30.0,clear
+59,Bengal Gram(Gram),Gadaura,2012-10-24,5220.0,0.8,26.2,clear
+60,Bengal Gram(Gram),Partaval,2012-10-24,5100.0,0.4,26.2,clear
+61,Bengal Gram(Gram),Gadaura,2012-10-25,5235.0,1.5,28.2,clear
+62,Bengal Gram(Gram),Partaval,2012-10-25,5110.0,0.6,28.2,clear
+63,Bengal Gram(Gram),Gadaura,2012-10-27,5200.0,0.5,29.6,clear
+64,Bengal Gram(Gram),Partaval,2012-10-27,5110.0,0.4,29.6,clear
+65,Bengal Gram(Gram),Gadaura,2012-10-29,5200.0,2.5,30.0,clear
+66,Bengal Gram(Gram),Partaval,2012-10-29,5100.0,0.5,30.0,clear
+67,Bengal Gram(Gram),Gadaura,2012-10-30,5200.0,1.0,30.0,clear
+68,Bengal Gram(Gram),Partaval,2012-10-30,5100.0,0.6,30.0,clear
+69,Bengal Gram(Gram),Gadaura,2012-10-31,5210.0,2.0,30.3,clear
+70,Bengal Gram(Gram),Partaval,2012-10-31,5110.0,0.5,30.3,clear
+71,Bengal Gram(Gram),Gadaura,2012-02-11,5110.0,1.0,7.4,clear
+72,Bengal Gram(Gram),Partaval,2012-02-11,5100.0,0.6,7.4,clear
+73,Bengal Gram(Gram),Gadaura,2012-07-11,5185.0,0.5,27.6,clear
+74,Bengal Gram(Gram),Partaval,2012-07-11,5050.0,0.5,27.6,clear
+75,Bengal Gram(Gram),Gadaura,2012-09-11,5190.0,0.5,31.0,clear
+76,Bengal Gram(Gram),Partaval,2012-09-11,5050.0,0.4,31.0,clear
+77,Bengal Gram(Gram),Gadaura,2012-10-11,5185.0,1.0,30.2,clear
+78,Bengal Gram(Gram),Partaval,2012-10-11,5065.0,0.5,30.2,clear
+79,Bengal Gram(Gram),Gadaura,2012-12-11,5185.0,2.0,21.8,clear
+80,Bengal Gram(Gram),Partaval,2012-12-11,5050.0,0.4,21.8,clear
+81,Bengal Gram(Gram),Gadaura,2012-11-14,5180.0,1.0,26.8,clear
+82,Bengal Gram(Gram),Partaval,2012-11-14,5060.0,0.4,26.8,clear
+83,Bengal Gram(Gram),Gadaura,2012-11-17,5170.0,1.0,26.4,clear
+84,Bengal Gram(Gram),Gadaura,2012-11-20,5160.0,0.5,27.0,clear
+85,Bengal Gram(Gram),Partaval,2012-11-20,5030.0,0.5,27.0,clear
+86,Bengal Gram(Gram),Gadaura,2012-11-21,5150.0,0.8,27.0,clear
+87,Bengal Gram(Gram),Partaval,2012-11-21,5040.0,0.4,27.0,clear
+88,Bengal Gram(Gram),Gadaura,2012-11-22,5125.0,1.0,24.0,clear
+89,Bengal Gram(Gram),Partaval,2012-11-22,5040.0,0.6,24.0,clear
+90,Bengal Gram(Gram),Gadaura,2012-11-26,5130.0,2.0,22.2,clear
+91,Bengal Gram(Gram),Partaval,2012-11-26,5045.0,0.5,22.2,clear
+92,Bengal Gram(Gram),Gadaura,2012-11-27,5135.0,1.0,22.5,clear
+93,Bengal Gram(Gram),Partaval,2012-11-27,5045.0,0.3,22.5,clear
+94,Bengal Gram(Gram),Gadaura,2012-11-29,5135.0,2.5,22.0,clear
+95,Bengal Gram(Gram),Partaval,2012-11-29,5055.0,0.6,22.0,clear
+96,Bengal Gram(Gram),Gadaura,2012-11-30,5125.0,2.0,23.0,clear
+97,Bengal Gram(Gram),Partaval,2012-11-30,5050.0,0.5,23.0,clear
+98,Bengal Gram(Gram),Gadaura,2012-04-12,5100.0,1.0,20.5,clear
+99,Bengal Gram(Gram),Gadaura,2012-08-12,5120.0,0.8,32.0,clear
+100,Bengal Gram(Gram),Partaval,2012-08-12,5070.0,0.5,32.0,clear
+101,Bengal Gram(Gram),Gadaura,2012-10-12,5120.0,1.5,30.4,clear
+102,Bengal Gram(Gram),Partaval,2012-10-12,5060.0,0.7,30.4,clear
+103,Bengal Gram(Gram),Gadaura,2012-12-13,5125.0,1.5,16.1,clear
+104,Bengal Gram(Gram),Partaval,2012-12-13,5110.0,0.8,16.1,clear
+105,Bengal Gram(Gram),Gadaura,2012-12-14,5120.0,1.0,20.0,clear
+106,Bengal Gram(Gram),Partaval,2012-12-14,5120.0,0.5,20.0,clear
+107,Bengal Gram(Gram),Gadaura,2012-12-15,5120.0,0.5,19.0,clear
+108,Bengal Gram(Gram),Partaval,2012-12-15,5120.0,0.6,19.0,clear
+109,Bengal Gram(Gram),Gadaura,2012-12-17,5100.0,1.5,15.6,clear
+110,Bengal Gram(Gram),Partaval,2012-12-17,5125.0,0.7,15.6,clear
+111,Bengal Gram(Gram),Gadaura,2012-12-18,5100.0,0.7,14.4,clear
+112,Bengal Gram(Gram),Partaval,2012-12-18,5130.0,0.5,14.4,clear
+113,Bengal Gram(Gram),Gadaura,2012-12-19,5125.0,0.5,14.8,clear
+114,Bengal Gram(Gram),Partaval,2012-12-19,5130.0,0.6,14.8,clear
+115,Bengal Gram(Gram),Gadaura,2012-12-21,5115.0,0.6,13.0,clear
+116,Bengal Gram(Gram),Partaval,2012-12-21,5140.0,0.5,13.0,clear
+117,Bengal Gram(Gram),Gadaura,2012-12-26,5100.0,0.5,12.2,clear
+118,Bengal Gram(Gram),Gadaura,2012-12-28,5110.0,1.0,8.8,clear
+119,Bengal Gram(Gram),Partaval,2012-12-28,5130.0,0.6,8.8,clear
+120,Bengal Gram(Gram),Partaval,2012-02-08,4790.0,0.6,15.9,rain
+121,Bengal Gram(Gram),Partaval,2012-04-08,4810.0,0.8,21.4,clear
+122,Bengal Gram(Gram),Partaval,2012-07-08,4830.0,0.5,32.8,clear
+123,Bengal Gram(Gram),Partaval,2012-08-08,4840.0,1.0,32.7,clear
+124,Bengal Gram(Gram),Partaval,2012-10-08,5010.0,0.5,33.9,clear
+125,Bengal Gram(Gram),Partaval,2012-08-13,5030.0,1.0,32.4,clear
+126,Bengal Gram(Gram),Partaval,2012-08-14,5040.0,0.9,33.6,clear
+127,Bengal Gram(Gram),Partaval,2012-08-16,5050.0,0.7,35.0,clear
+128,Bengal Gram(Gram),Partaval,2012-08-17,5120.0,0.6,32.0,clear
+129,Bengal Gram(Gram),Partaval,2012-08-18,5140.0,0.8,32.8,clear
+130,Bengal Gram(Gram),Partaval,2012-08-20,5150.0,0.5,32.2,clear
+131,Bengal Gram(Gram),Partaval,2012-08-22,5210.0,0.7,31.6,clear
+132,Bengal Gram(Gram),Partaval,2012-08-23,5220.0,0.9,27.3,clear
+133,Bengal Gram(Gram),Partaval,2012-08-24,5240.0,0.6,31.8,clear
+134,Bengal Gram(Gram),Partaval,2012-08-25,5250.0,1.0,33.6,clear
+135,Bengal Gram(Gram),Partaval,2012-08-27,5260.0,1.0,32.8,clear
+136,Bengal Gram(Gram),Partaval,2012-08-28,5265.0,1.2,34.0,clear
+137,Bengal Gram(Gram),Partaval,2012-08-29,5270.0,0.8,33.5,clear
+138,Bengal Gram(Gram),Partaval,2012-08-30,5280.0,1.2,33.6,clear
+139,Bengal Gram(Gram),Partaval,2012-01-09,5290.0,1.0,15.4,clear
+140,Bengal Gram(Gram),Partaval,2012-03-09,5280.0,0.7,12.0,clear
+141,Bengal Gram(Gram),Partaval,2012-08-09,5280.0,0.6,30.0,clear
+142,Bengal Gram(Gram),Partaval,2012-10-15,5180.0,0.4,30.8,clear
+143,Bengal Gram(Gram),Partaval,2012-11-13,5050.0,0.3,27.0,clear
+144,Bengal Gram(Gram),Partaval,2012-11-23,5050.0,0.5,24.8,clear
+145,Bengal Gram(Gram),Partaval,2012-11-28,5050.0,0.4,24.0,clear
+146,Bengal Gram(Gram),Partaval,2012-01-12,5050.0,0.6,11.7,clear
+147,Bengal Gram(Gram),Partaval,2012-12-25,5140.0,0.5,13.6,clear
+148,Bengal Gram(Gram),Partaval,2012-12-27,5130.0,0.8,16.0,clear
+149,Bengal Gram(Gram),Gadaura,2013-02-01,5110.0,1.2,24.0,clear
+150,Bengal Gram(Gram),Partaval,2013-02-01,5130.0,0.5,24.0,clear
+151,Bengal Gram(Gram),Gadaura,2013-03-01,5100.0,1.5,11.9,clear
+152,Bengal Gram(Gram),Partaval,2013-03-01,5120.0,0.8,11.9,clear
+153,Bengal Gram(Gram),Gadaura,2013-04-01,5110.0,0.5,16.9,clear
+154,Bengal Gram(Gram),Partaval,2013-04-01,5120.0,0.7,16.9,clear
+155,Bengal Gram(Gram),Gadaura,2013-05-01,5110.0,1.0,35.8,clear
+156,Bengal Gram(Gram),Partaval,2013-05-01,5110.0,0.6,35.8,clear
+157,Bengal Gram(Gram),Gadaura,2013-07-01,5105.0,1.5,30.6,clear
+158,Bengal Gram(Gram),Partaval,2013-07-01,5110.0,0.8,30.6,clear
+159,Bengal Gram(Gram),Gadaura,2013-08-01,5100.0,0.5,32.0,clear
+160,Bengal Gram(Gram),Partaval,2013-08-01,5110.0,0.5,32.0,clear
+161,Bengal Gram(Gram),Gadaura,2013-09-01,5115.0,0.7,34.1,clear
+162,Bengal Gram(Gram),Gadaura,2013-10-01,5115.0,1.0,31.2,clear
+163,Bengal Gram(Gram),Partaval,2013-10-01,5115.0,1.0,31.2,clear
+164,Bengal Gram(Gram),Gadaura,2013-12-01,5100.0,1.0,25.6,clear
+165,Bengal Gram(Gram),Partaval,2013-12-01,5120.0,0.8,25.6,clear
+166,Bengal Gram(Gram),Gadaura,2013-01-16,5110.0,1.5,20.0,clear
+167,Bengal Gram(Gram),Partaval,2013-01-16,5110.0,0.7,20.0,clear
+168,Bengal Gram(Gram),Gadaura,2013-01-17,5125.0,2.5,21.2,clear
+169,Bengal Gram(Gram),Partaval,2013-01-17,5100.0,1.0,21.2,clear
+170,Bengal Gram(Gram),Gadaura,2013-01-18,5120.0,1.0,23.2,clear
+171,Bengal Gram(Gram),Partaval,2013-01-18,5090.0,0.8,23.2,clear
+172,Bengal Gram(Gram),Gadaura,2013-01-19,5120.0,0.8,20.0,clear
+173,Bengal Gram(Gram),Partaval,2013-01-19,5080.0,0.5,20.0,clear
+174,Bengal Gram(Gram),Gadaura,2013-01-21,5125.0,1.5,11.8,clear
+175,Bengal Gram(Gram),Partaval,2013-01-21,5080.0,1.0,11.8,clear
+176,Bengal Gram(Gram),Gadaura,2013-01-22,5125.0,0.5,14.3,clear
+177,Bengal Gram(Gram),Partaval,2013-01-22,5070.0,0.7,14.3,clear
+178,Bengal Gram(Gram),Gadaura,2013-01-25,5115.0,0.5,12.0,clear
+179,Bengal Gram(Gram),Partaval,2013-01-25,5060.0,0.6,12.0,clear
+180,Bengal Gram(Gram),Gadaura,2013-01-29,5100.0,0.5,14.0,clear
+181,Bengal Gram(Gram),Partaval,2013-01-29,5050.0,0.7,14.0,clear
+182,Bengal Gram(Gram),Gadaura,2013-01-30,5110.0,1.0,20.3,clear
+183,Bengal Gram(Gram),Partaval,2013-01-30,5050.0,0.5,20.3,clear
+184,Bengal Gram(Gram),Gadaura,2013-01-31,5125.0,1.5,9.2,clear
+185,Bengal Gram(Gram),Gadaura,2013-01-02,5135.0,1.0,21.6,clear
+186,Bengal Gram(Gram),Partaval,2013-01-02,5045.0,0.8,21.6,clear
+187,Bengal Gram(Gram),Gadaura,2013-02-02,5130.0,0.5,21.8,clear
+188,Bengal Gram(Gram),Partaval,2013-02-02,5040.0,0.6,21.8,clear
+189,Bengal Gram(Gram),Gadaura,2013-04-02,5150.0,1.5,33.2,clear
+190,Bengal Gram(Gram),Partaval,2013-04-02,5040.0,0.5,33.2,clear
+191,Bengal Gram(Gram),Gadaura,2013-07-02,5130.0,1.0,27.4,clear
+192,Bengal Gram(Gram),Partaval,2013-07-02,5040.0,1.0,27.4,clear
+193,Bengal Gram(Gram),Gadaura,2013-08-02,5130.0,0.5,32.4,clear
+194,Bengal Gram(Gram),Partaval,2013-08-02,5040.0,0.8,32.4,clear
+195,Bengal Gram(Gram),Gadaura,2013-11-02,5125.0,1.5,24.4,clear
+196,Bengal Gram(Gram),Partaval,2013-11-02,5040.0,1.2,24.4,clear
+197,Bengal Gram(Gram),Gadaura,2013-12-02,5130.0,1.0,25.1,clear
+198,Bengal Gram(Gram),Partaval,2013-12-02,5040.0,1.0,25.1,clear
+199,Bengal Gram(Gram),Gadaura,2013-02-14,5150.0,1.0,24.8,clear
+200,Bengal Gram(Gram),Partaval,2013-02-14,5030.0,1.0,24.8,clear
+201,Bengal Gram(Gram),Gadaura,2013-02-16,5155.0,0.5,16.8,clear
+202,Bengal Gram(Gram),Partaval,2013-02-16,5025.0,0.9,16.8,clear
+203,Bengal Gram(Gram),Gadaura,2013-02-18,5175.0,1.0,22.8,clear
+204,Bengal Gram(Gram),Partaval,2013-02-18,5025.0,0.8,22.8,clear
+205,Bengal Gram(Gram),Gadaura,2013-02-19,5050.0,0.5,21.4,clear
+206,Bengal Gram(Gram),Partaval,2013-02-19,4950.0,1.0,21.4,clear
+207,Bengal Gram(Gram),Gadaura,2013-02-21,4925.0,1.5,22.2,clear
+208,Bengal Gram(Gram),Partaval,2013-02-21,4900.0,0.9,22.2,clear
+209,Bengal Gram(Gram),Gadaura,2013-02-23,4800.0,1.5,25.0,clear
+210,Bengal Gram(Gram),Partaval,2013-02-23,4865.0,1.0,25.0,clear
+211,Bengal Gram(Gram),Gadaura,2013-02-25,4800.0,1.0,11.8,clear
+212,Bengal Gram(Gram),Partaval,2013-02-25,4800.0,1.5,11.8,clear
+213,Bengal Gram(Gram),Gadaura,2013-02-26,4800.0,1.5,23.0,clear
+214,Bengal Gram(Gram),Partaval,2013-02-26,4800.0,0.9,23.0,clear
+215,Bengal Gram(Gram),Gadaura,2013-02-27,4750.0,1.2,26.4,clear
+216,Bengal Gram(Gram),Partaval,2013-02-27,4775.0,2.0,26.4,clear
+217,Bengal Gram(Gram),Gadaura,2013-02-03,4750.0,1.0,20.1,clear
+218,Bengal Gram(Gram),Partaval,2013-02-03,4720.0,1.0,20.1,clear
+219,Bengal Gram(Gram),Gadaura,2013-04-03,4725.0,2.0,18.1,clear
+220,Bengal Gram(Gram),Partaval,2013-04-03,4700.0,1.0,18.1,clear
+221,Bengal Gram(Gram),Gadaura,2013-05-03,4740.0,1.0,37.0,clear
+222,Bengal Gram(Gram),Partaval,2013-05-03,4700.0,1.2,37.0,clear
+223,Bengal Gram(Gram),Gadaura,2013-07-03,4600.0,1.0,32.6,clear
+224,Bengal Gram(Gram),Partaval,2013-07-03,4665.0,1.2,32.6,clear
+225,Bengal Gram(Gram),Gadaura,2013-08-03,4600.0,0.5,34.2,clear
+226,Bengal Gram(Gram),Partaval,2013-08-03,4650.0,1.0,34.2,clear
+227,Bengal Gram(Gram),Gadaura,2013-11-03,4500.0,1.5,25.2,clear
+228,Bengal Gram(Gram),Partaval,2013-11-03,4600.0,1.2,25.2,clear
+229,Bengal Gram(Gram),Gadaura,2013-12-03,4550.0,0.5,26.0,clear
+230,Bengal Gram(Gram),Partaval,2013-12-03,4580.0,1.5,26.0,clear
+231,Bengal Gram(Gram),Gadaura,2013-03-15,4375.0,0.5,31.0,clear
+232,Bengal Gram(Gram),Partaval,2013-03-15,4430.0,2.5,31.0,clear
+233,Bengal Gram(Gram),Gadaura,2013-03-16,4250.0,1.5,31.0,clear
+234,Bengal Gram(Gram),Partaval,2013-03-16,4300.0,5.0,31.0,clear
+235,Bengal Gram(Gram),Gadaura,2013-03-18,4250.0,2.5,24.8,clear
+236,Bengal Gram(Gram),Partaval,2013-03-18,4280.0,2.0,24.8,clear
+237,Bengal Gram(Gram),Gadaura,2013-03-20,4230.0,1.0,28.4,clear
+238,Bengal Gram(Gram),Partaval,2013-03-20,4220.0,1.5,28.4,clear
+239,Bengal Gram(Gram),Gadaura,2013-03-21,3500.0,0.5,28.6,clear
+240,Bengal Gram(Gram),Partaval,2013-03-21,4180.0,2.0,28.6,clear
+241,Bengal Gram(Gram),Gadaura,2013-03-22,4225.0,0.4,28.0,clear
+242,Bengal Gram(Gram),Partaval,2013-03-22,4150.0,1.5,28.0,clear
+243,Bengal Gram(Gram),Gadaura,2013-03-23,4200.0,0.6,30.0,clear
+244,Bengal Gram(Gram),Partaval,2013-03-23,4120.0,1.8,30.0,clear
+245,Bengal Gram(Gram),Gadaura,2013-03-25,4225.0,1.5,32.1,clear
+246,Bengal Gram(Gram),Gadaura,2013-03-28,4220.0,0.5,24.0,clear
+247,Bengal Gram(Gram),Gadaura,2013-03-29,4225.0,2.5,22.8,clear
+248,Bengal Gram(Gram),Partaval,2013-03-29,4100.0,1.5,22.8,clear
+249,Bengal Gram(Gram),Gadaura,2013-03-30,4200.0,1.5,32.0,clear
+250,Bengal Gram(Gram),Partaval,2013-03-30,4050.0,1.0,32.0,clear
+251,Bengal Gram(Gram),Gadaura,2013-01-04,4200.0,2.5,8.2,clear
+252,Bengal Gram(Gram),Partaval,2013-01-04,4050.0,1.5,8.2,clear
+253,Bengal Gram(Gram),Gadaura,2013-02-04,4100.0,1.0,22.0,clear
+254,Bengal Gram(Gram),Partaval,2013-02-04,4060.0,1.0,22.0,clear
+255,Bengal Gram(Gram),Gadaura,2013-03-04,4050.0,2.0,28.2,clear
+256,Bengal Gram(Gram),Partaval,2013-03-04,4020.0,2.5,28.2,clear
+257,Bengal Gram(Gram),Gadaura,2013-06-04,4000.0,2.5,29.0,clear
+258,Bengal Gram(Gram),Partaval,2013-06-04,4000.0,1.0,29.0,clear
+259,Bengal Gram(Gram),Gadaura,2013-08-04,4000.0,3.0,35.4,clear
+260,Bengal Gram(Gram),Partaval,2013-08-04,4000.0,1.5,35.4,clear
+261,Bengal Gram(Gram),Gadaura,2013-09-04,3975.0,2.0,31.7,clear
+262,Bengal Gram(Gram),Partaval,2013-09-04,3975.0,1.2,31.7,clear
+263,Bengal Gram(Gram),Gadaura,2013-10-04,3950.0,1.0,28.4,clear
+264,Bengal Gram(Gram),Partaval,2013-10-04,3970.0,1.5,28.4,clear
+265,Bengal Gram(Gram),Gadaura,2013-11-04,3950.0,2.5,25.5,clear
+266,Bengal Gram(Gram),Partaval,2013-11-04,3950.0,2.0,25.5,clear
+267,Bengal Gram(Gram),Gadaura,2013-04-15,3950.0,2.0,32.0,clear
+268,Bengal Gram(Gram),Partaval,2013-04-15,3930.0,1.0,32.0,clear
+269,Bengal Gram(Gram),Gadaura,2013-04-16,3950.0,1.0,22.0,clear
+270,Bengal Gram(Gram),Partaval,2013-04-16,3900.0,0.8,22.0,clear
+271,Bengal Gram(Gram),Gadaura,2013-04-17,3950.0,0.5,30.4,clear
+272,Bengal Gram(Gram),Partaval,2013-04-17,3900.0,1.2,30.4,clear
+273,Bengal Gram(Gram),Gadaura,2013-04-18,3925.0,1.5,31.2,clear
+274,Bengal Gram(Gram),Gadaura,2013-04-20,3930.0,10.0,30.2,clear
+275,Bengal Gram(Gram),Partaval,2013-04-20,3900.0,1.0,30.2,clear
+276,Bengal Gram(Gram),Gadaura,2013-04-22,3950.0,2.5,19.5,clear
+277,Bengal Gram(Gram),Partaval,2013-04-22,3920.0,0.8,19.5,clear
+278,Bengal Gram(Gram),Gadaura,2013-04-24,3955.0,1.5,22.1,clear
+279,Bengal Gram(Gram),Partaval,2013-04-24,3930.0,0.9,22.1,clear
+280,Bengal Gram(Gram),Gadaura,2013-04-25,3940.0,2.0,32.0,clear
+281,Bengal Gram(Gram),Partaval,2013-04-25,3940.0,1.5,32.0,clear
+282,Bengal Gram(Gram),Gadaura,2013-04-26,3950.0,1.5,32.8,clear
+283,Bengal Gram(Gram),Partaval,2013-04-26,3950.0,1.0,32.8,clear
+284,Bengal Gram(Gram),Gadaura,2013-04-29,3950.0,1.5,31.0,clear
+285,Bengal Gram(Gram),Partaval,2013-04-29,3970.0,0.5,31.0,clear
+286,Bengal Gram(Gram),Gadaura,2013-01-05,3955.0,1.5,7.6,clear
+287,Bengal Gram(Gram),Partaval,2013-01-05,3975.0,0.6,7.6,clear
+288,Bengal Gram(Gram),Gadaura,2013-02-05,3960.0,2.0,16.2,clear
+289,Bengal Gram(Gram),Partaval,2013-02-05,3980.0,1.5,16.2,clear
+290,Bengal Gram(Gram),Gadaura,2013-04-05,3960.0,1.5,32.4,clear
+291,Bengal Gram(Gram),Partaval,2013-04-05,3990.0,0.9,32.4,clear
+292,Bengal Gram(Gram),Gadaura,2013-06-05,3950.0,1.0,0.0,clear
+293,Bengal Gram(Gram),Partaval,2013-06-05,3990.0,1.0,0.0,clear
+294,Bengal Gram(Gram),Gadaura,2013-09-05,3945.0,0.5,31.9,clear
+295,Bengal Gram(Gram),Partaval,2013-09-05,4000.0,2.0,31.9,clear
+296,Bengal Gram(Gram),Gadaura,2013-10-05,3950.0,1.2,27.6,clear
+297,Bengal Gram(Gram),Partaval,2013-10-05,4000.0,2.5,27.6,clear
+298,Bengal Gram(Gram),Gadaura,2013-11-05,3955.0,1.0,26.8,clear
+299,Bengal Gram(Gram),Partaval,2013-11-05,3990.0,3.0,26.8,clear
+300,Bengal Gram(Gram),Gadaura,2013-05-13,3950.0,0.5,22.0,clear
+301,Bengal Gram(Gram),Partaval,2013-05-13,3980.0,1.0,22.0,clear
+302,Bengal Gram(Gram),Gadaura,2013-05-15,3970.0,1.5,30.5,clear
+303,Bengal Gram(Gram),Partaval,2013-05-15,3980.0,1.8,30.5,clear
+304,Bengal Gram(Gram),Gadaura,2013-05-16,3975.0,2.0,33.0,clear
+305,Bengal Gram(Gram),Partaval,2013-05-16,3980.0,2.5,33.0,clear
+306,Bengal Gram(Gram),Gadaura,2013-05-17,4000.0,1.0,34.2,clear
+307,Bengal Gram(Gram),Partaval,2013-05-17,3990.0,1.5,34.2,clear
+308,Bengal Gram(Gram),Gadaura,2013-05-20,4010.0,6.0,27.5,clear
+309,Bengal Gram(Gram),Partaval,2013-05-20,4000.0,1.5,27.5,clear
+310,Bengal Gram(Gram),Gadaura,2013-05-21,4000.0,1.0,27.3,clear
+311,Bengal Gram(Gram),Partaval,2013-05-21,3990.0,1.2,27.3,clear
+312,Bengal Gram(Gram),Gadaura,2013-05-22,4000.0,0.5,29.0,clear
+313,Bengal Gram(Gram),Partaval,2013-05-22,3990.0,1.0,29.0,clear
+314,Bengal Gram(Gram),Gadaura,2013-05-23,4010.0,1.0,28.4,clear
+315,Bengal Gram(Gram),Partaval,2013-05-23,3980.0,1.2,28.4,clear
+316,Bengal Gram(Gram),Gadaura,2013-05-25,4015.0,0.8,35.8,clear
+317,Bengal Gram(Gram),Partaval,2013-05-25,3990.0,0.8,35.8,clear
+318,Bengal Gram(Gram),Gadaura,2013-05-27,4010.0,1.5,26.0,clear
+319,Bengal Gram(Gram),Partaval,2013-05-27,4000.0,0.9,26.0,clear
+320,Bengal Gram(Gram),Gadaura,2013-05-29,4025.0,0.5,35.9,clear
+321,Bengal Gram(Gram),Partaval,2013-05-29,4000.0,1.2,35.9,clear
+322,Bengal Gram(Gram),Gadaura,2013-01-06,4000.0,1.0,9.0,clear
+323,Bengal Gram(Gram),Partaval,2013-01-06,3980.0,1.0,9.0,clear
+324,Bengal Gram(Gram),Gadaura,2013-05-06,4015.0,3.0,24.6,clear
+325,Bengal Gram(Gram),Partaval,2013-05-06,3985.0,4.0,24.6,clear
+326,Bengal Gram(Gram),Gadaura,2013-07-29,3690.0,2.0,33.8,clear
+327,Bengal Gram(Gram),Gadaura,2013-08-26,3550.0,7.0,28.3,clear
+328,Bengal Gram(Gram),Gadaura,2013-10-28,3620.0,4.0,27.4,clear
+329,Bengal Gram(Gram),Gadaura,2013-11-28,3625.0,8.5,26.4,clear
+330,Bengal Gram(Gram),Gadaura,2013-12-30,3640.0,8.0,20.4,clear
+331,Bengal Gram(Gram),Partaval,2013-01-01,5135.0,0.6,19.0,clear
+332,Bengal Gram(Gram),Partaval,2013-11-01,5120.0,0.7,24.9,clear
+333,Bengal Gram(Gram),Partaval,2013-01-14,5120.0,0.5,18.6,clear
+334,Bengal Gram(Gram),Partaval,2013-01-15,5120.0,0.6,20.0,clear
+335,Bengal Gram(Gram),Partaval,2013-01-28,5050.0,0.8,16.0,clear
+336,Bengal Gram(Gram),Partaval,2013-02-22,4880.0,1.2,26.4,clear
+337,Bengal Gram(Gram),Partaval,2013-03-19,4250.0,2.5,29.0,clear
+338,Bengal Gram(Gram),Partaval,2013-04-19,3900.0,0.7,32.0,clear
+339,Bengal Gram(Gram),Partaval,2013-04-23,3925.0,0.5,28.7,clear
+340,Bengal Gram(Gram),Partaval,2013-04-27,3960.0,0.8,34.0,clear
+341,Bengal Gram(Gram),Partaval,2013-03-05,3980.0,0.8,29.4,clear
+342,Bengal Gram(Gram),Partaval,2013-05-18,3990.0,1.8,26.0,clear
+343,Bengal Gram(Gram),Partaval,2013-05-31,3980.0,0.8,25.3,clear
+344,Bengal Gram(Gram),Partaval,2013-03-06,3980.0,5.0,29.0,clear
+345,Bengal Gram(Gram),Partaval,2013-04-06,3975.0,1.2,30.4,clear
+346,Bengal Gram(Gram),Partaval,2013-06-06,3980.0,5.0,34.2,clear
+347,Bengal Gram(Gram),Partaval,2013-07-06,3970.0,8.0,33.2,clear
+348,Bengal Gram(Gram),Partaval,2013-08-06,3960.0,5.0,30.0,clear
+349,Bengal Gram(Gram),Partaval,2013-10-06,3960.0,10.0,29.4,clear
+350,Bengal Gram(Gram),Partaval,2013-11-06,3950.0,8.5,28.0,clear
+351,Bengal Gram(Gram),Partaval,2013-12-06,3940.0,6.5,27.5,clear
+352,Bengal Gram(Gram),Partaval,2013-06-13,3940.0,12.0,36.2,clear
+353,Bengal Gram(Gram),Partaval,2013-06-14,3950.0,9.0,35.2,clear
+354,Bengal Gram(Gram),Partaval,2013-06-15,3950.0,10.0,33.4,clear
+355,Bengal Gram(Gram),Partaval,2013-06-17,3940.0,4.5,23.2,clear
+356,Bengal Gram(Gram),Partaval,2013-06-18,3920.0,5.0,25.0,rain
+357,Bengal Gram(Gram),Partaval,2013-06-19,3920.0,6.5,24.4,clear
+358,Bengal Gram(Gram),Partaval,2013-06-20,3890.0,8.0,33.8,clear
+359,Bengal Gram(Gram),Partaval,2013-06-21,3870.0,10.0,27.6,clear
+360,Bengal Gram(Gram),Partaval,2013-06-22,3870.0,12.0,29.6,clear
+361,Bengal Gram(Gram),Partaval,2013-06-24,3865.0,10.0,27.3,clear
+362,Bengal Gram(Gram),Partaval,2013-06-25,3865.0,15.0,32.5,clear
+363,Bengal Gram(Gram),Partaval,2013-06-26,3850.0,9.0,28.2,clear
+364,Bengal Gram(Gram),Partaval,2013-06-28,3840.0,12.0,26.9,clear
+365,Bengal Gram(Gram),Partaval,2013-06-29,3825.0,10.0,26.6,clear
+366,Bengal Gram(Gram),Partaval,2013-01-07,3820.0,5.0,9.0,clear
+367,Bengal Gram(Gram),Partaval,2013-02-07,3840.0,6.5,20.0,clear
+368,Bengal Gram(Gram),Partaval,2013-03-07,3850.0,7.0,26.4,clear
+369,Bengal Gram(Gram),Partaval,2013-04-07,3860.0,10.0,32.1,clear
+370,Bengal Gram(Gram),Partaval,2013-05-07,3850.0,6.5,24.8,clear
+371,Bengal Gram(Gram),Partaval,2013-06-07,3850.0,7.0,30.6,clear
+372,Bengal Gram(Gram),Partaval,2013-08-07,3860.0,5.0,32.2,clear
+373,Bengal Gram(Gram),Partaval,2013-09-07,3820.0,10.0,30.3,clear
+374,Bengal Gram(Gram),Partaval,2013-10-07,3800.0,6.5,32.2,clear
+375,Bengal Gram(Gram),Partaval,2013-11-07,3810.0,8.0,28.0,clear
+376,Bengal Gram(Gram),Partaval,2013-12-07,3810.0,5.0,27.5,clear
+377,Bengal Gram(Gram),Partaval,2013-07-13,3815.0,6.0,33.8,clear
+378,Bengal Gram(Gram),Partaval,2013-07-15,3820.0,4.0,34.4,clear
+379,Bengal Gram(Gram),Partaval,2013-07-16,3795.0,5.0,34.2,clear
+380,Bengal Gram(Gram),Partaval,2013-07-18,3775.0,4.0,30.8,clear
+381,Bengal Gram(Gram),Partaval,2013-07-22,3740.0,3.5,0.0,clear
+382,Bengal Gram(Gram),Partaval,2013-07-24,3730.0,1.0,32.1,clear
+383,Bengal Gram(Gram),Partaval,2013-07-26,3735.0,1.2,33.0,clear
+384,Bengal Gram(Gram),Partaval,2013-07-27,3730.0,0.8,32.8,clear
+385,Bengal Gram(Gram),Partaval,2013-07-30,3680.0,0.5,35.4,clear
+386,Bengal Gram(Gram),Partaval,2013-07-31,3665.0,1.0,35.4,clear
+387,Bengal Gram(Gram),Partaval,2013-01-08,3650.0,0.8,7.8,clear
+388,Bengal Gram(Gram),Partaval,2013-02-08,3640.0,0.7,21.4,clear
+389,Bengal Gram(Gram),Partaval,2013-05-08,3640.0,1.2,25.6,clear
+390,Bengal Gram(Gram),Partaval,2013-07-08,3635.0,0.8,30.6,clear
+391,Bengal Gram(Gram),Partaval,2013-10-08,3630.0,4.0,32.0,clear
+392,Bengal Gram(Gram),Partaval,2013-12-08,3640.0,0.8,27.0,clear
+393,Bengal Gram(Gram),Partaval,2013-08-13,3620.0,0.7,32.6,clear
+394,Bengal Gram(Gram),Partaval,2013-08-14,3620.0,5.0,34.0,clear
+395,Bengal Gram(Gram),Partaval,2013-08-17,3600.0,4.0,29.4,clear
+396,Bengal Gram(Gram),Partaval,2013-08-19,3580.0,5.0,32.4,clear
+397,Bengal Gram(Gram),Partaval,2013-08-20,3570.0,6.5,34.4,clear
+398,Bengal Gram(Gram),Partaval,2013-08-21,3560.0,7.0,30.2,clear
+399,Bengal Gram(Gram),Partaval,2013-08-22,3570.0,5.0,32.8,clear
+400,Bengal Gram(Gram),Partaval,2013-08-23,3565.0,7.5,33.8,clear
+401,Bengal Gram(Gram),Partaval,2013-08-24,3565.0,5.0,37.3,clear
+402,Bengal Gram(Gram),Partaval,2013-08-27,3550.0,6.5,27.6,clear
+403,Bengal Gram(Gram),Partaval,2013-08-28,3540.0,7.0,31.5,clear
+404,Bengal Gram(Gram),Partaval,2013-08-29,3550.0,8.0,30.0,clear
+405,Bengal Gram(Gram),Partaval,2013-08-30,3550.0,7.5,31.8,clear
+406,Bengal Gram(Gram),Partaval,2013-08-31,3560.0,8.0,34.8,clear
+407,Bengal Gram(Gram),Partaval,2013-02-09,3600.0,5.0,9.2,clear
+408,Bengal Gram(Gram),Partaval,2013-03-09,3620.0,7.5,28.2,clear
+409,Bengal Gram(Gram),Partaval,2013-04-09,3640.0,5.0,33.3,clear
+410,Bengal Gram(Gram),Partaval,2013-05-09,3650.0,4.0,36.8,clear
+411,Bengal Gram(Gram),Partaval,2013-06-09,3650.0,3.5,32.8,clear
+412,Bengal Gram(Gram),Partaval,2013-07-09,3640.0,5.0,32.2,clear
+413,Bengal Gram(Gram),Partaval,2013-09-09,3640.0,2.0,31.2,clear
+414,Bengal Gram(Gram),Partaval,2013-10-09,3650.0,1.0,32.4,clear
+415,Bengal Gram(Gram),Partaval,2013-11-09,3650.0,1.5,27.7,clear
+416,Bengal Gram(Gram),Partaval,2013-12-09,3655.0,2.0,27.2,clear
+417,Bengal Gram(Gram),Partaval,2013-09-13,3620.0,1.5,33.8,clear
+418,Bengal Gram(Gram),Partaval,2013-09-14,3600.0,0.5,33.6,clear
+419,Bengal Gram(Gram),Partaval,2013-09-17,3580.0,0.7,33.4,clear
+420,Bengal Gram(Gram),Partaval,2013-09-18,3570.0,0.5,33.7,clear
+421,Bengal Gram(Gram),Partaval,2013-09-19,3570.0,2.0,34.8,clear
+422,Bengal Gram(Gram),Partaval,2013-09-20,3565.0,0.9,33.5,clear
+423,Bengal Gram(Gram),Partaval,2013-09-21,3565.0,0.8,32.4,clear
+424,Bengal Gram(Gram),Partaval,2013-09-23,3550.0,1.0,33.6,clear
+425,Bengal Gram(Gram),Partaval,2013-09-24,3570.0,0.5,34.0,clear
+426,Bengal Gram(Gram),Partaval,2013-09-25,3570.0,1.2,28.6,clear
+427,Bengal Gram(Gram),Partaval,2013-09-28,3570.0,1.0,32.7,clear
+428,Bengal Gram(Gram),Partaval,2013-09-30,3580.0,0.5,29.8,clear
+429,Bengal Gram(Gram),Partaval,2013-01-10,3590.0,1.0,14.8,clear
+430,Bengal Gram(Gram),Partaval,2013-03-10,3600.0,1.5,28.2,clear
+431,Bengal Gram(Gram),Partaval,2013-04-10,3600.0,1.0,21.4,clear
+432,Bengal Gram(Gram),Partaval,2013-05-10,3610.0,0.5,33.6,clear
+433,Bengal Gram(Gram),Partaval,2013-07-10,3610.0,0.8,29.2,clear
+434,Bengal Gram(Gram),Partaval,2013-08-10,3610.0,1.0,28.9,clear
+435,Bengal Gram(Gram),Partaval,2013-09-10,3620.0,0.5,31.5,clear
+436,Bengal Gram(Gram),Partaval,2013-11-10,3620.0,1.0,27.0,clear
+437,Bengal Gram(Gram),Partaval,2013-12-10,3620.0,0.6,26.5,clear
+438,Bengal Gram(Gram),Partaval,2013-10-15,3625.0,1.0,23.6,rain
+439,Bengal Gram(Gram),Partaval,2013-10-16,3625.0,0.5,25.6,clear
+440,Bengal Gram(Gram),Partaval,2013-10-17,3630.0,0.8,29.0,clear
+441,Bengal Gram(Gram),Partaval,2013-10-18,3630.0,0.6,31.9,clear
+442,Bengal Gram(Gram),Partaval,2013-10-19,3620.0,0.9,31.0,clear
+443,Bengal Gram(Gram),Partaval,2013-10-21,3620.0,1.5,28.4,clear
+444,Bengal Gram(Gram),Partaval,2013-10-23,3625.0,0.5,30.4,clear
+445,Bengal Gram(Gram),Partaval,2013-10-25,3630.0,0.8,30.0,clear
+446,Bengal Gram(Gram),Partaval,2013-10-26,3640.0,1.0,21.6,clear
+447,Bengal Gram(Gram),Partaval,2013-10-29,3620.0,0.5,26.5,clear
+448,Bengal Gram(Gram),Partaval,2013-10-30,3620.0,0.9,27.6,clear
+449,Bengal Gram(Gram),Partaval,2013-01-11,3600.0,0.5,12.4,clear
+450,Bengal Gram(Gram),Partaval,2013-02-11,3620.0,1.0,19.0,clear
+451,Bengal Gram(Gram),Partaval,2013-04-11,3625.0,1.0,37.0,clear
+452,Bengal Gram(Gram),Partaval,2013-05-11,3630.0,0.5,35.0,clear
+453,Bengal Gram(Gram),Partaval,2013-06-11,3630.0,0.8,36.0,clear
+454,Bengal Gram(Gram),Partaval,2013-07-11,3625.0,2.0,29.4,clear
+455,Bengal Gram(Gram),Partaval,2013-08-11,3625.0,0.5,31.2,clear
+456,Bengal Gram(Gram),Partaval,2013-09-11,3620.0,4.0,33.2,clear
+457,Bengal Gram(Gram),Partaval,2013-11-11,3630.0,0.9,25.4,clear
+458,Bengal Gram(Gram),Partaval,2013-12-11,3635.0,1.0,25.2,clear
+459,Bengal Gram(Gram),Partaval,2013-11-13,3640.0,5.0,26.1,clear
+460,Bengal Gram(Gram),Partaval,2013-11-14,3640.0,8.0,26.8,clear
+461,Bengal Gram(Gram),Partaval,2013-11-15,3630.0,2.0,27.5,clear
+462,Bengal Gram(Gram),Partaval,2013-11-16,3630.0,4.0,27.2,clear
+463,Bengal Gram(Gram),Partaval,2013-11-18,3620.0,5.0,25.4,clear
+464,Bengal Gram(Gram),Partaval,2013-11-19,3620.0,4.5,25.9,clear
+465,Bengal Gram(Gram),Partaval,2013-11-20,3640.0,2.0,25.3,clear
+466,Bengal Gram(Gram),Partaval,2013-11-21,3630.0,4.0,25.2,clear
+467,Bengal Gram(Gram),Partaval,2013-11-22,3625.0,6.0,25.4,clear
+468,Bengal Gram(Gram),Partaval,2013-11-23,3640.0,5.0,25.4,clear
+469,Bengal Gram(Gram),Partaval,2013-11-25,3630.0,6.5,25.0,clear
+470,Bengal Gram(Gram),Partaval,2013-11-26,3625.0,8.0,25.4,clear
+471,Bengal Gram(Gram),Partaval,2013-11-27,3625.0,5.0,26.8,clear
+472,Bengal Gram(Gram),Partaval,2013-11-29,3620.0,6.5,27.0,clear
+473,Bengal Gram(Gram),Partaval,2013-11-30,3620.0,5.0,24.5,clear
+474,Bengal Gram(Gram),Partaval,2013-02-12,3630.0,4.0,19.0,clear
+475,Bengal Gram(Gram),Partaval,2013-03-12,3640.0,2.0,28.2,clear
+476,Bengal Gram(Gram),Partaval,2013-04-12,3640.0,5.0,37.7,clear
+477,Bengal Gram(Gram),Partaval,2013-05-12,3645.0,4.0,36.4,clear
+478,Bengal Gram(Gram),Partaval,2013-06-12,3640.0,5.0,36.2,clear
+479,Bengal Gram(Gram),Partaval,2013-09-12,3640.0,1.0,33.3,clear
+480,Bengal Gram(Gram),Partaval,2013-11-12,3630.0,2.0,25.6,clear
+481,Bengal Gram(Gram),Partaval,2013-12-12,3625.0,8.0,23.0,clear
+482,Bengal Gram(Gram),Partaval,2013-12-13,3625.0,4.0,21.8,clear
+483,Bengal Gram(Gram),Partaval,2013-12-14,3620.0,3.0,22.6,clear
+484,Bengal Gram(Gram),Partaval,2013-12-16,3620.0,5.0,24.0,clear
+485,Bengal Gram(Gram),Partaval,2013-12-17,3620.0,1.0,23.8,clear
+486,Bengal Gram(Gram),Partaval,2013-12-18,3625.0,1.5,22.2,clear
+487,Bengal Gram(Gram),Partaval,2013-12-19,3620.0,5.0,21.2,clear
+488,Bengal Gram(Gram),Partaval,2013-12-20,3620.0,1.0,21.8,clear
+489,Bengal Gram(Gram),Partaval,2013-12-21,3625.0,1.5,22.5,clear
+490,Bengal Gram(Gram),Partaval,2013-12-23,3630.0,0.5,24.6,clear
+491,Bengal Gram(Gram),Partaval,2013-12-24,3625.0,4.0,17.1,clear
+492,Bengal Gram(Gram),Partaval,2013-12-26,3630.0,0.5,17.5,clear
+493,Bengal Gram(Gram),Partaval,2013-12-27,3630.0,2.0,14.8,clear
+494,Bengal Gram(Gram),Partaval,2013-12-28,3635.0,0.5,20.5,clear
+495,Bengal Gram(Gram),Anandnagar,2014-07-22,3380.0,0.0,34.2,clear
+496,Bengal Gram(Gram),Partaval,2014-07-22,3385.0,0.5,34.2,clear
+497,Bengal Gram(Gram),Anandnagar,2014-07-23,3380.0,3.5,30.6,clear
+498,Bengal Gram(Gram),Partaval,2014-07-23,3385.0,0.8,30.6,clear
+499,Bengal Gram(Gram),Anandnagar,2014-01-08,3385.0,0.0,16.4,clear
+500,Bengal Gram(Gram),Partaval,2014-01-08,3395.0,1.0,16.4,clear
+501,Bengal Gram(Gram),Anandnagar,2014-02-08,3385.0,0.0,26.4,clear
+502,Bengal Gram(Gram),Partaval,2014-02-08,3390.0,2.0,26.4,clear
+503,Bengal Gram(Gram),Anandnagar,2014-04-08,3385.0,0.0,38.0,clear
+504,Bengal Gram(Gram),Partaval,2014-04-08,3400.0,1.5,38.0,clear
+505,Bengal Gram(Gram),Anandnagar,2014-05-08,3385.0,0.0,37.4,clear
+506,Bengal Gram(Gram),Partaval,2014-05-08,3395.0,2.5,37.4,clear
+507,Bengal Gram(Gram),Anandnagar,2014-07-08,3385.0,11.0,33.4,clear
+508,Bengal Gram(Gram),Partaval,2014-07-08,3400.0,5.0,33.4,clear
+509,Bengal Gram(Gram),Anandnagar,2014-12-08,3385.0,6.0,21.1,clear
+510,Bengal Gram(Gram),Partaval,2014-12-08,3400.0,0.5,21.1,clear
+511,Bengal Gram(Gram),Anandnagar,2014-08-13,3390.0,0.0,29.7,clear
+512,Bengal Gram(Gram),Partaval,2014-08-13,3390.0,1.0,29.7,clear
+513,Bengal Gram(Gram),Anandnagar,2014-08-14,3390.0,12.0,27.6,rain
+514,Bengal Gram(Gram),Partaval,2014-08-14,3390.0,4.0,27.6,rain
+515,Bengal Gram(Gram),Anandnagar,2014-08-16,3390.0,0.0,31.7,clear
+516,Bengal Gram(Gram),Partaval,2014-08-16,3400.0,0.0,31.7,clear
+517,Bengal Gram(Gram),Anandnagar,2014-08-18,3390.0,0.0,28.3,rain
+518,Bengal Gram(Gram),Partaval,2014-08-18,3395.0,1.0,28.3,rain
+519,Bengal Gram(Gram),Anandnagar,2014-08-19,3390.0,0.0,34.6,clear
+520,Bengal Gram(Gram),Partaval,2014-08-19,3400.0,2.0,34.6,clear
+521,Bengal Gram(Gram),Anandnagar,2014-08-20,3390.0,5.0,28.2,rain
+522,Bengal Gram(Gram),Partaval,2014-08-20,3405.0,0.8,28.2,rain
+523,Bengal Gram(Gram),Anandnagar,2014-08-21,3400.0,13.0,32.0,clear
+524,Bengal Gram(Gram),Partaval,2014-08-21,3400.0,4.0,32.0,clear
+525,Bengal Gram(Gram),Anandnagar,2014-08-22,3400.0,0.0,34.9,clear
+526,Bengal Gram(Gram),Partaval,2014-08-22,3400.0,1.0,34.9,clear
+527,Bengal Gram(Gram),Anandnagar,2014-08-25,3400.0,0.0,33.1,clear
+528,Bengal Gram(Gram),Partaval,2014-08-25,3390.0,1.5,33.1,clear
+529,Bengal Gram(Gram),Anandnagar,2014-08-26,3400.0,0.0,32.4,clear
+530,Bengal Gram(Gram),Partaval,2014-08-26,3400.0,0.5,32.4,clear
+531,Bengal Gram(Gram),Anandnagar,2014-08-30,3400.0,0.0,35.7,clear
+532,Bengal Gram(Gram),Partaval,2014-08-30,3395.0,1.2,35.7,clear
+533,Bengal Gram(Gram),Anandnagar,2014-01-09,3450.0,0.0,15.8,clear
+534,Bengal Gram(Gram),Partaval,2014-01-09,3400.0,2.0,15.8,clear
+535,Bengal Gram(Gram),Anandnagar,2014-06-09,3460.0,0.0,37.8,clear
+536,Bengal Gram(Gram),Partaval,2014-06-09,3420.0,2.5,37.8,clear
+537,Bengal Gram(Gram),Anandnagar,2014-09-09,3450.0,4.5,33.9,clear
+538,Bengal Gram(Gram),Partaval,2014-09-09,3430.0,1.5,33.9,clear
+539,Bengal Gram(Gram),Anandnagar,2014-11-09,3440.0,12.5,30.2,clear
+540,Bengal Gram(Gram),Partaval,2014-11-09,3450.0,8.0,30.2,clear
+541,Bengal Gram(Gram),Anandnagar,2014-09-17,3430.0,3.5,34.0,clear
+542,Bengal Gram(Gram),Partaval,2014-09-17,3450.0,2.0,34.0,clear
+543,Bengal Gram(Gram),Anandnagar,2014-09-18,3450.0,14.0,35.2,clear
+544,Bengal Gram(Gram),Partaval,2014-09-18,3460.0,4.0,35.2,clear
+545,Bengal Gram(Gram),Anandnagar,2014-09-22,3445.0,0.0,32.8,clear
+546,Bengal Gram(Gram),Partaval,2014-09-22,3465.0,0.0,32.8,clear
+547,Bengal Gram(Gram),Anandnagar,2014-09-24,3445.0,4.0,31.4,clear
+548,Bengal Gram(Gram),Partaval,2014-09-24,3470.0,2.0,31.4,clear
+549,Bengal Gram(Gram),Anandnagar,2014-09-25,3445.0,14.5,31.2,clear
+550,Bengal Gram(Gram),Partaval,2014-09-25,3470.0,4.0,31.2,clear
+551,Bengal Gram(Gram),Anandnagar,2014-06-10,3450.0,0.0,35.2,clear
+552,Bengal Gram(Gram),Partaval,2014-06-10,3525.0,2.0,35.2,clear
+553,Bengal Gram(Gram),Anandnagar,2014-10-21,3560.0,0.0,31.2,clear
+554,Bengal Gram(Gram),Partaval,2014-10-21,3550.0,2.0,31.2,clear
+555,Bengal Gram(Gram),Anandnagar,2014-10-22,3560.0,4.0,31.2,clear
+556,Bengal Gram(Gram),Partaval,2014-10-22,3550.0,4.0,31.2,clear
+557,Bengal Gram(Gram),Anandnagar,2014-10-23,3560.0,13.5,31.4,clear
+558,Bengal Gram(Gram),Anandnagar,2014-10-28,3560.0,0.0,29.6,clear
+559,Bengal Gram(Gram),Partaval,2014-10-28,3550.0,4.0,29.6,clear
+560,Bengal Gram(Gram),Anandnagar,2014-10-30,3500.0,14.5,28.3,clear
+561,Bengal Gram(Gram),Gadaura,2014-10-30,3565.0,8.0,28.3,clear
+562,Bengal Gram(Gram),Anandnagar,2014-01-11,3460.0,0.0,17.9,clear
+563,Bengal Gram(Gram),Partaval,2014-01-11,3485.0,3.0,17.9,clear
+564,Bengal Gram(Gram),Anandnagar,2014-07-11,3460.0,0.0,31.4,clear
+565,Bengal Gram(Gram),Partaval,2014-07-11,3485.0,5.0,31.4,clear
+566,Bengal Gram(Gram),Anandnagar,2014-11-11,3440.0,0.0,25.6,clear
+567,Bengal Gram(Gram),Partaval,2014-11-11,3480.0,5.0,25.6,clear
+568,Bengal Gram(Gram),Anandnagar,2014-11-15,3425.0,0.0,28.3,clear
+569,Bengal Gram(Gram),Anandnagar,2014-11-27,3425.0,13.0,26.6,clear
+570,Bengal Gram(Gram),Gadaura,2014-11-27,3480.0,20.0,26.6,clear
+571,Bengal Gram(Gram),Partaval,2014-11-27,3480.0,8.0,26.6,clear
+572,Bengal Gram(Gram),Anandnagar,2014-04-12,3450.0,12.0,35.4,clear
+573,Bengal Gram(Gram),Partaval,2014-04-12,3480.0,5.0,35.4,clear
+574,Bengal Gram(Gram),Anandnagar,2014-09-12,3450.0,0.0,32.8,clear
+575,Bengal Gram(Gram),Partaval,2014-09-12,3510.0,4.0,32.8,clear
+576,Bengal Gram(Gram),Anandnagar,2014-11-12,3450.0,13.0,21.6,clear
+577,Bengal Gram(Gram),Partaval,2014-11-12,3515.0,2.5,21.6,clear
+578,Bengal Gram(Gram),Anandnagar,2014-12-16,3450.0,0.0,19.1,clear
+579,Bengal Gram(Gram),Partaval,2014-12-16,3500.0,15.0,19.1,clear
+580,Bengal Gram(Gram),Anandnagar,2014-12-17,3450.0,6.0,20.0,clear
+581,Bengal Gram(Gram),Partaval,2014-12-17,3510.0,8.0,20.0,clear
+582,Bengal Gram(Gram),Anandnagar,2014-12-18,3460.0,13.0,18.2,clear
+583,Bengal Gram(Gram),Partaval,2014-12-18,3510.0,25.0,18.2,clear
+584,Bengal Gram(Gram),Anandnagar,2014-12-24,3450.0,0.0,14.5,clear
+585,Bengal Gram(Gram),Partaval,2014-12-24,3515.0,9.0,14.5,clear
+586,Bengal Gram(Gram),Gadaura,2014-01-30,3520.0,4.0,12.6,clear
+587,Bengal Gram(Gram),Gadaura,2014-02-24,3450.0,6.5,24.6,clear
+588,Bengal Gram(Gram),Gadaura,2014-03-27,3390.0,8.0,35.2,clear
+589,Bengal Gram(Gram),Gadaura,2014-04-28,3500.0,5.0,36.8,clear
+590,Bengal Gram(Gram),Gadaura,2014-05-26,3500.0,5.0,31.5,clear
+591,Bengal Gram(Gram),Gadaura,2014-06-26,3450.0,4.0,34.8,clear
+592,Bengal Gram(Gram),Gadaura,2014-09-29,3490.0,8.0,33.0,clear
+593,Bengal Gram(Gram),Gadaura,2014-12-30,3510.0,15.0,16.2,clear
+594,Bengal Gram(Gram),Nautnava,2014-12-30,3450.0,58.0,16.2,clear
+595,Bengal Gram(Gram),Partaval,2014-12-30,3510.0,8.0,16.2,clear
+596,Bengal Gram(Gram),Nautnava,2014-11-29,3440.0,60.0,25.6,clear
+597,Bengal Gram(Gram),Partaval,2014-11-29,3490.0,12.0,25.6,clear
+598,Bengal Gram(Gram),Partaval,2014-01-01,3600.0,1.0,19.6,clear
+599,Bengal Gram(Gram),Partaval,2014-02-01,3580.0,1.5,16.2,clear
+600,Bengal Gram(Gram),Partaval,2014-03-01,3560.0,1.0,22.0,clear
+601,Bengal Gram(Gram),Partaval,2014-04-01,3550.0,0.5,34.0,clear
+602,Bengal Gram(Gram),Partaval,2014-06-01,3540.0,2.0,35.2,clear
+603,Bengal Gram(Gram),Partaval,2014-07-01,3530.0,1.0,32.8,clear
+604,Bengal Gram(Gram),Partaval,2014-08-01,3525.0,1.5,34.6,clear
+605,Bengal Gram(Gram),Partaval,2014-09-01,3530.0,4.0,33.8,clear
+606,Bengal Gram(Gram),Partaval,2014-10-01,3525.0,1.5,31.4,clear
+607,Bengal Gram(Gram),Partaval,2014-11-01,3530.0,0.5,28.6,clear
+608,Bengal Gram(Gram),Partaval,2014-01-13,3520.0,1.0,14.4,clear
+609,Bengal Gram(Gram),Partaval,2014-01-14,3530.0,0.8,13.8,clear
+610,Bengal Gram(Gram),Partaval,2014-01-15,3540.0,1.2,19.7,clear
+611,Bengal Gram(Gram),Partaval,2014-01-16,3520.0,1.8,17.0,clear
+612,Bengal Gram(Gram),Partaval,2014-01-17,3540.0,1.0,18.8,clear
+613,Bengal Gram(Gram),Partaval,2014-01-18,3550.0,1.5,17.0,clear
+614,Bengal Gram(Gram),Partaval,2014-01-20,3550.0,1.0,14.5,clear
+615,Bengal Gram(Gram),Partaval,2014-01-21,3540.0,1.8,18.6,clear
+616,Bengal Gram(Gram),Partaval,2014-01-22,3525.0,1.5,23.0,clear
+617,Bengal Gram(Gram),Partaval,2014-01-23,3520.0,4.0,23.8,clear
+618,Bengal Gram(Gram),Partaval,2014-01-24,3510.0,2.0,17.0,clear
+619,Bengal Gram(Gram),Partaval,2014-01-25,3520.0,1.0,18.6,clear
+620,Bengal Gram(Gram),Partaval,2014-01-27,3525.0,1.5,15.2,clear
+621,Bengal Gram(Gram),Partaval,2014-01-28,3525.0,0.8,15.5,clear
+622,Bengal Gram(Gram),Partaval,2014-01-29,3530.0,0.5,20.3,clear
+623,Bengal Gram(Gram),Partaval,2014-01-31,3540.0,1.0,14.7,clear
+624,Bengal Gram(Gram),Partaval,2014-01-02,3540.0,0.5,14.8,clear
+625,Bengal Gram(Gram),Partaval,2014-03-02,3550.0,1.0,26.2,clear
+626,Bengal Gram(Gram),Partaval,2014-04-02,3550.0,0.8,35.2,clear
+627,Bengal Gram(Gram),Partaval,2014-05-02,3540.0,0.5,34.4,clear
+628,Bengal Gram(Gram),Partaval,2014-06-02,3540.0,2.0,37.6,clear
+629,Bengal Gram(Gram),Partaval,2014-07-02,3525.0,1.0,34.5,clear
+630,Bengal Gram(Gram),Partaval,2014-08-02,3520.0,0.5,36.3,clear
+631,Bengal Gram(Gram),Partaval,2014-10-02,3520.0,0.8,33.0,clear
+632,Bengal Gram(Gram),Partaval,2014-11-02,3510.0,1.5,30.2,clear
+633,Bengal Gram(Gram),Partaval,2014-12-02,3510.0,4.0,25.4,clear
+634,Bengal Gram(Gram),Partaval,2014-02-13,3480.0,5.0,24.0,clear
+635,Bengal Gram(Gram),Partaval,2014-02-14,3470.0,0.5,18.4,clear
+636,Bengal Gram(Gram),Partaval,2014-02-15,3450.0,1.0,19.4,clear
+637,Bengal Gram(Gram),Partaval,2014-02-17,3450.0,0.8,18.4,clear
+638,Bengal Gram(Gram),Partaval,2014-02-18,3450.0,1.5,20.4,clear
+639,Bengal Gram(Gram),Partaval,2014-02-20,3440.0,2.0,11.4,clear
+640,Bengal Gram(Gram),Partaval,2014-02-21,3450.0,0.5,24.0,clear
+641,Bengal Gram(Gram),Partaval,2014-02-22,3450.0,4.0,17.6,clear
+642,Bengal Gram(Gram),Partaval,2014-02-25,3440.0,5.0,22.8,clear
+643,Bengal Gram(Gram),Partaval,2014-02-26,3450.0,2.0,24.0,clear
+644,Bengal Gram(Gram),Partaval,2014-02-27,3450.0,4.0,25.8,clear
+645,Bengal Gram(Gram),Partaval,2014-02-28,3450.0,8.0,25.6,clear
+646,Bengal Gram(Gram),Partaval,2014-01-03,3455.0,2.0,15.6,clear
+647,Bengal Gram(Gram),Partaval,2014-03-03,3460.0,0.5,24.0,clear
+648,Bengal Gram(Gram),Partaval,2014-04-03,3450.0,1.0,33.0,clear
+649,Bengal Gram(Gram),Partaval,2014-05-03,3440.0,1.5,35.0,clear
+650,Bengal Gram(Gram),Partaval,2014-06-03,3420.0,4.0,39.3,clear
+651,Bengal Gram(Gram),Partaval,2014-08-03,3425.0,2.0,31.7,clear
+652,Bengal Gram(Gram),Partaval,2014-10-03,3425.0,1.5,33.0,clear
+653,Bengal Gram(Gram),Partaval,2014-11-03,3430.0,0.5,30.4,clear
+654,Bengal Gram(Gram),Partaval,2014-12-03,3440.0,1.0,19.6,clear
+655,Bengal Gram(Gram),Partaval,2014-03-21,3370.0,2.0,30.1,clear
+656,Bengal Gram(Gram),Partaval,2014-03-22,3370.0,4.0,30.0,clear
+657,Bengal Gram(Gram),Partaval,2014-03-24,3365.0,5.0,29.6,clear
+658,Bengal Gram(Gram),Partaval,2014-03-25,3365.0,7.0,31.8,clear
+659,Bengal Gram(Gram),Partaval,2014-03-26,3360.0,4.0,33.4,clear
+660,Bengal Gram(Gram),Partaval,2014-03-28,3400.0,5.0,38.4,clear
+661,Bengal Gram(Gram),Partaval,2014-03-29,3400.0,6.5,37.6,clear
+662,Bengal Gram(Gram),Partaval,2014-03-31,3410.0,4.0,32.3,clear
+663,Bengal Gram(Gram),Partaval,2014-01-04,3400.0,4.0,17.7,clear
+664,Bengal Gram(Gram),Partaval,2014-02-04,3410.0,2.0,17.4,clear
+665,Bengal Gram(Gram),Partaval,2014-03-04,3415.0,5.0,23.6,clear
+666,Bengal Gram(Gram),Partaval,2014-04-04,3415.0,1.0,33.1,clear
+667,Bengal Gram(Gram),Partaval,2014-05-04,3415.0,2.0,36.3,clear
+668,Bengal Gram(Gram),Partaval,2014-07-04,3420.0,0.8,29.8,clear
+669,Bengal Gram(Gram),Partaval,2014-08-04,3420.0,1.0,33.9,clear
+670,Bengal Gram(Gram),Partaval,2014-10-04,3420.0,4.0,33.2,clear
+671,Bengal Gram(Gram),Partaval,2014-12-04,3425.0,0.5,22.7,clear
+672,Bengal Gram(Gram),Partaval,2014-04-14,3430.0,1.0,32.4,clear
+673,Bengal Gram(Gram),Partaval,2014-04-15,3440.0,1.5,37.8,clear
+674,Bengal Gram(Gram),Partaval,2014-04-17,3460.0,5.0,37.6,clear
+675,Bengal Gram(Gram),Partaval,2014-04-18,3465.0,1.0,36.2,clear
+676,Bengal Gram(Gram),Partaval,2014-04-19,3470.0,1.5,36.9,clear
+677,Bengal Gram(Gram),Partaval,2014-04-21,3480.0,0.5,36.7,clear
+678,Bengal Gram(Gram),Partaval,2014-04-22,3485.0,1.0,36.6,clear
+679,Bengal Gram(Gram),Partaval,2014-04-23,3490.0,0.5,39.2,clear
+680,Bengal Gram(Gram),Partaval,2014-04-24,3500.0,2.0,37.0,clear
+681,Bengal Gram(Gram),Partaval,2014-04-26,3510.0,0.8,38.6,clear
+682,Bengal Gram(Gram),Partaval,2014-04-29,3510.0,0.5,38.7,clear
+683,Bengal Gram(Gram),Partaval,2014-04-30,3515.0,2.0,37.4,clear
+684,Bengal Gram(Gram),Partaval,2014-01-05,3515.0,2.0,21.0,clear
+685,Bengal Gram(Gram),Partaval,2014-02-05,3510.0,1.5,21.0,clear
+686,Bengal Gram(Gram),Partaval,2014-05-05,3510.0,0.5,26.0,clear
+687,Bengal Gram(Gram),Partaval,2014-07-05,3515.0,2.0,31.6,clear
+688,Bengal Gram(Gram),Partaval,2014-08-05,3510.0,4.0,34.4,clear
+689,Bengal Gram(Gram),Partaval,2014-09-05,3515.0,0.5,35.8,clear
+690,Bengal Gram(Gram),Partaval,2014-10-05,3510.0,1.5,33.9,clear
+691,Bengal Gram(Gram),Partaval,2014-05-13,3510.0,0.8,41.0,clear
+692,Bengal Gram(Gram),Partaval,2014-05-14,3515.0,1.0,39.4,clear
+693,Bengal Gram(Gram),Partaval,2014-05-15,3525.0,2.0,37.8,clear
+694,Bengal Gram(Gram),Partaval,2014-05-17,3520.0,1.0,40.2,clear
+695,Bengal Gram(Gram),Partaval,2014-05-19,3520.0,0.5,37.6,clear
+696,Bengal Gram(Gram),Partaval,2014-05-21,3510.0,0.8,41.6,clear
+697,Bengal Gram(Gram),Partaval,2014-05-22,3500.0,4.0,39.0,clear
+698,Bengal Gram(Gram),Partaval,2014-05-24,3500.0,1.0,39.4,clear
+699,Bengal Gram(Gram),Partaval,2014-05-27,3510.0,1.5,30.8,clear
+700,Bengal Gram(Gram),Partaval,2014-05-28,3500.0,2.0,35.5,clear
+701,Bengal Gram(Gram),Partaval,2014-05-29,3490.0,5.0,34.4,clear
+702,Bengal Gram(Gram),Partaval,2014-05-30,3500.0,4.0,34.8,clear
+703,Bengal Gram(Gram),Partaval,2014-05-31,3500.0,1.0,32.8,clear
+704,Bengal Gram(Gram),Partaval,2014-02-06,3510.0,2.0,21.4,clear
+705,Bengal Gram(Gram),Partaval,2014-03-06,3500.0,0.5,22.1,clear
+706,Bengal Gram(Gram),Partaval,2014-05-06,3490.0,4.0,34.2,clear
+707,Bengal Gram(Gram),Partaval,2014-07-06,3500.0,1.0,31.6,clear
+708,Bengal Gram(Gram),Partaval,2014-09-06,3480.0,0.5,35.2,clear
+709,Bengal Gram(Gram),Partaval,2014-10-06,3470.0,1.2,34.4,clear
+710,Bengal Gram(Gram),Partaval,2014-12-06,3455.0,4.0,17.1,clear
+711,Bengal Gram(Gram),Partaval,2014-06-13,3455.0,1.0,39.4,clear
+712,Bengal Gram(Gram),Partaval,2014-06-16,3440.0,1.5,43.4,clear
+713,Bengal Gram(Gram),Partaval,2014-06-17,3430.0,1.0,31.2,clear
+714,Bengal Gram(Gram),Partaval,2014-06-18,3430.0,0.5,35.8,clear
+715,Bengal Gram(Gram),Partaval,2014-06-19,3425.0,4.0,33.4,clear
+716,Bengal Gram(Gram),Partaval,2014-06-20,3425.0,1.0,30.6,clear
+717,Bengal Gram(Gram),Partaval,2014-06-21,3430.0,0.5,29.6,clear
+718,Bengal Gram(Gram),Partaval,2014-06-23,3440.0,1.0,34.8,clear
+719,Bengal Gram(Gram),Partaval,2014-06-25,3465.0,0.5,36.0,clear
+720,Bengal Gram(Gram),Partaval,2014-06-27,3470.0,2.0,36.2,clear
+721,Bengal Gram(Gram),Partaval,2014-06-30,3470.0,2.0,31.9,clear
+722,Bengal Gram(Gram),Partaval,2014-01-07,3465.0,1.5,12.6,clear
+723,Bengal Gram(Gram),Partaval,2014-02-07,3470.0,0.5,20.5,clear
+724,Bengal Gram(Gram),Partaval,2014-03-07,3450.0,4.0,27.9,clear
+725,Bengal Gram(Gram),Partaval,2014-04-07,3440.0,0.5,35.4,clear
+726,Bengal Gram(Gram),Partaval,2014-05-07,3430.0,1.0,36.2,clear
+727,Bengal Gram(Gram),Partaval,2014-07-07,3420.0,0.5,32.0,clear
+728,Bengal Gram(Gram),Partaval,2014-09-07,3420.0,1.5,32.5,clear
+729,Bengal Gram(Gram),Partaval,2014-10-07,3425.0,4.0,33.6,clear
+730,Bengal Gram(Gram),Partaval,2014-12-07,3380.0,0.8,21.2,clear
+731,Bengal Gram(Gram),Partaval,2014-07-14,3365.0,5.0,33.7,clear
+732,Bengal Gram(Gram),Partaval,2014-07-15,3360.0,1.0,33.4,clear
+733,Bengal Gram(Gram),Partaval,2014-07-16,3350.0,2.0,32.4,clear
+734,Bengal Gram(Gram),Partaval,2014-07-17,3350.0,4.0,32.8,clear
+735,Bengal Gram(Gram),Partaval,2014-07-18,3440.0,0.5,33.2,clear
+736,Bengal Gram(Gram),Partaval,2014-07-19,3410.0,2.0,32.4,clear
+737,Bengal Gram(Gram),Partaval,2014-07-21,3390.0,1.0,33.3,clear
+738,Bengal Gram(Gram),Partaval,2014-07-24,3380.0,4.0,28.6,clear
+739,Bengal Gram(Gram),Partaval,2014-07-25,3380.0,1.5,33.8,clear
+740,Bengal Gram(Gram),Partaval,2014-07-26,3375.0,1.0,33.2,clear
+741,Bengal Gram(Gram),Partaval,2014-07-29,3385.0,1.0,35.4,clear
+742,Bengal Gram(Gram),Partaval,2014-07-30,3390.0,0.5,35.3,clear
+743,Bengal Gram(Gram),Partaval,2014-07-31,3385.0,2.0,35.0,clear
+744,Bengal Gram(Gram),Partaval,2014-06-08,3400.0,2.0,37.2,clear
+745,Bengal Gram(Gram),Partaval,2014-08-08,3410.0,0.5,32.6,clear
+746,Bengal Gram(Gram),Partaval,2014-08-23,3405.0,1.5,29.1,clear
+747,Bengal Gram(Gram),Partaval,2014-08-27,3405.0,1.0,32.2,clear
+748,Bengal Gram(Gram),Partaval,2014-08-29,3400.0,2.0,35.3,clear
+749,Bengal Gram(Gram),Partaval,2014-02-09,3410.0,1.5,22.2,clear
+750,Bengal Gram(Gram),Partaval,2014-03-09,3415.0,0.5,24.0,clear
+751,Bengal Gram(Gram),Partaval,2014-04-09,3410.0,4.0,36.2,clear
+752,Bengal Gram(Gram),Partaval,2014-05-09,3415.0,2.0,41.6,clear
+753,Bengal Gram(Gram),Partaval,2014-08-09,3425.0,1.0,34.8,clear
+754,Bengal Gram(Gram),Partaval,2014-10-09,3440.0,5.0,34.0,clear
+755,Bengal Gram(Gram),Partaval,2014-12-09,3450.0,2.0,22.0,clear
+756,Bengal Gram(Gram),Partaval,2014-09-13,3450.0,0.5,28.0,clear
+757,Bengal Gram(Gram),Partaval,2014-09-15,3455.0,1.5,31.4,clear
+758,Bengal Gram(Gram),Partaval,2014-09-20,3460.0,1.0,33.6,clear
+759,Bengal Gram(Gram),Partaval,2014-09-23,3465.0,1.5,32.4,clear
+760,Bengal Gram(Gram),Partaval,2014-09-26,3475.0,2.5,32.5,clear
+761,Bengal Gram(Gram),Partaval,2014-09-27,3485.0,5.0,33.0,clear
+762,Bengal Gram(Gram),Partaval,2014-01-10,3490.0,1.5,21.2,clear
+763,Bengal Gram(Gram),Partaval,2014-02-10,3500.0,2.0,19.0,clear
+764,Bengal Gram(Gram),Partaval,2014-04-10,3520.0,1.0,35.4,clear
+765,Bengal Gram(Gram),Partaval,2014-07-10,3530.0,4.0,34.6,clear
+766,Bengal Gram(Gram),Partaval,2014-08-10,3530.0,3.5,31.4,clear
+767,Bengal Gram(Gram),Partaval,2014-09-10,3540.0,8.0,35.0,clear
+768,Bengal Gram(Gram),Partaval,2014-10-10,3540.0,5.0,33.4,clear
+769,Bengal Gram(Gram),Partaval,2014-11-10,3530.0,2.5,30.3,clear
+770,Bengal Gram(Gram),Partaval,2014-10-13,3530.0,2.0,26.2,rain
+771,Bengal Gram(Gram),Partaval,2014-10-14,3540.0,4.5,21.6,rain
+772,Bengal Gram(Gram),Partaval,2014-10-18,3540.0,1.0,27.0,clear
+773,Bengal Gram(Gram),Partaval,2014-10-20,3540.0,1.5,30.3,clear
+774,Bengal Gram(Gram),Partaval,2014-10-24,3540.0,8.0,31.0,clear
+775,Bengal Gram(Gram),Partaval,2014-10-25,3560.0,7.0,30.6,clear
+776,Bengal Gram(Gram),Partaval,2014-10-27,3570.0,2.5,31.2,clear
+777,Bengal Gram(Gram),Partaval,2014-10-29,3550.0,2.0,28.8,clear
+778,Bengal Gram(Gram),Partaval,2014-10-31,3530.0,5.0,29.4,clear
+779,Bengal Gram(Gram),Partaval,2014-04-11,3490.0,3.5,35.7,clear
+780,Bengal Gram(Gram),Partaval,2014-05-11,3480.0,2.0,41.9,clear
+781,Bengal Gram(Gram),Partaval,2014-06-11,3480.0,3.0,37.6,clear
+782,Bengal Gram(Gram),Partaval,2014-10-11,3490.0,4.0,32.0,clear
+783,Bengal Gram(Gram),Partaval,2014-12-11,3485.0,2.0,19.5,clear
+784,Bengal Gram(Gram),Partaval,2014-11-28,3480.0,5.0,25.4,clear
+785,Bengal Gram(Gram),Partaval,2014-01-12,3485.0,4.0,22.0,clear
+786,Bengal Gram(Gram),Partaval,2014-02-12,3485.0,2.0,22.6,clear
+787,Bengal Gram(Gram),Partaval,2014-05-12,3480.0,4.0,40.0,clear
+788,Bengal Gram(Gram),Partaval,2014-06-12,3475.0,6.5,38.0,clear
+789,Bengal Gram(Gram),Partaval,2014-08-12,3500.0,2.0,33.8,clear
+790,Bengal Gram(Gram),Partaval,2014-10-12,3515.0,1.0,33.0,clear
+791,Bengal Gram(Gram),Partaval,2014-12-12,3520.0,1.5,22.3,clear
+792,Bengal Gram(Gram),Partaval,2014-12-13,3510.0,25.0,21.5,clear
+793,Bengal Gram(Gram),Partaval,2014-12-15,3500.0,12.0,24.7,clear
+794,Bengal Gram(Gram),Partaval,2014-12-19,3500.0,11.0,17.5,clear
+795,Bengal Gram(Gram),Partaval,2014-12-20,3500.0,12.0,9.0,clear
+796,Bengal Gram(Gram),Partaval,2014-12-22,3510.0,8.0,17.9,clear
+797,Bengal Gram(Gram),Partaval,2014-12-23,3510.0,20.0,13.5,clear
+798,Bengal Gram(Gram),Partaval,2014-12-25,3510.0,5.0,12.2,clear
+799,Bengal Gram(Gram),Partaval,2014-12-26,3500.0,25.0,14.1,clear
+800,Bengal Gram(Gram),Partaval,2014-12-27,3500.0,4.0,12.9,clear
+801,Bengal Gram(Gram),Partaval,2014-12-29,3500.0,0.0,11.8,clear
+802,Bengal Gram(Gram),Partaval,2014-12-31,3500.0,15.0,26.0,clear
+803,Bengal Gram(Gram),Anandnagar,2015-01-01,3450.0,17.0,19.0,clear
+804,Bengal Gram(Gram),Partaval,2015-01-01,3500.0,4.0,19.0,clear
+805,Bengal Gram(Gram),Anandnagar,2015-05-01,3450.0,0.0,32.9,clear
+806,Bengal Gram(Gram),Partaval,2015-05-01,3520.0,15.0,32.9,clear
+807,Bengal Gram(Gram),Anandnagar,2015-07-01,3520.0,0.0,34.3,clear
+808,Bengal Gram(Gram),Partaval,2015-07-01,3525.0,8.0,34.3,clear
+809,Bengal Gram(Gram),Anandnagar,2015-01-14,3500.0,0.0,20.9,clear
+810,Bengal Gram(Gram),Partaval,2015-01-14,3550.0,8.0,20.9,clear
+811,Bengal Gram(Gram),Anandnagar,2015-01-19,3550.0,0.0,12.1,clear
+812,Bengal Gram(Gram),Partaval,2015-01-19,3550.0,10.0,12.1,clear
+813,Bengal Gram(Gram),Anandnagar,2015-01-20,3560.0,0.0,15.6,clear
+814,Bengal Gram(Gram),Partaval,2015-01-20,3560.0,5.0,15.6,clear
+815,Bengal Gram(Gram),Anandnagar,2015-01-21,3550.0,0.0,20.2,clear
+816,Bengal Gram(Gram),Partaval,2015-01-21,3560.0,0.0,20.2,clear
+817,Bengal Gram(Gram),Anandnagar,2015-01-22,3560.0,14.0,22.7,clear
+818,Bengal Gram(Gram),Partaval,2015-01-22,3570.0,20.0,22.7,clear
+819,Bengal Gram(Gram),Anandnagar,2015-01-23,3560.0,0.0,23.6,clear
+820,Bengal Gram(Gram),Partaval,2015-01-23,3580.0,5.0,23.6,clear
+821,Bengal Gram(Gram),Anandnagar,2015-01-26,3560.0,0.0,17.4,clear
+822,Bengal Gram(Gram),Anandnagar,2015-01-28,3560.0,5.0,24.2,clear
+823,Bengal Gram(Gram),Anandnagar,2015-01-30,3570.0,0.0,13.0,clear
+824,Bengal Gram(Gram),Nautnava,2015-01-30,3570.0,72.0,13.0,clear
+825,Bengal Gram(Gram),Partaval,2015-01-30,3600.0,0.0,13.0,clear
+826,Bengal Gram(Gram),Anandnagar,2015-02-02,3575.0,0.0,23.6,clear
+827,Bengal Gram(Gram),Partaval,2015-02-02,3600.0,0.0,23.6,clear
+828,Bengal Gram(Gram),Anandnagar,2015-05-02,3585.0,14.6,34.4,clear
+829,Bengal Gram(Gram),Partaval,2015-05-02,3610.0,5.0,34.4,clear
+830,Bengal Gram(Gram),Anandnagar,2015-09-02,3600.0,0.0,32.3,clear
+831,Bengal Gram(Gram),Partaval,2015-09-02,3600.0,2.0,32.3,clear
+832,Bengal Gram(Gram),Anandnagar,2015-11-02,3600.0,0.0,32.6,clear
+833,Bengal Gram(Gram),Anandnagar,2015-12-02,3600.0,13.5,25.8,clear
+834,Bengal Gram(Gram),Anandnagar,2015-02-13,3600.0,0.0,23.3,clear
+835,Bengal Gram(Gram),Partaval,2015-02-13,3610.0,4.0,23.3,clear
+836,Bengal Gram(Gram),Anandnagar,2015-02-14,3600.0,0.0,24.0,clear
+837,Bengal Gram(Gram),Partaval,2015-02-14,3610.0,0.0,24.0,clear
+838,Bengal Gram(Gram),Anandnagar,2015-02-16,3600.0,0.0,26.0,clear
+839,Bengal Gram(Gram),Partaval,2015-02-16,3620.0,2.0,26.0,clear
+840,Bengal Gram(Gram),Anandnagar,2015-02-18,3600.0,0.0,27.4,clear
+841,Bengal Gram(Gram),Partaval,2015-02-18,3630.0,1.5,27.4,clear
+842,Bengal Gram(Gram),Anandnagar,2015-02-19,3600.0,0.0,26.6,clear
+843,Bengal Gram(Gram),Partaval,2015-02-19,3640.0,5.0,26.6,clear
+844,Bengal Gram(Gram),Anandnagar,2015-02-21,3600.0,0.0,27.0,clear
+845,Bengal Gram(Gram),Partaval,2015-02-21,3640.0,40.0,27.0,clear
+846,Bengal Gram(Gram),Anandnagar,2015-02-25,3600.0,4.0,28.3,clear
+847,Bengal Gram(Gram),Partaval,2015-02-25,3650.0,9.0,28.3,clear
+848,Bengal Gram(Gram),Anandnagar,2015-02-26,3600.0,10.0,23.1,rain
+849,Bengal Gram(Gram),Gadaura,2015-02-26,3660.0,20.0,23.1,rain
+850,Bengal Gram(Gram),Partaval,2015-02-26,3650.0,60.0,23.1,rain
+851,Bengal Gram(Gram),Anandnagar,2015-02-28,3600.0,0.0,25.0,clear
+852,Bengal Gram(Gram),Partaval,2015-02-28,3650.0,20.0,25.0,clear
+853,Bengal Gram(Gram),Anandnagar,2015-02-03,3600.0,0.0,25.4,clear
+854,Bengal Gram(Gram),Partaval,2015-02-03,3635.0,2.0,25.4,clear
+855,Bengal Gram(Gram),Anandnagar,2015-06-03,3659.0,0.0,39.2,clear
+856,Bengal Gram(Gram),Anandnagar,2015-10-03,3600.0,0.0,33.8,clear
+857,Bengal Gram(Gram),Partaval,2015-10-03,3585.0,2.0,33.8,clear
+858,Bengal Gram(Gram),Anandnagar,2015-03-19,3550.0,15.0,29.0,clear
+859,Bengal Gram(Gram),Partaval,2015-03-19,3580.0,15.0,29.0,clear
+860,Bengal Gram(Gram),Anandnagar,2015-03-20,3550.0,0.0,30.4,clear
+861,Bengal Gram(Gram),Partaval,2015-03-20,3600.0,0.0,30.4,clear
+862,Bengal Gram(Gram),Anandnagar,2015-03-21,3530.0,0.0,31.5,clear
+863,Bengal Gram(Gram),Partaval,2015-03-21,3600.0,2.0,31.5,clear
+864,Bengal Gram(Gram),Anandnagar,2015-03-23,3525.0,0.0,32.9,clear
+865,Bengal Gram(Gram),Partaval,2015-03-23,3610.0,1.0,32.9,clear
+866,Bengal Gram(Gram),Anandnagar,2015-03-25,3600.0,6.0,34.8,clear
+867,Bengal Gram(Gram),Partaval,2015-03-25,3590.0,40.0,34.8,clear
+868,Bengal Gram(Gram),Anandnagar,2015-01-04,3625.0,4.0,23.1,clear
+869,Bengal Gram(Gram),Partaval,2015-01-04,3610.0,0.0,23.1,clear
+870,Bengal Gram(Gram),Anandnagar,2015-02-04,3650.0,14.0,22.5,clear
+871,Bengal Gram(Gram),Partaval,2015-02-04,3610.0,5.0,22.5,clear
+872,Bengal Gram(Gram),Anandnagar,2015-07-04,3650.0,0.0,33.7,rain
+873,Bengal Gram(Gram),Partaval,2015-07-04,3600.0,20.0,33.7,rain
+874,Bengal Gram(Gram),Anandnagar,2015-08-04,3650.0,5.0,33.6,clear
+875,Bengal Gram(Gram),Partaval,2015-08-04,3600.0,12.0,33.6,clear
+876,Bengal Gram(Gram),Anandnagar,2015-04-13,3650.0,0.0,28.8,clear
+877,Bengal Gram(Gram),Partaval,2015-04-13,3600.0,40.0,28.8,clear
+878,Bengal Gram(Gram),Anandnagar,2015-04-16,3650.0,15.0,34.4,clear
+879,Bengal Gram(Gram),Partaval,2015-04-16,3580.0,20.0,34.4,clear
+880,Bengal Gram(Gram),Anandnagar,2015-04-22,3700.0,5.0,35.9,clear
+881,Bengal Gram(Gram),Partaval,2015-04-22,3590.0,80.0,35.9,clear
+882,Bengal Gram(Gram),Anandnagar,2015-04-24,3720.0,0.0,34.7,clear
+883,Bengal Gram(Gram),Partaval,2015-04-24,3590.0,0.0,34.7,clear
+884,Bengal Gram(Gram),Anandnagar,2015-04-25,3720.0,0.0,21.2,clear
+885,Bengal Gram(Gram),Partaval,2015-04-25,3590.0,20.0,21.2,clear
+886,Bengal Gram(Gram),Anandnagar,2015-02-05,3750.0,0.0,18.0,clear
+887,Bengal Gram(Gram),Partaval,2015-02-05,3665.0,0.0,18.0,clear
+888,Bengal Gram(Gram),Anandnagar,2015-04-05,3750.0,0.0,32.4,clear
+889,Bengal Gram(Gram),Partaval,2015-04-05,3685.0,12.0,32.4,clear
+890,Bengal Gram(Gram),Anandnagar,2015-06-05,3725.0,6.0,39.7,clear
+891,Bengal Gram(Gram),Partaval,2015-06-05,3725.0,0.0,39.7,clear
+892,Bengal Gram(Gram),Anandnagar,2015-11-05,3925.0,0.0,29.8,clear
+893,Bengal Gram(Gram),Partaval,2015-11-05,4100.0,0.0,29.8,clear
+894,Bengal Gram(Gram),Anandnagar,2015-05-15,4100.0,0.0,37.6,clear
+895,Bengal Gram(Gram),Partaval,2015-05-15,4150.0,0.0,37.6,clear
+896,Bengal Gram(Gram),Anandnagar,2015-05-16,4125.0,0.0,34.4,clear
+897,Bengal Gram(Gram),Partaval,2015-05-16,4165.0,0.0,34.4,clear
+898,Bengal Gram(Gram),Anandnagar,2015-05-18,4125.0,0.0,34.1,clear
+899,Bengal Gram(Gram),Partaval,2015-05-18,4225.0,0.0,34.1,clear
+900,Bengal Gram(Gram),Anandnagar,2015-05-19,4150.0,0.0,34.6,clear
+901,Bengal Gram(Gram),Partaval,2015-05-19,4260.0,0.0,34.6,clear
+902,Bengal Gram(Gram),Anandnagar,2015-05-20,4160.0,5.0,35.2,clear
+903,Bengal Gram(Gram),Partaval,2015-05-20,4300.0,0.0,35.2,clear
+904,Bengal Gram(Gram),Anandnagar,2015-05-21,4150.0,15.0,38.8,clear
+905,Bengal Gram(Gram),Partaval,2015-05-21,4325.0,1.0,38.8,clear
+906,Bengal Gram(Gram),Anandnagar,2015-05-22,4160.0,0.0,39.4,clear
+907,Bengal Gram(Gram),Partaval,2015-05-22,4350.0,0.0,39.4,clear
+908,Bengal Gram(Gram),Anandnagar,2015-05-25,4275.0,0.0,36.4,clear
+909,Bengal Gram(Gram),Partaval,2015-05-25,4450.0,120.0,36.4,clear
+910,Bengal Gram(Gram),Anandnagar,2015-05-26,4250.0,0.0,36.8,clear
+911,Bengal Gram(Gram),Partaval,2015-05-26,4510.0,0.0,36.8,clear
+912,Bengal Gram(Gram),Anandnagar,2015-05-28,4400.0,4.0,36.2,clear
+913,Bengal Gram(Gram),Gadaura,2015-05-28,4550.0,5.0,36.2,clear
+914,Bengal Gram(Gram),Partaval,2015-05-28,4550.0,84.0,36.2,clear
+915,Bengal Gram(Gram),Anandnagar,2015-05-29,4525.0,13.0,37.0,clear
+916,Bengal Gram(Gram),Nautnava,2015-05-29,4600.0,62.0,37.0,clear
+917,Bengal Gram(Gram),Partaval,2015-05-29,4580.0,1.0,37.0,clear
+918,Bengal Gram(Gram),Anandnagar,2015-05-30,4550.0,0.0,35.7,clear
+919,Bengal Gram(Gram),Partaval,2015-05-30,4600.0,2.0,35.7,clear
+920,Bengal Gram(Gram),Anandnagar,2015-03-06,4650.0,4.0,26.4,clear
+921,Bengal Gram(Gram),Partaval,2015-03-06,4725.0,1.5,26.4,clear
+922,Bengal Gram(Gram),Anandnagar,2015-04-06,4650.0,0.0,32.6,clear
+923,Bengal Gram(Gram),Partaval,2015-04-06,4740.0,2.5,32.6,clear
+924,Bengal Gram(Gram),Anandnagar,2015-05-06,4660.0,0.0,36.6,clear
+925,Bengal Gram(Gram),Partaval,2015-05-06,4750.0,0.0,36.6,clear
+926,Bengal Gram(Gram),Anandnagar,2015-06-06,4720.0,0.0,42.8,clear
+927,Bengal Gram(Gram),Partaval,2015-06-06,4750.0,4.0,42.8,clear
+928,Bengal Gram(Gram),Anandnagar,2015-10-06,4750.0,4.0,34.6,clear
+929,Bengal Gram(Gram),Partaval,2015-10-06,4800.0,40.0,34.6,clear
+930,Bengal Gram(Gram),Anandnagar,2015-11-06,4820.0,10.0,28.4,clear
+931,Bengal Gram(Gram),Partaval,2015-11-06,4820.0,0.0,28.4,clear
+932,Bengal Gram(Gram),Anandnagar,2015-12-06,4850.0,0.0,25.4,clear
+933,Bengal Gram(Gram),Partaval,2015-12-06,4850.0,85.0,25.4,clear
+934,Bengal Gram(Gram),Anandnagar,2015-06-13,4850.0,0.0,31.8,clear
+935,Bengal Gram(Gram),Partaval,2015-06-13,4880.0,45.0,31.8,clear
+936,Bengal Gram(Gram),Anandnagar,2015-06-15,4850.0,0.0,33.9,clear
+937,Bengal Gram(Gram),Partaval,2015-06-15,4910.0,20.0,33.9,clear
+938,Bengal Gram(Gram),Anandnagar,2015-06-16,4860.0,0.0,34.2,clear
+939,Bengal Gram(Gram),Partaval,2015-06-16,4915.0,30.0,34.2,clear
+940,Bengal Gram(Gram),Anandnagar,2015-06-22,4950.0,0.0,36.3,clear
+941,Bengal Gram(Gram),Partaval,2015-06-22,4980.0,30.0,36.3,clear
+942,Bengal Gram(Gram),Anandnagar,2015-06-23,4950.0,0.0,35.2,clear
+943,Bengal Gram(Gram),Partaval,2015-06-23,4990.0,4.0,35.2,clear
+944,Bengal Gram(Gram),Anandnagar,2015-06-25,4970.0,10.0,30.6,clear
+945,Bengal Gram(Gram),Gadaura,2015-06-25,5020.0,5.0,30.6,clear
+946,Bengal Gram(Gram),Partaval,2015-06-25,5025.0,40.0,30.6,clear
+947,Bengal Gram(Gram),Anandnagar,2015-01-07,5000.0,0.0,20.8,clear
+948,Bengal Gram(Gram),Partaval,2015-01-07,5080.0,3.5,20.8,clear
+949,Bengal Gram(Gram),Anandnagar,2015-02-07,5000.0,15.0,20.1,clear
+950,Bengal Gram(Gram),Partaval,2015-02-07,5080.0,25.0,20.1,clear
+951,Bengal Gram(Gram),Anandnagar,2015-07-07,5050.0,0.0,34.3,clear
+952,Bengal Gram(Gram),Anandnagar,2015-09-07,5050.0,10.0,32.9,clear
+953,Bengal Gram(Gram),Anandnagar,2015-07-18,5000.0,0.0,34.1,clear
+954,Bengal Gram(Gram),Partaval,2015-07-18,5175.0,1.0,34.1,clear
+955,Bengal Gram(Gram),Anandnagar,2015-07-20,5050.0,0.0,34.2,clear
+956,Bengal Gram(Gram),Partaval,2015-07-20,5175.0,1.5,34.2,clear
+957,Bengal Gram(Gram),Anandnagar,2015-07-22,5000.0,4.0,32.7,clear
+958,Bengal Gram(Gram),Partaval,2015-07-22,5200.0,1.0,32.7,clear
+959,Bengal Gram(Gram),Anandnagar,2015-07-24,5100.0,0.0,34.5,clear
+960,Bengal Gram(Gram),Gadaura,2015-07-24,5150.0,2.0,34.5,clear
+961,Bengal Gram(Gram),Anandnagar,2015-07-27,5000.0,0.0,36.4,clear
+962,Bengal Gram(Gram),Partaval,2015-07-27,5210.0,2.0,36.4,clear
+963,Bengal Gram(Gram),Anandnagar,2015-07-30,5100.0,11.0,36.1,clear
+964,Bengal Gram(Gram),Partaval,2015-07-30,5215.0,2.0,36.1,clear
+965,Bengal Gram(Gram),Anandnagar,2015-07-31,5100.0,0.0,32.3,clear
+966,Bengal Gram(Gram),Partaval,2015-07-31,5215.0,1.5,32.3,clear
+967,Bengal Gram(Gram),Anandnagar,2015-04-08,5100.0,0.0,33.4,clear
+968,Bengal Gram(Gram),Partaval,2015-04-08,5200.0,2.0,33.4,clear
+969,Bengal Gram(Gram),Anandnagar,2015-05-08,5100.0,4.0,32.9,clear
+970,Bengal Gram(Gram),Partaval,2015-05-08,5210.0,1.5,32.9,clear
+971,Bengal Gram(Gram),Anandnagar,2015-07-08,5100.0,0.0,34.8,clear
+972,Bengal Gram(Gram),Partaval,2015-07-08,5215.0,0.8,34.8,clear
+973,Bengal Gram(Gram),Anandnagar,2015-12-08,5100.0,0.0,21.6,clear
+974,Bengal Gram(Gram),Partaval,2015-12-08,5210.0,2.0,21.6,clear
+975,Bengal Gram(Gram),Anandnagar,2015-08-13,5100.0,10.0,31.9,clear
+976,Bengal Gram(Gram),Partaval,2015-08-13,5200.0,2.0,31.9,clear
+977,Bengal Gram(Gram),Anandnagar,2015-08-14,5100.0,0.0,34.2,clear
+978,Bengal Gram(Gram),Partaval,2015-08-14,5200.0,1.5,34.2,clear
+979,Bengal Gram(Gram),Anandnagar,2015-08-15,5125.0,0.0,35.1,clear
+980,Bengal Gram(Gram),Anandnagar,2015-08-18,5100.0,0.0,30.6,clear
+981,Bengal Gram(Gram),Partaval,2015-08-18,5200.0,1.5,30.6,clear
+982,Bengal Gram(Gram),Anandnagar,2015-08-19,5125.0,5.0,32.3,rain
+983,Bengal Gram(Gram),Partaval,2015-08-19,5210.0,4.0,32.3,rain
+984,Bengal Gram(Gram),Anandnagar,2015-08-21,5100.0,0.0,29.3,clear
+985,Bengal Gram(Gram),Partaval,2015-08-21,5250.0,1.0,29.3,clear
+986,Bengal Gram(Gram),Anandnagar,2015-08-22,5120.0,0.0,31.1,clear
+987,Bengal Gram(Gram),Partaval,2015-08-22,5100.0,1.2,31.1,clear
+988,Bengal Gram(Gram),Anandnagar,2015-08-24,5100.0,0.0,34.9,clear
+989,Bengal Gram(Gram),Gadaura,2015-08-24,5040.0,40.0,34.9,clear
+990,Bengal Gram(Gram),Partaval,2015-08-24,5075.0,1.5,34.9,clear
+991,Bengal Gram(Gram),Anandnagar,2015-08-25,5100.0,0.0,34.8,clear
+992,Bengal Gram(Gram),Partaval,2015-08-25,5050.0,2.0,34.8,clear
+993,Bengal Gram(Gram),Anandnagar,2015-08-28,5100.0,0.0,33.3,clear
+994,Bengal Gram(Gram),Partaval,2015-08-28,5100.0,7.0,33.3,clear
+995,Bengal Gram(Gram),Anandnagar,2015-08-29,5100.0,0.0,33.6,clear
+996,Bengal Gram(Gram),Partaval,2015-08-29,5050.0,4.0,33.6,clear
+997,Bengal Gram(Gram),Anandnagar,2015-08-31,5125.0,0.0,33.7,clear
+998,Bengal Gram(Gram),Gadaura,2015-08-31,5050.0,12.0,33.7,clear
+999,Bengal Gram(Gram),Partaval,2015-08-31,5060.0,5.0,33.7,clear
+1000,Bengal Gram(Gram),Anandnagar,2015-01-09,5100.0,0.0,16.6,clear
+1001,Bengal Gram(Gram),Partaval,2015-01-09,5100.0,12.0,16.6,clear
+1002,Bengal Gram(Gram),Anandnagar,2015-02-09,5050.0,0.0,21.8,clear
+1003,Bengal Gram(Gram),Nautnava,2015-02-09,5050.0,5.8,21.8,clear
+1004,Bengal Gram(Gram),Anandnagar,2015-03-09,5000.0,12.0,31.2,clear
+1005,Bengal Gram(Gram),Partaval,2015-03-09,5100.0,2.5,31.2,clear
+1006,Bengal Gram(Gram),Anandnagar,2015-04-09,5000.0,0.0,34.2,clear
+1007,Bengal Gram(Gram),Anandnagar,2015-08-09,5000.0,0.0,34.4,clear
+1008,Bengal Gram(Gram),Partaval,2015-08-09,4925.0,1.5,34.4,clear
+1009,Bengal Gram(Gram),Anandnagar,2015-09-09,5000.0,4.0,33.9,clear
+1010,Bengal Gram(Gram),Partaval,2015-09-09,4925.0,3.0,33.9,clear
+1011,Bengal Gram(Gram),Anandnagar,2015-10-09,5000.0,0.0,34.5,clear
+1012,Bengal Gram(Gram),Partaval,2015-10-09,4925.0,2.5,34.5,clear
+1013,Bengal Gram(Gram),Anandnagar,2015-11-09,5000.0,0.0,28.5,clear
+1014,Bengal Gram(Gram),Partaval,2015-11-09,4955.0,3.5,28.5,clear
+1015,Bengal Gram(Gram),Anandnagar,2015-09-15,5000.0,0.0,35.1,clear
+1016,Bengal Gram(Gram),Partaval,2015-09-15,4900.0,2.5,35.1,clear
+1017,Bengal Gram(Gram),Anandnagar,2015-09-16,5000.0,0.0,35.5,clear
+1018,Bengal Gram(Gram),Partaval,2015-09-16,4900.0,5.0,35.5,clear
+1019,Bengal Gram(Gram),Anandnagar,2015-09-17,5000.0,14.0,33.5,clear
+1020,Bengal Gram(Gram),Partaval,2015-09-17,4900.0,4.0,33.5,clear
+1021,Bengal Gram(Gram),Anandnagar,2015-09-21,5000.0,0.0,33.7,clear
+1022,Bengal Gram(Gram),Partaval,2015-09-21,4925.0,3.0,33.7,clear
+1023,Bengal Gram(Gram),Anandnagar,2015-09-22,4950.0,0.0,32.6,clear
+1024,Bengal Gram(Gram),Partaval,2015-09-22,4900.0,2.0,32.6,clear
+1025,Bengal Gram(Gram),Anandnagar,2015-09-23,5000.0,0.0,32.8,clear
+1026,Bengal Gram(Gram),Partaval,2015-09-23,4925.0,1.0,32.8,clear
+1027,Bengal Gram(Gram),Anandnagar,2015-09-24,4950.0,13.5,32.8,clear
+1028,Bengal Gram(Gram),Partaval,2015-09-24,4925.0,1.5,32.8,clear
+1029,Bengal Gram(Gram),Anandnagar,2015-09-29,4900.0,0.0,34.9,clear
+1030,Bengal Gram(Gram),Partaval,2015-09-29,4900.0,2.0,34.9,clear
+1031,Bengal Gram(Gram),Anandnagar,2015-05-10,4950.0,0.0,35.2,clear
+1032,Bengal Gram(Gram),Partaval,2015-05-10,4840.0,20.0,35.2,clear
+1033,Bengal Gram(Gram),Anandnagar,2015-07-10,5000.0,4.0,32.5,clear
+1034,Bengal Gram(Gram),Partaval,2015-07-10,4535.0,6.0,32.5,clear
+1035,Bengal Gram(Gram),Anandnagar,2015-08-10,5050.0,10.0,36.5,clear
+1036,Bengal Gram(Gram),Partaval,2015-08-10,4820.0,2.0,36.5,clear
+1037,Bengal Gram(Gram),Anandnagar,2015-12-10,5000.0,0.0,18.4,clear
+1038,Bengal Gram(Gram),Partaval,2015-12-10,4825.0,2.0,18.4,clear
+1039,Bengal Gram(Gram),Anandnagar,2015-10-13,5050.0,0.0,32.8,clear
+1040,Bengal Gram(Gram),Partaval,2015-10-13,4800.0,4.0,32.8,clear
+1041,Bengal Gram(Gram),Anandnagar,2015-10-14,5000.0,0.0,33.8,clear
+1042,Bengal Gram(Gram),Partaval,2015-10-14,4825.0,3.5,33.8,clear
+1043,Bengal Gram(Gram),Anandnagar,2015-10-15,5000.0,11.0,30.8,clear
+1044,Bengal Gram(Gram),Partaval,2015-10-15,4930.0,3.0,30.8,clear
+1045,Bengal Gram(Gram),Anandnagar,2015-10-16,5000.0,0.0,32.3,clear
+1046,Bengal Gram(Gram),Partaval,2015-10-16,5000.0,3.5,32.3,clear
+1047,Bengal Gram(Gram),Anandnagar,2015-10-19,5100.0,0.0,32.3,clear
+1048,Bengal Gram(Gram),Partaval,2015-10-19,5100.0,3.0,32.3,clear
+1049,Bengal Gram(Gram),Anandnagar,2015-10-21,5100.0,0.0,32.6,clear
+1050,Bengal Gram(Gram),Partaval,2015-10-21,5200.0,3.0,32.6,clear
+1051,Bengal Gram(Gram),Anandnagar,2015-10-22,5000.0,14.0,31.6,clear
+1052,Bengal Gram(Gram),Partaval,2015-10-22,5200.0,3.0,31.6,clear
+1053,Bengal Gram(Gram),Anandnagar,2015-10-23,5100.0,0.0,30.6,clear
+1054,Bengal Gram(Gram),Partaval,2015-10-23,5200.0,2.5,30.6,clear
+1055,Bengal Gram(Gram),Anandnagar,2015-10-24,5100.0,0.0,31.6,clear
+1056,Bengal Gram(Gram),Partaval,2015-10-24,5210.0,3.0,31.6,clear
+1057,Bengal Gram(Gram),Anandnagar,2015-10-26,5100.0,0.0,30.5,clear
+1058,Bengal Gram(Gram),Partaval,2015-10-26,5200.0,1.4,30.5,clear
+1059,Bengal Gram(Gram),Anandnagar,2015-10-28,5100.0,5.0,30.2,clear
+1060,Bengal Gram(Gram),Partaval,2015-10-28,5210.0,5.0,30.2,clear
+1061,Bengal Gram(Gram),Anandnagar,2015-03-11,5200.0,0.0,27.3,clear
+1062,Bengal Gram(Gram),Partaval,2015-03-11,5310.0,1.5,27.3,clear
+1063,Bengal Gram(Gram),Anandnagar,2015-04-11,5250.0,15.0,35.3,clear
+1064,Bengal Gram(Gram),Partaval,2015-04-11,5310.0,1.0,35.3,clear
+1065,Bengal Gram(Gram),Anandnagar,2015-05-11,5200.0,15.0,35.4,clear
+1066,Bengal Gram(Gram),Partaval,2015-05-11,5310.0,1.5,35.4,clear
+1067,Bengal Gram(Gram),Anandnagar,2015-06-11,5200.0,0.0,34.5,clear
+1068,Bengal Gram(Gram),Partaval,2015-06-11,5300.0,1.5,34.5,clear
+1069,Bengal Gram(Gram),Anandnagar,2015-10-11,5250.0,0.0,33.6,clear
+1070,Bengal Gram(Gram),Partaval,2015-10-11,5225.0,1.2,33.6,clear
+1071,Bengal Gram(Gram),Anandnagar,2015-12-11,5250.0,12.0,24.2,clear
+1072,Bengal Gram(Gram),Partaval,2015-12-11,5325.0,1.3,24.2,clear
+1073,Bengal Gram(Gram),Anandnagar,2015-11-13,5250.0,14.0,30.0,clear
+1074,Bengal Gram(Gram),Partaval,2015-11-13,5325.0,1.5,30.0,clear
+1075,Bengal Gram(Gram),Anandnagar,2015-11-14,5250.0,0.0,29.8,clear
+1076,Bengal Gram(Gram),Partaval,2015-11-14,5320.0,1.8,29.8,clear
+1077,Bengal Gram(Gram),Anandnagar,2015-11-16,5250.0,0.0,29.2,clear
+1078,Bengal Gram(Gram),Partaval,2015-11-16,5325.0,1.5,29.2,clear
+1079,Bengal Gram(Gram),Anandnagar,2015-11-17,5250.0,0.0,25.6,clear
+1080,Bengal Gram(Gram),Partaval,2015-11-17,5330.0,2.0,25.6,clear
+1081,Bengal Gram(Gram),Anandnagar,2015-11-18,5250.0,14.0,28.2,clear
+1082,Bengal Gram(Gram),Partaval,2015-11-18,5325.0,0.5,28.2,clear
+1083,Bengal Gram(Gram),Anandnagar,2015-11-19,5250.0,0.0,26.0,clear
+1084,Bengal Gram(Gram),Partaval,2015-11-19,5325.0,0.4,26.0,clear
+1085,Bengal Gram(Gram),Anandnagar,2015-11-25,5250.0,0.0,27.4,clear
+1086,Bengal Gram(Gram),Partaval,2015-11-25,5330.0,3.0,27.4,clear
+1087,Bengal Gram(Gram),Anandnagar,2015-11-26,5250.0,0.0,27.8,clear
+1088,Bengal Gram(Gram),Partaval,2015-11-26,5350.0,1.5,27.8,clear
+1089,Bengal Gram(Gram),Anandnagar,2015-11-27,5250.0,0.0,24.7,clear
+1090,Bengal Gram(Gram),Nautnava,2015-11-27,5250.0,54.0,24.7,clear
+1091,Bengal Gram(Gram),Partaval,2015-11-27,5345.0,3.0,24.7,clear
+1092,Bengal Gram(Gram),Anandnagar,2015-11-28,5250.0,0.0,22.2,clear
+1093,Bengal Gram(Gram),Partaval,2015-11-28,5350.0,1.5,22.2,clear
+1094,Bengal Gram(Gram),Anandnagar,2015-02-12,5300.0,0.0,23.6,clear
+1095,Bengal Gram(Gram),Partaval,2015-02-12,5350.0,1.5,23.6,clear
+1096,Bengal Gram(Gram),Anandnagar,2015-03-12,5300.0,15.0,27.6,clear
+1097,Bengal Gram(Gram),Partaval,2015-03-12,5340.0,2.5,27.6,clear
+1098,Bengal Gram(Gram),Anandnagar,2015-07-12,5300.0,0.0,34.2,clear
+1099,Bengal Gram(Gram),Partaval,2015-07-12,5345.0,2.0,34.2,clear
+1100,Bengal Gram(Gram),Anandnagar,2015-12-14,5375.0,0.0,21.4,clear
+1101,Bengal Gram(Gram),Partaval,2015-12-14,5350.0,0.0,21.4,clear
+1102,Bengal Gram(Gram),Anandnagar,2015-12-16,5350.0,0.0,19.4,clear
+1103,Bengal Gram(Gram),Anandnagar,2015-12-17,5350.0,16.0,23.0,clear
+1104,Bengal Gram(Gram),Anandnagar,2015-12-19,5350.0,0.0,21.8,clear
+1105,Bengal Gram(Gram),Partaval,2015-12-19,5350.0,0.0,21.8,clear
+1106,Lentil(Masur),Partaval,2015-12-19,6800.0,1.0,21.8,clear
+1107,Bengal Gram(Gram),Anandnagar,2015-12-21,5350.0,0.0,22.0,clear
+1108,Bengal Gram(Gram),Partaval,2015-12-21,5400.0,2.5,22.0,clear
+1109,Lentil(Masur),Partaval,2015-12-21,6800.0,1.5,22.0,clear
+1110,Bengal Gram(Gram),Anandnagar,2015-12-22,5375.0,0.0,22.4,clear
+1111,Bengal Gram(Gram),Partaval,2015-12-22,5400.0,2.0,22.4,clear
+1112,Lentil(Masur),Partaval,2015-12-22,6800.0,0.5,22.4,clear
+1113,Bengal Gram(Gram),Anandnagar,2015-12-23,5350.0,0.0,22.4,clear
+1114,Bengal Gram(Gram),Partaval,2015-12-23,5400.0,0.0,22.4,clear
+1115,Lentil(Masur),Partaval,2015-12-23,6800.0,0.0,22.4,clear
+1116,Bengal Gram(Gram),Anandnagar,2015-12-25,5350.0,0.0,21.6,clear
+1117,Bengal Gram(Gram),Anandnagar,2015-12-26,5350.0,0.0,21.0,clear
+1118,Bengal Gram(Gram),Partaval,2015-12-26,5410.0,1.5,21.0,clear
+1119,Lentil(Masur),Partaval,2015-12-26,6800.0,1.5,21.0,clear
+1120,Bengal Gram(Gram),Anandnagar,2015-12-30,5300.0,0.0,25.0,clear
+1121,Bengal Gram(Gram),Partaval,2015-12-30,5400.0,2.0,25.0,clear
+1122,Lentil(Masur),Partaval,2015-12-30,6800.0,0.0,25.0,clear
+1123,Bengal Gram(Gram),Anandnagar,2015-12-31,5300.0,15.0,12.6,clear
+1124,Bengal Gram(Gram),Gadaura,2015-12-31,5400.0,1.2,12.6,clear
+1125,Bengal Gram(Gram),Partaval,2015-12-31,5400.0,1.2,12.6,clear
+1126,Lentil(Masur),Partaval,2015-12-31,6800.0,0.5,12.6,clear
+1127,Bengal Gram(Gram),Gadaura,2015-01-29,3590.0,12.0,17.3,clear
+1128,Bengal Gram(Gram),Partaval,2015-01-29,3590.0,15.0,17.3,clear
+1129,Bengal Gram(Gram),Gadaura,2015-04-27,3610.0,20.0,32.2,clear
+1130,Bengal Gram(Gram),Partaval,2015-04-27,3610.0,20.0,32.2,clear
+1131,Bengal Gram(Gram),Gadaura,2015-09-26,4900.0,1.0,31.6,clear
+1132,Bengal Gram(Gram),Partaval,2015-09-26,4900.0,0.8,31.6,clear
+1133,Bengal Gram(Gram),Gadaura,2015-10-30,5300.0,1.0,31.2,clear
+1134,Bengal Gram(Gram),Partaval,2015-10-30,5250.0,1.5,31.2,clear
+1135,Bengal Gram(Gram),Gadaura,2015-11-30,5355.0,1.0,28.6,clear
+1136,Bengal Gram(Gram),Partaval,2015-11-30,5355.0,1.0,28.6,clear
+1137,Bengal Gram(Gram),Nautnava,2015-02-27,3740.0,70.0,28.6,clear
+1138,Bengal Gram(Gram),Partaval,2015-02-27,3660.0,30.0,28.6,clear
+1139,Bengal Gram(Gram),Nautnava,2015-04-29,3750.0,74.0,30.9,clear
+1140,Bengal Gram(Gram),Partaval,2015-04-29,3625.0,80.0,30.9,clear
+1141,Bengal Gram(Gram),Partaval,2015-02-01,3510.0,2.0,20.2,clear
+1142,Bengal Gram(Gram),Partaval,2015-03-01,3515.0,1.0,21.3,clear
+1143,Bengal Gram(Gram),Partaval,2015-06-01,3525.0,2.0,40.1,clear
+1144,Bengal Gram(Gram),Partaval,2015-08-01,3530.0,15.0,27.8,clear
+1145,Bengal Gram(Gram),Partaval,2015-09-01,3530.0,0.0,32.9,clear
+1146,Bengal Gram(Gram),Partaval,2015-10-01,3535.0,30.0,34.7,clear
+1147,Bengal Gram(Gram),Partaval,2015-12-01,3540.0,20.0,27.6,clear
+1148,Bengal Gram(Gram),Partaval,2015-01-13,3540.0,12.0,12.4,clear
+1149,Bengal Gram(Gram),Partaval,2015-01-15,3550.0,20.0,22.9,clear
+1150,Bengal Gram(Gram),Partaval,2015-01-16,3550.0,0.0,16.0,clear
+1151,Bengal Gram(Gram),Partaval,2015-01-17,3555.0,15.0,14.0,clear
+1152,Bengal Gram(Gram),Partaval,2015-01-24,3580.0,0.0,23.2,clear
+1153,Bengal Gram(Gram),Partaval,2015-01-27,3580.0,25.0,22.8,clear
+1154,Bengal Gram(Gram),Partaval,2015-01-31,3600.0,5.0,15.6,clear
+1155,Bengal Gram(Gram),Partaval,2015-03-02,3610.0,2.0,24.5,clear
+1156,Bengal Gram(Gram),Partaval,2015-04-02,3600.0,1.5,33.1,clear
+1157,Bengal Gram(Gram),Partaval,2015-06-02,3600.0,1.0,40.0,clear
+1158,Bengal Gram(Gram),Partaval,2015-07-02,3610.0,4.0,34.6,clear
+1159,Bengal Gram(Gram),Partaval,2015-10-02,3600.0,0.0,35.2,clear
+1160,Bengal Gram(Gram),Partaval,2015-02-17,3625.0,1.0,26.6,clear
+1161,Bengal Gram(Gram),Partaval,2015-02-20,3645.0,0.0,25.6,clear
+1162,Bengal Gram(Gram),Partaval,2015-02-23,3640.0,35.0,28.0,clear
+1163,Bengal Gram(Gram),Partaval,2015-02-24,3650.0,20.0,28.6,clear
+1164,Bengal Gram(Gram),Partaval,2015-03-03,3630.0,1.5,24.8,clear
+1165,Bengal Gram(Gram),Partaval,2015-04-03,3620.0,2.5,33.4,clear
+1166,Bengal Gram(Gram),Partaval,2015-05-03,3610.0,2.0,34.5,clear
+1167,Bengal Gram(Gram),Partaval,2015-07-03,3600.0,1.0,34.4,rain
+1168,Bengal Gram(Gram),Partaval,2015-09-03,3590.0,4.0,32.5,clear
+1169,Bengal Gram(Gram),Partaval,2015-11-03,3580.0,0.0,30.1,clear
+1170,Bengal Gram(Gram),Partaval,2015-12-03,3580.0,2.5,26.0,clear
+1171,Bengal Gram(Gram),Partaval,2015-03-13,3575.0,12.0,28.4,clear
+1172,Bengal Gram(Gram),Partaval,2015-03-14,3575.0,20.0,29.9,clear
+1173,Bengal Gram(Gram),Partaval,2015-03-16,3575.0,5.0,27.8,clear
+1174,Bengal Gram(Gram),Partaval,2015-03-17,3580.0,2.0,28.6,clear
+1175,Bengal Gram(Gram),Partaval,2015-03-18,3585.0,0.0,28.8,clear
+1176,Bengal Gram(Gram),Partaval,2015-03-24,3600.0,5.0,33.8,clear
+1177,Bengal Gram(Gram),Partaval,2015-03-26,3585.0,120.0,34.8,clear
+1178,Bengal Gram(Gram),Partaval,2015-03-27,3590.0,30.0,33.2,rain
+1179,Bengal Gram(Gram),Partaval,2015-03-31,3590.0,45.0,29.8,clear
+1180,Bengal Gram(Gram),Partaval,2015-03-04,3600.0,0.0,25.6,clear
+1181,Bengal Gram(Gram),Partaval,2015-04-04,3615.0,2.5,26.0,clear
+1182,Bengal Gram(Gram),Partaval,2015-06-04,3610.0,1.0,36.7,clear
+1183,Bengal Gram(Gram),Partaval,2015-09-04,3610.0,0.0,34.7,clear
+1184,Bengal Gram(Gram),Partaval,2015-10-04,3600.0,35.0,34.5,clear
+1185,Bengal Gram(Gram),Partaval,2015-11-04,3610.0,80.0,30.2,clear
+1186,Bengal Gram(Gram),Partaval,2015-04-14,3600.0,35.0,29.9,clear
+1187,Bengal Gram(Gram),Partaval,2015-04-15,3590.0,150.0,32.4,clear
+1188,Bengal Gram(Gram),Partaval,2015-04-17,3585.0,30.0,34.0,clear
+1189,Bengal Gram(Gram),Partaval,2015-04-18,3580.0,5.0,32.0,clear
+1190,Bengal Gram(Gram),Partaval,2015-04-23,3580.0,12.0,35.2,clear
+1191,Bengal Gram(Gram),Partaval,2015-04-28,3625.0,15.0,28.4,clear
+1192,Bengal Gram(Gram),Partaval,2015-04-30,3650.0,200.0,31.8,clear
+1193,Bengal Gram(Gram),Partaval,2015-01-05,3655.0,2.0,16.3,clear
+1194,Bengal Gram(Gram),Partaval,2015-05-05,3700.0,2.5,36.7,clear
+1195,Bengal Gram(Gram),Partaval,2015-07-05,3850.0,0.0,31.2,clear
+1196,Bengal Gram(Gram),Partaval,2015-08-05,3925.0,0.0,34.8,clear
+1197,Bengal Gram(Gram),Partaval,2015-09-05,4000.0,0.0,35.2,clear
+1198,Bengal Gram(Gram),Partaval,2015-12-05,4125.0,0.0,24.3,clear
+1199,Bengal Gram(Gram),Partaval,2015-05-13,4140.0,0.0,34.4,clear
+1200,Bengal Gram(Gram),Partaval,2015-05-23,4360.0,40.0,39.6,clear
+1201,Bengal Gram(Gram),Partaval,2015-05-27,4525.0,2.0,35.6,clear
+1202,Bengal Gram(Gram),Partaval,2015-01-06,4680.0,2.5,16.7,clear
+1203,Bengal Gram(Gram),Partaval,2015-02-06,4710.0,0.0,22.5,clear
+1204,Bengal Gram(Gram),Partaval,2015-08-06,4780.0,80.0,32.5,clear
+1205,Bengal Gram(Gram),Partaval,2015-09-06,4800.0,30.0,32.2,clear
+1206,Bengal Gram(Gram),Partaval,2015-06-17,4920.0,80.0,36.3,clear
+1207,Bengal Gram(Gram),Partaval,2015-06-18,4935.0,150.0,35.6,clear
+1208,Bengal Gram(Gram),Partaval,2015-06-19,4950.0,0.0,35.0,clear
+1209,Bengal Gram(Gram),Partaval,2015-06-20,4965.0,20.0,35.8,clear
+1210,Bengal Gram(Gram),Partaval,2015-06-24,5000.0,0.0,35.4,clear
+1211,Bengal Gram(Gram),Partaval,2015-06-26,5050.0,8.0,28.9,clear
+1212,Bengal Gram(Gram),Partaval,2015-06-27,5065.0,20.0,32.5,clear
+1213,Bengal Gram(Gram),Partaval,2015-06-29,5070.0,0.0,32.5,clear
+1214,Bengal Gram(Gram),Partaval,2015-06-30,5070.0,2.0,35.2,clear
+1215,Bengal Gram(Gram),Partaval,2015-03-07,5050.0,2.0,27.0,clear
+1216,Bengal Gram(Gram),Partaval,2015-04-07,5035.0,0.0,30.0,clear
+1217,Bengal Gram(Gram),Partaval,2015-06-07,5000.0,4.0,42.1,clear
+1218,Bengal Gram(Gram),Partaval,2015-07-13,5000.0,3.0,34.2,clear
+1219,Bengal Gram(Gram),Partaval,2015-07-14,5100.0,2.5,34.8,clear
+1220,Bengal Gram(Gram),Partaval,2015-07-16,5125.0,1.5,31.2,clear
+1221,Bengal Gram(Gram),Partaval,2015-07-17,5150.0,2.5,34.5,clear
+1222,Bengal Gram(Gram),Partaval,2015-07-23,5200.0,1.5,32.4,clear
+1223,Bengal Gram(Gram),Partaval,2015-07-25,5210.0,1.0,32.8,clear
+1224,Bengal Gram(Gram),Partaval,2015-07-28,5210.0,1.5,34.6,clear
+1225,Bengal Gram(Gram),Partaval,2015-07-29,5215.0,1.8,34.8,clear
+1226,Bengal Gram(Gram),Partaval,2015-01-08,5100.0,3.0,22.2,clear
+1227,Bengal Gram(Gram),Partaval,2015-03-08,5200.0,3.0,28.6,clear
+1228,Bengal Gram(Gram),Partaval,2015-06-08,5215.0,1.0,41.5,clear
+1229,Bengal Gram(Gram),Partaval,2015-08-08,5200.0,2.0,33.8,clear
+1230,Bengal Gram(Gram),Partaval,2015-10-08,5200.0,1.2,34.7,clear
+1231,Bengal Gram(Gram),Partaval,2015-11-08,5210.0,1.5,28.1,clear
+1232,Bengal Gram(Gram),Partaval,2015-08-17,5210.0,1.2,31.6,rain
+1233,Bengal Gram(Gram),Partaval,2015-08-20,5210.0,2.5,33.4,clear
+1234,Bengal Gram(Gram),Partaval,2015-08-26,5100.0,7.5,32.5,clear
+1235,Bengal Gram(Gram),Partaval,2015-08-27,5150.0,9.0,32.0,clear
+1236,Bengal Gram(Gram),Partaval,2015-05-09,5100.0,4.0,28.2,clear
+1237,Bengal Gram(Gram),Partaval,2015-07-09,4950.0,2.0,36.2,clear
+1238,Bengal Gram(Gram),Partaval,2015-12-09,4925.0,4.0,20.2,clear
+1239,Bengal Gram(Gram),Partaval,2015-09-14,4900.0,3.0,34.3,clear
+1240,Bengal Gram(Gram),Partaval,2015-09-18,4900.0,3.5,35.4,clear
+1241,Bengal Gram(Gram),Partaval,2015-09-19,4925.0,2.0,36.7,clear
+1242,Bengal Gram(Gram),Partaval,2015-09-25,4900.0,2.0,31.3,clear
+1243,Bengal Gram(Gram),Partaval,2015-09-28,4900.0,1.2,34.9,clear
+1244,Bengal Gram(Gram),Partaval,2015-01-10,4925.0,4.0,12.3,clear
+1245,Bengal Gram(Gram),Partaval,2015-02-10,4900.0,5.0,26.6,clear
+1246,Bengal Gram(Gram),Partaval,2015-03-10,4825.0,6.0,29.8,clear
+1247,Bengal Gram(Gram),Partaval,2015-06-10,4830.0,5.0,38.1,clear
+1248,Bengal Gram(Gram),Partaval,2015-09-10,4800.0,2.1,34.5,clear
+1249,Bengal Gram(Gram),Partaval,2015-10-10,4800.0,3.0,33.6,clear
+1250,Bengal Gram(Gram),Partaval,2015-10-17,5050.0,3.5,31.2,clear
+1251,Bengal Gram(Gram),Partaval,2015-10-20,5150.0,2.0,30.9,clear
+1252,Bengal Gram(Gram),Partaval,2015-10-27,5200.0,6.0,32.0,clear
+1253,Bengal Gram(Gram),Partaval,2015-10-29,5200.0,3.0,23.2,rain
+1254,Bengal Gram(Gram),Partaval,2015-02-11,5300.0,2.0,20.6,clear
+1255,Bengal Gram(Gram),Partaval,2015-07-11,5300.0,1.0,30.5,clear
+1256,Bengal Gram(Gram),Partaval,2015-09-11,5325.0,1.5,35.7,clear
+1257,Bengal Gram(Gram),Partaval,2015-11-11,5330.0,1.0,28.2,clear
+1258,Bengal Gram(Gram),Partaval,2015-11-20,5330.0,0.5,23.5,clear
+1259,Bengal Gram(Gram),Partaval,2015-11-21,5350.0,1.0,29.7,clear
+1260,Bengal Gram(Gram),Partaval,2015-11-23,5350.0,1.5,27.8,clear
+1261,Bengal Gram(Gram),Partaval,2015-11-24,5320.0,2.8,27.2,clear
+1262,Bengal Gram(Gram),Partaval,2015-01-12,5350.0,2.0,12.2,clear
+1263,Bengal Gram(Gram),Partaval,2015-04-12,5345.0,2.0,29.4,clear
+1264,Bengal Gram(Gram),Partaval,2015-05-12,5340.0,1.0,32.6,clear
+1265,Bengal Gram(Gram),Partaval,2015-08-12,5350.0,1.8,33.3,clear
+1266,Bengal Gram(Gram),Partaval,2015-09-12,5340.0,0.0,32.8,clear
+1267,Bengal Gram(Gram),Partaval,2015-10-12,5345.0,1.0,23.9,rain
+1268,Bengal Gram(Gram),Partaval,2015-11-12,5340.0,1.0,29.3,clear
+1269,Bengal Gram(Gram),Partaval,2015-12-12,5345.0,2.0,24.6,clear
+1270,Bengal Gram(Gram),Partaval,2015-12-15,5350.0,1.0,18.2,clear
+1271,Bengal Gram(Gram),Partaval,2015-12-24,5410.0,1.0,21.8,clear
+1272,Lentil(Masur),Partaval,2015-12-24,6800.0,0.0,21.8,clear
+1273,Bengal Gram(Gram),Partaval,2015-12-29,5420.0,3.0,24.2,clear
+1274,Lentil(Masur),Partaval,2015-12-29,6800.0,1.0,24.2,clear
+1275,Bengal Gram(Gram),Anandnagar,2016-01-13,5350.0,0.0,22.8,clear
+1276,Bengal Gram(Gram),Partaval,2016-01-13,5430.0,1.2,22.8,clear
+1277,Lentil(Masur),Partaval,2016-01-13,6825.0,0.0,22.8,clear
+1278,Bengal Gram(Gram),Anandnagar,2016-01-18,5350.0,0.0,23.2,clear
+1279,Bengal Gram(Gram),Partaval,2016-01-18,5415.0,1.0,23.2,clear
+1280,Lentil(Masur),Partaval,2016-01-18,6800.0,1.0,23.2,clear
+1281,Bengal Gram(Gram),Anandnagar,2016-01-27,5350.0,0.0,20.1,clear
+1282,Bengal Gram(Gram),Partaval,2016-01-27,5450.0,0.0,20.1,clear
+1283,Lentil(Masur),Partaval,2016-01-27,6555.0,0.2,20.1,clear
+1284,Bengal Gram(Gram),Anandnagar,2016-01-28,5350.0,15.0,20.6,clear
+1285,Bengal Gram(Gram),Partaval,2016-01-28,5460.0,2.0,20.6,clear
+1286,Lentil(Masur),Partaval,2016-01-28,6730.0,1.0,20.6,clear
+1287,Bengal Gram(Gram),Anandnagar,2016-01-30,5350.0,0.0,21.5,clear
+1288,Bengal Gram(Gram),Gadaura,2016-01-30,5460.0,1.5,21.5,clear
+1289,Bengal Gram(Gram),Partaval,2016-01-30,5460.0,2.0,21.5,clear
+1290,Lentil(Masur),Partaval,2016-01-30,6550.0,2.0,21.5,clear
+1291,Bengal Gram(Gram),Anandnagar,2016-03-02,5375.0,0.0,30.4,clear
+1292,Bengal Gram(Gram),Partaval,2016-03-02,5500.0,0.0,30.4,clear
+1293,Lentil(Masur),Partaval,2016-03-02,6585.0,0.5,30.4,clear
+1294,Bengal Gram(Gram),Anandnagar,2016-04-02,5350.0,14.5,32.2,clear
+1295,Bengal Gram(Gram),Partaval,2016-04-02,5500.0,2.0,32.2,clear
+1296,Lentil(Masur),Partaval,2016-04-02,6800.0,1.0,32.2,clear
+1297,Bengal Gram(Gram),Anandnagar,2016-06-02,5365.0,0.0,35.2,clear
+1298,Bengal Gram(Gram),Partaval,2016-06-02,5490.0,0.5,35.2,clear
+1299,Lentil(Masur),Partaval,2016-06-02,6800.0,0.0,35.2,clear
+1300,Bengal Gram(Gram),Anandnagar,2016-10-02,5375.0,0.0,35.5,clear
+1301,Bengal Gram(Gram),Partaval,2016-10-02,5500.0,0.0,35.5,clear
+1302,Lentil(Masur),Partaval,2016-10-02,6810.0,0.7,35.5,clear
+1303,Bengal Gram(Gram),Anandnagar,2016-11-02,5350.0,16.0,33.3,clear
+1304,Bengal Gram(Gram),Partaval,2016-11-02,5500.0,1.2,33.3,clear
+1305,Lentil(Masur),Partaval,2016-11-02,6825.0,0.0,33.3,clear
+1306,Bengal Gram(Gram),Anandnagar,2016-02-13,5375.0,0.0,26.9,clear
+1307,Bengal Gram(Gram),Partaval,2016-02-13,5450.0,2.0,26.9,clear
+1308,Lentil(Masur),Partaval,2016-02-13,6800.0,0.0,26.9,clear
+1309,Bengal Gram(Gram),Anandnagar,2016-02-17,5375.0,0.0,28.6,clear
+1310,Bengal Gram(Gram),Partaval,2016-02-17,5400.0,1.0,28.6,clear
+1311,Lentil(Masur),Partaval,2016-02-17,6800.0,1.0,28.6,clear
+1312,Bengal Gram(Gram),Anandnagar,2016-02-18,5350.0,14.5,25.6,clear
+1313,Bengal Gram(Gram),Partaval,2016-02-18,5400.0,1.2,25.6,clear
+1314,Lentil(Masur),Partaval,2016-02-18,6825.0,0.5,25.6,clear
+1315,Bengal Gram(Gram),Anandnagar,2016-02-22,5400.0,0.0,20.2,clear
+1316,Bengal Gram(Gram),Partaval,2016-02-22,6825.0,0.3,20.2,clear
+1317,Lentil(Masur),Partaval,2016-02-22,6825.0,0.3,20.2,clear
+1318,Bengal Gram(Gram),Anandnagar,2016-02-24,5360.0,0.0,27.0,clear
+1319,Bengal Gram(Gram),Partaval,2016-02-24,5410.0,0.5,27.0,clear
+1320,Lentil(Masur),Partaval,2016-02-24,6825.0,0.4,27.0,clear
+1321,Bengal Gram(Gram),Anandnagar,2016-02-29,5450.0,0.0,30.0,clear
+1322,Bengal Gram(Gram),Partaval,2016-02-29,5300.0,0.2,30.0,clear
+1323,Lentil(Masur),Partaval,2016-02-29,6820.0,1.0,30.0,clear
+1324,Bengal Gram(Gram),Anandnagar,2016-02-03,5250.0,0.0,25.0,clear
+1325,Bengal Gram(Gram),Partaval,2016-02-03,5300.0,1.0,25.0,clear
+1326,Lentil(Masur),Partaval,2016-02-03,6825.0,0.5,25.0,clear
+1327,Bengal Gram(Gram),Anandnagar,2016-03-03,5275.0,16.0,30.6,clear
+1328,Bengal Gram(Gram),Partaval,2016-03-03,5300.0,1.2,30.6,clear
+1329,Lentil(Masur),Partaval,2016-03-03,6825.0,0.7,30.6,clear
+1330,Bengal Gram(Gram),Anandnagar,2016-03-17,5200.0,15.0,29.0,clear
+1331,Bengal Gram(Gram),Partaval,2016-03-17,5200.0,14.0,29.0,clear
+1332,Lentil(Masur),Partaval,2016-03-17,6500.0,2.0,29.0,clear
+1333,Bengal Gram(Gram),Anandnagar,2016-03-22,5000.0,0.0,31.8,clear
+1334,Bengal Gram(Gram),Partaval,2016-03-22,5200.0,3.5,31.8,clear
+1335,Bengal Gram(Gram),Anandnagar,2016-03-28,4850.0,0.0,36.0,clear
+1336,Bengal Gram(Gram),Partaval,2016-03-28,5175.0,1.0,36.0,clear
+1337,Lentil(Masur),Partaval,2016-03-28,6450.0,0.5,36.0,clear
+1338,Bengal Gram(Gram),Anandnagar,2016-03-31,4750.0,15.5,32.6,rain
+1339,Bengal Gram(Gram),Anandnagar,2016-01-04,4950.0,0.0,21.8,clear
+1340,Bengal Gram(Gram),Partaval,2016-01-04,5100.0,4.0,21.8,clear
+1341,Lentil(Masur),Partaval,2016-01-04,6225.0,1.0,21.8,clear
+1342,Bengal Gram(Gram),Anandnagar,2016-02-04,4850.0,0.0,22.9,clear
+1343,Bengal Gram(Gram),Partaval,2016-02-04,5050.0,1.5,22.9,clear
+1344,Lentil(Masur),Partaval,2016-02-04,6200.0,0.5,22.9,clear
+1345,Bengal Gram(Gram),Anandnagar,2016-05-04,4850.0,0.0,27.2,clear
+1346,Bengal Gram(Gram),Partaval,2016-05-04,5000.0,3.0,27.2,clear
+1347,Lentil(Masur),Partaval,2016-05-04,6100.0,1.0,27.2,clear
+1348,Bengal Gram(Gram),Anandnagar,2016-06-04,4850.0,0.0,33.8,clear
+1349,Lentil(Masur),Partaval,2016-06-04,6000.0,1.0,33.8,clear
+1350,Bengal Gram(Gram),Anandnagar,2016-04-20,4750.0,0.0,41.4,clear
+1351,Bengal Gram(Gram),Anandnagar,2016-04-22,5150.0,0.0,40.8,clear
+1352,Bengal Gram(Gram),Anandnagar,2016-04-23,4850.0,0.0,41.4,clear
+1353,Bengal Gram(Gram),Partaval,2016-04-23,5400.0,5.0,41.4,clear
+1354,Lentil(Masur),Partaval,2016-04-23,6200.0,2.0,41.4,clear
+1355,Bengal Gram(Gram),Anandnagar,2016-04-27,5050.0,0.0,40.0,clear
+1356,Bengal Gram(Gram),Partaval,2016-04-27,5425.0,1.2,40.0,clear
+1357,Lentil(Masur),Partaval,2016-04-27,6325.0,1.5,40.0,clear
+1358,Bengal Gram(Gram),Anandnagar,2016-09-05,5500.0,0.0,33.5,clear
+1359,Bengal Gram(Gram),Anandnagar,2016-05-13,5500.0,0.0,34.2,clear
+1360,Bengal Gram(Gram),Partaval,2016-05-13,5650.0,6.0,34.2,clear
+1361,Lentil(Masur),Partaval,2016-05-13,6600.0,1.2,34.2,clear
+1362,Bengal Gram(Gram),Anandnagar,2016-05-16,5500.0,0.0,39.3,clear
+1363,Bengal Gram(Gram),Partaval,2016-05-16,5650.0,0.8,39.3,clear
+1364,Lentil(Masur),Partaval,2016-05-16,6600.0,0.7,39.3,clear
+1365,Bengal Gram(Gram),Anandnagar,2016-05-19,5500.0,14.5,35.9,clear
+1366,Bengal Gram(Gram),Partaval,2016-05-19,5700.0,0.4,35.9,clear
+1367,Lentil(Masur),Partaval,2016-05-19,6600.0,0.5,35.9,clear
+1368,Bengal Gram(Gram),Anandnagar,2016-05-25,5650.0,0.0,34.8,clear
+1369,Bengal Gram(Gram),Partaval,2016-05-25,5710.0,0.0,34.8,clear
+1370,Lentil(Masur),Partaval,2016-05-25,6600.0,0.2,34.8,clear
+1371,Bengal Gram(Gram),Anandnagar,2016-05-27,5650.0,0.0,34.8,clear
+1372,Bengal Gram(Gram),Partaval,2016-05-27,5710.0,0.5,34.8,clear
+1373,Lentil(Masur),Partaval,2016-05-27,6615.0,0.3,34.8,clear
+1374,Bengal Gram(Gram),Anandnagar,2016-05-28,5650.0,0.0,30.2,clear
+1375,Bengal Gram(Gram),Partaval,2016-05-28,5710.0,1.0,30.2,clear
+1376,Lentil(Masur),Partaval,2016-05-28,6625.0,0.5,30.2,clear
+1377,Bengal Gram(Gram),Anandnagar,2016-05-30,5675.0,0.0,33.8,clear
+1378,Bengal Gram(Gram),Gadaura,2016-05-30,5700.0,2.5,33.8,clear
+1379,Bengal Gram(Gram),Nautnava,2016-05-30,5675.0,55.0,33.8,clear
+1380,Bengal Gram(Gram),Anandnagar,2016-02-06,5675.0,14.0,23.6,clear
+1381,Bengal Gram(Gram),Partaval,2016-02-06,5825.0,0.0,23.6,clear
+1382,Lentil(Masur),Partaval,2016-02-06,6625.0,0.2,23.6,clear
+1383,Bengal Gram(Gram),Anandnagar,2016-03-06,5675.0,0.0,31.0,clear
+1384,Bengal Gram(Gram),Partaval,2016-03-06,5825.0,0.7,31.0,clear
+1385,Lentil(Masur),Partaval,2016-03-06,6625.0,0.5,31.0,clear
+1386,Bengal Gram(Gram),Anandnagar,2016-06-06,5700.0,0.0,35.5,rain
+1387,Bengal Gram(Gram),Partaval,2016-06-06,5850.0,0.3,35.5,rain
+1388,Lentil(Masur),Partaval,2016-06-06,6650.0,0.4,35.5,rain
+1389,Bengal Gram(Gram),Anandnagar,2016-07-06,5750.0,0.0,32.8,clear
+1390,Bengal Gram(Gram),Partaval,2016-07-06,5850.0,0.0,32.8,clear
+1391,Lentil(Masur),Partaval,2016-07-06,6650.0,0.3,32.8,clear
+1392,Bengal Gram(Gram),Anandnagar,2016-09-06,5860.0,14.5,34.2,clear
+1393,Bengal Gram(Gram),Partaval,2016-09-06,5850.0,0.7,34.2,clear
+1394,Lentil(Masur),Partaval,2016-09-06,6700.0,0.4,34.2,clear
+1395,Bengal Gram(Gram),Anandnagar,2016-11-06,5850.0,0.0,31.1,clear
+1396,Bengal Gram(Gram),Anandnagar,2016-06-14,5800.0,0.0,35.9,clear
+1397,Bengal Gram(Gram),Partaval,2016-06-14,5850.0,0.0,35.9,clear
+1398,Lentil(Masur),Partaval,2016-06-14,6700.0,0.4,35.9,clear
+1399,Bengal Gram(Gram),Anandnagar,2016-06-21,5900.0,0.0,28.6,clear
+1400,Bengal Gram(Gram),Anandnagar,2016-06-22,5925.0,0.0,29.9,clear
+1401,Bengal Gram(Gram),Anandnagar,2016-06-07,7150.0,0.0,33.4,clear
+1402,Bengal Gram(Gram),Partaval,2016-06-07,7400.0,0.6,33.4,clear
+1403,Bengal Gram(Gram),Anandnagar,2016-07-07,7100.0,14.5,35.0,clear
+1404,Bengal Gram(Gram),Partaval,2016-07-07,7400.0,0.4,35.0,clear
+1405,Lentil(Masur),Partaval,2016-07-07,6900.0,0.7,35.0,clear
+1406,Bengal Gram(Gram),Anandnagar,2016-11-07,7100.0,0.0,30.8,clear
+1407,Bengal Gram(Gram),Partaval,2016-11-07,7500.0,0.0,30.8,clear
+1408,Lentil(Masur),Partaval,2016-11-07,6900.0,0.5,30.8,clear
+1409,Bengal Gram(Gram),Anandnagar,2016-07-13,7200.0,0.0,33.3,clear
+1410,Bengal Gram(Gram),Partaval,2016-07-13,7600.0,0.5,33.3,clear
+1411,Lentil(Masur),Partaval,2016-07-13,6915.0,1.0,33.3,clear
+1412,Bengal Gram(Gram),Anandnagar,2016-07-14,7200.0,8.0,35.1,clear
+1413,Bengal Gram(Gram),Partaval,2016-07-14,7600.0,0.3,35.1,clear
+1414,Lentil(Masur),Partaval,2016-07-14,6925.0,0.5,35.1,clear
+1415,Bengal Gram(Gram),Anandnagar,2016-07-20,7500.0,0.0,29.7,clear
+1416,Bengal Gram(Gram),Partaval,2016-07-20,7800.0,0.2,29.7,clear
+1417,Bengal Gram(Gram),Anandnagar,2016-07-21,7550.0,10.0,33.2,clear
+1418,Bengal Gram(Gram),Partaval,2016-07-21,7800.0,0.3,33.2,clear
+1419,Lentil(Masur),Partaval,2016-07-21,7300.0,0.6,33.2,clear
+1420,Bengal Gram(Gram),Anandnagar,2016-07-26,7750.0,0.0,30.3,clear
+1421,Bengal Gram(Gram),Partaval,2016-07-26,8000.0,0.0,30.3,clear
+1422,Lentil(Masur),Partaval,2016-07-26,7300.0,0.3,30.3,clear
+1423,Bengal Gram(Gram),Anandnagar,2016-07-27,7660.0,0.0,32.0,clear
+1424,Bengal Gram(Gram),Partaval,2016-07-27,8000.0,1.0,32.0,clear
+1425,Lentil(Masur),Partaval,2016-07-27,7325.0,0.8,32.0,clear
+1426,Bengal Gram(Gram),Anandnagar,2016-07-29,7900.0,0.0,26.2,clear
+1427,Bengal Gram(Gram),Partaval,2016-07-29,8000.0,0.5,26.2,clear
+1428,Lentil(Masur),Partaval,2016-07-29,7325.0,0.3,26.2,clear
+1429,Bengal Gram(Gram),Anandnagar,2016-01-08,7950.0,0.0,19.3,clear
+1430,Bengal Gram(Gram),Partaval,2016-01-08,8025.0,0.7,19.3,clear
+1431,Lentil(Masur),Partaval,2016-01-08,7355.0,0.5,19.3,clear
+1432,Bengal Gram(Gram),Anandnagar,2016-03-08,8000.0,0.0,30.2,clear
+1433,Bengal Gram(Gram),Partaval,2016-03-08,8025.0,0.5,30.2,clear
+1434,Lentil(Masur),Partaval,2016-03-08,7300.0,1.0,30.2,clear
+1435,Bengal Gram(Gram),Anandnagar,2016-09-08,8100.0,0.0,35.2,clear
+1436,Bengal Gram(Gram),Partaval,2016-09-08,8075.0,0.5,35.2,clear
+1437,Lentil(Masur),Partaval,2016-09-08,6600.0,1.0,35.2,clear
+1438,Bengal Gram(Gram),Anandnagar,2016-10-08,8150.0,0.0,33.0,clear
+1439,Bengal Gram(Gram),Partaval,2016-10-08,8100.0,0.0,33.0,clear
+1440,Lentil(Masur),Partaval,2016-10-08,6600.0,0.5,33.0,clear
+1441,Bengal Gram(Gram),Anandnagar,2016-11-08,8150.0,10.1,31.9,clear
+1442,Bengal Gram(Gram),Partaval,2016-11-08,8200.0,1.0,31.9,clear
+1443,Lentil(Masur),Partaval,2016-11-08,6500.0,0.7,31.9,clear
+1444,Bengal Gram(Gram),Anandnagar,2016-08-26,8250.0,0.0,30.4,clear
+1445,Bengal Gram(Gram),Partaval,2016-08-26,8300.0,1.0,30.4,clear
+1446,Lentil(Masur),Partaval,2016-08-26,6300.0,0.5,30.4,clear
+1447,Bengal Gram(Gram),Anandnagar,2016-08-27,8250.0,0.0,36.5,clear
+1448,Bengal Gram(Gram),Partaval,2016-08-27,8300.0,0.0,36.5,clear
+1449,Lentil(Masur),Partaval,2016-08-27,6300.0,1.0,36.5,clear
+1450,Bengal Gram(Gram),Anandnagar,2016-01-09,8250.0,0.0,19.4,clear
+1451,Bengal Gram(Gram),Partaval,2016-01-09,8250.0,1.0,19.4,clear
+1452,Lentil(Masur),Partaval,2016-01-09,6300.0,1.2,19.4,clear
+1453,Bengal Gram(Gram),Anandnagar,2016-08-09,8250.0,6.5,34.0,clear
+1454,Bengal Gram(Gram),Partaval,2016-08-09,8200.0,1.0,34.0,clear
+1455,Lentil(Masur),Partaval,2016-08-09,6325.0,0.4,34.0,clear
+1456,Bengal Gram(Gram),Anandnagar,2016-09-14,8300.0,11.0,35.1,clear
+1457,Bengal Gram(Gram),Partaval,2016-09-14,8000.0,0.8,35.1,clear
+1458,Bengal Gram(Gram),Anandnagar,2016-09-15,8300.0,0.0,34.7,clear
+1459,Bengal Gram(Gram),Partaval,2016-09-15,8000.0,1.0,34.7,clear
+1460,Lentil(Masur),Partaval,2016-09-15,6050.0,0.5,34.7,clear
+1461,Bengal Gram(Gram),Anandnagar,2016-09-17,8300.0,0.0,33.2,clear
+1462,Bengal Gram(Gram),Partaval,2016-09-17,7900.0,1.0,33.2,clear
+1463,Lentil(Masur),Partaval,2016-09-17,6050.0,0.3,33.2,clear
+1464,Bengal Gram(Gram),Anandnagar,2016-09-19,8300.0,0.0,35.1,clear
+1465,Bengal Gram(Gram),Partaval,2016-09-19,7900.0,0.0,35.1,clear
+1466,Lentil(Masur),Partaval,2016-09-19,6050.0,0.0,35.1,clear
+1467,Bengal Gram(Gram),Anandnagar,2016-09-21,8300.0,0.0,32.6,clear
+1468,Bengal Gram(Gram),Anandnagar,2016-09-22,8300.0,12.0,33.7,clear
+1469,Bengal Gram(Gram),Anandnagar,2016-05-10,8150.0,0.0,37.2,clear
+1470,Bengal Gram(Gram),Anandnagar,2016-06-10,7900.0,14.5,34.4,clear
+1471,Bengal Gram(Gram),Partaval,2016-06-10,8050.0,0.5,34.4,clear
+1472,Lentil(Masur),Partaval,2016-06-10,6175.0,0.5,34.4,clear
+1473,Bengal Gram(Gram),Anandnagar,2016-11-10,7850.0,0.0,31.7,clear
+1474,Bengal Gram(Gram),Anandnagar,2016-12-10,8000.0,0.0,22.0,clear
+1475,Bengal Gram(Gram),Anandnagar,2016-10-13,8100.0,14.0,32.0,clear
+1476,Bengal Gram(Gram),Anandnagar,2016-10-19,8200.0,0.0,33.4,clear
+1477,Bengal Gram(Gram),Partaval,2016-10-19,8225.0,0.0,33.4,clear
+1478,Lentil(Masur),Partaval,2016-10-19,6150.0,1.0,33.4,clear
+1479,Bengal Gram(Gram),Anandnagar,2016-10-22,8500.0,0.0,31.4,clear
+1480,Bengal Gram(Gram),Partaval,2016-10-22,8225.0,1.0,31.4,clear
+1481,Lentil(Masur),Partaval,2016-10-22,6250.0,1.0,31.4,clear
+1482,Bengal Gram(Gram),Anandnagar,2016-09-11,9000.0,0.0,33.0,clear
+1483,Bengal Gram(Gram),Partaval,2016-09-11,9250.0,1.0,33.0,clear
+1484,Lentil(Masur),Partaval,2016-09-11,6300.0,0.5,33.0,clear
+1485,Bengal Gram(Gram),Anandnagar,2016-10-11,9000.0,9.0,33.4,clear
+1486,Bengal Gram(Gram),Partaval,2016-10-11,9300.0,1.5,33.4,clear
+1487,Lentil(Masur),Partaval,2016-10-11,6310.0,1.0,33.4,clear
+1488,Bengal Gram(Gram),Anandnagar,2016-11-11,9000.0,0.0,26.9,clear
+1489,Bengal Gram(Gram),Partaval,2016-11-11,9325.0,0.5,26.9,clear
+1490,Lentil(Masur),Partaval,2016-11-11,6325.0,0.0,26.9,clear
+1491,Bengal Gram(Gram),Anandnagar,2016-12-11,9000.0,0.0,14.2,clear
+1492,Bengal Gram(Gram),Partaval,2016-12-11,9325.0,1.0,14.2,clear
+1493,Lentil(Masur),Partaval,2016-12-11,6325.0,0.5,14.2,clear
+1494,Bengal Gram(Gram),Anandnagar,2016-11-14,9000.0,0.0,30.2,clear
+1495,Bengal Gram(Gram),Partaval,2016-11-14,9350.0,0.0,30.2,clear
+1496,Lentil(Masur),Partaval,2016-11-14,6325.0,0.7,30.2,clear
+1497,Bengal Gram(Gram),Anandnagar,2016-11-16,9000.0,0.0,29.2,clear
+1498,Bengal Gram(Gram),Partaval,2016-11-16,9450.0,2.0,29.2,clear
+1499,Lentil(Masur),Partaval,2016-11-16,6350.0,0.5,29.2,clear
+1500,Bengal Gram(Gram),Anandnagar,2016-11-23,9000.0,0.0,27.2,clear
+1501,Bengal Gram(Gram),Partaval,2016-11-23,9600.0,5.0,27.2,clear
+1502,Bengal Gram(Gram),Anandnagar,2016-11-24,9000.0,10.0,28.0,clear
+1503,Bengal Gram(Gram),Partaval,2016-11-24,9600.0,2.0,28.0,clear
+1504,Lentil(Masur),Partaval,2016-11-24,6300.0,0.0,28.0,clear
+1505,Bengal Gram(Gram),Anandnagar,2016-01-12,9500.0,9.0,21.8,clear
+1506,Bengal Gram(Gram),Partaval,2016-01-12,9800.0,2.5,21.8,clear
+1507,Lentil(Masur),Partaval,2016-01-12,6500.0,0.5,21.8,clear
+1508,Bengal Gram(Gram),Anandnagar,2016-12-16,9800.0,0.0,20.8,clear
+1509,Bengal Gram(Gram),Partaval,2016-12-16,9850.0,0.5,20.8,clear
+1510,Lentil(Masur),Partaval,2016-12-16,6550.0,1.0,20.8,clear
+1511,Bengal Gram(Gram),Anandnagar,2016-12-26,9400.0,0.0,24.7,clear
+1512,Bengal Gram(Gram),Partaval,2016-12-26,9850.0,5.0,24.7,clear
+1513,Lentil(Masur),Partaval,2016-12-26,6550.0,0.5,24.7,clear
+1514,Bengal Gram(Gram),Anandnagar,2016-12-28,9400.0,0.0,16.5,clear
+1515,Bengal Gram(Gram),Partaval,2016-12-28,9850.0,1.5,16.5,clear
+1516,Bengal Gram(Gram),Anandnagar,2016-12-29,9450.0,9.5,19.6,clear
+1517,Bengal Gram(Gram),Partaval,2016-12-29,9840.0,1.2,19.6,clear
+1518,Lentil(Masur),Partaval,2016-12-29,6550.0,0.8,19.6,clear
+1519,Bengal Gram(Gram),Gadaura,2016-02-27,5300.0,0.5,29.8,clear
+1520,Bengal Gram(Gram),Partaval,2016-02-27,5300.0,0.5,29.8,clear
+1521,Lentil(Masur),Partaval,2016-02-27,6820.0,0.5,29.8,clear
+1522,Bengal Gram(Gram),Gadaura,2016-05-18,5700.0,2.5,37.9,clear
+1523,Bengal Gram(Gram),Partaval,2016-05-18,5700.0,2.5,37.9,clear
+1524,Lentil(Masur),Partaval,2016-05-18,6600.0,1.0,37.9,clear
+1525,Bengal Gram(Gram),Gadaura,2016-06-20,6000.0,10.0,33.5,clear
+1526,Bengal Gram(Gram),Partaval,2016-06-20,6000.0,1.0,33.5,clear
+1527,Lentil(Masur),Partaval,2016-06-20,6800.0,0.5,33.5,clear
+1528,Bengal Gram(Gram),Gadaura,2016-06-30,6200.0,0.0,32.7,clear
+1529,Bengal Gram(Gram),Partaval,2016-06-30,6130.0,1.0,32.7,clear
+1530,Lentil(Masur),Partaval,2016-06-30,6825.0,1.2,32.7,clear
+1531,Bengal Gram(Gram),Gadaura,2016-07-15,7800.0,5.0,33.0,clear
+1532,Bengal Gram(Gram),Partaval,2016-07-15,7600.0,0.0,33.0,clear
+1533,Lentil(Masur),Partaval,2016-07-15,6950.0,1.2,33.0,clear
+1534,Bengal Gram(Gram),Gadaura,2016-07-30,8000.0,6.0,31.6,clear
+1535,Bengal Gram(Gram),Partaval,2016-07-30,8025.0,6.0,31.6,clear
+1536,Lentil(Masur),Partaval,2016-07-30,7325.0,0.4,31.6,clear
+1537,Bengal Gram(Gram),Gadaura,2016-08-23,8300.0,2.0,32.4,clear
+1538,Bengal Gram(Gram),Partaval,2016-08-23,8150.0,0.0,32.4,clear
+1539,Lentil(Masur),Partaval,2016-08-23,6300.0,0.5,32.4,clear
+1540,Bengal Gram(Gram),Gadaura,2016-09-30,8000.0,40.0,34.7,clear
+1541,Bengal Gram(Gram),Gadaura,2016-04-10,8000.0,40.0,41.5,clear
+1542,Bengal Gram(Gram),Gadaura,2016-10-30,8850.0,5.0,26.6,clear
+1543,Bengal Gram(Gram),Gadaura,2016-11-30,9725.0,5.0,29.0,clear
+1544,Bengal Gram(Gram),Partaval,2016-11-30,9750.0,3.0,29.0,clear
+1545,Lentil(Masur),Partaval,2016-11-30,6500.0,1.0,29.0,clear
+1546,Bengal Gram(Gram),Gadaura,2016-12-30,9850.0,5.0,18.8,clear
+1547,Bengal Gram(Gram),Partaval,2016-01-01,5410.0,0.0,24.8,clear
+1548,Lentil(Masur),Partaval,2016-01-01,6800.0,0.5,24.8,clear
+1549,Bengal Gram(Gram),Partaval,2016-02-01,5415.0,1.5,23.8,clear
+1550,Lentil(Masur),Partaval,2016-02-01,6815.0,1.0,23.8,clear
+1551,Bengal Gram(Gram),Partaval,2016-04-01,5415.0,0.0,32.0,clear
+1552,Lentil(Masur),Partaval,2016-04-01,6815.0,0.5,32.0,clear
+1553,Bengal Gram(Gram),Partaval,2016-05-01,5415.0,1.0,38.5,clear
+1554,Lentil(Masur),Partaval,2016-05-01,6815.0,1.2,38.5,clear
+1555,Bengal Gram(Gram),Partaval,2016-06-01,5425.0,0.5,33.6,clear
+1556,Lentil(Masur),Partaval,2016-06-01,6825.0,0.0,33.6,clear
+1557,Bengal Gram(Gram),Partaval,2016-08-01,5430.0,0.8,33.3,clear
+1558,Lentil(Masur),Partaval,2016-08-01,6825.0,1.5,33.3,clear
+1559,Bengal Gram(Gram),Partaval,2016-09-01,5440.0,3.0,32.9,clear
+1560,Lentil(Masur),Partaval,2016-09-01,6800.0,1.0,32.9,clear
+1561,Bengal Gram(Gram),Partaval,2016-11-01,5430.0,1.0,32.8,clear
+1562,Lentil(Masur),Partaval,2016-11-01,6825.0,2.0,32.8,clear
+1563,Bengal Gram(Gram),Partaval,2016-12-01,5425.0,1.0,28.2,clear
+1564,Lentil(Masur),Partaval,2016-12-01,6830.0,1.0,28.2,clear
+1565,Bengal Gram(Gram),Partaval,2016-01-14,5440.0,4.0,23.6,clear
+1566,Lentil(Masur),Partaval,2016-01-14,6800.0,1.4,23.6,clear
+1567,Bengal Gram(Gram),Partaval,2016-01-15,5400.0,2.0,23.2,clear
+1568,Lentil(Masur),Partaval,2016-01-15,6750.0,1.0,23.2,clear
+1569,Bengal Gram(Gram),Partaval,2016-01-16,5430.0,2.0,16.8,clear
+1570,Lentil(Masur),Partaval,2016-01-16,6800.0,1.0,16.8,clear
+1571,Bengal Gram(Gram),Partaval,2016-01-19,5430.0,1.0,17.6,clear
+1572,Lentil(Masur),Partaval,2016-01-19,6800.0,1.0,17.6,clear
+1573,Bengal Gram(Gram),Partaval,2016-01-20,5430.0,0.0,15.0,clear
+1574,Lentil(Masur),Partaval,2016-01-20,6800.0,0.5,15.0,clear
+1575,Bengal Gram(Gram),Partaval,2016-01-21,5430.0,2.0,12.6,clear
+1576,Lentil(Masur),Partaval,2016-01-21,6700.0,2.0,12.6,clear
+1577,Bengal Gram(Gram),Partaval,2016-01-22,5425.0,6.0,13.4,clear
+1578,Lentil(Masur),Partaval,2016-01-22,6700.0,1.5,13.4,clear
+1579,Bengal Gram(Gram),Partaval,2016-01-23,5425.0,3.0,15.8,clear
+1580,Lentil(Masur),Partaval,2016-01-23,6700.0,7.0,15.8,clear
+1581,Bengal Gram(Gram),Partaval,2016-01-25,5450.0,0.8,17.8,clear
+1582,Lentil(Masur),Partaval,2016-01-25,6550.0,1.0,17.8,clear
+1583,Bengal Gram(Gram),Partaval,2016-01-29,5460.0,1.0,21.8,clear
+1584,Lentil(Masur),Partaval,2016-01-29,6730.0,0.0,21.8,clear
+1585,Bengal Gram(Gram),Partaval,2016-01-02,5465.0,2.0,25.0,clear
+1586,Lentil(Masur),Partaval,2016-01-02,6550.0,0.8,25.0,clear
+1587,Bengal Gram(Gram),Partaval,2016-02-02,5500.0,15.0,23.9,clear
+1588,Lentil(Masur),Partaval,2016-02-02,6575.0,1.0,23.9,clear
+1589,Bengal Gram(Gram),Partaval,2016-05-02,5490.0,1.0,35.0,clear
+1590,Lentil(Masur),Partaval,2016-05-02,6800.0,0.5,35.0,clear
+1591,Bengal Gram(Gram),Partaval,2016-08-02,5490.0,1.0,34.2,clear
+1592,Lentil(Masur),Partaval,2016-08-02,6810.0,1.5,34.2,clear
+1593,Bengal Gram(Gram),Partaval,2016-12-02,5450.0,9.0,28.0,clear
+1594,Lentil(Masur),Partaval,2016-12-02,6800.0,2.0,28.0,clear
+1595,Bengal Gram(Gram),Partaval,2016-02-15,5450.0,1.5,28.7,clear
+1596,Lentil(Masur),Partaval,2016-02-15,6830.0,1.0,28.7,clear
+1597,Bengal Gram(Gram),Partaval,2016-02-16,5400.0,1.5,26.8,clear
+1598,Lentil(Masur),Partaval,2016-02-16,6830.0,0.7,26.8,clear
+1599,Bengal Gram(Gram),Partaval,2016-02-19,5410.0,0.0,29.0,clear
+1600,Lentil(Masur),Partaval,2016-02-19,6825.0,0.2,29.0,clear
+1601,Bengal Gram(Gram),Partaval,2016-02-20,5410.0,0.5,26.0,clear
+1602,Lentil(Masur),Partaval,2016-02-20,6825.0,0.7,26.0,clear
+1603,Bengal Gram(Gram),Partaval,2016-02-23,5425.0,1.0,26.2,clear
+1604,Lentil(Masur),Partaval,2016-02-23,6820.0,0.5,26.2,clear
+1605,Bengal Gram(Gram),Partaval,2016-02-25,5400.0,0.6,28.2,clear
+1606,Lentil(Masur),Partaval,2016-02-25,6830.0,1.2,28.2,clear
+1607,Bengal Gram(Gram),Partaval,2016-01-03,5300.0,1.5,24.0,clear
+1608,Lentil(Masur),Partaval,2016-01-03,6825.0,1.0,24.0,clear
+1609,Bengal Gram(Gram),Partaval,2016-05-03,5250.0,2.0,36.0,clear
+1610,Lentil(Masur),Partaval,2016-05-03,6700.0,2.0,36.0,clear
+1611,Bengal Gram(Gram),Partaval,2016-07-03,5260.0,1.7,34.5,clear
+1612,Lentil(Masur),Partaval,2016-07-03,6700.0,0.0,34.5,clear
+1613,Bengal Gram(Gram),Partaval,2016-08-03,5250.0,5.0,32.0,clear
+1614,Bengal Gram(Gram),Partaval,2016-09-03,5300.0,2.0,29.0,clear
+1615,Bengal Gram(Gram),Partaval,2016-10-03,5260.0,1.3,35.3,clear
+1616,Lentil(Masur),Partaval,2016-10-03,6600.0,1.2,35.3,clear
+1617,Bengal Gram(Gram),Partaval,2016-11-03,5200.0,0.5,33.7,clear
+1618,Lentil(Masur),Partaval,2016-11-03,6600.0,0.0,33.7,clear
+1619,Bengal Gram(Gram),Partaval,2016-12-03,5200.0,1.0,24.3,clear
+1620,Lentil(Masur),Partaval,2016-12-03,6600.0,2.0,24.3,clear
+1621,Bengal Gram(Gram),Partaval,2016-03-14,5200.0,0.8,30.8,clear
+1622,Lentil(Masur),Partaval,2016-03-14,6600.0,1.5,30.8,clear
+1623,Bengal Gram(Gram),Partaval,2016-03-15,5200.0,1.0,33.0,clear
+1624,Lentil(Masur),Partaval,2016-03-15,6600.0,1.0,33.0,clear
+1625,Bengal Gram(Gram),Partaval,2016-03-16,5215.0,0.9,31.1,clear
+1626,Lentil(Masur),Partaval,2016-03-16,6500.0,2.0,31.1,clear
+1627,Bengal Gram(Gram),Partaval,2016-03-18,5200.0,1.0,31.8,clear
+1628,Lentil(Masur),Partaval,2016-03-18,6500.0,2.0,31.8,clear
+1629,Bengal Gram(Gram),Partaval,2016-03-19,5200.0,0.5,33.6,clear
+1630,Lentil(Masur),Partaval,2016-03-19,6400.0,1.4,33.6,clear
+1631,Bengal Gram(Gram),Partaval,2016-03-23,5200.0,2.0,30.9,clear
+1632,Bengal Gram(Gram),Partaval,2016-03-25,5200.0,1.0,32.7,clear
+1633,Lentil(Masur),Partaval,2016-03-25,6400.0,1.4,32.7,clear
+1634,Bengal Gram(Gram),Partaval,2016-03-26,5200.0,0.5,34.6,clear
+1635,Lentil(Masur),Partaval,2016-03-26,6400.0,1.0,34.6,clear
+1636,Bengal Gram(Gram),Partaval,2016-03-29,5175.0,0.5,32.3,clear
+1637,Lentil(Masur),Partaval,2016-03-29,6650.0,0.2,32.3,clear
+1638,Bengal Gram(Gram),Partaval,2016-08-04,5070.0,1.5,36.1,clear
+1639,Bengal Gram(Gram),Partaval,2016-09-04,5070.0,1.0,32.6,clear
+1640,Lentil(Masur),Partaval,2016-09-04,6150.0,1.0,32.6,clear
+1641,Bengal Gram(Gram),Partaval,2016-11-04,5075.0,0.5,32.2,clear
+1642,Lentil(Masur),Partaval,2016-11-04,6150.0,0.8,32.2,clear
+1643,Bengal Gram(Gram),Partaval,2016-12-04,5050.0,1.5,18.0,clear
+1644,Lentil(Masur),Partaval,2016-12-04,6150.0,1.2,18.0,clear
+1645,Bengal Gram(Gram),Partaval,2016-04-13,5050.0,0.7,38.2,clear
+1646,Lentil(Masur),Partaval,2016-04-13,6125.0,0.0,38.2,clear
+1647,Bengal Gram(Gram),Partaval,2016-04-18,5300.0,0.5,35.8,clear
+1648,Lentil(Masur),Partaval,2016-04-18,6225.0,0.8,35.8,clear
+1649,Bengal Gram(Gram),Partaval,2016-04-25,5400.0,1.5,39.8,clear
+1650,Lentil(Masur),Partaval,2016-04-25,6230.0,1.2,39.8,clear
+1651,Bengal Gram(Gram),Partaval,2016-04-26,5400.0,1.5,40.7,clear
+1652,Lentil(Masur),Partaval,2016-04-26,6220.0,1.2,40.7,clear
+1653,Bengal Gram(Gram),Partaval,2016-04-28,5425.0,4.0,41.9,clear
+1654,Lentil(Masur),Partaval,2016-04-28,6325.0,0.8,41.9,clear
+1655,Bengal Gram(Gram),Partaval,2016-04-29,5450.0,0.4,41.0,clear
+1656,Lentil(Masur),Partaval,2016-04-29,6325.0,1.0,41.0,clear
+1657,Bengal Gram(Gram),Partaval,2016-05-05,5600.0,0.0,34.0,clear
+1658,Bengal Gram(Gram),Partaval,2016-06-05,5600.0,0.0,34.6,clear
+1659,Bengal Gram(Gram),Partaval,2016-07-05,5050.0,6.0,31.6,clear
+1660,Lentil(Masur),Partaval,2016-07-05,6400.0,0.4,31.6,clear
+1661,Bengal Gram(Gram),Partaval,2016-10-05,5650.0,1.0,32.9,clear
+1662,Lentil(Masur),Partaval,2016-10-05,6400.0,0.5,32.9,clear
+1663,Bengal Gram(Gram),Partaval,2016-11-05,5650.0,0.0,30.4,clear
+1664,Lentil(Masur),Partaval,2016-11-05,6425.0,0.5,30.4,clear
+1665,Bengal Gram(Gram),Partaval,2016-12-05,5650.0,1.0,18.5,clear
+1666,Lentil(Masur),Partaval,2016-12-05,6600.0,1.0,18.5,clear
+1667,Bengal Gram(Gram),Partaval,2016-05-17,5700.0,0.5,39.8,clear
+1668,Lentil(Masur),Partaval,2016-05-17,6600.0,0.5,39.8,clear
+1669,Bengal Gram(Gram),Partaval,2016-05-20,5700.0,0.5,33.6,clear
+1670,Lentil(Masur),Partaval,2016-05-20,6600.0,0.0,33.6,clear
+1671,Bengal Gram(Gram),Partaval,2016-05-21,5700.0,0.8,29.0,clear
+1672,Lentil(Masur),Partaval,2016-05-21,6600.0,0.6,29.0,clear
+1673,Bengal Gram(Gram),Partaval,2016-05-23,5700.0,1.0,34.3,clear
+1674,Lentil(Masur),Partaval,2016-05-23,6600.0,0.7,34.3,clear
+1675,Bengal Gram(Gram),Partaval,2016-05-24,5710.0,0.5,35.0,clear
+1676,Lentil(Masur),Partaval,2016-05-24,6600.0,0.5,35.0,clear
+1677,Bengal Gram(Gram),Partaval,2016-05-26,5710.0,1.0,33.7,clear
+1678,Lentil(Masur),Partaval,2016-05-26,6615.0,0.4,33.7,clear
+1679,Bengal Gram(Gram),Partaval,2016-05-31,5725.0,0.0,32.8,clear
+1680,Lentil(Masur),Partaval,2016-05-31,6625.0,0.5,32.8,clear
+1681,Bengal Gram(Gram),Partaval,2016-01-06,5825.0,1.0,24.0,clear
+1682,Bengal Gram(Gram),Partaval,2016-04-06,5850.0,0.4,40.0,clear
+1683,Lentil(Masur),Partaval,2016-04-06,6625.0,0.3,40.0,clear
+1684,Bengal Gram(Gram),Partaval,2016-08-06,5850.0,0.5,35.5,clear
+1685,Lentil(Masur),Partaval,2016-08-06,6700.0,0.2,35.5,clear
+1686,Bengal Gram(Gram),Partaval,2016-10-06,5850.0,0.6,32.8,clear
+1687,Lentil(Masur),Partaval,2016-10-06,6700.0,0.0,32.8,clear
+1688,Bengal Gram(Gram),Partaval,2016-06-13,5850.0,1.0,36.4,clear
+1689,Bengal Gram(Gram),Partaval,2016-06-17,6000.0,0.4,33.8,clear
+1690,Lentil(Masur),Partaval,2016-06-17,6800.0,0.3,33.8,clear
+1691,Bengal Gram(Gram),Partaval,2016-06-18,6000.0,0.0,32.8,clear
+1692,Bengal Gram(Gram),Partaval,2016-06-23,6100.0,0.4,33.9,clear
+1693,Lentil(Masur),Partaval,2016-06-23,6800.0,0.4,33.9,clear
+1694,Bengal Gram(Gram),Partaval,2016-06-24,6100.0,0.5,33.6,clear
+1695,Lentil(Masur),Partaval,2016-06-24,6800.0,0.3,33.6,clear
+1696,Bengal Gram(Gram),Partaval,2016-06-25,6125.0,0.5,34.0,clear
+1697,Bengal Gram(Gram),Partaval,2016-06-27,6124.0,1.0,33.8,clear
+1698,Lentil(Masur),Partaval,2016-06-27,6800.0,0.0,33.8,clear
+1699,Bengal Gram(Gram),Partaval,2016-06-28,6125.0,0.5,35.0,clear
+1700,Lentil(Masur),Partaval,2016-06-28,6810.0,0.5,35.0,clear
+1701,Bengal Gram(Gram),Partaval,2016-06-29,6130.0,0.4,35.6,clear
+1702,Lentil(Masur),Partaval,2016-06-29,6810.0,0.6,35.6,clear
+1703,Bengal Gram(Gram),Partaval,2016-02-07,7300.0,0.0,26.0,clear
+1704,Lentil(Masur),Partaval,2016-02-07,6800.0,0.5,26.0,clear
+1705,Bengal Gram(Gram),Partaval,2016-04-07,7300.0,0.5,38.2,clear
+1706,Lentil(Masur),Partaval,2016-04-07,6800.0,1.5,38.2,clear
+1707,Bengal Gram(Gram),Partaval,2016-05-07,7300.0,0.4,35.6,clear
+1708,Lentil(Masur),Partaval,2016-05-07,6800.0,1.0,35.6,clear
+1709,Bengal Gram(Gram),Partaval,2016-08-07,7500.0,0.4,35.3,clear
+1710,Lentil(Masur),Partaval,2016-08-07,6910.0,1.0,35.3,clear
+1711,Bengal Gram(Gram),Partaval,2016-12-07,7500.0,1.5,20.7,clear
+1712,Lentil(Masur),Partaval,2016-12-07,6915.0,0.7,20.7,clear
+1713,Bengal Gram(Gram),Partaval,2016-07-16,7600.0,0.4,33.0,clear
+1714,Lentil(Masur),Partaval,2016-07-16,6950.0,1.0,33.0,clear
+1715,Bengal Gram(Gram),Partaval,2016-07-19,7800.0,0.0,32.3,clear
+1716,Lentil(Masur),Partaval,2016-07-19,7300.0,0.3,32.3,clear
+1717,Bengal Gram(Gram),Partaval,2016-07-22,7900.0,0.2,28.7,clear
+1718,Bengal Gram(Gram),Partaval,2016-07-23,7900.0,0.2,32.7,clear
+1719,Bengal Gram(Gram),Partaval,2016-07-25,7950.0,0.4,29.9,rain
+1720,Bengal Gram(Gram),Partaval,2016-07-28,8000.0,0.0,32.2,clear
+1721,Lentil(Masur),Partaval,2016-07-28,7325.0,0.2,32.2,clear
+1722,Bengal Gram(Gram),Partaval,2016-02-08,8025.0,1.0,25.2,clear
+1723,Lentil(Masur),Partaval,2016-02-08,7360.0,0.7,25.2,clear
+1724,Bengal Gram(Gram),Partaval,2016-04-08,8075.0,0.2,39.3,clear
+1725,Bengal Gram(Gram),Partaval,2016-06-08,8075.0,0.2,32.6,clear
+1726,Lentil(Masur),Partaval,2016-06-08,7000.0,0.5,32.6,clear
+1727,Bengal Gram(Gram),Partaval,2016-08-08,8025.0,0.0,33.6,clear
+1728,Lentil(Masur),Partaval,2016-08-08,6500.0,0.0,33.6,clear
+1729,Bengal Gram(Gram),Partaval,2016-12-08,8200.0,0.5,14.9,clear
+1730,Lentil(Masur),Partaval,2016-12-08,6400.0,1.0,14.9,clear
+1731,Bengal Gram(Gram),Partaval,2016-08-13,8200.0,1.0,35.5,clear
+1732,Lentil(Masur),Partaval,2016-08-13,6400.0,0.5,35.5,clear
+1733,Bengal Gram(Gram),Partaval,2016-08-16,8200.0,0.5,30.6,rain
+1734,Lentil(Masur),Partaval,2016-08-16,6400.0,0.6,30.6,rain
+1735,Bengal Gram(Gram),Partaval,2016-08-17,8200.0,0.0,34.4,clear
+1736,Lentil(Masur),Partaval,2016-08-17,6400.0,0.5,34.4,clear
+1737,Bengal Gram(Gram),Partaval,2016-08-18,8250.0,1.0,34.8,clear
+1738,Lentil(Masur),Partaval,2016-08-18,6300.0,1.0,34.8,clear
+1739,Bengal Gram(Gram),Partaval,2016-08-19,8250.0,0.5,35.0,clear
+1740,Lentil(Masur),Partaval,2016-08-19,6300.0,0.5,35.0,clear
+1741,Bengal Gram(Gram),Partaval,2016-08-20,8250.0,1.0,36.5,clear
+1742,Lentil(Masur),Partaval,2016-08-20,6300.0,1.2,36.5,clear
+1743,Bengal Gram(Gram),Partaval,2016-08-22,8150.0,0.5,34.1,clear
+1744,Lentil(Masur),Partaval,2016-08-22,6300.0,0.8,34.1,clear
+1745,Bengal Gram(Gram),Partaval,2016-08-24,8200.0,1.2,36.2,clear
+1746,Lentil(Masur),Partaval,2016-08-24,6300.0,0.6,36.2,clear
+1747,Bengal Gram(Gram),Partaval,2016-08-25,8200.0,1.2,37.5,clear
+1748,Lentil(Masur),Partaval,2016-08-25,6300.0,0.6,37.5,clear
+1749,Bengal Gram(Gram),Partaval,2016-08-29,8200.0,1.2,35.2,clear
+1750,Lentil(Masur),Partaval,2016-08-29,6300.0,0.6,35.2,clear
+1751,Bengal Gram(Gram),Partaval,2016-08-30,8250.0,1.0,33.7,clear
+1752,Lentil(Masur),Partaval,2016-08-30,6300.0,0.6,33.7,clear
+1753,Bengal Gram(Gram),Partaval,2016-08-31,8250.0,0.3,34.8,clear
+1754,Lentil(Masur),Partaval,2016-08-31,6300.0,0.8,34.8,clear
+1755,Bengal Gram(Gram),Partaval,2016-02-09,8350.0,0.5,26.2,clear
+1756,Lentil(Masur),Partaval,2016-02-09,6325.0,0.5,26.2,clear
+1757,Bengal Gram(Gram),Partaval,2016-03-09,8250.0,0.4,33.4,clear
+1758,Lentil(Masur),Partaval,2016-03-09,6330.0,0.3,33.4,clear
+1759,Bengal Gram(Gram),Partaval,2016-05-09,8200.0,0.5,37.0,clear
+1760,Lentil(Masur),Partaval,2016-05-09,6325.0,0.4,37.0,clear
+1761,Bengal Gram(Gram),Partaval,2016-06-09,8200.0,0.3,33.8,clear
+1762,Lentil(Masur),Partaval,2016-06-09,6325.0,0.2,33.8,clear
+1763,Bengal Gram(Gram),Partaval,2016-07-09,8200.0,0.4,35.5,clear
+1764,Lentil(Masur),Partaval,2016-07-09,6325.0,0.5,35.5,clear
+1765,Bengal Gram(Gram),Partaval,2016-09-09,8200.0,0.5,31.6,clear
+1766,Lentil(Masur),Partaval,2016-09-09,6200.0,0.2,31.6,clear
+1767,Bengal Gram(Gram),Partaval,2016-10-09,8200.0,0.3,28.9,clear
+1768,Lentil(Masur),Partaval,2016-10-09,6100.0,1.5,28.9,clear
+1769,Bengal Gram(Gram),Partaval,2016-12-09,8200.0,0.4,14.1,clear
+1770,Lentil(Masur),Partaval,2016-12-09,6100.0,1.0,14.1,clear
+1771,Bengal Gram(Gram),Partaval,2016-09-13,8000.0,0.5,34.0,clear
+1772,Lentil(Masur),Partaval,2016-09-13,6050.0,0.5,34.0,clear
+1773,Bengal Gram(Gram),Partaval,2016-09-29,7900.0,1.5,30.3,clear
+1774,Lentil(Masur),Partaval,2016-09-29,6150.0,1.5,30.3,clear
+1775,Bengal Gram(Gram),Partaval,2016-10-18,6210.0,2.0,33.6,clear
+1776,Bengal Gram(Gram),Partaval,2016-10-21,8200.0,1.2,32.4,clear
+1777,Lentil(Masur),Partaval,2016-10-21,6200.0,0.0,32.4,clear
+1778,Bengal Gram(Gram),Partaval,2016-10-24,8225.0,1.5,32.0,clear
+1779,Lentil(Masur),Partaval,2016-10-24,6250.0,0.5,32.0,clear
+1780,Bengal Gram(Gram),Partaval,2016-10-25,8350.0,0.8,32.6,clear
+1781,Lentil(Masur),Partaval,2016-10-25,6250.0,0.6,32.6,clear
+1782,Bengal Gram(Gram),Partaval,2016-10-26,8400.0,1.2,33.0,clear
+1783,Lentil(Masur),Partaval,2016-10-26,6275.0,1.5,33.0,clear
+1784,Bengal Gram(Gram),Partaval,2016-10-27,8500.0,0.5,31.8,clear
+1785,Lentil(Masur),Partaval,2016-10-27,6275.0,1.5,31.8,clear
+1786,Bengal Gram(Gram),Partaval,2016-10-28,8500.0,0.0,29.1,clear
+1787,Lentil(Masur),Partaval,2016-10-28,6270.0,0.5,29.1,clear
+1788,Bengal Gram(Gram),Partaval,2016-10-31,8850.0,2.5,26.6,clear
+1789,Lentil(Masur),Partaval,2016-10-31,6275.0,1.0,26.6,clear
+1790,Bengal Gram(Gram),Partaval,2016-01-11,8865.0,1.5,21.6,clear
+1791,Lentil(Masur),Partaval,2016-01-11,8865.0,1.5,21.6,clear
+1792,Bengal Gram(Gram),Partaval,2016-02-11,8875.0,2.5,25.8,clear
+1793,Bengal Gram(Gram),Partaval,2016-08-11,9200.0,0.0,34.3,clear
+1794,Lentil(Masur),Partaval,2016-08-11,6300.0,0.4,34.3,clear
+1795,Bengal Gram(Gram),Partaval,2016-11-15,9400.0,1.5,29.1,clear
+1796,Lentil(Masur),Partaval,2016-11-15,6330.0,1.0,29.1,clear
+1797,Bengal Gram(Gram),Partaval,2016-11-17,9450.0,1.5,28.5,clear
+1798,Lentil(Masur),Partaval,2016-11-17,6350.0,1.0,28.5,clear
+1799,Bengal Gram(Gram),Partaval,2016-11-22,9550.0,4.5,28.4,clear
+1800,Lentil(Masur),Partaval,2016-11-22,6300.0,3.0,28.4,clear
+1801,Bengal Gram(Gram),Partaval,2016-11-25,9600.0,0.0,24.7,clear
+1802,Lentil(Masur),Partaval,2016-11-25,6300.0,1.5,24.7,clear
+1803,Bengal Gram(Gram),Partaval,2016-11-26,9600.0,1.0,27.4,clear
+1804,Bengal Gram(Gram),Partaval,2016-11-28,9700.0,0.5,23.4,clear
+1805,Lentil(Masur),Partaval,2016-11-28,6500.0,1.0,23.4,clear
+1806,Bengal Gram(Gram),Partaval,2016-11-29,9700.0,0.0,29.2,clear
+1807,Lentil(Masur),Partaval,2016-11-29,6500.0,0.0,29.2,clear
+1808,Bengal Gram(Gram),Partaval,2016-02-12,9820.0,0.0,26.5,clear
+1809,Lentil(Masur),Partaval,2016-02-12,6525.0,0.4,26.5,clear
+1810,Bengal Gram(Gram),Partaval,2016-03-12,9825.0,2.0,28.3,clear
+1811,Lentil(Masur),Partaval,2016-03-12,6525.0,1.0,28.3,clear
+1812,Bengal Gram(Gram),Partaval,2016-06-12,9850.0,0.0,36.8,clear
+1813,Lentil(Masur),Partaval,2016-06-12,6525.0,0.7,36.8,clear
+1814,Bengal Gram(Gram),Partaval,2016-07-12,9850.0,0.5,35.1,clear
+1815,Lentil(Masur),Partaval,2016-07-12,6525.0,1.2,35.1,clear
+1816,Bengal Gram(Gram),Partaval,2016-09-12,9830.0,3.0,31.2,clear
+1817,Lentil(Masur),Partaval,2016-09-12,6525.0,0.0,31.2,clear
+1818,Bengal Gram(Gram),Partaval,2016-10-12,9830.0,2.5,29.9,clear
+1819,Lentil(Masur),Partaval,2016-10-12,6425.0,1.0,29.9,clear
+1820,Bengal Gram(Gram),Partaval,2016-12-12,9850.0,4.0,15.7,clear
+1821,Lentil(Masur),Partaval,2016-12-12,6550.0,0.5,15.7,clear
+1822,Bengal Gram(Gram),Partaval,2016-12-14,9850.0,2.5,18.4,clear
+1823,Lentil(Masur),Partaval,2016-12-14,6555.0,0.7,18.4,clear
+1824,Bengal Gram(Gram),Partaval,2016-12-15,9850.0,1.0,18.9,clear
+1825,Lentil(Masur),Partaval,2016-12-15,6550.0,1.2,18.9,clear
+1826,Bengal Gram(Gram),Partaval,2016-12-17,9850.0,1.0,26.1,clear
+1827,Lentil(Masur),Partaval,2016-12-17,6550.0,1.2,26.1,clear
+1828,Bengal Gram(Gram),Partaval,2016-12-19,9860.0,0.5,25.0,clear
+1829,Lentil(Masur),Partaval,2016-12-19,6570.0,1.5,25.0,clear
+1830,Bengal Gram(Gram),Partaval,2016-12-20,9875.0,0.0,21.0,clear
+1831,Lentil(Masur),Partaval,2016-12-20,6575.0,1.0,21.0,clear
+1832,Bengal Gram(Gram),Partaval,2016-12-21,9875.0,1.0,24.1,clear
+1833,Lentil(Masur),Partaval,2016-12-21,6575.0,1.0,24.1,clear
+1834,Bengal Gram(Gram),Partaval,2016-12-22,9875.0,2.0,25.6,clear
+1835,Lentil(Masur),Partaval,2016-12-22,6575.0,0.5,25.6,clear
+1836,Bengal Gram(Gram),Partaval,2016-12-24,9875.0,1.5,26.3,clear
+1837,Lentil(Masur),Partaval,2016-12-24,6575.0,1.2,26.3,clear
+1838,Bengal Gram(Gram),Partaval,2016-12-27,9850.0,0.5,15.4,clear
+1839,Lentil(Masur),Partaval,2016-12-27,6525.0,0.7,15.4,clear
+1840,Lentil(Masur),Partaval,2016-06-16,6700.0,0.4,31.9,clear
+1841,Lentil(Masur),Partaval,2016-05-08,7000.0,0.5,30.8,clear
+1842,Bengal Gram(Gram),Anandnagar,2017-03-01,9400.0,0.0,27.0,clear
+1843,Bengal Gram(Gram),Partaval,2017-03-01,9800.0,1.5,27.0,clear
+1844,Lentil(Masur),Partaval,2017-03-01,6550.0,0.8,27.0,clear
+1845,Bengal Gram(Gram),Anandnagar,2017-04-01,9400.0,0.0,33.0,clear
+1846,Bengal Gram(Gram),Partaval,2017-04-01,9800.0,0.0,33.0,clear
+1847,Bengal Gram(Gram),Anandnagar,2017-05-01,9400.0,10.0,32.9,clear
+1848,Bengal Gram(Gram),Partaval,2017-05-01,9800.0,4.0,32.9,clear
+1849,Lentil(Masur),Partaval,2017-05-01,6500.0,1.5,32.9,clear
+1850,Bengal Gram(Gram),Anandnagar,2017-09-01,9400.0,0.0,30.8,clear
+1851,Bengal Gram(Gram),Partaval,2017-09-01,9500.0,3.0,30.8,clear
+1852,Lentil(Masur),Partaval,2017-09-01,6500.0,1.5,30.8,clear
+1853,Bengal Gram(Gram),Anandnagar,2017-01-17,9300.0,0.0,22.8,clear
+1854,Bengal Gram(Gram),Partaval,2017-01-17,9000.0,0.0,22.8,clear
+1855,Lentil(Masur),Partaval,2017-01-17,6525.0,1.0,22.8,clear
+1856,Bengal Gram(Gram),Anandnagar,2017-01-18,9000.0,0.0,22.0,clear
+1857,Bengal Gram(Gram),Partaval,2017-01-18,8900.0,1.5,22.0,clear
+1858,Lentil(Masur),Partaval,2017-01-18,6530.0,1.2,22.0,clear
+1859,Bengal Gram(Gram),Anandnagar,2017-01-19,8750.0,11.5,18.3,clear
+1860,Bengal Gram(Gram),Partaval,2017-01-19,8400.0,2.0,18.3,clear
+1861,Lentil(Masur),Partaval,2017-01-19,6000.0,1.5,18.3,clear
+1862,Bengal Gram(Gram),Anandnagar,2017-01-21,8450.0,0.0,21.6,clear
+1863,Bengal Gram(Gram),Partaval,2017-01-21,8100.0,1.0,21.6,clear
+1864,Lentil(Masur),Partaval,2017-01-21,5800.0,1.0,21.6,clear
+1865,Bengal Gram(Gram),Anandnagar,2017-01-23,8400.0,0.0,22.6,clear
+1866,Bengal Gram(Gram),Partaval,2017-01-23,8000.0,1.2,22.6,clear
+1867,Lentil(Masur),Partaval,2017-01-23,5800.0,0.5,22.6,clear
+1868,Bengal Gram(Gram),Anandnagar,2017-01-24,8400.0,0.0,25.2,clear
+1869,Bengal Gram(Gram),Partaval,2017-01-24,7900.0,1.5,25.2,clear
+1870,Lentil(Masur),Partaval,2017-01-24,5800.0,1.0,25.2,clear
+1871,Bengal Gram(Gram),Anandnagar,2017-01-30,8000.0,0.0,16.4,clear
+1872,Bengal Gram(Gram),Partaval,2017-01-30,7910.0,1.5,16.4,clear
+1873,Lentil(Masur),Partaval,2017-01-30,5650.0,1.2,16.4,clear
+1874,Bengal Gram(Gram),Anandnagar,2017-01-02,8000.0,0.0,25.4,clear
+1875,Bengal Gram(Gram),Partaval,2017-01-02,7900.0,5.0,25.4,clear
+1876,Lentil(Masur),Partaval,2017-01-02,5650.0,2.0,25.4,clear
+1877,Bengal Gram(Gram),Anandnagar,2017-02-02,8000.0,120.0,21.8,clear
+1878,Bengal Gram(Gram),Partaval,2017-02-02,7900.0,3.0,21.8,clear
+1879,Lentil(Masur),Partaval,2017-02-02,5650.0,1.5,21.8,clear
+1880,Bengal Gram(Gram),Anandnagar,2017-03-02,8000.0,0.0,30.9,clear
+1881,Bengal Gram(Gram),Partaval,2017-03-02,7900.0,2.5,30.9,clear
+1882,Lentil(Masur),Partaval,2017-03-02,5650.0,0.5,30.9,clear
+1883,Bengal Gram(Gram),Anandnagar,2017-04-02,8000.0,0.0,35.0,clear
+1884,Bengal Gram(Gram),Partaval,2017-04-02,7910.0,1.0,35.0,clear
+1885,Lentil(Masur),Partaval,2017-04-02,5650.0,1.5,35.0,clear
+1886,Bengal Gram(Gram),Anandnagar,2017-07-02,8000.0,0.0,30.8,rain
+1887,Bengal Gram(Gram),Partaval,2017-07-02,7925.0,1.2,30.8,rain
+1888,Lentil(Masur),Partaval,2017-07-02,5625.0,1.0,30.8,rain
+1889,Bengal Gram(Gram),Anandnagar,2017-08-02,7900.0,0.0,31.9,clear
+1890,Bengal Gram(Gram),Partaval,2017-08-02,7800.0,1.0,31.9,clear
+1891,Lentil(Masur),Partaval,2017-08-02,5600.0,1.5,31.9,clear
+1892,Bengal Gram(Gram),Anandnagar,2017-09-02,7900.0,14.0,33.1,clear
+1893,Bengal Gram(Gram),Partaval,2017-09-02,7800.0,1.5,33.1,clear
+1894,Lentil(Masur),Partaval,2017-09-02,5600.0,1.2,33.1,clear
+1895,Bengal Gram(Gram),Anandnagar,2017-02-15,7850.0,0.0,25.3,clear
+1896,Bengal Gram(Gram),Partaval,2017-02-15,7825.0,1.5,25.3,clear
+1897,Lentil(Masur),Partaval,2017-02-15,5500.0,2.0,25.3,clear
+1898,Bengal Gram(Gram),Anandnagar,2017-02-16,7850.0,12.0,26.5,clear
+1899,Bengal Gram(Gram),Partaval,2017-02-16,7825.0,0.0,26.5,clear
+1900,Lentil(Masur),Partaval,2017-02-16,5500.0,1.5,26.5,clear
+1901,Bengal Gram(Gram),Anandnagar,2017-02-18,7850.0,0.0,28.4,clear
+1902,Bengal Gram(Gram),Partaval,2017-02-18,7825.0,0.0,28.4,clear
+1903,Lentil(Masur),Partaval,2017-02-18,5500.0,2.0,28.4,clear
+1904,Bengal Gram(Gram),Anandnagar,2017-02-20,7850.0,0.0,27.2,clear
+1905,Bengal Gram(Gram),Partaval,2017-02-20,7875.0,1.5,27.2,clear
+1906,Lentil(Masur),Partaval,2017-02-20,5500.0,1.5,27.2,clear
+1907,Bengal Gram(Gram),Anandnagar,2017-02-22,7800.0,0.0,28.4,clear
+1908,Bengal Gram(Gram),Partaval,2017-02-22,7880.0,0.5,28.4,clear
+1909,Lentil(Masur),Partaval,2017-02-22,5500.0,1.0,28.4,clear
+1910,Bengal Gram(Gram),Anandnagar,2017-02-23,7800.0,10.0,27.0,clear
+1911,Bengal Gram(Gram),Partaval,2017-02-23,7875.0,2.0,27.0,clear
+1912,Lentil(Masur),Partaval,2017-02-23,5450.0,1.3,27.0,clear
+1913,Bengal Gram(Gram),Anandnagar,2017-02-24,7800.0,0.0,24.5,clear
+1914,Bengal Gram(Gram),Partaval,2017-02-24,7875.0,1.5,24.5,clear
+1915,Lentil(Masur),Partaval,2017-02-24,5450.0,1.0,24.5,clear
+1916,Bengal Gram(Gram),Anandnagar,2017-02-28,7800.0,0.0,28.1,clear
+1917,Bengal Gram(Gram),Partaval,2017-02-28,7870.0,5.0,28.1,clear
+1918,Lentil(Masur),Partaval,2017-02-28,5450.0,1.0,28.1,clear
+1919,Bengal Gram(Gram),Anandnagar,2017-02-03,7800.0,11.0,23.3,clear
+1920,Bengal Gram(Gram),Partaval,2017-02-03,7800.0,2.0,23.3,clear
+1921,Lentil(Masur),Partaval,2017-02-03,5400.0,1.2,23.3,clear
+1922,Bengal Gram(Gram),Anandnagar,2017-03-03,7800.0,0.0,31.7,clear
+1923,Bengal Gram(Gram),Partaval,2017-03-03,7800.0,1.5,31.7,clear
+1924,Lentil(Masur),Partaval,2017-03-03,5400.0,2.0,31.7,clear
+1925,Bengal Gram(Gram),Anandnagar,2017-07-03,7800.0,0.0,33.7,clear
+1926,Bengal Gram(Gram),Partaval,2017-07-03,7500.0,1.5,33.7,clear
+1927,Lentil(Masur),Partaval,2017-07-03,5400.0,2.0,33.7,clear
+1928,Bengal Gram(Gram),Anandnagar,2017-08-03,7750.0,0.0,27.6,rain
+1929,Bengal Gram(Gram),Partaval,2017-08-03,7500.0,1.0,27.6,rain
+1930,Lentil(Masur),Partaval,2017-08-03,5400.0,0.0,27.6,rain
+1931,Bengal Gram(Gram),Anandnagar,2017-03-15,6500.0,0.0,28.0,clear
+1932,Bengal Gram(Gram),Partaval,2017-03-15,6900.0,2.0,28.0,clear
+1933,Lentil(Masur),Partaval,2017-03-15,5410.0,1.0,28.0,clear
+1934,Bengal Gram(Gram),Anandnagar,2017-03-17,6350.0,0.0,30.7,clear
+1935,Bengal Gram(Gram),Partaval,2017-03-17,6800.0,2.0,30.7,clear
+1936,Lentil(Masur),Partaval,2017-03-17,5400.0,0.5,30.7,clear
+1937,Bengal Gram(Gram),Anandnagar,2017-03-18,6300.0,0.0,30.3,clear
+1938,Bengal Gram(Gram),Partaval,2017-03-18,6600.0,2.5,30.3,clear
+1939,Lentil(Masur),Partaval,2017-03-18,5350.0,1.2,30.3,clear
+1940,Bengal Gram(Gram),Anandnagar,2017-03-20,6400.0,0.0,27.0,rain
+1941,Bengal Gram(Gram),Partaval,2017-03-20,6500.0,2.0,27.0,rain
+1942,Lentil(Masur),Partaval,2017-03-20,5500.0,1.0,27.0,rain
+1943,Bengal Gram(Gram),Anandnagar,2017-03-22,6400.0,0.0,29.1,clear
+1944,Bengal Gram(Gram),Partaval,2017-03-22,6500.0,1.5,29.1,clear
+1945,Lentil(Masur),Partaval,2017-03-22,5525.0,1.2,29.1,clear
+1946,Bengal Gram(Gram),Anandnagar,2017-03-23,6400.0,11.5,30.4,clear
+1947,Bengal Gram(Gram),Partaval,2017-03-23,6400.0,1.0,30.4,clear
+1948,Lentil(Masur),Partaval,2017-03-23,5500.0,2.5,30.4,clear
+1949,Bengal Gram(Gram),Anandnagar,2017-03-25,6400.0,0.0,34.0,clear
+1950,Bengal Gram(Gram),Partaval,2017-03-25,6400.0,2.0,34.0,clear
+1951,Lentil(Masur),Partaval,2017-03-25,5400.0,2.5,34.0,clear
+1952,Bengal Gram(Gram),Anandnagar,2017-04-04,6175.0,0.0,33.3,clear
+1953,Bengal Gram(Gram),Partaval,2017-04-04,6200.0,1.5,33.3,clear
+1954,Lentil(Masur),Partaval,2017-04-04,5250.0,2.5,33.3,clear
+1955,Bengal Gram(Gram),Anandnagar,2017-05-04,6150.0,0.0,38.9,clear
+1956,Bengal Gram(Gram),Partaval,2017-05-04,6225.0,0.0,38.9,clear
+1957,Lentil(Masur),Partaval,2017-05-04,5250.0,1.2,38.9,clear
+1958,Bengal Gram(Gram),Anandnagar,2017-07-04,6150.0,0.0,30.8,clear
+1959,Bengal Gram(Gram),Partaval,2017-07-04,6100.0,2.5,30.8,clear
+1960,Lentil(Masur),Partaval,2017-07-04,5150.0,1.2,30.8,clear
+1961,Bengal Gram(Gram),Anandnagar,2017-04-13,6200.0,13.5,35.4,clear
+1962,Bengal Gram(Gram),Partaval,2017-04-13,6100.0,3.0,35.4,clear
+1963,Bengal Gram(Gram),Anandnagar,2017-04-14,6200.0,0.0,35.5,clear
+1964,Bengal Gram(Gram),Partaval,2017-04-14,6100.0,2.5,35.5,clear
+1965,Lentil(Masur),Partaval,2017-04-14,5110.0,1.0,35.5,clear
+1966,Bengal Gram(Gram),Anandnagar,2017-04-19,6200.0,0.0,30.9,clear
+1967,Lentil(Masur),Partaval,2017-04-19,5000.0,3.5,30.9,clear
+1968,Bengal Gram(Gram),Anandnagar,2017-04-20,6200.0,14.0,29.9,clear
+1969,Bengal Gram(Gram),Partaval,2017-04-20,6200.0,2.0,29.9,clear
+1970,Lentil(Masur),Partaval,2017-04-20,5000.0,3.0,29.9,clear
+1971,Bengal Gram(Gram),Anandnagar,2017-04-21,6200.0,0.0,33.2,clear
+1972,Bengal Gram(Gram),Partaval,2017-04-21,6225.0,0.0,33.2,clear
+1973,Lentil(Masur),Partaval,2017-04-21,5000.0,1.0,33.2,clear
+1974,Bengal Gram(Gram),Anandnagar,2017-04-22,6200.0,0.0,30.6,clear
+1975,Bengal Gram(Gram),Partaval,2017-04-22,6300.0,1.5,30.6,clear
+1976,Lentil(Masur),Partaval,2017-04-22,4900.0,2.0,30.6,clear
+1977,Bengal Gram(Gram),Anandnagar,2017-04-25,6250.0,0.0,39.8,clear
+1978,Bengal Gram(Gram),Partaval,2017-04-25,6300.0,0.5,39.8,clear
+1979,Lentil(Masur),Partaval,2017-04-25,4900.0,1.0,39.8,clear
+1980,Bengal Gram(Gram),Anandnagar,2017-04-26,6275.0,0.0,40.0,clear
+1981,Bengal Gram(Gram),Partaval,2017-04-26,6300.0,1.0,40.0,clear
+1982,Lentil(Masur),Partaval,2017-04-26,4900.0,0.5,40.0,clear
+1983,Bengal Gram(Gram),Anandnagar,2017-04-27,6250.0,15.0,40.4,clear
+1984,Lentil(Masur),Partaval,2017-04-27,4900.0,1.2,40.4,clear
+1985,Bengal Gram(Gram),Anandnagar,2017-01-05,6300.0,0.0,13.8,clear
+1986,Lentil(Masur),Partaval,2017-01-05,4850.0,3.0,13.8,clear
+1987,Bengal Gram(Gram),Anandnagar,2017-04-05,6375.0,14.5,32.7,clear
+1988,Bengal Gram(Gram),Partaval,2017-04-05,6350.0,1.7,32.7,clear
+1989,Lentil(Masur),Partaval,2017-04-05,5025.0,2.0,32.7,clear
+1990,Bengal Gram(Gram),Anandnagar,2017-08-05,6300.0,0.0,34.4,clear
+1991,Bengal Gram(Gram),Partaval,2017-08-05,6400.0,1.2,34.4,clear
+1992,Lentil(Masur),Partaval,2017-08-05,5025.0,1.2,34.4,clear
+1993,Bengal Gram(Gram),Anandnagar,2017-12-05,6425.0,0.0,24.3,clear
+1994,Bengal Gram(Gram),Partaval,2017-12-05,6430.0,1.0,24.3,clear
+1995,Bengal Gram(Gram),Anandnagar,2017-05-18,6500.0,14.5,35.5,clear
+1996,Lentil(Masur),Partaval,2017-05-18,4900.0,1.2,35.5,clear
+1997,Bengal Gram(Gram),Anandnagar,2017-05-20,6500.0,0.0,39.1,clear
+1998,Bengal Gram(Gram),Partaval,2017-05-20,6625.0,1.0,39.1,clear
+1999,Lentil(Masur),Partaval,2017-05-20,4875.0,1.3,39.1,clear
+2000,Bengal Gram(Gram),Anandnagar,2017-05-23,6500.0,0.0,40.3,clear
+2001,Lentil(Masur),Partaval,2017-05-23,4700.0,1.0,40.3,clear
+2002,Bengal Gram(Gram),Anandnagar,2017-05-25,6525.0,13.0,40.0,clear
+2003,Lentil(Masur),Partaval,2017-05-25,4650.0,1.5,40.0,clear
+2004,Bengal Gram(Gram),Anandnagar,2017-05-26,6525.0,0.0,40.0,clear
+2005,Bengal Gram(Gram),Partaval,2017-05-26,6625.0,1.2,40.0,clear
+2006,Lentil(Masur),Partaval,2017-05-26,4640.0,1.0,40.0,clear
+2007,Bengal Gram(Gram),Anandnagar,2017-02-06,6550.0,0.0,25.9,clear
+2008,Lentil(Masur),Partaval,2017-02-06,4650.0,1.5,25.9,clear
+2009,Bengal Gram(Gram),Anandnagar,2017-05-06,6550.0,0.0,38.4,clear
+2010,Bengal Gram(Gram),Anandnagar,2017-07-06,6600.0,0.0,30.8,clear
+2011,Lentil(Masur),Partaval,2017-07-06,4675.0,0.8,30.8,clear
+2012,Bengal Gram(Gram),Anandnagar,2017-08-06,6600.0,13.0,34.0,clear
+2013,Lentil(Masur),Partaval,2017-08-06,4500.0,1.0,34.0,clear
+2014,Bengal Gram(Gram),Anandnagar,2017-06-13,6600.0,0.0,35.8,clear
+2015,Lentil(Masur),Partaval,2017-06-13,4400.0,1.5,35.8,clear
+2016,Bengal Gram(Gram),Anandnagar,2017-06-15,6600.0,12.0,34.3,clear
+2017,Lentil(Masur),Partaval,2017-06-15,4375.0,2.0,34.3,clear
+2018,Bengal Gram(Gram),Anandnagar,2017-06-19,6625.0,0.0,37.8,clear
+2019,Bengal Gram(Gram),Anandnagar,2017-06-20,6625.0,0.0,31.2,clear
+2020,Lentil(Masur),Partaval,2017-06-20,4500.0,1.2,31.2,clear
+2021,Bengal Gram(Gram),Anandnagar,2017-06-21,6475.0,1.0,31.8,clear
+2022,Lentil(Masur),Partaval,2017-06-21,4510.0,1.0,31.8,clear
+2023,Bengal Gram(Gram),Anandnagar,2017-06-22,6400.0,12.0,35.0,clear
+2024,Lentil(Masur),Partaval,2017-06-22,4510.0,1.5,35.0,clear
+2025,Bengal Gram(Gram),Anandnagar,2017-01-07,6500.0,0.0,21.2,clear
+2026,Lentil(Masur),Partaval,2017-01-07,4340.0,1.5,21.2,clear
+2027,Bengal Gram(Gram),Anandnagar,2017-04-07,6500.0,0.0,35.5,clear
+2028,Bengal Gram(Gram),Nautnava,2017-04-07,1765.0,0.0,35.5,clear
+2029,Lentil(Masur),Partaval,2017-04-07,4325.0,0.7,35.5,clear
+2030,Bengal Gram(Gram),Anandnagar,2017-05-07,6500.0,0.0,36.1,clear
+2031,Bengal Gram(Gram),Anandnagar,2017-06-07,6800.0,0.0,33.2,clear
+2032,Lentil(Masur),Partaval,2017-06-07,4275.0,1.5,33.2,clear
+2033,Bengal Gram(Gram),Gadaura,2017-01-31,7900.0,15.0,16.0,clear
+2034,Bengal Gram(Gram),Nautnava,2017-01-31,8100.0,43.0,16.0,clear
+2035,Bengal Gram(Gram),Partaval,2017-01-31,7900.0,0.5,16.0,clear
+2036,Lentil(Masur),Partaval,2017-01-31,5650.0,0.7,16.0,clear
+2037,Bengal Gram(Gram),Gadaura,2017-02-27,7870.0,20.0,26.8,clear
+2038,Bengal Gram(Gram),Gadaura,2017-03-16,6900.0,15.0,29.4,clear
+2039,Bengal Gram(Gram),Partaval,2017-03-16,6800.0,1.5,29.4,clear
+2040,Lentil(Masur),Partaval,2017-03-16,5410.0,1.5,29.4,clear
+2041,Bengal Gram(Gram),Gadaura,2017-03-31,6400.0,20.0,33.1,clear
+2042,Bengal Gram(Gram),Partaval,2017-03-31,6400.0,1.0,33.1,clear
+2043,Lentil(Masur),Partaval,2017-03-31,5400.0,1.0,33.1,clear
+2044,Bengal Gram(Gram),Gadaura,2017-04-24,6300.0,25.0,34.9,clear
+2045,Bengal Gram(Gram),Partaval,2017-04-24,6300.0,1.0,34.9,clear
+2046,Lentil(Masur),Partaval,2017-04-24,4900.0,1.2,34.9,clear
+2047,Bengal Gram(Gram),Gadaura,2017-05-29,6650.0,15.0,33.6,clear
+2048,Bengal Gram(Gram),Nautnava,2017-03-29,6200.0,45.0,31.1,clear
+2049,Bengal Gram(Gram),Partaval,2017-03-29,6200.0,0.7,31.1,clear
+2050,Lentil(Masur),Partaval,2017-03-29,5400.0,2.0,31.1,clear
+2051,Bengal Gram(Gram),Nautnava,2017-04-28,6300.0,55.0,40.0,clear
+2052,Lentil(Masur),Partaval,2017-04-28,5900.0,5.0,40.0,clear
+2053,Bengal Gram(Gram),Nautnava,2017-07-17,4500.0,0.0,35.6,clear
+2054,Bengal Gram(Gram),Partaval,2017-07-17,6100.0,2.0,35.6,clear
+2055,Lentil(Masur),Partaval,2017-07-17,4350.0,0.8,35.6,clear
+2056,Bengal Gram(Gram),Partaval,2017-02-01,9800.0,1.0,17.5,clear
+2057,Lentil(Masur),Partaval,2017-02-01,6550.0,0.5,17.5,clear
+2058,Bengal Gram(Gram),Partaval,2017-06-01,9700.0,3.5,36.7,clear
+2059,Lentil(Masur),Partaval,2017-06-01,6500.0,0.5,36.7,clear
+2060,Bengal Gram(Gram),Partaval,2017-07-01,9700.0,5.0,34.0,clear
+2061,Lentil(Masur),Partaval,2017-07-01,6500.0,1.0,34.0,clear
+2062,Bengal Gram(Gram),Partaval,2017-10-01,9450.0,2.0,34.4,clear
+2063,Lentil(Masur),Partaval,2017-10-01,6500.0,1.2,34.4,clear
+2064,Bengal Gram(Gram),Partaval,2017-11-01,9450.0,1.5,29.6,clear
+2065,Lentil(Masur),Partaval,2017-11-01,6500.0,1.0,29.6,clear
+2066,Bengal Gram(Gram),Partaval,2017-12-01,9400.0,2.5,25.7,clear
+2067,Bengal Gram(Gram),Partaval,2017-01-13,9200.0,0.7,20.0,clear
+2068,Lentil(Masur),Partaval,2017-01-13,6500.0,1.0,20.0,clear
+2069,Bengal Gram(Gram),Partaval,2017-01-14,9100.0,0.5,20.3,clear
+2070,Lentil(Masur),Partaval,2017-01-14,6500.0,0.8,20.3,clear
+2071,Bengal Gram(Gram),Partaval,2017-01-16,9100.0,0.5,22.4,clear
+2072,Lentil(Masur),Partaval,2017-01-16,6525.0,1.5,22.4,clear
+2073,Bengal Gram(Gram),Partaval,2017-01-20,8200.0,1.5,18.6,clear
+2074,Lentil(Masur),Partaval,2017-01-20,5800.0,0.5,18.6,clear
+2075,Bengal Gram(Gram),Partaval,2017-01-25,7900.0,0.5,26.6,clear
+2076,Lentil(Masur),Partaval,2017-01-25,5800.0,1.2,26.6,clear
+2077,Bengal Gram(Gram),Partaval,2017-01-27,7900.0,0.7,18.4,clear
+2078,Lentil(Masur),Partaval,2017-01-27,5700.0,1.0,18.4,clear
+2079,Bengal Gram(Gram),Partaval,2017-01-28,7900.0,1.0,21.6,clear
+2080,Lentil(Masur),Partaval,2017-01-28,5700.0,0.5,21.6,clear
+2081,Bengal Gram(Gram),Partaval,2017-06-02,7925.0,1.5,35.7,clear
+2082,Lentil(Masur),Partaval,2017-06-02,5650.0,2.5,35.7,clear
+2083,Bengal Gram(Gram),Partaval,2017-10-02,7800.0,1.2,30.6,clear
+2084,Lentil(Masur),Partaval,2017-10-02,5600.0,0.5,30.6,clear
+2085,Bengal Gram(Gram),Partaval,2017-02-13,7825.0,2.0,26.2,clear
+2086,Lentil(Masur),Partaval,2017-02-13,5600.0,1.0,26.2,clear
+2087,Bengal Gram(Gram),Partaval,2017-02-14,7825.0,0.0,26.2,clear
+2088,Lentil(Masur),Partaval,2017-02-14,5600.0,2.5,26.2,clear
+2089,Bengal Gram(Gram),Partaval,2017-02-17,7725.0,2.0,28.4,clear
+2090,Lentil(Masur),Partaval,2017-02-17,5500.0,1.0,28.4,clear
+2091,Bengal Gram(Gram),Partaval,2017-02-21,7855.0,1.0,30.2,clear
+2092,Lentil(Masur),Partaval,2017-02-21,5500.0,1.2,30.2,clear
+2093,Bengal Gram(Gram),Partaval,2017-02-25,7875.0,0.5,25.4,clear
+2094,Lentil(Masur),Partaval,2017-02-25,5450.0,1.2,25.4,clear
+2095,Bengal Gram(Gram),Partaval,2017-01-03,7800.0,3.0,21.7,clear
+2096,Lentil(Masur),Partaval,2017-01-03,5450.0,1.5,21.7,clear
+2097,Bengal Gram(Gram),Partaval,2017-06-03,7800.0,2.0,36.2,clear
+2098,Lentil(Masur),Partaval,2017-06-03,5410.0,1.5,36.2,clear
+2099,Bengal Gram(Gram),Partaval,2017-09-03,7500.0,2.5,32.0,clear
+2100,Lentil(Masur),Partaval,2017-09-03,5400.0,2.5,32.0,clear
+2101,Bengal Gram(Gram),Partaval,2017-03-14,7000.0,1.5,27.4,clear
+2102,Lentil(Masur),Partaval,2017-03-14,5400.0,1.5,27.4,clear
+2103,Bengal Gram(Gram),Partaval,2017-03-21,6500.0,2.5,27.9,clear
+2104,Lentil(Masur),Partaval,2017-03-21,5500.0,0.5,27.9,clear
+2105,Bengal Gram(Gram),Partaval,2017-03-24,6400.0,1.5,31.9,clear
+2106,Lentil(Masur),Partaval,2017-03-24,5500.0,0.0,31.9,clear
+2107,Bengal Gram(Gram),Partaval,2017-03-27,6200.0,1.5,31.8,clear
+2108,Lentil(Masur),Partaval,2017-03-27,5400.0,0.0,31.8,clear
+2109,Bengal Gram(Gram),Partaval,2017-03-28,6200.0,1.2,31.4,clear
+2110,Lentil(Masur),Partaval,2017-03-28,5400.0,1.5,31.4,clear
+2111,Bengal Gram(Gram),Partaval,2017-03-30,6200.0,1.5,31.6,clear
+2112,Lentil(Masur),Partaval,2017-03-30,5400.0,1.5,31.6,clear
+2113,Bengal Gram(Gram),Partaval,2017-01-04,6200.0,3.0,17.7,clear
+2114,Lentil(Masur),Partaval,2017-01-04,5300.0,2.0,17.7,clear
+2115,Bengal Gram(Gram),Partaval,2017-03-04,6200.0,1.5,31.3,clear
+2116,Lentil(Masur),Partaval,2017-03-04,5300.0,1.5,31.3,clear
+2117,Bengal Gram(Gram),Partaval,2017-06-04,6200.0,2.0,38.1,clear
+2118,Lentil(Masur),Partaval,2017-06-04,5250.0,1.0,38.1,clear
+2119,Bengal Gram(Gram),Partaval,2017-08-04,6100.0,2.0,30.8,clear
+2120,Lentil(Masur),Partaval,2017-08-04,5150.0,1.5,30.8,clear
+2121,Bengal Gram(Gram),Partaval,2017-10-04,6100.0,1.5,35.2,clear
+2122,Lentil(Masur),Partaval,2017-10-04,5100.0,1.5,35.2,clear
+2123,Bengal Gram(Gram),Partaval,2017-11-04,6100.0,1.2,32.2,clear
+2124,Lentil(Masur),Partaval,2017-11-04,5100.0,1.5,32.2,clear
+2125,Bengal Gram(Gram),Partaval,2017-12-04,6100.0,0.0,25.2,clear
+2126,Lentil(Masur),Partaval,2017-12-04,5100.0,1.0,25.2,clear
+2127,Bengal Gram(Gram),Partaval,2017-04-15,6100.0,2.5,29.6,clear
+2128,Lentil(Masur),Partaval,2017-04-15,5100.0,0.0,29.6,clear
+2129,Bengal Gram(Gram),Partaval,2017-04-17,6100.0,2.0,34.6,clear
+2130,Lentil(Masur),Partaval,2017-04-17,5100.0,1.5,34.6,clear
+2131,Bengal Gram(Gram),Partaval,2017-04-18,6000.0,1.5,35.3,clear
+2132,Lentil(Masur),Partaval,2017-04-18,5000.0,2.0,35.3,clear
+2133,Bengal Gram(Gram),Partaval,2017-04-29,6360.0,1.5,38.0,clear
+2134,Lentil(Masur),Partaval,2017-04-29,4850.0,1.0,38.0,clear
+2135,Bengal Gram(Gram),Partaval,2017-03-05,6350.0,0.5,28.6,clear
+2136,Lentil(Masur),Partaval,2017-03-05,5000.0,1.0,28.6,clear
+2137,Bengal Gram(Gram),Partaval,2017-05-13,6450.0,0.5,34.2,clear
+2138,Lentil(Masur),Partaval,2017-05-13,5015.0,2.0,34.2,clear
+2139,Bengal Gram(Gram),Partaval,2017-05-15,6500.0,0.0,35.4,clear
+2140,Lentil(Masur),Partaval,2017-05-15,4900.0,1.0,35.4,clear
+2141,Bengal Gram(Gram),Partaval,2017-05-24,6630.0,0.7,39.1,clear
+2142,Lentil(Masur),Partaval,2017-05-24,4600.0,2.0,39.1,clear
+2143,Bengal Gram(Gram),Partaval,2017-10-07,3580.0,2.0,36.2,clear
+2144,Lentil(Masur),Partaval,2017-10-07,4275.0,1.2,36.2,clear
+2145,Bengal Gram(Gram),Partaval,2017-07-15,6100.0,1.0,34.3,clear
+2146,Lentil(Masur),Partaval,2017-07-15,4350.0,0.0,34.3,clear
+2147,Bengal Gram(Gram),Partaval,2017-07-20,6200.0,2.5,34.6,clear
+2148,Lentil(Masur),Partaval,2017-07-20,4355.0,1.2,34.6,clear
+2149,Bengal Gram(Gram),Partaval,2017-07-22,6225.0,1.5,34.6,clear
+2150,Lentil(Masur),Partaval,2017-07-22,4370.0,0.5,34.6,clear
+2151,Bengal Gram(Gram),Partaval,2017-07-27,6150.0,1.5,32.7,clear
+2152,Lentil(Masur),Partaval,2017-07-27,4400.0,0.5,32.7,clear
+2153,Bengal Gram(Gram),Partaval,2017-07-29,6150.0,2.0,33.7,clear
+2154,Lentil(Masur),Partaval,2017-07-29,4425.0,1.0,33.7,clear
+2155,Bengal Gram(Gram),Partaval,2017-04-08,6030.0,2.5,37.5,clear
+2156,Lentil(Masur),Partaval,2017-04-08,4450.0,2.0,37.5,clear
+2157,Bengal Gram(Gram),Partaval,2017-05-08,6030.0,1.5,34.5,clear
+2158,Lentil(Masur),Partaval,2017-05-08,4440.0,1.5,34.5,clear
+2159,Bengal Gram(Gram),Partaval,2017-07-08,5900.0,1.2,34.5,clear
+2160,Lentil(Masur),Partaval,2017-07-08,4400.0,2.0,34.5,clear
+2161,Bengal Gram(Gram),Partaval,2017-08-08,5900.0,1.5,35.0,clear
+2162,Lentil(Masur),Partaval,2017-08-08,4400.0,1.2,35.0,clear
+2163,Bengal Gram(Gram),Partaval,2017-09-08,5900.0,1.0,35.2,clear
+2164,Lentil(Masur),Partaval,2017-09-08,4400.0,1.0,35.2,clear
+2165,Bengal Gram(Gram),Partaval,2017-11-08,5900.0,1.0,31.5,clear
+2166,Lentil(Masur),Partaval,2017-11-08,4400.0,1.2,31.5,clear
+2167,Bengal Gram(Gram),Partaval,2017-12-08,5810.0,0.5,26.8,clear
+2168,Lentil(Masur),Partaval,2017-12-08,4400.0,1.0,26.8,clear
+2169,Bengal Gram(Gram),Partaval,2017-08-14,5850.0,0.2,28.4,clear
+2170,Lentil(Masur),Partaval,2017-08-14,4415.0,0.1,28.4,clear
+2171,Bengal Gram(Gram),Partaval,2017-08-16,5855.0,2.0,30.5,clear
+2172,Lentil(Masur),Partaval,2017-08-16,4415.0,0.5,30.5,clear
+2173,Bengal Gram(Gram),Partaval,2017-08-17,5855.0,3.5,31.5,clear
+2174,Lentil(Masur),Partaval,2017-08-17,4425.0,1.0,31.5,clear
+2175,Bengal Gram(Gram),Partaval,2017-08-18,5850.0,2.5,34.6,clear
+2176,Lentil(Masur),Partaval,2017-08-18,4425.0,2.5,34.6,clear
+2177,Bengal Gram(Gram),Partaval,2017-08-19,5850.0,1.0,33.9,clear
+2178,Lentil(Masur),Partaval,2017-08-19,4425.0,1.2,33.9,clear
+2179,Bengal Gram(Gram),Partaval,2017-08-22,5850.0,1.0,35.3,clear
+2180,Lentil(Masur),Partaval,2017-08-22,4400.0,0.5,35.3,clear
+2181,Bengal Gram(Gram),Partaval,2017-08-25,5830.0,1.5,35.5,clear
+2182,Lentil(Masur),Partaval,2017-08-25,5830.0,1.2,35.5,clear
+2183,Bengal Gram(Gram),Partaval,2017-08-26,5830.0,1.0,37.3,clear
+2184,Lentil(Masur),Partaval,2017-08-26,4429.0,0.5,37.3,clear
+2185,Bengal Gram(Gram),Partaval,2017-08-30,6000.0,1.5,35.6,clear
+2186,Lentil(Masur),Partaval,2017-08-30,4420.0,2.5,35.6,clear
+2187,Bengal Gram(Gram),Partaval,2017-02-09,6015.0,2.5,25.3,clear
+2188,Lentil(Masur),Partaval,2017-02-09,4140.0,1.2,25.3,clear
+2189,Bengal Gram(Gram),Partaval,2017-04-09,6025.0,2.5,37.2,clear
+2190,Lentil(Masur),Partaval,2017-04-09,4400.0,1.0,37.2,clear
+2191,Bengal Gram(Gram),Partaval,2017-05-09,6025.0,2.5,34.6,clear
+2192,Lentil(Masur),Partaval,2017-05-09,4400.0,1.5,34.6,clear
+2193,Bengal Gram(Gram),Partaval,2017-06-09,6025.0,2.0,31.0,clear
+2194,Lentil(Masur),Gadaura,2017-06-09,4150.0,8.0,31.0,clear
+2195,Lentil(Masur),Partaval,2017-06-09,4410.0,1.5,31.0,clear
+2196,Bengal Gram(Gram),Partaval,2017-07-09,6025.0,10.0,32.4,clear
+2197,Lentil(Masur),Gadaura,2017-07-09,4200.0,20.0,32.4,clear
+2198,Lentil(Masur),Partaval,2017-07-09,4050.0,2.0,32.4,clear
+2199,Bengal Gram(Gram),Partaval,2017-09-14,6200.0,0.5,34.2,clear
+2200,Lentil(Masur),Gadaura,2017-09-14,4200.0,3.0,34.2,clear
+2201,Lentil(Masur),Partaval,2017-09-14,3900.0,2.5,34.2,clear
+2202,Bengal Gram(Gram),Partaval,2017-09-18,6250.0,1.0,34.0,clear
+2203,Lentil(Masur),Gadaura,2017-09-18,4100.0,5.0,34.0,clear
+2204,Lentil(Masur),Partaval,2017-09-18,3900.0,1.2,34.0,clear
+2205,Bengal Gram(Gram),Partaval,2017-09-21,6350.0,2.5,31.0,clear
+2206,Lentil(Masur),Gadaura,2017-09-21,4100.0,3.0,31.0,clear
+2207,Lentil(Masur),Partaval,2017-09-21,4050.0,2.5,31.0,clear
+2208,Bengal Gram(Gram),Partaval,2017-09-22,6360.0,1.5,29.0,clear
+2209,Lentil(Masur),Gadaura,2017-09-22,4000.0,2.0,29.0,clear
+2210,Lentil(Masur),Partaval,2017-09-22,4100.0,2.0,29.0,clear
+2211,Bengal Gram(Gram),Partaval,2017-09-23,6375.0,0.5,34.0,clear
+2212,Lentil(Masur),Gadaura,2017-09-23,4100.0,0.0,34.0,clear
+2213,Lentil(Masur),Partaval,2017-09-23,4150.0,1.5,34.0,clear
+2214,Bengal Gram(Gram),Partaval,2017-09-25,6375.0,0.6,35.6,clear
+2215,Lentil(Masur),Gadaura,2017-09-25,4200.0,3.0,35.6,clear
+2216,Lentil(Masur),Partaval,2017-09-25,4200.0,1.2,35.6,clear
+2217,Bengal Gram(Gram),Partaval,2017-09-26,6250.0,0.0,34.7,clear
+2218,Lentil(Masur),Gadaura,2017-09-26,4200.0,4.0,34.7,clear
+2219,Bengal Gram(Gram),Partaval,2017-09-27,6385.0,1.5,35.4,clear
+2220,Lentil(Masur),Gadaura,2017-09-27,4200.0,0.0,35.4,clear
+2221,Lentil(Masur),Partaval,2017-09-27,4200.0,0.5,35.4,clear
+2222,Bengal Gram(Gram),Partaval,2017-09-28,6400.0,2.5,35.1,clear
+2223,Lentil(Masur),Gadaura,2017-09-28,4150.0,4.0,35.1,clear
+2224,Lentil(Masur),Partaval,2017-09-28,4200.0,0.0,35.1,clear
+2225,Bengal Gram(Gram),Partaval,2017-09-29,6400.0,3.0,34.2,clear
+2226,Lentil(Masur),Gadaura,2017-09-29,4150.0,2.0,34.2,clear
+2227,Lentil(Masur),Partaval,2017-09-29,4210.0,2.0,34.2,clear
+2228,Bengal Gram(Gram),Partaval,2017-02-10,6410.0,2.5,21.5,clear
+2229,Lentil(Masur),Gadaura,2017-02-10,4150.0,3.0,21.5,clear
+2230,Lentil(Masur),Partaval,2017-02-10,3700.0,1.0,21.5,clear
+2231,Bengal Gram(Gram),Partaval,2017-03-10,6400.0,2.5,21.4,rain
+2232,Lentil(Masur),Gadaura,2017-03-10,4150.0,4.0,21.4,rain
+2233,Lentil(Masur),Partaval,2017-03-10,4200.0,1.5,21.4,rain
+2234,Bengal Gram(Gram),Partaval,2017-04-10,6400.0,2.0,35.2,clear
+2235,Lentil(Masur),Gadaura,2017-04-10,4150.0,5.0,35.2,clear
+2236,Lentil(Masur),Partaval,2017-04-10,4210.0,1.2,35.2,clear
+2237,Bengal Gram(Gram),Partaval,2017-05-10,6415.0,1.5,32.2,clear
+2238,Lentil(Masur),Gadaura,2017-05-10,4150.0,3.0,32.2,clear
+2239,Lentil(Masur),Partaval,2017-05-10,4200.0,1.2,32.2,clear
+2240,Bengal Gram(Gram),Partaval,2017-07-10,6400.0,1.5,29.9,clear
+2241,Lentil(Masur),Gadaura,2017-07-10,4170.0,0.0,29.9,clear
+2242,Lentil(Masur),Partaval,2017-07-10,4225.0,0.0,29.9,clear
+2243,Bengal Gram(Gram),Partaval,2017-09-10,6350.0,2.5,36.3,clear
+2244,Lentil(Masur),Gadaura,2017-09-10,4160.0,0.0,36.3,clear
+2245,Lentil(Masur),Partaval,2017-09-10,4225.0,1.0,36.3,clear
+2246,Bengal Gram(Gram),Partaval,2017-10-10,6300.0,1.5,33.9,clear
+2247,Lentil(Masur),Gadaura,2017-10-10,4050.0,0.0,33.9,clear
+2248,Lentil(Masur),Partaval,2017-10-10,4225.0,1.2,33.9,clear
+2249,Bengal Gram(Gram),Partaval,2017-11-10,6275.0,1.0,29.6,clear
+2250,Lentil(Masur),Gadaura,2017-11-10,3950.0,0.0,29.6,clear
+2251,Lentil(Masur),Partaval,2017-11-10,4200.0,0.5,29.6,clear
+2252,Bengal Gram(Gram),Partaval,2017-12-10,6260.0,1.2,28.7,clear
+2253,Lentil(Masur),Gadaura,2017-12-10,4050.0,0.0,28.7,clear
+2254,Lentil(Masur),Partaval,2017-12-10,4200.0,0.7,28.7,clear
+2255,Bengal Gram(Gram),Partaval,2017-10-13,6250.0,0.7,35.0,clear
+2256,Lentil(Masur),Gadaura,2017-10-13,4150.0,0.0,35.0,clear
+2257,Lentil(Masur),Partaval,2017-10-13,4200.0,0.5,35.0,clear
+2258,Bengal Gram(Gram),Partaval,2017-10-14,6250.0,0.8,34.0,clear
+2259,Lentil(Masur),Gadaura,2017-10-14,4150.0,0.0,34.0,clear
+2260,Lentil(Masur),Partaval,2017-10-14,4200.0,0.8,34.0,clear
+2261,Bengal Gram(Gram),Partaval,2017-10-16,6250.0,1.0,33.4,clear
+2262,Lentil(Masur),Gadaura,2017-10-16,4150.0,10.0,33.4,clear
+2263,Lentil(Masur),Partaval,2017-10-16,4200.0,1.0,33.4,clear
+2264,Bengal Gram(Gram),Partaval,2017-10-17,6225.0,2.2,33.8,clear
+2265,Lentil(Masur),Gadaura,2017-10-17,4150.0,0.0,33.8,clear
+2266,Lentil(Masur),Partaval,2017-10-17,4200.0,0.8,33.8,clear
+2267,Bengal Gram(Gram),Partaval,2017-10-18,6250.0,1.0,35.7,clear
+2268,Lentil(Masur),Gadaura,2017-10-18,4150.0,0.0,35.7,clear
+2269,Bengal Gram(Gram),Partaval,2017-10-19,6250.0,0.0,34.8,clear
+2270,Lentil(Masur),Gadaura,2017-10-19,4150.0,0.0,34.8,clear
+2271,Lentil(Masur),Partaval,2017-10-19,4210.0,0.5,34.8,clear
+2272,Bengal Gram(Gram),Partaval,2017-10-20,6250.0,1.2,34.4,clear
+2273,Lentil(Masur),Gadaura,2017-10-20,4150.0,0.0,34.4,clear
+2274,Lentil(Masur),Partaval,2017-10-20,4225.0,0.7,34.4,clear
+2275,Bengal Gram(Gram),Partaval,2017-10-21,6255.0,0.7,31.7,clear
+2276,Lentil(Masur),Gadaura,2017-10-21,4150.0,0.0,31.7,clear
+2277,Lentil(Masur),Partaval,2017-10-21,4220.0,0.6,31.7,clear
+2278,Bengal Gram(Gram),Partaval,2017-10-23,6255.0,1.2,31.1,clear
+2279,Lentil(Masur),Gadaura,2017-10-23,4150.0,0.0,31.1,clear
+2280,Bengal Gram(Gram),Partaval,2017-10-24,6250.0,1.0,31.1,clear
+2281,Lentil(Masur),Gadaura,2017-10-24,4150.0,0.0,31.1,clear
+2282,Lentil(Masur),Partaval,2017-10-24,4220.0,0.5,31.1,clear
+2283,Bengal Gram(Gram),Partaval,2017-10-25,6240.0,1.5,30.8,clear
+2284,Lentil(Masur),Gadaura,2017-10-25,4150.0,15.0,30.8,clear
+2285,Lentil(Masur),Partaval,2017-10-25,4325.0,0.4,30.8,clear
+2286,Bengal Gram(Gram),Partaval,2017-10-26,6240.0,2.0,30.3,clear
+2287,Lentil(Masur),Gadaura,2017-10-26,4150.0,4.0,30.3,clear
+2288,Lentil(Masur),Partaval,2017-10-26,4325.0,1.2,30.3,clear
+2289,Bengal Gram(Gram),Partaval,2017-10-27,6150.0,1.5,30.0,clear
+2290,Lentil(Masur),Gadaura,2017-10-27,4200.0,0.0,30.0,clear
+2291,Lentil(Masur),Partaval,2017-10-27,4340.0,0.8,30.0,clear
+2292,Bengal Gram(Gram),Partaval,2017-10-28,6170.0,1.2,29.6,clear
+2293,Lentil(Masur),Gadaura,2017-10-28,4170.0,0.0,29.6,clear
+2294,Lentil(Masur),Partaval,2017-10-28,4400.0,0.7,29.6,clear
+2295,Bengal Gram(Gram),Partaval,2017-10-30,6200.0,0.5,28.2,clear
+2296,Lentil(Masur),Gadaura,2017-10-30,4170.0,7.0,28.2,clear
+2297,Lentil(Masur),Partaval,2017-10-30,4450.0,1.2,28.2,clear
+2298,Bengal Gram(Gram),Partaval,2017-10-31,6225.0,1.0,28.4,clear
+2299,Lentil(Masur),Gadaura,2017-10-31,4150.0,0.0,28.4,clear
+2300,Lentil(Masur),Partaval,2017-10-31,4450.0,0.8,28.4,clear
+2301,Bengal Gram(Gram),Partaval,2017-01-11,6215.0,0.6,20.2,clear
+2302,Lentil(Masur),Partaval,2017-01-11,4455.0,1.0,20.2,clear
+2303,Bengal Gram(Gram),Partaval,2017-02-11,6250.0,0.7,24.9,clear
+2304,Lentil(Masur),Gadaura,2017-02-11,4200.0,0.0,24.9,clear
+2305,Lentil(Masur),Partaval,2017-02-11,4460.0,1.0,24.9,clear
+2306,Lentil(Masur),Gadaura,2017-09-09,4200.0,10.0,34.5,clear
+2307,Lentil(Masur),Partaval,2017-09-09,4000.0,1.8,34.5,clear
+2308,Lentil(Masur),Gadaura,2017-10-09,4150.0,7.0,33.8,clear
+2309,Lentil(Masur),Gadaura,2017-11-09,4200.0,7.0,31.2,clear
+2310,Lentil(Masur),Partaval,2017-11-09,4000.0,1.5,31.2,clear
+2311,Lentil(Masur),Gadaura,2017-12-09,4200.0,8.0,27.8,clear
+2312,Lentil(Masur),Partaval,2017-12-09,4000.0,1.0,27.8,clear
+2313,Lentil(Masur),Gadaura,2017-09-13,4200.0,8.0,34.6,clear
+2314,Lentil(Masur),Partaval,2017-09-13,4000.0,1.5,34.6,clear
+2315,Lentil(Masur),Gadaura,2017-09-15,4200.0,4.0,35.1,clear
+2316,Lentil(Masur),Partaval,2017-09-15,3900.0,2.0,35.1,clear
+2317,Lentil(Masur),Gadaura,2017-09-16,4200.0,7.0,35.1,clear
+2318,Lentil(Masur),Partaval,2017-09-16,3900.0,1.5,35.1,clear
+2319,Lentil(Masur),Gadaura,2017-09-17,4200.0,6.0,37.6,clear
+2320,Lentil(Masur),Gadaura,2017-09-19,4100.0,6.0,36.7,clear
+2321,Lentil(Masur),Partaval,2017-09-19,3910.0,1.8,36.7,clear
+2322,Lentil(Masur),Gadaura,2017-09-20,4100.0,3.0,33.5,clear
+2323,Lentil(Masur),Partaval,2017-09-20,3900.0,2.0,33.5,clear
+2324,Lentil(Masur),Gadaura,2017-09-24,4100.0,0.0,35.2,clear
+2325,Lentil(Masur),Gadaura,2017-09-30,4150.0,2.0,34.9,clear
+2326,Lentil(Masur),Gadaura,2017-01-10,4150.0,3.0,20.2,clear
+2327,Lentil(Masur),Gadaura,2017-10-15,4150.0,0.0,33.8,clear
+2328,Lentil(Masur),Gadaura,2017-10-22,4150.0,0.0,31.7,clear
+2329,Lentil(Masur),Gadaura,2017-10-29,4170.0,0.0,29.4,clear
+2330,Lentil(Masur),Gadaura,2017-03-11,4200.0,0.0,26.1,clear
+2331,Lentil(Masur),Partaval,2017-02-05,4850.0,2.5,27.3,clear
+2332,Lentil(Masur),Partaval,2017-05-05,5025.0,1.5,37.9,clear
+2333,Lentil(Masur),Partaval,2017-06-05,5025.0,2.5,33.0,clear
+2334,Lentil(Masur),Partaval,2017-09-05,5030.0,1.5,34.7,clear
+2335,Lentil(Masur),Partaval,2017-10-05,5035.0,0.8,36.0,clear
+2336,Lentil(Masur),Partaval,2017-11-05,5030.0,0.8,32.1,clear
+2337,Lentil(Masur),Partaval,2017-05-16,4900.0,1.2,35.6,clear
+2338,Lentil(Masur),Partaval,2017-05-17,4900.0,1.5,31.5,clear
+2339,Lentil(Masur),Partaval,2017-05-19,4875.0,0.7,38.5,clear
+2340,Lentil(Masur),Partaval,2017-05-22,4875.0,1.5,39.7,clear
+2341,Lentil(Masur),Partaval,2017-05-27,4640.0,1.0,31.6,clear
+2342,Lentil(Masur),Partaval,2017-05-30,4625.0,0.8,30.3,clear
+2343,Lentil(Masur),Partaval,2017-01-06,4625.0,1.2,18.1,clear
+2344,Lentil(Masur),Partaval,2017-03-06,4660.0,0.8,29.0,clear
+2345,Lentil(Masur),Partaval,2017-06-06,4675.0,1.0,28.8,clear
+2346,Lentil(Masur),Partaval,2017-09-06,4400.0,0.7,34.2,clear
+2347,Lentil(Masur),Partaval,2017-10-06,4400.0,1.2,36.3,clear
+2348,Lentil(Masur),Partaval,2017-06-14,4375.0,1.2,36.9,clear
+2349,Lentil(Masur),Partaval,2017-06-16,4375.0,1.2,35.0,clear
+2350,Lentil(Masur),Partaval,2017-06-17,4475.0,1.0,33.8,clear
+2351,Lentil(Masur),Partaval,2017-06-23,4500.0,0.5,35.2,clear
+2352,Lentil(Masur),Partaval,2017-06-24,4500.0,1.0,34.2,clear
+2353,Lentil(Masur),Partaval,2017-06-27,4500.0,1.5,34.5,clear
+2354,Lentil(Masur),Partaval,2017-06-30,4340.0,1.2,32.0,clear
+2355,Lentil(Masur),Partaval,2017-07-07,4270.0,2.0,34.6,clear
+2356,Lentil(Masur),Partaval,2017-12-07,4300.0,1.5,27.7,clear
+2357,Lentil(Masur),Partaval,2017-07-13,4300.0,1.2,34.4,clear
+2358,Lentil(Masur),Partaval,2017-07-14,4350.0,0.0,34.0,clear
+2359,Lentil(Masur),Partaval,2017-07-18,4355.0,1.0,37.0,clear
+2360,Lentil(Masur),Partaval,2017-07-19,4350.0,0.0,36.1,rain
+2361,Lentil(Masur),Partaval,2017-07-24,4375.0,1.0,32.2,clear
+2362,Lentil(Masur),Partaval,2017-07-25,4370.0,0.3,32.7,clear
+2363,Lentil(Masur),Partaval,2017-07-26,4365.0,1.0,33.4,clear
+2364,Lentil(Masur),Partaval,2017-07-28,4425.0,0.7,31.9,clear
+2365,Lentil(Masur),Partaval,2017-07-31,4425.0,1.2,34.3,clear
+2366,Lentil(Masur),Partaval,2017-01-08,4425.0,0.7,24.4,clear
+2367,Lentil(Masur),Partaval,2017-02-08,4430.0,1.0,24.4,clear
+2368,Lentil(Masur),Partaval,2017-03-08,4450.0,2.5,29.4,clear
+2369,Lentil(Masur),Partaval,2017-10-08,4400.0,1.5,35.8,clear
+2370,Lentil(Masur),Partaval,2017-08-21,4425.0,1.0,32.8,clear
+2371,Lentil(Masur),Partaval,2017-08-23,4400.0,1.0,35.2,clear
+2372,Lentil(Masur),Partaval,2017-08-24,4400.0,1.3,34.4,clear
+2373,Lentil(Masur),Partaval,2017-08-28,4425.0,2.0,34.6,clear
+2374,Lentil(Masur),Partaval,2017-08-29,4425.0,1.5,34.4,clear
+2375,Lentil(Masur),Partaval,2017-08-31,4200.0,2.0,37.0,clear
+2376,Lentil(Masur),Partaval,2017-01-09,4150.0,1.5,20.2,clear

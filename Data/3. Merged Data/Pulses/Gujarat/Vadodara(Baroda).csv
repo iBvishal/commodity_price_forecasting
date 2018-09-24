@@ -1,0 +1,1512 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Black Gram (Urd Beans),Vadodara,2014-08-10,6700.0,0.6,31.0,clear
+1,Green Gram (Moong),Vadodara,2014-08-10,7800.0,2.4,31.0,clear
+2,Arhar (Tur/Red Gram),Karjan,2015-04-20,5750.0,0.0,37.8,clear
+3,Arhar (Tur/Red Gram),Karjan,2015-12-08,7000.0,0.0,33.6,clear
+4,Arhar (Tur/Red Gram),Karjan,2015-12-09,7000.0,0.0,32.6,clear
+5,Green Gram (Moong),Vadodara,2015-12-09,8800.0,37.5,32.6,clear
+6,Arhar (Tur/Red Gram),Nasvadi,2015-12-15,4165.0,4.0,27.8,clear
+7,Arhar (Tur/Red Gram),Vadodara,2015-12-15,13000.0,0.3,27.8,clear
+8,Arhar (Tur/Red Gram),Vagodiya,2015-12-15,7500.0,0.2,27.8,clear
+9,Arhar (Tur/Red Gram),Nasvadi,2015-12-18,4200.0,2.0,28.2,clear
+10,Green Gram (Moong),Vadodara,2015-12-18,8900.0,1.8,28.2,clear
+11,Arhar (Tur/Red Gram),Nasvadi,2015-12-22,8100.0,3.0,26.6,clear
+12,Arhar (Tur/Red Gram),Savli,2015-12-22,6951.0,0.0,26.6,clear
+13,Arhar (Tur/Red Gram),Savli(Desar),2015-12-22,6900.0,0.0,26.6,clear
+14,Arhar (Tur/Red Gram),Vadodara,2015-12-22,13000.0,0.3,26.6,clear
+15,Black Gram (Urd Beans),Vadodara,2015-12-22,13000.0,0.9,26.6,clear
+16,Green Gram (Moong),Vadodara,2015-12-22,8900.0,7.8,26.6,clear
+17,Arhar (Tur/Red Gram),Nasvadi(Thalkala),2015-12-16,4120.0,3.0,28.2,clear
+18,Arhar (Tur/Red Gram),Vadodara,2015-12-16,11000.0,0.62,28.2,clear
+19,Arhar (Tur/Red Gram),Nasvadi(Thalkala),2015-12-19,4110.0,1.0,29.4,clear
+20,Arhar (Tur/Red Gram),Vadodara,2015-12-19,11000.0,0.33,29.4,clear
+21,Green Gram (Moong),Vadodara,2015-12-19,8900.0,10.7,29.4,clear
+22,Arhar (Tur/Red Gram),Savli(Desar),2015-12-21,6900.0,0.0,27.8,clear
+23,Arhar (Tur/Red Gram),Vadodara,2015-12-21,11000.0,2.46,27.8,clear
+24,Black Gram (Urd Beans),Vadodara,2015-12-21,13000.0,0.6,27.8,clear
+25,Green Gram (Moong),Vadodara,2015-12-21,8900.0,14.82,27.8,clear
+26,Arhar (Tur/Red Gram),Vadodara,2015-12-17,13000.0,2.19,28.6,clear
+27,Green Gram (Moong),Vadodara,2015-12-17,8900.0,14.78,28.6,clear
+28,Black Gram (Urd Beans),Vadodara,2015-12-24,13000.0,0.15,26.2,clear
+29,Green Gram (Moong),Vadodara,2015-12-24,8900.0,1.59,26.2,clear
+30,Black Gram (Urd Beans),Vadodara,2015-12-30,12200.0,1.35,34.8,clear
+31,Green Gram (Moong),Vadodara,2015-12-30,8900.0,9.9,34.8,clear
+32,Green Gram (Moong),Vadodara,2015-12-10,10000.0,15.0,28.2,clear
+33,Green Gram (Moong),Vadodara,2015-12-12,8900.0,2.7,27.4,clear
+34,Green Gram (Moong),Vadodara,2015-12-25,8900.0,14.94,26.6,clear
+35,Green Gram (Moong),Vadodara,2015-12-28,8900.0,2.7,33.6,clear
+36,Green Gram (Moong),Vadodara,2015-12-31,8900.0,3.0,34.8,clear
+37,Arhar (Tur/Red Gram),Karjan,2016-01-02,7820.0,0.0,32.8,clear
+38,Arhar (Tur/Red Gram),Vagodiya,2016-01-02,7000.0,1.9,32.8,clear
+39,Arhar (Tur/Red Gram),Karjan,2016-02-02,7350.0,0.0,29.8,clear
+40,Arhar (Tur/Red Gram),Karjan,2016-03-02,6900.0,0.0,36.8,clear
+41,Arhar (Tur/Red Gram),Vagodiya,2016-03-02,6800.0,2.9,36.8,clear
+42,Green Gram (Moong),Vadodara,2016-03-02,8300.0,4.5,36.8,clear
+43,Arhar (Tur/Red Gram),Karjan,2016-04-02,7325.0,0.0,38.6,clear
+44,Arhar (Tur/Red Gram),Savli(Desar),2016-04-02,7150.0,0.0,38.6,clear
+45,Green Gram (Moong),Vadodara,2016-04-02,8300.0,1.23,38.6,clear
+46,Arhar (Tur/Red Gram),Karjan,2016-05-02,7505.0,0.0,40.8,clear
+47,Arhar (Tur/Red Gram),Karjan,2016-06-02,7560.0,0.0,39.4,clear
+48,Green Gram (Moong),Vadodara,2016-06-02,8300.0,12.57,39.4,clear
+49,Arhar (Tur/Red Gram),Karjan,2016-08-02,7650.0,22.0,28.4,clear
+50,Arhar (Tur/Red Gram),Savli(Desar),2016-08-02,6950.0,0.0,28.4,clear
+51,Arhar (Tur/Red Gram),Vadodara,2016-08-02,10000.0,2.23,28.4,clear
+52,Arhar (Tur/Red Gram),Vagodiya,2016-08-02,6950.0,5.9,28.4,clear
+53,Green Gram (Moong),Vadodara,2016-08-02,8300.0,1.2,28.4,clear
+54,Arhar (Tur/Red Gram),Karjan,2016-09-02,7800.0,0.0,32.0,clear
+55,Arhar (Tur/Red Gram),Vadodara,2016-09-02,11000.0,1.5,32.0,clear
+56,Green Gram (Moong),Vadodara,2016-09-02,8300.0,3.0,32.0,clear
+57,Arhar (Tur/Red Gram),Karjan,2016-10-02,7800.0,0.0,32.8,clear
+58,Arhar (Tur/Red Gram),Savli(Desar),2016-10-02,6950.0,0.0,32.8,clear
+59,Arhar (Tur/Red Gram),Vadodara,2016-10-02,8500.0,1.2,32.8,clear
+60,Arhar (Tur/Red Gram),Vagodiya,2016-10-02,7000.0,4.4,32.8,clear
+61,Black Gram (Urd Beans),Vadodara,2016-10-02,12000.0,0.6,32.8,clear
+62,Green Gram (Moong),Vadodara,2016-10-02,8300.0,4.05,32.8,clear
+63,Arhar (Tur/Red Gram),Karjan,2016-11-02,7750.0,0.0,32.2,clear
+64,Green Gram (Moong),Vadodara,2016-11-02,8300.0,3.9,32.2,clear
+65,Arhar (Tur/Red Gram),Karjan,2016-12-02,7950.0,0.0,32.0,clear
+66,Arhar (Tur/Red Gram),Savli(Desar),2016-12-02,7050.0,0.0,32.0,clear
+67,Black Gram (Urd Beans),Vadodara,2016-12-02,12000.0,0.75,32.0,clear
+68,Green Gram (Moong),Vadodara,2016-12-02,8300.0,2.4,32.0,clear
+69,Arhar (Tur/Red Gram),Karjan,2016-02-13,8010.0,0.0,29.2,clear
+70,Green Gram (Moong),Vadodara,2016-02-13,8300.0,9.18,29.2,clear
+71,Arhar (Tur/Red Gram),Karjan,2016-02-15,7925.0,0.0,31.4,clear
+72,Arhar (Tur/Red Gram),Vagodiya,2016-02-15,6900.0,2.7,31.4,clear
+73,Green Gram (Moong),Vadodara,2016-02-15,8300.0,6.9,31.4,clear
+74,Arhar (Tur/Red Gram),Karjan,2016-02-16,7890.0,0.0,31.6,clear
+75,Arhar (Tur/Red Gram),Savli(Desar),2016-02-16,7220.0,0.0,31.6,clear
+76,Arhar (Tur/Red Gram),Vagodiya,2016-02-16,6800.0,0.9,31.6,clear
+77,Green Gram (Moong),Vadodara,2016-02-16,8300.0,0.75,31.6,clear
+78,Arhar (Tur/Red Gram),Karjan,2016-02-17,7860.0,0.0,33.6,clear
+79,Arhar (Tur/Red Gram),Vagodiya,2016-02-17,6700.0,5.4,33.6,clear
+80,Black Gram (Urd Beans),Vadodara,2016-02-17,11200.0,0.3,33.6,clear
+81,Green Gram (Moong),Vadodara,2016-02-17,8300.0,1.5,33.6,clear
+82,Arhar (Tur/Red Gram),Karjan,2016-02-18,7770.0,0.0,33.6,clear
+83,Green Gram (Moong),Vadodara,2016-02-18,8300.0,7.92,33.6,clear
+84,Arhar (Tur/Red Gram),Karjan,2016-02-19,7550.0,0.0,33.4,clear
+85,Arhar (Tur/Red Gram),Nasvadi,2016-02-19,7250.0,1.0,33.4,clear
+86,Arhar (Tur/Red Gram),Vadodara,2016-02-19,8500.0,0.6,33.4,clear
+87,Arhar (Tur/Red Gram),Vagodiya,2016-02-19,6850.0,0.5,33.4,clear
+88,Arhar (Tur/Red Gram),Karjan,2016-02-20,7540.0,0.0,31.6,clear
+89,Green Gram (Moong),Vadodara,2016-02-20,8300.0,9.15,31.6,clear
+90,Arhar (Tur/Red Gram),Karjan,2016-02-22,7545.0,0.0,33.2,clear
+91,Arhar (Tur/Red Gram),Savli(Desar),2016-02-22,7190.0,0.0,33.2,clear
+92,Arhar (Tur/Red Gram),Vadodara,2016-02-22,8200.0,0.9,33.2,clear
+93,Black Gram (Urd Beans),Vadodara,2016-02-22,11200.0,1.95,33.2,clear
+94,Green Gram (Moong),Vadodara,2016-02-22,8300.0,0.45,33.2,clear
+95,Arhar (Tur/Red Gram),Karjan,2016-02-23,7495.0,0.0,34.8,clear
+96,Arhar (Tur/Red Gram),Nasvadi,2016-02-23,7225.0,2.0,34.8,clear
+97,Arhar (Tur/Red Gram),Vadodara,2016-02-23,8200.0,4.45,34.8,clear
+98,Arhar (Tur/Red Gram),Vagodiya,2016-02-23,6850.0,2.4,34.8,clear
+99,Green Gram (Moong),Vadodara,2016-02-23,8300.0,15.06,34.8,clear
+100,Arhar (Tur/Red Gram),Karjan,2016-02-24,7540.0,0.0,34.8,clear
+101,Green Gram (Moong),Vadodara,2016-02-24,8300.0,3.9,34.8,clear
+102,Arhar (Tur/Red Gram),Karjan,2016-02-25,7820.0,0.0,32.8,clear
+103,Arhar (Tur/Red Gram),Nasvadi,2016-02-25,7300.0,1.0,32.8,clear
+104,Arhar (Tur/Red Gram),Vadodara,2016-02-25,8200.0,1.56,32.8,clear
+105,Green Gram (Moong),Vadodara,2016-02-25,8300.0,3.45,32.8,clear
+106,Arhar (Tur/Red Gram),Karjan,2016-02-26,7790.0,0.0,35.4,clear
+107,Arhar (Tur/Red Gram),Vadodara,2016-02-26,8200.0,1.5,35.4,clear
+108,Arhar (Tur/Red Gram),Karjan,2016-02-27,7775.0,0.0,35.8,clear
+109,Black Gram (Urd Beans),Vadodara,2016-02-27,11200.0,0.6,35.8,clear
+110,Arhar (Tur/Red Gram),Karjan,2016-02-29,7500.0,0.0,36.6,clear
+111,Arhar (Tur/Red Gram),Karjan,2016-01-03,7250.0,0.0,31.6,clear
+112,Arhar (Tur/Red Gram),Savli(Desar),2016-01-03,7230.0,0.0,31.6,clear
+113,Arhar (Tur/Red Gram),Karjan,2016-02-03,7350.0,0.0,29.8,clear
+114,Arhar (Tur/Red Gram),Savli(Desar),2016-02-03,7190.0,0.0,29.8,clear
+115,Arhar (Tur/Red Gram),Vadodara,2016-02-03,8200.0,0.15,29.8,clear
+116,Green Gram (Moong),Vadodara,2016-02-03,8300.0,3.24,29.8,clear
+117,Arhar (Tur/Red Gram),Karjan,2016-03-03,7400.0,0.0,36.2,clear
+118,Arhar (Tur/Red Gram),Savli(Desar),2016-03-03,7225.0,0.0,36.2,clear
+119,Arhar (Tur/Red Gram),Vagodiya,2016-03-03,6800.0,7.8,36.2,clear
+120,Black Gram (Urd Beans),Vadodara,2016-03-03,12000.0,1.5,36.2,clear
+121,Green Gram (Moong),Vadodara,2016-03-03,8300.0,13.89,36.2,clear
+122,Arhar (Tur/Red Gram),Karjan,2016-04-03,7400.0,0.0,38.2,clear
+123,Arhar (Tur/Red Gram),Vagodiya,2016-04-03,6750.0,5.0,38.2,clear
+124,Arhar (Tur/Red Gram),Karjan,2016-05-03,7350.0,0.0,40.8,clear
+125,Black Gram (Urd Beans),Vadodara,2016-05-03,12000.0,0.3,40.8,clear
+126,Green Gram (Moong),Vadodara,2016-05-03,8300.0,8.31,40.8,clear
+127,Arhar (Tur/Red Gram),Karjan,2016-07-03,7325.0,0.0,34.4,clear
+128,Green Gram (Moong),Vadodara,2016-07-03,8300.0,5.16,34.4,clear
+129,Arhar (Tur/Red Gram),Karjan,2016-08-03,7300.0,0.0,29.6,clear
+130,Arhar (Tur/Red Gram),Savli(Desar),2016-08-03,7165.0,0.0,29.6,clear
+131,Arhar (Tur/Red Gram),Vadodara,2016-08-03,8200.0,0.6,29.6,clear
+132,Green Gram (Moong),Vadodara,2016-08-03,8300.0,1.8,29.6,clear
+133,Arhar (Tur/Red Gram),Karjan,2016-09-03,7300.0,0.0,32.0,clear
+134,Arhar (Tur/Red Gram),Savli(Desar),2016-09-03,7155.0,0.0,32.0,clear
+135,Arhar (Tur/Red Gram),Karjan,2016-10-03,7450.0,0.0,33.2,clear
+136,Arhar (Tur/Red Gram),Vadodara,2016-10-03,8200.0,1.6,33.2,clear
+137,Black Gram (Urd Beans),Vadodara,2016-10-03,12000.0,0.6,33.2,clear
+138,Arhar (Tur/Red Gram),Karjan,2016-12-03,7500.0,0.0,31.8,clear
+139,Green Gram (Moong),Vadodara,2016-12-03,8300.0,4.2,31.8,clear
+140,Arhar (Tur/Red Gram),Karjan,2016-03-14,7450.0,0.0,33.4,clear
+141,Arhar (Tur/Red Gram),Vadodara,2016-03-14,8200.0,1.02,33.4,clear
+142,Black Gram (Urd Beans),Vadodara,2016-03-14,12000.0,1.28,33.4,clear
+143,Green Gram (Moong),Vadodara,2016-03-14,8300.0,56.7,33.4,clear
+144,Arhar (Tur/Red Gram),Karjan,2016-03-16,7400.0,0.0,35.8,clear
+145,Arhar (Tur/Red Gram),Vadodara,2016-03-16,8200.0,1.2,35.8,clear
+146,Green Gram (Moong),Vadodara,2016-03-16,8300.0,12.09,35.8,clear
+147,Arhar (Tur/Red Gram),Karjan,2016-03-17,7450.0,0.0,37.2,clear
+148,Arhar (Tur/Red Gram),Karjan,2016-03-18,7500.0,0.0,37.0,clear
+149,Green Gram (Moong),Vadodara,2016-03-18,8300.0,5.7,37.0,clear
+150,Arhar (Tur/Red Gram),Karjan,2016-03-19,7450.0,0.0,36.6,clear
+151,Black Gram (Urd Beans),Vadodara,2016-03-19,12500.0,0.75,36.6,clear
+152,Green Gram (Moong),Vadodara,2016-03-19,8300.0,3.0,36.6,clear
+153,Arhar (Tur/Red Gram),Karjan,2016-03-21,7550.0,0.0,36.0,clear
+154,Arhar (Tur/Red Gram),Savli(Desar),2016-03-21,7261.0,0.0,36.0,clear
+155,Arhar (Tur/Red Gram),Vagodiya,2016-03-21,7450.0,11.4,36.0,clear
+156,Arhar (Tur/Red Gram),Karjan,2016-03-22,7500.0,0.0,37.4,clear
+157,Arhar (Tur/Red Gram),Savli(Desar),2016-03-22,7280.0,0.0,37.4,clear
+158,Arhar (Tur/Red Gram),Vagodiya,2016-03-22,7500.0,11.2,37.4,clear
+159,Arhar (Tur/Red Gram),Karjan,2016-03-23,7450.0,0.0,38.4,clear
+160,Arhar (Tur/Red Gram),Savli(Desar),2016-03-23,7200.0,0.0,38.4,clear
+161,Arhar (Tur/Red Gram),Vadodara,2016-03-23,8200.0,1.2,38.4,clear
+162,Arhar (Tur/Red Gram),Vagodiya,2016-03-23,7500.0,10.5,38.4,clear
+163,Arhar (Tur/Red Gram),Karjan,2016-03-25,7400.0,0.0,40.2,clear
+164,Arhar (Tur/Red Gram),Karjan,2016-03-26,7750.0,0.0,38.6,clear
+165,Green Gram (Moong),Vadodara,2016-03-26,8300.0,1.05,38.6,clear
+166,Arhar (Tur/Red Gram),Karjan,2016-03-28,7700.0,0.0,38.6,clear
+167,Arhar (Tur/Red Gram),Vagodiya,2016-03-28,7400.0,5.8,38.6,clear
+168,Green Gram (Moong),Vadodara,2016-03-28,7800.0,6.0,38.6,clear
+169,Arhar (Tur/Red Gram),Karjan,2016-03-29,7700.0,0.0,39.0,clear
+170,Arhar (Tur/Red Gram),Vagodiya,2016-03-29,7450.0,1.2,39.0,clear
+171,Arhar (Tur/Red Gram),Karjan,2016-03-30,7750.0,0.0,39.4,clear
+172,Arhar (Tur/Red Gram),Vagodiya,2016-03-30,7400.0,1.9,39.4,clear
+173,Green Gram (Moong),Vadodara,2016-03-30,7800.0,6.81,39.4,clear
+174,Arhar (Tur/Red Gram),Karjan,2016-03-31,7800.0,0.0,37.2,clear
+175,Green Gram (Moong),Vadodara,2016-03-31,7800.0,3.0,37.2,clear
+176,Arhar (Tur/Red Gram),Karjan,2016-01-04,7800.0,0.0,32.0,clear
+177,Arhar (Tur/Red Gram),Vadodara,2016-01-04,8200.0,0.75,32.0,clear
+178,Green Gram (Moong),Vadodara,2016-01-04,7800.0,9.9,32.0,clear
+179,Arhar (Tur/Red Gram),Karjan,2016-02-04,7900.0,0.0,30.6,clear
+180,Arhar (Tur/Red Gram),Vadodara,2016-02-04,8200.0,0.15,30.6,clear
+181,Green Gram (Moong),Vadodara,2016-02-04,8300.0,11.25,30.6,clear
+182,Arhar (Tur/Red Gram),Karjan,2016-04-04,7950.0,0.0,38.0,clear
+183,Arhar (Tur/Red Gram),Vadodara,2016-04-04,8200.0,18.48,38.0,clear
+184,Black Gram (Urd Beans),Vadodara,2016-04-04,12900.0,0.75,38.0,clear
+185,Green Gram (Moong),Vadodara,2016-04-04,8300.0,2.7,38.0,clear
+186,Arhar (Tur/Red Gram),Karjan,2016-05-04,7900.0,0.0,37.2,clear
+187,Arhar (Tur/Red Gram),Vagodiya,2016-05-04,7500.0,8.5,37.2,clear
+188,Arhar (Tur/Red Gram),Karjan,2016-06-04,8050.0,0.0,42.6,clear
+189,Arhar (Tur/Red Gram),Vagodiya,2016-06-04,7450.0,5.5,42.6,clear
+190,Green Gram (Moong),Vadodara,2016-06-04,7800.0,0.6,42.6,clear
+191,Arhar (Tur/Red Gram),Karjan,2016-07-04,8100.0,0.0,31.8,rain
+192,Arhar (Tur/Red Gram),Vagodiya,2016-07-04,7490.0,11.7,31.8,rain
+193,Black Gram (Urd Beans),Vadodara,2016-07-04,14000.0,1.05,31.8,rain
+194,Green Gram (Moong),Vadodara,2016-07-04,7800.0,4.35,31.8,rain
+195,Arhar (Tur/Red Gram),Karjan,2016-08-04,8100.0,0.0,32.4,clear
+196,Arhar (Tur/Red Gram),Karjan,2016-09-04,8050.0,0.0,32.6,clear
+197,Arhar (Tur/Red Gram),Vagodiya,2016-09-04,7490.0,5.9,32.6,clear
+198,Black Gram (Urd Beans),Vadodara,2016-09-04,14000.0,0.3,32.6,clear
+199,Green Gram (Moong),Vadodara,2016-09-04,7800.0,12.45,32.6,clear
+200,Arhar (Tur/Red Gram),Karjan,2016-11-04,8050.0,0.0,32.0,clear
+201,Arhar (Tur/Red Gram),Vadodara,2016-11-04,8200.0,6.2,32.0,clear
+202,Arhar (Tur/Red Gram),Vagodiya,2016-11-04,7500.0,9.9,32.0,clear
+203,Black Gram (Urd Beans),Vadodara,2016-11-04,14000.0,0.15,32.0,clear
+204,Green Gram (Moong),Vadodara,2016-11-04,7800.0,18.6,32.0,clear
+205,Arhar (Tur/Red Gram),Karjan,2016-12-04,8200.0,0.0,31.4,clear
+206,Arhar (Tur/Red Gram),Vagodiya,2016-12-04,7480.0,5.4,31.4,clear
+207,Green Gram (Moong),Vadodara,2016-12-04,7800.0,8.4,31.4,clear
+208,Arhar (Tur/Red Gram),Karjan,2016-04-14,8100.0,0.0,39.8,clear
+209,Arhar (Tur/Red Gram),Karjan,2016-04-15,8150.0,0.0,38.8,clear
+210,Arhar (Tur/Red Gram),Vadodara,2016-04-15,8200.0,1.5,38.8,clear
+211,Green Gram (Moong),Vadodara,2016-04-15,7800.0,1.2,38.8,clear
+212,Arhar (Tur/Red Gram),Karjan,2016-04-16,8100.0,0.0,38.8,clear
+213,Arhar (Tur/Red Gram),Vagodiya,2016-04-16,7500.0,1.9,38.8,clear
+214,Arhar (Tur/Red Gram),Karjan,2016-04-18,8200.0,0.0,36.8,clear
+215,Arhar (Tur/Red Gram),Vagodiya,2016-04-18,8500.0,10.0,36.8,clear
+216,Arhar (Tur/Red Gram),Karjan,2016-04-19,8700.0,0.0,39.4,clear
+217,Green Gram (Moong),Vadodara,2016-04-19,7800.0,26.55,39.4,clear
+218,Arhar (Tur/Red Gram),Karjan,2016-04-20,8700.0,0.0,39.2,clear
+219,Arhar (Tur/Red Gram),Vagodiya,2016-04-20,8500.0,14.5,39.2,clear
+220,Arhar (Tur/Red Gram),Karjan,2016-04-21,8600.0,0.0,38.6,clear
+221,Arhar (Tur/Red Gram),Vagodiya,2016-04-21,8500.0,20.2,38.6,clear
+222,Green Gram (Moong),Vadodara,2016-04-21,7800.0,20.27,38.6,clear
+223,Arhar (Tur/Red Gram),Karjan,2016-04-22,8300.0,0.0,37.8,clear
+224,Arhar (Tur/Red Gram),Vagodiya,2016-04-22,7600.0,5.5,37.8,clear
+225,Green Gram (Moong),Vadodara,2016-04-22,7800.0,7.13,37.8,clear
+226,Arhar (Tur/Red Gram),Karjan,2016-04-23,8400.0,0.0,37.8,clear
+227,Green Gram (Moong),Vadodara,2016-04-23,7800.0,1.5,37.8,clear
+228,Arhar (Tur/Red Gram),Karjan,2016-04-25,8400.0,0.0,36.0,clear
+229,Arhar (Tur/Red Gram),Vagodiya,2016-04-25,8400.0,7.9,36.0,clear
+230,Black Gram (Urd Beans),Vadodara,2016-04-25,15000.0,0.75,36.0,clear
+231,Green Gram (Moong),Vadodara,2016-04-25,7800.0,2.1,36.0,clear
+232,Arhar (Tur/Red Gram),Karjan,2016-04-26,8600.0,0.0,38.6,clear
+233,Green Gram (Moong),Vadodara,2016-04-26,7800.0,0.6,38.6,clear
+234,Arhar (Tur/Red Gram),Karjan,2016-04-27,8500.0,0.0,40.2,clear
+235,Arhar (Tur/Red Gram),Vagodiya,2016-04-27,8500.0,5.5,40.2,clear
+236,Arhar (Tur/Red Gram),Karjan,2016-04-28,8500.0,0.0,40.4,clear
+237,Green Gram (Moong),Vadodara,2016-04-28,7800.0,11.55,40.4,clear
+238,Arhar (Tur/Red Gram),Karjan,2016-04-29,8450.0,0.0,41.4,clear
+239,Green Gram (Moong),Vadodara,2016-04-29,7800.0,0.75,41.4,clear
+240,Arhar (Tur/Red Gram),Karjan,2016-04-30,8300.0,0.0,40.6,clear
+241,Arhar (Tur/Red Gram),Karjan,2016-02-05,8300.0,0.0,31.4,clear
+242,Arhar (Tur/Red Gram),Karjan,2016-03-05,8300.0,0.0,34.4,clear
+243,Green Gram (Moong),Vadodara,2016-03-05,7800.0,0.15,34.4,clear
+244,Arhar (Tur/Red Gram),Karjan,2016-04-05,8150.0,0.0,37.0,clear
+245,Arhar (Tur/Red Gram),Vadodara,2016-04-05,8200.0,3.3,37.0,clear
+246,Arhar (Tur/Red Gram),Vagodiya,2016-04-05,8000.0,5.5,37.0,clear
+247,Black Gram (Urd Beans),Vadodara,2016-04-05,15000.0,2.37,37.0,clear
+248,Green Gram (Moong),Vadodara,2016-04-05,7800.0,50.06,37.0,clear
+249,Arhar (Tur/Red Gram),Karjan,2016-06-05,8100.0,0.0,43.4,clear
+250,Arhar (Tur/Red Gram),Vadodara,2016-06-05,8200.0,0.45,43.4,clear
+251,Green Gram (Moong),Vadodara,2016-06-05,7800.0,16.5,43.4,clear
+252,Arhar (Tur/Red Gram),Karjan,2016-07-05,8100.0,0.0,35.0,clear
+253,Green Gram (Moong),Vadodara,2016-07-05,7800.0,5.85,35.0,clear
+254,Arhar (Tur/Red Gram),Karjan,2016-09-05,8200.0,0.0,33.0,clear
+255,Arhar (Tur/Red Gram),Vadodara,2016-09-05,8200.0,1.53,33.0,clear
+256,Arhar (Tur/Red Gram),Vagodiya,2016-09-05,8400.0,1.9,33.0,clear
+257,Black Gram (Urd Beans),Vadodara,2016-09-05,13000.0,0.45,33.0,clear
+258,Green Gram (Moong),Vadodara,2016-09-05,7800.0,18.45,33.0,clear
+259,Arhar (Tur/Red Gram),Karjan,2016-10-05,8200.0,0.0,29.0,clear
+260,Arhar (Tur/Red Gram),Vagodiya,2016-10-05,8000.0,3.4,29.0,clear
+261,Green Gram (Moong),Vadodara,2016-10-05,7800.0,0.9,29.0,clear
+262,Arhar (Tur/Red Gram),Karjan,2016-11-05,8200.0,0.0,31.8,clear
+263,Arhar (Tur/Red Gram),Karjan,2016-12-05,8250.0,0.0,31.6,clear
+264,Arhar (Tur/Red Gram),Vadodara,2016-12-05,8200.0,1.5,31.6,clear
+265,Arhar (Tur/Red Gram),Vagodiya,2016-12-05,8000.0,1.7,31.6,clear
+266,Black Gram (Urd Beans),Vadodara,2016-12-05,13000.0,0.3,31.6,clear
+267,Green Gram (Moong),Vadodara,2016-12-05,7800.0,13.35,31.6,clear
+268,Arhar (Tur/Red Gram),Karjan,2016-05-13,8250.0,0.0,42.2,clear
+269,Black Gram (Urd Beans),Vadodara,2016-05-13,13000.0,1.5,42.2,clear
+270,Green Gram (Moong),Vadodara,2016-05-13,7800.0,11.79,42.2,clear
+271,Arhar (Tur/Red Gram),Karjan,2016-05-14,8300.0,0.0,42.2,clear
+272,Arhar (Tur/Red Gram),Vadodara,2016-05-14,8200.0,0.6,42.2,clear
+273,Black Gram (Urd Beans),Vadodara,2016-05-14,13000.0,1.38,42.2,clear
+274,Arhar (Tur/Red Gram),Karjan,2016-05-16,8300.0,0.0,42.0,clear
+275,Arhar (Tur/Red Gram),Vagodiya,2016-05-16,8400.0,1.9,42.0,clear
+276,Green Gram (Moong),Vadodara,2016-05-16,7800.0,7.2,42.0,clear
+277,Arhar (Tur/Red Gram),Karjan,2016-05-17,8300.0,0.0,43.4,clear
+278,Green Gram (Moong),Vadodara,2016-05-17,7800.0,3.3,43.4,clear
+279,Arhar (Tur/Red Gram),Karjan,2016-05-18,8300.0,0.0,43.6,clear
+280,Arhar (Tur/Red Gram),Vagodiya,2016-05-18,7500.0,1.4,43.6,clear
+281,Black Gram (Urd Beans),Vadodara,2016-05-18,14000.0,0.3,43.6,clear
+282,Green Gram (Moong),Vadodara,2016-05-18,7800.0,3.2,43.6,clear
+283,Arhar (Tur/Red Gram),Karjan,2016-05-19,8200.0,0.0,41.2,clear
+284,Arhar (Tur/Red Gram),Vadodara,2016-05-19,8200.0,0.81,41.2,clear
+285,Green Gram (Moong),Vadodara,2016-05-19,7800.0,15.3,41.2,clear
+286,Arhar (Tur/Red Gram),Karjan,2016-05-20,8250.0,0.0,41.2,clear
+287,Green Gram (Moong),Vadodara,2016-05-20,7500.0,11.58,41.2,clear
+288,Arhar (Tur/Red Gram),Karjan,2016-05-21,8250.0,0.0,40.0,clear
+289,Black Gram (Urd Beans),Vadodara,2016-05-21,14000.0,0.72,40.0,clear
+290,Arhar (Tur/Red Gram),Karjan,2016-05-23,8300.0,0.0,38.8,clear
+291,Green Gram (Moong),Vadodara,2016-05-23,7500.0,8.91,38.8,clear
+292,Arhar (Tur/Red Gram),Karjan,2016-05-24,8250.0,0.0,38.2,clear
+293,Arhar (Tur/Red Gram),Karjan,2016-05-25,8250.0,0.0,38.2,clear
+294,Black Gram (Urd Beans),Vadodara,2016-05-25,14000.0,0.09,38.2,clear
+295,Green Gram (Moong),Vadodara,2016-05-25,7500.0,2.42,38.2,clear
+296,Arhar (Tur/Red Gram),Karjan,2016-05-26,8250.0,0.0,38.2,clear
+297,Black Gram (Urd Beans),Vadodara,2016-05-26,14000.0,0.6,38.2,clear
+298,Green Gram (Moong),Vadodara,2016-05-26,7500.0,2.7,38.2,clear
+299,Arhar (Tur/Red Gram),Karjan,2016-05-27,8250.0,0.0,38.8,clear
+300,Arhar (Tur/Red Gram),Savli(Desar),2016-05-27,7965.0,0.0,38.8,clear
+301,Arhar (Tur/Red Gram),Vadodara,2016-05-27,8200.0,1.05,38.8,clear
+302,Green Gram (Moong),Vadodara,2016-05-27,7500.0,8.1,38.8,clear
+303,Arhar (Tur/Red Gram),Karjan,2016-05-28,8250.0,0.0,38.2,clear
+304,Black Gram (Urd Beans),Vadodara,2016-05-28,14000.0,0.3,38.2,clear
+305,Arhar (Tur/Red Gram),Karjan,2016-05-30,8250.0,0.0,38.8,clear
+306,Green Gram (Moong),Vadodara,2016-05-30,7500.0,7.2,38.8,clear
+307,Arhar (Tur/Red Gram),Karjan,2016-05-31,8300.0,0.0,39.0,clear
+308,Arhar (Tur/Red Gram),Savli(Desar),2016-05-31,7991.0,0.0,39.0,clear
+309,Green Gram (Moong),Vadodara,2016-05-31,7500.0,5.8,39.0,clear
+310,Arhar (Tur/Red Gram),Karjan,2016-01-06,8250.0,0.0,31.8,clear
+311,Green Gram (Moong),Vadodara,2016-01-06,7000.0,2.82,31.8,clear
+312,Arhar (Tur/Red Gram),Karjan,2016-02-06,8250.0,0.0,30.6,clear
+313,Arhar (Tur/Red Gram),Savli(Desar),2016-02-06,7960.0,0.0,30.6,clear
+314,Green Gram (Moong),Vadodara,2016-02-06,7000.0,12.3,30.6,clear
+315,Arhar (Tur/Red Gram),Karjan,2016-03-06,8250.0,0.0,34.4,clear
+316,Green Gram (Moong),Vadodara,2016-03-06,7000.0,7.08,34.4,clear
+317,Arhar (Tur/Red Gram),Karjan,2016-04-06,8250.0,0.0,36.0,clear
+318,Arhar (Tur/Red Gram),Vadodara,2016-04-06,8200.0,1.8,36.0,clear
+319,Green Gram (Moong),Vadodara,2016-04-06,7000.0,19.77,36.0,clear
+320,Arhar (Tur/Red Gram),Karjan,2016-06-06,8250.0,0.0,41.6,clear
+321,Arhar (Tur/Red Gram),Savli(Desar),2016-06-06,7955.0,0.0,41.6,clear
+322,Arhar (Tur/Red Gram),Vadodara,2016-06-06,8200.0,6.0,41.6,clear
+323,Black Gram (Urd Beans),Vadodara,2016-06-06,14000.0,0.9,41.6,clear
+324,Green Gram (Moong),Vadodara,2016-06-06,7000.0,12.9,41.6,clear
+325,Arhar (Tur/Red Gram),Karjan,2016-07-06,8150.0,0.0,35.0,clear
+326,Black Gram (Urd Beans),Vadodara,2016-07-06,14000.0,0.3,35.0,clear
+327,Green Gram (Moong),Vadodara,2016-07-06,7000.0,7.8,35.0,clear
+328,Arhar (Tur/Red Gram),Karjan,2016-08-06,8100.0,0.0,28.2,clear
+329,Black Gram (Urd Beans),Vadodara,2016-08-06,14000.0,3.22,28.2,clear
+330,Green Gram (Moong),Vadodara,2016-08-06,7000.0,52.72,28.2,clear
+331,Arhar (Tur/Red Gram),Karjan,2016-09-06,8100.0,0.0,33.2,clear
+332,Arhar (Tur/Red Gram),Savli(Desar),2016-09-06,7950.0,0.0,33.2,clear
+333,Green Gram (Moong),Vadodara,2016-09-06,7000.0,6.0,33.2,clear
+334,Arhar (Tur/Red Gram),Karjan,2016-10-06,8100.0,0.0,30.0,clear
+335,Black Gram (Urd Beans),Vadodara,2016-10-06,14000.0,0.21,30.0,clear
+336,Green Gram (Moong),Vadodara,2016-10-06,7000.0,4.5,30.0,clear
+337,Arhar (Tur/Red Gram),Karjan,2016-11-06,8050.0,0.0,31.8,clear
+338,Green Gram (Moong),Vadodara,2016-11-06,7000.0,20.55,31.8,clear
+339,Arhar (Tur/Red Gram),Karjan,2016-06-13,8050.0,0.0,39.0,clear
+340,Arhar (Tur/Red Gram),Vadodara,2016-06-13,8200.0,10.25,39.0,clear
+341,Green Gram (Moong),Vadodara,2016-06-13,7000.0,18.3,39.0,clear
+342,Arhar (Tur/Red Gram),Karjan,2016-06-14,8200.0,0.0,38.0,clear
+343,Arhar (Tur/Red Gram),Vadodara,2016-06-14,8200.0,3.45,38.0,clear
+344,Black Gram (Urd Beans),Vadodara,2016-06-14,13500.0,0.75,38.0,clear
+345,Arhar (Tur/Red Gram),Karjan,2016-06-15,8250.0,0.0,37.8,clear
+346,Arhar (Tur/Red Gram),Savli(Desar),2016-06-15,7950.0,0.0,37.8,clear
+347,Green Gram (Moong),Vadodara,2016-06-15,7000.0,11.1,37.8,clear
+348,Arhar (Tur/Red Gram),Karjan,2016-06-16,8300.0,0.0,37.6,clear
+349,Arhar (Tur/Red Gram),Karjan,2016-06-18,8300.0,0.0,37.0,clear
+350,Arhar (Tur/Red Gram),Vadodara,2016-06-18,8200.0,6.0,37.0,clear
+351,Arhar (Tur/Red Gram),Karjan,2016-06-20,8300.0,0.0,38.0,clear
+352,Arhar (Tur/Red Gram),Karjan,2016-06-21,8300.0,0.0,37.4,clear
+353,Arhar (Tur/Red Gram),Savli(Desar),2016-06-21,7510.0,0.0,37.4,clear
+354,Black Gram (Urd Beans),Vadodara,2016-06-21,13500.0,0.9,37.4,clear
+355,Green Gram (Moong),Vadodara,2016-06-21,7000.0,4.95,37.4,clear
+356,Arhar (Tur/Red Gram),Karjan,2016-06-22,8300.0,0.0,36.8,clear
+357,Arhar (Tur/Red Gram),Vadodara,2016-06-22,8200.0,2.23,36.8,clear
+358,Green Gram (Moong),Vadodara,2016-06-22,7000.0,5.0,36.8,clear
+359,Arhar (Tur/Red Gram),Karjan,2016-06-23,8300.0,0.0,37.4,clear
+360,Green Gram (Moong),Vadodara,2016-06-23,7000.0,1.05,37.4,clear
+361,Arhar (Tur/Red Gram),Karjan,2016-06-25,8300.0,0.0,36.6,rain
+362,Green Gram (Moong),Vadodara,2016-06-25,7000.0,9.0,36.6,rain
+363,Arhar (Tur/Red Gram),Karjan,2016-06-27,8250.0,0.0,36.0,clear
+364,Arhar (Tur/Red Gram),Vadodara,2016-06-27,8200.0,1.5,36.0,clear
+365,Black Gram (Urd Beans),Vadodara,2016-06-27,13500.0,3.52,36.0,clear
+366,Green Gram (Moong),Vadodara,2016-06-27,7000.0,1.28,36.0,clear
+367,Arhar (Tur/Red Gram),Karjan,2016-06-28,8300.0,0.0,36.0,clear
+368,Arhar (Tur/Red Gram),Savli(Desar),2016-06-28,7570.0,0.0,36.0,clear
+369,Arhar (Tur/Red Gram),Karjan,2016-06-29,8200.0,0.0,32.0,clear
+370,Arhar (Tur/Red Gram),Vadodara,2016-06-29,8200.0,2.75,32.0,clear
+371,Arhar (Tur/Red Gram),Karjan,2016-06-30,8250.0,0.0,34.0,clear
+372,Green Gram (Moong),Vadodara,2016-06-30,7000.0,5.67,34.0,clear
+373,Arhar (Tur/Red Gram),Karjan,2016-01-07,8300.0,0.0,32.0,clear
+374,Black Gram (Urd Beans),Vadodara,2016-01-07,13500.0,3.5,32.0,clear
+375,Green Gram (Moong),Vadodara,2016-01-07,7000.0,54.14,32.0,clear
+376,Arhar (Tur/Red Gram),Karjan,2016-02-07,8300.0,0.0,29.8,clear
+377,Green Gram (Moong),Vadodara,2016-02-07,7000.0,3.44,29.8,clear
+378,Arhar (Tur/Red Gram),Karjan,2016-04-07,8350.0,0.0,36.0,clear
+379,Arhar (Tur/Red Gram),Savli(Desar),2016-04-07,7535.0,0.0,36.0,clear
+380,Arhar (Tur/Red Gram),Karjan,2016-05-07,8350.0,0.0,38.0,clear
+381,Arhar (Tur/Red Gram),Savli,2016-05-07,7650.0,0.0,38.0,clear
+382,Green Gram (Moong),Vadodara,2016-05-07,7000.0,3.7,38.0,clear
+383,Arhar (Tur/Red Gram),Karjan,2016-06-07,8300.0,0.0,40.6,clear
+384,Arhar (Tur/Red Gram),Karjan,2016-07-07,8250.0,0.0,34.6,clear
+385,Green Gram (Moong),Vadodara,2016-07-07,7000.0,5.5,34.6,clear
+386,Arhar (Tur/Red Gram),Karjan,2016-08-07,8250.0,0.0,29.6,rain
+387,Arhar (Tur/Red Gram),Savli,2016-08-07,7850.0,0.0,29.6,rain
+388,Arhar (Tur/Red Gram),Vadodara,2016-08-07,8200.0,1.05,29.6,rain
+389,Black Gram (Urd Beans),Vadodara,2016-08-07,13500.0,0.15,29.6,rain
+390,Green Gram (Moong),Vadodara,2016-08-07,7000.0,4.5,29.6,rain
+391,Arhar (Tur/Red Gram),Karjan,2016-09-07,8300.0,0.0,33.0,clear
+392,Arhar (Tur/Red Gram),Vadodara,2016-09-07,8200.0,0.6,33.0,clear
+393,Black Gram (Urd Beans),Vadodara,2016-09-07,13500.0,2.85,33.0,clear
+394,Arhar (Tur/Red Gram),Karjan,2016-11-07,8250.0,0.0,32.4,clear
+395,Arhar (Tur/Red Gram),Savli(Desar),2016-11-07,7500.0,0.0,32.4,clear
+396,Arhar (Tur/Red Gram),Karjan,2016-12-07,8250.0,0.0,32.4,clear
+397,Black Gram (Urd Beans),Vadodara,2016-12-07,13500.0,0.45,32.4,clear
+398,Green Gram (Moong),Vadodara,2016-12-07,7000.0,3.3,32.4,clear
+399,Arhar (Tur/Red Gram),Karjan,2016-07-13,8200.0,0.0,32.4,clear
+400,Green Gram (Moong),Vadodara,2016-07-13,7000.0,12.09,32.4,clear
+401,Arhar (Tur/Red Gram),Karjan,2016-07-14,8200.0,0.0,33.4,clear
+402,Arhar (Tur/Red Gram),Savli,2016-07-14,7651.0,0.0,33.4,clear
+403,Arhar (Tur/Red Gram),Karjan,2016-07-15,8200.0,0.0,33.4,clear
+404,Arhar (Tur/Red Gram),Savli,2016-07-15,7777.0,0.0,33.4,clear
+405,Green Gram (Moong),Vadodara,2016-07-15,7000.0,13.59,33.4,clear
+406,Arhar (Tur/Red Gram),Karjan,2016-07-16,8200.0,0.0,30.8,clear
+407,Green Gram (Moong),Vadodara,2016-07-16,7000.0,3.3,30.8,clear
+408,Arhar (Tur/Red Gram),Karjan,2016-07-18,8200.0,0.0,30.8,clear
+409,Arhar (Tur/Red Gram),Savli,2016-07-18,7525.0,0.0,30.8,clear
+410,Black Gram (Urd Beans),Vadodara,2016-07-18,13500.0,0.9,30.8,clear
+411,Green Gram (Moong),Vadodara,2016-07-18,7000.0,20.85,30.8,clear
+412,Arhar (Tur/Red Gram),Karjan,2016-07-19,8300.0,0.0,28.6,rain
+413,Arhar (Tur/Red Gram),Savli,2016-07-19,7700.0,0.0,28.6,rain
+414,Arhar (Tur/Red Gram),Karjan,2016-07-20,8300.0,0.0,31.0,clear
+415,Arhar (Tur/Red Gram),Vadodara,2016-07-20,8200.0,0.1,31.0,clear
+416,Arhar (Tur/Red Gram),Karjan,2016-07-21,8300.0,0.0,32.0,clear
+417,Arhar (Tur/Red Gram),Karjan,2016-07-22,8300.0,0.0,33.2,clear
+418,Arhar (Tur/Red Gram),Savli(Samlaya),2016-07-22,7500.0,0.0,33.2,clear
+419,Green Gram (Moong),Vadodara,2016-07-22,6500.0,2.5,33.2,clear
+420,Arhar (Tur/Red Gram),Karjan,2016-07-23,8250.0,0.0,33.4,clear
+421,Black Gram (Urd Beans),Vadodara,2016-07-23,13500.0,0.3,33.4,clear
+422,Green Gram (Moong),Vadodara,2016-07-23,6500.0,4.5,33.4,clear
+423,Arhar (Tur/Red Gram),Karjan,2016-07-25,8250.0,0.0,32.4,clear
+424,Arhar (Tur/Red Gram),Savli(Samlaya),2016-07-25,7500.0,0.0,32.4,clear
+425,Arhar (Tur/Red Gram),Vadodara,2016-07-25,9500.0,1.05,32.4,clear
+426,Green Gram (Moong),Vadodara,2016-07-25,6500.0,9.6,32.4,clear
+427,Arhar (Tur/Red Gram),Karjan,2016-07-26,8250.0,0.0,30.4,clear
+428,Arhar (Tur/Red Gram),Savli(Samlaya),2016-07-26,7500.0,0.0,30.4,clear
+429,Black Gram (Urd Beans),Vadodara,2016-07-26,13500.0,1.05,30.4,clear
+430,Green Gram (Moong),Vadodara,2016-07-26,6500.0,3.48,30.4,clear
+431,Arhar (Tur/Red Gram),Karjan,2016-07-27,8250.0,0.0,28.6,clear
+432,Arhar (Tur/Red Gram),Savli(Desar),2016-07-27,7490.0,0.0,28.6,clear
+433,Arhar (Tur/Red Gram),Savli(Samlaya),2016-07-27,7490.0,0.0,28.6,clear
+434,Green Gram (Moong),Vadodara,2016-07-27,6500.0,1.5,28.6,clear
+435,Arhar (Tur/Red Gram),Karjan,2016-07-28,8250.0,0.0,30.2,clear
+436,Arhar (Tur/Red Gram),Karjan,2016-07-29,8200.0,0.0,32.4,clear
+437,Black Gram (Urd Beans),Vadodara,2016-07-29,12000.0,5.47,32.4,clear
+438,Green Gram (Moong),Vadodara,2016-07-29,6500.0,58.13,32.4,clear
+439,Arhar (Tur/Red Gram),Karjan,2016-07-30,8250.0,0.0,31.2,rain
+440,Arhar (Tur/Red Gram),Savli,2016-07-30,7500.0,0.0,31.2,rain
+441,Green Gram (Moong),Vadodara,2016-07-30,6500.0,0.75,31.2,rain
+442,Arhar (Tur/Red Gram),Karjan,2016-01-08,8250.0,0.0,30.4,clear
+443,Arhar (Tur/Red Gram),Savli,2016-01-08,7505.0,0.0,30.4,clear
+444,Arhar (Tur/Red Gram),Savli(Desar),2016-01-08,7001.0,0.0,30.4,clear
+445,Green Gram (Moong),Vadodara,2016-01-08,6500.0,4.5,30.4,clear
+446,Arhar (Tur/Red Gram),Karjan,2016-02-08,8250.0,0.0,30.8,clear
+447,Arhar (Tur/Red Gram),Savli,2016-02-08,7465.0,0.0,30.8,clear
+448,Arhar (Tur/Red Gram),Karjan,2016-03-08,7900.0,0.0,35.0,clear
+449,Arhar (Tur/Red Gram),Savli,2016-03-08,7525.0,0.0,35.0,clear
+450,Arhar (Tur/Red Gram),Karjan,2016-05-08,7600.0,0.0,40.0,clear
+451,Arhar (Tur/Red Gram),Savli(Desar),2016-05-08,7500.0,0.0,40.0,clear
+452,Arhar (Tur/Red Gram),Savli(Samlaya),2016-05-08,7490.0,0.0,40.0,clear
+453,Green Gram (Moong),Vadodara,2016-05-08,6500.0,12.84,40.0,clear
+454,Arhar (Tur/Red Gram),Karjan,2016-06-08,7300.0,0.0,39.0,clear
+455,Arhar (Tur/Red Gram),Savli(Desar),2016-06-08,7490.0,0.0,39.0,clear
+456,Arhar (Tur/Red Gram),Savli(Samlaya),2016-06-08,7490.0,0.0,39.0,clear
+457,Green Gram (Moong),Vadodara,2016-06-08,6500.0,2.55,39.0,clear
+458,Arhar (Tur/Red Gram),Karjan,2016-08-08,7350.0,0.0,28.0,rain
+459,Arhar (Tur/Red Gram),Savli,2016-08-08,7580.0,0.0,28.0,rain
+460,Black Gram (Urd Beans),Vadodara,2016-08-08,11000.0,3.02,28.0,rain
+461,Green Gram (Moong),Vadodara,2016-08-08,6500.0,11.31,28.0,rain
+462,Arhar (Tur/Red Gram),Karjan,2016-09-08,7400.0,0.0,33.0,clear
+463,Arhar (Tur/Red Gram),Savli,2016-09-08,7541.0,0.0,33.0,clear
+464,Black Gram (Urd Beans),Vadodara,2016-09-08,11000.0,1.8,33.0,clear
+465,Arhar (Tur/Red Gram),Karjan,2016-10-08,7200.0,0.0,33.0,clear
+466,Arhar (Tur/Red Gram),Savli(Desar),2016-10-08,6400.0,0.0,33.0,clear
+467,Arhar (Tur/Red Gram),Savli(Samlaya),2016-10-08,6400.0,0.0,33.0,clear
+468,Arhar (Tur/Red Gram),Karjan,2016-11-08,7200.0,0.0,33.0,clear
+469,Arhar (Tur/Red Gram),Savli(Desar),2016-11-08,6400.0,0.0,33.0,clear
+470,Arhar (Tur/Red Gram),Savli(Samlaya),2016-11-08,6100.0,0.0,33.0,clear
+471,Green Gram (Moong),Vadodara,2016-11-08,6500.0,6.6,33.0,clear
+472,Arhar (Tur/Red Gram),Karjan,2016-12-08,7150.0,0.0,31.4,clear
+473,Arhar (Tur/Red Gram),Savli(Desar),2016-12-08,6400.0,0.0,31.4,clear
+474,Arhar (Tur/Red Gram),Savli(Samlaya),2016-12-08,6100.0,0.0,31.4,clear
+475,Green Gram (Moong),Vadodara,2016-12-08,6500.0,8.5,31.4,clear
+476,Arhar (Tur/Red Gram),Karjan,2016-08-13,7150.0,0.0,31.6,clear
+477,Green Gram (Moong),Vadodara,2016-08-13,6500.0,9.75,31.6,clear
+478,Arhar (Tur/Red Gram),Karjan,2016-08-16,7150.0,0.0,32.4,clear
+479,Arhar (Tur/Red Gram),Karjan,2016-08-17,7150.0,0.0,32.8,clear
+480,Arhar (Tur/Red Gram),Vadodara,2016-08-17,8200.0,1.5,32.8,clear
+481,Green Gram (Moong),Vadodara,2016-08-17,6500.0,10.31,32.8,clear
+482,Arhar (Tur/Red Gram),Karjan,2016-08-19,7150.0,0.0,32.8,clear
+483,Arhar (Tur/Red Gram),Savli,2016-08-19,6025.0,0.0,32.8,clear
+484,Green Gram (Moong),Vadodara,2016-08-19,6500.0,2.1,32.8,clear
+485,Arhar (Tur/Red Gram),Karjan,2016-08-20,7150.0,0.0,29.2,clear
+486,Arhar (Tur/Red Gram),Savli,2016-08-20,5950.0,0.0,29.2,clear
+487,Black Gram (Urd Beans),Vadodara,2016-08-20,11000.0,1.14,29.2,clear
+488,Green Gram (Moong),Vadodara,2016-08-20,6500.0,3.15,29.2,clear
+489,Arhar (Tur/Red Gram),Karjan,2016-08-22,6800.0,0.0,31.2,clear
+490,Arhar (Tur/Red Gram),Savli,2016-08-22,5985.0,0.0,31.2,clear
+491,Green Gram (Moong),Vadodara,2016-08-22,6500.0,12.6,31.2,clear
+492,Arhar (Tur/Red Gram),Karjan,2016-08-24,6500.0,0.0,30.0,clear
+493,Arhar (Tur/Red Gram),Savli(Desar),2016-08-24,7500.0,0.0,30.0,clear
+494,Arhar (Tur/Red Gram),Savli(Samlaya),2016-08-24,7500.0,0.0,30.0,clear
+495,Green Gram (Moong),Vadodara,2016-08-24,6500.0,3.52,30.0,clear
+496,Arhar (Tur/Red Gram),Karjan,2016-08-26,5800.0,0.0,28.0,clear
+497,Arhar (Tur/Red Gram),Savli(Desar),2016-08-26,5500.0,0.0,28.0,clear
+498,Arhar (Tur/Red Gram),Savli(Samlaya),2016-08-26,5600.0,0.0,28.0,clear
+499,Arhar (Tur/Red Gram),Karjan,2016-08-27,5800.0,0.0,31.0,clear
+500,Green Gram (Moong),Vadodara,2016-08-27,6500.0,3.45,31.0,clear
+501,Arhar (Tur/Red Gram),Karjan,2016-08-29,5750.0,0.0,31.8,clear
+502,Arhar (Tur/Red Gram),Savli,2016-08-29,5500.0,0.0,31.8,clear
+503,Arhar (Tur/Red Gram),Vadodara,2016-08-29,8200.0,1.95,31.8,clear
+504,Black Gram (Urd Beans),Vadodara,2016-08-29,9000.0,0.3,31.8,clear
+505,Green Gram (Moong),Vadodara,2016-08-29,6500.0,4.59,31.8,clear
+506,Arhar (Tur/Red Gram),Karjan,2016-08-30,5750.0,0.0,32.0,clear
+507,Arhar (Tur/Red Gram),Karjan,2016-08-31,5500.0,0.0,28.0,clear
+508,Green Gram (Moong),Vadodara,2016-08-31,6500.0,4.05,28.0,clear
+509,Arhar (Tur/Red Gram),Karjan,2016-01-09,5500.0,0.0,30.4,clear
+510,Green Gram (Moong),Vadodara,2016-01-09,6500.0,14.01,30.4,clear
+511,Arhar (Tur/Red Gram),Karjan,2016-02-09,5200.0,0.0,32.0,clear
+512,Arhar (Tur/Red Gram),Savli,2016-02-09,5980.0,0.0,32.0,clear
+513,Green Gram (Moong),Vadodara,2016-02-09,6500.0,24.09,32.0,clear
+514,Arhar (Tur/Red Gram),Karjan,2016-03-09,5200.0,0.0,36.0,clear
+515,Arhar (Tur/Red Gram),Vadodara,2016-03-09,8200.0,2.1,36.0,clear
+516,Black Gram (Urd Beans),Vadodara,2016-03-09,9000.0,1.2,36.0,clear
+517,Green Gram (Moong),Vadodara,2016-03-09,6500.0,7.5,36.0,clear
+518,Arhar (Tur/Red Gram),Karjan,2016-05-09,5100.0,0.0,39.2,clear
+519,Black Gram (Urd Beans),Vadodara,2016-05-09,9000.0,2.1,39.2,clear
+520,Green Gram (Moong),Vadodara,2016-05-09,6500.0,10.41,39.2,clear
+521,Arhar (Tur/Red Gram),Karjan,2016-06-09,5200.0,0.0,39.4,clear
+522,Arhar (Tur/Red Gram),Savli,2016-06-09,5980.0,0.0,39.4,clear
+523,Arhar (Tur/Red Gram),Karjan,2016-07-09,5150.0,0.0,32.2,clear
+524,Arhar (Tur/Red Gram),Savli,2016-07-09,5900.0,0.0,32.2,clear
+525,Arhar (Tur/Red Gram),Vadodara,2016-07-09,8200.0,2.52,32.2,clear
+526,Green Gram (Moong),Vadodara,2016-07-09,6500.0,53.73,32.2,clear
+527,Arhar (Tur/Red Gram),Karjan,2016-08-09,5150.0,0.0,28.0,rain
+528,Arhar (Tur/Red Gram),Savli,2016-08-09,5600.0,0.0,28.0,rain
+529,Arhar (Tur/Red Gram),Savli(Desar),2016-08-09,5650.0,0.0,28.0,rain
+530,Green Gram (Moong),Vadodara,2016-08-09,6500.0,17.4,28.0,rain
+531,Arhar (Tur/Red Gram),Karjan,2016-09-09,5150.0,0.0,32.6,clear
+532,Arhar (Tur/Red Gram),Savli,2016-09-09,5750.0,0.0,32.6,clear
+533,Arhar (Tur/Red Gram),Savli(Desar),2016-09-09,5675.0,0.0,32.6,clear
+534,Arhar (Tur/Red Gram),Vadodara,2016-09-09,8200.0,5.08,32.6,clear
+535,Green Gram (Moong),Vadodara,2016-09-09,6500.0,13.63,32.6,clear
+536,Arhar (Tur/Red Gram),Karjan,2016-10-09,5300.0,0.0,32.8,clear
+537,Arhar (Tur/Red Gram),Karjan,2016-12-09,5400.0,0.0,31.6,clear
+538,Arhar (Tur/Red Gram),Savli,2016-12-09,5225.0,0.0,31.6,clear
+539,Arhar (Tur/Red Gram),Savli(Desar),2016-12-09,5150.0,0.0,31.6,clear
+540,Arhar (Tur/Red Gram),Karjan,2016-09-13,5500.0,0.0,34.0,clear
+541,Arhar (Tur/Red Gram),Karjan,2016-09-14,5500.0,0.0,34.2,clear
+542,Arhar (Tur/Red Gram),Savli,2016-09-14,5180.0,0.0,34.2,clear
+543,Black Gram (Urd Beans),Vadodara,2016-09-14,9000.0,0.3,34.2,clear
+544,Arhar (Tur/Red Gram),Karjan,2016-09-15,6000.0,0.0,36.0,rain
+545,Arhar (Tur/Red Gram),Savli,2016-09-15,5200.0,0.0,36.0,rain
+546,Arhar (Tur/Red Gram),Savli(Desar),2016-09-15,5225.0,0.0,36.0,rain
+547,Arhar (Tur/Red Gram),Karjan,2016-09-16,6300.0,0.0,33.8,clear
+548,Arhar (Tur/Red Gram),Savli,2016-09-16,5175.0,0.0,33.8,clear
+549,Arhar (Tur/Red Gram),Savli(Desar),2016-09-16,5200.0,0.0,33.8,clear
+550,Arhar (Tur/Red Gram),Vadodara,2016-09-16,8200.0,4.2,33.8,clear
+551,Black Gram (Urd Beans),Vadodara,2016-09-16,9000.0,0.75,33.8,clear
+552,Green Gram (Moong),Vadodara,2016-09-16,6500.0,10.59,33.8,clear
+553,Arhar (Tur/Red Gram),Karjan,2016-09-17,6300.0,0.0,31.6,clear
+554,Arhar (Tur/Red Gram),Savli,2016-09-17,5161.0,0.0,31.6,clear
+555,Arhar (Tur/Red Gram),Savli(Desar),2016-09-17,5125.0,0.0,31.6,clear
+556,Green Gram (Moong),Vadodara,2016-09-17,6500.0,6.3,31.6,clear
+557,Arhar (Tur/Red Gram),Karjan,2016-09-19,6400.0,0.0,30.4,clear
+558,Arhar (Tur/Red Gram),Savli,2016-09-19,5200.0,0.0,30.4,clear
+559,Arhar (Tur/Red Gram),Savli(Desar),2016-09-19,5155.0,0.0,30.4,clear
+560,Arhar (Tur/Red Gram),Karjan,2016-09-20,6350.0,0.0,31.6,clear
+561,Arhar (Tur/Red Gram),Savli,2016-09-20,5151.0,0.0,31.6,clear
+562,Arhar (Tur/Red Gram),Karjan,2016-09-21,6300.0,0.0,32.2,clear
+563,Black Gram (Urd Beans),Vadodara,2016-09-21,9000.0,0.75,32.2,clear
+564,Arhar (Tur/Red Gram),Karjan,2016-09-22,6350.0,0.0,29.8,clear
+565,Arhar (Tur/Red Gram),Savli,2016-09-22,5210.0,0.0,29.8,clear
+566,Arhar (Tur/Red Gram),Vadodara,2016-09-22,8200.0,0.9,29.8,clear
+567,Arhar (Tur/Red Gram),Karjan,2016-09-23,6350.0,0.0,32.2,clear
+568,Arhar (Tur/Red Gram),Savli,2016-09-23,5145.0,0.0,32.2,clear
+569,Arhar (Tur/Red Gram),Savli(Desar),2016-09-23,5265.0,0.0,32.2,clear
+570,Black Gram (Urd Beans),Vadodara,2016-09-23,9000.0,0.6,32.2,clear
+571,Green Gram (Moong),Vadodara,2016-09-23,6500.0,14.94,32.2,clear
+572,Arhar (Tur/Red Gram),Karjan,2016-09-24,6450.0,0.0,32.6,clear
+573,Green Gram (Moong),Vadodara,2016-09-24,6500.0,8.55,32.6,clear
+574,Arhar (Tur/Red Gram),Karjan,2016-09-26,6500.0,0.0,32.6,clear
+575,Arhar (Tur/Red Gram),Vadodara,2016-09-26,8200.0,1.5,32.6,clear
+576,Green Gram (Moong),Vadodara,2016-09-26,6500.0,0.75,32.6,clear
+577,Arhar (Tur/Red Gram),Karjan,2016-09-27,6500.0,0.0,32.4,clear
+578,Arhar (Tur/Red Gram),Savli,2016-09-27,5190.0,0.0,32.4,clear
+579,Arhar (Tur/Red Gram),Savli(Desar),2016-09-27,5180.0,0.0,32.4,clear
+580,Green Gram (Moong),Vadodara,2016-09-27,6500.0,5.25,32.4,clear
+581,Arhar (Tur/Red Gram),Karjan,2016-09-28,6500.0,0.0,32.6,clear
+582,Arhar (Tur/Red Gram),Savli,2016-09-28,5150.0,0.0,32.6,clear
+583,Black Gram (Urd Beans),Vadodara,2016-09-28,9000.0,1.86,32.6,clear
+584,Green Gram (Moong),Vadodara,2016-09-28,6500.0,4.98,32.6,clear
+585,Arhar (Tur/Red Gram),Karjan,2016-09-29,6500.0,0.0,32.4,clear
+586,Arhar (Tur/Red Gram),Karjan,2016-09-30,6550.0,0.0,32.8,clear
+587,Green Gram (Moong),Vadodara,2016-09-30,7000.0,18.3,32.8,clear
+588,Arhar (Tur/Red Gram),Karjan,2016-01-10,6500.0,0.0,30.6,clear
+589,Arhar (Tur/Red Gram),Savli,2016-01-10,5175.0,0.0,30.6,clear
+590,Arhar (Tur/Red Gram),Karjan,2016-03-10,6500.0,0.0,36.0,clear
+591,Arhar (Tur/Red Gram),Karjan,2016-04-10,6500.0,0.0,39.0,clear
+592,Arhar (Tur/Red Gram),Vadodara,2016-04-10,8200.0,7.92,39.0,clear
+593,Green Gram (Moong),Vadodara,2016-04-10,7000.0,78.49,39.0,clear
+594,Arhar (Tur/Red Gram),Karjan,2016-05-10,6500.0,0.0,41.0,clear
+595,Arhar (Tur/Red Gram),Karjan,2016-06-10,6500.0,0.0,38.8,clear
+596,Arhar (Tur/Red Gram),Karjan,2016-07-10,6500.0,0.0,32.0,clear
+597,Arhar (Tur/Red Gram),Savli,2016-07-10,5470.0,0.0,32.0,clear
+598,Arhar (Tur/Red Gram),Savli(Desar),2016-07-10,5421.0,0.0,32.0,clear
+599,Black Gram (Urd Beans),Vadodara,2016-07-10,8000.0,0.9,32.0,clear
+600,Green Gram (Moong),Vadodara,2016-07-10,7000.0,4.2,32.0,clear
+601,Arhar (Tur/Red Gram),Karjan,2016-08-10,6500.0,0.0,27.0,clear
+602,Black Gram (Urd Beans),Vadodara,2016-08-10,8000.0,0.6,27.0,clear
+603,Arhar (Tur/Red Gram),Karjan,2016-10-10,6500.0,0.0,32.2,clear
+604,Arhar (Tur/Red Gram),Savli,2016-10-10,5600.0,0.0,32.2,clear
+605,Arhar (Tur/Red Gram),Savli(Desar),2016-10-10,5500.0,0.0,32.2,clear
+606,Black Gram (Urd Beans),Vadodara,2016-10-10,8000.0,1.5,32.2,clear
+607,Green Gram (Moong),Vadodara,2016-10-10,7000.0,3.9,32.2,clear
+608,Arhar (Tur/Red Gram),Karjan,2016-11-10,6400.0,0.0,32.8,clear
+609,Arhar (Tur/Red Gram),Karjan,2016-12-10,6400.0,0.0,30.8,clear
+610,Green Gram (Moong),Vadodara,2016-12-10,7000.0,5.01,30.8,clear
+611,Arhar (Tur/Red Gram),Karjan,2016-10-13,6400.0,0.0,31.4,clear
+612,Arhar (Tur/Red Gram),Savli,2016-10-13,5510.0,0.0,31.4,clear
+613,Arhar (Tur/Red Gram),Savli(Desar),2016-10-13,5500.0,0.0,31.4,clear
+614,Arhar (Tur/Red Gram),Karjan,2016-10-14,6100.0,0.0,32.8,clear
+615,Black Gram (Urd Beans),Vadodara,2016-10-14,8000.0,1.2,32.8,clear
+616,Arhar (Tur/Red Gram),Karjan,2016-10-15,5900.0,0.0,33.6,clear
+617,Black Gram (Urd Beans),Vadodara,2016-10-15,8000.0,0.6,33.6,clear
+618,Green Gram (Moong),Vadodara,2016-10-15,7000.0,5.85,33.6,clear
+619,Arhar (Tur/Red Gram),Karjan,2016-10-17,5900.0,0.0,34.6,clear
+620,Black Gram (Urd Beans),Vadodara,2016-10-17,8000.0,0.15,34.6,clear
+621,Green Gram (Moong),Vadodara,2016-10-17,7000.0,3.39,34.6,clear
+622,Arhar (Tur/Red Gram),Karjan,2016-10-18,5900.0,0.0,34.2,clear
+623,Arhar (Tur/Red Gram),Savli(Desar),2016-10-18,5450.0,0.0,34.2,clear
+624,Arhar (Tur/Red Gram),Savli(Samlaya),2016-10-18,5450.0,0.0,34.2,clear
+625,Green Gram (Moong),Vadodara,2016-10-18,7000.0,4.98,34.2,clear
+626,Arhar (Tur/Red Gram),Karjan,2016-10-19,6100.0,0.0,34.0,clear
+627,Black Gram (Urd Beans),Vadodara,2016-10-19,7500.0,0.15,34.0,clear
+628,Green Gram (Moong),Vadodara,2016-10-19,7000.0,17.7,34.0,clear
+629,Arhar (Tur/Red Gram),Karjan,2016-10-20,6100.0,0.0,34.0,clear
+630,Arhar (Tur/Red Gram),Savli,2016-10-20,5510.0,0.0,34.0,clear
+631,Green Gram (Moong),Vadodara,2016-10-20,7000.0,0.5,34.0,clear
+632,Arhar (Tur/Red Gram),Karjan,2016-10-21,6100.0,0.0,32.6,clear
+633,Arhar (Tur/Red Gram),Savli,2016-10-21,5625.0,0.0,32.6,clear
+634,Arhar (Tur/Red Gram),Savli(Desar),2016-10-21,5460.0,0.0,32.6,clear
+635,Arhar (Tur/Red Gram),Savli(Samlaya),2016-10-21,5450.0,0.0,32.6,clear
+636,Arhar (Tur/Red Gram),Karjan,2016-10-22,6100.0,0.0,32.6,clear
+637,Arhar (Tur/Red Gram),Karjan,2016-10-24,6100.0,0.0,32.4,clear
+638,Green Gram (Moong),Vadodara,2016-10-24,7000.0,1.5,32.4,clear
+639,Arhar (Tur/Red Gram),Karjan,2016-10-25,6050.0,0.0,32.0,clear
+640,Arhar (Tur/Red Gram),Savli,2016-10-25,5511.0,0.0,32.0,clear
+641,Black Gram (Urd Beans),Vadodara,2016-10-25,7500.0,1.05,32.0,clear
+642,Green Gram (Moong),Vadodara,2016-10-25,7000.0,19.8,32.0,clear
+643,Arhar (Tur/Red Gram),Karjan,2016-10-26,5900.0,0.0,32.4,clear
+644,Arhar (Tur/Red Gram),Savli(Desar),2016-10-26,5450.0,0.0,32.4,clear
+645,Green Gram (Moong),Vadodara,2016-10-26,7000.0,3.6,32.4,clear
+646,Arhar (Tur/Red Gram),Karjan,2016-10-27,5900.0,0.0,33.6,clear
+647,Arhar (Tur/Red Gram),Savli,2016-10-27,5450.0,0.0,33.6,clear
+648,Arhar (Tur/Red Gram),Savli(Desar),2016-10-27,5450.0,0.0,33.6,clear
+649,Arhar (Tur/Red Gram),Savli(Samlaya),2016-10-27,5450.0,0.0,33.6,clear
+650,Black Gram (Urd Beans),Vadodara,2016-10-27,7500.0,0.75,33.6,clear
+651,Green Gram (Moong),Vadodara,2016-10-27,7000.0,0.99,33.6,clear
+652,Arhar (Tur/Red Gram),Karjan,2016-10-28,5700.0,0.0,34.2,clear
+653,Arhar (Tur/Red Gram),Savli,2016-10-28,5500.0,0.0,34.2,clear
+654,Arhar (Tur/Red Gram),Savli(Desar),2016-10-28,5500.0,0.0,34.2,clear
+655,Green Gram (Moong),Vadodara,2016-10-28,7000.0,4.95,34.2,clear
+656,Arhar (Tur/Red Gram),Karjan,2016-10-29,5700.0,0.0,33.2,clear
+657,Green Gram (Moong),Vadodara,2016-10-29,7000.0,10.5,33.2,clear
+658,Arhar (Tur/Red Gram),Karjan,2016-02-11,5700.0,0.0,30.2,clear
+659,Arhar (Tur/Red Gram),Karjan,2016-03-11,5700.0,0.0,38.2,clear
+660,Arhar (Tur/Red Gram),Karjan,2016-04-11,5600.0,0.0,37.8,clear
+661,Arhar (Tur/Red Gram),Karjan,2016-05-11,5600.0,0.0,41.0,clear
+662,Arhar (Tur/Red Gram),Savli,2016-05-11,5500.0,0.0,41.0,clear
+663,Arhar (Tur/Red Gram),Savli(Desar),2016-05-11,5511.0,0.0,41.0,clear
+664,Arhar (Tur/Red Gram),Karjan,2016-07-11,5500.0,0.0,32.4,clear
+665,Arhar (Tur/Red Gram),Savli,2016-07-11,5238.0,0.0,32.4,clear
+666,Black Gram (Urd Beans),Vadodara,2016-07-11,7500.0,0.33,32.4,clear
+667,Green Gram (Moong),Vadodara,2016-07-11,7000.0,6.0,32.4,clear
+668,Arhar (Tur/Red Gram),Karjan,2016-08-11,5500.0,0.0,30.2,clear
+669,Arhar (Tur/Red Gram),Savli,2016-08-11,5500.0,0.0,30.2,clear
+670,Arhar (Tur/Red Gram),Karjan,2016-09-11,5600.0,0.0,33.0,clear
+671,Green Gram (Moong),Vadodara,2016-09-11,7000.0,8.85,33.0,clear
+672,Arhar (Tur/Red Gram),Karjan,2016-10-11,5600.0,0.0,32.6,clear
+673,Arhar (Tur/Red Gram),Savli,2016-10-11,5500.0,0.0,32.6,clear
+674,Arhar (Tur/Red Gram),Savli(Desar),2016-10-11,5500.0,0.0,32.6,clear
+675,Arhar (Tur/Red Gram),Savli(Samlaya),2016-10-11,5500.0,0.0,32.6,clear
+676,Green Gram (Moong),Vadodara,2016-10-11,7000.0,1.2,32.6,clear
+677,Arhar (Tur/Red Gram),Karjan,2016-11-11,5600.0,0.0,33.4,clear
+678,Arhar (Tur/Red Gram),Karjan,2016-12-11,5600.0,0.0,31.4,clear
+679,Green Gram (Moong),Vadodara,2016-12-11,7000.0,0.9,31.4,clear
+680,Arhar (Tur/Red Gram),Karjan,2016-11-14,5600.0,0.0,32.6,clear
+681,Green Gram (Moong),Vadodara,2016-11-14,7000.0,5.73,32.6,clear
+682,Arhar (Tur/Red Gram),Karjan,2016-11-15,5600.0,0.0,32.4,clear
+683,Arhar (Tur/Red Gram),Savli,2016-11-15,5225.0,0.0,32.4,clear
+684,Arhar (Tur/Red Gram),Vadodara,2016-11-15,8200.0,7.35,32.4,clear
+685,Black Gram (Urd Beans),Vadodara,2016-11-15,7500.0,1.2,32.4,clear
+686,Green Gram (Moong),Vadodara,2016-11-15,7000.0,58.77,32.4,clear
+687,Arhar (Tur/Red Gram),Karjan,2016-11-16,5600.0,0.0,32.4,clear
+688,Arhar (Tur/Red Gram),Savli,2016-11-16,5525.0,0.0,32.4,clear
+689,Arhar (Tur/Red Gram),Karjan,2016-11-17,5100.0,0.0,31.6,clear
+690,Arhar (Tur/Red Gram),Savli,2016-11-17,5450.0,0.0,31.6,clear
+691,Arhar (Tur/Red Gram),Karjan,2016-11-18,4900.0,0.0,32.2,clear
+692,Black Gram (Urd Beans),Vadodara,2016-11-18,7500.0,0.3,32.2,clear
+693,Green Gram (Moong),Vadodara,2016-11-18,7000.0,11.7,32.2,clear
+694,Arhar (Tur/Red Gram),Karjan,2016-11-19,4900.0,0.0,31.8,clear
+695,Black Gram (Urd Beans),Vadodara,2016-11-19,7500.0,0.48,31.8,clear
+696,Green Gram (Moong),Vadodara,2016-11-19,7000.0,1.5,31.8,clear
+697,Arhar (Tur/Red Gram),Karjan,2016-11-21,4900.0,0.0,32.8,clear
+698,Arhar (Tur/Red Gram),Savli,2016-11-21,5121.0,0.0,32.8,clear
+699,Arhar (Tur/Red Gram),Vadodara,2016-11-21,8200.0,0.81,32.8,clear
+700,Green Gram (Moong),Vadodara,2016-11-21,7000.0,0.2,32.8,clear
+701,Arhar (Tur/Red Gram),Karjan,2016-11-22,4900.0,0.0,32.8,clear
+702,Green Gram (Moong),Vadodara,2016-11-22,7000.0,12.18,32.8,clear
+703,Arhar (Tur/Red Gram),Karjan,2016-11-23,4900.0,0.0,32.2,clear
+704,Arhar (Tur/Red Gram),Karjan,2016-11-26,4900.0,0.0,33.6,clear
+705,Arhar (Tur/Red Gram),Karjan,2016-11-28,4900.0,0.0,32.8,clear
+706,Arhar (Tur/Red Gram),Vadodara,2016-11-28,8200.0,4.05,32.8,clear
+707,Arhar (Tur/Red Gram),Karjan,2016-11-29,4900.0,0.0,31.8,clear
+708,Arhar (Tur/Red Gram),Savli,2016-11-29,5450.0,0.0,31.8,clear
+709,Green Gram (Moong),Vadodara,2016-11-29,7000.0,0.9,31.8,clear
+710,Arhar (Tur/Red Gram),Karjan,2016-11-30,4800.0,0.0,32.4,clear
+711,Arhar (Tur/Red Gram),Savli,2016-11-30,5025.0,0.0,32.4,clear
+712,Arhar (Tur/Red Gram),Vadodara,2016-11-30,8200.0,1.5,32.4,clear
+713,Arhar (Tur/Red Gram),Karjan,2016-01-12,4800.0,0.0,29.4,clear
+714,Arhar (Tur/Red Gram),Savli,2016-01-12,4950.0,0.0,29.4,clear
+715,Arhar (Tur/Red Gram),Savli(Desar),2016-01-12,4950.0,0.0,29.4,clear
+716,Arhar (Tur/Red Gram),Vagodiya,2016-01-12,5500.0,0.2,29.4,clear
+717,Arhar (Tur/Red Gram),Karjan,2016-02-12,4800.0,0.0,28.4,clear
+718,Arhar (Tur/Red Gram),Vadodara,2016-02-12,8200.0,23.49,28.4,clear
+719,Black Gram (Urd Beans),Vadodara,2016-02-12,8000.0,8.89,28.4,clear
+720,Green Gram (Moong),Vadodara,2016-02-12,7000.0,62.07,28.4,clear
+721,Arhar (Tur/Red Gram),Karjan,2016-03-12,4600.0,0.0,33.4,clear
+722,Arhar (Tur/Red Gram),Savli,2016-03-12,5016.0,0.0,33.4,clear
+723,Arhar (Tur/Red Gram),Karjan,2016-05-12,4700.0,0.0,41.4,clear
+724,Arhar (Tur/Red Gram),Savli(Desar),2016-05-12,4950.0,0.0,41.4,clear
+725,Green Gram (Moong),Vadodara,2016-05-12,7000.0,20.61,41.4,clear
+726,Arhar (Tur/Red Gram),Karjan,2016-06-12,4700.0,0.0,38.0,clear
+727,Arhar (Tur/Red Gram),Nasvadi,2016-06-12,4765.0,560.0,38.0,clear
+728,Green Gram (Moong),Vadodara,2016-06-12,7000.0,3.9,38.0,clear
+729,Arhar (Tur/Red Gram),Karjan,2016-07-12,4700.0,0.0,28.2,clear
+730,Arhar (Tur/Red Gram),Savli(Desar),2016-07-12,4950.0,0.0,28.2,clear
+731,Arhar (Tur/Red Gram),Savli(Samlaya),2016-07-12,4950.0,0.0,28.2,clear
+732,Green Gram (Moong),Vadodara,2016-07-12,7000.0,1.5,28.2,clear
+733,Arhar (Tur/Red Gram),Karjan,2016-08-12,4600.0,0.0,30.6,clear
+734,Arhar (Tur/Red Gram),Savli,2016-08-12,5051.0,0.0,30.6,clear
+735,Arhar (Tur/Red Gram),Savli(Desar),2016-08-12,4990.0,0.0,30.6,clear
+736,Arhar (Tur/Red Gram),Karjan,2016-09-12,4700.0,0.0,33.2,clear
+737,Arhar (Tur/Red Gram),Savli,2016-09-12,5010.0,0.0,33.2,clear
+738,Arhar (Tur/Red Gram),Savli(Desar),2016-09-12,5012.0,0.0,33.2,clear
+739,Arhar (Tur/Red Gram),Vadodara,2016-09-12,8200.0,1.05,33.2,clear
+740,Arhar (Tur/Red Gram),Karjan,2016-10-12,4700.0,0.0,32.2,clear
+741,Black Gram (Urd Beans),Vadodara,2016-10-12,8000.0,1.53,32.2,clear
+742,Arhar (Tur/Red Gram),Karjan,2016-12-12,4700.0,0.0,31.0,clear
+743,Green Gram (Moong),Vadodara,2016-12-12,7000.0,9.75,31.0,clear
+744,Arhar (Tur/Red Gram),Karjan,2016-12-13,5100.0,0.0,30.2,clear
+745,Arhar (Tur/Red Gram),Vadodara,2016-12-13,5000.0,1.05,30.2,clear
+746,Arhar (Tur/Red Gram),Karjan,2016-12-15,5300.0,0.0,31.8,clear
+747,Arhar (Tur/Red Gram),Savli,2016-12-15,4980.0,0.0,31.8,clear
+748,Arhar (Tur/Red Gram),Karjan,2016-12-16,4600.0,0.0,31.6,clear
+749,Green Gram (Moong),Vadodara,2016-12-16,7000.0,2.1,31.6,clear
+750,Arhar (Tur/Red Gram),Karjan,2016-12-17,4900.0,0.0,31.2,clear
+751,Arhar (Tur/Red Gram),Savli,2016-12-17,4955.0,0.0,31.2,clear
+752,Black Gram (Urd Beans),Vadodara,2016-12-17,7500.0,0.72,31.2,clear
+753,Arhar (Tur/Red Gram),Karjan,2016-12-19,5300.0,0.0,30.0,clear
+754,Arhar (Tur/Red Gram),Savli,2016-12-19,4800.0,0.0,30.0,clear
+755,Black Gram (Urd Beans),Vadodara,2016-12-19,7500.0,0.6,30.0,clear
+756,Green Gram (Moong),Vadodara,2016-12-19,7000.0,13.8,30.0,clear
+757,Arhar (Tur/Red Gram),Karjan,2016-12-20,5325.0,0.0,29.4,clear
+758,Arhar (Tur/Red Gram),Karjan,2016-12-21,5300.0,0.0,30.6,clear
+759,Arhar (Tur/Red Gram),Vadodara,2016-12-21,5200.0,0.15,30.6,clear
+760,Black Gram (Urd Beans),Vadodara,2016-12-21,7500.0,1.2,30.6,clear
+761,Arhar (Tur/Red Gram),Karjan,2016-12-22,5300.0,0.0,31.2,clear
+762,Green Gram (Moong),Vadodara,2016-12-22,7000.0,5.0,31.2,clear
+763,Arhar (Tur/Red Gram),Karjan,2016-12-23,5300.0,0.0,32.4,clear
+764,Arhar (Tur/Red Gram),Savli,2016-12-23,4550.0,0.0,32.4,clear
+765,Black Gram (Urd Beans),Vadodara,2016-12-23,7500.0,0.63,32.4,clear
+766,Green Gram (Moong),Vadodara,2016-12-23,7000.0,12.09,32.4,clear
+767,Arhar (Tur/Red Gram),Karjan,2016-12-24,5300.0,0.0,31.6,clear
+768,Arhar (Tur/Red Gram),Karjan,2016-12-27,4800.0,0.0,28.0,clear
+769,Arhar (Tur/Red Gram),Savli,2016-12-27,5950.0,0.0,28.0,clear
+770,Arhar (Tur/Red Gram),Karjan,2016-12-28,4800.0,0.0,29.0,clear
+771,Black Gram (Urd Beans),Vadodara,2016-12-28,7500.0,1.5,29.0,clear
+772,Green Gram (Moong),Vadodara,2016-12-28,7000.0,0.15,29.0,clear
+773,Arhar (Tur/Red Gram),Karjan,2016-12-30,4700.0,0.0,30.4,clear
+774,Green Gram (Moong),Vadodara,2016-12-30,7000.0,12.15,30.4,clear
+775,Arhar (Tur/Red Gram),Karjan,2016-12-31,4700.0,0.0,30.4,clear
+776,Arhar (Tur/Red Gram),Savli,2016-12-31,4910.0,0.0,30.4,clear
+777,Black Gram (Urd Beans),Vadodara,2016-12-31,7500.0,0.75,30.4,clear
+778,Arhar (Tur/Red Gram),Nasvadi,2016-08-01,4260.0,0.0,31.4,clear
+779,Arhar (Tur/Red Gram),Savli,2016-08-01,7800.0,0.0,31.4,clear
+780,Arhar (Tur/Red Gram),Vadodara,2016-08-01,9500.0,2.01,31.4,clear
+781,Green Gram (Moong),Vadodara,2016-08-01,8300.0,2.4,31.4,clear
+782,Arhar (Tur/Red Gram),Nasvadi,2016-01-28,7400.0,5.0,29.8,clear
+783,Black Gram (Urd Beans),Vadodara,2016-01-28,12200.0,0.6,29.8,clear
+784,Green Gram (Moong),Vadodara,2016-01-28,8300.0,3.0,29.8,clear
+785,Arhar (Tur/Red Gram),Savli,2016-06-01,7982.0,0.0,38.8,clear
+786,Arhar (Tur/Red Gram),Savli(Desar),2016-06-01,7850.0,0.0,38.8,clear
+787,Arhar (Tur/Red Gram),Savli,2016-07-01,7911.0,0.0,35.0,clear
+788,Arhar (Tur/Red Gram),Vadodara,2016-07-01,10000.0,1.65,35.0,clear
+789,Black Gram (Urd Beans),Vadodara,2016-07-01,12000.0,0.6,35.0,clear
+790,Green Gram (Moong),Vadodara,2016-07-01,8300.0,3.9,35.0,clear
+791,Arhar (Tur/Red Gram),Savli,2016-08-23,6230.0,0.0,28.4,clear
+792,Arhar (Tur/Red Gram),Savli,2016-11-24,5241.0,0.0,32.4,clear
+793,Arhar (Tur/Red Gram),Vadodara,2016-11-24,8200.0,2.55,32.4,clear
+794,Green Gram (Moong),Vadodara,2016-11-24,7000.0,3.0,32.4,clear
+795,Arhar (Tur/Red Gram),Savli,2016-11-25,5150.0,0.0,33.6,clear
+796,Arhar (Tur/Red Gram),Savli,2016-12-14,5000.0,0.0,31.2,clear
+797,Green Gram (Moong),Vadodara,2016-12-14,7000.0,8.39,31.2,clear
+798,Arhar (Tur/Red Gram),Savli,2016-12-29,4950.0,0.0,30.2,clear
+799,Arhar (Tur/Red Gram),Savli(Desar),2016-01-20,8455.0,0.0,27.4,clear
+800,Black Gram (Urd Beans),Vadodara,2016-01-20,12200.0,0.6,27.4,clear
+801,Green Gram (Moong),Vadodara,2016-01-20,8300.0,13.59,27.4,clear
+802,Arhar (Tur/Red Gram),Savli(Desar),2016-01-21,8400.0,0.0,26.6,clear
+803,Green Gram (Moong),Vadodara,2016-01-21,9500.0,1.5,26.6,clear
+804,Arhar (Tur/Red Gram),Savli(Desar),2016-03-15,7265.0,0.0,34.4,clear
+805,Arhar (Tur/Red Gram),Vagodiya,2016-03-15,7350.0,11.9,34.4,clear
+806,Black Gram (Urd Beans),Vadodara,2016-03-15,12500.0,3.48,34.4,clear
+807,Green Gram (Moong),Vadodara,2016-03-15,8300.0,6.3,34.4,clear
+808,Arhar (Tur/Red Gram),Savli(Desar),2016-05-05,7525.0,0.0,40.4,clear
+809,Green Gram (Moong),Vadodara,2016-05-05,7800.0,4.35,40.4,clear
+810,Arhar (Tur/Red Gram),Savli(Desar),2016-04-08,7500.0,0.0,36.4,clear
+811,Arhar (Tur/Red Gram),Savli(Samlaya),2016-04-08,7500.0,0.0,36.4,clear
+812,Black Gram (Urd Beans),Vadodara,2016-04-08,11000.0,0.9,36.4,clear
+813,Green Gram (Moong),Vadodara,2016-04-08,6500.0,1.83,36.4,clear
+814,Arhar (Tur/Red Gram),Vadodara,2016-02-01,9500.0,1.08,30.4,clear
+815,Green Gram (Moong),Vadodara,2016-02-01,8300.0,1.35,30.4,clear
+816,Arhar (Tur/Red Gram),Vadodara,2016-04-01,9500.0,2.38,37.0,clear
+817,Black Gram (Urd Beans),Vadodara,2016-04-01,12200.0,0.15,37.0,clear
+818,Green Gram (Moong),Vadodara,2016-04-01,8300.0,14.76,37.0,clear
+819,Arhar (Tur/Red Gram),Vadodara,2016-01-16,11000.0,2.34,28.4,clear
+820,Black Gram (Urd Beans),Vadodara,2016-01-16,12200.0,2.1,28.4,clear
+821,Green Gram (Moong),Vadodara,2016-01-16,8300.0,12.6,28.4,clear
+822,Arhar (Tur/Red Gram),Vadodara,2016-01-22,10000.0,0.15,26.8,clear
+823,Black Gram (Urd Beans),Vadodara,2016-01-22,12200.0,0.51,26.8,clear
+824,Green Gram (Moong),Vadodara,2016-01-22,8300.0,1.5,26.8,clear
+825,Arhar (Tur/Red Gram),Vadodara,2016-01-23,11000.0,2.19,28.6,clear
+826,Black Gram (Urd Beans),Vadodara,2016-01-23,12200.0,0.12,28.6,clear
+827,Green Gram (Moong),Vadodara,2016-01-23,8300.0,1.8,28.6,clear
+828,Arhar (Tur/Red Gram),Vadodara,2016-01-30,10000.0,1.41,30.0,clear
+829,Green Gram (Moong),Vadodara,2016-01-30,8300.0,61.33,30.0,clear
+830,Arhar (Tur/Red Gram),Vadodara,2016-11-03,8200.0,0.6,32.8,clear
+831,Black Gram (Urd Beans),Vadodara,2016-11-03,12000.0,0.9,32.8,clear
+832,Green Gram (Moong),Vadodara,2016-11-03,8300.0,5.4,32.8,clear
+833,Arhar (Tur/Red Gram),Vagodiya,2016-03-04,7500.0,10.7,35.8,clear
+834,Arhar (Tur/Red Gram),Vagodiya,2016-04-24,8500.0,12.1,37.6,clear
+835,Arhar (Tur/Red Gram),Vagodiya,2016-08-05,8400.0,1.8,31.6,rain
+836,Black Gram (Urd Beans),Vadodara,2016-05-01,12000.0,0.75,41.2,clear
+837,Green Gram (Moong),Vadodara,2016-05-01,8300.0,7.65,41.2,clear
+838,Black Gram (Urd Beans),Vadodara,2016-01-27,12200.0,2.1,28.8,clear
+839,Green Gram (Moong),Vadodara,2016-01-27,8300.0,6.75,28.8,clear
+840,Green Gram (Moong),Vadodara,2016-01-01,8300.0,58.34,32.6,clear
+841,Green Gram (Moong),Vadodara,2016-09-01,8300.0,6.99,33.2,clear
+842,Green Gram (Moong),Vadodara,2016-01-13,8300.0,0.92,30.0,clear
+843,Green Gram (Moong),Vadodara,2016-04-13,8300.0,7.65,40.0,clear
+844,Green Gram (Moong),Vadodara,2016-06-17,7000.0,2.7,38.0,clear
+845,Green Gram (Moong),Vadodara,2016-06-24,7000.0,0.6,36.4,clear
+846,Green Gram (Moong),Vadodara,2016-08-15,6500.0,9.35,32.2,clear
+847,Arhar (Tur/Red Gram),Karjan,2017-02-01,4751.0,0.0,32.0,clear
+848,Arhar (Tur/Red Gram),Savli,2017-02-01,4850.0,0.0,32.0,clear
+849,Arhar (Tur/Red Gram),Vadodara,2017-02-01,5200.0,1.05,32.0,clear
+850,Arhar (Tur/Red Gram),Karjan,2017-03-01,4800.0,0.0,36.8,clear
+851,Arhar (Tur/Red Gram),Savli,2017-03-01,4850.0,0.0,36.8,clear
+852,Green Gram (Moong),Vadodara,2017-03-01,7000.0,3.35,36.8,clear
+853,Arhar (Tur/Red Gram),Karjan,2017-04-01,4750.0,0.0,39.0,clear
+854,Green Gram (Moong),Vadodara,2017-04-01,7000.0,9.0,39.0,clear
+855,Arhar (Tur/Red Gram),Karjan,2017-05-01,4775.0,0.0,39.4,clear
+856,Arhar (Tur/Red Gram),Karjan,2017-06-01,4751.0,0.0,38.4,clear
+857,Green Gram (Moong),Vadodara,2017-06-01,7000.0,23.98,38.4,clear
+858,Arhar (Tur/Red Gram),Karjan,2017-07-01,4451.0,0.0,28.2,rain
+859,Arhar (Tur/Red Gram),Vadodara,2017-07-01,5200.0,0.15,28.2,rain
+860,Black Gram (Urd Beans),Vadodara,2017-07-01,7000.0,1.5,28.2,rain
+861,Green Gram (Moong),Vadodara,2017-07-01,7000.0,3.3,28.2,rain
+862,Arhar (Tur/Red Gram),Karjan,2017-09-01,4400.0,0.0,31.4,clear
+863,Arhar (Tur/Red Gram),Nasvadi,2017-09-01,3675.0,210.0,31.4,clear
+864,Arhar (Tur/Red Gram),Savli,2017-09-01,4600.0,0.0,31.4,clear
+865,Arhar (Tur/Red Gram),Karjan,2017-10-01,4750.0,0.0,37.2,clear
+866,Arhar (Tur/Red Gram),Savli,2017-10-01,4550.0,0.0,37.2,clear
+867,Arhar (Tur/Red Gram),Savli(Desar),2017-10-01,9800.0,0.0,37.2,clear
+868,Green Gram (Moong),Vadodara,2017-10-01,7000.0,6.13,37.2,clear
+869,Arhar (Tur/Red Gram),Karjan,2017-11-01,4751.0,0.0,35.0,clear
+870,Arhar (Tur/Red Gram),Nasvadi,2017-11-01,3560.0,84.0,35.0,clear
+871,Arhar (Tur/Red Gram),Savli(Desar),2017-11-01,4200.0,0.0,35.0,clear
+872,Green Gram (Moong),Vadodara,2017-11-01,7000.0,3.0,35.0,clear
+873,Arhar (Tur/Red Gram),Karjan,2017-12-01,4750.0,0.0,30.6,clear
+874,Arhar (Tur/Red Gram),Savli(Desar),2017-12-01,4600.0,0.0,30.6,clear
+875,Green Gram (Moong),Vadodara,2017-12-01,7000.0,5.13,30.6,clear
+876,Arhar (Tur/Red Gram),Karjan,2017-01-13,4750.0,0.0,25.6,clear
+877,Arhar (Tur/Red Gram),Savli,2017-01-13,4500.0,0.0,25.6,clear
+878,Arhar (Tur/Red Gram),Savli(Desar),2017-01-13,4250.0,0.0,25.6,clear
+879,Arhar (Tur/Red Gram),Karjan,2017-01-16,5050.0,3.5,28.2,clear
+880,Arhar (Tur/Red Gram),Savli,2017-01-16,4500.0,0.0,28.2,clear
+881,Black Gram (Urd Beans),Nasvadi,2017-01-16,2560.0,4.8,28.2,clear
+882,Arhar (Tur/Red Gram),Karjan,2017-01-17,5050.0,7.5,26.4,clear
+883,Arhar (Tur/Red Gram),Vadodara,2017-01-17,5000.0,3.18,26.4,clear
+884,Green Gram (Moong),Vadodara,2017-01-17,7000.0,9.99,26.4,clear
+885,Arhar (Tur/Red Gram),Karjan,2017-01-18,5050.0,5.0,26.4,clear
+886,Green Gram (Moong),Vadodara,2017-01-18,7000.0,9.75,26.4,clear
+887,Arhar (Tur/Red Gram),Karjan,2017-01-19,5050.0,5.5,24.0,clear
+888,Arhar (Tur/Red Gram),Savli,2017-01-19,4050.0,0.0,24.0,clear
+889,Arhar (Tur/Red Gram),Karjan,2017-01-20,5050.0,8.5,28.2,clear
+890,Arhar (Tur/Red Gram),Savli,2017-01-20,4150.0,0.0,28.2,clear
+891,Arhar (Tur/Red Gram),Savli(Desar),2017-01-20,4350.0,0.0,28.2,clear
+892,Black Gram (Urd Beans),Vadodara,2017-01-20,6000.0,2.25,28.2,clear
+893,Green Gram (Moong),Vadodara,2017-01-20,7000.0,0.9,28.2,clear
+894,Arhar (Tur/Red Gram),Karjan,2017-01-21,5050.0,5.5,31.0,clear
+895,Arhar (Tur/Red Gram),Savli,2017-01-21,4250.0,0.0,31.0,clear
+896,Black Gram (Urd Beans),Vadodara,2017-01-21,6000.0,0.6,31.0,clear
+897,Arhar (Tur/Red Gram),Karjan,2017-01-23,5050.0,7.4,33.8,clear
+898,Arhar (Tur/Red Gram),Savli,2017-01-23,4055.0,0.0,33.8,clear
+899,Green Gram (Moong),Vadodara,2017-01-23,7000.0,3.6,33.8,clear
+900,Arhar (Tur/Red Gram),Karjan,2017-01-24,5050.0,22.4,33.8,clear
+901,Arhar (Tur/Red Gram),Karjan,2017-01-25,5050.0,18.1,33.2,clear
+902,Arhar (Tur/Red Gram),Karjan,2017-01-27,5050.0,16.7,26.6,clear
+903,Arhar (Tur/Red Gram),Savli,2017-01-27,4200.0,0.0,26.6,clear
+904,Green Gram (Moong),Vadodara,2017-01-27,7000.0,2.4,26.6,clear
+905,Arhar (Tur/Red Gram),Karjan,2017-01-28,5050.0,6.9,27.6,clear
+906,Arhar (Tur/Red Gram),Karjan,2017-01-30,5050.0,22.2,31.4,clear
+907,Arhar (Tur/Red Gram),Nasvadi,2017-01-30,4000.0,5.0,31.4,clear
+908,Arhar (Tur/Red Gram),Vadodara,2017-01-30,4900.0,4.5,31.4,clear
+909,Green Gram (Moong),Vadodara,2017-01-30,7000.0,1.5,31.4,clear
+910,Arhar (Tur/Red Gram),Karjan,2017-01-31,5050.0,14.2,30.8,clear
+911,Arhar (Tur/Red Gram),Nasvadi,2017-01-31,5410.0,51.7,30.8,clear
+912,Arhar (Tur/Red Gram),Savli(Desar),2017-01-31,4350.0,0.0,30.8,clear
+913,Green Gram (Moong),Vadodara,2017-01-31,7000.0,7.87,30.8,clear
+914,Arhar (Tur/Red Gram),Karjan,2017-01-02,5050.0,21.3,29.6,clear
+915,Arhar (Tur/Red Gram),Nasvadi,2017-01-02,4475.0,4.2,29.6,clear
+916,Arhar (Tur/Red Gram),Savli(Desar),2017-01-02,4450.0,0.0,29.6,clear
+917,Green Gram (Moong),Vadodara,2017-01-02,7000.0,2.76,29.6,clear
+918,Arhar (Tur/Red Gram),Karjan,2017-02-02,5050.0,18.5,33.6,clear
+919,Arhar (Tur/Red Gram),Savli(Desar),2017-02-02,4350.0,0.0,33.6,clear
+920,Green Gram (Moong),Vadodara,2017-02-02,7000.0,1.92,33.6,clear
+921,Arhar (Tur/Red Gram),Karjan,2017-03-02,5050.0,0.0,36.2,clear
+922,Arhar (Tur/Red Gram),Savli,2017-03-02,4050.0,0.0,36.2,clear
+923,Green Gram (Moong),Vadodara,2017-03-02,7000.0,4.2,36.2,clear
+924,Arhar (Tur/Red Gram),Karjan,2017-04-02,5050.0,31.0,37.4,clear
+925,Arhar (Tur/Red Gram),Savli,2017-04-02,4050.0,0.0,37.4,clear
+926,Arhar (Tur/Red Gram),Savli(Desar),2017-04-02,4400.0,0.0,37.4,clear
+927,Arhar (Tur/Red Gram),Vadodara,2017-04-02,4900.0,0.21,37.4,clear
+928,Green Gram (Moong),Vadodara,2017-04-02,7000.0,0.9,37.4,clear
+929,Arhar (Tur/Red Gram),Karjan,2017-06-02,5050.0,51.7,40.6,clear
+930,Arhar (Tur/Red Gram),Savli(Desar),2017-06-02,4450.0,0.0,40.6,clear
+931,Arhar (Tur/Red Gram),Vadodara,2017-06-02,4900.0,0.35,40.6,clear
+932,Green Gram (Moong),Vadodara,2017-06-02,7000.0,5.13,40.6,clear
+933,Arhar (Tur/Red Gram),Karjan,2017-07-02,5050.0,27.3,31.6,clear
+934,Arhar (Tur/Red Gram),Savli,2017-07-02,5050.0,125.0,31.6,clear
+935,Arhar (Tur/Red Gram),Savli(Desar),2017-07-02,4350.0,0.0,31.6,clear
+936,Green Gram (Moong),Vadodara,2017-07-02,7000.0,0.9,31.6,clear
+937,Arhar (Tur/Red Gram),Karjan,2017-08-02,5050.0,42.2,30.4,rain
+938,Arhar (Tur/Red Gram),Savli,2017-08-02,5050.0,185.0,30.4,rain
+939,Arhar (Tur/Red Gram),Savli(Desar),2017-08-02,4450.0,0.0,30.4,rain
+940,Arhar (Tur/Red Gram),Karjan,2017-09-02,5050.0,76.3,31.4,clear
+941,Arhar (Tur/Red Gram),Savli,2017-09-02,5050.0,112.0,31.4,clear
+942,Arhar (Tur/Red Gram),Vadodara,2017-09-02,4900.0,0.15,31.4,clear
+943,Green Gram (Moong),Vadodara,2017-09-02,7000.0,2.43,31.4,clear
+944,Arhar (Tur/Red Gram),Karjan,2017-10-02,5050.0,72.0,36.6,clear
+945,Arhar (Tur/Red Gram),Vadodara,2017-10-02,4900.0,33.33,36.6,clear
+946,Green Gram (Moong),Vadodara,2017-10-02,7000.0,250.0,36.6,clear
+947,Arhar (Tur/Red Gram),Karjan,2017-11-02,5050.0,0.0,34.4,clear
+948,Arhar (Tur/Red Gram),Nasvadi,2017-11-02,3585.0,4.2,34.4,clear
+949,Green Gram (Moong),Vadodara,2017-11-02,7000.0,16.8,34.4,clear
+950,Arhar (Tur/Red Gram),Karjan,2017-03-04,5050.0,0.0,33.6,clear
+951,Arhar (Tur/Red Gram),Savli,2017-03-04,5050.0,20.0,33.6,clear
+952,Arhar (Tur/Red Gram),Savli(Desar),2017-03-04,5050.0,0.0,33.6,clear
+953,Arhar (Tur/Red Gram),Vadodara,2017-03-04,4900.0,4.8,33.6,clear
+954,Black Gram (Urd Beans),Vadodara,2017-03-04,6000.0,0.9,33.6,clear
+955,Green Gram (Moong),Vadodara,2017-03-04,7000.0,1.2,33.6,clear
+956,Arhar (Tur/Red Gram),Karjan,2017-04-04,4350.0,0.0,36.0,clear
+957,Arhar (Tur/Red Gram),Savli,2017-04-04,5050.0,0.0,36.0,clear
+958,Arhar (Tur/Red Gram),Savli(Desar),2017-04-04,5050.0,0.0,36.0,clear
+959,Green Gram (Moong),Vadodara,2017-04-04,7000.0,7.65,36.0,clear
+960,Arhar (Tur/Red Gram),Karjan,2017-06-04,4251.0,0.0,38.0,clear
+961,Arhar (Tur/Red Gram),Savli,2017-06-04,5050.0,10.0,38.0,clear
+962,Green Gram (Moong),Vadodara,2017-06-04,7000.0,7.2,38.0,clear
+963,Arhar (Tur/Red Gram),Karjan,2017-07-04,4300.0,0.0,31.8,clear
+964,Green Gram (Moong),Vadodara,2017-07-04,7000.0,5.85,31.8,clear
+965,Arhar (Tur/Red Gram),Karjan,2017-08-04,4250.0,0.0,32.4,clear
+966,Green Gram (Moong),Vadodara,2017-08-04,7000.0,2.94,32.4,clear
+967,Arhar (Tur/Red Gram),Karjan,2017-10-04,4100.0,0.0,36.0,clear
+968,Arhar (Tur/Red Gram),Savli,2017-10-04,4500.0,0.0,36.0,clear
+969,Arhar (Tur/Red Gram),Vadodara,2017-10-04,4900.0,1.05,36.0,clear
+970,Arhar (Tur/Red Gram),Karjan,2017-11-04,4050.0,0.0,34.2,clear
+971,Arhar (Tur/Red Gram),Karjan,2017-12-04,4100.0,0.0,27.0,rain
+972,Green Gram (Moong),Vadodara,2017-12-04,7000.0,3.0,27.0,rain
+973,Arhar (Tur/Red Gram),Karjan,2017-04-13,4150.0,0.0,42.4,clear
+974,Arhar (Tur/Red Gram),Savli,2017-04-13,3950.0,0.0,42.4,clear
+975,Arhar (Tur/Red Gram),Karjan,2017-04-14,4000.0,0.0,41.8,clear
+976,Green Gram (Moong),Vadodara,2017-04-14,7000.0,1.4,41.8,clear
+977,Arhar (Tur/Red Gram),Karjan,2017-04-15,4000.0,0.0,40.2,clear
+978,Arhar (Tur/Red Gram),Karjan,2017-04-17,4000.0,0.0,41.0,clear
+979,Arhar (Tur/Red Gram),Karjan,2017-04-18,3950.0,0.0,41.0,clear
+980,Arhar (Tur/Red Gram),Savli,2017-04-18,3850.0,0.0,41.0,clear
+981,Black Gram (Urd Beans),Vadodara,2017-04-18,6000.0,0.9,41.0,clear
+982,Green Gram (Moong),Vadodara,2017-04-18,7000.0,4.95,41.0,clear
+983,Arhar (Tur/Red Gram),Karjan,2017-04-19,3900.0,0.0,40.6,clear
+984,Arhar (Tur/Red Gram),Vadodara,2017-04-19,4900.0,1.8,40.6,clear
+985,Green Gram (Moong),Vadodara,2017-04-19,7000.0,2.25,40.6,clear
+986,Arhar (Tur/Red Gram),Karjan,2017-04-20,4000.0,0.0,38.4,clear
+987,Arhar (Tur/Red Gram),Karjan,2017-04-21,5050.0,0.0,38.4,clear
+988,Arhar (Tur/Red Gram),Karjan,2017-04-22,5050.0,0.0,36.6,clear
+989,Green Gram (Moong),Vadodara,2017-04-22,7000.0,3.0,36.6,clear
+990,Arhar (Tur/Red Gram),Karjan,2017-04-24,3800.0,0.0,35.2,clear
+991,Arhar (Tur/Red Gram),Nasvadi,2017-04-24,3625.0,3.1,35.2,clear
+992,Arhar (Tur/Red Gram),Karjan,2017-04-25,3850.0,0.0,35.2,clear
+993,Arhar (Tur/Red Gram),Karjan,2017-04-26,3900.0,0.0,36.4,clear
+994,Arhar (Tur/Red Gram),Nasvadi,2017-04-26,3750.0,2.5,36.4,clear
+995,Arhar (Tur/Red Gram),Karjan,2017-04-27,3900.0,0.0,39.0,clear
+996,Green Gram (Moong),Vadodara,2017-04-27,7000.0,3.6,39.0,clear
+997,Arhar (Tur/Red Gram),Karjan,2017-04-28,3800.0,0.0,38.2,clear
+998,Black Gram (Urd Beans),Vadodara,2017-04-28,6000.0,0.45,38.2,clear
+999,Green Gram (Moong),Vadodara,2017-04-28,7000.0,1.5,38.2,clear
+1000,Arhar (Tur/Red Gram),Karjan,2017-04-29,3800.0,0.0,38.0,clear
+1001,Arhar (Tur/Red Gram),Karjan,2017-01-05,3800.0,0.0,31.0,clear
+1002,Arhar (Tur/Red Gram),Savli,2017-01-05,4500.0,0.0,31.0,clear
+1003,Green Gram (Moong),Vadodara,2017-01-05,7000.0,7.63,31.0,clear
+1004,Arhar (Tur/Red Gram),Karjan,2017-02-05,3850.0,0.0,28.0,clear
+1005,Arhar (Tur/Red Gram),Vadodara,2017-02-05,5000.0,4.34,28.0,clear
+1006,Black Gram (Urd Beans),Vadodara,2017-02-05,6000.0,6.98,28.0,clear
+1007,Green Gram (Moong),Vadodara,2017-02-05,7000.0,19.53,28.0,clear
+1008,Arhar (Tur/Red Gram),Karjan,2017-03-05,3850.0,0.0,34.2,clear
+1009,Arhar (Tur/Red Gram),Savli,2017-03-05,4600.0,0.0,34.2,clear
+1010,Black Gram (Urd Beans),Vadodara,2017-03-05,6000.0,0.63,34.2,clear
+1011,Arhar (Tur/Red Gram),Karjan,2017-04-05,3850.0,0.0,37.0,clear
+1012,Green Gram (Moong),Vadodara,2017-04-05,7000.0,3.0,37.0,clear
+1013,Arhar (Tur/Red Gram),Karjan,2017-05-05,3800.0,0.0,42.0,clear
+1014,Arhar (Tur/Red Gram),Karjan,2017-06-05,3800.0,0.0,38.6,clear
+1015,Arhar (Tur/Red Gram),Karjan,2017-08-05,3700.0,0.0,32.2,rain
+1016,Arhar (Tur/Red Gram),Vadodara,2017-08-05,4500.0,3.0,32.2,rain
+1017,Green Gram (Moong),Vadodara,2017-08-05,7000.0,6.06,32.2,rain
+1018,Arhar (Tur/Red Gram),Karjan,2017-09-05,3750.0,0.0,31.6,clear
+1019,Green Gram (Moong),Vadodara,2017-09-05,7000.0,7.5,31.6,clear
+1020,Arhar (Tur/Red Gram),Karjan,2017-10-05,3900.0,0.0,36.4,clear
+1021,Black Gram (Urd Beans),Vadodara,2017-10-05,6500.0,0.24,36.4,clear
+1022,Arhar (Tur/Red Gram),Karjan,2017-11-05,3850.0,0.0,34.0,clear
+1023,Arhar (Tur/Red Gram),Karjan,2017-12-05,3850.0,0.0,21.4,rain
+1024,Green Gram (Moong),Vadodara,2017-12-05,7000.0,1.8,21.4,rain
+1025,Arhar (Tur/Red Gram),Karjan,2017-05-13,3700.0,0.0,41.8,clear
+1026,Green Gram (Moong),Vadodara,2017-05-13,7000.0,16.35,41.8,clear
+1027,Arhar (Tur/Red Gram),Karjan,2017-05-15,3700.0,0.0,40.6,clear
+1028,Arhar (Tur/Red Gram),Savli,2017-05-15,5050.0,0.0,40.6,clear
+1029,Green Gram (Moong),Vadodara,2017-05-15,7000.0,15.75,40.6,clear
+1030,Arhar (Tur/Red Gram),Karjan,2017-05-16,3800.0,0.0,41.2,clear
+1031,Arhar (Tur/Red Gram),Savli,2017-05-16,5050.0,0.0,41.2,clear
+1032,Black Gram (Urd Beans),Vadodara,2017-05-16,6500.0,1.5,41.2,clear
+1033,Green Gram (Moong),Vadodara,2017-05-16,7000.0,9.45,41.2,clear
+1034,Arhar (Tur/Red Gram),Karjan,2017-05-17,3700.0,0.0,40.4,clear
+1035,Arhar (Tur/Red Gram),Savli,2017-05-17,5050.0,0.0,40.4,clear
+1036,Green Gram (Moong),Vadodara,2017-05-17,7000.0,12.6,40.4,clear
+1037,Arhar (Tur/Red Gram),Karjan,2017-05-18,3750.0,0.0,39.8,clear
+1038,Arhar (Tur/Red Gram),Savli,2017-05-18,5050.0,12.5,39.8,clear
+1039,Black Gram (Urd Beans),Vadodara,2017-05-18,6500.0,3.9,39.8,clear
+1040,Green Gram (Moong),Vadodara,2017-05-18,7000.0,1.8,39.8,clear
+1041,Arhar (Tur/Red Gram),Karjan,2017-05-19,3750.0,0.0,40.4,clear
+1042,Black Gram (Urd Beans),Vadodara,2017-05-19,6500.0,3.9,40.4,clear
+1043,Green Gram (Moong),Vadodara,2017-05-19,7000.0,4.2,40.4,clear
+1044,Arhar (Tur/Red Gram),Karjan,2017-05-20,3800.0,0.0,39.0,clear
+1045,Arhar (Tur/Red Gram),Savli,2017-05-20,5050.0,1.4,39.0,clear
+1046,Arhar (Tur/Red Gram),Karjan,2017-05-22,3750.0,0.0,38.8,clear
+1047,Arhar (Tur/Red Gram),Savli,2017-05-22,5050.0,0.0,38.8,clear
+1048,Green Gram (Moong),Vadodara,2017-05-22,7000.0,5.4,38.8,clear
+1049,Arhar (Tur/Red Gram),Karjan,2017-05-23,3700.0,0.0,39.8,clear
+1050,Arhar (Tur/Red Gram),Savli,2017-05-23,5050.0,0.0,39.8,clear
+1051,Arhar (Tur/Red Gram),Savli(Desar),2017-05-23,5050.0,0.0,39.8,clear
+1052,Arhar (Tur/Red Gram),Karjan,2017-05-24,3700.0,0.0,39.8,clear
+1053,Arhar (Tur/Red Gram),Karjan,2017-05-25,3700.0,0.0,41.2,clear
+1054,Green Gram (Moong),Vadodara,2017-05-25,7000.0,3.0,41.2,clear
+1055,Arhar (Tur/Red Gram),Karjan,2017-05-26,3700.0,0.0,41.4,clear
+1056,Green Gram (Moong),Vadodara,2017-05-26,7000.0,3.9,41.4,clear
+1057,Arhar (Tur/Red Gram),Karjan,2017-05-27,3700.0,0.0,38.6,clear
+1058,Green Gram (Moong),Vadodara,2017-05-27,7000.0,4.5,38.6,clear
+1059,Arhar (Tur/Red Gram),Karjan,2017-05-29,3700.0,0.0,38.4,clear
+1060,Green Gram (Moong),Vadodara,2017-05-29,7000.0,66.99,38.4,clear
+1061,Arhar (Tur/Red Gram),Karjan,2017-05-30,3700.0,0.0,38.0,clear
+1062,Arhar (Tur/Red Gram),Karjan,2017-05-31,3700.0,0.0,38.0,clear
+1063,Green Gram (Moong),Vadodara,2017-05-31,7000.0,6.9,38.0,clear
+1064,Arhar (Tur/Red Gram),Karjan,2017-01-06,3700.0,0.0,30.0,clear
+1065,Arhar (Tur/Red Gram),Savli,2017-01-06,4250.0,0.0,30.0,clear
+1066,Green Gram (Moong),Vadodara,2017-01-06,7000.0,0.45,30.0,clear
+1067,Arhar (Tur/Red Gram),Karjan,2017-02-06,3700.0,0.0,26.2,clear
+1068,Arhar (Tur/Red Gram),Savli,2017-02-06,3350.0,0.0,26.2,clear
+1069,Green Gram (Moong),Vadodara,2017-02-06,7000.0,12.6,26.2,clear
+1070,Arhar (Tur/Red Gram),Karjan,2017-03-06,3700.0,0.0,34.4,clear
+1071,Arhar (Tur/Red Gram),Savli(Desar),2017-03-06,3375.0,0.0,34.4,clear
+1072,Arhar (Tur/Red Gram),Karjan,2017-05-06,3700.0,0.0,41.8,clear
+1073,Arhar (Tur/Red Gram),Vadodara,2017-05-06,4200.0,1.5,41.8,clear
+1074,Black Gram (Urd Beans),Vadodara,2017-05-06,6000.0,0.3,41.8,clear
+1075,Green Gram (Moong),Vadodara,2017-05-06,7000.0,102.7,41.8,clear
+1076,Arhar (Tur/Red Gram),Karjan,2017-06-06,3700.0,0.0,39.4,clear
+1077,Arhar (Tur/Red Gram),Karjan,2017-07-06,3700.0,0.0,34.6,clear
+1078,Arhar (Tur/Red Gram),Karjan,2017-08-06,3700.0,0.0,33.0,clear
+1079,Green Gram (Moong),Vadodara,2017-08-06,7000.0,8.31,33.0,clear
+1080,Arhar (Tur/Red Gram),Karjan,2017-09-06,3700.0,0.0,31.6,clear
+1081,Arhar (Tur/Red Gram),Savli,2017-09-06,3350.0,0.0,31.6,clear
+1082,Arhar (Tur/Red Gram),Savli(Desar),2017-09-06,3370.0,0.0,31.6,clear
+1083,Arhar (Tur/Red Gram),Vadodara,2017-09-06,4200.0,1.5,31.6,clear
+1084,Green Gram (Moong),Vadodara,2017-09-06,7000.0,3.0,31.6,clear
+1085,Arhar (Tur/Red Gram),Karjan,2017-10-06,3700.0,0.0,36.0,clear
+1086,Arhar (Tur/Red Gram),Vadodara,2017-10-06,4200.0,2.25,36.0,clear
+1087,Green Gram (Moong),Vadodara,2017-10-06,7000.0,7.2,36.0,clear
+1088,Arhar (Tur/Red Gram),Karjan,2017-12-06,3700.0,0.0,18.8,clear
+1089,Black Gram (Urd Beans),Vadodara,2017-12-06,6000.0,0.9,18.8,clear
+1090,Green Gram (Moong),Vadodara,2017-12-06,7000.0,4.5,18.8,clear
+1091,Arhar (Tur/Red Gram),Karjan,2017-06-13,3700.0,0.0,36.4,clear
+1092,Arhar (Tur/Red Gram),Vadodara,2017-06-13,4200.0,5.25,36.4,clear
+1093,Black Gram (Urd Beans),Vadodara,2017-06-13,6000.0,0.9,36.4,clear
+1094,Green Gram (Moong),Vadodara,2017-06-13,7000.0,54.66,36.4,clear
+1095,Arhar (Tur/Red Gram),Karjan,2017-06-14,3700.0,0.0,38.2,clear
+1096,Arhar (Tur/Red Gram),Vadodara,2017-06-14,4200.0,1.17,38.2,clear
+1097,Black Gram (Urd Beans),Vadodara,2017-06-14,6000.0,1.2,38.2,clear
+1098,Green Gram (Moong),Vadodara,2017-06-14,7000.0,28.95,38.2,clear
+1099,Arhar (Tur/Red Gram),Karjan,2017-06-15,3700.0,0.0,38.6,clear
+1100,Arhar (Tur/Red Gram),Savli,2017-06-15,3450.0,0.0,38.6,clear
+1101,Arhar (Tur/Red Gram),Savli(Desar),2017-06-15,3470.0,0.0,38.6,clear
+1102,Arhar (Tur/Red Gram),Karjan,2017-06-16,3700.0,0.0,38.0,clear
+1103,Arhar (Tur/Red Gram),Savli,2017-06-16,3450.0,0.0,38.0,clear
+1104,Arhar (Tur/Red Gram),Savli(Desar),2017-06-16,3470.0,0.0,38.0,clear
+1105,Green Gram (Moong),Vadodara,2017-06-16,7000.0,19.95,38.0,clear
+1106,Arhar (Tur/Red Gram),Karjan,2017-06-17,3700.0,0.0,37.2,clear
+1107,Arhar (Tur/Red Gram),Vadodara,2017-06-17,4200.0,4.05,37.2,clear
+1108,Green Gram (Moong),Vadodara,2017-06-17,7000.0,14.7,37.2,clear
+1109,Arhar (Tur/Red Gram),Karjan,2017-06-19,3700.0,0.0,37.6,clear
+1110,Arhar (Tur/Red Gram),Savli(Desar),2017-06-19,3450.0,0.0,37.6,clear
+1111,Green Gram (Moong),Vadodara,2017-06-19,7000.0,5.5,37.6,clear
+1112,Arhar (Tur/Red Gram),Karjan,2017-06-20,3650.0,0.0,36.6,clear
+1113,Arhar (Tur/Red Gram),Savli(Samlaya),2017-06-20,3450.0,0.0,36.6,clear
+1114,Green Gram (Moong),Vadodara,2017-06-20,7000.0,5.5,36.6,clear
+1115,Arhar (Tur/Red Gram),Karjan,2017-06-21,3650.0,0.0,35.2,clear
+1116,Arhar (Tur/Red Gram),Vadodara,2017-06-21,4200.0,2.25,35.2,clear
+1117,Green Gram (Moong),Vadodara,2017-06-21,7000.0,3.3,35.2,clear
+1118,Arhar (Tur/Red Gram),Karjan,2017-06-22,3650.0,0.0,36.2,clear
+1119,Black Gram (Urd Beans),Vadodara,2017-06-22,6000.0,1.95,36.2,clear
+1120,Green Gram (Moong),Vadodara,2017-06-22,7000.0,4.95,36.2,clear
+1121,Arhar (Tur/Red Gram),Karjan,2017-06-23,3650.0,0.0,37.4,rain
+1122,Arhar (Tur/Red Gram),Savli,2017-06-23,2950.0,0.0,37.4,rain
+1123,Arhar (Tur/Red Gram),Savli(Desar),2017-06-23,2950.0,0.0,37.4,rain
+1124,Green Gram (Moong),Vadodara,2017-06-23,7000.0,3.0,37.4,rain
+1125,Arhar (Tur/Red Gram),Karjan,2017-06-24,3650.0,0.0,32.6,clear
+1126,Arhar (Tur/Red Gram),Savli(Desar),2017-06-24,2950.0,0.0,32.6,clear
+1127,Green Gram (Moong),Vadodara,2017-06-24,7000.0,3.3,32.6,clear
+1128,Arhar (Tur/Red Gram),Karjan,2017-06-26,3650.0,0.0,34.0,rain
+1129,Arhar (Tur/Red Gram),Karjan,2017-06-27,3650.0,0.0,34.6,clear
+1130,Arhar (Tur/Red Gram),Savli,2017-06-27,2950.0,0.0,34.6,clear
+1131,Arhar (Tur/Red Gram),Savli(Desar),2017-06-27,2950.0,0.0,34.6,clear
+1132,Green Gram (Moong),Vadodara,2017-06-27,7000.0,12.57,34.6,clear
+1133,Arhar (Tur/Red Gram),Karjan,2017-06-28,3650.0,0.0,32.4,clear
+1134,Arhar (Tur/Red Gram),Savli,2017-06-28,2950.0,0.0,32.4,clear
+1135,Arhar (Tur/Red Gram),Savli(Desar),2017-06-28,2950.0,0.0,32.4,clear
+1136,Arhar (Tur/Red Gram),Vadodara,2017-06-28,4200.0,5.4,32.4,clear
+1137,Green Gram (Moong),Vadodara,2017-06-28,7000.0,11.25,32.4,clear
+1138,Arhar (Tur/Red Gram),Karjan,2017-06-29,3650.0,0.0,31.0,clear
+1139,Arhar (Tur/Red Gram),Vadodara,2017-06-29,4200.0,0.2,31.0,clear
+1140,Black Gram (Urd Beans),Vadodara,2017-06-29,6000.0,0.2,31.0,clear
+1141,Green Gram (Moong),Vadodara,2017-06-29,7000.0,5.37,31.0,clear
+1142,Arhar (Tur/Red Gram),Karjan,2017-06-30,3650.0,0.0,31.4,rain
+1143,Black Gram (Urd Beans),Vadodara,2017-06-30,6000.0,1.5,31.4,rain
+1144,Green Gram (Moong),Vadodara,2017-06-30,7000.0,1.5,31.4,rain
+1145,Arhar (Tur/Red Gram),Karjan,2017-01-07,3650.0,0.0,26.8,clear
+1146,Arhar (Tur/Red Gram),Vadodara,2017-01-07,4200.0,6.0,26.8,clear
+1147,Arhar (Tur/Red Gram),Karjan,2017-03-07,3650.0,0.0,33.8,clear
+1148,Arhar (Tur/Red Gram),Vadodara,2017-03-07,4200.0,0.3,33.8,clear
+1149,Black Gram (Urd Beans),Vadodara,2017-03-07,6000.0,1.47,33.8,clear
+1150,Green Gram (Moong),Vadodara,2017-03-07,7000.0,13.5,33.8,clear
+1151,Arhar (Tur/Red Gram),Karjan,2017-04-07,3650.0,0.0,33.6,clear
+1152,Green Gram (Moong),Vadodara,2017-04-07,7000.0,8.22,33.6,clear
+1153,Arhar (Tur/Red Gram),Karjan,2017-05-07,3650.0,0.0,41.4,clear
+1154,Black Gram (Urd Beans),Vadodara,2017-05-07,5500.0,0.6,41.4,clear
+1155,Green Gram (Moong),Vadodara,2017-05-07,7000.0,15.69,41.4,clear
+1156,Arhar (Tur/Red Gram),Karjan,2017-06-07,3650.0,0.0,37.8,clear
+1157,Green Gram (Moong),Vadodara,2017-06-07,7000.0,10.35,37.8,clear
+1158,Arhar (Tur/Red Gram),Karjan,2017-07-07,3650.0,0.0,34.8,rain
+1159,Black Gram (Urd Beans),Vadodara,2017-07-07,5500.0,0.45,34.8,rain
+1160,Arhar (Tur/Red Gram),Karjan,2017-08-07,3650.0,0.0,33.0,clear
+1161,Black Gram (Urd Beans),Vadodara,2017-08-07,5500.0,0.15,33.0,clear
+1162,Arhar (Tur/Red Gram),Karjan,2017-10-07,3650.0,0.0,37.2,clear
+1163,Black Gram (Urd Beans),Vadodara,2017-10-07,5500.0,0.3,37.2,clear
+1164,Green Gram (Moong),Vadodara,2017-10-07,7000.0,1.5,37.2,clear
+1165,Arhar (Tur/Red Gram),Karjan,2017-11-07,3650.0,0.0,33.8,clear
+1166,Green Gram (Moong),Vadodara,2017-11-07,7000.0,3.0,33.8,clear
+1167,Arhar (Tur/Red Gram),Karjan,2017-12-07,3650.0,0.0,26.2,clear
+1168,Arhar (Tur/Red Gram),Vadodara,2017-12-07,4200.0,1.5,26.2,clear
+1169,Green Gram (Moong),Vadodara,2017-12-07,7000.0,8.97,26.2,clear
+1170,Arhar (Tur/Red Gram),Karjan,2017-07-13,3650.0,0.0,30.0,rain
+1171,Arhar (Tur/Red Gram),Vadodara,2017-07-13,4200.0,1.5,30.0,rain
+1172,Green Gram (Moong),Vadodara,2017-07-13,7000.0,8.97,30.0,rain
+1173,Arhar (Tur/Red Gram),Karjan,2017-07-14,3675.0,0.0,28.0,clear
+1174,Black Gram (Urd Beans),Vadodara,2017-07-14,5500.0,0.45,28.0,clear
+1175,Green Gram (Moong),Vadodara,2017-07-14,7000.0,3.9,28.0,clear
+1176,Arhar (Tur/Red Gram),Karjan,2017-07-15,3650.0,0.0,28.0,clear
+1177,Green Gram (Moong),Vadodara,2017-07-15,7000.0,5.7,28.0,clear
+1178,Arhar (Tur/Red Gram),Karjan,2017-07-17,3625.0,0.0,31.2,clear
+1179,Green Gram (Moong),Vadodara,2017-07-17,7000.0,5.22,31.2,clear
+1180,Arhar (Tur/Red Gram),Karjan,2017-07-18,3625.0,0.0,31.6,clear
+1181,Green Gram (Moong),Vadodara,2017-07-18,7000.0,14.25,31.6,clear
+1182,Arhar (Tur/Red Gram),Karjan,2017-07-19,3600.0,0.0,33.2,clear
+1183,Arhar (Tur/Red Gram),Karjan,2017-07-20,3625.0,0.0,32.8,clear
+1184,Black Gram (Urd Beans),Vadodara,2017-07-20,5500.0,1.8,32.8,clear
+1185,Green Gram (Moong),Vadodara,2017-07-20,7000.0,3.0,32.8,clear
+1186,Arhar (Tur/Red Gram),Karjan,2017-07-22,3575.0,0.0,27.4,rain
+1187,Green Gram (Moong),Vadodara,2017-07-22,7000.0,4.95,27.4,rain
+1188,Arhar (Tur/Red Gram),Karjan,2017-07-24,3600.0,0.0,28.4,clear
+1189,Arhar (Tur/Red Gram),Vadodara,2017-07-24,4200.0,1.5,28.4,clear
+1190,Green Gram (Moong),Vadodara,2017-07-24,7000.0,21.0,28.4,clear
+1191,Arhar (Tur/Red Gram),Karjan,2017-07-26,3575.0,0.0,27.2,rain
+1192,Arhar (Tur/Red Gram),Karjan,2017-07-28,3550.0,0.0,27.0,rain
+1193,Green Gram (Moong),Vadodara,2017-07-28,7000.0,7.98,27.0,rain
+1194,Arhar (Tur/Red Gram),Karjan,2017-07-29,3550.0,0.0,31.2,rain
+1195,Green Gram (Moong),Vadodara,2017-07-29,7000.0,17.4,31.2,rain
+1196,Arhar (Tur/Red Gram),Karjan,2017-07-31,3575.0,0.0,29.6,clear
+1197,Green Gram (Moong),Vadodara,2017-07-31,7000.0,3.0,29.6,clear
+1198,Arhar (Tur/Red Gram),Karjan,2017-01-08,3550.0,0.0,28.2,clear
+1199,Arhar (Tur/Red Gram),Vadodara,2017-01-08,4200.0,2.1,28.2,clear
+1200,Black Gram (Urd Beans),Vadodara,2017-01-08,5500.0,0.45,28.2,clear
+1201,Green Gram (Moong),Vadodara,2017-01-08,7000.0,29.85,28.2,clear
+1202,Arhar (Tur/Red Gram),Karjan,2017-02-08,3550.0,0.0,30.8,clear
+1203,Arhar (Tur/Red Gram),Vadodara,2017-02-08,4200.0,2.7,30.8,clear
+1204,Green Gram (Moong),Vadodara,2017-02-08,7000.0,15.5,30.8,clear
+1205,Arhar (Tur/Red Gram),Karjan,2017-03-08,3450.0,0.0,33.4,clear
+1206,Arhar (Tur/Red Gram),Karjan,2017-04-08,3450.0,0.0,36.4,clear
+1207,Green Gram (Moong),Vadodara,2017-04-08,7000.0,8.7,36.4,clear
+1208,Arhar (Tur/Red Gram),Karjan,2017-05-08,3450.0,0.0,41.6,clear
+1209,Green Gram (Moong),Vadodara,2017-05-08,7000.0,3.3,41.6,clear
+1210,Arhar (Tur/Red Gram),Karjan,2017-08-08,3450.0,0.0,32.8,clear
+1211,Green Gram (Moong),Vadodara,2017-08-08,7000.0,5.57,32.8,clear
+1212,Arhar (Tur/Red Gram),Karjan,2017-09-08,3450.0,0.0,34.2,clear
+1213,Black Gram (Urd Beans),Vadodara,2017-09-08,5000.0,1.35,34.2,clear
+1214,Green Gram (Moong),Vadodara,2017-09-08,7000.0,3.09,34.2,clear
+1215,Arhar (Tur/Red Gram),Karjan,2017-10-08,3450.0,0.0,36.8,clear
+1216,Arhar (Tur/Red Gram),Vadodara,2017-10-08,4200.0,1.5,36.8,clear
+1217,Green Gram (Moong),Vadodara,2017-10-08,7000.0,5.4,36.8,clear
+1218,Arhar (Tur/Red Gram),Karjan,2017-11-08,3450.0,0.0,33.8,clear
+1219,Green Gram (Moong),Vadodara,2017-11-08,7000.0,6.75,33.8,clear
+1220,Arhar (Tur/Red Gram),Karjan,2017-08-14,3450.0,0.0,32.4,clear
+1221,Green Gram (Moong),Vadodara,2017-08-14,7000.0,13.62,32.4,clear
+1222,Arhar (Tur/Red Gram),Karjan,2017-08-16,3450.0,0.0,32.6,clear
+1223,Green Gram (Moong),Vadodara,2017-08-16,7000.0,25.5,32.6,clear
+1224,Arhar (Tur/Red Gram),Karjan,2017-08-17,3450.0,0.0,33.4,clear
+1225,Green Gram (Moong),Vadodara,2017-08-17,7000.0,33.38,33.4,clear
+1226,Arhar (Tur/Red Gram),Karjan,2017-08-18,3450.0,0.0,34.0,clear
+1227,Arhar (Tur/Red Gram),Karjan,2017-08-19,3550.0,0.0,31.6,clear
+1228,Arhar (Tur/Red Gram),Vadodara,2017-08-19,4500.0,3.0,31.6,clear
+1229,Green Gram (Moong),Vadodara,2017-08-19,7000.0,19.65,31.6,clear
+1230,Arhar (Tur/Red Gram),Karjan,2017-08-21,3550.0,0.0,32.4,rain
+1231,Green Gram (Moong),Vadodara,2017-08-21,7000.0,10.8,32.4,rain
+1232,Arhar (Tur/Red Gram),Karjan,2017-08-22,3550.0,0.0,28.6,clear
+1233,Green Gram (Moong),Vadodara,2017-08-22,7000.0,19.74,28.6,clear
+1234,Arhar (Tur/Red Gram),Karjan,2017-08-23,3500.0,0.0,30.6,clear
+1235,Green Gram (Moong),Vadodara,2017-08-23,7000.0,9.9,30.6,clear
+1236,Arhar (Tur/Red Gram),Karjan,2017-08-24,3450.0,0.0,32.4,clear
+1237,Arhar (Tur/Red Gram),Vadodara,2017-08-24,4500.0,184.22,32.4,clear
+1238,Green Gram (Moong),Vadodara,2017-08-24,7000.0,1.5,32.4,clear
+1239,Arhar (Tur/Red Gram),Karjan,2017-08-29,3550.0,0.0,27.4,clear
+1240,Green Gram (Moong),Vadodara,2017-08-29,7000.0,3.0,27.4,clear
+1241,Arhar (Tur/Red Gram),Karjan,2017-08-30,3550.0,0.0,29.8,rain
+1242,Arhar (Tur/Red Gram),Karjan,2017-08-31,3550.0,0.0,30.6,clear
+1243,Green Gram (Moong),Vadodara,2017-08-31,7000.0,5.25,30.6,clear
+1244,Arhar (Tur/Red Gram),Karjan,2017-01-09,3550.0,0.0,27.0,clear
+1245,Green Gram (Moong),Vadodara,2017-01-09,7000.0,2.7,27.0,clear
+1246,Arhar (Tur/Red Gram),Karjan,2017-02-09,3550.0,0.0,28.8,clear
+1247,Black Gram (Urd Beans),Vadodara,2017-02-09,6500.0,0.3,28.8,clear
+1248,Green Gram (Moong),Vadodara,2017-02-09,7000.0,4.2,28.8,clear
+1249,Arhar (Tur/Red Gram),Karjan,2017-04-09,3550.0,0.0,39.8,clear
+1250,Green Gram (Moong),Vadodara,2017-04-09,7000.0,0.9,39.8,clear
+1251,Arhar (Tur/Red Gram),Karjan,2017-05-09,3550.0,0.0,40.6,clear
+1252,Arhar (Tur/Red Gram),Karjan,2017-06-09,3550.0,0.0,37.2,clear
+1253,Green Gram (Moong),Vadodara,2017-06-09,7000.0,4.17,37.2,clear
+1254,Arhar (Tur/Red Gram),Karjan,2017-07-09,3550.0,0.0,34.6,clear
+1255,Green Gram (Moong),Vadodara,2017-07-09,7000.0,2.7,34.6,clear
+1256,Arhar (Tur/Red Gram),Karjan,2017-08-09,3550.0,0.0,33.2,clear
+1257,Arhar (Tur/Red Gram),Vadodara,2017-08-09,4500.0,1.5,33.2,clear
+1258,Arhar (Tur/Red Gram),Karjan,2017-09-09,3575.0,0.0,34.8,clear
+1259,Green Gram (Moong),Vadodara,2017-09-09,7000.0,13.53,34.8,clear
+1260,Arhar (Tur/Red Gram),Karjan,2017-11-09,3550.0,0.0,33.6,clear
+1261,Arhar (Tur/Red Gram),Savli(Desar),2017-11-09,3550.0,0.0,33.6,clear
+1262,Arhar (Tur/Red Gram),Savli(Samlaya),2017-11-09,3550.0,0.0,33.6,clear
+1263,Arhar (Tur/Red Gram),Vadodara,2017-11-09,4400.0,1.05,33.6,clear
+1264,Green Gram (Moong),Vadodara,2017-11-09,7000.0,8.19,33.6,clear
+1265,Arhar (Tur/Red Gram),Karjan,2017-12-09,3550.0,0.0,31.4,clear
+1266,Green Gram (Moong),Vadodara,2017-12-09,7000.0,3.51,31.4,clear
+1267,Arhar (Tur/Red Gram),Karjan,2017-09-13,3550.0,0.0,31.4,clear
+1268,Arhar (Tur/Red Gram),Savli(Samlaya),2017-09-13,3550.0,0.0,31.4,clear
+1269,Black Gram (Urd Beans),Vadodara,2017-09-13,5500.0,0.45,31.4,clear
+1270,Green Gram (Moong),Vadodara,2017-09-13,7000.0,22.05,31.4,clear
+1271,Arhar (Tur/Red Gram),Karjan,2017-09-14,3550.0,0.0,32.8,clear
+1272,Arhar (Tur/Red Gram),Savli(Desar),2017-09-14,3550.0,0.0,32.8,clear
+1273,Arhar (Tur/Red Gram),Savli(Samlaya),2017-09-14,3550.0,0.0,32.8,clear
+1274,Green Gram (Moong),Vadodara,2017-09-14,7000.0,8.4,32.8,clear
+1275,Arhar (Tur/Red Gram),Karjan,2017-09-15,3550.0,0.0,36.4,rain
+1276,Arhar (Tur/Red Gram),Savli(Desar),2017-09-15,3550.0,0.0,36.4,rain
+1277,Arhar (Tur/Red Gram),Savli(Samlaya),2017-09-15,3550.0,0.0,36.4,rain
+1278,Black Gram (Urd Beans),Vadodara,2017-09-15,5500.0,1.35,36.4,rain
+1279,Arhar (Tur/Red Gram),Karjan,2017-09-16,3550.0,0.0,30.2,clear
+1280,Arhar (Tur/Red Gram),Savli(Desar),2017-09-16,3550.0,0.0,30.2,clear
+1281,Arhar (Tur/Red Gram),Savli(Samlaya),2017-09-16,3550.0,0.0,30.2,clear
+1282,Arhar (Tur/Red Gram),Vadodara,2017-09-16,4500.0,3.0,30.2,clear
+1283,Black Gram (Urd Beans),Vadodara,2017-09-16,5500.0,3.15,30.2,clear
+1284,Green Gram (Moong),Vadodara,2017-09-16,7000.0,5.1,30.2,clear
+1285,Arhar (Tur/Red Gram),Karjan,2017-09-18,3550.0,0.0,33.0,clear
+1286,Black Gram (Urd Beans),Vadodara,2017-09-18,5800.0,0.6,33.0,clear
+1287,Arhar (Tur/Red Gram),Karjan,2017-09-19,3550.0,0.0,33.4,clear
+1288,Arhar (Tur/Red Gram),Vadodara,2017-09-19,4500.0,3.0,33.4,clear
+1289,Green Gram (Moong),Vadodara,2017-09-19,7000.0,7.38,33.4,clear
+1290,Arhar (Tur/Red Gram),Karjan,2017-09-20,3700.0,0.0,33.2,clear
+1291,Green Gram (Moong),Vadodara,2017-09-20,7000.0,21.6,33.2,clear
+1292,Arhar (Tur/Red Gram),Karjan,2017-09-21,3700.0,0.0,30.6,clear
+1293,Black Gram (Urd Beans),Vadodara,2017-09-21,5500.0,1.2,30.6,clear
+1294,Arhar (Tur/Red Gram),Karjan,2017-09-22,3700.0,0.0,32.2,clear
+1295,Arhar (Tur/Red Gram),Vadodara,2017-09-22,4400.0,1.5,32.2,clear
+1296,Green Gram (Moong),Vadodara,2017-09-22,6100.0,6.93,32.2,clear
+1297,Arhar (Tur/Red Gram),Karjan,2017-09-23,3750.0,0.0,32.6,clear
+1298,Arhar (Tur/Red Gram),Vadodara,2017-09-23,4500.0,1.05,32.6,clear
+1299,Black Gram (Urd Beans),Vadodara,2017-09-23,5500.0,1.5,32.6,clear
+1300,Green Gram (Moong),Vadodara,2017-09-23,6100.0,7.44,32.6,clear
+1301,Arhar (Tur/Red Gram),Karjan,2017-09-25,3750.0,0.0,33.2,clear
+1302,Arhar (Tur/Red Gram),Savli(Desar),2017-09-25,3550.0,0.0,33.2,clear
+1303,Green Gram (Moong),Vadodara,2017-09-25,6100.0,4.8,33.2,clear
+1304,Arhar (Tur/Red Gram),Karjan,2017-09-26,3700.0,0.0,32.4,clear
+1305,Arhar (Tur/Red Gram),Savli(Desar),2017-09-26,3550.0,0.0,32.4,clear
+1306,Arhar (Tur/Red Gram),Karjan,2017-09-27,3750.0,0.0,34.0,clear
+1307,Arhar (Tur/Red Gram),Savli(Desar),2017-09-27,3350.0,0.0,34.0,clear
+1308,Arhar (Tur/Red Gram),Vadodara,2017-09-27,4500.0,3.0,34.0,clear
+1309,Black Gram (Urd Beans),Vadodara,2017-09-27,5500.0,0.45,34.0,clear
+1310,Green Gram (Moong),Vadodara,2017-09-27,6100.0,1.8,34.0,clear
+1311,Arhar (Tur/Red Gram),Karjan,2017-09-28,3750.0,0.0,35.0,clear
+1312,Arhar (Tur/Red Gram),Savli(Samlaya),2017-09-28,3350.0,0.0,35.0,clear
+1313,Arhar (Tur/Red Gram),Vadodara,2017-09-28,4500.0,1.2,35.0,clear
+1314,Green Gram (Moong),Vadodara,2017-09-28,6100.0,2.4,35.0,clear
+1315,Arhar (Tur/Red Gram),Karjan,2017-09-29,3750.0,0.0,34.8,clear
+1316,Arhar (Tur/Red Gram),Savli(Samlaya),2017-09-29,3225.0,0.0,34.8,clear
+1317,Green Gram (Moong),Vadodara,2017-09-29,6100.0,4.5,34.8,clear
+1318,Arhar (Tur/Red Gram),Karjan,2017-09-30,3750.0,0.0,35.8,clear
+1319,Green Gram (Moong),Vadodara,2017-09-30,6100.0,4.35,35.8,clear
+1320,Arhar (Tur/Red Gram),Karjan,2017-02-10,3750.0,0.0,29.8,clear
+1321,Arhar (Tur/Red Gram),Karjan,2017-03-10,3750.0,0.0,31.0,clear
+1322,Black Gram (Urd Beans),Vadodara,2017-03-10,5500.0,0.33,31.0,clear
+1323,Arhar (Tur/Red Gram),Karjan,2017-04-10,3750.0,0.0,40.0,clear
+1324,Arhar (Tur/Red Gram),Vadodara,2017-04-10,4500.0,0.6,40.0,clear
+1325,Arhar (Tur/Red Gram),Karjan,2017-05-10,3750.0,0.0,40.8,clear
+1326,Arhar (Tur/Red Gram),Karjan,2017-06-10,3750.0,0.0,35.6,clear
+1327,Green Gram (Moong),Vadodara,2017-06-10,6100.0,1.5,35.6,clear
+1328,Arhar (Tur/Red Gram),Karjan,2017-07-10,3650.0,0.0,34.4,clear
+1329,Arhar (Tur/Red Gram),Vadodara,2017-07-10,4500.0,1.05,34.4,clear
+1330,Black Gram (Urd Beans),Vadodara,2017-07-10,5500.0,3.3,34.4,clear
+1331,Green Gram (Moong),Vadodara,2017-07-10,6100.0,9.9,34.4,clear
+1332,Arhar (Tur/Red Gram),Karjan,2017-09-10,3550.0,0.0,33.0,clear
+1333,Black Gram (Urd Beans),Vadodara,2017-09-10,5500.0,2.13,33.0,clear
+1334,Green Gram (Moong),Vadodara,2017-09-10,6100.0,6.06,33.0,clear
+1335,Arhar (Tur/Red Gram),Karjan,2017-10-10,3450.0,0.0,35.0,clear
+1336,Arhar (Tur/Red Gram),Vadodara,2017-10-10,4500.0,0.15,35.0,clear
+1337,Black Gram (Urd Beans),Vadodara,2017-10-10,5500.0,0.9,35.0,clear
+1338,Green Gram (Moong),Vadodara,2017-10-10,6100.0,5.55,35.0,clear
+1339,Arhar (Tur/Red Gram),Karjan,2017-11-10,3450.0,0.0,33.8,clear
+1340,Black Gram (Urd Beans),Vadodara,2017-11-10,5500.0,0.6,33.8,clear
+1341,Arhar (Tur/Red Gram),Karjan,2017-12-10,3450.0,0.0,30.8,clear
+1342,Arhar (Tur/Red Gram),Karjan,2017-10-13,3450.0,0.0,35.2,clear
+1343,Arhar (Tur/Red Gram),Vadodara,2017-10-13,4500.0,1.05,35.2,clear
+1344,Arhar (Tur/Red Gram),Karjan,2017-10-14,3450.0,0.0,36.0,clear
+1345,Green Gram (Moong),Vadodara,2017-10-14,7000.0,10.47,36.0,clear
+1346,Arhar (Tur/Red Gram),Karjan,2017-10-16,3450.0,0.0,36.6,clear
+1347,Black Gram (Urd Beans),Vadodara,2017-10-16,5500.0,0.9,36.6,clear
+1348,Green Gram (Moong),Vadodara,2017-10-16,6100.0,10.05,36.6,clear
+1349,Arhar (Tur/Red Gram),Karjan,2017-10-23,3450.0,0.0,34.2,clear
+1350,Arhar (Tur/Red Gram),Karjan,2017-10-24,3450.0,0.0,34.4,clear
+1351,Arhar (Tur/Red Gram),Karjan,2017-10-25,3450.0,0.0,34.4,clear
+1352,Arhar (Tur/Red Gram),Vadodara,2017-10-25,4500.0,4.95,34.4,clear
+1353,Black Gram (Urd Beans),Vadodara,2017-10-25,6100.0,1.5,34.4,clear
+1354,Green Gram (Moong),Vadodara,2017-10-25,6100.0,12.75,34.4,clear
+1355,Arhar (Tur/Red Gram),Karjan,2017-10-26,3450.0,0.0,34.8,clear
+1356,Arhar (Tur/Red Gram),Karjan,2017-10-27,3450.0,0.0,35.4,clear
+1357,Black Gram (Urd Beans),Vadodara,2017-10-27,5000.0,0.9,35.4,clear
+1358,Green Gram (Moong),Vadodara,2017-10-27,6100.0,12.75,35.4,clear
+1359,Arhar (Tur/Red Gram),Karjan,2017-10-28,3450.0,0.0,35.4,clear
+1360,Green Gram (Moong),Vadodara,2017-10-28,6100.0,13.89,35.4,clear
+1361,Arhar (Tur/Red Gram),Karjan,2017-10-30,3400.0,0.0,35.2,clear
+1362,Black Gram (Urd Beans),Vadodara,2017-10-30,5000.0,0.45,35.2,clear
+1363,Green Gram (Moong),Vadodara,2017-10-30,6100.0,3.0,35.2,clear
+1364,Arhar (Tur/Red Gram),Karjan,2017-10-31,3425.0,0.0,34.8,clear
+1365,Arhar (Tur/Red Gram),Vadodara,2017-10-31,4400.0,1.56,34.8,clear
+1366,Green Gram (Moong),Vadodara,2017-10-31,6100.0,10.8,34.8,clear
+1367,Arhar (Tur/Red Gram),Karjan,2017-01-11,3425.0,0.0,25.6,clear
+1368,Green Gram (Moong),Vadodara,2017-01-11,6100.0,1.5,25.6,clear
+1369,Arhar (Tur/Red Gram),Nasvadi,2017-02-15,3810.0,7.9,34.4,clear
+1370,Arhar (Tur/Red Gram),Nasvadi,2017-03-03,3650.0,6.8,34.4,clear
+1371,Arhar (Tur/Red Gram),Savli,2017-03-03,5050.0,0.0,34.4,clear
+1372,Arhar (Tur/Red Gram),Vadodara,2017-03-03,4650.0,3.6,34.4,clear
+1373,Green Gram (Moong),Vadodara,2017-03-03,7000.0,11.4,34.4,clear
+1374,Arhar (Tur/Red Gram),Nasvadi,2017-03-20,3965.0,2.5,35.4,clear
+1375,Arhar (Tur/Red Gram),Savli,2017-03-20,5050.0,51.2,35.4,clear
+1376,Arhar (Tur/Red Gram),Savli(Desar),2017-03-20,5050.0,25.5,35.4,clear
+1377,Arhar (Tur/Red Gram),Vadodara,2017-03-20,4650.0,1.5,35.4,clear
+1378,Black Gram (Urd Beans),Vadodara,2017-03-20,7000.0,2.73,35.4,clear
+1379,Green Gram (Moong),Vadodara,2017-03-20,7000.0,7.92,35.4,clear
+1380,Arhar (Tur/Red Gram),Nasvadi,2017-03-21,3965.0,2.5,37.2,clear
+1381,Arhar (Tur/Red Gram),Savli,2017-03-21,5050.0,0.0,37.2,clear
+1382,Arhar (Tur/Red Gram),Savli(Desar),2017-03-21,5050.0,0.0,37.2,clear
+1383,Green Gram (Moong),Vadodara,2017-03-21,7000.0,3.9,37.2,clear
+1384,Arhar (Tur/Red Gram),Nasvadi,2017-03-23,4260.0,4.6,36.8,clear
+1385,Arhar (Tur/Red Gram),Savli,2017-03-23,5050.0,0.0,36.8,clear
+1386,Arhar (Tur/Red Gram),Savli(Desar),2017-03-23,5050.0,0.0,36.8,clear
+1387,Green Gram (Moong),Vadodara,2017-03-23,7000.0,10.35,36.8,clear
+1388,Arhar (Tur/Red Gram),Nasvadi,2017-03-30,4300.0,3.5,38.6,clear
+1389,Arhar (Tur/Red Gram),Savli,2017-03-30,4500.0,0.0,38.6,clear
+1390,Arhar (Tur/Red Gram),Savli(Desar),2017-03-30,5050.0,0.0,38.6,clear
+1391,Green Gram (Moong),Vadodara,2017-03-30,7000.0,4.05,38.6,clear
+1392,Arhar (Tur/Red Gram),Nasvadi,2017-03-31,4125.0,8.5,39.6,clear
+1393,Arhar (Tur/Red Gram),Savli,2017-03-31,5050.0,0.0,39.6,clear
+1394,Arhar (Tur/Red Gram),Savli(Desar),2017-03-31,5050.0,0.0,39.6,clear
+1395,Arhar (Tur/Red Gram),Vadodara,2017-03-31,4900.0,389.95,39.6,clear
+1396,Green Gram (Moong),Vadodara,2017-03-31,7000.0,159.54,39.6,clear
+1397,Arhar (Tur/Red Gram),Nasvadi,2017-01-04,4150.0,6.0,30.0,clear
+1398,Arhar (Tur/Red Gram),Savli,2017-01-04,5050.0,0.0,30.0,clear
+1399,Arhar (Tur/Red Gram),Savli(Desar),2017-01-04,5050.0,0.0,30.0,clear
+1400,Arhar (Tur/Red Gram),Nasvadi(Thalkala),2017-02-14,5420.0,91.0,33.2,clear
+1401,Arhar (Tur/Red Gram),Vadodara,2017-02-14,4900.0,0.3,33.2,clear
+1402,Black Gram (Urd Beans),Vadodara,2017-02-14,7000.0,0.6,33.2,clear
+1403,Arhar (Tur/Red Gram),Nasvadi(Thalkala),2017-02-21,5360.0,42.0,29.0,clear
+1404,Arhar (Tur/Red Gram),Vadodara,2017-02-21,4900.0,3.0,29.0,clear
+1405,Green Gram (Moong),Vadodara,2017-02-21,7000.0,2.5,29.0,clear
+1406,Arhar (Tur/Red Gram),Savli,2017-02-16,5050.0,500.0,34.8,clear
+1407,Arhar (Tur/Red Gram),Savli(Samlaya),2017-02-16,5050.0,0.0,34.8,clear
+1408,Black Gram (Urd Beans),Vadodara,2017-02-16,7500.0,0.9,34.8,clear
+1409,Green Gram (Moong),Vadodara,2017-02-16,7000.0,3.6,34.8,clear
+1410,Arhar (Tur/Red Gram),Savli,2017-02-17,5050.0,400.0,35.4,clear
+1411,Black Gram (Urd Beans),Vadodara,2017-02-17,7500.0,0.15,35.4,clear
+1412,Green Gram (Moong),Vadodara,2017-02-17,7000.0,2.1,35.4,clear
+1413,Arhar (Tur/Red Gram),Savli,2017-02-20,5050.0,66.0,34.4,clear
+1414,Arhar (Tur/Red Gram),Savli,2017-02-22,5050.0,118.8,29.4,clear
+1415,Arhar (Tur/Red Gram),Savli(Desar),2017-02-22,5025.0,0.0,29.4,clear
+1416,Green Gram (Moong),Vadodara,2017-02-22,7000.0,7.5,29.4,clear
+1417,Arhar (Tur/Red Gram),Savli,2017-02-23,5050.0,102.3,31.4,clear
+1418,Arhar (Tur/Red Gram),Savli(Desar),2017-02-23,5025.0,0.0,31.4,clear
+1419,Arhar (Tur/Red Gram),Savli,2017-02-27,5050.0,0.0,37.2,clear
+1420,Arhar (Tur/Red Gram),Savli(Desar),2017-02-27,5025.0,0.0,37.2,clear
+1421,Arhar (Tur/Red Gram),Vadodara,2017-02-27,4650.0,30.57,37.2,clear
+1422,Black Gram (Urd Beans),Vadodara,2017-02-27,6000.0,24.69,37.2,clear
+1423,Green Gram (Moong),Vadodara,2017-02-27,7000.0,38.85,37.2,clear
+1424,Arhar (Tur/Red Gram),Savli,2017-02-28,5050.0,0.0,37.0,clear
+1425,Arhar (Tur/Red Gram),Vadodara,2017-02-28,4650.0,1.2,37.0,clear
+1426,Arhar (Tur/Red Gram),Savli,2017-02-03,5050.0,0.0,35.2,clear
+1427,Green Gram (Moong),Vadodara,2017-02-03,7000.0,3.3,35.2,clear
+1428,Arhar (Tur/Red Gram),Savli,2017-06-03,5000.0,0.0,40.0,clear
+1429,Arhar (Tur/Red Gram),Savli(Desar),2017-06-03,5000.0,0.0,40.0,clear
+1430,Black Gram (Urd Beans),Vadodara,2017-06-03,6000.0,1.5,40.0,clear
+1431,Green Gram (Moong),Vadodara,2017-06-03,7000.0,13.35,40.0,clear
+1432,Arhar (Tur/Red Gram),Savli,2017-07-03,5050.0,0.0,31.4,rain
+1433,Arhar (Tur/Red Gram),Savli,2017-08-03,5050.0,0.0,31.6,clear
+1434,Arhar (Tur/Red Gram),Savli(Desar),2017-08-03,5050.0,29.7,31.6,clear
+1435,Arhar (Tur/Red Gram),Vadodara,2017-08-03,4650.0,0.9,31.6,clear
+1436,Green Gram (Moong),Vadodara,2017-08-03,7000.0,9.45,31.6,clear
+1437,Arhar (Tur/Red Gram),Savli,2017-09-03,5050.0,37.3,32.4,clear
+1438,Arhar (Tur/Red Gram),Savli(Desar),2017-09-03,5050.0,36.4,32.4,clear
+1439,Arhar (Tur/Red Gram),Savli,2017-10-03,5050.0,56.0,36.6,clear
+1440,Arhar (Tur/Red Gram),Savli(Desar),2017-10-03,5050.0,46.5,36.6,clear
+1441,Black Gram (Urd Beans),Vadodara,2017-10-03,7000.0,1.5,36.6,clear
+1442,Green Gram (Moong),Vadodara,2017-10-03,7000.0,9.0,36.6,clear
+1443,Arhar (Tur/Red Gram),Savli,2017-03-14,5000.0,64.4,33.4,clear
+1444,Arhar (Tur/Red Gram),Savli(Desar),2017-03-14,5000.0,0.0,33.4,clear
+1445,Green Gram (Moong),Vadodara,2017-03-14,7000.0,0.6,33.4,clear
+1446,Arhar (Tur/Red Gram),Savli,2017-03-15,5000.0,52.6,35.4,clear
+1447,Arhar (Tur/Red Gram),Savli(Desar),2017-03-15,5000.0,37.9,35.4,clear
+1448,Arhar (Tur/Red Gram),Vadodara,2017-03-15,4650.0,3.0,35.4,clear
+1449,Arhar (Tur/Red Gram),Savli,2017-03-16,5050.0,82.6,35.8,clear
+1450,Arhar (Tur/Red Gram),Savli(Desar),2017-03-16,5050.0,62.4,35.8,clear
+1451,Green Gram (Moong),Vadodara,2017-03-16,7000.0,4.5,35.8,clear
+1452,Arhar (Tur/Red Gram),Savli,2017-03-17,5050.0,69.0,35.0,clear
+1453,Arhar (Tur/Red Gram),Savli(Desar),2017-03-17,5050.0,71.35,35.0,clear
+1454,Arhar (Tur/Red Gram),Vadodara,2017-03-17,4650.0,29.46,35.0,clear
+1455,Black Gram (Urd Beans),Vadodara,2017-03-17,7000.0,1.5,35.0,clear
+1456,Green Gram (Moong),Vadodara,2017-03-17,7000.0,40.0,35.0,clear
+1457,Arhar (Tur/Red Gram),Savli,2017-03-18,5050.0,90.05,35.0,clear
+1458,Arhar (Tur/Red Gram),Savli(Desar),2017-03-18,5050.0,47.2,35.0,clear
+1459,Arhar (Tur/Red Gram),Vadodara,2017-03-18,4650.0,4.29,35.0,clear
+1460,Black Gram (Urd Beans),Vadodara,2017-03-18,7000.0,4.78,35.0,clear
+1461,Green Gram (Moong),Vadodara,2017-03-18,7000.0,20.87,35.0,clear
+1462,Arhar (Tur/Red Gram),Savli,2017-03-22,5050.0,32.5,37.2,clear
+1463,Arhar (Tur/Red Gram),Savli(Desar),2017-03-22,5050.0,34.55,37.2,clear
+1464,Arhar (Tur/Red Gram),Vadodara,2017-03-22,4650.0,1.5,37.2,clear
+1465,Green Gram (Moong),Vadodara,2017-03-22,7000.0,3.0,37.2,clear
+1466,Arhar (Tur/Red Gram),Savli,2017-03-24,5050.0,0.0,38.0,clear
+1467,Arhar (Tur/Red Gram),Savli(Desar),2017-03-24,5050.0,0.0,38.0,clear
+1468,Arhar (Tur/Red Gram),Vadodara,2017-03-24,4900.0,3.0,38.0,clear
+1469,Green Gram (Moong),Vadodara,2017-03-24,7000.0,1.5,38.0,clear
+1470,Arhar (Tur/Red Gram),Savli,2017-03-27,5050.0,30.0,41.6,clear
+1471,Arhar (Tur/Red Gram),Savli(Desar),2017-03-27,5050.0,55.1,41.6,clear
+1472,Green Gram (Moong),Vadodara,2017-03-27,7000.0,20.43,41.6,clear
+1473,Arhar (Tur/Red Gram),Savli,2017-03-28,5050.0,0.0,41.8,clear
+1474,Arhar (Tur/Red Gram),Savli(Desar),2017-03-28,5050.0,0.0,41.8,clear
+1475,Green Gram (Moong),Vadodara,2017-03-28,7000.0,9.0,41.8,clear
+1476,Arhar (Tur/Red Gram),Savli,2017-05-04,5050.0,0.0,41.0,clear
+1477,Green Gram (Moong),Vadodara,2017-05-04,7000.0,22.35,41.0,clear
+1478,Arhar (Tur/Red Gram),Savli,2017-05-21,5050.0,0.0,38.4,rain
+1479,Arhar (Tur/Red Gram),Savli(Desar),2017-02-13,3850.0,0.0,31.0,clear
+1480,Arhar (Tur/Red Gram),Vadodara,2017-02-13,4900.0,1.71,31.0,clear
+1481,Arhar (Tur/Red Gram),Vagodiya,2017-02-13,5050.0,7.8,31.0,clear
+1482,Black Gram (Urd Beans),Vadodara,2017-02-13,7500.0,0.87,31.0,clear
+1483,Green Gram (Moong),Vadodara,2017-02-13,7000.0,10.8,31.0,clear
+1484,Arhar (Tur/Red Gram),Vadodara,2017-01-26,5000.0,1.05,31.0,clear
+1485,Black Gram (Urd Beans),Vadodara,2017-01-26,6000.0,0.3,31.0,clear
+1486,Green Gram (Moong),Vadodara,2017-01-26,7000.0,3.75,31.0,clear
+1487,Arhar (Tur/Red Gram),Vadodara,2017-07-05,4500.0,1.05,34.0,clear
+1488,Green Gram (Moong),Vadodara,2017-07-05,7000.0,21.75,34.0,clear
+1489,Arhar (Tur/Red Gram),Vadodara,2017-07-27,4200.0,6.0,26.4,clear
+1490,Green Gram (Moong),Vadodara,2017-07-27,7000.0,9.33,26.4,clear
+1491,Arhar (Tur/Red Gram),Vadodara,2017-12-08,4200.0,1.14,27.8,clear
+1492,Green Gram (Moong),Vadodara,2017-12-08,7000.0,2.7,27.8,clear
+1493,Arhar (Tur/Red Gram),Vagodiya,2017-05-02,4100.0,4.4,40.0,clear
+1494,Black Gram (Urd Beans),Vadodara,2017-04-03,6000.0,2.1,37.8,clear
+1495,Green Gram (Moong),Vadodara,2017-04-03,7000.0,2.7,37.8,clear
+1496,Black Gram (Urd Beans),Vadodara,2017-03-29,6000.0,0.6,40.8,clear
+1497,Green Gram (Moong),Vadodara,2017-03-29,7000.0,24.75,40.8,clear
+1498,Black Gram (Urd Beans),Vadodara,2017-02-11,5000.0,0.75,29.6,clear
+1499,Green Gram (Moong),Vadodara,2017-02-11,6100.0,8.04,29.6,clear
+1500,Green Gram (Moong),Vadodara,2017-02-18,7000.0,8.25,36.4,clear
+1501,Green Gram (Moong),Vadodara,2017-01-03,7000.0,11.55,28.8,clear
+1502,Green Gram (Moong),Vadodara,2017-11-03,7000.0,2.25,34.6,clear
+1503,Green Gram (Moong),Vadodara,2017-03-25,7000.0,7.8,38.2,clear
+1504,Green Gram (Moong),Vadodara,2017-07-21,7000.0,0.9,32.2,rain
+1505,Green Gram (Moong),Vadodara,2017-07-08,7000.0,3.48,35.0,clear
+1506,Green Gram (Moong),Vadodara,2017-08-25,7000.0,4.5,33.2,clear
+1507,Green Gram (Moong),Vadodara,2017-08-26,7000.0,4.5,31.0,rain
+1508,Green Gram (Moong),Vadodara,2017-08-28,7000.0,6.6,29.0,rain
+1509,Green Gram (Moong),Vadodara,2017-10-17,6100.0,17.16,37.4,clear
+1510,Green Gram (Moong),Vadodara,2017-10-18,6100.0,13.23,36.8,clear

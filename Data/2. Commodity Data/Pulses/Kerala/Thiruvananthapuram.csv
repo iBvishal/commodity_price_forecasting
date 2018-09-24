@@ -1,0 +1,783 @@
+,Unnamed: 0,comm_name,state_name,district_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity
+51509,51510,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Thiruvananthapuram,2012-03-01,5200.0,2.0
+51510,51511,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Thiruvananthapuram,2012-06-01,4800.0,2.0
+51511,51512,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Thiruvananthapuram,2012-10-01,4800.0,3.0
+51512,51513,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Thiruvananthapuram,2012-01-13,5000.0,2.0
+51513,51514,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Thiruvananthapuram,2012-01-17,5000.0,3.0
+51514,51515,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Thiruvananthapuram,2012-01-20,5000.0,2.0
+51515,51516,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Thiruvananthapuram,2012-01-24,5700.0,2.0
+99941,99942,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Thiruvananthapuram,2012-03-01,5900.0,5.0
+99942,99943,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Thiruvananthapuram,2012-06-01,5700.0,8.0
+99943,99944,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Thiruvananthapuram,2012-10-01,5700.0,10.0
+99944,99945,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Thiruvananthapuram,2012-01-13,5950.0,5.0
+99945,99946,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Thiruvananthapuram,2012-01-17,5950.0,7.0
+99946,99947,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Thiruvananthapuram,2012-01-20,5700.0,5.0
+99947,99948,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Thiruvananthapuram,2012-01-24,5700.0,5.0
+134242,134243,Green Gram (Moong),Kerala,Thiruvananthapuram,Thiruvananthapuram,2012-03-01,6000.0,10.0
+134243,134244,Green Gram (Moong),Kerala,Thiruvananthapuram,Thiruvananthapuram,2012-06-01,6200.0,15.0
+134244,134245,Green Gram (Moong),Kerala,Thiruvananthapuram,Thiruvananthapuram,2012-10-01,6200.0,10.0
+134245,134246,Green Gram (Moong),Kerala,Thiruvananthapuram,Thiruvananthapuram,2012-01-13,6400.0,10.0
+134246,134247,Green Gram (Moong),Kerala,Thiruvananthapuram,Thiruvananthapuram,2012-01-17,6400.0,10.0
+134247,134248,Green Gram (Moong),Kerala,Thiruvananthapuram,Thiruvananthapuram,2012-01-20,6500.0,10.0
+134248,134249,Green Gram (Moong),Kerala,Thiruvananthapuram,Thiruvananthapuram,2012-01-24,6500.0,10.0
+210232,210233,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-02-15,4850.0,3.0
+210233,210234,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-02-19,5000.0,4.0
+210234,210235,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-02-22,4800.0,4.0
+210235,210236,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-01-03,4900.0,4.0
+210236,210237,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-05-03,4800.0,4.0
+210237,210238,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-08-03,4850.0,4.0
+210238,210239,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-12-03,4900.0,4.0
+210239,210240,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-03-26,4800.0,4.0
+210240,210241,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-02-04,4800.0,4.0
+210241,210242,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-05-04,4800.0,4.0
+210242,210243,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-04-16,4900.0,4.0
+210243,210244,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-04-23,4900.0,4.0
+210244,210245,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-03-05,4800.0,5.0
+210245,210246,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-05-21,6450.0,5.0
+210246,210247,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-05-24,6400.0,5.0
+210247,210248,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-05-28,6300.0,5.0
+210248,210249,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-05-31,6450.0,5.0
+210249,210250,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-04-06,6450.0,5.0
+210250,210251,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-07-06,6200.0,5.0
+210251,210252,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-06-14,6100.0,5.0
+210252,210253,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-06-18,4600.0,5.0
+210253,210254,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-06-21,6100.0,5.0
+210254,210255,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-06-25,5600.0,5.0
+210255,210256,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-06-28,4500.0,5.0
+210256,210257,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-02-07,5600.0,5.0
+210257,210258,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-05-07,5800.0,5.0
+210258,210259,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-09-07,5600.0,5.0
+210259,210260,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-12-07,5600.0,5.0
+210260,210261,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-07-16,5600.0,5.0
+210261,210262,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-07-23,5600.0,5.0
+210262,210263,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-07-26,5600.0,5.0
+210263,210264,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-02-08,5450.0,5.0
+210264,210265,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-08-16,5500.0,5.0
+210265,210266,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-08-20,5500.0,5.0
+210266,210267,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-08-23,5500.0,5.0
+210267,210268,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-08-27,5500.0,5.0
+210268,210269,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-08-30,5800.0,5.0
+210269,210270,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2013-03-09,5600.0,5.0
+261981,261982,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-02-15,5075.0,7.0
+261982,261983,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-02-19,5205.0,13.0
+261983,261984,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-02-22,5200.0,12.0
+261984,261985,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-01-03,5200.0,12.0
+261985,261986,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-05-03,5750.0,11.0
+261986,261987,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-08-03,5200.0,10.0
+261987,261988,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-12-03,5150.0,10.0
+261988,261989,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-03-26,5350.0,5.0
+261989,261990,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-02-04,5450.0,12.0
+261990,261991,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-05-04,5350.0,12.0
+261991,261992,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-04-16,5150.0,12.0
+261992,261993,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-04-23,5150.0,12.0
+261993,261994,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-03-05,5250.0,12.0
+261994,261995,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-05-21,5600.0,12.0
+261995,261996,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-05-24,5500.0,12.0
+261996,261997,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-05-28,5250.0,12.0
+261997,261998,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-05-31,5500.0,12.0
+261998,261999,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-04-06,5500.0,12.0
+261999,262000,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-07-06,5350.0,12.0
+262000,262001,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-06-14,5500.0,12.0
+262001,262002,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-06-18,6000.0,12.0
+262002,262003,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-06-21,5500.0,12.0
+262003,262004,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-06-25,5500.0,12.0
+262004,262005,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-06-28,5600.0,12.0
+262005,262006,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-02-07,5600.0,12.0
+262006,262007,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-05-07,5600.0,12.0
+262007,262008,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-09-07,5550.0,12.0
+262008,262009,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-12-07,5600.0,12.0
+262009,262010,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-07-16,5250.0,12.0
+262010,262011,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-07-23,5600.0,12.0
+262011,262012,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-07-26,5500.0,12.0
+262012,262013,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-02-08,5200.0,12.0
+262013,262014,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-08-16,5500.0,12.0
+262014,262015,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-08-20,5600.0,12.0
+262015,262016,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-08-23,5300.0,12.0
+262016,262017,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-08-27,5700.0,12.0
+262017,262018,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-08-30,5700.0,12.0
+262018,262019,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2013-03-09,5700.0,12.0
+292086,292087,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-04-16,6500.0,7.0
+292087,292088,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-04-23,6500.0,7.0
+292088,292089,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-03-05,6700.0,7.0
+292089,292090,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-05-21,6800.0,7.0
+292090,292091,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-05-24,6600.0,7.0
+292091,292092,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-05-28,6600.0,7.0
+292092,292093,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-05-31,6600.0,7.0
+292093,292094,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-04-06,6600.0,7.0
+292094,292095,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-07-06,6500.0,7.0
+292095,292096,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-06-14,6600.0,7.0
+292096,292097,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-06-18,6800.0,7.0
+292097,292098,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-06-21,6600.0,7.0
+292098,292099,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-06-25,6600.0,7.0
+292099,292100,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-06-28,6800.0,7.0
+292100,292101,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-02-07,6500.0,7.0
+292101,292102,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-05-07,6600.0,7.0
+292102,292103,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-09-07,6400.0,7.0
+292103,292104,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-12-07,6500.0,7.0
+292104,292105,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-07-16,6400.0,7.0
+292105,292106,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-07-23,6600.0,7.0
+292106,292107,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-07-26,6600.0,7.0
+292107,292108,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-02-08,6700.0,7.0
+292108,292109,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-08-16,7000.0,7.0
+292109,292110,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-08-20,7400.0,7.0
+292110,292111,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-08-23,7000.0,7.0
+292111,292112,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-08-27,7000.0,7.0
+292112,292113,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-08-30,7000.0,7.0
+292113,292114,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2013-03-09,7000.0,7.0
+361068,361069,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-04-02,5500.0,5.0
+361069,361070,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-07-02,5500.0,4.0
+361070,361071,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-11-02,5600.0,4.0
+361071,361072,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-02-14,5600.0,5.0
+361072,361073,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-02-21,5600.0,5.0
+361073,361074,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-02-25,5600.0,5.0
+361074,361075,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-02-28,5600.0,5.0
+361075,361076,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-04-03,5600.0,5.0
+361076,361077,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-07-03,5600.0,5.0
+361077,361078,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-11-03,5700.0,5.0
+361078,361079,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-03-14,6000.0,5.0
+361079,361080,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-03-18,6200.0,5.0
+361080,361081,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-03-21,6450.0,5.0
+361081,361082,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-03-25,6650.0,5.0
+361082,361083,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-03-28,4800.0,5.0
+361083,361084,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-01-04,6450.0,5.0
+361084,361085,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-04-04,7600.0,5.0
+361085,361086,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-08-04,6650.0,5.0
+361086,361087,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-11-04,7000.0,6.0
+361087,361088,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-04-22,6850.0,6.0
+361088,361089,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-04-29,6800.0,6.0
+361089,361090,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-06-05,6900.0,6.0
+361090,361091,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-09-05,6800.0,6.0
+361091,361092,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-11-07,6500.0,6.0
+361092,361093,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-07-15,6500.0,6.0
+361093,361094,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-07-22,6500.0,6.0
+361094,361095,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-07-25,6500.0,6.0
+361095,361096,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-01-08,6600.0,6.0
+361096,361097,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-05-08,6600.0,6.0
+361097,361098,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-12-08,6800.0,6.0
+361098,361099,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-08-22,6600.0,6.0
+361099,361100,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-08-26,6600.0,6.0
+361100,361101,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-08-29,6600.0,6.0
+361101,361102,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-05-09,7000.0,6.0
+361102,361103,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-09-16,6900.0,5.0
+361103,361104,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-09-19,6900.0,5.0
+361104,361105,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-09-23,6900.0,5.0
+361105,361106,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-09-26,6900.0,5.0
+361106,361107,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-09-30,6800.0,4.0
+361107,361108,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-07-10,6700.0,4.0
+361108,361109,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-10-10,6700.0,4.0
+361109,361110,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-10-14,6700.0,4.0
+361110,361111,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-10-17,6700.0,4.0
+361111,361112,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-10-21,6700.0,4.0
+361112,361113,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-10-24,6700.0,4.0
+361113,361114,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-10-28,6700.0,4.0
+361114,361115,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-10-31,6700.0,4.0
+361115,361116,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-07-11,6600.0,4.0
+361116,361117,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-11-11,6600.0,4.0
+361117,361118,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-11-14,6600.0,4.0
+361118,361119,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-11-25,6600.0,4.0
+361119,361120,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-12-16,7200.0,4.0
+361120,361121,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2014-12-23,4300.0,70.0
+410421,410422,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-01-31,6000.0,10.0
+410422,410423,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-04-02,5900.0,10.0
+410423,410424,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-07-02,5900.0,12.0
+410424,410425,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-11-02,5900.0,12.0
+410425,410426,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-02-14,5900.0,12.0
+410426,410427,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-02-21,5900.0,12.0
+410427,410428,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-02-25,6000.0,12.0
+410428,410429,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-02-28,6350.0,12.0
+410429,410430,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-04-03,5900.0,12.0
+410430,410431,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-07-03,6000.0,12.0
+410431,410432,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-11-03,5900.0,12.0
+410432,410433,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-03-14,5900.0,12.0
+410433,410434,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-03-18,6000.0,12.0
+410434,410435,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-03-21,5900.0,12.0
+410435,410436,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-03-25,5900.0,12.0
+410436,410437,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-03-28,5900.0,12.0
+410437,410438,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-01-04,6000.0,12.0
+410438,410439,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-04-04,6000.0,12.0
+410439,410440,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-08-04,6000.0,12.0
+410440,410441,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-11-04,6000.0,12.0
+410441,410442,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-04-22,6100.0,12.0
+410442,410443,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-04-29,7000.0,12.0
+410443,410444,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-06-05,6200.0,12.0
+410444,410445,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-09-05,6300.0,12.0
+410445,410446,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-11-07,8100.0,12.0
+410446,410447,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-07-15,8150.0,12.0
+410447,410448,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-07-22,8250.0,12.0
+410448,410449,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-07-25,8350.0,12.0
+410449,410450,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-01-08,8500.0,12.0
+410450,410451,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-05-08,8500.0,12.0
+410451,410452,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-12-08,8500.0,12.0
+410452,410453,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-08-22,8700.0,12.0
+410453,410454,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-08-26,8600.0,12.0
+410454,410455,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-08-29,8600.0,12.0
+410455,410456,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-05-09,8650.0,12.0
+410456,410457,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-09-16,8650.0,10.0
+410457,410458,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-09-19,8600.0,10.0
+410458,410459,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-09-23,8550.0,10.0
+410459,410460,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-09-26,8600.0,10.0
+410460,410461,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-09-30,8300.0,8.0
+410461,410462,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-07-10,8250.0,8.0
+410462,410463,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-10-10,7900.0,8.0
+410463,410464,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-10-14,8300.0,8.0
+410464,410465,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-10-17,8000.0,8.0
+410465,410466,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-10-21,8000.0,8.0
+410466,410467,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-10-24,8000.0,8.0
+410467,410468,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-10-28,7700.0,8.0
+410468,410469,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-10-31,7700.0,8.0
+410469,410470,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-04-11,7900.0,8.0
+410470,410471,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-07-11,7600.0,8.0
+410471,410472,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-11-11,7300.0,8.0
+410472,410473,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-11-14,7500.0,8.0
+410473,410474,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-11-25,7600.0,8.0
+410474,410475,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-12-12,8000.0,4.0
+410475,410476,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-12-16,7200.0,4.0
+410476,410477,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-12-23,4300.0,4.0
+410477,410478,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2014-12-26,7800.0,4.0
+439652,439653,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-01-31,9000.0,5.0
+439653,439654,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-04-02,9200.0,5.0
+439654,439655,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-07-02,9300.0,6.0
+439655,439656,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-11-02,9200.0,6.0
+439656,439657,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-02-14,9200.0,6.0
+439657,439658,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-02-21,8800.0,6.0
+439658,439659,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-02-25,8800.0,6.0
+439659,439660,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-02-28,9000.0,6.0
+439660,439661,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-04-03,9100.0,6.0
+439661,439662,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-07-03,9200.0,6.0
+439662,439663,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-11-03,9400.0,6.0
+439663,439664,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-03-14,9100.0,6.0
+439664,439665,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-03-18,9400.0,6.0
+439665,439666,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-03-21,8800.0,6.0
+439666,439667,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-03-25,9200.0,6.0
+439667,439668,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-03-28,9000.0,6.0
+439668,439669,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-01-04,9200.0,6.0
+439669,439670,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-04-04,9200.0,6.0
+439670,439671,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-08-04,9000.0,6.0
+439671,439672,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-11-04,9000.0,6.0
+439672,439673,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-04-22,8600.0,6.0
+439673,439674,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-04-29,8700.0,6.0
+439674,439675,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-06-05,8650.0,6.0
+439675,439676,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-09-05,8600.0,6.0
+439676,439677,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-11-07,8800.0,6.0
+439677,439678,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-07-15,8800.0,6.0
+439678,439679,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-07-22,8600.0,6.0
+439679,439680,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-07-25,8600.0,6.0
+439680,439681,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-01-08,8600.0,6.0
+439681,439682,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-05-08,8600.0,6.0
+439682,439683,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-12-08,8100.0,6.0
+439683,439684,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-08-22,8400.0,6.0
+439684,439685,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-08-26,8400.0,6.0
+439685,439686,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-08-29,8400.0,6.0
+439686,439687,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-05-09,8400.0,6.0
+439687,439688,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-09-16,8400.0,5.0
+439688,439689,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-09-19,8600.0,5.0
+439689,439690,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-09-23,8400.0,5.0
+439690,439691,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-09-26,8600.0,5.0
+439691,439692,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-09-30,8500.0,4.0
+439692,439693,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-07-10,8400.0,4.0
+439693,439694,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-10-10,8400.0,4.0
+439694,439695,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-10-14,8400.0,4.0
+439695,439696,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-10-17,8600.0,4.0
+439696,439697,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-10-21,8600.0,4.0
+439697,439698,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-10-24,8600.0,4.0
+439698,439699,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-10-28,8700.0,4.0
+439699,439700,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-10-31,8700.0,4.0
+439700,439701,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-07-11,9000.0,4.0
+439701,439702,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-11-11,9500.0,4.0
+439702,439703,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-11-14,9800.0,4.0
+439703,439704,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-11-25,9600.0,4.0
+439704,439705,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-09-12,9300.0,4.0
+439705,439706,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-12-12,9225.0,4.0
+439706,439707,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-12-16,9200.0,4.0
+439707,439708,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-12-23,9500.0,4.0
+439708,439709,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2014-12-26,9600.0,4.0
+529029,529030,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-03-07,5400.0,70.0
+529030,529031,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-07-07,5400.0,70.0
+529031,529032,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-10-07,6850.0,70.0
+529032,529033,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-07-14,6850.0,70.0
+529033,529034,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-07-21,6600.0,70.0
+529034,529035,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-07-28,6950.0,10.0
+529035,529036,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-07-31,6800.0,7.0
+529036,529037,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-07-08,6650.0,70.0
+529037,529038,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-08-18,6650.0,70.0
+529038,529039,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-08-21,6650.0,70.0
+529039,529040,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-08-25,6650.0,70.0
+529040,529041,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-01-09,6650.0,70.0
+529041,529042,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-04-09,6850.0,7.0
+529042,529043,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-08-09,6850.0,7.0
+529043,529044,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-11-09,6850.0,4.0
+529044,529045,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-09-15,6850.0,7.0
+529045,529046,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-09-18,6950.0,7.0
+529046,529047,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-09-22,6950.0,7.0
+529047,529048,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-09-25,7000.0,7.0
+529048,529049,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-09-29,7000.0,7.0
+529049,529050,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-06-10,7000.0,7.0
+529050,529051,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-09-10,7200.0,7.0
+529051,529052,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-10-13,7200.0,7.0
+529052,529053,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-10-16,7600.0,7.0
+529053,529054,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-10-20,7600.0,7.0
+529054,529055,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-10-30,8200.0,7.0
+529055,529056,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-06-11,8200.0,7.0
+529056,529057,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-11-13,8400.0,7.0
+529057,529058,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-11-17,8400.0,7.0
+529058,529059,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-11-24,8400.0,7.0
+529059,529060,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2015-11-27,5600.0,7.0
+588124,588125,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-06-01,7900.0,4.0
+588125,588126,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-09-01,4600.0,4.0
+588126,588127,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-01-13,8000.0,4.0
+588127,588128,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-01-16,8000.0,4.0
+588128,588129,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-01-20,8000.0,4.0
+588129,588130,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-01-23,8000.0,8.0
+588130,588131,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-01-30,8200.0,8.0
+588131,588132,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-03-02,8100.0,8.0
+588132,588133,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-06-02,8000.0,8.0
+588133,588134,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-10-02,8000.0,8.0
+588134,588135,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-02-20,8100.0,8.0
+588135,588136,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-02-24,8100.0,8.0
+588136,588137,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-02-27,7800.0,8.0
+588137,588138,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-03-03,7800.0,8.0
+588138,588139,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-06-03,7900.0,8.0
+588139,588140,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-03-17,7900.0,8.0
+588140,588141,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-03-20,8200.0,8.0
+588141,588142,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-03-24,8200.0,8.0
+588142,588143,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-03-27,8300.0,8.0
+588143,588144,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-07-04,8300.0,8.0
+588144,588145,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-10-04,8600.0,8.0
+588145,588146,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-04-21,8600.0,8.0
+588146,588147,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-04-24,9200.0,8.0
+588147,588148,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-05-05,9200.0,8.0
+588148,588149,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-08-05,11000.0,8.0
+588149,588150,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-12-05,11000.0,8.0
+588150,588151,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-05-15,10800.0,8.0
+588151,588152,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-05-19,10800.0,8.0
+588152,588153,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-05-22,11000.0,8.0
+588153,588154,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-05-26,11000.0,8.0
+588154,588155,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-05-29,11000.0,8.0
+588155,588156,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-02-06,11000.0,8.0
+588156,588157,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-06-16,11000.0,8.0
+588157,588158,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-06-19,11000.0,8.0
+588158,588159,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-06-23,11000.0,8.0
+588159,588160,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-06-26,11000.0,8.0
+588160,588161,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-06-30,11000.0,8.0
+588161,588162,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-03-07,10300.0,8.0
+588162,588163,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-07-07,10300.0,8.0
+588163,588164,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-10-07,10650.0,8.0
+588164,588165,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-07-14,10650.0,8.0
+588165,588166,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-07-21,8400.0,4.0
+588166,588167,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-07-28,10300.0,8.0
+588167,588168,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-07-31,10800.0,10.0
+588168,588169,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-07-08,10800.0,8.0
+588169,588170,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-08-18,10800.0,8.0
+588170,588171,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-08-21,10800.0,8.0
+588171,588172,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-08-25,10800.0,8.0
+588172,588173,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-01-09,10800.0,8.0
+588173,588174,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-04-09,11150.0,8.0
+588174,588175,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-08-09,11150.0,8.0
+588175,588176,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-11-09,10300.0,8.0
+588176,588177,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-09-15,11750.0,8.0
+588177,588178,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-09-18,11650.0,8.0
+588178,588179,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-09-22,11650.0,8.0
+588179,588180,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-09-25,12200.0,8.0
+588180,588181,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-09-29,12200.0,8.0
+588181,588182,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-06-10,12200.0,8.0
+588182,588183,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-09-10,12500.0,0.0
+588183,588184,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-10-13,12500.0,8.0
+588184,588185,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-10-16,13600.0,8.0
+588185,588186,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-10-20,13600.0,8.0
+588186,588187,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-10-30,16100.0,8.0
+588187,588188,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-06-11,16100.0,8.0
+588188,588189,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-11-13,15750.0,8.0
+588189,588190,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-11-17,15750.0,8.0
+588190,588191,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-11-24,15750.0,8.0
+588191,588192,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-11-27,12200.0,8.0
+588192,588193,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-01-12,15000.0,8.0
+588193,588194,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-04-12,15500.0,8.0
+588194,588195,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-08-12,15500.0,8.0
+588195,588196,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-11-12,15200.0,8.0
+588196,588197,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-12-15,15200.0,8.0
+588197,588198,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-12-22,15200.0,8.0
+588198,588199,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2015-12-29,15200.0,8.0
+628574,628575,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-06-01,9000.0,4.0
+628575,628576,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-09-01,9600.0,4.0
+628576,628577,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-01-13,8800.0,4.0
+628577,628578,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-01-16,9000.0,4.0
+628578,628579,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-01-20,9200.0,4.0
+628579,628580,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-01-23,9200.0,4.0
+628580,628581,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-01-30,9600.0,4.0
+628581,628582,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-03-02,9600.0,4.0
+628582,628583,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-06-02,9000.0,4.0
+628583,628584,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-10-02,9000.0,4.0
+628584,628585,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-02-20,9600.0,4.0
+628585,628586,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-02-24,9600.0,4.0
+628586,628587,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-02-27,9000.0,4.0
+628587,628588,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-03-03,9000.0,4.0
+628588,628589,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-06-03,9000.0,4.0
+628589,628590,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-03-17,9000.0,4.0
+628590,628591,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-03-20,9400.0,4.0
+628591,628592,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-03-24,9400.0,4.0
+628592,628593,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-03-27,9300.0,4.0
+628593,628594,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-07-04,9300.0,4.0
+628594,628595,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-10-04,9400.0,4.0
+628595,628596,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-04-21,9400.0,4.0
+628596,628597,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-04-24,9400.0,4.0
+628597,628598,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-04-28,9400.0,4.0
+628598,628599,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-05-05,9400.0,4.0
+628599,628600,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-08-05,9600.0,4.0
+628600,628601,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-12-05,9600.0,4.0
+628601,628602,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-05-15,9400.0,4.0
+628602,628603,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-05-19,9400.0,4.0
+628603,628604,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-05-22,9600.0,4.0
+628604,628605,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-05-26,9600.0,4.0
+628605,628606,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-05-29,9600.0,4.0
+628606,628607,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-06-16,8500.0,4.0
+628607,628608,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-06-19,8500.0,4.0
+628608,628609,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-06-23,8500.0,4.0
+628609,628610,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-06-26,8625.0,4.0
+628610,628611,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-06-30,8600.0,4.0
+628611,628612,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-03-07,10300.0,8.0
+628612,628613,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-07-07,8625.0,4.0
+628613,628614,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-10-07,9600.0,4.0
+628614,628615,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-07-14,9600.0,4.0
+628615,628616,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-07-17,8400.0,4.0
+628616,628617,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-07-21,8400.0,4.0
+628617,628618,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-07-28,9000.0,4.0
+628618,628619,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-07-31,9000.0,4.0
+628619,628620,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-07-08,9000.0,4.0
+628620,628621,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-08-18,9000.0,4.0
+628621,628622,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-08-21,10800.0,8.0
+628622,628623,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-08-25,9000.0,4.0
+628623,628624,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-01-09,9000.0,4.0
+628624,628625,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-04-09,11150.0,8.0
+628625,628626,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-08-09,8600.0,4.0
+628626,628627,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-11-09,8600.0,4.0
+628627,628628,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-09-15,8600.0,4.0
+628628,628629,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-09-18,11650.0,8.0
+628629,628630,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-09-22,8600.0,4.0
+628630,628631,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-09-25,8600.0,4.0
+628631,628632,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-09-29,8600.0,4.0
+628632,628633,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-06-10,12200.0,8.0
+628633,628634,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-09-10,10000.0,4.0
+628634,628635,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-10-13,10000.0,4.0
+628635,628636,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-10-16,10000.0,4.0
+628636,628637,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-10-20,10000.0,4.0
+628637,628638,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-10-30,10000.0,4.0
+628638,628639,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-06-11,10000.0,4.0
+628639,628640,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-11-13,15750.0,8.0
+628640,628641,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-11-17,9600.0,4.0
+628641,628642,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-11-24,9600.0,4.0
+628642,628643,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-11-27,9400.0,4.0
+628643,628644,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-01-12,9400.0,4.0
+628644,628645,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-04-12,9600.0,4.0
+628645,628646,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-08-12,9600.0,4.0
+628646,628647,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-11-12,9600.0,4.0
+628647,628648,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-12-15,9600.0,4.0
+628648,628649,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-12-22,9400.0,8.0
+628649,628650,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2015-12-29,9400.0,4.0
+753689,753690,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-01-29,8600.0,8.0
+753690,753691,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-02-02,8450.0,7.0
+753691,753692,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-12-02,8850.0,8.0
+753692,753693,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-02-16,8850.0,8.0
+753693,753694,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-04-03,7400.0,8.0
+753694,753695,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-08-03,7400.0,8.0
+753695,753696,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-11-03,6400.0,8.0
+753696,753697,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-03-18,8000.0,8.0
+753697,753698,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-03-29,8000.0,8.0
+753698,753699,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-05-04,9000.0,8.0
+753699,753700,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-08-04,9300.0,8.0
+753700,753701,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-04-15,10800.0,8.0
+753701,753702,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-04-19,10800.0,8.0
+753702,753703,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-04-22,8800.0,8.0
+753703,753704,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-04-26,8800.0,8.0
+753704,753705,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-04-30,9000.0,8.0
+753705,753706,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-03-05,9000.0,8.0
+753706,753707,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-06-05,9000.0,8.0
+753707,753708,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-10-05,9000.0,8.0
+753708,753709,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-05-13,9000.0,8.0
+753709,753710,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-05-17,9000.0,8.0
+753710,753711,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-05-20,9000.0,8.0
+753711,753712,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-05-24,9000.0,8.0
+753712,753713,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-05-27,9000.0,8.0
+753713,753714,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-05-31,9000.0,8.0
+753714,753715,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-03-06,11000.0,8.0
+753715,753716,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-07-06,11000.0,8.0
+753716,753717,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-06-14,11000.0,8.0
+753717,753718,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-06-17,9000.0,8.0
+753718,753719,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-06-21,9000.0,8.0
+753719,753720,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-06-24,9000.0,8.0
+753720,753721,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-06-28,9000.0,8.0
+753721,753722,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-01-07,10000.0,8.0
+753722,753723,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-05-07,10000.0,8.0
+753723,753724,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-08-07,13000.0,8.0
+753724,753725,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-07-15,13800.0,8.0
+753725,753726,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-07-22,10800.0,8.0
+753726,753727,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-07-26,10800.0,8.0
+753727,753728,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-07-29,10800.0,8.0
+753728,753729,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-05-08,14600.0,8.0
+753729,753730,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-08-08,14600.0,8.0
+753730,753731,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-09-08,14600.0,8.0
+753731,753732,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-11-08,14600.0,8.0
+753732,753733,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-12-08,10500.0,8.0
+753733,753734,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-08-16,10500.0,8.0
+753734,753735,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-08-19,13000.0,8.0
+753735,753736,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-08-23,13000.0,8.0
+753736,753737,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-08-26,10200.0,8.0
+753737,753738,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-08-30,10200.0,8.0
+753738,753739,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-06-09,10200.0,8.0
+753739,753740,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-09-09,14000.0,8.0
+753740,753741,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-09-20,10200.0,8.0
+753741,753742,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-09-23,10200.0,8.0
+753742,753743,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-09-27,10500.0,8.0
+753743,753744,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-09-30,10500.0,8.0
+753744,753745,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-04-10,10500.0,8.0
+753745,753746,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-07-10,15000.0,8.0
+753746,753747,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-10-14,15300.0,8.0
+753747,753748,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-10-18,15300.0,8.0
+753748,753749,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-10-21,10500.0,8.0
+753749,753750,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-10-25,10500.0,8.0
+753750,753751,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-10-28,10500.0,8.0
+753751,753752,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-01-11,10500.0,8.0
+753752,753753,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-08-11,10500.0,8.0
+753753,753754,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-11-15,10500.0,8.0
+753754,753755,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-11-18,14300.0,8.0
+753755,753756,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-11-22,14300.0,8.0
+753756,753757,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-11-25,14300.0,8.0
+753757,753758,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-11-29,14300.0,8.0
+753758,753759,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-02-12,14300.0,5.0
+753759,753760,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-09-12,15000.0,5.0
+753760,753761,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-12-13,15000.0,5.0
+753761,753762,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-12-16,12000.0,5.0
+753762,753763,Bengal Gram(Gram),Kerala,Thiruvananthapuram,Chala,2016-12-20,12000.0,5.0
+832586,832587,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-01-01,14700.0,8.0
+832587,832588,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-05-01,14700.0,8.0
+832588,832589,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-08-01,14600.0,8.0
+832589,832590,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-12-01,14600.0,8.0
+832590,832591,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-01-19,14600.0,8.0
+832591,832592,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-01-22,14000.0,8.0
+832592,832593,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-01-29,14050.0,8.0
+832593,832594,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-02-02,14050.0,8.0
+832594,832595,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-12-02,14000.0,8.0
+832595,832596,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-02-16,14000.0,8.0
+832596,832597,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-01-03,13800.0,8.0
+832597,832598,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-04-03,12500.0,8.0
+832598,832599,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-08-03,12500.0,8.0
+832599,832600,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-11-03,12700.0,8.0
+832600,832601,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-03-18,12850.0,8.0
+832601,832602,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-03-29,12850.0,8.0
+832602,832603,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-01-04,12600.0,8.0
+832603,832604,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-05-04,12600.0,8.0
+832604,832605,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-08-04,14100.0,8.0
+832605,832606,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-12-04,14100.0,8.0
+832606,832607,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-04-15,14600.0,8.0
+832607,832608,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-04-19,14600.0,8.0
+832608,832609,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-04-22,16000.0,8.0
+832609,832610,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-04-26,16000.0,8.0
+832610,832611,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-04-30,16100.0,8.0
+832611,832612,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-03-05,16100.0,8.0
+832612,832613,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-06-05,15900.0,8.0
+832613,832614,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-10-05,15900.0,8.0
+832614,832615,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-05-13,15650.0,8.0
+832615,832616,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-05-17,15650.0,8.0
+832616,832617,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-05-20,15750.0,4.0
+832617,832618,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-05-24,15750.0,8.0
+832618,832619,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-05-27,15650.0,8.0
+832619,832620,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-05-31,15650.0,8.0
+832620,832621,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-03-06,15400.0,8.0
+832621,832622,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-07-06,15400.0,8.0
+832622,832623,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-06-14,15400.0,8.0
+832623,832624,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-06-17,15500.0,8.0
+832624,832625,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-06-21,15500.0,8.0
+832625,832626,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-06-24,14900.0,8.0
+832626,832627,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-06-28,14900.0,8.0
+832627,832628,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-01-07,15100.0,8.0
+832628,832629,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-05-07,15100.0,8.0
+832629,832630,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-08-07,14900.0,8.0
+832630,832631,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-07-15,14700.0,5.0
+832631,832632,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-07-22,14500.0,10.0
+832632,832633,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-07-26,14500.0,10.0
+832633,832634,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-07-29,13650.0,10.0
+832634,832635,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-05-08,13100.0,10.0
+832635,832636,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-08-08,13100.0,10.0
+832636,832637,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-09-08,13100.0,10.0
+832637,832638,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-11-08,13100.0,10.0
+832638,832639,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-12-08,13250.0,10.0
+832639,832640,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-08-16,13650.0,10.0
+832640,832641,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-08-19,12800.0,10.0
+832641,832642,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-08-23,12800.0,10.0
+832642,832643,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-08-26,12750.0,16.0
+832643,832644,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-08-30,12750.0,16.0
+832644,832645,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-06-09,12750.0,16.0
+832645,832646,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-09-09,11500.0,16.0
+832646,832647,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-09-20,10900.0,16.0
+832647,832648,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-09-23,10900.0,16.0
+832648,832649,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-09-27,11650.0,16.0
+832649,832650,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-09-30,11650.0,16.0
+832650,832651,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-04-10,11650.0,16.0
+832651,832652,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-07-10,11850.0,16.0
+832652,832653,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-10-14,11400.0,16.0
+832653,832654,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-10-18,11400.0,16.0
+832654,832655,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-10-21,11550.0,16.0
+832655,832656,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-10-25,11550.0,16.0
+832656,832657,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-10-28,11150.0,16.0
+832657,832658,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-08-11,11150.0,16.0
+832658,832659,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-11-15,11150.0,16.0
+832659,832660,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-11-18,9750.0,16.0
+832660,832661,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-11-22,9750.0,16.0
+832661,832662,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-11-25,9700.0,16.0
+832662,832663,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-11-29,9700.0,16.0
+832663,832664,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-02-12,9700.0,8.0
+832664,832665,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-09-12,9600.0,8.0
+832665,832666,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-12-13,9600.0,8.0
+832666,832667,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-12-16,9300.0,8.0
+832667,832668,Black Gram (Urd Beans),Kerala,Thiruvananthapuram,Chala,2016-12-20,9300.0,8.0
+878197,878198,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-01-01,9400.0,4.0
+878198,878199,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-05-01,9400.0,4.0
+878199,878200,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-08-01,9300.0,4.0
+878200,878201,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-12-01,9300.0,4.0
+878201,878202,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-01-19,9300.0,4.0
+878202,878203,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-01-22,9000.0,4.0
+878203,878204,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-01-29,9600.0,4.0
+878204,878205,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-02-02,9600.0,4.0
+878205,878206,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-12-02,9600.0,4.0
+878206,878207,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-02-16,9600.0,4.0
+878207,878208,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-01-03,9400.0,4.0
+878208,878209,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-04-03,9000.0,4.0
+878209,878210,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-08-03,9000.0,4.0
+878210,878211,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-11-03,8900.0,4.0
+878211,878212,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-03-18,9000.0,4.0
+878212,878213,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-03-29,9000.0,4.0
+878213,878214,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-01-04,9600.0,4.0
+878214,878215,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-05-04,9600.0,4.0
+878215,878216,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-08-04,9000.0,4.0
+878216,878217,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-12-04,9000.0,4.0
+878217,878218,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-04-15,9400.0,4.0
+878218,878219,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-04-19,9400.0,4.0
+878219,878220,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-04-22,9600.0,4.0
+878220,878221,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-04-26,9600.0,4.0
+878221,878222,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-04-30,9400.0,4.0
+878222,878223,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-03-05,9400.0,4.0
+878223,878224,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-06-05,9000.0,4.0
+878224,878225,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-10-05,9000.0,4.0
+878225,878226,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-05-13,9050.0,4.0
+878226,878227,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-05-17,9050.0,4.0
+878227,878228,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-05-20,8500.0,4.0
+878228,878229,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-05-24,8500.0,4.0
+878229,878230,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-05-27,9200.0,4.0
+878230,878231,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-05-31,9200.0,4.0
+878231,878232,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-03-06,8800.0,4.0
+878232,878233,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-06-14,8800.0,4.0
+878233,878234,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-06-17,9000.0,4.0
+878234,878235,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-06-21,9000.0,4.0
+878235,878236,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-06-24,7400.0,4.0
+878236,878237,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-06-28,7400.0,4.0
+878237,878238,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-01-07,8000.0,4.0
+878238,878239,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-05-07,15100.0,4.0
+878239,878240,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-08-07,8000.0,4.0
+878240,878241,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-07-15,7800.0,5.0
+878241,878242,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-07-22,7800.0,5.0
+878242,878243,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-07-26,7800.0,5.0
+878243,878244,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-07-29,7800.0,5.0
+878244,878245,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-05-08,7600.0,5.0
+878245,878246,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-08-08,7600.0,5.0
+878246,878247,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-09-08,7600.0,5.0
+878247,878248,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-11-08,7600.0,5.0
+878248,878249,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-12-08,7200.0,5.0
+878249,878250,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-08-16,7200.0,5.0
+878250,878251,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-08-19,7800.0,5.0
+878251,878252,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-08-23,7600.0,5.0
+878252,878253,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-08-26,7000.0,7.0
+878253,878254,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-08-30,7000.0,7.0
+878254,878255,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-06-09,7000.0,7.0
+878255,878256,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-09-09,6800.0,7.0
+878256,878257,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-09-20,7000.0,7.0
+878257,878258,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-09-23,7000.0,7.0
+878258,878259,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-09-27,7000.0,7.0
+878259,878260,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-09-30,7000.0,7.0
+878260,878261,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-04-10,7000.0,7.0
+878261,878262,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-07-10,6800.0,7.0
+878262,878263,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-10-14,7000.0,7.0
+878263,878264,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-10-18,7000.0,7.0
+878264,878265,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-10-21,6500.0,7.0
+878265,878266,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-10-25,6500.0,7.0
+878266,878267,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-10-28,6600.0,7.0
+878267,878268,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-08-11,11150.0,16.0
+878268,878269,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-11-15,6600.0,7.0
+878269,878270,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-11-18,7000.0,7.0
+878270,878271,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-11-22,7000.0,7.0
+878271,878272,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-11-25,7000.0,7.0
+878272,878273,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-11-29,7000.0,7.0
+878273,878274,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-02-12,7000.0,3.0
+878274,878275,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-09-12,7000.0,3.0
+878275,878276,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-12-13,7000.0,3.0
+878276,878277,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-12-16,7000.0,3.0
+878277,878278,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-12-20,7000.0,3.0
+878278,878279,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-12-23,7000.0,3.0
+878279,878280,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2016-12-27,8900.0,3.0
+1124772,1124773,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-03-01,6800.0,3.0
+1124773,1124774,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-06-01,6600.0,3.0
+1124774,1124775,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-10-01,6600.0,3.0
+1124775,1124776,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-01-17,6600.0,3.0
+1124776,1124777,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-01-20,6600.0,3.0
+1124777,1124778,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-01-24,6600.0,3.0
+1124778,1124779,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-01-31,6600.0,3.0
+1124779,1124780,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-03-02,6600.0,3.0
+1124780,1124781,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-07-02,6600.0,3.0
+1124781,1124782,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-10-02,6600.0,3.0
+1124782,1124783,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-02-14,6600.0,3.0
+1124783,1124784,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-02-17,6600.0,3.0
+1124784,1124785,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-02-21,6600.0,3.0
+1124785,1124786,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-03-03,7826.0,3.0
+1124786,1124787,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-07-03,7800.0,3.0
+1124787,1124788,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-10-03,7800.0,3.0
+1124788,1124789,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-03-14,7800.0,3.0
+1124789,1124790,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-03-17,6800.0,3.0
+1124790,1124791,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-03-21,6800.0,3.0
+1124791,1124792,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-03-24,7000.0,3.0
+1124792,1124793,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-03-28,7000.0,3.0
+1124793,1124794,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-03-31,7000.0,3.0
+1124794,1124795,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-04-04,7000.0,5.0
+1124795,1124796,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-07-04,7000.0,5.0
+1124796,1124797,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-04-18,7000.0,5.0
+1124797,1124798,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-04-21,7000.0,5.0
+1124798,1124799,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-04-25,7000.0,5.0
+1124799,1124800,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-04-28,7000.0,5.0
+1124800,1124801,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-02-05,7000.0,5.0
+1124801,1124802,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-05-05,7400.0,5.0
+1124802,1124803,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-09-05,7400.0,5.0
+1124803,1124804,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-05-16,7800.0,5.0
+1124804,1124805,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-05-19,7800.0,5.0
+1124805,1124806,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-05-23,7000.0,1.0
+1124806,1124807,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-05-30,7000.0,1.0
+1124807,1124808,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-06-06,7000.0,1.0
+1124808,1124809,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-09-06,6500.0,1.0
+1124809,1124810,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-06-13,6525.0,1.0
+1124810,1124811,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-06-16,6500.0,1.0
+1124811,1124812,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-06-20,6500.0,1.0
+1124812,1124813,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-06-23,6600.0,1.0
+1124813,1124814,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-06-27,6600.0,1.0
+1124814,1124815,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-06-30,6600.0,1.0
+1124815,1124816,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-04-07,6800.0,1.0
+1124816,1124817,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-07-07,6800.0,1.0
+1124817,1124818,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-11-07,6800.0,1.0
+1124818,1124819,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-07-14,6800.0,1.0
+1124819,1124820,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-07-18,6400.0,1.0
+1124820,1124821,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-07-25,6800.0,1.0
+1124821,1124822,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-07-28,6600.0,2.0
+1124822,1124823,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-04-08,6600.0,5.0
+1124823,1124824,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-08-08,6600.0,5.0
+1124824,1124825,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-11-08,6800.0,5.0
+1124825,1124826,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-08-18,6600.0,5.0
+1124826,1124827,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-08-22,6600.0,5.0
+1124827,1124828,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-08-25,6600.0,5.0
+1124828,1124829,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-08-09,6600.0,5.0
+1124829,1124830,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-09-19,7600.0,5.0
+1124830,1124831,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-09-22,7000.0,5.0
+1124831,1124832,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-09-26,7000.0,5.0
+1124832,1124833,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-03-10,7000.0,5.0
+1124833,1124834,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-06-10,6800.0,5.0
+1124834,1124835,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-10-10,6800.0,5.0
+1124835,1124836,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-10-13,7000.0,5.0
+1124836,1124837,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-10-17,7000.0,5.0
+1124837,1124838,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-10-20,7000.0,5.0
+1124838,1124839,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-10-24,7000.0,5.0
+1124839,1124840,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-10-27,6600.0,5.0
+1124840,1124841,Green Gram (Moong),Kerala,Thiruvananthapuram,Chala,2017-10-31,6600.0,5.0

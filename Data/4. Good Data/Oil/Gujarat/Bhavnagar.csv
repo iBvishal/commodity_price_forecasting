@@ -1,0 +1,1146 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Groundnut,Bhavnagar,2014-08-10,3732.5,0.0,30.6,clear
+1,Groundnut,Botad,2014-08-10,3100.0,0.3,30.6,clear
+2,Mustard,Botad,2014-08-10,4345.0,0.3,30.6,clear
+3,Groundnut,Bhavnagar,2015-04-20,3768.33,18.1,37.2,clear
+4,Groundnut,Mahuva(Station Road),2015-04-20,4125.0,7.4,37.2,clear
+5,Groundnut,Taleja,2015-04-20,4060.0,0.81,37.2,clear
+6,Mustard,Bhavnagar,2015-04-20,3360.0,0.5,37.2,clear
+7,Groundnut,Bhavnagar,2015-12-10,3940.0,125.6,29.0,clear
+8,Groundnut,Mahuva(Station Road),2015-12-10,4087.5,274.9,29.0,clear
+9,Groundnut,Bhavnagar,2015-12-15,3995.0,41.0,25.2,clear
+10,Groundnut,Palitana,2015-12-15,3500.0,2.0,25.2,clear
+11,Groundnut,Bhavnagar,2015-12-16,4135.0,83.5,27.6,clear
+12,Groundnut,Mahuva(Station Road),2015-12-16,4125.0,115.4,27.6,clear
+13,Groundnut,Bhavnagar,2015-12-17,4230.0,55.8,26.6,clear
+14,Groundnut,Bhavnagar,2015-12-18,4142.5,67.0,26.4,clear
+15,Groundnut,Mahuva(Station Road),2015-12-18,4562.5,122.5,26.4,clear
+16,Groundnut,Bhavnagar,2015-12-19,4017.5,57.1,27.0,clear
+17,Groundnut,Palitana,2015-12-19,3250.0,3.0,27.0,clear
+18,Groundnut,Bhavnagar,2015-12-21,4137.5,81.6,25.8,clear
+19,Groundnut,Mahuva(Station Road),2015-12-21,4300.0,50.5,25.8,clear
+20,Groundnut,Palitana,2015-12-21,3250.0,4.0,25.8,clear
+21,Groundnut,Bhavnagar,2015-12-22,4395.0,46.9,26.4,clear
+22,Groundnut,Palitana,2015-12-22,4000.0,7.0,26.4,clear
+23,Groundnut,Bhavnagar,2015-12-23,4355.0,82.2,25.6,clear
+24,Groundnut,Mahuva(Station Road),2015-12-23,4600.0,100.1,25.6,clear
+25,Groundnut,Bhavnagar,2015-12-24,4610.0,77.5,24.6,clear
+26,Groundnut,Bhavnagar,2015-12-25,4265.0,74.7,24.6,clear
+27,Groundnut,Mahuva(Station Road),2015-12-25,4600.0,112.0,24.6,clear
+28,Groundnut,Palitana,2015-12-25,4000.0,1.0,24.6,clear
+29,Groundnut,Mahuva(Station Road),2015-12-12,4125.0,144.1,26.0,clear
+30,Groundnut,Palitana,2015-12-12,2750.0,2.0,26.0,clear
+31,Groundnut,Mahuva(Station Road),2015-12-14,4250.0,76.8,25.4,clear
+32,Groundnut,Mahuva(Station Road),2015-12-26,4617.5,60.9,24.8,clear
+33,Groundnut,Mahuva(Station Road),2015-12-28,4600.0,87.3,29.8,clear
+34,Groundnut,Mahuva(Station Road),2015-12-29,4662.5,123.8,32.0,clear
+35,Groundnut,Palitana,2015-12-29,4000.0,3.0,32.0,clear
+36,Groundnut,Mahuva(Station Road),2015-12-30,4640.0,107.7,32.0,clear
+37,Groundnut,Palitana,2015-12-30,4000.0,12.0,32.0,clear
+38,Groundnut,Mahuva(Station Road),2015-12-31,4662.5,80.5,31.6,clear
+39,Groundnut,Palitana,2015-12-31,4000.0,9.0,31.6,clear
+40,Groundnut,Taleja,2015-12-09,4280.0,0.7,32.0,clear
+41,Mustard,Botad,2015-12-09,3575.0,0.1,32.0,clear
+42,Mustard,Botad,2015-12-08,3545.0,0.2,32.2,clear
+43,Groundnut,Bhavnagar,2016-01-01,4402.5,99.9,31.2,clear
+44,Groundnut,Mahuva(Station Road),2016-01-01,4600.0,78.7,31.2,clear
+45,Groundnut,Palitana,2016-01-01,3750.0,1.0,31.2,clear
+46,Mustard,Botad,2016-01-01,3600.0,0.1,31.2,clear
+47,Groundnut,Bhavnagar,2016-02-01,4362.5,38.2,28.8,clear
+48,Groundnut,Mahuva(Station Road),2016-02-01,4550.0,42.6,28.8,clear
+49,Groundnut,Palitana,2016-02-01,3500.0,2.0,28.8,clear
+50,Groundnut,Bhavnagar,2016-04-01,4422.5,49.5,34.6,clear
+51,Groundnut,Palitana,2016-04-01,3750.0,13.0,34.6,clear
+52,Mustard,Bhavnagar,2016-04-01,3680.0,0.1,34.6,clear
+53,Groundnut,Bhavnagar,2016-05-01,4237.5,42.5,39.4,clear
+54,Groundnut,Mahuva(Station Road),2016-05-01,4402.5,50.4,39.4,clear
+55,Mustard,Bhavnagar,2016-05-01,1750.0,0.2,39.4,clear
+56,Groundnut,Bhavnagar,2016-06-01,4285.0,26.2,37.0,clear
+57,Groundnut,Mahuva(Station Road),2016-06-01,4432.5,73.7,37.0,clear
+58,Groundnut,Palitana,2016-06-01,3875.0,9.0,37.0,clear
+59,Mustard,Botad,2016-06-01,3645.0,0.1,37.0,clear
+60,Groundnut,Bhavnagar,2016-07-01,4390.0,29.6,32.6,clear
+61,Groundnut,Mahuva(Station Road),2016-07-01,4402.5,50.5,32.6,clear
+62,Groundnut,Palitana,2016-07-01,3750.0,6.0,32.6,clear
+63,Groundnut,Bhavnagar,2016-08-01,4430.0,24.4,31.6,clear
+64,Groundnut,Bhavnagar,2016-09-01,4192.5,25.7,31.0,clear
+65,Groundnut,Mahuva(Station Road),2016-09-01,4245.0,34.6,31.0,clear
+66,Groundnut,Palitana,2016-09-01,3750.0,2.0,31.0,clear
+67,Groundnut,Bhavnagar,2016-11-01,4855.0,21.9,32.6,clear
+68,Groundnut,Mahuva(Station Road),2016-11-01,4437.5,53.2,32.6,clear
+69,Groundnut,Palitana,2016-11-01,3750.0,21.0,32.6,clear
+70,Mustard,Botad,2016-11-01,3180.0,0.2,32.6,clear
+71,Groundnut,Bhavnagar,2016-12-01,4412.5,31.8,30.8,clear
+72,Groundnut,Mahuva(Station Road),2016-12-01,4600.0,70.5,30.8,clear
+73,Groundnut,Bhavnagar,2016-01-13,4382.5,21.5,27.0,clear
+74,Groundnut,Mahuva(Station Road),2016-01-13,4355.0,29.9,27.0,clear
+75,Groundnut,Palitana,2016-01-13,3750.0,5.0,27.0,clear
+76,Groundnut,Bhavnagar,2016-01-15,4392.5,9.7,27.0,clear
+77,Groundnut,Mahuva(Station Road),2016-01-15,4000.0,23.3,27.0,clear
+78,Groundnut,Bhavnagar,2016-01-16,4100.0,13.5,27.0,clear
+79,Groundnut,Taleja,2016-01-16,4635.0,,27.0,clear
+80,Groundnut,Bhavnagar,2016-01-19,4572.5,11.5,26.6,clear
+81,Groundnut,Mahuva(Station Road),2016-01-19,4250.0,35.5,26.6,clear
+82,Mustard,Botad,2016-01-19,3660.0,0.1,26.6,clear
+83,Groundnut,Bhavnagar,2016-01-20,4372.5,13.5,25.6,clear
+84,Groundnut,Mahuva(Station Road),2016-01-20,4400.0,57.4,25.6,clear
+85,Groundnut,Bhavnagar,2016-01-21,4487.5,15.1,26.0,clear
+86,Groundnut,Palitana,2016-01-21,3750.0,1.0,26.0,clear
+87,Groundnut,Bhavnagar,2016-01-23,4420.0,37.4,28.0,clear
+88,Groundnut,Taleja,2016-01-23,4537.5,20.3,28.0,clear
+89,Groundnut,Bhavnagar,2016-01-25,4562.5,5.3,27.4,clear
+90,Groundnut,Mahuva(Station Road),2016-01-25,4455.0,44.5,27.4,clear
+91,Groundnut,Bhavnagar,2016-01-27,4630.0,5.3,26.8,clear
+92,Mustard,Botad,2016-01-27,3515.0,0.1,26.8,clear
+93,Groundnut,Bhavnagar,2016-01-28,4045.0,5.7,28.6,clear
+94,Groundnut,Bhavnagar,2016-01-29,3912.5,8.7,31.2,clear
+95,Groundnut,Mahuva(Station Road),2016-01-29,4150.0,39.3,31.2,clear
+96,Mustard,Bhavnagar,2016-01-29,3540.0,0.5,31.2,clear
+97,Groundnut,Bhavnagar,2016-01-30,3900.0,4.1,28.4,clear
+98,Groundnut,Mahuva(Station Road),2016-01-30,4500.0,51.3,28.4,clear
+99,Groundnut,Bhavnagar,2016-02-02,4200.0,5.8,28.8,clear
+100,Groundnut,Mahuva(Station Road),2016-02-02,4125.0,32.1,28.8,clear
+101,Groundnut,Bhavnagar,2016-04-02,4075.0,4.3,37.6,clear
+102,Groundnut,Mahuva(Station Road),2016-04-02,4125.0,27.8,37.6,clear
+103,Groundnut,Palitana,2016-04-02,3250.0,6.0,37.6,clear
+104,Groundnut,Bhavnagar,2016-05-02,4097.5,6.2,38.2,clear
+105,Groundnut,Mahuva(Station Road),2016-05-02,4150.0,20.8,38.2,clear
+106,Groundnut,Palitana,2016-05-02,3500.0,2.0,38.2,clear
+107,Groundnut,Bhavnagar,2016-02-22,4045.0,20.5,30.8,clear
+108,Groundnut,Mahuva(Station Road),2016-02-22,4050.0,4.1,30.8,clear
+109,Groundnut,Bhavnagar,2016-02-23,3997.5,10.0,32.6,clear
+110,Groundnut,Bhavnagar,2016-02-24,3800.0,9.3,33.6,clear
+111,Groundnut,Mahuva(Station Road),2016-02-24,3975.0,40.7,33.6,clear
+112,Groundnut,Bhavnagar,2016-02-25,3825.0,7.1,32.8,clear
+113,Groundnut,Palitana,2016-02-25,3500.0,2.0,32.8,clear
+114,Groundnut,Bhavnagar,2016-02-26,4135.0,10.5,32.6,clear
+115,Groundnut,Mahuva(Station Road),2016-02-26,4000.0,3.6,32.6,clear
+116,Groundnut,Bhavnagar,2016-02-27,3965.0,6.2,33.6,clear
+117,Mustard,Botad,2016-02-27,3300.0,0.1,33.6,clear
+118,Groundnut,Bhavnagar,2016-02-29,4065.0,11.2,34.2,clear
+119,Groundnut,Mahuva(Station Road),2016-02-29,3900.0,33.7,34.2,clear
+120,Groundnut,Palitana,2016-02-29,3625.0,7.0,34.2,clear
+121,Groundnut,Bhavnagar,2016-01-03,3990.0,9.0,30.0,clear
+122,Mustard,Bhavnagar,2016-01-03,3325.0,0.2,30.0,clear
+123,Groundnut,Bhavnagar,2016-02-03,4035.0,5.0,28.0,clear
+124,Mustard,Bhavnagar,2016-02-03,3510.0,0.4,28.0,clear
+125,Groundnut,Bhavnagar,2016-03-03,4337.5,9.5,34.0,clear
+126,Groundnut,Palitana,2016-03-03,3500.0,9.0,34.0,clear
+127,Mustard,Bhavnagar,2016-03-03,3360.0,1.4,34.0,clear
+128,Mustard,Botad,2016-03-03,3040.0,0.4,34.0,clear
+129,Groundnut,Bhavnagar,2016-04-03,4070.0,4.3,39.0,clear
+130,Groundnut,Mahuva(Station Road),2016-04-03,4000.0,58.5,39.0,clear
+131,Soyabean,Bhavnagar,2016-04-03,3465.0,0.08,39.0,clear
+132,Groundnut,Bhavnagar,2016-05-03,4260.0,5.0,39.0,clear
+133,Groundnut,Bhavnagar,2016-08-03,4115.0,18.5,31.4,clear
+134,Groundnut,Mahuva(Station Road),2016-08-03,3875.0,53.3,31.4,clear
+135,Mustard,Bhavnagar,2016-08-03,2630.0,0.2,31.4,clear
+136,Groundnut,Bhavnagar,2016-09-03,4262.5,20.2,33.2,clear
+137,Mustard,Botad,2016-09-03,3445.0,0.1,33.2,clear
+138,Groundnut,Bhavnagar,2016-10-03,4245.0,20.7,33.0,clear
+139,Mustard,Botad,2016-10-03,2835.0,0.9,33.0,clear
+140,Groundnut,Bhavnagar,2016-11-03,4300.0,3.9,32.4,clear
+141,Groundnut,Mahuva(Station Road),2016-11-03,4325.0,57.0,32.4,clear
+142,Groundnut,Palitana,2016-11-03,3750.0,2.0,32.4,clear
+143,Mustard,Bhavnagar,2016-11-03,2755.0,0.1,32.4,clear
+144,Groundnut,Bhavnagar,2016-03-14,4155.0,20.5,31.0,clear
+145,Groundnut,Mahuva(Station Road),2016-03-14,4050.0,32.3,31.0,clear
+146,Mustard,Bhavnagar,2016-03-14,2655.0,0.1,31.0,clear
+147,Mustard,Botad,2016-03-14,3275.0,0.3,31.0,clear
+148,Groundnut,Bhavnagar,2016-03-15,4165.0,43.8,32.6,clear
+149,Groundnut,Palitana,2016-03-15,5000.0,2.0,32.6,clear
+150,Groundnut,Bhavnagar,2016-03-16,4210.0,6.5,34.2,clear
+151,Groundnut,Mahuva(Station Road),2016-03-16,4425.0,20.3,34.2,clear
+152,Groundnut,Bhavnagar,2016-03-17,4130.0,27.1,34.4,clear
+153,Groundnut,Bhavnagar,2016-03-19,4582.5,16.2,37.0,clear
+154,Mustard,Bhavnagar,2016-03-19,3500.0,0.1,37.0,clear
+155,Groundnut,Bhavnagar,2016-03-28,4225.0,24.1,36.8,clear
+156,Groundnut,Bhavnagar,2016-03-29,4505.0,24.2,37.0,clear
+157,Groundnut,Bhavnagar,2016-03-30,4560.0,28.7,37.4,clear
+158,Groundnut,Bhavnagar,2016-03-31,4585.0,25.0,35.6,clear
+159,Mustard,Bhavnagar,2016-03-31,3500.0,0.3,35.6,clear
+160,Groundnut,Bhavnagar,2016-02-04,4512.5,24.0,29.4,clear
+161,Groundnut,Mahuva(Station Road),2016-02-04,4837.5,18.1,29.4,clear
+162,Groundnut,Palitana,2016-02-04,3750.0,1.0,29.4,clear
+163,Mustard,Bhavnagar,2016-02-04,2500.0,0.1,29.4,clear
+164,Groundnut,Bhavnagar,2016-04-04,4626.67,42.6,35.2,clear
+165,Groundnut,Palitana,2016-04-04,3750.0,8.0,35.2,clear
+166,Groundnut,Bhavnagar,2016-05-04,4640.0,33.5,35.6,clear
+167,Groundnut,Mahuva(Station Road),2016-05-04,4600.0,101.4,35.6,clear
+168,Groundnut,Bhavnagar,2016-09-04,4665.0,20.0,34.0,clear
+169,Groundnut,Bhavnagar,2016-11-04,4750.0,24.8,32.2,clear
+170,Groundnut,Bhavnagar,2016-04-14,4980.0,6.5,37.8,clear
+171,Groundnut,Bhavnagar,2016-04-19,4517.5,5.0,36.4,clear
+172,Groundnut,Mahuva(Station Road),2016-04-19,4750.0,40.2,36.4,clear
+173,Groundnut,Bhavnagar,2016-04-20,4592.5,8.7,37.8,clear
+174,Groundnut,Palitana,2016-04-20,3750.0,2.0,37.8,clear
+175,Mustard,Bhavnagar,2016-04-20,4200.0,1.2,37.8,clear
+176,Groundnut,Bhavnagar,2016-04-21,4562.5,9.9,35.2,clear
+177,Groundnut,Mahuva(Station Road),2016-04-21,5375.0,135.3,35.2,clear
+178,Groundnut,Bhavnagar,2016-04-22,4427.5,18.8,35.0,clear
+179,Groundnut,Bhavnagar,2016-04-25,4672.5,33.2,35.0,clear
+180,Groundnut,Bhavnagar,2016-04-26,4620.0,23.9,37.0,clear
+181,Mustard,Bhavnagar,2016-04-26,3835.0,0.5,37.0,clear
+182,Groundnut,Bhavnagar,2016-04-27,4617.5,23.0,38.0,clear
+183,Groundnut,Mahuva(Station Road),2016-04-27,5000.0,38.8,38.0,clear
+184,Mustard,Bhavnagar,2016-04-27,3495.0,1.2,38.0,clear
+185,Groundnut,Bhavnagar,2016-04-29,4952.5,25.0,39.8,clear
+186,Groundnut,Palitana,2016-04-29,3750.0,9.0,39.8,clear
+187,Groundnut,Bhavnagar,2016-04-30,4812.5,38.4,38.2,clear
+188,Groundnut,Bhavnagar,2016-02-05,4855.0,53.8,29.2,clear
+189,Groundnut,Mahuva(Station Road),2016-02-05,5100.0,106.7,29.2,clear
+190,Groundnut,Taleja,2016-02-05,5012.5,36.75,29.2,clear
+191,Groundnut,Bhavnagar,2016-03-05,4825.0,31.9,32.8,clear
+192,Groundnut,Mahuva(Station Road),2016-03-05,5062.5,74.1,32.8,clear
+193,Groundnut,Palitana,2016-03-05,3750.0,1.0,32.8,clear
+194,Groundnut,Taleja,2016-03-05,5007.5,33.95,32.8,clear
+195,Groundnut,Bhavnagar,2016-05-05,5290.0,37.1,37.6,clear
+196,Groundnut,Mahuva(Station Road),2016-05-05,5175.0,58.9,37.6,clear
+197,Groundnut,Palitana,2016-05-05,4000.0,1.0,37.6,clear
+198,Groundnut,Bhavnagar,2016-06-05,5287.5,74.0,40.0,clear
+199,Groundnut,Bhavnagar,2016-07-05,5025.0,46.6,35.2,clear
+200,Groundnut,Palitana,2016-07-05,4250.0,1.0,35.2,clear
+201,Mustard,Bhavnagar,2016-07-05,3255.0,0.2,35.2,clear
+202,Groundnut,Bhavnagar,2016-09-05,5007.5,72.1,33.6,clear
+203,Groundnut,Mahuva(Station Road),2016-09-05,5250.0,134.7,33.6,clear
+204,Mustard,Bhavnagar,2016-09-05,3500.0,0.2,33.6,clear
+205,Groundnut,Bhavnagar,2016-10-05,5152.5,65.2,28.2,clear
+206,Groundnut,Bhavnagar,2016-11-05,5067.5,53.7,31.6,clear
+207,Groundnut,Mahuva(Station Road),2016-11-05,5250.0,179.8,31.6,clear
+208,Groundnut,Bhavnagar,2016-12-05,5067.5,55.1,29.8,clear
+209,Groundnut,Mahuva(Station Road),2016-12-05,5187.5,32.0,29.8,clear
+210,Groundnut,Palitana,2016-12-05,4000.0,8.0,29.8,clear
+211,Mustard,Bhavnagar,2016-12-05,3970.0,0.1,29.8,clear
+212,Soyabean,Bhavnagar,2016-12-05,3375.0,0.02,29.8,clear
+213,Groundnut,Bhavnagar,2016-05-13,5067.5,39.9,39.6,clear
+214,Groundnut,Mahuva(Station Road),2016-05-13,5187.5,133.3,39.6,clear
+215,Groundnut,Palitana,2016-05-13,4000.0,10.0,39.6,clear
+216,Groundnut,Bhavnagar,2016-05-14,4845.0,38.5,38.4,clear
+217,Groundnut,Bhavnagar,2016-05-16,5322.5,65.5,39.4,clear
+218,Groundnut,Mahuva(Station Road),2016-05-16,5250.0,134.9,39.4,clear
+219,Groundnut,Palitana,2016-05-16,4000.0,15.0,39.4,clear
+220,Groundnut,Bhavnagar,2016-05-17,5292.5,67.8,41.2,clear
+221,Groundnut,Mahuva(Station Road),2016-05-17,5312.5,161.7,41.2,clear
+222,Groundnut,Palitana,2016-05-17,4250.0,8.0,41.2,clear
+223,Groundnut,Bhavnagar,2016-05-18,5370.0,58.8,41.6,clear
+224,Groundnut,Mahuva(Station Road),2016-05-18,5312.5,132.3,41.6,clear
+225,Groundnut,Bhavnagar,2016-05-19,5187.5,50.1,38.6,clear
+226,Groundnut,Mahuva(Station Road),2016-05-19,5250.0,139.5,38.6,clear
+227,Groundnut,Palitana,2016-05-19,4250.0,17.0,38.6,clear
+228,Groundnut,Bhavnagar,2016-05-20,5222.5,44.0,40.8,clear
+229,Groundnut,Palitana,2016-05-20,4500.0,1.0,40.8,clear
+230,Groundnut,Bhavnagar,2016-05-21,5212.5,56.0,42.6,clear
+231,Groundnut,Mahuva(Station Road),2016-05-21,5375.0,116.8,42.6,clear
+232,Groundnut,Palitana,2016-05-21,4500.0,5.0,42.6,clear
+233,Groundnut,Bhavnagar,2016-05-23,5120.0,54.9,42.6,clear
+234,Groundnut,Palitana,2016-05-23,4500.0,25.0,42.6,clear
+235,Groundnut,Bhavnagar,2016-05-24,5295.0,44.6,40.0,clear
+236,Groundnut,Palitana,2016-05-24,4000.0,11.0,40.0,clear
+237,Mustard,Bhavnagar,2016-05-24,3715.0,2.8,40.0,clear
+238,Groundnut,Bhavnagar,2016-05-25,5115.0,59.7,39.0,clear
+239,Groundnut,Mahuva(Station Road),2016-05-25,5375.0,93.4,39.0,clear
+240,Groundnut,Palitana,2016-05-25,4500.0,4.0,39.0,clear
+241,Groundnut,Bhavnagar,2016-05-26,5292.5,52.7,39.8,clear
+242,Groundnut,Bhavnagar,2016-05-27,5245.0,40.1,39.2,clear
+243,Groundnut,Mahuva(Station Road),2016-05-27,5425.0,157.8,39.2,clear
+244,Groundnut,Bhavnagar,2016-05-28,5457.5,50.0,40.6,clear
+245,Groundnut,Mahuva(Station Road),2016-05-28,5500.0,157.8,40.6,clear
+246,Groundnut,Palitana,2016-05-28,5000.0,19.0,40.6,clear
+247,Groundnut,Bhavnagar,2016-05-30,5425.0,75.7,40.6,clear
+248,Groundnut,Mahuva(Station Road),2016-05-30,5312.5,224.5,40.6,clear
+249,Groundnut,Bhavnagar,2016-05-31,5072.5,35.8,41.0,clear
+250,Groundnut,Mahuva(Station Road),2016-05-31,5500.0,66.9,41.0,clear
+251,Groundnut,Palitana,2016-05-31,4250.0,11.0,41.0,clear
+252,Groundnut,Bhavnagar,2016-01-06,5387.5,41.1,29.8,clear
+253,Groundnut,Mahuva(Station Road),2016-01-06,5425.0,176.0,29.8,clear
+254,Groundnut,Palitana,2016-01-06,4500.0,18.0,29.8,clear
+255,Groundnut,Bhavnagar,2016-02-06,5480.0,33.7,28.6,clear
+256,Groundnut,Mahuva(Station Road),2016-02-06,5312.5,98.9,28.6,clear
+257,Groundnut,Palitana,2016-02-06,4750.0,24.0,28.6,clear
+258,Groundnut,Bhavnagar,2016-03-06,5710.0,28.3,32.0,clear
+259,Groundnut,Mahuva(Station Road),2016-03-06,5375.0,90.5,32.0,clear
+260,Groundnut,Bhavnagar,2016-04-06,5257.5,23.3,35.0,clear
+261,Groundnut,Mahuva(Station Road),2016-04-06,5437.5,89.1,35.0,clear
+262,Groundnut,Bhavnagar,2016-06-06,5050.0,12.6,39.0,clear
+263,Groundnut,Mahuva(Station Road),2016-06-06,5437.5,32.9,39.0,clear
+264,Groundnut,Palitana,2016-06-06,5000.0,9.0,39.0,clear
+265,Groundnut,Bhavnagar,2016-07-06,5395.0,19.4,34.8,clear
+266,Groundnut,Mahuva(Station Road),2016-07-06,5375.0,129.5,34.8,clear
+267,Groundnut,Palitana,2016-07-06,5000.0,17.0,34.8,clear
+268,Groundnut,Bhavnagar,2016-08-06,5387.5,8.6,30.6,clear
+269,Groundnut,Mahuva(Station Road),2016-08-06,5375.0,21.0,30.6,clear
+270,Groundnut,Palitana,2016-08-06,4750.0,7.0,30.6,clear
+271,Groundnut,Bhavnagar,2016-09-06,5550.0,0.9,31.2,rain
+272,Groundnut,Mahuva(Station Road),2016-09-06,5500.0,42.1,31.2,rain
+273,Mustard,Bhavnagar,2016-09-06,4000.0,0.1,31.2,rain
+274,Groundnut,Bhavnagar,2016-10-06,5610.0,20.5,30.8,clear
+275,Groundnut,Mahuva(Station Road),2016-10-06,5500.0,42.1,30.8,clear
+276,Groundnut,Bhavnagar,2016-11-06,5705.0,46.0,32.0,clear
+277,Groundnut,Mahuva(Station Road),2016-11-06,5515.0,42.1,32.0,clear
+278,Groundnut,Palitana,2016-11-06,5500.0,25.0,32.0,clear
+279,Groundnut,Bhavnagar,2016-06-13,5600.0,32.2,40.6,clear
+280,Groundnut,Palitana,2016-06-13,5000.0,8.0,40.6,clear
+281,Groundnut,Bhavnagar,2016-06-14,5485.0,28.0,39.0,clear
+282,Groundnut,Mahuva(Station Road),2016-06-14,5500.0,42.1,39.0,clear
+283,Groundnut,Bhavnagar,2016-06-15,5362.5,21.0,39.4,clear
+284,Groundnut,Mahuva(Station Road),2016-06-15,5625.0,42.1,39.4,clear
+285,Groundnut,Palitana,2016-06-15,5250.0,24.0,39.4,clear
+286,Groundnut,Bhavnagar,2016-06-16,5645.0,11.5,40.0,clear
+287,Groundnut,Bhavnagar,2016-06-17,5660.0,6.9,40.0,clear
+288,Groundnut,Bhavnagar,2016-06-18,5710.0,14.3,37.0,clear
+289,Groundnut,Mahuva(Station Road),2016-06-18,5375.0,20.1,37.0,clear
+290,Groundnut,Palitana,2016-06-18,5250.0,5.0,37.0,clear
+291,Mustard,Bhavnagar,2016-06-18,3520.0,0.1,37.0,clear
+292,Groundnut,Bhavnagar,2016-06-20,5460.0,4.7,36.6,clear
+293,Groundnut,Bhavnagar,2016-06-21,5730.0,14.3,35.4,clear
+294,Groundnut,Mahuva(Station Road),2016-06-21,5500.0,14.4,35.4,clear
+295,Groundnut,Bhavnagar,2016-06-22,5820.0,12.5,34.2,clear
+296,Groundnut,Bhavnagar,2016-06-23,5550.0,3.7,36.8,clear
+297,Groundnut,Mahuva(Station Road),2016-06-23,5375.0,42.1,36.8,clear
+298,Groundnut,Palitana,2016-06-23,5000.0,4.0,36.8,clear
+299,Groundnut,Bhavnagar,2016-06-24,5935.0,11.1,35.0,clear
+300,Groundnut,Mahuva(Station Road),2016-06-24,5375.0,6.8,35.0,clear
+301,Groundnut,Bhavnagar,2016-06-25,5635.0,11.7,33.0,clear
+302,Groundnut,Palitana,2016-06-25,5125.0,26.0,33.0,clear
+303,Groundnut,Bhavnagar,2016-06-27,5445.0,8.4,35.0,clear
+304,Groundnut,Palitana,2016-06-27,5500.0,22.0,35.0,clear
+305,Groundnut,Bhavnagar,2016-06-29,5592.5,5.0,32.4,clear
+306,Groundnut,Mahuva(Station Road),2016-06-29,5752.5,42.1,32.4,clear
+307,Groundnut,Palitana,2016-06-29,5500.0,2.0,32.4,clear
+308,Groundnut,Bhavnagar,2016-06-30,5675.0,2.0,33.4,clear
+309,Groundnut,Mahuva(Station Road),2016-06-30,5800.0,42.1,33.4,clear
+310,Groundnut,Bhavnagar,2016-01-07,5610.0,4.0,30.0,clear
+311,Groundnut,Mahuva(Station Road),2016-01-07,5700.0,42.1,30.0,clear
+312,Groundnut,Palitana,2016-01-07,5250.0,3.0,30.0,clear
+313,Mustard,Botad,2016-01-07,4355.0,0.1,30.0,clear
+314,Groundnut,Bhavnagar,2016-02-07,5640.0,1.6,28.0,clear
+315,Groundnut,Mahuva(Station Road),2016-02-07,5250.0,6.5,28.0,clear
+316,Mustard,Botad,2016-02-07,4355.0,0.1,28.0,clear
+317,Groundnut,Bhavnagar,2016-04-07,5792.5,9.3,34.8,clear
+318,Groundnut,Palitana,2016-04-07,5375.0,8.0,34.8,clear
+319,Groundnut,Bhavnagar,2016-11-07,5860.0,3.4,32.4,clear
+320,Mustard,Botad,2016-11-07,4150.0,0.1,32.4,clear
+321,Groundnut,Bhavnagar,2016-12-07,5250.0,0.7,29.4,clear
+322,Groundnut,Mahuva(Station Road),2016-12-07,5850.0,42.1,29.4,clear
+323,Mustard,Botad,2016-12-07,4500.0,0.1,29.4,clear
+324,Groundnut,Bhavnagar,2016-07-13,5957.5,5.0,33.0,clear
+325,Groundnut,Mahuva(Station Road),2016-07-13,5625.0,4.0,33.0,clear
+326,Groundnut,Bhavnagar,2016-07-14,5912.5,4.0,34.8,clear
+327,Groundnut,Mahuva(Station Road),2016-07-14,5500.0,42.1,34.8,clear
+328,Groundnut,Palitana,2016-07-14,5250.0,7.0,34.8,clear
+329,Mustard,Botad,2016-07-14,4450.0,0.1,34.8,clear
+330,Groundnut,Bhavnagar,2016-07-15,5922.5,13.8,33.2,clear
+331,Groundnut,Mahuva(Station Road),2016-07-15,5475.0,42.1,33.2,clear
+332,Groundnut,Bhavnagar,2016-07-16,6142.5,2.3,31.6,clear
+333,Mustard,Botad,2016-07-16,4365.0,0.1,31.6,clear
+334,Groundnut,Bhavnagar,2016-07-18,6005.0,4.4,33.2,clear
+335,Groundnut,Mahuva(Station Road),2016-07-18,5625.0,42.1,33.2,clear
+336,Groundnut,Bhavnagar,2016-07-19,6325.0,1.0,34.0,clear
+337,Groundnut,Bhavnagar,2016-07-20,6082.5,3.2,32.6,clear
+338,Groundnut,Bhavnagar,2016-07-21,6055.0,3.7,32.0,clear
+339,Groundnut,Bhavnagar,2016-07-22,6057.5,4.5,32.0,clear
+340,Groundnut,Mahuva(Station Road),2016-07-22,5625.0,42.1,32.0,clear
+341,Groundnut,Bhavnagar,2016-07-23,6345.0,2.0,32.4,clear
+342,Mustard,Botad,2016-07-23,4365.0,0.1,32.4,clear
+343,Groundnut,Bhavnagar,2016-07-25,5907.5,2.8,32.6,clear
+344,Groundnut,Palitana,2016-07-25,5375.0,13.0,32.6,clear
+345,Groundnut,Bhavnagar,2016-07-26,6242.5,1.6,31.0,clear
+346,Mustard,Botad,2016-07-26,4435.0,0.2,31.0,clear
+347,Groundnut,Bhavnagar,2016-07-27,6300.0,1.0,31.8,clear
+348,Groundnut,Mahuva(Station Road),2016-07-27,5655.0,42.1,31.8,clear
+349,Groundnut,Palitana,2016-07-27,5500.0,7.0,31.8,clear
+350,Groundnut,Bhavnagar,2016-07-30,6185.0,1.7,30.8,rain
+351,Groundnut,Mahuva(Station Road),2016-07-30,5390.0,42.1,30.8,rain
+352,Mustard,Botad,2016-07-30,4405.0,0.2,30.8,rain
+353,Groundnut,Bhavnagar,2016-01-08,6125.0,2.2,29.6,clear
+354,Mustard,Botad,2016-01-08,4350.0,0.1,29.6,clear
+355,Groundnut,Bhavnagar,2016-02-08,5900.0,2.2,29.6,clear
+356,Groundnut,Bhavnagar,2016-03-08,5815.0,1.6,33.4,clear
+357,Groundnut,Mahuva(Station Road),2016-03-08,5187.5,3.0,33.4,clear
+358,Groundnut,Bhavnagar,2016-05-08,5825.0,1.2,37.4,clear
+359,Groundnut,Mahuva(Station Road),2016-05-08,6050.0,42.1,37.4,clear
+360,Groundnut,Bhavnagar,2016-06-08,5575.0,0.9,36.2,clear
+361,Groundnut,Palitana,2016-06-08,5250.0,1.0,36.2,clear
+362,Groundnut,Bhavnagar,2016-08-08,5930.0,2.4,30.2,clear
+363,Groundnut,Mahuva(Station Road),2016-08-08,6000.0,2.8,30.2,clear
+364,Groundnut,Palitana,2016-08-08,5250.0,5.0,30.2,clear
+365,Mustard,Botad,2016-08-08,3855.0,0.2,30.2,clear
+366,Groundnut,Bhavnagar,2016-09-08,5625.0,2.5,33.0,clear
+367,Groundnut,Palitana,2016-09-08,5250.0,2.0,33.0,clear
+368,Mustard,Bhavnagar,2016-09-08,3755.0,0.2,33.0,clear
+369,Groundnut,Bhavnagar,2016-11-08,6125.0,5.0,33.0,clear
+370,Groundnut,Palitana,2016-11-08,5250.0,2.0,33.0,clear
+371,Mustard,Bhavnagar,2016-11-08,3700.0,0.1,33.0,clear
+372,Groundnut,Bhavnagar,2016-08-13,6000.0,1.0,33.0,clear
+373,Groundnut,Bhavnagar,2016-08-16,6125.0,1.2,32.0,clear
+374,Groundnut,Mahuva(Station Road),2016-08-16,5500.0,4.1,32.0,clear
+375,Mustard,Botad,2016-08-16,4555.0,0.1,32.0,clear
+376,Groundnut,Bhavnagar,2016-08-23,5360.0,0.4,29.2,rain
+377,Groundnut,Bhavnagar,2016-08-26,6000.0,1.0,30.6,clear
+378,Groundnut,Bhavnagar,2016-01-09,5360.0,0.4,28.0,clear
+379,Groundnut,Bhavnagar,2016-09-24,5755.0,0.6,33.6,clear
+380,Groundnut,Palitana,2016-09-24,5000.0,2.0,33.6,clear
+381,Groundnut,Bhavnagar,2016-09-27,4450.0,3.8,34.0,clear
+382,Groundnut,Bhavnagar,2016-09-28,4400.0,4.5,32.4,clear
+383,Groundnut,Mahuva(Station Road),2016-09-28,4500.0,21.5,32.4,clear
+384,Groundnut,Bhavnagar,2016-09-29,4185.0,18.9,31.6,clear
+385,Groundnut,Bhavnagar,2016-09-30,3940.0,8.2,33.6,clear
+386,Groundnut,Mahuva(Station Road),2016-09-30,4750.0,6.2,33.6,clear
+387,Mustard,Botad,2016-09-30,4000.0,0.1,33.6,clear
+388,Groundnut,Bhavnagar,2016-01-10,4520.0,2.2,27.8,clear
+389,Groundnut,Palitana,2016-01-10,5000.0,1.0,27.8,clear
+390,Groundnut,Taleja,2016-01-10,4980.0,4.9,27.8,clear
+391,Mustard,Botad,2016-01-10,4030.0,0.1,27.8,clear
+392,Groundnut,Bhavnagar,2016-03-10,3825.0,3.6,33.6,clear
+393,Groundnut,Mahuva(Station Road),2016-03-10,4625.0,36.3,33.6,clear
+394,Groundnut,Taleja,2016-03-10,4610.0,8.93,33.6,clear
+395,Groundnut,Bhavnagar,2016-04-10,5075.0,5.6,37.2,clear
+396,Groundnut,Taleja,2016-04-10,4070.0,2.45,37.2,clear
+397,Groundnut,Bhavnagar,2016-06-10,4535.0,16.5,40.4,clear
+398,Groundnut,Bhavnagar,2016-07-10,4175.0,22.2,34.0,clear
+399,Groundnut,Bhavnagar,2016-10-10,3805.0,29.7,31.6,clear
+400,Groundnut,Mahuva(Station Road),2016-10-10,4000.0,37.5,31.6,clear
+401,Groundnut,Palitana,2016-10-10,5000.0,0.02,31.6,clear
+402,Groundnut,Taleja,2016-10-10,3640.0,5.04,31.6,clear
+403,Groundnut,Bhavnagar,2016-12-10,3885.0,44.9,29.0,clear
+404,Groundnut,Taleja,2016-12-10,3512.5,16.63,29.0,clear
+405,Groundnut,Bhavnagar,2016-10-13,3810.0,72.3,31.0,clear
+406,Groundnut,Mahuva(Station Road),2016-10-13,4250.0,54.3,31.0,clear
+407,Groundnut,Taleja,2016-10-13,3642.5,,31.0,clear
+408,Groundnut,Bhavnagar,2016-10-14,3790.0,32.0,32.6,clear
+409,Groundnut,Mahuva(Station Road),2016-10-14,4175.0,118.2,32.6,clear
+410,Groundnut,Taleja,2016-10-14,3610.0,,32.6,clear
+411,Groundnut,Bhavnagar,2016-10-15,3750.0,54.1,32.6,clear
+412,Groundnut,Mahuva(Station Road),2016-10-15,3875.0,58.8,32.6,clear
+413,Groundnut,Taleja,2016-10-15,3965.0,42.0,32.6,clear
+414,Groundnut,Bhavnagar,2016-10-17,3980.0,80.2,33.6,clear
+415,Groundnut,Mahuva(Station Road),2016-10-17,4250.0,214.0,33.6,clear
+416,Groundnut,Taleja,2016-10-17,4110.0,,33.6,clear
+417,Groundnut,Bhavnagar,2016-10-18,4400.0,59.0,33.4,clear
+418,Groundnut,Bhavnagar,2016-10-19,3875.0,114.2,33.0,clear
+419,Groundnut,Mahuva(Station Road),2016-10-19,4125.0,275.0,33.0,clear
+420,Groundnut,Palitana,2016-10-19,4200.0,0.4,33.0,clear
+421,Groundnut,Bhavnagar,2016-10-20,3817.5,165.2,32.0,clear
+422,Groundnut,Mahuva(Station Road),2016-10-20,3875.0,384.0,32.0,clear
+423,Groundnut,Bhavnagar,2016-10-21,4105.0,264.2,31.2,clear
+424,Groundnut,Mahuva(Station Road),2016-10-21,3875.0,374.4,31.2,clear
+425,Soyabean,Bhavnagar,2016-10-21,2865.0,0.12,31.2,clear
+426,Groundnut,Bhavnagar,2016-10-22,3375.0,260.8,32.0,clear
+427,Groundnut,Mahuva(Station Road),2016-10-22,3900.0,456.7,32.0,clear
+428,Groundnut,Bhavnagar,2016-10-24,3882.5,251.8,33.8,clear
+429,Groundnut,Mahuva(Station Road),2016-10-24,4025.0,433.1,33.8,clear
+430,Groundnut,Bhavnagar,2016-10-25,3935.0,307.2,31.0,clear
+431,Groundnut,Mahuva(Station Road),2016-10-25,3925.0,945.8,31.0,clear
+432,Groundnut,Bhavnagar,2016-10-26,4075.0,242.7,31.0,clear
+433,Groundnut,Mahuva(Station Road),2016-10-26,3962.5,454.4,31.0,clear
+434,Soyabean,Bhavnagar,2016-10-26,2850.0,0.14,31.0,clear
+435,Groundnut,Bhavnagar,2016-10-27,3830.0,234.0,34.0,clear
+436,Groundnut,Mahuva(Station Road),2016-10-27,3875.0,349.1,34.0,clear
+437,Groundnut,Bhavnagar,2016-07-11,4177.5,325.7,32.0,clear
+438,Groundnut,Mahuva(Station Road),2016-07-11,4250.0,568.7,32.0,clear
+439,Groundnut,Palitana,2016-07-11,3862.0,0.34,32.0,clear
+440,Groundnut,Bhavnagar,2016-08-11,4292.5,268.2,32.0,clear
+441,Groundnut,Mahuva(Station Road),2016-08-11,4325.0,467.4,32.0,clear
+442,Groundnut,Palitana,2016-08-11,3637.0,0.12,32.0,clear
+443,Soyabean,Bhavnagar,2016-08-11,2600.0,0.22,32.0,clear
+444,Groundnut,Bhavnagar,2016-11-21,4365.0,265.5,30.6,clear
+445,Groundnut,Mahuva(Station Road),2016-11-21,4250.0,,30.6,clear
+446,Groundnut,Bhavnagar,2016-11-22,4460.0,200.0,32.6,clear
+447,Groundnut,Bhavnagar,2016-11-23,4392.5,177.6,30.8,clear
+448,Groundnut,Mahuva(Station Road),2016-11-23,4362.5,248.5,30.8,clear
+449,Groundnut,Bhavnagar,2016-11-24,4367.5,216.1,31.0,clear
+450,Groundnut,Mahuva(Station Road),2016-11-24,4250.0,283.1,31.0,clear
+451,Groundnut,Bhavnagar,2016-11-25,4402.5,190.9,31.6,clear
+452,Groundnut,Mahuva(Station Road),2016-11-25,4312.5,207.1,31.6,clear
+453,Groundnut,Bhavnagar,2016-11-26,4305.0,305.6,31.6,clear
+454,Groundnut,Mahuva(Station Road),2016-11-26,4337.5,185.4,31.6,clear
+455,Groundnut,Palitana,2016-11-26,4220.0,4.7,31.6,clear
+456,Groundnut,Bhavnagar,2016-11-28,4305.0,268.7,31.4,clear
+457,Groundnut,Palitana,2016-11-28,4220.0,20.0,31.4,clear
+458,Groundnut,Taleja,2016-11-28,4087.5,24.5,31.4,clear
+459,Groundnut,Bhavnagar,2016-11-29,4770.0,230.7,31.0,clear
+460,Groundnut,Palitana,2016-11-29,4220.0,31.56,31.0,clear
+461,Groundnut,Bhavnagar,2016-11-30,4305.0,188.6,30.2,clear
+462,Groundnut,Mahuva(Station Road),2016-11-30,4337.5,445.0,30.2,clear
+463,Groundnut,Palitana,2016-11-30,4220.0,,30.2,clear
+464,Groundnut,Bhavnagar,2016-01-12,4250.0,232.5,27.2,clear
+465,Groundnut,Mahuva(Station Road),2016-01-12,4275.0,270.0,27.2,clear
+466,Groundnut,Taleja,2016-01-12,4245.0,78.58,27.2,clear
+467,Groundnut,Bhavnagar,2016-02-12,4312.5,234.8,26.6,clear
+468,Groundnut,Mahuva(Station Road),2016-02-12,4275.0,255.0,26.6,clear
+469,Groundnut,Palitana,2016-02-12,4220.0,,26.6,clear
+470,Groundnut,Taleja,2016-02-12,4217.5,142.8,26.6,clear
+471,Groundnut,Bhavnagar,2016-03-12,4242.5,204.4,32.0,clear
+472,Groundnut,Mahuva(Station Road),2016-03-12,4350.0,168.3,32.0,clear
+473,Groundnut,Palitana,2016-03-12,4220.0,17.9,32.0,clear
+474,Groundnut,Taleja,2016-03-12,4082.5,12.95,32.0,clear
+475,Groundnut,Bhavnagar,2016-05-12,4195.0,260.0,39.4,clear
+476,Groundnut,Palitana,2016-05-12,4220.0,,39.4,clear
+477,Groundnut,Taleja,2016-05-12,4055.0,24.5,39.4,clear
+478,Groundnut,Bhavnagar,2016-06-12,4297.5,263.6,41.0,clear
+479,Groundnut,Palitana,2016-06-12,4220.0,,41.0,clear
+480,Groundnut,Taleja,2016-06-12,3997.5,35.35,41.0,clear
+481,Groundnut,Bhavnagar,2016-07-12,4417.5,197.5,31.2,clear
+482,Groundnut,Mahuva(Station Road),2016-07-12,4300.0,123.1,31.2,clear
+483,Groundnut,Palitana,2016-07-12,4220.0,,31.2,clear
+484,Groundnut,Taleja,2016-07-12,4245.0,54.43,31.2,clear
+485,Groundnut,Bhavnagar,2016-08-12,4332.5,219.8,31.8,clear
+486,Groundnut,Mahuva(Station Road),2016-08-12,4237.5,298.9,31.8,clear
+487,Groundnut,Palitana,2016-08-12,4220.0,31.0,31.8,clear
+488,Groundnut,Taleja,2016-08-12,4192.5,0.0,31.8,clear
+489,Groundnut,Bhavnagar,2016-10-12,4330.0,197.7,30.6,clear
+490,Groundnut,Mahuva(Station Road),2016-10-12,4300.0,169.1,30.6,clear
+491,Groundnut,Palitana,2016-10-12,4220.0,,30.6,clear
+492,Groundnut,Taleja,2016-10-12,4120.0,41.3,30.6,clear
+493,Groundnut,Bhavnagar,2016-12-12,4287.5,126.8,30.0,clear
+494,Groundnut,Taleja,2016-12-12,4057.5,9.45,30.0,clear
+495,Groundnut,Bhavnagar,2016-12-13,4315.0,165.4,29.4,clear
+496,Groundnut,Mahuva(Station Road),2016-12-13,4337.5,180.1,29.4,clear
+497,Groundnut,Palitana,2016-12-13,4220.0,16.98,29.4,clear
+498,Groundnut,Bhavnagar,2016-12-14,4367.5,142.0,29.0,clear
+499,Groundnut,Mahuva(Station Road),2016-12-14,4350.0,264.6,29.0,clear
+500,Groundnut,Palitana,2016-12-14,4220.0,,29.0,clear
+501,Groundnut,Bhavnagar,2016-12-15,4432.5,211.8,29.2,clear
+502,Groundnut,Mahuva(Station Road),2016-12-15,4300.0,256.1,29.2,clear
+503,Groundnut,Palitana,2016-12-15,4220.0,,29.2,clear
+504,Groundnut,Bhavnagar,2016-12-16,4440.0,152.1,29.8,clear
+505,Groundnut,Mahuva(Station Road),2016-12-16,4275.0,224.4,29.8,clear
+506,Groundnut,Palitana,2016-12-16,4220.0,48.55,29.8,clear
+507,Groundnut,Bhavnagar,2016-12-17,4275.0,147.8,30.0,clear
+508,Groundnut,Mahuva(Station Road),2016-12-17,4300.0,105.4,30.0,clear
+509,Groundnut,Palitana,2016-12-17,4220.0,,30.0,clear
+510,Groundnut,Bhavnagar,2016-12-19,4357.5,177.2,27.8,clear
+511,Groundnut,Mahuva(Station Road),2016-12-19,4375.0,119.4,27.8,clear
+512,Groundnut,Palitana,2016-12-19,4220.0,,27.8,clear
+513,Groundnut,Bhavnagar,2016-12-20,4435.0,180.8,27.2,clear
+514,Groundnut,Mahuva(Station Road),2016-12-20,4375.0,99.4,27.2,clear
+515,Groundnut,Palitana,2016-12-20,4220.0,,27.2,clear
+516,Groundnut,Taleja,2016-12-20,4267.5,,27.2,clear
+517,Groundnut,Bhavnagar,2016-12-21,4430.0,152.0,28.2,clear
+518,Groundnut,Palitana,2016-12-21,4220.0,61.67,28.2,clear
+519,Groundnut,Taleja,2016-12-21,4165.0,63.0,28.2,clear
+520,Groundnut,Bhavnagar,2016-12-22,4455.0,177.2,29.0,clear
+521,Groundnut,Palitana,2016-12-22,4220.0,,29.0,clear
+522,Groundnut,Taleja,2016-12-22,4235.0,56.7,29.0,clear
+523,Groundnut,Bhavnagar,2016-12-23,4402.5,148.5,29.4,clear
+524,Groundnut,Palitana,2016-12-23,4220.0,96.7,29.4,clear
+525,Groundnut,Bhavnagar,2016-12-24,4355.0,110.4,28.0,clear
+526,Groundnut,Palitana,2016-12-24,4220.0,16.41,28.0,clear
+527,Groundnut,Bhavnagar,2016-12-26,4387.5,103.6,26.8,clear
+528,Groundnut,Mahuva(Station Road),2016-12-26,4297.5,127.8,26.8,clear
+529,Groundnut,Palitana,2016-12-26,4220.0,,26.8,clear
+530,Groundnut,Bhavnagar,2016-12-27,4450.0,86.9,26.2,clear
+531,Groundnut,Palitana,2016-12-27,4220.0,,26.2,clear
+532,Groundnut,Bhavnagar,2016-12-28,4455.0,119.0,27.6,clear
+533,Groundnut,Palitana,2016-12-28,4220.0,,27.6,clear
+534,Groundnut,Bhavnagar,2016-12-29,4370.0,79.6,29.6,clear
+535,Groundnut,Mahuva(Station Road),2016-12-29,4350.0,82.6,29.6,clear
+536,Groundnut,Palitana,2016-12-29,4220.0,58.59,29.6,clear
+537,Groundnut,Bhavnagar,2016-12-30,4435.0,83.8,31.2,clear
+538,Groundnut,Palitana,2016-12-30,4220.0,56.0,31.2,clear
+539,Groundnut,Bhavnagar,2016-12-31,4312.5,53.5,29.8,clear
+540,Groundnut,Mahuva(Station Road),2016-12-31,4412.5,51.9,29.8,clear
+541,Groundnut,Palitana,2016-12-31,4220.0,120.33,29.8,clear
+542,Groundnut,Mahuva(Station Road),2016-01-18,4602.5,33.4,28.2,clear
+543,Groundnut,Palitana,2016-01-18,3250.0,6.0,28.2,clear
+544,Mustard,Botad,2016-01-18,4575.0,0.1,28.2,clear
+545,Groundnut,Mahuva(Station Road),2016-01-22,4225.0,31.1,26.2,clear
+546,Groundnut,Taleja,2016-01-22,4595.0,17.85,26.2,clear
+547,Groundnut,Mahuva(Station Road),2016-03-02,4112.5,19.1,36.0,clear
+548,Groundnut,Mahuva(Station Road),2016-06-02,3700.0,18.8,37.0,clear
+549,Groundnut,Mahuva(Station Road),2016-09-02,4250.0,19.8,33.0,clear
+550,Groundnut,Taleja,2016-09-02,3935.0,6.65,33.0,clear
+551,Groundnut,Mahuva(Station Road),2016-10-02,4075.0,12.4,33.0,clear
+552,Groundnut,Taleja,2016-10-02,3995.0,5.08,33.0,clear
+553,Groundnut,Mahuva(Station Road),2016-12-02,4125.0,8.9,30.6,clear
+554,Groundnut,Palitana,2016-12-02,3750.0,1.0,30.6,clear
+555,Groundnut,Taleja,2016-12-02,3825.0,5.22,30.6,clear
+556,Mustard,Botad,2016-12-02,3360.0,0.1,30.6,clear
+557,Groundnut,Mahuva(Station Road),2016-02-13,3940.0,5.0,27.0,clear
+558,Groundnut,Mahuva(Station Road),2016-02-15,4252.5,15.9,29.0,clear
+559,Groundnut,Mahuva(Station Road),2016-02-17,3950.0,12.3,30.8,clear
+560,Groundnut,Mahuva(Station Road),2016-02-19,3900.0,15.7,30.0,clear
+561,Groundnut,Mahuva(Station Road),2016-03-18,4187.5,39.1,35.2,clear
+562,Groundnut,Mahuva(Station Road),2016-03-21,4350.0,31.9,35.8,clear
+563,Groundnut,Palitana,2016-03-21,3750.0,19.0,35.8,clear
+564,Groundnut,Mahuva(Station Road),2016-03-22,4000.0,18.0,36.4,clear
+565,Groundnut,Mahuva(Station Road),2016-03-25,4162.5,19.3,37.4,clear
+566,Groundnut,Mahuva(Station Road),2016-03-26,4250.0,8.6,37.6,clear
+567,Groundnut,Mahuva(Station Road),2016-01-04,4600.0,20.9,30.2,clear
+568,Groundnut,Mahuva(Station Road),2016-06-04,4787.5,64.1,39.2,clear
+569,Groundnut,Mahuva(Station Road),2016-07-04,5125.0,131.9,31.6,rain
+570,Groundnut,Mahuva(Station Road),2016-12-04,4937.5,104.1,29.8,clear
+571,Groundnut,Mahuva(Station Road),2016-04-13,4875.0,55.5,37.6,clear
+572,Groundnut,Mahuva(Station Road),2016-04-23,5062.5,128.7,34.4,clear
+573,Groundnut,Mahuva(Station Road),2016-04-28,4825.0,44.9,39.0,clear
+574,Groundnut,Mahuva(Station Road),2016-04-05,5000.0,80.1,35.6,clear
+575,Groundnut,Palitana,2016-04-05,4250.0,16.0,35.6,clear
+576,Groundnut,Taleja,2016-04-05,4985.0,36.75,35.6,clear
+577,Groundnut,Mahuva(Station Road),2016-06-28,5625.0,42.1,34.6,clear
+578,Groundnut,Palitana,2016-06-28,5500.0,4.0,34.6,clear
+579,Groundnut,Mahuva(Station Road),2016-08-07,5375.0,9.4,30.0,clear
+580,Groundnut,Mahuva(Station Road),2016-09-07,5360.0,5.7,32.0,clear
+581,Mustard,Botad,2016-09-07,3975.0,0.2,32.0,clear
+582,Groundnut,Mahuva(Station Road),2016-10-08,5015.0,3.8,31.4,clear
+583,Groundnut,Palitana,2016-10-08,5250.0,7.0,31.4,clear
+584,Groundnut,Mahuva(Station Road),2016-08-17,5575.0,1.0,32.2,clear
+585,Groundnut,Palitana,2016-08-17,5000.0,3.0,32.2,clear
+586,Groundnut,Mahuva(Station Road),2016-08-19,5450.0,1.4,33.6,clear
+587,Mustard,Botad,2016-08-19,4150.0,0.1,33.6,clear
+588,Groundnut,Mahuva(Station Road),2016-08-30,5500.0,0.7,30.6,clear
+589,Groundnut,Mahuva(Station Road),2016-08-31,5125.0,0.4,29.0,clear
+590,Groundnut,Mahuva(Station Road),2016-03-09,4647.5,1.7,32.6,clear
+591,Mustard,Botad,2016-03-09,3605.0,0.5,32.6,clear
+592,Groundnut,Mahuva(Station Road),2016-07-09,4965.0,0.2,32.4,clear
+593,Groundnut,Mahuva(Station Road),2016-12-09,4500.0,1.2,30.2,clear
+594,Groundnut,Palitana,2016-12-09,5500.0,2.0,30.2,clear
+595,Groundnut,Mahuva(Station Road),2016-09-16,3550.0,1.8,34.4,clear
+596,Groundnut,Mahuva(Station Road),2016-09-26,4750.0,12.8,34.0,clear
+597,Groundnut,Palitana,2016-09-26,5250.0,3.0,34.0,clear
+598,Groundnut,Mahuva(Station Road),2016-09-11,4312.5,630.8,31.0,clear
+599,Groundnut,Palitana,2016-09-11,3637.0,0.64,31.0,clear
+600,Groundnut,Mahuva(Station Road),2016-11-19,4337.5,229.1,30.6,clear
+601,Groundnut,Mahuva(Station Road),2016-09-12,4337.5,275.2,31.6,clear
+602,Groundnut,Palitana,2016-09-12,4220.0,46.3,31.6,clear
+603,Groundnut,Palitana,2016-01-02,3750.0,5.0,30.6,clear
+604,Groundnut,Palitana,2016-08-02,3250.0,15.0,30.0,clear
+605,Groundnut,Taleja,2016-08-02,4117.5,7.18,30.0,clear
+606,Groundnut,Palitana,2016-02-16,3500.0,2.0,29.2,clear
+607,Groundnut,Palitana,2016-02-18,3750.0,3.0,32.0,clear
+608,Groundnut,Palitana,2016-04-18,3750.0,1.0,36.2,clear
+609,Groundnut,Palitana,2016-05-07,5375.0,3.0,35.6,clear
+610,Groundnut,Palitana,2016-07-07,5375.0,3.0,33.6,clear
+611,Groundnut,Palitana,2016-07-17,4875.0,1.0,32.8,clear
+612,Groundnut,Palitana,2016-12-08,6000.0,2.0,30.0,clear
+613,Mustard,Botad,2016-12-08,3450.0,1.1,30.0,clear
+614,Groundnut,Palitana,2016-08-15,5250.0,2.0,33.0,clear
+615,Groundnut,Palitana,2016-08-22,5250.0,3.0,33.0,clear
+616,Groundnut,Palitana,2016-08-27,5250.0,1.0,31.2,clear
+617,Groundnut,Palitana,2016-08-29,5250.0,3.0,31.8,rain
+618,Groundnut,Palitana,2016-08-09,5500.0,2.0,30.8,rain
+619,Groundnut,Palitana,2016-09-19,5500.0,1.0,28.0,clear
+620,Mustard,Botad,2016-09-19,4140.0,0.2,28.0,clear
+621,Groundnut,Palitana,2016-11-27,4220.0,0.0,31.6,clear
+622,Groundnut,Palitana,2016-12-25,4220.0,,28.6,clear
+623,Groundnut,Taleja,2016-11-02,4037.5,5.6,32.2,clear
+624,Groundnut,Taleja,2016-05-10,3815.0,4.38,39.0,clear
+625,Groundnut,Taleja,2016-11-10,4087.5,14.7,31.6,clear
+626,Mustard,Bhavnagar,2016-10-09,3350.0,0.1,33.0,clear
+627,Mustard,Botad,2016-10-09,3900.0,0.8,33.0,clear
+628,Mustard,Botad,2016-07-28,4260.0,0.2,32.4,clear
+629,Mustard,Botad,2016-09-09,3900.0,0.8,32.8,clear
+630,Mustard,Botad,2016-09-15,4250.0,0.1,34.0,clear
+631,Mustard,Botad,2016-09-17,4015.0,0.2,30.4,clear
+632,Mustard,Botad,2016-09-22,4180.0,0.1,31.6,clear
+633,Groundnut,Bhavnagar,2017-02-01,4502.5,82.2,29.4,clear
+634,Groundnut,Mahuva(Station Road),2017-02-01,4375.0,82.7,29.4,clear
+635,Groundnut,Palitana,2017-02-01,4220.0,32.48,29.4,clear
+636,Groundnut,Taleja,2017-02-01,4175.0,,29.4,clear
+637,Groundnut,Bhavnagar,2017-03-01,4452.5,82.0,34.4,clear
+638,Groundnut,Mahuva(Station Road),2017-03-01,4350.0,150.5,34.4,clear
+639,Groundnut,Palitana,2017-03-01,4220.0,,34.4,clear
+640,Groundnut,Taleja,2017-03-01,4250.0,73.5,34.4,clear
+641,Groundnut,Bhavnagar,2017-04-01,4492.5,127.3,36.2,clear
+642,Groundnut,Mahuva(Station Road),2017-04-01,4250.0,124.5,36.2,clear
+643,Groundnut,Palitana,2017-04-01,4220.0,60.48,36.2,clear
+644,Groundnut,Taleja,2017-04-01,4167.5,61.25,36.2,clear
+645,Groundnut,Bhavnagar,2017-05-01,4525.0,108.8,37.4,clear
+646,Groundnut,Mahuva(Station Road),2017-05-01,4337.5,104.1,37.4,clear
+647,Groundnut,Palitana,2017-05-01,4220.0,,37.4,clear
+648,Groundnut,Bhavnagar,2017-06-01,4492.5,138.2,37.0,clear
+649,Groundnut,Palitana,2017-06-01,4220.0,,37.0,clear
+650,Soyabean,Bhavnagar,2017-06-01,2750.0,0.02,37.0,clear
+651,Groundnut,Bhavnagar,2017-07-01,3730.0,76.7,30.8,rain
+652,Groundnut,Mahuva(Station Road),2017-07-01,4325.0,98.2,30.8,rain
+653,Groundnut,Palitana,2017-07-01,4220.0,,30.8,rain
+654,Groundnut,Bhavnagar,2017-09-01,4335.0,150.2,32.4,clear
+655,Groundnut,Mahuva(Station Road),2017-09-01,4300.0,104.0,32.4,clear
+656,Groundnut,Palitana,2017-09-01,4220.0,,32.4,clear
+657,Groundnut,Bhavnagar,2017-10-01,4295.0,77.0,36.0,clear
+658,Groundnut,Mahuva(Station Road),2017-10-01,4350.0,116.6,36.0,clear
+659,Groundnut,Palitana,2017-10-01,4220.0,15.99,36.0,clear
+660,Groundnut,Bhavnagar,2017-11-01,4355.0,92.1,33.6,clear
+661,Groundnut,Mahuva(Station Road),2017-11-01,4300.0,130.7,33.6,clear
+662,Groundnut,Palitana,2017-11-01,4220.0,,33.6,clear
+663,Groundnut,Taleja,2017-11-01,4130.0,62.3,33.6,clear
+664,Groundnut,Bhavnagar,2017-12-01,4312.5,39.3,30.8,clear
+665,Groundnut,Palitana,2017-12-01,4220.0,,30.8,clear
+666,Groundnut,Bhavnagar,2017-01-13,4222.5,38.8,24.0,clear
+667,Groundnut,Mahuva(Station Road),2017-01-13,4150.0,43.1,24.0,clear
+668,Groundnut,Palitana,2017-01-13,4220.0,,24.0,clear
+669,Mustard,Bhavnagar,2017-01-13,3875.0,0.1,24.0,clear
+670,Groundnut,Bhavnagar,2017-01-16,4360.0,37.6,25.6,clear
+671,Groundnut,Mahuva(Station Road),2017-01-16,4362.5,52.9,25.6,clear
+672,Groundnut,Palitana,2017-01-16,4220.0,20.5,25.6,clear
+673,Groundnut,Taleja,2017-01-16,4055.0,,25.6,clear
+674,Groundnut,Bhavnagar,2017-01-17,4407.5,47.0,24.4,clear
+675,Groundnut,Mahuva(Station Road),2017-01-17,4350.0,89.9,24.4,clear
+676,Groundnut,Palitana,2017-01-17,4220.0,25.5,24.4,clear
+677,Groundnut,Taleja,2017-01-17,4062.5,61.25,24.4,clear
+678,Groundnut,Bhavnagar,2017-01-18,4425.0,48.6,25.6,clear
+679,Groundnut,Palitana,2017-01-18,4220.0,,25.6,clear
+680,Groundnut,Taleja,2017-01-18,4107.5,,25.6,clear
+681,Groundnut,Bhavnagar,2017-01-19,3930.0,50.8,23.6,clear
+682,Groundnut,Mahuva(Station Road),2017-01-19,4300.0,97.2,23.6,clear
+683,Groundnut,Palitana,2017-01-19,4220.0,,23.6,clear
+684,Groundnut,Taleja,2017-01-19,4122.5,49.7,23.6,clear
+685,Groundnut,Bhavnagar,2017-01-20,4470.0,44.8,26.2,clear
+686,Groundnut,Palitana,2017-01-20,4220.0,,26.2,clear
+687,Groundnut,Taleja,2017-01-20,4227.5,,26.2,clear
+688,Groundnut,Bhavnagar,2017-01-21,4412.5,75.3,29.0,clear
+689,Groundnut,Palitana,2017-01-21,4220.0,,29.0,clear
+690,Groundnut,Bhavnagar,2017-01-23,4440.0,77.9,31.0,clear
+691,Groundnut,Mahuva(Station Road),2017-01-23,4350.0,95.7,31.0,clear
+692,Groundnut,Palitana,2017-01-23,4220.0,13.92,31.0,clear
+693,Groundnut,Bhavnagar,2017-01-24,4380.0,87.2,32.6,clear
+694,Groundnut,Mahuva(Station Road),2017-01-24,4412.5,120.6,32.6,clear
+695,Groundnut,Palitana,2017-01-24,4220.0,,32.6,clear
+696,Groundnut,Bhavnagar,2017-01-25,4362.5,70.9,31.4,clear
+697,Groundnut,Mahuva(Station Road),2017-01-25,4375.0,93.6,31.4,clear
+698,Groundnut,Palitana,2017-01-25,4220.0,,31.4,clear
+699,Groundnut,Bhavnagar,2017-01-27,4525.0,67.1,25.2,clear
+700,Groundnut,Palitana,2017-01-27,4220.0,32.48,25.2,clear
+701,Soyabean,Bhavnagar,2017-01-27,2655.0,0.28,25.2,clear
+702,Groundnut,Bhavnagar,2017-01-28,4375.0,73.7,26.6,clear
+703,Groundnut,Mahuva(Station Road),2017-01-28,4375.0,34.0,26.6,clear
+704,Groundnut,Palitana,2017-01-28,4220.0,24.36,26.6,clear
+705,Groundnut,Bhavnagar,2017-01-30,4400.0,61.7,29.2,clear
+706,Groundnut,Mahuva(Station Road),2017-01-30,4375.0,61.4,29.2,clear
+707,Groundnut,Palitana,2017-01-30,4220.0,,29.2,clear
+708,Groundnut,Bhavnagar,2017-01-31,4330.0,76.7,28.4,clear
+709,Groundnut,Palitana,2017-01-31,4220.0,25.4,28.4,clear
+710,Groundnut,Bhavnagar,2017-01-02,4285.0,30.2,28.0,clear
+711,Groundnut,Palitana,2017-01-02,4220.0,14.48,28.0,clear
+712,Groundnut,Taleja,2017-01-02,4337.5,26.95,28.0,clear
+713,Groundnut,Bhavnagar,2017-02-02,4395.0,35.4,31.0,clear
+714,Groundnut,Taleja,2017-02-02,4162.5,14.0,31.0,clear
+715,Groundnut,Bhavnagar,2017-03-02,4327.5,31.6,32.6,clear
+716,Groundnut,Palitana,2017-03-02,4220.0,7.16,32.6,clear
+717,Groundnut,Taleja,2017-03-02,4135.0,11.38,32.6,clear
+718,Groundnut,Bhavnagar,2017-04-02,4315.0,15.1,35.6,clear
+719,Groundnut,Mahuva(Station Road),2017-04-02,4250.0,37.2,35.6,clear
+720,Groundnut,Palitana,2017-04-02,4220.0,17.88,35.6,clear
+721,Groundnut,Taleja,2017-04-02,4127.5,,35.6,clear
+722,Groundnut,Bhavnagar,2017-06-02,4247.5,38.8,37.4,clear
+723,Groundnut,Mahuva(Station Road),2017-06-02,4300.0,77.4,37.4,clear
+724,Groundnut,Palitana,2017-06-02,4220.0,,37.4,clear
+725,Groundnut,Taleja,2017-06-02,4085.0,11.2,37.4,clear
+726,Groundnut,Bhavnagar,2017-07-02,4287.5,37.6,35.4,clear
+727,Groundnut,Palitana,2017-07-02,4220.0,21.86,35.4,clear
+728,Groundnut,Taleja,2017-07-02,4120.0,17.5,35.4,clear
+729,Groundnut,Bhavnagar,2017-08-02,4327.5,50.5,32.0,clear
+730,Groundnut,Mahuva(Station Road),2017-08-02,4300.0,56.0,32.0,clear
+731,Groundnut,Palitana,2017-08-02,4220.0,,32.0,clear
+732,Groundnut,Taleja,2017-08-02,4220.0,22.75,32.0,clear
+733,Groundnut,Bhavnagar,2017-09-02,4205.0,42.8,31.6,clear
+734,Groundnut,Palitana,2017-09-02,4220.0,20.5,31.6,clear
+735,Groundnut,Taleja,2017-09-02,4160.0,20.65,31.6,clear
+736,Groundnut,Bhavnagar,2017-10-02,4330.0,34.0,34.6,clear
+737,Groundnut,Mahuva(Station Road),2017-10-02,4312.5,57.3,34.6,clear
+738,Groundnut,Palitana,2017-10-02,4220.0,30.72,34.6,clear
+739,Groundnut,Taleja,2017-10-02,4230.0,,34.6,clear
+740,Groundnut,Bhavnagar,2017-11-02,4282.5,34.3,34.2,clear
+741,Groundnut,Mahuva(Station Road),2017-11-02,4300.0,57.5,34.2,clear
+742,Groundnut,Palitana,2017-11-02,4220.0,16.34,34.2,clear
+743,Groundnut,Taleja,2017-11-02,4157.5,16.8,34.2,clear
+744,Groundnut,Bhavnagar,2017-02-13,4270.0,30.6,29.0,clear
+745,Groundnut,Mahuva(Station Road),2017-02-13,4362.5,38.7,29.0,clear
+746,Groundnut,Palitana,2017-02-13,4220.0,,29.0,clear
+747,Groundnut,Taleja,2017-02-13,4152.5,14.0,29.0,clear
+748,Groundnut,Bhavnagar,2017-02-14,4327.5,35.5,32.0,clear
+749,Groundnut,Mahuva(Station Road),2017-02-14,4300.0,30.3,32.0,clear
+750,Groundnut,Palitana,2017-02-14,4220.0,,32.0,clear
+751,Groundnut,Taleja,2017-02-14,4232.5,,32.0,clear
+752,Groundnut,Bhavnagar,2017-02-15,4190.0,37.8,34.8,clear
+753,Groundnut,Mahuva(Station Road),2017-02-15,4355.0,50.1,34.8,clear
+754,Groundnut,Bhavnagar,2017-02-16,4330.0,22.7,34.0,clear
+755,Groundnut,Mahuva(Station Road),2017-02-16,4250.0,49.8,34.0,clear
+756,Groundnut,Bhavnagar,2017-02-17,4222.5,22.0,35.6,clear
+757,Groundnut,Mahuva(Station Road),2017-02-17,4372.5,24.7,35.6,clear
+758,Groundnut,Bhavnagar,2017-02-18,4320.0,24.0,35.6,clear
+759,Groundnut,Bhavnagar,2017-02-20,4250.0,34.0,36.8,clear
+760,Groundnut,Mahuva(Station Road),2017-02-20,4205.0,52.2,36.8,clear
+761,Groundnut,Bhavnagar,2017-02-21,4235.0,41.1,27.0,clear
+762,Groundnut,Mahuva(Station Road),2017-02-21,4350.0,38.5,27.0,clear
+763,Groundnut,Bhavnagar,2017-02-22,4312.5,35.8,28.6,clear
+764,Groundnut,Palitana,2017-02-22,3250.0,0.64,28.6,clear
+765,Groundnut,Bhavnagar,2017-02-23,4195.0,34.4,31.0,clear
+766,Groundnut,Bhavnagar,2017-02-25,4317.5,20.3,34.0,clear
+767,Groundnut,Mahuva(Station Road),2017-02-25,4187.5,40.3,34.0,clear
+768,Mustard,Botad,2017-02-25,3380.0,1.0,34.0,clear
+769,Groundnut,Bhavnagar,2017-02-27,4287.5,15.2,35.8,clear
+770,Groundnut,Mahuva(Station Road),2017-02-27,4375.0,60.9,35.8,clear
+771,Mustard,Bhavnagar,2017-02-27,2725.0,1.5,35.8,clear
+772,Mustard,Botad,2017-02-27,2645.0,0.8,35.8,clear
+773,Groundnut,Bhavnagar,2017-02-28,4322.5,11.6,35.0,clear
+774,Groundnut,Mahuva(Station Road),2017-02-28,4312.5,36.8,35.0,clear
+775,Mustard,Bhavnagar,2017-02-28,2500.0,1.5,35.0,clear
+776,Mustard,Botad,2017-02-28,3385.0,0.3,35.0,clear
+777,Soyabean,Bhavnagar,2017-02-28,2680.0,0.12,35.0,clear
+778,Groundnut,Bhavnagar,2017-01-03,4192.5,23.0,27.6,clear
+779,Groundnut,Mahuva(Station Road),2017-01-03,4225.0,32.6,27.6,clear
+780,Groundnut,Taleja,2017-01-03,3840.0,3.15,27.6,clear
+781,Mustard,Botad,2017-01-03,2790.0,3.2,27.6,clear
+782,Soyabean,Bhavnagar,2017-01-03,2750.0,0.88,27.6,clear
+783,Groundnut,Bhavnagar,2017-02-03,4490.0,18.1,33.0,clear
+784,Groundnut,Mahuva(Station Road),2017-02-03,4225.0,22.7,33.0,clear
+785,Groundnut,Palitana,2017-02-03,3500.0,0.22,33.0,clear
+786,Groundnut,Taleja,2017-02-03,4090.0,4.2,33.0,clear
+787,Mustard,Botad,2017-02-03,2500.0,0.2,33.0,clear
+788,Groundnut,Bhavnagar,2017-03-03,4360.0,35.4,32.0,clear
+789,Groundnut,Mahuva(Station Road),2017-03-03,4325.0,22.8,32.0,clear
+790,Groundnut,Taleja,2017-03-03,4102.5,7.0,32.0,clear
+791,Mustard,Botad,2017-03-03,2665.0,0.3,32.0,clear
+792,Groundnut,Bhavnagar,2017-04-03,4230.0,13.2,37.8,clear
+793,Groundnut,Mahuva(Station Road),2017-04-03,4225.0,16.6,37.8,clear
+794,Groundnut,Palitana,2017-04-03,3500.0,0.1,37.8,clear
+795,Groundnut,Taleja,2017-04-03,3977.5,7.0,37.8,clear
+796,Mustard,Botad,2017-04-03,2795.0,0.3,37.8,clear
+797,Groundnut,Bhavnagar,2017-06-03,4187.5,27.8,40.0,clear
+798,Groundnut,Mahuva(Station Road),2017-06-03,4250.0,20.5,40.0,clear
+799,Groundnut,Bhavnagar,2017-07-03,4190.0,9.9,33.0,rain
+800,Groundnut,Taleja,2017-07-03,4027.5,8.4,33.0,rain
+801,Mustard,Botad,2017-07-03,3290.0,0.2,33.0,rain
+802,Groundnut,Bhavnagar,2017-08-03,4172.5,7.5,33.8,clear
+803,Groundnut,Mahuva(Station Road),2017-08-03,4235.0,14.6,33.8,clear
+804,Groundnut,Palitana,2017-08-03,3500.0,0.3,33.8,clear
+805,Groundnut,Taleja,2017-08-03,3995.0,3.15,33.8,clear
+806,Groundnut,Bhavnagar,2017-09-03,4307.5,11.3,32.2,clear
+807,Groundnut,Mahuva(Station Road),2017-09-03,3660.0,14.0,32.2,clear
+808,Mustard,Botad,2017-09-03,3125.0,0.7,32.2,clear
+809,Groundnut,Bhavnagar,2017-03-15,4387.5,22.8,34.8,clear
+810,Groundnut,Mahuva(Station Road),2017-03-15,4377.5,10.5,34.8,clear
+811,Groundnut,Palitana,2017-03-15,3500.0,0.1,34.8,clear
+812,Groundnut,Bhavnagar,2017-03-16,4497.5,18.1,33.6,clear
+813,Groundnut,Mahuva(Station Road),2017-03-16,4375.0,12.3,33.6,clear
+814,Groundnut,Bhavnagar,2017-03-17,4270.0,36.0,34.0,clear
+815,Groundnut,Mahuva(Station Road),2017-03-17,4250.0,18.4,34.0,clear
+816,Groundnut,Bhavnagar,2017-03-18,4367.5,8.8,34.6,clear
+817,Groundnut,Mahuva(Station Road),2017-03-18,4600.0,31.9,34.6,clear
+818,Mustard,Bhavnagar,2017-03-18,3750.0,0.1,34.6,clear
+819,Soyabean,Bhavnagar,2017-03-18,2375.0,0.02,34.6,clear
+820,Groundnut,Bhavnagar,2017-03-20,4500.0,25.1,34.6,clear
+821,Groundnut,Mahuva(Station Road),2017-03-20,4550.0,31.9,34.6,clear
+822,Groundnut,Bhavnagar,2017-03-21,4297.5,22.3,37.0,clear
+823,Groundnut,Mahuva(Station Road),2017-03-21,4250.0,31.5,37.0,clear
+824,Groundnut,Bhavnagar,2017-03-22,4577.5,29.8,36.0,clear
+825,Groundnut,Mahuva(Station Road),2017-03-22,4500.0,91.4,36.0,clear
+826,Groundnut,Bhavnagar,2017-03-23,4627.5,66.3,35.6,clear
+827,Groundnut,Mahuva(Station Road),2017-03-23,4312.5,31.7,35.6,clear
+828,Mustard,Bhavnagar,2017-03-23,3500.0,0.1,35.6,clear
+829,Groundnut,Bhavnagar,2017-03-24,4557.5,65.9,36.4,clear
+830,Groundnut,Mahuva(Station Road),2017-03-24,4592.5,35.0,36.4,clear
+831,Groundnut,Bhavnagar,2017-03-25,4472.5,31.1,36.6,clear
+832,Groundnut,Mahuva(Station Road),2017-03-25,4362.5,24.6,36.6,clear
+833,Groundnut,Bhavnagar,2017-03-27,4592.5,51.8,40.6,clear
+834,Mustard,Bhavnagar,2017-03-27,3365.0,0.8,40.6,clear
+835,Groundnut,Bhavnagar,2017-03-28,4550.0,46.6,40.0,clear
+836,Groundnut,Bhavnagar,2017-03-04,4450.0,40.9,33.2,clear
+837,Groundnut,Mahuva(Station Road),2017-03-04,4375.0,53.7,33.2,clear
+838,Groundnut,Taleja,2017-03-04,4545.0,7.0,33.2,clear
+839,Mustard,Bhavnagar,2017-03-04,3750.0,0.4,33.2,clear
+840,Groundnut,Bhavnagar,2017-06-04,4437.5,81.7,39.0,clear
+841,Groundnut,Mahuva(Station Road),2017-06-04,4750.0,29.8,39.0,clear
+842,Groundnut,Taleja,2017-06-04,4397.5,10.5,39.0,clear
+843,Mustard,Bhavnagar,2017-06-04,4160.0,1.2,39.0,clear
+844,Soyabean,Bhavnagar,2017-06-04,2590.0,0.3,39.0,clear
+845,Groundnut,Bhavnagar,2017-07-04,4657.5,32.7,35.8,clear
+846,Groundnut,Mahuva(Station Road),2017-07-04,4612.5,43.8,35.8,clear
+847,Groundnut,Taleja,2017-07-04,3870.0,5.25,35.8,clear
+848,Mustard,Bhavnagar,2017-07-04,4100.0,0.3,35.8,clear
+849,Groundnut,Bhavnagar,2017-08-04,4600.0,26.2,34.0,clear
+850,Groundnut,Mahuva(Station Road),2017-08-04,4885.0,24.6,34.0,clear
+851,Groundnut,Taleja,2017-08-04,4410.0,5.78,34.0,clear
+852,Mustard,Bhavnagar,2017-08-04,4550.0,0.1,34.0,clear
+853,Groundnut,Bhavnagar,2017-10-04,4587.5,56.7,36.6,clear
+854,Groundnut,Mahuva(Station Road),2017-10-04,4750.0,35.0,36.6,clear
+855,Groundnut,Bhavnagar,2017-11-04,4532.5,51.0,33.6,clear
+856,Groundnut,Bhavnagar,2017-12-04,4615.0,22.6,24.6,rain
+857,Groundnut,Mahuva(Station Road),2017-12-04,4650.0,45.5,24.6,rain
+858,Groundnut,Bhavnagar,2017-04-13,4585.0,31.6,42.0,clear
+859,Groundnut,Mahuva(Station Road),2017-04-13,4765.0,42.6,42.0,clear
+860,Groundnut,Bhavnagar,2017-04-14,4732.5,45.1,40.8,clear
+861,Groundnut,Mahuva(Station Road),2017-04-14,4750.0,47.6,40.8,clear
+862,Groundnut,Bhavnagar,2017-04-15,4480.0,27.8,38.2,clear
+863,Groundnut,Mahuva(Station Road),2017-04-15,4425.0,25.6,38.2,clear
+864,Groundnut,Bhavnagar,2017-04-17,4467.5,39.6,43.0,clear
+865,Groundnut,Mahuva(Station Road),2017-04-17,4700.0,25.0,43.0,clear
+866,Groundnut,Bhavnagar,2017-04-18,4407.5,0.5,40.6,clear
+867,Groundnut,Mahuva(Station Road),2017-04-18,4600.0,44.0,40.6,clear
+868,Groundnut,Bhavnagar,2017-04-19,4460.0,36.4,41.0,clear
+869,Groundnut,Mahuva(Station Road),2017-04-19,4650.0,45.6,41.0,clear
+870,Groundnut,Bhavnagar,2017-04-20,4430.0,277.0,38.4,clear
+871,Groundnut,Mahuva(Station Road),2017-04-20,4437.5,31.0,38.4,clear
+872,Groundnut,Bhavnagar,2017-04-21,4500.0,21.3,38.4,clear
+873,Groundnut,Mahuva(Station Road),2017-04-21,4400.0,40.1,38.4,clear
+874,Groundnut,Bhavnagar,2017-04-22,4090.0,9.5,37.0,clear
+875,Groundnut,Mahuva(Station Road),2017-04-22,4475.0,23.1,37.0,clear
+876,Groundnut,Bhavnagar,2017-04-24,4322.5,14.0,36.2,clear
+877,Groundnut,Bhavnagar,2017-04-25,4242.5,14.5,36.2,clear
+878,Groundnut,Mahuva(Station Road),2017-04-25,4425.0,38.9,36.2,clear
+879,Groundnut,Bhavnagar,2017-04-26,4362.5,24.5,34.6,clear
+880,Groundnut,Mahuva(Station Road),2017-04-26,4587.5,25.0,34.6,clear
+881,Groundnut,Bhavnagar,2017-04-27,4525.0,60.9,37.0,clear
+882,Groundnut,Mahuva(Station Road),2017-04-27,4340.0,15.1,37.0,clear
+883,Groundnut,Bhavnagar,2017-01-05,4482.5,13.2,28.4,clear
+884,Groundnut,Mahuva(Station Road),2017-01-05,4762.5,37.6,28.4,clear
+885,Groundnut,Bhavnagar,2017-02-05,4622.5,12.6,25.8,clear
+886,Groundnut,Mahuva(Station Road),2017-02-05,4675.0,16.0,25.8,clear
+887,Groundnut,Bhavnagar,2017-03-05,4637.5,25.2,33.0,clear
+888,Groundnut,Mahuva(Station Road),2017-03-05,4687.5,53.3,33.0,clear
+889,Groundnut,Bhavnagar,2017-04-05,4507.5,17.0,38.0,clear
+890,Groundnut,Mahuva(Station Road),2017-04-05,4625.0,24.2,38.0,clear
+891,Groundnut,Bhavnagar,2017-05-05,4455.0,18.0,40.0,clear
+892,Groundnut,Bhavnagar,2017-06-05,4437.5,6.0,38.6,clear
+893,Groundnut,Mahuva(Station Road),2017-06-05,4375.0,16.1,38.6,clear
+894,Mustard,Bhavnagar,2017-06-05,3250.0,0.1,38.6,clear
+895,Groundnut,Bhavnagar,2017-08-05,4110.0,27.7,33.6,clear
+896,Groundnut,Mahuva(Station Road),2017-08-05,4562.5,19.3,33.6,clear
+897,Groundnut,Bhavnagar,2017-09-05,4450.0,10.5,32.2,clear
+898,Groundnut,Mahuva(Station Road),2017-09-05,4562.5,24.5,32.2,clear
+899,Mustard,Bhavnagar,2017-09-05,2850.0,0.1,32.2,clear
+900,Groundnut,Bhavnagar,2017-10-05,4585.0,18.6,36.8,clear
+901,Groundnut,Mahuva(Station Road),2017-10-05,4500.0,21.0,36.8,clear
+902,Soyabean,Bhavnagar,2017-10-05,2675.0,0.02,36.8,clear
+903,Groundnut,Bhavnagar,2017-11-05,4540.0,14.1,33.0,clear
+904,Groundnut,Mahuva(Station Road),2017-11-05,4500.0,29.8,33.0,clear
+905,Mustard,Bhavnagar,2017-11-05,3000.0,0.4,33.0,clear
+906,Groundnut,Bhavnagar,2017-12-05,4527.5,20.8,21.2,rain
+907,Groundnut,Bhavnagar,2017-05-13,4552.5,11.7,41.0,clear
+908,Groundnut,Mahuva(Station Road),2017-05-13,4675.0,15.8,41.0,clear
+909,Groundnut,Bhavnagar,2017-05-15,4552.5,42.1,38.0,clear
+910,Groundnut,Palitana,2017-05-15,4000.0,0.82,38.0,clear
+911,Mustard,Bhavnagar,2017-05-15,2750.0,0.2,38.0,clear
+912,Soyabean,Bhavnagar,2017-05-15,2550.0,0.1,38.0,clear
+913,Groundnut,Bhavnagar,2017-05-16,4430.0,28.0,37.6,clear
+914,Groundnut,Palitana,2017-05-16,4000.0,0.3,37.6,clear
+915,Mustard,Botad,2017-05-16,4040.0,0.1,37.6,clear
+916,Groundnut,Bhavnagar,2017-05-17,4305.0,32.0,38.0,clear
+917,Groundnut,Bhavnagar,2017-05-18,4462.5,22.0,38.0,clear
+918,Groundnut,Mahuva(Station Road),2017-05-18,4625.0,39.4,38.0,clear
+919,Groundnut,Bhavnagar,2017-05-19,4445.0,46.0,42.4,clear
+920,Groundnut,Palitana,2017-05-19,3750.0,0.72,42.4,clear
+921,Groundnut,Bhavnagar,2017-05-20,4375.0,20.5,41.4,clear
+922,Groundnut,Mahuva(Station Road),2017-05-20,4625.0,40.3,41.4,clear
+923,Mustard,Bhavnagar,2017-05-20,2425.0,0.5,41.4,clear
+924,Groundnut,Bhavnagar,2017-05-22,4462.5,46.7,37.4,clear
+925,Groundnut,Palitana,2017-05-22,3750.0,0.16,37.4,clear
+926,Groundnut,Bhavnagar,2017-05-23,4375.0,35.1,38.0,clear
+927,Groundnut,Mahuva(Station Road),2017-05-23,4625.0,87.5,38.0,clear
+928,Groundnut,Palitana,2017-05-23,3750.0,0.16,38.0,clear
+929,Groundnut,Bhavnagar,2017-05-24,4405.0,55.0,38.4,clear
+930,Groundnut,Mahuva(Station Road),2017-05-24,4750.0,70.1,38.4,clear
+931,Groundnut,Bhavnagar,2017-05-25,4162.5,19.0,39.0,clear
+932,Groundnut,Mahuva(Station Road),2017-05-25,4712.5,101.5,39.0,clear
+933,Groundnut,Palitana,2017-05-25,4000.0,0.56,39.0,clear
+934,Mustard,Bhavnagar,2017-05-25,2825.0,0.1,39.0,clear
+935,Groundnut,Bhavnagar,2017-05-26,4397.5,40.5,37.4,clear
+936,Mustard,Bhavnagar,2017-05-26,2250.0,0.1,37.4,clear
+937,Groundnut,Bhavnagar,2017-05-27,4417.5,30.5,41.2,clear
+938,Groundnut,Mahuva(Station Road),2017-05-27,4250.0,73.3,41.2,clear
+939,Groundnut,Palitana,2017-05-27,4125.0,0.78,41.2,clear
+940,Soyabean,Bhavnagar,2017-05-27,2435.0,0.02,41.2,clear
+941,Groundnut,Bhavnagar,2017-05-29,4612.5,37.0,38.4,clear
+942,Groundnut,Mahuva(Station Road),2017-05-29,4200.0,126.7,38.4,clear
+943,Groundnut,Palitana,2017-05-29,4000.0,0.4,38.4,clear
+944,Groundnut,Bhavnagar,2017-05-30,4255.0,37.6,38.2,clear
+945,Groundnut,Palitana,2017-05-30,4000.0,0.28,38.2,clear
+946,Groundnut,Bhavnagar,2017-05-31,4420.0,40.0,38.4,clear
+947,Groundnut,Mahuva(Station Road),2017-05-31,4000.0,68.7,38.4,clear
+948,Groundnut,Palitana,2017-05-31,4000.0,0.6,38.4,clear
+949,Groundnut,Bhavnagar,2017-01-06,4427.5,27.5,26.2,clear
+950,Groundnut,Mahuva(Station Road),2017-01-06,4337.5,73.5,26.2,clear
+951,Groundnut,Bhavnagar,2017-02-06,4407.5,21.8,24.4,clear
+952,Groundnut,Bhavnagar,2017-03-06,3825.0,29.6,33.2,clear
+953,Groundnut,Bhavnagar,2017-05-06,4382.5,7.1,37.6,clear
+954,Groundnut,Bhavnagar,2017-06-06,4275.0,28.8,38.2,clear
+955,Groundnut,Palitana,2017-06-06,3750.0,0.34,38.2,clear
+956,Groundnut,Bhavnagar,2017-07-06,4307.5,24.6,37.2,clear
+957,Groundnut,Mahuva(Station Road),2017-07-06,4450.0,91.5,37.2,clear
+958,Groundnut,Palitana,2017-07-06,3750.0,1.2,37.2,clear
+959,Groundnut,Bhavnagar,2017-09-06,4285.0,33.8,32.0,clear
+960,Groundnut,Mahuva(Station Road),2017-09-06,4500.0,59.5,32.0,clear
+961,Groundnut,Palitana,2017-09-06,3750.0,0.22,32.0,clear
+962,Groundnut,Bhavnagar,2017-10-06,4297.5,22.3,36.6,clear
+963,Groundnut,Mahuva(Station Road),2017-10-06,4275.0,29.1,36.6,clear
+964,Groundnut,Palitana,2017-10-06,4000.0,0.2,36.6,clear
+965,Groundnut,Bhavnagar,2017-12-06,4180.0,20.5,19.2,clear
+966,Groundnut,Palitana,2017-12-06,4000.0,1.22,19.2,clear
+967,Groundnut,Bhavnagar,2017-06-13,4245.0,22.4,36.4,clear
+968,Groundnut,Mahuva(Station Road),2017-06-13,4500.0,50.2,36.4,clear
+969,Groundnut,Bhavnagar,2017-06-14,4162.5,14.6,36.4,clear
+970,Groundnut,Mahuva(Station Road),2017-06-14,4200.0,40.8,36.4,clear
+971,Groundnut,Bhavnagar,2017-06-15,4112.5,9.1,38.6,clear
+972,Mustard,Bhavnagar,2017-06-15,3025.0,0.1,38.6,clear
+973,Groundnut,Bhavnagar,2017-06-16,4175.0,9.1,38.6,clear
+974,Groundnut,Mahuva(Station Road),2017-06-16,4062.5,43.8,38.6,clear
+975,Groundnut,Bhavnagar,2017-06-19,4117.5,10.8,38.0,clear
+976,Groundnut,Mahuva(Station Road),2017-06-19,4100.0,78.0,38.0,clear
+977,Groundnut,Palitana,2017-06-19,3500.0,0.08,38.0,clear
+978,Groundnut,Bhavnagar,2017-06-20,3687.5,18.8,36.2,clear
+979,Groundnut,Mahuva(Station Road),2017-06-20,4187.5,45.5,36.2,clear
+980,Groundnut,Bhavnagar,2017-06-21,4117.5,8.4,35.4,clear
+981,Groundnut,Mahuva(Station Road),2017-06-21,3925.0,35.0,35.4,clear
+982,Groundnut,Palitana,2017-06-21,3750.0,0.1,35.4,clear
+983,Mustard,Bhavnagar,2017-06-21,3250.0,0.7,35.4,clear
+984,Groundnut,Bhavnagar,2017-06-27,3750.0,4.9,34.6,clear
+985,Groundnut,Mahuva(Station Road),2017-06-27,4075.0,16.6,34.6,clear
+986,Groundnut,Palitana,2017-06-27,3750.0,0.22,34.6,clear
+987,Groundnut,Bhavnagar,2017-06-28,4012.5,11.1,33.4,clear
+988,Groundnut,Mahuva(Station Road),2017-06-28,4062.5,19.3,33.4,clear
+989,Soyabean,Bhavnagar,2017-06-28,2400.0,0.1,33.4,clear
+990,Groundnut,Bhavnagar,2017-06-29,3927.5,17.9,34.0,clear
+991,Groundnut,Bhavnagar,2017-07-17,3780.0,4.5,31.4,rain
+992,Groundnut,Bhavnagar,2017-07-18,3695.0,15.0,30.8,clear
+993,Groundnut,Bhavnagar,2017-07-20,3700.0,27.9,32.4,clear
+994,Groundnut,Mahuva(Station Road),2017-07-20,3950.0,60.6,32.4,clear
+995,Groundnut,Bhavnagar,2017-07-21,3705.0,6.8,31.0,clear
+996,Groundnut,Mahuva(Station Road),2017-07-21,3965.0,173.5,31.0,clear
+997,Groundnut,Bhavnagar,2017-07-22,3605.0,13.5,29.0,clear
+998,Groundnut,Bhavnagar,2017-07-24,3620.0,22.4,29.0,rain
+999,Groundnut,Bhavnagar,2017-07-25,3652.5,15.5,31.8,clear
+1000,Groundnut,Palitana,2017-07-25,3500.0,0.04,31.8,clear
+1001,Groundnut,Bhavnagar,2017-07-27,3560.0,17.1,28.0,clear
+1002,Groundnut,Mahuva(Station Road),2017-07-27,3525.0,10.5,28.0,clear
+1003,Groundnut,Bhavnagar,2017-07-28,3575.0,31.3,27.4,rain
+1004,Groundnut,Mahuva(Station Road),2017-07-28,3595.0,31.5,27.4,rain
+1005,Groundnut,Palitana,2017-07-28,3500.0,0.16,27.4,rain
+1006,Groundnut,Bhavnagar,2017-07-29,3535.0,3.1,30.6,clear
+1007,Groundnut,Bhavnagar,2017-07-31,3547.5,23.0,29.8,clear
+1008,Mustard,Bhavnagar,2017-07-31,3000.0,0.1,29.8,clear
+1009,Groundnut,Bhavnagar,2017-01-08,3792.5,17.4,26.0,clear
+1010,Groundnut,Mahuva(Station Road),2017-01-08,3917.5,32.0,26.0,clear
+1011,Groundnut,Bhavnagar,2017-02-08,3430.0,18.2,28.4,clear
+1012,Groundnut,Mahuva(Station Road),2017-02-08,4000.0,76.5,28.4,clear
+1013,Groundnut,Palitana,2017-02-08,3500.0,0.02,28.4,clear
+1014,Groundnut,Bhavnagar,2017-03-08,3400.0,33.1,33.4,clear
+1015,Groundnut,Mahuva(Station Road),2017-03-08,3852.5,36.8,33.4,clear
+1016,Groundnut,Bhavnagar,2017-04-08,3435.0,18.6,35.6,clear
+1017,Groundnut,Mahuva(Station Road),2017-04-08,3805.0,38.5,35.6,clear
+1018,Groundnut,Bhavnagar,2017-05-08,3325.0,15.2,39.0,clear
+1019,Groundnut,Bhavnagar,2017-08-08,3340.0,9.6,33.2,clear
+1020,Groundnut,Bhavnagar,2017-09-08,3290.0,18.7,32.6,clear
+1021,Groundnut,Bhavnagar,2017-10-08,3232.5,22.1,35.6,clear
+1022,Groundnut,Bhavnagar,2017-11-08,3110.0,5.8,33.6,clear
+1023,Groundnut,Bhavnagar,2017-12-08,3265.0,4.1,26.8,clear
+1024,Groundnut,Bhavnagar,2017-08-17,3180.0,12.2,36.4,clear
+1025,Groundnut,Bhavnagar,2017-08-19,3250.0,16.3,32.6,clear
+1026,Groundnut,Bhavnagar,2017-08-23,3205.0,3.0,33.2,clear
+1027,Groundnut,Bhavnagar,2017-08-24,3370.0,4.0,34.6,clear
+1028,Groundnut,Palitana,2017-08-24,3200.0,0.04,34.6,clear
+1029,Groundnut,Bhavnagar,2017-08-28,3390.0,15.5,28.0,clear
+1030,Soyabean,Bhavnagar,2017-08-28,2300.0,0.7,28.0,clear
+1031,Groundnut,Bhavnagar,2017-08-29,3340.0,2.2,28.4,clear
+1032,Groundnut,Bhavnagar,2017-08-30,3325.0,16.9,29.0,clear
+1033,Groundnut,Bhavnagar,2017-08-31,3342.5,20.7,32.6,clear
+1034,Groundnut,Bhavnagar,2017-01-09,3250.0,37.6,27.4,clear
+1035,Groundnut,Mahuva(Station Road),2017-01-09,3522.5,2.5,27.4,clear
+1036,Groundnut,Bhavnagar,2017-02-09,3130.0,15.6,27.6,clear
+1037,Groundnut,Bhavnagar,2017-04-09,3160.0,21.8,38.0,clear
+1038,Groundnut,Mahuva(Station Road),2017-04-09,3400.0,15.8,38.0,clear
+1039,Groundnut,Palitana,2017-04-09,3250.0,0.12,38.0,clear
+1040,Groundnut,Bhavnagar,2017-05-09,3150.0,25.4,40.0,clear
+1041,Groundnut,Mahuva(Station Road),2017-05-09,3320.0,28.0,40.0,clear
+1042,Groundnut,Bhavnagar,2017-06-09,3157.5,8.5,36.2,rain
+1043,Groundnut,Mahuva(Station Road),2017-06-09,3427.5,40.0,36.2,rain
+1044,Groundnut,Bhavnagar,2017-07-09,2525.0,19.4,32.8,rain
+1045,Groundnut,Bhavnagar,2017-08-09,3110.0,10.0,31.6,clear
+1046,Groundnut,Mahuva(Station Road),2017-08-09,3290.0,22.8,31.6,clear
+1047,Groundnut,Bhavnagar,2017-09-09,3035.0,8.0,33.6,clear
+1048,Groundnut,Bhavnagar,2017-11-09,2985.0,6.0,32.4,clear
+1049,Groundnut,Mahuva(Station Road),2017-11-09,3020.0,31.5,32.4,clear
+1050,Groundnut,Bhavnagar,2017-09-15,3160.0,8.9,33.0,clear
+1051,Groundnut,Mahuva(Station Road),2017-09-15,3257.5,36.8,33.0,clear
+1052,Groundnut,Bhavnagar,2017-09-16,3175.0,62.0,32.2,clear
+1053,Groundnut,Mahuva(Station Road),2017-09-16,3000.0,14.0,32.2,clear
+1054,Groundnut,Bhavnagar,2017-09-18,3110.0,18.4,32.0,clear
+1055,Groundnut,Mahuva(Station Road),2017-09-18,3040.0,36.8,32.0,clear
+1056,Mustard,Bhavnagar,2017-09-18,3750.0,0.1,32.0,clear
+1057,Groundnut,Bhavnagar,2017-09-19,3050.0,27.0,32.6,clear
+1058,Groundnut,Mahuva(Station Road),2017-09-19,3002.5,38.6,32.6,clear
+1059,Mustard,Bhavnagar,2017-09-19,3155.0,0.4,32.6,clear
+1060,Groundnut,Bhavnagar,2017-09-21,3132.5,24.9,33.8,clear
+1061,Groundnut,Bhavnagar,2017-09-22,3130.0,17.5,32.8,clear
+1062,Groundnut,Mahuva(Station Road),2017-09-22,3265.0,26.3,32.8,clear
+1063,Groundnut,Bhavnagar,2017-09-23,3155.0,23.6,33.6,clear
+1064,Groundnut,Bhavnagar,2017-09-25,3125.0,17.1,32.0,clear
+1065,Groundnut,Mahuva(Station Road),2017-09-25,3167.5,19.3,32.0,clear
+1066,Groundnut,Bhavnagar,2017-09-28,3355.0,39.6,34.6,clear
+1067,Groundnut,Mahuva(Station Road),2017-09-28,3492.5,28.0,34.6,clear
+1068,Groundnut,Bhavnagar,2017-09-29,3267.5,12.2,35.0,clear
+1069,Groundnut,Bhavnagar,2017-02-10,3250.0,24.9,28.0,clear
+1070,Groundnut,Bhavnagar,2017-04-10,3735.0,12.0,38.6,clear
+1071,Groundnut,Mahuva(Station Road),2017-04-10,3812.5,27.2,38.6,clear
+1072,Groundnut,Bhavnagar,2017-05-10,3640.0,27.8,39.0,clear
+1073,Groundnut,Mahuva(Station Road),2017-05-10,3840.0,22.5,39.0,clear
+1074,Groundnut,Bhavnagar,2017-06-10,3795.0,9.6,32.6,clear
+1075,Groundnut,Mahuva(Station Road),2017-06-10,3875.0,63.0,32.6,clear
+1076,Mustard,Bhavnagar,2017-06-10,3405.0,0.1,32.6,clear
+1077,Groundnut,Bhavnagar,2017-07-10,3950.0,29.5,33.0,clear
+1078,Groundnut,Mahuva(Station Road),2017-07-10,3925.0,70.0,33.0,clear
+1079,Groundnut,Bhavnagar,2017-09-10,3870.0,94.1,33.6,clear
+1080,Groundnut,Mahuva(Station Road),2017-09-10,4060.0,94.5,33.6,clear
+1081,Soyabean,Bhavnagar,2017-09-10,2350.0,0.06,33.6,clear
+1082,Groundnut,Bhavnagar,2017-10-10,4460.0,90.7,34.8,clear
+1083,Groundnut,Mahuva(Station Road),2017-10-10,3877.5,73.5,34.8,clear
+1084,Groundnut,Bhavnagar,2017-11-10,3925.0,130.8,32.6,clear
+1085,Groundnut,Bhavnagar,2017-12-10,3875.0,118.1,30.0,clear
+1086,Groundnut,Mahuva(Station Road),2017-12-10,3867.5,35.0,30.0,clear
+1087,Groundnut,Bhavnagar,2017-10-13,4350.0,113.5,34.4,clear
+1088,Groundnut,Mahuva(Station Road),2017-10-13,4017.5,105.3,34.4,clear
+1089,Groundnut,Bhavnagar,2017-10-14,4250.0,157.6,35.0,clear
+1090,Groundnut,Mahuva(Station Road),2017-10-14,4037.5,157.5,35.0,clear
+1091,Groundnut,Bhavnagar,2017-10-25,4325.0,129.2,34.4,clear
+1092,Groundnut,Mahuva(Station Road),2017-10-25,4137.5,297.5,34.4,clear
+1093,Soyabean,Bhavnagar,2017-10-25,2830.0,0.02,34.4,clear
+1094,Groundnut,Bhavnagar,2017-10-26,3930.0,128.3,34.6,clear
+1095,Groundnut,Mahuva(Station Road),2017-10-26,3942.5,186.8,34.6,clear
+1096,Groundnut,Bhavnagar,2017-10-27,4177.5,138.3,35.0,clear
+1097,Groundnut,Mahuva(Station Road),2017-10-27,4065.0,255.9,35.0,clear
+1098,Mustard,Bhavnagar,2017-10-27,1945.0,0.3,35.0,clear
+1099,Groundnut,Bhavnagar,2017-10-28,3962.5,134.0,34.6,clear
+1100,Groundnut,Mahuva(Station Road),2017-10-28,4027.5,224.0,34.6,clear
+1101,Groundnut,Bhavnagar,2017-10-30,3937.5,163.2,35.0,clear
+1102,Groundnut,Mahuva(Station Road),2017-10-30,4012.5,315.0,35.0,clear
+1103,Mustard,Bhavnagar,2017-10-30,2500.0,0.6,35.0,clear
+1104,Soyabean,Bhavnagar,2017-10-30,2625.0,0.02,35.0,clear
+1105,Groundnut,Bhavnagar,2017-03-11,3892.5,288.3,37.0,clear
+1106,Groundnut,Mahuva(Station Road),2017-03-11,3937.5,260.4,37.0,clear
+1107,Groundnut,Palitana,2017-03-11,2712.0,0.06,37.0,clear
+1108,Groundnut,Mahuva(Station Road),2017-11-03,4000.0,5.1,34.6,clear
+1109,Groundnut,Mahuva(Station Road),2017-03-14,3910.0,7.3,33.0,clear
+1110,Groundnut,Taleja,2017-03-14,3947.5,1.05,33.0,clear
+1111,Groundnut,Mahuva(Station Road),2017-04-04,4462.5,32.8,38.0,clear
+1112,Groundnut,Taleja,2017-04-04,4470.0,6.13,38.0,clear
+1113,Groundnut,Mahuva(Station Road),2017-04-28,4450.0,50.0,36.0,clear
+1114,Groundnut,Palitana,2017-04-28,4250.0,0.8,36.0,clear
+1115,Groundnut,Mahuva(Station Road),2017-04-29,4312.5,6.8,37.0,clear
+1116,Groundnut,Mahuva(Station Road),2017-06-23,3750.0,62.3,37.6,rain
+1117,Groundnut,Palitana,2017-06-23,3750.0,0.06,37.6,rain
+1118,Mustard,Bhavnagar,2017-06-23,3025.0,0.1,37.6,rain
+1119,Groundnut,Mahuva(Station Road),2017-06-24,3682.5,19.2,34.0,clear
+1120,Groundnut,Mahuva(Station Road),2017-08-22,3550.0,3.89,28.6,clear
+1121,Groundnut,Mahuva(Station Road),2017-12-09,2990.0,40.3,29.0,clear
+1122,Groundnut,Mahuva(Station Road),2017-09-13,3020.0,45.5,32.0,clear
+1123,Groundnut,Mahuva(Station Road),2017-09-14,3300.0,49.0,33.6,rain
+1124,Groundnut,Mahuva(Station Road),2017-09-20,3745.0,35.0,32.4,clear
+1125,Groundnut,Palitana,2017-09-20,2500.0,0.06,32.4,clear
+1126,Groundnut,Mahuva(Station Road),2017-09-26,3900.0,29.6,31.8,clear
+1127,Groundnut,Mahuva(Station Road),2017-09-27,3605.0,24.6,33.6,clear
+1128,Groundnut,Mahuva(Station Road),2017-03-10,3725.0,45.5,30.6,clear
+1129,Groundnut,Mahuva(Station Road),2017-10-16,4250.0,227.5,36.0,clear
+1130,Groundnut,Mahuva(Station Road),2017-10-17,4055.0,94.5,36.0,clear
+1131,Groundnut,Mahuva(Station Road),2017-01-11,3937.5,261.7,24.2,clear
+1132,Groundnut,Palitana,2017-01-11,3000.0,0.6,24.2,clear
+1133,Mustard,Bhavnagar,2017-01-11,3490.0,0.6,24.2,clear
+1134,Groundnut,Mahuva(Station Road),2017-02-11,3997.5,313.0,28.6,clear
+1135,Groundnut,Palitana,2017-02-11,3530.0,0.32,28.6,clear
+1136,Groundnut,Mahuva(Station Road),2017-04-11,3947.5,154.9,40.0,clear
+1137,Groundnut,Palitana,2017-08-06,3750.0,0.92,31.6,clear
+1138,Groundnut,Palitana,2017-06-22,3750.0,0.1,37.8,rain
+1139,Groundnut,Palitana,2017-01-07,3875.0,0.16,27.2,clear
+1140,Groundnut,Palitana,2017-04-07,3750.0,0.12,31.8,clear
+1141,Groundnut,Palitana,2017-05-07,3750.0,0.06,39.0,clear
+1142,Groundnut,Palitana,2017-10-07,3750.0,0.04,37.0,clear
+1143,Groundnut,Taleja,2017-01-04,4312.5,5.32,28.2,clear
+1144,Mustard,Botad,2017-10-03,3750.0,0.1,36.0,clear

@@ -1,0 +1,2094 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Najafgarh,2012-05-01,2840.0,9.04,35.6,clear
+1,Arhar (Tur/Red Gram),Narela,2012-05-01,2961.0,10.7,35.6,clear
+2,Black Gram (Urd Beans),Narela,2012-05-01,3262.0,0.4,35.6,clear
+3,Arhar (Tur/Red Gram),Najafgarh,2012-06-01,3071.0,6.7,44.0,clear
+4,Arhar (Tur/Red Gram),Narela,2012-06-01,3000.0,30.9,44.0,clear
+5,Arhar (Tur/Red Gram),Najafgarh,2012-07-01,2845.0,1.4,43.2,clear
+6,Arhar (Tur/Red Gram),Narela,2012-07-01,3100.0,5.3,43.2,clear
+7,Arhar (Tur/Red Gram),Najafgarh,2012-09-01,2961.0,3.7,34.2,clear
+8,Arhar (Tur/Red Gram),Narela,2012-09-01,3131.0,15.4,34.2,clear
+9,Arhar (Tur/Red Gram),Najafgarh,2012-12-01,3000.0,3.7,22.8,clear
+10,Arhar (Tur/Red Gram),Narela,2012-12-01,3110.0,14.7,22.8,clear
+11,Arhar (Tur/Red Gram),Najafgarh,2012-01-13,3072.0,2.2,19.2,clear
+12,Arhar (Tur/Red Gram),Narela,2012-01-13,3151.0,5.9,19.2,clear
+13,Arhar (Tur/Red Gram),Najafgarh,2012-01-14,3060.0,1.5,21.8,clear
+14,Arhar (Tur/Red Gram),Narela,2012-01-14,2800.0,1.4,21.8,clear
+15,Arhar (Tur/Red Gram),Najafgarh,2012-01-16,2900.0,6.2,20.2,clear
+16,Arhar (Tur/Red Gram),Narela,2012-01-16,2940.0,0.9,20.2,clear
+17,Arhar (Tur/Red Gram),Najafgarh,2012-01-17,3150.0,0.5,13.2,clear
+18,Arhar (Tur/Red Gram),Narela,2012-01-17,2500.0,0.1,13.2,clear
+19,Arhar (Tur/Red Gram),Najafgarh,2012-01-19,2979.0,2.4,16.6,clear
+20,Arhar (Tur/Red Gram),Narela,2012-01-19,3050.0,5.6,16.6,clear
+21,Arhar (Tur/Red Gram),Najafgarh,2012-01-20,3050.0,0.5,13.4,clear
+22,Arhar (Tur/Red Gram),Narela,2012-01-20,2600.0,1.5,13.4,clear
+23,Arhar (Tur/Red Gram),Najafgarh,2012-01-22,2950.0,1.5,17.6,clear
+24,Arhar (Tur/Red Gram),Narela,2012-01-22,2900.0,13.5,17.6,clear
+25,Arhar (Tur/Red Gram),Najafgarh,2012-01-23,2885.0,0.5,22.2,clear
+26,Arhar (Tur/Red Gram),Narela,2012-01-23,2800.0,10.7,22.2,clear
+27,Arhar (Tur/Red Gram),Najafgarh,2012-01-24,2900.0,1.5,21.4,clear
+28,Arhar (Tur/Red Gram),Narela,2012-01-24,2976.0,3.0,21.4,clear
+29,Arhar (Tur/Red Gram),Najafgarh,2012-01-27,2786.0,6.7,18.8,clear
+30,Arhar (Tur/Red Gram),Narela,2012-01-27,2876.0,5.5,18.8,clear
+31,Arhar (Tur/Red Gram),Najafgarh,2012-01-28,2826.0,2.0,20.8,clear
+32,Arhar (Tur/Red Gram),Narela,2012-01-28,2891.0,7.5,20.8,clear
+33,Arhar (Tur/Red Gram),Najafgarh,2012-01-29,2840.0,3.7,20.6,clear
+34,Arhar (Tur/Red Gram),Narela,2012-01-29,2921.0,3.2,20.6,clear
+35,Arhar (Tur/Red Gram),Najafgarh,2012-01-30,2891.0,8.1,27.2,clear
+36,Arhar (Tur/Red Gram),Narela,2012-01-30,2700.0,7.7,27.2,clear
+37,Arhar (Tur/Red Gram),Najafgarh,2012-01-31,2761.0,3.0,21.0,clear
+38,Arhar (Tur/Red Gram),Narela,2012-01-31,2800.0,15.6,21.0,clear
+39,Arhar (Tur/Red Gram),Najafgarh,2012-02-02,2780.0,4.3,22.2,clear
+40,Arhar (Tur/Red Gram),Narela,2012-02-02,2900.0,8.1,22.2,clear
+41,Arhar (Tur/Red Gram),Najafgarh,2012-03-02,2090.0,2.5,29.0,clear
+42,Arhar (Tur/Red Gram),Narela,2012-03-02,2900.0,1.1,29.0,clear
+43,Arhar (Tur/Red Gram),Najafgarh,2012-04-02,2862.0,1.2,37.8,clear
+44,Arhar (Tur/Red Gram),Narela,2012-04-02,2635.0,8.2,37.8,clear
+45,Arhar (Tur/Red Gram),Najafgarh,2012-05-02,2821.0,4.0,37.4,clear
+46,Arhar (Tur/Red Gram),Narela,2012-05-02,2500.0,9.9,37.4,clear
+47,Bengal Gram(Gram),Najafgarh,2012-05-02,3050.0,0.5,37.4,clear
+48,Arhar (Tur/Red Gram),Najafgarh,2012-09-02,2871.0,1.5,34.8,clear
+49,Arhar (Tur/Red Gram),Narela,2012-09-02,2772.0,0.6,34.8,clear
+50,Arhar (Tur/Red Gram),Najafgarh,2012-10-02,2939.0,4.5,34.2,clear
+51,Arhar (Tur/Red Gram),Narela,2012-10-02,2800.0,3.7,34.2,clear
+52,Arhar (Tur/Red Gram),Najafgarh,2012-11-02,2871.0,0.5,24.8,clear
+53,Arhar (Tur/Red Gram),Narela,2012-11-02,2793.0,4.6,24.8,clear
+54,Arhar (Tur/Red Gram),Najafgarh,2012-12-02,2825.0,5.0,23.6,clear
+55,Bengal Gram(Gram),Najafgarh,2012-12-02,3300.0,1.0,23.6,clear
+56,Arhar (Tur/Red Gram),Najafgarh,2012-02-13,2826.0,0.3,23.4,clear
+57,Arhar (Tur/Red Gram),Narela,2012-02-13,2890.0,1.2,23.4,clear
+58,Arhar (Tur/Red Gram),Najafgarh,2012-02-16,2849.0,1.0,20.8,clear
+59,Arhar (Tur/Red Gram),Narela,2012-02-16,2890.0,29.4,20.8,clear
+60,Arhar (Tur/Red Gram),Najafgarh,2012-02-17,2200.0,0.2,22.0,clear
+61,Arhar (Tur/Red Gram),Narela,2012-02-17,2841.0,0.8,22.0,clear
+62,Arhar (Tur/Red Gram),Najafgarh,2012-02-19,2771.0,1.0,23.2,clear
+63,Arhar (Tur/Red Gram),Narela,2012-02-19,2600.0,1.7,23.2,clear
+64,Arhar (Tur/Red Gram),Najafgarh,2012-02-23,2641.0,1.5,25.6,clear
+65,Arhar (Tur/Red Gram),Narela,2012-02-23,2781.0,20.5,25.6,clear
+66,Arhar (Tur/Red Gram),Najafgarh,2012-02-24,2600.0,2.5,26.0,clear
+67,Arhar (Tur/Red Gram),Narela,2012-02-24,2460.0,1.9,26.0,clear
+68,Arhar (Tur/Red Gram),Najafgarh,2012-02-25,2765.0,2.1,22.8,clear
+69,Arhar (Tur/Red Gram),Narela,2012-02-25,2775.0,8.5,22.8,clear
+70,Bengal Gram(Gram),Najafgarh,2012-02-25,3508.0,0.3,22.8,clear
+71,Arhar (Tur/Red Gram),Najafgarh,2012-02-26,2800.0,3.0,23.8,clear
+72,Arhar (Tur/Red Gram),Narela,2012-02-26,2711.0,10.6,23.8,clear
+73,Arhar (Tur/Red Gram),Najafgarh,2012-02-28,3000.0,0.7,25.8,clear
+74,Arhar (Tur/Red Gram),Narela,2012-02-28,2991.0,10.8,25.8,clear
+75,Arhar (Tur/Red Gram),Najafgarh,2012-01-03,2781.0,1.4,20.4,clear
+76,Arhar (Tur/Red Gram),Narela,2012-01-03,2751.0,25.2,20.4,clear
+77,Bengal Gram(Gram),Najafgarh,2012-01-03,3400.0,1.5,20.4,clear
+78,Arhar (Tur/Red Gram),Najafgarh,2012-02-03,2851.0,2.0,21.4,clear
+79,Arhar (Tur/Red Gram),Narela,2012-02-03,2801.0,9.9,21.4,clear
+80,Arhar (Tur/Red Gram),Najafgarh,2012-04-03,2650.0,0.5,38.0,clear
+81,Arhar (Tur/Red Gram),Narela,2012-04-03,2750.0,6.5,38.0,clear
+82,Arhar (Tur/Red Gram),Najafgarh,2012-11-03,2822.0,0.5,27.8,clear
+83,Arhar (Tur/Red Gram),Narela,2012-11-03,2725.0,27.5,27.8,clear
+84,Bengal Gram(Gram),Najafgarh,2012-11-03,3600.0,3.3,27.8,clear
+85,Arhar (Tur/Red Gram),Najafgarh,2012-03-13,2770.0,8.2,27.0,clear
+86,Arhar (Tur/Red Gram),Narela,2012-03-13,2876.0,17.0,27.0,clear
+87,Arhar (Tur/Red Gram),Najafgarh,2012-03-15,3200.0,2.2,27.4,clear
+88,Arhar (Tur/Red Gram),Narela,2012-03-15,2900.0,6.3,27.4,clear
+89,Arhar (Tur/Red Gram),Najafgarh,2012-03-17,2800.0,1.0,34.6,clear
+90,Arhar (Tur/Red Gram),Narela,2012-03-17,2830.0,11.6,34.6,clear
+91,Arhar (Tur/Red Gram),Najafgarh,2012-03-18,2844.0,3.0,35.0,clear
+92,Arhar (Tur/Red Gram),Narela,2012-03-18,2887.0,12.4,35.0,clear
+93,Bengal Gram(Gram),Najafgarh,2012-03-18,3585.0,0.5,35.0,clear
+94,Arhar (Tur/Red Gram),Najafgarh,2012-03-19,2810.0,4.0,36.4,clear
+95,Arhar (Tur/Red Gram),Narela,2012-03-19,2825.0,12.5,36.4,clear
+96,Arhar (Tur/Red Gram),Najafgarh,2012-03-20,2700.0,0.6,33.4,clear
+97,Arhar (Tur/Red Gram),Narela,2012-03-20,2731.0,4.2,33.4,clear
+98,Arhar (Tur/Red Gram),Najafgarh,2012-03-23,1800.0,2.0,30.2,clear
+99,Arhar (Tur/Red Gram),Narela,2012-03-23,2848.0,9.9,30.2,clear
+100,Arhar (Tur/Red Gram),Najafgarh,2012-03-25,2887.0,0.6,32.6,clear
+101,Arhar (Tur/Red Gram),Narela,2012-03-25,2748.0,2.8,32.6,clear
+102,Bengal Gram(Gram),Najafgarh,2012-03-25,3570.0,1.5,32.6,clear
+103,Arhar (Tur/Red Gram),Najafgarh,2012-03-26,2675.0,4.0,35.2,clear
+104,Arhar (Tur/Red Gram),Najafgarh,2012-03-27,2400.0,0.3,33.6,clear
+105,Arhar (Tur/Red Gram),Narela,2012-03-27,2700.0,0.4,33.6,clear
+106,Black Gram (Urd Beans),Narela,2012-03-27,3500.0,0.3,33.6,clear
+107,Arhar (Tur/Red Gram),Najafgarh,2012-03-30,2602.0,0.7,33.8,clear
+108,Arhar (Tur/Red Gram),Narela,2012-03-30,3085.0,1.7,33.8,clear
+109,Arhar (Tur/Red Gram),Najafgarh,2012-01-04,2800.0,0.7,21.4,clear
+110,Arhar (Tur/Red Gram),Narela,2012-01-04,2650.0,13.7,21.4,clear
+111,Bengal Gram(Gram),Najafgarh,2012-01-04,3500.0,0.5,21.4,clear
+112,Arhar (Tur/Red Gram),Najafgarh,2012-02-04,2810.0,0.2,23.2,clear
+113,Arhar (Tur/Red Gram),Narela,2012-02-04,2666.0,10.4,23.2,clear
+114,Bengal Gram(Gram),Najafgarh,2012-02-04,3460.0,0.6,23.2,clear
+115,Arhar (Tur/Red Gram),Najafgarh,2012-03-04,2712.0,0.7,32.2,clear
+116,Arhar (Tur/Red Gram),Narela,2012-03-04,2853.0,4.9,32.2,clear
+117,Arhar (Tur/Red Gram),Najafgarh,2012-06-04,2701.0,1.5,41.6,clear
+118,Arhar (Tur/Red Gram),Narela,2012-06-04,2781.0,7.0,41.6,clear
+119,Arhar (Tur/Red Gram),Najafgarh,2012-07-04,2750.0,0.3,40.8,clear
+120,Arhar (Tur/Red Gram),Narela,2012-07-04,2750.0,28.4,40.8,clear
+121,Black Gram (Urd Beans),Narela,2012-07-04,3961.0,1.2,40.8,clear
+122,Arhar (Tur/Red Gram),Najafgarh,2012-08-04,2400.0,0.2,33.6,clear
+123,Arhar (Tur/Red Gram),Narela,2012-08-04,2849.0,10.2,33.6,clear
+124,Bengal Gram(Gram),Najafgarh,2012-08-04,3335.0,0.5,33.6,clear
+125,Arhar (Tur/Red Gram),Najafgarh,2012-10-04,2850.0,2.5,36.0,clear
+126,Arhar (Tur/Red Gram),Narela,2012-10-04,2880.0,17.7,36.0,clear
+127,Arhar (Tur/Red Gram),Najafgarh,2012-12-04,2600.0,0.5,23.6,clear
+128,Arhar (Tur/Red Gram),Narela,2012-12-04,2812.0,20.6,23.6,clear
+129,Black Gram (Urd Beans),Narela,2012-12-04,3401.0,1.0,23.6,clear
+130,Arhar (Tur/Red Gram),Najafgarh,2012-04-19,2350.0,1.0,36.0,clear
+131,Arhar (Tur/Red Gram),Narela,2012-04-19,2850.0,8.3,36.0,clear
+132,Black Gram (Urd Beans),Narela,2012-04-19,3385.0,0.7,36.0,clear
+133,Arhar (Tur/Red Gram),Najafgarh,2012-04-05,2600.0,0.8,36.2,clear
+134,Arhar (Tur/Red Gram),Narela,2012-04-05,2200.0,0.7,36.2,clear
+135,Arhar (Tur/Red Gram),Najafgarh,2012-07-05,2602.0,0.3,40.4,clear
+136,Arhar (Tur/Red Gram),Narela,2012-07-05,2900.0,2.6,40.4,clear
+137,Black Gram (Urd Beans),Narela,2012-07-05,4082.0,1.0,40.4,clear
+138,Arhar (Tur/Red Gram),Najafgarh,2012-10-05,3001.0,0.4,35.6,clear
+139,Arhar (Tur/Red Gram),Narela,2012-10-05,3117.0,18.1,35.6,clear
+140,Black Gram (Urd Beans),Narela,2012-10-05,4000.0,1.5,35.6,clear
+141,Arhar (Tur/Red Gram),Najafgarh,2012-12-05,2160.0,5.0,23.6,clear
+142,Arhar (Tur/Red Gram),Narela,2012-12-05,3050.0,3.9,23.6,clear
+143,Arhar (Tur/Red Gram),Najafgarh,2012-05-17,2911.0,0.5,37.6,clear
+144,Arhar (Tur/Red Gram),Narela,2012-05-17,2960.0,3.5,37.6,clear
+145,Arhar (Tur/Red Gram),Najafgarh,2012-05-19,2400.0,0.5,40.2,clear
+146,Arhar (Tur/Red Gram),Narela,2012-05-19,3250.0,0.7,40.2,clear
+147,Bengal Gram(Gram),Najafgarh,2012-05-19,4125.0,1.0,40.2,clear
+148,Arhar (Tur/Red Gram),Najafgarh,2012-05-25,2821.0,1.2,43.4,clear
+149,Arhar (Tur/Red Gram),Narela,2012-05-25,3080.0,8.5,43.4,clear
+150,Black Gram (Urd Beans),Narela,2012-05-25,3942.0,1.0,43.4,clear
+151,Arhar (Tur/Red Gram),Najafgarh,2012-05-28,2855.0,0.6,41.8,clear
+152,Arhar (Tur/Red Gram),Narela,2012-05-28,2561.0,2.3,41.8,clear
+153,Arhar (Tur/Red Gram),Najafgarh,2012-05-29,2820.0,0.8,43.0,clear
+154,Arhar (Tur/Red Gram),Narela,2012-05-29,2950.0,131.0,43.0,clear
+155,Arhar (Tur/Red Gram),Najafgarh,2012-05-31,2601.0,0.02,45.0,clear
+156,Arhar (Tur/Red Gram),Najafgarh,2012-05-06,1600.0,1.0,38.8,clear
+157,Arhar (Tur/Red Gram),Narela,2012-05-06,2926.0,12.5,38.8,clear
+158,Arhar (Tur/Red Gram),Najafgarh,2012-06-18,2800.0,1.5,36.4,clear
+159,Arhar (Tur/Red Gram),Narela,2012-06-18,3056.0,5.0,36.4,clear
+160,Arhar (Tur/Red Gram),Najafgarh,2012-06-19,2771.0,1.5,40.4,clear
+161,Arhar (Tur/Red Gram),Narela,2012-06-19,2822.0,2.0,40.4,clear
+162,Arhar (Tur/Red Gram),Najafgarh,2012-06-21,2700.0,1.0,42.4,clear
+163,Arhar (Tur/Red Gram),Narela,2012-06-21,2926.0,25.0,42.4,clear
+164,Arhar (Tur/Red Gram),Najafgarh,2012-06-24,2750.0,0.4,41.6,clear
+165,Arhar (Tur/Red Gram),Narela,2012-06-24,3053.0,144.0,41.6,clear
+166,Arhar (Tur/Red Gram),Najafgarh,2012-06-28,2700.0,0.4,41.4,clear
+167,Arhar (Tur/Red Gram),Narela,2012-06-28,3000.0,1.6,41.4,clear
+168,Arhar (Tur/Red Gram),Najafgarh,2012-09-07,2900.0,0.5,31.6,clear
+169,Arhar (Tur/Red Gram),Narela,2012-09-07,3001.0,0.6,31.6,clear
+170,Bengal Gram(Gram),Najafgarh,2012-09-07,4301.0,1.0,31.6,clear
+171,Arhar (Tur/Red Gram),Najafgarh,2012-07-16,2000.0,0.8,37.4,clear
+172,Arhar (Tur/Red Gram),Narela,2012-07-16,3225.0,3.7,37.4,clear
+173,Arhar (Tur/Red Gram),Najafgarh,2012-08-13,3500.0,0.5,31.4,clear
+174,Arhar (Tur/Red Gram),Narela,2012-08-13,3652.0,0.7,31.4,clear
+175,Arhar (Tur/Red Gram),Najafgarh,2012-08-17,3300.0,0.06,34.8,clear
+176,Arhar (Tur/Red Gram),Narela,2012-08-17,3745.0,5.8,34.8,clear
+177,Arhar (Tur/Red Gram),Najafgarh,2012-08-18,3640.0,1.0,34.8,clear
+178,Arhar (Tur/Red Gram),Narela,2012-08-18,3731.0,8.8,34.8,clear
+179,Arhar (Tur/Red Gram),Najafgarh,2012-08-19,3625.0,0.6,33.6,clear
+180,Arhar (Tur/Red Gram),Narela,2012-08-19,3500.0,3.0,33.6,clear
+181,Bengal Gram(Gram),Najafgarh,2012-08-19,4600.0,1.0,33.6,clear
+182,Arhar (Tur/Red Gram),Najafgarh,2012-09-09,2600.0,1.5,34.8,clear
+183,Arhar (Tur/Red Gram),Narela,2012-09-09,3000.0,1.0,34.8,clear
+184,Arhar (Tur/Red Gram),Najafgarh,2012-09-13,3480.0,1.6,35.2,clear
+185,Arhar (Tur/Red Gram),Narela,2012-09-13,3481.0,14.0,35.2,clear
+186,Arhar (Tur/Red Gram),Najafgarh,2012-04-11,2600.0,0.4,29.6,rain
+187,Arhar (Tur/Red Gram),Narela,2012-04-11,2000.0,1.0,29.6,rain
+188,Arhar (Tur/Red Gram),Najafgarh,2012-11-25,3150.0,1.0,25.2,clear
+189,Arhar (Tur/Red Gram),Najafgarh,2012-11-29,3221.0,1.5,26.6,rain
+190,Arhar (Tur/Red Gram),Narela,2012-11-29,3341.0,0.4,26.6,rain
+191,Arhar (Tur/Red Gram),Najafgarh,2012-11-30,3250.0,0.8,21.4,clear
+192,Arhar (Tur/Red Gram),Narela,2012-11-30,3400.0,1.4,21.4,clear
+193,Arhar (Tur/Red Gram),Najafgarh,2012-01-12,3000.0,1.3,18.0,clear
+194,Arhar (Tur/Red Gram),Narela,2012-01-12,3300.0,2.0,18.0,clear
+195,Arhar (Tur/Red Gram),Najafgarh,2012-02-12,3200.0,0.5,25.6,clear
+196,Arhar (Tur/Red Gram),Narela,2012-02-12,3442.0,1.1,25.6,clear
+197,Arhar (Tur/Red Gram),Najafgarh,2012-03-12,3125.0,0.2,29.6,clear
+198,Arhar (Tur/Red Gram),Narela,2012-03-12,3426.0,0.6,29.6,clear
+199,Arhar (Tur/Red Gram),Najafgarh,2012-06-12,3290.0,5.0,42.0,clear
+200,Arhar (Tur/Red Gram),Narela,2012-06-12,3302.0,4.4,42.0,clear
+201,Arhar (Tur/Red Gram),Najafgarh,2012-07-12,3200.0,3.8,32.0,clear
+202,Arhar (Tur/Red Gram),Narela,2012-07-12,3480.0,2.2,32.0,clear
+203,Arhar (Tur/Red Gram),Najafgarh,2012-08-12,3170.0,4.6,34.0,clear
+204,Arhar (Tur/Red Gram),Narela,2012-08-12,3351.0,14.3,34.0,clear
+205,Bengal Gram(Gram),Najafgarh,2012-08-12,4021.0,1.0,34.0,clear
+206,Arhar (Tur/Red Gram),Najafgarh,2012-09-12,3281.0,5.7,33.8,clear
+207,Arhar (Tur/Red Gram),Narela,2012-09-12,3490.0,1.9,33.8,clear
+208,Arhar (Tur/Red Gram),Najafgarh,2012-10-12,2972.0,9.1,34.2,clear
+209,Arhar (Tur/Red Gram),Narela,2012-10-12,3326.0,15.3,34.2,clear
+210,Arhar (Tur/Red Gram),Najafgarh,2012-11-12,3200.0,7.2,28.8,clear
+211,Arhar (Tur/Red Gram),Narela,2012-11-12,3456.0,2.3,28.8,clear
+212,Arhar (Tur/Red Gram),Najafgarh,2012-12-13,3121.0,7.0,24.6,clear
+213,Arhar (Tur/Red Gram),Narela,2012-12-13,3200.0,2.6,24.6,clear
+214,Arhar (Tur/Red Gram),Najafgarh,2012-12-14,3385.0,2.2,22.2,clear
+215,Arhar (Tur/Red Gram),Narela,2012-12-14,3380.0,1.2,22.2,clear
+216,Black Gram (Urd Beans),Narela,2012-12-14,4000.0,0.7,22.2,clear
+217,Arhar (Tur/Red Gram),Najafgarh,2012-12-15,3261.0,11.9,24.6,clear
+218,Arhar (Tur/Red Gram),Narela,2012-12-15,3261.0,18.9,24.6,clear
+219,Arhar (Tur/Red Gram),Najafgarh,2012-12-17,3311.0,15.4,22.4,clear
+220,Arhar (Tur/Red Gram),Narela,2012-12-17,3511.0,4.4,22.4,clear
+221,Arhar (Tur/Red Gram),Najafgarh,2012-12-18,3321.0,4.0,24.2,clear
+222,Arhar (Tur/Red Gram),Narela,2012-12-18,3586.0,2.2,24.2,clear
+223,Black Gram (Urd Beans),Narela,2012-12-18,3471.0,0.5,24.2,clear
+224,Arhar (Tur/Red Gram),Najafgarh,2012-12-20,3375.0,18.8,20.6,clear
+225,Arhar (Tur/Red Gram),Narela,2012-12-20,3400.0,15.6,20.6,clear
+226,Arhar (Tur/Red Gram),Najafgarh,2012-12-21,3251.0,21.3,22.2,clear
+227,Arhar (Tur/Red Gram),Narela,2012-12-21,3581.0,11.4,22.2,clear
+228,Arhar (Tur/Red Gram),Najafgarh,2012-12-22,3372.0,9.8,21.6,clear
+229,Arhar (Tur/Red Gram),Narela,2012-12-22,3552.0,7.1,21.6,clear
+230,Arhar (Tur/Red Gram),Najafgarh,2012-12-23,3300.0,4.7,17.4,clear
+231,Arhar (Tur/Red Gram),Narela,2012-12-23,3480.0,2.1,17.4,clear
+232,Bengal Gram(Gram),Najafgarh,2012-12-23,3850.0,1.5,17.4,clear
+233,Arhar (Tur/Red Gram),Najafgarh,2012-12-24,3351.0,13.0,19.0,clear
+234,Arhar (Tur/Red Gram),Narela,2012-12-24,3480.0,1.7,19.0,clear
+235,Arhar (Tur/Red Gram),Najafgarh,2012-12-25,3281.0,18.6,15.8,clear
+236,Arhar (Tur/Red Gram),Narela,2012-12-25,3050.0,6.6,15.8,clear
+237,Arhar (Tur/Red Gram),Najafgarh,2012-12-28,3110.0,6.5,18.4,clear
+238,Arhar (Tur/Red Gram),Narela,2012-12-28,3501.0,3.7,18.4,clear
+239,Arhar (Tur/Red Gram),Najafgarh,2012-12-29,3000.0,4.8,21.0,clear
+240,Arhar (Tur/Red Gram),Narela,2012-12-29,2925.0,8.4,21.0,clear
+241,Arhar (Tur/Red Gram),Najafgarh,2012-12-30,3100.0,11.9,17.0,clear
+242,Arhar (Tur/Red Gram),Narela,2012-12-30,3522.0,3.2,17.0,clear
+243,Bengal Gram(Gram),Najafgarh,2012-12-30,3550.0,0.5,17.0,clear
+244,Arhar (Tur/Red Gram),Najafgarh,2012-12-31,3165.0,5.9,13.0,clear
+245,Arhar (Tur/Red Gram),Narela,2012-12-31,3300.0,0.7,13.0,clear
+246,Arhar (Tur/Red Gram),Narela,2012-01-01,3002.0,30.2,18.4,rain
+247,Arhar (Tur/Red Gram),Narela,2012-02-01,3041.0,31.8,19.0,clear
+248,Arhar (Tur/Red Gram),Narela,2012-03-01,2951.0,15.0,29.0,clear
+249,Arhar (Tur/Red Gram),Narela,2012-08-01,2950.0,23.5,29.2,clear
+250,Arhar (Tur/Red Gram),Narela,2012-10-01,2500.0,12.7,34.0,clear
+251,Arhar (Tur/Red Gram),Narela,2012-01-15,3000.0,20.4,25.2,clear
+252,Bengal Gram(Gram),Najafgarh,2012-01-15,3270.0,1.0,25.2,clear
+253,Arhar (Tur/Red Gram),Narela,2012-01-21,3050.0,12.9,17.6,clear
+254,Arhar (Tur/Red Gram),Narela,2012-06-02,2451.0,13.8,44.0,rain
+255,Arhar (Tur/Red Gram),Narela,2012-07-02,2960.0,2.6,41.4,clear
+256,Black Gram (Urd Beans),Narela,2012-07-02,3240.0,0.2,41.4,clear
+257,Arhar (Tur/Red Gram),Narela,2012-02-14,2800.0,5.3,23.2,clear
+258,Arhar (Tur/Red Gram),Narela,2012-02-18,2049.0,9.1,21.0,clear
+259,Bengal Gram(Gram),Najafgarh,2012-02-18,3340.0,0.2,21.0,clear
+260,Arhar (Tur/Red Gram),Narela,2012-02-20,3000.0,5.9,24.8,clear
+261,Arhar (Tur/Red Gram),Narela,2012-02-21,2952.0,4.8,28.6,clear
+262,Arhar (Tur/Red Gram),Narela,2012-02-27,2800.0,9.3,24.6,clear
+263,Arhar (Tur/Red Gram),Narela,2012-03-03,2837.0,6.9,28.6,clear
+264,Arhar (Tur/Red Gram),Narela,2012-05-03,2951.0,0.7,37.2,clear
+265,Arhar (Tur/Red Gram),Narela,2012-06-03,2650.0,12.3,42.2,clear
+266,Arhar (Tur/Red Gram),Narela,2012-10-03,2771.0,7.9,35.0,clear
+267,Arhar (Tur/Red Gram),Narela,2012-12-03,2825.0,0.5,23.0,clear
+268,Arhar (Tur/Red Gram),Narela,2012-03-16,2870.0,13.6,30.0,clear
+269,Arhar (Tur/Red Gram),Narela,2012-03-22,2775.0,17.6,27.0,clear
+270,Arhar (Tur/Red Gram),Narela,2012-03-24,2875.0,3.6,32.6,clear
+271,Black Gram (Urd Beans),Narela,2012-03-24,3500.0,1.0,32.6,clear
+272,Arhar (Tur/Red Gram),Narela,2012-03-29,2822.0,9.2,32.6,clear
+273,Black Gram (Urd Beans),Narela,2012-03-29,3600.0,0.5,32.6,clear
+274,Arhar (Tur/Red Gram),Narela,2012-05-04,2815.0,19.2,38.4,clear
+275,Arhar (Tur/Red Gram),Narela,2012-09-04,2850.0,25.4,32.4,clear
+276,Black Gram (Urd Beans),Narela,2012-09-04,3680.0,0.5,32.4,clear
+277,Arhar (Tur/Red Gram),Narela,2012-04-13,2650.0,0.2,28.6,clear
+278,Arhar (Tur/Red Gram),Narela,2012-04-14,2884.0,17.6,29.0,rain
+279,Arhar (Tur/Red Gram),Narela,2012-04-16,2900.0,18.1,34.6,clear
+280,Black Gram (Urd Beans),Narela,2012-04-16,3374.0,0.5,34.6,clear
+281,Arhar (Tur/Red Gram),Narela,2012-04-17,2481.0,9.1,33.0,clear
+282,Bengal Gram(Gram),Najafgarh,2012-04-17,3340.0,0.5,33.0,clear
+283,Arhar (Tur/Red Gram),Narela,2012-04-20,2824.0,16.2,37.4,rain
+284,Arhar (Tur/Red Gram),Narela,2012-04-21,2879.0,1.5,34.0,clear
+285,Bengal Gram(Gram),Najafgarh,2012-04-21,3600.0,3.0,34.0,clear
+286,Arhar (Tur/Red Gram),Narela,2012-04-22,2831.0,13.2,35.4,clear
+287,Black Gram (Urd Beans),Narela,2012-04-22,3395.0,0.6,35.4,clear
+288,Arhar (Tur/Red Gram),Narela,2012-04-23,2758.0,2.5,35.0,clear
+289,Arhar (Tur/Red Gram),Narela,2012-04-24,2410.0,4.0,37.4,rain
+290,Arhar (Tur/Red Gram),Narela,2012-04-28,2700.0,8.1,36.6,clear
+291,Black Gram (Urd Beans),Narela,2012-04-28,3462.0,0.5,36.6,clear
+292,Arhar (Tur/Red Gram),Narela,2012-04-29,2781.0,11.0,36.8,clear
+293,Bengal Gram(Gram),Najafgarh,2012-04-29,3430.0,1.0,36.8,clear
+294,Arhar (Tur/Red Gram),Narela,2012-01-05,2731.0,4.5,18.0,clear
+295,Black Gram (Urd Beans),Narela,2012-01-05,3492.0,0.8,18.0,clear
+296,Arhar (Tur/Red Gram),Narela,2012-06-05,2917.0,11.7,39.6,clear
+297,Bengal Gram(Gram),Najafgarh,2012-06-05,3850.0,0.5,39.6,clear
+298,Arhar (Tur/Red Gram),Narela,2012-08-05,3085.0,4.5,35.0,clear
+299,Black Gram (Urd Beans),Narela,2012-08-05,4141.0,1.9,35.0,clear
+300,Arhar (Tur/Red Gram),Narela,2012-11-05,2870.0,11.1,28.4,clear
+301,Arhar (Tur/Red Gram),Narela,2012-05-13,2973.0,6.8,37.4,clear
+302,Bengal Gram(Gram),Najafgarh,2012-05-13,4050.0,1.0,37.4,clear
+303,Arhar (Tur/Red Gram),Narela,2012-05-14,2000.0,15.3,34.2,clear
+304,Arhar (Tur/Red Gram),Narela,2012-05-15,2965.0,8.7,39.0,clear
+305,Black Gram (Urd Beans),Narela,2012-05-15,4050.0,1.5,39.0,clear
+306,Arhar (Tur/Red Gram),Narela,2012-05-18,2850.0,0.3,40.2,clear
+307,Arhar (Tur/Red Gram),Narela,2012-05-20,2965.0,6.6,41.2,clear
+308,Arhar (Tur/Red Gram),Narela,2012-05-22,2950.0,20.7,41.8,clear
+309,Black Gram (Urd Beans),Narela,2012-05-22,3952.0,1.0,41.8,clear
+310,Arhar (Tur/Red Gram),Narela,2012-05-26,3019.0,13.2,42.0,clear
+311,Arhar (Tur/Red Gram),Narela,2012-05-27,2811.0,22.5,41.4,clear
+312,Arhar (Tur/Red Gram),Narela,2012-01-06,2911.0,9.2,16.6,rain
+313,Arhar (Tur/Red Gram),Narela,2012-02-06,2890.0,17.4,21.2,clear
+314,Arhar (Tur/Red Gram),Narela,2012-03-06,2750.0,0.7,28.2,clear
+315,Arhar (Tur/Red Gram),Narela,2012-04-06,2900.0,18.2,36.4,clear
+316,Arhar (Tur/Red Gram),Narela,2012-07-06,2831.0,9.2,36.0,rain
+317,Arhar (Tur/Red Gram),Narela,2012-09-06,2899.0,9.9,33.2,clear
+318,Arhar (Tur/Red Gram),Narela,2012-10-06,2800.0,5.7,35.6,clear
+319,Arhar (Tur/Red Gram),Narela,2012-11-06,2775.0,7.1,26.6,clear
+320,Arhar (Tur/Red Gram),Narela,2012-12-06,2750.0,4.7,25.2,clear
+321,Bengal Gram(Gram),Najafgarh,2012-12-06,3800.0,0.4,25.2,clear
+322,Arhar (Tur/Red Gram),Narela,2012-06-14,2853.0,10.9,42.4,clear
+323,Arhar (Tur/Red Gram),Narela,2012-06-15,2980.0,8.3,43.0,clear
+324,Arhar (Tur/Red Gram),Narela,2012-06-16,1900.0,14.0,42.4,clear
+325,Arhar (Tur/Red Gram),Narela,2012-06-17,2870.0,13.1,43.0,clear
+326,Arhar (Tur/Red Gram),Narela,2012-06-22,2600.0,8.9,42.6,clear
+327,Arhar (Tur/Red Gram),Narela,2012-06-23,3021.0,4.4,42.2,clear
+328,Arhar (Tur/Red Gram),Narela,2012-06-29,2942.0,7.1,41.6,clear
+329,Arhar (Tur/Red Gram),Narela,2012-06-30,3134.0,2.8,42.0,clear
+330,Arhar (Tur/Red Gram),Narela,2012-01-07,3125.0,8.5,17.4,clear
+331,Arhar (Tur/Red Gram),Narela,2012-02-07,3255.0,38.3,20.4,clear
+332,Arhar (Tur/Red Gram),Narela,2012-03-07,2975.0,18.0,28.2,clear
+333,Arhar (Tur/Red Gram),Narela,2012-05-07,3100.0,2.2,39.6,clear
+334,Arhar (Tur/Red Gram),Narela,2012-08-07,2951.0,4.5,31.6,clear
+335,Bengal Gram(Gram),Najafgarh,2012-08-07,4312.0,0.5,31.6,clear
+336,Arhar (Tur/Red Gram),Narela,2012-10-07,2800.0,5.8,34.0,clear
+337,Arhar (Tur/Red Gram),Narela,2012-07-15,3700.0,4.1,36.4,clear
+338,Bengal Gram(Gram),Najafgarh,2012-07-15,4563.0,1.0,36.4,clear
+339,Arhar (Tur/Red Gram),Narela,2012-07-17,3445.0,10.5,37.6,clear
+340,Arhar (Tur/Red Gram),Narela,2012-07-19,3589.0,8.3,39.8,clear
+341,Arhar (Tur/Red Gram),Narela,2012-07-20,3300.0,12.2,36.0,clear
+342,Arhar (Tur/Red Gram),Narela,2012-07-21,3600.0,52.0,35.6,clear
+343,Arhar (Tur/Red Gram),Narela,2012-07-22,3400.0,8.4,36.2,clear
+344,Bengal Gram(Gram),Najafgarh,2012-07-22,4600.0,0.5,36.2,clear
+345,Arhar (Tur/Red Gram),Narela,2012-07-23,3664.0,2.0,36.2,clear
+346,Arhar (Tur/Red Gram),Narela,2012-07-26,3600.0,3.7,32.6,clear
+347,Arhar (Tur/Red Gram),Narela,2012-07-27,3300.0,15.0,34.8,clear
+348,Arhar (Tur/Red Gram),Narela,2012-07-28,3750.0,6.1,34.4,clear
+349,Arhar (Tur/Red Gram),Narela,2012-04-08,3853.0,4.0,36.4,clear
+350,Arhar (Tur/Red Gram),Narela,2012-05-08,3922.0,4.9,39.8,clear
+351,Arhar (Tur/Red Gram),Narela,2012-07-08,3850.0,6.0,32.8,clear
+352,Arhar (Tur/Red Gram),Narela,2012-10-08,3362.0,12.6,33.4,clear
+353,Arhar (Tur/Red Gram),Narela,2012-11-08,3601.0,12.2,27.8,clear
+354,Arhar (Tur/Red Gram),Narela,2012-12-08,3616.0,7.6,25.2,clear
+355,Arhar (Tur/Red Gram),Narela,2012-08-14,3475.0,11.9,31.6,clear
+356,Arhar (Tur/Red Gram),Narela,2012-08-16,3401.0,24.3,32.4,clear
+357,Arhar (Tur/Red Gram),Narela,2012-08-20,3751.0,3.0,33.0,rain
+358,Arhar (Tur/Red Gram),Narela,2012-08-23,3200.0,0.2,30.0,clear
+359,Black Gram (Urd Beans),Narela,2012-08-23,4411.0,0.5,30.0,clear
+360,Arhar (Tur/Red Gram),Narela,2012-08-26,3799.0,0.5,32.4,clear
+361,Arhar (Tur/Red Gram),Narela,2012-08-30,2371.0,1.9,29.6,clear
+362,Arhar (Tur/Red Gram),Narela,2012-08-31,3567.0,4.0,33.4,clear
+363,Black Gram (Urd Beans),Narela,2012-08-31,4100.0,0.1,33.4,clear
+364,Arhar (Tur/Red Gram),Narela,2012-01-09,3630.0,4.5,17.2,clear
+365,Arhar (Tur/Red Gram),Narela,2012-02-09,3355.0,3.5,18.8,clear
+366,Bengal Gram(Gram),Najafgarh,2012-02-09,4400.0,1.0,18.8,clear
+367,Arhar (Tur/Red Gram),Narela,2012-03-09,3650.0,3.5,25.0,clear
+368,Arhar (Tur/Red Gram),Narela,2012-04-09,3261.0,5.0,37.8,clear
+369,Arhar (Tur/Red Gram),Narela,2012-06-09,3575.0,3.0,39.6,clear
+370,Arhar (Tur/Red Gram),Narela,2012-10-09,3600.0,14.5,33.2,clear
+371,Arhar (Tur/Red Gram),Narela,2012-09-15,3351.0,1.6,32.2,rain
+372,Arhar (Tur/Red Gram),Narela,2012-09-17,3500.0,2.1,31.2,clear
+373,Arhar (Tur/Red Gram),Narela,2012-09-18,3400.0,0.7,30.0,clear
+374,Arhar (Tur/Red Gram),Narela,2012-09-21,2511.0,16.8,31.8,clear
+375,Arhar (Tur/Red Gram),Narela,2012-09-22,3300.0,5.0,35.4,clear
+376,Arhar (Tur/Red Gram),Narela,2012-09-27,3425.0,9.0,33.6,clear
+377,Bengal Gram(Gram),Najafgarh,2012-09-27,4125.0,0.04,33.6,clear
+378,Arhar (Tur/Red Gram),Narela,2012-09-28,3550.0,8.0,34.6,clear
+379,Arhar (Tur/Red Gram),Narela,2012-09-29,3311.0,12.8,34.4,clear
+380,Arhar (Tur/Red Gram),Narela,2012-01-10,3401.0,1.8,17.6,clear
+381,Arhar (Tur/Red Gram),Narela,2012-04-10,3417.0,6.3,37.2,clear
+382,Arhar (Tur/Red Gram),Narela,2012-05-10,3100.0,10.0,42.4,clear
+383,Arhar (Tur/Red Gram),Narela,2012-06-10,3201.0,15.5,41.2,clear
+384,Arhar (Tur/Red Gram),Narela,2012-07-10,2881.0,0.2,35.2,clear
+385,Arhar (Tur/Red Gram),Narela,2012-08-10,2150.0,3.2,33.2,clear
+386,Arhar (Tur/Red Gram),Narela,2012-11-10,3291.0,13.0,30.0,clear
+387,Arhar (Tur/Red Gram),Narela,2012-12-10,3199.0,3.0,27.2,clear
+388,Arhar (Tur/Red Gram),Narela,2012-10-13,3000.0,2.2,32.4,clear
+389,Arhar (Tur/Red Gram),Narela,2012-10-14,3099.0,1.7,35.2,clear
+390,Arhar (Tur/Red Gram),Narela,2012-10-15,2825.0,8.0,34.4,clear
+391,Arhar (Tur/Red Gram),Narela,2012-10-16,3617.0,4.0,31.4,clear
+392,Arhar (Tur/Red Gram),Narela,2012-10-18,3573.0,14.6,31.6,clear
+393,Arhar (Tur/Red Gram),Narela,2012-10-19,3511.0,17.5,31.4,clear
+394,Arhar (Tur/Red Gram),Narela,2012-10-20,3444.0,7.3,30.8,clear
+395,Arhar (Tur/Red Gram),Narela,2012-10-21,2600.0,1.5,30.6,clear
+396,Arhar (Tur/Red Gram),Narela,2012-10-22,3422.0,0.6,30.6,clear
+397,Arhar (Tur/Red Gram),Narela,2012-10-23,2900.0,0.2,30.8,rain
+398,Arhar (Tur/Red Gram),Narela,2012-10-25,3300.0,6.0,27.0,clear
+399,Arhar (Tur/Red Gram),Narela,2012-10-27,2700.0,3.0,29.2,clear
+400,Black Gram (Urd Beans),Narela,2012-10-27,5000.0,0.5,29.2,clear
+401,Arhar (Tur/Red Gram),Narela,2012-10-28,3451.0,6.7,29.4,clear
+402,Bengal Gram(Gram),Najafgarh,2012-10-28,4175.0,1.5,29.4,clear
+403,Arhar (Tur/Red Gram),Narela,2012-10-30,3421.0,8.0,29.2,clear
+404,Arhar (Tur/Red Gram),Narela,2012-01-11,3400.0,0.4,18.2,clear
+405,Bengal Gram(Gram),Najafgarh,2012-01-11,4130.0,0.3,18.2,clear
+406,Arhar (Tur/Red Gram),Narela,2012-06-11,3325.0,17.0,41.0,clear
+407,Arhar (Tur/Red Gram),Narela,2012-08-11,3320.0,2.5,32.6,clear
+408,Arhar (Tur/Red Gram),Narela,2012-09-11,3300.0,0.4,34.4,clear
+409,Arhar (Tur/Red Gram),Narela,2012-10-11,3450.0,3.1,32.6,clear
+410,Arhar (Tur/Red Gram),Narela,2012-11-23,3344.0,2.9,26.6,clear
+411,Arhar (Tur/Red Gram),Narela,2012-11-26,2300.0,3.0,25.4,clear
+412,Arhar (Tur/Red Gram),Narela,2012-04-12,3370.0,0.6,34.6,clear
+413,Arhar (Tur/Red Gram),Narela,2012-12-27,3150.0,13.7,14.4,clear
+414,Bengal Gram(Gram),Najafgarh,2012-03-08,4400.0,0.6,26.6,clear
+415,Black Gram (Urd Beans),Narela,2012-03-08,4600.0,0.2,26.6,clear
+416,Black Gram (Urd Beans),Narela,2012-04-30,3510.0,0.7,36.6,clear
+417,Black Gram (Urd Beans),Narela,2012-08-21,5000.0,0.5,28.8,clear
+418,Black Gram (Urd Beans),Narela,2012-09-23,4353.0,0.2,35.0,clear
+419,Black Gram (Urd Beans),Narela,2012-09-30,4320.0,0.4,34.6,clear
+420,Arhar (Tur/Red Gram),Najafgarh,2013-01-01,3100.0,12.0,14.2,clear
+421,Arhar (Tur/Red Gram),Narela,2013-01-01,3341.0,3.1,14.2,clear
+422,Arhar (Tur/Red Gram),Najafgarh,2013-03-01,3484.0,4.6,24.2,clear
+423,Arhar (Tur/Red Gram),Narela,2013-03-01,3350.0,14.2,24.2,clear
+424,Arhar (Tur/Red Gram),Najafgarh,2013-04-01,3300.0,8.0,33.4,clear
+425,Arhar (Tur/Red Gram),Narela,2013-04-01,3561.0,8.3,33.4,clear
+426,Arhar (Tur/Red Gram),Najafgarh,2013-05-01,3016.0,8.6,38.0,clear
+427,Arhar (Tur/Red Gram),Narela,2013-05-01,3551.0,1.0,38.0,clear
+428,Arhar (Tur/Red Gram),Najafgarh,2013-06-01,3405.0,10.5,37.6,clear
+429,Arhar (Tur/Red Gram),Narela,2013-06-01,3382.0,2.2,37.6,clear
+430,Bengal Gram(Gram),Najafgarh,2013-06-01,3360.0,0.5,37.6,clear
+431,Arhar (Tur/Red Gram),Najafgarh,2013-07-01,3051.0,4.3,38.4,clear
+432,Arhar (Tur/Red Gram),Narela,2013-07-01,3541.0,2.2,38.4,clear
+433,Arhar (Tur/Red Gram),Najafgarh,2013-08-01,2900.0,4.7,33.6,clear
+434,Arhar (Tur/Red Gram),Narela,2013-08-01,3400.0,9.4,33.6,clear
+435,Arhar (Tur/Red Gram),Najafgarh,2013-10-01,3125.0,8.5,33.4,clear
+436,Arhar (Tur/Red Gram),Narela,2013-10-01,3275.0,10.1,33.4,clear
+437,Black Gram (Urd Beans),Narela,2013-10-01,3535.0,0.2,33.4,clear
+438,Arhar (Tur/Red Gram),Najafgarh,2013-11-01,3000.0,8.9,30.2,clear
+439,Arhar (Tur/Red Gram),Narela,2013-11-01,3600.0,9.3,30.2,clear
+440,Arhar (Tur/Red Gram),Najafgarh,2013-12-01,2500.0,4.1,27.4,clear
+441,Arhar (Tur/Red Gram),Narela,2013-12-01,3200.0,14.1,27.4,clear
+442,Arhar (Tur/Red Gram),Najafgarh,2013-01-13,3000.0,16.7,22.6,clear
+443,Arhar (Tur/Red Gram),Narela,2013-01-13,3451.0,1.7,22.6,clear
+444,Bengal Gram(Gram),Najafgarh,2013-01-13,3705.0,1.0,22.6,clear
+445,Arhar (Tur/Red Gram),Najafgarh,2013-01-14,3271.0,5.4,19.8,clear
+446,Arhar (Tur/Red Gram),Narela,2013-01-14,3411.0,12.5,19.8,clear
+447,Arhar (Tur/Red Gram),Najafgarh,2013-01-15,2750.0,1.2,22.0,clear
+448,Arhar (Tur/Red Gram),Narela,2013-01-15,3551.0,19.3,22.0,clear
+449,Arhar (Tur/Red Gram),Najafgarh,2013-01-17,3225.0,14.0,20.6,rain
+450,Arhar (Tur/Red Gram),Najafgarh,2013-01-19,2900.0,2.4,18.4,clear
+451,Arhar (Tur/Red Gram),Narela,2013-01-19,3300.0,1.7,18.4,clear
+452,Arhar (Tur/Red Gram),Najafgarh,2013-01-20,3300.0,7.0,17.2,clear
+453,Arhar (Tur/Red Gram),Narela,2013-01-20,3500.0,18.7,17.2,clear
+454,Arhar (Tur/Red Gram),Najafgarh,2013-01-21,3240.0,7.4,19.0,clear
+455,Arhar (Tur/Red Gram),Narela,2013-01-21,3400.0,9.4,19.0,clear
+456,Arhar (Tur/Red Gram),Najafgarh,2013-01-22,3220.0,13.0,20.2,clear
+457,Arhar (Tur/Red Gram),Narela,2013-01-22,3500.0,6.5,20.2,clear
+458,Arhar (Tur/Red Gram),Najafgarh,2013-01-24,3052.0,10.6,20.0,clear
+459,Arhar (Tur/Red Gram),Narela,2013-01-24,3300.0,8.9,20.0,clear
+460,Arhar (Tur/Red Gram),Najafgarh,2013-01-25,2831.0,6.9,20.6,clear
+461,Arhar (Tur/Red Gram),Narela,2013-01-25,3352.0,2.2,20.6,clear
+462,Black Gram (Urd Beans),Narela,2013-01-25,4000.0,0.8,20.6,clear
+463,Arhar (Tur/Red Gram),Najafgarh,2013-01-27,3350.0,7.9,21.6,clear
+464,Arhar (Tur/Red Gram),Narela,2013-01-27,3200.0,13.3,21.6,clear
+465,Black Gram (Urd Beans),Narela,2013-01-27,3801.0,1.2,21.6,clear
+466,Arhar (Tur/Red Gram),Najafgarh,2013-01-28,3220.0,11.7,21.2,clear
+467,Arhar (Tur/Red Gram),Narela,2013-01-28,3150.0,12.8,21.2,clear
+468,Arhar (Tur/Red Gram),Najafgarh,2013-01-29,2850.0,5.8,22.6,clear
+469,Arhar (Tur/Red Gram),Narela,2013-01-29,3250.0,17.7,22.6,clear
+470,Black Gram (Urd Beans),Narela,2013-01-29,3885.0,0.2,22.6,clear
+471,Arhar (Tur/Red Gram),Najafgarh,2013-01-31,3250.0,8.1,21.8,clear
+472,Arhar (Tur/Red Gram),Narela,2013-01-31,3301.0,6.7,21.8,clear
+473,Arhar (Tur/Red Gram),Najafgarh,2013-01-02,3151.0,6.7,9.2,clear
+474,Arhar (Tur/Red Gram),Narela,2013-01-02,3450.0,0.4,9.2,clear
+475,Arhar (Tur/Red Gram),Najafgarh,2013-02-02,3151.0,3.0,23.8,clear
+476,Arhar (Tur/Red Gram),Narela,2013-02-02,3100.0,0.4,23.8,clear
+477,Arhar (Tur/Red Gram),Najafgarh,2013-04-02,3200.0,3.0,35.4,rain
+478,Arhar (Tur/Red Gram),Najafgarh,2013-07-02,3020.0,5.3,37.2,clear
+479,Arhar (Tur/Red Gram),Narela,2013-07-02,3100.0,1.0,37.2,clear
+480,Arhar (Tur/Red Gram),Najafgarh,2013-08-02,2800.0,4.6,34.6,clear
+481,Arhar (Tur/Red Gram),Narela,2013-08-02,3050.0,4.9,34.6,clear
+482,Arhar (Tur/Red Gram),Najafgarh,2013-09-02,3050.0,2.1,35.4,clear
+483,Arhar (Tur/Red Gram),Narela,2013-09-02,3400.0,10.8,35.4,clear
+484,Arhar (Tur/Red Gram),Najafgarh,2013-10-02,2900.0,6.5,33.8,clear
+485,Arhar (Tur/Red Gram),Narela,2013-10-02,3461.0,4.6,33.8,clear
+486,Arhar (Tur/Red Gram),Najafgarh,2013-11-02,3100.0,1.5,27.4,clear
+487,Arhar (Tur/Red Gram),Narela,2013-11-02,3451.0,0.9,27.4,clear
+488,Bengal Gram(Gram),Najafgarh,2013-11-02,3271.0,0.5,27.4,clear
+489,Arhar (Tur/Red Gram),Najafgarh,2013-12-02,3300.0,3.8,27.6,clear
+490,Arhar (Tur/Red Gram),Narela,2013-12-02,3370.0,2.2,27.6,clear
+491,Black Gram (Urd Beans),Narela,2013-12-02,3200.0,0.5,27.6,clear
+492,Arhar (Tur/Red Gram),Najafgarh,2013-02-14,2300.0,1.5,26.2,clear
+493,Arhar (Tur/Red Gram),Najafgarh,2013-02-16,2751.0,1.5,16.0,clear
+494,Arhar (Tur/Red Gram),Najafgarh,2013-02-17,2800.0,1.3,19.0,clear
+495,Bengal Gram(Gram),Najafgarh,2013-02-17,3271.0,0.7,19.0,clear
+496,Arhar (Tur/Red Gram),Najafgarh,2013-02-19,3323.0,4.2,22.0,clear
+497,Arhar (Tur/Red Gram),Narela,2013-02-19,3275.0,7.7,22.0,clear
+498,Arhar (Tur/Red Gram),Najafgarh,2013-02-21,3401.0,5.6,25.4,clear
+499,Arhar (Tur/Red Gram),Narela,2013-02-21,3000.0,0.3,25.4,clear
+500,Black Gram (Urd Beans),Narela,2013-02-21,3111.0,0.6,25.4,clear
+501,Arhar (Tur/Red Gram),Najafgarh,2013-02-23,3300.0,2.3,21.0,rain
+502,Arhar (Tur/Red Gram),Narela,2013-02-23,3651.0,10.0,21.0,rain
+503,Arhar (Tur/Red Gram),Najafgarh,2013-02-24,3241.0,3.5,22.8,clear
+504,Arhar (Tur/Red Gram),Narela,2013-02-24,3741.0,8.4,22.8,clear
+505,Arhar (Tur/Red Gram),Najafgarh,2013-02-25,3470.0,1.8,24.0,clear
+506,Arhar (Tur/Red Gram),Narela,2013-02-25,3400.0,15.2,24.0,clear
+507,Arhar (Tur/Red Gram),Najafgarh,2013-02-26,3141.0,5.3,24.0,clear
+508,Arhar (Tur/Red Gram),Narela,2013-02-26,3559.0,12.1,24.0,clear
+509,Arhar (Tur/Red Gram),Najafgarh,2013-02-28,3010.0,7.4,25.6,clear
+510,Arhar (Tur/Red Gram),Narela,2013-02-28,3600.0,18.2,25.6,clear
+511,Arhar (Tur/Red Gram),Najafgarh,2013-01-03,2900.0,7.0,12.6,clear
+512,Arhar (Tur/Red Gram),Narela,2013-01-03,3651.0,9.1,12.6,clear
+513,Arhar (Tur/Red Gram),Najafgarh,2013-02-03,3000.0,4.9,25.8,clear
+514,Arhar (Tur/Red Gram),Narela,2013-02-03,3501.0,5.6,25.8,clear
+515,Arhar (Tur/Red Gram),Najafgarh,2013-03-03,3490.0,4.4,27.0,clear
+516,Arhar (Tur/Red Gram),Narela,2013-03-03,3300.0,13.0,27.0,clear
+517,Arhar (Tur/Red Gram),Najafgarh,2013-04-03,2550.0,9.4,31.8,clear
+518,Arhar (Tur/Red Gram),Narela,2013-04-03,3560.0,5.3,31.8,clear
+519,Arhar (Tur/Red Gram),Najafgarh,2013-05-03,3560.0,1.2,37.4,clear
+520,Arhar (Tur/Red Gram),Narela,2013-05-03,3521.0,28.1,37.4,clear
+521,Arhar (Tur/Red Gram),Najafgarh,2013-07-03,3381.0,8.3,34.2,clear
+522,Arhar (Tur/Red Gram),Narela,2013-07-03,3725.0,17.7,34.2,clear
+523,Arhar (Tur/Red Gram),Najafgarh,2013-08-03,2800.0,2.5,36.0,clear
+524,Arhar (Tur/Red Gram),Narela,2013-08-03,3799.0,4.7,36.0,clear
+525,Arhar (Tur/Red Gram),Najafgarh,2013-09-03,3371.0,0.7,35.6,clear
+526,Arhar (Tur/Red Gram),Narela,2013-09-03,3825.0,2.2,35.6,clear
+527,Arhar (Tur/Red Gram),Najafgarh,2013-10-03,3100.0,2.2,32.8,clear
+528,Arhar (Tur/Red Gram),Narela,2013-10-03,3949.0,1.4,32.8,clear
+529,Black Gram (Urd Beans),Narela,2013-10-03,3200.0,0.5,32.8,clear
+530,Arhar (Tur/Red Gram),Najafgarh,2013-11-03,3150.0,3.0,27.6,clear
+531,Arhar (Tur/Red Gram),Narela,2013-11-03,3900.0,1.6,27.6,clear
+532,Bengal Gram(Gram),Najafgarh,2013-11-03,3200.0,2.5,27.6,clear
+533,Arhar (Tur/Red Gram),Najafgarh,2013-12-03,3600.0,3.5,27.2,clear
+534,Arhar (Tur/Red Gram),Narela,2013-12-03,3500.0,5.9,27.2,clear
+535,Arhar (Tur/Red Gram),Najafgarh,2013-03-14,3400.0,1.0,28.4,clear
+536,Arhar (Tur/Red Gram),Narela,2013-03-14,3700.0,5.3,28.4,clear
+537,Black Gram (Urd Beans),Narela,2013-03-14,3152.0,0.5,28.4,clear
+538,Arhar (Tur/Red Gram),Najafgarh,2013-03-15,3642.0,2.5,29.0,clear
+539,Arhar (Tur/Red Gram),Narela,2013-03-15,3851.0,6.2,29.0,clear
+540,Arhar (Tur/Red Gram),Najafgarh,2013-03-16,3590.0,4.5,28.2,clear
+541,Arhar (Tur/Red Gram),Najafgarh,2013-03-17,3680.0,3.3,30.0,clear
+542,Arhar (Tur/Red Gram),Narela,2013-03-17,3864.0,18.9,30.0,clear
+543,Bengal Gram(Gram),Najafgarh,2013-03-17,3100.0,0.5,30.0,clear
+544,Arhar (Tur/Red Gram),Najafgarh,2013-03-18,3500.0,2.0,29.6,clear
+545,Arhar (Tur/Red Gram),Narela,2013-03-18,3400.0,7.7,29.6,clear
+546,Arhar (Tur/Red Gram),Najafgarh,2013-03-21,3700.0,4.5,33.2,clear
+547,Arhar (Tur/Red Gram),Narela,2013-03-21,3860.0,17.3,33.2,clear
+548,Arhar (Tur/Red Gram),Najafgarh,2013-03-22,3451.0,2.4,31.8,clear
+549,Arhar (Tur/Red Gram),Najafgarh,2013-03-23,3060.0,0.5,34.4,clear
+550,Arhar (Tur/Red Gram),Narela,2013-03-23,3839.0,5.9,34.4,clear
+551,Arhar (Tur/Red Gram),Najafgarh,2013-03-24,3500.0,8.0,33.0,clear
+552,Arhar (Tur/Red Gram),Narela,2013-03-24,3522.0,2.7,33.0,clear
+553,Bengal Gram(Gram),Najafgarh,2013-03-24,3100.0,0.8,33.0,clear
+554,Arhar (Tur/Red Gram),Najafgarh,2013-03-25,3600.0,1.3,29.2,clear
+555,Arhar (Tur/Red Gram),Narela,2013-03-25,3400.0,1.5,29.2,clear
+556,Arhar (Tur/Red Gram),Najafgarh,2013-03-28,3470.0,0.9,32.6,clear
+557,Arhar (Tur/Red Gram),Narela,2013-03-28,3590.0,1.5,32.6,clear
+558,Arhar (Tur/Red Gram),Najafgarh,2013-03-29,3541.0,0.2,27.6,clear
+559,Arhar (Tur/Red Gram),Narela,2013-03-29,3625.0,3.0,27.6,clear
+560,Arhar (Tur/Red Gram),Najafgarh,2013-02-04,3676.0,1.7,18.6,clear
+561,Arhar (Tur/Red Gram),Narela,2013-02-04,3600.0,5.4,18.6,clear
+562,Arhar (Tur/Red Gram),Najafgarh,2013-05-04,3600.0,2.5,41.6,clear
+563,Arhar (Tur/Red Gram),Narela,2013-05-04,4060.0,2.1,41.6,clear
+564,Black Gram (Urd Beans),Narela,2013-05-04,3000.0,0.4,41.6,clear
+565,Arhar (Tur/Red Gram),Najafgarh,2013-06-04,3700.0,2.0,41.4,clear
+566,Arhar (Tur/Red Gram),Narela,2013-06-04,3900.0,2.3,41.4,clear
+567,Arhar (Tur/Red Gram),Najafgarh,2013-07-04,3751.0,1.4,36.8,clear
+568,Arhar (Tur/Red Gram),Narela,2013-07-04,4030.0,6.3,36.8,clear
+569,Bengal Gram(Gram),Najafgarh,2013-07-04,3302.0,1.0,36.8,clear
+570,Arhar (Tur/Red Gram),Najafgarh,2013-08-04,3200.0,0.8,35.8,clear
+571,Arhar (Tur/Red Gram),Narela,2013-08-04,4110.0,1.0,35.8,clear
+572,Arhar (Tur/Red Gram),Najafgarh,2013-09-04,3000.0,0.7,34.8,clear
+573,Arhar (Tur/Red Gram),Narela,2013-09-04,4000.0,4.0,34.8,clear
+574,Arhar (Tur/Red Gram),Najafgarh,2013-11-04,3976.0,1.5,27.6,clear
+575,Arhar (Tur/Red Gram),Narela,2013-11-04,3825.0,6.0,27.6,clear
+576,Arhar (Tur/Red Gram),Najafgarh,2013-12-04,3700.0,0.4,24.8,clear
+577,Arhar (Tur/Red Gram),Narela,2013-12-04,3921.0,1.4,24.8,clear
+578,Arhar (Tur/Red Gram),Najafgarh,2013-04-14,3272.0,0.4,36.2,clear
+579,Arhar (Tur/Red Gram),Narela,2013-04-14,3800.0,18.7,36.2,clear
+580,Bengal Gram(Gram),Najafgarh,2013-04-14,3390.0,1.0,36.2,clear
+581,Arhar (Tur/Red Gram),Najafgarh,2013-04-15,3272.0,0.4,35.4,clear
+582,Arhar (Tur/Red Gram),Narela,2013-04-15,4024.0,8.4,35.4,clear
+583,Bengal Gram(Gram),Najafgarh,2013-04-15,3390.0,1.0,35.4,clear
+584,Arhar (Tur/Red Gram),Najafgarh,2013-04-20,3855.0,0.5,37.8,clear
+585,Arhar (Tur/Red Gram),Najafgarh,2013-04-23,3725.0,0.8,33.6,clear
+586,Arhar (Tur/Red Gram),Narela,2013-04-23,3850.0,1.9,33.6,clear
+587,Arhar (Tur/Red Gram),Najafgarh,2013-04-26,3672.0,0.9,34.4,clear
+588,Arhar (Tur/Red Gram),Narela,2013-04-26,1700.0,1.0,34.4,clear
+589,Arhar (Tur/Red Gram),Najafgarh,2013-04-27,3400.0,0.2,37.6,clear
+590,Arhar (Tur/Red Gram),Narela,2013-04-27,3800.0,1.2,37.6,clear
+591,Arhar (Tur/Red Gram),Najafgarh,2013-04-28,3000.0,0.2,36.4,clear
+592,Arhar (Tur/Red Gram),Narela,2013-04-28,3850.0,1.9,36.4,clear
+593,Bengal Gram(Gram),Najafgarh,2013-04-28,3450.0,0.7,36.4,clear
+594,Arhar (Tur/Red Gram),Najafgarh,2013-04-05,3750.0,0.4,31.4,clear
+595,Arhar (Tur/Red Gram),Narela,2013-04-05,3700.0,3.0,31.4,clear
+596,Arhar (Tur/Red Gram),Najafgarh,2013-07-05,1800.0,0.2,36.0,clear
+597,Arhar (Tur/Red Gram),Najafgarh,2013-05-14,3400.0,0.8,39.6,clear
+598,Arhar (Tur/Red Gram),Najafgarh,2013-05-20,3900.0,1.0,43.8,clear
+599,Arhar (Tur/Red Gram),Narela,2013-05-20,4000.0,6.1,43.8,clear
+600,Arhar (Tur/Red Gram),Najafgarh,2013-05-21,3200.0,1.0,44.4,clear
+601,Arhar (Tur/Red Gram),Narela,2013-05-21,3850.0,8.2,44.4,clear
+602,Arhar (Tur/Red Gram),Najafgarh,2013-05-24,3962.0,5.2,44.8,clear
+603,Arhar (Tur/Red Gram),Narela,2013-05-24,4000.0,1.1,44.8,clear
+604,Arhar (Tur/Red Gram),Najafgarh,2013-05-25,3600.0,0.3,43.0,clear
+605,Arhar (Tur/Red Gram),Narela,2013-05-25,4161.0,4.4,43.0,clear
+606,Arhar (Tur/Red Gram),Najafgarh,2013-05-30,3641.0,2.0,39.4,clear
+607,Arhar (Tur/Red Gram),Narela,2013-05-30,4100.0,5.5,39.4,clear
+608,Arhar (Tur/Red Gram),Najafgarh,2013-05-31,3400.0,0.4,40.2,clear
+609,Arhar (Tur/Red Gram),Najafgarh,2013-06-30,3070.0,7.0,37.0,clear
+610,Arhar (Tur/Red Gram),Narela,2013-06-30,2425.0,0.8,37.0,clear
+611,Arhar (Tur/Red Gram),Najafgarh,2013-08-07,3852.0,5.0,30.4,clear
+612,Arhar (Tur/Red Gram),Narela,2013-08-07,2000.0,0.4,30.4,clear
+613,Bengal Gram(Gram),Najafgarh,2013-08-07,2980.0,2.5,30.4,clear
+614,Arhar (Tur/Red Gram),Najafgarh,2013-06-08,3700.0,3.0,38.2,clear
+615,Arhar (Tur/Red Gram),Najafgarh,2013-08-16,3650.0,3.5,30.4,rain
+616,Arhar (Tur/Red Gram),Najafgarh,2013-08-22,3700.0,5.0,31.6,clear
+617,Arhar (Tur/Red Gram),Najafgarh,2013-08-24,3881.0,1.2,36.2,clear
+618,Arhar (Tur/Red Gram),Najafgarh,2013-08-26,3650.0,2.5,36.0,clear
+619,Arhar (Tur/Red Gram),Narela,2013-08-26,3850.0,0.5,36.0,clear
+620,Arhar (Tur/Red Gram),Najafgarh,2013-08-31,3700.0,3.5,31.6,rain
+621,Arhar (Tur/Red Gram),Narela,2013-08-31,3960.0,2.5,31.6,rain
+622,Arhar (Tur/Red Gram),Najafgarh,2013-01-09,3600.0,0.2,20.6,clear
+623,Arhar (Tur/Red Gram),Najafgarh,2013-08-09,3401.0,1.0,28.4,clear
+624,Arhar (Tur/Red Gram),Narela,2013-08-09,3025.0,10.3,28.4,clear
+625,Arhar (Tur/Red Gram),Najafgarh,2013-10-09,3871.0,2.0,34.6,clear
+626,Arhar (Tur/Red Gram),Narela,2013-10-09,3300.0,2.4,34.6,clear
+627,Arhar (Tur/Red Gram),Najafgarh,2013-09-14,3000.0,1.5,35.4,clear
+628,Arhar (Tur/Red Gram),Najafgarh,2013-11-14,3632.0,0.7,25.0,clear
+629,Arhar (Tur/Red Gram),Najafgarh,2013-11-18,4225.0,1.0,26.8,clear
+630,Arhar (Tur/Red Gram),Najafgarh,2013-11-22,3900.0,4.9,26.0,clear
+631,Arhar (Tur/Red Gram),Narela,2013-11-22,3825.0,2.4,26.0,clear
+632,Arhar (Tur/Red Gram),Najafgarh,2013-11-23,3800.0,0.4,23.8,clear
+633,Arhar (Tur/Red Gram),Najafgarh,2013-11-24,3800.0,2.0,27.4,clear
+634,Arhar (Tur/Red Gram),Najafgarh,2013-11-28,3600.0,1.3,27.8,clear
+635,Arhar (Tur/Red Gram),Narela,2013-11-28,3833.0,5.6,27.8,clear
+636,Arhar (Tur/Red Gram),Najafgarh,2013-11-29,3000.0,1.1,26.6,clear
+637,Arhar (Tur/Red Gram),Narela,2013-11-29,3951.0,1.7,26.6,clear
+638,Arhar (Tur/Red Gram),Najafgarh,2013-01-12,3800.0,6.7,21.2,clear
+639,Arhar (Tur/Red Gram),Narela,2013-01-12,3750.0,1.1,21.2,clear
+640,Arhar (Tur/Red Gram),Najafgarh,2013-02-12,3944.0,0.7,23.0,clear
+641,Arhar (Tur/Red Gram),Narela,2013-02-12,3851.0,5.2,23.0,clear
+642,Arhar (Tur/Red Gram),Najafgarh,2013-03-12,3850.0,1.0,30.6,clear
+643,Arhar (Tur/Red Gram),Narela,2013-03-12,3836.0,1.2,30.6,clear
+644,Arhar (Tur/Red Gram),Najafgarh,2013-05-12,3780.0,1.8,35.8,clear
+645,Arhar (Tur/Red Gram),Narela,2013-05-12,3821.0,15.2,35.8,clear
+646,Arhar (Tur/Red Gram),Najafgarh,2013-06-12,3850.0,4.0,37.6,clear
+647,Arhar (Tur/Red Gram),Narela,2013-06-12,3985.0,2.2,37.6,clear
+648,Arhar (Tur/Red Gram),Najafgarh,2013-07-12,3700.0,2.2,32.0,clear
+649,Arhar (Tur/Red Gram),Narela,2013-07-12,3700.0,4.3,32.0,clear
+650,Arhar (Tur/Red Gram),Najafgarh,2013-08-12,3800.0,3.6,32.8,clear
+651,Arhar (Tur/Red Gram),Narela,2013-08-12,3855.0,3.7,32.8,clear
+652,Arhar (Tur/Red Gram),Najafgarh,2013-09-12,3750.0,5.7,34.8,clear
+653,Arhar (Tur/Red Gram),Narela,2013-09-12,3741.0,1.2,34.8,clear
+654,Arhar (Tur/Red Gram),Najafgarh,2013-10-12,3500.0,1.0,30.0,clear
+655,Arhar (Tur/Red Gram),Narela,2013-10-12,3901.0,1.5,30.0,clear
+656,Arhar (Tur/Red Gram),Najafgarh,2013-12-12,3800.0,1.4,24.0,clear
+657,Arhar (Tur/Red Gram),Narela,2013-12-12,3800.0,1.8,24.0,clear
+658,Arhar (Tur/Red Gram),Najafgarh,2013-12-13,3600.0,2.2,24.4,clear
+659,Arhar (Tur/Red Gram),Narela,2013-12-13,3800.0,1.9,24.4,clear
+660,Arhar (Tur/Red Gram),Najafgarh,2013-12-15,3750.0,4.3,23.6,clear
+661,Arhar (Tur/Red Gram),Narela,2013-12-15,3800.0,4.9,23.6,clear
+662,Arhar (Tur/Red Gram),Najafgarh,2013-12-17,3781.0,1.6,21.6,clear
+663,Arhar (Tur/Red Gram),Narela,2013-12-17,3800.0,1.2,21.6,clear
+664,Arhar (Tur/Red Gram),Najafgarh,2013-12-19,3650.0,2.3,21.6,clear
+665,Arhar (Tur/Red Gram),Narela,2013-12-19,3700.0,8.2,21.6,clear
+666,Arhar (Tur/Red Gram),Najafgarh,2013-12-20,3600.0,2.6,19.6,clear
+667,Arhar (Tur/Red Gram),Narela,2013-12-20,3650.0,1.3,19.6,clear
+668,Black Gram (Urd Beans),Narela,2013-12-20,3200.0,0.5,19.6,clear
+669,Arhar (Tur/Red Gram),Najafgarh,2013-12-21,3300.0,4.0,15.8,clear
+670,Arhar (Tur/Red Gram),Narela,2013-12-21,3700.0,0.8,15.8,clear
+671,Black Gram (Urd Beans),Narela,2013-12-21,2427.0,1.5,15.8,clear
+672,Arhar (Tur/Red Gram),Najafgarh,2013-12-22,3650.0,0.7,17.4,clear
+673,Arhar (Tur/Red Gram),Narela,2013-12-22,3550.0,1.5,17.4,clear
+674,Arhar (Tur/Red Gram),Najafgarh,2013-12-23,3700.0,2.2,18.2,clear
+675,Arhar (Tur/Red Gram),Narela,2013-12-23,3780.0,1.4,18.2,clear
+676,Arhar (Tur/Red Gram),Najafgarh,2013-12-24,3650.0,0.5,19.6,clear
+677,Arhar (Tur/Red Gram),Najafgarh,2013-12-26,3600.0,0.8,20.0,clear
+678,Arhar (Tur/Red Gram),Narela,2013-12-26,3500.0,2.6,20.0,clear
+679,Arhar (Tur/Red Gram),Najafgarh,2013-12-27,3000.0,0.6,17.0,clear
+680,Arhar (Tur/Red Gram),Najafgarh,2013-12-28,3551.0,0.5,19.6,clear
+681,Arhar (Tur/Red Gram),Najafgarh,2013-12-29,3550.0,1.8,19.0,clear
+682,Arhar (Tur/Red Gram),Najafgarh,2013-12-30,3750.0,2.2,18.8,rain
+683,Arhar (Tur/Red Gram),Narela,2013-03-02,3051.0,2.3,26.4,clear
+684,Bengal Gram(Gram),Najafgarh,2013-03-02,3580.0,1.0,26.4,clear
+685,Arhar (Tur/Red Gram),Narela,2013-02-15,3276.0,6.0,22.6,clear
+686,Arhar (Tur/Red Gram),Narela,2013-02-18,3300.0,0.7,20.0,clear
+687,Arhar (Tur/Red Gram),Narela,2013-02-22,3600.0,2.3,26.2,clear
+688,Arhar (Tur/Red Gram),Narela,2013-03-19,3482.0,1.7,31.6,clear
+689,Arhar (Tur/Red Gram),Narela,2013-03-26,3400.0,0.0,29.0,clear
+690,Arhar (Tur/Red Gram),Narela,2013-03-30,3825.0,0.9,29.2,clear
+691,Arhar (Tur/Red Gram),Narela,2013-03-31,4035.0,1.3,31.0,clear
+692,Bengal Gram(Gram),Najafgarh,2013-03-31,3100.0,0.8,31.0,clear
+693,Arhar (Tur/Red Gram),Narela,2013-01-04,3890.0,15.2,15.4,clear
+694,Arhar (Tur/Red Gram),Narela,2013-04-04,3915.0,0.9,32.8,clear
+695,Arhar (Tur/Red Gram),Narela,2013-04-13,4095.0,3.5,36.2,clear
+696,Arhar (Tur/Red Gram),Narela,2013-04-16,2300.0,3.8,38.6,clear
+697,Arhar (Tur/Red Gram),Narela,2013-04-18,4138.0,1.9,37.6,clear
+698,Arhar (Tur/Red Gram),Narela,2013-04-21,3530.0,2.3,32.0,clear
+699,Bengal Gram(Gram),Najafgarh,2013-04-21,3410.0,1.0,32.0,clear
+700,Arhar (Tur/Red Gram),Narela,2013-04-22,3700.0,0.1,31.8,clear
+701,Bengal Gram(Gram),Najafgarh,2013-04-22,3401.0,1.5,31.8,clear
+702,Arhar (Tur/Red Gram),Narela,2013-04-25,2850.0,1.5,38.0,clear
+703,Arhar (Tur/Red Gram),Narela,2013-04-30,3800.0,0.3,39.0,clear
+704,Arhar (Tur/Red Gram),Narela,2013-02-05,3701.0,8.6,18.0,clear
+705,Black Gram (Urd Beans),Narela,2013-02-05,3830.0,0.2,18.0,clear
+706,Arhar (Tur/Red Gram),Narela,2013-03-05,3750.0,0.1,29.8,clear
+707,Arhar (Tur/Red Gram),Narela,2013-05-05,3934.0,9.3,40.6,clear
+708,Bengal Gram(Gram),Najafgarh,2013-05-05,3211.0,1.5,40.6,clear
+709,Arhar (Tur/Red Gram),Narela,2013-06-05,3900.0,6.7,43.2,clear
+710,Arhar (Tur/Red Gram),Narela,2013-09-05,3600.0,0.3,35.2,clear
+711,Arhar (Tur/Red Gram),Narela,2013-10-05,4000.0,1.3,32.6,clear
+712,Arhar (Tur/Red Gram),Narela,2013-11-05,4025.0,6.2,25.2,clear
+713,Arhar (Tur/Red Gram),Narela,2013-12-05,3700.0,3.6,25.2,clear
+714,Arhar (Tur/Red Gram),Narela,2013-05-13,3821.0,1.2,37.0,clear
+715,Arhar (Tur/Red Gram),Narela,2013-05-16,3991.0,6.3,40.4,clear
+716,Arhar (Tur/Red Gram),Narela,2013-05-17,3900.0,1.0,41.4,clear
+717,Black Gram (Urd Beans),Narela,2013-05-17,4000.0,1.0,41.4,clear
+718,Arhar (Tur/Red Gram),Narela,2013-05-18,4130.0,3.8,42.6,clear
+719,Arhar (Tur/Red Gram),Narela,2013-05-19,4080.0,2.7,43.8,clear
+720,Bengal Gram(Gram),Najafgarh,2013-05-19,3280.0,1.0,43.8,clear
+721,Arhar (Tur/Red Gram),Narela,2013-05-23,3990.0,1.0,45.4,clear
+722,Arhar (Tur/Red Gram),Narela,2013-05-26,3955.0,3.6,43.2,clear
+723,Arhar (Tur/Red Gram),Narela,2013-05-27,3000.0,12.2,42.2,clear
+724,Arhar (Tur/Red Gram),Narela,2013-05-28,3765.0,6.0,42.6,clear
+725,Arhar (Tur/Red Gram),Narela,2013-01-06,3125.0,3.5,11.4,clear
+726,Bengal Gram(Gram),Najafgarh,2013-01-06,3200.0,5.0,11.4,clear
+727,Arhar (Tur/Red Gram),Narela,2013-03-06,4070.0,0.3,29.4,clear
+728,Arhar (Tur/Red Gram),Narela,2013-06-06,3981.0,2.2,42.6,clear
+729,Arhar (Tur/Red Gram),Narela,2013-07-06,3991.0,3.8,34.6,clear
+730,Bengal Gram(Gram),Najafgarh,2013-07-06,3220.0,2.0,34.6,clear
+731,Arhar (Tur/Red Gram),Narela,2013-08-06,3000.0,2.2,30.0,rain
+732,Arhar (Tur/Red Gram),Narela,2013-09-06,3863.0,10.5,34.2,clear
+733,Arhar (Tur/Red Gram),Narela,2013-10-06,2800.0,0.1,33.4,clear
+734,Arhar (Tur/Red Gram),Narela,2013-11-06,4000.0,4.9,27.4,clear
+735,Arhar (Tur/Red Gram),Narela,2013-06-14,4006.0,2.0,37.0,rain
+736,Arhar (Tur/Red Gram),Narela,2013-06-15,3850.0,1.0,35.8,clear
+737,Arhar (Tur/Red Gram),Narela,2013-06-20,3950.0,7.8,37.6,clear
+738,Arhar (Tur/Red Gram),Narela,2013-06-22,3975.0,4.8,40.2,clear
+739,Arhar (Tur/Red Gram),Narela,2013-06-23,3856.0,4.5,39.4,clear
+740,Arhar (Tur/Red Gram),Narela,2013-06-25,3600.0,3.5,34.6,clear
+741,Arhar (Tur/Red Gram),Narela,2013-06-27,3200.0,0.1,34.8,clear
+742,Arhar (Tur/Red Gram),Narela,2013-06-29,3190.0,0.6,38.6,clear
+743,Arhar (Tur/Red Gram),Narela,2013-06-07,3400.0,1.0,38.6,clear
+744,Arhar (Tur/Red Gram),Narela,2013-07-07,3800.0,5.8,33.0,clear
+745,Bengal Gram(Gram),Najafgarh,2013-07-07,2950.0,1.0,33.0,clear
+746,Arhar (Tur/Red Gram),Narela,2013-11-07,4048.0,0.8,26.4,clear
+747,Arhar (Tur/Red Gram),Narela,2013-07-14,3871.0,4.4,35.4,clear
+748,Arhar (Tur/Red Gram),Narela,2013-07-18,2350.0,0.9,33.6,clear
+749,Arhar (Tur/Red Gram),Narela,2013-07-19,3940.0,7.0,35.0,clear
+750,Arhar (Tur/Red Gram),Narela,2013-07-20,1200.0,2.0,31.0,rain
+751,Arhar (Tur/Red Gram),Narela,2013-07-21,4000.0,0.2,32.2,clear
+752,Arhar (Tur/Red Gram),Narela,2013-07-22,3250.0,1.7,31.6,clear
+753,Bengal Gram(Gram),Najafgarh,2013-07-22,2929.0,2.5,31.6,clear
+754,Arhar (Tur/Red Gram),Narela,2013-07-25,3560.0,8.6,34.4,clear
+755,Arhar (Tur/Red Gram),Narela,2013-07-26,3750.0,7.4,34.0,clear
+756,Arhar (Tur/Red Gram),Narela,2013-07-29,3650.0,0.6,34.6,rain
+757,Bengal Gram(Gram),Najafgarh,2013-07-29,2751.0,0.8,34.6,rain
+758,Black Gram (Urd Beans),Narela,2013-07-29,3050.0,1.6,34.6,rain
+759,Arhar (Tur/Red Gram),Narela,2013-07-30,3500.0,0.3,32.8,clear
+760,Arhar (Tur/Red Gram),Narela,2013-03-08,1150.0,2.5,31.4,clear
+761,Arhar (Tur/Red Gram),Narela,2013-04-08,1600.0,2.6,37.0,clear
+762,Bengal Gram(Gram),Najafgarh,2013-04-08,2852.0,0.5,37.0,clear
+763,Arhar (Tur/Red Gram),Narela,2013-05-08,3790.0,0.5,41.4,clear
+764,Arhar (Tur/Red Gram),Narela,2013-10-08,3850.0,1.0,33.4,clear
+765,Arhar (Tur/Red Gram),Narela,2013-11-08,2100.0,3.5,24.6,clear
+766,Bengal Gram(Gram),Najafgarh,2013-11-08,2930.0,0.5,24.6,clear
+767,Arhar (Tur/Red Gram),Narela,2013-08-13,3500.0,3.2,33.0,clear
+768,Arhar (Tur/Red Gram),Narela,2013-08-18,3700.0,2.0,31.6,clear
+769,Arhar (Tur/Red Gram),Narela,2013-08-20,3851.0,1.4,33.0,clear
+770,Arhar (Tur/Red Gram),Narela,2013-08-23,3500.0,0.1,34.4,clear
+771,Arhar (Tur/Red Gram),Narela,2013-08-25,3811.0,2.8,34.8,clear
+772,Arhar (Tur/Red Gram),Narela,2013-08-27,3958.0,8.3,35.2,clear
+773,Arhar (Tur/Red Gram),Narela,2013-03-09,2200.0,0.2,33.6,clear
+774,Arhar (Tur/Red Gram),Narela,2013-05-09,3700.0,2.6,41.6,clear
+775,Arhar (Tur/Red Gram),Narela,2013-07-09,3500.0,0.1,34.6,rain
+776,Arhar (Tur/Red Gram),Narela,2013-09-09,3550.0,0.1,33.6,clear
+777,Arhar (Tur/Red Gram),Narela,2013-09-15,3550.0,0.2,36.6,clear
+778,Arhar (Tur/Red Gram),Narela,2013-09-17,3682.0,5.6,35.2,clear
+779,Arhar (Tur/Red Gram),Narela,2013-09-20,3550.0,0.5,32.2,clear
+780,Arhar (Tur/Red Gram),Narela,2013-09-21,3881.0,3.0,31.6,rain
+781,Arhar (Tur/Red Gram),Narela,2013-09-24,3799.0,2.0,35.4,clear
+782,Arhar (Tur/Red Gram),Narela,2013-09-27,2525.0,2.5,33.4,clear
+783,Arhar (Tur/Red Gram),Narela,2013-09-29,3200.0,0.2,30.6,clear
+784,Arhar (Tur/Red Gram),Narela,2013-09-30,2200.0,0.6,30.6,clear
+785,Arhar (Tur/Red Gram),Narela,2013-03-10,3000.0,0.2,30.4,clear
+786,Arhar (Tur/Red Gram),Narela,2013-12-10,3825.0,2.5,23.8,clear
+787,Arhar (Tur/Red Gram),Narela,2013-10-29,4025.0,1.5,31.2,clear
+788,Arhar (Tur/Red Gram),Narela,2013-11-15,4000.0,2.9,25.6,clear
+789,Arhar (Tur/Red Gram),Narela,2013-11-17,4170.0,2.5,23.6,clear
+790,Arhar (Tur/Red Gram),Narela,2013-11-21,4000.0,0.6,28.0,clear
+791,Arhar (Tur/Red Gram),Narela,2013-11-25,3500.0,0.1,28.6,clear
+792,Black Gram (Urd Beans),Narela,2013-11-25,2702.0,1.4,28.6,clear
+793,Arhar (Tur/Red Gram),Narela,2013-11-26,4041.0,0.3,28.4,clear
+794,Arhar (Tur/Red Gram),Narela,2013-11-30,3886.0,5.0,26.4,clear
+795,Arhar (Tur/Red Gram),Narela,2013-12-14,3851.0,2.7,24.6,clear
+796,Arhar (Tur/Red Gram),Narela,2013-12-16,3700.0,0.3,23.8,clear
+797,Bengal Gram(Gram),Najafgarh,2013-07-15,3075.0,0.7,36.2,clear
+798,Bengal Gram(Gram),Najafgarh,2013-07-23,2821.0,1.0,35.0,clear
+799,Black Gram (Urd Beans),Narela,2013-02-06,2750.0,0.3,20.4,clear
+800,Black Gram (Urd Beans),Narela,2013-09-22,2770.0,1.0,32.8,clear
+801,Black Gram (Urd Beans),Narela,2013-08-10,2700.0,0.4,34.0,clear
+802,Black Gram (Urd Beans),Narela,2013-10-22,3500.0,0.3,31.8,clear
+803,Arhar (Tur/Red Gram),Najafgarh,2014-02-01,2500.0,0.7,18.6,clear
+804,Arhar (Tur/Red Gram),Narela,2014-02-01,3791.0,0.7,18.6,clear
+805,Bengal Gram(Gram),Najafgarh,2014-02-01,2851.0,0.5,18.6,clear
+806,Arhar (Tur/Red Gram),Najafgarh,2014-03-01,3760.0,2.8,20.4,clear
+807,Arhar (Tur/Red Gram),Narela,2014-03-01,3799.0,1.8,20.4,clear
+808,Arhar (Tur/Red Gram),Najafgarh,2014-04-01,3900.0,1.0,32.8,clear
+809,Arhar (Tur/Red Gram),Narela,2014-04-01,3776.0,4.4,32.8,clear
+810,Arhar (Tur/Red Gram),Najafgarh,2014-05-01,3800.0,1.0,42.6,clear
+811,Arhar (Tur/Red Gram),Narela,2014-05-01,3952.0,0.5,42.6,clear
+812,Arhar (Tur/Red Gram),Najafgarh,2014-07-01,3951.0,2.4,34.6,clear
+813,Arhar (Tur/Red Gram),Narela,2014-07-01,3991.0,0.9,34.6,clear
+814,Arhar (Tur/Red Gram),Najafgarh,2014-10-01,3800.0,4.2,36.4,clear
+815,Arhar (Tur/Red Gram),Narela,2014-10-01,3821.0,3.3,36.4,clear
+816,Arhar (Tur/Red Gram),Najafgarh,2014-12-01,3951.0,0.3,28.4,clear
+817,Arhar (Tur/Red Gram),Narela,2014-12-01,3791.0,10.2,28.4,clear
+818,Arhar (Tur/Red Gram),Najafgarh,2014-01-13,3941.0,1.1,21.2,clear
+819,Arhar (Tur/Red Gram),Narela,2014-01-13,3992.0,1.5,21.2,clear
+820,Arhar (Tur/Red Gram),Najafgarh,2014-01-16,3700.0,0.5,15.4,clear
+821,Arhar (Tur/Red Gram),Narela,2014-01-16,3952.0,0.7,15.4,clear
+822,Black Gram (Urd Beans),Narela,2014-01-16,2850.0,0.5,15.4,clear
+823,Arhar (Tur/Red Gram),Najafgarh,2014-01-18,3921.0,0.5,15.2,clear
+824,Arhar (Tur/Red Gram),Najafgarh,2014-01-19,3941.0,1.0,20.0,clear
+825,Arhar (Tur/Red Gram),Narela,2014-01-19,4061.0,0.9,20.0,clear
+826,Bengal Gram(Gram),Najafgarh,2014-01-19,2770.0,0.5,20.0,clear
+827,Arhar (Tur/Red Gram),Najafgarh,2014-01-20,3000.0,0.5,21.6,clear
+828,Arhar (Tur/Red Gram),Narela,2014-01-20,3801.0,5.1,21.6,clear
+829,Arhar (Tur/Red Gram),Najafgarh,2014-01-21,3875.0,0.1,14.6,clear
+830,Arhar (Tur/Red Gram),Narela,2014-01-21,3700.0,0.2,14.6,clear
+831,Arhar (Tur/Red Gram),Najafgarh,2014-01-23,3922.0,2.5,19.8,clear
+832,Arhar (Tur/Red Gram),Najafgarh,2014-01-27,3870.0,1.0,23.6,clear
+833,Arhar (Tur/Red Gram),Narela,2014-01-27,3661.0,0.3,23.6,clear
+834,Arhar (Tur/Red Gram),Najafgarh,2014-01-31,3825.0,2.5,21.0,clear
+835,Black Gram (Urd Beans),Narela,2014-01-31,2801.0,0.4,21.0,clear
+836,Arhar (Tur/Red Gram),Najafgarh,2014-02-02,3700.0,0.2,22.8,clear
+837,Arhar (Tur/Red Gram),Narela,2014-02-02,3050.0,1.2,22.8,clear
+838,Bengal Gram(Gram),Najafgarh,2014-02-02,2800.0,0.5,22.8,clear
+839,Arhar (Tur/Red Gram),Najafgarh,2014-02-13,4540.0,0.8,22.4,clear
+840,Arhar (Tur/Red Gram),Narela,2014-02-13,3441.0,1.5,22.4,clear
+841,Arhar (Tur/Red Gram),Najafgarh,2014-02-18,3700.0,1.8,23.0,clear
+842,Arhar (Tur/Red Gram),Najafgarh,2014-02-20,3800.0,0.8,24.0,clear
+843,Arhar (Tur/Red Gram),Najafgarh,2014-02-21,3500.0,0.8,24.4,clear
+844,Arhar (Tur/Red Gram),Najafgarh,2014-02-22,3766.0,1.5,21.2,clear
+845,Arhar (Tur/Red Gram),Narela,2014-02-22,3450.0,0.3,21.2,clear
+846,Arhar (Tur/Red Gram),Najafgarh,2014-02-25,3700.0,0.5,24.6,clear
+847,Arhar (Tur/Red Gram),Najafgarh,2014-02-28,3200.0,0.3,21.0,clear
+848,Arhar (Tur/Red Gram),Najafgarh,2014-02-03,3300.0,0.5,27.0,clear
+849,Bengal Gram(Gram),Najafgarh,2014-02-03,2875.0,0.5,27.0,clear
+850,Arhar (Tur/Red Gram),Najafgarh,2014-03-03,3000.0,0.4,25.2,clear
+851,Arhar (Tur/Red Gram),Narela,2014-03-03,3000.0,0.1,25.2,clear
+852,Arhar (Tur/Red Gram),Najafgarh,2014-11-03,3800.0,0.5,30.6,clear
+853,Arhar (Tur/Red Gram),Najafgarh,2014-03-13,3500.0,0.3,25.6,clear
+854,Arhar (Tur/Red Gram),Narela,2014-03-13,3700.0,5.5,25.6,clear
+855,Arhar (Tur/Red Gram),Najafgarh,2014-03-20,3500.0,0.8,28.0,clear
+856,Arhar (Tur/Red Gram),Narela,2014-03-20,3700.0,0.5,28.0,clear
+857,Arhar (Tur/Red Gram),Najafgarh,2014-03-22,3800.0,0.5,31.6,clear
+858,Arhar (Tur/Red Gram),Narela,2014-03-22,3990.0,6.0,31.6,clear
+859,Black Gram (Urd Beans),Narela,2014-03-22,3800.0,0.3,31.6,clear
+860,Arhar (Tur/Red Gram),Najafgarh,2014-11-04,3700.0,0.2,31.6,clear
+861,Arhar (Tur/Red Gram),Narela,2014-11-04,3785.0,10.2,31.6,clear
+862,Arhar (Tur/Red Gram),Najafgarh,2014-04-14,3800.0,0.5,33.2,clear
+863,Arhar (Tur/Red Gram),Najafgarh,2014-06-28,3400.0,0.3,38.8,clear
+864,Arhar (Tur/Red Gram),Najafgarh,2014-07-19,3753.0,2.2,33.4,clear
+865,Green Gram (Moong),Narela,2014-07-19,5951.0,8.0,33.4,clear
+866,Arhar (Tur/Red Gram),Najafgarh,2014-05-10,3000.0,2.0,37.6,clear
+867,Arhar (Tur/Red Gram),Najafgarh,2014-01-11,3850.0,9.0,18.0,clear
+868,Arhar (Tur/Red Gram),Narela,2014-01-11,4250.0,1.2,18.0,clear
+869,Bengal Gram(Gram),Najafgarh,2014-01-11,3040.0,9.0,18.0,clear
+870,Arhar (Tur/Red Gram),Najafgarh,2014-03-11,2950.0,2.5,25.6,clear
+871,Arhar (Tur/Red Gram),Najafgarh,2014-11-11,4126.0,0.3,28.0,clear
+872,Arhar (Tur/Red Gram),Narela,2014-11-11,4330.0,2.0,28.0,clear
+873,Arhar (Tur/Red Gram),Najafgarh,2014-11-15,4146.0,1.8,27.0,clear
+874,Arhar (Tur/Red Gram),Narela,2014-11-15,4190.0,2.2,27.0,clear
+875,Arhar (Tur/Red Gram),Najafgarh,2014-11-16,4102.0,4.3,26.8,clear
+876,Arhar (Tur/Red Gram),Narela,2014-11-16,4250.0,2.9,26.8,clear
+877,Arhar (Tur/Red Gram),Najafgarh,2014-11-18,4000.0,0.8,27.4,clear
+878,Arhar (Tur/Red Gram),Narela,2014-11-18,4151.0,1.6,27.4,clear
+879,Arhar (Tur/Red Gram),Najafgarh,2014-11-21,3800.0,2.9,26.8,clear
+880,Arhar (Tur/Red Gram),Narela,2014-11-21,3900.0,2.2,26.8,clear
+881,Arhar (Tur/Red Gram),Najafgarh,2014-11-22,3200.0,1.0,26.8,clear
+882,Arhar (Tur/Red Gram),Narela,2014-11-22,4022.0,3.3,26.8,clear
+883,Arhar (Tur/Red Gram),Najafgarh,2014-11-23,3911.0,2.2,27.6,clear
+884,Arhar (Tur/Red Gram),Narela,2014-11-23,4021.0,10.3,27.6,clear
+885,Arhar (Tur/Red Gram),Najafgarh,2014-11-24,3500.0,3.7,25.6,clear
+886,Arhar (Tur/Red Gram),Narela,2014-11-24,4081.0,0.7,25.6,clear
+887,Arhar (Tur/Red Gram),Najafgarh,2014-11-25,3700.0,0.7,26.0,clear
+888,Arhar (Tur/Red Gram),Narela,2014-11-25,3984.0,0.7,26.0,clear
+889,Bengal Gram(Gram),Najafgarh,2014-11-25,3200.0,8.0,26.0,clear
+890,Arhar (Tur/Red Gram),Najafgarh,2014-11-27,3936.0,0.9,28.6,clear
+891,Arhar (Tur/Red Gram),Narela,2014-11-27,4050.0,5.3,28.6,clear
+892,Green Gram (Moong),Narela,2014-11-27,6370.0,0.5,28.6,clear
+893,Arhar (Tur/Red Gram),Najafgarh,2014-11-29,3890.0,2.0,30.0,clear
+894,Arhar (Tur/Red Gram),Narela,2014-11-29,3955.0,4.2,30.0,clear
+895,Bengal Gram(Gram),Najafgarh,2014-11-29,2890.0,1.0,30.0,clear
+896,Arhar (Tur/Red Gram),Najafgarh,2014-11-30,3496.0,7.8,29.6,clear
+897,Arhar (Tur/Red Gram),Narela,2014-11-30,3750.0,2.2,29.6,clear
+898,Arhar (Tur/Red Gram),Najafgarh,2014-01-12,3906.0,5.9,19.6,clear
+899,Green Gram (Moong),Najafgarh,2014-01-12,6000.0,0.1,19.6,clear
+900,Arhar (Tur/Red Gram),Najafgarh,2014-02-12,3650.0,4.5,21.0,clear
+901,Arhar (Tur/Red Gram),Narela,2014-02-12,3800.0,1.5,21.0,clear
+902,Arhar (Tur/Red Gram),Najafgarh,2014-04-12,3865.0,1.7,36.6,clear
+903,Arhar (Tur/Red Gram),Narela,2014-04-12,3961.0,1.5,36.6,clear
+904,Arhar (Tur/Red Gram),Najafgarh,2014-05-12,3388.0,4.4,33.4,clear
+905,Arhar (Tur/Red Gram),Narela,2014-05-12,4000.0,1.0,33.4,clear
+906,Black Gram (Urd Beans),Narela,2014-05-12,4500.0,0.6,33.4,clear
+907,Arhar (Tur/Red Gram),Najafgarh,2014-08-12,4155.0,1.2,35.8,rain
+908,Arhar (Tur/Red Gram),Narela,2014-08-12,4000.0,1.7,35.8,rain
+909,Arhar (Tur/Red Gram),Najafgarh,2014-09-12,3950.0,1.1,33.0,clear
+910,Arhar (Tur/Red Gram),Narela,2014-09-12,4100.0,0.2,33.0,clear
+911,Bengal Gram(Gram),Najafgarh,2014-09-12,2901.0,1.0,33.0,clear
+912,Arhar (Tur/Red Gram),Najafgarh,2014-12-12,4200.0,0.8,31.8,clear
+913,Arhar (Tur/Red Gram),Narela,2014-12-12,4100.0,2.3,31.8,clear
+914,Bengal Gram(Gram),Narela,2014-12-12,2311.0,0.3,31.8,clear
+915,Arhar (Tur/Red Gram),Najafgarh,2014-12-13,4152.0,1.9,18.8,clear
+916,Arhar (Tur/Red Gram),Narela,2014-12-13,1700.0,1.2,18.8,clear
+917,Bengal Gram(Gram),Narela,2014-12-13,2900.0,0.5,18.8,clear
+918,Arhar (Tur/Red Gram),Najafgarh,2014-12-15,4256.0,1.2,37.4,clear
+919,Arhar (Tur/Red Gram),Narela,2014-12-15,1570.0,5.8,37.4,clear
+920,Arhar (Tur/Red Gram),Najafgarh,2014-12-16,3905.0,1.3,28.2,clear
+921,Arhar (Tur/Red Gram),Narela,2014-12-16,3950.0,2.0,28.2,clear
+922,Arhar (Tur/Red Gram),Najafgarh,2014-12-18,4217.0,3.0,17.0,clear
+923,Arhar (Tur/Red Gram),Narela,2014-12-18,4352.0,1.5,17.0,clear
+924,Bengal Gram(Gram),Narela,2014-12-18,2900.0,0.6,17.0,clear
+925,Arhar (Tur/Red Gram),Najafgarh,2014-12-19,4266.0,0.4,16.4,clear
+926,Arhar (Tur/Red Gram),Najafgarh,2014-12-20,4252.0,1.0,16.4,clear
+927,Arhar (Tur/Red Gram),Narela,2014-12-20,4401.0,0.8,16.4,clear
+928,Bengal Gram(Gram),Najafgarh,2014-12-20,3031.0,1.0,16.4,clear
+929,Arhar (Tur/Red Gram),Najafgarh,2014-12-21,4302.0,0.5,14.4,clear
+930,Arhar (Tur/Red Gram),Narela,2014-12-21,4150.0,5.8,14.4,clear
+931,Arhar (Tur/Red Gram),Najafgarh,2014-12-22,4326.0,1.2,14.4,clear
+932,Arhar (Tur/Red Gram),Narela,2014-12-22,4300.0,0.5,14.4,clear
+933,Green Gram (Moong),Narela,2014-12-22,7021.0,0.5,14.4,clear
+934,Arhar (Tur/Red Gram),Najafgarh,2014-12-23,4316.0,3.3,14.4,clear
+935,Arhar (Tur/Red Gram),Narela,2014-12-23,4300.0,0.7,14.4,clear
+936,Arhar (Tur/Red Gram),Najafgarh,2014-12-25,4076.0,1.9,14.8,clear
+937,Arhar (Tur/Red Gram),Narela,2014-12-25,4100.0,0.8,14.8,clear
+938,Arhar (Tur/Red Gram),Najafgarh,2014-12-26,4361.0,2.0,15.6,clear
+939,Bengal Gram(Gram),Narela,2014-12-26,3151.0,2.0,15.6,clear
+940,Arhar (Tur/Red Gram),Najafgarh,2014-12-27,3651.0,0.5,18.8,clear
+941,Arhar (Tur/Red Gram),Narela,2014-12-27,4430.0,0.5,18.8,clear
+942,Arhar (Tur/Red Gram),Narela,2014-06-01,3865.0,0.3,37.4,rain
+943,Arhar (Tur/Red Gram),Narela,2014-11-01,3781.0,6.5,28.6,clear
+944,Arhar (Tur/Red Gram),Narela,2014-01-14,3851.0,2.0,21.6,clear
+945,Arhar (Tur/Red Gram),Narela,2014-01-25,3799.0,1.4,14.0,clear
+946,Arhar (Tur/Red Gram),Narela,2014-01-28,3850.0,9.4,23.4,clear
+947,Arhar (Tur/Red Gram),Narela,2014-01-30,3505.0,1.9,20.2,clear
+948,Arhar (Tur/Red Gram),Narela,2014-01-02,3848.0,0.6,18.0,clear
+949,Arhar (Tur/Red Gram),Narela,2014-03-02,3730.0,3.4,21.0,clear
+950,Arhar (Tur/Red Gram),Narela,2014-04-02,3426.0,0.3,34.0,rain
+951,Arhar (Tur/Red Gram),Narela,2014-06-02,3741.0,1.0,39.0,clear
+952,Arhar (Tur/Red Gram),Narela,2014-07-02,3865.0,0.3,35.0,clear
+953,Arhar (Tur/Red Gram),Narela,2014-09-02,3705.0,6.1,34.0,clear
+954,Arhar (Tur/Red Gram),Narela,2014-10-02,3661.0,6.6,35.8,clear
+955,Bengal Gram(Gram),Najafgarh,2014-10-02,2839.0,0.3,35.8,clear
+956,Arhar (Tur/Red Gram),Narela,2014-11-02,3736.0,1.0,30.4,clear
+957,Arhar (Tur/Red Gram),Narela,2014-02-16,3375.0,0.1,18.8,clear
+958,Bengal Gram(Gram),Najafgarh,2014-02-16,2825.0,0.5,18.8,clear
+959,Arhar (Tur/Red Gram),Narela,2014-02-23,2550.0,0.3,21.2,clear
+960,Arhar (Tur/Red Gram),Narela,2014-02-24,3700.0,0.9,22.6,clear
+961,Bengal Gram(Gram),Najafgarh,2014-02-24,2850.0,0.5,22.6,clear
+962,Arhar (Tur/Red Gram),Narela,2014-04-03,3124.0,2.0,31.4,clear
+963,Arhar (Tur/Red Gram),Narela,2014-07-03,3700.0,4.7,30.8,clear
+964,Arhar (Tur/Red Gram),Narela,2014-08-03,3876.0,0.4,35.6,clear
+965,Arhar (Tur/Red Gram),Narela,2014-09-03,3700.0,4.7,32.6,clear
+966,Arhar (Tur/Red Gram),Narela,2014-03-14,3750.0,5.0,26.6,clear
+967,Arhar (Tur/Red Gram),Narela,2014-03-16,3650.0,0.3,31.2,clear
+968,Bengal Gram(Gram),Najafgarh,2014-03-16,2957.0,0.8,31.2,clear
+969,Black Gram (Urd Beans),Narela,2014-03-16,3550.0,0.3,31.2,clear
+970,Arhar (Tur/Red Gram),Narela,2014-03-24,3752.0,2.7,27.8,rain
+971,Bengal Gram(Gram),Najafgarh,2014-03-24,3300.0,0.3,27.8,rain
+972,Arhar (Tur/Red Gram),Narela,2014-03-25,3450.0,0.2,31.2,clear
+973,Arhar (Tur/Red Gram),Narela,2014-03-27,3725.0,0.2,28.4,clear
+974,Arhar (Tur/Red Gram),Narela,2014-03-28,3650.0,3.4,32.4,rain
+975,Arhar (Tur/Red Gram),Narela,2014-03-29,3750.0,0.4,31.6,clear
+976,Bengal Gram(Gram),Najafgarh,2014-03-29,3101.0,1.2,31.6,clear
+977,Arhar (Tur/Red Gram),Narela,2014-03-30,3500.0,0.2,30.0,clear
+978,Arhar (Tur/Red Gram),Narela,2014-03-04,4001.0,0.5,25.0,clear
+979,Bengal Gram(Gram),Najafgarh,2014-03-04,3111.0,0.5,25.0,clear
+980,Arhar (Tur/Red Gram),Narela,2014-04-04,3952.0,0.5,32.0,clear
+981,Arhar (Tur/Red Gram),Narela,2014-05-04,3971.0,0.7,39.0,clear
+982,Black Gram (Urd Beans),Narela,2014-05-04,3850.0,0.2,39.0,clear
+983,Arhar (Tur/Red Gram),Narela,2014-06-04,3925.0,4.0,42.8,clear
+984,Bengal Gram(Gram),Najafgarh,2014-06-04,3100.0,1.5,42.8,clear
+985,Arhar (Tur/Red Gram),Narela,2014-12-04,3800.0,0.4,34.0,clear
+986,Arhar (Tur/Red Gram),Narela,2014-04-17,3861.0,1.8,30.4,clear
+987,Arhar (Tur/Red Gram),Narela,2014-04-19,3926.0,3.6,32.0,clear
+988,Bengal Gram(Gram),Najafgarh,2014-04-19,2950.0,8.0,32.0,clear
+989,Black Gram (Urd Beans),Narela,2014-04-19,3043.0,1.5,32.0,clear
+990,Arhar (Tur/Red Gram),Narela,2014-04-20,3912.0,0.2,33.6,clear
+991,Arhar (Tur/Red Gram),Narela,2014-04-24,3500.0,0.2,36.8,clear
+992,Bengal Gram(Gram),Najafgarh,2014-04-24,2800.0,2.5,36.8,clear
+993,Black Gram (Urd Beans),Narela,2014-04-24,4000.0,1.1,36.8,clear
+994,Arhar (Tur/Red Gram),Narela,2014-04-29,3500.0,0.3,40.4,clear
+995,Arhar (Tur/Red Gram),Narela,2014-05-05,3300.0,0.1,36.0,clear
+996,Arhar (Tur/Red Gram),Narela,2014-08-05,3700.0,1.0,33.0,clear
+997,Bengal Gram(Gram),Najafgarh,2014-08-05,2920.0,1.0,33.0,clear
+998,Black Gram (Urd Beans),Narela,2014-08-05,3400.0,1.1,33.0,clear
+999,Arhar (Tur/Red Gram),Narela,2014-09-05,3600.0,0.4,30.2,rain
+1000,Black Gram (Urd Beans),Narela,2014-09-05,3000.0,1.0,30.2,rain
+1001,Arhar (Tur/Red Gram),Narela,2014-12-05,3550.0,2.8,27.2,clear
+1002,Arhar (Tur/Red Gram),Narela,2014-05-15,3630.0,2.8,34.4,clear
+1003,Arhar (Tur/Red Gram),Narela,2014-05-16,3500.0,1.6,36.6,clear
+1004,Bengal Gram(Gram),Najafgarh,2014-05-16,3000.0,13.5,36.6,clear
+1005,Arhar (Tur/Red Gram),Narela,2014-05-17,3572.0,2.5,36.2,clear
+1006,Arhar (Tur/Red Gram),Narela,2014-05-18,3625.0,2.1,39.0,clear
+1007,Bengal Gram(Gram),Narela,2014-05-18,2950.0,1.5,39.0,clear
+1008,Arhar (Tur/Red Gram),Narela,2014-05-25,3152.0,0.5,39.0,rain
+1009,Black Gram (Urd Beans),Narela,2014-05-25,3400.0,0.2,39.0,rain
+1010,Arhar (Tur/Red Gram),Narela,2014-05-27,3622.0,4.5,37.6,clear
+1011,Arhar (Tur/Red Gram),Narela,2014-05-30,3425.0,0.3,42.4,clear
+1012,Arhar (Tur/Red Gram),Narela,2014-01-07,3700.0,1.7,19.2,clear
+1013,Arhar (Tur/Red Gram),Narela,2014-07-14,2100.0,0.8,35.8,clear
+1014,Green Gram (Moong),Narela,2014-07-14,4550.0,4.0,35.8,clear
+1015,Arhar (Tur/Red Gram),Narela,2014-07-17,3824.0,5.5,36.4,rain
+1016,Black Gram (Urd Beans),Narela,2014-07-17,1701.0,1.0,36.4,rain
+1017,Green Gram (Moong),Narela,2014-07-17,6565.0,12.0,36.4,rain
+1018,Arhar (Tur/Red Gram),Narela,2014-07-22,3765.0,4.5,35.2,clear
+1019,Green Gram (Moong),Narela,2014-07-22,6401.0,3.0,35.2,clear
+1020,Arhar (Tur/Red Gram),Narela,2014-07-25,3300.0,1.1,33.4,clear
+1021,Green Gram (Moong),Narela,2014-07-25,6231.0,5.0,33.4,clear
+1022,Arhar (Tur/Red Gram),Narela,2014-07-27,3400.0,0.2,37.0,clear
+1023,Green Gram (Moong),Narela,2014-07-27,6600.0,10.0,37.0,clear
+1024,Arhar (Tur/Red Gram),Narela,2014-11-08,3800.0,8.0,30.4,clear
+1025,Green Gram (Moong),Narela,2014-11-08,6200.0,1.0,30.4,clear
+1026,Arhar (Tur/Red Gram),Narela,2014-09-19,3600.0,0.2,36.0,clear
+1027,Bengal Gram(Gram),Najafgarh,2014-09-19,2865.0,0.4,36.0,clear
+1028,Green Gram (Moong),Narela,2014-09-19,5750.0,4.0,36.0,clear
+1029,Arhar (Tur/Red Gram),Narela,2014-09-25,3700.0,2.0,35.0,clear
+1030,Black Gram (Urd Beans),Narela,2014-09-25,3400.0,0.2,35.0,clear
+1031,Green Gram (Moong),Narela,2014-09-25,4057.0,2.0,35.0,clear
+1032,Arhar (Tur/Red Gram),Narela,2014-10-10,3841.0,3.0,33.8,clear
+1033,Arhar (Tur/Red Gram),Narela,2014-10-17,3500.0,0.2,30.4,clear
+1034,Arhar (Tur/Red Gram),Narela,2014-10-19,4161.0,9.0,31.4,clear
+1035,Arhar (Tur/Red Gram),Narela,2014-10-21,4100.0,9.5,33.0,clear
+1036,Arhar (Tur/Red Gram),Narela,2014-10-23,3931.0,3.5,32.4,clear
+1037,Arhar (Tur/Red Gram),Narela,2014-10-25,4000.0,5.2,31.6,clear
+1038,Arhar (Tur/Red Gram),Narela,2014-06-11,4326.0,1.0,43.0,clear
+1039,Arhar (Tur/Red Gram),Narela,2014-08-11,4600.0,0.4,35.8,clear
+1040,Arhar (Tur/Red Gram),Narela,2014-09-11,4373.0,2.0,28.0,clear
+1041,Arhar (Tur/Red Gram),Narela,2014-10-11,4350.0,1.3,33.0,clear
+1042,Arhar (Tur/Red Gram),Narela,2014-11-17,4195.0,6.8,26.8,clear
+1043,Arhar (Tur/Red Gram),Narela,2014-11-20,4172.0,4.0,27.8,clear
+1044,Arhar (Tur/Red Gram),Narela,2014-11-28,4000.0,5.6,28.2,clear
+1045,Bengal Gram(Gram),Najafgarh,2014-11-28,3540.0,8.0,28.2,clear
+1046,Arhar (Tur/Red Gram),Narela,2014-06-12,4051.0,2.0,40.0,rain
+1047,Arhar (Tur/Red Gram),Narela,2014-11-12,4091.0,4.0,26.6,clear
+1048,Arhar (Tur/Red Gram),Narela,2014-12-14,4400.0,4.0,35.0,rain
+1049,Arhar (Tur/Red Gram),Narela,2014-12-29,4051.0,0.7,20.6,clear
+1050,Bengal Gram(Gram),Narela,2014-12-29,3350.0,1.0,20.6,clear
+1051,Bengal Gram(Gram),Najafgarh,2014-02-15,2825.0,0.5,17.2,clear
+1052,Black Gram (Urd Beans),Narela,2014-02-15,4000.0,2.5,17.2,clear
+1053,Bengal Gram(Gram),Najafgarh,2014-04-13,2900.0,1.0,32.4,rain
+1054,Black Gram (Urd Beans),Narela,2014-04-13,2919.0,2.1,32.4,rain
+1055,Bengal Gram(Gram),Najafgarh,2014-04-15,2975.0,5.0,36.2,clear
+1056,Bengal Gram(Gram),Najafgarh,2014-04-18,3031.0,8.0,28.8,clear
+1057,Bengal Gram(Gram),Najafgarh,2014-04-22,2901.0,0.5,36.0,clear
+1058,Bengal Gram(Gram),Najafgarh,2014-01-05,2920.0,1.0,18.6,clear
+1059,Black Gram (Urd Beans),Narela,2014-01-05,3025.0,1.5,18.6,clear
+1060,Bengal Gram(Gram),Najafgarh,2014-05-19,3200.0,3.0,37.8,clear
+1061,Bengal Gram(Gram),Najafgarh,2014-05-20,2820.0,3.0,38.8,clear
+1062,Black Gram (Urd Beans),Narela,2014-05-20,3170.0,2.0,38.8,clear
+1063,Bengal Gram(Gram),Najafgarh,2014-05-26,2850.0,1.0,36.0,clear
+1064,Bengal Gram(Gram),Najafgarh,2014-05-06,2700.0,1.5,34.2,clear
+1065,Bengal Gram(Gram),Najafgarh,2014-06-15,2600.0,1.2,40.2,clear
+1066,Bengal Gram(Gram),Najafgarh,2014-06-16,2575.0,2.0,40.4,clear
+1067,Bengal Gram(Gram),Najafgarh,2014-06-23,2530.0,1.0,38.0,clear
+1068,Bengal Gram(Gram),Najafgarh,2014-06-24,2600.0,1.0,38.8,clear
+1069,Bengal Gram(Gram),Najafgarh,2014-09-28,2800.0,1.5,35.4,clear
+1070,Bengal Gram(Gram),Najafgarh,2014-09-10,2810.0,1.0,34.0,clear
+1071,Bengal Gram(Gram),Najafgarh,2014-10-20,2781.0,1.0,31.6,clear
+1072,Bengal Gram(Gram),Najafgarh,2014-10-27,2801.0,8.5,32.2,clear
+1073,Bengal Gram(Gram),Najafgarh,2014-02-11,2970.0,9.0,21.2,clear
+1074,Bengal Gram(Gram),Najafgarh,2014-11-14,2931.0,1.2,27.0,clear
+1075,Bengal Gram(Gram),Najafgarh,2014-12-30,3452.0,1.0,19.2,clear
+1076,Bengal Gram(Gram),Narela,2014-06-20,2735.0,1.5,42.8,clear
+1077,Black Gram (Urd Beans),Narela,2014-08-04,2921.0,0.8,34.6,clear
+1078,Black Gram (Urd Beans),Narela,2014-04-21,3000.0,1.5,35.4,clear
+1079,Black Gram (Urd Beans),Narela,2014-04-25,3000.0,1.2,38.0,clear
+1080,Black Gram (Urd Beans),Narela,2014-06-05,2901.0,0.3,43.6,clear
+1081,Black Gram (Urd Beans),Narela,2014-08-06,2751.0,1.5,34.6,clear
+1082,Black Gram (Urd Beans),Narela,2014-09-16,2715.0,1.0,34.6,clear
+1083,Green Gram (Moong),Narela,2014-09-16,4400.0,16.0,34.6,clear
+1084,Black Gram (Urd Beans),Narela,2014-07-10,2800.0,0.3,41.0,clear
+1085,Green Gram (Moong),Narela,2014-07-10,4500.0,0.2,41.0,clear
+1086,Green Gram (Moong),Narela,2014-07-18,6599.0,5.0,28.8,clear
+1087,Green Gram (Moong),Narela,2014-07-24,6400.0,4.0,33.6,clear
+1088,Green Gram (Moong),Narela,2014-07-26,6531.0,2.0,36.4,clear
+1089,Green Gram (Moong),Narela,2014-07-28,6001.0,20.0,33.4,rain
+1090,Green Gram (Moong),Narela,2014-07-29,5965.0,20.0,34.0,clear
+1091,Green Gram (Moong),Narela,2014-07-31,6000.0,7.0,36.0,clear
+1092,Green Gram (Moong),Narela,2014-04-08,4215.0,11.0,31.8,clear
+1093,Green Gram (Moong),Narela,2014-05-08,6400.0,2.0,38.6,clear
+1094,Green Gram (Moong),Narela,2014-08-08,6400.0,1.0,33.8,clear
+1095,Green Gram (Moong),Narela,2014-12-08,5891.0,19.0,35.0,clear
+1096,Green Gram (Moong),Narela,2014-08-14,6300.0,1.0,34.4,clear
+1097,Green Gram (Moong),Narela,2014-09-14,5300.0,9.0,33.6,clear
+1098,Green Gram (Moong),Narela,2014-09-15,5000.0,1.0,34.4,clear
+1099,Green Gram (Moong),Narela,2014-09-18,3200.0,3.0,35.2,clear
+1100,Green Gram (Moong),Narela,2014-09-20,5901.0,2.0,36.0,clear
+1101,Green Gram (Moong),Narela,2014-09-23,5250.0,3.0,34.6,clear
+1102,Green Gram (Moong),Narela,2014-09-27,5500.0,0.1,35.0,clear
+1103,Green Gram (Moong),Narela,2014-09-29,6000.0,0.3,35.6,clear
+1104,Green Gram (Moong),Narela,2014-10-24,5200.0,0.1,32.6,clear
+1105,Green Gram (Moong),Narela,2014-10-31,3300.0,0.3,30.0,clear
+1106,Arhar (Tur/Red Gram),Najafgarh,2015-02-01,4506.0,0.5,23.6,clear
+1107,Arhar (Tur/Red Gram),Najafgarh,2015-03-01,3986.0,2.2,19.4,clear
+1108,Arhar (Tur/Red Gram),Najafgarh,2015-04-01,4668.0,1.5,32.6,clear
+1109,Arhar (Tur/Red Gram),Narela,2015-04-01,4781.0,0.3,32.6,clear
+1110,Arhar (Tur/Red Gram),Najafgarh,2015-05-01,4625.0,0.8,36.8,clear
+1111,Arhar (Tur/Red Gram),Narela,2015-05-01,4825.0,1.5,36.8,clear
+1112,Arhar (Tur/Red Gram),Najafgarh,2015-06-01,4787.0,1.9,34.2,rain
+1113,Arhar (Tur/Red Gram),Narela,2015-06-01,4660.0,0.2,34.2,rain
+1114,Arhar (Tur/Red Gram),Najafgarh,2015-08-01,4671.0,2.1,32.2,clear
+1115,Arhar (Tur/Red Gram),Narela,2015-08-01,4700.0,7.2,32.2,clear
+1116,Arhar (Tur/Red Gram),Najafgarh,2015-09-01,4800.0,0.6,36.4,clear
+1117,Arhar (Tur/Red Gram),Narela,2015-09-01,4461.0,0.2,36.4,clear
+1118,Arhar (Tur/Red Gram),Najafgarh,2015-11-01,4840.0,0.7,30.4,clear
+1119,Arhar (Tur/Red Gram),Narela,2015-11-01,4761.0,5.4,30.4,clear
+1120,Arhar (Tur/Red Gram),Najafgarh,2015-01-13,4800.0,0.4,18.0,clear
+1121,Arhar (Tur/Red Gram),Najafgarh,2015-01-17,4691.0,0.8,20.4,clear
+1122,Arhar (Tur/Red Gram),Narela,2015-01-17,4550.0,0.2,20.4,clear
+1123,Arhar (Tur/Red Gram),Najafgarh,2015-01-18,4673.0,1.6,21.4,clear
+1124,Arhar (Tur/Red Gram),Narela,2015-01-18,4380.0,0.1,21.4,clear
+1125,Bengal Gram(Gram),Najafgarh,2015-01-18,3381.0,1.0,21.4,clear
+1126,Bengal Gram(Gram),Narela,2015-01-18,2960.0,0.8,21.4,clear
+1127,Arhar (Tur/Red Gram),Najafgarh,2015-01-30,4700.0,1.0,19.0,clear
+1128,Black Gram (Urd Beans),Narela,2015-01-30,3476.0,0.4,19.0,clear
+1129,Arhar (Tur/Red Gram),Najafgarh,2015-10-02,4815.0,1.0,34.8,clear
+1130,Arhar (Tur/Red Gram),Najafgarh,2015-02-15,4650.0,0.5,26.4,clear
+1131,Arhar (Tur/Red Gram),Narela,2015-02-15,4400.0,0.1,26.4,clear
+1132,Bengal Gram(Gram),Najafgarh,2015-02-15,3220.0,1.5,26.4,clear
+1133,Arhar (Tur/Red Gram),Najafgarh,2015-02-21,4980.0,2.2,28.2,clear
+1134,Arhar (Tur/Red Gram),Narela,2015-02-21,4650.0,0.2,28.2,clear
+1135,Arhar (Tur/Red Gram),Najafgarh,2015-03-03,4000.0,0.2,20.6,clear
+1136,Arhar (Tur/Red Gram),Najafgarh,2015-05-03,3300.0,6.6,37.8,clear
+1137,Arhar (Tur/Red Gram),Najafgarh,2015-07-03,4650.0,0.5,39.0,clear
+1138,Arhar (Tur/Red Gram),Narela,2015-07-03,4100.0,1.1,39.0,clear
+1139,Arhar (Tur/Red Gram),Najafgarh,2015-09-03,3400.0,0.8,36.0,clear
+1140,Arhar (Tur/Red Gram),Najafgarh,2015-03-19,4852.0,1.0,27.8,clear
+1141,Arhar (Tur/Red Gram),Narela,2015-03-19,4700.0,1.0,27.8,clear
+1142,Arhar (Tur/Red Gram),Najafgarh,2015-11-04,4700.0,0.6,31.4,clear
+1143,Arhar (Tur/Red Gram),Najafgarh,2015-05-15,4200.0,0.4,35.2,rain
+1144,Arhar (Tur/Red Gram),Narela,2015-05-15,5801.0,0.2,35.2,rain
+1145,Arhar (Tur/Red Gram),Najafgarh,2015-05-29,4500.0,0.1,41.2,clear
+1146,Arhar (Tur/Red Gram),Najafgarh,2015-05-30,4000.0,0.8,42.4,clear
+1147,Arhar (Tur/Red Gram),Najafgarh,2015-09-07,5000.0,1.0,36.8,clear
+1148,Arhar (Tur/Red Gram),Najafgarh,2015-02-11,7050.0,3.1,23.4,clear
+1149,Arhar (Tur/Red Gram),Najafgarh,2015-03-11,6580.0,6.8,25.4,clear
+1150,Arhar (Tur/Red Gram),Narela,2015-03-11,6872.0,8.4,25.4,clear
+1151,Arhar (Tur/Red Gram),Najafgarh,2015-05-11,6492.0,2.5,39.4,rain
+1152,Arhar (Tur/Red Gram),Narela,2015-05-11,7000.0,0.2,39.4,rain
+1153,Arhar (Tur/Red Gram),Najafgarh,2015-06-11,6100.0,3.0,40.4,clear
+1154,Arhar (Tur/Red Gram),Narela,2015-06-11,6500.0,0.9,40.4,clear
+1155,Arhar (Tur/Red Gram),Najafgarh,2015-07-11,6600.0,4.3,26.4,rain
+1156,Arhar (Tur/Red Gram),Narela,2015-07-11,6751.0,0.6,26.4,rain
+1157,Green Gram (Moong),Narela,2015-07-11,7701.0,1.5,26.4,rain
+1158,Arhar (Tur/Red Gram),Najafgarh,2015-08-11,6800.0,1.0,32.0,clear
+1159,Arhar (Tur/Red Gram),Narela,2015-08-11,6700.0,1.2,32.0,clear
+1160,Arhar (Tur/Red Gram),Najafgarh,2015-09-11,6725.0,2.0,35.6,clear
+1161,Arhar (Tur/Red Gram),Narela,2015-09-11,6901.0,0.9,35.6,clear
+1162,Arhar (Tur/Red Gram),Najafgarh,2015-10-11,6438.0,10.7,36.0,clear
+1163,Arhar (Tur/Red Gram),Narela,2015-10-11,5700.0,2.9,36.0,clear
+1164,Arhar (Tur/Red Gram),Najafgarh,2015-12-11,5901.0,0.8,22.0,clear
+1165,Arhar (Tur/Red Gram),Narela,2015-12-11,6876.0,0.5,22.0,clear
+1166,Arhar (Tur/Red Gram),Najafgarh,2015-11-13,6875.0,3.7,28.8,clear
+1167,Arhar (Tur/Red Gram),Narela,2015-11-13,6665.0,0.3,28.8,clear
+1168,Arhar (Tur/Red Gram),Najafgarh,2015-11-14,6912.0,4.5,29.4,clear
+1169,Arhar (Tur/Red Gram),Narela,2015-11-14,6790.0,2.8,29.4,clear
+1170,Arhar (Tur/Red Gram),Najafgarh,2015-11-15,6673.0,12.8,31.2,clear
+1171,Arhar (Tur/Red Gram),Narela,2015-11-15,6800.0,2.2,31.2,clear
+1172,Arhar (Tur/Red Gram),Najafgarh,2015-11-16,7141.0,0.8,29.0,clear
+1173,Arhar (Tur/Red Gram),Narela,2015-11-16,7000.0,8.9,29.0,clear
+1174,Green Gram (Moong),Narela,2015-11-16,5000.0,0.7,29.0,clear
+1175,Arhar (Tur/Red Gram),Najafgarh,2015-11-17,6750.0,6.7,28.4,clear
+1176,Arhar (Tur/Red Gram),Narela,2015-11-17,6272.0,4.3,28.4,clear
+1177,Arhar (Tur/Red Gram),Najafgarh,2015-11-19,7240.0,10.4,27.2,clear
+1178,Arhar (Tur/Red Gram),Narela,2015-11-19,7200.0,12.1,27.2,clear
+1179,Arhar (Tur/Red Gram),Najafgarh,2015-11-20,7105.0,4.3,27.4,clear
+1180,Arhar (Tur/Red Gram),Narela,2015-11-20,7321.0,3.1,27.4,clear
+1181,Arhar (Tur/Red Gram),Najafgarh,2015-11-21,7446.0,4.3,28.0,clear
+1182,Arhar (Tur/Red Gram),Narela,2015-11-21,7591.0,8.8,28.0,clear
+1183,Arhar (Tur/Red Gram),Najafgarh,2015-11-22,7270.0,5.6,29.0,clear
+1184,Arhar (Tur/Red Gram),Narela,2015-11-22,8204.0,12.8,29.0,clear
+1185,Green Gram (Moong),Narela,2015-11-22,6600.0,2.0,29.0,clear
+1186,Arhar (Tur/Red Gram),Najafgarh,2015-11-23,7040.0,2.4,29.0,clear
+1187,Arhar (Tur/Red Gram),Narela,2015-11-23,8290.0,5.0,29.0,clear
+1188,Arhar (Tur/Red Gram),Najafgarh,2015-11-24,6861.0,3.0,27.2,clear
+1189,Arhar (Tur/Red Gram),Narela,2015-11-24,7652.0,11.8,27.2,clear
+1190,Arhar (Tur/Red Gram),Najafgarh,2015-11-26,6770.0,2.3,29.0,clear
+1191,Arhar (Tur/Red Gram),Narela,2015-11-26,7440.0,10.7,29.0,clear
+1192,Arhar (Tur/Red Gram),Najafgarh,2015-11-27,6850.0,3.5,22.6,clear
+1193,Arhar (Tur/Red Gram),Narela,2015-11-27,7500.0,3.1,22.6,clear
+1194,Green Gram (Moong),Narela,2015-11-27,6100.0,0.1,22.6,clear
+1195,Arhar (Tur/Red Gram),Najafgarh,2015-11-28,7630.0,3.7,24.2,clear
+1196,Arhar (Tur/Red Gram),Narela,2015-11-28,8302.0,10.6,24.2,clear
+1197,Arhar (Tur/Red Gram),Najafgarh,2015-11-29,6950.0,0.9,24.2,clear
+1198,Arhar (Tur/Red Gram),Narela,2015-11-29,8500.0,18.0,24.2,clear
+1199,Green Gram (Moong),Narela,2015-11-29,4000.0,0.4,24.2,clear
+1200,Arhar (Tur/Red Gram),Najafgarh,2015-11-30,7918.0,8.1,27.2,clear
+1201,Arhar (Tur/Red Gram),Narela,2015-11-30,8400.0,3.7,27.2,clear
+1202,Green Gram (Moong),Narela,2015-11-30,7100.0,0.1,27.2,clear
+1203,Arhar (Tur/Red Gram),Najafgarh,2015-01-12,7933.0,8.0,15.6,clear
+1204,Arhar (Tur/Red Gram),Narela,2015-01-12,8471.0,17.7,15.6,clear
+1205,Arhar (Tur/Red Gram),Najafgarh,2015-03-12,8000.0,6.4,28.0,clear
+1206,Arhar (Tur/Red Gram),Narela,2015-03-12,8500.0,23.2,28.0,clear
+1207,Bengal Gram(Gram),Najafgarh,2015-03-12,4841.0,0.5,28.0,clear
+1208,Arhar (Tur/Red Gram),Najafgarh,2015-04-12,8006.0,3.0,27.6,clear
+1209,Arhar (Tur/Red Gram),Narela,2015-04-12,8671.0,14.9,27.6,clear
+1210,Green Gram (Moong),Narela,2015-04-12,6100.0,0.1,27.6,clear
+1211,Arhar (Tur/Red Gram),Najafgarh,2015-05-12,7950.0,3.8,38.6,clear
+1212,Arhar (Tur/Red Gram),Narela,2015-05-12,8101.0,29.3,38.6,clear
+1213,Arhar (Tur/Red Gram),Najafgarh,2015-06-12,8025.0,6.3,41.0,clear
+1214,Arhar (Tur/Red Gram),Narela,2015-06-12,7981.0,4.8,41.0,clear
+1215,Arhar (Tur/Red Gram),Najafgarh,2015-07-12,7787.0,7.8,26.2,clear
+1216,Arhar (Tur/Red Gram),Narela,2015-07-12,7900.0,3.5,26.2,clear
+1217,Arhar (Tur/Red Gram),Najafgarh,2015-08-12,7722.0,8.6,34.6,clear
+1218,Arhar (Tur/Red Gram),Narela,2015-08-12,7600.0,17.6,34.6,clear
+1219,Green Gram (Moong),Narela,2015-08-12,5700.0,4.4,34.6,clear
+1220,Arhar (Tur/Red Gram),Najafgarh,2015-10-12,7100.0,7.9,34.8,clear
+1221,Arhar (Tur/Red Gram),Narela,2015-10-12,7680.0,19.5,34.8,clear
+1222,Arhar (Tur/Red Gram),Najafgarh,2015-11-12,7050.0,3.2,28.8,clear
+1223,Arhar (Tur/Red Gram),Narela,2015-11-12,6500.0,4.7,28.8,clear
+1224,Arhar (Tur/Red Gram),Najafgarh,2015-12-12,7500.0,2.9,15.2,clear
+1225,Arhar (Tur/Red Gram),Narela,2015-12-12,7700.0,4.1,15.2,clear
+1226,Arhar (Tur/Red Gram),Najafgarh,2015-12-13,7410.0,6.5,20.2,clear
+1227,Arhar (Tur/Red Gram),Narela,2015-12-13,7000.0,7.4,20.2,clear
+1228,Arhar (Tur/Red Gram),Najafgarh,2015-12-14,6925.0,3.9,21.0,clear
+1229,Arhar (Tur/Red Gram),Narela,2015-12-14,7800.0,5.3,21.0,clear
+1230,Arhar (Tur/Red Gram),Najafgarh,2015-12-15,7730.0,4.3,22.0,clear
+1231,Arhar (Tur/Red Gram),Narela,2015-12-15,6901.0,2.8,22.0,clear
+1232,Arhar (Tur/Red Gram),Najafgarh,2015-12-18,7525.0,3.6,21.0,clear
+1233,Arhar (Tur/Red Gram),Narela,2015-12-18,7401.0,3.4,21.0,clear
+1234,Arhar (Tur/Red Gram),Najafgarh,2015-12-19,7640.0,4.5,20.8,clear
+1235,Arhar (Tur/Red Gram),Narela,2015-12-19,7300.0,1.6,20.8,clear
+1236,Arhar (Tur/Red Gram),Najafgarh,2015-12-20,7545.0,4.4,20.4,clear
+1237,Arhar (Tur/Red Gram),Narela,2015-12-20,7400.0,2.9,20.4,clear
+1238,Arhar (Tur/Red Gram),Najafgarh,2015-12-21,7485.0,7.8,20.6,clear
+1239,Arhar (Tur/Red Gram),Narela,2015-12-21,7100.0,0.9,20.6,clear
+1240,Arhar (Tur/Red Gram),Najafgarh,2015-12-22,7025.0,3.0,20.2,clear
+1241,Arhar (Tur/Red Gram),Narela,2015-12-22,7500.0,1.0,20.2,clear
+1242,Bengal Gram(Gram),Najafgarh,2015-12-22,4641.0,0.6,20.2,clear
+1243,Arhar (Tur/Red Gram),Najafgarh,2015-12-24,7250.0,1.3,19.0,clear
+1244,Arhar (Tur/Red Gram),Narela,2015-12-24,7200.0,5.9,19.0,clear
+1245,Arhar (Tur/Red Gram),Najafgarh,2015-12-26,7000.0,0.4,21.2,clear
+1246,Arhar (Tur/Red Gram),Narela,2015-12-26,7100.0,3.0,21.2,clear
+1247,Arhar (Tur/Red Gram),Najafgarh,2015-12-27,7145.0,0.9,22.4,clear
+1248,Arhar (Tur/Red Gram),Narela,2015-12-27,5000.0,0.5,22.4,clear
+1249,Arhar (Tur/Red Gram),Najafgarh,2015-12-28,6600.0,0.3,24.2,clear
+1250,Arhar (Tur/Red Gram),Narela,2015-12-28,7100.0,5.8,24.2,clear
+1251,Arhar (Tur/Red Gram),Najafgarh,2015-12-29,7075.0,2.0,23.6,clear
+1252,Arhar (Tur/Red Gram),Narela,2015-12-29,7251.0,0.8,23.6,clear
+1253,Green Gram (Moong),Narela,2015-12-29,6100.0,0.5,23.6,clear
+1254,Arhar (Tur/Red Gram),Narela,2015-01-01,4621.0,0.7,20.6,clear
+1255,Bengal Gram(Gram),Narela,2015-01-01,3325.0,1.0,20.6,clear
+1256,Green Gram (Moong),Narela,2015-01-01,7498.0,0.3,20.6,clear
+1257,Arhar (Tur/Red Gram),Narela,2015-10-01,4711.0,3.0,35.2,clear
+1258,Arhar (Tur/Red Gram),Narela,2015-12-01,4800.0,0.5,26.0,clear
+1259,Arhar (Tur/Red Gram),Narela,2015-01-19,4450.0,0.1,20.4,clear
+1260,Arhar (Tur/Red Gram),Narela,2015-01-20,4700.0,1.8,17.8,clear
+1261,Arhar (Tur/Red Gram),Narela,2015-01-24,4500.0,0.4,16.4,clear
+1262,Arhar (Tur/Red Gram),Narela,2015-01-27,4450.0,1.0,18.0,clear
+1263,Arhar (Tur/Red Gram),Narela,2015-01-29,4601.0,1.6,18.4,clear
+1264,Arhar (Tur/Red Gram),Narela,2015-01-02,4400.0,0.3,15.6,rain
+1265,Arhar (Tur/Red Gram),Narela,2015-03-02,4242.0,0.6,21.6,rain
+1266,Bengal Gram(Gram),Najafgarh,2015-03-02,3300.0,1.0,21.6,rain
+1267,Arhar (Tur/Red Gram),Narela,2015-06-02,4450.0,0.6,39.2,rain
+1268,Arhar (Tur/Red Gram),Narela,2015-08-02,4200.0,0.4,33.4,clear
+1269,Arhar (Tur/Red Gram),Narela,2015-09-02,4621.0,1.1,36.0,clear
+1270,Green Gram (Moong),Narela,2015-09-02,5400.0,0.4,36.0,clear
+1271,Arhar (Tur/Red Gram),Narela,2015-12-02,4801.0,1.5,24.6,clear
+1272,Arhar (Tur/Red Gram),Narela,2015-02-13,4050.0,0.2,25.2,clear
+1273,Bengal Gram(Gram),Narela,2015-02-13,2990.0,0.2,25.2,clear
+1274,Arhar (Tur/Red Gram),Narela,2015-02-16,4400.0,0.2,26.0,clear
+1275,Arhar (Tur/Red Gram),Narela,2015-02-19,4900.0,0.4,28.8,clear
+1276,Arhar (Tur/Red Gram),Narela,2015-02-22,4900.0,1.0,27.8,clear
+1277,Arhar (Tur/Red Gram),Narela,2015-02-23,4812.0,0.2,28.0,clear
+1278,Arhar (Tur/Red Gram),Narela,2015-02-26,4050.0,0.1,26.4,clear
+1279,Arhar (Tur/Red Gram),Narela,2015-02-27,4350.0,0.9,25.8,clear
+1280,Bengal Gram(Gram),Najafgarh,2015-02-27,3225.0,1.5,25.8,clear
+1281,Arhar (Tur/Red Gram),Narela,2015-02-28,4400.0,0.4,28.8,clear
+1282,Arhar (Tur/Red Gram),Narela,2015-02-03,1800.0,1.5,22.4,clear
+1283,Arhar (Tur/Red Gram),Narela,2015-12-03,4651.0,2.7,24.2,clear
+1284,Arhar (Tur/Red Gram),Narela,2015-03-16,4700.0,0.2,26.0,clear
+1285,Bengal Gram(Gram),Najafgarh,2015-03-16,3500.0,1.0,26.0,clear
+1286,Arhar (Tur/Red Gram),Narela,2015-03-17,4400.0,0.2,26.6,clear
+1287,Arhar (Tur/Red Gram),Narela,2015-03-22,4700.0,0.3,31.6,clear
+1288,Bengal Gram(Gram),Narela,2015-03-22,3200.0,1.5,31.6,clear
+1289,Arhar (Tur/Red Gram),Narela,2015-03-24,4951.0,3.0,34.6,clear
+1290,Bengal Gram(Gram),Narela,2015-03-24,3800.0,0.8,34.6,clear
+1291,Arhar (Tur/Red Gram),Narela,2015-03-26,5001.0,0.6,36.2,rain
+1292,Bengal Gram(Gram),Najafgarh,2015-03-26,3322.0,1.0,36.2,rain
+1293,Arhar (Tur/Red Gram),Narela,2015-03-27,4701.0,0.2,35.0,clear
+1294,Arhar (Tur/Red Gram),Narela,2015-02-04,5000.0,6.3,19.6,clear
+1295,Bengal Gram(Gram),Narela,2015-02-04,3061.0,0.7,19.6,clear
+1296,Arhar (Tur/Red Gram),Narela,2015-05-04,5051.0,0.1,39.2,clear
+1297,Bengal Gram(Gram),Najafgarh,2015-05-04,3400.0,1.0,39.2,clear
+1298,Green Gram (Moong),Narela,2015-05-04,7602.0,0.4,39.2,clear
+1299,Arhar (Tur/Red Gram),Narela,2015-06-04,5515.0,0.7,37.8,clear
+1300,Arhar (Tur/Red Gram),Narela,2015-04-25,5641.0,0.5,36.6,clear
+1301,Arhar (Tur/Red Gram),Narela,2015-01-05,5727.0,3.2,20.6,clear
+1302,Arhar (Tur/Red Gram),Narela,2015-02-05,4790.0,0.2,21.8,clear
+1303,Arhar (Tur/Red Gram),Narela,2015-10-05,3515.0,1.5,36.2,clear
+1304,Bengal Gram(Gram),Najafgarh,2015-10-05,4251.0,2.2,36.2,clear
+1305,Arhar (Tur/Red Gram),Narela,2015-11-05,6000.0,0.2,26.4,clear
+1306,Black Gram (Urd Beans),Narela,2015-11-05,3200.0,0.7,26.4,clear
+1307,Arhar (Tur/Red Gram),Narela,2015-05-18,6201.0,2.2,42.4,clear
+1308,Bengal Gram(Gram),Najafgarh,2015-05-18,4020.0,1.4,42.4,clear
+1309,Arhar (Tur/Red Gram),Narela,2015-05-19,6300.0,0.6,41.0,clear
+1310,Bengal Gram(Gram),Najafgarh,2015-05-19,4461.0,1.0,41.0,clear
+1311,Arhar (Tur/Red Gram),Narela,2015-05-21,1182.0,2.5,42.2,clear
+1312,Arhar (Tur/Red Gram),Narela,2015-05-22,6341.0,0.1,43.0,clear
+1313,Arhar (Tur/Red Gram),Narela,2015-05-24,6400.0,2.6,43.2,clear
+1314,Arhar (Tur/Red Gram),Narela,2015-05-26,6100.0,0.5,44.2,clear
+1315,Arhar (Tur/Red Gram),Narela,2015-05-28,5960.0,3.5,41.0,clear
+1316,Arhar (Tur/Red Gram),Narela,2015-07-06,6276.0,5.2,33.8,rain
+1317,Bengal Gram(Gram),Najafgarh,2015-07-06,4361.0,1.0,33.8,rain
+1318,Arhar (Tur/Red Gram),Narela,2015-08-06,6000.0,0.8,33.2,clear
+1319,Arhar (Tur/Red Gram),Narela,2015-12-06,4700.0,0.3,25.8,clear
+1320,Bengal Gram(Gram),Najafgarh,2015-12-06,4500.0,0.3,25.8,clear
+1321,Arhar (Tur/Red Gram),Narela,2015-06-13,5281.0,0.1,39.2,rain
+1322,Arhar (Tur/Red Gram),Narela,2015-06-19,6100.0,0.3,41.6,clear
+1323,Green Gram (Moong),Najafgarh,2015-06-19,6301.0,0.6,41.6,clear
+1324,Arhar (Tur/Red Gram),Narela,2015-06-21,1451.0,8.5,34.0,clear
+1325,Bengal Gram(Gram),Najafgarh,2015-06-21,4211.0,1.2,34.0,clear
+1326,Arhar (Tur/Red Gram),Narela,2015-06-23,4980.0,1.8,39.4,clear
+1327,Bengal Gram(Gram),Najafgarh,2015-06-23,4000.0,0.2,39.4,clear
+1328,Arhar (Tur/Red Gram),Narela,2015-07-14,5462.0,0.7,35.2,clear
+1329,Bengal Gram(Gram),Narela,2015-07-14,4450.0,0.5,35.2,clear
+1330,Green Gram (Moong),Narela,2015-07-14,4500.0,0.8,35.2,clear
+1331,Arhar (Tur/Red Gram),Narela,2015-06-08,1600.0,0.2,42.4,clear
+1332,Arhar (Tur/Red Gram),Narela,2015-08-14,5000.0,1.2,33.0,clear
+1333,Green Gram (Moong),Narela,2015-08-14,5100.0,0.5,33.0,clear
+1334,Arhar (Tur/Red Gram),Narela,2015-08-17,4125.0,0.4,34.6,clear
+1335,Arhar (Tur/Red Gram),Narela,2015-08-18,4125.0,0.0,34.4,rain
+1336,Arhar (Tur/Red Gram),Narela,2015-08-25,7136.0,0.4,35.4,clear
+1337,Bengal Gram(Gram),Najafgarh,2015-08-25,4430.0,0.5,35.4,clear
+1338,Bengal Gram(Gram),Narela,2015-08-25,3402.0,1.2,35.4,clear
+1339,Arhar (Tur/Red Gram),Narela,2015-11-09,3100.0,3.8,29.4,clear
+1340,Arhar (Tur/Red Gram),Narela,2015-09-14,5800.0,0.3,37.4,clear
+1341,Arhar (Tur/Red Gram),Narela,2015-09-17,4401.0,4.5,35.4,clear
+1342,Arhar (Tur/Red Gram),Narela,2015-01-10,6000.0,0.3,17.0,clear
+1343,Bengal Gram(Gram),Najafgarh,2015-01-10,4521.0,0.5,17.0,clear
+1344,Arhar (Tur/Red Gram),Narela,2015-03-10,3500.0,0.1,23.6,clear
+1345,Arhar (Tur/Red Gram),Narela,2015-08-10,4000.0,0.8,34.4,clear
+1346,Arhar (Tur/Red Gram),Narela,2015-10-15,5000.0,0.1,34.4,clear
+1347,Arhar (Tur/Red Gram),Narela,2015-10-26,8500.0,0.4,32.6,clear
+1348,Arhar (Tur/Red Gram),Narela,2015-10-29,6000.0,8.7,28.8,clear
+1349,Arhar (Tur/Red Gram),Narela,2015-10-31,6000.0,0.6,29.4,clear
+1350,Arhar (Tur/Red Gram),Narela,2015-01-11,7751.0,0.2,15.4,clear
+1351,Arhar (Tur/Red Gram),Narela,2015-12-17,6900.0,4.8,21.0,clear
+1352,Arhar (Tur/Red Gram),Narela,2015-12-25,6700.0,3.2,19.0,clear
+1353,Arhar (Tur/Red Gram),Narela,2015-12-31,6500.0,0.7,24.8,clear
+1354,Bengal Gram(Gram),Najafgarh,2015-01-31,3000.0,1.5,21.0,clear
+1355,Bengal Gram(Gram),Najafgarh,2015-03-13,3500.0,0.6,28.2,clear
+1356,Bengal Gram(Gram),Najafgarh,2015-04-19,3720.0,1.2,39.8,clear
+1357,Bengal Gram(Gram),Najafgarh,2015-04-20,3400.0,15.0,39.6,clear
+1358,Bengal Gram(Gram),Narela,2015-04-20,3636.0,1.6,39.6,clear
+1359,Bengal Gram(Gram),Najafgarh,2015-04-26,3811.0,1.0,34.0,clear
+1360,Bengal Gram(Gram),Najafgarh,2015-04-27,3500.0,2.0,36.4,clear
+1361,Bengal Gram(Gram),Najafgarh,2015-04-30,3500.0,3.0,39.0,clear
+1362,Bengal Gram(Gram),Najafgarh,2015-03-05,4071.0,1.0,26.2,clear
+1363,Bengal Gram(Gram),Najafgarh,2015-06-14,3850.0,1.5,31.6,clear
+1364,Bengal Gram(Gram),Najafgarh,2015-06-18,4431.0,1.8,40.0,clear
+1365,Bengal Gram(Gram),Najafgarh,2015-06-26,4000.0,1.6,36.2,clear
+1366,Green Gram (Moong),Narela,2015-06-26,6050.0,0.2,36.2,clear
+1367,Bengal Gram(Gram),Najafgarh,2015-05-07,4450.0,2.0,42.4,clear
+1368,Bengal Gram(Gram),Najafgarh,2015-07-30,4300.0,1.0,31.0,clear
+1369,Green Gram (Moong),Narela,2015-07-30,5000.0,0.2,31.0,clear
+1370,Bengal Gram(Gram),Najafgarh,2015-08-16,5000.0,0.4,32.6,clear
+1371,Green Gram (Moong),Najafgarh,2015-08-16,4000.0,0.1,32.6,clear
+1372,Green Gram (Moong),Narela,2015-08-16,6200.0,0.2,32.6,clear
+1373,Bengal Gram(Gram),Najafgarh,2015-06-09,4685.0,0.8,42.2,clear
+1374,Bengal Gram(Gram),Najafgarh,2015-11-10,4851.0,0.5,28.6,clear
+1375,Green Gram (Moong),Narela,2015-11-10,7000.0,0.2,28.6,clear
+1376,Bengal Gram(Gram),Narela,2015-02-14,3000.0,0.5,27.8,clear
+1377,Bengal Gram(Gram),Narela,2015-03-23,3341.0,0.5,32.4,clear
+1378,Bengal Gram(Gram),Narela,2015-04-14,4000.0,4.4,31.8,clear
+1379,Bengal Gram(Gram),Narela,2015-05-16,3800.0,5.7,35.4,clear
+1380,Bengal Gram(Gram),Narela,2015-04-06,4421.0,0.7,31.0,clear
+1381,Bengal Gram(Gram),Narela,2015-05-06,4421.0,0.7,42.4,clear
+1382,Bengal Gram(Gram),Narela,2015-07-21,3900.0,0.5,35.2,clear
+1383,Green Gram (Moong),Najafgarh,2015-07-21,5751.0,1.0,35.2,clear
+1384,Bengal Gram(Gram),Narela,2015-04-08,4300.0,0.2,31.6,clear
+1385,Bengal Gram(Gram),Narela,2015-08-23,4279.0,7.5,34.0,rain
+1386,Green Gram (Moong),Najafgarh,2015-02-07,5061.0,2.5,24.8,clear
+1387,Green Gram (Moong),Narela,2015-02-07,4800.0,1.1,24.8,clear
+1388,Green Gram (Moong),Najafgarh,2015-04-07,5000.0,0.4,29.2,clear
+1389,Green Gram (Moong),Najafgarh,2015-01-08,3000.0,0.3,14.0,clear
+1390,Green Gram (Moong),Narela,2015-01-08,4200.0,0.3,14.0,clear
+1391,Green Gram (Moong),Najafgarh,2015-09-08,4000.0,0.5,36.4,clear
+1392,Green Gram (Moong),Najafgarh,2015-08-21,4250.0,1.4,32.8,rain
+1393,Green Gram (Moong),Najafgarh,2015-03-09,3200.0,0.7,23.6,clear
+1394,Green Gram (Moong),Narela,2015-10-04,6000.0,0.1,36.6,clear
+1395,Green Gram (Moong),Narela,2015-06-16,6805.0,0.4,38.6,clear
+1396,Green Gram (Moong),Narela,2015-06-27,5750.0,0.2,37.4,clear
+1397,Green Gram (Moong),Narela,2015-06-29,6050.0,2.0,34.6,clear
+1398,Green Gram (Moong),Narela,2015-07-16,6302.0,0.5,36.2,clear
+1399,Green Gram (Moong),Narela,2015-07-25,4400.0,2.7,36.0,clear
+1400,Green Gram (Moong),Narela,2015-07-27,2800.0,1.2,34.4,clear
+1401,Green Gram (Moong),Narela,2015-07-28,5625.0,0.7,32.8,clear
+1402,Green Gram (Moong),Narela,2015-03-08,5600.0,0.5,24.6,rain
+1403,Green Gram (Moong),Narela,2015-07-08,4300.0,1.1,35.2,clear
+1404,Green Gram (Moong),Narela,2015-08-08,4150.0,0.2,30.6,clear
+1405,Green Gram (Moong),Narela,2015-08-13,5400.0,0.4,35.0,clear
+1406,Green Gram (Moong),Narela,2015-08-28,5600.0,0.1,36.4,clear
+1407,Green Gram (Moong),Narela,2015-10-09,5100.0,1.8,35.8,clear
+1408,Green Gram (Moong),Narela,2015-09-15,6000.0,0.1,37.8,clear
+1409,Green Gram (Moong),Narela,2015-09-18,5000.0,0.1,35.0,clear
+1410,Green Gram (Moong),Narela,2015-09-26,6800.0,1.0,34.8,clear
+1411,Green Gram (Moong),Narela,2015-09-29,4700.0,0.1,33.6,clear
+1412,Green Gram (Moong),Narela,2015-06-10,5850.0,0.7,41.0,clear
+1413,Arhar (Tur/Red Gram),Najafgarh,2016-01-01,7210.0,1.0,23.4,clear
+1414,Arhar (Tur/Red Gram),Narela,2016-01-01,7000.0,15.9,23.4,clear
+1415,Arhar (Tur/Red Gram),Najafgarh,2016-02-01,6800.0,0.2,22.4,clear
+1416,Arhar (Tur/Red Gram),Narela,2016-02-01,6900.0,0.4,22.4,clear
+1417,Arhar (Tur/Red Gram),Najafgarh,2016-03-01,7081.0,1.0,30.4,clear
+1418,Arhar (Tur/Red Gram),Narela,2016-03-01,7400.0,1.9,30.4,clear
+1419,Arhar (Tur/Red Gram),Najafgarh,2016-04-01,7300.0,0.2,36.8,clear
+1420,Arhar (Tur/Red Gram),Narela,2016-04-01,7561.0,3.1,36.8,clear
+1421,Arhar (Tur/Red Gram),Najafgarh,2016-08-01,7651.0,1.3,32.6,clear
+1422,Arhar (Tur/Red Gram),Najafgarh,2016-09-01,7731.0,2.3,30.8,clear
+1423,Arhar (Tur/Red Gram),Narela,2016-09-01,7200.0,0.9,30.8,clear
+1424,Arhar (Tur/Red Gram),Najafgarh,2016-12-01,7835.0,1.2,25.0,clear
+1425,Arhar (Tur/Red Gram),Narela,2016-12-01,7680.0,0.4,25.0,clear
+1426,Arhar (Tur/Red Gram),Najafgarh,2016-01-14,7600.0,1.4,18.2,clear
+1427,Arhar (Tur/Red Gram),Narela,2016-01-14,7700.0,0.7,18.2,clear
+1428,Arhar (Tur/Red Gram),Najafgarh,2016-01-15,7500.0,2.3,15.0,clear
+1429,Arhar (Tur/Red Gram),Narela,2016-01-15,1631.0,16.0,15.0,clear
+1430,Bengal Gram(Gram),Najafgarh,2016-01-15,4821.0,0.5,15.0,clear
+1431,Arhar (Tur/Red Gram),Najafgarh,2016-01-16,7400.0,0.5,16.6,clear
+1432,Arhar (Tur/Red Gram),Narela,2016-01-16,7550.0,0.2,16.6,clear
+1433,Arhar (Tur/Red Gram),Najafgarh,2016-01-17,7485.0,2.3,18.6,clear
+1434,Arhar (Tur/Red Gram),Narela,2016-01-17,7200.0,0.2,18.6,clear
+1435,Green Gram (Moong),Narela,2016-01-17,6900.0,0.2,18.6,clear
+1436,Arhar (Tur/Red Gram),Najafgarh,2016-01-19,7701.0,1.5,15.2,clear
+1437,Arhar (Tur/Red Gram),Najafgarh,2016-01-21,7575.0,0.9,16.6,clear
+1438,Arhar (Tur/Red Gram),Narela,2016-01-21,7000.0,0.6,16.6,clear
+1439,Bengal Gram(Gram),Najafgarh,2016-01-21,4950.0,1.5,16.6,clear
+1440,Arhar (Tur/Red Gram),Najafgarh,2016-01-22,7460.0,2.6,16.8,clear
+1441,Arhar (Tur/Red Gram),Narela,2016-01-22,7041.0,1.5,16.8,clear
+1442,Arhar (Tur/Red Gram),Najafgarh,2016-01-23,7190.0,2.9,22.0,clear
+1443,Arhar (Tur/Red Gram),Narela,2016-01-23,7100.0,0.3,22.0,clear
+1444,Arhar (Tur/Red Gram),Najafgarh,2016-01-24,7425.0,3.1,16.0,clear
+1445,Arhar (Tur/Red Gram),Najafgarh,2016-01-02,7132.0,1.2,21.8,clear
+1446,Bengal Gram(Gram),Najafgarh,2016-01-02,4830.0,1.9,21.8,clear
+1447,Arhar (Tur/Red Gram),Najafgarh,2016-02-02,6350.0,0.9,20.8,clear
+1448,Arhar (Tur/Red Gram),Narela,2016-02-02,4000.0,1.2,20.8,clear
+1449,Green Gram (Moong),Narela,2016-02-02,5000.0,0.7,20.8,clear
+1450,Arhar (Tur/Red Gram),Najafgarh,2016-04-02,6600.0,1.0,38.8,clear
+1451,Arhar (Tur/Red Gram),Narela,2016-04-02,5500.0,2.1,38.8,clear
+1452,Green Gram (Moong),Najafgarh,2016-04-02,6500.0,1.2,38.8,clear
+1453,Arhar (Tur/Red Gram),Najafgarh,2016-02-13,6650.0,0.2,21.4,clear
+1454,Arhar (Tur/Red Gram),Najafgarh,2016-02-23,6550.0,0.2,28.8,clear
+1455,Bengal Gram(Gram),Najafgarh,2016-02-23,4367.0,1.0,28.8,clear
+1456,Arhar (Tur/Red Gram),Najafgarh,2016-02-25,6501.0,0.4,29.8,clear
+1457,Arhar (Tur/Red Gram),Najafgarh,2016-02-26,6500.0,0.3,29.0,clear
+1458,Arhar (Tur/Red Gram),Narela,2016-02-26,6200.0,0.2,29.0,clear
+1459,Arhar (Tur/Red Gram),Najafgarh,2016-02-29,6108.0,1.5,29.6,clear
+1460,Arhar (Tur/Red Gram),Narela,2016-02-29,6150.0,0.5,29.6,clear
+1461,Arhar (Tur/Red Gram),Najafgarh,2016-01-03,6683.0,0.5,22.4,clear
+1462,Arhar (Tur/Red Gram),Najafgarh,2016-03-03,7043.0,0.4,33.4,clear
+1463,Arhar (Tur/Red Gram),Najafgarh,2016-07-03,6911.0,0.5,31.4,clear
+1464,Arhar (Tur/Red Gram),Najafgarh,2016-08-03,6850.0,0.7,35.6,clear
+1465,Arhar (Tur/Red Gram),Narela,2016-08-03,7000.0,0.4,35.6,clear
+1466,Arhar (Tur/Red Gram),Najafgarh,2016-11-03,6425.0,1.5,31.6,clear
+1467,Arhar (Tur/Red Gram),Narela,2016-11-03,6651.0,2.0,31.6,clear
+1468,Arhar (Tur/Red Gram),Najafgarh,2016-12-03,6200.0,0.3,26.0,clear
+1469,Arhar (Tur/Red Gram),Najafgarh,2016-03-15,6940.0,1.8,29.2,clear
+1470,Arhar (Tur/Red Gram),Najafgarh,2016-03-21,6947.0,0.7,31.0,clear
+1471,Arhar (Tur/Red Gram),Narela,2016-03-21,6500.0,0.2,31.0,clear
+1472,Arhar (Tur/Red Gram),Najafgarh,2016-03-26,6900.0,0.5,27.2,clear
+1473,Green Gram (Moong),Narela,2016-03-26,5600.0,0.3,27.2,clear
+1474,Arhar (Tur/Red Gram),Najafgarh,2016-03-27,6860.0,3.0,31.4,clear
+1475,Arhar (Tur/Red Gram),Narela,2016-03-27,7251.0,0.1,31.4,clear
+1476,Arhar (Tur/Red Gram),Najafgarh,2016-03-29,7221.0,1.0,31.8,clear
+1477,Arhar (Tur/Red Gram),Najafgarh,2016-02-04,7400.0,0.6,22.8,clear
+1478,Arhar (Tur/Red Gram),Narela,2016-02-04,7401.0,3.7,22.8,clear
+1479,Arhar (Tur/Red Gram),Najafgarh,2016-03-04,6850.0,0.7,33.6,clear
+1480,Arhar (Tur/Red Gram),Narela,2016-03-04,7200.0,3.2,33.6,clear
+1481,Arhar (Tur/Red Gram),Najafgarh,2016-04-04,7000.0,0.5,38.0,clear
+1482,Arhar (Tur/Red Gram),Narela,2016-04-04,7500.0,0.4,38.0,clear
+1483,Arhar (Tur/Red Gram),Najafgarh,2016-07-04,7581.0,0.4,34.2,clear
+1484,Arhar (Tur/Red Gram),Narela,2016-07-04,7926.0,1.0,34.2,clear
+1485,Arhar (Tur/Red Gram),Najafgarh,2016-04-19,7850.0,0.3,39.6,clear
+1486,Arhar (Tur/Red Gram),Najafgarh,2016-04-21,7700.0,0.2,38.4,clear
+1487,Arhar (Tur/Red Gram),Najafgarh,2016-04-23,8800.0,2.7,36.2,clear
+1488,Arhar (Tur/Red Gram),Narela,2016-04-23,8290.0,0.7,36.2,clear
+1489,Arhar (Tur/Red Gram),Najafgarh,2016-04-24,8525.0,2.0,37.0,clear
+1490,Arhar (Tur/Red Gram),Najafgarh,2016-04-25,8000.0,0.3,38.6,clear
+1491,Arhar (Tur/Red Gram),Najafgarh,2016-04-28,8452.0,1.0,40.0,clear
+1492,Arhar (Tur/Red Gram),Narela,2016-04-28,7500.0,1.8,40.0,clear
+1493,Arhar (Tur/Red Gram),Najafgarh,2016-04-29,8400.0,0.8,39.6,clear
+1494,Arhar (Tur/Red Gram),Narela,2016-04-29,8200.0,0.3,39.6,clear
+1495,Bengal Gram(Gram),Najafgarh,2016-04-29,5800.0,0.6,39.6,clear
+1496,Arhar (Tur/Red Gram),Najafgarh,2016-01-05,8075.0,2.5,22.6,clear
+1497,Arhar (Tur/Red Gram),Narela,2016-01-05,8450.0,0.4,22.6,clear
+1498,Bengal Gram(Gram),Najafgarh,2016-01-05,5975.0,2.0,22.6,clear
+1499,Arhar (Tur/Red Gram),Najafgarh,2016-03-05,7400.0,0.5,29.4,rain
+1500,Arhar (Tur/Red Gram),Najafgarh,2016-05-05,6000.0,1.2,34.4,clear
+1501,Arhar (Tur/Red Gram),Najafgarh,2016-07-05,7800.0,1.0,36.2,clear
+1502,Arhar (Tur/Red Gram),Narela,2016-07-05,8000.0,4.0,36.2,clear
+1503,Bengal Gram(Gram),Narela,2016-07-05,5500.0,2.5,36.2,clear
+1504,Arhar (Tur/Red Gram),Najafgarh,2016-09-05,7311.0,0.3,34.0,clear
+1505,Arhar (Tur/Red Gram),Narela,2016-09-05,8211.0,0.5,34.0,clear
+1506,Arhar (Tur/Red Gram),Najafgarh,2016-10-05,7743.0,0.7,30.8,clear
+1507,Arhar (Tur/Red Gram),Najafgarh,2016-05-17,7800.0,0.3,42.6,clear
+1508,Arhar (Tur/Red Gram),Najafgarh,2016-05-19,7450.0,0.9,42.0,clear
+1509,Arhar (Tur/Red Gram),Narela,2016-05-19,8190.0,2.1,42.0,clear
+1510,Arhar (Tur/Red Gram),Najafgarh,2016-05-26,7700.0,0.8,38.4,clear
+1511,Arhar (Tur/Red Gram),Najafgarh,2016-05-27,6500.0,0.5,40.8,clear
+1512,Arhar (Tur/Red Gram),Narela,2016-05-27,4200.0,3.2,40.8,clear
+1513,Arhar (Tur/Red Gram),Najafgarh,2016-05-29,7000.0,0.3,35.6,rain
+1514,Arhar (Tur/Red Gram),Narela,2016-05-29,7000.0,3.5,35.6,rain
+1515,Arhar (Tur/Red Gram),Najafgarh,2016-03-06,6600.0,0.7,27.8,clear
+1516,Arhar (Tur/Red Gram),Narela,2016-03-06,7606.0,0.8,27.8,clear
+1517,Arhar (Tur/Red Gram),Najafgarh,2016-06-16,7700.0,0.4,37.0,clear
+1518,Arhar (Tur/Red Gram),Najafgarh,2016-06-18,7700.0,0.6,39.4,clear
+1519,Arhar (Tur/Red Gram),Narela,2016-06-18,6300.0,0.3,39.4,clear
+1520,Green Gram (Moong),Narela,2016-06-18,3510.0,1.5,39.4,clear
+1521,Arhar (Tur/Red Gram),Najafgarh,2016-06-24,6500.0,0.3,39.6,clear
+1522,Green Gram (Moong),Narela,2016-06-24,4671.0,5.0,39.6,clear
+1523,Arhar (Tur/Red Gram),Najafgarh,2016-07-14,7200.0,0.3,35.0,rain
+1524,Arhar (Tur/Red Gram),Narela,2016-07-14,7200.0,0.3,35.0,rain
+1525,Arhar (Tur/Red Gram),Najafgarh,2016-07-21,7681.0,0.3,37.2,clear
+1526,Bengal Gram(Gram),Najafgarh,2016-07-21,7700.0,0.5,37.2,clear
+1527,Green Gram (Moong),Narela,2016-07-21,4300.0,1.5,37.2,clear
+1528,Arhar (Tur/Red Gram),Najafgarh,2016-05-08,5050.0,0.2,39.2,clear
+1529,Arhar (Tur/Red Gram),Najafgarh,2016-08-25,5000.0,0.4,35.0,clear
+1530,Arhar (Tur/Red Gram),Najafgarh,2016-08-09,4640.0,1.0,33.8,clear
+1531,Green Gram (Moong),Najafgarh,2016-08-09,1600.0,0.2,33.8,clear
+1532,Arhar (Tur/Red Gram),Najafgarh,2016-09-19,5200.0,0.3,36.4,clear
+1533,Arhar (Tur/Red Gram),Najafgarh,2016-10-15,4601.0,0.5,31.0,clear
+1534,Arhar (Tur/Red Gram),Najafgarh,2016-05-11,3700.0,0.4,38.0,clear
+1535,Arhar (Tur/Red Gram),Najafgarh,2016-06-11,3700.0,0.7,38.0,clear
+1536,Arhar (Tur/Red Gram),Najafgarh,2016-11-19,4601.0,0.8,28.2,clear
+1537,Arhar (Tur/Red Gram),Narela,2016-11-19,4000.0,1.7,28.2,clear
+1538,Arhar (Tur/Red Gram),Najafgarh,2016-11-20,4450.0,2.5,28.8,clear
+1539,Arhar (Tur/Red Gram),Narela,2016-11-20,4000.0,0.6,28.8,clear
+1540,Arhar (Tur/Red Gram),Najafgarh,2016-11-21,4356.0,1.5,30.4,clear
+1541,Arhar (Tur/Red Gram),Narela,2016-11-21,4400.0,1.5,30.4,clear
+1542,Arhar (Tur/Red Gram),Najafgarh,2016-11-24,4700.0,0.6,28.2,clear
+1543,Arhar (Tur/Red Gram),Narela,2016-11-24,4790.0,0.8,28.2,clear
+1544,Arhar (Tur/Red Gram),Najafgarh,2016-11-26,4650.0,1.3,30.4,clear
+1545,Arhar (Tur/Red Gram),Najafgarh,2016-11-28,5000.0,0.2,28.6,clear
+1546,Arhar (Tur/Red Gram),Narela,2016-11-28,4000.0,0.3,28.6,clear
+1547,Arhar (Tur/Red Gram),Najafgarh,2016-11-29,4200.0,0.4,28.2,clear
+1548,Arhar (Tur/Red Gram),Najafgarh,2016-02-12,4400.0,0.8,25.6,clear
+1549,Arhar (Tur/Red Gram),Najafgarh,2016-04-12,4300.0,2.1,34.6,clear
+1550,Arhar (Tur/Red Gram),Narela,2016-04-12,4250.0,1.9,34.6,clear
+1551,Arhar (Tur/Red Gram),Najafgarh,2016-05-12,4250.0,0.5,40.0,clear
+1552,Arhar (Tur/Red Gram),Narela,2016-05-12,4100.0,0.9,40.0,clear
+1553,Arhar (Tur/Red Gram),Najafgarh,2016-09-12,3925.0,1.8,34.0,clear
+1554,Arhar (Tur/Red Gram),Narela,2016-09-12,3740.0,0.9,34.0,clear
+1555,Arhar (Tur/Red Gram),Najafgarh,2016-10-12,3775.0,3.2,34.4,clear
+1556,Arhar (Tur/Red Gram),Narela,2016-10-12,3985.0,2.7,34.4,clear
+1557,Arhar (Tur/Red Gram),Najafgarh,2016-11-12,4050.0,2.2,29.8,clear
+1558,Arhar (Tur/Red Gram),Narela,2016-11-12,3900.0,0.6,29.8,clear
+1559,Arhar (Tur/Red Gram),Najafgarh,2016-12-13,4000.0,3.5,26.4,clear
+1560,Arhar (Tur/Red Gram),Narela,2016-12-13,4041.0,2.6,26.4,clear
+1561,Arhar (Tur/Red Gram),Najafgarh,2016-12-15,3200.0,1.8,23.8,clear
+1562,Arhar (Tur/Red Gram),Narela,2016-12-15,3700.0,5.3,23.8,clear
+1563,Arhar (Tur/Red Gram),Najafgarh,2016-12-16,3120.0,0.3,24.0,clear
+1564,Arhar (Tur/Red Gram),Narela,2016-12-16,3885.0,1.4,24.0,clear
+1565,Arhar (Tur/Red Gram),Najafgarh,2016-12-17,4131.0,4.5,19.4,clear
+1566,Arhar (Tur/Red Gram),Narela,2016-12-17,3922.0,1.5,19.4,clear
+1567,Arhar (Tur/Red Gram),Najafgarh,2016-12-18,3850.0,3.5,22.0,clear
+1568,Arhar (Tur/Red Gram),Narela,2016-12-18,3204.0,2.4,22.0,clear
+1569,Arhar (Tur/Red Gram),Najafgarh,2016-12-20,3900.0,0.9,21.4,clear
+1570,Arhar (Tur/Red Gram),Narela,2016-12-20,3750.0,2.0,21.4,clear
+1571,Arhar (Tur/Red Gram),Najafgarh,2016-12-22,4100.0,0.5,24.2,clear
+1572,Arhar (Tur/Red Gram),Narela,2016-12-22,3800.0,2.1,24.2,clear
+1573,Arhar (Tur/Red Gram),Najafgarh,2016-12-23,3800.0,1.8,24.4,clear
+1574,Arhar (Tur/Red Gram),Narela,2016-12-23,3750.0,1.1,24.4,clear
+1575,Arhar (Tur/Red Gram),Najafgarh,2016-12-24,3600.0,3.0,24.0,clear
+1576,Arhar (Tur/Red Gram),Narela,2016-12-24,3831.0,1.7,24.0,clear
+1577,Arhar (Tur/Red Gram),Najafgarh,2016-12-25,3725.0,1.1,15.4,clear
+1578,Arhar (Tur/Red Gram),Narela,2016-12-25,3765.0,2.0,15.4,clear
+1579,Arhar (Tur/Red Gram),Najafgarh,2016-12-26,3539.0,3.9,22.6,clear
+1580,Arhar (Tur/Red Gram),Narela,2016-12-26,3600.0,1.4,22.6,clear
+1581,Arhar (Tur/Red Gram),Najafgarh,2016-12-27,3450.0,4.8,22.8,clear
+1582,Arhar (Tur/Red Gram),Narela,2016-12-27,3855.0,1.9,22.8,clear
+1583,Arhar (Tur/Red Gram),Najafgarh,2016-12-30,3750.0,1.8,18.4,clear
+1584,Arhar (Tur/Red Gram),Narela,2016-12-30,4038.0,1.8,18.4,clear
+1585,Arhar (Tur/Red Gram),Narela,2016-05-01,7500.0,3.1,41.6,clear
+1586,Arhar (Tur/Red Gram),Narela,2016-07-01,7700.0,7.4,36.4,rain
+1587,Arhar (Tur/Red Gram),Narela,2016-01-18,7400.0,2.2,18.6,clear
+1588,Arhar (Tur/Red Gram),Narela,2016-01-25,7000.0,0.1,17.2,clear
+1589,Arhar (Tur/Red Gram),Narela,2016-01-28,7000.0,0.6,23.0,clear
+1590,Arhar (Tur/Red Gram),Narela,2016-01-29,6600.0,2.4,25.4,clear
+1591,Arhar (Tur/Red Gram),Narela,2016-01-31,6750.0,0.1,19.8,clear
+1592,Arhar (Tur/Red Gram),Narela,2016-05-02,6300.0,0.9,43.4,clear
+1593,Arhar (Tur/Red Gram),Narela,2016-06-02,6730.0,0.6,42.0,clear
+1594,Arhar (Tur/Red Gram),Narela,2016-09-02,6700.0,5.8,33.4,clear
+1595,Arhar (Tur/Red Gram),Narela,2016-02-14,6700.0,1.5,23.8,clear
+1596,Arhar (Tur/Red Gram),Narela,2016-02-15,6771.0,0.7,22.8,clear
+1597,Arhar (Tur/Red Gram),Narela,2016-02-19,3000.0,1.0,28.8,clear
+1598,Arhar (Tur/Red Gram),Narela,2016-02-27,5500.0,0.2,29.6,clear
+1599,Arhar (Tur/Red Gram),Narela,2016-02-28,7100.0,0.5,29.6,clear
+1600,Arhar (Tur/Red Gram),Narela,2016-04-03,6815.0,0.4,38.8,clear
+1601,Arhar (Tur/Red Gram),Narela,2016-05-03,6811.0,0.2,39.0,clear
+1602,Arhar (Tur/Red Gram),Narela,2016-10-03,7206.0,3.1,35.4,clear
+1603,Arhar (Tur/Red Gram),Narela,2016-03-19,7051.0,2.0,32.0,rain
+1604,Arhar (Tur/Red Gram),Narela,2016-03-20,6801.0,2.9,32.2,clear
+1605,Arhar (Tur/Red Gram),Narela,2016-03-25,7225.0,0.6,35.6,clear
+1606,Bengal Gram(Gram),Najafgarh,2016-03-25,4515.0,0.8,35.6,clear
+1607,Arhar (Tur/Red Gram),Narela,2016-03-31,6900.0,1.0,35.0,clear
+1608,Arhar (Tur/Red Gram),Narela,2016-01-04,7253.0,2.0,23.0,clear
+1609,Arhar (Tur/Red Gram),Narela,2016-09-04,7700.0,0.4,33.8,clear
+1610,Arhar (Tur/Red Gram),Narela,2016-11-04,7500.0,0.9,31.0,clear
+1611,Bengal Gram(Gram),Narela,2016-11-04,4526.0,3.5,31.0,clear
+1612,Arhar (Tur/Red Gram),Narela,2016-04-14,8000.0,0.6,38.6,clear
+1613,Arhar (Tur/Red Gram),Narela,2016-04-15,8810.0,0.4,39.4,clear
+1614,Arhar (Tur/Red Gram),Narela,2016-04-16,8000.0,6.0,41.6,clear
+1615,Bengal Gram(Gram),Najafgarh,2016-04-16,6150.0,5.0,41.6,clear
+1616,Arhar (Tur/Red Gram),Narela,2016-04-22,8400.0,0.4,39.4,clear
+1617,Arhar (Tur/Red Gram),Narela,2016-04-30,7501.0,0.7,39.4,clear
+1618,Bengal Gram(Gram),Narela,2016-04-30,5085.0,5.0,39.4,clear
+1619,Arhar (Tur/Red Gram),Narela,2016-08-05,7700.0,0.6,36.6,rain
+1620,Arhar (Tur/Red Gram),Narela,2016-05-13,7400.0,0.7,41.0,clear
+1621,Arhar (Tur/Red Gram),Narela,2016-05-15,8647.0,0.6,42.4,clear
+1622,Bengal Gram(Gram),Najafgarh,2016-05-15,5700.0,0.5,42.4,clear
+1623,Arhar (Tur/Red Gram),Narela,2016-05-16,8350.0,1.0,42.8,clear
+1624,Arhar (Tur/Red Gram),Narela,2016-05-22,8031.0,1.6,42.2,clear
+1625,Arhar (Tur/Red Gram),Narela,2016-05-31,7051.0,0.0,37.4,clear
+1626,Arhar (Tur/Red Gram),Narela,2016-06-06,6400.0,0.7,38.4,clear
+1627,Bengal Gram(Gram),Narela,2016-06-06,5000.0,0.3,38.4,clear
+1628,Arhar (Tur/Red Gram),Narela,2016-07-06,8200.0,0.3,35.0,clear
+1629,Arhar (Tur/Red Gram),Narela,2016-06-21,5000.0,1.1,37.2,clear
+1630,Green Gram (Moong),Narela,2016-06-21,3400.0,1.2,37.2,clear
+1631,Arhar (Tur/Red Gram),Narela,2016-06-25,7000.0,3.5,39.4,clear
+1632,Arhar (Tur/Red Gram),Narela,2016-06-26,7031.0,0.4,39.0,clear
+1633,Green Gram (Moong),Narela,2016-06-26,4900.0,1.3,39.0,clear
+1634,Arhar (Tur/Red Gram),Narela,2016-06-27,7000.0,2.3,38.0,clear
+1635,Green Gram (Moong),Narela,2016-06-27,5525.0,0.9,38.0,clear
+1636,Arhar (Tur/Red Gram),Narela,2016-06-30,7200.0,0.5,39.8,rain
+1637,Green Gram (Moong),Najafgarh,2016-06-30,5076.0,2.0,39.8,rain
+1638,Green Gram (Moong),Narela,2016-06-30,4858.0,1.9,39.8,rain
+1639,Arhar (Tur/Red Gram),Narela,2016-10-07,6000.0,4.2,34.4,clear
+1640,Bengal Gram(Gram),Najafgarh,2016-10-07,8251.0,0.5,34.4,clear
+1641,Green Gram (Moong),Narela,2016-10-07,5000.0,0.1,34.4,clear
+1642,Arhar (Tur/Red Gram),Narela,2016-11-07,7005.0,1.2,29.0,clear
+1643,Arhar (Tur/Red Gram),Narela,2016-12-07,5000.0,0.6,23.2,clear
+1644,Bengal Gram(Gram),Narela,2016-12-07,6000.0,1.3,23.2,clear
+1645,Arhar (Tur/Red Gram),Narela,2016-07-15,6300.0,0.3,32.4,clear
+1646,Arhar (Tur/Red Gram),Narela,2016-02-08,6100.0,0.2,23.2,clear
+1647,Bengal Gram(Gram),Narela,2016-02-08,3000.0,0.8,23.2,clear
+1648,Arhar (Tur/Red Gram),Narela,2016-04-08,5501.0,0.3,34.4,clear
+1649,Arhar (Tur/Red Gram),Narela,2016-06-08,5900.0,0.7,40.6,clear
+1650,Bengal Gram(Gram),Narela,2016-06-08,6300.0,0.2,40.6,clear
+1651,Arhar (Tur/Red Gram),Narela,2016-08-19,4450.0,1.0,34.0,clear
+1652,Arhar (Tur/Red Gram),Narela,2016-08-27,4201.0,1.5,35.4,clear
+1653,Arhar (Tur/Red Gram),Narela,2016-09-29,5825.0,0.5,34.4,clear
+1654,Bengal Gram(Gram),Narela,2016-09-29,9800.0,0.3,34.4,clear
+1655,Arhar (Tur/Red Gram),Narela,2016-03-10,3800.0,0.1,30.6,clear
+1656,Arhar (Tur/Red Gram),Narela,2016-08-10,5600.0,1.0,35.0,clear
+1657,Arhar (Tur/Red Gram),Narela,2016-10-13,3500.0,0.1,35.0,clear
+1658,Bengal Gram(Gram),Najafgarh,2016-10-13,8500.0,0.5,35.0,clear
+1659,Arhar (Tur/Red Gram),Narela,2016-10-17,5200.0,0.5,34.0,clear
+1660,Arhar (Tur/Red Gram),Narela,2016-10-21,4100.0,0.8,34.6,clear
+1661,Arhar (Tur/Red Gram),Narela,2016-10-25,5000.0,2.5,32.6,clear
+1662,Arhar (Tur/Red Gram),Narela,2016-07-11,4550.0,0.3,34.6,clear
+1663,Arhar (Tur/Red Gram),Narela,2016-11-14,4300.0,0.2,28.6,clear
+1664,Arhar (Tur/Red Gram),Narela,2016-11-15,4250.0,0.3,27.2,clear
+1665,Arhar (Tur/Red Gram),Narela,2016-11-17,4100.0,0.7,27.6,clear
+1666,Arhar (Tur/Red Gram),Narela,2016-11-18,4000.0,0.4,27.4,clear
+1667,Arhar (Tur/Red Gram),Narela,2016-11-22,4391.0,1.1,30.4,clear
+1668,Arhar (Tur/Red Gram),Narela,2016-11-25,4250.0,0.3,29.4,clear
+1669,Arhar (Tur/Red Gram),Narela,2016-11-27,4100.0,0.1,29.2,clear
+1670,Arhar (Tur/Red Gram),Narela,2016-01-12,4400.0,0.2,24.6,clear
+1671,Arhar (Tur/Red Gram),Narela,2016-03-12,4350.0,1.1,30.2,rain
+1672,Arhar (Tur/Red Gram),Narela,2016-06-12,4000.0,0.2,39.0,clear
+1673,Arhar (Tur/Red Gram),Narela,2016-08-12,3850.0,1.3,32.6,clear
+1674,Arhar (Tur/Red Gram),Narela,2016-12-19,3890.0,1.8,22.8,clear
+1675,Arhar (Tur/Red Gram),Narela,2016-12-31,3700.0,2.1,18.4,clear
+1676,Bengal Gram(Gram),Najafgarh,2016-02-22,4000.0,0.5,27.2,clear
+1677,Bengal Gram(Gram),Najafgarh,2016-03-18,4450.0,1.0,31.8,clear
+1678,Bengal Gram(Gram),Najafgarh,2016-05-23,5700.0,0.5,40.8,rain
+1679,Bengal Gram(Gram),Najafgarh,2016-12-06,6600.0,0.5,26.0,clear
+1680,Bengal Gram(Gram),Najafgarh,2016-06-19,6350.0,0.5,39.6,clear
+1681,Green Gram (Moong),Narela,2016-06-19,3500.0,1.2,39.6,clear
+1682,Bengal Gram(Gram),Najafgarh,2016-01-08,7125.0,0.5,21.2,clear
+1683,Bengal Gram(Gram),Najafgarh,2016-02-09,6911.0,0.5,23.6,clear
+1684,Bengal Gram(Gram),Najafgarh,2016-09-20,5000.0,0.5,37.2,clear
+1685,Bengal Gram(Gram),Najafgarh,2016-09-27,5300.0,1.5,35.2,clear
+1686,Bengal Gram(Gram),Najafgarh,2016-01-10,9100.0,1.5,24.2,clear
+1687,Bengal Gram(Gram),Narela,2016-06-05,5000.0,4.0,41.6,clear
+1688,Bengal Gram(Gram),Narela,2016-06-20,7301.0,0.2,38.4,rain
+1689,Bengal Gram(Gram),Narela,2016-01-09,7221.0,0.7,22.0,clear
+1690,Bengal Gram(Gram),Narela,2016-04-09,7350.0,1.2,36.4,clear
+1691,Bengal Gram(Gram),Narela,2016-09-30,7000.0,0.3,35.2,clear
+1692,Green Gram (Moong),Najafgarh,2016-01-07,5375.0,0.5,24.0,clear
+1693,Green Gram (Moong),Najafgarh,2016-03-07,5351.0,0.8,29.0,clear
+1694,Green Gram (Moong),Najafgarh,2016-07-07,4700.0,0.6,36.8,clear
+1695,Green Gram (Moong),Narela,2016-07-07,4760.0,0.5,36.8,clear
+1696,Green Gram (Moong),Najafgarh,2016-07-19,4531.0,0.6,35.2,clear
+1697,Green Gram (Moong),Narela,2016-07-19,4801.0,0.5,35.2,clear
+1698,Green Gram (Moong),Najafgarh,2016-12-08,5000.0,0.1,23.6,clear
+1699,Green Gram (Moong),Najafgarh,2016-12-09,3500.0,0.3,26.4,clear
+1700,Green Gram (Moong),Najafgarh,2016-10-22,4200.0,1.0,34.6,clear
+1701,Green Gram (Moong),Narela,2016-03-28,5500.0,0.3,31.6,clear
+1702,Green Gram (Moong),Narela,2016-04-06,5462.0,0.8,36.2,clear
+1703,Green Gram (Moong),Narela,2016-10-06,5800.0,1.0,33.4,clear
+1704,Green Gram (Moong),Narela,2016-06-17,5600.0,1.2,38.6,clear
+1705,Green Gram (Moong),Narela,2016-09-07,5401.0,0.5,34.4,clear
+1706,Green Gram (Moong),Narela,2016-07-17,4900.0,0.2,30.0,clear
+1707,Green Gram (Moong),Narela,2016-07-22,4600.0,0.1,37.2,clear
+1708,Green Gram (Moong),Narela,2016-07-23,3152.0,1.5,34.0,clear
+1709,Green Gram (Moong),Narela,2016-07-25,4150.0,0.2,33.2,clear
+1710,Green Gram (Moong),Narela,2016-07-28,4700.0,0.2,33.0,rain
+1711,Green Gram (Moong),Narela,2016-07-31,4051.0,0.6,30.6,clear
+1712,Green Gram (Moong),Narela,2016-08-29,3100.0,0.3,32.8,rain
+1713,Arhar (Tur/Red Gram),Najafgarh,2017-01-01,3700.0,1.2,22.4,clear
+1714,Arhar (Tur/Red Gram),Narela,2017-01-01,4142.0,2.3,22.4,clear
+1715,Arhar (Tur/Red Gram),Najafgarh,2017-02-01,3821.0,2.6,21.4,clear
+1716,Arhar (Tur/Red Gram),Narela,2017-02-01,4361.0,2.6,21.4,clear
+1717,Arhar (Tur/Red Gram),Najafgarh,2017-03-01,3950.0,2.1,30.0,clear
+1718,Arhar (Tur/Red Gram),Narela,2017-03-01,4082.0,8.6,30.0,clear
+1719,Arhar (Tur/Red Gram),Najafgarh,2017-05-01,3050.0,6.7,37.0,clear
+1720,Arhar (Tur/Red Gram),Narela,2017-05-01,4281.0,5.0,37.0,clear
+1721,Arhar (Tur/Red Gram),Najafgarh,2017-06-01,3900.0,3.5,36.6,clear
+1722,Arhar (Tur/Red Gram),Narela,2017-06-01,3851.0,1.8,36.6,clear
+1723,Arhar (Tur/Red Gram),Najafgarh,2017-07-01,3500.0,0.3,34.4,rain
+1724,Arhar (Tur/Red Gram),Narela,2017-07-01,3910.0,13.2,34.4,rain
+1725,Arhar (Tur/Red Gram),Najafgarh,2017-08-01,3575.0,3.3,29.2,clear
+1726,Arhar (Tur/Red Gram),Narela,2017-08-01,3525.0,1.2,29.2,clear
+1727,Arhar (Tur/Red Gram),Najafgarh,2017-09-01,3700.0,2.5,30.8,clear
+1728,Arhar (Tur/Red Gram),Narela,2017-09-01,3761.0,5.8,30.8,clear
+1729,Arhar (Tur/Red Gram),Najafgarh,2017-10-01,3572.0,5.2,34.2,clear
+1730,Arhar (Tur/Red Gram),Narela,2017-10-01,3550.0,4.1,34.2,clear
+1731,Arhar (Tur/Red Gram),Najafgarh,2017-12-01,3540.0,1.5,25.0,clear
+1732,Arhar (Tur/Red Gram),Narela,2017-12-01,3300.0,1.0,25.0,clear
+1733,Arhar (Tur/Red Gram),Najafgarh,2017-01-13,3195.0,3.9,19.0,clear
+1734,Arhar (Tur/Red Gram),Narela,2017-01-13,3651.0,6.4,19.0,clear
+1735,Arhar (Tur/Red Gram),Najafgarh,2017-01-15,3600.0,4.0,23.2,clear
+1736,Arhar (Tur/Red Gram),Narela,2017-01-15,3631.0,2.2,23.2,clear
+1737,Arhar (Tur/Red Gram),Najafgarh,2017-01-16,3725.0,0.4,18.8,clear
+1738,Arhar (Tur/Red Gram),Narela,2017-01-16,3700.0,1.7,18.8,clear
+1739,Arhar (Tur/Red Gram),Najafgarh,2017-01-17,3850.0,0.8,15.0,clear
+1740,Arhar (Tur/Red Gram),Narela,2017-01-17,3981.0,1.4,15.0,clear
+1741,Arhar (Tur/Red Gram),Najafgarh,2017-01-19,3800.0,3.3,21.0,clear
+1742,Arhar (Tur/Red Gram),Narela,2017-01-19,4131.0,14.2,21.0,clear
+1743,Arhar (Tur/Red Gram),Najafgarh,2017-01-20,3917.0,0.3,20.0,clear
+1744,Arhar (Tur/Red Gram),Narela,2017-01-20,3891.0,4.1,20.0,clear
+1745,Arhar (Tur/Red Gram),Najafgarh,2017-01-21,3625.0,0.6,19.2,clear
+1746,Arhar (Tur/Red Gram),Narela,2017-01-21,3590.0,6.8,19.2,clear
+1747,Arhar (Tur/Red Gram),Najafgarh,2017-01-22,3525.0,1.4,23.4,clear
+1748,Arhar (Tur/Red Gram),Narela,2017-01-22,3890.0,2.4,23.4,clear
+1749,Bengal Gram(Gram),Najafgarh,2017-01-22,6315.0,0.3,23.4,clear
+1750,Arhar (Tur/Red Gram),Najafgarh,2017-01-23,3560.0,2.8,24.0,clear
+1751,Arhar (Tur/Red Gram),Narela,2017-01-23,4051.0,5.4,24.0,clear
+1752,Arhar (Tur/Red Gram),Najafgarh,2017-01-24,3833.0,3.9,25.2,clear
+1753,Arhar (Tur/Red Gram),Narela,2017-01-24,3890.0,2.4,25.2,clear
+1754,Arhar (Tur/Red Gram),Najafgarh,2017-01-28,3730.0,1.0,19.0,clear
+1755,Arhar (Tur/Red Gram),Narela,2017-01-28,3300.0,4.0,19.0,clear
+1756,Arhar (Tur/Red Gram),Najafgarh,2017-01-29,3660.0,4.0,19.8,clear
+1757,Arhar (Tur/Red Gram),Narela,2017-01-29,4015.0,1.1,19.8,clear
+1758,Arhar (Tur/Red Gram),Najafgarh,2017-01-30,3300.0,1.2,22.2,clear
+1759,Arhar (Tur/Red Gram),Narela,2017-01-30,3500.0,20.7,22.2,clear
+1760,Bengal Gram(Gram),Narela,2017-01-30,6707.0,0.3,22.2,clear
+1761,Arhar (Tur/Red Gram),Najafgarh,2017-02-02,3400.0,0.4,21.2,clear
+1762,Arhar (Tur/Red Gram),Narela,2017-02-02,3700.0,25.1,21.2,clear
+1763,Arhar (Tur/Red Gram),Najafgarh,2017-03-02,2800.0,2.0,27.4,clear
+1764,Arhar (Tur/Red Gram),Narela,2017-03-02,3927.0,3.1,27.4,clear
+1765,Arhar (Tur/Red Gram),Najafgarh,2017-04-02,3360.0,6.0,37.6,clear
+1766,Arhar (Tur/Red Gram),Narela,2017-04-02,3751.0,10.8,37.6,clear
+1767,Arhar (Tur/Red Gram),Najafgarh,2017-05-02,3300.0,0.4,39.6,clear
+1768,Arhar (Tur/Red Gram),Narela,2017-05-02,3400.0,3.7,39.6,clear
+1769,Arhar (Tur/Red Gram),Najafgarh,2017-06-02,3700.0,0.4,39.8,clear
+1770,Arhar (Tur/Red Gram),Narela,2017-06-02,3591.0,1.6,39.8,clear
+1771,Arhar (Tur/Red Gram),Najafgarh,2017-07-02,3625.0,1.2,31.0,clear
+1772,Arhar (Tur/Red Gram),Narela,2017-07-02,3511.0,5.1,31.0,clear
+1773,Arhar (Tur/Red Gram),Najafgarh,2017-09-02,3600.0,3.7,30.6,clear
+1774,Arhar (Tur/Red Gram),Narela,2017-09-02,3560.0,13.9,30.6,clear
+1775,Arhar (Tur/Red Gram),Najafgarh,2017-10-02,3200.0,2.2,36.2,clear
+1776,Arhar (Tur/Red Gram),Narela,2017-10-02,3700.0,4.0,36.2,clear
+1777,Arhar (Tur/Red Gram),Najafgarh,2017-11-02,3566.0,4.6,30.2,clear
+1778,Arhar (Tur/Red Gram),Narela,2017-11-02,3700.0,2.8,30.2,clear
+1779,Arhar (Tur/Red Gram),Najafgarh,2017-02-13,3250.0,2.2,24.6,clear
+1780,Arhar (Tur/Red Gram),Narela,2017-02-13,3836.0,17.0,24.6,clear
+1781,Arhar (Tur/Red Gram),Najafgarh,2017-02-16,3600.0,0.8,26.4,clear
+1782,Arhar (Tur/Red Gram),Narela,2017-02-16,3801.0,7.8,26.4,clear
+1783,Arhar (Tur/Red Gram),Najafgarh,2017-02-17,3175.0,2.0,26.6,clear
+1784,Arhar (Tur/Red Gram),Narela,2017-02-17,3516.0,21.2,26.6,clear
+1785,Arhar (Tur/Red Gram),Najafgarh,2017-02-18,3136.0,1.3,29.8,clear
+1786,Arhar (Tur/Red Gram),Najafgarh,2017-02-19,2651.0,0.5,30.4,clear
+1787,Arhar (Tur/Red Gram),Narela,2017-02-19,3321.0,7.0,30.4,clear
+1788,Arhar (Tur/Red Gram),Najafgarh,2017-02-20,3400.0,1.3,31.4,clear
+1789,Arhar (Tur/Red Gram),Narela,2017-02-20,2600.0,1.3,31.4,clear
+1790,Arhar (Tur/Red Gram),Najafgarh,2017-02-21,2950.0,1.4,25.0,clear
+1791,Arhar (Tur/Red Gram),Narela,2017-02-21,3490.0,7.5,25.0,clear
+1792,Arhar (Tur/Red Gram),Najafgarh,2017-02-23,2775.0,1.2,25.0,clear
+1793,Arhar (Tur/Red Gram),Narela,2017-02-23,3200.0,17.8,25.0,clear
+1794,Arhar (Tur/Red Gram),Najafgarh,2017-02-24,2912.0,4.2,24.8,clear
+1795,Arhar (Tur/Red Gram),Narela,2017-02-24,2862.0,4.4,24.8,clear
+1796,Arhar (Tur/Red Gram),Najafgarh,2017-02-25,2600.0,0.5,25.6,clear
+1797,Arhar (Tur/Red Gram),Narela,2017-02-25,3061.0,0.6,25.6,clear
+1798,Arhar (Tur/Red Gram),Najafgarh,2017-02-26,2800.0,0.5,26.8,clear
+1799,Arhar (Tur/Red Gram),Narela,2017-02-26,2900.0,1.5,26.8,clear
+1800,Arhar (Tur/Red Gram),Najafgarh,2017-02-03,3400.0,0.6,24.6,clear
+1801,Arhar (Tur/Red Gram),Narela,2017-02-03,3000.0,19.4,24.6,clear
+1802,Arhar (Tur/Red Gram),Najafgarh,2017-03-03,2950.0,2.4,26.6,clear
+1803,Arhar (Tur/Red Gram),Najafgarh,2017-07-03,3100.0,0.4,35.0,clear
+1804,Arhar (Tur/Red Gram),Narela,2017-07-03,2500.0,0.8,35.0,clear
+1805,Arhar (Tur/Red Gram),Najafgarh,2017-09-03,2976.0,4.2,34.0,clear
+1806,Arhar (Tur/Red Gram),Narela,2017-09-03,3010.0,3.2,34.0,clear
+1807,Black Gram (Urd Beans),Narela,2017-09-03,4200.0,0.2,34.0,clear
+1808,Arhar (Tur/Red Gram),Najafgarh,2017-11-03,3200.0,0.5,29.6,clear
+1809,Arhar (Tur/Red Gram),Narela,2017-11-03,3285.0,2.5,29.6,clear
+1810,Arhar (Tur/Red Gram),Najafgarh,2017-03-16,2900.0,0.8,30.2,clear
+1811,Arhar (Tur/Red Gram),Narela,2017-03-16,3151.0,2.9,30.2,clear
+1812,Arhar (Tur/Red Gram),Najafgarh,2017-03-17,2500.0,4.0,27.0,clear
+1813,Arhar (Tur/Red Gram),Narela,2017-03-17,3060.0,7.5,27.0,clear
+1814,Arhar (Tur/Red Gram),Najafgarh,2017-03-18,3100.0,0.5,29.4,clear
+1815,Arhar (Tur/Red Gram),Narela,2017-03-18,3530.0,8.3,29.4,clear
+1816,Bengal Gram(Gram),Narela,2017-03-18,5000.0,0.5,29.4,clear
+1817,Arhar (Tur/Red Gram),Najafgarh,2017-03-19,3000.0,0.1,29.4,clear
+1818,Arhar (Tur/Red Gram),Narela,2017-03-19,3025.0,2.5,29.4,clear
+1819,Arhar (Tur/Red Gram),Najafgarh,2017-03-21,2900.0,1.5,33.4,clear
+1820,Arhar (Tur/Red Gram),Narela,2017-03-21,3400.0,10.5,33.4,clear
+1821,Arhar (Tur/Red Gram),Najafgarh,2017-03-23,2750.0,1.1,37.0,clear
+1822,Arhar (Tur/Red Gram),Narela,2017-03-23,3101.0,6.2,37.0,clear
+1823,Arhar (Tur/Red Gram),Najafgarh,2017-03-24,3150.0,0.4,34.2,clear
+1824,Arhar (Tur/Red Gram),Narela,2017-03-24,3111.0,1.8,34.2,clear
+1825,Arhar (Tur/Red Gram),Najafgarh,2017-03-25,2962.0,3.6,33.6,clear
+1826,Arhar (Tur/Red Gram),Narela,2017-03-25,3500.0,0.5,33.6,clear
+1827,Arhar (Tur/Red Gram),Najafgarh,2017-03-26,3500.0,0.7,34.6,clear
+1828,Arhar (Tur/Red Gram),Narela,2017-03-26,3360.0,3.5,34.6,clear
+1829,Bengal Gram(Gram),Najafgarh,2017-03-26,5602.0,0.6,34.6,clear
+1830,Arhar (Tur/Red Gram),Najafgarh,2017-03-27,3340.0,1.3,36.4,clear
+1831,Arhar (Tur/Red Gram),Narela,2017-03-27,3341.0,0.8,36.4,clear
+1832,Arhar (Tur/Red Gram),Najafgarh,2017-03-30,2800.0,1.0,36.4,clear
+1833,Arhar (Tur/Red Gram),Narela,2017-03-30,3491.0,2.4,36.4,clear
+1834,Arhar (Tur/Red Gram),Najafgarh,2017-02-04,2500.0,1.5,23.0,clear
+1835,Arhar (Tur/Red Gram),Narela,2017-02-04,3380.0,2.3,23.0,clear
+1836,Bengal Gram(Gram),Najafgarh,2017-02-04,4400.0,5.0,23.0,clear
+1837,Arhar (Tur/Red Gram),Najafgarh,2017-04-04,3400.0,3.0,35.6,rain
+1838,Arhar (Tur/Red Gram),Narela,2017-04-04,3500.0,0.1,35.6,rain
+1839,Arhar (Tur/Red Gram),Najafgarh,2017-06-04,3150.0,2.0,44.2,clear
+1840,Arhar (Tur/Red Gram),Narela,2017-06-04,3195.0,13.9,44.2,clear
+1841,Arhar (Tur/Red Gram),Najafgarh,2017-07-04,3331.0,0.2,35.8,clear
+1842,Arhar (Tur/Red Gram),Narela,2017-07-04,3400.0,3.8,35.8,clear
+1843,Bengal Gram(Gram),Narela,2017-07-04,6001.0,1.0,35.8,clear
+1844,Arhar (Tur/Red Gram),Najafgarh,2017-08-04,3400.0,0.2,34.6,clear
+1845,Arhar (Tur/Red Gram),Narela,2017-08-04,3500.0,3.9,34.6,clear
+1846,Arhar (Tur/Red Gram),Najafgarh,2017-09-04,3400.0,1.2,35.0,clear
+1847,Arhar (Tur/Red Gram),Narela,2017-09-04,3450.0,1.0,35.0,clear
+1848,Arhar (Tur/Red Gram),Najafgarh,2017-10-04,3401.0,0.7,33.8,clear
+1849,Arhar (Tur/Red Gram),Narela,2017-10-04,3400.0,6.4,33.8,clear
+1850,Arhar (Tur/Red Gram),Najafgarh,2017-11-04,3263.0,3.0,29.8,clear
+1851,Arhar (Tur/Red Gram),Narela,2017-11-04,2700.0,0.8,29.8,clear
+1852,Arhar (Tur/Red Gram),Najafgarh,2017-04-13,3100.0,0.7,39.2,clear
+1853,Arhar (Tur/Red Gram),Narela,2017-04-13,3100.0,0.4,39.2,clear
+1854,Arhar (Tur/Red Gram),Najafgarh,2017-04-16,3300.0,1.0,39.4,clear
+1855,Bengal Gram(Gram),Narela,2017-04-16,5400.0,0.3,39.4,clear
+1856,Arhar (Tur/Red Gram),Najafgarh,2017-04-18,3300.0,0.4,42.0,clear
+1857,Bengal Gram(Gram),Najafgarh,2017-04-18,5050.0,10.0,42.0,clear
+1858,Arhar (Tur/Red Gram),Najafgarh,2017-04-21,3300.0,0.7,39.4,clear
+1859,Arhar (Tur/Red Gram),Narela,2017-04-21,2800.0,1.4,39.4,clear
+1860,Arhar (Tur/Red Gram),Najafgarh,2017-04-22,3272.0,1.2,38.4,clear
+1861,Arhar (Tur/Red Gram),Narela,2017-04-22,3000.0,0.5,38.4,clear
+1862,Bengal Gram(Gram),Najafgarh,2017-04-22,6700.0,2.1,38.4,clear
+1863,Arhar (Tur/Red Gram),Najafgarh,2017-04-25,2661.0,1.5,37.8,clear
+1864,Arhar (Tur/Red Gram),Narela,2017-04-25,3000.0,4.5,37.8,clear
+1865,Bengal Gram(Gram),Narela,2017-04-25,5800.0,5.0,37.8,clear
+1866,Arhar (Tur/Red Gram),Najafgarh,2017-04-27,3011.0,0.2,37.2,clear
+1867,Arhar (Tur/Red Gram),Najafgarh,2017-04-28,3305.0,6.0,38.4,clear
+1868,Arhar (Tur/Red Gram),Narela,2017-04-28,3000.0,0.2,38.4,clear
+1869,Arhar (Tur/Red Gram),Najafgarh,2017-04-29,3091.0,0.3,37.8,clear
+1870,Bengal Gram(Gram),Narela,2017-04-29,5700.0,1.5,37.8,clear
+1871,Arhar (Tur/Red Gram),Najafgarh,2017-04-30,1800.0,1.7,37.0,rain
+1872,Arhar (Tur/Red Gram),Narela,2017-04-30,2900.0,11.2,37.0,rain
+1873,Bengal Gram(Gram),Najafgarh,2017-04-30,5500.0,4.5,37.0,rain
+1874,Arhar (Tur/Red Gram),Najafgarh,2017-01-05,3150.0,3.0,25.2,clear
+1875,Arhar (Tur/Red Gram),Narela,2017-01-05,3047.0,3.1,25.2,clear
+1876,Arhar (Tur/Red Gram),Najafgarh,2017-02-05,3100.0,4.3,22.4,clear
+1877,Arhar (Tur/Red Gram),Narela,2017-02-05,3161.0,0.8,22.4,clear
+1878,Arhar (Tur/Red Gram),Najafgarh,2017-04-05,2938.0,2.5,33.2,clear
+1879,Arhar (Tur/Red Gram),Narela,2017-04-05,3050.0,0.8,33.2,clear
+1880,Bengal Gram(Gram),Narela,2017-04-05,5700.0,0.8,33.2,clear
+1881,Arhar (Tur/Red Gram),Najafgarh,2017-05-05,3141.0,1.5,40.0,clear
+1882,Arhar (Tur/Red Gram),Narela,2017-05-05,2700.0,0.9,40.0,clear
+1883,Bengal Gram(Gram),Najafgarh,2017-05-05,5651.0,1.9,40.0,clear
+1884,Bengal Gram(Gram),Narela,2017-05-05,5800.0,4.5,40.0,clear
+1885,Arhar (Tur/Red Gram),Najafgarh,2017-06-05,3100.0,1.3,43.6,clear
+1886,Arhar (Tur/Red Gram),Narela,2017-06-05,2950.0,9.9,43.6,clear
+1887,Arhar (Tur/Red Gram),Najafgarh,2017-07-05,2750.0,1.4,35.4,clear
+1888,Arhar (Tur/Red Gram),Narela,2017-07-05,2850.0,2.3,35.4,clear
+1889,Bengal Gram(Gram),Narela,2017-07-05,5600.0,0.9,35.4,clear
+1890,Arhar (Tur/Red Gram),Najafgarh,2017-08-05,2950.0,2.5,34.6,clear
+1891,Arhar (Tur/Red Gram),Narela,2017-08-05,2825.0,1.8,34.6,clear
+1892,Bengal Gram(Gram),Narela,2017-08-05,5800.0,0.7,34.6,clear
+1893,Arhar (Tur/Red Gram),Najafgarh,2017-09-05,2900.0,2.0,34.4,clear
+1894,Arhar (Tur/Red Gram),Narela,2017-09-05,2850.0,0.5,34.4,clear
+1895,Bengal Gram(Gram),Narela,2017-09-05,6000.0,5.6,34.4,clear
+1896,Arhar (Tur/Red Gram),Najafgarh,2017-11-05,2725.0,3.0,29.8,clear
+1897,Arhar (Tur/Red Gram),Narela,2017-11-05,2850.0,0.3,29.8,clear
+1898,Arhar (Tur/Red Gram),Najafgarh,2017-05-14,1500.0,0.3,42.6,clear
+1899,Arhar (Tur/Red Gram),Narela,2017-05-14,2800.0,1.0,42.6,clear
+1900,Arhar (Tur/Red Gram),Najafgarh,2017-05-15,2400.0,4.0,43.4,clear
+1901,Arhar (Tur/Red Gram),Narela,2017-05-15,2891.0,4.0,43.4,clear
+1902,Arhar (Tur/Red Gram),Najafgarh,2017-05-18,3050.0,1.5,38.4,clear
+1903,Bengal Gram(Gram),Najafgarh,2017-05-18,5500.0,0.6,38.4,clear
+1904,Arhar (Tur/Red Gram),Najafgarh,2017-05-19,3051.0,1.0,34.8,clear
+1905,Arhar (Tur/Red Gram),Narela,2017-05-19,2950.0,3.4,34.8,clear
+1906,Arhar (Tur/Red Gram),Najafgarh,2017-05-20,3031.0,2.0,38.0,clear
+1907,Arhar (Tur/Red Gram),Narela,2017-05-20,2925.0,2.3,38.0,clear
+1908,Black Gram (Urd Beans),Narela,2017-05-20,3663.0,0.1,38.0,clear
+1909,Arhar (Tur/Red Gram),Najafgarh,2017-05-23,2900.0,0.3,37.6,clear
+1910,Arhar (Tur/Red Gram),Narela,2017-05-23,3000.0,0.5,37.6,clear
+1911,Bengal Gram(Gram),Narela,2017-05-23,6000.0,0.5,37.6,clear
+1912,Arhar (Tur/Red Gram),Najafgarh,2017-05-25,3110.0,1.2,41.6,clear
+1913,Arhar (Tur/Red Gram),Narela,2017-05-25,2900.0,1.7,41.6,clear
+1914,Arhar (Tur/Red Gram),Najafgarh,2017-05-26,2725.0,0.6,43.6,clear
+1915,Arhar (Tur/Red Gram),Narela,2017-05-26,3050.0,2.1,43.6,clear
+1916,Bengal Gram(Gram),Najafgarh,2017-05-26,6411.0,2.5,43.6,clear
+1917,Arhar (Tur/Red Gram),Najafgarh,2017-05-27,2800.0,4.5,39.6,clear
+1918,Black Gram (Urd Beans),Narela,2017-05-27,2800.0,0.3,39.6,clear
+1919,Arhar (Tur/Red Gram),Najafgarh,2017-05-28,2811.0,1.0,35.4,clear
+1920,Arhar (Tur/Red Gram),Najafgarh,2017-05-30,2809.0,15.0,36.0,clear
+1921,Arhar (Tur/Red Gram),Narela,2017-05-30,2900.0,1.1,36.0,clear
+1922,Arhar (Tur/Red Gram),Najafgarh,2017-02-06,2800.0,2.0,23.4,clear
+1923,Arhar (Tur/Red Gram),Narela,2017-02-06,2850.0,1.9,23.4,clear
+1924,Arhar (Tur/Red Gram),Najafgarh,2017-05-06,2620.0,5.3,39.4,clear
+1925,Arhar (Tur/Red Gram),Najafgarh,2017-10-06,2775.0,1.4,34.8,clear
+1926,Arhar (Tur/Red Gram),Najafgarh,2017-11-06,2500.0,1.0,29.4,clear
+1927,Arhar (Tur/Red Gram),Narela,2017-11-06,2880.0,1.1,29.4,clear
+1928,Arhar (Tur/Red Gram),Najafgarh,2017-12-06,2471.0,4.0,24.0,clear
+1929,Arhar (Tur/Red Gram),Narela,2017-12-06,2600.0,0.5,24.0,clear
+1930,Arhar (Tur/Red Gram),Najafgarh,2017-06-13,2700.0,0.3,41.6,clear
+1931,Arhar (Tur/Red Gram),Narela,2017-06-13,2700.0,2.7,41.6,clear
+1932,Arhar (Tur/Red Gram),Najafgarh,2017-06-15,2750.0,1.7,39.2,clear
+1933,Arhar (Tur/Red Gram),Narela,2017-06-15,2700.0,0.2,39.2,clear
+1934,Green Gram (Moong),Najafgarh,2017-06-15,3300.0,0.5,39.2,clear
+1935,Arhar (Tur/Red Gram),Najafgarh,2017-06-17,2732.0,0.4,31.6,clear
+1936,Bengal Gram(Gram),Najafgarh,2017-06-17,5537.0,4.5,31.6,clear
+1937,Arhar (Tur/Red Gram),Najafgarh,2017-06-20,2025.0,2.0,32.2,clear
+1938,Arhar (Tur/Red Gram),Narela,2017-06-20,2711.0,4.3,32.2,clear
+1939,Arhar (Tur/Red Gram),Najafgarh,2017-06-27,2600.0,1.9,38.6,clear
+1940,Arhar (Tur/Red Gram),Narela,2017-06-27,2650.0,0.2,38.6,clear
+1941,Arhar (Tur/Red Gram),Najafgarh,2017-03-07,2500.0,1.0,29.0,clear
+1942,Arhar (Tur/Red Gram),Najafgarh,2017-06-07,2625.0,0.8,36.4,clear
+1943,Arhar (Tur/Red Gram),Najafgarh,2017-08-07,2237.0,2.7,33.2,clear
+1944,Arhar (Tur/Red Gram),Narela,2017-08-07,2700.0,1.9,33.2,clear
+1945,Arhar (Tur/Red Gram),Najafgarh,2017-07-18,2660.0,0.5,36.2,clear
+1946,Arhar (Tur/Red Gram),Narela,2017-07-18,2700.0,0.7,36.2,clear
+1947,Arhar (Tur/Red Gram),Najafgarh,2017-07-24,2600.0,0.6,33.2,clear
+1948,Bengal Gram(Gram),Najafgarh,2017-07-24,5051.0,0.5,33.2,clear
+1949,Arhar (Tur/Red Gram),Najafgarh,2017-07-27,2400.0,0.3,34.2,clear
+1950,Arhar (Tur/Red Gram),Najafgarh,2017-07-30,2351.0,0.5,32.2,clear
+1951,Arhar (Tur/Red Gram),Narela,2017-07-30,2450.0,8.3,32.2,clear
+1952,Arhar (Tur/Red Gram),Najafgarh,2017-07-31,2050.0,0.5,29.6,clear
+1953,Arhar (Tur/Red Gram),Narela,2017-07-31,2455.0,4.6,29.6,clear
+1954,Arhar (Tur/Red Gram),Najafgarh,2017-01-08,2600.0,3.0,19.4,clear
+1955,Arhar (Tur/Red Gram),Narela,2017-01-08,1900.0,0.8,19.4,clear
+1956,Arhar (Tur/Red Gram),Najafgarh,2017-04-08,2600.0,0.6,33.4,clear
+1957,Arhar (Tur/Red Gram),Najafgarh,2017-05-08,2450.0,2.0,42.6,clear
+1958,Arhar (Tur/Red Gram),Najafgarh,2017-06-08,2750.0,0.5,32.4,clear
+1959,Arhar (Tur/Red Gram),Najafgarh,2017-10-08,2750.0,0.8,34.2,clear
+1960,Arhar (Tur/Red Gram),Narela,2017-10-08,1800.0,0.2,34.2,clear
+1961,Arhar (Tur/Red Gram),Najafgarh,2017-11-08,2800.0,2.0,27.2,clear
+1962,Arhar (Tur/Red Gram),Narela,2017-11-08,2825.0,3.1,27.2,clear
+1963,Arhar (Tur/Red Gram),Najafgarh,2017-08-14,3171.0,1.4,35.0,clear
+1964,Arhar (Tur/Red Gram),Najafgarh,2017-08-17,2300.0,0.8,37.0,clear
+1965,Arhar (Tur/Red Gram),Narela,2017-08-17,2911.0,6.0,37.0,clear
+1966,Arhar (Tur/Red Gram),Najafgarh,2017-08-19,2851.0,1.0,30.4,clear
+1967,Arhar (Tur/Red Gram),Najafgarh,2017-08-20,2400.0,0.5,35.4,clear
+1968,Arhar (Tur/Red Gram),Najafgarh,2017-08-22,2400.0,0.0,33.0,clear
+1969,Arhar (Tur/Red Gram),Najafgarh,2017-08-24,2800.0,1.0,33.8,clear
+1970,Bengal Gram(Gram),Najafgarh,2017-08-24,5500.0,0.5,33.8,clear
+1971,Arhar (Tur/Red Gram),Najafgarh,2017-08-25,3211.0,1.0,34.8,rain
+1972,Arhar (Tur/Red Gram),Narela,2017-08-25,3100.0,0.5,34.8,rain
+1973,Arhar (Tur/Red Gram),Najafgarh,2017-08-26,3400.0,1.0,31.6,clear
+1974,Arhar (Tur/Red Gram),Najafgarh,2017-08-27,2000.0,0.5,35.2,rain
+1975,Arhar (Tur/Red Gram),Najafgarh,2017-08-29,2800.0,0.5,33.8,clear
+1976,Arhar (Tur/Red Gram),Najafgarh,2017-08-31,2500.0,0.6,31.8,rain
+1977,Arhar (Tur/Red Gram),Najafgarh,2017-01-09,2500.0,1.0,19.0,clear
+1978,Green Gram (Moong),Najafgarh,2017-01-09,3700.0,0.5,19.0,clear
+1979,Arhar (Tur/Red Gram),Najafgarh,2017-02-09,2200.0,0.9,22.4,clear
+1980,Arhar (Tur/Red Gram),Narela,2017-02-09,2951.0,0.5,22.4,clear
+1981,Arhar (Tur/Red Gram),Najafgarh,2017-03-09,2700.0,0.5,28.2,clear
+1982,Bengal Gram(Gram),Najafgarh,2017-03-09,5700.0,0.2,28.2,clear
+1983,Arhar (Tur/Red Gram),Najafgarh,2017-08-09,2500.0,1.7,30.0,clear
+1984,Arhar (Tur/Red Gram),Najafgarh,2017-09-09,2716.0,0.3,34.8,clear
+1985,Arhar (Tur/Red Gram),Najafgarh,2017-10-09,2763.0,1.4,35.6,clear
+1986,Arhar (Tur/Red Gram),Narela,2017-10-09,2900.0,6.0,35.6,clear
+1987,Arhar (Tur/Red Gram),Najafgarh,2017-11-09,2925.0,1.0,30.4,clear
+1988,Arhar (Tur/Red Gram),Narela,2017-11-09,2900.0,0.3,30.4,clear
+1989,Arhar (Tur/Red Gram),Najafgarh,2017-12-09,1500.0,0.2,26.6,clear
+1990,Arhar (Tur/Red Gram),Narela,2017-12-09,2900.0,0.7,26.6,clear
+1991,Arhar (Tur/Red Gram),Najafgarh,2017-09-14,2915.0,3.0,34.4,clear
+1992,Arhar (Tur/Red Gram),Najafgarh,2017-09-16,2945.0,1.0,31.2,clear
+1993,Arhar (Tur/Red Gram),Najafgarh,2017-09-17,2550.0,0.3,34.4,clear
+1994,Arhar (Tur/Red Gram),Najafgarh,2017-09-19,2800.0,3.0,36.0,clear
+1995,Arhar (Tur/Red Gram),Najafgarh,2017-09-21,2925.0,0.7,34.4,clear
+1996,Arhar (Tur/Red Gram),Narela,2017-09-21,2700.0,0.3,34.4,clear
+1997,Arhar (Tur/Red Gram),Najafgarh,2017-09-29,2500.0,1.5,35.6,clear
+1998,Arhar (Tur/Red Gram),Najafgarh,2017-05-10,2885.0,1.4,39.6,rain
+1999,Arhar (Tur/Red Gram),Najafgarh,2017-07-10,2500.0,0.2,37.4,clear
+2000,Arhar (Tur/Red Gram),Narela,2017-07-10,2950.0,3.3,37.4,clear
+2001,Arhar (Tur/Red Gram),Najafgarh,2017-08-10,2500.0,0.2,34.0,clear
+2002,Arhar (Tur/Red Gram),Najafgarh,2017-09-10,2651.0,1.3,36.8,clear
+2003,Arhar (Tur/Red Gram),Narela,2017-09-10,2750.0,2.1,36.8,clear
+2004,Arhar (Tur/Red Gram),Najafgarh,2017-10-10,2800.0,0.3,34.6,clear
+2005,Arhar (Tur/Red Gram),Narela,2017-10-10,2650.0,0.4,34.6,clear
+2006,Arhar (Tur/Red Gram),Najafgarh,2017-10-22,2700.0,0.2,35.8,clear
+2007,Arhar (Tur/Red Gram),Narela,2017-10-22,2750.0,0.3,35.8,clear
+2008,Arhar (Tur/Red Gram),Najafgarh,2017-10-31,2600.0,0.4,29.8,clear
+2009,Arhar (Tur/Red Gram),Narela,2017-01-14,3640.0,0.2,18.8,clear
+2010,Arhar (Tur/Red Gram),Narela,2017-01-27,3300.0,18.0,19.4,clear
+2011,Arhar (Tur/Red Gram),Narela,2017-01-31,3436.0,8.4,23.2,clear
+2012,Arhar (Tur/Red Gram),Narela,2017-12-02,3700.0,0.5,25.0,clear
+2013,Arhar (Tur/Red Gram),Narela,2017-02-28,2500.0,0.4,31.8,clear
+2014,Arhar (Tur/Red Gram),Narela,2017-04-03,3360.0,6.5,38.8,clear
+2015,Arhar (Tur/Red Gram),Narela,2017-05-03,3300.0,3.9,39.6,rain
+2016,Bengal Gram(Gram),Najafgarh,2017-05-03,5300.0,0.5,39.6,rain
+2017,Arhar (Tur/Red Gram),Narela,2017-06-03,3500.0,3.2,42.4,clear
+2018,Arhar (Tur/Red Gram),Narela,2017-10-03,2425.0,0.2,35.4,clear
+2019,Arhar (Tur/Red Gram),Narela,2017-03-14,3200.0,1.6,25.8,clear
+2020,Arhar (Tur/Red Gram),Narela,2017-03-28,3031.0,8.7,37.4,clear
+2021,Arhar (Tur/Red Gram),Narela,2017-03-31,3450.0,1.1,38.4,clear
+2022,Green Gram (Moong),Najafgarh,2017-03-31,3000.0,0.2,38.4,clear
+2023,Arhar (Tur/Red Gram),Narela,2017-01-04,3352.0,4.4,25.0,clear
+2024,Arhar (Tur/Red Gram),Narela,2017-03-04,3051.0,4.1,26.4,clear
+2025,Bengal Gram(Gram),Narela,2017-03-04,5901.0,0.8,26.4,clear
+2026,Arhar (Tur/Red Gram),Narela,2017-04-24,2950.0,0.8,37.6,clear
+2027,Bengal Gram(Gram),Najafgarh,2017-04-24,5000.0,4.5,37.6,clear
+2028,Arhar (Tur/Red Gram),Narela,2017-12-05,2866.0,6.8,23.4,clear
+2029,Bengal Gram(Gram),Narela,2017-12-05,5880.0,1.3,23.4,clear
+2030,Arhar (Tur/Red Gram),Narela,2017-05-13,2950.0,0.2,41.4,clear
+2031,Arhar (Tur/Red Gram),Narela,2017-05-16,2800.0,0.8,40.6,clear
+2032,Arhar (Tur/Red Gram),Narela,2017-05-21,2750.0,4.8,38.2,rain
+2033,Arhar (Tur/Red Gram),Narela,2017-05-29,2500.0,0.2,33.2,clear
+2034,Green Gram (Moong),Najafgarh,2017-05-29,3500.0,0.2,33.2,clear
+2035,Arhar (Tur/Red Gram),Narela,2017-03-06,3006.0,3.6,28.0,clear
+2036,Arhar (Tur/Red Gram),Narela,2017-04-06,2680.0,1.7,37.6,clear
+2037,Black Gram (Urd Beans),Narela,2017-04-06,2800.0,0.2,37.6,clear
+2038,Arhar (Tur/Red Gram),Narela,2017-06-06,2700.0,0.3,42.8,clear
+2039,Arhar (Tur/Red Gram),Narela,2017-08-06,2700.0,3.7,36.0,clear
+2040,Arhar (Tur/Red Gram),Narela,2017-06-19,2830.0,7.0,36.8,clear
+2041,Arhar (Tur/Red Gram),Narela,2017-06-22,2601.0,12.7,32.8,clear
+2042,Bengal Gram(Gram),Narela,2017-06-22,5000.0,0.4,32.8,clear
+2043,Arhar (Tur/Red Gram),Narela,2017-06-23,2400.0,1.3,35.4,clear
+2044,Arhar (Tur/Red Gram),Narela,2017-06-24,2850.0,4.1,37.0,clear
+2045,Arhar (Tur/Red Gram),Narela,2017-06-26,2500.0,5.4,38.0,clear
+2046,Arhar (Tur/Red Gram),Narela,2017-07-07,2550.0,0.3,34.4,clear
+2047,Bengal Gram(Gram),Narela,2017-07-07,5350.0,0.3,34.4,clear
+2048,Arhar (Tur/Red Gram),Narela,2017-10-07,2400.0,0.6,34.4,clear
+2049,Black Gram (Urd Beans),Narela,2017-10-07,2300.0,0.3,34.4,clear
+2050,Arhar (Tur/Red Gram),Narela,2017-11-07,2850.0,2.5,30.0,clear
+2051,Arhar (Tur/Red Gram),Narela,2017-07-13,2400.0,4.2,35.0,clear
+2052,Bengal Gram(Gram),Najafgarh,2017-07-13,5185.0,0.4,35.0,clear
+2053,Bengal Gram(Gram),Narela,2017-07-13,5150.0,1.5,35.0,clear
+2054,Arhar (Tur/Red Gram),Narela,2017-07-14,2750.0,0.5,36.4,clear
+2055,Arhar (Tur/Red Gram),Narela,2017-07-15,2500.0,0.2,34.8,clear
+2056,Green Gram (Moong),Najafgarh,2017-07-15,3000.0,0.4,34.8,clear
+2057,Arhar (Tur/Red Gram),Narela,2017-07-16,2800.0,0.3,36.2,clear
+2058,Arhar (Tur/Red Gram),Narela,2017-07-22,2525.0,3.3,34.6,rain
+2059,Arhar (Tur/Red Gram),Narela,2017-07-25,2411.0,2.8,32.2,rain
+2060,Green Gram (Moong),Najafgarh,2017-07-25,3500.0,0.3,32.2,rain
+2061,Arhar (Tur/Red Gram),Narela,2017-07-29,2450.0,1.5,34.6,clear
+2062,Arhar (Tur/Red Gram),Narela,2017-03-08,2511.0,4.9,25.8,clear
+2063,Arhar (Tur/Red Gram),Narela,2017-12-08,2250.0,0.1,24.2,clear
+2064,Bengal Gram(Gram),Narela,2017-12-08,4200.0,0.3,24.2,clear
+2065,Arhar (Tur/Red Gram),Narela,2017-08-13,3000.0,1.0,34.2,clear
+2066,Arhar (Tur/Red Gram),Narela,2017-04-09,3150.0,0.8,31.6,clear
+2067,Arhar (Tur/Red Gram),Narela,2017-05-09,3100.0,0.4,41.8,clear
+2068,Bengal Gram(Gram),Najafgarh,2017-05-09,5721.0,0.5,41.8,clear
+2069,Arhar (Tur/Red Gram),Narela,2017-07-09,3000.0,0.5,37.6,clear
+2070,Arhar (Tur/Red Gram),Narela,2017-09-18,2920.0,0.3,35.6,clear
+2071,Arhar (Tur/Red Gram),Narela,2017-09-22,2900.0,0.4,27.6,clear
+2072,Arhar (Tur/Red Gram),Narela,2017-09-26,2750.0,1.0,34.6,clear
+2073,Bengal Gram(Gram),Najafgarh,2017-09-26,5500.0,0.2,34.6,clear
+2074,Arhar (Tur/Red Gram),Narela,2017-09-28,2250.0,1.8,36.6,clear
+2075,Arhar (Tur/Red Gram),Narela,2017-03-10,3000.0,1.1,25.0,clear
+2076,Arhar (Tur/Red Gram),Narela,2017-10-15,3000.0,3.0,35.4,clear
+2077,Arhar (Tur/Red Gram),Narela,2017-10-17,2350.0,0.3,34.0,clear
+2078,Arhar (Tur/Red Gram),Narela,2017-10-19,2801.0,0.3,35.6,clear
+2079,Arhar (Tur/Red Gram),Narela,2017-10-20,2600.0,0.7,35.2,clear
+2080,Arhar (Tur/Red Gram),Narela,2017-04-11,2750.0,0.3,36.8,clear
+2081,Bengal Gram(Gram),Najafgarh,2017-04-14,5700.0,3.0,40.4,clear
+2082,Bengal Gram(Gram),Najafgarh,2017-04-15,5700.0,11.5,40.2,clear
+2083,Bengal Gram(Gram),Najafgarh,2017-04-20,5531.0,0.2,42.0,clear
+2084,Bengal Gram(Gram),Najafgarh,2017-06-30,5141.0,0.8,31.0,clear
+2085,Bengal Gram(Gram),Najafgarh,2017-08-21,6250.0,1.5,35.0,clear
+2086,Bengal Gram(Gram),Najafgarh,2017-01-10,4000.0,1.0,17.0,clear
+2087,Bengal Gram(Gram),Narela,2017-04-17,5400.0,0.6,40.4,clear
+2088,Black Gram (Urd Beans),Narela,2017-06-18,2300.0,0.3,35.6,clear
+2089,Black Gram (Urd Beans),Narela,2017-04-07,4350.0,0.3,34.0,clear
+2090,Black Gram (Urd Beans),Narela,2017-07-17,3650.0,0.8,34.0,clear
+2091,Green Gram (Moong),Najafgarh,2017-08-18,4490.0,0.2,36.8,clear
+2092,Green Gram (Moong),Najafgarh,2017-10-29,4171.0,0.7,31.9,clear

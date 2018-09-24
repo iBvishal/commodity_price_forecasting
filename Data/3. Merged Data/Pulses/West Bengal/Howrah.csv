@@ -1,0 +1,894 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2015-12-12,16000.0,1.4,26.8,clear
+1,Bengal Gram(Gram),Ramkrishanpur(Howrah),2015-12-12,7000.0,1.2,26.8,clear
+2,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2015-12-12,15500.0,1.3,26.8,clear
+3,Green Gram (Moong),Ramkrishanpur(Howrah),2015-12-12,11000.0,3.0,26.8,clear
+4,Lentil(Masur),Ramkrishanpur(Howrah),2015-12-12,10500.0,2.2,26.8,clear
+5,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2015-12-13,16000.0,1.3,26.0,clear
+6,Bengal Gram(Gram),Ramkrishanpur(Howrah),2015-12-13,7000.0,1.0,26.0,clear
+7,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2015-12-13,15500.0,1.2,26.0,clear
+8,Green Gram (Moong),Ramkrishanpur(Howrah),2015-12-13,11000.0,3.0,26.0,clear
+9,Lentil(Masur),Ramkrishanpur(Howrah),2015-12-13,10500.0,2.4,26.0,clear
+10,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2015-12-14,16000.0,1.2,26.4,clear
+11,Bengal Gram(Gram),Ramkrishanpur(Howrah),2015-12-14,7000.0,0.9,26.4,clear
+12,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2015-12-14,15500.0,1.1,26.4,clear
+13,Green Gram (Moong),Ramkrishanpur(Howrah),2015-12-14,11000.0,2.8,26.4,clear
+14,Lentil(Masur),Ramkrishanpur(Howrah),2015-12-14,10500.0,2.2,26.4,clear
+15,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2015-12-15,16000.0,1.0,22.0,clear
+16,Bengal Gram(Gram),Ramkrishanpur(Howrah),2015-12-15,7000.0,0.8,22.0,clear
+17,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2015-12-15,15500.0,1.0,22.0,clear
+18,Green Gram (Moong),Ramkrishanpur(Howrah),2015-12-15,11000.0,2.7,22.0,clear
+19,Lentil(Masur),Ramkrishanpur(Howrah),2015-12-15,10500.0,2.0,22.0,clear
+20,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2015-12-16,16000.0,1.2,22.2,clear
+21,Bengal Gram(Gram),Ramkrishanpur(Howrah),2015-12-16,6800.0,1.0,22.2,clear
+22,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2015-12-16,14500.0,1.1,22.2,clear
+23,Green Gram (Moong),Ramkrishanpur(Howrah),2015-12-16,11000.0,3.0,22.2,clear
+24,Lentil(Masur),Ramkrishanpur(Howrah),2015-12-16,10000.0,2.2,22.2,clear
+25,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2015-12-17,16000.0,0.9,21.6,clear
+26,Bengal Gram(Gram),Ramkrishanpur(Howrah),2015-12-17,6800.0,1.1,21.6,clear
+27,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2015-12-17,14500.0,1.3,21.6,clear
+28,Green Gram (Moong),Ramkrishanpur(Howrah),2015-12-17,11000.0,2.8,21.6,clear
+29,Lentil(Masur),Ramkrishanpur(Howrah),2015-12-17,10000.0,1.8,21.6,clear
+30,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2015-12-19,16000.0,0.9,19.8,clear
+31,Bengal Gram(Gram),Ramkrishanpur(Howrah),2015-12-19,6800.0,1.4,19.8,clear
+32,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2015-12-19,14500.0,1.3,19.8,clear
+33,Green Gram (Moong),Ramkrishanpur(Howrah),2015-12-19,11000.0,3.0,19.8,clear
+34,Lentil(Masur),Ramkrishanpur(Howrah),2015-12-19,10000.0,1.6,19.8,clear
+35,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2015-12-21,16000.0,1.2,21.4,clear
+36,Bengal Gram(Gram),Ramkrishanpur(Howrah),2015-12-21,6800.0,1.3,21.4,clear
+37,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2015-12-21,14500.0,1.1,21.4,clear
+38,Green Gram (Moong),Ramkrishanpur(Howrah),2015-12-21,11000.0,2.7,21.4,clear
+39,Lentil(Masur),Ramkrishanpur(Howrah),2015-12-21,10000.0,2.2,21.4,clear
+40,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2015-12-22,16000.0,1.0,19.8,clear
+41,Bengal Gram(Gram),Ramkrishanpur(Howrah),2015-12-22,6800.0,1.2,19.8,clear
+42,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2015-12-22,14500.0,0.9,19.8,clear
+43,Green Gram (Moong),Ramkrishanpur(Howrah),2015-12-22,11000.0,2.5,19.8,clear
+44,Lentil(Masur),Ramkrishanpur(Howrah),2015-12-22,10000.0,1.8,19.8,clear
+45,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2015-12-23,16000.0,1.3,20.0,clear
+46,Bengal Gram(Gram),Ramkrishanpur(Howrah),2015-12-23,6800.0,1.1,20.0,clear
+47,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2015-12-23,14800.0,1.2,20.0,clear
+48,Green Gram (Moong),Ramkrishanpur(Howrah),2015-12-23,11000.0,3.0,20.0,clear
+49,Lentil(Masur),Ramkrishanpur(Howrah),2015-12-23,10000.0,2.1,20.0,clear
+50,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2015-12-26,16000.0,1.1,19.6,clear
+51,Bengal Gram(Gram),Ramkrishanpur(Howrah),2015-12-26,6800.0,0.9,19.6,clear
+52,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2015-12-26,14800.0,1.4,19.6,clear
+53,Green Gram (Moong),Ramkrishanpur(Howrah),2015-12-26,11000.0,3.2,19.6,clear
+54,Lentil(Masur),Ramkrishanpur(Howrah),2015-12-26,10000.0,1.8,19.6,clear
+55,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2015-12-27,16000.0,1.4,20.6,clear
+56,Bengal Gram(Gram),Ramkrishanpur(Howrah),2015-12-27,6800.0,1.2,20.6,clear
+57,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2015-12-27,14800.0,1.1,20.6,clear
+58,Green Gram (Moong),Ramkrishanpur(Howrah),2015-12-27,11000.0,2.2,20.6,clear
+59,Lentil(Masur),Ramkrishanpur(Howrah),2015-12-27,10000.0,1.9,20.6,clear
+60,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2015-12-28,16000.0,1.2,21.0,clear
+61,Bengal Gram(Gram),Ramkrishanpur(Howrah),2015-12-28,6800.0,1.0,21.0,clear
+62,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2015-12-28,14800.0,1.3,21.0,clear
+63,Green Gram (Moong),Ramkrishanpur(Howrah),2015-12-28,11000.0,0.2,21.0,clear
+64,Lentil(Masur),Ramkrishanpur(Howrah),2015-12-28,10000.0,2.2,21.0,clear
+65,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2015-12-29,16000.0,1.3,19.4,clear
+66,Bengal Gram(Gram),Ramkrishanpur(Howrah),2015-12-29,6800.0,1.1,19.4,clear
+67,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2015-12-29,14800.0,0.9,19.4,clear
+68,Green Gram (Moong),Ramkrishanpur(Howrah),2015-12-29,11000.0,2.0,19.4,clear
+69,Lentil(Masur),Ramkrishanpur(Howrah),2015-12-29,10000.0,1.7,19.4,clear
+70,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2015-12-30,16000.0,1.4,19.6,clear
+71,Bengal Gram(Gram),Ramkrishanpur(Howrah),2015-12-30,6800.0,1.2,19.6,clear
+72,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2015-12-30,14800.0,1.0,19.6,clear
+73,Green Gram (Moong),Ramkrishanpur(Howrah),2015-12-30,11000.0,2.2,19.6,clear
+74,Lentil(Masur),Ramkrishanpur(Howrah),2015-12-30,10000.0,1.8,19.6,clear
+75,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2015-12-31,16000.0,1.2,22.4,clear
+76,Bengal Gram(Gram),Ramkrishanpur(Howrah),2015-12-31,6800.0,1.3,22.4,clear
+77,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2015-12-31,14800.0,1.4,22.4,clear
+78,Green Gram (Moong),Ramkrishanpur(Howrah),2015-12-31,11000.0,2.4,22.4,clear
+79,Lentil(Masur),Ramkrishanpur(Howrah),2015-12-31,10000.0,1.5,22.4,clear
+80,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-02-01,16000.0,1.4,26.4,clear
+81,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-02-01,6800.0,1.1,26.4,clear
+82,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-02-01,14800.0,1.5,26.4,clear
+83,Green Gram (Moong),Ramkrishanpur(Howrah),2016-02-01,11000.0,2.2,26.4,clear
+84,Lentil(Masur),Ramkrishanpur(Howrah),2016-02-01,10000.0,1.0,26.4,clear
+85,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-03-01,16000.0,1.1,31.6,clear
+86,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-03-01,6800.0,1.2,31.6,clear
+87,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-03-01,14500.0,1.0,31.6,clear
+88,Green Gram (Moong),Ramkrishanpur(Howrah),2016-03-01,11000.0,2.0,31.6,clear
+89,Lentil(Masur),Ramkrishanpur(Howrah),2016-03-01,10000.0,1.5,31.6,clear
+90,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-04-01,16000.0,0.9,28.6,clear
+91,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-04-01,6800.0,1.0,28.6,clear
+92,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-04-01,14500.0,1.2,28.6,clear
+93,Green Gram (Moong),Ramkrishanpur(Howrah),2016-04-01,11000.0,1.8,28.6,clear
+94,Lentil(Masur),Ramkrishanpur(Howrah),2016-04-01,10000.0,1.6,28.6,clear
+95,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-05-01,16000.0,1.0,34.4,clear
+96,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-05-01,6800.0,0.9,34.4,clear
+97,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-05-01,14500.0,1.3,34.4,clear
+98,Green Gram (Moong),Ramkrishanpur(Howrah),2016-05-01,11000.0,1.9,34.4,clear
+99,Lentil(Masur),Ramkrishanpur(Howrah),2016-05-01,10000.0,1.3,34.4,clear
+100,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-07-01,16000.0,1.5,32.4,clear
+101,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-07-01,7000.0,1.0,32.4,clear
+102,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-07-01,14500.0,1.0,32.4,clear
+103,Green Gram (Moong),Ramkrishanpur(Howrah),2016-07-01,11500.0,1.7,32.4,clear
+104,Lentil(Masur),Ramkrishanpur(Howrah),2016-07-01,10500.0,1.2,32.4,clear
+105,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-08-01,15000.0,1.4,32.4,clear
+106,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-08-01,7000.0,1.1,32.4,clear
+107,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-08-01,14000.0,0.9,32.4,clear
+108,Green Gram (Moong),Ramkrishanpur(Howrah),2016-08-01,11300.0,2.0,32.4,clear
+109,Lentil(Masur),Ramkrishanpur(Howrah),2016-08-01,10300.0,1.4,32.4,clear
+110,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-09-01,15000.0,1.3,31.6,clear
+111,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-09-01,7000.0,1.2,31.6,clear
+112,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-09-01,14000.0,0.7,31.6,clear
+113,Green Gram (Moong),Ramkrishanpur(Howrah),2016-09-01,11300.0,1.7,31.6,clear
+114,Lentil(Masur),Ramkrishanpur(Howrah),2016-09-01,10300.0,1.2,31.6,clear
+115,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-10-01,15000.0,1.5,31.4,clear
+116,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-10-01,7000.0,1.0,31.4,clear
+117,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-10-01,14000.0,0.8,31.4,clear
+118,Green Gram (Moong),Ramkrishanpur(Howrah),2016-10-01,11300.0,1.6,31.4,clear
+119,Lentil(Masur),Ramkrishanpur(Howrah),2016-10-01,10300.0,1.1,31.4,clear
+120,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-11-01,15000.0,1.2,29.0,clear
+121,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-11-01,7000.0,1.2,29.0,clear
+122,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-11-01,14000.0,1.0,29.0,clear
+123,Green Gram (Moong),Ramkrishanpur(Howrah),2016-11-01,11300.0,1.8,29.0,clear
+124,Lentil(Masur),Ramkrishanpur(Howrah),2016-11-01,10300.0,1.3,29.0,clear
+125,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-12-01,15000.0,1.1,26.2,clear
+126,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-12-01,7000.0,1.0,26.2,clear
+127,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-12-01,14000.0,0.9,26.2,clear
+128,Green Gram (Moong),Ramkrishanpur(Howrah),2016-12-01,11300.0,1.5,26.2,clear
+129,Lentil(Masur),Ramkrishanpur(Howrah),2016-12-01,10300.0,1.0,26.2,clear
+130,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-01-13,15000.0,1.3,20.8,clear
+131,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-01-13,14000.0,1.2,20.8,clear
+132,Lentil(Masur),Ramkrishanpur(Howrah),2016-01-13,10300.0,1.5,20.8,clear
+133,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-01-14,15000.0,1.4,23.8,clear
+134,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-01-14,14000.0,1.3,23.8,clear
+135,Lentil(Masur),Ramkrishanpur(Howrah),2016-01-14,10300.0,1.2,23.8,clear
+136,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-01-16,15000.0,1.2,24.0,clear
+137,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-01-16,14000.0,1.7,24.0,clear
+138,Green Gram (Moong),Ramkrishanpur(Howrah),2016-01-16,11300.0,2.0,24.0,clear
+139,Lentil(Masur),Ramkrishanpur(Howrah),2016-01-16,10300.0,0.9,24.0,clear
+140,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-01-17,15000.0,0.8,24.4,clear
+141,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-01-17,13500.0,1.1,24.4,clear
+142,Green Gram (Moong),Ramkrishanpur(Howrah),2016-01-17,11300.0,1.6,24.4,clear
+143,Lentil(Masur),Ramkrishanpur(Howrah),2016-01-17,10300.0,1.0,24.4,clear
+144,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-01-18,15000.0,0.9,20.8,clear
+145,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-01-18,13500.0,1.3,20.8,clear
+146,Green Gram (Moong),Ramkrishanpur(Howrah),2016-01-18,11300.0,1.8,20.8,clear
+147,Lentil(Masur),Ramkrishanpur(Howrah),2016-01-18,10300.0,1.2,20.8,clear
+148,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-01-19,15000.0,1.0,25.8,clear
+149,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-01-19,13500.0,1.2,25.8,clear
+150,Green Gram (Moong),Ramkrishanpur(Howrah),2016-01-19,11300.0,1.6,25.8,clear
+151,Lentil(Masur),Ramkrishanpur(Howrah),2016-01-19,10300.0,1.1,25.8,clear
+152,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-01-21,14500.0,1.4,19.8,clear
+153,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-01-21,13500.0,1.4,19.8,clear
+154,Green Gram (Moong),Ramkrishanpur(Howrah),2016-01-21,11300.0,1.8,19.8,clear
+155,Lentil(Masur),Ramkrishanpur(Howrah),2016-01-21,10300.0,0.8,19.8,clear
+156,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-01-22,14500.0,1.1,20.2,clear
+157,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-01-22,13500.0,1.5,20.2,clear
+158,Green Gram (Moong),Ramkrishanpur(Howrah),2016-01-22,11300.0,2.0,20.2,clear
+159,Lentil(Masur),Ramkrishanpur(Howrah),2016-01-22,10300.0,1.0,20.2,clear
+160,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-01-23,14500.0,1.3,19.2,clear
+161,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-01-23,13500.0,1.5,19.2,clear
+162,Green Gram (Moong),Ramkrishanpur(Howrah),2016-01-23,11300.0,2.2,19.2,clear
+163,Lentil(Masur),Ramkrishanpur(Howrah),2016-01-23,10300.0,0.8,19.2,clear
+164,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-01-24,14500.0,0.8,19.4,clear
+165,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-01-24,7000.0,1.0,19.4,clear
+166,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-01-24,13500.0,1.1,19.4,clear
+167,Green Gram (Moong),Ramkrishanpur(Howrah),2016-01-24,11300.0,1.7,19.4,clear
+168,Lentil(Masur),Ramkrishanpur(Howrah),2016-01-24,10300.0,0.7,19.4,clear
+169,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-01-25,14500.0,1.0,19.8,clear
+170,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-01-25,7000.0,0.9,19.8,clear
+171,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-01-25,13500.0,1.3,19.8,clear
+172,Green Gram (Moong),Ramkrishanpur(Howrah),2016-01-25,11300.0,2.1,19.8,clear
+173,Lentil(Masur),Ramkrishanpur(Howrah),2016-01-25,10300.0,0.9,19.8,clear
+174,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-01-26,14500.0,0.9,19.0,clear
+175,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-01-26,7000.0,0.7,19.0,clear
+176,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-01-26,13500.0,1.4,19.0,clear
+177,Green Gram (Moong),Ramkrishanpur(Howrah),2016-01-26,11300.0,2.0,19.0,clear
+178,Lentil(Masur),Ramkrishanpur(Howrah),2016-01-26,10300.0,0.7,19.0,clear
+179,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-01-27,14500.0,1.1,19.4,clear
+180,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-01-27,7000.0,1.0,19.4,clear
+181,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-01-27,13500.0,1.2,19.4,clear
+182,Green Gram (Moong),Ramkrishanpur(Howrah),2016-01-27,11300.0,2.3,19.4,clear
+183,Lentil(Masur),Ramkrishanpur(Howrah),2016-01-27,10300.0,0.8,19.4,clear
+184,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-01-28,14500.0,1.4,24.0,clear
+185,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-01-28,7000.0,1.2,24.0,clear
+186,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-01-28,13500.0,1.5,24.0,clear
+187,Green Gram (Moong),Ramkrishanpur(Howrah),2016-01-28,11300.0,2.2,24.0,clear
+188,Lentil(Masur),Ramkrishanpur(Howrah),2016-01-28,10300.0,0.6,24.0,clear
+189,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-01-29,14500.0,0.8,23.6,clear
+190,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-01-29,7000.0,1.0,23.6,clear
+191,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-01-29,13500.0,1.1,23.6,clear
+192,Green Gram (Moong),Ramkrishanpur(Howrah),2016-01-29,11300.0,1.8,23.6,clear
+193,Lentil(Masur),Ramkrishanpur(Howrah),2016-01-29,10300.0,1.2,23.6,clear
+194,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-01-31,14500.0,0.7,28.0,clear
+195,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-01-31,7000.0,0.9,28.0,clear
+196,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-01-31,13500.0,0.8,28.0,clear
+197,Green Gram (Moong),Ramkrishanpur(Howrah),2016-01-31,11300.0,1.5,28.0,clear
+198,Lentil(Masur),Ramkrishanpur(Howrah),2016-01-31,10300.0,1.1,28.0,clear
+199,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-01-02,14500.0,1.0,21.8,clear
+200,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-01-02,7000.0,0.8,21.8,clear
+201,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-01-02,13500.0,0.9,21.8,clear
+202,Green Gram (Moong),Ramkrishanpur(Howrah),2016-01-02,11300.0,1.9,21.8,clear
+203,Lentil(Masur),Ramkrishanpur(Howrah),2016-01-02,10300.0,1.0,21.8,clear
+204,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-02-02,14500.0,0.9,27.0,clear
+205,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-02-02,7000.0,1.1,27.0,clear
+206,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-02-02,13500.0,1.4,27.0,clear
+207,Green Gram (Moong),Ramkrishanpur(Howrah),2016-02-02,11300.0,2.0,27.0,clear
+208,Lentil(Masur),Ramkrishanpur(Howrah),2016-02-02,10300.0,0.7,27.0,clear
+209,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-03-02,14500.0,0.7,25.6,clear
+210,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-03-02,7000.0,0.8,25.6,clear
+211,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-03-02,13500.0,1.0,25.6,clear
+212,Green Gram (Moong),Ramkrishanpur(Howrah),2016-03-02,11300.0,1.8,25.6,clear
+213,Lentil(Masur),Ramkrishanpur(Howrah),2016-03-02,10300.0,0.6,25.6,clear
+214,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-04-02,14500.0,1.0,28.4,clear
+215,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-04-02,7000.0,1.3,28.4,clear
+216,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-04-02,13500.0,1.3,28.4,clear
+217,Green Gram (Moong),Ramkrishanpur(Howrah),2016-04-02,11300.0,2.2,28.4,clear
+218,Lentil(Masur),Ramkrishanpur(Howrah),2016-04-02,10300.0,0.8,28.4,clear
+219,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-05-02,14500.0,0.8,33.0,clear
+220,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-05-02,7000.0,1.1,33.0,clear
+221,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-05-02,13500.0,0.9,33.0,clear
+222,Green Gram (Moong),Ramkrishanpur(Howrah),2016-05-02,11300.0,1.6,33.0,clear
+223,Lentil(Masur),Ramkrishanpur(Howrah),2016-05-02,10300.0,1.0,33.0,clear
+224,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-06-02,14500.0,1.1,34.4,clear
+225,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-06-02,7000.0,1.2,34.4,clear
+226,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-06-02,13500.0,1.5,34.4,clear
+227,Green Gram (Moong),Ramkrishanpur(Howrah),2016-06-02,11300.0,1.8,34.4,clear
+228,Lentil(Masur),Ramkrishanpur(Howrah),2016-06-02,10300.0,0.7,34.4,clear
+229,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-07-02,14500.0,0.8,29.8,clear
+230,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-07-02,7000.0,0.7,29.8,clear
+231,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-07-02,13500.0,1.1,29.8,clear
+232,Green Gram (Moong),Ramkrishanpur(Howrah),2016-07-02,11300.0,1.7,29.8,clear
+233,Lentil(Masur),Ramkrishanpur(Howrah),2016-07-02,10300.0,0.9,29.8,clear
+234,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-08-02,14500.0,0.7,28.8,clear
+235,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-08-02,7000.0,0.9,28.8,clear
+236,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-08-02,13500.0,1.0,28.8,clear
+237,Green Gram (Moong),Ramkrishanpur(Howrah),2016-08-02,11300.0,1.4,28.8,clear
+238,Lentil(Masur),Ramkrishanpur(Howrah),2016-08-02,10300.0,1.1,28.8,clear
+239,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-09-02,14500.0,0.9,31.4,clear
+240,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-09-02,7000.0,1.0,31.4,clear
+241,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-09-02,13500.0,1.3,31.4,clear
+242,Green Gram (Moong),Ramkrishanpur(Howrah),2016-09-02,11300.0,1.5,31.4,clear
+243,Lentil(Masur),Ramkrishanpur(Howrah),2016-09-02,10300.0,0.8,31.4,clear
+244,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-10-02,14500.0,1.0,32.4,clear
+245,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-10-02,7000.0,0.8,32.4,clear
+246,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-10-02,13500.0,1.0,32.4,clear
+247,Green Gram (Moong),Ramkrishanpur(Howrah),2016-10-02,11300.0,2.0,32.4,clear
+248,Lentil(Masur),Ramkrishanpur(Howrah),2016-10-02,10300.0,1.0,32.4,clear
+249,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-11-02,14500.0,1.2,28.8,clear
+250,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-11-02,7000.0,0.6,28.8,clear
+251,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-02-18,14500.0,1.0,31.0,clear
+252,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-02-18,7000.0,1.2,31.0,clear
+253,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-02-18,13500.0,1.3,31.0,clear
+254,Green Gram (Moong),Ramkrishanpur(Howrah),2016-02-18,11300.0,1.5,31.0,clear
+255,Lentil(Masur),Ramkrishanpur(Howrah),2016-02-18,10300.0,0.6,31.0,clear
+256,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-02-19,14500.0,1.1,31.6,clear
+257,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-02-19,7000.0,1.4,31.6,clear
+258,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-02-22,14500.0,1.3,31.0,clear
+259,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-02-22,7000.0,1.1,31.0,clear
+260,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-02-22,13500.0,0.9,31.0,clear
+261,Green Gram (Moong),Ramkrishanpur(Howrah),2016-02-22,11300.0,1.4,31.0,clear
+262,Lentil(Masur),Ramkrishanpur(Howrah),2016-02-22,10300.0,0.6,31.0,clear
+263,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-02-24,14300.0,0.9,27.0,clear
+264,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-02-24,7000.0,1.3,27.0,clear
+265,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-02-24,13000.0,0.8,27.0,clear
+266,Green Gram (Moong),Ramkrishanpur(Howrah),2016-02-24,11300.0,1.3,27.0,clear
+267,Lentil(Masur),Ramkrishanpur(Howrah),2016-02-24,9500.0,1.4,27.0,clear
+268,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-02-25,14300.0,1.1,23.8,clear
+269,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-02-25,7000.0,0.9,23.8,clear
+270,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-02-26,14300.0,0.7,24.2,clear
+271,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-02-26,7000.0,1.0,24.2,clear
+272,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-02-26,13000.0,1.1,24.2,clear
+273,Green Gram (Moong),Ramkrishanpur(Howrah),2016-02-26,11300.0,1.6,24.2,clear
+274,Lentil(Masur),Ramkrishanpur(Howrah),2016-02-26,9500.0,1.0,24.2,clear
+275,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-02-27,14300.0,1.0,24.6,clear
+276,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-02-27,7000.0,1.2,24.6,clear
+277,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-02-27,13000.0,1.4,24.6,clear
+278,Green Gram (Moong),Ramkrishanpur(Howrah),2016-02-27,11300.0,1.7,24.6,clear
+279,Lentil(Masur),Ramkrishanpur(Howrah),2016-02-27,9500.0,0.8,24.6,clear
+280,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-02-28,14300.0,0.6,27.0,clear
+281,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-02-28,7000.0,1.1,27.0,clear
+282,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-02-28,13000.0,0.8,27.0,clear
+283,Green Gram (Moong),Ramkrishanpur(Howrah),2016-02-28,11300.0,1.2,27.0,clear
+284,Lentil(Masur),Ramkrishanpur(Howrah),2016-02-28,9500.0,0.9,27.0,clear
+285,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-02-29,14300.0,0.8,31.4,clear
+286,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-02-29,7000.0,0.9,31.4,clear
+287,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-02-29,13000.0,1.0,31.4,clear
+288,Green Gram (Moong),Ramkrishanpur(Howrah),2016-02-29,11300.0,1.5,31.4,clear
+289,Lentil(Masur),Ramkrishanpur(Howrah),2016-02-29,9500.0,1.0,31.4,clear
+290,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-01-03,14300.0,0.9,19.4,clear
+291,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-01-03,7000.0,1.0,19.4,clear
+292,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-01-03,13000.0,1.3,19.4,clear
+293,Green Gram (Moong),Ramkrishanpur(Howrah),2016-01-03,11300.0,1.6,19.4,clear
+294,Lentil(Masur),Ramkrishanpur(Howrah),2016-01-03,9500.0,0.7,19.4,clear
+295,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-02-03,14300.0,0.7,27.4,clear
+296,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-02-03,7000.0,0.8,27.4,clear
+297,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-02-03,13000.0,0.9,27.4,clear
+298,Green Gram (Moong),Ramkrishanpur(Howrah),2016-02-03,11300.0,1.3,27.4,clear
+299,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-03-03,14300.0,1.1,30.4,clear
+300,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-03-03,7000.0,1.2,30.4,clear
+301,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-03-03,13000.0,1.4,30.4,clear
+302,Green Gram (Moong),Ramkrishanpur(Howrah),2016-03-03,11300.0,1.4,30.4,clear
+303,Lentil(Masur),Ramkrishanpur(Howrah),2016-03-03,9500.0,0.6,30.4,clear
+304,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-04-03,14300.0,0.8,28.0,clear
+305,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-04-03,7000.0,1.0,28.0,clear
+306,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-04-03,13000.0,0.8,28.0,clear
+307,Green Gram (Moong),Ramkrishanpur(Howrah),2016-04-03,11300.0,1.3,28.0,clear
+308,Lentil(Masur),Ramkrishanpur(Howrah),2016-04-03,9500.0,1.1,28.0,clear
+309,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-05-03,14300.0,0.7,32.2,clear
+310,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-05-03,7000.0,1.1,32.2,clear
+311,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-05-03,13000.0,1.3,32.2,clear
+312,Green Gram (Moong),Ramkrishanpur(Howrah),2016-05-03,11300.0,1.8,32.2,clear
+313,Lentil(Masur),Ramkrishanpur(Howrah),2016-05-03,9500.0,0.6,32.2,clear
+314,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-06-03,14300.0,0.8,34.0,clear
+315,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-06-03,7000.0,1.0,34.0,clear
+316,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-06-03,13000.0,1.2,34.0,clear
+317,Green Gram (Moong),Ramkrishanpur(Howrah),2016-06-03,11300.0,1.7,34.0,clear
+318,Lentil(Masur),Ramkrishanpur(Howrah),2016-06-03,9500.0,0.7,34.0,clear
+319,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-07-03,14300.0,1.5,27.0,clear
+320,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-07-03,7000.0,1.4,27.0,clear
+321,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-07-03,13000.0,0.7,27.0,clear
+322,Green Gram (Moong),Ramkrishanpur(Howrah),2016-07-03,11300.0,2.0,27.0,clear
+323,Lentil(Masur),Ramkrishanpur(Howrah),2016-07-03,9500.0,0.6,27.0,clear
+324,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-08-03,14300.0,1.4,31.4,clear
+325,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-08-03,7000.0,1.2,31.4,clear
+326,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-08-03,13000.0,0.9,31.4,clear
+327,Green Gram (Moong),Ramkrishanpur(Howrah),2016-08-03,11300.0,2.2,31.4,clear
+328,Lentil(Masur),Ramkrishanpur(Howrah),2016-08-03,9500.0,0.7,31.4,clear
+329,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-09-03,14300.0,0.6,31.6,clear
+330,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-09-03,7000.0,0.9,31.6,clear
+331,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-09-03,13000.0,0.7,31.6,clear
+332,Green Gram (Moong),Ramkrishanpur(Howrah),2016-09-03,11300.0,1.5,31.6,clear
+333,Lentil(Masur),Ramkrishanpur(Howrah),2016-09-03,9500.0,1.2,31.6,clear
+334,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-10-03,14000.0,0.8,31.8,clear
+335,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-10-03,7000.0,1.0,31.8,clear
+336,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-10-03,13000.0,1.3,31.8,clear
+337,Green Gram (Moong),Ramkrishanpur(Howrah),2016-10-03,11300.0,0.9,31.8,clear
+338,Lentil(Masur),Ramkrishanpur(Howrah),2016-10-03,9500.0,0.9,31.8,clear
+339,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-11-03,14000.0,1.0,28.8,clear
+340,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-11-03,7000.0,1.3,28.8,clear
+341,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-11-03,13000.0,1.0,28.8,clear
+342,Green Gram (Moong),Ramkrishanpur(Howrah),2016-11-03,11300.0,1.7,28.8,clear
+343,Lentil(Masur),Ramkrishanpur(Howrah),2016-11-03,9500.0,1.1,28.8,clear
+344,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-12-03,14000.0,1.2,26.6,clear
+345,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-12-03,7000.0,1.4,26.6,clear
+346,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-12-03,13000.0,1.2,26.6,clear
+347,Green Gram (Moong),Ramkrishanpur(Howrah),2016-12-03,11300.0,2.0,26.6,clear
+348,Lentil(Masur),Ramkrishanpur(Howrah),2016-12-03,9500.0,0.8,26.6,clear
+349,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-03-13,14000.0,0.9,33.0,clear
+350,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-03-13,7000.0,1.2,33.0,clear
+351,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-03-13,13000.0,1.0,33.0,clear
+352,Green Gram (Moong),Ramkrishanpur(Howrah),2016-03-13,11300.0,1.2,33.0,clear
+353,Lentil(Masur),Ramkrishanpur(Howrah),2016-03-13,9500.0,0.7,33.0,clear
+354,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-03-14,14000.0,0.8,28.6,clear
+355,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-03-14,7000.0,1.0,28.6,clear
+356,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-03-14,13000.0,0.9,28.6,clear
+357,Green Gram (Moong),Ramkrishanpur(Howrah),2016-03-14,11300.0,1.5,28.6,clear
+358,Lentil(Masur),Ramkrishanpur(Howrah),2016-03-14,9500.0,0.8,28.6,clear
+359,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-03-15,11500.0,1.0,30.0,clear
+360,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-03-15,7000.0,1.3,30.0,clear
+361,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-03-15,12000.0,1.4,30.0,clear
+362,Green Gram (Moong),Ramkrishanpur(Howrah),2016-03-15,11000.0,1.7,30.0,clear
+363,Lentil(Masur),Ramkrishanpur(Howrah),2016-03-15,9300.0,0.9,30.0,clear
+364,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-03-16,11500.0,1.2,31.4,clear
+365,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-03-16,6600.0,1.4,31.4,clear
+366,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-03-16,12000.0,1.0,31.4,clear
+367,Green Gram (Moong),Ramkrishanpur(Howrah),2016-03-16,11000.0,1.8,31.4,clear
+368,Lentil(Masur),Ramkrishanpur(Howrah),2016-03-16,9300.0,1.1,31.4,clear
+369,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-03-17,11500.0,1.1,31.4,clear
+370,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-03-17,6600.0,1.5,31.4,clear
+371,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-03-17,12000.0,1.6,31.4,clear
+372,Green Gram (Moong),Ramkrishanpur(Howrah),2016-03-17,11000.0,2.0,31.4,clear
+373,Lentil(Masur),Ramkrishanpur(Howrah),2016-03-17,9300.0,0.8,31.4,clear
+374,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-03-18,11500.0,0.9,31.6,clear
+375,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-03-18,6600.0,1.2,31.6,clear
+376,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-03-18,12000.0,0.8,31.6,clear
+377,Green Gram (Moong),Ramkrishanpur(Howrah),2016-03-18,11000.0,1.6,31.6,clear
+378,Lentil(Masur),Ramkrishanpur(Howrah),2016-03-18,9300.0,1.2,31.6,clear
+379,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-03-23,11500.0,0.5,33.0,clear
+380,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-03-23,6600.0,0.6,33.0,clear
+381,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-03-23,12000.0,0.8,33.0,clear
+382,Green Gram (Moong),Ramkrishanpur(Howrah),2016-03-23,11000.0,1.1,33.0,clear
+383,Lentil(Masur),Ramkrishanpur(Howrah),2016-03-23,9300.0,1.0,33.0,clear
+384,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-03-24,11500.0,0.6,33.4,clear
+385,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-03-24,6600.0,0.7,33.4,clear
+386,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-03-24,12000.0,1.0,33.4,clear
+387,Green Gram (Moong),Ramkrishanpur(Howrah),2016-03-24,11000.0,1.0,33.4,clear
+388,Lentil(Masur),Ramkrishanpur(Howrah),2016-03-24,9300.0,1.2,33.4,clear
+389,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-03-25,11500.0,0.8,33.6,clear
+390,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-03-25,6600.0,1.2,33.6,clear
+391,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-03-25,12000.0,1.0,33.6,clear
+392,Green Gram (Moong),Ramkrishanpur(Howrah),2016-03-25,11000.0,1.5,33.6,clear
+393,Lentil(Masur),Ramkrishanpur(Howrah),2016-03-25,9300.0,1.2,33.6,clear
+394,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-03-28,11500.0,0.6,30.8,clear
+395,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-03-28,6400.0,0.9,30.8,clear
+396,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-03-28,12000.0,0.8,30.8,clear
+397,Green Gram (Moong),Ramkrishanpur(Howrah),2016-03-28,11000.0,1.3,30.8,clear
+398,Lentil(Masur),Ramkrishanpur(Howrah),2016-03-28,9300.0,1.4,30.8,clear
+399,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-03-30,11500.0,0.5,30.0,clear
+400,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-03-30,6400.0,0.8,30.0,clear
+401,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-03-30,12000.0,1.0,30.0,clear
+402,Green Gram (Moong),Ramkrishanpur(Howrah),2016-03-30,11000.0,1.7,30.0,clear
+403,Lentil(Masur),Ramkrishanpur(Howrah),2016-03-30,9300.0,1.3,30.0,clear
+404,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-03-31,11500.0,0.8,29.6,clear
+405,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-03-31,6400.0,1.4,29.6,clear
+406,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-03-31,12000.0,1.5,29.6,clear
+407,Green Gram (Moong),Ramkrishanpur(Howrah),2016-03-31,11000.0,1.6,29.6,clear
+408,Lentil(Masur),Ramkrishanpur(Howrah),2016-03-31,9300.0,0.6,29.6,clear
+409,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-01-05,11500.0,0.6,23.8,clear
+410,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-01-05,5800.0,0.7,23.8,clear
+411,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-01-05,11800.0,1.0,23.8,clear
+412,Green Gram (Moong),Ramkrishanpur(Howrah),2016-01-05,11000.0,1.1,23.8,clear
+413,Lentil(Masur),Ramkrishanpur(Howrah),2016-01-05,9300.0,0.9,23.8,clear
+414,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-05-05,13000.0,0.4,33.0,clear
+415,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-05-05,6000.0,0.6,33.0,clear
+416,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-05-05,13800.0,0.5,33.0,clear
+417,Green Gram (Moong),Ramkrishanpur(Howrah),2016-05-05,11000.0,1.5,33.0,clear
+418,Lentil(Masur),Ramkrishanpur(Howrah),2016-05-05,9400.0,0.9,33.0,clear
+419,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-06-05,13000.0,0.3,29.0,clear
+420,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-06-05,6000.0,0.7,29.0,clear
+421,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-06-05,13800.0,0.6,29.0,clear
+422,Green Gram (Moong),Ramkrishanpur(Howrah),2016-06-05,11000.0,1.4,29.0,clear
+423,Lentil(Masur),Ramkrishanpur(Howrah),2016-06-05,9400.0,1.0,29.0,clear
+424,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-07-05,13000.0,0.4,27.8,clear
+425,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-07-05,6000.0,0.5,27.8,clear
+426,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-07-05,13800.0,0.4,27.8,clear
+427,Green Gram (Moong),Ramkrishanpur(Howrah),2016-07-05,11000.0,1.2,27.8,clear
+428,Lentil(Masur),Ramkrishanpur(Howrah),2016-07-05,9400.0,0.5,27.8,clear
+429,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-08-05,13000.0,0.5,31.4,clear
+430,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-08-05,6000.0,0.8,31.4,clear
+431,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-08-05,13800.0,0.5,31.4,clear
+432,Green Gram (Moong),Ramkrishanpur(Howrah),2016-08-05,11000.0,1.0,31.4,clear
+433,Lentil(Masur),Ramkrishanpur(Howrah),2016-08-05,9400.0,0.6,31.4,clear
+434,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-09-05,13200.0,0.3,31.6,clear
+435,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-09-05,6500.0,0.6,31.6,clear
+436,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-09-05,14500.0,0.4,31.6,clear
+437,Green Gram (Moong),Ramkrishanpur(Howrah),2016-09-05,12000.0,1.3,31.6,clear
+438,Lentil(Masur),Ramkrishanpur(Howrah),2016-09-05,9500.0,0.8,31.6,clear
+439,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-10-05,13200.0,0.4,31.6,clear
+440,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-10-05,6500.0,0.5,31.6,clear
+441,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-10-05,14500.0,0.6,31.6,clear
+442,Green Gram (Moong),Ramkrishanpur(Howrah),2016-10-05,12000.0,1.4,31.6,clear
+443,Lentil(Masur),Ramkrishanpur(Howrah),2016-10-05,9500.0,0.6,31.6,clear
+444,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-11-05,13200.0,0.5,27.0,clear
+445,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-11-05,6500.0,0.6,27.0,clear
+446,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-11-05,14500.0,0.4,27.0,clear
+447,Green Gram (Moong),Ramkrishanpur(Howrah),2016-11-05,12000.0,1.5,27.0,clear
+448,Lentil(Masur),Ramkrishanpur(Howrah),2016-11-05,9500.0,0.7,27.0,clear
+449,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-12-05,13200.0,0.4,25.8,clear
+450,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-12-05,6500.0,0.5,25.8,clear
+451,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-12-05,14500.0,0.5,25.8,clear
+452,Green Gram (Moong),Ramkrishanpur(Howrah),2016-12-05,12000.0,1.6,25.8,clear
+453,Lentil(Masur),Ramkrishanpur(Howrah),2016-12-05,9500.0,0.5,25.8,clear
+454,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-05-13,13200.0,0.3,34.6,clear
+455,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-05-13,6500.0,0.7,34.6,clear
+456,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-05-13,14500.0,0.6,34.6,clear
+457,Green Gram (Moong),Ramkrishanpur(Howrah),2016-05-13,12000.0,1.7,34.6,clear
+458,Lentil(Masur),Ramkrishanpur(Howrah),2016-05-13,9500.0,0.6,34.6,clear
+459,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-05-14,13200.0,0.5,34.8,clear
+460,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-05-14,6500.0,0.8,34.8,clear
+461,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-05-14,14500.0,0.8,34.8,clear
+462,Green Gram (Moong),Ramkrishanpur(Howrah),2016-05-14,12000.0,1.6,34.8,clear
+463,Lentil(Masur),Ramkrishanpur(Howrah),2016-05-14,9500.0,0.5,34.8,clear
+464,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-05-15,13200.0,0.3,35.0,clear
+465,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-05-15,6500.0,0.4,35.0,clear
+466,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-05-15,14500.0,0.3,35.0,clear
+467,Green Gram (Moong),Ramkrishanpur(Howrah),2016-05-15,12000.0,1.4,35.0,clear
+468,Lentil(Masur),Ramkrishanpur(Howrah),2016-05-15,9500.0,0.4,35.0,clear
+469,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-05-16,13200.0,0.5,31.4,clear
+470,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-05-16,6500.0,0.5,31.4,clear
+471,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-05-16,14600.0,0.6,31.4,clear
+472,Green Gram (Moong),Ramkrishanpur(Howrah),2016-05-16,12000.0,1.8,31.4,clear
+473,Lentil(Masur),Ramkrishanpur(Howrah),2016-05-16,9500.0,0.6,31.4,clear
+474,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-05-17,13200.0,0.6,34.4,clear
+475,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-05-17,6600.0,0.8,34.4,clear
+476,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-05-17,14600.0,0.7,34.4,clear
+477,Green Gram (Moong),Ramkrishanpur(Howrah),2016-05-17,12000.0,2.0,34.4,clear
+478,Lentil(Masur),Ramkrishanpur(Howrah),2016-05-17,9500.0,0.4,34.4,clear
+479,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-05-18,13200.0,0.3,33.0,clear
+480,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-05-18,6600.0,0.4,33.0,clear
+481,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-05-18,14600.0,0.5,33.0,clear
+482,Green Gram (Moong),Ramkrishanpur(Howrah),2016-05-18,12000.0,1.5,33.0,clear
+483,Lentil(Masur),Ramkrishanpur(Howrah),2016-05-18,9500.0,0.7,33.0,clear
+484,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-05-19,13200.0,0.2,31.6,clear
+485,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-05-19,6600.0,0.3,31.6,clear
+486,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-05-19,14600.0,0.6,31.6,clear
+487,Green Gram (Moong),Ramkrishanpur(Howrah),2016-05-19,12000.0,1.3,31.6,clear
+488,Lentil(Masur),Ramkrishanpur(Howrah),2016-05-19,9500.0,0.4,31.6,clear
+489,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-05-20,13200.0,0.3,27.8,clear
+490,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-05-20,6600.0,0.5,27.8,clear
+491,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-05-20,14600.0,0.5,27.8,clear
+492,Green Gram (Moong),Ramkrishanpur(Howrah),2016-05-20,12000.0,1.5,27.8,clear
+493,Lentil(Masur),Ramkrishanpur(Howrah),2016-05-20,9500.0,0.6,27.8,clear
+494,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-05-21,13200.0,0.5,31.0,clear
+495,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-05-21,6600.0,0.4,31.0,clear
+496,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-05-21,14600.0,0.8,31.0,clear
+497,Green Gram (Moong),Ramkrishanpur(Howrah),2016-05-21,12000.0,1.4,31.0,clear
+498,Lentil(Masur),Ramkrishanpur(Howrah),2016-05-21,9500.0,0.4,31.0,clear
+499,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-05-22,13200.0,0.1,31.8,clear
+500,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-05-22,6600.0,0.2,31.8,clear
+501,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-05-22,14600.0,0.4,31.8,clear
+502,Green Gram (Moong),Ramkrishanpur(Howrah),2016-05-22,12000.0,1.0,31.8,clear
+503,Lentil(Masur),Ramkrishanpur(Howrah),2016-05-22,9500.0,0.3,31.8,clear
+504,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-05-23,13200.0,0.2,32.0,clear
+505,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-05-23,7000.0,0.4,32.0,clear
+506,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-05-23,15000.0,0.7,32.0,clear
+507,Green Gram (Moong),Ramkrishanpur(Howrah),2016-05-23,12000.0,1.4,32.0,clear
+508,Lentil(Masur),Ramkrishanpur(Howrah),2016-05-23,9500.0,0.5,32.0,clear
+509,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-05-24,13200.0,0.4,32.0,clear
+510,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-05-24,7000.0,0.5,32.0,clear
+511,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-05-24,15000.0,0.8,32.0,clear
+512,Green Gram (Moong),Ramkrishanpur(Howrah),2016-05-24,12000.0,1.3,32.0,clear
+513,Lentil(Masur),Ramkrishanpur(Howrah),2016-05-24,9500.0,0.3,32.0,clear
+514,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-05-25,13200.0,0.3,33.6,clear
+515,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-05-25,7000.0,0.6,33.6,clear
+516,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-05-25,15000.0,0.6,33.6,clear
+517,Green Gram (Moong),Ramkrishanpur(Howrah),2016-05-25,12000.0,1.2,33.6,clear
+518,Lentil(Masur),Ramkrishanpur(Howrah),2016-05-25,9500.0,0.4,33.6,clear
+519,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-05-26,13200.0,0.4,34.4,clear
+520,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-05-26,7000.0,0.7,34.4,clear
+521,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-05-26,15000.0,0.8,34.4,clear
+522,Green Gram (Moong),Ramkrishanpur(Howrah),2016-05-26,12000.0,1.3,34.4,clear
+523,Lentil(Masur),Ramkrishanpur(Howrah),2016-05-26,9500.0,0.3,34.4,clear
+524,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-05-27,13200.0,0.3,33.4,clear
+525,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-05-27,7000.0,0.5,33.4,clear
+526,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-05-27,15000.0,0.5,33.4,clear
+527,Green Gram (Moong),Ramkrishanpur(Howrah),2016-05-27,12000.0,1.4,33.4,clear
+528,Lentil(Masur),Ramkrishanpur(Howrah),2016-05-27,9500.0,0.6,33.4,clear
+529,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-05-28,13200.0,0.7,33.0,clear
+530,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-05-28,7000.0,0.5,33.0,clear
+531,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-05-28,15000.0,0.5,33.0,clear
+532,Green Gram (Moong),Ramkrishanpur(Howrah),2016-05-28,12000.0,1.4,33.0,clear
+533,Lentil(Masur),Ramkrishanpur(Howrah),2016-05-28,9500.0,0.6,33.0,clear
+534,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-05-29,13200.0,0.1,34.8,clear
+535,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-05-29,7000.0,0.4,34.8,clear
+536,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-05-29,15000.0,0.2,34.8,clear
+537,Green Gram (Moong),Ramkrishanpur(Howrah),2016-05-29,12000.0,0.6,34.8,clear
+538,Lentil(Masur),Ramkrishanpur(Howrah),2016-05-29,9500.0,0.4,34.8,clear
+539,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-05-30,13200.0,0.2,31.4,clear
+540,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-05-30,7000.0,0.3,31.4,clear
+541,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-05-30,15000.0,0.5,31.4,clear
+542,Green Gram (Moong),Ramkrishanpur(Howrah),2016-05-30,12000.0,1.2,31.4,clear
+543,Lentil(Masur),Ramkrishanpur(Howrah),2016-05-30,9500.0,0.8,31.4,clear
+544,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-05-31,13200.0,0.3,33.2,clear
+545,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-05-31,7000.0,0.5,33.2,clear
+546,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-05-31,15000.0,0.7,33.2,clear
+547,Green Gram (Moong),Ramkrishanpur(Howrah),2016-05-31,12000.0,1.4,33.2,clear
+548,Lentil(Masur),Ramkrishanpur(Howrah),2016-05-31,9500.0,0.5,33.2,clear
+549,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-01-06,13200.0,0.4,23.0,clear
+550,Lentil(Masur),Ramkrishanpur(Howrah),2016-01-06,9500.0,0.7,23.0,clear
+551,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-02-06,13200.0,0.5,25.0,clear
+552,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-02-06,15000.0,0.8,25.0,clear
+553,Lentil(Masur),Ramkrishanpur(Howrah),2016-02-06,9500.0,0.3,25.0,clear
+554,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-03-06,13200.0,0.3,30.4,clear
+555,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-03-06,15000.0,0.6,30.4,clear
+556,Green Gram (Moong),Ramkrishanpur(Howrah),2016-03-06,12000.0,1.5,30.4,clear
+557,Lentil(Masur),Ramkrishanpur(Howrah),2016-03-06,9500.0,0.5,30.4,clear
+558,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-04-06,13200.0,0.5,34.4,clear
+559,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-04-06,15000.0,0.8,34.4,clear
+560,Green Gram (Moong),Ramkrishanpur(Howrah),2016-04-06,12000.0,1.2,34.4,clear
+561,Lentil(Masur),Ramkrishanpur(Howrah),2016-04-06,9500.0,0.2,34.4,clear
+562,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-05-06,13200.0,0.2,32.4,clear
+563,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-05-06,15000.0,0.4,32.4,clear
+564,Green Gram (Moong),Ramkrishanpur(Howrah),2016-05-06,12000.0,0.9,32.4,clear
+565,Lentil(Masur),Ramkrishanpur(Howrah),2016-05-06,9500.0,0.2,32.4,clear
+566,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-06-06,13200.0,0.3,29.2,clear
+567,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-06-06,15000.0,0.7,29.2,clear
+568,Green Gram (Moong),Ramkrishanpur(Howrah),2016-06-06,12000.0,1.3,29.2,clear
+569,Lentil(Masur),Ramkrishanpur(Howrah),2016-06-06,9500.0,0.4,29.2,clear
+570,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-07-06,13200.0,0.4,31.4,clear
+571,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-07-06,15000.0,0.9,31.4,clear
+572,Green Gram (Moong),Ramkrishanpur(Howrah),2016-07-06,12000.0,1.2,31.4,clear
+573,Lentil(Masur),Ramkrishanpur(Howrah),2016-07-06,9500.0,0.3,31.4,clear
+574,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-08-06,13200.0,0.5,29.8,clear
+575,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-08-06,15000.0,0.6,29.8,clear
+576,Green Gram (Moong),Ramkrishanpur(Howrah),2016-08-06,12000.0,1.0,29.8,clear
+577,Lentil(Masur),Ramkrishanpur(Howrah),2016-08-06,9500.0,0.6,29.8,clear
+578,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-09-06,13200.0,0.6,27.8,clear
+579,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-09-06,15000.0,0.7,27.8,clear
+580,Green Gram (Moong),Ramkrishanpur(Howrah),2016-09-06,12000.0,1.2,27.8,clear
+581,Lentil(Masur),Ramkrishanpur(Howrah),2016-09-06,9500.0,0.3,27.8,clear
+582,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-10-06,13200.0,0.2,29.6,clear
+583,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-10-06,15000.0,0.4,29.6,clear
+584,Green Gram (Moong),Ramkrishanpur(Howrah),2016-10-06,12000.0,1.4,29.6,clear
+585,Lentil(Masur),Ramkrishanpur(Howrah),2016-10-06,9500.0,0.2,29.6,clear
+586,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-11-06,13000.0,0.5,28.8,clear
+587,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-11-06,15000.0,0.9,28.8,clear
+588,Green Gram (Moong),Ramkrishanpur(Howrah),2016-11-06,12000.0,1.5,28.8,clear
+589,Lentil(Masur),Ramkrishanpur(Howrah),2016-11-06,9500.0,0.3,28.8,clear
+590,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-12-06,13000.0,0.2,24.0,clear
+591,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-12-06,15000.0,0.3,24.0,clear
+592,Green Gram (Moong),Ramkrishanpur(Howrah),2016-12-06,12000.0,0.7,24.0,clear
+593,Lentil(Masur),Ramkrishanpur(Howrah),2016-12-06,9500.0,0.2,24.0,clear
+594,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-06-13,13000.0,0.3,26.4,clear
+595,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-06-13,15000.0,0.6,26.4,clear
+596,Green Gram (Moong),Ramkrishanpur(Howrah),2016-06-13,12000.0,1.2,26.4,clear
+597,Lentil(Masur),Ramkrishanpur(Howrah),2016-06-13,9500.0,0.4,26.4,clear
+598,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-06-14,13000.0,0.4,31.2,clear
+599,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-06-14,15000.0,0.7,31.2,clear
+600,Green Gram (Moong),Ramkrishanpur(Howrah),2016-06-14,12000.0,1.4,31.2,clear
+601,Lentil(Masur),Ramkrishanpur(Howrah),2016-06-14,9500.0,0.3,31.2,clear
+602,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-06-15,13000.0,0.6,33.0,clear
+603,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-06-15,15000.0,0.3,33.0,clear
+604,Green Gram (Moong),Ramkrishanpur(Howrah),2016-06-15,12000.0,0.8,33.0,clear
+605,Lentil(Masur),Ramkrishanpur(Howrah),2016-06-15,9500.0,0.2,33.0,clear
+606,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-06-16,13000.0,0.5,32.6,clear
+607,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-06-16,15000.0,0.8,32.6,clear
+608,Green Gram (Moong),Ramkrishanpur(Howrah),2016-06-16,12000.0,1.2,32.6,clear
+609,Lentil(Masur),Ramkrishanpur(Howrah),2016-06-16,9500.0,0.2,32.6,clear
+610,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-06-17,13000.0,0.6,32.0,clear
+611,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-06-17,15000.0,1.0,32.0,clear
+612,Green Gram (Moong),Ramkrishanpur(Howrah),2016-06-17,12000.0,1.5,32.0,clear
+613,Lentil(Masur),Ramkrishanpur(Howrah),2016-06-17,9500.0,0.6,32.0,clear
+614,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-06-18,13000.0,0.7,30.0,clear
+615,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-06-18,15000.0,0.9,30.0,clear
+616,Green Gram (Moong),Ramkrishanpur(Howrah),2016-06-18,12000.0,1.3,30.0,clear
+617,Lentil(Masur),Ramkrishanpur(Howrah),2016-06-18,9500.0,0.5,30.0,clear
+618,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-06-19,13000.0,0.3,30.6,clear
+619,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-06-19,15000.0,0.6,30.6,clear
+620,Green Gram (Moong),Ramkrishanpur(Howrah),2016-06-19,12000.0,1.2,30.6,clear
+621,Lentil(Masur),Ramkrishanpur(Howrah),2016-06-19,9500.0,0.4,30.6,clear
+622,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-06-20,13000.0,0.4,31.4,clear
+623,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-06-20,15000.0,0.5,31.4,clear
+624,Green Gram (Moong),Ramkrishanpur(Howrah),2016-06-20,12000.0,1.3,31.4,clear
+625,Lentil(Masur),Ramkrishanpur(Howrah),2016-06-20,9500.0,0.7,31.4,clear
+626,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-06-21,13000.0,0.5,33.2,clear
+627,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-06-21,15000.0,0.6,33.2,clear
+628,Green Gram (Moong),Ramkrishanpur(Howrah),2016-06-21,12000.0,1.4,33.2,clear
+629,Lentil(Masur),Ramkrishanpur(Howrah),2016-06-21,9500.0,0.5,33.2,clear
+630,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-06-22,13000.0,0.4,33.6,clear
+631,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-06-22,15000.0,0.6,33.6,clear
+632,Green Gram (Moong),Ramkrishanpur(Howrah),2016-06-22,12000.0,1.4,33.6,clear
+633,Lentil(Masur),Ramkrishanpur(Howrah),2016-06-22,9500.0,0.4,33.6,clear
+634,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-06-23,13000.0,0.5,34.0,clear
+635,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-06-23,15000.0,0.7,34.0,clear
+636,Green Gram (Moong),Ramkrishanpur(Howrah),2016-06-23,12000.0,1.2,34.0,clear
+637,Lentil(Masur),Ramkrishanpur(Howrah),2016-06-23,9500.0,0.3,34.0,clear
+638,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-06-24,13000.0,0.6,33.4,clear
+639,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-06-24,15000.0,0.7,33.4,clear
+640,Green Gram (Moong),Ramkrishanpur(Howrah),2016-06-24,12000.0,1.3,33.4,clear
+641,Lentil(Masur),Ramkrishanpur(Howrah),2016-06-24,9500.0,0.5,33.4,clear
+642,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-06-25,13000.0,0.6,34.0,clear
+643,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-06-25,15000.0,0.8,34.0,clear
+644,Green Gram (Moong),Ramkrishanpur(Howrah),2016-06-25,12000.0,1.1,34.0,clear
+645,Lentil(Masur),Ramkrishanpur(Howrah),2016-06-25,9500.0,0.3,34.0,clear
+646,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-06-26,13000.0,0.3,34.2,clear
+647,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-06-26,15000.0,0.4,34.2,clear
+648,Green Gram (Moong),Ramkrishanpur(Howrah),2016-06-26,12000.0,1.0,34.2,clear
+649,Lentil(Masur),Ramkrishanpur(Howrah),2016-06-26,9500.0,0.4,34.2,clear
+650,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-06-27,13000.0,0.3,32.4,clear
+651,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-06-27,15000.0,0.5,32.4,clear
+652,Green Gram (Moong),Ramkrishanpur(Howrah),2016-06-27,12000.0,1.2,32.4,clear
+653,Lentil(Masur),Ramkrishanpur(Howrah),2016-06-27,9500.0,0.7,32.4,clear
+654,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-06-28,13000.0,0.4,32.0,clear
+655,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-06-28,15000.0,0.6,32.0,clear
+656,Green Gram (Moong),Ramkrishanpur(Howrah),2016-06-28,12000.0,1.3,32.0,clear
+657,Lentil(Masur),Ramkrishanpur(Howrah),2016-06-28,9500.0,0.5,32.0,clear
+658,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-06-29,13000.0,0.3,30.6,clear
+659,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-06-29,15000.0,0.4,30.6,clear
+660,Green Gram (Moong),Ramkrishanpur(Howrah),2016-06-29,12000.0,1.4,30.6,clear
+661,Lentil(Masur),Ramkrishanpur(Howrah),2016-06-29,9500.0,0.6,30.6,clear
+662,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-06-30,13000.0,0.5,32.0,clear
+663,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-06-30,15000.0,0.7,32.0,clear
+664,Green Gram (Moong),Ramkrishanpur(Howrah),2016-06-30,12000.0,1.5,32.0,clear
+665,Lentil(Masur),Ramkrishanpur(Howrah),2016-06-30,9500.0,0.3,32.0,clear
+666,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-01-07,13000.0,0.3,23.4,clear
+667,Lentil(Masur),Ramkrishanpur(Howrah),2016-01-07,9500.0,0.6,23.4,clear
+668,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-02-07,13000.0,0.5,25.4,clear
+669,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-02-07,14000.0,0.6,25.4,clear
+670,Green Gram (Moong),Ramkrishanpur(Howrah),2016-02-07,12200.0,1.4,25.4,clear
+671,Lentil(Masur),Ramkrishanpur(Howrah),2016-02-07,9500.0,0.3,25.4,clear
+672,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-03-07,13000.0,0.3,31.4,clear
+673,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-03-07,14000.0,0.3,31.4,clear
+674,Green Gram (Moong),Ramkrishanpur(Howrah),2016-03-07,12200.0,0.8,31.4,clear
+675,Lentil(Masur),Ramkrishanpur(Howrah),2016-03-07,9500.0,0.4,31.4,clear
+676,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-04-07,13000.0,0.4,35.0,clear
+677,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-04-07,14000.0,0.8,35.0,clear
+678,Green Gram (Moong),Ramkrishanpur(Howrah),2016-04-07,12200.0,1.2,35.0,clear
+679,Lentil(Masur),Ramkrishanpur(Howrah),2016-04-07,9500.0,0.6,35.0,clear
+680,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-06-07,13000.0,0.6,32.0,clear
+681,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-06-07,14000.0,0.6,32.0,clear
+682,Green Gram (Moong),Ramkrishanpur(Howrah),2016-06-07,12200.0,1.8,32.0,clear
+683,Lentil(Masur),Ramkrishanpur(Howrah),2016-06-07,9500.0,0.3,32.0,clear
+684,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-07-07,13000.0,0.4,30.8,clear
+685,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-07-07,14000.0,0.5,30.8,clear
+686,Green Gram (Moong),Ramkrishanpur(Howrah),2016-07-07,12200.0,1.2,30.8,clear
+687,Lentil(Masur),Ramkrishanpur(Howrah),2016-07-07,9500.0,0.4,30.8,clear
+688,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-08-07,13000.0,0.6,29.0,clear
+689,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-08-07,14000.0,0.6,29.0,clear
+690,Green Gram (Moong),Ramkrishanpur(Howrah),2016-08-07,12200.0,1.0,29.0,clear
+691,Lentil(Masur),Ramkrishanpur(Howrah),2016-08-07,9500.0,0.9,29.0,clear
+692,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-09-07,13000.0,0.5,28.0,clear
+693,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-09-07,14000.0,1.0,28.0,clear
+694,Green Gram (Moong),Ramkrishanpur(Howrah),2016-09-07,12200.0,1.5,28.0,clear
+695,Lentil(Masur),Ramkrishanpur(Howrah),2016-09-07,9500.0,0.3,28.0,clear
+696,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-10-07,13000.0,0.3,30.6,clear
+697,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-10-07,14000.0,0.3,30.6,clear
+698,Green Gram (Moong),Ramkrishanpur(Howrah),2016-10-07,12200.0,0.6,30.6,clear
+699,Lentil(Masur),Ramkrishanpur(Howrah),2016-10-07,9500.0,0.4,30.6,clear
+700,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-11-07,13000.0,0.4,28.2,clear
+701,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-11-07,14000.0,0.4,28.2,clear
+702,Green Gram (Moong),Ramkrishanpur(Howrah),2016-11-07,12200.0,0.8,28.2,clear
+703,Lentil(Masur),Ramkrishanpur(Howrah),2016-11-07,9500.0,0.6,28.2,clear
+704,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-12-07,13000.0,0.5,24.4,clear
+705,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-12-07,14000.0,0.7,24.4,clear
+706,Green Gram (Moong),Ramkrishanpur(Howrah),2016-12-07,12200.0,1.2,24.4,clear
+707,Lentil(Masur),Ramkrishanpur(Howrah),2016-12-07,9500.0,0.3,24.4,clear
+708,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-07-13,13000.0,0.3,30.4,clear
+709,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-07-13,14000.0,0.6,30.4,clear
+710,Green Gram (Moong),Ramkrishanpur(Howrah),2016-07-13,12200.0,1.3,30.4,clear
+711,Lentil(Masur),Ramkrishanpur(Howrah),2016-07-13,9500.0,0.4,30.4,clear
+712,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-07-14,13000.0,0.6,32.0,clear
+713,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-07-14,14000.0,0.8,32.0,clear
+714,Green Gram (Moong),Ramkrishanpur(Howrah),2016-07-14,12200.0,1.0,32.0,clear
+715,Lentil(Masur),Ramkrishanpur(Howrah),2016-07-14,9500.0,0.5,32.0,clear
+716,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-07-15,13000.0,0.5,30.4,clear
+717,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-07-15,14000.0,0.6,30.4,clear
+718,Green Gram (Moong),Ramkrishanpur(Howrah),2016-07-15,12200.0,0.9,30.4,clear
+719,Lentil(Masur),Ramkrishanpur(Howrah),2016-07-15,9500.0,0.7,30.4,clear
+720,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-07-16,13000.0,0.3,27.6,clear
+721,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-07-16,14000.0,0.3,27.6,clear
+722,Green Gram (Moong),Ramkrishanpur(Howrah),2016-07-16,12200.0,0.8,27.6,clear
+723,Lentil(Masur),Ramkrishanpur(Howrah),2016-07-16,9500.0,0.4,27.6,clear
+724,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-07-17,13000.0,0.4,29.4,clear
+725,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-07-17,14000.0,0.3,29.4,clear
+726,Green Gram (Moong),Ramkrishanpur(Howrah),2016-07-17,12200.0,0.7,29.4,clear
+727,Lentil(Masur),Ramkrishanpur(Howrah),2016-07-17,9500.0,0.6,29.4,clear
+728,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-07-18,13000.0,0.7,31.0,clear
+729,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-07-18,14000.0,0.4,31.0,clear
+730,Green Gram (Moong),Ramkrishanpur(Howrah),2016-07-18,12200.0,0.8,31.0,clear
+731,Lentil(Masur),Ramkrishanpur(Howrah),2016-07-18,9500.0,0.5,31.0,clear
+732,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-07-19,13000.0,0.5,30.6,clear
+733,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-07-19,14000.0,0.6,30.6,clear
+734,Green Gram (Moong),Ramkrishanpur(Howrah),2016-07-19,12200.0,0.9,30.6,clear
+735,Lentil(Masur),Ramkrishanpur(Howrah),2016-07-19,9500.0,0.6,30.6,clear
+736,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-07-20,13000.0,0.4,31.6,clear
+737,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-07-20,14000.0,0.5,31.6,clear
+738,Green Gram (Moong),Ramkrishanpur(Howrah),2016-07-20,12200.0,1.1,31.6,clear
+739,Lentil(Masur),Ramkrishanpur(Howrah),2016-07-20,9500.0,0.7,31.6,clear
+740,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-07-21,13000.0,0.6,32.0,clear
+741,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-07-21,14000.0,0.7,32.0,clear
+742,Green Gram (Moong),Ramkrishanpur(Howrah),2016-07-21,12200.0,1.0,32.0,clear
+743,Lentil(Masur),Ramkrishanpur(Howrah),2016-07-21,9500.0,0.7,32.0,clear
+744,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-07-22,13000.0,0.5,27.8,clear
+745,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-07-22,14000.0,0.9,27.8,clear
+746,Green Gram (Moong),Ramkrishanpur(Howrah),2016-07-22,12200.0,1.2,27.8,clear
+747,Lentil(Masur),Ramkrishanpur(Howrah),2016-07-22,9500.0,0.8,27.8,clear
+748,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-07-23,13000.0,0.7,28.0,clear
+749,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-07-23,14000.0,0.9,28.0,clear
+750,Green Gram (Moong),Ramkrishanpur(Howrah),2016-07-23,12200.0,1.1,28.0,clear
+751,Lentil(Masur),Ramkrishanpur(Howrah),2016-07-23,9500.0,0.4,28.0,clear
+752,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-07-24,13000.0,0.3,28.6,clear
+753,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-07-24,14000.0,0.5,28.6,clear
+754,Green Gram (Moong),Ramkrishanpur(Howrah),2016-07-24,12200.0,0.8,28.6,clear
+755,Lentil(Masur),Ramkrishanpur(Howrah),2016-07-24,10000.0,0.6,28.6,clear
+756,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-07-25,13000.0,0.4,28.0,clear
+757,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-07-25,14000.0,0.8,28.0,clear
+758,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-07-26,13000.0,0.3,28.4,clear
+759,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-07-26,14000.0,0.7,28.4,clear
+760,Green Gram (Moong),Ramkrishanpur(Howrah),2016-07-26,12200.0,0.9,28.4,clear
+761,Lentil(Masur),Ramkrishanpur(Howrah),2016-07-26,10000.0,0.8,28.4,clear
+762,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-07-27,13000.0,0.4,30.0,clear
+763,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-07-27,14000.0,0.5,30.0,clear
+764,Green Gram (Moong),Ramkrishanpur(Howrah),2016-07-27,12200.0,1.0,30.0,clear
+765,Lentil(Masur),Ramkrishanpur(Howrah),2016-07-27,9600.0,0.9,30.0,clear
+766,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-07-28,13000.0,0.5,32.4,clear
+767,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-07-28,14000.0,0.6,32.4,clear
+768,Green Gram (Moong),Ramkrishanpur(Howrah),2016-07-28,12200.0,1.1,32.4,clear
+769,Lentil(Masur),Ramkrishanpur(Howrah),2016-07-28,9600.0,0.6,32.4,clear
+770,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-07-29,13000.0,0.3,33.0,clear
+771,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-07-29,14000.0,0.7,33.0,clear
+772,Green Gram (Moong),Ramkrishanpur(Howrah),2016-07-29,12200.0,1.2,33.0,clear
+773,Lentil(Masur),Ramkrishanpur(Howrah),2016-07-29,9600.0,0.8,33.0,clear
+774,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-01-08,13000.0,0.5,24.0,clear
+775,Lentil(Masur),Ramkrishanpur(Howrah),2016-01-08,9600.0,0.9,24.0,clear
+776,Arhar (Tur/Red Gram),Ramkrishanpur(Howrah),2016-02-08,13000.0,0.4,26.0,clear
+777,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-02-08,14000.0,0.6,26.0,clear
+778,Lentil(Masur),Ramkrishanpur(Howrah),2016-02-08,9600.0,1.2,26.0,clear
+779,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-06-01,6800.0,1.2,31.4,clear
+780,Green Gram (Moong),Ramkrishanpur(Howrah),2016-06-01,11000.0,2.3,31.4,clear
+781,Bengal Gram(Gram),Ramkrishanpur(Howrah),2016-02-05,5800.0,0.9,25.4,clear
+782,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-02-05,11800.0,1.2,25.4,clear
+783,Lentil(Masur),Ramkrishanpur(Howrah),2016-02-05,9300.0,1.3,25.4,clear
+784,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-12-02,13500.0,1.2,26.4,clear
+785,Green Gram (Moong),Ramkrishanpur(Howrah),2016-12-02,11300.0,2.4,26.4,clear
+786,Lentil(Masur),Ramkrishanpur(Howrah),2016-12-02,10300.0,0.6,26.4,clear
+787,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-02-13,13500.0,0.5,27.4,clear
+788,Green Gram (Moong),Ramkrishanpur(Howrah),2016-02-13,11300.0,2.5,27.4,clear
+789,Lentil(Masur),Ramkrishanpur(Howrah),2016-02-13,10300.0,0.3,27.4,clear
+790,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-02-14,13500.0,0.7,28.2,clear
+791,Green Gram (Moong),Ramkrishanpur(Howrah),2016-02-14,11300.0,2.0,28.2,clear
+792,Lentil(Masur),Ramkrishanpur(Howrah),2016-02-14,10300.0,0.4,28.2,clear
+793,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-02-15,13500.0,1.0,28.4,clear
+794,Green Gram (Moong),Ramkrishanpur(Howrah),2016-02-15,11300.0,1.6,28.4,clear
+795,Lentil(Masur),Ramkrishanpur(Howrah),2016-02-15,10300.0,1.3,28.4,clear
+796,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-02-16,13500.0,1.0,28.0,clear
+797,Green Gram (Moong),Ramkrishanpur(Howrah),2016-02-16,11300.0,1.6,28.0,clear
+798,Lentil(Masur),Ramkrishanpur(Howrah),2016-02-16,10300.0,0.7,28.0,clear
+799,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-02-17,13500.0,0.8,28.4,clear
+800,Green Gram (Moong),Ramkrishanpur(Howrah),2016-02-17,11300.0,1.9,28.4,clear
+801,Lentil(Masur),Ramkrishanpur(Howrah),2016-02-17,10300.0,0.9,28.4,clear
+802,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-02-20,13500.0,1.5,31.8,clear
+803,Green Gram (Moong),Ramkrishanpur(Howrah),2016-02-20,11300.0,1.4,31.8,clear
+804,Lentil(Masur),Ramkrishanpur(Howrah),2016-02-20,10300.0,0.8,31.8,clear
+805,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-02-21,13500.0,0.8,27.4,clear
+806,Green Gram (Moong),Ramkrishanpur(Howrah),2016-02-21,11300.0,1.2,27.4,clear
+807,Lentil(Masur),Ramkrishanpur(Howrah),2016-02-21,10300.0,0.9,27.4,clear
+808,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-02-23,13500.0,1.2,30.4,clear
+809,Green Gram (Moong),Ramkrishanpur(Howrah),2016-02-23,11300.0,1.2,30.4,clear
+810,Lentil(Masur),Ramkrishanpur(Howrah),2016-02-23,10300.0,0.5,30.4,clear
+811,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-02-04,12000.0,1.6,26.0,clear
+812,Green Gram (Moong),Ramkrishanpur(Howrah),2016-02-04,11000.0,1.8,26.0,clear
+813,Lentil(Masur),Ramkrishanpur(Howrah),2016-02-04,9300.0,0.7,26.0,clear
+814,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-03-04,12000.0,0.7,30.8,clear
+815,Green Gram (Moong),Ramkrishanpur(Howrah),2016-03-04,11000.0,0.9,30.8,clear
+816,Lentil(Masur),Ramkrishanpur(Howrah),2016-03-04,9300.0,0.8,30.8,clear
+817,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-04-04,11800.0,1.1,29.6,clear
+818,Green Gram (Moong),Ramkrishanpur(Howrah),2016-04-04,11000.0,1.6,29.6,clear
+819,Lentil(Masur),Ramkrishanpur(Howrah),2016-04-04,9300.0,1.4,29.6,clear
+820,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-05-04,11800.0,1.3,32.6,clear
+821,Green Gram (Moong),Ramkrishanpur(Howrah),2016-05-04,11000.0,1.5,32.6,clear
+822,Lentil(Masur),Ramkrishanpur(Howrah),2016-05-04,9300.0,1.2,32.6,clear
+823,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-07-04,11800.0,1.6,28.8,clear
+824,Green Gram (Moong),Ramkrishanpur(Howrah),2016-07-04,11000.0,1.8,28.8,clear
+825,Lentil(Masur),Ramkrishanpur(Howrah),2016-07-04,9300.0,0.8,28.8,clear
+826,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-08-04,11800.0,1.2,31.0,clear
+827,Green Gram (Moong),Ramkrishanpur(Howrah),2016-08-04,11000.0,1.0,31.0,clear
+828,Lentil(Masur),Ramkrishanpur(Howrah),2016-08-04,9300.0,1.3,31.0,clear
+829,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-09-04,11800.0,1.4,30.4,clear
+830,Green Gram (Moong),Ramkrishanpur(Howrah),2016-09-04,11000.0,1.2,30.4,clear
+831,Lentil(Masur),Ramkrishanpur(Howrah),2016-09-04,9300.0,0.8,30.4,clear
+832,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-10-04,11800.0,0.8,31.4,clear
+833,Green Gram (Moong),Ramkrishanpur(Howrah),2016-10-04,11000.0,0.7,31.4,clear
+834,Lentil(Masur),Ramkrishanpur(Howrah),2016-10-04,9300.0,0.6,31.4,clear
+835,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-11-04,11800.0,1.2,27.8,clear
+836,Green Gram (Moong),Ramkrishanpur(Howrah),2016-11-04,11000.0,1.4,27.8,clear
+837,Lentil(Masur),Ramkrishanpur(Howrah),2016-11-04,9300.0,1.3,27.8,clear
+838,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-12-04,11800.0,1.3,26.0,clear
+839,Green Gram (Moong),Ramkrishanpur(Howrah),2016-12-04,11000.0,1.5,26.0,clear
+840,Lentil(Masur),Ramkrishanpur(Howrah),2016-12-04,9300.0,0.5,26.0,clear
+841,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-04-13,11800.0,1.0,38.0,clear
+842,Green Gram (Moong),Ramkrishanpur(Howrah),2016-04-13,11000.0,1.6,38.0,clear
+843,Lentil(Masur),Ramkrishanpur(Howrah),2016-04-13,9300.0,0.9,38.0,clear
+844,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-04-14,11800.0,1.0,38.2,clear
+845,Green Gram (Moong),Ramkrishanpur(Howrah),2016-04-14,11000.0,1.8,38.2,clear
+846,Lentil(Masur),Ramkrishanpur(Howrah),2016-04-14,9300.0,0.4,38.2,clear
+847,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-04-15,12000.0,1.2,38.4,clear
+848,Green Gram (Moong),Ramkrishanpur(Howrah),2016-04-15,11000.0,1.4,38.4,clear
+849,Lentil(Masur),Ramkrishanpur(Howrah),2016-04-15,9300.0,1.0,38.4,clear
+850,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-04-16,11800.0,1.2,33.8,clear
+851,Green Gram (Moong),Ramkrishanpur(Howrah),2016-04-16,11000.0,1.2,33.8,clear
+852,Lentil(Masur),Ramkrishanpur(Howrah),2016-04-16,9300.0,0.7,33.8,clear
+853,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-04-17,11800.0,0.8,34.0,clear
+854,Green Gram (Moong),Ramkrishanpur(Howrah),2016-04-17,11000.0,1.0,34.0,clear
+855,Lentil(Masur),Ramkrishanpur(Howrah),2016-04-17,9300.0,0.8,34.0,clear
+856,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-04-18,11800.0,1.0,32.0,clear
+857,Green Gram (Moong),Ramkrishanpur(Howrah),2016-04-18,11000.0,1.5,32.0,clear
+858,Lentil(Masur),Ramkrishanpur(Howrah),2016-04-18,9300.0,1.2,32.0,clear
+859,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-04-19,11800.0,1.2,32.4,clear
+860,Green Gram (Moong),Ramkrishanpur(Howrah),2016-04-19,11000.0,1.4,32.4,clear
+861,Lentil(Masur),Ramkrishanpur(Howrah),2016-04-19,9300.0,0.9,32.4,clear
+862,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-04-20,11800.0,1.3,32.6,clear
+863,Green Gram (Moong),Ramkrishanpur(Howrah),2016-04-20,11000.0,1.6,32.6,clear
+864,Lentil(Masur),Ramkrishanpur(Howrah),2016-04-20,9300.0,1.4,32.6,clear
+865,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-04-21,11800.0,1.4,33.4,clear
+866,Green Gram (Moong),Ramkrishanpur(Howrah),2016-04-21,11000.0,1.5,33.4,clear
+867,Lentil(Masur),Ramkrishanpur(Howrah),2016-04-21,9300.0,1.0,33.4,clear
+868,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-04-22,11800.0,1.0,34.0,clear
+869,Green Gram (Moong),Ramkrishanpur(Howrah),2016-04-22,11000.0,1.7,34.0,clear
+870,Lentil(Masur),Ramkrishanpur(Howrah),2016-04-22,9300.0,1.2,34.0,clear
+871,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-04-26,11800.0,1.3,34.4,clear
+872,Green Gram (Moong),Ramkrishanpur(Howrah),2016-04-26,11000.0,1.5,34.4,clear
+873,Lentil(Masur),Ramkrishanpur(Howrah),2016-04-26,9300.0,0.9,34.4,clear
+874,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-04-27,11800.0,1.0,34.0,clear
+875,Green Gram (Moong),Ramkrishanpur(Howrah),2016-04-27,11000.0,1.4,34.0,clear
+876,Lentil(Masur),Ramkrishanpur(Howrah),2016-04-27,9300.0,1.1,34.0,clear
+877,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-04-28,11800.0,1.4,33.4,clear
+878,Green Gram (Moong),Ramkrishanpur(Howrah),2016-04-28,11000.0,1.6,33.4,clear
+879,Lentil(Masur),Ramkrishanpur(Howrah),2016-04-28,9300.0,0.8,33.4,clear
+880,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-04-29,11800.0,1.1,33.6,clear
+881,Green Gram (Moong),Ramkrishanpur(Howrah),2016-04-29,11000.0,1.4,33.6,clear
+882,Lentil(Masur),Ramkrishanpur(Howrah),2016-04-29,9300.0,1.0,33.6,clear
+883,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-04-30,11800.0,1.2,35.0,clear
+884,Green Gram (Moong),Ramkrishanpur(Howrah),2016-04-30,11000.0,1.3,35.0,clear
+885,Lentil(Masur),Ramkrishanpur(Howrah),2016-04-30,9300.0,1.1,35.0,clear
+886,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-03-05,13800.0,0.5,31.0,clear
+887,Green Gram (Moong),Ramkrishanpur(Howrah),2016-03-05,11000.0,1.3,31.0,clear
+888,Lentil(Masur),Ramkrishanpur(Howrah),2016-03-05,9300.0,1.0,31.0,clear
+889,Black Gram (Urd Beans),Ramkrishanpur(Howrah),2016-04-05,13800.0,0.6,32.0,clear
+890,Green Gram (Moong),Ramkrishanpur(Howrah),2016-04-05,11000.0,1.4,32.0,clear
+891,Lentil(Masur),Ramkrishanpur(Howrah),2016-04-05,9400.0,1.2,32.0,clear
+892,Lentil(Masur),Ramkrishanpur(Howrah),2016-01-04,9300.0,1.0,21.8,clear

@@ -1,0 +1,589 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Bijnaur,2015-12-07,8800.0,0.0,23.2,clear
+1,Bengal Gram(Gram),Bijnaur,2015-12-07,4550.0,0.0,23.2,clear
+2,Black Gram (Urd Beans),Bijnaur,2015-12-07,7800.0,0.0,23.2,clear
+3,Green Gram (Moong),Bijnaur,2015-12-07,8100.0,0.0,23.2,clear
+4,Arhar (Tur/Red Gram),Bijnaur,2015-12-10,9930.0,0.0,15.6,clear
+5,Bengal Gram(Gram),Bijnaur,2015-12-10,5000.0,0.0,15.6,clear
+6,Black Gram (Urd Beans),Bijnaur,2015-12-10,8625.0,1.0,15.6,clear
+7,Green Gram (Moong),Bijnaur,2015-12-10,8625.0,0.0,15.6,clear
+8,Arhar (Tur/Red Gram),Bijnaur,2015-12-11,11700.0,0.0,21.4,clear
+9,Bengal Gram(Gram),Bijnaur,2015-12-11,5280.0,0.0,21.4,clear
+10,Black Gram (Urd Beans),Bijnaur,2015-12-11,9762.5,1.5,21.4,clear
+11,Green Gram (Moong),Bijnaur,2015-12-11,8830.0,0.0,21.4,clear
+12,Arhar (Tur/Red Gram),Bijnaur,2015-12-12,11650.0,0.0,16.8,clear
+13,Bengal Gram(Gram),Bijnaur,2015-12-12,5340.0,0.0,16.8,clear
+14,Black Gram (Urd Beans),Bijnaur,2015-12-12,9715.0,0.0,16.8,clear
+15,Green Gram (Moong),Bijnaur,2015-12-12,9010.0,0.0,16.8,clear
+16,Arhar (Tur/Red Gram),Bijnaur,2015-12-13,10650.0,0.0,19.8,clear
+17,Bengal Gram(Gram),Bijnaur,2015-12-13,5340.0,0.0,19.8,clear
+18,Black Gram (Urd Beans),Bijnaur,2015-12-13,9712.5,1.4,19.8,clear
+19,Green Gram (Moong),Bijnaur,2015-12-13,9010.0,0.0,19.8,clear
+20,Arhar (Tur/Red Gram),Bijnaur,2015-12-14,10680.0,0.0,21.2,clear
+21,Bengal Gram(Gram),Bijnaur,2015-12-14,5350.0,0.0,21.2,clear
+22,Black Gram (Urd Beans),Bijnaur,2015-12-14,9710.0,0.0,21.2,clear
+23,Green Gram (Moong),Bijnaur,2015-12-14,9010.0,0.0,21.2,clear
+24,Arhar (Tur/Red Gram),Bijnaur,2015-12-15,10700.0,0.0,19.8,clear
+25,Bengal Gram(Gram),Bijnaur,2015-12-15,5330.0,0.0,19.8,clear
+26,Black Gram (Urd Beans),Bijnaur,2015-12-15,9690.0,0.0,19.8,clear
+27,Green Gram (Moong),Bijnaur,2015-12-15,9000.0,0.0,19.8,clear
+28,Arhar (Tur/Red Gram),Bijnaur,2015-12-17,10600.0,0.0,18.6,clear
+29,Bengal Gram(Gram),Bijnaur,2015-12-17,5320.0,0.0,18.6,clear
+30,Black Gram (Urd Beans),Bijnaur,2015-12-17,9687.5,1.2,18.6,clear
+31,Green Gram (Moong),Bijnaur,2015-12-17,9000.0,0.0,18.6,clear
+32,Arhar (Tur/Red Gram),Bijnaur,2015-12-18,10600.0,0.0,19.0,clear
+33,Bengal Gram(Gram),Bijnaur,2015-12-18,5340.0,0.0,19.0,clear
+34,Black Gram (Urd Beans),Bijnaur,2015-12-18,9687.5,0.0,19.0,clear
+35,Green Gram (Moong),Bijnaur,2015-12-18,9000.0,0.0,19.0,clear
+36,Arhar (Tur/Red Gram),Bijnaur,2015-12-19,10600.0,0.0,18.8,clear
+37,Bengal Gram(Gram),Bijnaur,2015-12-19,5350.0,0.0,18.8,clear
+38,Black Gram (Urd Beans),Bijnaur,2015-12-19,9687.5,0.0,18.8,clear
+39,Green Gram (Moong),Bijnaur,2015-12-19,9000.0,0.0,18.8,clear
+40,Arhar (Tur/Red Gram),Bijnaur,2015-12-20,10650.0,0.0,18.6,clear
+41,Bengal Gram(Gram),Bijnaur,2015-12-20,5380.0,0.0,18.6,clear
+42,Black Gram (Urd Beans),Bijnaur,2015-12-20,9720.0,0.0,18.6,clear
+43,Green Gram (Moong),Bijnaur,2015-12-20,9000.0,0.0,18.6,clear
+44,Arhar (Tur/Red Gram),Bijnaur,2015-12-21,10670.0,0.0,19.0,clear
+45,Bengal Gram(Gram),Bijnaur,2015-12-21,5400.0,0.0,19.0,clear
+46,Black Gram (Urd Beans),Bijnaur,2015-12-21,9725.0,1.2,19.0,clear
+47,Green Gram (Moong),Bijnaur,2015-12-21,9000.0,0.0,19.0,clear
+48,Arhar (Tur/Red Gram),Bijnaur,2015-12-22,10700.0,0.0,18.6,clear
+49,Arhar (Tur/Red Gram),Haldaur,2015-12-22,10750.0,1.0,18.6,clear
+50,Bengal Gram(Gram),Bijnaur,2015-12-22,5420.0,0.0,18.6,clear
+51,Bengal Gram(Gram),Haldaur,2015-12-22,5400.0,0.0,18.6,clear
+52,Black Gram (Urd Beans),Bijnaur,2015-12-22,9765.0,0.0,18.6,clear
+53,Black Gram (Urd Beans),Haldaur,2015-12-22,10600.0,20.0,18.6,clear
+54,Green Gram (Moong),Bijnaur,2015-12-22,9010.0,0.0,18.6,clear
+55,Arhar (Tur/Red Gram),Bijnaur,2015-12-24,10750.0,0.0,18.4,clear
+56,Bengal Gram(Gram),Bijnaur,2015-12-24,5430.0,0.0,18.4,clear
+57,Black Gram (Urd Beans),Bijnaur,2015-12-24,9790.0,0.0,18.4,clear
+58,Green Gram (Moong),Bijnaur,2015-12-24,9010.0,0.0,18.4,clear
+59,Arhar (Tur/Red Gram),Bijnaur,2015-12-25,10750.0,0.0,17.0,clear
+60,Bengal Gram(Gram),Bijnaur,2015-12-25,5430.0,0.0,17.0,clear
+61,Black Gram (Urd Beans),Bijnaur,2015-12-25,9790.0,0.0,17.0,clear
+62,Green Gram (Moong),Bijnaur,2015-12-25,9015.0,0.0,17.0,clear
+63,Arhar (Tur/Red Gram),Bijnaur,2015-12-26,10750.0,0.0,16.8,clear
+64,Arhar (Tur/Red Gram),Nagina,2015-12-26,10800.0,2.0,16.8,clear
+65,Bengal Gram(Gram),Bijnaur,2015-12-26,5430.0,0.0,16.8,clear
+66,Bengal Gram(Gram),Nagina,2015-12-26,5450.0,1.0,16.8,clear
+67,Black Gram (Urd Beans),Bijnaur,2015-12-26,9790.0,1.1,16.8,clear
+68,Black Gram (Urd Beans),Nagina,2015-12-26,10650.0,25.0,16.8,clear
+69,Green Gram (Moong),Bijnaur,2015-12-26,9015.0,0.0,16.8,clear
+70,Arhar (Tur/Red Gram),Bijnaur,2015-12-27,10800.0,0.0,19.0,clear
+71,Bengal Gram(Gram),Bijnaur,2015-12-27,5450.0,0.0,19.0,clear
+72,Black Gram (Urd Beans),Bijnaur,2015-12-27,9800.0,0.0,19.0,clear
+73,Green Gram (Moong),Bijnaur,2015-12-27,9020.0,0.0,19.0,clear
+74,Arhar (Tur/Red Gram),Bijnaur,2015-12-28,10800.0,0.2,12.0,clear
+75,Arhar (Tur/Red Gram),Kiratpur,2015-12-28,10800.0,1.0,12.0,clear
+76,Bengal Gram(Gram),Bijnaur,2015-12-28,5480.0,0.0,12.0,clear
+77,Bengal Gram(Gram),Kiratpur,2015-12-28,5500.0,3.5,12.0,clear
+78,Black Gram (Urd Beans),Bijnaur,2015-12-28,9830.0,0.0,12.0,clear
+79,Black Gram (Urd Beans),Kiratpur,2015-12-28,10700.0,36.0,12.0,clear
+80,Green Gram (Moong),Bijnaur,2015-12-28,9030.0,0.0,12.0,clear
+81,Arhar (Tur/Red Gram),Bijnaur,2015-12-29,10800.0,0.0,21.4,clear
+82,Arhar (Tur/Red Gram),Chaandpur,2015-12-29,10800.0,5.0,21.4,clear
+83,Bengal Gram(Gram),Bijnaur,2015-12-29,5500.0,0.0,21.4,clear
+84,Bengal Gram(Gram),Chaandpur,2015-12-29,5500.0,3.5,21.4,clear
+85,Black Gram (Urd Beans),Bijnaur,2015-12-29,9835.0,0.0,21.4,clear
+86,Black Gram (Urd Beans),Chaandpur,2015-12-29,10700.0,80.0,21.4,clear
+87,Green Gram (Moong),Bijnaur,2015-12-29,9030.0,0.0,21.4,clear
+88,Arhar (Tur/Red Gram),Dhampur,2015-12-30,10750.0,25.0,12.6,clear
+89,Bengal Gram(Gram),Dhampur,2015-12-30,5500.0,13.0,12.6,clear
+90,Black Gram (Urd Beans),Dhampur,2015-12-30,10600.0,60.0,12.6,clear
+91,Arhar (Tur/Red Gram),Najibabad,2015-12-31,10850.0,2.0,21.4,clear
+92,Bengal Gram(Gram),Najibabad,2015-12-31,5500.0,6.5,21.4,clear
+93,Black Gram (Urd Beans),Najibabad,2015-12-31,9800.0,11.0,21.4,clear
+94,Arhar (Tur/Red Gram),Bijnaur,2016-01-01,10800.0,0.0,21.4,clear
+95,Bengal Gram(Gram),Bijnaur,2016-01-01,5460.0,0.0,21.4,clear
+96,Black Gram (Urd Beans),Bijnaur,2016-01-01,9835.0,0.0,21.4,clear
+97,Green Gram (Moong),Bijnaur,2016-01-01,9030.0,0.0,21.4,clear
+98,Arhar (Tur/Red Gram),Bijnaur,2016-02-01,10650.0,2.0,18.6,clear
+99,Bengal Gram(Gram),Bijnaur,2016-02-01,5460.0,0.0,18.6,clear
+100,Black Gram (Urd Beans),Bijnaur,2016-02-01,9835.0,0.0,18.6,clear
+101,Green Gram (Moong),Bijnaur,2016-02-01,9025.0,0.0,18.6,clear
+102,Arhar (Tur/Red Gram),Bijnaur,2016-03-01,10850.0,0.0,26.4,clear
+103,Bengal Gram(Gram),Bijnaur,2016-03-01,5450.0,0.0,26.4,clear
+104,Black Gram (Urd Beans),Bijnaur,2016-03-01,9840.0,0.0,26.4,clear
+105,Green Gram (Moong),Bijnaur,2016-03-01,9025.0,0.0,26.4,clear
+106,Arhar (Tur/Red Gram),Bijnaur,2016-05-01,10700.0,0.0,34.6,clear
+107,Bengal Gram(Gram),Bijnaur,2016-05-01,5480.0,0.0,34.6,clear
+108,Black Gram (Urd Beans),Bijnaur,2016-05-01,9835.0,0.0,34.6,clear
+109,Green Gram (Moong),Bijnaur,2016-05-01,9020.0,0.0,34.6,clear
+110,Arhar (Tur/Red Gram),Bijnaur,2016-07-01,10850.0,0.0,32.4,clear
+111,Bengal Gram(Gram),Bijnaur,2016-07-01,5500.0,0.0,32.4,clear
+112,Black Gram (Urd Beans),Bijnaur,2016-07-01,9840.0,0.0,32.4,clear
+113,Green Gram (Moong),Bijnaur,2016-07-01,8950.0,0.0,32.4,clear
+114,Arhar (Tur/Red Gram),Bijnaur,2016-08-01,10860.0,0.0,29.6,clear
+115,Bengal Gram(Gram),Bijnaur,2016-08-01,5500.0,0.0,29.6,clear
+116,Black Gram (Urd Beans),Bijnaur,2016-08-01,9815.0,0.0,29.6,clear
+117,Green Gram (Moong),Bijnaur,2016-08-01,8930.0,0.0,29.6,clear
+118,Arhar (Tur/Red Gram),Bijnaur,2016-09-01,10860.0,0.0,31.6,clear
+119,Bengal Gram(Gram),Bijnaur,2016-09-01,5500.0,0.0,31.6,clear
+120,Black Gram (Urd Beans),Bijnaur,2016-09-01,9875.0,0.0,31.6,clear
+121,Green Gram (Moong),Bijnaur,2016-09-01,8950.0,0.0,31.6,clear
+122,Arhar (Tur/Red Gram),Bijnaur,2016-10-01,10860.0,0.0,32.2,clear
+123,Bengal Gram(Gram),Bijnaur,2016-10-01,5500.0,0.0,32.2,clear
+124,Black Gram (Urd Beans),Bijnaur,2016-10-01,9875.0,0.0,32.2,clear
+125,Green Gram (Moong),Bijnaur,2016-10-01,8970.0,0.0,32.2,clear
+126,Arhar (Tur/Red Gram),Bijnaur,2016-11-01,10860.0,0.0,27.2,clear
+127,Bengal Gram(Gram),Bijnaur,2016-11-01,5500.0,0.0,27.2,clear
+128,Black Gram (Urd Beans),Bijnaur,2016-11-01,9875.0,1.1,27.2,clear
+129,Green Gram (Moong),Bijnaur,2016-11-01,8970.0,0.0,27.2,clear
+130,Arhar (Tur/Red Gram),Bijnaur,2016-12-01,10860.0,0.0,22.6,clear
+131,Bengal Gram(Gram),Bijnaur,2016-12-01,5500.0,0.0,22.6,clear
+132,Black Gram (Urd Beans),Bijnaur,2016-12-01,9865.0,0.0,22.6,clear
+133,Green Gram (Moong),Bijnaur,2016-12-01,8985.0,0.0,22.6,clear
+134,Arhar (Tur/Red Gram),Bijnaur,2016-01-14,10870.0,0.0,15.4,clear
+135,Bengal Gram(Gram),Bijnaur,2016-01-14,5480.0,0.0,15.4,clear
+136,Black Gram (Urd Beans),Bijnaur,2016-01-14,9885.0,0.0,15.4,clear
+137,Green Gram (Moong),Bijnaur,2016-01-14,8950.0,0.0,15.4,clear
+138,Arhar (Tur/Red Gram),Bijnaur,2016-01-15,11500.0,0.0,14.6,clear
+139,Bengal Gram(Gram),Bijnaur,2016-01-15,5450.0,0.0,14.6,clear
+140,Black Gram (Urd Beans),Bijnaur,2016-01-15,9900.0,0.0,14.6,clear
+141,Green Gram (Moong),Bijnaur,2016-01-15,8870.0,0.0,14.6,clear
+142,Arhar (Tur/Red Gram),Bijnaur,2016-01-16,10650.0,0.0,12.6,clear
+143,Bengal Gram(Gram),Bijnaur,2016-01-16,5425.0,0.0,12.6,clear
+144,Black Gram (Urd Beans),Bijnaur,2016-01-16,9915.0,0.0,12.6,clear
+145,Green Gram (Moong),Bijnaur,2016-01-16,8900.0,0.0,12.6,clear
+146,Arhar (Tur/Red Gram),Bijnaur,2016-01-17,11700.0,0.0,16.8,clear
+147,Bengal Gram(Gram),Bijnaur,2016-01-17,5425.0,0.0,16.8,clear
+148,Black Gram (Urd Beans),Bijnaur,2016-01-17,9922.5,1.0,16.8,clear
+149,Green Gram (Moong),Bijnaur,2016-01-17,8920.0,0.0,16.8,clear
+150,Arhar (Tur/Red Gram),Bijnaur,2016-01-18,11750.0,0.0,18.2,clear
+151,Bengal Gram(Gram),Bijnaur,2016-01-18,5420.0,0.0,18.2,clear
+152,Black Gram (Urd Beans),Bijnaur,2016-01-18,9940.0,0.0,18.2,clear
+153,Green Gram (Moong),Bijnaur,2016-01-18,8920.0,0.0,18.2,clear
+154,Arhar (Tur/Red Gram),Bijnaur,2016-01-19,11800.0,0.0,8.8,clear
+155,Bengal Gram(Gram),Bijnaur,2016-01-19,5430.0,0.0,8.8,clear
+156,Black Gram (Urd Beans),Bijnaur,2016-01-19,9935.0,0.0,8.8,clear
+157,Green Gram (Moong),Bijnaur,2016-01-19,8900.0,0.0,8.8,clear
+158,Arhar (Tur/Red Gram),Bijnaur,2016-01-21,11900.0,0.0,12.6,clear
+159,Bengal Gram(Gram),Bijnaur,2016-01-21,5450.0,0.0,12.6,clear
+160,Black Gram (Urd Beans),Bijnaur,2016-01-21,10462.5,0.0,12.6,clear
+161,Green Gram (Moong),Bijnaur,2016-01-21,8900.0,0.0,12.6,clear
+162,Arhar (Tur/Red Gram),Bijnaur,2016-01-23,12100.0,0.0,16.6,clear
+163,Arhar (Tur/Red Gram),Haldaur,2016-01-23,12500.0,0.0,16.6,clear
+164,Bengal Gram(Gram),Bijnaur,2016-01-23,5150.0,0.0,16.6,clear
+165,Bengal Gram(Gram),Haldaur,2016-01-23,5200.0,1.0,16.6,clear
+166,Black Gram (Urd Beans),Bijnaur,2016-01-23,10450.0,0.0,16.6,clear
+167,Black Gram (Urd Beans),Haldaur,2016-01-23,11300.0,0.0,16.6,clear
+168,Green Gram (Moong),Bijnaur,2016-01-23,9010.0,0.0,16.6,clear
+169,Arhar (Tur/Red Gram),Bijnaur,2016-01-26,12300.0,0.0,16.8,clear
+170,Bengal Gram(Gram),Bijnaur,2016-01-26,5150.0,0.0,16.8,clear
+171,Black Gram (Urd Beans),Bijnaur,2016-01-26,10425.0,1.3,16.8,clear
+172,Green Gram (Moong),Bijnaur,2016-01-26,9020.0,0.0,16.8,clear
+173,Arhar (Tur/Red Gram),Bijnaur,2016-01-29,12300.0,0.0,16.6,clear
+174,Arhar (Tur/Red Gram),Chaandpur,2016-01-29,12500.0,4.0,16.6,clear
+175,Bengal Gram(Gram),Bijnaur,2016-01-29,5100.0,0.0,16.6,clear
+176,Bengal Gram(Gram),Chaandpur,2016-01-29,5150.0,1.5,16.6,clear
+177,Black Gram (Urd Beans),Bijnaur,2016-01-29,10425.0,1.3,16.6,clear
+178,Black Gram (Urd Beans),Chaandpur,2016-01-29,11280.0,26.5,16.6,clear
+179,Green Gram (Moong),Bijnaur,2016-01-29,9030.0,0.0,16.6,clear
+180,Arhar (Tur/Red Gram),Bijnaur,2016-01-30,12300.0,0.0,17.0,clear
+181,Arhar (Tur/Red Gram),Najibabad,2016-01-30,12600.0,2.0,17.0,clear
+182,Bengal Gram(Gram),Bijnaur,2016-01-30,5100.0,0.0,17.0,clear
+183,Bengal Gram(Gram),Najibabad,2016-01-30,5150.0,11.0,17.0,clear
+184,Black Gram (Urd Beans),Bijnaur,2016-01-30,10425.0,1.1,17.0,clear
+185,Black Gram (Urd Beans),Najibabad,2016-01-30,10600.0,8.0,17.0,clear
+186,Green Gram (Moong),Bijnaur,2016-01-30,9050.0,0.0,17.0,clear
+187,Arhar (Tur/Red Gram),Bijnaur,2016-01-02,12300.0,0.0,21.2,clear
+188,Bengal Gram(Gram),Bijnaur,2016-01-02,5100.0,0.0,21.2,clear
+189,Black Gram (Urd Beans),Bijnaur,2016-01-02,11250.0,0.0,21.2,clear
+190,Green Gram (Moong),Bijnaur,2016-01-02,9050.0,0.0,21.2,clear
+191,Arhar (Tur/Red Gram),Bijnaur,2016-02-02,12300.0,0.0,18.8,clear
+192,Bengal Gram(Gram),Bijnaur,2016-02-02,5100.0,0.0,18.8,clear
+193,Black Gram (Urd Beans),Bijnaur,2016-02-02,11250.0,0.0,18.8,clear
+194,Green Gram (Moong),Bijnaur,2016-02-02,9050.0,0.0,18.8,clear
+195,Arhar (Tur/Red Gram),Bijnaur,2016-04-02,12350.0,0.0,34.2,clear
+196,Bengal Gram(Gram),Bijnaur,2016-04-02,5150.0,0.0,34.2,clear
+197,Black Gram (Urd Beans),Bijnaur,2016-04-02,10500.0,1.1,34.2,clear
+198,Green Gram (Moong),Bijnaur,2016-04-02,9050.0,0.0,34.2,clear
+199,Arhar (Tur/Red Gram),Bijnaur,2016-05-02,12350.0,0.0,34.6,clear
+200,Bengal Gram(Gram),Bijnaur,2016-05-02,5250.0,0.0,34.6,clear
+201,Black Gram (Urd Beans),Bijnaur,2016-05-02,9700.0,0.0,34.6,clear
+202,Green Gram (Moong),Bijnaur,2016-05-02,9010.0,0.0,34.6,clear
+203,Arhar (Tur/Red Gram),Bijnaur,2016-06-02,12150.0,0.0,36.0,clear
+204,Bengal Gram(Gram),Bijnaur,2016-06-02,5250.0,0.0,36.0,clear
+205,Black Gram (Urd Beans),Bijnaur,2016-06-02,9600.0,0.0,36.0,clear
+206,Green Gram (Moong),Bijnaur,2016-06-02,9000.0,0.0,36.0,clear
+207,Arhar (Tur/Red Gram),Bijnaur,2016-07-02,12100.0,0.0,27.0,clear
+208,Bengal Gram(Gram),Bijnaur,2016-07-02,5250.0,0.0,27.0,clear
+209,Black Gram (Urd Beans),Bijnaur,2016-07-02,10250.0,0.0,27.0,clear
+210,Green Gram (Moong),Bijnaur,2016-07-02,9000.0,0.0,27.0,clear
+211,Arhar (Tur/Red Gram),Bijnaur,2016-08-02,12100.0,0.0,30.2,clear
+212,Bengal Gram(Gram),Bijnaur,2016-08-02,5240.0,1.0,30.2,clear
+213,Black Gram (Urd Beans),Bijnaur,2016-08-02,10225.0,0.0,30.2,clear
+214,Green Gram (Moong),Bijnaur,2016-08-02,9000.0,0.0,30.2,clear
+215,Arhar (Tur/Red Gram),Bijnaur,2016-09-02,11900.0,0.0,31.2,clear
+216,Bengal Gram(Gram),Bijnaur,2016-09-02,5240.0,0.0,31.2,clear
+217,Black Gram (Urd Beans),Bijnaur,2016-09-02,10200.0,1.3,31.2,clear
+218,Green Gram (Moong),Bijnaur,2016-09-02,9015.0,0.0,31.2,clear
+219,Arhar (Tur/Red Gram),Bijnaur,2016-11-02,11800.0,0.0,19.4,clear
+220,Bengal Gram(Gram),Bijnaur,2016-11-02,5230.0,0.0,19.4,clear
+221,Black Gram (Urd Beans),Bijnaur,2016-11-02,10175.0,0.0,19.4,clear
+222,Green Gram (Moong),Bijnaur,2016-11-02,9010.0,0.0,19.4,clear
+223,Arhar (Tur/Red Gram),Bijnaur,2016-12-02,11800.0,0.0,22.6,clear
+224,Bengal Gram(Gram),Bijnaur,2016-12-02,5230.0,0.0,22.6,clear
+225,Black Gram (Urd Beans),Bijnaur,2016-12-02,10175.0,0.0,22.6,clear
+226,Green Gram (Moong),Bijnaur,2016-12-02,9000.0,0.0,22.6,clear
+227,Arhar (Tur/Red Gram),Bijnaur,2016-02-13,11800.0,0.0,17.0,clear
+228,Bengal Gram(Gram),Bijnaur,2016-02-13,5220.0,0.0,17.0,clear
+229,Black Gram (Urd Beans),Bijnaur,2016-02-13,10125.0,0.0,17.0,clear
+230,Green Gram (Moong),Bijnaur,2016-02-13,8970.0,0.0,17.0,clear
+231,Arhar (Tur/Red Gram),Bijnaur,2016-02-14,11800.0,0.0,20.6,clear
+232,Bengal Gram(Gram),Bijnaur,2016-02-14,5210.0,0.0,20.6,clear
+233,Black Gram (Urd Beans),Bijnaur,2016-02-14,10115.0,1.2,20.6,clear
+234,Green Gram (Moong),Bijnaur,2016-02-14,8950.0,0.0,20.6,clear
+235,Arhar (Tur/Red Gram),Bijnaur,2016-02-15,11800.0,0.0,21.4,clear
+236,Bengal Gram(Gram),Bijnaur,2016-02-15,5210.0,0.0,21.4,clear
+237,Black Gram (Urd Beans),Bijnaur,2016-02-15,10100.0,0.0,21.4,clear
+238,Green Gram (Moong),Bijnaur,2016-02-15,8950.0,0.0,21.4,clear
+239,Arhar (Tur/Red Gram),Bijnaur,2016-02-16,11750.0,0.0,23.8,clear
+240,Bengal Gram(Gram),Bijnaur,2016-02-16,5175.0,0.0,23.8,clear
+241,Black Gram (Urd Beans),Bijnaur,2016-02-16,10155.0,1.3,23.8,clear
+242,Green Gram (Moong),Bijnaur,2016-02-16,8970.0,0.0,23.8,clear
+243,Arhar (Tur/Red Gram),Bijnaur,2016-02-19,11750.0,0.0,24.4,clear
+244,Bengal Gram(Gram),Bijnaur,2016-02-19,5150.0,0.0,24.4,clear
+245,Black Gram (Urd Beans),Bijnaur,2016-02-19,10425.0,1.0,24.4,clear
+246,Green Gram (Moong),Bijnaur,2016-02-19,9030.0,0.0,24.4,clear
+247,Arhar (Tur/Red Gram),Bijnaur,2016-02-21,11750.0,0.0,25.4,clear
+248,Bengal Gram(Gram),Bijnaur,2016-02-21,5160.0,0.0,25.4,clear
+249,Black Gram (Urd Beans),Bijnaur,2016-02-21,10455.0,0.0,25.4,clear
+250,Green Gram (Moong),Bijnaur,2016-02-21,9150.0,0.0,25.4,clear
+251,Arhar (Tur/Red Gram),Bijnaur,2016-02-22,11780.0,0.0,24.6,clear
+252,Bengal Gram(Gram),Bijnaur,2016-02-22,5130.0,0.0,24.6,clear
+253,Black Gram (Urd Beans),Bijnaur,2016-02-22,10457.5,0.0,24.6,clear
+254,Green Gram (Moong),Bijnaur,2016-02-22,9200.0,0.0,24.6,clear
+255,Arhar (Tur/Red Gram),Bijnaur,2016-02-27,11700.0,0.0,26.4,clear
+256,Arhar (Tur/Red Gram),Chaandpur,2016-02-27,11750.0,3.0,26.4,clear
+257,Bengal Gram(Gram),Bijnaur,2016-02-27,5060.0,0.0,26.4,clear
+258,Bengal Gram(Gram),Chaandpur,2016-02-27,5100.0,2.5,26.4,clear
+259,Black Gram (Urd Beans),Bijnaur,2016-02-27,10400.0,1.1,26.4,clear
+260,Black Gram (Urd Beans),Chaandpur,2016-02-27,11200.0,20.0,26.4,clear
+261,Green Gram (Moong),Bijnaur,2016-02-27,9100.0,0.0,26.4,clear
+262,Arhar (Tur/Red Gram),Bijnaur,2016-02-28,11700.0,0.0,26.8,clear
+263,Bengal Gram(Gram),Bijnaur,2016-02-28,5060.0,0.0,26.8,clear
+264,Black Gram (Urd Beans),Bijnaur,2016-02-28,10290.0,0.0,26.8,clear
+265,Green Gram (Moong),Bijnaur,2016-02-28,9150.0,0.0,26.8,clear
+266,Arhar (Tur/Red Gram),Bijnaur,2016-01-03,11600.0,0.0,8.8,clear
+267,Bengal Gram(Gram),Bijnaur,2016-01-03,5050.0,0.0,8.8,clear
+268,Black Gram (Urd Beans),Bijnaur,2016-01-03,10265.0,0.0,8.8,clear
+269,Green Gram (Moong),Bijnaur,2016-01-03,9150.0,0.0,8.8,clear
+270,Arhar (Tur/Red Gram),Bijnaur,2016-04-03,10650.0,0.0,34.0,clear
+271,Bengal Gram(Gram),Bijnaur,2016-04-03,5050.0,0.0,34.0,clear
+272,Green Gram (Moong),Bijnaur,2016-04-03,9125.0,0.0,34.0,clear
+273,Arhar (Tur/Red Gram),Bijnaur,2016-05-03,11600.0,0.0,27.2,clear
+274,Bengal Gram(Gram),Bijnaur,2016-05-03,5040.0,0.0,27.2,clear
+275,Black Gram (Urd Beans),Bijnaur,2016-05-03,10175.0,1.1,27.2,clear
+276,Green Gram (Moong),Bijnaur,2016-05-03,9125.0,0.0,27.2,clear
+277,Arhar (Tur/Red Gram),Bijnaur,2016-06-03,11600.0,0.0,36.0,clear
+278,Bengal Gram(Gram),Bijnaur,2016-06-03,5050.0,1.0,36.0,clear
+279,Black Gram (Urd Beans),Bijnaur,2016-06-03,10170.0,0.0,36.0,clear
+280,Green Gram (Moong),Bijnaur,2016-06-03,9100.0,0.0,36.0,clear
+281,Arhar (Tur/Red Gram),Bijnaur,2016-07-03,11600.0,0.7,27.2,clear
+282,Bengal Gram(Gram),Bijnaur,2016-07-03,5060.0,0.0,27.2,clear
+283,Black Gram (Urd Beans),Bijnaur,2016-07-03,10167.5,1.5,27.2,clear
+284,Green Gram (Moong),Bijnaur,2016-07-03,9100.0,0.0,27.2,clear
+285,Arhar (Tur/Red Gram),Bijnaur,2016-08-03,11600.0,0.0,31.2,clear
+286,Bengal Gram(Gram),Bijnaur,2016-08-03,5060.0,0.0,31.2,clear
+287,Black Gram (Urd Beans),Bijnaur,2016-08-03,10162.5,0.0,31.2,clear
+288,Green Gram (Moong),Bijnaur,2016-08-03,9100.0,0.0,31.2,clear
+289,Arhar (Tur/Red Gram),Bijnaur,2016-10-03,11700.0,0.0,32.4,clear
+290,Bengal Gram(Gram),Bijnaur,2016-10-03,5070.0,0.0,32.4,clear
+291,Black Gram (Urd Beans),Bijnaur,2016-10-03,10145.0,1.2,32.4,clear
+292,Green Gram (Moong),Bijnaur,2016-10-03,9080.0,0.0,32.4,clear
+293,Arhar (Tur/Red Gram),Bijnaur,2016-11-03,10750.0,0.0,27.4,clear
+294,Bengal Gram(Gram),Bijnaur,2016-11-03,5070.0,0.0,27.4,clear
+295,Black Gram (Urd Beans),Bijnaur,2016-11-03,10137.5,0.0,27.4,clear
+296,Green Gram (Moong),Bijnaur,2016-11-03,9050.0,0.0,27.4,clear
+297,Arhar (Tur/Red Gram),Bijnaur,2016-03-15,11800.0,0.0,17.2,clear
+298,Bengal Gram(Gram),Bijnaur,2016-03-15,5050.0,1.0,17.2,clear
+299,Black Gram (Urd Beans),Bijnaur,2016-03-15,10155.0,0.0,17.2,clear
+300,Green Gram (Moong),Bijnaur,2016-03-15,9050.0,0.0,17.2,clear
+301,Arhar (Tur/Red Gram),Bijnaur,2016-03-19,11800.0,0.0,28.6,clear
+302,Bengal Gram(Gram),Bijnaur,2016-03-19,5050.0,0.0,28.6,clear
+303,Black Gram (Urd Beans),Bijnaur,2016-03-19,10850.0,0.0,28.6,clear
+304,Arhar (Tur/Red Gram),Bijnaur,2016-04-16,11875.0,0.0,33.8,clear
+305,Bengal Gram(Gram),Bijnaur,2016-04-16,5065.0,1.6,33.8,clear
+306,Black Gram (Urd Beans),Bijnaur,2016-04-16,10865.0,0.0,33.8,clear
+307,Arhar (Tur/Red Gram),Bijnaur,2016-04-17,11875.0,0.0,33.8,clear
+308,Bengal Gram(Gram),Bijnaur,2016-04-17,5070.0,0.0,33.8,clear
+309,Black Gram (Urd Beans),Bijnaur,2016-04-17,10865.0,0.0,33.8,clear
+310,Arhar (Tur/Red Gram),Bijnaur,2016-04-18,10865.0,0.0,33.6,clear
+311,Bengal Gram(Gram),Bijnaur,2016-04-18,5070.0,1.0,33.6,clear
+312,Black Gram (Urd Beans),Bijnaur,2016-04-18,10865.0,0.0,33.6,clear
+313,Arhar (Tur/Red Gram),Bijnaur,2016-04-19,11900.0,0.0,34.8,clear
+314,Bengal Gram(Gram),Bijnaur,2016-04-19,5150.0,0.0,34.8,clear
+315,Black Gram (Urd Beans),Bijnaur,2016-04-19,10875.0,0.0,34.8,clear
+316,Arhar (Tur/Red Gram),Bijnaur,2016-04-21,11000.0,0.0,34.6,clear
+317,Bengal Gram(Gram),Bijnaur,2016-04-21,5350.0,0.0,34.6,clear
+318,Black Gram (Urd Beans),Bijnaur,2016-04-21,10410.0,1.2,34.6,clear
+319,Green Gram (Moong),Bijnaur,2016-04-21,9150.0,0.0,34.6,clear
+320,Arhar (Tur/Red Gram),Bijnaur,2016-04-22,12250.0,0.0,34.2,clear
+321,Arhar (Tur/Red Gram),Nagina,2016-04-22,12300.0,4.5,34.2,clear
+322,Bengal Gram(Gram),Bijnaur,2016-04-22,5400.0,1.0,34.2,clear
+323,Bengal Gram(Gram),Nagina,2016-04-22,5450.0,6.0,34.2,clear
+324,Black Gram (Urd Beans),Bijnaur,2016-04-22,11500.0,0.0,34.2,clear
+325,Black Gram (Urd Beans),Nagina,2016-04-22,12600.0,35.0,34.2,clear
+326,Green Gram (Moong),Bijnaur,2016-04-22,9150.0,9150.0,34.2,clear
+327,Arhar (Tur/Red Gram),Bijnaur,2016-04-23,12300.0,0.0,34.8,clear
+328,Arhar (Tur/Red Gram),Kiratpur,2016-04-23,12500.0,2.5,34.8,clear
+329,Bengal Gram(Gram),Bijnaur,2016-04-23,5500.0,0.0,34.8,clear
+330,Bengal Gram(Gram),Kiratpur,2016-04-23,5600.0,28.0,34.8,clear
+331,Black Gram (Urd Beans),Bijnaur,2016-04-23,12500.0,0.0,34.8,clear
+332,Black Gram (Urd Beans),Kiratpur,2016-04-23,12650.0,47.0,34.8,clear
+333,Arhar (Tur/Red Gram),Bijnaur,2016-04-24,12300.0,0.0,34.6,clear
+334,Bengal Gram(Gram),Bijnaur,2016-04-24,5550.0,0.0,34.6,clear
+335,Black Gram (Urd Beans),Bijnaur,2016-04-24,11600.0,0.0,34.6,clear
+336,Green Gram (Moong),Bijnaur,2016-04-24,9250.0,0.0,34.6,clear
+337,Arhar (Tur/Red Gram),Bijnaur,2016-04-25,12300.0,0.0,34.2,clear
+338,Arhar (Tur/Red Gram),Dhampur,2016-04-25,12350.0,70.0,34.2,clear
+339,Bengal Gram(Gram),Bijnaur,2016-04-25,5600.0,0.0,34.2,clear
+340,Bengal Gram(Gram),Dhampur,2016-04-25,5700.0,38.0,34.2,clear
+341,Black Gram (Urd Beans),Bijnaur,2016-04-25,11650.0,1.2,34.2,clear
+342,Black Gram (Urd Beans),Dhampur,2016-04-25,12750.0,40.0,34.2,clear
+343,Green Gram (Moong),Bijnaur,2016-04-25,9300.0,0.0,34.2,clear
+344,Arhar (Tur/Red Gram),Bijnaur,2016-04-26,12300.0,0.0,34.4,clear
+345,Arhar (Tur/Red Gram),Chaandpur,2016-04-26,12350.0,18.0,34.4,clear
+346,Bengal Gram(Gram),Bijnaur,2016-04-26,5600.0,0.0,34.4,clear
+347,Bengal Gram(Gram),Chaandpur,2016-04-26,5700.0,12.0,34.4,clear
+348,Black Gram (Urd Beans),Bijnaur,2016-04-26,11675.0,0.0,34.4,clear
+349,Black Gram (Urd Beans),Chaandpur,2016-04-26,12700.0,36.5,34.4,clear
+350,Arhar (Tur/Red Gram),Bijnaur,2016-04-28,12300.0,0.0,34.2,clear
+351,Bengal Gram(Gram),Bijnaur,2016-04-28,5650.0,0.0,34.2,clear
+352,Black Gram (Urd Beans),Bijnaur,2016-04-28,11700.0,0.0,34.2,clear
+353,Green Gram (Moong),Bijnaur,2016-04-28,9350.0,0.0,34.2,clear
+354,Arhar (Tur/Red Gram),Bijnaur,2016-04-07,12880.0,0.0,33.8,clear
+355,Bengal Gram(Gram),Bijnaur,2016-04-07,6250.0,0.0,33.8,clear
+356,Black Gram (Urd Beans),Bijnaur,2016-04-07,6250.0,0.0,33.8,clear
+357,Arhar (Tur/Red Gram),Bijnaur,2016-08-07,12865.0,0.0,27.2,clear
+358,Bengal Gram(Gram),Bijnaur,2016-08-07,6600.0,4.5,27.2,clear
+359,Black Gram (Urd Beans),Bijnaur,2016-08-07,12850.0,0.0,27.2,clear
+360,Arhar (Tur/Red Gram),Bijnaur,2016-11-07,12570.0,0.0,26.6,clear
+361,Bengal Gram(Gram),Bijnaur,2016-11-07,6610.0,4.0,26.6,clear
+362,Black Gram (Urd Beans),Bijnaur,2016-11-07,12850.0,0.0,26.6,clear
+363,Arhar (Tur/Red Gram),Bijnaur,2016-12-07,12560.0,0.0,21.6,clear
+364,Bengal Gram(Gram),Bijnaur,2016-12-07,6615.0,3.5,21.6,clear
+365,Black Gram (Urd Beans),Bijnaur,2016-12-07,12850.0,0.0,21.6,clear
+366,Arhar (Tur/Red Gram),Haldaur,2016-04-20,11925.0,0.0,34.6,clear
+367,Bengal Gram(Gram),Haldaur,2016-04-20,5320.0,2.0,34.6,clear
+368,Black Gram (Urd Beans),Haldaur,2016-04-20,10950.0,9.5,34.6,clear
+369,Arhar (Tur/Red Gram),Nagina,2016-01-27,12500.0,4.5,17.0,clear
+370,Bengal Gram(Gram),Nagina,2016-01-27,5200.0,3.0,17.0,clear
+371,Black Gram (Urd Beans),Nagina,2016-01-27,11300.0,40.0,17.0,clear
+372,Arhar (Tur/Red Gram),Najibabad,2016-02-29,11750.0,1.0,17.6,clear
+373,Bengal Gram(Gram),Najibabad,2016-02-29,5080.0,1.0,17.6,clear
+374,Black Gram (Urd Beans),Najibabad,2016-02-29,10950.0,12.0,17.6,clear
+375,Arhar (Tur/Red Gram),Najibabad,2016-04-27,12300.0,2.0,34.2,clear
+376,Bengal Gram(Gram),Najibabad,2016-04-27,5700.0,75.0,34.2,clear
+377,Black Gram (Urd Beans),Najibabad,2016-04-27,12750.0,25.0,34.2,clear
+378,Bengal Gram(Gram),Bijnaur,2016-04-01,5450.0,0.0,34.2,clear
+379,Black Gram (Urd Beans),Bijnaur,2016-04-01,9840.0,0.0,34.2,clear
+380,Green Gram (Moong),Bijnaur,2016-04-01,9020.0,0.0,34.2,clear
+381,Bengal Gram(Gram),Bijnaur,2016-02-04,5055.0,15.0,9.8,clear
+382,Bengal Gram(Gram),Bijnaur,2016-07-15,7020.0,4.5,32.0,clear
+383,Black Gram (Urd Beans),Bijnaur,2016-07-15,12660.0,0.0,32.0,clear
+384,Bengal Gram(Gram),Bijnaur,2016-07-16,7020.0,0.0,27.4,clear
+385,Black Gram (Urd Beans),Bijnaur,2016-07-16,12655.0,0.0,27.4,clear
+386,Bengal Gram(Gram),Bijnaur,2016-07-30,8080.0,874.0,30.2,clear
+387,Black Gram (Urd Beans),Bijnaur,2016-07-30,10695.0,86.0,30.2,clear
+388,Bengal Gram(Gram),Bijnaur,2016-01-08,8080.0,0.0,21.2,clear
+389,Black Gram (Urd Beans),Bijnaur,2016-01-08,10695.0,0.0,21.2,clear
+390,Bengal Gram(Gram),Bijnaur,2016-08-16,8610.0,9.0,31.4,clear
+391,Bengal Gram(Gram),Bijnaur,2016-08-26,8660.0,87.0,32.0,clear
+392,Black Gram (Urd Beans),Bijnaur,2016-08-26,10730.0,44.0,32.0,clear
+393,Green Gram (Moong),Bijnaur,2016-08-26,8665.0,30.0,32.0,clear
+394,Bengal Gram(Gram),Bijnaur,2016-10-21,8490.0,0.4,29.2,clear
+395,Bengal Gram(Gram),Bijnaur,2016-10-22,8490.0,4.0,29.0,clear
+396,Bengal Gram(Gram),Bijnaur,2016-10-24,8480.0,0.5,28.6,clear
+397,Bengal Gram(Gram),Bijnaur,2016-10-25,8475.0,0.6,28.4,clear
+398,Bengal Gram(Gram),Bijnaur,2016-10-27,8485.0,0.4,28.0,clear
+399,Bengal Gram(Gram),Bijnaur,2016-10-28,8490.0,0.5,28.6,clear
+400,Bengal Gram(Gram),Bijnaur,2016-03-11,8495.0,0.6,27.2,clear
+401,Bengal Gram(Gram),Bijnaur,2016-04-11,8500.0,0.5,26.0,clear
+402,Bengal Gram(Gram),Bijnaur,2016-05-11,8490.0,0.6,32.2,clear
+403,Bengal Gram(Gram),Bijnaur,2016-07-11,8485.0,0.6,31.8,clear
+404,Bengal Gram(Gram),Bijnaur,2016-08-11,8500.0,0.5,31.4,clear
+405,Bengal Gram(Gram),Bijnaur,2016-10-11,8510.0,0.6,31.2,clear
+406,Bengal Gram(Gram),Bijnaur,2016-11-11,8520.0,0.7,26.4,clear
+407,Bengal Gram(Gram),Bijnaur,2016-11-15,8520.0,0.7,29.2,clear
+408,Bengal Gram(Gram),Bijnaur,2016-11-17,8530.0,0.6,24.6,clear
+409,Bengal Gram(Gram),Bijnaur,2016-11-18,8520.0,0.7,24.4,clear
+410,Bengal Gram(Gram),Bijnaur,2016-11-19,8525.0,0.4,24.4,clear
+411,Bengal Gram(Gram),Bijnaur,2016-11-21,8525.0,0.4,24.2,clear
+412,Bengal Gram(Gram),Bijnaur,2016-11-22,8520.0,0.5,24.2,clear
+413,Bengal Gram(Gram),Bijnaur,2016-11-24,8500.0,0.7,24.0,clear
+414,Bengal Gram(Gram),Bijnaur,2016-11-25,8510.0,0.6,23.6,clear
+415,Bengal Gram(Gram),Bijnaur,2016-05-12,8540.0,0.6,31.0,clear
+416,Bengal Gram(Gram),Bijnaur,2016-08-12,8550.0,0.7,29.8,clear
+417,Bengal Gram(Gram),Bijnaur,2016-09-12,8540.0,0.6,30.0,clear
+418,Bengal Gram(Gram),Bijnaur,2016-12-13,8545.0,0.6,19.6,clear
+419,Bengal Gram(Gram),Bijnaur,2016-12-15,8550.0,0.5,25.0,clear
+420,Bengal Gram(Gram),Bijnaur,2016-12-17,8545.0,0.6,18.6,clear
+421,Bengal Gram(Gram),Bijnaur,2016-12-19,8530.0,0.5,11.2,clear
+422,Bengal Gram(Gram),Bijnaur,2016-12-20,8540.0,0.6,17.6,clear
+423,Bengal Gram(Gram),Bijnaur,2016-12-22,8560.0,0.5,17.6,clear
+424,Bengal Gram(Gram),Bijnaur,2016-12-23,8550.0,0.0,17.6,clear
+425,Bengal Gram(Gram),Bijnaur,2016-12-24,8550.0,0.0,17.2,clear
+426,Bengal Gram(Gram),Bijnaur,2016-12-25,8570.0,0.4,16.6,clear
+427,Bengal Gram(Gram),Bijnaur,2016-12-26,8570.0,0.4,17.2,clear
+428,Bengal Gram(Gram),Bijnaur,2016-12-27,8560.0,0.3,17.2,clear
+429,Bengal Gram(Gram),Bijnaur,2016-12-29,8570.0,0.2,16.6,clear
+430,Bengal Gram(Gram),Bijnaur,2017-02-01,8500.0,0.3,14.6,clear
+431,Bengal Gram(Gram),Bijnaur,2017-03-01,8510.0,0.5,25.6,clear
+432,Bengal Gram(Gram),Bijnaur,2017-09-01,8540.0,0.8,29.6,clear
+433,Bengal Gram(Gram),Bijnaur,2017-10-01,8550.0,0.9,28.6,clear
+434,Bengal Gram(Gram),Bijnaur,2017-12-01,8540.0,0.8,18.2,clear
+435,Bengal Gram(Gram),Bijnaur,2017-01-13,8530.0,0.9,15.2,clear
+436,Bengal Gram(Gram),Bijnaur,2017-01-16,8520.0,0.6,15.6,clear
+437,Bengal Gram(Gram),Bijnaur,2017-01-17,8400.0,0.7,11.6,clear
+438,Bengal Gram(Gram),Bijnaur,2017-01-19,8410.0,0.3,16.6,clear
+439,Bengal Gram(Gram),Bijnaur,2017-01-20,8400.0,0.7,9.2,clear
+440,Bengal Gram(Gram),Bijnaur,2017-01-21,8410.0,0.8,16.4,clear
+441,Bengal Gram(Gram),Bijnaur,2017-01-23,8300.0,1.0,15.4,clear
+442,Bengal Gram(Gram),Bijnaur,2017-01-30,8400.0,1.0,16.2,clear
+443,Bengal Gram(Gram),Bijnaur,2017-02-02,9150.0,0.3,16.4,clear
+444,Bengal Gram(Gram),Bijnaur,2017-03-02,9150.0,0.4,26.2,clear
+445,Bengal Gram(Gram),Bijnaur,2017-09-03,7200.0,1.9,30.6,clear
+446,Bengal Gram(Gram),Bijnaur,2017-10-03,7100.0,1.0,30.0,clear
+447,Bengal Gram(Gram),Bijnaur,2017-01-04,6940.0,0.8,17.0,clear
+448,Bengal Gram(Gram),Bijnaur,2017-06-04,7000.0,0.9,35.6,clear
+449,Bengal Gram(Gram),Bijnaur,2017-07-04,7010.0,1.0,32.4,clear
+450,Bengal Gram(Gram),Bijnaur,2017-10-04,7000.0,0.9,29.6,clear
+451,Bengal Gram(Gram),Bijnaur,2017-12-04,5800.0,147.5,20.2,clear
+452,Bengal Gram(Gram),Bijnaur,2017-04-22,6065.0,1.1,35.2,clear
+453,Bengal Gram(Gram),Bijnaur,2017-04-24,6070.0,1.0,35.4,clear
+454,Bengal Gram(Gram),Bijnaur,2017-04-25,6060.0,1.1,35.4,clear
+455,Bengal Gram(Gram),Bijnaur,2017-04-27,6050.0,1.2,34.6,clear
+456,Bengal Gram(Gram),Bijnaur,2017-04-28,6065.0,1.0,27.2,clear
+457,Bengal Gram(Gram),Bijnaur,2017-01-05,6075.0,1.4,17.8,clear
+458,Bengal Gram(Gram),Bijnaur,2017-02-05,6080.0,1.2,15.6,clear
+459,Bengal Gram(Gram),Bijnaur,2017-05-05,6300.0,1.0,34.6,clear
+460,Bengal Gram(Gram),Bijnaur,2017-06-05,6300.0,1.2,39.4,clear
+461,Bengal Gram(Gram),Bijnaur,2017-08-05,6310.0,1.4,29.2,clear
+462,Bengal Gram(Gram),Bijnaur,2017-09-05,6320.0,1.0,31.4,clear
+463,Bengal Gram(Gram),Bijnaur,2017-11-05,6310.0,1.2,25.2,clear
+464,Bengal Gram(Gram),Bijnaur,2017-05-15,6340.0,1.7,35.6,clear
+465,Bengal Gram(Gram),Bijnaur,2017-05-16,6350.0,1.5,36.2,clear
+466,Bengal Gram(Gram),Bijnaur,2017-05-18,6340.0,1.6,35.4,clear
+467,Bengal Gram(Gram),Bijnaur,2017-05-19,6350.0,1.7,35.6,clear
+468,Bengal Gram(Gram),Bijnaur,2017-05-20,6340.0,1.8,35.4,clear
+469,Bengal Gram(Gram),Bijnaur,2017-05-22,6560.0,1.9,32.4,clear
+470,Bengal Gram(Gram),Bijnaur,2017-05-23,6565.0,1.8,33.4,clear
+471,Bengal Gram(Gram),Bijnaur,2017-05-26,6570.0,1.7,35.6,clear
+472,Bengal Gram(Gram),Bijnaur,2017-05-30,6540.0,2.0,32.0,clear
+473,Bengal Gram(Gram),Bijnaur,2017-01-06,6540.0,7.5,16.4,clear
+474,Bengal Gram(Gram),Bijnaur,2017-02-06,6570.0,2.0,17.0,clear
+475,Bengal Gram(Gram),Bijnaur,2017-05-06,6550.0,1.8,34.2,clear
+476,Bengal Gram(Gram),Bijnaur,2017-06-06,6560.0,1.7,34.2,clear
+477,Bengal Gram(Gram),Bijnaur,2017-08-06,6560.0,1.8,32.6,clear
+478,Bengal Gram(Gram),Bijnaur,2017-07-27,6250.0,1.8,31.8,clear
+479,Black Gram (Urd Beans),Bijnaur,2017-07-27,6500.0,5.0,31.8,clear
+480,Lentil(Masur),Bijnaur,2017-07-27,6400.0,4.0,31.8,clear
+481,Bengal Gram(Gram),Bijnaur,2017-07-28,6220.0,1.6,31.6,clear
+482,Black Gram (Urd Beans),Bijnaur,2017-07-28,6480.0,0.4,31.6,clear
+483,Lentil(Masur),Bijnaur,2017-07-28,6380.0,0.3,31.6,clear
+484,Bengal Gram(Gram),Bijnaur,2017-07-29,6200.0,2.0,32.2,clear
+485,Black Gram (Urd Beans),Bijnaur,2017-07-29,6480.0,0.3,32.2,clear
+486,Lentil(Masur),Bijnaur,2017-07-29,6350.0,0.4,32.2,clear
+487,Bengal Gram(Gram),Bijnaur,2017-03-08,6440.0,0.4,19.6,clear
+488,Bengal Gram(Gram),Bijnaur,2017-05-08,6185.0,2.0,34.8,clear
+489,Bengal Gram(Gram),Bijnaur,2017-06-08,6950.0,2.1,31.4,clear
+490,Black Gram (Urd Beans),Bijnaur,2017-06-08,6410.0,0.0,31.4,clear
+491,Bengal Gram(Gram),Bijnaur,2017-10-08,6120.0,2.1,31.6,clear
+492,Bengal Gram(Gram),Bijnaur,2017-08-13,6110.0,2.0,31.8,clear
+493,Black Gram (Urd Beans),Bijnaur,2017-08-13,6280.0,0.0,31.8,clear
+494,Bengal Gram(Gram),Bijnaur,2017-08-17,6150.0,1.7,32.6,clear
+495,Black Gram (Urd Beans),Bijnaur,2017-08-17,6200.0,0.4,32.6,clear
+496,Lentil(Masur),Bijnaur,2017-08-17,6100.0,0.4,32.6,clear
+497,Bengal Gram(Gram),Bijnaur,2017-08-18,6160.0,1.6,32.4,clear
+498,Black Gram (Urd Beans),Bijnaur,2017-08-18,6200.0,0.3,32.4,clear
+499,Bengal Gram(Gram),Bijnaur,2017-08-19,6150.0,1.7,29.0,clear
+500,Lentil(Masur),Bijnaur,2017-08-19,6090.0,0.2,29.0,clear
+501,Bengal Gram(Gram),Bijnaur,2017-08-20,6150.0,1.8,31.2,clear
+502,Black Gram (Urd Beans),Bijnaur,2017-08-20,6200.0,0.4,31.2,clear
+503,Lentil(Masur),Bijnaur,2017-08-20,6100.0,0.0,31.2,clear
+504,Bengal Gram(Gram),Bijnaur,2017-08-21,6160.0,1.8,30.6,clear
+505,Bengal Gram(Gram),Bijnaur,2017-08-22,6170.0,1.6,31.2,clear
+506,Black Gram (Urd Beans),Bijnaur,2017-08-22,6180.0,0.5,31.2,clear
+507,Lentil(Masur),Bijnaur,2017-08-22,6050.0,0.3,31.2,clear
+508,Bengal Gram(Gram),Bijnaur,2017-02-09,6240.0,1.7,18.2,clear
+509,Black Gram (Urd Beans),Bijnaur,2017-02-09,6140.0,0.7,18.2,clear
+510,Bengal Gram(Gram),Bijnaur,2017-07-09,6260.0,2.0,32.2,clear
+511,Black Gram (Urd Beans),Bijnaur,2017-07-09,7010.0,0.4,32.2,clear
+512,Lentil(Masur),Bijnaur,2017-07-09,5800.0,0.1,32.2,clear
+513,Bengal Gram(Gram),Bijnaur,2017-08-09,6270.0,2.3,30.2,clear
+514,Bengal Gram(Gram),Bijnaur,2017-11-09,6280.0,2.1,23.6,clear
+515,Lentil(Masur),Bijnaur,2017-11-09,5700.0,0.4,23.6,clear
+516,Bengal Gram(Gram),Bijnaur,2017-12-09,6285.0,1.8,20.2,clear
+517,Black Gram (Urd Beans),Bijnaur,2017-12-09,6120.0,0.3,20.2,clear
+518,Lentil(Masur),Bijnaur,2017-12-09,5680.0,0.2,20.2,clear
+519,Bengal Gram(Gram),Bijnaur,2017-09-14,6300.0,1.7,32.0,clear
+520,Black Gram (Urd Beans),Bijnaur,2017-09-14,6140.0,0.4,32.0,clear
+521,Lentil(Masur),Bijnaur,2017-09-14,5600.0,0.3,32.0,clear
+522,Bengal Gram(Gram),Bijnaur,2017-09-23,6280.0,1.3,24.2,clear
+523,Black Gram (Urd Beans),Bijnaur,2017-09-23,6080.0,0.2,24.2,clear
+524,Lentil(Masur),Bijnaur,2017-09-23,5480.0,0.2,24.2,clear
+525,Bengal Gram(Gram),Bijnaur,2017-09-24,6300.0,0.9,25.4,clear
+526,Lentil(Masur),Bijnaur,2017-09-24,5450.0,0.2,25.4,clear
+527,Bengal Gram(Gram),Bijnaur,2017-09-28,6280.0,1.7,29.4,clear
+528,Black Gram (Urd Beans),Bijnaur,2017-09-28,6040.0,0.2,29.4,clear
+529,Lentil(Masur),Bijnaur,2017-09-28,5400.0,0.4,29.4,clear
+530,Bengal Gram(Gram),Bijnaur,2017-09-29,6310.0,1.2,29.6,clear
+531,Black Gram (Urd Beans),Bijnaur,2017-09-29,6050.0,0.0,29.6,clear
+532,Bengal Gram(Gram),Bijnaur,2017-01-10,6350.0,1.8,10.2,clear
+533,Bengal Gram(Gram),Bijnaur,2017-03-10,5350.0,1.6,24.4,clear
+534,Black Gram (Urd Beans),Bijnaur,2017-03-10,6120.0,0.3,24.4,clear
+535,Lentil(Masur),Bijnaur,2017-03-10,5280.0,0.2,24.4,clear
+536,Bengal Gram(Gram),Bijnaur,2017-05-10,6380.0,1.0,34.4,clear
+537,Black Gram (Urd Beans),Bijnaur,2017-05-10,6150.0,0.2,34.4,clear
+538,Bengal Gram(Gram),Bijnaur,2017-06-10,6400.0,1.2,33.6,clear
+539,Black Gram (Urd Beans),Bijnaur,2017-06-10,6150.0,0.0,33.6,clear
+540,Bengal Gram(Gram),Bijnaur,2017-07-10,6400.0,1.3,31.4,clear
+541,Black Gram (Urd Beans),Bijnaur,2017-07-10,6150.0,0.3,31.4,clear
+542,Lentil(Masur),Bijnaur,2017-07-10,5200.0,0.3,31.4,clear
+543,Bengal Gram(Gram),Bijnaur,2017-08-10,6400.0,1.2,30.4,clear
+544,Bengal Gram(Gram),Bijnaur,2017-09-10,6385.0,1.4,31.2,clear
+545,Black Gram (Urd Beans),Bijnaur,2017-09-10,6150.0,0.2,31.2,clear
+546,Lentil(Masur),Bijnaur,2017-09-10,5150.0,0.2,31.2,clear
+547,Bengal Gram(Gram),Bijnaur,2017-10-10,6420.0,1.0,30.6,clear
+548,Black Gram (Urd Beans),Bijnaur,2017-10-10,6150.0,0.3,30.6,clear
+549,Lentil(Masur),Bijnaur,2017-10-10,5120.0,0.1,30.6,clear
+550,Bengal Gram(Gram),Bijnaur,2017-12-10,6430.0,0.9,22.4,clear
+551,Bengal Gram(Gram),Bijnaur,2017-10-13,6440.0,1.0,29.4,clear
+552,Black Gram (Urd Beans),Bijnaur,2017-10-13,6130.0,0.3,29.4,clear
+553,Lentil(Masur),Bijnaur,2017-10-13,5090.0,0.3,29.4,clear
+554,Bengal Gram(Gram),Bijnaur,2017-10-14,6440.0,1.2,29.2,clear
+555,Black Gram (Urd Beans),Bijnaur,2017-10-14,6140.0,0.2,29.2,clear
+556,Lentil(Masur),Bijnaur,2017-10-14,5050.0,0.2,29.2,clear
+557,Bengal Gram(Gram),Bijnaur,2017-10-15,6450.0,0.9,29.4,clear
+558,Black Gram (Urd Beans),Bijnaur,2017-10-15,6130.0,0.3,29.4,clear
+559,Bengal Gram(Gram),Bijnaur,2017-10-24,6500.0,1.2,22.4,clear
+560,Black Gram (Urd Beans),Bijnaur,2017-10-24,6140.0,0.3,22.4,clear
+561,Bengal Gram(Gram),Bijnaur,2017-10-26,6480.0,1.0,23.2,clear
+562,Black Gram (Urd Beans),Bijnaur,2017-10-26,6150.0,0.4,23.2,clear
+563,Lentil(Masur),Bijnaur,2017-10-26,4880.0,0.3,23.2,clear
+564,Bengal Gram(Gram),Bijnaur,2017-10-27,6500.0,0.9,22.4,clear
+565,Bengal Gram(Gram),Bijnaur,2017-10-28,6485.0,1.0,22.6,clear
+566,Black Gram (Urd Beans),Bijnaur,2017-10-28,6150.0,0.4,22.6,clear
+567,Bengal Gram(Gram),Bijnaur,2017-10-30,6480.0,1.2,22.4,clear
+568,Black Gram (Urd Beans),Bijnaur,2017-10-30,6160.0,0.3,22.4,clear
+569,Lentil(Masur),Bijnaur,2017-10-30,4850.0,0.3,22.4,clear
+570,Bengal Gram(Gram),Bijnaur,2017-02-11,6440.0,1.4,18.6,clear
+571,Black Gram (Urd Beans),Bijnaur,2017-02-11,6950.0,0.6,18.6,clear
+572,Lentil(Masur),Bijnaur,2017-02-11,4880.0,0.4,18.6,clear
+573,Bengal Gram(Gram),Bijnaur,2017-03-11,6420.0,0.9,15.2,clear
+574,Black Gram (Urd Beans),Bijnaur,2017-03-11,6940.0,0.6,15.2,clear
+575,Lentil(Masur),Bijnaur,2017-03-11,4850.0,0.3,15.2,clear
+576,Black Gram (Urd Beans),Bijnaur,2017-11-08,6300.0,0.4,24.6,clear
+577,Black Gram (Urd Beans),Bijnaur,2017-12-08,6280.0,3.0,19.6,clear
+578,Black Gram (Urd Beans),Bijnaur,2017-05-09,6130.0,0.4,35.0,clear
+579,Black Gram (Urd Beans),Bijnaur,2017-09-09,6140.0,0.4,31.2,clear
+580,Lentil(Masur),Bijnaur,2017-09-09,5750.0,0.0,31.2,clear
+581,Black Gram (Urd Beans),Bijnaur,2017-10-09,7000.0,0.2,31.4,clear
+582,Black Gram (Urd Beans),Bijnaur,2017-09-25,6060.0,0.4,28.4,clear
+583,Black Gram (Urd Beans),Bijnaur,2017-09-26,6050.0,0.3,30.0,clear
+584,Black Gram (Urd Beans),Bijnaur,2017-10-22,6150.0,1.8,24.2,clear
+585,Lentil(Masur),Bijnaur,2017-08-14,6150.0,0.2,31.2,clear
+586,Lentil(Masur),Bijnaur,2017-03-09,5820.0,0.5,25.4,clear
+587,Lentil(Masur),Bijnaur,2017-10-16,5000.0,0.5,28.2,clear

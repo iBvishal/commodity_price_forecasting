@@ -1,0 +1,1564 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Purulia,2015-12-12,14500.0,0.0,27.6,clear
+1,Black Gram (Urd Beans),Purulia,2015-12-12,12500.0,0.0,27.6,clear
+2,Lentil(Masur),Purulia,2015-12-12,9200.0,0.0,27.6,clear
+3,Arhar (Tur/Red Gram),Purulia,2015-12-13,14500.0,0.0,24.0,clear
+4,Black Gram (Urd Beans),Purulia,2015-12-13,13000.0,0.0,24.0,clear
+5,Lentil(Masur),Purulia,2015-12-13,9200.0,0.0,24.0,clear
+6,Arhar (Tur/Red Gram),Purulia,2015-12-14,14400.0,0.0,23.0,clear
+7,Black Gram (Urd Beans),Purulia,2015-12-14,12500.0,0.0,23.0,clear
+8,Lentil(Masur),Purulia,2015-12-14,9200.0,24.0,23.0,clear
+9,Arhar (Tur/Red Gram),Purulia,2015-12-15,14300.0,18.0,23.0,clear
+10,Black Gram (Urd Beans),Purulia,2015-12-15,12500.0,0.0,23.0,clear
+11,Lentil(Masur),Balarampur,2015-12-15,9200.0,0.45,23.0,clear
+12,Lentil(Masur),Kasipur,2015-12-15,9300.0,0.3,23.0,clear
+13,Lentil(Masur),Purulia,2015-12-15,9200.0,12.0,23.0,clear
+14,Arhar (Tur/Red Gram),Purulia,2015-12-16,14200.0,0.0,21.8,clear
+15,Black Gram (Urd Beans),Purulia,2015-12-16,12500.0,0.0,21.8,clear
+16,Lentil(Masur),Balarampur,2015-12-16,9200.0,0.43,21.8,clear
+17,Lentil(Masur),Kasipur,2015-12-16,9300.0,0.4,21.8,clear
+18,Lentil(Masur),Purulia,2015-12-16,9100.0,14.0,21.8,clear
+19,Arhar (Tur/Red Gram),Purulia,2015-12-17,13700.0,0.0,20.0,clear
+20,Black Gram (Urd Beans),Purulia,2015-12-17,12500.0,10.0,20.0,clear
+21,Lentil(Masur),Balarampur,2015-12-17,9200.0,0.42,20.0,clear
+22,Lentil(Masur),Kasipur,2015-12-17,9300.0,0.5,20.0,clear
+23,Lentil(Masur),Purulia,2015-12-17,9100.0,0.0,20.0,clear
+24,Arhar (Tur/Red Gram),Purulia,2015-12-18,13500.0,18.0,22.2,clear
+25,Black Gram (Urd Beans),Purulia,2015-12-18,12600.0,0.0,22.2,clear
+26,Lentil(Masur),Kasipur,2015-12-18,9300.0,0.3,22.2,clear
+27,Lentil(Masur),Purulia,2015-12-18,9100.0,12.0,22.2,clear
+28,Arhar (Tur/Red Gram),Purulia,2015-12-19,13700.0,0.0,22.0,clear
+29,Black Gram (Urd Beans),Purulia,2015-12-19,12500.0,0.0,22.0,clear
+30,Lentil(Masur),Kasipur,2015-12-19,9300.0,0.3,22.0,clear
+31,Lentil(Masur),Purulia,2015-12-19,9100.0,0.0,22.0,clear
+32,Arhar (Tur/Red Gram),Purulia,2015-12-20,14000.0,0.0,20.4,clear
+33,Black Gram (Urd Beans),Purulia,2015-12-20,12500.0,0.0,20.4,clear
+34,Lentil(Masur),Purulia,2015-12-20,9100.0,12.0,20.4,clear
+35,Arhar (Tur/Red Gram),Purulia,2015-12-21,14000.0,10.0,20.6,clear
+36,Black Gram (Urd Beans),Purulia,2015-12-21,12500.0,8.0,20.6,clear
+37,Lentil(Masur),Balarampur,2015-12-21,9200.0,0.44,20.6,clear
+38,Lentil(Masur),Kasipur,2015-12-21,9300.0,0.4,20.6,clear
+39,Lentil(Masur),Purulia,2015-12-21,9100.0,14.0,20.6,clear
+40,Arhar (Tur/Red Gram),Purulia,2015-12-22,13800.0,0.0,19.6,clear
+41,Black Gram (Urd Beans),Purulia,2015-12-22,12500.0,0.0,19.6,clear
+42,Lentil(Masur),Kasipur,2015-12-22,9300.0,0.3,19.6,clear
+43,Lentil(Masur),Purulia,2015-12-22,9100.0,10.0,19.6,clear
+44,Arhar (Tur/Red Gram),Purulia,2015-12-23,13500.0,10.0,22.4,clear
+45,Black Gram (Urd Beans),Purulia,2015-12-23,12300.0,6.0,22.4,clear
+46,Lentil(Masur),Balarampur,2015-12-23,9200.0,0.42,22.4,clear
+47,Lentil(Masur),Kasipur,2015-12-23,9300.0,0.3,22.4,clear
+48,Lentil(Masur),Purulia,2015-12-23,9100.0,0.0,22.4,clear
+49,Arhar (Tur/Red Gram),Purulia,2015-12-24,14000.0,14.0,21.8,clear
+50,Black Gram (Urd Beans),Purulia,2015-12-24,12600.0,0.0,21.8,clear
+51,Lentil(Masur),Kasipur,2015-12-24,9300.0,0.5,21.8,clear
+52,Lentil(Masur),Purulia,2015-12-24,9100.0,20.0,21.8,clear
+53,Arhar (Tur/Red Gram),Purulia,2015-12-25,14000.0,0.0,19.8,clear
+54,Black Gram (Urd Beans),Purulia,2015-12-25,12600.0,0.0,19.8,clear
+55,Lentil(Masur),Purulia,2015-12-25,9200.0,0.0,19.8,clear
+56,Arhar (Tur/Red Gram),Purulia,2015-12-26,14000.0,12.0,22.4,clear
+57,Black Gram (Urd Beans),Purulia,2015-12-26,12600.0,8.0,22.4,clear
+58,Lentil(Masur),Purulia,2015-12-26,9100.0,24.0,22.4,clear
+59,Arhar (Tur/Red Gram),Purulia,2015-12-28,14000.0,0.0,23.8,clear
+60,Black Gram (Urd Beans),Purulia,2015-12-28,12600.0,0.0,23.8,clear
+61,Lentil(Masur),Balarampur,2015-12-28,9200.0,0.43,23.8,clear
+62,Lentil(Masur),Kasipur,2015-12-28,9300.0,0.3,23.8,clear
+63,Lentil(Masur),Purulia,2015-12-28,9200.0,18.0,23.8,clear
+64,Arhar (Tur/Red Gram),Purulia,2015-12-29,14200.0,12.0,25.0,clear
+65,Black Gram (Urd Beans),Purulia,2015-12-29,12600.0,8.0,25.0,clear
+66,Lentil(Masur),Balarampur,2015-12-29,9200.0,0.42,25.0,clear
+67,Lentil(Masur),Kasipur,2015-12-29,9300.0,0.4,25.0,clear
+68,Lentil(Masur),Purulia,2015-12-29,9200.0,0.0,25.0,clear
+69,Arhar (Tur/Red Gram),Purulia,2015-12-30,14200.0,0.0,25.0,clear
+70,Black Gram (Urd Beans),Purulia,2015-12-30,12800.0,0.0,25.0,clear
+71,Lentil(Masur),Balarampur,2015-12-30,9200.0,0.46,25.0,clear
+72,Lentil(Masur),Kasipur,2015-12-30,9300.0,0.3,25.0,clear
+73,Lentil(Masur),Purulia,2015-12-30,9200.0,20.0,25.0,clear
+74,Arhar (Tur/Red Gram),Purulia,2015-12-31,14200.0,0.0,23.6,clear
+75,Black Gram (Urd Beans),Purulia,2015-12-31,12500.0,8.0,23.6,clear
+76,Lentil(Masur),Purulia,2015-12-31,9200.0,0.0,23.6,clear
+77,Lentil(Masur),Balarampur,2015-12-08,9700.0,0.33,24.8,clear
+78,Lentil(Masur),Purulia,2015-12-08,9700.0,12.0,24.8,clear
+79,Lentil(Masur),Kasipur,2015-12-10,10000.0,0.2,27.2,clear
+80,Lentil(Masur),Purulia,2015-12-10,9800.0,10.0,27.2,clear
+81,Lentil(Masur),Purulia,2015-12-07,9500.0,0.0,25.6,clear
+82,Arhar (Tur/Red Gram),Purulia,2016-01-01,14500.0,0.0,25.2,clear
+83,Black Gram (Urd Beans),Purulia,2016-01-01,12600.0,0.0,25.2,clear
+84,Lentil(Masur),Purulia,2016-01-01,9200.0,12.0,25.2,clear
+85,Arhar (Tur/Red Gram),Purulia,2016-02-01,14600.0,0.0,29.0,clear
+86,Black Gram (Urd Beans),Purulia,2016-02-01,12600.0,0.0,29.0,clear
+87,Lentil(Masur),Purulia,2016-02-01,9200.0,18.0,29.0,clear
+88,Arhar (Tur/Red Gram),Purulia,2016-04-01,12000.0,20.0,33.4,clear
+89,Black Gram (Urd Beans),Purulia,2016-04-01,11000.0,10.0,33.4,clear
+90,Lentil(Masur),Balarampur,2016-04-01,9100.0,0.42,33.4,clear
+91,Lentil(Masur),Purulia,2016-04-01,9100.0,18.0,33.4,clear
+92,Arhar (Tur/Red Gram),Purulia,2016-05-01,12200.0,0.0,40.0,clear
+93,Black Gram (Urd Beans),Purulia,2016-05-01,11200.0,0.0,40.0,clear
+94,Lentil(Masur),Purulia,2016-05-01,9100.0,10.0,40.0,clear
+95,Arhar (Tur/Red Gram),Purulia,2016-06-01,12900.0,0.0,26.1,clear
+96,Black Gram (Urd Beans),Purulia,2016-06-01,11500.0,0.0,26.1,clear
+97,Lentil(Masur),Balarampur,2016-06-01,9100.0,0.43,26.1,clear
+98,Lentil(Masur),Purulia,2016-06-01,9200.0,18.0,26.1,clear
+99,Arhar (Tur/Red Gram),Purulia,2016-12-01,12900.0,0.0,26.0,clear
+100,Black Gram (Urd Beans),Purulia,2016-12-01,11500.0,0.0,26.0,clear
+101,Lentil(Masur),Purulia,2016-12-01,9200.0,14.0,26.0,clear
+102,Arhar (Tur/Red Gram),Purulia,2016-01-13,13000.0,14.0,24.2,clear
+103,Black Gram (Urd Beans),Purulia,2016-01-13,11500.0,6.0,24.2,clear
+104,Lentil(Masur),Balarampur,2016-01-13,9200.0,0.45,24.2,clear
+105,Lentil(Masur),Purulia,2016-01-13,9200.0,18.0,24.2,clear
+106,Arhar (Tur/Red Gram),Purulia,2016-01-14,12500.0,0.0,12.0,clear
+107,Black Gram (Urd Beans),Purulia,2016-01-14,11500.0,0.0,12.0,clear
+108,Lentil(Masur),Balarampur,2016-01-14,9200.0,0.44,12.0,clear
+109,Lentil(Masur),Purulia,2016-01-14,9400.0,10.0,12.0,clear
+110,Arhar (Tur/Red Gram),Purulia,2016-01-18,12500.0,12.0,25.0,clear
+111,Black Gram (Urd Beans),Purulia,2016-01-18,11100.0,6.0,25.0,clear
+112,Lentil(Masur),Balarampur,2016-01-18,9200.0,0.42,25.0,clear
+113,Lentil(Masur),Kasipur,2016-01-18,9500.0,0.3,25.0,clear
+114,Lentil(Masur),Purulia,2016-01-18,9300.0,18.0,25.0,clear
+115,Arhar (Tur/Red Gram),Purulia,2016-01-20,2200.0,10.0,18.2,clear
+116,Lentil(Masur),Balarampur,2016-01-20,9200.0,0.44,18.2,clear
+117,Lentil(Masur),Kasipur,2016-01-20,9500.0,0.3,18.2,clear
+118,Arhar (Tur/Red Gram),Purulia,2016-01-21,12800.0,0.0,20.2,clear
+119,Black Gram (Urd Beans),Purulia,2016-01-21,11500.0,0.0,20.2,clear
+120,Lentil(Masur),Balarampur,2016-01-21,9200.0,0.42,20.2,clear
+121,Lentil(Masur),Kasipur,2016-01-21,9500.0,0.5,20.2,clear
+122,Lentil(Masur),Purulia,2016-01-21,9300.0,10.0,20.2,clear
+123,Arhar (Tur/Red Gram),Purulia,2016-01-22,12800.0,10.0,20.6,clear
+124,Black Gram (Urd Beans),Purulia,2016-01-22,11400.0,6.0,20.6,clear
+125,Lentil(Masur),Kasipur,2016-01-22,9500.0,0.3,20.6,clear
+126,Lentil(Masur),Purulia,2016-01-22,9400.0,12.0,20.6,clear
+127,Arhar (Tur/Red Gram),Purulia,2016-01-29,12100.0,10.0,25.2,clear
+128,Black Gram (Urd Beans),Purulia,2016-01-29,11000.0,0.0,25.2,clear
+129,Lentil(Masur),Kasipur,2016-01-29,9500.0,0.4,25.2,clear
+130,Lentil(Masur),Purulia,2016-01-29,9300.0,12.0,25.2,clear
+131,Arhar (Tur/Red Gram),Purulia,2016-01-31,12100.0,0.0,29.0,clear
+132,Black Gram (Urd Beans),Purulia,2016-01-31,11000.0,0.0,29.0,clear
+133,Lentil(Masur),Purulia,2016-01-31,9300.0,16.0,29.0,clear
+134,Arhar (Tur/Red Gram),Purulia,2016-01-02,11900.0,8.0,25.2,clear
+135,Black Gram (Urd Beans),Purulia,2016-01-02,11000.0,5.0,25.2,clear
+136,Lentil(Masur),Purulia,2016-01-02,9300.0,12.0,25.2,clear
+137,Arhar (Tur/Red Gram),Purulia,2016-02-02,12000.0,8.0,29.4,clear
+138,Black Gram (Urd Beans),Purulia,2016-02-02,10900.0,0.0,29.4,clear
+139,Arhar (Tur/Red Gram),Purulia,2016-03-02,12000.0,0.0,33.0,clear
+140,Black Gram (Urd Beans),Purulia,2016-03-02,10800.0,0.0,33.0,clear
+141,Lentil(Masur),Balarampur,2016-03-02,9300.0,0.43,33.0,clear
+142,Lentil(Masur),Purulia,2016-03-02,9400.0,10.0,33.0,clear
+143,Arhar (Tur/Red Gram),Purulia,2016-04-02,12100.0,12.0,37.0,clear
+144,Black Gram (Urd Beans),Purulia,2016-04-02,10800.0,8.0,37.0,clear
+145,Lentil(Masur),Balarampur,2016-04-02,9300.0,0.42,37.0,clear
+146,Lentil(Masur),Kasipur,2016-04-02,9500.0,0.5,37.0,clear
+147,Lentil(Masur),Purulia,2016-04-02,9300.0,12.0,37.0,clear
+148,Arhar (Tur/Red Gram),Purulia,2016-05-02,12100.0,8.0,38.2,clear
+149,Black Gram (Urd Beans),Purulia,2016-05-02,10800.0,0.0,38.2,clear
+150,Lentil(Masur),Balarampur,2016-05-02,9300.0,0.41,38.2,clear
+151,Lentil(Masur),Kasipur,2016-05-02,9500.0,0.3,38.2,clear
+152,Lentil(Masur),Purulia,2016-05-02,9300.0,10.0,38.2,clear
+153,Arhar (Tur/Red Gram),Purulia,2016-06-02,12100.0,0.0,34.0,clear
+154,Black Gram (Urd Beans),Purulia,2016-06-02,10800.0,0.0,34.0,clear
+155,Lentil(Masur),Balarampur,2016-06-02,9300.0,0.4,34.0,clear
+156,Lentil(Masur),Purulia,2016-06-02,9300.0,18.0,34.0,clear
+157,Arhar (Tur/Red Gram),Purulia,2016-08-02,12200.0,10.0,26.0,clear
+158,Black Gram (Urd Beans),Purulia,2016-08-02,10900.0,6.0,26.0,clear
+159,Lentil(Masur),Balarampur,2016-08-02,9100.0,0.42,26.0,clear
+160,Lentil(Masur),Kasipur,2016-08-02,9200.0,0.4,26.0,clear
+161,Lentil(Masur),Purulia,2016-08-02,9300.0,12.0,26.0,clear
+162,Arhar (Tur/Red Gram),Purulia,2016-09-02,11500.0,10.0,28.0,clear
+163,Black Gram (Urd Beans),Purulia,2016-09-02,10600.0,7.0,28.0,clear
+164,Lentil(Masur),Balarampur,2016-09-02,9100.0,0.46,28.0,clear
+165,Lentil(Masur),Kasipur,2016-09-02,9200.0,0.4,28.0,clear
+166,Lentil(Masur),Purulia,2016-09-02,9400.0,14.0,28.0,clear
+167,Arhar (Tur/Red Gram),Purulia,2016-10-02,11500.0,0.0,30.2,clear
+168,Black Gram (Urd Beans),Purulia,2016-10-02,10400.0,0.0,30.2,clear
+169,Lentil(Masur),Balarampur,2016-10-02,9100.0,0.43,30.2,clear
+170,Lentil(Masur),Kasipur,2016-10-02,9200.0,0.4,30.2,clear
+171,Lentil(Masur),Purulia,2016-10-02,9300.0,12.0,30.2,clear
+172,Arhar (Tur/Red Gram),Purulia,2016-11-02,11500.0,0.0,31.0,clear
+173,Black Gram (Urd Beans),Purulia,2016-11-02,10400.0,0.0,31.0,clear
+174,Lentil(Masur),Balarampur,2016-11-02,9100.0,0.45,31.0,clear
+175,Lentil(Masur),Kasipur,2016-11-02,9200.0,0.5,31.0,clear
+176,Lentil(Masur),Purulia,2016-11-02,9200.0,10.0,31.0,clear
+177,Arhar (Tur/Red Gram),Purulia,2016-12-02,11500.0,0.0,26.6,clear
+178,Black Gram (Urd Beans),Purulia,2016-12-02,10400.0,0.0,26.6,clear
+179,Lentil(Masur),Balarampur,2016-12-02,9100.0,0.46,26.6,clear
+180,Lentil(Masur),Kasipur,2016-12-02,9200.0,0.4,26.6,clear
+181,Lentil(Masur),Purulia,2016-12-02,9300.0,16.0,26.6,clear
+182,Arhar (Tur/Red Gram),Purulia,2016-02-14,11500.0,0.0,31.6,clear
+183,Black Gram (Urd Beans),Purulia,2016-02-14,10400.0,0.0,31.6,clear
+184,Lentil(Masur),Purulia,2016-02-14,9200.0,0.0,31.6,clear
+185,Arhar (Tur/Red Gram),Purulia,2016-02-15,11500.0,10.0,28.8,clear
+186,Black Gram (Urd Beans),Purulia,2016-02-15,10200.0,8.0,28.8,clear
+187,Lentil(Masur),Balarampur,2016-02-15,9100.0,0.45,28.8,clear
+188,Lentil(Masur),Kasipur,2016-02-15,9200.0,0.4,28.8,clear
+189,Lentil(Masur),Purulia,2016-02-15,9400.0,18.0,28.8,clear
+190,Arhar (Tur/Red Gram),Purulia,2016-02-16,11500.0,0.0,31.6,clear
+191,Black Gram (Urd Beans),Purulia,2016-02-16,10200.0,0.0,31.6,clear
+192,Lentil(Masur),Balarampur,2016-02-16,9100.0,0.48,31.6,clear
+193,Lentil(Masur),Kasipur,2016-02-16,9200.0,0.4,31.6,clear
+194,Lentil(Masur),Purulia,2016-02-16,9400.0,12.0,31.6,clear
+195,Arhar (Tur/Red Gram),Purulia,2016-02-17,11200.0,10.0,32.0,clear
+196,Black Gram (Urd Beans),Purulia,2016-02-17,10100.0,6.0,32.0,clear
+197,Lentil(Masur),Balarampur,2016-02-17,9100.0,0.46,32.0,clear
+198,Lentil(Masur),Kasipur,2016-02-17,9200.0,0.4,32.0,clear
+199,Lentil(Masur),Purulia,2016-02-17,9200.0,14.0,32.0,clear
+200,Arhar (Tur/Red Gram),Purulia,2016-02-18,11300.0,8.0,34.0,clear
+201,Black Gram (Urd Beans),Purulia,2016-02-18,10100.0,0.0,34.0,clear
+202,Lentil(Masur),Balarampur,2016-02-18,9100.0,0.44,34.0,clear
+203,Lentil(Masur),Kasipur,2016-02-18,9200.0,0.5,34.0,clear
+204,Lentil(Masur),Purulia,2016-02-18,9200.0,12.0,34.0,clear
+205,Arhar (Tur/Red Gram),Purulia,2016-02-19,11200.0,10.0,35.4,clear
+206,Black Gram (Urd Beans),Purulia,2016-02-19,9900.0,6.0,35.4,clear
+207,Lentil(Masur),Balarampur,2016-02-19,9100.0,0.42,35.4,clear
+208,Lentil(Masur),Kasipur,2016-02-19,9200.0,0.4,35.4,clear
+209,Lentil(Masur),Purulia,2016-02-19,9200.0,14.0,35.4,clear
+210,Arhar (Tur/Red Gram),Purulia,2016-02-21,11300.0,0.0,33.4,clear
+211,Black Gram (Urd Beans),Purulia,2016-02-21,10100.0,0.0,33.4,clear
+212,Lentil(Masur),Purulia,2016-02-21,9200.0,12.0,33.4,clear
+213,Arhar (Tur/Red Gram),Purulia,2016-02-22,11200.0,10.0,31.8,clear
+214,Black Gram (Urd Beans),Purulia,2016-02-22,10100.0,0.0,31.8,clear
+215,Lentil(Masur),Balarampur,2016-02-22,9200.0,0.43,31.8,clear
+216,Lentil(Masur),Kasipur,2016-02-22,9200.0,0.3,31.8,clear
+217,Lentil(Masur),Purulia,2016-02-22,9200.0,12.0,31.8,clear
+218,Arhar (Tur/Red Gram),Purulia,2016-02-23,11500.0,0.0,31.0,clear
+219,Black Gram (Urd Beans),Purulia,2016-02-23,10200.0,8.0,31.0,clear
+220,Lentil(Masur),Balarampur,2016-02-23,9200.0,0.44,31.0,clear
+221,Lentil(Masur),Kasipur,2016-02-23,9200.0,0.4,31.0,clear
+222,Lentil(Masur),Purulia,2016-02-23,9200.0,12.0,31.0,clear
+223,Arhar (Tur/Red Gram),Purulia,2016-02-24,11500.0,0.0,28.8,clear
+224,Black Gram (Urd Beans),Purulia,2016-02-24,10200.0,0.0,28.8,clear
+225,Lentil(Masur),Balarampur,2016-02-24,9200.0,0.42,28.8,clear
+226,Lentil(Masur),Kasipur,2016-02-24,9200.0,0.3,28.8,clear
+227,Lentil(Masur),Purulia,2016-02-24,9200.0,10.0,28.8,clear
+228,Arhar (Tur/Red Gram),Purulia,2016-02-25,11500.0,8.0,30.6,clear
+229,Black Gram (Urd Beans),Purulia,2016-02-25,10200.0,0.0,30.6,clear
+230,Lentil(Masur),Balarampur,2016-02-25,9200.0,0.43,30.6,clear
+231,Lentil(Masur),Purulia,2016-02-25,9200.0,14.0,30.6,clear
+232,Arhar (Tur/Red Gram),Purulia,2016-02-26,11300.0,7.0,26.4,clear
+233,Black Gram (Urd Beans),Purulia,2016-02-26,10100.0,6.0,26.4,clear
+234,Lentil(Masur),Purulia,2016-02-26,9300.0,10.0,26.4,clear
+235,Arhar (Tur/Red Gram),Purulia,2016-02-29,11400.0,10.0,29.4,clear
+236,Black Gram (Urd Beans),Purulia,2016-02-29,10100.0,8.0,29.4,clear
+237,Lentil(Masur),Balarampur,2016-02-29,9000.0,0.46,29.4,clear
+238,Lentil(Masur),Kasipur,2016-02-29,9200.0,0.3,29.4,clear
+239,Lentil(Masur),Purulia,2016-02-29,9200.0,12.0,29.4,clear
+240,Arhar (Tur/Red Gram),Purulia,2016-01-03,11400.0,8.0,24.6,clear
+241,Black Gram (Urd Beans),Purulia,2016-01-03,10200.0,0.0,24.6,clear
+242,Lentil(Masur),Balarampur,2016-01-03,9000.0,0.48,24.6,clear
+243,Lentil(Masur),Purulia,2016-01-03,9200.0,12.0,24.6,clear
+244,Arhar (Tur/Red Gram),Purulia,2016-02-03,11500.0,8.0,27.0,clear
+245,Black Gram (Urd Beans),Purulia,2016-02-03,10200.0,6.0,27.0,clear
+246,Lentil(Masur),Balarampur,2016-02-03,9000.0,0.44,27.0,clear
+247,Lentil(Masur),Purulia,2016-02-03,9300.0,12.0,27.0,clear
+248,Arhar (Tur/Red Gram),Purulia,2016-03-03,11500.0,0.0,33.4,clear
+249,Black Gram (Urd Beans),Purulia,2016-03-03,10200.0,0.0,33.4,clear
+250,Lentil(Masur),Kasipur,2016-03-03,9000.0,0.5,33.4,clear
+251,Lentil(Masur),Purulia,2016-03-03,9300.0,14.0,33.4,clear
+252,Arhar (Tur/Red Gram),Purulia,2016-07-03,11600.0,8.0,26.0,clear
+253,Black Gram (Urd Beans),Purulia,2016-07-03,10300.0,6.0,26.0,clear
+254,Lentil(Masur),Balarampur,2016-07-03,9200.0,0.42,26.0,clear
+255,Lentil(Masur),Purulia,2016-07-03,9200.0,14.0,26.0,clear
+256,Arhar (Tur/Red Gram),Purulia,2016-08-03,11500.0,10.0,26.0,clear
+257,Black Gram (Urd Beans),Purulia,2016-08-03,10300.0,0.0,26.0,clear
+258,Lentil(Masur),Balarampur,2016-08-03,9200.0,0.45,26.0,clear
+259,Lentil(Masur),Kasipur,2016-08-03,9000.0,0.3,26.0,clear
+260,Lentil(Masur),Purulia,2016-08-03,9200.0,12.0,26.0,clear
+261,Arhar (Tur/Red Gram),Purulia,2016-09-03,11500.0,0.0,27.8,clear
+262,Black Gram (Urd Beans),Purulia,2016-09-03,10300.0,0.0,27.8,clear
+263,Lentil(Masur),Balarampur,2016-09-03,9200.0,0.46,27.8,clear
+264,Lentil(Masur),Kasipur,2016-09-03,9000.0,0.4,27.8,clear
+265,Lentil(Masur),Purulia,2016-09-03,9300.0,10.0,27.8,clear
+266,Arhar (Tur/Red Gram),Purulia,2016-10-03,11400.0,10.0,32.4,clear
+267,Black Gram (Urd Beans),Purulia,2016-10-03,10300.0,6.0,32.4,clear
+268,Lentil(Masur),Balarampur,2016-10-03,9200.0,0.44,32.4,clear
+269,Lentil(Masur),Kasipur,2016-10-03,9000.0,0.5,32.4,clear
+270,Lentil(Masur),Purulia,2016-10-03,9300.0,8.0,32.4,clear
+271,Arhar (Tur/Red Gram),Purulia,2016-11-03,11300.0,8.0,31.0,clear
+272,Black Gram (Urd Beans),Purulia,2016-11-03,10200.0,5.0,31.0,clear
+273,Lentil(Masur),Balarampur,2016-11-03,9200.0,0.43,31.0,clear
+274,Lentil(Masur),Kasipur,2016-11-03,9000.0,0.3,31.0,clear
+275,Lentil(Masur),Purulia,2016-11-03,9300.0,10.0,31.0,clear
+276,Arhar (Tur/Red Gram),Purulia,2016-03-13,11500.0,0.0,28.8,clear
+277,Black Gram (Urd Beans),Purulia,2016-03-13,10400.0,0.0,28.8,clear
+278,Lentil(Masur),Purulia,2016-03-13,9400.0,10.0,28.8,clear
+279,Arhar (Tur/Red Gram),Purulia,2016-03-14,11600.0,10.0,22.8,clear
+280,Black Gram (Urd Beans),Purulia,2016-03-14,10400.0,6.0,22.8,clear
+281,Lentil(Masur),Balarampur,2016-03-14,9200.0,0.44,22.8,clear
+282,Lentil(Masur),Kasipur,2016-03-14,8900.0,0.3,22.8,clear
+283,Lentil(Masur),Purulia,2016-03-14,9300.0,18.0,22.8,clear
+284,Arhar (Tur/Red Gram),Purulia,2016-03-16,11600.0,0.0,32.2,clear
+285,Black Gram (Urd Beans),Purulia,2016-03-16,10300.0,0.0,32.2,clear
+286,Lentil(Masur),Balarampur,2016-03-16,9200.0,0.44,32.2,clear
+287,Lentil(Masur),Kasipur,2016-03-16,10000.0,0.4,32.2,clear
+288,Lentil(Masur),Purulia,2016-03-16,9700.0,10.0,32.2,clear
+289,Arhar (Tur/Red Gram),Purulia,2016-03-17,11600.0,10.0,33.0,clear
+290,Black Gram (Urd Beans),Purulia,2016-03-17,10350.0,6.0,33.0,clear
+291,Lentil(Masur),Balarampur,2016-03-17,9800.0,0.43,33.0,clear
+292,Lentil(Masur),Kasipur,2016-03-17,10000.0,0.5,33.0,clear
+293,Lentil(Masur),Purulia,2016-03-17,9500.0,14.0,33.0,clear
+294,Arhar (Tur/Red Gram),Purulia,2016-03-18,11500.0,8.0,35.0,clear
+295,Black Gram (Urd Beans),Purulia,2016-03-18,10350.0,0.0,35.0,clear
+296,Lentil(Masur),Balarampur,2016-03-18,9800.0,0.42,35.0,clear
+297,Lentil(Masur),Kasipur,2016-03-18,10000.0,0.4,35.0,clear
+298,Lentil(Masur),Purulia,2016-03-18,9600.0,12.0,35.0,clear
+299,Arhar (Tur/Red Gram),Purulia,2016-03-22,11200.0,8.0,34.6,clear
+300,Black Gram (Urd Beans),Purulia,2016-03-22,9700.0,0.0,34.6,clear
+301,Lentil(Masur),Balarampur,2016-03-22,9700.0,0.46,34.6,clear
+302,Lentil(Masur),Kasipur,2016-03-22,9900.0,0.4,34.6,clear
+303,Lentil(Masur),Purulia,2016-03-22,9200.0,10.0,34.6,clear
+304,Arhar (Tur/Red Gram),Purulia,2016-03-23,11200.0,0.0,34.2,clear
+305,Black Gram (Urd Beans),Purulia,2016-03-23,9900.0,6.0,34.2,clear
+306,Lentil(Masur),Balarampur,2016-03-23,9600.0,0.44,34.2,clear
+307,Lentil(Masur),Purulia,2016-03-23,9200.0,14.0,34.2,clear
+308,Arhar (Tur/Red Gram),Purulia,2016-03-24,11100.0,0.0,35.4,clear
+309,Black Gram (Urd Beans),Purulia,2016-03-24,10000.0,0.0,35.4,clear
+310,Lentil(Masur),Purulia,2016-03-24,9200.0,0.0,35.4,clear
+311,Arhar (Tur/Red Gram),Purulia,2016-03-25,11200.0,12.0,37.0,clear
+312,Black Gram (Urd Beans),Purulia,2016-03-25,9900.0,8.0,37.0,clear
+313,Lentil(Masur),Balarampur,2016-03-25,9600.0,0.42,37.0,clear
+314,Lentil(Masur),Purulia,2016-03-25,9200.0,16.0,37.0,clear
+315,Arhar (Tur/Red Gram),Purulia,2016-03-27,11300.0,0.0,38.4,clear
+316,Black Gram (Urd Beans),Purulia,2016-03-27,10000.0,0.0,38.4,clear
+317,Lentil(Masur),Purulia,2016-03-27,9100.0,8.0,38.4,clear
+318,Arhar (Tur/Red Gram),Purulia,2016-03-28,11100.0,10.0,36.2,clear
+319,Black Gram (Urd Beans),Purulia,2016-03-28,9900.0,8.0,36.2,clear
+320,Lentil(Masur),Balarampur,2016-03-28,9400.0,0.46,36.2,clear
+321,Lentil(Masur),Kasipur,2016-03-28,9100.0,0.4,36.2,clear
+322,Lentil(Masur),Purulia,2016-03-28,9200.0,12.0,36.2,clear
+323,Arhar (Tur/Red Gram),Purulia,2016-03-29,11200.0,8.0,37.0,clear
+324,Black Gram (Urd Beans),Purulia,2016-03-29,9800.0,6.0,37.0,clear
+325,Lentil(Masur),Balarampur,2016-03-29,9400.0,0.48,37.0,clear
+326,Lentil(Masur),Kasipur,2016-03-29,9100.0,0.4,37.0,clear
+327,Lentil(Masur),Purulia,2016-03-29,9200.0,14.0,37.0,clear
+328,Arhar (Tur/Red Gram),Purulia,2016-03-31,11300.0,6.0,37.0,clear
+329,Black Gram (Urd Beans),Purulia,2016-03-31,9700.0,8.0,37.0,clear
+330,Lentil(Masur),Balarampur,2016-03-31,9300.0,0.46,37.0,clear
+331,Lentil(Masur),Kasipur,2016-03-31,9000.0,0.5,37.0,clear
+332,Lentil(Masur),Purulia,2016-03-31,9200.0,12.0,37.0,clear
+333,Arhar (Tur/Red Gram),Purulia,2016-01-04,11000.0,12.0,24.0,clear
+334,Black Gram (Urd Beans),Purulia,2016-01-04,9700.0,6.0,24.0,clear
+335,Lentil(Masur),Balarampur,2016-01-04,9400.0,0.42,24.0,clear
+336,Arhar (Tur/Red Gram),Purulia,2016-05-04,11900.0,10.0,34.0,clear
+337,Black Gram (Urd Beans),Purulia,2016-05-04,10000.0,6.0,34.0,clear
+338,Lentil(Masur),Balarampur,2016-05-04,9600.0,0.4,34.0,clear
+339,Lentil(Masur),Kasipur,2016-05-04,9800.0,0.3,34.0,clear
+340,Lentil(Masur),Purulia,2016-05-04,9600.0,12.0,34.0,clear
+341,Arhar (Tur/Red Gram),Purulia,2016-06-04,12000.0,8.0,35.6,clear
+342,Black Gram (Urd Beans),Purulia,2016-06-04,10000.0,0.0,35.6,clear
+343,Lentil(Masur),Balarampur,2016-06-04,9600.0,0.44,35.6,clear
+344,Lentil(Masur),Kasipur,2016-06-04,9800.0,0.3,35.6,clear
+345,Lentil(Masur),Purulia,2016-06-04,9500.0,16.0,35.6,clear
+346,Arhar (Tur/Red Gram),Purulia,2016-07-04,12100.0,10.0,29.0,clear
+347,Black Gram (Urd Beans),Purulia,2016-07-04,10200.0,6.0,29.0,clear
+348,Lentil(Masur),Balarampur,2016-07-04,9600.0,0.46,29.0,clear
+349,Lentil(Masur),Kasipur,2016-07-04,9800.0,0.5,29.0,clear
+350,Lentil(Masur),Purulia,2016-07-04,9800.0,12.0,29.0,clear
+351,Arhar (Tur/Red Gram),Purulia,2016-08-04,12100.0,0.0,28.4,clear
+352,Black Gram (Urd Beans),Purulia,2016-08-04,10000.0,0.0,28.4,clear
+353,Lentil(Masur),Balarampur,2016-08-04,9600.0,0.48,28.4,clear
+354,Lentil(Masur),Kasipur,2016-08-04,9800.0,0.3,28.4,clear
+355,Lentil(Masur),Purulia,2016-08-04,9800.0,10.0,28.4,clear
+356,Arhar (Tur/Red Gram),Purulia,2016-12-04,12200.0,7.0,26.0,clear
+357,Black Gram (Urd Beans),Purulia,2016-12-04,10000.0,5.0,26.0,clear
+358,Lentil(Masur),Balarampur,2016-12-04,9600.0,0.48,26.0,clear
+359,Lentil(Masur),Kasipur,2016-12-04,9800.0,0.4,26.0,clear
+360,Lentil(Masur),Purulia,2016-12-04,9800.0,10.0,26.0,clear
+361,Arhar (Tur/Red Gram),Purulia,2016-04-13,12200.0,8.0,38.8,clear
+362,Black Gram (Urd Beans),Purulia,2016-04-13,10100.0,6.0,38.8,clear
+363,Lentil(Masur),Balarampur,2016-04-13,9600.0,0.44,38.8,clear
+364,Lentil(Masur),Kasipur,2016-04-13,9800.0,0.4,38.8,clear
+365,Lentil(Masur),Purulia,2016-04-13,9800.0,12.0,38.8,clear
+366,Arhar (Tur/Red Gram),Purulia,2016-04-14,12200.0,0.0,40.0,clear
+367,Black Gram (Urd Beans),Purulia,2016-04-14,10100.0,0.0,40.0,clear
+368,Lentil(Masur),Balarampur,2016-04-14,10000.0,0.46,40.0,clear
+369,Lentil(Masur),Purulia,2016-04-14,9800.0,8.0,40.0,clear
+370,Arhar (Tur/Red Gram),Purulia,2016-04-15,12100.0,10.0,41.0,clear
+371,Black Gram (Urd Beans),Purulia,2016-04-15,10200.0,6.0,41.0,clear
+372,Lentil(Masur),Balarampur,2016-04-15,10000.0,0.48,41.0,clear
+373,Lentil(Masur),Kasipur,2016-04-15,9800.0,0.4,41.0,clear
+374,Lentil(Masur),Purulia,2016-04-15,9800.0,12.0,41.0,clear
+375,Arhar (Tur/Red Gram),Purulia,2016-04-17,12200.0,0.0,42.0,clear
+376,Black Gram (Urd Beans),Purulia,2016-04-17,10100.0,0.0,42.0,clear
+377,Lentil(Masur),Purulia,2016-04-17,9900.0,10.0,42.0,clear
+378,Arhar (Tur/Red Gram),Purulia,2016-04-18,12400.0,8.0,34.0,clear
+379,Black Gram (Urd Beans),Purulia,2016-04-18,10200.0,6.0,34.0,clear
+380,Lentil(Masur),Balarampur,2016-04-18,10300.0,0.5,34.0,clear
+381,Lentil(Masur),Kasipur,2016-04-18,9700.0,0.3,34.0,clear
+382,Lentil(Masur),Purulia,2016-04-18,10000.0,12.0,34.0,clear
+383,Arhar (Tur/Red Gram),Purulia,2016-04-19,12300.0,7.0,42.2,clear
+384,Black Gram (Urd Beans),Purulia,2016-04-19,10200.0,6.0,42.2,clear
+385,Lentil(Masur),Balarampur,2016-04-19,10300.0,0.55,42.2,clear
+386,Lentil(Masur),Kasipur,2016-04-19,10200.0,0.3,42.2,clear
+387,Lentil(Masur),Purulia,2016-04-19,10100.0,10.0,42.2,clear
+388,Arhar (Tur/Red Gram),Purulia,2016-04-20,12300.0,9.0,42.2,clear
+389,Black Gram (Urd Beans),Purulia,2016-04-20,10200.0,5.0,42.2,clear
+390,Lentil(Masur),Balarampur,2016-04-20,10300.0,0.52,42.2,clear
+391,Lentil(Masur),Kasipur,2016-04-20,10200.0,0.3,42.2,clear
+392,Lentil(Masur),Purulia,2016-04-20,10100.0,10.0,42.2,clear
+393,Arhar (Tur/Red Gram),Purulia,2016-04-21,12300.0,7.0,42.4,clear
+394,Black Gram (Urd Beans),Purulia,2016-04-21,10200.0,0.0,42.4,clear
+395,Lentil(Masur),Balarampur,2016-04-21,10300.0,0.5,42.4,clear
+396,Lentil(Masur),Kasipur,2016-04-21,10200.0,0.5,42.4,clear
+397,Lentil(Masur),Purulia,2016-04-21,10200.0,12.0,42.4,clear
+398,Arhar (Tur/Red Gram),Purulia,2016-04-22,12300.0,0.0,42.0,clear
+399,Black Gram (Urd Beans),Purulia,2016-04-22,10300.0,0.0,42.0,clear
+400,Lentil(Masur),Balarampur,2016-04-22,10300.0,0.53,42.0,clear
+401,Lentil(Masur),Kasipur,2016-04-22,10200.0,0.3,42.0,clear
+402,Lentil(Masur),Purulia,2016-04-22,10100.0,10.0,42.0,clear
+403,Arhar (Tur/Red Gram),Purulia,2016-04-25,12100.0,10.0,41.0,clear
+404,Black Gram (Urd Beans),Purulia,2016-04-25,10300.0,6.0,41.0,clear
+405,Lentil(Masur),Balarampur,2016-04-25,10200.0,0.55,41.0,clear
+406,Lentil(Masur),Kasipur,2016-04-25,10200.0,0.3,41.0,clear
+407,Lentil(Masur),Purulia,2016-04-25,10200.0,14.0,41.0,clear
+408,Arhar (Tur/Red Gram),Purulia,2016-04-26,12300.0,8.0,41.4,clear
+409,Black Gram (Urd Beans),Purulia,2016-04-26,10200.0,6.0,41.4,clear
+410,Lentil(Masur),Balarampur,2016-04-26,10200.0,0.58,41.4,clear
+411,Lentil(Masur),Kasipur,2016-04-26,10200.0,0.4,41.4,clear
+412,Lentil(Masur),Purulia,2016-04-26,10200.0,10.0,41.4,clear
+413,Arhar (Tur/Red Gram),Purulia,2016-04-27,12500.0,10.0,42.2,clear
+414,Black Gram (Urd Beans),Purulia,2016-04-27,10100.0,0.0,42.2,clear
+415,Lentil(Masur),Balarampur,2016-04-27,10200.0,0.56,42.2,clear
+416,Lentil(Masur),Kasipur,2016-04-27,10200.0,0.3,42.2,clear
+417,Lentil(Masur),Purulia,2016-04-27,10200.0,14.0,42.2,clear
+418,Arhar (Tur/Red Gram),Purulia,2016-04-28,12400.0,10.0,41.0,clear
+419,Black Gram (Urd Beans),Purulia,2016-04-28,10200.0,8.0,41.0,clear
+420,Lentil(Masur),Balarampur,2016-04-28,10200.0,0.55,41.0,clear
+421,Lentil(Masur),Kasipur,2016-04-28,10200.0,0.5,41.0,clear
+422,Lentil(Masur),Purulia,2016-04-28,10000.0,12.0,41.0,clear
+423,Arhar (Tur/Red Gram),Purulia,2016-04-29,12400.0,8.0,41.6,clear
+424,Black Gram (Urd Beans),Purulia,2016-04-29,10300.0,6.0,41.6,clear
+425,Lentil(Masur),Balarampur,2016-04-29,10200.0,0.54,41.6,clear
+426,Lentil(Masur),Kasipur,2016-04-29,10200.0,0.3,41.6,clear
+427,Lentil(Masur),Purulia,2016-04-29,9900.0,14.0,41.6,clear
+428,Arhar (Tur/Red Gram),Purulia,2016-04-30,12500.0,8.0,41.0,clear
+429,Black Gram (Urd Beans),Purulia,2016-04-30,10200.0,6.0,41.0,clear
+430,Lentil(Masur),Balarampur,2016-04-30,10200.0,0.56,41.0,clear
+431,Lentil(Masur),Kasipur,2016-04-30,10200.0,0.4,41.0,clear
+432,Lentil(Masur),Purulia,2016-04-30,9900.0,10.0,41.0,clear
+433,Arhar (Tur/Red Gram),Purulia,2016-01-05,12500.0,0.0,12.0,clear
+434,Black Gram (Urd Beans),Purulia,2016-01-05,10200.0,0.0,12.0,clear
+435,Lentil(Masur),Balarampur,2016-01-05,10200.0,0.54,12.0,clear
+436,Lentil(Masur),Purulia,2016-01-05,9900.0,16.0,12.0,clear
+437,Arhar (Tur/Red Gram),Purulia,2016-02-05,12600.0,10.0,26.0,clear
+438,Black Gram (Urd Beans),Purulia,2016-02-05,10200.0,6.0,26.0,clear
+439,Lentil(Masur),Balarampur,2016-02-05,10100.0,0.56,26.0,clear
+440,Lentil(Masur),Kasipur,2016-02-05,10200.0,0.3,26.0,clear
+441,Lentil(Masur),Purulia,2016-02-05,9900.0,14.0,26.0,clear
+442,Arhar (Tur/Red Gram),Purulia,2016-03-05,12400.0,0.0,35.2,clear
+443,Black Gram (Urd Beans),Purulia,2016-03-05,10200.0,0.0,35.2,clear
+444,Lentil(Masur),Balarampur,2016-03-05,10200.0,0.58,35.2,clear
+445,Lentil(Masur),Kasipur,2016-03-05,10200.0,0.4,35.2,clear
+446,Lentil(Masur),Purulia,2016-03-05,9900.0,12.0,35.2,clear
+447,Arhar (Tur/Red Gram),Purulia,2016-04-05,12400.0,8.0,41.0,clear
+448,Black Gram (Urd Beans),Purulia,2016-04-05,10200.0,7.0,41.0,clear
+449,Lentil(Masur),Balarampur,2016-04-05,10200.0,0.56,41.0,clear
+450,Lentil(Masur),Kasipur,2016-04-05,10200.0,0.3,41.0,clear
+451,Lentil(Masur),Purulia,2016-04-05,9900.0,12.0,41.0,clear
+452,Arhar (Tur/Red Gram),Purulia,2016-05-05,12500.0,7.0,31.0,clear
+453,Black Gram (Urd Beans),Purulia,2016-05-05,10300.0,0.0,31.0,clear
+454,Lentil(Masur),Balarampur,2016-05-05,10200.0,54.0,31.0,clear
+455,Lentil(Masur),Kasipur,2016-05-05,10200.0,0.4,31.0,clear
+456,Lentil(Masur),Purulia,2016-05-05,9900.0,12.0,31.0,clear
+457,Arhar (Tur/Red Gram),Purulia,2016-06-05,12600.0,0.0,32.4,clear
+458,Black Gram (Urd Beans),Purulia,2016-06-05,10300.0,8.0,32.4,clear
+459,Lentil(Masur),Balarampur,2016-06-05,10200.0,0.55,32.4,clear
+460,Lentil(Masur),Kasipur,2016-06-05,10200.0,0.3,32.4,clear
+461,Lentil(Masur),Purulia,2016-06-05,9900.0,10.0,32.4,clear
+462,Arhar (Tur/Red Gram),Purulia,2016-09-05,12300.0,10.0,26.8,clear
+463,Black Gram (Urd Beans),Purulia,2016-09-05,10100.0,6.0,26.8,clear
+464,Lentil(Masur),Balarampur,2016-09-05,10100.0,0.56,26.8,clear
+465,Lentil(Masur),Kasipur,2016-09-05,10100.0,0.3,26.8,clear
+466,Lentil(Masur),Purulia,2016-09-05,9900.0,16.0,26.8,clear
+467,Arhar (Tur/Red Gram),Purulia,2016-10-05,12300.0,0.0,30.0,clear
+468,Black Gram (Urd Beans),Purulia,2016-10-05,10200.0,7.0,30.0,clear
+469,Lentil(Masur),Balarampur,2016-10-05,10100.0,0.58,30.0,clear
+470,Lentil(Masur),Kasipur,2016-10-05,10100.0,0.3,30.0,clear
+471,Lentil(Masur),Purulia,2016-10-05,10000.0,12.0,30.0,clear
+472,Arhar (Tur/Red Gram),Purulia,2016-11-05,12400.0,8.0,28.8,clear
+473,Black Gram (Urd Beans),Purulia,2016-11-05,10200.0,0.0,28.8,clear
+474,Lentil(Masur),Balarampur,2016-11-05,10100.0,0.55,28.8,clear
+475,Lentil(Masur),Kasipur,2016-11-05,10100.0,0.4,28.8,clear
+476,Lentil(Masur),Purulia,2016-11-05,10000.0,10.0,28.8,clear
+477,Arhar (Tur/Red Gram),Purulia,2016-12-05,12400.0,7.0,26.4,clear
+478,Black Gram (Urd Beans),Purulia,2016-12-05,10200.0,6.0,26.4,clear
+479,Lentil(Masur),Balarampur,2016-12-05,10000.0,0.54,26.4,clear
+480,Lentil(Masur),Kasipur,2016-12-05,10000.0,0.5,26.4,clear
+481,Lentil(Masur),Purulia,2016-12-05,10000.0,12.0,26.4,clear
+482,Arhar (Tur/Red Gram),Purulia,2016-05-14,12500.0,10.0,33.2,clear
+483,Black Gram (Urd Beans),Purulia,2016-05-14,10300.0,8.0,33.2,clear
+484,Lentil(Masur),Balarampur,2016-05-14,10000.0,0.55,33.2,clear
+485,Lentil(Masur),Kasipur,2016-05-14,10000.0,0.4,33.2,clear
+486,Lentil(Masur),Purulia,2016-05-14,10000.0,18.0,33.2,clear
+487,Arhar (Tur/Red Gram),Purulia,2016-05-15,12500.0,0.0,30.2,clear
+488,Black Gram (Urd Beans),Purulia,2016-05-15,10300.0,0.0,30.2,clear
+489,Lentil(Masur),Balarampur,2016-05-15,10000.0,0.53,30.2,clear
+490,Lentil(Masur),Purulia,2016-05-15,10000.0,8.0,30.2,clear
+491,Arhar (Tur/Red Gram),Purulia,2016-05-16,12700.0,9.0,36.6,clear
+492,Black Gram (Urd Beans),Purulia,2016-05-16,10300.0,8.0,36.6,clear
+493,Lentil(Masur),Balarampur,2016-05-16,10000.0,0.54,36.6,clear
+494,Lentil(Masur),Kasipur,2016-05-16,10000.0,0.3,36.6,clear
+495,Lentil(Masur),Purulia,2016-05-16,10000.0,12.0,36.6,clear
+496,Arhar (Tur/Red Gram),Purulia,2016-05-17,12600.0,0.0,36.8,clear
+497,Black Gram (Urd Beans),Purulia,2016-05-17,10300.0,5.0,36.8,clear
+498,Lentil(Masur),Balarampur,2016-05-17,10000.0,0.56,36.8,clear
+499,Lentil(Masur),Kasipur,2016-05-17,10000.0,0.4,36.8,clear
+500,Lentil(Masur),Purulia,2016-05-17,9900.0,12.0,36.8,clear
+501,Arhar (Tur/Red Gram),Purulia,2016-05-18,12400.0,12.0,37.2,clear
+502,Black Gram (Urd Beans),Purulia,2016-05-18,10100.0,6.0,37.2,clear
+503,Lentil(Masur),Balarampur,2016-05-18,10000.0,0.53,37.2,clear
+504,Lentil(Masur),Kasipur,2016-05-18,10000.0,0.3,37.2,clear
+505,Lentil(Masur),Purulia,2016-05-18,9900.0,10.0,37.2,clear
+506,Arhar (Tur/Red Gram),Purulia,2016-05-19,12400.0,0.0,36.0,clear
+507,Black Gram (Urd Beans),Purulia,2016-05-19,10200.0,0.0,36.0,clear
+508,Lentil(Masur),Balarampur,2016-05-19,10000.0,0.52,36.0,clear
+509,Lentil(Masur),Kasipur,2016-05-19,10000.0,0.4,36.0,clear
+510,Lentil(Masur),Purulia,2016-05-19,9900.0,8.0,36.0,clear
+511,Arhar (Tur/Red Gram),Purulia,2016-05-20,12600.0,12.0,32.0,clear
+512,Black Gram (Urd Beans),Purulia,2016-05-20,10200.0,8.0,32.0,clear
+513,Lentil(Masur),Balarampur,2016-05-20,10000.0,0.54,32.0,clear
+514,Lentil(Masur),Kasipur,2016-05-20,10000.0,0.3,32.0,clear
+515,Lentil(Masur),Purulia,2016-05-20,10000.0,14.0,32.0,clear
+516,Arhar (Tur/Red Gram),Purulia,2016-05-22,12500.0,0.0,37.0,clear
+517,Black Gram (Urd Beans),Purulia,2016-05-22,10200.0,0.0,37.0,clear
+518,Lentil(Masur),Balarampur,2016-05-22,10000.0,0.57,37.0,clear
+519,Lentil(Masur),Purulia,2016-05-22,9900.0,14.0,37.0,clear
+520,Arhar (Tur/Red Gram),Purulia,2016-05-23,12700.0,8.0,37.0,clear
+521,Black Gram (Urd Beans),Purulia,2016-05-23,10000.0,6.0,37.0,clear
+522,Lentil(Masur),Balarampur,2016-05-23,10000.0,0.56,37.0,clear
+523,Lentil(Masur),Kasipur,2016-05-23,10000.0,0.3,37.0,clear
+524,Lentil(Masur),Purulia,2016-05-23,9900.0,14.0,37.0,clear
+525,Arhar (Tur/Red Gram),Purulia,2016-05-24,12700.0,10.0,34.0,clear
+526,Black Gram (Urd Beans),Purulia,2016-05-24,10100.0,0.0,34.0,clear
+527,Lentil(Masur),Balarampur,2016-05-24,9900.0,0.55,34.0,clear
+528,Lentil(Masur),Kasipur,2016-05-24,10000.0,0.4,34.0,clear
+529,Lentil(Masur),Purulia,2016-05-24,9900.0,12.0,34.0,clear
+530,Arhar (Tur/Red Gram),Purulia,2016-05-25,12400.0,8.0,39.4,clear
+531,Black Gram (Urd Beans),Purulia,2016-05-25,10200.0,6.0,39.4,clear
+532,Lentil(Masur),Balarampur,2016-05-25,9900.0,0.53,39.4,clear
+533,Lentil(Masur),Kasipur,2016-05-25,10000.0,0.3,39.4,clear
+534,Lentil(Masur),Purulia,2016-05-25,9900.0,14.0,39.4,clear
+535,Arhar (Tur/Red Gram),Purulia,2016-05-26,12400.0,10.0,37.8,clear
+536,Black Gram (Urd Beans),Purulia,2016-05-26,10100.0,0.0,37.8,clear
+537,Lentil(Masur),Balarampur,2016-05-26,9900.0,0.55,37.8,clear
+538,Lentil(Masur),Kasipur,2016-05-26,10000.0,0.4,37.8,clear
+539,Lentil(Masur),Purulia,2016-05-26,9900.0,10.0,37.8,clear
+540,Arhar (Tur/Red Gram),Purulia,2016-05-27,12300.0,8.0,29.8,clear
+541,Black Gram (Urd Beans),Purulia,2016-05-27,10100.0,8.0,29.8,clear
+542,Lentil(Masur),Balarampur,2016-05-27,9900.0,0.53,29.8,clear
+543,Lentil(Masur),Kasipur,2016-05-27,10000.0,0.3,29.8,clear
+544,Lentil(Masur),Purulia,2016-05-27,9900.0,12.0,29.8,clear
+545,Arhar (Tur/Red Gram),Purulia,2016-06-06,12600.0,10.0,36.0,clear
+546,Lentil(Masur),Balarampur,2016-06-06,9900.0,0.52,36.0,clear
+547,Lentil(Masur),Kasipur,2016-06-06,10000.0,0.3,36.0,clear
+548,Lentil(Masur),Purulia,2016-06-06,9900.0,14.0,36.0,clear
+549,Arhar (Tur/Red Gram),Purulia,2016-07-06,12600.0,8.0,30.0,clear
+550,Black Gram (Urd Beans),Purulia,2016-07-06,10100.0,0.0,30.0,clear
+551,Lentil(Masur),Balarampur,2016-07-06,9900.0,0.56,30.0,clear
+552,Lentil(Masur),Kasipur,2016-07-06,10000.0,0.3,30.0,clear
+553,Lentil(Masur),Purulia,2016-07-06,9900.0,12.0,30.0,clear
+554,Arhar (Tur/Red Gram),Purulia,2016-08-06,12800.0,6.0,26.8,clear
+555,Black Gram (Urd Beans),Purulia,2016-08-06,10100.0,8.0,26.8,clear
+556,Lentil(Masur),Balarampur,2016-08-06,9900.0,0.54,26.8,clear
+557,Lentil(Masur),Kasipur,2016-08-06,10000.0,0.3,26.8,clear
+558,Lentil(Masur),Purulia,2016-08-06,9900.0,14.0,26.8,clear
+559,Arhar (Tur/Red Gram),Purulia,2016-09-06,12700.0,10.0,27.2,clear
+560,Black Gram (Urd Beans),Purulia,2016-09-06,10100.0,8.0,27.2,clear
+561,Lentil(Masur),Balarampur,2016-09-06,9900.0,0.55,27.2,clear
+562,Lentil(Masur),Kasipur,2016-09-06,10000.0,0.5,27.2,clear
+563,Lentil(Masur),Purulia,2016-09-06,9900.0,12.0,27.2,clear
+564,Arhar (Tur/Red Gram),Purulia,2016-11-06,12700.0,10.0,25.4,clear
+565,Black Gram (Urd Beans),Purulia,2016-11-06,10000.0,6.0,25.4,clear
+566,Lentil(Masur),Balarampur,2016-11-06,9900.0,0.56,25.4,clear
+567,Lentil(Masur),Purulia,2016-11-06,9900.0,14.0,25.4,clear
+568,Arhar (Tur/Red Gram),Purulia,2016-12-06,12800.0,0.0,27.0,clear
+569,Black Gram (Urd Beans),Purulia,2016-12-06,10200.0,0.0,27.0,clear
+570,Lentil(Masur),Balarampur,2016-12-06,9900.0,0.55,27.0,clear
+571,Lentil(Masur),Purulia,2016-12-06,9900.0,12.0,27.0,clear
+572,Arhar (Tur/Red Gram),Purulia,2016-06-14,12900.0,6.0,36.4,clear
+573,Black Gram (Urd Beans),Purulia,2016-06-14,10200.0,5.0,36.4,clear
+574,Lentil(Masur),Balarampur,2016-06-14,10200.0,0.55,36.4,clear
+575,Lentil(Masur),Kasipur,2016-06-14,10100.0,0.3,36.4,clear
+576,Lentil(Masur),Purulia,2016-06-14,10200.0,10.0,36.4,clear
+577,Arhar (Tur/Red Gram),Purulia,2016-06-15,12900.0,8.0,26.0,clear
+578,Black Gram (Urd Beans),Purulia,2016-06-15,10100.0,0.0,26.0,clear
+579,Lentil(Masur),Balarampur,2016-06-15,10200.0,0.54,26.0,clear
+580,Lentil(Masur),Kasipur,2016-06-15,10100.0,0.2,26.0,clear
+581,Lentil(Masur),Purulia,2016-06-15,10300.0,12.0,26.0,clear
+582,Arhar (Tur/Red Gram),Purulia,2016-06-16,12900.0,8.0,34.0,clear
+583,Black Gram (Urd Beans),Purulia,2016-06-16,10200.0,6.0,34.0,clear
+584,Lentil(Masur),Kasipur,2016-06-16,10100.0,0.4,34.0,clear
+585,Lentil(Masur),Purulia,2016-06-16,10300.0,10.0,34.0,clear
+586,Arhar (Tur/Red Gram),Purulia,2016-06-17,12600.0,7.0,28.0,clear
+587,Black Gram (Urd Beans),Purulia,2016-06-17,10100.0,0.0,28.0,clear
+588,Lentil(Masur),Kasipur,2016-06-17,10100.0,0.3,28.0,clear
+589,Lentil(Masur),Purulia,2016-06-17,10200.0,12.0,28.0,clear
+590,Arhar (Tur/Red Gram),Purulia,2016-06-19,12800.0,0.0,30.0,clear
+591,Lentil(Masur),Balarampur,2016-06-19,10200.0,0.52,30.0,clear
+592,Arhar (Tur/Red Gram),Purulia,2016-06-20,12800.0,8.0,26.0,clear
+593,Black Gram (Urd Beans),Purulia,2016-06-20,10200.0,6.0,26.0,clear
+594,Lentil(Masur),Balarampur,2016-06-20,10200.0,0.55,26.0,clear
+595,Lentil(Masur),Kasipur,2016-06-20,10100.0,0.2,26.0,clear
+596,Lentil(Masur),Purulia,2016-06-20,10200.0,14.0,26.0,clear
+597,Arhar (Tur/Red Gram),Purulia,2016-06-21,12800.0,10.0,34.6,clear
+598,Black Gram (Urd Beans),Purulia,2016-06-21,10000.0,0.0,34.6,clear
+599,Lentil(Masur),Balarampur,2016-06-21,10200.0,0.56,34.6,clear
+600,Lentil(Masur),Kasipur,2016-06-21,10100.0,0.3,34.6,clear
+601,Lentil(Masur),Purulia,2016-06-21,10200.0,12.0,34.6,clear
+602,Arhar (Tur/Red Gram),Purulia,2016-06-22,12200.0,10.0,30.0,clear
+603,Black Gram (Urd Beans),Purulia,2016-06-22,10800.0,5.0,30.0,clear
+604,Lentil(Masur),Balarampur,2016-06-22,10200.0,0.52,30.0,clear
+605,Lentil(Masur),Kasipur,2016-06-22,10100.0,0.3,30.0,clear
+606,Lentil(Masur),Purulia,2016-06-22,10200.0,14.0,30.0,clear
+607,Arhar (Tur/Red Gram),Purulia,2016-06-23,12100.0,0.0,27.6,clear
+608,Black Gram (Urd Beans),Purulia,2016-06-23,11200.0,0.0,27.6,clear
+609,Lentil(Masur),Balarampur,2016-06-23,10200.0,0.51,27.6,clear
+610,Lentil(Masur),Kasipur,2016-06-23,10100.0,0.5,27.6,clear
+611,Lentil(Masur),Purulia,2016-06-23,10100.0,10.0,27.6,clear
+612,Arhar (Tur/Red Gram),Purulia,2016-06-24,12300.0,10.0,31.4,clear
+613,Black Gram (Urd Beans),Purulia,2016-06-24,11500.0,6.0,31.4,clear
+614,Lentil(Masur),Balarampur,2016-06-24,10200.0,0.54,31.4,clear
+615,Lentil(Masur),Kasipur,2016-06-24,10200.0,0.3,31.4,clear
+616,Lentil(Masur),Purulia,2016-06-24,10000.0,14.0,31.4,clear
+617,Arhar (Tur/Red Gram),Purulia,2016-06-25,12200.0,8.0,34.0,clear
+618,Black Gram (Urd Beans),Purulia,2016-06-25,11600.0,0.0,34.0,clear
+619,Lentil(Masur),Balarampur,2016-06-25,10200.0,0.52,34.0,clear
+620,Lentil(Masur),Kasipur,2016-06-25,10200.0,0.3,34.0,clear
+621,Lentil(Masur),Purulia,2016-06-25,10000.0,12.0,34.0,clear
+622,Arhar (Tur/Red Gram),Purulia,2016-06-26,12400.0,0.0,35.0,clear
+623,Black Gram (Urd Beans),Purulia,2016-06-26,11600.0,0.0,35.0,clear
+624,Lentil(Masur),Balarampur,2016-06-26,10200.0,0.51,35.0,clear
+625,Lentil(Masur),Purulia,2016-06-26,10000.0,8.0,35.0,clear
+626,Arhar (Tur/Red Gram),Purulia,2016-06-27,12200.0,10.0,32.2,clear
+627,Black Gram (Urd Beans),Purulia,2016-06-27,11500.0,8.0,32.2,clear
+628,Lentil(Masur),Balarampur,2016-06-27,10200.0,0.52,32.2,clear
+629,Lentil(Masur),Kasipur,2016-06-27,10200.0,0.3,32.2,clear
+630,Lentil(Masur),Purulia,2016-06-27,10000.0,14.0,32.2,clear
+631,Arhar (Tur/Red Gram),Purulia,2016-06-28,12200.0,0.0,29.4,clear
+632,Black Gram (Urd Beans),Purulia,2016-06-28,11600.0,0.0,29.4,clear
+633,Lentil(Masur),Balarampur,2016-06-28,10200.0,0.55,29.4,clear
+634,Lentil(Masur),Kasipur,2016-06-28,10200.0,0.3,29.4,clear
+635,Lentil(Masur),Purulia,2016-06-28,10000.0,10.0,29.4,clear
+636,Arhar (Tur/Red Gram),Purulia,2016-06-29,12400.0,8.0,37.4,clear
+637,Black Gram (Urd Beans),Purulia,2016-06-29,11600.0,6.0,37.4,clear
+638,Lentil(Masur),Balarampur,2016-06-29,10200.0,0.53,37.4,clear
+639,Lentil(Masur),Kasipur,2016-06-29,10200.0,0.3,37.4,clear
+640,Lentil(Masur),Purulia,2016-06-29,10000.0,12.0,37.4,clear
+641,Arhar (Tur/Red Gram),Purulia,2016-06-30,12400.0,10.0,33.0,clear
+642,Black Gram (Urd Beans),Purulia,2016-06-30,11700.0,5.0,33.0,clear
+643,Lentil(Masur),Balarampur,2016-06-30,10200.0,0.52,33.0,clear
+644,Lentil(Masur),Kasipur,2016-06-30,10200.0,0.5,33.0,clear
+645,Lentil(Masur),Purulia,2016-06-30,10000.0,12.0,33.0,clear
+646,Arhar (Tur/Red Gram),Purulia,2016-01-07,12300.0,0.0,26.0,clear
+647,Black Gram (Urd Beans),Purulia,2016-01-07,11600.0,0.0,26.0,clear
+648,Lentil(Masur),Balarampur,2016-01-07,10200.0,0.54,26.0,clear
+649,Lentil(Masur),Kasipur,2016-01-07,10200.0,0.3,26.0,clear
+650,Lentil(Masur),Purulia,2016-01-07,10000.0,10.0,26.0,clear
+651,Arhar (Tur/Red Gram),Purulia,2016-02-07,12400.0,10.0,27.0,clear
+652,Black Gram (Urd Beans),Purulia,2016-02-07,11600.0,6.0,27.0,clear
+653,Lentil(Masur),Balarampur,2016-02-07,10200.0,0.52,27.0,clear
+654,Lentil(Masur),Kasipur,2016-02-07,10200.0,0.4,27.0,clear
+655,Lentil(Masur),Purulia,2016-02-07,9800.0,18.0,27.0,clear
+656,Arhar (Tur/Red Gram),Purulia,2016-03-07,12200.0,6.0,34.0,clear
+657,Black Gram (Urd Beans),Purulia,2016-03-07,11800.0,5.0,34.0,clear
+658,Lentil(Masur),Balarampur,2016-03-07,10200.0,0.54,34.0,clear
+659,Lentil(Masur),Purulia,2016-03-07,9900.0,12.0,34.0,clear
+660,Arhar (Tur/Red Gram),Purulia,2016-04-07,12200.0,10.0,40.0,clear
+661,Black Gram (Urd Beans),Purulia,2016-04-07,11600.0,6.0,40.0,clear
+662,Lentil(Masur),Balarampur,2016-04-07,10200.0,0.53,40.0,clear
+663,Lentil(Masur),Kasipur,2016-04-07,10200.0,0.3,40.0,clear
+664,Lentil(Masur),Purulia,2016-04-07,10100.0,12.0,40.0,clear
+665,Arhar (Tur/Red Gram),Purulia,2016-05-07,12200.0,8.0,31.4,clear
+666,Black Gram (Urd Beans),Purulia,2016-05-07,11600.0,0.0,31.4,clear
+667,Lentil(Masur),Balarampur,2016-05-07,10200.0,0.55,31.4,clear
+668,Lentil(Masur),Kasipur,2016-05-07,10200.0,0.4,31.4,clear
+669,Lentil(Masur),Purulia,2016-05-07,10000.0,14.0,31.4,clear
+670,Arhar (Tur/Red Gram),Purulia,2016-06-07,12400.0,6.0,36.0,clear
+671,Black Gram (Urd Beans),Purulia,2016-06-07,11800.0,0.0,36.0,clear
+672,Lentil(Masur),Balarampur,2016-06-07,10200.0,0.52,36.0,clear
+673,Lentil(Masur),Purulia,2016-06-07,10000.0,10.0,36.0,clear
+674,Arhar (Tur/Red Gram),Purulia,2016-07-07,12200.0,10.0,32.8,clear
+675,Black Gram (Urd Beans),Purulia,2016-07-07,11600.0,6.0,32.8,clear
+676,Lentil(Masur),Balarampur,2016-07-07,10100.0,0.51,32.8,clear
+677,Lentil(Masur),Kasipur,2016-07-07,10200.0,0.5,32.8,clear
+678,Lentil(Masur),Purulia,2016-07-07,9900.0,14.0,32.8,clear
+679,Arhar (Tur/Red Gram),Purulia,2016-08-07,12500.0,8.0,29.0,clear
+680,Black Gram (Urd Beans),Purulia,2016-08-07,11800.0,6.0,29.0,clear
+681,Lentil(Masur),Balarampur,2016-08-07,10100.0,0.52,29.0,clear
+682,Lentil(Masur),Kasipur,2016-08-07,10200.0,0.3,29.0,clear
+683,Lentil(Masur),Purulia,2016-08-07,10000.0,12.0,29.0,clear
+684,Arhar (Tur/Red Gram),Purulia,2016-09-07,12400.0,10.0,25.8,clear
+685,Black Gram (Urd Beans),Purulia,2016-09-07,11600.0,7.0,25.8,clear
+686,Lentil(Masur),Balarampur,2016-09-07,10100.0,0.53,25.8,clear
+687,Lentil(Masur),Purulia,2016-09-07,9900.0,10.0,25.8,clear
+688,Arhar (Tur/Red Gram),Purulia,2016-10-07,12500.0,0.0,31.0,clear
+689,Black Gram (Urd Beans),Purulia,2016-10-07,11700.0,0.0,31.0,clear
+690,Lentil(Masur),Balarampur,2016-10-07,10100.0,0.54,31.0,clear
+691,Lentil(Masur),Purulia,2016-10-07,9900.0,14.0,31.0,clear
+692,Arhar (Tur/Red Gram),Purulia,2016-11-07,12300.0,10.0,27.6,clear
+693,Black Gram (Urd Beans),Purulia,2016-11-07,11800.0,6.0,27.6,clear
+694,Lentil(Masur),Balarampur,2016-11-07,10100.0,0.55,27.6,clear
+695,Lentil(Masur),Kasipur,2016-11-07,10200.0,0.3,27.6,clear
+696,Lentil(Masur),Purulia,2016-11-07,10000.0,14.0,27.6,clear
+697,Arhar (Tur/Red Gram),Purulia,2016-12-07,12200.0,8.0,26.0,clear
+698,Black Gram (Urd Beans),Purulia,2016-12-07,11800.0,5.0,26.0,clear
+699,Lentil(Masur),Balarampur,2016-12-07,10100.0,0.58,26.0,clear
+700,Lentil(Masur),Kasipur,2016-12-07,10200.0,0.4,26.0,clear
+701,Lentil(Masur),Purulia,2016-12-07,10000.0,12.0,26.0,clear
+702,Arhar (Tur/Red Gram),Purulia,2016-07-13,12400.0,7.0,31.2,clear
+703,Black Gram (Urd Beans),Purulia,2016-07-13,11600.0,6.0,31.2,clear
+704,Lentil(Masur),Balarampur,2016-07-13,10100.0,0.53,31.2,clear
+705,Lentil(Masur),Kasipur,2016-07-13,10200.0,0.3,31.2,clear
+706,Lentil(Masur),Purulia,2016-07-13,9900.0,10.0,31.2,clear
+707,Arhar (Tur/Red Gram),Purulia,2016-07-14,12500.0,8.0,31.4,clear
+708,Black Gram (Urd Beans),Purulia,2016-07-14,11700.0,8.0,31.4,clear
+709,Lentil(Masur),Balarampur,2016-07-14,10100.0,0.54,31.4,clear
+710,Lentil(Masur),Kasipur,2016-07-14,10200.0,0.5,31.4,clear
+711,Lentil(Masur),Purulia,2016-07-14,10000.0,14.0,31.4,clear
+712,Arhar (Tur/Red Gram),Purulia,2016-07-15,12500.0,0.0,27.8,clear
+713,Black Gram (Urd Beans),Purulia,2016-07-15,11600.0,0.0,27.8,clear
+714,Lentil(Masur),Balarampur,2016-07-15,10100.0,0.52,27.8,clear
+715,Lentil(Masur),Kasipur,2016-07-15,10200.0,0.3,27.8,clear
+716,Lentil(Masur),Purulia,2016-07-15,10000.0,10.0,27.8,clear
+717,Arhar (Tur/Red Gram),Purulia,2016-07-16,12400.0,10.0,28.0,clear
+718,Black Gram (Urd Beans),Purulia,2016-07-16,11600.0,6.0,28.0,clear
+719,Lentil(Masur),Balarampur,2016-07-16,10100.0,0.53,28.0,clear
+720,Lentil(Masur),Kasipur,2016-07-16,10200.0,0.4,28.0,clear
+721,Lentil(Masur),Purulia,2016-07-16,9900.0,12.0,28.0,clear
+722,Arhar (Tur/Red Gram),Purulia,2016-07-18,12400.0,10.0,27.4,clear
+723,Black Gram (Urd Beans),Purulia,2016-07-18,11600.0,6.0,27.4,clear
+724,Lentil(Masur),Balarampur,2016-07-18,10100.0,0.54,27.4,clear
+725,Lentil(Masur),Kasipur,2016-07-18,10200.0,0.3,27.4,clear
+726,Lentil(Masur),Purulia,2016-07-18,10000.0,12.0,27.4,clear
+727,Arhar (Tur/Red Gram),Purulia,2016-07-19,12500.0,0.0,28.4,clear
+728,Black Gram (Urd Beans),Purulia,2016-07-19,11600.0,5.0,28.4,clear
+729,Lentil(Masur),Kasipur,2016-07-19,10200.0,0.3,28.4,clear
+730,Lentil(Masur),Purulia,2016-07-19,10000.0,8.0,28.4,clear
+731,Arhar (Tur/Red Gram),Purulia,2016-07-20,12400.0,10.0,26.6,clear
+732,Black Gram (Urd Beans),Purulia,2016-07-20,11600.0,6.0,26.6,clear
+733,Lentil(Masur),Balarampur,2016-07-20,10100.0,0.55,26.6,clear
+734,Lentil(Masur),Kasipur,2016-07-20,10200.0,0.3,26.6,clear
+735,Lentil(Masur),Purulia,2016-07-20,9900.0,16.0,26.6,clear
+736,Arhar (Tur/Red Gram),Purulia,2016-07-21,12400.0,8.0,30.0,clear
+737,Black Gram (Urd Beans),Purulia,2016-07-21,11700.0,6.0,30.0,clear
+738,Lentil(Masur),Balarampur,2016-07-21,10100.0,0.56,30.0,clear
+739,Lentil(Masur),Kasipur,2016-07-21,10200.0,0.5,30.0,clear
+740,Lentil(Masur),Purulia,2016-07-21,10000.0,12.0,30.0,clear
+741,Arhar (Tur/Red Gram),Purulia,2016-07-22,12500.0,10.0,27.2,clear
+742,Black Gram (Urd Beans),Purulia,2016-07-22,11750.0,7.0,27.2,clear
+743,Lentil(Masur),Balarampur,2016-07-22,10100.0,0.54,27.2,clear
+744,Lentil(Masur),Kasipur,2016-07-22,10200.0,0.3,27.2,clear
+745,Lentil(Masur),Purulia,2016-07-22,9900.0,12.0,27.2,clear
+746,Arhar (Tur/Red Gram),Purulia,2016-07-24,12400.0,10.0,31.2,clear
+747,Black Gram (Urd Beans),Purulia,2016-07-24,11700.0,0.0,31.2,clear
+748,Lentil(Masur),Balarampur,2016-07-24,10100.0,0.53,31.2,clear
+749,Lentil(Masur),Purulia,2016-07-24,9900.0,12.0,31.2,clear
+750,Arhar (Tur/Red Gram),Purulia,2016-07-25,12200.0,10.0,28.8,clear
+751,Black Gram (Urd Beans),Purulia,2016-07-25,11600.0,6.0,28.8,clear
+752,Lentil(Masur),Balarampur,2016-07-25,10100.0,0.54,28.8,clear
+753,Lentil(Masur),Purulia,2016-07-25,9900.0,16.0,28.8,clear
+754,Arhar (Tur/Red Gram),Purulia,2016-07-26,12400.0,8.0,27.4,clear
+755,Black Gram (Urd Beans),Purulia,2016-07-26,11800.0,0.0,27.4,clear
+756,Lentil(Masur),Balarampur,2016-07-26,10100.0,0.56,27.4,clear
+757,Lentil(Masur),Kasipur,2016-07-26,10200.0,0.3,27.4,clear
+758,Lentil(Masur),Purulia,2016-07-26,9900.0,12.0,27.4,clear
+759,Arhar (Tur/Red Gram),Purulia,2016-07-27,12300.0,10.0,31.0,clear
+760,Black Gram (Urd Beans),Purulia,2016-07-27,11600.0,8.0,31.0,clear
+761,Lentil(Masur),Balarampur,2016-07-27,10000.0,0.52,31.0,clear
+762,Lentil(Masur),Kasipur,2016-07-27,10200.0,0.3,31.0,clear
+763,Lentil(Masur),Purulia,2016-07-27,10000.0,14.0,31.0,clear
+764,Arhar (Tur/Red Gram),Purulia,2016-07-28,12300.0,8.0,32.8,clear
+765,Black Gram (Urd Beans),Purulia,2016-07-28,11600.0,6.0,32.8,clear
+766,Lentil(Masur),Balarampur,2016-07-28,10000.0,0.54,32.8,clear
+767,Lentil(Masur),Kasipur,2016-07-28,10200.0,0.5,32.8,clear
+768,Lentil(Masur),Purulia,2016-07-28,10000.0,12.0,32.8,clear
+769,Arhar (Tur/Red Gram),Purulia,2016-07-29,12300.0,12.0,27.8,clear
+770,Black Gram (Urd Beans),Purulia,2016-07-29,11600.0,6.0,27.8,clear
+771,Lentil(Masur),Balarampur,2016-07-29,10000.0,0.53,27.8,clear
+772,Lentil(Masur),Kasipur,2016-07-29,10200.0,0.3,27.8,clear
+773,Lentil(Masur),Purulia,2016-07-29,9900.0,14.0,27.8,clear
+774,Arhar (Tur/Red Gram),Purulia,2016-01-08,12500.0,8.0,28.0,clear
+775,Lentil(Masur),Balarampur,2016-01-08,10000.0,0.48,28.0,clear
+776,Lentil(Masur),Purulia,2016-01-08,9900.0,14.0,28.0,clear
+777,Black Gram (Urd Beans),Purulia,2016-02-04,9800.0,0.0,25.6,clear
+778,Lentil(Masur),Balarampur,2016-02-04,9400.0,0.35,25.6,clear
+779,Lentil(Masur),Purulia,2016-02-04,9200.0,12.0,25.6,clear
+780,Black Gram (Urd Beans),Purulia,2016-04-23,10400.0,5.0,42.4,clear
+781,Lentil(Masur),Balarampur,2016-04-23,10200.0,0.54,42.4,clear
+782,Lentil(Masur),Kasipur,2016-04-23,10200.0,0.4,42.4,clear
+783,Lentil(Masur),Purulia,2016-04-23,10200.0,14.0,42.4,clear
+784,Lentil(Masur),Balarampur,2016-07-01,9100.0,0.44,27.4,clear
+785,Lentil(Masur),Balarampur,2016-01-27,9300.0,0.43,24.6,clear
+786,Lentil(Masur),Kasipur,2016-01-27,9500.0,0.3,24.6,clear
+787,Lentil(Masur),Balarampur,2016-01-28,9300.0,0.44,24.8,clear
+788,Lentil(Masur),Kasipur,2016-01-28,9500.0,0.4,24.8,clear
+789,Lentil(Masur),Balarampur,2016-02-20,9100.0,0.41,35.8,clear
+790,Lentil(Masur),Kasipur,2016-02-20,9200.0,0.3,35.8,clear
+791,Lentil(Masur),Balarampur,2016-02-27,9200.0,0.44,28.8,clear
+792,Lentil(Masur),Kasipur,2016-02-27,9200.0,0.4,28.8,clear
+793,Lentil(Masur),Balarampur,2016-04-03,9000.0,0.43,39.6,clear
+794,Lentil(Masur),Kasipur,2016-04-03,9000.0,0.3,39.6,clear
+795,Lentil(Masur),Balarampur,2016-05-03,9000.0,0.44,37.4,clear
+796,Lentil(Masur),Kasipur,2016-05-03,9000.0,0.4,37.4,clear
+797,Lentil(Masur),Balarampur,2016-12-03,9200.0,0.45,25.0,clear
+798,Lentil(Masur),Kasipur,2016-12-03,8900.0,0.3,25.0,clear
+799,Lentil(Masur),Balarampur,2016-03-15,9200.0,0.46,32.0,clear
+800,Lentil(Masur),Kasipur,2016-03-15,10000.0,0.3,32.0,clear
+801,Lentil(Masur),Balarampur,2016-03-19,9800.0,0.44,35.6,clear
+802,Lentil(Masur),Kasipur,2016-03-19,9900.0,0.4,35.6,clear
+803,Lentil(Masur),Balarampur,2016-03-20,9800.0,0.43,35.2,clear
+804,Lentil(Masur),Balarampur,2016-03-21,9700.0,0.45,36.0,clear
+805,Lentil(Masur),Kasipur,2016-03-21,9900.0,0.3,36.0,clear
+806,Lentil(Masur),Balarampur,2016-03-26,9600.0,0.43,37.6,clear
+807,Lentil(Masur),Balarampur,2016-03-30,9300.0,0.45,36.2,clear
+808,Lentil(Masur),Kasipur,2016-03-30,9100.0,0.3,36.2,clear
+809,Lentil(Masur),Balarampur,2016-09-04,9600.0,0.46,25.4,clear
+810,Lentil(Masur),Balarampur,2016-11-04,9600.0,0.45,26.8,clear
+811,Lentil(Masur),Kasipur,2016-11-04,9800.0,0.3,26.8,clear
+812,Lentil(Masur),Balarampur,2016-04-16,10000.0,0.5,42.2,clear
+813,Lentil(Masur),Kasipur,2016-04-16,9700.0,0.4,42.2,clear
+814,Lentil(Masur),Balarampur,2016-04-24,10200.0,0.52,31.0,clear
+815,Lentil(Masur),Balarampur,2016-07-05,10200.0,0.54,29.4,clear
+816,Lentil(Masur),Balarampur,2016-08-05,10200.0,0.55,29.0,clear
+817,Lentil(Masur),Balarampur,2016-05-13,10000.0,0.56,41.0,clear
+818,Lentil(Masur),Kasipur,2016-05-13,10000.0,0.3,41.0,clear
+819,Lentil(Masur),Balarampur,2016-05-21,10000.0,0.55,28.2,clear
+820,Lentil(Masur),Kasipur,2016-05-21,10000.0,0.4,28.2,clear
+821,Lentil(Masur),Balarampur,2016-05-28,9900.0,0.54,37.4,clear
+822,Lentil(Masur),Balarampur,2016-05-29,9900.0,0.52,27.2,clear
+823,Lentil(Masur),Balarampur,2016-05-30,9900.0,0.55,27.0,clear
+824,Lentil(Masur),Kasipur,2016-05-30,10000.0,0.3,27.0,clear
+825,Lentil(Masur),Balarampur,2016-05-31,9900.0,0.58,36.0,clear
+826,Lentil(Masur),Kasipur,2016-05-31,10000.0,0.3,36.0,clear
+827,Lentil(Masur),Balarampur,2016-01-06,9900.0,0.55,26.0,clear
+828,Lentil(Masur),Balarampur,2016-02-06,9900.0,0.54,27.0,clear
+829,Lentil(Masur),Kasipur,2016-02-06,10000.0,0.4,27.0,clear
+830,Lentil(Masur),Balarampur,2016-03-06,9900.0,0.56,31.4,clear
+831,Lentil(Masur),Kasipur,2016-03-06,10000.0,0.3,31.4,clear
+832,Lentil(Masur),Balarampur,2016-04-06,9900.0,0.53,38.0,clear
+833,Lentil(Masur),Kasipur,2016-04-06,10000.0,0.3,38.0,clear
+834,Lentil(Masur),Balarampur,2016-05-06,9900.0,0.54,37.4,clear
+835,Lentil(Masur),Balarampur,2016-10-06,9900.0,0.52,26.0,clear
+836,Lentil(Masur),Kasipur,2016-10-06,10000.0,0.4,26.0,clear
+837,Lentil(Masur),Balarampur,2016-06-13,10200.0,0.53,34.2,clear
+838,Lentil(Masur),Balarampur,2016-06-18,10200.0,0.54,28.6,clear
+839,Lentil(Masur),Balarampur,2016-07-23,10100.0,0.52,28.0,clear
+840,Lentil(Masur),Balarampur,2016-07-30,10000.0,0.52,26.0,clear
+841,Lentil(Masur),Kasipur,2016-07-30,10200.0,0.4,26.0,clear
+842,Lentil(Masur),Balarampur,2016-02-08,10000.0,0.46,22.0,rain
+843,Lentil(Masur),Balarampur,2016-03-08,10000.0,0.45,31.8,clear
+844,Lentil(Masur),Balarampur,2016-04-08,10000.0,0.46,39.0,clear
+845,Lentil(Masur),Balarampur,2016-05-08,10000.0,0.44,26.0,clear
+846,Lentil(Masur),Balarampur,2016-06-08,10000.0,0.45,36.2,clear
+847,Lentil(Masur),Balarampur,2016-07-08,10000.0,0.46,29.0,clear
+848,Lentil(Masur),Balarampur,2016-08-08,10000.0,0.44,29.0,clear
+849,Lentil(Masur),Kasipur,2016-08-08,10200.0,0.3,29.0,clear
+850,Lentil(Masur),Balarampur,2016-09-08,10000.0,0.48,27.3,clear
+851,Lentil(Masur),Kasipur,2016-09-08,10200.0,0.3,27.3,clear
+852,Lentil(Masur),Balarampur,2016-10-08,9900.0,0.46,30.0,clear
+853,Lentil(Masur),Kasipur,2016-10-08,10000.0,0.3,30.0,clear
+854,Lentil(Masur),Balarampur,2016-11-08,9900.0,0.44,28.0,clear
+855,Lentil(Masur),Kasipur,2016-11-08,10000.0,0.5,28.0,clear
+856,Lentil(Masur),Balarampur,2016-12-08,9900.0,0.45,26.4,clear
+857,Lentil(Masur),Kasipur,2016-12-08,10000.0,0.3,26.4,clear
+858,Lentil(Masur),Balarampur,2016-08-13,9900.0,0.46,30.4,clear
+859,Lentil(Masur),Balarampur,2016-08-14,9900.0,0.47,26.6,clear
+860,Lentil(Masur),Balarampur,2016-08-16,9900.0,0.5,32.4,clear
+861,Lentil(Masur),Kasipur,2016-08-16,10000.0,0.3,32.4,clear
+862,Lentil(Masur),Balarampur,2016-08-17,9900.0,0.48,27.0,clear
+863,Lentil(Masur),Kasipur,2016-08-17,10000.0,0.4,27.0,clear
+864,Lentil(Masur),Balarampur,2016-08-19,9900.0,0.46,28.4,clear
+865,Lentil(Masur),Kasipur,2016-08-19,10000.0,0.3,28.4,clear
+866,Lentil(Masur),Balarampur,2016-08-20,9900.0,0.48,33.0,clear
+867,Lentil(Masur),Kasipur,2016-08-20,10000.0,0.4,33.0,clear
+868,Lentil(Masur),Balarampur,2016-08-21,9900.0,0.46,30.0,clear
+869,Lentil(Masur),Balarampur,2016-08-23,9900.0,0.5,31.0,clear
+870,Lentil(Masur),Kasipur,2016-08-23,10000.0,0.4,31.0,clear
+871,Lentil(Masur),Balarampur,2016-08-24,9900.0,0.47,32.8,clear
+872,Lentil(Masur),Kasipur,2016-08-24,10000.0,0.5,32.8,clear
+873,Lentil(Masur),Balarampur,2016-08-25,9900.0,0.48,30.0,clear
+874,Lentil(Masur),Balarampur,2016-08-26,9900.0,0.45,32.0,clear
+875,Lentil(Masur),Balarampur,2016-08-27,9900.0,0.46,32.0,clear
+876,Lentil(Masur),Kasipur,2016-08-27,10000.0,0.4,32.0,clear
+877,Lentil(Masur),Balarampur,2016-08-28,9900.0,0.47,33.0,clear
+878,Lentil(Masur),Kasipur,2016-08-28,10000.0,0.4,33.0,clear
+879,Lentil(Masur),Balarampur,2016-08-29,9900.0,0.48,33.4,clear
+880,Lentil(Masur),Kasipur,2016-08-29,10000.0,0.3,33.4,clear
+881,Lentil(Masur),Balarampur,2016-08-30,9700.0,0.5,33.0,clear
+882,Lentil(Masur),Kasipur,2016-08-30,9600.0,0.3,33.0,clear
+883,Lentil(Masur),Balarampur,2016-08-31,9700.0,0.48,31.0,clear
+884,Lentil(Masur),Kasipur,2016-08-31,9600.0,0.4,31.0,clear
+885,Lentil(Masur),Balarampur,2016-01-09,9500.0,0.46,26.6,clear
+886,Lentil(Masur),Kasipur,2016-01-09,9600.0,0.5,26.6,clear
+887,Lentil(Masur),Balarampur,2016-02-09,9500.0,0.25,25.0,clear
+888,Lentil(Masur),Kasipur,2016-02-09,9400.0,0.2,25.0,clear
+889,Lentil(Masur),Balarampur,2016-03-09,9500.0,0.45,30.8,clear
+890,Lentil(Masur),Kasipur,2016-03-09,9300.0,0.4,30.8,clear
+891,Lentil(Masur),Balarampur,2016-04-09,9500.0,44.0,40.2,clear
+892,Lentil(Masur),Balarampur,2016-05-09,9500.0,0.45,31.0,clear
+893,Lentil(Masur),Kasipur,2016-05-09,9300.0,0.2,31.0,clear
+894,Lentil(Masur),Balarampur,2016-07-09,9400.0,0.46,26.0,clear
+895,Lentil(Masur),Kasipur,2016-07-09,9300.0,0.3,26.0,clear
+896,Lentil(Masur),Balarampur,2016-08-09,9300.0,0.44,27.2,clear
+897,Lentil(Masur),Kasipur,2016-08-09,9500.0,0.6,27.2,clear
+898,Lentil(Masur),Balarampur,2016-09-09,9300.0,0.48,31.0,clear
+899,Lentil(Masur),Kasipur,2016-09-09,9500.0,0.3,31.0,clear
+900,Lentil(Masur),Balarampur,2016-10-09,9300.0,0.45,31.4,clear
+901,Lentil(Masur),Kasipur,2016-10-09,9500.0,0.4,31.4,clear
+902,Lentil(Masur),Balarampur,2016-11-09,9300.0,0.43,26.1,clear
+903,Lentil(Masur),Balarampur,2016-12-09,9300.0,0.44,21.4,clear
+904,Lentil(Masur),Balarampur,2016-09-13,9300.0,0.43,30.0,clear
+905,Lentil(Masur),Kasipur,2016-09-13,9500.0,0.4,30.0,clear
+906,Lentil(Masur),Balarampur,2016-09-14,9200.0,0.44,31.0,clear
+907,Lentil(Masur),Kasipur,2016-09-14,9500.0,0.3,31.0,clear
+908,Lentil(Masur),Balarampur,2016-09-15,9200.0,0.46,30.0,clear
+909,Lentil(Masur),Kasipur,2016-09-15,9400.0,0.6,30.0,clear
+910,Lentil(Masur),Balarampur,2016-09-16,9200.0,0.45,33.2,clear
+911,Lentil(Masur),Kasipur,2016-09-16,9400.0,0.3,33.2,clear
+912,Lentil(Masur),Balarampur,2016-09-17,9200.0,0.43,33.4,clear
+913,Lentil(Masur),Balarampur,2016-09-18,9200.0,0.42,32.4,clear
+914,Lentil(Masur),Balarampur,2016-09-19,9200.0,0.44,32.4,clear
+915,Lentil(Masur),Kasipur,2016-09-19,9400.0,0.3,32.4,clear
+916,Lentil(Masur),Balarampur,2016-09-20,9100.0,0.46,28.0,clear
+917,Lentil(Masur),Kasipur,2016-09-20,9400.0,0.4,28.0,clear
+918,Lentil(Masur),Balarampur,2016-09-21,9100.0,0.43,27.0,clear
+919,Lentil(Masur),Balarampur,2016-09-22,9100.0,0.46,28.2,clear
+920,Lentil(Masur),Kasipur,2016-09-22,9400.0,0.6,28.2,clear
+921,Lentil(Masur),Balarampur,2016-09-23,9100.0,0.43,28.0,clear
+922,Lentil(Masur),Kasipur,2016-09-23,9400.0,0.3,28.0,clear
+923,Lentil(Masur),Balarampur,2016-09-24,9100.0,0.42,28.0,clear
+924,Lentil(Masur),Kasipur,2016-09-24,9400.0,0.5,28.0,clear
+925,Lentil(Masur),Balarampur,2016-09-25,9100.0,0.44,28.0,clear
+926,Lentil(Masur),Balarampur,2016-09-26,9100.0,0.45,29.0,clear
+927,Lentil(Masur),Kasipur,2016-09-26,9400.0,0.3,29.0,clear
+928,Lentil(Masur),Balarampur,2016-09-27,9100.0,0.47,32.0,clear
+929,Lentil(Masur),Kasipur,2016-09-27,9400.0,0.4,32.0,clear
+930,Lentil(Masur),Balarampur,2016-09-28,9100.0,0.43,30.0,clear
+931,Lentil(Masur),Kasipur,2016-09-28,9400.0,0.3,30.0,clear
+932,Lentil(Masur),Balarampur,2016-09-29,9100.0,0.44,27.0,clear
+933,Lentil(Masur),Kasipur,2016-09-29,9400.0,0.6,27.0,clear
+934,Lentil(Masur),Balarampur,2016-09-30,9100.0,0.43,31.0,clear
+935,Lentil(Masur),Balarampur,2016-01-10,9100.0,0.44,25.0,clear
+936,Lentil(Masur),Kasipur,2016-01-10,9400.0,0.3,25.0,clear
+937,Lentil(Masur),Balarampur,2016-02-10,9100.0,0.43,27.4,clear
+938,Lentil(Masur),Kasipur,2016-02-10,9400.0,0.4,27.4,clear
+939,Lentil(Masur),Balarampur,2016-03-10,9200.0,0.42,34.0,clear
+940,Lentil(Masur),Kasipur,2016-03-10,9400.0,0.3,34.0,clear
+941,Lentil(Masur),Balarampur,2016-04-10,9200.0,0.45,41.0,clear
+942,Lentil(Masur),Kasipur,2016-04-10,9400.0,0.4,41.0,clear
+943,Lentil(Masur),Balarampur,2016-05-10,9200.0,0.44,38.0,clear
+944,Lentil(Masur),Kasipur,2016-05-10,9400.0,0.3,38.0,clear
+945,Lentil(Masur),Balarampur,2016-06-10,9200.0,0.43,36.4,clear
+946,Lentil(Masur),Kasipur,2016-06-10,9400.0,0.6,36.4,clear
+947,Lentil(Masur),Balarampur,2016-07-10,9200.0,0.42,30.2,clear
+948,Lentil(Masur),Kasipur,2016-07-10,9400.0,0.3,30.2,clear
+949,Lentil(Masur),Balarampur,2016-08-10,9200.0,0.44,30.4,clear
+950,Lentil(Masur),Kasipur,2016-08-10,9400.0,0.5,30.4,clear
+951,Lentil(Masur),Balarampur,2016-10-10,9200.0,0.45,27.6,clear
+952,Lentil(Masur),Kasipur,2016-10-10,9400.0,0.4,27.6,clear
+953,Lentil(Masur),Balarampur,2016-11-10,9200.0,0.45,27.4,clear
+954,Lentil(Masur),Kasipur,2016-11-10,9400.0,0.5,27.4,clear
+955,Lentil(Masur),Balarampur,2016-12-10,9200.0,0.43,23.0,clear
+956,Lentil(Masur),Kasipur,2016-12-10,9400.0,0.3,23.0,clear
+957,Lentil(Masur),Balarampur,2016-10-13,9200.0,0.44,31.6,clear
+958,Lentil(Masur),Balarampur,2016-10-14,9200.0,0.45,29.4,clear
+959,Lentil(Masur),Balarampur,2016-10-15,9200.0,0.43,30.4,clear
+960,Lentil(Masur),Kasipur,2016-10-15,9400.0,0.4,30.4,clear
+961,Lentil(Masur),Balarampur,2016-10-16,9200.0,0.44,30.0,clear
+962,Lentil(Masur),Kasipur,2016-10-16,9400.0,0.3,30.0,clear
+963,Lentil(Masur),Balarampur,2016-10-17,9200.0,0.45,30.4,clear
+964,Lentil(Masur),Kasipur,2016-10-17,9400.0,0.3,30.4,clear
+965,Lentil(Masur),Balarampur,2016-10-18,9200.0,0.46,30.0,clear
+966,Lentil(Masur),Kasipur,2016-10-18,9200.0,0.3,30.0,clear
+967,Lentil(Masur),Balarampur,2016-10-19,9200.0,0.45,31.0,clear
+968,Lentil(Masur),Kasipur,2016-10-19,9200.0,0.3,31.0,clear
+969,Lentil(Masur),Balarampur,2016-10-20,9200.0,0.43,30.2,clear
+970,Lentil(Masur),Kasipur,2016-10-20,9200.0,0.6,30.2,clear
+971,Lentil(Masur),Balarampur,2016-10-21,9200.0,0.43,31.0,clear
+972,Lentil(Masur),Kasipur,2016-10-21,9200.0,0.3,31.0,clear
+973,Lentil(Masur),Balarampur,2016-10-22,9400.0,0.44,30.4,clear
+974,Lentil(Masur),Kasipur,2016-10-22,9200.0,0.4,30.4,clear
+975,Lentil(Masur),Balarampur,2016-10-23,9400.0,0.43,31.0,clear
+976,Lentil(Masur),Balarampur,2016-10-24,9400.0,0.45,30.0,clear
+977,Lentil(Masur),Kasipur,2016-10-24,9200.0,0.3,30.0,clear
+978,Lentil(Masur),Balarampur,2016-10-25,9400.0,0.48,30.2,clear
+979,Lentil(Masur),Kasipur,2016-10-25,9300.0,0.3,30.2,clear
+980,Lentil(Masur),Balarampur,2016-10-26,9400.0,0.44,31.0,clear
+981,Lentil(Masur),Kasipur,2016-10-26,9300.0,0.3,31.0,clear
+982,Lentil(Masur),Balarampur,2016-10-27,9400.0,0.45,26.4,clear
+983,Lentil(Masur),Kasipur,2016-10-27,9300.0,0.6,26.4,clear
+984,Lentil(Masur),Balarampur,2016-10-28,9400.0,0.43,27.6,clear
+985,Lentil(Masur),Kasipur,2016-10-28,9300.0,0.3,27.6,clear
+986,Lentil(Masur),Balarampur,2016-10-29,9400.0,0.44,29.4,clear
+987,Lentil(Masur),Balarampur,2016-10-30,9400.0,0.42,22.6,clear
+988,Lentil(Masur),Balarampur,2016-01-11,9400.0,0.43,24.2,clear
+989,Lentil(Masur),Balarampur,2016-02-11,9400.0,0.44,27.0,clear
+990,Lentil(Masur),Kasipur,2016-02-11,9300.0,0.3,27.0,clear
+991,Lentil(Masur),Balarampur,2016-03-11,9400.0,0.45,35.0,clear
+992,Lentil(Masur),Kasipur,2016-03-11,9300.0,0.6,35.0,clear
+993,Lentil(Masur),Balarampur,2016-04-11,9400.0,0.44,41.2,clear
+994,Lentil(Masur),Kasipur,2016-04-11,9300.0,0.3,41.2,clear
+995,Lentil(Masur),Balarampur,2016-05-11,9400.0,0.46,37.0,clear
+996,Lentil(Masur),Balarampur,2016-06-11,9400.0,0.45,39.4,clear
+997,Lentil(Masur),Balarampur,2016-07-11,9300.0,0.46,28.0,clear
+998,Lentil(Masur),Kasipur,2016-07-11,9300.0,0.4,28.0,clear
+999,Lentil(Masur),Balarampur,2016-08-11,9300.0,0.48,24.5,clear
+1000,Lentil(Masur),Kasipur,2016-08-11,9300.0,0.3,24.5,clear
+1001,Lentil(Masur),Balarampur,2016-09-11,9300.0,0.45,31.4,clear
+1002,Lentil(Masur),Kasipur,2016-09-11,9300.0,0.4,31.4,clear
+1003,Lentil(Masur),Balarampur,2016-10-11,9300.0,0.43,30.0,clear
+1004,Lentil(Masur),Kasipur,2016-10-11,9300.0,0.6,30.0,clear
+1005,Lentil(Masur),Balarampur,2016-12-11,9300.0,0.45,24.0,clear
+1006,Lentil(Masur),Balarampur,2016-11-13,9300.0,0.43,27.8,clear
+1007,Lentil(Masur),Balarampur,2016-11-14,9300.0,0.44,27.0,clear
+1008,Lentil(Masur),Kasipur,2016-11-14,9300.0,0.3,27.0,clear
+1009,Lentil(Masur),Balarampur,2016-11-15,9300.0,0.48,25.0,clear
+1010,Lentil(Masur),Kasipur,2016-11-15,9300.0,0.4,25.0,clear
+1011,Lentil(Masur),Balarampur,2016-11-16,9400.0,0.46,27.0,clear
+1012,Lentil(Masur),Kasipur,2016-11-16,9300.0,0.3,27.0,clear
+1013,Lentil(Masur),Balarampur,2016-11-17,9400.0,0.44,27.0,clear
+1014,Lentil(Masur),Kasipur,2016-11-17,9300.0,0.7,27.0,clear
+1015,Lentil(Masur),Balarampur,2016-11-19,9400.0,0.46,25.0,clear
+1016,Lentil(Masur),Kasipur,2016-11-19,9300.0,0.3,25.0,clear
+1017,Lentil(Masur),Balarampur,2016-11-20,9400.0,0.42,23.4,clear
+1018,Lentil(Masur),Kasipur,2016-11-20,9300.0,0.4,23.4,clear
+1019,Lentil(Masur),Balarampur,2016-11-21,9400.0,0.48,23.0,clear
+1020,Lentil(Masur),Kasipur,2016-11-21,9300.0,0.4,23.0,clear
+1021,Lentil(Masur),Balarampur,2016-11-22,9400.0,0.47,26.0,clear
+1022,Lentil(Masur),Kasipur,2016-11-22,9300.0,0.4,26.0,clear
+1023,Lentil(Masur),Balarampur,2016-11-23,9400.0,0.48,27.8,clear
+1024,Lentil(Masur),Kasipur,2016-11-23,9300.0,0.3,27.8,clear
+1025,Lentil(Masur),Balarampur,2016-11-24,9400.0,0.5,16.0,clear
+1026,Lentil(Masur),Kasipur,2016-11-24,9300.0,0.7,16.0,clear
+1027,Lentil(Masur),Balarampur,2016-11-25,9400.0,0.46,27.4,clear
+1028,Lentil(Masur),Kasipur,2016-11-25,9300.0,0.3,27.4,clear
+1029,Lentil(Masur),Balarampur,2016-11-26,9400.0,0.47,26.8,clear
+1030,Lentil(Masur),Kasipur,2016-11-26,9300.0,0.4,26.8,clear
+1031,Lentil(Masur),Balarampur,2016-11-27,9400.0,0.45,26.8,clear
+1032,Lentil(Masur),Balarampur,2016-11-28,9400.0,0.44,25.0,clear
+1033,Lentil(Masur),Kasipur,2016-11-28,9300.0,0.3,25.0,clear
+1034,Lentil(Masur),Balarampur,2016-11-29,9400.0,0.5,26.0,clear
+1035,Lentil(Masur),Kasipur,2016-11-29,9300.0,0.4,26.0,clear
+1036,Lentil(Masur),Balarampur,2016-11-30,9400.0,0.47,25.0,clear
+1037,Lentil(Masur),Kasipur,2016-11-30,9300.0,0.3,25.0,clear
+1038,Lentil(Masur),Balarampur,2016-01-12,9400.0,0.46,24.4,clear
+1039,Lentil(Masur),Kasipur,2016-01-12,9300.0,0.6,24.4,clear
+1040,Lentil(Masur),Balarampur,2016-02-12,9400.0,0.47,30.0,clear
+1041,Lentil(Masur),Kasipur,2016-02-12,9300.0,0.3,30.0,clear
+1042,Lentil(Masur),Balarampur,2016-03-12,9300.0,0.48,36.4,clear
+1043,Lentil(Masur),Kasipur,2016-03-12,9300.0,0.4,36.4,clear
+1044,Lentil(Masur),Balarampur,2016-04-12,9200.0,0.46,39.6,clear
+1045,Lentil(Masur),Balarampur,2016-05-12,9200.0,0.5,32.0,clear
+1046,Lentil(Masur),Kasipur,2016-05-12,9200.0,0.3,32.0,clear
+1047,Lentil(Masur),Balarampur,2016-06-12,9200.0,0.54,30.0,clear
+1048,Lentil(Masur),Kasipur,2016-06-12,9200.0,0.4,30.0,clear
+1049,Lentil(Masur),Balarampur,2016-07-12,9200.0,0.48,27.0,clear
+1050,Lentil(Masur),Kasipur,2016-07-12,9200.0,0.3,27.0,clear
+1051,Lentil(Masur),Balarampur,2016-08-12,9200.0,0.46,27.0,clear
+1052,Lentil(Masur),Kasipur,2016-08-12,9200.0,0.7,27.0,clear
+1053,Lentil(Masur),Balarampur,2016-09-12,9200.0,0.47,30.4,clear
+1054,Lentil(Masur),Kasipur,2016-09-12,9200.0,0.3,30.4,clear
+1055,Lentil(Masur),Balarampur,2016-10-12,9200.0,0.46,30.0,clear
+1056,Lentil(Masur),Balarampur,2016-11-12,9200.0,0.45,27.8,clear
+1057,Lentil(Masur),Balarampur,2016-12-12,9200.0,0.46,26.6,clear
+1058,Lentil(Masur),Kasipur,2016-12-12,9300.0,0.4,26.6,clear
+1059,Lentil(Masur),Balarampur,2016-12-13,9200.0,0.48,26.0,clear
+1060,Lentil(Masur),Kasipur,2016-12-13,9300.0,0.3,26.0,clear
+1061,Lentil(Masur),Balarampur,2016-12-14,9200.0,0.46,25.0,clear
+1062,Lentil(Masur),Kasipur,2016-12-14,9300.0,0.3,25.0,clear
+1063,Lentil(Masur),Balarampur,2016-12-15,9200.0,0.47,24.6,clear
+1064,Lentil(Masur),Kasipur,2016-12-15,9300.0,0.7,24.6,clear
+1065,Lentil(Masur),Balarampur,2016-12-16,9200.0,0.48,21.8,clear
+1066,Lentil(Masur),Kasipur,2016-12-16,9200.0,0.3,21.8,clear
+1067,Lentil(Masur),Balarampur,2016-12-17,9200.0,0.46,23.0,clear
+1068,Lentil(Masur),Kasipur,2016-12-17,9200.0,0.4,23.0,clear
+1069,Lentil(Masur),Balarampur,2016-12-18,9200.0,0.45,24.2,clear
+1070,Lentil(Masur),Kasipur,2016-12-18,9200.0,0.3,24.2,clear
+1071,Lentil(Masur),Balarampur,2016-12-19,9200.0,0.47,24.2,clear
+1072,Lentil(Masur),Kasipur,2016-12-19,9200.0,0.3,24.2,clear
+1073,Lentil(Masur),Balarampur,2016-12-20,9200.0,0.5,21.8,clear
+1074,Lentil(Masur),Kasipur,2016-12-20,9200.0,0.4,21.8,clear
+1075,Lentil(Masur),Balarampur,2016-12-21,9200.0,0.48,24.8,clear
+1076,Lentil(Masur),Kasipur,2016-12-21,9200.0,0.3,24.8,clear
+1077,Lentil(Masur),Balarampur,2016-12-22,9200.0,0.5,21.8,clear
+1078,Lentil(Masur),Kasipur,2016-12-22,9200.0,0.6,21.8,clear
+1079,Lentil(Masur),Balarampur,2016-12-23,9200.0,0.52,25.0,clear
+1080,Lentil(Masur),Kasipur,2016-12-23,9200.0,0.3,25.0,clear
+1081,Lentil(Masur),Balarampur,2016-12-24,9200.0,0.5,15.2,clear
+1082,Lentil(Masur),Kasipur,2016-12-24,9200.0,0.4,15.2,clear
+1083,Lentil(Masur),Balarampur,2016-12-25,9200.0,0.52,26.0,clear
+1084,Lentil(Masur),Balarampur,2016-12-26,9200.0,0.54,27.0,clear
+1085,Lentil(Masur),Kasipur,2016-12-26,9200.0,0.3,27.0,clear
+1086,Lentil(Masur),Balarampur,2016-12-27,9200.0,0.6,23.4,clear
+1087,Lentil(Masur),Balarampur,2016-12-28,9200.0,0.58,23.8,clear
+1088,Lentil(Masur),Balarampur,2016-12-29,9200.0,0.62,24.0,clear
+1089,Lentil(Masur),Kasipur,2016-12-29,9200.0,0.6,24.0,clear
+1090,Lentil(Masur),Balarampur,2016-12-30,9200.0,0.6,22.2,clear
+1091,Lentil(Masur),Kasipur,2016-12-30,9200.0,0.3,22.2,clear
+1092,Lentil(Masur),Balarampur,2016-12-31,9200.0,0.58,23.0,clear
+1093,Lentil(Masur),Kasipur,2016-01-16,9500.0,0.3,27.0,clear
+1094,Lentil(Masur),Kasipur,2016-01-19,9500.0,0.3,22.0,clear
+1095,Lentil(Masur),Kasipur,2016-01-23,9500.0,0.3,20.0,clear
+1096,Lentil(Masur),Kasipur,2016-01-30,9500.0,0.5,28.8,clear
+1097,Lentil(Masur),Kasipur,2016-02-13,9200.0,0.3,27.6,clear
+1098,Lentil(Masur),Kasipur,2016-08-18,10000.0,0.6,25.0,clear
+1099,Lentil(Masur),Kasipur,2016-08-22,10000.0,0.3,25.0,clear
+1100,Lentil(Masur),Kasipur,2016-06-09,9300.0,0.4,34.2,clear
+1101,Lentil(Masur),Kasipur,2016-11-11,9300.0,0.3,23.0,clear
+1102,Lentil(Masur),Balarampur,2017-01-01,9200.0,0.56,23.0,clear
+1103,Lentil(Masur),Balarampur,2017-02-01,9200.0,0.6,26.0,clear
+1104,Lentil(Masur),Kasipur,2017-02-01,9200.0,0.3,26.0,clear
+1105,Lentil(Masur),Balarampur,2017-03-01,9200.0,0.62,33.2,clear
+1106,Lentil(Masur),Kasipur,2017-03-01,9200.0,0.4,33.2,clear
+1107,Lentil(Masur),Balarampur,2017-04-01,9200.0,0.58,40.2,clear
+1108,Lentil(Masur),Kasipur,2017-04-01,9200.0,0.4,40.2,clear
+1109,Lentil(Masur),Balarampur,2017-05-01,9200.0,0.61,33.0,clear
+1110,Lentil(Masur),Kasipur,2017-05-01,9200.0,0.3,33.0,clear
+1111,Lentil(Masur),Balarampur,2017-06-01,9200.0,0.62,34.4,clear
+1112,Lentil(Masur),Kasipur,2017-06-01,9200.0,0.7,34.4,clear
+1113,Lentil(Masur),Balarampur,2017-07-01,9200.0,0.58,30.0,clear
+1114,Lentil(Masur),Balarampur,2017-08-01,9200.0,0.56,33.0,clear
+1115,Lentil(Masur),Kasipur,2017-08-01,9200.0,0.4,33.0,clear
+1116,Lentil(Masur),Balarampur,2017-09-01,9200.0,0.6,28.0,clear
+1117,Lentil(Masur),Kasipur,2017-09-01,9200.0,0.3,28.0,clear
+1118,Lentil(Masur),Balarampur,2017-10-01,9200.0,0.62,26.0,clear
+1119,Lentil(Masur),Kasipur,2017-10-01,9200.0,0.4,26.0,clear
+1120,Lentil(Masur),Balarampur,2017-11-01,9200.0,0.58,28.0,clear
+1121,Lentil(Masur),Kasipur,2017-11-01,9200.0,0.4,28.0,clear
+1122,Lentil(Masur),Balarampur,2017-12-01,9200.0,0.56,22.0,clear
+1123,Lentil(Masur),Kasipur,2017-12-01,9200.0,0.7,22.0,clear
+1124,Lentil(Masur),Balarampur,2017-01-13,9200.0,0.6,21.0,clear
+1125,Lentil(Masur),Kasipur,2017-01-13,9200.0,0.3,21.0,clear
+1126,Lentil(Masur),Balarampur,2017-01-14,9200.0,0.3,20.4,clear
+1127,Lentil(Masur),Balarampur,2017-01-16,9200.0,0.56,25.2,clear
+1128,Lentil(Masur),Kasipur,2017-01-16,9200.0,0.3,25.2,clear
+1129,Lentil(Masur),Balarampur,2017-01-17,9200.0,0.63,27.2,clear
+1130,Lentil(Masur),Kasipur,2017-01-17,9200.0,0.4,27.2,clear
+1131,Lentil(Masur),Balarampur,2017-01-18,9200.0,0.6,26.4,clear
+1132,Lentil(Masur),Kasipur,2017-01-18,9200.0,0.4,26.4,clear
+1133,Lentil(Masur),Balarampur,2017-01-19,9200.0,0.58,26.0,clear
+1134,Lentil(Masur),Kasipur,2017-01-19,9200.0,0.6,26.0,clear
+1135,Lentil(Masur),Balarampur,2017-01-20,9200.0,0.64,26.8,clear
+1136,Lentil(Masur),Kasipur,2017-01-20,9200.0,0.4,26.8,clear
+1137,Lentil(Masur),Balarampur,2017-01-21,9200.0,0.62,27.0,clear
+1138,Lentil(Masur),Balarampur,2017-01-22,9200.0,0.58,26.4,clear
+1139,Lentil(Masur),Kasipur,2017-01-22,9200.0,0.4,26.4,clear
+1140,Lentil(Masur),Balarampur,2017-01-23,9200.0,0.6,27.0,clear
+1141,Lentil(Masur),Kasipur,2017-01-23,9200.0,0.3,27.0,clear
+1142,Lentil(Masur),Balarampur,2017-01-24,9200.0,0.64,27.8,clear
+1143,Lentil(Masur),Kasipur,2017-01-24,9200.0,0.4,27.8,clear
+1144,Lentil(Masur),Balarampur,2017-01-25,9200.0,0.62,27.4,clear
+1145,Lentil(Masur),Kasipur,2017-01-25,9200.0,0.4,27.4,clear
+1146,Lentil(Masur),Balarampur,2017-01-26,9200.0,0.6,28.0,clear
+1147,Lentil(Masur),Kasipur,2017-01-26,9200.0,0.8,28.0,clear
+1148,Lentil(Masur),Balarampur,2017-01-27,9100.0,0.61,28.0,clear
+1149,Lentil(Masur),Kasipur,2017-01-27,9200.0,0.4,28.0,clear
+1150,Lentil(Masur),Balarampur,2017-01-28,9100.0,0.58,25.0,clear
+1151,Lentil(Masur),Balarampur,2017-01-29,9100.0,0.6,24.4,clear
+1152,Lentil(Masur),Balarampur,2017-01-30,9000.0,0.62,27.0,clear
+1153,Lentil(Masur),Kasipur,2017-01-30,9200.0,0.3,27.0,clear
+1154,Lentil(Masur),Balarampur,2017-01-31,9000.0,0.64,28.0,clear
+1155,Lentil(Masur),Kasipur,2017-01-31,9200.0,0.5,28.0,clear
+1156,Lentil(Masur),Balarampur,2017-01-02,9000.0,0.63,22.0,clear
+1157,Lentil(Masur),Kasipur,2017-01-02,9200.0,0.4,22.0,clear
+1158,Lentil(Masur),Balarampur,2017-02-02,9000.0,0.58,26.4,clear
+1159,Lentil(Masur),Kasipur,2017-02-02,9200.0,0.7,26.4,clear
+1160,Lentil(Masur),Balarampur,2017-03-02,9000.0,0.62,35.4,clear
+1161,Lentil(Masur),Kasipur,2017-03-02,9200.0,0.4,35.4,clear
+1162,Lentil(Masur),Balarampur,2017-04-02,9000.0,0.6,40.2,clear
+1163,Lentil(Masur),Balarampur,2017-05-02,9000.0,0.58,37.0,clear
+1164,Lentil(Masur),Kasipur,2017-05-02,9200.0,0.4,37.0,clear
+1165,Lentil(Masur),Balarampur,2017-06-02,9000.0,0.6,37.8,clear
+1166,Lentil(Masur),Kasipur,2017-06-02,9200.0,0.3,37.8,clear
+1167,Lentil(Masur),Balarampur,2017-07-02,8900.0,0.66,27.4,clear
+1168,Lentil(Masur),Kasipur,2017-07-02,9200.0,0.4,27.4,clear
+1169,Lentil(Masur),Balarampur,2017-08-02,8900.0,0.64,32.0,clear
+1170,Lentil(Masur),Kasipur,2017-08-02,9200.0,0.4,32.0,clear
+1171,Lentil(Masur),Balarampur,2017-09-02,8900.0,0.62,29.0,clear
+1172,Lentil(Masur),Kasipur,2017-09-02,9200.0,0.7,29.0,clear
+1173,Lentil(Masur),Balarampur,2017-10-02,8900.0,0.63,29.4,clear
+1174,Lentil(Masur),Kasipur,2017-10-02,9200.0,0.4,29.4,clear
+1175,Lentil(Masur),Balarampur,2017-11-02,8900.0,0.61,26.0,clear
+1176,Lentil(Masur),Kasipur,2017-11-02,9200.0,0.5,26.0,clear
+1177,Lentil(Masur),Balarampur,2017-12-02,8900.0,0.58,22.0,clear
+1178,Lentil(Masur),Kasipur,2017-12-02,9200.0,0.5,22.0,clear
+1179,Lentil(Masur),Balarampur,2017-02-13,8900.0,0.6,29.4,clear
+1180,Lentil(Masur),Kasipur,2017-02-13,9200.0,0.3,29.4,clear
+1181,Lentil(Masur),Balarampur,2017-02-14,8900.0,0.65,29.2,clear
+1182,Lentil(Masur),Kasipur,2017-02-14,9200.0,0.4,29.2,clear
+1183,Lentil(Masur),Balarampur,2017-02-15,8900.0,0.62,28.6,clear
+1184,Lentil(Masur),Kasipur,2017-02-15,9200.0,0.4,28.6,clear
+1185,Lentil(Masur),Balarampur,2017-02-16,8900.0,0.63,28.6,clear
+1186,Lentil(Masur),Balarampur,2017-02-17,8900.0,0.64,28.6,clear
+1187,Lentil(Masur),Balarampur,2017-02-18,8900.0,0.65,29.8,clear
+1188,Lentil(Masur),Balarampur,2017-02-19,8900.0,0.62,28.4,clear
+1189,Lentil(Masur),Kasipur,2017-02-19,8900.0,0.6,28.4,clear
+1190,Lentil(Masur),Balarampur,2017-02-20,8900.0,0.64,32.0,clear
+1191,Lentil(Masur),Kasipur,2017-02-20,8900.0,0.3,32.0,clear
+1192,Lentil(Masur),Balarampur,2017-02-21,8900.0,0.66,33.6,clear
+1193,Lentil(Masur),Kasipur,2017-02-21,8900.0,0.4,33.6,clear
+1194,Lentil(Masur),Balarampur,2017-02-22,8800.0,0.63,33.4,clear
+1195,Lentil(Masur),Balarampur,2017-02-23,8800.0,0.64,31.0,clear
+1196,Lentil(Masur),Kasipur,2017-02-23,8900.0,0.7,31.0,clear
+1197,Lentil(Masur),Balarampur,2017-02-24,8800.0,0.62,29.4,clear
+1198,Lentil(Masur),Kasipur,2017-02-24,8900.0,0.4,29.4,clear
+1199,Lentil(Masur),Balarampur,2017-02-25,8800.0,0.61,29.2,clear
+1200,Lentil(Masur),Kasipur,2017-02-25,8900.0,0.4,29.2,clear
+1201,Lentil(Masur),Balarampur,2017-02-26,8600.0,0.6,28.4,clear
+1202,Lentil(Masur),Kasipur,2017-02-26,8900.0,0.5,28.4,clear
+1203,Lentil(Masur),Balarampur,2017-02-27,8500.0,0.64,31.0,clear
+1204,Lentil(Masur),Kasipur,2017-02-27,8900.0,0.3,31.0,clear
+1205,Lentil(Masur),Balarampur,2017-02-28,8500.0,0.68,30.4,clear
+1206,Lentil(Masur),Kasipur,2017-02-28,8500.0,0.5,30.4,clear
+1207,Lentil(Masur),Balarampur,2017-01-03,8500.0,0.64,25.0,clear
+1208,Lentil(Masur),Kasipur,2017-01-03,8500.0,0.5,25.0,clear
+1209,Lentil(Masur),Balarampur,2017-02-03,8500.0,0.62,26.4,clear
+1210,Lentil(Masur),Kasipur,2017-02-03,8500.0,0.7,26.4,clear
+1211,Lentil(Masur),Balarampur,2017-03-03,8500.0,0.65,36.2,clear
+1212,Lentil(Masur),Kasipur,2017-03-03,8500.0,0.4,36.2,clear
+1213,Lentil(Masur),Balarampur,2017-04-03,8400.0,0.63,38.4,clear
+1214,Lentil(Masur),Kasipur,2017-04-03,8500.0,0.5,38.4,clear
+1215,Lentil(Masur),Balarampur,2017-05-03,8400.0,0.62,33.4,clear
+1216,Lentil(Masur),Kasipur,2017-05-03,8500.0,0.5,33.4,clear
+1217,Lentil(Masur),Balarampur,2017-06-03,8400.0,0.64,38.0,clear
+1218,Lentil(Masur),Kasipur,2017-06-03,8500.0,0.3,38.0,clear
+1219,Lentil(Masur),Balarampur,2017-07-03,8400.0,0.66,26.6,clear
+1220,Lentil(Masur),Kasipur,2017-07-03,8500.0,0.5,26.6,clear
+1221,Lentil(Masur),Balarampur,2017-08-03,8400.0,0.63,30.0,clear
+1222,Lentil(Masur),Kasipur,2017-08-03,8500.0,0.4,30.0,clear
+1223,Lentil(Masur),Balarampur,2017-09-03,8400.0,0.62,32.0,clear
+1224,Lentil(Masur),Kasipur,2017-09-03,8200.0,0.7,32.0,clear
+1225,Lentil(Masur),Balarampur,2017-10-03,8400.0,0.66,27.0,clear
+1226,Lentil(Masur),Kasipur,2017-10-03,8200.0,0.4,27.0,clear
+1227,Lentil(Masur),Balarampur,2017-11-03,8400.0,0.64,18.6,clear
+1228,Lentil(Masur),Kasipur,2017-11-03,8200.0,0.5,18.6,clear
+1229,Lentil(Masur),Balarampur,2017-12-03,8400.0,0.62,20.0,clear
+1230,Lentil(Masur),Kasipur,2017-12-03,8200.0,0.5,20.0,clear
+1231,Lentil(Masur),Balarampur,2017-03-13,8300.0,0.6,28.2,clear
+1232,Lentil(Masur),Kasipur,2017-03-13,8200.0,0.4,28.2,clear
+1233,Lentil(Masur),Balarampur,2017-03-14,8200.0,0.66,29.4,clear
+1234,Lentil(Masur),Kasipur,2017-03-14,8200.0,0.4,29.4,clear
+1235,Lentil(Masur),Balarampur,2017-03-15,8200.0,0.64,27.2,clear
+1236,Lentil(Masur),Kasipur,2017-03-15,8200.0,0.4,27.2,clear
+1237,Lentil(Masur),Balarampur,2017-03-16,8200.0,0.63,31.4,clear
+1238,Lentil(Masur),Kasipur,2017-03-16,8200.0,0.7,31.4,clear
+1239,Lentil(Masur),Balarampur,2017-03-17,8200.0,0.66,33.2,clear
+1240,Lentil(Masur),Kasipur,2017-03-17,8200.0,0.4,33.2,clear
+1241,Lentil(Masur),Balarampur,2017-03-18,8200.0,0.64,32.6,clear
+1242,Lentil(Masur),Kasipur,2017-03-18,8200.0,0.5,32.6,clear
+1243,Lentil(Masur),Balarampur,2017-03-19,8200.0,0.62,29.2,clear
+1244,Lentil(Masur),Kasipur,2017-03-19,8200.0,0.5,29.2,clear
+1245,Lentil(Masur),Balarampur,2017-03-20,8200.0,0.63,29.8,clear
+1246,Lentil(Masur),Kasipur,2017-03-20,8200.0,0.3,29.8,clear
+1247,Lentil(Masur),Balarampur,2017-03-21,8200.0,0.68,33.0,clear
+1248,Lentil(Masur),Kasipur,2017-03-21,8200.0,0.4,33.0,clear
+1249,Lentil(Masur),Balarampur,2017-03-22,8200.0,0.64,31.0,clear
+1250,Lentil(Masur),Balarampur,2017-03-23,8200.0,0.63,36.0,clear
+1251,Lentil(Masur),Kasipur,2017-03-23,8200.0,0.7,36.0,clear
+1252,Lentil(Masur),Balarampur,2017-03-24,8200.0,0.65,36.0,clear
+1253,Lentil(Masur),Kasipur,2017-03-24,8200.0,0.4,36.0,clear
+1254,Lentil(Masur),Balarampur,2017-03-25,8200.0,0.63,37.8,clear
+1255,Lentil(Masur),Balarampur,2017-03-26,8200.0,0.62,36.2,clear
+1256,Lentil(Masur),Kasipur,2017-03-26,8200.0,0.5,36.2,clear
+1257,Lentil(Masur),Balarampur,2017-03-27,8200.0,0.64,37.6,clear
+1258,Lentil(Masur),Kasipur,2017-03-27,8200.0,0.3,37.6,clear
+1259,Lentil(Masur),Balarampur,2017-03-28,8200.0,0.66,37.0,clear
+1260,Lentil(Masur),Kasipur,2017-03-28,8200.0,0.4,37.0,clear
+1261,Lentil(Masur),Balarampur,2017-03-29,8200.0,0.63,39.0,clear
+1262,Lentil(Masur),Kasipur,2017-03-29,8200.0,0.4,39.0,clear
+1263,Lentil(Masur),Balarampur,2017-03-30,8200.0,0.62,40.0,clear
+1264,Lentil(Masur),Kasipur,2017-03-30,8200.0,0.7,40.0,clear
+1265,Lentil(Masur),Balarampur,2017-03-31,8200.0,0.64,40.0,clear
+1266,Lentil(Masur),Kasipur,2017-03-31,8200.0,0.4,40.0,clear
+1267,Lentil(Masur),Balarampur,2017-01-04,8200.0,0.62,23.6,clear
+1268,Lentil(Masur),Balarampur,2017-02-04,8200.0,0.63,28.0,clear
+1269,Lentil(Masur),Kasipur,2017-02-04,8200.0,0.5,28.0,clear
+1270,Lentil(Masur),Balarampur,2017-03-04,8200.0,0.64,31.0,clear
+1271,Lentil(Masur),Kasipur,2017-03-04,8200.0,0.3,31.0,clear
+1272,Lentil(Masur),Balarampur,2017-04-04,8200.0,0.68,40.0,clear
+1273,Lentil(Masur),Kasipur,2017-04-04,8200.0,0.4,40.0,clear
+1274,Lentil(Masur),Balarampur,2017-05-04,8200.0,0.65,39.0,clear
+1275,Lentil(Masur),Kasipur,2017-05-04,8200.0,0.4,39.0,clear
+1276,Lentil(Masur),Balarampur,2017-06-04,8200.0,0.64,42.0,clear
+1277,Lentil(Masur),Kasipur,2017-06-04,8200.0,0.6,42.0,clear
+1278,Lentil(Masur),Balarampur,2017-07-04,8200.0,0.67,27.0,clear
+1279,Lentil(Masur),Kasipur,2017-07-04,8200.0,0.4,27.0,clear
+1280,Lentil(Masur),Balarampur,2017-08-04,8200.0,0.65,28.4,clear
+1281,Lentil(Masur),Kasipur,2017-08-04,8200.0,0.5,28.4,clear
+1282,Lentil(Masur),Balarampur,2017-09-04,8200.0,0.64,32.0,clear
+1283,Lentil(Masur),Kasipur,2017-09-04,8200.0,0.4,32.0,clear
+1284,Lentil(Masur),Balarampur,2017-10-04,8200.0,0.63,30.0,clear
+1285,Lentil(Masur),Kasipur,2017-10-04,8200.0,0.4,30.0,clear
+1286,Lentil(Masur),Balarampur,2017-11-04,8200.0,0.68,29.0,clear
+1287,Lentil(Masur),Kasipur,2017-11-04,8200.0,0.4,29.0,clear
+1288,Lentil(Masur),Balarampur,2017-12-04,8200.0,0.65,24.0,clear
+1289,Lentil(Masur),Kasipur,2017-12-04,8200.0,0.4,24.0,clear
+1290,Lentil(Masur),Balarampur,2017-04-13,8200.0,0.64,39.0,clear
+1291,Lentil(Masur),Kasipur,2017-04-13,8200.0,0.7,39.0,clear
+1292,Lentil(Masur),Balarampur,2017-04-14,8200.0,0.62,38.0,clear
+1293,Lentil(Masur),Balarampur,2017-04-15,8200.0,0.63,38.6,clear
+1294,Lentil(Masur),Kasipur,2017-04-15,8200.0,0.4,38.6,clear
+1295,Lentil(Masur),Balarampur,2017-04-16,8200.0,0.64,34.4,clear
+1296,Lentil(Masur),Kasipur,2017-04-16,8200.0,0.5,34.4,clear
+1297,Lentil(Masur),Balarampur,2017-04-17,8200.0,0.66,35.4,clear
+1298,Lentil(Masur),Kasipur,2017-04-17,8200.0,0.3,35.4,clear
+1299,Lentil(Masur),Balarampur,2017-04-18,8200.0,0.68,38.6,clear
+1300,Lentil(Masur),Kasipur,2017-04-18,8200.0,0.4,38.6,clear
+1301,Lentil(Masur),Balarampur,2017-04-20,8100.0,0.65,35.0,clear
+1302,Lentil(Masur),Kasipur,2017-04-20,8200.0,0.6,35.0,clear
+1303,Lentil(Masur),Balarampur,2017-04-21,8100.0,0.64,35.0,clear
+1304,Lentil(Masur),Kasipur,2017-04-21,8200.0,0.3,35.0,clear
+1305,Lentil(Masur),Balarampur,2017-04-22,8100.0,0.62,35.0,clear
+1306,Lentil(Masur),Kasipur,2017-04-22,8200.0,0.5,35.0,clear
+1307,Lentil(Masur),Balarampur,2017-04-23,8100.0,0.64,36.2,clear
+1308,Lentil(Masur),Kasipur,2017-04-23,8200.0,0.4,36.2,clear
+1309,Lentil(Masur),Balarampur,2017-04-24,8100.0,0.66,37.0,clear
+1310,Lentil(Masur),Kasipur,2017-04-24,8200.0,0.3,37.0,clear
+1311,Lentil(Masur),Balarampur,2017-04-25,8100.0,0.7,40.2,clear
+1312,Lentil(Masur),Kasipur,2017-04-25,8200.0,0.4,40.2,clear
+1313,Lentil(Masur),Balarampur,2017-04-26,8100.0,0.67,39.0,clear
+1314,Lentil(Masur),Kasipur,2017-04-26,8200.0,0.4,39.0,clear
+1315,Lentil(Masur),Balarampur,2017-04-28,8100.0,0.68,40.0,clear
+1316,Lentil(Masur),Balarampur,2017-07-06,7600.0,0.65,28.4,clear
+1317,Lentil(Masur),Kasipur,2017-07-06,7580.0,0.33,28.4,clear
+1318,Lentil(Masur),Balarampur,2017-08-06,7590.0,0.0,31.0,clear
+1319,Lentil(Masur),Kasipur,2017-08-06,7590.0,0.32,31.0,clear
+1320,Lentil(Masur),Balarampur,2017-12-06,7600.0,0.5,22.4,clear
+1321,Lentil(Masur),Kasipur,2017-12-06,7610.0,0.31,22.4,clear
+1322,Lentil(Masur),Balarampur,2017-06-13,7600.0,0.5,36.0,clear
+1323,Lentil(Masur),Kasipur,2017-06-13,7600.0,0.32,36.0,clear
+1324,Lentil(Masur),Balarampur,2017-06-14,7450.0,0.5,36.0,clear
+1325,Lentil(Masur),Kasipur,2017-06-14,7610.0,0.31,36.0,clear
+1326,Lentil(Masur),Balarampur,2017-06-20,7400.0,0.58,28.0,clear
+1327,Lentil(Masur),Kasipur,2017-06-20,7530.0,0.36,28.0,clear
+1328,Lentil(Masur),Balarampur,2017-06-21,7450.0,0.56,26.0,clear
+1329,Lentil(Masur),Kasipur,2017-06-21,7520.0,0.37,26.0,clear
+1330,Lentil(Masur),Balarampur,2017-06-22,7400.0,0.58,26.0,clear
+1331,Lentil(Masur),Kasipur,2017-06-22,7510.0,0.38,26.0,clear
+1332,Lentil(Masur),Balarampur,2017-06-23,7450.0,0.57,32.0,clear
+1333,Lentil(Masur),Kasipur,2017-06-23,7500.0,0.39,32.0,clear
+1334,Lentil(Masur),Balarampur,2017-06-28,7450.0,1.25,31.0,clear
+1335,Lentil(Masur),Balarampur,2017-06-29,7460.0,1.2,33.0,clear
+1336,Lentil(Masur),Balarampur,2017-04-07,7400.0,0.58,32.0,clear
+1337,Lentil(Masur),Kasipur,2017-04-07,7380.0,0.41,32.0,clear
+1338,Lentil(Masur),Balarampur,2017-05-07,7450.0,0.58,39.0,clear
+1339,Lentil(Masur),Kasipur,2017-05-07,7370.0,0.42,39.0,clear
+1340,Lentil(Masur),Balarampur,2017-06-07,7460.0,0.57,33.6,clear
+1341,Lentil(Masur),Kasipur,2017-06-07,7360.0,0.42,33.6,clear
+1342,Lentil(Masur),Balarampur,2017-07-07,7450.0,1.58,29.0,clear
+1343,Lentil(Masur),Kasipur,2017-07-07,7330.0,0.43,29.0,clear
+1344,Lentil(Masur),Balarampur,2017-08-07,7350.0,0.6,30.0,clear
+1345,Lentil(Masur),Kasipur,2017-08-07,7310.0,0.44,30.0,clear
+1346,Lentil(Masur),Balarampur,2017-09-07,7360.0,0.58,29.0,clear
+1347,Lentil(Masur),Kasipur,2017-09-07,7300.0,0.45,29.0,clear
+1348,Lentil(Masur),Balarampur,2017-10-07,7370.0,0.58,25.0,clear
+1349,Lentil(Masur),Kasipur,2017-10-07,7300.0,0.44,25.0,clear
+1350,Lentil(Masur),Balarampur,2017-11-07,7350.0,0.6,27.4,clear
+1351,Lentil(Masur),Kasipur,2017-11-07,7290.0,0.45,27.4,clear
+1352,Lentil(Masur),Balarampur,2017-12-07,7360.0,0.5,25.0,clear
+1353,Lentil(Masur),Kasipur,2017-12-07,7290.0,0.46,25.0,clear
+1354,Lentil(Masur),Balarampur,2017-07-13,7330.0,0.6,28.0,clear
+1355,Lentil(Masur),Kasipur,2017-07-13,7280.0,0.47,28.0,clear
+1356,Lentil(Masur),Balarampur,2017-07-14,7350.0,0.55,28.0,clear
+1357,Lentil(Masur),Balarampur,2017-07-15,7370.0,0.5,30.0,clear
+1358,Lentil(Masur),Balarampur,2017-07-16,7350.0,0.6,33.0,clear
+1359,Lentil(Masur),Balarampur,2017-07-17,7340.0,0.65,32.0,clear
+1360,Lentil(Masur),Kasipur,2017-07-17,7260.0,0.48,32.0,clear
+1361,Lentil(Masur),Balarampur,2017-07-18,7350.0,0.6,33.0,clear
+1362,Lentil(Masur),Kasipur,2017-07-18,7250.0,0.49,33.0,clear
+1363,Lentil(Masur),Balarampur,2017-07-19,7320.0,0.7,28.0,clear
+1364,Lentil(Masur),Kasipur,2017-07-19,7240.0,0.5,28.0,clear
+1365,Lentil(Masur),Balarampur,2017-07-20,7340.0,0.65,26.0,clear
+1366,Lentil(Masur),Kasipur,2017-07-20,7230.0,0.49,26.0,clear
+1367,Lentil(Masur),Balarampur,2017-07-21,7360.0,0.6,28.4,clear
+1368,Lentil(Masur),Balarampur,2017-07-24,7320.0,0.58,25.0,clear
+1369,Lentil(Masur),Kasipur,2017-07-24,7220.0,0.49,25.0,clear
+1370,Lentil(Masur),Balarampur,2017-07-25,7300.0,0.6,24.4,clear
+1371,Lentil(Masur),Kasipur,2017-07-25,7210.0,0.51,24.4,clear
+1372,Lentil(Masur),Balarampur,2017-07-26,7300.0,0.5,25.0,clear
+1373,Lentil(Masur),Kasipur,2017-07-26,7230.0,0.49,25.0,clear
+1374,Lentil(Masur),Balarampur,2017-07-27,7250.0,0.6,28.4,clear
+1375,Lentil(Masur),Kasipur,2017-07-27,7220.0,0.5,28.4,clear
+1376,Lentil(Masur),Balarampur,2017-07-31,7240.0,0.65,28.4,clear
+1377,Lentil(Masur),Balarampur,2017-01-08,7230.0,0.7,27.0,clear
+1378,Lentil(Masur),Kasipur,2017-01-08,7250.0,0.45,27.0,clear
+1379,Lentil(Masur),Balarampur,2017-02-08,7200.0,0.65,29.4,clear
+1380,Lentil(Masur),Kasipur,2017-02-08,7280.0,0.42,29.4,clear
+1381,Lentil(Masur),Balarampur,2017-03-08,7000.0,0.7,26.0,clear
+1382,Lentil(Masur),Kasipur,2017-03-08,7280.0,0.41,26.0,clear
+1383,Lentil(Masur),Balarampur,2017-04-08,7050.0,0.68,35.0,clear
+1384,Lentil(Masur),Kasipur,2017-04-08,7300.0,0.4,35.0,clear
+1385,Lentil(Masur),Balarampur,2017-05-08,7020.0,0.69,35.0,clear
+1386,Lentil(Masur),Balarampur,2017-06-08,7000.0,0.7,36.0,clear
+1387,Lentil(Masur),Kasipur,2017-06-08,7280.0,0.42,36.0,clear
+1388,Lentil(Masur),Balarampur,2017-07-08,6950.0,0.75,32.0,clear
+1389,Lentil(Masur),Kasipur,2017-07-08,7280.0,0.41,32.0,clear
+1390,Lentil(Masur),Balarampur,2017-08-08,6950.0,0.76,32.0,clear
+1391,Lentil(Masur),Kasipur,2017-08-08,7280.0,0.4,32.0,clear
+1392,Lentil(Masur),Balarampur,2017-09-08,6940.0,0.78,31.0,clear
+1393,Lentil(Masur),Kasipur,2017-09-08,7260.0,0.58,31.0,clear
+1394,Lentil(Masur),Balarampur,2017-11-08,6900.0,0.78,29.0,clear
+1395,Lentil(Masur),Kasipur,2017-11-08,7210.0,0.61,29.0,clear
+1396,Lentil(Masur),Balarampur,2017-08-13,6900.0,0.78,31.0,clear
+1397,Lentil(Masur),Kasipur,2017-08-13,7170.0,0.64,31.0,clear
+1398,Lentil(Masur),Balarampur,2017-08-14,6850.0,0.8,26.6,clear
+1399,Lentil(Masur),Kasipur,2017-08-14,7150.0,0.65,26.6,clear
+1400,Lentil(Masur),Balarampur,2017-08-15,6800.0,0.82,25.0,clear
+1401,Lentil(Masur),Kasipur,2017-08-15,7130.0,0.66,25.0,clear
+1402,Lentil(Masur),Balarampur,2017-08-16,6820.0,0.8,27.4,clear
+1403,Lentil(Masur),Balarampur,2017-08-17,6850.0,0.78,28.0,clear
+1404,Lentil(Masur),Kasipur,2017-08-17,7110.0,0.67,28.0,clear
+1405,Lentil(Masur),Balarampur,2017-08-18,6870.0,0.78,31.0,clear
+1406,Lentil(Masur),Kasipur,2017-08-18,7100.0,0.68,31.0,clear
+1407,Lentil(Masur),Balarampur,2017-08-19,6900.0,0.75,28.0,clear
+1408,Lentil(Masur),Balarampur,2017-08-20,6750.0,0.8,28.0,clear
+1409,Lentil(Masur),Balarampur,2017-08-21,6800.0,0.78,32.0,clear
+1410,Lentil(Masur),Kasipur,2017-08-21,7050.0,0.69,32.0,clear
+1411,Lentil(Masur),Balarampur,2017-08-22,6650.0,0.82,31.0,clear
+1412,Lentil(Masur),Kasipur,2017-08-22,7000.0,0.7,31.0,clear
+1413,Lentil(Masur),Balarampur,2017-08-23,6550.0,0.84,32.0,clear
+1414,Lentil(Masur),Kasipur,2017-08-23,6870.0,0.71,32.0,clear
+1415,Lentil(Masur),Balarampur,2017-08-24,6450.0,0.85,31.0,clear
+1416,Lentil(Masur),Kasipur,2017-08-24,6850.0,0.72,31.0,clear
+1417,Lentil(Masur),Balarampur,2017-08-25,6500.0,0.8,26.0,clear
+1418,Lentil(Masur),Kasipur,2017-08-25,6840.0,0.71,26.0,clear
+1419,Lentil(Masur),Balarampur,2017-08-28,6450.0,0.82,27.0,clear
+1420,Lentil(Masur),Balarampur,2017-08-29,6400.0,0.85,29.0,clear
+1421,Lentil(Masur),Balarampur,2017-08-30,6350.0,0.86,32.0,clear
+1422,Lentil(Masur),Balarampur,2017-08-31,6400.0,0.82,27.6,clear
+1423,Lentil(Masur),Balarampur,2017-05-09,6400.0,0.82,28.6,clear
+1424,Lentil(Masur),Kasipur,2017-05-09,6750.0,0.71,28.6,clear
+1425,Lentil(Masur),Balarampur,2017-06-09,6350.0,0.85,35.6,clear
+1426,Lentil(Masur),Kasipur,2017-06-09,6770.0,0.69,35.6,clear
+1427,Lentil(Masur),Balarampur,2017-07-09,6250.0,0.9,31.0,clear
+1428,Lentil(Masur),Kasipur,2017-07-09,6750.0,0.7,31.0,clear
+1429,Lentil(Masur),Balarampur,2017-08-09,6300.0,0.86,33.4,clear
+1430,Lentil(Masur),Kasipur,2017-08-09,6760.0,0.71,33.4,clear
+1431,Lentil(Masur),Balarampur,2017-10-09,6500.0,0.8,28.0,clear
+1432,Lentil(Masur),Kasipur,2017-10-09,6800.0,0.69,28.0,clear
+1433,Lentil(Masur),Balarampur,2017-12-09,6500.0,0.8,22.4,clear
+1434,Lentil(Masur),Kasipur,2017-12-09,6800.0,0.69,22.4,clear
+1435,Lentil(Masur),Balarampur,2017-09-13,6450.0,0.82,32.0,clear
+1436,Lentil(Masur),Kasipur,2017-09-13,6820.0,0.65,32.0,clear
+1437,Lentil(Masur),Balarampur,2017-09-14,6500.0,0.8,28.0,clear
+1438,Lentil(Masur),Kasipur,2017-09-14,6800.0,0.07,28.0,clear
+1439,Lentil(Masur),Balarampur,2017-09-15,6550.0,0.75,26.0,clear
+1440,Lentil(Masur),Kasipur,2017-09-15,6810.0,0.66,26.0,clear
+1441,Lentil(Masur),Balarampur,2017-09-16,6500.0,0.8,26.4,clear
+1442,Lentil(Masur),Kasipur,2017-09-16,6800.0,0.67,26.4,clear
+1443,Lentil(Masur),Balarampur,2017-09-18,6550.0,0.75,29.0,clear
+1444,Lentil(Masur),Kasipur,2017-09-18,6830.0,0.6,29.0,clear
+1445,Lentil(Masur),Balarampur,2017-09-19,6600.0,0.7,28.0,clear
+1446,Lentil(Masur),Kasipur,2017-09-19,6850.0,0.58,28.0,clear
+1447,Lentil(Masur),Balarampur,2017-09-20,6550.0,0.72,28.0,clear
+1448,Lentil(Masur),Kasipur,2017-09-20,6860.0,0.55,28.0,clear
+1449,Lentil(Masur),Balarampur,2017-09-21,6580.0,0.7,27.0,clear
+1450,Lentil(Masur),Kasipur,2017-09-21,6850.0,0.54,27.0,clear
+1451,Lentil(Masur),Balarampur,2017-09-22,6560.0,0.72,26.0,clear
+1452,Lentil(Masur),Kasipur,2017-09-22,6850.0,0.55,26.0,clear
+1453,Lentil(Masur),Balarampur,2017-09-23,6600.0,0.68,33.4,clear
+1454,Lentil(Masur),Kasipur,2017-09-23,6850.0,0.57,33.4,clear
+1455,Lentil(Masur),Balarampur,2017-09-24,6600.0,0.68,31.0,clear
+1456,Lentil(Masur),Balarampur,2017-09-25,6560.0,0.72,33.0,clear
+1457,Lentil(Masur),Kasipur,2017-09-25,6850.0,0.55,33.0,clear
+1458,Lentil(Masur),Balarampur,2017-03-10,6550.0,0.7,29.0,clear
+1459,Lentil(Masur),Balarampur,2017-04-10,6600.0,0.68,38.4,clear
+1460,Lentil(Masur),Balarampur,2017-05-10,6550.0,0.7,33.8,clear
+1461,Lentil(Masur),Balarampur,2017-06-10,6580.0,0.6,30.0,clear
+1462,Lentil(Masur),Kasipur,2017-06-10,6650.0,0.6,30.0,clear
+1463,Lentil(Masur),Balarampur,2017-07-10,6550.0,0.7,30.4,clear
+1464,Lentil(Masur),Kasipur,2017-07-10,6630.0,0.62,30.4,clear
+1465,Lentil(Masur),Balarampur,2017-08-10,6580.0,0.7,31.4,clear
+1466,Lentil(Masur),Kasipur,2017-08-10,6620.0,0.63,31.4,clear
+1467,Lentil(Masur),Balarampur,2017-09-10,6600.0,0.6,32.6,clear
+1468,Lentil(Masur),Kasipur,2017-09-10,6600.0,0.64,32.6,clear
+1469,Lentil(Masur),Balarampur,2017-10-10,6650.0,0.58,25.4,clear
+1470,Lentil(Masur),Kasipur,2017-10-10,6650.0,0.6,25.4,clear
+1471,Lentil(Masur),Balarampur,2017-11-10,6600.0,0.6,26.4,clear
+1472,Lentil(Masur),Kasipur,2017-11-10,6650.0,0.61,26.4,clear
+1473,Lentil(Masur),Balarampur,2017-12-10,6550.0,0.65,21.0,clear
+1474,Lentil(Masur),Kasipur,2017-12-10,6650.0,0.62,21.0,clear
+1475,Lentil(Masur),Balarampur,2017-10-13,6600.0,0.62,30.0,clear
+1476,Lentil(Masur),Kasipur,2017-10-13,6640.0,0.63,30.0,clear
+1477,Lentil(Masur),Balarampur,2017-10-14,6550.0,0.65,31.4,clear
+1478,Lentil(Masur),Kasipur,2017-10-14,6650.0,0.65,31.4,clear
+1479,Lentil(Masur),Balarampur,2017-10-15,6600.0,0.62,29.0,clear
+1480,Lentil(Masur),Balarampur,2017-10-16,6650.0,0.6,28.0,clear
+1481,Lentil(Masur),Kasipur,2017-10-16,6640.0,0.66,28.0,clear
+1482,Lentil(Masur),Balarampur,2017-10-17,6620.0,0.6,28.0,clear
+1483,Lentil(Masur),Kasipur,2017-10-17,6670.0,0.65,28.0,clear
+1484,Lentil(Masur),Balarampur,2017-10-18,6650.0,0.6,29.0,clear
+1485,Lentil(Masur),Kasipur,2017-10-18,6670.0,0.66,29.0,clear
+1486,Lentil(Masur),Balarampur,2017-10-19,6580.0,0.62,29.6,clear
+1487,Lentil(Masur),Kasipur,2017-10-19,6670.0,0.65,29.6,clear
+1488,Lentil(Masur),Balarampur,2017-10-20,6550.0,0.65,25.0,clear
+1489,Lentil(Masur),Kasipur,2017-10-20,6680.0,0.64,25.0,clear
+1490,Lentil(Masur),Balarampur,2017-10-21,6600.0,0.62,24.0,clear
+1491,Lentil(Masur),Kasipur,2017-10-21,6700.0,0.63,24.0,clear
+1492,Lentil(Masur),Balarampur,2017-10-22,6550.0,0.64,30.0,clear
+1493,Lentil(Masur),Kasipur,2017-10-22,6700.0,0.64,30.0,clear
+1494,Lentil(Masur),Balarampur,2017-10-23,6600.0,0.62,31.6,clear
+1495,Lentil(Masur),Kasipur,2017-10-23,6700.0,0.63,31.6,clear
+1496,Lentil(Masur),Balarampur,2017-10-24,6550.0,0.65,26.0,clear
+1497,Lentil(Masur),Kasipur,2017-10-24,6700.0,0.65,26.0,clear
+1498,Lentil(Masur),Balarampur,2017-10-26,6600.0,0.62,21.4,clear
+1499,Lentil(Masur),Kasipur,2017-10-26,6700.0,0.58,21.4,clear
+1500,Lentil(Masur),Balarampur,2017-10-28,6580.0,0.64,27.6,clear
+1501,Lentil(Masur),Kasipur,2017-10-28,6700.0,0.58,27.6,clear
+1502,Lentil(Masur),Balarampur,2017-01-11,6600.0,0.62,21.0,clear
+1503,Lentil(Masur),Kasipur,2017-01-11,6650.0,0.6,21.0,clear
+1504,Lentil(Masur),Balarampur,2017-02-11,6580.0,0.65,27.6,clear
+1505,Lentil(Masur),Kasipur,2017-02-11,6650.0,0.59,27.6,clear
+1506,Lentil(Masur),Balarampur,2017-03-11,6600.0,0.62,20.4,clear
+1507,Lentil(Masur),Kasipur,2017-03-11,6660.0,0.58,20.4,clear
+1508,Lentil(Masur),Balarampur,2017-04-11,6610.0,0.65,36.4,clear
+1509,Lentil(Masur),Kasipur,2017-04-11,6670.0,0.57,36.4,clear
+1510,Lentil(Masur),Kasipur,2017-01-15,9200.0,0.4,22.0,clear
+1511,Lentil(Masur),Kasipur,2017-04-19,8200.0,0.3,40.2,clear
+1512,Lentil(Masur),Kasipur,2017-01-05,8200.0,0.4,25.0,clear
+1513,Lentil(Masur),Kasipur,2017-02-05,8200.0,0.4,28.0,clear
+1514,Lentil(Masur),Kasipur,2017-03-05,8200.0,0.4,21.4,clear
+1515,Lentil(Masur),Kasipur,2017-04-05,8200.0,0.6,25.0,clear
+1516,Lentil(Masur),Kasipur,2017-05-05,8200.0,0.4,40.4,clear
+1517,Lentil(Masur),Kasipur,2017-06-05,8200.0,0.5,41.4,clear
+1518,Lentil(Masur),Kasipur,2017-07-05,8200.0,0.5,28.0,clear
+1519,Lentil(Masur),Kasipur,2017-08-05,8200.0,0.3,28.4,clear
+1520,Lentil(Masur),Kasipur,2017-09-05,8200.0,0.4,32.6,clear
+1521,Lentil(Masur),Kasipur,2017-10-05,8200.0,0.3,26.6,clear
+1522,Lentil(Masur),Kasipur,2017-11-05,8200.0,0.7,30.0,clear
+1523,Lentil(Masur),Kasipur,2017-12-05,8200.0,0.4,22.0,clear
+1524,Lentil(Masur),Kasipur,2017-05-13,8200.0,0.4,31.0,clear
+1525,Lentil(Masur),Kasipur,2017-05-14,8200.0,0.5,38.4,clear
+1526,Lentil(Masur),Kasipur,2017-05-15,8200.0,0.3,33.4,clear
+1527,Lentil(Masur),Kasipur,2017-05-16,8200.0,0.4,33.0,clear
+1528,Lentil(Masur),Kasipur,2017-05-18,8200.0,0.7,30.0,clear
+1529,Lentil(Masur),Kasipur,2017-05-19,8200.0,0.4,38.0,clear
+1530,Lentil(Masur),Kasipur,2017-05-20,8200.0,0.4,27.6,clear
+1531,Lentil(Masur),Kasipur,2017-05-22,8200.0,0.3,35.0,clear
+1532,Lentil(Masur),Kasipur,2017-05-23,7700.0,0.4,32.4,clear
+1533,Lentil(Masur),Kasipur,2017-05-24,7600.0,0.4,38.0,clear
+1534,Lentil(Masur),Kasipur,2017-05-25,7550.0,0.7,38.0,clear
+1535,Lentil(Masur),Kasipur,2017-05-26,7600.0,0.4,31.2,clear
+1536,Lentil(Masur),Kasipur,2017-05-29,7500.0,0.3,33.2,clear
+1537,Lentil(Masur),Kasipur,2017-05-30,7500.0,0.4,35.0,clear
+1538,Lentil(Masur),Kasipur,2017-06-06,7570.0,0.34,34.6,clear
+1539,Lentil(Masur),Kasipur,2017-09-06,7600.0,0.31,32.0,clear
+1540,Lentil(Masur),Kasipur,2017-10-06,7610.0,0.3,25.0,clear
+1541,Lentil(Masur),Kasipur,2017-11-06,7600.0,0.32,20.0,clear
+1542,Lentil(Masur),Kasipur,2017-06-15,7620.0,0.3,29.0,clear
+1543,Lentil(Masur),Kasipur,2017-06-16,7600.0,0.32,33.6,clear
+1544,Lentil(Masur),Kasipur,2017-06-17,7580.0,0.33,30.0,clear
+1545,Lentil(Masur),Kasipur,2017-06-18,7570.0,0.34,38.0,clear
+1546,Lentil(Masur),Kasipur,2017-06-24,7500.0,0.4,33.2,clear
+1547,Lentil(Masur),Kasipur,2017-06-25,7490.0,0.41,32.0,clear
+1548,Lentil(Masur),Kasipur,2017-06-26,7500.0,0.4,31.0,clear
+1549,Lentil(Masur),Kasipur,2017-03-07,7400.0,0.42,32.2,clear
+1550,Lentil(Masur),Kasipur,2017-07-22,7210.0,0.51,27.0,clear
+1551,Lentil(Masur),Kasipur,2017-07-23,7220.0,0.5,26.0,clear
+1552,Lentil(Masur),Kasipur,2017-07-29,7230.0,0.49,31.8,clear
+1553,Lentil(Masur),Kasipur,2017-10-08,7240.0,0.59,30.4,clear
+1554,Lentil(Masur),Kasipur,2017-12-08,7190.0,0.63,24.0,clear
+1555,Lentil(Masur),Kasipur,2017-08-26,6850.0,0.72,30.0,clear
+1556,Lentil(Masur),Kasipur,2017-01-09,6750.0,0.75,28.4,clear
+1557,Lentil(Masur),Kasipur,2017-03-09,6720.0,0.76,28.0,clear
+1558,Lentil(Masur),Kasipur,2017-04-09,6750.0,0.7,35.0,clear
+1559,Lentil(Masur),Kasipur,2017-11-09,6800.0,0.68,27.4,clear
+1560,Lentil(Masur),Kasipur,2017-09-17,6820.0,0.62,31.0,clear
+1561,Lentil(Masur),Kasipur,2017-10-25,6700.0,0.59,23.0,clear
+1562,Lentil(Masur),Kasipur,2017-10-27,6700.0,0.57,29.4,clear

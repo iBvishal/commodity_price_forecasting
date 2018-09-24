@@ -1,0 +1,2108 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Bengal Gram(Gram),Naugarh,2014-02-07,3415.0,3.0,24.0,clear
+1,Bengal Gram(Gram),Naugarh,2014-04-07,3410.0,4.5,36.4,clear
+2,Bengal Gram(Gram),Naugarh,2014-05-07,3415.0,3.5,37.0,clear
+3,Bengal Gram(Gram),Naugarh,2014-07-07,3415.0,3.0,30.6,clear
+4,Bengal Gram(Gram),Naugarh,2014-08-07,3410.0,3.5,31.8,clear
+5,Bengal Gram(Gram),Naugarh,2014-09-07,3415.0,2.5,32.8,clear
+6,Bengal Gram(Gram),Naugarh,2014-10-07,3410.0,3.0,32.6,clear
+7,Bengal Gram(Gram),Naugarh,2014-11-07,3415.0,4.0,30.6,clear
+8,Bengal Gram(Gram),Naugarh,2014-07-14,3400.0,4.5,33.4,clear
+9,Bengal Gram(Gram),Naugarh,2014-07-15,3415.0,2.0,34.0,clear
+10,Bengal Gram(Gram),Wansi,2014-07-15,3416.0,3.0,34.0,clear
+11,Bengal Gram(Gram),Naugarh,2014-07-16,3390.0,3.5,31.8,clear
+12,Bengal Gram(Gram),Soharatgarh,2014-07-16,3390.0,4.0,31.8,clear
+13,Bengal Gram(Gram),Naugarh,2014-07-17,3375.0,3.0,32.6,clear
+14,Bengal Gram(Gram),Naugarh,2014-07-18,3360.0,4.0,30.8,clear
+15,Bengal Gram(Gram),Naugarh,2014-07-19,3350.0,2.5,31.6,clear
+16,Bengal Gram(Gram),Naugarh,2014-07-21,3360.0,3.0,34.0,clear
+17,Bengal Gram(Gram),Naugarh,2014-07-22,3365.0,3.5,31.8,clear
+18,Bengal Gram(Gram),Naugarh,2014-07-23,3370.0,4.5,30.8,clear
+19,Bengal Gram(Gram),Naugarh,2014-07-24,3350.0,4.0,32.0,clear
+20,Bengal Gram(Gram),Naugarh,2014-07-26,3340.0,3.5,33.6,clear
+21,Bengal Gram(Gram),Naugarh,2014-07-28,3345.0,6.0,34.2,clear
+22,Bengal Gram(Gram),Naugarh,2014-07-29,3355.0,4.0,34.2,clear
+23,Bengal Gram(Gram),Naugarh,2014-07-30,3360.0,4.5,34.2,clear
+24,Bengal Gram(Gram),Wansi,2014-07-30,3340.0,5.5,34.2,clear
+25,Bengal Gram(Gram),Naugarh,2014-07-31,3380.0,3.0,33.2,clear
+26,Bengal Gram(Gram),Soharatgarh,2014-07-31,3375.0,2.5,33.2,clear
+27,Bengal Gram(Gram),Naugarh,2014-01-08,3430.0,3.5,13.2,clear
+28,Bengal Gram(Gram),Naugarh,2014-02-08,3435.0,3.0,26.4,clear
+29,Bengal Gram(Gram),Naugarh,2014-04-08,3390.0,4.5,37.6,clear
+30,Lentil(Masur),Naugarh,2014-04-08,4395.0,0.6,37.6,clear
+31,Bengal Gram(Gram),Naugarh,2014-05-08,3380.0,2.5,38.8,clear
+32,Bengal Gram(Gram),Naugarh,2014-07-08,3370.0,2.5,31.6,clear
+33,Bengal Gram(Gram),Naugarh,2014-08-08,3375.0,3.0,32.4,clear
+34,Bengal Gram(Gram),Naugarh,2014-09-08,3380.0,1.5,32.4,clear
+35,Bengal Gram(Gram),Naugarh,2014-11-08,3370.0,3.0,30.6,clear
+36,Bengal Gram(Gram),Naugarh,2014-12-08,3380.0,3.5,31.4,clear
+37,Bengal Gram(Gram),Naugarh,2014-08-13,3375.0,2.5,30.2,rain
+38,Bengal Gram(Gram),Naugarh,2014-08-14,3380.0,2.0,30.0,clear
+39,Bengal Gram(Gram),Naugarh,2014-08-16,3385.0,3.5,31.6,clear
+40,Bengal Gram(Gram),Soharatgarh,2014-08-16,3395.0,4.0,31.6,clear
+41,Bengal Gram(Gram),Naugarh,2014-08-18,3390.0,2.5,31.8,clear
+42,Bengal Gram(Gram),Wansi,2014-08-18,3400.0,3.0,31.8,clear
+43,Bengal Gram(Gram),Naugarh,2014-08-19,3380.0,3.5,34.6,clear
+44,Bengal Gram(Gram),Naugarh,2014-08-20,3385.0,4.0,33.4,rain
+45,Bengal Gram(Gram),Naugarh,2014-08-21,3400.0,2.5,29.4,clear
+46,Bengal Gram(Gram),Naugarh,2014-08-22,3410.0,2.0,33.4,clear
+47,Bengal Gram(Gram),Naugarh,2014-08-23,3415.0,3.5,34.2,rain
+48,Bengal Gram(Gram),Naugarh,2014-08-25,3410.0,4.5,34.8,clear
+49,Bengal Gram(Gram),Naugarh,2014-08-26,3400.0,4.0,33.2,rain
+50,Bengal Gram(Gram),Naugarh,2014-08-27,3410.0,3.0,30.4,clear
+51,Bengal Gram(Gram),Naugarh,2014-08-28,3440.0,3.0,31.6,clear
+52,Bengal Gram(Gram),Wansi,2014-08-28,3440.0,3.6,31.6,clear
+53,Bengal Gram(Gram),Naugarh,2014-08-29,3450.0,3.0,33.8,clear
+54,Bengal Gram(Gram),Naugarh,2014-08-30,3460.0,4.0,33.2,clear
+55,Bengal Gram(Gram),Soharatgarh,2014-08-30,3460.0,3.5,33.2,clear
+56,Lentil(Masur),Sahiyapur,2014-08-30,4350.0,0.4,33.2,clear
+57,Bengal Gram(Gram),Naugarh,2014-01-09,3460.0,3.0,11.8,clear
+58,Bengal Gram(Gram),Naugarh,2014-02-09,3470.0,4.5,23.8,clear
+59,Bengal Gram(Gram),Naugarh,2014-03-09,3475.0,3.5,28.0,clear
+60,Bengal Gram(Gram),Naugarh,2014-04-09,3470.0,3.0,35.0,clear
+61,Bengal Gram(Gram),Naugarh,2014-05-09,3475.0,2.5,40.6,clear
+62,Bengal Gram(Gram),Naugarh,2014-06-09,3475.0,3.5,38.4,clear
+63,Lentil(Masur),Naugarh,2014-06-09,4365.0,0.5,38.4,clear
+64,Bengal Gram(Gram),Naugarh,2014-08-09,3470.0,3.0,33.2,clear
+65,Lentil(Masur),Naugarh,2014-08-09,4370.0,0.0,33.2,clear
+66,Bengal Gram(Gram),Naugarh,2014-10-09,3470.0,2.0,33.6,clear
+67,Lentil(Masur),Naugarh,2014-10-09,4410.0,0.0,33.6,clear
+68,Bengal Gram(Gram),Naugarh,2014-11-09,3465.0,3.0,30.2,clear
+69,Lentil(Masur),Naugarh,2014-11-09,4420.0,0.0,30.2,clear
+70,Bengal Gram(Gram),Naugarh,2014-12-09,3460.0,2.0,31.2,clear
+71,Lentil(Masur),Naugarh,2014-12-09,4425.0,0.0,31.2,clear
+72,Bengal Gram(Gram),Naugarh,2014-09-13,3465.0,2.5,27.6,clear
+73,Lentil(Masur),Naugarh,2014-09-13,4425.0,0.0,27.6,clear
+74,Bengal Gram(Gram),Naugarh,2014-09-15,3465.0,2.5,29.4,clear
+75,Bengal Gram(Gram),Wansi,2014-09-15,3470.0,3.0,29.4,clear
+76,Lentil(Masur),Naugarh,2014-09-15,4420.0,0.0,29.4,clear
+77,Lentil(Masur),Wansi,2014-09-15,4425.0,0.0,29.4,clear
+78,Bengal Gram(Gram),Naugarh,2014-09-16,3475.0,2.0,31.4,clear
+79,Lentil(Masur),Naugarh,2014-09-16,4425.0,0.0,31.4,clear
+80,Bengal Gram(Gram),Naugarh,2014-09-17,3480.0,1.5,33.0,clear
+81,Lentil(Masur),Naugarh,2014-09-17,4420.0,0.0,33.0,clear
+82,Bengal Gram(Gram),Naugarh,2014-09-18,3495.0,2.0,34.6,clear
+83,Lentil(Masur),Naugarh,2014-09-18,4425.0,0.0,34.6,clear
+84,Bengal Gram(Gram),Naugarh,2014-09-19,3500.0,2.5,33.2,rain
+85,Lentil(Masur),Naugarh,2014-09-19,4440.0,0.0,33.2,rain
+86,Lentil(Masur),Soharatgarh,2014-09-19,4440.0,1.0,33.2,rain
+87,Bengal Gram(Gram),Naugarh,2014-09-20,3490.0,3.0,30.4,clear
+88,Lentil(Masur),Naugarh,2014-09-20,4450.0,0.0,30.4,clear
+89,Bengal Gram(Gram),Naugarh,2014-09-22,3485.0,0.2,31.2,clear
+90,Bengal Gram(Gram),Soharatgarh,2014-09-22,3500.0,2.5,31.2,clear
+91,Lentil(Masur),Soharatgarh,2014-09-22,4440.0,1.0,31.2,clear
+92,Bengal Gram(Gram),Naugarh,2014-09-23,3495.0,2.5,31.4,clear
+93,Bengal Gram(Gram),Naugarh,2014-09-24,3490.0,3.0,34.0,rain
+94,Bengal Gram(Gram),Naugarh,2014-09-25,3500.0,2.5,30.0,clear
+95,Bengal Gram(Gram),Naugarh,2014-09-26,3500.0,3.5,33.2,clear
+96,Bengal Gram(Gram),Naugarh,2014-01-10,3485.0,4.0,18.2,clear
+97,Lentil(Masur),Naugarh,2014-01-10,4470.0,0.0,18.2,clear
+98,Bengal Gram(Gram),Naugarh,2014-02-10,3490.0,3.0,21.8,clear
+99,Lentil(Masur),Naugarh,2014-02-10,4475.0,0.0,21.8,clear
+100,Bengal Gram(Gram),Naugarh,2014-03-10,3485.0,2.5,28.8,clear
+101,Lentil(Masur),Naugarh,2014-03-10,4480.0,0.0,28.8,clear
+102,Bengal Gram(Gram),Naugarh,2014-04-10,3500.0,3.5,34.8,clear
+103,Lentil(Masur),Naugarh,2014-04-10,4485.0,0.0,34.8,clear
+104,Bengal Gram(Gram),Naugarh,2014-06-10,3500.0,3.0,37.0,clear
+105,Lentil(Masur),Naugarh,2014-06-10,4480.0,0.0,37.0,clear
+106,Bengal Gram(Gram),Naugarh,2014-07-10,3505.0,2.5,32.4,clear
+107,Lentil(Masur),Naugarh,2014-07-10,4490.0,0.0,32.4,clear
+108,Bengal Gram(Gram),Naugarh,2014-08-10,3500.0,2.0,33.8,clear
+109,Lentil(Masur),Naugarh,2014-08-10,4495.0,0.0,33.8,clear
+110,Bengal Gram(Gram),Naugarh,2014-09-10,3510.0,4.0,31.4,clear
+111,Lentil(Masur),Naugarh,2014-09-10,4500.0,0.0,31.4,clear
+112,Bengal Gram(Gram),Naugarh,2014-10-10,3510.0,4.0,33.8,clear
+113,Lentil(Masur),Naugarh,2014-10-10,4600.0,0.0,33.8,clear
+114,Bengal Gram(Gram),Naugarh,2014-11-10,3525.0,3.5,29.4,clear
+115,Lentil(Masur),Naugarh,2014-11-10,4650.0,0.0,29.4,clear
+116,Bengal Gram(Gram),Naugarh,2014-10-13,3535.0,3.0,25.6,clear
+117,Lentil(Masur),Naugarh,2014-10-13,4675.0,0.0,25.6,clear
+118,Bengal Gram(Gram),Naugarh,2014-10-14,3540.0,2.5,24.0,clear
+119,Lentil(Masur),Naugarh,2014-10-14,4675.0,0.0,24.0,clear
+120,Bengal Gram(Gram),Naugarh,2014-10-15,3545.0,2.5,29.0,clear
+121,Bengal Gram(Gram),Wansi,2014-10-15,3545.0,2.0,29.0,clear
+122,Lentil(Masur),Naugarh,2014-10-15,4685.0,0.0,29.0,clear
+123,Bengal Gram(Gram),Naugarh,2014-10-16,3545.0,3.0,28.4,clear
+124,Bengal Gram(Gram),Soharatgarh,2014-10-16,3545.0,4.0,28.4,clear
+125,Lentil(Masur),Naugarh,2014-10-16,4690.0,0.0,28.4,clear
+126,Bengal Gram(Gram),Naugarh,2014-10-17,3550.0,4.5,30.0,clear
+127,Lentil(Masur),Naugarh,2014-10-17,4700.0,0.0,30.0,clear
+128,Bengal Gram(Gram),Naugarh,2014-10-18,3560.0,4.0,30.8,clear
+129,Lentil(Masur),Naugarh,2014-10-18,4700.0,0.0,30.8,clear
+130,Bengal Gram(Gram),Naugarh,2014-10-20,3560.0,3.0,29.4,clear
+131,Lentil(Masur),Naugarh,2014-10-20,4700.0,0.0,29.4,clear
+132,Bengal Gram(Gram),Naugarh,2014-10-21,3550.0,4.5,30.2,clear
+133,Lentil(Masur),Naugarh,2014-10-21,4710.0,0.0,30.2,clear
+134,Bengal Gram(Gram),Naugarh,2014-10-22,3555.0,4.0,30.6,clear
+135,Lentil(Masur),Naugarh,2014-10-22,4700.0,0.0,30.6,clear
+136,Bengal Gram(Gram),Naugarh,2014-10-23,3550.0,3.0,30.6,clear
+137,Lentil(Masur),Naugarh,2014-10-23,4700.0,0.0,30.6,clear
+138,Bengal Gram(Gram),Naugarh,2014-10-24,3555.0,4.5,30.0,clear
+139,Lentil(Masur),Naugarh,2014-10-24,4710.0,0.0,30.0,clear
+140,Bengal Gram(Gram),Naugarh,2014-10-25,3560.0,3.5,28.4,clear
+141,Lentil(Masur),Naugarh,2014-10-25,4715.0,0.0,28.4,clear
+142,Bengal Gram(Gram),Naugarh,2014-10-27,3565.0,5.0,30.0,clear
+143,Lentil(Masur),Naugarh,2014-10-27,4700.0,0.0,30.0,clear
+144,Bengal Gram(Gram),Naugarh,2014-10-28,3550.0,4.5,29.8,clear
+145,Lentil(Masur),Naugarh,2014-10-28,4700.0,0.0,29.8,clear
+146,Bengal Gram(Gram),Naugarh,2014-10-29,3540.0,3.0,29.8,clear
+147,Bengal Gram(Gram),Wansi,2014-10-29,3540.0,2.5,29.8,clear
+148,Lentil(Masur),Naugarh,2014-10-29,4700.0,0.0,29.8,clear
+149,Lentil(Masur),Wansi,2014-10-29,4710.0,0.0,29.8,clear
+150,Bengal Gram(Gram),Naugarh,2014-10-30,1500.0,20.0,29.2,clear
+151,Bengal Gram(Gram),Soharatgarh,2014-10-30,3545.0,3.0,29.2,clear
+152,Lentil(Masur),Naugarh,2014-10-30,4700.0,0.0,29.2,clear
+153,Lentil(Masur),Soharatgarh,2014-10-30,4700.0,0.0,29.2,clear
+154,Bengal Gram(Gram),Naugarh,2014-10-31,3500.0,5.0,28.8,clear
+155,Lentil(Masur),Naugarh,2014-10-31,4700.0,0.3,28.8,clear
+156,Bengal Gram(Gram),Naugarh,2014-02-11,3535.0,2.5,22.0,clear
+157,Lentil(Masur),Naugarh,2014-02-11,4720.0,0.5,22.0,clear
+158,Bengal Gram(Gram),Naugarh,2014-03-11,3530.0,4.0,28.8,clear
+159,Lentil(Masur),Naugarh,2014-03-11,4725.0,0.0,28.8,clear
+160,Bengal Gram(Gram),Naugarh,2014-04-11,3540.0,3.5,35.6,clear
+161,Lentil(Masur),Naugarh,2014-04-11,4725.0,0.0,35.6,clear
+162,Bengal Gram(Gram),Naugarh,2014-06-11,3500.0,5.0,38.6,clear
+163,Lentil(Masur),Naugarh,2014-06-11,4700.0,0.0,38.6,clear
+164,Bengal Gram(Gram),Naugarh,2014-07-11,3460.0,6.0,32.2,clear
+165,Lentil(Masur),Naugarh,2014-07-11,4750.0,0.0,32.2,clear
+166,Bengal Gram(Gram),Naugarh,2014-08-11,3480.0,4.5,32.6,clear
+167,Lentil(Masur),Naugarh,2014-08-11,4760.0,0.0,32.6,clear
+168,Bengal Gram(Gram),Naugarh,2014-10-11,3475.0,0.0,32.0,clear
+169,Lentil(Masur),Naugarh,2014-10-11,4750.0,0.0,32.0,clear
+170,Bengal Gram(Gram),Naugarh,2014-11-11,3470.0,1.0,30.0,clear
+171,Lentil(Masur),Naugarh,2014-11-11,4760.0,0.0,30.0,clear
+172,Bengal Gram(Gram),Naugarh,2014-12-11,3475.0,1.5,31.8,clear
+173,Lentil(Masur),Naugarh,2014-12-11,4750.0,0.5,31.8,clear
+174,Bengal Gram(Gram),Naugarh,2014-11-13,3470.0,0.0,29.0,clear
+175,Lentil(Masur),Naugarh,2014-11-13,4775.0,0.0,29.0,clear
+176,Bengal Gram(Gram),Naugarh,2014-11-14,3465.0,1.0,28.2,clear
+177,Lentil(Masur),Naugarh,2014-11-14,4750.0,0.2,28.2,clear
+178,Bengal Gram(Gram),Naugarh,2014-11-16,3465.0,1.0,25.8,clear
+179,Lentil(Masur),Naugarh,2014-11-16,4775.0,0.0,25.8,clear
+180,Bengal Gram(Gram),Naugarh,2014-11-17,3465.0,1.0,27.6,clear
+181,Bengal Gram(Gram),Wansi,2014-11-17,3460.0,2.0,27.6,clear
+182,Lentil(Masur),Naugarh,2014-11-17,4780.0,0.0,27.6,clear
+183,Lentil(Masur),Wansi,2014-11-17,4780.0,0.0,27.6,clear
+184,Bengal Gram(Gram),Naugarh,2014-11-18,3460.0,0.0,27.4,clear
+185,Lentil(Masur),Naugarh,2014-11-18,4750.0,0.0,27.4,clear
+186,Bengal Gram(Gram),Naugarh,2014-11-19,3465.0,1.0,28.0,clear
+187,Lentil(Masur),Naugarh,2014-11-19,4700.0,0.0,28.0,clear
+188,Bengal Gram(Gram),Naugarh,2014-11-20,3460.0,0.0,27.0,clear
+189,Lentil(Masur),Naugarh,2014-11-20,4725.0,0.0,27.0,clear
+190,Bengal Gram(Gram),Naugarh,2014-11-21,3475.0,1.5,27.4,clear
+191,Lentil(Masur),Naugarh,2014-11-21,4750.0,0.0,27.4,clear
+192,Bengal Gram(Gram),Naugarh,2014-11-22,3500.0,1.0,27.0,clear
+193,Lentil(Masur),Naugarh,2014-11-22,4900.0,0.0,27.0,clear
+194,Bengal Gram(Gram),Naugarh,2014-11-24,3500.0,1.5,26.8,clear
+195,Lentil(Masur),Naugarh,2014-11-24,4925.0,0.0,26.8,clear
+196,Bengal Gram(Gram),Naugarh,2014-11-25,3510.0,2.0,26.4,clear
+197,Lentil(Masur),Naugarh,2014-11-25,4950.0,0.2,26.4,clear
+198,Bengal Gram(Gram),Naugarh,2014-11-26,3520.0,2.5,25.6,clear
+199,Lentil(Masur),Naugarh,2014-11-26,4960.0,0.5,25.6,clear
+200,Bengal Gram(Gram),Naugarh,2014-11-27,3515.0,0.0,25.0,clear
+201,Lentil(Masur),Naugarh,2014-11-27,4960.0,0.0,25.0,clear
+202,Bengal Gram(Gram),Naugarh,2014-11-28,3520.0,1.0,25.6,clear
+203,Bengal Gram(Gram),Wansi,2014-11-28,3500.0,2.0,25.6,clear
+204,Lentil(Masur),Naugarh,2014-11-28,4950.0,0.5,25.6,clear
+205,Bengal Gram(Gram),Naugarh,2014-11-29,3500.0,3.0,26.8,clear
+206,Bengal Gram(Gram),Soharatgarh,2014-11-29,3500.0,2.5,26.8,clear
+207,Lentil(Masur),Naugarh,2014-11-29,4925.0,0.7,26.8,clear
+208,Lentil(Masur),Soharatgarh,2014-11-29,4900.0,0.9,26.8,clear
+209,Bengal Gram(Gram),Naugarh,2014-11-30,3500.0,3.0,25.4,clear
+210,Bengal Gram(Gram),Naugarh,2014-01-12,3520.0,1.2,19.8,clear
+211,Lentil(Masur),Naugarh,2014-01-12,4900.0,0.5,19.8,clear
+212,Bengal Gram(Gram),Naugarh,2014-02-12,3525.0,1.5,23.0,clear
+213,Lentil(Masur),Naugarh,2014-02-12,4900.0,0.0,23.0,clear
+214,Bengal Gram(Gram),Naugarh,2014-03-12,3530.0,1.0,30.0,clear
+215,Lentil(Masur),Naugarh,2014-03-12,4850.0,0.4,30.0,clear
+216,Bengal Gram(Gram),Naugarh,2014-04-12,3530.0,0.0,35.2,clear
+217,Lentil(Masur),Naugarh,2014-04-12,4850.0,0.0,35.2,clear
+218,Bengal Gram(Gram),Naugarh,2014-05-12,3525.0,1.5,39.8,clear
+219,Lentil(Masur),Naugarh,2014-05-12,4850.0,0.0,39.8,clear
+220,Bengal Gram(Gram),Naugarh,2014-06-12,3525.0,1.0,38.4,clear
+221,Lentil(Masur),Naugarh,2014-06-12,4850.0,0.0,38.4,clear
+222,Bengal Gram(Gram),Naugarh,2014-08-12,3530.0,1.5,34.0,rain
+223,Lentil(Masur),Naugarh,2014-08-12,4860.0,0.0,34.0,rain
+224,Bengal Gram(Gram),Naugarh,2014-09-12,3530.0,0.0,31.2,rain
+225,Lentil(Masur),Naugarh,2014-09-12,4875.0,0.5,31.2,rain
+226,Bengal Gram(Gram),Naugarh,2014-10-12,3525.0,1.5,31.2,clear
+227,Lentil(Masur),Naugarh,2014-10-12,4880.0,0.0,31.2,clear
+228,Bengal Gram(Gram),Naugarh,2014-11-12,3530.0,0.0,29.8,clear
+229,Lentil(Masur),Naugarh,2014-11-12,4890.0,0.0,29.8,clear
+230,Bengal Gram(Gram),Naugarh,2014-12-12,3540.0,1.0,30.0,clear
+231,Lentil(Masur),Naugarh,2014-12-12,4880.0,0.5,30.0,clear
+232,Bengal Gram(Gram),Naugarh,2014-12-13,3540.0,0.0,21.4,clear
+233,Bengal Gram(Gram),Naugarh,2014-12-15,3545.0,4.5,32.6,rain
+234,Bengal Gram(Gram),Wansi,2014-12-15,3545.0,5.0,32.6,rain
+235,Lentil(Masur),Naugarh,2014-12-15,4880.0,0.8,32.6,rain
+236,Lentil(Masur),Wansi,2014-12-15,4875.0,0.5,32.6,rain
+237,Bengal Gram(Gram),Naugarh,2014-12-16,3520.0,6.5,25.2,clear
+238,Bengal Gram(Gram),Soharatgarh,2014-12-16,3520.0,6.5,25.2,clear
+239,Lentil(Masur),Naugarh,2014-12-16,4880.0,0.7,25.2,clear
+240,Lentil(Masur),Soharatgarh,2014-12-16,4880.0,0.7,25.2,clear
+241,Bengal Gram(Gram),Naugarh,2014-12-17,3500.0,7.5,21.8,clear
+242,Lentil(Masur),Naugarh,2014-12-17,4875.0,0.0,21.8,clear
+243,Bengal Gram(Gram),Naugarh,2014-12-18,3510.0,1.5,21.4,clear
+244,Lentil(Masur),Naugarh,2014-12-18,4980.0,0.0,21.4,clear
+245,Bengal Gram(Gram),Naugarh,2014-12-19,3500.0,1.0,21.6,clear
+246,Lentil(Masur),Naugarh,2014-12-19,5000.0,0.0,21.6,clear
+247,Bengal Gram(Gram),Naugarh,2014-12-20,3500.0,2.0,19.2,clear
+248,Lentil(Masur),Naugarh,2014-12-20,5000.0,0.0,19.2,clear
+249,Bengal Gram(Gram),Naugarh,2014-12-23,3520.0,1.0,16.4,clear
+250,Lentil(Masur),Naugarh,2014-12-23,4950.0,0.0,16.4,clear
+251,Bengal Gram(Gram),Naugarh,2014-12-24,3520.0,2.0,13.0,clear
+252,Lentil(Masur),Naugarh,2014-12-24,4960.0,0.0,13.0,clear
+253,Bengal Gram(Gram),Naugarh,2014-12-25,3520.0,3.0,16.8,clear
+254,Lentil(Masur),Naugarh,2014-12-25,5000.0,0.0,16.8,clear
+255,Bengal Gram(Gram),Naugarh,2014-12-26,3525.0,2.0,15.4,clear
+256,Lentil(Masur),Naugarh,2014-12-26,5000.0,0.0,15.4,clear
+257,Bengal Gram(Gram),Naugarh,2014-12-27,3530.0,2.5,14.8,clear
+258,Lentil(Masur),Naugarh,2014-12-27,5000.0,0.0,14.8,clear
+259,Bengal Gram(Gram),Naugarh,2014-12-31,3530.0,2.0,24.0,clear
+260,Lentil(Masur),Naugarh,2014-12-31,5000.0,0.0,24.0,clear
+261,Lentil(Masur),Sahiyapur,2014-12-31,4900.0,0.0,24.0,clear
+262,Bengal Gram(Gram),Soharatgarh,2014-09-27,3490.0,3.0,33.4,clear
+263,Bengal Gram(Gram),Soharatgarh,2014-11-15,3470.0,1.5,28.0,clear
+264,Lentil(Masur),Soharatgarh,2014-11-15,4775.0,0.0,28.0,clear
+265,Bengal Gram(Gram),Soharatgarh,2014-12-30,3525.0,4.0,13.4,clear
+266,Lentil(Masur),Soharatgarh,2014-12-30,4990.0,0.8,13.4,clear
+267,Bengal Gram(Gram),Wansi,2014-12-29,3520.0,3.0,13.4,clear
+268,Lentil(Masur),Wansi,2014-12-29,5000.0,0.5,13.4,clear
+269,Lentil(Masur),Sahiyapur,2014-09-29,4500.0,0.6,32.8,rain
+270,Bengal Gram(Gram),Naugarh,2015-01-01,3540.0,3.0,17.8,clear
+271,Lentil(Masur),Naugarh,2015-01-01,5000.0,0.5,17.8,clear
+272,Bengal Gram(Gram),Naugarh,2015-02-01,3550.0,2.0,21.2,clear
+273,Lentil(Masur),Naugarh,2015-02-01,5000.0,0.4,21.2,clear
+274,Bengal Gram(Gram),Naugarh,2015-03-01,3560.0,3.0,20.8,clear
+275,Lentil(Masur),Naugarh,2015-03-01,5000.0,0.0,20.8,clear
+276,Bengal Gram(Gram),Naugarh,2015-05-01,3570.0,2.0,35.0,clear
+277,Lentil(Masur),Naugarh,2015-05-01,5010.0,0.0,35.0,clear
+278,Bengal Gram(Gram),Naugarh,2015-06-01,3575.0,1.0,41.2,clear
+279,Lentil(Masur),Naugarh,2015-06-01,5015.0,0.0,41.2,clear
+280,Bengal Gram(Gram),Naugarh,2015-07-01,3575.0,1.5,34.2,clear
+281,Lentil(Masur),Naugarh,2015-07-01,5000.0,0.2,34.2,clear
+282,Bengal Gram(Gram),Naugarh,2015-08-01,3550.0,2.0,29.0,clear
+283,Lentil(Masur),Naugarh,2015-08-01,5025.0,0.0,29.0,clear
+284,Bengal Gram(Gram),Naugarh,2015-09-01,3550.0,1.0,34.4,clear
+285,Lentil(Masur),Naugarh,2015-09-01,5030.0,0.0,34.4,clear
+286,Bengal Gram(Gram),Naugarh,2015-10-01,3540.0,1.5,35.8,clear
+287,Lentil(Masur),Naugarh,2015-10-01,5030.0,0.0,35.8,clear
+288,Bengal Gram(Gram),Naugarh,2015-12-01,3540.0,1.0,28.6,clear
+289,Lentil(Masur),Naugarh,2015-12-01,5035.0,0.0,28.6,clear
+290,Bengal Gram(Gram),Naugarh,2015-01-13,3550.0,2.0,14.6,clear
+291,Lentil(Masur),Naugarh,2015-01-13,5040.0,0.5,14.6,clear
+292,Bengal Gram(Gram),Naugarh,2015-01-14,3550.0,1.0,17.8,clear
+293,Lentil(Masur),Naugarh,2015-01-14,5050.0,0.0,17.8,clear
+294,Bengal Gram(Gram),Naugarh,2015-01-15,3540.0,4.5,18.0,clear
+295,Lentil(Masur),Naugarh,2015-01-15,5050.0,0.0,18.0,clear
+296,Bengal Gram(Gram),Naugarh,2015-01-16,3550.0,4.0,13.6,clear
+297,Lentil(Masur),Naugarh,2015-01-16,5060.0,1.0,13.6,clear
+298,Bengal Gram(Gram),Naugarh,2015-01-18,3550.0,5.0,13.2,clear
+299,Lentil(Masur),Naugarh,2015-01-18,5045.0,1.0,13.2,clear
+300,Bengal Gram(Gram),Naugarh,2015-01-19,3540.0,2.0,11.8,clear
+301,Bengal Gram(Gram),Wansi,2015-01-19,3540.0,3.0,11.8,clear
+302,Lentil(Masur),Naugarh,2015-01-19,5050.0,0.0,11.8,clear
+303,Lentil(Masur),Wansi,2015-01-19,5050.0,0.0,11.8,clear
+304,Bengal Gram(Gram),Naugarh,2015-01-20,3560.0,2.5,14.8,clear
+305,Lentil(Masur),Naugarh,2015-01-20,5075.0,0.0,14.8,clear
+306,Bengal Gram(Gram),Naugarh,2015-01-21,3550.0,0.0,18.0,clear
+307,Lentil(Masur),Naugarh,2015-01-21,5200.0,0.0,18.0,clear
+308,Bengal Gram(Gram),Naugarh,2015-01-22,3575.0,1.0,22.8,clear
+309,Lentil(Masur),Naugarh,2015-01-22,5200.0,0.0,22.8,clear
+310,Bengal Gram(Gram),Naugarh,2015-01-23,3580.0,0.0,22.6,clear
+311,Lentil(Masur),Naugarh,2015-01-23,5250.0,1.5,22.6,clear
+312,Bengal Gram(Gram),Naugarh,2015-01-26,3575.0,1.0,16.0,clear
+313,Lentil(Masur),Naugarh,2015-01-26,5250.0,1.0,16.0,clear
+314,Bengal Gram(Gram),Naugarh,2015-01-27,3550.0,2.0,22.0,clear
+315,Lentil(Masur),Naugarh,2015-01-27,5250.0,0.5,22.0,clear
+316,Bengal Gram(Gram),Naugarh,2015-01-28,3545.0,1.0,23.4,clear
+317,Lentil(Masur),Naugarh,2015-01-28,5250.0,0.0,23.4,clear
+318,Bengal Gram(Gram),Naugarh,2015-01-29,3540.0,1.5,18.6,clear
+319,Bengal Gram(Gram),Wansi,2015-01-29,3540.0,1.5,18.6,clear
+320,Lentil(Masur),Naugarh,2015-01-29,5260.0,0.2,18.6,clear
+321,Lentil(Masur),Wansi,2015-01-29,5260.0,0.2,18.6,clear
+322,Bengal Gram(Gram),Naugarh,2015-01-30,3540.0,1.0,17.6,clear
+323,Bengal Gram(Gram),Soharatgarh,2015-01-30,3540.0,1.0,17.6,clear
+324,Lentil(Masur),Naugarh,2015-01-30,5270.0,0.5,17.6,clear
+325,Lentil(Masur),Sahiyapur,2015-01-30,5100.0,0.4,17.6,clear
+326,Lentil(Masur),Soharatgarh,2015-01-30,5270.0,0.5,17.6,clear
+327,Bengal Gram(Gram),Naugarh,2015-01-31,3545.0,1.5,19.6,clear
+328,Lentil(Masur),Naugarh,2015-01-31,5270.0,0.0,19.6,clear
+329,Bengal Gram(Gram),Naugarh,2015-02-02,3530.0,1.5,22.6,clear
+330,Lentil(Masur),Naugarh,2015-02-02,5250.0,1.0,22.6,clear
+331,Bengal Gram(Gram),Naugarh,2015-03-02,3550.0,1.5,21.6,rain
+332,Lentil(Masur),Naugarh,2015-03-02,5225.0,2.0,21.6,rain
+333,Bengal Gram(Gram),Naugarh,2015-04-02,3545.0,1.0,35.0,clear
+334,Lentil(Masur),Naugarh,2015-04-02,5200.0,1.0,35.0,clear
+335,Bengal Gram(Gram),Naugarh,2015-05-02,3540.0,1.5,37.0,clear
+336,Lentil(Masur),Naugarh,2015-05-02,5200.0,0.0,37.0,clear
+337,Bengal Gram(Gram),Naugarh,2015-06-02,3550.0,2.0,40.8,clear
+338,Lentil(Masur),Naugarh,2015-06-02,5210.0,0.0,40.8,clear
+339,Bengal Gram(Gram),Naugarh,2015-07-02,3550.0,3.0,33.8,clear
+340,Lentil(Masur),Naugarh,2015-07-02,5200.0,1.0,33.8,clear
+341,Bengal Gram(Gram),Naugarh,2015-09-02,3545.0,2.5,34.8,clear
+342,Bengal Gram(Gram),Naugarh,2015-10-02,3550.0,2.0,35.0,clear
+343,Bengal Gram(Gram),Naugarh,2015-11-02,3540.0,1.0,31.4,clear
+344,Bengal Gram(Gram),Naugarh,2015-12-02,3545.0,1.5,24.8,clear
+345,Bengal Gram(Gram),Naugarh,2015-02-13,3545.0,2.5,23.8,clear
+346,Bengal Gram(Gram),Naugarh,2015-02-14,3550.0,2.0,24.4,clear
+347,Lentil(Masur),Naugarh,2015-02-14,5250.0,0.0,24.4,clear
+348,Bengal Gram(Gram),Naugarh,2015-02-16,3545.0,3.0,25.2,clear
+349,Bengal Gram(Gram),Wansi,2015-02-16,3555.0,4.0,25.2,clear
+350,Lentil(Masur),Naugarh,2015-02-16,5250.0,1.0,25.2,clear
+351,Lentil(Masur),Wansi,2015-02-16,5260.0,1.0,25.2,clear
+352,Bengal Gram(Gram),Naugarh,2015-02-17,3550.0,2.0,25.6,clear
+353,Bengal Gram(Gram),Soharatgarh,2015-02-17,3560.0,2.5,25.6,clear
+354,Lentil(Masur),Naugarh,2015-02-17,5250.0,0.0,25.6,clear
+355,Lentil(Masur),Soharatgarh,2015-02-17,5250.0,2.0,25.6,clear
+356,Bengal Gram(Gram),Naugarh,2015-02-18,3550.0,3.5,26.2,clear
+357,Lentil(Masur),Naugarh,2015-02-18,5250.0,0.0,26.2,clear
+358,Bengal Gram(Gram),Naugarh,2015-02-19,3560.0,3.0,26.8,clear
+359,Bengal Gram(Gram),Naugarh,2015-02-20,3550.0,2.0,27.2,clear
+360,Lentil(Masur),Naugarh,2015-02-20,5250.0,1.0,27.2,clear
+361,Bengal Gram(Gram),Naugarh,2015-02-21,5240.0,0.0,27.8,clear
+362,Lentil(Masur),Naugarh,2015-02-21,5240.0,0.0,27.8,clear
+363,Bengal Gram(Gram),Naugarh,2015-02-22,3555.0,1.5,27.4,clear
+364,Bengal Gram(Gram),Naugarh,2015-02-23,3550.0,2.2,26.8,clear
+365,Lentil(Masur),Naugarh,2015-02-23,5230.0,0.7,26.8,clear
+366,Bengal Gram(Gram),Naugarh,2015-02-24,3550.0,2.0,29.2,clear
+367,Lentil(Masur),Naugarh,2015-02-24,5245.0,1.0,29.2,clear
+368,Bengal Gram(Gram),Naugarh,2015-02-25,3540.0,2.5,28.4,clear
+369,Lentil(Masur),Naugarh,2015-02-25,5250.0,0.0,28.4,clear
+370,Bengal Gram(Gram),Naugarh,2015-02-26,3600.0,3.0,24.4,rain
+371,Lentil(Masur),Naugarh,2015-02-26,5250.0,1.5,24.4,rain
+372,Bengal Gram(Gram),Naugarh,2015-02-27,3650.0,1.5,28.4,clear
+373,Bengal Gram(Gram),Soharatgarh,2015-02-27,3650.0,1.5,28.4,clear
+374,Lentil(Masur),Naugarh,2015-02-27,5250.0,0.0,28.4,clear
+375,Lentil(Masur),Soharatgarh,2015-02-27,5260.0,0.0,28.4,clear
+376,Bengal Gram(Gram),Naugarh,2015-02-28,3650.0,1.0,27.8,clear
+377,Bengal Gram(Gram),Wansi,2015-02-28,3650.0,1.0,27.8,clear
+378,Lentil(Masur),Naugarh,2015-02-28,5275.0,0.5,27.8,clear
+379,Lentil(Masur),Sahiyapur,2015-02-28,5200.0,0.7,27.8,clear
+380,Lentil(Masur),Wansi,2015-02-28,5275.0,0.5,27.8,clear
+381,Bengal Gram(Gram),Naugarh,2015-02-03,3700.0,2.5,25.6,rain
+382,Lentil(Masur),Naugarh,2015-02-03,5250.0,0.0,25.6,rain
+383,Bengal Gram(Gram),Naugarh,2015-03-03,3650.0,3.0,25.2,clear
+384,Lentil(Masur),Naugarh,2015-03-03,5300.0,0.0,25.2,clear
+385,Bengal Gram(Gram),Naugarh,2015-04-03,3650.0,2.0,35.0,clear
+386,Lentil(Masur),Naugarh,2015-04-03,5300.0,0.5,35.0,clear
+387,Bengal Gram(Gram),Naugarh,2015-05-03,3640.0,1.5,37.0,clear
+388,Lentil(Masur),Naugarh,2015-05-03,5300.0,0.0,37.0,clear
+389,Bengal Gram(Gram),Naugarh,2015-07-03,3650.0,1.0,36.0,clear
+390,Lentil(Masur),Naugarh,2015-07-03,5290.0,0.5,36.0,clear
+391,Bengal Gram(Gram),Naugarh,2015-09-03,3660.0,1.5,33.4,clear
+392,Lentil(Masur),Naugarh,2015-09-03,5300.0,0.0,33.4,clear
+393,Bengal Gram(Gram),Naugarh,2015-10-03,3665.0,2.5,35.0,clear
+394,Lentil(Masur),Naugarh,2015-10-03,5300.0,1.0,35.0,clear
+395,Bengal Gram(Gram),Naugarh,2015-11-03,3660.0,1.0,32.0,clear
+396,Lentil(Masur),Naugarh,2015-11-03,5300.0,0.0,32.0,clear
+397,Bengal Gram(Gram),Naugarh,2015-12-03,3650.0,1.5,27.4,clear
+398,Lentil(Masur),Naugarh,2015-12-03,5300.0,0.5,27.4,clear
+399,Bengal Gram(Gram),Naugarh,2015-03-13,3655.0,2.0,31.2,clear
+400,Lentil(Masur),Naugarh,2015-03-13,5310.0,0.0,31.2,clear
+401,Bengal Gram(Gram),Naugarh,2015-03-14,3650.0,1.0,28.0,clear
+402,Lentil(Masur),Naugarh,2015-03-14,5300.0,0.0,28.0,clear
+403,Bengal Gram(Gram),Naugarh,2015-03-16,3650.0,2.0,28.0,clear
+404,Bengal Gram(Gram),Wansi,2015-03-16,3650.0,1.7,28.0,clear
+405,Lentil(Masur),Naugarh,2015-03-16,5300.0,1.0,28.0,clear
+406,Lentil(Masur),Wansi,2015-03-16,5300.0,1.0,28.0,clear
+407,Bengal Gram(Gram),Naugarh,2015-03-17,3655.0,2.0,30.6,clear
+408,Bengal Gram(Gram),Soharatgarh,2015-03-17,3655.0,2.0,30.6,clear
+409,Lentil(Masur),Naugarh,2015-03-17,5300.0,0.5,30.6,clear
+410,Lentil(Masur),Soharatgarh,2015-03-17,5300.0,0.5,30.6,clear
+411,Bengal Gram(Gram),Naugarh,2015-03-18,3650.0,3.0,29.0,clear
+412,Lentil(Masur),Naugarh,2015-03-18,5310.0,0.0,29.0,clear
+413,Bengal Gram(Gram),Naugarh,2015-03-19,3675.0,1.5,29.2,clear
+414,Lentil(Masur),Naugarh,2015-03-19,5300.0,0.8,29.2,clear
+415,Bengal Gram(Gram),Naugarh,2015-03-20,3625.0,1.0,31.0,clear
+416,Lentil(Masur),Naugarh,2015-03-20,5325.0,0.0,31.0,clear
+417,Bengal Gram(Gram),Naugarh,2015-03-21,3600.0,2.0,32.0,clear
+418,Lentil(Masur),Naugarh,2015-03-21,5325.0,0.5,32.0,clear
+419,Bengal Gram(Gram),Naugarh,2015-03-23,3590.0,1.0,33.8,clear
+420,Lentil(Masur),Naugarh,2015-03-23,5300.0,0.7,33.8,clear
+421,Bengal Gram(Gram),Naugarh,2015-03-24,3600.0,1.5,34.0,clear
+422,Lentil(Masur),Naugarh,2015-03-24,5300.0,1.0,34.0,clear
+423,Bengal Gram(Gram),Naugarh,2015-03-25,3600.0,2.0,35.2,clear
+424,Lentil(Masur),Naugarh,2015-03-25,5305.0,0.7,35.2,clear
+425,Bengal Gram(Gram),Naugarh,2015-03-26,3600.0,2.5,36.4,clear
+426,Lentil(Masur),Naugarh,2015-03-26,5310.0,0.5,36.4,clear
+427,Bengal Gram(Gram),Naugarh,2015-03-27,3610.0,1.5,33.4,rain
+428,Bengal Gram(Gram),Soharatgarh,2015-03-27,3610.0,1.5,33.4,rain
+429,Lentil(Masur),Naugarh,2015-03-27,5300.0,1.0,33.4,rain
+430,Lentil(Masur),Soharatgarh,2015-03-27,5300.0,1.0,33.4,rain
+431,Bengal Gram(Gram),Naugarh,2015-03-28,3600.0,1.5,32.2,clear
+432,Lentil(Masur),Naugarh,2015-03-28,5300.0,0.8,32.2,clear
+433,Bengal Gram(Gram),Naugarh,2015-03-30,3605.0,1.0,25.2,clear
+434,Bengal Gram(Gram),Wansi,2015-03-30,3605.0,1.0,25.2,clear
+435,Lentil(Masur),Naugarh,2015-03-30,5275.0,1.0,25.2,clear
+436,Lentil(Masur),Wansi,2015-03-30,5275.0,1.0,25.2,clear
+437,Bengal Gram(Gram),Naugarh,2015-03-31,3620.0,1.2,29.2,clear
+438,Lentil(Masur),Naugarh,2015-03-31,5280.0,0.5,29.2,clear
+439,Bengal Gram(Gram),Naugarh,2015-01-04,3600.0,2.0,21.0,clear
+440,Lentil(Masur),Naugarh,2015-01-04,5285.0,0.5,21.0,clear
+441,Bengal Gram(Gram),Naugarh,2015-02-04,3605.0,1.5,24.6,clear
+442,Lentil(Masur),Naugarh,2015-02-04,5280.0,0.0,24.6,clear
+443,Bengal Gram(Gram),Naugarh,2015-03-04,3600.0,1.0,25.0,clear
+444,Lentil(Masur),Naugarh,2015-03-04,5280.0,0.5,25.0,clear
+445,Bengal Gram(Gram),Naugarh,2015-04-04,3600.0,1.5,32.6,clear
+446,Lentil(Masur),Naugarh,2015-04-04,5300.0,0.0,32.6,clear
+447,Bengal Gram(Gram),Naugarh,2015-06-04,3600.0,0.0,36.4,clear
+448,Lentil(Masur),Naugarh,2015-06-04,5275.0,0.7,36.4,clear
+449,Bengal Gram(Gram),Naugarh,2015-07-04,3610.0,2.0,37.0,clear
+450,Lentil(Masur),Naugarh,2015-07-04,5270.0,0.5,37.0,clear
+451,Bengal Gram(Gram),Naugarh,2015-08-04,3600.0,1.0,33.6,clear
+452,Lentil(Masur),Naugarh,2015-08-04,5250.0,0.8,33.6,clear
+453,Bengal Gram(Gram),Naugarh,2015-09-04,3600.0,1.5,35.0,clear
+454,Lentil(Masur),Naugarh,2015-09-04,5250.0,0.0,35.0,clear
+455,Bengal Gram(Gram),Naugarh,2015-10-04,3610.0,2.0,34.6,clear
+456,Lentil(Masur),Naugarh,2015-10-04,5250.0,1.0,34.6,clear
+457,Bengal Gram(Gram),Naugarh,2015-11-04,3600.0,2.0,30.8,clear
+458,Lentil(Masur),Naugarh,2015-11-04,5200.0,1.0,30.8,clear
+459,Bengal Gram(Gram),Naugarh,2015-04-13,3615.0,2.5,31.6,clear
+460,Lentil(Masur),Naugarh,2015-04-13,5200.0,0.0,31.6,clear
+461,Bengal Gram(Gram),Naugarh,2015-04-14,3625.0,1.0,32.6,clear
+462,Lentil(Masur),Naugarh,2015-04-14,5200.0,0.5,32.6,clear
+463,Bengal Gram(Gram),Naugarh,2015-04-15,3635.0,2.0,33.0,clear
+464,Bengal Gram(Gram),Wansi,2015-04-15,3630.0,1.5,33.0,clear
+465,Lentil(Masur),Naugarh,2015-04-15,5300.0,1.0,33.0,clear
+466,Lentil(Masur),Wansi,2015-04-15,5300.0,0.8,33.0,clear
+467,Bengal Gram(Gram),Naugarh,2015-04-16,3630.0,2.0,34.6,clear
+468,Bengal Gram(Gram),Soharatgarh,2015-04-16,3625.0,2.0,34.6,clear
+469,Lentil(Masur),Naugarh,2015-04-16,5300.0,1.0,34.6,clear
+470,Lentil(Masur),Soharatgarh,2015-04-16,5300.0,1.0,34.6,clear
+471,Bengal Gram(Gram),Naugarh,2015-04-17,3630.0,1.0,32.8,clear
+472,Lentil(Masur),Naugarh,2015-04-17,5300.0,0.0,32.8,clear
+473,Bengal Gram(Gram),Naugarh,2015-04-18,3625.0,1.5,34.6,clear
+474,Lentil(Masur),Naugarh,2015-04-18,5300.0,0.9,34.6,clear
+475,Bengal Gram(Gram),Naugarh,2015-04-20,3620.0,1.0,34.6,clear
+476,Lentil(Masur),Naugarh,2015-04-20,5200.0,0.0,34.6,clear
+477,Bengal Gram(Gram),Naugarh,2015-04-21,3620.0,1.5,37.8,clear
+478,Lentil(Masur),Naugarh,2015-04-21,5200.0,1.0,37.8,clear
+479,Bengal Gram(Gram),Naugarh,2015-04-22,3625.0,3.0,39.2,clear
+480,Lentil(Masur),Naugarh,2015-04-22,5200.0,0.0,39.2,clear
+481,Bengal Gram(Gram),Naugarh,2015-04-23,3635.0,1.0,36.2,clear
+482,Lentil(Masur),Naugarh,2015-04-23,5200.0,0.5,36.2,clear
+483,Bengal Gram(Gram),Naugarh,2015-04-24,3630.0,1.5,35.2,rain
+484,Lentil(Masur),Naugarh,2015-04-24,5250.0,0.0,35.2,rain
+485,Bengal Gram(Gram),Naugarh,2015-04-25,3635.0,2.0,22.6,clear
+486,Lentil(Masur),Naugarh,2015-04-25,5250.0,1.0,22.6,clear
+487,Bengal Gram(Gram),Naugarh,2015-04-27,3640.0,3.0,31.4,clear
+488,Bengal Gram(Gram),Wansi,2015-04-27,3640.0,3.0,31.4,clear
+489,Lentil(Masur),Naugarh,2015-04-27,5260.0,1.2,31.4,clear
+490,Lentil(Masur),Wansi,2015-04-27,5250.0,1.2,31.4,clear
+491,Bengal Gram(Gram),Naugarh,2015-04-28,3660.0,4.0,28.2,clear
+492,Bengal Gram(Gram),Soharatgarh,2015-04-28,3650.0,2.0,28.2,clear
+493,Lentil(Masur),Naugarh,2015-04-28,5250.0,1.0,28.2,clear
+494,Lentil(Masur),Soharatgarh,2015-04-28,5250.0,0.8,28.2,clear
+495,Bengal Gram(Gram),Naugarh,2015-04-29,3655.0,1.5,32.0,clear
+496,Lentil(Masur),Naugarh,2015-04-29,5245.0,0.7,32.0,clear
+497,Bengal Gram(Gram),Naugarh,2015-04-30,3700.0,1.2,32.8,clear
+498,Lentil(Masur),Naugarh,2015-04-30,5250.0,0.5,32.8,clear
+499,Bengal Gram(Gram),Naugarh,2015-01-05,3730.0,1.5,16.2,clear
+500,Lentil(Masur),Naugarh,2015-01-05,5300.0,0.7,16.2,clear
+501,Bengal Gram(Gram),Naugarh,2015-02-05,3730.0,2.0,18.2,clear
+502,Lentil(Masur),Naugarh,2015-02-05,5300.0,0.5,18.2,clear
+503,Bengal Gram(Gram),Naugarh,2015-04-05,3775.0,1.0,32.6,clear
+504,Lentil(Masur),Naugarh,2015-04-05,5300.0,0.0,32.6,clear
+505,Bengal Gram(Gram),Naugarh,2015-05-05,3775.0,2.0,39.4,clear
+506,Lentil(Masur),Naugarh,2015-05-05,5310.0,0.9,39.4,clear
+507,Bengal Gram(Gram),Naugarh,2015-06-05,3785.0,1.5,40.4,clear
+508,Lentil(Masur),Naugarh,2015-06-05,5315.0,1.0,40.4,clear
+509,Bengal Gram(Gram),Naugarh,2015-07-05,3800.0,1.0,34.0,clear
+510,Lentil(Masur),Naugarh,2015-07-05,5310.0,0.7,34.0,clear
+511,Bengal Gram(Gram),Naugarh,2015-08-05,4000.0,3.0,34.4,clear
+512,Lentil(Masur),Naugarh,2015-08-05,5450.0,0.5,34.4,clear
+513,Bengal Gram(Gram),Naugarh,2015-09-05,4100.0,2.5,34.8,clear
+514,Lentil(Masur),Naugarh,2015-09-05,5460.0,0.7,34.8,clear
+515,Bengal Gram(Gram),Naugarh,2015-11-05,4100.0,2.5,31.2,clear
+516,Lentil(Masur),Naugarh,2015-11-05,5475.0,0.5,31.2,clear
+517,Bengal Gram(Gram),Naugarh,2015-12-05,4150.0,2.0,26.0,clear
+518,Lentil(Masur),Naugarh,2015-12-05,5475.0,0.7,26.0,clear
+519,Bengal Gram(Gram),Naugarh,2015-05-13,4200.0,1.0,35.0,clear
+520,Lentil(Masur),Naugarh,2015-05-13,5550.0,0.0,35.0,clear
+521,Bengal Gram(Gram),Naugarh,2015-05-14,4220.0,2.0,37.8,clear
+522,Lentil(Masur),Naugarh,2015-05-14,5600.0,0.8,37.8,clear
+523,Bengal Gram(Gram),Naugarh,2015-05-15,4225.0,1.5,36.4,clear
+524,Bengal Gram(Gram),Soharatgarh,2015-05-15,4225.0,1.5,36.4,clear
+525,Lentil(Masur),Naugarh,2015-05-15,5600.0,1.4,36.4,clear
+526,Lentil(Masur),Soharatgarh,2015-05-15,5600.0,1.0,36.4,clear
+527,Bengal Gram(Gram),Naugarh,2015-05-16,4230.0,2.0,32.6,clear
+528,Bengal Gram(Gram),Wansi,2015-05-16,4235.0,1.5,32.6,clear
+529,Lentil(Masur),Naugarh,2015-05-16,5600.0,0.9,32.6,clear
+530,Lentil(Masur),Wansi,2015-05-16,5600.0,1.0,32.6,clear
+531,Bengal Gram(Gram),Naugarh,2015-05-18,4225.0,3.0,36.4,clear
+532,Lentil(Masur),Naugarh,2015-05-18,5650.0,1.5,36.4,clear
+533,Bengal Gram(Gram),Naugarh,2015-05-19,4300.0,2.0,36.6,clear
+534,Lentil(Masur),Naugarh,2015-05-19,5675.0,0.5,36.6,clear
+535,Bengal Gram(Gram),Naugarh,2015-05-20,4315.0,2.5,35.4,clear
+536,Lentil(Masur),Naugarh,2015-05-20,5670.0,0.0,35.4,clear
+537,Bengal Gram(Gram),Naugarh,2015-05-21,4300.0,2.0,40.6,clear
+538,Lentil(Masur),Naugarh,2015-05-21,5700.0,0.5,40.6,clear
+539,Bengal Gram(Gram),Naugarh,2015-05-22,4325.0,1.0,40.6,clear
+540,Lentil(Masur),Naugarh,2015-05-22,5700.0,0.0,40.6,clear
+541,Bengal Gram(Gram),Naugarh,2015-05-23,4325.0,1.5,40.6,clear
+542,Lentil(Masur),Naugarh,2015-05-23,5710.0,0.0,40.6,clear
+543,Bengal Gram(Gram),Naugarh,2015-05-25,4500.0,0.0,37.4,clear
+544,Lentil(Masur),Naugarh,2015-05-25,5720.0,0.5,37.4,clear
+545,Bengal Gram(Gram),Naugarh,2015-05-26,4500.0,1.0,37.8,clear
+546,Lentil(Masur),Naugarh,2015-05-26,5725.0,0.0,37.8,clear
+547,Bengal Gram(Gram),Naugarh,2015-05-27,4520.0,1.5,37.6,clear
+548,Lentil(Masur),Naugarh,2015-05-27,5730.0,1.0,37.6,clear
+549,Bengal Gram(Gram),Naugarh,2015-05-28,4550.0,1.0,38.2,clear
+550,Bengal Gram(Gram),Wansi,2015-05-28,4500.0,1.0,38.2,clear
+551,Bengal Gram(Gram),Naugarh,2015-05-29,4500.0,1.5,39.8,clear
+552,Bengal Gram(Gram),Soharatgarh,2015-05-29,4500.0,1.5,39.8,clear
+553,Lentil(Masur),Naugarh,2015-05-29,5720.0,1.0,39.8,clear
+554,Lentil(Masur),Soharatgarh,2015-05-29,5720.0,1.0,39.8,clear
+555,Bengal Gram(Gram),Naugarh,2015-05-30,5620.0,1.0,38.2,clear
+556,Lentil(Masur),Naugarh,2015-05-30,5735.0,0.0,38.2,clear
+557,Bengal Gram(Gram),Naugarh,2015-01-06,4700.0,2.0,19.0,clear
+558,Lentil(Masur),Naugarh,2015-01-06,5730.0,0.7,19.0,clear
+559,Bengal Gram(Gram),Naugarh,2015-02-06,4710.0,1.5,22.2,clear
+560,Lentil(Masur),Naugarh,2015-02-06,5740.0,0.0,22.2,clear
+561,Bengal Gram(Gram),Naugarh,2015-03-06,4800.0,2.5,27.0,clear
+562,Lentil(Masur),Naugarh,2015-03-06,5750.0,0.5,27.0,clear
+563,Bengal Gram(Gram),Naugarh,2015-04-06,4750.0,2.0,33.6,clear
+564,Lentil(Masur),Naugarh,2015-04-06,5750.0,0.0,33.6,clear
+565,Bengal Gram(Gram),Naugarh,2015-05-06,4775.0,0.0,39.2,clear
+566,Lentil(Masur),Naugarh,2015-05-06,5800.0,0.0,39.2,clear
+567,Bengal Gram(Gram),Naugarh,2015-06-06,4800.0,1.0,42.6,clear
+568,Lentil(Masur),Naugarh,2015-06-06,3650.0,0.4,42.6,clear
+569,Bengal Gram(Gram),Naugarh,2015-08-06,4800.0,1.5,32.2,clear
+570,Lentil(Masur),Naugarh,2015-08-06,5900.0,0.5,32.2,clear
+571,Bengal Gram(Gram),Naugarh,2015-09-06,4825.0,2.0,34.8,clear
+572,Lentil(Masur),Naugarh,2015-09-06,5900.0,0.0,34.8,clear
+573,Bengal Gram(Gram),Naugarh,2015-10-06,4900.0,1.0,34.0,clear
+574,Lentil(Masur),Naugarh,2015-10-06,5915.0,0.0,34.0,clear
+575,Bengal Gram(Gram),Naugarh,2015-11-06,4900.0,1.5,30.4,clear
+576,Lentil(Masur),Naugarh,2015-11-06,5925.0,0.5,30.4,clear
+577,Bengal Gram(Gram),Naugarh,2015-12-06,4900.0,0.0,23.4,clear
+578,Lentil(Masur),Naugarh,2015-12-06,5930.0,0.7,23.4,clear
+579,Bengal Gram(Gram),Naugarh,2015-06-13,4925.0,1.0,35.6,clear
+580,Lentil(Masur),Naugarh,2015-06-13,5935.0,1.0,35.6,clear
+581,Bengal Gram(Gram),Naugarh,2015-06-15,4950.0,2.0,32.8,clear
+582,Bengal Gram(Gram),Wansi,2015-06-15,4920.0,1.5,32.8,clear
+583,Lentil(Masur),Naugarh,2015-06-15,5900.0,1.0,32.8,clear
+584,Lentil(Masur),Wansi,2015-06-15,5900.0,1.0,32.8,clear
+585,Bengal Gram(Gram),Naugarh,2015-06-16,4945.0,3.0,34.8,clear
+586,Bengal Gram(Gram),Soharatgarh,2015-06-16,4925.0,2.0,34.8,clear
+587,Lentil(Masur),Soharatgarh,2015-06-16,5925.0,1.2,34.8,clear
+588,Bengal Gram(Gram),Naugarh,2015-06-17,4975.0,1.0,36.2,clear
+589,Lentil(Masur),Naugarh,2015-06-17,5975.0,0.5,36.2,clear
+590,Bengal Gram(Gram),Naugarh,2015-06-18,4950.0,1.5,36.4,clear
+591,Lentil(Masur),Naugarh,2015-06-18,5950.0,0.0,36.4,clear
+592,Bengal Gram(Gram),Naugarh,2015-06-19,4940.0,2.0,36.4,clear
+593,Lentil(Masur),Naugarh,2015-06-19,5950.0,1.0,36.4,clear
+594,Bengal Gram(Gram),Naugarh,2015-06-20,4950.0,0.0,38.2,clear
+595,Lentil(Masur),Naugarh,2015-06-20,6000.0,0.0,38.2,clear
+596,Bengal Gram(Gram),Naugarh,2015-06-22,4960.0,1.0,36.4,clear
+597,Lentil(Masur),Naugarh,2015-06-22,6000.0,0.5,36.4,clear
+598,Bengal Gram(Gram),Naugarh,2015-06-24,4950.0,2.0,34.6,clear
+599,Lentil(Masur),Naugarh,2015-06-24,6000.0,0.5,34.6,clear
+600,Bengal Gram(Gram),Naugarh,2015-06-25,4960.0,1.0,38.4,clear
+601,Bengal Gram(Gram),Naugarh,2015-06-26,4960.0,2.2,28.0,clear
+602,Lentil(Masur),Naugarh,2015-06-26,6000.0,0.0,28.0,clear
+603,Bengal Gram(Gram),Naugarh,2015-06-27,4975.0,2.0,32.6,clear
+604,Bengal Gram(Gram),Soharatgarh,2015-06-27,4975.0,2.0,32.6,clear
+605,Lentil(Masur),Naugarh,2015-06-27,6000.0,1.5,32.6,clear
+606,Lentil(Masur),Soharatgarh,2015-06-27,6000.0,1.5,32.6,clear
+607,Bengal Gram(Gram),Naugarh,2015-06-29,4970.0,2.5,32.0,clear
+608,Bengal Gram(Gram),Wansi,2015-06-29,4970.0,2.5,32.0,clear
+609,Bengal Gram(Gram),Naugarh,2015-06-30,4975.0,1.0,34.2,clear
+610,Lentil(Masur),Naugarh,2015-06-30,5990.0,1.0,34.2,clear
+611,Bengal Gram(Gram),Naugarh,2015-01-07,5000.0,2.0,20.4,clear
+612,Lentil(Masur),Naugarh,2015-01-07,6000.0,0.0,20.4,clear
+613,Bengal Gram(Gram),Naugarh,2015-02-07,5000.0,3.0,22.6,clear
+614,Lentil(Masur),Naugarh,2015-02-07,6015.0,0.5,22.6,clear
+615,Bengal Gram(Gram),Naugarh,2015-03-07,5020.0,1.5,28.0,clear
+616,Lentil(Masur),Naugarh,2015-03-07,6020.0,0.0,28.0,clear
+617,Bengal Gram(Gram),Naugarh,2015-04-07,5020.0,1.0,32.2,clear
+618,Lentil(Masur),Naugarh,2015-04-07,6000.0,0.0,32.2,clear
+619,Bengal Gram(Gram),Naugarh,2015-06-07,5025.0,2.0,42.2,clear
+620,Lentil(Masur),Naugarh,2015-06-07,6000.0,0.5,42.2,clear
+621,Bengal Gram(Gram),Naugarh,2015-07-07,5000.0,1.0,29.6,clear
+622,Lentil(Masur),Naugarh,2015-07-07,6080.0,0.0,29.6,clear
+623,Bengal Gram(Gram),Naugarh,2015-08-07,5020.0,1.5,31.6,clear
+624,Lentil(Masur),Naugarh,2015-08-07,6075.0,0.5,31.6,clear
+625,Bengal Gram(Gram),Naugarh,2015-10-07,5020.0,1.5,34.0,clear
+626,Lentil(Masur),Naugarh,2015-10-07,6070.0,0.5,34.0,clear
+627,Bengal Gram(Gram),Naugarh,2015-11-07,5015.0,2.0,30.4,clear
+628,Lentil(Masur),Naugarh,2015-11-07,6100.0,0.0,30.4,clear
+629,Bengal Gram(Gram),Naugarh,2015-07-13,5020.0,1.0,33.0,clear
+630,Lentil(Masur),Naugarh,2015-07-13,6100.0,0.7,33.0,clear
+631,Bengal Gram(Gram),Naugarh,2015-07-14,5020.0,1.0,35.0,clear
+632,Lentil(Masur),Naugarh,2015-07-14,6100.0,0.0,35.0,clear
+633,Bengal Gram(Gram),Naugarh,2015-07-17,5050.0,1.5,33.2,clear
+634,Lentil(Masur),Naugarh,2015-07-17,6000.0,0.0,33.2,clear
+635,Bengal Gram(Gram),Naugarh,2015-07-18,5060.0,1.0,34.0,clear
+636,Bengal Gram(Gram),Naugarh,2015-07-20,5075.0,1.5,33.2,clear
+637,Lentil(Masur),Naugarh,2015-07-20,6125.0,0.7,33.2,clear
+638,Bengal Gram(Gram),Naugarh,2015-07-22,5100.0,1.5,32.2,clear
+639,Lentil(Masur),Naugarh,2015-07-22,6150.0,1.0,32.2,clear
+640,Bengal Gram(Gram),Naugarh,2015-07-23,5050.0,1.2,31.6,clear
+641,Lentil(Masur),Naugarh,2015-07-23,6150.0,0.0,31.6,clear
+642,Bengal Gram(Gram),Naugarh,2015-07-25,5070.0,1.5,32.8,clear
+643,Lentil(Masur),Naugarh,2015-07-25,6175.0,0.5,32.8,clear
+644,Bengal Gram(Gram),Naugarh,2015-07-27,5075.0,1.0,34.4,clear
+645,Bengal Gram(Gram),Wansi,2015-07-27,5075.0,1.0,34.4,clear
+646,Lentil(Masur),Wansi,2015-07-27,6175.0,1.0,34.4,clear
+647,Bengal Gram(Gram),Naugarh,2015-07-28,5075.0,3.0,38.4,clear
+648,Bengal Gram(Gram),Soharatgarh,2015-07-28,5080.0,2.5,38.4,clear
+649,Lentil(Masur),Naugarh,2015-07-28,6200.0,1.2,38.4,clear
+650,Lentil(Masur),Soharatgarh,2015-07-28,6200.0,1.0,38.4,clear
+651,Bengal Gram(Gram),Naugarh,2015-07-29,5070.0,1.0,34.2,clear
+652,Lentil(Masur),Naugarh,2015-07-29,6200.0,1.0,34.2,clear
+653,Bengal Gram(Gram),Naugarh,2015-07-30,5075.0,1.0,34.4,clear
+654,Lentil(Masur),Naugarh,2015-07-30,6200.0,0.0,34.4,clear
+655,Bengal Gram(Gram),Naugarh,2015-07-31,5080.0,1.5,28.8,rain
+656,Lentil(Masur),Naugarh,2015-07-31,6200.0,0.0,28.8,rain
+657,Lentil(Masur),Sahiyapur,2015-07-31,5800.0,1.0,28.8,rain
+658,Bengal Gram(Gram),Naugarh,2015-01-08,5095.0,1.5,20.0,clear
+659,Lentil(Masur),Naugarh,2015-01-08,6200.0,0.0,20.0,clear
+660,Bengal Gram(Gram),Naugarh,2015-03-08,5080.0,1.0,29.0,clear
+661,Lentil(Masur),Naugarh,2015-03-08,6200.0,0.5,29.0,clear
+662,Bengal Gram(Gram),Naugarh,2015-04-08,5085.0,1.5,34.8,clear
+663,Lentil(Masur),Naugarh,2015-04-08,6210.0,0.7,34.8,clear
+664,Bengal Gram(Gram),Naugarh,2015-05-08,5110.0,1.0,35.0,clear
+665,Lentil(Masur),Naugarh,2015-05-08,6225.0,0.0,35.0,clear
+666,Bengal Gram(Gram),Naugarh,2015-06-08,5200.0,2.0,43.4,clear
+667,Bengal Gram(Gram),Naugarh,2015-07-08,5150.0,1.5,33.6,clear
+668,Lentil(Masur),Naugarh,2015-07-08,6220.0,1.0,33.6,clear
+669,Bengal Gram(Gram),Naugarh,2015-08-08,5155.0,1.0,32.4,clear
+670,Lentil(Masur),Naugarh,2015-08-08,6200.0,1.5,32.4,clear
+671,Bengal Gram(Gram),Naugarh,2015-10-08,5160.0,2.0,34.6,clear
+672,Lentil(Masur),Naugarh,2015-10-08,6200.0,0.8,34.6,clear
+673,Bengal Gram(Gram),Naugarh,2015-11-08,5175.0,1.5,29.8,clear
+674,Lentil(Masur),Naugarh,2015-11-08,6200.0,0.0,29.8,clear
+675,Bengal Gram(Gram),Naugarh,2015-12-08,5170.0,1.0,22.8,clear
+676,Lentil(Masur),Naugarh,2015-12-08,6200.0,0.0,22.8,clear
+677,Bengal Gram(Gram),Naugarh,2015-08-13,5150.0,2.0,33.4,clear
+678,Lentil(Masur),Naugarh,2015-08-13,6210.0,0.0,33.4,clear
+679,Bengal Gram(Gram),Naugarh,2015-08-14,5040.0,2.5,34.2,clear
+680,Lentil(Masur),Naugarh,2015-08-14,6200.0,1.2,34.2,clear
+681,Bengal Gram(Gram),Naugarh,2015-08-17,5065.0,3.0,29.2,clear
+682,Bengal Gram(Gram),Wansi,2015-08-17,5050.0,3.0,29.2,clear
+683,Lentil(Masur),Naugarh,2015-08-17,6200.0,1.0,29.2,clear
+684,Lentil(Masur),Wansi,2015-08-17,6210.0,1.0,29.2,clear
+685,Bengal Gram(Gram),Naugarh,2015-08-18,5060.0,4.5,29.4,clear
+686,Bengal Gram(Gram),Soharatgarh,2015-08-18,5060.0,4.5,29.4,clear
+687,Lentil(Masur),Naugarh,2015-08-18,6200.0,1.5,29.4,clear
+688,Lentil(Masur),Soharatgarh,2015-08-18,6200.0,1.5,29.4,clear
+689,Bengal Gram(Gram),Naugarh,2015-08-19,5100.0,3.0,31.8,clear
+690,Lentil(Masur),Naugarh,2015-08-19,6200.0,0.0,31.8,clear
+691,Bengal Gram(Gram),Naugarh,2015-08-20,5100.0,4.0,32.4,clear
+692,Bengal Gram(Gram),Naugarh,2015-08-21,5110.0,4.5,29.8,clear
+693,Lentil(Masur),Naugarh,2015-08-21,6210.0,1.0,29.8,clear
+694,Bengal Gram(Gram),Naugarh,2015-08-22,5075.0,3.5,31.8,clear
+695,Lentil(Masur),Naugarh,2015-08-22,6200.0,0.0,31.8,clear
+696,Bengal Gram(Gram),Naugarh,2015-08-24,5050.0,5.5,33.0,clear
+697,Lentil(Masur),Naugarh,2015-08-24,6215.0,1.5,33.0,clear
+698,Bengal Gram(Gram),Naugarh,2015-08-25,5040.0,2.5,32.6,clear
+699,Lentil(Masur),Naugarh,2015-08-25,6220.0,1.2,32.6,clear
+700,Bengal Gram(Gram),Naugarh,2015-08-31,5045.0,3.0,33.6,rain
+701,Lentil(Masur),Naugarh,2015-08-31,6215.0,0.5,33.6,rain
+702,Bengal Gram(Gram),Naugarh,2015-01-09,5060.0,2.0,13.4,clear
+703,Lentil(Masur),Naugarh,2015-01-09,6220.0,1.0,13.4,clear
+704,Bengal Gram(Gram),Naugarh,2015-02-09,5040.0,1.0,24.0,clear
+705,Lentil(Masur),Naugarh,2015-02-09,6020.0,1.0,24.0,clear
+706,Bengal Gram(Gram),Naugarh,2015-03-09,5050.0,2.0,31.2,clear
+707,Lentil(Masur),Naugarh,2015-03-09,6200.0,1.0,31.2,clear
+708,Bengal Gram(Gram),Naugarh,2015-04-09,5020.0,3.0,34.6,clear
+709,Lentil(Masur),Naugarh,2015-04-09,6150.0,1.0,34.6,clear
+710,Bengal Gram(Gram),Naugarh,2015-05-09,5030.0,2.0,36.2,clear
+711,Lentil(Masur),Naugarh,2015-05-09,6150.0,0.0,36.2,clear
+712,Bengal Gram(Gram),Naugarh,2015-07-09,5020.0,4.0,33.2,clear
+713,Lentil(Masur),Naugarh,2015-07-09,6125.0,4.0,33.2,clear
+714,Bengal Gram(Gram),Naugarh,2015-08-09,5030.0,3.5,34.2,clear
+715,Lentil(Masur),Naugarh,2015-08-09,6100.0,0.0,34.2,clear
+716,Bengal Gram(Gram),Naugarh,2015-09-09,5050.0,4.0,34.2,clear
+717,Bengal Gram(Gram),Naugarh,2015-10-09,5065.0,2.0,34.8,clear
+718,Lentil(Masur),Naugarh,2015-10-09,6050.0,0.8,34.8,clear
+719,Bengal Gram(Gram),Naugarh,2015-11-09,5040.0,1.5,31.0,clear
+720,Lentil(Masur),Naugarh,2015-11-09,6060.0,0.8,31.0,clear
+721,Bengal Gram(Gram),Naugarh,2015-12-09,5070.0,3.0,20.0,clear
+722,Lentil(Masur),Naugarh,2015-12-09,6000.0,2.0,20.0,clear
+723,Bengal Gram(Gram),Naugarh,2015-09-14,5075.0,2.0,32.8,clear
+724,Lentil(Masur),Naugarh,2015-09-14,6100.0,1.0,32.8,clear
+725,Bengal Gram(Gram),Naugarh,2015-09-19,4960.0,2.0,35.4,clear
+726,Lentil(Masur),Naugarh,2015-09-19,6100.0,1.0,35.4,clear
+727,Bengal Gram(Gram),Naugarh,2015-09-21,4950.0,2.5,31.8,clear
+728,Lentil(Masur),Naugarh,2015-09-21,6200.0,1.5,31.8,clear
+729,Bengal Gram(Gram),Naugarh,2015-09-22,4935.0,2.0,32.8,clear
+730,Lentil(Masur),Naugarh,2015-09-22,6600.0,1.0,32.8,clear
+731,Bengal Gram(Gram),Naugarh,2015-09-23,5000.0,1.0,34.0,clear
+732,Bengal Gram(Gram),Naugarh,2015-09-24,5000.0,2.0,33.2,clear
+733,Lentil(Masur),Naugarh,2015-09-24,6625.0,1.0,33.2,clear
+734,Bengal Gram(Gram),Naugarh,2015-09-25,4950.0,3.0,33.4,clear
+735,Lentil(Masur),Naugarh,2015-09-25,6650.0,1.0,33.4,clear
+736,Bengal Gram(Gram),Naugarh,2015-09-26,4925.0,3.0,33.2,clear
+737,Bengal Gram(Gram),Soharatgarh,2015-09-26,4900.0,2.5,33.2,clear
+738,Lentil(Masur),Soharatgarh,2015-09-26,6650.0,1.0,33.2,clear
+739,Bengal Gram(Gram),Naugarh,2015-09-28,4950.0,2.0,33.6,clear
+740,Bengal Gram(Gram),Wansi,2015-09-28,4900.0,1.0,33.6,clear
+741,Lentil(Masur),Naugarh,2015-09-28,6650.0,1.5,33.6,clear
+742,Lentil(Masur),Wansi,2015-09-28,6660.0,1.0,33.6,clear
+743,Bengal Gram(Gram),Naugarh,2015-09-29,4910.0,1.5,34.0,clear
+744,Lentil(Masur),Naugarh,2015-09-29,6670.0,1.5,34.0,clear
+745,Bengal Gram(Gram),Naugarh,2015-01-10,4900.0,2.0,11.8,clear
+746,Lentil(Masur),Naugarh,2015-01-10,6600.0,1.0,11.8,clear
+747,Bengal Gram(Gram),Naugarh,2015-02-10,4910.0,1.5,25.0,clear
+748,Lentil(Masur),Naugarh,2015-02-10,6610.0,1.5,25.0,clear
+749,Bengal Gram(Gram),Naugarh,2015-03-10,4900.0,2.0,29.2,clear
+750,Lentil(Masur),Naugarh,2015-03-10,6600.0,1.0,29.2,clear
+751,Bengal Gram(Gram),Naugarh,2015-05-10,4850.0,2.0,37.4,clear
+752,Lentil(Masur),Naugarh,2015-05-10,6600.0,0.0,37.4,clear
+753,Bengal Gram(Gram),Naugarh,2015-06-10,4850.0,2.0,41.0,clear
+754,Lentil(Masur),Naugarh,2015-06-10,6600.0,1.5,41.0,clear
+755,Bengal Gram(Gram),Naugarh,2015-07-10,4800.0,2.5,31.8,clear
+756,Lentil(Masur),Naugarh,2015-07-10,6600.0,0.0,31.8,clear
+757,Bengal Gram(Gram),Naugarh,2015-08-10,4810.0,2.0,35.4,clear
+758,Lentil(Masur),Naugarh,2015-08-10,6500.0,0.0,35.4,clear
+759,Bengal Gram(Gram),Naugarh,2015-09-10,4815.0,1.5,34.0,clear
+760,Lentil(Masur),Naugarh,2015-09-10,6550.0,1.0,34.0,clear
+761,Bengal Gram(Gram),Naugarh,2015-10-10,4800.0,1.0,35.0,clear
+762,Lentil(Masur),Naugarh,2015-10-10,6560.0,1.5,35.0,clear
+763,Bengal Gram(Gram),Naugarh,2015-12-10,4800.0,2.0,20.2,clear
+764,Lentil(Masur),Naugarh,2015-12-10,6560.0,2.0,20.2,clear
+765,Bengal Gram(Gram),Naugarh,2015-10-13,4800.0,1.0,31.6,clear
+766,Lentil(Masur),Naugarh,2015-10-13,6550.0,1.0,31.6,clear
+767,Bengal Gram(Gram),Naugarh,2015-10-14,4800.0,1.5,32.8,clear
+768,Lentil(Masur),Naugarh,2015-10-14,6550.0,1.5,32.8,clear
+769,Bengal Gram(Gram),Naugarh,2015-10-15,4810.0,2.0,32.0,clear
+770,Lentil(Masur),Naugarh,2015-10-15,6575.0,1.0,32.0,clear
+771,Bengal Gram(Gram),Naugarh,2015-10-16,4850.0,3.0,32.4,clear
+772,Lentil(Masur),Naugarh,2015-10-16,6575.0,1.5,32.4,clear
+773,Bengal Gram(Gram),Naugarh,2015-10-17,4900.0,2.5,31.8,clear
+774,Lentil(Masur),Naugarh,2015-10-17,6580.0,1.0,31.8,clear
+775,Bengal Gram(Gram),Naugarh,2015-10-19,5000.0,3.0,33.8,clear
+776,Lentil(Masur),Naugarh,2015-10-19,6600.0,1.5,33.8,clear
+777,Bengal Gram(Gram),Naugarh,2015-10-20,5050.0,2.5,32.2,clear
+778,Bengal Gram(Gram),Wansi,2015-10-20,5200.0,2.0,32.2,clear
+779,Lentil(Masur),Naugarh,2015-10-20,6650.0,1.0,32.2,clear
+780,Lentil(Masur),Wansi,2015-10-20,6700.0,2.0,32.2,clear
+781,Bengal Gram(Gram),Naugarh,2015-10-21,5100.0,2.0,32.2,clear
+782,Lentil(Masur),Naugarh,2015-10-21,6650.0,1.5,32.2,clear
+783,Bengal Gram(Gram),Naugarh,2015-10-22,5100.0,2.5,33.4,clear
+784,Bengal Gram(Gram),Soharatgarh,2015-10-22,5100.0,2.0,33.4,clear
+785,Lentil(Masur),Naugarh,2015-10-22,6650.0,1.0,33.4,clear
+786,Bengal Gram(Gram),Naugarh,2015-10-23,5100.0,3.0,32.2,clear
+787,Lentil(Masur),Naugarh,2015-10-23,6700.0,1.2,32.2,clear
+788,Bengal Gram(Gram),Naugarh,2015-10-24,5100.0,2.5,31.8,clear
+789,Lentil(Masur),Naugarh,2015-10-24,6700.0,1.0,31.8,clear
+790,Bengal Gram(Gram),Naugarh,2015-10-26,5125.0,3.0,31.8,clear
+791,Lentil(Masur),Naugarh,2015-10-26,6700.0,1.5,31.8,clear
+792,Bengal Gram(Gram),Naugarh,2015-10-27,5130.0,2.0,32.0,clear
+793,Lentil(Masur),Naugarh,2015-10-27,6700.0,1.2,32.0,clear
+794,Bengal Gram(Gram),Naugarh,2015-10-28,5200.0,1.0,31.0,clear
+795,Bengal Gram(Gram),Wansi,2015-10-28,5150.0,3.0,31.0,clear
+796,Lentil(Masur),Naugarh,2015-10-28,6700.0,1.0,31.0,clear
+797,Lentil(Masur),Wansi,2015-10-28,6710.0,1.0,31.0,clear
+798,Bengal Gram(Gram),Naugarh,2015-10-29,5200.0,1.2,22.2,clear
+799,Bengal Gram(Gram),Soharatgarh,2015-10-29,5175.0,1.0,22.2,clear
+800,Lentil(Masur),Naugarh,2015-10-29,6700.0,2.0,22.2,clear
+801,Lentil(Masur),Soharatgarh,2015-10-29,6700.0,1.5,22.2,clear
+802,Bengal Gram(Gram),Naugarh,2015-10-30,5200.0,1.5,29.8,clear
+803,Lentil(Masur),Naugarh,2015-10-30,6700.0,0.0,29.8,clear
+804,Bengal Gram(Gram),Naugarh,2015-02-11,5225.0,1.5,21.6,clear
+805,Lentil(Masur),Naugarh,2015-02-11,6720.0,1.5,21.6,clear
+806,Bengal Gram(Gram),Naugarh,2015-03-11,5250.0,1.0,27.8,clear
+807,Lentil(Masur),Naugarh,2015-03-11,6750.0,1.0,27.8,clear
+808,Bengal Gram(Gram),Naugarh,2015-04-11,5250.0,1.5,36.4,clear
+809,Lentil(Masur),Naugarh,2015-04-11,6775.0,1.2,36.4,clear
+810,Bengal Gram(Gram),Naugarh,2015-05-11,5200.0,2.5,37.6,clear
+811,Lentil(Masur),Naugarh,2015-05-11,6780.0,1.0,37.6,clear
+812,Bengal Gram(Gram),Naugarh,2015-06-11,5230.0,2.0,36.4,clear
+813,Lentil(Masur),Naugarh,2015-06-11,6800.0,2.0,36.4,clear
+814,Bengal Gram(Gram),Naugarh,2015-07-11,5235.0,2.5,29.8,clear
+815,Lentil(Masur),Naugarh,2015-07-11,6800.0,1.0,29.8,clear
+816,Bengal Gram(Gram),Naugarh,2015-09-11,5250.0,3.0,33.2,clear
+817,Lentil(Masur),Naugarh,2015-09-11,6800.0,1.5,33.2,clear
+818,Bengal Gram(Gram),Naugarh,2015-10-11,5260.0,2.0,33.4,clear
+819,Lentil(Masur),Naugarh,2015-10-11,6800.0,1.2,33.4,clear
+820,Bengal Gram(Gram),Naugarh,2015-11-11,5260.0,1.0,30.2,clear
+821,Lentil(Masur),Naugarh,2015-11-11,6800.0,1.0,30.2,clear
+822,Bengal Gram(Gram),Naugarh,2015-12-11,5265.0,15.0,21.0,clear
+823,Lentil(Masur),Naugarh,2015-12-11,6810.0,1.5,21.0,clear
+824,Bengal Gram(Gram),Naugarh,2015-11-13,5260.0,2.0,29.4,clear
+825,Lentil(Masur),Naugarh,2015-11-13,6800.0,1.5,29.4,clear
+826,Bengal Gram(Gram),Naugarh,2015-11-14,5265.0,1.0,29.2,clear
+827,Lentil(Masur),Naugarh,2015-11-14,6815.0,0.0,29.2,clear
+828,Bengal Gram(Gram),Naugarh,2015-11-16,5270.0,1.5,29.8,clear
+829,Lentil(Masur),Naugarh,2015-11-16,6820.0,1.0,29.8,clear
+830,Bengal Gram(Gram),Naugarh,2015-11-17,5275.0,1.0,28.4,clear
+831,Lentil(Masur),Naugarh,2015-11-17,6825.0,1.5,28.4,clear
+832,Bengal Gram(Gram),Naugarh,2015-11-18,5275.0,1.5,26.2,clear
+833,Bengal Gram(Gram),Soharatgarh,2015-11-18,5280.0,1.8,26.2,clear
+834,Lentil(Masur),Naugarh,2015-11-18,6825.0,1.0,26.2,clear
+835,Lentil(Masur),Soharatgarh,2015-11-18,6850.0,2.0,26.2,clear
+836,Bengal Gram(Gram),Naugarh,2015-11-19,5270.0,2.0,26.8,clear
+837,Lentil(Masur),Naugarh,2015-11-19,6900.0,1.5,26.8,clear
+838,Bengal Gram(Gram),Naugarh,2015-11-20,5270.0,3.0,28.2,clear
+839,Bengal Gram(Gram),Wansi,2015-11-20,5280.0,3.0,28.2,clear
+840,Lentil(Masur),Naugarh,2015-11-20,6900.0,1.0,28.2,clear
+841,Lentil(Masur),Wansi,2015-11-20,6875.0,3.0,28.2,clear
+842,Bengal Gram(Gram),Naugarh,2015-11-21,5275.0,1.0,29.0,clear
+843,Lentil(Masur),Naugarh,2015-11-21,6850.0,0.0,29.0,clear
+844,Bengal Gram(Gram),Naugarh,2015-11-23,5300.0,2.0,29.0,clear
+845,Lentil(Masur),Naugarh,2015-11-23,6880.0,1.0,29.0,clear
+846,Bengal Gram(Gram),Naugarh,2015-11-24,5300.0,2.5,28.8,clear
+847,Bengal Gram(Gram),Soharatgarh,2015-11-24,5300.0,2.0,28.8,clear
+848,Lentil(Masur),Naugarh,2015-11-24,6885.0,1.5,28.8,clear
+849,Lentil(Masur),Soharatgarh,2015-11-24,6900.0,1.0,28.8,clear
+850,Bengal Gram(Gram),Naugarh,2015-11-25,5290.0,2.0,28.2,clear
+851,Lentil(Masur),Naugarh,2015-11-25,6900.0,2.0,28.2,clear
+852,Bengal Gram(Gram),Naugarh,2015-11-26,5295.0,1.0,27.8,clear
+853,Lentil(Masur),Naugarh,2015-11-26,6900.0,1.5,27.8,clear
+854,Bengal Gram(Gram),Naugarh,2015-11-27,5290.0,1.2,26.6,clear
+855,Lentil(Masur),Naugarh,2015-11-27,6910.0,0.0,26.6,clear
+856,Bengal Gram(Gram),Naugarh,2015-11-28,5295.0,1.0,26.4,clear
+857,Lentil(Masur),Naugarh,2015-11-28,6900.0,1.0,26.4,clear
+858,Bengal Gram(Gram),Naugarh,2015-11-30,5300.0,1.5,28.2,clear
+859,Bengal Gram(Gram),Wansi,2015-11-30,5300.0,3.0,28.2,clear
+860,Lentil(Masur),Naugarh,2015-11-30,6900.0,1.5,28.2,clear
+861,Lentil(Masur),Wansi,2015-11-30,6900.0,1.0,28.2,clear
+862,Bengal Gram(Gram),Naugarh,2015-01-12,5310.0,2.0,15.6,clear
+863,Lentil(Masur),Naugarh,2015-01-12,6875.0,1.5,15.6,clear
+864,Bengal Gram(Gram),Naugarh,2015-02-12,5325.0,1.5,24.0,clear
+865,Lentil(Masur),Naugarh,2015-02-12,6900.0,1.0,24.0,clear
+866,Bengal Gram(Gram),Naugarh,2015-03-12,5350.0,1.0,28.0,clear
+867,Lentil(Masur),Naugarh,2015-03-12,6900.0,0.0,28.0,clear
+868,Bengal Gram(Gram),Naugarh,2015-04-12,5350.0,2.0,29.8,clear
+869,Lentil(Masur),Naugarh,2015-04-12,6800.0,1.0,29.8,clear
+870,Bengal Gram(Gram),Naugarh,2015-05-12,5340.0,1.5,32.6,clear
+871,Lentil(Masur),Naugarh,2015-05-12,6800.0,1.2,32.6,clear
+872,Bengal Gram(Gram),Naugarh,2015-07-12,5340.0,2.0,33.0,clear
+873,Lentil(Masur),Naugarh,2015-07-12,6800.0,1.0,33.0,clear
+874,Bengal Gram(Gram),Naugarh,2015-08-12,5340.0,1.0,33.8,rain
+875,Lentil(Masur),Naugarh,2015-08-12,6800.0,0.0,33.8,rain
+876,Bengal Gram(Gram),Naugarh,2015-09-12,5340.0,1.5,30.4,clear
+877,Lentil(Masur),Naugarh,2015-09-12,6790.0,1.0,30.4,clear
+878,Bengal Gram(Gram),Naugarh,2015-10-12,5350.0,2.5,26.8,clear
+879,Lentil(Masur),Naugarh,2015-10-12,6780.0,0.0,26.8,clear
+880,Bengal Gram(Gram),Naugarh,2015-11-12,5345.0,2.0,30.0,clear
+881,Lentil(Masur),Naugarh,2015-11-12,6775.0,1.0,30.0,clear
+882,Bengal Gram(Gram),Naugarh,2015-12-12,5350.0,1.0,23.8,clear
+883,Lentil(Masur),Naugarh,2015-12-12,6775.0,1.5,23.8,clear
+884,Bengal Gram(Gram),Naugarh,2015-12-14,5340.0,1.5,21.0,clear
+885,Lentil(Masur),Naugarh,2015-12-14,6780.0,1.0,21.0,clear
+886,Bengal Gram(Gram),Naugarh,2015-12-15,5350.0,2.5,17.8,clear
+887,Lentil(Masur),Naugarh,2015-12-15,6800.0,1.2,17.8,clear
+888,Bengal Gram(Gram),Naugarh,2015-12-18,5350.0,2.5,22.0,clear
+889,Lentil(Masur),Naugarh,2015-12-18,6800.0,0.0,22.0,clear
+890,Bengal Gram(Gram),Naugarh,2015-12-19,5350.0,2.0,23.4,clear
+891,Lentil(Masur),Naugarh,2015-12-19,6810.0,1.0,23.4,clear
+892,Bengal Gram(Gram),Naugarh,2015-12-21,5360.0,3.0,21.8,clear
+893,Lentil(Masur),Naugarh,2015-12-21,6800.0,0.0,21.8,clear
+894,Bengal Gram(Gram),Naugarh,2015-12-22,5375.0,1.0,22.4,clear
+895,Lentil(Masur),Naugarh,2015-12-22,6800.0,1.0,22.4,clear
+896,Bengal Gram(Gram),Naugarh,2015-12-23,5370.0,1.5,21.8,clear
+897,Bengal Gram(Gram),Wansi,2015-12-23,5385.0,2.0,21.8,clear
+898,Lentil(Masur),Naugarh,2015-12-23,6800.0,0.0,21.8,clear
+899,Lentil(Masur),Wansi,2015-12-23,6800.0,2.0,21.8,clear
+900,Bengal Gram(Gram),Naugarh,2015-12-24,5375.0,1.0,21.6,clear
+901,Lentil(Masur),Naugarh,2015-12-24,6800.0,1.2,21.6,clear
+902,Bengal Gram(Gram),Naugarh,2015-12-25,5380.0,2.0,22.2,clear
+903,Lentil(Masur),Naugarh,2015-12-25,6810.0,2.0,22.2,clear
+904,Bengal Gram(Gram),Naugarh,2015-12-26,5385.0,3.0,21.6,clear
+905,Lentil(Masur),Naugarh,2015-12-26,6810.0,1.5,21.6,clear
+906,Bengal Gram(Gram),Naugarh,2015-12-28,5380.0,1.0,24.0,clear
+907,Lentil(Masur),Naugarh,2015-12-28,6800.0,0.0,24.0,clear
+908,Bengal Gram(Gram),Naugarh,2015-12-30,5380.0,2.0,23.2,clear
+909,Bengal Gram(Gram),Wansi,2015-12-30,5380.0,1.2,23.2,clear
+910,Lentil(Masur),Naugarh,2015-12-30,6800.0,1.0,23.2,clear
+911,Lentil(Masur),Wansi,2015-12-30,6805.0,1.5,23.2,clear
+912,Bengal Gram(Gram),Soharatgarh,2015-01-17,3550.0,6.0,13.6,clear
+913,Lentil(Masur),Soharatgarh,2015-01-17,5050.0,1.5,13.6,clear
+914,Bengal Gram(Gram),Soharatgarh,2015-07-16,5050.0,1.0,27.4,clear
+915,Lentil(Masur),Soharatgarh,2015-07-16,6100.0,1.2,27.4,clear
+916,Bengal Gram(Gram),Soharatgarh,2015-08-26,5040.0,2.0,32.6,clear
+917,Bengal Gram(Gram),Soharatgarh,2015-08-30,5040.0,2.0,32.0,clear
+918,Lentil(Masur),Soharatgarh,2015-08-30,6220.0,1.0,32.0,clear
+919,Bengal Gram(Gram),Soharatgarh,2015-09-15,5000.0,1.5,32.4,clear
+920,Bengal Gram(Gram),Soharatgarh,2015-12-31,5390.0,2.0,24.0,clear
+921,Lentil(Masur),Soharatgarh,2015-12-31,6800.0,0.5,24.0,clear
+922,Bengal Gram(Gram),Wansi,2015-07-15,5030.0,1.5,34.6,rain
+923,Lentil(Masur),Wansi,2015-07-15,6100.0,1.0,34.6,rain
+924,Bengal Gram(Gram),Wansi,2015-08-27,5050.0,1.5,30.6,clear
+925,Lentil(Masur),Wansi,2015-08-27,6226.0,1.5,30.6,clear
+926,Bengal Gram(Gram),Wansi,2015-09-16,4950.0,3.0,31.8,clear
+927,Lentil(Masur),Wansi,2015-09-16,6150.0,1.0,31.8,clear
+928,Bengal Gram(Gram),Naugarh,2016-01-01,5390.0,2.5,23.8,clear
+929,Lentil(Masur),Naugarh,2016-01-01,6800.0,1.0,23.8,clear
+930,Bengal Gram(Gram),Naugarh,2016-02-01,5380.0,2.0,23.6,clear
+931,Lentil(Masur),Naugarh,2016-02-01,6800.0,0.0,23.6,clear
+932,Bengal Gram(Gram),Naugarh,2016-03-01,5385.0,3.0,30.4,clear
+933,Lentil(Masur),Naugarh,2016-03-01,6825.0,0.5,30.4,clear
+934,Bengal Gram(Gram),Naugarh,2016-04-01,5385.0,3.0,33.8,clear
+935,Lentil(Masur),Naugarh,2016-04-01,6825.0,0.5,33.8,clear
+936,Bengal Gram(Gram),Naugarh,2016-05-01,5400.0,2.5,39.0,clear
+937,Lentil(Masur),Naugarh,2016-05-01,6825.0,0.0,39.0,clear
+938,Bengal Gram(Gram),Naugarh,2016-06-01,5400.0,2.0,33.4,clear
+939,Lentil(Masur),Naugarh,2016-06-01,6820.0,1.0,33.4,clear
+940,Bengal Gram(Gram),Naugarh,2016-07-01,5410.0,3.0,32.4,clear
+941,Lentil(Masur),Naugarh,2016-07-01,6800.0,0.5,32.4,clear
+942,Bengal Gram(Gram),Naugarh,2016-08-01,5425.0,2.5,31.6,clear
+943,Lentil(Masur),Naugarh,2016-08-01,6825.0,1.0,31.6,clear
+944,Bengal Gram(Gram),Naugarh,2016-09-01,5425.0,0.0,34.0,clear
+945,Lentil(Masur),Naugarh,2016-09-01,6825.0,1.2,34.0,clear
+946,Bengal Gram(Gram),Naugarh,2016-11-01,5420.0,3.5,31.2,clear
+947,Lentil(Masur),Naugarh,2016-11-01,6825.0,1.5,31.2,clear
+948,Bengal Gram(Gram),Naugarh,2016-01-13,5430.0,4.5,23.0,clear
+949,Lentil(Masur),Naugarh,2016-01-13,6830.0,0.0,23.0,clear
+950,Bengal Gram(Gram),Naugarh,2016-01-14,5400.0,2.0,24.0,clear
+951,Lentil(Masur),Naugarh,2016-01-14,6825.0,1.0,24.0,clear
+952,Bengal Gram(Gram),Naugarh,2016-01-15,5400.0,1.5,24.0,clear
+953,Lentil(Masur),Naugarh,2016-01-15,6825.0,0.0,24.0,clear
+954,Bengal Gram(Gram),Naugarh,2016-01-16,5410.0,2.0,20.4,clear
+955,Lentil(Masur),Naugarh,2016-01-16,6820.0,1.0,20.4,clear
+956,Bengal Gram(Gram),Naugarh,2016-01-18,5420.0,2.5,21.8,clear
+957,Lentil(Masur),Naugarh,2016-01-18,6825.0,1.5,21.8,clear
+958,Bengal Gram(Gram),Naugarh,2016-01-21,5415.0,3.5,13.4,clear
+959,Lentil(Masur),Naugarh,2016-01-21,6825.0,1.0,13.4,clear
+960,Bengal Gram(Gram),Naugarh,2016-01-22,5420.0,3.0,13.0,clear
+961,Lentil(Masur),Naugarh,2016-01-22,6825.0,0.0,13.0,clear
+962,Bengal Gram(Gram),Naugarh,2016-01-23,5425.0,2.0,16.0,clear
+963,Lentil(Masur),Naugarh,2016-01-23,6800.0,0.0,16.0,clear
+964,Bengal Gram(Gram),Naugarh,2016-01-27,5430.0,1.5,21.4,clear
+965,Lentil(Masur),Naugarh,2016-01-27,6800.0,1.5,21.4,clear
+966,Bengal Gram(Gram),Naugarh,2016-01-28,5400.0,2.0,20.8,clear
+967,Lentil(Masur),Naugarh,2016-01-28,6800.0,0.0,20.8,clear
+968,Bengal Gram(Gram),Naugarh,2016-01-29,5420.0,2.0,21.0,clear
+969,Bengal Gram(Gram),Soharatgarh,2016-01-29,5410.0,1.5,21.0,clear
+970,Lentil(Masur),Naugarh,2016-01-29,6800.0,1.0,21.0,clear
+971,Lentil(Masur),Soharatgarh,2016-01-29,6815.0,0.5,21.0,clear
+972,Bengal Gram(Gram),Naugarh,2016-01-30,5425.0,2.0,23.6,clear
+973,Bengal Gram(Gram),Wansi,2016-01-30,5425.0,3.0,23.6,clear
+974,Lentil(Masur),Naugarh,2016-01-30,6810.0,1.5,23.6,clear
+975,Lentil(Masur),Wansi,2016-01-30,6810.0,1.5,23.6,clear
+976,Bengal Gram(Gram),Naugarh,2016-02-02,5450.0,0.0,24.8,clear
+977,Lentil(Masur),Naugarh,2016-02-02,6800.0,0.0,24.8,clear
+978,Bengal Gram(Gram),Naugarh,2016-03-02,5450.0,2.0,31.4,clear
+979,Lentil(Masur),Naugarh,2016-03-02,6850.0,1.0,31.4,clear
+980,Bengal Gram(Gram),Naugarh,2016-04-02,5475.0,3.5,33.4,clear
+981,Lentil(Masur),Naugarh,2016-04-02,6860.0,0.0,33.4,clear
+982,Bengal Gram(Gram),Naugarh,2016-05-02,5475.0,2.5,36.2,clear
+983,Lentil(Masur),Naugarh,2016-05-02,6875.0,0.5,36.2,clear
+984,Bengal Gram(Gram),Naugarh,2016-06-02,5470.0,3.0,34.4,clear
+985,Lentil(Masur),Naugarh,2016-06-02,6870.0,1.0,34.4,clear
+986,Bengal Gram(Gram),Naugarh,2016-08-02,5460.0,3.5,33.4,clear
+987,Lentil(Masur),Naugarh,2016-08-02,6875.0,1.5,33.4,clear
+988,Bengal Gram(Gram),Naugarh,2016-10-02,5475.0,2.0,34.0,clear
+989,Lentil(Masur),Naugarh,2016-10-02,6870.0,0.0,34.0,clear
+990,Bengal Gram(Gram),Naugarh,2016-11-02,5480.0,1.5,31.8,clear
+991,Lentil(Masur),Naugarh,2016-11-02,6850.0,0.0,31.8,clear
+992,Bengal Gram(Gram),Naugarh,2016-12-02,5480.0,3.0,26.0,clear
+993,Lentil(Masur),Naugarh,2016-12-02,6850.0,0.5,26.0,clear
+994,Bengal Gram(Gram),Naugarh,2016-02-13,5475.0,0.0,28.2,clear
+995,Lentil(Masur),Naugarh,2016-02-13,6800.0,0.0,28.2,clear
+996,Bengal Gram(Gram),Naugarh,2016-02-15,5450.0,6.0,28.6,clear
+997,Bengal Gram(Gram),Wansi,2016-02-15,5450.0,5.0,28.6,clear
+998,Lentil(Masur),Naugarh,2016-02-15,6825.0,1.0,28.6,clear
+999,Lentil(Masur),Wansi,2016-02-15,6825.0,1.0,28.6,clear
+1000,Bengal Gram(Gram),Naugarh,2016-02-16,5450.0,5.5,27.0,clear
+1001,Bengal Gram(Gram),Soharatgarh,2016-02-16,5450.0,5.5,27.0,clear
+1002,Lentil(Masur),Naugarh,2016-02-16,6800.0,0.0,27.0,clear
+1003,Lentil(Masur),Soharatgarh,2016-02-16,6800.0,1.0,27.0,clear
+1004,Bengal Gram(Gram),Naugarh,2016-02-17,5440.0,2.5,29.4,clear
+1005,Lentil(Masur),Naugarh,2016-02-17,6810.0,1.0,29.4,clear
+1006,Bengal Gram(Gram),Naugarh,2016-02-18,5440.0,2.0,30.4,clear
+1007,Lentil(Masur),Naugarh,2016-02-18,6815.0,0.0,30.4,clear
+1008,Bengal Gram(Gram),Naugarh,2016-02-19,5400.0,3.0,30.6,clear
+1009,Lentil(Masur),Naugarh,2016-02-19,6800.0,0.5,30.6,clear
+1010,Bengal Gram(Gram),Naugarh,2016-02-20,5410.0,4.5,26.0,clear
+1011,Lentil(Masur),Naugarh,2016-02-20,6800.0,0.0,26.0,clear
+1012,Bengal Gram(Gram),Naugarh,2016-02-22,5415.0,1.0,27.0,clear
+1013,Lentil(Masur),Naugarh,2016-02-22,6800.0,11.0,27.0,clear
+1014,Bengal Gram(Gram),Naugarh,2016-02-23,5400.0,1.5,27.6,clear
+1015,Lentil(Masur),Naugarh,2016-02-23,6815.0,0.0,27.6,clear
+1016,Bengal Gram(Gram),Naugarh,2016-02-24,5410.0,2.0,28.0,clear
+1017,Lentil(Masur),Naugarh,2016-02-24,6820.0,1.0,28.0,clear
+1018,Bengal Gram(Gram),Naugarh,2016-02-27,5415.0,4.0,28.6,clear
+1019,Bengal Gram(Gram),Wansi,2016-02-27,5410.0,3.5,28.6,clear
+1020,Lentil(Masur),Naugarh,2016-02-27,6820.0,1.0,28.6,clear
+1021,Lentil(Masur),Wansi,2016-02-27,6820.0,0.8,28.6,clear
+1022,Bengal Gram(Gram),Naugarh,2016-02-29,5415.0,3.0,30.4,clear
+1023,Lentil(Masur),Naugarh,2016-02-29,6825.0,1.2,30.4,clear
+1024,Bengal Gram(Gram),Naugarh,2016-01-03,5400.0,2.5,24.8,clear
+1025,Lentil(Masur),Naugarh,2016-01-03,6815.0,0.0,24.8,clear
+1026,Bengal Gram(Gram),Naugarh,2016-02-03,5410.0,2.0,22.4,clear
+1027,Lentil(Masur),Naugarh,2016-02-03,6820.0,1.0,22.4,clear
+1028,Bengal Gram(Gram),Naugarh,2016-03-03,5420.0,1.5,31.4,clear
+1029,Lentil(Masur),Naugarh,2016-03-03,6825.0,0.0,31.4,clear
+1030,Bengal Gram(Gram),Naugarh,2016-04-03,5250.0,1.5,34.2,clear
+1031,Lentil(Masur),Naugarh,2016-04-03,6800.0,1.0,34.2,clear
+1032,Bengal Gram(Gram),Naugarh,2016-05-03,5250.0,2.0,36.2,clear
+1033,Lentil(Masur),Naugarh,2016-05-03,6815.0,0.0,36.2,clear
+1034,Bengal Gram(Gram),Naugarh,2016-07-03,5200.0,3.0,33.6,rain
+1035,Lentil(Masur),Naugarh,2016-07-03,6800.0,0.0,33.6,rain
+1036,Bengal Gram(Gram),Naugarh,2016-08-03,5200.0,4.0,33.0,clear
+1037,Lentil(Masur),Naugarh,2016-08-03,6800.0,1.0,33.0,clear
+1038,Bengal Gram(Gram),Naugarh,2016-09-03,5100.0,2.5,32.8,clear
+1039,Lentil(Masur),Naugarh,2016-09-03,6700.0,0.5,32.8,clear
+1040,Bengal Gram(Gram),Naugarh,2016-10-03,5050.0,2.0,34.6,clear
+1041,Lentil(Masur),Naugarh,2016-10-03,6700.0,1.0,34.6,clear
+1042,Bengal Gram(Gram),Naugarh,2016-11-03,5050.0,3.0,32.0,clear
+1043,Lentil(Masur),Naugarh,2016-11-03,6700.0,0.0,32.0,clear
+1044,Bengal Gram(Gram),Naugarh,2016-12-03,5060.0,2.0,20.4,clear
+1045,Lentil(Masur),Naugarh,2016-12-03,6700.0,1.0,20.4,clear
+1046,Bengal Gram(Gram),Naugarh,2016-03-14,5060.0,3.5,29.0,rain
+1047,Lentil(Masur),Naugarh,2016-03-14,6700.0,0.8,29.0,rain
+1048,Bengal Gram(Gram),Naugarh,2016-03-15,5070.0,6.0,29.0,clear
+1049,Bengal Gram(Gram),Soharatgarh,2016-03-15,5075.0,5.0,29.0,clear
+1050,Lentil(Masur),Naugarh,2016-03-15,6650.0,1.0,29.0,clear
+1051,Lentil(Masur),Soharatgarh,2016-03-15,6650.0,1.0,29.0,clear
+1052,Bengal Gram(Gram),Naugarh,2016-03-16,5080.0,5.0,30.8,clear
+1053,Bengal Gram(Gram),Wansi,2016-03-16,5080.0,4.5,30.8,clear
+1054,Lentil(Masur),Naugarh,2016-03-16,6625.0,1.2,30.8,clear
+1055,Lentil(Masur),Wansi,2016-03-16,6625.0,1.2,30.8,clear
+1056,Bengal Gram(Gram),Naugarh,2016-03-18,5000.0,5.0,33.0,clear
+1057,Lentil(Masur),Naugarh,2016-03-18,6600.0,1.5,33.0,clear
+1058,Bengal Gram(Gram),Naugarh,2016-03-19,5000.0,4.5,35.2,clear
+1059,Lentil(Masur),Naugarh,2016-03-19,6600.0,1.0,35.2,clear
+1060,Bengal Gram(Gram),Naugarh,2016-03-22,5025.0,3.0,31.2,clear
+1061,Lentil(Masur),Naugarh,2016-03-22,6500.0,1.0,31.2,clear
+1062,Bengal Gram(Gram),Naugarh,2016-03-23,5000.0,2.0,32.0,clear
+1063,Lentil(Masur),Naugarh,2016-03-23,6500.0,0.0,32.0,clear
+1064,Bengal Gram(Gram),Naugarh,2016-03-25,5000.0,0.0,34.0,clear
+1065,Lentil(Masur),Naugarh,2016-03-25,6500.0,0.0,34.0,clear
+1066,Bengal Gram(Gram),Naugarh,2016-03-26,5000.0,4.5,36.0,clear
+1067,Lentil(Masur),Naugarh,2016-03-26,6500.0,1.0,36.0,clear
+1068,Bengal Gram(Gram),Naugarh,2016-03-28,5025.0,2.5,36.2,clear
+1069,Bengal Gram(Gram),Wansi,2016-03-28,5025.0,3.0,36.2,clear
+1070,Lentil(Masur),Naugarh,2016-03-28,6400.0,1.5,36.2,clear
+1071,Lentil(Masur),Wansi,2016-03-28,6400.0,1.5,36.2,clear
+1072,Bengal Gram(Gram),Naugarh,2016-01-04,5100.0,3.0,23.8,clear
+1073,Lentil(Masur),Naugarh,2016-01-04,6400.0,1.5,23.8,clear
+1074,Lentil(Masur),Sahiyapur,2016-01-04,6800.0,0.0,23.8,clear
+1075,Bengal Gram(Gram),Naugarh,2016-02-04,5050.0,2.0,22.8,clear
+1076,Lentil(Masur),Naugarh,2016-02-04,6400.0,1.0,22.8,clear
+1077,Bengal Gram(Gram),Naugarh,2016-04-04,5000.0,3.0,36.0,clear
+1078,Lentil(Masur),Naugarh,2016-04-04,6400.0,1.5,36.0,clear
+1079,Bengal Gram(Gram),Naugarh,2016-05-04,5000.0,2.5,33.0,clear
+1080,Lentil(Masur),Naugarh,2016-05-04,6300.0,1.0,33.0,clear
+1081,Bengal Gram(Gram),Naugarh,2016-06-04,5000.0,3.5,36.4,clear
+1082,Lentil(Masur),Naugarh,2016-06-04,6100.0,1.5,36.4,clear
+1083,Bengal Gram(Gram),Naugarh,2016-07-04,5000.0,3.0,32.2,clear
+1084,Lentil(Masur),Naugarh,2016-07-04,6050.0,1.0,32.2,clear
+1085,Bengal Gram(Gram),Naugarh,2016-08-04,4990.0,2.0,34.2,clear
+1086,Lentil(Masur),Naugarh,2016-08-04,4990.0,2.0,34.2,clear
+1087,Bengal Gram(Gram),Naugarh,2016-09-04,5000.0,2.5,32.6,clear
+1088,Lentil(Masur),Naugarh,2016-09-04,6000.0,1.0,32.6,clear
+1089,Bengal Gram(Gram),Naugarh,2016-11-04,5010.0,3.0,31.0,clear
+1090,Lentil(Masur),Naugarh,2016-11-04,6000.0,1.2,31.0,clear
+1091,Bengal Gram(Gram),Naugarh,2016-12-04,5000.0,2.0,20.0,clear
+1092,Lentil(Masur),Naugarh,2016-12-04,6000.0,1.5,20.0,clear
+1093,Bengal Gram(Gram),Naugarh,2016-04-13,5000.0,1.5,38.0,clear
+1094,Lentil(Masur),Naugarh,2016-04-13,6050.0,0.8,38.0,clear
+1095,Bengal Gram(Gram),Naugarh,2016-04-14,5200.0,1.0,40.2,clear
+1096,Lentil(Masur),Naugarh,2016-04-14,6000.0,1.0,40.2,clear
+1097,Bengal Gram(Gram),Naugarh,2016-04-15,5400.0,1.5,41.0,clear
+1098,Lentil(Masur),Naugarh,2016-04-15,6025.0,1.5,41.0,clear
+1099,Bengal Gram(Gram),Naugarh,2016-04-16,5500.0,2.0,39.4,clear
+1100,Lentil(Masur),Naugarh,2016-04-16,6025.0,1.0,39.4,clear
+1101,Bengal Gram(Gram),Naugarh,2016-04-18,5550.0,3.0,38.0,clear
+1102,Bengal Gram(Gram),Wansi,2016-04-18,5550.0,3.0,38.0,clear
+1103,Lentil(Masur),Naugarh,2016-04-18,6000.0,1.2,38.0,clear
+1104,Lentil(Masur),Wansi,2016-04-18,6000.0,1.2,38.0,clear
+1105,Bengal Gram(Gram),Naugarh,2016-04-19,5550.0,2.5,41.0,clear
+1106,Lentil(Masur),Naugarh,2016-04-19,6050.0,1.0,41.0,clear
+1107,Bengal Gram(Gram),Naugarh,2016-04-20,5560.0,2.0,41.4,clear
+1108,Lentil(Masur),Naugarh,2016-04-20,6100.0,1.5,41.4,clear
+1109,Bengal Gram(Gram),Naugarh,2016-04-21,5560.0,1.5,40.0,clear
+1110,Lentil(Masur),Naugarh,2016-04-21,6100.0,0.0,40.0,clear
+1111,Bengal Gram(Gram),Naugarh,2016-04-22,5565.0,2.0,41.0,clear
+1112,Lentil(Masur),Naugarh,2016-04-22,6100.0,1.0,41.0,clear
+1113,Bengal Gram(Gram),Naugarh,2016-04-23,5560.0,2.5,40.2,clear
+1114,Lentil(Masur),Naugarh,2016-04-23,6100.0,2.0,40.2,clear
+1115,Bengal Gram(Gram),Naugarh,2016-04-25,5300.0,3.0,40.2,clear
+1116,Lentil(Masur),Naugarh,2016-04-25,6000.0,2.5,40.2,clear
+1117,Bengal Gram(Gram),Naugarh,2016-04-26,5275.0,2.0,41.8,clear
+1118,Lentil(Masur),Naugarh,2016-04-26,6000.0,2.2,41.8,clear
+1119,Bengal Gram(Gram),Naugarh,2016-04-27,5250.0,3.5,41.6,clear
+1120,Lentil(Masur),Naugarh,2016-04-27,6050.0,1.0,41.6,clear
+1121,Bengal Gram(Gram),Naugarh,2016-04-29,5270.0,3.0,42.0,clear
+1122,Bengal Gram(Gram),Soharatgarh,2016-04-29,6600.0,0.0,42.0,clear
+1123,Lentil(Masur),Naugarh,2016-04-29,6200.0,0.5,42.0,clear
+1124,Lentil(Masur),Soharatgarh,2016-04-29,6200.0,0.5,42.0,clear
+1125,Bengal Gram(Gram),Naugarh,2016-04-30,5300.0,2.0,40.8,clear
+1126,Lentil(Masur),Naugarh,2016-04-30,6250.0,0.0,40.8,clear
+1127,Bengal Gram(Gram),Naugarh,2016-02-05,5350.0,2.5,22.0,clear
+1128,Lentil(Masur),Naugarh,2016-02-05,6350.0,0.7,22.0,clear
+1129,Bengal Gram(Gram),Naugarh,2016-03-05,5350.0,2.0,32.6,clear
+1130,Lentil(Masur),Naugarh,2016-03-05,6350.0,1.0,32.6,clear
+1131,Bengal Gram(Gram),Naugarh,2016-04-05,5345.0,1.5,39.4,clear
+1132,Lentil(Masur),Naugarh,2016-04-05,6340.0,0.0,39.4,clear
+1133,Bengal Gram(Gram),Naugarh,2016-05-05,5340.0,2.5,35.6,clear
+1134,Lentil(Masur),Naugarh,2016-05-05,6340.0,0.8,35.6,clear
+1135,Bengal Gram(Gram),Naugarh,2016-06-05,5350.0,3.0,35.8,clear
+1136,Lentil(Masur),Naugarh,2016-06-05,6360.0,1.0,35.8,clear
+1137,Bengal Gram(Gram),Naugarh,2016-07-05,5350.0,3.0,30.0,clear
+1138,Lentil(Masur),Naugarh,2016-07-05,6350.0,0.8,30.0,clear
+1139,Bengal Gram(Gram),Naugarh,2016-09-05,5360.0,2.5,34.4,clear
+1140,Lentil(Masur),Naugarh,2016-09-05,6360.0,0.5,34.4,clear
+1141,Bengal Gram(Gram),Naugarh,2016-10-05,5350.0,3.0,33.0,clear
+1142,Lentil(Masur),Naugarh,2016-10-05,6360.0,1.0,33.0,clear
+1143,Bengal Gram(Gram),Naugarh,2016-11-05,5340.0,2.0,30.0,clear
+1144,Lentil(Masur),Naugarh,2016-11-05,6600.0,0.0,30.0,clear
+1145,Bengal Gram(Gram),Naugarh,2016-12-05,5400.0,3.5,20.2,clear
+1146,Lentil(Masur),Naugarh,2016-12-05,6700.0,0.5,20.2,clear
+1147,Bengal Gram(Gram),Naugarh,2016-05-13,5400.0,3.0,34.8,clear
+1148,Lentil(Masur),Naugarh,2016-05-13,6650.0,0.4,34.8,clear
+1149,Bengal Gram(Gram),Naugarh,2016-05-14,5410.0,2.0,34.4,clear
+1150,Lentil(Masur),Naugarh,2016-05-14,6600.0,0.0,34.4,clear
+1151,Bengal Gram(Gram),Naugarh,2016-05-16,5400.0,4.5,40.4,clear
+1152,Bengal Gram(Gram),Wansi,2016-05-16,5400.0,4.5,40.4,clear
+1153,Lentil(Masur),Naugarh,2016-05-16,6625.0,1.0,40.4,clear
+1154,Lentil(Masur),Wansi,2016-05-16,6625.0,1.0,40.4,clear
+1155,Bengal Gram(Gram),Naugarh,2016-05-17,5500.0,12.5,41.0,clear
+1156,Bengal Gram(Gram),Soharatgarh,2016-05-17,5450.0,3.5,41.0,clear
+1157,Lentil(Masur),Naugarh,2016-05-17,6600.0,0.8,41.0,clear
+1158,Lentil(Masur),Soharatgarh,2016-05-17,6625.0,1.5,41.0,clear
+1159,Bengal Gram(Gram),Naugarh,2016-05-18,5520.0,3.0,37.0,clear
+1160,Lentil(Masur),Naugarh,2016-05-18,6620.0,1.0,37.0,clear
+1161,Bengal Gram(Gram),Naugarh,2016-05-19,5575.0,2.0,36.4,clear
+1162,Lentil(Masur),Naugarh,2016-05-19,6650.0,0.8,36.4,clear
+1163,Bengal Gram(Gram),Naugarh,2016-05-20,5600.0,2.5,34.2,clear
+1164,Lentil(Masur),Naugarh,2016-05-20,6600.0,1.0,34.2,clear
+1165,Bengal Gram(Gram),Naugarh,2016-05-21,5600.0,3.0,28.6,clear
+1166,Lentil(Masur),Naugarh,2016-05-21,6650.0,0.8,28.6,clear
+1167,Bengal Gram(Gram),Naugarh,2016-05-23,5600.0,2.5,33.2,clear
+1168,Lentil(Masur),Naugarh,2016-05-23,6640.0,1.0,33.2,clear
+1169,Bengal Gram(Gram),Naugarh,2016-05-24,5625.0,2.0,36.4,clear
+1170,Lentil(Masur),Naugarh,2016-05-24,6600.0,0.0,36.4,clear
+1171,Bengal Gram(Gram),Naugarh,2016-05-25,5635.0,1.0,37.8,clear
+1172,Lentil(Masur),Naugarh,2016-05-25,6630.0,1.0,37.8,clear
+1173,Bengal Gram(Gram),Naugarh,2016-05-26,5650.0,1.5,35.8,clear
+1174,Lentil(Masur),Naugarh,2016-05-26,6625.0,0.8,35.8,clear
+1175,Bengal Gram(Gram),Naugarh,2016-05-27,5660.0,1.0,35.6,rain
+1176,Lentil(Masur),Naugarh,2016-05-27,6620.0,0.0,35.6,rain
+1177,Bengal Gram(Gram),Naugarh,2016-05-28,5670.0,1.5,30.6,clear
+1178,Bengal Gram(Gram),Soharatgarh,2016-05-28,5675.0,1.5,30.6,clear
+1179,Lentil(Masur),Naugarh,2016-05-28,6630.0,0.0,30.6,clear
+1180,Lentil(Masur),Soharatgarh,2016-05-28,6625.0,0.5,30.6,clear
+1181,Bengal Gram(Gram),Naugarh,2016-05-30,5674.0,1.0,33.0,clear
+1182,Bengal Gram(Gram),Wansi,2016-05-30,5670.0,2.5,33.0,clear
+1183,Lentil(Masur),Naugarh,2016-05-30,6635.0,0.5,33.0,clear
+1184,Lentil(Masur),Wansi,2016-05-30,6630.0,1.0,33.0,clear
+1185,Bengal Gram(Gram),Naugarh,2016-01-06,5750.0,1.5,24.0,clear
+1186,Lentil(Masur),Naugarh,2016-01-06,6600.0,0.5,24.0,clear
+1187,Bengal Gram(Gram),Naugarh,2016-02-06,5755.0,1.0,21.8,clear
+1188,Lentil(Masur),Naugarh,2016-02-06,6625.0,0.7,21.8,clear
+1189,Bengal Gram(Gram),Naugarh,2016-03-06,5760.0,2.0,30.0,clear
+1190,Lentil(Masur),Naugarh,2016-03-06,6630.0,0.8,30.0,clear
+1191,Bengal Gram(Gram),Naugarh,2016-04-06,5765.0,2.5,39.6,clear
+1192,Lentil(Masur),Naugarh,2016-04-06,6650.0,1.0,39.6,clear
+1193,Bengal Gram(Gram),Naugarh,2016-06-06,5850.0,2.0,37.0,rain
+1194,Lentil(Masur),Naugarh,2016-06-06,6875.0,0.5,37.0,rain
+1195,Bengal Gram(Gram),Naugarh,2016-07-06,5850.0,1.5,32.4,clear
+1196,Lentil(Masur),Naugarh,2016-07-06,6870.0,0.4,32.4,clear
+1197,Bengal Gram(Gram),Naugarh,2016-08-06,5855.0,2.0,33.4,clear
+1198,Lentil(Masur),Naugarh,2016-08-06,6875.0,0.5,33.4,clear
+1199,Bengal Gram(Gram),Naugarh,2016-09-06,5860.0,2.0,30.6,clear
+1200,Lentil(Masur),Naugarh,2016-09-06,6880.0,0.0,30.6,clear
+1201,Bengal Gram(Gram),Naugarh,2016-10-06,5865.0,2.5,31.4,clear
+1202,Lentil(Masur),Naugarh,2016-10-06,6880.0,0.5,31.4,clear
+1203,Bengal Gram(Gram),Naugarh,2016-11-06,5880.0,0.7,29.8,clear
+1204,Lentil(Masur),Naugarh,2016-11-06,6880.0,0.7,29.8,clear
+1205,Bengal Gram(Gram),Naugarh,2016-06-13,5875.0,1.5,36.4,clear
+1206,Lentil(Masur),Naugarh,2016-06-13,6885.0,0.5,36.4,clear
+1207,Bengal Gram(Gram),Naugarh,2016-06-14,5900.0,1.0,36.6,clear
+1208,Lentil(Masur),Naugarh,2016-06-14,6880.0,0.0,36.6,clear
+1209,Bengal Gram(Gram),Naugarh,2016-06-15,5900.0,1.5,36.2,rain
+1210,Lentil(Masur),Naugarh,2016-06-15,6880.0,0.5,36.2,rain
+1211,Bengal Gram(Gram),Naugarh,2016-06-17,5950.0,3.0,33.4,clear
+1212,Bengal Gram(Gram),Wansi,2016-06-17,5950.0,2.0,33.4,clear
+1213,Lentil(Masur),Naugarh,2016-06-17,6870.0,1.0,33.4,clear
+1214,Bengal Gram(Gram),Naugarh,2016-06-18,5975.0,1.0,34.6,clear
+1215,Lentil(Masur),Naugarh,2016-06-18,6860.0,0.0,34.6,clear
+1216,Bengal Gram(Gram),Naugarh,2016-06-20,6000.0,1.5,35.8,rain
+1217,Lentil(Masur),Naugarh,2016-06-20,6850.0,0.5,35.8,rain
+1218,Bengal Gram(Gram),Naugarh,2016-06-22,6000.0,2.0,31.2,clear
+1219,Lentil(Masur),Naugarh,2016-06-22,6900.0,0.8,31.2,clear
+1220,Bengal Gram(Gram),Naugarh,2016-06-23,6000.0,2.0,35.4,clear
+1221,Lentil(Masur),Naugarh,2016-06-23,6900.0,0.0,35.4,clear
+1222,Bengal Gram(Gram),Naugarh,2016-06-24,6025.0,1.5,32.0,clear
+1223,Lentil(Masur),Naugarh,2016-06-24,6900.0,0.0,32.0,clear
+1224,Bengal Gram(Gram),Naugarh,2016-06-25,6050.0,2.5,35.0,clear
+1225,Lentil(Masur),Naugarh,2016-06-25,6900.0,0.5,35.0,clear
+1226,Bengal Gram(Gram),Naugarh,2016-06-27,6060.0,2.0,34.6,clear
+1227,Lentil(Masur),Naugarh,2016-06-27,6900.0,1.0,34.6,clear
+1228,Bengal Gram(Gram),Naugarh,2016-06-28,6100.0,1.0,37.0,clear
+1229,Lentil(Masur),Naugarh,2016-06-28,6905.0,0.0,37.0,clear
+1230,Bengal Gram(Gram),Naugarh,2016-06-29,6100.0,3.0,37.2,clear
+1231,Bengal Gram(Gram),Wansi,2016-06-29,6100.0,2.5,37.2,clear
+1232,Lentil(Masur),Wansi,2016-06-29,6910.0,1.5,37.2,clear
+1233,Bengal Gram(Gram),Naugarh,2016-06-30,6125.0,2.0,36.0,clear
+1234,Bengal Gram(Gram),Soharatgarh,2016-06-30,6125.0,3.0,36.0,clear
+1235,Bengal Gram(Gram),Naugarh,2016-01-07,6150.0,2.5,24.4,clear
+1236,Lentil(Masur),Naugarh,2016-01-07,6910.0,0.7,24.4,clear
+1237,Bengal Gram(Gram),Naugarh,2016-02-07,6250.0,2.0,26.6,rain
+1238,Lentil(Masur),Naugarh,2016-02-07,6950.0,0.0,26.6,rain
+1239,Bengal Gram(Gram),Naugarh,2016-04-07,6500.0,1.0,38.0,clear
+1240,Lentil(Masur),Naugarh,2016-04-07,6975.0,0.5,38.0,clear
+1241,Bengal Gram(Gram),Naugarh,2016-05-07,6500.0,1.5,36.8,rain
+1242,Lentil(Masur),Naugarh,2016-05-07,6990.0,0.7,36.8,rain
+1243,Bengal Gram(Gram),Naugarh,2016-06-07,7000.0,1.0,36.2,clear
+1244,Lentil(Masur),Naugarh,2016-06-07,7000.0,0.0,36.2,clear
+1245,Bengal Gram(Gram),Naugarh,2016-07-07,7100.0,1.2,34.2,clear
+1246,Lentil(Masur),Naugarh,2016-07-07,6990.0,0.5,34.2,clear
+1247,Bengal Gram(Gram),Naugarh,2016-08-07,7100.0,1.0,33.6,clear
+1248,Lentil(Masur),Naugarh,2016-08-07,7000.0,0.0,33.6,clear
+1249,Bengal Gram(Gram),Naugarh,2016-09-07,7300.0,1.2,31.8,clear
+1250,Lentil(Masur),Naugarh,2016-09-07,7000.0,0.0,31.8,clear
+1251,Bengal Gram(Gram),Naugarh,2016-11-07,7500.0,1.0,29.4,clear
+1252,Lentil(Masur),Naugarh,2016-11-07,7000.0,0.5,29.4,clear
+1253,Bengal Gram(Gram),Naugarh,2016-12-07,7500.0,0.0,16.0,clear
+1254,Lentil(Masur),Naugarh,2016-12-07,7000.0,0.0,16.0,clear
+1255,Bengal Gram(Gram),Naugarh,2016-07-13,7500.0,0.7,35.0,clear
+1256,Lentil(Masur),Naugarh,2016-07-13,7000.0,0.8,35.0,clear
+1257,Bengal Gram(Gram),Naugarh,2016-07-14,7525.0,1.0,35.8,clear
+1258,Lentil(Masur),Naugarh,2016-07-14,7000.0,0.5,35.8,clear
+1259,Bengal Gram(Gram),Naugarh,2016-07-15,7600.0,1.5,32.0,rain
+1260,Bengal Gram(Gram),Soharatgarh,2016-07-15,7850.0,1.0,32.0,rain
+1261,Lentil(Masur),Naugarh,2016-07-15,7000.0,0.0,32.0,rain
+1262,Lentil(Masur),Soharatgarh,2016-07-15,7000.0,1.0,32.0,rain
+1263,Bengal Gram(Gram),Naugarh,2016-07-16,7600.0,0.0,29.8,rain
+1264,Bengal Gram(Gram),Wansi,2016-07-16,7600.0,2.0,29.8,rain
+1265,Lentil(Masur),Naugarh,2016-07-16,7000.0,0.0,29.8,rain
+1266,Lentil(Masur),Wansi,2016-07-16,7000.0,2.5,29.8,rain
+1267,Bengal Gram(Gram),Naugarh,2016-07-18,7600.0,1.0,28.6,clear
+1268,Lentil(Masur),Naugarh,2016-07-18,7010.0,0.5,28.6,clear
+1269,Bengal Gram(Gram),Naugarh,2016-07-19,7700.0,0.0,29.2,clear
+1270,Lentil(Masur),Naugarh,2016-07-19,7100.0,0.0,29.2,clear
+1271,Bengal Gram(Gram),Naugarh,2016-07-20,7800.0,1.5,29.8,clear
+1272,Lentil(Masur),Naugarh,2016-07-20,7100.0,0.0,29.8,clear
+1273,Bengal Gram(Gram),Naugarh,2016-07-21,7800.0,0.5,31.6,clear
+1274,Lentil(Masur),Naugarh,2016-07-21,7100.0,0.0,31.6,clear
+1275,Bengal Gram(Gram),Naugarh,2016-07-22,7800.0,1.0,28.8,clear
+1276,Lentil(Masur),Naugarh,2016-07-22,7200.0,0.2,28.8,clear
+1277,Bengal Gram(Gram),Naugarh,2016-07-23,7800.0,1.5,33.2,clear
+1278,Lentil(Masur),Naugarh,2016-07-23,7200.0,0.3,33.2,clear
+1279,Bengal Gram(Gram),Naugarh,2016-07-25,7820.0,1.0,29.6,clear
+1280,Lentil(Masur),Naugarh,2016-07-25,7200.0,0.0,29.6,clear
+1281,Bengal Gram(Gram),Naugarh,2016-07-26,7900.0,1.5,31.0,clear
+1282,Lentil(Masur),Naugarh,2016-07-26,7200.0,0.0,31.0,clear
+1283,Bengal Gram(Gram),Naugarh,2016-07-27,8000.0,0.0,32.2,clear
+1284,Lentil(Masur),Naugarh,2016-07-27,7200.0,0.5,32.2,clear
+1285,Bengal Gram(Gram),Naugarh,2016-07-28,8000.0,1.0,28.4,clear
+1286,Bengal Gram(Gram),Wansi,2016-07-28,8000.0,2.0,28.4,clear
+1287,Lentil(Masur),Naugarh,2016-07-28,7200.0,0.5,28.4,clear
+1288,Lentil(Masur),Wansi,2016-07-28,7250.0,1.2,28.4,clear
+1289,Bengal Gram(Gram),Naugarh,2016-07-29,8000.0,1.0,30.4,clear
+1290,Bengal Gram(Gram),Soharatgarh,2016-07-29,8000.0,2.5,30.4,clear
+1291,Lentil(Masur),Naugarh,2016-07-29,7200.0,0.0,30.4,clear
+1292,Lentil(Masur),Soharatgarh,2016-07-29,7200.0,1.0,30.4,clear
+1293,Bengal Gram(Gram),Naugarh,2016-07-30,8000.0,0.5,29.4,clear
+1294,Lentil(Masur),Naugarh,2016-07-30,7200.0,0.0,29.4,clear
+1295,Bengal Gram(Gram),Naugarh,2016-01-08,8000.0,2.0,24.4,clear
+1296,Lentil(Masur),Naugarh,2016-01-08,7250.0,0.2,24.4,clear
+1297,Bengal Gram(Gram),Naugarh,2016-02-08,7970.0,1.5,25.2,clear
+1298,Lentil(Masur),Naugarh,2016-02-08,7200.0,0.0,25.2,clear
+1299,Bengal Gram(Gram),Naugarh,2016-03-08,8000.0,1.0,31.6,clear
+1300,Lentil(Masur),Naugarh,2016-03-08,7240.0,0.3,31.6,clear
+1301,Bengal Gram(Gram),Naugarh,2016-04-08,7975.0,1.5,39.6,clear
+1302,Lentil(Masur),Naugarh,2016-04-08,7250.0,0.5,39.6,clear
+1303,Bengal Gram(Gram),Naugarh,2016-05-08,7900.0,1.2,34.8,clear
+1304,Lentil(Masur),Naugarh,2016-05-08,7000.0,0.0,34.8,clear
+1305,Bengal Gram(Gram),Naugarh,2016-06-08,7950.0,1.0,34.0,clear
+1306,Lentil(Masur),Naugarh,2016-06-08,6800.0,0.2,34.0,clear
+1307,Bengal Gram(Gram),Naugarh,2016-08-08,7950.0,0.3,32.2,clear
+1308,Lentil(Masur),Naugarh,2016-08-08,6600.0,0.3,32.2,clear
+1309,Bengal Gram(Gram),Naugarh,2016-09-08,7950.0,1.2,32.8,clear
+1310,Lentil(Masur),Naugarh,2016-09-08,6600.0,0.0,32.8,clear
+1311,Bengal Gram(Gram),Naugarh,2016-10-08,8000.0,0.0,29.0,clear
+1312,Lentil(Masur),Naugarh,2016-10-08,6600.0,0.5,29.0,clear
+1313,Bengal Gram(Gram),Naugarh,2016-11-08,8025.0,1.5,30.0,clear
+1314,Lentil(Masur),Naugarh,2016-11-08,6550.0,0.0,30.0,clear
+1315,Bengal Gram(Gram),Naugarh,2016-12-08,8050.0,1.0,15.4,clear
+1316,Lentil(Masur),Naugarh,2016-12-08,6550.0,0.7,15.4,clear
+1317,Bengal Gram(Gram),Naugarh,2016-08-13,8000.0,0.0,32.0,clear
+1318,Lentil(Masur),Naugarh,2016-08-13,6500.0,0.3,32.0,clear
+1319,Bengal Gram(Gram),Naugarh,2016-08-15,8065.0,1.0,34.4,clear
+1320,Lentil(Masur),Naugarh,2016-08-15,6500.0,0.0,34.4,clear
+1321,Bengal Gram(Gram),Naugarh,2016-08-16,8075.0,2.2,33.0,clear
+1322,Bengal Gram(Gram),Soharatgarh,2016-08-16,8075.0,2.0,33.0,clear
+1323,Lentil(Masur),Naugarh,2016-08-16,6500.0,0.2,33.0,clear
+1324,Lentil(Masur),Soharatgarh,2016-08-16,6500.0,1.0,33.0,clear
+1325,Bengal Gram(Gram),Naugarh,2016-08-17,8075.0,2.0,33.0,clear
+1326,Bengal Gram(Gram),Wansi,2016-08-17,8070.0,2.5,33.0,clear
+1327,Lentil(Masur),Naugarh,2016-08-17,6510.0,0.5,33.0,clear
+1328,Lentil(Masur),Wansi,2016-08-17,6470.0,1.2,33.0,clear
+1329,Bengal Gram(Gram),Naugarh,2016-08-18,8020.0,1.0,32.2,clear
+1330,Lentil(Masur),Naugarh,2016-08-18,6475.0,0.5,32.2,clear
+1331,Bengal Gram(Gram),Naugarh,2016-08-19,8000.0,1.5,32.6,clear
+1332,Lentil(Masur),Naugarh,2016-08-19,6475.0,0.0,32.6,clear
+1333,Bengal Gram(Gram),Naugarh,2016-08-20,8000.0,1.5,34.2,clear
+1334,Lentil(Masur),Naugarh,2016-08-20,6400.0,0.0,34.2,clear
+1335,Bengal Gram(Gram),Naugarh,2016-08-22,7900.0,1.0,31.6,clear
+1336,Lentil(Masur),Naugarh,2016-08-22,6350.0,0.0,31.6,clear
+1337,Bengal Gram(Gram),Naugarh,2016-08-23,7800.0,2.0,32.8,clear
+1338,Lentil(Masur),Naugarh,2016-08-23,6300.0,0.7,32.8,clear
+1339,Bengal Gram(Gram),Naugarh,2016-08-24,7825.0,0.0,34.0,clear
+1340,Lentil(Masur),Naugarh,2016-08-24,6300.0,0.0,34.0,clear
+1341,Bengal Gram(Gram),Naugarh,2016-08-25,7825.0,2.5,35.4,clear
+1342,Lentil(Masur),Naugarh,2016-08-25,6300.0,0.2,35.4,clear
+1343,Bengal Gram(Gram),Naugarh,2016-08-26,7830.0,1.5,33.6,clear
+1344,Lentil(Masur),Naugarh,2016-08-26,6310.0,0.0,33.6,clear
+1345,Bengal Gram(Gram),Naugarh,2016-08-27,7800.0,2.0,35.0,clear
+1346,Lentil(Masur),Naugarh,2016-08-27,6280.0,0.3,35.0,clear
+1347,Bengal Gram(Gram),Naugarh,2016-08-29,7810.0,2.5,33.0,clear
+1348,Bengal Gram(Gram),Soharatgarh,2016-08-29,7825.0,3.0,33.0,clear
+1349,Lentil(Masur),Naugarh,2016-08-29,6300.0,0.0,33.0,clear
+1350,Lentil(Masur),Soharatgarh,2016-08-29,6300.0,1.0,33.0,clear
+1351,Bengal Gram(Gram),Naugarh,2016-08-31,7820.0,2.5,33.2,rain
+1352,Lentil(Masur),Naugarh,2016-08-31,6300.0,0.0,33.2,rain
+1353,Bengal Gram(Gram),Naugarh,2016-01-09,7800.0,3.0,23.2,clear
+1354,Bengal Gram(Gram),Wansi,2016-01-09,7800.0,17.5,23.2,clear
+1355,Lentil(Masur),Naugarh,2016-01-09,6310.0,0.5,23.2,clear
+1356,Lentil(Masur),Wansi,2016-01-09,6300.0,4.0,23.2,clear
+1357,Bengal Gram(Gram),Naugarh,2016-02-09,7810.0,2.0,25.4,clear
+1358,Lentil(Masur),Naugarh,2016-02-09,6300.0,0.0,25.4,clear
+1359,Bengal Gram(Gram),Naugarh,2016-03-09,7800.0,3.0,32.6,clear
+1360,Lentil(Masur),Naugarh,2016-03-09,6310.0,0.7,32.6,clear
+1361,Bengal Gram(Gram),Naugarh,2016-05-09,7810.0,2.0,39.0,clear
+1362,Lentil(Masur),Naugarh,2016-05-09,6250.0,0.2,39.0,clear
+1363,Bengal Gram(Gram),Naugarh,2016-06-09,7800.0,1.5,32.6,clear
+1364,Lentil(Masur),Naugarh,2016-06-09,6200.0,0.0,32.6,clear
+1365,Bengal Gram(Gram),Naugarh,2016-07-09,7810.0,2.0,35.6,clear
+1366,Lentil(Masur),Naugarh,2016-07-09,6220.0,0.5,35.6,clear
+1367,Bengal Gram(Gram),Naugarh,2016-08-09,7800.0,3.0,32.6,clear
+1368,Lentil(Masur),Naugarh,2016-08-09,6200.0,0.0,32.6,clear
+1369,Bengal Gram(Gram),Naugarh,2016-09-09,7825.0,2.0,33.4,clear
+1370,Lentil(Masur),Naugarh,2016-09-09,6225.0,0.0,33.4,clear
+1371,Bengal Gram(Gram),Naugarh,2016-10-09,7850.0,1.0,29.8,clear
+1372,Lentil(Masur),Naugarh,2016-10-09,6200.0,0.5,29.8,clear
+1373,Bengal Gram(Gram),Naugarh,2016-12-09,7840.0,1.5,14.6,clear
+1374,Lentil(Masur),Naugarh,2016-12-09,6220.0,0.0,14.6,clear
+1375,Bengal Gram(Gram),Naugarh,2016-09-13,7840.0,0.0,32.4,clear
+1376,Lentil(Masur),Naugarh,2016-09-13,6225.0,0.0,32.4,clear
+1377,Bengal Gram(Gram),Naugarh,2016-09-14,7845.0,1.0,32.4,clear
+1378,Lentil(Masur),Naugarh,2016-09-14,6230.0,0.5,32.4,clear
+1379,Bengal Gram(Gram),Naugarh,2016-09-15,7800.0,1.5,33.4,clear
+1380,Lentil(Masur),Naugarh,2016-09-15,6235.0,0.4,33.4,clear
+1381,Bengal Gram(Gram),Naugarh,2016-09-16,7850.0,2.5,32.4,clear
+1382,Bengal Gram(Gram),Soharatgarh,2016-09-16,7850.0,4.5,32.4,clear
+1383,Lentil(Masur),Naugarh,2016-09-16,6200.0,0.0,32.4,clear
+1384,Lentil(Masur),Soharatgarh,2016-09-16,6200.0,1.0,32.4,clear
+1385,Bengal Gram(Gram),Naugarh,2016-09-17,7860.0,2.0,31.2,clear
+1386,Lentil(Masur),Naugarh,2016-09-17,6200.0,0.0,31.2,clear
+1387,Bengal Gram(Gram),Naugarh,2016-09-20,7860.0,2.0,34.0,clear
+1388,Lentil(Masur),Naugarh,2016-09-20,6175.0,0.5,34.0,clear
+1389,Bengal Gram(Gram),Naugarh,2016-09-21,7875.0,2.5,30.0,clear
+1390,Lentil(Masur),Naugarh,2016-09-21,6150.0,0.0,30.0,clear
+1391,Bengal Gram(Gram),Naugarh,2016-09-22,7880.0,2.0,30.4,clear
+1392,Lentil(Masur),Naugarh,2016-09-22,6125.0,0.0,30.4,clear
+1393,Bengal Gram(Gram),Naugarh,2016-09-23,7885.0,1.0,33.0,clear
+1394,Lentil(Masur),Naugarh,2016-09-23,6100.0,0.5,33.0,clear
+1395,Bengal Gram(Gram),Naugarh,2016-09-24,7890.0,1.5,26.4,clear
+1396,Lentil(Masur),Naugarh,2016-09-24,6100.0,0.0,26.4,clear
+1397,Bengal Gram(Gram),Naugarh,2016-09-26,7850.0,0.0,26.6,clear
+1398,Lentil(Masur),Naugarh,2016-09-26,6100.0,0.8,26.6,clear
+1399,Bengal Gram(Gram),Naugarh,2016-09-27,7850.0,1.0,32.0,clear
+1400,Bengal Gram(Gram),Naugarh,2016-09-28,7860.0,1.5,30.8,rain
+1401,Bengal Gram(Gram),Wansi,2016-09-28,7845.0,2.0,30.8,rain
+1402,Lentil(Masur),Wansi,2016-09-28,6050.0,1.2,30.8,rain
+1403,Bengal Gram(Gram),Naugarh,2016-09-29,7850.0,1.0,30.4,clear
+1404,Bengal Gram(Gram),Soharatgarh,2016-09-29,7860.0,1.5,30.4,clear
+1405,Lentil(Masur),Naugarh,2016-09-29,6000.0,0.8,30.4,clear
+1406,Lentil(Masur),Soharatgarh,2016-09-29,6100.0,1.0,30.4,clear
+1407,Bengal Gram(Gram),Naugarh,2016-10-28,8825.0,3.5,32.0,clear
+1408,Bengal Gram(Gram),Sahiyapur,2016-10-28,8815.0,2.5,32.0,clear
+1409,Lentil(Masur),Naugarh,2016-10-28,6520.0,1.0,32.0,clear
+1410,Lentil(Masur),Sahiyapur,2016-10-28,6510.0,0.8,32.0,clear
+1411,Bengal Gram(Gram),Naugarh,2016-10-29,8825.0,3.0,31.8,clear
+1412,Bengal Gram(Gram),Sahiyapur,2016-10-29,8825.0,3.0,31.8,clear
+1413,Lentil(Masur),Sahiyapur,2016-10-29,6525.0,0.5,31.8,clear
+1414,Bengal Gram(Gram),Naugarh,2016-11-29,9700.0,2.5,27.0,clear
+1415,Bengal Gram(Gram),Sahiyapur,2016-11-29,9725.0,2.0,27.0,clear
+1416,Bengal Gram(Gram),Soharatgarh,2016-11-29,9700.0,3.0,27.0,clear
+1417,Lentil(Masur),Naugarh,2016-11-29,6320.0,1.2,27.0,clear
+1418,Lentil(Masur),Sahiyapur,2016-11-29,6335.0,0.0,27.0,clear
+1419,Lentil(Masur),Soharatgarh,2016-11-29,6300.0,1.0,27.0,clear
+1420,Bengal Gram(Gram),Naugarh,2016-12-30,9830.0,3.5,14.6,clear
+1421,Bengal Gram(Gram),Sahiyapur,2016-12-30,9800.0,1.5,14.6,clear
+1422,Bengal Gram(Gram),Soharatgarh,2016-12-30,9825.0,2.5,14.6,clear
+1423,Bengal Gram(Gram),Wansi,2016-12-30,9800.0,2.0,14.6,clear
+1424,Lentil(Masur),Sahiyapur,2016-12-30,6370.0,0.0,14.6,clear
+1425,Lentil(Masur),Soharatgarh,2016-12-30,6400.0,1.0,14.6,clear
+1426,Bengal Gram(Gram),Sahiyapur,2016-01-10,8000.0,2.5,23.0,clear
+1427,Lentil(Masur),Sahiyapur,2016-01-10,6100.0,0.7,23.0,clear
+1428,Bengal Gram(Gram),Sahiyapur,2016-03-10,8010.0,2.0,31.4,clear
+1429,Lentil(Masur),Sahiyapur,2016-03-10,6130.0,0.5,31.4,clear
+1430,Bengal Gram(Gram),Sahiyapur,2016-04-10,8015.0,3.0,40.4,clear
+1431,Lentil(Masur),Sahiyapur,2016-04-10,6125.0,1.0,40.4,clear
+1432,Bengal Gram(Gram),Sahiyapur,2016-05-10,8025.0,2.5,38.8,rain
+1433,Lentil(Masur),Sahiyapur,2016-05-10,6100.0,0.0,38.8,rain
+1434,Bengal Gram(Gram),Sahiyapur,2016-06-10,8000.0,2.5,35.6,clear
+1435,Lentil(Masur),Sahiyapur,2016-06-10,6100.0,0.5,35.6,clear
+1436,Bengal Gram(Gram),Sahiyapur,2016-07-10,8000.0,2.0,31.4,clear
+1437,Lentil(Masur),Sahiyapur,2016-07-10,6125.0,0.7,31.4,clear
+1438,Bengal Gram(Gram),Sahiyapur,2016-08-10,8020.0,2.5,31.2,clear
+1439,Lentil(Masur),Sahiyapur,2016-08-10,6100.0,1.0,31.2,clear
+1440,Bengal Gram(Gram),Sahiyapur,2016-11-10,8030.0,2.0,31.0,clear
+1441,Lentil(Masur),Sahiyapur,2016-11-10,6000.0,1.0,31.0,clear
+1442,Bengal Gram(Gram),Sahiyapur,2016-12-10,8035.0,1.5,17.0,clear
+1443,Lentil(Masur),Sahiyapur,2016-12-10,6000.0,1.0,17.0,clear
+1444,Bengal Gram(Gram),Sahiyapur,2016-10-13,8050.0,1.0,32.8,clear
+1445,Lentil(Masur),Sahiyapur,2016-10-13,6000.0,1.0,32.8,clear
+1446,Bengal Gram(Gram),Sahiyapur,2016-10-17,8300.0,1.2,32.6,clear
+1447,Lentil(Masur),Sahiyapur,2016-10-17,6400.0,0.0,32.6,clear
+1448,Bengal Gram(Gram),Sahiyapur,2016-10-18,8400.0,1.3,31.8,clear
+1449,Bengal Gram(Gram),Sahiyapur,2016-10-19,8400.0,1.3,32.8,clear
+1450,Bengal Gram(Gram),Sahiyapur,2016-10-20,8500.0,1.0,32.0,clear
+1451,Lentil(Masur),Sahiyapur,2016-10-20,6550.0,1.0,32.0,clear
+1452,Bengal Gram(Gram),Sahiyapur,2016-10-21,8350.0,1.0,31.4,clear
+1453,Lentil(Masur),Sahiyapur,2016-10-21,6600.0,1.0,31.4,clear
+1454,Bengal Gram(Gram),Sahiyapur,2016-10-22,8800.0,1.5,31.2,clear
+1455,Lentil(Masur),Sahiyapur,2016-10-22,6600.0,0.0,31.2,clear
+1456,Bengal Gram(Gram),Sahiyapur,2016-10-24,8800.0,1.0,31.4,clear
+1457,Lentil(Masur),Sahiyapur,2016-10-24,6500.0,0.0,31.4,clear
+1458,Bengal Gram(Gram),Sahiyapur,2016-10-25,8810.0,1.5,32.2,clear
+1459,Lentil(Masur),Sahiyapur,2016-10-25,6500.0,0.5,32.2,clear
+1460,Bengal Gram(Gram),Sahiyapur,2016-10-26,8825.0,2.0,32.0,clear
+1461,Lentil(Masur),Sahiyapur,2016-10-26,6500.0,0.0,32.0,clear
+1462,Bengal Gram(Gram),Sahiyapur,2016-10-27,8800.0,3.0,32.4,clear
+1463,Bengal Gram(Gram),Soharatgarh,2016-10-27,8810.0,4.0,32.4,clear
+1464,Bengal Gram(Gram),Wansi,2016-10-27,8800.0,3.0,32.4,clear
+1465,Lentil(Masur),Sahiyapur,2016-10-27,6500.0,0.7,32.4,clear
+1466,Lentil(Masur),Soharatgarh,2016-10-27,6500.0,1.5,32.4,clear
+1467,Lentil(Masur),Wansi,2016-10-27,6500.0,1.0,32.4,clear
+1468,Bengal Gram(Gram),Sahiyapur,2016-10-31,8900.0,2.0,30.8,clear
+1469,Lentil(Masur),Sahiyapur,2016-10-31,6530.0,0.7,30.8,clear
+1470,Bengal Gram(Gram),Sahiyapur,2016-01-11,8900.0,2.0,22.8,clear
+1471,Lentil(Masur),Sahiyapur,2016-01-11,6500.0,1.0,22.8,clear
+1472,Bengal Gram(Gram),Sahiyapur,2016-02-11,8950.0,2.5,25.6,clear
+1473,Bengal Gram(Gram),Sahiyapur,2016-03-11,8970.0,3.0,33.4,clear
+1474,Lentil(Masur),Sahiyapur,2016-03-11,6500.0,0.5,33.4,clear
+1475,Bengal Gram(Gram),Sahiyapur,2016-04-11,8975.0,3.5,41.0,clear
+1476,Lentil(Masur),Sahiyapur,2016-04-11,6500.0,0.7,41.0,clear
+1477,Bengal Gram(Gram),Sahiyapur,2016-05-11,9000.0,2.0,37.0,clear
+1478,Lentil(Masur),Sahiyapur,2016-05-11,6525.0,0.8,37.0,clear
+1479,Bengal Gram(Gram),Sahiyapur,2016-07-11,9100.0,1.5,33.2,clear
+1480,Bengal Gram(Gram),Sahiyapur,2016-09-11,9175.0,1.0,32.2,clear
+1481,Bengal Gram(Gram),Sahiyapur,2016-10-11,9200.0,1.5,32.8,clear
+1482,Lentil(Masur),Sahiyapur,2016-10-11,6400.0,0.5,32.8,clear
+1483,Bengal Gram(Gram),Sahiyapur,2016-11-11,9210.0,1.0,30.6,clear
+1484,Lentil(Masur),Sahiyapur,2016-11-11,6400.0,0.0,30.6,clear
+1485,Bengal Gram(Gram),Sahiyapur,2016-12-11,9200.0,1.5,15.2,clear
+1486,Lentil(Masur),Sahiyapur,2016-12-11,6300.0,0.0,15.2,clear
+1487,Bengal Gram(Gram),Sahiyapur,2016-11-14,9225.0,2.0,29.4,clear
+1488,Lentil(Masur),Sahiyapur,2016-11-14,6250.0,0.5,29.4,clear
+1489,Bengal Gram(Gram),Sahiyapur,2016-11-15,9250.0,2.5,28.4,clear
+1490,Lentil(Masur),Sahiyapur,2016-11-15,6300.0,0.7,28.4,clear
+1491,Bengal Gram(Gram),Sahiyapur,2016-11-16,9275.0,2.0,28.0,clear
+1492,Lentil(Masur),Sahiyapur,2016-11-16,6300.0,0.0,28.0,clear
+1493,Bengal Gram(Gram),Sahiyapur,2016-11-17,9300.0,1.5,27.4,clear
+1494,Lentil(Masur),Sahiyapur,2016-11-17,6300.0,0.0,27.4,clear
+1495,Bengal Gram(Gram),Sahiyapur,2016-11-19,9550.0,1.5,28.0,clear
+1496,Lentil(Masur),Sahiyapur,2016-11-19,6400.0,0.0,28.0,clear
+1497,Bengal Gram(Gram),Sahiyapur,2016-11-21,9600.0,2.0,28.0,clear
+1498,Lentil(Masur),Sahiyapur,2016-11-21,6400.0,0.0,28.0,clear
+1499,Bengal Gram(Gram),Sahiyapur,2016-11-22,9650.0,3.0,27.0,clear
+1500,Lentil(Masur),Sahiyapur,2016-11-22,6400.0,0.0,27.0,clear
+1501,Bengal Gram(Gram),Sahiyapur,2016-11-23,9670.0,1.0,27.0,clear
+1502,Lentil(Masur),Sahiyapur,2016-11-23,6400.0,0.0,27.0,clear
+1503,Bengal Gram(Gram),Sahiyapur,2016-11-24,9675.0,0.0,26.2,clear
+1504,Lentil(Masur),Sahiyapur,2016-11-24,6350.0,0.2,26.2,clear
+1505,Bengal Gram(Gram),Sahiyapur,2016-11-25,9680.0,1.5,26.4,clear
+1506,Lentil(Masur),Sahiyapur,2016-11-25,6300.0,0.0,26.4,clear
+1507,Bengal Gram(Gram),Sahiyapur,2016-11-26,9675.0,1.0,26.2,clear
+1508,Bengal Gram(Gram),Wansi,2016-11-26,9675.0,2.0,26.2,clear
+1509,Lentil(Masur),Sahiyapur,2016-11-26,6360.0,0.3,26.2,clear
+1510,Lentil(Masur),Wansi,2016-11-26,6350.0,1.5,26.2,clear
+1511,Bengal Gram(Gram),Sahiyapur,2016-11-28,9700.0,0.0,25.8,clear
+1512,Lentil(Masur),Sahiyapur,2016-11-28,6340.0,0.5,25.8,clear
+1513,Bengal Gram(Gram),Sahiyapur,2016-11-30,9750.0,3.0,26.4,clear
+1514,Lentil(Masur),Sahiyapur,2016-11-30,6300.0,0.0,26.4,clear
+1515,Bengal Gram(Gram),Sahiyapur,2016-01-12,9510.0,1.0,22.6,clear
+1516,Lentil(Masur),Sahiyapur,2016-01-12,6300.0,0.0,22.6,clear
+1517,Bengal Gram(Gram),Sahiyapur,2016-02-12,9600.0,2.5,26.8,clear
+1518,Lentil(Masur),Sahiyapur,2016-02-12,6300.0,0.0,26.8,clear
+1519,Bengal Gram(Gram),Sahiyapur,2016-03-12,9650.0,1.0,29.2,clear
+1520,Lentil(Masur),Sahiyapur,2016-03-12,6350.0,0.2,29.2,clear
+1521,Bengal Gram(Gram),Sahiyapur,2016-05-12,9660.0,0.0,36.2,rain
+1522,Lentil(Masur),Sahiyapur,2016-05-12,6350.0,0.0,36.2,rain
+1523,Bengal Gram(Gram),Sahiyapur,2016-06-12,9675.0,1.0,37.4,rain
+1524,Lentil(Masur),Sahiyapur,2016-06-12,6400.0,0.0,37.4,rain
+1525,Bengal Gram(Gram),Sahiyapur,2016-07-12,9670.0,0.0,33.4,clear
+1526,Lentil(Masur),Sahiyapur,2016-07-12,6400.0,0.0,33.4,clear
+1527,Bengal Gram(Gram),Sahiyapur,2016-08-12,9700.0,1.0,33.4,clear
+1528,Lentil(Masur),Sahiyapur,2016-08-12,6425.0,0.5,33.4,clear
+1529,Bengal Gram(Gram),Sahiyapur,2016-09-12,9710.0,0.0,29.6,clear
+1530,Lentil(Masur),Sahiyapur,2016-09-12,6400.0,0.0,29.6,clear
+1531,Bengal Gram(Gram),Sahiyapur,2016-10-12,9725.0,1.0,32.6,clear
+1532,Lentil(Masur),Sahiyapur,2016-10-12,6400.0,0.0,32.6,clear
+1533,Bengal Gram(Gram),Sahiyapur,2016-12-12,9725.0,1.5,15.4,clear
+1534,Lentil(Masur),Sahiyapur,2016-12-12,6400.0,0.0,15.4,clear
+1535,Bengal Gram(Gram),Sahiyapur,2016-12-13,9725.0,1.0,20.0,clear
+1536,Lentil(Masur),Sahiyapur,2016-12-13,6400.0,0.1,20.0,clear
+1537,Bengal Gram(Gram),Sahiyapur,2016-12-14,9750.0,1.5,15.2,clear
+1538,Lentil(Masur),Sahiyapur,2016-12-14,6400.0,0.0,15.2,clear
+1539,Bengal Gram(Gram),Sahiyapur,2016-12-15,9750.0,0.0,17.0,clear
+1540,Lentil(Masur),Sahiyapur,2016-12-15,6400.0,0.0,17.0,clear
+1541,Bengal Gram(Gram),Sahiyapur,2016-12-22,9815.0,2.0,24.0,clear
+1542,Lentil(Masur),Sahiyapur,2016-12-22,6300.0,0.0,24.0,clear
+1543,Bengal Gram(Gram),Sahiyapur,2016-12-23,9810.0,1.0,25.4,clear
+1544,Lentil(Masur),Sahiyapur,2016-12-23,6340.0,0.0,25.4,clear
+1545,Bengal Gram(Gram),Sahiyapur,2016-12-24,9820.0,1.5,23.6,clear
+1546,Lentil(Masur),Sahiyapur,2016-12-24,6340.0,0.2,23.6,clear
+1547,Bengal Gram(Gram),Sahiyapur,2016-12-26,9800.0,1.0,25.0,clear
+1548,Bengal Gram(Gram),Sahiyapur,2016-12-27,9820.0,1.5,19.6,clear
+1549,Lentil(Masur),Sahiyapur,2016-12-27,6360.0,0.0,19.6,clear
+1550,Bengal Gram(Gram),Sahiyapur,2016-12-28,9825.0,2.0,15.8,clear
+1551,Bengal Gram(Gram),Wansi,2016-12-28,9800.0,2.0,15.8,clear
+1552,Lentil(Masur),Sahiyapur,2016-12-28,6370.0,0.0,15.8,clear
+1553,Lentil(Masur),Wansi,2016-12-28,6400.0,1.0,15.8,clear
+1554,Bengal Gram(Gram),Sahiyapur,2016-12-29,9825.0,1.0,15.0,clear
+1555,Lentil(Masur),Sahiyapur,2016-12-29,6375.0,0.5,15.0,clear
+1556,Bengal Gram(Gram),Sahiyapur,2016-12-31,9815.0,2.0,16.6,clear
+1557,Lentil(Masur),Sahiyapur,2016-12-31,6375.0,0.0,16.6,clear
+1558,Bengal Gram(Gram),Soharatgarh,2016-02-26,5415.0,2.5,27.8,clear
+1559,Lentil(Masur),Soharatgarh,2016-02-26,6825.0,1.0,27.8,clear
+1560,Bengal Gram(Gram),Soharatgarh,2016-03-29,5050.0,3.5,34.0,clear
+1561,Lentil(Masur),Soharatgarh,2016-03-29,6400.0,1.0,34.0,clear
+1562,Bengal Gram(Gram),Soharatgarh,2016-06-19,5950.0,3.0,36.0,clear
+1563,Lentil(Masur),Soharatgarh,2016-06-19,6870.0,1.2,36.0,clear
+1564,Bengal Gram(Gram),Wansi,2016-06-16,5950.0,2.0,32.8,clear
+1565,Lentil(Masur),Wansi,2016-06-16,6875.0,1.0,32.8,clear
+1566,Bengal Gram(Gram),Wansi,2016-09-19,7850.0,3.0,33.4,clear
+1567,Lentil(Masur),Wansi,2016-09-19,6175.0,1.0,33.4,clear
+1568,Lentil(Masur),Naugarh,2016-03-17,6625.0,1.2,31.2,clear
+1569,Lentil(Masur),Sahiyapur,2016-03-31,6800.0,0.4,35.4,clear
+1570,Bengal Gram(Gram),Naugarh,2017-01-30,7800.0,2.5,17.0,clear
+1571,Bengal Gram(Gram),Sahiyapur,2017-01-30,7800.0,1.0,17.0,clear
+1572,Lentil(Masur),Naugarh,2017-01-30,5825.0,1.0,17.0,clear
+1573,Lentil(Masur),Sahiyapur,2017-01-30,5900.0,0.5,17.0,clear
+1574,Bengal Gram(Gram),Naugarh,2017-02-25,7000.0,3.0,25.6,clear
+1575,Bengal Gram(Gram),Sahiyapur,2017-02-25,7000.0,3.0,25.6,clear
+1576,Lentil(Masur),Naugarh,2017-02-25,5700.0,1.2,25.6,clear
+1577,Lentil(Masur),Sahiyapur,2017-02-25,5675.0,0.0,25.6,clear
+1578,Bengal Gram(Gram),Naugarh,2017-03-30,6600.0,4.0,35.0,clear
+1579,Bengal Gram(Gram),Sahiyapur,2017-03-30,6600.0,3.5,35.0,clear
+1580,Lentil(Masur),Naugarh,2017-03-30,5400.0,1.5,35.0,clear
+1581,Lentil(Masur),Sahiyapur,2017-03-30,5400.0,1.0,35.0,clear
+1582,Bengal Gram(Gram),Naugarh,2017-04-27,6200.0,4.0,40.0,clear
+1583,Bengal Gram(Gram),Sahiyapur,2017-04-27,6225.0,4.0,40.0,clear
+1584,Lentil(Masur),Naugarh,2017-04-27,5125.0,1.0,40.0,clear
+1585,Lentil(Masur),Sahiyapur,2017-04-27,5125.0,0.5,40.0,clear
+1586,Bengal Gram(Gram),Naugarh,2017-05-30,6650.0,2.0,30.4,clear
+1587,Bengal Gram(Gram),Sahiyapur,2017-05-30,6650.0,1.5,30.4,clear
+1588,Lentil(Masur),Naugarh,2017-05-30,4700.0,1.0,30.4,clear
+1589,Lentil(Masur),Sahiyapur,2017-05-30,4700.0,0.0,30.4,clear
+1590,Bengal Gram(Gram),Sahiyapur,2017-02-01,9800.0,2.5,17.0,clear
+1591,Lentil(Masur),Sahiyapur,2017-02-01,6300.0,0.0,17.0,clear
+1592,Bengal Gram(Gram),Sahiyapur,2017-03-01,9800.0,0.0,29.8,clear
+1593,Lentil(Masur),Sahiyapur,2017-03-01,6300.0,0.0,29.8,clear
+1594,Bengal Gram(Gram),Sahiyapur,2017-04-01,9400.0,1.0,37.0,clear
+1595,Lentil(Masur),Sahiyapur,2017-04-01,6350.0,0.2,37.0,clear
+1596,Bengal Gram(Gram),Sahiyapur,2017-05-01,9400.0,1.5,32.4,clear
+1597,Lentil(Masur),Sahiyapur,2017-05-01,6350.0,0.0,32.4,clear
+1598,Bengal Gram(Gram),Sahiyapur,2017-06-01,9410.0,2.0,38.4,clear
+1599,Lentil(Masur),Sahiyapur,2017-06-01,6350.0,0.0,38.4,clear
+1600,Bengal Gram(Gram),Sahiyapur,2017-07-01,9200.0,3.5,34.8,clear
+1601,Lentil(Masur),Sahiyapur,2017-07-01,6360.0,0.0,34.8,clear
+1602,Bengal Gram(Gram),Sahiyapur,2017-09-01,9100.0,2.5,29.0,clear
+1603,Lentil(Masur),Sahiyapur,2017-09-01,6375.0,0.5,29.0,clear
+1604,Bengal Gram(Gram),Sahiyapur,2017-10-01,9000.0,3.0,32.2,clear
+1605,Lentil(Masur),Sahiyapur,2017-10-01,6370.0,0.0,32.2,clear
+1606,Bengal Gram(Gram),Sahiyapur,2017-11-01,9000.0,2.0,28.8,clear
+1607,Lentil(Masur),Sahiyapur,2017-11-01,6375.0,0.0,28.8,clear
+1608,Bengal Gram(Gram),Sahiyapur,2017-12-01,9000.0,3.0,26.0,clear
+1609,Lentil(Masur),Sahiyapur,2017-12-01,6400.0,0.0,26.0,clear
+1610,Bengal Gram(Gram),Sahiyapur,2017-01-13,9100.0,2.0,18.0,clear
+1611,Lentil(Masur),Sahiyapur,2017-01-13,6400.0,0.0,18.0,clear
+1612,Bengal Gram(Gram),Sahiyapur,2017-01-14,9000.0,2.5,20.0,clear
+1613,Lentil(Masur),Sahiyapur,2017-01-14,6400.0,0.5,20.0,clear
+1614,Bengal Gram(Gram),Sahiyapur,2017-01-16,8800.0,2.0,23.0,clear
+1615,Lentil(Masur),Sahiyapur,2017-01-16,6400.0,0.0,23.0,clear
+1616,Bengal Gram(Gram),Sahiyapur,2017-01-17,8800.0,3.0,24.4,clear
+1617,Lentil(Masur),Sahiyapur,2017-01-17,6450.0,0.0,24.4,clear
+1618,Bengal Gram(Gram),Sahiyapur,2017-01-18,8800.0,1.5,22.6,clear
+1619,Lentil(Masur),Sahiyapur,2017-01-18,6460.0,0.2,22.6,clear
+1620,Bengal Gram(Gram),Sahiyapur,2017-01-19,8700.0,2.0,20.8,clear
+1621,Lentil(Masur),Sahiyapur,2017-01-19,6465.0,0.0,20.8,clear
+1622,Bengal Gram(Gram),Sahiyapur,2017-01-20,8400.0,3.0,24.6,clear
+1623,Lentil(Masur),Sahiyapur,2017-01-20,6200.0,0.5,24.6,clear
+1624,Bengal Gram(Gram),Sahiyapur,2017-01-21,8000.0,2.0,22.4,clear
+1625,Lentil(Masur),Sahiyapur,2017-01-21,6200.0,0.0,22.4,clear
+1626,Bengal Gram(Gram),Sahiyapur,2017-01-23,8000.0,2.5,24.8,clear
+1627,Lentil(Masur),Sahiyapur,2017-01-23,6200.0,0.0,24.8,clear
+1628,Bengal Gram(Gram),Sahiyapur,2017-01-24,8000.0,0.0,24.0,clear
+1629,Lentil(Masur),Sahiyapur,2017-01-24,6100.0,0.2,24.0,clear
+1630,Bengal Gram(Gram),Sahiyapur,2017-01-25,8000.0,1.5,26.2,clear
+1631,Lentil(Masur),Sahiyapur,2017-01-25,6000.0,0.3,26.2,clear
+1632,Bengal Gram(Gram),Sahiyapur,2017-01-27,8000.0,1.0,22.0,rain
+1633,Bengal Gram(Gram),Wansi,2017-01-27,8000.0,3.0,22.0,rain
+1634,Lentil(Masur),Sahiyapur,2017-01-27,6000.0,0.4,22.0,rain
+1635,Lentil(Masur),Wansi,2017-01-27,6050.0,1.0,22.0,rain
+1636,Bengal Gram(Gram),Sahiyapur,2017-01-28,8000.0,0.0,21.4,clear
+1637,Bengal Gram(Gram),Soharatgarh,2017-01-28,7900.0,3.5,21.4,clear
+1638,Lentil(Masur),Sahiyapur,2017-01-28,6000.0,0.0,21.4,clear
+1639,Lentil(Masur),Soharatgarh,2017-01-28,5800.0,1.5,21.4,clear
+1640,Bengal Gram(Gram),Sahiyapur,2017-01-31,7800.0,1.0,16.6,clear
+1641,Lentil(Masur),Sahiyapur,2017-01-31,5900.0,0.7,16.6,clear
+1642,Bengal Gram(Gram),Sahiyapur,2017-01-02,7800.0,1.2,23.2,clear
+1643,Lentil(Masur),Sahiyapur,2017-01-02,5600.0,0.3,23.2,clear
+1644,Bengal Gram(Gram),Sahiyapur,2017-02-02,8000.0,2.0,22.6,clear
+1645,Lentil(Masur),Sahiyapur,2017-02-02,6000.0,0.4,22.6,clear
+1646,Bengal Gram(Gram),Sahiyapur,2017-03-02,8000.0,2.5,31.4,clear
+1647,Lentil(Masur),Sahiyapur,2017-03-02,6000.0,0.2,31.4,clear
+1648,Bengal Gram(Gram),Sahiyapur,2017-04-02,7800.0,3.0,36.3,clear
+1649,Lentil(Masur),Sahiyapur,2017-04-02,6025.0,0.0,36.3,clear
+1650,Bengal Gram(Gram),Sahiyapur,2017-06-02,8000.0,3.5,37.4,clear
+1651,Lentil(Masur),Sahiyapur,2017-06-02,6055.0,0.0,37.4,clear
+1652,Bengal Gram(Gram),Sahiyapur,2017-07-02,7800.0,2.5,32.6,clear
+1653,Lentil(Masur),Sahiyapur,2017-07-02,6000.0,0.4,32.6,clear
+1654,Bengal Gram(Gram),Sahiyapur,2017-08-02,7700.0,2.0,33.0,clear
+1655,Lentil(Masur),Sahiyapur,2017-08-02,5800.0,0.2,33.0,clear
+1656,Bengal Gram(Gram),Sahiyapur,2017-09-02,7600.0,2.5,32.0,clear
+1657,Lentil(Masur),Sahiyapur,2017-09-02,5800.0,0.0,32.0,clear
+1658,Bengal Gram(Gram),Sahiyapur,2017-10-02,7800.0,3.0,32.2,clear
+1659,Lentil(Masur),Sahiyapur,2017-10-02,5900.0,0.5,32.2,clear
+1660,Bengal Gram(Gram),Sahiyapur,2017-11-02,7700.0,2.5,29.2,clear
+1661,Lentil(Masur),Sahiyapur,2017-11-02,6000.0,0.0,29.2,clear
+1662,Bengal Gram(Gram),Sahiyapur,2017-02-13,7600.0,3.0,26.6,clear
+1663,Lentil(Masur),Sahiyapur,2017-02-13,6000.0,0.7,26.6,clear
+1664,Bengal Gram(Gram),Sahiyapur,2017-02-14,7600.0,2.0,27.0,clear
+1665,Lentil(Masur),Sahiyapur,2017-02-14,6000.0,0.0,27.0,clear
+1666,Bengal Gram(Gram),Sahiyapur,2017-02-15,7500.0,1.0,25.4,clear
+1667,Lentil(Masur),Sahiyapur,2017-02-15,6000.0,0.4,25.4,clear
+1668,Bengal Gram(Gram),Sahiyapur,2017-02-16,7500.0,2.5,27.0,clear
+1669,Lentil(Masur),Sahiyapur,2017-02-16,6000.0,0.4,27.0,clear
+1670,Bengal Gram(Gram),Sahiyapur,2017-02-17,7500.0,3.0,27.2,clear
+1671,Lentil(Masur),Sahiyapur,2017-02-17,6000.0,0.0,27.2,clear
+1672,Bengal Gram(Gram),Sahiyapur,2017-02-18,7500.0,0.0,28.0,clear
+1673,Lentil(Masur),Sahiyapur,2017-02-18,6000.0,0.5,28.0,clear
+1674,Bengal Gram(Gram),Sahiyapur,2017-02-20,7275.0,3.0,29.2,clear
+1675,Lentil(Masur),Sahiyapur,2017-02-20,5800.0,0.7,29.2,clear
+1676,Bengal Gram(Gram),Sahiyapur,2017-02-21,7200.0,2.5,31.2,clear
+1677,Lentil(Masur),Sahiyapur,2017-02-21,5750.0,0.0,31.2,clear
+1678,Bengal Gram(Gram),Sahiyapur,2017-02-22,7100.0,3.0,28.0,clear
+1679,Bengal Gram(Gram),Soharatgarh,2017-02-22,7050.0,4.0,28.0,clear
+1680,Bengal Gram(Gram),Wansi,2017-02-22,7100.0,3.5,28.0,clear
+1681,Lentil(Masur),Sahiyapur,2017-02-22,5700.0,0.0,28.0,clear
+1682,Lentil(Masur),Wansi,2017-02-22,5700.0,1.5,28.0,clear
+1683,Bengal Gram(Gram),Sahiyapur,2017-02-23,7000.0,2.5,26.6,clear
+1684,Bengal Gram(Gram),Soharatgarh,2017-02-23,7050.0,4.0,26.6,clear
+1685,Lentil(Masur),Sahiyapur,2017-02-23,5700.0,0.5,26.6,clear
+1686,Lentil(Masur),Soharatgarh,2017-02-23,5675.0,1.0,26.6,clear
+1687,Bengal Gram(Gram),Sahiyapur,2017-02-24,7000.0,2.0,25.6,clear
+1688,Lentil(Masur),Sahiyapur,2017-02-24,5700.0,0.0,25.6,clear
+1689,Bengal Gram(Gram),Sahiyapur,2017-02-28,7000.0,2.5,28.8,clear
+1690,Lentil(Masur),Sahiyapur,2017-02-28,5670.0,1.0,28.8,clear
+1691,Bengal Gram(Gram),Sahiyapur,2017-01-03,7000.0,4.0,22.2,clear
+1692,Lentil(Masur),Sahiyapur,2017-01-03,5600.0,0.4,22.2,clear
+1693,Bengal Gram(Gram),Sahiyapur,2017-02-03,7000.0,3.5,22.0,clear
+1694,Lentil(Masur),Sahiyapur,2017-02-03,5610.0,0.2,22.0,clear
+1695,Bengal Gram(Gram),Sahiyapur,2017-03-03,7000.0,4.0,31.2,clear
+1696,Lentil(Masur),Sahiyapur,2017-03-03,5550.0,0.4,31.2,clear
+1697,Bengal Gram(Gram),Sahiyapur,2017-04-03,7010.0,3.0,38.4,clear
+1698,Lentil(Masur),Sahiyapur,2017-04-03,5500.0,0.3,38.4,clear
+1699,Bengal Gram(Gram),Sahiyapur,2017-06-03,7000.0,2.0,40.0,clear
+1700,Lentil(Masur),Sahiyapur,2017-06-03,5500.0,0.2,40.0,clear
+1701,Bengal Gram(Gram),Sahiyapur,2017-07-03,7020.0,3.5,32.0,clear
+1702,Lentil(Masur),Sahiyapur,2017-07-03,5510.0,0.3,32.0,clear
+1703,Bengal Gram(Gram),Sahiyapur,2017-08-03,7000.0,4.0,30.2,clear
+1704,Lentil(Masur),Sahiyapur,2017-08-03,5500.0,0.0,30.2,clear
+1705,Bengal Gram(Gram),Sahiyapur,2017-09-03,6800.0,3.0,30.6,clear
+1706,Lentil(Masur),Sahiyapur,2017-09-03,5500.0,0.6,30.6,clear
+1707,Bengal Gram(Gram),Sahiyapur,2017-10-03,6800.0,2.5,32.2,clear
+1708,Lentil(Masur),Sahiyapur,2017-10-03,5500.0,0.5,32.2,clear
+1709,Bengal Gram(Gram),Sahiyapur,2017-11-03,6700.0,3.0,30.4,clear
+1710,Lentil(Masur),Sahiyapur,2017-11-03,5450.0,0.7,30.4,clear
+1711,Bengal Gram(Gram),Sahiyapur,2017-03-14,6700.0,2.0,27.2,clear
+1712,Lentil(Masur),Sahiyapur,2017-03-14,5400.0,0.5,27.2,clear
+1713,Bengal Gram(Gram),Sahiyapur,2017-03-15,6700.0,3.0,28.4,clear
+1714,Lentil(Masur),Sahiyapur,2017-03-15,5400.0,0.7,28.4,clear
+1715,Bengal Gram(Gram),Sahiyapur,2017-03-16,6710.0,2.5,29.6,clear
+1716,Lentil(Masur),Sahiyapur,2017-03-16,5410.0,0.5,29.6,clear
+1717,Bengal Gram(Gram),Sahiyapur,2017-03-17,6700.0,3.0,31.2,clear
+1718,Lentil(Masur),Sahiyapur,2017-03-17,5400.0,0.0,31.2,clear
+1719,Bengal Gram(Gram),Sahiyapur,2017-03-18,6710.0,2.5,29.4,clear
+1720,Lentil(Masur),Sahiyapur,2017-03-18,5400.0,0.0,29.4,clear
+1721,Bengal Gram(Gram),Sahiyapur,2017-03-20,6600.0,3.0,29.0,clear
+1722,Lentil(Masur),Sahiyapur,2017-03-20,5350.0,0.5,29.0,clear
+1723,Bengal Gram(Gram),Sahiyapur,2017-03-21,6600.0,4.0,28.6,clear
+1724,Lentil(Masur),Sahiyapur,2017-03-21,5325.0,0.4,28.6,clear
+1725,Bengal Gram(Gram),Sahiyapur,2017-03-22,6500.0,3.5,30.6,clear
+1726,Lentil(Masur),Sahiyapur,2017-03-22,5400.0,0.0,30.6,clear
+1727,Bengal Gram(Gram),Sahiyapur,2017-03-23,6500.0,3.0,31.2,clear
+1728,Lentil(Masur),Sahiyapur,2017-03-23,5450.0,0.3,31.2,clear
+1729,Bengal Gram(Gram),Sahiyapur,2017-03-24,6400.0,2.0,33.6,clear
+1730,Lentil(Masur),Sahiyapur,2017-03-24,5460.0,0.4,33.6,clear
+1731,Bengal Gram(Gram),Sahiyapur,2017-03-25,6415.0,3.0,35.8,clear
+1732,Lentil(Masur),Sahiyapur,2017-03-25,5470.0,0.5,35.8,clear
+1733,Bengal Gram(Gram),Sahiyapur,2017-03-27,6550.0,2.5,33.0,clear
+1734,Bengal Gram(Gram),Wansi,2017-03-27,6560.0,2.6,33.0,clear
+1735,Lentil(Masur),Sahiyapur,2017-03-27,5500.0,0.7,33.0,clear
+1736,Lentil(Masur),Wansi,2017-03-27,5500.0,1.0,33.0,clear
+1737,Bengal Gram(Gram),Sahiyapur,2017-03-28,6550.0,2.0,33.4,clear
+1738,Bengal Gram(Gram),Soharatgarh,2017-03-28,6550.0,2.0,33.4,clear
+1739,Lentil(Masur),Sahiyapur,2017-03-28,5510.0,1.0,33.4,clear
+1740,Lentil(Masur),Soharatgarh,2017-03-28,5510.0,1.0,33.4,clear
+1741,Bengal Gram(Gram),Sahiyapur,2017-03-29,6600.0,3.0,33.4,clear
+1742,Lentil(Masur),Sahiyapur,2017-03-29,5400.0,1.2,33.4,clear
+1743,Bengal Gram(Gram),Sahiyapur,2017-03-31,6500.0,4.0,34.0,clear
+1744,Lentil(Masur),Sahiyapur,2017-03-31,5350.0,1.5,34.0,clear
+1745,Bengal Gram(Gram),Sahiyapur,2017-01-04,6500.0,3.5,16.8,clear
+1746,Lentil(Masur),Sahiyapur,2017-01-04,5300.0,0.7,16.8,clear
+1747,Bengal Gram(Gram),Sahiyapur,2017-03-04,6500.0,3.0,31.4,clear
+1748,Lentil(Masur),Sahiyapur,2017-03-04,5300.0,0.5,31.4,clear
+1749,Bengal Gram(Gram),Sahiyapur,2017-04-04,6450.0,4.0,34.8,clear
+1750,Lentil(Masur),Sahiyapur,2017-04-04,5250.0,0.8,34.8,clear
+1751,Bengal Gram(Gram),Sahiyapur,2017-05-04,6465.0,2.0,39.0,clear
+1752,Lentil(Masur),Sahiyapur,2017-05-04,5200.0,1.0,39.0,clear
+1753,Bengal Gram(Gram),Sahiyapur,2017-06-04,6450.0,3.0,40.6,clear
+1754,Lentil(Masur),Sahiyapur,2017-06-04,5200.0,0.0,40.6,clear
+1755,Bengal Gram(Gram),Sahiyapur,2017-07-04,6400.0,3.5,37.4,rain
+1756,Lentil(Masur),Sahiyapur,2017-07-04,5210.0,0.5,37.4,rain
+1757,Bengal Gram(Gram),Sahiyapur,2017-08-04,6400.0,3.0,32.0,clear
+1758,Lentil(Masur),Sahiyapur,2017-08-04,5200.0,0.0,32.0,clear
+1759,Bengal Gram(Gram),Sahiyapur,2017-10-04,6410.0,3.5,33.6,clear
+1760,Lentil(Masur),Sahiyapur,2017-10-04,5200.0,1.0,33.6,clear
+1761,Bengal Gram(Gram),Sahiyapur,2017-11-04,6400.0,3.0,31.0,clear
+1762,Lentil(Masur),Sahiyapur,2017-11-04,5175.0,0.8,31.0,clear
+1763,Bengal Gram(Gram),Sahiyapur,2017-12-04,6400.0,3.2,25.4,clear
+1764,Lentil(Masur),Sahiyapur,2017-12-04,5175.0,0.5,25.4,clear
+1765,Bengal Gram(Gram),Sahiyapur,2017-04-13,6300.0,3.0,36.4,clear
+1766,Lentil(Masur),Sahiyapur,2017-04-13,5150.0,0.7,36.4,clear
+1767,Bengal Gram(Gram),Sahiyapur,2017-04-14,6200.0,4.0,37.0,clear
+1768,Lentil(Masur),Sahiyapur,2017-04-14,5100.0,0.5,37.0,clear
+1769,Bengal Gram(Gram),Sahiyapur,2017-04-15,6200.0,5.0,33.4,clear
+1770,Lentil(Masur),Sahiyapur,2017-04-15,5100.0,0.7,33.4,clear
+1771,Bengal Gram(Gram),Sahiyapur,2017-04-17,6100.0,2.0,35.6,clear
+1772,Lentil(Masur),Sahiyapur,2017-04-17,5110.0,0.7,35.6,clear
+1773,Bengal Gram(Gram),Sahiyapur,2017-04-18,6110.0,4.0,36.6,clear
+1774,Lentil(Masur),Sahiyapur,2017-04-18,5110.0,0.8,36.6,clear
+1775,Bengal Gram(Gram),Sahiyapur,2017-04-19,6000.0,4.5,34.6,clear
+1776,Lentil(Masur),Sahiyapur,2017-04-19,5100.0,0.5,34.6,clear
+1777,Bengal Gram(Gram),Sahiyapur,2017-04-20,6000.0,3.0,33.0,clear
+1778,Lentil(Masur),Sahiyapur,2017-04-20,5070.0,0.4,33.0,clear
+1779,Bengal Gram(Gram),Sahiyapur,2017-04-21,6000.0,4.0,32.0,clear
+1780,Lentil(Masur),Sahiyapur,2017-04-21,5050.0,0.5,32.0,clear
+1781,Bengal Gram(Gram),Sahiyapur,2017-04-22,6010.0,3.5,33.2,clear
+1782,Lentil(Masur),Sahiyapur,2017-04-22,5025.0,0.7,33.2,clear
+1783,Bengal Gram(Gram),Sahiyapur,2017-04-24,6050.0,3.0,35.2,clear
+1784,Bengal Gram(Gram),Wansi,2017-04-24,6100.0,3.5,35.2,clear
+1785,Lentil(Masur),Sahiyapur,2017-04-24,4950.0,0.8,35.2,clear
+1786,Lentil(Masur),Wansi,2017-04-24,4950.0,1.0,35.2,clear
+1787,Bengal Gram(Gram),Sahiyapur,2017-04-25,6200.0,3.5,39.4,clear
+1788,Lentil(Masur),Sahiyapur,2017-04-25,5100.0,1.0,39.4,clear
+1789,Bengal Gram(Gram),Sahiyapur,2017-04-26,6225.0,3.0,38.4,clear
+1790,Bengal Gram(Gram),Soharatgarh,2017-04-26,6200.0,0.0,38.4,clear
+1791,Lentil(Masur),Sahiyapur,2017-04-26,5130.0,0.8,38.4,clear
+1792,Lentil(Masur),Soharatgarh,2017-04-26,5100.0,1.2,38.4,clear
+1793,Bengal Gram(Gram),Sahiyapur,2017-04-28,6275.0,3.5,40.2,clear
+1794,Lentil(Masur),Sahiyapur,2017-04-28,5125.0,0.0,40.2,clear
+1795,Bengal Gram(Gram),Sahiyapur,2017-04-29,6300.0,4.0,40.8,clear
+1796,Lentil(Masur),Sahiyapur,2017-04-29,5120.0,0.8,40.8,clear
+1797,Bengal Gram(Gram),Sahiyapur,2017-01-05,6310.0,3.5,19.0,clear
+1798,Lentil(Masur),Sahiyapur,2017-01-05,5075.0,0.4,19.0,clear
+1799,Bengal Gram(Gram),Sahiyapur,2017-02-05,6315.0,3.0,25.4,clear
+1800,Lentil(Masur),Sahiyapur,2017-02-05,5060.0,0.4,25.4,clear
+1801,Bengal Gram(Gram),Sahiyapur,2017-03-05,6320.0,2.5,28.2,clear
+1802,Lentil(Masur),Sahiyapur,2017-03-05,5050.0,0.6,28.2,clear
+1803,Bengal Gram(Gram),Sahiyapur,2017-04-05,6325.0,3.0,34.0,clear
+1804,Lentil(Masur),Sahiyapur,2017-04-05,5040.0,0.5,34.0,clear
+1805,Bengal Gram(Gram),Sahiyapur,2017-05-05,6300.0,3.5,39.0,clear
+1806,Lentil(Masur),Sahiyapur,2017-05-05,5040.0,0.8,39.0,clear
+1807,Bengal Gram(Gram),Sahiyapur,2017-06-05,6330.0,2.0,35.2,rain
+1808,Lentil(Masur),Sahiyapur,2017-06-05,5030.0,0.5,35.2,rain
+1809,Bengal Gram(Gram),Sahiyapur,2017-08-05,6340.0,3.0,34.8,rain
+1810,Lentil(Masur),Sahiyapur,2017-08-05,5045.0,0.7,34.8,rain
+1811,Bengal Gram(Gram),Sahiyapur,2017-09-05,6365.0,2.5,34.4,clear
+1812,Lentil(Masur),Sahiyapur,2017-09-05,5040.0,0.8,34.4,clear
+1813,Bengal Gram(Gram),Sahiyapur,2017-10-05,6370.0,3.0,33.8,clear
+1814,Lentil(Masur),Sahiyapur,2017-10-05,5050.0,0.7,33.8,clear
+1815,Bengal Gram(Gram),Sahiyapur,2017-11-05,6400.0,2.5,30.8,clear
+1816,Lentil(Masur),Sahiyapur,2017-11-05,5040.0,0.5,30.8,clear
+1817,Bengal Gram(Gram),Sahiyapur,2017-12-05,6400.0,3.0,25.6,clear
+1818,Lentil(Masur),Sahiyapur,2017-12-05,5045.0,0.0,25.6,clear
+1819,Bengal Gram(Gram),Sahiyapur,2017-05-13,6410.0,3.5,36.0,clear
+1820,Lentil(Masur),Sahiyapur,2017-05-13,5040.0,0.4,36.0,clear
+1821,Bengal Gram(Gram),Sahiyapur,2017-05-15,6510.0,2.0,38.8,clear
+1822,Bengal Gram(Gram),Sahiyapur,2017-05-16,6510.0,3.0,37.0,clear
+1823,Lentil(Masur),Sahiyapur,2017-05-16,4875.0,0.7,37.0,clear
+1824,Bengal Gram(Gram),Sahiyapur,2017-05-17,6525.0,2.0,31.8,clear
+1825,Lentil(Masur),Sahiyapur,2017-05-17,4880.0,0.5,31.8,clear
+1826,Bengal Gram(Gram),Sahiyapur,2017-05-18,6525.0,1.0,36.4,clear
+1827,Lentil(Masur),Sahiyapur,2017-05-18,4800.0,0.7,36.4,clear
+1828,Bengal Gram(Gram),Sahiyapur,2017-05-19,6530.0,1.5,39.6,clear
+1829,Lentil(Masur),Sahiyapur,2017-05-19,4775.0,0.7,39.6,clear
+1830,Bengal Gram(Gram),Sahiyapur,2017-05-20,6525.0,1.0,39.4,clear
+1831,Lentil(Masur),Sahiyapur,2017-05-20,4750.0,0.0,39.4,clear
+1832,Bengal Gram(Gram),Sahiyapur,2017-05-22,6500.0,1.5,41.2,clear
+1833,Lentil(Masur),Sahiyapur,2017-05-22,4900.0,0.5,41.2,clear
+1834,Bengal Gram(Gram),Sahiyapur,2017-05-23,6500.0,2.0,40.0,clear
+1835,Lentil(Masur),Sahiyapur,2017-05-23,4950.0,0.0,40.0,clear
+1836,Bengal Gram(Gram),Sahiyapur,2017-05-24,6475.0,2.5,40.0,clear
+1837,Lentil(Masur),Sahiyapur,2017-05-24,5000.0,0.0,40.0,clear
+1838,Bengal Gram(Gram),Sahiyapur,2017-05-25,6510.0,2.2,42.0,rain
+1839,Bengal Gram(Gram),Sahiyapur,2017-05-26,6500.0,2.5,37.8,clear
+1840,Lentil(Masur),Sahiyapur,2017-05-26,4850.0,0.2,37.8,clear
+1841,Bengal Gram(Gram),Sahiyapur,2017-05-27,6600.0,2.0,31.4,clear
+1842,Bengal Gram(Gram),Wansi,2017-05-27,6550.0,3.0,31.4,clear
+1843,Lentil(Masur),Sahiyapur,2017-05-27,4800.0,0.5,31.4,clear
+1844,Lentil(Masur),Wansi,2017-05-27,4800.0,1.0,31.4,clear
+1845,Bengal Gram(Gram),Sahiyapur,2017-05-29,6650.0,3.0,35.2,clear
+1846,Bengal Gram(Gram),Soharatgarh,2017-05-29,6600.0,2.5,35.2,clear
+1847,Lentil(Masur),Sahiyapur,2017-05-29,4750.0,0.7,35.2,clear
+1848,Lentil(Masur),Soharatgarh,2017-05-29,4750.0,1.5,35.2,clear
+1849,Bengal Gram(Gram),Sahiyapur,2017-05-31,6640.0,1.0,35.6,clear
+1850,Lentil(Masur),Sahiyapur,2017-05-31,4700.0,0.0,35.6,clear
+1851,Bengal Gram(Gram),Sahiyapur,2017-01-06,6600.0,3.0,18.0,clear
+1852,Lentil(Masur),Sahiyapur,2017-01-06,4700.0,0.3,18.0,clear
+1853,Bengal Gram(Gram),Sahiyapur,2017-02-06,6660.0,2.5,26.6,clear
+1854,Lentil(Masur),Sahiyapur,2017-02-06,4800.0,0.5,26.6,clear
+1855,Bengal Gram(Gram),Sahiyapur,2017-03-06,6650.0,2.0,29.8,clear
+1856,Lentil(Masur),Sahiyapur,2017-03-06,4800.0,0.7,29.8,clear
+1857,Bengal Gram(Gram),Sahiyapur,2017-05-06,6640.0,1.0,40.6,clear
+1858,Lentil(Masur),Sahiyapur,2017-05-06,4810.0,0.0,40.6,clear
+1859,Bengal Gram(Gram),Sahiyapur,2017-06-06,6650.0,1.5,27.6,clear
+1860,Lentil(Masur),Sahiyapur,2017-06-06,4850.0,0.5,27.6,clear
+1861,Bengal Gram(Gram),Sahiyapur,2017-07-06,6635.0,0.0,31.6,clear
+1862,Bengal Gram(Gram),Soharatgarh,2017-07-06,6600.0,1.0,31.6,clear
+1863,Bengal Gram(Gram),Wansi,2017-07-06,6600.0,1.0,31.6,clear
+1864,Lentil(Masur),Sahiyapur,2017-07-06,4825.0,0.0,31.6,clear
+1865,Lentil(Masur),Soharatgarh,2017-07-06,4750.0,0.5,31.6,clear
+1866,Lentil(Masur),Wansi,2017-07-06,4740.0,0.6,31.6,clear
+1867,Bengal Gram(Gram),Sahiyapur,2017-08-06,6600.0,1.5,35.0,rain
+1868,Lentil(Masur),Sahiyapur,2017-08-06,4800.0,0.4,35.0,rain
+1869,Bengal Gram(Gram),Sahiyapur,2017-09-06,6600.0,1.0,34.4,clear
+1870,Lentil(Masur),Sahiyapur,2017-09-06,4600.0,0.5,34.4,clear
+1871,Bengal Gram(Gram),Sahiyapur,2017-10-06,6600.0,0.0,35.4,clear
+1872,Lentil(Masur),Sahiyapur,2017-10-06,4600.0,0.0,35.4,clear
+1873,Bengal Gram(Gram),Sahiyapur,2017-12-06,6650.0,1.5,27.8,clear
+1874,Lentil(Masur),Sahiyapur,2017-12-06,4550.0,0.5,27.8,clear
+1875,Bengal Gram(Gram),Sahiyapur,2017-06-13,6650.0,0.0,37.6,clear
+1876,Lentil(Masur),Sahiyapur,2017-06-13,4540.0,0.0,37.6,clear
+1877,Bengal Gram(Gram),Sahiyapur,2017-06-14,6650.0,1.0,38.8,clear
+1878,Lentil(Masur),Sahiyapur,2017-06-14,4500.0,0.0,38.8,clear
+1879,Bengal Gram(Gram),Sahiyapur,2017-06-15,6660.0,0.0,35.0,clear
+1880,Lentil(Masur),Sahiyapur,2017-06-15,4500.0,0.0,35.0,clear
+1881,Bengal Gram(Gram),Sahiyapur,2017-06-16,6660.0,1.0,35.6,clear
+1882,Lentil(Masur),Sahiyapur,2017-06-16,4500.0,0.0,35.6,clear
+1883,Bengal Gram(Gram),Sahiyapur,2017-06-17,6650.0,1.5,35.4,clear
+1884,Lentil(Masur),Sahiyapur,2017-06-17,4475.0,0.2,35.4,clear
+1885,Bengal Gram(Gram),Sahiyapur,2017-06-19,6500.0,0.0,36.8,clear
+1886,Lentil(Masur),Sahiyapur,2017-06-19,4470.0,0.5,36.8,clear
+1887,Bengal Gram(Gram),Sahiyapur,2017-06-20,6500.0,1.0,36.8,clear
+1888,Lentil(Masur),Sahiyapur,2017-06-20,4500.0,0.0,36.8,clear
+1889,Bengal Gram(Gram),Sahiyapur,2017-06-22,6300.0,1.0,35.4,clear
+1890,Bengal Gram(Gram),Sahiyapur,2017-06-23,6300.0,1.5,35.8,clear
+1891,Lentil(Masur),Sahiyapur,2017-06-23,4500.0,0.0,35.8,clear
+1892,Bengal Gram(Gram),Sahiyapur,2017-06-24,6400.0,0.0,35.0,clear
+1893,Bengal Gram(Gram),Sahiyapur,2017-06-26,6400.0,0.0,36.8,clear
+1894,Bengal Gram(Gram),Sahiyapur,2017-06-27,6400.0,1.0,36.8,clear
+1895,Lentil(Masur),Sahiyapur,2017-06-27,4500.0,0.0,36.8,clear
+1896,Bengal Gram(Gram),Sahiyapur,2017-06-28,6360.0,0.5,36.0,clear
+1897,Bengal Gram(Gram),Sahiyapur,2017-06-29,6350.0,0.0,36.2,clear
+1898,Bengal Gram(Gram),Sahiyapur,2017-02-07,6300.0,2.0,24.6,clear
+1899,Lentil(Masur),Sahiyapur,2017-02-07,4500.0,0.0,24.6,clear
+1900,Bengal Gram(Gram),Sahiyapur,2017-04-07,6320.0,2.5,36.8,clear
+1901,Lentil(Masur),Sahiyapur,2017-04-07,4500.0,0.0,36.8,clear
+1902,Bengal Gram(Gram),Sahiyapur,2017-05-07,6325.0,3.0,37.6,clear
+1903,Lentil(Masur),Sahiyapur,2017-05-07,4500.0,0.0,37.6,clear
+1904,Bengal Gram(Gram),Sahiyapur,2017-06-07,6320.0,1.2,33.2,clear
+1905,Lentil(Masur),Sahiyapur,2017-06-07,4460.0,0.0,33.2,clear
+1906,Bengal Gram(Gram),Sahiyapur,2017-07-07,6300.0,0.0,33.2,clear
+1907,Lentil(Masur),Sahiyapur,2017-07-07,4450.0,0.0,33.2,clear
+1908,Bengal Gram(Gram),Sahiyapur,2017-08-07,6300.0,0.0,34.4,clear
+1909,Lentil(Masur),Sahiyapur,2017-08-07,4440.0,0.0,34.4,clear
+1910,Bengal Gram(Gram),Sahiyapur,2017-10-07,6300.0,0.0,35.0,clear
+1911,Lentil(Masur),Sahiyapur,2017-10-07,4400.0,0.0,35.0,clear
+1912,Bengal Gram(Gram),Sahiyapur,2017-11-07,6275.0,1.0,30.6,clear
+1913,Lentil(Masur),Sahiyapur,2017-11-07,4400.0,0.0,30.6,clear
+1914,Bengal Gram(Gram),Sahiyapur,2017-12-07,6100.0,1.5,27.4,clear
+1915,Lentil(Masur),Sahiyapur,2017-12-07,4400.0,0.0,27.4,clear
+1916,Bengal Gram(Gram),Sahiyapur,2017-07-13,6000.0,1.0,32.0,clear
+1917,Lentil(Masur),Sahiyapur,2017-07-13,4350.0,0.0,32.0,clear
+1918,Bengal Gram(Gram),Sahiyapur,2017-07-14,6200.0,0.0,34.4,clear
+1919,Lentil(Masur),Sahiyapur,2017-07-14,4350.0,0.0,34.4,clear
+1920,Bengal Gram(Gram),Sahiyapur,2017-07-15,6000.0,0.0,34.8,clear
+1921,Lentil(Masur),Sahiyapur,2017-07-15,4340.0,0.0,34.8,clear
+1922,Bengal Gram(Gram),Sahiyapur,2017-07-17,6020.0,1.0,35.6,clear
+1923,Lentil(Masur),Sahiyapur,2017-07-17,4325.0,0.2,35.6,clear
+1924,Bengal Gram(Gram),Sahiyapur,2017-07-18,6000.0,0.0,36.8,clear
+1925,Lentil(Masur),Sahiyapur,2017-07-18,4325.0,0.0,36.8,clear
+1926,Bengal Gram(Gram),Sahiyapur,2017-07-19,6010.0,2.0,35.6,clear
+1927,Lentil(Masur),Sahiyapur,2017-07-19,4330.0,0.0,35.6,clear
+1928,Bengal Gram(Gram),Sahiyapur,2017-07-20,6000.0,0.0,34.4,clear
+1929,Lentil(Masur),Sahiyapur,2017-07-20,4375.0,0.0,34.4,clear
+1930,Bengal Gram(Gram),Sahiyapur,2017-07-21,6000.0,1.5,31.6,clear
+1931,Lentil(Masur),Sahiyapur,2017-07-21,4380.0,0.2,31.6,clear
+1932,Bengal Gram(Gram),Sahiyapur,2017-07-22,6000.0,0.0,33.0,clear
+1933,Lentil(Masur),Sahiyapur,2017-07-22,4400.0,0.0,33.0,clear
+1934,Bengal Gram(Gram),Sahiyapur,2017-07-24,6050.0,1.0,33.0,rain
+1935,Lentil(Masur),Sahiyapur,2017-07-24,4400.0,0.0,33.0,rain
+1936,Bengal Gram(Gram),Sahiyapur,2017-07-25,6045.0,1.5,33.0,clear
+1937,Lentil(Masur),Sahiyapur,2017-07-25,4400.0,0.0,33.0,clear
+1938,Bengal Gram(Gram),Sahiyapur,2017-07-26,6050.0,1.0,31.6,clear
+1939,Lentil(Masur),Sahiyapur,2017-07-26,4410.0,0.2,31.6,clear
+1940,Bengal Gram(Gram),Sahiyapur,2017-07-27,6040.0,0.0,32.4,clear
+1941,Lentil(Masur),Sahiyapur,2017-07-27,4400.0,0.0,32.4,clear
+1942,Bengal Gram(Gram),Sahiyapur,2017-07-28,6050.0,1.0,35.4,clear
+1943,Lentil(Masur),Sahiyapur,2017-07-28,4410.0,0.0,35.4,clear
+1944,Bengal Gram(Gram),Sahiyapur,2017-07-29,6060.0,1.5,32.0,clear
+1945,Lentil(Masur),Sahiyapur,2017-07-29,4400.0,0.0,32.0,clear
+1946,Bengal Gram(Gram),Sahiyapur,2017-07-31,6050.0,1.0,34.4,clear
+1947,Bengal Gram(Gram),Sahiyapur,2017-01-08,6125.0,0.0,23.4,clear
+1948,Lentil(Masur),Sahiyapur,2017-01-08,4000.0,0.0,23.4,clear
+1949,Bengal Gram(Gram),Sahiyapur,2017-02-08,6150.0,1.0,24.6,clear
+1950,Lentil(Masur),Sahiyapur,2017-02-08,4000.0,0.0,24.6,clear
+1951,Bengal Gram(Gram),Sahiyapur,2017-03-08,6140.0,0.0,30.2,clear
+1952,Lentil(Masur),Sahiyapur,2017-03-08,4000.0,0.0,30.2,clear
+1953,Bengal Gram(Gram),Sahiyapur,2017-04-08,6100.0,0.7,37.8,clear
+1954,Bengal Gram(Gram),Sahiyapur,2017-05-08,6100.0,0.5,36.2,clear
+1955,Lentil(Masur),Sahiyapur,2017-05-08,4430.0,0.0,36.2,clear
+1956,Bengal Gram(Gram),Sahiyapur,2017-08-08,6160.0,1.5,35.2,clear
+1957,Bengal Gram(Gram),Sahiyapur,2017-09-08,6175.0,1.0,34.0,clear
+1958,Lentil(Masur),Sahiyapur,2017-09-08,4430.0,0.0,34.0,clear
+1959,Bengal Gram(Gram),Sahiyapur,2017-10-08,6180.0,1.2,34.0,clear
+1960,Lentil(Masur),Sahiyapur,2017-10-08,4425.0,0.0,34.0,clear
+1961,Bengal Gram(Gram),Sahiyapur,2017-11-08,6175.0,1.0,30.2,clear
+1962,Lentil(Masur),Sahiyapur,2017-11-08,4400.0,0.0,30.2,clear
+1963,Bengal Gram(Gram),Sahiyapur,2017-12-08,6100.0,1.5,27.4,clear
+1964,Lentil(Masur),Sahiyapur,2017-12-08,4300.0,0.0,27.4,clear
+1965,Bengal Gram(Gram),Sahiyapur,2017-08-14,6110.0,1.0,29.2,rain
+1966,Lentil(Masur),Sahiyapur,2017-08-14,4300.0,0.0,29.2,rain
+1967,Bengal Gram(Gram),Sahiyapur,2017-08-16,6100.0,1.5,31.5,clear
+1968,Lentil(Masur),Sahiyapur,2017-08-16,3900.0,0.0,31.5,clear
+1969,Bengal Gram(Gram),Sahiyapur,2017-08-17,5900.0,1.0,32.6,clear
+1970,Lentil(Masur),Sahiyapur,2017-08-17,3910.0,0.0,32.6,clear
+1971,Bengal Gram(Gram),Sahiyapur,2017-08-18,5850.0,1.2,33.0,clear
+1972,Lentil(Masur),Sahiyapur,2017-08-18,3900.0,0.0,33.0,clear
+1973,Bengal Gram(Gram),Sahiyapur,2017-08-19,5825.0,1.0,30.0,clear
+1974,Lentil(Masur),Sahiyapur,2017-08-19,3900.0,0.2,30.0,clear
+1975,Bengal Gram(Gram),Sahiyapur,2017-08-21,5820.0,1.2,33.4,clear
+1976,Lentil(Masur),Sahiyapur,2017-08-21,3900.0,0.0,33.4,clear
+1977,Bengal Gram(Gram),Sahiyapur,2017-08-22,5800.0,1.0,33.0,clear
+1978,Lentil(Masur),Sahiyapur,2017-08-22,3900.0,0.0,33.0,clear
+1979,Bengal Gram(Gram),Sahiyapur,2017-08-23,5825.0,1.5,31.4,clear
+1980,Lentil(Masur),Sahiyapur,2017-08-23,3910.0,0.0,31.4,clear
+1981,Bengal Gram(Gram),Sahiyapur,2017-08-24,5800.0,1.0,34.0,clear
+1982,Lentil(Masur),Sahiyapur,2017-08-24,3900.0,0.0,34.0,clear
+1983,Bengal Gram(Gram),Sahiyapur,2017-08-25,5800.0,2.5,32.2,clear
+1984,Lentil(Masur),Sahiyapur,2017-08-25,3910.0,0.1,32.2,clear
+1985,Bengal Gram(Gram),Sahiyapur,2017-08-26,5810.0,0.0,34.4,clear
+1986,Lentil(Masur),Sahiyapur,2017-08-26,3900.0,0.0,34.4,clear
+1987,Bengal Gram(Gram),Sahiyapur,2017-08-28,5800.0,1.5,33.0,clear
+1988,Lentil(Masur),Sahiyapur,2017-08-28,3900.0,0.0,33.0,clear
+1989,Bengal Gram(Gram),Sahiyapur,2017-08-29,5800.0,1.0,33.4,clear
+1990,Lentil(Masur),Sahiyapur,2017-08-29,3915.0,0.0,33.4,clear
+1991,Bengal Gram(Gram),Sahiyapur,2017-08-30,5810.0,1.5,34.2,clear
+1992,Lentil(Masur),Sahiyapur,2017-08-30,3900.0,0.0,34.2,clear
+1993,Bengal Gram(Gram),Sahiyapur,2017-08-31,5800.0,2.0,35.2,clear
+1994,Lentil(Masur),Sahiyapur,2017-08-31,3910.0,0.0,35.2,clear
+1995,Bengal Gram(Gram),Sahiyapur,2017-01-09,5800.0,0.0,24.6,clear
+1996,Lentil(Masur),Sahiyapur,2017-01-09,3900.0,0.0,24.6,clear
+1997,Bengal Gram(Gram),Sahiyapur,2017-02-09,5800.0,0.0,25.2,clear
+1998,Lentil(Masur),Sahiyapur,2017-02-09,3910.0,0.0,25.2,clear
+1999,Bengal Gram(Gram),Sahiyapur,2017-04-09,5810.0,1.0,36.8,clear
+2000,Lentil(Masur),Sahiyapur,2017-04-09,3900.0,0.0,36.8,clear
+2001,Bengal Gram(Gram),Sahiyapur,2017-05-09,5800.0,1.5,32.6,clear
+2002,Lentil(Masur),Sahiyapur,2017-05-09,3900.0,0.0,32.6,clear
+2003,Bengal Gram(Gram),Sahiyapur,2017-06-09,5800.0,0.0,37.0,clear
+2004,Lentil(Masur),Sahiyapur,2017-06-09,3910.0,0.0,37.0,clear
+2005,Bengal Gram(Gram),Sahiyapur,2017-07-09,5850.0,0.7,32.0,rain
+2006,Lentil(Masur),Sahiyapur,2017-07-09,3900.0,0.0,32.0,rain
+2007,Bengal Gram(Gram),Sahiyapur,2017-08-09,5875.0,0.8,33.6,clear
+2008,Lentil(Masur),Sahiyapur,2017-08-09,3900.0,0.0,33.6,clear
+2009,Bengal Gram(Gram),Sahiyapur,2017-09-09,5900.0,1.0,34.4,clear
+2010,Lentil(Masur),Sahiyapur,2017-09-09,3900.0,0.0,34.4,clear
+2011,Bengal Gram(Gram),Sahiyapur,2017-11-09,6000.0,0.8,30.0,clear
+2012,Lentil(Masur),Sahiyapur,2017-11-09,3900.0,0.0,30.0,clear
+2013,Bengal Gram(Gram),Sahiyapur,2017-12-09,6025.0,0.5,28.0,clear
+2014,Lentil(Masur),Sahiyapur,2017-12-09,3900.0,0.0,28.0,clear
+2015,Bengal Gram(Gram),Sahiyapur,2017-09-13,6050.0,1.0,34.0,clear
+2016,Lentil(Masur),Sahiyapur,2017-09-13,3900.0,0.0,34.0,clear
+2017,Bengal Gram(Gram),Sahiyapur,2017-09-14,6100.0,1.2,34.4,clear
+2018,Lentil(Masur),Sahiyapur,2017-09-14,3900.0,0.0,34.4,clear
+2019,Bengal Gram(Gram),Sahiyapur,2017-09-15,6100.0,1.0,34.4,clear
+2020,Lentil(Masur),Sahiyapur,2017-09-15,3900.0,0.0,34.4,clear
+2021,Bengal Gram(Gram),Sahiyapur,2017-09-16,6080.0,1.2,33.6,clear
+2022,Lentil(Masur),Sahiyapur,2017-09-16,3925.0,0.2,33.6,clear
+2023,Bengal Gram(Gram),Sahiyapur,2017-09-18,6090.0,1.0,37.2,clear
+2024,Lentil(Masur),Sahiyapur,2017-09-18,3930.0,0.0,37.2,clear
+2025,Bengal Gram(Gram),Sahiyapur,2017-09-19,6100.0,0.8,34.2,clear
+2026,Lentil(Masur),Sahiyapur,2017-09-19,3925.0,0.0,34.2,clear
+2027,Bengal Gram(Gram),Sahiyapur,2017-09-20,6100.0,1.0,32.2,clear
+2028,Lentil(Masur),Sahiyapur,2017-09-20,3930.0,0.3,32.2,clear
+2029,Bengal Gram(Gram),Sahiyapur,2017-09-21,6100.0,1.4,30.6,rain
+2030,Lentil(Masur),Sahiyapur,2017-09-21,3900.0,0.0,30.6,rain
+2031,Bengal Gram(Gram),Sahiyapur,2017-09-22,6300.0,1.0,32.2,clear
+2032,Lentil(Masur),Sahiyapur,2017-09-22,3910.0,0.0,32.2,clear
+2033,Bengal Gram(Gram),Sahiyapur,2017-09-23,6300.0,1.5,33.4,clear
+2034,Lentil(Masur),Sahiyapur,2017-09-23,3900.0,0.0,33.4,clear
+2035,Bengal Gram(Gram),Sahiyapur,2017-09-25,6315.0,1.0,33.6,clear
+2036,Lentil(Masur),Sahiyapur,2017-09-25,3900.0,0.0,33.6,clear
+2037,Bengal Gram(Gram),Sahiyapur,2017-09-26,6300.0,0.8,34.0,clear
+2038,Lentil(Masur),Sahiyapur,2017-09-26,4050.0,0.2,34.0,clear
+2039,Bengal Gram(Gram),Sahiyapur,2017-09-27,6300.0,1.0,34.2,clear
+2040,Lentil(Masur),Sahiyapur,2017-09-27,4060.0,0.0,34.2,clear
+2041,Bengal Gram(Gram),Sahiyapur,2017-09-28,6310.0,2.0,34.4,clear
+2042,Lentil(Masur),Sahiyapur,2017-09-28,4070.0,0.0,34.4,clear
+2043,Bengal Gram(Gram),Sahiyapur,2017-09-29,6315.0,1.5,32.8,clear
+2044,Lentil(Masur),Sahiyapur,2017-09-29,4075.0,0.0,32.8,clear
+2045,Bengal Gram(Gram),Sahiyapur,2017-09-30,6310.0,2.0,33.6,clear
+2046,Lentil(Masur),Sahiyapur,2017-09-30,4070.0,0.0,33.6,clear
+2047,Bengal Gram(Gram),Sahiyapur,2017-02-10,6315.0,1.0,24.0,clear
+2048,Lentil(Masur),Sahiyapur,2017-02-10,4060.0,0.0,24.0,clear
+2049,Bengal Gram(Gram),Sahiyapur,2017-03-10,6350.0,1.5,27.2,clear
+2050,Lentil(Masur),Sahiyapur,2017-03-10,4025.0,0.0,27.2,clear
+2051,Bengal Gram(Gram),Sahiyapur,2017-04-10,6375.0,2.0,34.8,clear
+2052,Bengal Gram(Gram),Sahiyapur,2017-05-10,6380.0,1.4,33.2,clear
+2053,Lentil(Masur),Sahiyapur,2017-05-10,4000.0,0.0,33.2,clear
+2054,Bengal Gram(Gram),Sahiyapur,2017-06-10,6390.0,1.5,36.0,clear
+2055,Lentil(Masur),Sahiyapur,2017-06-10,4000.0,0.0,36.0,clear
+2056,Bengal Gram(Gram),Sahiyapur,2017-07-10,6400.0,1.0,26.4,clear
+2057,Lentil(Masur),Sahiyapur,2017-07-10,4000.0,0.0,26.4,clear
+2058,Bengal Gram(Gram),Sahiyapur,2017-09-10,6350.0,2.0,35.0,clear
+2059,Lentil(Masur),Sahiyapur,2017-09-10,4000.0,0.0,35.0,clear
+2060,Bengal Gram(Gram),Sahiyapur,2017-10-10,6325.0,2.5,33.8,clear
+2061,Lentil(Masur),Sahiyapur,2017-10-10,4000.0,0.0,33.8,clear
+2062,Bengal Gram(Gram),Sahiyapur,2017-11-10,6300.0,2.0,28.0,clear
+2063,Lentil(Masur),Sahiyapur,2017-11-10,4000.0,0.0,28.0,clear
+2064,Bengal Gram(Gram),Sahiyapur,2017-12-10,6300.0,1.5,27.0,clear
+2065,Lentil(Masur),Sahiyapur,2017-12-10,4000.0,0.0,27.0,clear
+2066,Bengal Gram(Gram),Sahiyapur,2017-10-13,6300.0,2.0,34.0,clear
+2067,Lentil(Masur),Sahiyapur,2017-10-13,4000.0,0.0,34.0,clear
+2068,Bengal Gram(Gram),Sahiyapur,2017-10-14,6310.0,2.5,34.8,clear
+2069,Lentil(Masur),Sahiyapur,2017-10-14,4010.0,0.0,34.8,clear
+2070,Bengal Gram(Gram),Sahiyapur,2017-10-16,6350.0,3.0,32.4,clear
+2071,Lentil(Masur),Sahiyapur,2017-10-16,4000.0,0.0,32.4,clear
+2072,Bengal Gram(Gram),Sahiyapur,2017-10-17,6340.0,2.5,33.6,clear
+2073,Lentil(Masur),Sahiyapur,2017-10-17,4000.0,0.0,33.6,clear
+2074,Bengal Gram(Gram),Sahiyapur,2017-10-18,6350.0,2.0,33.6,clear
+2075,Lentil(Masur),Sahiyapur,2017-10-18,4000.0,0.0,33.6,clear
+2076,Bengal Gram(Gram),Sahiyapur,2017-10-19,6340.0,1.5,34.4,clear
+2077,Lentil(Masur),Sahiyapur,2017-10-19,4010.0,0.0,34.4,clear
+2078,Bengal Gram(Gram),Sahiyapur,2017-10-20,6350.0,2.0,34.0,clear
+2079,Lentil(Masur),Sahiyapur,2017-10-20,4005.0,0.0,34.0,clear
+2080,Bengal Gram(Gram),Sahiyapur,2017-10-21,6350.0,1.5,32.2,clear
+2081,Lentil(Masur),Sahiyapur,2017-10-21,4015.0,0.0,32.2,clear
+2082,Bengal Gram(Gram),Sahiyapur,2017-10-23,6350.0,2.0,32.2,clear
+2083,Lentil(Masur),Sahiyapur,2017-10-23,4025.0,0.0,32.2,clear
+2084,Bengal Gram(Gram),Sahiyapur,2017-10-24,6360.0,2.5,32.0,clear
+2085,Lentil(Masur),Sahiyapur,2017-10-24,4030.0,0.0,32.0,clear
+2086,Bengal Gram(Gram),Sahiyapur,2017-10-25,6360.0,3.0,31.6,clear
+2087,Lentil(Masur),Sahiyapur,2017-10-25,4025.0,0.0,31.6,clear
+2088,Bengal Gram(Gram),Sahiyapur,2017-10-26,6375.0,4.0,29.2,clear
+2089,Lentil(Masur),Sahiyapur,2017-10-26,4000.0,0.0,29.2,clear
+2090,Bengal Gram(Gram),Sahiyapur,2017-10-27,6375.0,3.0,30.4,clear
+2091,Lentil(Masur),Sahiyapur,2017-10-27,4010.0,0.0,30.4,clear
+2092,Bengal Gram(Gram),Sahiyapur,2017-10-28,6380.0,2.0,30.6,clear
+2093,Lentil(Masur),Sahiyapur,2017-10-28,4000.0,0.0,30.6,clear
+2094,Bengal Gram(Gram),Sahiyapur,2017-10-30,6325.0,3.0,30.4,clear
+2095,Lentil(Masur),Sahiyapur,2017-10-30,4010.0,0.0,30.4,clear
+2096,Bengal Gram(Gram),Sahiyapur,2017-10-31,6400.0,2.5,28.4,clear
+2097,Lentil(Masur),Sahiyapur,2017-10-31,4000.0,0.0,28.4,clear
+2098,Bengal Gram(Gram),Sahiyapur,2017-01-11,6400.0,2.6,19.4,clear
+2099,Lentil(Masur),Sahiyapur,2017-01-11,4050.0,0.0,19.4,clear
+2100,Bengal Gram(Gram),Sahiyapur,2017-02-11,4000.0,2.0,24.2,clear
+2101,Lentil(Masur),Sahiyapur,2017-02-11,4100.0,0.0,24.2,clear
+2102,Bengal Gram(Gram),Sahiyapur,2017-03-11,6410.0,3.0,25.8,clear
+2103,Lentil(Masur),Sahiyapur,2017-03-11,4125.0,0.0,25.8,clear
+2104,Bengal Gram(Gram),Sahiyapur,2017-04-11,6400.0,2.0,35.6,clear
+2105,Lentil(Masur),Sahiyapur,2017-04-11,4125.0,0.0,35.6,clear
+2106,Lentil(Masur),Sahiyapur,2017-06-21,4550.0,0.2,31.8,clear

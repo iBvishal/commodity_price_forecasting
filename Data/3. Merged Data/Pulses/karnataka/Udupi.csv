@@ -1,0 +1,167 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Kundapura,2015-12-15,11700.0,2.0,30.4,clear
+1,Arhar (Tur/Red Gram),Kundapura,2015-12-22,12380.0,1.0,29.8,clear
+2,Bengal Gram(Gram),Kundapura,2015-12-22,7194.0,2.0,29.8,clear
+3,Arhar (Tur/Red Gram),Kundapura,2015-12-28,12085.0,1.0,30.6,clear
+4,Bengal Gram(Gram),Kundapura,2015-12-28,5705.0,1.0,30.6,clear
+5,Green Gram (Moong),Kundapura,2015-12-28,9200.0,1.0,30.6,clear
+6,Bengal Gram(Gram),Kundapura,2015-12-09,7000.0,2.0,31.4,clear
+7,Green Gram (Moong),Kundapura,2015-12-09,7830.0,2.0,31.4,clear
+8,Arhar (Tur/Red Gram),Kundapura,2016-04-01,12000.0,2.0,31.8,clear
+9,Bengal Gram(Gram),Kundapura,2016-04-01,7507.0,2.0,31.8,clear
+10,Green Gram (Moong),Kundapura,2016-04-01,8480.0,1.0,31.8,clear
+11,Arhar (Tur/Red Gram),Kundapura,2016-12-01,11600.0,2.0,30.4,clear
+12,Green Gram (Moong),Kundapura,2016-12-01,8240.0,1.0,30.4,clear
+13,Arhar (Tur/Red Gram),Kundapura,2016-01-20,10642.0,1.0,30.6,clear
+14,Arhar (Tur/Red Gram),Kundapura,2016-01-25,11300.0,2.0,30.6,clear
+15,Bengal Gram(Gram),Kundapura,2016-01-25,6870.0,0.0,30.6,clear
+16,Arhar (Tur/Red Gram),Kundapura,2016-02-16,11400.0,3.0,30.4,clear
+17,Bengal Gram(Gram),Kundapura,2016-02-16,7500.0,1.0,30.4,clear
+18,Arhar (Tur/Red Gram),Kundapura,2016-02-22,11300.0,2.0,30.4,clear
+19,Bengal Gram(Gram),Kundapura,2016-02-22,7462.0,4.0,30.4,clear
+20,Arhar (Tur/Red Gram),Kundapura,2016-08-03,11600.0,4.0,28.8,clear
+21,Black Gram (Urd Beans),Kundapura,2016-08-03,18800.0,1.0,28.8,clear
+22,Arhar (Tur/Red Gram),Kundapura,2016-03-15,11100.0,3.0,30.6,clear
+23,Black Gram (Urd Beans),Kundapura,2016-03-15,16000.0,4.0,30.6,clear
+24,Arhar (Tur/Red Gram),Kundapura,2016-03-22,12100.0,2.0,32.2,clear
+25,Bengal Gram(Gram),Kundapura,2016-03-22,5250.0,0.0,32.2,clear
+26,Black Gram (Urd Beans),Kundapura,2016-03-22,12933.0,2.0,32.2,clear
+27,Green Gram (Moong),Kundapura,2016-03-22,7675.0,1.0,32.2,clear
+28,Arhar (Tur/Red Gram),Kundapura,2016-04-04,11500.0,2.0,32.0,clear
+29,Bengal Gram(Gram),Kundapura,2016-04-04,7608.0,1.0,32.0,clear
+30,Black Gram (Urd Beans),Kundapura,2016-04-04,16316.0,2.0,32.0,clear
+31,Arhar (Tur/Red Gram),Kundapura,2016-02-05,11525.0,1.0,30.4,clear
+32,Bengal Gram(Gram),Kundapura,2016-02-05,9150.0,1.0,30.4,clear
+33,Black Gram (Urd Beans),Kundapura,2016-02-05,18542.0,6.0,30.4,clear
+34,Green Gram (Moong),Kundapura,2016-02-05,8825.0,1.0,30.4,clear
+35,Arhar (Tur/Red Gram),Kundapura,2016-05-17,13013.0,4.0,31.4,rain
+36,Bengal Gram(Gram),Kundapura,2016-05-17,9673.0,1.0,31.4,rain
+37,Black Gram (Urd Beans),Kundapura,2016-05-17,16622.0,3.0,31.4,rain
+38,Arhar (Tur/Red Gram),Kundapura,2016-06-14,13000.0,2.0,30.6,clear
+39,Black Gram (Urd Beans),Kundapura,2016-06-14,16717.0,2.0,30.6,clear
+40,Arhar (Tur/Red Gram),Kundapura,2016-12-07,11803.0,2.0,29.8,clear
+41,Black Gram (Urd Beans),Kundapura,2016-12-07,15350.0,2.0,29.8,clear
+42,Green Gram (Moong),Kundapura,2016-12-07,8178.0,1.0,29.8,clear
+43,Arhar (Tur/Red Gram),Kundapura,2016-07-27,11962.0,1.0,27.4,clear
+44,Bengal Gram(Gram),Kundapura,2016-07-27,10000.0,1.0,27.4,clear
+45,Black Gram (Urd Beans),Kundapura,2016-07-27,18000.0,4.0,27.4,clear
+46,Arhar (Tur/Red Gram),Kundapura,2016-09-08,13200.0,3.0,26.8,clear
+47,Bengal Gram(Gram),Kundapura,2016-09-08,9200.0,1.0,26.8,clear
+48,Black Gram (Urd Beans),Kundapura,2016-09-08,17017.0,2.0,26.8,clear
+49,Arhar (Tur/Red Gram),Kundapura,2016-09-13,10260.0,2.0,28.2,clear
+50,Arhar (Tur/Red Gram),Kundapura,2016-09-26,8709.0,2.0,28.6,clear
+51,Bengal Gram(Gram),Kundapura,2016-09-26,12100.0,2.0,28.6,clear
+52,Black Gram (Urd Beans),Kundapura,2016-09-26,13013.0,4.0,28.6,clear
+53,Arhar (Tur/Red Gram),Kundapura,2016-03-10,9109.0,2.0,32.2,clear
+54,Black Gram (Urd Beans),Kundapura,2016-03-10,12012.0,4.0,32.2,clear
+55,Green Gram (Moong),Kundapura,2016-03-10,8500.0,2.0,32.2,clear
+56,Arhar (Tur/Red Gram),Kundapura,2016-10-13,10511.0,1.0,27.2,clear
+57,Bengal Gram(Gram),Kundapura,2016-10-13,13036.0,4.0,27.2,clear
+58,Black Gram (Urd Beans),Kundapura,2016-10-13,11000.0,3.0,27.2,clear
+59,Arhar (Tur/Red Gram),Kundapura,2016-10-17,10111.0,2.0,29.0,clear
+60,Black Gram (Urd Beans),Kundapura,2016-10-17,11000.0,3.0,29.0,clear
+61,Arhar (Tur/Red Gram),Kundapura,2016-07-11,8800.0,4.0,27.8,rain
+62,Bengal Gram(Gram),Kundapura,2016-07-11,10700.0,0.0,27.8,rain
+63,Black Gram (Urd Beans),Kundapura,2016-07-11,11511.0,4.0,27.8,rain
+64,Arhar (Tur/Red Gram),Kundapura,2016-11-15,7000.0,2.0,30.8,clear
+65,Bengal Gram(Gram),Kundapura,2016-11-15,13036.0,1.0,30.8,clear
+66,Arhar (Tur/Red Gram),Kundapura,2016-11-29,7000.0,3.0,29.0,clear
+67,Black Gram (Urd Beans),Kundapura,2016-11-29,11500.0,3.0,29.0,clear
+68,Arhar (Tur/Red Gram),Kundapura,2016-12-17,7000.0,1.0,29.4,clear
+69,Bengal Gram(Gram),Kundapura,2016-03-29,5205.0,2.0,32.2,clear
+70,Black Gram (Urd Beans),Kundapura,2016-03-29,16016.0,4.0,32.2,clear
+71,Bengal Gram(Gram),Kundapura,2016-04-25,9300.0,2.0,31.8,clear
+72,Black Gram (Urd Beans),Kundapura,2016-04-25,17500.0,4.0,31.8,clear
+73,Bengal Gram(Gram),Kundapura,2016-04-07,11000.0,4.0,32.2,clear
+74,Black Gram (Urd Beans),Kundapura,2016-04-07,16316.0,3.0,32.2,clear
+75,Bengal Gram(Gram),Kundapura,2016-08-16,12190.0,1.0,27.6,clear
+76,Black Gram (Urd Beans),Kundapura,2016-08-16,13500.0,2.0,27.6,clear
+77,Bengal Gram(Gram),Kundapura,2016-06-09,11908.0,3.0,27.8,rain
+78,Black Gram (Urd Beans),Kundapura,2016-06-09,12340.0,4.0,27.8,rain
+79,Black Gram (Urd Beans),Kundapura,2016-01-14,8600.0,22.0,28.8,clear
+80,Black Gram (Urd Beans),Kundapura,2016-02-25,9000.0,73.0,30.2,clear
+81,Black Gram (Urd Beans),Kundapura,2016-02-29,10750.0,2.0,30.6,clear
+82,Green Gram (Moong),Kundapura,2016-02-29,7930.0,1.0,30.6,clear
+83,Black Gram (Urd Beans),Kundapura,2016-09-03,11400.0,16.0,27.4,clear
+84,Black Gram (Urd Beans),Kundapura,2016-12-04,12900.0,5.0,30.6,clear
+85,Black Gram (Urd Beans),Kundapura,2016-04-15,8800.0,15.0,34.0,clear
+86,Black Gram (Urd Beans),Kundapura,2016-05-23,18018.0,2.0,33.0,clear
+87,Black Gram (Urd Beans),Kundapura,2016-05-25,9000.0,10.0,28.8,clear
+88,Black Gram (Urd Beans),Kundapura,2016-07-25,18018.0,4.0,27.8,clear
+89,Green Gram (Moong),Kundapura,2016-07-25,8170.0,1.0,27.8,clear
+90,Black Gram (Urd Beans),Kundapura,2016-01-08,14800.0,3.0,30.6,clear
+91,Black Gram (Urd Beans),Kundapura,2016-08-18,15000.0,2.0,25.8,rain
+92,Black Gram (Urd Beans),Kundapura,2016-08-22,12880.0,1.0,28.8,clear
+93,Black Gram (Urd Beans),Kundapura,2016-10-24,12512.0,2.0,28.6,clear
+94,Black Gram (Urd Beans),Kundapura,2016-02-11,11100.0,4.0,30.0,clear
+95,Green Gram (Moong),Kundapura,2016-04-23,8000.0,1.0,32.2,clear
+96,Arhar (Tur/Red Gram),Kundapura,2017-02-01,6200.0,2.0,30.2,clear
+97,Black Gram (Urd Beans),Kundapura,2017-02-01,8100.0,4.0,30.2,clear
+98,Arhar (Tur/Red Gram),Kundapura,2017-10-01,5820.0,2.0,26.8,clear
+99,Bengal Gram(Gram),Kundapura,2017-10-01,14075.0,2.0,26.8,clear
+100,Black Gram (Urd Beans),Kundapura,2017-10-01,8465.0,1.0,26.8,clear
+101,Arhar (Tur/Red Gram),Kundapura,2017-01-16,6000.0,6.0,29.8,clear
+102,Bengal Gram(Gram),Kundapura,2017-01-16,11300.0,0.0,29.8,clear
+103,Black Gram (Urd Beans),Kundapura,2017-01-16,10710.0,7.0,29.8,clear
+104,Arhar (Tur/Red Gram),Kundapura,2017-01-30,5483.0,6.0,31.2,clear
+105,Black Gram (Urd Beans),Kundapura,2017-01-30,8300.0,3.0,31.2,clear
+106,Arhar (Tur/Red Gram),Kundapura,2017-06-02,6100.0,6.0,26.0,rain
+107,Black Gram (Urd Beans),Kundapura,2017-06-02,10500.0,11.0,26.0,rain
+108,Arhar (Tur/Red Gram),Kundapura,2017-02-14,5850.0,3.0,31.8,clear
+109,Black Gram (Urd Beans),Kundapura,2017-02-14,8071.0,1.0,31.8,clear
+110,Arhar (Tur/Red Gram),Kundapura,2017-02-28,6400.0,7.0,33.2,clear
+111,Bengal Gram(Gram),Kundapura,2017-02-28,12844.0,1.0,33.2,clear
+112,Black Gram (Urd Beans),Kundapura,2017-02-28,7800.0,3.0,33.2,clear
+113,Arhar (Tur/Red Gram),Kundapura,2017-06-03,5900.0,2.0,28.2,clear
+114,Bengal Gram(Gram),Kundapura,2017-06-03,6300.0,1.0,28.2,clear
+115,Arhar (Tur/Red Gram),Kundapura,2017-03-20,5850.0,3.0,31.2,clear
+116,Bengal Gram(Gram),Kundapura,2017-03-20,10160.0,4.0,31.2,clear
+117,Black Gram (Urd Beans),Kundapura,2017-03-20,8809.0,3.0,31.2,clear
+118,Arhar (Tur/Red Gram),Kundapura,2017-03-27,5950.0,3.0,32.0,clear
+119,Black Gram (Urd Beans),Kundapura,2017-03-27,9643.0,5.0,32.0,clear
+120,Arhar (Tur/Red Gram),Kundapura,2017-03-04,6000.0,2.0,31.2,clear
+121,Bengal Gram(Gram),Kundapura,2017-03-04,10830.0,2.0,31.2,clear
+122,Black Gram (Urd Beans),Kundapura,2017-03-04,9910.0,3.0,31.2,clear
+123,Arhar (Tur/Red Gram),Kundapura,2017-11-04,6150.0,7.0,30.4,clear
+124,Black Gram (Urd Beans),Kundapura,2017-11-04,10810.0,5.0,30.4,clear
+125,Arhar (Tur/Red Gram),Kundapura,2017-04-24,6112.0,2.0,32.4,clear
+126,Black Gram (Urd Beans),Kundapura,2017-04-24,9000.0,8.0,32.4,clear
+127,Arhar (Tur/Red Gram),Kundapura,2017-02-05,6800.0,4.0,30.2,clear
+128,Bengal Gram(Gram),Kundapura,2017-02-05,12222.0,3.0,30.2,clear
+129,Black Gram (Urd Beans),Kundapura,2017-02-05,8500.0,4.0,30.2,clear
+130,Arhar (Tur/Red Gram),Kundapura,2017-09-05,6200.0,2.0,29.2,clear
+131,Bengal Gram(Gram),Kundapura,2017-09-05,7300.0,3.0,29.2,clear
+132,Black Gram (Urd Beans),Kundapura,2017-09-05,10510.0,2.0,29.2,clear
+133,Arhar (Tur/Red Gram),Kundapura,2017-05-30,5800.0,4.0,31.4,clear
+134,Bengal Gram(Gram),Kundapura,2017-05-30,11659.0,5.0,31.4,clear
+135,Black Gram (Urd Beans),Kundapura,2017-05-30,8210.0,7.0,31.4,clear
+136,Arhar (Tur/Red Gram),Kundapura,2017-05-06,5750.0,5.0,32.8,clear
+137,Black Gram (Urd Beans),Kundapura,2017-05-06,7700.0,4.0,32.8,clear
+138,Arhar (Tur/Red Gram),Kundapura,2017-06-13,5720.0,2.0,27.2,clear
+139,Bengal Gram(Gram),Kundapura,2017-06-13,8175.5,2.0,27.2,clear
+140,Arhar (Tur/Red Gram),Kundapura,2017-06-20,5550.0,2.0,28.0,rain
+141,Black Gram (Urd Beans),Kundapura,2017-06-20,7855.0,10.0,28.0,rain
+142,Arhar (Tur/Red Gram),Kundapura,2017-11-07,5450.0,2.0,27.4,rain
+143,Bengal Gram(Gram),Kundapura,2017-11-07,6865.0,1.0,27.4,rain
+144,Black Gram (Urd Beans),Kundapura,2017-11-07,9610.0,3.0,27.4,rain
+145,Arhar (Tur/Red Gram),Kundapura,2017-07-18,5450.0,2.0,26.6,rain
+146,Arhar (Tur/Red Gram),Kundapura,2017-08-22,4900.0,4.0,27.0,clear
+147,Bengal Gram(Gram),Kundapura,2017-08-22,12710.0,2.0,27.0,clear
+148,Black Gram (Urd Beans),Kundapura,2017-08-22,5833.0,10.0,27.0,clear
+149,Bengal Gram(Gram),Kundapura,2017-04-17,7500.0,2.0,32.8,clear
+150,Bengal Gram(Gram),Kundapura,2017-05-22,7000.0,3.0,31.8,clear
+151,Black Gram (Urd Beans),Kundapura,2017-05-22,7215.0,1.0,31.8,clear
+152,Bengal Gram(Gram),Kundapura,2017-06-27,11055.0,2.0,27.0,rain
+153,Black Gram (Urd Beans),Kundapura,2017-06-27,8508.0,6.0,27.0,rain
+154,Bengal Gram(Gram),Kundapura,2017-01-08,11050.0,3.0,28.0,clear
+155,Black Gram (Urd Beans),Kundapura,2017-01-08,9200.0,6.0,28.0,clear
+156,Bengal Gram(Gram),Kundapura,2017-07-08,6350.0,1.0,26.4,clear
+157,Black Gram (Urd Beans),Kundapura,2017-07-08,8700.0,2.0,26.4,clear
+158,Bengal Gram(Gram),Kundapura,2017-04-09,12856.0,1.0,32.2,clear
+159,Black Gram (Urd Beans),Kundapura,2017-04-09,6529.0,8.0,32.2,clear
+160,Black Gram (Urd Beans),Kundapura,2017-11-03,7201.0,1.0,29.6,clear
+161,Black Gram (Urd Beans),Kundapura,2017-03-14,8300.0,9.0,31.4,clear
+162,Black Gram (Urd Beans),Kundapura,2017-03-25,5500.0,55.0,31.8,clear
+163,Black Gram (Urd Beans),Kundapura,2017-04-05,6048.0,1.0,32.0,clear
+164,Black Gram (Urd Beans),Kundapura,2017-03-07,9810.0,2.0,32.2,clear
+165,Black Gram (Urd Beans),Kundapura,2017-10-10,9000.0,4.0,29.2,clear

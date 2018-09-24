@@ -1,0 +1,564 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2013-09-01,6850.0,2.4,29.3,rain
+1,Bengal Gram(Gram),Jammu (Grain Mandi),2013-09-01,5900.0,2.8,29.3,rain
+2,Green Gram (Moong),Jammu (Grain Mandi),2013-09-01,7200.0,2.9,29.3,rain
+3,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2013-10-01,7050.0,2.4,28.9,rain
+4,Bengal Gram(Gram),Jammu (Grain Mandi),2013-10-01,6100.0,2.8,28.9,rain
+5,Green Gram (Moong),Jammu (Grain Mandi),2013-10-01,6900.0,2.9,28.9,rain
+6,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2013-08-02,6850.0,2.4,29.2,clear
+7,Green Gram (Moong),Jammu (Grain Mandi),2013-08-02,7200.0,2.9,29.2,clear
+8,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2015-12-08,10900.0,0.0,20.6,clear
+9,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2015-12-10,14400.0,0.0,18.2,clear
+10,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2015-12-11,16300.0,0.0,16.6,clear
+11,Green Gram (Moong),Jammu (Grain Mandi),2015-12-11,9650.0,0.0,16.6,clear
+12,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2015-12-12,16100.0,0.0,20.0,clear
+13,Green Gram (Moong),Jammu (Grain Mandi),2015-12-12,9200.0,0.0,20.0,clear
+14,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2015-12-14,16100.0,0.0,19.0,clear
+15,Green Gram (Moong),Jammu (Grain Mandi),2015-12-14,9200.0,0.0,19.0,clear
+16,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2015-12-15,16100.0,0.0,18.8,clear
+17,Green Gram (Moong),Jammu (Grain Mandi),2015-12-15,9200.0,0.0,18.8,clear
+18,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2015-12-16,16000.0,0.0,19.0,clear
+19,Green Gram (Moong),Jammu (Grain Mandi),2015-12-16,9200.0,0.0,19.0,clear
+20,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2015-12-17,16000.0,0.0,18.0,clear
+21,Green Gram (Moong),Jammu (Grain Mandi),2015-12-17,9200.0,0.0,18.0,clear
+22,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2015-12-18,16000.0,0.0,18.4,clear
+23,Green Gram (Moong),Jammu (Grain Mandi),2015-12-18,9200.0,0.0,18.4,clear
+24,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2015-12-21,16000.0,0.0,18.2,clear
+25,Green Gram (Moong),Jammu (Grain Mandi),2015-12-21,9200.0,0.0,18.2,clear
+26,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2015-12-22,16000.0,0.0,16.4,clear
+27,Green Gram (Moong),Jammu (Grain Mandi),2015-12-22,9200.0,0.0,16.4,clear
+28,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2015-12-23,16000.0,0.0,18.4,clear
+29,Green Gram (Moong),Jammu (Grain Mandi),2015-12-23,9200.0,0.0,18.4,clear
+30,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2015-12-26,16000.0,0.0,14.6,clear
+31,Green Gram (Moong),Jammu (Grain Mandi),2015-12-26,9200.0,0.0,14.6,clear
+32,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2015-12-28,16000.0,0.0,22.0,clear
+33,Green Gram (Moong),Jammu (Grain Mandi),2015-12-28,9200.0,0.0,22.0,clear
+34,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2015-12-29,16000.0,0.0,21.4,clear
+35,Green Gram (Moong),Jammu (Grain Mandi),2015-12-29,9200.0,0.0,21.4,clear
+36,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2015-12-31,15500.0,0.0,21.2,clear
+37,Green Gram (Moong),Jammu (Grain Mandi),2015-12-31,9100.0,0.0,21.2,clear
+38,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-01-01,15500.0,0.0,17.6,clear
+39,Green Gram (Moong),Jammu (Grain Mandi),2016-01-01,9100.0,0.0,17.6,clear
+40,Lentil(Masur),Jammu (Grain Mandi),2016-01-01,8700.0,0.0,17.6,clear
+41,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-02-01,15500.0,0.0,20.2,clear
+42,Green Gram (Moong),Jammu (Grain Mandi),2016-02-01,9100.0,0.0,20.2,clear
+43,Lentil(Masur),Jammu (Grain Mandi),2016-02-01,8700.0,0.0,20.2,clear
+44,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-04-01,15500.0,0.0,30.0,rain
+45,Green Gram (Moong),Jammu (Grain Mandi),2016-04-01,9100.0,0.0,30.0,rain
+46,Lentil(Masur),Jammu (Grain Mandi),2016-04-01,8700.0,0.0,30.0,rain
+47,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-06-01,15500.0,0.0,40.2,clear
+48,Green Gram (Moong),Jammu (Grain Mandi),2016-06-01,9000.0,0.0,40.2,clear
+49,Lentil(Masur),Jammu (Grain Mandi),2016-06-01,8600.0,0.0,40.2,clear
+50,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-09-01,15500.0,0.0,31.4,clear
+51,Green Gram (Moong),Jammu (Grain Mandi),2016-09-01,9000.0,0.0,31.4,clear
+52,Lentil(Masur),Jammu (Grain Mandi),2016-09-01,8600.0,0.0,31.4,clear
+53,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-11-01,15500.0,0.0,27.0,clear
+54,Green Gram (Moong),Jammu (Grain Mandi),2016-11-01,9000.0,0.0,27.0,clear
+55,Lentil(Masur),Jammu (Grain Mandi),2016-11-01,8600.0,0.0,27.0,clear
+56,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-12-01,15500.0,0.0,24.4,clear
+57,Green Gram (Moong),Jammu (Grain Mandi),2016-12-01,9000.0,0.0,24.4,clear
+58,Lentil(Masur),Jammu (Grain Mandi),2016-12-01,8600.0,0.0,24.4,clear
+59,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-01-14,15300.0,0.0,16.0,clear
+60,Green Gram (Moong),Jammu (Grain Mandi),2016-01-14,8900.0,0.0,16.0,clear
+61,Lentil(Masur),Jammu (Grain Mandi),2016-01-14,8500.0,0.0,16.0,clear
+62,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-01-15,15300.0,0.0,14.0,clear
+63,Green Gram (Moong),Jammu (Grain Mandi),2016-01-15,8900.0,0.0,14.0,clear
+64,Lentil(Masur),Jammu (Grain Mandi),2016-01-15,8500.0,0.0,14.0,clear
+65,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-01-16,15300.0,0.0,14.8,clear
+66,Green Gram (Moong),Jammu (Grain Mandi),2016-01-16,8900.0,0.0,14.8,clear
+67,Lentil(Masur),Jammu (Grain Mandi),2016-01-16,8500.0,0.0,14.8,clear
+68,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-01-18,15300.0,0.0,15.8,clear
+69,Green Gram (Moong),Jammu (Grain Mandi),2016-01-18,8900.0,0.0,15.8,clear
+70,Lentil(Masur),Jammu (Grain Mandi),2016-01-18,8500.0,0.0,15.8,clear
+71,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-01-19,15300.0,0.0,11.8,clear
+72,Green Gram (Moong),Jammu (Grain Mandi),2016-01-19,8900.0,0.0,11.8,clear
+73,Lentil(Masur),Jammu (Grain Mandi),2016-01-19,8500.0,0.0,11.8,clear
+74,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-01-20,15300.0,0.0,9.2,clear
+75,Green Gram (Moong),Jammu (Grain Mandi),2016-01-20,8900.0,0.0,9.2,clear
+76,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-01-21,15300.0,0.0,10.4,clear
+77,Green Gram (Moong),Jammu (Grain Mandi),2016-01-21,8900.0,0.0,10.4,clear
+78,Lentil(Masur),Jammu (Grain Mandi),2016-01-21,8500.0,0.0,10.4,clear
+79,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-01-23,15300.0,0.0,7.0,clear
+80,Green Gram (Moong),Jammu (Grain Mandi),2016-01-23,8900.0,0.0,7.0,clear
+81,Lentil(Masur),Jammu (Grain Mandi),2016-01-23,8500.0,0.0,7.0,clear
+82,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-01-27,15000.0,0.0,20.0,clear
+83,Green Gram (Moong),Jammu (Grain Mandi),2016-01-27,8700.0,0.0,20.0,clear
+84,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-01-28,15000.0,0.0,21.2,clear
+85,Green Gram (Moong),Jammu (Grain Mandi),2016-01-28,8700.0,0.0,21.2,clear
+86,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-01-29,15000.0,0.0,14.8,clear
+87,Green Gram (Moong),Jammu (Grain Mandi),2016-01-29,8700.0,0.0,14.8,clear
+88,Lentil(Masur),Jammu (Grain Mandi),2016-01-29,8400.0,0.0,14.8,clear
+89,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-01-02,15000.0,0.0,20.0,clear
+90,Green Gram (Moong),Jammu (Grain Mandi),2016-01-02,8700.0,0.0,20.0,clear
+91,Lentil(Masur),Jammu (Grain Mandi),2016-01-02,8400.0,0.0,20.0,clear
+92,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-02-02,15000.0,0.0,20.0,clear
+93,Green Gram (Moong),Jammu (Grain Mandi),2016-02-02,8700.0,0.0,20.0,clear
+94,Lentil(Masur),Jammu (Grain Mandi),2016-02-02,8400.0,0.0,20.0,clear
+95,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-03-02,15000.0,0.0,26.0,clear
+96,Green Gram (Moong),Jammu (Grain Mandi),2016-03-02,8700.0,0.0,26.0,clear
+97,Lentil(Masur),Jammu (Grain Mandi),2016-03-02,8400.0,0.0,26.0,clear
+98,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-04-02,15000.0,0.0,33.0,clear
+99,Green Gram (Moong),Jammu (Grain Mandi),2016-04-02,8700.0,0.0,33.0,clear
+100,Lentil(Masur),Jammu (Grain Mandi),2016-04-02,8400.0,0.0,33.0,clear
+101,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-05-02,14500.0,0.0,41.6,clear
+102,Green Gram (Moong),Jammu (Grain Mandi),2016-05-02,8700.0,0.0,41.6,clear
+103,Lentil(Masur),Jammu (Grain Mandi),2016-05-02,8150.0,0.0,41.6,clear
+104,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-06-02,14500.0,0.0,39.2,clear
+105,Green Gram (Moong),Jammu (Grain Mandi),2016-06-02,8700.0,0.0,39.2,clear
+106,Lentil(Masur),Jammu (Grain Mandi),2016-06-02,8150.0,0.0,39.2,clear
+107,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-08-02,14500.0,0.0,30.8,clear
+108,Green Gram (Moong),Jammu (Grain Mandi),2016-08-02,8700.0,0.0,30.8,clear
+109,Lentil(Masur),Jammu (Grain Mandi),2016-08-02,8150.0,0.0,30.8,clear
+110,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-09-02,14500.0,0.0,31.6,clear
+111,Green Gram (Moong),Jammu (Grain Mandi),2016-09-02,8700.0,0.0,31.6,clear
+112,Lentil(Masur),Jammu (Grain Mandi),2016-09-02,8150.0,0.0,31.6,clear
+113,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-10-02,14500.0,0.0,33.8,clear
+114,Green Gram (Moong),Jammu (Grain Mandi),2016-10-02,8500.0,0.0,33.8,clear
+115,Lentil(Masur),Jammu (Grain Mandi),2016-10-02,7900.0,0.0,33.8,clear
+116,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-11-02,14500.0,0.0,27.4,clear
+117,Green Gram (Moong),Jammu (Grain Mandi),2016-11-02,8500.0,0.0,27.4,clear
+118,Lentil(Masur),Jammu (Grain Mandi),2016-11-02,7900.0,0.0,27.4,clear
+119,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-12-02,14500.0,0.0,22.8,clear
+120,Green Gram (Moong),Jammu (Grain Mandi),2016-12-02,8500.0,0.0,22.8,clear
+121,Lentil(Masur),Jammu (Grain Mandi),2016-12-02,7900.0,0.0,22.8,clear
+122,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-02-13,14500.0,0.0,20.4,clear
+123,Green Gram (Moong),Jammu (Grain Mandi),2016-02-13,8500.0,0.0,20.4,clear
+124,Lentil(Masur),Jammu (Grain Mandi),2016-02-13,7900.0,0.0,20.4,clear
+125,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-02-15,14500.0,0.0,21.0,clear
+126,Green Gram (Moong),Jammu (Grain Mandi),2016-02-15,8500.0,0.0,21.0,clear
+127,Lentil(Masur),Jammu (Grain Mandi),2016-02-15,7900.0,0.0,21.0,clear
+128,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-02-16,14500.0,0.0,21.2,clear
+129,Green Gram (Moong),Jammu (Grain Mandi),2016-02-16,8500.0,0.0,21.2,clear
+130,Lentil(Masur),Jammu (Grain Mandi),2016-02-16,7900.0,0.0,21.2,clear
+131,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-02-17,14500.0,0.0,23.2,clear
+132,Green Gram (Moong),Jammu (Grain Mandi),2016-02-17,8700.0,0.0,23.2,clear
+133,Lentil(Masur),Jammu (Grain Mandi),2016-02-17,7900.0,0.0,23.2,clear
+134,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-02-18,14500.0,0.0,26.2,clear
+135,Green Gram (Moong),Jammu (Grain Mandi),2016-02-18,8700.0,0.0,26.2,clear
+136,Lentil(Masur),Jammu (Grain Mandi),2016-02-18,7900.0,0.0,26.2,clear
+137,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-02-19,14500.0,0.0,25.8,rain
+138,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-02-20,14500.0,0.0,22.6,clear
+139,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-02-27,14500.0,0.0,25.2,clear
+140,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-02-29,14500.0,0.0,26.0,clear
+141,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-01-03,14500.0,0.0,19.4,clear
+142,Green Gram (Moong),Jammu (Grain Mandi),2016-01-03,8700.0,0.0,19.4,clear
+143,Lentil(Masur),Jammu (Grain Mandi),2016-01-03,7900.0,0.0,19.4,clear
+144,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-02-03,14000.0,0.0,20.0,clear
+145,Green Gram (Moong),Jammu (Grain Mandi),2016-02-03,8700.0,0.0,20.0,clear
+146,Lentil(Masur),Jammu (Grain Mandi),2016-02-03,7800.0,0.0,20.0,clear
+147,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-03-03,14000.0,0.0,29.2,clear
+148,Green Gram (Moong),Jammu (Grain Mandi),2016-03-03,8700.0,0.0,29.2,clear
+149,Lentil(Masur),Jammu (Grain Mandi),2016-03-03,7800.0,0.0,29.2,clear
+150,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-04-03,14000.0,0.0,29.6,clear
+151,Green Gram (Moong),Jammu (Grain Mandi),2016-04-03,8700.0,0.0,29.6,clear
+152,Lentil(Masur),Jammu (Grain Mandi),2016-04-03,7800.0,0.0,29.6,clear
+153,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-05-03,14000.0,0.0,33.4,clear
+154,Green Gram (Moong),Jammu (Grain Mandi),2016-05-03,8700.0,0.0,33.4,clear
+155,Lentil(Masur),Jammu (Grain Mandi),2016-05-03,7800.0,0.0,33.4,clear
+156,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-08-03,14000.0,0.0,34.0,clear
+157,Green Gram (Moong),Jammu (Grain Mandi),2016-08-03,8700.0,0.0,34.0,clear
+158,Lentil(Masur),Jammu (Grain Mandi),2016-08-03,7800.0,0.0,34.0,clear
+159,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-09-03,13500.0,0.0,32.4,clear
+160,Green Gram (Moong),Jammu (Grain Mandi),2016-09-03,8700.0,0.0,32.4,clear
+161,Lentil(Masur),Jammu (Grain Mandi),2016-09-03,7700.0,0.0,32.4,clear
+162,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-10-03,13500.0,0.0,33.4,clear
+163,Green Gram (Moong),Jammu (Grain Mandi),2016-10-03,8700.0,0.0,33.4,clear
+164,Lentil(Masur),Jammu (Grain Mandi),2016-10-03,7700.0,0.0,33.4,clear
+165,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-11-03,13500.0,0.0,28.0,clear
+166,Green Gram (Moong),Jammu (Grain Mandi),2016-11-03,8700.0,0.0,28.0,clear
+167,Lentil(Masur),Jammu (Grain Mandi),2016-11-03,7700.0,0.0,28.0,clear
+168,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-12-03,13500.0,0.0,22.6,clear
+169,Green Gram (Moong),Jammu (Grain Mandi),2016-12-03,8700.0,0.0,22.6,clear
+170,Lentil(Masur),Jammu (Grain Mandi),2016-12-03,7700.0,0.0,22.6,clear
+171,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-03-14,13500.0,0.0,23.8,rain
+172,Green Gram (Moong),Jammu (Grain Mandi),2016-03-14,8700.0,0.0,23.8,rain
+173,Lentil(Masur),Jammu (Grain Mandi),2016-03-14,7700.0,0.0,23.8,rain
+174,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-03-15,13500.0,0.0,24.4,clear
+175,Green Gram (Moong),Jammu (Grain Mandi),2016-03-15,8700.0,0.0,24.4,clear
+176,Lentil(Masur),Jammu (Grain Mandi),2016-03-15,7700.0,0.0,24.4,clear
+177,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-03-16,13500.0,0.0,23.4,clear
+178,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-03-17,13500.0,0.0,20.2,rain
+179,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-03-19,13500.0,0.0,27.0,clear
+180,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-03-22,13500.0,0.0,26.8,clear
+181,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-03-24,13300.0,0.0,27.2,clear
+182,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-03-26,13300.0,0.0,27.4,clear
+183,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-03-28,13300.0,0.0,28.8,clear
+184,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-03-30,13300.0,0.0,30.4,clear
+185,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-03-31,13300.0,0.0,30.8,clear
+186,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-01-04,13300.0,0.0,17.0,clear
+187,Green Gram (Moong),Jammu (Grain Mandi),2016-01-04,8500.0,0.0,17.0,clear
+188,Lentil(Masur),Jammu (Grain Mandi),2016-01-04,7100.0,0.0,17.0,clear
+189,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-02-04,13300.0,0.0,20.8,clear
+190,Green Gram (Moong),Jammu (Grain Mandi),2016-02-04,8500.0,0.0,20.8,clear
+191,Lentil(Masur),Jammu (Grain Mandi),2016-02-04,7100.0,0.0,20.8,clear
+192,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-04-04,13300.0,0.0,31.4,clear
+193,Green Gram (Moong),Jammu (Grain Mandi),2016-04-04,8500.0,0.0,31.4,clear
+194,Lentil(Masur),Jammu (Grain Mandi),2016-04-04,7100.0,0.0,31.4,clear
+195,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-05-04,13300.0,0.0,31.4,clear
+196,Green Gram (Moong),Jammu (Grain Mandi),2016-05-04,8500.0,0.0,31.4,clear
+197,Lentil(Masur),Jammu (Grain Mandi),2016-05-04,7100.0,0.0,31.4,clear
+198,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-06-04,13500.0,0.0,42.4,clear
+199,Green Gram (Moong),Jammu (Grain Mandi),2016-06-04,8500.0,0.0,42.4,clear
+200,Lentil(Masur),Jammu (Grain Mandi),2016-06-04,8100.0,0.0,42.4,clear
+201,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-04-15,14200.0,0.0,34.8,clear
+202,Green Gram (Moong),Jammu (Grain Mandi),2016-04-15,9950.0,0.0,34.8,clear
+203,Lentil(Masur),Jammu (Grain Mandi),2016-04-15,8200.0,0.0,34.8,clear
+204,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-04-19,14200.0,0.0,27.0,rain
+205,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-04-20,14200.0,0.0,35.2,clear
+206,Green Gram (Moong),Jammu (Grain Mandi),2016-04-20,9750.0,0.0,35.2,clear
+207,Lentil(Masur),Jammu (Grain Mandi),2016-04-20,9000.0,0.0,35.2,clear
+208,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-04-21,14200.0,0.0,35.0,clear
+209,Green Gram (Moong),Jammu (Grain Mandi),2016-04-21,9950.0,0.0,35.0,clear
+210,Lentil(Masur),Jammu (Grain Mandi),2016-04-21,8200.0,0.0,35.0,clear
+211,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-04-22,14200.0,0.0,32.6,clear
+212,Green Gram (Moong),Jammu (Grain Mandi),2016-04-22,9950.0,0.0,32.6,clear
+213,Lentil(Masur),Jammu (Grain Mandi),2016-04-22,8200.0,0.0,32.6,clear
+214,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-04-23,14200.0,0.0,32.6,rain
+215,Green Gram (Moong),Jammu (Grain Mandi),2016-04-23,9750.0,0.0,32.6,rain
+216,Lentil(Masur),Jammu (Grain Mandi),2016-04-23,8200.0,0.0,32.6,rain
+217,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-04-25,14200.0,0.0,35.0,clear
+218,Green Gram (Moong),Jammu (Grain Mandi),2016-04-25,9750.0,0.0,35.0,clear
+219,Lentil(Masur),Jammu (Grain Mandi),2016-04-25,8200.0,0.0,35.0,clear
+220,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-04-26,14200.0,0.0,37.2,clear
+221,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-04-27,14200.0,0.0,36.6,clear
+222,Green Gram (Moong),Jammu (Grain Mandi),2016-04-27,9750.0,0.0,36.6,clear
+223,Lentil(Masur),Jammu (Grain Mandi),2016-04-27,8200.0,0.0,36.6,clear
+224,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-04-28,14200.0,0.0,36.4,clear
+225,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-04-29,14200.0,0.0,37.4,clear
+226,Green Gram (Moong),Jammu (Grain Mandi),2016-04-29,9750.0,0.0,37.4,clear
+227,Lentil(Masur),Jammu (Grain Mandi),2016-04-29,8200.0,0.0,37.4,clear
+228,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-09-06,14100.0,0.0,32.6,clear
+229,Green Gram (Moong),Jammu (Grain Mandi),2016-09-06,9150.0,0.0,32.6,clear
+230,Lentil(Masur),Jammu (Grain Mandi),2016-09-06,8200.0,0.0,32.6,clear
+231,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-12-06,14100.0,0.0,21.6,clear
+232,Green Gram (Moong),Jammu (Grain Mandi),2016-12-06,9150.0,0.0,21.6,clear
+233,Lentil(Masur),Jammu (Grain Mandi),2016-12-06,8200.0,0.0,21.6,clear
+234,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-06-13,14600.0,0.0,39.0,clear
+235,Green Gram (Moong),Jammu (Grain Mandi),2016-06-13,9150.0,0.0,39.0,clear
+236,Lentil(Masur),Jammu (Grain Mandi),2016-06-13,8200.0,0.0,39.0,clear
+237,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-06-14,14100.0,0.0,39.0,clear
+238,Green Gram (Moong),Jammu (Grain Mandi),2016-06-14,9150.0,0.0,39.0,clear
+239,Lentil(Masur),Jammu (Grain Mandi),2016-06-14,8200.0,0.0,39.0,clear
+240,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-06-15,14100.0,0.0,36.2,rain
+241,Green Gram (Moong),Jammu (Grain Mandi),2016-06-15,9150.0,0.0,36.2,rain
+242,Lentil(Masur),Jammu (Grain Mandi),2016-06-15,8200.0,0.0,36.2,rain
+243,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-06-16,14100.0,0.0,36.0,clear
+244,Green Gram (Moong),Jammu (Grain Mandi),2016-06-16,9150.0,0.0,36.0,clear
+245,Lentil(Masur),Jammu (Grain Mandi),2016-06-16,8200.0,0.0,36.0,clear
+246,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-06-17,14100.0,0.0,35.8,clear
+247,Green Gram (Moong),Jammu (Grain Mandi),2016-06-17,9150.0,0.0,35.8,clear
+248,Lentil(Masur),Jammu (Grain Mandi),2016-06-17,8200.0,0.0,35.8,clear
+249,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-06-18,14100.0,0.0,37.2,clear
+250,Green Gram (Moong),Jammu (Grain Mandi),2016-06-18,9150.0,0.0,37.2,clear
+251,Lentil(Masur),Jammu (Grain Mandi),2016-06-18,8200.0,0.0,37.2,clear
+252,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-06-19,14100.0,0.0,37.9,clear
+253,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-06-20,14100.0,0.0,34.0,clear
+254,Green Gram (Moong),Jammu (Grain Mandi),2016-06-20,9150.0,0.0,34.0,clear
+255,Lentil(Masur),Jammu (Grain Mandi),2016-06-20,8200.0,0.0,34.0,clear
+256,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-06-21,14000.0,0.0,32.4,clear
+257,Green Gram (Moong),Jammu (Grain Mandi),2016-06-21,9150.0,0.0,32.4,clear
+258,Lentil(Masur),Jammu (Grain Mandi),2016-06-21,8200.0,0.0,32.4,clear
+259,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-06-22,14100.0,0.0,32.6,clear
+260,Green Gram (Moong),Jammu (Grain Mandi),2016-06-22,9150.0,0.0,32.6,clear
+261,Lentil(Masur),Jammu (Grain Mandi),2016-06-22,8000.0,0.0,32.6,clear
+262,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-06-23,14100.0,0.0,34.6,clear
+263,Green Gram (Moong),Jammu (Grain Mandi),2016-06-23,9150.0,0.0,34.6,clear
+264,Lentil(Masur),Jammu (Grain Mandi),2016-06-23,8200.0,0.0,34.6,clear
+265,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-06-24,14100.0,0.0,36.2,clear
+266,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-06-25,14000.0,0.0,37.8,clear
+267,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-06-26,14000.0,0.0,34.0,clear
+268,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-06-27,14000.0,0.0,34.6,clear
+269,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-06-28,14100.0,0.0,34.0,clear
+270,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-06-29,14000.0,0.0,37.0,clear
+271,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-06-30,14100.0,0.0,37.6,clear
+272,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-01-07,14100.0,0.0,22.2,clear
+273,Green Gram (Moong),Jammu (Grain Mandi),2016-01-07,9150.0,0.0,22.2,clear
+274,Lentil(Masur),Jammu (Grain Mandi),2016-01-07,8200.0,0.0,22.2,clear
+275,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-02-07,14100.0,0.0,21.4,clear
+276,Green Gram (Moong),Jammu (Grain Mandi),2016-02-07,9150.0,0.0,21.4,clear
+277,Lentil(Masur),Jammu (Grain Mandi),2016-02-07,8200.0,0.0,21.4,clear
+278,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-03-07,14100.0,0.0,26.4,clear
+279,Green Gram (Moong),Jammu (Grain Mandi),2016-03-07,9150.0,0.0,26.4,clear
+280,Lentil(Masur),Jammu (Grain Mandi),2016-03-07,8200.0,0.0,26.4,clear
+281,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-04-07,14100.0,0.0,29.6,clear
+282,Green Gram (Moong),Jammu (Grain Mandi),2016-04-07,9150.0,0.0,29.6,clear
+283,Lentil(Masur),Jammu (Grain Mandi),2016-04-07,8200.0,0.0,29.6,clear
+284,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-05-07,14100.0,0.0,35.8,clear
+285,Green Gram (Moong),Jammu (Grain Mandi),2016-05-07,9150.0,0.0,35.8,clear
+286,Lentil(Masur),Jammu (Grain Mandi),2016-05-07,8200.0,0.0,35.8,clear
+287,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-10-07,14100.0,0.0,32.4,clear
+288,Green Gram (Moong),Jammu (Grain Mandi),2016-10-07,9150.0,0.0,32.4,clear
+289,Lentil(Masur),Jammu (Grain Mandi),2016-10-07,8200.0,0.0,32.4,clear
+290,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-11-07,14100.0,0.0,26.8,clear
+291,Green Gram (Moong),Jammu (Grain Mandi),2016-11-07,9150.0,0.0,26.8,clear
+292,Lentil(Masur),Jammu (Grain Mandi),2016-11-07,8200.0,0.0,26.8,clear
+293,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-12-07,14100.0,0.0,21.0,clear
+294,Green Gram (Moong),Jammu (Grain Mandi),2016-12-07,9150.0,0.0,21.0,clear
+295,Lentil(Masur),Jammu (Grain Mandi),2016-12-07,8200.0,0.0,21.0,clear
+296,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-07-13,14100.0,0.0,35.0,clear
+297,Green Gram (Moong),Jammu (Grain Mandi),2016-07-13,9150.0,0.0,35.0,clear
+298,Lentil(Masur),Jammu (Grain Mandi),2016-07-13,8200.0,0.0,35.0,clear
+299,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-07-14,14100.0,0.0,34.6,rain
+300,Green Gram (Moong),Jammu (Grain Mandi),2016-07-14,9150.0,0.0,34.6,rain
+301,Lentil(Masur),Jammu (Grain Mandi),2016-07-14,8200.0,0.0,34.6,rain
+302,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-07-15,14100.0,0.0,31.8,clear
+303,Green Gram (Moong),Jammu (Grain Mandi),2016-07-15,9150.0,0.0,31.8,clear
+304,Lentil(Masur),Jammu (Grain Mandi),2016-07-15,8200.0,0.0,31.8,clear
+305,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-07-16,14100.0,0.0,31.0,clear
+306,Green Gram (Moong),Jammu (Grain Mandi),2016-07-16,9150.0,0.0,31.0,clear
+307,Lentil(Masur),Jammu (Grain Mandi),2016-07-16,8200.0,0.0,31.0,clear
+308,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-07-17,14100.0,0.0,30.0,clear
+309,Green Gram (Moong),Jammu (Grain Mandi),2016-07-17,9150.0,0.0,30.0,clear
+310,Lentil(Masur),Jammu (Grain Mandi),2016-07-17,8200.0,0.0,30.0,clear
+311,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-07-21,13900.0,0.0,35.4,clear
+312,Green Gram (Moong),Jammu (Grain Mandi),2016-07-21,8975.0,0.0,35.4,clear
+313,Lentil(Masur),Jammu (Grain Mandi),2016-07-21,7850.0,0.0,35.4,clear
+314,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-07-22,13900.0,0.0,35.5,clear
+315,Green Gram (Moong),Jammu (Grain Mandi),2016-07-22,8975.0,0.0,35.5,clear
+316,Lentil(Masur),Jammu (Grain Mandi),2016-07-22,7850.0,0.0,35.5,clear
+317,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-07-23,13900.0,0.0,31.2,clear
+318,Green Gram (Moong),Jammu (Grain Mandi),2016-07-23,8975.0,0.0,31.2,clear
+319,Lentil(Masur),Jammu (Grain Mandi),2016-07-23,7850.0,0.0,31.2,clear
+320,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-07-24,13900.0,0.0,33.0,clear
+321,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-07-25,13900.0,0.0,32.8,clear
+322,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-07-26,13900.0,0.0,34.1,clear
+323,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-07-27,13900.0,0.0,27.0,clear
+324,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-07-28,13900.0,0.0,30.6,clear
+325,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-07-29,13900.0,0.0,32.8,clear
+326,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-07-30,13900.0,0.0,30.8,clear
+327,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-07-31,13900.0,0.0,30.4,clear
+328,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-08-08,13900.0,0.0,32.8,clear
+329,Green Gram (Moong),Jammu (Grain Mandi),2016-08-08,8975.0,0.0,32.8,clear
+330,Lentil(Masur),Jammu (Grain Mandi),2016-08-08,7850.0,0.0,32.8,clear
+331,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-09-08,13900.0,0.0,33.4,clear
+332,Green Gram (Moong),Jammu (Grain Mandi),2016-09-08,8975.0,0.0,33.4,clear
+333,Lentil(Masur),Jammu (Grain Mandi),2016-09-08,7850.0,0.0,33.4,clear
+334,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-10-08,13900.0,0.0,32.8,clear
+335,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-11-08,13900.0,0.0,26.8,clear
+336,Green Gram (Moong),Jammu (Grain Mandi),2016-11-08,8975.0,0.0,26.8,clear
+337,Lentil(Masur),Jammu (Grain Mandi),2016-11-08,7850.0,0.0,26.8,clear
+338,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-08-13,13900.0,0.0,32.8,clear
+339,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-08-14,13900.0,0.0,32.8,rain
+340,Green Gram (Moong),Jammu (Grain Mandi),2016-08-14,8975.0,0.0,32.8,rain
+341,Lentil(Masur),Jammu (Grain Mandi),2016-08-14,7850.0,0.0,32.8,rain
+342,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-08-15,13900.0,0.0,32.4,clear
+343,Green Gram (Moong),Jammu (Grain Mandi),2016-08-15,8975.0,0.0,32.4,clear
+344,Lentil(Masur),Jammu (Grain Mandi),2016-08-15,7850.0,0.0,32.4,clear
+345,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-08-16,13900.0,0.0,33.4,clear
+346,Green Gram (Moong),Jammu (Grain Mandi),2016-08-16,8975.0,0.0,33.4,clear
+347,Lentil(Masur),Jammu (Grain Mandi),2016-08-16,7850.0,0.0,33.4,clear
+348,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-08-17,13900.0,0.0,33.0,rain
+349,Green Gram (Moong),Jammu (Grain Mandi),2016-08-17,8975.0,0.0,33.0,rain
+350,Lentil(Masur),Jammu (Grain Mandi),2016-08-17,7850.0,0.0,33.0,rain
+351,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-08-18,13900.0,0.0,33.2,clear
+352,Green Gram (Moong),Jammu (Grain Mandi),2016-08-18,8975.0,0.0,33.2,clear
+353,Lentil(Masur),Jammu (Grain Mandi),2016-08-18,7850.0,0.0,33.2,clear
+354,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-08-19,13900.0,0.0,33.8,clear
+355,Green Gram (Moong),Jammu (Grain Mandi),2016-08-19,8975.0,0.0,33.8,clear
+356,Lentil(Masur),Jammu (Grain Mandi),2016-08-19,7850.0,0.0,33.8,clear
+357,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-08-20,13900.0,0.0,34.0,clear
+358,Green Gram (Moong),Jammu (Grain Mandi),2016-08-20,8975.0,0.0,34.0,clear
+359,Lentil(Masur),Jammu (Grain Mandi),2016-08-20,7850.0,0.0,34.0,clear
+360,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-08-21,13900.0,0.0,32.8,clear
+361,Green Gram (Moong),Jammu (Grain Mandi),2016-08-21,8975.0,0.0,32.8,clear
+362,Lentil(Masur),Jammu (Grain Mandi),2016-08-21,7850.0,0.0,32.8,clear
+363,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-08-22,13900.0,0.0,31.8,clear
+364,Green Gram (Moong),Jammu (Grain Mandi),2016-08-22,8975.0,0.0,31.8,clear
+365,Lentil(Masur),Jammu (Grain Mandi),2016-08-22,7850.0,0.0,31.8,clear
+366,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-08-23,13900.0,0.0,33.0,clear
+367,Green Gram (Moong),Jammu (Grain Mandi),2016-08-23,8975.0,0.0,33.0,clear
+368,Lentil(Masur),Jammu (Grain Mandi),2016-08-23,7850.0,0.0,33.0,clear
+369,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-08-25,13900.0,0.0,26.6,clear
+370,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-08-26,13900.0,0.0,34.6,clear
+371,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-08-27,13900.0,0.0,27.0,clear
+372,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-08-28,13900.0,0.0,32.0,clear
+373,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-08-29,13900.0,0.0,32.4,rain
+374,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-08-30,13900.0,0.0,32.6,clear
+375,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-08-31,13900.0,0.0,33.2,clear
+376,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-01-09,13900.0,0.0,19.0,clear
+377,Green Gram (Moong),Jammu (Grain Mandi),2016-01-09,8975.0,0.0,19.0,clear
+378,Lentil(Masur),Jammu (Grain Mandi),2016-01-09,7850.0,0.0,19.0,clear
+379,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-02-09,13900.0,0.0,21.2,clear
+380,Green Gram (Moong),Jammu (Grain Mandi),2016-02-09,8975.0,0.0,21.2,clear
+381,Lentil(Masur),Jammu (Grain Mandi),2016-02-09,7850.0,0.0,21.2,clear
+382,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-03-09,13900.0,0.0,26.4,clear
+383,Green Gram (Moong),Jammu (Grain Mandi),2016-03-09,8975.0,0.0,26.4,clear
+384,Lentil(Masur),Jammu (Grain Mandi),2016-03-09,7850.0,0.0,26.4,clear
+385,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-04-09,13900.0,0.0,25.0,clear
+386,Green Gram (Moong),Jammu (Grain Mandi),2016-04-09,8975.0,0.0,25.0,clear
+387,Lentil(Masur),Jammu (Grain Mandi),2016-04-09,7850.0,0.0,25.0,clear
+388,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-05-09,13900.0,0.0,37.8,clear
+389,Green Gram (Moong),Jammu (Grain Mandi),2016-05-09,8975.0,0.0,37.8,clear
+390,Lentil(Masur),Jammu (Grain Mandi),2016-05-09,7850.0,0.0,37.8,clear
+391,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-06-09,13900.0,0.0,37.6,clear
+392,Green Gram (Moong),Jammu (Grain Mandi),2016-06-09,8975.0,0.0,37.6,clear
+393,Lentil(Masur),Jammu (Grain Mandi),2016-06-09,7850.0,0.0,37.6,clear
+394,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-07-09,13900.0,0.0,30.2,clear
+395,Green Gram (Moong),Jammu (Grain Mandi),2016-07-09,8975.0,0.0,30.2,clear
+396,Lentil(Masur),Jammu (Grain Mandi),2016-07-09,7850.0,0.0,30.2,clear
+397,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-08-09,13900.0,0.0,31.2,clear
+398,Green Gram (Moong),Jammu (Grain Mandi),2016-08-09,8975.0,0.0,31.2,clear
+399,Lentil(Masur),Jammu (Grain Mandi),2016-08-09,7850.0,0.0,31.2,clear
+400,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-09-09,13900.0,0.0,34.0,clear
+401,Green Gram (Moong),Jammu (Grain Mandi),2016-09-09,8975.0,0.0,34.0,clear
+402,Lentil(Masur),Jammu (Grain Mandi),2016-09-09,7850.0,0.0,34.0,clear
+403,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-10-09,13900.0,0.0,32.6,clear
+404,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-09-13,11000.0,0.0,33.0,clear
+405,Green Gram (Moong),Jammu (Grain Mandi),2016-09-13,7700.0,0.0,33.0,clear
+406,Lentil(Masur),Jammu (Grain Mandi),2016-09-13,7900.0,0.0,33.0,clear
+407,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-09-14,11000.0,0.0,30.0,clear
+408,Green Gram (Moong),Jammu (Grain Mandi),2016-09-14,7700.0,0.0,30.0,clear
+409,Lentil(Masur),Jammu (Grain Mandi),2016-09-14,7900.0,0.0,30.0,clear
+410,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-09-15,11000.0,0.0,31.8,clear
+411,Green Gram (Moong),Jammu (Grain Mandi),2016-09-15,7700.0,0.0,31.8,clear
+412,Lentil(Masur),Jammu (Grain Mandi),2016-09-15,7900.0,0.0,31.8,clear
+413,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-09-16,11000.0,0.0,32.6,clear
+414,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-09-17,11000.0,0.0,34.0,clear
+415,Green Gram (Moong),Jammu (Grain Mandi),2016-09-17,7700.0,0.0,34.0,clear
+416,Lentil(Masur),Jammu (Grain Mandi),2016-09-17,7900.0,0.0,34.0,clear
+417,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-09-19,11000.0,0.0,33.4,clear
+418,Green Gram (Moong),Jammu (Grain Mandi),2016-09-19,7700.0,0.0,33.4,clear
+419,Lentil(Masur),Jammu (Grain Mandi),2016-09-19,7900.0,0.0,33.4,clear
+420,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-09-20,11000.0,0.0,33.6,clear
+421,Green Gram (Moong),Jammu (Grain Mandi),2016-09-20,7700.0,0.0,33.6,clear
+422,Lentil(Masur),Jammu (Grain Mandi),2016-09-20,7900.0,0.0,33.6,clear
+423,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-09-21,11000.0,0.0,33.4,clear
+424,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-09-22,11000.0,0.0,31.6,rain
+425,Green Gram (Moong),Jammu (Grain Mandi),2016-09-22,7700.0,0.0,31.6,rain
+426,Lentil(Masur),Jammu (Grain Mandi),2016-09-22,7900.0,0.0,31.6,rain
+427,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-09-23,11000.0,0.0,30.4,clear
+428,Green Gram (Moong),Jammu (Grain Mandi),2016-09-23,7700.0,0.0,30.4,clear
+429,Lentil(Masur),Jammu (Grain Mandi),2016-09-23,7900.0,0.0,30.4,clear
+430,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-09-24,11000.0,0.0,31.2,clear
+431,Green Gram (Moong),Jammu (Grain Mandi),2016-09-24,7700.0,0.0,31.2,clear
+432,Lentil(Masur),Jammu (Grain Mandi),2016-09-24,7900.0,0.0,31.2,clear
+433,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-09-25,11000.0,0.0,31.0,clear
+434,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-09-26,11000.0,0.0,31.0,clear
+435,Green Gram (Moong),Jammu (Grain Mandi),2016-09-26,7700.0,0.0,31.0,clear
+436,Lentil(Masur),Jammu (Grain Mandi),2016-09-26,7900.0,0.0,31.0,clear
+437,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-09-28,11500.0,0.0,31.6,clear
+438,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-09-29,11000.0,0.0,31.8,clear
+439,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-09-30,11000.0,0.0,33.0,clear
+440,Green Gram (Moong),Jammu (Grain Mandi),2016-09-30,7700.0,0.0,33.0,clear
+441,Lentil(Masur),Jammu (Grain Mandi),2016-09-30,7900.0,0.0,33.0,clear
+442,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-02-10,11000.0,0.0,20.0,clear
+443,Green Gram (Moong),Jammu (Grain Mandi),2016-02-10,7700.0,0.0,20.0,clear
+444,Lentil(Masur),Jammu (Grain Mandi),2016-02-10,7900.0,0.0,20.0,clear
+445,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-03-10,11000.0,0.0,26.8,clear
+446,Green Gram (Moong),Jammu (Grain Mandi),2016-03-10,7700.0,0.0,26.8,clear
+447,Lentil(Masur),Jammu (Grain Mandi),2016-03-10,7900.0,0.0,26.8,clear
+448,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-04-10,11000.0,0.0,29.4,clear
+449,Green Gram (Moong),Jammu (Grain Mandi),2016-04-10,7700.0,0.0,29.4,clear
+450,Lentil(Masur),Jammu (Grain Mandi),2016-04-10,7900.0,0.0,29.4,clear
+451,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-05-10,11000.0,0.0,38.2,clear
+452,Green Gram (Moong),Jammu (Grain Mandi),2016-05-10,7700.0,0.0,38.2,clear
+453,Lentil(Masur),Jammu (Grain Mandi),2016-05-10,7900.0,0.0,38.2,clear
+454,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-11-10,11000.0,0.0,26.4,clear
+455,Green Gram (Moong),Jammu (Grain Mandi),2016-11-10,7700.0,0.0,26.4,clear
+456,Lentil(Masur),Jammu (Grain Mandi),2016-11-10,7900.0,0.0,26.4,clear
+457,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-12-10,11000.0,0.0,24.8,clear
+458,Green Gram (Moong),Jammu (Grain Mandi),2016-12-10,7700.0,0.0,24.8,clear
+459,Lentil(Masur),Jammu (Grain Mandi),2016-12-10,7900.0,0.0,24.8,clear
+460,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-10-13,11000.0,0.0,30.8,clear
+461,Green Gram (Moong),Jammu (Grain Mandi),2016-10-13,7700.0,0.0,30.8,clear
+462,Lentil(Masur),Jammu (Grain Mandi),2016-10-13,7900.0,0.0,30.8,clear
+463,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-10-14,11000.0,0.0,31.2,clear
+464,Green Gram (Moong),Jammu (Grain Mandi),2016-10-14,7700.0,0.0,31.2,clear
+465,Lentil(Masur),Jammu (Grain Mandi),2016-10-14,7900.0,0.0,31.2,clear
+466,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-10-15,11000.0,0.0,31.2,clear
+467,Green Gram (Moong),Jammu (Grain Mandi),2016-10-15,7700.0,0.0,31.2,clear
+468,Lentil(Masur),Jammu (Grain Mandi),2016-10-15,7900.0,0.0,31.2,clear
+469,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-10-16,11000.0,0.0,31.4,clear
+470,Green Gram (Moong),Jammu (Grain Mandi),2016-10-16,7700.0,0.0,31.4,clear
+471,Lentil(Masur),Jammu (Grain Mandi),2016-10-16,7900.0,0.0,31.4,clear
+472,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-10-17,11000.0,0.0,30.0,clear
+473,Green Gram (Moong),Jammu (Grain Mandi),2016-10-17,7700.0,0.0,30.0,clear
+474,Lentil(Masur),Jammu (Grain Mandi),2016-10-17,7900.0,0.0,30.0,clear
+475,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-10-18,11000.0,0.0,30.2,clear
+476,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-10-19,12100.0,0.0,31.0,clear
+477,Green Gram (Moong),Jammu (Grain Mandi),2016-10-19,7900.0,0.0,31.0,clear
+478,Lentil(Masur),Jammu (Grain Mandi),2016-10-19,7900.0,0.0,31.0,clear
+479,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-10-20,12100.0,0.0,31.0,clear
+480,Green Gram (Moong),Jammu (Grain Mandi),2016-10-20,7900.0,0.0,31.0,clear
+481,Lentil(Masur),Jammu (Grain Mandi),2016-10-20,7900.0,0.0,31.0,clear
+482,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-10-21,12100.0,0.0,31.6,clear
+483,Green Gram (Moong),Jammu (Grain Mandi),2016-10-21,7900.0,0.0,31.6,clear
+484,Lentil(Masur),Jammu (Grain Mandi),2016-10-21,7900.0,0.0,31.6,clear
+485,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-10-22,12100.0,0.0,30.2,clear
+486,Green Gram (Moong),Jammu (Grain Mandi),2016-10-22,7900.0,0.0,30.2,clear
+487,Lentil(Masur),Jammu (Grain Mandi),2016-10-22,7900.0,0.0,30.2,clear
+488,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-10-23,12100.0,0.0,30.2,clear
+489,Green Gram (Moong),Jammu (Grain Mandi),2016-10-23,7900.0,0.0,30.2,clear
+490,Lentil(Masur),Jammu (Grain Mandi),2016-10-23,7900.0,0.0,30.2,clear
+491,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-10-24,12100.0,0.0,30.2,clear
+492,Green Gram (Moong),Jammu (Grain Mandi),2016-10-24,7900.0,0.0,30.2,clear
+493,Lentil(Masur),Jammu (Grain Mandi),2016-10-24,7900.0,0.0,30.2,clear
+494,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-10-25,12100.0,0.0,30.0,clear
+495,Green Gram (Moong),Jammu (Grain Mandi),2016-10-25,11900.0,0.0,30.0,clear
+496,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-10-26,12100.0,0.0,29.0,clear
+497,Green Gram (Moong),Jammu (Grain Mandi),2016-10-26,7900.0,0.0,29.0,clear
+498,Lentil(Masur),Jammu (Grain Mandi),2016-10-26,7900.0,0.0,29.0,clear
+499,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-10-27,12100.0,0.0,29.6,clear
+500,Green Gram (Moong),Jammu (Grain Mandi),2016-10-27,7900.0,0.0,29.6,clear
+501,Lentil(Masur),Jammu (Grain Mandi),2016-10-27,7900.0,0.0,29.6,clear
+502,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-10-28,11000.0,0.0,28.8,clear
+503,Green Gram (Moong),Jammu (Grain Mandi),2016-10-28,7700.0,0.0,28.8,clear
+504,Lentil(Masur),Jammu (Grain Mandi),2016-10-28,7900.0,0.0,28.8,clear
+505,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-10-29,11000.0,0.0,29.0,clear
+506,Green Gram (Moong),Jammu (Grain Mandi),2016-10-29,7700.0,0.0,29.0,clear
+507,Lentil(Masur),Jammu (Grain Mandi),2016-10-29,7900.0,0.0,29.0,clear
+508,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-10-30,11000.0,0.0,27.0,clear
+509,Green Gram (Moong),Jammu (Grain Mandi),2016-10-30,7900.0,0.0,27.0,clear
+510,Lentil(Masur),Jammu (Grain Mandi),2016-10-30,7900.0,0.0,27.0,clear
+511,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-10-31,11000.0,0.0,27.2,clear
+512,Green Gram (Moong),Jammu (Grain Mandi),2016-10-31,7700.0,0.0,27.2,clear
+513,Lentil(Masur),Jammu (Grain Mandi),2016-10-31,7900.0,0.0,27.2,clear
+514,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-01-11,11000.0,0.0,20.2,clear
+515,Green Gram (Moong),Jammu (Grain Mandi),2016-01-11,7700.0,0.0,20.2,clear
+516,Lentil(Masur),Jammu (Grain Mandi),2016-01-11,7900.0,0.0,20.2,clear
+517,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-02-11,11000.0,0.0,18.0,clear
+518,Green Gram (Moong),Jammu (Grain Mandi),2016-02-11,7700.0,0.0,18.0,clear
+519,Lentil(Masur),Jammu (Grain Mandi),2016-02-11,7900.0,0.0,18.0,clear
+520,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-03-11,11000.0,0.0,21.6,rain
+521,Green Gram (Moong),Jammu (Grain Mandi),2016-03-11,7700.0,0.0,21.6,rain
+522,Lentil(Masur),Jammu (Grain Mandi),2016-03-11,7900.0,0.0,21.6,rain
+523,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-11-14,12000.0,0.0,25.2,clear
+524,Black Gram (Urd Beans),Jammu (Grain Mandi),2016-11-14,12950.0,0.0,25.2,clear
+525,Green Gram (Moong),Jammu (Grain Mandi),2016-11-14,7750.0,0.0,25.2,clear
+526,Lentil(Masur),Jammu (Grain Mandi),2016-11-14,7850.0,0.0,25.2,clear
+527,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-11-16,12000.0,0.0,24.6,clear
+528,Black Gram (Urd Beans),Jammu (Grain Mandi),2016-11-16,12950.0,0.0,24.6,clear
+529,Green Gram (Moong),Jammu (Grain Mandi),2016-11-16,7750.0,0.0,24.6,clear
+530,Lentil(Masur),Jammu (Grain Mandi),2016-11-16,7800.0,0.0,24.6,clear
+531,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-11-18,12000.0,0.0,24.4,clear
+532,Black Gram (Urd Beans),Jammu (Grain Mandi),2016-11-18,12950.0,0.0,24.4,clear
+533,Lentil(Masur),Jammu (Grain Mandi),2016-11-18,7850.0,0.0,24.4,clear
+534,Arhar (Tur/Red Gram),Jammu (Grain Mandi),2016-11-19,12000.0,0.0,24.4,clear
+535,Black Gram (Urd Beans),Jammu (Grain Mandi),2016-11-19,12950.0,0.0,24.4,clear
+536,Black Gram (Urd Beans),Jammu (Grain Mandi),2016-04-11,11900.0,0.0,29.0,clear
+537,Green Gram (Moong),Jammu (Grain Mandi),2016-04-11,7900.0,0.0,29.0,clear
+538,Black Gram (Urd Beans),Jammu (Grain Mandi),2016-05-11,11900.0,0.0,33.6,clear
+539,Green Gram (Moong),Jammu (Grain Mandi),2016-05-11,7900.0,0.0,33.6,clear
+540,Black Gram (Urd Beans),Jammu (Grain Mandi),2016-07-11,12950.0,0.0,36.0,clear
+541,Green Gram (Moong),Jammu (Grain Mandi),2016-07-11,7750.0,0.0,36.0,clear
+542,Black Gram (Urd Beans),Jammu (Grain Mandi),2016-08-11,12950.0,0.0,30.8,clear
+543,Green Gram (Moong),Jammu (Grain Mandi),2016-08-11,7750.0,0.0,30.8,clear
+544,Black Gram (Urd Beans),Jammu (Grain Mandi),2016-09-11,12950.0,0.0,33.2,rain
+545,Green Gram (Moong),Jammu (Grain Mandi),2016-09-11,7750.0,0.0,33.2,rain
+546,Black Gram (Urd Beans),Jammu (Grain Mandi),2016-10-11,12900.0,0.0,31.0,clear
+547,Green Gram (Moong),Jammu (Grain Mandi),2016-10-11,7750.0,0.0,31.0,clear
+548,Black Gram (Urd Beans),Jammu (Grain Mandi),2016-11-15,12950.0,0.0,24.2,clear
+549,Black Gram (Urd Beans),Jammu (Grain Mandi),2016-11-17,12950.0,0.0,24.8,clear
+550,Lentil(Masur),Jammu (Grain Mandi),2016-11-17,7850.0,0.0,24.8,clear
+551,Green Gram (Moong),Jammu (Grain Mandi),2016-10-06,9150.0,0.0,31.2,clear
+552,Lentil(Masur),Jammu (Grain Mandi),2016-10-06,8200.0,0.0,31.2,clear
+553,Green Gram (Moong),Jammu (Grain Mandi),2016-11-06,9150.0,0.0,28.0,clear
+554,Lentil(Masur),Jammu (Grain Mandi),2016-11-06,8200.0,0.0,28.0,clear
+555,Green Gram (Moong),Jammu (Grain Mandi),2016-08-24,8975.0,0.0,30.2,clear
+556,Lentil(Masur),Jammu (Grain Mandi),2016-08-24,7850.0,0.0,30.2,clear
+557,Green Gram (Moong),Jammu (Grain Mandi),2016-09-18,7700.0,0.0,33.0,clear
+558,Lentil(Masur),Jammu (Grain Mandi),2016-09-18,7900.0,0.0,33.0,clear
+559,Green Gram (Moong),Jammu (Grain Mandi),2016-01-10,7700.0,0.0,19.8,clear
+560,Lentil(Masur),Jammu (Grain Mandi),2016-01-10,7900.0,0.0,19.8,clear
+561,Lentil(Masur),Jammu (Grain Mandi),2016-08-01,8600.0,0.0,32.0,rain
+562,Lentil(Masur),Jammu (Grain Mandi),2016-01-22,8500.0,0.0,10.0,clear

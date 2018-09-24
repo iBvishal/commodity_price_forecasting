@@ -1,0 +1,1475 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Medinipur(West),2015-12-14,16000.0,7.0,24.0,clear
+1,Bengal Gram(Gram),Medinipur(West),2015-12-14,7000.0,7.0,24.0,clear
+2,Black Gram (Urd Beans),Medinipur(West),2015-12-14,14500.0,6.0,24.0,clear
+3,Lentil(Masur),Medinipur(West),2015-12-14,10500.0,7.0,24.0,clear
+4,Arhar (Tur/Red Gram),Medinipur(West),2015-12-15,16000.0,8.0,21.8,clear
+5,Bengal Gram(Gram),Medinipur(West),2015-12-15,7000.0,8.0,21.8,clear
+6,Black Gram (Urd Beans),Medinipur(West),2015-12-15,14500.0,7.0,21.8,clear
+7,Lentil(Masur),Medinipur(West),2015-12-15,10500.0,7.0,21.8,clear
+8,Arhar (Tur/Red Gram),Medinipur(West),2015-12-16,16000.0,7.0,21.4,clear
+9,Bengal Gram(Gram),Medinipur(West),2015-12-16,7000.0,7.0,21.4,clear
+10,Black Gram (Urd Beans),Medinipur(West),2015-12-16,14500.0,6.0,21.4,clear
+11,Lentil(Masur),Medinipur(West),2015-12-16,10500.0,8.0,21.4,clear
+12,Arhar (Tur/Red Gram),Medinipur(West),2015-12-18,16000.0,7.0,20.4,clear
+13,Bengal Gram(Gram),Medinipur(West),2015-12-18,7000.0,8.0,20.4,clear
+14,Black Gram (Urd Beans),Medinipur(West),2015-12-18,14500.0,8.0,20.4,clear
+15,Lentil(Masur),Medinipur(West),2015-12-18,10500.0,8.0,20.4,clear
+16,Arhar (Tur/Red Gram),Medinipur(West),2015-12-21,16000.0,7.0,21.4,clear
+17,Bengal Gram(Gram),Medinipur(West),2015-12-21,7000.0,7.0,21.4,clear
+18,Black Gram (Urd Beans),Medinipur(West),2015-12-21,14500.0,7.0,21.4,clear
+19,Lentil(Masur),Medinipur(West),2015-12-21,10700.0,8.0,21.4,clear
+20,Arhar (Tur/Red Gram),Medinipur(West),2015-12-22,16000.0,7.0,18.4,rain
+21,Bengal Gram(Gram),Medinipur(West),2015-12-22,7000.0,7.0,18.4,rain
+22,Black Gram (Urd Beans),Medinipur(West),2015-12-22,14500.0,6.0,18.4,rain
+23,Lentil(Masur),Medinipur(West),2015-12-22,10700.0,8.0,18.4,rain
+24,Arhar (Tur/Red Gram),Medinipur(West),2015-12-23,16000.0,7.0,23.4,clear
+25,Bengal Gram(Gram),Medinipur(West),2015-12-23,7000.0,7.0,23.4,clear
+26,Black Gram (Urd Beans),Medinipur(West),2015-12-23,14500.0,7.0,23.4,clear
+27,Lentil(Masur),Medinipur(West),2015-12-23,10700.0,7.0,23.4,clear
+28,Arhar (Tur/Red Gram),Medinipur(West),2015-12-28,16000.0,7.0,22.4,clear
+29,Bengal Gram(Gram),Medinipur(West),2015-12-28,7000.0,8.0,22.4,clear
+30,Black Gram (Urd Beans),Medinipur(West),2015-12-28,14500.0,8.0,22.4,clear
+31,Lentil(Masur),Medinipur(West),2015-12-28,10700.0,8.0,22.4,clear
+32,Arhar (Tur/Red Gram),Medinipur(West),2015-12-29,16000.0,7.0,22.8,clear
+33,Bengal Gram(Gram),Medinipur(West),2015-12-29,7000.0,8.0,22.8,clear
+34,Black Gram (Urd Beans),Medinipur(West),2015-12-29,14500.0,6.0,22.8,clear
+35,Lentil(Masur),Medinipur(West),2015-12-29,10700.0,8.0,22.8,clear
+36,Arhar (Tur/Red Gram),Medinipur(West),2015-12-30,15500.0,8.0,23.8,clear
+37,Bengal Gram(Gram),Medinipur(West),2015-12-30,7200.0,8.0,23.8,clear
+38,Black Gram (Urd Beans),Medinipur(West),2015-12-30,14000.0,7.0,23.8,clear
+39,Lentil(Masur),Medinipur(West),2015-12-30,11000.0,8.0,23.8,clear
+40,Arhar (Tur/Red Gram),Medinipur(West),2015-12-31,15500.0,7.0,23.4,clear
+41,Bengal Gram(Gram),Medinipur(West),2015-12-31,7200.0,7.0,23.4,clear
+42,Black Gram (Urd Beans),Medinipur(West),2015-12-31,14000.0,7.0,23.4,clear
+43,Lentil(Masur),Medinipur(West),2015-12-31,11000.0,7.0,23.4,clear
+44,Arhar (Tur/Red Gram),Medinipur(West),2016-06-01,14000.0,8.0,30.8,clear
+45,Bengal Gram(Gram),Medinipur(West),2016-06-01,7200.0,7.0,30.8,clear
+46,Black Gram (Urd Beans),Medinipur(West),2016-06-01,13500.0,7.0,30.8,clear
+47,Lentil(Masur),Medinipur(West),2016-06-01,10900.0,7.0,30.8,clear
+48,Arhar (Tur/Red Gram),Medinipur(West),2016-08-01,14000.0,8.0,28.4,rain
+49,Bengal Gram(Gram),Medinipur(West),2016-08-01,7200.0,7.0,28.4,rain
+50,Black Gram (Urd Beans),Medinipur(West),2016-08-01,13500.0,8.0,28.4,rain
+51,Lentil(Masur),Medinipur(West),2016-08-01,10900.0,8.0,28.4,rain
+52,Arhar (Tur/Red Gram),Medinipur(West),2016-10-01,14000.0,8.0,29.0,clear
+53,Bengal Gram(Gram),Medinipur(West),2016-10-01,7200.0,7.0,29.0,clear
+54,Black Gram (Urd Beans),Medinipur(West),2016-10-01,13500.0,8.0,29.0,clear
+55,Lentil(Masur),Medinipur(West),2016-10-01,10900.0,8.0,29.0,clear
+56,Arhar (Tur/Red Gram),Medinipur(West),2016-01-13,14000.0,9.0,23.4,clear
+57,Bengal Gram(Gram),Medinipur(West),2016-01-13,7200.0,8.0,23.4,clear
+58,Black Gram (Urd Beans),Medinipur(West),2016-01-13,13500.0,6.0,23.4,clear
+59,Lentil(Masur),Medinipur(West),2016-01-13,10900.0,8.0,23.4,clear
+60,Arhar (Tur/Red Gram),Medinipur(West),2016-01-15,14000.0,8.0,25.8,clear
+61,Bengal Gram(Gram),Medinipur(West),2016-01-15,7200.0,8.0,25.8,clear
+62,Black Gram (Urd Beans),Medinipur(West),2016-01-15,13600.0,7.0,25.8,clear
+63,Lentil(Masur),Medinipur(West),2016-01-15,10900.0,9.0,25.8,clear
+64,Arhar (Tur/Red Gram),Medinipur(West),2016-01-18,14500.0,8.0,25.0,clear
+65,Bengal Gram(Gram),Medinipur(West),2016-01-18,7200.0,8.0,25.0,clear
+66,Black Gram (Urd Beans),Medinipur(West),2016-01-18,13600.0,7.0,25.0,clear
+67,Lentil(Masur),Medinipur(West),2016-01-18,10900.0,8.0,25.0,clear
+68,Arhar (Tur/Red Gram),Medinipur(West),2016-01-19,14500.0,8.0,25.8,clear
+69,Bengal Gram(Gram),Medinipur(West),2016-01-19,7200.0,8.0,25.8,clear
+70,Black Gram (Urd Beans),Medinipur(West),2016-01-19,13600.0,8.0,25.8,clear
+71,Lentil(Masur),Medinipur(West),2016-01-19,10900.0,8.0,25.8,clear
+72,Arhar (Tur/Red Gram),Medinipur(West),2016-01-20,14500.0,6.0,19.4,clear
+73,Bengal Gram(Gram),Medinipur(West),2016-01-20,7200.0,7.0,19.4,clear
+74,Black Gram (Urd Beans),Medinipur(West),2016-01-20,13600.0,7.0,19.4,clear
+75,Lentil(Masur),Medinipur(West),2016-01-20,10900.0,7.0,19.4,clear
+76,Arhar (Tur/Red Gram),Medinipur(West),2016-01-21,14500.0,6.0,21.4,clear
+77,Bengal Gram(Gram),Medinipur(West),2016-01-21,7200.0,7.0,21.4,clear
+78,Black Gram (Urd Beans),Medinipur(West),2016-01-21,13600.0,7.0,21.4,clear
+79,Lentil(Masur),Medinipur(West),2016-01-21,10900.0,7.0,21.4,clear
+80,Arhar (Tur/Red Gram),Medinipur(West),2016-01-22,15000.0,7.0,21.4,clear
+81,Bengal Gram(Gram),Medinipur(West),2016-01-22,7200.0,8.0,21.4,clear
+82,Black Gram (Urd Beans),Medinipur(West),2016-01-22,13000.0,8.0,21.4,clear
+83,Lentil(Masur),Medinipur(West),2016-01-22,10900.0,8.0,21.4,clear
+84,Arhar (Tur/Red Gram),Medinipur(West),2016-01-25,15500.0,8.0,22.8,clear
+85,Bengal Gram(Gram),Medinipur(West),2016-01-25,7200.0,8.0,22.8,clear
+86,Black Gram (Urd Beans),Medinipur(West),2016-01-25,13000.0,8.0,22.8,clear
+87,Lentil(Masur),Medinipur(West),2016-01-25,10900.0,10.0,22.8,clear
+88,Arhar (Tur/Red Gram),Medinipur(West),2016-01-28,15500.0,6.0,25.4,clear
+89,Bengal Gram(Gram),Medinipur(West),2016-01-28,7200.0,6.0,25.4,clear
+90,Black Gram (Urd Beans),Medinipur(West),2016-01-28,13000.0,7.0,25.4,clear
+91,Lentil(Masur),Medinipur(West),2016-01-28,10900.0,8.0,25.4,clear
+92,Arhar (Tur/Red Gram),Medinipur(West),2016-01-02,15000.0,8.0,23.4,clear
+93,Bengal Gram(Gram),Medinipur(West),2016-01-02,7200.0,8.0,23.4,clear
+94,Black Gram (Urd Beans),Medinipur(West),2016-01-02,13500.0,7.0,23.4,clear
+95,Lentil(Masur),Medinipur(West),2016-01-02,10900.0,10.0,23.4,clear
+96,Arhar (Tur/Red Gram),Medinipur(West),2016-03-02,15000.0,8.0,30.0,clear
+97,Bengal Gram(Gram),Medinipur(West),2016-03-02,7200.0,8.0,30.0,clear
+98,Black Gram (Urd Beans),Medinipur(West),2016-03-02,13500.0,8.0,30.0,clear
+99,Lentil(Masur),Medinipur(West),2016-03-02,10900.0,9.0,30.0,clear
+100,Arhar (Tur/Red Gram),Medinipur(West),2016-04-02,15100.0,7.0,31.8,clear
+101,Bengal Gram(Gram),Medinipur(West),2016-04-02,7200.0,6.0,31.8,clear
+102,Black Gram (Urd Beans),Medinipur(West),2016-04-02,13500.0,7.0,31.8,clear
+103,Lentil(Masur),Medinipur(West),2016-04-02,10900.0,7.0,31.8,clear
+104,Arhar (Tur/Red Gram),Medinipur(West),2016-05-02,14500.0,7.0,37.4,clear
+105,Bengal Gram(Gram),Medinipur(West),2016-05-02,7200.0,8.0,37.4,clear
+106,Black Gram (Urd Beans),Medinipur(West),2016-05-02,13500.0,7.0,37.4,clear
+107,Lentil(Masur),Medinipur(West),2016-05-02,10500.0,10.0,37.4,clear
+108,Arhar (Tur/Red Gram),Medinipur(West),2016-08-02,14500.0,8.0,27.2,rain
+109,Bengal Gram(Gram),Medinipur(West),2016-08-02,7000.0,8.0,27.2,rain
+110,Black Gram (Urd Beans),Medinipur(West),2016-08-02,13500.0,8.0,27.2,rain
+111,Lentil(Masur),Medinipur(West),2016-08-02,10500.0,10.0,27.2,rain
+112,Arhar (Tur/Red Gram),Medinipur(West),2016-09-02,14500.0,7.0,31.4,clear
+113,Bengal Gram(Gram),Medinipur(West),2016-09-02,7000.0,8.0,31.4,clear
+114,Black Gram (Urd Beans),Medinipur(West),2016-09-02,13600.0,7.0,31.4,clear
+115,Lentil(Masur),Medinipur(West),2016-09-02,10500.0,8.0,31.4,clear
+116,Arhar (Tur/Red Gram),Medinipur(West),2016-10-02,14500.0,8.0,31.0,clear
+117,Bengal Gram(Gram),Medinipur(West),2016-10-02,7000.0,8.0,31.0,clear
+118,Black Gram (Urd Beans),Medinipur(West),2016-10-02,13500.0,8.0,31.0,clear
+119,Lentil(Masur),Medinipur(West),2016-10-02,10500.0,10.0,31.0,clear
+120,Arhar (Tur/Red Gram),Medinipur(West),2016-12-02,14500.0,8.0,26.4,clear
+121,Black Gram (Urd Beans),Medinipur(West),2016-12-02,13500.0,8.0,26.4,clear
+122,Lentil(Masur),Medinipur(West),2016-12-02,10400.0,10.0,26.4,clear
+123,Arhar (Tur/Red Gram),Medinipur(West),2016-02-15,14500.0,8.0,27.8,clear
+124,Black Gram (Urd Beans),Medinipur(West),2016-02-15,13400.0,8.0,27.8,clear
+125,Lentil(Masur),Medinipur(West),2016-02-15,10400.0,9.0,27.8,clear
+126,Arhar (Tur/Red Gram),Medinipur(West),2016-02-17,14500.0,8.0,30.8,clear
+127,Bengal Gram(Gram),Medinipur(West),2016-02-17,6900.0,8.0,30.8,clear
+128,Black Gram (Urd Beans),Medinipur(West),2016-02-17,13400.0,7.0,30.8,clear
+129,Lentil(Masur),Medinipur(West),2016-02-17,10400.0,9.0,30.8,clear
+130,Arhar (Tur/Red Gram),Medinipur(West),2016-02-18,14500.0,7.0,31.4,clear
+131,Bengal Gram(Gram),Medinipur(West),2016-02-18,6900.0,7.0,31.4,clear
+132,Black Gram (Urd Beans),Medinipur(West),2016-02-18,13400.0,6.0,31.4,clear
+133,Lentil(Masur),Medinipur(West),2016-02-18,10400.0,8.0,31.4,clear
+134,Arhar (Tur/Red Gram),Medinipur(West),2016-02-22,14500.0,7.0,30.8,clear
+135,Bengal Gram(Gram),Medinipur(West),2016-02-22,6900.0,8.0,30.8,clear
+136,Black Gram (Urd Beans),Medinipur(West),2016-02-22,13400.0,8.0,30.8,clear
+137,Lentil(Masur),Medinipur(West),2016-02-22,10400.0,10.0,30.8,clear
+138,Arhar (Tur/Red Gram),Medinipur(West),2016-02-23,14500.0,8.0,28.4,clear
+139,Bengal Gram(Gram),Medinipur(West),2016-02-23,6900.0,8.0,28.4,clear
+140,Black Gram (Urd Beans),Medinipur(West),2016-02-23,13400.0,8.0,28.4,clear
+141,Lentil(Masur),Medinipur(West),2016-02-23,10400.0,10.0,28.4,clear
+142,Arhar (Tur/Red Gram),Medinipur(West),2016-02-25,14500.0,7.0,25.8,clear
+143,Bengal Gram(Gram),Medinipur(West),2016-02-25,6900.0,6.0,25.8,clear
+144,Black Gram (Urd Beans),Medinipur(West),2016-02-25,13400.0,7.0,25.8,clear
+145,Lentil(Masur),Medinipur(West),2016-02-25,10400.0,8.0,25.8,clear
+146,Arhar (Tur/Red Gram),Medinipur(West),2016-02-29,14500.0,8.0,28.8,clear
+147,Bengal Gram(Gram),Medinipur(West),2016-02-29,6900.0,8.0,28.8,clear
+148,Black Gram (Urd Beans),Medinipur(West),2016-02-29,13400.0,8.0,28.8,clear
+149,Lentil(Masur),Medinipur(West),2016-02-29,10500.0,10.0,28.8,clear
+150,Arhar (Tur/Red Gram),Medinipur(West),2016-01-03,14000.0,8.0,23.8,clear
+151,Bengal Gram(Gram),Medinipur(West),2016-01-03,6800.0,8.0,23.8,clear
+152,Black Gram (Urd Beans),Medinipur(West),2016-01-03,13800.0,7.0,23.8,clear
+153,Lentil(Masur),Medinipur(West),2016-01-03,10400.0,10.0,23.8,clear
+154,Arhar (Tur/Red Gram),Medinipur(West),2016-08-03,14000.0,8.0,30.0,rain
+155,Bengal Gram(Gram),Medinipur(West),2016-08-03,6800.0,8.0,30.0,rain
+156,Black Gram (Urd Beans),Medinipur(West),2016-08-03,13800.0,7.0,30.0,rain
+157,Lentil(Masur),Medinipur(West),2016-08-03,10400.0,10.0,30.0,rain
+158,Arhar (Tur/Red Gram),Medinipur(West),2016-09-03,14000.0,7.0,29.0,rain
+159,Bengal Gram(Gram),Medinipur(West),2016-09-03,6800.0,8.0,29.0,rain
+160,Black Gram (Urd Beans),Medinipur(West),2016-09-03,13800.0,8.0,29.0,rain
+161,Lentil(Masur),Medinipur(West),2016-09-03,10400.0,10.0,29.0,rain
+162,Arhar (Tur/Red Gram),Medinipur(West),2016-10-03,14000.0,7.0,31.8,clear
+163,Bengal Gram(Gram),Medinipur(West),2016-10-03,6800.0,8.0,31.8,clear
+164,Black Gram (Urd Beans),Medinipur(West),2016-10-03,13800.0,8.0,31.8,clear
+165,Lentil(Masur),Medinipur(West),2016-10-03,10400.0,10.0,31.8,clear
+166,Arhar (Tur/Red Gram),Medinipur(West),2016-03-13,14000.0,7.0,30.4,clear
+167,Black Gram (Urd Beans),Medinipur(West),2016-03-13,13800.0,8.0,30.4,clear
+168,Lentil(Masur),Medinipur(West),2016-03-13,10400.0,10.0,30.4,clear
+169,Arhar (Tur/Red Gram),Medinipur(West),2016-03-14,14000.0,7.0,28.4,clear
+170,Black Gram (Urd Beans),Medinipur(West),2016-03-14,13800.0,8.0,28.4,clear
+171,Lentil(Masur),Medinipur(West),2016-03-14,10400.0,10.0,28.4,clear
+172,Arhar (Tur/Red Gram),Medinipur(West),2016-03-16,13000.0,7.0,31.8,clear
+173,Bengal Gram(Gram),Medinipur(West),2016-03-16,6800.0,8.0,31.8,clear
+174,Black Gram (Urd Beans),Medinipur(West),2016-03-16,13400.0,8.0,31.8,clear
+175,Lentil(Masur),Medinipur(West),2016-03-16,10500.0,10.0,31.8,clear
+176,Arhar (Tur/Red Gram),Medinipur(West),2016-03-17,13000.0,6.0,30.4,clear
+177,Bengal Gram(Gram),Medinipur(West),2016-03-17,6800.0,7.0,30.4,clear
+178,Black Gram (Urd Beans),Medinipur(West),2016-03-17,13400.0,7.0,30.4,clear
+179,Lentil(Masur),Medinipur(West),2016-03-17,10500.0,8.0,30.4,clear
+180,Arhar (Tur/Red Gram),Medinipur(West),2016-03-18,13000.0,8.0,32.2,clear
+181,Bengal Gram(Gram),Medinipur(West),2016-03-18,6800.0,8.0,32.2,clear
+182,Black Gram (Urd Beans),Medinipur(West),2016-03-18,13200.0,8.0,32.2,clear
+183,Lentil(Masur),Medinipur(West),2016-03-18,10500.0,10.0,32.2,clear
+184,Arhar (Tur/Red Gram),Medinipur(West),2016-03-19,13000.0,8.0,27.0,rain
+185,Bengal Gram(Gram),Medinipur(West),2016-03-19,6800.0,8.0,27.0,rain
+186,Black Gram (Urd Beans),Medinipur(West),2016-03-19,13200.0,8.0,27.0,rain
+187,Lentil(Masur),Medinipur(West),2016-03-19,10500.0,10.0,27.0,rain
+188,Arhar (Tur/Red Gram),Medinipur(West),2016-03-21,13000.0,7.0,33.8,clear
+189,Bengal Gram(Gram),Medinipur(West),2016-03-21,6800.0,7.0,33.8,clear
+190,Black Gram (Urd Beans),Medinipur(West),2016-03-21,13200.0,8.0,33.8,clear
+191,Lentil(Masur),Medinipur(West),2016-03-21,10500.0,10.0,33.8,clear
+192,Arhar (Tur/Red Gram),Medinipur(West),2016-03-22,13000.0,8.0,31.8,clear
+193,Bengal Gram(Gram),Medinipur(West),2016-03-22,6600.0,7.0,31.8,clear
+194,Black Gram (Urd Beans),Medinipur(West),2016-03-22,13200.0,8.0,31.8,clear
+195,Lentil(Masur),Medinipur(West),2016-03-22,10500.0,10.0,31.8,clear
+196,Arhar (Tur/Red Gram),Medinipur(West),2016-03-28,13100.0,7.0,33.0,clear
+197,Bengal Gram(Gram),Medinipur(West),2016-03-28,6600.0,8.0,33.0,clear
+198,Black Gram (Urd Beans),Medinipur(West),2016-03-28,13200.0,8.0,33.0,clear
+199,Lentil(Masur),Medinipur(West),2016-03-28,10500.0,10.0,33.0,clear
+200,Arhar (Tur/Red Gram),Medinipur(West),2016-03-31,13100.0,6.0,31.4,clear
+201,Bengal Gram(Gram),Medinipur(West),2016-03-31,6700.0,6.0,31.4,clear
+202,Black Gram (Urd Beans),Medinipur(West),2016-03-31,13300.0,7.0,31.4,clear
+203,Lentil(Masur),Medinipur(West),2016-03-31,10500.0,8.0,31.4,clear
+204,Arhar (Tur/Red Gram),Medinipur(West),2016-01-04,13500.0,8.0,23.4,clear
+205,Bengal Gram(Gram),Medinipur(West),2016-01-04,6600.0,8.0,23.4,clear
+206,Black Gram (Urd Beans),Medinipur(West),2016-01-04,13400.0,8.0,23.4,clear
+207,Lentil(Masur),Medinipur(West),2016-01-04,10600.0,10.0,23.4,clear
+208,Arhar (Tur/Red Gram),Medinipur(West),2016-05-04,13500.0,9.0,31.4,clear
+209,Bengal Gram(Gram),Medinipur(West),2016-05-04,6500.0,7.0,31.4,clear
+210,Black Gram (Urd Beans),Medinipur(West),2016-05-04,13500.0,8.0,31.4,clear
+211,Lentil(Masur),Medinipur(West),2016-05-04,10600.0,10.0,31.4,clear
+212,Arhar (Tur/Red Gram),Medinipur(West),2016-06-04,13500.0,9.0,33.4,clear
+213,Bengal Gram(Gram),Medinipur(West),2016-06-04,6500.0,7.0,33.4,clear
+214,Black Gram (Urd Beans),Medinipur(West),2016-06-04,13500.0,8.0,33.4,clear
+215,Lentil(Masur),Medinipur(West),2016-06-04,10600.0,10.0,33.4,clear
+216,Arhar (Tur/Red Gram),Medinipur(West),2016-07-04,13500.0,8.0,28.4,clear
+217,Bengal Gram(Gram),Medinipur(West),2016-07-04,6500.0,6.0,28.4,clear
+218,Black Gram (Urd Beans),Medinipur(West),2016-07-04,13500.0,7.0,28.4,clear
+219,Lentil(Masur),Medinipur(West),2016-07-04,10600.0,9.0,28.4,clear
+220,Arhar (Tur/Red Gram),Medinipur(West),2016-12-04,13500.0,8.0,25.8,clear
+221,Bengal Gram(Gram),Medinipur(West),2016-12-04,6500.0,7.0,25.8,clear
+222,Black Gram (Urd Beans),Medinipur(West),2016-12-04,13500.0,8.0,25.8,clear
+223,Lentil(Masur),Medinipur(West),2016-12-04,10600.0,10.0,25.8,clear
+224,Arhar (Tur/Red Gram),Medinipur(West),2016-04-13,13500.0,7.0,37.0,clear
+225,Bengal Gram(Gram),Medinipur(West),2016-04-13,6500.0,7.0,37.0,clear
+226,Black Gram (Urd Beans),Medinipur(West),2016-04-13,13500.0,8.0,37.0,clear
+227,Lentil(Masur),Medinipur(West),2016-04-13,10600.0,10.0,37.0,clear
+228,Arhar (Tur/Red Gram),Medinipur(West),2016-04-15,13500.0,8.0,38.0,clear
+229,Bengal Gram(Gram),Medinipur(West),2016-04-15,6500.0,8.0,38.0,clear
+230,Black Gram (Urd Beans),Medinipur(West),2016-04-15,13500.0,8.0,38.0,clear
+231,Lentil(Masur),Medinipur(West),2016-04-15,10600.0,10.0,38.0,clear
+232,Arhar (Tur/Red Gram),Medinipur(West),2016-04-18,13500.0,8.0,36.6,clear
+233,Bengal Gram(Gram),Medinipur(West),2016-04-18,6500.0,8.0,36.6,clear
+234,Black Gram (Urd Beans),Medinipur(West),2016-04-18,13500.0,7.0,36.6,clear
+235,Lentil(Masur),Medinipur(West),2016-04-18,10600.0,9.0,36.6,clear
+236,Arhar (Tur/Red Gram),Medinipur(West),2016-04-19,13500.0,7.0,38.0,clear
+237,Bengal Gram(Gram),Medinipur(West),2016-04-19,6600.0,7.0,38.0,clear
+238,Black Gram (Urd Beans),Medinipur(West),2016-04-19,13500.0,7.0,38.0,clear
+239,Lentil(Masur),Medinipur(West),2016-04-19,10600.0,9.0,38.0,clear
+240,Arhar (Tur/Red Gram),Medinipur(West),2016-04-20,13500.0,7.0,36.8,clear
+241,Bengal Gram(Gram),Medinipur(West),2016-04-20,6600.0,8.0,36.8,clear
+242,Black Gram (Urd Beans),Medinipur(West),2016-04-20,13500.0,7.0,36.8,clear
+243,Lentil(Masur),Medinipur(West),2016-04-20,10600.0,9.0,36.8,clear
+244,Arhar (Tur/Red Gram),Medinipur(West),2016-04-21,13500.0,6.0,36.8,clear
+245,Bengal Gram(Gram),Medinipur(West),2016-04-21,6600.0,7.0,36.8,clear
+246,Black Gram (Urd Beans),Medinipur(West),2016-04-21,13600.0,6.0,36.8,clear
+247,Lentil(Masur),Medinipur(West),2016-04-21,10600.0,8.0,36.8,clear
+248,Arhar (Tur/Red Gram),Medinipur(West),2016-04-22,14500.0,7.0,39.8,clear
+249,Bengal Gram(Gram),Medinipur(West),2016-04-22,7000.0,8.0,39.8,clear
+250,Black Gram (Urd Beans),Medinipur(West),2016-04-22,15000.0,6.0,39.8,clear
+251,Lentil(Masur),Medinipur(West),2016-04-22,11000.0,10.0,39.8,clear
+252,Arhar (Tur/Red Gram),Medinipur(West),2016-04-26,14500.0,8.0,35.8,clear
+253,Bengal Gram(Gram),Medinipur(West),2016-04-26,7000.0,8.0,35.8,clear
+254,Black Gram (Urd Beans),Medinipur(West),2016-04-26,15000.0,7.0,35.8,clear
+255,Lentil(Masur),Medinipur(West),2016-04-26,11000.0,10.0,35.8,clear
+256,Arhar (Tur/Red Gram),Medinipur(West),2016-04-27,14500.0,7.0,38.4,clear
+257,Bengal Gram(Gram),Medinipur(West),2016-04-27,7000.0,7.0,38.4,clear
+258,Black Gram (Urd Beans),Medinipur(West),2016-04-27,15000.0,8.0,38.4,clear
+259,Lentil(Masur),Medinipur(West),2016-04-27,11000.0,10.0,38.4,clear
+260,Arhar (Tur/Red Gram),Medinipur(West),2016-03-05,14000.0,7.0,31.8,clear
+261,Bengal Gram(Gram),Medinipur(West),2016-03-05,7500.0,8.0,31.8,clear
+262,Black Gram (Urd Beans),Medinipur(West),2016-03-05,16000.0,8.0,31.8,clear
+263,Lentil(Masur),Medinipur(West),2016-03-05,11000.0,10.0,31.8,clear
+264,Arhar (Tur/Red Gram),Medinipur(West),2016-04-05,14000.0,8.0,34.4,clear
+265,Bengal Gram(Gram),Medinipur(West),2016-04-05,7500.0,8.0,34.4,clear
+266,Black Gram (Urd Beans),Medinipur(West),2016-04-05,16000.0,7.0,34.4,clear
+267,Lentil(Masur),Medinipur(West),2016-04-05,11000.0,10.0,34.4,clear
+268,Arhar (Tur/Red Gram),Medinipur(West),2016-05-05,14000.0,7.0,34.8,clear
+269,Bengal Gram(Gram),Medinipur(West),2016-05-05,7500.0,7.0,34.8,clear
+270,Black Gram (Urd Beans),Medinipur(West),2016-05-05,16000.0,6.0,34.8,clear
+271,Lentil(Masur),Medinipur(West),2016-05-05,11000.0,8.0,34.8,clear
+272,Arhar (Tur/Red Gram),Medinipur(West),2016-12-05,14000.0,7.0,24.8,clear
+273,Black Gram (Urd Beans),Medinipur(West),2016-12-05,16000.0,7.0,24.8,clear
+274,Lentil(Masur),Medinipur(West),2016-12-05,11000.0,8.0,24.8,clear
+275,Arhar (Tur/Red Gram),Medinipur(West),2016-05-13,14000.0,8.0,37.0,clear
+276,Black Gram (Urd Beans),Medinipur(West),2016-05-13,16000.0,8.0,37.0,clear
+277,Lentil(Masur),Medinipur(West),2016-05-13,11000.0,10.0,37.0,clear
+278,Arhar (Tur/Red Gram),Medinipur(West),2016-05-14,15000.0,7.0,34.4,clear
+279,Black Gram (Urd Beans),Medinipur(West),2016-05-14,16000.0,8.0,34.4,clear
+280,Lentil(Masur),Medinipur(West),2016-05-14,10800.0,10.0,34.4,clear
+281,Arhar (Tur/Red Gram),Medinipur(West),2016-05-16,15000.0,7.0,34.8,clear
+282,Bengal Gram(Gram),Medinipur(West),2016-05-16,7500.0,8.0,34.8,clear
+283,Black Gram (Urd Beans),Medinipur(West),2016-05-16,15000.0,7.0,34.8,clear
+284,Lentil(Masur),Medinipur(West),2016-05-16,10800.0,10.0,34.8,clear
+285,Arhar (Tur/Red Gram),Medinipur(West),2016-05-17,15000.0,7.0,34.8,clear
+286,Bengal Gram(Gram),Medinipur(West),2016-05-17,7500.0,8.0,34.8,clear
+287,Black Gram (Urd Beans),Medinipur(West),2016-05-17,15000.0,8.0,34.8,clear
+288,Lentil(Masur),Medinipur(West),2016-05-17,10800.0,9.0,34.8,clear
+289,Arhar (Tur/Red Gram),Medinipur(West),2016-05-18,15000.0,8.0,33.8,clear
+290,Bengal Gram(Gram),Medinipur(West),2016-05-18,7500.0,8.0,33.8,clear
+291,Black Gram (Urd Beans),Medinipur(West),2016-05-18,15500.0,7.0,33.8,clear
+292,Lentil(Masur),Medinipur(West),2016-05-18,10800.0,10.0,33.8,clear
+293,Arhar (Tur/Red Gram),Medinipur(West),2016-05-19,15000.0,7.0,31.4,rain
+294,Bengal Gram(Gram),Medinipur(West),2016-05-19,7500.0,7.0,31.4,rain
+295,Black Gram (Urd Beans),Medinipur(West),2016-05-19,15500.0,6.0,31.4,rain
+296,Lentil(Masur),Medinipur(West),2016-05-19,10800.0,8.0,31.4,rain
+297,Arhar (Tur/Red Gram),Medinipur(West),2016-05-20,15000.0,8.0,27.4,rain
+298,Bengal Gram(Gram),Medinipur(West),2016-05-20,7500.0,8.0,27.4,rain
+299,Black Gram (Urd Beans),Medinipur(West),2016-05-20,15500.0,9.0,27.4,rain
+300,Lentil(Masur),Medinipur(West),2016-05-20,10800.0,10.0,27.4,rain
+301,Arhar (Tur/Red Gram),Medinipur(West),2016-05-24,15000.0,7.0,34.6,clear
+302,Bengal Gram(Gram),Medinipur(West),2016-05-24,7500.0,8.0,34.6,clear
+303,Black Gram (Urd Beans),Medinipur(West),2016-05-24,15500.0,8.0,34.6,clear
+304,Lentil(Masur),Medinipur(West),2016-05-24,10800.0,10.0,34.6,clear
+305,Arhar (Tur/Red Gram),Medinipur(West),2016-05-25,15000.0,8.0,30.4,clear
+306,Bengal Gram(Gram),Medinipur(West),2016-05-25,7500.0,8.0,30.4,clear
+307,Black Gram (Urd Beans),Medinipur(West),2016-05-25,15500.0,7.0,30.4,clear
+308,Lentil(Masur),Medinipur(West),2016-05-25,10800.0,10.0,30.4,clear
+309,Arhar (Tur/Red Gram),Medinipur(West),2016-05-26,15000.0,6.0,35.4,clear
+310,Bengal Gram(Gram),Medinipur(West),2016-05-26,7500.0,7.0,35.4,clear
+311,Black Gram (Urd Beans),Medinipur(West),2016-05-26,15500.0,7.0,35.4,clear
+312,Lentil(Masur),Medinipur(West),2016-05-26,10800.0,8.0,35.4,clear
+313,Arhar (Tur/Red Gram),Medinipur(West),2016-05-27,15000.0,9.0,34.2,clear
+314,Bengal Gram(Gram),Medinipur(West),2016-05-27,7500.0,9.0,34.2,clear
+315,Black Gram (Urd Beans),Medinipur(West),2016-05-27,15500.0,8.0,34.2,clear
+316,Lentil(Masur),Medinipur(West),2016-05-27,10800.0,12.0,34.2,clear
+317,Arhar (Tur/Red Gram),Medinipur(West),2016-05-30,15000.0,8.0,35.8,clear
+318,Bengal Gram(Gram),Medinipur(West),2016-05-30,7500.0,8.0,35.8,clear
+319,Black Gram (Urd Beans),Medinipur(West),2016-05-30,15500.0,9.0,35.8,clear
+320,Lentil(Masur),Medinipur(West),2016-05-30,10800.0,12.0,35.8,clear
+321,Arhar (Tur/Red Gram),Medinipur(West),2016-05-31,15000.0,7.0,35.0,clear
+322,Bengal Gram(Gram),Medinipur(West),2016-05-31,7500.0,8.0,35.0,clear
+323,Black Gram (Urd Beans),Medinipur(West),2016-05-31,15500.0,7.0,35.0,clear
+324,Lentil(Masur),Medinipur(West),2016-05-31,10800.0,10.0,35.0,clear
+325,Arhar (Tur/Red Gram),Medinipur(West),2016-01-06,15000.0,8.0,22.8,clear
+326,Bengal Gram(Gram),Medinipur(West),2016-01-06,7500.0,8.0,22.8,clear
+327,Black Gram (Urd Beans),Medinipur(West),2016-01-06,15500.0,7.0,22.8,clear
+328,Lentil(Masur),Medinipur(West),2016-01-06,10800.0,10.0,22.8,clear
+329,Arhar (Tur/Red Gram),Medinipur(West),2016-03-06,15000.0,8.0,30.0,clear
+330,Bengal Gram(Gram),Medinipur(West),2016-03-06,7500.0,8.0,30.0,clear
+331,Black Gram (Urd Beans),Medinipur(West),2016-03-06,15500.0,7.0,30.0,clear
+332,Lentil(Masur),Medinipur(West),2016-03-06,10800.0,10.0,30.0,clear
+333,Arhar (Tur/Red Gram),Medinipur(West),2016-06-06,15000.0,9.0,32.0,clear
+334,Bengal Gram(Gram),Medinipur(West),2016-06-06,7500.0,8.0,32.0,clear
+335,Black Gram (Urd Beans),Medinipur(West),2016-06-06,15500.0,8.0,32.0,clear
+336,Lentil(Masur),Medinipur(West),2016-06-06,10800.0,10.0,32.0,clear
+337,Arhar (Tur/Red Gram),Medinipur(West),2016-07-06,15000.0,8.0,29.8,clear
+338,Bengal Gram(Gram),Medinipur(West),2016-07-06,7500.0,7.0,29.8,clear
+339,Black Gram (Urd Beans),Medinipur(West),2016-07-06,15500.0,8.0,29.8,clear
+340,Lentil(Masur),Medinipur(West),2016-07-06,10800.0,10.0,29.8,clear
+341,Arhar (Tur/Red Gram),Medinipur(West),2016-08-06,15000.0,8.0,28.4,clear
+342,Bengal Gram(Gram),Medinipur(West),2016-08-06,7500.0,7.0,28.4,clear
+343,Black Gram (Urd Beans),Medinipur(West),2016-08-06,15500.0,8.0,28.4,clear
+344,Lentil(Masur),Medinipur(West),2016-08-06,10800.0,10.0,28.4,clear
+345,Arhar (Tur/Red Gram),Medinipur(West),2016-09-06,15000.0,7.0,27.0,rain
+346,Bengal Gram(Gram),Medinipur(West),2016-09-06,7500.0,7.0,27.0,rain
+347,Black Gram (Urd Beans),Medinipur(West),2016-09-06,15500.0,7.0,27.0,rain
+348,Lentil(Masur),Medinipur(West),2016-09-06,10800.0,8.0,27.0,rain
+349,Arhar (Tur/Red Gram),Medinipur(West),2016-06-14,14500.0,8.0,31.8,clear
+350,Bengal Gram(Gram),Medinipur(West),2016-06-14,8200.0,8.0,31.8,clear
+351,Black Gram (Urd Beans),Medinipur(West),2016-06-14,15500.0,8.0,31.8,clear
+352,Lentil(Masur),Medinipur(West),2016-06-14,10600.0,10.0,31.8,clear
+353,Arhar (Tur/Red Gram),Medinipur(West),2016-06-15,14500.0,7.0,31.4,clear
+354,Bengal Gram(Gram),Medinipur(West),2016-06-15,8200.0,8.0,31.4,clear
+355,Black Gram (Urd Beans),Medinipur(West),2016-06-15,15500.0,8.0,31.4,clear
+356,Lentil(Masur),Medinipur(West),2016-06-15,10600.0,10.0,31.4,clear
+357,Arhar (Tur/Red Gram),Medinipur(West),2016-06-17,14500.0,8.0,30.0,rain
+358,Bengal Gram(Gram),Medinipur(West),2016-06-17,8200.0,8.0,30.0,rain
+359,Black Gram (Urd Beans),Medinipur(West),2016-06-17,15500.0,7.0,30.0,rain
+360,Lentil(Masur),Medinipur(West),2016-06-17,10600.0,10.0,30.0,rain
+361,Arhar (Tur/Red Gram),Medinipur(West),2016-06-20,14500.0,8.0,32.4,clear
+362,Bengal Gram(Gram),Medinipur(West),2016-06-20,8200.0,8.0,32.4,clear
+363,Black Gram (Urd Beans),Medinipur(West),2016-06-20,15500.0,8.0,32.4,clear
+364,Lentil(Masur),Medinipur(West),2016-06-20,10600.0,10.0,32.4,clear
+365,Arhar (Tur/Red Gram),Medinipur(West),2016-06-21,14500.0,7.0,32.8,clear
+366,Bengal Gram(Gram),Medinipur(West),2016-06-21,8200.0,8.0,32.8,clear
+367,Black Gram (Urd Beans),Medinipur(West),2016-06-21,15500.0,8.0,32.8,clear
+368,Lentil(Masur),Medinipur(West),2016-06-21,10600.0,10.0,32.8,clear
+369,Arhar (Tur/Red Gram),Medinipur(West),2016-06-22,14500.0,8.0,33.8,clear
+370,Bengal Gram(Gram),Medinipur(West),2016-06-22,8200.0,8.0,33.8,clear
+371,Black Gram (Urd Beans),Medinipur(West),2016-06-22,15500.0,8.0,33.8,clear
+372,Lentil(Masur),Medinipur(West),2016-06-22,10600.0,10.0,33.8,clear
+373,Arhar (Tur/Red Gram),Medinipur(West),2016-06-24,14500.0,8.0,34.4,clear
+374,Bengal Gram(Gram),Medinipur(West),2016-06-24,8200.0,8.0,34.4,clear
+375,Black Gram (Urd Beans),Medinipur(West),2016-06-24,15500.0,9.0,34.4,clear
+376,Lentil(Masur),Medinipur(West),2016-06-24,10600.0,10.0,34.4,clear
+377,Arhar (Tur/Red Gram),Medinipur(West),2016-06-27,14500.0,8.0,30.0,rain
+378,Bengal Gram(Gram),Medinipur(West),2016-06-27,8200.0,8.0,30.0,rain
+379,Black Gram (Urd Beans),Medinipur(West),2016-06-27,15500.0,10.0,30.0,rain
+380,Lentil(Masur),Medinipur(West),2016-06-27,10600.0,12.0,30.0,rain
+381,Arhar (Tur/Red Gram),Medinipur(West),2016-06-28,14500.0,7.0,30.4,rain
+382,Bengal Gram(Gram),Medinipur(West),2016-06-28,8200.0,8.0,30.4,rain
+383,Black Gram (Urd Beans),Medinipur(West),2016-06-28,15500.0,8.0,30.4,rain
+384,Lentil(Masur),Medinipur(West),2016-06-28,10600.0,12.0,30.4,rain
+385,Arhar (Tur/Red Gram),Medinipur(West),2016-06-29,14500.0,8.0,32.8,clear
+386,Bengal Gram(Gram),Medinipur(West),2016-06-29,8200.0,10.0,32.8,clear
+387,Black Gram (Urd Beans),Medinipur(West),2016-06-29,15500.0,8.0,32.8,clear
+388,Lentil(Masur),Medinipur(West),2016-06-29,10600.0,13.0,32.8,clear
+389,Arhar (Tur/Red Gram),Medinipur(West),2016-05-07,15000.0,8.0,36.0,clear
+390,Bengal Gram(Gram),Medinipur(West),2016-05-07,9200.0,8.0,36.0,clear
+391,Arhar (Tur/Red Gram),Medinipur(West),2016-07-13,14500.0,8.0,32.4,clear
+392,Bengal Gram(Gram),Medinipur(West),2016-07-13,9000.0,8.0,32.4,clear
+393,Black Gram (Urd Beans),Medinipur(West),2016-07-13,15000.0,8.0,32.4,clear
+394,Lentil(Masur),Medinipur(West),2016-07-13,10600.0,8.0,32.4,clear
+395,Arhar (Tur/Red Gram),Medinipur(West),2016-07-14,14500.0,7.0,31.0,clear
+396,Bengal Gram(Gram),Medinipur(West),2016-07-14,9500.0,7.0,31.0,clear
+397,Black Gram (Urd Beans),Medinipur(West),2016-07-14,15000.0,8.0,31.0,clear
+398,Lentil(Masur),Medinipur(West),2016-07-14,10800.0,7.0,31.0,clear
+399,Arhar (Tur/Red Gram),Medinipur(West),2016-07-15,14500.0,8.0,28.8,rain
+400,Bengal Gram(Gram),Medinipur(West),2016-07-15,10500.0,8.0,28.8,rain
+401,Black Gram (Urd Beans),Medinipur(West),2016-07-15,15000.0,8.0,28.8,rain
+402,Lentil(Masur),Medinipur(West),2016-07-15,10800.0,10.0,28.8,rain
+403,Arhar (Tur/Red Gram),Medinipur(West),2016-07-18,14500.0,7.0,30.4,rain
+404,Bengal Gram(Gram),Medinipur(West),2016-07-18,10500.0,8.0,30.4,rain
+405,Black Gram (Urd Beans),Medinipur(West),2016-07-18,15000.0,8.0,30.4,rain
+406,Lentil(Masur),Medinipur(West),2016-07-18,10800.0,10.0,30.4,rain
+407,Arhar (Tur/Red Gram),Medinipur(West),2016-07-20,14500.0,7.0,31.4,clear
+408,Bengal Gram(Gram),Medinipur(West),2016-07-20,10500.0,8.0,31.4,clear
+409,Black Gram (Urd Beans),Medinipur(West),2016-07-20,14800.0,8.0,31.4,clear
+410,Lentil(Masur),Medinipur(West),2016-07-20,10800.0,10.0,31.4,clear
+411,Arhar (Tur/Red Gram),Medinipur(West),2016-07-21,14500.0,8.0,31.8,clear
+412,Bengal Gram(Gram),Medinipur(West),2016-07-21,10500.0,8.0,31.8,clear
+413,Black Gram (Urd Beans),Medinipur(West),2016-07-21,14800.0,8.0,31.8,clear
+414,Lentil(Masur),Medinipur(West),2016-07-21,10800.0,10.0,31.8,clear
+415,Arhar (Tur/Red Gram),Medinipur(West),2016-07-25,14500.0,8.0,30.0,rain
+416,Bengal Gram(Gram),Medinipur(West),2016-07-25,10500.0,8.0,30.0,rain
+417,Black Gram (Urd Beans),Medinipur(West),2016-07-25,14800.0,10.0,30.0,rain
+418,Lentil(Masur),Medinipur(West),2016-07-25,10800.0,12.0,30.0,rain
+419,Arhar (Tur/Red Gram),Medinipur(West),2016-07-26,14500.0,8.0,27.8,rain
+420,Bengal Gram(Gram),Medinipur(West),2016-07-26,10500.0,7.0,27.8,rain
+421,Black Gram (Urd Beans),Medinipur(West),2016-07-26,14800.0,8.0,27.8,rain
+422,Lentil(Masur),Medinipur(West),2016-07-26,10800.0,10.0,27.8,rain
+423,Arhar (Tur/Red Gram),Medinipur(West),2016-07-27,14500.0,9.0,31.4,clear
+424,Bengal Gram(Gram),Medinipur(West),2016-07-27,10500.0,8.0,31.4,clear
+425,Black Gram (Urd Beans),Medinipur(West),2016-07-27,14600.0,8.0,31.4,clear
+426,Lentil(Masur),Medinipur(West),2016-07-27,10800.0,12.0,31.4,clear
+427,Arhar (Tur/Red Gram),Medinipur(West),2016-07-28,14500.0,8.0,32.4,clear
+428,Bengal Gram(Gram),Medinipur(West),2016-07-28,10500.0,7.0,32.4,clear
+429,Black Gram (Urd Beans),Medinipur(West),2016-07-28,14600.0,7.0,32.4,clear
+430,Lentil(Masur),Medinipur(West),2016-07-28,10800.0,10.0,32.4,clear
+431,Arhar (Tur/Red Gram),Medinipur(West),2016-07-29,14500.0,10.0,31.4,rain
+432,Bengal Gram(Gram),Medinipur(West),2016-07-29,10500.0,8.0,31.4,rain
+433,Black Gram (Urd Beans),Medinipur(West),2016-07-29,14500.0,8.0,31.4,rain
+434,Lentil(Masur),Medinipur(West),2016-07-29,10800.0,12.0,31.4,rain
+435,Arhar (Tur/Red Gram),Medinipur(West),2016-01-08,14500.0,10.0,25.4,clear
+436,Bengal Gram(Gram),Medinipur(West),2016-01-08,10500.0,8.0,25.4,clear
+437,Black Gram (Urd Beans),Medinipur(West),2016-01-08,14500.0,8.0,25.4,clear
+438,Lentil(Masur),Medinipur(West),2016-01-08,10800.0,12.0,25.4,clear
+439,Arhar (Tur/Red Gram),Medinipur(West),2016-04-08,14500.0,7.0,35.4,clear
+440,Bengal Gram(Gram),Medinipur(West),2016-04-08,11000.0,7.0,35.4,clear
+441,Black Gram (Urd Beans),Medinipur(West),2016-04-08,14500.0,8.0,35.4,clear
+442,Lentil(Masur),Medinipur(West),2016-04-08,10800.0,10.0,35.4,clear
+443,Arhar (Tur/Red Gram),Medinipur(West),2016-08-08,14500.0,8.0,30.4,rain
+444,Bengal Gram(Gram),Medinipur(West),2016-08-08,11000.0,8.0,30.4,rain
+445,Black Gram (Urd Beans),Medinipur(West),2016-08-08,14500.0,9.0,30.4,rain
+446,Lentil(Masur),Medinipur(West),2016-08-08,10800.0,10.0,30.4,rain
+447,Arhar (Tur/Red Gram),Medinipur(West),2016-09-08,14500.0,8.0,30.2,clear
+448,Bengal Gram(Gram),Medinipur(West),2016-09-08,11000.0,10.0,30.2,clear
+449,Black Gram (Urd Beans),Medinipur(West),2016-09-08,14500.0,8.0,30.2,clear
+450,Lentil(Masur),Medinipur(West),2016-09-08,10800.0,10.0,30.2,clear
+451,Arhar (Tur/Red Gram),Medinipur(West),2016-10-08,13500.0,8.0,29.6,clear
+452,Bengal Gram(Gram),Medinipur(West),2016-10-08,10700.0,8.0,29.6,clear
+453,Black Gram (Urd Beans),Medinipur(West),2016-10-08,14000.0,9.0,29.6,clear
+454,Lentil(Masur),Medinipur(West),2016-10-08,10700.0,10.0,29.6,clear
+455,Arhar (Tur/Red Gram),Medinipur(West),2016-12-08,14000.0,10.0,24.4,clear
+456,Bengal Gram(Gram),Medinipur(West),2016-12-08,10700.0,8.0,24.4,clear
+457,Lentil(Masur),Medinipur(West),2016-12-08,10700.0,10.0,24.4,clear
+458,Arhar (Tur/Red Gram),Medinipur(West),2016-08-16,13500.0,8.0,31.4,rain
+459,Bengal Gram(Gram),Medinipur(West),2016-08-16,10500.0,8.0,31.4,rain
+460,Black Gram (Urd Beans),Medinipur(West),2016-08-16,14500.0,8.0,31.4,rain
+461,Lentil(Masur),Medinipur(West),2016-08-16,10700.0,12.0,31.4,rain
+462,Arhar (Tur/Red Gram),Medinipur(West),2016-08-17,13500.0,8.0,26.4,rain
+463,Bengal Gram(Gram),Medinipur(West),2016-08-17,10500.0,10.0,26.4,rain
+464,Black Gram (Urd Beans),Medinipur(West),2016-08-17,14500.0,9.0,26.4,rain
+465,Lentil(Masur),Medinipur(West),2016-08-17,10700.0,12.0,26.4,rain
+466,Arhar (Tur/Red Gram),Medinipur(West),2016-08-18,13400.0,7.0,30.4,clear
+467,Bengal Gram(Gram),Medinipur(West),2016-08-18,10500.0,8.0,30.4,clear
+468,Black Gram (Urd Beans),Medinipur(West),2016-08-18,14500.0,8.0,30.4,clear
+469,Lentil(Masur),Medinipur(West),2016-08-18,10700.0,10.0,30.4,clear
+470,Arhar (Tur/Red Gram),Medinipur(West),2016-08-19,13200.0,8.0,30.4,clear
+471,Bengal Gram(Gram),Medinipur(West),2016-08-19,10400.0,9.0,30.4,clear
+472,Lentil(Masur),Medinipur(West),2016-08-19,10500.0,12.0,30.4,clear
+473,Arhar (Tur/Red Gram),Medinipur(West),2016-08-22,13200.0,9.0,26.0,rain
+474,Bengal Gram(Gram),Medinipur(West),2016-08-22,10400.0,10.0,26.0,rain
+475,Black Gram (Urd Beans),Medinipur(West),2016-08-22,14500.0,10.0,26.0,rain
+476,Arhar (Tur/Red Gram),Medinipur(West),2016-08-24,13200.0,10.0,29.6,rain
+477,Bengal Gram(Gram),Medinipur(West),2016-08-24,10400.0,8.0,29.6,rain
+478,Black Gram (Urd Beans),Medinipur(West),2016-08-24,14500.0,10.0,29.6,rain
+479,Lentil(Masur),Medinipur(West),2016-08-24,10500.0,14.0,29.6,rain
+480,Arhar (Tur/Red Gram),Medinipur(West),2016-08-26,13000.0,10.0,31.8,rain
+481,Bengal Gram(Gram),Medinipur(West),2016-08-26,10400.0,10.0,31.8,rain
+482,Black Gram (Urd Beans),Medinipur(West),2016-08-26,14500.0,8.0,31.8,rain
+483,Lentil(Masur),Medinipur(West),2016-08-26,10500.0,12.0,31.8,rain
+484,Arhar (Tur/Red Gram),Medinipur(West),2016-08-29,13000.0,8.0,31.4,clear
+485,Bengal Gram(Gram),Medinipur(West),2016-08-29,10400.0,8.0,31.4,clear
+486,Black Gram (Urd Beans),Medinipur(West),2016-08-29,14500.0,10.0,31.4,clear
+487,Lentil(Masur),Medinipur(West),2016-08-29,10500.0,14.0,31.4,clear
+488,Arhar (Tur/Red Gram),Medinipur(West),2016-08-31,13000.0,8.0,30.4,clear
+489,Bengal Gram(Gram),Medinipur(West),2016-08-31,10400.0,8.0,30.4,clear
+490,Black Gram (Urd Beans),Medinipur(West),2016-08-31,14000.0,10.0,30.4,clear
+491,Lentil(Masur),Medinipur(West),2016-08-31,10400.0,12.0,30.4,clear
+492,Arhar (Tur/Red Gram),Medinipur(West),2016-01-09,13000.0,7.0,25.4,clear
+493,Bengal Gram(Gram),Medinipur(West),2016-01-09,10400.0,7.0,25.4,clear
+494,Black Gram (Urd Beans),Medinipur(West),2016-01-09,14000.0,10.0,25.4,clear
+495,Lentil(Masur),Medinipur(West),2016-01-09,10500.0,12.0,25.4,clear
+496,Arhar (Tur/Red Gram),Medinipur(West),2016-05-09,12500.0,8.0,35.0,clear
+497,Bengal Gram(Gram),Medinipur(West),2016-05-09,10400.0,8.0,35.0,clear
+498,Black Gram (Urd Beans),Medinipur(West),2016-05-09,14000.0,10.0,35.0,clear
+499,Lentil(Masur),Medinipur(West),2016-05-09,10500.0,12.0,35.0,clear
+500,Arhar (Tur/Red Gram),Medinipur(West),2016-06-09,12500.0,8.0,34.8,clear
+501,Bengal Gram(Gram),Medinipur(West),2016-06-09,10400.0,8.0,34.8,clear
+502,Black Gram (Urd Beans),Medinipur(West),2016-06-09,14000.0,12.0,34.8,clear
+503,Lentil(Masur),Medinipur(West),2016-06-09,10500.0,14.0,34.8,clear
+504,Arhar (Tur/Red Gram),Medinipur(West),2016-07-09,12500.0,7.0,30.6,clear
+505,Bengal Gram(Gram),Medinipur(West),2016-07-09,10400.0,9.0,30.6,clear
+506,Black Gram (Urd Beans),Medinipur(West),2016-07-09,14000.0,10.0,30.6,clear
+507,Lentil(Masur),Medinipur(West),2016-07-09,10500.0,12.0,30.6,clear
+508,Arhar (Tur/Red Gram),Medinipur(West),2016-08-09,12500.0,7.0,28.4,rain
+509,Bengal Gram(Gram),Medinipur(West),2016-08-09,10400.0,8.0,28.4,rain
+510,Black Gram (Urd Beans),Medinipur(West),2016-08-09,14000.0,8.0,28.4,rain
+511,Lentil(Masur),Medinipur(West),2016-08-09,10500.0,10.0,28.4,rain
+512,Arhar (Tur/Red Gram),Medinipur(West),2016-09-09,12000.0,8.0,30.4,clear
+513,Bengal Gram(Gram),Medinipur(West),2016-09-09,10500.0,10.0,30.4,clear
+514,Black Gram (Urd Beans),Medinipur(West),2016-09-09,14000.0,10.0,30.4,clear
+515,Lentil(Masur),Medinipur(West),2016-09-09,10300.0,12.0,30.4,clear
+516,Arhar (Tur/Red Gram),Medinipur(West),2016-12-09,12000.0,8.0,23.4,clear
+517,Black Gram (Urd Beans),Medinipur(West),2016-12-09,14000.0,8.0,23.4,clear
+518,Lentil(Masur),Medinipur(West),2016-12-09,10300.0,12.0,23.4,clear
+519,Arhar (Tur/Red Gram),Medinipur(West),2016-09-14,12000.0,10.0,29.8,clear
+520,Black Gram (Urd Beans),Medinipur(West),2016-09-14,14000.0,10.0,29.8,clear
+521,Lentil(Masur),Medinipur(West),2016-09-14,10300.0,14.0,29.8,clear
+522,Arhar (Tur/Red Gram),Medinipur(West),2016-09-15,12000.0,8.0,31.0,clear
+523,Bengal Gram(Gram),Medinipur(West),2016-09-15,10500.0,6.0,31.0,clear
+524,Black Gram (Urd Beans),Medinipur(West),2016-09-15,14000.0,8.0,31.0,clear
+525,Lentil(Masur),Medinipur(West),2016-09-15,10300.0,10.0,31.0,clear
+526,Arhar (Tur/Red Gram),Medinipur(West),2016-09-16,12000.0,10.0,31.4,clear
+527,Bengal Gram(Gram),Medinipur(West),2016-09-16,10500.0,8.0,31.4,clear
+528,Black Gram (Urd Beans),Medinipur(West),2016-09-16,14000.0,10.0,31.4,clear
+529,Lentil(Masur),Medinipur(West),2016-09-16,10300.0,12.0,31.4,clear
+530,Arhar (Tur/Red Gram),Medinipur(West),2016-09-19,12000.0,9.0,31.8,clear
+531,Bengal Gram(Gram),Medinipur(West),2016-09-19,10500.0,10.0,31.8,clear
+532,Black Gram (Urd Beans),Medinipur(West),2016-09-19,14000.0,10.0,31.8,clear
+533,Lentil(Masur),Medinipur(West),2016-09-19,10300.0,14.0,31.8,clear
+534,Arhar (Tur/Red Gram),Medinipur(West),2016-09-20,12000.0,8.0,31.4,clear
+535,Bengal Gram(Gram),Medinipur(West),2016-09-20,11000.0,8.0,31.4,clear
+536,Black Gram (Urd Beans),Medinipur(West),2016-09-20,13000.0,12.0,31.4,clear
+537,Lentil(Masur),Medinipur(West),2016-09-20,10400.0,13.0,31.4,clear
+538,Arhar (Tur/Red Gram),Medinipur(West),2016-09-22,12000.0,7.0,28.6,rain
+539,Bengal Gram(Gram),Medinipur(West),2016-09-22,11000.0,8.0,28.6,rain
+540,Black Gram (Urd Beans),Medinipur(West),2016-09-22,13000.0,10.0,28.6,rain
+541,Lentil(Masur),Medinipur(West),2016-09-22,10400.0,12.0,28.6,rain
+542,Arhar (Tur/Red Gram),Medinipur(West),2016-09-23,12000.0,8.0,29.4,clear
+543,Bengal Gram(Gram),Medinipur(West),2016-09-23,11000.0,10.0,29.4,clear
+544,Black Gram (Urd Beans),Medinipur(West),2016-09-23,13000.0,12.0,29.4,clear
+545,Lentil(Masur),Medinipur(West),2016-09-23,10400.0,14.0,29.4,clear
+546,Arhar (Tur/Red Gram),Medinipur(West),2016-09-26,12000.0,8.0,28.0,clear
+547,Bengal Gram(Gram),Medinipur(West),2016-09-26,11000.0,10.0,28.0,clear
+548,Black Gram (Urd Beans),Medinipur(West),2016-09-26,13000.0,10.0,28.0,clear
+549,Lentil(Masur),Medinipur(West),2016-09-26,10400.0,14.0,28.0,clear
+550,Arhar (Tur/Red Gram),Medinipur(West),2016-09-27,12000.0,10.0,31.0,clear
+551,Bengal Gram(Gram),Medinipur(West),2016-09-27,11000.0,8.0,31.0,clear
+552,Black Gram (Urd Beans),Medinipur(West),2016-09-27,13000.0,12.0,31.0,clear
+553,Lentil(Masur),Medinipur(West),2016-09-27,10400.0,15.0,31.0,clear
+554,Arhar (Tur/Red Gram),Medinipur(West),2016-09-29,12000.0,7.0,29.0,clear
+555,Bengal Gram(Gram),Medinipur(West),2016-09-29,11000.0,7.0,29.0,clear
+556,Black Gram (Urd Beans),Medinipur(West),2016-09-29,13000.0,8.0,29.0,clear
+557,Lentil(Masur),Medinipur(West),2016-09-29,10400.0,10.0,29.0,clear
+558,Arhar (Tur/Red Gram),Medinipur(West),2016-03-10,12000.0,8.0,31.0,clear
+559,Bengal Gram(Gram),Medinipur(West),2016-03-10,11500.0,8.0,31.0,clear
+560,Black Gram (Urd Beans),Medinipur(West),2016-03-10,13000.0,10.0,31.0,clear
+561,Lentil(Masur),Medinipur(West),2016-03-10,10400.0,12.0,31.0,clear
+562,Arhar (Tur/Red Gram),Medinipur(West),2016-04-10,12000.0,8.0,38.8,clear
+563,Bengal Gram(Gram),Medinipur(West),2016-04-10,11500.0,9.0,38.8,clear
+564,Black Gram (Urd Beans),Medinipur(West),2016-04-10,12500.0,10.0,38.8,clear
+565,Lentil(Masur),Medinipur(West),2016-04-10,10400.0,13.0,38.8,clear
+566,Arhar (Tur/Red Gram),Medinipur(West),2016-05-10,12000.0,10.0,32.4,clear
+567,Bengal Gram(Gram),Medinipur(West),2016-05-10,11500.0,12.0,32.4,clear
+568,Black Gram (Urd Beans),Medinipur(West),2016-05-10,12500.0,15.0,32.4,clear
+569,Lentil(Masur),Medinipur(West),2016-05-10,10400.0,15.0,32.4,clear
+570,Arhar (Tur/Red Gram),Medinipur(West),2016-02-11,12500.0,7.0,26.4,clear
+571,Bengal Gram(Gram),Medinipur(West),2016-02-11,13000.0,7.0,26.4,clear
+572,Black Gram (Urd Beans),Medinipur(West),2016-02-11,13200.0,8.0,26.4,clear
+573,Lentil(Masur),Medinipur(West),2016-02-11,10200.0,10.0,26.4,clear
+574,Arhar (Tur/Red Gram),Medinipur(West),2016-03-11,12500.0,6.0,32.8,clear
+575,Bengal Gram(Gram),Medinipur(West),2016-03-11,13000.0,7.0,32.8,clear
+576,Black Gram (Urd Beans),Medinipur(West),2016-03-11,13200.0,6.0,32.8,clear
+577,Lentil(Masur),Medinipur(West),2016-03-11,10200.0,8.0,32.8,clear
+578,Arhar (Tur/Red Gram),Medinipur(West),2016-04-11,12500.0,8.0,37.8,clear
+579,Bengal Gram(Gram),Medinipur(West),2016-04-11,13000.0,8.0,37.8,clear
+580,Black Gram (Urd Beans),Medinipur(West),2016-04-11,13200.0,10.0,37.8,clear
+581,Lentil(Masur),Medinipur(West),2016-04-11,10200.0,12.0,37.8,clear
+582,Arhar (Tur/Red Gram),Medinipur(West),2016-08-11,12500.0,8.0,27.6,rain
+583,Bengal Gram(Gram),Medinipur(West),2016-08-11,13000.0,9.0,27.6,rain
+584,Black Gram (Urd Beans),Medinipur(West),2016-08-11,13200.0,10.0,27.6,rain
+585,Lentil(Masur),Medinipur(West),2016-08-11,10200.0,13.0,27.6,rain
+586,Arhar (Tur/Red Gram),Medinipur(West),2016-09-11,12500.0,9.0,30.8,clear
+587,Bengal Gram(Gram),Medinipur(West),2016-09-11,13000.0,7.0,30.8,clear
+588,Black Gram (Urd Beans),Medinipur(West),2016-09-11,13200.0,8.0,30.8,clear
+589,Lentil(Masur),Medinipur(West),2016-09-11,10200.0,12.0,30.8,clear
+590,Arhar (Tur/Red Gram),Medinipur(West),2016-10-11,12500.0,8.0,30.8,clear
+591,Bengal Gram(Gram),Medinipur(West),2016-10-11,13000.0,8.0,30.8,clear
+592,Black Gram (Urd Beans),Medinipur(West),2016-10-11,13100.0,7.0,30.8,clear
+593,Lentil(Masur),Medinipur(West),2016-10-11,10200.0,10.0,30.8,clear
+594,Arhar (Tur/Red Gram),Medinipur(West),2016-11-18,12500.0,8.0,24.2,clear
+595,Bengal Gram(Gram),Medinipur(West),2016-11-18,14200.0,7.0,24.2,clear
+596,Black Gram (Urd Beans),Medinipur(West),2016-11-18,11500.0,8.0,24.2,clear
+597,Lentil(Masur),Medinipur(West),2016-11-18,10200.0,12.0,24.2,clear
+598,Arhar (Tur/Red Gram),Medinipur(West),2016-11-21,12500.0,8.0,24.4,clear
+599,Bengal Gram(Gram),Medinipur(West),2016-11-21,14200.0,8.0,24.4,clear
+600,Black Gram (Urd Beans),Medinipur(West),2016-11-21,12000.0,10.0,24.4,clear
+601,Lentil(Masur),Medinipur(West),2016-11-21,10200.0,12.0,24.4,clear
+602,Arhar (Tur/Red Gram),Medinipur(West),2016-11-22,12300.0,7.0,24.8,clear
+603,Bengal Gram(Gram),Medinipur(West),2016-11-22,14200.0,8.0,24.8,clear
+604,Black Gram (Urd Beans),Medinipur(West),2016-11-22,12000.0,10.0,24.8,clear
+605,Lentil(Masur),Medinipur(West),2016-11-22,10200.0,14.0,24.8,clear
+606,Arhar (Tur/Red Gram),Medinipur(West),2016-11-23,12300.0,8.0,24.8,clear
+607,Bengal Gram(Gram),Medinipur(West),2016-11-23,14200.0,8.0,24.8,clear
+608,Black Gram (Urd Beans),Medinipur(West),2016-11-23,12200.0,10.0,24.8,clear
+609,Lentil(Masur),Medinipur(West),2016-11-23,10200.0,12.0,24.8,clear
+610,Arhar (Tur/Red Gram),Medinipur(West),2016-11-24,12300.0,7.0,25.4,clear
+611,Bengal Gram(Gram),Medinipur(West),2016-11-24,14200.0,7.0,25.4,clear
+612,Black Gram (Urd Beans),Medinipur(West),2016-11-24,12200.0,10.0,25.4,clear
+613,Lentil(Masur),Medinipur(West),2016-11-24,10200.0,10.0,25.4,clear
+614,Arhar (Tur/Red Gram),Medinipur(West),2016-11-25,12200.0,8.0,25.0,clear
+615,Bengal Gram(Gram),Medinipur(West),2016-11-25,14400.0,8.0,25.0,clear
+616,Black Gram (Urd Beans),Medinipur(West),2016-11-25,12200.0,10.0,25.0,clear
+617,Lentil(Masur),Medinipur(West),2016-11-25,10200.0,12.0,25.0,clear
+618,Arhar (Tur/Red Gram),Medinipur(West),2016-11-28,12300.0,8.0,24.8,clear
+619,Bengal Gram(Gram),Medinipur(West),2016-11-28,14200.0,8.0,24.8,clear
+620,Black Gram (Urd Beans),Medinipur(West),2016-11-28,12200.0,10.0,24.8,clear
+621,Lentil(Masur),Medinipur(West),2016-11-28,10200.0,13.0,24.8,clear
+622,Arhar (Tur/Red Gram),Medinipur(West),2016-01-12,12000.0,7.0,24.0,clear
+623,Bengal Gram(Gram),Medinipur(West),2016-01-12,14200.0,7.0,24.0,clear
+624,Black Gram (Urd Beans),Medinipur(West),2016-01-12,11500.0,8.0,24.0,clear
+625,Lentil(Masur),Medinipur(West),2016-01-12,10200.0,10.0,24.0,clear
+626,Arhar (Tur/Red Gram),Medinipur(West),2016-02-12,12000.0,8.0,28.0,clear
+627,Bengal Gram(Gram),Medinipur(West),2016-02-12,14200.0,8.0,28.0,clear
+628,Black Gram (Urd Beans),Medinipur(West),2016-02-12,11500.0,9.0,28.0,clear
+629,Lentil(Masur),Medinipur(West),2016-02-12,10200.0,12.0,28.0,clear
+630,Arhar (Tur/Red Gram),Medinipur(West),2016-05-12,12000.0,7.0,36.8,clear
+631,Bengal Gram(Gram),Medinipur(West),2016-05-12,14200.0,7.0,36.8,clear
+632,Black Gram (Urd Beans),Medinipur(West),2016-05-12,11500.0,8.0,36.8,clear
+633,Lentil(Masur),Medinipur(West),2016-05-12,10200.0,10.0,36.8,clear
+634,Arhar (Tur/Red Gram),Medinipur(West),2016-06-12,12000.0,8.0,35.4,clear
+635,Bengal Gram(Gram),Medinipur(West),2016-06-12,14000.0,8.0,35.4,clear
+636,Black Gram (Urd Beans),Medinipur(West),2016-06-12,11500.0,9.0,35.4,clear
+637,Arhar (Tur/Red Gram),Medinipur(West),2016-07-12,12000.0,10.0,31.8,clear
+638,Bengal Gram(Gram),Medinipur(West),2016-07-12,14000.0,8.0,31.8,clear
+639,Black Gram (Urd Beans),Medinipur(West),2016-07-12,11500.0,10.0,31.8,clear
+640,Lentil(Masur),Medinipur(West),2016-07-12,10200.0,12.0,31.8,clear
+641,Arhar (Tur/Red Gram),Medinipur(West),2016-09-12,12000.0,10.0,29.4,clear
+642,Bengal Gram(Gram),Medinipur(West),2016-09-12,14200.0,9.0,29.4,clear
+643,Black Gram (Urd Beans),Medinipur(West),2016-09-12,11500.0,10.0,29.4,clear
+644,Lentil(Masur),Medinipur(West),2016-09-12,10200.0,12.0,29.4,clear
+645,Arhar (Tur/Red Gram),Medinipur(West),2016-10-12,12000.0,8.0,30.4,clear
+646,Bengal Gram(Gram),Medinipur(West),2016-10-12,14200.0,8.0,30.4,clear
+647,Black Gram (Urd Beans),Medinipur(West),2016-10-12,11800.0,8.0,30.4,clear
+648,Lentil(Masur),Medinipur(West),2016-10-12,10200.0,13.0,30.4,clear
+649,Arhar (Tur/Red Gram),Medinipur(West),2016-12-13,12000.0,8.0,23.8,clear
+650,Bengal Gram(Gram),Medinipur(West),2016-12-13,14000.0,8.0,23.8,clear
+651,Black Gram (Urd Beans),Medinipur(West),2016-12-13,11500.0,10.0,23.8,clear
+652,Lentil(Masur),Medinipur(West),2016-12-13,10200.0,13.0,23.8,clear
+653,Arhar (Tur/Red Gram),Medinipur(West),2016-12-14,11500.0,10.0,23.4,clear
+654,Bengal Gram(Gram),Medinipur(West),2016-12-14,14000.0,8.0,23.4,clear
+655,Black Gram (Urd Beans),Medinipur(West),2016-12-14,11000.0,10.0,23.4,clear
+656,Lentil(Masur),Medinipur(West),2016-12-14,10200.0,12.0,23.4,clear
+657,Arhar (Tur/Red Gram),Medinipur(West),2016-12-15,11300.0,8.0,24.4,clear
+658,Bengal Gram(Gram),Medinipur(West),2016-12-15,14000.0,8.0,24.4,clear
+659,Black Gram (Urd Beans),Medinipur(West),2016-12-15,11000.0,8.0,24.4,clear
+660,Lentil(Masur),Medinipur(West),2016-12-15,10200.0,10.0,24.4,clear
+661,Arhar (Tur/Red Gram),Medinipur(West),2016-12-16,11300.0,10.0,23.4,clear
+662,Bengal Gram(Gram),Medinipur(West),2016-12-16,13000.0,8.0,23.4,clear
+663,Black Gram (Urd Beans),Medinipur(West),2016-12-16,11000.0,10.0,23.4,clear
+664,Lentil(Masur),Medinipur(West),2016-12-16,10200.0,12.0,23.4,clear
+665,Arhar (Tur/Red Gram),Medinipur(West),2016-12-19,11300.0,8.0,24.4,clear
+666,Bengal Gram(Gram),Medinipur(West),2016-12-19,13000.0,10.0,24.4,clear
+667,Black Gram (Urd Beans),Medinipur(West),2016-12-19,11000.0,10.0,24.4,clear
+668,Lentil(Masur),Medinipur(West),2016-12-19,10200.0,10.0,24.4,clear
+669,Arhar (Tur/Red Gram),Medinipur(West),2016-12-20,11000.0,9.0,23.8,clear
+670,Bengal Gram(Gram),Medinipur(West),2016-12-20,13000.0,10.0,23.8,clear
+671,Black Gram (Urd Beans),Medinipur(West),2016-12-20,11000.0,10.0,23.8,clear
+672,Lentil(Masur),Medinipur(West),2016-12-20,10200.0,12.0,23.8,clear
+673,Arhar (Tur/Red Gram),Medinipur(West),2016-12-21,12000.0,10.0,23.4,clear
+674,Bengal Gram(Gram),Medinipur(West),2016-12-21,13500.0,8.0,23.4,clear
+675,Black Gram (Urd Beans),Medinipur(West),2016-12-21,11000.0,10.0,23.4,clear
+676,Lentil(Masur),Medinipur(West),2016-12-21,10200.0,13.0,23.4,clear
+677,Arhar (Tur/Red Gram),Medinipur(West),2016-12-22,12000.0,8.0,23.0,clear
+678,Bengal Gram(Gram),Medinipur(West),2016-12-22,13500.0,7.0,23.0,clear
+679,Black Gram (Urd Beans),Medinipur(West),2016-12-22,11000.0,10.0,23.0,clear
+680,Lentil(Masur),Medinipur(West),2016-12-22,10200.0,10.0,23.0,clear
+681,Arhar (Tur/Red Gram),Medinipur(West),2016-12-23,12000.0,10.0,24.4,clear
+682,Bengal Gram(Gram),Medinipur(West),2016-12-23,13500.0,8.0,24.4,clear
+683,Black Gram (Urd Beans),Medinipur(West),2016-12-23,11000.0,10.0,24.4,clear
+684,Lentil(Masur),Medinipur(West),2016-12-23,10200.0,12.0,24.4,clear
+685,Arhar (Tur/Red Gram),Medinipur(West),2016-12-26,12000.0,8.0,25.4,clear
+686,Bengal Gram(Gram),Medinipur(West),2016-12-26,13500.0,8.0,25.4,clear
+687,Black Gram (Urd Beans),Medinipur(West),2016-12-26,11000.0,10.0,25.4,clear
+688,Lentil(Masur),Medinipur(West),2016-12-26,10400.0,12.0,25.4,clear
+689,Arhar (Tur/Red Gram),Medinipur(West),2016-12-27,12100.0,8.0,23.4,clear
+690,Bengal Gram(Gram),Medinipur(West),2016-12-27,13500.0,8.0,23.4,clear
+691,Black Gram (Urd Beans),Medinipur(West),2016-12-27,11000.0,10.0,23.4,clear
+692,Lentil(Masur),Medinipur(West),2016-12-27,10400.0,13.0,23.4,clear
+693,Arhar (Tur/Red Gram),Medinipur(West),2016-12-28,12100.0,8.0,22.8,clear
+694,Bengal Gram(Gram),Medinipur(West),2016-12-28,13500.0,8.0,22.8,clear
+695,Black Gram (Urd Beans),Medinipur(West),2016-12-28,11000.0,8.0,22.8,clear
+696,Lentil(Masur),Medinipur(West),2016-12-28,10400.0,12.0,22.8,clear
+697,Arhar (Tur/Red Gram),Medinipur(West),2016-12-29,12100.0,7.0,23.4,clear
+698,Bengal Gram(Gram),Medinipur(West),2016-12-29,13500.0,8.0,23.4,clear
+699,Black Gram (Urd Beans),Medinipur(West),2016-12-29,11000.0,7.0,23.4,clear
+700,Lentil(Masur),Medinipur(West),2016-12-29,10400.0,10.0,23.4,clear
+701,Arhar (Tur/Red Gram),Medinipur(West),2016-12-30,12000.0,8.0,23.8,clear
+702,Bengal Gram(Gram),Medinipur(West),2016-12-30,13500.0,8.0,23.8,clear
+703,Black Gram (Urd Beans),Medinipur(West),2016-12-30,11000.0,10.0,23.8,clear
+704,Lentil(Masur),Medinipur(West),2016-12-30,10400.0,12.0,23.8,clear
+705,Bengal Gram(Gram),Medinipur(West),2016-02-19,6900.0,8.0,25.0,clear
+706,Bengal Gram(Gram),Medinipur(West),2016-02-24,6900.0,7.0,24.8,clear
+707,Bengal Gram(Gram),Medinipur(West),2016-02-26,7000.0,7.0,24.0,rain
+708,Bengal Gram(Gram),Medinipur(West),2016-03-03,6800.0,7.0,31.0,clear
+709,Black Gram (Urd Beans),Medinipur(West),2016-03-03,13800.0,6.0,31.0,clear
+710,Arhar (Tur/Red Gram),Medinipur(West),2017-03-01,12000.0,8.0,31.2,clear
+711,Bengal Gram(Gram),Medinipur(West),2017-03-01,13500.0,7.0,31.2,clear
+712,Black Gram (Urd Beans),Medinipur(West),2017-03-01,11000.0,10.0,31.2,clear
+713,Lentil(Masur),Medinipur(West),2017-03-01,10400.0,14.0,31.2,clear
+714,Arhar (Tur/Red Gram),Medinipur(West),2017-05-01,12000.0,8.0,32.4,clear
+715,Bengal Gram(Gram),Medinipur(West),2017-05-01,13500.0,6.0,32.4,clear
+716,Black Gram (Urd Beans),Medinipur(West),2017-05-01,11000.0,8.0,32.4,clear
+717,Lentil(Masur),Medinipur(West),2017-05-01,10400.0,13.0,32.4,clear
+718,Arhar (Tur/Red Gram),Medinipur(West),2017-06-01,12000.0,10.0,33.4,clear
+719,Bengal Gram(Gram),Medinipur(West),2017-06-01,13100.0,8.0,33.4,clear
+720,Black Gram (Urd Beans),Medinipur(West),2017-06-01,11000.0,10.0,33.4,clear
+721,Lentil(Masur),Medinipur(West),2017-06-01,10400.0,14.0,33.4,clear
+722,Arhar (Tur/Red Gram),Medinipur(West),2017-09-01,11500.0,12.0,28.4,rain
+723,Bengal Gram(Gram),Medinipur(West),2017-09-01,13000.0,10.0,28.4,rain
+724,Black Gram (Urd Beans),Medinipur(West),2017-09-01,10500.0,10.0,28.4,rain
+725,Lentil(Masur),Medinipur(West),2017-09-01,10300.0,15.0,28.4,rain
+726,Arhar (Tur/Red Gram),Medinipur(West),2017-10-01,11500.0,10.0,28.4,clear
+727,Bengal Gram(Gram),Medinipur(West),2017-10-01,13000.0,12.0,28.4,clear
+728,Black Gram (Urd Beans),Medinipur(West),2017-10-01,10300.0,10.0,28.4,clear
+729,Lentil(Masur),Medinipur(West),2017-10-01,10200.0,13.0,28.4,clear
+730,Arhar (Tur/Red Gram),Medinipur(West),2017-11-01,11500.0,8.0,26.4,clear
+731,Bengal Gram(Gram),Medinipur(West),2017-11-01,13000.0,10.0,26.4,clear
+732,Black Gram (Urd Beans),Medinipur(West),2017-11-01,10200.0,10.0,26.4,clear
+733,Lentil(Masur),Medinipur(West),2017-11-01,10200.0,12.0,26.4,clear
+734,Arhar (Tur/Red Gram),Medinipur(West),2017-01-13,11500.0,10.0,20.8,clear
+735,Bengal Gram(Gram),Medinipur(West),2017-01-13,12800.0,10.0,20.8,clear
+736,Black Gram (Urd Beans),Medinipur(West),2017-01-13,10200.0,10.0,20.8,clear
+737,Lentil(Masur),Medinipur(West),2017-01-13,10200.0,14.0,20.8,clear
+738,Arhar (Tur/Red Gram),Medinipur(West),2017-01-16,11400.0,10.0,23.8,clear
+739,Bengal Gram(Gram),Medinipur(West),2017-01-16,12700.0,12.0,23.8,clear
+740,Black Gram (Urd Beans),Medinipur(West),2017-01-16,10100.0,10.0,23.8,clear
+741,Lentil(Masur),Medinipur(West),2017-01-16,10200.0,13.0,23.8,clear
+742,Arhar (Tur/Red Gram),Medinipur(West),2017-01-17,10500.0,12.0,25.8,clear
+743,Bengal Gram(Gram),Medinipur(West),2017-01-17,12000.0,13.0,25.8,clear
+744,Black Gram (Urd Beans),Medinipur(West),2017-01-17,10000.0,12.0,25.8,clear
+745,Lentil(Masur),Medinipur(West),2017-01-17,10200.0,14.0,25.8,clear
+746,Arhar (Tur/Red Gram),Medinipur(West),2017-01-18,10500.0,10.0,24.8,clear
+747,Bengal Gram(Gram),Medinipur(West),2017-01-18,12000.0,12.0,24.8,clear
+748,Black Gram (Urd Beans),Medinipur(West),2017-01-18,10000.0,13.0,24.8,clear
+749,Lentil(Masur),Medinipur(West),2017-01-18,10200.0,13.0,24.8,clear
+750,Arhar (Tur/Red Gram),Medinipur(West),2017-01-19,10500.0,8.0,25.4,clear
+751,Bengal Gram(Gram),Medinipur(West),2017-01-19,12000.0,10.0,25.4,clear
+752,Black Gram (Urd Beans),Medinipur(West),2017-01-19,10000.0,12.0,25.4,clear
+753,Lentil(Masur),Medinipur(West),2017-01-19,10200.0,12.0,25.4,clear
+754,Arhar (Tur/Red Gram),Medinipur(West),2017-01-20,10400.0,10.0,26.4,clear
+755,Bengal Gram(Gram),Medinipur(West),2017-01-20,12000.0,12.0,26.4,clear
+756,Black Gram (Urd Beans),Medinipur(West),2017-01-20,10000.0,12.0,26.4,clear
+757,Lentil(Masur),Medinipur(West),2017-01-20,10200.0,13.0,26.4,clear
+758,Arhar (Tur/Red Gram),Medinipur(West),2017-01-21,11000.0,8.0,25.0,clear
+759,Bengal Gram(Gram),Medinipur(West),2017-01-21,11400.0,10.0,25.0,clear
+760,Black Gram (Urd Beans),Medinipur(West),2017-01-21,10000.0,10.0,25.0,clear
+761,Lentil(Masur),Medinipur(West),2017-01-21,10200.0,13.0,25.0,clear
+762,Arhar (Tur/Red Gram),Medinipur(West),2017-01-23,10000.0,8.0,27.0,clear
+763,Bengal Gram(Gram),Medinipur(West),2017-01-23,10500.0,10.0,27.0,clear
+764,Black Gram (Urd Beans),Medinipur(West),2017-01-23,10100.0,10.0,27.0,clear
+765,Lentil(Masur),Medinipur(West),2017-01-23,10400.0,12.0,27.0,clear
+766,Arhar (Tur/Red Gram),Medinipur(West),2017-01-24,10000.0,8.0,26.8,clear
+767,Bengal Gram(Gram),Medinipur(West),2017-01-24,10500.0,10.0,26.8,clear
+768,Black Gram (Urd Beans),Medinipur(West),2017-01-24,10200.0,10.0,26.8,clear
+769,Lentil(Masur),Medinipur(West),2017-01-24,10300.0,13.0,26.8,clear
+770,Arhar (Tur/Red Gram),Medinipur(West),2017-01-25,10000.0,8.0,26.0,clear
+771,Bengal Gram(Gram),Medinipur(West),2017-01-25,10500.0,12.0,26.0,clear
+772,Black Gram (Urd Beans),Medinipur(West),2017-01-25,10200.0,10.0,26.0,clear
+773,Lentil(Masur),Medinipur(West),2017-01-25,10300.0,14.0,26.0,clear
+774,Arhar (Tur/Red Gram),Medinipur(West),2017-01-26,10000.0,7.0,26.8,clear
+775,Bengal Gram(Gram),Medinipur(West),2017-01-26,10500.0,10.0,26.8,clear
+776,Black Gram (Urd Beans),Medinipur(West),2017-01-26,10000.0,10.0,26.8,clear
+777,Lentil(Masur),Medinipur(West),2017-01-26,10300.0,12.0,26.8,clear
+778,Arhar (Tur/Red Gram),Medinipur(West),2017-01-27,10000.0,8.0,26.4,clear
+779,Bengal Gram(Gram),Medinipur(West),2017-01-27,10500.0,10.0,26.4,clear
+780,Black Gram (Urd Beans),Medinipur(West),2017-01-27,10000.0,12.0,26.4,clear
+781,Lentil(Masur),Medinipur(West),2017-01-27,10200.0,13.0,26.4,clear
+782,Arhar (Tur/Red Gram),Medinipur(West),2017-01-28,10000.0,10.0,25.4,clear
+783,Bengal Gram(Gram),Medinipur(West),2017-01-28,10300.0,10.0,25.4,clear
+784,Black Gram (Urd Beans),Medinipur(West),2017-01-28,10000.0,10.0,25.4,clear
+785,Lentil(Masur),Medinipur(West),2017-01-28,10200.0,12.0,25.4,clear
+786,Arhar (Tur/Red Gram),Medinipur(West),2017-01-30,10000.0,10.0,26.0,clear
+787,Bengal Gram(Gram),Medinipur(West),2017-01-30,10300.0,12.0,26.0,clear
+788,Black Gram (Urd Beans),Medinipur(West),2017-01-30,10000.0,10.0,26.0,clear
+789,Lentil(Masur),Medinipur(West),2017-01-30,10200.0,12.0,26.0,clear
+790,Arhar (Tur/Red Gram),Medinipur(West),2017-01-31,10000.0,12.0,26.0,clear
+791,Bengal Gram(Gram),Medinipur(West),2017-01-31,10500.0,10.0,26.0,clear
+792,Black Gram (Urd Beans),Medinipur(West),2017-01-31,10000.0,8.0,26.0,clear
+793,Lentil(Masur),Medinipur(West),2017-01-31,10200.0,12.0,26.0,clear
+794,Arhar (Tur/Red Gram),Medinipur(West),2017-06-02,10000.0,10.0,34.0,clear
+795,Bengal Gram(Gram),Medinipur(West),2017-06-02,10500.0,10.0,34.0,clear
+796,Black Gram (Urd Beans),Medinipur(West),2017-06-02,10000.0,8.0,34.0,clear
+797,Lentil(Masur),Medinipur(West),2017-06-02,10200.0,12.0,34.0,clear
+798,Arhar (Tur/Red Gram),Medinipur(West),2017-09-02,9000.0,8.0,30.0,clear
+799,Bengal Gram(Gram),Medinipur(West),2017-09-02,10000.0,10.0,30.0,clear
+800,Black Gram (Urd Beans),Medinipur(West),2017-09-02,9500.0,10.0,30.0,clear
+801,Lentil(Masur),Medinipur(West),2017-09-02,10200.0,10.0,30.0,clear
+802,Arhar (Tur/Red Gram),Medinipur(West),2017-10-02,9000.0,10.0,29.6,clear
+803,Bengal Gram(Gram),Medinipur(West),2017-10-02,10000.0,12.0,29.6,clear
+804,Black Gram (Urd Beans),Medinipur(West),2017-10-02,9500.0,12.0,29.6,clear
+805,Lentil(Masur),Medinipur(West),2017-10-02,10200.0,14.0,29.6,clear
+806,Arhar (Tur/Red Gram),Medinipur(West),2017-02-13,8500.0,10.0,28.4,clear
+807,Bengal Gram(Gram),Medinipur(West),2017-02-13,10000.0,12.0,28.4,clear
+808,Black Gram (Urd Beans),Medinipur(West),2017-02-13,9500.0,10.0,28.4,clear
+809,Lentil(Masur),Medinipur(West),2017-02-13,10200.0,13.0,28.4,clear
+810,Arhar (Tur/Red Gram),Medinipur(West),2017-02-14,8500.0,12.0,20.2,clear
+811,Bengal Gram(Gram),Medinipur(West),2017-02-14,10000.0,10.0,20.2,clear
+812,Black Gram (Urd Beans),Medinipur(West),2017-02-14,9500.0,12.0,20.2,clear
+813,Lentil(Masur),Medinipur(West),2017-02-14,10200.0,12.0,20.2,clear
+814,Arhar (Tur/Red Gram),Medinipur(West),2017-02-15,8000.0,10.0,28.4,clear
+815,Bengal Gram(Gram),Medinipur(West),2017-02-15,9500.0,12.0,28.4,clear
+816,Black Gram (Urd Beans),Medinipur(West),2017-02-15,9500.0,14.0,28.4,clear
+817,Lentil(Masur),Medinipur(West),2017-02-15,10200.0,14.0,28.4,clear
+818,Arhar (Tur/Red Gram),Medinipur(West),2017-02-16,8000.0,8.0,27.8,clear
+819,Bengal Gram(Gram),Medinipur(West),2017-02-16,9500.0,10.0,27.8,clear
+820,Black Gram (Urd Beans),Medinipur(West),2017-02-16,9500.0,12.0,27.8,clear
+821,Lentil(Masur),Medinipur(West),2017-02-16,10200.0,12.0,27.8,clear
+822,Arhar (Tur/Red Gram),Medinipur(West),2017-02-17,8000.0,10.0,27.8,clear
+823,Bengal Gram(Gram),Medinipur(West),2017-02-17,9500.0,12.0,27.8,clear
+824,Black Gram (Urd Beans),Medinipur(West),2017-02-17,9500.0,12.0,27.8,clear
+825,Lentil(Masur),Medinipur(West),2017-02-17,10200.0,12.0,27.8,clear
+826,Arhar (Tur/Red Gram),Medinipur(West),2017-02-20,8000.0,10.0,32.4,clear
+827,Bengal Gram(Gram),Medinipur(West),2017-02-20,9500.0,12.0,32.4,clear
+828,Black Gram (Urd Beans),Medinipur(West),2017-02-20,9500.0,13.0,32.4,clear
+829,Lentil(Masur),Medinipur(West),2017-02-20,10200.0,14.0,32.4,clear
+830,Arhar (Tur/Red Gram),Medinipur(West),2017-02-21,8000.0,12.0,31.0,clear
+831,Bengal Gram(Gram),Medinipur(West),2017-02-21,9300.0,13.0,31.0,clear
+832,Black Gram (Urd Beans),Medinipur(West),2017-02-21,9400.0,12.0,31.0,clear
+833,Lentil(Masur),Medinipur(West),2017-02-21,10200.0,14.0,31.0,clear
+834,Arhar (Tur/Red Gram),Medinipur(West),2017-02-22,8000.0,14.0,30.4,clear
+835,Bengal Gram(Gram),Medinipur(West),2017-02-22,9300.0,12.0,30.4,clear
+836,Black Gram (Urd Beans),Medinipur(West),2017-02-22,9000.0,13.0,30.4,clear
+837,Lentil(Masur),Medinipur(West),2017-02-22,9500.0,15.0,30.4,clear
+838,Arhar (Tur/Red Gram),Medinipur(West),2017-02-23,8000.0,10.0,30.4,clear
+839,Bengal Gram(Gram),Medinipur(West),2017-02-23,9300.0,8.0,30.4,clear
+840,Black Gram (Urd Beans),Medinipur(West),2017-02-23,9000.0,10.0,30.4,clear
+841,Lentil(Masur),Medinipur(West),2017-02-23,9500.0,12.0,30.4,clear
+842,Arhar (Tur/Red Gram),Medinipur(West),2017-02-27,8000.0,12.0,29.8,clear
+843,Bengal Gram(Gram),Medinipur(West),2017-02-27,9300.0,10.0,29.8,clear
+844,Black Gram (Urd Beans),Medinipur(West),2017-02-27,9000.0,10.0,29.8,clear
+845,Lentil(Masur),Medinipur(West),2017-02-27,9500.0,13.0,29.8,clear
+846,Arhar (Tur/Red Gram),Medinipur(West),2017-02-28,8000.0,14.0,29.8,clear
+847,Bengal Gram(Gram),Medinipur(West),2017-02-28,9200.0,12.0,29.8,clear
+848,Black Gram (Urd Beans),Medinipur(West),2017-02-28,9000.0,12.0,29.8,clear
+849,Lentil(Masur),Medinipur(West),2017-02-28,9500.0,14.0,29.8,clear
+850,Arhar (Tur/Red Gram),Medinipur(West),2017-03-03,8000.0,12.0,32.8,clear
+851,Bengal Gram(Gram),Medinipur(West),2017-03-03,9500.0,10.0,32.8,clear
+852,Black Gram (Urd Beans),Medinipur(West),2017-03-03,9000.0,12.0,32.8,clear
+853,Lentil(Masur),Medinipur(West),2017-03-03,9000.0,13.0,32.8,clear
+854,Arhar (Tur/Red Gram),Medinipur(West),2017-06-03,8000.0,12.0,37.4,clear
+855,Bengal Gram(Gram),Medinipur(West),2017-06-03,9200.0,13.0,37.4,clear
+856,Black Gram (Urd Beans),Medinipur(West),2017-06-03,9400.0,13.0,37.4,clear
+857,Lentil(Masur),Medinipur(West),2017-06-03,9000.0,14.0,37.4,clear
+858,Arhar (Tur/Red Gram),Medinipur(West),2017-07-03,8000.0,12.0,32.2,clear
+859,Bengal Gram(Gram),Medinipur(West),2017-07-03,9200.0,13.0,32.2,clear
+860,Black Gram (Urd Beans),Medinipur(West),2017-07-03,9500.0,13.0,32.2,clear
+861,Lentil(Masur),Medinipur(West),2017-07-03,9000.0,15.0,32.2,clear
+862,Arhar (Tur/Red Gram),Medinipur(West),2017-08-03,8000.0,14.0,29.4,clear
+863,Bengal Gram(Gram),Medinipur(West),2017-08-03,9000.0,14.0,29.4,clear
+864,Black Gram (Urd Beans),Medinipur(West),2017-08-03,9500.0,12.0,29.4,clear
+865,Lentil(Masur),Medinipur(West),2017-08-03,9000.0,14.0,29.4,clear
+866,Arhar (Tur/Red Gram),Medinipur(West),2017-09-03,8000.0,12.0,31.8,clear
+867,Bengal Gram(Gram),Medinipur(West),2017-09-03,9000.0,12.0,31.8,clear
+868,Black Gram (Urd Beans),Medinipur(West),2017-09-03,9200.0,10.0,31.8,clear
+869,Lentil(Masur),Medinipur(West),2017-09-03,9000.0,12.0,31.8,clear
+870,Arhar (Tur/Red Gram),Medinipur(West),2017-10-03,7800.0,14.0,30.6,clear
+871,Bengal Gram(Gram),Medinipur(West),2017-10-03,9000.0,15.0,30.6,clear
+872,Black Gram (Urd Beans),Medinipur(West),2017-10-03,9000.0,12.0,30.6,clear
+873,Lentil(Masur),Medinipur(West),2017-10-03,9000.0,15.0,30.6,clear
+874,Arhar (Tur/Red Gram),Medinipur(West),2017-11-03,8000.0,13.0,27.4,clear
+875,Bengal Gram(Gram),Medinipur(West),2017-11-03,9000.0,13.0,27.4,clear
+876,Black Gram (Urd Beans),Medinipur(West),2017-11-03,8800.0,13.0,27.4,clear
+877,Lentil(Masur),Medinipur(West),2017-11-03,9000.0,16.0,27.4,clear
+878,Arhar (Tur/Red Gram),Medinipur(West),2017-03-14,8000.0,12.0,28.4,clear
+879,Bengal Gram(Gram),Medinipur(West),2017-03-14,9000.0,12.0,28.4,clear
+880,Black Gram (Urd Beans),Medinipur(West),2017-03-14,8800.0,14.0,28.4,clear
+881,Lentil(Masur),Medinipur(West),2017-03-14,9000.0,15.0,28.4,clear
+882,Arhar (Tur/Red Gram),Medinipur(West),2017-03-15,8000.0,12.0,28.8,clear
+883,Bengal Gram(Gram),Medinipur(West),2017-03-15,9000.0,13.0,28.8,clear
+884,Black Gram (Urd Beans),Medinipur(West),2017-03-15,8800.0,13.0,28.8,clear
+885,Lentil(Masur),Medinipur(West),2017-03-15,9000.0,14.0,28.8,clear
+886,Arhar (Tur/Red Gram),Medinipur(West),2017-03-16,8000.0,10.0,22.4,clear
+887,Bengal Gram(Gram),Medinipur(West),2017-03-16,9000.0,12.0,22.4,clear
+888,Black Gram (Urd Beans),Medinipur(West),2017-03-16,8800.0,12.0,22.4,clear
+889,Lentil(Masur),Medinipur(West),2017-03-16,9000.0,14.0,22.4,clear
+890,Arhar (Tur/Red Gram),Medinipur(West),2017-03-04,7500.0,12.0,29.8,clear
+891,Bengal Gram(Gram),Medinipur(West),2017-03-04,8500.0,13.0,29.8,clear
+892,Black Gram (Urd Beans),Medinipur(West),2017-03-04,9000.0,13.0,29.8,clear
+893,Lentil(Masur),Medinipur(West),2017-03-04,9500.0,15.0,29.8,clear
+894,Arhar (Tur/Red Gram),Medinipur(West),2017-05-04,7500.0,13.0,37.4,clear
+895,Bengal Gram(Gram),Medinipur(West),2017-05-04,8500.0,13.0,37.4,clear
+896,Black Gram (Urd Beans),Medinipur(West),2017-05-04,9500.0,13.0,37.4,clear
+897,Lentil(Masur),Medinipur(West),2017-05-04,9500.0,15.0,37.4,clear
+898,Arhar (Tur/Red Gram),Medinipur(West),2017-06-04,7500.0,14.0,39.4,clear
+899,Bengal Gram(Gram),Medinipur(West),2017-06-04,8500.0,12.0,39.4,clear
+900,Black Gram (Urd Beans),Medinipur(West),2017-06-04,9000.0,10.0,39.4,clear
+901,Lentil(Masur),Medinipur(West),2017-06-04,9500.0,12.0,39.4,clear
+902,Arhar (Tur/Red Gram),Medinipur(West),2017-10-04,7500.0,14.0,31.8,clear
+903,Bengal Gram(Gram),Medinipur(West),2017-10-04,8500.0,14.0,31.8,clear
+904,Black Gram (Urd Beans),Medinipur(West),2017-10-04,9000.0,13.0,31.8,clear
+905,Lentil(Masur),Medinipur(West),2017-10-04,9000.0,14.0,31.8,clear
+906,Arhar (Tur/Red Gram),Medinipur(West),2017-11-04,7500.0,15.0,29.0,clear
+907,Bengal Gram(Gram),Medinipur(West),2017-11-04,8500.0,14.0,29.0,clear
+908,Black Gram (Urd Beans),Medinipur(West),2017-11-04,9000.0,14.0,29.0,clear
+909,Lentil(Masur),Medinipur(West),2017-11-04,9000.0,14.0,29.0,clear
+910,Arhar (Tur/Red Gram),Medinipur(West),2017-12-04,7500.0,14.0,23.8,clear
+911,Bengal Gram(Gram),Medinipur(West),2017-12-04,8500.0,15.0,23.8,clear
+912,Black Gram (Urd Beans),Medinipur(West),2017-12-04,9000.0,13.0,23.8,clear
+913,Lentil(Masur),Medinipur(West),2017-12-04,9000.0,15.0,23.8,clear
+914,Arhar (Tur/Red Gram),Medinipur(West),2017-04-13,7500.0,10.0,33.4,clear
+915,Bengal Gram(Gram),Medinipur(West),2017-04-13,8500.0,12.0,33.4,clear
+916,Black Gram (Urd Beans),Medinipur(West),2017-04-13,9000.0,12.0,33.4,clear
+917,Lentil(Masur),Medinipur(West),2017-04-13,9000.0,12.0,33.4,clear
+918,Arhar (Tur/Red Gram),Medinipur(West),2017-04-17,7500.0,13.0,34.4,clear
+919,Bengal Gram(Gram),Medinipur(West),2017-04-17,8500.0,14.0,34.4,clear
+920,Black Gram (Urd Beans),Medinipur(West),2017-04-17,9000.0,13.0,34.4,clear
+921,Lentil(Masur),Medinipur(West),2017-04-17,9000.0,14.0,34.4,clear
+922,Arhar (Tur/Red Gram),Medinipur(West),2017-04-18,7500.0,13.0,32.4,clear
+923,Bengal Gram(Gram),Medinipur(West),2017-04-18,8500.0,13.0,32.4,clear
+924,Black Gram (Urd Beans),Medinipur(West),2017-04-18,9000.0,14.0,32.4,clear
+925,Lentil(Masur),Medinipur(West),2017-04-18,9000.0,15.0,32.4,clear
+926,Arhar (Tur/Red Gram),Medinipur(West),2017-04-19,7500.0,14.0,34.4,clear
+927,Bengal Gram(Gram),Medinipur(West),2017-04-19,8500.0,13.0,34.4,clear
+928,Black Gram (Urd Beans),Medinipur(West),2017-04-19,9000.0,13.0,34.4,clear
+929,Lentil(Masur),Medinipur(West),2017-04-19,9000.0,14.0,34.4,clear
+930,Arhar (Tur/Red Gram),Medinipur(West),2017-04-20,7500.0,10.0,32.4,clear
+931,Bengal Gram(Gram),Medinipur(West),2017-04-20,8500.0,12.0,32.4,clear
+932,Black Gram (Urd Beans),Medinipur(West),2017-04-20,8800.0,10.0,32.4,clear
+933,Lentil(Masur),Medinipur(West),2017-04-20,9000.0,10.0,32.4,clear
+934,Arhar (Tur/Red Gram),Medinipur(West),2017-04-21,7500.0,13.0,35.4,clear
+935,Bengal Gram(Gram),Medinipur(West),2017-04-21,8500.0,14.0,35.4,clear
+936,Black Gram (Urd Beans),Medinipur(West),2017-04-21,8800.0,13.0,35.4,clear
+937,Lentil(Masur),Medinipur(West),2017-04-21,9000.0,14.0,35.4,clear
+938,Arhar (Tur/Red Gram),Medinipur(West),2017-04-24,7500.0,14.0,34.4,clear
+939,Bengal Gram(Gram),Medinipur(West),2017-04-24,8500.0,13.0,34.4,clear
+940,Black Gram (Urd Beans),Medinipur(West),2017-04-24,8800.0,13.0,34.4,clear
+941,Lentil(Masur),Medinipur(West),2017-04-24,9000.0,15.0,34.4,clear
+942,Arhar (Tur/Red Gram),Medinipur(West),2017-04-25,7600.0,15.0,36.4,clear
+943,Bengal Gram(Gram),Medinipur(West),2017-04-25,8500.0,14.0,36.4,clear
+944,Black Gram (Urd Beans),Medinipur(West),2017-04-25,8800.0,14.0,36.4,clear
+945,Lentil(Masur),Medinipur(West),2017-04-25,9000.0,15.0,36.4,clear
+946,Arhar (Tur/Red Gram),Medinipur(West),2017-04-26,7600.0,14.0,37.4,clear
+947,Bengal Gram(Gram),Medinipur(West),2017-04-26,8500.0,13.0,37.4,clear
+948,Black Gram (Urd Beans),Medinipur(West),2017-04-26,8800.0,15.0,37.4,clear
+949,Lentil(Masur),Medinipur(West),2017-04-26,9000.0,14.0,37.4,clear
+950,Arhar (Tur/Red Gram),Medinipur(West),2017-04-27,7600.0,12.0,30.4,rain
+951,Bengal Gram(Gram),Medinipur(West),2017-04-27,8500.0,10.0,30.4,rain
+952,Black Gram (Urd Beans),Medinipur(West),2017-04-27,8800.0,12.0,30.4,rain
+953,Lentil(Masur),Medinipur(West),2017-04-27,9000.0,12.0,30.4,rain
+954,Arhar (Tur/Red Gram),Medinipur(West),2017-04-28,7600.0,14.0,38.4,clear
+955,Bengal Gram(Gram),Medinipur(West),2017-04-28,8500.0,13.0,38.4,clear
+956,Black Gram (Urd Beans),Medinipur(West),2017-04-28,8800.0,15.0,38.4,clear
+957,Lentil(Masur),Medinipur(West),2017-04-28,9000.0,15.0,38.4,clear
+958,Arhar (Tur/Red Gram),Medinipur(West),2017-05-05,7800.0,14.0,33.8,rain
+959,Bengal Gram(Gram),Medinipur(West),2017-05-05,8600.0,14.0,33.8,rain
+960,Black Gram (Urd Beans),Medinipur(West),2017-05-05,8800.0,15.0,33.8,rain
+961,Lentil(Masur),Medinipur(West),2017-05-05,9000.0,16.0,33.8,rain
+962,Arhar (Tur/Red Gram),Medinipur(West),2017-12-05,7800.0,13.0,17.0,clear
+963,Bengal Gram(Gram),Medinipur(West),2017-12-05,8700.0,15.0,17.0,clear
+964,Black Gram (Urd Beans),Medinipur(West),2017-12-05,8800.0,14.0,17.0,clear
+965,Lentil(Masur),Medinipur(West),2017-12-05,9000.0,15.0,17.0,clear
+966,Arhar (Tur/Red Gram),Medinipur(West),2017-05-15,7600.0,14.0,33.4,clear
+967,Bengal Gram(Gram),Medinipur(West),2017-05-15,8200.0,14.0,33.4,clear
+968,Black Gram (Urd Beans),Medinipur(West),2017-05-15,8500.0,14.0,33.4,clear
+969,Lentil(Masur),Medinipur(West),2017-05-15,8500.0,15.0,33.4,clear
+970,Arhar (Tur/Red Gram),Medinipur(West),2017-05-16,7600.0,15.0,33.4,clear
+971,Bengal Gram(Gram),Medinipur(West),2017-05-16,8200.0,16.0,33.4,clear
+972,Black Gram (Urd Beans),Medinipur(West),2017-05-16,8800.0,15.0,33.4,clear
+973,Lentil(Masur),Medinipur(West),2017-05-16,8600.0,16.0,33.4,clear
+974,Arhar (Tur/Red Gram),Medinipur(West),2017-05-17,7600.0,16.0,36.8,clear
+975,Bengal Gram(Gram),Medinipur(West),2017-05-17,8200.0,15.0,36.8,clear
+976,Black Gram (Urd Beans),Medinipur(West),2017-05-17,8800.0,16.0,36.8,clear
+977,Lentil(Masur),Medinipur(West),2017-05-17,8600.0,15.0,36.8,clear
+978,Arhar (Tur/Red Gram),Medinipur(West),2017-05-18,7600.0,13.0,34.8,clear
+979,Bengal Gram(Gram),Medinipur(West),2017-05-18,8200.0,14.0,34.8,clear
+980,Black Gram (Urd Beans),Medinipur(West),2017-05-18,8800.0,15.0,34.8,clear
+981,Lentil(Masur),Medinipur(West),2017-05-18,8500.0,16.0,34.8,clear
+982,Arhar (Tur/Red Gram),Medinipur(West),2017-05-19,7600.0,16.0,38.0,clear
+983,Bengal Gram(Gram),Medinipur(West),2017-05-19,8200.0,15.0,38.0,clear
+984,Black Gram (Urd Beans),Medinipur(West),2017-05-19,8800.0,16.0,38.0,clear
+985,Lentil(Masur),Medinipur(West),2017-05-19,8500.0,15.0,38.0,clear
+986,Arhar (Tur/Red Gram),Medinipur(West),2017-05-22,7600.0,15.0,37.4,clear
+987,Bengal Gram(Gram),Medinipur(West),2017-05-22,8200.0,15.0,37.4,clear
+988,Black Gram (Urd Beans),Medinipur(West),2017-05-22,8600.0,15.0,37.4,clear
+989,Lentil(Masur),Medinipur(West),2017-05-22,8500.0,16.0,37.4,clear
+990,Arhar (Tur/Red Gram),Medinipur(West),2017-05-23,7600.0,16.0,34.8,clear
+991,Bengal Gram(Gram),Medinipur(West),2017-05-23,8200.0,14.0,34.8,clear
+992,Black Gram (Urd Beans),Medinipur(West),2017-05-23,8600.0,16.0,34.8,clear
+993,Lentil(Masur),Medinipur(West),2017-05-23,8500.0,15.0,34.8,clear
+994,Arhar (Tur/Red Gram),Medinipur(West),2017-05-24,7600.0,15.0,34.4,clear
+995,Bengal Gram(Gram),Medinipur(West),2017-05-24,8200.0,13.0,34.4,clear
+996,Black Gram (Urd Beans),Medinipur(West),2017-05-24,8600.0,16.0,34.4,clear
+997,Lentil(Masur),Medinipur(West),2017-05-24,8500.0,16.0,34.4,clear
+998,Arhar (Tur/Red Gram),Medinipur(West),2017-05-25,7600.0,13.0,34.4,clear
+999,Bengal Gram(Gram),Medinipur(West),2017-05-25,8200.0,10.0,34.4,clear
+1000,Black Gram (Urd Beans),Medinipur(West),2017-05-25,8600.0,12.0,34.4,clear
+1001,Lentil(Masur),Medinipur(West),2017-05-25,8500.0,12.0,34.4,clear
+1002,Arhar (Tur/Red Gram),Medinipur(West),2017-05-26,7600.0,15.0,33.0,clear
+1003,Bengal Gram(Gram),Medinipur(West),2017-05-26,8300.0,13.0,33.0,clear
+1004,Black Gram (Urd Beans),Medinipur(West),2017-05-26,8700.0,14.0,33.0,clear
+1005,Lentil(Masur),Medinipur(West),2017-05-26,8500.0,15.0,33.0,clear
+1006,Arhar (Tur/Red Gram),Medinipur(West),2017-05-29,7600.0,14.0,33.8,clear
+1007,Bengal Gram(Gram),Medinipur(West),2017-05-29,8300.0,14.0,33.8,clear
+1008,Black Gram (Urd Beans),Medinipur(West),2017-05-29,8800.0,15.0,33.8,clear
+1009,Lentil(Masur),Medinipur(West),2017-05-29,8500.0,14.0,33.8,clear
+1010,Arhar (Tur/Red Gram),Medinipur(West),2017-05-30,7600.0,15.0,36.0,clear
+1011,Bengal Gram(Gram),Medinipur(West),2017-05-30,8300.0,16.0,36.0,clear
+1012,Black Gram (Urd Beans),Medinipur(West),2017-05-30,8800.0,16.0,36.0,clear
+1013,Lentil(Masur),Medinipur(West),2017-05-30,8500.0,16.0,36.0,clear
+1014,Arhar (Tur/Red Gram),Medinipur(West),2017-05-31,7600.0,16.0,32.4,rain
+1015,Bengal Gram(Gram),Medinipur(West),2017-05-31,8300.0,17.0,32.4,rain
+1016,Black Gram (Urd Beans),Medinipur(West),2017-05-31,8800.0,15.0,32.4,rain
+1017,Lentil(Masur),Medinipur(West),2017-05-31,8600.0,14.0,32.4,rain
+1018,Arhar (Tur/Red Gram),Medinipur(West),2017-01-06,7800.0,13.0,24.8,clear
+1019,Bengal Gram(Gram),Medinipur(West),2017-01-06,8400.0,12.0,24.8,clear
+1020,Black Gram (Urd Beans),Medinipur(West),2017-01-06,8700.0,13.0,24.8,clear
+1021,Lentil(Masur),Medinipur(West),2017-01-06,8600.0,12.0,24.8,clear
+1022,Arhar (Tur/Red Gram),Medinipur(West),2017-05-06,7800.0,14.0,34.4,clear
+1023,Bengal Gram(Gram),Medinipur(West),2017-05-06,7000.0,13.0,34.4,clear
+1024,Black Gram (Urd Beans),Medinipur(West),2017-05-06,8800.0,15.0,34.4,clear
+1025,Lentil(Masur),Medinipur(West),2017-05-06,8600.0,16.0,34.4,clear
+1026,Arhar (Tur/Red Gram),Medinipur(West),2017-06-06,7800.0,15.0,34.8,clear
+1027,Bengal Gram(Gram),Medinipur(West),2017-06-06,7000.0,12.0,34.8,clear
+1028,Black Gram (Urd Beans),Medinipur(West),2017-06-06,8800.0,16.0,34.8,clear
+1029,Lentil(Masur),Medinipur(West),2017-06-06,8500.0,15.0,34.8,clear
+1030,Arhar (Tur/Red Gram),Medinipur(West),2017-07-06,7800.0,16.0,29.8,clear
+1031,Bengal Gram(Gram),Medinipur(West),2017-07-06,7000.0,13.0,29.8,clear
+1032,Black Gram (Urd Beans),Medinipur(West),2017-07-06,8800.0,15.0,29.8,clear
+1033,Lentil(Masur),Medinipur(West),2017-07-06,8500.0,16.0,29.8,clear
+1034,Arhar (Tur/Red Gram),Medinipur(West),2017-08-06,7800.0,13.0,32.4,clear
+1035,Bengal Gram(Gram),Medinipur(West),2017-08-06,7000.0,10.0,32.4,clear
+1036,Black Gram (Urd Beans),Medinipur(West),2017-08-06,9000.0,12.0,32.4,clear
+1037,Lentil(Masur),Medinipur(West),2017-08-06,8500.0,13.0,32.4,clear
+1038,Arhar (Tur/Red Gram),Medinipur(West),2017-09-06,7800.0,15.0,31.6,clear
+1039,Bengal Gram(Gram),Medinipur(West),2017-09-06,7000.0,12.0,31.6,clear
+1040,Black Gram (Urd Beans),Medinipur(West),2017-09-06,9000.0,14.0,31.6,clear
+1041,Lentil(Masur),Medinipur(West),2017-09-06,8500.0,16.0,31.6,clear
+1042,Arhar (Tur/Red Gram),Medinipur(West),2017-10-06,7800.0,14.0,29.8,clear
+1043,Bengal Gram(Gram),Medinipur(West),2017-10-06,7000.0,13.0,29.8,clear
+1044,Black Gram (Urd Beans),Medinipur(West),2017-10-06,9000.0,15.0,29.8,clear
+1045,Lentil(Masur),Medinipur(West),2017-10-06,8500.0,15.0,29.8,clear
+1046,Arhar (Tur/Red Gram),Medinipur(West),2017-12-06,7800.0,16.0,23.4,clear
+1047,Bengal Gram(Gram),Medinipur(West),2017-12-06,7000.0,14.0,23.4,clear
+1048,Black Gram (Urd Beans),Medinipur(West),2017-12-06,9000.0,16.0,23.4,clear
+1049,Lentil(Masur),Medinipur(West),2017-12-06,8500.0,14.0,23.4,clear
+1050,Arhar (Tur/Red Gram),Medinipur(West),2017-06-13,8000.0,15.0,35.8,clear
+1051,Bengal Gram(Gram),Medinipur(West),2017-06-13,7000.0,12.0,35.8,clear
+1052,Black Gram (Urd Beans),Medinipur(West),2017-06-13,9000.0,17.0,35.8,clear
+1053,Lentil(Masur),Medinipur(West),2017-06-13,8600.0,15.0,35.8,clear
+1054,Arhar (Tur/Red Gram),Medinipur(West),2017-06-14,8000.0,16.0,35.4,clear
+1055,Bengal Gram(Gram),Medinipur(West),2017-06-14,7000.0,13.0,35.4,clear
+1056,Black Gram (Urd Beans),Medinipur(West),2017-06-14,9000.0,16.0,35.4,clear
+1057,Lentil(Masur),Medinipur(West),2017-06-14,8500.0,16.0,35.4,clear
+1058,Arhar (Tur/Red Gram),Medinipur(West),2017-06-15,8000.0,15.0,31.0,rain
+1059,Bengal Gram(Gram),Medinipur(West),2017-06-15,7200.0,12.0,31.0,rain
+1060,Black Gram (Urd Beans),Medinipur(West),2017-06-15,8500.0,13.0,31.0,rain
+1061,Lentil(Masur),Medinipur(West),2017-06-15,8500.0,13.0,31.0,rain
+1062,Arhar (Tur/Red Gram),Medinipur(West),2017-06-16,8000.0,14.0,31.4,clear
+1063,Bengal Gram(Gram),Medinipur(West),2017-06-16,7200.0,14.0,31.4,clear
+1064,Black Gram (Urd Beans),Medinipur(West),2017-06-16,8200.0,15.0,31.4,clear
+1065,Lentil(Masur),Medinipur(West),2017-06-16,8000.0,16.0,31.4,clear
+1066,Arhar (Tur/Red Gram),Medinipur(West),2017-06-19,8000.0,15.0,37.4,clear
+1067,Bengal Gram(Gram),Medinipur(West),2017-06-19,7200.0,14.0,37.4,clear
+1068,Black Gram (Urd Beans),Medinipur(West),2017-06-19,8200.0,14.0,37.4,clear
+1069,Lentil(Masur),Medinipur(West),2017-06-19,8000.0,15.0,37.4,clear
+1070,Arhar (Tur/Red Gram),Medinipur(West),2017-06-21,8100.0,14.0,32.0,clear
+1071,Bengal Gram(Gram),Medinipur(West),2017-06-21,7200.0,15.0,32.0,clear
+1072,Black Gram (Urd Beans),Medinipur(West),2017-06-21,8200.0,15.0,32.0,clear
+1073,Lentil(Masur),Medinipur(West),2017-06-21,8000.0,16.0,32.0,clear
+1074,Arhar (Tur/Red Gram),Medinipur(West),2017-06-22,8000.0,12.0,34.4,clear
+1075,Bengal Gram(Gram),Medinipur(West),2017-06-22,7200.0,12.0,34.4,clear
+1076,Black Gram (Urd Beans),Medinipur(West),2017-06-22,8200.0,13.0,34.4,clear
+1077,Lentil(Masur),Medinipur(West),2017-06-22,8000.0,14.0,34.4,clear
+1078,Arhar (Tur/Red Gram),Medinipur(West),2017-06-27,8000.0,15.0,31.0,rain
+1079,Bengal Gram(Gram),Medinipur(West),2017-06-27,7200.0,16.0,31.0,rain
+1080,Black Gram (Urd Beans),Medinipur(West),2017-06-27,8000.0,15.0,31.0,rain
+1081,Lentil(Masur),Medinipur(West),2017-06-27,8000.0,15.0,31.0,rain
+1082,Arhar (Tur/Red Gram),Medinipur(West),2017-06-29,8200.0,13.0,31.4,clear
+1083,Bengal Gram(Gram),Medinipur(West),2017-06-29,7200.0,14.0,31.4,clear
+1084,Black Gram (Urd Beans),Medinipur(West),2017-06-29,8300.0,15.0,31.4,clear
+1085,Lentil(Masur),Medinipur(West),2017-06-29,8000.0,13.0,31.4,clear
+1086,Arhar (Tur/Red Gram),Medinipur(West),2017-06-30,7500.0,13.0,30.4,clear
+1087,Bengal Gram(Gram),Medinipur(West),2017-06-30,7000.0,12.0,30.4,clear
+1088,Black Gram (Urd Beans),Medinipur(West),2017-06-30,7600.0,13.0,30.4,clear
+1089,Lentil(Masur),Medinipur(West),2017-06-30,7200.0,15.0,30.4,clear
+1090,Arhar (Tur/Red Gram),Medinipur(West),2017-03-07,7500.0,12.0,30.6,clear
+1091,Bengal Gram(Gram),Medinipur(West),2017-03-07,7000.0,10.0,30.6,clear
+1092,Black Gram (Urd Beans),Medinipur(West),2017-03-07,7500.0,11.0,30.6,clear
+1093,Lentil(Masur),Medinipur(West),2017-03-07,7400.0,12.0,30.6,clear
+1094,Arhar (Tur/Red Gram),Medinipur(West),2017-05-07,7400.0,13.0,35.4,clear
+1095,Bengal Gram(Gram),Medinipur(West),2017-05-07,7000.0,10.0,35.4,clear
+1096,Black Gram (Urd Beans),Medinipur(West),2017-05-07,7300.0,15.0,35.4,clear
+1097,Lentil(Masur),Medinipur(West),2017-05-07,7500.0,14.0,35.4,clear
+1098,Arhar (Tur/Red Gram),Medinipur(West),2017-06-07,7400.0,14.0,34.8,clear
+1099,Bengal Gram(Gram),Medinipur(West),2017-06-07,7000.0,12.0,34.8,clear
+1100,Black Gram (Urd Beans),Medinipur(West),2017-06-07,7300.0,14.0,34.8,clear
+1101,Lentil(Masur),Medinipur(West),2017-06-07,7500.0,12.0,34.8,clear
+1102,Arhar (Tur/Red Gram),Medinipur(West),2017-07-07,8200.0,12.0,28.6,rain
+1103,Bengal Gram(Gram),Medinipur(West),2017-07-07,7000.0,14.0,28.6,rain
+1104,Black Gram (Urd Beans),Medinipur(West),2017-07-07,8500.0,15.0,28.6,rain
+1105,Lentil(Masur),Medinipur(West),2017-07-07,8000.0,14.0,28.6,rain
+1106,Arhar (Tur/Red Gram),Medinipur(West),2017-08-07,8200.0,10.0,30.8,rain
+1107,Bengal Gram(Gram),Medinipur(West),2017-08-07,7000.0,12.0,30.8,rain
+1108,Black Gram (Urd Beans),Medinipur(West),2017-08-07,8500.0,16.0,30.8,rain
+1109,Lentil(Masur),Medinipur(West),2017-08-07,8000.0,15.0,30.8,rain
+1110,Arhar (Tur/Red Gram),Medinipur(West),2017-10-07,8200.0,11.0,28.0,clear
+1111,Bengal Gram(Gram),Medinipur(West),2017-10-07,6800.0,14.0,28.0,clear
+1112,Black Gram (Urd Beans),Medinipur(West),2017-10-07,8500.0,2.0,28.0,clear
+1113,Lentil(Masur),Medinipur(West),2017-10-07,8000.0,14.0,28.0,clear
+1114,Arhar (Tur/Red Gram),Medinipur(West),2017-11-07,8200.0,10.0,28.4,clear
+1115,Bengal Gram(Gram),Medinipur(West),2017-11-07,6800.0,12.0,28.4,clear
+1116,Black Gram (Urd Beans),Medinipur(West),2017-11-07,8500.0,10.0,28.4,clear
+1117,Lentil(Masur),Medinipur(West),2017-11-07,8000.0,12.0,28.4,clear
+1118,Arhar (Tur/Red Gram),Medinipur(West),2017-12-07,8200.0,12.0,24.8,clear
+1119,Bengal Gram(Gram),Medinipur(West),2017-12-07,6800.0,14.0,24.8,clear
+1120,Black Gram (Urd Beans),Medinipur(West),2017-12-07,8500.0,12.0,24.8,clear
+1121,Lentil(Masur),Medinipur(West),2017-12-07,8000.0,10.0,24.8,clear
+1122,Arhar (Tur/Red Gram),Medinipur(West),2017-07-13,8000.0,13.0,27.4,rain
+1123,Bengal Gram(Gram),Medinipur(West),2017-07-13,6800.0,15.0,27.4,rain
+1124,Black Gram (Urd Beans),Medinipur(West),2017-07-13,8200.0,10.0,27.4,rain
+1125,Lentil(Masur),Medinipur(West),2017-07-13,8000.0,12.0,27.4,rain
+1126,Arhar (Tur/Red Gram),Medinipur(West),2017-07-14,8000.0,10.0,28.2,rain
+1127,Bengal Gram(Gram),Medinipur(West),2017-07-14,6800.0,14.0,28.2,rain
+1128,Black Gram (Urd Beans),Medinipur(West),2017-07-14,8200.0,12.0,28.2,rain
+1129,Lentil(Masur),Medinipur(West),2017-07-14,8000.0,14.0,28.2,rain
+1130,Arhar (Tur/Red Gram),Medinipur(West),2017-07-15,8000.0,12.0,29.8,rain
+1131,Bengal Gram(Gram),Medinipur(West),2017-07-15,6800.0,13.0,29.8,rain
+1132,Black Gram (Urd Beans),Medinipur(West),2017-07-15,8200.0,14.0,29.8,rain
+1133,Lentil(Masur),Medinipur(West),2017-07-15,8000.0,15.0,29.8,rain
+1134,Arhar (Tur/Red Gram),Medinipur(West),2017-07-17,8000.0,11.0,31.4,clear
+1135,Bengal Gram(Gram),Medinipur(West),2017-07-17,6800.0,15.0,31.4,clear
+1136,Black Gram (Urd Beans),Medinipur(West),2017-07-17,8200.0,15.0,31.4,clear
+1137,Lentil(Masur),Medinipur(West),2017-07-17,8000.0,14.0,31.4,clear
+1138,Arhar (Tur/Red Gram),Medinipur(West),2017-07-18,8000.0,12.0,30.6,clear
+1139,Bengal Gram(Gram),Medinipur(West),2017-07-18,6800.0,14.0,30.6,clear
+1140,Black Gram (Urd Beans),Medinipur(West),2017-07-18,8200.0,12.0,30.6,clear
+1141,Lentil(Masur),Medinipur(West),2017-07-18,8000.0,12.0,30.6,clear
+1142,Arhar (Tur/Red Gram),Medinipur(West),2017-07-19,8000.0,14.0,29.4,rain
+1143,Bengal Gram(Gram),Medinipur(West),2017-07-19,6800.0,15.0,29.4,rain
+1144,Black Gram (Urd Beans),Medinipur(West),2017-07-19,8200.0,14.0,29.4,rain
+1145,Lentil(Masur),Medinipur(West),2017-07-19,8000.0,11.0,29.4,rain
+1146,Arhar (Tur/Red Gram),Medinipur(West),2017-07-20,8000.0,15.0,27.4,rain
+1147,Bengal Gram(Gram),Medinipur(West),2017-07-20,7500.0,14.0,27.4,rain
+1148,Black Gram (Urd Beans),Medinipur(West),2017-07-20,8500.0,1.6,27.4,rain
+1149,Lentil(Masur),Medinipur(West),2017-07-20,8500.0,12.0,27.4,rain
+1150,Arhar (Tur/Red Gram),Medinipur(West),2017-07-21,8000.0,12.0,28.0,clear
+1151,Bengal Gram(Gram),Medinipur(West),2017-07-21,7500.0,12.0,28.0,clear
+1152,Black Gram (Urd Beans),Medinipur(West),2017-07-21,8500.0,17.0,28.0,clear
+1153,Lentil(Masur),Medinipur(West),2017-07-21,8500.0,10.0,28.0,clear
+1154,Arhar (Tur/Red Gram),Medinipur(West),2017-07-22,8000.0,14.0,26.4,rain
+1155,Bengal Gram(Gram),Medinipur(West),2017-07-22,7500.0,10.0,26.4,rain
+1156,Black Gram (Urd Beans),Medinipur(West),2017-07-22,8500.0,15.0,26.4,rain
+1157,Lentil(Masur),Medinipur(West),2017-07-22,8500.0,12.0,26.4,rain
+1158,Arhar (Tur/Red Gram),Medinipur(West),2017-07-24,8000.0,13.0,25.8,rain
+1159,Bengal Gram(Gram),Medinipur(West),2017-07-24,7500.0,12.0,25.8,rain
+1160,Black Gram (Urd Beans),Medinipur(West),2017-07-24,8500.0,12.0,25.8,rain
+1161,Lentil(Masur),Medinipur(West),2017-07-24,8500.0,10.0,25.8,rain
+1162,Arhar (Tur/Red Gram),Medinipur(West),2017-07-25,8000.0,14.0,27.4,rain
+1163,Bengal Gram(Gram),Medinipur(West),2017-07-25,7500.0,1.0,27.4,rain
+1164,Black Gram (Urd Beans),Medinipur(West),2017-07-25,8500.0,14.0,27.4,rain
+1165,Lentil(Masur),Medinipur(West),2017-07-25,8500.0,12.0,27.4,rain
+1166,Arhar (Tur/Red Gram),Medinipur(West),2017-07-26,8000.0,12.0,28.2,clear
+1167,Bengal Gram(Gram),Medinipur(West),2017-07-26,7500.0,14.0,28.2,clear
+1168,Black Gram (Urd Beans),Medinipur(West),2017-07-26,8500.0,16.0,28.2,clear
+1169,Lentil(Masur),Medinipur(West),2017-07-26,8500.0,14.0,28.2,clear
+1170,Arhar (Tur/Red Gram),Medinipur(West),2017-07-27,8000.0,14.0,30.8,clear
+1171,Bengal Gram(Gram),Medinipur(West),2017-07-27,7500.0,15.0,30.8,clear
+1172,Black Gram (Urd Beans),Medinipur(West),2017-07-27,8500.0,18.0,30.8,clear
+1173,Lentil(Masur),Medinipur(West),2017-07-27,8500.0,15.0,30.8,clear
+1174,Arhar (Tur/Red Gram),Medinipur(West),2017-07-28,8000.0,16.0,32.8,clear
+1175,Bengal Gram(Gram),Medinipur(West),2017-07-28,7500.0,14.0,32.8,clear
+1176,Black Gram (Urd Beans),Medinipur(West),2017-07-28,8500.0,15.0,32.8,clear
+1177,Lentil(Masur),Medinipur(West),2017-07-28,8500.0,12.0,32.8,clear
+1178,Arhar (Tur/Red Gram),Medinipur(West),2017-07-29,8000.0,14.0,31.8,clear
+1179,Bengal Gram(Gram),Medinipur(West),2017-07-29,7500.0,10.0,31.8,clear
+1180,Black Gram (Urd Beans),Medinipur(West),2017-07-29,8500.0,14.0,31.8,clear
+1181,Lentil(Masur),Medinipur(West),2017-07-29,8500.0,10.0,31.8,clear
+1182,Arhar (Tur/Red Gram),Medinipur(West),2017-07-31,8000.0,15.0,31.4,clear
+1183,Bengal Gram(Gram),Medinipur(West),2017-07-31,7500.0,14.0,31.4,clear
+1184,Black Gram (Urd Beans),Medinipur(West),2017-07-31,8500.0,12.0,31.4,clear
+1185,Lentil(Masur),Medinipur(West),2017-07-31,8500.0,12.0,31.4,clear
+1186,Arhar (Tur/Red Gram),Medinipur(West),2017-01-08,9000.0,14.0,25.4,clear
+1187,Bengal Gram(Gram),Medinipur(West),2017-01-08,8000.0,15.0,25.4,clear
+1188,Black Gram (Urd Beans),Medinipur(West),2017-01-08,9000.0,13.0,25.4,clear
+1189,Lentil(Masur),Medinipur(West),2017-01-08,9000.0,15.0,25.4,clear
+1190,Arhar (Tur/Red Gram),Medinipur(West),2017-03-08,9000.0,10.0,25.4,clear
+1191,Bengal Gram(Gram),Medinipur(West),2017-03-08,8000.0,12.0,25.4,clear
+1192,Black Gram (Urd Beans),Medinipur(West),2017-03-08,9000.0,14.0,25.4,clear
+1193,Lentil(Masur),Medinipur(West),2017-03-08,9000.0,15.0,25.4,clear
+1194,Arhar (Tur/Red Gram),Medinipur(West),2017-05-08,9000.0,14.0,34.4,clear
+1195,Bengal Gram(Gram),Medinipur(West),2017-05-08,7400.0,15.0,34.4,clear
+1196,Black Gram (Urd Beans),Medinipur(West),2017-05-08,9000.0,12.0,34.4,clear
+1197,Lentil(Masur),Medinipur(West),2017-05-08,8400.0,12.0,34.4,clear
+1198,Arhar (Tur/Red Gram),Medinipur(West),2017-07-08,9000.0,15.0,30.8,clear
+1199,Bengal Gram(Gram),Medinipur(West),2017-07-08,7400.0,14.0,30.8,clear
+1200,Black Gram (Urd Beans),Medinipur(West),2017-07-08,9000.0,13.0,30.8,clear
+1201,Lentil(Masur),Medinipur(West),2017-07-08,8400.0,10.0,30.8,clear
+1202,Arhar (Tur/Red Gram),Medinipur(West),2017-08-08,8600.0,10.0,31.8,clear
+1203,Bengal Gram(Gram),Medinipur(West),2017-08-08,7000.0,15.0,31.8,clear
+1204,Black Gram (Urd Beans),Medinipur(West),2017-08-08,8800.0,14.0,31.8,clear
+1205,Lentil(Masur),Medinipur(West),2017-08-08,8400.0,12.0,31.8,clear
+1206,Arhar (Tur/Red Gram),Medinipur(West),2017-09-08,8600.0,12.0,29.8,rain
+1207,Bengal Gram(Gram),Medinipur(West),2017-09-08,7000.0,14.0,29.8,rain
+1208,Black Gram (Urd Beans),Medinipur(West),2017-09-08,8500.0,10.0,29.8,rain
+1209,Lentil(Masur),Medinipur(West),2017-09-08,8000.0,14.0,29.8,rain
+1210,Arhar (Tur/Red Gram),Medinipur(West),2017-08-14,8500.0,14.0,30.2,clear
+1211,Bengal Gram(Gram),Medinipur(West),2017-08-14,7000.0,12.0,30.2,clear
+1212,Black Gram (Urd Beans),Medinipur(West),2017-08-14,8500.0,14.0,30.2,clear
+1213,Lentil(Masur),Medinipur(West),2017-08-14,8000.0,15.0,30.2,clear
+1214,Arhar (Tur/Red Gram),Medinipur(West),2017-08-15,8500.0,12.0,31.8,clear
+1215,Bengal Gram(Gram),Medinipur(West),2017-08-15,7000.0,10.0,31.8,clear
+1216,Black Gram (Urd Beans),Medinipur(West),2017-08-15,8500.0,12.0,31.8,clear
+1217,Lentil(Masur),Medinipur(West),2017-08-15,8000.0,14.0,31.8,clear
+1218,Arhar (Tur/Red Gram),Medinipur(West),2017-08-16,8300.0,14.0,32.0,clear
+1219,Bengal Gram(Gram),Medinipur(West),2017-08-16,7000.0,12.0,32.0,clear
+1220,Black Gram (Urd Beans),Medinipur(West),2017-08-16,8500.0,10.0,32.0,clear
+1221,Lentil(Masur),Medinipur(West),2017-08-16,8000.0,15.0,32.0,clear
+1222,Arhar (Tur/Red Gram),Medinipur(West),2017-08-17,8300.0,12.0,32.4,clear
+1223,Bengal Gram(Gram),Medinipur(West),2017-08-17,7000.0,10.0,32.4,clear
+1224,Black Gram (Urd Beans),Medinipur(West),2017-08-17,8500.0,14.0,32.4,clear
+1225,Lentil(Masur),Medinipur(West),2017-08-17,8000.0,16.0,32.4,clear
+1226,Arhar (Tur/Red Gram),Medinipur(West),2017-08-18,8300.0,15.0,30.0,rain
+1227,Bengal Gram(Gram),Medinipur(West),2017-08-18,7000.0,12.0,30.0,rain
+1228,Black Gram (Urd Beans),Medinipur(West),2017-08-18,8500.0,16.0,30.0,rain
+1229,Lentil(Masur),Medinipur(West),2017-08-18,8000.0,15.0,30.0,rain
+1230,Arhar (Tur/Red Gram),Medinipur(West),2017-08-19,8300.0,14.0,28.4,rain
+1231,Bengal Gram(Gram),Medinipur(West),2017-08-19,6800.0,14.0,28.4,rain
+1232,Black Gram (Urd Beans),Medinipur(West),2017-08-19,8500.0,12.0,28.4,rain
+1233,Lentil(Masur),Medinipur(West),2017-08-19,8000.0,14.0,28.4,rain
+1234,Arhar (Tur/Red Gram),Medinipur(West),2017-08-21,8300.0,16.0,31.8,clear
+1235,Bengal Gram(Gram),Medinipur(West),2017-08-21,6800.0,15.0,31.8,clear
+1236,Black Gram (Urd Beans),Medinipur(West),2017-08-21,8500.0,14.0,31.8,clear
+1237,Lentil(Masur),Medinipur(West),2017-08-21,8000.0,15.0,31.8,clear
+1238,Arhar (Tur/Red Gram),Medinipur(West),2017-08-22,8500.0,1.4,31.4,clear
+1239,Bengal Gram(Gram),Medinipur(West),2017-08-22,6800.0,12.0,31.4,clear
+1240,Black Gram (Urd Beans),Medinipur(West),2017-08-22,8300.0,12.0,31.4,clear
+1241,Lentil(Masur),Medinipur(West),2017-08-22,7000.0,16.0,31.4,clear
+1242,Arhar (Tur/Red Gram),Medinipur(West),2017-08-23,8500.0,15.0,30.0,clear
+1243,Bengal Gram(Gram),Medinipur(West),2017-08-23,6800.0,10.0,30.0,clear
+1244,Black Gram (Urd Beans),Medinipur(West),2017-08-23,8300.0,12.0,30.0,clear
+1245,Lentil(Masur),Medinipur(West),2017-08-23,7000.0,15.0,30.0,clear
+1246,Arhar (Tur/Red Gram),Medinipur(West),2017-08-24,8500.0,14.0,29.4,rain
+1247,Bengal Gram(Gram),Medinipur(West),2017-08-24,6800.0,12.0,29.4,rain
+1248,Black Gram (Urd Beans),Medinipur(West),2017-08-24,8300.0,14.0,29.4,rain
+1249,Lentil(Masur),Medinipur(West),2017-08-24,7000.0,16.0,29.4,rain
+1250,Arhar (Tur/Red Gram),Medinipur(West),2017-08-25,8500.0,12.0,29.4,clear
+1251,Bengal Gram(Gram),Medinipur(West),2017-08-25,6800.0,14.0,29.4,clear
+1252,Black Gram (Urd Beans),Medinipur(West),2017-08-25,8300.0,15.0,29.4,clear
+1253,Lentil(Masur),Medinipur(West),2017-08-25,7000.0,15.0,29.4,clear
+1254,Arhar (Tur/Red Gram),Medinipur(West),2017-08-26,8500.0,14.0,28.8,rain
+1255,Bengal Gram(Gram),Medinipur(West),2017-08-26,7000.0,15.0,28.8,rain
+1256,Black Gram (Urd Beans),Medinipur(West),2017-08-26,8300.0,16.0,28.8,rain
+1257,Lentil(Masur),Medinipur(West),2017-08-26,7000.0,14.0,28.8,rain
+1258,Arhar (Tur/Red Gram),Medinipur(West),2017-08-28,8200.0,15.0,29.4,rain
+1259,Bengal Gram(Gram),Medinipur(West),2017-08-28,7000.0,16.0,29.4,rain
+1260,Black Gram (Urd Beans),Medinipur(West),2017-08-28,8300.0,14.0,29.4,rain
+1261,Lentil(Masur),Medinipur(West),2017-08-28,7000.0,160.0,29.4,rain
+1262,Arhar (Tur/Red Gram),Medinipur(West),2017-08-29,8200.0,14.0,28.4,clear
+1263,Bengal Gram(Gram),Medinipur(West),2017-08-29,7000.0,15.0,28.4,clear
+1264,Black Gram (Urd Beans),Medinipur(West),2017-08-29,8300.0,16.0,28.4,clear
+1265,Lentil(Masur),Medinipur(West),2017-08-29,7000.0,1.5,28.4,clear
+1266,Arhar (Tur/Red Gram),Medinipur(West),2017-08-30,8200.0,10.0,31.4,clear
+1267,Bengal Gram(Gram),Medinipur(West),2017-08-30,7000.0,12.0,31.4,clear
+1268,Black Gram (Urd Beans),Medinipur(West),2017-08-30,8300.0,15.0,31.4,clear
+1269,Lentil(Masur),Medinipur(West),2017-08-30,7000.0,14.0,31.4,clear
+1270,Arhar (Tur/Red Gram),Medinipur(West),2017-08-31,8200.0,12.0,29.0,clear
+1271,Bengal Gram(Gram),Medinipur(West),2017-08-31,7000.0,14.0,29.0,clear
+1272,Black Gram (Urd Beans),Medinipur(West),2017-08-31,8300.0,16.0,29.0,clear
+1273,Lentil(Masur),Medinipur(West),2017-08-31,7000.0,15.0,29.0,clear
+1274,Arhar (Tur/Red Gram),Medinipur(West),2017-01-09,8200.0,14.0,26.4,clear
+1275,Bengal Gram(Gram),Medinipur(West),2017-01-09,7000.0,15.0,26.4,clear
+1276,Black Gram (Urd Beans),Medinipur(West),2017-01-09,8300.0,15.0,26.4,clear
+1277,Lentil(Masur),Medinipur(West),2017-01-09,7000.0,16.0,26.4,clear
+1278,Arhar (Tur/Red Gram),Medinipur(West),2017-05-09,8000.0,12.0,30.8,clear
+1279,Bengal Gram(Gram),Medinipur(West),2017-05-09,7000.0,16.0,30.8,clear
+1280,Black Gram (Urd Beans),Medinipur(West),2017-05-09,8000.0,16.0,30.8,clear
+1281,Lentil(Masur),Medinipur(West),2017-05-09,7200.0,15.0,30.8,clear
+1282,Arhar (Tur/Red Gram),Medinipur(West),2017-06-09,8000.0,14.0,31.6,clear
+1283,Bengal Gram(Gram),Medinipur(West),2017-06-09,6600.0,15.0,31.6,clear
+1284,Black Gram (Urd Beans),Medinipur(West),2017-06-09,8000.0,14.0,31.6,clear
+1285,Lentil(Masur),Medinipur(West),2017-06-09,7500.0,13.0,31.6,clear
+1286,Arhar (Tur/Red Gram),Medinipur(West),2017-07-09,8000.0,15.0,31.4,clear
+1287,Bengal Gram(Gram),Medinipur(West),2017-07-09,6600.0,12.0,31.4,clear
+1288,Black Gram (Urd Beans),Medinipur(West),2017-07-09,8000.0,15.0,31.4,clear
+1289,Lentil(Masur),Medinipur(West),2017-07-09,7500.0,13.0,31.4,clear
+1290,Arhar (Tur/Red Gram),Medinipur(West),2017-08-09,8500.0,10.0,31.8,clear
+1291,Bengal Gram(Gram),Medinipur(West),2017-08-09,6600.0,14.0,31.8,clear
+1292,Black Gram (Urd Beans),Medinipur(West),2017-08-09,8000.0,14.0,31.8,clear
+1293,Lentil(Masur),Medinipur(West),2017-08-09,7500.0,12.0,31.8,clear
+1294,Arhar (Tur/Red Gram),Medinipur(West),2017-09-09,8500.0,12.0,31.8,clear
+1295,Bengal Gram(Gram),Medinipur(West),2017-09-09,6600.0,15.0,31.8,clear
+1296,Black Gram (Urd Beans),Medinipur(West),2017-09-09,8000.0,12.0,31.8,clear
+1297,Lentil(Masur),Medinipur(West),2017-09-09,7500.0,10.0,31.8,clear
+1298,Arhar (Tur/Red Gram),Medinipur(West),2017-11-09,8500.0,10.0,27.4,clear
+1299,Bengal Gram(Gram),Medinipur(West),2017-11-09,6600.0,14.0,27.4,clear
+1300,Black Gram (Urd Beans),Medinipur(West),2017-11-09,8000.0,10.0,27.4,clear
+1301,Lentil(Masur),Medinipur(West),2017-11-09,7500.0,12.0,27.4,clear
+1302,Arhar (Tur/Red Gram),Medinipur(West),2017-12-09,8500.0,12.0,20.4,rain
+1303,Bengal Gram(Gram),Medinipur(West),2017-12-09,6600.0,14.0,20.4,rain
+1304,Black Gram (Urd Beans),Medinipur(West),2017-12-09,8000.0,13.0,20.4,rain
+1305,Lentil(Masur),Medinipur(West),2017-12-09,7500.0,12.0,20.4,rain
+1306,Arhar (Tur/Red Gram),Medinipur(West),2017-09-13,8300.0,10.0,32.4,clear
+1307,Bengal Gram(Gram),Medinipur(West),2017-09-13,6400.0,15.0,32.4,clear
+1308,Black Gram (Urd Beans),Medinipur(West),2017-09-13,8000.0,12.0,32.4,clear
+1309,Lentil(Masur),Medinipur(West),2017-09-13,7200.0,10.0,32.4,clear
+1310,Arhar (Tur/Red Gram),Medinipur(West),2017-09-14,8300.0,12.0,32.8,clear
+1311,Bengal Gram(Gram),Medinipur(West),2017-09-14,6400.0,14.0,32.8,clear
+1312,Black Gram (Urd Beans),Medinipur(West),2017-09-14,8000.0,15.0,32.8,clear
+1313,Lentil(Masur),Medinipur(West),2017-09-14,7200.0,12.0,32.8,clear
+1314,Arhar (Tur/Red Gram),Medinipur(West),2017-09-15,8300.0,14.0,29.0,rain
+1315,Bengal Gram(Gram),Medinipur(West),2017-09-15,6400.0,16.0,29.0,rain
+1316,Black Gram (Urd Beans),Medinipur(West),2017-09-15,8000.0,12.0,29.0,rain
+1317,Lentil(Masur),Medinipur(West),2017-09-15,7200.0,14.0,29.0,rain
+1318,Arhar (Tur/Red Gram),Medinipur(West),2017-09-17,8300.0,15.0,30.0,clear
+1319,Bengal Gram(Gram),Medinipur(West),2017-09-17,6400.0,15.0,30.0,clear
+1320,Black Gram (Urd Beans),Medinipur(West),2017-09-17,8000.0,14.0,30.0,clear
+1321,Lentil(Masur),Medinipur(West),2017-09-17,7200.0,16.0,30.0,clear
+1322,Arhar (Tur/Red Gram),Medinipur(West),2017-09-18,8000.0,14.0,27.4,rain
+1323,Bengal Gram(Gram),Medinipur(West),2017-09-18,6400.0,12.0,27.4,rain
+1324,Black Gram (Urd Beans),Medinipur(West),2017-09-18,7500.0,12.0,27.4,rain
+1325,Lentil(Masur),Medinipur(West),2017-09-18,7500.0,15.0,27.4,rain
+1326,Arhar (Tur/Red Gram),Medinipur(West),2017-09-19,8000.0,12.0,27.0,rain
+1327,Bengal Gram(Gram),Medinipur(West),2017-09-19,6400.0,14.0,27.0,rain
+1328,Black Gram (Urd Beans),Medinipur(West),2017-09-19,7500.0,10.0,27.0,rain
+1329,Lentil(Masur),Medinipur(West),2017-09-19,7500.0,14.0,27.0,rain
+1330,Arhar (Tur/Red Gram),Medinipur(West),2017-09-20,8000.0,14.0,29.4,clear
+1331,Bengal Gram(Gram),Medinipur(West),2017-09-20,6400.0,15.0,29.4,clear
+1332,Black Gram (Urd Beans),Medinipur(West),2017-09-20,7500.0,12.0,29.4,clear
+1333,Lentil(Masur),Medinipur(West),2017-09-20,7500.0,15.0,29.4,clear
+1334,Arhar (Tur/Red Gram),Medinipur(West),2017-09-21,8000.0,15.0,30.8,clear
+1335,Bengal Gram(Gram),Medinipur(West),2017-09-21,7000.0,12.0,30.8,clear
+1336,Black Gram (Urd Beans),Medinipur(West),2017-09-21,7500.0,13.0,30.8,clear
+1337,Lentil(Masur),Medinipur(West),2017-09-21,8000.0,14.0,30.8,clear
+1338,Arhar (Tur/Red Gram),Medinipur(West),2017-09-22,8000.0,12.0,32.2,clear
+1339,Bengal Gram(Gram),Medinipur(West),2017-09-22,7000.0,10.0,32.2,clear
+1340,Black Gram (Urd Beans),Medinipur(West),2017-09-22,7500.0,14.0,32.2,clear
+1341,Lentil(Masur),Medinipur(West),2017-09-22,8000.0,13.0,32.2,clear
+1342,Arhar (Tur/Red Gram),Medinipur(West),2017-09-23,8000.0,14.0,32.4,clear
+1343,Bengal Gram(Gram),Medinipur(West),2017-09-23,7000.0,12.0,32.4,clear
+1344,Black Gram (Urd Beans),Medinipur(West),2017-09-23,7500.0,12.0,32.4,clear
+1345,Lentil(Masur),Medinipur(West),2017-09-23,8000.0,12.0,32.4,clear
+1346,Arhar (Tur/Red Gram),Medinipur(West),2017-09-25,8000.0,12.0,33.0,clear
+1347,Bengal Gram(Gram),Medinipur(West),2017-09-25,7000.0,14.0,33.0,clear
+1348,Black Gram (Urd Beans),Medinipur(West),2017-09-25,7500.0,13.0,33.0,clear
+1349,Lentil(Masur),Medinipur(West),2017-09-25,7500.0,15.0,33.0,clear
+1350,Arhar (Tur/Red Gram),Medinipur(West),2017-09-26,8000.0,14.0,32.4,clear
+1351,Bengal Gram(Gram),Medinipur(West),2017-09-26,7000.0,14.0,32.4,clear
+1352,Black Gram (Urd Beans),Medinipur(West),2017-09-26,7500.0,10.0,32.4,clear
+1353,Lentil(Masur),Medinipur(West),2017-09-26,7500.0,16.0,32.4,clear
+1354,Arhar (Tur/Red Gram),Medinipur(West),2017-09-27,8000.0,15.0,30.4,clear
+1355,Bengal Gram(Gram),Medinipur(West),2017-09-27,7000.0,14.0,30.4,clear
+1356,Black Gram (Urd Beans),Medinipur(West),2017-09-27,7500.0,10.0,30.4,clear
+1357,Lentil(Masur),Medinipur(West),2017-09-27,7500.0,18.0,30.4,clear
+1358,Arhar (Tur/Red Gram),Medinipur(West),2017-09-28,8000.0,14.0,31.8,clear
+1359,Bengal Gram(Gram),Medinipur(West),2017-09-28,7000.0,12.0,31.8,clear
+1360,Black Gram (Urd Beans),Medinipur(West),2017-09-28,7500.0,12.0,31.8,clear
+1361,Lentil(Masur),Medinipur(West),2017-09-28,7500.0,16.0,31.8,clear
+1362,Arhar (Tur/Red Gram),Medinipur(West),2017-09-29,8000.0,12.0,29.4,rain
+1363,Bengal Gram(Gram),Medinipur(West),2017-09-29,7000.0,14.0,29.4,rain
+1364,Black Gram (Urd Beans),Medinipur(West),2017-09-29,7500.0,11.0,29.4,rain
+1365,Lentil(Masur),Medinipur(West),2017-09-29,7500.0,14.0,29.4,rain
+1366,Arhar (Tur/Red Gram),Medinipur(West),2017-09-30,8000.0,14.0,27.4,clear
+1367,Bengal Gram(Gram),Medinipur(West),2017-09-30,7000.0,12.0,27.4,clear
+1368,Black Gram (Urd Beans),Medinipur(West),2017-09-30,7500.0,12.0,27.4,clear
+1369,Lentil(Masur),Medinipur(West),2017-09-30,7500.0,12.0,27.4,clear
+1370,Arhar (Tur/Red Gram),Medinipur(West),2017-03-10,8200.0,14.0,23.4,rain
+1371,Bengal Gram(Gram),Medinipur(West),2017-03-10,6800.0,12.0,23.4,rain
+1372,Black Gram (Urd Beans),Medinipur(West),2017-03-10,7800.0,14.0,23.4,rain
+1373,Lentil(Masur),Medinipur(West),2017-03-10,7500.0,14.0,23.4,rain
+1374,Arhar (Tur/Red Gram),Medinipur(West),2017-05-10,8200.0,14.0,36.8,clear
+1375,Bengal Gram(Gram),Medinipur(West),2017-05-10,6800.0,12.0,36.8,clear
+1376,Black Gram (Urd Beans),Medinipur(West),2017-05-10,7800.0,15.0,36.8,clear
+1377,Lentil(Masur),Medinipur(West),2017-05-10,7500.0,12.0,36.8,clear
+1378,Arhar (Tur/Red Gram),Medinipur(West),2017-06-10,8200.0,12.0,31.8,clear
+1379,Bengal Gram(Gram),Medinipur(West),2017-06-10,6800.0,14.0,31.8,clear
+1380,Black Gram (Urd Beans),Medinipur(West),2017-06-10,7800.0,14.0,31.8,clear
+1381,Lentil(Masur),Medinipur(West),2017-06-10,7500.0,14.0,31.8,clear
+1382,Arhar (Tur/Red Gram),Medinipur(West),2017-07-10,8200.0,10.0,30.8,clear
+1383,Bengal Gram(Gram),Medinipur(West),2017-07-10,6800.0,12.0,30.8,clear
+1384,Black Gram (Urd Beans),Medinipur(West),2017-07-10,7800.0,16.0,30.8,clear
+1385,Lentil(Masur),Medinipur(West),2017-07-10,7500.0,12.0,30.8,clear
+1386,Arhar (Tur/Red Gram),Medinipur(West),2017-09-10,7500.0,12.0,29.4,rain
+1387,Bengal Gram(Gram),Medinipur(West),2017-09-10,6800.0,14.0,29.4,rain
+1388,Black Gram (Urd Beans),Medinipur(West),2017-09-10,7500.0,14.0,29.4,rain
+1389,Lentil(Masur),Medinipur(West),2017-09-10,7500.0,14.0,29.4,rain
+1390,Arhar (Tur/Red Gram),Medinipur(West),2017-10-10,7500.0,10.0,28.4,clear
+1391,Bengal Gram(Gram),Medinipur(West),2017-10-10,6800.0,12.0,28.4,clear
+1392,Black Gram (Urd Beans),Medinipur(West),2017-10-10,7500.0,16.0,28.4,clear
+1393,Lentil(Masur),Medinipur(West),2017-10-10,7500.0,12.0,28.4,clear
+1394,Arhar (Tur/Red Gram),Medinipur(West),2017-11-10,7500.0,12.0,27.4,clear
+1395,Bengal Gram(Gram),Medinipur(West),2017-11-10,6800.0,12.0,27.4,clear
+1396,Black Gram (Urd Beans),Medinipur(West),2017-11-10,7500.0,15.0,27.4,clear
+1397,Lentil(Masur),Medinipur(West),2017-11-10,7500.0,13.0,27.4,clear
+1398,Arhar (Tur/Red Gram),Medinipur(West),2017-12-10,7500.0,14.0,23.0,clear
+1399,Bengal Gram(Gram),Medinipur(West),2017-12-10,6800.0,12.0,23.0,clear
+1400,Black Gram (Urd Beans),Medinipur(West),2017-12-10,7500.0,14.0,23.0,clear
+1401,Lentil(Masur),Medinipur(West),2017-12-10,7500.0,14.0,23.0,clear
+1402,Arhar (Tur/Red Gram),Medinipur(West),2017-10-13,7500.0,12.0,29.0,rain
+1403,Bengal Gram(Gram),Medinipur(West),2017-10-13,6800.0,10.0,29.0,rain
+1404,Black Gram (Urd Beans),Medinipur(West),2017-10-13,7500.0,12.0,29.0,rain
+1405,Lentil(Masur),Medinipur(West),2017-10-13,7500.0,12.0,29.0,rain
+1406,Arhar (Tur/Red Gram),Medinipur(West),2017-10-14,7500.0,14.0,30.0,clear
+1407,Bengal Gram(Gram),Medinipur(West),2017-10-14,6800.0,12.0,30.0,clear
+1408,Black Gram (Urd Beans),Medinipur(West),2017-10-14,7500.0,15.0,30.0,clear
+1409,Lentil(Masur),Medinipur(West),2017-10-14,7500.0,14.0,30.0,clear
+1410,Arhar (Tur/Red Gram),Medinipur(West),2017-10-16,7500.0,15.0,31.2,clear
+1411,Bengal Gram(Gram),Medinipur(West),2017-10-16,6800.0,10.0,31.2,clear
+1412,Black Gram (Urd Beans),Medinipur(West),2017-10-16,7500.0,12.0,31.2,clear
+1413,Lentil(Masur),Medinipur(West),2017-10-16,7500.0,12.0,31.2,clear
+1414,Arhar (Tur/Red Gram),Medinipur(West),2017-10-17,7500.0,10.0,30.4,clear
+1415,Bengal Gram(Gram),Medinipur(West),2017-10-17,6800.0,12.0,30.4,clear
+1416,Black Gram (Urd Beans),Medinipur(West),2017-10-17,7500.0,14.0,30.4,clear
+1417,Lentil(Masur),Medinipur(West),2017-10-17,7500.0,14.0,30.4,clear
+1418,Arhar (Tur/Red Gram),Medinipur(West),2017-10-18,7500.0,12.0,27.8,rain
+1419,Bengal Gram(Gram),Medinipur(West),2017-10-18,7200.0,10.0,27.8,rain
+1420,Black Gram (Urd Beans),Medinipur(West),2017-10-18,7800.0,12.0,27.8,rain
+1421,Lentil(Masur),Medinipur(West),2017-10-18,7200.0,12.0,27.8,rain
+1422,Arhar (Tur/Red Gram),Medinipur(West),2017-10-19,7500.0,10.0,27.4,clear
+1423,Bengal Gram(Gram),Medinipur(West),2017-10-19,7200.0,14.0,27.4,clear
+1424,Black Gram (Urd Beans),Medinipur(West),2017-10-19,7800.0,14.0,27.4,clear
+1425,Lentil(Masur),Medinipur(West),2017-10-19,7200.0,15.0,27.4,clear
+1426,Arhar (Tur/Red Gram),Medinipur(West),2017-10-20,7500.0,14.0,25.8,rain
+1427,Bengal Gram(Gram),Medinipur(West),2017-10-20,7200.0,12.0,25.8,rain
+1428,Black Gram (Urd Beans),Medinipur(West),2017-10-20,7800.0,15.0,25.8,rain
+1429,Lentil(Masur),Medinipur(West),2017-10-20,7200.0,16.0,25.8,rain
+1430,Arhar (Tur/Red Gram),Medinipur(West),2017-10-21,7200.0,16.0,24.8,rain
+1431,Bengal Gram(Gram),Medinipur(West),2017-10-21,7200.0,10.0,24.8,rain
+1432,Black Gram (Urd Beans),Medinipur(West),2017-10-21,7800.0,14.0,24.8,rain
+1433,Lentil(Masur),Medinipur(West),2017-10-21,7200.0,14.0,24.8,rain
+1434,Arhar (Tur/Red Gram),Medinipur(West),2017-10-23,7200.0,14.0,30.8,clear
+1435,Bengal Gram(Gram),Medinipur(West),2017-10-23,7000.0,12.0,30.8,clear
+1436,Black Gram (Urd Beans),Medinipur(West),2017-10-23,7800.0,15.0,30.8,clear
+1437,Lentil(Masur),Medinipur(West),2017-10-23,7200.0,15.0,30.8,clear
+1438,Arhar (Tur/Red Gram),Medinipur(West),2017-10-24,7200.0,12.0,30.8,clear
+1439,Bengal Gram(Gram),Medinipur(West),2017-10-24,7000.0,14.0,30.8,clear
+1440,Black Gram (Urd Beans),Medinipur(West),2017-10-24,7800.0,14.0,30.8,clear
+1441,Lentil(Masur),Medinipur(West),2017-10-24,7200.0,14.0,30.8,clear
+1442,Arhar (Tur/Red Gram),Medinipur(West),2017-10-25,7200.0,10.0,27.0,rain
+1443,Bengal Gram(Gram),Medinipur(West),2017-10-25,7000.0,16.0,27.0,rain
+1444,Black Gram (Urd Beans),Medinipur(West),2017-10-25,7800.0,12.0,27.0,rain
+1445,Lentil(Masur),Medinipur(West),2017-10-25,7200.0,15.0,27.0,rain
+1446,Arhar (Tur/Red Gram),Medinipur(West),2017-10-26,7200.0,2.6,29.4,clear
+1447,Bengal Gram(Gram),Medinipur(West),2017-10-26,7000.0,10.0,29.4,clear
+1448,Black Gram (Urd Beans),Medinipur(West),2017-10-26,7800.0,14.0,29.4,clear
+1449,Lentil(Masur),Medinipur(West),2017-10-26,7200.0,12.0,29.4,clear
+1450,Arhar (Tur/Red Gram),Medinipur(West),2017-10-27,7200.0,15.0,27.4,clear
+1451,Bengal Gram(Gram),Medinipur(West),2017-10-27,7000.0,15.0,27.4,clear
+1452,Black Gram (Urd Beans),Medinipur(West),2017-10-27,7800.0,14.0,27.4,clear
+1453,Lentil(Masur),Medinipur(West),2017-10-27,7200.0,18.0,27.4,clear
+1454,Arhar (Tur/Red Gram),Medinipur(West),2017-10-28,7200.0,10.0,28.6,clear
+1455,Bengal Gram(Gram),Medinipur(West),2017-10-28,7000.0,12.0,28.6,clear
+1456,Black Gram (Urd Beans),Medinipur(West),2017-10-28,7800.0,14.0,28.6,clear
+1457,Lentil(Masur),Medinipur(West),2017-10-28,7200.0,15.0,28.6,clear
+1458,Arhar (Tur/Red Gram),Medinipur(West),2017-10-31,7500.0,12.0,25.4,clear
+1459,Bengal Gram(Gram),Medinipur(West),2017-10-31,6500.0,18.0,25.4,clear
+1460,Black Gram (Urd Beans),Medinipur(West),2017-10-31,7000.0,12.0,25.4,clear
+1461,Lentil(Masur),Medinipur(West),2017-10-31,7500.0,14.0,25.4,clear
+1462,Arhar (Tur/Red Gram),Medinipur(West),2017-01-11,7500.0,10.0,23.0,clear
+1463,Bengal Gram(Gram),Medinipur(West),2017-01-11,6500.0,12.0,23.0,clear
+1464,Black Gram (Urd Beans),Medinipur(West),2017-01-11,7000.0,10.0,23.0,clear
+1465,Lentil(Masur),Medinipur(West),2017-01-11,7500.0,12.0,23.0,clear
+1466,Arhar (Tur/Red Gram),Medinipur(West),2017-02-11,7500.0,15.0,26.4,clear
+1467,Bengal Gram(Gram),Medinipur(West),2017-02-11,6500.0,10.0,26.4,clear
+1468,Black Gram (Urd Beans),Medinipur(West),2017-02-11,7500.0,14.0,26.4,clear
+1469,Lentil(Masur),Medinipur(West),2017-02-11,7500.0,10.0,26.4,clear
+1470,Arhar (Tur/Red Gram),Medinipur(West),2017-03-11,7500.0,14.0,24.4,clear
+1471,Bengal Gram(Gram),Medinipur(West),2017-03-11,6500.0,10.0,24.4,clear
+1472,Black Gram (Urd Beans),Medinipur(West),2017-03-11,7500.0,16.0,24.4,clear
+1473,Lentil(Masur),Medinipur(West),2017-03-11,7500.0,10.0,24.4,clear

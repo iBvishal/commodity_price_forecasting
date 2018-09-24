@@ -1,0 +1,2068 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2015-12-10,7200.0,3.0,16.0,clear
+1,Arhar (Tur/Red Gram),Kannauj,2015-12-10,7350.0,2.0,16.0,clear
+2,Bengal Gram(Gram),Chhibramau(Kannuj),2015-12-10,4800.0,3.2,16.0,clear
+3,Bengal Gram(Gram),Kannauj,2015-12-10,4850.0,1.8,16.0,clear
+4,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2015-11-18,7800.0,1.4,17.8,clear
+5,Arhar (Tur/Red Gram),Kannauj,2015-11-18,8010.0,1.8,17.8,clear
+6,Bengal Gram(Gram),Chhibramau(Kannuj),2015-11-18,5400.0,1.8,17.8,clear
+7,Bengal Gram(Gram),Kannauj,2015-11-18,5050.0,2.8,17.8,clear
+8,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2015-12-12,8100.0,1.7,19.8,clear
+9,Bengal Gram(Gram),Chhibramau(Kannuj),2015-12-12,5150.0,2.0,19.8,clear
+10,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2015-12-14,8100.0,1.5,19.0,clear
+11,Bengal Gram(Gram),Chhibramau(Kannuj),2015-12-14,5150.0,2.2,19.0,clear
+12,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2015-12-15,8100.0,1.6,19.4,clear
+13,Bengal Gram(Gram),Chhibramau(Kannuj),2015-12-15,5150.0,2.5,19.4,clear
+14,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2015-12-19,8100.0,1.4,19.0,clear
+15,Arhar (Tur/Red Gram),Kannauj,2015-12-19,8350.0,3.0,19.0,clear
+16,Bengal Gram(Gram),Chhibramau(Kannuj),2015-12-19,5200.0,2.4,19.0,clear
+17,Bengal Gram(Gram),Kannauj,2015-12-19,4950.0,2.0,19.0,clear
+18,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2015-12-20,8100.0,1.7,18.0,clear
+19,Bengal Gram(Gram),Chhibramau(Kannuj),2015-12-20,5200.0,3.0,18.0,clear
+20,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2015-12-21,8100.0,1.9,18.0,clear
+21,Bengal Gram(Gram),Chhibramau(Kannuj),2015-12-21,5200.0,2.7,18.0,clear
+22,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2015-12-22,8200.0,2.0,19.0,clear
+23,Bengal Gram(Gram),Chhibramau(Kannuj),2015-12-22,5200.0,3.2,19.0,clear
+24,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2015-12-23,8100.0,1.6,18.6,clear
+25,Arhar (Tur/Red Gram),Kannauj,2015-12-23,8250.0,3.3,18.6,clear
+26,Bengal Gram(Gram),Chhibramau(Kannuj),2015-12-23,5200.0,2.0,18.6,clear
+27,Bengal Gram(Gram),Kannauj,2015-12-23,4960.0,2.5,18.6,clear
+28,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2015-12-25,8000.0,1.5,18.0,clear
+29,Arhar (Tur/Red Gram),Kannauj,2015-12-25,8270.0,3.5,18.0,clear
+30,Bengal Gram(Gram),Chhibramau(Kannuj),2015-12-25,5200.0,2.5,18.0,clear
+31,Bengal Gram(Gram),Kannauj,2015-12-25,4970.0,2.4,18.0,clear
+32,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2015-12-26,8000.0,1.7,20.0,clear
+33,Arhar (Tur/Red Gram),Kannauj,2015-12-26,8270.0,4.0,20.0,clear
+34,Bengal Gram(Gram),Chhibramau(Kannuj),2015-12-26,5200.0,2.7,20.0,clear
+35,Bengal Gram(Gram),Kannauj,2015-12-26,4970.0,2.7,20.0,clear
+36,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2015-12-27,7900.0,1.8,21.0,clear
+37,Arhar (Tur/Red Gram),Kannauj,2015-12-27,8275.0,4.2,21.0,clear
+38,Bengal Gram(Gram),Chhibramau(Kannuj),2015-12-27,5100.0,2.9,21.0,clear
+39,Bengal Gram(Gram),Kannauj,2015-12-27,4970.0,2.5,21.0,clear
+40,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2015-12-28,7800.0,1.4,11.8,clear
+41,Arhar (Tur/Red Gram),Kannauj,2015-12-28,8275.0,4.0,11.8,clear
+42,Bengal Gram(Gram),Chhibramau(Kannuj),2015-12-28,5000.0,2.4,11.8,clear
+43,Bengal Gram(Gram),Kannauj,2015-12-28,4980.0,2.0,11.8,clear
+44,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2015-12-29,7800.0,1.7,22.4,clear
+45,Bengal Gram(Gram),Chhibramau(Kannuj),2015-12-29,5000.0,2.6,22.4,clear
+46,Arhar (Tur/Red Gram),Kannauj,2015-12-07,6400.0,1.0,22.2,clear
+47,Bengal Gram(Gram),Kannauj,2015-12-07,4900.0,1.2,22.2,clear
+48,Arhar (Tur/Red Gram),Kannauj,2015-12-08,6550.0,1.3,22.8,clear
+49,Bengal Gram(Gram),Kannauj,2015-12-08,4860.0,1.3,22.8,clear
+50,Arhar (Tur/Red Gram),Kannauj,2015-12-09,6650.0,2.0,22.4,clear
+51,Bengal Gram(Gram),Kannauj,2015-12-09,4820.0,2.0,22.4,clear
+52,Arhar (Tur/Red Gram),Kannauj,2015-12-16,8350.0,3.2,19.0,clear
+53,Bengal Gram(Gram),Kannauj,2015-12-16,4900.0,2.7,19.0,clear
+54,Arhar (Tur/Red Gram),Kannauj,2015-12-17,8350.0,3.0,19.0,clear
+55,Bengal Gram(Gram),Kannauj,2015-12-17,4900.0,2.5,19.0,clear
+56,Arhar (Tur/Red Gram),Kannauj,2015-12-18,8350.0,3.2,10.2,clear
+57,Bengal Gram(Gram),Kannauj,2015-12-18,4900.0,2.2,10.2,clear
+58,Arhar (Tur/Red Gram),Kannauj,2015-12-24,8270.0,3.0,18.2,clear
+59,Bengal Gram(Gram),Kannauj,2015-12-24,4960.0,2.8,18.2,clear
+60,Arhar (Tur/Red Gram),Kannauj,2015-12-30,8000.0,5.0,20.0,clear
+61,Bengal Gram(Gram),Kannauj,2015-12-30,5000.0,1.8,20.0,clear
+62,Arhar (Tur/Red Gram),Kannauj,2015-12-31,8000.0,4.5,21.6,clear
+63,Bengal Gram(Gram),Kannauj,2015-12-31,5000.0,2.3,21.6,clear
+64,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-01-18,7800.0,7.0,17.0,clear
+65,Arhar (Tur/Red Gram),Kannauj,2016-01-18,8100.0,2.5,17.0,clear
+66,Bengal Gram(Gram),Chhibramau(Kannuj),2016-01-18,5000.0,4.0,17.0,clear
+67,Bengal Gram(Gram),Kannauj,2016-01-18,5000.0,2.2,17.0,clear
+68,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-01-20,7900.0,5.0,16.0,clear
+69,Arhar (Tur/Red Gram),Kannauj,2016-01-20,8110.0,2.2,16.0,clear
+70,Bengal Gram(Gram),Kannauj,2016-01-20,5020.0,2.0,16.0,clear
+71,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-01-22,7780.0,4.0,15.0,clear
+72,Arhar (Tur/Red Gram),Kannauj,2016-01-22,8110.0,1.8,15.0,clear
+73,Bengal Gram(Gram),Chhibramau(Kannuj),2016-01-22,5030.0,3.5,15.0,clear
+74,Bengal Gram(Gram),Kannauj,2016-01-22,5020.0,2.2,15.0,clear
+75,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-01-23,7850.0,5.0,17.8,clear
+76,Arhar (Tur/Red Gram),Kannauj,2016-01-23,8000.0,3.0,17.8,clear
+77,Bengal Gram(Gram),Chhibramau(Kannuj),2016-01-23,5030.0,2.5,17.8,clear
+78,Bengal Gram(Gram),Kannauj,2016-01-23,5000.0,3.0,17.8,clear
+79,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-01-24,7800.0,3.0,20.0,clear
+80,Arhar (Tur/Red Gram),Kannauj,2016-01-24,8000.0,3.2,20.0,clear
+81,Bengal Gram(Gram),Chhibramau(Kannuj),2016-01-24,5040.0,3.5,20.0,clear
+82,Bengal Gram(Gram),Kannauj,2016-01-24,5020.0,3.5,20.0,clear
+83,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-01-25,7850.0,5.0,20.4,clear
+84,Arhar (Tur/Red Gram),Kannauj,2016-01-25,8000.0,3.0,20.4,clear
+85,Bengal Gram(Gram),Chhibramau(Kannuj),2016-01-25,5050.0,4.0,20.4,clear
+86,Bengal Gram(Gram),Kannauj,2016-01-25,5020.0,3.6,20.4,clear
+87,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-01-29,8000.0,4.5,22.6,clear
+88,Arhar (Tur/Red Gram),Kannauj,2016-01-29,7900.0,2.5,22.6,clear
+89,Bengal Gram(Gram),Chhibramau(Kannuj),2016-01-29,5010.0,3.5,22.6,clear
+90,Bengal Gram(Gram),Kannauj,2016-01-29,5020.0,3.0,22.6,clear
+91,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-01-02,8000.0,4.0,20.8,clear
+92,Arhar (Tur/Red Gram),Kannauj,2016-01-02,7900.0,1.5,20.8,clear
+93,Bengal Gram(Gram),Chhibramau(Kannuj),2016-01-02,5040.0,4.5,20.8,clear
+94,Bengal Gram(Gram),Kannauj,2016-01-02,5010.0,3.3,20.8,clear
+95,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-02-02,8050.0,3.0,21.4,clear
+96,Bengal Gram(Gram),Chhibramau(Kannuj),2016-02-02,5030.0,4.0,21.4,clear
+97,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-06-02,8100.0,16.5,37.2,clear
+98,Arhar (Tur/Red Gram),Kannauj,2016-06-02,7800.0,1.6,37.2,clear
+99,Bengal Gram(Gram),Chhibramau(Kannuj),2016-06-02,5000.0,5.0,37.2,clear
+100,Bengal Gram(Gram),Kannauj,2016-06-02,4950.0,3.2,37.2,clear
+101,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-07-02,8100.0,17.5,27.2,clear
+102,Arhar (Tur/Red Gram),Kannauj,2016-07-02,7800.0,1.5,27.2,clear
+103,Bengal Gram(Gram),Chhibramau(Kannuj),2016-07-02,5000.0,4.5,27.2,clear
+104,Bengal Gram(Gram),Kannauj,2016-07-02,4950.0,3.0,27.2,clear
+105,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-08-02,8050.0,16.0,30.6,clear
+106,Arhar (Tur/Red Gram),Kannauj,2016-08-02,7800.0,1.6,30.6,clear
+107,Bengal Gram(Gram),Chhibramau(Kannuj),2016-08-02,5000.0,4.5,30.6,clear
+108,Bengal Gram(Gram),Kannauj,2016-08-02,4950.0,3.1,30.6,clear
+109,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-09-02,8050.0,13.5,32.0,clear
+110,Bengal Gram(Gram),Chhibramau(Kannuj),2016-09-02,5050.0,5.5,32.0,clear
+111,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-10-02,8100.0,13.0,33.8,clear
+112,Arhar (Tur/Red Gram),Kannauj,2016-10-02,7800.0,1.5,33.8,clear
+113,Bengal Gram(Gram),Chhibramau(Kannuj),2016-10-02,5050.0,4.5,33.8,clear
+114,Bengal Gram(Gram),Kannauj,2016-10-02,4960.0,3.0,33.8,clear
+115,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-12-02,8050.0,17.0,24.8,clear
+116,Arhar (Tur/Red Gram),Kannauj,2016-12-02,7850.0,2.0,24.8,clear
+117,Bengal Gram(Gram),Chhibramau(Kannuj),2016-12-02,5060.0,5.0,24.8,clear
+118,Bengal Gram(Gram),Kannauj,2016-12-02,5000.0,2.5,24.8,clear
+119,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-02-13,8060.0,16.0,27.2,clear
+120,Arhar (Tur/Red Gram),Kannauj,2016-02-13,7850.0,1.8,27.2,clear
+121,Bengal Gram(Gram),Chhibramau(Kannuj),2016-02-13,5000.0,4.0,27.2,clear
+122,Bengal Gram(Gram),Kannauj,2016-02-13,4900.0,2.8,27.2,clear
+123,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-02-14,8000.0,15.0,25.2,clear
+124,Arhar (Tur/Red Gram),Kannauj,2016-02-14,7800.0,1.5,25.2,clear
+125,Bengal Gram(Gram),Chhibramau(Kannuj),2016-02-14,5050.0,3.0,25.2,clear
+126,Bengal Gram(Gram),Kannauj,2016-02-14,4900.0,2.5,25.2,clear
+127,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-02-15,8000.0,15.0,25.6,clear
+128,Arhar (Tur/Red Gram),Kannauj,2016-02-15,7800.0,1.7,25.6,clear
+129,Bengal Gram(Gram),Chhibramau(Kannuj),2016-02-15,5050.0,4.5,25.6,clear
+130,Bengal Gram(Gram),Kannauj,2016-02-15,4900.0,2.0,25.6,clear
+131,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-02-16,8100.0,9.0,25.2,clear
+132,Bengal Gram(Gram),Chhibramau(Kannuj),2016-02-16,5000.0,3.5,25.2,clear
+133,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-02-17,8060.0,8.0,26.6,clear
+134,Arhar (Tur/Red Gram),Kannauj,2016-02-17,7800.0,1.5,26.6,clear
+135,Bengal Gram(Gram),Chhibramau(Kannuj),2016-02-17,5030.0,4.0,26.6,clear
+136,Bengal Gram(Gram),Kannauj,2016-02-17,4900.0,2.2,26.6,clear
+137,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-02-22,8100.0,2.5,25.0,clear
+138,Arhar (Tur/Red Gram),Kannauj,2016-02-22,7850.0,1.0,25.0,clear
+139,Bengal Gram(Gram),Chhibramau(Kannuj),2016-02-22,5060.0,4.0,25.0,clear
+140,Bengal Gram(Gram),Kannauj,2016-02-22,4940.0,2.0,25.0,clear
+141,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-02-23,8000.0,3.0,26.6,clear
+142,Bengal Gram(Gram),Chhibramau(Kannuj),2016-02-23,5050.0,4.5,26.6,clear
+143,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-02-24,8050.0,2.5,28.0,clear
+144,Arhar (Tur/Red Gram),Kannauj,2016-02-24,7840.0,1.5,28.0,clear
+145,Bengal Gram(Gram),Chhibramau(Kannuj),2016-02-24,5000.0,5.0,28.0,clear
+146,Bengal Gram(Gram),Kannauj,2016-02-24,4950.0,1.8,28.0,clear
+147,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-02-27,7800.0,4.0,28.0,clear
+148,Arhar (Tur/Red Gram),Kannauj,2016-02-27,7890.0,1.2,28.0,clear
+149,Bengal Gram(Gram),Chhibramau(Kannuj),2016-02-27,5050.0,3.0,28.0,clear
+150,Bengal Gram(Gram),Kannauj,2016-02-27,4980.0,2.0,28.0,clear
+151,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-01-03,7800.0,4.0,10.4,clear
+152,Bengal Gram(Gram),Chhibramau(Kannuj),2016-01-03,5025.0,5.0,10.4,clear
+153,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-02-03,7850.0,3.5,20.0,clear
+154,Bengal Gram(Gram),Chhibramau(Kannuj),2016-02-03,5025.0,4.0,20.0,clear
+155,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-04-03,7850.0,4.0,37.6,clear
+156,Arhar (Tur/Red Gram),Kannauj,2016-04-03,7850.0,3.5,37.6,clear
+157,Bengal Gram(Gram),Chhibramau(Kannuj),2016-04-03,5025.0,5.0,37.6,clear
+158,Bengal Gram(Gram),Kannauj,2016-04-03,4990.0,2.5,37.6,clear
+159,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-05-03,7800.0,5.0,37.2,clear
+160,Bengal Gram(Gram),Chhibramau(Kannuj),2016-05-03,5000.0,6.0,37.2,clear
+161,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-06-03,7800.0,5.0,38.8,clear
+162,Arhar (Tur/Red Gram),Kannauj,2016-06-03,7850.0,3.3,38.8,clear
+163,Bengal Gram(Gram),Chhibramau(Kannuj),2016-06-03,5000.0,3.5,38.8,clear
+164,Bengal Gram(Gram),Kannauj,2016-06-03,4900.0,3.3,38.8,clear
+165,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-08-03,7800.0,6.0,33.4,clear
+166,Bengal Gram(Gram),Chhibramau(Kannuj),2016-08-03,5030.0,6.0,33.4,clear
+167,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-09-03,7800.0,5.0,32.8,clear
+168,Arhar (Tur/Red Gram),Kannauj,2016-09-03,7800.0,3.7,32.8,clear
+169,Bengal Gram(Gram),Chhibramau(Kannuj),2016-09-03,5000.0,5.0,32.8,clear
+170,Bengal Gram(Gram),Kannauj,2016-09-03,4900.0,3.2,32.8,clear
+171,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-11-03,7800.0,4.5,28.0,clear
+172,Arhar (Tur/Red Gram),Kannauj,2016-11-03,7780.0,3.2,28.0,clear
+173,Bengal Gram(Gram),Kannauj,2016-11-03,5000.0,2.5,28.0,clear
+174,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-12-03,7800.0,4.5,20.6,clear
+175,Arhar (Tur/Red Gram),Kannauj,2016-12-03,7780.0,3.5,20.6,clear
+176,Bengal Gram(Gram),Chhibramau(Kannuj),2016-12-03,5000.0,3.0,20.6,clear
+177,Bengal Gram(Gram),Kannauj,2016-12-03,5020.0,2.0,20.6,clear
+178,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-03-13,7850.0,30.0,30.4,clear
+179,Arhar (Tur/Red Gram),Kannauj,2016-03-13,7780.0,4.0,30.4,clear
+180,Bengal Gram(Gram),Chhibramau(Kannuj),2016-03-13,5000.0,3.5,30.4,clear
+181,Bengal Gram(Gram),Kannauj,2016-03-13,5020.0,2.8,30.4,clear
+182,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-03-14,7800.0,4.0,26.4,clear
+183,Arhar (Tur/Red Gram),Kannauj,2016-03-14,7700.0,4.5,26.4,clear
+184,Bengal Gram(Gram),Chhibramau(Kannuj),2016-03-14,5000.0,4.0,26.4,clear
+185,Bengal Gram(Gram),Kannauj,2016-03-14,5020.0,2.5,26.4,clear
+186,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-03-15,7830.0,5.0,29.6,clear
+187,Bengal Gram(Gram),Chhibramau(Kannuj),2016-03-15,5050.0,3.0,29.6,clear
+188,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-03-16,7830.0,4.5,29.2,clear
+189,Arhar (Tur/Red Gram),Kannauj,2016-03-16,7700.0,4.8,29.2,clear
+190,Bengal Gram(Gram),Chhibramau(Kannuj),2016-03-16,5000.0,4.0,29.2,clear
+191,Bengal Gram(Gram),Kannauj,2016-03-16,5020.0,2.0,29.2,clear
+192,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-03-18,7830.0,4.0,31.4,clear
+193,Arhar (Tur/Red Gram),Kannauj,2016-03-18,7700.0,5.0,31.4,clear
+194,Bengal Gram(Gram),Chhibramau(Kannuj),2016-03-18,5000.0,3.5,31.4,clear
+195,Bengal Gram(Gram),Kannauj,2016-03-18,5000.0,2.8,31.4,clear
+196,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-03-21,7800.0,3.5,30.6,clear
+197,Arhar (Tur/Red Gram),Kannauj,2016-03-21,7720.0,5.2,30.6,clear
+198,Bengal Gram(Gram),Chhibramau(Kannuj),2016-03-21,5050.0,4.0,30.6,clear
+199,Bengal Gram(Gram),Kannauj,2016-03-21,5000.0,2.5,30.6,clear
+200,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-03-22,7800.0,2.5,29.4,clear
+201,Bengal Gram(Gram),Chhibramau(Kannuj),2016-03-22,5050.0,4.0,29.4,clear
+202,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-03-25,7800.0,3.0,36.0,clear
+203,Arhar (Tur/Red Gram),Kannauj,2016-03-25,1610.0,12.5,36.0,clear
+204,Bengal Gram(Gram),Chhibramau(Kannuj),2016-03-25,5000.0,5.0,36.0,clear
+205,Bengal Gram(Gram),Kannauj,2016-03-25,5000.0,2.6,36.0,clear
+206,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-03-26,7800.0,3.5,35.4,clear
+207,Arhar (Tur/Red Gram),Kannauj,2016-03-26,7700.0,5.0,35.4,clear
+208,Bengal Gram(Gram),Chhibramau(Kannuj),2016-03-26,5000.0,4.5,35.4,clear
+209,Bengal Gram(Gram),Kannauj,2016-03-26,5000.0,2.8,35.4,clear
+210,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-03-27,7850.0,3.0,23.6,clear
+211,Arhar (Tur/Red Gram),Kannauj,2016-03-27,7710.0,5.2,23.6,clear
+212,Bengal Gram(Gram),Chhibramau(Kannuj),2016-03-27,5000.0,5.0,23.6,clear
+213,Bengal Gram(Gram),Kannauj,2016-03-27,5000.0,2.5,23.6,clear
+214,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-03-28,7850.0,2.5,32.0,clear
+215,Arhar (Tur/Red Gram),Kannauj,2016-03-28,7710.0,5.5,32.0,clear
+216,Bengal Gram(Gram),Chhibramau(Kannuj),2016-03-28,5050.0,4.0,32.0,clear
+217,Bengal Gram(Gram),Kannauj,2016-03-28,4950.0,2.7,32.0,clear
+218,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-03-29,7880.0,2.5,23.0,clear
+219,Bengal Gram(Gram),Chhibramau(Kannuj),2016-03-29,5100.0,4.0,23.0,clear
+220,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-03-30,7880.0,3.0,35.0,clear
+221,Arhar (Tur/Red Gram),Kannauj,2016-03-30,7710.0,5.3,35.0,clear
+222,Bengal Gram(Gram),Chhibramau(Kannuj),2016-03-30,5100.0,3.0,35.0,clear
+223,Bengal Gram(Gram),Kannauj,2016-03-30,4950.0,2.8,35.0,clear
+224,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-01-04,7800.0,5.5,20.6,clear
+225,Arhar (Tur/Red Gram),Kannauj,2016-01-04,7700.0,5.2,20.6,clear
+226,Bengal Gram(Gram),Chhibramau(Kannuj),2016-01-04,5100.0,3.5,20.6,clear
+227,Bengal Gram(Gram),Kannauj,2016-01-04,4950.0,2.6,20.6,clear
+228,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-02-04,7800.0,3.0,21.8,clear
+229,Arhar (Tur/Red Gram),Kannauj,2016-02-04,7700.0,5.0,21.8,clear
+230,Bengal Gram(Gram),Chhibramau(Kannuj),2016-02-04,5100.0,3.0,21.8,clear
+231,Bengal Gram(Gram),Kannauj,2016-02-04,4960.0,2.8,21.8,clear
+232,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-04-04,7850.0,2.5,37.2,clear
+233,Arhar (Tur/Red Gram),Kannauj,2016-04-04,7700.0,5.0,37.2,clear
+234,Bengal Gram(Gram),Chhibramau(Kannuj),2016-04-04,5050.0,4.0,37.2,clear
+235,Bengal Gram(Gram),Kannauj,2016-04-04,4950.0,2.0,37.2,clear
+236,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-06-04,7800.0,3.0,38.2,clear
+237,Arhar (Tur/Red Gram),Kannauj,2016-06-04,7700.0,5.2,38.2,clear
+238,Bengal Gram(Gram),Chhibramau(Kannuj),2016-06-04,5100.0,3.5,38.2,clear
+239,Bengal Gram(Gram),Kannauj,2016-06-04,4900.0,2.5,38.2,clear
+240,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-08-04,7850.0,2.5,34.4,clear
+241,Arhar (Tur/Red Gram),Kannauj,2016-08-04,7700.0,4.5,34.4,clear
+242,Bengal Gram(Gram),Chhibramau(Kannuj),2016-08-04,5000.0,3.5,34.4,clear
+243,Bengal Gram(Gram),Kannauj,2016-08-04,4950.0,2.0,34.4,clear
+244,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-09-04,7850.0,3.5,33.6,clear
+245,Arhar (Tur/Red Gram),Kannauj,2016-09-04,7750.0,4.2,33.6,clear
+246,Bengal Gram(Gram),Chhibramau(Kannuj),2016-09-04,5000.0,3.0,33.6,clear
+247,Bengal Gram(Gram),Kannauj,2016-09-04,5000.0,1.8,33.6,clear
+248,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-11-04,7850.0,2.5,28.6,clear
+249,Arhar (Tur/Red Gram),Kannauj,2016-11-04,7800.0,3.2,28.6,clear
+250,Bengal Gram(Gram),Chhibramau(Kannuj),2016-11-04,5100.0,2.5,28.6,clear
+251,Bengal Gram(Gram),Kannauj,2016-11-04,5000.0,1.5,28.6,clear
+252,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-12-04,7800.0,2.0,18.0,clear
+253,Bengal Gram(Gram),Chhibramau(Kannuj),2016-12-04,5150.0,2.5,18.0,clear
+254,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-04-13,7850.0,2.5,36.4,clear
+255,Bengal Gram(Gram),Chhibramau(Kannuj),2016-04-13,5000.0,4.0,36.4,clear
+256,Bengal Gram(Gram),Kannauj,2016-04-13,5000.0,1.2,36.4,clear
+257,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-04-18,7800.0,3.5,41.0,clear
+258,Arhar (Tur/Red Gram),Kannauj,2016-04-18,7950.0,2.5,41.0,clear
+259,Bengal Gram(Gram),Chhibramau(Kannuj),2016-04-18,5000.0,3.5,41.0,clear
+260,Bengal Gram(Gram),Kannauj,2016-04-18,5020.0,2.0,41.0,clear
+261,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-04-22,7800.0,3.0,40.4,clear
+262,Arhar (Tur/Red Gram),Kannauj,2016-04-22,8000.0,2.2,40.4,clear
+263,Bengal Gram(Gram),Chhibramau(Kannuj),2016-04-22,5100.0,4.0,40.4,clear
+264,Bengal Gram(Gram),Kannauj,2016-04-22,5060.0,1.7,40.4,clear
+265,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-04-23,7900.0,3.5,37.2,clear
+266,Arhar (Tur/Red Gram),Kannauj,2016-04-23,8050.0,2.0,37.2,clear
+267,Bengal Gram(Gram),Chhibramau(Kannuj),2016-04-23,5000.0,4.5,37.2,clear
+268,Bengal Gram(Gram),Kannauj,2016-04-23,5060.0,1.5,37.2,clear
+269,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-04-24,8000.0,2.0,37.4,clear
+270,Arhar (Tur/Red Gram),Kannauj,2016-04-24,8050.0,1.8,37.4,clear
+271,Bengal Gram(Gram),Chhibramau(Kannuj),2016-04-24,5100.0,4.0,37.4,clear
+272,Bengal Gram(Gram),Kannauj,2016-04-24,5100.0,1.0,37.4,clear
+273,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-04-25,8000.0,3.0,38.6,clear
+274,Arhar (Tur/Red Gram),Kannauj,2016-04-25,8050.0,1.5,38.6,clear
+275,Bengal Gram(Gram),Chhibramau(Kannuj),2016-04-25,5150.0,3.0,38.6,clear
+276,Bengal Gram(Gram),Kannauj,2016-04-25,5100.0,1.2,38.6,clear
+277,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-04-29,8000.0,2.5,40.4,clear
+278,Arhar (Tur/Red Gram),Kannauj,2016-04-29,8050.0,1.8,40.4,clear
+279,Bengal Gram(Gram),Chhibramau(Kannuj),2016-04-29,5100.0,3.5,40.4,clear
+280,Bengal Gram(Gram),Kannauj,2016-04-29,5150.0,1.0,40.4,clear
+281,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-04-30,8100.0,2.0,38.2,clear
+282,Arhar (Tur/Red Gram),Kannauj,2016-04-30,8050.0,2.0,38.2,clear
+283,Bengal Gram(Gram),Chhibramau(Kannuj),2016-04-30,5100.0,3.0,38.2,clear
+284,Bengal Gram(Gram),Kannauj,2016-04-30,5180.0,1.2,38.2,clear
+285,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-01-05,8100.0,3.0,22.0,clear
+286,Arhar (Tur/Red Gram),Kannauj,2016-01-05,8050.0,2.2,22.0,clear
+287,Bengal Gram(Gram),Chhibramau(Kannuj),2016-01-05,5100.0,3.0,22.0,clear
+288,Bengal Gram(Gram),Kannauj,2016-01-05,5150.0,1.0,22.0,clear
+289,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-02-05,8100.0,2.5,22.4,clear
+290,Arhar (Tur/Red Gram),Kannauj,2016-02-05,8050.0,2.0,22.4,clear
+291,Bengal Gram(Gram),Chhibramau(Kannuj),2016-02-05,5160.0,2.5,22.4,clear
+292,Bengal Gram(Gram),Kannauj,2016-02-05,5160.0,1.2,22.4,clear
+293,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-03-05,8150.0,2.0,20.0,clear
+294,Bengal Gram(Gram),Chhibramau(Kannuj),2016-03-05,5150.0,3.0,20.0,clear
+295,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-04-05,8100.0,3.0,37.8,clear
+296,Arhar (Tur/Red Gram),Kannauj,2016-04-05,8100.0,1.8,37.8,clear
+297,Bengal Gram(Gram),Chhibramau(Kannuj),2016-04-05,5150.0,2.5,37.8,clear
+298,Bengal Gram(Gram),Kannauj,2016-04-05,5165.0,1.0,37.8,clear
+299,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-06-05,8000.0,3.5,32.0,clear
+300,Arhar (Tur/Red Gram),Kannauj,2016-06-05,8150.0,2.0,32.0,clear
+301,Bengal Gram(Gram),Chhibramau(Kannuj),2016-06-05,5100.0,3.5,32.0,clear
+302,Bengal Gram(Gram),Kannauj,2016-06-05,5250.0,1.0,32.0,clear
+303,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-07-05,8000.0,4.0,30.6,clear
+304,Arhar (Tur/Red Gram),Kannauj,2016-07-05,8150.0,3.0,30.6,clear
+305,Bengal Gram(Gram),Kannauj,2016-07-05,5250.0,1.2,30.6,clear
+306,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-08-05,8200.0,3.5,35.0,clear
+307,Bengal Gram(Gram),Chhibramau(Kannuj),2016-08-05,5125.0,2.0,35.0,clear
+308,Bengal Gram(Gram),Kannauj,2016-08-05,5250.0,1.5,35.0,clear
+309,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-10-05,8100.0,3.5,29.0,rain
+310,Bengal Gram(Gram),Chhibramau(Kannuj),2016-10-05,5130.0,2.0,29.0,rain
+311,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-11-05,8200.0,3.0,27.4,clear
+312,Arhar (Tur/Red Gram),Kannauj,2016-11-05,8100.0,3.2,27.4,clear
+313,Bengal Gram(Gram),Chhibramau(Kannuj),2016-11-05,5150.0,2.5,27.4,clear
+314,Bengal Gram(Gram),Kannauj,2016-11-05,5250.0,1.5,27.4,clear
+315,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-05-15,8000.0,0.0,41.2,clear
+316,Arhar (Tur/Red Gram),Kannauj,2016-05-15,8250.0,3.0,41.2,clear
+317,Bengal Gram(Gram),Chhibramau(Kannuj),2016-05-15,5200.0,2.0,41.2,clear
+318,Bengal Gram(Gram),Kannauj,2016-05-15,5350.0,1.8,41.2,clear
+319,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-05-16,8100.0,3.5,43.0,clear
+320,Arhar (Tur/Red Gram),Kannauj,2016-05-16,8250.0,3.2,43.0,clear
+321,Bengal Gram(Gram),Chhibramau(Kannuj),2016-05-16,5200.0,2.5,43.0,clear
+322,Bengal Gram(Gram),Kannauj,2016-05-16,5350.0,2.2,43.0,clear
+323,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-05-17,8200.0,3.0,34.6,clear
+324,Bengal Gram(Gram),Chhibramau(Kannuj),2016-05-17,5100.0,3.0,34.6,clear
+325,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-05-20,8000.0,4.0,38.4,clear
+326,Arhar (Tur/Red Gram),Kannauj,2016-05-20,8300.0,3.3,38.4,clear
+327,Bengal Gram(Gram),Chhibramau(Kannuj),2016-05-20,5200.0,2.0,38.4,clear
+328,Bengal Gram(Gram),Kannauj,2016-05-20,5450.0,2.2,38.4,clear
+329,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-05-31,8200.0,2.0,36.6,clear
+330,Bengal Gram(Gram),Chhibramau(Kannuj),2016-05-31,5000.0,3.5,36.6,clear
+331,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-01-06,8100.0,2.5,23.2,clear
+332,Arhar (Tur/Red Gram),Kannauj,2016-01-06,8300.0,2.8,23.2,clear
+333,Bengal Gram(Gram),Chhibramau(Kannuj),2016-01-06,5100.0,3.0,23.2,clear
+334,Bengal Gram(Gram),Kannauj,2016-01-06,5300.0,4.0,23.2,clear
+335,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-08-07,8200.0,2.0,31.0,clear
+336,Arhar (Tur/Red Gram),Kannauj,2016-08-07,8650.0,3.0,31.0,clear
+337,Bengal Gram(Gram),Chhibramau(Kannuj),2016-08-07,5300.0,3.0,31.0,clear
+338,Bengal Gram(Gram),Kannauj,2016-08-07,6000.0,1.7,31.0,clear
+339,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-07-18,8100.0,3.0,31.0,clear
+340,Arhar (Tur/Red Gram),Kannauj,2016-07-18,8550.0,3.5,31.0,clear
+341,Bengal Gram(Gram),Chhibramau(Kannuj),2016-07-18,6300.0,2.5,31.0,clear
+342,Bengal Gram(Gram),Kannauj,2016-07-18,6400.0,1.5,31.0,clear
+343,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-08-13,8600.0,1.5,32.0,clear
+344,Arhar (Tur/Red Gram),Kannauj,2016-08-13,8720.0,2.4,32.0,clear
+345,Bengal Gram(Gram),Chhibramau(Kannuj),2016-08-13,8000.0,2.0,32.0,clear
+346,Bengal Gram(Gram),Kannauj,2016-08-13,7850.0,2.0,32.0,clear
+347,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-08-14,8600.0,2.0,31.0,clear
+348,Arhar (Tur/Red Gram),Kannauj,2016-08-14,8720.0,2.5,31.0,clear
+349,Bengal Gram(Gram),Chhibramau(Kannuj),2016-08-14,8000.0,1.5,31.0,clear
+350,Bengal Gram(Gram),Kannauj,2016-08-14,7850.0,1.8,31.0,clear
+351,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-08-16,8600.0,2.5,32.0,clear
+352,Bengal Gram(Gram),Chhibramau(Kannuj),2016-08-16,8000.0,2.5,32.0,clear
+353,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-08-28,8500.0,3.0,34.0,clear
+354,Bengal Gram(Gram),Chhibramau(Kannuj),2016-08-28,8100.0,2.0,34.0,clear
+355,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-08-29,8600.0,2.5,31.4,clear
+356,Arhar (Tur/Red Gram),Kannauj,2016-08-29,8550.0,3.2,31.4,clear
+357,Bengal Gram(Gram),Chhibramau(Kannuj),2016-08-29,8100.0,2.5,31.4,clear
+358,Bengal Gram(Gram),Kannauj,2016-08-29,7850.0,2.8,31.4,clear
+359,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-08-30,8600.0,2.5,33.8,clear
+360,Bengal Gram(Gram),Chhibramau(Kannuj),2016-08-30,8200.0,2.5,33.8,clear
+361,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-08-31,8600.0,2.0,32.0,clear
+362,Arhar (Tur/Red Gram),Kannauj,2016-08-31,8500.0,3.5,32.0,clear
+363,Bengal Gram(Gram),Chhibramau(Kannuj),2016-08-31,8100.0,2.0,32.0,clear
+364,Bengal Gram(Gram),Kannauj,2016-08-31,7900.0,2.0,32.0,clear
+365,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-04-09,8600.0,2.0,37.6,clear
+366,Arhar (Tur/Red Gram),Kannauj,2016-04-09,8350.0,3.0,37.6,clear
+367,Bengal Gram(Gram),Chhibramau(Kannuj),2016-04-09,8400.0,2.0,37.6,clear
+368,Bengal Gram(Gram),Kannauj,2016-04-09,7800.0,2.2,37.6,clear
+369,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-05-09,8400.0,1.5,37.0,clear
+370,Arhar (Tur/Red Gram),Kannauj,2016-05-09,8100.0,3.5,37.0,clear
+371,Bengal Gram(Gram),Chhibramau(Kannuj),2016-05-09,8200.0,1.5,37.0,clear
+372,Bengal Gram(Gram),Kannauj,2016-05-09,7600.0,3.0,37.0,clear
+373,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-06-09,8400.0,3.0,36.4,clear
+374,Bengal Gram(Gram),Chhibramau(Kannuj),2016-06-09,8200.0,3.0,36.4,clear
+375,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-07-09,8400.0,2.5,32.0,clear
+376,Arhar (Tur/Red Gram),Kannauj,2016-07-09,8000.0,3.8,32.0,clear
+377,Bengal Gram(Gram),Chhibramau(Kannuj),2016-07-09,8200.0,2.5,32.0,clear
+378,Bengal Gram(Gram),Kannauj,2016-07-09,7600.0,3.2,32.0,clear
+379,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-10-09,8300.0,2.5,31.4,clear
+380,Arhar (Tur/Red Gram),Kannauj,2016-10-09,8000.0,3.2,31.4,clear
+381,Bengal Gram(Gram),Chhibramau(Kannuj),2016-10-09,8300.0,2.5,31.4,clear
+382,Bengal Gram(Gram),Kannauj,2016-10-09,7680.0,3.0,31.4,clear
+383,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-11-09,8300.0,3.0,27.2,clear
+384,Arhar (Tur/Red Gram),Kannauj,2016-11-09,8000.0,3.0,27.2,clear
+385,Bengal Gram(Gram),Chhibramau(Kannuj),2016-11-09,8300.0,2.0,27.2,clear
+386,Bengal Gram(Gram),Kannauj,2016-11-09,7680.0,3.2,27.2,clear
+387,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-12-09,8300.0,2.0,18.6,clear
+388,Arhar (Tur/Red Gram),Kannauj,2016-12-09,8000.0,2.8,18.6,clear
+389,Bengal Gram(Gram),Chhibramau(Kannuj),2016-12-09,8400.0,3.0,18.6,clear
+390,Bengal Gram(Gram),Kannauj,2016-12-09,7680.0,3.0,18.6,clear
+391,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-09-13,8200.0,3.0,27.6,clear
+392,Bengal Gram(Gram),Chhibramau(Kannuj),2016-09-13,8400.0,2.5,27.6,clear
+393,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-09-14,8300.0,3.5,32.0,clear
+394,Arhar (Tur/Red Gram),Kannauj,2016-09-14,7900.0,3.0,32.0,clear
+395,Bengal Gram(Gram),Chhibramau(Kannuj),2016-09-14,8400.0,2.0,32.0,clear
+396,Bengal Gram(Gram),Kannauj,2016-09-14,7200.0,3.8,32.0,clear
+397,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-09-23,8400.0,2.5,27.6,rain
+398,Arhar (Tur/Red Gram),Kannauj,2016-09-23,7300.0,4.8,27.6,rain
+399,Bengal Gram(Gram),Chhibramau(Kannuj),2016-09-23,8300.0,3.5,27.6,rain
+400,Bengal Gram(Gram),Kannauj,2016-09-23,7000.0,3.5,27.6,rain
+401,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2016-09-24,8400.0,2.0,30.6,clear
+402,Arhar (Tur/Red Gram),Kannauj,2016-09-24,7300.0,5.5,30.6,clear
+403,Bengal Gram(Gram),Chhibramau(Kannuj),2016-09-24,8400.0,3.0,30.6,clear
+404,Bengal Gram(Gram),Kannauj,2016-09-24,7000.0,4.0,30.6,clear
+405,Arhar (Tur/Red Gram),Kannauj,2016-01-01,8000.0,4.2,22.4,clear
+406,Bengal Gram(Gram),Kannauj,2016-01-01,5000.0,2.0,22.4,clear
+407,Arhar (Tur/Red Gram),Kannauj,2016-02-01,8000.0,4.3,22.0,clear
+408,Bengal Gram(Gram),Kannauj,2016-02-01,5010.0,2.5,22.0,clear
+409,Arhar (Tur/Red Gram),Kannauj,2016-03-01,8050.0,4.5,29.2,clear
+410,Bengal Gram(Gram),Kannauj,2016-03-01,5010.0,2.4,29.2,clear
+411,Arhar (Tur/Red Gram),Kannauj,2016-04-01,8050.0,4.0,36.4,clear
+412,Bengal Gram(Gram),Kannauj,2016-04-01,5010.0,2.2,36.4,clear
+413,Arhar (Tur/Red Gram),Kannauj,2016-06-01,8050.0,4.2,38.0,clear
+414,Bengal Gram(Gram),Kannauj,2016-06-01,5010.0,2.5,38.0,clear
+415,Arhar (Tur/Red Gram),Kannauj,2016-07-01,8050.0,4.3,32.4,clear
+416,Bengal Gram(Gram),Kannauj,2016-07-01,5000.0,2.7,32.4,clear
+417,Arhar (Tur/Red Gram),Kannauj,2016-08-01,8080.0,4.0,26.0,rain
+418,Bengal Gram(Gram),Chhibramau(Kannuj),2016-08-01,5000.0,2.5,26.0,rain
+419,Bengal Gram(Gram),Kannauj,2016-08-01,5000.0,2.5,26.0,rain
+420,Arhar (Tur/Red Gram),Kannauj,2016-09-01,8080.0,4.2,34.0,clear
+421,Bengal Gram(Gram),Chhibramau(Kannuj),2016-09-01,5000.0,3.0,34.0,clear
+422,Bengal Gram(Gram),Kannauj,2016-09-01,5000.0,2.0,34.0,clear
+423,Arhar (Tur/Red Gram),Kannauj,2016-10-01,8080.0,4.5,33.4,clear
+424,Bengal Gram(Gram),Chhibramau(Kannuj),2016-10-01,5000.0,4.0,33.4,clear
+425,Bengal Gram(Gram),Kannauj,2016-10-01,5000.0,1.8,33.4,clear
+426,Arhar (Tur/Red Gram),Kannauj,2016-11-01,8090.0,3.8,29.8,clear
+427,Bengal Gram(Gram),Chhibramau(Kannuj),2016-11-01,5000.0,2.5,29.8,clear
+428,Bengal Gram(Gram),Kannauj,2016-11-01,5010.0,1.9,29.8,clear
+429,Arhar (Tur/Red Gram),Kannauj,2016-01-13,8100.0,3.5,21.6,clear
+430,Bengal Gram(Gram),Chhibramau(Kannuj),2016-01-13,5000.0,4.8,21.6,clear
+431,Bengal Gram(Gram),Kannauj,2016-01-13,5010.0,2.0,21.6,clear
+432,Arhar (Tur/Red Gram),Kannauj,2016-01-14,8100.0,3.2,22.0,clear
+433,Bengal Gram(Gram),Kannauj,2016-01-14,5010.0,2.1,22.0,clear
+434,Arhar (Tur/Red Gram),Kannauj,2016-01-15,8100.0,3.0,19.4,clear
+435,Bengal Gram(Gram),Kannauj,2016-01-15,5000.0,2.0,19.4,clear
+436,Arhar (Tur/Red Gram),Kannauj,2016-01-16,8100.0,2.8,11.8,clear
+437,Bengal Gram(Gram),Kannauj,2016-01-16,5000.0,2.1,11.8,clear
+438,Arhar (Tur/Red Gram),Kannauj,2016-01-17,8100.0,2.6,15.0,clear
+439,Bengal Gram(Gram),Kannauj,2016-01-17,5000.0,2.0,15.0,clear
+440,Arhar (Tur/Red Gram),Kannauj,2016-01-21,8110.0,2.0,12.6,clear
+441,Bengal Gram(Gram),Kannauj,2016-01-21,5020.0,2.5,12.6,clear
+442,Arhar (Tur/Red Gram),Kannauj,2016-01-27,7900.0,2.5,21.0,clear
+443,Bengal Gram(Gram),Kannauj,2016-01-27,5020.0,3.5,21.0,clear
+444,Arhar (Tur/Red Gram),Kannauj,2016-01-28,7900.0,2.6,22.0,clear
+445,Arhar (Tur/Red Gram),Kannauj,2016-01-30,7900.0,2.0,24.4,clear
+446,Bengal Gram(Gram),Kannauj,2016-01-30,5000.0,3.2,24.4,clear
+447,Arhar (Tur/Red Gram),Kannauj,2016-01-31,7900.0,1.8,25.8,clear
+448,Bengal Gram(Gram),Kannauj,2016-01-31,5010.0,3.0,25.8,clear
+449,Arhar (Tur/Red Gram),Kannauj,2016-03-02,7850.0,1.3,30.0,clear
+450,Bengal Gram(Gram),Kannauj,2016-03-02,5000.0,3.0,30.0,clear
+451,Arhar (Tur/Red Gram),Kannauj,2016-04-02,7850.0,1.2,37.0,clear
+452,Bengal Gram(Gram),Kannauj,2016-04-02,4950.0,3.2,37.0,clear
+453,Arhar (Tur/Red Gram),Kannauj,2016-05-02,7800.0,1.5,41.8,clear
+454,Bengal Gram(Gram),Kannauj,2016-05-02,4950.0,3.0,41.8,clear
+455,Arhar (Tur/Red Gram),Kannauj,2016-11-02,7800.0,1.7,21.0,clear
+456,Bengal Gram(Gram),Kannauj,2016-11-02,4950.0,3.1,21.0,clear
+457,Arhar (Tur/Red Gram),Kannauj,2016-02-18,7800.0,1.0,28.8,clear
+458,Bengal Gram(Gram),Kannauj,2016-02-18,4950.0,1.8,28.8,clear
+459,Arhar (Tur/Red Gram),Kannauj,2016-02-19,7850.0,1.2,29.0,clear
+460,Bengal Gram(Gram),Kannauj,2016-02-19,4950.0,1.5,29.0,clear
+461,Arhar (Tur/Red Gram),Kannauj,2016-02-20,7850.0,1.0,23.0,clear
+462,Bengal Gram(Gram),Kannauj,2016-02-20,4960.0,1.7,23.0,clear
+463,Arhar (Tur/Red Gram),Kannauj,2016-02-21,7850.0,1.2,25.0,clear
+464,Bengal Gram(Gram),Kannauj,2016-02-21,4960.0,1.8,25.0,clear
+465,Arhar (Tur/Red Gram),Kannauj,2016-02-25,7850.0,1.8,28.4,clear
+466,Bengal Gram(Gram),Kannauj,2016-02-25,4980.0,1.5,28.4,clear
+467,Arhar (Tur/Red Gram),Kannauj,2016-02-26,7880.0,1.5,27.6,clear
+468,Bengal Gram(Gram),Kannauj,2016-02-26,4980.0,1.8,27.6,clear
+469,Arhar (Tur/Red Gram),Kannauj,2016-02-28,7880.0,2.0,28.4,clear
+470,Bengal Gram(Gram),Kannauj,2016-02-28,4980.0,2.5,28.4,clear
+471,Arhar (Tur/Red Gram),Kannauj,2016-02-29,7880.0,2.5,29.6,clear
+472,Bengal Gram(Gram),Kannauj,2016-02-29,4980.0,3.0,29.6,clear
+473,Arhar (Tur/Red Gram),Kannauj,2016-03-03,7880.0,3.2,30.6,clear
+474,Bengal Gram(Gram),Kannauj,2016-03-03,4990.0,3.0,30.6,clear
+475,Arhar (Tur/Red Gram),Kannauj,2016-07-03,7800.0,3.5,32.8,clear
+476,Bengal Gram(Gram),Kannauj,2016-07-03,4900.0,3.5,32.8,clear
+477,Arhar (Tur/Red Gram),Kannauj,2016-10-03,7780.0,3.5,34.6,clear
+478,Bengal Gram(Gram),Kannauj,2016-10-03,4950.0,3.0,34.6,clear
+479,Arhar (Tur/Red Gram),Kannauj,2016-03-17,7700.0,4.5,30.6,clear
+480,Bengal Gram(Gram),Kannauj,2016-03-17,5000.0,2.2,30.6,clear
+481,Arhar (Tur/Red Gram),Kannauj,2016-03-19,7725.0,5.5,33.0,clear
+482,Bengal Gram(Gram),Kannauj,2016-03-19,5030.0,2.5,33.0,clear
+483,Arhar (Tur/Red Gram),Kannauj,2016-03-20,7720.0,5.0,33.0,clear
+484,Bengal Gram(Gram),Kannauj,2016-03-20,5000.0,2.7,33.0,clear
+485,Arhar (Tur/Red Gram),Kannauj,2016-03-31,7710.0,5.0,36.0,clear
+486,Bengal Gram(Gram),Kannauj,2016-03-31,4950.0,2.5,36.0,clear
+487,Arhar (Tur/Red Gram),Kannauj,2016-03-04,7700.0,5.5,31.0,clear
+488,Bengal Gram(Gram),Kannauj,2016-03-04,4950.0,2.5,31.0,clear
+489,Arhar (Tur/Red Gram),Kannauj,2016-07-04,7680.0,5.0,31.4,clear
+490,Bengal Gram(Gram),Kannauj,2016-07-04,4900.0,2.2,31.4,clear
+491,Arhar (Tur/Red Gram),Kannauj,2016-10-04,7800.0,3.5,31.0,rain
+492,Bengal Gram(Gram),Kannauj,2016-10-04,5000.0,1.6,31.0,rain
+493,Arhar (Tur/Red Gram),Kannauj,2016-04-15,7900.0,1.8,40.2,clear
+494,Bengal Gram(Gram),Kannauj,2016-04-15,5010.0,1.2,40.2,clear
+495,Arhar (Tur/Red Gram),Kannauj,2016-04-16,7900.0,1.5,41.0,clear
+496,Bengal Gram(Gram),Kannauj,2016-04-16,5010.0,1.0,41.0,clear
+497,Arhar (Tur/Red Gram),Kannauj,2016-04-17,7900.0,2.0,40.2,clear
+498,Bengal Gram(Gram),Kannauj,2016-04-17,5020.0,1.5,40.2,clear
+499,Arhar (Tur/Red Gram),Kannauj,2016-04-20,8000.0,2.3,40.6,clear
+500,Bengal Gram(Gram),Kannauj,2016-04-20,5050.0,1.8,40.6,clear
+501,Arhar (Tur/Red Gram),Kannauj,2016-04-21,8000.0,2.0,38.6,clear
+502,Bengal Gram(Gram),Kannauj,2016-04-21,5060.0,1.5,38.6,clear
+503,Arhar (Tur/Red Gram),Kannauj,2016-04-27,8100.0,1.3,41.0,clear
+504,Bengal Gram(Gram),Kannauj,2016-04-27,5150.0,1.0,41.0,clear
+505,Arhar (Tur/Red Gram),Kannauj,2016-04-28,8100.0,1.5,41.0,clear
+506,Bengal Gram(Gram),Kannauj,2016-04-28,5150.0,1.2,41.0,clear
+507,Arhar (Tur/Red Gram),Kannauj,2016-05-05,8100.0,2.5,34.4,clear
+508,Bengal Gram(Gram),Kannauj,2016-05-05,5200.0,0.8,34.4,clear
+509,Arhar (Tur/Red Gram),Kannauj,2016-09-05,8100.0,3.0,33.0,clear
+510,Bengal Gram(Gram),Kannauj,2016-09-05,5250.0,1.7,33.0,clear
+511,Arhar (Tur/Red Gram),Kannauj,2016-12-05,8200.0,3.0,19.2,clear
+512,Bengal Gram(Gram),Kannauj,2016-12-05,5270.0,1.2,19.2,clear
+513,Arhar (Tur/Red Gram),Kannauj,2016-05-13,8250.0,2.8,38.4,clear
+514,Bengal Gram(Gram),Kannauj,2016-05-13,5300.0,1.5,38.4,clear
+515,Arhar (Tur/Red Gram),Kannauj,2016-05-14,8250.0,3.5,40.4,clear
+516,Bengal Gram(Gram),Kannauj,2016-05-14,5300.0,2.0,40.4,clear
+517,Arhar (Tur/Red Gram),Kannauj,2016-05-18,8300.0,3.0,42.6,clear
+518,Bengal Gram(Gram),Kannauj,2016-05-18,5400.0,2.0,42.6,clear
+519,Arhar (Tur/Red Gram),Kannauj,2016-05-19,8300.0,3.5,31.8,clear
+520,Bengal Gram(Gram),Kannauj,2016-05-19,5400.0,2.5,31.8,clear
+521,Arhar (Tur/Red Gram),Kannauj,2016-05-21,8350.0,3.0,36.0,clear
+522,Bengal Gram(Gram),Kannauj,2016-05-21,5450.0,2.0,36.0,clear
+523,Arhar (Tur/Red Gram),Kannauj,2016-05-22,8350.0,2.8,38.0,clear
+524,Bengal Gram(Gram),Kannauj,2016-05-22,5500.0,1.8,38.0,clear
+525,Arhar (Tur/Red Gram),Kannauj,2016-05-23,8350.0,2.5,28.0,clear
+526,Bengal Gram(Gram),Kannauj,2016-05-23,5500.0,2.0,28.0,clear
+527,Arhar (Tur/Red Gram),Kannauj,2016-05-25,8350.0,2.0,37.0,clear
+528,Bengal Gram(Gram),Kannauj,2016-05-25,5500.0,1.8,37.0,clear
+529,Arhar (Tur/Red Gram),Kannauj,2016-05-26,8350.0,2.5,38.0,clear
+530,Bengal Gram(Gram),Kannauj,2016-05-26,5450.0,3.5,38.0,clear
+531,Arhar (Tur/Red Gram),Kannauj,2016-05-27,8350.0,2.0,41.0,clear
+532,Bengal Gram(Gram),Kannauj,2016-05-27,5450.0,2.8,41.0,clear
+533,Arhar (Tur/Red Gram),Kannauj,2016-05-28,8350.0,2.2,30.6,clear
+534,Bengal Gram(Gram),Kannauj,2016-05-28,5350.0,3.0,30.6,clear
+535,Arhar (Tur/Red Gram),Kannauj,2016-05-29,8340.0,2.0,31.6,clear
+536,Bengal Gram(Gram),Kannauj,2016-05-29,5350.0,3.2,31.6,clear
+537,Arhar (Tur/Red Gram),Kannauj,2016-05-30,8300.0,2.5,33.8,clear
+538,Bengal Gram(Gram),Kannauj,2016-05-30,5340.0,3.5,33.8,clear
+539,Arhar (Tur/Red Gram),Kannauj,2016-02-06,8350.0,2.5,11.0,clear
+540,Bengal Gram(Gram),Kannauj,2016-02-06,5300.0,4.2,11.0,clear
+541,Arhar (Tur/Red Gram),Kannauj,2016-03-06,8400.0,2.0,29.4,clear
+542,Bengal Gram(Gram),Kannauj,2016-03-06,5300.0,4.5,29.4,clear
+543,Arhar (Tur/Red Gram),Kannauj,2016-04-06,8450.0,1.8,37.0,clear
+544,Bengal Gram(Gram),Kannauj,2016-04-06,5300.0,4.7,37.0,clear
+545,Arhar (Tur/Red Gram),Kannauj,2016-05-06,8500.0,1.5,35.6,clear
+546,Bengal Gram(Gram),Kannauj,2016-05-06,5300.0,4.5,35.6,clear
+547,Arhar (Tur/Red Gram),Kannauj,2016-06-06,8500.0,1.7,33.2,clear
+548,Bengal Gram(Gram),Kannauj,2016-06-06,5300.0,4.0,33.2,clear
+549,Arhar (Tur/Red Gram),Kannauj,2016-08-06,8500.0,2.0,33.8,clear
+550,Bengal Gram(Gram),Kannauj,2016-08-06,5350.0,3.5,33.8,clear
+551,Arhar (Tur/Red Gram),Kannauj,2016-09-06,8490.0,2.2,33.0,clear
+552,Bengal Gram(Gram),Kannauj,2016-09-06,5350.0,2.6,33.0,clear
+553,Arhar (Tur/Red Gram),Kannauj,2016-10-06,8490.0,2.0,30.6,clear
+554,Bengal Gram(Gram),Kannauj,2016-10-06,5300.0,3.5,30.6,clear
+555,Arhar (Tur/Red Gram),Kannauj,2016-06-15,8400.0,3.0,32.0,clear
+556,Bengal Gram(Gram),Kannauj,2016-06-15,5300.0,4.0,32.0,clear
+557,Arhar (Tur/Red Gram),Kannauj,2016-06-16,8450.0,2.8,36.0,clear
+558,Bengal Gram(Gram),Kannauj,2016-06-16,5350.0,4.2,36.0,clear
+559,Arhar (Tur/Red Gram),Kannauj,2016-06-17,8450.0,2.5,31.6,clear
+560,Bengal Gram(Gram),Kannauj,2016-06-17,5350.0,4.0,31.6,clear
+561,Arhar (Tur/Red Gram),Kannauj,2016-06-18,8450.0,2.0,33.0,rain
+562,Bengal Gram(Gram),Kannauj,2016-06-18,5350.0,4.2,33.0,rain
+563,Arhar (Tur/Red Gram),Kannauj,2016-06-19,8450.0,2.2,37.4,clear
+564,Bengal Gram(Gram),Kannauj,2016-06-19,5400.0,3.5,37.4,clear
+565,Arhar (Tur/Red Gram),Kannauj,2016-06-20,8450.0,2.0,33.6,rain
+566,Bengal Gram(Gram),Kannauj,2016-06-20,5400.0,3.0,33.6,rain
+567,Arhar (Tur/Red Gram),Kannauj,2016-06-22,8460.0,1.8,31.2,clear
+568,Bengal Gram(Gram),Kannauj,2016-06-22,5400.0,3.2,31.2,clear
+569,Arhar (Tur/Red Gram),Kannauj,2016-06-23,8460.0,2.0,35.8,clear
+570,Bengal Gram(Gram),Kannauj,2016-06-23,5450.0,2.8,35.8,clear
+571,Arhar (Tur/Red Gram),Kannauj,2016-06-24,8500.0,1.5,36.0,clear
+572,Bengal Gram(Gram),Kannauj,2016-06-24,5450.0,2.5,36.0,clear
+573,Arhar (Tur/Red Gram),Kannauj,2016-06-25,8500.0,1.8,35.2,clear
+574,Bengal Gram(Gram),Kannauj,2016-06-25,5450.0,2.0,35.2,clear
+575,Arhar (Tur/Red Gram),Kannauj,2016-06-26,8500.0,2.0,35.8,clear
+576,Bengal Gram(Gram),Kannauj,2016-06-26,5450.0,3.0,35.8,clear
+577,Arhar (Tur/Red Gram),Kannauj,2016-06-27,8500.0,2.5,34.0,clear
+578,Bengal Gram(Gram),Kannauj,2016-06-27,5450.0,2.8,34.0,clear
+579,Arhar (Tur/Red Gram),Kannauj,2016-06-29,8550.0,2.0,38.4,clear
+580,Bengal Gram(Gram),Kannauj,2016-06-29,5450.0,2.5,38.4,clear
+581,Arhar (Tur/Red Gram),Kannauj,2016-06-30,8550.0,2.2,35.6,clear
+582,Bengal Gram(Gram),Kannauj,2016-06-30,5600.0,2.0,35.6,clear
+583,Arhar (Tur/Red Gram),Kannauj,2016-01-07,8550.0,3.0,22.4,clear
+584,Bengal Gram(Gram),Kannauj,2016-01-07,5800.0,1.5,22.4,clear
+585,Arhar (Tur/Red Gram),Kannauj,2016-02-07,8600.0,3.2,22.4,clear
+586,Bengal Gram(Gram),Kannauj,2016-02-07,5800.0,1.7,22.4,clear
+587,Arhar (Tur/Red Gram),Kannauj,2016-03-07,8600.0,3.0,30.4,clear
+588,Bengal Gram(Gram),Kannauj,2016-03-07,5850.0,1.5,30.4,clear
+589,Arhar (Tur/Red Gram),Kannauj,2016-04-07,8600.0,3.2,36.6,clear
+590,Bengal Gram(Gram),Kannauj,2016-04-07,5850.0,1.6,36.6,clear
+591,Arhar (Tur/Red Gram),Kannauj,2016-06-07,8650.0,3.0,32.0,clear
+592,Bengal Gram(Gram),Kannauj,2016-06-07,6000.0,1.0,32.0,clear
+593,Arhar (Tur/Red Gram),Kannauj,2016-07-07,8650.0,2.5,34.4,clear
+594,Bengal Gram(Gram),Kannauj,2016-07-07,6000.0,1.2,34.4,clear
+595,Arhar (Tur/Red Gram),Kannauj,2016-09-07,8600.0,3.5,33.2,clear
+596,Bengal Gram(Gram),Kannauj,2016-09-07,6100.0,1.2,33.2,clear
+597,Arhar (Tur/Red Gram),Kannauj,2016-10-07,8600.0,3.0,32.0,clear
+598,Bengal Gram(Gram),Kannauj,2016-10-07,6100.0,1.4,32.0,clear
+599,Arhar (Tur/Red Gram),Kannauj,2016-11-07,8600.0,3.2,25.6,clear
+600,Bengal Gram(Gram),Kannauj,2016-11-07,6100.0,1.5,25.6,clear
+601,Arhar (Tur/Red Gram),Kannauj,2016-07-13,8600.0,3.0,33.6,clear
+602,Bengal Gram(Gram),Kannauj,2016-07-13,6200.0,1.2,33.6,clear
+603,Arhar (Tur/Red Gram),Kannauj,2016-07-14,8600.0,3.2,32.4,clear
+604,Bengal Gram(Gram),Kannauj,2016-07-14,6300.0,1.0,32.4,clear
+605,Arhar (Tur/Red Gram),Kannauj,2016-07-15,8550.0,3.5,28.8,clear
+606,Bengal Gram(Gram),Kannauj,2016-07-15,6300.0,1.5,28.8,clear
+607,Arhar (Tur/Red Gram),Kannauj,2016-07-16,8550.0,3.0,29.0,clear
+608,Bengal Gram(Gram),Kannauj,2016-07-16,6350.0,1.6,29.0,clear
+609,Arhar (Tur/Red Gram),Kannauj,2016-07-17,8550.0,3.3,28.0,rain
+610,Bengal Gram(Gram),Kannauj,2016-07-17,6350.0,2.0,28.0,rain
+611,Arhar (Tur/Red Gram),Kannauj,2016-07-20,8550.0,4.0,34.0,clear
+612,Bengal Gram(Gram),Kannauj,2016-07-20,6400.0,1.0,34.0,clear
+613,Arhar (Tur/Red Gram),Kannauj,2016-07-21,8600.0,3.8,34.2,clear
+614,Bengal Gram(Gram),Kannauj,2016-07-21,6450.0,0.9,34.2,clear
+615,Arhar (Tur/Red Gram),Kannauj,2016-07-22,8600.0,3.7,28.0,clear
+616,Bengal Gram(Gram),Kannauj,2016-07-22,6500.0,1.0,28.0,clear
+617,Arhar (Tur/Red Gram),Kannauj,2016-07-23,8600.0,3.5,25.8,rain
+618,Bengal Gram(Gram),Kannauj,2016-07-23,6600.0,0.8,25.8,rain
+619,Arhar (Tur/Red Gram),Kannauj,2016-07-24,8620.0,3.0,32.0,clear
+620,Bengal Gram(Gram),Kannauj,2016-07-24,6700.0,0.7,32.0,clear
+621,Arhar (Tur/Red Gram),Kannauj,2016-07-25,8620.0,3.3,29.4,clear
+622,Bengal Gram(Gram),Kannauj,2016-07-25,6700.0,1.0,29.4,clear
+623,Arhar (Tur/Red Gram),Kannauj,2016-07-27,8620.0,3.0,31.4,clear
+624,Bengal Gram(Gram),Kannauj,2016-07-27,6700.0,1.5,31.4,clear
+625,Arhar (Tur/Red Gram),Kannauj,2016-07-28,8650.0,2.5,29.0,clear
+626,Bengal Gram(Gram),Kannauj,2016-07-28,6900.0,1.2,29.0,clear
+627,Arhar (Tur/Red Gram),Kannauj,2016-07-30,8670.0,2.0,30.0,clear
+628,Bengal Gram(Gram),Kannauj,2016-07-30,7100.0,0.9,30.0,clear
+629,Arhar (Tur/Red Gram),Kannauj,2016-07-31,8670.0,2.8,28.6,clear
+630,Bengal Gram(Gram),Kannauj,2016-07-31,7150.0,0.8,28.6,clear
+631,Arhar (Tur/Red Gram),Kannauj,2016-01-08,8670.0,2.5,23.2,clear
+632,Bengal Gram(Gram),Kannauj,2016-01-08,7150.0,1.0,23.2,clear
+633,Arhar (Tur/Red Gram),Kannauj,2016-03-08,8670.0,2.2,30.0,clear
+634,Bengal Gram(Gram),Kannauj,2016-03-08,7300.0,0.8,30.0,clear
+635,Arhar (Tur/Red Gram),Kannauj,2016-04-08,8700.0,2.0,37.0,clear
+636,Bengal Gram(Gram),Kannauj,2016-04-08,7500.0,0.7,37.0,clear
+637,Arhar (Tur/Red Gram),Kannauj,2016-05-08,8700.0,3.0,37.0,clear
+638,Bengal Gram(Gram),Kannauj,2016-05-08,7500.0,1.2,37.0,clear
+639,Arhar (Tur/Red Gram),Kannauj,2016-06-08,8700.0,3.2,38.0,clear
+640,Bengal Gram(Gram),Kannauj,2016-06-08,7600.0,1.0,38.0,clear
+641,Arhar (Tur/Red Gram),Kannauj,2016-07-08,8720.0,2.6,31.8,clear
+642,Bengal Gram(Gram),Kannauj,2016-07-08,7600.0,1.3,31.8,clear
+643,Arhar (Tur/Red Gram),Kannauj,2016-08-08,8750.0,2.5,30.0,clear
+644,Bengal Gram(Gram),Kannauj,2016-08-08,7800.0,1.5,30.0,clear
+645,Arhar (Tur/Red Gram),Kannauj,2016-10-08,8750.0,2.2,30.6,clear
+646,Bengal Gram(Gram),Kannauj,2016-10-08,7800.0,1.2,30.6,clear
+647,Arhar (Tur/Red Gram),Kannauj,2016-11-08,8700.0,2.0,26.2,clear
+648,Bengal Gram(Gram),Kannauj,2016-11-08,7800.0,1.6,26.2,clear
+649,Arhar (Tur/Red Gram),Kannauj,2016-12-08,8720.0,1.8,15.2,clear
+650,Bengal Gram(Gram),Kannauj,2016-12-08,7850.0,1.5,15.2,clear
+651,Arhar (Tur/Red Gram),Kannauj,2016-08-17,8720.0,2.0,32.0,clear
+652,Bengal Gram(Gram),Kannauj,2016-08-17,7650.0,2.0,32.0,clear
+653,Arhar (Tur/Red Gram),Kannauj,2016-08-20,8650.0,2.5,33.0,clear
+654,Bengal Gram(Gram),Kannauj,2016-08-20,7660.0,2.0,33.0,clear
+655,Arhar (Tur/Red Gram),Kannauj,2016-08-21,8650.0,2.8,32.4,clear
+656,Bengal Gram(Gram),Kannauj,2016-08-21,7700.0,2.2,32.4,clear
+657,Arhar (Tur/Red Gram),Kannauj,2016-08-22,8650.0,2.5,31.6,clear
+658,Bengal Gram(Gram),Kannauj,2016-08-22,7800.0,2.5,31.6,clear
+659,Arhar (Tur/Red Gram),Kannauj,2016-08-24,8650.0,2.6,32.0,clear
+660,Bengal Gram(Gram),Kannauj,2016-08-24,7800.0,2.4,32.0,clear
+661,Arhar (Tur/Red Gram),Kannauj,2016-08-25,8600.0,2.8,30.0,clear
+662,Bengal Gram(Gram),Kannauj,2016-08-25,7800.0,2.2,30.0,clear
+663,Arhar (Tur/Red Gram),Kannauj,2016-08-26,8600.0,2.5,28.0,clear
+664,Bengal Gram(Gram),Kannauj,2016-08-26,7800.0,2.0,28.0,clear
+665,Arhar (Tur/Red Gram),Kannauj,2016-08-27,8600.0,2.6,34.0,clear
+666,Bengal Gram(Gram),Kannauj,2016-08-27,7850.0,2.2,34.0,clear
+667,Arhar (Tur/Red Gram),Kannauj,2016-01-09,8500.0,3.2,20.2,clear
+668,Bengal Gram(Gram),Kannauj,2016-01-09,7900.0,2.2,20.2,clear
+669,Arhar (Tur/Red Gram),Kannauj,2016-02-09,8500.0,3.0,23.2,clear
+670,Bengal Gram(Gram),Kannauj,2016-02-09,7800.0,2.5,23.2,clear
+671,Arhar (Tur/Red Gram),Kannauj,2016-03-09,8400.0,3.2,29.0,clear
+672,Bengal Gram(Gram),Kannauj,2016-03-09,7800.0,2.0,29.0,clear
+673,Arhar (Tur/Red Gram),Kannauj,2016-08-09,8000.0,3.5,31.4,clear
+674,Bengal Gram(Gram),Kannauj,2016-08-09,7600.0,3.0,31.4,clear
+675,Arhar (Tur/Red Gram),Kannauj,2016-09-09,8000.0,3.0,34.0,clear
+676,Bengal Gram(Gram),Kannauj,2016-09-09,7650.0,3.2,34.0,clear
+677,Arhar (Tur/Red Gram),Kannauj,2016-09-15,7900.0,3.2,29.6,clear
+678,Bengal Gram(Gram),Kannauj,2016-09-15,7200.0,3.5,29.6,clear
+679,Arhar (Tur/Red Gram),Kannauj,2016-09-16,7850.0,3.8,31.4,clear
+680,Bengal Gram(Gram),Kannauj,2016-09-16,7200.0,3.8,31.4,clear
+681,Arhar (Tur/Red Gram),Kannauj,2016-09-17,7850.0,4.0,30.6,clear
+682,Bengal Gram(Gram),Kannauj,2016-09-17,7200.0,3.3,30.6,clear
+683,Arhar (Tur/Red Gram),Kannauj,2016-09-18,7850.0,4.5,30.0,clear
+684,Bengal Gram(Gram),Kannauj,2016-09-18,7300.0,3.0,30.0,clear
+685,Arhar (Tur/Red Gram),Kannauj,2016-09-19,7850.0,4.8,33.0,clear
+686,Bengal Gram(Gram),Kannauj,2016-09-19,7300.0,2.8,33.0,clear
+687,Arhar (Tur/Red Gram),Kannauj,2016-09-21,7800.0,4.5,30.0,clear
+688,Bengal Gram(Gram),Kannauj,2016-09-21,7300.0,2.5,30.0,clear
+689,Arhar (Tur/Red Gram),Kannauj,2016-09-22,7400.0,4.0,30.6,clear
+690,Bengal Gram(Gram),Kannauj,2016-09-22,7100.0,3.0,30.6,clear
+691,Arhar (Tur/Red Gram),Kannauj,2016-09-25,7300.0,5.0,31.6,clear
+692,Bengal Gram(Gram),Kannauj,2016-09-25,7000.0,4.2,31.6,clear
+693,Arhar (Tur/Red Gram),Kannauj,2016-09-26,7300.0,5.2,31.4,clear
+694,Bengal Gram(Gram),Kannauj,2016-09-26,7000.0,4.0,31.4,clear
+695,Arhar (Tur/Red Gram),Kannauj,2016-09-28,7300.0,5.0,32.0,clear
+696,Bengal Gram(Gram),Kannauj,2016-09-28,7050.0,4.2,32.0,clear
+697,Arhar (Tur/Red Gram),Kannauj,2016-09-29,7350.0,4.8,27.4,clear
+698,Bengal Gram(Gram),Kannauj,2016-09-29,7050.0,4.0,27.4,clear
+699,Arhar (Tur/Red Gram),Kannauj,2016-09-30,7350.0,4.5,32.6,clear
+700,Bengal Gram(Gram),Kannauj,2016-09-30,7050.0,3.8,32.6,clear
+701,Arhar (Tur/Red Gram),Kannauj,2016-01-10,7350.0,5.0,21.0,clear
+702,Bengal Gram(Gram),Kannauj,2016-01-10,7100.0,3.5,21.0,clear
+703,Arhar (Tur/Red Gram),Kannauj,2016-03-10,7350.0,5.5,29.4,clear
+704,Bengal Gram(Gram),Chhibramau(Kannuj),2016-03-10,7400.0,3.0,29.4,clear
+705,Bengal Gram(Gram),Kannauj,2016-03-10,7100.0,3.0,29.4,clear
+706,Green Gram (Moong),Chhibramau(Kannuj),2016-03-10,4200.0,2.0,29.4,clear
+707,Arhar (Tur/Red Gram),Kannauj,2016-05-10,7300.0,5.0,34.0,clear
+708,Bengal Gram(Gram),Chhibramau(Kannuj),2016-05-10,7500.0,1.0,34.0,clear
+709,Bengal Gram(Gram),Kannauj,2016-05-10,7100.0,3.2,34.0,clear
+710,Arhar (Tur/Red Gram),Kannauj,2016-06-10,7350.0,4.5,39.4,clear
+711,Bengal Gram(Gram),Kannauj,2016-06-10,7100.0,3.0,39.4,clear
+712,Arhar (Tur/Red Gram),Kannauj,2016-12-10,7400.0,4.5,16.6,clear
+713,Bengal Gram(Gram),Chhibramau(Kannuj),2016-12-10,8500.0,4.0,16.6,clear
+714,Bengal Gram(Gram),Kannauj,2016-12-10,7350.0,1.7,16.6,clear
+715,Green Gram (Moong),Chhibramau(Kannuj),2016-12-10,4140.0,5.0,16.6,clear
+716,Arhar (Tur/Red Gram),Kannauj,2016-10-13,7400.0,4.0,32.0,clear
+717,Bengal Gram(Gram),Kannauj,2016-10-13,7350.0,1.5,32.0,clear
+718,Arhar (Tur/Red Gram),Kannauj,2016-10-14,7450.0,3.8,31.8,clear
+719,Bengal Gram(Gram),Chhibramau(Kannuj),2016-10-14,8200.0,2.0,31.8,clear
+720,Bengal Gram(Gram),Kannauj,2016-10-14,7350.0,1.7,31.8,clear
+721,Green Gram (Moong),Chhibramau(Kannuj),2016-10-14,4100.0,4.0,31.8,clear
+722,Arhar (Tur/Red Gram),Kannauj,2016-10-15,7450.0,4.2,31.4,clear
+723,Bengal Gram(Gram),Chhibramau(Kannuj),2016-10-15,8200.0,2.0,31.4,clear
+724,Bengal Gram(Gram),Kannauj,2016-10-15,7400.0,1.3,31.4,clear
+725,Green Gram (Moong),Chhibramau(Kannuj),2016-10-15,4100.0,4.0,31.4,clear
+726,Arhar (Tur/Red Gram),Kannauj,2016-10-16,7150.0,4.0,24.0,clear
+727,Bengal Gram(Gram),Chhibramau(Kannuj),2016-10-16,8200.0,3.0,24.0,clear
+728,Bengal Gram(Gram),Kannauj,2016-10-16,7450.0,1.2,24.0,clear
+729,Green Gram (Moong),Chhibramau(Kannuj),2016-10-16,4120.0,2.0,24.0,clear
+730,Arhar (Tur/Red Gram),Kannauj,2016-10-17,7280.0,3.8,31.8,clear
+731,Bengal Gram(Gram),Chhibramau(Kannuj),2016-10-17,8200.0,2.0,31.8,clear
+732,Bengal Gram(Gram),Kannauj,2016-10-17,7480.0,1.0,31.8,clear
+733,Green Gram (Moong),Chhibramau(Kannuj),2016-10-17,4100.0,4.0,31.8,clear
+734,Arhar (Tur/Red Gram),Kannauj,2016-10-19,6900.0,4.5,31.2,clear
+735,Bengal Gram(Gram),Chhibramau(Kannuj),2016-10-19,8100.0,3.0,31.2,clear
+736,Bengal Gram(Gram),Kannauj,2016-10-19,7800.0,0.8,31.2,clear
+737,Green Gram (Moong),Chhibramau(Kannuj),2016-10-19,4100.0,3.0,31.2,clear
+738,Arhar (Tur/Red Gram),Kannauj,2016-10-20,6800.0,4.7,31.6,clear
+739,Bengal Gram(Gram),Kannauj,2016-10-20,8000.0,1.0,31.6,clear
+740,Arhar (Tur/Red Gram),Kannauj,2016-10-21,6750.0,4.5,31.2,clear
+741,Bengal Gram(Gram),Chhibramau(Kannuj),2016-10-21,8200.0,4.0,31.2,clear
+742,Bengal Gram(Gram),Kannauj,2016-10-21,8050.0,8.0,31.2,clear
+743,Green Gram (Moong),Chhibramau(Kannuj),2016-10-21,4000.0,4.0,31.2,clear
+744,Arhar (Tur/Red Gram),Kannauj,2016-10-22,6680.0,4.8,32.0,clear
+745,Bengal Gram(Gram),Chhibramau(Kannuj),2016-10-22,4100.0,2.0,32.0,clear
+746,Bengal Gram(Gram),Kannauj,2016-10-22,8100.0,0.7,32.0,clear
+747,Green Gram (Moong),Chhibramau(Kannuj),2016-10-22,4200.0,3.0,32.0,clear
+748,Arhar (Tur/Red Gram),Kannauj,2016-10-23,6400.0,5.0,30.0,clear
+749,Bengal Gram(Gram),Chhibramau(Kannuj),2016-10-23,4100.0,2.0,30.0,clear
+750,Bengal Gram(Gram),Kannauj,2016-10-23,8200.0,0.5,30.0,clear
+751,Green Gram (Moong),Chhibramau(Kannuj),2016-10-23,4120.0,4.0,30.0,clear
+752,Arhar (Tur/Red Gram),Kannauj,2016-10-24,6300.0,6.0,31.0,clear
+753,Bengal Gram(Gram),Chhibramau(Kannuj),2016-10-24,8200.0,2.0,31.0,clear
+754,Bengal Gram(Gram),Kannauj,2016-10-24,8250.0,0.6,31.0,clear
+755,Green Gram (Moong),Chhibramau(Kannuj),2016-10-24,4200.0,5.0,31.0,clear
+756,Arhar (Tur/Red Gram),Kannauj,2016-10-26,6300.0,6.5,31.4,clear
+757,Bengal Gram(Gram),Chhibramau(Kannuj),2016-10-26,8520.0,5.0,31.4,clear
+758,Bengal Gram(Gram),Kannauj,2016-10-26,8450.0,1.0,31.4,clear
+759,Green Gram (Moong),Chhibramau(Kannuj),2016-10-26,4100.0,6.0,31.4,clear
+760,Arhar (Tur/Red Gram),Kannauj,2016-10-27,6300.0,3.5,30.4,clear
+761,Bengal Gram(Gram),Kannauj,2016-10-27,8500.0,0.8,30.4,clear
+762,Arhar (Tur/Red Gram),Kannauj,2016-10-28,6350.0,5.8,29.0,clear
+763,Bengal Gram(Gram),Chhibramau(Kannuj),2016-10-28,8500.0,5.0,29.0,clear
+764,Bengal Gram(Gram),Kannauj,2016-10-28,8650.0,1.5,29.0,clear
+765,Green Gram (Moong),Chhibramau(Kannuj),2016-10-28,4200.0,5.0,29.0,clear
+766,Arhar (Tur/Red Gram),Kannauj,2016-10-29,6350.0,5.5,28.6,clear
+767,Bengal Gram(Gram),Chhibramau(Kannuj),2016-10-29,8200.0,3.0,28.6,clear
+768,Bengal Gram(Gram),Kannauj,2016-10-29,8700.0,2.0,28.6,clear
+769,Green Gram (Moong),Chhibramau(Kannuj),2016-10-29,4100.0,4.0,28.6,clear
+770,Arhar (Tur/Red Gram),Kannauj,2016-02-11,6350.0,5.0,23.6,clear
+771,Bengal Gram(Gram),Chhibramau(Kannuj),2016-02-11,8400.0,4.0,23.6,clear
+772,Bengal Gram(Gram),Kannauj,2016-02-11,8800.0,2.2,23.6,clear
+773,Green Gram (Moong),Chhibramau(Kannuj),2016-02-11,4100.0,5.0,23.6,clear
+774,Arhar (Tur/Red Gram),Kannauj,2016-03-11,6350.0,5.5,31.4,clear
+775,Bengal Gram(Gram),Kannauj,2016-03-11,8800.0,3.0,31.4,clear
+776,Arhar (Tur/Red Gram),Kannauj,2016-04-11,6300.0,6.0,38.0,clear
+777,Bengal Gram(Gram),Chhibramau(Kannuj),2016-04-11,8500.0,2.0,38.0,clear
+778,Bengal Gram(Gram),Kannauj,2016-04-11,8800.0,3.5,38.0,clear
+779,Green Gram (Moong),Chhibramau(Kannuj),2016-04-11,4100.0,4.0,38.0,clear
+780,Arhar (Tur/Red Gram),Kannauj,2016-05-11,6500.0,6.5,35.4,clear
+781,Bengal Gram(Gram),Chhibramau(Kannuj),2016-05-11,8400.0,3.0,35.4,clear
+782,Bengal Gram(Gram),Kannauj,2016-05-11,8850.0,4.0,35.4,clear
+783,Green Gram (Moong),Chhibramau(Kannuj),2016-05-11,4100.0,5.0,35.4,clear
+784,Arhar (Tur/Red Gram),Kannauj,2016-06-11,6500.0,7.0,40.4,clear
+785,Bengal Gram(Gram),Chhibramau(Kannuj),2016-06-11,8400.0,4.0,40.4,clear
+786,Bengal Gram(Gram),Kannauj,2016-06-11,9000.0,3.8,40.4,clear
+787,Green Gram (Moong),Chhibramau(Kannuj),2016-06-11,4100.0,4.0,40.4,clear
+788,Arhar (Tur/Red Gram),Kannauj,2016-07-11,6550.0,7.5,33.6,clear
+789,Bengal Gram(Gram),Chhibramau(Kannuj),2016-07-11,8400.0,2.0,33.6,clear
+790,Bengal Gram(Gram),Kannauj,2016-07-11,9000.0,4.0,33.6,clear
+791,Green Gram (Moong),Chhibramau(Kannuj),2016-07-11,4100.0,5.0,33.6,clear
+792,Arhar (Tur/Red Gram),Kannauj,2016-09-11,6560.0,7.0,33.6,clear
+793,Bengal Gram(Gram),Chhibramau(Kannuj),2016-09-11,8500.0,2.0,33.6,clear
+794,Bengal Gram(Gram),Kannauj,2016-09-11,9000.0,4.5,33.6,clear
+795,Green Gram (Moong),Chhibramau(Kannuj),2016-09-11,4100.0,2.0,33.6,clear
+796,Arhar (Tur/Red Gram),Kannauj,2016-10-11,6600.0,6.5,32.4,clear
+797,Bengal Gram(Gram),Kannauj,2016-10-11,9050.0,4.8,32.4,clear
+798,Arhar (Tur/Red Gram),Kannauj,2016-11-11,6590.0,6.8,25.6,clear
+799,Bengal Gram(Gram),Kannauj,2016-11-11,9100.0,4.5,25.6,clear
+800,Arhar (Tur/Red Gram),Kannauj,2016-12-11,6550.0,7.0,19.0,clear
+801,Bengal Gram(Gram),Chhibramau(Kannuj),2016-12-11,8600.0,2.0,19.0,clear
+802,Bengal Gram(Gram),Kannauj,2016-12-11,9200.0,4.0,19.0,clear
+803,Green Gram (Moong),Chhibramau(Kannuj),2016-12-11,4100.0,5.0,19.0,clear
+804,Arhar (Tur/Red Gram),Kannauj,2016-11-13,6550.0,6.5,27.4,clear
+805,Bengal Gram(Gram),Chhibramau(Kannuj),2016-11-13,8600.0,2.0,27.4,clear
+806,Bengal Gram(Gram),Kannauj,2016-11-13,9250.0,3.8,27.4,clear
+807,Green Gram (Moong),Chhibramau(Kannuj),2016-11-13,4000.0,3.0,27.4,clear
+808,Arhar (Tur/Red Gram),Kannauj,2016-11-14,6550.0,6.0,26.2,clear
+809,Bengal Gram(Gram),Chhibramau(Kannuj),2016-11-14,8600.0,1.0,26.2,clear
+810,Bengal Gram(Gram),Kannauj,2016-11-14,9250.0,3.5,26.2,clear
+811,Green Gram (Moong),Chhibramau(Kannuj),2016-11-14,4100.0,3.0,26.2,clear
+812,Arhar (Tur/Red Gram),Kannauj,2016-11-16,6500.0,6.5,17.4,clear
+813,Bengal Gram(Gram),Chhibramau(Kannuj),2016-11-16,8400.0,1.0,17.4,clear
+814,Bengal Gram(Gram),Kannauj,2016-11-16,9300.0,3.0,17.4,clear
+815,Green Gram (Moong),Chhibramau(Kannuj),2016-11-16,4000.0,2.0,17.4,clear
+816,Arhar (Tur/Red Gram),Kannauj,2016-11-17,6500.0,6.2,24.4,clear
+817,Bengal Gram(Gram),Kannauj,2016-11-17,9300.0,2.5,24.4,clear
+818,Arhar (Tur/Red Gram),Kannauj,2016-11-19,6450.0,2.0,24.0,clear
+819,Bengal Gram(Gram),Chhibramau(Kannuj),2016-11-19,8500.0,2.0,24.0,clear
+820,Bengal Gram(Gram),Kannauj,2016-11-19,9350.0,2.5,24.0,clear
+821,Green Gram (Moong),Chhibramau(Kannuj),2016-11-19,4100.0,4.0,24.0,clear
+822,Arhar (Tur/Red Gram),Kannauj,2016-11-20,6400.0,1.5,24.0,clear
+823,Bengal Gram(Gram),Chhibramau(Kannuj),2016-11-20,8500.0,2.0,24.0,clear
+824,Bengal Gram(Gram),Kannauj,2016-11-20,9400.0,2.0,24.0,clear
+825,Green Gram (Moong),Chhibramau(Kannuj),2016-11-20,4000.0,2.0,24.0,clear
+826,Arhar (Tur/Red Gram),Kannauj,2016-11-21,6400.0,1.2,26.0,clear
+827,Bengal Gram(Gram),Chhibramau(Kannuj),2016-11-21,8560.0,1.0,26.0,clear
+828,Bengal Gram(Gram),Kannauj,2016-11-21,9400.0,1.5,26.0,clear
+829,Green Gram (Moong),Chhibramau(Kannuj),2016-11-21,4000.0,2.0,26.0,clear
+830,Arhar (Tur/Red Gram),Kannauj,2016-11-23,6400.0,1.0,25.6,clear
+831,Bengal Gram(Gram),Chhibramau(Kannuj),2016-11-23,8500.0,1.0,25.6,clear
+832,Bengal Gram(Gram),Kannauj,2016-11-23,9450.0,1.2,25.6,clear
+833,Green Gram (Moong),Chhibramau(Kannuj),2016-11-23,4040.0,1.0,25.6,clear
+834,Arhar (Tur/Red Gram),Kannauj,2016-11-24,1800.0,2.5,25.0,clear
+835,Bengal Gram(Gram),Kannauj,2016-11-24,9450.0,1.2,25.0,clear
+836,Arhar (Tur/Red Gram),Kannauj,2016-11-25,6400.0,1.0,25.4,clear
+837,Bengal Gram(Gram),Chhibramau(Kannuj),2016-11-25,8600.0,1.0,25.4,clear
+838,Bengal Gram(Gram),Kannauj,2016-11-25,9450.0,1.2,25.4,clear
+839,Green Gram (Moong),Chhibramau(Kannuj),2016-11-25,4000.0,1.0,25.4,clear
+840,Arhar (Tur/Red Gram),Kannauj,2016-11-26,6450.0,1.2,25.4,clear
+841,Bengal Gram(Gram),Chhibramau(Kannuj),2016-11-26,8650.0,1.1,25.4,clear
+842,Bengal Gram(Gram),Kannauj,2016-11-26,9450.0,1.0,25.4,clear
+843,Green Gram (Moong),Chhibramau(Kannuj),2016-11-26,4000.0,2.0,25.4,clear
+844,Arhar (Tur/Red Gram),Kannauj,2016-11-27,6450.0,1.0,24.0,clear
+845,Bengal Gram(Gram),Chhibramau(Kannuj),2016-11-27,8500.0,1.2,24.0,clear
+846,Bengal Gram(Gram),Kannauj,2016-11-27,9500.0,0.9,24.0,clear
+847,Green Gram (Moong),Chhibramau(Kannuj),2016-11-27,4000.0,2.0,24.0,clear
+848,Arhar (Tur/Red Gram),Kannauj,2016-11-28,6450.0,0.9,24.0,clear
+849,Bengal Gram(Gram),Chhibramau(Kannuj),2016-11-28,8500.0,1.2,24.0,clear
+850,Bengal Gram(Gram),Kannauj,2016-11-28,9550.0,1.0,24.0,clear
+851,Green Gram (Moong),Chhibramau(Kannuj),2016-11-28,4000.0,2.1,24.0,clear
+852,Arhar (Tur/Red Gram),Kannauj,2016-11-30,6400.0,1.5,25.0,clear
+853,Bengal Gram(Gram),Chhibramau(Kannuj),2016-11-30,8500.0,1.0,25.0,clear
+854,Bengal Gram(Gram),Kannauj,2016-11-30,9500.0,2.5,25.0,clear
+855,Green Gram (Moong),Chhibramau(Kannuj),2016-11-30,4000.0,1.2,25.0,clear
+856,Arhar (Tur/Red Gram),Kannauj,2016-01-12,6420.0,1.8,20.8,clear
+857,Bengal Gram(Gram),Kannauj,2016-01-12,9450.0,3.5,20.8,clear
+858,Arhar (Tur/Red Gram),Kannauj,2016-02-12,6400.0,3.0,24.4,clear
+859,Bengal Gram(Gram),Chhibramau(Kannuj),2016-02-12,8600.0,1.2,24.4,clear
+860,Bengal Gram(Gram),Kannauj,2016-02-12,9500.0,3.0,24.4,clear
+861,Green Gram (Moong),Chhibramau(Kannuj),2016-02-12,4000.0,2.0,24.4,clear
+862,Arhar (Tur/Red Gram),Kannauj,2016-03-12,6400.0,3.0,30.6,clear
+863,Bengal Gram(Gram),Chhibramau(Kannuj),2016-03-12,8600.0,2.0,30.6,clear
+864,Bengal Gram(Gram),Kannauj,2016-03-12,9550.0,3.5,30.6,clear
+865,Green Gram (Moong),Chhibramau(Kannuj),2016-03-12,4060.0,1.0,30.6,clear
+866,Arhar (Tur/Red Gram),Kannauj,2016-05-12,6450.0,3.8,39.0,clear
+867,Bengal Gram(Gram),Chhibramau(Kannuj),2016-05-12,8700.0,2.0,39.0,clear
+868,Bengal Gram(Gram),Kannauj,2016-05-12,9600.0,2.5,39.0,clear
+869,Green Gram (Moong),Chhibramau(Kannuj),2016-05-12,4100.0,2.0,39.0,clear
+870,Arhar (Tur/Red Gram),Kannauj,2016-07-12,6400.0,3.5,33.6,clear
+871,Bengal Gram(Gram),Chhibramau(Kannuj),2016-07-12,8800.0,1.2,33.6,clear
+872,Bengal Gram(Gram),Kannauj,2016-07-12,9650.0,3.0,33.6,clear
+873,Green Gram (Moong),Chhibramau(Kannuj),2016-07-12,4000.0,2.0,33.6,clear
+874,Arhar (Tur/Red Gram),Kannauj,2016-09-12,6350.0,4.0,30.0,clear
+875,Bengal Gram(Gram),Chhibramau(Kannuj),2016-09-12,8800.0,1.0,30.0,clear
+876,Bengal Gram(Gram),Kannauj,2016-09-12,9650.0,3.0,30.0,clear
+877,Green Gram (Moong),Chhibramau(Kannuj),2016-09-12,4000.0,2.0,30.0,clear
+878,Arhar (Tur/Red Gram),Kannauj,2016-10-12,6350.0,4.2,31.4,clear
+879,Bengal Gram(Gram),Chhibramau(Kannuj),2016-10-12,8800.0,1.0,31.4,clear
+880,Bengal Gram(Gram),Kannauj,2016-10-12,9600.0,3.5,31.4,clear
+881,Green Gram (Moong),Chhibramau(Kannuj),2016-10-12,4050.0,2.0,31.4,clear
+882,Arhar (Tur/Red Gram),Kannauj,2016-11-12,6350.0,4.0,27.0,clear
+883,Bengal Gram(Gram),Kannauj,2016-11-12,9600.0,3.8,27.0,clear
+884,Green Gram (Moong),Chhibramau(Kannuj),2016-11-12,4100.0,5.0,27.0,clear
+885,Arhar (Tur/Red Gram),Kannauj,2016-12-12,6350.0,3.8,17.4,clear
+886,Bengal Gram(Gram),Chhibramau(Kannuj),2016-12-12,8800.0,1.0,17.4,clear
+887,Bengal Gram(Gram),Kannauj,2016-12-12,9600.0,4.0,17.4,clear
+888,Green Gram (Moong),Chhibramau(Kannuj),2016-12-12,4000.0,7.0,17.4,clear
+889,Arhar (Tur/Red Gram),Kannauj,2016-12-14,6300.0,3.5,21.6,clear
+890,Bengal Gram(Gram),Chhibramau(Kannuj),2016-12-14,11200.0,1.2,21.6,clear
+891,Bengal Gram(Gram),Kannauj,2016-12-14,9600.0,4.2,21.6,clear
+892,Green Gram (Moong),Chhibramau(Kannuj),2016-12-14,4000.0,2.0,21.6,clear
+893,Arhar (Tur/Red Gram),Kannauj,2016-12-16,6100.0,4.0,18.4,clear
+894,Bengal Gram(Gram),Chhibramau(Kannuj),2016-12-16,11100.0,1.0,18.4,clear
+895,Bengal Gram(Gram),Kannauj,2016-12-16,9500.0,4.0,18.4,clear
+896,Green Gram (Moong),Chhibramau(Kannuj),2016-12-16,4000.0,4.0,18.4,clear
+897,Arhar (Tur/Red Gram),Kannauj,2016-12-17,6150.0,3.8,20.4,clear
+898,Bengal Gram(Gram),Chhibramau(Kannuj),2016-12-17,11120.0,1.3,20.4,clear
+899,Bengal Gram(Gram),Kannauj,2016-12-17,9500.0,3.5,20.4,clear
+900,Green Gram (Moong),Chhibramau(Kannuj),2016-12-17,4020.0,3.0,20.4,clear
+901,Arhar (Tur/Red Gram),Kannauj,2016-12-18,6150.0,3.5,21.0,clear
+902,Bengal Gram(Gram),Chhibramau(Kannuj),2016-12-18,11200.0,3.0,21.0,clear
+903,Bengal Gram(Gram),Kannauj,2016-12-18,9500.0,3.8,21.0,clear
+904,Green Gram (Moong),Chhibramau(Kannuj),2016-12-18,4000.0,1.0,21.0,clear
+905,Arhar (Tur/Red Gram),Kannauj,2016-12-19,6000.0,3.8,21.4,clear
+906,Bengal Gram(Gram),Chhibramau(Kannuj),2016-12-19,11200.0,2.0,21.4,clear
+907,Bengal Gram(Gram),Kannauj,2016-12-19,9550.0,3.5,21.4,clear
+908,Green Gram (Moong),Chhibramau(Kannuj),2016-12-19,4060.0,2.0,21.4,clear
+909,Arhar (Tur/Red Gram),Kannauj,2016-12-21,6000.0,4.0,19.0,clear
+910,Bengal Gram(Gram),Chhibramau(Kannuj),2016-12-21,11200.0,1.0,19.0,clear
+911,Bengal Gram(Gram),Kannauj,2016-12-21,9600.0,3.8,19.0,clear
+912,Green Gram (Moong),Chhibramau(Kannuj),2016-12-21,4000.0,2.0,19.0,clear
+913,Arhar (Tur/Red Gram),Kannauj,2016-12-22,6000.0,4.2,19.2,clear
+914,Bengal Gram(Gram),Kannauj,2016-12-22,9680.0,3.5,19.2,clear
+915,Arhar (Tur/Red Gram),Kannauj,2016-12-23,6000.0,4.0,21.4,clear
+916,Bengal Gram(Gram),Chhibramau(Kannuj),2016-12-23,11200.0,2.0,21.4,clear
+917,Bengal Gram(Gram),Kannauj,2016-12-23,9700.0,3.0,21.4,clear
+918,Green Gram (Moong),Chhibramau(Kannuj),2016-12-23,4000.0,2.0,21.4,clear
+919,Arhar (Tur/Red Gram),Kannauj,2016-12-24,6100.0,3.0,22.0,clear
+920,Bengal Gram(Gram),Chhibramau(Kannuj),2016-12-24,10200.0,3.0,22.0,clear
+921,Bengal Gram(Gram),Kannauj,2016-12-24,9700.0,3.2,22.0,clear
+922,Green Gram (Moong),Chhibramau(Kannuj),2016-12-24,4000.0,2.0,22.0,clear
+923,Arhar (Tur/Red Gram),Kannauj,2016-12-25,6100.0,3.2,21.4,clear
+924,Bengal Gram(Gram),Chhibramau(Kannuj),2016-12-25,9940.0,2.0,21.4,clear
+925,Bengal Gram(Gram),Kannauj,2016-12-25,9750.0,3.0,21.4,clear
+926,Green Gram (Moong),Chhibramau(Kannuj),2016-12-25,4100.0,2.0,21.4,clear
+927,Arhar (Tur/Red Gram),Kannauj,2016-12-26,6100.0,3.0,20.8,clear
+928,Bengal Gram(Gram),Chhibramau(Kannuj),2016-12-26,8800.0,1.0,20.8,clear
+929,Bengal Gram(Gram),Kannauj,2016-12-26,9750.0,2.8,20.8,clear
+930,Green Gram (Moong),Chhibramau(Kannuj),2016-12-26,4100.0,2.0,20.8,clear
+931,Arhar (Tur/Red Gram),Kannauj,2016-12-28,5900.0,3.8,10.6,clear
+932,Bengal Gram(Gram),Chhibramau(Kannuj),2016-12-28,8600.0,1.0,10.6,clear
+933,Bengal Gram(Gram),Kannauj,2016-12-28,9800.0,2.5,10.6,clear
+934,Green Gram (Moong),Chhibramau(Kannuj),2016-12-28,4050.0,2.0,10.6,clear
+935,Arhar (Tur/Red Gram),Kannauj,2016-12-29,5800.0,4.0,13.0,clear
+936,Bengal Gram(Gram),Kannauj,2016-12-29,9800.0,3.0,13.0,clear
+937,Bengal Gram(Gram),Chhibramau(Kannuj),2016-12-01,5000.0,4.0,25.2,clear
+938,Bengal Gram(Gram),Chhibramau(Kannuj),2016-01-19,5000.0,3.5,10.6,clear
+939,Bengal Gram(Gram),Chhibramau(Kannuj),2016-02-10,7300.0,2.0,23.4,clear
+940,Green Gram (Moong),Chhibramau(Kannuj),2016-02-10,4200.0,4.0,23.4,clear
+941,Bengal Gram(Gram),Chhibramau(Kannuj),2016-04-10,7500.0,2.0,38.2,clear
+942,Green Gram (Moong),Chhibramau(Kannuj),2016-04-10,4200.0,4.0,38.2,clear
+943,Bengal Gram(Gram),Chhibramau(Kannuj),2016-07-10,8200.0,2.0,34.0,clear
+944,Green Gram (Moong),Chhibramau(Kannuj),2016-07-10,4100.0,3.0,34.0,clear
+945,Bengal Gram(Gram),Chhibramau(Kannuj),2016-08-10,8100.0,2.0,28.4,clear
+946,Green Gram (Moong),Chhibramau(Kannuj),2016-08-10,4000.0,2.0,28.4,clear
+947,Bengal Gram(Gram),Chhibramau(Kannuj),2016-09-10,8000.0,2.0,33.0,clear
+948,Green Gram (Moong),Chhibramau(Kannuj),2016-09-10,4120.0,4.0,33.0,clear
+949,Bengal Gram(Gram),Chhibramau(Kannuj),2016-10-10,7500.0,2.0,27.4,clear
+950,Green Gram (Moong),Chhibramau(Kannuj),2016-10-10,4200.0,2.0,27.4,clear
+951,Bengal Gram(Gram),Chhibramau(Kannuj),2016-11-10,8500.0,2.0,26.0,clear
+952,Green Gram (Moong),Chhibramau(Kannuj),2016-11-10,4100.0,3.0,26.0,clear
+953,Bengal Gram(Gram),Chhibramau(Kannuj),2016-10-18,8200.0,2.0,32.0,clear
+954,Green Gram (Moong),Chhibramau(Kannuj),2016-10-18,4200.0,3.0,32.0,clear
+955,Bengal Gram(Gram),Chhibramau(Kannuj),2016-10-25,8500.0,5.0,31.0,clear
+956,Green Gram (Moong),Chhibramau(Kannuj),2016-10-25,4120.0,6.0,31.0,clear
+957,Bengal Gram(Gram),Chhibramau(Kannuj),2016-10-30,8200.0,4.0,28.2,clear
+958,Green Gram (Moong),Chhibramau(Kannuj),2016-10-30,4100.0,5.0,28.2,clear
+959,Bengal Gram(Gram),Chhibramau(Kannuj),2016-10-31,8200.0,2.0,28.0,clear
+960,Green Gram (Moong),Chhibramau(Kannuj),2016-10-31,4000.0,6.0,28.0,clear
+961,Bengal Gram(Gram),Chhibramau(Kannuj),2016-01-11,8400.0,4.0,20.6,clear
+962,Green Gram (Moong),Chhibramau(Kannuj),2016-01-11,4200.0,4.0,20.6,clear
+963,Bengal Gram(Gram),Chhibramau(Kannuj),2016-08-11,8500.0,2.0,30.6,clear
+964,Green Gram (Moong),Chhibramau(Kannuj),2016-08-11,4100.0,5.0,30.6,clear
+965,Bengal Gram(Gram),Chhibramau(Kannuj),2016-11-15,8700.0,3.0,26.4,clear
+966,Green Gram (Moong),Chhibramau(Kannuj),2016-11-15,4100.0,3.0,26.4,clear
+967,Bengal Gram(Gram),Chhibramau(Kannuj),2016-11-18,8560.0,1.0,24.0,clear
+968,Green Gram (Moong),Chhibramau(Kannuj),2016-11-18,4000.0,1.0,24.0,clear
+969,Bengal Gram(Gram),Chhibramau(Kannuj),2016-11-22,8600.0,1.0,26.4,clear
+970,Green Gram (Moong),Chhibramau(Kannuj),2016-11-22,4000.0,1.0,26.4,clear
+971,Bengal Gram(Gram),Chhibramau(Kannuj),2016-04-12,8700.0,1.1,35.0,clear
+972,Green Gram (Moong),Chhibramau(Kannuj),2016-04-12,4000.0,3.0,35.0,clear
+973,Bengal Gram(Gram),Chhibramau(Kannuj),2016-12-13,8800.0,1.3,18.8,clear
+974,Green Gram (Moong),Chhibramau(Kannuj),2016-12-13,4000.0,2.0,18.8,clear
+975,Bengal Gram(Gram),Chhibramau(Kannuj),2016-12-20,11120.0,1.0,21.6,clear
+976,Green Gram (Moong),Chhibramau(Kannuj),2016-12-20,4000.0,2.0,21.6,clear
+977,Bengal Gram(Gram),Chhibramau(Kannuj),2016-12-27,8560.0,3.0,19.6,clear
+978,Green Gram (Moong),Chhibramau(Kannuj),2016-12-27,4000.0,2.0,19.6,clear
+979,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-09-16,4700.0,0.0,33.8,clear
+980,Arhar (Tur/Red Gram),Kannauj,2017-09-16,4200.0,1.5,33.8,clear
+981,Bengal Gram(Gram),Chhibramau(Kannuj),2017-09-16,6400.0,1.0,33.8,clear
+982,Bengal Gram(Gram),Kannauj,2017-09-16,6150.0,1.6,33.8,clear
+983,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-09-16,4200.0,1.0,33.8,clear
+984,Green Gram (Moong),Chhibramau(Kannuj),2017-09-16,4100.0,1.0,33.8,clear
+985,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-09-17,4650.0,1.0,30.0,clear
+986,Arhar (Tur/Red Gram),Kannauj,2017-09-17,4350.0,1.7,30.0,clear
+987,Bengal Gram(Gram),Chhibramau(Kannuj),2017-09-17,6500.0,1.0,30.0,clear
+988,Bengal Gram(Gram),Kannauj,2017-09-17,6200.0,1.2,30.0,clear
+989,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-09-17,4250.0,1.0,30.0,clear
+990,Black Gram (Urd Beans),Kannauj,2017-09-17,5900.0,2.0,30.0,clear
+991,Green Gram (Moong),Chhibramau(Kannuj),2017-09-17,4100.0,1.5,30.0,clear
+992,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-09-18,4700.0,1.5,30.8,clear
+993,Arhar (Tur/Red Gram),Kannauj,2017-09-18,4350.0,1.5,30.8,clear
+994,Bengal Gram(Gram),Chhibramau(Kannuj),2017-09-18,6400.0,1.0,30.8,clear
+995,Bengal Gram(Gram),Kannauj,2017-09-18,6200.0,1.2,30.8,clear
+996,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-09-18,4300.0,1.0,30.8,clear
+997,Black Gram (Urd Beans),Kannauj,2017-09-18,5900.0,2.2,30.8,clear
+998,Green Gram (Moong),Chhibramau(Kannuj),2017-09-18,4120.0,1.0,30.8,clear
+999,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-09-19,4700.0,1.0,34.6,clear
+1000,Bengal Gram(Gram),Chhibramau(Kannuj),2017-09-19,6600.0,1.0,34.6,clear
+1001,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-09-19,5500.0,1.0,34.6,clear
+1002,Green Gram (Moong),Chhibramau(Kannuj),2017-09-19,4000.0,1.0,34.6,clear
+1003,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-09-20,4670.0,1.3,34.6,clear
+1004,Arhar (Tur/Red Gram),Kannauj,2017-09-20,4350.0,1.8,34.6,clear
+1005,Bengal Gram(Gram),Chhibramau(Kannuj),2017-09-20,6650.0,1.5,34.6,clear
+1006,Bengal Gram(Gram),Kannauj,2017-09-20,6210.0,1.0,34.6,clear
+1007,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-09-20,5600.0,0.0,34.6,clear
+1008,Black Gram (Urd Beans),Kannauj,2017-09-20,7200.0,0.0,34.6,clear
+1009,Green Gram (Moong),Chhibramau(Kannuj),2017-09-20,4050.0,2.0,34.6,clear
+1010,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-09-22,4400.0,2.0,27.6,clear
+1011,Arhar (Tur/Red Gram),Kannauj,2017-09-22,4400.0,1.5,27.6,clear
+1012,Bengal Gram(Gram),Chhibramau(Kannuj),2017-09-22,6620.0,1.0,27.6,clear
+1013,Bengal Gram(Gram),Kannauj,2017-09-22,6200.0,1.5,27.6,clear
+1014,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-09-22,4500.0,1.0,27.6,clear
+1015,Black Gram (Urd Beans),Kannauj,2017-09-22,5800.0,2.0,27.6,clear
+1016,Green Gram (Moong),Chhibramau(Kannuj),2017-09-22,4120.0,1.0,27.6,clear
+1017,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-09-23,4450.0,1.0,27.6,clear
+1018,Arhar (Tur/Red Gram),Kannauj,2017-09-23,4450.0,1.3,27.6,clear
+1019,Bengal Gram(Gram),Chhibramau(Kannuj),2017-09-23,6650.0,1.0,27.6,clear
+1020,Bengal Gram(Gram),Kannauj,2017-09-23,6250.0,1.6,27.6,clear
+1021,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-09-23,4600.0,1.0,27.6,clear
+1022,Black Gram (Urd Beans),Kannauj,2017-09-23,5800.0,1.8,27.6,clear
+1023,Green Gram (Moong),Chhibramau(Kannuj),2017-09-23,4100.0,1.0,27.6,clear
+1024,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-09-24,4550.0,1.0,28.0,clear
+1025,Arhar (Tur/Red Gram),Kannauj,2017-09-24,4800.0,1.5,28.0,clear
+1026,Bengal Gram(Gram),Chhibramau(Kannuj),2017-09-24,6600.0,1.0,28.0,clear
+1027,Bengal Gram(Gram),Kannauj,2017-09-24,6280.0,1.5,28.0,clear
+1028,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-09-24,4550.0,1.0,28.0,clear
+1029,Black Gram (Urd Beans),Kannauj,2017-09-24,5650.0,2.0,28.0,clear
+1030,Green Gram (Moong),Chhibramau(Kannuj),2017-09-24,4000.0,2.0,28.0,clear
+1031,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-09-25,4500.0,1.0,31.6,clear
+1032,Arhar (Tur/Red Gram),Kannauj,2017-09-25,4800.0,1.2,31.6,clear
+1033,Bengal Gram(Gram),Chhibramau(Kannuj),2017-09-25,6610.0,1.0,31.6,clear
+1034,Bengal Gram(Gram),Kannauj,2017-09-25,6280.0,1.8,31.6,clear
+1035,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-09-25,4600.0,2.0,31.6,clear
+1036,Black Gram (Urd Beans),Kannauj,2017-09-25,5650.0,2.2,31.6,clear
+1037,Green Gram (Moong),Chhibramau(Kannuj),2017-09-25,4000.0,2.0,31.6,clear
+1038,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-09-26,4400.0,1.2,32.0,clear
+1039,Bengal Gram(Gram),Chhibramau(Kannuj),2017-09-26,6500.0,1.0,32.0,clear
+1040,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-09-26,4500.0,1.0,32.0,clear
+1041,Green Gram (Moong),Chhibramau(Kannuj),2017-09-26,4000.0,1.0,32.0,clear
+1042,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-09-27,4560.0,1.0,30.0,clear
+1043,Arhar (Tur/Red Gram),Kannauj,2017-09-27,4850.0,1.5,30.0,clear
+1044,Bengal Gram(Gram),Chhibramau(Kannuj),2017-09-27,6700.0,1.0,30.0,clear
+1045,Bengal Gram(Gram),Kannauj,2017-09-27,6300.0,1.5,30.0,clear
+1046,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-09-27,4600.0,2.0,30.0,clear
+1047,Black Gram (Urd Beans),Kannauj,2017-09-27,5400.0,2.0,30.0,clear
+1048,Green Gram (Moong),Chhibramau(Kannuj),2017-09-27,4000.0,2.0,30.0,clear
+1049,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-09-29,4450.0,1.0,33.0,clear
+1050,Arhar (Tur/Red Gram),Kannauj,2017-09-29,4950.0,1.5,33.0,clear
+1051,Bengal Gram(Gram),Chhibramau(Kannuj),2017-09-29,6500.0,1.0,33.0,clear
+1052,Bengal Gram(Gram),Kannauj,2017-09-29,6200.0,1.7,33.0,clear
+1053,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-09-29,4400.0,1.0,33.0,clear
+1054,Black Gram (Urd Beans),Kannauj,2017-09-29,5250.0,2.0,33.0,clear
+1055,Green Gram (Moong),Chhibramau(Kannuj),2017-09-29,4000.0,1.0,33.0,clear
+1056,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-09-30,4460.0,1.0,33.0,clear
+1057,Arhar (Tur/Red Gram),Kannauj,2017-09-30,4950.0,1.8,33.0,clear
+1058,Bengal Gram(Gram),Chhibramau(Kannuj),2017-09-30,6500.0,1.0,33.0,clear
+1059,Bengal Gram(Gram),Kannauj,2017-09-30,6200.0,1.5,33.0,clear
+1060,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-09-30,4450.0,1.0,33.0,clear
+1061,Black Gram (Urd Beans),Kannauj,2017-09-30,5250.0,2.2,33.0,clear
+1062,Green Gram (Moong),Chhibramau(Kannuj),2017-09-30,4050.0,1.0,33.0,clear
+1063,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-01-10,4500.0,1.0,11.4,clear
+1064,Arhar (Tur/Red Gram),Kannauj,2017-01-10,4950.0,2.0,11.4,clear
+1065,Bengal Gram(Gram),Chhibramau(Kannuj),2017-01-10,6520.0,1.0,11.4,clear
+1066,Bengal Gram(Gram),Kannauj,2017-01-10,6200.0,1.6,11.4,clear
+1067,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-01-10,4600.0,1.0,11.4,clear
+1068,Black Gram (Urd Beans),Kannauj,2017-01-10,5250.0,2.5,11.4,clear
+1069,Green Gram (Moong),Chhibramau(Kannuj),2017-01-10,4000.0,4.0,11.4,clear
+1070,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-03-10,4580.0,1.5,16.8,clear
+1071,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-10,6610.0,1.0,16.8,clear
+1072,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-03-10,4600.0,1.5,16.8,clear
+1073,Green Gram (Moong),Chhibramau(Kannuj),2017-03-10,4050.0,1.0,16.8,clear
+1074,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-04-10,4550.0,1.2,33.8,clear
+1075,Arhar (Tur/Red Gram),Kannauj,2017-04-10,4950.0,2.2,33.8,clear
+1076,Bengal Gram(Gram),Chhibramau(Kannuj),2017-04-10,6650.0,1.0,33.8,clear
+1077,Bengal Gram(Gram),Kannauj,2017-04-10,6250.0,1.5,33.8,clear
+1078,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-04-10,4610.0,1.0,33.8,clear
+1079,Black Gram (Urd Beans),Kannauj,2017-04-10,5250.0,2.0,33.8,clear
+1080,Green Gram (Moong),Chhibramau(Kannuj),2017-04-10,4060.0,1.0,33.8,clear
+1081,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-06-10,4500.0,1.0,39.6,clear
+1082,Arhar (Tur/Red Gram),Kannauj,2017-06-10,5000.0,1.8,39.6,clear
+1083,Bengal Gram(Gram),Chhibramau(Kannuj),2017-06-10,6600.0,1.0,39.6,clear
+1084,Bengal Gram(Gram),Kannauj,2017-06-10,6200.0,1.8,39.6,clear
+1085,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-06-10,4620.0,1.0,39.6,clear
+1086,Black Gram (Urd Beans),Kannauj,2017-06-10,5000.0,2.0,39.6,clear
+1087,Green Gram (Moong),Chhibramau(Kannuj),2017-06-10,4000.0,1.0,39.6,clear
+1088,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-07-10,4700.0,1.5,26.6,clear
+1089,Arhar (Tur/Red Gram),Kannauj,2017-07-10,5050.0,1.5,26.6,clear
+1090,Bengal Gram(Gram),Chhibramau(Kannuj),2017-07-10,6700.0,1.0,26.6,clear
+1091,Bengal Gram(Gram),Kannauj,2017-07-10,6250.0,2.0,26.6,clear
+1092,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-07-10,4700.0,15.0,26.6,clear
+1093,Black Gram (Urd Beans),Kannauj,2017-07-10,5200.0,1.8,26.6,clear
+1094,Green Gram (Moong),Chhibramau(Kannuj),2017-07-10,4050.0,12.0,26.6,clear
+1095,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-08-10,4500.0,1.0,27.6,clear
+1096,Arhar (Tur/Red Gram),Kannauj,2017-08-10,5050.0,1.2,27.6,clear
+1097,Bengal Gram(Gram),Chhibramau(Kannuj),2017-08-10,6500.0,1.0,27.6,clear
+1098,Bengal Gram(Gram),Kannauj,2017-08-10,6250.0,1.7,27.6,clear
+1099,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-08-10,4500.0,1.0,27.6,clear
+1100,Black Gram (Urd Beans),Kannauj,2017-08-10,5200.0,1.5,27.6,clear
+1101,Green Gram (Moong),Chhibramau(Kannuj),2017-08-10,4000.0,1.0,27.6,clear
+1102,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-09-10,4500.0,1.0,34.8,clear
+1103,Arhar (Tur/Red Gram),Kannauj,2017-09-10,5050.0,1.5,34.8,clear
+1104,Bengal Gram(Gram),Chhibramau(Kannuj),2017-09-10,6240.0,1.0,34.8,clear
+1105,Bengal Gram(Gram),Kannauj,2017-09-10,6250.0,1.9,34.8,clear
+1106,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-09-10,4510.0,1.2,34.8,clear
+1107,Black Gram (Urd Beans),Kannauj,2017-09-10,5100.0,1.8,34.8,clear
+1108,Green Gram (Moong),Chhibramau(Kannuj),2017-09-10,4000.0,1.2,34.8,clear
+1109,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-10-10,4600.0,1.0,33.2,clear
+1110,Bengal Gram(Gram),Chhibramau(Kannuj),2017-10-10,6250.0,1.5,33.2,clear
+1111,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-10-10,4500.0,1.5,33.2,clear
+1112,Green Gram (Moong),Chhibramau(Kannuj),2017-10-10,4100.0,1.5,33.2,clear
+1113,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-11-10,4500.0,1.2,26.4,clear
+1114,Arhar (Tur/Red Gram),Kannauj,2017-11-10,5000.0,1.8,26.4,clear
+1115,Bengal Gram(Gram),Chhibramau(Kannuj),2017-11-10,6500.0,1.0,26.4,clear
+1116,Bengal Gram(Gram),Kannauj,2017-11-10,6300.0,1.5,26.4,clear
+1117,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-11-10,4550.0,1.2,26.4,clear
+1118,Black Gram (Urd Beans),Kannauj,2017-11-10,4900.0,2.0,26.4,clear
+1119,Green Gram (Moong),Chhibramau(Kannuj),2017-11-10,4000.0,1.0,26.4,clear
+1120,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-10-13,4550.0,1.2,33.2,clear
+1121,Arhar (Tur/Red Gram),Kannauj,2017-10-13,5000.0,1.3,33.2,clear
+1122,Bengal Gram(Gram),Chhibramau(Kannuj),2017-10-13,6300.0,1.0,33.2,clear
+1123,Bengal Gram(Gram),Kannauj,2017-10-13,6300.0,1.0,33.2,clear
+1124,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-10-13,4510.0,1.2,33.2,clear
+1125,Black Gram (Urd Beans),Kannauj,2017-10-13,4950.0,2.0,33.2,clear
+1126,Green Gram (Moong),Chhibramau(Kannuj),2017-10-13,4050.0,1.2,33.2,clear
+1127,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-10-14,4500.0,1.0,33.4,clear
+1128,Arhar (Tur/Red Gram),Kannauj,2017-10-14,5050.0,1.0,33.4,clear
+1129,Bengal Gram(Gram),Chhibramau(Kannuj),2017-10-14,6400.0,1.2,33.4,clear
+1130,Bengal Gram(Gram),Kannauj,2017-10-14,6280.0,1.2,33.4,clear
+1131,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-10-14,4500.0,1.0,33.4,clear
+1132,Black Gram (Urd Beans),Kannauj,2017-10-14,4900.0,2.2,33.4,clear
+1133,Green Gram (Moong),Chhibramau(Kannuj),2017-10-14,4000.0,1.0,33.4,clear
+1134,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-10-15,4600.0,1.0,31.0,clear
+1135,Arhar (Tur/Red Gram),Kannauj,2017-10-15,5050.0,1.2,31.0,clear
+1136,Bengal Gram(Gram),Chhibramau(Kannuj),2017-10-15,6450.0,1.0,31.0,clear
+1137,Bengal Gram(Gram),Kannauj,2017-10-15,6250.0,1.5,31.0,clear
+1138,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-10-15,4550.0,1.0,31.0,clear
+1139,Black Gram (Urd Beans),Kannauj,2017-10-15,4900.0,2.0,31.0,clear
+1140,Green Gram (Moong),Chhibramau(Kannuj),2017-10-15,4050.0,2.0,31.0,clear
+1141,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-10-16,4620.0,2.2,32.0,clear
+1142,Arhar (Tur/Red Gram),Kannauj,2017-10-16,5050.0,1.5,32.0,clear
+1143,Bengal Gram(Gram),Chhibramau(Kannuj),2017-10-16,6400.0,1.0,32.0,clear
+1144,Bengal Gram(Gram),Kannauj,2017-10-16,6200.0,1.7,32.0,clear
+1145,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-10-16,4560.0,1.0,32.0,clear
+1146,Black Gram (Urd Beans),Kannauj,2017-10-16,4850.0,2.2,32.0,clear
+1147,Green Gram (Moong),Chhibramau(Kannuj),2017-10-16,4060.0,3.0,32.0,clear
+1148,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-10-17,4500.0,1.0,32.0,clear
+1149,Bengal Gram(Gram),Chhibramau(Kannuj),2017-10-17,6700.0,1.2,32.0,clear
+1150,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-10-17,4600.0,1.2,32.0,clear
+1151,Green Gram (Moong),Chhibramau(Kannuj),2017-10-17,4100.0,1.2,32.0,clear
+1152,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-10-18,4500.0,1.0,33.0,clear
+1153,Arhar (Tur/Red Gram),Kannauj,2017-10-18,5000.0,1.7,33.0,clear
+1154,Bengal Gram(Gram),Chhibramau(Kannuj),2017-10-18,6700.0,1.0,33.0,clear
+1155,Bengal Gram(Gram),Kannauj,2017-10-18,6200.0,1.5,33.0,clear
+1156,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-10-18,4610.0,1.0,33.0,clear
+1157,Black Gram (Urd Beans),Kannauj,2017-10-18,4800.0,1.8,33.0,clear
+1158,Green Gram (Moong),Chhibramau(Kannuj),2017-10-18,4100.0,1.0,33.0,clear
+1159,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-10-20,4500.0,2.0,33.2,clear
+1160,Bengal Gram(Gram),Chhibramau(Kannuj),2017-10-20,6700.0,1.0,33.2,clear
+1161,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-10-20,4700.0,2.0,33.2,clear
+1162,Green Gram (Moong),Chhibramau(Kannuj),2017-10-20,4000.0,3.0,33.2,clear
+1163,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-10-21,4620.0,2.0,32.0,clear
+1164,Bengal Gram(Gram),Chhibramau(Kannuj),2017-10-21,6700.0,2.0,32.0,clear
+1165,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-10-21,4710.0,1.2,32.0,clear
+1166,Green Gram (Moong),Chhibramau(Kannuj),2017-10-21,4000.0,1.0,32.0,clear
+1167,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-10-22,4500.0,1.0,32.4,clear
+1168,Arhar (Tur/Red Gram),Kannauj,2017-10-22,4900.0,1.5,32.4,clear
+1169,Bengal Gram(Gram),Chhibramau(Kannuj),2017-10-22,6820.0,1.0,32.4,clear
+1170,Bengal Gram(Gram),Kannauj,2017-10-22,6250.0,1.6,32.4,clear
+1171,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-10-22,4620.0,1.0,32.4,clear
+1172,Black Gram (Urd Beans),Kannauj,2017-10-22,4800.0,2.0,32.4,clear
+1173,Green Gram (Moong),Chhibramau(Kannuj),2017-10-22,4100.0,1.0,32.4,clear
+1174,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-10-24,4500.0,1.5,31.4,clear
+1175,Bengal Gram(Gram),Chhibramau(Kannuj),2017-10-24,6700.0,1.0,31.4,clear
+1176,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-10-24,4600.0,1.0,31.4,clear
+1177,Green Gram (Moong),Chhibramau(Kannuj),2017-10-24,4000.0,3.5,31.4,clear
+1178,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-10-25,4500.0,1.5,30.0,clear
+1179,Arhar (Tur/Red Gram),Kannauj,2017-10-25,4900.0,1.0,30.0,clear
+1180,Bengal Gram(Gram),Chhibramau(Kannuj),2017-10-25,6700.0,1.0,30.0,clear
+1181,Bengal Gram(Gram),Kannauj,2017-10-25,6250.0,1.5,30.0,clear
+1182,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-10-25,4600.0,2.0,30.0,clear
+1183,Black Gram (Urd Beans),Kannauj,2017-10-25,4850.0,2.0,30.0,clear
+1184,Green Gram (Moong),Chhibramau(Kannuj),2017-10-25,4000.0,3.0,30.0,clear
+1185,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-10-27,4500.0,2.0,29.6,clear
+1186,Arhar (Tur/Red Gram),Kannauj,2017-10-27,4900.0,1.0,29.6,clear
+1187,Bengal Gram(Gram),Chhibramau(Kannuj),2017-10-27,6600.0,1.5,29.6,clear
+1188,Bengal Gram(Gram),Kannauj,2017-10-27,6300.0,1.5,29.6,clear
+1189,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-10-27,4700.0,1.0,29.6,clear
+1190,Black Gram (Urd Beans),Kannauj,2017-10-27,4800.0,2.0,29.6,clear
+1191,Green Gram (Moong),Chhibramau(Kannuj),2017-10-27,4000.0,3.0,29.6,clear
+1192,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-10-28,4710.0,1.2,29.0,clear
+1193,Arhar (Tur/Red Gram),Kannauj,2017-10-28,4900.0,1.0,29.0,clear
+1194,Bengal Gram(Gram),Chhibramau(Kannuj),2017-10-28,6700.0,1.0,29.0,clear
+1195,Bengal Gram(Gram),Kannauj,2017-10-28,6300.0,1.8,29.0,clear
+1196,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-10-28,4710.0,1.2,29.0,clear
+1197,Black Gram (Urd Beans),Kannauj,2017-10-28,4880.0,1.8,29.0,clear
+1198,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-10-30,4650.0,1.0,29.6,clear
+1199,Arhar (Tur/Red Gram),Kannauj,2017-10-30,4800.0,1.6,29.6,clear
+1200,Bengal Gram(Gram),Chhibramau(Kannuj),2017-10-30,6800.0,2.0,29.6,clear
+1201,Bengal Gram(Gram),Kannauj,2017-10-30,6300.0,1.0,29.6,clear
+1202,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-10-30,4650.0,1.5,29.6,clear
+1203,Black Gram (Urd Beans),Kannauj,2017-10-30,4850.0,2.2,29.6,clear
+1204,Green Gram (Moong),Chhibramau(Kannuj),2017-10-30,4000.0,5.5,29.6,clear
+1205,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-10-31,4500.0,1.0,29.8,clear
+1206,Bengal Gram(Gram),Chhibramau(Kannuj),2017-10-31,6700.0,1.0,29.8,clear
+1207,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-10-31,4600.0,1.5,29.8,clear
+1208,Green Gram (Moong),Chhibramau(Kannuj),2017-10-31,4040.0,3.0,29.8,clear
+1209,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-03-11,4400.0,1.0,17.4,clear
+1210,Arhar (Tur/Red Gram),Kannauj,2017-03-11,4750.0,1.5,17.4,clear
+1211,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-11,6600.0,1.0,17.4,clear
+1212,Bengal Gram(Gram),Kannauj,2017-03-11,6250.0,1.2,17.4,clear
+1213,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-03-11,4600.0,1.5,17.4,clear
+1214,Black Gram (Urd Beans),Kannauj,2017-03-11,4900.0,2.0,17.4,clear
+1215,Green Gram (Moong),Chhibramau(Kannuj),2017-03-11,4000.0,2.0,17.4,clear
+1216,Arhar (Tur/Red Gram),Chhibramau(Kannuj),2017-04-11,4500.0,1.0,36.0,clear
+1217,Bengal Gram(Gram),Chhibramau(Kannuj),2017-04-11,6800.0,1.0,36.0,clear
+1218,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-04-11,4600.0,3.0,36.0,clear
+1219,Green Gram (Moong),Chhibramau(Kannuj),2017-04-11,4000.0,2.0,36.0,clear
+1220,Arhar (Tur/Red Gram),Kannauj,2017-01-01,5700.0,5.0,18.0,clear
+1221,Bengal Gram(Gram),Kannauj,2017-01-01,9750.0,4.5,18.0,clear
+1222,Arhar (Tur/Red Gram),Kannauj,2017-02-01,5700.0,5.5,22.2,clear
+1223,Bengal Gram(Gram),Chhibramau(Kannuj),2017-02-01,8700.0,2.0,22.2,clear
+1224,Bengal Gram(Gram),Kannauj,2017-02-01,9700.0,4.8,22.2,clear
+1225,Green Gram (Moong),Chhibramau(Kannuj),2017-02-01,4100.0,2.0,22.2,clear
+1226,Arhar (Tur/Red Gram),Kannauj,2017-04-01,5600.0,5.8,38.4,clear
+1227,Bengal Gram(Gram),Chhibramau(Kannuj),2017-04-01,8700.0,1.0,38.4,clear
+1228,Bengal Gram(Gram),Kannauj,2017-04-01,9680.0,4.5,38.4,clear
+1229,Green Gram (Moong),Chhibramau(Kannuj),2017-04-01,4100.0,3.0,38.4,clear
+1230,Arhar (Tur/Red Gram),Kannauj,2017-05-01,5620.0,5.5,28.0,rain
+1231,Bengal Gram(Gram),Kannauj,2017-05-01,9680.0,4.2,28.0,rain
+1232,Arhar (Tur/Red Gram),Kannauj,2017-06-01,5620.0,5.0,37.6,clear
+1233,Bengal Gram(Gram),Chhibramau(Kannuj),2017-06-01,8700.0,1.0,37.6,clear
+1234,Bengal Gram(Gram),Kannauj,2017-06-01,9680.0,3.8,37.6,clear
+1235,Green Gram (Moong),Chhibramau(Kannuj),2017-06-01,4100.0,2.0,37.6,clear
+1236,Arhar (Tur/Red Gram),Kannauj,2017-07-01,5650.0,4.8,29.0,clear
+1237,Bengal Gram(Gram),Chhibramau(Kannuj),2017-07-01,8700.0,1.2,29.0,clear
+1238,Bengal Gram(Gram),Kannauj,2017-07-01,9650.0,3.5,29.0,clear
+1239,Green Gram (Moong),Chhibramau(Kannuj),2017-07-01,4100.0,2.0,29.0,clear
+1240,Arhar (Tur/Red Gram),Kannauj,2017-08-01,5600.0,5.0,28.4,clear
+1241,Bengal Gram(Gram),Kannauj,2017-08-01,9600.0,3.8,28.4,clear
+1242,Arhar (Tur/Red Gram),Kannauj,2017-09-01,5600.0,5.2,30.6,clear
+1243,Bengal Gram(Gram),Chhibramau(Kannuj),2017-09-01,8700.0,2.0,30.6,clear
+1244,Bengal Gram(Gram),Kannauj,2017-09-01,9600.0,3.5,30.6,clear
+1245,Green Gram (Moong),Chhibramau(Kannuj),2017-09-01,4100.0,2.0,30.6,clear
+1246,Arhar (Tur/Red Gram),Kannauj,2017-11-01,5610.0,5.0,28.8,clear
+1247,Bengal Gram(Gram),Kannauj,2017-11-01,9600.0,3.8,28.8,clear
+1248,Arhar (Tur/Red Gram),Kannauj,2017-12-01,5600.0,5.5,23.0,clear
+1249,Bengal Gram(Gram),Kannauj,2017-12-01,9550.0,4.0,23.0,clear
+1250,Arhar (Tur/Red Gram),Kannauj,2017-01-13,5600.0,6.0,17.0,clear
+1251,Bengal Gram(Gram),Chhibramau(Kannuj),2017-01-13,8800.0,1.0,17.0,clear
+1252,Bengal Gram(Gram),Kannauj,2017-01-13,9550.0,4.5,17.0,clear
+1253,Green Gram (Moong),Chhibramau(Kannuj),2017-01-13,4100.0,3.0,17.0,clear
+1254,Arhar (Tur/Red Gram),Kannauj,2017-01-14,5600.0,5.0,19.2,clear
+1255,Bengal Gram(Gram),Chhibramau(Kannuj),2017-01-14,8800.0,1.0,19.2,clear
+1256,Bengal Gram(Gram),Kannauj,2017-01-14,9500.0,4.0,19.2,clear
+1257,Green Gram (Moong),Chhibramau(Kannuj),2017-01-14,4000.0,2.0,19.2,clear
+1258,Arhar (Tur/Red Gram),Kannauj,2017-01-15,5600.0,5.2,19.4,clear
+1259,Bengal Gram(Gram),Kannauj,2017-01-15,9500.0,4.2,19.4,clear
+1260,Arhar (Tur/Red Gram),Kannauj,2017-01-16,5600.0,5.0,21.8,clear
+1261,Bengal Gram(Gram),Chhibramau(Kannuj),2017-01-16,8900.0,1.0,21.8,clear
+1262,Bengal Gram(Gram),Kannauj,2017-01-16,9500.0,3.5,21.8,clear
+1263,Green Gram (Moong),Chhibramau(Kannuj),2017-01-16,4000.0,2.0,21.8,clear
+1264,Arhar (Tur/Red Gram),Kannauj,2017-01-18,5500.0,6.0,16.0,clear
+1265,Bengal Gram(Gram),Chhibramau(Kannuj),2017-01-18,8900.0,2.0,16.0,clear
+1266,Bengal Gram(Gram),Kannauj,2017-01-18,9450.0,3.8,16.0,clear
+1267,Green Gram (Moong),Chhibramau(Kannuj),2017-01-18,4100.0,2.0,16.0,clear
+1268,Arhar (Tur/Red Gram),Kannauj,2017-01-19,5450.0,6.5,20.8,clear
+1269,Bengal Gram(Gram),Kannauj,2017-01-19,9450.0,3.5,20.8,clear
+1270,Arhar (Tur/Red Gram),Kannauj,2017-01-20,5400.0,7.0,20.0,clear
+1271,Bengal Gram(Gram),Chhibramau(Kannuj),2017-01-20,8800.0,2.0,20.0,clear
+1272,Bengal Gram(Gram),Kannauj,2017-01-20,9400.0,3.8,20.0,clear
+1273,Green Gram (Moong),Chhibramau(Kannuj),2017-01-20,4100.0,1.0,20.0,clear
+1274,Arhar (Tur/Red Gram),Kannauj,2017-01-21,5400.0,7.5,19.6,clear
+1275,Bengal Gram(Gram),Chhibramau(Kannuj),2017-01-21,8900.0,1.0,19.6,clear
+1276,Bengal Gram(Gram),Kannauj,2017-01-21,9350.0,4.0,19.6,clear
+1277,Green Gram (Moong),Chhibramau(Kannuj),2017-01-21,4100.0,2.0,19.6,clear
+1278,Arhar (Tur/Red Gram),Kannauj,2017-01-22,5400.0,7.8,21.8,clear
+1279,Bengal Gram(Gram),Chhibramau(Kannuj),2017-01-22,8900.0,1.0,21.8,clear
+1280,Bengal Gram(Gram),Kannauj,2017-01-22,9300.0,4.2,21.8,clear
+1281,Green Gram (Moong),Chhibramau(Kannuj),2017-01-22,4120.0,2.0,21.8,clear
+1282,Arhar (Tur/Red Gram),Kannauj,2017-01-23,5400.0,7.5,24.0,clear
+1283,Bengal Gram(Gram),Chhibramau(Kannuj),2017-01-23,8900.0,2.0,24.0,clear
+1284,Bengal Gram(Gram),Kannauj,2017-01-23,9300.0,4.5,24.0,clear
+1285,Green Gram (Moong),Chhibramau(Kannuj),2017-01-23,4100.0,3.0,24.0,clear
+1286,Arhar (Tur/Red Gram),Kannauj,2017-01-25,5400.0,4.8,24.4,clear
+1287,Bengal Gram(Gram),Chhibramau(Kannuj),2017-01-25,8800.0,1.0,24.4,clear
+1288,Bengal Gram(Gram),Kannauj,2017-01-25,9200.0,4.0,24.4,clear
+1289,Green Gram (Moong),Chhibramau(Kannuj),2017-01-25,4100.0,2.0,24.4,clear
+1290,Arhar (Tur/Red Gram),Kannauj,2017-01-27,5200.0,10.0,19.0,clear
+1291,Bengal Gram(Gram),Kannauj,2017-01-27,9200.0,4.2,19.0,clear
+1292,Arhar (Tur/Red Gram),Kannauj,2017-01-28,5000.0,15.0,19.6,clear
+1293,Bengal Gram(Gram),Chhibramau(Kannuj),2017-01-28,8800.0,2.0,19.6,clear
+1294,Bengal Gram(Gram),Kannauj,2017-01-28,9200.0,4.0,19.6,clear
+1295,Green Gram (Moong),Chhibramau(Kannuj),2017-01-28,4000.0,1.8,19.6,clear
+1296,Arhar (Tur/Red Gram),Kannauj,2017-01-29,5000.0,15.0,18.8,clear
+1297,Bengal Gram(Gram),Chhibramau(Kannuj),2017-01-29,8700.0,1.0,18.8,clear
+1298,Bengal Gram(Gram),Kannauj,2017-01-29,9200.0,4.0,18.8,clear
+1299,Green Gram (Moong),Chhibramau(Kannuj),2017-01-29,4000.0,1.0,18.8,clear
+1300,Arhar (Tur/Red Gram),Kannauj,2017-01-30,5000.0,15.0,19.6,clear
+1301,Bengal Gram(Gram),Chhibramau(Kannuj),2017-01-30,8700.0,2.0,19.6,clear
+1302,Bengal Gram(Gram),Kannauj,2017-01-30,9200.0,3.8,19.6,clear
+1303,Green Gram (Moong),Chhibramau(Kannuj),2017-01-30,4100.0,3.0,19.6,clear
+1304,Arhar (Tur/Red Gram),Kannauj,2017-01-02,5000.0,16.0,18.0,clear
+1305,Bengal Gram(Gram),Chhibramau(Kannuj),2017-01-02,8700.0,2.0,18.0,clear
+1306,Bengal Gram(Gram),Kannauj,2017-01-02,9000.0,4.5,18.0,clear
+1307,Green Gram (Moong),Chhibramau(Kannuj),2017-01-02,4100.0,1.0,18.0,clear
+1308,Arhar (Tur/Red Gram),Kannauj,2017-02-02,4900.0,18.0,13.0,clear
+1309,Bengal Gram(Gram),Kannauj,2017-02-02,8900.0,4.8,13.0,clear
+1310,Arhar (Tur/Red Gram),Kannauj,2017-03-02,4800.0,19.0,27.0,clear
+1311,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-02,8600.0,1.0,27.0,clear
+1312,Bengal Gram(Gram),Kannauj,2017-03-02,8890.0,5.0,27.0,clear
+1313,Green Gram (Moong),Chhibramau(Kannuj),2017-03-02,4100.0,3.0,27.0,clear
+1314,Arhar (Tur/Red Gram),Kannauj,2017-04-02,4800.0,17.5,37.8,clear
+1315,Bengal Gram(Gram),Chhibramau(Kannuj),2017-04-02,8600.0,1.0,37.8,clear
+1316,Bengal Gram(Gram),Kannauj,2017-04-02,8890.0,4.8,37.8,clear
+1317,Green Gram (Moong),Chhibramau(Kannuj),2017-04-02,4100.0,3.0,37.8,clear
+1318,Arhar (Tur/Red Gram),Kannauj,2017-05-02,4800.0,17.0,39.0,clear
+1319,Bengal Gram(Gram),Chhibramau(Kannuj),2017-05-02,8500.0,2.0,39.0,clear
+1320,Bengal Gram(Gram),Kannauj,2017-05-02,8850.0,4.0,39.0,clear
+1321,Green Gram (Moong),Chhibramau(Kannuj),2017-05-02,4100.0,2.0,39.0,clear
+1322,Arhar (Tur/Red Gram),Kannauj,2017-06-02,4750.0,18.0,40.0,clear
+1323,Bengal Gram(Gram),Chhibramau(Kannuj),2017-06-02,8400.0,1.3,40.0,clear
+1324,Bengal Gram(Gram),Kannauj,2017-06-02,8850.0,4.2,40.0,clear
+1325,Green Gram (Moong),Chhibramau(Kannuj),2017-06-02,4100.0,4.0,40.0,clear
+1326,Arhar (Tur/Red Gram),Kannauj,2017-08-02,4750.0,18.5,29.0,clear
+1327,Bengal Gram(Gram),Chhibramau(Kannuj),2017-08-02,8500.0,1.0,29.0,clear
+1328,Bengal Gram(Gram),Kannauj,2017-08-02,8800.0,4.5,29.0,clear
+1329,Green Gram (Moong),Chhibramau(Kannuj),2017-08-02,4100.0,2.0,29.0,clear
+1330,Arhar (Tur/Red Gram),Kannauj,2017-09-02,4750.0,18.0,30.0,clear
+1331,Bengal Gram(Gram),Kannauj,2017-09-02,8800.0,4.0,30.0,clear
+1332,Arhar (Tur/Red Gram),Kannauj,2017-10-02,4750.0,19.0,33.4,clear
+1333,Bengal Gram(Gram),Chhibramau(Kannuj),2017-10-02,8400.0,1.0,33.4,clear
+1334,Bengal Gram(Gram),Kannauj,2017-10-02,8800.0,4.2,33.4,clear
+1335,Green Gram (Moong),Chhibramau(Kannuj),2017-10-02,4000.0,3.0,33.4,clear
+1336,Arhar (Tur/Red Gram),Kannauj,2017-11-02,4780.0,18.5,27.8,clear
+1337,Bengal Gram(Gram),Chhibramau(Kannuj),2017-11-02,8400.0,2.0,27.8,clear
+1338,Bengal Gram(Gram),Kannauj,2017-11-02,8800.0,4.0,27.8,clear
+1339,Green Gram (Moong),Chhibramau(Kannuj),2017-11-02,4100.0,2.0,27.8,clear
+1340,Arhar (Tur/Red Gram),Kannauj,2017-12-02,4780.0,18.0,22.4,clear
+1341,Bengal Gram(Gram),Chhibramau(Kannuj),2017-12-02,8400.0,2.0,22.4,clear
+1342,Bengal Gram(Gram),Kannauj,2017-12-02,8780.0,4.5,22.4,clear
+1343,Green Gram (Moong),Chhibramau(Kannuj),2017-12-02,4100.0,3.0,22.4,clear
+1344,Arhar (Tur/Red Gram),Kannauj,2017-02-13,4780.0,19.0,25.0,clear
+1345,Bengal Gram(Gram),Chhibramau(Kannuj),2017-02-13,8400.0,2.0,25.0,clear
+1346,Bengal Gram(Gram),Kannauj,2017-02-13,8780.0,4.0,25.0,clear
+1347,Green Gram (Moong),Chhibramau(Kannuj),2017-02-13,4000.0,3.0,25.0,clear
+1348,Arhar (Tur/Red Gram),Kannauj,2017-02-15,4700.0,20.0,14.0,clear
+1349,Bengal Gram(Gram),Chhibramau(Kannuj),2017-02-15,7610.0,1.3,14.0,clear
+1350,Bengal Gram(Gram),Kannauj,2017-02-15,8600.0,4.8,14.0,clear
+1351,Green Gram (Moong),Chhibramau(Kannuj),2017-02-15,3900.0,5.0,14.0,clear
+1352,Arhar (Tur/Red Gram),Kannauj,2017-02-16,4700.0,18.0,24.6,clear
+1353,Bengal Gram(Gram),Kannauj,2017-02-16,8600.0,4.5,24.6,clear
+1354,Arhar (Tur/Red Gram),Kannauj,2017-02-17,4750.0,17.5,25.0,clear
+1355,Bengal Gram(Gram),Chhibramau(Kannuj),2017-02-17,7500.0,1.2,25.0,clear
+1356,Bengal Gram(Gram),Kannauj,2017-02-17,8500.0,5.0,25.0,clear
+1357,Green Gram (Moong),Chhibramau(Kannuj),2017-02-17,4000.0,5.0,25.0,clear
+1358,Arhar (Tur/Red Gram),Kannauj,2017-02-18,4750.0,17.0,27.2,clear
+1359,Bengal Gram(Gram),Chhibramau(Kannuj),2017-02-18,7500.0,2.0,27.2,clear
+1360,Bengal Gram(Gram),Kannauj,2017-02-18,8400.0,5.5,27.2,clear
+1361,Green Gram (Moong),Chhibramau(Kannuj),2017-02-18,4100.0,2.8,27.2,clear
+1362,Arhar (Tur/Red Gram),Kannauj,2017-02-20,4760.0,10.0,30.6,clear
+1363,Bengal Gram(Gram),Chhibramau(Kannuj),2017-02-20,7400.0,3.0,30.6,clear
+1364,Green Gram (Moong),Chhibramau(Kannuj),2017-02-20,4100.0,3.0,30.6,clear
+1365,Arhar (Tur/Red Gram),Kannauj,2017-02-23,4700.0,9.0,23.8,clear
+1366,Bengal Gram(Gram),Kannauj,2017-02-23,8400.0,5.2,23.8,clear
+1367,Arhar (Tur/Red Gram),Kannauj,2017-02-24,4600.0,9.5,24.4,clear
+1368,Bengal Gram(Gram),Chhibramau(Kannuj),2017-02-24,7600.0,2.0,24.4,clear
+1369,Bengal Gram(Gram),Kannauj,2017-02-24,8300.0,6.0,24.4,clear
+1370,Green Gram (Moong),Chhibramau(Kannuj),2017-02-24,4000.0,2.0,24.4,clear
+1371,Arhar (Tur/Red Gram),Kannauj,2017-02-25,4600.0,9.0,25.5,clear
+1372,Bengal Gram(Gram),Chhibramau(Kannuj),2017-02-25,7500.0,2.0,25.5,clear
+1373,Bengal Gram(Gram),Kannauj,2017-02-25,8300.0,6.2,25.5,clear
+1374,Green Gram (Moong),Chhibramau(Kannuj),2017-02-25,4000.0,1.8,25.5,clear
+1375,Arhar (Tur/Red Gram),Kannauj,2017-02-03,4400.0,12.0,22.6,clear
+1376,Bengal Gram(Gram),Kannauj,2017-02-03,7900.0,6.0,22.6,clear
+1377,Arhar (Tur/Red Gram),Kannauj,2017-03-03,4450.0,12.5,27.4,clear
+1378,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-03,7500.0,2.0,27.4,clear
+1379,Bengal Gram(Gram),Kannauj,2017-03-03,7900.0,6.2,27.4,clear
+1380,Green Gram (Moong),Chhibramau(Kannuj),2017-03-03,4100.0,2.0,27.4,clear
+1381,Arhar (Tur/Red Gram),Kannauj,2017-04-03,4450.0,3.0,38.4,clear
+1382,Bengal Gram(Gram),Chhibramau(Kannuj),2017-04-03,7100.0,2.0,38.4,clear
+1383,Bengal Gram(Gram),Kannauj,2017-04-03,7900.0,6.0,38.4,clear
+1384,Green Gram (Moong),Chhibramau(Kannuj),2017-04-03,4100.0,5.0,38.4,clear
+1385,Arhar (Tur/Red Gram),Kannauj,2017-05-03,4450.0,14.0,38.0,clear
+1386,Bengal Gram(Gram),Chhibramau(Kannuj),2017-05-03,7000.0,1.0,38.0,clear
+1387,Bengal Gram(Gram),Kannauj,2017-05-03,7950.0,5.0,38.0,clear
+1388,Green Gram (Moong),Chhibramau(Kannuj),2017-05-03,4120.0,3.0,38.0,clear
+1389,Arhar (Tur/Red Gram),Kannauj,2017-08-03,4400.0,14.0,31.6,clear
+1390,Bengal Gram(Gram),Chhibramau(Kannuj),2017-08-03,7000.0,1.2,31.6,clear
+1391,Bengal Gram(Gram),Kannauj,2017-08-03,7950.0,4.5,31.6,clear
+1392,Green Gram (Moong),Chhibramau(Kannuj),2017-08-03,4000.0,6.0,31.6,clear
+1393,Arhar (Tur/Red Gram),Kannauj,2017-09-03,4100.0,16.0,32.6,clear
+1394,Bengal Gram(Gram),Kannauj,2017-09-03,7500.0,5.0,32.6,clear
+1395,Arhar (Tur/Red Gram),Kannauj,2017-10-03,3900.0,17.0,33.0,clear
+1396,Bengal Gram(Gram),Kannauj,2017-10-03,7200.0,6.0,33.0,clear
+1397,Arhar (Tur/Red Gram),Kannauj,2017-11-03,3850.0,18.5,27.4,clear
+1398,Bengal Gram(Gram),Chhibramau(Kannuj),2017-11-03,7000.0,2.0,27.4,clear
+1399,Bengal Gram(Gram),Kannauj,2017-11-03,6900.0,5.0,27.4,clear
+1400,Green Gram (Moong),Chhibramau(Kannuj),2017-11-03,4000.0,6.0,27.4,clear
+1401,Arhar (Tur/Red Gram),Kannauj,2017-03-15,3850.0,18.0,27.0,clear
+1402,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-15,7000.0,2.0,27.0,clear
+1403,Bengal Gram(Gram),Kannauj,2017-03-15,6900.0,5.2,27.0,clear
+1404,Green Gram (Moong),Chhibramau(Kannuj),2017-03-15,4000.0,6.0,27.0,clear
+1405,Arhar (Tur/Red Gram),Kannauj,2017-03-16,3850.0,17.5,29.6,clear
+1406,Bengal Gram(Gram),Kannauj,2017-03-16,6900.0,5.0,29.6,clear
+1407,Arhar (Tur/Red Gram),Kannauj,2017-03-17,3850.0,17.2,27.8,clear
+1408,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-17,7000.0,3.0,27.8,clear
+1409,Bengal Gram(Gram),Kannauj,2017-03-17,6800.0,5.5,27.8,clear
+1410,Green Gram (Moong),Chhibramau(Kannuj),2017-03-17,4000.0,5.0,27.8,clear
+1411,Arhar (Tur/Red Gram),Kannauj,2017-03-18,3800.0,17.5,28.0,clear
+1412,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-18,6900.0,2.0,28.0,clear
+1413,Bengal Gram(Gram),Kannauj,2017-03-18,6750.0,5.0,28.0,clear
+1414,Green Gram (Moong),Chhibramau(Kannuj),2017-03-18,4000.0,4.0,28.0,clear
+1415,Arhar (Tur/Red Gram),Kannauj,2017-03-19,3750.0,18.0,29.0,clear
+1416,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-19,7000.0,2.0,29.0,clear
+1417,Bengal Gram(Gram),Kannauj,2017-03-19,6750.0,5.5,29.0,clear
+1418,Green Gram (Moong),Chhibramau(Kannuj),2017-03-19,4100.0,7.0,29.0,clear
+1419,Arhar (Tur/Red Gram),Kannauj,2017-03-20,3750.0,18.2,29.4,clear
+1420,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-20,7000.0,1.0,29.4,clear
+1421,Bengal Gram(Gram),Kannauj,2017-03-20,6700.0,5.0,29.4,clear
+1422,Green Gram (Moong),Chhibramau(Kannuj),2017-03-20,4200.0,4.0,29.4,clear
+1423,Arhar (Tur/Red Gram),Kannauj,2017-03-23,3750.0,17.5,34.0,clear
+1424,Bengal Gram(Gram),Kannauj,2017-03-23,6700.0,5.0,34.0,clear
+1425,Arhar (Tur/Red Gram),Kannauj,2017-03-24,3800.0,17.0,34.4,clear
+1426,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-24,6800.0,2.0,34.4,clear
+1427,Bengal Gram(Gram),Kannauj,2017-03-24,6700.0,4.8,34.4,clear
+1428,Green Gram (Moong),Chhibramau(Kannuj),2017-03-24,4000.0,5.0,34.4,clear
+1429,Arhar (Tur/Red Gram),Kannauj,2017-03-25,3800.0,18.0,32.4,clear
+1430,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-25,6700.0,3.0,32.4,clear
+1431,Bengal Gram(Gram),Kannauj,2017-03-25,6680.0,5.0,32.4,clear
+1432,Green Gram (Moong),Chhibramau(Kannuj),2017-03-25,4120.0,2.0,32.4,clear
+1433,Arhar (Tur/Red Gram),Kannauj,2017-03-26,3800.0,17.5,34.2,clear
+1434,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-26,6800.0,1.0,34.2,clear
+1435,Bengal Gram(Gram),Kannauj,2017-03-26,6680.0,5.2,34.2,clear
+1436,Green Gram (Moong),Chhibramau(Kannuj),2017-03-26,4200.0,4.0,34.2,clear
+1437,Arhar (Tur/Red Gram),Kannauj,2017-03-27,3800.0,17.0,34.0,clear
+1438,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-27,6500.0,2.0,34.0,clear
+1439,Bengal Gram(Gram),Kannauj,2017-03-27,6680.0,5.5,34.0,clear
+1440,Green Gram (Moong),Chhibramau(Kannuj),2017-03-27,4000.0,3.0,34.0,clear
+1441,Arhar (Tur/Red Gram),Kannauj,2017-03-29,3800.0,17.5,37.6,clear
+1442,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-29,6700.0,2.0,37.6,clear
+1443,Bengal Gram(Gram),Kannauj,2017-03-29,6650.0,5.8,37.6,clear
+1444,Green Gram (Moong),Chhibramau(Kannuj),2017-03-29,4000.0,3.0,37.6,clear
+1445,Arhar (Tur/Red Gram),Kannauj,2017-03-30,3820.0,17.0,38.0,clear
+1446,Bengal Gram(Gram),Kannauj,2017-03-30,6600.0,7.0,38.0,clear
+1447,Arhar (Tur/Red Gram),Kannauj,2017-03-31,3820.0,17.8,38.8,clear
+1448,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-31,6500.0,1.0,38.8,clear
+1449,Bengal Gram(Gram),Kannauj,2017-03-31,6400.0,7.5,38.8,clear
+1450,Green Gram (Moong),Chhibramau(Kannuj),2017-03-31,4100.0,2.0,38.8,clear
+1451,Arhar (Tur/Red Gram),Kannauj,2017-01-04,3850.0,18.0,16.2,clear
+1452,Bengal Gram(Gram),Chhibramau(Kannuj),2017-01-04,7000.0,2.0,16.2,clear
+1453,Bengal Gram(Gram),Kannauj,2017-01-04,6300.0,7.8,16.2,clear
+1454,Green Gram (Moong),Chhibramau(Kannuj),2017-01-04,4200.0,6.0,16.2,clear
+1455,Arhar (Tur/Red Gram),Kannauj,2017-02-04,3900.0,17.5,23.4,clear
+1456,Bengal Gram(Gram),Chhibramau(Kannuj),2017-02-04,6700.0,2.0,23.4,clear
+1457,Bengal Gram(Gram),Kannauj,2017-02-04,6000.0,8.0,23.4,clear
+1458,Green Gram (Moong),Chhibramau(Kannuj),2017-02-04,4000.0,3.0,23.4,clear
+1459,Arhar (Tur/Red Gram),Kannauj,2017-03-04,3900.0,17.2,27.0,clear
+1460,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-04,7100.0,1.2,27.0,clear
+1461,Bengal Gram(Gram),Kannauj,2017-03-04,5900.0,8.5,27.0,clear
+1462,Green Gram (Moong),Chhibramau(Kannuj),2017-03-04,7120.0,2.0,27.0,clear
+1463,Arhar (Tur/Red Gram),Kannauj,2017-05-04,4000.0,15.0,39.0,clear
+1464,Bengal Gram(Gram),Chhibramau(Kannuj),2017-05-04,7000.0,2.0,39.0,clear
+1465,Bengal Gram(Gram),Kannauj,2017-05-04,5700.0,9.0,39.0,clear
+1466,Green Gram (Moong),Chhibramau(Kannuj),2017-05-04,4200.0,3.0,39.0,clear
+1467,Arhar (Tur/Red Gram),Kannauj,2017-06-04,4000.0,16.0,43.8,clear
+1468,Bengal Gram(Gram),Kannauj,2017-06-04,5600.0,9.5,43.8,clear
+1469,Arhar (Tur/Red Gram),Kannauj,2017-07-04,4000.0,15.0,28.6,clear
+1470,Bengal Gram(Gram),Kannauj,2017-07-04,5600.0,9.0,28.6,clear
+1471,Arhar (Tur/Red Gram),Kannauj,2017-08-04,4000.0,15.5,32.4,clear
+1472,Bengal Gram(Gram),Chhibramau(Kannuj),2017-08-04,7000.0,1.0,32.4,clear
+1473,Bengal Gram(Gram),Kannauj,2017-08-04,5500.0,9.5,32.4,clear
+1474,Green Gram (Moong),Chhibramau(Kannuj),2017-08-04,4200.0,3.0,32.4,clear
+1475,Arhar (Tur/Red Gram),Kannauj,2017-09-04,4000.0,15.0,28.2,clear
+1476,Bengal Gram(Gram),Chhibramau(Kannuj),2017-09-04,7000.0,2.0,28.2,clear
+1477,Bengal Gram(Gram),Kannauj,2017-09-04,5500.0,9.0,28.2,clear
+1478,Green Gram (Moong),Chhibramau(Kannuj),2017-09-04,4200.0,4.0,28.2,clear
+1479,Arhar (Tur/Red Gram),Kannauj,2017-10-04,4050.0,14.0,32.0,clear
+1480,Bengal Gram(Gram),Chhibramau(Kannuj),2017-10-04,7000.0,2.0,32.0,clear
+1481,Bengal Gram(Gram),Kannauj,2017-10-04,5500.0,9.2,32.0,clear
+1482,Green Gram (Moong),Chhibramau(Kannuj),2017-10-04,4100.0,4.0,32.0,clear
+1483,Arhar (Tur/Red Gram),Kannauj,2017-12-04,4050.0,15.0,22.4,clear
+1484,Bengal Gram(Gram),Chhibramau(Kannuj),2017-12-04,6400.0,2.0,22.4,clear
+1485,Bengal Gram(Gram),Kannauj,2017-12-04,5500.0,9.0,22.4,clear
+1486,Green Gram (Moong),Chhibramau(Kannuj),2017-12-04,4100.0,2.0,22.4,clear
+1487,Arhar (Tur/Red Gram),Kannauj,2017-04-13,4050.0,14.0,38.0,clear
+1488,Bengal Gram(Gram),Kannauj,2017-04-13,5500.0,9.2,38.0,clear
+1489,Arhar (Tur/Red Gram),Kannauj,2017-04-14,4100.0,13.0,37.4,clear
+1490,Bengal Gram(Gram),Chhibramau(Kannuj),2017-04-14,6500.0,2.0,37.4,clear
+1491,Bengal Gram(Gram),Kannauj,2017-04-14,5450.0,9.0,37.4,clear
+1492,Green Gram (Moong),Chhibramau(Kannuj),2017-04-14,4200.0,4.0,37.4,clear
+1493,Arhar (Tur/Red Gram),Kannauj,2017-04-15,4100.0,12.5,39.0,clear
+1494,Bengal Gram(Gram),Chhibramau(Kannuj),2017-04-15,6400.0,2.0,39.0,clear
+1495,Bengal Gram(Gram),Kannauj,2017-04-15,5450.0,9.2,39.0,clear
+1496,Green Gram (Moong),Chhibramau(Kannuj),2017-04-15,4100.0,3.0,39.0,clear
+1497,Arhar (Tur/Red Gram),Kannauj,2017-04-16,4100.0,12.0,36.8,clear
+1498,Bengal Gram(Gram),Chhibramau(Kannuj),2017-04-16,6500.0,2.0,36.8,clear
+1499,Bengal Gram(Gram),Kannauj,2017-04-16,5450.0,9.0,36.8,clear
+1500,Green Gram (Moong),Chhibramau(Kannuj),2017-04-16,4200.0,5.0,36.8,clear
+1501,Arhar (Tur/Red Gram),Kannauj,2017-04-17,4100.0,12.5,37.4,clear
+1502,Bengal Gram(Gram),Chhibramau(Kannuj),2017-04-17,6450.0,2.0,37.4,clear
+1503,Bengal Gram(Gram),Kannauj,2017-04-17,5400.0,9.5,37.4,clear
+1504,Green Gram (Moong),Chhibramau(Kannuj),2017-04-17,4000.0,4.0,37.4,clear
+1505,Arhar (Tur/Red Gram),Kannauj,2017-04-19,4100.0,12.0,39.0,clear
+1506,Bengal Gram(Gram),Chhibramau(Kannuj),2017-04-19,6400.0,1.0,39.0,clear
+1507,Bengal Gram(Gram),Kannauj,2017-04-19,5400.0,10.0,39.0,clear
+1508,Green Gram (Moong),Chhibramau(Kannuj),2017-04-19,4200.0,2.0,39.0,clear
+1509,Arhar (Tur/Red Gram),Kannauj,2017-04-20,4250.0,11.0,39.4,clear
+1510,Bengal Gram(Gram),Kannauj,2017-04-20,5450.0,9.5,39.4,clear
+1511,Arhar (Tur/Red Gram),Kannauj,2017-04-21,4300.0,11.5,37.2,clear
+1512,Bengal Gram(Gram),Chhibramau(Kannuj),2017-04-21,6500.0,2.0,37.2,clear
+1513,Bengal Gram(Gram),Kannauj,2017-04-21,5450.0,9.0,37.2,clear
+1514,Green Gram (Moong),Chhibramau(Kannuj),2017-04-21,4100.0,4.0,37.2,clear
+1515,Arhar (Tur/Red Gram),Kannauj,2017-04-22,4600.0,11.0,38.0,clear
+1516,Bengal Gram(Gram),Chhibramau(Kannuj),2017-04-22,6400.0,2.0,38.0,clear
+1517,Bengal Gram(Gram),Kannauj,2017-04-22,5500.0,8.5,38.0,clear
+1518,Green Gram (Moong),Chhibramau(Kannuj),2017-04-22,4200.0,3.0,38.0,clear
+1519,Arhar (Tur/Red Gram),Kannauj,2017-04-23,4600.0,10.0,37.4,clear
+1520,Bengal Gram(Gram),Chhibramau(Kannuj),2017-04-23,6450.0,2.0,37.4,clear
+1521,Bengal Gram(Gram),Kannauj,2017-04-23,5600.0,8.0,37.4,clear
+1522,Green Gram (Moong),Chhibramau(Kannuj),2017-04-23,4200.0,2.0,37.4,clear
+1523,Arhar (Tur/Red Gram),Kannauj,2017-04-24,4600.0,9.0,38.0,clear
+1524,Bengal Gram(Gram),Chhibramau(Kannuj),2017-04-24,6400.0,3.0,38.0,clear
+1525,Bengal Gram(Gram),Kannauj,2017-04-24,5600.0,8.2,38.0,clear
+1526,Green Gram (Moong),Chhibramau(Kannuj),2017-04-24,4200.0,3.0,38.0,clear
+1527,Arhar (Tur/Red Gram),Kannauj,2017-04-26,4600.0,9.2,38.0,clear
+1528,Bengal Gram(Gram),Chhibramau(Kannuj),2017-04-26,6500.0,1.0,38.0,clear
+1529,Bengal Gram(Gram),Kannauj,2017-04-26,5600.0,8.0,38.0,clear
+1530,Green Gram (Moong),Chhibramau(Kannuj),2017-04-26,4400.0,3.0,38.0,clear
+1531,Arhar (Tur/Red Gram),Kannauj,2017-04-27,4610.0,9.0,38.0,clear
+1532,Bengal Gram(Gram),Kannauj,2017-04-27,5610.0,7.8,38.0,clear
+1533,Arhar (Tur/Red Gram),Kannauj,2017-04-28,4610.0,9.5,39.0,clear
+1534,Bengal Gram(Gram),Chhibramau(Kannuj),2017-04-28,6500.0,1.0,39.0,clear
+1535,Bengal Gram(Gram),Kannauj,2017-04-28,5610.0,7.5,39.0,clear
+1536,Green Gram (Moong),Chhibramau(Kannuj),2017-04-28,4300.0,3.0,39.0,clear
+1537,Arhar (Tur/Red Gram),Kannauj,2017-04-29,4800.0,9.0,31.6,clear
+1538,Bengal Gram(Gram),Chhibramau(Kannuj),2017-04-29,6500.0,3.0,31.6,clear
+1539,Bengal Gram(Gram),Kannauj,2017-04-29,5620.0,7.0,31.6,clear
+1540,Green Gram (Moong),Chhibramau(Kannuj),2017-04-29,4300.0,4.0,31.6,clear
+1541,Arhar (Tur/Red Gram),Kannauj,2017-04-30,4800.0,0.0,39.0,clear
+1542,Bengal Gram(Gram),Chhibramau(Kannuj),2017-04-30,6500.0,2.0,39.0,clear
+1543,Bengal Gram(Gram),Kannauj,2017-04-30,5620.0,6.8,39.0,clear
+1544,Green Gram (Moong),Chhibramau(Kannuj),2017-04-30,4300.0,3.0,39.0,clear
+1545,Arhar (Tur/Red Gram),Kannauj,2017-01-05,4800.0,7.5,19.4,clear
+1546,Bengal Gram(Gram),Chhibramau(Kannuj),2017-01-05,6500.0,3.0,19.4,clear
+1547,Bengal Gram(Gram),Kannauj,2017-01-05,5620.0,6.5,19.4,clear
+1548,Arhar (Tur/Red Gram),Kannauj,2017-03-05,4800.0,6.5,27.2,clear
+1549,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-05,6500.0,2.0,27.2,clear
+1550,Bengal Gram(Gram),Kannauj,2017-03-05,5700.0,6.0,27.2,clear
+1551,Green Gram (Moong),Chhibramau(Kannuj),2017-03-05,4230.0,2.0,27.2,clear
+1552,Arhar (Tur/Red Gram),Kannauj,2017-04-05,4800.0,6.0,34.4,clear
+1553,Bengal Gram(Gram),Kannauj,2017-04-05,5700.0,6.2,34.4,clear
+1554,Arhar (Tur/Red Gram),Kannauj,2017-05-05,4800.0,7.0,39.0,clear
+1555,Bengal Gram(Gram),Chhibramau(Kannuj),2017-05-05,6500.0,4.0,39.0,clear
+1556,Bengal Gram(Gram),Kannauj,2017-05-05,5700.0,6.5,39.0,clear
+1557,Green Gram (Moong),Chhibramau(Kannuj),2017-05-05,4300.0,4.0,39.0,clear
+1558,Arhar (Tur/Red Gram),Kannauj,2017-06-05,4850.0,5.0,42.4,clear
+1559,Bengal Gram(Gram),Chhibramau(Kannuj),2017-06-05,6500.0,3.0,42.4,clear
+1560,Bengal Gram(Gram),Kannauj,2017-06-05,5700.0,7.5,42.4,clear
+1561,Green Gram (Moong),Chhibramau(Kannuj),2017-06-05,4200.0,4.0,42.4,clear
+1562,Arhar (Tur/Red Gram),Kannauj,2017-07-05,4900.0,4.5,29.0,clear
+1563,Bengal Gram(Gram),Chhibramau(Kannuj),2017-07-05,6400.0,1.0,29.0,clear
+1564,Bengal Gram(Gram),Kannauj,2017-07-05,5650.0,6.5,29.0,clear
+1565,Green Gram (Moong),Chhibramau(Kannuj),2017-07-05,4300.0,5.0,29.0,clear
+1566,Arhar (Tur/Red Gram),Kannauj,2017-08-05,4900.0,4.2,34.0,clear
+1567,Bengal Gram(Gram),Chhibramau(Kannuj),2017-08-05,6500.0,4.0,34.0,clear
+1568,Bengal Gram(Gram),Kannauj,2017-08-05,5650.0,6.0,34.0,clear
+1569,Green Gram (Moong),Chhibramau(Kannuj),2017-08-05,4200.0,3.0,34.0,clear
+1570,Arhar (Tur/Red Gram),Kannauj,2017-10-05,4900.0,4.0,33.4,clear
+1571,Bengal Gram(Gram),Chhibramau(Kannuj),2017-10-05,6700.0,2.0,33.4,clear
+1572,Bengal Gram(Gram),Kannauj,2017-10-05,5700.0,5.0,33.4,clear
+1573,Green Gram (Moong),Chhibramau(Kannuj),2017-10-05,4120.0,3.0,33.4,clear
+1574,Arhar (Tur/Red Gram),Kannauj,2017-11-05,4920.0,3.5,29.0,clear
+1575,Bengal Gram(Gram),Kannauj,2017-11-05,5700.0,4.5,29.0,clear
+1576,Arhar (Tur/Red Gram),Kannauj,2017-05-13,4920.0,3.5,40.0,clear
+1577,Bengal Gram(Gram),Chhibramau(Kannuj),2017-05-13,6500.0,2.0,40.0,clear
+1578,Bengal Gram(Gram),Kannauj,2017-05-13,5700.0,4.2,40.0,clear
+1579,Green Gram (Moong),Chhibramau(Kannuj),2017-05-13,4100.0,3.0,40.0,clear
+1580,Arhar (Tur/Red Gram),Kannauj,2017-05-14,4950.0,3.0,42.0,clear
+1581,Bengal Gram(Gram),Chhibramau(Kannuj),2017-05-14,6800.0,2.0,42.0,clear
+1582,Bengal Gram(Gram),Kannauj,2017-05-14,5750.0,4.0,42.0,clear
+1583,Green Gram (Moong),Chhibramau(Kannuj),2017-05-14,4200.0,4.0,42.0,clear
+1584,Arhar (Tur/Red Gram),Kannauj,2017-05-15,4950.0,2.8,41.4,clear
+1585,Bengal Gram(Gram),Chhibramau(Kannuj),2017-05-15,6700.0,3.0,41.4,clear
+1586,Bengal Gram(Gram),Kannauj,2017-05-15,5750.0,4.2,41.4,clear
+1587,Green Gram (Moong),Chhibramau(Kannuj),2017-05-15,4200.0,3.0,41.4,clear
+1588,Arhar (Tur/Red Gram),Kannauj,2017-05-17,4950.0,2.5,23.8,rain
+1589,Bengal Gram(Gram),Chhibramau(Kannuj),2017-05-17,6780.0,2.0,23.8,rain
+1590,Bengal Gram(Gram),Kannauj,2017-05-17,5750.0,3.8,23.8,rain
+1591,Green Gram (Moong),Chhibramau(Kannuj),2017-05-17,4200.0,3.0,23.8,rain
+1592,Arhar (Tur/Red Gram),Kannauj,2017-05-19,5000.0,2.2,35.8,clear
+1593,Bengal Gram(Gram),Chhibramau(Kannuj),2017-05-19,6500.0,3.0,35.8,clear
+1594,Bengal Gram(Gram),Kannauj,2017-05-19,5800.0,2.8,35.8,clear
+1595,Green Gram (Moong),Chhibramau(Kannuj),2017-05-19,4200.0,3.0,35.8,clear
+1596,Arhar (Tur/Red Gram),Kannauj,2017-05-20,5000.0,2.0,38.8,clear
+1597,Bengal Gram(Gram),Chhibramau(Kannuj),2017-05-20,6500.0,1.0,38.8,clear
+1598,Bengal Gram(Gram),Kannauj,2017-05-20,5800.0,2.7,38.8,clear
+1599,Green Gram (Moong),Chhibramau(Kannuj),2017-05-20,4300.0,4.0,38.8,clear
+1600,Arhar (Tur/Red Gram),Kannauj,2017-05-21,5000.0,2.2,40.6,clear
+1601,Bengal Gram(Gram),Chhibramau(Kannuj),2017-05-21,6500.0,2.0,40.6,clear
+1602,Bengal Gram(Gram),Kannauj,2017-05-21,5810.0,2.0,40.6,clear
+1603,Green Gram (Moong),Chhibramau(Kannuj),2017-05-21,4200.0,2.0,40.6,clear
+1604,Arhar (Tur/Red Gram),Kannauj,2017-05-22,5050.0,1.8,39.2,clear
+1605,Bengal Gram(Gram),Chhibramau(Kannuj),2017-05-22,6600.0,2.0,39.2,clear
+1606,Bengal Gram(Gram),Kannauj,2017-05-22,5810.0,1.8,39.2,clear
+1607,Green Gram (Moong),Chhibramau(Kannuj),2017-05-22,4200.0,2.0,39.2,clear
+1608,Arhar (Tur/Red Gram),Kannauj,2017-05-24,5050.0,1.6,39.6,clear
+1609,Bengal Gram(Gram),Chhibramau(Kannuj),2017-05-24,6600.0,1.0,39.6,clear
+1610,Bengal Gram(Gram),Kannauj,2017-05-24,5850.0,1.5,39.6,clear
+1611,Green Gram (Moong),Chhibramau(Kannuj),2017-05-24,4200.0,3.0,39.6,clear
+1612,Arhar (Tur/Red Gram),Kannauj,2017-05-25,5050.0,1.8,40.5,clear
+1613,Bengal Gram(Gram),Kannauj,2017-05-25,5850.0,1.8,40.5,clear
+1614,Arhar (Tur/Red Gram),Kannauj,2017-05-26,5000.0,2.0,39.2,clear
+1615,Bengal Gram(Gram),Chhibramau(Kannuj),2017-05-26,6400.0,3.0,39.2,clear
+1616,Bengal Gram(Gram),Kannauj,2017-05-26,5860.0,2.0,39.2,clear
+1617,Green Gram (Moong),Chhibramau(Kannuj),2017-05-26,4200.0,3.0,39.2,clear
+1618,Arhar (Tur/Red Gram),Kannauj,2017-05-27,5000.0,2.2,34.2,clear
+1619,Bengal Gram(Gram),Chhibramau(Kannuj),2017-05-27,6500.0,2.0,34.2,clear
+1620,Bengal Gram(Gram),Kannauj,2017-05-27,5850.0,2.5,34.2,clear
+1621,Green Gram (Moong),Chhibramau(Kannuj),2017-05-27,4200.0,3.0,34.2,clear
+1622,Arhar (Tur/Red Gram),Kannauj,2017-05-28,5000.0,2.0,35.1,clear
+1623,Bengal Gram(Gram),Chhibramau(Kannuj),2017-05-28,6500.0,1.0,35.1,clear
+1624,Bengal Gram(Gram),Kannauj,2017-05-28,5880.0,2.0,35.1,clear
+1625,Green Gram (Moong),Chhibramau(Kannuj),2017-05-28,4100.0,2.0,35.1,clear
+1626,Arhar (Tur/Red Gram),Kannauj,2017-05-29,5050.0,1.5,33.0,clear
+1627,Bengal Gram(Gram),Chhibramau(Kannuj),2017-05-29,6400.0,2.0,33.0,clear
+1628,Bengal Gram(Gram),Kannauj,2017-05-29,5880.0,2.2,33.0,clear
+1629,Green Gram (Moong),Chhibramau(Kannuj),2017-05-29,4100.0,3.0,33.0,clear
+1630,Arhar (Tur/Red Gram),Kannauj,2017-05-31,4980.0,2.0,35.2,clear
+1631,Bengal Gram(Gram),Chhibramau(Kannuj),2017-05-31,6400.0,1.0,35.2,clear
+1632,Bengal Gram(Gram),Kannauj,2017-05-31,5650.0,2.8,35.2,clear
+1633,Green Gram (Moong),Chhibramau(Kannuj),2017-05-31,4100.0,3.0,35.2,clear
+1634,Arhar (Tur/Red Gram),Kannauj,2017-01-06,4900.0,2.5,15.2,clear
+1635,Bengal Gram(Gram),Chhibramau(Kannuj),2017-01-06,6600.0,3.0,15.2,clear
+1636,Bengal Gram(Gram),Kannauj,2017-01-06,5650.0,2.5,15.2,clear
+1637,Green Gram (Moong),Chhibramau(Kannuj),2017-01-06,4100.0,2.0,15.2,clear
+1638,Arhar (Tur/Red Gram),Kannauj,2017-02-06,4900.0,2.2,24.0,clear
+1639,Bengal Gram(Gram),Chhibramau(Kannuj),2017-02-06,6500.0,2.0,24.0,clear
+1640,Bengal Gram(Gram),Kannauj,2017-02-06,5700.0,2.8,24.0,clear
+1641,Green Gram (Moong),Chhibramau(Kannuj),2017-02-06,4100.0,2.0,24.0,clear
+1642,Arhar (Tur/Red Gram),Kannauj,2017-03-06,4900.0,2.0,27.6,clear
+1643,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-06,6500.0,2.0,27.6,clear
+1644,Bengal Gram(Gram),Kannauj,2017-03-06,5700.0,2.5,27.6,clear
+1645,Green Gram (Moong),Chhibramau(Kannuj),2017-03-06,4100.0,3.0,27.6,clear
+1646,Arhar (Tur/Red Gram),Kannauj,2017-04-06,4900.0,2.2,30.6,clear
+1647,Bengal Gram(Gram),Chhibramau(Kannuj),2017-04-06,6500.0,2.0,30.6,clear
+1648,Bengal Gram(Gram),Kannauj,2017-04-06,5750.0,2.5,30.6,clear
+1649,Green Gram (Moong),Chhibramau(Kannuj),2017-04-06,4100.0,4.0,30.6,clear
+1650,Arhar (Tur/Red Gram),Kannauj,2017-05-06,4900.0,2.3,41.2,clear
+1651,Bengal Gram(Gram),Kannauj,2017-05-06,5750.0,2.5,41.2,clear
+1652,Arhar (Tur/Red Gram),Kannauj,2017-07-06,4900.0,2.0,25.4,clear
+1653,Bengal Gram(Gram),Chhibramau(Kannuj),2017-07-06,6400.0,2.0,25.4,clear
+1654,Bengal Gram(Gram),Kannauj,2017-07-06,5780.0,2.2,25.4,clear
+1655,Green Gram (Moong),Chhibramau(Kannuj),2017-07-06,4100.0,2.0,25.4,clear
+1656,Arhar (Tur/Red Gram),Kannauj,2017-08-06,4950.0,1.8,34.2,clear
+1657,Bengal Gram(Gram),Kannauj,2017-08-06,5780.0,2.0,34.2,clear
+1658,Arhar (Tur/Red Gram),Kannauj,2017-09-06,4950.0,2.0,34.0,clear
+1659,Bengal Gram(Gram),Chhibramau(Kannuj),2017-09-06,6500.0,2.0,34.0,clear
+1660,Bengal Gram(Gram),Kannauj,2017-09-06,5780.0,2.2,34.0,clear
+1661,Green Gram (Moong),Chhibramau(Kannuj),2017-09-06,4000.0,2.0,34.0,clear
+1662,Arhar (Tur/Red Gram),Kannauj,2017-10-06,4800.0,1.5,34.0,clear
+1663,Bengal Gram(Gram),Chhibramau(Kannuj),2017-10-06,6400.0,2.0,34.0,clear
+1664,Bengal Gram(Gram),Kannauj,2017-10-06,5800.0,1.8,34.0,clear
+1665,Green Gram (Moong),Chhibramau(Kannuj),2017-10-06,4000.0,3.0,34.0,clear
+1666,Arhar (Tur/Red Gram),Kannauj,2017-11-06,4800.0,1.6,28.4,clear
+1667,Bengal Gram(Gram),Chhibramau(Kannuj),2017-11-06,6400.0,2.0,28.4,clear
+1668,Bengal Gram(Gram),Kannauj,2017-11-06,5800.0,1.7,28.4,clear
+1669,Green Gram (Moong),Chhibramau(Kannuj),2017-11-06,4100.0,3.0,28.4,clear
+1670,Arhar (Tur/Red Gram),Kannauj,2017-12-06,4800.0,1.5,23.4,clear
+1671,Bengal Gram(Gram),Chhibramau(Kannuj),2017-12-06,6400.0,1.0,23.4,clear
+1672,Bengal Gram(Gram),Kannauj,2017-12-06,5800.0,1.7,23.4,clear
+1673,Green Gram (Moong),Chhibramau(Kannuj),2017-12-06,4100.0,3.0,23.4,clear
+1674,Arhar (Tur/Red Gram),Kannauj,2017-06-14,4800.0,1.7,41.4,clear
+1675,Bengal Gram(Gram),Chhibramau(Kannuj),2017-06-14,6400.0,1.0,41.4,clear
+1676,Bengal Gram(Gram),Kannauj,2017-06-14,5800.0,1.5,41.4,clear
+1677,Green Gram (Moong),Chhibramau(Kannuj),2017-06-14,4000.0,2.0,41.4,clear
+1678,Arhar (Tur/Red Gram),Kannauj,2017-06-15,4750.0,1.5,38.6,clear
+1679,Bengal Gram(Gram),Kannauj,2017-06-15,5850.0,1.2,38.6,clear
+1680,Arhar (Tur/Red Gram),Kannauj,2017-06-16,4700.0,1.6,31.6,clear
+1681,Bengal Gram(Gram),Chhibramau(Kannuj),2017-06-16,6200.0,1.0,31.6,clear
+1682,Bengal Gram(Gram),Kannauj,2017-06-16,5800.0,1.5,31.6,clear
+1683,Green Gram (Moong),Chhibramau(Kannuj),2017-06-16,4000.0,3.0,31.6,clear
+1684,Arhar (Tur/Red Gram),Kannauj,2017-06-17,4700.0,1.5,36.4,clear
+1685,Bengal Gram(Gram),Chhibramau(Kannuj),2017-06-17,6300.0,1.0,36.4,clear
+1686,Bengal Gram(Gram),Kannauj,2017-06-17,5710.0,2.0,36.4,clear
+1687,Green Gram (Moong),Chhibramau(Kannuj),2017-06-17,4000.0,5.0,36.4,clear
+1688,Arhar (Tur/Red Gram),Kannauj,2017-06-18,4700.0,1.2,32.0,clear
+1689,Bengal Gram(Gram),Kannauj,2017-06-18,5700.0,2.2,32.0,clear
+1690,Arhar (Tur/Red Gram),Kannauj,2017-06-19,4700.0,1.5,38.0,clear
+1691,Bengal Gram(Gram),Chhibramau(Kannuj),2017-06-19,6500.0,2.0,38.0,clear
+1692,Bengal Gram(Gram),Kannauj,2017-06-19,5700.0,2.0,38.0,clear
+1693,Green Gram (Moong),Chhibramau(Kannuj),2017-06-19,4000.0,3.0,38.0,clear
+1694,Arhar (Tur/Red Gram),Kannauj,2017-06-21,4700.0,1.8,33.5,clear
+1695,Bengal Gram(Gram),Chhibramau(Kannuj),2017-06-21,6500.0,1.0,33.5,clear
+1696,Bengal Gram(Gram),Kannauj,2017-06-21,5700.0,2.2,33.5,clear
+1697,Green Gram (Moong),Chhibramau(Kannuj),2017-06-21,4100.0,4.0,33.5,clear
+1698,Arhar (Tur/Red Gram),Kannauj,2017-06-22,4750.0,1.7,27.0,clear
+1699,Bengal Gram(Gram),Kannauj,2017-06-22,5750.0,2.0,27.0,clear
+1700,Arhar (Tur/Red Gram),Kannauj,2017-06-23,4750.0,1.5,36.6,clear
+1701,Bengal Gram(Gram),Chhibramau(Kannuj),2017-06-23,6600.0,1.0,36.6,clear
+1702,Bengal Gram(Gram),Kannauj,2017-06-23,5750.0,2.2,36.6,clear
+1703,Green Gram (Moong),Chhibramau(Kannuj),2017-06-23,4100.0,5.0,36.6,clear
+1704,Arhar (Tur/Red Gram),Kannauj,2017-06-24,4700.0,2.0,38.0,clear
+1705,Bengal Gram(Gram),Chhibramau(Kannuj),2017-06-24,6500.0,2.0,38.0,clear
+1706,Bengal Gram(Gram),Kannauj,2017-06-24,5700.0,2.0,38.0,clear
+1707,Green Gram (Moong),Chhibramau(Kannuj),2017-06-24,4000.0,2.0,38.0,clear
+1708,Arhar (Tur/Red Gram),Kannauj,2017-06-25,4700.0,2.5,32.0,clear
+1709,Bengal Gram(Gram),Chhibramau(Kannuj),2017-06-25,6400.0,2.0,32.0,clear
+1710,Bengal Gram(Gram),Kannauj,2017-06-25,5650.0,2.5,32.0,clear
+1711,Green Gram (Moong),Chhibramau(Kannuj),2017-06-25,4000.0,4.0,32.0,clear
+1712,Arhar (Tur/Red Gram),Kannauj,2017-06-26,4750.0,2.8,37.0,clear
+1713,Bengal Gram(Gram),Chhibramau(Kannuj),2017-06-26,6500.0,1.0,37.0,clear
+1714,Bengal Gram(Gram),Kannauj,2017-06-26,5650.0,2.0,37.0,clear
+1715,Green Gram (Moong),Chhibramau(Kannuj),2017-06-26,4100.0,4.0,37.0,clear
+1716,Arhar (Tur/Red Gram),Kannauj,2017-06-28,4750.0,2.0,37.0,clear
+1717,Bengal Gram(Gram),Chhibramau(Kannuj),2017-06-28,6500.0,3.0,37.0,clear
+1718,Bengal Gram(Gram),Kannauj,2017-06-28,5650.0,1.8,37.0,clear
+1719,Green Gram (Moong),Chhibramau(Kannuj),2017-06-28,4100.0,3.0,37.0,clear
+1720,Arhar (Tur/Red Gram),Kannauj,2017-06-29,4800.0,1.8,31.6,clear
+1721,Bengal Gram(Gram),Kannauj,2017-06-29,5650.0,2.0,31.6,clear
+1722,Arhar (Tur/Red Gram),Kannauj,2017-06-30,4800.0,1.5,29.6,clear
+1723,Bengal Gram(Gram),Chhibramau(Kannuj),2017-06-30,6500.0,1.0,29.6,clear
+1724,Bengal Gram(Gram),Kannauj,2017-06-30,5650.0,2.5,29.6,clear
+1725,Green Gram (Moong),Chhibramau(Kannuj),2017-06-30,4000.0,2.0,29.6,clear
+1726,Arhar (Tur/Red Gram),Kannauj,2017-01-07,4800.0,1.8,13.4,clear
+1727,Bengal Gram(Gram),Chhibramau(Kannuj),2017-01-07,6500.0,2.0,13.4,clear
+1728,Bengal Gram(Gram),Kannauj,2017-01-07,5650.0,2.7,13.4,clear
+1729,Green Gram (Moong),Chhibramau(Kannuj),2017-01-07,4000.0,5.0,13.4,clear
+1730,Arhar (Tur/Red Gram),Kannauj,2017-02-07,4810.0,1.5,21.6,clear
+1731,Bengal Gram(Gram),Chhibramau(Kannuj),2017-02-07,6500.0,1.0,21.6,clear
+1732,Bengal Gram(Gram),Kannauj,2017-02-07,5600.0,2.8,21.6,clear
+1733,Green Gram (Moong),Chhibramau(Kannuj),2017-02-07,4100.0,2.0,21.6,clear
+1734,Arhar (Tur/Red Gram),Kannauj,2017-05-07,4800.0,1.5,40.0,clear
+1735,Bengal Gram(Gram),Chhibramau(Kannuj),2017-05-07,6300.0,1.0,40.0,clear
+1736,Bengal Gram(Gram),Kannauj,2017-05-07,5650.0,0.0,40.0,clear
+1737,Green Gram (Moong),Chhibramau(Kannuj),2017-05-07,4000.0,2.0,40.0,clear
+1738,Arhar (Tur/Red Gram),Kannauj,2017-06-07,4850.0,1.2,32.6,clear
+1739,Bengal Gram(Gram),Kannauj,2017-06-07,5700.0,2.0,32.6,clear
+1740,Arhar (Tur/Red Gram),Kannauj,2017-07-07,4850.0,1.0,29.0,clear
+1741,Bengal Gram(Gram),Chhibramau(Kannuj),2017-07-07,6200.0,1.0,29.0,clear
+1742,Bengal Gram(Gram),Kannauj,2017-07-07,5700.0,1.9,29.0,clear
+1743,Green Gram (Moong),Chhibramau(Kannuj),2017-07-07,4100.0,4.0,29.0,clear
+1744,Arhar (Tur/Red Gram),Kannauj,2017-12-07,4800.0,2.5,24.0,clear
+1745,Bengal Gram(Gram),Chhibramau(Kannuj),2017-12-07,6200.0,2.0,24.0,clear
+1746,Bengal Gram(Gram),Kannauj,2017-12-07,5500.0,1.8,24.0,clear
+1747,Green Gram (Moong),Chhibramau(Kannuj),2017-12-07,4100.0,2.0,24.0,clear
+1748,Arhar (Tur/Red Gram),Kannauj,2017-07-13,4850.0,2.0,32.0,clear
+1749,Bengal Gram(Gram),Kannauj,2017-07-13,5600.0,1.5,32.0,clear
+1750,Arhar (Tur/Red Gram),Kannauj,2017-07-14,4850.0,2.5,32.6,clear
+1751,Bengal Gram(Gram),Chhibramau(Kannuj),2017-07-14,6100.0,2.0,32.6,clear
+1752,Bengal Gram(Gram),Kannauj,2017-07-14,5650.0,1.3,32.6,clear
+1753,Green Gram (Moong),Chhibramau(Kannuj),2017-07-14,3900.0,2.0,32.6,clear
+1754,Arhar (Tur/Red Gram),Kannauj,2017-07-15,4850.0,2.2,32.0,clear
+1755,Bengal Gram(Gram),Chhibramau(Kannuj),2017-07-15,6200.0,2.0,32.0,clear
+1756,Bengal Gram(Gram),Kannauj,2017-07-15,5680.0,1.5,32.0,clear
+1757,Green Gram (Moong),Chhibramau(Kannuj),2017-07-15,4000.0,2.0,32.0,clear
+1758,Arhar (Tur/Red Gram),Kannauj,2017-07-16,4800.0,2.0,34.6,clear
+1759,Bengal Gram(Gram),Chhibramau(Kannuj),2017-07-16,6200.0,1.7,34.6,clear
+1760,Green Gram (Moong),Chhibramau(Kannuj),2017-07-16,4000.0,2.0,34.6,clear
+1761,Arhar (Tur/Red Gram),Kannauj,2017-07-17,4850.0,2.2,32.0,clear
+1762,Bengal Gram(Gram),Chhibramau(Kannuj),2017-07-17,6200.0,2.0,32.0,clear
+1763,Bengal Gram(Gram),Kannauj,2017-07-17,5700.0,1.5,32.0,clear
+1764,Green Gram (Moong),Chhibramau(Kannuj),2017-07-17,3900.0,2.0,32.0,clear
+1765,Arhar (Tur/Red Gram),Kannauj,2017-07-19,4850.0,2.5,32.0,clear
+1766,Bengal Gram(Gram),Chhibramau(Kannuj),2017-07-19,6700.0,2.0,32.0,clear
+1767,Bengal Gram(Gram),Kannauj,2017-07-19,5720.0,1.7,32.0,clear
+1768,Green Gram (Moong),Chhibramau(Kannuj),2017-07-19,4040.0,2.0,32.0,clear
+1769,Arhar (Tur/Red Gram),Kannauj,2017-07-20,4850.0,2.8,34.4,clear
+1770,Bengal Gram(Gram),Kannauj,2017-07-20,5780.0,1.5,34.4,clear
+1771,Arhar (Tur/Red Gram),Kannauj,2017-07-21,4850.0,2.5,30.4,clear
+1772,Bengal Gram(Gram),Chhibramau(Kannuj),2017-07-21,6300.0,2.0,30.4,clear
+1773,Green Gram (Moong),Chhibramau(Kannuj),2017-07-21,4000.0,4.0,30.4,clear
+1774,Arhar (Tur/Red Gram),Kannauj,2017-07-22,4800.0,2.6,29.6,clear
+1775,Bengal Gram(Gram),Chhibramau(Kannuj),2017-07-22,6300.0,2.0,29.6,clear
+1776,Bengal Gram(Gram),Kannauj,2017-07-22,5900.0,1.5,29.6,clear
+1777,Green Gram (Moong),Chhibramau(Kannuj),2017-07-22,4050.0,4.0,29.6,clear
+1778,Arhar (Tur/Red Gram),Kannauj,2017-07-23,4800.0,2.5,29.6,clear
+1779,Bengal Gram(Gram),Chhibramau(Kannuj),2017-07-23,6500.0,2.0,29.6,clear
+1780,Bengal Gram(Gram),Kannauj,2017-07-23,5950.0,1.2,29.6,clear
+1781,Green Gram (Moong),Chhibramau(Kannuj),2017-07-23,4000.0,5.0,29.6,clear
+1782,Arhar (Tur/Red Gram),Kannauj,2017-07-24,4800.0,2.0,32.6,clear
+1783,Bengal Gram(Gram),Chhibramau(Kannuj),2017-07-24,6250.0,1.2,32.6,clear
+1784,Bengal Gram(Gram),Kannauj,2017-07-24,6850.0,1.5,32.6,clear
+1785,Green Gram (Moong),Chhibramau(Kannuj),2017-07-24,4040.0,3.0,32.6,clear
+1786,Arhar (Tur/Red Gram),Kannauj,2017-07-26,4850.0,2.2,32.0,clear
+1787,Bengal Gram(Gram),Chhibramau(Kannuj),2017-07-26,6500.0,1.0,32.0,clear
+1788,Bengal Gram(Gram),Kannauj,2017-07-26,5920.0,1.8,32.0,clear
+1789,Green Gram (Moong),Chhibramau(Kannuj),2017-07-26,4000.0,2.0,32.0,clear
+1790,Arhar (Tur/Red Gram),Kannauj,2017-07-27,4750.0,2.0,30.4,clear
+1791,Bengal Gram(Gram),Kannauj,2017-07-27,5900.0,2.0,30.4,clear
+1792,Arhar (Tur/Red Gram),Kannauj,2017-07-28,4750.0,2.5,32.4,clear
+1793,Bengal Gram(Gram),Chhibramau(Kannuj),2017-07-28,6400.0,2.0,32.4,clear
+1794,Bengal Gram(Gram),Kannauj,2017-07-28,5900.0,2.2,32.4,clear
+1795,Green Gram (Moong),Chhibramau(Kannuj),2017-07-28,4000.0,2.0,32.4,clear
+1796,Arhar (Tur/Red Gram),Kannauj,2017-07-29,4750.0,3.0,33.4,clear
+1797,Bengal Gram(Gram),Chhibramau(Kannuj),2017-07-29,6600.0,2.0,33.4,clear
+1798,Bengal Gram(Gram),Kannauj,2017-07-29,5950.0,2.0,33.4,clear
+1799,Green Gram (Moong),Chhibramau(Kannuj),2017-07-29,4000.0,4.0,33.4,clear
+1800,Arhar (Tur/Red Gram),Kannauj,2017-07-30,4760.0,2.8,33.0,clear
+1801,Bengal Gram(Gram),Chhibramau(Kannuj),2017-07-30,6400.0,2.0,33.0,clear
+1802,Bengal Gram(Gram),Kannauj,2017-07-30,5960.0,2.2,33.0,clear
+1803,Green Gram (Moong),Chhibramau(Kannuj),2017-07-30,4000.0,2.0,33.0,clear
+1804,Arhar (Tur/Red Gram),Kannauj,2017-07-31,4800.0,2.7,30.4,clear
+1805,Bengal Gram(Gram),Chhibramau(Kannuj),2017-07-31,6500.0,2.0,30.4,clear
+1806,Bengal Gram(Gram),Kannauj,2017-07-31,6000.0,2.0,30.4,clear
+1807,Green Gram (Moong),Chhibramau(Kannuj),2017-07-31,4100.0,5.0,30.4,clear
+1808,Arhar (Tur/Red Gram),Kannauj,2017-02-08,4850.0,2.5,23.2,clear
+1809,Bengal Gram(Gram),Chhibramau(Kannuj),2017-02-08,6500.0,1.0,23.2,clear
+1810,Bengal Gram(Gram),Kannauj,2017-02-08,6000.0,2.5,23.2,clear
+1811,Green Gram (Moong),Chhibramau(Kannuj),2017-02-08,4100.0,2.0,23.2,clear
+1812,Arhar (Tur/Red Gram),Kannauj,2017-03-08,4850.0,2.3,28.2,clear
+1813,Bengal Gram(Gram),Kannauj,2017-03-08,6100.0,2.0,28.2,clear
+1814,Arhar (Tur/Red Gram),Kannauj,2017-04-08,4850.0,2.0,35.2,clear
+1815,Bengal Gram(Gram),Chhibramau(Kannuj),2017-04-08,6450.0,1.0,35.2,clear
+1816,Bengal Gram(Gram),Kannauj,2017-04-08,6150.0,1.8,35.2,clear
+1817,Green Gram (Moong),Chhibramau(Kannuj),2017-04-08,4120.0,2.0,35.2,clear
+1818,Arhar (Tur/Red Gram),Kannauj,2017-05-08,4800.0,1.8,39.2,clear
+1819,Bengal Gram(Gram),Chhibramau(Kannuj),2017-05-08,6400.0,2.0,39.2,clear
+1820,Bengal Gram(Gram),Kannauj,2017-05-08,6200.0,1.5,39.2,clear
+1821,Green Gram (Moong),Chhibramau(Kannuj),2017-05-08,4000.0,2.0,39.2,clear
+1822,Arhar (Tur/Red Gram),Kannauj,2017-06-08,4850.0,1.5,31.0,clear
+1823,Bengal Gram(Gram),Chhibramau(Kannuj),2017-06-08,6500.0,2.0,31.0,clear
+1824,Bengal Gram(Gram),Kannauj,2017-06-08,6300.0,1.2,31.0,clear
+1825,Green Gram (Moong),Chhibramau(Kannuj),2017-06-08,4000.0,2.0,31.0,clear
+1826,Arhar (Tur/Red Gram),Kannauj,2017-07-08,4850.0,1.2,28.0,clear
+1827,Bengal Gram(Gram),Chhibramau(Kannuj),2017-07-08,6500.0,2.0,28.0,clear
+1828,Bengal Gram(Gram),Kannauj,2017-07-08,6300.0,1.0,28.0,clear
+1829,Green Gram (Moong),Chhibramau(Kannuj),2017-07-08,4000.0,4.0,28.0,clear
+1830,Arhar (Tur/Red Gram),Kannauj,2017-09-08,4850.0,1.0,33.0,clear
+1831,Bengal Gram(Gram),Chhibramau(Kannuj),2017-09-08,6400.0,1.5,33.0,clear
+1832,Bengal Gram(Gram),Kannauj,2017-09-08,6350.0,1.2,33.0,clear
+1833,Green Gram (Moong),Chhibramau(Kannuj),2017-09-08,4000.0,1.2,33.0,clear
+1834,Arhar (Tur/Red Gram),Kannauj,2017-10-08,4750.0,1.2,33.8,clear
+1835,Bengal Gram(Gram),Kannauj,2017-10-08,6350.0,1.5,33.8,clear
+1836,Arhar (Tur/Red Gram),Kannauj,2017-11-08,4700.0,1.0,26.6,clear
+1837,Bengal Gram(Gram),Chhibramau(Kannuj),2017-11-08,6500.0,2.0,26.6,clear
+1838,Bengal Gram(Gram),Kannauj,2017-11-08,6300.0,1.7,26.6,clear
+1839,Green Gram (Moong),Chhibramau(Kannuj),2017-11-08,4100.0,2.0,26.6,clear
+1840,Arhar (Tur/Red Gram),Kannauj,2017-12-08,4650.0,1.2,23.4,clear
+1841,Bengal Gram(Gram),Chhibramau(Kannuj),2017-12-08,6300.0,1.0,23.4,clear
+1842,Bengal Gram(Gram),Kannauj,2017-12-08,6250.0,1.8,23.4,clear
+1843,Green Gram (Moong),Chhibramau(Kannuj),2017-12-08,4100.0,2.0,23.4,clear
+1844,Arhar (Tur/Red Gram),Kannauj,2017-08-13,4600.0,1.5,31.0,clear
+1845,Bengal Gram(Gram),Chhibramau(Kannuj),2017-08-13,6400.0,2.0,31.0,clear
+1846,Bengal Gram(Gram),Kannauj,2017-08-13,6250.0,2.0,31.0,clear
+1847,Green Gram (Moong),Chhibramau(Kannuj),2017-08-13,4100.0,4.0,31.0,clear
+1848,Arhar (Tur/Red Gram),Kannauj,2017-08-14,4600.0,1.2,32.0,clear
+1849,Bengal Gram(Gram),Chhibramau(Kannuj),2017-08-14,6500.0,1.2,32.0,clear
+1850,Bengal Gram(Gram),Kannauj,2017-08-14,6250.0,2.2,32.0,clear
+1851,Green Gram (Moong),Chhibramau(Kannuj),2017-08-14,4000.0,2.0,32.0,clear
+1852,Arhar (Tur/Red Gram),Kannauj,2017-08-16,4600.0,1.5,32.0,clear
+1853,Bengal Gram(Gram),Chhibramau(Kannuj),2017-08-16,6400.0,1.0,32.0,clear
+1854,Bengal Gram(Gram),Kannauj,2017-08-16,6200.0,2.5,32.0,clear
+1855,Green Gram (Moong),Chhibramau(Kannuj),2017-08-16,4100.0,1.0,32.0,clear
+1856,Arhar (Tur/Red Gram),Kannauj,2017-08-17,4620.0,1.8,34.0,clear
+1857,Bengal Gram(Gram),Kannauj,2017-08-17,6200.0,2.5,34.0,clear
+1858,Arhar (Tur/Red Gram),Kannauj,2017-08-18,4600.0,1.5,31.0,clear
+1859,Bengal Gram(Gram),Chhibramau(Kannuj),2017-08-18,5800.0,3.0,31.0,clear
+1860,Bengal Gram(Gram),Kannauj,2017-08-18,6200.0,2.2,31.0,clear
+1861,Green Gram (Moong),Chhibramau(Kannuj),2017-08-18,4040.0,2.0,31.0,clear
+1862,Arhar (Tur/Red Gram),Kannauj,2017-08-19,4600.0,1.7,31.0,clear
+1863,Bengal Gram(Gram),Chhibramau(Kannuj),2017-08-19,5900.0,1.2,31.0,clear
+1864,Green Gram (Moong),Chhibramau(Kannuj),2017-08-19,4100.0,1.2,31.0,clear
+1865,Arhar (Tur/Red Gram),Kannauj,2017-08-20,4600.0,2.0,32.0,clear
+1866,Bengal Gram(Gram),Chhibramau(Kannuj),2017-08-20,6200.0,2.0,32.0,clear
+1867,Bengal Gram(Gram),Kannauj,2017-08-20,6000.0,3.0,32.0,clear
+1868,Green Gram (Moong),Chhibramau(Kannuj),2017-08-20,4000.0,2.1,32.0,clear
+1869,Arhar (Tur/Red Gram),Kannauj,2017-08-21,4600.0,2.5,32.0,clear
+1870,Bengal Gram(Gram),Chhibramau(Kannuj),2017-08-21,6200.0,2.1,32.0,clear
+1871,Bengal Gram(Gram),Kannauj,2017-08-21,6000.0,3.2,32.0,clear
+1872,Green Gram (Moong),Chhibramau(Kannuj),2017-08-21,4100.0,2.0,32.0,clear
+1873,Arhar (Tur/Red Gram),Kannauj,2017-08-23,4610.0,2.2,29.4,clear
+1874,Bengal Gram(Gram),Chhibramau(Kannuj),2017-08-23,6000.0,2.0,29.4,clear
+1875,Bengal Gram(Gram),Kannauj,2017-08-23,6000.0,3.0,29.4,clear
+1876,Green Gram (Moong),Chhibramau(Kannuj),2017-08-23,4050.0,1.2,29.4,clear
+1877,Arhar (Tur/Red Gram),Kannauj,2017-08-24,4650.0,2.0,33.0,clear
+1878,Bengal Gram(Gram),Kannauj,2017-08-24,6050.0,3.2,33.0,clear
+1879,Arhar (Tur/Red Gram),Kannauj,2017-08-25,4650.0,2.2,31.4,clear
+1880,Bengal Gram(Gram),Chhibramau(Kannuj),2017-08-25,6200.0,1.5,31.4,clear
+1881,Bengal Gram(Gram),Kannauj,2017-08-25,6050.0,3.0,31.4,clear
+1882,Green Gram (Moong),Chhibramau(Kannuj),2017-08-25,2600.0,1.0,31.4,clear
+1883,Arhar (Tur/Red Gram),Kannauj,2017-08-26,4500.0,2.0,27.4,clear
+1884,Bengal Gram(Gram),Chhibramau(Kannuj),2017-08-26,6250.0,2.0,27.4,clear
+1885,Bengal Gram(Gram),Kannauj,2017-08-26,6000.0,3.2,27.4,clear
+1886,Green Gram (Moong),Chhibramau(Kannuj),2017-08-26,4050.0,1.2,27.4,clear
+1887,Arhar (Tur/Red Gram),Kannauj,2017-08-27,4500.0,1.9,25.8,clear
+1888,Bengal Gram(Gram),Chhibramau(Kannuj),2017-08-27,6280.0,1.0,25.8,clear
+1889,Bengal Gram(Gram),Kannauj,2017-08-27,5980.0,3.0,25.8,clear
+1890,Green Gram (Moong),Chhibramau(Kannuj),2017-08-27,3800.0,2.0,25.8,clear
+1891,Arhar (Tur/Red Gram),Kannauj,2017-08-28,4650.0,2.2,31.4,clear
+1892,Bengal Gram(Gram),Chhibramau(Kannuj),2017-08-28,6300.0,1.0,31.4,clear
+1893,Bengal Gram(Gram),Kannauj,2017-08-28,5980.0,3.2,31.4,clear
+1894,Green Gram (Moong),Chhibramau(Kannuj),2017-08-28,4050.0,2.5,31.4,clear
+1895,Arhar (Tur/Red Gram),Kannauj,2017-08-30,4600.0,2.0,32.0,clear
+1896,Bengal Gram(Gram),Chhibramau(Kannuj),2017-08-30,6300.0,1.0,32.0,clear
+1897,Bengal Gram(Gram),Kannauj,2017-08-30,5950.0,3.5,32.0,clear
+1898,Green Gram (Moong),Chhibramau(Kannuj),2017-08-30,4050.0,2.5,32.0,clear
+1899,Arhar (Tur/Red Gram),Kannauj,2017-01-09,4600.0,2.0,13.4,clear
+1900,Bengal Gram(Gram),Chhibramau(Kannuj),2017-01-09,6320.0,1.2,13.4,clear
+1901,Bengal Gram(Gram),Kannauj,2017-01-09,5900.0,3.2,13.4,clear
+1902,Green Gram (Moong),Chhibramau(Kannuj),2017-01-09,4020.0,2.0,13.4,clear
+1903,Arhar (Tur/Red Gram),Kannauj,2017-02-09,4600.0,1.8,22.0,clear
+1904,Bengal Gram(Gram),Chhibramau(Kannuj),2017-02-09,6250.0,1.0,22.0,clear
+1905,Bengal Gram(Gram),Kannauj,2017-02-09,5900.0,2.8,22.0,clear
+1906,Green Gram (Moong),Chhibramau(Kannuj),2017-02-09,4100.0,1.5,22.0,clear
+1907,Arhar (Tur/Red Gram),Kannauj,2017-03-09,4600.0,1.5,28.6,clear
+1908,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-09,6200.0,1.0,28.6,clear
+1909,Bengal Gram(Gram),Kannauj,2017-03-09,5900.0,2.7,28.6,clear
+1910,Green Gram (Moong),Chhibramau(Kannuj),2017-03-09,4000.0,2.0,28.6,clear
+1911,Arhar (Tur/Red Gram),Kannauj,2017-04-09,4650.0,1.2,34.0,clear
+1912,Bengal Gram(Gram),Chhibramau(Kannuj),2017-04-09,6210.0,1.0,34.0,clear
+1913,Bengal Gram(Gram),Kannauj,2017-04-09,5920.0,2.5,34.0,clear
+1914,Green Gram (Moong),Chhibramau(Kannuj),2017-04-09,4060.0,2.5,34.0,clear
+1915,Arhar (Tur/Red Gram),Kannauj,2017-06-09,4400.0,1.5,37.2,clear
+1916,Bengal Gram(Gram),Chhibramau(Kannuj),2017-06-09,6060.0,1.4,37.2,clear
+1917,Bengal Gram(Gram),Kannauj,2017-06-09,6000.0,2.0,37.2,clear
+1918,Green Gram (Moong),Chhibramau(Kannuj),2017-06-09,4040.0,1.0,37.2,clear
+1919,Arhar (Tur/Red Gram),Kannauj,2017-07-09,4400.0,1.7,30.0,clear
+1920,Bengal Gram(Gram),Kannauj,2017-07-09,6000.0,2.2,30.0,clear
+1921,Arhar (Tur/Red Gram),Kannauj,2017-08-09,4200.0,2.0,31.0,clear
+1922,Bengal Gram(Gram),Chhibramau(Kannuj),2017-08-09,6100.0,1.0,31.0,clear
+1923,Bengal Gram(Gram),Kannauj,2017-08-09,6000.0,2.0,31.0,clear
+1924,Green Gram (Moong),Chhibramau(Kannuj),2017-08-09,4000.0,2.0,31.0,clear
+1925,Arhar (Tur/Red Gram),Kannauj,2017-09-09,4200.0,2.2,33.2,clear
+1926,Bengal Gram(Gram),Chhibramau(Kannuj),2017-09-09,6500.0,2.0,33.2,clear
+1927,Bengal Gram(Gram),Kannauj,2017-09-09,6050.0,2.2,33.2,clear
+1928,Green Gram (Moong),Chhibramau(Kannuj),2017-09-09,4100.0,2.0,33.2,clear
+1929,Arhar (Tur/Red Gram),Kannauj,2017-10-09,4100.0,2.0,33.0,clear
+1930,Bengal Gram(Gram),Chhibramau(Kannuj),2017-10-09,6400.0,2.0,33.0,clear
+1931,Bengal Gram(Gram),Kannauj,2017-10-09,6050.0,2.0,33.0,clear
+1932,Green Gram (Moong),Chhibramau(Kannuj),2017-10-09,4120.0,2.0,33.0,clear
+1933,Arhar (Tur/Red Gram),Kannauj,2017-09-13,4150.0,2.0,29.0,clear
+1934,Bengal Gram(Gram),Chhibramau(Kannuj),2017-09-13,6450.0,1.0,29.0,clear
+1935,Bengal Gram(Gram),Kannauj,2017-09-13,6100.0,2.0,29.0,clear
+1936,Green Gram (Moong),Chhibramau(Kannuj),2017-09-13,4100.0,1.5,29.0,clear
+1937,Arhar (Tur/Red Gram),Kannauj,2017-09-14,4150.0,2.2,34.0,clear
+1938,Bengal Gram(Gram),Kannauj,2017-09-14,6150.0,1.8,34.0,clear
+1939,Arhar (Tur/Red Gram),Kannauj,2017-09-15,4150.0,2.0,31.0,clear
+1940,Bengal Gram(Gram),Chhibramau(Kannuj),2017-09-15,6400.0,2.0,31.0,clear
+1941,Bengal Gram(Gram),Kannauj,2017-09-15,6150.0,1.5,31.0,clear
+1942,Black Gram (Urd Beans),Kannauj,2017-09-15,5950.0,2.0,31.0,clear
+1943,Green Gram (Moong),Chhibramau(Kannuj),2017-09-15,4000.0,0.0,31.0,clear
+1944,Arhar (Tur/Red Gram),Kannauj,2017-09-21,4350.0,1.7,26.6,rain
+1945,Bengal Gram(Gram),Kannauj,2017-09-21,6220.0,1.2,26.6,rain
+1946,Black Gram (Urd Beans),Kannauj,2017-09-21,5900.0,2.2,26.6,rain
+1947,Arhar (Tur/Red Gram),Kannauj,2017-09-28,4900.0,1.2,33.8,clear
+1948,Bengal Gram(Gram),Kannauj,2017-09-28,6250.0,1.8,33.8,clear
+1949,Black Gram (Urd Beans),Kannauj,2017-09-28,5350.0,1.8,33.8,clear
+1950,Arhar (Tur/Red Gram),Kannauj,2017-05-10,5000.0,2.0,36.8,clear
+1951,Bengal Gram(Gram),Kannauj,2017-05-10,6200.0,1.7,36.8,clear
+1952,Black Gram (Urd Beans),Kannauj,2017-05-10,5000.0,2.2,36.8,clear
+1953,Arhar (Tur/Red Gram),Kannauj,2017-12-10,5000.0,1.5,25.0,clear
+1954,Bengal Gram(Gram),Kannauj,2017-12-10,6300.0,1.2,25.0,clear
+1955,Black Gram (Urd Beans),Kannauj,2017-12-10,4900.0,2.2,25.0,clear
+1956,Arhar (Tur/Red Gram),Kannauj,2017-10-23,5000.0,1.2,22.4,clear
+1957,Bengal Gram(Gram),Chhibramau(Kannuj),2017-10-23,6800.0,1.2,22.4,clear
+1958,Bengal Gram(Gram),Kannauj,2017-10-23,6250.0,1.4,22.4,clear
+1959,Black Gram (Urd Beans),Kannauj,2017-10-23,4900.0,2.2,22.4,clear
+1960,Arhar (Tur/Red Gram),Kannauj,2017-10-26,4900.0,1.2,29.5,clear
+1961,Bengal Gram(Gram),Kannauj,2017-10-26,6300.0,1.3,29.5,clear
+1962,Black Gram (Urd Beans),Kannauj,2017-10-26,4800.0,2.5,29.5,clear
+1963,Arhar (Tur/Red Gram),Kannauj,2017-10-29,4800.0,1.3,28.8,clear
+1964,Bengal Gram(Gram),Chhibramau(Kannuj),2017-10-29,6800.0,1.0,28.8,clear
+1965,Bengal Gram(Gram),Kannauj,2017-10-29,6300.0,1.2,28.8,clear
+1966,Black Gram (Urd Beans),Chhibramau(Kannuj),2017-10-29,4700.0,1.0,28.8,clear
+1967,Black Gram (Urd Beans),Kannauj,2017-10-29,4880.0,2.0,28.8,clear
+1968,Green Gram (Moong),Chhibramau(Kannuj),2017-10-29,4000.0,5.0,28.8,clear
+1969,Arhar (Tur/Red Gram),Kannauj,2017-02-11,4750.0,1.8,23.2,clear
+1970,Bengal Gram(Gram),Kannauj,2017-02-11,6200.0,1.0,23.2,clear
+1971,Black Gram (Urd Beans),Kannauj,2017-02-11,4950.0,1.8,23.2,clear
+1972,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-01,8600.0,2.0,29.4,clear
+1973,Green Gram (Moong),Chhibramau(Kannuj),2017-03-01,4100.0,2.0,29.4,clear
+1974,Bengal Gram(Gram),Chhibramau(Kannuj),2017-10-01,8800.0,2.0,28.0,clear
+1975,Green Gram (Moong),Chhibramau(Kannuj),2017-10-01,4100.0,2.0,28.0,clear
+1976,Bengal Gram(Gram),Chhibramau(Kannuj),2017-01-17,8900.0,2.0,15.2,clear
+1977,Green Gram (Moong),Chhibramau(Kannuj),2017-01-17,4000.0,5.0,15.2,clear
+1978,Bengal Gram(Gram),Chhibramau(Kannuj),2017-01-24,8800.0,2.0,23.2,clear
+1979,Green Gram (Moong),Chhibramau(Kannuj),2017-01-24,4200.0,2.0,23.2,clear
+1980,Bengal Gram(Gram),Chhibramau(Kannuj),2017-01-31,8800.0,2.0,21.0,clear
+1981,Green Gram (Moong),Chhibramau(Kannuj),2017-01-31,4100.0,2.0,21.0,clear
+1982,Bengal Gram(Gram),Chhibramau(Kannuj),2017-07-02,8500.0,2.0,31.6,clear
+1983,Green Gram (Moong),Chhibramau(Kannuj),2017-07-02,4100.0,4.0,31.6,clear
+1984,Bengal Gram(Gram),Chhibramau(Kannuj),2017-02-14,7500.0,1.0,24.8,clear
+1985,Green Gram (Moong),Chhibramau(Kannuj),2017-02-14,3900.0,2.0,24.8,clear
+1986,Bengal Gram(Gram),Chhibramau(Kannuj),2017-02-19,7500.0,2.0,28.0,clear
+1987,Green Gram (Moong),Chhibramau(Kannuj),2017-02-19,4000.0,3.0,28.0,clear
+1988,Bengal Gram(Gram),Chhibramau(Kannuj),2017-02-21,7500.0,2.0,26.0,clear
+1989,Green Gram (Moong),Chhibramau(Kannuj),2017-02-21,4000.0,6.0,26.0,clear
+1990,Bengal Gram(Gram),Chhibramau(Kannuj),2017-02-22,7500.0,1.0,25.6,clear
+1991,Green Gram (Moong),Chhibramau(Kannuj),2017-02-22,4000.0,2.0,25.6,clear
+1992,Bengal Gram(Gram),Chhibramau(Kannuj),2017-02-26,7550.0,2.0,26.4,clear
+1993,Green Gram (Moong),Chhibramau(Kannuj),2017-02-26,4120.0,2.0,26.4,clear
+1994,Bengal Gram(Gram),Chhibramau(Kannuj),2017-02-27,7500.0,2.0,27.4,clear
+1995,Green Gram (Moong),Chhibramau(Kannuj),2017-02-27,4100.0,5.0,27.4,clear
+1996,Bengal Gram(Gram),Chhibramau(Kannuj),2017-02-28,7500.0,1.0,28.8,clear
+1997,Green Gram (Moong),Chhibramau(Kannuj),2017-02-28,4000.0,3.0,28.8,clear
+1998,Bengal Gram(Gram),Chhibramau(Kannuj),2017-01-03,7500.0,2.0,15.8,clear
+1999,Bengal Gram(Gram),Kannauj,2017-01-03,7900.0,6.5,15.8,clear
+2000,Green Gram (Moong),Chhibramau(Kannuj),2017-01-03,4000.0,5.0,15.8,clear
+2001,Bengal Gram(Gram),Chhibramau(Kannuj),2017-07-03,7000.0,1.0,31.6,clear
+2002,Green Gram (Moong),Chhibramau(Kannuj),2017-07-03,4100.0,3.0,31.6,clear
+2003,Bengal Gram(Gram),Chhibramau(Kannuj),2017-12-03,7000.0,2.0,22.0,clear
+2004,Green Gram (Moong),Chhibramau(Kannuj),2017-12-03,4100.0,6.0,22.0,clear
+2005,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-13,7000.0,2.0,23.8,clear
+2006,Green Gram (Moong),Chhibramau(Kannuj),2017-03-13,4100.0,2.0,23.8,clear
+2007,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-14,7100.0,2.0,25.4,clear
+2008,Green Gram (Moong),Chhibramau(Kannuj),2017-03-14,4000.0,2.0,25.4,clear
+2009,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-21,7060.0,2.0,20.3,clear
+2010,Green Gram (Moong),Chhibramau(Kannuj),2017-03-21,4120.0,5.0,20.3,clear
+2011,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-22,6800.0,2.0,34.2,clear
+2012,Green Gram (Moong),Chhibramau(Kannuj),2017-03-22,4100.0,3.0,34.2,clear
+2013,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-28,6500.0,2.0,36.0,clear
+2014,Green Gram (Moong),Chhibramau(Kannuj),2017-03-28,4200.0,5.0,36.0,clear
+2015,Bengal Gram(Gram),Chhibramau(Kannuj),2017-04-04,7000.0,1.0,28.0,clear
+2016,Green Gram (Moong),Chhibramau(Kannuj),2017-04-04,4200.0,6.0,28.0,clear
+2017,Bengal Gram(Gram),Chhibramau(Kannuj),2017-11-04,6400.0,2.0,28.4,clear
+2018,Green Gram (Moong),Chhibramau(Kannuj),2017-11-04,4200.0,3.0,28.4,clear
+2019,Bengal Gram(Gram),Chhibramau(Kannuj),2017-04-18,6400.0,2.0,39.0,clear
+2020,Green Gram (Moong),Chhibramau(Kannuj),2017-04-18,4200.0,4.0,39.0,clear
+2021,Bengal Gram(Gram),Chhibramau(Kannuj),2017-04-25,6500.0,2.0,38.2,clear
+2022,Green Gram (Moong),Chhibramau(Kannuj),2017-04-25,4400.0,2.0,38.2,clear
+2023,Bengal Gram(Gram),Chhibramau(Kannuj),2017-02-05,6500.0,2.0,24.6,clear
+2024,Green Gram (Moong),Chhibramau(Kannuj),2017-02-05,4200.0,3.0,24.6,clear
+2025,Bengal Gram(Gram),Chhibramau(Kannuj),2017-09-05,6700.0,2.0,33.4,clear
+2026,Green Gram (Moong),Chhibramau(Kannuj),2017-09-05,4200.0,4.0,33.4,clear
+2027,Bengal Gram(Gram),Chhibramau(Kannuj),2017-05-16,6700.0,3.0,40.0,clear
+2028,Green Gram (Moong),Chhibramau(Kannuj),2017-05-16,4200.0,2.0,40.0,clear
+2029,Bengal Gram(Gram),Chhibramau(Kannuj),2017-05-23,6500.0,1.0,39.2,clear
+2030,Green Gram (Moong),Chhibramau(Kannuj),2017-05-23,4200.0,2.0,39.2,clear
+2031,Bengal Gram(Gram),Chhibramau(Kannuj),2017-05-30,6500.0,2.0,31.6,clear
+2032,Green Gram (Moong),Chhibramau(Kannuj),2017-05-30,4100.0,3.0,31.6,clear
+2033,Bengal Gram(Gram),Chhibramau(Kannuj),2017-06-06,6560.0,1.0,33.6,clear
+2034,Green Gram (Moong),Chhibramau(Kannuj),2017-06-06,4100.0,2.0,33.6,clear
+2035,Bengal Gram(Gram),Chhibramau(Kannuj),2017-06-13,6500.0,1.0,40.0,clear
+2036,Green Gram (Moong),Chhibramau(Kannuj),2017-06-13,4000.0,5.0,40.0,clear
+2037,Bengal Gram(Gram),Chhibramau(Kannuj),2017-06-20,6400.0,2.0,33.0,clear
+2038,Green Gram (Moong),Chhibramau(Kannuj),2017-06-20,4100.0,2.0,33.0,clear
+2039,Bengal Gram(Gram),Chhibramau(Kannuj),2017-06-27,6500.0,2.0,36.0,clear
+2040,Green Gram (Moong),Chhibramau(Kannuj),2017-06-27,4000.0,2.0,36.0,clear
+2041,Bengal Gram(Gram),Chhibramau(Kannuj),2017-03-07,6400.0,1.0,29.0,clear
+2042,Green Gram (Moong),Chhibramau(Kannuj),2017-03-07,3900.0,2.0,29.0,clear
+2043,Bengal Gram(Gram),Chhibramau(Kannuj),2017-04-07,6400.0,1.0,36.0,clear
+2044,Green Gram (Moong),Chhibramau(Kannuj),2017-04-07,4100.0,2.0,36.0,clear
+2045,Bengal Gram(Gram),Chhibramau(Kannuj),2017-08-07,6000.0,2.0,28.6,clear
+2046,Green Gram (Moong),Chhibramau(Kannuj),2017-08-07,3800.0,4.0,28.6,clear
+2047,Bengal Gram(Gram),Chhibramau(Kannuj),2017-09-07,6000.0,2.0,34.0,clear
+2048,Green Gram (Moong),Chhibramau(Kannuj),2017-09-07,3890.0,2.0,34.0,clear
+2049,Bengal Gram(Gram),Chhibramau(Kannuj),2017-11-07,6000.0,2.0,26.6,clear
+2050,Green Gram (Moong),Chhibramau(Kannuj),2017-11-07,3900.0,4.0,26.6,clear
+2051,Bengal Gram(Gram),Chhibramau(Kannuj),2017-07-18,6300.0,2.0,34.6,clear
+2052,Green Gram (Moong),Chhibramau(Kannuj),2017-07-18,4000.0,2.0,34.6,clear
+2053,Bengal Gram(Gram),Chhibramau(Kannuj),2017-07-25,6400.0,1.2,29.4,clear
+2054,Green Gram (Moong),Chhibramau(Kannuj),2017-07-25,4100.0,1.2,29.4,clear
+2055,Bengal Gram(Gram),Chhibramau(Kannuj),2017-08-08,6400.0,2.0,30.6,clear
+2056,Green Gram (Moong),Chhibramau(Kannuj),2017-08-08,4100.0,3.0,30.6,clear
+2057,Bengal Gram(Gram),Chhibramau(Kannuj),2017-08-15,6400.0,2.0,29.6,clear
+2058,Green Gram (Moong),Chhibramau(Kannuj),2017-08-15,4000.0,2.0,29.6,clear
+2059,Bengal Gram(Gram),Chhibramau(Kannuj),2017-08-22,6300.0,2.0,31.0,clear
+2060,Green Gram (Moong),Chhibramau(Kannuj),2017-08-22,4100.0,2.0,31.0,clear
+2061,Bengal Gram(Gram),Chhibramau(Kannuj),2017-08-29,6350.0,1.2,28.8,clear
+2062,Green Gram (Moong),Chhibramau(Kannuj),2017-08-29,4050.0,1.0,28.8,clear
+2063,Bengal Gram(Gram),Chhibramau(Kannuj),2017-05-09,6000.0,1.0,38.0,clear
+2064,Green Gram (Moong),Chhibramau(Kannuj),2017-05-09,4000.0,1.5,38.0,clear
+2065,Bengal Gram(Gram),Chhibramau(Kannuj),2017-12-09,6450.0,1.0,23.4,clear
+2066,Green Gram (Moong),Chhibramau(Kannuj),2017-12-09,4100.0,1.0,23.4,clear

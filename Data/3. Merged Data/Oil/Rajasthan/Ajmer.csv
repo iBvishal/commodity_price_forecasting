@@ -1,0 +1,1222 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Mustard,Beawar,2013-05-29,3000.0,9.3,34.6,clear
+1,Mustard,Bijay Nagar,2013-05-29,2950.0,2.4,34.6,clear
+2,Mustard,Kekri,2013-05-29,3075.0,66.5,34.6,clear
+3,Mustard,Madanganj Kishanganj,2013-05-29,3063.0,1.8,34.6,clear
+4,Mustard,Vijay Nagar(Gulabpura),2013-05-29,3000.0,3.0,34.6,clear
+5,Mustard,Beawar,2015-12-14,4550.0,1.0,20.6,clear
+6,Mustard,Kekri,2015-12-14,4470.0,7.0,20.6,clear
+7,Mustard,Beawar,2015-12-15,4350.0,2.3,20.4,clear
+8,Mustard,Madanganj Kishanganj,2015-12-15,4125.0,1.1,20.4,clear
+9,Mustard,Beawar,2015-12-17,4450.0,0.1,22.6,clear
+10,Mustard,Beawar,2015-12-28,4400.0,7.1,29.4,clear
+11,Mustard,Kekri,2015-12-28,4300.0,2.2,29.4,clear
+12,Mustard,Beawar,2015-12-29,4400.0,0.3,28.8,clear
+13,Mustard,Kekri,2015-12-29,4200.0,13.5,28.8,clear
+14,Mustard,Bijay Nagar,2015-12-08,3890.0,0.1,29.0,clear
+15,Mustard,Kekri,2015-12-08,4035.0,30.0,29.0,clear
+16,Mustard,Kekri,2015-12-12,4500.0,1.2,20.0,clear
+17,Mustard,Kekri,2015-12-16,4150.0,8.3,21.6,clear
+18,Mustard,Kekri,2015-12-21,4100.0,1.2,20.6,clear
+19,Mustard,Kekri,2015-12-30,4325.0,3.9,28.2,clear
+20,Mustard,Beawar,2016-01-01,4400.0,0.3,26.8,clear
+21,Mustard,Kekri,2016-01-01,4300.0,4.3,26.8,clear
+22,Mustard,Madanganj Kishanganj,2016-01-01,4025.0,0.1,26.8,clear
+23,Mustard,Beawar,2016-04-01,4250.0,1.0,37.6,clear
+24,Mustard,Beawar,2016-08-01,4250.0,1.5,30.4,rain
+25,Mustard,Beawar,2016-12-01,4250.0,0.8,27.6,clear
+26,Mustard,Beawar,2016-01-25,4150.0,4.5,23.8,clear
+27,Mustard,Beawar,2016-01-02,3750.0,0.7,26.6,clear
+28,Mustard,Madanganj Kishanganj,2016-01-02,3700.0,0.6,26.6,clear
+29,Mustard,Vijay Nagar(Gulabpura),2016-01-02,2700.0,0.7,26.6,clear
+30,Mustard,Beawar,2016-12-02,4050.0,0.9,26.8,clear
+31,Mustard,Kekri,2016-12-02,3960.0,9.0,26.8,clear
+32,Mustard,Beawar,2016-02-15,3750.0,4.5,23.6,clear
+33,Mustard,Bijay Nagar,2016-02-15,3600.0,2.4,23.6,clear
+34,Mustard,Kekri,2016-02-15,9345.0,9.6,23.6,clear
+35,Mustard,Beawar,2016-02-17,3850.0,0.8,23.4,rain
+36,Mustard,Bijay Nagar,2016-02-17,3900.0,2.8,23.4,rain
+37,Mustard,Kekri,2016-02-17,4050.0,16.6,23.4,rain
+38,Mustard,Beawar,2016-02-18,3900.0,2.6,23.6,clear
+39,Mustard,Bijay Nagar,2016-02-18,3900.0,1.5,23.6,clear
+40,Mustard,Kekri,2016-02-18,4012.0,18.5,23.6,clear
+41,Mustard,Beawar,2016-02-19,3600.0,2.7,27.6,clear
+42,Mustard,Bijay Nagar,2016-02-19,3900.0,4.3,27.6,clear
+43,Mustard,Kekri,2016-02-19,3950.0,32.6,27.6,clear
+44,Mustard,Vijay Nagar(Gulabpura),2016-02-19,3100.0,1.8,27.6,clear
+45,Mustard,Beawar,2016-02-22,3850.0,4.4,28.0,clear
+46,Mustard,Bijay Nagar,2016-02-22,3700.0,10.0,28.0,clear
+47,Mustard,Kekri,2016-02-22,3950.0,54.2,28.0,clear
+48,Mustard,Beawar,2016-02-23,3900.0,6.8,30.0,clear
+49,Mustard,Bijay Nagar,2016-02-23,3600.0,8.9,30.0,clear
+50,Mustard,Beawar,2016-02-24,3900.0,0.8,30.2,clear
+51,Mustard,Bijay Nagar,2016-02-24,3600.0,10.7,30.2,clear
+52,Mustard,Kekri,2016-02-24,3865.0,35.6,30.2,clear
+53,Mustard,Vijay Nagar(Gulabpura),2016-02-24,3200.0,1.0,30.2,clear
+54,Mustard,Beawar,2016-02-25,3900.0,7.7,30.8,clear
+55,Mustard,Bijay Nagar,2016-02-25,3500.0,8.0,30.8,clear
+56,Mustard,Vijay Nagar(Gulabpura),2016-02-25,3625.0,1.5,30.8,clear
+57,Mustard,Beawar,2016-02-26,2775.0,4.2,30.6,clear
+58,Mustard,Bijay Nagar,2016-02-26,3700.0,15.0,30.6,clear
+59,Mustard,Kekri,2016-02-26,3850.0,78.8,30.6,clear
+60,Mustard,Vijay Nagar(Gulabpura),2016-02-26,3800.0,2.5,30.6,clear
+61,Mustard,Beawar,2016-02-29,3700.0,12.4,32.0,clear
+62,Mustard,Bijay Nagar,2016-02-29,3700.0,20.0,32.0,clear
+63,Mustard,Kekri,2016-02-29,3870.0,178.2,32.0,clear
+64,Mustard,Vijay Nagar(Gulabpura),2016-02-29,3851.0,5.3,32.0,clear
+65,Mustard,Beawar,2016-01-03,3650.0,11.3,26.6,clear
+66,Mustard,Bijay Nagar,2016-01-03,3600.0,35.0,26.6,clear
+67,Mustard,Vijay Nagar(Gulabpura),2016-01-03,3500.0,1.4,26.6,clear
+68,Mustard,Beawar,2016-02-03,3550.0,11.1,23.4,clear
+69,Mustard,Bijay Nagar,2016-02-03,3500.0,42.0,23.4,clear
+70,Mustard,Kekri,2016-02-03,3800.0,185.4,23.4,clear
+71,Mustard,Vijay Nagar(Gulabpura),2016-02-03,3600.0,2.1,23.4,clear
+72,Mustard,Beawar,2016-03-03,3425.0,18.5,34.6,clear
+73,Mustard,Bijay Nagar,2016-03-03,3400.0,48.0,34.6,clear
+74,Mustard,Kekri,2016-03-03,3670.0,218.0,34.6,clear
+75,Mustard,Vijay Nagar(Gulabpura),2016-03-03,3450.0,14.2,34.6,clear
+76,Mustard,Beawar,2016-08-03,3500.0,105.7,29.4,clear
+77,Mustard,Bijay Nagar,2016-08-03,3300.0,86.0,29.4,clear
+78,Mustard,Kekri,2016-08-03,3441.0,364.0,29.4,clear
+79,Mustard,Vijay Nagar(Gulabpura),2016-08-03,3500.0,7.4,29.4,clear
+80,Mustard,Beawar,2016-09-03,3425.0,49.0,30.0,clear
+81,Mustard,Bijay Nagar,2016-09-03,3400.0,100.3,30.0,clear
+82,Mustard,Madanganj Kishanganj,2016-09-03,3650.0,6.5,30.0,clear
+83,Mustard,Vijay Nagar(Gulabpura),2016-09-03,3400.0,7.1,30.0,clear
+84,Mustard,Beawar,2016-10-03,3400.0,34.0,34.4,clear
+85,Mustard,Bijay Nagar,2016-10-03,3400.0,106.0,34.4,clear
+86,Mustard,Kekri,2016-10-03,3700.0,404.5,34.4,clear
+87,Mustard,Madanganj Kishanganj,2016-10-03,3655.0,4.4,34.4,clear
+88,Mustard,Vijay Nagar(Gulabpura),2016-10-03,3400.0,9.9,34.4,clear
+89,Mustard,Beawar,2016-11-03,3425.0,44.9,30.8,clear
+90,Mustard,Bijay Nagar,2016-11-03,3300.0,84.0,30.8,clear
+91,Mustard,Madanganj Kishanganj,2016-11-03,3650.0,6.2,30.8,clear
+92,Mustard,Vijay Nagar(Gulabpura),2016-11-03,3400.0,8.6,30.8,clear
+93,Mustard,Beawar,2016-03-14,3425.0,112.2,29.6,clear
+94,Mustard,Bijay Nagar,2016-03-14,3400.0,105.0,29.6,clear
+95,Mustard,Kekri,2016-03-14,3650.0,605.0,29.6,clear
+96,Mustard,Madanganj Kishanganj,2016-03-14,3675.0,15.7,29.6,clear
+97,Mustard,Vijay Nagar(Gulabpura),2016-03-14,3500.0,20.0,29.6,clear
+98,Mustard,Beawar,2016-03-16,2725.0,2.4,30.6,clear
+99,Mustard,Bijay Nagar,2016-03-16,3400.0,53.9,30.6,clear
+100,Mustard,Kekri,2016-03-16,3450.0,503.0,30.6,clear
+101,Mustard,Madanganj Kishanganj,2016-03-16,3650.0,7.1,30.6,clear
+102,Mustard,Beawar,2016-03-21,3400.0,128.3,34.4,clear
+103,Mustard,Kekri,2016-03-21,3450.0,391.9,34.4,clear
+104,Mustard,Madanganj Kishanganj,2016-03-21,3500.0,24.1,34.4,clear
+105,Mustard,Vijay Nagar(Gulabpura),2016-03-21,3300.0,0.8,34.4,clear
+106,Mustard,Beawar,2016-03-22,3400.0,39.3,31.4,clear
+107,Mustard,Bijay Nagar,2016-03-22,3250.0,29.5,31.4,clear
+108,Mustard,Kekri,2016-03-22,3500.0,275.5,31.4,clear
+109,Mustard,Beawar,2016-03-28,3550.0,100.6,33.0,clear
+110,Mustard,Bijay Nagar,2016-03-28,3500.0,7.5,33.0,clear
+111,Mustard,Vijay Nagar(Gulabpura),2016-03-28,3500.0,2.7,33.0,clear
+112,Mustard,Beawar,2016-03-29,3550.0,65.0,35.2,clear
+113,Mustard,Vijay Nagar(Gulabpura),2016-03-29,3500.0,3.1,35.2,clear
+114,Mustard,Beawar,2016-03-30,3650.0,46.3,36.4,clear
+115,Mustard,Vijay Nagar(Gulabpura),2016-03-30,3500.0,4.0,36.4,clear
+116,Mustard,Beawar,2016-03-31,3700.0,24.2,36.6,clear
+117,Mustard,Beawar,2016-01-04,3550.0,36.6,29.6,clear
+118,Mustard,Madanganj Kishanganj,2016-01-04,3675.0,23.2,29.6,clear
+119,Mustard,Vijay Nagar(Gulabpura),2016-01-04,3500.0,2.6,29.6,clear
+120,Mustard,Beawar,2016-05-04,4500.0,1.15,39.6,clear
+121,Mustard,Kekri,2016-05-04,3700.0,124.8,39.6,clear
+122,Mustard,Beawar,2016-06-04,4700.0,44.9,43.4,clear
+123,Mustard,Bijay Nagar,2016-06-04,3600.0,17.5,43.4,clear
+124,Mustard,Vijay Nagar(Gulabpura),2016-06-04,3600.0,1.1,43.4,clear
+125,Mustard,Beawar,2016-11-04,3825.0,2.0,30.4,clear
+126,Mustard,Bijay Nagar,2016-11-04,3800.0,8.0,30.4,clear
+127,Mustard,Kekri,2016-11-04,4000.0,124.9,30.4,clear
+128,Mustard,Beawar,2016-12-04,3900.0,13.5,27.0,clear
+129,Mustard,Bijay Nagar,2016-12-04,3800.0,8.0,27.0,clear
+130,Mustard,Beawar,2016-04-13,3950.0,24.4,37.6,clear
+131,Mustard,Bijay Nagar,2016-04-13,3700.0,6.0,37.6,clear
+132,Mustard,Beawar,2016-04-14,4025.0,29.7,39.2,clear
+133,Mustard,Bijay Nagar,2016-04-14,3800.0,6.5,39.2,clear
+134,Mustard,Madanganj Kishanganj,2016-04-14,3960.0,4.5,39.2,clear
+135,Mustard,Beawar,2016-04-15,4025.0,1.6,39.2,clear
+136,Mustard,Bijay Nagar,2016-04-15,3900.0,4.0,39.2,clear
+137,Mustard,Kekri,2016-04-15,3900.0,46.5,39.2,clear
+138,Mustard,Madanganj Kishanganj,2016-04-15,4000.0,3.1,39.2,clear
+139,Mustard,Vijay Nagar(Gulabpura),2016-04-15,3750.0,6.3,39.2,clear
+140,Mustard,Beawar,2016-04-16,4025.0,0.6,37.6,clear
+141,Mustard,Bijay Nagar,2016-04-16,3850.0,3.5,37.6,clear
+142,Mustard,Kekri,2016-04-16,3950.0,65.5,37.6,clear
+143,Mustard,Madanganj Kishanganj,2016-04-16,4030.0,5.1,37.6,clear
+144,Mustard,Beawar,2016-04-17,4025.0,3.0,37.0,clear
+145,Mustard,Beawar,2016-04-18,4025.0,10.3,37.0,clear
+146,Mustard,Bijay Nagar,2016-04-18,4000.0,6.2,37.0,clear
+147,Mustard,Kekri,2016-04-18,4050.0,55.0,37.0,clear
+148,Mustard,Madanganj Kishanganj,2016-04-18,4125.0,5.4,37.0,clear
+149,Mustard,Beawar,2016-04-20,3925.0,11.6,37.0,clear
+150,Mustard,Bijay Nagar,2016-04-20,4000.0,7.8,37.0,clear
+151,Mustard,Kekri,2016-04-20,4080.0,19.3,37.0,clear
+152,Mustard,Madanganj Kishanganj,2016-04-20,4175.0,3.2,37.0,clear
+153,Mustard,Vijay Nagar(Gulabpura),2016-04-20,3900.0,2.1,37.0,clear
+154,Mustard,Beawar,2016-04-21,3975.0,33.1,38.0,clear
+155,Mustard,Bijay Nagar,2016-04-21,3900.0,16.2,38.0,clear
+156,Mustard,Kekri,2016-04-21,4000.0,26.0,38.0,clear
+157,Mustard,Madanganj Kishanganj,2016-04-21,4160.0,9.2,38.0,clear
+158,Mustard,Beawar,2016-04-22,3925.0,13.4,37.4,clear
+159,Mustard,Bijay Nagar,2016-04-22,3800.0,6.0,37.4,clear
+160,Mustard,Madanganj Kishanganj,2016-04-22,4135.0,0.3,37.4,clear
+161,Mustard,Beawar,2016-04-25,4000.0,33.0,37.2,clear
+162,Mustard,Bijay Nagar,2016-04-25,3800.0,5.1,37.2,clear
+163,Mustard,Kekri,2016-04-25,4080.0,54.6,37.2,clear
+164,Mustard,Madanganj Kishanganj,2016-04-25,4025.0,12.3,37.2,clear
+165,Mustard,Beawar,2016-04-26,4050.0,1.8,38.0,clear
+166,Mustard,Bijay Nagar,2016-04-26,3800.0,5.8,38.0,clear
+167,Mustard,Kekri,2016-04-26,4090.0,52.2,38.0,clear
+168,Mustard,Madanganj Kishanganj,2016-04-26,4010.0,3.5,38.0,clear
+169,Mustard,Vijay Nagar(Gulabpura),2016-04-26,3800.0,0.3,38.0,clear
+170,Mustard,Beawar,2016-04-27,3975.0,17.1,40.0,clear
+171,Mustard,Bijay Nagar,2016-04-27,3800.0,2.6,40.0,clear
+172,Mustard,Madanganj Kishanganj,2016-04-27,4020.0,11.0,40.0,clear
+173,Mustard,Beawar,2016-04-28,4025.0,2.9,40.0,clear
+174,Mustard,Bijay Nagar,2016-04-28,3800.0,3.4,40.0,clear
+175,Mustard,Kekri,2016-04-28,4015.0,41.0,40.0,clear
+176,Mustard,Madanganj Kishanganj,2016-04-28,4030.0,13.7,40.0,clear
+177,Mustard,Beawar,2016-09-05,3900.0,7.5,29.4,clear
+178,Mustard,Bijay Nagar,2016-09-05,3800.0,3.9,29.4,clear
+179,Mustard,Kekri,2016-09-05,3925.0,10.2,29.4,clear
+180,Mustard,Beawar,2016-12-05,3900.0,3.5,28.4,clear
+181,Mustard,Bijay Nagar,2016-12-05,3800.0,2.0,28.4,clear
+182,Mustard,Kekri,2016-12-05,4025.0,61.2,28.4,clear
+183,Mustard,Madanganj Kishanganj,2016-12-05,3940.0,0.1,28.4,clear
+184,Mustard,Beawar,2016-05-14,3950.0,0.4,42.4,clear
+185,Mustard,Bijay Nagar,2016-05-14,3760.0,0.9,42.4,clear
+186,Mustard,Kekri,2016-05-14,3925.0,47.8,42.4,clear
+187,Mustard,Beawar,2016-05-15,3950.0,2.5,42.6,clear
+188,Mustard,Beawar,2016-05-18,3925.0,2.7,44.4,clear
+189,Mustard,Kekri,2016-05-18,4125.0,27.2,44.4,clear
+190,Mustard,Madanganj Kishanganj,2016-05-18,3930.0,2.7,44.4,clear
+191,Mustard,Vijay Nagar(Gulabpura),2016-05-18,4000.0,10.0,44.4,clear
+192,Mustard,Beawar,2016-05-21,3950.0,3.2,42.6,clear
+193,Mustard,Bijay Nagar,2016-05-21,3700.0,1.1,42.6,clear
+194,Mustard,Kekri,2016-05-21,3965.0,9.3,42.6,clear
+195,Mustard,Madanganj Kishanganj,2016-05-21,3935.0,1.7,42.6,clear
+196,Mustard,Beawar,2016-05-23,3950.0,1.0,39.4,clear
+197,Mustard,Bijay Nagar,2016-05-23,3755.0,1.1,39.4,clear
+198,Mustard,Kekri,2016-05-23,4050.0,11.0,39.4,clear
+199,Mustard,Madanganj Kishanganj,2016-05-23,3875.0,4.9,39.4,clear
+200,Mustard,Beawar,2016-05-25,3900.0,5.3,37.8,clear
+201,Mustard,Bijay Nagar,2016-05-25,3770.0,2.2,37.8,clear
+202,Mustard,Kekri,2016-05-25,4025.0,25.5,37.8,clear
+203,Mustard,Beawar,2016-05-26,3850.0,6.0,39.0,clear
+204,Mustard,Bijay Nagar,2016-05-26,3700.0,3.8,39.0,clear
+205,Mustard,Kekri,2016-05-26,3980.0,42.8,39.0,clear
+206,Mustard,Madanganj Kishanganj,2016-05-26,3855.0,0.2,39.0,clear
+207,Mustard,Vijay Nagar(Gulabpura),2016-05-26,3750.0,9.0,39.0,clear
+208,Mustard,Beawar,2016-05-28,3900.0,2.7,38.8,clear
+209,Mustard,Bijay Nagar,2016-05-28,3700.0,1.6,38.8,clear
+210,Mustard,Kekri,2016-05-28,3850.0,46.9,38.8,clear
+211,Mustard,Madanganj Kishanganj,2016-05-28,3950.0,1.3,38.8,clear
+212,Mustard,Beawar,2016-05-29,3900.0,1.5,38.0,clear
+213,Mustard,Kekri,2016-05-29,3925.0,28.5,38.0,clear
+214,Mustard,Beawar,2016-05-30,3900.0,4.2,38.8,clear
+215,Mustard,Bijay Nagar,2016-05-30,3790.0,2.0,38.8,clear
+216,Mustard,Kekri,2016-05-30,3925.0,28.5,38.8,clear
+217,Mustard,Beawar,2016-05-31,3875.0,2.2,38.8,clear
+218,Mustard,Bijay Nagar,2016-05-31,3800.0,1.1,38.8,clear
+219,Mustard,Kekri,2016-05-31,4012.0,38.9,38.8,clear
+220,Mustard,Beawar,2016-01-06,3900.0,8.0,27.8,clear
+221,Mustard,Kekri,2016-01-06,3900.0,35.7,27.8,clear
+222,Mustard,Vijay Nagar(Gulabpura),2016-01-06,3800.0,13.1,27.8,clear
+223,Mustard,Beawar,2016-08-06,3875.0,1.5,32.4,rain
+224,Mustard,Kekri,2016-08-06,3965.0,12.1,32.4,rain
+225,Mustard,Madanganj Kishanganj,2016-08-06,3900.0,2.7,32.4,rain
+226,Mustard,Beawar,2016-09-06,3950.0,0.7,29.4,clear
+227,Mustard,Bijay Nagar,2016-09-06,3831.0,6.0,29.4,clear
+228,Mustard,Kekri,2016-09-06,4012.0,32.3,29.4,clear
+229,Mustard,Madanganj Kishanganj,2016-09-06,3910.0,0.4,29.4,clear
+230,Mustard,Vijay Nagar(Gulabpura),2016-09-06,3800.0,2.0,29.4,clear
+231,Mustard,Beawar,2016-06-13,4150.0,6.7,37.0,clear
+232,Mustard,Bijay Nagar,2016-06-13,4000.0,2.0,37.0,clear
+233,Mustard,Kekri,2016-06-13,3900.0,13.7,37.0,clear
+234,Mustard,Beawar,2016-06-14,4225.0,2.5,37.0,clear
+235,Mustard,Kekri,2016-06-14,3925.0,18.2,37.0,clear
+236,Mustard,Madanganj Kishanganj,2016-06-14,6350.0,0.5,37.0,clear
+237,Mustard,Vijay Nagar(Gulabpura),2016-06-14,4125.0,8.5,37.0,clear
+238,Mustard,Beawar,2016-06-15,4350.0,2.5,37.4,clear
+239,Mustard,Bijay Nagar,2016-06-15,4100.0,0.6,37.4,clear
+240,Mustard,Kekri,2016-06-15,3950.0,8.6,37.4,clear
+241,Mustard,Madanganj Kishanganj,2016-06-15,3900.0,1.3,37.4,clear
+242,Mustard,Beawar,2016-06-27,4250.0,11.6,37.0,rain
+243,Mustard,Kekri,2016-06-27,4050.0,22.8,37.0,rain
+244,Mustard,Madanganj Kishanganj,2016-06-27,4050.0,0.8,37.0,rain
+245,Mustard,Vijay Nagar(Gulabpura),2016-06-27,4100.0,1.0,37.0,rain
+246,Mustard,Beawar,2016-06-28,4200.0,0.2,35.8,clear
+247,Mustard,Kekri,2016-06-28,4100.0,22.5,35.8,clear
+248,Mustard,Beawar,2016-06-30,4300.0,12.2,38.0,clear
+249,Mustard,Bijay Nagar,2016-06-30,4146.0,2.7,38.0,clear
+250,Mustard,Kekri,2016-06-30,3950.0,6.4,38.0,clear
+251,Mustard,Beawar,2016-01-07,4250.0,3.5,26.6,clear
+252,Mustard,Kekri,2016-01-07,4100.0,115.1,26.6,clear
+253,Mustard,Madanganj Kishanganj,2016-01-07,4050.0,0.4,26.6,clear
+254,Mustard,Beawar,2016-01-08,4375.0,4.5,25.2,clear
+255,Mustard,Kekri,2016-01-08,4160.0,6.6,25.2,clear
+256,Mustard,Madanganj Kishanganj,2016-01-08,4125.0,1.3,25.2,clear
+257,Mustard,Beawar,2016-02-08,4450.0,7.5,25.0,clear
+258,Mustard,Bijay Nagar,2016-02-08,4328.0,0.2,25.0,clear
+259,Mustard,Kekri,2016-02-08,4100.0,1.6,25.0,clear
+260,Mustard,Beawar,2016-03-08,4325.0,4.0,29.0,clear
+261,Mustard,Kekri,2016-03-08,4010.0,2.6,29.0,clear
+262,Mustard,Beawar,2016-08-08,4300.0,12.0,31.0,clear
+263,Mustard,Kekri,2016-08-08,4012.0,2.0,31.0,clear
+264,Mustard,Beawar,2016-08-14,4100.0,2.5,31.2,clear
+265,Mustard,Beawar,2016-04-09,4350.0,2.5,36.2,clear
+266,Mustard,Beawar,2016-09-14,3950.0,8.2,34.2,clear
+267,Mustard,Kekri,2016-09-14,4200.0,8.0,34.2,clear
+268,Mustard,Beawar,2016-09-17,4100.0,0.4,36.0,clear
+269,Mustard,Beawar,2016-09-20,4300.0,6.4,35.8,clear
+270,Mustard,Kekri,2016-09-20,4150.0,8.0,35.8,clear
+271,Mustard,Beawar,2016-09-22,4300.0,2.5,36.2,clear
+272,Mustard,Kekri,2016-09-22,4200.0,15.7,36.2,clear
+273,Mustard,Vijay Nagar(Gulabpura),2016-09-22,4000.0,15.0,36.2,clear
+274,Mustard,Beawar,2016-09-23,4500.0,2.0,36.0,clear
+275,Mustard,Kekri,2016-09-23,4012.0,3.6,36.0,clear
+276,Mustard,Beawar,2016-09-28,4350.0,1.6,36.0,clear
+277,Mustard,Kekri,2016-09-28,4180.0,17.3,36.0,clear
+278,Mustard,Madanganj Kishanganj,2016-09-28,4050.0,0.2,36.0,clear
+279,Mustard,Beawar,2016-10-18,4400.0,1.6,34.0,clear
+280,Mustard,Kekri,2016-10-18,4050.0,11.1,34.0,clear
+281,Mustard,Beawar,2016-10-24,4300.0,2.2,32.4,clear
+282,Mustard,Kekri,2016-10-24,4230.0,13.0,32.4,clear
+283,Mustard,Madanganj Kishanganj,2016-10-24,2925.0,0.4,32.4,clear
+284,Mustard,Beawar,2016-10-26,4100.0,0.2,33.2,clear
+285,Mustard,Beawar,2016-10-28,4100.0,2.0,33.2,clear
+286,Mustard,Beawar,2016-04-11,7500.0,0.1,35.0,clear
+287,Mustard,Beawar,2016-07-11,4300.0,0.8,32.8,clear
+288,Mustard,Kekri,2016-07-11,4150.0,29.7,32.8,clear
+289,Mustard,Vijay Nagar(Gulabpura),2016-07-11,3900.0,16.0,32.8,clear
+290,Mustard,Beawar,2016-11-17,4300.0,13.8,28.4,clear
+291,Mustard,Beawar,2016-11-20,4250.0,4.2,31.2,clear
+292,Mustard,Beawar,2016-11-22,13500.0,0.8,30.6,clear
+293,Mustard,Beawar,2016-11-24,4200.0,2.2,29.2,clear
+294,Mustard,Beawar,2016-05-12,4050.0,20.3,41.6,clear
+295,Mustard,Beawar,2016-06-12,4150.0,4.0,37.0,clear
+296,Mustard,Kekri,2016-06-12,4700.0,16.4,37.0,clear
+297,Mustard,Beawar,2016-07-12,3250.0,3.1,30.4,clear
+298,Mustard,Kekri,2016-07-12,4712.0,24.3,30.4,clear
+299,Mustard,Beawar,2016-08-12,3900.0,12.0,29.8,clear
+300,Mustard,Kekri,2016-08-12,4300.0,26.8,29.8,clear
+301,Mustard,Beawar,2016-09-12,3950.0,26.1,32.6,clear
+302,Mustard,Kekri,2016-09-12,4400.0,25.0,32.6,clear
+303,Mustard,Beawar,2016-12-20,4100.0,3.0,25.8,clear
+304,Mustard,Beawar,2016-12-21,4100.0,4.5,27.6,clear
+305,Mustard,Kekri,2016-12-21,3900.0,70.4,27.6,clear
+306,Mustard,Beawar,2016-12-22,3850.0,0.2,29.8,clear
+307,Mustard,Kekri,2016-12-22,3960.0,4.1,29.8,clear
+308,Mustard,Beawar,2016-12-27,3900.0,2.7,25.6,clear
+309,Mustard,Beawar,2016-12-29,3750.0,8.4,28.8,clear
+310,Mustard,Bijay Nagar,2016-06-01,4050.0,0.2,40.4,clear
+311,Mustard,Bijay Nagar,2016-06-02,3370.0,2.0,40.4,clear
+312,Mustard,Kekri,2016-06-02,4100.0,1.0,40.4,clear
+313,Mustard,Bijay Nagar,2016-11-02,3300.0,2.0,30.4,clear
+314,Mustard,Kekri,2016-11-02,3960.0,2.0,30.4,clear
+315,Mustard,Bijay Nagar,2016-02-16,3600.0,0.3,24.0,clear
+316,Mustard,Kekri,2016-02-16,4000.0,11.5,24.0,clear
+317,Mustard,Bijay Nagar,2016-02-20,3800.0,9.6,26.8,clear
+318,Mustard,Kekri,2016-02-20,3900.0,23.9,26.8,clear
+319,Mustard,Vijay Nagar(Gulabpura),2016-02-20,3000.0,0.8,26.8,clear
+320,Mustard,Bijay Nagar,2016-04-03,3300.0,105.0,36.6,clear
+321,Mustard,Madanganj Kishanganj,2016-04-03,3600.0,1.4,36.6,clear
+322,Mustard,Vijay Nagar(Gulabpura),2016-04-03,3500.0,10.7,36.6,clear
+323,Mustard,Bijay Nagar,2016-05-03,3400.0,34.0,39.0,clear
+324,Mustard,Madanganj Kishanganj,2016-05-03,3650.0,0.2,39.0,clear
+325,Mustard,Vijay Nagar(Gulabpura),2016-05-03,3500.0,7.1,39.0,clear
+326,Mustard,Bijay Nagar,2016-07-03,3400.0,95.0,29.8,clear
+327,Mustard,Madanganj Kishanganj,2016-07-03,3600.0,5.7,29.8,clear
+328,Mustard,Vijay Nagar(Gulabpura),2016-07-03,3400.0,9.4,29.8,clear
+329,Mustard,Bijay Nagar,2016-12-03,3400.0,43.1,26.6,clear
+330,Mustard,Madanganj Kishanganj,2016-12-03,3665.0,7.1,26.6,clear
+331,Mustard,Vijay Nagar(Gulabpura),2016-12-03,3400.0,24.1,26.6,clear
+332,Mustard,Bijay Nagar,2016-03-15,3400.0,104.0,30.0,clear
+333,Mustard,Kekri,2016-03-15,3600.0,505.7,30.0,clear
+334,Mustard,Madanganj Kishanganj,2016-03-15,3675.0,22.8,30.0,clear
+335,Mustard,Vijay Nagar(Gulabpura),2016-03-15,3500.0,10.1,30.0,clear
+336,Mustard,Bijay Nagar,2016-03-17,3400.0,32.0,31.4,clear
+337,Mustard,Kekri,2016-03-17,3365.0,454.9,31.4,clear
+338,Mustard,Madanganj Kishanganj,2016-03-17,3580.0,8.6,31.4,clear
+339,Mustard,Bijay Nagar,2016-03-23,3250.0,17.0,35.0,clear
+340,Mustard,Bijay Nagar,2016-03-25,3300.0,0.8,37.4,clear
+341,Mustard,Kekri,2016-03-25,3500.0,99.1,37.4,clear
+342,Mustard,Vijay Nagar(Gulabpura),2016-03-25,3500.0,0.4,37.4,clear
+343,Mustard,Bijay Nagar,2016-03-26,3500.0,6.6,29.0,clear
+344,Mustard,Vijay Nagar(Gulabpura),2016-03-26,3300.0,0.9,29.0,clear
+345,Mustard,Bijay Nagar,2016-02-04,3600.0,4.5,23.8,clear
+346,Mustard,Kekri,2016-02-04,3600.0,85.0,23.8,clear
+347,Mustard,Madanganj Kishanganj,2016-02-04,3675.0,1.9,23.8,clear
+348,Mustard,Bijay Nagar,2016-04-04,3500.0,9.0,35.0,clear
+349,Mustard,Bijay Nagar,2016-07-04,3650.0,8.0,32.8,clear
+350,Mustard,Bijay Nagar,2016-08-04,3800.0,8.0,30.6,rain
+351,Mustard,Bijay Nagar,2016-09-04,3800.0,5.6,29.4,clear
+352,Mustard,Bijay Nagar,2016-04-29,3840.0,3.3,40.6,clear
+353,Mustard,Kekri,2016-04-29,4000.0,20.0,40.6,clear
+354,Mustard,Madanganj Kishanganj,2016-04-29,3995.0,11.0,40.6,clear
+355,Mustard,Bijay Nagar,2016-04-30,3820.0,1.2,41.8,clear
+356,Mustard,Kekri,2016-04-30,4015.0,45.0,41.8,clear
+357,Mustard,Madanganj Kishanganj,2016-04-30,4000.0,4.1,41.8,clear
+358,Mustard,Bijay Nagar,2016-02-05,3800.0,3.5,23.2,clear
+359,Mustard,Kekri,2016-02-05,4050.0,70.5,23.2,clear
+360,Mustard,Madanganj Kishanganj,2016-02-05,3950.0,3.1,23.2,clear
+361,Mustard,Bijay Nagar,2016-03-05,3800.0,1.4,30.2,clear
+362,Mustard,Kekri,2016-03-05,4025.0,50.4,30.2,clear
+363,Mustard,Madanganj Kishanganj,2016-03-05,3950.0,1.3,30.2,clear
+364,Mustard,Bijay Nagar,2016-04-05,3700.0,2.8,36.4,clear
+365,Mustard,Kekri,2016-04-05,4015.0,73.4,36.4,clear
+366,Mustard,Madanganj Kishanganj,2016-04-05,3950.0,0.4,36.4,clear
+367,Mustard,Bijay Nagar,2016-05-05,3750.0,8.6,36.4,clear
+368,Mustard,Kekri,2016-05-05,4100.0,51.3,36.4,clear
+369,Mustard,Madanganj Kishanganj,2016-05-05,3950.0,0.1,36.4,clear
+370,Mustard,Bijay Nagar,2016-06-05,3750.0,1.5,44.2,clear
+371,Mustard,Kekri,2016-06-05,3890.0,35.6,44.2,clear
+372,Mustard,Madanganj Kishanganj,2016-06-05,3950.0,0.1,44.2,clear
+373,Mustard,Bijay Nagar,2016-07-05,3750.0,2.0,35.4,clear
+374,Mustard,Kekri,2016-07-05,3970.0,54.7,35.4,clear
+375,Mustard,Madanganj Kishanganj,2016-07-05,3950.0,1.5,35.4,clear
+376,Mustard,Vijay Nagar(Gulabpura),2016-07-05,3900.0,0.4,35.4,clear
+377,Mustard,Bijay Nagar,2016-11-05,3800.0,2.8,31.8,clear
+378,Mustard,Kekri,2016-11-05,3980.0,40.9,31.8,clear
+379,Mustard,Vijay Nagar(Gulabpura),2016-11-05,3800.0,0.2,31.8,clear
+380,Mustard,Bijay Nagar,2016-05-13,3750.0,4.1,41.8,clear
+381,Mustard,Kekri,2016-05-13,4075.0,29.1,41.8,clear
+382,Mustard,Madanganj Kishanganj,2016-05-13,3950.0,1.8,41.8,clear
+383,Mustard,Bijay Nagar,2016-05-16,3780.0,1.1,40.6,rain
+384,Mustard,Kekri,2016-05-16,4000.0,47.8,40.6,rain
+385,Mustard,Madanganj Kishanganj,2016-05-16,3950.0,2.5,40.6,rain
+386,Mustard,Bijay Nagar,2016-05-17,3700.0,3.1,43.4,clear
+387,Mustard,Kekri,2016-05-17,3960.0,56.0,43.4,clear
+388,Mustard,Madanganj Kishanganj,2016-05-17,3950.0,1.1,43.4,clear
+389,Mustard,Bijay Nagar,2016-05-19,3700.0,0.8,45.4,clear
+390,Mustard,Kekri,2016-05-19,3950.0,31.5,45.4,clear
+391,Mustard,Bijay Nagar,2016-05-24,3700.0,0.8,38.2,clear
+392,Mustard,Kekri,2016-05-24,3900.0,30.0,38.2,clear
+393,Mustard,Bijay Nagar,2016-05-27,3750.0,3.0,39.0,clear
+394,Mustard,Kekri,2016-05-27,4012.0,44.8,39.0,clear
+395,Mustard,Madanganj Kishanganj,2016-05-27,3850.0,5.1,39.0,clear
+396,Mustard,Vijay Nagar(Gulabpura),2016-05-27,3800.0,1.0,39.0,clear
+397,Mustard,Bijay Nagar,2016-03-06,3800.0,1.5,29.8,clear
+398,Mustard,Bijay Nagar,2016-04-06,3800.0,1.4,33.0,clear
+399,Mustard,Kekri,2016-04-06,3950.0,9.3,33.0,clear
+400,Mustard,Madanganj Kishanganj,2016-04-06,3750.0,0.1,33.0,clear
+401,Mustard,Bijay Nagar,2016-10-06,3900.0,1.3,30.0,clear
+402,Mustard,Bijay Nagar,2016-11-06,3900.0,3.8,32.4,clear
+403,Mustard,Kekri,2016-11-06,4065.0,20.1,32.4,clear
+404,Mustard,Vijay Nagar(Gulabpura),2016-11-06,3800.0,1.0,32.4,clear
+405,Mustard,Bijay Nagar,2016-06-18,4000.0,2.9,40.8,clear
+406,Mustard,Kekri,2016-06-18,3950.0,22.2,40.8,clear
+407,Mustard,Vijay Nagar(Gulabpura),2016-06-18,4100.0,2.5,40.8,clear
+408,Mustard,Bijay Nagar,2016-06-20,4050.0,1.7,40.2,clear
+409,Mustard,Kekri,2016-06-20,4080.0,22.0,40.2,clear
+410,Mustard,Madanganj Kishanganj,2016-06-20,4050.0,1.9,40.2,clear
+411,Mustard,Vijay Nagar(Gulabpura),2016-06-20,4130.0,5.5,40.2,clear
+412,Mustard,Bijay Nagar,2016-06-21,4041.0,0.3,37.8,rain
+413,Mustard,Kekri,2016-06-21,4080.0,31.8,37.8,rain
+414,Mustard,Vijay Nagar(Gulabpura),2016-06-21,4100.0,5.5,37.8,rain
+415,Mustard,Bijay Nagar,2016-06-22,4124.0,2.5,36.6,clear
+416,Mustard,Kekri,2016-06-22,4050.0,36.1,36.6,clear
+417,Mustard,Vijay Nagar(Gulabpura),2016-06-22,4100.0,9.6,36.6,clear
+418,Mustard,Bijay Nagar,2016-06-23,4120.0,1.2,38.2,rain
+419,Mustard,Kekri,2016-06-23,3975.0,31.6,38.2,rain
+420,Mustard,Madanganj Kishanganj,2016-06-23,4025.0,0.2,38.2,rain
+421,Mustard,Vijay Nagar(Gulabpura),2016-06-23,4150.0,3.1,38.2,rain
+422,Mustard,Bijay Nagar,2016-06-24,4100.0,1.5,36.8,clear
+423,Mustard,Bijay Nagar,2016-06-25,4050.0,3.8,37.0,rain
+424,Mustard,Kekri,2016-06-25,3950.0,15.5,37.0,rain
+425,Mustard,Bijay Nagar,2016-11-07,4250.0,1.7,31.0,clear
+426,Mustard,Kekri,2016-11-07,4120.0,8.7,31.0,clear
+427,Mustard,Bijay Nagar,2016-07-15,4320.0,0.7,27.6,clear
+428,Mustard,Madanganj Kishanganj,2016-07-15,4075.0,0.2,27.6,clear
+429,Mustard,Vijay Nagar(Gulabpura),2016-07-15,4300.0,0.2,27.6,clear
+430,Mustard,Bijay Nagar,2016-07-16,4351.0,0.3,27.6,clear
+431,Mustard,Kekri,2016-07-16,4125.0,8.4,27.6,clear
+432,Mustard,Bijay Nagar,2016-07-19,4430.0,1.5,33.4,clear
+433,Mustard,Kekri,2016-07-19,4012.0,3.5,33.4,clear
+434,Mustard,Madanganj Kishanganj,2016-07-19,3950.0,0.1,33.4,clear
+435,Mustard,Vijay Nagar(Gulabpura),2016-07-19,4400.0,2.0,33.4,clear
+436,Mustard,Bijay Nagar,2016-07-23,4371.0,5.3,35.4,clear
+437,Mustard,Vijay Nagar(Gulabpura),2016-07-23,4400.0,3.0,35.4,clear
+438,Mustard,Bijay Nagar,2016-07-27,4383.0,0.5,28.4,clear
+439,Mustard,Kekri,2016-07-27,4120.0,7.0,28.4,clear
+440,Mustard,Bijay Nagar,2016-08-13,4400.0,1.2,30.2,clear
+441,Mustard,Bijay Nagar,2016-08-16,4370.0,0.4,30.8,clear
+442,Mustard,Kekri,2016-08-16,4100.0,4.8,30.8,clear
+443,Mustard,Bijay Nagar,2016-05-09,3925.0,0.1,42.0,clear
+444,Mustard,Kekri,2016-05-09,4100.0,4.0,42.0,clear
+445,Mustard,Bijay Nagar,2016-07-09,4000.0,0.8,37.0,rain
+446,Mustard,Kekri,2016-07-09,4200.0,6.8,37.0,rain
+447,Mustard,Bijay Nagar,2016-08-09,4040.0,1.3,29.0,clear
+448,Mustard,Kekri,2016-08-09,4030.0,2.6,29.0,clear
+449,Mustard,Bijay Nagar,2016-09-09,3953.0,0.9,30.4,clear
+450,Mustard,Kekri,2016-09-09,4250.0,8.0,30.4,clear
+451,Mustard,Bijay Nagar,2016-10-09,4000.0,0.7,34.0,clear
+452,Mustard,Bijay Nagar,2016-09-16,4000.0,0.6,35.0,clear
+453,Mustard,Kekri,2016-09-16,4200.0,9.5,35.0,clear
+454,Mustard,Bijay Nagar,2016-05-10,3750.0,0.3,42.2,clear
+455,Mustard,Kekri,2016-05-10,4200.0,7.8,42.2,clear
+456,Mustard,Bijay Nagar,2016-10-20,3825.0,1.0,33.2,clear
+457,Mustard,Kekri,2016-10-20,4320.0,7.7,33.2,clear
+458,Mustard,Bijay Nagar,2016-11-28,3636.0,1.0,28.0,clear
+459,Mustard,Bijay Nagar,2016-10-12,3850.0,3.5,32.4,clear
+460,Mustard,Kekri,2016-02-01,4350.0,2.8,24.4,clear
+461,Mustard,Kekri,2016-09-01,4280.0,3.0,28.8,clear
+462,Mustard,Kekri,2016-01-18,4100.0,2.6,19.6,clear
+463,Mustard,Kekri,2016-01-20,4350.0,2.5,21.4,clear
+464,Mustard,Kekri,2016-01-23,4425.0,6.4,24.6,clear
+465,Mustard,Kekri,2016-02-02,4200.0,3.0,24.4,clear
+466,Mustard,Vijay Nagar(Gulabpura),2016-02-02,2760.0,2.0,24.4,clear
+467,Mustard,Kekri,2016-03-02,4100.0,3.6,34.4,rain
+468,Mustard,Kekri,2016-04-02,4250.0,3.0,38.8,clear
+469,Mustard,Kekri,2016-05-02,4050.0,1.4,38.4,clear
+470,Mustard,Kekri,2016-08-02,4100.0,2.0,28.4,clear
+471,Mustard,Vijay Nagar(Gulabpura),2016-08-02,2800.0,2.0,28.4,clear
+472,Mustard,Kekri,2016-09-02,4012.0,3.0,30.4,clear
+473,Mustard,Kekri,2016-10-02,4012.0,2.5,33.0,clear
+474,Mustard,Madanganj Kishanganj,2016-10-02,3900.0,0.1,33.0,clear
+475,Mustard,Kekri,2016-02-13,4100.0,10.0,24.6,clear
+476,Mustard,Kekri,2016-03-18,3500.0,,32.8,clear
+477,Mustard,Madanganj Kishanganj,2016-03-18,3660.0,5.0,32.8,clear
+478,Mustard,Kekri,2016-03-19,3500.0,479.4,33.2,clear
+479,Mustard,Madanganj Kishanganj,2016-03-19,3600.0,14.8,33.2,clear
+480,Mustard,Kekri,2016-04-23,3960.0,60.5,36.6,clear
+481,Mustard,Madanganj Kishanganj,2016-04-23,4122.0,11.2,36.6,clear
+482,Mustard,Vijay Nagar(Gulabpura),2016-04-23,3900.0,2.4,36.6,clear
+483,Mustard,Kekri,2016-10-05,3890.0,22.7,25.0,clear
+484,Mustard,Kekri,2016-05-20,3975.0,20.6,45.0,clear
+485,Mustard,Kekri,2016-05-22,4050.0,11.0,41.2,clear
+486,Mustard,Kekri,2016-02-06,3900.0,40.4,25.6,clear
+487,Mustard,Madanganj Kishanganj,2016-02-06,3825.0,0.3,25.6,clear
+488,Mustard,Vijay Nagar(Gulabpura),2016-02-06,3700.0,0.5,25.6,clear
+489,Mustard,Kekri,2016-05-06,3925.0,17.5,35.4,clear
+490,Mustard,Kekri,2016-06-06,3925.0,17.5,44.6,clear
+491,Mustard,Madanganj Kishanganj,2016-06-06,3850.0,2.5,44.6,clear
+492,Mustard,Kekri,2016-12-06,3900.0,13.7,29.0,clear
+493,Mustard,Kekri,2016-06-17,4012.0,11.8,40.6,clear
+494,Mustard,Madanganj Kishanganj,2016-06-17,3905.0,0.0,40.6,clear
+495,Mustard,Vijay Nagar(Gulabpura),2016-06-17,4100.0,22.0,40.6,clear
+496,Mustard,Kekri,2016-06-19,4080.0,22.0,40.0,clear
+497,Mustard,Kekri,2016-06-29,4050.0,23.2,34.4,clear
+498,Mustard,Madanganj Kishanganj,2016-06-29,4050.0,0.7,34.4,clear
+499,Mustard,Kekri,2016-02-07,4050.0,19.7,25.0,clear
+500,Mustard,Kekri,2016-03-07,4080.0,31.6,29.2,clear
+501,Mustard,Kekri,2016-04-07,4080.0,15.5,33.8,clear
+502,Mustard,Kekri,2016-05-07,4080.0,21.5,38.0,clear
+503,Mustard,Kekri,2016-07-07,4050.0,2.7,36.4,clear
+504,Mustard,Kekri,2016-08-07,4012.0,1.4,30.2,clear
+505,Mustard,Kekri,2016-09-07,4080.0,5.5,30.2,clear
+506,Mustard,Kekri,2016-10-07,4120.0,8.7,32.2,clear
+507,Mustard,Kekri,2016-12-07,4100.0,9.5,29.0,clear
+508,Mustard,Madanganj Kishanganj,2016-12-07,4200.0,0.2,29.0,clear
+509,Mustard,Kekri,2016-07-13,4100.0,2.8,29.6,clear
+510,Mustard,Kekri,2016-07-14,3950.0,4.0,31.6,clear
+511,Mustard,Kekri,2016-07-20,4100.0,3.0,34.0,clear
+512,Mustard,Madanganj Kishanganj,2016-07-20,4250.0,12.6,34.0,clear
+513,Mustard,Kekri,2016-07-21,4100.0,7.5,34.2,clear
+514,Mustard,Vijay Nagar(Gulabpura),2016-07-21,4400.0,0.2,34.2,clear
+515,Mustard,Kekri,2016-07-22,4100.0,16.2,33.8,clear
+516,Mustard,Madanganj Kishanganj,2016-07-22,4175.0,0.6,33.8,clear
+517,Mustard,Kekri,2016-07-26,4100.0,7.5,35.0,clear
+518,Mustard,Kekri,2016-07-29,4012.0,4.0,28.0,rain
+519,Mustard,Kekri,2016-07-30,4080.0,2.0,28.2,clear
+520,Mustard,Kekri,2016-07-31,4080.0,2.0,32.2,clear
+521,Mustard,Kekri,2016-04-08,4010.0,5.0,34.8,clear
+522,Mustard,Kekri,2016-06-08,4150.0,3.2,43.2,clear
+523,Mustard,Kekri,2016-09-08,4025.0,2.3,30.4,clear
+524,Mustard,Kekri,2016-10-08,4085.0,2.8,34.2,clear
+525,Mustard,Vijay Nagar(Gulabpura),2016-10-08,4400.0,3.0,34.2,clear
+526,Mustard,Kekri,2016-11-08,4100.0,3.6,31.4,clear
+527,Mustard,Kekri,2016-12-08,4015.0,3.0,30.6,clear
+528,Mustard,Vijay Nagar(Gulabpura),2016-12-08,4400.0,3.0,30.6,clear
+529,Mustard,Kekri,2016-08-17,4280.0,8.5,30.8,clear
+530,Mustard,Kekri,2016-08-19,4315.0,6.0,31.2,rain
+531,Mustard,Kekri,2016-08-22,4250.0,7.0,27.2,clear
+532,Mustard,Kekri,2016-08-24,4080.0,3.5,29.0,rain
+533,Mustard,Vijay Nagar(Gulabpura),2016-08-24,4325.0,3.7,29.0,rain
+534,Mustard,Kekri,2016-08-26,4200.0,1.5,31.4,clear
+535,Mustard,Kekri,2016-08-29,4150.0,3.0,31.6,clear
+536,Mustard,Kekri,2016-08-30,4080.0,2.0,28.4,clear
+537,Mustard,Kekri,2016-08-31,4080.0,3.0,32.0,clear
+538,Mustard,Kekri,2016-01-09,4200.0,6.0,25.0,clear
+539,Mustard,Vijay Nagar(Gulabpura),2016-01-09,4200.0,0.1,25.0,clear
+540,Mustard,Kekri,2016-06-09,4100.0,2.0,41.8,clear
+541,Mustard,Kekri,2016-09-13,4165.0,7.1,32.6,clear
+542,Mustard,Kekri,2016-09-15,4150.0,7.5,34.0,clear
+543,Mustard,Kekri,2016-09-19,4012.0,9.5,36.0,clear
+544,Mustard,Kekri,2016-09-21,4150.0,17.1,36.4,clear
+545,Mustard,Kekri,2016-09-26,4250.0,10.6,36.2,clear
+546,Mustard,Kekri,2016-09-27,4250.0,1.3,36.0,clear
+547,Mustard,Kekri,2016-09-29,4200.0,18.5,36.2,clear
+548,Mustard,Kekri,2016-09-30,4200.0,9.0,34.4,clear
+549,Mustard,Kekri,2016-03-10,4200.0,5.4,33.2,clear
+550,Mustard,Kekri,2016-06-10,4100.0,7.5,39.6,clear
+551,Mustard,Kekri,2016-07-10,4200.0,1.7,35.6,rain
+552,Mustard,Kekri,2016-10-10,4150.0,12.5,32.4,clear
+553,Mustard,Kekri,2016-10-13,4012.0,6.0,32.6,clear
+554,Mustard,Kekri,2016-10-14,4215.0,1.8,33.4,clear
+555,Mustard,Kekri,2016-10-17,4210.0,7.2,33.6,clear
+556,Mustard,Kekri,2016-10-19,4010.0,8.2,33.4,clear
+557,Mustard,Kekri,2016-10-21,4150.0,2.5,32.8,clear
+558,Mustard,Kekri,2016-10-25,4100.0,8.8,32.0,clear
+559,Mustard,Kekri,2016-02-11,4250.0,4.0,25.0,clear
+560,Mustard,Kekri,2016-03-11,4250.0,10.0,33.2,clear
+561,Mustard,Kekri,2016-01-12,4570.0,4.7,25.4,clear
+562,Mustard,Kekri,2016-02-12,4250.0,4.0,26.8,clear
+563,Mustard,Kekri,2016-12-13,3900.0,64.5,27.0,clear
+564,Mustard,Kekri,2016-12-14,4012.0,20.0,26.6,clear
+565,Mustard,Kekri,2016-12-15,3920.0,7.2,26.2,clear
+566,Mustard,Kekri,2016-12-16,3900.0,32.2,26.4,clear
+567,Mustard,Kekri,2016-12-17,4050.0,11.0,27.2,clear
+568,Mustard,Kekri,2016-12-19,3950.0,23.2,26.4,clear
+569,Mustard,Kekri,2016-12-23,4012.0,11.2,30.2,clear
+570,Mustard,Kekri,2016-12-24,4000.0,15.8,28.4,clear
+571,Mustard,Kekri,2016-12-26,4150.0,29.3,22.8,clear
+572,Mustard,Kekri,2016-12-28,4250.0,15.2,29.0,clear
+573,Mustard,Kekri,2016-12-30,4080.0,14.7,29.8,clear
+574,Mustard,Kekri,2016-12-31,3750.0,5.7,26.2,clear
+575,Mustard,Madanganj Kishanganj,2016-07-06,3775.0,0.1,35.4,clear
+576,Mustard,Madanganj Kishanganj,2016-06-16,3905.0,1.7,39.4,clear
+577,Mustard,Vijay Nagar(Gulabpura),2016-06-16,4000.0,1.5,39.4,clear
+578,Mustard,Madanganj Kishanganj,2016-07-25,4216.0,2.2,34.2,clear
+579,Mustard,Madanganj Kishanganj,2016-05-08,4150.0,0.1,40.6,clear
+580,Mustard,Vijay Nagar(Gulabpura),2016-02-27,3500.0,2.0,30.4,clear
+581,Mustard,Vijay Nagar(Gulabpura),2016-04-19,4000.0,2.5,38.2,clear
+582,Mustard,Vijay Nagar(Gulabpura),2016-08-20,4200.0,3.0,31.8,clear
+583,Mustard,Beawar,2017-01-01,3950.0,7.9,24.0,clear
+584,Mustard,Beawar,2017-03-01,3850.0,0.6,31.2,clear
+585,Mustard,Kekri,2017-03-01,3700.0,21.1,31.2,clear
+586,Mustard,Beawar,2017-04-01,3875.0,0.4,38.8,clear
+587,Mustard,Bijay Nagar,2017-04-01,3600.0,0.4,38.8,clear
+588,Mustard,Kekri,2017-04-01,3820.0,20.9,38.8,clear
+589,Mustard,Beawar,2017-06-01,3900.0,2.9,34.6,clear
+590,Mustard,Bijay Nagar,2017-06-01,3125.0,0.2,34.6,clear
+591,Mustard,Kekri,2017-06-01,3925.0,24.9,34.6,clear
+592,Mustard,Beawar,2017-12-01,3750.0,6.1,26.2,clear
+593,Mustard,Beawar,2017-04-02,3800.0,3.2,38.8,clear
+594,Mustard,Beawar,2017-05-02,3300.0,1.7,40.0,clear
+595,Mustard,Beawar,2017-07-02,3700.0,3.0,31.8,clear
+596,Mustard,Bijay Nagar,2017-07-02,2800.0,3.0,31.8,clear
+597,Mustard,Kekri,2017-07-02,3650.0,40.1,31.8,clear
+598,Mustard,Beawar,2017-08-02,4100.0,2.2,29.4,clear
+599,Mustard,Bijay Nagar,2017-08-02,2850.0,5.0,29.4,clear
+600,Mustard,Kekri,2017-08-02,3350.0,37.5,29.4,clear
+601,Mustard,Beawar,2017-10-02,3650.0,6.2,36.6,clear
+602,Mustard,Bijay Nagar,2017-10-02,3100.0,2.0,36.6,clear
+603,Mustard,Kekri,2017-10-02,3400.0,21.4,36.6,clear
+604,Mustard,Vijay Nagar(Gulabpura),2017-10-02,3000.0,2.6,36.6,clear
+605,Mustard,Beawar,2017-12-02,3600.0,3.0,24.2,clear
+606,Mustard,Beawar,2017-02-13,3600.0,6.7,25.4,clear
+607,Mustard,Bijay Nagar,2017-02-13,3000.0,8.8,25.4,clear
+608,Mustard,Kekri,2017-02-13,3340.0,324.0,25.4,clear
+609,Mustard,Vijay Nagar(Gulabpura),2017-02-13,3000.0,2.7,25.4,clear
+610,Mustard,Beawar,2017-02-14,3500.0,11.2,26.2,clear
+611,Mustard,Bijay Nagar,2017-02-14,3100.0,21.7,26.2,clear
+612,Mustard,Kekri,2017-02-14,3356.0,20.0,26.2,clear
+613,Mustard,Beawar,2017-02-03,3000.0,75.6,26.0,clear
+614,Mustard,Bijay Nagar,2017-02-03,3200.0,80.0,26.0,clear
+615,Mustard,Kekri,2017-02-03,3412.0,588.3,26.0,clear
+616,Mustard,Madanganj Kishanganj,2017-02-03,3175.0,21.9,26.0,clear
+617,Mustard,Vijay Nagar(Gulabpura),2017-02-03,3200.0,41.7,26.0,clear
+618,Mustard,Beawar,2017-03-03,3125.0,62.0,27.2,clear
+619,Mustard,Bijay Nagar,2017-03-03,3200.0,120.0,27.2,clear
+620,Mustard,Kekri,2017-03-03,3350.0,,27.2,clear
+621,Mustard,Madanganj Kishanganj,2017-03-03,3225.0,27.6,27.2,clear
+622,Mustard,Vijay Nagar(Gulabpura),2017-03-03,3200.0,41.0,27.2,clear
+623,Mustard,Beawar,2017-08-03,3100.0,61.1,29.0,clear
+624,Mustard,Bijay Nagar,2017-08-03,3150.0,100.0,29.0,clear
+625,Mustard,Kekri,2017-08-03,3360.0,,29.0,clear
+626,Mustard,Madanganj Kishanganj,2017-08-03,3200.0,26.1,29.0,clear
+627,Mustard,Vijay Nagar(Gulabpura),2017-08-03,3100.0,9.0,29.0,clear
+628,Mustard,Beawar,2017-09-03,3100.0,55.5,29.4,clear
+629,Mustard,Bijay Nagar,2017-09-03,3100.0,114.0,29.4,clear
+630,Mustard,Madanganj Kishanganj,2017-09-03,3195.0,24.9,29.4,clear
+631,Mustard,Vijay Nagar(Gulabpura),2017-09-03,3200.0,16.4,29.4,clear
+632,Mustard,Beawar,2017-10-03,3100.0,82.5,37.4,clear
+633,Mustard,Bijay Nagar,2017-10-03,3200.0,100.0,37.4,clear
+634,Mustard,Madanganj Kishanganj,2017-10-03,3150.0,27.7,37.4,clear
+635,Mustard,Vijay Nagar(Gulabpura),2017-10-03,3100.0,16.2,37.4,clear
+636,Mustard,Beawar,2017-11-03,3100.0,52.2,32.0,clear
+637,Mustard,Bijay Nagar,2017-11-03,3100.0,60.0,32.0,clear
+638,Mustard,Kekri,2017-11-03,3365.0,,32.0,clear
+639,Mustard,Madanganj Kishanganj,2017-11-03,3150.0,19.7,32.0,clear
+640,Mustard,Vijay Nagar(Gulabpura),2017-11-03,3100.0,4.5,32.0,clear
+641,Mustard,Beawar,2017-12-03,3100.0,43.6,25.8,clear
+642,Mustard,Beawar,2017-03-13,3100.0,10.9,27.6,clear
+643,Mustard,Bijay Nagar,2017-03-13,3100.0,0.0,27.6,clear
+644,Mustard,Kekri,2017-03-13,3360.0,442.5,27.6,clear
+645,Mustard,Beawar,2017-03-15,3100.0,28.0,31.2,clear
+646,Mustard,Bijay Nagar,2017-03-15,3100.0,67.8,31.2,clear
+647,Mustard,Kekri,2017-03-15,3350.0,,31.2,clear
+648,Mustard,Madanganj Kishanganj,2017-03-15,3150.0,15.6,31.2,clear
+649,Mustard,Vijay Nagar(Gulabpura),2017-03-15,3100.0,6.7,31.2,clear
+650,Mustard,Beawar,2017-03-21,3150.0,48.8,32.6,clear
+651,Mustard,Bijay Nagar,2017-03-21,3200.0,50.0,32.6,clear
+652,Mustard,Kekri,2017-03-21,3400.0,,32.6,clear
+653,Mustard,Madanganj Kishanganj,2017-03-21,3325.0,22.4,32.6,clear
+654,Mustard,Vijay Nagar(Gulabpura),2017-03-21,3200.0,2.2,32.6,clear
+655,Mustard,Beawar,2017-03-22,3150.0,22.0,36.0,clear
+656,Mustard,Bijay Nagar,2017-03-22,3200.0,30.0,36.0,clear
+657,Mustard,Kekri,2017-03-22,3450.0,625.0,36.0,clear
+658,Mustard,Madanganj Kishanganj,2017-03-22,3405.0,12.5,36.0,clear
+659,Mustard,Vijay Nagar(Gulabpura),2017-03-22,3200.0,7.8,36.0,clear
+660,Mustard,Beawar,2017-03-24,3250.0,10.7,35.4,clear
+661,Mustard,Bijay Nagar,2017-03-24,3400.0,80.0,35.4,clear
+662,Mustard,Kekri,2017-03-24,3450.0,325.6,35.4,clear
+663,Mustard,Madanganj Kishanganj,2017-03-24,3415.0,20.3,35.4,clear
+664,Mustard,Vijay Nagar(Gulabpura),2017-03-24,3250.0,4.4,35.4,clear
+665,Mustard,Beawar,2017-03-27,3300.0,81.7,39.0,clear
+666,Mustard,Bijay Nagar,2017-03-27,3300.0,80.0,39.0,clear
+667,Mustard,Vijay Nagar(Gulabpura),2017-03-27,3200.0,1.6,39.0,clear
+668,Mustard,Beawar,2017-03-28,3250.0,39.1,40.0,clear
+669,Mustard,Bijay Nagar,2017-03-28,3300.0,20.0,40.0,clear
+670,Mustard,Beawar,2017-03-29,3300.0,12.7,39.4,clear
+671,Mustard,Bijay Nagar,2017-03-29,3200.0,21.0,39.4,clear
+672,Mustard,Beawar,2017-03-30,3300.0,11.3,38.2,clear
+673,Mustard,Beawar,2017-05-04,3400.0,104.8,39.4,clear
+674,Mustard,Kekri,2017-05-04,3500.0,135.0,39.4,clear
+675,Mustard,Madanganj Kishanganj,2017-05-04,3450.0,36.8,39.4,clear
+676,Mustard,Beawar,2017-06-04,3375.0,35.4,40.8,clear
+677,Mustard,Bijay Nagar,2017-06-04,3340.0,8.4,40.8,clear
+678,Mustard,Kekri,2017-06-04,3570.0,193.5,40.8,clear
+679,Mustard,Beawar,2017-07-04,3500.0,16.4,33.0,clear
+680,Mustard,Bijay Nagar,2017-07-04,3300.0,7.1,33.0,clear
+681,Mustard,Kekri,2017-07-04,3360.0,341.7,33.0,clear
+682,Mustard,Madanganj Kishanganj,2017-07-04,3450.0,71.1,33.0,clear
+683,Mustard,Vijay Nagar(Gulabpura),2017-07-04,3200.0,3.4,33.0,clear
+684,Mustard,Beawar,2017-11-07,2950.0,5.7,32.2,clear
+685,Mustard,Madanganj Kishanganj,2017-11-07,3140.0,0.5,32.2,clear
+686,Mustard,Beawar,2017-07-13,2950.0,2.4,31.6,clear
+687,Mustard,Bijay Nagar,2017-07-13,3000.0,2.4,31.6,clear
+688,Mustard,Kekri,2017-07-13,3180.0,12.8,31.6,clear
+689,Mustard,Madanganj Kishanganj,2017-07-13,3140.0,2.4,31.6,clear
+690,Mustard,Beawar,2017-07-14,3125.0,3.0,33.2,clear
+691,Mustard,Kekri,2017-07-14,3250.0,26.0,33.2,clear
+692,Mustard,Madanganj Kishanganj,2017-07-14,3150.0,0.4,33.2,clear
+693,Mustard,Beawar,2017-07-18,3050.0,2.1,33.4,clear
+694,Mustard,Kekri,2017-07-18,3360.0,6.0,33.4,clear
+695,Mustard,Madanganj Kishanganj,2017-07-18,3175.0,7.5,33.4,clear
+696,Mustard,Beawar,2017-07-26,3025.0,0.3,30.4,clear
+697,Mustard,Bijay Nagar,2017-07-26,3091.0,0.1,30.4,clear
+698,Mustard,Madanganj Kishanganj,2017-07-26,3150.0,0.7,30.4,clear
+699,Mustard,Beawar,2017-07-27,3400.0,1.4,31.6,clear
+700,Mustard,Madanganj Kishanganj,2017-07-27,3175.0,0.1,31.6,clear
+701,Mustard,Vijay Nagar(Gulabpura),2017-07-27,2950.0,1.5,31.6,clear
+702,Mustard,Beawar,2017-07-30,3050.0,4.5,25.6,clear
+703,Mustard,Beawar,2017-07-31,3050.0,3.2,27.4,clear
+704,Mustard,Kekri,2017-07-31,3320.0,7.0,27.4,clear
+705,Mustard,Beawar,2017-01-08,3025.0,11.5,20.6,clear
+706,Mustard,Bijay Nagar,2017-01-08,3190.0,0.4,20.6,clear
+707,Mustard,Kekri,2017-01-08,3350.0,8.0,20.6,clear
+708,Mustard,Madanganj Kishanganj,2017-01-08,3201.0,0.2,20.6,clear
+709,Mustard,Beawar,2017-02-08,3150.0,23.0,25.6,clear
+710,Mustard,Bijay Nagar,2017-02-08,3200.0,1.0,25.6,clear
+711,Mustard,Kekri,2017-02-08,3365.0,8.5,25.6,clear
+712,Mustard,Beawar,2017-03-08,3150.0,9.9,29.0,clear
+713,Mustard,Madanganj Kishanganj,2017-03-08,3165.0,0.1,29.0,clear
+714,Mustard,Vijay Nagar(Gulabpura),2017-03-08,3100.0,1.0,29.0,clear
+715,Mustard,Beawar,2017-04-08,3050.0,2.4,34.2,clear
+716,Mustard,Madanganj Kishanganj,2017-04-08,3200.0,0.1,34.2,clear
+717,Mustard,Beawar,2017-06-08,3250.0,4.0,36.2,clear
+718,Mustard,Beawar,2017-08-08,3250.0,0.6,27.4,clear
+719,Mustard,Kekri,2017-08-08,3450.0,5.1,27.4,clear
+720,Mustard,Madanganj Kishanganj,2017-08-08,3175.0,0.1,27.4,clear
+721,Mustard,Beawar,2017-12-08,3150.0,2.0,25.4,clear
+722,Mustard,Bijay Nagar,2017-12-08,3140.0,0.2,25.4,clear
+723,Mustard,Kekri,2017-12-08,3436.0,6.0,25.4,clear
+724,Mustard,Madanganj Kishanganj,2017-12-08,3200.0,1.3,25.4,clear
+725,Mustard,Beawar,2017-08-14,3150.0,3.0,29.8,clear
+726,Mustard,Bijay Nagar,2017-08-14,3251.0,0.5,29.8,clear
+727,Mustard,Kekri,2017-08-14,3350.0,4.5,29.8,clear
+728,Mustard,Madanganj Kishanganj,2017-08-14,3300.0,1.9,29.8,clear
+729,Mustard,Beawar,2017-08-15,3300.0,7.9,30.8,clear
+730,Mustard,Beawar,2017-08-18,3100.0,2.0,33.6,clear
+731,Mustard,Madanganj Kishanganj,2017-08-18,3200.0,0.1,33.6,clear
+732,Mustard,Beawar,2017-08-19,3300.0,3.8,35.6,clear
+733,Mustard,Bijay Nagar,2017-08-19,3200.0,0.5,35.6,clear
+734,Mustard,Kekri,2017-08-19,3240.0,32.0,35.6,clear
+735,Mustard,Madanganj Kishanganj,2017-08-19,3200.0,5.2,35.6,clear
+736,Mustard,Beawar,2017-08-22,3125.0,0.3,34.8,rain
+737,Mustard,Madanganj Kishanganj,2017-08-22,3270.0,1.6,34.8,rain
+738,Mustard,Beawar,2017-08-25,3325.0,1.5,28.0,clear
+739,Mustard,Bijay Nagar,2017-08-25,3315.0,0.9,28.0,clear
+740,Mustard,Madanganj Kishanganj,2017-08-25,3250.0,6.1,28.0,clear
+741,Mustard,Beawar,2017-08-26,3250.0,0.4,31.2,clear
+742,Mustard,Madanganj Kishanganj,2017-08-26,3250.0,0.1,31.2,clear
+743,Mustard,Beawar,2017-08-27,3250.0,11.7,33.4,clear
+744,Mustard,Beawar,2017-05-09,3375.0,2.8,40.6,clear
+745,Mustard,Kekri,2017-05-09,3360.0,23.0,40.6,clear
+746,Mustard,Madanganj Kishanganj,2017-05-09,3150.0,1.6,40.6,clear
+747,Mustard,Vijay Nagar(Gulabpura),2017-05-09,3150.0,3.2,40.6,clear
+748,Mustard,Beawar,2017-07-09,3375.0,5.8,35.2,clear
+749,Mustard,Bijay Nagar,2017-07-09,3250.0,0.6,35.2,clear
+750,Mustard,Kekri,2017-07-09,3325.0,47.0,35.2,clear
+751,Mustard,Madanganj Kishanganj,2017-07-09,3150.0,0.1,35.2,clear
+752,Mustard,Beawar,2017-09-09,3400.0,0.5,35.2,clear
+753,Mustard,Kekri,2017-09-09,3340.0,18.5,35.2,clear
+754,Mustard,Vijay Nagar(Gulabpura),2017-09-09,3200.0,11.0,35.2,clear
+755,Mustard,Beawar,2017-11-09,3400.0,0.6,31.0,clear
+756,Mustard,Madanganj Kishanganj,2017-11-09,3230.0,0.2,31.0,clear
+757,Mustard,Vijay Nagar(Gulabpura),2017-11-09,3200.0,2.0,31.0,clear
+758,Mustard,Beawar,2017-09-15,3400.0,0.5,34.0,clear
+759,Mustard,Bijay Nagar,2017-09-15,3251.0,0.3,34.0,clear
+760,Mustard,Kekri,2017-09-15,3360.0,23.6,34.0,clear
+761,Mustard,Vijay Nagar(Gulabpura),2017-09-15,3200.0,1.2,34.0,clear
+762,Mustard,Beawar,2017-09-16,3350.0,2.5,29.2,clear
+763,Mustard,Bijay Nagar,2017-09-16,3200.0,0.2,29.2,clear
+764,Mustard,Kekri,2017-09-16,3320.0,4.6,29.2,clear
+765,Mustard,Beawar,2017-09-27,3375.0,0.8,35.4,clear
+766,Mustard,Kekri,2017-09-27,3350.0,20.2,35.4,clear
+767,Mustard,Beawar,2017-02-10,3250.0,1.2,22.0,clear
+768,Mustard,Beawar,2017-08-10,3325.0,1.6,28.8,clear
+769,Mustard,Beawar,2017-12-10,3000.0,0.5,26.0,clear
+770,Mustard,Bijay Nagar,2017-12-10,3125.0,0.4,26.0,clear
+771,Mustard,Madanganj Kishanganj,2017-12-10,3170.0,0.4,26.0,clear
+772,Mustard,Beawar,2017-10-19,3050.0,0.5,35.4,clear
+773,Mustard,Beawar,2017-10-24,3325.0,2.0,33.8,clear
+774,Mustard,Kekri,2017-10-24,3350.0,25.0,33.8,clear
+775,Mustard,Madanganj Kishanganj,2017-10-24,3200.0,0.9,33.8,clear
+776,Mustard,Beawar,2017-10-25,3335.0,1.1,34.0,clear
+777,Mustard,Bijay Nagar,2017-10-25,3200.0,0.3,34.0,clear
+778,Mustard,Kekri,2017-10-25,3360.0,26.0,34.0,clear
+779,Mustard,Madanganj Kishanganj,2017-10-25,3150.0,3.5,34.0,clear
+780,Mustard,Beawar,2017-10-26,3335.0,1.0,34.4,clear
+781,Mustard,Bijay Nagar,2017-10-26,3200.0,1.0,34.4,clear
+782,Mustard,Kekri,2017-10-26,3420.0,34.0,34.4,clear
+783,Mustard,Madanganj Kishanganj,2017-10-26,3160.0,0.9,34.4,clear
+784,Mustard,Beawar,2017-10-27,3335.0,2.5,34.0,clear
+785,Mustard,Kekri,2017-10-27,3400.0,36.0,34.0,clear
+786,Mustard,Madanganj Kishanganj,2017-10-27,3175.0,0.1,34.0,clear
+787,Mustard,Beawar,2017-10-28,3175.0,1.0,34.0,clear
+788,Mustard,Madanganj Kishanganj,2017-10-28,3150.0,0.1,34.0,clear
+789,Mustard,Beawar,2017-10-29,3175.0,2.5,33.2,clear
+790,Mustard,Bijay Nagar,2017-02-01,3600.0,0.2,25.2,clear
+791,Mustard,Kekri,2017-02-01,3780.0,24.0,25.2,clear
+792,Mustard,Bijay Nagar,2017-10-01,3440.0,3.1,36.8,clear
+793,Mustard,Kekri,2017-10-01,3680.0,13.6,36.8,clear
+794,Mustard,Bijay Nagar,2017-01-18,3263.0,0.6,20.6,clear
+795,Mustard,Kekri,2017-01-18,3360.0,15.6,20.6,clear
+796,Mustard,Bijay Nagar,2017-01-24,3368.0,0.8,28.2,clear
+797,Mustard,Kekri,2017-01-24,3540.0,3.4,28.2,clear
+798,Mustard,Bijay Nagar,2017-01-26,2500.0,1.0,18.4,clear
+799,Mustard,Bijay Nagar,2017-01-30,2800.0,1.5,26.0,clear
+800,Mustard,Kekri,2017-01-30,3650.0,8.0,26.0,clear
+801,Mustard,Bijay Nagar,2017-01-31,2700.0,0.6,27.8,clear
+802,Mustard,Kekri,2017-01-31,3360.0,24.8,27.8,clear
+803,Mustard,Bijay Nagar,2017-02-02,2501.0,0.8,25.4,clear
+804,Mustard,Kekri,2017-02-02,3430.0,20.8,25.4,clear
+805,Mustard,Bijay Nagar,2017-06-02,2600.0,1.3,40.2,clear
+806,Mustard,Madanganj Kishanganj,2017-06-02,3450.0,0.4,40.2,clear
+807,Mustard,Vijay Nagar(Gulabpura),2017-06-02,2800.0,2.0,40.2,clear
+808,Mustard,Bijay Nagar,2017-09-02,3000.0,4.2,30.4,clear
+809,Mustard,Kekri,2017-09-02,3355.0,13.4,30.4,clear
+810,Mustard,Bijay Nagar,2017-11-02,3000.0,5.8,33.4,clear
+811,Mustard,Kekri,2017-11-02,3425.0,17.3,33.4,clear
+812,Mustard,Bijay Nagar,2017-02-15,3000.0,19.0,29.4,clear
+813,Mustard,Kekri,2017-02-15,3350.0,32.2,29.4,clear
+814,Mustard,Vijay Nagar(Gulabpura),2017-02-15,3000.0,2.6,29.4,clear
+815,Mustard,Bijay Nagar,2017-02-16,3100.0,26.7,28.0,clear
+816,Mustard,Kekri,2017-02-16,3365.0,24.1,28.0,clear
+817,Mustard,Vijay Nagar(Gulabpura),2017-02-16,3000.0,9.7,28.0,clear
+818,Mustard,Bijay Nagar,2017-02-17,3000.0,48.6,31.2,clear
+819,Mustard,Kekri,2017-02-17,3365.0,51.1,31.2,clear
+820,Mustard,Madanganj Kishanganj,2017-02-17,4050.0,2.6,31.2,clear
+821,Mustard,Vijay Nagar(Gulabpura),2017-02-17,3000.0,6.0,31.2,clear
+822,Mustard,Bijay Nagar,2017-02-18,3100.0,50.0,32.4,clear
+823,Mustard,Madanganj Kishanganj,2017-02-18,4200.0,1.4,32.4,clear
+824,Mustard,Vijay Nagar(Gulabpura),2017-02-18,3000.0,6.2,32.4,clear
+825,Mustard,Bijay Nagar,2017-02-20,3100.0,80.0,29.8,clear
+826,Mustard,Kekri,2017-02-20,3365.0,113.6,29.8,clear
+827,Mustard,Vijay Nagar(Gulabpura),2017-02-20,3000.0,6.3,29.8,clear
+828,Mustard,Bijay Nagar,2017-02-21,3000.0,84.0,27.4,clear
+829,Mustard,Kekri,2017-02-21,3360.0,78.1,27.4,clear
+830,Mustard,Madanganj Kishanganj,2017-02-21,3300.0,11.5,27.4,clear
+831,Mustard,Vijay Nagar(Gulabpura),2017-02-21,3000.0,5.9,27.4,clear
+832,Mustard,Bijay Nagar,2017-02-22,3100.0,69.2,28.6,clear
+833,Mustard,Kekri,2017-02-22,3370.0,139.8,28.6,clear
+834,Mustard,Madanganj Kishanganj,2017-02-22,3200.0,5.6,28.6,clear
+835,Mustard,Vijay Nagar(Gulabpura),2017-02-22,3100.0,18.7,28.6,clear
+836,Mustard,Bijay Nagar,2017-02-23,3200.0,84.2,28.0,clear
+837,Mustard,Kekri,2017-02-23,3250.0,173.9,28.0,clear
+838,Mustard,Madanganj Kishanganj,2017-02-23,3200.0,6.7,28.0,clear
+839,Mustard,Vijay Nagar(Gulabpura),2017-02-23,3000.0,28.0,28.0,clear
+840,Mustard,Bijay Nagar,2017-02-24,3100.0,96.2,27.0,clear
+841,Mustard,Vijay Nagar(Gulabpura),2017-02-24,3000.0,11.1,27.0,clear
+842,Mustard,Bijay Nagar,2017-02-25,3100.0,55.0,30.4,clear
+843,Mustard,Kekri,2017-02-25,3360.0,173.8,30.4,clear
+844,Mustard,Madanganj Kishanganj,2017-02-25,3100.0,3.5,30.4,clear
+845,Mustard,Vijay Nagar(Gulabpura),2017-02-25,3000.0,32.4,30.4,clear
+846,Mustard,Bijay Nagar,2017-02-27,3100.0,72.0,32.6,clear
+847,Mustard,Kekri,2017-02-27,3350.0,242.5,32.6,clear
+848,Mustard,Madanganj Kishanganj,2017-02-27,3102.0,7.2,32.6,clear
+849,Mustard,Bijay Nagar,2017-02-28,3100.0,220.0,33.4,clear
+850,Mustard,Kekri,2017-02-28,3350.0,291.2,33.4,clear
+851,Mustard,Madanganj Kishanganj,2017-02-28,3100.0,12.8,33.4,clear
+852,Mustard,Vijay Nagar(Gulabpura),2017-02-28,3100.0,37.6,33.4,clear
+853,Mustard,Bijay Nagar,2017-01-03,3150.0,130.0,23.6,clear
+854,Mustard,Kekri,2017-01-03,3366.0,273.9,23.6,clear
+855,Mustard,Madanganj Kishanganj,2017-01-03,3275.0,12.4,23.6,clear
+856,Mustard,Vijay Nagar(Gulabpura),2017-01-03,3100.0,29.5,23.6,clear
+857,Mustard,Bijay Nagar,2017-04-03,3200.0,150.0,39.0,clear
+858,Mustard,Kekri,2017-04-03,3561.0,,39.0,clear
+859,Mustard,Madanganj Kishanganj,2017-04-03,3200.0,32.6,39.0,clear
+860,Mustard,Vijay Nagar(Gulabpura),2017-04-03,3100.0,25.7,39.0,clear
+861,Mustard,Bijay Nagar,2017-06-03,3150.0,203.9,42.4,clear
+862,Mustard,Kekri,2017-06-03,3381.0,,42.4,clear
+863,Mustard,Madanganj Kishanganj,2017-06-03,3250.0,37.3,42.4,clear
+864,Mustard,Vijay Nagar(Gulabpura),2017-06-03,3100.0,6.3,42.4,clear
+865,Mustard,Bijay Nagar,2017-07-03,3150.0,144.0,32.4,clear
+866,Mustard,Kekri,2017-07-03,3360.0,,32.4,clear
+867,Mustard,Madanganj Kishanganj,2017-07-03,3250.0,28.2,32.4,clear
+868,Mustard,Vijay Nagar(Gulabpura),2017-07-03,3100.0,30.5,32.4,clear
+869,Mustard,Bijay Nagar,2017-03-14,3100.0,126.2,28.4,clear
+870,Mustard,Kekri,2017-03-14,3400.0,,28.4,clear
+871,Mustard,Madanganj Kishanganj,2017-03-14,3160.0,27.0,28.4,clear
+872,Mustard,Vijay Nagar(Gulabpura),2017-03-14,3100.0,10.5,28.4,clear
+873,Mustard,Bijay Nagar,2017-03-16,3100.0,85.0,32.4,clear
+874,Mustard,Vijay Nagar(Gulabpura),2017-03-16,3100.0,12.5,32.4,clear
+875,Mustard,Bijay Nagar,2017-03-17,3150.0,60.0,32.4,clear
+876,Mustard,Madanganj Kishanganj,2017-03-17,3170.0,14.1,32.4,clear
+877,Mustard,Vijay Nagar(Gulabpura),2017-03-17,3100.0,19.5,32.4,clear
+878,Mustard,Bijay Nagar,2017-03-18,3200.0,56.0,32.6,rain
+879,Mustard,Kekri,2017-03-18,3355.0,,32.6,rain
+880,Mustard,Madanganj Kishanganj,2017-03-18,3150.0,15.0,32.6,rain
+881,Mustard,Bijay Nagar,2017-03-23,3300.0,50.0,35.4,clear
+882,Mustard,Kekri,2017-03-23,3410.0,687.0,35.4,clear
+883,Mustard,Vijay Nagar(Gulabpura),2017-03-23,3300.0,7.8,35.4,clear
+884,Mustard,Bijay Nagar,2017-03-25,3350.0,30.0,36.0,clear
+885,Mustard,Kekri,2017-03-25,3500.0,237.5,36.0,clear
+886,Mustard,Madanganj Kishanganj,2017-03-25,3400.0,19.1,36.0,clear
+887,Mustard,Vijay Nagar(Gulabpura),2017-03-25,3200.0,4.7,36.0,clear
+888,Mustard,Bijay Nagar,2017-04-04,3300.0,12.2,38.4,clear
+889,Mustard,Madanganj Kishanganj,2017-04-04,3470.0,23.4,38.4,clear
+890,Mustard,Bijay Nagar,2017-08-04,3250.0,11.5,30.4,clear
+891,Mustard,Madanganj Kishanganj,2017-08-04,3400.0,26.4,30.4,clear
+892,Mustard,Vijay Nagar(Gulabpura),2017-08-04,3200.0,5.7,30.4,clear
+893,Mustard,Bijay Nagar,2017-10-04,3200.0,20.0,36.2,clear
+894,Mustard,Kekri,2017-10-04,3471.0,59.5,36.2,clear
+895,Mustard,Madanganj Kishanganj,2017-10-04,3275.0,23.5,36.2,clear
+896,Mustard,Bijay Nagar,2017-11-04,3200.0,14.5,31.4,clear
+897,Mustard,Madanganj Kishanganj,2017-11-04,3300.0,24.1,31.4,clear
+898,Mustard,Bijay Nagar,2017-12-04,3200.0,12.1,24.2,clear
+899,Mustard,Kekri,2017-12-04,3450.0,250.1,24.2,clear
+900,Mustard,Madanganj Kishanganj,2017-12-04,3270.0,20.3,24.2,clear
+901,Mustard,Bijay Nagar,2017-04-13,3200.0,9.6,41.4,clear
+902,Mustard,Kekri,2017-04-13,3520.0,321.9,41.4,clear
+903,Mustard,Bijay Nagar,2017-04-14,3200.0,24.0,41.8,clear
+904,Mustard,Kekri,2017-04-14,3450.0,279.3,41.8,clear
+905,Mustard,Bijay Nagar,2017-04-15,3200.0,10.0,42.0,clear
+906,Mustard,Kekri,2017-04-15,3450.0,124.6,42.0,clear
+907,Mustard,Madanganj Kishanganj,2017-04-15,3260.0,14.1,42.0,clear
+908,Mustard,Bijay Nagar,2017-04-17,3200.0,40.0,41.6,clear
+909,Mustard,Kekri,2017-04-17,3350.0,162.3,41.6,clear
+910,Mustard,Madanganj Kishanganj,2017-04-17,3280.0,24.2,41.6,clear
+911,Mustard,Vijay Nagar(Gulabpura),2017-04-17,3100.0,2.0,41.6,clear
+912,Mustard,Bijay Nagar,2017-04-18,3100.0,35.0,42.0,clear
+913,Mustard,Kekri,2017-04-18,3350.0,159.2,42.0,clear
+914,Mustard,Madanganj Kishanganj,2017-04-18,3280.0,7.2,42.0,clear
+915,Mustard,Bijay Nagar,2017-04-19,3150.0,10.5,41.2,clear
+916,Mustard,Kekri,2017-04-19,3365.0,147.0,41.2,clear
+917,Mustard,Madanganj Kishanganj,2017-04-19,3250.0,5.6,41.2,clear
+918,Mustard,Bijay Nagar,2017-04-20,3100.0,8.0,41.8,clear
+919,Mustard,Kekri,2017-04-20,3420.0,112.6,41.8,clear
+920,Mustard,Bijay Nagar,2017-04-21,3100.0,7.0,41.0,clear
+921,Mustard,Madanganj Kishanganj,2017-04-21,3250.0,17.4,41.0,clear
+922,Mustard,Vijay Nagar(Gulabpura),2017-04-21,3100.0,4.6,41.0,clear
+923,Mustard,Bijay Nagar,2017-04-22,3100.0,27.5,38.4,clear
+924,Mustard,Kekri,2017-04-22,3360.0,127.9,38.4,clear
+925,Mustard,Madanganj Kishanganj,2017-04-22,3250.0,12.4,38.4,clear
+926,Mustard,Vijay Nagar(Gulabpura),2017-04-22,3000.0,5.5,38.4,clear
+927,Mustard,Bijay Nagar,2017-04-24,3100.0,25.0,35.8,clear
+928,Mustard,Kekri,2017-04-24,3350.0,115.0,35.8,clear
+929,Mustard,Madanganj Kishanganj,2017-04-24,3250.0,10.8,35.8,clear
+930,Mustard,Vijay Nagar(Gulabpura),2017-04-24,3000.0,2.0,35.8,clear
+931,Mustard,Bijay Nagar,2017-04-25,3100.0,8.0,36.2,clear
+932,Mustard,Kekri,2017-04-25,3350.0,95.0,36.2,clear
+933,Mustard,Madanganj Kishanganj,2017-04-25,3240.0,15.3,36.2,clear
+934,Mustard,Bijay Nagar,2017-04-26,3100.0,2.6,37.0,clear
+935,Mustard,Kekri,2017-04-26,3360.0,86.5,37.0,clear
+936,Mustard,Bijay Nagar,2017-04-27,3050.0,3.1,38.4,clear
+937,Mustard,Bijay Nagar,2017-04-28,3050.0,1.5,38.6,clear
+938,Mustard,Kekri,2017-04-28,3540.0,26.3,38.6,clear
+939,Mustard,Madanganj Kishanganj,2017-04-28,3250.0,6.5,38.6,clear
+940,Mustard,Bijay Nagar,2017-04-29,3127.0,1.0,38.2,clear
+941,Mustard,Kekri,2017-04-29,3650.0,18.5,38.2,clear
+942,Mustard,Madanganj Kishanganj,2017-04-29,3250.0,1.5,38.2,clear
+943,Mustard,Vijay Nagar(Gulabpura),2017-04-29,3000.0,2.5,38.2,clear
+944,Mustard,Bijay Nagar,2017-02-05,3000.0,6.5,25.6,clear
+945,Mustard,Kekri,2017-02-05,3560.0,69.7,25.6,clear
+946,Mustard,Madanganj Kishanganj,2017-02-05,3240.0,3.7,25.6,clear
+947,Mustard,Vijay Nagar(Gulabpura),2017-02-05,3000.0,1.8,25.6,clear
+948,Mustard,Bijay Nagar,2017-03-05,3050.0,1.5,30.0,clear
+949,Mustard,Kekri,2017-03-05,3650.0,57.0,30.0,clear
+950,Mustard,Madanganj Kishanganj,2017-03-05,3250.0,11.9,30.0,clear
+951,Mustard,Bijay Nagar,2017-04-05,3100.0,1.5,38.8,clear
+952,Mustard,Kekri,2017-04-05,3650.0,57.0,38.8,clear
+953,Mustard,Madanganj Kishanganj,2017-04-05,3160.0,5.7,38.8,clear
+954,Mustard,Bijay Nagar,2017-05-05,3050.0,1.0,38.2,clear
+955,Mustard,Kekri,2017-05-05,3580.0,102.1,38.2,clear
+956,Mustard,Madanganj Kishanganj,2017-05-05,3300.0,1.5,38.2,clear
+957,Mustard,Bijay Nagar,2017-06-05,2811.0,0.6,40.0,clear
+958,Mustard,Kekri,2017-06-05,3540.0,30.4,40.0,clear
+959,Mustard,Madanganj Kishanganj,2017-06-05,3250.0,9.1,40.0,clear
+960,Mustard,Bijay Nagar,2017-08-05,3000.0,0.8,31.6,clear
+961,Mustard,Kekri,2017-08-05,3440.0,58.5,31.6,clear
+962,Mustard,Madanganj Kishanganj,2017-08-05,3125.0,0.2,31.6,clear
+963,Mustard,Bijay Nagar,2017-09-05,3100.0,1.3,31.2,clear
+964,Mustard,Madanganj Kishanganj,2017-09-05,3175.0,3.1,31.2,clear
+965,Mustard,Bijay Nagar,2017-10-05,3070.0,2.5,35.8,clear
+966,Mustard,Kekri,2017-10-05,3350.0,33.4,35.8,clear
+967,Mustard,Madanganj Kishanganj,2017-10-05,3160.0,11.5,35.8,clear
+968,Mustard,Bijay Nagar,2017-12-05,3060.0,3.3,20.6,clear
+969,Mustard,Kekri,2017-12-05,3400.0,125.7,20.6,clear
+970,Mustard,Madanganj Kishanganj,2017-12-05,3225.0,5.8,20.6,clear
+971,Mustard,Bijay Nagar,2017-05-13,3100.0,2.1,42.4,clear
+972,Mustard,Kekri,2017-05-13,3350.0,133.4,42.4,clear
+973,Mustard,Madanganj Kishanganj,2017-05-13,3225.0,9.5,42.4,clear
+974,Mustard,Vijay Nagar(Gulabpura),2017-05-13,3300.0,1.5,42.4,clear
+975,Mustard,Bijay Nagar,2017-05-15,3155.0,0.2,40.4,clear
+976,Mustard,Kekri,2017-05-15,3471.0,147.4,40.4,clear
+977,Mustard,Madanganj Kishanganj,2017-05-15,3250.0,12.8,40.4,clear
+978,Mustard,Bijay Nagar,2017-05-16,3181.0,0.3,39.2,rain
+979,Mustard,Kekri,2017-05-16,3360.0,171.9,39.2,rain
+980,Mustard,Madanganj Kishanganj,2017-05-16,3250.0,4.1,39.2,rain
+981,Mustard,Bijay Nagar,2017-05-17,3100.0,8.0,37.4,clear
+982,Mustard,Madanganj Kishanganj,2017-05-17,3270.0,10.8,37.4,clear
+983,Mustard,Bijay Nagar,2017-05-18,3100.0,6.0,40.2,clear
+984,Mustard,Kekri,2017-05-18,3415.0,102.1,40.2,clear
+985,Mustard,Madanganj Kishanganj,2017-05-18,3260.0,17.0,40.2,clear
+986,Mustard,Vijay Nagar(Gulabpura),2017-05-18,3100.0,6.9,40.2,clear
+987,Mustard,Bijay Nagar,2017-05-19,3100.0,9.0,41.8,rain
+988,Mustard,Kekri,2017-05-19,3380.0,97.0,41.8,rain
+989,Mustard,Madanganj Kishanganj,2017-05-19,3250.0,3.2,41.8,rain
+990,Mustard,Vijay Nagar(Gulabpura),2017-05-19,3100.0,2.3,41.8,rain
+991,Mustard,Bijay Nagar,2017-05-20,3100.0,2.2,39.4,clear
+992,Mustard,Kekri,2017-05-20,3370.0,73.8,39.4,clear
+993,Mustard,Madanganj Kishanganj,2017-05-20,3250.0,8.8,39.4,clear
+994,Mustard,Bijay Nagar,2017-05-22,3000.0,0.6,33.8,clear
+995,Mustard,Kekri,2017-05-22,3350.0,61.4,33.8,clear
+996,Mustard,Madanganj Kishanganj,2017-05-22,3230.0,10.9,33.8,clear
+997,Mustard,Vijay Nagar(Gulabpura),2017-05-22,3050.0,2.5,33.8,clear
+998,Mustard,Bijay Nagar,2017-05-23,3060.0,2.1,37.8,rain
+999,Mustard,Madanganj Kishanganj,2017-05-23,3225.0,6.0,37.8,rain
+1000,Mustard,Bijay Nagar,2017-05-24,3050.0,3.8,41.0,clear
+1001,Mustard,Madanganj Kishanganj,2017-05-24,3200.0,11.6,41.0,clear
+1002,Mustard,Bijay Nagar,2017-05-25,3060.0,1.5,41.0,clear
+1003,Mustard,Bijay Nagar,2017-05-26,3020.0,1.8,43.0,clear
+1004,Mustard,Kekri,2017-05-26,3350.0,83.6,43.0,clear
+1005,Mustard,Madanganj Kishanganj,2017-05-26,3100.0,5.0,43.0,clear
+1006,Mustard,Bijay Nagar,2017-05-27,3030.0,3.0,43.0,clear
+1007,Mustard,Madanganj Kishanganj,2017-05-27,3200.0,7.0,43.0,clear
+1008,Mustard,Bijay Nagar,2017-05-29,3000.0,3.4,39.0,rain
+1009,Mustard,Madanganj Kishanganj,2017-05-29,3150.0,8.3,39.0,rain
+1010,Mustard,Bijay Nagar,2017-05-30,2950.0,2.0,36.8,clear
+1011,Mustard,Kekri,2017-05-30,3525.0,74.0,36.8,clear
+1012,Mustard,Madanganj Kishanganj,2017-05-30,3140.0,11.1,36.8,clear
+1013,Mustard,Bijay Nagar,2017-05-31,3000.0,1.0,35.2,clear
+1014,Mustard,Kekri,2017-05-31,3360.0,5.6,35.2,clear
+1015,Mustard,Madanganj Kishanganj,2017-05-31,3130.0,7.4,35.2,clear
+1016,Mustard,Bijay Nagar,2017-01-06,3000.0,0.7,21.4,clear
+1017,Mustard,Madanganj Kishanganj,2017-01-06,3150.0,5.1,21.4,clear
+1018,Mustard,Bijay Nagar,2017-02-06,3040.0,6.0,22.6,clear
+1019,Mustard,Kekri,2017-02-06,3350.0,78.4,22.6,clear
+1020,Mustard,Madanganj Kishanganj,2017-02-06,3125.0,2.5,22.6,clear
+1021,Mustard,Bijay Nagar,2017-03-06,3010.0,0.5,29.6,clear
+1022,Mustard,Kekri,2017-03-06,3360.0,13.5,29.6,clear
+1023,Mustard,Bijay Nagar,2017-05-06,3000.0,2.5,42.4,clear
+1024,Mustard,Kekri,2017-05-06,3350.0,34.5,42.4,clear
+1025,Mustard,Madanganj Kishanganj,2017-05-06,3135.0,0.6,42.4,clear
+1026,Mustard,Bijay Nagar,2017-07-06,3060.0,5.3,33.4,clear
+1027,Mustard,Kekri,2017-07-06,3350.0,29.0,33.4,clear
+1028,Mustard,Madanganj Kishanganj,2017-07-06,3125.0,4.8,33.4,clear
+1029,Mustard,Bijay Nagar,2017-08-06,3100.0,1.4,32.4,clear
+1030,Mustard,Kekri,2017-08-06,3365.0,19.5,32.4,clear
+1031,Mustard,Madanganj Kishanganj,2017-08-06,3160.0,2.7,32.4,clear
+1032,Mustard,Bijay Nagar,2017-10-06,2993.0,0.2,36.0,clear
+1033,Mustard,Kekri,2017-10-06,3355.0,22.5,36.0,clear
+1034,Mustard,Madanganj Kishanganj,2017-10-06,3215.0,6.3,36.0,clear
+1035,Mustard,Vijay Nagar(Gulabpura),2017-10-06,2960.0,0.8,36.0,clear
+1036,Mustard,Bijay Nagar,2017-06-13,3010.0,0.7,39.4,clear
+1037,Mustard,Kekri,2017-06-13,3350.0,39.8,39.4,clear
+1038,Mustard,Madanganj Kishanganj,2017-06-13,3150.0,5.7,39.4,clear
+1039,Mustard,Vijay Nagar(Gulabpura),2017-06-13,3040.0,1.5,39.4,clear
+1040,Mustard,Bijay Nagar,2017-06-14,3060.0,1.3,38.6,clear
+1041,Mustard,Madanganj Kishanganj,2017-06-14,3160.0,7.3,38.6,clear
+1042,Mustard,Bijay Nagar,2017-06-15,3050.0,4.0,39.4,clear
+1043,Mustard,Madanganj Kishanganj,2017-06-15,2531.0,0.5,39.4,clear
+1044,Mustard,Bijay Nagar,2017-06-20,3051.0,1.0,35.8,clear
+1045,Mustard,Madanganj Kishanganj,2017-06-20,3140.0,6.0,35.8,clear
+1046,Mustard,Bijay Nagar,2017-06-22,3030.0,3.5,32.6,clear
+1047,Mustard,Madanganj Kishanganj,2017-06-22,3050.0,0.1,32.6,clear
+1048,Mustard,Bijay Nagar,2017-06-26,2925.0,0.2,38.4,clear
+1049,Mustard,Kekri,2017-06-26,3360.0,17.0,38.4,clear
+1050,Mustard,Madanganj Kishanganj,2017-06-26,3025.0,0.9,38.4,clear
+1051,Mustard,Bijay Nagar,2017-06-28,3000.0,2.8,30.0,rain
+1052,Mustard,Bijay Nagar,2017-06-29,2950.0,0.8,32.0,clear
+1053,Mustard,Madanganj Kishanganj,2017-06-29,3150.0,1.2,32.0,clear
+1054,Mustard,Bijay Nagar,2017-06-30,3025.0,2.2,32.2,clear
+1055,Mustard,Bijay Nagar,2017-08-07,3031.0,2.0,32.4,clear
+1056,Mustard,Madanganj Kishanganj,2017-08-07,3150.0,1.6,32.4,clear
+1057,Mustard,Bijay Nagar,2017-12-07,3010.0,2.7,23.2,clear
+1058,Mustard,Kekri,2017-12-07,3245.0,4.5,23.2,clear
+1059,Mustard,Madanganj Kishanganj,2017-12-07,3150.0,0.5,23.2,clear
+1060,Mustard,Bijay Nagar,2017-07-17,3000.0,0.4,29.4,clear
+1061,Mustard,Madanganj Kishanganj,2017-07-17,3150.0,0.4,29.4,clear
+1062,Mustard,Vijay Nagar(Gulabpura),2017-07-17,2900.0,2.0,29.4,clear
+1063,Mustard,Bijay Nagar,2017-07-19,3140.0,1.3,36.0,clear
+1064,Mustard,Madanganj Kishanganj,2017-07-19,3150.0,0.1,36.0,clear
+1065,Mustard,Bijay Nagar,2017-07-20,3110.0,1.2,32.0,rain
+1066,Mustard,Kekri,2017-07-20,3350.0,17.0,32.0,rain
+1067,Mustard,Madanganj Kishanganj,2017-07-20,3150.0,0.3,32.0,rain
+1068,Mustard,Bijay Nagar,2017-07-22,3100.0,0.3,27.4,clear
+1069,Mustard,Kekri,2017-07-22,3320.0,11.7,27.4,clear
+1070,Mustard,Madanganj Kishanganj,2017-07-22,3150.0,1.0,27.4,clear
+1071,Mustard,Bijay Nagar,2017-08-16,3100.0,0.2,31.8,clear
+1072,Mustard,Madanganj Kishanganj,2017-08-16,3175.0,0.6,31.8,clear
+1073,Mustard,Bijay Nagar,2017-08-21,3200.0,1.0,33.8,clear
+1074,Mustard,Kekri,2017-08-21,3350.0,24.5,33.8,clear
+1075,Mustard,Vijay Nagar(Gulabpura),2017-08-21,3000.0,4.0,33.8,clear
+1076,Mustard,Bijay Nagar,2017-08-28,3141.0,0.2,30.4,clear
+1077,Mustard,Madanganj Kishanganj,2017-08-28,3250.0,0.1,30.4,clear
+1078,Mustard,Bijay Nagar,2017-08-30,3271.0,0.4,29.0,clear
+1079,Mustard,Madanganj Kishanganj,2017-08-30,3250.0,1.3,29.0,clear
+1080,Mustard,Bijay Nagar,2017-08-31,3275.0,1.5,30.4,clear
+1081,Mustard,Madanganj Kishanganj,2017-08-31,3200.0,0.5,30.4,clear
+1082,Mustard,Bijay Nagar,2017-02-09,3205.0,0.4,23.2,clear
+1083,Mustard,Kekri,2017-02-09,3351.0,11.5,23.2,clear
+1084,Mustard,Madanganj Kishanganj,2017-02-09,3800.0,0.1,23.2,clear
+1085,Mustard,Vijay Nagar(Gulabpura),2017-02-09,3200.0,3.5,23.2,clear
+1086,Mustard,Bijay Nagar,2017-09-13,3280.0,0.7,32.4,clear
+1087,Mustard,Kekri,2017-09-13,3360.0,17.2,32.4,clear
+1088,Mustard,Madanganj Kishanganj,2017-09-13,3250.0,0.4,32.4,clear
+1089,Mustard,Bijay Nagar,2017-09-19,3241.0,0.3,36.4,clear
+1090,Mustard,Kekri,2017-09-19,3425.0,4.5,36.4,clear
+1091,Mustard,Madanganj Kishanganj,2017-09-19,3150.0,0.7,36.4,clear
+1092,Mustard,Bijay Nagar,2017-09-20,3170.0,1.0,36.2,clear
+1093,Mustard,Kekri,2017-09-20,3360.0,11.2,36.2,clear
+1094,Mustard,Bijay Nagar,2017-09-29,3100.0,0.9,36.6,clear
+1095,Mustard,Kekri,2017-09-29,3350.0,2.8,36.6,clear
+1096,Mustard,Madanganj Kishanganj,2017-09-29,3150.0,0.1,36.6,clear
+1097,Mustard,Vijay Nagar(Gulabpura),2017-09-29,3100.0,3.3,36.6,clear
+1098,Mustard,Bijay Nagar,2017-03-10,3150.0,0.7,25.0,clear
+1099,Mustard,Bijay Nagar,2017-04-10,3130.0,2.0,36.0,clear
+1100,Mustard,Kekri,2017-04-10,3430.0,7.5,36.0,clear
+1101,Mustard,Bijay Nagar,2017-06-10,3200.0,6.0,37.8,clear
+1102,Mustard,Kekri,2017-06-10,3325.0,12.0,37.8,clear
+1103,Mustard,Bijay Nagar,2017-07-10,3200.0,1.3,34.0,clear
+1104,Mustard,Kekri,2017-07-10,3350.0,13.0,34.0,clear
+1105,Mustard,Bijay Nagar,2017-10-31,3100.0,0.2,34.2,clear
+1106,Mustard,Kekri,2017-05-01,3750.0,26.1,38.2,clear
+1107,Mustard,Kekri,2017-07-01,3715.0,9.0,31.2,clear
+1108,Mustard,Kekri,2017-09-01,3800.0,12.8,29.0,clear
+1109,Mustard,Kekri,2017-11-01,3500.0,21.9,32.8,clear
+1110,Mustard,Vijay Nagar(Gulabpura),2017-11-01,3400.0,1.0,32.8,clear
+1111,Mustard,Kekri,2017-01-13,3461.0,20.4,20.0,clear
+1112,Mustard,Kekri,2017-01-16,3550.0,12.3,18.8,clear
+1113,Mustard,Kekri,2017-01-17,3400.0,7.5,19.0,clear
+1114,Mustard,Kekri,2017-01-19,3450.0,6.2,20.6,clear
+1115,Mustard,Kekri,2017-01-20,3350.0,10.7,20.0,clear
+1116,Mustard,Kekri,2017-01-21,3650.0,9.1,22.4,clear
+1117,Mustard,Kekri,2017-01-23,3650.0,47.6,27.0,clear
+1118,Mustard,Kekri,2017-01-25,3611.0,49.7,28.8,rain
+1119,Mustard,Kekri,2017-01-27,3550.0,7.1,18.2,clear
+1120,Mustard,Kekri,2017-01-28,3650.0,24.6,20.6,clear
+1121,Mustard,Kekri,2017-01-02,3350.0,3.9,23.0,clear
+1122,Mustard,Kekri,2017-01-04,3450.0,132.1,25.6,clear
+1123,Mustard,Madanganj Kishanganj,2017-01-04,3460.0,22.4,25.6,clear
+1124,Mustard,Vijay Nagar(Gulabpura),2017-01-04,3300.0,2.8,25.6,clear
+1125,Mustard,Kekri,2017-03-04,3380.0,186.0,28.4,clear
+1126,Mustard,Madanganj Kishanganj,2017-03-04,3465.0,45.3,28.4,clear
+1127,Mustard,Vijay Nagar(Gulabpura),2017-03-04,3300.0,6.7,28.4,clear
+1128,Mustard,Kekri,2017-01-05,3540.0,77.1,26.2,clear
+1129,Mustard,Madanganj Kishanganj,2017-01-05,3270.0,8.8,26.2,clear
+1130,Mustard,Kekri,2017-11-05,3390.0,82.9,30.4,clear
+1131,Mustard,Kekri,2017-09-06,3360.0,18.9,32.4,clear
+1132,Mustard,Madanganj Kishanganj,2017-09-06,3225.0,5.7,32.4,clear
+1133,Mustard,Kekri,2017-12-06,3350.0,39.8,18.6,clear
+1134,Mustard,Madanganj Kishanganj,2017-12-06,3200.0,3.0,18.6,clear
+1135,Mustard,Kekri,2017-06-16,3385.0,75.0,39.2,clear
+1136,Mustard,Madanganj Kishanganj,2017-06-16,3185.0,2.0,39.2,clear
+1137,Mustard,Vijay Nagar(Gulabpura),2017-06-16,3000.0,0.5,39.2,clear
+1138,Mustard,Kekri,2017-06-17,3380.0,47.0,35.0,clear
+1139,Mustard,Madanganj Kishanganj,2017-06-17,3200.0,0.9,35.0,clear
+1140,Mustard,Kekri,2017-06-19,3350.0,26.0,37.4,clear
+1141,Mustard,Madanganj Kishanganj,2017-06-19,3160.0,1.0,37.4,clear
+1142,Mustard,Vijay Nagar(Gulabpura),2017-06-19,3030.0,2.8,37.4,clear
+1143,Mustard,Kekri,2017-06-23,3360.0,46.2,32.4,clear
+1144,Mustard,Madanganj Kishanganj,2017-06-23,3050.0,1.6,32.4,clear
+1145,Mustard,Vijay Nagar(Gulabpura),2017-06-23,2950.0,0.5,32.4,clear
+1146,Mustard,Kekri,2017-06-24,3535.0,32.1,34.2,clear
+1147,Mustard,Vijay Nagar(Gulabpura),2017-06-24,2900.0,2.0,34.2,clear
+1148,Mustard,Kekri,2017-04-07,3325.0,3.5,32.4,clear
+1149,Mustard,Madanganj Kishanganj,2017-04-07,3150.0,0.5,32.4,clear
+1150,Mustard,Kekri,2017-07-07,3320.0,8.8,34.6,clear
+1151,Mustard,Madanganj Kishanganj,2017-07-07,3150.0,2.3,34.6,clear
+1152,Mustard,Kekri,2017-07-15,3190.0,22.5,33.8,clear
+1153,Mustard,Madanganj Kishanganj,2017-07-15,3140.0,3.3,33.8,clear
+1154,Mustard,Kekri,2017-07-24,3350.0,8.0,28.0,clear
+1155,Mustard,Madanganj Kishanganj,2017-07-24,3075.0,0.3,28.0,clear
+1156,Mustard,Kekri,2017-07-28,3350.0,17.3,29.2,clear
+1157,Mustard,Madanganj Kishanganj,2017-07-28,3150.0,3.3,29.2,clear
+1158,Mustard,Kekri,2017-09-08,3385.0,1.0,33.2,clear
+1159,Mustard,Madanganj Kishanganj,2017-09-08,3170.0,0.1,33.2,clear
+1160,Mustard,Kekri,2017-11-08,3360.0,11.6,31.4,clear
+1161,Mustard,Madanganj Kishanganj,2017-11-08,3175.0,0.1,31.4,clear
+1162,Mustard,Kekri,2017-08-23,3325.0,115.0,33.0,rain
+1163,Mustard,Madanganj Kishanganj,2017-08-23,3270.0,0.6,33.0,rain
+1164,Mustard,Kekri,2017-08-24,3258.0,12.0,32.8,clear
+1165,Mustard,Madanganj Kishanganj,2017-08-24,3250.0,0.2,32.8,clear
+1166,Mustard,Kekri,2017-08-29,3380.0,31.0,30.4,clear
+1167,Mustard,Vijay Nagar(Gulabpura),2017-08-29,3100.0,2.8,30.4,clear
+1168,Mustard,Kekri,2017-01-09,3260.0,11.3,19.8,clear
+1169,Mustard,Madanganj Kishanganj,2017-01-09,3250.0,1.2,19.8,clear
+1170,Mustard,Kekri,2017-06-09,3410.0,21.5,34.0,clear
+1171,Mustard,Madanganj Kishanganj,2017-06-09,3175.0,0.3,34.0,clear
+1172,Mustard,Kekri,2017-08-09,3341.0,29.4,24.8,clear
+1173,Mustard,Madanganj Kishanganj,2017-08-09,3225.0,0.1,24.8,clear
+1174,Mustard,Kekri,2017-09-22,3450.0,9.5,34.6,clear
+1175,Mustard,Madanganj Kishanganj,2017-09-22,3150.0,0.4,34.6,clear
+1176,Mustard,Kekri,2017-09-23,3320.0,10.5,33.6,clear
+1177,Mustard,Madanganj Kishanganj,2017-09-23,3250.0,1.6,33.6,clear
+1178,Mustard,Vijay Nagar(Gulabpura),2017-09-23,3250.0,3.8,33.6,clear
+1179,Mustard,Kekri,2017-09-25,3410.0,6.0,34.8,clear
+1180,Mustard,Madanganj Kishanganj,2017-09-25,3160.0,0.9,34.8,clear
+1181,Mustard,Kekri,2017-09-26,3320.0,12.0,34.8,clear
+1182,Mustard,Kekri,2017-05-10,3410.0,8.5,42.4,clear
+1183,Mustard,Madanganj Kishanganj,2017-05-10,3150.0,5.7,42.4,clear
+1184,Mustard,Kekri,2017-09-10,3325.0,12.0,33.4,clear
+1185,Mustard,Madanganj Kishanganj,2017-09-10,3160.0,2.5,33.4,clear
+1186,Mustard,Kekri,2017-10-10,3465.0,12.5,36.4,clear
+1187,Mustard,Madanganj Kishanganj,2017-10-10,3175.0,7.9,36.4,clear
+1188,Mustard,Kekri,2017-11-10,3240.0,13.5,30.2,clear
+1189,Mustard,Madanganj Kishanganj,2017-11-10,3150.0,0.3,30.2,clear
+1190,Mustard,Kekri,2017-10-13,3470.0,13.0,36.8,clear
+1191,Mustard,Madanganj Kishanganj,2017-10-13,3160.0,2.2,36.8,clear
+1192,Mustard,Kekri,2017-10-14,3350.0,14.5,37.6,clear
+1193,Mustard,Madanganj Kishanganj,2017-10-14,3150.0,0.3,37.6,clear
+1194,Mustard,Kekri,2017-10-21,3360.0,6.0,37.2,clear
+1195,Mustard,Madanganj Kishanganj,2017-10-21,3170.0,0.2,37.2,clear
+1196,Mustard,Kekri,2017-10-23,3430.0,12.5,33.8,clear
+1197,Mustard,Madanganj Kishanganj,2017-10-23,3175.0,4.1,33.8,clear
+1198,Mustard,Kekri,2017-10-30,3360.0,46.0,33.6,clear
+1199,Mustard,Madanganj Kishanganj,2017-10-30,3190.0,2.0,33.6,clear
+1200,Mustard,Vijay Nagar(Gulabpura),2017-10-30,3200.0,12.2,33.6,clear
+1201,Mustard,Madanganj Kishanganj,2017-03-20,3300.0,15.2,31.8,clear
+1202,Mustard,Madanganj Kishanganj,2017-06-06,3150.0,3.7,38.0,clear
+1203,Mustard,Madanganj Kishanganj,2017-06-21,3100.0,0.1,34.2,clear
+1204,Mustard,Madanganj Kishanganj,2017-06-27,3100.0,0.8,37.6,rain
+1205,Mustard,Madanganj Kishanganj,2017-05-07,3125.0,0.7,42.8,rain
+1206,Mustard,Madanganj Kishanganj,2017-06-07,3120.0,0.1,38.0,clear
+1207,Mustard,Madanganj Kishanganj,2017-10-07,3150.0,8.2,35.8,clear
+1208,Mustard,Vijay Nagar(Gulabpura),2017-10-07,3000.0,0.2,35.8,clear
+1209,Mustard,Madanganj Kishanganj,2017-07-21,3160.0,0.4,32.0,clear
+1210,Mustard,Vijay Nagar(Gulabpura),2017-07-21,2900.0,0.1,32.0,clear
+1211,Mustard,Madanganj Kishanganj,2017-07-25,3160.0,1.0,27.2,clear
+1212,Mustard,Madanganj Kishanganj,2017-05-08,3150.0,1.5,43.0,clear
+1213,Mustard,Madanganj Kishanganj,2017-10-08,3175.0,0.3,36.0,clear
+1214,Mustard,Madanganj Kishanganj,2017-08-17,3225.0,6.6,32.6,clear
+1215,Mustard,Madanganj Kishanganj,2017-09-18,3225.0,1.7,35.6,clear
+1216,Mustard,Madanganj Kishanganj,2017-10-16,3150.0,2.1,37.8,clear
+1217,Mustard,Madanganj Kishanganj,2017-01-11,3225.0,2.8,17.6,clear
+1218,Mustard,Madanganj Kishanganj,2017-02-11,3200.0,0.2,22.8,clear
+1219,Mustard,Madanganj Kishanganj,2017-03-11,3250.0,0.6,25.6,clear
+1220,Mustard,Vijay Nagar(Gulabpura),2017-04-09,3150.0,6.5,33.0,clear

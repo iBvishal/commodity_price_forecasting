@@ -1,0 +1,213 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Sivasagar,2015-12-08,10000.0,0.0,23.2,clear
+1,Green Gram (Moong),Sivasagar,2015-12-08,10000.0,0.0,23.2,clear
+2,Lentil(Masur),Sivasagar,2015-12-08,9400.0,0.0,23.2,clear
+3,Arhar (Tur/Red Gram),Sivasagar,2015-12-10,13600.0,0.0,23.4,clear
+4,Lentil(Masur),Sivasagar,2015-12-10,10000.0,0.0,23.4,clear
+5,Arhar (Tur/Red Gram),Sivasagar,2015-12-11,16000.0,0.0,23.0,clear
+6,Green Gram (Moong),Sivasagar,2015-12-11,9950.0,0.0,23.0,clear
+7,Lentil(Masur),Sivasagar,2015-12-11,9500.0,0.0,23.0,clear
+8,Arhar (Tur/Red Gram),Sivasagar,2015-12-14,15250.0,0.0,21.4,clear
+9,Green Gram (Moong),Sivasagar,2015-12-14,10100.0,0.0,21.4,clear
+10,Lentil(Masur),Sivasagar,2015-12-14,9700.0,0.0,21.4,clear
+11,Arhar (Tur/Red Gram),Sivasagar,2015-12-15,15750.0,0.0,19.2,clear
+12,Green Gram (Moong),Sivasagar,2015-12-15,9950.0,0.0,19.2,clear
+13,Lentil(Masur),Sivasagar,2015-12-15,9400.0,0.0,19.2,clear
+14,Arhar (Tur/Red Gram),Sivasagar,2015-12-16,15750.0,0.0,20.8,clear
+15,Green Gram (Moong),Sivasagar,2015-12-16,9950.0,0.0,20.8,clear
+16,Lentil(Masur),Sivasagar,2015-12-16,9400.0,0.0,20.8,clear
+17,Arhar (Tur/Red Gram),Sivasagar,2015-12-17,15250.0,0.0,21.8,clear
+18,Green Gram (Moong),Sivasagar,2015-12-17,10000.0,0.0,21.8,clear
+19,Lentil(Masur),Sivasagar,2015-12-17,9750.0,0.0,21.8,clear
+20,Arhar (Tur/Red Gram),Sivasagar,2015-12-18,15250.0,0.0,22.0,clear
+21,Green Gram (Moong),Sivasagar,2015-12-18,10000.0,0.0,22.0,clear
+22,Lentil(Masur),Sivasagar,2015-12-18,9750.0,0.0,22.0,clear
+23,Arhar (Tur/Red Gram),Sivasagar,2015-12-19,15250.0,0.0,21.6,clear
+24,Green Gram (Moong),Sivasagar,2015-12-19,9900.0,0.0,21.6,clear
+25,Lentil(Masur),Sivasagar,2015-12-19,9750.0,0.0,21.6,clear
+26,Arhar (Tur/Red Gram),Sivasagar,2015-12-21,13250.0,0.0,21.8,clear
+27,Green Gram (Moong),Sivasagar,2015-12-21,9750.0,0.0,21.8,clear
+28,Lentil(Masur),Sivasagar,2015-12-21,9600.0,0.0,21.8,clear
+29,Arhar (Tur/Red Gram),Sivasagar,2015-12-22,13250.0,0.0,17.6,clear
+30,Lentil(Masur),Sivasagar,2015-12-22,9450.0,0.0,17.6,clear
+31,Arhar (Tur/Red Gram),Sivasagar,2015-12-28,13000.0,0.0,23.4,clear
+32,Green Gram (Moong),Sivasagar,2015-12-28,10100.0,0.0,23.4,clear
+33,Lentil(Masur),Sivasagar,2015-12-28,9550.0,0.0,23.4,clear
+34,Arhar (Tur/Red Gram),Sivasagar,2015-12-29,13250.0,0.0,23.4,clear
+35,Green Gram (Moong),Sivasagar,2015-12-29,10100.0,0.0,23.4,clear
+36,Lentil(Masur),Sivasagar,2015-12-29,9550.0,0.0,23.4,clear
+37,Arhar (Tur/Red Gram),Sivasagar,2015-12-30,13250.0,0.0,23.8,clear
+38,Green Gram (Moong),Sivasagar,2015-12-30,10000.0,0.0,23.8,clear
+39,Lentil(Masur),Sivasagar,2015-12-30,9550.0,0.0,23.8,clear
+40,Arhar (Tur/Red Gram),Sivasagar,2015-12-31,13250.0,0.0,23.8,clear
+41,Green Gram (Moong),Sivasagar,2015-12-31,10000.0,0.0,23.8,clear
+42,Arhar (Tur/Red Gram),Sivasagar,2016-01-01,13200.0,0.0,25.2,clear
+43,Green Gram (Moong),Sivasagar,2016-01-01,10000.0,0.0,25.2,clear
+44,Lentil(Masur),Sivasagar,2016-01-01,9525.0,0.0,25.2,clear
+45,Arhar (Tur/Red Gram),Sivasagar,2016-04-01,13200.0,0.0,25.2,clear
+46,Lentil(Masur),Sivasagar,2016-04-01,9525.0,0.0,25.2,clear
+47,Arhar (Tur/Red Gram),Sivasagar,2016-11-01,13900.0,0.0,30.6,clear
+48,Green Gram (Moong),Sivasagar,2016-11-01,9900.0,0.0,30.6,clear
+49,Lentil(Masur),Sivasagar,2016-11-01,9350.0,0.0,30.6,clear
+50,Arhar (Tur/Red Gram),Sivasagar,2016-12-01,13800.0,0.0,26.8,clear
+51,Lentil(Masur),Sivasagar,2016-12-01,9325.0,0.0,26.8,clear
+52,Arhar (Tur/Red Gram),Sivasagar,2016-01-13,13800.0,0.0,22.4,clear
+53,Lentil(Masur),Sivasagar,2016-01-13,9325.0,0.0,22.4,clear
+54,Arhar (Tur/Red Gram),Sivasagar,2016-01-19,13500.0,0.0,12.2,clear
+55,Lentil(Masur),Sivasagar,2016-01-19,9250.0,0.0,12.2,clear
+56,Arhar (Tur/Red Gram),Sivasagar,2016-01-20,13600.0,0.0,15.4,rain
+57,Lentil(Masur),Sivasagar,2016-01-20,9200.0,0.0,15.4,rain
+58,Arhar (Tur/Red Gram),Sivasagar,2016-01-21,13800.0,0.0,18.4,clear
+59,Green Gram (Moong),Sivasagar,2016-01-21,9850.0,0.0,18.4,clear
+60,Lentil(Masur),Sivasagar,2016-01-21,9300.0,0.0,18.4,clear
+61,Arhar (Tur/Red Gram),Sivasagar,2016-03-05,13450.0,0.0,20.0,clear
+62,Lentil(Masur),Sivasagar,2016-03-05,9150.0,0.0,20.0,clear
+63,Arhar (Tur/Red Gram),Sivasagar,2016-10-05,13650.0,0.0,33.0,clear
+64,Green Gram (Moong),Sivasagar,2016-10-05,10250.0,0.0,33.0,clear
+65,Lentil(Masur),Sivasagar,2016-10-05,9750.0,0.0,33.0,clear
+66,Arhar (Tur/Red Gram),Sivasagar,2016-11-05,13750.0,0.0,27.4,clear
+67,Green Gram (Moong),Sivasagar,2016-11-05,9050.0,0.0,27.4,clear
+68,Lentil(Masur),Sivasagar,2016-11-05,9800.0,0.0,27.4,clear
+69,Arhar (Tur/Red Gram),Sivasagar,2016-12-05,14000.0,0.0,27.0,clear
+70,Green Gram (Moong),Sivasagar,2016-12-05,8900.0,0.0,27.0,clear
+71,Lentil(Masur),Sivasagar,2016-12-05,9800.0,0.0,27.0,clear
+72,Arhar (Tur/Red Gram),Sivasagar,2016-05-13,14000.0,0.0,25.2,clear
+73,Green Gram (Moong),Sivasagar,2016-05-13,6350.0,0.0,25.2,clear
+74,Lentil(Masur),Sivasagar,2016-05-13,9850.0,0.0,25.2,clear
+75,Arhar (Tur/Red Gram),Sivasagar,2016-09-06,13950.0,0.0,33.0,clear
+76,Green Gram (Moong),Sivasagar,2016-09-06,9050.0,0.0,33.0,clear
+77,Lentil(Masur),Sivasagar,2016-09-06,9050.0,0.0,33.0,clear
+78,Arhar (Tur/Red Gram),Sivasagar,2016-06-15,14000.0,0.0,33.0,clear
+79,Green Gram (Moong),Sivasagar,2016-06-15,9150.0,0.0,33.0,clear
+80,Lentil(Masur),Sivasagar,2016-06-15,9150.0,0.0,33.0,clear
+81,Arhar (Tur/Red Gram),Sivasagar,2016-06-16,9750.0,0.0,33.8,clear
+82,Green Gram (Moong),Sivasagar,2016-06-16,9450.0,0.0,33.8,clear
+83,Lentil(Masur),Sivasagar,2016-06-16,9150.0,0.0,33.8,clear
+84,Arhar (Tur/Red Gram),Sivasagar,2016-06-17,14000.0,0.0,29.4,clear
+85,Green Gram (Moong),Sivasagar,2016-06-17,9150.0,0.0,29.4,clear
+86,Lentil(Masur),Sivasagar,2016-06-17,9200.0,0.0,29.4,clear
+87,Arhar (Tur/Red Gram),Sivasagar,2016-06-18,14000.0,0.0,30.0,clear
+88,Green Gram (Moong),Sivasagar,2016-06-18,9200.0,0.0,30.0,clear
+89,Lentil(Masur),Sivasagar,2016-06-18,9200.0,0.0,30.0,clear
+90,Arhar (Tur/Red Gram),Sivasagar,2016-06-20,13300.0,0.0,29.0,clear
+91,Green Gram (Moong),Sivasagar,2016-06-20,8800.0,0.0,29.0,clear
+92,Lentil(Masur),Sivasagar,2016-06-20,8850.0,0.0,29.0,clear
+93,Arhar (Tur/Red Gram),Sivasagar,2016-06-21,13300.0,0.0,31.0,clear
+94,Green Gram (Moong),Sivasagar,2016-06-21,8800.0,0.0,31.0,clear
+95,Lentil(Masur),Sivasagar,2016-06-21,8800.0,0.0,31.0,clear
+96,Arhar (Tur/Red Gram),Sivasagar,2016-06-22,13300.0,0.0,31.0,clear
+97,Green Gram (Moong),Sivasagar,2016-06-22,8800.0,0.0,31.0,clear
+98,Lentil(Masur),Sivasagar,2016-06-22,8800.0,0.0,31.0,clear
+99,Arhar (Tur/Red Gram),Sivasagar,2016-06-23,13400.0,0.0,31.2,clear
+100,Green Gram (Moong),Sivasagar,2016-06-23,8850.0,0.0,31.2,clear
+101,Lentil(Masur),Sivasagar,2016-06-23,8900.0,0.0,31.2,clear
+102,Arhar (Tur/Red Gram),Sivasagar,2016-06-24,13400.0,0.0,32.2,clear
+103,Green Gram (Moong),Sivasagar,2016-06-24,8850.0,0.0,32.2,clear
+104,Lentil(Masur),Sivasagar,2016-06-24,8900.0,0.0,32.2,clear
+105,Arhar (Tur/Red Gram),Sivasagar,2016-04-07,12850.0,0.0,28.8,clear
+106,Green Gram (Moong),Sivasagar,2016-04-07,9500.0,0.0,28.8,clear
+107,Lentil(Masur),Sivasagar,2016-04-07,9000.0,0.0,28.8,clear
+108,Arhar (Tur/Red Gram),Sivasagar,2016-05-07,12850.0,0.0,24.8,clear
+109,Lentil(Masur),Sivasagar,2016-05-07,9000.0,0.0,24.8,clear
+110,Arhar (Tur/Red Gram),Sivasagar,2016-06-07,13000.0,0.0,31.0,clear
+111,Green Gram (Moong),Sivasagar,2016-06-07,9500.0,0.0,31.0,clear
+112,Lentil(Masur),Sivasagar,2016-06-07,9050.0,0.0,31.0,clear
+113,Arhar (Tur/Red Gram),Sivasagar,2016-08-07,13000.0,0.0,31.2,clear
+114,Green Gram (Moong),Sivasagar,2016-08-07,8900.0,0.0,31.2,clear
+115,Lentil(Masur),Sivasagar,2016-08-07,8900.0,0.0,31.2,clear
+116,Arhar (Tur/Red Gram),Sivasagar,2016-07-18,12650.0,0.0,29.2,clear
+117,Green Gram (Moong),Sivasagar,2016-07-18,8250.0,0.0,29.2,clear
+118,Lentil(Masur),Sivasagar,2016-07-18,9200.0,0.0,29.2,clear
+119,Arhar (Tur/Red Gram),Sivasagar,2016-07-22,12900.0,0.0,26.6,rain
+120,Green Gram (Moong),Sivasagar,2016-07-22,8350.0,0.0,26.6,rain
+121,Lentil(Masur),Sivasagar,2016-07-22,9300.0,0.0,26.6,rain
+122,Arhar (Tur/Red Gram),Sivasagar,2016-08-08,12900.0,0.0,34.4,clear
+123,Green Gram (Moong),Sivasagar,2016-08-08,8150.0,0.0,34.4,clear
+124,Lentil(Masur),Sivasagar,2016-08-08,9250.0,0.0,34.4,clear
+125,Arhar (Tur/Red Gram),Sivasagar,2016-09-08,12900.0,0.0,31.8,clear
+126,Green Gram (Moong),Sivasagar,2016-09-08,8600.0,0.0,31.8,clear
+127,Lentil(Masur),Sivasagar,2016-09-08,9250.0,0.0,31.8,clear
+128,Arhar (Tur/Red Gram),Sivasagar,2016-10-08,12900.0,0.0,33.6,clear
+129,Green Gram (Moong),Sivasagar,2016-10-08,8250.0,0.0,33.6,clear
+130,Lentil(Masur),Sivasagar,2016-10-08,9250.0,0.0,33.6,clear
+131,Arhar (Tur/Red Gram),Sivasagar,2016-11-08,12900.0,0.0,27.6,clear
+132,Green Gram (Moong),Sivasagar,2016-11-08,8250.0,0.0,27.6,clear
+133,Lentil(Masur),Sivasagar,2016-11-08,9250.0,0.0,27.6,clear
+134,Arhar (Tur/Red Gram),Sivasagar,2016-08-16,12900.0,0.0,33.2,clear
+135,Lentil(Masur),Sivasagar,2016-08-16,9375.0,0.0,33.2,clear
+136,Arhar (Tur/Red Gram),Sivasagar,2016-08-17,12900.0,0.0,34.2,clear
+137,Lentil(Masur),Sivasagar,2016-08-17,9375.0,0.0,34.2,clear
+138,Arhar (Tur/Red Gram),Sivasagar,2016-08-18,12900.0,0.0,33.8,clear
+139,Lentil(Masur),Sivasagar,2016-08-18,9375.0,0.0,33.8,clear
+140,Arhar (Tur/Red Gram),Sivasagar,2016-08-19,11750.0,0.0,33.2,clear
+141,Green Gram (Moong),Sivasagar,2016-08-19,7750.0,0.0,33.2,clear
+142,Lentil(Masur),Sivasagar,2016-08-19,9000.0,0.0,33.2,clear
+143,Arhar (Tur/Red Gram),Sivasagar,2016-08-20,12000.0,0.0,33.8,clear
+144,Green Gram (Moong),Sivasagar,2016-08-20,7800.0,0.0,33.8,clear
+145,Lentil(Masur),Sivasagar,2016-08-20,9000.0,0.0,33.8,clear
+146,Arhar (Tur/Red Gram),Sivasagar,2016-08-22,12250.0,0.0,33.8,clear
+147,Green Gram (Moong),Sivasagar,2016-08-22,8000.0,0.0,33.8,clear
+148,Lentil(Masur),Sivasagar,2016-08-22,9250.0,0.0,33.8,clear
+149,Arhar (Tur/Red Gram),Sivasagar,2016-08-23,12250.0,0.0,32.0,clear
+150,Green Gram (Moong),Sivasagar,2016-08-23,8000.0,0.0,32.0,clear
+151,Lentil(Masur),Sivasagar,2016-08-23,9200.0,0.0,32.0,clear
+152,Arhar (Tur/Red Gram),Sivasagar,2016-08-24,12250.0,0.0,33.8,clear
+153,Green Gram (Moong),Sivasagar,2016-08-24,7900.0,0.0,33.8,clear
+154,Lentil(Masur),Sivasagar,2016-08-24,9225.0,0.0,33.8,clear
+155,Arhar (Tur/Red Gram),Sivasagar,2016-03-10,10400.0,0.0,24.8,clear
+156,Green Gram (Moong),Sivasagar,2016-03-10,7750.0,0.0,24.8,clear
+157,Lentil(Masur),Sivasagar,2016-03-10,8650.0,0.0,24.8,clear
+158,Bengal Gram(Gram),Sivasagar,2016-10-06,6600.0,0.0,33.6,clear
+159,Green Gram (Moong),Sivasagar,2016-10-06,9700.0,0.0,33.6,clear
+160,Lentil(Masur),Sivasagar,2016-10-06,9050.0,0.0,33.6,clear
+161,Green Gram (Moong),Sivasagar,2016-09-02,9000.0,0.0,32.4,rain
+162,Lentil(Masur),Sivasagar,2016-09-02,8600.0,0.0,32.4,rain
+163,Green Gram (Moong),Sivasagar,2016-10-02,9000.0,0.0,34.4,clear
+164,Lentil(Masur),Sivasagar,2016-10-02,8600.0,0.0,34.4,clear
+165,Green Gram (Moong),Sivasagar,2016-11-02,9550.0,0.0,31.0,clear
+166,Lentil(Masur),Sivasagar,2016-11-02,8650.0,0.0,31.0,clear
+167,Green Gram (Moong),Sivasagar,2016-12-02,9450.0,0.0,27.2,clear
+168,Lentil(Masur),Sivasagar,2016-12-02,8600.0,0.0,27.2,clear
+169,Green Gram (Moong),Sivasagar,2016-02-29,9300.0,0.0,23.2,clear
+170,Lentil(Masur),Sivasagar,2016-02-29,8550.0,0.0,23.2,clear
+171,Green Gram (Moong),Sivasagar,2016-01-03,9300.0,0.0,25.0,clear
+172,Lentil(Masur),Sivasagar,2016-01-03,8750.0,0.0,25.0,clear
+173,Green Gram (Moong),Sivasagar,2016-03-03,9050.0,0.0,27.6,clear
+174,Lentil(Masur),Sivasagar,2016-03-03,8650.0,0.0,27.6,clear
+175,Green Gram (Moong),Sivasagar,2016-04-03,8800.0,0.0,30.2,clear
+176,Lentil(Masur),Sivasagar,2016-04-03,8650.0,0.0,30.2,clear
+177,Green Gram (Moong),Sivasagar,2016-08-04,9100.0,0.0,34.4,clear
+178,Lentil(Masur),Sivasagar,2016-08-04,8600.0,0.0,34.4,clear
+179,Green Gram (Moong),Sivasagar,2016-04-18,9100.0,0.0,23.8,clear
+180,Lentil(Masur),Sivasagar,2016-04-18,8675.0,0.0,23.8,clear
+181,Green Gram (Moong),Sivasagar,2016-04-25,9050.0,0.0,29.0,clear
+182,Lentil(Masur),Sivasagar,2016-04-25,9100.0,0.0,29.0,clear
+183,Green Gram (Moong),Sivasagar,2016-04-26,9150.0,0.0,28.8,clear
+184,Lentil(Masur),Sivasagar,2016-04-26,9200.0,0.0,28.8,clear
+185,Green Gram (Moong),Sivasagar,2016-04-27,9150.0,0.0,27.0,clear
+186,Lentil(Masur),Sivasagar,2016-04-27,9200.0,0.0,27.0,clear
+187,Green Gram (Moong),Sivasagar,2016-04-28,9150.0,0.0,27.8,clear
+188,Lentil(Masur),Sivasagar,2016-04-28,9200.0,0.0,27.8,clear
+189,Green Gram (Moong),Sivasagar,2016-04-30,9100.0,0.0,27.0,clear
+190,Lentil(Masur),Sivasagar,2016-04-30,9200.0,0.0,27.0,clear
+191,Green Gram (Moong),Sivasagar,2016-05-23,10250.0,0.0,31.8,clear
+192,Lentil(Masur),Sivasagar,2016-05-23,9950.0,0.0,31.8,clear
+193,Green Gram (Moong),Sivasagar,2016-05-24,10250.0,0.0,32.8,clear
+194,Lentil(Masur),Sivasagar,2016-05-24,9950.0,0.0,32.8,clear
+195,Green Gram (Moong),Sivasagar,2016-05-26,9100.0,0.0,31.4,clear
+196,Lentil(Masur),Sivasagar,2016-05-26,9950.0,0.0,31.4,clear
+197,Green Gram (Moong),Sivasagar,2016-06-14,9750.0,0.0,31.0,clear
+198,Lentil(Masur),Sivasagar,2016-06-14,9150.0,0.0,31.0,clear
+199,Green Gram (Moong),Sivasagar,2016-07-14,8500.0,0.0,30.8,rain
+200,Lentil(Masur),Sivasagar,2016-07-14,8900.0,0.0,30.8,rain
+201,Green Gram (Moong),Sivasagar,2016-07-15,8950.0,0.0,27.2,clear
+202,Lentil(Masur),Sivasagar,2016-07-15,8900.0,0.0,27.2,clear
+203,Green Gram (Moong),Sivasagar,2016-07-29,9650.0,0.0,30.2,clear
+204,Lentil(Masur),Sivasagar,2016-07-29,9300.0,0.0,30.2,clear
+205,Green Gram (Moong),Sivasagar,2016-07-30,9650.0,0.0,33.4,clear
+206,Lentil(Masur),Sivasagar,2016-07-30,9300.0,0.0,33.4,clear
+207,Lentil(Masur),Sivasagar,2016-01-18,9300.0,0.0,21.4,clear
+208,Lentil(Masur),Sivasagar,2016-01-22,9300.0,0.0,21.0,clear
+209,Lentil(Masur),Sivasagar,2016-01-24,9250.0,0.0,17.8,clear
+210,Lentil(Masur),Sivasagar,2016-08-02,8350.0,0.0,35.4,clear
+211,Lentil(Masur),Sivasagar,2016-04-29,9200.0,0.0,29.2,clear

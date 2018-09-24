@@ -1,0 +1,704 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Firozabad,2012-09-22,3920.0,1.0,33.6,clear
+1,Black Gram (Urd Beans),Firozabad,2012-09-22,5110.0,1.8,33.6,clear
+2,Arhar (Tur/Red Gram),Firozabad,2012-09-23,3910.0,1.5,32.8,clear
+3,Black Gram (Urd Beans),Firozabad,2012-09-23,5110.0,1.8,32.8,clear
+4,Arhar (Tur/Red Gram),Firozabad,2012-09-24,3900.0,1.8,32.6,clear
+5,Black Gram (Urd Beans),Firozabad,2012-09-24,5115.0,1.5,32.6,clear
+6,Arhar (Tur/Red Gram),Firozabad,2012-09-26,4400.0,1.5,32.2,clear
+7,Black Gram (Urd Beans),Firozabad,2012-09-26,5140.0,2.0,32.2,clear
+8,Arhar (Tur/Red Gram),Firozabad,2012-01-10,3980.0,1.2,14.1,clear
+9,Black Gram (Urd Beans),Firozabad,2012-01-10,5145.0,1.5,14.1,clear
+10,Arhar (Tur/Red Gram),Firozabad,2012-03-10,3970.0,1.5,24.8,clear
+11,Black Gram (Urd Beans),Firozabad,2012-03-10,5130.0,1.5,24.8,clear
+12,Arhar (Tur/Red Gram),Firozabad,2012-04-10,3900.0,1.7,39.4,clear
+13,Black Gram (Urd Beans),Firozabad,2012-04-10,4740.0,2.5,39.4,clear
+14,Arhar (Tur/Red Gram),Firozabad,2012-05-10,3800.0,2.0,40.8,rain
+15,Arhar (Tur/Red Gram),Firozabad,2012-06-10,3810.0,1.5,42.3,clear
+16,Arhar (Tur/Red Gram),Firozabad,2012-07-10,3860.0,1.2,30.2,rain
+17,Black Gram (Urd Beans),Firozabad,2012-07-10,4730.0,1.8,30.2,rain
+18,Arhar (Tur/Red Gram),Firozabad,2012-08-10,3900.0,1.0,28.3,clear
+19,Arhar (Tur/Red Gram),Firozabad,2012-10-10,3820.0,0.8,32.0,clear
+20,Arhar (Tur/Red Gram),Firozabad,2012-11-10,3810.0,1.0,28.7,clear
+21,Black Gram (Urd Beans),Firozabad,2012-11-10,4700.0,1.5,28.7,clear
+22,Arhar (Tur/Red Gram),Firozabad,2012-12-10,3820.0,1.5,13.6,clear
+23,Arhar (Tur/Red Gram),Firozabad,2012-10-13,3840.0,0.8,33.4,clear
+24,Black Gram (Urd Beans),Firozabad,2012-10-13,4710.0,1.2,33.4,clear
+25,Arhar (Tur/Red Gram),Firozabad,2012-10-14,3840.0,1.0,34.6,clear
+26,Arhar (Tur/Red Gram),Firozabad,2012-10-17,3830.0,1.3,31.7,clear
+27,Arhar (Tur/Red Gram),Firozabad,2012-10-18,3850.0,1.0,32.0,clear
+28,Arhar (Tur/Red Gram),Firozabad,2012-10-24,3850.0,1.5,27.5,clear
+29,Arhar (Tur/Red Gram),Firozabad,2012-10-25,3860.0,1.2,27.3,clear
+30,Arhar (Tur/Red Gram),Firozabad,2012-10-27,3840.0,1.5,28.7,clear
+31,Arhar (Tur/Red Gram),Firozabad,2012-01-11,3840.0,1.6,14.8,clear
+32,Arhar (Tur/Red Gram),Firozabad,2012-09-11,3825.0,2.5,32.8,clear
+33,Arhar (Tur/Red Gram),Firozabad,2012-10-11,3835.0,1.6,31.9,clear
+34,Arhar (Tur/Red Gram),Firozabad,2012-12-11,3820.0,2.6,23.7,clear
+35,Arhar (Tur/Red Gram),Firozabad,2012-11-14,3825.0,1.5,25.4,clear
+36,Arhar (Tur/Red Gram),Firozabad,2012-11-17,3840.0,2.0,19.6,clear
+37,Arhar (Tur/Red Gram),Firozabad,2012-11-18,3850.0,1.8,21.6,clear
+38,Arhar (Tur/Red Gram),Firozabad,2012-11-19,3840.0,2.0,25.8,clear
+39,Arhar (Tur/Red Gram),Firozabad,2012-11-21,3880.0,2.0,24.9,clear
+40,Arhar (Tur/Red Gram),Firozabad,2012-11-22,3890.0,1.8,24.3,clear
+41,Arhar (Tur/Red Gram),Firozabad,2012-11-23,3870.0,2.5,24.6,clear
+42,Arhar (Tur/Red Gram),Firozabad,2012-11-24,3880.0,2.0,24.8,clear
+43,Arhar (Tur/Red Gram),Firozabad,2012-11-25,3870.0,2.5,24.5,clear
+44,Arhar (Tur/Red Gram),Firozabad,2012-11-26,3880.0,2.0,23.3,clear
+45,Arhar (Tur/Red Gram),Firozabad,2012-11-28,3990.0,1.8,24.5,clear
+46,Arhar (Tur/Red Gram),Firozabad,2012-11-30,3900.0,2.0,21.2,clear
+47,Arhar (Tur/Red Gram),Firozabad,2012-02-12,3780.0,5.0,22.2,clear
+48,Arhar (Tur/Red Gram),Firozabad,2012-03-12,3770.0,6.0,26.6,clear
+49,Black Gram (Urd Beans),Firozabad,2012-03-12,5010.0,3.0,26.6,clear
+50,Arhar (Tur/Red Gram),Firozabad,2012-05-12,3780.0,5.0,38.9,clear
+51,Arhar (Tur/Red Gram),Firozabad,2012-06-12,3800.0,4.5,41.7,clear
+52,Arhar (Tur/Red Gram),Firozabad,2012-07-12,3770.0,5.0,32.5,clear
+53,Arhar (Tur/Red Gram),Firozabad,2012-08-12,3760.0,6.0,29.4,clear
+54,Arhar (Tur/Red Gram),Firozabad,2012-09-12,3730.0,6.5,33.0,clear
+55,Arhar (Tur/Red Gram),Firozabad,2012-10-12,3700.0,7.0,33.4,clear
+56,Arhar (Tur/Red Gram),Firozabad,2012-12-19,3700.0,5.0,21.1,clear
+57,Arhar (Tur/Red Gram),Firozabad,2012-12-20,3690.0,6.0,19.4,clear
+58,Arhar (Tur/Red Gram),Firozabad,2012-12-24,3710.0,4.0,9.9,clear
+59,Arhar (Tur/Red Gram),Firozabad,2012-12-31,3700.0,3.5,15.3,clear
+60,Bengal Gram(Gram),Firozabad,2012-09-08,4940.0,1.5,31.6,clear
+61,Black Gram (Urd Beans),Firozabad,2012-09-27,5150.0,2.5,32.0,clear
+62,Black Gram (Urd Beans),Firozabad,2012-09-29,5150.0,1.5,32.4,clear
+63,Black Gram (Urd Beans),Firozabad,2012-09-30,5140.0,1.8,32.8,clear
+64,Arhar (Tur/Red Gram),Firozabad,2013-05-01,3670.0,2.5,39.1,clear
+65,Arhar (Tur/Red Gram),Firozabad,2013-06-01,3660.0,3.0,34.9,clear
+66,Arhar (Tur/Red Gram),Firozabad,2013-07-01,3670.0,2.5,32.1,clear
+67,Arhar (Tur/Red Gram),Firozabad,2013-09-01,3660.0,3.0,31.4,clear
+68,Arhar (Tur/Red Gram),Firozabad,2013-12-01,3670.0,2.5,25.7,clear
+69,Arhar (Tur/Red Gram),Firozabad,2013-01-13,3640.0,3.0,21.5,clear
+70,Arhar (Tur/Red Gram),Firozabad,2013-01-16,3640.0,3.5,21.8,clear
+71,Arhar (Tur/Red Gram),Firozabad,2013-01-17,3650.0,3.0,22.4,clear
+72,Arhar (Tur/Red Gram),Firozabad,2013-01-18,3640.0,3.5,17.3,rain
+73,Black Gram (Urd Beans),Firozabad,2013-01-18,4780.0,3.0,17.3,rain
+74,Arhar (Tur/Red Gram),Firozabad,2013-01-19,3650.0,3.0,17.6,clear
+75,Arhar (Tur/Red Gram),Firozabad,2013-01-20,3660.0,2.5,16.9,clear
+76,Arhar (Tur/Red Gram),Firozabad,2013-01-21,3670.0,2.2,16.8,clear
+77,Arhar (Tur/Red Gram),Firozabad,2013-01-23,3640.0,3.0,16.3,clear
+78,Black Gram (Urd Beans),Firozabad,2013-01-23,4770.0,3.5,16.3,clear
+79,Arhar (Tur/Red Gram),Firozabad,2013-01-25,3650.0,3.2,18.9,clear
+80,Arhar (Tur/Red Gram),Firozabad,2013-01-27,3630.0,3.3,20.1,clear
+81,Arhar (Tur/Red Gram),Firozabad,2013-01-28,3650.0,2.5,21.0,clear
+82,Arhar (Tur/Red Gram),Firozabad,2013-01-30,3660.0,2.5,20.6,clear
+83,Arhar (Tur/Red Gram),Firozabad,2013-01-31,3670.0,2.0,20.6,clear
+84,Arhar (Tur/Red Gram),Firozabad,2013-01-02,3680.0,1.8,9.9,clear
+85,Black Gram (Urd Beans),Firozabad,2013-01-02,4750.0,3.0,9.9,clear
+86,Arhar (Tur/Red Gram),Firozabad,2013-02-02,3640.0,2.5,19.4,clear
+87,Arhar (Tur/Red Gram),Firozabad,2013-03-02,3620.0,3.0,26.3,clear
+88,Arhar (Tur/Red Gram),Firozabad,2013-04-02,3610.0,3.5,34.4,clear
+89,Black Gram (Urd Beans),Firozabad,2013-04-02,4760.0,2.5,34.4,clear
+90,Arhar (Tur/Red Gram),Firozabad,2013-06-02,3630.0,2.5,36.7,clear
+91,Arhar (Tur/Red Gram),Firozabad,2013-07-02,3660.0,2.0,31.8,rain
+92,Black Gram (Urd Beans),Firozabad,2013-07-02,4750.0,3.5,31.8,rain
+93,Arhar (Tur/Red Gram),Firozabad,2013-08-02,3560.0,1.8,32.6,clear
+94,Black Gram (Urd Beans),Firozabad,2013-08-02,4760.0,2.5,32.6,clear
+95,Arhar (Tur/Red Gram),Firozabad,2013-09-02,3670.0,1.5,33.0,clear
+96,Arhar (Tur/Red Gram),Firozabad,2013-10-02,3660.0,2.0,31.7,clear
+97,Arhar (Tur/Red Gram),Firozabad,2013-11-02,3680.0,1.5,27.5,clear
+98,Arhar (Tur/Red Gram),Firozabad,2013-02-13,3550.0,2.0,23.8,clear
+99,Black Gram (Urd Beans),Firozabad,2013-02-13,4530.0,3.5,23.8,clear
+100,Arhar (Tur/Red Gram),Firozabad,2013-02-14,3530.0,2.2,24.8,clear
+101,Black Gram (Urd Beans),Firozabad,2013-02-14,4500.0,4.0,24.8,clear
+102,Arhar (Tur/Red Gram),Firozabad,2013-02-17,3240.0,2.5,18.1,clear
+103,Black Gram (Urd Beans),Firozabad,2013-02-17,3860.0,1.8,18.1,clear
+104,Green Gram (Moong),Firozabad,2013-02-17,4760.0,1.2,18.1,clear
+105,Arhar (Tur/Red Gram),Firozabad,2013-02-18,3550.0,2.0,19.3,clear
+106,Black Gram (Urd Beans),Firozabad,2013-02-18,3830.0,2.0,19.3,clear
+107,Green Gram (Moong),Firozabad,2013-02-18,4800.0,1.0,19.3,clear
+108,Arhar (Tur/Red Gram),Firozabad,2013-02-20,3520.0,1.5,21.8,clear
+109,Black Gram (Urd Beans),Firozabad,2013-02-20,3820.0,1.2,21.8,clear
+110,Green Gram (Moong),Firozabad,2013-02-20,4830.0,1.4,21.8,clear
+111,Arhar (Tur/Red Gram),Firozabad,2013-02-21,3500.0,1.0,24.5,clear
+112,Black Gram (Urd Beans),Firozabad,2013-02-21,3810.0,1.5,24.5,clear
+113,Arhar (Tur/Red Gram),Firozabad,2013-02-22,3530.0,1.0,24.5,clear
+114,Black Gram (Urd Beans),Firozabad,2013-02-22,3820.0,1.2,24.5,clear
+115,Green Gram (Moong),Firozabad,2013-02-22,4810.0,2.0,24.5,clear
+116,Arhar (Tur/Red Gram),Firozabad,2013-02-23,3510.0,1.5,19.1,rain
+117,Black Gram (Urd Beans),Firozabad,2013-02-23,3810.0,1.5,19.1,rain
+118,Arhar (Tur/Red Gram),Firozabad,2013-02-25,3520.0,1.6,23.2,clear
+119,Black Gram (Urd Beans),Firozabad,2013-02-25,3830.0,1.0,23.2,clear
+120,Green Gram (Moong),Firozabad,2013-02-25,4830.0,1.6,23.2,clear
+121,Arhar (Tur/Red Gram),Firozabad,2013-02-27,3570.0,1.8,27.1,clear
+122,Black Gram (Urd Beans),Firozabad,2013-02-27,3830.0,1.5,27.1,clear
+123,Green Gram (Moong),Firozabad,2013-02-27,4840.0,1.7,27.1,clear
+124,Arhar (Tur/Red Gram),Firozabad,2013-02-28,3560.0,2.0,25.4,clear
+125,Black Gram (Urd Beans),Firozabad,2013-02-28,3840.0,1.2,25.4,clear
+126,Green Gram (Moong),Firozabad,2013-02-28,4960.0,1.5,25.4,clear
+127,Arhar (Tur/Red Gram),Firozabad,2013-02-03,3560.0,2.0,22.0,clear
+128,Black Gram (Urd Beans),Firozabad,2013-02-03,3840.0,1.1,22.0,clear
+129,Green Gram (Moong),Firozabad,2013-02-03,4970.0,1.5,22.0,clear
+130,Arhar (Tur/Red Gram),Firozabad,2013-03-03,3600.0,1.5,27.2,clear
+131,Black Gram (Urd Beans),Firozabad,2013-03-03,3830.0,1.2,27.2,clear
+132,Green Gram (Moong),Firozabad,2013-03-03,4960.0,1.6,27.2,clear
+133,Arhar (Tur/Red Gram),Firozabad,2013-04-03,3580.0,1.8,32.7,clear
+134,Black Gram (Urd Beans),Firozabad,2013-04-03,3840.0,0.8,32.7,clear
+135,Green Gram (Moong),Firozabad,2013-04-03,4970.0,1.2,32.7,clear
+136,Arhar (Tur/Red Gram),Firozabad,2013-11-03,3530.0,2.4,26.4,clear
+137,Black Gram (Urd Beans),Firozabad,2013-11-03,3830.0,1.3,26.4,clear
+138,Arhar (Tur/Red Gram),Firozabad,2013-03-13,3530.0,2.0,31.3,clear
+139,Black Gram (Urd Beans),Firozabad,2013-03-13,3820.0,1.0,31.3,clear
+140,Green Gram (Moong),Firozabad,2013-03-13,5030.0,1.5,31.3,clear
+141,Arhar (Tur/Red Gram),Firozabad,2013-03-14,3520.0,2.4,28.6,clear
+142,Black Gram (Urd Beans),Firozabad,2013-03-14,3840.0,0.8,28.6,clear
+143,Green Gram (Moong),Firozabad,2013-03-14,5050.0,1.2,28.6,clear
+144,Arhar (Tur/Red Gram),Firozabad,2013-03-16,3530.0,2.0,28.8,clear
+145,Black Gram (Urd Beans),Firozabad,2013-03-16,3840.0,1.0,28.8,clear
+146,Green Gram (Moong),Firozabad,2013-03-16,5030.0,1.5,28.8,clear
+147,Arhar (Tur/Red Gram),Firozabad,2013-03-17,3540.0,1.8,29.6,clear
+148,Black Gram (Urd Beans),Firozabad,2013-03-17,3830.0,1.2,29.6,clear
+149,Arhar (Tur/Red Gram),Firozabad,2013-03-18,3520.0,2.0,30.7,clear
+150,Black Gram (Urd Beans),Firozabad,2013-03-18,3820.0,1.3,30.7,clear
+151,Green Gram (Moong),Firozabad,2013-03-18,5050.0,1.0,30.7,clear
+152,Arhar (Tur/Red Gram),Firozabad,2013-03-21,3550.0,1.5,32.4,clear
+153,Black Gram (Urd Beans),Firozabad,2013-03-21,3830.0,1.2,32.4,clear
+154,Green Gram (Moong),Firozabad,2013-03-21,5040.0,1.0,32.4,clear
+155,Arhar (Tur/Red Gram),Firozabad,2013-03-22,3540.0,1.7,31.1,clear
+156,Black Gram (Urd Beans),Firozabad,2013-03-22,3840.0,1.1,31.1,clear
+157,Green Gram (Moong),Firozabad,2013-03-22,5030.0,1.3,31.1,clear
+158,Arhar (Tur/Red Gram),Firozabad,2013-03-23,3530.0,1.9,33.4,clear
+159,Black Gram (Urd Beans),Firozabad,2013-03-23,3830.0,1.3,33.4,clear
+160,Green Gram (Moong),Firozabad,2013-03-23,5040.0,1.2,33.4,clear
+161,Arhar (Tur/Red Gram),Firozabad,2013-03-24,3540.0,1.7,33.5,clear
+162,Black Gram (Urd Beans),Firozabad,2013-03-24,3820.0,1.5,33.5,clear
+163,Green Gram (Moong),Firozabad,2013-03-24,5050.0,1.1,33.5,clear
+164,Arhar (Tur/Red Gram),Firozabad,2013-03-31,3550.0,2.5,31.7,clear
+165,Black Gram (Urd Beans),Firozabad,2013-03-31,3820.0,1.4,31.7,clear
+166,Green Gram (Moong),Firozabad,2013-03-31,5110.0,1.0,31.7,clear
+167,Arhar (Tur/Red Gram),Firozabad,2013-03-04,3520.0,2.5,29.0,clear
+168,Black Gram (Urd Beans),Firozabad,2013-03-04,3820.0,1.2,29.0,clear
+169,Green Gram (Moong),Firozabad,2013-03-04,5120.0,1.2,29.0,clear
+170,Arhar (Tur/Red Gram),Firozabad,2013-04-04,3510.0,3.0,32.7,clear
+171,Black Gram (Urd Beans),Firozabad,2013-04-04,3840.0,1.0,32.7,clear
+172,Green Gram (Moong),Firozabad,2013-04-04,5170.0,1.0,32.7,clear
+173,Arhar (Tur/Red Gram),Firozabad,2013-05-04,3540.0,2.5,42.1,clear
+174,Black Gram (Urd Beans),Firozabad,2013-05-04,3850.0,0.9,42.1,clear
+175,Green Gram (Moong),Firozabad,2013-05-04,5190.0,0.8,42.1,clear
+176,Arhar (Tur/Red Gram),Firozabad,2013-06-04,3530.0,2.7,40.9,clear
+177,Black Gram (Urd Beans),Firozabad,2013-06-04,3840.0,1.4,40.9,clear
+178,Green Gram (Moong),Firozabad,2013-06-04,5180.0,1.4,40.9,clear
+179,Arhar (Tur/Red Gram),Firozabad,2013-07-04,3540.0,2.5,33.0,rain
+180,Black Gram (Urd Beans),Firozabad,2013-07-04,3830.0,1.5,33.0,rain
+181,Green Gram (Moong),Firozabad,2013-07-04,5170.0,1.6,33.0,rain
+182,Arhar (Tur/Red Gram),Firozabad,2013-08-04,3530.0,2.6,33.2,rain
+183,Black Gram (Urd Beans),Firozabad,2013-08-04,3840.0,1.4,33.2,rain
+184,Green Gram (Moong),Firozabad,2013-08-04,5160.0,1.5,33.2,rain
+185,Arhar (Tur/Red Gram),Firozabad,2013-04-17,3600.0,2.0,37.2,clear
+186,Black Gram (Urd Beans),Firozabad,2013-04-17,3840.0,1.5,37.2,clear
+187,Green Gram (Moong),Firozabad,2013-04-17,5210.0,1.8,37.2,clear
+188,Arhar (Tur/Red Gram),Firozabad,2013-04-18,3500.0,3.0,36.7,clear
+189,Black Gram (Urd Beans),Firozabad,2013-04-18,3960.0,1.2,36.7,clear
+190,Green Gram (Moong),Firozabad,2013-04-18,5240.0,1.5,36.7,clear
+191,Arhar (Tur/Red Gram),Firozabad,2013-04-19,3570.0,2.5,36.8,clear
+192,Black Gram (Urd Beans),Firozabad,2013-04-19,4010.0,1.0,36.8,clear
+193,Green Gram (Moong),Firozabad,2013-04-19,5250.0,1.3,36.8,clear
+194,Arhar (Tur/Red Gram),Firozabad,2013-04-20,3590.0,2.2,35.6,clear
+195,Green Gram (Moong),Firozabad,2013-04-20,5240.0,1.5,35.6,clear
+196,Arhar (Tur/Red Gram),Firozabad,2013-04-22,3610.0,1.8,31.7,clear
+197,Black Gram (Urd Beans),Firozabad,2013-04-22,4030.0,1.3,31.7,clear
+198,Green Gram (Moong),Firozabad,2013-04-22,5240.0,1.5,31.7,clear
+199,Arhar (Tur/Red Gram),Firozabad,2013-04-24,3620.0,2.0,37.2,clear
+200,Black Gram (Urd Beans),Firozabad,2013-04-24,4020.0,1.5,37.2,clear
+201,Green Gram (Moong),Firozabad,2013-04-24,5220.0,1.8,37.2,clear
+202,Arhar (Tur/Red Gram),Firozabad,2013-04-25,3900.0,1.7,38.1,clear
+203,Black Gram (Urd Beans),Firozabad,2013-04-25,4070.0,1.3,38.1,clear
+204,Green Gram (Moong),Firozabad,2013-04-25,5300.0,1.5,38.1,clear
+205,Arhar (Tur/Red Gram),Firozabad,2013-04-27,3960.0,2.0,38.3,clear
+206,Black Gram (Urd Beans),Firozabad,2013-04-27,4050.0,1.7,38.3,clear
+207,Green Gram (Moong),Firozabad,2013-04-27,5300.0,1.8,38.3,clear
+208,Arhar (Tur/Red Gram),Firozabad,2013-04-28,4010.0,1.8,37.2,clear
+209,Green Gram (Moong),Firozabad,2013-04-28,5330.0,1.5,37.2,clear
+210,Arhar (Tur/Red Gram),Firozabad,2013-04-29,4140.0,1.5,39.3,clear
+211,Arhar (Tur/Red Gram),Firozabad,2013-01-05,4140.0,1.6,7.9,clear
+212,Black Gram (Urd Beans),Firozabad,2013-01-05,4130.0,1.7,7.9,clear
+213,Green Gram (Moong),Firozabad,2013-01-05,5410.0,1.5,7.9,clear
+214,Arhar (Tur/Red Gram),Firozabad,2013-02-05,4130.0,1.7,19.2,rain
+215,Black Gram (Urd Beans),Firozabad,2013-02-05,4100.0,1.9,19.2,rain
+216,Green Gram (Moong),Firozabad,2013-02-05,5400.0,1.8,19.2,rain
+217,Arhar (Tur/Red Gram),Firozabad,2013-03-05,4140.0,1.6,28.7,clear
+218,Black Gram (Urd Beans),Firozabad,2013-03-05,3980.0,1.9,28.7,clear
+219,Green Gram (Moong),Firozabad,2013-03-05,5390.0,1.8,28.7,clear
+220,Arhar (Tur/Red Gram),Firozabad,2013-04-05,4120.0,2.5,33.5,clear
+221,Green Gram (Moong),Firozabad,2013-04-05,5370.0,2.2,33.5,clear
+222,Arhar (Tur/Red Gram),Firozabad,2013-10-05,4120.0,2.8,27.7,clear
+223,Black Gram (Urd Beans),Firozabad,2013-10-05,3935.0,2.6,27.7,clear
+224,Green Gram (Moong),Firozabad,2013-10-05,5370.0,1.5,27.7,clear
+225,Arhar (Tur/Red Gram),Firozabad,2013-11-05,4130.0,2.0,21.4,clear
+226,Black Gram (Urd Beans),Firozabad,2013-11-05,3940.0,2.2,21.4,clear
+227,Arhar (Tur/Red Gram),Firozabad,2013-12-05,4140.0,1.7,22.2,clear
+228,Green Gram (Moong),Firozabad,2013-12-05,5360.0,1.5,22.2,clear
+229,Arhar (Tur/Red Gram),Firozabad,2013-05-16,4120.0,1.6,41.4,clear
+230,Black Gram (Urd Beans),Firozabad,2013-05-16,3950.0,1.7,41.4,clear
+231,Green Gram (Moong),Firozabad,2013-05-16,5350.0,2.0,41.4,clear
+232,Arhar (Tur/Red Gram),Firozabad,2013-05-19,4120.0,1.5,44.2,clear
+233,Arhar (Tur/Red Gram),Firozabad,2013-05-20,4100.0,1.8,44.0,clear
+234,Black Gram (Urd Beans),Firozabad,2013-05-20,3930.0,1.5,44.0,clear
+235,Green Gram (Moong),Firozabad,2013-05-20,5420.0,1.6,44.0,clear
+236,Arhar (Tur/Red Gram),Firozabad,2013-01-06,4500.0,0.12,6.2,clear
+237,Bengal Gram(Gram),Firozabad,2013-01-06,3800.0,0.45,6.2,clear
+238,Arhar (Tur/Red Gram),Firozabad,2013-02-06,4510.0,0.11,19.9,clear
+239,Arhar (Tur/Red Gram),Firozabad,2013-05-06,4480.0,1.4,40.5,clear
+240,Arhar (Tur/Red Gram),Firozabad,2013-07-06,4480.0,1.4,33.4,clear
+241,Arhar (Tur/Red Gram),Firozabad,2013-08-06,4490.0,1.3,30.4,rain
+242,Arhar (Tur/Red Gram),Firozabad,2013-06-14,4400.0,1.5,38.4,clear
+243,Black Gram (Urd Beans),Firozabad,2013-06-14,3940.0,1.5,38.4,clear
+244,Green Gram (Moong),Firozabad,2013-06-14,5170.0,1.5,38.4,clear
+245,Arhar (Tur/Red Gram),Firozabad,2013-06-16,4420.0,1.4,31.0,rain
+246,Arhar (Tur/Red Gram),Firozabad,2013-06-17,4400.0,1.5,30.9,rain
+247,Arhar (Tur/Red Gram),Firozabad,2013-06-19,4430.0,1.4,32.4,clear
+248,Arhar (Tur/Red Gram),Firozabad,2013-06-20,4450.0,1.2,37.8,clear
+249,Arhar (Tur/Red Gram),Firozabad,2013-06-23,4460.0,1.5,38.4,clear
+250,Arhar (Tur/Red Gram),Firozabad,2013-06-24,4480.0,1.4,34.0,clear
+251,Arhar (Tur/Red Gram),Firozabad,2013-06-27,4480.0,1.4,32.5,clear
+252,Arhar (Tur/Red Gram),Firozabad,2013-11-07,4470.0,1.1,24.5,clear
+253,Arhar (Tur/Red Gram),Firozabad,2013-12-07,4500.0,1.0,23.2,clear
+254,Arhar (Tur/Red Gram),Firozabad,2013-07-20,4590.0,1.0,27.2,rain
+255,Arhar (Tur/Red Gram),Firozabad,2013-07-22,4580.0,1.0,32.6,clear
+256,Arhar (Tur/Red Gram),Firozabad,2013-07-26,4260.0,1.5,30.5,rain
+257,Green Gram (Moong),Firozabad,2013-07-26,5340.0,1.2,30.5,rain
+258,Arhar (Tur/Red Gram),Firozabad,2013-01-08,4080.0,1.4,15.7,clear
+259,Arhar (Tur/Red Gram),Firozabad,2013-02-08,4070.0,1.5,19.8,clear
+260,Black Gram (Urd Beans),Firozabad,2013-02-08,3780.0,1.2,19.8,clear
+261,Green Gram (Moong),Firozabad,2013-02-08,5280.0,1.2,19.8,clear
+262,Arhar (Tur/Red Gram),Firozabad,2013-03-08,4050.0,1.6,30.2,clear
+263,Black Gram (Urd Beans),Firozabad,2013-03-08,3860.0,1.1,30.2,clear
+264,Green Gram (Moong),Firozabad,2013-03-08,5260.0,1.3,30.2,clear
+265,Arhar (Tur/Red Gram),Firozabad,2013-04-08,4020.0,1.7,37.6,clear
+266,Green Gram (Moong),Firozabad,2013-04-08,5240.0,1.5,37.6,clear
+267,Arhar (Tur/Red Gram),Firozabad,2013-05-08,4000.0,1.8,41.8,clear
+268,Black Gram (Urd Beans),Firozabad,2013-05-08,4060.0,0.8,41.8,clear
+269,Green Gram (Moong),Firozabad,2013-05-08,5220.0,1.6,41.8,clear
+270,Arhar (Tur/Red Gram),Firozabad,2013-07-08,4000.0,1.4,31.1,rain
+271,Black Gram (Urd Beans),Firozabad,2013-07-08,4110.0,1.0,31.1,rain
+272,Green Gram (Moong),Firozabad,2013-07-08,5250.0,1.2,31.1,rain
+273,Arhar (Tur/Red Gram),Firozabad,2013-09-08,4020.0,1.1,33.8,clear
+274,Arhar (Tur/Red Gram),Firozabad,2013-10-08,4030.0,1.0,31.3,clear
+275,Arhar (Tur/Red Gram),Firozabad,2013-11-08,4020.0,1.1,24.7,clear
+276,Black Gram (Urd Beans),Firozabad,2013-11-08,4150.0,1.0,24.7,clear
+277,Arhar (Tur/Red Gram),Firozabad,2013-12-08,4060.0,1.0,23.6,clear
+278,Arhar (Tur/Red Gram),Firozabad,2013-08-14,4070.0,0.9,31.8,clear
+279,Black Gram (Urd Beans),Firozabad,2013-08-14,4150.0,1.0,31.8,clear
+280,Arhar (Tur/Red Gram),Firozabad,2013-08-26,4100.0,1.4,34.9,clear
+281,Arhar (Tur/Red Gram),Firozabad,2013-08-29,4130.0,1.2,29.6,clear
+282,Arhar (Tur/Red Gram),Firozabad,2013-07-09,4140.0,0.9,31.4,clear
+283,Arhar (Tur/Red Gram),Firozabad,2013-08-09,4130.0,1.2,26.2,clear
+284,Arhar (Tur/Red Gram),Firozabad,2013-09-16,4020.0,1.6,34.2,clear
+285,Arhar (Tur/Red Gram),Firozabad,2013-09-19,4060.0,1.4,34.6,clear
+286,Black Gram (Urd Beans),Firozabad,2013-09-19,4140.0,1.3,34.6,clear
+287,Green Gram (Moong),Firozabad,2013-09-19,5240.0,1.4,34.6,clear
+288,Arhar (Tur/Red Gram),Firozabad,2013-09-20,4070.0,1.2,29.8,clear
+289,Black Gram (Urd Beans),Firozabad,2013-09-20,4130.0,1.4,29.8,clear
+290,Green Gram (Moong),Firozabad,2013-09-20,5250.0,1.2,29.8,clear
+291,Arhar (Tur/Red Gram),Firozabad,2013-09-23,4060.0,1.3,33.1,clear
+292,Arhar (Tur/Red Gram),Firozabad,2013-10-27,4070.0,1.7,28.7,clear
+293,Arhar (Tur/Red Gram),Firozabad,2013-10-28,4065.0,2.0,28.9,clear
+294,Bengal Gram(Gram),Firozabad,2013-10-28,3650.0,3.0,28.9,clear
+295,Arhar (Tur/Red Gram),Firozabad,2013-01-11,4040.0,2.5,19.7,clear
+296,Arhar (Tur/Red Gram),Firozabad,2013-07-12,4060.0,2.0,33.8,clear
+297,Arhar (Tur/Red Gram),Firozabad,2013-12-12,4080.0,1.6,22.6,clear
+298,Arhar (Tur/Red Gram),Firozabad,2013-12-14,4080.0,1.8,22.1,clear
+299,Arhar (Tur/Red Gram),Firozabad,2013-12-18,4060.0,2.5,21.5,clear
+300,Arhar (Tur/Red Gram),Firozabad,2013-12-20,4065.0,2.5,18.4,clear
+301,Arhar (Tur/Red Gram),Firozabad,2013-12-21,4000.0,3.0,15.4,clear
+302,Arhar (Tur/Red Gram),Firozabad,2013-12-22,4020.0,2.5,17.0,clear
+303,Arhar (Tur/Red Gram),Firozabad,2013-12-23,4000.0,2.8,13.3,clear
+304,Arhar (Tur/Red Gram),Firozabad,2013-12-25,4020.0,2.5,18.9,clear
+305,Arhar (Tur/Red Gram),Firozabad,2013-12-28,4030.0,2.2,18.3,clear
+306,Arhar (Tur/Red Gram),Firozabad,2013-12-29,4040.0,1.8,16.4,clear
+307,Arhar (Tur/Red Gram),Firozabad,2013-12-30,4030.0,2.0,15.6,rain
+308,Bengal Gram(Gram),Firozabad,2013-05-22,3830.0,3.5,44.2,clear
+309,Bengal Gram(Gram),Firozabad,2013-05-23,3820.0,5.0,45.0,clear
+310,Bengal Gram(Gram),Firozabad,2013-03-06,3800.0,0.45,29.0,clear
+311,Bengal Gram(Gram),Firozabad,2013-04-06,3800.0,0.45,35.3,clear
+312,Bengal Gram(Gram),Firozabad,2013-09-06,3880.0,2.5,32.9,clear
+313,Bengal Gram(Gram),Firozabad,2013-10-06,3890.0,2.4,29.7,clear
+314,Bengal Gram(Gram),Firozabad,2013-10-24,3600.0,4.0,30.0,clear
+315,Bengal Gram(Gram),Firozabad,2013-10-25,3630.0,3.0,29.7,clear
+316,Bengal Gram(Gram),Firozabad,2013-10-31,2620.0,0.4,31.4,clear
+317,Black Gram (Urd Beans),Firozabad,2013-10-01,4830.0,4.0,30.3,clear
+318,Black Gram (Urd Beans),Firozabad,2013-02-16,3900.0,15.0,15.5,rain
+319,Green Gram (Moong),Firozabad,2013-02-16,4750.0,15.0,15.5,rain
+320,Black Gram (Urd Beans),Firozabad,2013-01-03,3830.0,1.3,11.6,clear
+321,Green Gram (Moong),Firozabad,2013-01-03,4950.0,1.7,11.6,clear
+322,Black Gram (Urd Beans),Firozabad,2013-08-03,3830.0,1.0,33.8,clear
+323,Green Gram (Moong),Firozabad,2013-08-03,5020.0,1.2,33.8,clear
+324,Black Gram (Urd Beans),Firozabad,2013-09-03,3820.0,1.2,33.0,clear
+325,Green Gram (Moong),Firozabad,2013-09-03,5030.0,1.0,33.0,clear
+326,Black Gram (Urd Beans),Firozabad,2013-10-03,3840.0,1.0,27.6,clear
+327,Green Gram (Moong),Firozabad,2013-10-03,5020.0,1.4,27.6,clear
+328,Black Gram (Urd Beans),Firozabad,2013-03-20,3840.0,1.1,33.6,clear
+329,Green Gram (Moong),Firozabad,2013-03-20,5030.0,1.2,33.6,clear
+330,Black Gram (Urd Beans),Firozabad,2013-03-25,3830.0,1.3,30.2,clear
+331,Green Gram (Moong),Firozabad,2013-03-25,5040.0,1.4,30.2,clear
+332,Black Gram (Urd Beans),Firozabad,2013-03-28,3830.0,1.4,30.2,clear
+333,Green Gram (Moong),Firozabad,2013-03-28,5040.0,1.5,30.2,clear
+334,Black Gram (Urd Beans),Firozabad,2013-03-29,3820.0,1.5,30.7,rain
+335,Green Gram (Moong),Firozabad,2013-03-29,5050.0,1.2,30.7,rain
+336,Black Gram (Urd Beans),Firozabad,2013-03-30,3840.0,1.2,29.3,clear
+337,Green Gram (Moong),Firozabad,2013-03-30,5040.0,1.3,29.3,clear
+338,Black Gram (Urd Beans),Firozabad,2013-07-14,3780.0,0.8,32.9,rain
+339,Black Gram (Urd Beans),Firozabad,2013-07-17,3770.0,1.0,33.3,rain
+340,Black Gram (Urd Beans),Firozabad,2013-08-19,4160.0,1.3,28.4,rain
+341,Black Gram (Urd Beans),Firozabad,2013-08-23,4150.0,1.6,33.1,clear
+342,Green Gram (Moong),Firozabad,2013-08-23,5230.0,1.4,33.1,clear
+343,Green Gram (Moong),Firozabad,2013-06-03,5010.0,1.2,37.3,clear
+344,Green Gram (Moong),Firozabad,2013-07-03,5000.0,1.5,31.4,rain
+345,Green Gram (Moong),Firozabad,2013-01-04,5100.0,1.4,11.9,clear
+346,Green Gram (Moong),Firozabad,2013-11-04,5230.0,1.1,27.2,clear
+347,Green Gram (Moong),Firozabad,2013-04-13,5230.0,1.4,36.7,clear
+348,Green Gram (Moong),Firozabad,2013-04-14,5220.0,1.5,34.0,rain
+349,Green Gram (Moong),Firozabad,2013-04-21,5230.0,1.8,32.1,clear
+350,Green Gram (Moong),Firozabad,2013-04-26,5310.0,1.4,38.2,clear
+351,Green Gram (Moong),Firozabad,2013-05-13,5350.0,1.8,36.9,clear
+352,Green Gram (Moong),Firozabad,2013-08-18,5200.0,1.6,30.4,clear
+353,Green Gram (Moong),Firozabad,2013-12-16,5230.0,2.5,18.1,clear
+354,Arhar (Tur/Red Gram),Firozabad,2014-10-01,4030.0,2.0,35.7,clear
+355,Green Gram (Moong),Firozabad,2014-10-01,5230.0,1.8,35.7,clear
+356,Arhar (Tur/Red Gram),Firozabad,2014-11-01,4040.0,1.6,28.6,clear
+357,Arhar (Tur/Red Gram),Firozabad,2014-01-16,4010.0,2.0,13.1,clear
+358,Arhar (Tur/Red Gram),Firozabad,2014-01-18,4010.0,2.0,14.3,clear
+359,Arhar (Tur/Red Gram),Firozabad,2014-01-19,4040.0,1.8,15.6,clear
+360,Arhar (Tur/Red Gram),Firozabad,2014-01-20,4030.0,2.0,17.0,clear
+361,Arhar (Tur/Red Gram),Firozabad,2014-01-23,4030.0,2.0,17.6,clear
+362,Arhar (Tur/Red Gram),Firozabad,2014-01-24,4010.0,2.2,16.4,clear
+363,Arhar (Tur/Red Gram),Firozabad,2014-01-25,4020.0,2.0,14.5,clear
+364,Arhar (Tur/Red Gram),Firozabad,2014-01-26,4000.0,2.4,17.6,clear
+365,Arhar (Tur/Red Gram),Firozabad,2014-01-27,4010.0,2.0,20.3,clear
+366,Arhar (Tur/Red Gram),Firozabad,2014-01-31,4020.0,1.4,13.8,clear
+367,Arhar (Tur/Red Gram),Firozabad,2014-02-02,4140.0,1.6,18.2,clear
+368,Arhar (Tur/Red Gram),Firozabad,2014-03-02,4150.0,1.2,20.7,clear
+369,Arhar (Tur/Red Gram),Firozabad,2014-05-02,4060.0,2.0,34.2,rain
+370,Arhar (Tur/Red Gram),Firozabad,2014-02-14,4030.0,2.5,19.9,clear
+371,Arhar (Tur/Red Gram),Firozabad,2014-02-21,4090.0,1.0,16.8,rain
+372,Black Gram (Urd Beans),Firozabad,2014-02-21,4375.0,1.2,16.8,rain
+373,Green Gram (Moong),Firozabad,2014-02-21,6150.0,1.0,16.8,rain
+374,Arhar (Tur/Red Gram),Firozabad,2014-07-03,4240.0,1.5,32.5,clear
+375,Green Gram (Moong),Firozabad,2014-07-03,6270.0,1.0,32.5,clear
+376,Arhar (Tur/Red Gram),Firozabad,2014-08-03,4230.0,1.6,33.1,rain
+377,Arhar (Tur/Red Gram),Firozabad,2014-09-03,4240.0,1.4,27.8,rain
+378,Arhar (Tur/Red Gram),Firozabad,2014-10-03,4230.0,1.5,35.6,clear
+379,Arhar (Tur/Red Gram),Firozabad,2014-12-03,4220.0,1.6,35.6,clear
+380,Arhar (Tur/Red Gram),Firozabad,2014-03-14,4280.0,2.0,26.1,clear
+381,Arhar (Tur/Red Gram),Firozabad,2014-03-20,4290.0,1.5,30.5,clear
+382,Arhar (Tur/Red Gram),Firozabad,2014-03-21,4380.0,1.8,32.3,clear
+383,Arhar (Tur/Red Gram),Firozabad,2014-03-26,4410.0,1.5,30.4,clear
+384,Arhar (Tur/Red Gram),Firozabad,2014-03-27,4420.0,1.3,28.3,clear
+385,Arhar (Tur/Red Gram),Firozabad,2014-03-28,4410.0,1.4,32.3,clear
+386,Arhar (Tur/Red Gram),Firozabad,2014-04-04,4350.0,1.2,33.5,clear
+387,Arhar (Tur/Red Gram),Firozabad,2014-04-18,4400.0,1.9,27.6,clear
+388,Black Gram (Urd Beans),Firozabad,2014-04-18,4260.0,1.0,27.6,clear
+389,Green Gram (Moong),Firozabad,2014-04-18,6670.0,1.2,27.6,clear
+390,Arhar (Tur/Red Gram),Firozabad,2014-04-19,4410.0,1.4,21.9,rain
+391,Green Gram (Moong),Firozabad,2014-04-19,6680.0,1.0,21.9,rain
+392,Arhar (Tur/Red Gram),Firozabad,2014-01-05,4270.0,1.3,13.4,clear
+393,Arhar (Tur/Red Gram),Firozabad,2014-02-05,4380.0,1.0,22.3,clear
+394,Arhar (Tur/Red Gram),Firozabad,2014-11-05,4400.0,1.2,29.9,clear
+395,Arhar (Tur/Red Gram),Firozabad,2014-12-05,4410.0,1.0,30.8,clear
+396,Arhar (Tur/Red Gram),Firozabad,2014-05-17,4450.0,1.0,37.7,clear
+397,Arhar (Tur/Red Gram),Firozabad,2014-05-25,4510.0,1.1,39.1,clear
+398,Arhar (Tur/Red Gram),Firozabad,2014-05-26,4530.0,1.0,37.8,clear
+399,Arhar (Tur/Red Gram),Firozabad,2014-05-28,4460.0,1.2,42.3,clear
+400,Arhar (Tur/Red Gram),Firozabad,2014-05-30,4460.0,1.2,44.1,clear
+401,Green Gram (Moong),Firozabad,2014-05-30,7240.0,1.0,44.1,clear
+402,Arhar (Tur/Red Gram),Firozabad,2014-05-31,4470.0,1.0,40.2,clear
+403,Arhar (Tur/Red Gram),Firozabad,2014-01-06,3240.0,1.0,13.8,clear
+404,Arhar (Tur/Red Gram),Firozabad,2014-02-06,4470.0,1.2,23.5,clear
+405,Arhar (Tur/Red Gram),Firozabad,2014-04-06,4470.0,1.0,37.3,clear
+406,Arhar (Tur/Red Gram),Firozabad,2014-06-06,4450.0,1.2,44.9,clear
+407,Arhar (Tur/Red Gram),Firozabad,2014-07-06,4460.0,1.1,37.1,clear
+408,Arhar (Tur/Red Gram),Firozabad,2014-09-06,4460.0,1.1,30.7,clear
+409,Arhar (Tur/Red Gram),Firozabad,2014-12-06,4470.0,1.0,30.7,clear
+410,Arhar (Tur/Red Gram),Firozabad,2014-06-13,4460.0,1.2,38.1,clear
+411,Arhar (Tur/Red Gram),Firozabad,2014-06-14,4450.0,1.3,35.8,clear
+412,Arhar (Tur/Red Gram),Firozabad,2014-06-16,4470.0,1.1,40.0,clear
+413,Arhar (Tur/Red Gram),Firozabad,2014-06-18,4460.0,1.2,39.0,clear
+414,Arhar (Tur/Red Gram),Firozabad,2014-06-19,4470.0,1.0,39.8,clear
+415,Arhar (Tur/Red Gram),Firozabad,2014-06-20,4460.0,1.2,41.1,clear
+416,Arhar (Tur/Red Gram),Firozabad,2014-06-21,4470.0,1.0,42.3,clear
+417,Arhar (Tur/Red Gram),Firozabad,2014-06-22,4480.0,1.0,40.7,clear
+418,Arhar (Tur/Red Gram),Firozabad,2014-06-23,4470.0,1.2,37.7,clear
+419,Arhar (Tur/Red Gram),Firozabad,2014-06-26,4520.0,1.0,38.0,rain
+420,Arhar (Tur/Red Gram),Firozabad,2014-06-27,4530.0,1.0,38.3,clear
+421,Arhar (Tur/Red Gram),Firozabad,2014-06-28,4540.0,1.1,37.9,clear
+422,Arhar (Tur/Red Gram),Firozabad,2014-02-07,4520.0,1.2,24.6,clear
+423,Arhar (Tur/Red Gram),Firozabad,2014-04-07,4530.0,1.0,35.5,clear
+424,Arhar (Tur/Red Gram),Firozabad,2014-06-07,4540.0,1.1,45.0,clear
+425,Arhar (Tur/Red Gram),Firozabad,2014-09-07,4560.0,1.0,32.0,rain
+426,Arhar (Tur/Red Gram),Firozabad,2014-12-07,4550.0,1.3,32.0,rain
+427,Black Gram (Urd Beans),Firozabad,2014-12-07,5040.0,1.3,32.0,rain
+428,Arhar (Tur/Red Gram),Firozabad,2014-07-13,4580.0,1.2,34.7,rain
+429,Arhar (Tur/Red Gram),Firozabad,2014-07-14,4600.0,1.0,32.7,clear
+430,Arhar (Tur/Red Gram),Firozabad,2014-07-16,4580.0,1.8,36.7,clear
+431,Green Gram (Moong),Firozabad,2014-07-16,5610.0,2.8,36.7,clear
+432,Arhar (Tur/Red Gram),Firozabad,2014-07-17,4570.0,1.9,35.2,rain
+433,Green Gram (Moong),Firozabad,2014-07-17,5600.0,3.0,35.2,rain
+434,Arhar (Tur/Red Gram),Firozabad,2014-07-18,4580.0,1.4,30.0,clear
+435,Green Gram (Moong),Firozabad,2014-07-18,5950.0,2.5,30.0,clear
+436,Arhar (Tur/Red Gram),Firozabad,2014-07-20,4620.0,1.1,33.0,clear
+437,Arhar (Tur/Red Gram),Firozabad,2014-07-21,4630.0,1.0,32.8,clear
+438,Green Gram (Moong),Firozabad,2014-07-21,6120.0,1.7,32.8,clear
+439,Arhar (Tur/Red Gram),Firozabad,2014-07-23,4640.0,1.2,32.3,clear
+440,Green Gram (Moong),Firozabad,2014-07-23,6130.0,1.6,32.3,clear
+441,Arhar (Tur/Red Gram),Firozabad,2014-07-24,4635.0,1.3,29.6,clear
+442,Arhar (Tur/Red Gram),Shikohabad,2014-07-24,6780.0,0.0,29.6,clear
+443,Black Gram (Urd Beans),Shikohabad,2014-07-24,5850.0,0.0,29.6,clear
+444,Green Gram (Moong),Firozabad,2014-07-24,6160.0,1.5,29.6,clear
+445,Arhar (Tur/Red Gram),Firozabad,2014-07-25,4640.0,1.2,32.6,clear
+446,Green Gram (Moong),Firozabad,2014-07-25,6180.0,1.4,32.6,clear
+447,Arhar (Tur/Red Gram),Firozabad,2014-07-26,4630.0,1.5,34.1,clear
+448,Arhar (Tur/Red Gram),Shikohabad,2014-07-26,6790.0,0.0,34.1,clear
+449,Black Gram (Urd Beans),Shikohabad,2014-07-26,5860.0,0.0,34.1,clear
+450,Green Gram (Moong),Firozabad,2014-07-26,6200.0,1.3,34.1,clear
+451,Arhar (Tur/Red Gram),Firozabad,2014-07-27,4640.0,1.4,35.3,clear
+452,Black Gram (Urd Beans),Shikohabad,2014-07-27,5830.0,0.0,35.3,clear
+453,Green Gram (Moong),Firozabad,2014-07-27,6210.0,1.0,35.3,clear
+454,Arhar (Tur/Red Gram),Firozabad,2014-07-28,4650.0,1.0,31.8,rain
+455,Arhar (Tur/Red Gram),Shikohabad,2014-07-28,6770.0,0.0,31.8,rain
+456,Black Gram (Urd Beans),Shikohabad,2014-07-28,5800.0,0.0,31.8,rain
+457,Arhar (Tur/Red Gram),Firozabad,2014-07-31,4620.0,1.6,33.7,clear
+458,Arhar (Tur/Red Gram),Firozabad,2014-01-08,4230.0,1.5,17.1,clear
+459,Arhar (Tur/Red Gram),Shikohabad,2014-01-08,5910.0,0.0,17.1,clear
+460,Black Gram (Urd Beans),Shikohabad,2014-01-08,5910.0,0.0,17.1,clear
+461,Arhar (Tur/Red Gram),Firozabad,2014-02-08,4240.0,1.4,20.0,clear
+462,Arhar (Tur/Red Gram),Shikohabad,2014-02-08,6840.0,0.0,20.0,clear
+463,Black Gram (Urd Beans),Shikohabad,2014-02-08,5900.0,0.0,20.0,clear
+464,Arhar (Tur/Red Gram),Firozabad,2014-03-08,4250.0,1.3,26.0,clear
+465,Arhar (Tur/Red Gram),Shikohabad,2014-03-08,6860.0,0.0,26.0,clear
+466,Black Gram (Urd Beans),Shikohabad,2014-03-08,5900.0,0.0,26.0,clear
+467,Arhar (Tur/Red Gram),Firozabad,2014-04-08,4240.0,1.4,32.5,clear
+468,Black Gram (Urd Beans),Shikohabad,2014-04-08,5920.0,0.0,32.5,clear
+469,Arhar (Tur/Red Gram),Firozabad,2014-06-08,4230.0,1.5,45.0,clear
+470,Arhar (Tur/Red Gram),Firozabad,2014-07-08,4240.0,1.2,40.4,clear
+471,Arhar (Tur/Red Gram),Shikohabad,2014-07-08,6950.0,0.0,40.4,clear
+472,Black Gram (Urd Beans),Shikohabad,2014-07-08,6020.0,0.0,40.4,clear
+473,Arhar (Tur/Red Gram),Firozabad,2014-08-08,4250.0,1.0,29.1,rain
+474,Arhar (Tur/Red Gram),Shikohabad,2014-08-08,6950.0,0.0,29.1,rain
+475,Black Gram (Urd Beans),Shikohabad,2014-08-08,6025.0,0.0,29.1,rain
+476,Arhar (Tur/Red Gram),Firozabad,2014-09-08,4260.0,1.0,32.8,clear
+477,Arhar (Tur/Red Gram),Shikohabad,2014-09-08,6950.0,0.0,32.8,clear
+478,Arhar (Tur/Red Gram),Firozabad,2014-11-08,4240.0,1.0,31.4,clear
+479,Arhar (Tur/Red Gram),Firozabad,2014-08-13,4250.0,1.0,30.7,clear
+480,Green Gram (Moong),Firozabad,2014-08-13,6350.0,1.0,30.7,clear
+481,Arhar (Tur/Red Gram),Firozabad,2014-08-14,4240.0,1.2,31.3,clear
+482,Arhar (Tur/Red Gram),Shikohabad,2014-08-14,7050.0,0.0,31.3,clear
+483,Black Gram (Urd Beans),Shikohabad,2014-08-14,6210.0,0.0,31.3,clear
+484,Green Gram (Moong),Firozabad,2014-08-14,6340.0,1.2,31.3,clear
+485,Arhar (Tur/Red Gram),Firozabad,2014-08-17,4240.0,1.2,33.5,clear
+486,Arhar (Tur/Red Gram),Shikohabad,2014-08-17,6235.0,0.0,33.5,clear
+487,Black Gram (Urd Beans),Shikohabad,2014-08-17,6235.0,0.0,33.5,clear
+488,Green Gram (Moong),Firozabad,2014-08-17,6300.0,1.8,33.5,clear
+489,Arhar (Tur/Red Gram),Firozabad,2014-08-18,4250.0,1.0,34.4,clear
+490,Arhar (Tur/Red Gram),Firozabad,2014-08-21,4250.0,1.2,34.8,clear
+491,Arhar (Tur/Red Gram),Shikohabad,2014-08-21,6250.0,0.0,34.8,clear
+492,Black Gram (Urd Beans),Shikohabad,2014-08-21,6265.0,0.0,34.8,clear
+493,Green Gram (Moong),Firozabad,2014-08-21,6340.0,1.2,34.8,clear
+494,Arhar (Tur/Red Gram),Firozabad,2014-08-27,4480.0,0.0,38.6,clear
+495,Arhar (Tur/Red Gram),Firozabad,2014-08-28,4500.0,0.0,36.8,rain
+496,Arhar (Tur/Red Gram),Shikohabad,2014-08-28,7100.0,0.0,36.8,rain
+497,Arhar (Tur/Red Gram),Firozabad,2014-08-29,4540.0,0.0,33.5,clear
+498,Arhar (Tur/Red Gram),Shikohabad,2014-08-29,7140.0,0.0,33.5,clear
+499,Black Gram (Urd Beans),Shikohabad,2014-08-29,6260.0,0.0,33.5,clear
+500,Arhar (Tur/Red Gram),Firozabad,2014-08-30,4520.0,0.0,34.4,clear
+501,Arhar (Tur/Red Gram),Shikohabad,2014-08-30,6250.0,0.0,34.4,clear
+502,Black Gram (Urd Beans),Shikohabad,2014-08-30,6250.0,0.0,34.4,clear
+503,Arhar (Tur/Red Gram),Firozabad,2014-08-31,4500.0,1.0,34.4,clear
+504,Arhar (Tur/Red Gram),Firozabad,2014-01-09,4540.0,0.0,15.0,clear
+505,Arhar (Tur/Red Gram),Shikohabad,2014-01-09,7100.0,0.0,15.0,clear
+506,Black Gram (Urd Beans),Shikohabad,2014-01-09,6250.0,0.0,15.0,clear
+507,Arhar (Tur/Red Gram),Firozabad,2014-03-09,4520.0,1.0,28.4,clear
+508,Green Gram (Moong),Firozabad,2014-03-09,6300.0,1.4,28.4,clear
+509,Arhar (Tur/Red Gram),Firozabad,2014-04-09,4530.0,0.0,33.0,clear
+510,Arhar (Tur/Red Gram),Shikohabad,2014-04-09,7500.0,0.0,33.0,clear
+511,Black Gram (Urd Beans),Shikohabad,2014-04-09,6400.0,0.0,33.0,clear
+512,Green Gram (Moong),Firozabad,2014-04-09,6340.0,1.2,33.0,clear
+513,Arhar (Tur/Red Gram),Firozabad,2014-05-09,4510.0,1.0,39.7,clear
+514,Arhar (Tur/Red Gram),Shikohabad,2014-05-09,7525.0,0.0,39.7,clear
+515,Black Gram (Urd Beans),Shikohabad,2014-05-09,6430.0,0.0,39.7,clear
+516,Arhar (Tur/Red Gram),Firozabad,2014-06-09,4520.0,0.0,43.8,clear
+517,Arhar (Tur/Red Gram),Shikohabad,2014-06-09,7540.0,0.0,43.8,clear
+518,Black Gram (Urd Beans),Shikohabad,2014-06-09,6430.0,0.0,43.8,clear
+519,Green Gram (Moong),Firozabad,2014-06-09,6370.0,1.0,43.8,clear
+520,Arhar (Tur/Red Gram),Firozabad,2014-07-09,4550.0,0.0,41.2,clear
+521,Arhar (Tur/Red Gram),Firozabad,2014-08-09,4540.0,1.0,30.9,clear
+522,Arhar (Tur/Red Gram),Firozabad,2014-10-09,4520.0,1.5,33.1,clear
+523,Arhar (Tur/Red Gram),Firozabad,2014-11-09,4560.0,1.2,30.2,clear
+524,Arhar (Tur/Red Gram),Shikohabad,2014-11-09,7500.0,0.0,30.2,clear
+525,Black Gram (Urd Beans),Shikohabad,2014-11-09,6500.0,0.0,30.2,clear
+526,Arhar (Tur/Red Gram),Firozabad,2014-12-09,4570.0,1.0,33.6,clear
+527,Arhar (Tur/Red Gram),Shikohabad,2014-12-09,6475.0,0.0,33.6,clear
+528,Black Gram (Urd Beans),Shikohabad,2014-12-09,6475.0,0.0,33.6,clear
+529,Arhar (Tur/Red Gram),Firozabad,2014-09-17,5030.0,1.0,34.2,clear
+530,Arhar (Tur/Red Gram),Firozabad,2014-09-18,5040.0,0.0,34.9,clear
+531,Arhar (Tur/Red Gram),Shikohabad,2014-09-18,6850.0,0.0,34.9,clear
+532,Black Gram (Urd Beans),Shikohabad,2014-09-18,6500.0,0.0,34.9,clear
+533,Arhar (Tur/Red Gram),Firozabad,2014-09-19,5050.0,0.0,34.7,clear
+534,Green Gram (Moong),Firozabad,2014-09-19,6340.0,1.0,34.7,clear
+535,Arhar (Tur/Red Gram),Firozabad,2014-09-20,5040.0,1.0,34.4,clear
+536,Arhar (Tur/Red Gram),Firozabad,2014-09-21,5050.0,0.0,34.6,clear
+537,Arhar (Tur/Red Gram),Firozabad,2014-09-22,5040.0,1.0,35.1,clear
+538,Arhar (Tur/Red Gram),Shikohabad,2014-09-22,6700.0,0.0,35.1,clear
+539,Black Gram (Urd Beans),Shikohabad,2014-09-22,6460.0,0.0,35.1,clear
+540,Arhar (Tur/Red Gram),Firozabad,2014-09-24,5050.0,0.0,35.4,clear
+541,Arhar (Tur/Red Gram),Firozabad,2014-09-25,5060.0,0.0,34.2,clear
+542,Arhar (Tur/Red Gram),Firozabad,2014-09-26,5050.0,1.0,35.2,clear
+543,Arhar (Tur/Red Gram),Shikohabad,2014-09-26,6775.0,0.0,35.2,clear
+544,Arhar (Tur/Red Gram),Firozabad,2014-09-28,5050.0,1.2,35.4,clear
+545,Arhar (Tur/Red Gram),Firozabad,2014-01-10,5030.0,1.5,11.6,clear
+546,Arhar (Tur/Red Gram),Firozabad,2014-03-10,5040.0,1.3,25.3,clear
+547,Arhar (Tur/Red Gram),Firozabad,2014-04-10,5030.0,1.4,34.5,clear
+548,Arhar (Tur/Red Gram),Firozabad,2014-05-10,5050.0,1.0,39.3,clear
+549,Arhar (Tur/Red Gram),Firozabad,2014-06-10,5040.0,1.4,44.7,clear
+550,Arhar (Tur/Red Gram),Firozabad,2014-08-10,5060.0,1.2,32.1,rain
+551,Arhar (Tur/Red Gram),Firozabad,2014-12-10,5070.0,1.0,34.0,clear
+552,Arhar (Tur/Red Gram),Shikohabad,2014-12-10,6735.0,0.0,34.0,clear
+553,Arhar (Tur/Red Gram),Firozabad,2014-10-16,5020.0,1.2,29.3,clear
+554,Arhar (Tur/Red Gram),Firozabad,2014-10-20,4860.0,1.5,31.6,clear
+555,Arhar (Tur/Red Gram),Firozabad,2014-10-30,4860.0,1.2,31.1,clear
+556,Arhar (Tur/Red Gram),Firozabad,2014-03-11,4960.0,1.0,27.1,clear
+557,Arhar (Tur/Red Gram),Firozabad,2014-05-11,4950.0,1.2,37.2,clear
+558,Arhar (Tur/Red Gram),Firozabad,2014-11-20,5040.0,1.3,26.6,clear
+559,Arhar (Tur/Red Gram),Firozabad,2014-11-21,5030.0,1.4,26.5,clear
+560,Arhar (Tur/Red Gram),Firozabad,2014-11-22,5020.0,1.8,25.6,clear
+561,Green Gram (Moong),Firozabad,2014-11-22,6640.0,1.3,25.6,clear
+562,Arhar (Tur/Red Gram),Firozabad,2014-11-24,5040.0,15.0,24.1,clear
+563,Green Gram (Moong),Firozabad,2014-11-24,6740.0,1.1,24.1,clear
+564,Arhar (Tur/Red Gram),Firozabad,2014-11-28,4900.0,2.5,23.2,clear
+565,Arhar (Tur/Red Gram),Firozabad,2014-11-29,4910.0,2.4,29.2,clear
+566,Arhar (Tur/Red Gram),Firozabad,2014-03-12,4920.0,2.2,25.0,clear
+567,Arhar (Tur/Red Gram),Firozabad,2014-04-12,4930.0,2.0,37.1,clear
+568,Arhar (Tur/Red Gram),Firozabad,2014-05-12,4860.0,3.0,35.7,clear
+569,Green Gram (Moong),Firozabad,2014-05-12,6740.0,2.5,35.7,clear
+570,Arhar (Tur/Red Gram),Firozabad,2014-06-12,4810.0,3.4,39.2,clear
+571,Green Gram (Moong),Firozabad,2014-06-12,6730.0,2.6,39.2,clear
+572,Arhar (Tur/Red Gram),Firozabad,2014-07-12,4820.0,3.2,41.6,clear
+573,Arhar (Tur/Red Gram),Firozabad,2014-10-12,4850.0,2.0,33.0,clear
+574,Arhar (Tur/Red Gram),Firozabad,2014-11-12,4860.0,1.8,25.7,clear
+575,Arhar (Tur/Red Gram),Firozabad,2014-12-12,4870.0,1.6,33.0,clear
+576,Arhar (Tur/Red Gram),Firozabad,2014-12-28,4880.0,0.0,12.6,clear
+577,Arhar (Tur/Red Gram),Firozabad,2014-12-31,4920.0,0.0,14.0,clear
+578,Arhar (Tur/Red Gram),Shikohabad,2014-05-01,6190.0,6190.0,41.6,clear
+579,Arhar (Tur/Red Gram),Shikohabad,2014-04-26,6470.0,0.0,38.2,clear
+580,Arhar (Tur/Red Gram),Shikohabad,2014-06-30,6680.0,210.0,39.9,clear
+581,Arhar (Tur/Red Gram),Shikohabad,2014-07-29,6790.0,0.0,31.2,rain
+582,Black Gram (Urd Beans),Shikohabad,2014-07-29,5830.0,0.0,31.2,rain
+583,Arhar (Tur/Red Gram),Shikohabad,2014-05-08,6870.0,0.0,40.7,clear
+584,Black Gram (Urd Beans),Shikohabad,2014-05-08,5950.0,0.0,40.7,clear
+585,Arhar (Tur/Red Gram),Shikohabad,2014-10-08,6960.0,0.0,34.9,clear
+586,Black Gram (Urd Beans),Shikohabad,2014-10-08,6065.0,0.0,34.9,clear
+587,Arhar (Tur/Red Gram),Shikohabad,2014-12-08,6950.0,0.0,32.8,clear
+588,Black Gram (Urd Beans),Shikohabad,2014-12-08,6200.0,0.0,32.8,clear
+589,Arhar (Tur/Red Gram),Shikohabad,2014-08-16,7050.0,0.0,31.6,clear
+590,Black Gram (Urd Beans),Shikohabad,2014-08-16,6230.0,0.0,31.6,clear
+591,Arhar (Tur/Red Gram),Shikohabad,2014-08-19,6250.0,0.0,35.0,clear
+592,Black Gram (Urd Beans),Shikohabad,2014-08-19,6250.0,0.0,35.0,clear
+593,Arhar (Tur/Red Gram),Shikohabad,2014-08-22,7100.0,0.0,35.8,clear
+594,Black Gram (Urd Beans),Shikohabad,2014-08-22,6250.0,0.0,35.8,clear
+595,Arhar (Tur/Red Gram),Shikohabad,2014-08-23,7110.0,0.0,36.3,clear
+596,Black Gram (Urd Beans),Shikohabad,2014-08-23,6260.0,0.0,36.3,clear
+597,Arhar (Tur/Red Gram),Shikohabad,2014-08-24,7125.0,0.0,36.2,clear
+598,Black Gram (Urd Beans),Shikohabad,2014-08-24,6235.0,0.0,36.2,clear
+599,Arhar (Tur/Red Gram),Shikohabad,2014-08-25,7100.0,0.0,37.4,clear
+600,Black Gram (Urd Beans),Shikohabad,2014-08-25,6275.0,0.0,37.4,clear
+601,Arhar (Tur/Red Gram),Shikohabad,2014-08-26,7130.0,0.0,36.8,clear
+602,Black Gram (Urd Beans),Shikohabad,2014-08-26,6220.0,0.0,36.8,clear
+603,Arhar (Tur/Red Gram),Shikohabad,2014-02-09,7500.0,0.0,18.4,clear
+604,Black Gram (Urd Beans),Shikohabad,2014-02-09,6400.0,0.0,18.4,clear
+605,Arhar (Tur/Red Gram),Shikohabad,2014-09-09,7530.0,0.0,33.6,clear
+606,Black Gram (Urd Beans),Shikohabad,2014-09-09,6450.0,0.0,33.6,clear
+607,Arhar (Tur/Red Gram),Shikohabad,2014-09-13,6500.0,0.0,32.0,clear
+608,Black Gram (Urd Beans),Shikohabad,2014-09-13,6500.0,0.0,32.0,clear
+609,Arhar (Tur/Red Gram),Shikohabad,2014-09-14,6850.0,0.0,32.7,clear
+610,Black Gram (Urd Beans),Shikohabad,2014-09-14,6510.0,0.0,32.7,clear
+611,Arhar (Tur/Red Gram),Shikohabad,2014-09-15,6800.0,0.0,32.8,clear
+612,Black Gram (Urd Beans),Shikohabad,2014-09-15,6520.0,0.0,32.8,clear
+613,Arhar (Tur/Red Gram),Shikohabad,2014-09-23,6675.0,0.0,34.9,clear
+614,Black Gram (Urd Beans),Shikohabad,2014-09-23,6450.0,0.0,34.9,clear
+615,Arhar (Tur/Red Gram),Shikohabad,2014-09-27,6775.0,0.0,34.8,clear
+616,Bengal Gram(Gram),Firozabad,2014-01-02,3510.0,0.3,14.8,clear
+617,Bengal Gram(Gram),Firozabad,2014-02-19,3360.0,0.3,21.6,clear
+618,Bengal Gram(Gram),Firozabad,2014-02-28,3380.0,3.0,18.4,rain
+619,Bengal Gram(Gram),Firozabad,2014-01-03,3370.0,3.2,16.2,clear
+620,Green Gram (Moong),Firozabad,2014-05-04,6250.0,1.1,38.6,clear
+621,Green Gram (Moong),Firozabad,2014-10-04,6300.0,1.4,36.2,clear
+622,Green Gram (Moong),Firozabad,2014-11-04,6330.0,1.2,29.4,clear
+623,Green Gram (Moong),Firozabad,2014-12-11,6370.0,1.2,33.1,rain
+624,Arhar (Tur/Red Gram),Firozabad,2015-07-01,4940.0,1.2,37.5,clear
+625,Arhar (Tur/Red Gram),Firozabad,2015-01-23,5370.0,1.3,16.2,clear
+626,Arhar (Tur/Red Gram),Firozabad,2015-01-25,5350.0,1.8,11.7,clear
+627,Arhar (Tur/Red Gram),Firozabad,2015-01-31,5380.0,1.2,19.1,clear
+628,Arhar (Tur/Red Gram),Firozabad,2015-04-02,5400.0,1.4,34.9,clear
+629,Arhar (Tur/Red Gram),Firozabad,2015-05-02,5420.0,1.2,38.1,clear
+630,Arhar (Tur/Red Gram),Firozabad,2015-06-02,5420.0,1.0,39.4,clear
+631,Arhar (Tur/Red Gram),Firozabad,2015-11-03,5460.0,1.0,29.8,clear
+632,Arhar (Tur/Red Gram),Firozabad,2015-03-16,5550.0,1.0,24.3,clear
+633,Arhar (Tur/Red Gram),Firozabad,2015-03-18,5540.0,1.2,24.9,clear
+634,Arhar (Tur/Red Gram),Firozabad,2015-03-26,5520.0,0.0,33.3,clear
+635,Arhar (Tur/Red Gram),Firozabad,2015-01-04,5460.0,1.5,16.6,clear
+636,Arhar (Tur/Red Gram),Firozabad,2015-12-04,5440.0,1.2,23.4,clear
+637,Green Gram (Moong),Firozabad,2015-05-01,6970.0,0.0,36.4,clear
+638,Arhar (Tur/Red Gram),Firozabad,2016-07-27,8170.0,0.0,28.5,rain
+639,Bengal Gram(Gram),Firozabad,2016-07-27,8450.0,2.0,28.5,rain
+640,Arhar (Tur/Red Gram),Firozabad,2016-07-28,8180.0,0.0,32.0,rain
+641,Bengal Gram(Gram),Firozabad,2016-07-28,8460.0,1.6,32.0,rain
+642,Arhar (Tur/Red Gram),Firozabad,2016-08-25,6030.0,0.0,32.0,clear
+643,Bengal Gram(Gram),Firozabad,2016-08-25,8560.0,1.6,32.0,clear
+644,Arhar (Tur/Red Gram),Firozabad,2016-08-26,6020.0,0.0,31.4,clear
+645,Bengal Gram(Gram),Firozabad,2016-08-26,8570.0,1.5,31.4,clear
+646,Arhar (Tur/Red Gram),Firozabad,2016-08-29,6420.0,0.0,33.7,clear
+647,Arhar (Tur/Red Gram),Firozabad,2016-08-31,6400.0,0.0,32.3,rain
+648,Bengal Gram(Gram),Firozabad,2016-08-31,8250.0,1.8,32.3,rain
+649,Arhar (Tur/Red Gram),Firozabad,2016-09-09,6640.0,0.0,33.7,clear
+650,Bengal Gram(Gram),Firozabad,2016-09-09,8220.0,1.2,33.7,clear
+651,Arhar (Tur/Red Gram),Firozabad,2016-10-09,6880.0,0.0,34.4,clear
+652,Bengal Gram(Gram),Firozabad,2016-10-09,8240.0,1.0,34.4,clear
+653,Arhar (Tur/Red Gram),Firozabad,2016-11-09,6850.0,0.0,26.6,clear
+654,Bengal Gram(Gram),Firozabad,2016-11-09,8230.0,2.0,26.6,clear
+655,Arhar (Tur/Red Gram),Firozabad,2016-12-09,6880.0,0.0,16.3,clear
+656,Bengal Gram(Gram),Firozabad,2016-12-09,8250.0,1.8,16.3,clear
+657,Arhar (Tur/Red Gram),Firozabad,2016-09-14,6750.0,6.0,32.7,clear
+658,Bengal Gram(Gram),Firozabad,2016-09-14,8250.0,1.8,32.7,clear
+659,Arhar (Tur/Red Gram),Firozabad,2016-09-16,6720.0,0.0,32.9,clear
+660,Bengal Gram(Gram),Firozabad,2016-09-16,8350.0,1.8,32.9,clear
+661,Bengal Gram(Gram),Firozabad,2016-06-23,6970.0,2.5,37.2,clear
+662,Bengal Gram(Gram),Firozabad,2016-06-27,7000.0,2.5,37.4,clear
+663,Bengal Gram(Gram),Firozabad,2016-09-07,7080.0,1.8,32.4,clear
+664,Bengal Gram(Gram),Firozabad,2016-10-07,7100.0,1.6,32.4,clear
+665,Bengal Gram(Gram),Firozabad,2016-11-07,7140.0,1.4,28.2,clear
+666,Bengal Gram(Gram),Firozabad,2016-07-13,7220.0,2.5,33.6,clear
+667,Bengal Gram(Gram),Firozabad,2016-07-14,7280.0,2.0,32.0,rain
+668,Bengal Gram(Gram),Firozabad,2016-07-16,7470.0,2.0,27.7,clear
+669,Bengal Gram(Gram),Firozabad,2016-07-17,7570.0,1.8,26.1,clear
+670,Bengal Gram(Gram),Firozabad,2016-07-18,7620.0,1.5,30.5,rain
+671,Bengal Gram(Gram),Firozabad,2016-07-20,7980.0,1.0,35.1,clear
+672,Bengal Gram(Gram),Firozabad,2016-07-21,8050.0,1.0,34.7,clear
+673,Bengal Gram(Gram),Firozabad,2016-07-23,8410.0,0.0,32.6,clear
+674,Bengal Gram(Gram),Firozabad,2016-07-24,8400.0,2.0,35.3,clear
+675,Bengal Gram(Gram),Firozabad,2016-07-25,8420.0,1.6,33.7,clear
+676,Bengal Gram(Gram),Firozabad,2016-07-30,8540.0,1.0,30.5,rain
+677,Bengal Gram(Gram),Firozabad,2016-01-08,8525.0,2.8,21.7,clear
+678,Bengal Gram(Gram),Firozabad,2016-03-08,8520.0,3.0,28.0,clear
+679,Bengal Gram(Gram),Firozabad,2016-04-08,8540.0,2.0,35.8,clear
+680,Bengal Gram(Gram),Firozabad,2016-06-08,8640.0,1.5,42.2,clear
+681,Bengal Gram(Gram),Firozabad,2016-07-08,8620.0,2.0,34.0,rain
+682,Bengal Gram(Gram),Firozabad,2016-08-08,8660.0,1.6,31.6,rain
+683,Bengal Gram(Gram),Firozabad,2016-11-08,8640.0,2.4,27.2,clear
+684,Bengal Gram(Gram),Firozabad,2016-12-08,8670.0,2.0,16.0,clear
+685,Bengal Gram(Gram),Firozabad,2016-08-24,8650.0,2.0,30.4,clear
+686,Green Gram (Moong),Firozabad,2016-08-24,4900.0,0.0,30.4,clear
+687,Bengal Gram(Gram),Firozabad,2016-08-27,8500.0,1.6,33.1,clear
+688,Bengal Gram(Gram),Firozabad,2016-01-09,8240.0,2.0,20.7,clear
+689,Bengal Gram(Gram),Firozabad,2016-02-09,8020.0,2.4,22.3,clear
+690,Bengal Gram(Gram),Firozabad,2016-04-09,8020.0,2.0,37.9,clear
+691,Bengal Gram(Gram),Firozabad,2016-05-09,8060.0,1.8,35.0,clear
+692,Bengal Gram(Gram),Firozabad,2016-07-09,8210.0,1.5,31.7,rain
+693,Green Gram (Moong),Firozabad,2016-07-09,4540.0,1.2,31.7,rain
+694,Bengal Gram(Gram),Firozabad,2016-08-09,8260.0,1.4,31.8,clear
+695,Black Gram (Urd Beans),Firozabad,2016-09-30,10550.0,0.0,33.4,clear
+696,Arhar (Tur/Red Gram),Shikohabad,2017-04-18,6600.0,7.5,41.7,clear
+697,Bengal Gram(Gram),Firozabad,2017-08-18,4800.0,20.0,34.9,clear
+698,Bengal Gram(Gram),Firozabad,2017-08-30,5000.0,10.0,31.8,rain
+699,Black Gram (Urd Beans),Tundla,2017-08-30,4110.0,1.8,31.8,rain
+700,Black Gram (Urd Beans),Tundla,2017-06-29,4000.0,6.4,31.2,clear
+701,Black Gram (Urd Beans),Tundla,2017-01-08,3450.0,1.3,14.7,clear
+702,Black Gram (Urd Beans),Tundla,2017-09-16,3820.0,0.9,35.0,clear

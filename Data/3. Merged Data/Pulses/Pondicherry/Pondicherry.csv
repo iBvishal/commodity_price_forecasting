@@ -1,0 +1,763 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Black Gram (Urd Beans),Thattanchavady,2015-12-08,7154.0,0.3,27.4,clear
+1,Black Gram (Urd Beans),Thattanchavady,2015-12-10,10778.0,0.3,29.6,clear
+2,Green Gram (Moong),Thattanchavady,2015-12-10,6681.0,0.2,29.6,clear
+3,Black Gram (Urd Beans),Thattanchavady,2015-12-14,8709.0,0.1,30.0,clear
+4,Black Gram (Urd Beans),Thattanchavady,2015-12-15,8548.0,0.1,31.0,clear
+5,Black Gram (Urd Beans),Thattanchavady,2015-12-18,8559.0,0.3,30.6,clear
+6,Black Gram (Urd Beans),Thattanchavady,2015-12-21,10909.0,0.2,32.6,clear
+7,Green Gram (Moong),Thattanchavady,2015-12-21,5300.0,0.1,32.6,clear
+8,Black Gram (Urd Beans),Thattanchavady,2015-12-22,7109.0,0.2,31.4,clear
+9,Black Gram (Urd Beans),Thattanchavady,2015-12-23,9953.0,0.2,32.2,clear
+10,Green Gram (Moong),Thattanchavady,2015-12-23,5397.0,0.1,32.2,clear
+11,Black Gram (Urd Beans),Thattanchavady,2015-12-28,9958.0,0.2,30.0,clear
+12,Black Gram (Urd Beans),Thattanchavady,2015-12-30,9869.0,0.2,31.2,clear
+13,Green Gram (Moong),Thattanchavady,2015-12-29,4397.0,0.1,31.8,clear
+14,Black Gram (Urd Beans),Madagadipet,2016-04-01,7651.0,0.06,33.6,clear
+15,Black Gram (Urd Beans),Thattanchavady,2016-04-01,7844.0,0.1,33.6,clear
+16,Green Gram (Moong),Thattanchavady,2016-04-01,5699.0,0.1,33.6,clear
+17,Black Gram (Urd Beans),Madagadipet,2016-01-28,9429.0,0.35,31.0,clear
+18,Black Gram (Urd Beans),Madagadipet,2016-02-02,8350.0,0.08,31.8,clear
+19,Black Gram (Urd Beans),Thattanchavady,2016-02-02,7411.0,2.5,31.8,clear
+20,Black Gram (Urd Beans),Madagadipet,2016-03-02,8850.0,0.39,32.4,clear
+21,Black Gram (Urd Beans),Thattanchavady,2016-03-02,8979.0,2.3,32.4,clear
+22,Black Gram (Urd Beans),Madagadipet,2016-04-02,8419.0,0.11,33.6,clear
+23,Black Gram (Urd Beans),Thattanchavady,2016-04-02,9011.0,5.0,33.6,clear
+24,Green Gram (Moong),Thattanchavady,2016-04-02,5007.0,0.2,33.6,clear
+25,Black Gram (Urd Beans),Madagadipet,2016-05-02,9001.0,0.18,36.0,clear
+26,Black Gram (Urd Beans),Thattanchavady,2016-05-02,8988.0,1.5,36.0,clear
+27,Black Gram (Urd Beans),Madagadipet,2016-02-24,9289.0,0.08,33.0,clear
+28,Black Gram (Urd Beans),Thattanchavady,2016-02-24,7861.0,8.0,33.0,clear
+29,Green Gram (Moong),Thattanchavady,2016-02-24,5297.0,0.1,33.0,clear
+30,Black Gram (Urd Beans),Madagadipet,2016-02-26,8976.0,0.05,31.6,clear
+31,Black Gram (Urd Beans),Thattanchavady,2016-02-26,8430.0,7.0,31.6,clear
+32,Green Gram (Moong),Thattanchavady,2016-02-26,5047.0,0.3,31.6,clear
+33,Black Gram (Urd Beans),Madagadipet,2016-01-03,9415.0,0.37,32.0,clear
+34,Black Gram (Urd Beans),Thattanchavady,2016-01-03,7598.0,14.0,32.0,clear
+35,Green Gram (Moong),Madagadipet,2016-01-03,4671.0,0.01,32.0,clear
+36,Green Gram (Moong),Thattanchavady,2016-01-03,6157.0,0.3,32.0,clear
+37,Black Gram (Urd Beans),Madagadipet,2016-03-03,9319.0,2.19,32.4,clear
+38,Black Gram (Urd Beans),Thattanchavady,2016-03-03,7504.0,30.0,32.4,clear
+39,Green Gram (Moong),Madagadipet,2016-03-03,5964.0,0.12,32.4,clear
+40,Green Gram (Moong),Thattanchavady,2016-03-03,5397.0,1.0,32.4,clear
+41,Black Gram (Urd Beans),Madagadipet,2016-04-03,9596.0,2.71,34.0,clear
+42,Green Gram (Moong),Madagadipet,2016-04-03,6365.0,0.11,34.0,clear
+43,Black Gram (Urd Beans),Madagadipet,2016-08-03,8723.0,1.63,36.8,clear
+44,Black Gram (Urd Beans),Thattanchavady,2016-08-03,7128.0,70.0,36.8,clear
+45,Green Gram (Moong),Madagadipet,2016-08-03,5100.0,0.0,36.8,clear
+46,Green Gram (Moong),Thattanchavady,2016-08-03,5340.0,2.5,36.8,clear
+47,Black Gram (Urd Beans),Madagadipet,2016-10-03,8630.0,6.15,32.2,clear
+48,Black Gram (Urd Beans),Thattanchavady,2016-10-03,7265.0,75.0,32.2,clear
+49,Green Gram (Moong),Madagadipet,2016-10-03,4725.0,0.01,32.2,clear
+50,Green Gram (Moong),Thattanchavady,2016-10-03,5247.0,4.0,32.2,clear
+51,Black Gram (Urd Beans),Madagadipet,2016-11-03,6371.0,4.86,31.0,clear
+52,Black Gram (Urd Beans),Thattanchavady,2016-11-03,6474.0,50.0,31.0,clear
+53,Green Gram (Moong),Madagadipet,2016-11-03,3009.0,0.9,31.0,clear
+54,Green Gram (Moong),Thattanchavady,2016-11-03,5197.0,3.0,31.0,clear
+55,Black Gram (Urd Beans),Madagadipet,2016-03-14,8175.0,8.8,32.6,clear
+56,Black Gram (Urd Beans),Thattanchavady,2016-03-14,9688.0,120.0,32.6,clear
+57,Green Gram (Moong),Madagadipet,2016-03-14,5413.0,0.13,32.6,clear
+58,Green Gram (Moong),Thattanchavady,2016-03-14,5777.0,7.0,32.6,clear
+59,Black Gram (Urd Beans),Madagadipet,2016-03-15,9380.0,13.25,32.8,clear
+60,Black Gram (Urd Beans),Thattanchavady,2016-03-15,8084.0,65.0,32.8,clear
+61,Green Gram (Moong),Madagadipet,2016-03-15,5574.0,0.17,32.8,clear
+62,Green Gram (Moong),Thattanchavady,2016-03-15,5443.0,5.0,32.8,clear
+63,Black Gram (Urd Beans),Madagadipet,2016-03-16,9509.0,5.05,32.8,clear
+64,Black Gram (Urd Beans),Thattanchavady,2016-03-16,8347.0,75.0,32.8,clear
+65,Green Gram (Moong),Madagadipet,2016-03-16,5869.0,0.07,32.8,clear
+66,Green Gram (Moong),Thattanchavady,2016-03-16,5553.0,7.0,32.8,clear
+67,Black Gram (Urd Beans),Madagadipet,2016-03-21,6974.0,13.2,34.8,clear
+68,Black Gram (Urd Beans),Thattanchavady,2016-03-21,8028.0,75.0,34.8,clear
+69,Green Gram (Moong),Madagadipet,2016-03-21,6666.0,0.08,34.8,clear
+70,Green Gram (Moong),Thattanchavady,2016-03-21,5832.0,6.0,34.8,clear
+71,Black Gram (Urd Beans),Madagadipet,2016-03-22,9831.0,2.49,35.2,clear
+72,Black Gram (Urd Beans),Thattanchavady,2016-03-22,8113.0,58.0,35.2,clear
+73,Green Gram (Moong),Thattanchavady,2016-03-22,4953.0,5.0,35.2,clear
+74,Black Gram (Urd Beans),Madagadipet,2016-03-23,7984.0,16.67,35.0,clear
+75,Black Gram (Urd Beans),Thattanchavady,2016-03-23,7134.0,50.0,35.0,clear
+76,Green Gram (Moong),Madagadipet,2016-03-23,5850.0,0.02,35.0,clear
+77,Green Gram (Moong),Thattanchavady,2016-03-23,5847.0,4.0,35.0,clear
+78,Black Gram (Urd Beans),Madagadipet,2016-03-24,9539.0,16.82,33.2,clear
+79,Black Gram (Urd Beans),Thattanchavady,2016-03-24,7321.0,50.0,33.2,clear
+80,Green Gram (Moong),Madagadipet,2016-03-24,5671.0,0.19,33.2,clear
+81,Green Gram (Moong),Thattanchavady,2016-03-24,5147.0,7.0,33.2,clear
+82,Black Gram (Urd Beans),Madagadipet,2016-03-28,8409.0,5.89,34.2,clear
+83,Black Gram (Urd Beans),Thattanchavady,2016-03-28,7951.0,50.0,34.2,clear
+84,Green Gram (Moong),Madagadipet,2016-03-28,6199.0,0.15,34.2,clear
+85,Green Gram (Moong),Thattanchavady,2016-03-28,5497.0,5.0,34.2,clear
+86,Black Gram (Urd Beans),Madagadipet,2016-03-29,9845.0,3.65,34.0,clear
+87,Black Gram (Urd Beans),Thattanchavady,2016-03-29,7960.0,50.0,34.0,clear
+88,Green Gram (Moong),Madagadipet,2016-03-29,5456.0,0.15,34.0,clear
+89,Green Gram (Moong),Thattanchavady,2016-03-29,5397.0,9.0,34.0,clear
+90,Black Gram (Urd Beans),Madagadipet,2016-03-31,9976.0,3.31,33.4,clear
+91,Black Gram (Urd Beans),Thattanchavady,2016-03-31,7286.0,40.0,33.4,clear
+92,Green Gram (Moong),Madagadipet,2016-03-31,5964.0,0.22,33.4,clear
+93,Green Gram (Moong),Thattanchavady,2016-03-31,5447.0,9.0,33.4,clear
+94,Black Gram (Urd Beans),Madagadipet,2016-08-04,10179.0,0.06,34.4,clear
+95,Black Gram (Urd Beans),Madagadipet,2016-11-04,10559.0,1.8,35.2,clear
+96,Black Gram (Urd Beans),Madagadipet,2016-12-04,12254.0,2.61,30.8,clear
+97,Green Gram (Moong),Madagadipet,2016-12-04,5719.0,0.08,30.8,clear
+98,Black Gram (Urd Beans),Madagadipet,2016-04-15,13601.0,1.15,34.0,clear
+99,Black Gram (Urd Beans),Thattanchavady,2016-04-15,13509.0,15.0,34.0,clear
+100,Green Gram (Moong),Madagadipet,2016-04-15,5480.0,0.18,34.0,clear
+101,Green Gram (Moong),Thattanchavady,2016-04-15,5643.0,5.0,34.0,clear
+102,Black Gram (Urd Beans),Madagadipet,2016-04-20,11489.0,1.34,35.4,clear
+103,Black Gram (Urd Beans),Thattanchavady,2016-04-20,8088.0,20.0,35.4,clear
+104,Green Gram (Moong),Madagadipet,2016-04-20,5384.0,0.05,35.4,clear
+105,Green Gram (Moong),Thattanchavady,2016-04-20,5961.0,15.0,35.4,clear
+106,Black Gram (Urd Beans),Madagadipet,2016-04-21,10431.0,0.15,36.2,clear
+107,Black Gram (Urd Beans),Thattanchavady,2016-04-21,10122.0,10.0,36.2,clear
+108,Green Gram (Moong),Thattanchavady,2016-04-21,5556.0,15.0,36.2,clear
+109,Black Gram (Urd Beans),Madagadipet,2016-04-22,11269.0,0.58,37.8,clear
+110,Black Gram (Urd Beans),Thattanchavady,2016-04-22,10319.0,20.0,37.8,clear
+111,Green Gram (Moong),Thattanchavady,2016-04-22,5930.0,8.0,37.8,clear
+112,Black Gram (Urd Beans),Madagadipet,2016-04-25,11589.0,0.33,35.4,clear
+113,Black Gram (Urd Beans),Thattanchavady,2016-04-25,10007.0,8.0,35.4,clear
+114,Green Gram (Moong),Thattanchavady,2016-04-25,5928.0,6.0,35.4,clear
+115,Black Gram (Urd Beans),Madagadipet,2016-04-27,11484.0,0.11,34.8,clear
+116,Black Gram (Urd Beans),Thattanchavady,2016-04-27,10693.0,10.0,34.8,clear
+117,Green Gram (Moong),Thattanchavady,2016-04-27,5507.0,6.0,34.8,clear
+118,Black Gram (Urd Beans),Madagadipet,2016-04-28,8409.0,5.89,35.4,clear
+119,Green Gram (Moong),Madagadipet,2016-04-28,6199.0,0.15,35.4,clear
+120,Black Gram (Urd Beans),Madagadipet,2016-04-29,11611.0,0.52,35.0,clear
+121,Black Gram (Urd Beans),Madagadipet,2016-03-05,11505.0,3.14,32.6,clear
+122,Black Gram (Urd Beans),Thattanchavady,2016-03-05,10981.0,2.5,32.6,clear
+123,Green Gram (Moong),Madagadipet,2016-03-05,5099.0,0.29,32.6,clear
+124,Green Gram (Moong),Thattanchavady,2016-03-05,5718.0,3.0,32.6,clear
+125,Black Gram (Urd Beans),Madagadipet,2016-05-25,5051.0,0.02,40.2,clear
+126,Black Gram (Urd Beans),Thattanchavady,2016-05-25,9520.0,5.0,40.2,clear
+127,Green Gram (Moong),Thattanchavady,2016-05-25,4514.0,14.0,40.2,clear
+128,Black Gram (Urd Beans),Madagadipet,2016-05-30,2036.0,0.04,38.4,clear
+129,Black Gram (Urd Beans),Thattanchavady,2016-05-30,10459.0,2.5,38.4,clear
+130,Green Gram (Moong),Thattanchavady,2016-05-30,5104.0,3.0,38.4,clear
+131,Black Gram (Urd Beans),Madagadipet,2016-05-31,5999.0,0.06,36.6,clear
+132,Black Gram (Urd Beans),Thattanchavady,2016-05-31,8478.0,1.5,36.6,clear
+133,Green Gram (Moong),Thattanchavady,2016-05-31,5097.0,1.5,36.6,clear
+134,Black Gram (Urd Beans),Madagadipet,2016-01-06,5171.0,0.04,30.0,clear
+135,Black Gram (Urd Beans),Thattanchavady,2016-01-06,7547.0,4.0,30.0,clear
+136,Green Gram (Moong),Thattanchavady,2016-01-06,5018.0,2.5,30.0,clear
+137,Black Gram (Urd Beans),Madagadipet,2016-08-06,9334.0,0.04,37.2,clear
+138,Black Gram (Urd Beans),Thattanchavady,2016-08-06,8599.0,1.5,37.2,clear
+139,Green Gram (Moong),Thattanchavady,2016-08-06,4638.0,2.0,37.2,clear
+140,Black Gram (Urd Beans),Madagadipet,2016-06-14,8190.0,0.24,37.6,rain
+141,Black Gram (Urd Beans),Thattanchavady,2016-06-14,8391.0,1.5,37.6,rain
+142,Green Gram (Moong),Madagadipet,2016-06-14,2671.0,0.18,37.6,rain
+143,Green Gram (Moong),Thattanchavady,2016-06-14,5283.0,0.4,37.6,rain
+144,Black Gram (Urd Beans),Madagadipet,2016-06-15,5979.0,0.86,39.4,clear
+145,Black Gram (Urd Beans),Thattanchavady,2016-06-15,9979.0,2.0,39.4,clear
+146,Green Gram (Moong),Madagadipet,2016-06-15,5139.0,0.03,39.4,clear
+147,Green Gram (Moong),Thattanchavady,2016-06-15,5141.0,1.5,39.4,clear
+148,Black Gram (Urd Beans),Madagadipet,2016-06-20,11446.0,0.13,34.6,rain
+149,Black Gram (Urd Beans),Madagadipet,2016-06-21,11679.0,0.14,35.0,rain
+150,Black Gram (Urd Beans),Thattanchavady,2016-06-21,10145.0,8.0,35.0,rain
+151,Green Gram (Moong),Thattanchavady,2016-06-21,4797.0,1.0,35.0,rain
+152,Black Gram (Urd Beans),Madagadipet,2016-06-22,11679.0,0.0,33.0,rain
+153,Black Gram (Urd Beans),Thattanchavady,2016-06-22,9283.0,3.5,33.0,rain
+154,Green Gram (Moong),Thattanchavady,2016-06-22,5022.0,0.5,33.0,rain
+155,Black Gram (Urd Beans),Madagadipet,2016-06-30,4562.0,0.02,34.2,clear
+156,Black Gram (Urd Beans),Thattanchavady,2016-06-30,8155.0,2.0,34.2,clear
+157,Green Gram (Moong),Thattanchavady,2016-06-30,4940.0,0.4,34.2,clear
+158,Black Gram (Urd Beans),Madagadipet,2016-04-07,5079.0,0.29,34.6,clear
+159,Black Gram (Urd Beans),Thattanchavady,2016-04-07,8658.0,4.0,34.6,clear
+160,Green Gram (Moong),Madagadipet,2016-04-07,2739.0,0.1,34.6,clear
+161,Green Gram (Moong),Thattanchavady,2016-04-07,4529.0,0.2,34.6,clear
+162,Black Gram (Urd Beans),Madagadipet,2016-05-07,9592.0,0.18,35.0,clear
+163,Black Gram (Urd Beans),Thattanchavady,2016-05-07,9326.0,1.6,35.0,clear
+164,Green Gram (Moong),Thattanchavady,2016-05-07,4697.0,0.1,35.0,clear
+165,Black Gram (Urd Beans),Madagadipet,2016-06-07,3681.0,0.06,36.0,clear
+166,Black Gram (Urd Beans),Thattanchavady,2016-06-07,6734.0,2.6,36.0,clear
+167,Green Gram (Moong),Thattanchavady,2016-06-07,4578.0,0.5,36.0,clear
+168,Black Gram (Urd Beans),Madagadipet,2016-12-07,5844.0,0.33,25.4,clear
+169,Black Gram (Urd Beans),Thattanchavady,2016-12-07,7214.0,1.5,25.4,clear
+170,Green Gram (Moong),Thattanchavady,2016-12-07,5227.0,0.1,25.4,clear
+171,Black Gram (Urd Beans),Madagadipet,2016-07-13,5239.0,0.49,37.6,clear
+172,Black Gram (Urd Beans),Thattanchavady,2016-07-13,7213.0,4.0,37.6,clear
+173,Green Gram (Moong),Madagadipet,2016-07-13,4289.0,0.02,37.6,clear
+174,Green Gram (Moong),Thattanchavady,2016-07-13,5117.0,0.1,37.6,clear
+175,Black Gram (Urd Beans),Madagadipet,2016-07-18,8005.0,0.02,35.0,rain
+176,Black Gram (Urd Beans),Thattanchavady,2016-07-18,8269.0,1.0,35.0,rain
+177,Green Gram (Moong),Thattanchavady,2016-07-18,5649.0,1.5,35.0,rain
+178,Black Gram (Urd Beans),Madagadipet,2016-07-19,8319.0,0.05,32.2,clear
+179,Black Gram (Urd Beans),Thattanchavady,2016-07-19,7186.0,1.5,32.2,clear
+180,Green Gram (Moong),Thattanchavady,2016-07-19,3997.0,0.1,32.2,clear
+181,Black Gram (Urd Beans),Madagadipet,2016-07-21,6022.0,0.08,33.4,clear
+182,Black Gram (Urd Beans),Thattanchavady,2016-07-21,9297.0,0.1,33.4,clear
+183,Black Gram (Urd Beans),Madagadipet,2016-07-25,7194.0,0.47,32.8,rain
+184,Black Gram (Urd Beans),Thattanchavady,2016-07-25,6975.0,2.5,32.8,rain
+185,Black Gram (Urd Beans),Madagadipet,2016-07-26,8129.0,0.38,31.0,clear
+186,Black Gram (Urd Beans),Thattanchavady,2016-07-26,6507.0,2.5,31.0,clear
+187,Green Gram (Moong),Thattanchavady,2016-07-26,5197.0,0.1,31.0,clear
+188,Black Gram (Urd Beans),Madagadipet,2016-01-08,3470.0,0.31,29.0,clear
+189,Black Gram (Urd Beans),Madagadipet,2016-02-08,6950.0,0.09,32.0,clear
+190,Black Gram (Urd Beans),Thattanchavady,2016-02-08,6957.0,1.0,32.0,clear
+191,Green Gram (Moong),Thattanchavady,2016-02-08,3397.0,0.1,32.0,clear
+192,Black Gram (Urd Beans),Madagadipet,2016-03-08,8500.0,0.11,32.4,clear
+193,Black Gram (Urd Beans),Thattanchavady,2016-03-08,6598.0,3.5,32.4,clear
+194,Green Gram (Moong),Thattanchavady,2016-03-08,4955.0,0.1,32.4,clear
+195,Black Gram (Urd Beans),Madagadipet,2016-05-08,7570.0,0.22,35.2,clear
+196,Black Gram (Urd Beans),Thattanchavady,2016-05-08,7305.0,2.0,35.2,clear
+197,Green Gram (Moong),Thattanchavady,2016-05-08,4397.0,0.1,35.2,clear
+198,Black Gram (Urd Beans),Madagadipet,2016-08-08,7030.0,0.11,38.2,clear
+199,Black Gram (Urd Beans),Thattanchavady,2016-08-08,7223.0,3.0,38.2,clear
+200,Green Gram (Moong),Thattanchavady,2016-08-08,3756.0,0.3,38.2,clear
+201,Black Gram (Urd Beans),Madagadipet,2016-09-08,8519.0,0.06,36.6,clear
+202,Black Gram (Urd Beans),Thattanchavady,2016-09-08,7707.0,0.6,36.6,clear
+203,Black Gram (Urd Beans),Madagadipet,2016-10-08,5249.0,0.39,34.4,clear
+204,Black Gram (Urd Beans),Thattanchavady,2016-10-08,7425.0,1.0,34.4,clear
+205,Black Gram (Urd Beans),Madagadipet,2016-11-08,8100.0,0.03,31.2,clear
+206,Black Gram (Urd Beans),Thattanchavady,2016-11-08,7148.0,1.5,31.2,clear
+207,Green Gram (Moong),Thattanchavady,2016-11-08,3797.0,0.1,31.2,clear
+208,Black Gram (Urd Beans),Madagadipet,2016-08-25,8094.0,0.25,32.4,clear
+209,Black Gram (Urd Beans),Thattanchavady,2016-08-25,7279.0,0.3,32.4,clear
+210,Green Gram (Moong),Thattanchavady,2016-08-25,4369.0,0.1,32.4,clear
+211,Black Gram (Urd Beans),Madagadipet,2016-08-26,7464.0,0.12,31.6,clear
+212,Black Gram (Urd Beans),Thattanchavady,2016-08-26,6936.0,0.8,31.6,clear
+213,Green Gram (Moong),Thattanchavady,2016-08-26,4717.0,0.1,31.6,clear
+214,Black Gram (Urd Beans),Madagadipet,2016-08-29,6309.0,0.46,34.4,rain
+215,Black Gram (Urd Beans),Thattanchavady,2016-08-29,6529.0,1.0,34.4,rain
+216,Black Gram (Urd Beans),Madagadipet,2016-08-30,6309.0,0.46,32.8,rain
+217,Black Gram (Urd Beans),Madagadipet,2016-07-09,5500.0,0.1,37.6,clear
+218,Black Gram (Urd Beans),Thattanchavady,2016-07-09,5118.0,0.7,37.6,clear
+219,Green Gram (Moong),Madagadipet,2016-07-09,3700.0,0.06,37.6,clear
+220,Green Gram (Moong),Thattanchavady,2016-07-09,3697.0,0.1,37.6,clear
+221,Black Gram (Urd Beans),Madagadipet,2016-08-09,3590.0,0.04,38.2,clear
+222,Black Gram (Urd Beans),Madagadipet,2016-09-26,5849.0,0.17,36.2,clear
+223,Black Gram (Urd Beans),Thattanchavady,2016-09-26,4297.0,0.2,36.2,clear
+224,Black Gram (Urd Beans),Madagadipet,2016-09-27,6217.0,1.18,35.6,clear
+225,Black Gram (Urd Beans),Thattanchavady,2016-09-27,6033.0,0.2,35.6,clear
+226,Black Gram (Urd Beans),Madagadipet,2016-10-21,6003.0,0.13,32.4,clear
+227,Black Gram (Urd Beans),Madagadipet,2016-11-14,3389.0,0.02,32.0,clear
+228,Black Gram (Urd Beans),Thattanchavady,2016-11-14,5397.0,0.3,32.0,clear
+229,Black Gram (Urd Beans),Madagadipet,2016-12-29,2351.0,0.01,30.0,clear
+230,Black Gram (Urd Beans),Thattanchavady,2016-12-29,4172.0,0.3,30.0,clear
+231,Black Gram (Urd Beans),Thattanchavady,2016-05-01,9600.0,0.1,36.2,clear
+232,Black Gram (Urd Beans),Thattanchavady,2016-06-01,4400.0,0.1,36.6,clear
+233,Black Gram (Urd Beans),Thattanchavady,2016-07-01,8887.0,0.1,36.6,clear
+234,Green Gram (Moong),Madagadipet,2016-07-01,3609.0,0.03,36.6,clear
+235,Black Gram (Urd Beans),Thattanchavady,2016-11-01,8298.0,0.2,32.8,clear
+236,Green Gram (Moong),Thattanchavady,2016-11-01,5600.0,0.1,32.8,clear
+237,Black Gram (Urd Beans),Thattanchavady,2016-12-01,9234.0,0.4,24.8,rain
+238,Green Gram (Moong),Thattanchavady,2016-12-01,5654.0,0.1,24.8,rain
+239,Black Gram (Urd Beans),Thattanchavady,2016-01-13,8547.0,0.3,29.8,clear
+240,Green Gram (Moong),Thattanchavady,2016-01-13,5047.0,0.1,29.8,clear
+241,Black Gram (Urd Beans),Thattanchavady,2016-01-14,9009.0,0.5,30.0,clear
+242,Black Gram (Urd Beans),Thattanchavady,2016-01-18,9128.0,0.1,31.4,clear
+243,Green Gram (Moong),Thattanchavady,2016-01-18,6097.0,0.1,31.4,clear
+244,Black Gram (Urd Beans),Thattanchavady,2016-01-19,9347.0,0.3,30.6,clear
+245,Black Gram (Urd Beans),Thattanchavady,2016-01-21,7723.0,1.0,29.6,clear
+246,Green Gram (Moong),Thattanchavady,2016-01-21,5497.0,0.1,29.6,clear
+247,Black Gram (Urd Beans),Thattanchavady,2016-01-22,9786.0,1.0,31.0,clear
+248,Green Gram (Moong),Thattanchavady,2016-01-22,5497.0,0.1,31.0,clear
+249,Black Gram (Urd Beans),Thattanchavady,2016-01-25,9709.0,4.0,31.2,clear
+250,Black Gram (Urd Beans),Thattanchavady,2016-01-27,8422.0,2.5,31.2,clear
+251,Black Gram (Urd Beans),Thattanchavady,2016-01-29,9179.0,4.0,32.0,clear
+252,Black Gram (Urd Beans),Thattanchavady,2016-01-02,8391.0,5.0,30.4,clear
+253,Black Gram (Urd Beans),Thattanchavady,2016-08-02,9081.0,2.0,35.0,clear
+254,Green Gram (Moong),Thattanchavady,2016-08-02,5392.0,0.2,35.0,clear
+255,Black Gram (Urd Beans),Thattanchavady,2016-09-02,8968.0,0.6,32.6,clear
+256,Green Gram (Moong),Thattanchavady,2016-09-02,5547.0,0.1,32.6,clear
+257,Black Gram (Urd Beans),Thattanchavady,2016-10-02,9971.0,1.9,34.0,clear
+258,Green Gram (Moong),Thattanchavady,2016-10-02,4617.0,0.2,34.0,clear
+259,Black Gram (Urd Beans),Thattanchavady,2016-11-02,6074.0,0.2,30.8,clear
+260,Green Gram (Moong),Thattanchavady,2016-11-02,4997.0,0.1,30.8,clear
+261,Black Gram (Urd Beans),Thattanchavady,2016-12-02,10077.0,0.1,27.2,clear
+262,Black Gram (Urd Beans),Thattanchavady,2016-02-17,7463.0,2.5,32.8,clear
+263,Black Gram (Urd Beans),Thattanchavady,2016-02-18,8078.0,1.2,32.6,clear
+264,Green Gram (Moong),Thattanchavady,2016-02-18,4847.0,0.1,32.6,clear
+265,Black Gram (Urd Beans),Thattanchavady,2016-02-19,7216.0,1.0,32.0,clear
+266,Green Gram (Moong),Thattanchavady,2016-02-19,7097.0,0.1,32.0,clear
+267,Black Gram (Urd Beans),Thattanchavady,2016-02-22,9841.0,3.0,32.0,clear
+268,Black Gram (Urd Beans),Thattanchavady,2016-02-23,9687.0,9.0,31.8,clear
+269,Green Gram (Moong),Thattanchavady,2016-02-23,4497.0,0.1,31.8,clear
+270,Black Gram (Urd Beans),Thattanchavady,2016-02-25,7239.0,3.0,32.0,clear
+271,Green Gram (Moong),Thattanchavady,2016-02-25,6297.0,0.2,32.0,clear
+272,Black Gram (Urd Beans),Thattanchavady,2016-02-29,8397.0,18.0,32.4,clear
+273,Green Gram (Moong),Thattanchavady,2016-02-29,6347.0,0.2,32.4,clear
+274,Black Gram (Urd Beans),Thattanchavady,2016-07-03,7214.0,62.0,35.8,clear
+275,Green Gram (Moong),Thattanchavady,2016-07-03,5747.0,1.5,35.8,clear
+276,Black Gram (Urd Beans),Thattanchavady,2016-09-03,7237.0,51.0,35.0,clear
+277,Green Gram (Moong),Thattanchavady,2016-09-03,5398.0,1.5,35.0,clear
+278,Black Gram (Urd Beans),Thattanchavady,2016-03-18,8208.0,65.0,32.0,clear
+279,Green Gram (Moong),Thattanchavady,2016-03-18,5987.0,5.0,32.0,clear
+280,Black Gram (Urd Beans),Thattanchavady,2016-03-30,7460.0,50.0,33.8,clear
+281,Green Gram (Moong),Thattanchavady,2016-03-30,5863.0,12.0,33.8,clear
+282,Black Gram (Urd Beans),Thattanchavady,2016-01-04,8949.0,30.0,30.8,clear
+283,Green Gram (Moong),Thattanchavady,2016-01-04,5756.0,20.0,30.8,clear
+284,Black Gram (Urd Beans),Thattanchavady,2016-04-04,8588.0,30.0,33.8,clear
+285,Green Gram (Moong),Thattanchavady,2016-04-04,6313.0,13.0,33.8,clear
+286,Black Gram (Urd Beans),Thattanchavady,2016-05-04,9237.0,30.0,34.6,clear
+287,Green Gram (Moong),Thattanchavady,2016-05-04,5672.0,30.0,34.6,clear
+288,Black Gram (Urd Beans),Thattanchavady,2016-06-04,7975.0,40.0,36.2,clear
+289,Green Gram (Moong),Thattanchavady,2016-06-04,6127.0,50.0,36.2,clear
+290,Black Gram (Urd Beans),Thattanchavady,2016-04-13,9218.0,30.0,35.6,clear
+291,Green Gram (Moong),Thattanchavady,2016-04-13,5383.0,10.0,35.6,clear
+292,Black Gram (Urd Beans),Thattanchavady,2016-04-18,10957.0,15.0,34.8,clear
+293,Green Gram (Moong),Thattanchavady,2016-04-18,6019.0,7.0,34.8,clear
+294,Black Gram (Urd Beans),Thattanchavady,2016-04-19,10039.0,7.5,34.0,clear
+295,Green Gram (Moong),Thattanchavady,2016-04-19,5232.0,5.0,34.0,clear
+296,Black Gram (Urd Beans),Thattanchavady,2016-04-26,10081.0,10.0,34.4,clear
+297,Green Gram (Moong),Thattanchavady,2016-04-26,5612.0,6.0,34.4,clear
+298,Black Gram (Urd Beans),Thattanchavady,2016-04-05,8247.0,10.0,34.4,clear
+299,Green Gram (Moong),Thattanchavady,2016-04-05,5407.0,25.0,34.4,clear
+300,Black Gram (Urd Beans),Thattanchavady,2016-05-05,10318.0,12.0,34.6,clear
+301,Green Gram (Moong),Thattanchavady,2016-05-05,4982.0,4.0,34.6,clear
+302,Black Gram (Urd Beans),Thattanchavady,2016-06-05,10313.0,7.5,35.2,clear
+303,Green Gram (Moong),Thattanchavady,2016-06-05,6007.0,6.0,35.2,clear
+304,Black Gram (Urd Beans),Thattanchavady,2016-09-05,10169.0,6.0,35.4,clear
+305,Green Gram (Moong),Thattanchavady,2016-09-05,5235.0,7.0,35.4,clear
+306,Black Gram (Urd Beans),Thattanchavady,2016-10-05,8912.0,4.0,33.6,clear
+307,Green Gram (Moong),Thattanchavady,2016-10-05,5907.0,3.0,33.6,clear
+308,Black Gram (Urd Beans),Thattanchavady,2016-12-05,11272.0,4.0,30.0,clear
+309,Green Gram (Moong),Thattanchavady,2016-12-05,5347.0,3.0,30.0,clear
+310,Black Gram (Urd Beans),Thattanchavady,2016-05-13,12088.0,1.6,36.2,clear
+311,Green Gram (Moong),Thattanchavady,2016-05-13,4993.0,0.1,36.2,clear
+312,Black Gram (Urd Beans),Thattanchavady,2016-05-17,10653.0,0.2,25.6,rain
+313,Green Gram (Moong),Thattanchavady,2016-05-17,5668.0,0.2,25.6,rain
+314,Black Gram (Urd Beans),Thattanchavady,2016-05-18,10005.0,1.0,28.0,rain
+315,Green Gram (Moong),Thattanchavady,2016-05-18,5493.0,0.6,28.0,rain
+316,Black Gram (Urd Beans),Thattanchavady,2016-05-20,11103.0,0.3,34.4,clear
+317,Green Gram (Moong),Madagadipet,2016-05-20,4009.0,0.29,34.4,clear
+318,Green Gram (Moong),Thattanchavady,2016-05-20,5700.0,0.1,34.4,clear
+319,Black Gram (Urd Beans),Thattanchavady,2016-05-23,9569.0,6.0,39.2,clear
+320,Green Gram (Moong),Thattanchavady,2016-05-23,4870.0,15.0,39.2,clear
+321,Black Gram (Urd Beans),Thattanchavady,2016-05-24,9707.0,4.0,39.6,clear
+322,Green Gram (Moong),Thattanchavady,2016-05-24,5557.0,3.0,39.6,clear
+323,Black Gram (Urd Beans),Thattanchavady,2016-05-26,11362.0,5.0,40.6,clear
+324,Green Gram (Moong),Thattanchavady,2016-05-26,4483.0,6.0,40.6,clear
+325,Black Gram (Urd Beans),Thattanchavady,2016-05-27,11459.0,4.0,35.2,rain
+326,Green Gram (Moong),Thattanchavady,2016-05-27,4508.0,5.0,35.2,rain
+327,Black Gram (Urd Beans),Thattanchavady,2016-02-06,10133.0,5.0,27.6,clear
+328,Green Gram (Moong),Thattanchavady,2016-02-06,4597.0,1.5,27.6,clear
+329,Black Gram (Urd Beans),Thattanchavady,2016-03-06,10237.0,1.5,32.0,clear
+330,Green Gram (Moong),Thattanchavady,2016-03-06,5047.0,0.5,32.0,clear
+331,Black Gram (Urd Beans),Thattanchavady,2016-06-06,9093.0,5.0,38.2,clear
+332,Green Gram (Moong),Thattanchavady,2016-06-06,4483.0,1.2,38.2,clear
+333,Black Gram (Urd Beans),Thattanchavady,2016-07-06,9419.0,1.5,38.0,rain
+334,Green Gram (Moong),Thattanchavady,2016-07-06,4707.0,0.5,38.0,rain
+335,Black Gram (Urd Beans),Thattanchavady,2016-09-06,6788.0,1.0,35.8,rain
+336,Green Gram (Moong),Thattanchavady,2016-09-06,5600.0,0.5,35.8,rain
+337,Black Gram (Urd Beans),Thattanchavady,2016-10-06,8884.0,2.5,34.8,clear
+338,Green Gram (Moong),Thattanchavady,2016-10-06,3597.0,0.5,34.8,clear
+339,Black Gram (Urd Beans),Thattanchavady,2016-06-13,8881.0,2.0,37.4,clear
+340,Green Gram (Moong),Thattanchavady,2016-06-13,5347.0,2.5,37.4,clear
+341,Black Gram (Urd Beans),Thattanchavady,2016-06-16,8793.0,1.5,37.4,clear
+342,Green Gram (Moong),Madagadipet,2016-06-16,3226.0,0.41,37.4,clear
+343,Green Gram (Moong),Thattanchavady,2016-06-16,5007.0,0.2,37.4,clear
+344,Black Gram (Urd Beans),Thattanchavady,2016-06-17,9547.0,3.5,36.2,clear
+345,Green Gram (Moong),Thattanchavady,2016-06-17,5337.0,2.0,36.2,clear
+346,Black Gram (Urd Beans),Thattanchavady,2016-06-23,11238.0,5.0,27.2,clear
+347,Green Gram (Moong),Madagadipet,2016-06-23,1318.0,0.03,27.2,clear
+348,Green Gram (Moong),Thattanchavady,2016-06-23,5143.0,5.0,27.2,clear
+349,Black Gram (Urd Beans),Thattanchavady,2016-06-24,7288.0,5.0,29.8,clear
+350,Green Gram (Moong),Thattanchavady,2016-06-24,4908.0,0.2,29.8,clear
+351,Black Gram (Urd Beans),Thattanchavady,2016-06-27,9209.0,5.0,33.0,rain
+352,Green Gram (Moong),Thattanchavady,2016-06-27,5117.0,0.1,33.0,rain
+353,Black Gram (Urd Beans),Thattanchavady,2016-06-28,8920.0,0.4,33.2,clear
+354,Green Gram (Moong),Thattanchavady,2016-06-28,5117.0,0.1,33.2,clear
+355,Black Gram (Urd Beans),Thattanchavady,2016-06-29,10124.0,0.6,31.0,clear
+356,Green Gram (Moong),Thattanchavady,2016-06-29,5197.0,0.1,31.0,clear
+357,Black Gram (Urd Beans),Thattanchavady,2016-01-07,10299.0,1.4,30.6,clear
+358,Green Gram (Moong),Thattanchavady,2016-01-07,5162.0,0.1,30.6,clear
+359,Black Gram (Urd Beans),Thattanchavady,2016-08-07,6866.0,5.0,38.8,clear
+360,Green Gram (Moong),Thattanchavady,2016-08-07,5027.0,0.6,38.8,clear
+361,Black Gram (Urd Beans),Thattanchavady,2016-11-07,7254.0,4.0,31.0,clear
+362,Green Gram (Moong),Thattanchavady,2016-11-07,5739.0,0.2,31.0,clear
+363,Black Gram (Urd Beans),Thattanchavady,2016-07-14,6997.0,2.5,36.6,clear
+364,Green Gram (Moong),Thattanchavady,2016-07-14,5475.0,0.2,36.6,clear
+365,Black Gram (Urd Beans),Thattanchavady,2016-07-20,6806.0,4.0,32.4,clear
+366,Green Gram (Moong),Madagadipet,2016-07-20,8205.0,0.3,32.4,clear
+367,Green Gram (Moong),Thattanchavady,2016-07-20,3750.0,0.2,32.4,clear
+368,Black Gram (Urd Beans),Thattanchavady,2016-07-22,7458.0,0.6,34.0,clear
+369,Black Gram (Urd Beans),Thattanchavady,2016-07-27,6523.0,2.2,32.2,clear
+370,Green Gram (Moong),Thattanchavady,2016-07-27,4657.0,0.2,32.2,clear
+371,Black Gram (Urd Beans),Thattanchavady,2016-04-08,6353.0,6.0,33.8,clear
+372,Black Gram (Urd Beans),Thattanchavady,2016-12-08,7199.0,0.9,30.0,clear
+373,Black Gram (Urd Beans),Thattanchavady,2016-08-17,6184.0,3.0,36.0,clear
+374,Green Gram (Moong),Thattanchavady,2016-08-17,4147.0,0.1,36.0,clear
+375,Black Gram (Urd Beans),Thattanchavady,2016-08-18,7622.0,4.0,38.2,clear
+376,Black Gram (Urd Beans),Thattanchavady,2016-08-19,6668.0,1.0,35.4,rain
+377,Black Gram (Urd Beans),Thattanchavady,2016-08-22,6579.0,3.0,37.2,rain
+378,Green Gram (Moong),Thattanchavady,2016-08-22,3997.0,0.1,37.2,rain
+379,Black Gram (Urd Beans),Thattanchavady,2016-08-23,6847.0,1.0,35.0,clear
+380,Green Gram (Moong),Thattanchavady,2016-08-23,4197.0,0.1,35.0,clear
+381,Black Gram (Urd Beans),Thattanchavady,2016-06-09,6118.0,0.5,37.0,clear
+382,Green Gram (Moong),Thattanchavady,2016-06-09,4413.0,0.1,37.0,clear
+383,Black Gram (Urd Beans),Thattanchavady,2016-09-09,4698.0,0.2,35.6,clear
+384,Black Gram (Urd Beans),Thattanchavady,2016-12-09,5004.0,1.0,30.8,clear
+385,Green Gram (Moong),Thattanchavady,2016-12-09,4617.0,0.1,30.8,clear
+386,Black Gram (Urd Beans),Thattanchavady,2016-09-22,5333.0,0.3,35.2,clear
+387,Black Gram (Urd Beans),Thattanchavady,2016-09-23,4497.0,0.1,35.4,clear
+388,Black Gram (Urd Beans),Thattanchavady,2016-09-28,6200.0,0.1,31.8,clear
+389,Black Gram (Urd Beans),Thattanchavady,2016-09-29,6297.0,0.1,31.4,clear
+390,Black Gram (Urd Beans),Thattanchavady,2016-09-30,6317.0,0.1,34.0,clear
+391,Green Gram (Moong),Thattanchavady,2016-09-30,3890.0,0.1,34.0,clear
+392,Black Gram (Urd Beans),Thattanchavady,2016-03-10,6558.0,0.2,31.8,clear
+393,Green Gram (Moong),Thattanchavady,2016-03-10,4617.0,0.1,31.8,clear
+394,Black Gram (Urd Beans),Thattanchavady,2016-05-10,5447.0,0.1,35.0,clear
+395,Black Gram (Urd Beans),Thattanchavady,2016-06-10,4047.0,0.7,36.4,clear
+396,Black Gram (Urd Beans),Thattanchavady,2016-07-10,6248.0,0.2,36.6,clear
+397,Black Gram (Urd Beans),Thattanchavady,2016-10-13,6519.0,0.2,33.6,clear
+398,Black Gram (Urd Beans),Thattanchavady,2016-10-14,6997.0,0.2,32.8,clear
+399,Black Gram (Urd Beans),Thattanchavady,2016-10-17,5347.0,5.0,32.8,clear
+400,Green Gram (Moong),Thattanchavady,2016-10-17,4397.0,0.2,32.8,clear
+401,Black Gram (Urd Beans),Thattanchavady,2016-10-18,5298.0,1.5,33.0,clear
+402,Black Gram (Urd Beans),Thattanchavady,2016-10-19,6149.0,0.8,33.4,clear
+403,Green Gram (Moong),Thattanchavady,2016-10-19,4884.0,0.1,33.4,clear
+404,Black Gram (Urd Beans),Thattanchavady,2016-10-20,5486.0,2.3,32.8,clear
+405,Black Gram (Urd Beans),Thattanchavady,2016-10-24,5062.0,0.5,33.0,clear
+406,Black Gram (Urd Beans),Thattanchavady,2016-10-25,6183.0,1.0,34.4,clear
+407,Green Gram (Moong),Thattanchavady,2016-10-25,4139.0,0.1,34.4,clear
+408,Black Gram (Urd Beans),Thattanchavady,2016-10-26,4847.0,0.7,34.0,clear
+409,Green Gram (Moong),Madagadipet,2016-10-26,3420.0,0.02,34.0,clear
+410,Green Gram (Moong),Thattanchavady,2016-10-26,4317.0,0.4,34.0,clear
+411,Black Gram (Urd Beans),Thattanchavady,2016-10-27,6147.0,0.3,34.8,clear
+412,Black Gram (Urd Beans),Thattanchavady,2016-07-11,4797.0,0.6,37.2,clear
+413,Green Gram (Moong),Thattanchavady,2016-07-11,1997.0,0.1,37.2,clear
+414,Black Gram (Urd Beans),Thattanchavady,2016-08-11,6920.0,0.2,37.0,clear
+415,Black Gram (Urd Beans),Thattanchavady,2016-09-11,3897.0,0.3,31.4,clear
+416,Green Gram (Moong),Thattanchavady,2016-09-11,3897.0,0.1,31.4,clear
+417,Black Gram (Urd Beans),Thattanchavady,2016-10-11,3497.0,0.1,29.4,clear
+418,Green Gram (Moong),Thattanchavady,2016-10-11,3897.0,0.1,29.4,clear
+419,Black Gram (Urd Beans),Thattanchavady,2016-11-11,5157.0,0.2,32.0,clear
+420,Black Gram (Urd Beans),Thattanchavady,2016-11-15,3843.0,0.1,32.4,clear
+421,Black Gram (Urd Beans),Thattanchavady,2016-11-16,4897.0,0.4,32.6,clear
+422,Black Gram (Urd Beans),Thattanchavady,2016-11-18,3297.0,0.1,31.6,clear
+423,Black Gram (Urd Beans),Thattanchavady,2016-11-21,4797.0,0.2,31.0,clear
+424,Green Gram (Moong),Thattanchavady,2016-11-21,5400.0,0.1,31.0,clear
+425,Black Gram (Urd Beans),Thattanchavady,2016-11-23,5207.0,0.6,31.4,clear
+426,Green Gram (Moong),Thattanchavady,2016-11-23,3797.0,0.1,31.4,clear
+427,Black Gram (Urd Beans),Thattanchavady,2016-11-24,3397.0,0.1,31.6,clear
+428,Black Gram (Urd Beans),Thattanchavady,2016-11-25,4398.0,0.2,31.8,clear
+429,Black Gram (Urd Beans),Thattanchavady,2016-12-15,5847.0,0.3,30.4,clear
+430,Green Gram (Moong),Thattanchavady,2016-12-15,4497.0,0.1,30.4,clear
+431,Black Gram (Urd Beans),Thattanchavady,2016-12-19,5767.0,0.2,29.6,clear
+432,Green Gram (Moong),Thattanchavady,2016-12-19,4164.0,0.1,29.6,clear
+433,Black Gram (Urd Beans),Thattanchavady,2016-12-20,4397.0,0.1,29.6,clear
+434,Black Gram (Urd Beans),Thattanchavady,2016-12-22,6047.0,0.1,30.6,clear
+435,Green Gram (Moong),Madagadipet,2016-03-17,5782.0,1.09,33.2,clear
+436,Green Gram (Moong),Madagadipet,2016-07-28,1719.0,0.01,32.6,clear
+437,Green Gram (Moong),Thattanchavady,2016-05-19,5219.0,0.1,29.0,clear
+438,Green Gram (Moong),Thattanchavady,2016-11-30,5205.0,0.1,30.2,clear
+439,Green Gram (Moong),Thattanchavady,2016-09-12,3897.0,0.1,30.0,clear
+440,Green Gram (Moong),Thattanchavady,2016-12-26,4000.0,0.1,31.0,clear
+441,Black Gram (Urd Beans),Madagadipet,2017-01-27,7003.0,0.13,26.0,clear
+442,Black Gram (Urd Beans),Thattanchavady,2017-01-27,6822.0,1.1,26.0,clear
+443,Black Gram (Urd Beans),Madagadipet,2017-01-30,7200.0,0.05,30.0,clear
+444,Black Gram (Urd Beans),Thattanchavady,2017-01-30,6797.0,0.1,30.0,clear
+445,Black Gram (Urd Beans),Madagadipet,2017-01-02,6957.0,0.4,31.0,clear
+446,Green Gram (Moong),Thattanchavady,2017-01-02,4297.0,0.1,31.0,clear
+447,Black Gram (Urd Beans),Madagadipet,2017-03-02,6899.0,0.05,29.6,clear
+448,Black Gram (Urd Beans),Thattanchavady,2017-03-02,7009.0,0.9,29.6,clear
+449,Green Gram (Moong),Thattanchavady,2017-03-02,4600.0,0.1,29.6,clear
+450,Black Gram (Urd Beans),Madagadipet,2017-06-02,4201.0,0.71,36.0,clear
+451,Black Gram (Urd Beans),Thattanchavady,2017-06-02,6810.0,2.0,36.0,clear
+452,Green Gram (Moong),Thattanchavady,2017-06-02,4558.0,0.2,36.0,clear
+453,Black Gram (Urd Beans),Madagadipet,2017-07-02,6319.0,0.3,37.0,clear
+454,Black Gram (Urd Beans),Thattanchavady,2017-07-02,6686.0,4.0,37.0,clear
+455,Green Gram (Moong),Thattanchavady,2017-07-02,5097.0,0.1,37.0,clear
+456,Black Gram (Urd Beans),Madagadipet,2017-08-02,6144.0,0.81,34.8,clear
+457,Black Gram (Urd Beans),Thattanchavady,2017-08-02,4818.0,5.0,34.8,clear
+458,Black Gram (Urd Beans),Madagadipet,2017-10-02,6351.0,1.09,33.6,clear
+459,Black Gram (Urd Beans),Thattanchavady,2017-10-02,6231.0,2.0,33.6,clear
+460,Green Gram (Moong),Madagadipet,2017-10-02,4310.0,0.17,33.6,clear
+461,Black Gram (Urd Beans),Madagadipet,2017-02-13,6199.0,3.51,31.0,clear
+462,Black Gram (Urd Beans),Thattanchavady,2017-02-13,5556.0,10.0,31.0,clear
+463,Green Gram (Moong),Madagadipet,2017-02-13,4399.0,0.09,31.0,clear
+464,Green Gram (Moong),Thattanchavady,2017-02-13,4347.0,0.1,31.0,clear
+465,Black Gram (Urd Beans),Madagadipet,2017-02-14,6099.0,2.01,31.0,clear
+466,Black Gram (Urd Beans),Thattanchavady,2017-02-14,5873.0,5.0,31.0,clear
+467,Black Gram (Urd Beans),Madagadipet,2017-02-15,5009.0,3.58,31.0,clear
+468,Black Gram (Urd Beans),Thattanchavady,2017-02-15,4668.0,6.0,31.0,clear
+469,Green Gram (Moong),Thattanchavady,2017-02-15,5197.0,0.1,31.0,clear
+470,Black Gram (Urd Beans),Madagadipet,2017-02-16,6249.0,1.76,31.4,clear
+471,Black Gram (Urd Beans),Thattanchavady,2017-02-16,5559.0,13.5,31.4,clear
+472,Black Gram (Urd Beans),Madagadipet,2017-02-17,6348.0,4.71,30.6,clear
+473,Black Gram (Urd Beans),Thattanchavady,2017-02-17,6139.0,17.0,30.6,clear
+474,Green Gram (Moong),Thattanchavady,2017-02-17,5297.0,0.1,30.6,clear
+475,Black Gram (Urd Beans),Madagadipet,2017-02-20,6066.0,0.4,32.0,clear
+476,Black Gram (Urd Beans),Thattanchavady,2017-02-20,5414.0,20.0,32.0,clear
+477,Black Gram (Urd Beans),Madagadipet,2017-02-21,6083.0,0.61,32.0,clear
+478,Black Gram (Urd Beans),Thattanchavady,2017-02-21,5154.0,15.0,32.0,clear
+479,Green Gram (Moong),Thattanchavady,2017-02-21,4697.0,0.1,32.0,clear
+480,Black Gram (Urd Beans),Madagadipet,2017-02-22,6020.0,5.3,31.0,clear
+481,Black Gram (Urd Beans),Thattanchavady,2017-02-22,5009.0,40.0,31.0,clear
+482,Green Gram (Moong),Madagadipet,2017-02-22,4712.0,0.05,31.0,clear
+483,Green Gram (Moong),Thattanchavady,2017-02-22,4707.0,0.1,31.0,clear
+484,Black Gram (Urd Beans),Madagadipet,2017-02-23,5419.0,4.28,31.2,clear
+485,Green Gram (Moong),Madagadipet,2017-02-23,4477.0,0.0,31.2,clear
+486,Black Gram (Urd Beans),Madagadipet,2017-02-24,5419.0,4.28,30.6,clear
+487,Black Gram (Urd Beans),Thattanchavady,2017-02-24,5697.0,40.0,30.6,clear
+488,Green Gram (Moong),Thattanchavady,2017-02-24,4477.0,0.1,30.6,clear
+489,Black Gram (Urd Beans),Madagadipet,2017-02-28,4789.0,4.92,32.6,clear
+490,Black Gram (Urd Beans),Thattanchavady,2017-02-28,4508.0,20.0,32.6,clear
+491,Green Gram (Moong),Thattanchavady,2017-02-28,4097.0,0.3,32.6,clear
+492,Black Gram (Urd Beans),Madagadipet,2017-01-03,4429.0,6.63,30.8,clear
+493,Black Gram (Urd Beans),Thattanchavady,2017-01-03,4265.0,40.0,30.8,clear
+494,Green Gram (Moong),Madagadipet,2017-01-03,3009.0,0.05,30.8,clear
+495,Green Gram (Moong),Thattanchavady,2017-01-03,4297.0,0.6,30.8,clear
+496,Black Gram (Urd Beans),Madagadipet,2017-02-03,5700.0,4.76,30.6,clear
+497,Black Gram (Urd Beans),Thattanchavady,2017-02-03,5914.0,30.0,30.6,clear
+498,Green Gram (Moong),Madagadipet,2017-02-03,3895.0,0.02,30.6,clear
+499,Green Gram (Moong),Thattanchavady,2017-02-03,5210.0,0.2,30.6,clear
+500,Black Gram (Urd Beans),Madagadipet,2017-03-03,6156.0,1.65,32.0,clear
+501,Black Gram (Urd Beans),Thattanchavady,2017-03-03,5515.0,20.0,32.0,clear
+502,Black Gram (Urd Beans),Madagadipet,2017-07-03,5284.0,5.17,38.8,rain
+503,Black Gram (Urd Beans),Thattanchavady,2017-07-03,6043.0,18.0,38.8,rain
+504,Green Gram (Moong),Thattanchavady,2017-07-03,4297.0,0.2,38.8,rain
+505,Black Gram (Urd Beans),Madagadipet,2017-08-03,5009.0,9.61,36.0,rain
+506,Black Gram (Urd Beans),Thattanchavady,2017-08-03,5788.0,65.0,36.0,rain
+507,Green Gram (Moong),Thattanchavady,2017-08-03,4448.0,0.8,36.0,rain
+508,Black Gram (Urd Beans),Madagadipet,2017-03-13,5159.0,5.21,32.6,clear
+509,Black Gram (Urd Beans),Thattanchavady,2017-03-13,6302.0,20.0,32.6,clear
+510,Green Gram (Moong),Thattanchavady,2017-03-13,4873.0,5.0,32.6,clear
+511,Black Gram (Urd Beans),Madagadipet,2017-03-14,5934.0,1.37,31.6,clear
+512,Black Gram (Urd Beans),Thattanchavady,2017-03-14,5474.0,20.0,31.6,clear
+513,Green Gram (Moong),Thattanchavady,2017-03-14,5439.0,0.4,31.6,clear
+514,Black Gram (Urd Beans),Madagadipet,2017-03-15,6834.0,4.11,32.2,clear
+515,Black Gram (Urd Beans),Thattanchavady,2017-03-15,5389.0,30.0,32.2,clear
+516,Green Gram (Moong),Madagadipet,2017-03-15,4669.0,0.03,32.2,clear
+517,Green Gram (Moong),Thattanchavady,2017-03-15,5028.0,2.5,32.2,clear
+518,Black Gram (Urd Beans),Madagadipet,2017-03-16,6409.0,3.34,31.6,clear
+519,Black Gram (Urd Beans),Thattanchavady,2017-03-16,6504.0,25.0,31.6,clear
+520,Green Gram (Moong),Thattanchavady,2017-03-16,4193.0,2.0,31.6,clear
+521,Black Gram (Urd Beans),Madagadipet,2017-03-17,5749.0,2.49,32.6,clear
+522,Black Gram (Urd Beans),Thattanchavady,2017-03-17,5408.0,15.0,32.6,clear
+523,Green Gram (Moong),Madagadipet,2017-03-17,3924.0,0.13,32.6,clear
+524,Green Gram (Moong),Thattanchavady,2017-03-17,4430.0,0.2,32.6,clear
+525,Black Gram (Urd Beans),Madagadipet,2017-03-20,4879.0,3.61,33.4,clear
+526,Black Gram (Urd Beans),Thattanchavady,2017-03-20,5204.0,50.0,33.4,clear
+527,Green Gram (Moong),Thattanchavady,2017-03-20,4966.0,45.0,33.4,clear
+528,Black Gram (Urd Beans),Madagadipet,2017-03-21,6284.0,2.84,33.6,clear
+529,Black Gram (Urd Beans),Thattanchavady,2017-03-21,6174.0,20.0,33.6,clear
+530,Green Gram (Moong),Madagadipet,2017-03-21,4689.0,0.03,33.6,clear
+531,Green Gram (Moong),Thattanchavady,2017-03-21,5222.0,35.0,33.6,clear
+532,Black Gram (Urd Beans),Madagadipet,2017-03-22,6622.0,7.68,32.6,clear
+533,Black Gram (Urd Beans),Thattanchavady,2017-03-22,7061.0,60.0,32.6,clear
+534,Green Gram (Moong),Thattanchavady,2017-03-22,5807.0,55.0,32.6,clear
+535,Black Gram (Urd Beans),Madagadipet,2017-03-23,7124.0,6.08,32.4,clear
+536,Black Gram (Urd Beans),Thattanchavady,2017-03-23,6378.0,60.0,32.4,clear
+537,Green Gram (Moong),Thattanchavady,2017-03-23,5680.0,32.0,32.4,clear
+538,Black Gram (Urd Beans),Madagadipet,2017-03-24,7224.0,1.57,31.4,clear
+539,Black Gram (Urd Beans),Madagadipet,2017-03-27,2400.0,0.07,32.4,clear
+540,Black Gram (Urd Beans),Thattanchavady,2017-03-27,6796.0,20.0,32.4,clear
+541,Green Gram (Moong),Thattanchavady,2017-03-27,5647.0,20.0,32.4,clear
+542,Black Gram (Urd Beans),Madagadipet,2017-03-28,6514.0,9.3,33.0,clear
+543,Black Gram (Urd Beans),Thattanchavady,2017-03-28,5603.0,22.0,33.0,clear
+544,Green Gram (Moong),Madagadipet,2017-03-28,5252.0,0.03,33.0,clear
+545,Green Gram (Moong),Thattanchavady,2017-03-28,4779.0,25.0,33.0,clear
+546,Black Gram (Urd Beans),Madagadipet,2017-03-30,5009.0,5.39,33.8,clear
+547,Black Gram (Urd Beans),Thattanchavady,2017-03-30,5033.0,45.0,33.8,clear
+548,Green Gram (Moong),Madagadipet,2017-03-30,4839.0,0.08,33.8,clear
+549,Green Gram (Moong),Thattanchavady,2017-03-30,5407.0,30.0,33.8,clear
+550,Black Gram (Urd Beans),Madagadipet,2017-03-31,6954.0,0.99,33.6,clear
+551,Black Gram (Urd Beans),Thattanchavady,2017-03-31,5187.0,35.0,33.6,clear
+552,Green Gram (Moong),Thattanchavady,2017-03-31,4441.0,45.0,33.6,clear
+553,Black Gram (Urd Beans),Madagadipet,2017-03-04,5174.0,0.97,30.4,clear
+554,Black Gram (Urd Beans),Thattanchavady,2017-03-04,5488.0,14.0,30.4,clear
+555,Green Gram (Moong),Madagadipet,2017-03-04,2259.0,0.01,30.4,clear
+556,Green Gram (Moong),Thattanchavady,2017-03-04,5412.0,3.0,30.4,clear
+557,Black Gram (Urd Beans),Madagadipet,2017-04-04,6834.0,0.73,34.2,clear
+558,Black Gram (Urd Beans),Thattanchavady,2017-04-04,5044.0,12.0,34.2,clear
+559,Green Gram (Moong),Madagadipet,2017-04-04,3021.0,0.04,34.2,clear
+560,Green Gram (Moong),Thattanchavady,2017-04-04,5455.0,6.0,34.2,clear
+561,Black Gram (Urd Beans),Madagadipet,2017-05-04,6884.0,3.98,35.0,clear
+562,Black Gram (Urd Beans),Thattanchavady,2017-05-04,4573.0,40.0,35.0,clear
+563,Green Gram (Moong),Madagadipet,2017-05-04,4451.0,0.02,35.0,clear
+564,Green Gram (Moong),Thattanchavady,2017-05-04,5169.0,15.0,35.0,clear
+565,Black Gram (Urd Beans),Madagadipet,2017-06-04,5815.0,1.49,37.8,clear
+566,Black Gram (Urd Beans),Thattanchavady,2017-06-04,4998.0,25.0,37.8,clear
+567,Green Gram (Moong),Thattanchavady,2017-06-04,5285.0,6.0,37.8,clear
+568,Black Gram (Urd Beans),Madagadipet,2017-07-04,6659.0,0.77,36.2,clear
+569,Black Gram (Urd Beans),Thattanchavady,2017-07-04,5130.0,17.0,36.2,clear
+570,Green Gram (Moong),Thattanchavady,2017-07-04,5659.0,1.0,36.2,clear
+571,Black Gram (Urd Beans),Madagadipet,2017-10-04,5634.0,1.89,32.0,clear
+572,Black Gram (Urd Beans),Thattanchavady,2017-10-04,5284.0,15.0,32.0,clear
+573,Green Gram (Moong),Madagadipet,2017-10-04,4569.0,0.06,32.0,clear
+574,Green Gram (Moong),Thattanchavady,2017-10-04,5394.0,8.0,32.0,clear
+575,Black Gram (Urd Beans),Madagadipet,2017-11-04,5934.0,2.06,26.0,clear
+576,Black Gram (Urd Beans),Thattanchavady,2017-11-04,6573.0,30.0,26.0,clear
+577,Green Gram (Moong),Thattanchavady,2017-11-04,4918.0,8.0,26.0,clear
+578,Black Gram (Urd Beans),Madagadipet,2017-12-04,5831.0,2.97,29.0,clear
+579,Green Gram (Moong),Madagadipet,2017-12-04,4701.0,0.03,29.0,clear
+580,Black Gram (Urd Beans),Madagadipet,2017-04-13,5934.0,2.06,34.4,clear
+581,Black Gram (Urd Beans),Thattanchavady,2017-04-13,4607.0,30.0,34.4,clear
+582,Green Gram (Moong),Thattanchavady,2017-04-13,5323.0,10.0,34.4,clear
+583,Black Gram (Urd Beans),Madagadipet,2017-04-17,6699.0,0.65,39.4,clear
+584,Black Gram (Urd Beans),Thattanchavady,2017-04-17,5839.0,10.0,39.4,clear
+585,Green Gram (Moong),Thattanchavady,2017-04-17,5133.0,3.0,39.4,clear
+586,Black Gram (Urd Beans),Madagadipet,2017-04-18,6614.0,2.45,34.4,clear
+587,Black Gram (Urd Beans),Thattanchavady,2017-04-18,5729.0,25.0,34.4,clear
+588,Green Gram (Moong),Madagadipet,2017-04-18,4209.0,0.03,34.4,clear
+589,Green Gram (Moong),Thattanchavady,2017-04-18,4808.0,20.0,34.4,clear
+590,Black Gram (Urd Beans),Madagadipet,2017-04-19,5339.0,1.47,34.2,clear
+591,Black Gram (Urd Beans),Thattanchavady,2017-04-19,5432.0,25.0,34.2,clear
+592,Green Gram (Moong),Thattanchavady,2017-04-19,4313.0,4.0,34.2,clear
+593,Black Gram (Urd Beans),Madagadipet,2017-04-20,5769.0,0.43,34.2,clear
+594,Black Gram (Urd Beans),Thattanchavady,2017-04-20,5064.0,70.0,34.2,clear
+595,Green Gram (Moong),Madagadipet,2017-04-20,2477.0,0.06,34.2,clear
+596,Green Gram (Moong),Thattanchavady,2017-04-20,4704.0,30.0,34.2,clear
+597,Black Gram (Urd Beans),Madagadipet,2017-04-21,5935.0,1.07,35.6,clear
+598,Black Gram (Urd Beans),Thattanchavady,2017-04-21,4643.0,20.0,35.6,clear
+599,Green Gram (Moong),Madagadipet,2017-04-21,3660.0,2.45,35.6,clear
+600,Green Gram (Moong),Thattanchavady,2017-04-21,4712.0,6.0,35.6,clear
+601,Black Gram (Urd Beans),Madagadipet,2017-04-24,5644.0,1.09,36.0,clear
+602,Black Gram (Urd Beans),Thattanchavady,2017-04-24,4888.0,30.0,36.0,clear
+603,Green Gram (Moong),Thattanchavady,2017-04-24,4797.0,2.0,36.0,clear
+604,Black Gram (Urd Beans),Madagadipet,2017-04-26,6124.0,1.17,34.0,clear
+605,Black Gram (Urd Beans),Thattanchavady,2017-04-26,5490.0,30.0,34.0,clear
+606,Green Gram (Moong),Madagadipet,2017-04-26,3819.0,0.02,34.0,clear
+607,Green Gram (Moong),Thattanchavady,2017-04-26,4372.0,5.0,34.0,clear
+608,Black Gram (Urd Beans),Madagadipet,2017-04-27,6300.0,0.05,36.4,clear
+609,Black Gram (Urd Beans),Thattanchavady,2017-04-27,4744.0,30.0,36.4,clear
+610,Green Gram (Moong),Thattanchavady,2017-04-27,4556.0,4.0,36.4,clear
+611,Black Gram (Urd Beans),Madagadipet,2017-04-28,4952.0,1.2,35.0,clear
+612,Black Gram (Urd Beans),Thattanchavady,2017-04-28,5048.0,20.0,35.0,clear
+613,Green Gram (Moong),Thattanchavady,2017-04-28,4257.0,1.5,35.0,clear
+614,Black Gram (Urd Beans),Madagadipet,2017-02-05,5454.0,0.43,30.4,clear
+615,Black Gram (Urd Beans),Thattanchavady,2017-02-05,4329.0,11.5,30.4,clear
+616,Green Gram (Moong),Madagadipet,2017-02-05,2651.0,0.01,30.4,clear
+617,Green Gram (Moong),Thattanchavady,2017-02-05,3718.0,2.5,30.4,clear
+618,Black Gram (Urd Beans),Madagadipet,2017-03-05,4645.0,0.17,31.4,clear
+619,Black Gram (Urd Beans),Thattanchavady,2017-03-05,4247.0,31.0,31.4,clear
+620,Green Gram (Moong),Thattanchavady,2017-03-05,4192.0,1.5,31.4,clear
+621,Black Gram (Urd Beans),Madagadipet,2017-04-05,5525.0,1.16,34.4,clear
+622,Black Gram (Urd Beans),Thattanchavady,2017-04-05,4675.0,25.0,34.4,clear
+623,Green Gram (Moong),Madagadipet,2017-04-05,3051.0,0.08,34.4,clear
+624,Green Gram (Moong),Thattanchavady,2017-04-05,4062.0,2.0,34.4,clear
+625,Black Gram (Urd Beans),Madagadipet,2017-05-05,5800.0,0.05,34.2,clear
+626,Black Gram (Urd Beans),Thattanchavady,2017-05-05,3990.0,25.0,34.2,clear
+627,Green Gram (Moong),Thattanchavady,2017-05-05,4353.0,3.0,34.2,clear
+628,Black Gram (Urd Beans),Madagadipet,2017-08-05,4449.0,0.84,33.6,clear
+629,Black Gram (Urd Beans),Thattanchavady,2017-08-05,4371.0,11.5,33.6,clear
+630,Black Gram (Urd Beans),Madagadipet,2017-10-05,5759.0,0.25,32.0,clear
+631,Black Gram (Urd Beans),Thattanchavady,2017-10-05,3780.0,10.0,32.0,clear
+632,Green Gram (Moong),Thattanchavady,2017-10-05,3887.0,0.2,32.0,clear
+633,Black Gram (Urd Beans),Madagadipet,2017-12-05,5689.0,0.04,29.4,clear
+634,Black Gram (Urd Beans),Thattanchavady,2017-12-05,3970.0,35.0,29.4,clear
+635,Green Gram (Moong),Thattanchavady,2017-12-05,3628.0,0.5,29.4,clear
+636,Black Gram (Urd Beans),Madagadipet,2017-05-19,5780.0,0.29,39.0,clear
+637,Black Gram (Urd Beans),Thattanchavady,2017-05-19,5167.0,10.0,39.0,clear
+638,Green Gram (Moong),Thattanchavady,2017-05-19,4073.0,0.6,39.0,clear
+639,Black Gram (Urd Beans),Madagadipet,2017-05-22,5689.0,0.28,37.4,clear
+640,Black Gram (Urd Beans),Thattanchavady,2017-05-22,3730.0,10.0,37.4,clear
+641,Green Gram (Moong),Thattanchavady,2017-05-22,3823.0,2.5,37.4,clear
+642,Black Gram (Urd Beans),Madagadipet,2017-05-29,3909.0,0.22,38.2,clear
+643,Black Gram (Urd Beans),Thattanchavady,2017-05-29,3986.0,8.5,38.2,clear
+644,Green Gram (Moong),Thattanchavady,2017-05-29,3794.0,0.2,38.2,clear
+645,Black Gram (Urd Beans),Madagadipet,2017-05-30,5015.0,0.13,39.4,clear
+646,Black Gram (Urd Beans),Thattanchavady,2017-05-30,3973.0,7.2,39.4,clear
+647,Green Gram (Moong),Thattanchavady,2017-05-30,3807.0,0.1,39.4,clear
+648,Black Gram (Urd Beans),Madagadipet,2017-05-31,4494.0,0.05,36.8,clear
+649,Black Gram (Urd Beans),Thattanchavady,2017-05-31,3783.0,6.5,36.8,clear
+650,Green Gram (Moong),Madagadipet,2017-05-31,1579.0,0.06,36.8,clear
+651,Green Gram (Moong),Thattanchavady,2017-05-31,3797.0,0.3,36.8,clear
+652,Black Gram (Urd Beans),Madagadipet,2017-01-06,5149.0,0.07,31.2,clear
+653,Black Gram (Urd Beans),Thattanchavady,2017-01-06,3863.0,7.5,31.2,clear
+654,Green Gram (Moong),Thattanchavady,2017-01-06,3847.0,0.1,31.2,clear
+655,Black Gram (Urd Beans),Madagadipet,2017-02-06,4094.0,0.15,31.0,clear
+656,Black Gram (Urd Beans),Thattanchavady,2017-02-06,4183.0,6.0,31.0,clear
+657,Green Gram (Moong),Thattanchavady,2017-02-06,3697.0,0.4,31.0,clear
+658,Black Gram (Urd Beans),Madagadipet,2017-12-06,4379.0,0.21,28.6,clear
+659,Black Gram (Urd Beans),Madagadipet,2017-06-15,2765.0,0.05,34.8,clear
+660,Black Gram (Urd Beans),Thattanchavady,2017-06-15,5369.0,4.0,34.8,clear
+661,Green Gram (Moong),Thattanchavady,2017-06-15,3976.0,0.2,34.8,clear
+662,Black Gram (Urd Beans),Madagadipet,2017-06-20,4543.0,0.61,31.2,clear
+663,Black Gram (Urd Beans),Thattanchavady,2017-06-20,5629.0,0.5,31.2,clear
+664,Green Gram (Moong),Thattanchavady,2017-06-20,3767.0,0.1,31.2,clear
+665,Black Gram (Urd Beans),Madagadipet,2017-07-19,3199.0,0.04,36.4,clear
+666,Black Gram (Urd Beans),Madagadipet,2017-07-20,5601.0,0.13,37.2,clear
+667,Black Gram (Urd Beans),Thattanchavady,2017-07-20,4383.0,0.9,37.2,clear
+668,Green Gram (Moong),Thattanchavady,2017-07-20,4148.0,0.1,37.2,clear
+669,Black Gram (Urd Beans),Madagadipet,2017-07-25,4101.0,0.09,38.2,clear
+670,Black Gram (Urd Beans),Madagadipet,2017-07-27,2865.0,1.85,36.8,clear
+671,Black Gram (Urd Beans),Madagadipet,2017-08-17,4614.0,0.19,32.4,clear
+672,Black Gram (Urd Beans),Madagadipet,2017-08-22,2984.0,0.06,32.8,rain
+673,Black Gram (Urd Beans),Thattanchavady,2017-08-22,4782.0,0.2,32.8,rain
+674,Black Gram (Urd Beans),Madagadipet,2017-05-10,1420.0,0.05,34.2,clear
+675,Black Gram (Urd Beans),Thattanchavady,2017-02-01,7009.0,0.1,30.2,clear
+676,Black Gram (Urd Beans),Thattanchavady,2017-03-01,4077.0,0.2,31.6,clear
+677,Black Gram (Urd Beans),Thattanchavady,2017-09-01,4447.0,0.2,29.0,clear
+678,Green Gram (Moong),Thattanchavady,2017-09-01,4697.0,0.1,29.0,clear
+679,Black Gram (Urd Beans),Thattanchavady,2017-10-01,5297.0,0.2,33.0,clear
+680,Black Gram (Urd Beans),Thattanchavady,2017-11-01,5208.0,0.8,25.6,rain
+681,Green Gram (Moong),Thattanchavady,2017-11-01,4797.0,0.1,25.6,rain
+682,Black Gram (Urd Beans),Thattanchavady,2017-01-18,7154.0,1.0,30.6,clear
+683,Black Gram (Urd Beans),Thattanchavady,2017-01-19,5981.0,1.0,30.6,clear
+684,Green Gram (Moong),Madagadipet,2017-01-19,2690.0,0.01,30.6,clear
+685,Black Gram (Urd Beans),Thattanchavady,2017-01-23,6669.0,0.1,30.6,clear
+686,Black Gram (Urd Beans),Thattanchavady,2017-01-31,7017.0,0.1,29.4,clear
+687,Green Gram (Moong),Thattanchavady,2017-01-31,6017.0,0.1,29.4,clear
+688,Black Gram (Urd Beans),Thattanchavady,2017-02-02,5297.0,1.0,29.6,clear
+689,Black Gram (Urd Beans),Thattanchavady,2017-09-02,6303.0,2.0,33.2,clear
+690,Green Gram (Moong),Thattanchavady,2017-09-02,4824.0,0.2,33.2,clear
+691,Black Gram (Urd Beans),Thattanchavady,2017-02-27,4926.0,32.0,30.6,clear
+692,Green Gram (Moong),Thattanchavady,2017-02-27,4388.0,0.4,30.6,clear
+693,Black Gram (Urd Beans),Thattanchavady,2017-06-03,5549.0,20.0,37.4,clear
+694,Green Gram (Moong),Madagadipet,2017-06-03,4269.0,0.05,37.4,clear
+695,Green Gram (Moong),Thattanchavady,2017-06-03,4388.0,2.0,37.4,clear
+696,Black Gram (Urd Beans),Thattanchavady,2017-09-03,6237.0,40.0,33.0,clear
+697,Green Gram (Moong),Thattanchavady,2017-09-03,4939.0,0.6,33.0,clear
+698,Black Gram (Urd Beans),Thattanchavady,2017-10-03,5549.0,20.0,34.4,clear
+699,Green Gram (Moong),Thattanchavady,2017-10-03,5198.0,2.0,34.4,clear
+700,Black Gram (Urd Beans),Thattanchavady,2017-03-29,5347.0,18.0,33.4,clear
+701,Green Gram (Moong),Madagadipet,2017-03-29,5252.0,0.03,33.4,clear
+702,Green Gram (Moong),Thattanchavady,2017-03-29,5362.0,1.5,33.4,clear
+703,Black Gram (Urd Beans),Thattanchavady,2017-09-05,3814.0,13.0,35.0,rain
+704,Green Gram (Moong),Thattanchavady,2017-09-05,4377.0,0.3,35.0,rain
+705,Black Gram (Urd Beans),Thattanchavady,2017-05-15,4419.0,5.5,41.4,clear
+706,Green Gram (Moong),Thattanchavady,2017-05-15,4148.0,0.6,41.4,clear
+707,Black Gram (Urd Beans),Thattanchavady,2017-05-16,6529.0,9.0,39.6,clear
+708,Green Gram (Moong),Thattanchavady,2017-05-16,4447.0,0.2,39.6,clear
+709,Black Gram (Urd Beans),Thattanchavady,2017-05-17,5455.0,10.0,41.8,clear
+710,Green Gram (Moong),Thattanchavady,2017-05-17,3783.0,1.0,41.8,clear
+711,Black Gram (Urd Beans),Thattanchavady,2017-05-18,4984.0,7.0,40.6,clear
+712,Green Gram (Moong),Thattanchavady,2017-05-18,2667.0,1.5,40.6,clear
+713,Black Gram (Urd Beans),Thattanchavady,2017-05-23,4683.0,6.0,36.4,clear
+714,Green Gram (Moong),Thattanchavady,2017-05-23,3897.0,0.6,36.4,clear
+715,Black Gram (Urd Beans),Thattanchavady,2017-05-24,4669.0,14.0,36.0,clear
+716,Green Gram (Moong),Thattanchavady,2017-05-24,3799.0,6.0,36.0,clear
+717,Black Gram (Urd Beans),Thattanchavady,2017-05-25,5826.0,10.0,37.2,clear
+718,Green Gram (Moong),Thattanchavady,2017-05-25,3382.0,3.0,37.2,clear
+719,Black Gram (Urd Beans),Thattanchavady,2017-05-26,4908.0,9.0,38.2,clear
+720,Green Gram (Moong),Thattanchavady,2017-05-26,3657.0,1.0,38.2,clear
+721,Black Gram (Urd Beans),Thattanchavady,2017-05-06,4083.0,4.0,35.6,clear
+722,Black Gram (Urd Beans),Thattanchavady,2017-06-06,4516.0,4.0,39.2,rain
+723,Green Gram (Moong),Thattanchavady,2017-06-06,3847.0,0.3,39.2,rain
+724,Black Gram (Urd Beans),Thattanchavady,2017-07-06,4808.0,9.0,38.0,clear
+725,Green Gram (Moong),Thattanchavady,2017-07-06,3872.0,0.5,38.0,clear
+726,Black Gram (Urd Beans),Thattanchavady,2017-08-06,3557.0,2.0,34.4,clear
+727,Green Gram (Moong),Thattanchavady,2017-08-06,3897.0,0.1,34.4,clear
+728,Black Gram (Urd Beans),Thattanchavady,2017-09-06,4762.0,5.0,32.8,clear
+729,Green Gram (Moong),Thattanchavady,2017-09-06,3912.0,0.2,32.8,clear
+730,Black Gram (Urd Beans),Thattanchavady,2017-06-14,4834.0,3.5,36.2,clear
+731,Green Gram (Moong),Thattanchavady,2017-06-14,4061.0,0.8,36.2,clear
+732,Black Gram (Urd Beans),Thattanchavady,2017-06-16,5334.0,1.7,34.6,rain
+733,Black Gram (Urd Beans),Thattanchavady,2017-06-19,5409.0,3.0,36.4,rain
+734,Green Gram (Moong),Thattanchavady,2017-06-19,4199.0,0.2,36.4,rain
+735,Black Gram (Urd Beans),Thattanchavady,2017-06-21,5376.0,6.5,36.8,clear
+736,Green Gram (Moong),Thattanchavady,2017-06-21,3638.0,0.4,36.8,clear
+737,Black Gram (Urd Beans),Thattanchavady,2017-06-22,3553.0,3.0,36.0,clear
+738,Green Gram (Moong),Thattanchavady,2017-06-22,3947.0,1.2,36.0,clear
+739,Black Gram (Urd Beans),Thattanchavady,2017-06-23,4343.0,2.1,36.2,clear
+740,Green Gram (Moong),Thattanchavady,2017-06-23,4197.0,0.2,36.2,clear
+741,Black Gram (Urd Beans),Thattanchavady,2017-06-27,3538.0,0.4,36.0,clear
+742,Green Gram (Moong),Thattanchavady,2017-06-27,4097.0,0.1,36.0,clear
+743,Black Gram (Urd Beans),Thattanchavady,2017-06-28,4339.0,3.2,36.0,clear
+744,Green Gram (Moong),Thattanchavady,2017-06-28,3747.0,0.1,36.0,clear
+745,Black Gram (Urd Beans),Thattanchavady,2017-06-29,4334.0,3.5,37.2,clear
+746,Green Gram (Moong),Thattanchavady,2017-06-29,3423.0,0.8,37.2,clear
+747,Black Gram (Urd Beans),Thattanchavady,2017-04-07,4809.0,0.8,33.8,clear
+748,Black Gram (Urd Beans),Thattanchavady,2017-10-07,4133.0,0.6,31.4,clear
+749,Black Gram (Urd Beans),Thattanchavady,2017-07-14,4859.0,1.6,31.0,clear
+750,Green Gram (Moong),Thattanchavady,2017-07-14,4247.0,0.2,31.0,clear
+751,Black Gram (Urd Beans),Thattanchavady,2017-04-08,4578.0,0.2,33.8,clear
+752,Black Gram (Urd Beans),Thattanchavady,2017-07-08,3139.0,0.8,34.4,clear
+753,Black Gram (Urd Beans),Thattanchavady,2017-08-21,4273.0,0.3,34.6,clear
+754,Green Gram (Moong),Thattanchavady,2017-08-21,3354.0,0.2,34.6,clear
+755,Black Gram (Urd Beans),Thattanchavady,2017-09-26,5022.0,0.3,31.4,clear
+756,Black Gram (Urd Beans),Thattanchavady,2017-03-10,4535.0,0.8,32.4,clear
+757,Black Gram (Urd Beans),Thattanchavady,2017-04-10,3958.0,0.6,35.2,clear
+758,Black Gram (Urd Beans),Thattanchavady,2017-09-10,3966.0,1.3,32.6,clear
+759,Black Gram (Urd Beans),Thattanchavady,2017-10-30,3448.0,0.1,26.0,rain
+760,Green Gram (Moong),Thattanchavady,2017-06-01,5717.0,0.1,38.6,clear
+761,Green Gram (Moong),Thattanchavady,2017-01-13,4189.0,0.1,30.0,clear

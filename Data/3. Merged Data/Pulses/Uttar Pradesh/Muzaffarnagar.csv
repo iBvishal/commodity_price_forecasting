@@ -1,0 +1,1098 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Khatauli,2015-12-07,9050.0,0.0,19.2,clear
+1,Bengal Gram(Gram),Khatauli,2015-12-07,4850.0,0.0,19.2,clear
+2,Black Gram (Urd Beans),Khatauli,2015-12-07,8950.0,0.0,19.2,clear
+3,Arhar (Tur/Red Gram),Khatauli,2015-12-09,10600.0,0.0,20.2,clear
+4,Bengal Gram(Gram),Khatauli,2015-12-09,4900.0,0.0,20.2,clear
+5,Black Gram (Urd Beans),Khatauli,2015-12-09,9770.0,0.0,20.2,clear
+6,Arhar (Tur/Red Gram),Khatauli,2015-12-15,11000.0,4.0,21.2,clear
+7,Bengal Gram(Gram),Khatauli,2015-12-15,5400.0,2.0,21.2,clear
+8,Bengal Gram(Gram),Muzzafarnagar,2015-12-15,5425.0,12.0,21.2,clear
+9,Black Gram (Urd Beans),Khatauli,2015-12-15,10200.0,0.0,21.2,clear
+10,Lentil(Masur),Muzzafarnagar,2015-12-15,8025.0,5.0,21.2,clear
+11,Arhar (Tur/Red Gram),Khatauli,2015-12-18,11600.0,0.0,21.0,clear
+12,Bengal Gram(Gram),Khatauli,2015-12-18,5400.0,0.0,21.0,clear
+13,Bengal Gram(Gram),Muzzafarnagar,2015-12-18,5380.0,0.0,21.0,clear
+14,Black Gram (Urd Beans),Khatauli,2015-12-18,10250.0,0.0,21.0,clear
+15,Lentil(Masur),Muzzafarnagar,2015-12-18,8050.0,0.0,21.0,clear
+16,Bengal Gram(Gram),Muzzafarnagar,2015-12-08,4925.0,0.0,24.2,clear
+17,Lentil(Masur),Muzzafarnagar,2015-12-08,7250.0,0.0,24.2,clear
+18,Bengal Gram(Gram),Muzzafarnagar,2015-12-10,5320.0,11.5,25.0,clear
+19,Lentil(Masur),Muzzafarnagar,2015-12-10,7650.0,4.0,25.0,clear
+20,Bengal Gram(Gram),Muzzafarnagar,2015-12-12,5470.0,0.0,14.8,clear
+21,Bengal Gram(Gram),Muzzafarnagar,2015-12-14,5450.0,11.0,20.4,clear
+22,Lentil(Masur),Muzzafarnagar,2015-12-14,7980.0,5.7,20.4,clear
+23,Bengal Gram(Gram),Muzzafarnagar,2015-12-17,5380.0,15.6,19.6,clear
+24,Lentil(Masur),Muzzafarnagar,2015-12-17,8030.0,5.0,19.6,clear
+25,Bengal Gram(Gram),Muzzafarnagar,2015-12-21,5370.0,0.0,19.4,clear
+26,Lentil(Masur),Muzzafarnagar,2015-12-21,7750.0,7.5,19.4,clear
+27,Bengal Gram(Gram),Muzzafarnagar,2015-12-22,5370.0,11.0,19.6,clear
+28,Lentil(Masur),Muzzafarnagar,2015-12-22,7750.0,7.2,19.6,clear
+29,Bengal Gram(Gram),Muzzafarnagar,2015-12-25,5400.0,0.0,18.8,clear
+30,Lentil(Masur),Muzzafarnagar,2015-12-25,7780.0,6.0,18.8,clear
+31,Bengal Gram(Gram),Muzzafarnagar,2015-12-26,5400.0,13.0,21.0,clear
+32,Lentil(Masur),Muzzafarnagar,2015-12-26,7720.0,4.2,21.0,clear
+33,Bengal Gram(Gram),Muzzafarnagar,2015-12-28,5400.0,14.0,23.2,clear
+34,Bengal Gram(Gram),Muzzafarnagar,2015-12-29,5420.0,0.0,20.0,clear
+35,Lentil(Masur),Muzzafarnagar,2015-12-29,7800.0,5.0,20.0,clear
+36,Bengal Gram(Gram),Muzzafarnagar,2015-12-30,5430.0,13.0,23.8,clear
+37,Bengal Gram(Gram),Muzzafarnagar,2015-12-31,5430.0,0.0,22.4,clear
+38,Lentil(Masur),Muzzafarnagar,2015-12-31,8800.0,4.0,22.4,clear
+39,Arhar (Tur/Red Gram),Khatauli,2016-03-01,11750.0,0.0,29.4,clear
+40,Bengal Gram(Gram),Khatauli,2016-03-01,5400.0,0.0,29.4,clear
+41,Black Gram (Urd Beans),Khatauli,2016-03-01,10600.0,0.0,29.4,clear
+42,Arhar (Tur/Red Gram),Khatauli,2016-05-01,11750.0,2.0,38.8,clear
+43,Bengal Gram(Gram),Khatauli,2016-05-01,5340.0,2.0,38.8,clear
+44,Bengal Gram(Gram),Muzzafarnagar,2016-05-01,5350.0,0.0,38.8,clear
+45,Black Gram (Urd Beans),Khatauli,2016-05-01,10600.0,0.0,38.8,clear
+46,Lentil(Masur),Muzzafarnagar,2016-05-01,7750.0,6.0,38.8,clear
+47,Arhar (Tur/Red Gram),Khatauli,2016-06-01,11750.0,0.0,37.8,clear
+48,Bengal Gram(Gram),Khatauli,2016-06-01,5340.0,0.0,37.8,clear
+49,Bengal Gram(Gram),Muzzafarnagar,2016-06-01,5330.0,16.0,37.8,clear
+50,Black Gram (Urd Beans),Khatauli,2016-06-01,10600.0,0.0,37.8,clear
+51,Lentil(Masur),Muzzafarnagar,2016-06-01,7750.0,0.0,37.8,clear
+52,Arhar (Tur/Red Gram),Khatauli,2016-09-01,11700.0,0.0,29.8,clear
+53,Bengal Gram(Gram),Khatauli,2016-09-01,5300.0,0.0,29.8,clear
+54,Black Gram (Urd Beans),Khatauli,2016-09-01,10750.0,0.0,29.8,clear
+55,Arhar (Tur/Red Gram),Khatauli,2016-12-01,11700.0,0.0,26.0,clear
+56,Bengal Gram(Gram),Khatauli,2016-12-01,5320.0,0.0,26.0,clear
+57,Bengal Gram(Gram),Muzzafarnagar,2016-12-01,5350.0,0.0,26.0,clear
+58,Black Gram (Urd Beans),Khatauli,2016-12-01,10800.0,0.0,26.0,clear
+59,Lentil(Masur),Muzzafarnagar,2016-12-01,8040.0,0.0,26.0,clear
+60,Arhar (Tur/Red Gram),Khatauli,2016-01-13,11750.0,2.0,19.4,clear
+61,Bengal Gram(Gram),Khatauli,2016-01-13,5320.0,0.0,19.4,clear
+62,Bengal Gram(Gram),Muzzafarnagar,2016-01-13,5375.0,12.0,19.4,clear
+63,Black Gram (Urd Beans),Khatauli,2016-01-13,10800.0,3.0,19.4,clear
+64,Lentil(Masur),Muzzafarnagar,2016-01-13,8025.0,7.5,19.4,clear
+65,Arhar (Tur/Red Gram),Khatauli,2016-01-15,12500.0,0.0,14.6,clear
+66,Bengal Gram(Gram),Khatauli,2016-01-15,5300.0,0.0,14.6,clear
+67,Black Gram (Urd Beans),Khatauli,2016-01-15,11250.0,0.0,14.6,clear
+68,Lentil(Masur),Muzzafarnagar,2016-01-15,8020.0,8.0,14.6,clear
+69,Arhar (Tur/Red Gram),Khatauli,2016-01-17,12500.0,0.0,17.8,clear
+70,Bengal Gram(Gram),Khatauli,2016-01-17,5350.0,0.0,17.8,clear
+71,Black Gram (Urd Beans),Khatauli,2016-01-17,11250.0,0.0,17.8,clear
+72,Arhar (Tur/Red Gram),Khatauli,2016-01-19,12500.0,0.0,16.0,clear
+73,Bengal Gram(Gram),Khatauli,2016-01-19,5350.0,0.0,16.0,clear
+74,Bengal Gram(Gram),Muzzafarnagar,2016-01-19,5365.0,0.0,16.0,clear
+75,Black Gram (Urd Beans),Khatauli,2016-01-19,11250.0,2.0,16.0,clear
+76,Lentil(Masur),Muzzafarnagar,2016-01-19,7780.0,6.0,16.0,clear
+77,Arhar (Tur/Red Gram),Khatauli,2016-01-20,12500.0,0.0,13.0,clear
+78,Bengal Gram(Gram),Khatauli,2016-01-20,5350.0,0.0,13.0,clear
+79,Bengal Gram(Gram),Muzzafarnagar,2016-01-20,5365.0,0.0,13.0,clear
+80,Black Gram (Urd Beans),Khatauli,2016-01-20,11250.0,0.0,13.0,clear
+81,Lentil(Masur),Muzzafarnagar,2016-01-20,7780.0,0.0,13.0,clear
+82,Arhar (Tur/Red Gram),Khatauli,2016-01-21,12250.0,0.0,12.8,clear
+83,Bengal Gram(Gram),Khatauli,2016-01-21,5350.0,0.0,12.8,clear
+84,Black Gram (Urd Beans),Khatauli,2016-01-21,11250.0,0.0,12.8,clear
+85,Arhar (Tur/Red Gram),Khatauli,2016-01-22,12500.0,0.0,15.8,clear
+86,Bengal Gram(Gram),Khatauli,2016-01-22,5350.0,0.0,15.8,clear
+87,Bengal Gram(Gram),Muzzafarnagar,2016-01-22,5350.0,0.0,15.8,clear
+88,Black Gram (Urd Beans),Khatauli,2016-01-22,11250.0,0.0,15.8,clear
+89,Lentil(Masur),Muzzafarnagar,2016-01-22,7740.0,0.0,15.8,clear
+90,Arhar (Tur/Red Gram),Khatauli,2016-01-23,12250.0,0.0,17.6,clear
+91,Bengal Gram(Gram),Khatauli,2016-01-23,5350.0,0.0,17.6,clear
+92,Bengal Gram(Gram),Muzzafarnagar,2016-01-23,5370.0,11.0,17.6,clear
+93,Black Gram (Urd Beans),Khatauli,2016-01-23,11250.0,0.0,17.6,clear
+94,Lentil(Masur),Muzzafarnagar,2016-01-23,7760.0,0.0,17.6,clear
+95,Arhar (Tur/Red Gram),Khatauli,2016-01-24,12250.0,0.0,15.8,clear
+96,Bengal Gram(Gram),Khatauli,2016-01-24,5350.0,0.0,15.8,clear
+97,Black Gram (Urd Beans),Khatauli,2016-01-24,11250.0,0.0,15.8,clear
+98,Arhar (Tur/Red Gram),Khatauli,2016-01-26,12250.0,0.0,17.4,clear
+99,Bengal Gram(Gram),Khatauli,2016-01-26,5400.0,0.0,17.4,clear
+100,Black Gram (Urd Beans),Khatauli,2016-01-26,11250.0,0.0,17.4,clear
+101,Arhar (Tur/Red Gram),Khatauli,2016-01-27,12250.0,0.0,20.4,clear
+102,Bengal Gram(Gram),Khatauli,2016-01-27,5400.0,0.0,20.4,clear
+103,Bengal Gram(Gram),Muzzafarnagar,2016-01-27,5370.0,0.0,20.4,clear
+104,Black Gram (Urd Beans),Khatauli,2016-01-27,11250.0,0.0,20.4,clear
+105,Lentil(Masur),Muzzafarnagar,2016-01-27,7800.0,5.5,20.4,clear
+106,Arhar (Tur/Red Gram),Khatauli,2016-01-30,12000.0,2.0,25.2,clear
+107,Bengal Gram(Gram),Khatauli,2016-01-30,5400.0,0.0,25.2,clear
+108,Bengal Gram(Gram),Muzzafarnagar,2016-01-30,5380.0,11.0,25.2,clear
+109,Black Gram (Urd Beans),Khatauli,2016-01-30,11100.0,3.0,25.2,clear
+110,Lentil(Masur),Muzzafarnagar,2016-01-30,7850.0,0.0,25.2,clear
+111,Arhar (Tur/Red Gram),Khatauli,2016-01-31,12000.0,0.0,19.0,clear
+112,Bengal Gram(Gram),Khatauli,2016-01-31,5440.0,3.0,19.0,clear
+113,Black Gram (Urd Beans),Khatauli,2016-01-31,11100.0,0.0,19.0,clear
+114,Arhar (Tur/Red Gram),Khatauli,2016-02-02,12150.0,0.0,20.2,clear
+115,Bengal Gram(Gram),Khatauli,2016-02-02,5340.0,0.0,20.2,clear
+116,Bengal Gram(Gram),Muzzafarnagar,2016-02-02,5400.0,12.0,20.2,clear
+117,Black Gram (Urd Beans),Khatauli,2016-02-02,11450.0,0.0,20.2,clear
+118,Lentil(Masur),Muzzafarnagar,2016-02-02,7870.0,0.0,20.2,clear
+119,Arhar (Tur/Red Gram),Khatauli,2016-03-02,12150.0,0.0,30.0,clear
+120,Bengal Gram(Gram),Khatauli,2016-03-02,5350.0,4.0,30.0,clear
+121,Bengal Gram(Gram),Muzzafarnagar,2016-03-02,5370.0,9.0,30.0,clear
+122,Black Gram (Urd Beans),Khatauli,2016-03-02,11450.0,2.0,30.0,clear
+123,Lentil(Masur),Muzzafarnagar,2016-03-02,7870.0,0.0,30.0,clear
+124,Arhar (Tur/Red Gram),Khatauli,2016-04-02,12100.0,0.0,36.4,clear
+125,Bengal Gram(Gram),Khatauli,2016-04-02,5350.0,2.0,36.4,clear
+126,Bengal Gram(Gram),Muzzafarnagar,2016-04-02,5325.0,17.0,36.4,clear
+127,Black Gram (Urd Beans),Khatauli,2016-04-02,11250.0,0.0,36.4,clear
+128,Lentil(Masur),Muzzafarnagar,2016-04-02,7930.0,4.0,36.4,clear
+129,Arhar (Tur/Red Gram),Khatauli,2016-06-02,12000.0,0.0,39.0,clear
+130,Bengal Gram(Gram),Khatauli,2016-06-02,5350.0,0.0,39.0,clear
+131,Bengal Gram(Gram),Muzzafarnagar,2016-06-02,5280.0,0.0,39.0,clear
+132,Black Gram (Urd Beans),Khatauli,2016-06-02,11400.0,0.0,39.0,clear
+133,Lentil(Masur),Muzzafarnagar,2016-06-02,7950.0,0.0,39.0,clear
+134,Arhar (Tur/Red Gram),Khatauli,2016-07-02,11800.0,0.0,28.0,rain
+135,Bengal Gram(Gram),Khatauli,2016-07-02,5350.0,0.0,28.0,rain
+136,Black Gram (Urd Beans),Khatauli,2016-07-02,11000.0,0.0,28.0,rain
+137,Arhar (Tur/Red Gram),Khatauli,2016-09-02,11800.0,0.0,33.2,clear
+138,Bengal Gram(Gram),Khatauli,2016-09-02,5350.0,0.0,33.2,clear
+139,Bengal Gram(Gram),Muzzafarnagar,2016-09-02,5260.0,17.0,33.2,clear
+140,Black Gram (Urd Beans),Khatauli,2016-09-02,11000.0,0.0,33.2,clear
+141,Lentil(Masur),Muzzafarnagar,2016-09-02,7970.0,0.0,33.2,clear
+142,Arhar (Tur/Red Gram),Khatauli,2016-10-02,11750.0,2.0,35.8,clear
+143,Bengal Gram(Gram),Khatauli,2016-10-02,5330.0,20.0,35.8,clear
+144,Bengal Gram(Gram),Muzzafarnagar,2016-10-02,5260.0,0.0,35.8,clear
+145,Black Gram (Urd Beans),Khatauli,2016-10-02,11000.0,1.0,35.8,clear
+146,Lentil(Masur),Muzzafarnagar,2016-10-02,7930.0,6.0,35.8,clear
+147,Arhar (Tur/Red Gram),Khatauli,2016-11-02,11750.0,0.0,30.4,clear
+148,Bengal Gram(Gram),Khatauli,2016-11-02,5350.0,0.0,30.4,clear
+149,Bengal Gram(Gram),Muzzafarnagar,2016-11-02,5230.0,11.0,30.4,clear
+150,Black Gram (Urd Beans),Khatauli,2016-11-02,10900.0,4.0,30.4,clear
+151,Lentil(Masur),Muzzafarnagar,2016-11-02,7930.0,3.5,30.4,clear
+152,Arhar (Tur/Red Gram),Khatauli,2016-02-13,11600.0,2.0,20.4,clear
+153,Bengal Gram(Gram),Khatauli,2016-02-13,5360.0,2.0,20.4,clear
+154,Bengal Gram(Gram),Muzzafarnagar,2016-02-13,5200.0,9.0,20.4,clear
+155,Black Gram (Urd Beans),Khatauli,2016-02-13,10700.0,0.0,20.4,clear
+156,Lentil(Masur),Muzzafarnagar,2016-02-13,7910.0,4.7,20.4,clear
+157,Arhar (Tur/Red Gram),Khatauli,2016-02-14,11600.0,0.0,24.6,clear
+158,Bengal Gram(Gram),Khatauli,2016-02-14,5360.0,0.0,24.6,clear
+159,Black Gram (Urd Beans),Khatauli,2016-02-14,10700.0,0.0,24.6,clear
+160,Arhar (Tur/Red Gram),Khatauli,2016-02-16,11500.0,0.0,24.8,clear
+161,Bengal Gram(Gram),Khatauli,2016-02-16,5300.0,0.0,24.8,clear
+162,Bengal Gram(Gram),Muzzafarnagar,2016-02-16,5170.0,0.0,24.8,clear
+163,Black Gram (Urd Beans),Khatauli,2016-02-16,10600.0,0.0,24.8,clear
+164,Lentil(Masur),Muzzafarnagar,2016-02-16,7870.0,5.0,24.8,clear
+165,Arhar (Tur/Red Gram),Khatauli,2016-02-17,11500.0,0.0,25.4,clear
+166,Bengal Gram(Gram),Khatauli,2016-02-17,5280.0,3.0,25.4,clear
+167,Bengal Gram(Gram),Muzzafarnagar,2016-02-17,5140.0,16.0,25.4,clear
+168,Black Gram (Urd Beans),Khatauli,2016-02-17,10600.0,0.0,25.4,clear
+169,Lentil(Masur),Muzzafarnagar,2016-02-17,7870.0,4.2,25.4,clear
+170,Arhar (Tur/Red Gram),Khatauli,2016-02-18,11450.0,2.0,25.8,clear
+171,Bengal Gram(Gram),Khatauli,2016-02-18,5250.0,2.0,25.8,clear
+172,Bengal Gram(Gram),Muzzafarnagar,2016-02-18,5140.0,0.0,25.8,clear
+173,Black Gram (Urd Beans),Khatauli,2016-02-18,10550.0,2.0,25.8,clear
+174,Lentil(Masur),Muzzafarnagar,2016-02-18,7870.0,0.0,25.8,clear
+175,Arhar (Tur/Red Gram),Khatauli,2016-02-23,11450.0,0.0,26.2,clear
+176,Bengal Gram(Gram),Khatauli,2016-02-23,5300.0,0.0,26.2,clear
+177,Bengal Gram(Gram),Muzzafarnagar,2016-02-23,5150.0,12.0,26.2,clear
+178,Black Gram (Urd Beans),Khatauli,2016-02-23,10550.0,0.0,26.2,clear
+179,Lentil(Masur),Muzzafarnagar,2016-02-23,7850.0,6.5,26.2,clear
+180,Arhar (Tur/Red Gram),Khatauli,2016-02-24,11450.0,0.0,27.0,clear
+181,Bengal Gram(Gram),Khatauli,2016-02-24,5300.0,0.0,27.0,clear
+182,Bengal Gram(Gram),Muzzafarnagar,2016-02-24,5150.0,0.0,27.0,clear
+183,Black Gram (Urd Beans),Khatauli,2016-02-24,10550.0,0.0,27.0,clear
+184,Lentil(Masur),Muzzafarnagar,2016-02-24,7850.0,0.0,27.0,clear
+185,Arhar (Tur/Red Gram),Khatauli,2016-02-26,11450.0,0.0,27.8,clear
+186,Bengal Gram(Gram),Khatauli,2016-02-26,5270.0,2.0,27.8,clear
+187,Bengal Gram(Gram),Muzzafarnagar,2016-02-26,5130.0,0.0,27.8,clear
+188,Black Gram (Urd Beans),Khatauli,2016-02-26,10550.0,0.0,27.8,clear
+189,Lentil(Masur),Muzzafarnagar,2016-02-26,7825.0,5.4,27.8,clear
+190,Arhar (Tur/Red Gram),Khatauli,2016-02-27,11450.0,0.0,27.4,clear
+191,Bengal Gram(Gram),Khatauli,2016-02-27,5270.0,0.0,27.4,clear
+192,Bengal Gram(Gram),Muzzafarnagar,2016-02-27,5130.0,0.0,27.4,clear
+193,Black Gram (Urd Beans),Khatauli,2016-02-27,10550.0,0.0,27.4,clear
+194,Lentil(Masur),Muzzafarnagar,2016-02-27,7825.0,0.0,27.4,clear
+195,Arhar (Tur/Red Gram),Khatauli,2016-01-03,11600.0,3.0,21.2,clear
+196,Bengal Gram(Gram),Khatauli,2016-01-03,5200.0,3.0,21.2,clear
+197,Black Gram (Urd Beans),Khatauli,2016-01-03,11000.0,2.5,21.2,clear
+198,Arhar (Tur/Red Gram),Khatauli,2016-03-03,11450.0,0.0,31.2,clear
+199,Bengal Gram(Gram),Khatauli,2016-03-03,5200.0,0.0,31.2,clear
+200,Bengal Gram(Gram),Muzzafarnagar,2016-03-03,5060.0,16.0,31.2,clear
+201,Black Gram (Urd Beans),Khatauli,2016-03-03,10800.0,0.0,31.2,clear
+202,Lentil(Masur),Muzzafarnagar,2016-03-03,7830.0,5.0,31.2,clear
+203,Arhar (Tur/Red Gram),Khatauli,2016-04-03,11450.0,0.0,36.0,clear
+204,Bengal Gram(Gram),Khatauli,2016-04-03,5200.0,0.0,36.0,clear
+205,Bengal Gram(Gram),Muzzafarnagar,2016-04-03,5070.0,0.0,36.0,clear
+206,Black Gram (Urd Beans),Khatauli,2016-04-03,10700.0,1.0,36.0,clear
+207,Arhar (Tur/Red Gram),Khatauli,2016-05-03,11450.0,0.0,36.8,clear
+208,Bengal Gram(Gram),Khatauli,2016-05-03,5200.0,0.0,36.8,clear
+209,Bengal Gram(Gram),Muzzafarnagar,2016-05-03,5070.0,0.0,36.8,clear
+210,Black Gram (Urd Beans),Khatauli,2016-05-03,10600.0,2.0,36.8,clear
+211,Lentil(Masur),Muzzafarnagar,2016-05-03,7380.0,9.0,36.8,clear
+212,Arhar (Tur/Red Gram),Khatauli,2016-06-03,11450.0,0.0,38.8,clear
+213,Bengal Gram(Gram),Khatauli,2016-06-03,5200.0,0.0,38.8,clear
+214,Black Gram (Urd Beans),Khatauli,2016-06-03,10500.0,0.0,38.8,clear
+215,Arhar (Tur/Red Gram),Khatauli,2016-07-03,11450.0,0.0,29.6,rain
+216,Bengal Gram(Gram),Khatauli,2016-07-03,5200.0,0.0,29.6,rain
+217,Black Gram (Urd Beans),Khatauli,2016-07-03,10550.0,1.0,29.6,rain
+218,Arhar (Tur/Red Gram),Khatauli,2016-08-03,11450.0,0.0,34.8,clear
+219,Bengal Gram(Gram),Khatauli,2016-08-03,5200.0,0.0,34.8,clear
+220,Bengal Gram(Gram),Muzzafarnagar,2016-08-03,5060.0,15.0,34.8,clear
+221,Black Gram (Urd Beans),Khatauli,2016-08-03,10500.0,0.0,34.8,clear
+222,Lentil(Masur),Muzzafarnagar,2016-08-03,7250.0,7.0,34.8,clear
+223,Arhar (Tur/Red Gram),Khatauli,2016-09-03,11450.0,0.0,32.8,clear
+224,Bengal Gram(Gram),Khatauli,2016-09-03,5200.0,0.0,32.8,clear
+225,Bengal Gram(Gram),Muzzafarnagar,2016-09-03,5060.0,0.0,32.8,clear
+226,Black Gram (Urd Beans),Khatauli,2016-09-03,10500.0,0.0,32.8,clear
+227,Lentil(Masur),Muzzafarnagar,2016-09-03,7160.0,7.2,32.8,clear
+228,Arhar (Tur/Red Gram),Khatauli,2016-12-03,11750.0,0.0,25.2,clear
+229,Bengal Gram(Gram),Khatauli,2016-12-03,5150.0,3.0,25.2,clear
+230,Black Gram (Urd Beans),Khatauli,2016-12-03,11250.0,0.0,25.2,clear
+231,Arhar (Tur/Red Gram),Khatauli,2016-03-13,11700.0,0.0,27.2,clear
+232,Bengal Gram(Gram),Khatauli,2016-03-13,5150.0,0.0,27.2,clear
+233,Black Gram (Urd Beans),Khatauli,2016-03-13,11250.0,0.0,27.2,clear
+234,Arhar (Tur/Red Gram),Khatauli,2016-03-15,11700.0,0.0,27.0,clear
+235,Bengal Gram(Gram),Khatauli,2016-03-15,5150.0,0.0,27.0,clear
+236,Bengal Gram(Gram),Muzzafarnagar,2016-03-15,5150.0,0.0,27.0,clear
+237,Black Gram (Urd Beans),Khatauli,2016-03-15,11250.0,0.0,27.0,clear
+238,Lentil(Masur),Muzzafarnagar,2016-03-15,7050.0,0.0,27.0,clear
+239,Arhar (Tur/Red Gram),Khatauli,2016-03-16,11750.0,0.0,26.4,clear
+240,Bengal Gram(Gram),Khatauli,2016-03-16,5140.0,0.0,26.4,clear
+241,Bengal Gram(Gram),Muzzafarnagar,2016-03-16,5130.0,15.0,26.4,clear
+242,Black Gram (Urd Beans),Khatauli,2016-03-16,11250.0,0.0,26.4,clear
+243,Lentil(Masur),Muzzafarnagar,2016-03-16,7030.0,5.2,26.4,clear
+244,Arhar (Tur/Red Gram),Khatauli,2016-03-19,11750.0,0.0,30.0,clear
+245,Bengal Gram(Gram),Khatauli,2016-03-19,5140.0,0.0,30.0,clear
+246,Black Gram (Urd Beans),Khatauli,2016-03-19,11250.0,0.0,30.0,clear
+247,Arhar (Tur/Red Gram),Khatauli,2016-03-20,11750.0,0.0,31.2,clear
+248,Bengal Gram(Gram),Khatauli,2016-03-20,5140.0,0.0,31.2,clear
+249,Black Gram (Urd Beans),Khatauli,2016-03-20,11250.0,0.0,31.2,clear
+250,Arhar (Tur/Red Gram),Khatauli,2016-03-22,11750.0,0.0,28.2,clear
+251,Bengal Gram(Gram),Khatauli,2016-03-22,5150.0,0.0,28.2,clear
+252,Bengal Gram(Gram),Muzzafarnagar,2016-03-22,5150.0,0.0,28.2,clear
+253,Black Gram (Urd Beans),Khatauli,2016-03-22,11250.0,0.0,28.2,clear
+254,Lentil(Masur),Muzzafarnagar,2016-03-22,7060.0,0.0,28.2,clear
+255,Arhar (Tur/Red Gram),Khatauli,2016-03-25,11750.0,0.0,34.4,clear
+256,Bengal Gram(Gram),Khatauli,2016-03-25,5160.0,1.0,34.4,clear
+257,Bengal Gram(Gram),Muzzafarnagar,2016-03-25,5150.0,0.0,34.4,clear
+258,Black Gram (Urd Beans),Khatauli,2016-03-25,11250.0,0.0,34.4,clear
+259,Lentil(Masur),Muzzafarnagar,2016-03-25,7030.0,0.0,34.4,clear
+260,Arhar (Tur/Red Gram),Khatauli,2016-03-26,11750.0,0.0,24.4,clear
+261,Bengal Gram(Gram),Khatauli,2016-03-26,5160.0,2.0,24.4,clear
+262,Bengal Gram(Gram),Muzzafarnagar,2016-03-26,5160.0,15.0,24.4,clear
+263,Black Gram (Urd Beans),Khatauli,2016-03-26,11250.0,0.0,24.4,clear
+264,Lentil(Masur),Muzzafarnagar,2016-03-26,7030.0,5.2,24.4,clear
+265,Arhar (Tur/Red Gram),Khatauli,2016-03-29,11750.0,0.0,32.0,clear
+266,Bengal Gram(Gram),Khatauli,2016-03-29,5160.0,0.0,32.0,clear
+267,Bengal Gram(Gram),Muzzafarnagar,2016-03-29,5180.0,0.0,32.0,clear
+268,Black Gram (Urd Beans),Khatauli,2016-03-29,11250.0,0.0,32.0,clear
+269,Lentil(Masur),Muzzafarnagar,2016-03-29,7030.0,0.0,32.0,clear
+270,Arhar (Tur/Red Gram),Khatauli,2016-03-30,11750.0,0.0,33.8,clear
+271,Bengal Gram(Gram),Khatauli,2016-03-30,5160.0,0.0,33.8,clear
+272,Bengal Gram(Gram),Muzzafarnagar,2016-03-30,5160.0,15.0,33.8,clear
+273,Black Gram (Urd Beans),Khatauli,2016-03-30,11250.0,0.0,33.8,clear
+274,Lentil(Masur),Muzzafarnagar,2016-03-30,7100.0,4.5,33.8,clear
+275,Arhar (Tur/Red Gram),Khatauli,2016-03-31,11750.0,3.0,36.2,clear
+276,Bengal Gram(Gram),Khatauli,2016-03-31,5160.0,0.0,36.2,clear
+277,Bengal Gram(Gram),Muzzafarnagar,2016-03-31,5160.0,0.0,36.2,clear
+278,Black Gram (Urd Beans),Khatauli,2016-03-31,11250.0,0.0,36.2,clear
+279,Lentil(Masur),Muzzafarnagar,2016-03-31,7100.0,0.0,36.2,clear
+280,Arhar (Tur/Red Gram),Khatauli,2016-03-05,11840.0,2.0,25.4,clear
+281,Bengal Gram(Gram),Khatauli,2016-03-05,5750.0,0.0,25.4,clear
+282,Black Gram (Urd Beans),Khatauli,2016-03-05,12650.0,0.0,25.4,clear
+283,Arhar (Tur/Red Gram),Khatauli,2016-04-05,11840.0,0.0,34.6,clear
+284,Bengal Gram(Gram),Khatauli,2016-04-05,5750.0,0.0,34.6,clear
+285,Black Gram (Urd Beans),Khatauli,2016-04-05,12650.0,0.0,34.6,clear
+286,Arhar (Tur/Red Gram),Khatauli,2016-05-05,11840.0,2.0,32.0,clear
+287,Bengal Gram(Gram),Khatauli,2016-05-05,5750.0,0.0,32.0,clear
+288,Black Gram (Urd Beans),Khatauli,2016-05-05,12650.0,2.0,32.0,clear
+289,Arhar (Tur/Red Gram),Khatauli,2016-10-05,11840.0,4.0,30.0,clear
+290,Bengal Gram(Gram),Khatauli,2016-10-05,5760.0,4.0,30.0,clear
+291,Black Gram (Urd Beans),Khatauli,2016-10-05,12650.0,3.0,30.0,clear
+292,Arhar (Tur/Red Gram),Khatauli,2016-11-05,11840.0,0.0,28.0,clear
+293,Bengal Gram(Gram),Khatauli,2016-11-05,5760.0,0.0,28.0,clear
+294,Black Gram (Urd Beans),Khatauli,2016-11-05,12650.0,0.0,28.0,clear
+295,Arhar (Tur/Red Gram),Khatauli,2016-12-05,11840.0,0.0,24.8,clear
+296,Bengal Gram(Gram),Khatauli,2016-12-05,5760.0,0.0,24.8,clear
+297,Black Gram (Urd Beans),Khatauli,2016-12-05,12650.0,0.0,24.8,clear
+298,Arhar (Tur/Red Gram),Khatauli,2016-05-13,11840.0,0.0,40.8,clear
+299,Bengal Gram(Gram),Khatauli,2016-05-13,5760.0,0.0,40.8,clear
+300,Black Gram (Urd Beans),Khatauli,2016-05-13,12650.0,1.0,40.8,clear
+301,Arhar (Tur/Red Gram),Khatauli,2016-05-14,11840.0,0.0,40.0,clear
+302,Bengal Gram(Gram),Khatauli,2016-05-14,5800.0,5.0,40.0,clear
+303,Black Gram (Urd Beans),Khatauli,2016-05-14,12650.0,3.0,40.0,clear
+304,Arhar (Tur/Red Gram),Khatauli,2016-05-15,11840.0,0.0,41.2,clear
+305,Bengal Gram(Gram),Khatauli,2016-05-15,5800.0,0.0,41.2,clear
+306,Black Gram (Urd Beans),Khatauli,2016-05-15,12650.0,0.0,41.2,clear
+307,Arhar (Tur/Red Gram),Khatauli,2016-05-17,11840.0,2.0,41.8,clear
+308,Arhar (Tur/Red Gram),Muzzafarnagar,2016-05-17,11800.0,0.0,41.8,clear
+309,Bengal Gram(Gram),Khatauli,2016-05-17,5800.0,0.0,41.8,clear
+310,Bengal Gram(Gram),Muzzafarnagar,2016-05-17,5625.0,0.0,41.8,clear
+311,Black Gram (Urd Beans),Khatauli,2016-05-17,12650.0,3.0,41.8,clear
+312,Black Gram (Urd Beans),Muzzafarnagar,2016-05-17,12050.0,0.0,41.8,clear
+313,Arhar (Tur/Red Gram),Khatauli,2016-05-18,11840.0,2.0,41.0,clear
+314,Arhar (Tur/Red Gram),Muzzafarnagar,2016-05-18,11805.0,0.0,41.0,clear
+315,Bengal Gram(Gram),Khatauli,2016-05-18,5800.0,4.0,41.0,clear
+316,Bengal Gram(Gram),Muzzafarnagar,2016-05-18,5630.0,0.0,41.0,clear
+317,Black Gram (Urd Beans),Khatauli,2016-05-18,12650.0,3.0,41.0,clear
+318,Black Gram (Urd Beans),Muzzafarnagar,2016-05-18,12055.0,0.0,41.0,clear
+319,Arhar (Tur/Red Gram),Khatauli,2016-05-19,11840.0,0.0,38.4,clear
+320,Arhar (Tur/Red Gram),Muzzafarnagar,2016-05-19,11875.0,7.5,38.4,clear
+321,Bengal Gram(Gram),Khatauli,2016-05-19,5800.0,0.0,38.4,clear
+322,Bengal Gram(Gram),Muzzafarnagar,2016-05-19,5630.0,7.0,38.4,clear
+323,Black Gram (Urd Beans),Khatauli,2016-05-19,12650.0,0.0,38.4,clear
+324,Black Gram (Urd Beans),Muzzafarnagar,2016-05-19,12050.0,6.0,38.4,clear
+325,Arhar (Tur/Red Gram),Khatauli,2016-05-20,11840.0,3.0,38.0,clear
+326,Arhar (Tur/Red Gram),Muzzafarnagar,2016-05-20,11805.0,0.0,38.0,clear
+327,Bengal Gram(Gram),Khatauli,2016-05-20,5800.0,0.0,38.0,clear
+328,Bengal Gram(Gram),Muzzafarnagar,2016-05-20,5630.0,0.0,38.0,clear
+329,Black Gram (Urd Beans),Khatauli,2016-05-20,12650.0,2.0,38.0,clear
+330,Black Gram (Urd Beans),Muzzafarnagar,2016-05-20,12050.0,0.0,38.0,clear
+331,Arhar (Tur/Red Gram),Khatauli,2016-05-21,11840.0,3.0,36.2,clear
+332,Bengal Gram(Gram),Khatauli,2016-05-21,5870.0,4.0,36.2,clear
+333,Black Gram (Urd Beans),Khatauli,2016-05-21,12650.0,3.0,36.2,clear
+334,Arhar (Tur/Red Gram),Khatauli,2016-05-22,11840.0,0.0,37.2,clear
+335,Bengal Gram(Gram),Khatauli,2016-05-22,5900.0,3.0,37.2,clear
+336,Black Gram (Urd Beans),Khatauli,2016-05-22,12650.0,0.0,37.2,clear
+337,Arhar (Tur/Red Gram),Khatauli,2016-05-24,11840.0,2.0,33.4,clear
+338,Arhar (Tur/Red Gram),Muzzafarnagar,2016-05-24,11805.0,11.0,33.4,clear
+339,Bengal Gram(Gram),Khatauli,2016-05-24,5900.0,0.0,33.4,clear
+340,Bengal Gram(Gram),Muzzafarnagar,2016-05-24,5640.0,8.0,33.4,clear
+341,Black Gram (Urd Beans),Khatauli,2016-05-24,12650.0,3.0,33.4,clear
+342,Black Gram (Urd Beans),Muzzafarnagar,2016-05-24,12060.0,7.0,33.4,clear
+343,Arhar (Tur/Red Gram),Khatauli,2016-05-25,11650.0,2.0,36.6,clear
+344,Arhar (Tur/Red Gram),Muzzafarnagar,2016-05-25,11810.0,0.0,36.6,clear
+345,Bengal Gram(Gram),Khatauli,2016-05-25,5950.0,13.0,36.6,clear
+346,Bengal Gram(Gram),Muzzafarnagar,2016-05-25,5640.0,0.0,36.6,clear
+347,Black Gram (Urd Beans),Khatauli,2016-05-25,12700.0,2.0,36.6,clear
+348,Black Gram (Urd Beans),Muzzafarnagar,2016-05-25,12060.0,0.0,36.6,clear
+349,Arhar (Tur/Red Gram),Khatauli,2016-05-26,11650.0,0.0,36.6,clear
+350,Arhar (Tur/Red Gram),Muzzafarnagar,2016-05-26,11810.0,8.0,36.6,clear
+351,Bengal Gram(Gram),Khatauli,2016-05-26,5970.0,0.0,36.6,clear
+352,Bengal Gram(Gram),Muzzafarnagar,2016-05-26,5645.0,7.0,36.6,clear
+353,Black Gram (Urd Beans),Khatauli,2016-05-26,12700.0,0.0,36.6,clear
+354,Black Gram (Urd Beans),Muzzafarnagar,2016-05-26,12055.0,8.0,36.6,clear
+355,Arhar (Tur/Red Gram),Khatauli,2016-05-27,1700.0,0.0,39.8,clear
+356,Bengal Gram(Gram),Khatauli,2016-05-27,5950.0,5.0,39.8,clear
+357,Black Gram (Urd Beans),Khatauli,2016-05-27,12700.0,0.0,39.8,clear
+358,Arhar (Tur/Red Gram),Khatauli,2016-05-28,11700.0,3.0,39.0,clear
+359,Bengal Gram(Gram),Khatauli,2016-05-28,5950.0,0.0,39.0,clear
+360,Black Gram (Urd Beans),Khatauli,2016-05-28,12700.0,0.0,39.0,clear
+361,Arhar (Tur/Red Gram),Khatauli,2016-05-29,11700.0,0.0,30.0,clear
+362,Bengal Gram(Gram),Khatauli,2016-05-29,5950.0,0.0,30.0,clear
+363,Black Gram (Urd Beans),Khatauli,2016-05-29,12700.0,0.0,30.0,clear
+364,Arhar (Tur/Red Gram),Khatauli,2016-05-31,11700.0,0.0,36.0,clear
+365,Bengal Gram(Gram),Khatauli,2016-05-31,5950.0,0.0,36.0,clear
+366,Black Gram (Urd Beans),Khatauli,2016-05-31,12700.0,0.0,36.0,clear
+367,Arhar (Tur/Red Gram),Khatauli,2016-01-06,11700.0,0.0,23.6,clear
+368,Bengal Gram(Gram),Khatauli,2016-01-06,5900.0,0.0,23.6,clear
+369,Black Gram (Urd Beans),Khatauli,2016-01-06,12700.0,0.0,23.6,clear
+370,Arhar (Tur/Red Gram),Khatauli,2016-02-06,11700.0,1.5,20.2,clear
+371,Bengal Gram(Gram),Khatauli,2016-02-06,5900.0,0.0,20.2,clear
+372,Black Gram (Urd Beans),Khatauli,2016-02-06,12700.0,1.0,20.2,clear
+373,Arhar (Tur/Red Gram),Khatauli,2016-03-06,11700.0,0.0,26.0,clear
+374,Bengal Gram(Gram),Khatauli,2016-03-06,6000.0,5.0,26.0,clear
+375,Black Gram (Urd Beans),Khatauli,2016-03-06,12700.0,0.0,26.0,clear
+376,Arhar (Tur/Red Gram),Khatauli,2016-04-06,11700.0,0.0,36.8,clear
+377,Bengal Gram(Gram),Khatauli,2016-04-06,6100.0,0.0,36.8,clear
+378,Black Gram (Urd Beans),Khatauli,2016-04-06,12700.0,3.0,36.8,clear
+379,Arhar (Tur/Red Gram),Khatauli,2016-11-06,11700.0,0.0,28.4,clear
+380,Bengal Gram(Gram),Khatauli,2016-11-06,6200.0,0.0,28.4,clear
+381,Black Gram (Urd Beans),Khatauli,2016-11-06,12700.0,0.0,28.4,clear
+382,Arhar (Tur/Red Gram),Khatauli,2016-12-06,11700.0,0.0,15.6,clear
+383,Bengal Gram(Gram),Khatauli,2016-12-06,6200.0,10.0,15.6,clear
+384,Black Gram (Urd Beans),Khatauli,2016-12-06,12700.0,4.0,15.6,clear
+385,Arhar (Tur/Red Gram),Khatauli,2016-06-14,11700.0,3.0,35.6,clear
+386,Bengal Gram(Gram),Khatauli,2016-06-14,6250.0,4.0,35.6,clear
+387,Black Gram (Urd Beans),Khatauli,2016-06-14,12700.0,4.0,35.6,clear
+388,Arhar (Tur/Red Gram),Khatauli,2016-06-15,11700.0,2.0,34.0,rain
+389,Bengal Gram(Gram),Khatauli,2016-06-15,6250.0,0.0,34.0,rain
+390,Black Gram (Urd Beans),Khatauli,2016-06-15,12700.0,2.0,34.0,rain
+391,Arhar (Tur/Red Gram),Khatauli,2016-06-16,11700.0,0.0,32.4,clear
+392,Bengal Gram(Gram),Khatauli,2016-06-16,6270.0,0.0,32.4,clear
+393,Black Gram (Urd Beans),Khatauli,2016-06-16,12700.0,0.0,32.4,clear
+394,Arhar (Tur/Red Gram),Khatauli,2016-06-25,11700.0,0.0,34.4,clear
+395,Bengal Gram(Gram),Khatauli,2016-06-25,6420.0,0.0,34.4,clear
+396,Black Gram (Urd Beans),Khatauli,2016-06-25,12700.0,0.0,34.4,clear
+397,Arhar (Tur/Red Gram),Khatauli,2016-06-26,11700.0,0.0,34.6,clear
+398,Bengal Gram(Gram),Khatauli,2016-06-26,6450.0,0.0,34.6,clear
+399,Black Gram (Urd Beans),Khatauli,2016-06-26,12700.0,0.0,34.6,clear
+400,Arhar (Tur/Red Gram),Khatauli,2016-06-28,11700.0,3.0,32.0,clear
+401,Bengal Gram(Gram),Khatauli,2016-06-28,6430.0,0.0,32.0,clear
+402,Black Gram (Urd Beans),Khatauli,2016-06-28,12700.0,2.0,32.0,clear
+403,Arhar (Tur/Red Gram),Khatauli,2016-06-29,11700.0,0.0,35.8,clear
+404,Bengal Gram(Gram),Khatauli,2016-06-29,6460.0,4.0,35.8,clear
+405,Black Gram (Urd Beans),Khatauli,2016-06-29,12700.0,0.0,35.8,clear
+406,Arhar (Tur/Red Gram),Khatauli,2016-10-07,12200.0,0.0,33.8,clear
+407,Bengal Gram(Gram),Khatauli,2016-10-07,7000.0,0.0,33.8,clear
+408,Black Gram (Urd Beans),Khatauli,2016-10-07,12800.0,0.0,33.8,clear
+409,Arhar (Tur/Red Gram),Khatauli,2016-12-07,12200.0,0.0,18.6,clear
+410,Bengal Gram(Gram),Khatauli,2016-12-07,7000.0,0.0,18.6,clear
+411,Black Gram (Urd Beans),Khatauli,2016-12-07,12900.0,0.0,18.6,clear
+412,Arhar (Tur/Red Gram),Khatauli,2016-07-13,12200.0,1.5,34.2,clear
+413,Bengal Gram(Gram),Khatauli,2016-07-13,7050.0,3.0,34.2,clear
+414,Black Gram (Urd Beans),Khatauli,2016-07-13,12900.0,2.5,34.2,clear
+415,Arhar (Tur/Red Gram),Khatauli,2016-07-14,12200.0,0.0,32.6,clear
+416,Bengal Gram(Gram),Khatauli,2016-07-14,7050.0,0.0,32.6,clear
+417,Black Gram (Urd Beans),Khatauli,2016-07-14,12900.0,0.0,32.6,clear
+418,Arhar (Tur/Red Gram),Khatauli,2016-07-15,12200.0,2.0,33.8,clear
+419,Bengal Gram(Gram),Khatauli,2016-07-15,7200.0,4.0,33.8,clear
+420,Black Gram (Urd Beans),Khatauli,2016-07-15,12800.0,3.0,33.8,clear
+421,Arhar (Tur/Red Gram),Khatauli,2016-07-17,12200.0,0.0,28.2,clear
+422,Bengal Gram(Gram),Khatauli,2016-07-17,7600.0,4.0,28.2,clear
+423,Black Gram (Urd Beans),Khatauli,2016-07-17,12800.0,0.0,28.2,clear
+424,Arhar (Tur/Red Gram),Khatauli,2016-07-19,12200.0,0.0,34.4,clear
+425,Bengal Gram(Gram),Khatauli,2016-07-19,7800.0,3.0,34.4,clear
+426,Black Gram (Urd Beans),Khatauli,2016-07-19,12800.0,0.0,34.4,clear
+427,Arhar (Tur/Red Gram),Khatauli,2016-07-20,12200.0,2.0,36.0,clear
+428,Bengal Gram(Gram),Khatauli,2016-07-20,8000.0,4.0,36.0,clear
+429,Black Gram (Urd Beans),Khatauli,2016-07-20,12800.0,3.0,36.0,clear
+430,Arhar (Tur/Red Gram),Khatauli,2016-07-21,12200.0,0.0,35.4,clear
+431,Bengal Gram(Gram),Khatauli,2016-07-21,7950.0,3.0,35.4,clear
+432,Black Gram (Urd Beans),Khatauli,2016-07-21,12800.0,0.0,35.4,clear
+433,Arhar (Tur/Red Gram),Khatauli,2016-07-22,12150.0,1.0,33.0,clear
+434,Bengal Gram(Gram),Khatauli,2016-07-22,7900.0,2.0,33.0,clear
+435,Black Gram (Urd Beans),Khatauli,2016-07-22,12750.0,2.0,33.0,clear
+436,Arhar (Tur/Red Gram),Khatauli,2016-07-23,12150.0,1.5,30.8,clear
+437,Bengal Gram(Gram),Khatauli,2016-07-23,7880.0,2.5,30.8,clear
+438,Black Gram (Urd Beans),Khatauli,2016-07-23,12750.0,0.0,30.8,clear
+439,Arhar (Tur/Red Gram),Khatauli,2016-07-24,12750.0,0.0,33.0,clear
+440,Bengal Gram(Gram),Khatauli,2016-07-24,7880.0,0.0,33.0,clear
+441,Black Gram (Urd Beans),Khatauli,2016-07-24,12750.0,0.0,33.0,clear
+442,Arhar (Tur/Red Gram),Khatauli,2016-07-26,12150.0,0.0,31.4,clear
+443,Bengal Gram(Gram),Khatauli,2016-07-26,7880.0,0.0,31.4,clear
+444,Black Gram (Urd Beans),Khatauli,2016-07-26,12750.0,0.0,31.4,clear
+445,Arhar (Tur/Red Gram),Khatauli,2016-07-27,12150.0,0.0,29.0,rain
+446,Bengal Gram(Gram),Khatauli,2016-07-27,7880.0,0.0,29.0,rain
+447,Black Gram (Urd Beans),Khatauli,2016-07-27,12150.0,0.0,29.0,rain
+448,Arhar (Tur/Red Gram),Khatauli,2016-07-28,12200.0,0.0,31.0,rain
+449,Bengal Gram(Gram),Khatauli,2016-07-28,8000.0,3.0,31.0,rain
+450,Black Gram (Urd Beans),Khatauli,2016-07-28,12800.0,1.0,31.0,rain
+451,Arhar (Tur/Red Gram),Khatauli,2016-12-08,12000.0,0.0,18.2,clear
+452,Bengal Gram(Gram),Khatauli,2016-12-08,8260.0,0.0,18.2,clear
+453,Black Gram (Urd Beans),Khatauli,2016-12-08,12400.0,0.0,18.2,clear
+454,Arhar (Tur/Red Gram),Khatauli,2016-08-13,12000.0,0.0,31.2,clear
+455,Black Gram (Urd Beans),Khatauli,2016-08-13,12300.0,2.0,31.2,clear
+456,Arhar (Tur/Red Gram),Khatauli,2016-08-14,12000.0,0.0,32.2,clear
+457,Bengal Gram(Gram),Khatauli,2016-08-14,8160.0,0.0,32.2,clear
+458,Black Gram (Urd Beans),Khatauli,2016-08-14,12200.0,0.0,32.2,clear
+459,Arhar (Tur/Red Gram),Khatauli,2016-08-16,12000.0,2.0,34.6,clear
+460,Bengal Gram(Gram),Khatauli,2016-08-16,8050.0,2.0,34.6,clear
+461,Black Gram (Urd Beans),Khatauli,2016-08-16,12100.0,3.0,34.6,clear
+462,Arhar (Tur/Red Gram),Khatauli,2016-08-11,10000.0,0.0,30.8,rain
+463,Bengal Gram(Gram),Khatauli,2016-08-11,10200.0,1.0,30.8,rain
+464,Black Gram (Urd Beans),Khatauli,2016-08-11,10000.0,0.0,30.8,rain
+465,Arhar (Tur/Red Gram),Khatauli,2016-09-11,9400.0,0.0,34.8,clear
+466,Bengal Gram(Gram),Khatauli,2016-09-11,10300.0,2.0,34.8,clear
+467,Black Gram (Urd Beans),Khatauli,2016-09-11,10000.0,0.0,34.8,clear
+468,Arhar (Tur/Red Gram),Khatauli,2016-10-11,9550.0,2.0,32.2,clear
+469,Bengal Gram(Gram),Khatauli,2016-10-11,10500.0,2.5,32.2,clear
+470,Black Gram (Urd Beans),Khatauli,2016-10-11,9900.0,0.0,32.2,clear
+471,Arhar (Tur/Red Gram),Khatauli,2016-11-11,9550.0,2.0,28.6,clear
+472,Bengal Gram(Gram),Khatauli,2016-11-11,10550.0,2.0,28.6,clear
+473,Black Gram (Urd Beans),Khatauli,2016-11-11,9900.0,0.0,28.6,clear
+474,Arhar (Tur/Red Gram),Khatauli,2016-12-11,9600.0,0.0,24.2,clear
+475,Bengal Gram(Gram),Khatauli,2016-12-11,10600.0,0.0,24.2,clear
+476,Black Gram (Urd Beans),Khatauli,2016-12-11,9900.0,0.0,24.2,clear
+477,Arhar (Tur/Red Gram),Khatauli,2016-11-13,9600.0,0.0,28.2,clear
+478,Bengal Gram(Gram),Khatauli,2016-11-13,10600.0,0.0,28.2,clear
+479,Black Gram (Urd Beans),Khatauli,2016-11-13,9900.0,0.0,28.2,clear
+480,Arhar (Tur/Red Gram),Khatauli,2016-11-15,9600.0,2.0,27.2,clear
+481,Bengal Gram(Gram),Khatauli,2016-11-15,10600.0,3.0,27.2,clear
+482,Black Gram (Urd Beans),Khatauli,2016-11-15,9900.0,2.0,27.2,clear
+483,Arhar (Tur/Red Gram),Khatauli,2016-11-16,9600.0,0.0,25.0,clear
+484,Bengal Gram(Gram),Khatauli,2016-11-16,10650.0,2.5,25.0,clear
+485,Black Gram (Urd Beans),Khatauli,2016-11-16,9900.0,0.0,25.0,clear
+486,Arhar (Tur/Red Gram),Khatauli,2016-11-17,9600.0,0.0,27.2,clear
+487,Bengal Gram(Gram),Khatauli,2016-11-17,10650.0,0.0,27.2,clear
+488,Black Gram (Urd Beans),Khatauli,2016-11-17,9900.0,0.0,27.2,clear
+489,Arhar (Tur/Red Gram),Khatauli,2016-11-19,9600.0,0.0,26.2,clear
+490,Bengal Gram(Gram),Khatauli,2016-11-19,10500.0,0.0,26.2,clear
+491,Black Gram (Urd Beans),Khatauli,2016-11-19,9900.0,0.0,26.2,clear
+492,Arhar (Tur/Red Gram),Khatauli,2016-01-12,9600.0,0.0,21.6,clear
+493,Bengal Gram(Gram),Khatauli,2016-01-12,10500.0,0.0,21.6,clear
+494,Black Gram (Urd Beans),Khatauli,2016-01-12,9850.0,0.0,21.6,clear
+495,Arhar (Tur/Red Gram),Khatauli,2016-02-12,9850.0,0.0,25.0,clear
+496,Bengal Gram(Gram),Khatauli,2016-02-12,10500.0,0.0,25.0,clear
+497,Bengal Gram(Gram),Muzzafarnagar,2016-02-12,11000.0,3.0,25.0,clear
+498,Black Gram (Urd Beans),Khatauli,2016-02-12,9750.0,2.5,25.0,clear
+499,Arhar (Tur/Red Gram),Khatauli,2016-03-12,9600.0,0.0,27.8,clear
+500,Bengal Gram(Gram),Khatauli,2016-03-12,10600.0,2.0,27.8,clear
+501,Bengal Gram(Gram),Muzzafarnagar,2016-03-12,10800.0,12.0,27.8,clear
+502,Black Gram (Urd Beans),Khatauli,2016-03-12,9750.0,2.5,27.8,clear
+503,Arhar (Tur/Red Gram),Khatauli,2016-06-12,9600.0,0.0,37.6,clear
+504,Bengal Gram(Gram),Khatauli,2016-06-12,10950.0,0.0,37.6,clear
+505,Black Gram (Urd Beans),Khatauli,2016-06-12,9650.0,0.0,37.6,clear
+506,Arhar (Tur/Red Gram),Khatauli,2016-07-12,9600.0,0.0,34.6,clear
+507,Bengal Gram(Gram),Khatauli,2016-07-12,10950.0,4.0,34.6,clear
+508,Black Gram (Urd Beans),Khatauli,2016-07-12,9650.0,0.0,34.6,clear
+509,Arhar (Tur/Red Gram),Khatauli,2016-12-13,9600.0,2.0,23.8,clear
+510,Bengal Gram(Gram),Khatauli,2016-12-13,11000.0,2.0,23.8,clear
+511,Black Gram (Urd Beans),Khatauli,2016-12-13,9650.0,2.5,23.8,clear
+512,Arhar (Tur/Red Gram),Khatauli,2016-12-14,9600.0,0.0,21.4,clear
+513,Bengal Gram(Gram),Khatauli,2016-12-14,11000.0,0.0,21.4,clear
+514,Black Gram (Urd Beans),Khatauli,2016-12-14,9600.0,0.0,21.4,clear
+515,Arhar (Tur/Red Gram),Khatauli,2016-12-15,9600.0,2.0,20.0,clear
+516,Bengal Gram(Gram),Khatauli,2016-12-15,11000.0,0.0,20.0,clear
+517,Black Gram (Urd Beans),Khatauli,2016-12-15,9550.0,3.0,20.0,clear
+518,Arhar (Tur/Red Gram),Khatauli,2016-12-16,9600.0,0.0,22.8,clear
+519,Bengal Gram(Gram),Khatauli,2016-12-16,11100.0,0.0,22.8,clear
+520,Black Gram (Urd Beans),Khatauli,2016-12-16,9550.0,0.0,22.8,clear
+521,Arhar (Tur/Red Gram),Khatauli,2016-12-17,9600.0,0.0,19.8,clear
+522,Bengal Gram(Gram),Khatauli,2016-12-17,11100.0,0.0,19.8,clear
+523,Black Gram (Urd Beans),Khatauli,2016-12-17,9500.0,3.0,19.8,clear
+524,Arhar (Tur/Red Gram),Khatauli,2016-12-18,9550.0,2.0,18.4,clear
+525,Bengal Gram(Gram),Khatauli,2016-12-18,11100.0,0.0,18.4,clear
+526,Black Gram (Urd Beans),Khatauli,2016-12-18,9500.0,0.0,18.4,clear
+527,Arhar (Tur/Red Gram),Khatauli,2016-12-20,9500.0,2.5,24.8,clear
+528,Bengal Gram(Gram),Khatauli,2016-12-20,11000.0,2.5,24.8,clear
+529,Black Gram (Urd Beans),Khatauli,2016-12-20,9400.0,4.0,24.8,clear
+530,Arhar (Tur/Red Gram),Khatauli,2016-12-21,9450.0,3.0,24.0,clear
+531,Bengal Gram(Gram),Khatauli,2016-12-21,11000.0,0.0,24.0,clear
+532,Black Gram (Urd Beans),Khatauli,2016-12-21,9350.0,0.0,24.0,clear
+533,Arhar (Tur/Red Gram),Khatauli,2016-12-22,9450.0,0.0,21.0,clear
+534,Bengal Gram(Gram),Khatauli,2016-12-22,11000.0,0.0,21.0,clear
+535,Black Gram (Urd Beans),Khatauli,2016-12-22,9350.0,0.0,21.0,clear
+536,Arhar (Tur/Red Gram),Khatauli,2016-12-23,9400.0,2.0,25.0,clear
+537,Bengal Gram(Gram),Khatauli,2016-12-23,11000.0,0.0,25.0,clear
+538,Black Gram (Urd Beans),Khatauli,2016-12-23,9300.0,3.0,25.0,clear
+539,Arhar (Tur/Red Gram),Khatauli,2016-12-24,5350.0,2.0,23.4,clear
+540,Bengal Gram(Gram),Khatauli,2016-12-24,11000.0,0.0,23.4,clear
+541,Black Gram (Urd Beans),Khatauli,2016-12-24,5250.0,2.0,23.4,clear
+542,Arhar (Tur/Red Gram),Khatauli,2016-12-27,9350.0,0.0,19.4,clear
+543,Bengal Gram(Gram),Khatauli,2016-12-27,11000.0,0.0,19.4,clear
+544,Black Gram (Urd Beans),Khatauli,2016-12-27,9200.0,0.0,19.4,clear
+545,Arhar (Tur/Red Gram),Khatauli,2016-12-28,9250.0,2.0,22.4,clear
+546,Bengal Gram(Gram),Khatauli,2016-12-28,10900.0,0.0,22.4,clear
+547,Black Gram (Urd Beans),Khatauli,2016-12-28,9000.0,0.0,22.4,clear
+548,Arhar (Tur/Red Gram),Khatauli,2016-12-29,9100.0,1.0,15.2,clear
+549,Bengal Gram(Gram),Khatauli,2016-12-29,10800.0,2.0,15.2,clear
+550,Black Gram (Urd Beans),Khatauli,2016-12-29,8900.0,1.5,15.2,clear
+551,Arhar (Tur/Red Gram),Khatauli,2016-12-30,9000.0,2.0,16.8,clear
+552,Bengal Gram(Gram),Khatauli,2016-12-30,10650.0,3.0,16.8,clear
+553,Black Gram (Urd Beans),Khatauli,2016-12-30,8800.0,0.0,16.8,clear
+554,Arhar (Tur/Red Gram),Khatauli,2016-12-31,8900.0,2.0,20.2,clear
+555,Bengal Gram(Gram),Khatauli,2016-12-31,10600.0,2.0,20.2,clear
+556,Black Gram (Urd Beans),Khatauli,2016-12-31,8750.0,2.0,20.2,clear
+557,Arhar (Tur/Red Gram),Muzzafarnagar,2016-05-16,11805.0,8.0,41.8,clear
+558,Bengal Gram(Gram),Muzzafarnagar,2016-05-16,5630.0,8.0,41.8,clear
+559,Black Gram (Urd Beans),Muzzafarnagar,2016-05-16,12055.0,7.0,41.8,clear
+560,Arhar (Tur/Red Gram),Muzzafarnagar,2016-05-23,11805.0,0.0,38.0,rain
+561,Bengal Gram(Gram),Muzzafarnagar,2016-05-23,5640.0,0.0,38.0,rain
+562,Black Gram (Urd Beans),Muzzafarnagar,2016-05-23,12055.0,0.0,38.0,rain
+563,Bengal Gram(Gram),Muzzafarnagar,2016-08-01,5330.0,0.0,29.2,clear
+564,Lentil(Masur),Muzzafarnagar,2016-08-01,7950.0,0.0,29.2,clear
+565,Bengal Gram(Gram),Muzzafarnagar,2016-11-01,5350.0,15.0,29.0,clear
+566,Lentil(Masur),Muzzafarnagar,2016-11-01,8020.0,7.0,29.0,clear
+567,Bengal Gram(Gram),Muzzafarnagar,2016-01-18,5365.0,9.0,19.0,clear
+568,Lentil(Masur),Muzzafarnagar,2016-01-18,7860.0,6.0,19.0,clear
+569,Bengal Gram(Gram),Muzzafarnagar,2016-01-25,5370.0,0.0,15.4,clear
+570,Lentil(Masur),Muzzafarnagar,2016-01-25,7800.0,4.5,15.4,clear
+571,Bengal Gram(Gram),Muzzafarnagar,2016-01-28,5380.0,12.0,22.4,clear
+572,Lentil(Masur),Muzzafarnagar,2016-01-28,7800.0,0.0,22.4,clear
+573,Bengal Gram(Gram),Muzzafarnagar,2016-01-29,5380.0,0.0,23.2,clear
+574,Lentil(Masur),Muzzafarnagar,2016-01-29,7850.0,4.0,23.2,clear
+575,Bengal Gram(Gram),Muzzafarnagar,2016-01-02,5380.0,0.0,21.4,clear
+576,Lentil(Masur),Muzzafarnagar,2016-01-02,7870.0,3.0,21.4,clear
+577,Bengal Gram(Gram),Muzzafarnagar,2016-05-02,5280.0,13.0,42.8,clear
+578,Lentil(Masur),Muzzafarnagar,2016-05-02,7930.0,0.0,42.8,clear
+579,Bengal Gram(Gram),Muzzafarnagar,2016-08-02,5280.0,0.0,32.8,clear
+580,Lentil(Masur),Muzzafarnagar,2016-08-02,7970.0,5.0,32.8,clear
+581,Bengal Gram(Gram),Muzzafarnagar,2016-12-02,5210.0,8.0,24.4,clear
+582,Lentil(Masur),Muzzafarnagar,2016-12-02,7940.0,4.8,24.4,clear
+583,Bengal Gram(Gram),Muzzafarnagar,2016-02-15,5170.0,11.0,22.2,clear
+584,Lentil(Masur),Muzzafarnagar,2016-02-15,7870.0,6.5,22.2,clear
+585,Bengal Gram(Gram),Muzzafarnagar,2016-02-19,5120.0,13.0,28.8,clear
+586,Lentil(Masur),Muzzafarnagar,2016-02-19,7870.0,4.0,28.8,clear
+587,Bengal Gram(Gram),Muzzafarnagar,2016-02-20,5120.0,0.0,27.0,clear
+588,Lentil(Masur),Muzzafarnagar,2016-02-20,7850.0,6.2,27.0,clear
+589,Bengal Gram(Gram),Muzzafarnagar,2016-02-22,5120.0,0.0,25.2,clear
+590,Bengal Gram(Gram),Muzzafarnagar,2016-02-29,5120.0,0.0,28.8,clear
+591,Lentil(Masur),Muzzafarnagar,2016-02-29,7825.0,0.0,28.8,clear
+592,Bengal Gram(Gram),Muzzafarnagar,2016-02-03,5100.0,0.0,21.0,clear
+593,Lentil(Masur),Muzzafarnagar,2016-02-03,7830.0,0.0,21.0,clear
+594,Bengal Gram(Gram),Muzzafarnagar,2016-10-03,5100.0,14.0,34.2,clear
+595,Lentil(Masur),Muzzafarnagar,2016-10-03,7125.0,7.5,34.2,clear
+596,Bengal Gram(Gram),Muzzafarnagar,2016-03-14,5150.0,14.0,23.8,clear
+597,Lentil(Masur),Muzzafarnagar,2016-03-14,7050.0,6.5,23.8,clear
+598,Bengal Gram(Gram),Muzzafarnagar,2016-03-17,5130.0,0.0,30.8,clear
+599,Lentil(Masur),Muzzafarnagar,2016-03-17,7030.0,0.0,30.8,clear
+600,Bengal Gram(Gram),Muzzafarnagar,2016-03-18,5140.0,12.0,29.0,clear
+601,Lentil(Masur),Muzzafarnagar,2016-03-18,7040.0,4.5,29.0,clear
+602,Bengal Gram(Gram),Muzzafarnagar,2016-03-28,5180.0,12.0,30.8,clear
+603,Lentil(Masur),Muzzafarnagar,2016-03-28,7050.0,4.8,30.8,clear
+604,Bengal Gram(Gram),Muzzafarnagar,2016-01-04,5200.0,12.0,21.4,clear
+605,Lentil(Masur),Muzzafarnagar,2016-01-04,7100.0,0.0,21.4,clear
+606,Bengal Gram(Gram),Muzzafarnagar,2016-02-04,5200.0,0.0,22.4,clear
+607,Lentil(Masur),Muzzafarnagar,2016-02-04,7110.0,6.0,22.4,clear
+608,Bengal Gram(Gram),Muzzafarnagar,2016-04-04,5180.0,17.0,37.2,clear
+609,Lentil(Masur),Muzzafarnagar,2016-04-04,7060.0,7.5,37.2,clear
+610,Bengal Gram(Gram),Muzzafarnagar,2016-06-04,5180.0,0.0,39.8,clear
+611,Lentil(Masur),Muzzafarnagar,2016-06-04,7060.0,0.0,39.8,clear
+612,Bengal Gram(Gram),Muzzafarnagar,2016-07-04,5180.0,20.0,32.0,clear
+613,Lentil(Masur),Muzzafarnagar,2016-07-04,7060.0,4.2,32.0,clear
+614,Bengal Gram(Gram),Muzzafarnagar,2016-11-04,5170.0,15.0,27.2,clear
+615,Lentil(Masur),Muzzafarnagar,2016-11-04,7050.0,5.2,27.2,clear
+616,Bengal Gram(Gram),Muzzafarnagar,2016-12-04,5170.0,0.0,25.6,clear
+617,Lentil(Masur),Muzzafarnagar,2016-12-04,7025.0,5.5,25.6,clear
+618,Bengal Gram(Gram),Muzzafarnagar,2016-11-18,11250.0,11.0,26.6,clear
+619,Lentil(Masur),Muzzafarnagar,2016-11-18,7325.0,5.5,26.6,clear
+620,Lentil(Masur),Muzzafarnagar,2016-01-01,7800.0,4.7,21.0,clear
+621,Arhar (Tur/Red Gram),Khatauli,2017-01-01,8700.0,0.0,22.2,clear
+622,Bengal Gram(Gram),Khatauli,2017-01-01,10550.0,2.0,22.2,clear
+623,Black Gram (Urd Beans),Khatauli,2017-01-01,8600.0,0.0,22.2,clear
+624,Arhar (Tur/Red Gram),Khatauli,2017-01-17,7450.0,0.0,14.2,clear
+625,Bengal Gram(Gram),Khatauli,2017-01-17,8250.0,0.0,14.2,clear
+626,Black Gram (Urd Beans),Khatauli,2017-01-17,7500.0,0.0,14.2,clear
+627,Arhar (Tur/Red Gram),Khatauli,2017-01-18,7450.0,2.0,18.4,clear
+628,Bengal Gram(Gram),Khatauli,2017-01-18,8250.0,2.0,18.4,clear
+629,Black Gram (Urd Beans),Khatauli,2017-01-18,7500.0,3.0,18.4,clear
+630,Arhar (Tur/Red Gram),Khatauli,2017-01-19,7400.0,3.0,21.8,clear
+631,Bengal Gram(Gram),Khatauli,2017-01-19,8250.0,0.0,21.8,clear
+632,Black Gram (Urd Beans),Khatauli,2017-01-19,7500.0,0.0,21.8,clear
+633,Arhar (Tur/Red Gram),Khatauli,2017-01-20,7400.0,0.0,20.6,clear
+634,Bengal Gram(Gram),Khatauli,2017-01-20,8250.0,0.0,20.6,clear
+635,Black Gram (Urd Beans),Khatauli,2017-01-20,7500.0,0.0,20.6,clear
+636,Arhar (Tur/Red Gram),Khatauli,2017-01-24,7400.0,0.0,25.0,clear
+637,Bengal Gram(Gram),Khatauli,2017-01-24,8100.0,0.0,25.0,clear
+638,Black Gram (Urd Beans),Khatauli,2017-01-24,7500.0,0.0,25.0,clear
+639,Arhar (Tur/Red Gram),Khatauli,2017-01-27,7500.0,1.0,18.4,clear
+640,Bengal Gram(Gram),Khatauli,2017-01-27,7850.0,2.0,18.4,clear
+641,Black Gram (Urd Beans),Khatauli,2017-01-27,7600.0,0.0,18.4,clear
+642,Arhar (Tur/Red Gram),Khatauli,2017-01-28,7400.0,0.0,19.0,clear
+643,Bengal Gram(Gram),Khatauli,2017-01-28,7800.0,3.0,19.0,clear
+644,Black Gram (Urd Beans),Khatauli,2017-01-28,7600.0,0.0,19.0,clear
+645,Arhar (Tur/Red Gram),Khatauli,2017-01-29,7400.0,0.0,19.6,clear
+646,Bengal Gram(Gram),Khatauli,2017-01-29,7800.0,0.0,19.6,clear
+647,Black Gram (Urd Beans),Khatauli,2017-01-29,7600.0,0.0,19.6,clear
+648,Arhar (Tur/Red Gram),Khatauli,2017-01-31,7400.0,0.0,21.0,clear
+649,Bengal Gram(Gram),Khatauli,2017-01-31,8100.0,0.0,21.0,clear
+650,Black Gram (Urd Beans),Khatauli,2017-01-31,7500.0,0.0,21.0,clear
+651,Arhar (Tur/Red Gram),Khatauli,2017-01-02,7000.0,4.0,23.1,clear
+652,Bengal Gram(Gram),Khatauli,2017-01-02,7800.0,2.0,23.1,clear
+653,Black Gram (Urd Beans),Khatauli,2017-01-02,7300.0,2.0,23.1,clear
+654,Arhar (Tur/Red Gram),Khatauli,2017-02-02,7000.0,0.0,22.8,clear
+655,Bengal Gram(Gram),Khatauli,2017-02-02,7700.0,2.5,22.8,clear
+656,Black Gram (Urd Beans),Khatauli,2017-02-02,7300.0,2.5,22.8,clear
+657,Arhar (Tur/Red Gram),Khatauli,2017-04-02,7000.0,0.0,35.2,clear
+658,Black Gram (Urd Beans),Khatauli,2017-04-02,7300.0,0.0,35.2,clear
+659,Arhar (Tur/Red Gram),Khatauli,2017-05-02,7000.0,0.0,38.6,clear
+660,Bengal Gram(Gram),Khatauli,2017-05-02,7500.0,2.0,38.6,clear
+661,Black Gram (Urd Beans),Khatauli,2017-05-02,7200.0,0.0,38.6,clear
+662,Arhar (Tur/Red Gram),Khatauli,2017-07-02,7000.0,0.0,29.2,clear
+663,Bengal Gram(Gram),Khatauli,2017-07-02,7500.0,0.0,29.2,clear
+664,Black Gram (Urd Beans),Khatauli,2017-07-02,7200.0,0.0,29.2,clear
+665,Arhar (Tur/Red Gram),Khatauli,2017-08-02,7000.0,2.0,30.4,clear
+666,Bengal Gram(Gram),Khatauli,2017-08-02,7500.0,0.0,30.4,clear
+667,Black Gram (Urd Beans),Khatauli,2017-08-02,7200.0,2.0,30.4,clear
+668,Arhar (Tur/Red Gram),Khatauli,2017-09-02,7000.0,1.0,29.4,clear
+669,Bengal Gram(Gram),Khatauli,2017-09-02,7500.0,0.0,29.4,clear
+670,Black Gram (Urd Beans),Khatauli,2017-09-02,7150.0,2.0,29.4,clear
+671,Arhar (Tur/Red Gram),Khatauli,2017-10-02,7000.0,0.0,34.6,clear
+672,Bengal Gram(Gram),Khatauli,2017-10-02,7500.0,0.0,34.6,clear
+673,Black Gram (Urd Beans),Khatauli,2017-10-02,7200.0,0.0,34.6,clear
+674,Arhar (Tur/Red Gram),Khatauli,2017-02-14,6900.0,2.0,24.6,clear
+675,Bengal Gram(Gram),Khatauli,2017-02-14,7450.0,3.0,24.6,clear
+676,Black Gram (Urd Beans),Khatauli,2017-02-14,7150.0,2.0,24.6,clear
+677,Arhar (Tur/Red Gram),Khatauli,2017-02-15,6900.0,0.0,25.2,clear
+678,Bengal Gram(Gram),Khatauli,2017-02-15,7400.0,2.0,25.2,clear
+679,Black Gram (Urd Beans),Khatauli,2017-02-15,7100.0,3.0,25.2,clear
+680,Arhar (Tur/Red Gram),Khatauli,2017-02-16,6900.0,3.0,26.6,clear
+681,Bengal Gram(Gram),Khatauli,2017-02-16,7400.0,0.0,26.6,clear
+682,Black Gram (Urd Beans),Khatauli,2017-02-16,7100.0,2.5,26.6,clear
+683,Arhar (Tur/Red Gram),Khatauli,2017-02-17,6900.0,0.0,25.4,clear
+684,Bengal Gram(Gram),Khatauli,2017-02-17,7350.0,3.0,25.4,clear
+685,Black Gram (Urd Beans),Khatauli,2017-02-17,7050.0,1.0,25.4,clear
+686,Arhar (Tur/Red Gram),Khatauli,2017-02-18,6900.0,0.0,28.2,clear
+687,Bengal Gram(Gram),Khatauli,2017-02-18,7350.0,0.0,28.2,clear
+688,Black Gram (Urd Beans),Khatauli,2017-02-18,7150.0,0.0,28.2,clear
+689,Arhar (Tur/Red Gram),Khatauli,2017-02-19,7100.0,1.0,28.0,clear
+690,Bengal Gram(Gram),Khatauli,2017-02-19,6950.0,1.0,28.0,clear
+691,Black Gram (Urd Beans),Khatauli,2017-02-19,7150.0,1.0,28.0,clear
+692,Arhar (Tur/Red Gram),Khatauli,2017-02-21,7100.0,2.5,24.0,clear
+693,Bengal Gram(Gram),Khatauli,2017-02-21,6900.0,4.0,24.0,clear
+694,Black Gram (Urd Beans),Khatauli,2017-02-21,7170.0,2.0,24.0,clear
+695,Arhar (Tur/Red Gram),Khatauli,2017-02-22,7100.0,0.0,25.2,clear
+696,Bengal Gram(Gram),Khatauli,2017-02-22,6950.0,0.0,25.2,clear
+697,Black Gram (Urd Beans),Khatauli,2017-02-22,7170.0,0.0,25.2,clear
+698,Arhar (Tur/Red Gram),Khatauli,2017-02-23,7100.0,0.0,24.4,clear
+699,Bengal Gram(Gram),Khatauli,2017-02-23,6950.0,0.0,24.4,clear
+700,Black Gram (Urd Beans),Khatauli,2017-02-23,7150.0,1.0,24.4,clear
+701,Arhar (Tur/Red Gram),Khatauli,2017-02-25,6900.0,3.0,23.6,clear
+702,Bengal Gram(Gram),Khatauli,2017-02-25,6950.0,0.0,23.6,clear
+703,Black Gram (Urd Beans),Khatauli,2017-02-25,7300.0,2.5,23.6,clear
+704,Arhar (Tur/Red Gram),Khatauli,2017-02-26,6900.0,1.0,25.4,clear
+705,Bengal Gram(Gram),Khatauli,2017-02-26,6950.0,0.0,25.4,clear
+706,Black Gram (Urd Beans),Khatauli,2017-02-26,7150.0,2.0,25.4,clear
+707,Arhar (Tur/Red Gram),Khatauli,2017-02-28,6900.0,0.0,28.8,clear
+708,Bengal Gram(Gram),Khatauli,2017-02-28,6950.0,0.0,28.8,clear
+709,Black Gram (Urd Beans),Khatauli,2017-02-28,7150.0,0.0,28.8,clear
+710,Arhar (Tur/Red Gram),Khatauli,2017-02-03,6900.0,0.0,23.4,clear
+711,Bengal Gram(Gram),Khatauli,2017-02-03,6900.0,0.0,23.4,clear
+712,Black Gram (Urd Beans),Khatauli,2017-02-03,7000.0,0.0,23.4,clear
+713,Arhar (Tur/Red Gram),Khatauli,2017-03-03,6850.0,2.0,25.2,clear
+714,Bengal Gram(Gram),Khatauli,2017-03-03,6850.0,3.0,25.2,clear
+715,Black Gram (Urd Beans),Khatauli,2017-03-03,7000.0,1.0,25.2,clear
+716,Arhar (Tur/Red Gram),Khatauli,2017-04-03,6850.0,0.0,35.8,clear
+717,Bengal Gram(Gram),Khatauli,2017-04-03,6850.0,0.0,35.8,clear
+718,Black Gram (Urd Beans),Khatauli,2017-04-03,7050.0,0.0,35.8,clear
+719,Arhar (Tur/Red Gram),Khatauli,2017-05-03,6850.0,0.0,36.0,clear
+720,Bengal Gram(Gram),Khatauli,2017-05-03,6850.0,0.0,36.0,clear
+721,Black Gram (Urd Beans),Khatauli,2017-05-03,7050.0,0.0,36.0,clear
+722,Arhar (Tur/Red Gram),Khatauli,2017-07-03,6850.0,0.0,32.8,clear
+723,Bengal Gram(Gram),Khatauli,2017-07-03,6850.0,0.0,32.8,clear
+724,Black Gram (Urd Beans),Khatauli,2017-07-03,7050.0,0.0,32.8,clear
+725,Arhar (Tur/Red Gram),Khatauli,2017-08-03,6850.0,2.5,33.0,clear
+726,Bengal Gram(Gram),Khatauli,2017-08-03,6850.0,3.0,33.0,clear
+727,Black Gram (Urd Beans),Khatauli,2017-08-03,7000.0,3.0,33.0,clear
+728,Arhar (Tur/Red Gram),Khatauli,2017-09-03,6750.0,2.0,33.2,clear
+729,Bengal Gram(Gram),Khatauli,2017-09-03,6750.0,0.0,33.2,clear
+730,Black Gram (Urd Beans),Khatauli,2017-09-03,6950.0,2.0,33.2,clear
+731,Arhar (Tur/Red Gram),Khatauli,2017-12-03,6450.0,0.0,22.0,clear
+732,Bengal Gram(Gram),Khatauli,2017-12-03,6200.0,3.0,22.0,clear
+733,Black Gram (Urd Beans),Khatauli,2017-12-03,6800.0,0.0,22.0,clear
+734,Arhar (Tur/Red Gram),Khatauli,2017-03-14,6450.0,2.0,25.0,clear
+735,Bengal Gram(Gram),Khatauli,2017-03-14,6150.0,0.0,25.0,clear
+736,Black Gram (Urd Beans),Khatauli,2017-03-14,6800.0,3.0,25.0,clear
+737,Arhar (Tur/Red Gram),Khatauli,2017-03-15,6450.0,2.0,27.2,clear
+738,Bengal Gram(Gram),Khatauli,2017-03-15,6100.0,0.0,27.2,clear
+739,Black Gram (Urd Beans),Khatauli,2017-03-15,6800.0,2.0,27.2,clear
+740,Arhar (Tur/Red Gram),Khatauli,2017-03-16,6450.0,0.0,29.6,clear
+741,Bengal Gram(Gram),Khatauli,2017-03-16,6100.0,0.0,29.6,clear
+742,Black Gram (Urd Beans),Khatauli,2017-03-16,6800.0,0.0,29.6,clear
+743,Arhar (Tur/Red Gram),Khatauli,2017-03-17,6450.0,0.0,27.0,clear
+744,Bengal Gram(Gram),Khatauli,2017-03-17,6050.0,3.0,27.0,clear
+745,Black Gram (Urd Beans),Khatauli,2017-03-17,6800.0,0.0,27.0,clear
+746,Arhar (Tur/Red Gram),Khatauli,2017-03-18,6300.0,2.0,28.4,clear
+747,Bengal Gram(Gram),Khatauli,2017-03-18,6000.0,2.0,28.4,clear
+748,Black Gram (Urd Beans),Khatauli,2017-03-18,6700.0,2.0,28.4,clear
+749,Arhar (Tur/Red Gram),Khatauli,2017-03-22,6300.0,0.0,33.6,clear
+750,Bengal Gram(Gram),Khatauli,2017-03-22,5900.0,0.0,33.6,clear
+751,Black Gram (Urd Beans),Khatauli,2017-03-22,6800.0,0.0,33.6,clear
+752,Arhar (Tur/Red Gram),Khatauli,2017-03-23,6300.0,0.0,33.0,clear
+753,Bengal Gram(Gram),Khatauli,2017-03-23,5900.0,0.0,33.0,clear
+754,Black Gram (Urd Beans),Khatauli,2017-03-23,6800.0,0.0,33.0,clear
+755,Arhar (Tur/Red Gram),Khatauli,2017-03-24,6300.0,3.0,34.0,clear
+756,Bengal Gram(Gram),Khatauli,2017-03-24,5900.0,3.0,34.0,clear
+757,Black Gram (Urd Beans),Khatauli,2017-03-24,6800.0,3.0,34.0,clear
+758,Arhar (Tur/Red Gram),Khatauli,2017-03-25,6250.0,2.0,32.6,clear
+759,Bengal Gram(Gram),Khatauli,2017-03-25,5800.0,2.0,32.6,clear
+760,Black Gram (Urd Beans),Khatauli,2017-03-25,6750.0,2.0,32.6,clear
+761,Arhar (Tur/Red Gram),Khatauli,2017-03-26,6200.0,0.0,34.2,clear
+762,Bengal Gram(Gram),Khatauli,2017-03-26,5800.0,0.0,34.2,clear
+763,Black Gram (Urd Beans),Khatauli,2017-03-26,6700.0,0.0,34.2,clear
+764,Arhar (Tur/Red Gram),Khatauli,2017-03-28,6200.0,2.0,37.0,clear
+765,Bengal Gram(Gram),Khatauli,2017-03-28,5800.0,0.0,37.0,clear
+766,Black Gram (Urd Beans),Khatauli,2017-03-28,6700.0,3.0,37.0,clear
+767,Arhar (Tur/Red Gram),Khatauli,2017-03-29,6200.0,0.0,36.8,clear
+768,Bengal Gram(Gram),Khatauli,2017-03-29,5800.0,0.0,36.8,clear
+769,Black Gram (Urd Beans),Khatauli,2017-03-29,6700.0,0.0,36.8,clear
+770,Arhar (Tur/Red Gram),Khatauli,2017-03-30,6700.0,0.0,36.2,clear
+771,Bengal Gram(Gram),Khatauli,2017-03-30,5800.0,0.0,36.2,clear
+772,Black Gram (Urd Beans),Khatauli,2017-03-30,6700.0,0.0,36.2,clear
+773,Arhar (Tur/Red Gram),Khatauli,2017-03-31,6200.0,0.0,38.0,clear
+774,Bengal Gram(Gram),Khatauli,2017-03-31,5850.0,2.0,38.0,clear
+775,Black Gram (Urd Beans),Khatauli,2017-03-31,6700.0,0.0,38.0,clear
+776,Arhar (Tur/Red Gram),Khatauli,2017-01-04,6200.0,2.0,23.8,clear
+777,Bengal Gram(Gram),Khatauli,2017-01-04,5900.0,2.5,23.8,clear
+778,Black Gram (Urd Beans),Khatauli,2017-01-04,6700.0,2.0,23.8,clear
+779,Arhar (Tur/Red Gram),Khatauli,2017-02-04,6700.0,0.0,20.2,clear
+780,Bengal Gram(Gram),Khatauli,2017-02-04,5900.0,0.0,20.2,clear
+781,Black Gram (Urd Beans),Khatauli,2017-02-04,6700.0,0.0,20.2,clear
+782,Arhar (Tur/Red Gram),Khatauli,2017-04-04,6200.0,0.0,34.2,clear
+783,Bengal Gram(Gram),Khatauli,2017-04-04,5900.0,0.0,34.2,clear
+784,Black Gram (Urd Beans),Khatauli,2017-04-04,6700.0,0.0,34.2,clear
+785,Arhar (Tur/Red Gram),Khatauli,2017-05-04,6200.0,0.0,37.0,clear
+786,Bengal Gram(Gram),Khatauli,2017-05-04,5900.0,0.0,37.0,clear
+787,Black Gram (Urd Beans),Khatauli,2017-05-04,6700.0,0.0,37.0,clear
+788,Arhar (Tur/Red Gram),Khatauli,2017-08-04,6200.0,0.0,33.0,clear
+789,Bengal Gram(Gram),Khatauli,2017-08-04,6100.0,0.0,33.0,clear
+790,Black Gram (Urd Beans),Khatauli,2017-08-04,6700.0,0.0,33.0,clear
+791,Arhar (Tur/Red Gram),Khatauli,2017-11-04,6200.0,0.0,29.0,clear
+792,Bengal Gram(Gram),Khatauli,2017-11-04,6200.0,2.0,29.0,clear
+793,Black Gram (Urd Beans),Khatauli,2017-11-04,6700.0,0.0,29.0,clear
+794,Arhar (Tur/Red Gram),Khatauli,2017-12-04,6700.0,0.0,22.8,clear
+795,Bengal Gram(Gram),Khatauli,2017-12-04,6200.0,0.0,22.8,clear
+796,Black Gram (Urd Beans),Khatauli,2017-12-04,6700.0,0.0,22.8,clear
+797,Arhar (Tur/Red Gram),Khatauli,2017-04-14,6200.0,0.0,38.4,clear
+798,Bengal Gram(Gram),Khatauli,2017-04-14,6050.0,0.0,38.4,clear
+799,Black Gram (Urd Beans),Khatauli,2017-04-14,6700.0,0.0,38.4,clear
+800,Arhar (Tur/Red Gram),Khatauli,2017-04-15,6200.0,0.0,39.2,clear
+801,Bengal Gram(Gram),Khatauli,2017-04-15,6050.0,2.0,39.2,clear
+802,Black Gram (Urd Beans),Khatauli,2017-04-15,6700.0,0.0,39.2,clear
+803,Arhar (Tur/Red Gram),Khatauli,2017-04-16,6200.0,0.0,37.4,clear
+804,Bengal Gram(Gram),Khatauli,2017-04-16,6000.0,1.0,37.4,clear
+805,Black Gram (Urd Beans),Khatauli,2017-04-16,6700.0,0.0,37.4,clear
+806,Arhar (Tur/Red Gram),Khatauli,2017-04-18,6200.0,0.0,39.8,clear
+807,Bengal Gram(Gram),Khatauli,2017-04-18,6000.0,0.0,39.8,clear
+808,Black Gram (Urd Beans),Khatauli,2017-04-18,6700.0,0.0,39.8,clear
+809,Arhar (Tur/Red Gram),Khatauli,2017-04-19,6250.0,1.0,40.8,clear
+810,Bengal Gram(Gram),Khatauli,2017-04-19,6000.0,0.0,40.8,clear
+811,Black Gram (Urd Beans),Khatauli,2017-04-19,6650.0,1.0,40.8,clear
+812,Arhar (Tur/Red Gram),Khatauli,2017-04-20,6250.0,4.0,41.0,clear
+813,Bengal Gram(Gram),Khatauli,2017-04-20,6000.0,3.0,41.0,clear
+814,Black Gram (Urd Beans),Khatauli,2017-04-20,6650.0,0.0,41.0,clear
+815,Arhar (Tur/Red Gram),Khatauli,2017-04-21,6250.0,0.0,38.0,clear
+816,Bengal Gram(Gram),Khatauli,2017-04-21,6000.0,0.0,38.0,clear
+817,Black Gram (Urd Beans),Khatauli,2017-04-21,6650.0,0.0,38.0,clear
+818,Arhar (Tur/Red Gram),Khatauli,2017-04-22,6300.0,2.0,38.2,rain
+819,Bengal Gram(Gram),Khatauli,2017-04-22,6100.0,3.0,38.2,rain
+820,Arhar (Tur/Red Gram),Khatauli,2017-04-23,6300.0,0.0,38.4,clear
+821,Bengal Gram(Gram),Khatauli,2017-04-23,6400.0,3.0,38.4,clear
+822,Black Gram (Urd Beans),Khatauli,2017-04-23,6650.0,0.0,38.4,clear
+823,Arhar (Tur/Red Gram),Khatauli,2017-04-25,6300.0,2.0,38.2,clear
+824,Bengal Gram(Gram),Khatauli,2017-04-25,6450.0,2.0,38.2,clear
+825,Black Gram (Urd Beans),Khatauli,2017-04-25,6600.0,2.0,38.2,clear
+826,Arhar (Tur/Red Gram),Khatauli,2017-04-26,6300.0,0.0,37.6,clear
+827,Bengal Gram(Gram),Khatauli,2017-04-26,6600.0,5.0,37.6,clear
+828,Black Gram (Urd Beans),Khatauli,2017-04-26,6600.0,0.0,37.6,clear
+829,Arhar (Tur/Red Gram),Khatauli,2017-04-27,6300.0,0.0,37.0,clear
+830,Bengal Gram(Gram),Khatauli,2017-04-27,6600.0,0.0,37.0,clear
+831,Black Gram (Urd Beans),Khatauli,2017-04-27,6600.0,0.0,37.0,clear
+832,Arhar (Tur/Red Gram),Khatauli,2017-04-28,6300.0,0.0,38.0,clear
+833,Bengal Gram(Gram),Khatauli,2017-04-28,6600.0,0.0,38.0,clear
+834,Black Gram (Urd Beans),Khatauli,2017-04-28,6600.0,1.0,38.0,clear
+835,Arhar (Tur/Red Gram),Khatauli,2017-04-29,6300.0,0.0,37.0,clear
+836,Bengal Gram(Gram),Khatauli,2017-04-29,6650.0,3.0,37.0,clear
+837,Black Gram (Urd Beans),Khatauli,2017-04-29,6600.0,0.0,37.0,clear
+838,Arhar (Tur/Red Gram),Khatauli,2017-04-30,6600.0,2.0,33.0,clear
+839,Bengal Gram(Gram),Khatauli,2017-04-30,6650.0,0.0,33.0,clear
+840,Black Gram (Urd Beans),Khatauli,2017-04-30,6800.0,3.0,33.0,clear
+841,Arhar (Tur/Red Gram),Khatauli,2017-01-05,6700.0,2.0,23.4,clear
+842,Bengal Gram(Gram),Khatauli,2017-01-05,6650.0,0.0,23.4,clear
+843,Black Gram (Urd Beans),Khatauli,2017-01-05,7000.0,2.0,23.4,clear
+844,Arhar (Tur/Red Gram),Khatauli,2017-04-05,6750.0,0.0,29.0,rain
+845,Bengal Gram(Gram),Khatauli,2017-04-05,6600.0,0.0,29.0,rain
+846,Black Gram (Urd Beans),Khatauli,2017-04-05,7050.0,0.0,29.0,rain
+847,Arhar (Tur/Red Gram),Khatauli,2017-05-05,6750.0,0.0,37.6,clear
+848,Bengal Gram(Gram),Khatauli,2017-05-05,6600.0,0.0,37.6,clear
+849,Black Gram (Urd Beans),Khatauli,2017-05-05,7050.0,0.0,37.6,clear
+850,Arhar (Tur/Red Gram),Khatauli,2017-06-05,6750.0,2.5,41.8,clear
+851,Bengal Gram(Gram),Khatauli,2017-06-05,6600.0,0.0,41.8,clear
+852,Black Gram (Urd Beans),Khatauli,2017-06-05,7050.0,2.0,41.8,clear
+853,Arhar (Tur/Red Gram),Khatauli,2017-12-05,6750.0,2.0,23.0,clear
+854,Bengal Gram(Gram),Khatauli,2017-12-05,6600.0,0.0,23.0,clear
+855,Arhar (Tur/Red Gram),Khatauli,2017-05-16,6750.0,0.0,39.8,clear
+856,Bengal Gram(Gram),Khatauli,2017-05-16,6600.0,0.0,39.8,clear
+857,Arhar (Tur/Red Gram),Khatauli,2017-05-17,6750.0,1.5,36.2,clear
+858,Bengal Gram(Gram),Khatauli,2017-05-17,6600.0,3.0,36.2,clear
+859,Arhar (Tur/Red Gram),Khatauli,2017-05-18,6750.0,0.0,35.8,clear
+860,Bengal Gram(Gram),Khatauli,2017-05-18,6600.0,4.0,35.8,clear
+861,Arhar (Tur/Red Gram),Khatauli,2017-05-19,6700.0,2.0,36.6,clear
+862,Bengal Gram(Gram),Khatauli,2017-05-19,6550.0,2.0,36.6,clear
+863,Black Gram (Urd Beans),Khatauli,2017-05-19,7050.0,2.0,36.6,clear
+864,Arhar (Tur/Red Gram),Khatauli,2017-05-20,6700.0,0.0,37.2,clear
+865,Bengal Gram(Gram),Khatauli,2017-05-20,6500.0,1.5,37.2,clear
+866,Black Gram (Urd Beans),Khatauli,2017-05-20,7050.0,0.0,37.2,clear
+867,Arhar (Tur/Red Gram),Khatauli,2017-05-21,6700.0,0.0,37.8,clear
+868,Bengal Gram(Gram),Khatauli,2017-05-21,6600.0,0.0,37.8,clear
+869,Black Gram (Urd Beans),Khatauli,2017-05-21,7050.0,0.0,37.8,clear
+870,Arhar (Tur/Red Gram),Khatauli,2017-05-23,6700.0,0.0,37.6,clear
+871,Bengal Gram(Gram),Khatauli,2017-05-23,6500.0,0.0,37.6,clear
+872,Black Gram (Urd Beans),Khatauli,2017-05-23,7050.0,0.0,37.6,clear
+873,Arhar (Tur/Red Gram),Khatauli,2017-05-24,6700.0,0.0,38.4,clear
+874,Bengal Gram(Gram),Khatauli,2017-05-24,6500.0,0.0,38.4,clear
+875,Black Gram (Urd Beans),Khatauli,2017-05-24,7050.0,0.0,38.4,clear
+876,Arhar (Tur/Red Gram),Khatauli,2017-05-25,6700.0,2.0,39.0,clear
+877,Bengal Gram(Gram),Khatauli,2017-05-25,6500.0,0.0,39.0,clear
+878,Black Gram (Urd Beans),Khatauli,2017-05-25,7000.0,3.0,39.0,clear
+879,Arhar (Tur/Red Gram),Khatauli,2017-05-26,6700.0,2.5,40.0,clear
+880,Bengal Gram(Gram),Khatauli,2017-05-26,6500.0,0.0,40.0,clear
+881,Black Gram (Urd Beans),Khatauli,2017-05-26,7050.0,3.0,40.0,clear
+882,Arhar (Tur/Red Gram),Khatauli,2017-05-27,6700.0,0.0,35.6,clear
+883,Bengal Gram(Gram),Khatauli,2017-05-27,6500.0,0.0,35.6,clear
+884,Black Gram (Urd Beans),Khatauli,2017-05-27,7050.0,0.0,35.6,clear
+885,Arhar (Tur/Red Gram),Khatauli,2017-05-28,6700.0,0.0,34.6,clear
+886,Bengal Gram(Gram),Khatauli,2017-05-28,6500.0,0.0,34.6,clear
+887,Black Gram (Urd Beans),Khatauli,2017-05-28,7050.0,0.0,34.6,clear
+888,Arhar (Tur/Red Gram),Khatauli,2017-05-30,6700.0,0.0,35.2,clear
+889,Bengal Gram(Gram),Khatauli,2017-05-30,6500.0,0.0,35.2,clear
+890,Black Gram (Urd Beans),Khatauli,2017-05-30,7050.0,0.0,35.2,clear
+891,Arhar (Tur/Red Gram),Khatauli,2017-05-31,6750.0,2.0,32.0,clear
+892,Bengal Gram(Gram),Khatauli,2017-05-31,6550.0,3.0,32.0,clear
+893,Black Gram (Urd Beans),Khatauli,2017-05-31,7100.0,2.0,32.0,clear
+894,Arhar (Tur/Red Gram),Khatauli,2017-01-06,6750.0,0.0,18.0,clear
+895,Bengal Gram(Gram),Khatauli,2017-01-06,6550.0,0.0,18.0,clear
+896,Black Gram (Urd Beans),Khatauli,2017-01-06,7100.0,0.0,18.0,clear
+897,Arhar (Tur/Red Gram),Khatauli,2017-02-06,6800.0,2.0,22.6,clear
+898,Bengal Gram(Gram),Khatauli,2017-02-06,6600.0,3.0,22.6,clear
+899,Black Gram (Urd Beans),Khatauli,2017-02-06,7150.0,3.0,22.6,clear
+900,Arhar (Tur/Red Gram),Khatauli,2017-03-06,6850.0,1.0,27.4,clear
+901,Bengal Gram(Gram),Khatauli,2017-03-06,6600.0,0.0,27.4,clear
+902,Black Gram (Urd Beans),Khatauli,2017-03-06,7150.0,0.0,27.4,clear
+903,Arhar (Tur/Red Gram),Khatauli,2017-08-06,6800.0,0.0,35.8,rain
+904,Bengal Gram(Gram),Khatauli,2017-08-06,6600.0,0.0,35.8,rain
+905,Black Gram (Urd Beans),Khatauli,2017-08-06,7150.0,0.0,35.8,rain
+906,Arhar (Tur/Red Gram),Khatauli,2017-09-06,6850.0,2.0,32.4,rain
+907,Bengal Gram(Gram),Khatauli,2017-09-06,6600.0,0.0,32.4,rain
+908,Black Gram (Urd Beans),Khatauli,2017-09-06,7150.0,0.0,32.4,rain
+909,Arhar (Tur/Red Gram),Khatauli,2017-10-06,6850.0,0.0,34.6,clear
+910,Bengal Gram(Gram),Khatauli,2017-10-06,6600.0,0.0,34.6,clear
+911,Black Gram (Urd Beans),Khatauli,2017-10-06,7150.0,0.0,34.6,clear
+912,Arhar (Tur/Red Gram),Khatauli,2017-11-06,6750.0,0.0,27.2,clear
+913,Bengal Gram(Gram),Khatauli,2017-11-06,6600.0,0.0,27.2,clear
+914,Black Gram (Urd Beans),Khatauli,2017-11-06,7150.0,0.0,27.2,clear
+915,Arhar (Tur/Red Gram),Khatauli,2017-06-13,6850.0,0.0,39.4,clear
+916,Bengal Gram(Gram),Khatauli,2017-06-13,6600.0,0.0,39.4,clear
+917,Black Gram (Urd Beans),Khatauli,2017-06-13,7150.0,0.0,39.4,clear
+918,Arhar (Tur/Red Gram),Khatauli,2017-06-14,6850.0,2.0,40.0,clear
+919,Bengal Gram(Gram),Khatauli,2017-06-14,6650.0,3.0,40.0,clear
+920,Black Gram (Urd Beans),Khatauli,2017-06-14,7150.0,2.0,40.0,clear
+921,Arhar (Tur/Red Gram),Khatauli,2017-06-15,7150.0,0.0,37.2,clear
+922,Bengal Gram(Gram),Khatauli,2017-06-15,6700.0,2.0,37.2,clear
+923,Black Gram (Urd Beans),Khatauli,2017-06-15,7150.0,0.0,37.2,clear
+924,Arhar (Tur/Red Gram),Khatauli,2017-06-16,6850.0,0.0,32.8,clear
+925,Bengal Gram(Gram),Khatauli,2017-06-16,6700.0,4.0,32.8,clear
+926,Black Gram (Urd Beans),Khatauli,2017-06-16,7150.0,0.0,32.8,clear
+927,Arhar (Tur/Red Gram),Khatauli,2017-06-17,6850.0,0.0,35.6,clear
+928,Bengal Gram(Gram),Khatauli,2017-06-17,6700.0,0.0,35.6,clear
+929,Black Gram (Urd Beans),Khatauli,2017-06-17,7150.0,0.0,35.6,clear
+930,Arhar (Tur/Red Gram),Khatauli,2017-06-18,6850.0,0.0,36.0,clear
+931,Bengal Gram(Gram),Khatauli,2017-06-18,6700.0,0.0,36.0,clear
+932,Black Gram (Urd Beans),Khatauli,2017-06-18,7150.0,0.0,36.0,clear
+933,Arhar (Tur/Red Gram),Khatauli,2017-06-20,6800.0,2.0,30.2,rain
+934,Bengal Gram(Gram),Khatauli,2017-06-20,6650.0,2.0,30.2,rain
+935,Black Gram (Urd Beans),Khatauli,2017-06-20,7000.0,3.0,30.2,rain
+936,Arhar (Tur/Red Gram),Khatauli,2017-06-21,6800.0,0.0,31.8,rain
+937,Bengal Gram(Gram),Khatauli,2017-06-21,6650.0,0.0,31.8,rain
+938,Black Gram (Urd Beans),Khatauli,2017-06-21,7000.0,0.0,31.8,rain
+939,Arhar (Tur/Red Gram),Khatauli,2017-06-22,6800.0,0.0,34.4,clear
+940,Bengal Gram(Gram),Khatauli,2017-06-22,6600.0,0.0,34.4,clear
+941,Black Gram (Urd Beans),Khatauli,2017-06-22,7100.0,2.0,34.4,clear
+942,Arhar (Tur/Red Gram),Khatauli,2017-06-23,6800.0,0.0,35.0,clear
+943,Bengal Gram(Gram),Khatauli,2017-06-23,6500.0,2.5,35.0,clear
+944,Black Gram (Urd Beans),Khatauli,2017-06-23,7100.0,0.0,35.0,clear
+945,Arhar (Tur/Red Gram),Khatauli,2017-06-24,6800.0,0.0,36.6,clear
+946,Bengal Gram(Gram),Khatauli,2017-06-24,6500.0,0.0,36.6,clear
+947,Black Gram (Urd Beans),Khatauli,2017-06-24,7100.0,0.0,36.6,clear
+948,Arhar (Tur/Red Gram),Khatauli,2017-06-25,6800.0,0.0,37.0,clear
+949,Bengal Gram(Gram),Khatauli,2017-06-25,6600.0,0.0,37.0,clear
+950,Black Gram (Urd Beans),Khatauli,2017-06-25,7200.0,0.0,37.0,clear
+951,Arhar (Tur/Red Gram),Khatauli,2017-06-27,6800.0,0.0,35.0,clear
+952,Bengal Gram(Gram),Khatauli,2017-06-27,6600.0,0.0,35.0,clear
+953,Black Gram (Urd Beans),Khatauli,2017-06-27,7200.0,0.0,35.0,clear
+954,Arhar (Tur/Red Gram),Khatauli,2017-06-28,6800.0,0.0,32.0,clear
+955,Bengal Gram(Gram),Khatauli,2017-06-28,6600.0,0.0,32.0,clear
+956,Black Gram (Urd Beans),Khatauli,2017-06-28,7100.0,0.0,32.0,clear
+957,Arhar (Tur/Red Gram),Khatauli,2017-06-29,6800.0,0.0,28.8,rain
+958,Bengal Gram(Gram),Khatauli,2017-06-29,6600.0,0.0,28.8,rain
+959,Black Gram (Urd Beans),Khatauli,2017-06-29,7100.0,0.0,28.8,rain
+960,Arhar (Tur/Red Gram),Khatauli,2017-06-30,6850.0,2.0,30.4,rain
+961,Bengal Gram(Gram),Khatauli,2017-06-30,6600.0,0.0,30.4,rain
+962,Bengal Gram(Gram),Shamli,2017-06-30,6550.0,1.1,30.4,rain
+963,Black Gram (Urd Beans),Khatauli,2017-06-30,7100.0,0.0,30.4,rain
+964,Black Gram (Urd Beans),Shamli,2017-06-30,7220.0,0.05,30.4,rain
+965,Arhar (Tur/Red Gram),Khatauli,2017-01-07,6850.0,0.0,14.4,clear
+966,Bengal Gram(Gram),Khatauli,2017-01-07,6600.0,0.0,14.4,clear
+967,Bengal Gram(Gram),Shamli,2017-01-07,6500.0,1.5,14.4,clear
+968,Black Gram (Urd Beans),Khatauli,2017-01-07,7100.0,0.0,14.4,clear
+969,Arhar (Tur/Red Gram),Khatauli,2017-05-07,6800.0,0.0,42.6,clear
+970,Bengal Gram(Gram),Khatauli,2017-05-07,6600.0,1.0,42.6,clear
+971,Bengal Gram(Gram),Shamli,2017-05-07,6510.0,1.6,42.6,clear
+972,Black Gram (Urd Beans),Khatauli,2017-05-07,7100.0,0.0,42.6,clear
+973,Arhar (Tur/Red Gram),Khatauli,2017-06-07,6850.0,0.0,32.8,clear
+974,Bengal Gram(Gram),Khatauli,2017-06-07,6550.0,0.0,32.8,clear
+975,Bengal Gram(Gram),Shamli,2017-06-07,6510.0,1.0,32.8,clear
+976,Black Gram (Urd Beans),Khatauli,2017-06-07,7200.0,0.0,32.8,clear
+977,Arhar (Tur/Red Gram),Khatauli,2017-07-07,6850.0,2.0,32.2,clear
+978,Bengal Gram(Gram),Khatauli,2017-07-07,6550.0,3.0,32.2,clear
+979,Bengal Gram(Gram),Shamli,2017-07-07,6500.0,2.0,32.2,clear
+980,Black Gram (Urd Beans),Khatauli,2017-07-07,7200.0,3.0,32.2,clear
+981,Arhar (Tur/Red Gram),Khatauli,2017-08-07,6800.0,0.0,32.4,clear
+982,Bengal Gram(Gram),Khatauli,2017-08-07,6500.0,3.0,32.4,clear
+983,Black Gram (Urd Beans),Khatauli,2017-08-07,7200.0,0.0,32.4,clear
+984,Arhar (Tur/Red Gram),Khatauli,2017-09-07,6800.0,0.0,31.0,clear
+985,Bengal Gram(Gram),Khatauli,2017-09-07,6500.0,0.0,31.0,clear
+986,Bengal Gram(Gram),Shamli,2017-09-07,6600.0,1.5,31.0,clear
+987,Black Gram (Urd Beans),Khatauli,2017-09-07,7200.0,0.0,31.0,clear
+988,Arhar (Tur/Red Gram),Khatauli,2017-11-07,6800.0,2.0,25.0,clear
+989,Bengal Gram(Gram),Khatauli,2017-11-07,6500.0,0.0,25.0,clear
+990,Black Gram (Urd Beans),Khatauli,2017-11-07,7200.0,3.0,25.0,clear
+991,Black Gram (Urd Beans),Shamli,2017-11-07,7475.0,2.64,25.0,clear
+992,Arhar (Tur/Red Gram),Khatauli,2017-12-07,6800.0,0.0,24.0,clear
+993,Bengal Gram(Gram),Khatauli,2017-12-07,6500.0,2.0,24.0,clear
+994,Bengal Gram(Gram),Shamli,2017-12-07,6540.0,20.0,24.0,clear
+995,Black Gram (Urd Beans),Khatauli,2017-12-07,7200.0,0.0,24.0,clear
+996,Arhar (Tur/Red Gram),Khatauli,2017-07-13,6800.0,0.0,33.0,clear
+997,Bengal Gram(Gram),Khatauli,2017-07-13,6500.0,0.0,33.0,clear
+998,Bengal Gram(Gram),Shamli,2017-07-13,6650.0,7.5,33.0,clear
+999,Black Gram (Urd Beans),Khatauli,2017-07-13,7200.0,0.0,33.0,clear
+1000,Arhar (Tur/Red Gram),Khatauli,2017-07-14,6800.0,0.0,33.8,clear
+1001,Bengal Gram(Gram),Khatauli,2017-07-14,6500.0,2.0,33.8,clear
+1002,Bengal Gram(Gram),Shamli,2017-07-14,6500.0,10.0,33.8,clear
+1003,Black Gram (Urd Beans),Khatauli,2017-07-14,7200.0,0.0,33.8,clear
+1004,Lentil(Masur),Shamli,2017-07-14,5400.0,2.0,33.8,clear
+1005,Arhar (Tur/Red Gram),Khatauli,2017-07-15,6800.0,2.0,32.6,clear
+1006,Bengal Gram(Gram),Khatauli,2017-07-15,6500.0,0.0,32.6,clear
+1007,Bengal Gram(Gram),Shamli,2017-07-15,6400.0,3.0,32.6,clear
+1008,Black Gram (Urd Beans),Khatauli,2017-07-15,7200.0,2.0,32.6,clear
+1009,Lentil(Masur),Shamli,2017-07-15,5450.0,4.2,32.6,clear
+1010,Arhar (Tur/Red Gram),Khatauli,2017-07-16,6800.0,0.0,33.6,clear
+1011,Bengal Gram(Gram),Khatauli,2017-07-16,6500.0,0.0,33.6,clear
+1012,Black Gram (Urd Beans),Khatauli,2017-07-16,7200.0,0.0,33.6,clear
+1013,Arhar (Tur/Red Gram),Khatauli,2017-07-18,6800.0,3.0,34.6,clear
+1014,Bengal Gram(Gram),Khatauli,2017-07-18,6500.0,0.0,34.6,clear
+1015,Black Gram (Urd Beans),Khatauli,2017-07-18,7200.0,2.0,34.6,clear
+1016,Arhar (Tur/Red Gram),Khatauli,2017-07-19,6800.0,0.0,37.0,clear
+1017,Bengal Gram(Gram),Khatauli,2017-07-19,6500.0,0.0,37.0,clear
+1018,Black Gram (Urd Beans),Khatauli,2017-07-19,7200.0,0.0,37.0,clear
+1019,Arhar (Tur/Red Gram),Khatauli,2017-07-20,6800.0,0.0,31.6,clear
+1020,Bengal Gram(Gram),Khatauli,2017-07-20,6500.0,0.0,31.6,clear
+1021,Black Gram (Urd Beans),Khatauli,2017-07-20,7200.0,0.0,31.6,clear
+1022,Arhar (Tur/Red Gram),Khatauli,2017-07-22,6800.0,0.0,32.8,clear
+1023,Bengal Gram(Gram),Khatauli,2017-07-22,6500.0,0.0,32.8,clear
+1024,Bengal Gram(Gram),Shamli,2017-07-22,6450.0,8.0,32.8,clear
+1025,Black Gram (Urd Beans),Khatauli,2017-07-22,7200.0,0.0,32.8,clear
+1026,Lentil(Masur),Shamli,2017-07-22,5500.0,4.0,32.8,clear
+1027,Arhar (Tur/Red Gram),Khatauli,2017-07-23,6800.0,0.0,33.8,clear
+1028,Bengal Gram(Gram),Khatauli,2017-07-23,6500.0,0.0,33.8,clear
+1029,Bengal Gram(Gram),Shamli,2017-07-23,6500.0,6.0,33.8,clear
+1030,Black Gram (Urd Beans),Khatauli,2017-07-23,7200.0,0.0,33.8,clear
+1031,Arhar (Tur/Red Gram),Khatauli,2017-07-27,6750.0,2.0,31.8,clear
+1032,Bengal Gram(Gram),Khatauli,2017-07-27,6750.0,2.0,31.8,clear
+1033,Black Gram (Urd Beans),Khatauli,2017-07-27,7100.0,3.0,31.8,clear
+1034,Arhar (Tur/Red Gram),Khatauli,2017-07-28,6750.0,0.0,33.8,clear
+1035,Bengal Gram(Gram),Khatauli,2017-07-28,6800.0,3.0,33.8,clear
+1036,Black Gram (Urd Beans),Khatauli,2017-07-28,7100.0,0.0,33.8,clear
+1037,Arhar (Tur/Red Gram),Khatauli,2017-07-29,6740.0,1.5,32.4,clear
+1038,Bengal Gram(Gram),Khatauli,2017-07-29,6740.0,2.0,32.4,clear
+1039,Bengal Gram(Gram),Shamli,2017-07-29,6550.0,5.5,32.4,clear
+1040,Black Gram (Urd Beans),Khatauli,2017-07-29,7110.0,2.5,32.4,clear
+1041,Arhar (Tur/Red Gram),Khatauli,2017-07-31,6780.0,3.0,29.2,rain
+1042,Bengal Gram(Gram),Shamli,2017-07-31,6500.0,6.0,29.2,rain
+1043,Lentil(Masur),Shamli,2017-07-31,6700.0,6.0,29.2,rain
+1044,Bengal Gram(Gram),Khatauli,2017-01-25,7825.0,2.5,23.4,clear
+1045,Black Gram (Urd Beans),Khatauli,2017-01-25,7550.0,1.0,23.4,clear
+1046,Bengal Gram(Gram),Khatauli,2017-03-02,7600.0,2.0,28.6,clear
+1047,Black Gram (Urd Beans),Khatauli,2017-03-02,7300.0,3.0,28.6,clear
+1048,Bengal Gram(Gram),Khatauli,2017-04-07,6600.0,0.0,33.4,clear
+1049,Bengal Gram(Gram),Shamli,2017-04-07,6500.0,1.0,33.4,clear
+1050,Black Gram (Urd Beans),Khatauli,2017-04-07,7100.0,0.0,33.4,clear
+1051,Bengal Gram(Gram),Khatauli,2017-02-08,6500.0,3.0,22.0,clear
+1052,Bengal Gram(Gram),Shamli,2017-02-08,6550.0,6.0,22.0,clear
+1053,Lentil(Masur),Shamli,2017-02-08,6700.0,5.0,22.0,clear
+1054,Bengal Gram(Gram),Shamli,2017-10-07,6650.0,1.0,34.0,clear
+1055,Bengal Gram(Gram),Shamli,2017-07-24,6500.0,5.0,32.0,rain
+1056,Bengal Gram(Gram),Shamli,2017-07-25,6500.0,6.0,32.0,clear
+1057,Bengal Gram(Gram),Shamli,2017-03-08,6500.0,7.0,24.8,clear
+1058,Bengal Gram(Gram),Shamli,2017-04-08,6500.0,6.5,31.6,clear
+1059,Lentil(Masur),Shamli,2017-04-08,6700.0,7.0,31.6,clear
+1060,Bengal Gram(Gram),Shamli,2017-08-17,6470.0,0.0,36.2,clear
+1061,Lentil(Masur),Shamli,2017-08-17,6750.0,7.0,36.2,clear
+1062,Bengal Gram(Gram),Shamli,2017-08-18,6470.0,7.5,35.0,clear
+1063,Lentil(Masur),Shamli,2017-08-18,5550.0,9.08,35.0,clear
+1064,Bengal Gram(Gram),Shamli,2017-08-19,6500.0,6.0,26.0,rain
+1065,Bengal Gram(Gram),Shamli,2017-08-26,6500.0,6.0,32.8,rain
+1066,Bengal Gram(Gram),Shamli,2017-05-09,6650.0,5.0,36.0,clear
+1067,Bengal Gram(Gram),Shamli,2017-10-09,6700.0,5.0,34.0,clear
+1068,Bengal Gram(Gram),Shamli,2017-09-15,6700.0,5.0,35.0,clear
+1069,Bengal Gram(Gram),Shamli,2017-09-20,6500.0,5.0,33.8,clear
+1070,Bengal Gram(Gram),Shamli,2017-09-24,6500.0,6.0,29.8,clear
+1071,Bengal Gram(Gram),Shamli,2017-09-25,6500.0,0.0,33.2,clear
+1072,Bengal Gram(Gram),Shamli,2017-09-26,6500.0,0.0,32.6,clear
+1073,Bengal Gram(Gram),Shamli,2017-03-10,6500.0,0.0,21.0,clear
+1074,Bengal Gram(Gram),Shamli,2017-04-10,6500.0,0.0,34.0,clear
+1075,Bengal Gram(Gram),Shamli,2017-05-10,6600.0,6.0,36.2,clear
+1076,Bengal Gram(Gram),Shamli,2017-06-10,6600.0,0.0,38.0,clear
+1077,Bengal Gram(Gram),Shamli,2017-07-10,6600.0,0.0,35.6,clear
+1078,Bengal Gram(Gram),Shamli,2017-08-10,6600.0,0.0,33.0,clear
+1079,Bengal Gram(Gram),Shamli,2017-09-10,6600.0,0.0,34.0,clear
+1080,Bengal Gram(Gram),Shamli,2017-10-10,6600.0,0.0,33.0,clear
+1081,Bengal Gram(Gram),Shamli,2017-11-10,6600.0,0.0,26.6,clear
+1082,Bengal Gram(Gram),Shamli,2017-12-10,6700.0,7.0,26.2,clear
+1083,Bengal Gram(Gram),Shamli,2017-10-13,6700.0,0.0,32.2,clear
+1084,Bengal Gram(Gram),Shamli,2017-10-14,6700.0,0.0,33.0,clear
+1085,Bengal Gram(Gram),Shamli,2017-10-15,6700.0,0.0,33.6,clear
+1086,Bengal Gram(Gram),Shamli,2017-10-16,6700.0,0.0,34.0,clear
+1087,Bengal Gram(Gram),Shamli,2017-10-18,6700.0,0.0,32.4,clear
+1088,Bengal Gram(Gram),Shamli,2017-10-23,6750.0,0.0,32.8,clear
+1089,Bengal Gram(Gram),Shamli,2017-10-24,6750.0,0.0,31.4,clear
+1090,Bengal Gram(Gram),Shamli,2017-10-25,6750.0,0.0,31.0,clear
+1091,Bengal Gram(Gram),Shamli,2017-10-26,6800.0,1.0,31.0,clear
+1092,Lentil(Masur),Shamli,2017-06-19,5342.5,0.9,34.4,clear
+1093,Lentil(Masur),Shamli,2017-07-30,6750.0,5.0,32.2,clear
+1094,Lentil(Masur),Shamli,2017-08-20,6600.0,0.0,33.6,clear
+1095,Lentil(Masur),Shamli,2017-08-25,6500.0,6.0,32.0,clear
+1096,Lentil(Masur),Shamli,2017-08-31,6650.0,5.0,32.4,clear

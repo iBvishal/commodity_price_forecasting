@@ -1,0 +1,1466 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Mustard,Anoop Shahar,2015-12-29,3980.0,21.0,20.4,clear
+1,Mustard,Buland Shahr,2015-12-29,3850.0,4.0,20.4,clear
+2,Mustard,Siyana,2015-12-29,4080.0,1.0,20.4,clear
+3,Mustard,Buland Shahr,2015-12-08,3860.0,1.5,21.8,clear
+4,Mustard,Khurja,2015-12-08,3850.0,1.6,21.8,clear
+5,Mustard,Siyana,2015-12-08,3865.0,0.0,21.8,clear
+6,Mustard,Buland Shahr,2015-12-09,3875.0,2.0,22.8,clear
+7,Mustard,Siyana,2015-12-09,3875.0,0.0,22.8,clear
+8,Mustard,Buland Shahr,2015-12-10,3880.0,1.0,17.4,clear
+9,Mustard,Buland Shahr,2015-12-12,4180.0,0.0,19.6,clear
+10,Mustard,Buland Shahr,2015-12-14,4180.0,0.0,10.6,clear
+11,Mustard,Buland Shahr,2015-12-15,4160.0,0.0,18.2,clear
+12,Mustard,Siyana,2015-12-15,4225.0,1.2,18.2,clear
+13,Mustard,Buland Shahr,2015-12-16,4150.0,1.0,17.4,clear
+14,Mustard,Siyana,2015-12-16,4230.0,1.0,17.4,clear
+15,Mustard,Buland Shahr,2015-12-17,4140.0,0.8,16.4,clear
+16,Mustard,Siyana,2015-12-17,4230.0,0.0,16.4,clear
+17,Mustard,Buland Shahr,2015-12-18,4150.0,1.0,16.2,clear
+18,Mustard,Siyana,2015-12-18,4210.0,1.0,16.2,clear
+19,Mustard,Buland Shahr,2015-12-19,4170.0,1.2,18.0,clear
+20,Mustard,Siyana,2015-12-19,4200.0,1.2,18.0,clear
+21,Mustard,Buland Shahr,2015-12-21,4160.0,1.0,16.4,clear
+22,Mustard,Buland Shahr,2015-12-22,4160.0,2.0,17.0,clear
+23,Mustard,Siyana,2015-12-22,4190.0,1.2,17.0,clear
+24,Mustard,Buland Shahr,2015-12-23,4000.0,2.5,15.8,clear
+25,Mustard,Siyana,2015-12-23,4190.0,1.0,15.8,clear
+26,Mustard,Buland Shahr,2015-12-24,3900.0,4.0,15.6,clear
+27,Mustard,Siyana,2015-12-24,4180.0,0.0,15.6,clear
+28,Mustard,Buland Shahr,2015-12-25,3920.0,5.0,15.2,clear
+29,Mustard,Siyana,2015-12-25,4200.0,1.0,15.2,clear
+30,Mustard,Buland Shahr,2015-12-26,3900.0,4.0,16.6,clear
+31,Mustard,Siyana,2015-12-26,4180.0,1.0,16.6,clear
+32,Mustard,Buland Shahr,2015-12-28,3920.0,4.5,11.8,clear
+33,Mustard,Buland Shahr,2015-12-31,3810.0,4.5,20.2,clear
+34,Mustard,Siyana,2015-12-31,4110.0,0.0,20.2,clear
+35,Mustard,Divai,2015-12-07,3900.0,2.5,21.2,clear
+36,Mustard,Siyana,2015-12-07,3910.0,0.0,21.2,clear
+37,Mustard,Khurja,2015-12-30,3800.0,2.5,20.6,clear
+38,Mustard,Siyana,2015-12-27,4175.0,0.0,18.2,clear
+39,Mustard,Anoop Shahar,2016-03-30,3420.0,287.0,34.2,clear
+40,Mustard,Buland Shahr,2016-03-30,3420.0,12.0,34.2,clear
+41,Mustard,Gulavati,2016-03-30,3470.0,25.0,34.2,clear
+42,Mustard,Siyana,2016-03-30,3400.0,3.5,34.2,clear
+43,Mustard,Anoop Shahar,2016-04-29,3940.0,125.0,39.4,clear
+44,Mustard,Buland Shahr,2016-04-29,3900.0,2.8,39.4,clear
+45,Mustard,Divai,2016-04-29,3975.0,4.0,39.4,clear
+46,Mustard,Gulavati,2016-04-29,3990.0,7.0,39.4,clear
+47,Mustard,Siyana,2016-04-29,3900.0,1.5,39.4,clear
+48,Mustard,Anoop Shahar,2016-06-30,4000.0,165.0,37.8,clear
+49,Mustard,Buland Shahr,2016-06-30,3990.0,1.0,37.8,clear
+50,Mustard,Divai,2016-06-30,4050.0,27.0,37.8,clear
+51,Mustard,Gulavati,2016-06-30,4150.0,0.0,37.8,clear
+52,Mustard,Siyana,2016-06-30,3975.0,1.0,37.8,clear
+53,Mustard,Anoop Shahar,2016-07-30,4120.0,57.0,30.4,clear
+54,Mustard,Buland Shahr,2016-07-30,4150.0,0.0,30.4,clear
+55,Mustard,Divai,2016-07-30,4150.0,3.5,30.4,clear
+56,Mustard,Gulavati,2016-07-30,4150.0,0.0,30.4,clear
+57,Mustard,Siyana,2016-07-30,4150.0,1.2,30.4,clear
+58,Mustard,Anoop Shahar,2016-10-28,3950.0,20.0,28.8,clear
+59,Mustard,Buland Shahr,2016-10-28,3750.0,1.2,28.8,clear
+60,Mustard,Siyana,2016-10-28,4015.0,6.0,28.8,clear
+61,Mustard,Anoop Shahar,2016-11-29,3970.0,10.0,23.8,clear
+62,Mustard,Buland Shahr,2016-11-29,3750.0,1.2,23.8,clear
+63,Mustard,Jahangirabad,2016-11-29,3980.0,0.0,23.8,clear
+64,Mustard,Buland Shahr,2016-02-01,3900.0,3.0,21.4,clear
+65,Mustard,Siyana,2016-02-01,4150.0,1.2,21.4,clear
+66,Mustard,Buland Shahr,2016-05-01,3930.0,3.5,40.2,clear
+67,Mustard,Siyana,2016-05-01,4150.0,1.0,40.2,clear
+68,Mustard,Buland Shahr,2016-11-01,3850.0,2.5,27.6,clear
+69,Mustard,Buland Shahr,2016-12-01,3900.0,3.0,22.4,clear
+70,Mustard,Siyana,2016-12-01,4150.0,1.0,22.4,clear
+71,Mustard,Buland Shahr,2016-01-13,3880.0,2.0,21.6,clear
+72,Mustard,Siyana,2016-01-13,4140.0,0.0,21.6,clear
+73,Mustard,Buland Shahr,2016-01-15,3875.0,2.0,14.6,clear
+74,Mustard,Siyana,2016-01-15,0.0,0.0,14.6,clear
+75,Mustard,Buland Shahr,2016-01-23,3800.0,1.8,16.4,clear
+76,Mustard,Buland Shahr,2016-01-25,3810.0,3.0,8.4,clear
+77,Mustard,Buland Shahr,2016-01-27,3800.0,2.2,20.0,clear
+78,Mustard,Siyana,2016-01-27,4160.0,0.0,20.0,clear
+79,Mustard,Buland Shahr,2016-01-29,3810.0,3.0,20.8,clear
+80,Mustard,Siyana,2016-01-29,4140.0,1.0,20.8,clear
+81,Mustard,Buland Shahr,2016-01-30,3800.0,3.5,24.0,clear
+82,Mustard,Jahangirabad,2016-01-30,3950.0,2.0,24.0,clear
+83,Mustard,Khurja,2016-01-30,3800.0,8.0,24.0,clear
+84,Mustard,Siyana,2016-01-30,4045.0,1.2,24.0,clear
+85,Mustard,Buland Shahr,2016-01-02,3700.0,4.0,19.0,clear
+86,Mustard,Buland Shahr,2016-02-02,3750.0,3.5,19.2,clear
+87,Mustard,Siyana,2016-02-02,3750.0,0.0,19.2,clear
+88,Mustard,Buland Shahr,2016-03-02,3800.0,2.5,29.2,clear
+89,Mustard,Gulavati,2016-03-02,3650.0,1.0,29.2,clear
+90,Mustard,Siyana,2016-03-02,3700.0,1.5,29.2,clear
+91,Mustard,Buland Shahr,2016-05-02,3700.0,3.0,42.0,clear
+92,Mustard,Siyana,2016-05-02,3720.0,1.0,42.0,clear
+93,Mustard,Buland Shahr,2016-06-02,3700.0,3.0,41.0,clear
+94,Mustard,Gulavati,2016-06-02,3860.0,1.0,41.0,clear
+95,Mustard,Siyana,2016-06-02,3715.0,1.5,41.0,clear
+96,Mustard,Buland Shahr,2016-08-02,3680.0,4.5,29.6,clear
+97,Mustard,Gulavati,2016-08-02,3700.0,1.5,29.6,clear
+98,Mustard,Buland Shahr,2016-09-02,3600.0,3.5,31.8,clear
+99,Mustard,Siyana,2016-09-02,3700.0,2.0,31.8,clear
+100,Mustard,Buland Shahr,2016-10-02,3550.0,4.5,33.6,clear
+101,Mustard,Siyana,2016-10-02,3710.0,1.5,33.6,clear
+102,Mustard,Buland Shahr,2016-11-02,3500.0,4.0,19.0,clear
+103,Mustard,Siyana,2016-11-02,3700.0,1.5,19.0,clear
+104,Mustard,Buland Shahr,2016-12-02,3500.0,3.0,21.4,clear
+105,Mustard,Siyana,2016-12-02,3710.0,1.0,21.4,clear
+106,Mustard,Buland Shahr,2016-02-13,3550.0,3.5,24.4,clear
+107,Mustard,Gulavati,2016-02-13,3700.0,0.8,24.4,clear
+108,Mustard,Siyana,2016-02-13,3640.0,1.5,24.4,clear
+109,Mustard,Buland Shahr,2016-02-15,3450.0,4.0,22.4,clear
+110,Mustard,Gulavati,2016-02-15,3600.0,1.5,22.4,clear
+111,Mustard,Buland Shahr,2016-02-16,3450.0,5.0,22.6,clear
+112,Mustard,Siyana,2016-02-16,3550.0,1.5,22.6,clear
+113,Mustard,Buland Shahr,2016-02-17,3460.0,5.0,22.6,clear
+114,Mustard,Gulavati,2016-02-17,3600.0,2.0,22.6,clear
+115,Mustard,Siyana,2016-02-17,3540.0,1.5,22.6,clear
+116,Mustard,Buland Shahr,2016-02-18,3500.0,4.0,19.8,clear
+117,Mustard,Gulavati,2016-02-18,3650.0,1.0,19.8,clear
+118,Mustard,Siyana,2016-02-18,3500.0,2.0,19.8,clear
+119,Mustard,Buland Shahr,2016-02-19,3470.0,6.0,24.4,clear
+120,Mustard,Gulavati,2016-02-19,3700.0,15.0,24.4,clear
+121,Mustard,Siyana,2016-02-19,3520.0,2.5,24.4,clear
+122,Mustard,Buland Shahr,2016-02-20,3460.0,7.0,25.2,clear
+123,Mustard,Gulavati,2016-02-20,3600.0,1.0,25.2,clear
+124,Mustard,Siyana,2016-02-20,3515.0,1.5,25.2,clear
+125,Mustard,Buland Shahr,2016-02-22,3450.0,8.0,24.0,clear
+126,Mustard,Gulavati,2016-02-22,3600.0,0.0,24.0,clear
+127,Mustard,Buland Shahr,2016-02-23,3460.0,7.0,26.4,clear
+128,Mustard,Siyana,2016-02-23,3500.0,2.0,26.4,clear
+129,Mustard,Buland Shahr,2016-02-24,3460.0,6.0,25.8,clear
+130,Mustard,Gulavati,2016-02-24,3650.0,1.5,25.8,clear
+131,Mustard,Buland Shahr,2016-02-25,3450.0,8.0,26.8,clear
+132,Mustard,Buland Shahr,2016-02-26,3460.0,10.0,27.2,clear
+133,Mustard,Gulavati,2016-02-26,3550.0,2.0,27.2,clear
+134,Mustard,Buland Shahr,2016-02-27,3430.0,13.0,26.6,clear
+135,Mustard,Gulavati,2016-02-27,3500.0,2.5,26.6,clear
+136,Mustard,Khurja,2016-02-27,3400.0,45.0,26.6,clear
+137,Mustard,Buland Shahr,2016-03-03,3310.0,12.0,30.8,clear
+138,Mustard,Gulavati,2016-03-03,3400.0,6.0,30.8,clear
+139,Mustard,Buland Shahr,2016-04-03,3300.0,13.0,37.4,clear
+140,Mustard,Buland Shahr,2016-05-03,3300.0,11.0,37.2,clear
+141,Mustard,Gulavati,2016-05-03,3430.0,6.0,37.2,clear
+142,Mustard,Buland Shahr,2016-07-03,3340.0,11.0,30.8,clear
+143,Mustard,Buland Shahr,2016-08-03,3350.0,13.0,33.0,clear
+144,Mustard,Buland Shahr,2016-09-03,3340.0,14.0,33.4,clear
+145,Mustard,Gulavati,2016-09-03,3360.0,15.0,33.4,clear
+146,Mustard,Buland Shahr,2016-10-03,3300.0,15.0,34.4,clear
+147,Mustard,Gulavati,2016-10-03,3350.0,20.0,34.4,clear
+148,Mustard,Buland Shahr,2016-11-03,3350.0,10.0,28.2,clear
+149,Mustard,Gulavati,2016-11-03,3400.0,8.0,28.2,clear
+150,Mustard,Buland Shahr,2016-12-03,3380.0,12.0,21.4,clear
+151,Mustard,Gulavati,2016-12-03,3400.0,5.0,21.4,clear
+152,Mustard,Buland Shahr,2016-03-14,3400.0,11.0,24.8,clear
+153,Mustard,Gulavati,2016-03-14,3460.0,5.0,24.8,clear
+154,Mustard,Buland Shahr,2016-03-15,3350.0,12.0,27.2,clear
+155,Mustard,Buland Shahr,2016-03-16,3360.0,10.0,28.4,clear
+156,Mustard,Gulavati,2016-03-16,3400.0,7.0,28.4,clear
+157,Mustard,Buland Shahr,2016-03-17,3350.0,13.0,29.4,clear
+158,Mustard,Gulavati,2016-03-17,3480.0,6.0,29.4,clear
+159,Mustard,Buland Shahr,2016-03-18,3320.0,15.0,30.6,clear
+160,Mustard,Gulavati,2016-03-18,3475.0,5.0,30.6,clear
+161,Mustard,Buland Shahr,2016-03-22,3350.0,1.0,29.4,clear
+162,Mustard,Buland Shahr,2016-03-23,3355.0,13.0,31.6,clear
+163,Mustard,Buland Shahr,2016-03-25,3360.0,13.5,34.4,clear
+164,Mustard,Gulavati,2016-03-25,3380.0,6.0,34.4,clear
+165,Mustard,Siyana,2016-03-25,3440.0,3.0,34.4,clear
+166,Mustard,Buland Shahr,2016-03-26,3410.0,15.0,28.8,clear
+167,Mustard,Gulavati,2016-03-26,3400.0,5.0,28.8,clear
+168,Mustard,Siyana,2016-03-26,3450.0,4.0,28.8,clear
+169,Mustard,Buland Shahr,2016-03-28,3415.0,14.0,32.6,clear
+170,Mustard,Gulavati,2016-03-28,3420.0,10.0,32.6,clear
+171,Mustard,Sikarpur,2016-03-28,3400.0,257.0,32.6,clear
+172,Mustard,Buland Shahr,2016-03-31,3420.0,10.0,35.4,clear
+173,Mustard,Gulavati,2016-03-31,3450.0,20.0,35.4,clear
+174,Mustard,Siyana,2016-03-31,3400.0,5.0,35.4,clear
+175,Mustard,Buland Shahr,2016-01-04,3450.0,14.0,20.0,clear
+176,Mustard,Divai,2016-01-04,3550.0,19.0,20.0,clear
+177,Mustard,Gulavati,2016-01-04,3460.0,25.0,20.0,clear
+178,Mustard,Siyana,2016-01-04,3470.0,6.0,20.0,clear
+179,Mustard,Buland Shahr,2016-02-04,3500.0,12.0,20.2,clear
+180,Mustard,Divai,2016-02-04,3600.0,18.0,20.2,clear
+181,Mustard,Gulavati,2016-02-04,3400.0,15.0,20.2,clear
+182,Mustard,Khurja,2016-02-04,3350.0,190.0,20.2,clear
+183,Mustard,Siyana,2016-02-04,3460.0,2.0,20.2,clear
+184,Mustard,Buland Shahr,2016-04-04,3500.0,14.0,37.0,clear
+185,Mustard,Gulavati,2016-04-04,3480.0,17.0,37.0,clear
+186,Mustard,Buland Shahr,2016-05-04,3510.0,8.0,39.4,clear
+187,Mustard,Divai,2016-05-04,3650.0,11.0,39.4,clear
+188,Mustard,Siyana,2016-05-04,3450.0,2.0,39.4,clear
+189,Mustard,Buland Shahr,2016-06-04,3515.0,7.0,41.8,clear
+190,Mustard,Siyana,2016-06-04,3475.0,2.5,41.8,clear
+191,Mustard,Buland Shahr,2016-07-04,3500.0,11.0,31.4,clear
+192,Mustard,Divai,2016-07-04,3750.0,20.0,31.4,clear
+193,Mustard,Buland Shahr,2016-08-04,3500.0,10.0,34.0,clear
+194,Mustard,Divai,2016-08-04,3790.0,21.0,34.0,clear
+195,Mustard,Siyana,2016-08-04,3500.0,2.0,34.0,clear
+196,Mustard,Buland Shahr,2016-09-04,3600.0,8.0,33.6,clear
+197,Mustard,Gulavati,2016-09-04,3600.0,14.0,33.6,clear
+198,Mustard,Siyana,2016-09-04,3490.0,1.5,33.6,clear
+199,Mustard,Buland Shahr,2016-11-04,3600.0,7.0,28.2,clear
+200,Mustard,Gulavati,2016-11-04,3590.0,13.0,28.2,clear
+201,Mustard,Buland Shahr,2016-12-04,3600.0,7.0,21.8,clear
+202,Mustard,Divai,2016-12-04,3750.0,11.0,21.8,clear
+203,Mustard,Siyana,2016-12-04,3700.0,1.5,21.8,clear
+204,Mustard,Buland Shahr,2016-04-13,3610.0,9.0,36.6,clear
+205,Mustard,Gulavati,2016-04-13,3650.0,16.0,36.6,clear
+206,Mustard,Buland Shahr,2016-04-14,3600.0,5.0,27.8,clear
+207,Mustard,Divai,2016-04-14,3800.0,9.0,27.8,clear
+208,Mustard,Siyana,2016-04-14,3725.0,1.2,27.8,clear
+209,Mustard,Buland Shahr,2016-04-15,3610.0,7.0,38.8,clear
+210,Mustard,Siyana,2016-04-15,3690.0,1.0,38.8,clear
+211,Mustard,Buland Shahr,2016-04-16,3700.0,6.0,41.6,clear
+212,Mustard,Gulavati,2016-04-16,3650.0,7.0,41.6,clear
+213,Mustard,Siyana,2016-04-16,3695.0,1.5,41.6,clear
+214,Mustard,Buland Shahr,2016-04-18,3700.0,5.0,39.4,clear
+215,Mustard,Divai,2016-04-18,3850.0,8.0,39.4,clear
+216,Mustard,Gulavati,2016-04-18,3680.0,10.0,39.4,clear
+217,Mustard,Buland Shahr,2016-04-19,3750.0,4.0,38.6,clear
+218,Mustard,Divai,2016-04-19,3850.0,12.0,38.6,clear
+219,Mustard,Siyana,2016-04-19,3700.0,1.0,38.6,clear
+220,Mustard,Buland Shahr,2016-04-20,4000.0,6.0,38.6,clear
+221,Mustard,Gulavati,2016-04-20,3670.0,10.0,38.6,clear
+222,Mustard,Siyana,2016-04-20,3750.0,1.5,38.6,clear
+223,Mustard,Buland Shahr,2016-04-21,4000.0,3.0,38.0,clear
+224,Mustard,Divai,2016-04-21,3900.0,9.0,38.0,clear
+225,Mustard,Gulavati,2016-04-21,3680.0,8.0,38.0,clear
+226,Mustard,Siyana,2016-04-21,3720.0,1.5,38.0,clear
+227,Mustard,Buland Shahr,2016-04-22,4000.0,3.8,39.6,clear
+228,Mustard,Divai,2016-04-22,3950.0,20.0,39.6,clear
+229,Mustard,Gulavati,2016-04-22,3690.0,7.0,39.6,clear
+230,Mustard,Siyana,2016-04-22,3680.0,2.0,39.6,clear
+231,Mustard,Buland Shahr,2016-04-23,4000.0,2.2,35.4,clear
+232,Mustard,Divai,2016-04-23,3950.0,9.0,35.4,clear
+233,Mustard,Gulavati,2016-04-23,3700.0,8.0,35.4,clear
+234,Mustard,Siyana,2016-04-23,3700.0,2.5,35.4,clear
+235,Mustard,Buland Shahr,2016-04-25,4000.0,2.5,38.4,clear
+236,Mustard,Divai,2016-04-25,3950.0,5.0,38.4,clear
+237,Mustard,Gulavati,2016-04-25,3800.0,7.0,38.4,clear
+238,Mustard,Buland Shahr,2016-04-27,3950.0,3.0,39.4,clear
+239,Mustard,Gulavati,2016-04-27,3950.0,5.0,39.4,clear
+240,Mustard,Siyana,2016-04-27,3840.0,2.0,39.4,clear
+241,Mustard,Buland Shahr,2016-04-28,3900.0,2.5,39.2,clear
+242,Mustard,Divai,2016-04-28,3975.0,7.0,39.2,clear
+243,Mustard,Gulavati,2016-04-28,3980.0,3.5,39.2,clear
+244,Mustard,Sikarpur,2016-04-28,3920.0,87.0,39.2,clear
+245,Mustard,Siyana,2016-04-28,3900.0,1.5,39.2,clear
+246,Mustard,Buland Shahr,2016-04-30,3920.0,2.6,39.6,clear
+247,Mustard,Divai,2016-04-30,3975.0,7.0,39.6,clear
+248,Mustard,Gulavati,2016-04-30,3990.0,5.0,39.6,clear
+249,Mustard,Siyana,2016-04-30,3900.0,1.0,39.6,clear
+250,Mustard,Buland Shahr,2016-03-05,3805.0,1.8,20.6,clear
+251,Mustard,Divai,2016-03-05,3900.0,19.0,20.6,clear
+252,Mustard,Siyana,2016-03-05,3920.0,1.2,20.6,clear
+253,Mustard,Buland Shahr,2016-04-05,3870.0,2.2,35.0,clear
+254,Mustard,Gulavati,2016-04-05,3980.0,10.0,35.0,clear
+255,Mustard,Siyana,2016-04-05,3915.0,2.0,35.0,clear
+256,Mustard,Buland Shahr,2016-06-05,3800.0,2.0,33.4,clear
+257,Mustard,Gulavati,2016-06-05,3880.0,0.0,33.4,clear
+258,Mustard,Siyana,2016-06-05,3920.0,1.5,33.4,clear
+259,Mustard,Buland Shahr,2016-07-05,3800.0,0.8,34.8,clear
+260,Mustard,Gulavati,2016-07-05,3900.0,12.0,34.8,clear
+261,Mustard,Siyana,2016-07-05,3925.0,1.0,34.8,clear
+262,Mustard,Buland Shahr,2016-09-05,3820.0,1.0,33.6,clear
+263,Mustard,Gulavati,2016-09-05,3960.0,5.0,33.6,clear
+264,Mustard,Buland Shahr,2016-10-05,3830.0,1.5,32.0,clear
+265,Mustard,Siyana,2016-10-05,3950.0,1.0,32.0,clear
+266,Mustard,Buland Shahr,2016-11-05,3850.0,1.0,24.4,clear
+267,Mustard,Gulavati,2016-11-05,3980.0,4.0,24.4,clear
+268,Mustard,Siyana,2016-11-05,3800.0,1.0,24.4,clear
+269,Mustard,Buland Shahr,2016-12-05,3800.0,2.0,21.6,clear
+270,Mustard,Gulavati,2016-12-05,3900.0,8.0,21.6,clear
+271,Mustard,Siyana,2016-12-05,3800.0,1.5,21.6,clear
+272,Mustard,Buland Shahr,2016-05-13,3820.0,2.2,41.4,clear
+273,Mustard,Gulavati,2016-05-13,3950.0,8.0,41.4,clear
+274,Mustard,Siyana,2016-05-13,3780.0,1.0,41.4,clear
+275,Mustard,Buland Shahr,2016-05-14,3800.0,1.5,41.0,clear
+276,Mustard,Gulavati,2016-05-14,3950.0,7.0,41.0,clear
+277,Mustard,Siyana,2016-05-14,3775.0,1.0,41.0,clear
+278,Mustard,Buland Shahr,2016-05-16,3830.0,2.0,42.4,clear
+279,Mustard,Gulavati,2016-05-16,3900.0,0.0,42.4,clear
+280,Mustard,Buland Shahr,2016-05-17,3860.0,2.5,34.6,clear
+281,Mustard,Siyana,2016-05-17,3750.0,1.0,34.6,clear
+282,Mustard,Buland Shahr,2016-05-18,3870.0,2.0,42.6,clear
+283,Mustard,Gulavati,2016-05-18,3960.0,8.0,42.6,clear
+284,Mustard,Siyana,2016-05-18,3850.0,0.0,42.6,clear
+285,Mustard,Buland Shahr,2016-05-19,3850.0,1.2,32.6,clear
+286,Mustard,Divai,2016-05-19,3950.0,6.0,32.6,clear
+287,Mustard,Gulavati,2016-05-19,3980.0,5.0,32.6,clear
+288,Mustard,Siyana,2016-05-19,3850.0,1.2,32.6,clear
+289,Mustard,Buland Shahr,2016-05-20,3840.0,0.8,40.0,clear
+290,Mustard,Divai,2016-05-20,3950.0,5.0,40.0,clear
+291,Mustard,Gulavati,2016-05-20,3990.0,4.5,40.0,clear
+292,Mustard,Siyana,2016-05-20,3840.0,1.0,40.0,clear
+293,Mustard,Buland Shahr,2016-05-21,3860.0,0.0,38.2,clear
+294,Mustard,Divai,2016-05-21,3900.0,9.5,38.2,clear
+295,Mustard,Siyana,2016-05-21,3850.0,0.0,38.2,clear
+296,Mustard,Buland Shahr,2016-05-23,3870.0,0.0,32.8,clear
+297,Mustard,Divai,2016-05-23,3850.0,19.0,32.8,clear
+298,Mustard,Buland Shahr,2016-05-25,3800.0,1.0,36.0,clear
+299,Mustard,Gulavati,2016-05-25,4000.0,3.0,36.0,clear
+300,Mustard,Siyana,2016-05-25,3860.0,1.5,36.0,clear
+301,Mustard,Buland Shahr,2016-05-26,3810.0,1.2,29.8,clear
+302,Mustard,Divai,2016-05-26,3825.0,20.0,29.8,clear
+303,Mustard,Gulavati,2016-05-26,3990.0,2.0,29.8,clear
+304,Mustard,Siyana,2016-05-26,3850.0,1.0,29.8,clear
+305,Mustard,Buland Shahr,2016-05-27,3815.0,1.8,38.8,clear
+306,Mustard,Divai,2016-05-27,3825.0,6.5,38.8,clear
+307,Mustard,Gulavati,2016-05-27,3850.0,1.0,38.8,clear
+308,Mustard,Jahangirabad,2016-05-27,3825.0,31.0,38.8,clear
+309,Mustard,Siyana,2016-05-27,3825.0,1.0,38.8,clear
+310,Mustard,Buland Shahr,2016-05-28,3800.0,1.5,34.2,clear
+311,Mustard,Divai,2016-05-28,3825.0,19.0,34.2,clear
+312,Mustard,Gulavati,2016-05-28,3800.0,2.0,34.2,clear
+313,Mustard,Siyana,2016-05-28,3820.0,1.5,34.2,clear
+314,Mustard,Buland Shahr,2016-05-30,3800.0,0.0,30.8,clear
+315,Mustard,Divai,2016-05-30,3800.0,13.0,30.8,clear
+316,Mustard,Gulavati,2016-05-30,3860.0,2.0,30.8,clear
+317,Mustard,Buland Shahr,2016-05-31,3800.0,0.0,35.0,clear
+318,Mustard,Divai,2016-05-31,3800.0,7.5,35.0,clear
+319,Mustard,Siyana,2016-05-31,3800.0,1.5,35.0,clear
+320,Mustard,Buland Shahr,2016-01-06,3800.0,1.5,21.4,clear
+321,Mustard,Gulavati,2016-01-06,3820.0,2.5,21.4,clear
+322,Mustard,Siyana,2016-01-06,3820.0,1.5,21.4,clear
+323,Mustard,Buland Shahr,2016-02-06,3820.0,0.0,12.2,clear
+324,Mustard,Divai,2016-02-06,3850.0,6.0,12.2,clear
+325,Mustard,Gulavati,2016-02-06,3800.0,1.0,12.2,clear
+326,Mustard,Siyana,2016-02-06,3825.0,1.0,12.2,clear
+327,Mustard,Buland Shahr,2016-03-06,3825.0,1.0,28.4,clear
+328,Mustard,Divai,2016-03-06,3850.0,11.0,28.4,clear
+329,Mustard,Gulavati,2016-03-06,3840.0,2.0,28.4,clear
+330,Mustard,Siyana,2016-03-06,3820.0,1.0,28.4,clear
+331,Mustard,Buland Shahr,2016-04-06,3850.0,1.5,35.8,clear
+332,Mustard,Divai,2016-04-06,3850.0,7.0,35.8,clear
+333,Mustard,Siyana,2016-04-06,3825.0,1.2,35.8,clear
+334,Mustard,Buland Shahr,2016-06-06,3840.0,2.0,38.6,clear
+335,Mustard,Gulavati,2016-06-06,3840.0,0.0,38.6,clear
+336,Mustard,Buland Shahr,2016-07-06,3850.0,1.5,30.4,clear
+337,Mustard,Divai,2016-07-06,3840.0,16.0,30.4,clear
+338,Mustard,Siyana,2016-07-06,3840.0,1.0,30.4,clear
+339,Mustard,Buland Shahr,2016-08-06,3840.0,2.0,30.4,clear
+340,Mustard,Gulavati,2016-08-06,3860.0,1.5,30.4,clear
+341,Mustard,Siyana,2016-08-06,3840.0,1.0,30.4,clear
+342,Mustard,Buland Shahr,2016-09-06,3870.0,1.0,33.2,clear
+343,Mustard,Divai,2016-09-06,3900.0,7.0,33.2,clear
+344,Mustard,Gulavati,2016-09-06,3850.0,1.0,33.2,clear
+345,Mustard,Siyana,2016-09-06,3850.0,1.5,33.2,clear
+346,Mustard,Buland Shahr,2016-10-06,3870.0,0.0,29.4,clear
+347,Mustard,Divai,2016-10-06,3900.0,12.0,29.4,clear
+348,Mustard,Gulavati,2016-10-06,3800.0,2.0,29.4,clear
+349,Mustard,Siyana,2016-10-06,3860.0,1.0,29.4,clear
+350,Mustard,Buland Shahr,2016-11-06,3900.0,0.0,19.4,clear
+351,Mustard,Divai,2016-11-06,3900.0,0.0,19.4,clear
+352,Mustard,Siyana,2016-11-06,3865.0,1.0,19.4,clear
+353,Mustard,Buland Shahr,2016-06-13,3900.0,0.0,34.8,clear
+354,Mustard,Divai,2016-06-13,4000.0,5.0,34.8,clear
+355,Mustard,Buland Shahr,2016-06-15,3920.0,1.2,32.8,clear
+356,Mustard,Siyana,2016-06-15,3880.0,1.0,32.8,clear
+357,Mustard,Buland Shahr,2016-06-16,3950.0,1.6,35.8,clear
+358,Mustard,Divai,2016-06-16,4050.0,8.0,35.8,clear
+359,Mustard,Siyana,2016-06-16,3885.0,1.0,35.8,clear
+360,Mustard,Buland Shahr,2016-06-22,3970.0,0.0,32.4,clear
+361,Mustard,Gulavati,2016-06-22,4100.0,1.0,32.4,clear
+362,Mustard,Siyana,2016-06-22,3960.0,1.0,32.4,clear
+363,Mustard,Buland Shahr,2016-06-23,3960.0,1.5,30.2,clear
+364,Mustard,Divai,2016-06-23,3950.0,11.0,30.2,clear
+365,Mustard,Gulavati,2016-06-23,4150.0,0.0,30.2,clear
+366,Mustard,Siyana,2016-06-23,3980.0,1.2,30.2,clear
+367,Mustard,Buland Shahr,2016-06-24,3980.0,1.4,38.4,clear
+368,Mustard,Gulavati,2016-06-24,4100.0,1.0,38.4,clear
+369,Mustard,Jahangirabad,2016-06-24,3980.0,24.0,38.4,clear
+370,Mustard,Siyana,2016-06-24,4000.0,1.5,38.4,clear
+371,Mustard,Buland Shahr,2016-06-25,3980.0,1.8,36.8,clear
+372,Mustard,Divai,2016-06-25,3950.0,4.0,36.8,clear
+373,Mustard,Siyana,2016-06-25,4000.0,1.0,36.8,clear
+374,Mustard,Buland Shahr,2016-06-27,3970.0,0.0,36.8,clear
+375,Mustard,Divai,2016-06-27,4050.0,4.0,36.8,clear
+376,Mustard,Gulavati,2016-06-27,4120.0,0.0,36.8,clear
+377,Mustard,Buland Shahr,2016-06-28,3970.0,0.0,25.6,clear
+378,Mustard,Divai,2016-06-28,4050.0,11.0,25.6,clear
+379,Mustard,Siyana,2016-06-28,4020.0,1.0,25.6,clear
+380,Mustard,Buland Shahr,2016-06-29,3980.0,0.0,36.2,clear
+381,Mustard,Gulavati,2016-06-29,4150.0,1.0,36.2,clear
+382,Mustard,Sikarpur,2016-06-29,4020.0,57.0,36.2,clear
+383,Mustard,Siyana,2016-06-29,3970.0,0.0,36.2,clear
+384,Mustard,Buland Shahr,2016-02-07,3980.0,0.0,19.2,clear
+385,Mustard,Divai,2016-02-07,4100.0,8.0,19.2,clear
+386,Mustard,Siyana,2016-02-07,3985.0,1.0,19.2,clear
+387,Mustard,Buland Shahr,2016-04-07,3985.0,0.0,37.2,clear
+388,Mustard,Divai,2016-04-07,4100.0,7.0,37.2,clear
+389,Mustard,Gulavati,2016-04-07,4150.0,0.0,37.2,clear
+390,Mustard,Buland Shahr,2016-05-07,3980.0,1.5,36.4,clear
+391,Mustard,Siyana,2016-05-07,4100.0,1.0,36.4,clear
+392,Mustard,Buland Shahr,2016-06-07,4010.0,1.0,37.8,clear
+393,Mustard,Gulavati,2016-06-07,4100.0,1.0,37.8,clear
+394,Mustard,Siyana,2016-06-07,4100.0,1.0,37.8,clear
+395,Mustard,Buland Shahr,2016-08-07,4010.0,0.8,31.6,clear
+396,Mustard,Divai,2016-08-07,4150.0,15.0,31.6,clear
+397,Mustard,Siyana,2016-08-07,4120.0,1.0,31.6,clear
+398,Mustard,Buland Shahr,2016-09-07,4020.0,0.0,33.6,clear
+399,Mustard,Divai,2016-09-07,4050.0,21.0,33.6,clear
+400,Mustard,Gulavati,2016-09-07,4100.0,0.0,33.6,clear
+401,Mustard,Siyana,2016-09-07,4115.0,1.0,33.6,clear
+402,Mustard,Buland Shahr,2016-11-07,4050.0,0.8,25.2,clear
+403,Mustard,Buland Shahr,2016-12-07,4040.0,1.0,14.2,clear
+404,Mustard,Divai,2016-12-07,4050.0,9.0,14.2,clear
+405,Mustard,Siyana,2016-12-07,4050.0,1.5,14.2,clear
+406,Mustard,Buland Shahr,2016-07-13,4050.0,0.0,31.6,clear
+407,Mustard,Siyana,2016-07-13,4060.0,1.0,31.6,clear
+408,Mustard,Buland Shahr,2016-07-14,4060.0,1.2,31.8,clear
+409,Mustard,Divai,2016-07-14,4100.0,15.0,31.8,clear
+410,Mustard,Gulavati,2016-07-14,4150.0,1.0,31.8,clear
+411,Mustard,Siyana,2016-07-14,4070.0,1.0,31.8,clear
+412,Mustard,Buland Shahr,2016-07-15,4100.0,0.0,32.2,clear
+413,Mustard,Divai,2016-07-15,4100.0,10.0,32.2,clear
+414,Mustard,Gulavati,2016-07-15,4100.0,0.0,32.2,clear
+415,Mustard,Siyana,2016-07-15,4070.0,1.0,32.2,clear
+416,Mustard,Buland Shahr,2016-07-16,4120.0,0.0,29.2,clear
+417,Mustard,Divai,2016-07-16,4100.0,3.5,29.2,clear
+418,Mustard,Gulavati,2016-07-16,4150.0,0.8,29.2,clear
+419,Mustard,Siyana,2016-07-16,4100.0,1.5,29.2,clear
+420,Mustard,Buland Shahr,2016-07-18,4100.0,0.0,26.4,clear
+421,Mustard,Divai,2016-07-18,4150.0,4.0,26.4,clear
+422,Mustard,Gulavati,2016-07-18,4150.0,0.0,26.4,clear
+423,Mustard,Buland Shahr,2016-07-19,4150.0,0.8,34.0,clear
+424,Mustard,Siyana,2016-07-19,4090.0,1.0,34.0,clear
+425,Mustard,Buland Shahr,2016-07-21,4120.0,1.0,35.8,clear
+426,Mustard,Divai,2016-07-21,4100.0,3.0,35.8,clear
+427,Mustard,Gulavati,2016-07-21,4150.0,0.5,35.8,clear
+428,Mustard,Siyana,2016-07-21,4100.0,0.0,35.8,clear
+429,Mustard,Buland Shahr,2016-07-22,4100.0,0.0,33.0,clear
+430,Mustard,Divai,2016-07-22,4100.0,2.0,33.0,clear
+431,Mustard,Gulavati,2016-07-22,4000.0,0.0,33.0,clear
+432,Mustard,Siyana,2016-07-22,4110.0,1.0,33.0,clear
+433,Mustard,Buland Shahr,2016-07-23,4150.0,2.0,32.0,clear
+434,Mustard,Divai,2016-07-23,4100.0,14.0,32.0,clear
+435,Mustard,Gulavati,2016-07-23,4100.0,0.8,32.0,clear
+436,Mustard,Siyana,2016-07-23,4100.0,0.0,32.0,clear
+437,Mustard,Buland Shahr,2016-07-25,4140.0,3.0,32.2,clear
+438,Mustard,Divai,2016-07-25,4200.0,4.0,32.2,clear
+439,Mustard,Gulavati,2016-07-25,4150.0,0.0,32.2,clear
+440,Mustard,Buland Shahr,2016-07-26,4150.0,4.0,31.8,clear
+441,Mustard,Divai,2016-07-26,4125.0,7.0,31.8,clear
+442,Mustard,Siyana,2016-07-26,4120.0,1.0,31.8,clear
+443,Mustard,Buland Shahr,2016-07-27,4150.0,2.5,29.2,clear
+444,Mustard,Gulavati,2016-07-27,4150.0,0.8,29.2,clear
+445,Mustard,Siyana,2016-07-27,4120.0,0.0,29.2,clear
+446,Mustard,Buland Shahr,2016-07-28,4150.0,2.8,30.2,clear
+447,Mustard,Divai,2016-07-28,4150.0,4.0,30.2,clear
+448,Mustard,Siyana,2016-07-28,4125.0,1.0,30.2,clear
+449,Mustard,Buland Shahr,2016-01-08,4140.0,2.0,21.0,clear
+450,Mustard,Buland Shahr,2016-02-08,4200.0,1.5,20.0,clear
+451,Mustard,Divai,2016-02-08,4200.0,2.0,20.0,clear
+452,Mustard,Siyana,2016-02-08,4160.0,0.0,20.0,clear
+453,Mustard,Buland Shahr,2016-03-08,4200.0,0.0,27.6,clear
+454,Mustard,Siyana,2016-03-08,4180.0,0.0,27.6,clear
+455,Mustard,Buland Shahr,2016-04-08,4200.0,0.0,35.4,clear
+456,Mustard,Divai,2016-04-08,4175.0,3.0,35.4,clear
+457,Mustard,Buland Shahr,2016-05-08,4200.0,0.0,37.2,clear
+458,Mustard,Divai,2016-05-08,4175.0,7.0,37.2,clear
+459,Mustard,Gulavati,2016-05-08,4100.0,0.5,37.2,clear
+460,Mustard,Siyana,2016-05-08,4180.0,1.0,37.2,clear
+461,Mustard,Buland Shahr,2016-06-08,4220.0,0.0,37.8,clear
+462,Mustard,Divai,2016-06-08,4175.0,4.0,37.8,clear
+463,Mustard,Siyana,2016-06-08,4175.0,0.0,37.8,clear
+464,Mustard,Buland Shahr,2016-08-08,4210.0,0.0,32.8,clear
+465,Mustard,Divai,2016-08-08,4150.0,5.0,32.8,clear
+466,Mustard,Buland Shahr,2016-09-08,4215.0,0.0,33.8,clear
+467,Mustard,Divai,2016-09-08,4150.0,2.5,33.8,clear
+468,Mustard,Siyana,2016-09-08,4200.0,1.0,33.8,clear
+469,Mustard,Buland Shahr,2016-10-08,4200.0,0.0,33.2,clear
+470,Mustard,Siyana,2016-10-08,4200.0,1.0,33.2,clear
+471,Mustard,Buland Shahr,2016-11-08,4200.0,0.0,27.0,clear
+472,Mustard,Divai,2016-11-08,4150.0,6.0,27.0,clear
+473,Mustard,Siyana,2016-11-08,4210.0,0.0,27.0,clear
+474,Mustard,Buland Shahr,2016-12-08,4200.0,0.0,17.8,clear
+475,Mustard,Divai,2016-12-08,4150.0,7.0,17.8,clear
+476,Mustard,Siyana,2016-12-08,4180.0,0.0,17.8,clear
+477,Mustard,Buland Shahr,2016-08-13,4200.0,1.0,30.4,clear
+478,Mustard,Divai,2016-08-13,4150.0,3.0,30.4,clear
+479,Mustard,Siyana,2016-08-13,4175.0,0.0,30.4,clear
+480,Mustard,Buland Shahr,2016-08-16,4220.0,0.8,33.6,clear
+481,Mustard,Divai,2016-08-16,4200.0,9.0,33.6,clear
+482,Mustard,Siyana,2016-08-16,4200.0,1.0,33.6,clear
+483,Mustard,Buland Shahr,2016-08-20,4150.0,0.0,32.6,clear
+484,Mustard,Divai,2016-08-20,4200.0,4.0,32.6,clear
+485,Mustard,Siyana,2016-08-20,4140.0,1.0,32.6,clear
+486,Mustard,Buland Shahr,2016-08-22,4140.0,1.0,32.0,clear
+487,Mustard,Buland Shahr,2016-08-23,4130.0,0.0,31.2,clear
+488,Mustard,Siyana,2016-08-23,4140.0,1.0,31.2,clear
+489,Mustard,Buland Shahr,2016-08-24,4160.0,0.0,31.2,clear
+490,Mustard,Gulavati,2016-08-24,4150.0,0.0,31.2,clear
+491,Mustard,Siyana,2016-08-24,4130.0,0.0,31.2,clear
+492,Mustard,Buland Shahr,2016-08-25,4165.0,0.0,33.2,clear
+493,Mustard,Divai,2016-08-25,4150.0,5.0,33.2,clear
+494,Mustard,Siyana,2016-08-25,4125.0,0.0,33.2,clear
+495,Mustard,Buland Shahr,2016-08-26,4165.0,0.0,29.6,clear
+496,Mustard,Divai,2016-08-26,4150.0,3.5,29.6,clear
+497,Mustard,Siyana,2016-08-26,4125.0,0.0,29.6,clear
+498,Mustard,Buland Shahr,2016-08-29,4150.0,0.8,33.2,clear
+499,Mustard,Divai,2016-08-29,4100.0,4.0,33.2,clear
+500,Mustard,Buland Shahr,2016-08-30,4200.0,0.0,29.4,clear
+501,Mustard,Divai,2016-08-30,4100.0,10.0,29.4,clear
+502,Mustard,Buland Shahr,2016-08-31,4220.0,0.0,30.2,clear
+503,Mustard,Buland Shahr,2016-01-09,4200.0,1.0,17.8,clear
+504,Mustard,Buland Shahr,2016-03-09,4170.0,0.0,27.4,clear
+505,Mustard,Buland Shahr,2016-05-09,4170.0,0.0,33.0,clear
+506,Mustard,Buland Shahr,2016-06-09,4170.0,0.0,34.2,clear
+507,Mustard,Buland Shahr,2016-07-09,4180.0,0.0,31.8,clear
+508,Mustard,Buland Shahr,2016-08-09,4160.0,0.0,32.0,clear
+509,Mustard,Buland Shahr,2016-09-09,4185.0,1.0,34.2,clear
+510,Mustard,Buland Shahr,2016-09-15,4175.0,0.0,32.6,clear
+511,Mustard,Buland Shahr,2016-09-16,4180.0,1.0,34.2,clear
+512,Mustard,Buland Shahr,2016-09-17,4160.0,0.0,33.4,clear
+513,Mustard,Buland Shahr,2016-09-19,4150.0,0.0,33.4,clear
+514,Mustard,Buland Shahr,2016-09-22,4180.0,0.0,28.2,clear
+515,Mustard,Buland Shahr,2016-09-23,4180.0,0.0,32.4,clear
+516,Mustard,Siyana,2016-09-23,4160.0,0.0,32.4,clear
+517,Mustard,Buland Shahr,2016-09-24,4100.0,2.0,31.8,clear
+518,Mustard,Siyana,2016-09-24,4150.0,1.0,31.8,clear
+519,Mustard,Buland Shahr,2016-09-26,4100.0,2.5,32.8,clear
+520,Mustard,Gulavati,2016-09-26,4200.0,0.0,32.8,clear
+521,Mustard,Buland Shahr,2016-09-27,4110.0,1.2,32.8,clear
+522,Mustard,Buland Shahr,2016-09-28,4100.0,0.0,29.0,clear
+523,Mustard,Buland Shahr,2016-09-29,4120.0,0.8,28.2,clear
+524,Mustard,Gulavati,2016-09-29,4160.0,0.5,28.2,clear
+525,Mustard,Buland Shahr,2016-09-30,4100.0,1.0,32.0,clear
+526,Mustard,Gulavati,2016-09-30,4150.0,0.5,32.0,clear
+527,Mustard,Buland Shahr,2016-01-10,4100.0,1.0,20.0,clear
+528,Mustard,Buland Shahr,2016-05-10,4060.0,2.5,34.0,clear
+529,Mustard,Buland Shahr,2016-06-10,4050.0,2.8,39.6,clear
+530,Mustard,Buland Shahr,2016-10-10,4040.0,2.0,32.8,clear
+531,Mustard,Gulavati,2016-10-10,4100.0,0.0,32.8,clear
+532,Mustard,Buland Shahr,2016-11-10,4060.0,0.0,25.2,clear
+533,Mustard,Buland Shahr,2016-12-10,4050.0,0.0,16.8,clear
+534,Mustard,Buland Shahr,2016-10-13,4050.0,0.0,32.2,clear
+535,Mustard,Buland Shahr,2016-10-14,3900.0,1.5,32.0,clear
+536,Mustard,Buland Shahr,2016-10-15,3870.0,1.5,31.8,clear
+537,Mustard,Gulavati,2016-10-15,4120.0,0.8,31.8,clear
+538,Mustard,Buland Shahr,2016-10-17,3800.0,0.8,23.0,clear
+539,Mustard,Gulavati,2016-10-17,3900.0,0.0,23.0,clear
+540,Mustard,Jahangirabad,2016-10-17,4075.0,1.0,23.0,clear
+541,Mustard,Buland Shahr,2016-10-18,3820.0,1.0,29.8,clear
+542,Mustard,Jahangirabad,2016-10-18,4070.0,0.0,29.8,clear
+543,Mustard,Buland Shahr,2016-10-19,3800.0,1.0,30.8,clear
+544,Mustard,Jahangirabad,2016-10-19,4075.0,0.0,30.8,clear
+545,Mustard,Buland Shahr,2016-10-21,3800.0,0.0,30.8,clear
+546,Mustard,Gulavati,2016-10-21,4050.0,0.5,30.8,clear
+547,Mustard,Buland Shahr,2016-10-22,3780.0,0.0,30.6,clear
+548,Mustard,Jahangirabad,2016-10-22,3980.0,1.0,30.6,clear
+549,Mustard,Buland Shahr,2016-10-24,8400.0,1.6,30.0,clear
+550,Mustard,Jahangirabad,2016-10-24,3990.0,0.0,30.0,clear
+551,Mustard,Buland Shahr,2016-10-25,3760.0,0.8,30.2,clear
+552,Mustard,Jahangirabad,2016-10-25,4000.0,0.0,30.2,clear
+553,Mustard,Buland Shahr,2016-10-26,3760.0,0.5,30.0,clear
+554,Mustard,Jahangirabad,2016-10-26,4025.0,0.0,30.0,clear
+555,Mustard,Buland Shahr,2016-10-29,3750.0,1.0,28.6,clear
+556,Mustard,Sikarpur,2016-10-29,3925.0,30.0,28.6,clear
+557,Mustard,Buland Shahr,2016-02-11,3770.0,0.0,13.8,clear
+558,Mustard,Jahangirabad,2016-02-11,4000.0,0.0,13.8,clear
+559,Mustard,Buland Shahr,2016-03-11,3780.0,0.0,31.2,clear
+560,Mustard,Jahangirabad,2016-03-11,3980.0,0.0,31.2,clear
+561,Mustard,Buland Shahr,2016-04-11,3800.0,0.0,34.4,clear
+562,Mustard,Buland Shahr,2016-05-11,3800.0,0.0,33.8,clear
+563,Mustard,Jahangirabad,2016-05-11,3980.0,1.0,33.8,clear
+564,Mustard,Buland Shahr,2016-07-11,3850.0,0.0,30.4,clear
+565,Mustard,Jahangirabad,2016-07-11,3990.0,0.0,30.4,clear
+566,Mustard,Buland Shahr,2016-08-11,3860.0,0.0,26.4,clear
+567,Mustard,Jahangirabad,2016-08-11,3960.0,0.0,26.4,clear
+568,Mustard,Buland Shahr,2016-09-11,3860.0,0.0,34.6,clear
+569,Mustard,Gulavati,2016-09-11,4050.0,0.0,34.6,clear
+570,Mustard,Jahangirabad,2016-09-11,3980.0,1.0,34.6,clear
+571,Mustard,Buland Shahr,2016-11-17,3860.0,0.0,23.0,clear
+572,Mustard,Jahangirabad,2016-11-17,3990.0,0.0,23.0,clear
+573,Mustard,Buland Shahr,2016-11-18,3850.0,0.0,22.8,clear
+574,Mustard,Gulavati,2016-11-18,4020.0,0.5,22.8,clear
+575,Mustard,Buland Shahr,2016-11-26,3750.0,0.4,25.0,clear
+576,Mustard,Jahangirabad,2016-11-26,3970.0,0.0,25.0,clear
+577,Mustard,Buland Shahr,2016-11-28,3700.0,1.0,24.6,clear
+578,Mustard,Jahangirabad,2016-11-28,3985.0,0.0,24.6,clear
+579,Mustard,Sikarpur,2016-11-28,3980.0,40.0,24.6,clear
+580,Mustard,Buland Shahr,2016-11-30,3750.0,1.0,23.6,clear
+581,Mustard,Jahangirabad,2016-11-30,3990.0,0.0,23.6,clear
+582,Mustard,Buland Shahr,2016-01-12,3840.0,0.0,21.2,clear
+583,Mustard,Jahangirabad,2016-01-12,3900.0,0.0,21.2,clear
+584,Mustard,Buland Shahr,2016-05-12,3830.0,0.0,39.0,clear
+585,Mustard,Jahangirabad,2016-05-12,3970.0,0.0,39.0,clear
+586,Mustard,Buland Shahr,2016-06-12,3870.0,0.0,38.6,clear
+587,Mustard,Jahangirabad,2016-06-12,3970.0,0.0,38.6,clear
+588,Mustard,Buland Shahr,2016-09-12,3870.0,0.0,33.4,clear
+589,Mustard,Buland Shahr,2016-12-12,3870.0,0.0,21.2,clear
+590,Mustard,Jahangirabad,2016-12-12,3960.0,0.0,21.2,clear
+591,Mustard,Buland Shahr,2016-12-14,3860.0,0.0,21.2,clear
+592,Mustard,Jahangirabad,2016-12-14,3860.0,1.0,21.2,clear
+593,Mustard,Buland Shahr,2016-12-23,3710.0,0.0,21.6,clear
+594,Mustard,Buland Shahr,2016-12-24,3700.0,0.0,19.8,clear
+595,Mustard,Jahangirabad,2016-12-24,3700.0,1.0,19.8,clear
+596,Mustard,Buland Shahr,2016-12-26,3710.0,1.0,20.4,clear
+597,Mustard,Jahangirabad,2016-12-26,3725.0,1.2,20.4,clear
+598,Mustard,Buland Shahr,2016-12-27,3700.0,0.5,20.4,clear
+599,Mustard,Jahangirabad,2016-12-27,3700.0,0.0,20.4,clear
+600,Mustard,Buland Shahr,2016-12-28,3680.0,0.8,11.4,clear
+601,Mustard,Jahangirabad,2016-12-28,3700.0,1.2,11.4,clear
+602,Mustard,Buland Shahr,2016-12-29,3680.0,0.0,13.8,clear
+603,Mustard,Gulavati,2016-12-29,3900.0,0.0,13.8,clear
+604,Mustard,Divai,2016-03-04,3625.0,18.0,32.2,clear
+605,Mustard,Divai,2016-04-17,3850.0,11.0,39.8,clear
+606,Mustard,Gulavati,2016-04-17,3670.0,9.0,39.8,clear
+607,Mustard,Siyana,2016-04-17,3680.0,1.5,39.8,clear
+608,Mustard,Divai,2016-04-24,3950.0,8.0,36.4,clear
+609,Mustard,Gulavati,2016-04-24,3700.0,8.0,36.4,clear
+610,Mustard,Divai,2016-04-26,3950.0,14.0,38.8,clear
+611,Mustard,Siyana,2016-04-26,3850.0,1.5,38.8,clear
+612,Mustard,Divai,2016-01-05,3900.0,15.0,21.2,clear
+613,Mustard,Gulavati,2016-01-05,3880.0,0.0,21.2,clear
+614,Mustard,Siyana,2016-01-05,3915.0,1.0,21.2,clear
+615,Mustard,Divai,2016-02-05,3900.0,21.0,10.8,clear
+616,Mustard,Gulavati,2016-02-05,3950.0,5.0,10.8,clear
+617,Mustard,Divai,2016-05-22,3850.0,11.0,39.2,clear
+618,Mustard,Siyana,2016-05-22,3800.0,0.0,39.2,clear
+619,Mustard,Divai,2016-05-29,3800.0,20.0,31.6,clear
+620,Mustard,Gulavati,2016-05-29,3850.0,1.5,31.6,clear
+621,Mustard,Siyana,2016-05-29,3850.0,0.0,31.6,clear
+622,Mustard,Divai,2016-05-06,3850.0,8.0,34.4,clear
+623,Mustard,Gulavati,2016-05-06,3840.0,1.2,34.4,clear
+624,Mustard,Siyana,2016-05-06,3830.0,1.0,34.4,clear
+625,Mustard,Divai,2016-12-06,3950.0,4.5,15.6,clear
+626,Mustard,Siyana,2016-12-06,3865.0,0.0,15.6,clear
+627,Mustard,Divai,2016-06-17,4050.0,8.0,26.4,clear
+628,Mustard,Siyana,2016-06-17,3950.0,1.0,26.4,clear
+629,Mustard,Divai,2016-06-18,4050.0,6.0,37.4,clear
+630,Mustard,Siyana,2016-06-18,3960.0,1.5,37.4,clear
+631,Mustard,Divai,2016-06-26,4050.0,17.5,36.6,clear
+632,Mustard,Siyana,2016-06-26,4020.0,1.0,36.6,clear
+633,Mustard,Divai,2016-01-07,4050.0,25.0,21.2,clear
+634,Mustard,Gulavati,2016-01-07,4200.0,0.0,21.2,clear
+635,Mustard,Siyana,2016-01-07,3980.0,1.2,21.2,clear
+636,Mustard,Divai,2016-03-07,4100.0,7.0,28.4,clear
+637,Mustard,Siyana,2016-03-07,4100.0,0.0,28.4,clear
+638,Mustard,Divai,2016-07-07,4150.0,27.5,34.6,clear
+639,Mustard,Siyana,2016-07-07,4100.0,0.0,34.6,clear
+640,Mustard,Divai,2016-10-07,4050.0,5.0,32.6,clear
+641,Mustard,Siyana,2016-10-07,4080.0,0.0,32.6,clear
+642,Mustard,Divai,2016-07-17,4100.0,4.0,25.8,clear
+643,Mustard,Siyana,2016-07-17,4100.0,1.0,25.8,clear
+644,Mustard,Divai,2016-07-24,4100.0,21.0,30.4,clear
+645,Mustard,Siyana,2016-07-24,4110.0,0.0,30.4,clear
+646,Mustard,Divai,2016-07-31,4150.0,13.0,27.4,clear
+647,Mustard,Siyana,2016-07-31,4120.0,0.0,27.4,clear
+648,Mustard,Divai,2016-07-08,4150.0,2.5,31.6,clear
+649,Mustard,Gulavati,2016-07-08,4100.0,0.5,31.6,clear
+650,Mustard,Siyana,2016-07-08,4190.0,0.0,31.6,clear
+651,Mustard,Divai,2016-08-14,4175.0,2.5,28.6,clear
+652,Mustard,Siyana,2016-08-14,4170.0,1.0,28.6,clear
+653,Mustard,Divai,2016-08-15,4175.0,8.0,33.8,clear
+654,Mustard,Divai,2016-08-21,4175.0,2.0,32.4,clear
+655,Mustard,Siyana,2016-08-21,4150.0,0.0,32.4,clear
+656,Mustard,Divai,2016-08-27,4150.0,3.0,33.6,clear
+657,Mustard,Siyana,2016-08-27,4160.0,1.0,33.6,clear
+658,Mustard,Divai,2016-08-28,4100.0,14.0,33.4,clear
+659,Mustard,Gulavati,2016-02-14,3680.0,0.5,22.0,clear
+660,Mustard,Siyana,2016-02-14,3600.0,1.0,22.0,clear
+661,Mustard,Gulavati,2016-03-13,3360.0,6.0,28.6,clear
+662,Mustard,Gulavati,2016-03-19,3450.0,6.0,32.8,clear
+663,Mustard,Gulavati,2016-03-21,3350.0,6.0,31.8,clear
+664,Mustard,Gulavati,2016-03-27,3370.0,8.0,32.0,clear
+665,Mustard,Siyana,2016-03-27,3410.0,3.0,32.0,clear
+666,Mustard,Gulavati,2016-10-04,3630.0,10.0,33.6,clear
+667,Mustard,Siyana,2016-10-04,3700.0,1.5,33.6,clear
+668,Mustard,Gulavati,2016-08-05,3950.0,10.0,35.2,clear
+669,Mustard,Siyana,2016-08-05,3925.0,1.0,35.2,clear
+670,Mustard,Gulavati,2016-05-15,3950.0,0.0,41.8,clear
+671,Mustard,Siyana,2016-05-15,3760.0,1.0,41.8,clear
+672,Mustard,Gulavati,2016-07-29,4100.0,0.8,30.6,clear
+673,Mustard,Sikarpur,2016-07-29,4150.0,57.0,30.6,clear
+674,Mustard,Gulavati,2016-08-18,4100.0,0.5,28.4,clear
+675,Mustard,Siyana,2016-08-18,4180.0,1.0,28.4,clear
+676,Mustard,Gulavati,2016-08-19,4200.0,0.0,33.0,clear
+677,Mustard,Gulavati,2016-09-25,4180.0,0.0,33.6,clear
+678,Mustard,Siyana,2016-09-25,4165.0,0.0,33.6,clear
+679,Mustard,Gulavati,2016-08-10,4150.0,1.0,28.6,clear
+680,Mustard,Gulavati,2016-10-20,4000.0,0.0,31.8,clear
+681,Mustard,Jahangirabad,2016-10-20,4050.0,0.0,31.8,clear
+682,Mustard,Gulavati,2016-11-11,4050.0,0.8,25.2,clear
+683,Mustard,Jahangirabad,2016-10-16,4075.0,0.0,22.8,clear
+684,Mustard,Jahangirabad,2016-10-23,3985.0,0.0,30.2,clear
+685,Mustard,Jahangirabad,2016-01-11,4030.0,0.0,21.0,clear
+686,Mustard,Jahangirabad,2016-06-11,3990.0,0.0,38.4,clear
+687,Mustard,Jahangirabad,2016-11-15,3970.0,0.0,25.2,clear
+688,Mustard,Jahangirabad,2016-11-16,3980.0,0.0,16.8,clear
+689,Mustard,Jahangirabad,2016-11-27,3975.0,0.0,24.8,clear
+690,Mustard,Jahangirabad,2016-03-12,3990.0,0.0,29.6,clear
+691,Mustard,Jahangirabad,2016-04-12,3985.0,0.0,34.2,clear
+692,Mustard,Jahangirabad,2016-07-12,3925.0,0.0,31.8,clear
+693,Mustard,Jahangirabad,2016-10-12,3960.0,0.0,32.2,clear
+694,Mustard,Jahangirabad,2016-11-12,3975.0,0.0,25.8,clear
+695,Mustard,Jahangirabad,2016-12-13,3950.0,0.0,21.6,clear
+696,Mustard,Jahangirabad,2016-12-18,3840.0,1.2,10.8,clear
+697,Mustard,Jahangirabad,2016-12-19,3750.0,1.2,10.8,clear
+698,Mustard,Jahangirabad,2016-12-21,3750.0,0.0,21.4,clear
+699,Mustard,Jahangirabad,2016-12-25,3700.0,0.0,18.2,clear
+700,Mustard,Siyana,2016-01-01,4100.0,1.0,19.4,clear
+701,Mustard,Siyana,2016-03-01,4160.0,0.0,27.2,clear
+702,Mustard,Siyana,2016-06-01,4165.0,0.0,37.8,clear
+703,Mustard,Siyana,2016-09-01,4165.0,0.0,27.4,clear
+704,Mustard,Siyana,2016-10-01,4190.0,0.0,33.8,clear
+705,Mustard,Siyana,2016-01-14,4150.0,1.2,17.0,clear
+706,Mustard,Siyana,2016-01-16,4130.0,1.0,14.0,clear
+707,Mustard,Siyana,2016-01-19,4150.0,1.2,10.0,clear
+708,Mustard,Siyana,2016-01-24,4175.0,0.0,16.4,clear
+709,Mustard,Siyana,2016-01-26,4180.0,0.0,15.8,clear
+710,Mustard,Siyana,2016-01-31,4000.0,0.0,24.0,clear
+711,Mustard,Siyana,2016-04-02,3700.0,2.0,37.2,clear
+712,Mustard,Siyana,2016-07-02,3715.0,2.0,25.4,clear
+713,Mustard,Siyana,2016-02-21,3510.0,1.0,24.2,clear
+714,Mustard,Siyana,2016-03-20,3350.0,5.0,32.4,clear
+715,Mustard,Siyana,2016-06-19,3960.0,0.0,35.4,clear
+716,Mustard,Siyana,2016-08-17,4210.0,0.0,27.0,clear
+717,Mustard,Siyana,2016-11-25,3990.0,3.5,25.0,clear
+718,Mustard,Anoop Shahar,2017-01-30,3500.0,65.0,19.0,clear
+719,Mustard,Buland Shahr,2017-01-30,3540.0,0.6,19.0,clear
+720,Mustard,Gulavati,2017-01-30,3560.0,0.5,19.0,clear
+721,Mustard,Jahangirabad,2017-01-30,3450.0,3.5,19.0,clear
+722,Mustard,Anoop Shahar,2017-05-30,3220.0,100.0,33.8,clear
+723,Mustard,Buland Shahr,2017-05-30,3290.0,3.0,33.8,clear
+724,Mustard,Divai,2017-05-30,3200.0,5.0,33.8,clear
+725,Mustard,Buland Shahr,2017-02-01,3640.0,0.8,21.6,clear
+726,Mustard,Jahangirabad,2017-02-01,3710.0,1.0,21.6,clear
+727,Mustard,Buland Shahr,2017-04-01,3610.0,0.8,29.4,clear
+728,Mustard,Gulavati,2017-04-01,3600.0,0.5,29.4,clear
+729,Mustard,Jahangirabad,2017-04-01,3700.0,1.0,29.4,clear
+730,Mustard,Siyana,2017-04-01,3710.0,0.0,29.4,clear
+731,Mustard,Buland Shahr,2017-05-01,3630.0,1.2,29.2,clear
+732,Mustard,Buland Shahr,2017-06-01,3640.0,1.5,34.8,clear
+733,Mustard,Siyana,2017-06-01,3720.0,0.0,34.8,clear
+734,Mustard,Buland Shahr,2017-07-01,3600.0,0.0,30.0,clear
+735,Mustard,Jahangirabad,2017-07-01,3710.0,0.0,30.0,clear
+736,Mustard,Siyana,2017-07-01,3725.0,0.0,30.0,clear
+737,Mustard,Buland Shahr,2017-09-01,3750.0,1.8,29.0,clear
+738,Mustard,Jahangirabad,2017-09-01,3720.0,0.0,29.0,clear
+739,Mustard,Buland Shahr,2017-10-01,3760.0,1.0,32.8,clear
+740,Mustard,Jahangirabad,2017-10-01,3740.0,0.0,32.8,clear
+741,Mustard,Siyana,2017-10-01,3730.0,0.0,32.8,clear
+742,Mustard,Buland Shahr,2017-11-01,3600.0,1.5,28.8,clear
+743,Mustard,Gulavati,2017-11-01,3650.0,0.0,28.8,clear
+744,Mustard,Jahangirabad,2017-11-01,3720.0,0.0,28.8,clear
+745,Mustard,Siyana,2017-11-01,3725.0,1.5,28.8,clear
+746,Mustard,Buland Shahr,2017-12-01,3600.0,2.0,12.8,clear
+747,Mustard,Gulavati,2017-12-01,3600.0,1.0,12.8,clear
+748,Mustard,Jahangirabad,2017-12-01,3715.0,1.2,12.8,clear
+749,Mustard,Siyana,2017-12-01,3720.0,1.0,12.8,clear
+750,Mustard,Buland Shahr,2017-01-13,3600.0,2.2,15.2,clear
+751,Mustard,Gulavati,2017-01-13,3600.0,0.0,15.2,clear
+752,Mustard,Buland Shahr,2017-01-18,3610.0,0.8,17.0,clear
+753,Mustard,Gulavati,2017-01-18,3580.0,1.0,17.0,clear
+754,Mustard,Jahangirabad,2017-01-18,3300.0,2.0,17.0,clear
+755,Mustard,Siyana,2017-01-18,3400.0,1.0,17.0,clear
+756,Mustard,Buland Shahr,2017-01-19,3620.0,0.8,20.0,clear
+757,Mustard,Siyana,2017-01-19,3350.0,1.2,20.0,clear
+758,Mustard,Buland Shahr,2017-01-20,3600.0,1.0,19.2,clear
+759,Mustard,Siyana,2017-01-20,3360.0,1.5,19.2,clear
+760,Mustard,Buland Shahr,2017-01-21,3610.0,1.5,16.0,clear
+761,Mustard,Gulavati,2017-01-21,3620.0,0.0,16.0,clear
+762,Mustard,Siyana,2017-01-21,3360.0,1.5,16.0,clear
+763,Mustard,Buland Shahr,2017-01-23,3620.0,1.0,21.0,clear
+764,Mustard,Gulavati,2017-01-23,3600.0,0.0,21.0,clear
+765,Mustard,Jahangirabad,2017-01-23,3200.0,2.0,21.0,clear
+766,Mustard,Buland Shahr,2017-01-24,3500.0,1.8,22.4,clear
+767,Mustard,Jahangirabad,2017-01-24,3215.0,3.0,22.4,clear
+768,Mustard,Siyana,2017-01-24,3350.0,1.0,22.4,clear
+769,Mustard,Buland Shahr,2017-01-25,3510.0,1.2,22.2,clear
+770,Mustard,Jahangirabad,2017-01-25,3300.0,2.5,22.2,clear
+771,Mustard,Buland Shahr,2017-01-27,3500.0,0.0,18.0,clear
+772,Mustard,Siyana,2017-01-27,3550.0,1.0,18.0,clear
+773,Mustard,Buland Shahr,2017-01-31,3500.0,1.0,22.4,clear
+774,Mustard,Jahangirabad,2017-01-31,3460.0,3.0,22.4,clear
+775,Mustard,Buland Shahr,2017-01-02,3500.0,1.2,16.8,clear
+776,Mustard,Jahangirabad,2017-01-02,3480.0,3.0,16.8,clear
+777,Mustard,Buland Shahr,2017-02-02,3515.0,1.8,21.4,clear
+778,Mustard,Gulavati,2017-02-02,3540.0,0.0,21.4,clear
+779,Mustard,Jahangirabad,2017-02-02,3485.0,2.5,21.4,clear
+780,Mustard,Buland Shahr,2017-03-02,3500.0,2.0,25.4,clear
+781,Mustard,Gulavati,2017-03-02,3560.0,0.5,25.4,clear
+782,Mustard,Buland Shahr,2017-04-02,3550.0,2.5,37.6,clear
+783,Mustard,Gulavati,2017-04-02,3550.0,0.0,37.6,clear
+784,Mustard,Jahangirabad,2017-04-02,3250.0,2.5,37.6,clear
+785,Mustard,Buland Shahr,2017-06-02,3510.0,1.0,37.2,clear
+786,Mustard,Jahangirabad,2017-06-02,3250.0,2.5,37.2,clear
+787,Mustard,Buland Shahr,2017-07-02,3350.0,2.5,31.0,clear
+788,Mustard,Jahangirabad,2017-07-02,3300.0,20.0,31.0,clear
+789,Mustard,Buland Shahr,2017-08-02,3300.0,2.5,31.0,clear
+790,Mustard,Jahangirabad,2017-08-02,3350.0,0.0,31.0,clear
+791,Mustard,Buland Shahr,2017-09-02,3310.0,3.0,29.8,clear
+792,Mustard,Jahangirabad,2017-09-02,3300.0,2.0,29.8,clear
+793,Mustard,Buland Shahr,2017-10-02,3300.0,1.5,32.6,clear
+794,Mustard,Buland Shahr,2017-02-14,3300.0,0.5,23.4,clear
+795,Mustard,Jahangirabad,2017-02-14,3290.0,4.0,23.4,clear
+796,Mustard,Buland Shahr,2017-02-15,3280.0,1.4,24.0,clear
+797,Mustard,Gulavati,2017-02-15,3350.0,0.5,24.0,clear
+798,Mustard,Jahangirabad,2017-02-15,3280.0,4.5,24.0,clear
+799,Mustard,Buland Shahr,2017-02-16,3260.0,1.0,24.0,clear
+800,Mustard,Jahangirabad,2017-02-16,3275.0,4.0,24.0,clear
+801,Mustard,Buland Shahr,2017-02-17,3250.0,1.2,23.2,clear
+802,Mustard,Buland Shahr,2017-02-18,3200.0,3.0,27.0,clear
+803,Mustard,Gulavati,2017-02-18,3350.0,1.0,27.0,clear
+804,Mustard,Jahangirabad,2017-02-18,3300.0,5.0,27.0,clear
+805,Mustard,Buland Shahr,2017-02-21,3350.0,2.5,24.6,clear
+806,Mustard,Jahangirabad,2017-02-21,3350.0,6.5,24.6,clear
+807,Mustard,Buland Shahr,2017-02-22,3360.0,3.0,24.8,clear
+808,Mustard,Gulavati,2017-02-22,3320.0,1.0,24.8,clear
+809,Mustard,Jahangirabad,2017-02-22,3350.0,70.0,24.8,clear
+810,Mustard,Buland Shahr,2017-02-23,3370.0,4.0,23.0,clear
+811,Mustard,Jahangirabad,2017-02-23,3355.0,6.0,23.0,clear
+812,Mustard,Buland Shahr,2017-02-24,3380.0,5.0,22.8,clear
+813,Mustard,Siyana,2017-02-24,3350.0,35.0,22.8,clear
+814,Mustard,Buland Shahr,2017-02-25,3380.0,4.5,24.6,clear
+815,Mustard,Gulavati,2017-02-25,3340.0,1.0,24.6,clear
+816,Mustard,Jahangirabad,2017-02-25,3350.0,5.0,24.6,clear
+817,Mustard,Buland Shahr,2017-02-27,3350.0,5.0,27.0,clear
+818,Mustard,Jahangirabad,2017-02-27,3360.0,10.0,27.0,clear
+819,Mustard,Buland Shahr,2017-02-28,3300.0,4.0,28.4,clear
+820,Mustard,Gulavati,2017-02-28,3150.0,6.0,28.4,clear
+821,Mustard,Jahangirabad,2017-02-28,3360.0,15.0,28.4,clear
+822,Mustard,Buland Shahr,2017-01-03,3315.0,3.5,19.8,clear
+823,Mustard,Jahangirabad,2017-01-03,3350.0,10.0,19.8,clear
+824,Mustard,Siyana,2017-01-03,3350.0,5.0,19.8,clear
+825,Mustard,Buland Shahr,2017-02-03,3300.0,5.0,21.8,clear
+826,Mustard,Jahangirabad,2017-02-03,3355.0,15.0,21.8,clear
+827,Mustard,Siyana,2017-02-03,3355.0,4.0,21.8,clear
+828,Mustard,Buland Shahr,2017-03-03,3315.0,8.0,26.4,clear
+829,Mustard,Siyana,2017-03-03,3340.0,6.0,26.4,clear
+830,Mustard,Buland Shahr,2017-04-03,3340.0,5.0,37.8,clear
+831,Mustard,Gulavati,2017-04-03,3250.0,5.0,37.8,clear
+832,Mustard,Jahangirabad,2017-04-03,3360.0,20.0,37.8,clear
+833,Mustard,Siyana,2017-04-03,3350.0,5.0,37.8,clear
+834,Mustard,Buland Shahr,2017-06-03,3300.0,6.0,40.0,clear
+835,Mustard,Gulavati,2017-06-03,3300.0,6.0,40.0,clear
+836,Mustard,Jahangirabad,2017-06-03,3355.0,14.0,40.0,clear
+837,Mustard,Buland Shahr,2017-07-03,3360.0,6.0,32.0,clear
+838,Mustard,Gulavati,2017-07-03,3300.0,5.0,32.0,clear
+839,Mustard,Jahangirabad,2017-07-03,3350.0,10.0,32.0,clear
+840,Mustard,Siyana,2017-07-03,3360.0,4.5,32.0,clear
+841,Mustard,Buland Shahr,2017-08-03,3350.0,7.5,32.8,clear
+842,Mustard,Gulavati,2017-08-03,3200.0,4.5,32.8,clear
+843,Mustard,Jahangirabad,2017-08-03,3360.0,12.0,32.8,clear
+844,Mustard,Siyana,2017-08-03,3360.0,5.0,32.8,clear
+845,Mustard,Buland Shahr,2017-09-03,3350.0,7.0,33.8,clear
+846,Mustard,Gulavati,2017-09-03,3200.0,6.0,33.8,clear
+847,Mustard,Jahangirabad,2017-09-03,3350.0,15.0,33.8,clear
+848,Mustard,Siyana,2017-09-03,3365.0,6.5,33.8,clear
+849,Mustard,Buland Shahr,2017-03-14,3300.0,3.0,23.8,clear
+850,Mustard,Siyana,2017-03-14,3355.0,4.5,23.8,clear
+851,Mustard,Buland Shahr,2017-03-15,3310.0,8.0,27.0,clear
+852,Mustard,Gulavati,2017-03-15,3180.0,7.0,27.0,clear
+853,Mustard,Jahangirabad,2017-03-15,3355.0,20.0,27.0,clear
+854,Mustard,Siyana,2017-03-15,3350.0,4.0,27.0,clear
+855,Mustard,Buland Shahr,2017-03-16,3250.0,8.0,28.0,clear
+856,Mustard,Gulavati,2017-03-16,3150.0,8.0,28.0,clear
+857,Mustard,Siyana,2017-03-16,3350.0,4.0,28.0,clear
+858,Mustard,Buland Shahr,2017-03-17,3250.0,10.0,28.6,clear
+859,Mustard,Siyana,2017-03-17,3355.0,5.0,28.6,clear
+860,Mustard,Buland Shahr,2017-03-18,3220.0,12.0,27.0,clear
+861,Mustard,Gulavati,2017-03-18,3160.0,10.0,27.0,clear
+862,Mustard,Jahangirabad,2017-03-18,3300.0,30.0,27.0,clear
+863,Mustard,Siyana,2017-03-18,3350.0,4.0,27.0,clear
+864,Mustard,Buland Shahr,2017-03-21,3300.0,14.0,31.8,clear
+865,Mustard,Jahangirabad,2017-03-21,3350.0,20.0,31.8,clear
+866,Mustard,Siyana,2017-03-21,3350.0,4.0,31.8,clear
+867,Mustard,Buland Shahr,2017-03-22,3320.0,13.0,33.8,clear
+868,Mustard,Gulavati,2017-03-22,3280.0,15.0,33.8,clear
+869,Mustard,Jahangirabad,2017-03-22,3360.0,25.0,33.8,clear
+870,Mustard,Siyana,2017-03-22,3300.0,3.5,33.8,clear
+871,Mustard,Buland Shahr,2017-03-23,3350.0,12.0,34.6,clear
+872,Mustard,Gulavati,2017-03-23,3270.0,60.0,34.6,clear
+873,Mustard,Jahangirabad,2017-03-23,3350.0,24.0,34.6,clear
+874,Mustard,Siyana,2017-03-23,3350.0,3.0,34.6,clear
+875,Mustard,Buland Shahr,2017-03-24,3350.0,13.0,34.4,clear
+876,Mustard,Gulavati,2017-03-24,3250.0,20.0,34.4,clear
+877,Mustard,Siyana,2017-03-24,3300.0,2.0,34.4,clear
+878,Mustard,Buland Shahr,2017-03-25,3400.0,13.0,33.4,clear
+879,Mustard,Gulavati,2017-03-25,3280.0,20.0,33.4,clear
+880,Mustard,Jahangirabad,2017-03-25,3360.0,15.0,33.4,clear
+881,Mustard,Siyana,2017-03-25,3300.0,3.5,33.4,clear
+882,Mustard,Buland Shahr,2017-03-27,3450.0,15.0,35.0,clear
+883,Mustard,Jahangirabad,2017-03-27,3350.0,14.0,35.0,clear
+884,Mustard,Buland Shahr,2017-03-28,3400.0,18.0,36.8,clear
+885,Mustard,Jahangirabad,2017-03-28,3365.0,15.0,36.8,clear
+886,Mustard,Buland Shahr,2017-03-29,3370.0,20.0,37.4,clear
+887,Mustard,Gulavati,2017-03-29,3345.0,180.0,37.4,clear
+888,Mustard,Jahangirabad,2017-03-29,3365.0,5.0,37.4,clear
+889,Mustard,Buland Shahr,2017-03-30,3400.0,15.0,38.0,clear
+890,Mustard,Gulavati,2017-03-30,3350.0,150.0,38.0,clear
+891,Mustard,Jahangirabad,2017-03-30,3370.0,6.0,38.0,clear
+892,Mustard,Buland Shahr,2017-03-31,3380.0,18.0,38.2,clear
+893,Mustard,Siyana,2017-03-31,3350.0,1.0,38.2,clear
+894,Mustard,Buland Shahr,2017-03-04,3400.0,16.0,24.8,clear
+895,Mustard,Divai,2017-03-04,3350.0,25.0,24.8,clear
+896,Mustard,Jahangirabad,2017-03-04,3360.0,2.0,24.8,clear
+897,Mustard,Buland Shahr,2017-04-04,3400.0,15.0,28.8,clear
+898,Mustard,Divai,2017-04-04,3350.0,30.0,28.8,clear
+899,Mustard,Jahangirabad,2017-04-04,3360.0,5.0,28.8,clear
+900,Mustard,Buland Shahr,2017-05-04,3350.0,15.0,38.4,clear
+901,Mustard,Buland Shahr,2017-06-04,3350.0,14.0,41.6,clear
+902,Mustard,Divai,2017-06-04,3350.0,35.0,41.6,clear
+903,Mustard,Gulavati,2017-06-04,3400.0,8.0,41.6,clear
+904,Mustard,Jahangirabad,2017-06-04,3360.0,6.0,41.6,clear
+905,Mustard,Buland Shahr,2017-07-04,3350.0,16.0,35.4,clear
+906,Mustard,Divai,2017-07-04,3350.0,25.0,35.4,clear
+907,Mustard,Buland Shahr,2017-08-04,3300.0,15.0,32.6,clear
+908,Mustard,Divai,2017-08-04,3350.0,15.0,32.6,clear
+909,Mustard,Gulavati,2017-08-04,3380.0,10.0,32.6,clear
+910,Mustard,Jahangirabad,2017-08-04,3350.0,5.0,32.6,clear
+911,Mustard,Buland Shahr,2017-10-04,3300.0,15.0,33.2,clear
+912,Mustard,Divai,2017-10-04,3350.0,7.0,33.2,clear
+913,Mustard,Gulavati,2017-10-04,3350.0,8.0,33.2,clear
+914,Mustard,Jahangirabad,2017-10-04,3360.0,5.0,33.2,clear
+915,Mustard,Buland Shahr,2017-11-04,3300.0,17.0,27.0,clear
+916,Mustard,Divai,2017-11-04,3300.0,16.0,27.0,clear
+917,Mustard,Jahangirabad,2017-11-04,3355.0,2.0,27.0,clear
+918,Mustard,Siyana,2017-11-04,3360.0,2.0,27.0,clear
+919,Mustard,Buland Shahr,2017-12-04,3310.0,12.0,18.6,clear
+920,Mustard,Gulavati,2017-12-04,3400.0,10.0,18.6,clear
+921,Mustard,Jahangirabad,2017-12-04,3350.0,4.0,18.6,clear
+922,Mustard,Siyana,2017-12-04,3360.0,1.0,18.6,clear
+923,Mustard,Buland Shahr,2017-04-13,3300.0,13.0,39.2,clear
+924,Mustard,Divai,2017-04-13,3300.0,25.0,39.2,clear
+925,Mustard,Jahangirabad,2017-04-13,3340.0,3.0,39.2,clear
+926,Mustard,Siyana,2017-04-13,3360.0,3.0,39.2,clear
+927,Mustard,Buland Shahr,2017-04-14,3260.0,12.5,39.4,clear
+928,Mustard,Divai,2017-04-14,3350.0,8.5,39.4,clear
+929,Mustard,Siyana,2017-04-14,3355.0,1.0,39.4,clear
+930,Mustard,Buland Shahr,2017-04-15,3280.0,13.0,39.4,clear
+931,Mustard,Divai,2017-04-15,3350.0,8.0,39.4,clear
+932,Mustard,Jahangirabad,2017-04-15,3360.0,3.5,39.4,clear
+933,Mustard,Siyana,2017-04-15,3355.0,0.0,39.4,clear
+934,Mustard,Buland Shahr,2017-04-17,3280.0,12.5,39.8,clear
+935,Mustard,Divai,2017-04-17,3300.0,9.0,39.8,clear
+936,Mustard,Jahangirabad,2017-04-17,3360.0,2.5,39.8,clear
+937,Mustard,Buland Shahr,2017-04-18,3280.0,12.0,40.6,clear
+938,Mustard,Divai,2017-04-18,3350.0,9.0,40.6,clear
+939,Mustard,Jahangirabad,2017-04-18,3370.0,5.0,40.6,clear
+940,Mustard,Siyana,2017-04-18,3350.0,1.0,40.6,clear
+941,Mustard,Buland Shahr,2017-04-20,3400.0,5.0,41.6,clear
+942,Mustard,Divai,2017-04-20,3300.0,27.0,41.6,clear
+943,Mustard,Jahangirabad,2017-04-20,3375.0,1.5,41.6,clear
+944,Mustard,Siyana,2017-04-20,3350.0,0.0,41.6,clear
+945,Mustard,Buland Shahr,2017-04-21,3400.0,2.0,40.6,clear
+946,Mustard,Divai,2017-04-21,3250.0,7.0,40.6,clear
+947,Mustard,Siyana,2017-04-21,3375.0,0.0,40.6,clear
+948,Mustard,Buland Shahr,2017-04-22,3400.0,2.2,39.2,clear
+949,Mustard,Divai,2017-04-22,3250.0,14.0,39.2,clear
+950,Mustard,Jahangirabad,2017-04-22,3380.0,4.0,39.2,clear
+951,Mustard,Siyana,2017-04-22,3370.0,0.0,39.2,clear
+952,Mustard,Buland Shahr,2017-04-24,3380.0,2.5,39.2,clear
+953,Mustard,Jahangirabad,2017-04-24,3380.0,2.5,39.2,clear
+954,Mustard,Buland Shahr,2017-04-25,3400.0,2.8,38.6,clear
+955,Mustard,Divai,2017-04-25,3250.0,8.0,38.6,clear
+956,Mustard,Jahangirabad,2017-04-25,3375.0,2.0,38.6,clear
+957,Mustard,Siyana,2017-04-25,3380.0,0.0,38.6,clear
+958,Mustard,Buland Shahr,2017-04-29,3370.0,1.8,38.0,clear
+959,Mustard,Divai,2017-04-29,3200.0,13.0,38.0,clear
+960,Mustard,Jahangirabad,2017-04-29,3360.0,2.0,38.0,clear
+961,Mustard,Siyana,2017-04-29,3360.0,0.0,38.0,clear
+962,Mustard,Buland Shahr,2017-01-05,3400.0,1.6,20.8,clear
+963,Mustard,Divai,2017-01-05,3250.0,11.0,20.8,clear
+964,Mustard,Jahangirabad,2017-01-05,3365.0,2.5,20.8,clear
+965,Mustard,Buland Shahr,2017-02-05,3400.0,1.8,19.8,clear
+966,Mustard,Divai,2017-02-05,3250.0,15.0,19.8,clear
+967,Mustard,Jahangirabad,2017-02-05,3360.0,2.0,19.8,clear
+968,Mustard,Buland Shahr,2017-03-05,3370.0,2.4,25.0,clear
+969,Mustard,Jahangirabad,2017-03-05,3380.0,3.5,25.0,clear
+970,Mustard,Siyana,2017-03-05,3360.0,0.0,25.0,clear
+971,Mustard,Buland Shahr,2017-04-05,3370.0,2.0,35.0,clear
+972,Mustard,Jahangirabad,2017-04-05,3385.0,2.5,35.0,clear
+973,Mustard,Buland Shahr,2017-05-05,3340.0,3.0,39.4,clear
+974,Mustard,Buland Shahr,2017-06-05,3350.0,2.5,42.0,clear
+975,Mustard,Divai,2017-06-05,3200.0,50.0,42.0,clear
+976,Mustard,Jahangirabad,2017-06-05,3370.0,2.5,42.0,clear
+977,Mustard,Buland Shahr,2017-08-05,3320.0,4.0,32.8,clear
+978,Mustard,Divai,2017-08-05,3200.0,8.0,32.8,clear
+979,Mustard,Jahangirabad,2017-08-05,3365.0,1.0,32.8,clear
+980,Mustard,Buland Shahr,2017-09-05,3350.0,1.8,33.8,clear
+981,Mustard,Divai,2017-09-05,3200.0,19.0,33.8,clear
+982,Mustard,Buland Shahr,2017-10-05,3350.0,1.5,33.6,clear
+983,Mustard,Buland Shahr,2017-11-05,3360.0,1.4,27.8,clear
+984,Mustard,Divai,2017-11-05,3240.0,18.0,27.8,clear
+985,Mustard,Jahangirabad,2017-11-05,3360.0,2.0,27.8,clear
+986,Mustard,Buland Shahr,2017-05-13,3370.0,2.2,41.0,clear
+987,Mustard,Divai,2017-05-13,3300.0,25.0,41.0,clear
+988,Mustard,Jahangirabad,2017-05-13,3380.0,2.0,41.0,clear
+989,Mustard,Buland Shahr,2017-05-15,3360.0,1.4,42.8,clear
+990,Mustard,Divai,2017-05-15,3325.0,27.5,42.8,clear
+991,Mustard,Jahangirabad,2017-05-15,3380.0,4.0,42.8,clear
+992,Mustard,Buland Shahr,2017-05-16,3350.0,1.6,42.4,clear
+993,Mustard,Divai,2017-05-16,3350.0,8.5,42.4,clear
+994,Mustard,Jahangirabad,2017-05-16,3375.0,0.0,42.4,clear
+995,Mustard,Buland Shahr,2017-05-17,3340.0,1.0,35.6,clear
+996,Mustard,Jahangirabad,2017-05-17,3375.0,4.0,35.6,clear
+997,Mustard,Buland Shahr,2017-05-18,3350.0,1.2,38.2,clear
+998,Mustard,Divai,2017-05-18,3350.0,26.0,38.2,clear
+999,Mustard,Jahangirabad,2017-05-18,3400.0,0.0,38.2,clear
+1000,Mustard,Buland Shahr,2017-05-19,3380.0,1.8,33.0,clear
+1001,Mustard,Divai,2017-05-19,3350.0,8.0,33.0,clear
+1002,Mustard,Buland Shahr,2017-05-20,3370.0,2.2,37.4,clear
+1003,Mustard,Divai,2017-05-20,3350.0,24.0,37.4,clear
+1004,Mustard,Jahangirabad,2017-05-20,3410.0,3.5,37.4,clear
+1005,Mustard,Buland Shahr,2017-05-22,3360.0,2.5,33.2,clear
+1006,Mustard,Divai,2017-05-22,3350.0,140.0,33.2,clear
+1007,Mustard,Jahangirabad,2017-05-22,3410.0,2.0,33.2,clear
+1008,Mustard,Buland Shahr,2017-05-23,3350.0,2.0,37.0,clear
+1009,Mustard,Divai,2017-05-23,3250.0,27.5,37.0,clear
+1010,Mustard,Buland Shahr,2017-05-24,3300.0,2.0,39.0,clear
+1011,Mustard,Jahangirabad,2017-05-24,3400.0,2.5,39.0,clear
+1012,Mustard,Buland Shahr,2017-05-25,3260.0,3.0,39.6,clear
+1013,Mustard,Divai,2017-05-25,3250.0,19.0,39.6,clear
+1014,Mustard,Jahangirabad,2017-05-25,3400.0,2.5,39.6,clear
+1015,Mustard,Buland Shahr,2017-05-26,3270.0,2.4,42.0,clear
+1016,Mustard,Divai,2017-05-26,3250.0,8.0,42.0,clear
+1017,Mustard,Buland Shahr,2017-05-27,3250.0,2.5,36.6,clear
+1018,Mustard,Divai,2017-05-27,3250.0,21.0,36.6,clear
+1019,Mustard,Jahangirabad,2017-05-27,3420.0,4.0,36.6,clear
+1020,Mustard,Buland Shahr,2017-05-29,3260.0,0.0,30.8,clear
+1021,Mustard,Divai,2017-05-29,3200.0,2.5,30.8,clear
+1022,Mustard,Jahangirabad,2017-05-29,3420.0,1.5,30.8,clear
+1023,Mustard,Sikarpur,2017-05-29,3230.0,100.0,30.8,clear
+1024,Mustard,Buland Shahr,2017-05-31,3300.0,3.0,30.2,clear
+1025,Mustard,Buland Shahr,2017-01-06,3310.0,2.0,20.6,clear
+1026,Mustard,Divai,2017-01-06,3200.0,35.0,20.6,clear
+1027,Mustard,Jahangirabad,2017-01-06,3400.0,2.0,20.6,clear
+1028,Mustard,Buland Shahr,2017-02-06,3300.0,1.2,21.6,clear
+1029,Mustard,Buland Shahr,2017-03-06,3310.0,1.8,26.4,clear
+1030,Mustard,Divai,2017-03-06,3200.0,19.0,26.4,clear
+1031,Mustard,Jahangirabad,2017-03-06,3390.0,1.0,26.4,clear
+1032,Mustard,Khurja,2017-03-06,3400.0,1.5,26.4,clear
+1033,Mustard,Buland Shahr,2017-05-06,3310.0,0.8,33.2,clear
+1034,Mustard,Divai,2017-05-06,3175.0,8.0,33.2,clear
+1035,Mustard,Khurja,2017-05-06,3360.0,2.0,33.2,clear
+1036,Mustard,Buland Shahr,2017-06-06,3315.0,1.2,39.8,clear
+1037,Mustard,Divai,2017-06-06,3200.0,6.0,39.8,clear
+1038,Mustard,Jahangirabad,2017-06-06,3375.0,0.0,39.8,clear
+1039,Mustard,Khurja,2017-06-06,3360.0,2.4,39.8,clear
+1040,Mustard,Buland Shahr,2017-08-06,3290.0,0.0,31.0,clear
+1041,Mustard,Divai,2017-08-06,3200.0,15.0,31.0,clear
+1042,Mustard,Jahangirabad,2017-08-06,3380.0,0.0,31.0,clear
+1043,Mustard,Khurja,2017-08-06,3370.0,4.0,31.0,clear
+1044,Mustard,Buland Shahr,2017-09-06,3270.0,3.0,34.2,clear
+1045,Mustard,Divai,2017-09-06,3200.0,7.0,34.2,clear
+1046,Mustard,Khurja,2017-09-06,3360.0,2.0,34.2,clear
+1047,Mustard,Buland Shahr,2017-10-06,3300.0,1.0,33.6,clear
+1048,Mustard,Divai,2017-10-06,3200.0,110.0,33.6,clear
+1049,Mustard,Jahangirabad,2017-10-06,3385.0,0.0,33.6,clear
+1050,Mustard,Buland Shahr,2017-12-06,3310.0,1.2,21.8,clear
+1051,Mustard,Divai,2017-12-06,3200.0,5.0,21.8,clear
+1052,Mustard,Jahangirabad,2017-12-06,3370.0,1.0,21.8,clear
+1053,Mustard,Khurja,2017-12-06,3400.0,2.0,21.8,clear
+1054,Mustard,Buland Shahr,2017-06-13,3300.0,1.0,38.0,clear
+1055,Mustard,Divai,2017-06-13,3200.0,4.5,38.0,clear
+1056,Mustard,Jahangirabad,2017-06-13,3350.0,0.0,38.0,clear
+1057,Mustard,Khurja,2017-06-13,3400.0,1.0,38.0,clear
+1058,Mustard,Buland Shahr,2017-06-14,3300.0,2.8,38.4,clear
+1059,Mustard,Jahangirabad,2017-06-14,3360.0,1.0,38.4,clear
+1060,Mustard,Khurja,2017-06-14,3400.0,3.0,38.4,clear
+1061,Mustard,Buland Shahr,2017-06-15,3315.0,4.0,39.0,clear
+1062,Mustard,Divai,2017-06-15,3237.5,5.0,39.0,clear
+1063,Mustard,Jahangirabad,2017-06-15,3340.0,0.0,39.0,clear
+1064,Mustard,Khurja,2017-06-15,3400.0,4.0,39.0,clear
+1065,Mustard,Buland Shahr,2017-06-16,3310.0,5.0,34.2,clear
+1066,Mustard,Divai,2017-06-16,3225.0,6.0,34.2,clear
+1067,Mustard,Khurja,2017-06-16,3400.0,5.0,34.2,clear
+1068,Mustard,Buland Shahr,2017-06-17,3300.0,2.5,34.4,clear
+1069,Mustard,Divai,2017-06-17,3225.0,6.0,34.4,clear
+1070,Mustard,Jahangirabad,2017-06-17,3350.0,0.0,34.4,clear
+1071,Mustard,Khurja,2017-06-17,3400.0,3.0,34.4,clear
+1072,Mustard,Buland Shahr,2017-06-20,3300.0,1.8,33.4,clear
+1073,Mustard,Jahangirabad,2017-06-20,3350.0,3.5,33.4,clear
+1074,Mustard,Khurja,2017-06-20,3750.0,3.0,33.4,clear
+1075,Mustard,Buland Shahr,2017-06-21,3300.0,2.0,30.0,clear
+1076,Mustard,Jahangirabad,2017-06-21,3240.0,2.5,30.0,clear
+1077,Mustard,Khurja,2017-06-21,3750.0,5.0,30.0,clear
+1078,Mustard,Buland Shahr,2017-06-22,3260.0,1.2,33.6,clear
+1079,Mustard,Jahangirabad,2017-06-22,3240.0,3.0,33.6,clear
+1080,Mustard,Khurja,2017-06-22,3800.0,3.0,33.6,clear
+1081,Mustard,Buland Shahr,2017-06-23,3280.0,4.0,34.2,clear
+1082,Mustard,Khurja,2017-06-23,3800.0,4.0,34.2,clear
+1083,Mustard,Buland Shahr,2017-06-24,3270.0,3.5,37.0,clear
+1084,Mustard,Khurja,2017-06-24,3800.0,2.0,37.0,clear
+1085,Mustard,Buland Shahr,2017-06-27,3270.0,2.5,36.8,clear
+1086,Mustard,Jahangirabad,2017-06-27,3400.0,2.0,36.8,clear
+1087,Mustard,Khurja,2017-06-27,3850.0,3.0,36.8,clear
+1088,Mustard,Buland Shahr,2017-06-28,3250.0,3.0,33.6,clear
+1089,Mustard,Jahangirabad,2017-06-28,3400.0,1.8,33.6,clear
+1090,Mustard,Khurja,2017-06-28,3850.0,3.0,33.6,clear
+1091,Mustard,Buland Shahr,2017-06-29,3200.0,0.6,30.8,clear
+1092,Mustard,Jahangirabad,2017-06-29,3450.0,2.0,30.8,clear
+1093,Mustard,Khurja,2017-06-29,3850.0,2.0,30.8,clear
+1094,Mustard,Buland Shahr,2017-06-30,3250.0,0.5,30.8,clear
+1095,Mustard,Khurja,2017-06-30,3800.0,3.0,30.8,clear
+1096,Mustard,Siyana,2017-06-30,3200.0,48.0,30.8,clear
+1097,Mustard,Buland Shahr,2017-01-07,3200.0,1.8,13.4,clear
+1098,Mustard,Gulavati,2017-01-07,3700.0,1.6,13.4,clear
+1099,Mustard,Jahangirabad,2017-01-07,3450.0,0.2,13.4,clear
+1100,Mustard,Khurja,2017-01-07,3800.0,2.0,13.4,clear
+1101,Mustard,Buland Shahr,2017-04-07,3210.0,1.0,34.4,clear
+1102,Mustard,Jahangirabad,2017-04-07,3455.0,3.0,34.4,clear
+1103,Mustard,Khurja,2017-04-07,3800.0,1.0,34.4,clear
+1104,Mustard,Buland Shahr,2017-05-07,3200.0,1.2,42.0,clear
+1105,Mustard,Khurja,2017-05-07,3850.0,2.0,42.0,clear
+1106,Mustard,Buland Shahr,2017-06-07,3200.0,0.7,34.2,clear
+1107,Mustard,Khurja,2017-06-07,3850.0,3.0,34.2,clear
+1108,Mustard,Buland Shahr,2017-07-07,3210.0,1.2,31.4,clear
+1109,Mustard,Khurja,2017-07-07,3800.0,1.0,31.4,clear
+1110,Mustard,Buland Shahr,2017-08-07,3220.0,0.8,30.4,clear
+1111,Mustard,Jahangirabad,2017-08-07,3455.0,5.0,30.4,clear
+1112,Mustard,Buland Shahr,2017-10-07,3230.0,1.0,32.8,clear
+1113,Mustard,Khurja,2017-10-07,3850.0,3.0,32.8,clear
+1114,Mustard,Buland Shahr,2017-12-07,3220.0,2.6,17.0,clear
+1115,Mustard,Jahangirabad,2017-12-07,3300.0,0.0,17.0,clear
+1116,Mustard,Khurja,2017-12-07,3850.0,2.0,17.0,clear
+1117,Mustard,Buland Shahr,2017-07-13,3200.0,2.5,31.8,clear
+1118,Mustard,Jahangirabad,2017-07-13,3290.0,0.0,31.8,clear
+1119,Mustard,Khurja,2017-07-13,3850.0,1.0,31.8,clear
+1120,Mustard,Buland Shahr,2017-07-14,3220.0,2.2,33.0,clear
+1121,Mustard,Divai,2017-07-14,3150.0,7.0,33.0,clear
+1122,Mustard,Khurja,2017-07-14,3800.0,2.5,33.0,clear
+1123,Mustard,Buland Shahr,2017-07-18,3250.0,1.0,36.0,clear
+1124,Mustard,Divai,2017-07-18,3150.0,2.0,36.0,clear
+1125,Mustard,Jahangirabad,2017-07-18,3280.0,0.0,36.0,clear
+1126,Mustard,Khurja,2017-07-18,3800.0,4.0,36.0,clear
+1127,Mustard,Buland Shahr,2017-07-19,3260.0,2.5,34.0,clear
+1128,Mustard,Divai,2017-07-19,3125.0,7.0,34.0,clear
+1129,Mustard,Jahangirabad,2017-07-19,3300.0,0.0,34.0,clear
+1130,Mustard,Khurja,2017-07-19,3800.0,2.0,34.0,clear
+1131,Mustard,Buland Shahr,2017-07-20,3240.0,1.4,34.2,clear
+1132,Mustard,Divai,2017-07-20,3200.0,3.5,34.2,clear
+1133,Mustard,Jahangirabad,2017-07-20,3315.0,0.0,34.2,clear
+1134,Mustard,Khurja,2017-07-20,3830.0,3.0,34.2,clear
+1135,Mustard,Buland Shahr,2017-07-21,3250.0,1.5,33.8,clear
+1136,Mustard,Divai,2017-07-21,3150.0,7.5,33.8,clear
+1137,Mustard,Khurja,2017-07-21,3800.0,1.5,33.8,clear
+1138,Mustard,Buland Shahr,2017-07-22,3250.0,2.5,30.8,clear
+1139,Mustard,Divai,2017-07-22,3200.0,7.0,30.8,clear
+1140,Mustard,Jahangirabad,2017-07-22,3290.0,1.0,30.8,clear
+1141,Mustard,Khurja,2017-07-22,3800.0,3.0,30.8,clear
+1142,Mustard,Buland Shahr,2017-07-24,3240.0,2.0,30.0,clear
+1143,Mustard,Divai,2017-07-24,3180.0,6.0,30.0,clear
+1144,Mustard,Jahangirabad,2017-07-24,3290.0,0.0,30.0,clear
+1145,Mustard,Khurja,2017-07-24,3800.0,5.0,30.0,clear
+1146,Mustard,Buland Shahr,2017-07-25,3250.0,2.2,31.0,clear
+1147,Mustard,Divai,2017-07-25,3150.0,5.0,31.0,clear
+1148,Mustard,Jahangirabad,2017-07-25,3270.0,1.0,31.0,clear
+1149,Mustard,Khurja,2017-07-25,3800.0,2.5,31.0,clear
+1150,Mustard,Buland Shahr,2017-07-26,3250.0,2.0,28.8,clear
+1151,Mustard,Jahangirabad,2017-07-26,3275.0,0.0,28.8,clear
+1152,Mustard,Khurja,2017-07-26,3800.0,1.5,28.8,clear
+1153,Mustard,Buland Shahr,2017-07-28,3250.0,2.0,32.6,clear
+1154,Mustard,Divai,2017-07-28,3150.0,5.0,32.6,clear
+1155,Mustard,Khurja,2017-07-28,3850.0,5.0,32.6,clear
+1156,Mustard,Buland Shahr,2017-07-29,3250.0,1.2,33.2,clear
+1157,Mustard,Divai,2017-07-29,3180.0,3.0,33.2,clear
+1158,Mustard,Jahangirabad,2017-07-29,3315.0,0.0,33.2,clear
+1159,Mustard,Khurja,2017-07-29,3800.0,2.5,33.2,clear
+1160,Mustard,Buland Shahr,2017-07-31,3270.0,1.5,30.0,clear
+1161,Mustard,Divai,2017-07-31,3125.0,7.0,30.0,clear
+1162,Mustard,Jahangirabad,2017-07-31,3315.0,0.0,30.0,clear
+1163,Mustard,Khurja,2017-07-31,3850.0,3.0,30.0,clear
+1164,Mustard,Buland Shahr,2017-02-08,3200.0,1.2,21.8,clear
+1165,Mustard,Divai,2017-02-08,3225.0,5.0,21.8,clear
+1166,Mustard,Jahangirabad,2017-02-08,3280.0,0.0,21.8,clear
+1167,Mustard,Khurja,2017-02-08,3800.0,2.5,21.8,clear
+1168,Mustard,Buland Shahr,2017-03-08,3215.0,1.4,26.4,clear
+1169,Mustard,Jahangirabad,2017-03-08,3310.0,1.5,26.4,clear
+1170,Mustard,Khurja,2017-03-08,3840.0,3.0,26.4,clear
+1171,Mustard,Buland Shahr,2017-04-08,3200.0,2.0,34.6,clear
+1172,Mustard,Divai,2017-04-08,3220.0,3.0,34.6,clear
+1173,Mustard,Khurja,2017-04-08,3840.0,2.0,34.6,clear
+1174,Mustard,Buland Shahr,2017-05-08,3200.0,1.5,31.0,clear
+1175,Mustard,Divai,2017-05-08,3150.0,3.0,31.0,clear
+1176,Mustard,Jahangirabad,2017-05-08,3280.0,0.0,31.0,clear
+1177,Mustard,Khurja,2017-05-08,3800.0,1.0,31.0,clear
+1178,Mustard,Buland Shahr,2017-08-08,3210.0,1.2,32.0,clear
+1179,Mustard,Jahangirabad,2017-08-08,3275.0,0.0,32.0,clear
+1180,Mustard,Khurja,2017-08-08,3800.0,3.0,32.0,clear
+1181,Mustard,Buland Shahr,2017-09-08,3240.0,2.0,32.8,clear
+1182,Mustard,Divai,2017-09-08,3225.0,7.5,32.8,clear
+1183,Mustard,Jahangirabad,2017-09-08,3280.0,1.0,32.8,clear
+1184,Mustard,Khurja,2017-09-08,3800.0,2.0,32.8,clear
+1185,Mustard,Buland Shahr,2017-10-08,3250.0,2.2,32.6,clear
+1186,Mustard,Jahangirabad,2017-10-08,3285.0,0.0,32.6,clear
+1187,Mustard,Khurja,2017-10-08,3800.0,1.0,32.6,clear
+1188,Mustard,Buland Shahr,2017-11-08,3200.0,2.0,25.0,clear
+1189,Mustard,Divai,2017-11-08,3280.0,2.0,25.0,clear
+1190,Mustard,Khurja,2017-11-08,3800.0,2.0,25.0,clear
+1191,Mustard,Buland Shahr,2017-12-08,3200.0,2.5,22.4,clear
+1192,Mustard,Divai,2017-12-08,3180.0,2.0,22.4,clear
+1193,Mustard,Khurja,2017-12-08,3750.0,1.0,22.4,clear
+1194,Mustard,Buland Shahr,2017-08-14,3200.0,2.2,34.6,clear
+1195,Mustard,Divai,2017-08-14,3180.0,1.0,34.6,clear
+1196,Mustard,Khurja,2017-08-14,3750.0,1.5,34.6,clear
+1197,Mustard,Buland Shahr,2017-08-16,3240.0,2.0,35.8,clear
+1198,Mustard,Divai,2017-08-16,3180.0,1.2,35.8,clear
+1199,Mustard,Jahangirabad,2017-08-16,3250.0,0.0,35.8,clear
+1200,Mustard,Khurja,2017-08-16,3750.0,2.0,35.8,clear
+1201,Mustard,Buland Shahr,2017-08-17,3230.0,1.5,31.0,clear
+1202,Mustard,Jahangirabad,2017-08-17,3260.0,0.0,31.0,clear
+1203,Mustard,Khurja,2017-08-17,3800.0,3.0,31.0,clear
+1204,Mustard,Buland Shahr,2017-08-18,3250.0,2.5,32.0,clear
+1205,Mustard,Divai,2017-08-18,3280.0,2.3,32.0,clear
+1206,Mustard,Khurja,2017-08-18,3800.0,1.5,32.0,clear
+1207,Mustard,Buland Shahr,2017-08-19,3230.0,0.0,30.0,clear
+1208,Mustard,Divai,2017-08-19,3280.0,1.0,30.0,clear
+1209,Mustard,Jahangirabad,2017-08-19,3265.0,0.0,30.0,clear
+1210,Mustard,Khurja,2017-08-19,3800.0,3.0,30.0,clear
+1211,Mustard,Buland Shahr,2017-08-22,3260.0,2.5,32.4,clear
+1212,Mustard,Divai,2017-08-22,3280.0,1.5,32.4,clear
+1213,Mustard,Jahangirabad,2017-08-22,3260.0,0.0,32.4,clear
+1214,Mustard,Buland Shahr,2017-08-23,3250.0,1.8,30.0,clear
+1215,Mustard,Divai,2017-08-23,3280.0,1.2,30.0,clear
+1216,Mustard,Jahangirabad,2017-08-23,3265.0,1.0,30.0,clear
+1217,Mustard,Buland Shahr,2017-08-24,3260.0,2.2,26.8,clear
+1218,Mustard,Jahangirabad,2017-08-24,3260.0,0.0,26.8,clear
+1219,Mustard,Buland Shahr,2017-08-26,3240.0,1.6,28.8,clear
+1220,Mustard,Divai,2017-08-26,3270.0,1.5,28.8,clear
+1221,Mustard,Jahangirabad,2017-08-26,3250.0,0.0,28.8,clear
+1222,Mustard,Khurja,2017-08-26,3850.0,5.0,28.8,clear
+1223,Mustard,Buland Shahr,2017-08-28,3250.0,1.2,28.8,clear
+1224,Mustard,Divai,2017-08-28,3280.0,2.1,28.8,clear
+1225,Mustard,Jahangirabad,2017-08-28,3265.0,0.0,28.8,clear
+1226,Mustard,Khurja,2017-08-28,3800.0,4.0,28.8,clear
+1227,Mustard,Buland Shahr,2017-08-30,3280.0,2.0,32.4,clear
+1228,Mustard,Divai,2017-08-30,3280.0,1.1,32.4,clear
+1229,Mustard,Jahangirabad,2017-08-30,3350.0,0.0,32.4,clear
+1230,Mustard,Khurja,2017-08-30,3800.0,2.6,32.4,clear
+1231,Mustard,Buland Shahr,2017-01-09,3300.0,0.8,11.0,clear
+1232,Mustard,Khurja,2017-01-09,3800.0,1.5,11.0,clear
+1233,Mustard,Buland Shahr,2017-04-09,3300.0,1.0,24.0,clear
+1234,Mustard,Jahangirabad,2017-04-09,3350.0,1.0,24.0,clear
+1235,Mustard,Khurja,2017-04-09,3800.0,2.0,24.0,clear
+1236,Mustard,Buland Shahr,2017-05-09,3280.0,1.2,40.4,clear
+1237,Mustard,Jahangirabad,2017-05-09,3360.0,0.0,40.4,clear
+1238,Mustard,Khurja,2017-05-09,3800.0,3.0,40.4,clear
+1239,Mustard,Buland Shahr,2017-08-09,3300.0,1.5,31.8,clear
+1240,Mustard,Khurja,2017-08-09,3850.0,2.0,31.8,clear
+1241,Mustard,Buland Shahr,2017-11-09,3300.0,1.0,25.2,clear
+1242,Mustard,Jahangirabad,2017-11-09,3350.0,1.0,25.2,clear
+1243,Mustard,Khurja,2017-11-09,3800.0,1.5,25.2,clear
+1244,Mustard,Buland Shahr,2017-12-09,3300.0,1.2,23.0,clear
+1245,Mustard,Khurja,2017-12-09,3800.0,2.0,23.0,clear
+1246,Mustard,Buland Shahr,2017-09-13,3310.0,2.0,34.4,clear
+1247,Mustard,Khurja,2017-09-13,3800.0,3.0,34.4,clear
+1248,Mustard,Buland Shahr,2017-09-15,3310.0,1.5,33.4,clear
+1249,Mustard,Khurja,2017-09-15,3800.0,2.0,33.4,clear
+1250,Mustard,Buland Shahr,2017-09-16,3300.0,1.5,34.2,clear
+1251,Mustard,Jahangirabad,2017-09-16,3325.0,0.0,34.2,clear
+1252,Mustard,Khurja,2017-09-16,3800.0,1.0,34.2,clear
+1253,Mustard,Buland Shahr,2017-09-18,3300.0,1.6,28.8,clear
+1254,Mustard,Jahangirabad,2017-09-18,3325.0,1.0,28.8,clear
+1255,Mustard,Khurja,2017-09-18,3800.0,2.5,28.8,clear
+1256,Mustard,Buland Shahr,2017-09-19,3300.0,1.5,33.6,clear
+1257,Mustard,Jahangirabad,2017-09-19,3320.0,0.0,33.6,clear
+1258,Mustard,Khurja,2017-09-19,3800.0,2.0,33.6,clear
+1259,Mustard,Buland Shahr,2017-09-20,3290.0,1.0,34.6,clear
+1260,Mustard,Jahangirabad,2017-09-20,3300.0,0.0,34.6,clear
+1261,Mustard,Khurja,2017-09-20,3800.0,1.6,34.6,clear
+1262,Mustard,Buland Shahr,2017-09-21,3250.0,1.0,30.0,clear
+1263,Mustard,Jahangirabad,2017-09-21,3310.0,0.0,30.0,clear
+1264,Mustard,Khurja,2017-09-21,3800.0,2.5,30.0,clear
+1265,Mustard,Buland Shahr,2017-09-22,3280.0,0.0,24.8,clear
+1266,Mustard,Khurja,2017-09-22,3770.0,2.0,24.8,clear
+1267,Mustard,Buland Shahr,2017-09-23,3250.0,0.0,25.2,clear
+1268,Mustard,Jahangirabad,2017-09-23,3300.0,0.0,25.2,clear
+1269,Mustard,Khurja,2017-09-23,3770.0,3.0,25.2,clear
+1270,Mustard,Buland Shahr,2017-09-25,3250.0,0.0,33.2,clear
+1271,Mustard,Jahangirabad,2017-09-25,3380.0,0.0,33.2,clear
+1272,Mustard,Khurja,2017-09-25,3770.0,4.0,33.2,clear
+1273,Mustard,Buland Shahr,2017-04-10,3250.0,1.4,33.0,clear
+1274,Mustard,Jahangirabad,2017-04-10,3380.0,0.0,33.0,clear
+1275,Mustard,Khurja,2017-04-10,3700.0,3.0,33.0,clear
+1276,Mustard,Buland Shahr,2017-05-10,3240.0,1.5,30.0,clear
+1277,Mustard,Jahangirabad,2017-05-10,3350.0,1.2,30.0,clear
+1278,Mustard,Khurja,2017-05-10,3700.0,3.5,30.0,clear
+1279,Mustard,Buland Shahr,2017-06-10,3250.0,2.5,37.0,clear
+1280,Mustard,Khurja,2017-06-10,3700.0,1.5,37.0,clear
+1281,Mustard,Buland Shahr,2017-09-10,3280.0,2.0,35.2,clear
+1282,Mustard,Khurja,2017-09-10,3700.0,2.5,35.2,clear
+1283,Mustard,Buland Shahr,2017-10-10,3250.0,2.0,33.6,clear
+1284,Mustard,Khurja,2017-10-10,3710.0,2.0,33.6,clear
+1285,Mustard,Buland Shahr,2017-11-10,3250.0,2.2,25.4,clear
+1286,Mustard,Khurja,2017-11-10,3725.0,3.0,25.4,clear
+1287,Mustard,Buland Shahr,2017-12-10,3250.0,2.0,23.4,clear
+1288,Mustard,Khurja,2017-12-10,3700.0,3.5,23.4,clear
+1289,Mustard,Buland Shahr,2017-10-14,3200.0,1.5,33.8,clear
+1290,Mustard,Khurja,2017-10-14,3700.0,3.5,33.8,clear
+1291,Mustard,Buland Shahr,2017-10-16,3220.0,1.0,32.4,clear
+1292,Mustard,Jahangirabad,2017-10-16,3250.0,0.0,32.4,clear
+1293,Mustard,Khurja,2017-10-16,3710.0,3.0,32.4,clear
+1294,Mustard,Buland Shahr,2017-10-17,3200.0,1.5,32.0,clear
+1295,Mustard,Khurja,2017-10-17,3710.0,2.5,32.0,clear
+1296,Mustard,Buland Shahr,2017-10-23,3250.0,1.0,23.2,clear
+1297,Mustard,Jahangirabad,2017-10-23,3240.0,0.0,23.2,clear
+1298,Mustard,Khurja,2017-10-23,3700.0,3.0,23.2,clear
+1299,Mustard,Buland Shahr,2017-10-24,3250.0,1.4,31.2,clear
+1300,Mustard,Jahangirabad,2017-10-24,3240.0,0.0,31.2,clear
+1301,Mustard,Khurja,2017-10-24,3700.0,2.0,31.2,clear
+1302,Mustard,Buland Shahr,2017-10-25,3270.0,1.0,29.6,clear
+1303,Mustard,Jahangirabad,2017-10-25,3280.0,0.0,29.6,clear
+1304,Mustard,Khurja,2017-10-25,3725.0,2.5,29.6,clear
+1305,Mustard,Buland Shahr,2017-10-26,3250.0,1.2,29.4,clear
+1306,Mustard,Jahangirabad,2017-10-26,3285.0,0.0,29.4,clear
+1307,Mustard,Khurja,2017-10-26,3725.0,3.0,29.4,clear
+1308,Mustard,Buland Shahr,2017-10-27,3250.0,1.5,29.6,clear
+1309,Mustard,Khurja,2017-10-27,3720.0,2.0,29.6,clear
+1310,Mustard,Buland Shahr,2017-10-28,3255.0,1.0,29.8,clear
+1311,Mustard,Jahangirabad,2017-10-28,3260.0,0.0,29.8,clear
+1312,Mustard,Khurja,2017-10-28,3700.0,2.5,29.8,clear
+1313,Mustard,Buland Shahr,2017-10-30,3250.0,1.2,28.0,clear
+1314,Mustard,Jahangirabad,2017-10-30,3265.0,1.5,28.0,clear
+1315,Mustard,Khurja,2017-10-30,3670.0,3.0,28.0,clear
+1316,Mustard,Buland Shahr,2017-10-31,3240.0,1.0,28.2,clear
+1317,Mustard,Khurja,2017-10-31,3650.0,2.0,28.2,clear
+1318,Mustard,Buland Shahr,2017-02-11,3260.0,1.2,21.8,clear
+1319,Mustard,Jahangirabad,2017-02-11,3245.0,0.0,21.8,clear
+1320,Mustard,Khurja,2017-02-11,3670.0,2.0,21.8,clear
+1321,Mustard,Buland Shahr,2017-03-11,3250.0,1.0,18.2,clear
+1322,Mustard,Khurja,2017-03-11,3500.0,3.5,18.2,clear
+1323,Mustard,Divai,2017-01-04,3375.0,24.0,19.6,clear
+1324,Mustard,Jahangirabad,2017-01-04,3340.0,6.5,19.6,clear
+1325,Mustard,Siyana,2017-01-04,3355.0,2.0,19.6,clear
+1326,Mustard,Divai,2017-02-04,3375.0,24.0,20.0,clear
+1327,Mustard,Jahangirabad,2017-02-04,3360.0,2.5,20.0,clear
+1328,Mustard,Siyana,2017-02-04,3350.0,3.0,20.0,clear
+1329,Mustard,Divai,2017-09-04,3350.0,9.0,29.8,clear
+1330,Mustard,Gulavati,2017-09-04,3400.0,7.0,29.8,clear
+1331,Mustard,Jahangirabad,2017-09-04,3355.0,6.0,29.8,clear
+1332,Mustard,Siyana,2017-09-04,3350.0,3.0,29.8,clear
+1333,Mustard,Divai,2017-04-16,3300.0,5.0,39.6,clear
+1334,Mustard,Jahangirabad,2017-04-16,3350.0,2.0,39.6,clear
+1335,Mustard,Siyana,2017-04-16,3350.0,1.0,39.6,clear
+1336,Mustard,Divai,2017-04-23,3250.0,11.0,38.2,clear
+1337,Mustard,Jahangirabad,2017-04-23,3360.0,4.5,38.2,clear
+1338,Mustard,Siyana,2017-04-23,3360.0,0.0,38.2,clear
+1339,Mustard,Divai,2017-04-27,3200.0,8.0,36.8,clear
+1340,Mustard,Jahangirabad,2017-04-27,3365.0,2.0,36.8,clear
+1341,Mustard,Divai,2017-04-30,3250.0,16.0,37.4,clear
+1342,Mustard,Gulavati,2017-04-30,3350.0,16.0,37.4,clear
+1343,Mustard,Jahangirabad,2017-04-30,3365.0,2.5,37.4,clear
+1344,Mustard,Divai,2017-05-14,3325.0,20.0,42.0,clear
+1345,Mustard,Jahangirabad,2017-05-14,3385.0,0.0,42.0,clear
+1346,Mustard,Divai,2017-05-21,3350.0,11.0,39.2,clear
+1347,Mustard,Jahangirabad,2017-05-21,3405.0,2.0,39.2,clear
+1348,Mustard,Divai,2017-05-28,3260.0,19.0,34.6,clear
+1349,Mustard,Jahangirabad,2017-05-28,3415.0,2.0,34.6,clear
+1350,Mustard,Divai,2017-04-06,3200.0,6.0,38.4,clear
+1351,Mustard,Jahangirabad,2017-04-06,3380.0,1.0,38.4,clear
+1352,Mustard,Divai,2017-11-06,3200.0,15.0,27.4,clear
+1353,Mustard,Jahangirabad,2017-11-06,3380.0,0.0,27.4,clear
+1354,Mustard,Divai,2017-06-18,3225.0,10.5,34.8,clear
+1355,Mustard,Divai,2017-07-15,3150.0,7.0,33.0,clear
+1356,Mustard,Gulavati,2017-07-15,3700.0,1.2,33.0,clear
+1357,Mustard,Jahangirabad,2017-07-15,3300.0,0.0,33.0,clear
+1358,Mustard,Divai,2017-07-17,3150.0,7.0,33.8,clear
+1359,Mustard,Jahangirabad,2017-07-17,3315.0,0.0,33.8,clear
+1360,Mustard,Khurja,2017-07-17,3800.0,3.5,33.8,clear
+1361,Mustard,Divai,2017-07-23,3180.0,5.0,30.6,clear
+1362,Mustard,Jahangirabad,2017-07-23,3280.0,0.0,30.6,clear
+1363,Mustard,Divai,2017-07-30,3125.0,3.0,31.6,clear
+1364,Mustard,Jahangirabad,2017-07-30,3310.0,0.0,31.6,clear
+1365,Mustard,Divai,2017-06-08,3125.0,4.0,33.4,clear
+1366,Mustard,Jahangirabad,2017-06-08,3240.0,1.0,33.4,clear
+1367,Mustard,Divai,2017-07-08,3125.0,2.0,28.8,clear
+1368,Mustard,Divai,2017-08-13,3180.0,2.0,34.8,clear
+1369,Mustard,Divai,2017-08-15,3170.0,1.0,35.2,clear
+1370,Mustard,Divai,2017-08-20,3280.0,1.1,32.6,clear
+1371,Mustard,Jahangirabad,2017-08-20,3235.0,0.0,32.6,clear
+1372,Mustard,Divai,2017-08-21,3280.0,1.1,33.0,clear
+1373,Mustard,Jahangirabad,2017-08-21,3240.0,0.0,33.0,clear
+1374,Mustard,Divai,2017-08-25,3290.0,2.1,32.0,clear
+1375,Mustard,Divai,2017-08-27,3300.0,2.1,33.0,clear
+1376,Mustard,Jahangirabad,2017-08-27,3260.0,1.2,33.0,clear
+1377,Mustard,Divai,2017-08-29,3270.0,2.1,28.8,clear
+1378,Mustard,Jahangirabad,2017-08-29,3260.0,0.0,28.8,clear
+1379,Mustard,Khurja,2017-08-29,3800.0,2.0,28.8,clear
+1380,Mustard,Gulavati,2017-03-01,3680.0,0.0,27.2,clear
+1381,Mustard,Jahangirabad,2017-03-01,3715.0,0.0,27.2,clear
+1382,Mustard,Siyana,2017-03-01,3700.0,1.0,27.2,clear
+1383,Mustard,Gulavati,2017-08-01,3650.0,0.0,32.4,clear
+1384,Mustard,Jahangirabad,2017-08-01,3715.0,0.0,32.4,clear
+1385,Mustard,Siyana,2017-08-01,3715.0,0.0,32.4,clear
+1386,Mustard,Gulavati,2017-01-15,3640.0,0.0,10.2,clear
+1387,Mustard,Jahangirabad,2017-01-15,3715.0,0.0,10.2,clear
+1388,Mustard,Siyana,2017-01-15,3725.0,0.0,10.2,clear
+1389,Mustard,Gulavati,2017-01-26,3570.0,0.0,16.0,clear
+1390,Mustard,Jahangirabad,2017-01-26,3350.0,2.0,16.0,clear
+1391,Mustard,Gulavati,2017-02-20,3320.0,1.5,28.4,clear
+1392,Mustard,Jahangirabad,2017-02-20,3360.0,6.0,28.4,clear
+1393,Mustard,Gulavati,2017-05-03,3240.0,5.0,36.4,clear
+1394,Mustard,Jahangirabad,2017-05-03,3350.0,10.0,36.4,clear
+1395,Mustard,Siyana,2017-05-03,3365.0,4.0,36.4,clear
+1396,Mustard,Gulavati,2017-03-20,3180.0,15.0,28.6,clear
+1397,Mustard,Jahangirabad,2017-03-20,3260.0,15.0,28.6,clear
+1398,Mustard,Gulavati,2017-03-26,3300.0,50.0,33.8,clear
+1399,Mustard,Jahangirabad,2017-03-26,3355.0,10.0,33.8,clear
+1400,Mustard,Siyana,2017-03-26,3340.0,2.0,33.8,clear
+1401,Mustard,Jahangirabad,2017-01-01,3720.0,0.0,17.0,clear
+1402,Mustard,Siyana,2017-01-01,3700.0,0.0,17.0,clear
+1403,Mustard,Jahangirabad,2017-01-14,3720.0,0.0,16.0,clear
+1404,Mustard,Siyana,2017-01-14,3720.0,0.0,16.0,clear
+1405,Mustard,Jahangirabad,2017-01-16,3715.0,1.2,17.6,clear
+1406,Mustard,Jahangirabad,2017-01-17,3600.0,0.0,13.6,clear
+1407,Mustard,Siyana,2017-01-17,3600.0,0.0,13.6,clear
+1408,Mustard,Jahangirabad,2017-01-22,3200.0,2.5,18.8,clear
+1409,Mustard,Siyana,2017-01-22,3350.0,1.0,18.8,clear
+1410,Mustard,Jahangirabad,2017-01-29,3460.0,3.0,18.0,clear
+1411,Mustard,Jahangirabad,2017-05-02,3250.0,1.5,39.0,clear
+1412,Mustard,Jahangirabad,2017-12-02,3300.0,1.2,20.6,clear
+1413,Mustard,Jahangirabad,2017-02-13,3310.0,3.5,22.4,clear
+1414,Mustard,Jahangirabad,2017-02-19,3350.0,5.0,27.4,clear
+1415,Mustard,Jahangirabad,2017-02-26,3350.0,9.0,25.4,clear
+1416,Mustard,Jahangirabad,2017-11-03,3360.0,25.0,27.8,clear
+1417,Mustard,Siyana,2017-11-03,3355.0,5.0,27.8,clear
+1418,Mustard,Jahangirabad,2017-12-03,3350.0,24.0,20.8,clear
+1419,Mustard,Siyana,2017-12-03,3350.0,4.0,20.8,clear
+1420,Mustard,Jahangirabad,2017-03-19,3350.0,30.0,28.0,clear
+1421,Mustard,Jahangirabad,2017-04-26,3360.0,2.5,38.0,clear
+1422,Mustard,Jahangirabad,2017-07-05,3360.0,2.0,27.0,clear
+1423,Mustard,Jahangirabad,2017-06-25,3350.0,3.0,34.0,clear
+1424,Mustard,Jahangirabad,2017-02-07,3450.0,0.0,19.4,clear
+1425,Mustard,Jahangirabad,2017-09-07,3455.0,0.0,31.6,clear
+1426,Mustard,Jahangirabad,2017-11-07,3350.0,0.0,26.0,clear
+1427,Mustard,Khurja,2017-11-07,3850.0,2.5,26.0,clear
+1428,Mustard,Jahangirabad,2017-07-16,3310.0,0.0,34.8,clear
+1429,Mustard,Jahangirabad,2017-07-27,3300.0,0.0,32.8,clear
+1430,Mustard,Khurja,2017-07-27,3800.0,3.0,32.8,clear
+1431,Mustard,Jahangirabad,2017-03-09,3350.0,0.0,26.0,clear
+1432,Mustard,Jahangirabad,2017-06-09,3360.0,0.0,33.8,clear
+1433,Mustard,Khurja,2017-06-09,3800.0,2.5,33.8,clear
+1434,Mustard,Jahangirabad,2017-07-09,3365.0,0.0,34.4,clear
+1435,Mustard,Khurja,2017-07-09,3850.0,3.5,34.4,clear
+1436,Mustard,Jahangirabad,2017-09-09,3350.0,0.0,34.0,clear
+1437,Mustard,Khurja,2017-09-09,3800.0,2.5,34.0,clear
+1438,Mustard,Jahangirabad,2017-09-14,3300.0,0.0,34.0,clear
+1439,Mustard,Khurja,2017-09-14,3820.0,1.5,34.0,clear
+1440,Mustard,Jahangirabad,2017-09-17,3320.0,0.0,30.4,clear
+1441,Mustard,Jahangirabad,2017-09-24,3400.0,0.0,32.8,clear
+1442,Mustard,Jahangirabad,2017-09-26,3380.0,0.0,33.2,clear
+1443,Mustard,Khurja,2017-09-26,3700.0,1.5,33.2,clear
+1444,Mustard,Jahangirabad,2017-09-27,3385.0,0.0,27.8,clear
+1445,Mustard,Khurja,2017-09-27,3720.0,2.0,27.8,clear
+1446,Mustard,Jahangirabad,2017-01-10,3385.0,0.0,8.6,clear
+1447,Mustard,Jahangirabad,2017-02-10,3380.0,0.0,12.0,clear
+1448,Mustard,Khurja,2017-02-10,3700.0,2.0,12.0,clear
+1449,Mustard,Jahangirabad,2017-03-10,3370.0,0.0,20.0,clear
+1450,Mustard,Khurja,2017-03-10,3700.0,4.0,20.0,clear
+1451,Mustard,Jahangirabad,2017-10-15,3240.0,0.0,32.0,clear
+1452,Mustard,Jahangirabad,2017-10-22,3265.0,0.0,33.2,clear
+1453,Mustard,Jahangirabad,2017-10-29,3265.0,0.0,29.6,clear
+1454,Mustard,Khurja,2017-02-09,3800.0,1.0,21.8,clear
+1455,Mustard,Khurja,2017-09-28,3750.0,2.5,34.2,clear
+1456,Mustard,Khurja,2017-09-29,3700.0,3.0,34.4,clear
+1457,Mustard,Khurja,2017-09-30,3700.0,1.5,34.0,clear
+1458,Mustard,Khurja,2017-07-10,3700.0,3.0,32.4,clear
+1459,Mustard,Khurja,2017-10-13,3700.0,4.0,32.8,clear
+1460,Mustard,Khurja,2017-10-18,3700.0,3.0,31.2,clear
+1461,Mustard,Khurja,2017-10-19,3700.0,2.0,32.4,clear
+1462,Mustard,Khurja,2017-04-11,3500.0,2.5,35.0,clear
+1463,Mustard,Siyana,2017-10-03,3350.0,6.0,33.2,clear
+1464,Mustard,Siyana,2017-04-28,3360.0,0.0,37.6,clear

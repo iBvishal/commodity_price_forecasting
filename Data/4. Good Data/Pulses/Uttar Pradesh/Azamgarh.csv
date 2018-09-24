@@ -1,0 +1,1005 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Azamgarh,2015-12-10,11000.0,15.0,15.4,clear
+1,Bengal Gram(Gram),Azamgarh,2015-12-10,4860.0,30.0,15.4,clear
+2,Arhar (Tur/Red Gram),Azamgarh,2015-12-12,11800.0,22.0,21.4,clear
+3,Bengal Gram(Gram),Azamgarh,2015-12-12,5580.0,7.0,21.4,clear
+4,Black Gram (Urd Beans),Azamgarh,2015-12-12,10300.0,2.0,21.4,clear
+5,Lentil(Masur),Azamgarh,2015-12-12,7480.0,7.0,21.4,clear
+6,Arhar (Tur/Red Gram),Azamgarh,2015-12-14,12000.0,18.0,19.0,clear
+7,Bengal Gram(Gram),Azamgarh,2015-12-14,5600.0,5.0,19.0,clear
+8,Black Gram (Urd Beans),Azamgarh,2015-12-14,10250.0,2.5,19.0,clear
+9,Lentil(Masur),Azamgarh,2015-12-14,7450.0,6.0,19.0,clear
+10,Arhar (Tur/Red Gram),Azamgarh,2015-12-15,11900.0,19.0,18.0,clear
+11,Arhar (Tur/Red Gram),Azamgarh,2015-12-16,11800.0,24.5,19.0,clear
+12,Bengal Gram(Gram),Azamgarh,2015-12-16,5500.0,6.5,19.0,clear
+13,Black Gram (Urd Beans),Azamgarh,2015-12-16,10200.0,1.8,19.0,clear
+14,Lentil(Masur),Azamgarh,2015-12-16,7480.0,0.0,19.0,clear
+15,Arhar (Tur/Red Gram),Azamgarh,2015-12-17,11800.0,20.0,19.0,clear
+16,Bengal Gram(Gram),Azamgarh,2015-12-17,5470.0,8.0,19.0,clear
+17,Black Gram (Urd Beans),Azamgarh,2015-12-17,10300.0,0.0,19.0,clear
+18,Lentil(Masur),Azamgarh,2015-12-17,7450.0,5.0,19.0,clear
+19,Arhar (Tur/Red Gram),Azamgarh,2015-12-18,11730.0,21.5,18.0,clear
+20,Bengal Gram(Gram),Azamgarh,2015-12-18,5485.0,0.0,18.0,clear
+21,Black Gram (Urd Beans),Azamgarh,2015-12-18,10200.0,1.5,18.0,clear
+22,Lentil(Masur),Azamgarh,2015-12-18,7420.0,6.0,18.0,clear
+23,Arhar (Tur/Red Gram),Azamgarh,2015-12-19,11700.0,17.0,18.0,clear
+24,Bengal Gram(Gram),Azamgarh,2015-12-19,5450.0,7.0,18.0,clear
+25,Black Gram (Urd Beans),Azamgarh,2015-12-19,10100.0,1.2,18.0,clear
+26,Lentil(Masur),Azamgarh,2015-12-19,7400.0,2.5,18.0,clear
+27,Arhar (Tur/Red Gram),Azamgarh,2015-12-22,11800.0,15.0,17.4,clear
+28,Bengal Gram(Gram),Azamgarh,2015-12-22,5435.0,7.5,17.4,clear
+29,Black Gram (Urd Beans),Azamgarh,2015-12-22,10400.0,0.0,17.4,clear
+30,Lentil(Masur),Azamgarh,2015-12-22,7450.0,0.0,17.4,clear
+31,Arhar (Tur/Red Gram),Azamgarh,2015-12-24,11700.0,10.0,20.0,clear
+32,Bengal Gram(Gram),Azamgarh,2015-12-24,5400.0,7.0,20.0,clear
+33,Black Gram (Urd Beans),Azamgarh,2015-12-24,10470.0,0.5,20.0,clear
+34,Arhar (Tur/Red Gram),Azamgarh,2015-12-26,12000.0,10.0,20.0,clear
+35,Bengal Gram(Gram),Azamgarh,2015-12-26,5425.0,10.0,20.0,clear
+36,Black Gram (Urd Beans),Azamgarh,2015-12-26,10450.0,0.0,20.0,clear
+37,Lentil(Masur),Azamgarh,2015-12-26,7400.0,2.0,20.0,clear
+38,Arhar (Tur/Red Gram),Azamgarh,2015-12-28,11850.0,13.5,13.4,clear
+39,Bengal Gram(Gram),Azamgarh,2015-12-28,5410.0,12.0,13.4,clear
+40,Black Gram (Urd Beans),Azamgarh,2015-12-28,10300.0,1.8,13.4,clear
+41,Lentil(Masur),Azamgarh,2015-12-28,7380.0,1.5,13.4,clear
+42,Arhar (Tur/Red Gram),Azamgarh,2015-12-29,11700.0,15.0,20.4,clear
+43,Bengal Gram(Gram),Azamgarh,2015-12-29,5450.0,11.0,20.4,clear
+44,Black Gram (Urd Beans),Azamgarh,2015-12-29,10400.0,1.5,20.4,clear
+45,Lentil(Masur),Azamgarh,2015-12-29,7350.0,1.8,20.4,clear
+46,Arhar (Tur/Red Gram),Azamgarh,2015-12-31,11600.0,13.0,22.0,clear
+47,Bengal Gram(Gram),Azamgarh,2015-12-31,5480.0,10.0,22.0,clear
+48,Black Gram (Urd Beans),Azamgarh,2015-12-31,10550.0,1.2,22.0,clear
+49,Lentil(Masur),Azamgarh,2015-12-31,7380.0,1.8,22.0,clear
+50,Bengal Gram(Gram),Azamgarh,2015-12-08,4970.0,28.0,18.6,clear
+51,Arhar (Tur/Red Gram),Azamgarh,2016-01-01,11550.0,14.5,20.0,clear
+52,Bengal Gram(Gram),Azamgarh,2016-01-01,5485.0,12.5,20.0,clear
+53,Black Gram (Urd Beans),Azamgarh,2016-01-01,10600.0,1.8,20.0,clear
+54,Lentil(Masur),Azamgarh,2016-01-01,7370.0,2.0,20.0,clear
+55,Arhar (Tur/Red Gram),Azamgarh,2016-04-01,11600.0,14.0,35.0,clear
+56,Bengal Gram(Gram),Azamgarh,2016-04-01,5525.0,9.0,35.0,clear
+57,Black Gram (Urd Beans),Azamgarh,2016-04-01,10550.0,1.5,35.0,clear
+58,Lentil(Masur),Azamgarh,2016-04-01,7320.0,0.0,35.0,clear
+59,Arhar (Tur/Red Gram),Azamgarh,2016-05-01,11800.0,12.5,37.4,clear
+60,Bengal Gram(Gram),Azamgarh,2016-05-01,5540.0,0.0,37.4,clear
+61,Black Gram (Urd Beans),Azamgarh,2016-05-01,10680.0,1.8,37.4,clear
+62,Lentil(Masur),Azamgarh,2016-05-01,7300.0,3.5,37.4,clear
+63,Arhar (Tur/Red Gram),Azamgarh,2016-06-01,11900.0,10.0,31.0,clear
+64,Bengal Gram(Gram),Azamgarh,2016-06-01,5550.0,8.0,31.0,clear
+65,Black Gram (Urd Beans),Azamgarh,2016-06-01,10800.0,2.0,31.0,clear
+66,Lentil(Masur),Azamgarh,2016-06-01,7250.0,4.0,31.0,clear
+67,Arhar (Tur/Red Gram),Azamgarh,2016-07-01,12000.0,7.5,33.4,clear
+68,Bengal Gram(Gram),Azamgarh,2016-07-01,5550.0,9.0,33.4,clear
+69,Black Gram (Urd Beans),Azamgarh,2016-07-01,10700.0,2.5,33.4,clear
+70,Lentil(Masur),Azamgarh,2016-07-01,7250.0,5.0,33.4,clear
+71,Arhar (Tur/Red Gram),Azamgarh,2016-08-01,11850.0,13.0,30.2,clear
+72,Bengal Gram(Gram),Azamgarh,2016-08-01,5575.0,7.5,30.2,clear
+73,Black Gram (Urd Beans),Azamgarh,2016-08-01,10700.0,1.5,30.2,clear
+74,Lentil(Masur),Azamgarh,2016-08-01,7270.0,0.0,30.2,clear
+75,Arhar (Tur/Red Gram),Azamgarh,2016-11-01,11900.0,11.0,27.0,clear
+76,Bengal Gram(Gram),Azamgarh,2016-11-01,5600.0,8.5,27.0,clear
+77,Black Gram (Urd Beans),Azamgarh,2016-11-01,10500.0,0.0,27.0,clear
+78,Lentil(Masur),Azamgarh,2016-11-01,7250.0,3.0,27.0,clear
+79,Arhar (Tur/Red Gram),Azamgarh,2016-12-01,12200.0,13.0,23.4,clear
+80,Bengal Gram(Gram),Azamgarh,2016-12-01,5600.0,8.0,23.4,clear
+81,Black Gram (Urd Beans),Azamgarh,2016-12-01,10750.0,1.0,23.4,clear
+82,Arhar (Tur/Red Gram),Azamgarh,2016-01-13,12350.0,0.0,22.0,clear
+83,Bengal Gram(Gram),Azamgarh,2016-01-13,5580.0,10.0,22.0,clear
+84,Black Gram (Urd Beans),Azamgarh,2016-01-13,10800.0,1.5,22.0,clear
+85,Lentil(Masur),Azamgarh,2016-01-13,7200.0,2.5,22.0,clear
+86,Arhar (Tur/Red Gram),Azamgarh,2016-01-14,12400.0,18.0,22.0,clear
+87,Bengal Gram(Gram),Azamgarh,2016-01-14,5600.0,9.0,22.0,clear
+88,Black Gram (Urd Beans),Azamgarh,2016-01-14,10800.0,0.0,22.0,clear
+89,Lentil(Masur),Azamgarh,2016-01-14,7235.0,0.0,22.0,clear
+90,Arhar (Tur/Red Gram),Azamgarh,2016-01-15,12500.0,0.0,22.0,clear
+91,Bengal Gram(Gram),Azamgarh,2016-01-15,5600.0,8.0,22.0,clear
+92,Black Gram (Urd Beans),Azamgarh,2016-01-15,10750.0,0.0,22.0,clear
+93,Lentil(Masur),Azamgarh,2016-01-15,7200.0,1.5,22.0,clear
+94,Arhar (Tur/Red Gram),Azamgarh,2016-01-16,12300.0,15.0,20.4,clear
+95,Bengal Gram(Gram),Azamgarh,2016-01-16,5625.0,8.5,20.4,clear
+96,Black Gram (Urd Beans),Azamgarh,2016-01-16,10600.0,1.0,20.4,clear
+97,Lentil(Masur),Azamgarh,2016-01-16,7180.0,2.0,20.4,clear
+98,Arhar (Tur/Red Gram),Azamgarh,2016-01-18,12200.0,17.0,18.4,clear
+99,Bengal Gram(Gram),Azamgarh,2016-01-18,5570.0,8.0,18.4,clear
+100,Black Gram (Urd Beans),Azamgarh,2016-01-18,10370.0,1.5,18.4,clear
+101,Lentil(Masur),Azamgarh,2016-01-18,7150.0,1.8,18.4,clear
+102,Arhar (Tur/Red Gram),Azamgarh,2016-01-19,12000.0,18.5,15.0,clear
+103,Bengal Gram(Gram),Azamgarh,2016-01-19,5550.0,11.5,15.0,clear
+104,Black Gram (Urd Beans),Azamgarh,2016-01-19,10400.0,2.0,15.0,clear
+105,Lentil(Masur),Azamgarh,2016-01-19,7120.0,1.5,15.0,clear
+106,Arhar (Tur/Red Gram),Azamgarh,2016-01-20,12250.0,14.0,16.0,clear
+107,Bengal Gram(Gram),Azamgarh,2016-01-20,5520.0,13.0,16.0,clear
+108,Black Gram (Urd Beans),Azamgarh,2016-01-20,10500.0,0.0,16.0,clear
+109,Lentil(Masur),Azamgarh,2016-01-20,7135.0,1.0,16.0,clear
+110,Arhar (Tur/Red Gram),Azamgarh,2016-01-21,12100.0,18.5,17.0,clear
+111,Bengal Gram(Gram),Azamgarh,2016-01-21,5470.0,15.0,17.0,clear
+112,Black Gram (Urd Beans),Azamgarh,2016-01-21,10700.0,1.0,17.0,clear
+113,Lentil(Masur),Azamgarh,2016-01-21,7090.0,1.5,17.0,clear
+114,Arhar (Tur/Red Gram),Azamgarh,2016-01-22,12000.0,15.0,13.4,clear
+115,Bengal Gram(Gram),Azamgarh,2016-01-22,5450.0,16.5,13.4,clear
+116,Black Gram (Urd Beans),Azamgarh,2016-01-22,10775.0,0.0,13.4,clear
+117,Lentil(Masur),Azamgarh,2016-01-22,7100.0,0.0,13.4,clear
+118,Arhar (Tur/Red Gram),Azamgarh,2016-01-23,11750.0,17.0,18.0,clear
+119,Bengal Gram(Gram),Azamgarh,2016-01-23,5425.0,18.0,18.0,clear
+120,Black Gram (Urd Beans),Azamgarh,2016-01-23,10800.0,1.5,18.0,clear
+121,Lentil(Masur),Azamgarh,2016-01-23,7080.0,2.0,18.0,clear
+122,Arhar (Tur/Red Gram),Azamgarh,2016-01-25,11600.0,18.5,21.0,clear
+123,Bengal Gram(Gram),Azamgarh,2016-01-25,5400.0,19.0,21.0,clear
+124,Black Gram (Urd Beans),Azamgarh,2016-01-25,10700.0,2.0,21.0,clear
+125,Arhar (Tur/Red Gram),Azamgarh,2016-01-27,11500.0,19.0,21.4,clear
+126,Bengal Gram(Gram),Azamgarh,2016-01-27,5410.0,18.0,21.4,clear
+127,Black Gram (Urd Beans),Azamgarh,2016-01-27,10650.0,2.2,21.4,clear
+128,Lentil(Masur),Azamgarh,2016-01-27,7075.0,2.0,21.4,clear
+129,Arhar (Tur/Red Gram),Azamgarh,2016-01-28,11250.0,22.0,21.4,clear
+130,Bengal Gram(Gram),Azamgarh,2016-01-28,5375.0,20.0,21.4,clear
+131,Black Gram (Urd Beans),Azamgarh,2016-01-28,10500.0,1.8,21.4,clear
+132,Lentil(Masur),Azamgarh,2016-01-28,7050.0,1.8,21.4,clear
+133,Arhar (Tur/Red Gram),Azamgarh,2016-01-29,11500.0,25.0,22.0,clear
+134,Bengal Gram(Gram),Azamgarh,2016-01-29,5360.0,22.0,22.0,clear
+135,Black Gram (Urd Beans),Azamgarh,2016-01-29,10600.0,1.0,22.0,clear
+136,Lentil(Masur),Azamgarh,2016-01-29,7075.0,1.5,22.0,clear
+137,Arhar (Tur/Red Gram),Azamgarh,2016-01-30,11700.0,20.0,24.0,clear
+138,Bengal Gram(Gram),Azamgarh,2016-01-30,5375.0,24.5,24.0,clear
+139,Black Gram (Urd Beans),Azamgarh,2016-01-30,10800.0,1.5,24.0,clear
+140,Lentil(Masur),Azamgarh,2016-01-30,7030.0,2.0,24.0,clear
+141,Arhar (Tur/Red Gram),Azamgarh,2016-01-02,11850.0,17.0,18.4,clear
+142,Bengal Gram(Gram),Azamgarh,2016-01-02,5360.0,20.0,18.4,clear
+143,Black Gram (Urd Beans),Azamgarh,2016-01-02,10850.0,1.2,18.4,clear
+144,Lentil(Masur),Azamgarh,2016-01-02,7000.0,2.2,18.4,clear
+145,Arhar (Tur/Red Gram),Azamgarh,2016-02-02,11800.0,18.0,23.0,clear
+146,Bengal Gram(Gram),Azamgarh,2016-02-02,5350.0,18.0,23.0,clear
+147,Black Gram (Urd Beans),Azamgarh,2016-02-02,10900.0,1.0,23.0,clear
+148,Lentil(Masur),Azamgarh,2016-02-02,7000.0,2.5,23.0,clear
+149,Arhar (Tur/Red Gram),Azamgarh,2016-03-02,11700.0,20.0,30.4,clear
+150,Bengal Gram(Gram),Azamgarh,2016-03-02,5350.0,19.0,30.4,clear
+151,Black Gram (Urd Beans),Azamgarh,2016-03-02,11000.0,2.0,30.4,clear
+152,Lentil(Masur),Azamgarh,2016-03-02,6950.0,3.0,30.4,clear
+153,Arhar (Tur/Red Gram),Azamgarh,2016-04-02,11750.0,15.0,34.4,clear
+154,Bengal Gram(Gram),Azamgarh,2016-04-02,5335.0,20.0,34.4,clear
+155,Black Gram (Urd Beans),Azamgarh,2016-04-02,10950.0,3.0,34.4,clear
+156,Lentil(Masur),Azamgarh,2016-04-02,6920.0,3.5,34.4,clear
+157,Arhar (Tur/Red Gram),Azamgarh,2016-05-02,11700.0,17.0,37.6,clear
+158,Bengal Gram(Gram),Azamgarh,2016-05-02,5330.0,21.5,37.6,clear
+159,Black Gram (Urd Beans),Azamgarh,2016-05-02,10800.0,0.0,37.6,clear
+160,Lentil(Masur),Azamgarh,2016-05-02,6900.0,4.0,37.6,clear
+161,Arhar (Tur/Red Gram),Azamgarh,2016-09-02,11680.0,22.0,32.0,clear
+162,Bengal Gram(Gram),Azamgarh,2016-09-02,5310.0,25.0,32.0,clear
+163,Black Gram (Urd Beans),Azamgarh,2016-09-02,10500.0,2.5,32.0,clear
+164,Lentil(Masur),Azamgarh,2016-09-02,6935.0,2.5,32.0,clear
+165,Arhar (Tur/Red Gram),Azamgarh,2016-10-02,11600.0,25.0,32.4,clear
+166,Bengal Gram(Gram),Azamgarh,2016-10-02,5285.0,27.0,32.4,clear
+167,Black Gram (Urd Beans),Azamgarh,2016-10-02,10400.0,2.0,32.4,clear
+168,Lentil(Masur),Azamgarh,2016-10-02,6980.0,0.0,32.4,clear
+169,Arhar (Tur/Red Gram),Azamgarh,2016-12-02,11100.0,20.0,22.0,clear
+170,Bengal Gram(Gram),Azamgarh,2016-12-02,5285.0,15.0,22.0,clear
+171,Black Gram (Urd Beans),Azamgarh,2016-12-02,10600.0,1.0,22.0,clear
+172,Arhar (Tur/Red Gram),Azamgarh,2016-02-13,11000.0,22.0,26.0,clear
+173,Bengal Gram(Gram),Azamgarh,2016-02-13,5250.0,17.0,26.0,clear
+174,Black Gram (Urd Beans),Azamgarh,2016-02-13,10500.0,0.0,26.0,clear
+175,Lentil(Masur),Azamgarh,2016-02-13,6970.0,1.5,26.0,clear
+176,Arhar (Tur/Red Gram),Azamgarh,2016-02-15,11350.0,20.0,27.4,clear
+177,Bengal Gram(Gram),Azamgarh,2016-02-15,5250.0,19.0,27.4,clear
+178,Black Gram (Urd Beans),Azamgarh,2016-02-15,10570.0,8.0,27.4,clear
+179,Lentil(Masur),Azamgarh,2016-02-15,6965.0,1.0,27.4,clear
+180,Arhar (Tur/Red Gram),Azamgarh,2016-02-16,11300.0,21.5,21.0,clear
+181,Bengal Gram(Gram),Azamgarh,2016-02-16,5285.0,16.5,21.0,clear
+182,Black Gram (Urd Beans),Azamgarh,2016-02-16,10700.0,0.0,21.0,clear
+183,Lentil(Masur),Azamgarh,2016-02-16,6970.0,1.5,21.0,clear
+184,Arhar (Tur/Red Gram),Azamgarh,2016-02-17,11300.0,23.5,27.4,clear
+185,Bengal Gram(Gram),Azamgarh,2016-02-17,5270.0,18.0,27.4,clear
+186,Black Gram (Urd Beans),Azamgarh,2016-02-17,10620.0,1.2,27.4,clear
+187,Lentil(Masur),Azamgarh,2016-02-17,6950.0,1.8,27.4,clear
+188,Arhar (Tur/Red Gram),Azamgarh,2016-02-18,11250.0,23.0,28.0,clear
+189,Bengal Gram(Gram),Azamgarh,2016-02-18,5255.0,19.5,28.0,clear
+190,Black Gram (Urd Beans),Azamgarh,2016-02-18,10600.0,0.0,28.0,clear
+191,Lentil(Masur),Azamgarh,2016-02-18,6900.0,2.2,28.0,clear
+192,Arhar (Tur/Red Gram),Azamgarh,2016-02-20,11300.0,21.5,29.0,clear
+193,Bengal Gram(Gram),Azamgarh,2016-02-20,5235.0,17.5,29.0,clear
+194,Arhar (Tur/Red Gram),Azamgarh,2016-02-22,11400.0,20.0,25.4,clear
+195,Bengal Gram(Gram),Azamgarh,2016-02-22,5220.0,19.0,25.4,clear
+196,Black Gram (Urd Beans),Azamgarh,2016-02-22,10800.0,2.0,25.4,clear
+197,Lentil(Masur),Azamgarh,2016-02-22,6865.0,3.5,25.4,clear
+198,Arhar (Tur/Red Gram),Azamgarh,2016-02-23,11480.0,17.0,27.0,clear
+199,Bengal Gram(Gram),Azamgarh,2016-02-23,5210.0,20.0,27.0,clear
+200,Black Gram (Urd Beans),Azamgarh,2016-02-23,10800.0,1.8,27.0,clear
+201,Lentil(Masur),Azamgarh,2016-02-23,6860.0,3.0,27.0,clear
+202,Arhar (Tur/Red Gram),Azamgarh,2016-02-25,11320.0,21.5,27.4,clear
+203,Bengal Gram(Gram),Azamgarh,2016-02-25,5185.0,15.0,27.4,clear
+204,Black Gram (Urd Beans),Azamgarh,2016-02-25,10950.0,1.5,27.4,clear
+205,Lentil(Masur),Azamgarh,2016-02-25,6850.0,7.5,27.4,clear
+206,Arhar (Tur/Red Gram),Azamgarh,2016-02-27,11200.0,23.5,28.0,clear
+207,Bengal Gram(Gram),Azamgarh,2016-02-27,5200.0,13.5,28.0,clear
+208,Black Gram (Urd Beans),Azamgarh,2016-02-27,10800.0,3.0,28.0,clear
+209,Lentil(Masur),Azamgarh,2016-02-27,6820.0,6.0,28.0,clear
+210,Arhar (Tur/Red Gram),Azamgarh,2016-01-03,10730.0,27.0,12.6,clear
+211,Bengal Gram(Gram),Azamgarh,2016-01-03,5170.0,15.5,12.6,clear
+212,Black Gram (Urd Beans),Azamgarh,2016-01-03,10950.0,0.0,12.6,clear
+213,Arhar (Tur/Red Gram),Azamgarh,2016-02-03,10700.0,23.5,21.0,clear
+214,Bengal Gram(Gram),Azamgarh,2016-02-03,5160.0,16.0,21.0,clear
+215,Black Gram (Urd Beans),Azamgarh,2016-02-03,10980.0,1.5,21.0,clear
+216,Lentil(Masur),Azamgarh,2016-02-03,6750.0,15.0,21.0,clear
+217,Arhar (Tur/Red Gram),Azamgarh,2016-03-03,10650.0,25.0,31.4,clear
+218,Bengal Gram(Gram),Azamgarh,2016-03-03,5150.0,17.0,31.4,clear
+219,Black Gram (Urd Beans),Azamgarh,2016-03-03,11000.0,1.0,31.4,clear
+220,Lentil(Masur),Azamgarh,2016-03-03,6700.0,10.0,31.4,clear
+221,Arhar (Tur/Red Gram),Azamgarh,2016-04-03,10580.0,22.5,35.6,clear
+222,Bengal Gram(Gram),Azamgarh,2016-04-03,5130.0,19.0,35.6,clear
+223,Black Gram (Urd Beans),Azamgarh,2016-04-03,10900.0,1.5,35.6,clear
+224,Lentil(Masur),Azamgarh,2016-04-03,6700.0,7.0,35.6,clear
+225,Arhar (Tur/Red Gram),Azamgarh,2016-05-03,10500.0,20.0,36.4,clear
+226,Bengal Gram(Gram),Azamgarh,2016-05-03,5115.0,20.0,36.4,clear
+227,Black Gram (Urd Beans),Azamgarh,2016-05-03,10700.0,2.0,36.4,clear
+228,Lentil(Masur),Azamgarh,2016-05-03,6675.0,8.0,36.4,clear
+229,Arhar (Tur/Red Gram),Azamgarh,2016-07-03,10350.0,22.0,30.4,clear
+230,Bengal Gram(Gram),Azamgarh,2016-07-03,5100.0,22.0,30.4,clear
+231,Black Gram (Urd Beans),Azamgarh,2016-07-03,10500.0,2.5,30.4,clear
+232,Lentil(Masur),Azamgarh,2016-07-03,6650.0,9.0,30.4,clear
+233,Arhar (Tur/Red Gram),Azamgarh,2016-08-03,10200.0,25.0,32.0,clear
+234,Bengal Gram(Gram),Azamgarh,2016-08-03,5100.0,25.0,32.0,clear
+235,Black Gram (Urd Beans),Azamgarh,2016-08-03,10300.0,3.0,32.0,clear
+236,Lentil(Masur),Azamgarh,2016-08-03,6630.0,7.0,32.0,clear
+237,Arhar (Tur/Red Gram),Azamgarh,2016-09-03,10150.0,20.0,31.0,clear
+238,Bengal Gram(Gram),Azamgarh,2016-09-03,5120.0,23.0,31.0,clear
+239,Black Gram (Urd Beans),Azamgarh,2016-09-03,10250.0,1.5,31.0,clear
+240,Lentil(Masur),Azamgarh,2016-09-03,6620.0,8.0,31.0,clear
+241,Arhar (Tur/Red Gram),Azamgarh,2016-10-03,10100.0,22.0,31.4,clear
+242,Bengal Gram(Gram),Azamgarh,2016-10-03,5100.0,20.0,31.4,clear
+243,Black Gram (Urd Beans),Azamgarh,2016-10-03,10200.0,1.5,31.4,clear
+244,Lentil(Masur),Azamgarh,2016-10-03,6600.0,7.5,31.4,clear
+245,Arhar (Tur/Red Gram),Azamgarh,2016-11-03,10000.0,18.0,27.4,clear
+246,Bengal Gram(Gram),Azamgarh,2016-11-03,5085.0,18.5,27.4,clear
+247,Black Gram (Urd Beans),Azamgarh,2016-11-03,10250.0,1.8,27.4,clear
+248,Lentil(Masur),Azamgarh,2016-11-03,6600.0,6.0,27.4,clear
+249,Arhar (Tur/Red Gram),Azamgarh,2016-03-14,10150.0,18.0,21.0,rain
+250,Bengal Gram(Gram),Azamgarh,2016-03-14,5050.0,17.0,21.0,rain
+251,Black Gram (Urd Beans),Azamgarh,2016-03-14,10200.0,2.5,21.0,rain
+252,Lentil(Masur),Azamgarh,2016-03-14,6670.0,3.5,21.0,rain
+253,Arhar (Tur/Red Gram),Azamgarh,2016-03-15,10000.0,19.0,27.4,clear
+254,Bengal Gram(Gram),Azamgarh,2016-03-15,5080.0,10.0,27.4,clear
+255,Black Gram (Urd Beans),Azamgarh,2016-03-15,10100.0,2.0,27.4,clear
+256,Lentil(Masur),Azamgarh,2016-03-15,6685.0,0.0,27.4,clear
+257,Arhar (Tur/Red Gram),Azamgarh,2016-03-16,9985.0,20.0,28.6,clear
+258,Bengal Gram(Gram),Azamgarh,2016-03-16,5065.0,12.0,28.6,clear
+259,Black Gram (Urd Beans),Azamgarh,2016-03-16,10000.0,1.5,28.6,clear
+260,Arhar (Tur/Red Gram),Azamgarh,2016-03-17,9975.0,21.5,30.4,clear
+261,Bengal Gram(Gram),Azamgarh,2016-03-17,5050.0,13.5,30.4,clear
+262,Black Gram (Urd Beans),Azamgarh,2016-03-17,10200.0,0.0,30.4,clear
+263,Lentil(Masur),Azamgarh,2016-03-17,6680.0,0.0,30.4,clear
+264,Arhar (Tur/Red Gram),Azamgarh,2016-03-18,10000.0,17.0,31.4,clear
+265,Bengal Gram(Gram),Azamgarh,2016-03-18,5035.0,14.0,31.4,clear
+266,Black Gram (Urd Beans),Azamgarh,2016-03-18,10320.0,1.5,31.4,clear
+267,Arhar (Tur/Red Gram),Azamgarh,2016-03-19,10100.0,15.0,33.4,clear
+268,Bengal Gram(Gram),Azamgarh,2016-03-19,5040.0,12.0,33.4,clear
+269,Black Gram (Urd Beans),Azamgarh,2016-03-19,10300.0,1.0,33.4,clear
+270,Lentil(Masur),Azamgarh,2016-03-19,6670.0,2.5,33.4,clear
+271,Arhar (Tur/Red Gram),Azamgarh,2016-03-25,9950.0,12.0,33.0,clear
+272,Bengal Gram(Gram),Azamgarh,2016-03-25,5030.0,15.0,33.0,clear
+273,Black Gram (Urd Beans),Azamgarh,2016-03-25,10400.0,2.0,33.0,clear
+274,Lentil(Masur),Azamgarh,2016-03-25,6630.0,2.0,33.0,clear
+275,Arhar (Tur/Red Gram),Azamgarh,2016-03-28,10200.0,12.0,33.0,clear
+276,Bengal Gram(Gram),Azamgarh,2016-03-28,5010.0,8.0,33.0,clear
+277,Black Gram (Urd Beans),Azamgarh,2016-03-28,10250.0,2.0,33.0,clear
+278,Arhar (Tur/Red Gram),Azamgarh,2016-03-31,10050.0,10.0,36.0,clear
+279,Bengal Gram(Gram),Azamgarh,2016-03-31,4990.0,12.5,36.0,clear
+280,Lentil(Masur),Azamgarh,2016-03-31,6500.0,3.0,36.0,clear
+281,Arhar (Tur/Red Gram),Azamgarh,2016-01-04,9950.0,12.0,20.0,clear
+282,Bengal Gram(Gram),Azamgarh,2016-01-04,4975.0,13.0,20.0,clear
+283,Black Gram (Urd Beans),Azamgarh,2016-01-04,10150.0,1.5,20.0,clear
+284,Lentil(Masur),Azamgarh,2016-01-04,6480.0,3.8,20.0,clear
+285,Arhar (Tur/Red Gram),Azamgarh,2016-07-04,10400.0,18.0,28.0,clear
+286,Bengal Gram(Gram),Azamgarh,2016-07-04,5085.0,13.5,28.0,clear
+287,Black Gram (Urd Beans),Azamgarh,2016-07-04,10600.0,0.0,28.0,clear
+288,Lentil(Masur),Azamgarh,2016-07-04,6570.0,2.0,28.0,clear
+289,Arhar (Tur/Red Gram),Azamgarh,2016-08-04,10350.0,20.0,32.4,clear
+290,Bengal Gram(Gram),Azamgarh,2016-08-04,5070.0,14.0,32.4,clear
+291,Black Gram (Urd Beans),Azamgarh,2016-08-04,10630.0,2.0,32.4,clear
+292,Lentil(Masur),Azamgarh,2016-08-04,6575.0,0.0,32.4,clear
+293,Arhar (Tur/Red Gram),Azamgarh,2016-09-04,10300.0,21.5,32.0,clear
+294,Bengal Gram(Gram),Azamgarh,2016-09-04,5090.0,12.5,32.0,clear
+295,Black Gram (Urd Beans),Azamgarh,2016-09-04,10500.0,2.0,32.0,clear
+296,Lentil(Masur),Azamgarh,2016-09-04,6550.0,2.0,32.0,clear
+297,Arhar (Tur/Red Gram),Azamgarh,2016-11-04,10250.0,20.0,27.4,clear
+298,Bengal Gram(Gram),Azamgarh,2016-11-04,5070.0,10.0,27.4,clear
+299,Black Gram (Urd Beans),Azamgarh,2016-11-04,10400.0,2.5,27.4,clear
+300,Lentil(Masur),Azamgarh,2016-11-04,6530.0,2.0,27.4,clear
+301,Arhar (Tur/Red Gram),Azamgarh,2016-12-04,10500.0,15.0,21.4,clear
+302,Bengal Gram(Gram),Azamgarh,2016-12-04,5030.0,12.0,21.4,clear
+303,Black Gram (Urd Beans),Azamgarh,2016-12-04,10480.0,1.8,21.4,clear
+304,Lentil(Masur),Azamgarh,2016-12-04,6500.0,1.6,21.4,clear
+305,Arhar (Tur/Red Gram),Azamgarh,2016-04-18,10700.0,5.0,39.4,clear
+306,Bengal Gram(Gram),Azamgarh,2016-04-18,4930.0,8.5,39.4,clear
+307,Black Gram (Urd Beans),Azamgarh,2016-04-18,10385.0,0.5,39.4,clear
+308,Lentil(Masur),Azamgarh,2016-04-18,6400.0,0.0,39.4,clear
+309,Arhar (Tur/Red Gram),Azamgarh,2016-04-19,10780.0,8.0,40.4,clear
+310,Bengal Gram(Gram),Azamgarh,2016-04-19,4900.0,10.0,40.4,clear
+311,Arhar (Tur/Red Gram),Azamgarh,2016-04-20,10800.0,8.0,39.0,clear
+312,Bengal Gram(Gram),Azamgarh,2016-04-20,4885.0,11.5,39.0,clear
+313,Black Gram (Urd Beans),Azamgarh,2016-04-20,10300.0,2.0,39.0,clear
+314,Lentil(Masur),Azamgarh,2016-04-20,6500.0,1.5,39.0,clear
+315,Arhar (Tur/Red Gram),Azamgarh,2016-04-21,11000.0,5.0,39.4,clear
+316,Bengal Gram(Gram),Azamgarh,2016-04-21,4985.0,10.0,39.4,clear
+317,Black Gram (Urd Beans),Azamgarh,2016-04-21,10400.0,1.0,39.4,clear
+318,Lentil(Masur),Azamgarh,2016-04-21,6575.0,1.0,39.4,clear
+319,Arhar (Tur/Red Gram),Azamgarh,2016-04-22,11250.0,4.0,33.4,clear
+320,Bengal Gram(Gram),Azamgarh,2016-04-22,5050.0,8.0,33.4,clear
+321,Black Gram (Urd Beans),Azamgarh,2016-04-22,10550.0,0.0,33.4,clear
+322,Arhar (Tur/Red Gram),Azamgarh,2016-04-23,11500.0,5.0,39.4,clear
+323,Bengal Gram(Gram),Azamgarh,2016-04-23,5100.0,7.5,39.4,clear
+324,Lentil(Masur),Azamgarh,2016-04-23,6650.0,1.5,39.4,clear
+325,Arhar (Tur/Red Gram),Azamgarh,2016-04-26,11800.0,8.0,41.0,clear
+326,Bengal Gram(Gram),Azamgarh,2016-04-26,5200.0,8.0,41.0,clear
+327,Black Gram (Urd Beans),Azamgarh,2016-04-26,10800.0,2.0,41.0,clear
+328,Lentil(Masur),Azamgarh,2016-04-26,6685.0,1.8,41.0,clear
+329,Arhar (Tur/Red Gram),Azamgarh,2016-04-28,12300.0,0.0,40.0,clear
+330,Bengal Gram(Gram),Azamgarh,2016-04-28,5250.0,6.0,40.0,clear
+331,Black Gram (Urd Beans),Azamgarh,2016-04-28,10900.0,1.2,40.0,clear
+332,Lentil(Masur),Azamgarh,2016-04-28,6700.0,1.0,40.0,clear
+333,Arhar (Tur/Red Gram),Azamgarh,2016-04-30,12450.0,0.0,40.0,clear
+334,Bengal Gram(Gram),Azamgarh,2016-04-30,5300.0,8.0,40.0,clear
+335,Black Gram (Urd Beans),Azamgarh,2016-04-30,10800.0,0.8,40.0,clear
+336,Lentil(Masur),Azamgarh,2016-04-30,6750.0,1.0,40.0,clear
+337,Arhar (Tur/Red Gram),Azamgarh,2016-02-05,12400.0,2.0,14.0,clear
+338,Bengal Gram(Gram),Azamgarh,2016-02-05,5350.0,10.0,14.0,clear
+339,Black Gram (Urd Beans),Azamgarh,2016-02-05,10750.0,1.0,14.0,clear
+340,Lentil(Masur),Azamgarh,2016-02-05,6780.0,1.5,14.0,clear
+341,Arhar (Tur/Red Gram),Azamgarh,2016-03-05,12480.0,0.0,24.4,clear
+342,Bengal Gram(Gram),Azamgarh,2016-03-05,5380.0,7.5,24.4,clear
+343,Black Gram (Urd Beans),Azamgarh,2016-03-05,10800.0,0.0,24.4,clear
+344,Lentil(Masur),Azamgarh,2016-03-05,6800.0,1.8,24.4,clear
+345,Arhar (Tur/Red Gram),Azamgarh,2016-05-05,12600.0,2.0,35.4,clear
+346,Bengal Gram(Gram),Azamgarh,2016-05-05,5460.0,6.0,35.4,clear
+347,Black Gram (Urd Beans),Azamgarh,2016-05-05,11250.0,0.9,35.4,clear
+348,Lentil(Masur),Azamgarh,2016-05-05,6850.0,1.0,35.4,clear
+349,Arhar (Tur/Red Gram),Azamgarh,2016-07-05,12700.0,2.5,28.0,clear
+350,Bengal Gram(Gram),Azamgarh,2016-07-05,5580.0,7.0,28.0,clear
+351,Black Gram (Urd Beans),Azamgarh,2016-07-05,11500.0,1.0,28.0,clear
+352,Lentil(Masur),Azamgarh,2016-07-05,7000.0,1.5,28.0,clear
+353,Arhar (Tur/Red Gram),Azamgarh,2016-09-05,12600.0,8.0,32.0,clear
+354,Bengal Gram(Gram),Azamgarh,2016-09-05,5625.0,5.0,32.0,clear
+355,Black Gram (Urd Beans),Azamgarh,2016-09-05,11800.0,0.8,32.0,clear
+356,Lentil(Masur),Azamgarh,2016-09-05,7050.0,0.0,32.0,clear
+357,Arhar (Tur/Red Gram),Azamgarh,2016-11-05,12500.0,12.0,27.0,clear
+358,Bengal Gram(Gram),Azamgarh,2016-11-05,5670.0,8.0,27.0,clear
+359,Black Gram (Urd Beans),Azamgarh,2016-11-05,11700.0,1.0,27.0,clear
+360,Lentil(Masur),Azamgarh,2016-11-05,7085.0,2.5,27.0,clear
+361,Arhar (Tur/Red Gram),Azamgarh,2016-12-05,12370.0,12.5,19.4,clear
+362,Bengal Gram(Gram),Azamgarh,2016-12-05,5685.0,5.0,19.4,clear
+363,Black Gram (Urd Beans),Azamgarh,2016-12-05,11650.0,1.2,19.4,clear
+364,Lentil(Masur),Azamgarh,2016-12-05,7085.0,2.2,19.4,clear
+365,Arhar (Tur/Red Gram),Azamgarh,2016-05-27,11300.0,2.0,37.4,clear
+366,Bengal Gram(Gram),Azamgarh,2016-05-27,5870.0,10.0,37.4,clear
+367,Black Gram (Urd Beans),Azamgarh,2016-05-27,11500.0,0.0,37.4,clear
+368,Lentil(Masur),Azamgarh,2016-05-27,7000.0,4.0,37.4,clear
+369,Arhar (Tur/Red Gram),Azamgarh,2016-05-28,11250.0,20.0,28.4,clear
+370,Bengal Gram(Gram),Azamgarh,2016-05-28,5880.0,12.0,28.4,clear
+371,Black Gram (Urd Beans),Azamgarh,2016-05-28,11400.0,1.0,28.4,clear
+372,Lentil(Masur),Azamgarh,2016-05-28,7000.0,7.5,28.4,clear
+373,Arhar (Tur/Red Gram),Azamgarh,2016-05-30,11320.0,15.0,35.0,clear
+374,Bengal Gram(Gram),Azamgarh,2016-05-30,5880.0,10.0,35.0,clear
+375,Black Gram (Urd Beans),Azamgarh,2016-05-30,11380.0,1.5,35.0,clear
+376,Lentil(Masur),Azamgarh,2016-05-30,6975.0,7.0,35.0,clear
+377,Arhar (Tur/Red Gram),Azamgarh,2016-05-31,11400.0,12.0,31.4,clear
+378,Bengal Gram(Gram),Azamgarh,2016-05-31,5900.0,7.5,31.4,clear
+379,Black Gram (Urd Beans),Azamgarh,2016-05-31,11430.0,0.0,31.4,clear
+380,Lentil(Masur),Azamgarh,2016-05-31,7000.0,0.0,31.4,clear
+381,Arhar (Tur/Red Gram),Azamgarh,2016-01-06,11450.0,10.0,22.0,clear
+382,Bengal Gram(Gram),Azamgarh,2016-01-06,5950.0,7.5,22.0,clear
+383,Black Gram (Urd Beans),Azamgarh,2016-01-06,11600.0,1.0,22.0,clear
+384,Lentil(Masur),Azamgarh,2016-01-06,7035.0,1.5,22.0,clear
+385,Arhar (Tur/Red Gram),Azamgarh,2016-03-06,11500.0,0.0,26.0,clear
+386,Bengal Gram(Gram),Azamgarh,2016-03-06,5980.0,6.5,26.0,clear
+387,Black Gram (Urd Beans),Azamgarh,2016-03-06,11700.0,0.5,26.0,clear
+388,Lentil(Masur),Azamgarh,2016-03-06,7070.0,3.0,26.0,clear
+389,Arhar (Tur/Red Gram),Azamgarh,2016-04-06,11550.0,0.0,37.0,clear
+390,Bengal Gram(Gram),Azamgarh,2016-04-06,6000.0,3.5,37.0,clear
+391,Black Gram (Urd Beans),Azamgarh,2016-04-06,11730.0,1.0,37.0,clear
+392,Lentil(Masur),Azamgarh,2016-04-06,7100.0,0.0,37.0,clear
+393,Arhar (Tur/Red Gram),Azamgarh,2016-06-06,11580.0,1.8,39.4,clear
+394,Bengal Gram(Gram),Azamgarh,2016-06-06,6000.0,4.0,39.4,clear
+395,Black Gram (Urd Beans),Azamgarh,2016-06-06,11800.0,0.0,39.4,clear
+396,Lentil(Masur),Azamgarh,2016-06-06,7100.0,1.2,39.4,clear
+397,Arhar (Tur/Red Gram),Azamgarh,2016-07-06,11600.0,2.0,27.6,clear
+398,Bengal Gram(Gram),Azamgarh,2016-07-06,6035.0,5.0,27.6,clear
+399,Black Gram (Urd Beans),Azamgarh,2016-07-06,11800.0,1.0,27.6,clear
+400,Lentil(Masur),Azamgarh,2016-07-06,7125.0,0.0,27.6,clear
+401,Arhar (Tur/Red Gram),Azamgarh,2016-08-06,11685.0,0.0,31.0,clear
+402,Bengal Gram(Gram),Azamgarh,2016-08-06,6050.0,6.0,31.0,clear
+403,Black Gram (Urd Beans),Azamgarh,2016-08-06,11850.0,0.0,31.0,clear
+404,Lentil(Masur),Azamgarh,2016-08-06,7135.0,1.2,31.0,clear
+405,Arhar (Tur/Red Gram),Azamgarh,2016-09-06,11700.0,5.0,30.0,clear
+406,Bengal Gram(Gram),Azamgarh,2016-09-06,6080.0,0.0,30.0,clear
+407,Black Gram (Urd Beans),Azamgarh,2016-09-06,11885.0,0.0,30.0,clear
+408,Lentil(Masur),Azamgarh,2016-09-06,7150.0,1.0,30.0,clear
+409,Arhar (Tur/Red Gram),Azamgarh,2016-10-06,11700.0,6.5,30.4,clear
+410,Bengal Gram(Gram),Azamgarh,2016-10-06,6090.0,5.0,30.4,clear
+411,Black Gram (Urd Beans),Azamgarh,2016-10-06,11900.0,0.0,30.4,clear
+412,Lentil(Masur),Azamgarh,2016-10-06,7150.0,0.8,30.4,clear
+413,Arhar (Tur/Red Gram),Azamgarh,2016-11-06,11700.0,8.0,27.0,clear
+414,Bengal Gram(Gram),Azamgarh,2016-11-06,6150.0,0.0,27.0,clear
+415,Black Gram (Urd Beans),Azamgarh,2016-11-06,11900.0,0.0,27.0,clear
+416,Lentil(Masur),Azamgarh,2016-11-06,7150.0,1.0,27.0,clear
+417,Arhar (Tur/Red Gram),Azamgarh,2016-06-13,11720.0,7.0,32.4,clear
+418,Bengal Gram(Gram),Azamgarh,2016-06-13,6185.0,3.5,32.4,clear
+419,Black Gram (Urd Beans),Azamgarh,2016-06-13,11950.0,0.0,32.4,clear
+420,Lentil(Masur),Azamgarh,2016-06-13,7160.0,0.0,32.4,clear
+421,Arhar (Tur/Red Gram),Azamgarh,2016-06-14,11800.0,6.0,39.0,clear
+422,Bengal Gram(Gram),Azamgarh,2016-06-14,6200.0,2.0,39.0,clear
+423,Black Gram (Urd Beans),Azamgarh,2016-06-14,12000.0,0.0,39.0,clear
+424,Arhar (Tur/Red Gram),Azamgarh,2016-06-15,11850.0,0.0,36.0,clear
+425,Bengal Gram(Gram),Azamgarh,2016-06-15,6285.0,0.0,36.0,clear
+426,Black Gram (Urd Beans),Azamgarh,2016-06-15,12300.0,0.8,36.0,clear
+427,Lentil(Masur),Azamgarh,2016-06-15,7185.0,1.5,36.0,clear
+428,Arhar (Tur/Red Gram),Azamgarh,2016-06-16,11880.0,8.5,31.0,clear
+429,Bengal Gram(Gram),Azamgarh,2016-06-16,6300.0,2.5,31.0,clear
+430,Black Gram (Urd Beans),Azamgarh,2016-06-16,12350.0,0.5,31.0,clear
+431,Lentil(Masur),Azamgarh,2016-06-16,7180.0,1.8,31.0,clear
+432,Arhar (Tur/Red Gram),Azamgarh,2016-06-17,12000.0,5.0,30.0,clear
+433,Bengal Gram(Gram),Azamgarh,2016-06-17,6325.0,3.0,30.0,clear
+434,Black Gram (Urd Beans),Azamgarh,2016-06-17,12400.0,0.0,30.0,clear
+435,Lentil(Masur),Azamgarh,2016-06-17,7180.0,1.0,30.0,clear
+436,Arhar (Tur/Red Gram),Azamgarh,2016-06-18,12200.0,6.5,31.4,clear
+437,Bengal Gram(Gram),Azamgarh,2016-06-18,6350.0,5.0,31.4,clear
+438,Black Gram (Urd Beans),Azamgarh,2016-06-18,12300.0,0.4,31.4,clear
+439,Lentil(Masur),Azamgarh,2016-06-18,7200.0,0.0,31.4,clear
+440,Arhar (Tur/Red Gram),Azamgarh,2016-06-20,12000.0,7.0,35.0,clear
+441,Arhar (Tur/Red Gram),Azamgarh,2016-06-21,11900.0,10.0,31.4,clear
+442,Bengal Gram(Gram),Azamgarh,2016-06-21,6500.0,7.0,31.4,clear
+443,Lentil(Masur),Azamgarh,2016-06-21,7150.0,0.5,31.4,clear
+444,Arhar (Tur/Red Gram),Azamgarh,2016-06-22,11850.0,2.0,29.4,clear
+445,Bengal Gram(Gram),Azamgarh,2016-06-22,6550.0,5.0,29.4,clear
+446,Black Gram (Urd Beans),Azamgarh,2016-06-22,11700.0,1.5,29.4,clear
+447,Lentil(Masur),Azamgarh,2016-06-22,7120.0,1.2,29.4,clear
+448,Arhar (Tur/Red Gram),Azamgarh,2016-06-23,11800.0,12.0,30.0,clear
+449,Bengal Gram(Gram),Azamgarh,2016-06-23,6580.0,0.0,30.0,clear
+450,Black Gram (Urd Beans),Azamgarh,2016-06-23,11850.0,1.0,30.0,clear
+451,Arhar (Tur/Red Gram),Azamgarh,2016-06-24,11800.0,7.0,34.4,clear
+452,Bengal Gram(Gram),Azamgarh,2016-06-24,6620.0,7.0,34.4,clear
+453,Black Gram (Urd Beans),Azamgarh,2016-06-24,11900.0,0.0,34.4,clear
+454,Lentil(Masur),Azamgarh,2016-06-24,7200.0,1.0,34.4,clear
+455,Arhar (Tur/Red Gram),Azamgarh,2016-06-25,11870.0,5.0,30.4,clear
+456,Black Gram (Urd Beans),Azamgarh,2016-06-25,12000.0,0.0,30.4,clear
+457,Lentil(Masur),Azamgarh,2016-06-25,7235.0,0.0,30.4,clear
+458,Arhar (Tur/Red Gram),Azamgarh,2016-06-27,11950.0,7.0,35.0,clear
+459,Bengal Gram(Gram),Azamgarh,2016-06-27,6700.0,6.5,35.0,clear
+460,Black Gram (Urd Beans),Azamgarh,2016-06-27,12300.0,1.2,35.0,clear
+461,Lentil(Masur),Azamgarh,2016-06-27,7255.0,2.0,35.0,clear
+462,Arhar (Tur/Red Gram),Azamgarh,2016-06-28,12000.0,0.0,36.4,clear
+463,Bengal Gram(Gram),Azamgarh,2016-06-28,6730.0,7.0,36.4,clear
+464,Black Gram (Urd Beans),Azamgarh,2016-06-28,12350.0,0.0,36.4,clear
+465,Lentil(Masur),Azamgarh,2016-06-28,7270.0,1.7,36.4,clear
+466,Arhar (Tur/Red Gram),Azamgarh,2016-06-29,12150.0,5.0,37.0,clear
+467,Bengal Gram(Gram),Azamgarh,2016-06-29,6800.0,5.0,37.0,clear
+468,Black Gram (Urd Beans),Azamgarh,2016-06-29,12300.0,0.0,37.0,clear
+469,Lentil(Masur),Azamgarh,2016-06-29,7265.0,1.5,37.0,clear
+470,Arhar (Tur/Red Gram),Azamgarh,2016-06-30,12300.0,0.0,37.0,clear
+471,Bengal Gram(Gram),Azamgarh,2016-06-30,6800.0,8.5,37.0,clear
+472,Black Gram (Urd Beans),Azamgarh,2016-06-30,12325.0,0.0,37.0,clear
+473,Lentil(Masur),Azamgarh,2016-06-30,7280.0,0.0,37.0,clear
+474,Arhar (Tur/Red Gram),Azamgarh,2016-01-07,12350.0,2.5,23.4,clear
+475,Bengal Gram(Gram),Azamgarh,2016-01-07,6825.0,10.0,23.4,clear
+476,Black Gram (Urd Beans),Azamgarh,2016-01-07,12350.0,5.0,23.4,clear
+477,Lentil(Masur),Azamgarh,2016-01-07,7285.0,2.0,23.4,clear
+478,Arhar (Tur/Red Gram),Azamgarh,2016-02-07,12300.0,9.0,24.0,clear
+479,Bengal Gram(Gram),Azamgarh,2016-02-07,6850.0,0.0,24.0,clear
+480,Black Gram (Urd Beans),Azamgarh,2016-02-07,12200.0,1.5,24.0,clear
+481,Lentil(Masur),Azamgarh,2016-02-07,7280.0,2.5,24.0,clear
+482,Arhar (Tur/Red Gram),Azamgarh,2016-04-07,12350.0,10.0,36.0,clear
+483,Bengal Gram(Gram),Azamgarh,2016-04-07,6900.0,10.0,36.0,clear
+484,Black Gram (Urd Beans),Azamgarh,2016-04-07,12350.0,2.0,36.0,clear
+485,Lentil(Masur),Azamgarh,2016-04-07,7300.0,3.0,36.0,clear
+486,Arhar (Tur/Red Gram),Azamgarh,2016-05-07,12400.0,13.0,36.0,clear
+487,Bengal Gram(Gram),Azamgarh,2016-05-07,6930.0,12.5,36.0,clear
+488,Black Gram (Urd Beans),Azamgarh,2016-05-07,12400.0,0.0,36.0,clear
+489,Lentil(Masur),Azamgarh,2016-05-07,7330.0,0.0,36.0,clear
+490,Arhar (Tur/Red Gram),Azamgarh,2016-06-07,12400.0,0.0,34.0,clear
+491,Bengal Gram(Gram),Azamgarh,2016-06-07,7000.0,9.0,34.0,clear
+492,Black Gram (Urd Beans),Azamgarh,2016-06-07,12450.0,1.8,34.0,clear
+493,Lentil(Masur),Azamgarh,2016-06-07,7350.0,2.0,34.0,clear
+494,Arhar (Tur/Red Gram),Azamgarh,2016-08-07,12475.0,10.0,29.4,clear
+495,Bengal Gram(Gram),Azamgarh,2016-08-07,7075.0,10.0,29.4,clear
+496,Black Gram (Urd Beans),Azamgarh,2016-08-07,12500.0,2.0,29.4,clear
+497,Arhar (Tur/Red Gram),Azamgarh,2016-09-07,12350.0,0.0,27.0,clear
+498,Bengal Gram(Gram),Azamgarh,2016-09-07,7100.0,12.0,27.0,clear
+499,Black Gram (Urd Beans),Azamgarh,2016-09-07,12450.0,0.0,27.0,clear
+500,Lentil(Masur),Azamgarh,2016-09-07,7385.0,3.0,27.0,clear
+501,Arhar (Tur/Red Gram),Azamgarh,2016-11-07,12345.0,0.0,24.0,clear
+502,Bengal Gram(Gram),Azamgarh,2016-11-07,7150.0,13.0,24.0,clear
+503,Lentil(Masur),Azamgarh,2016-11-07,7400.0,6.0,24.0,clear
+504,Bengal Gram(Gram),Azamgarh,2016-02-01,5500.0,10.0,25.0,clear
+505,Black Gram (Urd Beans),Azamgarh,2016-02-01,10600.0,0.0,25.0,clear
+506,Bengal Gram(Gram),Azamgarh,2016-08-02,5300.0,24.0,31.4,clear
+507,Black Gram (Urd Beans),Azamgarh,2016-08-02,10650.0,2.0,31.4,clear
+508,Lentil(Masur),Azamgarh,2016-08-02,6950.0,3.0,31.4,clear
+509,Bengal Gram(Gram),Azamgarh,2016-05-25,5870.0,0.0,33.2,clear
+510,Black Gram (Urd Beans),Azamgarh,2016-05-25,11550.0,3.0,33.2,clear
+511,Bengal Gram(Gram),Azamgarh,2016-05-26,5885.0,7.5,36.4,clear
+512,Black Gram (Urd Beans),Azamgarh,2016-05-26,11535.0,4.0,36.4,clear
+513,Bengal Gram(Gram),Azamgarh,2016-02-06,5985.0,0.0,16.0,clear
+514,Black Gram (Urd Beans),Azamgarh,2016-02-06,11680.0,0.0,16.0,clear
+515,Lentil(Masur),Azamgarh,2016-02-06,7050.0,2.0,16.0,clear
+516,Bengal Gram(Gram),Azamgarh,2016-12-07,7150.0,12.0,17.4,clear
+517,Lentil(Masur),Azamgarh,2016-12-07,7400.0,6.0,17.4,clear
+518,Bengal Gram(Gram),Azamgarh,2016-07-13,7160.0,11.0,32.4,clear
+519,Lentil(Masur),Azamgarh,2016-07-13,7400.0,5.5,32.4,clear
+520,Bengal Gram(Gram),Azamgarh,2016-07-14,7165.0,10.0,32.4,clear
+521,Lentil(Masur),Azamgarh,2016-07-14,7390.0,6.5,32.4,clear
+522,Bengal Gram(Gram),Azamgarh,2016-07-15,7175.0,9.0,31.0,clear
+523,Lentil(Masur),Azamgarh,2016-07-15,7390.0,8.5,31.0,clear
+524,Bengal Gram(Gram),Azamgarh,2016-07-18,7150.0,10.0,31.0,clear
+525,Lentil(Masur),Azamgarh,2016-07-18,7400.0,7.5,31.0,clear
+526,Bengal Gram(Gram),Azamgarh,2016-07-22,7135.0,12.0,30.0,clear
+527,Lentil(Masur),Azamgarh,2016-07-22,7415.0,7.0,30.0,clear
+528,Bengal Gram(Gram),Azamgarh,2016-07-23,7140.0,11.0,32.4,clear
+529,Lentil(Masur),Azamgarh,2016-07-23,7400.0,9.0,32.4,clear
+530,Bengal Gram(Gram),Azamgarh,2016-07-26,7160.0,8.0,29.4,clear
+531,Bengal Gram(Gram),Azamgarh,2016-07-27,7170.0,7.0,27.6,clear
+532,Lentil(Masur),Azamgarh,2016-07-27,7425.0,6.8,27.6,clear
+533,Bengal Gram(Gram),Azamgarh,2016-07-28,7175.0,7.5,30.0,clear
+534,Lentil(Masur),Azamgarh,2016-07-28,7430.0,7.2,30.0,clear
+535,Bengal Gram(Gram),Azamgarh,2016-07-30,7200.0,5.0,30.0,clear
+536,Lentil(Masur),Azamgarh,2016-07-30,7450.0,7.5,30.0,clear
+537,Bengal Gram(Gram),Azamgarh,2016-01-08,7250.0,4.0,24.4,clear
+538,Lentil(Masur),Azamgarh,2016-01-08,7460.0,5.0,24.4,clear
+539,Bengal Gram(Gram),Azamgarh,2016-02-08,7300.0,3.5,23.4,clear
+540,Lentil(Masur),Azamgarh,2016-02-08,7470.0,4.5,23.4,clear
+541,Bengal Gram(Gram),Azamgarh,2016-03-08,7350.0,3.2,29.0,clear
+542,Lentil(Masur),Azamgarh,2016-03-08,7500.0,4.2,29.0,clear
+543,Bengal Gram(Gram),Azamgarh,2016-04-08,7400.0,3.0,36.4,clear
+544,Lentil(Masur),Azamgarh,2016-04-08,7500.0,4.0,36.4,clear
+545,Bengal Gram(Gram),Azamgarh,2016-05-08,7450.0,2.5,37.0,clear
+546,Lentil(Masur),Azamgarh,2016-05-08,7490.0,4.8,37.0,clear
+547,Bengal Gram(Gram),Azamgarh,2016-06-08,7500.0,2.0,35.4,clear
+548,Lentil(Masur),Azamgarh,2016-06-08,7400.0,6.5,35.4,clear
+549,Bengal Gram(Gram),Azamgarh,2016-08-08,7525.0,3.5,30.0,clear
+550,Lentil(Masur),Azamgarh,2016-08-08,7380.0,8.5,30.0,clear
+551,Bengal Gram(Gram),Azamgarh,2016-09-08,7540.0,3.0,27.0,clear
+552,Lentil(Masur),Azamgarh,2016-09-08,7375.0,9.5,27.0,clear
+553,Bengal Gram(Gram),Azamgarh,2016-10-08,7530.0,3.5,29.4,clear
+554,Lentil(Masur),Azamgarh,2016-10-08,7380.0,9.0,29.4,clear
+555,Bengal Gram(Gram),Azamgarh,2016-11-08,7550.0,3.2,25.0,clear
+556,Lentil(Masur),Azamgarh,2016-11-08,7385.0,8.0,25.0,clear
+557,Bengal Gram(Gram),Azamgarh,2016-12-08,7600.0,3.0,16.4,clear
+558,Lentil(Masur),Azamgarh,2016-12-08,7350.0,9.0,16.4,clear
+559,Bengal Gram(Gram),Azamgarh,2016-08-13,7650.0,3.8,30.4,clear
+560,Lentil(Masur),Azamgarh,2016-08-13,7350.0,10.0,30.4,clear
+561,Bengal Gram(Gram),Azamgarh,2016-08-16,7775.0,4.0,32.0,clear
+562,Lentil(Masur),Azamgarh,2016-08-16,7340.0,12.0,32.0,clear
+563,Bengal Gram(Gram),Azamgarh,2016-08-18,7900.0,3.2,29.0,clear
+564,Lentil(Masur),Azamgarh,2016-08-18,7300.0,14.0,29.0,clear
+565,Bengal Gram(Gram),Azamgarh,2016-08-19,7950.0,3.0,31.4,clear
+566,Lentil(Masur),Azamgarh,2016-08-19,7275.0,15.0,31.4,clear
+567,Bengal Gram(Gram),Azamgarh,2016-08-22,8020.0,2.5,28.4,clear
+568,Lentil(Masur),Azamgarh,2016-08-22,7260.0,9.0,28.4,clear
+569,Bengal Gram(Gram),Azamgarh,2016-08-23,8025.0,2.2,30.0,clear
+570,Lentil(Masur),Azamgarh,2016-08-23,7265.0,7.5,30.0,clear
+571,Bengal Gram(Gram),Azamgarh,2016-08-24,8030.0,2.0,32.4,clear
+572,Lentil(Masur),Azamgarh,2016-08-24,7250.0,8.5,32.4,clear
+573,Bengal Gram(Gram),Azamgarh,2016-08-25,8025.0,8.0,33.4,clear
+574,Lentil(Masur),Azamgarh,2016-08-25,7200.0,7.0,33.4,clear
+575,Bengal Gram(Gram),Azamgarh,2016-08-26,8040.0,7.0,31.0,clear
+576,Lentil(Masur),Azamgarh,2016-08-26,7125.0,6.0,31.0,clear
+577,Bengal Gram(Gram),Azamgarh,2016-08-27,8050.0,5.5,32.4,clear
+578,Lentil(Masur),Azamgarh,2016-08-27,7115.0,6.5,32.4,clear
+579,Bengal Gram(Gram),Azamgarh,2016-08-30,8070.0,4.5,32.0,clear
+580,Lentil(Masur),Azamgarh,2016-08-30,7100.0,7.5,32.0,clear
+581,Bengal Gram(Gram),Azamgarh,2016-08-31,8075.0,4.0,31.4,clear
+582,Lentil(Masur),Azamgarh,2016-08-31,7075.0,8.0,31.4,clear
+583,Bengal Gram(Gram),Azamgarh,2016-01-09,8080.0,3.8,21.0,clear
+584,Bengal Gram(Gram),Azamgarh,2016-02-09,8090.0,3.5,23.4,clear
+585,Bengal Gram(Gram),Azamgarh,2016-03-09,8100.0,3.0,30.0,clear
+586,Lentil(Masur),Azamgarh,2016-03-09,7060.0,9.0,30.0,clear
+587,Bengal Gram(Gram),Azamgarh,2016-09-09,8100.0,8.0,32.4,clear
+588,Lentil(Masur),Azamgarh,2016-09-09,7020.0,9.0,32.4,clear
+589,Bengal Gram(Gram),Azamgarh,2016-10-09,8075.0,10.0,29.0,clear
+590,Lentil(Masur),Azamgarh,2016-10-09,7000.0,9.2,29.0,clear
+591,Bengal Gram(Gram),Azamgarh,2016-12-09,8070.0,11.5,13.4,clear
+592,Lentil(Masur),Azamgarh,2016-12-09,6975.0,9.5,13.4,clear
+593,Bengal Gram(Gram),Azamgarh,2016-09-13,8060.0,12.5,30.4,clear
+594,Lentil(Masur),Azamgarh,2016-09-13,6965.0,10.0,30.4,clear
+595,Bengal Gram(Gram),Azamgarh,2016-09-14,8050.0,14.0,29.0,clear
+596,Bengal Gram(Gram),Azamgarh,2016-09-16,8035.0,11.0,32.0,clear
+597,Lentil(Masur),Azamgarh,2016-09-16,6960.0,7.0,32.0,clear
+598,Bengal Gram(Gram),Azamgarh,2016-09-17,8030.0,12.0,30.4,clear
+599,Lentil(Masur),Azamgarh,2016-09-17,6950.0,7.5,30.4,clear
+600,Bengal Gram(Gram),Azamgarh,2016-09-19,8025.0,13.0,33.0,clear
+601,Lentil(Masur),Azamgarh,2016-09-19,6925.0,8.0,33.0,clear
+602,Bengal Gram(Gram),Azamgarh,2016-09-20,8020.0,13.5,32.0,clear
+603,Lentil(Masur),Azamgarh,2016-09-20,6900.0,10.0,32.0,clear
+604,Bengal Gram(Gram),Azamgarh,2016-09-21,8010.0,14.5,28.0,clear
+605,Lentil(Masur),Azamgarh,2016-09-21,6875.0,10.2,28.0,clear
+606,Bengal Gram(Gram),Azamgarh,2016-09-22,8000.0,15.0,30.4,clear
+607,Lentil(Masur),Azamgarh,2016-09-22,6850.0,11.0,30.4,clear
+608,Bengal Gram(Gram),Azamgarh,2016-09-24,8010.0,11.0,28.8,clear
+609,Bengal Gram(Gram),Azamgarh,2016-09-26,8025.0,10.0,27.0,clear
+610,Bengal Gram(Gram),Azamgarh,2016-09-27,8030.0,9.0,30.0,clear
+611,Bengal Gram(Gram),Azamgarh,2016-09-28,8040.0,8.0,26.0,clear
+612,Bengal Gram(Gram),Azamgarh,2016-09-29,8050.0,7.0,25.0,clear
+613,Bengal Gram(Gram),Azamgarh,2016-01-10,8045.0,8.0,22.0,clear
+614,Lentil(Masur),Azamgarh,2016-01-10,6600.0,8.5,22.0,clear
+615,Bengal Gram(Gram),Azamgarh,2016-03-10,8050.0,7.5,31.4,clear
+616,Lentil(Masur),Azamgarh,2016-03-10,6525.0,8.8,31.4,clear
+617,Bengal Gram(Gram),Azamgarh,2016-04-10,8060.0,7.0,38.4,clear
+618,Lentil(Masur),Azamgarh,2016-04-10,6500.0,9.0,38.4,clear
+619,Bengal Gram(Gram),Azamgarh,2016-05-10,8075.0,6.0,38.4,clear
+620,Lentil(Masur),Azamgarh,2016-05-10,6490.0,9.2,38.4,clear
+621,Bengal Gram(Gram),Azamgarh,2016-06-10,8075.0,5.5,37.6,clear
+622,Lentil(Masur),Azamgarh,2016-06-10,6480.0,9.5,37.6,clear
+623,Bengal Gram(Gram),Azamgarh,2016-07-10,8085.0,5.0,29.4,clear
+624,Bengal Gram(Gram),Azamgarh,2016-08-10,8100.0,4.5,30.0,clear
+625,Bengal Gram(Gram),Azamgarh,2016-10-10,8110.0,4.0,30.0,clear
+626,Lentil(Masur),Azamgarh,2016-10-10,6440.0,10.2,30.0,clear
+627,Bengal Gram(Gram),Azamgarh,2016-11-10,8115.0,3.8,26.0,clear
+628,Lentil(Masur),Azamgarh,2016-11-10,6445.0,10.0,26.0,clear
+629,Bengal Gram(Gram),Azamgarh,2016-12-10,8120.0,3.5,14.4,clear
+630,Bengal Gram(Gram),Azamgarh,2016-10-13,8150.0,3.0,30.0,clear
+631,Bengal Gram(Gram),Azamgarh,2016-10-14,8135.0,2.8,29.4,clear
+632,Bengal Gram(Gram),Azamgarh,2016-10-15,8150.0,2.5,28.4,clear
+633,Bengal Gram(Gram),Azamgarh,2016-10-17,8175.0,2.2,29.0,clear
+634,Lentil(Masur),Azamgarh,2016-10-17,6425.0,10.5,29.0,clear
+635,Bengal Gram(Gram),Azamgarh,2016-10-18,8185.0,2.0,28.4,clear
+636,Lentil(Masur),Azamgarh,2016-10-18,6415.0,10.8,28.4,clear
+637,Bengal Gram(Gram),Azamgarh,2016-10-19,8190.0,1.8,29.4,clear
+638,Lentil(Masur),Azamgarh,2016-10-19,6400.0,11.0,29.4,clear
+639,Bengal Gram(Gram),Azamgarh,2016-10-20,8200.0,1.5,28.0,clear
+640,Bengal Gram(Gram),Azamgarh,2016-10-21,8220.0,1.2,30.5,clear
+641,Bengal Gram(Gram),Azamgarh,2016-10-22,8500.0,1.0,29.0,clear
+642,Bengal Gram(Gram),Azamgarh,2016-10-24,8700.0,0.0,29.4,clear
+643,Bengal Gram(Gram),Azamgarh,2016-10-25,8750.0,0.0,28.0,clear
+644,Bengal Gram(Gram),Azamgarh,2016-10-26,8825.0,0.0,27.4,clear
+645,Bengal Gram(Gram),Azamgarh,2016-10-27,8900.0,0.0,28.4,clear
+646,Lentil(Masur),Azamgarh,2016-10-27,6540.0,3.0,28.4,clear
+647,Bengal Gram(Gram),Azamgarh,2016-10-28,9000.0,0.0,29.4,clear
+648,Bengal Gram(Gram),Azamgarh,2016-10-29,9000.0,2.5,28.0,clear
+649,Bengal Gram(Gram),Azamgarh,2016-01-11,9250.0,6.0,22.4,clear
+650,Bengal Gram(Gram),Azamgarh,2016-02-11,9300.0,5.5,24.0,clear
+651,Lentil(Masur),Azamgarh,2016-02-11,6550.0,2.8,24.0,clear
+652,Bengal Gram(Gram),Azamgarh,2016-03-11,9350.0,5.2,32.0,clear
+653,Bengal Gram(Gram),Azamgarh,2016-04-11,9360.0,5.0,38.4,clear
+654,Bengal Gram(Gram),Azamgarh,2016-05-11,9370.0,4.8,29.0,clear
+655,Lentil(Masur),Azamgarh,2016-05-11,6580.0,2.0,29.0,clear
+656,Bengal Gram(Gram),Azamgarh,2016-07-11,9400.0,4.0,31.0,clear
+657,Bengal Gram(Gram),Azamgarh,2016-08-11,9400.0,4.0,29.0,clear
+658,Bengal Gram(Gram),Azamgarh,2016-09-11,9420.0,3.2,25.4,clear
+659,Bengal Gram(Gram),Azamgarh,2016-10-11,9450.0,3.0,30.0,clear
+660,Bengal Gram(Gram),Azamgarh,2016-11-11,9480.0,2.8,26.0,clear
+661,Bengal Gram(Gram),Azamgarh,2016-12-11,9500.0,2.6,15.4,clear
+662,Bengal Gram(Gram),Azamgarh,2016-11-14,9525.0,2.5,26.0,clear
+663,Bengal Gram(Gram),Azamgarh,2016-11-15,9540.0,2.2,25.0,clear
+664,Bengal Gram(Gram),Azamgarh,2016-11-16,9550.0,2.0,21.0,clear
+665,Bengal Gram(Gram),Azamgarh,2016-11-17,9560.0,1.8,25.0,clear
+666,Bengal Gram(Gram),Azamgarh,2016-11-18,9600.0,1.5,22.4,clear
+667,Bengal Gram(Gram),Azamgarh,2016-11-19,9650.0,1.4,23.6,clear
+668,Bengal Gram(Gram),Azamgarh,2016-11-21,9700.0,1.2,25.0,clear
+669,Bengal Gram(Gram),Azamgarh,2016-11-22,9720.0,1.0,25.0,clear
+670,Bengal Gram(Gram),Azamgarh,2016-11-23,9750.0,8.0,25.0,clear
+671,Bengal Gram(Gram),Azamgarh,2016-11-24,9700.0,7.0,23.4,clear
+672,Bengal Gram(Gram),Azamgarh,2016-11-26,9650.0,8.2,25.0,clear
+673,Bengal Gram(Gram),Azamgarh,2016-11-28,9625.0,8.0,21.4,clear
+674,Bengal Gram(Gram),Azamgarh,2016-01-12,9690.0,5.0,22.0,clear
+675,Bengal Gram(Gram),Azamgarh,2016-02-12,9680.0,5.2,25.4,clear
+676,Bengal Gram(Gram),Azamgarh,2016-03-12,9690.0,5.0,26.4,clear
+677,Bengal Gram(Gram),Azamgarh,2016-06-12,9690.0,6.8,32.4,clear
+678,Bengal Gram(Gram),Azamgarh,2016-07-12,9700.0,6.5,31.4,clear
+679,Bengal Gram(Gram),Azamgarh,2016-08-12,9680.0,7.5,30.0,clear
+680,Bengal Gram(Gram),Azamgarh,2016-09-12,9675.0,7.0,28.0,clear
+681,Bengal Gram(Gram),Azamgarh,2016-10-12,9680.0,8.5,31.0,clear
+682,Bengal Gram(Gram),Azamgarh,2016-12-12,9675.0,9.0,15.4,clear
+683,Bengal Gram(Gram),Azamgarh,2016-12-15,9675.0,9.5,20.0,clear
+684,Bengal Gram(Gram),Azamgarh,2016-12-16,9640.0,11.0,18.4,clear
+685,Bengal Gram(Gram),Azamgarh,2016-12-17,9600.0,12.5,20.0,clear
+686,Bengal Gram(Gram),Azamgarh,2016-12-19,9575.0,13.0,15.4,clear
+687,Bengal Gram(Gram),Azamgarh,2016-12-20,9550.0,14.0,19.0,clear
+688,Bengal Gram(Gram),Azamgarh,2016-12-21,9540.0,14.5,19.4,clear
+689,Bengal Gram(Gram),Azamgarh,2016-12-23,9550.0,9.5,20.4,clear
+690,Bengal Gram(Gram),Azamgarh,2016-12-24,9540.0,10.0,21.0,clear
+691,Bengal Gram(Gram),Azamgarh,2016-12-26,9525.0,11.0,17.0,clear
+692,Bengal Gram(Gram),Azamgarh,2016-12-27,9530.0,8.5,19.0,clear
+693,Bengal Gram(Gram),Azamgarh,2016-12-29,9450.0,8.0,14.0,clear
+694,Lentil(Masur),Azamgarh,2016-07-16,7385.0,7.0,28.4,clear
+695,Lentil(Masur),Azamgarh,2016-07-25,7415.0,8.8,30.0,clear
+696,Lentil(Masur),Azamgarh,2016-08-17,7330.0,13.0,29.0,clear
+697,Lentil(Masur),Azamgarh,2016-09-15,6950.0,11.5,30.4,clear
+698,Bengal Gram(Gram),Azamgarh,2017-02-01,9540.0,7.0,19.0,clear
+699,Bengal Gram(Gram),Azamgarh,2017-03-01,9425.0,8.5,28.6,clear
+700,Bengal Gram(Gram),Azamgarh,2017-05-01,9380.0,9.5,30.0,clear
+701,Bengal Gram(Gram),Azamgarh,2017-06-01,9375.0,9.8,37.0,clear
+702,Bengal Gram(Gram),Azamgarh,2017-07-01,9250.0,10.8,31.4,clear
+703,Bengal Gram(Gram),Azamgarh,2017-09-01,9100.0,11.0,30.0,clear
+704,Bengal Gram(Gram),Azamgarh,2017-11-01,9060.0,12.0,26.0,clear
+705,Bengal Gram(Gram),Azamgarh,2017-01-13,8880.0,13.0,11.6,clear
+706,Bengal Gram(Gram),Azamgarh,2017-01-14,8880.0,12.8,17.0,clear
+707,Bengal Gram(Gram),Azamgarh,2017-01-16,8875.0,13.2,19.0,clear
+708,Bengal Gram(Gram),Azamgarh,2017-01-17,8870.0,13.8,22.0,clear
+709,Bengal Gram(Gram),Azamgarh,2017-01-18,8875.0,13.0,20.4,clear
+710,Bengal Gram(Gram),Azamgarh,2017-01-20,8890.0,10.0,22.4,clear
+711,Bengal Gram(Gram),Azamgarh,2017-01-21,8900.0,11.0,22.0,clear
+712,Bengal Gram(Gram),Azamgarh,2017-01-23,8875.0,12.0,24.0,clear
+713,Bengal Gram(Gram),Azamgarh,2017-01-24,8880.0,11.0,25.0,clear
+714,Bengal Gram(Gram),Azamgarh,2017-01-25,8900.0,10.5,23.4,clear
+715,Bengal Gram(Gram),Azamgarh,2017-01-26,8925.0,10.0,17.0,clear
+716,Bengal Gram(Gram),Azamgarh,2017-01-27,8950.0,9.0,20.0,clear
+717,Bengal Gram(Gram),Azamgarh,2017-01-28,8955.0,8.8,20.4,clear
+718,Bengal Gram(Gram),Azamgarh,2017-01-30,8925.0,9.0,19.0,clear
+719,Bengal Gram(Gram),Azamgarh,2017-01-02,8800.0,11.0,18.0,clear
+720,Bengal Gram(Gram),Azamgarh,2017-02-02,8800.0,11.0,18.0,clear
+721,Bengal Gram(Gram),Azamgarh,2017-03-02,8800.0,11.0,28.4,clear
+722,Bengal Gram(Gram),Azamgarh,2017-04-02,8775.0,12.0,36.4,clear
+723,Bengal Gram(Gram),Azamgarh,2017-06-02,8765.0,13.0,40.0,clear
+724,Bengal Gram(Gram),Azamgarh,2017-07-02,8750.0,15.0,31.4,clear
+725,Bengal Gram(Gram),Azamgarh,2017-08-02,8660.0,14.2,28.4,clear
+726,Bengal Gram(Gram),Azamgarh,2017-09-02,8755.0,13.5,27.4,clear
+727,Bengal Gram(Gram),Azamgarh,2017-10-02,8700.0,14.0,31.4,clear
+728,Bengal Gram(Gram),Azamgarh,2017-11-02,8660.0,14.2,25.4,clear
+729,Bengal Gram(Gram),Azamgarh,2017-02-13,8600.0,14.5,22.4,clear
+730,Bengal Gram(Gram),Azamgarh,2017-02-14,8580.0,15.0,23.4,clear
+731,Bengal Gram(Gram),Azamgarh,2017-02-15,8600.0,11.0,21.4,clear
+732,Bengal Gram(Gram),Azamgarh,2017-02-16,8575.0,12.0,24.4,clear
+733,Bengal Gram(Gram),Azamgarh,2017-02-17,8550.0,13.0,24.4,clear
+734,Bengal Gram(Gram),Azamgarh,2017-02-18,8500.0,13.5,25.0,clear
+735,Bengal Gram(Gram),Azamgarh,2017-02-20,8475.0,14.0,28.0,clear
+736,Bengal Gram(Gram),Azamgarh,2017-02-21,8470.0,14.5,23.4,clear
+737,Bengal Gram(Gram),Azamgarh,2017-02-22,8450.0,14.8,25.4,clear
+738,Bengal Gram(Gram),Azamgarh,2017-02-23,8425.0,15.0,25.0,clear
+739,Bengal Gram(Gram),Azamgarh,2017-02-24,8400.0,15.5,24.0,clear
+740,Bengal Gram(Gram),Azamgarh,2017-02-25,8380.0,15.8,25.4,clear
+741,Bengal Gram(Gram),Azamgarh,2017-02-27,8350.0,16.0,26.4,clear
+742,Bengal Gram(Gram),Azamgarh,2017-03-03,8250.0,18.0,30.0,clear
+743,Lentil(Masur),Azamgarh,2017-03-03,5990.0,7.0,30.0,clear
+744,Bengal Gram(Gram),Azamgarh,2017-04-03,8200.0,18.5,38.6,clear
+745,Bengal Gram(Gram),Azamgarh,2017-07-03,8100.0,19.0,30.0,clear
+746,Bengal Gram(Gram),Azamgarh,2017-09-03,7900.0,19.8,32.0,clear
+747,Bengal Gram(Gram),Azamgarh,2017-10-03,7875.0,20.0,30.0,clear
+748,Bengal Gram(Gram),Azamgarh,2017-11-03,7850.0,20.5,26.0,clear
+749,Bengal Gram(Gram),Azamgarh,2017-03-15,7450.0,22.0,28.0,clear
+750,Lentil(Masur),Azamgarh,2017-03-15,5940.0,7.5,28.0,clear
+751,Bengal Gram(Gram),Azamgarh,2017-03-17,7150.0,23.2,28.0,clear
+752,Lentil(Masur),Azamgarh,2017-03-17,5900.0,8.5,28.0,clear
+753,Bengal Gram(Gram),Azamgarh,2017-03-20,6860.0,26.5,28.4,clear
+754,Lentil(Masur),Azamgarh,2017-03-20,5875.0,9.5,28.4,clear
+755,Bengal Gram(Gram),Azamgarh,2017-03-21,6860.0,26.5,29.4,clear
+756,Bengal Gram(Gram),Azamgarh,2017-03-22,6775.0,27.0,30.4,clear
+757,Lentil(Masur),Azamgarh,2017-03-22,5800.0,11.0,30.4,clear
+758,Bengal Gram(Gram),Azamgarh,2017-03-24,6700.0,28.0,35.0,clear
+759,Bengal Gram(Gram),Azamgarh,2017-03-25,6675.0,28.5,27.0,clear
+760,Bengal Gram(Gram),Azamgarh,2017-03-27,6625.0,28.8,33.6,clear
+761,Bengal Gram(Gram),Azamgarh,2017-03-28,6580.0,29.0,33.4,clear
+762,Bengal Gram(Gram),Azamgarh,2017-03-29,6575.0,29.5,36.4,clear
+763,Lentil(Masur),Azamgarh,2017-03-29,5725.0,8.0,36.4,clear
+764,Bengal Gram(Gram),Azamgarh,2017-03-30,6550.0,29.8,37.4,clear
+765,Bengal Gram(Gram),Azamgarh,2017-01-04,6500.0,31.0,18.4,clear
+766,Lentil(Masur),Azamgarh,2017-01-04,5725.0,8.0,18.4,clear
+767,Bengal Gram(Gram),Azamgarh,2017-03-04,6540.0,17.0,23.0,clear
+768,Bengal Gram(Gram),Azamgarh,2017-04-04,6520.0,17.5,28.0,clear
+769,Bengal Gram(Gram),Azamgarh,2017-05-04,6510.0,18.8,37.0,clear
+770,Bengal Gram(Gram),Azamgarh,2017-06-04,6500.0,20.0,42.0,clear
+771,Bengal Gram(Gram),Azamgarh,2017-07-04,6480.0,21.0,27.0,clear
+772,Bengal Gram(Gram),Azamgarh,2017-08-04,6490.0,16.0,31.0,clear
+773,Bengal Gram(Gram),Azamgarh,2017-10-04,6500.0,15.0,29.0,clear
+774,Bengal Gram(Gram),Azamgarh,2017-11-04,6510.0,13.0,26.4,clear
+775,Bengal Gram(Gram),Azamgarh,2017-12-04,6525.0,10.0,20.4,clear
+776,Bengal Gram(Gram),Azamgarh,2017-04-13,6535.0,8.5,35.0,clear
+777,Bengal Gram(Gram),Azamgarh,2017-04-14,6540.0,8.0,36.4,clear
+778,Bengal Gram(Gram),Azamgarh,2017-04-15,6550.0,7.5,33.4,clear
+779,Bengal Gram(Gram),Azamgarh,2017-04-17,6540.0,8.0,35.0,clear
+780,Bengal Gram(Gram),Azamgarh,2017-04-18,6525.0,8.5,35.4,clear
+781,Bengal Gram(Gram),Azamgarh,2017-04-19,6500.0,9.0,38.0,clear
+782,Bengal Gram(Gram),Azamgarh,2017-04-20,6480.0,9.5,33.0,clear
+783,Bengal Gram(Gram),Azamgarh,2017-04-21,6475.0,9.8,25.0,clear
+784,Bengal Gram(Gram),Azamgarh,2017-04-22,6480.0,6.0,34.0,clear
+785,Bengal Gram(Gram),Azamgarh,2017-04-24,6440.0,5.0,35.4,clear
+786,Bengal Gram(Gram),Azamgarh,2017-04-25,6485.0,5.5,37.4,clear
+787,Bengal Gram(Gram),Azamgarh,2017-04-26,6475.0,6.5,38.0,clear
+788,Bengal Gram(Gram),Azamgarh,2017-04-27,6470.0,6.8,38.4,clear
+789,Bengal Gram(Gram),Azamgarh,2017-04-28,6460.0,7.0,30.0,clear
+790,Bengal Gram(Gram),Azamgarh,2017-01-05,6455.0,6.5,18.4,clear
+791,Bengal Gram(Gram),Azamgarh,2017-03-05,6400.0,8.5,26.0,clear
+792,Bengal Gram(Gram),Azamgarh,2017-04-05,6375.0,9.0,32.4,clear
+793,Bengal Gram(Gram),Azamgarh,2017-05-05,6350.0,9.5,37.0,clear
+794,Bengal Gram(Gram),Azamgarh,2017-06-05,6325.0,9.8,35.0,clear
+795,Bengal Gram(Gram),Azamgarh,2017-08-05,6290.0,10.0,29.4,clear
+796,Bengal Gram(Gram),Azamgarh,2017-09-05,6280.0,10.5,32.0,clear
+797,Bengal Gram(Gram),Azamgarh,2017-10-05,6250.0,10.8,30.4,clear
+798,Bengal Gram(Gram),Azamgarh,2017-11-05,6225.0,11.0,27.4,clear
+799,Bengal Gram(Gram),Azamgarh,2017-12-05,6240.0,9.5,19.4,clear
+800,Bengal Gram(Gram),Azamgarh,2017-05-13,6270.0,8.0,35.4,clear
+801,Bengal Gram(Gram),Azamgarh,2017-05-15,6275.0,8.5,38.4,clear
+802,Bengal Gram(Gram),Azamgarh,2017-05-16,6220.0,9.0,37.4,clear
+803,Bengal Gram(Gram),Azamgarh,2017-05-17,6200.0,9.5,33.0,clear
+804,Bengal Gram(Gram),Azamgarh,2017-05-18,6225.0,8.8,37.0,clear
+805,Bengal Gram(Gram),Azamgarh,2017-05-19,6230.0,8.0,38.4,clear
+806,Bengal Gram(Gram),Azamgarh,2017-05-20,6240.0,7.5,39.4,clear
+807,Bengal Gram(Gram),Azamgarh,2017-05-22,6255.0,8.5,40.0,clear
+808,Bengal Gram(Gram),Azamgarh,2017-05-23,6275.0,7.5,36.0,clear
+809,Bengal Gram(Gram),Azamgarh,2017-05-24,6300.0,6.5,39.0,clear
+810,Bengal Gram(Gram),Azamgarh,2017-05-25,6340.0,6.0,41.0,clear
+811,Bengal Gram(Gram),Azamgarh,2017-05-26,6360.0,5.0,39.0,clear
+812,Bengal Gram(Gram),Azamgarh,2017-05-27,6355.0,5.5,30.4,clear
+813,Bengal Gram(Gram),Azamgarh,2017-05-29,6350.0,6.0,34.4,clear
+814,Bengal Gram(Gram),Azamgarh,2017-05-30,6360.0,5.2,32.0,clear
+815,Bengal Gram(Gram),Azamgarh,2017-03-06,6425.0,3.8,21.0,clear
+816,Bengal Gram(Gram),Azamgarh,2017-05-06,6450.0,3.5,39.0,clear
+817,Bengal Gram(Gram),Azamgarh,2017-06-06,6465.0,3.2,28.0,clear
+818,Bengal Gram(Gram),Azamgarh,2017-07-06,6475.0,3.0,28.4,clear
+819,Bengal Gram(Gram),Azamgarh,2017-08-06,6475.0,5.2,33.0,clear
+820,Bengal Gram(Gram),Azamgarh,2017-10-06,6495.0,4.5,32.6,clear
+821,Bengal Gram(Gram),Azamgarh,2017-12-06,6500.0,4.0,22.4,clear
+822,Bengal Gram(Gram),Azamgarh,2017-06-13,6515.0,3.5,37.4,clear
+823,Bengal Gram(Gram),Azamgarh,2017-06-14,6540.0,3.0,41.0,clear
+824,Bengal Gram(Gram),Azamgarh,2017-06-15,6550.0,2.8,35.4,clear
+825,Bengal Gram(Gram),Azamgarh,2017-06-16,6560.0,2.5,31.0,clear
+826,Bengal Gram(Gram),Azamgarh,2017-06-17,6575.0,2.2,37.4,clear
+827,Bengal Gram(Gram),Azamgarh,2017-06-19,6585.0,2.0,38.0,clear
+828,Bengal Gram(Gram),Azamgarh,2017-06-20,6570.0,4.8,30.4,rain
+829,Bengal Gram(Gram),Azamgarh,2017-06-21,6560.0,5.0,30.0,clear
+830,Bengal Gram(Gram),Azamgarh,2017-06-22,6525.0,5.8,30.4,clear
+831,Bengal Gram(Gram),Azamgarh,2017-06-23,6520.0,6.0,30.4,clear
+832,Bengal Gram(Gram),Azamgarh,2017-06-24,6530.0,5.5,37.0,clear
+833,Bengal Gram(Gram),Azamgarh,2017-06-26,6520.0,5.8,36.4,clear
+834,Bengal Gram(Gram),Azamgarh,2017-06-27,6520.0,6.0,37.0,clear
+835,Bengal Gram(Gram),Azamgarh,2017-06-28,6500.0,6.5,36.0,clear
+836,Bengal Gram(Gram),Azamgarh,2017-06-29,6400.0,7.5,37.0,clear
+837,Lentil(Masur),Azamgarh,2017-06-29,4830.0,7.2,37.0,clear
+838,Bengal Gram(Gram),Azamgarh,2017-06-30,6350.0,8.0,32.0,clear
+839,Lentil(Masur),Azamgarh,2017-06-30,4820.0,7.6,32.0,clear
+840,Bengal Gram(Gram),Azamgarh,2017-03-07,6300.0,9.0,27.4,clear
+841,Bengal Gram(Gram),Azamgarh,2017-04-07,6315.0,8.0,36.6,clear
+842,Bengal Gram(Gram),Azamgarh,2017-05-07,6310.0,8.2,37.4,clear
+843,Lentil(Masur),Azamgarh,2017-05-07,4815.0,7.0,37.4,clear
+844,Bengal Gram(Gram),Azamgarh,2017-06-07,6250.0,8.5,30.0,clear
+845,Lentil(Masur),Azamgarh,2017-06-07,4810.0,7.2,30.0,clear
+846,Bengal Gram(Gram),Azamgarh,2017-07-07,6225.0,8.8,28.4,clear
+847,Lentil(Masur),Azamgarh,2017-07-07,4775.0,7.5,28.4,clear
+848,Bengal Gram(Gram),Azamgarh,2017-08-07,6250.0,8.5,28.4,clear
+849,Lentil(Masur),Azamgarh,2017-08-07,4750.0,8.0,28.4,clear
+850,Bengal Gram(Gram),Azamgarh,2017-10-07,6250.0,8.0,34.0,clear
+851,Lentil(Masur),Azamgarh,2017-10-07,4740.0,8.2,34.0,clear
+852,Bengal Gram(Gram),Azamgarh,2017-11-07,6260.0,7.8,25.4,clear
+853,Lentil(Masur),Azamgarh,2017-11-07,4745.0,8.0,25.4,clear
+854,Bengal Gram(Gram),Azamgarh,2017-07-13,6150.0,7.2,30.0,clear
+855,Lentil(Masur),Azamgarh,2017-07-13,4760.0,7.0,30.0,clear
+856,Bengal Gram(Gram),Azamgarh,2017-07-14,6160.0,7.0,33.4,clear
+857,Lentil(Masur),Azamgarh,2017-07-14,4755.0,7.2,33.4,clear
+858,Bengal Gram(Gram),Azamgarh,2017-07-17,6150.0,7.0,34.6,clear
+859,Bengal Gram(Gram),Azamgarh,2017-07-18,6125.0,8.5,32.0,clear
+860,Lentil(Masur),Azamgarh,2017-07-18,4725.0,8.5,32.0,clear
+861,Bengal Gram(Gram),Azamgarh,2017-07-19,6130.0,8.2,32.0,clear
+862,Lentil(Masur),Azamgarh,2017-07-19,4700.0,9.0,32.0,clear
+863,Bengal Gram(Gram),Azamgarh,2017-07-20,6135.0,8.0,29.4,clear
+864,Lentil(Masur),Azamgarh,2017-07-20,4720.0,8.5,29.4,clear
+865,Bengal Gram(Gram),Azamgarh,2017-07-21,6140.0,7.8,30.4,clear
+866,Lentil(Masur),Azamgarh,2017-07-21,4710.0,8.8,30.4,clear
+867,Bengal Gram(Gram),Azamgarh,2017-07-22,6135.0,8.2,31.4,clear
+868,Lentil(Masur),Azamgarh,2017-07-22,4700.0,9.0,31.4,clear
+869,Bengal Gram(Gram),Azamgarh,2017-07-24,6125.0,8.5,28.6,clear
+870,Lentil(Masur),Azamgarh,2017-07-24,4710.0,8.5,28.6,clear
+871,Bengal Gram(Gram),Azamgarh,2017-07-25,6110.0,9.0,29.4,clear
+872,Lentil(Masur),Azamgarh,2017-07-25,4725.0,7.8,29.4,clear
+873,Bengal Gram(Gram),Azamgarh,2017-07-26,6115.0,8.5,27.4,clear
+874,Lentil(Masur),Azamgarh,2017-07-26,4720.0,8.5,27.4,clear
+875,Bengal Gram(Gram),Azamgarh,2017-07-29,6125.0,7.5,30.0,clear
+876,Lentil(Masur),Azamgarh,2017-07-29,4715.0,9.5,30.0,clear
+877,Bengal Gram(Gram),Azamgarh,2017-07-31,6115.0,7.8,28.0,clear
+878,Lentil(Masur),Azamgarh,2017-07-31,4720.0,9.2,28.0,clear
+879,Bengal Gram(Gram),Azamgarh,2017-02-08,6100.0,8.4,23.0,clear
+880,Lentil(Masur),Azamgarh,2017-02-08,4715.0,8.5,23.0,clear
+881,Bengal Gram(Gram),Azamgarh,2017-03-08,6110.0,8.2,21.0,clear
+882,Lentil(Masur),Azamgarh,2017-03-08,4710.0,8.8,21.0,clear
+883,Bengal Gram(Gram),Azamgarh,2017-05-08,6115.0,8.2,35.6,clear
+884,Lentil(Masur),Azamgarh,2017-05-08,4690.0,9.2,35.6,clear
+885,Bengal Gram(Gram),Azamgarh,2017-08-08,6125.0,7.8,32.0,clear
+886,Lentil(Masur),Azamgarh,2017-08-08,4690.0,7.8,32.0,clear
+887,Bengal Gram(Gram),Azamgarh,2017-10-08,6125.0,8.0,31.0,clear
+888,Lentil(Masur),Azamgarh,2017-10-08,4715.0,7.0,31.0,clear
+889,Bengal Gram(Gram),Azamgarh,2017-11-08,6120.0,8.2,25.0,clear
+890,Lentil(Masur),Azamgarh,2017-11-08,4725.0,6.8,25.0,clear
+891,Bengal Gram(Gram),Azamgarh,2017-12-08,6110.0,8.5,21.4,clear
+892,Lentil(Masur),Azamgarh,2017-12-08,4720.0,7.0,21.4,clear
+893,Bengal Gram(Gram),Azamgarh,2017-08-14,6100.0,9.5,31.4,clear
+894,Lentil(Masur),Azamgarh,2017-08-14,4700.0,7.5,31.4,clear
+895,Bengal Gram(Gram),Azamgarh,2017-08-15,6110.0,0.0,28.4,clear
+896,Lentil(Masur),Azamgarh,2017-08-15,4660.0,0.0,28.4,clear
+897,Bengal Gram(Gram),Azamgarh,2017-08-16,6120.0,7.8,33.4,clear
+898,Lentil(Masur),Azamgarh,2017-08-16,4620.0,6.5,33.4,clear
+899,Bengal Gram(Gram),Azamgarh,2017-08-17,6115.0,8.0,31.0,clear
+900,Lentil(Masur),Azamgarh,2017-08-17,4610.0,6.8,31.0,clear
+901,Bengal Gram(Gram),Azamgarh,2017-08-18,6100.0,9.0,32.4,clear
+902,Lentil(Masur),Azamgarh,2017-08-18,4590.0,7.4,32.4,clear
+903,Bengal Gram(Gram),Azamgarh,2017-08-19,6090.0,9.5,30.0,clear
+904,Lentil(Masur),Azamgarh,2017-08-19,4580.0,7.7,30.0,clear
+905,Bengal Gram(Gram),Azamgarh,2017-08-21,6095.0,9.0,33.0,clear
+906,Lentil(Masur),Azamgarh,2017-08-21,4585.0,7.2,33.0,clear
+907,Bengal Gram(Gram),Azamgarh,2017-08-22,6090.0,9.5,31.4,clear
+908,Lentil(Masur),Azamgarh,2017-08-22,4590.0,7.0,31.4,clear
+909,Bengal Gram(Gram),Azamgarh,2017-08-23,6085.0,9.8,31.4,clear
+910,Lentil(Masur),Azamgarh,2017-08-23,4585.0,7.2,31.4,clear
+911,Bengal Gram(Gram),Azamgarh,2017-08-25,6085.0,9.0,32.0,clear
+912,Lentil(Masur),Azamgarh,2017-08-25,4585.0,7.0,32.0,clear
+913,Bengal Gram(Gram),Azamgarh,2017-08-26,6090.0,7.5,31.4,clear
+914,Lentil(Masur),Azamgarh,2017-08-26,4580.0,7.4,31.4,clear
+915,Bengal Gram(Gram),Azamgarh,2017-08-28,6085.0,7.8,31.0,clear
+916,Lentil(Masur),Azamgarh,2017-08-28,4600.0,8.0,31.0,clear
+917,Bengal Gram(Gram),Azamgarh,2017-08-30,6050.0,7.2,33.0,clear
+918,Lentil(Masur),Azamgarh,2017-08-30,4590.0,7.8,33.0,clear
+919,Bengal Gram(Gram),Azamgarh,2017-04-09,6030.0,7.0,34.0,clear
+920,Lentil(Masur),Azamgarh,2017-04-09,4580.0,7.0,34.0,clear
+921,Bengal Gram(Gram),Azamgarh,2017-05-09,6020.0,7.2,27.0,clear
+922,Lentil(Masur),Azamgarh,2017-05-09,4585.0,6.5,27.0,clear
+923,Bengal Gram(Gram),Azamgarh,2017-06-09,6070.0,7.0,35.4,clear
+924,Lentil(Masur),Azamgarh,2017-06-09,4530.0,8.0,35.4,clear
+925,Bengal Gram(Gram),Azamgarh,2017-07-09,6120.0,5.2,31.0,clear
+926,Lentil(Masur),Azamgarh,2017-07-09,4550.0,7.0,31.0,clear
+927,Bengal Gram(Gram),Azamgarh,2017-08-09,6160.0,5.0,32.0,clear
+928,Lentil(Masur),Azamgarh,2017-08-09,4555.0,6.4,32.0,clear
+929,Bengal Gram(Gram),Azamgarh,2017-09-09,6165.0,4.5,34.4,clear
+930,Lentil(Masur),Azamgarh,2017-09-09,4560.0,5.2,34.4,clear
+931,Bengal Gram(Gram),Azamgarh,2017-11-09,6175.0,4.2,24.0,clear
+932,Lentil(Masur),Azamgarh,2017-11-09,4560.0,4.8,24.0,clear
+933,Bengal Gram(Gram),Azamgarh,2017-12-09,6175.0,4.0,18.4,clear
+934,Lentil(Masur),Azamgarh,2017-12-09,4550.0,5.2,18.4,clear
+935,Bengal Gram(Gram),Azamgarh,2017-09-13,6175.0,3.8,34.4,clear
+936,Lentil(Masur),Azamgarh,2017-09-13,4550.0,5.0,34.4,clear
+937,Bengal Gram(Gram),Azamgarh,2017-09-14,6170.0,4.2,33.0,clear
+938,Lentil(Masur),Azamgarh,2017-09-14,4545.0,5.2,33.0,clear
+939,Bengal Gram(Gram),Azamgarh,2017-09-15,6170.0,4.0,32.6,clear
+940,Lentil(Masur),Azamgarh,2017-09-15,4540.0,5.4,32.6,clear
+941,Bengal Gram(Gram),Azamgarh,2017-09-16,6185.0,3.7,31.0,clear
+942,Lentil(Masur),Azamgarh,2017-09-16,4555.0,6.0,31.0,clear
+943,Bengal Gram(Gram),Azamgarh,2017-09-19,6165.0,5.0,31.0,clear
+944,Lentil(Masur),Azamgarh,2017-09-19,4580.0,4.0,31.0,clear
+945,Bengal Gram(Gram),Azamgarh,2017-09-20,6150.0,6.5,29.4,clear
+946,Lentil(Masur),Azamgarh,2017-09-20,4590.0,3.5,29.4,clear
+947,Bengal Gram(Gram),Azamgarh,2017-09-21,6125.0,7.0,28.4,clear
+948,Lentil(Masur),Azamgarh,2017-09-21,4570.0,3.8,28.4,clear
+949,Bengal Gram(Gram),Azamgarh,2017-09-22,6100.0,7.5,30.4,clear
+950,Lentil(Masur),Azamgarh,2017-09-22,4550.0,4.2,30.4,clear
+951,Bengal Gram(Gram),Azamgarh,2017-09-25,6090.0,7.2,30.0,clear
+952,Lentil(Masur),Azamgarh,2017-09-25,4530.0,4.5,30.0,clear
+953,Bengal Gram(Gram),Azamgarh,2017-09-26,6100.0,6.0,30.4,clear
+954,Lentil(Masur),Azamgarh,2017-09-26,4535.0,4.0,30.4,clear
+955,Bengal Gram(Gram),Azamgarh,2017-09-27,6120.0,5.2,31.0,clear
+956,Lentil(Masur),Azamgarh,2017-09-27,4525.0,4.8,31.0,clear
+957,Bengal Gram(Gram),Azamgarh,2017-09-29,6160.0,4.0,29.0,clear
+958,Lentil(Masur),Azamgarh,2017-09-29,4490.0,4.8,29.0,clear
+959,Bengal Gram(Gram),Azamgarh,2017-03-10,6155.0,4.7,24.4,clear
+960,Lentil(Masur),Azamgarh,2017-03-10,4500.0,3.8,24.4,clear
+961,Bengal Gram(Gram),Azamgarh,2017-04-10,6150.0,5.0,27.0,clear
+962,Lentil(Masur),Azamgarh,2017-04-10,4500.0,3.8,27.0,clear
+963,Bengal Gram(Gram),Azamgarh,2017-05-10,6160.0,4.5,29.0,clear
+964,Lentil(Masur),Azamgarh,2017-05-10,4490.0,4.2,29.0,clear
+965,Bengal Gram(Gram),Azamgarh,2017-06-10,6165.0,4.0,38.4,clear
+966,Lentil(Masur),Azamgarh,2017-06-10,4495.0,4.0,38.4,clear
+967,Bengal Gram(Gram),Azamgarh,2017-07-10,6165.0,4.0,27.4,clear
+968,Lentil(Masur),Azamgarh,2017-07-10,4490.0,3.8,27.4,clear
+969,Bengal Gram(Gram),Azamgarh,2017-09-10,6160.0,4.5,34.0,clear
+970,Lentil(Masur),Azamgarh,2017-09-10,4500.0,3.5,34.0,clear
+971,Bengal Gram(Gram),Azamgarh,2017-10-10,6180.0,4.0,28.4,clear
+972,Lentil(Masur),Azamgarh,2017-10-10,4480.0,3.8,28.4,clear
+973,Bengal Gram(Gram),Azamgarh,2017-11-10,6200.0,3.8,24.0,clear
+974,Lentil(Masur),Azamgarh,2017-11-10,4470.0,4.2,24.0,clear
+975,Bengal Gram(Gram),Azamgarh,2017-12-10,6210.0,3.5,23.4,clear
+976,Lentil(Masur),Azamgarh,2017-12-10,4465.0,4.5,23.4,clear
+977,Bengal Gram(Gram),Azamgarh,2017-10-14,6225.0,3.0,30.4,clear
+978,Lentil(Masur),Azamgarh,2017-10-14,4440.0,5.2,30.4,clear
+979,Bengal Gram(Gram),Azamgarh,2017-10-16,6225.0,3.0,29.4,clear
+980,Lentil(Masur),Azamgarh,2017-10-16,4430.0,5.5,29.4,clear
+981,Bengal Gram(Gram),Azamgarh,2017-10-17,6220.0,4.0,29.0,clear
+982,Lentil(Masur),Azamgarh,2017-10-17,4415.0,6.0,29.0,clear
+983,Bengal Gram(Gram),Azamgarh,2017-10-18,6215.0,4.5,32.0,clear
+984,Lentil(Masur),Azamgarh,2017-10-18,4410.0,6.5,32.0,clear
+985,Bengal Gram(Gram),Azamgarh,2017-10-23,6220.0,4.0,29.4,clear
+986,Lentil(Masur),Azamgarh,2017-10-23,4400.0,6.5,29.4,clear
+987,Bengal Gram(Gram),Azamgarh,2017-10-24,6250.0,3.0,29.0,clear
+988,Lentil(Masur),Azamgarh,2017-10-24,4390.0,6.7,29.0,clear
+989,Bengal Gram(Gram),Azamgarh,2017-10-25,6260.0,2.8,26.4,clear
+990,Lentil(Masur),Azamgarh,2017-10-25,4380.0,6.9,26.4,clear
+991,Bengal Gram(Gram),Azamgarh,2017-10-26,6270.0,2.5,27.0,clear
+992,Lentil(Masur),Azamgarh,2017-10-26,4325.0,7.5,27.0,clear
+993,Bengal Gram(Gram),Azamgarh,2017-10-27,6265.0,3.2,27.0,clear
+994,Lentil(Masur),Azamgarh,2017-10-27,4320.0,7.8,27.0,clear
+995,Bengal Gram(Gram),Azamgarh,2017-10-28,6260.0,3.5,27.4,clear
+996,Lentil(Masur),Azamgarh,2017-10-28,4325.0,6.5,27.4,clear
+997,Bengal Gram(Gram),Azamgarh,2017-10-30,6265.0,3.2,23.0,clear
+998,Lentil(Masur),Azamgarh,2017-10-30,4320.0,6.8,23.0,clear
+999,Bengal Gram(Gram),Azamgarh,2017-10-31,6275.0,3.0,27.0,clear
+1000,Lentil(Masur),Azamgarh,2017-10-31,4300.0,7.3,27.0,clear
+1001,Bengal Gram(Gram),Azamgarh,2017-02-11,6265.0,3.8,20.0,clear
+1002,Lentil(Masur),Azamgarh,2017-02-11,4285.0,7.7,20.0,clear
+1003,Lentil(Masur),Azamgarh,2017-03-11,4280.0,8.0,25.4,clear

@@ -1,0 +1,543 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Bengal Gram(Gram),Kottayam,2015-12-10,6400.0,3.0,32.2,clear
+1,Black Gram (Urd Beans),Kottayam,2015-12-10,13600.0,1.0,32.2,clear
+2,Green Gram (Moong),Kottayam,2015-12-10,9500.0,1.5,32.2,clear
+3,Bengal Gram(Gram),Kottayam,2015-12-11,6900.0,1.5,26.2,clear
+4,Black Gram (Urd Beans),Kottayam,2015-12-11,17000.0,0.0,26.2,clear
+5,Green Gram (Moong),Kottayam,2015-12-11,10600.0,1.0,26.2,clear
+6,Black Gram (Urd Beans),Kottayam,2015-12-14,16500.0,2.0,30.6,clear
+7,Green Gram (Moong),Kottayam,2015-12-14,10000.0,3.0,30.6,clear
+8,Black Gram (Urd Beans),Kottayam,2015-12-21,16300.0,2.5,31.4,clear
+9,Green Gram (Moong),Kottayam,2015-12-21,9800.0,3.0,31.4,clear
+10,Black Gram (Urd Beans),Kottayam,2015-12-28,16650.0,3.0,31.0,clear
+11,Green Gram (Moong),Kottayam,2015-12-28,9800.0,2.0,31.0,clear
+12,Black Gram (Urd Beans),Kottayam,2015-12-31,16650.0,3.0,32.0,clear
+13,Green Gram (Moong),Kottayam,2015-12-31,9800.0,3.0,32.0,clear
+14,Bengal Gram(Gram),Kottayam,2016-04-02,6300.0,2.0,33.0,clear
+15,Black Gram (Urd Beans),Kottayam,2016-04-02,14700.0,3.0,33.0,clear
+16,Green Gram (Moong),Kottayam,2016-04-02,9300.0,2.0,33.0,clear
+17,Bengal Gram(Gram),Kottayam,2016-08-02,6300.0,3.0,29.8,clear
+18,Black Gram (Urd Beans),Kottayam,2016-08-02,14700.0,3.0,29.8,clear
+19,Green Gram (Moong),Kottayam,2016-08-02,9600.0,2.0,29.8,clear
+20,Bengal Gram(Gram),Kottayam,2016-11-02,5700.0,3.0,29.2,clear
+21,Black Gram (Urd Beans),Kottayam,2016-11-02,14600.0,3.0,29.2,clear
+22,Green Gram (Moong),Kottayam,2016-11-02,9500.0,3.0,29.2,clear
+23,Bengal Gram(Gram),Kottayam,2016-02-15,5400.0,2.5,32.0,clear
+24,Black Gram (Urd Beans),Kottayam,2016-02-15,14600.0,2.5,32.0,clear
+25,Green Gram (Moong),Kottayam,2016-02-15,9500.0,2.0,32.0,clear
+26,Bengal Gram(Gram),Kottayam,2016-02-18,5700.0,3.0,36.0,clear
+27,Black Gram (Urd Beans),Kottayam,2016-02-18,14300.0,2.5,36.0,clear
+28,Green Gram (Moong),Kottayam,2016-02-18,9000.0,3.0,36.0,clear
+29,Bengal Gram(Gram),Kottayam,2016-02-22,5700.0,2.5,33.0,clear
+30,Green Gram (Moong),Kottayam,2016-02-22,9000.0,2.5,33.0,clear
+31,Bengal Gram(Gram),Kottayam,2016-02-25,5700.0,2.5,33.4,clear
+32,Black Gram (Urd Beans),Kottayam,2016-02-25,14300.0,2.5,33.4,clear
+33,Green Gram (Moong),Kottayam,2016-02-25,9000.0,3.0,33.4,clear
+34,Bengal Gram(Gram),Kottayam,2016-02-29,5600.0,2.5,34.4,clear
+35,Black Gram (Urd Beans),Kottayam,2016-02-29,14300.0,3.0,34.4,clear
+36,Green Gram (Moong),Kottayam,2016-02-29,9000.0,2.0,34.4,clear
+37,Bengal Gram(Gram),Kottayam,2016-08-03,5900.0,2.5,30.0,clear
+38,Black Gram (Urd Beans),Kottayam,2016-08-03,14000.0,2.5,30.0,clear
+39,Green Gram (Moong),Kottayam,2016-08-03,9000.0,3.0,30.0,clear
+40,Bengal Gram(Gram),Kottayam,2016-10-03,6000.0,3.0,30.6,clear
+41,Black Gram (Urd Beans),Kottayam,2016-10-03,14000.0,2.0,30.6,clear
+42,Green Gram (Moong),Kottayam,2016-10-03,9000.0,2.0,30.6,clear
+43,Bengal Gram(Gram),Kottayam,2016-03-14,5600.0,2.5,33.6,clear
+44,Black Gram (Urd Beans),Kottayam,2016-03-14,14500.0,2.5,33.6,clear
+45,Green Gram (Moong),Kottayam,2016-03-14,8700.0,3.0,33.6,clear
+46,Bengal Gram(Gram),Kottayam,2016-03-17,5600.0,2.0,33.0,clear
+47,Black Gram (Urd Beans),Kottayam,2016-03-17,14500.0,2.0,33.0,clear
+48,Green Gram (Moong),Kottayam,2016-03-17,8800.0,3.0,33.0,clear
+49,Bengal Gram(Gram),Kottayam,2016-03-21,5600.0,2.5,33.0,clear
+50,Black Gram (Urd Beans),Kottayam,2016-03-21,14600.0,2.5,33.0,clear
+51,Green Gram (Moong),Kottayam,2016-03-21,8800.0,3.0,33.0,clear
+52,Bengal Gram(Gram),Kottayam,2016-03-24,5600.0,3.0,33.0,clear
+53,Black Gram (Urd Beans),Kottayam,2016-03-24,14600.0,2.0,33.0,clear
+54,Green Gram (Moong),Kottayam,2016-03-24,8800.0,2.0,33.0,clear
+55,Bengal Gram(Gram),Kottayam,2016-03-28,5600.0,2.5,33.0,clear
+56,Black Gram (Urd Beans),Kottayam,2016-03-28,14600.0,5.0,33.0,clear
+57,Green Gram (Moong),Kottayam,2016-03-28,8800.0,2.5,33.0,clear
+58,Bengal Gram(Gram),Kottayam,2016-03-31,5600.0,2.0,33.0,clear
+59,Black Gram (Urd Beans),Kottayam,2016-03-31,14600.0,2.0,33.0,clear
+60,Green Gram (Moong),Kottayam,2016-03-31,8800.0,2.0,33.0,clear
+61,Bengal Gram(Gram),Kottayam,2016-04-04,5800.0,3.0,33.6,clear
+62,Black Gram (Urd Beans),Kottayam,2016-04-04,15500.0,2.0,33.6,clear
+63,Green Gram (Moong),Kottayam,2016-04-04,8500.0,2.5,33.6,clear
+64,Bengal Gram(Gram),Kottayam,2016-07-04,5800.0,2.0,24.8,rain
+65,Black Gram (Urd Beans),Kottayam,2016-07-04,15500.0,2.5,24.8,rain
+66,Green Gram (Moong),Kottayam,2016-07-04,8700.0,2.0,24.8,rain
+67,Bengal Gram(Gram),Kottayam,2016-11-04,5800.0,2.5,29.6,clear
+68,Black Gram (Urd Beans),Kottayam,2016-11-04,15600.0,2.0,29.6,clear
+69,Green Gram (Moong),Kottayam,2016-11-04,8600.0,3.0,29.6,clear
+70,Bengal Gram(Gram),Kottayam,2016-04-13,5800.0,2.5,34.0,clear
+71,Black Gram (Urd Beans),Kottayam,2016-04-13,15500.0,2.5,34.0,clear
+72,Green Gram (Moong),Kottayam,2016-04-13,8800.0,3.0,34.0,clear
+73,Bengal Gram(Gram),Kottayam,2016-04-21,5800.0,2.0,33.0,clear
+74,Black Gram (Urd Beans),Kottayam,2016-04-21,15500.0,2.0,33.0,clear
+75,Green Gram (Moong),Kottayam,2016-04-21,8800.0,2.0,33.0,clear
+76,Bengal Gram(Gram),Kottayam,2016-04-25,6300.0,2.0,33.0,clear
+77,Black Gram (Urd Beans),Kottayam,2016-04-25,18400.0,2.0,33.0,clear
+78,Green Gram (Moong),Kottayam,2016-04-25,9300.0,2.0,33.0,clear
+79,Bengal Gram(Gram),Kottayam,2016-04-28,6300.0,2.0,33.0,clear
+80,Black Gram (Urd Beans),Kottayam,2016-04-28,18400.0,2.0,33.0,clear
+81,Green Gram (Moong),Kottayam,2016-04-28,9300.0,2.0,33.0,clear
+82,Bengal Gram(Gram),Kottayam,2016-09-05,6200.0,2.0,30.6,clear
+83,Black Gram (Urd Beans),Kottayam,2016-09-05,17800.0,2.5,30.6,clear
+84,Green Gram (Moong),Kottayam,2016-09-05,9000.0,2.0,30.6,clear
+85,Bengal Gram(Gram),Kottayam,2016-12-05,6600.0,2.0,31.0,clear
+86,Black Gram (Urd Beans),Kottayam,2016-12-05,17500.0,2.0,31.0,clear
+87,Green Gram (Moong),Kottayam,2016-12-05,8800.0,2.0,31.0,clear
+88,Bengal Gram(Gram),Kottayam,2016-05-19,6300.0,2.0,31.2,clear
+89,Black Gram (Urd Beans),Kottayam,2016-05-19,17300.0,2.0,31.2,clear
+90,Green Gram (Moong),Kottayam,2016-05-19,8800.0,2.0,31.2,clear
+91,Bengal Gram(Gram),Kottayam,2016-05-22,6500.0,2.0,29.6,clear
+92,Black Gram (Urd Beans),Kottayam,2016-05-22,17200.0,2.0,29.6,clear
+93,Green Gram (Moong),Kottayam,2016-05-22,8900.0,2.0,29.6,clear
+94,Bengal Gram(Gram),Kottayam,2016-05-23,6500.0,2.0,33.0,clear
+95,Black Gram (Urd Beans),Kottayam,2016-05-23,17200.0,2.0,33.0,clear
+96,Green Gram (Moong),Kottayam,2016-05-23,8800.0,2.0,33.0,clear
+97,Bengal Gram(Gram),Kottayam,2016-05-26,6800.0,2.5,32.0,clear
+98,Black Gram (Urd Beans),Kottayam,2016-05-26,17500.0,2.0,32.0,clear
+99,Green Gram (Moong),Kottayam,2016-05-26,9100.0,3.0,32.0,clear
+100,Bengal Gram(Gram),Kottayam,2016-05-30,6900.0,2.0,27.0,clear
+101,Black Gram (Urd Beans),Kottayam,2016-05-30,17000.0,2.0,27.0,clear
+102,Green Gram (Moong),Kottayam,2016-05-30,8800.0,1.5,27.0,clear
+103,Bengal Gram(Gram),Kottayam,2016-02-06,6600.0,2.0,32.8,clear
+104,Black Gram (Urd Beans),Kottayam,2016-02-06,17000.0,1.5,32.8,clear
+105,Green Gram (Moong),Kottayam,2016-02-06,8800.0,1.5,32.8,clear
+106,Bengal Gram(Gram),Kottayam,2016-06-06,6600.0,1.5,30.0,clear
+107,Black Gram (Urd Beans),Kottayam,2016-06-06,17000.0,2.0,30.0,clear
+108,Green Gram (Moong),Kottayam,2016-06-06,8900.0,1.5,30.0,clear
+109,Bengal Gram(Gram),Kottayam,2016-09-06,7000.0,2.0,30.8,clear
+110,Black Gram (Urd Beans),Kottayam,2016-09-06,17000.0,2.0,30.8,clear
+111,Green Gram (Moong),Kottayam,2016-09-06,8900.0,2.0,30.8,clear
+112,Bengal Gram(Gram),Kottayam,2016-06-13,7400.0,2.0,31.2,clear
+113,Black Gram (Urd Beans),Kottayam,2016-06-13,17000.0,2.0,31.2,clear
+114,Green Gram (Moong),Kottayam,2016-06-13,8900.0,2.0,31.2,clear
+115,Bengal Gram(Gram),Kottayam,2016-06-16,7400.0,1.2,25.8,rain
+116,Black Gram (Urd Beans),Kottayam,2016-06-16,17000.0,1.3,25.8,rain
+117,Green Gram (Moong),Kottayam,2016-06-16,9200.0,1.0,25.8,rain
+118,Bengal Gram(Gram),Kottayam,2016-06-20,7500.0,2.0,28.6,clear
+119,Black Gram (Urd Beans),Kottayam,2016-06-20,17000.0,2.0,28.6,clear
+120,Green Gram (Moong),Kottayam,2016-06-20,9000.0,2.0,28.6,clear
+121,Bengal Gram(Gram),Kottayam,2016-06-23,7500.0,2.0,28.6,clear
+122,Black Gram (Urd Beans),Kottayam,2016-06-23,17000.0,1.5,28.6,clear
+123,Green Gram (Moong),Kottayam,2016-06-23,9000.0,2.0,28.6,clear
+124,Bengal Gram(Gram),Kottayam,2016-06-27,7800.0,2.0,26.2,rain
+125,Black Gram (Urd Beans),Kottayam,2016-06-27,16800.0,2.0,26.2,rain
+126,Green Gram (Moong),Kottayam,2016-06-27,8800.0,2.0,26.2,rain
+127,Bengal Gram(Gram),Kottayam,2016-06-30,7700.0,2.0,31.0,clear
+128,Black Gram (Urd Beans),Kottayam,2016-06-30,16800.0,2.0,31.0,clear
+129,Green Gram (Moong),Kottayam,2016-06-30,8800.0,2.0,31.0,clear
+130,Bengal Gram(Gram),Kottayam,2016-04-07,8000.0,2.5,33.4,clear
+131,Black Gram (Urd Beans),Kottayam,2016-04-07,16500.0,2.5,33.4,clear
+132,Green Gram (Moong),Kottayam,2016-04-07,8500.0,2.0,33.4,clear
+133,Bengal Gram(Gram),Kottayam,2016-07-07,8000.0,2.0,28.6,clear
+134,Black Gram (Urd Beans),Kottayam,2016-07-07,16500.0,2.5,28.6,clear
+135,Green Gram (Moong),Kottayam,2016-07-07,8500.0,2.5,28.6,clear
+136,Bengal Gram(Gram),Kottayam,2016-11-07,8000.0,2.5,31.2,clear
+137,Black Gram (Urd Beans),Kottayam,2016-11-07,16500.0,2.0,31.2,clear
+138,Green Gram (Moong),Kottayam,2016-11-07,8500.0,2.0,31.2,clear
+139,Bengal Gram(Gram),Kottayam,2016-07-14,8000.0,1.5,26.6,rain
+140,Black Gram (Urd Beans),Kottayam,2016-07-14,16500.0,2.0,26.6,rain
+141,Green Gram (Moong),Kottayam,2016-07-14,8500.0,1.0,26.6,rain
+142,Bengal Gram(Gram),Kottayam,2016-07-18,9500.0,1.5,29.8,clear
+143,Black Gram (Urd Beans),Kottayam,2016-07-18,16500.0,2.0,29.8,clear
+144,Green Gram (Moong),Kottayam,2016-07-18,8500.0,2.0,29.8,clear
+145,Bengal Gram(Gram),Kottayam,2016-07-21,10000.0,1.2,29.2,clear
+146,Black Gram (Urd Beans),Kottayam,2016-07-21,16500.0,2.0,29.2,clear
+147,Green Gram (Moong),Kottayam,2016-07-21,8600.0,2.0,29.2,clear
+148,Bengal Gram(Gram),Kottayam,2016-07-25,9800.0,2.0,29.0,clear
+149,Black Gram (Urd Beans),Kottayam,2016-07-25,16000.0,2.0,29.0,clear
+150,Green Gram (Moong),Kottayam,2016-07-25,8600.0,2.0,29.0,clear
+151,Bengal Gram(Gram),Kottayam,2016-07-28,9800.0,2.0,30.6,clear
+152,Black Gram (Urd Beans),Kottayam,2016-07-28,16200.0,1.5,30.6,clear
+153,Green Gram (Moong),Kottayam,2016-07-28,8600.0,1.5,30.6,clear
+154,Bengal Gram(Gram),Kottayam,2016-01-08,9600.0,2.0,31.0,clear
+155,Black Gram (Urd Beans),Kottayam,2016-01-08,15200.0,2.0,31.0,clear
+156,Green Gram (Moong),Kottayam,2016-01-08,8200.0,2.0,31.0,clear
+157,Bengal Gram(Gram),Kottayam,2016-04-08,9500.0,1.5,33.2,clear
+158,Black Gram (Urd Beans),Kottayam,2016-04-08,15400.0,2.0,33.2,clear
+159,Green Gram (Moong),Kottayam,2016-04-08,8200.0,0.0,33.2,clear
+160,Bengal Gram(Gram),Kottayam,2016-08-08,9600.0,2.0,31.0,clear
+161,Black Gram (Urd Beans),Kottayam,2016-08-08,15400.0,1.0,31.0,clear
+162,Green Gram (Moong),Kottayam,2016-08-08,8200.0,1.0,31.0,clear
+163,Bengal Gram(Gram),Kottayam,2016-11-08,9600.0,2.0,30.0,clear
+164,Black Gram (Urd Beans),Kottayam,2016-11-08,15400.0,2.0,30.0,clear
+165,Green Gram (Moong),Kottayam,2016-11-08,8200.0,2.0,30.0,clear
+166,Bengal Gram(Gram),Kottayam,2016-08-16,9600.0,2.0,29.0,clear
+167,Black Gram (Urd Beans),Kottayam,2016-08-16,15600.0,2.0,29.0,clear
+168,Green Gram (Moong),Kottayam,2016-08-16,8200.0,1.5,29.0,clear
+169,Bengal Gram(Gram),Kottayam,2016-08-18,9900.0,1.0,29.4,clear
+170,Black Gram (Urd Beans),Kottayam,2016-08-18,14300.0,2.0,29.4,clear
+171,Green Gram (Moong),Kottayam,2016-08-18,8200.0,2.0,29.4,clear
+172,Bengal Gram(Gram),Kottayam,2016-08-22,9900.0,2.0,31.0,clear
+173,Black Gram (Urd Beans),Kottayam,2016-08-22,14300.0,1.5,31.0,clear
+174,Green Gram (Moong),Kottayam,2016-08-22,8200.0,2.0,31.0,clear
+175,Bengal Gram(Gram),Kottayam,2016-08-25,9900.0,1.5,29.4,clear
+176,Black Gram (Urd Beans),Kottayam,2016-08-25,14300.0,1.5,29.4,clear
+177,Green Gram (Moong),Kottayam,2016-08-25,8200.0,1.0,29.4,clear
+178,Bengal Gram(Gram),Kottayam,2016-08-29,9900.0,2.0,28.8,clear
+179,Black Gram (Urd Beans),Kottayam,2016-08-29,14300.0,2.0,28.8,clear
+180,Green Gram (Moong),Kottayam,2016-08-29,8200.0,1.5,28.8,clear
+181,Bengal Gram(Gram),Kottayam,2016-01-09,9900.0,2.0,32.0,clear
+182,Black Gram (Urd Beans),Kottayam,2016-01-09,14300.0,1.5,32.0,clear
+183,Green Gram (Moong),Kottayam,2016-01-09,8200.0,1.0,32.0,clear
+184,Bengal Gram(Gram),Kottayam,2016-05-09,9200.0,1.5,33.6,clear
+185,Black Gram (Urd Beans),Kottayam,2016-05-09,13750.0,2.0,33.6,clear
+186,Green Gram (Moong),Kottayam,2016-05-09,7300.0,2.0,33.6,clear
+187,Bengal Gram(Gram),Kottayam,2016-08-09,9200.0,2.5,25.2,clear
+188,Black Gram (Urd Beans),Kottayam,2016-08-09,13550.0,2.5,25.2,clear
+189,Green Gram (Moong),Kottayam,2016-08-09,9000.0,2.0,25.2,clear
+190,Bengal Gram(Gram),Kottayam,2016-12-09,9200.0,2.5,29.4,clear
+191,Black Gram (Urd Beans),Kottayam,2016-12-09,13150.0,2.0,29.4,clear
+192,Green Gram (Moong),Kottayam,2016-12-09,7300.0,2.0,29.4,clear
+193,Bengal Gram(Gram),Kottayam,2016-09-19,9900.0,2.0,30.8,clear
+194,Black Gram (Urd Beans),Kottayam,2016-09-19,11800.0,2.0,30.8,clear
+195,Green Gram (Moong),Kottayam,2016-09-19,7000.0,2.0,30.8,clear
+196,Bengal Gram(Gram),Kottayam,2016-09-22,9650.0,1.5,30.8,clear
+197,Black Gram (Urd Beans),Kottayam,2016-09-22,11750.0,0.0,30.8,clear
+198,Green Gram (Moong),Kottayam,2016-09-22,7000.0,1.5,30.8,clear
+199,Bengal Gram(Gram),Kottayam,2016-09-26,9900.0,1.5,29.6,clear
+200,Black Gram (Urd Beans),Kottayam,2016-09-26,11750.0,1.0,29.6,clear
+201,Green Gram (Moong),Kottayam,2016-09-26,7000.0,1.0,29.6,clear
+202,Bengal Gram(Gram),Kottayam,2016-09-29,9900.0,1.0,26.6,clear
+203,Black Gram (Urd Beans),Kottayam,2016-09-29,11750.0,1.5,26.6,clear
+204,Green Gram (Moong),Kottayam,2016-09-29,7200.0,1.0,26.6,clear
+205,Bengal Gram(Gram),Kottayam,2016-03-10,9900.0,2.0,33.4,clear
+206,Black Gram (Urd Beans),Kottayam,2016-03-10,11750.0,1.5,33.4,clear
+207,Green Gram (Moong),Kottayam,2016-03-10,7000.0,1.0,33.4,clear
+208,Bengal Gram(Gram),Kottayam,2016-06-10,9900.0,1.5,26.8,rain
+209,Black Gram (Urd Beans),Kottayam,2016-06-10,11750.0,1.5,26.8,rain
+210,Green Gram (Moong),Kottayam,2016-06-10,7000.0,1.0,26.8,rain
+211,Bengal Gram(Gram),Kottayam,2016-12-10,9800.0,1.0,29.6,clear
+212,Black Gram (Urd Beans),Kottayam,2016-12-10,12400.0,2.0,29.6,clear
+213,Green Gram (Moong),Kottayam,2016-12-10,7300.0,1.5,29.6,clear
+214,Bengal Gram(Gram),Kottayam,2016-10-14,10600.0,1.5,28.8,rain
+215,Black Gram (Urd Beans),Kottayam,2016-10-14,12500.0,1.5,28.8,rain
+216,Green Gram (Moong),Kottayam,2016-10-14,7200.0,2.0,28.8,rain
+217,Bengal Gram(Gram),Kottayam,2016-10-17,10800.0,1.5,30.2,clear
+218,Black Gram (Urd Beans),Kottayam,2016-10-17,12500.0,1.5,30.2,clear
+219,Green Gram (Moong),Kottayam,2016-10-17,7200.0,1.0,30.2,clear
+220,Bengal Gram(Gram),Kottayam,2016-10-20,10800.0,1.0,30.0,clear
+221,Black Gram (Urd Beans),Kottayam,2016-10-20,12400.0,1.5,30.0,clear
+222,Green Gram (Moong),Kottayam,2016-10-20,7200.0,1.0,30.0,clear
+223,Bengal Gram(Gram),Kottayam,2016-10-24,11500.0,0.0,29.8,clear
+224,Black Gram (Urd Beans),Kottayam,2016-10-24,12200.0,1.5,29.8,clear
+225,Green Gram (Moong),Kottayam,2016-10-24,6600.0,2.0,29.8,clear
+226,Bengal Gram(Gram),Kottayam,2016-10-27,11800.0,0.0,30.0,clear
+227,Black Gram (Urd Beans),Kottayam,2016-10-27,12200.0,2.0,30.0,clear
+228,Green Gram (Moong),Kottayam,2016-10-27,6500.0,1.0,30.0,clear
+229,Bengal Gram(Gram),Kottayam,2016-10-31,11800.0,0.0,30.0,clear
+230,Black Gram (Urd Beans),Kottayam,2016-10-31,12200.0,1.2,30.0,clear
+231,Green Gram (Moong),Kottayam,2016-10-31,6500.0,1.5,30.0,clear
+232,Bengal Gram(Gram),Kottayam,2016-03-11,11800.0,1.5,33.0,clear
+233,Black Gram (Urd Beans),Kottayam,2016-03-11,12200.0,1.5,33.0,clear
+234,Green Gram (Moong),Kottayam,2016-03-11,6500.0,2.5,33.0,clear
+235,Bengal Gram(Gram),Kottayam,2016-07-11,11800.0,0.0,27.8,clear
+236,Black Gram (Urd Beans),Kottayam,2016-07-11,12200.0,1.5,27.8,clear
+237,Bengal Gram(Gram),Kottayam,2016-10-11,11800.0,0.0,31.0,clear
+238,Black Gram (Urd Beans),Kottayam,2016-10-11,12200.0,0.0,31.0,clear
+239,Green Gram (Moong),Kottayam,2016-10-11,6400.0,0.0,31.0,clear
+240,Bengal Gram(Gram),Kottayam,2016-11-14,11800.0,0.0,25.8,clear
+241,Black Gram (Urd Beans),Kottayam,2016-11-14,12200.0,0.0,25.8,clear
+242,Green Gram (Moong),Kottayam,2016-11-14,6500.0,0.0,25.8,clear
+243,Bengal Gram(Gram),Kottayam,2016-11-17,11800.0,0.0,31.0,clear
+244,Black Gram (Urd Beans),Kottayam,2016-11-17,11900.0,0.0,31.0,clear
+245,Bengal Gram(Gram),Kottayam,2016-11-21,11800.0,0.0,29.2,clear
+246,Black Gram (Urd Beans),Kottayam,2016-11-21,12200.0,0.0,29.2,clear
+247,Green Gram (Moong),Kottayam,2016-11-21,6600.0,0.0,29.2,clear
+248,Bengal Gram(Gram),Kottayam,2016-11-24,12200.0,0.0,30.8,clear
+249,Black Gram (Urd Beans),Kottayam,2016-11-24,11400.0,0.0,30.8,clear
+250,Green Gram (Moong),Kottayam,2016-11-24,6400.0,0.0,30.8,clear
+251,Bengal Gram(Gram),Kottayam,2016-11-29,12200.0,0.0,29.8,clear
+252,Black Gram (Urd Beans),Kottayam,2016-11-29,11400.0,0.0,29.8,clear
+253,Green Gram (Moong),Kottayam,2016-11-29,6400.0,0.0,29.8,clear
+254,Bengal Gram(Gram),Kottayam,2016-05-12,12200.0,0.0,33.0,clear
+255,Black Gram (Urd Beans),Kottayam,2016-05-12,11400.0,0.0,33.0,clear
+256,Green Gram (Moong),Kottayam,2016-05-12,6400.0,0.0,33.0,clear
+257,Bengal Gram(Gram),Kottayam,2016-12-13,11200.0,0.0,26.0,clear
+258,Black Gram (Urd Beans),Kottayam,2016-12-13,11500.0,1.5,26.0,clear
+259,Green Gram (Moong),Kottayam,2016-12-13,7500.0,1.0,26.0,clear
+260,Bengal Gram(Gram),Kottayam,2016-12-15,11200.0,1.0,31.6,clear
+261,Black Gram (Urd Beans),Kottayam,2016-12-15,11400.0,1.0,31.6,clear
+262,Green Gram (Moong),Kottayam,2016-12-15,7500.0,1.0,31.6,clear
+263,Bengal Gram(Gram),Kottayam,2016-12-19,11200.0,1.0,30.0,clear
+264,Black Gram (Urd Beans),Kottayam,2016-12-19,10500.0,1.0,30.0,clear
+265,Green Gram (Moong),Kottayam,2016-12-19,7500.0,1.0,30.0,clear
+266,Bengal Gram(Gram),Kottayam,2016-12-22,11200.0,1.0,30.6,clear
+267,Black Gram (Urd Beans),Kottayam,2016-12-22,10500.0,0.0,30.6,clear
+268,Green Gram (Moong),Kottayam,2016-12-22,7500.0,1.0,30.6,clear
+269,Bengal Gram(Gram),Kottayam,2016-12-26,11200.0,1.0,31.0,clear
+270,Black Gram (Urd Beans),Kottayam,2016-12-26,10500.0,1.0,31.0,clear
+271,Green Gram (Moong),Kottayam,2016-12-26,6700.0,1.0,31.0,clear
+272,Bengal Gram(Gram),Kottayam,2016-12-29,11200.0,1.0,31.8,clear
+273,Black Gram (Urd Beans),Kottayam,2016-12-29,10400.0,0.0,31.8,clear
+274,Green Gram (Moong),Kottayam,2016-12-29,6600.0,0.0,31.8,clear
+275,Black Gram (Urd Beans),Kottayam,2016-04-01,16650.0,3.0,33.0,clear
+276,Green Gram (Moong),Kottayam,2016-04-01,9800.0,3.0,33.0,clear
+277,Black Gram (Urd Beans),Kottayam,2016-11-01,14750.0,3.0,26.0,rain
+278,Green Gram (Moong),Kottayam,2016-11-01,9200.0,3.0,26.0,rain
+279,Black Gram (Urd Beans),Kottayam,2016-01-18,14750.0,2.5,30.8,clear
+280,Green Gram (Moong),Kottayam,2016-01-18,9200.0,2.0,30.8,clear
+281,Black Gram (Urd Beans),Kottayam,2016-01-21,14750.0,3.0,31.4,clear
+282,Green Gram (Moong),Kottayam,2016-01-21,9300.0,2.0,31.4,clear
+283,Black Gram (Urd Beans),Kottayam,2016-01-02,14700.0,2.5,33.0,clear
+284,Green Gram (Moong),Kottayam,2016-01-02,9500.0,2.0,33.0,clear
+285,Black Gram (Urd Beans),Kottayam,2016-02-05,18600.0,2.0,22.4,clear
+286,Green Gram (Moong),Kottayam,2016-02-05,9400.0,2.0,22.4,clear
+287,Black Gram (Urd Beans),Kottayam,2016-01-12,11400.0,0.0,31.0,clear
+288,Green Gram (Moong),Kottayam,2016-01-12,6400.0,0.0,31.0,clear
+289,Green Gram (Moong),Kottayam,2016-04-18,8600.0,2.0,33.0,clear
+290,Bengal Gram(Gram),Kottayam,2017-03-01,10500.0,1.0,32.2,clear
+291,Black Gram (Urd Beans),Kottayam,2017-03-01,10200.0,1.2,32.2,clear
+292,Green Gram (Moong),Kottayam,2017-03-01,6600.0,0.0,32.2,clear
+293,Bengal Gram(Gram),Kottayam,2017-05-01,10500.0,0.0,33.0,clear
+294,Black Gram (Urd Beans),Kottayam,2017-05-01,10100.0,1.0,33.0,clear
+295,Green Gram (Moong),Kottayam,2017-05-01,6400.0,0.0,33.0,clear
+296,Bengal Gram(Gram),Kottayam,2017-09-01,10200.0,1.0,30.4,clear
+297,Black Gram (Urd Beans),Kottayam,2017-09-01,10200.0,1.0,30.4,clear
+298,Green Gram (Moong),Kottayam,2017-09-01,6500.0,2.0,30.4,clear
+299,Bengal Gram(Gram),Kottayam,2017-12-01,10200.0,1.0,24.4,clear
+300,Black Gram (Urd Beans),Kottayam,2017-12-01,10400.0,1.0,24.4,clear
+301,Green Gram (Moong),Kottayam,2017-12-01,6500.0,1.0,24.4,clear
+302,Bengal Gram(Gram),Kottayam,2017-01-16,10400.0,1.0,31.0,clear
+303,Black Gram (Urd Beans),Kottayam,2017-01-16,10400.0,1.0,31.0,clear
+304,Green Gram (Moong),Kottayam,2017-01-16,6600.0,1.0,31.0,clear
+305,Bengal Gram(Gram),Kottayam,2017-01-19,10000.0,0.0,30.6,clear
+306,Black Gram (Urd Beans),Kottayam,2017-01-19,10100.0,0.0,30.6,clear
+307,Green Gram (Moong),Kottayam,2017-01-19,6600.0,0.0,30.6,clear
+308,Bengal Gram(Gram),Kottayam,2017-01-23,9500.0,0.0,31.0,clear
+309,Black Gram (Urd Beans),Kottayam,2017-01-23,10500.0,0.0,31.0,clear
+310,Green Gram (Moong),Kottayam,2017-01-23,6500.0,1.0,31.0,clear
+311,Bengal Gram(Gram),Kottayam,2017-01-27,9500.0,0.0,25.6,rain
+312,Black Gram (Urd Beans),Kottayam,2017-01-27,10500.0,0.0,25.6,rain
+313,Green Gram (Moong),Kottayam,2017-01-27,6500.0,1.5,25.6,rain
+314,Bengal Gram(Gram),Kottayam,2017-01-30,9500.0,0.0,31.8,clear
+315,Black Gram (Urd Beans),Kottayam,2017-01-30,10500.0,1.0,31.8,clear
+316,Green Gram (Moong),Kottayam,2017-01-30,6500.0,1.0,31.8,clear
+317,Bengal Gram(Gram),Kottayam,2017-02-02,9500.0,0.0,31.0,clear
+318,Black Gram (Urd Beans),Kottayam,2017-02-02,10500.0,0.0,31.0,clear
+319,Green Gram (Moong),Kottayam,2017-02-02,6500.0,1.0,31.0,clear
+320,Bengal Gram(Gram),Kottayam,2017-06-02,8900.0,0.0,25.6,rain
+321,Black Gram (Urd Beans),Kottayam,2017-06-02,9800.0,0.0,25.6,rain
+322,Green Gram (Moong),Kottayam,2017-06-02,7000.0,0.0,25.6,rain
+323,Bengal Gram(Gram),Kottayam,2017-09-02,8900.0,1.0,30.0,clear
+324,Black Gram (Urd Beans),Kottayam,2017-09-02,9900.0,1.0,30.0,clear
+325,Green Gram (Moong),Kottayam,2017-09-02,7000.0,1.0,30.0,clear
+326,Bengal Gram(Gram),Kottayam,2017-02-13,8900.0,0.0,33.0,clear
+327,Black Gram (Urd Beans),Kottayam,2017-02-13,9700.0,1.0,33.0,clear
+328,Green Gram (Moong),Kottayam,2017-02-13,7000.0,1.5,33.0,clear
+329,Bengal Gram(Gram),Kottayam,2017-02-16,8900.0,0.0,33.6,clear
+330,Black Gram (Urd Beans),Kottayam,2017-02-16,9900.0,0.0,33.6,clear
+331,Green Gram (Moong),Kottayam,2017-02-16,6800.0,1.0,33.6,clear
+332,Bengal Gram(Gram),Kottayam,2017-02-20,8100.0,0.0,30.0,clear
+333,Black Gram (Urd Beans),Kottayam,2017-02-20,9500.0,0.0,30.0,clear
+334,Green Gram (Moong),Kottayam,2017-02-20,7000.0,1.5,30.0,clear
+335,Bengal Gram(Gram),Kottayam,2017-02-23,8100.0,0.0,32.0,clear
+336,Black Gram (Urd Beans),Kottayam,2017-02-23,9500.0,1.0,32.0,clear
+337,Green Gram (Moong),Kottayam,2017-02-23,7000.0,1.0,32.0,clear
+338,Bengal Gram(Gram),Kottayam,2017-02-27,8100.0,0.0,33.0,clear
+339,Black Gram (Urd Beans),Kottayam,2017-02-27,9400.0,1.0,33.0,clear
+340,Green Gram (Moong),Kottayam,2017-02-27,7000.0,1.0,33.0,clear
+341,Bengal Gram(Gram),Kottayam,2017-02-03,8000.0,1.0,31.2,clear
+342,Black Gram (Urd Beans),Kottayam,2017-02-03,9000.0,1.0,31.2,clear
+343,Green Gram (Moong),Kottayam,2017-02-03,7200.0,1.0,31.2,clear
+344,Bengal Gram(Gram),Kottayam,2017-06-03,8000.0,1.0,28.0,clear
+345,Black Gram (Urd Beans),Kottayam,2017-06-03,9000.0,1.0,28.0,clear
+346,Green Gram (Moong),Kottayam,2017-06-03,7200.0,1.5,28.0,clear
+347,Bengal Gram(Gram),Kottayam,2017-09-03,8000.0,1.2,27.0,clear
+348,Black Gram (Urd Beans),Kottayam,2017-09-03,9000.0,0.0,27.0,clear
+349,Green Gram (Moong),Kottayam,2017-09-03,7200.0,1.0,27.0,clear
+350,Bengal Gram(Gram),Kottayam,2017-03-13,8000.0,1.0,33.0,clear
+351,Black Gram (Urd Beans),Kottayam,2017-03-13,9000.0,1.5,33.0,clear
+352,Green Gram (Moong),Kottayam,2017-03-13,7200.0,2.0,33.0,clear
+353,Bengal Gram(Gram),Kottayam,2017-03-16,6500.0,2.0,27.2,clear
+354,Black Gram (Urd Beans),Kottayam,2017-03-16,9500.0,1.0,27.2,clear
+355,Green Gram (Moong),Kottayam,2017-03-16,7200.0,1.5,27.2,clear
+356,Bengal Gram(Gram),Kottayam,2017-03-20,6500.0,2.0,30.0,clear
+357,Black Gram (Urd Beans),Kottayam,2017-03-20,9500.0,1.0,30.0,clear
+358,Green Gram (Moong),Kottayam,2017-03-20,7200.0,1.0,30.0,clear
+359,Bengal Gram(Gram),Kottayam,2017-03-23,6500.0,1.5,32.0,clear
+360,Black Gram (Urd Beans),Kottayam,2017-03-23,9400.0,1.2,32.0,clear
+361,Green Gram (Moong),Kottayam,2017-03-23,7200.0,0.0,32.0,clear
+362,Bengal Gram(Gram),Kottayam,2017-03-27,6500.0,1.0,33.0,clear
+363,Black Gram (Urd Beans),Kottayam,2017-03-27,9400.0,1.0,33.0,clear
+364,Green Gram (Moong),Kottayam,2017-03-27,7200.0,1.2,33.0,clear
+365,Bengal Gram(Gram),Kottayam,2017-03-30,6500.0,1.0,33.0,clear
+366,Black Gram (Urd Beans),Kottayam,2017-03-30,9400.0,1.0,33.0,clear
+367,Green Gram (Moong),Kottayam,2017-03-30,7200.0,1.0,33.0,clear
+368,Bengal Gram(Gram),Kottayam,2017-03-04,7000.0,1.2,27.2,rain
+369,Black Gram (Urd Beans),Kottayam,2017-03-04,9700.0,0.0,27.2,rain
+370,Green Gram (Moong),Kottayam,2017-03-04,7100.0,1.2,27.2,rain
+371,Bengal Gram(Gram),Kottayam,2017-07-04,7000.0,1.0,32.0,clear
+372,Black Gram (Urd Beans),Kottayam,2017-07-04,9700.0,1.0,32.0,clear
+373,Green Gram (Moong),Kottayam,2017-07-04,7300.0,1.0,32.0,clear
+374,Bengal Gram(Gram),Kottayam,2017-10-04,7200.0,1.2,30.0,clear
+375,Black Gram (Urd Beans),Kottayam,2017-10-04,9700.0,0.0,30.0,clear
+376,Green Gram (Moong),Kottayam,2017-10-04,7300.0,2.0,30.0,clear
+377,Bengal Gram(Gram),Kottayam,2017-04-17,7200.0,1.0,33.8,clear
+378,Black Gram (Urd Beans),Kottayam,2017-04-17,9850.0,1.6,33.8,clear
+379,Green Gram (Moong),Kottayam,2017-04-17,7400.0,1.2,33.8,clear
+380,Bengal Gram(Gram),Kottayam,2017-04-20,7200.0,1.0,31.2,clear
+381,Black Gram (Urd Beans),Kottayam,2017-04-20,9750.0,1.0,31.2,clear
+382,Bengal Gram(Gram),Kottayam,2017-04-24,7200.0,1.2,33.4,clear
+383,Black Gram (Urd Beans),Kottayam,2017-04-24,9700.0,1.2,33.4,clear
+384,Green Gram (Moong),Kottayam,2017-04-24,7400.0,0.0,33.4,clear
+385,Bengal Gram(Gram),Kottayam,2017-04-27,7200.0,1.2,32.6,clear
+386,Black Gram (Urd Beans),Kottayam,2017-04-27,9700.0,1.5,32.6,clear
+387,Green Gram (Moong),Kottayam,2017-04-27,7400.0,1.5,32.6,clear
+388,Bengal Gram(Gram),Kottayam,2017-02-05,7200.0,1.2,31.0,clear
+389,Black Gram (Urd Beans),Kottayam,2017-02-05,9700.0,1.4,31.0,clear
+390,Green Gram (Moong),Kottayam,2017-02-05,7400.0,1.5,31.0,clear
+391,Bengal Gram(Gram),Kottayam,2017-04-05,7500.0,1.2,32.2,clear
+392,Black Gram (Urd Beans),Kottayam,2017-04-05,9750.0,1.0,32.2,clear
+393,Green Gram (Moong),Kottayam,2017-04-05,7400.0,1.0,32.2,clear
+394,Bengal Gram(Gram),Kottayam,2017-08-05,7500.0,1.5,26.0,clear
+395,Black Gram (Urd Beans),Kottayam,2017-08-05,9800.0,1.2,26.0,clear
+396,Green Gram (Moong),Kottayam,2017-08-05,7400.0,1.5,26.0,clear
+397,Bengal Gram(Gram),Kottayam,2017-11-05,7500.0,1.0,24.6,clear
+398,Black Gram (Urd Beans),Kottayam,2017-11-05,9800.0,1.0,24.6,clear
+399,Green Gram (Moong),Kottayam,2017-11-05,7400.0,2.0,24.6,clear
+400,Bengal Gram(Gram),Kottayam,2017-05-15,7200.0,2.0,31.0,clear
+401,Black Gram (Urd Beans),Kottayam,2017-05-15,8950.0,2.0,31.0,clear
+402,Green Gram (Moong),Kottayam,2017-05-15,7400.0,2.0,31.0,clear
+403,Bengal Gram(Gram),Kottayam,2017-05-18,7200.0,1.0,29.0,clear
+404,Black Gram (Urd Beans),Kottayam,2017-05-18,9000.0,2.0,29.0,clear
+405,Green Gram (Moong),Kottayam,2017-05-18,7200.0,2.0,29.0,clear
+406,Bengal Gram(Gram),Kottayam,2017-05-22,7200.0,1.5,27.0,clear
+407,Black Gram (Urd Beans),Kottayam,2017-05-22,9000.0,1.5,27.0,clear
+408,Green Gram (Moong),Kottayam,2017-05-22,7400.0,1.2,27.0,clear
+409,Bengal Gram(Gram),Kottayam,2017-05-25,7200.0,1.4,28.0,rain
+410,Black Gram (Urd Beans),Kottayam,2017-05-25,8950.0,2.0,28.0,rain
+411,Green Gram (Moong),Kottayam,2017-05-25,7400.0,1.5,28.0,rain
+412,Bengal Gram(Gram),Kottayam,2017-05-29,7200.0,1.5,25.4,clear
+413,Black Gram (Urd Beans),Kottayam,2017-05-29,9200.0,1.2,25.4,clear
+414,Green Gram (Moong),Kottayam,2017-05-29,7300.0,1.5,25.4,clear
+415,Bengal Gram(Gram),Kottayam,2017-01-06,7200.0,1.2,30.0,clear
+416,Black Gram (Urd Beans),Kottayam,2017-01-06,9200.0,2.0,30.0,clear
+417,Green Gram (Moong),Kottayam,2017-01-06,7300.0,1.5,30.0,clear
+418,Bengal Gram(Gram),Kottayam,2017-05-06,7200.0,1.25,32.6,clear
+419,Black Gram (Urd Beans),Kottayam,2017-05-06,9200.0,2.0,32.6,clear
+420,Green Gram (Moong),Kottayam,2017-05-06,7300.0,1.0,32.6,clear
+421,Bengal Gram(Gram),Kottayam,2017-08-06,7300.0,1.5,27.2,clear
+422,Black Gram (Urd Beans),Kottayam,2017-08-06,9200.0,2.0,27.2,clear
+423,Green Gram (Moong),Kottayam,2017-08-06,7300.0,1.2,27.2,clear
+424,Bengal Gram(Gram),Kottayam,2017-12-06,7200.0,1.5,31.0,clear
+425,Black Gram (Urd Beans),Kottayam,2017-12-06,9200.0,1.5,31.0,clear
+426,Green Gram (Moong),Kottayam,2017-12-06,7000.0,2.0,31.0,clear
+427,Bengal Gram(Gram),Kottayam,2017-06-15,7200.0,1.5,30.2,clear
+428,Black Gram (Urd Beans),Kottayam,2017-06-15,9200.0,2.0,30.2,clear
+429,Green Gram (Moong),Kottayam,2017-06-15,7000.0,1.75,30.2,clear
+430,Bengal Gram(Gram),Kottayam,2017-06-19,7000.0,1.7,32.0,clear
+431,Black Gram (Urd Beans),Kottayam,2017-06-19,9100.0,1.8,32.0,clear
+432,Green Gram (Moong),Kottayam,2017-06-19,7000.0,2.5,32.0,clear
+433,Bengal Gram(Gram),Kottayam,2017-06-22,7000.0,1.2,28.6,rain
+434,Black Gram (Urd Beans),Kottayam,2017-06-22,9100.0,1.5,28.6,rain
+435,Green Gram (Moong),Kottayam,2017-06-22,7000.0,2.0,28.6,rain
+436,Bengal Gram(Gram),Kottayam,2017-06-27,7000.0,1.5,25.0,rain
+437,Black Gram (Urd Beans),Kottayam,2017-06-27,9100.0,1.7,25.0,rain
+438,Green Gram (Moong),Kottayam,2017-06-27,7100.0,1.4,25.0,rain
+439,Bengal Gram(Gram),Kottayam,2017-06-29,7000.0,1.5,31.0,clear
+440,Black Gram (Urd Beans),Kottayam,2017-06-29,8900.0,1.5,31.0,clear
+441,Green Gram (Moong),Kottayam,2017-06-29,7000.0,1.5,31.0,clear
+442,Bengal Gram(Gram),Kottayam,2017-03-07,7000.0,2.0,33.2,clear
+443,Black Gram (Urd Beans),Kottayam,2017-03-07,9000.0,1.7,33.2,clear
+444,Green Gram (Moong),Kottayam,2017-03-07,7000.0,2.0,33.2,clear
+445,Bengal Gram(Gram),Kottayam,2017-06-07,7000.0,1.5,27.0,clear
+446,Black Gram (Urd Beans),Kottayam,2017-06-07,9000.0,1.5,27.0,clear
+447,Green Gram (Moong),Kottayam,2017-06-07,7000.0,2.0,27.0,clear
+448,Bengal Gram(Gram),Kottayam,2017-10-07,7000.0,1.2,28.6,clear
+449,Black Gram (Urd Beans),Kottayam,2017-10-07,9000.0,1.4,28.6,clear
+450,Green Gram (Moong),Kottayam,2017-10-07,7000.0,1.4,28.6,clear
+451,Bengal Gram(Gram),Kottayam,2017-07-13,7000.0,2.0,26.2,rain
+452,Black Gram (Urd Beans),Kottayam,2017-07-13,9000.0,2.0,26.2,rain
+453,Green Gram (Moong),Kottayam,2017-07-13,7000.0,1.5,26.2,rain
+454,Bengal Gram(Gram),Kottayam,2017-07-17,7000.0,1.8,30.0,clear
+455,Black Gram (Urd Beans),Kottayam,2017-07-17,9000.0,2.0,30.0,clear
+456,Green Gram (Moong),Kottayam,2017-07-17,7000.0,2.0,30.0,clear
+457,Bengal Gram(Gram),Kottayam,2017-07-20,7000.0,2.0,27.0,rain
+458,Black Gram (Urd Beans),Kottayam,2017-07-20,9000.0,2.0,27.0,rain
+459,Green Gram (Moong),Kottayam,2017-07-20,7000.0,2.0,27.0,rain
+460,Bengal Gram(Gram),Kottayam,2017-07-24,7000.0,1.3,31.0,clear
+461,Green Gram (Moong),Kottayam,2017-07-24,7000.0,1.7,31.0,clear
+462,Bengal Gram(Gram),Kottayam,2017-07-27,7000.0,2.0,30.6,clear
+463,Black Gram (Urd Beans),Kottayam,2017-07-27,9000.0,2.0,30.6,clear
+464,Green Gram (Moong),Kottayam,2017-07-27,7000.0,1.7,30.6,clear
+465,Bengal Gram(Gram),Kottayam,2017-07-31,7000.0,2.0,29.6,clear
+466,Black Gram (Urd Beans),Kottayam,2017-07-31,9000.0,1.7,29.6,clear
+467,Green Gram (Moong),Kottayam,2017-07-31,7000.0,2.0,29.6,clear
+468,Bengal Gram(Gram),Kottayam,2017-03-08,7000.0,2.0,26.2,clear
+469,Black Gram (Urd Beans),Kottayam,2017-03-08,9000.0,2.0,26.2,clear
+470,Green Gram (Moong),Kottayam,2017-03-08,7000.0,1.7,26.2,clear
+471,Bengal Gram(Gram),Kottayam,2017-07-08,7000.0,2.0,28.8,clear
+472,Black Gram (Urd Beans),Kottayam,2017-07-08,8000.0,2.0,28.8,clear
+473,Green Gram (Moong),Kottayam,2017-07-08,7000.0,1.5,28.8,clear
+474,Bengal Gram(Gram),Kottayam,2017-10-08,7000.0,2.0,31.6,clear
+475,Black Gram (Urd Beans),Kottayam,2017-10-08,8100.0,2.0,31.6,clear
+476,Green Gram (Moong),Kottayam,2017-10-08,7000.0,2.2,31.6,clear
+477,Bengal Gram(Gram),Kottayam,2017-08-14,7000.0,2.0,29.2,clear
+478,Black Gram (Urd Beans),Kottayam,2017-08-14,8400.0,2.0,29.2,clear
+479,Green Gram (Moong),Kottayam,2017-08-14,7000.0,2.0,29.2,clear
+480,Bengal Gram(Gram),Kottayam,2017-08-17,7000.0,1.5,28.6,clear
+481,Black Gram (Urd Beans),Kottayam,2017-08-17,8300.0,2.0,28.6,clear
+482,Green Gram (Moong),Kottayam,2017-08-17,7000.0,2.0,28.6,clear
+483,Bengal Gram(Gram),Kottayam,2017-08-21,7000.0,2.0,27.8,rain
+484,Black Gram (Urd Beans),Kottayam,2017-08-21,8000.0,2.0,27.8,rain
+485,Green Gram (Moong),Kottayam,2017-08-21,7800.0,2.0,27.8,rain
+486,Bengal Gram(Gram),Kottayam,2017-08-28,7000.0,2.2,27.0,rain
+487,Black Gram (Urd Beans),Kottayam,2017-08-28,8000.0,2.5,27.0,rain
+488,Green Gram (Moong),Kottayam,2017-08-28,7000.0,3.0,27.0,rain
+489,Bengal Gram(Gram),Kottayam,2017-08-31,7000.0,2.5,31.0,clear
+490,Black Gram (Urd Beans),Kottayam,2017-08-31,8800.0,2.5,31.0,clear
+491,Green Gram (Moong),Kottayam,2017-08-31,7500.0,2.5,31.0,clear
+492,Bengal Gram(Gram),Kottayam,2017-07-09,7000.0,2.0,23.8,rain
+493,Black Gram (Urd Beans),Kottayam,2017-07-09,8700.0,2.0,23.8,rain
+494,Green Gram (Moong),Kottayam,2017-07-09,7400.0,2.0,23.8,rain
+495,Bengal Gram(Gram),Kottayam,2017-11-09,7000.0,2.0,30.0,clear
+496,Black Gram (Urd Beans),Kottayam,2017-11-09,7900.0,3.0,30.0,clear
+497,Green Gram (Moong),Kottayam,2017-11-09,7400.0,2.0,30.0,clear
+498,Bengal Gram(Gram),Kottayam,2017-09-14,7900.0,1.5,25.8,clear
+499,Black Gram (Urd Beans),Kottayam,2017-09-14,8300.0,2.0,25.8,clear
+500,Green Gram (Moong),Kottayam,2017-09-14,7400.0,1.5,25.8,clear
+501,Bengal Gram(Gram),Kottayam,2017-09-18,7200.0,2.0,30.0,clear
+502,Black Gram (Urd Beans),Kottayam,2017-09-18,8900.0,2.0,30.0,clear
+503,Green Gram (Moong),Kottayam,2017-09-18,7000.0,2.0,30.0,clear
+504,Bengal Gram(Gram),Kottayam,2017-09-22,7200.0,2.0,31.4,clear
+505,Black Gram (Urd Beans),Kottayam,2017-09-22,8200.0,1.5,31.4,clear
+506,Green Gram (Moong),Kottayam,2017-09-22,7500.0,2.0,31.4,clear
+507,Bengal Gram(Gram),Kottayam,2017-09-25,7200.0,2.0,31.0,clear
+508,Black Gram (Urd Beans),Kottayam,2017-09-25,8900.0,1.5,31.0,clear
+509,Green Gram (Moong),Kottayam,2017-09-25,7500.0,2.0,31.0,clear
+510,Bengal Gram(Gram),Kottayam,2017-09-28,7200.0,1.5,28.0,rain
+511,Black Gram (Urd Beans),Kottayam,2017-09-28,8200.0,2.0,28.0,rain
+512,Green Gram (Moong),Kottayam,2017-09-28,7400.0,1.3,28.0,rain
+513,Bengal Gram(Gram),Kottayam,2017-03-10,7200.0,2.0,30.6,clear
+514,Black Gram (Urd Beans),Kottayam,2017-03-10,8400.0,1.6,30.6,clear
+515,Green Gram (Moong),Kottayam,2017-03-10,7000.0,1.5,30.6,clear
+516,Bengal Gram(Gram),Kottayam,2017-05-10,7200.0,1.5,33.6,clear
+517,Black Gram (Urd Beans),Kottayam,2017-05-10,8500.0,1.2,33.6,clear
+518,Green Gram (Moong),Kottayam,2017-05-10,7000.0,2.0,33.6,clear
+519,Bengal Gram(Gram),Kottayam,2017-09-10,7200.0,1.7,28.0,clear
+520,Black Gram (Urd Beans),Kottayam,2017-09-10,8500.0,2.0,28.0,clear
+521,Green Gram (Moong),Kottayam,2017-09-10,7000.0,2.0,28.0,clear
+522,Bengal Gram(Gram),Kottayam,2017-12-10,7500.0,1.5,29.0,clear
+523,Black Gram (Urd Beans),Kottayam,2017-12-10,8500.0,2.0,29.0,clear
+524,Green Gram (Moong),Kottayam,2017-12-10,7000.0,2.0,29.0,clear
+525,Bengal Gram(Gram),Kottayam,2017-10-17,7000.0,1.5,25.6,clear
+526,Black Gram (Urd Beans),Kottayam,2017-10-17,8300.0,1.5,25.6,clear
+527,Green Gram (Moong),Kottayam,2017-10-17,6500.0,2.0,25.6,clear
+528,Bengal Gram(Gram),Kottayam,2017-10-19,7000.0,1.5,30.2,clear
+529,Black Gram (Urd Beans),Kottayam,2017-10-19,8200.0,2.0,30.2,clear
+530,Green Gram (Moong),Kottayam,2017-10-19,6500.0,2.0,30.2,clear
+531,Bengal Gram(Gram),Kottayam,2017-10-23,7000.0,1.3,29.8,clear
+532,Black Gram (Urd Beans),Kottayam,2017-10-23,8200.0,1.8,29.8,clear
+533,Green Gram (Moong),Kottayam,2017-10-23,6400.0,2.5,29.8,clear
+534,Bengal Gram(Gram),Kottayam,2017-10-26,7000.0,3.0,28.8,clear
+535,Black Gram (Urd Beans),Kottayam,2017-10-26,7900.0,2.0,28.8,clear
+536,Green Gram (Moong),Kottayam,2017-10-26,6500.0,2.0,28.8,clear
+537,Bengal Gram(Gram),Kottayam,2017-10-30,7000.0,2.0,29.0,rain
+538,Black Gram (Urd Beans),Kottayam,2017-10-30,7700.0,2.0,29.0,rain
+539,Green Gram (Moong),Kottayam,2017-10-30,6500.0,2.0,29.0,rain
+540,Bengal Gram(Gram),Kottayam,2017-02-11,7100.0,1.75,31.0,clear
+541,Green Gram (Moong),Kottayam,2017-02-11,6500.0,2.5,31.0,clear

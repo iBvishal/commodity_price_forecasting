@@ -1,0 +1,1546 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Sangli,2013-05-28,2650.0,0.0,23.0,rain
+1,Bengal Gram(Gram),Sangli,2013-05-28,3200.0,13.3,23.0,rain
+2,Green Gram (Moong),Sangli,2013-05-28,5750.0,13.0,23.0,rain
+3,Lentil(Masur),Sangli,2013-05-28,3700.0,12.0,23.0,rain
+4,Arhar (Tur/Red Gram),Sangli,2015-12-08,5500.0,1.0,28.0,clear
+5,Bengal Gram(Gram),Sangli,2015-12-08,4200.0,11.0,28.0,clear
+6,Black Gram (Urd Beans),Sangli,2015-12-08,5200.0,0.0,28.0,clear
+7,Lentil(Masur),Sangli,2015-12-08,6500.0,5.0,28.0,clear
+8,Arhar (Tur/Red Gram),Sangli,2015-12-26,9100.0,1.0,26.0,clear
+9,Bengal Gram(Gram),Sangli,2015-12-26,4800.0,16.0,26.0,clear
+10,Black Gram (Urd Beans),Sangli,2015-12-26,9000.0,2.0,26.0,clear
+11,Bengal Gram(Gram),Sangli,2015-12-09,4200.0,12.0,28.0,clear
+12,Black Gram (Urd Beans),Sangli,2015-12-09,8100.0,14.0,28.0,clear
+13,Lentil(Masur),Sangli,2015-12-09,7000.0,2.0,28.0,clear
+14,Bengal Gram(Gram),Sangli,2015-12-10,4700.0,5.0,30.2,clear
+15,Black Gram (Urd Beans),Sangli,2015-12-10,10500.0,5.0,30.2,clear
+16,Bengal Gram(Gram),Sangli,2015-12-12,4800.0,7.0,30.6,clear
+17,Bengal Gram(Gram),Tasgaon,2015-12-12,4650.0,3.0,30.6,clear
+18,Black Gram (Urd Beans),Sangli,2015-12-12,9100.0,2.0,30.6,clear
+19,Green Gram (Moong),Sangli,2015-12-12,9100.0,7.0,30.6,clear
+20,Bengal Gram(Gram),Sangli,2015-12-14,4500.0,8.0,31.0,clear
+21,Bengal Gram(Gram),Tasgaon,2015-12-14,4550.0,2.0,31.0,clear
+22,Black Gram (Urd Beans),Sangli,2015-12-14,8500.0,5.0,31.0,clear
+23,Green Gram (Moong),Sangli,2015-12-14,8100.0,1.0,31.0,clear
+24,Lentil(Masur),Sangli,2015-12-14,7000.0,4.0,31.0,clear
+25,Bengal Gram(Gram),Sangli,2015-12-15,4900.0,8.0,31.6,clear
+26,Black Gram (Urd Beans),Sangli,2015-12-15,9000.0,2.0,31.6,clear
+27,Bengal Gram(Gram),Sangli,2015-12-18,4800.0,9.0,30.0,clear
+28,Black Gram (Urd Beans),Sangli,2015-12-18,9100.0,2.0,30.0,clear
+29,Green Gram (Moong),Sangli,2015-12-18,8500.0,14.0,30.0,clear
+30,Lentil(Masur),Sangli,2015-12-18,6200.0,3.0,30.0,clear
+31,Bengal Gram(Gram),Sangli,2015-12-19,4800.0,7.0,29.0,clear
+32,Bengal Gram(Gram),Tasgaon,2015-12-19,4500.0,1.0,29.0,clear
+33,Black Gram (Urd Beans),Sangli,2015-12-19,9100.0,2.0,29.0,clear
+34,Green Gram (Moong),Sangli,2015-12-19,8500.0,5.0,29.0,clear
+35,Bengal Gram(Gram),Sangli,2015-12-21,4800.0,2.0,30.0,clear
+36,Green Gram (Moong),Sangli,2015-12-21,8900.0,2.0,30.0,clear
+37,Lentil(Masur),Sangli,2015-12-21,7500.0,7.0,30.0,clear
+38,Bengal Gram(Gram),Sangli,2015-12-22,4800.0,5.0,29.0,clear
+39,Black Gram (Urd Beans),Sangli,2015-12-22,9100.0,2.0,29.0,clear
+40,Green Gram (Moong),Sangli,2015-12-22,9100.0,15.0,29.0,clear
+41,Bengal Gram(Gram),Sangli,2015-12-23,4800.0,12.0,28.6,clear
+42,Black Gram (Urd Beans),Sangli,2015-12-23,9000.0,2.0,28.6,clear
+43,Green Gram (Moong),Sangli,2015-12-23,8500.0,2.0,28.6,clear
+44,Lentil(Masur),Sangli,2015-12-23,6900.0,2.0,28.6,clear
+45,Bengal Gram(Gram),Sangli,2015-12-28,4800.0,5.0,29.6,clear
+46,Black Gram (Urd Beans),Sangli,2015-12-28,9000.0,2.0,29.6,clear
+47,Green Gram (Moong),Sangli,2015-12-28,8000.0,5.0,29.6,clear
+48,Lentil(Masur),Sangli,2015-12-28,6600.0,2.0,29.6,clear
+49,Bengal Gram(Gram),Sangli,2015-12-29,4800.0,2.0,30.0,clear
+50,Black Gram (Urd Beans),Sangli,2015-12-29,9000.0,1.0,30.0,clear
+51,Green Gram (Moong),Sangli,2015-12-29,8000.0,2.0,30.0,clear
+52,Lentil(Masur),Sangli,2015-12-29,7000.0,8.0,30.0,clear
+53,Bengal Gram(Gram),Sangli,2015-12-30,4500.0,9.0,31.0,clear
+54,Black Gram (Urd Beans),Sangli,2015-12-30,9500.0,5.0,31.0,clear
+55,Green Gram (Moong),Sangli,2015-12-30,9100.0,1.0,31.0,clear
+56,Lentil(Masur),Sangli,2015-12-30,7200.0,1.0,31.0,clear
+57,Bengal Gram(Gram),Sangli,2015-12-31,4600.0,14.0,18.0,clear
+58,Black Gram (Urd Beans),Sangli,2015-12-31,9100.0,4.0,18.0,clear
+59,Arhar (Tur/Red Gram),Sangli,2016-04-01,9100.0,1.0,38.6,clear
+60,Bengal Gram(Gram),Sangli,2016-04-01,4800.0,9.0,38.6,clear
+61,Black Gram (Urd Beans),Sangli,2016-04-01,8100.0,1.0,38.6,clear
+62,Arhar (Tur/Red Gram),Sangli,2016-01-18,8500.0,8.0,26.8,clear
+63,Bengal Gram(Gram),Sangli,2016-01-18,4600.0,5.0,26.8,clear
+64,Black Gram (Urd Beans),Sangli,2016-01-18,8500.0,4.0,26.8,clear
+65,Arhar (Tur/Red Gram),Sangli,2016-05-02,8300.0,0.0,38.6,clear
+66,Bengal Gram(Gram),Sangli,2016-05-02,4350.0,12.0,38.6,clear
+67,Green Gram (Moong),Sangli,2016-05-02,8300.0,7.0,38.6,clear
+68,Lentil(Masur),Sangli,2016-05-02,6700.0,6.0,38.6,clear
+69,Arhar (Tur/Red Gram),Sangli,2016-02-18,8800.0,0.0,33.4,clear
+70,Bengal Gram(Gram),Sangli,2016-02-18,4600.0,33.0,33.4,clear
+71,Green Gram (Moong),Sangli,2016-02-18,8000.0,8.0,33.4,clear
+72,Lentil(Masur),Sangli,2016-02-18,6100.0,1.0,33.4,clear
+73,Arhar (Tur/Red Gram),Sangli,2016-04-18,8800.0,0.0,34.0,clear
+74,Bengal Gram(Gram),Sangli,2016-04-18,5300.0,64.0,34.0,clear
+75,Arhar (Tur/Red Gram),Sangli,2016-04-22,8500.0,1.0,35.0,clear
+76,Bengal Gram(Gram),Sangli,2016-04-22,5500.0,59.0,35.0,clear
+77,Green Gram (Moong),Sangli,2016-04-22,8000.0,10.0,35.0,clear
+78,Lentil(Masur),Sangli,2016-04-22,6400.0,11.0,35.0,clear
+79,Arhar (Tur/Red Gram),Sangli,2016-04-26,10000.0,0.0,39.4,clear
+80,Bengal Gram(Gram),Sangli,2016-04-26,5400.0,5.0,39.4,clear
+81,Green Gram (Moong),Sangli,2016-04-26,8800.0,5.0,39.4,clear
+82,Lentil(Masur),Sangli,2016-04-26,7100.0,5.0,39.4,clear
+83,Arhar (Tur/Red Gram),Sangli,2016-09-06,9000.0,1.0,27.2,clear
+84,Bengal Gram(Gram),Sangli,2016-09-06,6100.0,23.0,27.2,clear
+85,Black Gram (Urd Beans),Sangli,2016-09-06,10500.0,2.0,27.2,clear
+86,Green Gram (Moong),Sangli,2016-09-06,7100.0,16.0,27.2,clear
+87,Lentil(Masur),Sangli,2016-09-06,6800.0,6.0,27.2,clear
+88,Arhar (Tur/Red Gram),Sangli,2016-08-27,6600.0,1.0,25.6,clear
+89,Bengal Gram(Gram),Sangli,2016-08-27,6400.0,4.0,25.6,clear
+90,Black Gram (Urd Beans),Sangli,2016-08-27,7500.0,1.0,25.6,clear
+91,Green Gram (Moong),Sangli,2016-08-27,5900.0,6.0,25.6,clear
+92,Lentil(Masur),Sangli,2016-08-27,7000.0,4.0,25.6,clear
+93,Arhar (Tur/Red Gram),Sangli,2016-07-09,7000.0,2.0,24.0,rain
+94,Bengal Gram(Gram),Sangli,2016-07-09,6900.0,5.0,24.0,rain
+95,Black Gram (Urd Beans),Sangli,2016-07-09,6800.0,23.0,24.0,rain
+96,Green Gram (Moong),Sangli,2016-07-09,5900.0,4.0,24.0,rain
+97,Lentil(Masur),Sangli,2016-07-09,6300.0,1.0,24.0,rain
+98,Arhar (Tur/Red Gram),Sangli,2016-12-09,6900.0,1.0,27.2,clear
+99,Bengal Gram(Gram),Sangli,2016-12-09,7900.0,3.0,27.2,clear
+100,Black Gram (Urd Beans),Sangli,2016-12-09,6900.0,13.0,27.2,clear
+101,Green Gram (Moong),Sangli,2016-12-09,5900.0,6.0,27.2,clear
+102,Lentil(Masur),Sangli,2016-12-09,6000.0,2.0,27.2,clear
+103,Arhar (Tur/Red Gram),Sangli,2016-01-10,7600.0,6.0,27.6,clear
+104,Bengal Gram(Gram),Sangli,2016-01-10,7900.0,11.0,27.6,clear
+105,Black Gram (Urd Beans),Sangli,2016-01-10,7000.0,12.0,27.6,clear
+106,Green Gram (Moong),Sangli,2016-01-10,5480.0,5.0,27.6,clear
+107,Lentil(Masur),Sangli,2016-01-10,6200.0,14.0,27.6,clear
+108,Arhar (Tur/Red Gram),Sangli,2016-07-12,6500.0,1.0,24.0,rain
+109,Bengal Gram(Gram),Sangli,2016-07-12,9300.0,3.0,24.0,rain
+110,Bengal Gram(Gram),Tasgaon,2016-07-12,8500.0,0.0,24.0,rain
+111,Black Gram (Urd Beans),Sangli,2016-07-12,6500.0,3.0,24.0,rain
+112,Black Gram (Urd Beans),Tasgaon,2016-07-12,6300.0,6.0,24.0,rain
+113,Lentil(Masur),Sangli,2016-07-12,6300.0,3.0,24.0,rain
+114,Arhar (Tur/Red Gram),Sangli,2016-12-15,7000.0,1.0,28.0,clear
+115,Bengal Gram(Gram),Sangli,2016-12-15,9100.0,4.0,28.0,clear
+116,Bengal Gram(Gram),Tasgaon,2016-12-15,8000.0,0.0,28.0,clear
+117,Black Gram (Urd Beans),Sangli,2016-12-15,5700.0,3.0,28.0,clear
+118,Black Gram (Urd Beans),Tasgaon,2016-12-15,6300.0,0.0,28.0,clear
+119,Green Gram (Moong),Sangli,2016-12-15,5400.0,4.0,28.0,clear
+120,Green Gram (Moong),Tasgaon,2016-12-15,5300.0,0.0,28.0,clear
+121,Lentil(Masur),Sangli,2016-12-15,6400.0,2.0,28.0,clear
+122,Arhar (Tur/Red Gram),Tasgaon,2016-05-12,5200.0,1.0,35.4,clear
+123,Bengal Gram(Gram),Sangli,2016-05-12,8000.0,4.0,35.4,clear
+124,Bengal Gram(Gram),Tasgaon,2016-05-12,6500.0,0.0,35.4,clear
+125,Black Gram (Urd Beans),Sangli,2016-05-12,5900.0,1.0,35.4,clear
+126,Green Gram (Moong),Sangli,2016-05-12,5900.0,2.0,35.4,clear
+127,Lentil(Masur),Sangli,2016-05-12,6300.0,1.0,35.4,clear
+128,Bengal Gram(Gram),Sangli,2016-01-01,4600.0,8.0,30.0,clear
+129,Black Gram (Urd Beans),Sangli,2016-01-01,9100.0,3.0,30.0,clear
+130,Green Gram (Moong),Sangli,2016-01-01,9100.0,25.0,30.0,clear
+131,Lentil(Masur),Sangli,2016-01-01,7000.0,5.0,30.0,clear
+132,Bengal Gram(Gram),Sangli,2016-02-01,4700.0,20.0,32.4,clear
+133,Green Gram (Moong),Sangli,2016-02-01,9100.0,21.0,32.4,clear
+134,Lentil(Masur),Sangli,2016-02-01,6500.0,5.0,32.4,clear
+135,Bengal Gram(Gram),Sangli,2016-05-01,4650.0,4.0,38.4,clear
+136,Green Gram (Moong),Sangli,2016-05-01,9100.0,2.0,38.4,clear
+137,Bengal Gram(Gram),Sangli,2016-06-01,4500.0,11.0,37.0,clear
+138,Black Gram (Urd Beans),Sangli,2016-06-01,8500.0,2.0,37.0,clear
+139,Green Gram (Moong),Sangli,2016-06-01,8000.0,1.0,37.0,clear
+140,Bengal Gram(Gram),Sangli,2016-07-01,4700.0,1.0,25.0,rain
+141,Black Gram (Urd Beans),Sangli,2016-07-01,9000.0,1.0,25.0,rain
+142,Green Gram (Moong),Sangli,2016-07-01,8000.0,2.0,25.0,rain
+143,Lentil(Masur),Sangli,2016-07-01,6300.0,2.0,25.0,rain
+144,Bengal Gram(Gram),Sangli,2016-08-01,4600.0,7.0,23.8,rain
+145,Black Gram (Urd Beans),Sangli,2016-08-01,8700.0,1.0,23.8,rain
+146,Green Gram (Moong),Sangli,2016-08-01,8000.0,110.0,23.8,rain
+147,Bengal Gram(Gram),Sangli,2016-09-01,4600.0,6.0,26.6,rain
+148,Black Gram (Urd Beans),Sangli,2016-09-01,8500.0,2.0,26.6,rain
+149,Green Gram (Moong),Sangli,2016-09-01,8000.0,10.0,26.6,rain
+150,Lentil(Masur),Sangli,2016-09-01,6200.0,10.0,26.6,rain
+151,Bengal Gram(Gram),Sangli,2016-11-01,4600.0,7.0,30.6,clear
+152,Lentil(Masur),Sangli,2016-11-01,6300.0,12.0,30.6,clear
+153,Bengal Gram(Gram),Sangli,2016-12-01,4300.0,2.0,29.0,clear
+154,Black Gram (Urd Beans),Sangli,2016-12-01,8700.0,2.0,29.0,clear
+155,Green Gram (Moong),Sangli,2016-12-01,8000.0,2.0,29.0,clear
+156,Lentil(Masur),Sangli,2016-12-01,6300.0,2.0,29.0,clear
+157,Bengal Gram(Gram),Sangli,2016-01-13,4600.0,5.0,28.6,clear
+158,Black Gram (Urd Beans),Sangli,2016-01-13,8500.0,1.0,28.6,clear
+159,Lentil(Masur),Sangli,2016-01-13,6700.0,10.0,28.6,clear
+160,Bengal Gram(Gram),Sangli,2016-01-14,4400.0,7.0,28.0,clear
+161,Green Gram (Moong),Sangli,2016-01-14,8200.0,7.0,28.0,clear
+162,Bengal Gram(Gram),Sangli,2016-01-15,4400.0,9.0,28.0,clear
+163,Lentil(Masur),Sangli,2016-01-15,5700.0,15.0,28.0,clear
+164,Bengal Gram(Gram),Sangli,2016-01-16,4600.0,2.0,27.0,clear
+165,Black Gram (Urd Beans),Sangli,2016-01-16,8900.0,1.0,27.0,clear
+166,Green Gram (Moong),Sangli,2016-01-16,8000.0,3.0,27.0,clear
+167,Lentil(Masur),Sangli,2016-01-16,6500.0,1.0,27.0,clear
+168,Bengal Gram(Gram),Sangli,2016-01-19,4600.0,5.0,26.6,clear
+169,Black Gram (Urd Beans),Sangli,2016-01-19,8500.0,2.0,26.6,clear
+170,Bengal Gram(Gram),Sangli,2016-01-21,4400.0,6.0,27.0,clear
+171,Black Gram (Urd Beans),Sangli,2016-01-21,8200.0,4.0,27.0,clear
+172,Green Gram (Moong),Sangli,2016-01-21,8500.0,3.0,27.0,clear
+173,Lentil(Masur),Sangli,2016-01-21,6400.0,1.0,27.0,clear
+174,Bengal Gram(Gram),Sangli,2016-01-23,4600.0,7.0,28.6,clear
+175,Black Gram (Urd Beans),Sangli,2016-01-23,8900.0,2.0,28.6,clear
+176,Lentil(Masur),Sangli,2016-01-23,6400.0,6.0,28.6,clear
+177,Bengal Gram(Gram),Sangli,2016-01-25,4500.0,4.0,30.0,clear
+178,Black Gram (Urd Beans),Sangli,2016-01-25,8000.0,2.0,30.0,clear
+179,Lentil(Masur),Sangli,2016-01-25,6300.0,15.0,30.0,clear
+180,Bengal Gram(Gram),Sangli,2016-01-27,4500.0,4.0,31.0,clear
+181,Black Gram (Urd Beans),Sangli,2016-01-27,8500.0,2.0,31.0,clear
+182,Bengal Gram(Gram),Sangli,2016-01-28,4700.0,5.0,31.6,clear
+183,Black Gram (Urd Beans),Sangli,2016-01-28,9800.0,3.0,31.6,clear
+184,Lentil(Masur),Sangli,2016-01-28,6300.0,5.0,31.6,clear
+185,Bengal Gram(Gram),Sangli,2016-01-29,4700.0,10.0,32.0,clear
+186,Black Gram (Urd Beans),Sangli,2016-01-29,8800.0,1.0,32.0,clear
+187,Green Gram (Moong),Sangli,2016-01-29,9300.0,8.0,32.0,clear
+188,Bengal Gram(Gram),Sangli,2016-01-30,4300.0,8.0,32.0,clear
+189,Black Gram (Urd Beans),Sangli,2016-01-30,7900.0,3.0,32.0,clear
+190,Green Gram (Moong),Sangli,2016-01-30,7800.0,5.0,32.0,clear
+191,Lentil(Masur),Sangli,2016-01-30,6300.0,20.0,32.0,clear
+192,Bengal Gram(Gram),Sangli,2016-01-02,4300.0,8.0,29.4,clear
+193,Green Gram (Moong),Sangli,2016-01-02,8300.0,5.0,29.4,clear
+194,Bengal Gram(Gram),Sangli,2016-02-02,4400.0,8.0,33.6,clear
+195,Black Gram (Urd Beans),Sangli,2016-02-02,8800.0,2.0,33.6,clear
+196,Green Gram (Moong),Sangli,2016-02-02,9300.0,4.0,33.6,clear
+197,Bengal Gram(Gram),Sangli,2016-03-02,4300.0,16.0,33.0,clear
+198,Black Gram (Urd Beans),Sangli,2016-03-02,8300.0,2.0,33.0,clear
+199,Green Gram (Moong),Sangli,2016-03-02,7800.0,5.0,33.0,clear
+200,Bengal Gram(Gram),Sangli,2016-04-02,4400.0,3.0,39.4,clear
+201,Black Gram (Urd Beans),Sangli,2016-04-02,8300.0,2.0,39.4,clear
+202,Green Gram (Moong),Sangli,2016-04-02,7300.0,32.0,39.4,clear
+203,Lentil(Masur),Sangli,2016-04-02,6100.0,3.0,39.4,clear
+204,Bengal Gram(Gram),Sangli,2016-06-02,4400.0,6.0,32.4,clear
+205,Black Gram (Urd Beans),Sangli,2016-06-02,8300.0,3.0,32.4,clear
+206,Bengal Gram(Gram),Sangli,2016-08-02,4200.0,8.0,23.4,rain
+207,Black Gram (Urd Beans),Sangli,2016-08-02,8800.0,2.0,23.4,rain
+208,Green Gram (Moong),Sangli,2016-08-02,8300.0,2.0,23.4,rain
+209,Bengal Gram(Gram),Sangli,2016-09-02,4300.0,6.0,27.4,clear
+210,Black Gram (Urd Beans),Sangli,2016-09-02,8300.0,2.0,27.4,clear
+211,Green Gram (Moong),Sangli,2016-09-02,7700.0,2.0,27.4,clear
+212,Bengal Gram(Gram),Sangli,2016-10-02,4400.0,3.0,23.6,clear
+213,Black Gram (Urd Beans),Sangli,2016-10-02,8800.0,2.0,23.6,clear
+214,Green Gram (Moong),Sangli,2016-10-02,9300.0,3.0,23.6,clear
+215,Bengal Gram(Gram),Sangli,2016-11-02,4500.0,15.0,29.8,clear
+216,Black Gram (Urd Beans),Sangli,2016-11-02,9300.0,4.0,29.8,clear
+217,Green Gram (Moong),Sangli,2016-11-02,7800.0,3.0,29.8,clear
+218,Bengal Gram(Gram),Sangli,2016-12-02,4600.0,66.0,28.8,clear
+219,Black Gram (Urd Beans),Sangli,2016-12-02,8800.0,1.0,28.8,clear
+220,Green Gram (Moong),Sangli,2016-12-02,8300.0,3.0,28.8,clear
+221,Bengal Gram(Gram),Sangli,2016-02-13,4600.0,62.0,30.4,clear
+222,Black Gram (Urd Beans),Sangli,2016-02-13,9300.0,1.0,30.4,clear
+223,Bengal Gram(Gram),Sangli,2016-02-15,4400.0,40.0,32.0,clear
+224,Black Gram (Urd Beans),Sangli,2016-02-15,8900.0,1.0,32.0,clear
+225,Lentil(Masur),Sangli,2016-02-15,6200.0,26.0,32.0,clear
+226,Bengal Gram(Gram),Sangli,2016-02-16,4300.0,64.0,32.4,clear
+227,Black Gram (Urd Beans),Sangli,2016-02-16,8300.0,1.0,32.4,clear
+228,Lentil(Masur),Sangli,2016-02-16,5800.0,4.0,32.4,clear
+229,Bengal Gram(Gram),Sangli,2016-02-17,4400.0,57.0,32.2,clear
+230,Black Gram (Urd Beans),Sangli,2016-02-17,9000.0,1.0,32.2,clear
+231,Green Gram (Moong),Sangli,2016-02-17,8000.0,10.0,32.2,clear
+232,Bengal Gram(Gram),Sangli,2016-02-20,4600.0,1.0,34.2,clear
+233,Lentil(Masur),Sangli,2016-02-20,6200.0,24.0,34.2,clear
+234,Bengal Gram(Gram),Sangli,2016-02-22,4500.0,56.0,35.4,clear
+235,Black Gram (Urd Beans),Sangli,2016-02-22,8800.0,1.0,35.4,clear
+236,Lentil(Masur),Sangli,2016-02-22,6000.0,4.0,35.4,clear
+237,Bengal Gram(Gram),Sangli,2016-02-23,4300.0,37.0,36.0,clear
+238,Black Gram (Urd Beans),Sangli,2016-02-23,8800.0,1.0,36.0,clear
+239,Green Gram (Moong),Sangli,2016-02-23,8300.0,3.0,36.0,clear
+240,Lentil(Masur),Sangli,2016-02-23,5700.0,1.0,36.0,clear
+241,Bengal Gram(Gram),Sangli,2016-02-24,4400.0,41.0,23.4,clear
+242,Black Gram (Urd Beans),Sangli,2016-02-24,9800.0,1.0,23.4,clear
+243,Bengal Gram(Gram),Sangli,2016-02-25,4600.0,46.0,33.0,clear
+244,Black Gram (Urd Beans),Sangli,2016-02-25,8300.0,1.0,33.0,clear
+245,Green Gram (Moong),Sangli,2016-02-25,8800.0,5.0,33.0,clear
+246,Bengal Gram(Gram),Sangli,2016-02-26,4500.0,37.0,34.6,clear
+247,Black Gram (Urd Beans),Sangli,2016-02-26,8800.0,1.0,34.6,clear
+248,Bengal Gram(Gram),Sangli,2016-02-27,4600.0,74.0,35.2,clear
+249,Black Gram (Urd Beans),Sangli,2016-02-27,9600.0,1.0,35.2,clear
+250,Lentil(Masur),Sangli,2016-02-27,6300.0,2.0,35.2,clear
+251,Bengal Gram(Gram),Sangli,2016-02-29,4600.0,94.0,34.8,clear
+252,Black Gram (Urd Beans),Sangli,2016-02-29,9300.0,2.0,34.8,clear
+253,Green Gram (Moong),Sangli,2016-02-29,9300.0,2.0,34.8,clear
+254,Lentil(Masur),Sangli,2016-02-29,6300.0,2.0,34.8,clear
+255,Bengal Gram(Gram),Sangli,2016-01-03,4700.0,51.0,29.0,clear
+256,Black Gram (Urd Beans),Sangli,2016-01-03,9300.0,1.0,29.0,clear
+257,Green Gram (Moong),Sangli,2016-01-03,8800.0,1.0,29.0,clear
+258,Bengal Gram(Gram),Sangli,2016-02-03,4500.0,58.0,33.0,clear
+259,Black Gram (Urd Beans),Sangli,2016-02-03,9300.0,4.0,33.0,clear
+260,Green Gram (Moong),Sangli,2016-02-03,8300.0,1.0,33.0,clear
+261,Lentil(Masur),Sangli,2016-02-03,5800.0,1.0,33.0,clear
+262,Bengal Gram(Gram),Sangli,2016-03-03,4500.0,42.0,32.6,clear
+263,Black Gram (Urd Beans),Sangli,2016-03-03,9600.0,2.0,32.6,clear
+264,Green Gram (Moong),Sangli,2016-03-03,8800.0,1.0,32.6,clear
+265,Bengal Gram(Gram),Sangli,2016-04-03,4400.0,116.0,36.4,clear
+266,Bengal Gram(Gram),Tasgaon,2016-04-03,4150.0,14.0,36.4,clear
+267,Black Gram (Urd Beans),Sangli,2016-04-03,8800.0,5.0,36.4,clear
+268,Bengal Gram(Gram),Sangli,2016-05-03,4700.0,61.0,39.4,clear
+269,Black Gram (Urd Beans),Sangli,2016-05-03,8800.0,2.0,39.4,clear
+270,Green Gram (Moong),Sangli,2016-05-03,8800.0,2.0,39.4,clear
+271,Lentil(Masur),Sangli,2016-05-03,5900.0,2.0,39.4,clear
+272,Bengal Gram(Gram),Sangli,2016-08-03,4300.0,10.0,23.0,rain
+273,Green Gram (Moong),Sangli,2016-08-03,7500.0,17.0,23.0,rain
+274,Lentil(Masur),Sangli,2016-08-03,5800.0,2.0,23.0,rain
+275,Bengal Gram(Gram),Sangli,2016-09-03,4300.0,2.0,23.8,clear
+276,Green Gram (Moong),Sangli,2016-09-03,7800.0,1.0,23.8,clear
+277,Lentil(Masur),Sangli,2016-09-03,5600.0,4.0,23.8,clear
+278,Bengal Gram(Gram),Sangli,2016-10-03,4500.0,3.0,24.4,clear
+279,Bengal Gram(Gram),Tasgaon,2016-10-03,4100.0,12.0,24.4,clear
+280,Green Gram (Moong),Sangli,2016-10-03,7800.0,1.0,24.4,clear
+281,Lentil(Masur),Sangli,2016-10-03,5600.0,1.0,24.4,clear
+282,Bengal Gram(Gram),Sangli,2016-11-03,4500.0,3.0,30.4,clear
+283,Bengal Gram(Gram),Tasgaon,2016-11-03,4150.0,11.0,30.4,clear
+284,Black Gram (Urd Beans),Sangli,2016-11-03,8000.0,1.0,30.4,clear
+285,Green Gram (Moong),Sangli,2016-11-03,8000.0,5.0,30.4,clear
+286,Lentil(Masur),Sangli,2016-11-03,6300.0,1.0,30.4,clear
+287,Bengal Gram(Gram),Sangli,2016-12-03,4500.0,8.0,28.2,clear
+288,Green Gram (Moong),Sangli,2016-12-03,7900.0,1.0,28.2,clear
+289,Lentil(Masur),Sangli,2016-12-03,5700.0,4.0,28.2,clear
+290,Bengal Gram(Gram),Sangli,2016-03-14,4500.0,81.0,33.6,clear
+291,Black Gram (Urd Beans),Sangli,2016-03-14,8800.0,2.0,33.6,clear
+292,Lentil(Masur),Sangli,2016-03-14,6100.0,3.0,33.6,clear
+293,Bengal Gram(Gram),Sangli,2016-03-15,4700.0,22.0,35.0,clear
+294,Bengal Gram(Gram),Tasgaon,2016-03-15,4250.0,11.0,35.0,clear
+295,Black Gram (Urd Beans),Sangli,2016-03-15,8800.0,3.0,35.0,clear
+296,Green Gram (Moong),Sangli,2016-03-15,8800.0,1.0,35.0,clear
+297,Bengal Gram(Gram),Sangli,2016-03-16,4350.0,205.0,33.0,clear
+298,Black Gram (Urd Beans),Sangli,2016-03-16,9300.0,2.0,33.0,clear
+299,Lentil(Masur),Sangli,2016-03-16,6300.0,1.0,33.0,clear
+300,Bengal Gram(Gram),Sangli,2016-03-17,4500.0,60.0,35.0,clear
+301,Green Gram (Moong),Sangli,2016-03-17,8000.0,7.0,35.0,clear
+302,Bengal Gram(Gram),Sangli,2016-03-18,4600.0,5.0,37.0,clear
+303,Lentil(Masur),Sangli,2016-03-18,6700.0,1.0,37.0,clear
+304,Bengal Gram(Gram),Sangli,2016-03-19,4700.0,1.0,37.6,clear
+305,Green Gram (Moong),Sangli,2016-03-19,8000.0,3.0,37.6,clear
+306,Lentil(Masur),Sangli,2016-03-19,6400.0,1.0,37.6,clear
+307,Bengal Gram(Gram),Sangli,2016-03-21,4700.0,73.0,37.6,clear
+308,Green Gram (Moong),Sangli,2016-03-21,9300.0,10.0,37.6,clear
+309,Lentil(Masur),Sangli,2016-03-21,6400.0,6.0,37.6,clear
+310,Bengal Gram(Gram),Sangli,2016-03-22,4500.0,17.0,36.0,clear
+311,Bengal Gram(Gram),Sangli,2016-03-23,4500.0,50.0,37.6,clear
+312,Black Gram (Urd Beans),Sangli,2016-03-23,9000.0,2.0,37.6,clear
+313,Lentil(Masur),Sangli,2016-03-23,6300.0,2.0,37.6,clear
+314,Bengal Gram(Gram),Sangli,2016-03-25,4400.0,83.0,36.4,clear
+315,Green Gram (Moong),Sangli,2016-03-25,7700.0,3.0,36.4,clear
+316,Lentil(Masur),Sangli,2016-03-25,6400.0,1.0,36.4,clear
+317,Bengal Gram(Gram),Sangli,2016-03-26,4500.0,6.0,27.4,clear
+318,Green Gram (Moong),Sangli,2016-03-26,8000.0,2.0,27.4,clear
+319,Lentil(Masur),Sangli,2016-03-26,6100.0,1.0,27.4,clear
+320,Bengal Gram(Gram),Sangli,2016-03-29,4500.0,34.0,37.0,clear
+321,Green Gram (Moong),Sangli,2016-03-29,7800.0,2.0,37.0,clear
+322,Lentil(Masur),Sangli,2016-03-29,6400.0,1.0,37.0,clear
+323,Bengal Gram(Gram),Sangli,2016-03-30,4750.0,63.0,37.0,clear
+324,Green Gram (Moong),Sangli,2016-03-30,8000.0,8.0,37.0,clear
+325,Lentil(Masur),Sangli,2016-03-30,6000.0,5.0,37.0,clear
+326,Bengal Gram(Gram),Sangli,2016-03-31,4600.0,55.0,38.4,clear
+327,Black Gram (Urd Beans),Sangli,2016-03-31,9100.0,1.0,38.4,clear
+328,Green Gram (Moong),Sangli,2016-03-31,7800.0,2.0,38.4,clear
+329,Bengal Gram(Gram),Sangli,2016-01-04,4600.0,20.0,29.0,clear
+330,Green Gram (Moong),Sangli,2016-01-04,7800.0,3.0,29.0,clear
+331,Lentil(Masur),Sangli,2016-01-04,6000.0,3.0,29.0,clear
+332,Bengal Gram(Gram),Sangli,2016-02-04,4500.0,3.0,33.0,clear
+333,Black Gram (Urd Beans),Sangli,2016-02-04,9200.0,1.0,33.0,clear
+334,Green Gram (Moong),Sangli,2016-02-04,8800.0,4.0,33.0,clear
+335,Bengal Gram(Gram),Sangli,2016-05-04,4700.0,55.0,37.4,clear
+336,Green Gram (Moong),Sangli,2016-05-04,8000.0,1.0,37.4,clear
+337,Lentil(Masur),Sangli,2016-05-04,6400.0,1.0,37.4,clear
+338,Bengal Gram(Gram),Sangli,2016-06-04,4900.0,47.0,32.2,clear
+339,Bengal Gram(Gram),Sangli,2016-07-04,5000.0,72.0,25.8,clear
+340,Lentil(Masur),Sangli,2016-07-04,6500.0,5.0,25.8,clear
+341,Bengal Gram(Gram),Sangli,2016-09-04,4800.0,42.0,28.4,clear
+342,Bengal Gram(Gram),Tasgaon,2016-09-04,4550.0,15.0,28.4,clear
+343,Lentil(Masur),Sangli,2016-09-04,6400.0,5.0,28.4,clear
+344,Bengal Gram(Gram),Sangli,2016-11-04,5000.0,42.0,30.6,clear
+345,Bengal Gram(Gram),Tasgaon,2016-11-04,4450.0,12.0,30.6,clear
+346,Lentil(Masur),Sangli,2016-11-04,6400.0,2.0,30.6,clear
+347,Bengal Gram(Gram),Sangli,2016-12-04,5100.0,40.0,29.7,clear
+348,Bengal Gram(Gram),Tasgaon,2016-12-04,4500.0,15.0,29.7,clear
+349,Black Gram (Urd Beans),Sangli,2016-12-04,9000.0,1.0,29.7,clear
+350,Green Gram (Moong),Sangli,2016-12-04,8500.0,2.0,29.7,clear
+351,Bengal Gram(Gram),Sangli,2016-04-13,5000.0,56.0,37.4,clear
+352,Green Gram (Moong),Sangli,2016-04-13,8000.0,4.0,37.4,clear
+353,Lentil(Masur),Sangli,2016-04-13,6400.0,4.0,37.4,clear
+354,Bengal Gram(Gram),Sangli,2016-04-16,5100.0,45.0,34.0,clear
+355,Green Gram (Moong),Sangli,2016-04-16,8800.0,2.0,34.0,clear
+356,Lentil(Masur),Sangli,2016-04-16,6700.0,1.0,34.0,clear
+357,Bengal Gram(Gram),Sangli,2016-04-20,5500.0,59.0,38.0,clear
+358,Green Gram (Moong),Sangli,2016-04-20,9300.0,1.0,38.0,clear
+359,Lentil(Masur),Sangli,2016-04-20,7300.0,1.0,38.0,clear
+360,Bengal Gram(Gram),Sangli,2016-04-21,5500.0,55.0,36.4,clear
+361,Green Gram (Moong),Sangli,2016-04-21,8300.0,4.0,36.4,clear
+362,Bengal Gram(Gram),Sangli,2016-04-23,5300.0,45.0,34.0,clear
+363,Bengal Gram(Gram),Sangli,2016-04-25,5400.0,44.0,37.4,clear
+364,Green Gram (Moong),Sangli,2016-04-25,8800.0,1.0,37.4,clear
+365,Lentil(Masur),Sangli,2016-04-25,7000.0,3.0,37.4,clear
+366,Bengal Gram(Gram),Sangli,2016-04-27,5300.0,59.0,34.0,clear
+367,Black Gram (Urd Beans),Sangli,2016-04-27,10000.0,1.0,34.0,clear
+368,Green Gram (Moong),Sangli,2016-04-27,8800.0,1.0,34.0,clear
+369,Bengal Gram(Gram),Sangli,2016-04-28,5400.0,8.0,29.0,clear
+370,Green Gram (Moong),Sangli,2016-04-28,8000.0,3.0,29.0,clear
+371,Lentil(Masur),Sangli,2016-04-28,6900.0,2.0,29.0,clear
+372,Bengal Gram(Gram),Sangli,2016-04-30,5300.0,4.0,38.8,clear
+373,Green Gram (Moong),Sangli,2016-04-30,7800.0,7.0,38.8,clear
+374,Lentil(Masur),Sangli,2016-04-30,6800.0,5.0,38.8,clear
+375,Bengal Gram(Gram),Sangli,2016-02-05,5500.0,28.0,18.4,clear
+376,Green Gram (Moong),Sangli,2016-02-05,8000.0,5.0,18.4,clear
+377,Lentil(Masur),Sangli,2016-02-05,6100.0,7.0,18.4,clear
+378,Bengal Gram(Gram),Sangli,2016-04-05,5400.0,41.0,34.2,clear
+379,Green Gram (Moong),Sangli,2016-04-05,7000.0,1.0,34.2,clear
+380,Bengal Gram(Gram),Sangli,2016-05-05,5400.0,44.0,38.0,clear
+381,Bengal Gram(Gram),Sangli,2016-06-05,5300.0,83.0,28.0,clear
+382,Bengal Gram(Gram),Sangli,2016-07-05,5200.0,34.0,26.0,clear
+383,Bengal Gram(Gram),Sangli,2016-11-05,5400.0,49.0,29.2,clear
+384,Green Gram (Moong),Sangli,2016-11-05,8000.0,1.0,29.2,clear
+385,Bengal Gram(Gram),Sangli,2016-12-05,5400.0,58.0,29.6,clear
+386,Green Gram (Moong),Sangli,2016-12-05,8600.0,4.0,29.6,clear
+387,Lentil(Masur),Sangli,2016-12-05,7100.0,1.0,29.6,clear
+388,Bengal Gram(Gram),Sangli,2016-05-13,5300.0,61.0,33.0,clear
+389,Green Gram (Moong),Sangli,2016-05-13,7700.0,1.0,33.0,clear
+390,Lentil(Masur),Sangli,2016-05-13,6800.0,2.0,33.0,clear
+391,Bengal Gram(Gram),Sangli,2016-05-14,5400.0,46.0,35.0,clear
+392,Green Gram (Moong),Sangli,2016-05-14,7500.0,6.0,35.0,clear
+393,Lentil(Masur),Sangli,2016-05-14,7100.0,1.0,35.0,clear
+394,Bengal Gram(Gram),Sangli,2016-05-19,5500.0,60.0,34.2,clear
+395,Green Gram (Moong),Sangli,2016-05-19,7600.0,5.0,34.2,clear
+396,Lentil(Masur),Sangli,2016-05-19,7000.0,2.0,34.2,clear
+397,Bengal Gram(Gram),Sangli,2016-05-20,5600.0,60.0,34.0,clear
+398,Green Gram (Moong),Sangli,2016-05-20,8500.0,2.0,34.0,clear
+399,Bengal Gram(Gram),Sangli,2016-05-23,5700.0,63.0,34.4,clear
+400,Green Gram (Moong),Sangli,2016-05-23,8500.0,1.0,34.4,clear
+401,Bengal Gram(Gram),Sangli,2016-05-24,5800.0,53.0,36.4,clear
+402,Green Gram (Moong),Sangli,2016-05-24,7500.0,2.0,36.4,clear
+403,Bengal Gram(Gram),Sangli,2016-05-25,5600.0,39.0,34.4,clear
+404,Green Gram (Moong),Sangli,2016-05-25,8500.0,1.0,34.4,clear
+405,Bengal Gram(Gram),Sangli,2016-05-26,5550.0,39.0,34.4,clear
+406,Green Gram (Moong),Sangli,2016-05-26,7000.0,10.0,34.4,clear
+407,Bengal Gram(Gram),Sangli,2016-05-27,5800.0,50.0,34.8,clear
+408,Green Gram (Moong),Sangli,2016-05-27,7500.0,1.0,34.8,clear
+409,Bengal Gram(Gram),Sangli,2016-05-28,5800.0,44.0,35.4,clear
+410,Green Gram (Moong),Sangli,2016-05-28,8500.0,1.0,35.4,clear
+411,Bengal Gram(Gram),Sangli,2016-05-30,5700.0,31.0,35.4,clear
+412,Bengal Gram(Gram),Sangli,2016-01-06,5800.0,17.0,28.6,clear
+413,Green Gram (Moong),Sangli,2016-01-06,8000.0,5.0,28.6,clear
+414,Bengal Gram(Gram),Sangli,2016-02-06,5800.0,10.0,32.0,clear
+415,Green Gram (Moong),Sangli,2016-02-06,7000.0,14.0,32.0,clear
+416,Lentil(Masur),Sangli,2016-02-06,6900.0,12.0,32.0,clear
+417,Bengal Gram(Gram),Sangli,2016-03-06,5800.0,26.0,34.0,clear
+418,Bengal Gram(Gram),Sangli,2016-04-06,5800.0,14.0,30.2,clear
+419,Bengal Gram(Gram),Sangli,2016-06-06,6000.0,35.0,31.8,clear
+420,Green Gram (Moong),Sangli,2016-06-06,7300.0,4.0,31.8,clear
+421,Lentil(Masur),Sangli,2016-06-06,6800.0,10.0,31.8,clear
+422,Bengal Gram(Gram),Sangli,2016-08-06,6100.0,22.0,25.6,clear
+423,Bengal Gram(Gram),Tasgaon,2016-08-06,5400.0,17.0,25.6,clear
+424,Bengal Gram(Gram),Sangli,2016-10-06,6100.0,14.0,27.6,clear
+425,Green Gram (Moong),Sangli,2016-10-06,7100.0,0.0,27.6,clear
+426,Bengal Gram(Gram),Sangli,2016-11-06,6300.0,17.0,30.6,clear
+427,Green Gram (Moong),Sangli,2016-11-06,9300.0,4.0,30.6,clear
+428,Bengal Gram(Gram),Sangli,2016-06-13,6300.0,18.0,26.6,clear
+429,Green Gram (Moong),Sangli,2016-06-13,6800.0,40.0,26.6,clear
+430,Lentil(Masur),Sangli,2016-06-13,6800.0,49.0,26.6,clear
+431,Bengal Gram(Gram),Sangli,2016-06-14,6300.0,3.0,29.0,clear
+432,Green Gram (Moong),Sangli,2016-06-14,7000.0,1.0,29.0,clear
+433,Bengal Gram(Gram),Sangli,2016-06-15,6100.0,7.0,30.4,clear
+434,Black Gram (Urd Beans),Sangli,2016-06-15,11000.0,5.0,30.4,clear
+435,Green Gram (Moong),Sangli,2016-06-15,7300.0,15.0,30.4,clear
+436,Lentil(Masur),Sangli,2016-06-15,7000.0,5.0,30.4,clear
+437,Bengal Gram(Gram),Sangli,2016-06-16,6600.0,0.0,32.0,clear
+438,Green Gram (Moong),Sangli,2016-06-16,7300.0,3.0,32.0,clear
+439,Lentil(Masur),Sangli,2016-06-16,6600.0,5.0,32.0,clear
+440,Bengal Gram(Gram),Sangli,2016-06-20,6800.0,12.0,30.0,clear
+441,Bengal Gram(Gram),Tasgaon,2016-06-20,5400.0,13.0,30.0,clear
+442,Green Gram (Moong),Sangli,2016-06-20,7600.0,4.0,30.0,clear
+443,Bengal Gram(Gram),Sangli,2016-06-21,6600.0,24.0,26.0,rain
+444,Bengal Gram(Gram),Sangli,2016-06-22,6800.0,10.0,27.6,clear
+445,Green Gram (Moong),Sangli,2016-06-22,6500.0,2.0,27.6,clear
+446,Bengal Gram(Gram),Sangli,2016-06-23,6800.0,10.0,27.2,clear
+447,Bengal Gram(Gram),Sangli,2016-06-24,6800.0,13.0,26.2,clear
+448,Green Gram (Moong),Sangli,2016-06-24,8000.0,4.0,26.2,clear
+449,Lentil(Masur),Sangli,2016-06-24,6300.0,3.0,26.2,clear
+450,Bengal Gram(Gram),Sangli,2016-06-25,6500.0,1.0,24.2,rain
+451,Green Gram (Moong),Sangli,2016-06-25,8000.0,2.0,24.2,rain
+452,Bengal Gram(Gram),Sangli,2016-06-27,6500.0,6.0,26.4,clear
+453,Black Gram (Urd Beans),Sangli,2016-06-27,11000.0,2.0,26.4,clear
+454,Green Gram (Moong),Sangli,2016-06-27,7000.0,12.0,26.4,clear
+455,Lentil(Masur),Sangli,2016-06-27,7000.0,8.0,26.4,clear
+456,Bengal Gram(Gram),Sangli,2016-06-28,7800.0,1.0,25.4,clear
+457,Bengal Gram(Gram),Sangli,2016-06-29,7200.0,6.0,24.2,clear
+458,Green Gram (Moong),Sangli,2016-06-29,7000.0,2.0,24.2,clear
+459,Lentil(Masur),Sangli,2016-06-29,7000.0,0.0,24.2,clear
+460,Bengal Gram(Gram),Sangli,2016-06-30,7400.0,3.0,23.8,rain
+461,Green Gram (Moong),Sangli,2016-06-30,7000.0,4.0,23.8,rain
+462,Bengal Gram(Gram),Sangli,2016-01-07,7000.0,15.0,28.6,clear
+463,Lentil(Masur),Sangli,2016-01-07,7300.0,7.0,28.6,clear
+464,Bengal Gram(Gram),Sangli,2016-02-07,7500.0,10.0,19.0,clear
+465,Lentil(Masur),Sangli,2016-02-07,6800.0,5.0,19.0,clear
+466,Bengal Gram(Gram),Sangli,2016-04-07,7500.0,15.0,36.2,clear
+467,Green Gram (Moong),Sangli,2016-04-07,7200.0,9.0,36.2,clear
+468,Bengal Gram(Gram),Sangli,2016-05-07,7300.0,7.0,37.4,clear
+469,Green Gram (Moong),Sangli,2016-05-07,6600.0,17.0,37.4,clear
+470,Lentil(Masur),Sangli,2016-05-07,7200.0,7.0,37.4,clear
+471,Bengal Gram(Gram),Sangli,2016-07-07,7500.0,5.0,25.6,clear
+472,Green Gram (Moong),Sangli,2016-07-07,7100.0,3.0,25.6,clear
+473,Lentil(Masur),Sangli,2016-07-07,7200.0,1.0,25.6,clear
+474,Bengal Gram(Gram),Sangli,2016-08-07,7700.0,4.0,24.2,clear
+475,Bengal Gram(Gram),Sangli,2016-09-07,7700.0,9.0,28.4,clear
+476,Green Gram (Moong),Sangli,2016-09-07,6800.0,3.0,28.4,clear
+477,Lentil(Masur),Sangli,2016-09-07,7300.0,2.0,28.4,clear
+478,Bengal Gram(Gram),Sangli,2016-11-07,7600.0,5.0,29.6,clear
+479,Black Gram (Urd Beans),Sangli,2016-11-07,9700.0,0.0,29.6,clear
+480,Green Gram (Moong),Sangli,2016-11-07,6600.0,7.0,29.6,clear
+481,Bengal Gram(Gram),Sangli,2016-12-07,8000.0,10.0,27.6,clear
+482,Green Gram (Moong),Sangli,2016-12-07,6500.0,7.0,27.6,clear
+483,Lentil(Masur),Sangli,2016-12-07,7000.0,6.0,27.6,clear
+484,Bengal Gram(Gram),Sangli,2016-07-13,7900.0,2.0,25.0,rain
+485,Bengal Gram(Gram),Tasgaon,2016-07-13,7600.0,4.0,25.0,rain
+486,Bengal Gram(Gram),Sangli,2016-07-14,8300.0,1.0,27.2,clear
+487,Bengal Gram(Gram),Tasgaon,2016-07-14,7500.0,4.0,27.2,clear
+488,Green Gram (Moong),Sangli,2016-07-14,7000.0,1.0,27.2,clear
+489,Bengal Gram(Gram),Sangli,2016-07-15,8100.0,5.0,27.4,clear
+490,Black Gram (Urd Beans),Sangli,2016-07-15,10000.0,1.0,27.4,clear
+491,Green Gram (Moong),Sangli,2016-07-15,7100.0,3.0,27.4,clear
+492,Lentil(Masur),Sangli,2016-07-15,7000.0,6.0,27.4,clear
+493,Bengal Gram(Gram),Sangli,2016-07-16,7700.0,3.0,27.2,clear
+494,Bengal Gram(Gram),Tasgaon,2016-07-16,7500.0,8.0,27.2,clear
+495,Green Gram (Moong),Sangli,2016-07-16,7200.0,1.0,27.2,clear
+496,Bengal Gram(Gram),Sangli,2016-07-21,7900.0,2.0,25.4,clear
+497,Bengal Gram(Gram),Tasgaon,2016-07-21,7500.0,4.0,25.4,clear
+498,Bengal Gram(Gram),Sangli,2016-07-23,8300.0,1.0,23.2,rain
+499,Green Gram (Moong),Sangli,2016-07-23,6000.0,6.0,23.2,rain
+500,Lentil(Masur),Sangli,2016-07-23,7100.0,1.0,23.2,rain
+501,Bengal Gram(Gram),Sangli,2016-07-25,7700.0,6.0,28.0,clear
+502,Green Gram (Moong),Sangli,2016-07-25,7300.0,1.0,28.0,clear
+503,Bengal Gram(Gram),Sangli,2016-07-26,7500.0,3.0,28.0,clear
+504,Green Gram (Moong),Sangli,2016-07-26,7300.0,3.0,28.0,clear
+505,Bengal Gram(Gram),Sangli,2016-07-27,7800.0,3.0,27.4,clear
+506,Lentil(Masur),Sangli,2016-07-27,7000.0,4.0,27.4,clear
+507,Bengal Gram(Gram),Sangli,2016-07-28,7800.0,2.0,28.6,clear
+508,Bengal Gram(Gram),Sangli,2016-07-29,7600.0,2.0,25.6,clear
+509,Green Gram (Moong),Sangli,2016-07-29,7000.0,3.0,25.6,clear
+510,Lentil(Masur),Sangli,2016-07-29,7000.0,1.0,25.6,clear
+511,Bengal Gram(Gram),Sangli,2016-03-08,7600.0,3.0,35.4,clear
+512,Bengal Gram(Gram),Tasgaon,2016-03-08,7300.0,4.0,35.4,clear
+513,Green Gram (Moong),Sangli,2016-03-08,7000.0,2.0,35.4,clear
+514,Lentil(Masur),Sangli,2016-03-08,7000.0,1.0,35.4,clear
+515,Bengal Gram(Gram),Sangli,2016-04-08,7600.0,3.0,37.8,clear
+516,Bengal Gram(Gram),Sangli,2016-05-08,7300.0,2.0,36.8,clear
+517,Green Gram (Moong),Sangli,2016-05-08,6300.0,2.0,36.8,clear
+518,Lentil(Masur),Sangli,2016-05-08,7300.0,1.0,36.8,clear
+519,Bengal Gram(Gram),Sangli,2016-08-08,7300.0,3.0,26.6,clear
+520,Green Gram (Moong),Sangli,2016-08-08,6000.0,5.0,26.6,clear
+521,Bengal Gram(Gram),Sangli,2016-09-08,7600.0,10.0,27.4,clear
+522,Green Gram (Moong),Sangli,2016-09-08,5800.0,3.0,27.4,clear
+523,Lentil(Masur),Sangli,2016-09-08,7300.0,1.0,27.4,clear
+524,Bengal Gram(Gram),Sangli,2016-10-08,7500.0,2.0,28.8,clear
+525,Green Gram (Moong),Sangli,2016-10-08,6800.0,2.0,28.8,clear
+526,Lentil(Masur),Sangli,2016-10-08,6800.0,1.0,28.8,clear
+527,Bengal Gram(Gram),Sangli,2016-11-08,7600.0,16.0,17.0,clear
+528,Green Gram (Moong),Sangli,2016-11-08,5400.0,21.0,17.0,clear
+529,Lentil(Masur),Sangli,2016-11-08,6700.0,5.0,17.0,clear
+530,Bengal Gram(Gram),Sangli,2016-12-08,7600.0,10.0,28.2,clear
+531,Black Gram (Urd Beans),Sangli,2016-12-08,6800.0,1.0,28.2,clear
+532,Lentil(Masur),Sangli,2016-12-08,7000.0,5.0,28.2,clear
+533,Bengal Gram(Gram),Sangli,2016-08-13,7600.0,6.0,27.8,clear
+534,Green Gram (Moong),Sangli,2016-08-13,6200.0,3.0,27.8,clear
+535,Bengal Gram(Gram),Sangli,2016-08-16,7300.0,2.0,27.6,clear
+536,Green Gram (Moong),Sangli,2016-08-16,6300.0,3.0,27.6,clear
+537,Bengal Gram(Gram),Sangli,2016-08-17,7700.0,5.0,27.2,clear
+538,Green Gram (Moong),Sangli,2016-08-17,5900.0,1.0,27.2,clear
+539,Lentil(Masur),Sangli,2016-08-17,6800.0,3.0,27.2,clear
+540,Bengal Gram(Gram),Sangli,2016-08-19,7200.0,9.0,28.4,clear
+541,Green Gram (Moong),Sangli,2016-08-19,5400.0,3.0,28.4,clear
+542,Bengal Gram(Gram),Sangli,2016-08-20,7400.0,16.0,28.0,clear
+543,Green Gram (Moong),Sangli,2016-08-20,6100.0,9.0,28.0,clear
+544,Lentil(Masur),Sangli,2016-08-20,6800.0,3.0,28.0,clear
+545,Bengal Gram(Gram),Sangli,2016-08-22,7400.0,6.0,26.0,clear
+546,Green Gram (Moong),Sangli,2016-08-22,6200.0,7.0,26.0,clear
+547,Bengal Gram(Gram),Sangli,2016-08-23,6800.0,6.0,25.6,clear
+548,Green Gram (Moong),Sangli,2016-08-23,5300.0,4.0,25.6,clear
+549,Bengal Gram(Gram),Sangli,2016-08-24,6800.0,6.0,26.2,clear
+550,Green Gram (Moong),Sangli,2016-08-24,5300.0,1.0,26.2,clear
+551,Bengal Gram(Gram),Sangli,2016-08-25,6950.0,3.0,28.0,clear
+552,Black Gram (Urd Beans),Sangli,2016-08-25,6900.0,1.0,28.0,clear
+553,Green Gram (Moong),Sangli,2016-08-25,5200.0,2.0,28.0,clear
+554,Lentil(Masur),Sangli,2016-08-25,6800.0,2.0,28.0,clear
+555,Bengal Gram(Gram),Sangli,2016-08-26,7000.0,5.0,28.2,clear
+556,Green Gram (Moong),Sangli,2016-08-26,5600.0,3.0,28.2,clear
+557,Bengal Gram(Gram),Sangli,2016-08-30,5800.0,7.0,27.6,clear
+558,Bengal Gram(Gram),Sangli,2016-08-31,5400.0,6.0,27.2,clear
+559,Black Gram (Urd Beans),Sangli,2016-08-31,6800.0,2.0,27.2,clear
+560,Bengal Gram(Gram),Sangli,2016-01-09,6300.0,26.0,28.0,clear
+561,Black Gram (Urd Beans),Sangli,2016-01-09,7000.0,4.0,28.0,clear
+562,Green Gram (Moong),Sangli,2016-01-09,5800.0,5.0,28.0,clear
+563,Lentil(Masur),Sangli,2016-01-09,6300.0,10.0,28.0,clear
+564,Bengal Gram(Gram),Sangli,2016-02-09,5800.0,7.0,32.6,clear
+565,Green Gram (Moong),Sangli,2016-02-09,5400.0,3.0,32.6,clear
+566,Bengal Gram(Gram),Sangli,2016-03-09,5800.0,4.0,34.8,clear
+567,Green Gram (Moong),Sangli,2016-03-09,5400.0,8.0,34.8,clear
+568,Lentil(Masur),Sangli,2016-03-09,6200.0,2.0,34.8,clear
+569,Bengal Gram(Gram),Sangli,2016-06-09,7300.0,3.0,25.6,clear
+570,Black Gram (Urd Beans),Sangli,2016-06-09,6500.0,6.0,25.6,clear
+571,Bengal Gram(Gram),Sangli,2016-09-09,6500.0,3.0,29.6,clear
+572,Black Gram (Urd Beans),Sangli,2016-09-09,6900.0,13.0,29.6,clear
+573,Green Gram (Moong),Sangli,2016-09-09,5400.0,9.0,29.6,clear
+574,Lentil(Masur),Sangli,2016-09-09,6400.0,2.0,29.6,clear
+575,Bengal Gram(Gram),Sangli,2016-10-09,7600.0,1.0,26.4,clear
+576,Black Gram (Urd Beans),Sangli,2016-10-09,6400.0,6.0,26.4,clear
+577,Green Gram (Moong),Sangli,2016-10-09,5400.0,6.0,26.4,clear
+578,Bengal Gram(Gram),Sangli,2016-09-14,7500.0,9.0,24.4,rain
+579,Green Gram (Moong),Sangli,2016-09-14,6200.0,3.0,24.4,rain
+580,Bengal Gram(Gram),Sangli,2016-09-15,7700.0,11.0,26.0,clear
+581,Black Gram (Urd Beans),Sangli,2016-09-15,6800.0,12.0,26.0,clear
+582,Green Gram (Moong),Sangli,2016-09-15,5800.0,24.0,26.0,clear
+583,Lentil(Masur),Sangli,2016-09-15,6300.0,8.0,26.0,clear
+584,Bengal Gram(Gram),Sangli,2016-09-16,7800.0,8.0,25.4,clear
+585,Black Gram (Urd Beans),Sangli,2016-09-16,7200.0,4.0,25.4,clear
+586,Green Gram (Moong),Sangli,2016-09-16,5400.0,4.0,25.4,clear
+587,Bengal Gram(Gram),Sangli,2016-09-24,8000.0,12.0,23.6,rain
+588,Bengal Gram(Gram),Tasgaon,2016-09-24,5600.0,4.0,23.6,rain
+589,Black Gram (Urd Beans),Sangli,2016-09-24,6800.0,24.0,23.6,rain
+590,Green Gram (Moong),Sangli,2016-09-24,5400.0,37.0,23.6,rain
+591,Lentil(Masur),Sangli,2016-09-24,6700.0,2.0,23.6,rain
+592,Bengal Gram(Gram),Sangli,2016-09-28,7800.0,5.0,27.8,clear
+593,Black Gram (Urd Beans),Sangli,2016-09-28,6800.0,9.0,27.8,clear
+594,Green Gram (Moong),Sangli,2016-09-28,5800.0,3.0,27.8,clear
+595,Bengal Gram(Gram),Sangli,2016-09-29,7800.0,5.0,24.4,rain
+596,Black Gram (Urd Beans),Sangli,2016-09-29,6700.0,6.0,24.4,rain
+597,Green Gram (Moong),Sangli,2016-09-29,5900.0,5.0,24.4,rain
+598,Lentil(Masur),Sangli,2016-09-29,6700.0,1.0,24.4,rain
+599,Bengal Gram(Gram),Sangli,2016-09-30,8900.0,5.0,28.2,clear
+600,Black Gram (Urd Beans),Sangli,2016-09-30,6500.0,1.0,28.2,clear
+601,Green Gram (Moong),Sangli,2016-09-30,6200.0,7.0,28.2,clear
+602,Lentil(Masur),Sangli,2016-09-30,6700.0,12.0,28.2,clear
+603,Bengal Gram(Gram),Sangli,2016-04-10,7900.0,7.0,38.2,clear
+604,Black Gram (Urd Beans),Sangli,2016-04-10,7000.0,20.0,38.2,clear
+605,Green Gram (Moong),Sangli,2016-04-10,5800.0,3.0,38.2,clear
+606,Lentil(Masur),Sangli,2016-04-10,6500.0,10.0,38.2,clear
+607,Bengal Gram(Gram),Sangli,2016-05-10,8500.0,0.0,38.4,clear
+608,Green Gram (Moong),Sangli,2016-05-10,5800.0,11.0,38.4,clear
+609,Lentil(Masur),Sangli,2016-05-10,6500.0,11.0,38.4,clear
+610,Bengal Gram(Gram),Sangli,2016-06-10,9000.0,1.0,27.6,rain
+611,Black Gram (Urd Beans),Sangli,2016-06-10,7000.0,16.0,27.6,rain
+612,Lentil(Masur),Sangli,2016-06-10,6700.0,3.0,27.6,rain
+613,Bengal Gram(Gram),Sangli,2016-10-10,8900.0,3.0,25.4,clear
+614,Black Gram (Urd Beans),Sangli,2016-10-10,7000.0,13.0,25.4,clear
+615,Green Gram (Moong),Sangli,2016-10-10,5800.0,4.0,25.4,clear
+616,Lentil(Masur),Sangli,2016-10-10,6800.0,2.0,25.4,clear
+617,Bengal Gram(Gram),Sangli,2016-10-15,9300.0,2.0,29.4,clear
+618,Black Gram (Urd Beans),Sangli,2016-10-15,6800.0,40.0,29.4,clear
+619,Green Gram (Moong),Sangli,2016-10-15,6200.0,6.0,29.4,clear
+620,Lentil(Masur),Sangli,2016-10-15,6700.0,29.0,29.4,clear
+621,Bengal Gram(Gram),Sangli,2016-10-18,9200.0,18.0,30.0,clear
+622,Black Gram (Urd Beans),Sangli,2016-10-18,6800.0,14.0,30.0,clear
+623,Green Gram (Moong),Sangli,2016-10-18,5400.0,3.0,30.0,clear
+624,Bengal Gram(Gram),Sangli,2016-10-19,9500.0,0.0,29.8,clear
+625,Black Gram (Urd Beans),Sangli,2016-10-19,6900.0,5.0,29.8,clear
+626,Green Gram (Moong),Sangli,2016-10-19,5460.0,3.0,29.8,clear
+627,Bengal Gram(Gram),Sangli,2016-10-20,9100.0,2.0,29.6,clear
+628,Black Gram (Urd Beans),Sangli,2016-10-20,6900.0,13.0,29.6,clear
+629,Green Gram (Moong),Sangli,2016-10-20,6300.0,3.0,29.6,clear
+630,Lentil(Masur),Sangli,2016-10-20,6600.0,6.0,29.6,clear
+631,Bengal Gram(Gram),Sangli,2016-10-22,9300.0,2.0,29.4,clear
+632,Black Gram (Urd Beans),Sangli,2016-10-22,6300.0,26.0,29.4,clear
+633,Green Gram (Moong),Sangli,2016-10-22,6300.0,3.0,29.4,clear
+634,Lentil(Masur),Sangli,2016-10-22,6700.0,2.0,29.4,clear
+635,Bengal Gram(Gram),Sangli,2016-10-26,9000.0,5.0,30.0,clear
+636,Black Gram (Urd Beans),Sangli,2016-10-26,7000.0,12.0,30.0,clear
+637,Green Gram (Moong),Sangli,2016-10-26,5400.0,8.0,30.0,clear
+638,Lentil(Masur),Sangli,2016-10-26,6000.0,28.0,30.0,clear
+639,Bengal Gram(Gram),Sangli,2016-10-27,9000.0,2.0,31.2,clear
+640,Black Gram (Urd Beans),Sangli,2016-10-27,7000.0,4.0,31.2,clear
+641,Green Gram (Moong),Sangli,2016-10-27,5600.0,3.0,31.2,clear
+642,Lentil(Masur),Sangli,2016-10-27,6500.0,3.0,31.2,clear
+643,Bengal Gram(Gram),Sangli,2016-02-11,8300.0,2.0,28.0,clear
+644,Black Gram (Urd Beans),Sangli,2016-02-11,6800.0,32.0,28.0,clear
+645,Black Gram (Urd Beans),Tasgaon,2016-02-11,5100.0,2.0,28.0,clear
+646,Green Gram (Moong),Sangli,2016-02-11,5800.0,1.0,28.0,clear
+647,Bengal Gram(Gram),Sangli,2016-03-11,8300.0,3.0,36.6,clear
+648,Black Gram (Urd Beans),Sangli,2016-03-11,6800.0,15.0,36.6,clear
+649,Green Gram (Moong),Sangli,2016-03-11,5800.0,4.0,36.6,clear
+650,Lentil(Masur),Sangli,2016-03-11,6800.0,7.0,36.6,clear
+651,Bengal Gram(Gram),Sangli,2016-04-11,8300.0,4.0,39.0,clear
+652,Black Gram (Urd Beans),Sangli,2016-04-11,6800.0,6.0,39.0,clear
+653,Green Gram (Moong),Sangli,2016-04-11,5900.0,4.0,39.0,clear
+654,Lentil(Masur),Sangli,2016-04-11,6700.0,1.0,39.0,clear
+655,Bengal Gram(Gram),Sangli,2016-05-11,8120.0,0.0,39.0,clear
+656,Black Gram (Urd Beans),Sangli,2016-05-11,6900.0,3.0,39.0,clear
+657,Green Gram (Moong),Sangli,2016-05-11,5900.0,5.0,39.0,clear
+658,Lentil(Masur),Sangli,2016-05-11,6700.0,7.0,39.0,clear
+659,Bengal Gram(Gram),Sangli,2016-09-11,7800.0,3.0,27.4,clear
+660,Black Gram (Urd Beans),Sangli,2016-09-11,6300.0,6.0,27.4,clear
+661,Green Gram (Moong),Sangli,2016-09-11,5900.0,9.0,27.4,clear
+662,Lentil(Masur),Sangli,2016-09-11,6900.0,2.0,27.4,clear
+663,Bengal Gram(Gram),Sangli,2016-10-11,7800.0,2.0,26.4,rain
+664,Bengal Gram(Gram),Tasgaon,2016-10-11,8100.0,6.0,26.4,rain
+665,Black Gram (Urd Beans),Sangli,2016-10-11,6700.0,0.0,26.4,rain
+666,Green Gram (Moong),Sangli,2016-10-11,5600.0,3.0,26.4,rain
+667,Bengal Gram(Gram),Sangli,2016-11-11,8300.0,2.0,29.0,clear
+668,Bengal Gram(Gram),Tasgaon,2016-11-11,7650.0,4.0,29.0,clear
+669,Black Gram (Urd Beans),Sangli,2016-11-11,6700.0,4.0,29.0,clear
+670,Green Gram (Moong),Sangli,2016-11-11,5900.0,7.0,29.0,clear
+671,Lentil(Masur),Sangli,2016-11-11,6700.0,2.0,29.0,clear
+672,Bengal Gram(Gram),Sangli,2016-11-15,9300.0,1.0,31.0,clear
+673,Bengal Gram(Gram),Tasgaon,2016-11-15,8050.0,2.0,31.0,clear
+674,Black Gram (Urd Beans),Sangli,2016-11-15,6300.0,3.0,31.0,clear
+675,Bengal Gram(Gram),Sangli,2016-11-16,9300.0,1.0,30.6,clear
+676,Bengal Gram(Gram),Tasgaon,2016-11-16,8000.0,5.0,30.6,clear
+677,Black Gram (Urd Beans),Sangli,2016-11-16,6300.0,2.0,30.6,clear
+678,Bengal Gram(Gram),Sangli,2016-11-17,8300.0,1.0,28.6,clear
+679,Black Gram (Urd Beans),Sangli,2016-11-17,6500.0,1.0,28.6,clear
+680,Green Gram (Moong),Sangli,2016-11-17,5800.0,7.0,28.6,clear
+681,Bengal Gram(Gram),Sangli,2016-11-18,8000.0,1.0,28.4,clear
+682,Bengal Gram(Gram),Tasgaon,2016-11-18,6700.0,2.0,28.4,clear
+683,Green Gram (Moong),Sangli,2016-11-18,6300.0,10.0,28.4,clear
+684,Lentil(Masur),Sangli,2016-11-18,6300.0,2.0,28.4,clear
+685,Bengal Gram(Gram),Sangli,2016-11-19,7600.0,1.0,27.4,clear
+686,Black Gram (Urd Beans),Sangli,2016-11-19,6100.0,2.0,27.4,clear
+687,Black Gram (Urd Beans),Tasgaon,2016-11-19,6300.0,2.0,27.4,clear
+688,Bengal Gram(Gram),Sangli,2016-11-23,8200.0,2.0,28.4,clear
+689,Black Gram (Urd Beans),Sangli,2016-11-23,6300.0,2.0,28.4,clear
+690,Green Gram (Moong),Sangli,2016-11-23,5800.0,6.0,28.4,clear
+691,Bengal Gram(Gram),Sangli,2016-11-24,8000.0,1.0,28.8,clear
+692,Black Gram (Urd Beans),Sangli,2016-11-24,6300.0,2.0,28.8,clear
+693,Bengal Gram(Gram),Sangli,2016-11-28,8900.0,2.0,30.0,clear
+694,Black Gram (Urd Beans),Sangli,2016-11-28,6200.0,12.0,30.0,clear
+695,Green Gram (Moong),Sangli,2016-11-28,5700.0,8.0,30.0,clear
+696,Lentil(Masur),Sangli,2016-11-28,6700.0,4.0,30.0,clear
+697,Bengal Gram(Gram),Sangli,2016-11-29,8750.0,4.0,29.4,clear
+698,Green Gram (Moong),Sangli,2016-11-29,5500.0,4.0,29.4,clear
+699,Lentil(Masur),Sangli,2016-11-29,6550.0,3.0,29.4,clear
+700,Bengal Gram(Gram),Sangli,2016-01-12,8300.0,5.0,28.0,clear
+701,Black Gram (Urd Beans),Sangli,2016-01-12,5800.0,2.0,28.0,clear
+702,Green Gram (Moong),Sangli,2016-01-12,5800.0,64.0,28.0,clear
+703,Lentil(Masur),Sangli,2016-01-12,6600.0,8.0,28.0,clear
+704,Bengal Gram(Gram),Sangli,2016-02-12,7500.0,11.0,29.6,clear
+705,Bengal Gram(Gram),Tasgaon,2016-02-12,8500.0,0.0,29.6,clear
+706,Black Gram (Urd Beans),Sangli,2016-02-12,6300.0,10.0,29.6,clear
+707,Lentil(Masur),Sangli,2016-02-12,6300.0,4.0,29.6,clear
+708,Bengal Gram(Gram),Sangli,2016-06-12,8000.0,7.0,28.4,clear
+709,Black Gram (Urd Beans),Sangli,2016-06-12,5900.0,1.0,28.4,clear
+710,Green Gram (Moong),Sangli,2016-06-12,5900.0,1.0,28.4,clear
+711,Bengal Gram(Gram),Sangli,2016-08-12,8800.0,1.0,25.4,clear
+712,Bengal Gram(Gram),Tasgaon,2016-08-12,8400.0,0.0,25.4,clear
+713,Green Gram (Moong),Sangli,2016-08-12,5450.0,4.0,25.4,clear
+714,Lentil(Masur),Sangli,2016-08-12,6500.0,3.0,25.4,clear
+715,Bengal Gram(Gram),Sangli,2016-12-14,9100.0,3.0,27.4,clear
+716,Black Gram (Urd Beans),Sangli,2016-12-14,6000.0,3.0,27.4,clear
+717,Bengal Gram(Gram),Sangli,2016-12-16,8900.0,4.0,29.6,clear
+718,Bengal Gram(Gram),Tasgaon,2016-12-16,6800.0,1.0,29.6,clear
+719,Black Gram (Urd Beans),Sangli,2016-12-16,5900.0,5.0,29.6,clear
+720,Lentil(Masur),Sangli,2016-12-16,6400.0,1.0,29.6,clear
+721,Bengal Gram(Gram),Sangli,2016-12-17,9300.0,6.0,28.8,clear
+722,Black Gram (Urd Beans),Sangli,2016-12-17,6100.0,2.0,28.8,clear
+723,Green Gram (Moong),Sangli,2016-12-17,5400.0,6.0,28.8,clear
+724,Lentil(Masur),Sangli,2016-12-17,6400.0,3.0,28.8,clear
+725,Bengal Gram(Gram),Sangli,2016-12-19,9100.0,4.0,28.0,clear
+726,Black Gram (Urd Beans),Sangli,2016-12-19,5900.0,3.0,28.0,clear
+727,Lentil(Masur),Sangli,2016-12-19,6400.0,16.0,28.0,clear
+728,Bengal Gram(Gram),Sangli,2016-12-20,8500.0,3.0,28.0,clear
+729,Black Gram (Urd Beans),Sangli,2016-12-20,5500.0,8.0,28.0,clear
+730,Green Gram (Moong),Sangli,2016-12-20,5400.0,5.0,28.0,clear
+731,Bengal Gram(Gram),Sangli,2016-12-21,8500.0,4.0,29.0,clear
+732,Bengal Gram(Gram),Tasgaon,2016-12-21,8000.0,0.0,29.0,clear
+733,Black Gram (Urd Beans),Sangli,2016-12-21,5900.0,4.0,29.0,clear
+734,Green Gram (Moong),Sangli,2016-12-21,5400.0,6.0,29.0,clear
+735,Lentil(Masur),Sangli,2016-12-21,6300.0,3.0,29.0,clear
+736,Bengal Gram(Gram),Sangli,2016-12-22,9000.0,2.0,29.0,clear
+737,Bengal Gram(Gram),Tasgaon,2016-12-22,7100.0,0.0,29.0,clear
+738,Black Gram (Urd Beans),Sangli,2016-12-22,6200.0,3.0,29.0,clear
+739,Black Gram (Urd Beans),Tasgaon,2016-12-22,5200.0,0.0,29.0,clear
+740,Green Gram (Moong),Sangli,2016-12-22,5700.0,5.0,29.0,clear
+741,Lentil(Masur),Sangli,2016-12-22,6100.0,5.0,29.0,clear
+742,Bengal Gram(Gram),Sangli,2016-12-24,9300.0,5.0,30.4,clear
+743,Bengal Gram(Gram),Tasgaon,2016-12-24,7100.0,0.0,30.4,clear
+744,Black Gram (Urd Beans),Sangli,2016-12-24,5400.0,3.0,30.4,clear
+745,Green Gram (Moong),Sangli,2016-12-24,5400.0,3.0,30.4,clear
+746,Bengal Gram(Gram),Sangli,2016-12-26,9000.0,2.0,28.4,clear
+747,Bengal Gram(Gram),Tasgaon,2016-12-26,7100.0,0.0,28.4,clear
+748,Green Gram (Moong),Sangli,2016-12-26,5400.0,4.0,28.4,clear
+749,Lentil(Masur),Sangli,2016-12-26,6300.0,3.0,28.4,clear
+750,Bengal Gram(Gram),Sangli,2016-12-27,9300.0,1.0,28.4,clear
+751,Bengal Gram(Gram),Tasgaon,2016-12-27,7050.0,1.0,28.4,clear
+752,Black Gram (Urd Beans),Sangli,2016-12-27,5900.0,2.0,28.4,clear
+753,Bengal Gram(Gram),Sangli,2016-12-28,8800.0,2.0,27.4,clear
+754,Bengal Gram(Gram),Tasgaon,2016-12-28,7100.0,0.0,27.4,clear
+755,Black Gram (Urd Beans),Tasgaon,2016-12-28,5650.0,0.0,27.4,clear
+756,Lentil(Masur),Sangli,2016-12-28,6100.0,2.0,27.4,clear
+757,Bengal Gram(Gram),Sangli,2016-12-30,8650.0,2.0,28.6,clear
+758,Bengal Gram(Gram),Tasgaon,2016-12-30,7500.0,3.0,28.6,clear
+759,Black Gram (Urd Beans),Sangli,2016-12-30,5800.0,1.0,28.6,clear
+760,Green Gram (Moong),Sangli,2016-12-30,5400.0,3.0,28.6,clear
+761,Lentil(Masur),Sangli,2016-12-30,6100.0,8.0,28.6,clear
+762,Bengal Gram(Gram),Sangli,2016-12-31,8000.0,2.0,28.6,clear
+763,Black Gram (Urd Beans),Sangli,2016-12-31,6000.0,4.0,28.6,clear
+764,Green Gram (Moong),Sangli,2016-12-31,5400.0,5.0,28.6,clear
+765,Lentil(Masur),Sangli,2016-12-31,6250.0,4.0,28.6,clear
+766,Bengal Gram(Gram),Tasgaon,2016-05-31,5300.0,10.0,36.4,clear
+767,Green Gram (Moong),Sangli,2016-05-31,7300.0,2.0,36.4,clear
+768,Bengal Gram(Gram),Tasgaon,2016-07-06,5700.0,11.0,29.4,clear
+769,Green Gram (Moong),Sangli,2016-07-06,7500.0,19.0,29.4,clear
+770,Lentil(Masur),Sangli,2016-07-06,6800.0,28.0,29.4,clear
+771,Bengal Gram(Gram),Tasgaon,2016-07-18,7300.0,5.0,24.0,rain
+772,Bengal Gram(Gram),Tasgaon,2016-07-30,7200.0,6.0,27.4,clear
+773,Green Gram (Moong),Sangli,2016-07-30,6600.0,5.0,27.4,clear
+774,Lentil(Masur),Sangli,2016-07-30,7000.0,1.0,27.4,clear
+775,Bengal Gram(Gram),Tasgaon,2016-08-11,8000.0,5.0,25.2,clear
+776,Black Gram (Urd Beans),Sangli,2016-08-11,6300.0,5.0,25.2,clear
+777,Green Gram (Moong),Sangli,2016-08-11,5900.0,4.0,25.2,clear
+778,Lentil(Masur),Sangli,2016-08-11,6300.0,2.0,25.2,clear
+779,Bengal Gram(Gram),Tasgaon,2016-03-12,8100.0,1.0,36.0,clear
+780,Black Gram (Urd Beans),Sangli,2016-03-12,6300.0,2.0,36.0,clear
+781,Black Gram (Urd Beans),Tasgaon,2016-03-12,6000.0,0.0,36.0,clear
+782,Green Gram (Moong),Sangli,2016-03-12,6300.0,1.0,36.0,clear
+783,Bengal Gram(Gram),Tasgaon,2016-09-12,8000.0,0.0,24.0,clear
+784,Black Gram (Urd Beans),Sangli,2016-09-12,6000.0,3.0,24.0,clear
+785,Black Gram (Urd Beans),Tasgaon,2016-09-12,6350.0,1.0,24.0,clear
+786,Green Gram (Moong),Sangli,2016-09-12,5400.0,3.0,24.0,clear
+787,Lentil(Masur),Sangli,2016-09-12,6250.0,14.0,24.0,clear
+788,Bengal Gram(Gram),Tasgaon,2016-12-13,8300.0,1.0,29.0,clear
+789,Black Gram (Urd Beans),Sangli,2016-12-13,7000.0,1.0,29.0,clear
+790,Bengal Gram(Gram),Tasgaon,2016-12-29,6500.0,1.0,28.4,clear
+791,Black Gram (Urd Beans),Sangli,2016-12-29,5800.0,2.0,28.4,clear
+792,Green Gram (Moong),Sangli,2016-12-29,5400.0,5.0,28.4,clear
+793,Black Gram (Urd Beans),Sangli,2016-01-22,8100.0,2.0,27.6,clear
+794,Lentil(Masur),Sangli,2016-01-22,6300.0,12.0,27.6,clear
+795,Black Gram (Urd Beans),Sangli,2016-08-09,6800.0,4.0,24.6,clear
+796,Green Gram (Moong),Sangli,2016-08-09,5400.0,8.0,24.6,clear
+797,Black Gram (Urd Beans),Sangli,2016-09-17,6800.0,20.0,23.8,clear
+798,Green Gram (Moong),Sangli,2016-09-17,5400.0,8.0,23.8,clear
+799,Black Gram (Urd Beans),Sangli,2016-09-19,6700.0,36.0,25.4,clear
+800,Green Gram (Moong),Sangli,2016-09-19,5400.0,16.0,25.4,clear
+801,Black Gram (Urd Beans),Sangli,2016-09-20,6700.0,17.0,26.0,clear
+802,Green Gram (Moong),Sangli,2016-09-20,5800.0,23.0,26.0,clear
+803,Lentil(Masur),Sangli,2016-09-20,6200.0,4.0,26.0,clear
+804,Black Gram (Urd Beans),Sangli,2016-09-22,6700.0,19.0,24.6,clear
+805,Green Gram (Moong),Sangli,2016-09-22,5900.0,9.0,24.6,clear
+806,Black Gram (Urd Beans),Sangli,2016-09-26,7000.0,0.0,27.2,clear
+807,Green Gram (Moong),Sangli,2016-09-26,5900.0,4.0,27.2,clear
+808,Black Gram (Urd Beans),Sangli,2016-03-10,7000.0,9.0,37.0,clear
+809,Black Gram (Urd Beans),Sangli,2016-07-10,7400.0,6.0,23.0,clear
+810,Green Gram (Moong),Sangli,2016-07-10,5800.0,2.0,23.0,clear
+811,Black Gram (Urd Beans),Sangli,2016-08-10,7300.0,5.0,25.0,clear
+812,Green Gram (Moong),Sangli,2016-08-10,5900.0,4.0,25.0,clear
+813,Black Gram (Urd Beans),Sangli,2016-10-13,6500.0,4.0,30.2,clear
+814,Black Gram (Urd Beans),Sangli,2016-10-14,7000.0,15.0,29.4,clear
+815,Green Gram (Moong),Sangli,2016-10-14,6200.0,3.0,29.4,clear
+816,Lentil(Masur),Sangli,2016-10-14,7000.0,2.0,29.4,clear
+817,Black Gram (Urd Beans),Sangli,2016-10-17,6700.0,13.0,29.8,clear
+818,Green Gram (Moong),Sangli,2016-10-17,5800.0,4.0,29.8,clear
+819,Lentil(Masur),Sangli,2016-10-17,6900.0,8.0,29.8,clear
+820,Black Gram (Urd Beans),Sangli,2016-10-21,6200.0,4.0,30.0,clear
+821,Green Gram (Moong),Sangli,2016-10-21,5460.0,7.0,30.0,clear
+822,Lentil(Masur),Sangli,2016-10-21,6400.0,6.0,30.0,clear
+823,Black Gram (Urd Beans),Sangli,2016-10-24,6300.0,2.0,31.0,clear
+824,Black Gram (Urd Beans),Sangli,2016-10-25,6800.0,5.0,30.6,clear
+825,Black Gram (Urd Beans),Tasgaon,2016-10-25,6000.0,7.0,30.6,clear
+826,Green Gram (Moong),Sangli,2016-10-25,5600.0,4.0,30.6,clear
+827,Green Gram (Moong),Tasgaon,2016-10-25,5465.0,1.0,30.6,clear
+828,Black Gram (Urd Beans),Sangli,2016-07-11,6950.0,7.0,23.0,rain
+829,Black Gram (Urd Beans),Tasgaon,2016-07-11,5600.0,7.0,23.0,rain
+830,Green Gram (Moong),Sangli,2016-07-11,5600.0,2.0,23.0,rain
+831,Lentil(Masur),Sangli,2016-07-11,6300.0,1.0,23.0,rain
+832,Black Gram (Urd Beans),Sangli,2016-11-14,6300.0,3.0,29.4,clear
+833,Green Gram (Moong),Sangli,2016-11-14,5900.0,10.0,29.4,clear
+834,Black Gram (Urd Beans),Sangli,2016-11-21,6200.0,0.0,28.4,clear
+835,Black Gram (Urd Beans),Tasgaon,2016-11-21,5500.0,2.0,28.4,clear
+836,Green Gram (Moong),Sangli,2016-11-21,5700.0,3.0,28.4,clear
+837,Black Gram (Urd Beans),Sangli,2016-11-22,6300.0,1.0,28.2,clear
+838,Green Gram (Moong),Sangli,2016-11-22,5800.0,22.0,28.2,clear
+839,Green Gram (Moong),Tasgaon,2016-11-22,5400.0,2.0,28.2,clear
+840,Black Gram (Urd Beans),Sangli,2016-11-25,6300.0,1.0,17.2,clear
+841,Black Gram (Urd Beans),Sangli,2016-11-26,6300.0,2.0,28.6,clear
+842,Black Gram (Urd Beans),Sangli,2016-11-30,6300.0,10.0,29.2,clear
+843,Green Gram (Moong),Sangli,2016-11-30,5700.0,12.0,29.2,clear
+844,Lentil(Masur),Sangli,2016-11-30,6650.0,16.0,29.2,clear
+845,Black Gram (Urd Beans),Sangli,2016-12-23,5700.0,4.0,29.0,clear
+846,Green Gram (Moong),Sangli,2016-12-23,5400.0,6.0,29.0,clear
+847,Lentil(Masur),Sangli,2016-12-23,6100.0,4.0,29.0,clear
+848,Green Gram (Moong),Sangli,2016-04-29,8000.0,1.0,37.4,clear
+849,Green Gram (Moong),Sangli,2016-10-05,7800.0,1.0,25.8,clear
+850,Green Gram (Moong),Sangli,2016-06-17,8000.0,3.0,31.4,clear
+851,Lentil(Masur),Sangli,2016-06-17,7000.0,7.0,31.4,clear
+852,Green Gram (Moong),Sangli,2016-07-22,7300.0,2.0,22.6,rain
+853,Lentil(Masur),Sangli,2016-07-22,7300.0,6.0,22.6,rain
+854,Green Gram (Moong),Sangli,2016-01-08,6500.0,3.0,28.0,clear
+855,Lentil(Masur),Sangli,2016-01-08,7100.0,3.0,28.0,clear
+856,Green Gram (Moong),Sangli,2016-10-12,5400.0,9.0,27.2,rain
+857,Green Gram (Moong),Tasgaon,2016-10-12,5500.0,0.0,27.2,rain
+858,Lentil(Masur),Sangli,2016-10-12,6300.0,4.0,27.2,rain
+859,Green Gram (Moong),Tasgaon,2016-09-23,5350.0,2.0,24.4,rain
+860,Lentil(Masur),Sangli,2016-05-15,6950.0,5.0,36.0,clear
+861,Lentil(Masur),Sangli,2016-06-08,7100.0,3.0,31.0,rain
+862,Lentil(Masur),Sangli,2016-12-11,6300.0,2.0,27.4,clear
+863,Arhar (Tur/Red Gram),Sangli,2017-01-03,5200.0,1.0,28.0,clear
+864,Bengal Gram(Gram),Sangli,2017-01-03,4600.0,16.0,28.0,clear
+865,Bengal Gram(Gram),Tasgaon,2017-01-03,4500.0,1.0,28.0,clear
+866,Green Gram (Moong),Sangli,2017-01-03,5900.0,59.0,28.0,clear
+867,Lentil(Masur),Sangli,2017-01-03,5800.0,26.0,28.0,clear
+868,Arhar (Tur/Red Gram),Sangli,2017-07-03,5150.0,4.0,28.0,clear
+869,Bengal Gram(Gram),Sangli,2017-07-03,4700.0,17.0,28.0,clear
+870,Bengal Gram(Gram),Tasgaon,2017-07-03,4525.0,2.0,28.0,clear
+871,Green Gram (Moong),Sangli,2017-07-03,5400.0,2.0,28.0,clear
+872,Lentil(Masur),Sangli,2017-07-03,5900.0,8.0,28.0,clear
+873,Arhar (Tur/Red Gram),Sangli,2017-04-15,5800.0,0.0,39.4,clear
+874,Bengal Gram(Gram),Sangli,2017-04-15,5700.0,61.0,39.4,clear
+875,Bengal Gram(Gram),Tasgaon,2017-04-15,5100.0,2.0,39.4,clear
+876,Black Gram (Urd Beans),Sangli,2017-04-15,5400.0,1.0,39.4,clear
+877,Green Gram (Moong),Sangli,2017-04-15,5800.0,5.0,39.4,clear
+878,Bengal Gram(Gram),Palus,2017-08-15,4500.0,0.0,27.2,clear
+879,Bengal Gram(Gram),Palus,2017-08-22,5200.0,2.0,28.0,clear
+880,Bengal Gram(Gram),Tasgaon,2017-08-22,5070.0,1.0,28.0,clear
+881,Black Gram (Urd Beans),Sangli,2017-08-22,5750.0,0.0,28.0,clear
+882,Lentil(Masur),Sangli,2017-08-22,4750.0,1.0,28.0,clear
+883,Bengal Gram(Gram),Palus,2017-08-29,5400.0,1.0,25.6,rain
+884,Bengal Gram(Gram),Sangli,2017-08-29,5650.0,4.0,25.6,rain
+885,Lentil(Masur),Sangli,2017-08-29,4400.0,4.0,25.6,rain
+886,Bengal Gram(Gram),Palus,2017-05-09,5400.0,0.0,36.6,clear
+887,Bengal Gram(Gram),Sangli,2017-05-09,5500.0,4.0,36.6,clear
+888,Black Gram (Urd Beans),Sangli,2017-05-09,5700.0,0.0,36.6,clear
+889,Lentil(Masur),Sangli,2017-05-09,4900.0,1.0,36.6,clear
+890,Bengal Gram(Gram),Palus,2017-12-09,5300.0,1.0,29.2,clear
+891,Bengal Gram(Gram),Sangli,2017-12-09,5300.0,1.0,29.2,clear
+892,Bengal Gram(Gram),Tasgaon,2017-12-09,5120.0,1.0,29.2,clear
+893,Black Gram (Urd Beans),Sangli,2017-12-09,5700.0,6.0,29.2,clear
+894,Bengal Gram(Gram),Palus,2017-09-19,5300.0,1.0,24.2,clear
+895,Bengal Gram(Gram),Sangli,2017-09-19,5250.0,7.0,24.2,clear
+896,Bengal Gram(Gram),Tasgaon,2017-09-19,5200.0,1.0,24.2,clear
+897,Bengal Gram(Gram),Palus,2017-09-26,5000.0,1.0,26.4,rain
+898,Bengal Gram(Gram),Sangli,2017-09-26,5200.0,1.0,26.4,rain
+899,Bengal Gram(Gram),Tasgaon,2017-09-26,5210.0,1.0,26.4,rain
+900,Bengal Gram(Gram),Sangli,2017-02-01,8900.0,20.0,31.6,clear
+901,Black Gram (Urd Beans),Sangli,2017-02-01,5400.0,14.0,31.6,clear
+902,Lentil(Masur),Sangli,2017-02-01,6100.0,1.0,31.6,clear
+903,Bengal Gram(Gram),Sangli,2017-01-17,6500.0,2.0,28.0,clear
+904,Black Gram (Urd Beans),Sangli,2017-01-17,5800.0,1.0,28.0,clear
+905,Green Gram (Moong),Sangli,2017-01-17,5500.0,4.0,28.0,clear
+906,Lentil(Masur),Sangli,2017-01-17,5900.0,3.0,28.0,clear
+907,Bengal Gram(Gram),Sangli,2017-01-23,6600.0,2.0,30.6,clear
+908,Black Gram (Urd Beans),Sangli,2017-01-23,5900.0,7.0,30.6,clear
+909,Green Gram (Moong),Sangli,2017-01-23,5900.0,25.0,30.6,clear
+910,Lentil(Masur),Sangli,2017-01-23,5900.0,12.0,30.6,clear
+911,Bengal Gram(Gram),Sangli,2017-01-27,6500.0,3.0,30.6,clear
+912,Black Gram (Urd Beans),Sangli,2017-01-27,5500.0,3.0,30.6,clear
+913,Lentil(Masur),Sangli,2017-01-27,6000.0,3.0,30.6,clear
+914,Bengal Gram(Gram),Sangli,2017-01-28,6000.0,2.0,30.4,clear
+915,Black Gram (Urd Beans),Sangli,2017-01-28,5400.0,11.0,30.4,clear
+916,Green Gram (Moong),Sangli,2017-01-28,5500.0,6.0,30.4,clear
+917,Lentil(Masur),Sangli,2017-01-28,5900.0,5.0,30.4,clear
+918,Bengal Gram(Gram),Sangli,2017-01-30,5800.0,3.0,19.6,clear
+919,Black Gram (Urd Beans),Sangli,2017-01-30,5800.0,1.0,19.6,clear
+920,Green Gram (Moong),Sangli,2017-01-30,5800.0,3.0,19.6,clear
+921,Bengal Gram(Gram),Sangli,2017-02-02,6000.0,3.0,31.2,clear
+922,Lentil(Masur),Sangli,2017-02-02,5900.0,14.0,31.2,clear
+923,Bengal Gram(Gram),Sangli,2017-03-02,5800.0,3.0,33.6,clear
+924,Bengal Gram(Gram),Sangli,2017-04-02,5750.0,3.0,36.0,clear
+925,Black Gram (Urd Beans),Sangli,2017-04-02,5750.0,5.0,36.0,clear
+926,Green Gram (Moong),Sangli,2017-04-02,5750.0,6.0,36.0,clear
+927,Bengal Gram(Gram),Sangli,2017-07-02,5500.0,2.0,28.2,clear
+928,Black Gram (Urd Beans),Sangli,2017-07-02,5500.0,10.0,28.2,clear
+929,Green Gram (Moong),Sangli,2017-07-02,5600.0,4.0,28.2,clear
+930,Bengal Gram(Gram),Sangli,2017-08-02,5500.0,10.0,28.0,clear
+931,Black Gram (Urd Beans),Sangli,2017-08-02,5500.0,1.0,28.0,clear
+932,Bengal Gram(Gram),Sangli,2017-09-02,5500.0,1.0,26.2,clear
+933,Black Gram (Urd Beans),Sangli,2017-09-02,5500.0,1.0,26.2,clear
+934,Bengal Gram(Gram),Sangli,2017-10-02,5500.0,1.0,32.0,clear
+935,Bengal Gram(Gram),Tasgaon,2017-10-02,4600.0,1.0,32.0,clear
+936,Bengal Gram(Gram),Sangli,2017-11-02,4700.0,7.0,28.8,clear
+937,Black Gram (Urd Beans),Sangli,2017-11-02,6100.0,1.0,28.8,clear
+938,Green Gram (Moong),Sangli,2017-11-02,6100.0,8.0,28.8,clear
+939,Lentil(Masur),Sangli,2017-11-02,5800.0,5.0,28.8,clear
+940,Bengal Gram(Gram),Sangli,2017-02-13,4600.0,20.0,30.8,clear
+941,Bengal Gram(Gram),Tasgaon,2017-02-13,4750.0,2.0,30.8,clear
+942,Black Gram (Urd Beans),Sangli,2017-02-13,5400.0,5.0,30.8,clear
+943,Green Gram (Moong),Sangli,2017-02-13,5600.0,26.0,30.8,clear
+944,Lentil(Masur),Sangli,2017-02-13,6100.0,25.0,30.8,clear
+945,Bengal Gram(Gram),Sangli,2017-02-14,4800.0,14.0,32.0,clear
+946,Black Gram (Urd Beans),Sangli,2017-02-14,5800.0,2.0,32.0,clear
+947,Green Gram (Moong),Sangli,2017-02-14,5800.0,3.0,32.0,clear
+948,Bengal Gram(Gram),Sangli,2017-02-15,4700.0,16.0,31.6,clear
+949,Black Gram (Urd Beans),Sangli,2017-02-15,5800.0,3.0,31.6,clear
+950,Green Gram (Moong),Sangli,2017-02-15,5800.0,5.0,31.6,clear
+951,Lentil(Masur),Sangli,2017-02-15,5800.0,5.0,31.6,clear
+952,Bengal Gram(Gram),Sangli,2017-02-16,4800.0,10.0,31.6,clear
+953,Black Gram (Urd Beans),Sangli,2017-02-16,5750.0,16.0,31.6,clear
+954,Green Gram (Moong),Sangli,2017-02-16,5750.0,6.0,31.6,clear
+955,Bengal Gram(Gram),Sangli,2017-02-17,4600.0,5.0,32.4,clear
+956,Black Gram (Urd Beans),Sangli,2017-02-17,5800.0,0.0,32.4,clear
+957,Bengal Gram(Gram),Sangli,2017-02-22,4750.0,20.0,35.0,clear
+958,Black Gram (Urd Beans),Sangli,2017-02-22,5800.0,15.0,35.0,clear
+959,Green Gram (Moong),Sangli,2017-02-22,5800.0,6.0,35.0,clear
+960,Lentil(Masur),Sangli,2017-02-22,5800.0,16.0,35.0,clear
+961,Bengal Gram(Gram),Sangli,2017-02-27,4500.0,3.0,33.8,clear
+962,Bengal Gram(Gram),Tasgaon,2017-02-27,4600.0,1.0,33.8,clear
+963,Green Gram (Moong),Sangli,2017-02-27,5400.0,4.0,33.8,clear
+964,Lentil(Masur),Sangli,2017-02-27,5700.0,3.0,33.8,clear
+965,Bengal Gram(Gram),Sangli,2017-02-03,4800.0,12.0,30.4,clear
+966,Bengal Gram(Gram),Tasgaon,2017-02-03,4550.0,2.0,30.4,clear
+967,Lentil(Masur),Sangli,2017-02-03,5800.0,13.0,30.4,clear
+968,Bengal Gram(Gram),Sangli,2017-03-03,4700.0,2.0,34.2,clear
+969,Bengal Gram(Gram),Tasgaon,2017-03-03,4550.0,1.0,34.2,clear
+970,Green Gram (Moong),Sangli,2017-03-03,5400.0,4.0,34.2,clear
+971,Bengal Gram(Gram),Sangli,2017-04-03,4500.0,3.0,36.4,clear
+972,Bengal Gram(Gram),Tasgaon,2017-04-03,4550.0,2.0,36.4,clear
+973,Green Gram (Moong),Sangli,2017-04-03,5400.0,3.0,36.4,clear
+974,Bengal Gram(Gram),Sangli,2017-06-03,4600.0,35.0,30.6,clear
+975,Bengal Gram(Gram),Tasgaon,2017-06-03,4600.0,1.0,30.6,clear
+976,Green Gram (Moong),Sangli,2017-06-03,5800.0,21.0,30.6,clear
+977,Lentil(Masur),Sangli,2017-06-03,5600.0,16.0,30.6,clear
+978,Bengal Gram(Gram),Sangli,2017-08-03,4700.0,23.0,28.0,clear
+979,Bengal Gram(Gram),Tasgaon,2017-08-03,4600.0,3.0,28.0,clear
+980,Green Gram (Moong),Sangli,2017-08-03,5400.0,6.0,28.0,clear
+981,Lentil(Masur),Sangli,2017-08-03,5700.0,4.0,28.0,clear
+982,Bengal Gram(Gram),Sangli,2017-09-03,4700.0,31.0,29.4,clear
+983,Bengal Gram(Gram),Tasgaon,2017-09-03,4650.0,2.0,29.4,clear
+984,Lentil(Masur),Sangli,2017-09-03,5700.0,5.0,29.4,clear
+985,Bengal Gram(Gram),Sangli,2017-10-03,4600.0,24.0,30.0,clear
+986,Bengal Gram(Gram),Tasgaon,2017-10-03,4600.0,2.0,30.0,clear
+987,Green Gram (Moong),Sangli,2017-10-03,5500.0,4.0,30.0,clear
+988,Lentil(Masur),Sangli,2017-10-03,5800.0,2.0,30.0,clear
+989,Bengal Gram(Gram),Sangli,2017-11-03,4600.0,17.0,28.0,clear
+990,Bengal Gram(Gram),Tasgaon,2017-11-03,4700.0,2.0,28.0,clear
+991,Bengal Gram(Gram),Sangli,2017-03-14,4700.0,63.0,35.4,clear
+992,Bengal Gram(Gram),Tasgaon,2017-03-14,4750.0,2.0,35.4,clear
+993,Bengal Gram(Gram),Sangli,2017-03-15,4500.0,26.0,34.8,clear
+994,Bengal Gram(Gram),Tasgaon,2017-03-15,4700.0,2.0,34.8,clear
+995,Black Gram (Urd Beans),Sangli,2017-03-15,5800.0,1.0,34.8,clear
+996,Green Gram (Moong),Sangli,2017-03-15,5400.0,4.0,34.8,clear
+997,Lentil(Masur),Sangli,2017-03-15,5700.0,2.0,34.8,clear
+998,Bengal Gram(Gram),Sangli,2017-03-16,4750.0,21.0,35.6,clear
+999,Bengal Gram(Gram),Tasgaon,2017-03-16,4800.0,3.0,35.6,clear
+1000,Green Gram (Moong),Sangli,2017-03-16,5750.0,6.0,35.6,clear
+1001,Bengal Gram(Gram),Sangli,2017-03-17,4700.0,22.0,34.0,clear
+1002,Bengal Gram(Gram),Tasgaon,2017-03-17,4700.0,2.0,34.0,clear
+1003,Bengal Gram(Gram),Sangli,2017-03-18,5700.0,4.0,35.4,clear
+1004,Bengal Gram(Gram),Tasgaon,2017-03-18,4725.0,1.0,35.4,clear
+1005,Green Gram (Moong),Sangli,2017-03-18,5600.0,6.0,35.4,clear
+1006,Lentil(Masur),Sangli,2017-03-18,5700.0,3.0,35.4,clear
+1007,Bengal Gram(Gram),Sangli,2017-03-20,4900.0,5.0,34.6,clear
+1008,Bengal Gram(Gram),Tasgaon,2017-03-20,4700.0,2.0,34.6,clear
+1009,Black Gram (Urd Beans),Sangli,2017-03-20,5800.0,2.0,34.6,clear
+1010,Green Gram (Moong),Sangli,2017-03-20,5800.0,7.0,34.6,clear
+1011,Bengal Gram(Gram),Sangli,2017-03-21,4800.0,28.0,35.4,clear
+1012,Bengal Gram(Gram),Tasgaon,2017-03-21,4700.0,2.0,35.4,clear
+1013,Black Gram (Urd Beans),Sangli,2017-03-21,5800.0,1.0,35.4,clear
+1014,Green Gram (Moong),Sangli,2017-03-21,5800.0,5.0,35.4,clear
+1015,Lentil(Masur),Sangli,2017-03-21,5800.0,4.0,35.4,clear
+1016,Bengal Gram(Gram),Sangli,2017-03-22,4800.0,29.0,36.2,clear
+1017,Bengal Gram(Gram),Tasgaon,2017-03-22,4850.0,1.0,36.2,clear
+1018,Bengal Gram(Gram),Sangli,2017-03-23,5300.0,29.0,36.0,clear
+1019,Bengal Gram(Gram),Tasgaon,2017-03-23,4850.0,3.0,36.0,clear
+1020,Green Gram (Moong),Sangli,2017-03-23,5800.0,6.0,36.0,clear
+1021,Lentil(Masur),Sangli,2017-03-23,5700.0,3.0,36.0,clear
+1022,Bengal Gram(Gram),Sangli,2017-03-24,5700.0,22.0,36.2,clear
+1023,Bengal Gram(Gram),Tasgaon,2017-03-24,5025.0,2.0,36.2,clear
+1024,Black Gram (Urd Beans),Sangli,2017-03-24,5500.0,1.0,36.2,clear
+1025,Bengal Gram(Gram),Sangli,2017-03-25,5400.0,63.0,36.6,clear
+1026,Bengal Gram(Gram),Tasgaon,2017-03-25,5000.0,5.0,36.6,clear
+1027,Black Gram (Urd Beans),Sangli,2017-03-25,5800.0,2.0,36.6,clear
+1028,Green Gram (Moong),Sangli,2017-03-25,5400.0,4.0,36.6,clear
+1029,Lentil(Masur),Sangli,2017-03-25,5700.0,2.0,36.6,clear
+1030,Bengal Gram(Gram),Sangli,2017-03-27,5400.0,20.0,38.0,clear
+1031,Bengal Gram(Gram),Tasgaon,2017-03-27,4850.0,2.0,38.0,clear
+1032,Black Gram (Urd Beans),Sangli,2017-03-27,5800.0,2.0,38.0,clear
+1033,Bengal Gram(Gram),Sangli,2017-03-29,5300.0,3.0,36.0,clear
+1034,Bengal Gram(Gram),Tasgaon,2017-03-29,4900.0,2.0,36.0,clear
+1035,Black Gram (Urd Beans),Sangli,2017-03-29,5500.0,2.0,36.0,clear
+1036,Bengal Gram(Gram),Sangli,2017-03-30,5500.0,1.0,35.6,clear
+1037,Bengal Gram(Gram),Tasgaon,2017-03-30,4450.0,1.0,35.6,clear
+1038,Black Gram (Urd Beans),Sangli,2017-03-30,5500.0,0.0,35.6,clear
+1039,Green Gram (Moong),Sangli,2017-03-30,5900.0,7.0,35.6,clear
+1040,Lentil(Masur),Sangli,2017-03-30,5700.0,4.0,35.6,clear
+1041,Bengal Gram(Gram),Sangli,2017-03-31,5300.0,22.0,37.2,clear
+1042,Bengal Gram(Gram),Tasgaon,2017-03-31,4900.0,2.0,37.2,clear
+1043,Black Gram (Urd Beans),Sangli,2017-03-31,5700.0,16.0,37.2,clear
+1044,Green Gram (Moong),Sangli,2017-03-31,5700.0,6.0,37.2,clear
+1045,Bengal Gram(Gram),Sangli,2017-01-04,5800.0,13.0,27.4,clear
+1046,Bengal Gram(Gram),Tasgaon,2017-01-04,5200.0,1.0,27.4,clear
+1047,Green Gram (Moong),Sangli,2017-01-04,5400.0,9.0,27.4,clear
+1048,Lentil(Masur),Sangli,2017-01-04,5700.0,5.0,27.4,clear
+1049,Bengal Gram(Gram),Sangli,2017-03-04,5800.0,111.0,34.0,clear
+1050,Bengal Gram(Gram),Tasgaon,2017-03-04,5050.0,2.0,34.0,clear
+1051,Black Gram (Urd Beans),Sangli,2017-03-04,5800.0,2.0,34.0,clear
+1052,Green Gram (Moong),Sangli,2017-03-04,5400.0,24.0,34.0,clear
+1053,Lentil(Masur),Sangli,2017-03-04,5700.0,29.0,34.0,clear
+1054,Bengal Gram(Gram),Sangli,2017-05-04,5700.0,5.0,38.0,clear
+1055,Bengal Gram(Gram),Tasgaon,2017-05-04,5100.0,2.0,38.0,clear
+1056,Bengal Gram(Gram),Sangli,2017-06-04,5800.0,37.0,30.8,clear
+1057,Bengal Gram(Gram),Tasgaon,2017-06-04,5050.0,3.0,30.8,clear
+1058,Black Gram (Urd Beans),Sangli,2017-06-04,5300.0,5.0,30.8,clear
+1059,Lentil(Masur),Sangli,2017-06-04,5700.0,10.0,30.8,clear
+1060,Bengal Gram(Gram),Sangli,2017-07-04,5500.0,26.0,26.2,clear
+1061,Bengal Gram(Gram),Tasgaon,2017-07-04,5125.0,3.0,26.2,clear
+1062,Green Gram (Moong),Sangli,2017-07-04,5700.0,5.0,26.2,clear
+1063,Lentil(Masur),Sangli,2017-07-04,5600.0,2.0,26.2,clear
+1064,Bengal Gram(Gram),Sangli,2017-10-04,5600.0,48.0,30.4,clear
+1065,Bengal Gram(Gram),Tasgaon,2017-10-04,5450.0,2.0,30.4,clear
+1066,Green Gram (Moong),Sangli,2017-10-04,6600.0,7.0,30.4,clear
+1067,Bengal Gram(Gram),Sangli,2017-11-04,5500.0,28.0,28.4,clear
+1068,Bengal Gram(Gram),Tasgaon,2017-11-04,5425.0,2.0,28.4,clear
+1069,Lentil(Masur),Sangli,2017-11-04,5700.0,3.0,28.4,clear
+1070,Bengal Gram(Gram),Sangli,2017-12-04,5400.0,6.0,27.2,clear
+1071,Bengal Gram(Gram),Tasgaon,2017-12-04,5100.0,2.0,27.2,clear
+1072,Black Gram (Urd Beans),Sangli,2017-12-04,5800.0,3.0,27.2,clear
+1073,Bengal Gram(Gram),Sangli,2017-04-13,5400.0,18.0,39.4,clear
+1074,Bengal Gram(Gram),Tasgaon,2017-04-13,5200.0,2.0,39.4,clear
+1075,Green Gram (Moong),Sangli,2017-04-13,5400.0,7.0,39.4,clear
+1076,Lentil(Masur),Sangli,2017-04-13,5700.0,7.0,39.4,clear
+1077,Bengal Gram(Gram),Sangli,2017-04-17,5500.0,56.0,35.0,clear
+1078,Bengal Gram(Gram),Tasgaon,2017-04-17,5200.0,2.0,35.0,clear
+1079,Black Gram (Urd Beans),Sangli,2017-04-17,5500.0,10.0,35.0,clear
+1080,Lentil(Masur),Sangli,2017-04-17,5700.0,3.0,35.0,clear
+1081,Bengal Gram(Gram),Sangli,2017-04-19,5600.0,33.0,38.2,clear
+1082,Bengal Gram(Gram),Tasgaon,2017-04-19,5200.0,3.0,38.2,clear
+1083,Green Gram (Moong),Sangli,2017-04-19,5800.0,3.0,38.2,clear
+1084,Lentil(Masur),Sangli,2017-04-19,5700.0,3.0,38.2,clear
+1085,Bengal Gram(Gram),Sangli,2017-04-20,5700.0,28.0,35.2,clear
+1086,Bengal Gram(Gram),Tasgaon,2017-04-20,5300.0,2.0,35.2,clear
+1087,Green Gram (Moong),Sangli,2017-04-20,6100.0,4.0,35.2,clear
+1088,Bengal Gram(Gram),Sangli,2017-04-21,5700.0,30.0,35.6,clear
+1089,Bengal Gram(Gram),Tasgaon,2017-04-21,5250.0,2.0,35.6,clear
+1090,Black Gram (Urd Beans),Sangli,2017-04-21,5500.0,2.0,35.6,clear
+1091,Bengal Gram(Gram),Sangli,2017-04-22,5600.0,25.0,35.0,clear
+1092,Bengal Gram(Gram),Tasgaon,2017-04-22,5300.0,3.0,35.0,clear
+1093,Black Gram (Urd Beans),Sangli,2017-04-22,5800.0,5.0,35.0,clear
+1094,Bengal Gram(Gram),Sangli,2017-04-24,5600.0,57.0,35.6,clear
+1095,Bengal Gram(Gram),Tasgaon,2017-04-24,5200.0,3.0,35.6,clear
+1096,Black Gram (Urd Beans),Sangli,2017-04-24,5500.0,21.0,35.6,clear
+1097,Green Gram (Moong),Sangli,2017-04-24,6100.0,7.0,35.6,clear
+1098,Bengal Gram(Gram),Sangli,2017-04-25,5600.0,34.0,36.4,clear
+1099,Bengal Gram(Gram),Tasgaon,2017-04-25,5250.0,2.0,36.4,clear
+1100,Black Gram (Urd Beans),Sangli,2017-04-25,5500.0,6.0,36.4,clear
+1101,Lentil(Masur),Sangli,2017-04-25,5700.0,4.0,36.4,clear
+1102,Bengal Gram(Gram),Sangli,2017-04-26,5400.0,29.0,37.4,clear
+1103,Lentil(Masur),Sangli,2017-04-26,5700.0,3.0,37.4,clear
+1104,Bengal Gram(Gram),Sangli,2017-04-27,5400.0,35.0,38.0,clear
+1105,Bengal Gram(Gram),Tasgaon,2017-04-27,5350.0,3.0,38.0,clear
+1106,Black Gram (Urd Beans),Sangli,2017-04-27,5500.0,11.0,38.0,clear
+1107,Bengal Gram(Gram),Sangli,2017-04-29,5400.0,30.0,34.8,clear
+1108,Bengal Gram(Gram),Tasgaon,2017-04-29,5300.0,2.0,34.8,clear
+1109,Black Gram (Urd Beans),Sangli,2017-04-29,5800.0,5.0,34.8,clear
+1110,Bengal Gram(Gram),Sangli,2017-02-05,5500.0,32.0,30.6,clear
+1111,Bengal Gram(Gram),Tasgaon,2017-02-05,5400.0,2.0,30.6,clear
+1112,Lentil(Masur),Sangli,2017-02-05,5500.0,11.0,30.6,clear
+1113,Bengal Gram(Gram),Sangli,2017-03-05,5500.0,91.0,33.4,clear
+1114,Bengal Gram(Gram),Tasgaon,2017-03-05,5410.0,2.0,33.4,clear
+1115,Black Gram (Urd Beans),Sangli,2017-03-05,5750.0,5.0,33.4,clear
+1116,Green Gram (Moong),Sangli,2017-03-05,6000.0,11.0,33.4,clear
+1117,Lentil(Masur),Sangli,2017-03-05,5550.0,25.0,33.4,clear
+1118,Bengal Gram(Gram),Sangli,2017-04-05,5350.0,6.0,34.8,clear
+1119,Bengal Gram(Gram),Tasgaon,2017-04-05,5300.0,3.0,34.8,clear
+1120,Green Gram (Moong),Sangli,2017-04-05,5650.0,3.0,34.8,clear
+1121,Lentil(Masur),Sangli,2017-04-05,5650.0,5.0,34.8,clear
+1122,Bengal Gram(Gram),Sangli,2017-05-05,5400.0,24.0,29.8,rain
+1123,Bengal Gram(Gram),Tasgaon,2017-05-05,5300.0,2.0,29.8,rain
+1124,Black Gram (Urd Beans),Sangli,2017-05-05,5450.0,6.0,29.8,rain
+1125,Lentil(Masur),Sangli,2017-05-05,5550.0,2.0,29.8,rain
+1126,Bengal Gram(Gram),Sangli,2017-09-05,5250.0,29.0,29.6,clear
+1127,Bengal Gram(Gram),Tasgaon,2017-09-05,5400.0,3.0,29.6,clear
+1128,Black Gram (Urd Beans),Sangli,2017-09-05,5500.0,4.0,29.6,clear
+1129,Lentil(Masur),Sangli,2017-09-05,5650.0,5.0,29.6,clear
+1130,Bengal Gram(Gram),Sangli,2017-11-05,5400.0,35.0,28.8,clear
+1131,Bengal Gram(Gram),Tasgaon,2017-11-05,5350.0,2.0,28.8,clear
+1132,Black Gram (Urd Beans),Sangli,2017-11-05,5500.0,6.0,28.8,clear
+1133,Bengal Gram(Gram),Sangli,2017-12-05,5400.0,30.0,23.0,clear
+1134,Bengal Gram(Gram),Tasgaon,2017-12-05,5400.0,3.0,23.0,clear
+1135,Black Gram (Urd Beans),Sangli,2017-12-05,5900.0,6.0,23.0,clear
+1136,Bengal Gram(Gram),Sangli,2017-05-13,5350.0,37.0,26.4,rain
+1137,Bengal Gram(Gram),Tasgaon,2017-05-13,5350.0,3.0,26.4,rain
+1138,Black Gram (Urd Beans),Sangli,2017-05-13,5500.0,2.0,26.4,rain
+1139,Green Gram (Moong),Sangli,2017-05-13,5900.0,2.0,26.4,rain
+1140,Lentil(Masur),Sangli,2017-05-13,6550.0,3.0,26.4,rain
+1141,Bengal Gram(Gram),Sangli,2017-05-15,5350.0,35.0,25.4,clear
+1142,Bengal Gram(Gram),Tasgaon,2017-05-15,5390.0,2.0,25.4,clear
+1143,Black Gram (Urd Beans),Sangli,2017-05-15,5500.0,7.0,25.4,clear
+1144,Green Gram (Moong),Sangli,2017-05-15,5650.0,5.0,25.4,clear
+1145,Lentil(Masur),Sangli,2017-05-15,5550.0,2.0,25.4,clear
+1146,Bengal Gram(Gram),Sangli,2017-05-16,5500.0,36.0,36.0,clear
+1147,Bengal Gram(Gram),Tasgaon,2017-05-16,5250.0,2.0,36.0,clear
+1148,Black Gram (Urd Beans),Sangli,2017-05-16,5600.0,5.0,36.0,clear
+1149,Lentil(Masur),Sangli,2017-05-16,5650.0,2.0,36.0,clear
+1150,Bengal Gram(Gram),Sangli,2017-05-17,5500.0,35.0,36.6,clear
+1151,Bengal Gram(Gram),Tasgaon,2017-05-17,5250.0,1.0,36.6,clear
+1152,Black Gram (Urd Beans),Sangli,2017-05-17,5800.0,7.0,36.6,clear
+1153,Green Gram (Moong),Sangli,2017-05-17,5800.0,1.0,36.6,clear
+1154,Lentil(Masur),Sangli,2017-05-17,5500.0,16.0,36.6,clear
+1155,Bengal Gram(Gram),Sangli,2017-05-18,5500.0,36.0,37.6,clear
+1156,Bengal Gram(Gram),Tasgaon,2017-05-18,5300.0,1.0,37.6,clear
+1157,Black Gram (Urd Beans),Sangli,2017-05-18,5400.0,5.0,37.6,clear
+1158,Lentil(Masur),Sangli,2017-05-18,5700.0,3.0,37.6,clear
+1159,Bengal Gram(Gram),Sangli,2017-05-19,5500.0,40.0,34.4,clear
+1160,Bengal Gram(Gram),Tasgaon,2017-05-19,5290.0,1.0,34.4,clear
+1161,Black Gram (Urd Beans),Sangli,2017-05-19,6200.0,5.0,34.4,clear
+1162,Lentil(Masur),Sangli,2017-05-19,5700.0,10.0,34.4,clear
+1163,Bengal Gram(Gram),Sangli,2017-05-20,5500.0,41.0,36.2,clear
+1164,Bengal Gram(Gram),Tasgaon,2017-05-20,5255.0,2.0,36.2,clear
+1165,Black Gram (Urd Beans),Sangli,2017-05-20,5800.0,5.0,36.2,clear
+1166,Green Gram (Moong),Sangli,2017-05-20,5800.0,2.0,36.2,clear
+1167,Bengal Gram(Gram),Sangli,2017-05-22,5700.0,51.0,36.6,clear
+1168,Bengal Gram(Gram),Tasgaon,2017-05-22,5300.0,1.0,36.6,clear
+1169,Black Gram (Urd Beans),Sangli,2017-05-22,5500.0,8.0,36.6,clear
+1170,Green Gram (Moong),Sangli,2017-05-22,5800.0,12.0,36.6,clear
+1171,Lentil(Masur),Sangli,2017-05-22,5700.0,16.0,36.6,clear
+1172,Bengal Gram(Gram),Sangli,2017-05-23,5800.0,44.0,39.4,clear
+1173,Bengal Gram(Gram),Tasgaon,2017-05-23,5260.0,1.0,39.4,clear
+1174,Black Gram (Urd Beans),Sangli,2017-05-23,5800.0,9.0,39.4,clear
+1175,Lentil(Masur),Sangli,2017-05-23,5700.0,11.0,39.4,clear
+1176,Bengal Gram(Gram),Sangli,2017-05-24,5500.0,16.0,37.0,clear
+1177,Bengal Gram(Gram),Tasgaon,2017-05-24,5300.0,1.0,37.0,clear
+1178,Black Gram (Urd Beans),Sangli,2017-05-24,5500.0,9.0,37.0,clear
+1179,Bengal Gram(Gram),Sangli,2017-05-25,5200.0,45.0,36.4,clear
+1180,Bengal Gram(Gram),Tasgaon,2017-05-25,5350.0,2.0,36.4,clear
+1181,Black Gram (Urd Beans),Sangli,2017-05-25,6000.0,5.0,36.4,clear
+1182,Green Gram (Moong),Sangli,2017-05-25,5800.0,4.0,36.4,clear
+1183,Bengal Gram(Gram),Sangli,2017-05-26,5400.0,32.0,35.4,clear
+1184,Bengal Gram(Gram),Tasgaon,2017-05-26,5100.0,2.0,35.4,clear
+1185,Black Gram (Urd Beans),Sangli,2017-05-26,5500.0,3.0,35.4,clear
+1186,Green Gram (Moong),Sangli,2017-05-26,5400.0,1.0,35.4,clear
+1187,Lentil(Masur),Sangli,2017-05-26,5500.0,10.0,35.4,clear
+1188,Bengal Gram(Gram),Sangli,2017-05-27,5400.0,34.0,34.0,clear
+1189,Bengal Gram(Gram),Tasgaon,2017-05-27,5300.0,1.0,34.0,clear
+1190,Black Gram (Urd Beans),Sangli,2017-05-27,5800.0,5.0,34.0,clear
+1191,Green Gram (Moong),Sangli,2017-05-27,5800.0,9.0,34.0,clear
+1192,Bengal Gram(Gram),Sangli,2017-05-29,4300.0,4.0,33.2,clear
+1193,Bengal Gram(Gram),Tasgaon,2017-05-29,5250.0,2.0,33.2,clear
+1194,Green Gram (Moong),Sangli,2017-05-29,5800.0,20.0,33.2,clear
+1195,Lentil(Masur),Sangli,2017-05-29,5700.0,10.0,33.2,clear
+1196,Bengal Gram(Gram),Sangli,2017-05-30,5400.0,23.0,28.2,rain
+1197,Bengal Gram(Gram),Tasgaon,2017-05-30,5275.0,2.0,28.2,rain
+1198,Green Gram (Moong),Sangli,2017-05-30,6000.0,14.0,28.2,rain
+1199,Lentil(Masur),Sangli,2017-05-30,5700.0,4.0,28.2,rain
+1200,Bengal Gram(Gram),Sangli,2017-05-31,5400.0,24.0,38.4,clear
+1201,Bengal Gram(Gram),Tasgaon,2017-05-31,5260.0,2.0,38.4,clear
+1202,Black Gram (Urd Beans),Sangli,2017-05-31,5500.0,5.0,38.4,clear
+1203,Green Gram (Moong),Sangli,2017-05-31,5800.0,5.0,38.4,clear
+1204,Bengal Gram(Gram),Sangli,2017-01-06,5400.0,12.0,28.0,clear
+1205,Bengal Gram(Gram),Tasgaon,2017-01-06,5300.0,1.0,28.0,clear
+1206,Black Gram (Urd Beans),Sangli,2017-01-06,5500.0,5.0,28.0,clear
+1207,Green Gram (Moong),Sangli,2017-01-06,5900.0,18.0,28.0,clear
+1208,Lentil(Masur),Sangli,2017-01-06,5300.0,17.0,28.0,clear
+1209,Bengal Gram(Gram),Sangli,2017-02-06,5400.0,30.0,30.6,clear
+1210,Black Gram (Urd Beans),Sangli,2017-02-06,5500.0,5.0,30.6,clear
+1211,Bengal Gram(Gram),Sangli,2017-03-06,5350.0,2.0,33.4,clear
+1212,Black Gram (Urd Beans),Sangli,2017-03-06,5500.0,1.0,33.4,clear
+1213,Green Gram (Moong),Sangli,2017-03-06,5650.0,2.0,33.4,clear
+1214,Bengal Gram(Gram),Sangli,2017-05-06,5300.0,3.0,33.4,clear
+1215,Black Gram (Urd Beans),Sangli,2017-05-06,5500.0,11.0,33.4,clear
+1216,Bengal Gram(Gram),Sangli,2017-06-06,4850.0,12.0,31.8,clear
+1217,Green Gram (Moong),Sangli,2017-06-06,5750.0,2.0,31.8,clear
+1218,Lentil(Masur),Sangli,2017-06-06,5350.0,1.0,31.8,clear
+1219,Bengal Gram(Gram),Sangli,2017-07-06,5150.0,6.0,30.4,clear
+1220,Lentil(Masur),Sangli,2017-07-06,5250.0,5.0,30.4,clear
+1221,Bengal Gram(Gram),Sangli,2017-08-06,5150.0,1.0,29.2,clear
+1222,Bengal Gram(Gram),Tasgaon,2017-08-06,5310.0,1.0,29.2,clear
+1223,Black Gram (Urd Beans),Sangli,2017-08-06,5500.0,1.0,29.2,clear
+1224,Lentil(Masur),Sangli,2017-08-06,5250.0,3.0,29.2,clear
+1225,Bengal Gram(Gram),Sangli,2017-10-06,5200.0,1.0,28.6,clear
+1226,Bengal Gram(Gram),Tasgaon,2017-10-06,5100.0,2.0,28.6,clear
+1227,Lentil(Masur),Sangli,2017-10-06,5250.0,3.0,28.6,clear
+1228,Bengal Gram(Gram),Sangli,2017-06-13,5150.0,2.0,28.4,clear
+1229,Bengal Gram(Gram),Tasgaon,2017-06-13,5110.0,1.0,28.4,clear
+1230,Green Gram (Moong),Sangli,2017-06-13,5400.0,2.0,28.4,clear
+1231,Bengal Gram(Gram),Sangli,2017-06-17,5350.0,3.0,29.4,clear
+1232,Bengal Gram(Gram),Tasgaon,2017-06-17,5010.0,2.0,29.4,clear
+1233,Bengal Gram(Gram),Sangli,2017-06-19,5100.0,2.0,26.4,clear
+1234,Bengal Gram(Gram),Tasgaon,2017-06-19,5025.0,2.0,26.4,clear
+1235,Black Gram (Urd Beans),Sangli,2017-06-19,5750.0,0.0,26.4,clear
+1236,Lentil(Masur),Sangli,2017-06-19,5150.0,3.0,26.4,clear
+1237,Bengal Gram(Gram),Sangli,2017-06-20,5100.0,2.0,28.6,clear
+1238,Bengal Gram(Gram),Tasgaon,2017-06-20,4980.0,1.0,28.6,clear
+1239,Green Gram (Moong),Sangli,2017-06-20,5400.0,5.0,28.6,clear
+1240,Lentil(Masur),Sangli,2017-06-20,5250.0,5.0,28.6,clear
+1241,Bengal Gram(Gram),Sangli,2017-06-21,5100.0,2.0,30.2,clear
+1242,Black Gram (Urd Beans),Sangli,2017-06-21,5500.0,0.0,30.2,clear
+1243,Lentil(Masur),Sangli,2017-06-21,5100.0,2.0,30.2,clear
+1244,Bengal Gram(Gram),Sangli,2017-06-22,5050.0,2.0,29.6,clear
+1245,Bengal Gram(Gram),Tasgaon,2017-06-22,4980.0,1.0,29.6,clear
+1246,Green Gram (Moong),Sangli,2017-06-22,5650.0,9.0,29.6,clear
+1247,Lentil(Masur),Sangli,2017-06-22,5100.0,5.0,29.6,clear
+1248,Bengal Gram(Gram),Sangli,2017-06-23,5100.0,2.0,27.2,rain
+1249,Bengal Gram(Gram),Tasgaon,2017-06-23,4965.0,2.0,27.2,rain
+1250,Bengal Gram(Gram),Sangli,2017-06-27,5050.0,3.0,27.0,clear
+1251,Bengal Gram(Gram),Tasgaon,2017-06-27,5000.0,1.0,27.0,clear
+1252,Lentil(Masur),Sangli,2017-06-27,5125.0,2.0,27.0,clear
+1253,Bengal Gram(Gram),Sangli,2017-06-29,5000.0,0.0,25.6,clear
+1254,Lentil(Masur),Sangli,2017-06-29,5750.0,4.0,25.6,clear
+1255,Bengal Gram(Gram),Sangli,2017-06-30,5000.0,0.0,25.2,rain
+1256,Bengal Gram(Gram),Tasgaon,2017-06-30,5025.0,1.0,25.2,rain
+1257,Green Gram (Moong),Sangli,2017-06-30,5400.0,14.0,25.2,rain
+1258,Lentil(Masur),Sangli,2017-06-30,5200.0,5.0,25.2,rain
+1259,Bengal Gram(Gram),Sangli,2017-01-07,4950.0,0.0,28.0,clear
+1260,Green Gram (Moong),Sangli,2017-01-07,5400.0,8.0,28.0,clear
+1261,Lentil(Masur),Sangli,2017-01-07,5200.0,7.0,28.0,clear
+1262,Bengal Gram(Gram),Sangli,2017-03-07,5000.0,0.0,32.4,clear
+1263,Green Gram (Moong),Sangli,2017-03-07,5750.0,8.0,32.4,clear
+1264,Lentil(Masur),Sangli,2017-03-07,5250.0,7.0,32.4,clear
+1265,Bengal Gram(Gram),Sangli,2017-04-07,4750.0,5.0,35.4,clear
+1266,Bengal Gram(Gram),Tasgaon,2017-04-07,4900.0,1.0,35.4,clear
+1267,Green Gram (Moong),Sangli,2017-04-07,6000.0,8.0,35.4,clear
+1268,Lentil(Masur),Sangli,2017-04-07,5250.0,7.0,35.4,clear
+1269,Bengal Gram(Gram),Sangli,2017-05-07,4750.0,5.0,37.0,clear
+1270,Bengal Gram(Gram),Tasgaon,2017-05-07,5070.0,1.0,37.0,clear
+1271,Bengal Gram(Gram),Sangli,2017-07-07,5000.0,5.0,29.0,clear
+1272,Bengal Gram(Gram),Tasgaon,2017-07-07,5070.0,1.0,29.0,clear
+1273,Green Gram (Moong),Sangli,2017-07-07,5650.0,2.0,29.0,clear
+1274,Bengal Gram(Gram),Sangli,2017-11-07,5100.0,2.0,29.4,clear
+1275,Bengal Gram(Gram),Tasgaon,2017-11-07,5010.0,1.0,29.4,clear
+1276,Black Gram (Urd Beans),Sangli,2017-11-07,5350.0,0.0,29.4,clear
+1277,Green Gram (Moong),Sangli,2017-11-07,5650.0,1.0,29.4,clear
+1278,Bengal Gram(Gram),Sangli,2017-12-07,5050.0,2.0,27.4,clear
+1279,Bengal Gram(Gram),Tasgaon,2017-12-07,5065.0,2.0,27.4,clear
+1280,Black Gram (Urd Beans),Sangli,2017-12-07,5350.0,1.0,27.4,clear
+1281,Green Gram (Moong),Sangli,2017-12-07,6000.0,3.0,27.4,clear
+1282,Lentil(Masur),Sangli,2017-12-07,5000.0,16.0,27.4,clear
+1283,Bengal Gram(Gram),Sangli,2017-07-13,5000.0,2.0,25.6,clear
+1284,Bengal Gram(Gram),Tasgaon,2017-07-13,5030.0,1.0,25.6,clear
+1285,Lentil(Masur),Sangli,2017-07-13,5000.0,17.0,25.6,clear
+1286,Bengal Gram(Gram),Sangli,2017-07-15,5250.0,2.0,27.0,clear
+1287,Bengal Gram(Gram),Tasgaon,2017-07-15,5060.0,1.0,27.0,clear
+1288,Green Gram (Moong),Sangli,2017-07-15,5550.0,2.0,27.0,clear
+1289,Lentil(Masur),Sangli,2017-07-15,5250.0,5.0,27.0,clear
+1290,Bengal Gram(Gram),Sangli,2017-07-17,4900.0,2.0,25.4,clear
+1291,Bengal Gram(Gram),Tasgaon,2017-07-17,5010.0,2.0,25.4,clear
+1292,Green Gram (Moong),Sangli,2017-07-17,5650.0,5.0,25.4,clear
+1293,Lentil(Masur),Sangli,2017-07-17,5250.0,5.0,25.4,clear
+1294,Bengal Gram(Gram),Sangli,2017-07-20,5000.0,1.0,25.4,clear
+1295,Bengal Gram(Gram),Tasgaon,2017-07-20,5025.0,1.0,25.4,clear
+1296,Green Gram (Moong),Sangli,2017-07-20,5650.0,5.0,25.4,clear
+1297,Lentil(Masur),Sangli,2017-07-20,5250.0,2.0,25.4,clear
+1298,Bengal Gram(Gram),Sangli,2017-07-21,5150.0,5.0,24.8,rain
+1299,Green Gram (Moong),Sangli,2017-07-21,5650.0,5.0,24.8,rain
+1300,Lentil(Masur),Sangli,2017-07-21,5000.0,2.0,24.8,rain
+1301,Bengal Gram(Gram),Sangli,2017-07-22,5150.0,5.0,26.8,clear
+1302,Bengal Gram(Gram),Tasgaon,2017-07-22,5110.0,1.0,26.8,clear
+1303,Black Gram (Urd Beans),Sangli,2017-07-22,5500.0,4.0,26.8,clear
+1304,Green Gram (Moong),Sangli,2017-07-22,5650.0,5.0,26.8,clear
+1305,Lentil(Masur),Sangli,2017-07-22,5200.0,7.0,26.8,clear
+1306,Bengal Gram(Gram),Sangli,2017-07-26,5050.0,6.0,26.6,rain
+1307,Green Gram (Moong),Sangli,2017-07-26,5650.0,2.0,26.6,rain
+1308,Bengal Gram(Gram),Sangli,2017-07-27,5000.0,6.0,26.2,rain
+1309,Bengal Gram(Gram),Tasgaon,2017-07-27,5060.0,1.0,26.2,rain
+1310,Bengal Gram(Gram),Sangli,2017-07-31,5100.0,3.0,26.2,clear
+1311,Bengal Gram(Gram),Tasgaon,2017-07-31,5030.0,1.0,26.2,clear
+1312,Bengal Gram(Gram),Sangli,2017-02-08,4850.0,9.0,32.2,clear
+1313,Bengal Gram(Gram),Sangli,2017-08-08,5150.0,6.0,29.8,clear
+1314,Bengal Gram(Gram),Tasgaon,2017-08-08,5070.0,1.0,29.8,clear
+1315,Green Gram (Moong),Sangli,2017-08-08,5900.0,2.0,29.8,clear
+1316,Bengal Gram(Gram),Sangli,2017-09-08,4950.0,1.0,23.0,clear
+1317,Bengal Gram(Gram),Tasgaon,2017-09-08,4930.0,2.0,23.0,clear
+1318,Bengal Gram(Gram),Sangli,2017-10-08,5000.0,1.0,26.0,rain
+1319,Bengal Gram(Gram),Tasgaon,2017-10-08,5030.0,1.0,26.0,rain
+1320,Black Gram (Urd Beans),Sangli,2017-10-08,5650.0,1.0,26.0,rain
+1321,Bengal Gram(Gram),Sangli,2017-11-08,5000.0,3.0,29.6,clear
+1322,Bengal Gram(Gram),Tasgaon,2017-11-08,5110.0,1.0,29.6,clear
+1323,Bengal Gram(Gram),Sangli,2017-12-08,5350.0,4.0,28.8,clear
+1324,Bengal Gram(Gram),Tasgaon,2017-12-08,5170.0,1.0,28.8,clear
+1325,Lentil(Masur),Sangli,2017-12-08,4650.0,1.0,28.8,clear
+1326,Bengal Gram(Gram),Sangli,2017-08-14,5300.0,2.0,29.6,clear
+1327,Bengal Gram(Gram),Sangli,2017-08-16,5500.0,6.0,26.4,rain
+1328,Black Gram (Urd Beans),Sangli,2017-08-16,5750.0,1.0,26.4,rain
+1329,Lentil(Masur),Sangli,2017-08-16,4750.0,1.0,26.4,rain
+1330,Bengal Gram(Gram),Sangli,2017-08-17,5250.0,1.0,25.6,clear
+1331,Lentil(Masur),Sangli,2017-08-17,4750.0,3.0,25.6,clear
+1332,Bengal Gram(Gram),Sangli,2017-08-18,5300.0,3.0,26.6,clear
+1333,Bengal Gram(Gram),Sangli,2017-08-19,5550.0,3.0,25.2,clear
+1334,Bengal Gram(Gram),Sangli,2017-08-24,5450.0,2.0,27.2,clear
+1335,Bengal Gram(Gram),Tasgaon,2017-08-24,5200.0,1.0,27.2,clear
+1336,Lentil(Masur),Sangli,2017-08-24,4650.0,7.0,27.2,clear
+1337,Bengal Gram(Gram),Sangli,2017-08-28,5500.0,3.0,24.0,rain
+1338,Bengal Gram(Gram),Tasgaon,2017-08-28,5150.0,1.0,24.0,rain
+1339,Lentil(Masur),Sangli,2017-08-28,4700.0,4.0,24.0,rain
+1340,Bengal Gram(Gram),Sangli,2017-08-30,5500.0,2.0,27.2,clear
+1341,Bengal Gram(Gram),Tasgaon,2017-08-30,5200.0,1.0,27.2,clear
+1342,Lentil(Masur),Sangli,2017-08-30,4900.0,5.0,27.2,clear
+1343,Bengal Gram(Gram),Sangli,2017-08-31,5600.0,4.0,27.6,clear
+1344,Bengal Gram(Gram),Tasgaon,2017-08-31,5210.0,1.0,27.6,clear
+1345,Lentil(Masur),Sangli,2017-08-31,4650.0,3.0,27.6,clear
+1346,Bengal Gram(Gram),Sangli,2017-01-09,5600.0,3.0,27.2,clear
+1347,Bengal Gram(Gram),Tasgaon,2017-01-09,5170.0,1.0,27.2,clear
+1348,Black Gram (Urd Beans),Sangli,2017-01-09,5800.0,2.0,27.2,clear
+1349,Green Gram (Moong),Sangli,2017-01-09,5800.0,7.0,27.2,clear
+1350,Lentil(Masur),Sangli,2017-01-09,4650.0,3.0,27.2,clear
+1351,Bengal Gram(Gram),Sangli,2017-04-09,5500.0,4.0,38.4,clear
+1352,Bengal Gram(Gram),Tasgaon,2017-04-09,5200.0,1.0,38.4,clear
+1353,Lentil(Masur),Sangli,2017-04-09,4900.0,10.0,38.4,clear
+1354,Bengal Gram(Gram),Sangli,2017-06-09,5250.0,3.0,28.0,clear
+1355,Bengal Gram(Gram),Tasgaon,2017-06-09,5160.0,1.0,28.0,clear
+1356,Black Gram (Urd Beans),Sangli,2017-06-09,5700.0,6.0,28.0,clear
+1357,Green Gram (Moong),Sangli,2017-06-09,5800.0,5.0,28.0,clear
+1358,Bengal Gram(Gram),Sangli,2017-07-09,5150.0,0.0,29.4,clear
+1359,Bengal Gram(Gram),Tasgaon,2017-07-09,5150.0,1.0,29.4,clear
+1360,Bengal Gram(Gram),Sangli,2017-08-09,5150.0,12.0,27.0,clear
+1361,Bengal Gram(Gram),Tasgaon,2017-08-09,5130.0,1.0,27.0,clear
+1362,Bengal Gram(Gram),Sangli,2017-09-09,5250.0,1.0,27.0,rain
+1363,Bengal Gram(Gram),Tasgaon,2017-09-09,5180.0,1.0,27.0,rain
+1364,Bengal Gram(Gram),Sangli,2017-11-09,5150.0,10.0,29.0,clear
+1365,Bengal Gram(Gram),Tasgaon,2017-11-09,5200.0,1.0,29.0,clear
+1366,Black Gram (Urd Beans),Sangli,2017-11-09,6200.0,4.0,29.0,clear
+1367,Bengal Gram(Gram),Sangli,2017-09-15,5350.0,11.0,25.0,rain
+1368,Bengal Gram(Gram),Tasgaon,2017-09-15,5250.0,1.0,25.0,rain
+1369,Bengal Gram(Gram),Sangli,2017-09-16,5350.0,3.0,26.6,clear
+1370,Bengal Gram(Gram),Tasgaon,2017-09-16,5240.0,1.0,26.6,clear
+1371,Black Gram (Urd Beans),Sangli,2017-09-16,5700.0,1.0,26.6,clear
+1372,Bengal Gram(Gram),Sangli,2017-09-18,5400.0,5.0,24.0,rain
+1373,Bengal Gram(Gram),Tasgaon,2017-09-18,5150.0,1.0,24.0,rain
+1374,Lentil(Masur),Sangli,2017-09-18,4650.0,2.0,24.0,rain
+1375,Bengal Gram(Gram),Sangli,2017-09-20,5300.0,11.0,24.2,clear
+1376,Bengal Gram(Gram),Tasgaon,2017-09-20,5300.0,1.0,24.2,clear
+1377,Bengal Gram(Gram),Sangli,2017-09-22,5400.0,4.0,25.4,clear
+1378,Bengal Gram(Gram),Tasgaon,2017-09-22,5250.0,1.0,25.4,clear
+1379,Black Gram (Urd Beans),Sangli,2017-09-22,5700.0,5.0,25.4,clear
+1380,Bengal Gram(Gram),Sangli,2017-09-23,5400.0,2.0,29.4,clear
+1381,Bengal Gram(Gram),Tasgaon,2017-09-23,5260.0,1.0,29.4,clear
+1382,Black Gram (Urd Beans),Sangli,2017-09-23,5700.0,1.0,29.4,clear
+1383,Bengal Gram(Gram),Sangli,2017-09-25,5400.0,8.0,28.8,clear
+1384,Bengal Gram(Gram),Tasgaon,2017-09-25,5200.0,1.0,28.8,clear
+1385,Bengal Gram(Gram),Sangli,2017-09-27,5150.0,3.0,26.2,clear
+1386,Bengal Gram(Gram),Tasgaon,2017-09-27,5210.0,1.0,26.2,clear
+1387,Black Gram (Urd Beans),Sangli,2017-09-27,5450.0,3.0,26.2,clear
+1388,Bengal Gram(Gram),Sangli,2017-09-28,4950.0,7.0,25.6,clear
+1389,Bengal Gram(Gram),Tasgaon,2017-09-28,5210.0,1.0,25.6,clear
+1390,Lentil(Masur),Sangli,2017-09-28,4750.0,1.0,25.6,clear
+1391,Bengal Gram(Gram),Sangli,2017-09-29,4800.0,5.0,25.6,clear
+1392,Lentil(Masur),Sangli,2017-09-29,4750.0,3.0,25.6,clear
+1393,Bengal Gram(Gram),Sangli,2017-04-10,5000.0,7.0,40.4,clear
+1394,Bengal Gram(Gram),Tasgaon,2017-04-10,5250.0,1.0,40.4,clear
+1395,Black Gram (Urd Beans),Sangli,2017-04-10,5450.0,3.0,40.4,clear
+1396,Bengal Gram(Gram),Sangli,2017-05-10,5150.0,4.0,38.4,clear
+1397,Bengal Gram(Gram),Tasgaon,2017-05-10,5260.0,1.0,38.4,clear
+1398,Black Gram (Urd Beans),Sangli,2017-05-10,5450.0,4.0,38.4,clear
+1399,Bengal Gram(Gram),Sangli,2017-06-10,5000.0,14.0,27.4,clear
+1400,Lentil(Masur),Sangli,2017-06-10,4600.0,1.0,27.4,clear
+1401,Bengal Gram(Gram),Sangli,2017-07-10,5100.0,10.0,26.4,rain
+1402,Bengal Gram(Gram),Tasgaon,2017-07-10,5160.0,1.0,26.4,rain
+1403,Black Gram (Urd Beans),Sangli,2017-07-10,5450.0,10.0,26.4,rain
+1404,Lentil(Masur),Sangli,2017-07-10,4400.0,3.0,26.4,rain
+1405,Bengal Gram(Gram),Sangli,2017-09-10,5000.0,9.0,29.4,clear
+1406,Black Gram (Urd Beans),Sangli,2017-09-10,5700.0,7.0,29.4,clear
+1407,Bengal Gram(Gram),Sangli,2017-10-10,5100.0,3.0,28.8,clear
+1408,Black Gram (Urd Beans),Sangli,2017-10-10,5450.0,2.0,28.8,clear
+1409,Bengal Gram(Gram),Sangli,2017-11-10,5000.0,15.0,28.4,clear
+1410,Bengal Gram(Gram),Tasgaon,2017-11-10,5150.0,1.0,28.4,clear
+1411,Bengal Gram(Gram),Sangli,2017-12-10,4900.0,5.0,27.4,clear
+1412,Bengal Gram(Gram),Tasgaon,2017-12-10,5100.0,0.0,27.4,clear
+1413,Black Gram (Urd Beans),Sangli,2017-12-10,5450.0,3.0,27.4,clear
+1414,Bengal Gram(Gram),Sangli,2017-10-13,4800.0,12.0,24.6,clear
+1415,Bengal Gram(Gram),Tasgaon,2017-10-13,5050.0,1.0,24.6,clear
+1416,Black Gram (Urd Beans),Sangli,2017-10-13,5450.0,4.0,24.6,clear
+1417,Bengal Gram(Gram),Sangli,2017-10-14,4550.0,5.0,29.0,clear
+1418,Bengal Gram(Gram),Tasgaon,2017-10-14,5160.0,1.0,29.0,clear
+1419,Black Gram (Urd Beans),Sangli,2017-10-14,5450.0,5.0,29.0,clear
+1420,Bengal Gram(Gram),Sangli,2017-10-17,4400.0,3.0,28.6,clear
+1421,Bengal Gram(Gram),Tasgaon,2017-10-17,5130.0,1.0,28.6,clear
+1422,Bengal Gram(Gram),Sangli,2017-10-23,4550.0,1.0,29.6,clear
+1423,Bengal Gram(Gram),Tasgaon,2017-10-23,5060.0,1.0,29.6,clear
+1424,Lentil(Masur),Sangli,2017-10-23,4550.0,4.0,29.6,clear
+1425,Bengal Gram(Gram),Sangli,2017-10-24,4250.0,5.0,30.2,clear
+1426,Bengal Gram(Gram),Tasgaon,2017-10-24,4910.0,1.0,30.2,clear
+1427,Lentil(Masur),Sangli,2017-10-24,5100.0,2.0,30.2,clear
+1428,Bengal Gram(Gram),Sangli,2017-10-25,4800.0,2.0,30.6,clear
+1429,Bengal Gram(Gram),Tasgaon,2017-10-25,4920.0,1.0,30.6,clear
+1430,Black Gram (Urd Beans),Sangli,2017-10-25,5450.0,2.0,30.6,clear
+1431,Bengal Gram(Gram),Sangli,2017-10-26,4750.0,4.0,27.0,clear
+1432,Bengal Gram(Gram),Tasgaon,2017-10-26,4890.0,1.0,27.0,clear
+1433,Black Gram (Urd Beans),Sangli,2017-10-26,5450.0,7.0,27.0,clear
+1434,Green Gram (Moong),Sangli,2017-10-26,5788.0,1.0,27.0,clear
+1435,Lentil(Masur),Sangli,2017-10-26,4650.0,2.0,27.0,clear
+1436,Bengal Gram(Gram),Sangli,2017-10-28,4950.0,5.0,29.0,clear
+1437,Black Gram (Urd Beans),Sangli,2017-10-28,5450.0,7.0,29.0,clear
+1438,Lentil(Masur),Sangli,2017-10-28,4550.0,5.0,29.0,clear
+1439,Bengal Gram(Gram),Sangli,2017-10-30,4850.0,2.0,27.8,clear
+1440,Bengal Gram(Gram),Tasgaon,2017-10-30,4770.0,1.0,27.8,clear
+1441,Bengal Gram(Gram),Sangli,2017-10-31,4600.0,9.0,29.0,clear
+1442,Bengal Gram(Gram),Tasgaon,2017-10-31,4650.0,1.0,29.0,clear
+1443,Black Gram (Urd Beans),Tasgaon,2017-10-31,5400.0,4.0,29.0,clear
+1444,Bengal Gram(Gram),Sangli,2017-01-11,4350.0,2.0,27.0,clear
+1445,Bengal Gram(Gram),Tasgaon,2017-01-11,4700.0,1.0,27.0,clear
+1446,Green Gram (Moong),Sangli,2017-01-11,5788.0,14.0,27.0,clear
+1447,Lentil(Masur),Sangli,2017-01-11,4300.0,7.0,27.0,clear
+1448,Bengal Gram(Gram),Sangli,2017-02-11,4575.0,12.0,31.4,clear
+1449,Black Gram (Urd Beans),Sangli,2017-02-11,5450.0,4.0,31.4,clear
+1450,Green Gram (Moong),Sangli,2017-02-11,5788.0,3.0,31.4,clear
+1451,Lentil(Masur),Sangli,2017-02-11,4300.0,2.0,31.4,clear
+1452,Bengal Gram(Gram),Sangli,2017-03-11,4600.0,3.0,29.2,clear
+1453,Bengal Gram(Gram),Tasgaon,2017-03-11,4800.0,1.0,29.2,clear
+1454,Black Gram (Urd Beans),Sangli,2017-03-11,5450.0,2.0,29.2,clear
+1455,Bengal Gram(Gram),Sangli,2017-04-11,4500.0,5.0,39.8,clear
+1456,Lentil(Masur),Sangli,2017-04-11,4350.0,5.0,39.8,clear
+1457,Bengal Gram(Gram),Tasgaon,2017-02-28,4450.0,1.0,34.4,clear
+1458,Green Gram (Moong),Sangli,2017-02-28,5800.0,6.0,34.4,clear
+1459,Lentil(Masur),Sangli,2017-02-28,5700.0,5.0,34.4,clear
+1460,Bengal Gram(Gram),Tasgaon,2017-08-04,5125.0,2.0,28.4,clear
+1461,Lentil(Masur),Sangli,2017-08-04,5800.0,23.0,28.4,clear
+1462,Bengal Gram(Gram),Tasgaon,2017-04-18,5245.0,3.0,40.6,clear
+1463,Green Gram (Moong),Sangli,2017-04-18,5600.0,4.0,40.6,clear
+1464,Bengal Gram(Gram),Tasgaon,2017-06-05,5340.0,1.0,33.2,clear
+1465,Bengal Gram(Gram),Tasgaon,2017-08-05,5300.0,1.0,26.6,clear
+1466,Black Gram (Urd Beans),Sangli,2017-08-05,5500.0,1.0,26.6,clear
+1467,Green Gram (Moong),Sangli,2017-08-05,5900.0,4.0,26.6,clear
+1468,Bengal Gram(Gram),Tasgaon,2017-09-06,5250.0,2.0,29.4,clear
+1469,Bengal Gram(Gram),Tasgaon,2017-12-06,5000.0,2.0,23.2,clear
+1470,Green Gram (Moong),Sangli,2017-12-06,6000.0,10.0,23.2,clear
+1471,Lentil(Masur),Sangli,2017-12-06,5250.0,5.0,23.2,clear
+1472,Bengal Gram(Gram),Tasgaon,2017-06-14,4900.0,1.0,28.8,clear
+1473,Black Gram (Urd Beans),Sangli,2017-06-14,5300.0,1.0,28.8,clear
+1474,Green Gram (Moong),Sangli,2017-06-14,5750.0,2.0,28.8,clear
+1475,Lentil(Masur),Sangli,2017-06-14,5350.0,7.0,28.8,clear
+1476,Bengal Gram(Gram),Tasgaon,2017-06-15,5050.0,2.0,27.0,rain
+1477,Bengal Gram(Gram),Tasgaon,2017-06-16,5080.0,2.0,27.2,clear
+1478,Bengal Gram(Gram),Tasgaon,2017-06-24,4870.0,1.0,25.8,rain
+1479,Bengal Gram(Gram),Tasgaon,2017-06-28,5040.0,1.0,26.0,clear
+1480,Green Gram (Moong),Sangli,2017-06-28,5650.0,14.0,26.0,clear
+1481,Lentil(Masur),Sangli,2017-06-28,5100.0,5.0,26.0,clear
+1482,Bengal Gram(Gram),Tasgaon,2017-06-07,5065.0,1.0,28.8,clear
+1483,Green Gram (Moong),Sangli,2017-06-07,5650.0,4.0,28.8,clear
+1484,Bengal Gram(Gram),Tasgaon,2017-08-07,5010.0,2.0,28.0,clear
+1485,Bengal Gram(Gram),Tasgaon,2017-10-07,5010.0,1.0,28.4,clear
+1486,Bengal Gram(Gram),Tasgaon,2017-07-14,5050.0,0.0,25.0,rain
+1487,Lentil(Masur),Sangli,2017-07-14,4750.0,10.0,25.0,rain
+1488,Bengal Gram(Gram),Tasgaon,2017-07-18,5060.0,1.0,23.6,rain
+1489,Green Gram (Moong),Sangli,2017-07-18,5650.0,5.0,23.6,rain
+1490,Lentil(Masur),Sangli,2017-07-18,5250.0,2.0,23.6,rain
+1491,Bengal Gram(Gram),Tasgaon,2017-07-19,5050.0,1.0,23.6,rain
+1492,Green Gram (Moong),Sangli,2017-07-19,5550.0,5.0,23.6,rain
+1493,Lentil(Masur),Sangli,2017-07-19,5250.0,2.0,23.6,rain
+1494,Bengal Gram(Gram),Tasgaon,2017-07-24,5040.0,1.0,25.6,rain
+1495,Bengal Gram(Gram),Tasgaon,2017-07-29,5035.0,1.0,27.4,rain
+1496,Lentil(Masur),Sangli,2017-07-29,5100.0,2.0,27.4,rain
+1497,Bengal Gram(Gram),Tasgaon,2017-01-08,4750.0,1.0,27.2,clear
+1498,Black Gram (Urd Beans),Sangli,2017-01-08,5750.0,0.0,27.2,clear
+1499,Bengal Gram(Gram),Tasgaon,2017-08-21,5150.0,1.0,28.4,clear
+1500,Bengal Gram(Gram),Tasgaon,2017-08-23,5100.0,1.0,27.6,clear
+1501,Lentil(Masur),Sangli,2017-08-23,4600.0,2.0,27.6,clear
+1502,Bengal Gram(Gram),Tasgaon,2017-09-14,5160.0,1.0,29.2,clear
+1503,Bengal Gram(Gram),Tasgaon,2017-09-21,5215.0,1.0,23.2,rain
+1504,Bengal Gram(Gram),Tasgaon,2017-10-16,5120.0,1.0,28.0,clear
+1505,Bengal Gram(Gram),Tasgaon,2017-10-27,4910.0,1.0,29.0,clear
+1506,Black Gram (Urd Beans),Sangli,2017-03-01,5400.0,2.0,34.4,clear
+1507,Black Gram (Urd Beans),Sangli,2017-04-01,5900.0,3.0,35.4,clear
+1508,Black Gram (Urd Beans),Sangli,2017-05-01,5900.0,1.0,36.6,clear
+1509,Black Gram (Urd Beans),Sangli,2017-06-01,5900.0,9.0,31.0,clear
+1510,Green Gram (Moong),Sangli,2017-06-01,5400.0,15.0,31.0,clear
+1511,Lentil(Masur),Sangli,2017-06-01,6000.0,5.0,31.0,clear
+1512,Black Gram (Urd Beans),Sangli,2017-07-01,6100.0,1.0,25.8,clear
+1513,Lentil(Masur),Sangli,2017-07-01,6300.0,15.0,25.8,clear
+1514,Black Gram (Urd Beans),Sangli,2017-09-01,5700.0,5.0,28.4,clear
+1515,Lentil(Masur),Sangli,2017-09-01,5700.0,3.0,28.4,clear
+1516,Black Gram (Urd Beans),Sangli,2017-10-01,5900.0,2.0,30.4,clear
+1517,Black Gram (Urd Beans),Sangli,2017-11-01,5800.0,6.0,29.4,clear
+1518,Lentil(Masur),Sangli,2017-11-01,6300.0,15.0,29.4,clear
+1519,Black Gram (Urd Beans),Sangli,2017-12-01,5800.0,1.0,28.4,clear
+1520,Black Gram (Urd Beans),Sangli,2017-01-13,5800.0,6.0,27.2,clear
+1521,Lentil(Masur),Sangli,2017-01-13,6300.0,12.0,27.2,clear
+1522,Black Gram (Urd Beans),Sangli,2017-01-14,5800.0,3.0,28.0,clear
+1523,Black Gram (Urd Beans),Sangli,2017-01-16,5800.0,11.0,28.4,clear
+1524,Lentil(Masur),Sangli,2017-01-16,5900.0,4.0,28.4,clear
+1525,Black Gram (Urd Beans),Sangli,2017-01-18,5700.0,5.0,28.2,clear
+1526,Green Gram (Moong),Sangli,2017-01-18,5400.0,20.0,28.2,clear
+1527,Black Gram (Urd Beans),Sangli,2017-01-24,6000.0,3.0,31.0,clear
+1528,Lentil(Masur),Sangli,2017-01-24,5900.0,12.0,31.0,clear
+1529,Black Gram (Urd Beans),Sangli,2017-01-25,6000.0,3.0,30.4,clear
+1530,Green Gram (Moong),Sangli,2017-01-25,5750.0,4.0,30.4,clear
+1531,Lentil(Masur),Sangli,2017-01-25,6150.0,13.0,30.4,clear
+1532,Black Gram (Urd Beans),Sangli,2017-01-31,5300.0,13.0,31.2,clear
+1533,Green Gram (Moong),Sangli,2017-01-31,5500.0,7.0,31.2,clear
+1534,Lentil(Masur),Sangli,2017-01-31,5900.0,2.0,31.2,clear
+1535,Black Gram (Urd Beans),Sangli,2017-01-02,5300.0,16.0,28.6,clear
+1536,Green Gram (Moong),Sangli,2017-01-02,5800.0,5.0,28.6,clear
+1537,Black Gram (Urd Beans),Sangli,2017-03-10,5450.0,1.0,29.6,clear
+1538,Lentil(Masur),Sangli,2017-03-10,4650.0,5.0,29.6,clear
+1539,Green Gram (Moong),Sangli,2017-06-02,5400.0,2.0,34.4,clear
+1540,Lentil(Masur),Sangli,2017-06-02,5800.0,8.0,34.4,clear
+1541,Green Gram (Moong),Sangli,2017-07-25,5650.0,2.0,28.0,clear
+1542,Lentil(Masur),Sangli,2017-03-08,4250.0,6.0,34.2,clear
+1543,Lentil(Masur),Sangli,2017-04-08,4350.0,10.0,38.8,clear
+1544,Lentil(Masur),Sangli,2017-08-26,5000.0,8.0,27.0,clear

@@ -1,0 +1,1954 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Dahod,2015-12-08,7350.0,5.0,26.2,clear
+1,Bengal Gram(Gram),Dahod,2015-12-08,4343.0,18.1,26.2,clear
+2,Black Gram (Urd Beans),Dahod,2015-12-08,7200.0,0.7,26.2,clear
+3,Green Gram (Moong),Dahod,2015-12-08,5600.0,0.5,26.2,clear
+4,Arhar (Tur/Red Gram),Dahod,2015-12-10,9300.0,0.2,27.2,clear
+5,Bengal Gram(Gram),Dahod,2015-12-10,5025.0,40.5,27.2,clear
+6,Black Gram (Urd Beans),Dahod,2015-12-10,10800.0,18.9,27.2,clear
+7,Green Gram (Moong),Dahod,2015-12-10,7800.0,0.5,27.2,clear
+8,Arhar (Tur/Red Gram),Dahod,2015-12-12,8450.0,36.7,21.2,clear
+9,Bengal Gram(Gram),Dahod,2015-12-12,4667.5,11.2,21.2,clear
+10,Black Gram (Urd Beans),Dahod,2015-12-12,10300.0,4.3,21.2,clear
+11,Arhar (Tur/Red Gram),Dahod,2015-12-14,8100.0,55.1,20.2,clear
+12,Arhar (Tur/Red Gram),Davgadbaria(Piplod),2015-12-14,8250.0,4.1,20.2,clear
+13,Arhar (Tur/Red Gram),Devgadhbaria,2015-12-14,8350.0,5.2,20.2,clear
+14,Arhar (Tur/Red Gram),Jhalod,2015-12-14,4350.0,1.0,20.2,clear
+15,Bengal Gram(Gram),Dahod,2015-12-14,4677.5,32.2,20.2,clear
+16,Bengal Gram(Gram),Jhalod,2015-12-14,3250.0,17.0,20.2,clear
+17,Black Gram (Urd Beans),Dahod,2015-12-14,10000.0,17.5,20.2,clear
+18,Arhar (Tur/Red Gram),Dahod,2015-12-15,8177.5,43.1,21.2,clear
+19,Arhar (Tur/Red Gram),Devgadhbaria,2015-12-15,8500.0,5.8,21.2,clear
+20,Bengal Gram(Gram),Dahod,2015-12-15,4557.5,22.8,21.2,clear
+21,Black Gram (Urd Beans),Dahod,2015-12-15,10200.0,12.0,21.2,clear
+22,Arhar (Tur/Red Gram),Dahod,2015-12-16,7450.0,65.4,22.2,clear
+23,Arhar (Tur/Red Gram),Devgadhbaria,2015-12-16,8500.0,6.2,22.2,clear
+24,Arhar (Tur/Red Gram),Jhalod,2015-12-16,7250.0,1.0,22.2,clear
+25,Bengal Gram(Gram),Dahod,2015-12-16,4562.5,30.0,22.2,clear
+26,Black Gram (Urd Beans),Dahod,2015-12-16,10100.0,4.8,22.2,clear
+27,Green Gram (Moong),Dahod,2015-12-16,8000.0,0.0,22.2,clear
+28,Arhar (Tur/Red Gram),Dahod,2015-12-17,8175.0,32.0,24.2,clear
+29,Arhar (Tur/Red Gram),Devgadhbaria,2015-12-17,8250.0,5.7,24.2,clear
+30,Arhar (Tur/Red Gram),Jhalod,2015-12-17,7250.0,11.0,24.2,clear
+31,Bengal Gram(Gram),Dahod,2015-12-17,4525.0,23.8,24.2,clear
+32,Black Gram (Urd Beans),Dahod,2015-12-17,10200.0,5.6,24.2,clear
+33,Green Gram (Moong),Dahod,2015-12-17,8000.0,0.0,24.2,clear
+34,Arhar (Tur/Red Gram),Dahod,2015-12-19,8350.0,68.8,22.2,clear
+35,Arhar (Tur/Red Gram),Devgadhbaria,2015-12-19,8260.0,7.2,22.2,clear
+36,Arhar (Tur/Red Gram),Jhalod,2015-12-19,4900.0,3.0,22.2,clear
+37,Bengal Gram(Gram),Dahod,2015-12-19,4512.5,30.1,22.2,clear
+38,Bengal Gram(Gram),Jhalod,2015-12-19,3350.0,7.0,22.2,clear
+39,Black Gram (Urd Beans),Dahod,2015-12-19,10000.0,18.6,22.2,clear
+40,Arhar (Tur/Red Gram),Dahod,2015-12-21,8175.0,72.8,21.2,clear
+41,Arhar (Tur/Red Gram),Devgadhbaria,2015-12-21,8400.0,7.8,21.2,clear
+42,Arhar (Tur/Red Gram),Jhalod,2015-12-21,7250.0,26.0,21.2,clear
+43,Bengal Gram(Gram),Dahod,2015-12-21,4637.5,15.2,21.2,clear
+44,Black Gram (Urd Beans),Dahod,2015-12-21,9850.0,8.7,21.2,clear
+45,Green Gram (Moong),Dahod,2015-12-21,7900.0,0.9,21.2,clear
+46,Arhar (Tur/Red Gram),Dahod,2015-12-22,7912.5,85.3,21.2,clear
+47,Arhar (Tur/Red Gram),Devgadhbaria,2015-12-22,8520.0,7.2,21.2,clear
+48,Bengal Gram(Gram),Dahod,2015-12-22,4612.5,27.0,21.2,clear
+49,Bengal Gram(Gram),Jhalod,2015-12-22,4250.0,1.0,21.2,clear
+50,Black Gram (Urd Beans),Dahod,2015-12-22,9750.0,8.2,21.2,clear
+51,Arhar (Tur/Red Gram),Dahod,2015-12-23,7712.5,66.7,20.2,clear
+52,Arhar (Tur/Red Gram),Devgadhbaria,2015-12-23,8500.0,7.7,20.2,clear
+53,Arhar (Tur/Red Gram),Jhalod,2015-12-23,7000.0,7.0,20.2,clear
+54,Bengal Gram(Gram),Dahod,2015-12-23,4627.5,19.9,20.2,clear
+55,Black Gram (Urd Beans),Dahod,2015-12-23,9800.0,6.1,20.2,clear
+56,Green Gram (Moong),Dahod,2015-12-23,8000.0,0.0,20.2,clear
+57,Arhar (Tur/Red Gram),Dahod,2015-12-24,7600.0,0.0,20.2,clear
+58,Arhar (Tur/Red Gram),Devgadhbaria,2015-12-24,7750.0,6.5,20.2,clear
+59,Arhar (Tur/Red Gram),Jhalod,2015-12-24,7200.0,1.0,20.2,clear
+60,Bengal Gram(Gram),Dahod,2015-12-24,4585.0,0.0,20.2,clear
+61,Black Gram (Urd Beans),Dahod,2015-12-24,9500.0,0.0,20.2,clear
+62,Green Gram (Moong),Dahod,2015-12-24,8000.0,0.0,20.2,clear
+63,Arhar (Tur/Red Gram),Dahod,2015-12-25,7887.5,0.0,19.2,clear
+64,Bengal Gram(Gram),Dahod,2015-12-25,4600.0,0.0,19.2,clear
+65,Black Gram (Urd Beans),Dahod,2015-12-25,9750.0,0.0,19.2,clear
+66,Green Gram (Moong),Dahod,2015-12-25,8000.0,0.0,19.2,clear
+67,Arhar (Tur/Red Gram),Dahod,2015-12-26,7700.0,157.3,21.6,clear
+68,Arhar (Tur/Red Gram),Devgadhbaria,2015-12-26,7750.0,7.4,21.6,clear
+69,Bengal Gram(Gram),Dahod,2015-12-26,4600.0,62.2,21.6,clear
+70,Black Gram (Urd Beans),Dahod,2015-12-26,9725.0,14.3,21.6,clear
+71,Green Gram (Moong),Dahod,2015-12-26,8000.0,0.1,21.6,clear
+72,Arhar (Tur/Red Gram),Dahod,2015-12-28,7800.0,44.0,26.2,clear
+73,Arhar (Tur/Red Gram),Devgadhbaria,2015-12-28,7800.0,7.1,26.2,clear
+74,Bengal Gram(Gram),Dahod,2015-12-28,4547.5,2.9,26.2,clear
+75,Black Gram (Urd Beans),Dahod,2015-12-28,9750.0,3.5,26.2,clear
+76,Green Gram (Moong),Dahod,2015-12-28,8000.0,0.0,26.2,clear
+77,Arhar (Tur/Red Gram),Dahod,2015-12-29,7700.0,105.3,27.2,clear
+78,Arhar (Tur/Red Gram),Devgadhbaria,2015-12-29,8500.0,8.7,27.2,clear
+79,Bengal Gram(Gram),Dahod,2015-12-29,4510.0,25.4,27.2,clear
+80,Black Gram (Urd Beans),Dahod,2015-12-29,9900.0,8.8,27.2,clear
+81,Green Gram (Moong),Dahod,2015-12-29,7700.0,4.5,27.2,clear
+82,Arhar (Tur/Red Gram),Dahod,2015-12-31,7650.0,76.0,27.2,clear
+83,Arhar (Tur/Red Gram),Devgadhbaria,2015-12-31,8500.0,9.0,27.2,clear
+84,Bengal Gram(Gram),Dahod,2015-12-31,4455.0,24.8,27.2,clear
+85,Black Gram (Urd Beans),Dahod,2015-12-31,9800.0,5.5,27.2,clear
+86,Arhar (Tur/Red Gram),Devgadhbaria,2015-12-18,8250.0,6.7,21.2,clear
+87,Arhar (Tur/Red Gram),Jhalod,2015-12-18,7500.0,15.0,21.2,clear
+88,Arhar (Tur/Red Gram),Devgadhbaria,2015-12-30,8500.0,7.7,28.2,clear
+89,Green Gram (Moong),Dahod,2015-12-09,6500.0,7.7,26.6,clear
+90,Arhar (Tur/Red Gram),Dahod,2016-01-01,7550.0,26.4,28.2,clear
+91,Arhar (Tur/Red Gram),Devgadhbaria,2016-01-01,8000.0,9.8,28.2,clear
+92,Bengal Gram(Gram),Dahod,2016-01-01,4525.0,7.1,28.2,clear
+93,Black Gram (Urd Beans),Dahod,2016-01-01,9800.0,9.7,28.2,clear
+94,Green Gram (Moong),Dahod,2016-01-01,7750.0,0.0,28.2,clear
+95,Arhar (Tur/Red Gram),Dahod,2016-02-01,7350.0,36.1,27.2,clear
+96,Arhar (Tur/Red Gram),Devgadhbaria,2016-02-01,8000.0,7.5,27.2,clear
+97,Bengal Gram(Gram),Dahod,2016-02-01,4565.0,27.6,27.2,clear
+98,Black Gram (Urd Beans),Dahod,2016-02-01,9800.0,6.4,27.2,clear
+99,Arhar (Tur/Red Gram),Dahod,2016-04-01,7500.0,48.8,36.6,clear
+100,Arhar (Tur/Red Gram),Devgadhbaria,2016-04-01,8500.0,7.6,36.6,clear
+101,Bengal Gram(Gram),Dahod,2016-04-01,4675.0,23.9,36.6,clear
+102,Black Gram (Urd Beans),Dahod,2016-04-01,10000.0,15.8,36.6,clear
+103,Arhar (Tur/Red Gram),Dahod,2016-05-01,7850.0,71.4,29.2,clear
+104,Arhar (Tur/Red Gram),Devgadhbaria,2016-05-01,8500.0,8.7,29.2,clear
+105,Bengal Gram(Gram),Dahod,2016-05-01,4625.0,9.5,29.2,clear
+106,Arhar (Tur/Red Gram),Dahod,2016-06-01,7800.0,63.5,38.6,clear
+107,Arhar (Tur/Red Gram),Devgadhbaria,2016-06-01,9200.0,9.4,38.6,clear
+108,Bengal Gram(Gram),Dahod,2016-06-01,4625.0,31.3,38.6,clear
+109,Black Gram (Urd Beans),Dahod,2016-06-01,10000.0,12.3,38.6,clear
+110,Arhar (Tur/Red Gram),Dahod,2016-07-01,7400.0,130.0,34.2,clear
+111,Arhar (Tur/Red Gram),Davgadbaria(Piplod),2016-07-01,9000.0,5.4,34.2,clear
+112,Arhar (Tur/Red Gram),Devgadhbaria,2016-07-01,9000.0,8.9,34.2,clear
+113,Bengal Gram(Gram),Dahod,2016-07-01,4600.0,17.9,34.2,clear
+114,Black Gram (Urd Beans),Dahod,2016-07-01,9900.0,14.0,34.2,clear
+115,Arhar (Tur/Red Gram),Dahod,2016-08-01,7450.0,67.1,26.2,clear
+116,Arhar (Tur/Red Gram),Davgadbaria(Piplod),2016-08-01,8250.0,3.0,26.2,clear
+117,Arhar (Tur/Red Gram),Devgadhbaria,2016-08-01,8250.0,9.4,26.2,clear
+118,Bengal Gram(Gram),Dahod,2016-08-01,4475.0,7.3,26.2,clear
+119,Black Gram (Urd Beans),Dahod,2016-08-01,9700.0,4.2,26.2,clear
+120,Arhar (Tur/Red Gram),Dahod,2016-11-01,7900.0,78.7,20.2,clear
+121,Arhar (Tur/Red Gram),Davgadbaria(Piplod),2016-11-01,8900.0,3.8,20.2,clear
+122,Arhar (Tur/Red Gram),Devgadhbaria,2016-11-01,8900.0,9.1,20.2,clear
+123,Bengal Gram(Gram),Dahod,2016-11-01,4470.0,10.6,20.2,clear
+124,Arhar (Tur/Red Gram),Dahod,2016-12-01,7800.0,116.7,17.2,clear
+125,Bengal Gram(Gram),Dahod,2016-12-01,4450.0,12.5,17.2,clear
+126,Black Gram (Urd Beans),Dahod,2016-12-01,9800.0,8.3,17.2,clear
+127,Arhar (Tur/Red Gram),Dahod,2016-01-16,7600.0,43.5,24.2,clear
+128,Bengal Gram(Gram),Dahod,2016-01-16,4435.0,10.6,24.2,clear
+129,Black Gram (Urd Beans),Dahod,2016-01-16,9900.0,3.6,24.2,clear
+130,Arhar (Tur/Red Gram),Dahod,2016-01-18,7500.0,72.4,22.6,clear
+131,Black Gram (Urd Beans),Dahod,2016-01-18,9800.0,7.3,22.6,clear
+132,Arhar (Tur/Red Gram),Dahod,2016-01-19,7300.0,79.8,20.2,clear
+133,Bengal Gram(Gram),Dahod,2016-01-19,4420.0,10.1,20.2,clear
+134,Black Gram (Urd Beans),Dahod,2016-01-19,9900.0,19.9,20.2,clear
+135,Arhar (Tur/Red Gram),Dahod,2016-01-20,7675.0,46.9,20.2,clear
+136,Bengal Gram(Gram),Dahod,2016-01-20,4455.0,4.2,20.2,clear
+137,Black Gram (Urd Beans),Dahod,2016-01-20,9900.0,3.7,20.2,clear
+138,Arhar (Tur/Red Gram),Dahod,2016-01-21,8300.0,70.6,8.0,clear
+139,Bengal Gram(Gram),Dahod,2016-01-21,4402.5,0.0,8.0,clear
+140,Black Gram (Urd Beans),Dahod,2016-01-21,9800.0,3.4,8.0,clear
+141,Arhar (Tur/Red Gram),Dahod,2016-01-22,7100.0,43.9,10.2,clear
+142,Bengal Gram(Gram),Dahod,2016-01-22,4350.0,11.7,10.2,clear
+143,Arhar (Tur/Red Gram),Dahod,2016-01-25,7100.0,63.2,25.2,clear
+144,Bengal Gram(Gram),Dahod,2016-01-25,4260.0,19.5,25.2,clear
+145,Arhar (Tur/Red Gram),Dahod,2016-01-29,7050.0,59.0,29.2,clear
+146,Bengal Gram(Gram),Dahod,2016-01-29,4230.0,18.1,29.2,clear
+147,Black Gram (Urd Beans),Dahod,2016-01-29,9700.0,2.4,29.2,clear
+148,Arhar (Tur/Red Gram),Dahod,2016-01-30,6800.0,32.4,28.2,clear
+149,Bengal Gram(Gram),Dahod,2016-01-30,4150.0,3.1,28.2,clear
+150,Black Gram (Urd Beans),Dahod,2016-01-30,9350.0,5.8,28.2,clear
+151,Arhar (Tur/Red Gram),Dahod,2016-02-02,6150.0,96.2,27.6,clear
+152,Bengal Gram(Gram),Dahod,2016-02-02,4280.0,2.9,27.6,clear
+153,Black Gram (Urd Beans),Dahod,2016-02-02,8800.0,2.4,27.6,clear
+154,Arhar (Tur/Red Gram),Dahod,2016-03-02,6000.0,74.2,33.2,clear
+155,Bengal Gram(Gram),Dahod,2016-03-02,4060.0,1.7,33.2,clear
+156,Black Gram (Urd Beans),Dahod,2016-03-02,8800.0,0.1,33.2,clear
+157,Arhar (Tur/Red Gram),Dahod,2016-04-02,6150.0,47.6,37.4,clear
+158,Bengal Gram(Gram),Dahod,2016-04-02,4075.0,40.8,37.4,clear
+159,Black Gram (Urd Beans),Dahod,2016-04-02,8350.0,1.8,37.4,clear
+160,Arhar (Tur/Red Gram),Dahod,2016-05-02,6150.0,22.4,38.2,clear
+161,Bengal Gram(Gram),Dahod,2016-05-02,4300.0,1.3,38.2,clear
+162,Black Gram (Urd Beans),Dahod,2016-05-02,8350.0,1.5,38.2,clear
+163,Arhar (Tur/Red Gram),Dahod,2016-06-02,6350.0,25.9,39.2,clear
+164,Bengal Gram(Gram),Dahod,2016-06-02,4366.0,7.1,39.2,clear
+165,Black Gram (Urd Beans),Dahod,2016-06-02,8350.0,1.9,39.2,clear
+166,Arhar (Tur/Red Gram),Dahod,2016-08-02,6350.0,28.1,24.2,rain
+167,Bengal Gram(Gram),Dahod,2016-08-02,4425.0,7.7,24.2,rain
+168,Arhar (Tur/Red Gram),Dahod,2016-09-02,6700.0,55.1,26.2,clear
+169,Bengal Gram(Gram),Dahod,2016-09-02,4540.0,16.0,26.2,clear
+170,Black Gram (Urd Beans),Dahod,2016-09-02,8350.0,2.8,26.2,clear
+171,Arhar (Tur/Red Gram),Dahod,2016-10-02,6800.0,32.3,28.2,clear
+172,Bengal Gram(Gram),Dahod,2016-10-02,4525.0,20.7,28.2,clear
+173,Arhar (Tur/Red Gram),Dahod,2016-11-02,6800.0,50.1,27.2,clear
+174,Bengal Gram(Gram),Dahod,2016-11-02,4500.0,10.7,27.2,clear
+175,Black Gram (Urd Beans),Dahod,2016-11-02,8350.0,8.2,27.2,clear
+176,Arhar (Tur/Red Gram),Dahod,2016-12-02,6750.0,49.8,24.2,clear
+177,Bengal Gram(Gram),Dahod,2016-12-02,4530.0,17.9,24.2,clear
+178,Arhar (Tur/Red Gram),Dahod,2016-02-13,6800.0,22.8,25.6,clear
+179,Bengal Gram(Gram),Dahod,2016-02-13,4415.0,28.3,25.6,clear
+180,Black Gram (Urd Beans),Dahod,2016-02-13,8600.0,1.9,25.6,clear
+181,Arhar (Tur/Red Gram),Dahod,2016-02-15,6700.0,38.9,28.2,clear
+182,Bengal Gram(Gram),Dahod,2016-02-15,4485.0,20.4,28.2,clear
+183,Black Gram (Urd Beans),Dahod,2016-02-15,8550.0,0.5,28.2,clear
+184,Arhar (Tur/Red Gram),Dahod,2016-02-16,7225.0,55.3,26.2,clear
+185,Black Gram (Urd Beans),Dahod,2016-02-16,8550.0,0.5,26.2,clear
+186,Arhar (Tur/Red Gram),Dahod,2016-02-22,5950.0,77.7,28.6,clear
+187,Bengal Gram(Gram),Dahod,2016-02-22,4315.0,48.8,28.6,clear
+188,Black Gram (Urd Beans),Dahod,2016-02-22,9000.0,1.2,28.6,clear
+189,Arhar (Tur/Red Gram),Dahod,2016-02-23,6050.0,64.6,29.6,clear
+190,Bengal Gram(Gram),Dahod,2016-02-23,4265.0,46.9,29.6,clear
+191,Black Gram (Urd Beans),Dahod,2016-02-23,9000.0,4.4,29.6,clear
+192,Arhar (Tur/Red Gram),Dahod,2016-02-24,6300.0,13.4,18.2,clear
+193,Bengal Gram(Gram),Dahod,2016-02-24,4185.0,32.3,18.2,clear
+194,Black Gram (Urd Beans),Dahod,2016-02-24,9000.0,1.1,18.2,clear
+195,Arhar (Tur/Red Gram),Dahod,2016-02-27,7000.0,100.4,30.2,clear
+196,Bengal Gram(Gram),Dahod,2016-02-27,4332.5,56.4,30.2,clear
+197,Arhar (Tur/Red Gram),Dahod,2016-02-29,6500.0,60.7,32.2,clear
+198,Bengal Gram(Gram),Dahod,2016-02-29,4315.0,24.9,32.2,clear
+199,Black Gram (Urd Beans),Dahod,2016-02-29,8800.0,2.5,32.2,clear
+200,Arhar (Tur/Red Gram),Dahod,2016-01-03,6400.0,84.8,25.6,clear
+201,Bengal Gram(Gram),Dahod,2016-01-03,4330.0,75.6,25.6,clear
+202,Black Gram (Urd Beans),Dahod,2016-01-03,9000.0,0.5,25.6,clear
+203,Arhar (Tur/Red Gram),Dahod,2016-02-03,6400.0,69.9,24.2,clear
+204,Bengal Gram(Gram),Dahod,2016-02-03,4315.0,59.6,24.2,clear
+205,Black Gram (Urd Beans),Dahod,2016-02-03,9200.0,0.3,24.2,clear
+206,Arhar (Tur/Red Gram),Dahod,2016-03-03,6100.0,49.7,24.6,clear
+207,Bengal Gram(Gram),Dahod,2016-03-03,4280.0,55.1,24.6,clear
+208,Black Gram (Urd Beans),Dahod,2016-03-03,9000.0,1.4,24.6,clear
+209,Arhar (Tur/Red Gram),Dahod,2016-04-03,6400.0,71.0,28.2,clear
+210,Bengal Gram(Gram),Dahod,2016-04-03,4315.0,71.5,28.2,clear
+211,Black Gram (Urd Beans),Dahod,2016-04-03,9000.0,2.3,28.2,clear
+212,Arhar (Tur/Red Gram),Dahod,2016-05-03,6500.0,26.3,39.2,clear
+213,Bengal Gram(Gram),Dahod,2016-05-03,4315.0,59.4,39.2,clear
+214,Black Gram (Urd Beans),Dahod,2016-05-03,8800.0,0.6,39.2,clear
+215,Arhar (Tur/Red Gram),Dahod,2016-09-03,6900.0,71.9,27.2,clear
+216,Bengal Gram(Gram),Dahod,2016-09-03,4400.0,100.4,27.2,clear
+217,Black Gram (Urd Beans),Dahod,2016-09-03,8800.0,3.2,27.2,clear
+218,Arhar (Tur/Red Gram),Dahod,2016-10-03,6500.0,69.2,26.2,clear
+219,Bengal Gram(Gram),Dahod,2016-10-03,4385.0,50.4,26.2,clear
+220,Arhar (Tur/Red Gram),Dahod,2016-11-03,6500.0,81.1,27.2,clear
+221,Bengal Gram(Gram),Dahod,2016-11-03,4485.0,59.5,27.2,clear
+222,Arhar (Tur/Red Gram),Dahod,2016-12-03,6400.0,54.0,24.2,clear
+223,Bengal Gram(Gram),Dahod,2016-12-03,4535.0,66.4,24.2,clear
+224,Black Gram (Urd Beans),Dahod,2016-12-03,9500.0,0.2,24.2,clear
+225,Arhar (Tur/Red Gram),Dahod,2016-03-21,6900.0,54.4,35.2,clear
+226,Bengal Gram(Gram),Dahod,2016-03-21,4442.5,101.4,35.2,clear
+227,Black Gram (Urd Beans),Dahod,2016-03-21,9800.0,1.0,35.2,clear
+228,Arhar (Tur/Red Gram),Dahod,2016-03-22,6600.0,77.0,35.2,clear
+229,Bengal Gram(Gram),Dahod,2016-03-22,4415.0,97.7,35.2,clear
+230,Black Gram (Urd Beans),Dahod,2016-03-22,9600.0,2.5,35.2,clear
+231,Arhar (Tur/Red Gram),Dahod,2016-03-29,6800.0,61.9,35.6,clear
+232,Bengal Gram(Gram),Dahod,2016-03-29,4615.0,70.9,35.6,clear
+233,Black Gram (Urd Beans),Dahod,2016-03-29,9800.0,1.6,35.6,clear
+234,Arhar (Tur/Red Gram),Dahod,2016-03-30,6900.0,76.1,37.2,clear
+235,Bengal Gram(Gram),Dahod,2016-03-30,4635.0,172.4,37.2,clear
+236,Black Gram (Urd Beans),Dahod,2016-03-30,10100.0,2.2,37.2,clear
+237,Arhar (Tur/Red Gram),Dahod,2016-03-31,6900.0,46.6,37.2,clear
+238,Bengal Gram(Gram),Dahod,2016-03-31,4665.0,128.4,37.2,clear
+239,Black Gram (Urd Beans),Dahod,2016-03-31,10000.0,0.1,37.2,clear
+240,Arhar (Tur/Red Gram),Dahod,2016-04-04,7700.0,98.2,35.2,clear
+241,Bengal Gram(Gram),Dahod,2016-04-04,4910.0,151.6,35.2,clear
+242,Black Gram (Urd Beans),Dahod,2016-04-04,11400.0,1.2,35.2,clear
+243,Arhar (Tur/Red Gram),Dahod,2016-05-04,7550.0,91.0,30.2,clear
+244,Bengal Gram(Gram),Dahod,2016-05-04,4890.0,156.3,30.2,clear
+245,Black Gram (Urd Beans),Dahod,2016-05-04,11000.0,1.6,30.2,clear
+246,Arhar (Tur/Red Gram),Dahod,2016-06-04,7600.0,36.9,42.6,clear
+247,Bengal Gram(Gram),Dahod,2016-06-04,4950.0,133.2,42.6,clear
+248,Black Gram (Urd Beans),Dahod,2016-06-04,11200.0,5.9,42.6,clear
+249,Arhar (Tur/Red Gram),Dahod,2016-07-04,7400.0,41.2,27.2,clear
+250,Bengal Gram(Gram),Dahod,2016-07-04,5020.0,107.7,27.2,clear
+251,Black Gram (Urd Beans),Dahod,2016-07-04,10700.0,5.7,27.2,clear
+252,Arhar (Tur/Red Gram),Dahod,2016-09-04,7400.0,158.3,27.2,clear
+253,Bengal Gram(Gram),Dahod,2016-09-04,5020.0,179.5,27.2,clear
+254,Black Gram (Urd Beans),Dahod,2016-09-04,11300.0,28.5,27.2,clear
+255,Arhar (Tur/Red Gram),Dahod,2016-11-04,7600.0,91.6,27.2,clear
+256,Bengal Gram(Gram),Dahod,2016-11-04,5020.0,157.9,27.2,clear
+257,Black Gram (Urd Beans),Dahod,2016-11-04,11400.0,5.8,27.2,clear
+258,Arhar (Tur/Red Gram),Dahod,2016-12-04,8175.0,69.1,24.6,clear
+259,Bengal Gram(Gram),Dahod,2016-12-04,5022.5,98.8,24.6,clear
+260,Black Gram (Urd Beans),Dahod,2016-12-04,11800.0,0.5,24.6,clear
+261,Arhar (Tur/Red Gram),Dahod,2016-04-13,8075.0,28.5,38.2,clear
+262,Black Gram (Urd Beans),Dahod,2016-04-13,12000.0,0.1,38.2,clear
+263,Arhar (Tur/Red Gram),Dahod,2016-04-18,8325.0,39.0,37.2,clear
+264,Black Gram (Urd Beans),Dahod,2016-04-18,12500.0,20.6,37.2,clear
+265,Arhar (Tur/Red Gram),Dahod,2016-04-19,8075.0,82.5,38.2,clear
+266,Bengal Gram(Gram),Dahod,2016-04-19,5710.0,175.2,38.2,clear
+267,Black Gram (Urd Beans),Dahod,2016-04-19,12000.0,5.2,38.2,clear
+268,Arhar (Tur/Red Gram),Dahod,2016-04-21,7950.0,61.0,38.2,clear
+269,Bengal Gram(Gram),Dahod,2016-04-21,5512.5,156.5,38.2,clear
+270,Black Gram (Urd Beans),Dahod,2016-04-21,11000.0,16.5,38.2,clear
+271,Arhar (Tur/Red Gram),Dahod,2016-04-22,8050.0,49.2,35.2,clear
+272,Bengal Gram(Gram),Dahod,2016-04-22,5420.0,136.8,35.2,clear
+273,Black Gram (Urd Beans),Dahod,2016-04-22,11000.0,2.8,35.2,clear
+274,Arhar (Tur/Red Gram),Dahod,2016-04-23,8000.0,21.3,36.2,clear
+275,Bengal Gram(Gram),Dahod,2016-04-23,5620.0,100.4,36.2,clear
+276,Black Gram (Urd Beans),Dahod,2016-04-23,11000.0,1.2,36.2,clear
+277,Arhar (Tur/Red Gram),Dahod,2016-04-25,8000.0,50.9,34.2,clear
+278,Bengal Gram(Gram),Dahod,2016-04-25,5520.0,44.8,34.2,clear
+279,Black Gram (Urd Beans),Dahod,2016-04-25,12000.0,10.0,34.2,clear
+280,Green Gram (Moong),Dahod,2016-04-25,6400.0,0.1,34.2,clear
+281,Arhar (Tur/Red Gram),Dahod,2016-04-26,8000.0,75.7,34.2,clear
+282,Bengal Gram(Gram),Dahod,2016-04-26,5520.0,128.7,34.2,clear
+283,Black Gram (Urd Beans),Dahod,2016-04-26,11700.0,5.8,34.2,clear
+284,Green Gram (Moong),Dahod,2016-04-26,7000.0,0.8,34.2,clear
+285,Arhar (Tur/Red Gram),Dahod,2016-04-27,7600.0,76.4,30.2,clear
+286,Bengal Gram(Gram),Dahod,2016-04-27,5490.0,90.6,30.2,clear
+287,Black Gram (Urd Beans),Dahod,2016-04-27,11700.0,4.3,30.2,clear
+288,Green Gram (Moong),Dahod,2016-04-27,6700.0,0.5,30.2,clear
+289,Arhar (Tur/Red Gram),Dahod,2016-04-28,7600.0,59.8,39.2,clear
+290,Bengal Gram(Gram),Dahod,2016-04-28,5510.0,69.0,39.2,clear
+291,Black Gram (Urd Beans),Dahod,2016-04-28,11900.0,0.4,39.2,clear
+292,Arhar (Tur/Red Gram),Dahod,2016-04-29,7700.0,42.2,40.2,clear
+293,Bengal Gram(Gram),Dahod,2016-04-29,5520.0,78.2,40.2,clear
+294,Black Gram (Urd Beans),Dahod,2016-04-29,11000.0,6.1,40.2,clear
+295,Arhar (Tur/Red Gram),Dahod,2016-02-05,8700.0,42.0,27.2,clear
+296,Arhar (Tur/Red Gram),Jhalod,2016-02-05,7250.0,0.0,27.2,clear
+297,Bengal Gram(Gram),Dahod,2016-02-05,5580.0,96.3,27.2,clear
+298,Black Gram (Urd Beans),Dahod,2016-02-05,11300.0,1.9,27.2,clear
+299,Green Gram (Moong),Dahod,2016-02-05,6900.0,1.0,27.2,clear
+300,Arhar (Tur/Red Gram),Dahod,2016-03-05,8200.0,42.4,32.6,clear
+301,Bengal Gram(Gram),Dahod,2016-03-05,5590.0,157.0,32.6,clear
+302,Black Gram (Urd Beans),Dahod,2016-03-05,11700.0,6.4,32.6,clear
+303,Green Gram (Moong),Dahod,2016-03-05,6800.0,0.6,32.6,clear
+304,Arhar (Tur/Red Gram),Dahod,2016-05-05,8150.0,82.1,38.2,clear
+305,Bengal Gram(Gram),Dahod,2016-05-05,5566.0,83.3,38.2,clear
+306,Bengal Gram(Gram),Jhalod,2016-05-05,3200.0,3.0,38.2,clear
+307,Black Gram (Urd Beans),Dahod,2016-05-05,11500.0,5.7,38.2,clear
+308,Green Gram (Moong),Dahod,2016-05-05,6700.0,5.6,38.2,clear
+309,Arhar (Tur/Red Gram),Dahod,2016-06-05,8100.0,52.5,44.2,clear
+310,Arhar (Tur/Red Gram),Jhalod,2016-06-05,7300.0,0.0,44.2,clear
+311,Bengal Gram(Gram),Dahod,2016-06-05,5590.0,44.4,44.2,clear
+312,Black Gram (Urd Beans),Dahod,2016-06-05,11700.0,2.0,44.2,clear
+313,Green Gram (Moong),Dahod,2016-06-05,6600.0,8.9,44.2,clear
+314,Arhar (Tur/Red Gram),Dahod,2016-07-05,8275.0,61.4,30.2,clear
+315,Bengal Gram(Gram),Dahod,2016-07-05,5667.5,63.9,30.2,clear
+316,Black Gram (Urd Beans),Dahod,2016-07-05,11500.0,1.7,30.2,clear
+317,Green Gram (Moong),Dahod,2016-07-05,6600.0,0.6,30.2,clear
+318,Arhar (Tur/Red Gram),Dahod,2016-09-05,8250.0,35.3,28.2,clear
+319,Bengal Gram(Gram),Dahod,2016-09-05,5645.0,64.2,28.2,clear
+320,Bengal Gram(Gram),Jhalod,2016-09-05,3150.0,7.0,28.2,clear
+321,Black Gram (Urd Beans),Dahod,2016-09-05,11500.0,5.5,28.2,clear
+322,Green Gram (Moong),Dahod,2016-09-05,6800.0,4.0,28.2,clear
+323,Arhar (Tur/Red Gram),Dahod,2016-10-05,8050.0,102.9,29.2,rain
+324,Arhar (Tur/Red Gram),Jhalod,2016-10-05,7450.0,0.0,29.2,rain
+325,Bengal Gram(Gram),Dahod,2016-10-05,5665.0,91.9,29.2,rain
+326,Bengal Gram(Gram),Jhalod,2016-10-05,3075.0,3.0,29.2,rain
+327,Black Gram (Urd Beans),Dahod,2016-10-05,11600.0,0.4,29.2,rain
+328,Green Gram (Moong),Dahod,2016-10-05,6600.0,12.6,29.2,rain
+329,Arhar (Tur/Red Gram),Dahod,2016-11-05,8150.0,70.7,27.2,clear
+330,Arhar (Tur/Red Gram),Jhalod,2016-11-05,8150.0,0.0,27.2,clear
+331,Bengal Gram(Gram),Dahod,2016-11-05,5787.5,47.7,27.2,clear
+332,Bengal Gram(Gram),Jhalod,2016-11-05,4100.0,2.0,27.2,clear
+333,Black Gram (Urd Beans),Dahod,2016-11-05,11500.0,0.6,27.2,clear
+334,Green Gram (Moong),Dahod,2016-11-05,6800.0,10.9,27.2,clear
+335,Arhar (Tur/Red Gram),Dahod,2016-05-13,8125.0,29.8,31.2,clear
+336,Bengal Gram(Gram),Dahod,2016-05-13,5767.5,174.1,31.2,clear
+337,Black Gram (Urd Beans),Dahod,2016-05-13,11500.0,3.3,31.2,clear
+338,Green Gram (Moong),Dahod,2016-05-13,6700.0,22.7,31.2,clear
+339,Arhar (Tur/Red Gram),Dahod,2016-05-14,8275.0,54.7,40.6,clear
+340,Bengal Gram(Gram),Dahod,2016-05-14,5802.5,67.9,40.6,clear
+341,Bengal Gram(Gram),Jhalod,2016-05-14,5100.0,5.0,40.6,clear
+342,Black Gram (Urd Beans),Dahod,2016-05-14,11500.0,0.7,40.6,clear
+343,Green Gram (Moong),Dahod,2016-05-14,6650.0,1.7,40.6,clear
+344,Arhar (Tur/Red Gram),Dahod,2016-05-16,8050.0,29.4,41.2,clear
+345,Arhar (Tur/Red Gram),Jhalod,2016-05-16,7250.0,8.0,41.2,clear
+346,Bengal Gram(Gram),Dahod,2016-05-16,5955.0,62.5,41.2,clear
+347,Bengal Gram(Gram),Jhalod,2016-05-16,5100.0,7.0,41.2,clear
+348,Black Gram (Urd Beans),Dahod,2016-05-16,11500.0,4.4,41.2,clear
+349,Green Gram (Moong),Dahod,2016-05-16,6300.0,10.0,41.2,clear
+350,Arhar (Tur/Red Gram),Dahod,2016-05-17,8300.0,32.2,42.2,clear
+351,Bengal Gram(Gram),Dahod,2016-05-17,5970.0,63.8,42.2,clear
+352,Bengal Gram(Gram),Jhalod,2016-05-17,5050.0,3.0,42.2,clear
+353,Green Gram (Moong),Dahod,2016-05-17,6350.0,16.0,42.2,clear
+354,Arhar (Tur/Red Gram),Dahod,2016-05-18,8150.0,34.3,43.2,clear
+355,Arhar (Tur/Red Gram),Jhalod,2016-05-18,7200.0,3.0,43.2,clear
+356,Bengal Gram(Gram),Dahod,2016-05-18,6073.0,51.7,43.2,clear
+357,Bengal Gram(Gram),Jhalod,2016-05-18,5100.0,9.0,43.2,clear
+358,Black Gram (Urd Beans),Dahod,2016-05-18,11500.0,0.4,43.2,clear
+359,Green Gram (Moong),Dahod,2016-05-18,6300.0,10.4,43.2,clear
+360,Arhar (Tur/Red Gram),Dahod,2016-05-19,8200.0,21.4,43.6,clear
+361,Arhar (Tur/Red Gram),Jhalod,2016-05-19,7100.0,1.0,43.6,clear
+362,Bengal Gram(Gram),Dahod,2016-05-19,5995.0,118.8,43.6,clear
+363,Bengal Gram(Gram),Jhalod,2016-05-19,5000.0,9.0,43.6,clear
+364,Black Gram (Urd Beans),Dahod,2016-05-19,11300.0,1.3,43.6,clear
+365,Green Gram (Moong),Dahod,2016-05-19,6300.0,17.9,43.6,clear
+366,Arhar (Tur/Red Gram),Dahod,2016-05-20,8125.0,37.1,43.2,clear
+367,Bengal Gram(Gram),Dahod,2016-05-20,5973.0,62.1,43.2,clear
+368,Bengal Gram(Gram),Jhalod,2016-05-20,5050.0,1.0,43.2,clear
+369,Black Gram (Urd Beans),Dahod,2016-05-20,11500.0,3.5,43.2,clear
+370,Green Gram (Moong),Dahod,2016-05-20,6300.0,2.5,43.2,clear
+371,Arhar (Tur/Red Gram),Dahod,2016-05-21,8175.0,19.4,30.2,clear
+372,Bengal Gram(Gram),Dahod,2016-05-21,5970.0,37.7,30.2,clear
+373,Black Gram (Urd Beans),Dahod,2016-05-21,11000.0,2.7,30.2,clear
+374,Green Gram (Moong),Dahod,2016-05-21,6450.0,15.1,30.2,clear
+375,Arhar (Tur/Red Gram),Dahod,2016-05-23,8150.0,27.7,28.2,clear
+376,Bengal Gram(Gram),Dahod,2016-05-23,5947.5,61.3,28.2,clear
+377,Black Gram (Urd Beans),Dahod,2016-05-23,11400.0,5.0,28.2,clear
+378,Green Gram (Moong),Dahod,2016-05-23,6300.0,11.6,28.2,clear
+379,Arhar (Tur/Red Gram),Dahod,2016-05-25,8175.0,23.5,36.2,clear
+380,Bengal Gram(Gram),Dahod,2016-05-25,6125.0,21.6,36.2,clear
+381,Black Gram (Urd Beans),Dahod,2016-05-25,11200.0,2.3,36.2,clear
+382,Green Gram (Moong),Dahod,2016-05-25,5800.0,31.4,36.2,clear
+383,Arhar (Tur/Red Gram),Dahod,2016-05-26,8025.0,55.3,37.2,clear
+384,Bengal Gram(Gram),Dahod,2016-05-26,6062.5,60.9,37.2,clear
+385,Black Gram (Urd Beans),Dahod,2016-05-26,11300.0,7.0,37.2,clear
+386,Green Gram (Moong),Dahod,2016-05-26,5700.0,19.2,37.2,clear
+387,Arhar (Tur/Red Gram),Dahod,2016-05-27,8100.0,11.4,38.0,clear
+388,Bengal Gram(Gram),Dahod,2016-05-27,6100.0,76.0,38.0,clear
+389,Black Gram (Urd Beans),Dahod,2016-05-27,11200.0,0.2,38.0,clear
+390,Green Gram (Moong),Dahod,2016-05-27,6100.0,6.5,38.0,clear
+391,Arhar (Tur/Red Gram),Dahod,2016-05-28,7975.0,73.5,37.2,clear
+392,Bengal Gram(Gram),Dahod,2016-05-28,6037.5,79.4,37.2,clear
+393,Black Gram (Urd Beans),Dahod,2016-05-28,11400.0,13.1,37.2,clear
+394,Green Gram (Moong),Dahod,2016-05-28,5950.0,14.1,37.2,clear
+395,Arhar (Tur/Red Gram),Dahod,2016-05-30,7975.0,35.4,37.6,clear
+396,Bengal Gram(Gram),Dahod,2016-05-30,6002.5,67.8,37.6,clear
+397,Black Gram (Urd Beans),Dahod,2016-05-30,11000.0,0.2,37.6,clear
+398,Green Gram (Moong),Dahod,2016-05-30,6100.0,36.0,37.6,clear
+399,Arhar (Tur/Red Gram),Dahod,2016-05-31,7925.0,45.3,38.2,clear
+400,Bengal Gram(Gram),Dahod,2016-05-31,5923.0,97.8,38.2,clear
+401,Black Gram (Urd Beans),Dahod,2016-05-31,10500.0,10.7,38.2,clear
+402,Green Gram (Moong),Dahod,2016-05-31,5600.0,92.4,38.2,clear
+403,Arhar (Tur/Red Gram),Dahod,2016-01-06,7975.0,40.0,15.2,clear
+404,Bengal Gram(Gram),Dahod,2016-01-06,5930.0,58.7,15.2,clear
+405,Black Gram (Urd Beans),Dahod,2016-01-06,10500.0,3.0,15.2,clear
+406,Green Gram (Moong),Dahod,2016-01-06,5600.0,17.8,15.2,clear
+407,Arhar (Tur/Red Gram),Dahod,2016-03-06,7850.0,21.3,33.2,clear
+408,Bengal Gram(Gram),Dahod,2016-03-06,5965.0,29.5,33.2,clear
+409,Black Gram (Urd Beans),Dahod,2016-03-06,10500.0,0.5,33.2,clear
+410,Green Gram (Moong),Dahod,2016-03-06,5600.0,19.1,33.2,clear
+411,Arhar (Tur/Red Gram),Dahod,2016-04-06,8025.0,39.6,35.2,clear
+412,Bengal Gram(Gram),Dahod,2016-04-06,6222.5,39.4,35.2,clear
+413,Black Gram (Urd Beans),Dahod,2016-04-06,10500.0,0.3,35.2,clear
+414,Green Gram (Moong),Dahod,2016-04-06,6100.0,13.1,35.2,clear
+415,Arhar (Tur/Red Gram),Dahod,2016-06-06,7875.0,16.0,43.2,clear
+416,Bengal Gram(Gram),Dahod,2016-06-06,6162.5,41.0,43.2,clear
+417,Black Gram (Urd Beans),Dahod,2016-06-06,10500.0,2.4,43.2,clear
+418,Green Gram (Moong),Dahod,2016-06-06,6100.0,26.1,43.2,clear
+419,Arhar (Tur/Red Gram),Dahod,2016-07-06,7825.0,46.7,30.2,clear
+420,Bengal Gram(Gram),Dahod,2016-07-06,6302.5,133.3,30.2,clear
+421,Black Gram (Urd Beans),Dahod,2016-07-06,10500.0,5.4,30.2,clear
+422,Green Gram (Moong),Dahod,2016-07-06,6100.0,63.1,30.2,clear
+423,Arhar (Tur/Red Gram),Dahod,2016-08-06,7875.0,3.1,26.2,clear
+424,Arhar (Tur/Red Gram),Jhalod,2016-08-06,7200.0,0.9,26.2,clear
+425,Bengal Gram(Gram),Dahod,2016-08-06,6305.0,41.8,26.2,clear
+426,Bengal Gram(Gram),Jhalod,2016-08-06,5375.0,1.6,26.2,clear
+427,Black Gram (Urd Beans),Dahod,2016-08-06,10500.0,12.1,26.2,clear
+428,Green Gram (Moong),Dahod,2016-08-06,6100.0,40.5,26.2,clear
+429,Arhar (Tur/Red Gram),Dahod,2016-09-06,7750.0,27.1,28.2,clear
+430,Bengal Gram(Gram),Dahod,2016-09-06,6317.5,29.9,28.2,clear
+431,Black Gram (Urd Beans),Dahod,2016-09-06,10000.0,3.0,28.2,clear
+432,Green Gram (Moong),Dahod,2016-09-06,6150.0,34.1,28.2,clear
+433,Arhar (Tur/Red Gram),Dahod,2016-10-06,8100.0,8.3,28.2,clear
+434,Bengal Gram(Gram),Dahod,2016-10-06,6630.0,33.9,28.2,clear
+435,Black Gram (Urd Beans),Dahod,2016-10-06,10500.0,1.4,28.2,clear
+436,Green Gram (Moong),Dahod,2016-10-06,6300.0,26.7,28.2,clear
+437,Arhar (Tur/Red Gram),Dahod,2016-11-06,7975.0,25.3,27.2,clear
+438,Bengal Gram(Gram),Dahod,2016-11-06,6705.0,23.2,27.2,clear
+439,Black Gram (Urd Beans),Dahod,2016-11-06,10500.0,0.1,27.2,clear
+440,Green Gram (Moong),Dahod,2016-11-06,6350.0,35.4,27.2,clear
+441,Arhar (Tur/Red Gram),Dahod,2016-06-13,8050.0,18.4,36.6,clear
+442,Bengal Gram(Gram),Dahod,2016-06-13,6722.5,73.5,36.6,clear
+443,Black Gram (Urd Beans),Dahod,2016-06-13,10500.0,1.5,36.6,clear
+444,Green Gram (Moong),Dahod,2016-06-13,6300.0,48.7,36.6,clear
+445,Arhar (Tur/Red Gram),Dahod,2016-06-14,8050.0,36.3,35.2,clear
+446,Bengal Gram(Gram),Dahod,2016-06-14,6917.5,63.1,35.2,clear
+447,Black Gram (Urd Beans),Dahod,2016-06-14,10500.0,4.1,35.2,clear
+448,Green Gram (Moong),Dahod,2016-06-14,6250.0,72.8,35.2,clear
+449,Arhar (Tur/Red Gram),Dahod,2016-06-15,8075.0,45.5,36.2,clear
+450,Bengal Gram(Gram),Dahod,2016-06-15,6782.5,44.9,36.2,clear
+451,Black Gram (Urd Beans),Dahod,2016-06-15,11000.0,0.2,36.2,clear
+452,Green Gram (Moong),Dahod,2016-06-15,6150.0,40.6,36.2,clear
+453,Arhar (Tur/Red Gram),Dahod,2016-06-16,8175.0,12.0,35.2,clear
+454,Bengal Gram(Gram),Dahod,2016-06-16,6862.5,69.2,35.2,clear
+455,Black Gram (Urd Beans),Dahod,2016-06-16,10500.0,1.5,35.2,clear
+456,Green Gram (Moong),Dahod,2016-06-16,6100.0,54.8,35.2,clear
+457,Arhar (Tur/Red Gram),Dahod,2016-06-17,8175.0,35.5,37.2,clear
+458,Bengal Gram(Gram),Dahod,2016-06-17,6677.5,60.9,37.2,clear
+459,Black Gram (Urd Beans),Dahod,2016-06-17,10000.0,1.4,37.2,clear
+460,Green Gram (Moong),Dahod,2016-06-17,5750.0,41.0,37.2,clear
+461,Arhar (Tur/Red Gram),Dahod,2016-06-18,8150.0,20.6,37.6,clear
+462,Bengal Gram(Gram),Dahod,2016-06-18,6687.5,39.0,37.6,clear
+463,Black Gram (Urd Beans),Dahod,2016-06-18,10500.0,0.3,37.6,clear
+464,Green Gram (Moong),Dahod,2016-06-18,5800.0,21.0,37.6,clear
+465,Arhar (Tur/Red Gram),Dahod,2016-06-21,8000.0,35.3,34.2,clear
+466,Bengal Gram(Gram),Dahod,2016-06-21,6667.5,71.1,34.2,clear
+467,Black Gram (Urd Beans),Dahod,2016-06-21,10000.0,2.0,34.2,clear
+468,Green Gram (Moong),Dahod,2016-06-21,5800.0,11.1,34.2,clear
+469,Arhar (Tur/Red Gram),Dahod,2016-06-22,7850.0,0.2,28.2,clear
+470,Bengal Gram(Gram),Dahod,2016-06-22,6652.5,5.7,28.2,clear
+471,Black Gram (Urd Beans),Dahod,2016-06-22,10500.0,2.3,28.2,clear
+472,Green Gram (Moong),Dahod,2016-06-22,5900.0,16.0,28.2,clear
+473,Arhar (Tur/Red Gram),Dahod,2016-06-24,8200.0,50.0,28.2,clear
+474,Bengal Gram(Gram),Dahod,2016-06-24,6772.5,7.7,28.2,clear
+475,Black Gram (Urd Beans),Dahod,2016-06-24,10800.0,1.6,28.2,clear
+476,Green Gram (Moong),Dahod,2016-06-24,5825.0,29.9,28.2,clear
+477,Arhar (Tur/Red Gram),Dahod,2016-06-25,8050.0,13.4,33.2,clear
+478,Bengal Gram(Gram),Dahod,2016-06-25,6787.5,35.3,33.2,clear
+479,Black Gram (Urd Beans),Dahod,2016-06-25,10500.0,0.3,33.2,clear
+480,Green Gram (Moong),Dahod,2016-06-25,5850.0,27.7,33.2,clear
+481,Arhar (Tur/Red Gram),Dahod,2016-06-27,8350.0,16.1,30.2,clear
+482,Bengal Gram(Gram),Dahod,2016-06-27,7267.5,36.6,30.2,clear
+483,Black Gram (Urd Beans),Dahod,2016-06-27,10000.0,1.8,30.2,clear
+484,Green Gram (Moong),Dahod,2016-06-27,6000.0,19.2,30.2,clear
+485,Arhar (Tur/Red Gram),Dahod,2016-06-28,8125.0,11.3,28.2,clear
+486,Bengal Gram(Gram),Dahod,2016-06-28,7375.0,15.8,28.2,clear
+487,Black Gram (Urd Beans),Dahod,2016-06-28,10500.0,0.4,28.2,clear
+488,Green Gram (Moong),Dahod,2016-06-28,6050.0,9.5,28.2,clear
+489,Arhar (Tur/Red Gram),Dahod,2016-06-29,8100.0,16.6,33.2,clear
+490,Bengal Gram(Gram),Dahod,2016-06-29,7487.5,14.6,33.2,clear
+491,Black Gram (Urd Beans),Dahod,2016-06-29,10600.0,2.5,33.2,clear
+492,Green Gram (Moong),Dahod,2016-06-29,5975.0,7.3,33.2,clear
+493,Arhar (Tur/Red Gram),Dahod,2016-06-30,8100.0,11.6,33.6,clear
+494,Bengal Gram(Gram),Dahod,2016-06-30,7602.5,31.8,33.6,clear
+495,Bengal Gram(Gram),Jhalod,2016-06-30,7150.0,1.5,33.6,clear
+496,Black Gram (Urd Beans),Dahod,2016-06-30,10000.0,1.4,33.6,clear
+497,Green Gram (Moong),Dahod,2016-06-30,5825.0,7.2,33.6,clear
+498,Arhar (Tur/Red Gram),Dahod,2016-01-07,8250.0,24.9,25.6,clear
+499,Arhar (Tur/Red Gram),Jhalod,2016-01-07,6500.0,0.0,25.6,clear
+500,Arhar (Tur/Red Gram),Zalod(Zalod),2016-01-07,6500.0,1.0,25.6,clear
+501,Bengal Gram(Gram),Dahod,2016-01-07,7662.5,63.3,25.6,clear
+502,Bengal Gram(Gram),Jhalod,2016-01-07,5750.0,2.7,25.6,clear
+503,Bengal Gram(Gram),Zalod(Sanjeli),2016-01-07,7150.0,15.0,25.6,clear
+504,Bengal Gram(Gram),Zalod(Zalod),2016-01-07,5750.0,36.0,25.6,clear
+505,Black Gram (Urd Beans),Dahod,2016-01-07,10000.0,3.2,25.6,clear
+506,Green Gram (Moong),Dahod,2016-01-07,5700.0,27.1,25.6,clear
+507,Green Gram (Moong),Zalod(Zalod),2016-01-07,5600.0,4.0,25.6,clear
+508,Arhar (Tur/Red Gram),Dahod,2016-02-07,8050.0,24.3,25.6,clear
+509,Arhar (Tur/Red Gram),Jhalod,2016-02-07,6500.0,0.0,25.6,clear
+510,Arhar (Tur/Red Gram),Zalod(Zalod),2016-02-07,6500.0,0.0,25.6,clear
+511,Bengal Gram(Gram),Dahod,2016-02-07,7587.5,44.5,25.6,clear
+512,Bengal Gram(Gram),Jhalod,2016-02-07,5750.0,0.1,25.6,clear
+513,Bengal Gram(Gram),Zalod(Sanjeli),2016-02-07,5750.0,2.0,25.6,clear
+514,Bengal Gram(Gram),Zalod(Zalod),2016-02-07,5750.0,12.0,25.6,clear
+515,Black Gram (Urd Beans),Dahod,2016-02-07,10500.0,5.9,25.6,clear
+516,Green Gram (Moong),Dahod,2016-02-07,5500.0,13.0,25.6,clear
+517,Arhar (Tur/Red Gram),Dahod,2016-04-07,8050.0,12.7,34.6,clear
+518,Arhar (Tur/Red Gram),Jhalod,2016-04-07,6500.0,0.4,34.6,clear
+519,Arhar (Tur/Red Gram),Zalod(Sanjeli),2016-04-07,6500.0,7.0,34.6,clear
+520,Arhar (Tur/Red Gram),Zalod(Zalod),2016-04-07,6500.0,0.0,34.6,clear
+521,Bengal Gram(Gram),Dahod,2016-04-07,7625.0,44.9,34.6,clear
+522,Bengal Gram(Gram),Jhalod,2016-04-07,5750.0,1.6,34.6,clear
+523,Bengal Gram(Gram),Zalod(Sanjeli),2016-04-07,5750.0,2.0,34.6,clear
+524,Bengal Gram(Gram),Zalod(Zalod),2016-04-07,5500.0,17.0,34.6,clear
+525,Black Gram (Urd Beans),Dahod,2016-04-07,10000.0,3.6,34.6,clear
+526,Green Gram (Moong),Dahod,2016-04-07,5500.0,9.1,34.6,clear
+527,Green Gram (Moong),Zalod(Sanjeli),2016-04-07,5550.0,1.0,34.6,clear
+528,Green Gram (Moong),Zalod(Zalod),2016-04-07,5600.0,9.0,34.6,clear
+529,Arhar (Tur/Red Gram),Dahod,2016-07-07,8150.0,9.5,29.2,clear
+530,Bengal Gram(Gram),Dahod,2016-07-07,7720.0,89.4,29.2,clear
+531,Bengal Gram(Gram),Zalod(Sanjeli),2016-07-07,7350.0,0.0,29.2,clear
+532,Black Gram (Urd Beans),Dahod,2016-07-07,10000.0,6.6,29.2,clear
+533,Green Gram (Moong),Dahod,2016-07-07,5500.0,3.7,29.2,clear
+534,Arhar (Tur/Red Gram),Dahod,2016-08-07,8100.0,6.6,25.2,clear
+535,Bengal Gram(Gram),Dahod,2016-08-07,7925.0,30.2,25.2,clear
+536,Bengal Gram(Gram),Zalod(Sanjeli),2016-08-07,7150.0,0.0,25.2,clear
+537,Black Gram (Urd Beans),Dahod,2016-08-07,10500.0,3.7,25.2,clear
+538,Green Gram (Moong),Dahod,2016-08-07,5500.0,10.5,25.2,clear
+539,Arhar (Tur/Red Gram),Dahod,2016-09-07,8150.0,12.3,23.6,clear
+540,Bengal Gram(Gram),Dahod,2016-09-07,8250.0,32.8,23.6,clear
+541,Black Gram (Urd Beans),Dahod,2016-09-07,10000.0,4.7,23.6,clear
+542,Green Gram (Moong),Dahod,2016-09-07,5500.0,7.1,23.6,clear
+543,Arhar (Tur/Red Gram),Dahod,2016-11-07,8125.0,7.9,27.2,clear
+544,Bengal Gram(Gram),Dahod,2016-11-07,8550.0,30.3,27.2,clear
+545,Black Gram (Urd Beans),Dahod,2016-11-07,10000.0,11.4,27.2,clear
+546,Green Gram (Moong),Dahod,2016-11-07,6000.0,7.5,27.2,clear
+547,Arhar (Tur/Red Gram),Dahod,2016-07-13,8250.0,15.8,25.2,clear
+548,Bengal Gram(Gram),Dahod,2016-07-13,8555.0,30.9,25.2,clear
+549,Black Gram (Urd Beans),Dahod,2016-07-13,9800.0,3.4,25.2,clear
+550,Green Gram (Moong),Dahod,2016-07-13,5700.0,10.4,25.2,clear
+551,Arhar (Tur/Red Gram),Dahod,2016-07-14,8200.0,6.1,29.2,clear
+552,Bengal Gram(Gram),Dahod,2016-07-14,8582.5,62.0,29.2,clear
+553,Black Gram (Urd Beans),Dahod,2016-07-14,10000.0,5.4,29.2,clear
+554,Green Gram (Moong),Dahod,2016-07-14,5500.0,6.2,29.2,clear
+555,Arhar (Tur/Red Gram),Dahod,2016-07-15,8100.0,16.0,25.2,clear
+556,Bengal Gram(Gram),Dahod,2016-07-15,8480.0,26.5,25.2,clear
+557,Black Gram (Urd Beans),Dahod,2016-07-15,10000.0,4.6,25.2,clear
+558,Green Gram (Moong),Dahod,2016-07-15,5500.0,15.1,25.2,clear
+559,Arhar (Tur/Red Gram),Dahod,2016-07-16,8000.0,7.8,25.2,clear
+560,Bengal Gram(Gram),Dahod,2016-07-16,8375.0,19.7,25.2,clear
+561,Black Gram (Urd Beans),Dahod,2016-07-16,10000.0,4.8,25.2,clear
+562,Green Gram (Moong),Dahod,2016-07-16,5500.0,11.6,25.2,clear
+563,Arhar (Tur/Red Gram),Dahod,2016-07-18,7800.0,44.7,28.2,clear
+564,Bengal Gram(Gram),Dahod,2016-07-18,8252.5,42.6,28.2,clear
+565,Black Gram (Urd Beans),Dahod,2016-07-18,9700.0,13.0,28.2,clear
+566,Green Gram (Moong),Dahod,2016-07-18,5500.0,20.0,28.2,clear
+567,Arhar (Tur/Red Gram),Dahod,2016-07-19,7750.0,16.8,28.2,clear
+568,Arhar (Tur/Red Gram),Davgadbaria(Piplod),2016-07-19,2050.0,6.5,28.2,clear
+569,Bengal Gram(Gram),Dahod,2016-07-19,8662.5,36.4,28.2,clear
+570,Bengal Gram(Gram),Zalod(Zalod),2016-07-19,3750.0,12.0,28.2,clear
+571,Black Gram (Urd Beans),Dahod,2016-07-19,9800.0,16.3,28.2,clear
+572,Green Gram (Moong),Dahod,2016-07-19,5500.0,7.1,28.2,clear
+573,Arhar (Tur/Red Gram),Dahod,2016-07-21,7600.0,1.6,31.4,clear
+574,Bengal Gram(Gram),Dahod,2016-07-21,8425.0,14.2,31.4,clear
+575,Black Gram (Urd Beans),Dahod,2016-07-21,9500.0,1.4,31.4,clear
+576,Green Gram (Moong),Dahod,2016-07-21,5500.0,1.0,31.4,clear
+577,Arhar (Tur/Red Gram),Dahod,2016-07-22,7350.0,6.4,26.2,clear
+578,Bengal Gram(Gram),Dahod,2016-07-22,8295.0,16.6,26.2,clear
+579,Black Gram (Urd Beans),Dahod,2016-07-22,9500.0,0.3,26.2,clear
+580,Green Gram (Moong),Dahod,2016-07-22,5400.0,13.2,26.2,clear
+581,Arhar (Tur/Red Gram),Dahod,2016-07-23,7400.0,4.7,30.2,clear
+582,Bengal Gram(Gram),Dahod,2016-07-23,8367.5,59.4,30.2,clear
+583,Black Gram (Urd Beans),Dahod,2016-07-23,9400.0,3.4,30.2,clear
+584,Green Gram (Moong),Dahod,2016-07-23,5400.0,2.2,30.2,clear
+585,Arhar (Tur/Red Gram),Dahod,2016-07-25,7450.0,9.6,30.2,clear
+586,Bengal Gram(Gram),Dahod,2016-07-25,8242.5,36.3,30.2,clear
+587,Black Gram (Urd Beans),Dahod,2016-07-25,9400.0,0.5,30.2,clear
+588,Green Gram (Moong),Dahod,2016-07-25,5500.0,15.5,30.2,clear
+589,Arhar (Tur/Red Gram),Dahod,2016-07-26,7300.0,10.1,30.2,clear
+590,Bengal Gram(Gram),Dahod,2016-07-26,8250.0,54.1,30.2,clear
+591,Black Gram (Urd Beans),Dahod,2016-07-26,9350.0,1.4,30.2,clear
+592,Green Gram (Moong),Dahod,2016-07-26,5400.0,17.6,30.2,clear
+593,Arhar (Tur/Red Gram),Dahod,2016-07-27,7300.0,10.4,28.2,clear
+594,Bengal Gram(Gram),Dahod,2016-07-27,8100.0,23.2,28.2,clear
+595,Black Gram (Urd Beans),Dahod,2016-07-27,9350.0,1.4,28.2,clear
+596,Green Gram (Moong),Dahod,2016-07-27,5500.0,9.5,28.2,clear
+597,Arhar (Tur/Red Gram),Dahod,2016-07-28,7250.0,0.7,25.2,clear
+598,Bengal Gram(Gram),Dahod,2016-07-28,7740.5,22.0,25.2,clear
+599,Black Gram (Urd Beans),Dahod,2016-07-28,9100.0,0.7,25.2,clear
+600,Green Gram (Moong),Dahod,2016-07-28,5000.0,6.7,25.2,clear
+601,Arhar (Tur/Red Gram),Dahod,2016-07-29,7300.0,1.9,24.2,clear
+602,Bengal Gram(Gram),Dahod,2016-07-29,8155.0,15.0,24.2,clear
+603,Black Gram (Urd Beans),Dahod,2016-07-29,9150.0,0.1,24.2,clear
+604,Green Gram (Moong),Dahod,2016-07-29,5400.0,8.6,24.2,clear
+605,Arhar (Tur/Red Gram),Dahod,2016-07-30,7250.0,13.9,28.2,clear
+606,Bengal Gram(Gram),Dahod,2016-07-30,8037.5,15.4,28.2,clear
+607,Black Gram (Urd Beans),Dahod,2016-07-30,9000.0,0.5,28.2,clear
+608,Green Gram (Moong),Dahod,2016-07-30,5200.0,5.1,28.2,clear
+609,Arhar (Tur/Red Gram),Dahod,2016-03-08,6650.0,2.2,32.2,clear
+610,Bengal Gram(Gram),Dahod,2016-03-08,7800.0,8.8,32.2,clear
+611,Black Gram (Urd Beans),Dahod,2016-03-08,7300.0,2.5,32.2,clear
+612,Green Gram (Moong),Dahod,2016-03-08,5050.0,0.1,32.2,clear
+613,Arhar (Tur/Red Gram),Dahod,2016-04-08,6850.0,16.4,36.2,clear
+614,Bengal Gram(Gram),Dahod,2016-04-08,7775.0,18.4,36.2,clear
+615,Black Gram (Urd Beans),Dahod,2016-04-08,7300.0,1.6,36.2,clear
+616,Green Gram (Moong),Dahod,2016-04-08,5000.0,2.5,36.2,clear
+617,Arhar (Tur/Red Gram),Dahod,2016-05-08,6550.0,2.9,29.2,clear
+618,Bengal Gram(Gram),Dahod,2016-05-08,7802.5,1.2,29.2,clear
+619,Black Gram (Urd Beans),Dahod,2016-05-08,7800.0,3.0,29.2,clear
+620,Green Gram (Moong),Dahod,2016-05-08,4900.0,2.4,29.2,clear
+621,Arhar (Tur/Red Gram),Dahod,2016-06-08,6800.0,0.2,41.2,clear
+622,Bengal Gram(Gram),Dahod,2016-06-08,7760.0,1.7,41.2,clear
+623,Black Gram (Urd Beans),Dahod,2016-06-08,8400.0,0.1,41.2,clear
+624,Green Gram (Moong),Dahod,2016-06-08,5000.0,1.3,41.2,clear
+625,Arhar (Tur/Red Gram),Dahod,2016-08-08,6550.0,0.5,24.2,rain
+626,Bengal Gram(Gram),Dahod,2016-08-08,7462.5,20.7,24.2,rain
+627,Black Gram (Urd Beans),Dahod,2016-08-08,8300.0,6.8,24.2,rain
+628,Green Gram (Moong),Dahod,2016-08-08,5000.0,0.5,24.2,rain
+629,Arhar (Tur/Red Gram),Dahod,2016-09-08,6550.0,1.3,28.2,clear
+630,Bengal Gram(Gram),Dahod,2016-09-08,7500.0,34.8,28.2,clear
+631,Black Gram (Urd Beans),Dahod,2016-09-08,8000.0,0.3,28.2,clear
+632,Green Gram (Moong),Dahod,2016-09-08,5000.0,0.6,28.2,clear
+633,Arhar (Tur/Red Gram),Dahod,2016-10-08,6500.0,10.2,29.2,clear
+634,Bengal Gram(Gram),Dahod,2016-10-08,7550.0,5.0,29.2,clear
+635,Black Gram (Urd Beans),Dahod,2016-10-08,8400.0,0.2,29.2,clear
+636,Green Gram (Moong),Dahod,2016-10-08,5000.0,0.0,29.2,clear
+637,Arhar (Tur/Red Gram),Dahod,2016-11-08,6600.0,1.6,27.2,clear
+638,Bengal Gram(Gram),Dahod,2016-11-08,7530.0,14.9,27.2,clear
+639,Black Gram (Urd Beans),Dahod,2016-11-08,8300.0,3.1,27.2,clear
+640,Green Gram (Moong),Dahod,2016-11-08,5000.0,1.8,27.2,clear
+641,Arhar (Tur/Red Gram),Dahod,2016-12-08,6350.0,4.6,24.2,clear
+642,Bengal Gram(Gram),Dahod,2016-12-08,7645.0,7.4,24.2,clear
+643,Black Gram (Urd Beans),Dahod,2016-12-08,8000.0,5.1,24.2,clear
+644,Green Gram (Moong),Dahod,2016-12-08,4900.0,3.2,24.2,clear
+645,Arhar (Tur/Red Gram),Dahod,2016-08-13,6350.0,4.8,26.2,clear
+646,Bengal Gram(Gram),Dahod,2016-08-13,7565.0,5.7,26.2,clear
+647,Black Gram (Urd Beans),Dahod,2016-08-13,7900.0,2.2,26.2,clear
+648,Green Gram (Moong),Dahod,2016-08-13,4900.0,3.0,26.2,clear
+649,Arhar (Tur/Red Gram),Dahod,2016-08-16,6200.0,3.2,27.6,clear
+650,Bengal Gram(Gram),Dahod,2016-08-16,7450.0,19.7,27.6,clear
+651,Black Gram (Urd Beans),Dahod,2016-08-16,7800.0,2.1,27.6,clear
+652,Green Gram (Moong),Dahod,2016-08-16,4900.0,0.5,27.6,clear
+653,Arhar (Tur/Red Gram),Dahod,2016-08-17,5900.0,0.0,29.2,clear
+654,Bengal Gram(Gram),Dahod,2016-08-17,7410.0,0.0,29.2,clear
+655,Black Gram (Urd Beans),Dahod,2016-08-17,7600.0,0.0,29.2,clear
+656,Green Gram (Moong),Dahod,2016-08-17,4700.0,0.0,29.2,clear
+657,Arhar (Tur/Red Gram),Dahod,2016-08-20,5450.0,0.1,23.2,clear
+658,Bengal Gram(Gram),Dahod,2016-08-20,7450.0,3.1,23.2,clear
+659,Black Gram (Urd Beans),Dahod,2016-08-20,7400.0,0.8,23.2,clear
+660,Green Gram (Moong),Dahod,2016-08-20,4600.0,0.0,23.2,clear
+661,Arhar (Tur/Red Gram),Dahod,2016-08-27,4850.0,0.0,27.2,clear
+662,Bengal Gram(Gram),Dahod,2016-08-27,6595.0,2.7,27.2,clear
+663,Black Gram (Urd Beans),Dahod,2016-08-27,6700.0,0.2,27.2,clear
+664,Green Gram (Moong),Dahod,2016-08-27,4200.0,0.4,27.2,clear
+665,Arhar (Tur/Red Gram),Dahod,2016-08-29,4750.0,13.0,28.2,clear
+666,Bengal Gram(Gram),Dahod,2016-08-29,6168.5,3.1,28.2,clear
+667,Black Gram (Urd Beans),Dahod,2016-08-29,6800.0,13.2,28.2,clear
+668,Green Gram (Moong),Dahod,2016-08-29,4100.0,0.1,28.2,clear
+669,Arhar (Tur/Red Gram),Dahod,2016-08-30,4650.0,2.2,26.2,clear
+670,Bengal Gram(Gram),Dahod,2016-08-30,6525.0,13.4,26.2,clear
+671,Black Gram (Urd Beans),Dahod,2016-08-30,6000.0,1.0,26.2,clear
+672,Green Gram (Moong),Dahod,2016-08-30,4100.0,0.2,26.2,clear
+673,Arhar (Tur/Red Gram),Dahod,2016-08-31,4500.0,5.3,28.3,clear
+674,Bengal Gram(Gram),Dahod,2016-08-31,6462.5,24.3,28.3,clear
+675,Black Gram (Urd Beans),Dahod,2016-08-31,5800.0,1.1,28.3,clear
+676,Green Gram (Moong),Dahod,2016-08-31,4100.0,0.7,28.3,clear
+677,Arhar (Tur/Red Gram),Dahod,2016-01-09,5425.0,0.2,24.2,clear
+678,Bengal Gram(Gram),Dahod,2016-01-09,7037.5,2.9,24.2,clear
+679,Black Gram (Urd Beans),Dahod,2016-01-09,5800.0,0.3,24.2,clear
+680,Green Gram (Moong),Dahod,2016-01-09,4200.0,0.0,24.2,clear
+681,Arhar (Tur/Red Gram),Dahod,2016-02-09,5400.0,0.0,15.2,clear
+682,Bengal Gram(Gram),Dahod,2016-02-09,6945.0,1.6,15.2,clear
+683,Black Gram (Urd Beans),Dahod,2016-02-09,5750.0,0.0,15.2,clear
+684,Green Gram (Moong),Dahod,2016-02-09,4350.0,4.2,15.2,clear
+685,Arhar (Tur/Red Gram),Dahod,2016-03-09,5850.0,0.2,32.6,clear
+686,Bengal Gram(Gram),Dahod,2016-03-09,7725.0,44.9,32.6,clear
+687,Black Gram (Urd Beans),Dahod,2016-03-09,6200.0,0.0,32.6,clear
+688,Green Gram (Moong),Dahod,2016-03-09,4300.0,0.9,32.6,clear
+689,Arhar (Tur/Red Gram),Dahod,2016-06-09,5150.0,26.0,29.2,clear
+690,Bengal Gram(Gram),Dahod,2016-06-09,7772.5,16.3,29.2,clear
+691,Black Gram (Urd Beans),Dahod,2016-06-09,6800.0,0.7,29.2,clear
+692,Green Gram (Moong),Dahod,2016-06-09,4750.0,5.5,29.2,clear
+693,Arhar (Tur/Red Gram),Dahod,2016-07-09,5150.0,0.6,25.2,rain
+694,Bengal Gram(Gram),Dahod,2016-07-09,7575.0,2.9,25.2,rain
+695,Black Gram (Urd Beans),Dahod,2016-07-09,6800.0,1.1,25.2,rain
+696,Green Gram (Moong),Dahod,2016-07-09,4500.0,3.3,25.2,rain
+697,Arhar (Tur/Red Gram),Dahod,2016-09-09,4825.0,5.1,29.6,clear
+698,Bengal Gram(Gram),Dahod,2016-09-09,7595.0,26.9,29.6,clear
+699,Black Gram (Urd Beans),Dahod,2016-09-09,5250.0,7.9,29.6,clear
+700,Green Gram (Moong),Dahod,2016-09-09,4300.0,1.3,29.6,clear
+701,Arhar (Tur/Red Gram),Dahod,2016-10-09,4750.0,0.0,29.2,clear
+702,Bengal Gram(Gram),Dahod,2016-10-09,7662.5,3.6,29.2,clear
+703,Black Gram (Urd Beans),Dahod,2016-10-09,5250.0,0.2,29.2,clear
+704,Green Gram (Moong),Dahod,2016-10-09,4300.0,0.0,29.2,clear
+705,Arhar (Tur/Red Gram),Dahod,2016-12-09,4825.0,11.4,25.2,clear
+706,Bengal Gram(Gram),Dahod,2016-12-09,7862.5,8.3,25.2,clear
+707,Black Gram (Urd Beans),Dahod,2016-12-09,5750.0,2.1,25.2,clear
+708,Green Gram (Moong),Dahod,2016-12-09,4400.0,0.5,25.2,clear
+709,Arhar (Tur/Red Gram),Dahod,2016-09-13,5125.0,0.0,30.6,clear
+710,Bengal Gram(Gram),Dahod,2016-09-13,8250.0,0.0,30.6,clear
+711,Black Gram (Urd Beans),Dahod,2016-09-13,5850.0,0.0,30.6,clear
+712,Green Gram (Moong),Dahod,2016-09-13,4500.0,0.0,30.6,clear
+713,Arhar (Tur/Red Gram),Dahod,2016-09-14,5250.0,8.8,30.6,clear
+714,Bengal Gram(Gram),Dahod,2016-09-14,8325.0,21.1,30.6,clear
+715,Black Gram (Urd Beans),Dahod,2016-09-14,6300.0,0.0,30.6,clear
+716,Green Gram (Moong),Dahod,2016-09-14,4500.0,0.5,30.6,clear
+717,Arhar (Tur/Red Gram),Dahod,2016-09-15,5250.0,7.6,30.2,clear
+718,Bengal Gram(Gram),Dahod,2016-09-15,8752.5,8.2,30.2,clear
+719,Black Gram (Urd Beans),Dahod,2016-09-15,6000.0,9.0,30.2,clear
+720,Green Gram (Moong),Dahod,2016-09-15,4500.0,0.3,30.2,clear
+721,Arhar (Tur/Red Gram),Dahod,2016-09-16,5650.0,0.0,26.6,clear
+722,Bengal Gram(Gram),Dahod,2016-09-16,8600.0,1.7,26.6,clear
+723,Black Gram (Urd Beans),Dahod,2016-09-16,6000.0,0.0,26.6,clear
+724,Green Gram (Moong),Dahod,2016-09-16,4750.0,0.3,26.6,clear
+725,Arhar (Tur/Red Gram),Dahod,2016-09-17,5600.0,22.7,32.2,clear
+726,Bengal Gram(Gram),Dahod,2016-09-17,8450.0,22.9,32.2,clear
+727,Black Gram (Urd Beans),Dahod,2016-09-17,6300.0,0.3,32.2,clear
+728,Green Gram (Moong),Dahod,2016-09-17,4800.0,0.0,32.2,clear
+729,Arhar (Tur/Red Gram),Dahod,2016-09-19,5700.0,0.1,26.2,rain
+730,Bengal Gram(Gram),Dahod,2016-09-19,8782.5,38.0,26.2,rain
+731,Black Gram (Urd Beans),Dahod,2016-09-19,6300.0,1.4,26.2,rain
+732,Green Gram (Moong),Dahod,2016-09-19,4800.0,8.5,26.2,rain
+733,Arhar (Tur/Red Gram),Dahod,2016-09-20,5750.0,8.5,28.2,clear
+734,Bengal Gram(Gram),Dahod,2016-09-20,8625.0,4.2,28.2,clear
+735,Black Gram (Urd Beans),Dahod,2016-09-20,6300.0,0.3,28.2,clear
+736,Green Gram (Moong),Dahod,2016-09-20,4650.0,15.6,28.2,clear
+737,Arhar (Tur/Red Gram),Dahod,2016-09-22,5150.0,3.5,29.2,clear
+738,Bengal Gram(Gram),Dahod,2016-09-22,8765.0,17.6,29.2,clear
+739,Black Gram (Urd Beans),Dahod,2016-09-22,7400.0,14.3,29.2,clear
+740,Green Gram (Moong),Dahod,2016-09-22,4800.0,0.3,29.2,clear
+741,Arhar (Tur/Red Gram),Dahod,2016-09-23,5500.0,10.6,28.2,clear
+742,Bengal Gram(Gram),Dahod,2016-09-23,8750.0,29.3,28.2,clear
+743,Black Gram (Urd Beans),Dahod,2016-09-23,6800.0,4.5,28.2,clear
+744,Green Gram (Moong),Dahod,2016-09-23,4800.0,3.1,28.2,clear
+745,Arhar (Tur/Red Gram),Dahod,2016-09-24,5675.0,0.1,28.2,clear
+746,Bengal Gram(Gram),Dahod,2016-09-24,8762.5,3.8,28.2,clear
+747,Black Gram (Urd Beans),Dahod,2016-09-24,7000.0,0.0,28.2,clear
+748,Green Gram (Moong),Dahod,2016-09-24,4800.0,26.0,28.2,clear
+749,Arhar (Tur/Red Gram),Dahod,2016-09-26,5950.0,3.1,31.2,clear
+750,Bengal Gram(Gram),Dahod,2016-09-26,8745.0,22.0,31.2,clear
+751,Black Gram (Urd Beans),Dahod,2016-09-26,7000.0,2.5,31.2,clear
+752,Green Gram (Moong),Dahod,2016-09-26,4800.0,6.0,31.2,clear
+753,Arhar (Tur/Red Gram),Dahod,2016-09-27,6300.0,13.8,31.2,clear
+754,Bengal Gram(Gram),Dahod,2016-09-27,8900.0,13.4,31.2,clear
+755,Black Gram (Urd Beans),Dahod,2016-09-27,7300.0,1.3,31.2,clear
+756,Green Gram (Moong),Dahod,2016-09-27,4800.0,0.7,31.2,clear
+757,Arhar (Tur/Red Gram),Dahod,2016-09-28,6050.0,2.0,31.2,clear
+758,Bengal Gram(Gram),Dahod,2016-09-28,9075.0,0.6,31.2,clear
+759,Black Gram (Urd Beans),Dahod,2016-09-28,7000.0,2.2,31.2,clear
+760,Green Gram (Moong),Dahod,2016-09-28,4700.0,0.1,31.2,clear
+761,Arhar (Tur/Red Gram),Dahod,2016-09-29,5975.0,12.5,30.2,clear
+762,Bengal Gram(Gram),Dahod,2016-09-29,9087.5,21.8,30.2,clear
+763,Black Gram (Urd Beans),Dahod,2016-09-29,6850.0,2.3,30.2,clear
+764,Green Gram (Moong),Dahod,2016-09-29,4700.0,5.3,30.2,clear
+765,Arhar (Tur/Red Gram),Dahod,2016-09-30,5650.0,12.4,27.2,clear
+766,Bengal Gram(Gram),Dahod,2016-09-30,9050.0,14.8,27.2,clear
+767,Black Gram (Urd Beans),Dahod,2016-09-30,6300.0,15.7,27.2,clear
+768,Green Gram (Moong),Dahod,2016-09-30,4800.0,0.2,27.2,clear
+769,Arhar (Tur/Red Gram),Dahod,2016-01-10,5850.0,2.0,26.2,clear
+770,Bengal Gram(Gram),Dahod,2016-01-10,8987.5,14.5,26.2,clear
+771,Black Gram (Urd Beans),Dahod,2016-01-10,6800.0,9.3,26.2,clear
+772,Green Gram (Moong),Dahod,2016-01-10,4750.0,0.1,26.2,clear
+773,Arhar (Tur/Red Gram),Dahod,2016-03-10,5900.0,2.5,23.6,clear
+774,Bengal Gram(Gram),Dahod,2016-03-10,9062.5,5.9,23.6,clear
+775,Black Gram (Urd Beans),Dahod,2016-03-10,7300.0,17.1,23.6,clear
+776,Green Gram (Moong),Dahod,2016-03-10,4750.0,6.8,23.6,clear
+777,Arhar (Tur/Red Gram),Dahod,2016-04-10,5900.0,0.4,36.6,clear
+778,Bengal Gram(Gram),Dahod,2016-04-10,9125.0,6.6,36.6,clear
+779,Black Gram (Urd Beans),Dahod,2016-04-10,7200.0,13.6,36.6,clear
+780,Green Gram (Moong),Dahod,2016-04-10,4800.0,0.6,36.6,clear
+781,Arhar (Tur/Red Gram),Dahod,2016-05-10,5850.0,0.4,37.2,clear
+782,Bengal Gram(Gram),Dahod,2016-05-10,9325.0,6.7,37.2,clear
+783,Black Gram (Urd Beans),Dahod,2016-05-10,7300.0,30.7,37.2,clear
+784,Green Gram (Moong),Dahod,2016-05-10,4800.0,0.0,37.2,clear
+785,Arhar (Tur/Red Gram),Dahod,2016-06-10,5900.0,0.1,38.2,clear
+786,Bengal Gram(Gram),Dahod,2016-06-10,9850.0,1.5,38.2,clear
+787,Black Gram (Urd Beans),Dahod,2016-06-10,7100.0,41.1,38.2,clear
+788,Green Gram (Moong),Dahod,2016-06-10,4800.0,9.5,38.2,clear
+789,Arhar (Tur/Red Gram),Dahod,2016-07-10,5850.0,0.1,24.6,rain
+790,Bengal Gram(Gram),Dahod,2016-07-10,9825.0,4.5,24.6,rain
+791,Black Gram (Urd Beans),Dahod,2016-07-10,7350.0,38.7,24.6,rain
+792,Green Gram (Moong),Dahod,2016-07-10,4800.0,9.6,24.6,rain
+793,Arhar (Tur/Red Gram),Dahod,2016-08-10,5900.0,0.2,23.2,clear
+794,Bengal Gram(Gram),Dahod,2016-08-10,9750.0,7.9,23.2,clear
+795,Black Gram (Urd Beans),Dahod,2016-08-10,7200.0,23.3,23.2,clear
+796,Green Gram (Moong),Dahod,2016-08-10,4700.0,2.8,23.2,clear
+797,Arhar (Tur/Red Gram),Dahod,2016-10-10,5900.0,5.9,28.2,clear
+798,Bengal Gram(Gram),Dahod,2016-10-10,9837.5,38.8,28.2,clear
+799,Black Gram (Urd Beans),Dahod,2016-10-10,6800.0,45.2,28.2,clear
+800,Green Gram (Moong),Dahod,2016-10-10,4700.0,0.3,28.2,clear
+801,Arhar (Tur/Red Gram),Dahod,2016-10-13,5600.0,0.0,28.2,clear
+802,Bengal Gram(Gram),Dahod,2016-10-13,9900.0,7.7,28.2,clear
+803,Black Gram (Urd Beans),Dahod,2016-10-13,7000.0,59.6,28.2,clear
+804,Green Gram (Moong),Dahod,2016-10-13,4500.0,2.3,28.2,clear
+805,Arhar (Tur/Red Gram),Dahod,2016-10-14,5350.0,0.5,28.2,clear
+806,Bengal Gram(Gram),Dahod,2016-10-14,9812.5,13.4,28.2,clear
+807,Black Gram (Urd Beans),Dahod,2016-10-14,7000.0,22.8,28.2,clear
+808,Green Gram (Moong),Dahod,2016-10-14,4600.0,12.1,28.2,clear
+809,Arhar (Tur/Red Gram),Dahod,2016-10-15,5125.0,3.0,30.2,clear
+810,Bengal Gram(Gram),Dahod,2016-10-15,9750.0,33.7,30.2,clear
+811,Black Gram (Urd Beans),Dahod,2016-10-15,6400.0,22.2,30.2,clear
+812,Green Gram (Moong),Dahod,2016-10-15,4600.0,0.7,30.2,clear
+813,Arhar (Tur/Red Gram),Dahod,2016-10-17,5275.0,0.2,27.6,clear
+814,Bengal Gram(Gram),Dahod,2016-10-17,9825.0,11.1,27.6,clear
+815,Black Gram (Urd Beans),Dahod,2016-10-17,6700.0,33.9,27.6,clear
+816,Green Gram (Moong),Dahod,2016-10-17,4600.0,3.3,27.6,clear
+817,Arhar (Tur/Red Gram),Dahod,2016-10-18,5200.0,8.8,30.2,clear
+818,Bengal Gram(Gram),Dahod,2016-10-18,10150.0,18.3,30.2,clear
+819,Black Gram (Urd Beans),Dahod,2016-10-18,6500.0,22.4,30.2,clear
+820,Green Gram (Moong),Dahod,2016-10-18,4700.0,7.9,30.2,clear
+821,Arhar (Tur/Red Gram),Dahod,2016-10-19,5400.0,2.3,30.2,clear
+822,Bengal Gram(Gram),Dahod,2016-10-19,10800.0,23.7,30.2,clear
+823,Black Gram (Urd Beans),Dahod,2016-10-19,6500.0,39.7,30.2,clear
+824,Green Gram (Moong),Dahod,2016-10-19,4750.0,5.1,30.2,clear
+825,Arhar (Tur/Red Gram),Dahod,2016-10-20,5500.0,2.3,29.2,clear
+826,Bengal Gram(Gram),Dahod,2016-10-20,10500.0,19.1,29.2,clear
+827,Black Gram (Urd Beans),Dahod,2016-10-20,6500.0,48.2,29.2,clear
+828,Green Gram (Moong),Dahod,2016-10-20,4800.0,0.7,29.2,clear
+829,Arhar (Tur/Red Gram),Dahod,2016-10-21,5500.0,0.0,29.2,clear
+830,Bengal Gram(Gram),Dahod,2016-10-21,10300.5,20.2,29.2,clear
+831,Black Gram (Urd Beans),Dahod,2016-10-21,6700.0,22.4,29.2,clear
+832,Green Gram (Moong),Dahod,2016-10-21,4700.0,0.0,29.2,clear
+833,Arhar (Tur/Red Gram),Dahod,2016-10-22,5600.0,3.2,23.2,clear
+834,Bengal Gram(Gram),Dahod,2016-10-22,10125.0,19.1,23.2,clear
+835,Black Gram (Urd Beans),Dahod,2016-10-22,6800.0,26.3,23.2,clear
+836,Green Gram (Moong),Dahod,2016-10-22,4700.0,0.2,23.2,clear
+837,Arhar (Tur/Red Gram),Dahod,2016-10-24,5275.0,0.0,28.2,clear
+838,Bengal Gram(Gram),Dahod,2016-10-24,9887.5,19.3,28.2,clear
+839,Black Gram (Urd Beans),Dahod,2016-10-24,7000.0,112.9,28.2,clear
+840,Green Gram (Moong),Dahod,2016-10-24,4800.0,3.0,28.2,clear
+841,Arhar (Tur/Red Gram),Dahod,2016-10-25,5300.0,3.9,27.2,clear
+842,Bengal Gram(Gram),Dahod,2016-10-25,9662.5,15.9,27.2,clear
+843,Black Gram (Urd Beans),Dahod,2016-10-25,6600.0,44.9,27.2,clear
+844,Green Gram (Moong),Dahod,2016-10-25,4700.0,0.4,27.2,clear
+845,Arhar (Tur/Red Gram),Dahod,2016-10-26,5275.0,6.8,28.2,clear
+846,Bengal Gram(Gram),Dahod,2016-10-26,9600.0,19.6,28.2,clear
+847,Black Gram (Urd Beans),Dahod,2016-10-26,6700.0,34.3,28.2,clear
+848,Green Gram (Moong),Dahod,2016-10-26,4500.0,0.5,28.2,clear
+849,Arhar (Tur/Red Gram),Dahod,2016-10-27,5250.0,23.7,23.2,clear
+850,Bengal Gram(Gram),Dahod,2016-10-27,9750.0,30.2,23.2,clear
+851,Black Gram (Urd Beans),Dahod,2016-10-27,7000.0,85.6,23.2,clear
+852,Green Gram (Moong),Dahod,2016-10-27,4700.0,0.1,23.2,clear
+853,Arhar (Tur/Red Gram),Dahod,2016-10-28,5400.0,0.2,28.2,clear
+854,Bengal Gram(Gram),Dahod,2016-10-28,9525.0,51.9,28.2,clear
+855,Black Gram (Urd Beans),Dahod,2016-10-28,6700.0,42.2,28.2,clear
+856,Green Gram (Moong),Dahod,2016-10-28,4550.0,0.0,28.2,clear
+857,Arhar (Tur/Red Gram),Dahod,2016-10-29,5200.0,0.0,28.2,clear
+858,Bengal Gram(Gram),Dahod,2016-10-29,9600.0,6.9,28.2,clear
+859,Black Gram (Urd Beans),Dahod,2016-10-29,6700.0,57.3,28.2,clear
+860,Green Gram (Moong),Dahod,2016-10-29,4700.0,0.0,28.2,clear
+861,Arhar (Tur/Red Gram),Dahod,2016-02-11,5325.0,0.9,15.6,clear
+862,Bengal Gram(Gram),Dahod,2016-02-11,9295.0,17.0,15.6,clear
+863,Black Gram (Urd Beans),Dahod,2016-02-11,6500.0,39.0,15.6,clear
+864,Green Gram (Moong),Dahod,2016-02-11,4500.0,0.0,15.6,clear
+865,Arhar (Tur/Red Gram),Dahod,2016-04-11,5050.0,0.0,36.2,clear
+866,Bengal Gram(Gram),Dahod,2016-04-11,9700.0,16.8,36.2,clear
+867,Black Gram (Urd Beans),Dahod,2016-04-11,6700.0,29.3,36.2,clear
+868,Green Gram (Moong),Dahod,2016-04-11,4600.0,0.3,36.2,clear
+869,Arhar (Tur/Red Gram),Dahod,2016-05-11,5050.0,13.0,40.2,clear
+870,Bengal Gram(Gram),Dahod,2016-05-11,10025.0,11.6,40.2,clear
+871,Black Gram (Urd Beans),Dahod,2016-05-11,6700.0,41.1,40.2,clear
+872,Green Gram (Moong),Dahod,2016-05-11,4400.0,1.3,40.2,clear
+873,Arhar (Tur/Red Gram),Dahod,2016-07-11,5325.0,0.3,25.2,rain
+874,Bengal Gram(Gram),Dahod,2016-07-11,9875.0,25.1,25.2,rain
+875,Black Gram (Urd Beans),Dahod,2016-07-11,6500.0,65.3,25.2,rain
+876,Green Gram (Moong),Dahod,2016-07-11,4550.0,0.4,25.2,rain
+877,Arhar (Tur/Red Gram),Dahod,2016-08-11,4275.0,1.4,23.2,clear
+878,Bengal Gram(Gram),Dahod,2016-08-11,10250.0,24.7,23.2,clear
+879,Black Gram (Urd Beans),Dahod,2016-08-11,6400.0,58.4,23.2,clear
+880,Green Gram (Moong),Dahod,2016-08-11,4600.0,0.0,23.2,clear
+881,Arhar (Tur/Red Gram),Dahod,2016-09-11,4125.0,3.6,25.2,clear
+882,Bengal Gram(Gram),Dahod,2016-09-11,9850.0,12.8,25.2,clear
+883,Black Gram (Urd Beans),Dahod,2016-09-11,6000.0,42.6,25.2,clear
+884,Green Gram (Moong),Dahod,2016-09-11,4500.0,3.0,25.2,clear
+885,Arhar (Tur/Red Gram),Dahod,2016-10-11,4275.0,0.3,29.2,clear
+886,Bengal Gram(Gram),Dahod,2016-10-11,9950.0,23.5,29.2,clear
+887,Black Gram (Urd Beans),Dahod,2016-10-11,6000.0,38.6,29.2,clear
+888,Green Gram (Moong),Dahod,2016-10-11,4600.0,3.2,29.2,clear
+889,Arhar (Tur/Red Gram),Dahod,2016-11-11,4325.0,0.4,18.6,clear
+890,Bengal Gram(Gram),Dahod,2016-11-11,9850.0,4.8,18.6,clear
+891,Black Gram (Urd Beans),Dahod,2016-11-11,6000.0,9.6,18.6,clear
+892,Green Gram (Moong),Dahod,2016-11-11,4550.0,0.0,18.6,clear
+893,Arhar (Tur/Red Gram),Dahod,2016-12-11,4350.0,0.7,25.2,clear
+894,Bengal Gram(Gram),Dahod,2016-12-11,9800.0,3.6,25.2,clear
+895,Black Gram (Urd Beans),Dahod,2016-12-11,5800.0,7.5,25.2,clear
+896,Green Gram (Moong),Dahod,2016-12-11,4600.0,0.0,25.2,clear
+897,Arhar (Tur/Red Gram),Dahod,2016-11-14,4190.0,0.0,26.2,clear
+898,Bengal Gram(Gram),Dahod,2016-11-14,9062.5,0.0,26.2,clear
+899,Black Gram (Urd Beans),Dahod,2016-11-14,6200.0,0.0,26.2,clear
+900,Green Gram (Moong),Dahod,2016-11-14,4600.0,0.0,26.2,clear
+901,Arhar (Tur/Red Gram),Dahod,2016-11-15,4325.0,0.4,26.2,clear
+902,Bengal Gram(Gram),Dahod,2016-11-15,8900.0,16.2,26.2,clear
+903,Black Gram (Urd Beans),Dahod,2016-11-15,5800.0,27.8,26.2,clear
+904,Green Gram (Moong),Dahod,2016-11-15,4550.0,0.0,26.2,clear
+905,Arhar (Tur/Red Gram),Dahod,2016-11-16,4350.0,4.9,26.2,clear
+906,Bengal Gram(Gram),Dahod,2016-11-16,8937.5,5.4,26.2,clear
+907,Black Gram (Urd Beans),Dahod,2016-11-16,5900.0,14.7,26.2,clear
+908,Green Gram (Moong),Dahod,2016-11-16,4600.0,0.0,26.2,clear
+909,Arhar (Tur/Red Gram),Dahod,2016-11-17,4550.0,0.0,26.2,clear
+910,Bengal Gram(Gram),Dahod,2016-11-17,8850.0,12.1,26.2,clear
+911,Black Gram (Urd Beans),Dahod,2016-11-17,6500.0,7.0,26.2,clear
+912,Green Gram (Moong),Dahod,2016-11-17,4600.0,0.0,26.2,clear
+913,Arhar (Tur/Red Gram),Dahod,2016-11-18,4800.0,0.2,25.2,clear
+914,Bengal Gram(Gram),Dahod,2016-11-18,8887.5,11.3,25.2,clear
+915,Black Gram (Urd Beans),Dahod,2016-11-18,6500.0,11.9,25.2,clear
+916,Green Gram (Moong),Dahod,2016-11-18,4500.0,0.0,25.2,clear
+917,Arhar (Tur/Red Gram),Dahod,2016-11-19,4725.0,1.6,25.6,clear
+918,Bengal Gram(Gram),Dahod,2016-11-19,8875.0,12.0,25.6,clear
+919,Black Gram (Urd Beans),Dahod,2016-11-19,6100.0,17.2,25.6,clear
+920,Green Gram (Moong),Dahod,2016-11-19,4500.0,0.0,25.6,clear
+921,Arhar (Tur/Red Gram),Dahod,2016-11-21,4775.0,0.0,26.6,clear
+922,Bengal Gram(Gram),Dahod,2016-11-21,8300.0,10.9,26.6,clear
+923,Black Gram (Urd Beans),Dahod,2016-11-21,6500.0,17.1,26.6,clear
+924,Green Gram (Moong),Dahod,2016-11-21,4300.0,0.0,26.6,clear
+925,Arhar (Tur/Red Gram),Dahod,2016-11-22,4750.0,0.1,26.6,clear
+926,Bengal Gram(Gram),Dahod,2016-11-22,7925.0,7.9,26.6,clear
+927,Black Gram (Urd Beans),Dahod,2016-11-22,6500.0,16.1,26.6,clear
+928,Green Gram (Moong),Dahod,2016-11-22,4300.0,0.0,26.6,clear
+929,Arhar (Tur/Red Gram),Dahod,2016-11-23,4750.0,1.4,26.2,clear
+930,Bengal Gram(Gram),Dahod,2016-11-23,7950.0,7.0,26.2,clear
+931,Black Gram (Urd Beans),Dahod,2016-11-23,6200.0,19.8,26.2,clear
+932,Green Gram (Moong),Dahod,2016-11-23,4500.0,3.4,26.2,clear
+933,Arhar (Tur/Red Gram),Dahod,2016-11-24,4750.0,4.4,25.6,clear
+934,Bengal Gram(Gram),Dahod,2016-11-24,8400.0,4.0,25.6,clear
+935,Black Gram (Urd Beans),Dahod,2016-11-24,6300.0,7.8,25.6,clear
+936,Green Gram (Moong),Dahod,2016-11-24,4400.0,0.6,25.6,clear
+937,Arhar (Tur/Red Gram),Dahod,2016-11-25,4700.0,0.2,25.6,clear
+938,Bengal Gram(Gram),Dahod,2016-11-25,8350.0,7.8,25.6,clear
+939,Black Gram (Urd Beans),Dahod,2016-11-25,6300.0,31.2,25.6,clear
+940,Green Gram (Moong),Dahod,2016-11-25,4400.0,0.0,25.6,clear
+941,Arhar (Tur/Red Gram),Dahod,2016-11-29,4550.0,4.6,26.6,clear
+942,Bengal Gram(Gram),Dahod,2016-11-29,9050.0,13.0,26.6,clear
+943,Black Gram (Urd Beans),Dahod,2016-11-29,6500.0,26.8,26.6,clear
+944,Green Gram (Moong),Dahod,2016-11-29,4400.0,2.3,26.6,clear
+945,Arhar (Tur/Red Gram),Dahod,2016-11-30,4800.0,12.8,26.2,clear
+946,Bengal Gram(Gram),Dahod,2016-11-30,8975.0,4.7,26.2,clear
+947,Black Gram (Urd Beans),Dahod,2016-11-30,6250.0,16.7,26.2,clear
+948,Green Gram (Moong),Dahod,2016-11-30,4400.0,0.0,26.2,clear
+949,Arhar (Tur/Red Gram),Dahod,2016-02-12,4825.0,18.8,27.6,clear
+950,Bengal Gram(Gram),Dahod,2016-02-12,8875.0,2.3,27.6,clear
+951,Black Gram (Urd Beans),Dahod,2016-02-12,6250.0,22.5,27.6,clear
+952,Green Gram (Moong),Dahod,2016-02-12,4450.0,0.0,27.6,clear
+953,Arhar (Tur/Red Gram),Dahod,2016-05-12,4600.0,16.1,40.6,clear
+954,Bengal Gram(Gram),Dahod,2016-05-12,8800.0,3.6,40.6,clear
+955,Black Gram (Urd Beans),Dahod,2016-05-12,6200.0,11.3,40.6,clear
+956,Green Gram (Moong),Dahod,2016-05-12,4400.0,0.0,40.6,clear
+957,Arhar (Tur/Red Gram),Dahod,2016-06-12,4575.0,32.4,37.2,clear
+958,Bengal Gram(Gram),Dahod,2016-06-12,8875.0,20.7,37.2,clear
+959,Black Gram (Urd Beans),Dahod,2016-06-12,5775.0,34.4,37.2,clear
+960,Green Gram (Moong),Dahod,2016-06-12,4300.0,0.0,37.2,clear
+961,Arhar (Tur/Red Gram),Dahod,2016-07-12,4550.0,27.5,24.2,rain
+962,Bengal Gram(Gram),Dahod,2016-07-12,8925.0,8.0,24.2,rain
+963,Black Gram (Urd Beans),Dahod,2016-07-12,5975.0,22.3,24.2,rain
+964,Green Gram (Moong),Dahod,2016-07-12,4450.0,0.0,24.2,rain
+965,Arhar (Tur/Red Gram),Dahod,2016-08-12,4250.0,21.2,27.2,clear
+966,Bengal Gram(Gram),Dahod,2016-08-12,8775.0,11.8,27.2,clear
+967,Black Gram (Urd Beans),Dahod,2016-08-12,6000.0,34.5,27.2,clear
+968,Arhar (Tur/Red Gram),Dahod,2016-09-12,4462.5,12.3,30.2,clear
+969,Bengal Gram(Gram),Dahod,2016-09-12,8825.0,6.7,30.2,clear
+970,Black Gram (Urd Beans),Dahod,2016-09-12,5200.0,28.4,30.2,clear
+971,Green Gram (Moong),Dahod,2016-09-12,4250.0,0.2,30.2,clear
+972,Arhar (Tur/Red Gram),Dahod,2016-10-12,4320.5,47.8,34.2,clear
+973,Bengal Gram(Gram),Dahod,2016-10-12,8900.0,14.6,34.2,clear
+974,Black Gram (Urd Beans),Dahod,2016-10-12,5400.0,16.8,34.2,clear
+975,Green Gram (Moong),Dahod,2016-10-12,4300.0,0.1,34.2,clear
+976,Arhar (Tur/Red Gram),Dahod,2016-12-12,4262.5,0.0,25.2,clear
+977,Bengal Gram(Gram),Dahod,2016-12-12,9087.5,0.0,25.2,clear
+978,Black Gram (Urd Beans),Dahod,2016-12-12,5300.0,0.0,25.2,clear
+979,Green Gram (Moong),Dahod,2016-12-12,4325.0,0.0,25.2,clear
+980,Arhar (Tur/Red Gram),Dahod,2016-12-13,4262.5,41.0,25.0,clear
+981,Bengal Gram(Gram),Dahod,2016-12-13,9375.0,16.6,25.0,clear
+982,Black Gram (Urd Beans),Dahod,2016-12-13,5400.0,7.6,25.0,clear
+983,Green Gram (Moong),Dahod,2016-12-13,4200.0,0.0,25.0,clear
+984,Arhar (Tur/Red Gram),Dahod,2016-12-14,4250.0,23.2,24.2,clear
+985,Bengal Gram(Gram),Dahod,2016-12-14,9637.5,3.7,24.2,clear
+986,Black Gram (Urd Beans),Dahod,2016-12-14,5000.0,7.3,24.2,clear
+987,Green Gram (Moong),Dahod,2016-12-14,4300.0,0.0,24.2,clear
+988,Arhar (Tur/Red Gram),Dahod,2016-12-15,4275.0,37.4,14.6,clear
+989,Bengal Gram(Gram),Dahod,2016-12-15,9612.5,5.5,14.6,clear
+990,Black Gram (Urd Beans),Dahod,2016-12-15,5200.0,12.9,14.6,clear
+991,Green Gram (Moong),Dahod,2016-12-15,4350.0,0.0,14.6,clear
+992,Arhar (Tur/Red Gram),Dahod,2016-12-16,4300.0,41.0,24.2,clear
+993,Bengal Gram(Gram),Dahod,2016-12-16,9625.0,5.6,24.2,clear
+994,Black Gram (Urd Beans),Dahod,2016-12-16,4900.0,6.9,24.2,clear
+995,Green Gram (Moong),Dahod,2016-12-16,4350.0,0.4,24.2,clear
+996,Arhar (Tur/Red Gram),Dahod,2016-12-17,4200.0,101.9,24.2,clear
+997,Bengal Gram(Gram),Dahod,2016-12-17,9712.5,21.4,24.2,clear
+998,Black Gram (Urd Beans),Dahod,2016-12-17,4900.0,17.3,24.2,clear
+999,Green Gram (Moong),Dahod,2016-12-17,4350.0,0.7,24.2,clear
+1000,Arhar (Tur/Red Gram),Dahod,2016-12-20,4307.5,41.4,13.2,clear
+1001,Bengal Gram(Gram),Dahod,2016-12-20,9150.0,13.2,13.2,clear
+1002,Black Gram (Urd Beans),Dahod,2016-12-20,5200.0,23.1,13.2,clear
+1003,Green Gram (Moong),Dahod,2016-12-20,4350.0,2.0,13.2,clear
+1004,Arhar (Tur/Red Gram),Dahod,2016-12-21,4362.5,42.1,23.2,clear
+1005,Bengal Gram(Gram),Dahod,2016-12-21,8950.0,5.4,23.2,clear
+1006,Black Gram (Urd Beans),Dahod,2016-12-21,5400.0,11.5,23.2,clear
+1007,Green Gram (Moong),Dahod,2016-12-21,4325.0,4.0,23.2,clear
+1008,Arhar (Tur/Red Gram),Dahod,2016-12-22,4425.0,42.2,24.2,clear
+1009,Bengal Gram(Gram),Dahod,2016-12-22,9050.0,5.1,24.2,clear
+1010,Black Gram (Urd Beans),Dahod,2016-12-22,5200.0,12.9,24.2,clear
+1011,Green Gram (Moong),Dahod,2016-12-22,4250.0,9.1,24.2,clear
+1012,Arhar (Tur/Red Gram),Dahod,2016-12-23,4375.0,43.8,13.6,clear
+1013,Bengal Gram(Gram),Dahod,2016-12-23,9000.0,7.4,13.6,clear
+1014,Black Gram (Urd Beans),Dahod,2016-12-23,5800.0,8.5,13.6,clear
+1015,Green Gram (Moong),Dahod,2016-12-23,4300.0,0.1,13.6,clear
+1016,Arhar (Tur/Red Gram),Dahod,2016-12-24,4025.0,39.9,26.2,clear
+1017,Bengal Gram(Gram),Dahod,2016-12-24,8875.0,3.3,26.2,clear
+1018,Black Gram (Urd Beans),Dahod,2016-12-24,5950.0,30.3,26.2,clear
+1019,Green Gram (Moong),Dahod,2016-12-24,4250.0,2.2,26.2,clear
+1020,Arhar (Tur/Red Gram),Dahod,2016-12-26,3825.0,42.1,21.2,clear
+1021,Bengal Gram(Gram),Dahod,2016-12-26,8950.0,2.0,21.2,clear
+1022,Arhar (Tur/Red Gram),Dahod,2016-12-27,3850.0,50.0,22.6,clear
+1023,Bengal Gram(Gram),Dahod,2016-12-27,8650.0,5.2,22.6,clear
+1024,Black Gram (Urd Beans),Dahod,2016-12-27,5950.0,41.0,22.6,clear
+1025,Arhar (Tur/Red Gram),Dahod,2016-12-28,3700.0,56.4,24.2,clear
+1026,Bengal Gram(Gram),Dahod,2016-12-28,7900.0,2.6,24.2,clear
+1027,Black Gram (Urd Beans),Dahod,2016-12-28,6000.0,15.5,24.2,clear
+1028,Arhar (Tur/Red Gram),Dahod,2016-12-29,3800.0,19.1,24.2,clear
+1029,Bengal Gram(Gram),Dahod,2016-12-29,7850.0,2.8,24.2,clear
+1030,Black Gram (Urd Beans),Dahod,2016-12-29,6000.0,24.2,24.2,clear
+1031,Arhar (Tur/Red Gram),Dahod,2016-12-30,3900.0,73.0,26.2,clear
+1032,Bengal Gram(Gram),Dahod,2016-12-30,7750.0,2.6,26.2,clear
+1033,Black Gram (Urd Beans),Dahod,2016-12-30,5950.0,14.8,26.2,clear
+1034,Arhar (Tur/Red Gram),Dahod,2016-12-31,4362.5,89.2,26.2,clear
+1035,Bengal Gram(Gram),Dahod,2016-12-31,7012.5,2.4,26.2,clear
+1036,Black Gram (Urd Beans),Dahod,2016-12-31,5950.0,15.1,26.2,clear
+1037,Green Gram (Moong),Dahod,2016-12-31,4250.0,0.0,26.2,clear
+1038,Arhar (Tur/Red Gram),Devgadhbaria,2016-09-01,8250.0,7.0,25.2,clear
+1039,Bengal Gram(Gram),Dahod,2016-09-01,4525.0,8.1,25.2,clear
+1040,Black Gram (Urd Beans),Dahod,2016-09-01,9900.0,12.9,25.2,clear
+1041,Arhar (Tur/Red Gram),Jhalod,2016-06-07,5500.0,0.1,42.2,clear
+1042,Bengal Gram(Gram),Zalod(Sanjeli),2016-06-07,7250.0,0.2,42.2,clear
+1043,Bengal Gram(Gram),Dahod,2016-01-13,4475.0,14.0,25.2,clear
+1044,Black Gram (Urd Beans),Dahod,2016-01-13,9900.0,4.5,25.2,clear
+1045,Bengal Gram(Gram),Dahod,2016-01-15,4480.0,13.1,24.6,clear
+1046,Black Gram (Urd Beans),Dahod,2016-01-15,9900.0,9.1,24.6,clear
+1047,Bengal Gram(Gram),Dahod,2016-01-23,4235.0,8.2,24.0,clear
+1048,Bengal Gram(Gram),Dahod,2016-01-02,4175.0,5.8,25.2,clear
+1049,Black Gram (Urd Beans),Dahod,2016-01-02,9300.0,2.7,25.2,clear
+1050,Bengal Gram(Gram),Dahod,2016-03-28,4525.0,79.1,35.4,clear
+1051,Black Gram (Urd Beans),Dahod,2016-03-28,9800.0,0.6,35.4,clear
+1052,Bengal Gram(Gram),Dahod,2016-01-04,4675.0,96.5,25.2,clear
+1053,Black Gram (Urd Beans),Dahod,2016-01-04,10000.0,2.0,25.2,clear
+1054,Bengal Gram(Gram),Jhalod,2016-05-07,7100.0,1.5,38.2,clear
+1055,Bengal Gram(Gram),Zalod(Sanjeli),2016-05-07,7350.0,0.2,38.2,clear
+1056,Green Gram (Moong),Dahod,2016-12-10,4600.0,0.0,14.6,clear
+1057,Arhar (Tur/Red Gram),Dahod,2017-02-01,3950.0,66.7,27.2,clear
+1058,Bengal Gram(Gram),Dahod,2017-02-01,7000.0,6.7,27.2,clear
+1059,Black Gram (Urd Beans),Dahod,2017-02-01,6200.0,6.0,27.2,clear
+1060,Arhar (Tur/Red Gram),Dahod,2017-03-01,3830.0,192.7,32.2,clear
+1061,Bengal Gram(Gram),Dahod,2017-03-01,7000.0,3.7,32.2,clear
+1062,Black Gram (Urd Beans),Dahod,2017-03-01,5800.0,13.5,32.2,clear
+1063,Arhar (Tur/Red Gram),Dahod,2017-04-01,3800.0,184.6,38.2,clear
+1064,Bengal Gram(Gram),Dahod,2017-04-01,6950.0,1.3,38.2,clear
+1065,Black Gram (Urd Beans),Dahod,2017-04-01,5800.0,6.6,38.2,clear
+1066,Arhar (Tur/Red Gram),Dahod,2017-05-01,3675.0,101.3,38.2,clear
+1067,Bengal Gram(Gram),Dahod,2017-05-01,6640.0,3.6,38.2,clear
+1068,Black Gram (Urd Beans),Dahod,2017-05-01,5700.0,24.1,38.2,clear
+1069,Green Gram (Moong),Dahod,2017-05-01,4350.0,0.1,38.2,clear
+1070,Arhar (Tur/Red Gram),Dahod,2017-06-01,3675.0,116.7,39.2,clear
+1071,Bengal Gram(Gram),Dahod,2017-06-01,6500.0,4.4,39.2,clear
+1072,Black Gram (Urd Beans),Dahod,2017-06-01,5500.0,20.4,39.2,clear
+1073,Green Gram (Moong),Dahod,2017-06-01,4350.0,1.0,39.2,clear
+1074,Arhar (Tur/Red Gram),Dahod,2017-09-01,3737.5,112.5,28.2,clear
+1075,Bengal Gram(Gram),Dahod,2017-09-01,6062.5,1.7,28.2,clear
+1076,Black Gram (Urd Beans),Dahod,2017-09-01,4950.0,11.6,28.2,clear
+1077,Green Gram (Moong),Dahod,2017-09-01,4050.0,2.2,28.2,clear
+1078,Arhar (Tur/Red Gram),Dahod,2017-10-01,3725.0,179.5,33.2,clear
+1079,Bengal Gram(Gram),Dahod,2017-10-01,5950.0,6.2,33.2,clear
+1080,Black Gram (Urd Beans),Dahod,2017-10-01,5400.0,11.9,33.2,clear
+1081,Green Gram (Moong),Dahod,2017-10-01,4050.0,2.3,33.2,clear
+1082,Arhar (Tur/Red Gram),Dahod,2017-11-01,3962.5,100.0,29.2,clear
+1083,Bengal Gram(Gram),Dahod,2017-11-01,5962.5,1.4,29.2,clear
+1084,Black Gram (Urd Beans),Dahod,2017-11-01,5450.0,15.7,29.2,clear
+1085,Green Gram (Moong),Dahod,2017-11-01,4100.0,0.0,29.2,clear
+1086,Arhar (Tur/Red Gram),Dahod,2017-12-01,4012.5,65.7,24.2,clear
+1087,Bengal Gram(Gram),Dahod,2017-12-01,5970.0,3.9,24.2,clear
+1088,Black Gram (Urd Beans),Dahod,2017-12-01,5550.0,16.9,24.2,clear
+1089,Green Gram (Moong),Dahod,2017-12-01,4100.0,0.2,24.2,clear
+1090,Arhar (Tur/Red Gram),Dahod,2017-01-13,3887.5,112.5,18.2,clear
+1091,Bengal Gram(Gram),Dahod,2017-01-13,5970.0,5.3,18.2,clear
+1092,Black Gram (Urd Beans),Dahod,2017-01-13,5500.0,23.0,18.2,clear
+1093,Green Gram (Moong),Dahod,2017-01-13,4100.0,0.4,18.2,clear
+1094,Arhar (Tur/Red Gram),Dahod,2017-01-16,4112.5,91.6,23.2,clear
+1095,Bengal Gram(Gram),Dahod,2017-01-16,5970.0,2.1,23.2,clear
+1096,Black Gram (Urd Beans),Dahod,2017-01-16,5500.0,11.7,23.2,clear
+1097,Green Gram (Moong),Dahod,2017-01-16,4100.0,0.0,23.2,clear
+1098,Arhar (Tur/Red Gram),Dahod,2017-01-17,4175.0,168.8,21.2,clear
+1099,Bengal Gram(Gram),Dahod,2017-01-17,6275.0,3.5,21.2,clear
+1100,Black Gram (Urd Beans),Dahod,2017-01-17,5400.0,19.4,21.2,clear
+1101,Green Gram (Moong),Dahod,2017-01-17,4150.0,0.0,21.2,clear
+1102,Arhar (Tur/Red Gram),Dahod,2017-01-18,4162.5,148.8,21.6,clear
+1103,Bengal Gram(Gram),Dahod,2017-01-18,6287.5,2.4,21.6,clear
+1104,Black Gram (Urd Beans),Dahod,2017-01-18,5350.0,18.1,21.6,clear
+1105,Green Gram (Moong),Dahod,2017-01-18,4150.0,0.0,21.6,clear
+1106,Arhar (Tur/Red Gram),Dahod,2017-01-19,4225.0,127.8,19.2,clear
+1107,Bengal Gram(Gram),Dahod,2017-01-19,6262.5,2.0,19.2,clear
+1108,Black Gram (Urd Beans),Dahod,2017-01-19,5500.0,6.6,19.2,clear
+1109,Green Gram (Moong),Dahod,2017-01-19,4150.0,0.0,19.2,clear
+1110,Arhar (Tur/Red Gram),Dahod,2017-01-20,4112.5,232.6,22.2,clear
+1111,Bengal Gram(Gram),Dahod,2017-01-20,6375.0,2.4,22.2,clear
+1112,Black Gram (Urd Beans),Dahod,2017-01-20,5450.0,13.6,22.2,clear
+1113,Green Gram (Moong),Dahod,2017-01-20,4150.0,0.0,22.2,clear
+1114,Arhar (Tur/Red Gram),Dahod,2017-01-21,4112.5,127.5,11.6,clear
+1115,Bengal Gram(Gram),Dahod,2017-01-21,6337.5,1.5,11.6,clear
+1116,Black Gram (Urd Beans),Dahod,2017-01-21,5400.0,10.7,11.6,clear
+1117,Green Gram (Moong),Dahod,2017-01-21,4150.0,0.0,11.6,clear
+1118,Arhar (Tur/Red Gram),Dahod,2017-01-23,4150.0,120.1,28.2,clear
+1119,Bengal Gram(Gram),Dahod,2017-01-23,6387.5,3.2,28.2,clear
+1120,Black Gram (Urd Beans),Dahod,2017-01-23,5500.0,21.0,28.2,clear
+1121,Green Gram (Moong),Dahod,2017-01-23,4150.0,0.2,28.2,clear
+1122,Arhar (Tur/Red Gram),Dahod,2017-01-24,4125.0,198.8,28.2,clear
+1123,Bengal Gram(Gram),Dahod,2017-01-24,6387.5,4.2,28.2,clear
+1124,Black Gram (Urd Beans),Dahod,2017-01-24,5400.0,21.0,28.2,clear
+1125,Green Gram (Moong),Dahod,2017-01-24,4150.0,0.0,28.2,clear
+1126,Arhar (Tur/Red Gram),Dahod,2017-01-25,4175.0,168.0,28.2,clear
+1127,Bengal Gram(Gram),Dahod,2017-01-25,6312.5,3.1,28.2,clear
+1128,Black Gram (Urd Beans),Dahod,2017-01-25,5400.0,12.5,28.2,clear
+1129,Green Gram (Moong),Dahod,2017-01-25,4150.0,1.5,28.2,clear
+1130,Arhar (Tur/Red Gram),Dahod,2017-01-28,3962.5,188.3,22.2,clear
+1131,Bengal Gram(Gram),Dahod,2017-01-28,6007.5,0.7,22.2,clear
+1132,Black Gram (Urd Beans),Dahod,2017-01-28,5400.0,27.1,22.2,clear
+1133,Green Gram (Moong),Dahod,2017-01-28,4150.0,0.0,22.2,clear
+1134,Arhar (Tur/Red Gram),Dahod,2017-01-30,3873.0,224.1,27.2,clear
+1135,Bengal Gram(Gram),Dahod,2017-01-30,5995.0,3.2,27.2,clear
+1136,Black Gram (Urd Beans),Dahod,2017-01-30,5450.0,31.2,27.2,clear
+1137,Green Gram (Moong),Dahod,2017-01-30,4150.0,0.1,27.2,clear
+1138,Arhar (Tur/Red Gram),Dahod,2017-01-31,4012.5,149.9,27.2,clear
+1139,Bengal Gram(Gram),Dahod,2017-01-31,5727.5,5.3,27.2,clear
+1140,Black Gram (Urd Beans),Dahod,2017-01-31,5250.0,8.2,27.2,clear
+1141,Green Gram (Moong),Dahod,2017-01-31,4150.0,0.0,27.2,clear
+1142,Arhar (Tur/Red Gram),Dahod,2017-01-02,4025.0,57.1,22.2,clear
+1143,Bengal Gram(Gram),Dahod,2017-01-02,5675.0,2.5,22.2,clear
+1144,Black Gram (Urd Beans),Dahod,2017-01-02,5200.0,23.6,22.2,clear
+1145,Green Gram (Moong),Dahod,2017-01-02,4150.0,0.1,22.2,clear
+1146,Arhar (Tur/Red Gram),Dahod,2017-02-02,4000.0,129.1,28.2,clear
+1147,Bengal Gram(Gram),Dahod,2017-02-02,5675.0,1.4,28.2,clear
+1148,Black Gram (Urd Beans),Dahod,2017-02-02,5200.0,20.5,28.2,clear
+1149,Green Gram (Moong),Dahod,2017-02-02,4150.0,0.0,28.2,clear
+1150,Arhar (Tur/Red Gram),Dahod,2017-03-02,4000.0,103.7,32.6,clear
+1151,Bengal Gram(Gram),Dahod,2017-03-02,5620.0,4.6,32.6,clear
+1152,Black Gram (Urd Beans),Dahod,2017-03-02,4900.0,10.2,32.6,clear
+1153,Green Gram (Moong),Dahod,2017-03-02,4200.0,0.0,32.6,clear
+1154,Arhar (Tur/Red Gram),Dahod,2017-04-02,4000.0,76.0,37.5,clear
+1155,Bengal Gram(Gram),Dahod,2017-04-02,5612.5,3.5,37.5,clear
+1156,Black Gram (Urd Beans),Dahod,2017-04-02,5300.0,5.1,37.5,clear
+1157,Green Gram (Moong),Dahod,2017-04-02,4200.0,0.0,37.5,clear
+1158,Arhar (Tur/Red Gram),Dahod,2017-06-02,3825.0,238.1,36.2,clear
+1159,Bengal Gram(Gram),Dahod,2017-06-02,5400.0,3.3,36.2,clear
+1160,Black Gram (Urd Beans),Dahod,2017-06-02,5150.0,10.1,36.2,clear
+1161,Green Gram (Moong),Dahod,2017-06-02,4150.0,0.0,36.2,clear
+1162,Arhar (Tur/Red Gram),Dahod,2017-08-02,3875.0,89.0,24.6,clear
+1163,Bengal Gram(Gram),Dahod,2017-08-02,4750.0,14.5,24.6,clear
+1164,Black Gram (Urd Beans),Dahod,2017-08-02,4850.0,2.3,24.6,clear
+1165,Green Gram (Moong),Dahod,2017-08-02,4200.0,0.0,24.6,clear
+1166,Arhar (Tur/Red Gram),Dahod,2017-09-02,3725.0,91.6,27.6,clear
+1167,Bengal Gram(Gram),Dahod,2017-09-02,4525.0,23.0,27.6,clear
+1168,Black Gram (Urd Beans),Dahod,2017-09-02,4850.0,13.1,27.6,clear
+1169,Green Gram (Moong),Dahod,2017-09-02,4200.0,4.7,27.6,clear
+1170,Arhar (Tur/Red Gram),Dahod,2017-10-02,3787.5,107.5,25.2,clear
+1171,Bengal Gram(Gram),Dahod,2017-10-02,4662.5,2.4,25.2,clear
+1172,Black Gram (Urd Beans),Dahod,2017-10-02,4800.0,23.2,25.2,clear
+1173,Green Gram (Moong),Dahod,2017-10-02,4200.0,0.2,25.2,clear
+1174,Arhar (Tur/Red Gram),Dahod,2017-11-02,3875.0,105.1,29.2,clear
+1175,Bengal Gram(Gram),Dahod,2017-11-02,4632.5,1.3,29.2,clear
+1176,Black Gram (Urd Beans),Dahod,2017-11-02,5000.0,12.3,29.2,clear
+1177,Green Gram (Moong),Dahod,2017-11-02,4150.0,0.0,29.2,clear
+1178,Arhar (Tur/Red Gram),Dahod,2017-02-13,3600.0,95.6,25.0,clear
+1179,Bengal Gram(Gram),Dahod,2017-02-13,4815.0,7.6,25.0,clear
+1180,Black Gram (Urd Beans),Dahod,2017-02-13,5100.0,17.9,25.0,clear
+1181,Arhar (Tur/Red Gram),Dahod,2017-02-14,3875.0,111.3,28.2,clear
+1182,Bengal Gram(Gram),Dahod,2017-02-14,4882.5,8.8,28.2,clear
+1183,Black Gram (Urd Beans),Dahod,2017-02-14,5000.0,12.3,28.2,clear
+1184,Green Gram (Moong),Dahod,2017-02-14,4200.0,0.0,28.2,clear
+1185,Arhar (Tur/Red Gram),Dahod,2017-02-15,3975.0,117.1,28.2,clear
+1186,Bengal Gram(Gram),Dahod,2017-02-15,5081.0,4.2,28.2,clear
+1187,Black Gram (Urd Beans),Dahod,2017-02-15,5100.0,7.8,28.2,clear
+1188,Green Gram (Moong),Dahod,2017-02-15,4200.0,0.0,28.2,clear
+1189,Arhar (Tur/Red Gram),Dahod,2017-02-16,3775.0,135.2,30.2,clear
+1190,Bengal Gram(Gram),Dahod,2017-02-16,5287.5,32.9,30.2,clear
+1191,Black Gram (Urd Beans),Dahod,2017-02-16,5200.0,9.7,30.2,clear
+1192,Green Gram (Moong),Dahod,2017-02-16,4200.0,0.0,30.2,clear
+1193,Arhar (Tur/Red Gram),Dahod,2017-02-17,3775.0,112.6,31.2,clear
+1194,Bengal Gram(Gram),Dahod,2017-02-17,5275.0,14.6,31.2,clear
+1195,Black Gram (Urd Beans),Dahod,2017-02-17,5200.0,16.6,31.2,clear
+1196,Green Gram (Moong),Dahod,2017-02-17,4200.0,13.7,31.2,clear
+1197,Arhar (Tur/Red Gram),Dahod,2017-02-18,3650.0,81.1,31.2,clear
+1198,Bengal Gram(Gram),Dahod,2017-02-18,5212.5,22.5,31.2,clear
+1199,Black Gram (Urd Beans),Dahod,2017-02-18,4800.0,33.7,31.2,clear
+1200,Green Gram (Moong),Dahod,2017-02-18,4200.0,0.0,31.2,clear
+1201,Arhar (Tur/Red Gram),Dahod,2017-02-20,3600.0,118.6,30.2,clear
+1202,Bengal Gram(Gram),Dahod,2017-02-20,5093.5,67.6,30.2,clear
+1203,Black Gram (Urd Beans),Dahod,2017-02-20,4900.0,11.7,30.2,clear
+1204,Green Gram (Moong),Dahod,2017-02-20,4200.0,0.0,30.2,clear
+1205,Arhar (Tur/Red Gram),Dahod,2017-02-21,3625.0,79.0,28.2,clear
+1206,Bengal Gram(Gram),Dahod,2017-02-21,4800.0,62.0,28.2,clear
+1207,Black Gram (Urd Beans),Dahod,2017-02-21,4800.0,24.7,28.2,clear
+1208,Green Gram (Moong),Dahod,2017-02-21,4200.0,0.5,28.2,clear
+1209,Arhar (Tur/Red Gram),Dahod,2017-02-22,3650.0,43.7,29.2,clear
+1210,Bengal Gram(Gram),Dahod,2017-02-22,4720.0,65.6,29.2,clear
+1211,Black Gram (Urd Beans),Dahod,2017-02-22,4800.0,3.8,29.2,clear
+1212,Green Gram (Moong),Dahod,2017-02-22,4200.0,1.5,29.2,clear
+1213,Arhar (Tur/Red Gram),Dahod,2017-02-23,3712.5,99.9,29.2,clear
+1214,Bengal Gram(Gram),Dahod,2017-02-23,4635.0,66.6,29.2,clear
+1215,Black Gram (Urd Beans),Dahod,2017-02-23,4700.0,25.0,29.2,clear
+1216,Green Gram (Moong),Dahod,2017-02-23,4200.0,0.0,29.2,clear
+1217,Arhar (Tur/Red Gram),Dahod,2017-02-25,3850.0,102.0,30.2,clear
+1218,Bengal Gram(Gram),Dahod,2017-02-25,4687.5,110.6,30.2,clear
+1219,Black Gram (Urd Beans),Dahod,2017-02-25,4700.0,17.0,30.2,clear
+1220,Green Gram (Moong),Dahod,2017-02-25,4200.0,0.0,30.2,clear
+1221,Arhar (Tur/Red Gram),Dahod,2017-02-27,3875.0,98.6,19.2,clear
+1222,Bengal Gram(Gram),Dahod,2017-02-27,4506.0,33.1,19.2,clear
+1223,Black Gram (Urd Beans),Dahod,2017-02-27,4800.0,14.6,19.2,clear
+1224,Green Gram (Moong),Dahod,2017-02-27,4200.0,7.8,19.2,clear
+1225,Arhar (Tur/Red Gram),Dahod,2017-01-03,3700.0,134.3,22.2,clear
+1226,Bengal Gram(Gram),Dahod,2017-01-03,4585.5,20.9,22.2,clear
+1227,Black Gram (Urd Beans),Dahod,2017-01-03,4900.0,7.7,22.2,clear
+1228,Green Gram (Moong),Dahod,2017-01-03,4200.0,0.0,22.2,clear
+1229,Arhar (Tur/Red Gram),Dahod,2017-02-03,3750.0,82.6,16.2,clear
+1230,Bengal Gram(Gram),Dahod,2017-02-03,4790.0,66.6,16.2,clear
+1231,Black Gram (Urd Beans),Dahod,2017-02-03,4850.0,10.3,16.2,clear
+1232,Green Gram (Moong),Dahod,2017-02-03,4200.0,0.1,16.2,clear
+1233,Arhar (Tur/Red Gram),Dahod,2017-03-03,3850.0,125.7,31.2,clear
+1234,Bengal Gram(Gram),Dahod,2017-03-03,4995.0,67.2,31.2,clear
+1235,Black Gram (Urd Beans),Dahod,2017-03-03,5300.0,17.0,31.2,clear
+1236,Green Gram (Moong),Dahod,2017-03-03,4200.0,0.0,31.2,clear
+1237,Arhar (Tur/Red Gram),Dahod,2017-04-03,3775.0,76.1,37.6,clear
+1238,Bengal Gram(Gram),Dahod,2017-04-03,4787.5,38.6,37.6,clear
+1239,Black Gram (Urd Beans),Dahod,2017-04-03,5000.0,6.6,37.6,clear
+1240,Green Gram (Moong),Dahod,2017-04-03,4200.0,2.3,37.6,clear
+1241,Arhar (Tur/Red Gram),Dahod,2017-06-03,3700.0,175.0,40.6,clear
+1242,Bengal Gram(Gram),Dahod,2017-06-03,4762.5,126.5,40.6,clear
+1243,Black Gram (Urd Beans),Dahod,2017-06-03,5000.0,22.3,40.6,clear
+1244,Green Gram (Moong),Dahod,2017-06-03,4200.0,0.0,40.6,clear
+1245,Arhar (Tur/Red Gram),Dahod,2017-07-03,3625.0,138.7,25.2,clear
+1246,Bengal Gram(Gram),Dahod,2017-07-03,4937.5,83.4,25.2,clear
+1247,Black Gram (Urd Beans),Dahod,2017-07-03,5000.0,8.6,25.2,clear
+1248,Green Gram (Moong),Dahod,2017-07-03,4200.0,0.0,25.2,clear
+1249,Arhar (Tur/Red Gram),Dahod,2017-08-03,3750.0,123.9,27.2,clear
+1250,Bengal Gram(Gram),Dahod,2017-08-03,5160.0,111.9,27.2,clear
+1251,Black Gram (Urd Beans),Dahod,2017-08-03,5000.0,2.0,27.2,clear
+1252,Green Gram (Moong),Dahod,2017-08-03,4200.0,0.2,27.2,clear
+1253,Arhar (Tur/Red Gram),Dahod,2017-09-03,3825.0,53.9,25.2,rain
+1254,Bengal Gram(Gram),Dahod,2017-09-03,4990.5,98.2,25.2,rain
+1255,Black Gram (Urd Beans),Dahod,2017-09-03,5600.0,8.4,25.2,rain
+1256,Green Gram (Moong),Dahod,2017-09-03,4100.0,0.0,25.2,rain
+1257,Arhar (Tur/Red Gram),Dahod,2017-10-03,3875.0,85.3,25.6,clear
+1258,Bengal Gram(Gram),Dahod,2017-10-03,4945.0,147.7,25.6,clear
+1259,Black Gram (Urd Beans),Dahod,2017-10-03,5400.0,27.9,25.6,clear
+1260,Green Gram (Moong),Dahod,2017-10-03,4100.0,0.5,25.6,clear
+1261,Arhar (Tur/Red Gram),Dahod,2017-11-03,3775.0,114.0,28.2,clear
+1262,Bengal Gram(Gram),Dahod,2017-11-03,5000.0,182.4,28.2,clear
+1263,Black Gram (Urd Beans),Dahod,2017-11-03,5200.0,16.9,28.2,clear
+1264,Green Gram (Moong),Dahod,2017-11-03,4100.0,0.0,28.2,clear
+1265,Arhar (Tur/Red Gram),Dahod,2017-03-14,3800.0,20.5,19.2,clear
+1266,Bengal Gram(Gram),Dahod,2017-03-14,5000.0,130.0,19.2,clear
+1267,Black Gram (Urd Beans),Dahod,2017-03-14,5200.0,14.4,19.2,clear
+1268,Green Gram (Moong),Dahod,2017-03-14,4100.0,0.0,19.2,clear
+1269,Arhar (Tur/Red Gram),Dahod,2017-03-15,3910.0,15.7,32.2,clear
+1270,Bengal Gram(Gram),Dahod,2017-03-15,4907.5,23.8,32.2,clear
+1271,Black Gram (Urd Beans),Dahod,2017-03-15,5200.0,0.1,32.2,clear
+1272,Green Gram (Moong),Dahod,2017-03-15,4100.0,0.0,32.2,clear
+1273,Arhar (Tur/Red Gram),Dahod,2017-03-16,3900.0,37.6,33.2,clear
+1274,Bengal Gram(Gram),Dahod,2017-03-16,4770.0,108.9,33.2,clear
+1275,Black Gram (Urd Beans),Dahod,2017-03-16,5500.0,15.0,33.2,clear
+1276,Green Gram (Moong),Dahod,2017-03-16,4100.0,0.6,33.2,clear
+1277,Arhar (Tur/Red Gram),Dahod,2017-03-17,3800.0,45.3,33.2,clear
+1278,Bengal Gram(Gram),Dahod,2017-03-17,4880.0,171.0,33.2,clear
+1279,Black Gram (Urd Beans),Dahod,2017-03-17,5600.0,26.8,33.2,clear
+1280,Green Gram (Moong),Dahod,2017-03-17,4100.0,0.0,33.2,clear
+1281,Arhar (Tur/Red Gram),Dahod,2017-03-18,3850.0,144.9,33.2,clear
+1282,Bengal Gram(Gram),Dahod,2017-03-18,5010.0,113.5,33.2,clear
+1283,Black Gram (Urd Beans),Dahod,2017-03-18,5700.0,13.7,33.2,clear
+1284,Green Gram (Moong),Dahod,2017-03-18,4100.0,0.0,33.2,clear
+1285,Arhar (Tur/Red Gram),Dahod,2017-03-20,3500.0,161.6,33.2,clear
+1286,Bengal Gram(Gram),Dahod,2017-03-20,5170.0,116.4,33.2,clear
+1287,Black Gram (Urd Beans),Dahod,2017-03-20,5300.0,6.9,33.2,clear
+1288,Green Gram (Moong),Dahod,2017-03-20,4100.0,2.5,33.2,clear
+1289,Arhar (Tur/Red Gram),Dahod,2017-03-22,3925.0,104.5,24.2,clear
+1290,Bengal Gram(Gram),Dahod,2017-03-22,5550.0,155.3,24.2,clear
+1291,Black Gram (Urd Beans),Dahod,2017-03-22,5600.0,17.3,24.2,clear
+1292,Green Gram (Moong),Dahod,2017-03-22,4100.0,1.1,24.2,clear
+1293,Arhar (Tur/Red Gram),Dahod,2017-03-23,4157.5,196.8,37.2,clear
+1294,Bengal Gram(Gram),Dahod,2017-03-23,5720.0,198.8,37.2,clear
+1295,Black Gram (Urd Beans),Dahod,2017-03-23,6000.0,15.5,37.2,clear
+1296,Green Gram (Moong),Dahod,2017-03-23,4050.0,1.1,37.2,clear
+1297,Arhar (Tur/Red Gram),Dahod,2017-03-24,4000.0,139.4,37.2,clear
+1298,Bengal Gram(Gram),Dahod,2017-03-24,5730.0,145.5,37.2,clear
+1299,Black Gram (Urd Beans),Dahod,2017-03-24,5800.0,29.2,37.2,clear
+1300,Green Gram (Moong),Dahod,2017-03-24,4100.0,0.5,37.2,clear
+1301,Arhar (Tur/Red Gram),Dahod,2017-03-25,3975.0,177.3,37.2,clear
+1302,Bengal Gram(Gram),Dahod,2017-03-25,5740.0,157.3,37.2,clear
+1303,Black Gram (Urd Beans),Dahod,2017-03-25,5800.0,36.6,37.2,clear
+1304,Green Gram (Moong),Dahod,2017-03-25,4100.0,0.0,37.2,clear
+1305,Arhar (Tur/Red Gram),Dahod,2017-03-27,3975.0,145.0,38.6,clear
+1306,Bengal Gram(Gram),Dahod,2017-03-27,5545.0,231.5,38.6,clear
+1307,Black Gram (Urd Beans),Dahod,2017-03-27,5500.0,35.6,38.6,clear
+1308,Green Gram (Moong),Dahod,2017-03-27,4600.0,0.0,38.6,clear
+1309,Arhar (Tur/Red Gram),Dahod,2017-03-28,3987.5,216.9,39.2,clear
+1310,Bengal Gram(Gram),Dahod,2017-03-28,5512.5,186.7,39.2,clear
+1311,Black Gram (Urd Beans),Dahod,2017-03-28,5500.0,8.6,39.2,clear
+1312,Green Gram (Moong),Dahod,2017-03-28,4700.0,0.0,39.2,clear
+1313,Arhar (Tur/Red Gram),Dahod,2017-03-29,4000.0,115.4,39.2,clear
+1314,Bengal Gram(Gram),Dahod,2017-03-29,5600.0,115.5,39.2,clear
+1315,Black Gram (Urd Beans),Dahod,2017-03-29,5400.0,5.7,39.2,clear
+1316,Arhar (Tur/Red Gram),Dahod,2017-03-30,4050.0,214.1,38.6,clear
+1317,Bengal Gram(Gram),Dahod,2017-03-30,5680.0,121.9,38.6,clear
+1318,Black Gram (Urd Beans),Dahod,2017-03-30,5600.0,0.6,38.6,clear
+1319,Green Gram (Moong),Dahod,2017-03-30,4700.0,0.0,38.6,clear
+1320,Arhar (Tur/Red Gram),Dahod,2017-03-31,4075.0,181.7,39.2,clear
+1321,Bengal Gram(Gram),Dahod,2017-03-31,5805.0,132.5,39.2,clear
+1322,Black Gram (Urd Beans),Dahod,2017-03-31,5600.0,4.6,39.2,clear
+1323,Arhar (Tur/Red Gram),Dahod,2017-01-04,4050.0,103.5,24.2,clear
+1324,Bengal Gram(Gram),Dahod,2017-01-04,5817.5,146.2,24.2,clear
+1325,Black Gram (Urd Beans),Dahod,2017-01-04,5500.0,9.9,24.2,clear
+1326,Arhar (Tur/Red Gram),Dahod,2017-03-04,3850.0,133.7,29.2,clear
+1327,Bengal Gram(Gram),Dahod,2017-03-04,5770.0,222.2,29.2,clear
+1328,Black Gram (Urd Beans),Dahod,2017-03-04,5800.0,7.8,29.2,clear
+1329,Arhar (Tur/Red Gram),Dahod,2017-04-04,3600.0,174.1,36.2,clear
+1330,Bengal Gram(Gram),Dahod,2017-04-04,5760.0,313.4,36.2,clear
+1331,Black Gram (Urd Beans),Dahod,2017-04-04,5450.0,12.9,36.2,clear
+1332,Arhar (Tur/Red Gram),Dahod,2017-05-04,3712.5,174.5,40.2,clear
+1333,Bengal Gram(Gram),Dahod,2017-05-04,5830.0,224.4,40.2,clear
+1334,Black Gram (Urd Beans),Dahod,2017-05-04,5400.0,0.8,40.2,clear
+1335,Green Gram (Moong),Dahod,2017-05-04,4600.0,0.0,40.2,clear
+1336,Arhar (Tur/Red Gram),Dahod,2017-06-04,3800.0,171.9,38.2,clear
+1337,Bengal Gram(Gram),Dahod,2017-06-04,5750.0,207.2,38.2,clear
+1338,Black Gram (Urd Beans),Dahod,2017-06-04,5300.0,7.3,38.2,clear
+1339,Arhar (Tur/Red Gram),Dahod,2017-07-04,3800.0,110.1,28.2,clear
+1340,Bengal Gram(Gram),Dahod,2017-07-04,5667.5,224.0,28.2,clear
+1341,Black Gram (Urd Beans),Dahod,2017-07-04,5400.0,6.1,28.2,clear
+1342,Arhar (Tur/Red Gram),Dahod,2017-08-04,3850.0,107.2,28.2,clear
+1343,Bengal Gram(Gram),Dahod,2017-08-04,5437.5,141.6,28.2,clear
+1344,Black Gram (Urd Beans),Dahod,2017-08-04,5400.0,10.2,28.2,clear
+1345,Arhar (Tur/Red Gram),Dahod,2017-10-04,3850.0,66.7,33.2,clear
+1346,Bengal Gram(Gram),Dahod,2017-10-04,5450.0,205.5,33.2,clear
+1347,Black Gram (Urd Beans),Dahod,2017-10-04,5350.0,10.0,33.2,clear
+1348,Arhar (Tur/Red Gram),Dahod,2017-11-04,3700.0,206.7,28.2,clear
+1349,Bengal Gram(Gram),Dahod,2017-11-04,5467.5,96.4,28.2,clear
+1350,Black Gram (Urd Beans),Dahod,2017-11-04,5200.0,5.7,28.2,clear
+1351,Arhar (Tur/Red Gram),Dahod,2017-12-04,3775.0,132.5,22.2,clear
+1352,Bengal Gram(Gram),Dahod,2017-12-04,5632.5,61.4,22.2,clear
+1353,Black Gram (Urd Beans),Dahod,2017-12-04,4900.0,14.1,22.2,clear
+1354,Arhar (Tur/Red Gram),Dahod,2017-04-13,3737.5,134.8,40.2,clear
+1355,Bengal Gram(Gram),Dahod,2017-04-13,5782.5,79.5,40.2,clear
+1356,Black Gram (Urd Beans),Dahod,2017-04-13,5400.0,6.6,40.2,clear
+1357,Arhar (Tur/Red Gram),Dahod,2017-04-14,3750.0,0.0,41.6,clear
+1358,Bengal Gram(Gram),Dahod,2017-04-14,5767.5,0.0,41.6,clear
+1359,Black Gram (Urd Beans),Dahod,2017-04-14,5600.0,0.0,41.6,clear
+1360,Green Gram (Moong),Dahod,2017-04-14,4700.0,0.0,41.6,clear
+1361,Arhar (Tur/Red Gram),Dahod,2017-04-15,3650.0,277.5,40.2,clear
+1362,Bengal Gram(Gram),Dahod,2017-04-15,5777.5,341.4,40.2,clear
+1363,Black Gram (Urd Beans),Dahod,2017-04-15,5600.0,38.2,40.2,clear
+1364,Arhar (Tur/Red Gram),Dahod,2017-04-17,3575.0,154.8,28.6,clear
+1365,Bengal Gram(Gram),Dahod,2017-04-17,5655.0,307.6,28.6,clear
+1366,Black Gram (Urd Beans),Dahod,2017-04-17,5600.0,26.4,28.6,clear
+1367,Arhar (Tur/Red Gram),Dahod,2017-04-18,3412.5,127.8,39.2,clear
+1368,Bengal Gram(Gram),Dahod,2017-04-18,5697.5,130.8,39.2,clear
+1369,Black Gram (Urd Beans),Dahod,2017-04-18,5000.0,19.5,39.2,clear
+1370,Green Gram (Moong),Dahod,2017-04-18,4700.0,2.6,39.2,clear
+1371,Arhar (Tur/Red Gram),Dahod,2017-04-19,3650.0,90.9,38.2,clear
+1372,Bengal Gram(Gram),Dahod,2017-04-19,5655.0,124.8,38.2,clear
+1373,Black Gram (Urd Beans),Dahod,2017-04-19,5600.0,5.7,38.2,clear
+1374,Green Gram (Moong),Dahod,2017-04-19,4700.0,0.0,38.2,clear
+1375,Arhar (Tur/Red Gram),Dahod,2017-04-20,3450.0,62.0,38.2,clear
+1376,Bengal Gram(Gram),Dahod,2017-04-20,5657.5,179.9,38.2,clear
+1377,Black Gram (Urd Beans),Dahod,2017-04-20,5100.0,16.5,38.2,clear
+1378,Green Gram (Moong),Dahod,2017-04-20,4700.0,0.0,38.2,clear
+1379,Arhar (Tur/Red Gram),Dahod,2017-04-21,3475.0,88.6,38.2,clear
+1380,Bengal Gram(Gram),Dahod,2017-04-21,5550.0,149.3,38.2,clear
+1381,Black Gram (Urd Beans),Dahod,2017-04-21,5000.0,6.2,38.2,clear
+1382,Arhar (Tur/Red Gram),Dahod,2017-04-22,3475.0,65.7,35.6,clear
+1383,Bengal Gram(Gram),Dahod,2017-04-22,5557.5,83.4,35.6,clear
+1384,Black Gram (Urd Beans),Dahod,2017-04-22,5200.0,2.0,35.6,clear
+1385,Arhar (Tur/Red Gram),Dahod,2017-04-24,3525.0,141.3,34.2,clear
+1386,Bengal Gram(Gram),Dahod,2017-04-24,5485.0,192.0,34.2,clear
+1387,Black Gram (Urd Beans),Dahod,2017-04-24,5000.0,6.1,34.2,clear
+1388,Arhar (Tur/Red Gram),Dahod,2017-04-26,3450.0,114.8,36.2,clear
+1389,Bengal Gram(Gram),Dahod,2017-04-26,5500.0,96.4,36.2,clear
+1390,Black Gram (Urd Beans),Dahod,2017-04-26,5200.0,2.5,36.2,clear
+1391,Arhar (Tur/Red Gram),Dahod,2017-04-27,3412.5,86.0,38.2,clear
+1392,Bengal Gram(Gram),Dahod,2017-04-27,5570.0,141.8,38.2,clear
+1393,Black Gram (Urd Beans),Dahod,2017-04-27,5200.0,2.5,38.2,clear
+1394,Arhar (Tur/Red Gram),Dahod,2017-04-28,3300.0,0.0,38.2,clear
+1395,Bengal Gram(Gram),Dahod,2017-04-28,5535.0,0.0,38.2,clear
+1396,Black Gram (Urd Beans),Dahod,2017-04-28,5200.0,0.0,38.2,clear
+1397,Arhar (Tur/Red Gram),Dahod,2017-04-29,3250.0,173.5,38.2,clear
+1398,Bengal Gram(Gram),Dahod,2017-04-29,5495.0,458.4,38.2,clear
+1399,Black Gram (Urd Beans),Dahod,2017-04-29,5200.0,44.2,38.2,clear
+1400,Arhar (Tur/Red Gram),Dahod,2017-01-05,3350.0,61.1,24.2,clear
+1401,Bengal Gram(Gram),Dahod,2017-01-05,5475.0,117.0,24.2,clear
+1402,Black Gram (Urd Beans),Dahod,2017-01-05,5250.0,10.5,24.2,clear
+1403,Arhar (Tur/Red Gram),Dahod,2017-02-05,3375.0,91.0,25.2,clear
+1404,Bengal Gram(Gram),Dahod,2017-02-05,5470.0,77.2,25.2,clear
+1405,Black Gram (Urd Beans),Dahod,2017-02-05,4800.0,10.6,25.2,clear
+1406,Arhar (Tur/Red Gram),Dahod,2017-03-05,3275.0,72.5,29.2,clear
+1407,Bengal Gram(Gram),Dahod,2017-03-05,5460.0,151.8,29.2,clear
+1408,Black Gram (Urd Beans),Dahod,2017-03-05,5000.0,0.0,29.2,clear
+1409,Arhar (Tur/Red Gram),Dahod,2017-05-05,3312.5,153.2,40.2,clear
+1410,Bengal Gram(Gram),Dahod,2017-05-05,5375.0,124.4,40.2,clear
+1411,Black Gram (Urd Beans),Dahod,2017-05-05,4850.0,11.9,40.2,clear
+1412,Arhar (Tur/Red Gram),Dahod,2017-06-05,3337.5,82.0,38.2,clear
+1413,Bengal Gram(Gram),Dahod,2017-06-05,5327.5,143.4,38.2,clear
+1414,Black Gram (Urd Beans),Dahod,2017-06-05,5000.0,11.1,38.2,clear
+1415,Green Gram (Moong),Dahod,2017-06-05,5000.0,0.0,38.2,clear
+1416,Arhar (Tur/Red Gram),Dahod,2017-08-05,3100.0,68.3,28.2,clear
+1417,Bengal Gram(Gram),Dahod,2017-08-05,5280.0,108.8,28.2,clear
+1418,Black Gram (Urd Beans),Dahod,2017-08-05,5000.0,10.8,28.2,clear
+1419,Green Gram (Moong),Dahod,2017-08-05,4500.0,0.1,28.2,clear
+1420,Arhar (Tur/Red Gram),Dahod,2017-09-05,3365.0,97.9,28.2,clear
+1421,Bengal Gram(Gram),Dahod,2017-09-05,5307.5,95.1,28.2,clear
+1422,Black Gram (Urd Beans),Dahod,2017-09-05,5150.0,9.6,28.2,clear
+1423,Green Gram (Moong),Dahod,2017-09-05,4575.0,0.3,28.2,clear
+1424,Arhar (Tur/Red Gram),Dahod,2017-10-05,3450.0,46.4,33.2,clear
+1425,Bengal Gram(Gram),Dahod,2017-10-05,5502.5,37.0,33.2,clear
+1426,Black Gram (Urd Beans),Dahod,2017-10-05,5000.0,8.6,33.2,clear
+1427,Green Gram (Moong),Dahod,2017-10-05,4600.0,10.3,33.2,clear
+1428,Arhar (Tur/Red Gram),Dahod,2017-11-05,3450.0,50.2,20.2,clear
+1429,Bengal Gram(Gram),Dahod,2017-11-05,5505.0,65.4,20.2,clear
+1430,Black Gram (Urd Beans),Dahod,2017-11-05,5000.0,2.6,20.2,clear
+1431,Green Gram (Moong),Dahod,2017-11-05,4700.0,1.8,20.2,clear
+1432,Arhar (Tur/Red Gram),Dahod,2017-12-05,3500.0,71.2,16.2,clear
+1433,Bengal Gram(Gram),Dahod,2017-12-05,5572.5,61.6,16.2,clear
+1434,Black Gram (Urd Beans),Dahod,2017-12-05,5200.0,1.0,16.2,clear
+1435,Green Gram (Moong),Dahod,2017-12-05,4500.0,1.9,16.2,clear
+1436,Arhar (Tur/Red Gram),Dahod,2017-05-17,3550.0,69.6,38.2,clear
+1437,Bengal Gram(Gram),Dahod,2017-05-17,5609.5,155.3,38.2,clear
+1438,Black Gram (Urd Beans),Dahod,2017-05-17,5500.0,13.0,38.2,clear
+1439,Green Gram (Moong),Dahod,2017-05-17,4900.0,6.0,38.2,clear
+1440,Arhar (Tur/Red Gram),Dahod,2017-05-18,3525.0,41.0,39.0,clear
+1441,Bengal Gram(Gram),Dahod,2017-05-18,5565.0,120.9,39.0,clear
+1442,Black Gram (Urd Beans),Dahod,2017-05-18,5400.0,8.0,39.0,clear
+1443,Green Gram (Moong),Dahod,2017-05-18,4800.0,0.5,39.0,clear
+1444,Arhar (Tur/Red Gram),Dahod,2017-05-19,3425.0,67.3,40.2,clear
+1445,Bengal Gram(Gram),Dahod,2017-05-19,5497.5,126.8,40.2,clear
+1446,Black Gram (Urd Beans),Dahod,2017-05-19,5600.0,19.3,40.2,clear
+1447,Green Gram (Moong),Dahod,2017-05-19,4850.0,5.2,40.2,clear
+1448,Arhar (Tur/Red Gram),Dahod,2017-05-20,3425.0,78.3,39.2,clear
+1449,Bengal Gram(Gram),Dahod,2017-05-20,5440.0,95.6,39.2,clear
+1450,Black Gram (Urd Beans),Dahod,2017-05-20,5500.0,11.3,39.2,clear
+1451,Green Gram (Moong),Dahod,2017-05-20,4700.0,13.5,39.2,clear
+1452,Arhar (Tur/Red Gram),Dahod,2017-05-22,3400.0,74.4,38.2,clear
+1453,Bengal Gram(Gram),Dahod,2017-05-22,5455.0,104.0,38.2,clear
+1454,Black Gram (Urd Beans),Dahod,2017-05-22,5500.0,10.7,38.2,clear
+1455,Green Gram (Moong),Dahod,2017-05-22,4600.0,33.3,38.2,clear
+1456,Arhar (Tur/Red Gram),Dahod,2017-05-23,3375.0,98.7,39.6,clear
+1457,Bengal Gram(Gram),Dahod,2017-05-23,5435.0,84.1,39.6,clear
+1458,Black Gram (Urd Beans),Dahod,2017-05-23,5100.0,14.9,39.6,clear
+1459,Green Gram (Moong),Dahod,2017-05-23,4550.0,17.9,39.6,clear
+1460,Arhar (Tur/Red Gram),Dahod,2017-05-24,3300.0,88.4,40.2,clear
+1461,Bengal Gram(Gram),Dahod,2017-05-24,5430.5,124.4,40.2,clear
+1462,Black Gram (Urd Beans),Dahod,2017-05-24,4850.0,8.7,40.2,clear
+1463,Green Gram (Moong),Dahod,2017-05-24,4500.0,15.5,40.2,clear
+1464,Arhar (Tur/Red Gram),Dahod,2017-05-25,3250.0,86.2,40.2,clear
+1465,Bengal Gram(Gram),Dahod,2017-05-25,5425.0,20.6,40.2,clear
+1466,Black Gram (Urd Beans),Dahod,2017-05-25,5000.0,1.0,40.2,clear
+1467,Green Gram (Moong),Dahod,2017-05-25,4450.0,21.8,40.2,clear
+1468,Arhar (Tur/Red Gram),Dahod,2017-05-26,3250.0,55.9,40.2,clear
+1469,Bengal Gram(Gram),Dahod,2017-05-26,5405.5,121.7,40.2,clear
+1470,Black Gram (Urd Beans),Dahod,2017-05-26,4500.0,6.9,40.2,clear
+1471,Green Gram (Moong),Dahod,2017-05-26,4450.0,6.9,40.2,clear
+1472,Arhar (Tur/Red Gram),Dahod,2017-05-27,3300.0,24.9,39.2,clear
+1473,Bengal Gram(Gram),Dahod,2017-05-27,5330.0,80.6,39.2,clear
+1474,Black Gram (Urd Beans),Dahod,2017-05-27,4400.0,11.7,39.2,clear
+1475,Green Gram (Moong),Dahod,2017-05-27,4400.0,3.9,39.2,clear
+1476,Arhar (Tur/Red Gram),Dahod,2017-05-29,3287.5,35.5,37.2,clear
+1477,Bengal Gram(Gram),Dahod,2017-05-29,5212.5,66.4,37.2,clear
+1478,Black Gram (Urd Beans),Dahod,2017-05-29,4500.0,5.8,37.2,clear
+1479,Green Gram (Moong),Dahod,2017-05-29,4250.0,25.4,37.2,clear
+1480,Arhar (Tur/Red Gram),Dahod,2017-05-30,3250.0,36.3,27.2,clear
+1481,Bengal Gram(Gram),Dahod,2017-05-30,5175.0,117.6,27.2,clear
+1482,Black Gram (Urd Beans),Dahod,2017-05-30,4700.0,0.2,27.2,clear
+1483,Green Gram (Moong),Dahod,2017-05-30,4250.0,48.7,27.2,clear
+1484,Arhar (Tur/Red Gram),Dahod,2017-05-31,3200.0,55.3,39.2,clear
+1485,Bengal Gram(Gram),Dahod,2017-05-31,5132.5,132.2,39.2,clear
+1486,Black Gram (Urd Beans),Dahod,2017-05-31,4500.0,8.7,39.2,clear
+1487,Green Gram (Moong),Dahod,2017-05-31,4100.0,79.1,39.2,clear
+1488,Arhar (Tur/Red Gram),Dahod,2017-01-06,3250.0,31.3,24.2,clear
+1489,Bengal Gram(Gram),Dahod,2017-01-06,4982.5,114.3,24.2,clear
+1490,Black Gram (Urd Beans),Dahod,2017-01-06,4600.0,6.0,24.2,clear
+1491,Green Gram (Moong),Dahod,2017-01-06,4100.0,37.7,24.2,clear
+1492,Arhar (Tur/Red Gram),Dahod,2017-02-06,3225.0,20.9,23.2,clear
+1493,Bengal Gram(Gram),Dahod,2017-02-06,4987.5,50.8,23.2,clear
+1494,Black Gram (Urd Beans),Dahod,2017-02-06,4600.0,0.8,23.2,clear
+1495,Green Gram (Moong),Dahod,2017-02-06,4200.0,26.0,23.2,clear
+1496,Arhar (Tur/Red Gram),Dahod,2017-03-06,3175.0,14.5,30.2,clear
+1497,Bengal Gram(Gram),Dahod,2017-03-06,5062.5,114.7,30.2,clear
+1498,Black Gram (Urd Beans),Dahod,2017-03-06,4550.0,5.4,30.2,clear
+1499,Green Gram (Moong),Dahod,2017-03-06,4125.0,52.7,30.2,clear
+1500,Arhar (Tur/Red Gram),Dahod,2017-05-06,3200.0,15.9,41.2,clear
+1501,Bengal Gram(Gram),Dahod,2017-05-06,4985.0,34.3,41.2,clear
+1502,Black Gram (Urd Beans),Dahod,2017-05-06,4400.0,4.0,41.2,clear
+1503,Green Gram (Moong),Dahod,2017-05-06,4000.0,37.9,41.2,clear
+1504,Arhar (Tur/Red Gram),Dahod,2017-06-06,3200.0,34.8,37.2,clear
+1505,Bengal Gram(Gram),Dahod,2017-06-06,5032.5,31.7,37.2,clear
+1506,Black Gram (Urd Beans),Dahod,2017-06-06,4300.0,1.4,37.2,clear
+1507,Green Gram (Moong),Dahod,2017-06-06,4100.0,48.1,37.2,clear
+1508,Arhar (Tur/Red Gram),Dahod,2017-07-06,3262.5,20.6,26.2,clear
+1509,Bengal Gram(Gram),Dahod,2017-07-06,5057.5,59.3,26.2,clear
+1510,Black Gram (Urd Beans),Dahod,2017-07-06,4350.0,0.6,26.2,clear
+1511,Green Gram (Moong),Dahod,2017-07-06,4000.0,49.3,26.2,clear
+1512,Arhar (Tur/Red Gram),Dahod,2017-08-06,3275.0,26.9,29.2,clear
+1513,Bengal Gram(Gram),Dahod,2017-08-06,5207.5,49.5,29.2,clear
+1514,Black Gram (Urd Beans),Dahod,2017-08-06,4500.0,0.6,29.2,clear
+1515,Green Gram (Moong),Dahod,2017-08-06,4050.0,19.0,29.2,clear
+1516,Arhar (Tur/Red Gram),Dahod,2017-09-06,3287.5,27.1,28.2,clear
+1517,Bengal Gram(Gram),Dahod,2017-09-06,5147.5,29.6,28.2,clear
+1518,Black Gram (Urd Beans),Dahod,2017-09-06,4500.0,0.3,28.2,clear
+1519,Green Gram (Moong),Dahod,2017-09-06,4250.0,14.3,28.2,clear
+1520,Arhar (Tur/Red Gram),Dahod,2017-12-06,3245.0,55.5,15.2,clear
+1521,Bengal Gram(Gram),Dahod,2017-12-06,5270.0,71.7,15.2,clear
+1522,Black Gram (Urd Beans),Dahod,2017-12-06,4700.0,6.6,15.2,clear
+1523,Green Gram (Moong),Dahod,2017-12-06,4200.0,25.9,15.2,clear
+1524,Arhar (Tur/Red Gram),Dahod,2017-06-13,3280.0,20.9,35.2,clear
+1525,Bengal Gram(Gram),Dahod,2017-06-13,5307.5,163.9,35.2,clear
+1526,Black Gram (Urd Beans),Dahod,2017-06-13,4400.0,5.3,35.2,clear
+1527,Green Gram (Moong),Dahod,2017-06-13,4000.0,49.4,35.2,clear
+1528,Arhar (Tur/Red Gram),Dahod,2017-06-14,3225.0,39.1,35.2,clear
+1529,Bengal Gram(Gram),Dahod,2017-06-14,5307.5,42.8,35.2,clear
+1530,Black Gram (Urd Beans),Dahod,2017-06-14,4700.0,12.4,35.2,clear
+1531,Green Gram (Moong),Dahod,2017-06-14,4050.0,10.5,35.2,clear
+1532,Arhar (Tur/Red Gram),Dahod,2017-06-16,3225.0,38.3,35.6,clear
+1533,Bengal Gram(Gram),Dahod,2017-06-16,5230.0,136.5,35.6,clear
+1534,Black Gram (Urd Beans),Dahod,2017-06-16,4700.0,2.3,35.6,clear
+1535,Green Gram (Moong),Dahod,2017-06-16,4050.0,20.4,35.6,clear
+1536,Arhar (Tur/Red Gram),Dahod,2017-06-17,3150.0,37.9,36.2,clear
+1537,Bengal Gram(Gram),Dahod,2017-06-17,5235.0,102.3,36.2,clear
+1538,Black Gram (Urd Beans),Dahod,2017-06-17,4800.0,5.2,36.2,clear
+1539,Green Gram (Moong),Dahod,2017-06-17,4250.0,43.8,36.2,clear
+1540,Arhar (Tur/Red Gram),Dahod,2017-06-19,3275.0,44.2,35.2,clear
+1541,Bengal Gram(Gram),Dahod,2017-06-19,5172.5,30.6,35.2,clear
+1542,Black Gram (Urd Beans),Dahod,2017-06-19,4800.0,11.8,35.2,clear
+1543,Green Gram (Moong),Dahod,2017-06-19,4300.0,35.6,35.2,clear
+1544,Arhar (Tur/Red Gram),Dahod,2017-06-20,3250.0,68.6,29.2,clear
+1545,Bengal Gram(Gram),Dahod,2017-06-20,5120.0,106.4,29.2,clear
+1546,Black Gram (Urd Beans),Dahod,2017-06-20,4650.0,17.7,29.2,clear
+1547,Green Gram (Moong),Dahod,2017-06-20,4300.0,57.5,29.2,clear
+1548,Arhar (Tur/Red Gram),Dahod,2017-06-21,3112.5,47.3,34.2,clear
+1549,Bengal Gram(Gram),Dahod,2017-06-21,5075.0,62.4,34.2,clear
+1550,Black Gram (Urd Beans),Dahod,2017-06-21,4750.0,3.6,34.2,clear
+1551,Green Gram (Moong),Dahod,2017-06-21,4350.0,18.2,34.2,clear
+1552,Arhar (Tur/Red Gram),Dahod,2017-06-22,3137.5,88.1,24.2,clear
+1553,Bengal Gram(Gram),Dahod,2017-06-22,5007.5,45.5,24.2,clear
+1554,Black Gram (Urd Beans),Dahod,2017-06-22,4600.0,6.1,24.2,clear
+1555,Green Gram (Moong),Dahod,2017-06-22,4300.0,44.7,24.2,clear
+1556,Arhar (Tur/Red Gram),Dahod,2017-06-23,3025.0,32.1,34.2,clear
+1557,Bengal Gram(Gram),Dahod,2017-06-23,4997.5,61.7,34.2,clear
+1558,Black Gram (Urd Beans),Dahod,2017-06-23,4650.0,3.5,34.2,clear
+1559,Green Gram (Moong),Dahod,2017-06-23,4050.0,27.7,34.2,clear
+1560,Arhar (Tur/Red Gram),Dahod,2017-06-24,3050.0,44.4,34.2,clear
+1561,Bengal Gram(Gram),Dahod,2017-06-24,4990.0,42.7,34.2,clear
+1562,Black Gram (Urd Beans),Dahod,2017-06-24,4300.0,1.8,34.2,clear
+1563,Green Gram (Moong),Dahod,2017-06-24,4200.0,18.8,34.2,clear
+1564,Arhar (Tur/Red Gram),Dahod,2017-06-26,3050.0,0.0,31.2,clear
+1565,Bengal Gram(Gram),Dahod,2017-06-26,5115.0,0.0,31.2,clear
+1566,Black Gram (Urd Beans),Dahod,2017-06-26,4100.0,0.0,31.2,clear
+1567,Green Gram (Moong),Dahod,2017-06-26,4200.0,0.0,31.2,clear
+1568,Arhar (Tur/Red Gram),Dahod,2017-06-27,3150.0,38.9,31.2,clear
+1569,Bengal Gram(Gram),Dahod,2017-06-27,5147.5,27.8,31.2,clear
+1570,Black Gram (Urd Beans),Dahod,2017-06-27,4000.0,5.0,31.2,clear
+1571,Green Gram (Moong),Dahod,2017-06-27,4300.0,38.4,31.2,clear
+1572,Arhar (Tur/Red Gram),Dahod,2017-06-28,3125.0,41.2,32.2,clear
+1573,Bengal Gram(Gram),Dahod,2017-06-28,5180.0,34.4,32.2,clear
+1574,Black Gram (Urd Beans),Dahod,2017-06-28,4150.0,10.5,32.2,clear
+1575,Green Gram (Moong),Dahod,2017-06-28,4200.0,5.5,32.2,clear
+1576,Arhar (Tur/Red Gram),Dahod,2017-06-29,3175.0,45.2,33.2,clear
+1577,Bengal Gram(Gram),Dahod,2017-06-29,5240.0,75.6,33.2,clear
+1578,Black Gram (Urd Beans),Dahod,2017-06-29,4300.0,2.2,33.2,clear
+1579,Green Gram (Moong),Dahod,2017-06-29,4250.0,13.5,33.2,clear
+1580,Arhar (Tur/Red Gram),Dahod,2017-01-07,3225.0,16.9,23.2,clear
+1581,Bengal Gram(Gram),Dahod,2017-01-07,5187.5,57.8,23.2,clear
+1582,Black Gram (Urd Beans),Dahod,2017-01-07,4000.0,0.2,23.2,clear
+1583,Green Gram (Moong),Dahod,2017-01-07,4200.0,6.5,23.2,clear
+1584,Arhar (Tur/Red Gram),Dahod,2017-05-07,3150.0,28.9,40.2,clear
+1585,Bengal Gram(Gram),Dahod,2017-05-07,5322.5,78.0,40.2,clear
+1586,Black Gram (Urd Beans),Dahod,2017-05-07,4100.0,3.4,40.2,clear
+1587,Green Gram (Moong),Dahod,2017-05-07,4250.0,1.3,40.2,clear
+1588,Arhar (Tur/Red Gram),Dahod,2017-06-07,3250.0,63.5,37.2,clear
+1589,Bengal Gram(Gram),Dahod,2017-06-07,5280.0,32.8,37.2,clear
+1590,Black Gram (Urd Beans),Dahod,2017-06-07,4050.0,9.0,37.2,clear
+1591,Green Gram (Moong),Dahod,2017-06-07,4250.0,5.6,37.2,clear
+1592,Arhar (Tur/Red Gram),Dahod,2017-07-07,3275.0,30.2,32.2,clear
+1593,Bengal Gram(Gram),Dahod,2017-07-07,5300.0,93.0,32.2,clear
+1594,Black Gram (Urd Beans),Dahod,2017-07-07,4000.0,2.4,32.2,clear
+1595,Green Gram (Moong),Dahod,2017-07-07,4100.0,8.1,32.2,clear
+1596,Arhar (Tur/Red Gram),Dahod,2017-08-07,3237.5,27.2,28.2,clear
+1597,Bengal Gram(Gram),Dahod,2017-08-07,5280.0,126.8,28.2,clear
+1598,Black Gram (Urd Beans),Dahod,2017-08-07,4100.0,4.8,28.2,clear
+1599,Green Gram (Moong),Dahod,2017-08-07,4300.0,4.9,28.2,clear
+1600,Arhar (Tur/Red Gram),Dahod,2017-10-07,3350.0,44.6,33.2,clear
+1601,Bengal Gram(Gram),Dahod,2017-10-07,5280.0,109.7,33.2,clear
+1602,Black Gram (Urd Beans),Dahod,2017-10-07,4100.0,3.3,33.2,clear
+1603,Green Gram (Moong),Dahod,2017-10-07,4300.0,19.6,33.2,clear
+1604,Arhar (Tur/Red Gram),Dahod,2017-11-07,3300.0,33.8,28.2,clear
+1605,Bengal Gram(Gram),Dahod,2017-11-07,5200.0,56.0,28.2,clear
+1606,Black Gram (Urd Beans),Dahod,2017-11-07,4000.0,3.3,28.2,clear
+1607,Green Gram (Moong),Dahod,2017-11-07,4150.0,11.4,28.2,clear
+1608,Arhar (Tur/Red Gram),Dahod,2017-12-07,3300.0,37.6,20.2,clear
+1609,Bengal Gram(Gram),Dahod,2017-12-07,5125.0,67.2,20.2,clear
+1610,Black Gram (Urd Beans),Dahod,2017-12-07,3650.0,7.5,20.2,clear
+1611,Green Gram (Moong),Dahod,2017-12-07,4200.0,11.6,20.2,clear
+1612,Arhar (Tur/Red Gram),Dahod,2017-07-13,3250.0,63.4,25.2,rain
+1613,Bengal Gram(Gram),Dahod,2017-07-13,5182.5,98.5,25.2,rain
+1614,Black Gram (Urd Beans),Dahod,2017-07-13,3800.0,3.9,25.2,rain
+1615,Green Gram (Moong),Dahod,2017-07-13,4000.0,10.3,25.2,rain
+1616,Arhar (Tur/Red Gram),Dahod,2017-07-14,3250.0,38.3,24.2,clear
+1617,Bengal Gram(Gram),Dahod,2017-07-14,5242.5,88.1,24.2,clear
+1618,Black Gram (Urd Beans),Dahod,2017-07-14,3600.0,1.2,24.2,clear
+1619,Green Gram (Moong),Dahod,2017-07-14,4200.0,2.7,24.2,clear
+1620,Arhar (Tur/Red Gram),Dahod,2017-07-15,3250.0,22.8,26.2,clear
+1621,Bengal Gram(Gram),Dahod,2017-07-15,5312.5,57.8,26.2,clear
+1622,Black Gram (Urd Beans),Dahod,2017-07-15,3800.0,9.1,26.2,clear
+1623,Green Gram (Moong),Dahod,2017-07-15,4200.0,2.7,26.2,clear
+1624,Arhar (Tur/Red Gram),Dahod,2017-07-17,3250.0,25.8,28.2,clear
+1625,Bengal Gram(Gram),Dahod,2017-07-17,5195.0,61.7,28.2,clear
+1626,Black Gram (Urd Beans),Dahod,2017-07-17,3900.0,2.2,28.2,clear
+1627,Green Gram (Moong),Dahod,2017-07-17,4200.0,21.5,28.2,clear
+1628,Arhar (Tur/Red Gram),Dahod,2017-07-18,3300.0,21.7,31.2,clear
+1629,Bengal Gram(Gram),Dahod,2017-07-18,5157.5,238.3,31.2,clear
+1630,Black Gram (Urd Beans),Dahod,2017-07-18,3500.0,22.2,31.2,clear
+1631,Green Gram (Moong),Dahod,2017-07-18,4200.0,4.8,31.2,clear
+1632,Arhar (Tur/Red Gram),Dahod,2017-07-19,3250.0,19.5,26.2,clear
+1633,Bengal Gram(Gram),Dahod,2017-07-19,5242.5,47.1,26.2,clear
+1634,Black Gram (Urd Beans),Dahod,2017-07-19,3400.0,4.3,26.2,clear
+1635,Green Gram (Moong),Dahod,2017-07-19,4250.0,4.2,26.2,clear
+1636,Arhar (Tur/Red Gram),Dahod,2017-07-20,3250.0,41.0,25.2,clear
+1637,Bengal Gram(Gram),Dahod,2017-07-20,5302.5,14.0,25.2,clear
+1638,Black Gram (Urd Beans),Dahod,2017-07-20,3350.0,1.3,25.2,clear
+1639,Green Gram (Moong),Dahod,2017-07-20,4200.0,19.7,25.2,clear
+1640,Arhar (Tur/Red Gram),Dahod,2017-07-21,3125.0,33.6,27.2,clear
+1641,Bengal Gram(Gram),Dahod,2017-07-21,5207.5,18.5,27.2,clear
+1642,Black Gram (Urd Beans),Dahod,2017-07-21,3400.0,8.0,27.2,clear
+1643,Green Gram (Moong),Dahod,2017-07-21,4200.0,11.6,27.2,clear
+1644,Arhar (Tur/Red Gram),Dahod,2017-07-22,3175.0,35.4,25.2,clear
+1645,Bengal Gram(Gram),Dahod,2017-07-22,5205.0,53.6,25.2,clear
+1646,Black Gram (Urd Beans),Dahod,2017-07-22,3400.0,4.4,25.2,clear
+1647,Green Gram (Moong),Dahod,2017-07-22,4250.0,12.2,25.2,clear
+1648,Arhar (Tur/Red Gram),Dahod,2017-07-24,3150.0,18.0,23.2,rain
+1649,Bengal Gram(Gram),Dahod,2017-07-24,5150.0,74.3,23.2,rain
+1650,Black Gram (Urd Beans),Dahod,2017-07-24,3300.0,6.6,23.2,rain
+1651,Green Gram (Moong),Dahod,2017-07-24,4150.0,2.1,23.2,rain
+1652,Arhar (Tur/Red Gram),Dahod,2017-07-25,3050.0,4.3,23.0,clear
+1653,Bengal Gram(Gram),Dahod,2017-07-25,5042.5,13.2,23.0,clear
+1654,Black Gram (Urd Beans),Dahod,2017-07-25,3300.0,1.3,23.0,clear
+1655,Green Gram (Moong),Dahod,2017-07-25,4150.0,1.1,23.0,clear
+1656,Arhar (Tur/Red Gram),Dahod,2017-07-26,3025.0,28.5,23.2,clear
+1657,Bengal Gram(Gram),Dahod,2017-07-26,4942.5,6.9,23.2,clear
+1658,Black Gram (Urd Beans),Dahod,2017-07-26,3300.0,4.2,23.2,clear
+1659,Green Gram (Moong),Dahod,2017-07-26,4100.0,0.1,23.2,clear
+1660,Arhar (Tur/Red Gram),Dahod,2017-07-27,2850.0,4.6,25.0,clear
+1661,Bengal Gram(Gram),Dahod,2017-07-27,4802.5,17.6,25.0,clear
+1662,Black Gram (Urd Beans),Dahod,2017-07-27,3300.0,0.6,25.0,clear
+1663,Green Gram (Moong),Dahod,2017-07-27,3950.0,0.2,25.0,clear
+1664,Arhar (Tur/Red Gram),Dahod,2017-07-28,2850.0,11.2,24.2,clear
+1665,Bengal Gram(Gram),Dahod,2017-07-28,4775.0,18.4,24.2,clear
+1666,Black Gram (Urd Beans),Dahod,2017-07-28,3200.0,1.2,24.2,clear
+1667,Green Gram (Moong),Dahod,2017-07-28,4100.0,3.8,24.2,clear
+1668,Arhar (Tur/Red Gram),Dahod,2017-07-29,2825.0,2.1,27.2,clear
+1669,Bengal Gram(Gram),Dahod,2017-07-29,4822.5,17.8,27.2,clear
+1670,Black Gram (Urd Beans),Dahod,2017-07-29,3100.0,0.2,27.2,clear
+1671,Green Gram (Moong),Dahod,2017-07-29,4225.0,0.4,27.2,clear
+1672,Arhar (Tur/Red Gram),Dahod,2017-07-31,2950.0,2.0,27.2,clear
+1673,Bengal Gram(Gram),Dahod,2017-07-31,4892.5,9.5,27.2,clear
+1674,Black Gram (Urd Beans),Dahod,2017-07-31,3100.0,1.5,27.2,clear
+1675,Green Gram (Moong),Dahod,2017-07-31,4150.0,1.0,27.2,clear
+1676,Arhar (Tur/Red Gram),Dahod,2017-01-08,3025.0,2.0,15.2,clear
+1677,Bengal Gram(Gram),Dahod,2017-01-08,4950.0,18.1,15.2,clear
+1678,Black Gram (Urd Beans),Dahod,2017-01-08,3250.0,1.6,15.2,clear
+1679,Green Gram (Moong),Dahod,2017-01-08,4100.0,1.0,15.2,clear
+1680,Arhar (Tur/Red Gram),Dahod,2017-03-08,3062.5,15.1,30.2,clear
+1681,Bengal Gram(Gram),Dahod,2017-03-08,5020.0,29.2,30.2,clear
+1682,Black Gram (Urd Beans),Dahod,2017-03-08,3400.0,1.8,30.2,clear
+1683,Green Gram (Moong),Dahod,2017-03-08,4100.0,4.2,30.2,clear
+1684,Arhar (Tur/Red Gram),Dahod,2017-04-08,3125.0,6.4,36.2,clear
+1685,Bengal Gram(Gram),Dahod,2017-04-08,5025.0,65.1,36.2,clear
+1686,Black Gram (Urd Beans),Dahod,2017-04-08,3400.0,7.0,36.2,clear
+1687,Green Gram (Moong),Dahod,2017-04-08,4150.0,1.0,36.2,clear
+1688,Arhar (Tur/Red Gram),Dahod,2017-05-08,3112.5,22.6,40.2,clear
+1689,Bengal Gram(Gram),Dahod,2017-05-08,4985.0,21.8,40.2,clear
+1690,Black Gram (Urd Beans),Dahod,2017-05-08,3400.0,4.4,40.2,clear
+1691,Green Gram (Moong),Dahod,2017-05-08,4150.0,1.9,40.2,clear
+1692,Arhar (Tur/Red Gram),Dahod,2017-08-08,3450.0,11.8,26.2,clear
+1693,Bengal Gram(Gram),Dahod,2017-08-08,5087.5,88.1,26.2,clear
+1694,Black Gram (Urd Beans),Dahod,2017-08-08,3500.0,12.1,26.2,clear
+1695,Green Gram (Moong),Dahod,2017-08-08,4200.0,2.2,26.2,clear
+1696,Arhar (Tur/Red Gram),Dahod,2017-09-08,3400.0,10.5,31.2,clear
+1697,Bengal Gram(Gram),Dahod,2017-09-08,5062.5,18.5,31.2,clear
+1698,Black Gram (Urd Beans),Dahod,2017-09-08,3400.0,0.6,31.2,clear
+1699,Green Gram (Moong),Dahod,2017-09-08,4200.0,0.1,31.2,clear
+1700,Arhar (Tur/Red Gram),Dahod,2017-10-08,3350.0,13.4,35.6,clear
+1701,Bengal Gram(Gram),Dahod,2017-10-08,5187.5,78.4,35.6,clear
+1702,Black Gram (Urd Beans),Dahod,2017-10-08,3600.0,1.9,35.6,clear
+1703,Green Gram (Moong),Dahod,2017-10-08,4200.0,3.8,35.6,clear
+1704,Arhar (Tur/Red Gram),Dahod,2017-11-08,3500.0,32.7,28.2,clear
+1705,Bengal Gram(Gram),Dahod,2017-11-08,5175.0,39.9,28.2,clear
+1706,Black Gram (Urd Beans),Dahod,2017-11-08,3600.0,2.8,28.2,clear
+1707,Green Gram (Moong),Dahod,2017-11-08,4000.0,0.0,28.2,clear
+1708,Arhar (Tur/Red Gram),Dahod,2017-12-08,3450.0,18.6,16.2,clear
+1709,Bengal Gram(Gram),Dahod,2017-12-08,5275.0,94.3,16.2,clear
+1710,Black Gram (Urd Beans),Dahod,2017-12-08,3600.0,8.7,16.2,clear
+1711,Green Gram (Moong),Dahod,2017-12-08,4200.0,0.5,16.2,clear
+1712,Arhar (Tur/Red Gram),Dahod,2017-08-14,3925.0,34.1,29.2,clear
+1713,Bengal Gram(Gram),Dahod,2017-08-14,5275.0,71.6,29.2,clear
+1714,Black Gram (Urd Beans),Dahod,2017-08-14,3600.0,4.6,29.2,clear
+1715,Green Gram (Moong),Dahod,2017-08-14,4150.0,1.5,29.2,clear
+1716,Arhar (Tur/Red Gram),Dahod,2017-08-17,3350.0,93.2,30.2,clear
+1717,Bengal Gram(Gram),Dahod,2017-08-17,5200.0,114.3,30.2,clear
+1718,Black Gram (Urd Beans),Dahod,2017-08-17,3650.0,3.1,30.2,clear
+1719,Green Gram (Moong),Dahod,2017-08-17,4200.0,4.9,30.2,clear
+1720,Arhar (Tur/Red Gram),Dahod,2017-08-18,3500.0,33.4,30.2,clear
+1721,Bengal Gram(Gram),Dahod,2017-08-18,5437.5,20.2,30.2,clear
+1722,Black Gram (Urd Beans),Dahod,2017-08-18,4000.0,6.6,30.2,clear
+1723,Green Gram (Moong),Dahod,2017-08-18,4200.0,3.8,30.2,clear
+1724,Arhar (Tur/Red Gram),Dahod,2017-08-19,3437.5,41.6,25.2,clear
+1725,Bengal Gram(Gram),Dahod,2017-08-19,5400.0,42.5,25.2,clear
+1726,Black Gram (Urd Beans),Dahod,2017-08-19,4000.0,0.6,25.2,clear
+1727,Green Gram (Moong),Dahod,2017-08-19,4200.0,1.2,25.2,clear
+1728,Arhar (Tur/Red Gram),Dahod,2017-08-21,3475.0,14.8,27.2,clear
+1729,Bengal Gram(Gram),Dahod,2017-08-21,5437.5,5.7,27.2,clear
+1730,Black Gram (Urd Beans),Dahod,2017-08-21,4000.0,6.1,27.2,clear
+1731,Green Gram (Moong),Dahod,2017-08-21,4100.0,12.8,27.2,clear
+1732,Arhar (Tur/Red Gram),Dahod,2017-08-22,3550.0,13.8,29.2,clear
+1733,Bengal Gram(Gram),Dahod,2017-08-22,5512.5,34.1,29.2,clear
+1734,Black Gram (Urd Beans),Dahod,2017-08-22,4000.0,10.6,29.2,clear
+1735,Green Gram (Moong),Dahod,2017-08-22,4300.0,4.7,29.2,clear
+1736,Arhar (Tur/Red Gram),Dahod,2017-08-23,3525.0,14.3,26.2,clear
+1737,Bengal Gram(Gram),Dahod,2017-08-23,5487.5,8.0,26.2,clear
+1738,Black Gram (Urd Beans),Dahod,2017-08-23,4200.0,0.5,26.2,clear
+1739,Green Gram (Moong),Dahod,2017-08-23,4000.0,0.8,26.2,clear
+1740,Arhar (Tur/Red Gram),Dahod,2017-08-24,3600.0,18.5,28.2,clear
+1741,Bengal Gram(Gram),Dahod,2017-08-24,5562.5,59.7,28.2,clear
+1742,Black Gram (Urd Beans),Dahod,2017-08-24,4100.0,11.7,28.2,clear
+1743,Green Gram (Moong),Dahod,2017-08-24,4300.0,0.3,28.2,clear
+1744,Arhar (Tur/Red Gram),Dahod,2017-08-25,3525.0,0.0,25.2,clear
+1745,Bengal Gram(Gram),Dahod,2017-08-25,5740.0,0.0,25.2,clear
+1746,Black Gram (Urd Beans),Dahod,2017-08-25,4000.0,0.0,25.2,clear
+1747,Green Gram (Moong),Dahod,2017-08-25,4500.0,0.0,25.2,clear
+1748,Arhar (Tur/Red Gram),Dahod,2017-08-26,3675.0,48.9,26.2,clear
+1749,Bengal Gram(Gram),Dahod,2017-08-26,5662.5,78.5,26.2,clear
+1750,Black Gram (Urd Beans),Dahod,2017-08-26,4000.0,6.0,26.2,clear
+1751,Green Gram (Moong),Dahod,2017-08-26,4400.0,9.5,26.2,clear
+1752,Arhar (Tur/Red Gram),Dahod,2017-08-28,3750.0,40.8,27.2,clear
+1753,Bengal Gram(Gram),Dahod,2017-08-28,5915.0,38.3,27.2,clear
+1754,Black Gram (Urd Beans),Dahod,2017-08-28,4000.0,0.5,27.2,clear
+1755,Green Gram (Moong),Dahod,2017-08-28,4400.0,7.5,27.2,clear
+1756,Arhar (Tur/Red Gram),Dahod,2017-08-29,3875.0,17.5,26.2,clear
+1757,Bengal Gram(Gram),Dahod,2017-08-29,5805.0,40.4,26.2,clear
+1758,Black Gram (Urd Beans),Dahod,2017-08-29,4300.0,4.7,26.2,clear
+1759,Green Gram (Moong),Dahod,2017-08-29,4500.0,0.2,26.2,clear
+1760,Arhar (Tur/Red Gram),Dahod,2017-08-30,3600.0,34.0,28.6,clear
+1761,Bengal Gram(Gram),Dahod,2017-08-30,5912.5,37.7,28.6,clear
+1762,Black Gram (Urd Beans),Dahod,2017-08-30,4200.0,8.0,28.6,clear
+1763,Green Gram (Moong),Dahod,2017-08-30,4500.0,0.3,28.6,clear
+1764,Arhar (Tur/Red Gram),Dahod,2017-08-31,3600.0,58.4,27.6,clear
+1765,Bengal Gram(Gram),Dahod,2017-08-31,5850.0,27.4,27.6,clear
+1766,Black Gram (Urd Beans),Dahod,2017-08-31,4000.0,8.8,27.6,clear
+1767,Green Gram (Moong),Dahod,2017-08-31,4400.0,0.2,27.6,clear
+1768,Arhar (Tur/Red Gram),Dahod,2017-01-09,3600.0,33.9,21.2,clear
+1769,Bengal Gram(Gram),Dahod,2017-01-09,5692.5,52.3,21.2,clear
+1770,Black Gram (Urd Beans),Dahod,2017-01-09,3800.0,0.1,21.2,clear
+1771,Green Gram (Moong),Dahod,2017-01-09,4400.0,0.2,21.2,clear
+1772,Arhar (Tur/Red Gram),Dahod,2017-02-09,3600.0,0.0,25.2,clear
+1773,Bengal Gram(Gram),Dahod,2017-02-09,5845.0,0.0,25.2,clear
+1774,Black Gram (Urd Beans),Dahod,2017-02-09,3850.0,0.0,25.2,clear
+1775,Green Gram (Moong),Dahod,2017-02-09,4400.0,0.0,25.2,clear
+1776,Arhar (Tur/Red Gram),Dahod,2017-04-09,3550.0,30.6,36.6,clear
+1777,Bengal Gram(Gram),Dahod,2017-04-09,5887.5,103.2,36.6,clear
+1778,Black Gram (Urd Beans),Dahod,2017-04-09,3600.0,26.0,36.6,clear
+1779,Green Gram (Moong),Dahod,2017-04-09,4600.0,1.4,36.6,clear
+1780,Arhar (Tur/Red Gram),Dahod,2017-06-09,3500.0,1.8,27.2,clear
+1781,Bengal Gram(Gram),Dahod,2017-06-09,5820.0,4.3,27.2,clear
+1782,Black Gram (Urd Beans),Dahod,2017-06-09,3600.0,1.9,27.2,clear
+1783,Green Gram (Moong),Dahod,2017-06-09,4400.0,0.1,27.2,clear
+1784,Arhar (Tur/Red Gram),Dahod,2017-07-09,3550.0,13.3,32.2,clear
+1785,Bengal Gram(Gram),Dahod,2017-07-09,5837.5,23.1,32.2,clear
+1786,Black Gram (Urd Beans),Dahod,2017-07-09,3675.0,0.6,32.2,clear
+1787,Green Gram (Moong),Dahod,2017-07-09,4300.0,0.3,32.2,clear
+1788,Arhar (Tur/Red Gram),Dahod,2017-08-09,3525.0,30.4,30.2,clear
+1789,Bengal Gram(Gram),Dahod,2017-08-09,5850.0,55.8,30.2,clear
+1790,Black Gram (Urd Beans),Dahod,2017-08-09,3550.0,4.7,30.2,clear
+1791,Green Gram (Moong),Dahod,2017-08-09,4300.0,0.1,30.2,clear
+1792,Arhar (Tur/Red Gram),Dahod,2017-09-09,3487.5,24.2,27.2,clear
+1793,Bengal Gram(Gram),Dahod,2017-09-09,5850.0,16.0,27.2,clear
+1794,Black Gram (Urd Beans),Dahod,2017-09-09,3600.0,0.3,27.2,clear
+1795,Green Gram (Moong),Dahod,2017-09-09,4350.0,0.0,27.2,clear
+1796,Arhar (Tur/Red Gram),Dahod,2017-12-09,3525.0,15.1,24.6,clear
+1797,Bengal Gram(Gram),Dahod,2017-12-09,5837.5,39.1,24.6,clear
+1798,Black Gram (Urd Beans),Dahod,2017-12-09,3675.0,4.2,24.6,clear
+1799,Green Gram (Moong),Dahod,2017-12-09,4400.0,0.8,24.6,clear
+1800,Arhar (Tur/Red Gram),Dahod,2017-09-13,3487.5,2.2,29.6,clear
+1801,Bengal Gram(Gram),Dahod,2017-09-13,5862.5,2.6,29.6,clear
+1802,Black Gram (Urd Beans),Dahod,2017-09-13,3600.0,12.4,29.6,clear
+1803,Green Gram (Moong),Dahod,2017-09-13,4350.0,0.8,29.6,clear
+1804,Arhar (Tur/Red Gram),Dahod,2017-09-14,3525.0,8.2,30.2,clear
+1805,Bengal Gram(Gram),Dahod,2017-09-14,5855.0,55.3,30.2,clear
+1806,Black Gram (Urd Beans),Dahod,2017-09-14,3700.0,0.9,30.2,clear
+1807,Green Gram (Moong),Dahod,2017-09-14,4350.0,0.6,30.2,clear
+1808,Arhar (Tur/Red Gram),Dahod,2017-09-15,3500.0,10.8,25.2,clear
+1809,Bengal Gram(Gram),Dahod,2017-09-15,5825.0,17.3,25.2,clear
+1810,Black Gram (Urd Beans),Dahod,2017-09-15,3600.0,4.4,25.2,clear
+1811,Green Gram (Moong),Dahod,2017-09-15,4200.0,0.5,25.2,clear
+1812,Arhar (Tur/Red Gram),Dahod,2017-09-16,3562.5,16.0,24.6,clear
+1813,Bengal Gram(Gram),Dahod,2017-09-16,5857.5,33.1,24.6,clear
+1814,Black Gram (Urd Beans),Dahod,2017-09-16,3550.0,0.6,24.6,clear
+1815,Green Gram (Moong),Dahod,2017-09-16,4300.0,3.6,24.6,clear
+1816,Arhar (Tur/Red Gram),Dahod,2017-09-18,3550.0,16.8,28.2,clear
+1817,Bengal Gram(Gram),Dahod,2017-09-18,5827.5,33.5,28.2,clear
+1818,Black Gram (Urd Beans),Dahod,2017-09-18,3625.0,1.7,28.2,clear
+1819,Green Gram (Moong),Dahod,2017-09-18,4350.0,0.5,28.2,clear
+1820,Arhar (Tur/Red Gram),Dahod,2017-09-19,3425.0,39.4,30.2,clear
+1821,Bengal Gram(Gram),Dahod,2017-09-19,5750.0,17.8,30.2,clear
+1822,Black Gram (Urd Beans),Dahod,2017-09-19,3700.0,1.0,30.2,clear
+1823,Green Gram (Moong),Dahod,2017-09-19,4350.0,0.8,30.2,clear
+1824,Arhar (Tur/Red Gram),Dahod,2017-09-20,3525.0,18.6,30.2,clear
+1825,Bengal Gram(Gram),Dahod,2017-09-20,5755.0,10.6,30.2,clear
+1826,Black Gram (Urd Beans),Dahod,2017-09-20,3675.0,12.2,30.2,clear
+1827,Green Gram (Moong),Dahod,2017-09-20,4250.0,0.1,30.2,clear
+1828,Arhar (Tur/Red Gram),Dahod,2017-09-21,3475.0,21.0,27.2,clear
+1829,Bengal Gram(Gram),Dahod,2017-09-21,5742.5,8.2,27.2,clear
+1830,Black Gram (Urd Beans),Dahod,2017-09-21,3550.0,1.3,27.2,clear
+1831,Green Gram (Moong),Dahod,2017-09-21,4275.0,5.3,27.2,clear
+1832,Arhar (Tur/Red Gram),Dahod,2017-09-22,3337.5,18.5,26.2,clear
+1833,Bengal Gram(Gram),Dahod,2017-09-22,5662.5,13.5,26.2,clear
+1834,Black Gram (Urd Beans),Dahod,2017-09-22,3575.0,0.4,26.2,clear
+1835,Green Gram (Moong),Dahod,2017-09-22,4350.0,0.2,26.2,clear
+1836,Arhar (Tur/Red Gram),Dahod,2017-09-23,3387.5,18.4,28.2,clear
+1837,Bengal Gram(Gram),Dahod,2017-09-23,5562.5,14.0,28.2,clear
+1838,Black Gram (Urd Beans),Dahod,2017-09-23,3600.0,3.4,28.2,clear
+1839,Green Gram (Moong),Dahod,2017-09-23,4225.0,0.3,28.2,clear
+1840,Arhar (Tur/Red Gram),Dahod,2017-09-26,3375.0,21.9,30.2,clear
+1841,Bengal Gram(Gram),Dahod,2017-09-26,5437.5,12.2,30.2,clear
+1842,Black Gram (Urd Beans),Dahod,2017-09-26,3475.0,1.0,30.2,clear
+1843,Green Gram (Moong),Dahod,2017-09-26,4350.0,1.6,30.2,clear
+1844,Arhar (Tur/Red Gram),Dahod,2017-09-28,3387.5,0.8,32.6,clear
+1845,Bengal Gram(Gram),Dahod,2017-09-28,5537.5,0.8,32.6,clear
+1846,Black Gram (Urd Beans),Dahod,2017-09-28,3450.0,0.1,32.6,clear
+1847,Green Gram (Moong),Dahod,2017-09-28,4300.0,1.2,32.6,clear
+1848,Arhar (Tur/Red Gram),Dahod,2017-09-29,3350.0,13.4,32.2,clear
+1849,Bengal Gram(Gram),Dahod,2017-09-29,5540.0,65.3,32.2,clear
+1850,Black Gram (Urd Beans),Dahod,2017-09-29,3500.0,0.7,32.2,clear
+1851,Green Gram (Moong),Dahod,2017-09-29,4300.0,0.4,32.2,clear
+1852,Arhar (Tur/Red Gram),Dahod,2017-02-10,3425.0,0.0,23.2,clear
+1853,Bengal Gram(Gram),Dahod,2017-02-10,5550.0,0.0,23.2,clear
+1854,Black Gram (Urd Beans),Dahod,2017-02-10,3800.0,0.0,23.2,clear
+1855,Green Gram (Moong),Dahod,2017-02-10,4300.0,0.0,23.2,clear
+1856,Arhar (Tur/Red Gram),Dahod,2017-03-10,3375.0,20.8,24.2,clear
+1857,Bengal Gram(Gram),Dahod,2017-03-10,5425.0,57.6,24.2,clear
+1858,Black Gram (Urd Beans),Dahod,2017-03-10,3695.0,9.2,24.2,clear
+1859,Green Gram (Moong),Dahod,2017-03-10,4300.0,0.1,24.2,clear
+1860,Arhar (Tur/Red Gram),Dahod,2017-04-10,3400.0,2.8,35.2,clear
+1861,Bengal Gram(Gram),Dahod,2017-04-10,5450.0,8.5,35.2,clear
+1862,Black Gram (Urd Beans),Dahod,2017-04-10,3800.0,3.5,35.2,clear
+1863,Green Gram (Moong),Dahod,2017-04-10,4200.0,0.0,35.2,clear
+1864,Arhar (Tur/Red Gram),Dahod,2017-05-10,3325.0,15.7,39.6,clear
+1865,Bengal Gram(Gram),Dahod,2017-05-10,5402.5,18.0,39.6,clear
+1866,Black Gram (Urd Beans),Dahod,2017-05-10,3800.0,0.8,39.6,clear
+1867,Green Gram (Moong),Dahod,2017-05-10,4100.0,1.1,39.6,clear
+1868,Arhar (Tur/Red Gram),Dahod,2017-06-10,3225.0,7.7,27.2,clear
+1869,Bengal Gram(Gram),Dahod,2017-06-10,5350.0,22.9,27.2,clear
+1870,Black Gram (Urd Beans),Dahod,2017-06-10,3500.0,12.4,27.2,clear
+1871,Green Gram (Moong),Dahod,2017-06-10,4100.0,4.3,27.2,clear
+1872,Arhar (Tur/Red Gram),Dahod,2017-07-10,3175.0,54.4,27.2,clear
+1873,Bengal Gram(Gram),Dahod,2017-07-10,5152.5,29.3,27.2,clear
+1874,Black Gram (Urd Beans),Dahod,2017-07-10,3500.0,7.0,27.2,clear
+1875,Green Gram (Moong),Dahod,2017-07-10,3900.0,0.0,27.2,clear
+1876,Arhar (Tur/Red Gram),Dahod,2017-09-10,3175.0,18.0,26.6,clear
+1877,Bengal Gram(Gram),Dahod,2017-09-10,5200.0,20.2,26.6,clear
+1878,Black Gram (Urd Beans),Dahod,2017-09-10,3400.0,3.6,26.6,clear
+1879,Green Gram (Moong),Dahod,2017-09-10,3950.0,0.0,26.6,clear
+1880,Arhar (Tur/Red Gram),Dahod,2017-10-10,3150.0,43.9,25.2,clear
+1881,Bengal Gram(Gram),Dahod,2017-10-10,5150.0,31.1,25.2,clear
+1882,Black Gram (Urd Beans),Dahod,2017-10-10,3300.0,19.7,25.2,clear
+1883,Green Gram (Moong),Dahod,2017-10-10,3600.0,2.0,25.2,clear
+1884,Arhar (Tur/Red Gram),Dahod,2017-11-10,3050.0,5.1,28.2,clear
+1885,Bengal Gram(Gram),Dahod,2017-11-10,4900.0,58.3,28.2,clear
+1886,Black Gram (Urd Beans),Dahod,2017-11-10,3400.0,10.2,28.2,clear
+1887,Green Gram (Moong),Dahod,2017-11-10,3600.0,0.1,28.2,clear
+1888,Arhar (Tur/Red Gram),Dahod,2017-12-10,3050.0,14.5,24.2,clear
+1889,Bengal Gram(Gram),Dahod,2017-12-10,4850.0,38.5,24.2,clear
+1890,Black Gram (Urd Beans),Dahod,2017-12-10,3200.0,47.3,24.2,clear
+1891,Green Gram (Moong),Dahod,2017-12-10,3600.0,1.8,24.2,clear
+1892,Arhar (Tur/Red Gram),Dahod,2017-10-13,3075.0,2.1,30.2,clear
+1893,Bengal Gram(Gram),Dahod,2017-10-13,4850.0,29.2,30.2,clear
+1894,Black Gram (Urd Beans),Dahod,2017-10-13,3100.0,3.3,30.2,clear
+1895,Green Gram (Moong),Dahod,2017-10-13,3800.0,0.6,30.2,clear
+1896,Arhar (Tur/Red Gram),Dahod,2017-10-14,3075.0,0.7,23.2,clear
+1897,Bengal Gram(Gram),Dahod,2017-10-14,4862.5,45.3,23.2,clear
+1898,Black Gram (Urd Beans),Dahod,2017-10-14,3400.0,5.0,23.2,clear
+1899,Green Gram (Moong),Dahod,2017-10-14,3700.0,2.5,23.2,clear
+1900,Arhar (Tur/Red Gram),Dahod,2017-10-16,3150.0,28.0,32.2,clear
+1901,Bengal Gram(Gram),Dahod,2017-10-16,4900.0,49.3,32.2,clear
+1902,Black Gram (Urd Beans),Dahod,2017-10-16,3300.0,6.0,32.2,clear
+1903,Arhar (Tur/Red Gram),Dahod,2017-10-17,3200.0,20.0,33.2,clear
+1904,Bengal Gram(Gram),Dahod,2017-10-17,4900.0,25.3,33.2,clear
+1905,Black Gram (Urd Beans),Dahod,2017-10-17,3400.0,8.3,33.2,clear
+1906,Arhar (Tur/Red Gram),Dahod,2017-10-18,3237.5,1.7,32.2,clear
+1907,Bengal Gram(Gram),Dahod,2017-10-18,4900.0,16.2,32.2,clear
+1908,Black Gram (Urd Beans),Dahod,2017-10-18,3450.0,2.1,32.2,clear
+1909,Green Gram (Moong),Dahod,2017-10-18,3800.0,2.5,32.2,clear
+1910,Arhar (Tur/Red Gram),Dahod,2017-10-23,3325.0,18.6,30.2,clear
+1911,Bengal Gram(Gram),Dahod,2017-10-23,4977.5,16.0,30.2,clear
+1912,Black Gram (Urd Beans),Dahod,2017-10-23,3000.0,5.6,30.2,clear
+1913,Green Gram (Moong),Dahod,2017-10-23,3600.0,0.1,30.2,clear
+1914,Arhar (Tur/Red Gram),Dahod,2017-10-24,3345.0,8.1,30.2,clear
+1915,Bengal Gram(Gram),Dahod,2017-10-24,4947.5,16.7,30.2,clear
+1916,Black Gram (Urd Beans),Dahod,2017-10-24,3325.0,14.2,30.2,clear
+1917,Green Gram (Moong),Dahod,2017-10-24,3650.0,0.0,30.2,clear
+1918,Arhar (Tur/Red Gram),Dahod,2017-10-25,3375.0,9.9,22.2,clear
+1919,Bengal Gram(Gram),Dahod,2017-10-25,4902.5,54.9,22.2,clear
+1920,Black Gram (Urd Beans),Dahod,2017-10-25,3350.0,7.3,22.2,clear
+1921,Green Gram (Moong),Dahod,2017-10-25,3600.0,0.7,22.2,clear
+1922,Arhar (Tur/Red Gram),Dahod,2017-10-26,3250.0,37.3,29.2,clear
+1923,Bengal Gram(Gram),Dahod,2017-10-26,4942.5,54.4,29.2,clear
+1924,Black Gram (Urd Beans),Dahod,2017-10-26,3200.0,4.1,29.2,clear
+1925,Arhar (Tur/Red Gram),Dahod,2017-10-27,3312.5,30.9,20.2,clear
+1926,Bengal Gram(Gram),Dahod,2017-10-27,4900.0,43.6,20.2,clear
+1927,Black Gram (Urd Beans),Dahod,2017-10-27,3250.0,6.7,20.2,clear
+1928,Green Gram (Moong),Dahod,2017-10-27,3600.0,0.0,20.2,clear
+1929,Arhar (Tur/Red Gram),Dahod,2017-10-28,3250.0,16.9,20.2,clear
+1930,Bengal Gram(Gram),Dahod,2017-10-28,4892.5,143.5,20.2,clear
+1931,Black Gram (Urd Beans),Dahod,2017-10-28,3375.0,16.0,20.2,clear
+1932,Arhar (Tur/Red Gram),Dahod,2017-10-30,3225.0,21.6,29.2,clear
+1933,Bengal Gram(Gram),Dahod,2017-10-30,4555.5,80.4,29.2,clear
+1934,Black Gram (Urd Beans),Dahod,2017-10-30,3300.0,31.7,29.2,clear
+1935,Green Gram (Moong),Dahod,2017-10-30,3600.0,0.0,29.2,clear
+1936,Arhar (Tur/Red Gram),Dahod,2017-10-31,3087.5,0.0,30.2,clear
+1937,Bengal Gram(Gram),Dahod,2017-10-31,4550.0,0.0,30.2,clear
+1938,Black Gram (Urd Beans),Dahod,2017-10-31,3250.0,0.0,30.2,clear
+1939,Arhar (Tur/Red Gram),Dahod,2017-01-11,3062.5,48.5,18.2,clear
+1940,Bengal Gram(Gram),Dahod,2017-01-11,4532.5,207.7,18.2,clear
+1941,Black Gram (Urd Beans),Dahod,2017-01-11,3300.0,26.0,18.2,clear
+1942,Arhar (Tur/Red Gram),Dahod,2017-02-11,3125.0,9.9,23.6,clear
+1943,Bengal Gram(Gram),Dahod,2017-02-11,4502.5,103.5,23.6,clear
+1944,Black Gram (Urd Beans),Dahod,2017-02-11,3300.0,14.0,23.6,clear
+1945,Arhar (Tur/Red Gram),Dahod,2017-03-11,3125.0,28.1,26.2,clear
+1946,Bengal Gram(Gram),Dahod,2017-03-11,4505.0,68.9,26.2,clear
+1947,Black Gram (Urd Beans),Dahod,2017-03-11,3300.0,8.1,26.2,clear
+1948,Arhar (Tur/Red Gram),Dahod,2017-04-11,3125.0,25.8,38.2,clear
+1949,Bengal Gram(Gram),Dahod,2017-04-11,4625.0,66.9,38.2,clear
+1950,Black Gram (Urd Beans),Dahod,2017-04-11,3300.0,9.8,38.2,clear
+1951,Bengal Gram(Gram),Dahod,2017-09-27,5480.0,27.6,30.2,clear
+1952,Green Gram (Moong),Dahod,2017-09-27,4325.0,0.2,30.2,clear

@@ -1,0 +1,2176 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Bengal Gram(Gram),Jammalamadugu,2015-12-08,3600.0,0.0,28.8,clear
+1,Bengal Gram(Gram),Kamalapuram,2015-12-08,4600.0,0.0,28.8,clear
+2,Bengal Gram(Gram),Proddatur,2015-12-08,5050.0,0.0,28.8,clear
+3,Bengal Gram(Gram),Jammalamadugu,2015-12-09,4100.0,0.0,26.2,clear
+4,Bengal Gram(Gram),Kamalapuram,2015-12-09,4700.0,0.0,26.2,clear
+5,Bengal Gram(Gram),Proddatur,2015-12-09,5050.0,0.0,26.2,clear
+6,Bengal Gram(Gram),Jammalamadugu,2015-12-10,4600.0,0.0,27.0,clear
+7,Bengal Gram(Gram),Proddatur,2015-12-10,4750.0,0.0,27.0,clear
+8,Bengal Gram(Gram),Jammalamadugu,2015-12-11,5000.0,0.0,30.6,clear
+9,Bengal Gram(Gram),Kamalapuram,2015-12-11,4000.0,0.0,30.6,clear
+10,Bengal Gram(Gram),Proddatur,2015-12-11,4900.0,0.0,30.6,clear
+11,Bengal Gram(Gram),Jammalamadugu,2015-12-12,4600.0,0.0,31.6,clear
+12,Bengal Gram(Gram),Kamalapuram,2015-12-12,4700.0,0.0,31.6,clear
+13,Bengal Gram(Gram),Proddatur,2015-12-12,5100.0,0.0,31.6,clear
+14,Black Gram (Urd Beans),Kamalapuram,2015-12-12,8700.0,0.0,31.6,clear
+15,Black Gram (Urd Beans),Proddatur,2015-12-12,11000.0,0.0,31.6,clear
+16,Bengal Gram(Gram),Jammalamadugu,2015-12-13,5275.0,0.0,31.6,clear
+17,Bengal Gram(Gram),Kamalapuram,2015-12-13,4700.0,0.0,31.6,clear
+18,Bengal Gram(Gram),Proddatur,2015-12-13,5050.0,0.0,31.6,clear
+19,Black Gram (Urd Beans),Kamalapuram,2015-12-13,8700.0,0.0,31.6,clear
+20,Black Gram (Urd Beans),Proddatur,2015-12-13,11200.0,0.0,31.6,clear
+21,Bengal Gram(Gram),Jammalamadugu,2015-12-14,4600.0,0.0,29.8,clear
+22,Bengal Gram(Gram),Kamalapuram,2015-12-14,4700.0,0.0,29.8,clear
+23,Bengal Gram(Gram),Proddatur,2015-12-14,5000.0,0.0,29.8,clear
+24,Black Gram (Urd Beans),Kamalapuram,2015-12-14,8700.0,0.0,29.8,clear
+25,Black Gram (Urd Beans),Proddatur,2015-12-14,11300.0,0.0,29.8,clear
+26,Bengal Gram(Gram),Jammalamadugu,2015-12-15,4600.0,0.0,30.4,clear
+27,Bengal Gram(Gram),Kamalapuram,2015-12-15,4700.0,0.0,30.4,clear
+28,Bengal Gram(Gram),Proddatur,2015-12-15,5050.0,0.0,30.4,clear
+29,Black Gram (Urd Beans),Kamalapuram,2015-12-15,8700.0,0.0,30.4,clear
+30,Black Gram (Urd Beans),Proddatur,2015-12-15,11300.0,0.0,30.4,clear
+31,Bengal Gram(Gram),Jammalamadugu,2015-12-16,5650.0,0.0,29.6,clear
+32,Bengal Gram(Gram),Kamalapuram,2015-12-16,4700.0,0.0,29.6,clear
+33,Bengal Gram(Gram),Proddatur,2015-12-16,5050.0,0.0,29.6,clear
+34,Black Gram (Urd Beans),Kamalapuram,2015-12-16,8700.0,0.0,29.6,clear
+35,Black Gram (Urd Beans),Proddatur,2015-12-16,11200.0,0.0,29.6,clear
+36,Bengal Gram(Gram),Jammalamadugu,2015-12-17,5100.0,0.0,30.0,clear
+37,Bengal Gram(Gram),Kamalapuram,2015-12-17,4700.0,0.0,30.0,clear
+38,Bengal Gram(Gram),Proddatur,2015-12-17,5000.0,0.0,30.0,clear
+39,Black Gram (Urd Beans),Kamalapuram,2015-12-17,8700.0,0.0,30.0,clear
+40,Black Gram (Urd Beans),Proddatur,2015-12-17,11300.0,0.0,30.0,clear
+41,Bengal Gram(Gram),Jammalamadugu,2015-12-18,5650.0,0.0,30.6,clear
+42,Bengal Gram(Gram),Kamalapuram,2015-12-18,4700.0,0.0,30.6,clear
+43,Bengal Gram(Gram),Proddatur,2015-12-18,5050.0,0.0,30.6,clear
+44,Black Gram (Urd Beans),Kamalapuram,2015-12-18,8700.0,0.0,30.6,clear
+45,Black Gram (Urd Beans),Proddatur,2015-12-18,11300.0,0.0,30.6,clear
+46,Bengal Gram(Gram),Jammalamadugu,2015-12-19,5290.0,0.0,31.0,clear
+47,Bengal Gram(Gram),Kamalapuram,2015-12-19,4700.0,0.0,31.0,clear
+48,Bengal Gram(Gram),Proddatur,2015-12-19,5100.0,0.0,31.0,clear
+49,Black Gram (Urd Beans),Jammalamadugu,2015-12-19,9800.0,0.0,31.0,clear
+50,Black Gram (Urd Beans),Kamalapuram,2015-12-19,8400.0,0.0,31.0,clear
+51,Black Gram (Urd Beans),Proddatur,2015-12-19,11400.0,0.0,31.0,clear
+52,Bengal Gram(Gram),Jammalamadugu,2015-12-20,4900.0,0.0,31.2,clear
+53,Bengal Gram(Gram),Kamalapuram,2015-12-20,4600.0,0.0,31.2,clear
+54,Bengal Gram(Gram),Proddatur,2015-12-20,5100.0,0.0,31.2,clear
+55,Black Gram (Urd Beans),Kamalapuram,2015-12-20,8400.0,0.0,31.2,clear
+56,Black Gram (Urd Beans),Proddatur,2015-12-20,11400.0,0.0,31.2,clear
+57,Bengal Gram(Gram),Jammalamadugu,2015-12-21,4600.0,0.0,31.6,clear
+58,Bengal Gram(Gram),Kamalapuram,2015-12-21,4600.0,0.0,31.6,clear
+59,Bengal Gram(Gram),Proddatur,2015-12-21,5050.0,0.0,31.6,clear
+60,Black Gram (Urd Beans),Kamalapuram,2015-12-21,8400.0,0.0,31.6,clear
+61,Black Gram (Urd Beans),Proddatur,2015-12-21,11300.0,0.0,31.6,clear
+62,Bengal Gram(Gram),Jammalamadugu,2015-12-22,5100.0,0.0,31.8,clear
+63,Bengal Gram(Gram),Kamalapuram,2015-12-22,4600.0,0.0,31.8,clear
+64,Bengal Gram(Gram),Proddatur,2015-12-22,5100.0,0.0,31.8,clear
+65,Black Gram (Urd Beans),Kamalapuram,2015-12-22,8400.0,0.0,31.8,clear
+66,Black Gram (Urd Beans),Proddatur,2015-12-22,11400.0,0.0,31.8,clear
+67,Bengal Gram(Gram),Jammalamadugu,2015-12-23,5100.0,0.0,30.6,clear
+68,Bengal Gram(Gram),Kamalapuram,2015-12-23,4700.0,0.0,30.6,clear
+69,Bengal Gram(Gram),Proddatur,2015-12-23,5100.0,0.0,30.6,clear
+70,Black Gram (Urd Beans),Kamalapuram,2015-12-23,8400.0,0.0,30.6,clear
+71,Black Gram (Urd Beans),Proddatur,2015-12-23,11400.0,0.0,30.6,clear
+72,Bengal Gram(Gram),Jammalamadugu,2015-12-24,5300.0,0.0,30.6,clear
+73,Bengal Gram(Gram),Kamalapuram,2015-12-24,4600.0,0.0,30.6,clear
+74,Bengal Gram(Gram),Proddatur,2015-12-24,5050.0,0.0,30.6,clear
+75,Black Gram (Urd Beans),Jammalamadugu,2015-12-24,9200.0,0.0,30.6,clear
+76,Black Gram (Urd Beans),Kamalapuram,2015-12-24,8100.0,0.0,30.6,clear
+77,Bengal Gram(Gram),Jammalamadugu,2015-12-25,5100.0,0.0,30.6,clear
+78,Bengal Gram(Gram),Kamalapuram,2015-12-25,4600.0,0.0,30.6,clear
+79,Bengal Gram(Gram),Proddatur,2015-12-25,5100.0,0.0,30.6,clear
+80,Black Gram (Urd Beans),Kamalapuram,2015-12-25,8100.0,0.0,30.6,clear
+81,Black Gram (Urd Beans),Proddatur,2015-12-25,11300.0,0.0,30.6,clear
+82,Bengal Gram(Gram),Jammalamadugu,2015-12-26,4600.0,0.0,28.8,clear
+83,Bengal Gram(Gram),Kamalapuram,2015-12-26,4400.0,0.0,28.8,clear
+84,Bengal Gram(Gram),Proddatur,2015-12-26,5050.0,0.0,28.8,clear
+85,Black Gram (Urd Beans),Jammalamadugu,2015-12-26,9300.0,0.0,28.8,clear
+86,Black Gram (Urd Beans),Kamalapuram,2015-12-26,8100.0,0.0,28.8,clear
+87,Black Gram (Urd Beans),Proddatur,2015-12-26,11300.0,0.0,28.8,clear
+88,Bengal Gram(Gram),Jammalamadugu,2015-12-27,5100.0,0.0,29.6,clear
+89,Bengal Gram(Gram),Kamalapuram,2015-12-27,4400.0,0.0,29.6,clear
+90,Bengal Gram(Gram),Proddatur,2015-12-27,5050.0,0.0,29.6,clear
+91,Black Gram (Urd Beans),Jammalamadugu,2015-12-27,6950.0,0.0,29.6,clear
+92,Black Gram (Urd Beans),Kamalapuram,2015-12-27,8100.0,0.0,29.6,clear
+93,Black Gram (Urd Beans),Proddatur,2015-12-27,11300.0,0.0,29.6,clear
+94,Bengal Gram(Gram),Jammalamadugu,2015-12-28,5100.0,0.0,29.4,clear
+95,Bengal Gram(Gram),Kamalapuram,2015-12-28,4400.0,0.0,29.4,clear
+96,Bengal Gram(Gram),Proddatur,2015-12-28,5100.0,0.0,29.4,clear
+97,Black Gram (Urd Beans),Kamalapuram,2015-12-28,7900.0,0.0,29.4,clear
+98,Black Gram (Urd Beans),Proddatur,2015-12-28,11300.0,0.0,29.4,clear
+99,Bengal Gram(Gram),Jammalamadugu,2015-12-29,5300.0,0.0,29.8,clear
+100,Bengal Gram(Gram),Kamalapuram,2015-12-29,4600.0,0.0,29.8,clear
+101,Bengal Gram(Gram),Proddatur,2015-12-29,5050.0,0.0,29.8,clear
+102,Black Gram (Urd Beans),Kamalapuram,2015-12-29,7900.0,0.0,29.8,clear
+103,Black Gram (Urd Beans),Proddatur,2015-12-29,11300.0,0.0,29.8,clear
+104,Bengal Gram(Gram),Jammalamadugu,2015-12-30,4600.0,0.0,29.6,clear
+105,Bengal Gram(Gram),Kamalapuram,2015-12-30,4300.0,0.0,29.6,clear
+106,Bengal Gram(Gram),Proddatur,2015-12-30,5050.0,0.0,29.6,clear
+107,Black Gram (Urd Beans),Kamalapuram,2015-12-30,7900.0,0.0,29.6,clear
+108,Black Gram (Urd Beans),Proddatur,2015-12-30,11300.0,0.0,29.6,clear
+109,Bengal Gram(Gram),Jammalamadugu,2015-12-31,4600.0,0.0,29.6,clear
+110,Bengal Gram(Gram),Kamalapuram,2015-12-31,4300.0,0.0,29.6,clear
+111,Bengal Gram(Gram),Proddatur,2015-12-31,5100.0,0.0,29.6,clear
+112,Black Gram (Urd Beans),Jammalamadugu,2015-12-31,9850.0,0.0,29.6,clear
+113,Black Gram (Urd Beans),Kamalapuram,2015-12-31,7900.0,0.0,29.6,clear
+114,Black Gram (Urd Beans),Proddatur,2015-12-31,11300.0,0.0,29.6,clear
+115,Bengal Gram(Gram),Proddatur,2015-12-07,5050.0,0.0,27.0,clear
+116,Arhar (Tur/Red Gram),Jammalamadugu,2016-10-03,7900.0,0.0,32.2,clear
+117,Bengal Gram(Gram),Jammalamadugu,2016-10-03,4550.0,0.0,32.2,clear
+118,Bengal Gram(Gram),Proddatur,2016-10-03,4650.0,0.0,32.2,clear
+119,Black Gram (Urd Beans),Kamalapuram,2016-10-03,8400.0,0.0,32.2,clear
+120,Black Gram (Urd Beans),Proddatur,2016-10-03,9600.0,0.0,32.2,clear
+121,Arhar (Tur/Red Gram),Jammalamadugu,2016-03-14,8100.0,0.0,36.2,clear
+122,Bengal Gram(Gram),Jammalamadugu,2016-03-14,4650.0,0.0,36.2,clear
+123,Bengal Gram(Gram),Kamalapuram,2016-03-14,4300.0,0.0,36.2,clear
+124,Bengal Gram(Gram),Proddatur,2016-03-14,4600.0,0.0,36.2,clear
+125,Black Gram (Urd Beans),Jammalamadugu,2016-03-14,8230.0,0.0,36.2,clear
+126,Black Gram (Urd Beans),Kamalapuram,2016-03-14,8300.0,0.0,36.2,clear
+127,Black Gram (Urd Beans),Proddatur,2016-03-14,9600.0,0.0,36.2,clear
+128,Arhar (Tur/Red Gram),Jammalamadugu,2016-03-25,8100.0,0.0,36.4,clear
+129,Bengal Gram(Gram),Kamalapuram,2016-03-25,4600.0,0.0,36.4,clear
+130,Bengal Gram(Gram),Proddatur,2016-03-25,6150.0,0.0,36.4,clear
+131,Black Gram (Urd Beans),Kamalapuram,2016-03-25,8400.0,0.0,36.4,clear
+132,Black Gram (Urd Beans),Proddatur,2016-03-25,9600.0,0.0,36.4,clear
+133,Arhar (Tur/Red Gram),Jammalamadugu,2016-04-24,9600.0,0.0,44.6,clear
+134,Bengal Gram(Gram),Jammalamadugu,2016-04-24,5100.0,0.0,44.6,clear
+135,Bengal Gram(Gram),Proddatur,2016-04-24,4700.0,0.0,44.6,clear
+136,Arhar (Tur/Red Gram),Jammalamadugu,2016-05-22,9100.0,0.0,39.6,clear
+137,Bengal Gram(Gram),Jammalamadugu,2016-05-22,5700.0,0.0,39.6,clear
+138,Bengal Gram(Gram),Proddatur,2016-05-22,4800.0,0.0,39.6,clear
+139,Arhar (Tur/Red Gram),Proddatur,2016-12-08,7900.0,0.0,30.8,clear
+140,Bengal Gram(Gram),Jammalamadugu,2016-12-08,7300.0,0.0,30.8,clear
+141,Bengal Gram(Gram),Kamalapuram,2016-12-08,6800.0,0.0,30.8,clear
+142,Bengal Gram(Gram),Proddatur,2016-12-08,8550.0,0.0,30.8,clear
+143,Black Gram (Urd Beans),Kamalapuram,2016-12-08,9800.0,0.0,30.8,clear
+144,Black Gram (Urd Beans),Proddatur,2016-12-08,8400.0,0.0,30.8,clear
+145,Arhar (Tur/Red Gram),Proddatur,2016-08-13,7900.0,0.0,35.0,clear
+146,Bengal Gram(Gram),Jammalamadugu,2016-08-13,7600.0,0.0,35.0,clear
+147,Bengal Gram(Gram),Kamalapuram,2016-08-13,6800.0,0.0,35.0,clear
+148,Bengal Gram(Gram),Proddatur,2016-08-13,8550.0,0.0,35.0,clear
+149,Black Gram (Urd Beans),Kamalapuram,2016-08-13,9800.0,0.0,35.0,clear
+150,Black Gram (Urd Beans),Proddatur,2016-08-13,8500.0,0.0,35.0,clear
+151,Arhar (Tur/Red Gram),Proddatur,2016-08-14,7900.0,0.0,36.2,clear
+152,Bengal Gram(Gram),Jammalamadugu,2016-08-14,8100.0,0.0,36.2,clear
+153,Bengal Gram(Gram),Proddatur,2016-08-14,8550.0,0.0,36.2,clear
+154,Black Gram (Urd Beans),Kamalapuram,2016-08-14,9800.0,0.0,36.2,clear
+155,Black Gram (Urd Beans),Proddatur,2016-08-14,8500.0,0.0,36.2,clear
+156,Arhar (Tur/Red Gram),Proddatur,2016-09-16,6900.0,0.0,34.8,clear
+157,Bengal Gram(Gram),Jammalamadugu,2016-09-16,8600.0,0.0,34.8,clear
+158,Bengal Gram(Gram),Kamalapuram,2016-09-16,7500.0,0.0,34.8,clear
+159,Bengal Gram(Gram),Proddatur,2016-09-16,7200.0,0.0,34.8,clear
+160,Black Gram (Urd Beans),Kamalapuram,2016-09-16,6900.0,0.0,34.8,clear
+161,Black Gram (Urd Beans),Proddatur,2016-09-16,7900.0,0.0,34.8,clear
+162,Arhar (Tur/Red Gram),Proddatur,2016-09-27,6800.0,0.0,32.4,clear
+163,Bengal Gram(Gram),Jammalamadugu,2016-09-27,8900.0,0.0,32.4,clear
+164,Bengal Gram(Gram),Kamalapuram,2016-09-27,7700.0,0.0,32.4,clear
+165,Bengal Gram(Gram),Proddatur,2016-09-27,7800.0,0.0,32.4,clear
+166,Green Gram (Moong),Proddatur,2016-09-27,4900.0,0.0,32.4,clear
+167,Arhar (Tur/Red Gram),Proddatur,2016-09-28,6800.0,0.0,33.6,clear
+168,Bengal Gram(Gram),Jammalamadugu,2016-09-28,8900.0,0.0,33.6,clear
+169,Bengal Gram(Gram),Kamalapuram,2016-09-28,7600.0,0.0,33.6,clear
+170,Bengal Gram(Gram),Proddatur,2016-09-28,7800.0,0.0,33.6,clear
+171,Black Gram (Urd Beans),Kamalapuram,2016-09-28,6400.0,0.0,33.6,clear
+172,Arhar (Tur/Red Gram),Proddatur,2016-09-29,6800.0,0.0,35.6,clear
+173,Bengal Gram(Gram),Jammalamadugu,2016-09-29,8100.0,0.0,35.6,clear
+174,Bengal Gram(Gram),Kamalapuram,2016-09-29,7600.0,0.0,35.6,clear
+175,Bengal Gram(Gram),Proddatur,2016-09-29,7800.0,0.0,35.6,clear
+176,Black Gram (Urd Beans),Kamalapuram,2016-09-29,6500.0,0.0,35.6,clear
+177,Arhar (Tur/Red Gram),Proddatur,2016-09-30,6900.0,0.0,35.6,clear
+178,Bengal Gram(Gram),Jammalamadugu,2016-09-30,8100.0,0.0,35.6,clear
+179,Bengal Gram(Gram),Proddatur,2016-09-30,7800.0,0.0,35.6,clear
+180,Black Gram (Urd Beans),Proddatur,2016-09-30,8300.0,0.0,35.6,clear
+181,Green Gram (Moong),Proddatur,2016-09-30,4600.0,0.0,35.6,clear
+182,Arhar (Tur/Red Gram),Proddatur,2016-08-10,11000.0,0.0,36.6,clear
+183,Bengal Gram(Gram),Jammalamadugu,2016-08-10,8600.0,0.0,36.6,clear
+184,Bengal Gram(Gram),Kamalapuram,2016-08-10,7500.0,0.0,36.6,clear
+185,Bengal Gram(Gram),Proddatur,2016-08-10,9200.0,0.0,36.6,clear
+186,Black Gram (Urd Beans),Kamalapuram,2016-08-10,6200.0,0.0,36.6,clear
+187,Arhar (Tur/Red Gram),Proddatur,2016-10-15,6800.0,0.0,36.8,clear
+188,Bengal Gram(Gram),Jammalamadugu,2016-10-15,8900.0,0.0,36.8,clear
+189,Bengal Gram(Gram),Proddatur,2016-10-15,9200.0,0.0,36.8,clear
+190,Black Gram (Urd Beans),Proddatur,2016-10-15,7800.0,0.0,36.8,clear
+191,Green Gram (Moong),Proddatur,2016-10-15,5400.0,0.0,36.8,clear
+192,Arhar (Tur/Red Gram),Proddatur,2016-10-16,6800.0,0.0,36.4,clear
+193,Bengal Gram(Gram),Jammalamadugu,2016-10-16,8600.0,0.0,36.4,clear
+194,Bengal Gram(Gram),Kamalapuram,2016-10-16,7900.0,0.0,36.4,clear
+195,Bengal Gram(Gram),Proddatur,2016-10-16,9200.0,0.0,36.4,clear
+196,Black Gram (Urd Beans),Kamalapuram,2016-10-16,6500.0,0.0,36.4,clear
+197,Black Gram (Urd Beans),Proddatur,2016-10-16,7800.0,0.0,36.4,clear
+198,Arhar (Tur/Red Gram),Proddatur,2016-10-17,6800.0,0.0,36.6,clear
+199,Bengal Gram(Gram),Jammalamadugu,2016-10-17,9950.0,0.0,36.6,clear
+200,Bengal Gram(Gram),Kamalapuram,2016-10-17,7800.0,0.0,36.6,clear
+201,Bengal Gram(Gram),Proddatur,2016-10-17,9200.0,0.0,36.6,clear
+202,Black Gram (Urd Beans),Kamalapuram,2016-10-17,6500.0,0.0,36.6,clear
+203,Black Gram (Urd Beans),Proddatur,2016-10-17,7800.0,0.0,36.6,clear
+204,Arhar (Tur/Red Gram),Proddatur,2016-10-18,6800.0,0.0,35.8,clear
+205,Bengal Gram(Gram),Jammalamadugu,2016-10-18,10100.0,0.0,35.8,clear
+206,Bengal Gram(Gram),Kamalapuram,2016-10-18,7700.0,0.0,35.8,clear
+207,Black Gram (Urd Beans),Kamalapuram,2016-10-18,6400.0,0.0,35.8,clear
+208,Arhar (Tur/Red Gram),Proddatur,2016-05-11,6300.0,0.0,39.8,clear
+209,Bengal Gram(Gram),Jammalamadugu,2016-05-11,9400.0,0.0,39.8,clear
+210,Bengal Gram(Gram),Kamalapuram,2016-05-11,8900.0,0.0,39.8,clear
+211,Bengal Gram(Gram),Proddatur,2016-05-11,9700.0,0.0,39.8,clear
+212,Black Gram (Urd Beans),Kamalapuram,2016-05-11,6900.0,0.0,39.8,clear
+213,Black Gram (Urd Beans),Proddatur,2016-05-11,7200.0,0.0,39.8,clear
+214,Green Gram (Moong),Proddatur,2016-05-11,4800.0,0.0,39.8,clear
+215,Arhar (Tur/Red Gram),Proddatur,2016-11-25,10500.0,0.0,32.0,clear
+216,Bengal Gram(Gram),Jammalamadugu,2016-11-25,8600.0,0.0,32.0,clear
+217,Bengal Gram(Gram),Kamalapuram,2016-11-25,8900.0,0.0,32.0,clear
+218,Bengal Gram(Gram),Proddatur,2016-11-25,8800.0,0.0,32.0,clear
+219,Black Gram (Urd Beans),Kamalapuram,2016-11-25,6900.0,0.0,32.0,clear
+220,Black Gram (Urd Beans),Proddatur,2016-11-25,6500.0,0.0,32.0,clear
+221,Green Gram (Moong),Proddatur,2016-11-25,4500.0,0.0,32.0,clear
+222,Arhar (Tur/Red Gram),Proddatur,2016-02-12,5800.0,0.0,33.4,clear
+223,Bengal Gram(Gram),Jammalamadugu,2016-02-12,9450.0,0.0,33.4,clear
+224,Bengal Gram(Gram),Kamalapuram,2016-02-12,8400.0,0.0,33.4,clear
+225,Bengal Gram(Gram),Proddatur,2016-02-12,9100.0,0.0,33.4,clear
+226,Black Gram (Urd Beans),Kamalapuram,2016-02-12,6900.0,0.0,33.4,clear
+227,Green Gram (Moong),Proddatur,2016-02-12,4800.0,0.0,33.4,clear
+228,Arhar (Tur/Red Gram),Proddatur,2016-12-30,8500.0,0.0,29.6,clear
+229,Bengal Gram(Gram),Jammalamadugu,2016-12-30,9450.0,0.0,29.6,clear
+230,Bengal Gram(Gram),Jammalamadugu,2016-01-01,5700.0,0.0,29.0,clear
+231,Bengal Gram(Gram),Kamalapuram,2016-01-01,4300.0,0.0,29.0,clear
+232,Bengal Gram(Gram),Proddatur,2016-01-01,5100.0,0.0,29.0,clear
+233,Black Gram (Urd Beans),Kamalapuram,2016-01-01,7700.0,0.0,29.0,clear
+234,Black Gram (Urd Beans),Proddatur,2016-01-01,11300.0,0.0,29.0,clear
+235,Bengal Gram(Gram),Jammalamadugu,2016-03-01,5700.0,0.0,32.4,clear
+236,Bengal Gram(Gram),Kamalapuram,2016-03-01,4300.0,0.0,32.4,clear
+237,Bengal Gram(Gram),Proddatur,2016-03-01,5050.0,0.0,32.4,clear
+238,Black Gram (Urd Beans),Kamalapuram,2016-03-01,7700.0,0.0,32.4,clear
+239,Black Gram (Urd Beans),Proddatur,2016-03-01,11300.0,0.0,32.4,clear
+240,Bengal Gram(Gram),Jammalamadugu,2016-04-01,4800.0,0.0,36.6,clear
+241,Bengal Gram(Gram),Kamalapuram,2016-04-01,4300.0,0.0,36.6,clear
+242,Bengal Gram(Gram),Proddatur,2016-04-01,5100.0,0.0,36.6,clear
+243,Black Gram (Urd Beans),Jammalamadugu,2016-04-01,10300.0,0.0,36.6,clear
+244,Black Gram (Urd Beans),Kamalapuram,2016-04-01,7700.0,0.0,36.6,clear
+245,Black Gram (Urd Beans),Proddatur,2016-04-01,11300.0,0.0,36.6,clear
+246,Bengal Gram(Gram),Jammalamadugu,2016-05-01,5550.0,0.0,42.0,clear
+247,Bengal Gram(Gram),Kamalapuram,2016-05-01,4300.0,0.0,42.0,clear
+248,Bengal Gram(Gram),Proddatur,2016-05-01,5100.0,0.0,42.0,clear
+249,Black Gram (Urd Beans),Kamalapuram,2016-05-01,7700.0,0.0,42.0,clear
+250,Black Gram (Urd Beans),Proddatur,2016-05-01,11300.0,0.0,42.0,clear
+251,Bengal Gram(Gram),Jammalamadugu,2016-06-01,4900.0,0.0,39.4,clear
+252,Bengal Gram(Gram),Kamalapuram,2016-06-01,4300.0,0.0,39.4,clear
+253,Bengal Gram(Gram),Proddatur,2016-06-01,5050.0,0.0,39.4,clear
+254,Black Gram (Urd Beans),Kamalapuram,2016-06-01,7900.0,0.0,39.4,clear
+255,Black Gram (Urd Beans),Proddatur,2016-06-01,11300.0,0.0,39.4,clear
+256,Bengal Gram(Gram),Jammalamadugu,2016-07-01,4700.0,0.0,34.2,clear
+257,Bengal Gram(Gram),Kamalapuram,2016-07-01,4700.0,0.0,34.2,clear
+258,Bengal Gram(Gram),Proddatur,2016-07-01,4750.0,0.0,34.2,clear
+259,Black Gram (Urd Beans),Jammalamadugu,2016-07-01,10250.0,0.0,34.2,clear
+260,Black Gram (Urd Beans),Kamalapuram,2016-07-01,8400.0,0.0,34.2,clear
+261,Black Gram (Urd Beans),Proddatur,2016-07-01,11300.0,0.0,34.2,clear
+262,Bengal Gram(Gram),Jammalamadugu,2016-08-01,4900.0,0.0,32.6,clear
+263,Bengal Gram(Gram),Kamalapuram,2016-08-01,4700.0,0.0,32.6,clear
+264,Bengal Gram(Gram),Proddatur,2016-08-01,11300.0,0.0,32.6,clear
+265,Black Gram (Urd Beans),Kamalapuram,2016-08-01,8400.0,0.0,32.6,clear
+266,Bengal Gram(Gram),Jammalamadugu,2016-09-01,4700.0,0.0,34.4,clear
+267,Bengal Gram(Gram),Kamalapuram,2016-09-01,4700.0,0.0,34.4,clear
+268,Black Gram (Urd Beans),Jammalamadugu,2016-09-01,10100.0,0.0,34.4,clear
+269,Black Gram (Urd Beans),Kamalapuram,2016-09-01,8900.0,0.0,34.4,clear
+270,Bengal Gram(Gram),Jammalamadugu,2016-10-01,4700.0,0.0,34.4,clear
+271,Bengal Gram(Gram),Kamalapuram,2016-10-01,4700.0,0.0,34.4,clear
+272,Bengal Gram(Gram),Proddatur,2016-10-01,4750.0,0.0,34.4,clear
+273,Black Gram (Urd Beans),Kamalapuram,2016-10-01,8900.0,0.0,34.4,clear
+274,Bengal Gram(Gram),Jammalamadugu,2016-11-01,5450.0,0.0,30.6,clear
+275,Bengal Gram(Gram),Kamalapuram,2016-11-01,4700.0,0.0,30.6,clear
+276,Bengal Gram(Gram),Proddatur,2016-11-01,4700.0,0.0,30.6,clear
+277,Black Gram (Urd Beans),Jammalamadugu,2016-11-01,9950.0,0.0,30.6,clear
+278,Black Gram (Urd Beans),Kamalapuram,2016-11-01,8900.0,0.0,30.6,clear
+279,Black Gram (Urd Beans),Proddatur,2016-11-01,11300.0,0.0,30.6,clear
+280,Bengal Gram(Gram),Jammalamadugu,2016-12-01,4600.0,0.0,26.4,rain
+281,Bengal Gram(Gram),Kamalapuram,2016-12-01,4700.0,0.0,26.4,rain
+282,Bengal Gram(Gram),Proddatur,2016-12-01,4700.0,0.0,26.4,rain
+283,Black Gram (Urd Beans),Kamalapuram,2016-12-01,8900.0,0.0,26.4,rain
+284,Black Gram (Urd Beans),Proddatur,2016-12-01,11300.0,0.0,26.4,rain
+285,Bengal Gram(Gram),Jammalamadugu,2016-01-13,4600.0,0.0,28.4,clear
+286,Bengal Gram(Gram),Kamalapuram,2016-01-13,4700.0,0.0,28.4,clear
+287,Bengal Gram(Gram),Proddatur,2016-01-13,4700.0,0.0,28.4,clear
+288,Black Gram (Urd Beans),Jammalamadugu,2016-01-13,9600.0,0.0,28.4,clear
+289,Black Gram (Urd Beans),Kamalapuram,2016-01-13,8900.0,0.0,28.4,clear
+290,Black Gram (Urd Beans),Proddatur,2016-01-13,11300.0,0.0,28.4,clear
+291,Bengal Gram(Gram),Jammalamadugu,2016-01-14,5550.0,0.0,30.0,clear
+292,Bengal Gram(Gram),Kamalapuram,2016-01-14,4700.0,0.0,30.0,clear
+293,Bengal Gram(Gram),Proddatur,2016-01-14,4700.0,0.0,30.0,clear
+294,Black Gram (Urd Beans),Kamalapuram,2016-01-14,8900.0,0.0,30.0,clear
+295,Black Gram (Urd Beans),Proddatur,2016-01-14,11300.0,0.0,30.0,clear
+296,Bengal Gram(Gram),Jammalamadugu,2016-01-15,4600.0,0.0,29.6,clear
+297,Bengal Gram(Gram),Kamalapuram,2016-01-15,4700.0,0.0,29.6,clear
+298,Bengal Gram(Gram),Proddatur,2016-01-15,4700.0,0.0,29.6,clear
+299,Black Gram (Urd Beans),Kamalapuram,2016-01-15,8900.0,0.0,29.6,clear
+300,Black Gram (Urd Beans),Proddatur,2016-01-15,11300.0,0.0,29.6,clear
+301,Bengal Gram(Gram),Jammalamadugu,2016-01-17,4600.0,0.0,28.0,clear
+302,Bengal Gram(Gram),Kamalapuram,2016-01-17,4700.0,0.0,28.0,clear
+303,Bengal Gram(Gram),Proddatur,2016-01-17,4700.0,0.0,28.0,clear
+304,Black Gram (Urd Beans),Jammalamadugu,2016-01-17,10100.0,0.0,28.0,clear
+305,Black Gram (Urd Beans),Kamalapuram,2016-01-17,8900.0,0.0,28.0,clear
+306,Black Gram (Urd Beans),Proddatur,2016-01-17,11300.0,0.0,28.0,clear
+307,Bengal Gram(Gram),Jammalamadugu,2016-01-18,5500.0,0.0,30.2,clear
+308,Bengal Gram(Gram),Kamalapuram,2016-01-18,4700.0,0.0,30.2,clear
+309,Bengal Gram(Gram),Proddatur,2016-01-18,4700.0,0.0,30.2,clear
+310,Black Gram (Urd Beans),Kamalapuram,2016-01-18,8900.0,0.0,30.2,clear
+311,Black Gram (Urd Beans),Proddatur,2016-01-18,11300.0,0.0,30.2,clear
+312,Bengal Gram(Gram),Jammalamadugu,2016-01-20,4700.0,0.0,30.4,clear
+313,Bengal Gram(Gram),Kamalapuram,2016-01-20,4700.0,0.0,30.4,clear
+314,Bengal Gram(Gram),Proddatur,2016-01-20,4700.0,0.0,30.4,clear
+315,Black Gram (Urd Beans),Jammalamadugu,2016-01-20,9100.0,0.0,30.4,clear
+316,Black Gram (Urd Beans),Kamalapuram,2016-01-20,8900.0,0.0,30.4,clear
+317,Black Gram (Urd Beans),Proddatur,2016-01-20,11300.0,0.0,30.4,clear
+318,Bengal Gram(Gram),Jammalamadugu,2016-01-22,4700.0,0.0,30.6,clear
+319,Bengal Gram(Gram),Kamalapuram,2016-01-22,4900.0,0.0,30.6,clear
+320,Bengal Gram(Gram),Proddatur,2016-01-22,4700.0,0.0,30.6,clear
+321,Black Gram (Urd Beans),Kamalapuram,2016-01-22,9100.0,0.0,30.6,clear
+322,Black Gram (Urd Beans),Proddatur,2016-01-22,11300.0,0.0,30.6,clear
+323,Bengal Gram(Gram),Jammalamadugu,2016-01-23,4700.0,0.0,27.8,clear
+324,Bengal Gram(Gram),Kamalapuram,2016-01-23,4900.0,0.0,27.8,clear
+325,Bengal Gram(Gram),Proddatur,2016-01-23,4700.0,0.0,27.8,clear
+326,Black Gram (Urd Beans),Kamalapuram,2016-01-23,9100.0,0.0,27.8,clear
+327,Black Gram (Urd Beans),Proddatur,2016-01-23,11300.0,0.0,27.8,clear
+328,Bengal Gram(Gram),Jammalamadugu,2016-01-25,4600.0,0.0,29.6,clear
+329,Bengal Gram(Gram),Kamalapuram,2016-01-25,4900.0,0.0,29.6,clear
+330,Bengal Gram(Gram),Proddatur,2016-01-25,4700.0,0.0,29.6,clear
+331,Black Gram (Urd Beans),Kamalapuram,2016-01-25,9400.0,0.0,29.6,clear
+332,Black Gram (Urd Beans),Proddatur,2016-01-25,8500.0,0.0,29.6,clear
+333,Green Gram (Moong),Proddatur,2016-01-25,4500.0,0.0,29.6,clear
+334,Bengal Gram(Gram),Jammalamadugu,2016-01-28,4600.0,0.0,31.4,clear
+335,Bengal Gram(Gram),Kamalapuram,2016-01-28,4900.0,0.0,31.4,clear
+336,Bengal Gram(Gram),Proddatur,2016-01-28,4750.0,0.0,31.4,clear
+337,Black Gram (Urd Beans),Kamalapuram,2016-01-28,9100.0,0.0,31.4,clear
+338,Black Gram (Urd Beans),Proddatur,2016-01-28,9300.0,0.0,31.4,clear
+339,Green Gram (Moong),Proddatur,2016-01-28,5800.0,0.0,31.4,clear
+340,Bengal Gram(Gram),Jammalamadugu,2016-01-29,4400.0,0.0,32.2,clear
+341,Bengal Gram(Gram),Kamalapuram,2016-01-29,4900.0,0.0,32.2,clear
+342,Bengal Gram(Gram),Proddatur,2016-01-29,4700.0,0.0,32.2,clear
+343,Black Gram (Urd Beans),Kamalapuram,2016-01-29,9100.0,0.0,32.2,clear
+344,Black Gram (Urd Beans),Proddatur,2016-01-29,9350.0,0.0,32.2,clear
+345,Green Gram (Moong),Proddatur,2016-01-29,5900.0,0.0,32.2,clear
+346,Bengal Gram(Gram),Jammalamadugu,2016-01-30,4400.0,0.0,31.6,clear
+347,Bengal Gram(Gram),Kamalapuram,2016-01-30,4900.0,0.0,31.6,clear
+348,Bengal Gram(Gram),Proddatur,2016-01-30,4750.0,0.0,31.6,clear
+349,Black Gram (Urd Beans),Kamalapuram,2016-01-30,9100.0,0.0,31.6,clear
+350,Black Gram (Urd Beans),Proddatur,2016-01-30,9300.0,0.0,31.6,clear
+351,Green Gram (Moong),Proddatur,2016-01-30,5900.0,0.0,31.6,clear
+352,Bengal Gram(Gram),Jammalamadugu,2016-02-02,4400.0,0.0,33.8,clear
+353,Bengal Gram(Gram),Proddatur,2016-02-02,4750.0,0.0,33.8,clear
+354,Black Gram (Urd Beans),Proddatur,2016-02-02,9300.0,0.0,33.8,clear
+355,Green Gram (Moong),Proddatur,2016-02-02,5900.0,0.0,33.8,clear
+356,Bengal Gram(Gram),Jammalamadugu,2016-08-02,4400.0,0.0,31.4,clear
+357,Bengal Gram(Gram),Kamalapuram,2016-08-02,4700.0,0.0,31.4,clear
+358,Bengal Gram(Gram),Proddatur,2016-08-02,4650.0,0.0,31.4,clear
+359,Black Gram (Urd Beans),Kamalapuram,2016-08-02,8700.0,0.0,31.4,clear
+360,Black Gram (Urd Beans),Proddatur,2016-08-02,9350.0,0.0,31.4,clear
+361,Bengal Gram(Gram),Jammalamadugu,2016-09-02,4200.0,0.0,34.0,clear
+362,Bengal Gram(Gram),Kamalapuram,2016-09-02,4800.0,0.0,34.0,clear
+363,Bengal Gram(Gram),Proddatur,2016-09-02,4600.0,0.0,34.0,clear
+364,Black Gram (Urd Beans),Kamalapuram,2016-09-02,8700.0,0.0,34.0,clear
+365,Black Gram (Urd Beans),Proddatur,2016-09-02,9350.0,0.0,34.0,clear
+366,Bengal Gram(Gram),Jammalamadugu,2016-10-02,4200.0,0.0,36.8,clear
+367,Bengal Gram(Gram),Kamalapuram,2016-10-02,4800.0,0.0,36.8,clear
+368,Bengal Gram(Gram),Proddatur,2016-10-02,4650.0,0.0,36.8,clear
+369,Black Gram (Urd Beans),Kamalapuram,2016-10-02,8700.0,0.0,36.8,clear
+370,Black Gram (Urd Beans),Proddatur,2016-10-02,9200.0,0.0,36.8,clear
+371,Bengal Gram(Gram),Jammalamadugu,2016-02-21,4200.0,0.0,34.2,clear
+372,Bengal Gram(Gram),Kamalapuram,2016-02-21,4700.0,0.0,34.2,clear
+373,Bengal Gram(Gram),Proddatur,2016-02-21,4750.0,0.0,34.2,clear
+374,Black Gram (Urd Beans),Kamalapuram,2016-02-21,8700.0,0.0,34.2,clear
+375,Black Gram (Urd Beans),Proddatur,2016-02-21,9550.0,0.0,34.2,clear
+376,Bengal Gram(Gram),Jammalamadugu,2016-02-23,4600.0,0.0,33.6,clear
+377,Bengal Gram(Gram),Kamalapuram,2016-02-23,4800.0,0.0,33.6,clear
+378,Bengal Gram(Gram),Proddatur,2016-02-23,4750.0,0.0,33.6,clear
+379,Black Gram (Urd Beans),Kamalapuram,2016-02-23,8400.0,0.0,33.6,clear
+380,Black Gram (Urd Beans),Proddatur,2016-02-23,9300.0,0.0,33.6,clear
+381,Bengal Gram(Gram),Jammalamadugu,2016-02-29,4600.0,0.0,33.0,clear
+382,Bengal Gram(Gram),Kamalapuram,2016-02-29,4800.0,0.0,33.0,clear
+383,Bengal Gram(Gram),Proddatur,2016-02-29,4700.0,0.0,33.0,clear
+384,Black Gram (Urd Beans),Kamalapuram,2016-02-29,8400.0,0.0,33.0,clear
+385,Black Gram (Urd Beans),Proddatur,2016-02-29,9400.0,0.0,33.0,clear
+386,Bengal Gram(Gram),Jammalamadugu,2016-01-03,4550.0,0.0,30.0,clear
+387,Bengal Gram(Gram),Kamalapuram,2016-01-03,4400.0,0.0,30.0,clear
+388,Bengal Gram(Gram),Proddatur,2016-01-03,4700.0,0.0,30.0,clear
+389,Black Gram (Urd Beans),Kamalapuram,2016-01-03,8400.0,0.0,30.0,clear
+390,Black Gram (Urd Beans),Proddatur,2016-01-03,9400.0,0.0,30.0,clear
+391,Bengal Gram(Gram),Jammalamadugu,2016-02-03,4650.0,0.0,32.6,clear
+392,Bengal Gram(Gram),Kamalapuram,2016-02-03,4400.0,0.0,32.6,clear
+393,Bengal Gram(Gram),Proddatur,2016-02-03,4700.0,0.0,32.6,clear
+394,Black Gram (Urd Beans),Kamalapuram,2016-02-03,8400.0,0.0,32.6,clear
+395,Black Gram (Urd Beans),Proddatur,2016-02-03,9400.0,0.0,32.6,clear
+396,Bengal Gram(Gram),Jammalamadugu,2016-03-03,4550.0,0.0,33.6,clear
+397,Bengal Gram(Gram),Kamalapuram,2016-03-03,4400.0,0.0,33.6,clear
+398,Bengal Gram(Gram),Proddatur,2016-03-03,4700.0,0.0,33.6,clear
+399,Black Gram (Urd Beans),Kamalapuram,2016-03-03,8400.0,0.0,33.6,clear
+400,Black Gram (Urd Beans),Proddatur,2016-03-03,9400.0,0.0,33.6,clear
+401,Bengal Gram(Gram),Jammalamadugu,2016-04-03,4600.0,0.0,37.2,clear
+402,Bengal Gram(Gram),Proddatur,2016-04-03,4750.0,0.0,37.2,clear
+403,Black Gram (Urd Beans),Kamalapuram,2016-04-03,8400.0,0.0,37.2,clear
+404,Black Gram (Urd Beans),Proddatur,2016-04-03,9550.0,0.0,37.2,clear
+405,Bengal Gram(Gram),Jammalamadugu,2016-05-03,4500.0,0.0,40.8,clear
+406,Bengal Gram(Gram),Kamalapuram,2016-05-03,4400.0,0.0,40.8,clear
+407,Bengal Gram(Gram),Proddatur,2016-05-03,4750.0,0.0,40.8,clear
+408,Black Gram (Urd Beans),Kamalapuram,2016-05-03,8400.0,0.0,40.8,clear
+409,Black Gram (Urd Beans),Proddatur,2016-05-03,9400.0,0.0,40.8,clear
+410,Bengal Gram(Gram),Jammalamadugu,2016-06-03,4550.0,0.0,39.2,clear
+411,Bengal Gram(Gram),Proddatur,2016-06-03,4700.0,0.0,39.2,clear
+412,Black Gram (Urd Beans),Proddatur,2016-06-03,9550.0,0.0,39.2,clear
+413,Bengal Gram(Gram),Jammalamadugu,2016-07-03,4550.0,0.0,35.2,clear
+414,Bengal Gram(Gram),Proddatur,2016-07-03,4700.0,0.0,35.2,clear
+415,Black Gram (Urd Beans),Proddatur,2016-07-03,9550.0,0.0,35.2,clear
+416,Bengal Gram(Gram),Jammalamadugu,2016-08-03,4550.0,0.0,33.0,clear
+417,Bengal Gram(Gram),Kamalapuram,2016-08-03,4400.0,0.0,33.0,clear
+418,Bengal Gram(Gram),Proddatur,2016-08-03,4750.0,0.0,33.0,clear
+419,Black Gram (Urd Beans),Kamalapuram,2016-08-03,8400.0,0.0,33.0,clear
+420,Bengal Gram(Gram),Jammalamadugu,2016-09-03,4600.0,0.0,34.2,clear
+421,Bengal Gram(Gram),Kamalapuram,2016-09-03,4300.0,0.0,34.2,clear
+422,Bengal Gram(Gram),Proddatur,2016-09-03,4750.0,0.0,34.2,clear
+423,Black Gram (Urd Beans),Kamalapuram,2016-09-03,8400.0,0.0,34.2,clear
+424,Black Gram (Urd Beans),Proddatur,2016-09-03,9550.0,0.0,34.2,clear
+425,Bengal Gram(Gram),Jammalamadugu,2016-11-03,4600.0,0.0,31.4,clear
+426,Bengal Gram(Gram),Kamalapuram,2016-11-03,4400.0,0.0,31.4,clear
+427,Bengal Gram(Gram),Proddatur,2016-11-03,4650.0,0.0,31.4,clear
+428,Black Gram (Urd Beans),Kamalapuram,2016-11-03,8300.0,0.0,31.4,clear
+429,Black Gram (Urd Beans),Proddatur,2016-11-03,9600.0,0.0,31.4,clear
+430,Bengal Gram(Gram),Jammalamadugu,2016-12-03,4650.0,0.0,27.6,rain
+431,Bengal Gram(Gram),Kamalapuram,2016-12-03,4350.0,0.0,27.6,rain
+432,Bengal Gram(Gram),Proddatur,2016-12-03,4650.0,0.0,27.6,rain
+433,Black Gram (Urd Beans),Kamalapuram,2016-12-03,8300.0,0.0,27.6,rain
+434,Black Gram (Urd Beans),Proddatur,2016-12-03,9600.0,0.0,27.6,rain
+435,Bengal Gram(Gram),Jammalamadugu,2016-03-13,4650.0,0.0,36.2,clear
+436,Bengal Gram(Gram),Kamalapuram,2016-03-13,4400.0,0.0,36.2,clear
+437,Bengal Gram(Gram),Proddatur,2016-03-13,4750.0,0.0,36.2,clear
+438,Black Gram (Urd Beans),Kamalapuram,2016-03-13,8300.0,0.0,36.2,clear
+439,Black Gram (Urd Beans),Proddatur,2016-03-13,9600.0,0.0,36.2,clear
+440,Bengal Gram(Gram),Jammalamadugu,2016-03-15,4600.0,0.0,35.8,clear
+441,Bengal Gram(Gram),Kamalapuram,2016-03-15,4300.0,0.0,35.8,clear
+442,Bengal Gram(Gram),Proddatur,2016-03-15,4600.0,0.0,35.8,clear
+443,Black Gram (Urd Beans),Kamalapuram,2016-03-15,8200.0,0.0,35.8,clear
+444,Black Gram (Urd Beans),Proddatur,2016-03-15,9600.0,0.0,35.8,clear
+445,Bengal Gram(Gram),Jammalamadugu,2016-03-16,4650.0,0.0,36.2,clear
+446,Bengal Gram(Gram),Kamalapuram,2016-03-16,4400.0,0.0,36.2,clear
+447,Bengal Gram(Gram),Proddatur,2016-03-16,4700.0,0.0,36.2,clear
+448,Black Gram (Urd Beans),Kamalapuram,2016-03-16,8300.0,0.0,36.2,clear
+449,Black Gram (Urd Beans),Proddatur,2016-03-16,9600.0,0.0,36.2,clear
+450,Bengal Gram(Gram),Jammalamadugu,2016-03-17,4700.0,0.0,36.6,clear
+451,Bengal Gram(Gram),Proddatur,2016-03-17,9700.0,0.0,36.6,clear
+452,Black Gram (Urd Beans),Proddatur,2016-03-17,9700.0,0.0,36.6,clear
+453,Bengal Gram(Gram),Jammalamadugu,2016-03-18,4800.0,0.0,36.8,clear
+454,Bengal Gram(Gram),Kamalapuram,2016-03-18,4300.0,0.0,36.8,clear
+455,Bengal Gram(Gram),Proddatur,2016-03-18,4700.0,0.0,36.8,clear
+456,Black Gram (Urd Beans),Kamalapuram,2016-03-18,8200.0,0.0,36.8,clear
+457,Black Gram (Urd Beans),Proddatur,2016-03-18,9600.0,0.0,36.8,clear
+458,Bengal Gram(Gram),Jammalamadugu,2016-03-19,4650.0,0.0,38.8,clear
+459,Bengal Gram(Gram),Kamalapuram,2016-03-19,4300.0,0.0,38.8,clear
+460,Bengal Gram(Gram),Proddatur,2016-03-19,4700.0,0.0,38.8,clear
+461,Black Gram (Urd Beans),Kamalapuram,2016-03-19,8200.0,0.0,38.8,clear
+462,Black Gram (Urd Beans),Proddatur,2016-03-19,9600.0,0.0,38.8,clear
+463,Green Gram (Moong),Jammalamadugu,2016-03-19,5400.0,0.0,38.8,clear
+464,Bengal Gram(Gram),Jammalamadugu,2016-03-20,4700.0,0.0,39.0,clear
+465,Bengal Gram(Gram),Proddatur,2016-03-20,4700.0,0.0,39.0,clear
+466,Black Gram (Urd Beans),Proddatur,2016-03-20,9700.0,0.0,39.0,clear
+467,Bengal Gram(Gram),Jammalamadugu,2016-03-21,4700.0,0.0,40.4,clear
+468,Bengal Gram(Gram),Kamalapuram,2016-03-21,4300.0,0.0,40.4,clear
+469,Bengal Gram(Gram),Proddatur,2016-03-21,4700.0,0.0,40.4,clear
+470,Black Gram (Urd Beans),Kamalapuram,2016-03-21,8100.0,0.0,40.4,clear
+471,Black Gram (Urd Beans),Proddatur,2016-03-21,9600.0,0.0,40.4,clear
+472,Bengal Gram(Gram),Jammalamadugu,2016-03-22,4700.0,0.0,40.0,clear
+473,Bengal Gram(Gram),Kamalapuram,2016-03-22,4300.0,0.0,40.0,clear
+474,Bengal Gram(Gram),Proddatur,2016-03-22,4700.0,0.0,40.0,clear
+475,Black Gram (Urd Beans),Kamalapuram,2016-03-22,8100.0,0.0,40.0,clear
+476,Black Gram (Urd Beans),Proddatur,2016-03-22,9700.0,0.0,40.0,clear
+477,Bengal Gram(Gram),Jammalamadugu,2016-03-23,4650.0,0.0,40.2,clear
+478,Bengal Gram(Gram),Kamalapuram,2016-03-23,4300.0,0.0,40.2,clear
+479,Bengal Gram(Gram),Proddatur,2016-03-23,9600.0,0.0,40.2,clear
+480,Black Gram (Urd Beans),Kamalapuram,2016-03-23,8100.0,0.0,40.2,clear
+481,Black Gram (Urd Beans),Proddatur,2016-03-23,9600.0,0.0,40.2,clear
+482,Bengal Gram(Gram),Jammalamadugu,2016-03-28,4230.0,0.0,35.8,clear
+483,Bengal Gram(Gram),Kamalapuram,2016-03-28,4650.0,0.0,35.8,clear
+484,Bengal Gram(Gram),Proddatur,2016-03-28,6100.0,0.0,35.8,clear
+485,Black Gram (Urd Beans),Kamalapuram,2016-03-28,8600.0,0.0,35.8,clear
+486,Black Gram (Urd Beans),Proddatur,2016-03-28,9600.0,0.0,35.8,clear
+487,Bengal Gram(Gram),Jammalamadugu,2016-03-04,6100.0,0.0,33.2,clear
+488,Bengal Gram(Gram),Kamalapuram,2016-03-04,4400.0,0.0,33.2,clear
+489,Black Gram (Urd Beans),Kamalapuram,2016-03-04,8300.0,0.0,33.2,clear
+490,Bengal Gram(Gram),Jammalamadugu,2016-04-04,6100.0,0.0,38.6,clear
+491,Bengal Gram(Gram),Kamalapuram,2016-04-04,4500.0,0.0,38.6,clear
+492,Bengal Gram(Gram),Proddatur,2016-04-04,4800.0,0.0,38.6,clear
+493,Black Gram (Urd Beans),Kamalapuram,2016-04-04,8300.0,0.0,38.6,clear
+494,Black Gram (Urd Beans),Proddatur,2016-04-04,9600.0,0.0,38.6,clear
+495,Bengal Gram(Gram),Jammalamadugu,2016-05-04,6100.0,0.0,39.2,clear
+496,Bengal Gram(Gram),Kamalapuram,2016-05-04,4450.0,0.0,39.2,clear
+497,Black Gram (Urd Beans),Kamalapuram,2016-05-04,8300.0,0.0,39.2,clear
+498,Bengal Gram(Gram),Jammalamadugu,2016-06-04,4900.0,0.0,33.0,clear
+499,Black Gram (Urd Beans),Kamalapuram,2016-06-04,8250.0,0.0,33.0,clear
+500,Bengal Gram(Gram),Jammalamadugu,2016-07-04,6100.0,0.0,36.8,clear
+501,Bengal Gram(Gram),Kamalapuram,2016-07-04,4550.0,0.0,36.8,clear
+502,Bengal Gram(Gram),Proddatur,2016-07-04,4800.0,0.0,36.8,clear
+503,Black Gram (Urd Beans),Kamalapuram,2016-07-04,8100.0,0.0,36.8,clear
+504,Black Gram (Urd Beans),Proddatur,2016-07-04,9600.0,0.0,36.8,clear
+505,Bengal Gram(Gram),Jammalamadugu,2016-08-04,6100.0,0.0,34.6,clear
+506,Bengal Gram(Gram),Kamalapuram,2016-08-04,8300.0,0.0,34.6,clear
+507,Bengal Gram(Gram),Proddatur,2016-08-04,4700.0,0.0,34.6,clear
+508,Green Gram (Moong),Jammalamadugu,2016-08-04,4800.0,0.0,34.6,clear
+509,Bengal Gram(Gram),Jammalamadugu,2016-09-04,6100.0,0.0,33.6,clear
+510,Bengal Gram(Gram),Kamalapuram,2016-09-04,4500.0,0.0,33.6,clear
+511,Bengal Gram(Gram),Proddatur,2016-09-04,4800.0,0.0,33.6,clear
+512,Black Gram (Urd Beans),Kamalapuram,2016-09-04,8200.0,0.0,33.6,clear
+513,Bengal Gram(Gram),Jammalamadugu,2016-10-04,5200.0,0.0,30.0,clear
+514,Bengal Gram(Gram),Proddatur,2016-10-04,4750.0,0.0,30.0,clear
+515,Black Gram (Urd Beans),Kamalapuram,2016-10-04,8200.0,0.0,30.0,clear
+516,Bengal Gram(Gram),Jammalamadugu,2016-12-04,5100.0,0.0,27.0,rain
+517,Bengal Gram(Gram),Kamalapuram,2016-12-04,4550.0,0.0,27.0,rain
+518,Bengal Gram(Gram),Proddatur,2016-12-04,4700.0,0.0,27.0,rain
+519,Black Gram (Urd Beans),Kamalapuram,2016-12-04,8100.0,0.0,27.0,rain
+520,Green Gram (Moong),Jammalamadugu,2016-12-04,5100.0,0.0,27.0,rain
+521,Bengal Gram(Gram),Jammalamadugu,2016-04-13,5100.0,0.0,40.8,clear
+522,Bengal Gram(Gram),Kamalapuram,2016-04-13,4550.0,0.0,40.8,clear
+523,Bengal Gram(Gram),Proddatur,2016-04-13,4700.0,0.0,40.8,clear
+524,Black Gram (Urd Beans),Kamalapuram,2016-04-13,8100.0,0.0,40.8,clear
+525,Bengal Gram(Gram),Jammalamadugu,2016-04-14,6600.0,0.0,40.2,clear
+526,Bengal Gram(Gram),Kamalapuram,2016-04-14,4600.0,0.0,40.2,clear
+527,Bengal Gram(Gram),Proddatur,2016-04-14,4700.0,0.0,40.2,clear
+528,Black Gram (Urd Beans),Kamalapuram,2016-04-14,8400.0,0.0,40.2,clear
+529,Bengal Gram(Gram),Jammalamadugu,2016-04-15,6100.0,0.0,39.8,clear
+530,Bengal Gram(Gram),Kamalapuram,2016-04-15,4600.0,0.0,39.8,clear
+531,Bengal Gram(Gram),Proddatur,2016-04-15,4700.0,0.0,39.8,clear
+532,Black Gram (Urd Beans),Kamalapuram,2016-04-15,8400.0,0.0,39.8,clear
+533,Bengal Gram(Gram),Jammalamadugu,2016-04-17,6100.0,0.0,39.0,clear
+534,Bengal Gram(Gram),Kamalapuram,2016-04-17,4650.0,0.0,39.0,clear
+535,Bengal Gram(Gram),Proddatur,2016-04-17,4700.0,0.0,39.0,clear
+536,Black Gram (Urd Beans),Kamalapuram,2016-04-17,8400.0,0.0,39.0,clear
+537,Bengal Gram(Gram),Jammalamadugu,2016-04-18,6100.0,0.0,39.0,clear
+538,Bengal Gram(Gram),Kamalapuram,2016-04-18,4550.0,0.0,39.0,clear
+539,Bengal Gram(Gram),Proddatur,2016-04-18,4750.0,0.0,39.0,clear
+540,Black Gram (Urd Beans),Kamalapuram,2016-04-18,8600.0,0.0,39.0,clear
+541,Bengal Gram(Gram),Jammalamadugu,2016-04-20,5600.0,0.0,40.4,clear
+542,Bengal Gram(Gram),Proddatur,2016-04-20,4700.0,0.0,40.4,clear
+543,Green Gram (Moong),Jammalamadugu,2016-04-20,5100.0,0.0,40.4,clear
+544,Bengal Gram(Gram),Jammalamadugu,2016-04-22,5100.0,0.0,42.4,clear
+545,Bengal Gram(Gram),Kamalapuram,2016-04-22,4700.0,0.0,42.4,clear
+546,Bengal Gram(Gram),Proddatur,2016-04-22,4700.0,0.0,42.4,clear
+547,Black Gram (Urd Beans),Kamalapuram,2016-04-22,8850.0,0.0,42.4,clear
+548,Bengal Gram(Gram),Jammalamadugu,2016-04-25,5100.0,0.0,42.8,clear
+549,Bengal Gram(Gram),Kamalapuram,2016-04-25,4650.0,0.0,42.8,clear
+550,Bengal Gram(Gram),Proddatur,2016-04-25,4700.0,0.0,42.8,clear
+551,Black Gram (Urd Beans),Kamalapuram,2016-04-25,8850.0,0.0,42.8,clear
+552,Bengal Gram(Gram),Jammalamadugu,2016-03-05,4950.0,0.0,34.2,clear
+553,Bengal Gram(Gram),Kamalapuram,2016-03-05,4850.0,0.0,34.2,clear
+554,Bengal Gram(Gram),Proddatur,2016-03-05,4700.0,0.0,34.2,clear
+555,Black Gram (Urd Beans),Kamalapuram,2016-03-05,8900.0,0.0,34.2,clear
+556,Bengal Gram(Gram),Jammalamadugu,2016-06-05,4800.0,0.0,38.0,clear
+557,Bengal Gram(Gram),Kamalapuram,2016-06-05,4900.0,0.0,38.0,clear
+558,Bengal Gram(Gram),Proddatur,2016-06-05,4700.0,0.0,38.0,clear
+559,Black Gram (Urd Beans),Kamalapuram,2016-06-05,9000.0,0.0,38.0,clear
+560,Bengal Gram(Gram),Jammalamadugu,2016-07-05,6100.0,0.0,33.0,clear
+561,Bengal Gram(Gram),Kamalapuram,2016-07-05,4850.0,0.0,33.0,clear
+562,Bengal Gram(Gram),Proddatur,2016-07-05,4750.0,0.0,33.0,clear
+563,Black Gram (Urd Beans),Kamalapuram,2016-07-05,8900.0,0.0,33.0,clear
+564,Bengal Gram(Gram),Jammalamadugu,2016-11-05,5100.0,0.0,35.8,clear
+565,Bengal Gram(Gram),Kamalapuram,2016-11-05,4900.0,0.0,35.8,clear
+566,Bengal Gram(Gram),Proddatur,2016-11-05,4700.0,0.0,35.8,clear
+567,Black Gram (Urd Beans),Kamalapuram,2016-11-05,8900.0,0.0,35.8,clear
+568,Bengal Gram(Gram),Jammalamadugu,2016-05-20,4900.0,0.0,35.8,clear
+569,Bengal Gram(Gram),Kamalapuram,2016-05-20,4850.0,0.0,35.8,clear
+570,Bengal Gram(Gram),Proddatur,2016-05-20,4700.0,0.0,35.8,clear
+571,Black Gram (Urd Beans),Kamalapuram,2016-05-20,8900.0,0.0,35.8,clear
+572,Bengal Gram(Gram),Jammalamadugu,2016-05-21,6200.0,0.0,38.2,clear
+573,Bengal Gram(Gram),Kamalapuram,2016-05-21,4800.0,0.0,38.2,clear
+574,Bengal Gram(Gram),Proddatur,2016-05-21,4750.0,0.0,38.2,clear
+575,Black Gram (Urd Beans),Kamalapuram,2016-05-21,8900.0,0.0,38.2,clear
+576,Bengal Gram(Gram),Jammalamadugu,2016-05-23,5950.0,0.0,40.2,clear
+577,Bengal Gram(Gram),Proddatur,2016-05-23,4750.0,0.0,40.2,clear
+578,Bengal Gram(Gram),Jammalamadugu,2016-05-24,5700.0,0.0,40.2,clear
+579,Bengal Gram(Gram),Proddatur,2016-05-24,4850.0,0.0,40.2,clear
+580,Black Gram (Urd Beans),Kamalapuram,2016-05-24,8900.0,0.0,40.2,clear
+581,Bengal Gram(Gram),Jammalamadugu,2016-05-25,5100.0,0.0,40.6,clear
+582,Bengal Gram(Gram),Kamalapuram,2016-05-25,4850.0,0.0,40.6,clear
+583,Bengal Gram(Gram),Proddatur,2016-05-25,4850.0,0.0,40.6,clear
+584,Black Gram (Urd Beans),Kamalapuram,2016-05-25,8900.0,0.0,40.6,clear
+585,Bengal Gram(Gram),Jammalamadugu,2016-05-26,4900.0,0.0,41.0,clear
+586,Bengal Gram(Gram),Kamalapuram,2016-05-26,4850.0,0.0,41.0,clear
+587,Bengal Gram(Gram),Proddatur,2016-05-26,4650.0,0.0,41.0,clear
+588,Black Gram (Urd Beans),Kamalapuram,2016-05-26,8900.0,0.0,41.0,clear
+589,Bengal Gram(Gram),Jammalamadugu,2016-05-27,5100.0,0.0,40.0,clear
+590,Bengal Gram(Gram),Kamalapuram,2016-05-27,4800.0,0.0,40.0,clear
+591,Bengal Gram(Gram),Proddatur,2016-05-27,4850.0,0.0,40.0,clear
+592,Bengal Gram(Gram),Jammalamadugu,2016-05-28,5100.0,0.0,40.6,clear
+593,Bengal Gram(Gram),Kamalapuram,2016-05-28,4850.0,0.0,40.6,clear
+594,Bengal Gram(Gram),Proddatur,2016-05-28,4750.0,0.0,40.6,clear
+595,Black Gram (Urd Beans),Kamalapuram,2016-05-28,8800.0,0.0,40.6,clear
+596,Bengal Gram(Gram),Jammalamadugu,2016-05-29,4900.0,0.0,34.0,clear
+597,Bengal Gram(Gram),Kamalapuram,2016-05-29,4850.0,0.0,34.0,clear
+598,Bengal Gram(Gram),Proddatur,2016-05-29,4850.0,0.0,34.0,clear
+599,Black Gram (Urd Beans),Kamalapuram,2016-05-29,8800.0,0.0,34.0,clear
+600,Bengal Gram(Gram),Jammalamadugu,2016-02-06,4900.0,0.0,29.0,clear
+601,Bengal Gram(Gram),Kamalapuram,2016-02-06,4800.0,0.0,29.0,clear
+602,Bengal Gram(Gram),Proddatur,2016-02-06,4750.0,0.0,29.0,clear
+603,Black Gram (Urd Beans),Kamalapuram,2016-02-06,9100.0,0.0,29.0,clear
+604,Bengal Gram(Gram),Jammalamadugu,2016-03-06,4900.0,0.0,35.0,clear
+605,Bengal Gram(Gram),Kamalapuram,2016-03-06,4850.0,0.0,35.0,clear
+606,Bengal Gram(Gram),Proddatur,2016-03-06,4850.0,0.0,35.0,clear
+607,Black Gram (Urd Beans),Kamalapuram,2016-03-06,8900.0,0.0,35.0,clear
+608,Bengal Gram(Gram),Jammalamadugu,2016-04-06,4900.0,0.0,38.4,clear
+609,Bengal Gram(Gram),Proddatur,2016-04-06,4750.0,0.0,38.4,clear
+610,Bengal Gram(Gram),Jammalamadugu,2016-05-06,4900.0,0.0,36.4,clear
+611,Bengal Gram(Gram),Proddatur,2016-05-06,4750.0,0.0,36.4,clear
+612,Black Gram (Urd Beans),Kamalapuram,2016-05-06,8900.0,0.0,36.4,clear
+613,Bengal Gram(Gram),Jammalamadugu,2016-06-06,4900.0,0.0,35.2,clear
+614,Bengal Gram(Gram),Kamalapuram,2016-06-06,4850.0,0.0,35.2,clear
+615,Bengal Gram(Gram),Proddatur,2016-06-06,4800.0,0.0,35.2,clear
+616,Black Gram (Urd Beans),Kamalapuram,2016-06-06,8900.0,0.0,35.2,clear
+617,Bengal Gram(Gram),Jammalamadugu,2016-08-06,4900.0,0.0,35.0,clear
+618,Bengal Gram(Gram),Proddatur,2016-08-06,4780.0,0.0,35.0,clear
+619,Bengal Gram(Gram),Jammalamadugu,2016-09-06,5100.0,0.0,35.4,clear
+620,Bengal Gram(Gram),Kamalapuram,2016-09-06,4750.0,0.0,35.4,clear
+621,Bengal Gram(Gram),Proddatur,2016-09-06,6100.0,0.0,35.4,clear
+622,Black Gram (Urd Beans),Kamalapuram,2016-09-06,8900.0,0.0,35.4,clear
+623,Bengal Gram(Gram),Jammalamadugu,2016-10-06,6100.0,0.0,36.4,clear
+624,Bengal Gram(Gram),Kamalapuram,2016-10-06,4750.0,0.0,36.4,clear
+625,Black Gram (Urd Beans),Kamalapuram,2016-10-06,8900.0,0.0,36.4,clear
+626,Bengal Gram(Gram),Jammalamadugu,2016-11-06,6650.0,0.0,35.4,clear
+627,Bengal Gram(Gram),Kamalapuram,2016-11-06,4850.0,0.0,35.4,clear
+628,Bengal Gram(Gram),Proddatur,2016-11-06,6100.0,0.0,35.4,clear
+629,Black Gram (Urd Beans),Kamalapuram,2016-11-06,8900.0,0.0,35.4,clear
+630,Bengal Gram(Gram),Jammalamadugu,2016-12-06,7050.0,0.0,29.6,clear
+631,Bengal Gram(Gram),Kamalapuram,2016-12-06,4800.0,0.0,29.6,clear
+632,Bengal Gram(Gram),Proddatur,2016-12-06,6100.0,0.0,29.6,clear
+633,Black Gram (Urd Beans),Kamalapuram,2016-12-06,8900.0,0.0,29.6,clear
+634,Bengal Gram(Gram),Jammalamadugu,2016-06-13,6600.0,0.0,37.2,clear
+635,Bengal Gram(Gram),Kamalapuram,2016-06-13,4800.0,0.0,37.2,clear
+636,Bengal Gram(Gram),Proddatur,2016-06-13,6100.0,0.0,37.2,clear
+637,Black Gram (Urd Beans),Kamalapuram,2016-06-13,8900.0,0.0,37.2,clear
+638,Bengal Gram(Gram),Jammalamadugu,2016-06-14,6700.0,0.0,37.4,clear
+639,Bengal Gram(Gram),Kamalapuram,2016-06-14,4800.0,0.0,37.4,clear
+640,Bengal Gram(Gram),Proddatur,2016-06-14,6100.0,0.0,37.4,clear
+641,Black Gram (Urd Beans),Kamalapuram,2016-06-14,8900.0,0.0,37.4,clear
+642,Bengal Gram(Gram),Jammalamadugu,2016-06-15,6700.0,0.0,36.2,clear
+643,Bengal Gram(Gram),Proddatur,2016-06-15,6100.0,0.0,36.2,clear
+644,Bengal Gram(Gram),Jammalamadugu,2016-06-16,6300.0,0.0,36.8,clear
+645,Bengal Gram(Gram),Kamalapuram,2016-06-16,4700.0,0.0,36.8,clear
+646,Bengal Gram(Gram),Proddatur,2016-06-16,6150.0,0.0,36.8,clear
+647,Black Gram (Urd Beans),Kamalapuram,2016-06-16,8900.0,0.0,36.8,clear
+648,Bengal Gram(Gram),Jammalamadugu,2016-06-17,6100.0,0.0,35.0,clear
+649,Bengal Gram(Gram),Proddatur,2016-06-17,6150.0,0.0,35.0,clear
+650,Bengal Gram(Gram),Jammalamadugu,2016-06-18,7000.0,0.0,33.6,clear
+651,Bengal Gram(Gram),Kamalapuram,2016-06-18,4600.0,0.0,33.6,clear
+652,Bengal Gram(Gram),Proddatur,2016-06-18,6100.0,0.0,33.6,clear
+653,Bengal Gram(Gram),Jammalamadugu,2016-06-19,6100.0,0.0,34.2,clear
+654,Bengal Gram(Gram),Kamalapuram,2016-06-19,4700.0,0.0,34.2,clear
+655,Bengal Gram(Gram),Proddatur,2016-06-19,6150.0,0.0,34.2,clear
+656,Black Gram (Urd Beans),Jammalamadugu,2016-06-19,9850.0,0.0,34.2,clear
+657,Black Gram (Urd Beans),Kamalapuram,2016-06-19,9100.0,0.0,34.2,clear
+658,Bengal Gram(Gram),Jammalamadugu,2016-06-20,6150.0,0.0,33.6,clear
+659,Bengal Gram(Gram),Kamalapuram,2016-06-20,4700.0,0.0,33.6,clear
+660,Bengal Gram(Gram),Proddatur,2016-06-20,6150.0,0.0,33.6,clear
+661,Black Gram (Urd Beans),Kamalapuram,2016-06-20,9100.0,0.0,33.6,clear
+662,Bengal Gram(Gram),Jammalamadugu,2016-06-21,6100.0,0.0,34.2,clear
+663,Bengal Gram(Gram),Kamalapuram,2016-06-21,4600.0,0.0,34.2,clear
+664,Bengal Gram(Gram),Proddatur,2016-06-21,6150.0,0.0,34.2,clear
+665,Black Gram (Urd Beans),Jammalamadugu,2016-06-21,12250.0,0.0,34.2,clear
+666,Black Gram (Urd Beans),Kamalapuram,2016-06-21,8900.0,0.0,34.2,clear
+667,Bengal Gram(Gram),Jammalamadugu,2016-06-22,6100.0,0.0,34.2,clear
+668,Bengal Gram(Gram),Kamalapuram,2016-06-22,4700.0,0.0,34.2,clear
+669,Bengal Gram(Gram),Proddatur,2016-06-22,6150.0,0.0,34.2,clear
+670,Black Gram (Urd Beans),Kamalapuram,2016-06-22,8900.0,0.0,34.2,clear
+671,Bengal Gram(Gram),Jammalamadugu,2016-06-23,6100.0,0.0,34.4,clear
+672,Bengal Gram(Gram),Kamalapuram,2016-06-23,4700.0,0.0,34.4,clear
+673,Bengal Gram(Gram),Proddatur,2016-06-23,6150.0,0.0,34.4,clear
+674,Black Gram (Urd Beans),Kamalapuram,2016-06-23,8900.0,0.0,34.4,clear
+675,Bengal Gram(Gram),Jammalamadugu,2016-06-24,6100.0,0.0,33.4,clear
+676,Bengal Gram(Gram),Kamalapuram,2016-06-24,4700.0,0.0,33.4,clear
+677,Bengal Gram(Gram),Proddatur,2016-06-24,6150.0,0.0,33.4,clear
+678,Black Gram (Urd Beans),Kamalapuram,2016-06-24,8900.0,0.0,33.4,clear
+679,Bengal Gram(Gram),Jammalamadugu,2016-06-25,6100.0,0.0,32.0,clear
+680,Bengal Gram(Gram),Kamalapuram,2016-06-25,4700.0,0.0,32.0,clear
+681,Bengal Gram(Gram),Proddatur,2016-06-25,6150.0,0.0,32.0,clear
+682,Black Gram (Urd Beans),Kamalapuram,2016-06-25,8900.0,0.0,32.0,clear
+683,Bengal Gram(Gram),Jammalamadugu,2016-06-26,6100.0,0.0,32.6,rain
+684,Bengal Gram(Gram),Kamalapuram,2016-06-26,4900.0,0.0,32.6,rain
+685,Bengal Gram(Gram),Proddatur,2016-06-26,6350.0,0.0,32.6,rain
+686,Black Gram (Urd Beans),Kamalapuram,2016-06-26,8900.0,0.0,32.6,rain
+687,Bengal Gram(Gram),Jammalamadugu,2016-06-27,6700.0,0.0,31.0,clear
+688,Bengal Gram(Gram),Kamalapuram,2016-06-27,4900.0,0.0,31.0,clear
+689,Bengal Gram(Gram),Proddatur,2016-06-27,6350.0,0.0,31.0,clear
+690,Black Gram (Urd Beans),Kamalapuram,2016-06-27,8900.0,0.0,31.0,clear
+691,Bengal Gram(Gram),Jammalamadugu,2016-06-28,6600.0,0.0,31.8,clear
+692,Bengal Gram(Gram),Kamalapuram,2016-06-28,4900.0,0.0,31.8,clear
+693,Bengal Gram(Gram),Proddatur,2016-06-28,6250.0,0.0,31.8,clear
+694,Black Gram (Urd Beans),Kamalapuram,2016-06-28,8900.0,0.0,31.8,clear
+695,Bengal Gram(Gram),Jammalamadugu,2016-06-29,7100.0,0.0,29.0,rain
+696,Bengal Gram(Gram),Kamalapuram,2016-06-29,4900.0,0.0,29.0,rain
+697,Bengal Gram(Gram),Proddatur,2016-06-29,6350.0,0.0,29.0,rain
+698,Black Gram (Urd Beans),Kamalapuram,2016-06-29,8900.0,0.0,29.0,rain
+699,Bengal Gram(Gram),Jammalamadugu,2016-06-30,6600.0,0.0,33.0,clear
+700,Bengal Gram(Gram),Kamalapuram,2016-06-30,4900.0,0.0,33.0,clear
+701,Bengal Gram(Gram),Proddatur,2016-06-30,6400.0,0.0,33.0,clear
+702,Black Gram (Urd Beans),Kamalapuram,2016-06-30,8900.0,0.0,33.0,clear
+703,Bengal Gram(Gram),Jammalamadugu,2016-01-07,7800.0,0.0,29.4,clear
+704,Bengal Gram(Gram),Kamalapuram,2016-01-07,5400.0,0.0,29.4,clear
+705,Bengal Gram(Gram),Proddatur,2016-01-07,6350.0,0.0,29.4,clear
+706,Black Gram (Urd Beans),Kamalapuram,2016-01-07,8900.0,0.0,29.4,clear
+707,Bengal Gram(Gram),Jammalamadugu,2016-02-07,6600.0,0.0,29.8,clear
+708,Bengal Gram(Gram),Proddatur,2016-02-07,6350.0,0.0,29.8,clear
+709,Bengal Gram(Gram),Jammalamadugu,2016-03-07,6600.0,0.0,35.0,clear
+710,Bengal Gram(Gram),Proddatur,2016-03-07,6300.0,0.0,35.0,clear
+711,Bengal Gram(Gram),Jammalamadugu,2016-04-07,7100.0,0.0,38.4,clear
+712,Bengal Gram(Gram),Proddatur,2016-04-07,6350.0,0.0,38.4,clear
+713,Bengal Gram(Gram),Jammalamadugu,2016-05-07,7100.0,0.0,38.6,clear
+714,Bengal Gram(Gram),Kamalapuram,2016-05-07,5400.0,0.0,38.6,clear
+715,Bengal Gram(Gram),Proddatur,2016-05-07,6350.0,0.0,38.6,clear
+716,Black Gram (Urd Beans),Kamalapuram,2016-05-07,8900.0,0.0,38.6,clear
+717,Bengal Gram(Gram),Jammalamadugu,2016-07-07,7100.0,0.0,33.0,clear
+718,Bengal Gram(Gram),Proddatur,2016-07-07,6700.0,0.0,33.0,clear
+719,Bengal Gram(Gram),Jammalamadugu,2016-08-07,7400.0,0.0,35.6,clear
+720,Bengal Gram(Gram),Kamalapuram,2016-08-07,5100.0,0.0,35.6,clear
+721,Bengal Gram(Gram),Proddatur,2016-08-07,6450.0,0.0,35.6,clear
+722,Black Gram (Urd Beans),Kamalapuram,2016-08-07,8900.0,0.0,35.6,clear
+723,Bengal Gram(Gram),Jammalamadugu,2016-09-07,6500.0,0.0,35.4,clear
+724,Bengal Gram(Gram),Kamalapuram,2016-09-07,5100.0,0.0,35.4,clear
+725,Bengal Gram(Gram),Proddatur,2016-09-07,6350.0,0.0,35.4,clear
+726,Black Gram (Urd Beans),Kamalapuram,2016-09-07,8900.0,0.0,35.4,clear
+727,Bengal Gram(Gram),Jammalamadugu,2016-10-07,7200.0,0.0,35.8,clear
+728,Bengal Gram(Gram),Proddatur,2016-10-07,6100.0,0.0,35.8,clear
+729,Bengal Gram(Gram),Jammalamadugu,2016-11-07,6600.0,0.0,33.8,clear
+730,Bengal Gram(Gram),Kamalapuram,2016-11-07,5100.0,0.0,33.8,clear
+731,Bengal Gram(Gram),Proddatur,2016-11-07,7550.0,0.0,33.8,clear
+732,Bengal Gram(Gram),Jammalamadugu,2016-12-07,8450.0,0.0,30.2,clear
+733,Bengal Gram(Gram),Kamalapuram,2016-12-07,5900.0,0.0,30.2,clear
+734,Bengal Gram(Gram),Proddatur,2016-12-07,9400.0,0.0,30.2,clear
+735,Bengal Gram(Gram),Jammalamadugu,2016-07-13,7600.0,0.0,36.6,clear
+736,Bengal Gram(Gram),Kamalapuram,2016-07-13,5900.0,0.0,36.6,clear
+737,Bengal Gram(Gram),Proddatur,2016-07-13,9780.0,0.0,36.6,clear
+738,Bengal Gram(Gram),Jammalamadugu,2016-07-14,7100.0,0.0,37.8,clear
+739,Bengal Gram(Gram),Kamalapuram,2016-07-14,5900.0,0.0,37.8,clear
+740,Bengal Gram(Gram),Proddatur,2016-07-14,9450.0,0.0,37.8,clear
+741,Black Gram (Urd Beans),Kamalapuram,2016-07-14,8900.0,0.0,37.8,clear
+742,Bengal Gram(Gram),Jammalamadugu,2016-07-15,7500.0,0.0,35.4,clear
+743,Bengal Gram(Gram),Kamalapuram,2016-07-15,5900.0,0.0,35.4,clear
+744,Bengal Gram(Gram),Proddatur,2016-07-15,9450.0,0.0,35.4,clear
+745,Black Gram (Urd Beans),Kamalapuram,2016-07-15,8900.0,0.0,35.4,clear
+746,Bengal Gram(Gram),Jammalamadugu,2016-07-16,10750.0,0.0,34.8,clear
+747,Bengal Gram(Gram),Kamalapuram,2016-07-16,5900.0,0.0,34.8,clear
+748,Bengal Gram(Gram),Proddatur,2016-07-16,9450.0,0.0,34.8,clear
+749,Black Gram (Urd Beans),Kamalapuram,2016-07-16,8900.0,0.0,34.8,clear
+750,Bengal Gram(Gram),Jammalamadugu,2016-07-17,6600.0,0.0,35.6,clear
+751,Bengal Gram(Gram),Kamalapuram,2016-07-17,6400.0,0.0,35.6,clear
+752,Bengal Gram(Gram),Proddatur,2016-07-17,8650.0,0.0,35.6,clear
+753,Black Gram (Urd Beans),Kamalapuram,2016-07-17,9400.0,0.0,35.6,clear
+754,Bengal Gram(Gram),Jammalamadugu,2016-07-18,6600.0,0.0,35.4,clear
+755,Bengal Gram(Gram),Kamalapuram,2016-07-18,6400.0,0.0,35.4,clear
+756,Bengal Gram(Gram),Proddatur,2016-07-18,9400.0,0.0,35.4,clear
+757,Black Gram (Urd Beans),Kamalapuram,2016-07-18,9400.0,0.0,35.4,clear
+758,Bengal Gram(Gram),Jammalamadugu,2016-07-19,9100.0,0.0,31.0,clear
+759,Bengal Gram(Gram),Kamalapuram,2016-07-19,6900.0,0.0,31.0,clear
+760,Bengal Gram(Gram),Proddatur,2016-07-19,9450.0,0.0,31.0,clear
+761,Black Gram (Urd Beans),Kamalapuram,2016-07-19,9400.0,0.0,31.0,clear
+762,Bengal Gram(Gram),Jammalamadugu,2016-07-20,6100.0,0.0,30.4,clear
+763,Bengal Gram(Gram),Proddatur,2016-07-20,9450.0,0.0,30.4,clear
+764,Bengal Gram(Gram),Jammalamadugu,2016-07-21,6200.0,0.0,31.8,clear
+765,Bengal Gram(Gram),Kamalapuram,2016-07-21,6900.0,0.0,31.8,clear
+766,Bengal Gram(Gram),Proddatur,2016-07-21,9450.0,0.0,31.8,clear
+767,Black Gram (Urd Beans),Kamalapuram,2016-07-21,9400.0,0.0,31.8,clear
+768,Bengal Gram(Gram),Jammalamadugu,2016-07-22,6300.0,0.0,33.0,clear
+769,Bengal Gram(Gram),Proddatur,2016-07-22,9450.0,0.0,33.0,clear
+770,Bengal Gram(Gram),Jammalamadugu,2016-07-23,6600.0,0.0,32.8,clear
+771,Bengal Gram(Gram),Kamalapuram,2016-07-23,6900.0,0.0,32.8,clear
+772,Bengal Gram(Gram),Proddatur,2016-07-23,9450.0,0.0,32.8,clear
+773,Black Gram (Urd Beans),Kamalapuram,2016-07-23,9400.0,0.0,32.8,clear
+774,Bengal Gram(Gram),Jammalamadugu,2016-07-24,10300.0,0.0,33.2,clear
+775,Bengal Gram(Gram),Kamalapuram,2016-07-24,6400.0,0.0,33.2,clear
+776,Bengal Gram(Gram),Proddatur,2016-07-24,9450.0,0.0,33.2,clear
+777,Black Gram (Urd Beans),Kamalapuram,2016-07-24,9900.0,0.0,33.2,clear
+778,Bengal Gram(Gram),Jammalamadugu,2016-07-25,9200.0,0.0,33.0,rain
+779,Bengal Gram(Gram),Kamalapuram,2016-07-25,6400.0,0.0,33.0,rain
+780,Bengal Gram(Gram),Proddatur,2016-07-25,9450.0,0.0,33.0,rain
+781,Black Gram (Urd Beans),Kamalapuram,2016-07-25,9900.0,0.0,33.0,rain
+782,Bengal Gram(Gram),Jammalamadugu,2016-07-26,7100.0,0.0,35.0,rain
+783,Bengal Gram(Gram),Kamalapuram,2016-07-26,6900.0,0.0,35.0,rain
+784,Bengal Gram(Gram),Proddatur,2016-07-26,9200.0,0.0,35.0,rain
+785,Black Gram (Urd Beans),Kamalapuram,2016-07-26,9900.0,0.0,35.0,rain
+786,Black Gram (Urd Beans),Proddatur,2016-07-26,14000.0,0.0,35.0,rain
+787,Bengal Gram(Gram),Jammalamadugu,2016-07-29,8100.0,0.0,32.4,clear
+788,Bengal Gram(Gram),Kamalapuram,2016-07-29,6900.0,0.0,32.4,clear
+789,Bengal Gram(Gram),Proddatur,2016-07-29,9250.0,0.0,32.4,clear
+790,Black Gram (Urd Beans),Kamalapuram,2016-07-29,9900.0,0.0,32.4,clear
+791,Black Gram (Urd Beans),Proddatur,2016-07-29,14400.0,0.0,32.4,clear
+792,Bengal Gram(Gram),Jammalamadugu,2016-07-30,8200.0,0.0,30.8,clear
+793,Bengal Gram(Gram),Proddatur,2016-07-30,9350.0,0.0,30.8,clear
+794,Black Gram (Urd Beans),Proddatur,2016-07-30,14300.0,0.0,30.8,clear
+795,Bengal Gram(Gram),Jammalamadugu,2016-07-31,8100.0,0.0,32.2,clear
+796,Bengal Gram(Gram),Kamalapuram,2016-07-31,6900.0,0.0,32.2,clear
+797,Black Gram (Urd Beans),Kamalapuram,2016-07-31,9800.0,0.0,32.2,clear
+798,Bengal Gram(Gram),Jammalamadugu,2016-01-08,8600.0,0.0,29.2,clear
+799,Bengal Gram(Gram),Kamalapuram,2016-01-08,6900.0,0.0,29.2,clear
+800,Bengal Gram(Gram),Proddatur,2016-01-08,8200.0,0.0,29.2,clear
+801,Black Gram (Urd Beans),Kamalapuram,2016-01-08,9800.0,0.0,29.2,clear
+802,Black Gram (Urd Beans),Proddatur,2016-01-08,13000.0,0.0,29.2,clear
+803,Bengal Gram(Gram),Jammalamadugu,2016-02-08,7100.0,0.0,31.0,clear
+804,Bengal Gram(Gram),Kamalapuram,2016-02-08,6400.0,0.0,31.0,clear
+805,Bengal Gram(Gram),Proddatur,2016-02-08,8200.0,0.0,31.0,clear
+806,Black Gram (Urd Beans),Kamalapuram,2016-02-08,9800.0,0.0,31.0,clear
+807,Bengal Gram(Gram),Jammalamadugu,2016-03-08,7900.0,0.0,34.8,clear
+808,Bengal Gram(Gram),Kamalapuram,2016-03-08,6400.0,0.0,34.8,clear
+809,Bengal Gram(Gram),Proddatur,2016-03-08,8200.0,0.0,34.8,clear
+810,Black Gram (Urd Beans),Kamalapuram,2016-03-08,9800.0,0.0,34.8,clear
+811,Bengal Gram(Gram),Jammalamadugu,2016-04-08,7600.0,0.0,38.0,clear
+812,Bengal Gram(Gram),Kamalapuram,2016-04-08,6400.0,0.0,38.0,clear
+813,Black Gram (Urd Beans),Kamalapuram,2016-04-08,9800.0,0.0,38.0,clear
+814,Black Gram (Urd Beans),Proddatur,2016-04-08,13000.0,0.0,38.0,clear
+815,Bengal Gram(Gram),Jammalamadugu,2016-05-08,8100.0,0.0,39.4,clear
+816,Bengal Gram(Gram),Kamalapuram,2016-05-08,6400.0,0.0,39.4,clear
+817,Bengal Gram(Gram),Proddatur,2016-05-08,8250.0,0.0,39.4,clear
+818,Black Gram (Urd Beans),Kamalapuram,2016-05-08,9800.0,0.0,39.4,clear
+819,Black Gram (Urd Beans),Proddatur,2016-05-08,13000.0,0.0,39.4,clear
+820,Bengal Gram(Gram),Jammalamadugu,2016-06-08,8400.0,0.0,31.6,clear
+821,Bengal Gram(Gram),Proddatur,2016-06-08,8250.0,0.0,31.6,clear
+822,Black Gram (Urd Beans),Proddatur,2016-06-08,13000.0,0.0,31.6,clear
+823,Bengal Gram(Gram),Jammalamadugu,2016-07-08,8400.0,0.0,36.0,clear
+824,Bengal Gram(Gram),Kamalapuram,2016-07-08,6800.0,0.0,36.0,clear
+825,Bengal Gram(Gram),Proddatur,2016-07-08,8100.0,0.0,36.0,clear
+826,Black Gram (Urd Beans),Kamalapuram,2016-07-08,9800.0,0.0,36.0,clear
+827,Bengal Gram(Gram),Jammalamadugu,2016-08-08,8450.0,0.0,36.6,clear
+828,Bengal Gram(Gram),Proddatur,2016-08-08,8100.0,0.0,36.6,clear
+829,Bengal Gram(Gram),Jammalamadugu,2016-09-08,7100.0,0.0,35.8,clear
+830,Bengal Gram(Gram),Proddatur,2016-09-08,8100.0,0.0,35.8,clear
+831,Bengal Gram(Gram),Jammalamadugu,2016-10-08,8100.0,0.0,36.8,clear
+832,Bengal Gram(Gram),Kamalapuram,2016-10-08,6500.0,0.0,36.8,clear
+833,Bengal Gram(Gram),Proddatur,2016-10-08,8100.0,0.0,36.8,clear
+834,Black Gram (Urd Beans),Kamalapuram,2016-10-08,9800.0,0.0,36.8,clear
+835,Bengal Gram(Gram),Jammalamadugu,2016-11-08,8100.0,0.0,33.8,clear
+836,Bengal Gram(Gram),Proddatur,2016-11-08,8100.0,0.0,33.8,clear
+837,Bengal Gram(Gram),Jammalamadugu,2016-08-15,8100.0,0.0,35.6,clear
+838,Bengal Gram(Gram),Kamalapuram,2016-08-15,6800.0,0.0,35.6,clear
+839,Black Gram (Urd Beans),Kamalapuram,2016-08-15,9800.0,0.0,35.6,clear
+840,Bengal Gram(Gram),Jammalamadugu,2016-08-16,8100.0,0.0,36.0,clear
+841,Bengal Gram(Gram),Proddatur,2016-08-16,7400.0,0.0,36.0,clear
+842,Black Gram (Urd Beans),Kamalapuram,2016-08-16,9800.0,0.0,36.0,clear
+843,Bengal Gram(Gram),Jammalamadugu,2016-08-17,8100.0,0.0,35.8,clear
+844,Bengal Gram(Gram),Kamalapuram,2016-08-17,6900.0,0.0,35.8,clear
+845,Bengal Gram(Gram),Proddatur,2016-08-17,7500.0,0.0,35.8,clear
+846,Black Gram (Urd Beans),Kamalapuram,2016-08-17,9800.0,0.0,35.8,clear
+847,Bengal Gram(Gram),Jammalamadugu,2016-08-18,7900.0,0.0,36.2,clear
+848,Bengal Gram(Gram),Kamalapuram,2016-08-18,6900.0,0.0,36.2,clear
+849,Bengal Gram(Gram),Proddatur,2016-08-18,7550.0,0.0,36.2,clear
+850,Black Gram (Urd Beans),Jammalamadugu,2016-08-18,9500.0,0.0,36.2,clear
+851,Black Gram (Urd Beans),Kamalapuram,2016-08-18,9700.0,0.0,36.2,clear
+852,Bengal Gram(Gram),Jammalamadugu,2016-08-19,8400.0,0.0,36.8,clear
+853,Bengal Gram(Gram),Kamalapuram,2016-08-19,6800.0,0.0,36.8,clear
+854,Bengal Gram(Gram),Proddatur,2016-08-19,7700.0,0.0,36.8,clear
+855,Black Gram (Urd Beans),Kamalapuram,2016-08-19,9800.0,0.0,36.8,clear
+856,Bengal Gram(Gram),Jammalamadugu,2016-08-20,7950.0,0.0,36.4,clear
+857,Bengal Gram(Gram),Kamalapuram,2016-08-20,6800.0,0.0,36.4,clear
+858,Bengal Gram(Gram),Proddatur,2016-08-20,7800.0,0.0,36.4,clear
+859,Bengal Gram(Gram),Jammalamadugu,2016-08-21,8000.0,0.0,37.0,clear
+860,Bengal Gram(Gram),Kamalapuram,2016-08-21,6900.0,0.0,37.0,clear
+861,Bengal Gram(Gram),Proddatur,2016-08-21,7600.0,0.0,37.0,clear
+862,Black Gram (Urd Beans),Kamalapuram,2016-08-21,9800.0,0.0,37.0,clear
+863,Bengal Gram(Gram),Jammalamadugu,2016-08-22,8000.0,0.0,37.2,clear
+864,Bengal Gram(Gram),Kamalapuram,2016-08-22,7100.0,0.0,37.2,clear
+865,Bengal Gram(Gram),Proddatur,2016-08-22,7600.0,0.0,37.2,clear
+866,Black Gram (Urd Beans),Kamalapuram,2016-08-22,9800.0,0.0,37.2,clear
+867,Bengal Gram(Gram),Jammalamadugu,2016-08-23,8100.0,0.0,36.6,clear
+868,Bengal Gram(Gram),Kamalapuram,2016-08-23,7100.0,0.0,36.6,clear
+869,Bengal Gram(Gram),Proddatur,2016-08-23,7600.0,0.0,36.6,clear
+870,Black Gram (Urd Beans),Kamalapuram,2016-08-23,9800.0,0.0,36.6,clear
+871,Bengal Gram(Gram),Jammalamadugu,2016-08-24,7100.0,0.0,37.4,clear
+872,Bengal Gram(Gram),Proddatur,2016-08-24,7700.0,0.0,37.4,clear
+873,Bengal Gram(Gram),Jammalamadugu,2016-08-25,7100.0,0.0,32.2,clear
+874,Bengal Gram(Gram),Kamalapuram,2016-08-25,7100.0,0.0,32.2,clear
+875,Bengal Gram(Gram),Proddatur,2016-08-25,7700.0,0.0,32.2,clear
+876,Black Gram (Urd Beans),Kamalapuram,2016-08-25,9800.0,0.0,32.2,clear
+877,Bengal Gram(Gram),Jammalamadugu,2016-08-26,6100.0,0.0,32.4,clear
+878,Bengal Gram(Gram),Kamalapuram,2016-08-26,7100.0,0.0,32.4,clear
+879,Bengal Gram(Gram),Proddatur,2016-08-26,7700.0,0.0,32.4,clear
+880,Black Gram (Urd Beans),Kamalapuram,2016-08-26,9800.0,0.0,32.4,clear
+881,Bengal Gram(Gram),Jammalamadugu,2016-08-27,6100.0,0.0,32.0,clear
+882,Bengal Gram(Gram),Kamalapuram,2016-08-27,7100.0,0.0,32.0,clear
+883,Bengal Gram(Gram),Proddatur,2016-08-27,7700.0,0.0,32.0,clear
+884,Black Gram (Urd Beans),Kamalapuram,2016-08-27,9800.0,0.0,32.0,clear
+885,Bengal Gram(Gram),Jammalamadugu,2016-08-28,6100.0,0.0,33.6,clear
+886,Bengal Gram(Gram),Kamalapuram,2016-08-28,6600.0,0.0,33.6,clear
+887,Bengal Gram(Gram),Proddatur,2016-08-28,7700.0,0.0,33.6,clear
+888,Black Gram (Urd Beans),Kamalapuram,2016-08-28,9600.0,0.0,33.6,clear
+889,Bengal Gram(Gram),Jammalamadugu,2016-08-29,6100.0,0.0,34.2,clear
+890,Bengal Gram(Gram),Kamalapuram,2016-08-29,6600.0,0.0,34.2,clear
+891,Bengal Gram(Gram),Proddatur,2016-08-29,7700.0,0.0,34.2,clear
+892,Black Gram (Urd Beans),Kamalapuram,2016-08-29,9800.0,0.0,34.2,clear
+893,Bengal Gram(Gram),Jammalamadugu,2016-08-30,6100.0,0.0,35.0,clear
+894,Bengal Gram(Gram),Kamalapuram,2016-08-30,6600.0,0.0,35.0,clear
+895,Bengal Gram(Gram),Proddatur,2016-08-30,7700.0,0.0,35.0,clear
+896,Black Gram (Urd Beans),Kamalapuram,2016-08-30,9600.0,0.0,35.0,clear
+897,Bengal Gram(Gram),Jammalamadugu,2016-08-31,6100.0,0.0,31.8,clear
+898,Bengal Gram(Gram),Proddatur,2016-08-31,7700.0,0.0,31.8,clear
+899,Bengal Gram(Gram),Jammalamadugu,2016-01-09,6100.0,0.0,29.8,clear
+900,Bengal Gram(Gram),Kamalapuram,2016-01-09,6400.0,0.0,29.8,clear
+901,Bengal Gram(Gram),Proddatur,2016-01-09,6400.0,0.0,29.8,clear
+902,Black Gram (Urd Beans),Kamalapuram,2016-01-09,9700.0,0.0,29.8,clear
+903,Bengal Gram(Gram),Jammalamadugu,2016-02-09,6700.0,0.0,32.2,clear
+904,Bengal Gram(Gram),Kamalapuram,2016-02-09,6400.0,0.0,32.2,clear
+905,Bengal Gram(Gram),Proddatur,2016-02-09,6400.0,0.0,32.2,clear
+906,Black Gram (Urd Beans),Kamalapuram,2016-02-09,9800.0,0.0,32.2,clear
+907,Bengal Gram(Gram),Jammalamadugu,2016-03-09,7300.0,0.0,35.0,clear
+908,Bengal Gram(Gram),Kamalapuram,2016-03-09,6400.0,0.0,35.0,clear
+909,Bengal Gram(Gram),Proddatur,2016-03-09,6700.0,0.0,35.0,clear
+910,Black Gram (Urd Beans),Kamalapuram,2016-03-09,9700.0,0.0,35.0,clear
+911,Bengal Gram(Gram),Jammalamadugu,2016-04-09,7900.0,0.0,38.0,clear
+912,Bengal Gram(Gram),Kamalapuram,2016-04-09,6300.0,0.0,38.0,clear
+913,Bengal Gram(Gram),Proddatur,2016-04-09,6700.0,0.0,38.0,clear
+914,Black Gram (Urd Beans),Kamalapuram,2016-04-09,9700.0,0.0,38.0,clear
+915,Bengal Gram(Gram),Jammalamadugu,2016-05-09,8100.0,0.0,38.2,clear
+916,Bengal Gram(Gram),Kamalapuram,2016-05-09,6100.0,0.0,38.2,clear
+917,Bengal Gram(Gram),Proddatur,2016-05-09,6700.0,0.0,38.2,clear
+918,Black Gram (Urd Beans),Kamalapuram,2016-05-09,9700.0,0.0,38.2,clear
+919,Bengal Gram(Gram),Jammalamadugu,2016-06-09,8200.0,0.0,34.2,clear
+920,Bengal Gram(Gram),Kamalapuram,2016-06-09,6100.0,0.0,34.2,clear
+921,Bengal Gram(Gram),Proddatur,2016-06-09,6700.0,0.0,34.2,clear
+922,Black Gram (Urd Beans),Kamalapuram,2016-06-09,9700.0,0.0,34.2,clear
+923,Bengal Gram(Gram),Jammalamadugu,2016-07-09,6400.0,0.0,35.0,clear
+924,Bengal Gram(Gram),Kamalapuram,2016-07-09,5900.0,0.0,35.0,clear
+925,Bengal Gram(Gram),Proddatur,2016-07-09,6700.0,0.0,35.0,clear
+926,Black Gram (Urd Beans),Kamalapuram,2016-07-09,9700.0,0.0,35.0,clear
+927,Bengal Gram(Gram),Jammalamadugu,2016-08-09,8100.0,0.0,36.6,clear
+928,Bengal Gram(Gram),Kamalapuram,2016-08-09,6100.0,0.0,36.6,clear
+929,Bengal Gram(Gram),Proddatur,2016-08-09,6700.0,0.0,36.6,clear
+930,Black Gram (Urd Beans),Kamalapuram,2016-08-09,9700.0,0.0,36.6,clear
+931,Bengal Gram(Gram),Jammalamadugu,2016-09-09,8100.0,0.0,33.8,clear
+932,Bengal Gram(Gram),Kamalapuram,2016-09-09,6100.0,0.0,33.8,clear
+933,Bengal Gram(Gram),Proddatur,2016-09-09,6700.0,0.0,33.8,clear
+934,Black Gram (Urd Beans),Kamalapuram,2016-09-09,9600.0,0.0,33.8,clear
+935,Bengal Gram(Gram),Jammalamadugu,2016-10-09,8100.0,0.0,33.6,clear
+936,Bengal Gram(Gram),Kamalapuram,2016-10-09,5900.0,0.0,33.6,clear
+937,Bengal Gram(Gram),Proddatur,2016-10-09,6700.0,0.0,33.6,clear
+938,Black Gram (Urd Beans),Kamalapuram,2016-10-09,7400.0,0.0,33.6,clear
+939,Bengal Gram(Gram),Jammalamadugu,2016-11-09,8100.0,0.0,33.4,clear
+940,Bengal Gram(Gram),Kamalapuram,2016-11-09,6000.0,0.0,33.4,clear
+941,Bengal Gram(Gram),Proddatur,2016-11-09,6700.0,0.0,33.4,clear
+942,Black Gram (Urd Beans),Kamalapuram,2016-11-09,7300.0,0.0,33.4,clear
+943,Bengal Gram(Gram),Jammalamadugu,2016-12-09,8100.0,0.0,30.6,clear
+944,Bengal Gram(Gram),Kamalapuram,2016-12-09,5900.0,0.0,30.6,clear
+945,Bengal Gram(Gram),Proddatur,2016-12-09,6700.0,0.0,30.6,clear
+946,Black Gram (Urd Beans),Kamalapuram,2016-12-09,7100.0,0.0,30.6,clear
+947,Bengal Gram(Gram),Jammalamadugu,2016-09-13,8100.0,0.0,32.2,clear
+948,Bengal Gram(Gram),Kamalapuram,2016-09-13,7400.0,0.0,32.2,clear
+949,Bengal Gram(Gram),Proddatur,2016-09-13,7200.0,0.0,32.2,clear
+950,Black Gram (Urd Beans),Kamalapuram,2016-09-13,7400.0,0.0,32.2,clear
+951,Bengal Gram(Gram),Jammalamadugu,2016-09-14,6300.0,0.0,33.0,clear
+952,Bengal Gram(Gram),Kamalapuram,2016-09-14,7400.0,0.0,33.0,clear
+953,Bengal Gram(Gram),Proddatur,2016-09-14,7200.0,0.0,33.0,clear
+954,Black Gram (Urd Beans),Kamalapuram,2016-09-14,6900.0,0.0,33.0,clear
+955,Bengal Gram(Gram),Jammalamadugu,2016-09-15,9900.0,0.0,33.0,clear
+956,Bengal Gram(Gram),Kamalapuram,2016-09-15,7600.0,0.0,33.0,clear
+957,Bengal Gram(Gram),Proddatur,2016-09-15,7200.0,0.0,33.0,clear
+958,Black Gram (Urd Beans),Kamalapuram,2016-09-15,6900.0,0.0,33.0,clear
+959,Bengal Gram(Gram),Jammalamadugu,2016-09-17,8600.0,0.0,34.6,clear
+960,Bengal Gram(Gram),Kamalapuram,2016-09-17,7500.0,0.0,34.6,clear
+961,Bengal Gram(Gram),Proddatur,2016-09-17,8800.0,0.0,34.6,clear
+962,Black Gram (Urd Beans),Kamalapuram,2016-09-17,6900.0,0.0,34.6,clear
+963,Black Gram (Urd Beans),Proddatur,2016-09-17,7900.0,0.0,34.6,clear
+964,Bengal Gram(Gram),Jammalamadugu,2016-09-18,9900.0,0.0,36.2,clear
+965,Bengal Gram(Gram),Kamalapuram,2016-09-18,7500.0,0.0,36.2,clear
+966,Bengal Gram(Gram),Proddatur,2016-09-18,7900.0,0.0,36.2,clear
+967,Black Gram (Urd Beans),Kamalapuram,2016-09-18,6900.0,0.0,36.2,clear
+968,Bengal Gram(Gram),Jammalamadugu,2016-09-19,9050.0,0.0,35.6,clear
+969,Bengal Gram(Gram),Kamalapuram,2016-09-19,7600.0,0.0,35.6,clear
+970,Bengal Gram(Gram),Proddatur,2016-09-19,7900.0,0.0,35.6,clear
+971,Black Gram (Urd Beans),Kamalapuram,2016-09-19,6900.0,0.0,35.6,clear
+972,Bengal Gram(Gram),Jammalamadugu,2016-09-20,8100.0,0.0,31.2,clear
+973,Bengal Gram(Gram),Kamalapuram,2016-09-20,7600.0,0.0,31.2,clear
+974,Bengal Gram(Gram),Proddatur,2016-09-20,7900.0,0.0,31.2,clear
+975,Black Gram (Urd Beans),Kamalapuram,2016-09-20,6900.0,0.0,31.2,clear
+976,Bengal Gram(Gram),Jammalamadugu,2016-09-21,7100.0,0.0,30.6,clear
+977,Bengal Gram(Gram),Kamalapuram,2016-09-21,7600.0,0.0,30.6,clear
+978,Bengal Gram(Gram),Proddatur,2016-09-21,7900.0,0.0,30.6,clear
+979,Black Gram (Urd Beans),Kamalapuram,2016-09-21,6900.0,0.0,30.6,clear
+980,Bengal Gram(Gram),Jammalamadugu,2016-09-22,7100.0,0.0,33.6,clear
+981,Bengal Gram(Gram),Kamalapuram,2016-09-22,7600.0,0.0,33.6,clear
+982,Bengal Gram(Gram),Proddatur,2016-09-22,7900.0,0.0,33.6,clear
+983,Black Gram (Urd Beans),Kamalapuram,2016-09-22,6900.0,0.0,33.6,clear
+984,Bengal Gram(Gram),Jammalamadugu,2016-09-23,8700.0,0.0,34.6,clear
+985,Bengal Gram(Gram),Kamalapuram,2016-09-23,7700.0,0.0,34.6,clear
+986,Bengal Gram(Gram),Proddatur,2016-09-23,7900.0,0.0,34.6,clear
+987,Black Gram (Urd Beans),Kamalapuram,2016-09-23,6900.0,0.0,34.6,clear
+988,Bengal Gram(Gram),Jammalamadugu,2016-09-24,8500.0,0.0,33.6,clear
+989,Bengal Gram(Gram),Kamalapuram,2016-09-24,7700.0,0.0,33.6,clear
+990,Bengal Gram(Gram),Proddatur,2016-09-24,7900.0,0.0,33.6,clear
+991,Black Gram (Urd Beans),Kamalapuram,2016-09-24,6600.0,0.0,33.6,clear
+992,Bengal Gram(Gram),Jammalamadugu,2016-09-25,8600.0,0.0,35.0,clear
+993,Bengal Gram(Gram),Proddatur,2016-09-25,7900.0,0.0,35.0,clear
+994,Bengal Gram(Gram),Jammalamadugu,2016-09-26,7100.0,0.0,33.6,clear
+995,Bengal Gram(Gram),Kamalapuram,2016-09-26,7600.0,0.0,33.6,clear
+996,Bengal Gram(Gram),Proddatur,2016-09-26,7900.0,0.0,33.6,clear
+997,Black Gram (Urd Beans),Kamalapuram,2016-09-26,6400.0,0.0,33.6,clear
+998,Bengal Gram(Gram),Jammalamadugu,2016-01-10,8300.0,0.0,30.2,clear
+999,Bengal Gram(Gram),Kamalapuram,2016-01-10,7700.0,0.0,30.2,clear
+1000,Bengal Gram(Gram),Proddatur,2016-01-10,7800.0,0.0,30.2,clear
+1001,Black Gram (Urd Beans),Kamalapuram,2016-01-10,6400.0,0.0,30.2,clear
+1002,Black Gram (Urd Beans),Proddatur,2016-01-10,8300.0,0.0,30.2,clear
+1003,Green Gram (Moong),Proddatur,2016-01-10,4600.0,0.0,30.2,clear
+1004,Bengal Gram(Gram),Jammalamadugu,2016-02-10,8100.0,0.0,32.2,clear
+1005,Bengal Gram(Gram),Kamalapuram,2016-02-10,7700.0,0.0,32.2,clear
+1006,Bengal Gram(Gram),Proddatur,2016-02-10,8600.0,0.0,32.2,clear
+1007,Black Gram (Urd Beans),Kamalapuram,2016-02-10,6400.0,0.0,32.2,clear
+1008,Black Gram (Urd Beans),Proddatur,2016-02-10,8300.0,0.0,32.2,clear
+1009,Green Gram (Moong),Proddatur,2016-02-10,4600.0,0.0,32.2,clear
+1010,Bengal Gram(Gram),Jammalamadugu,2016-03-10,9200.0,0.0,34.2,clear
+1011,Bengal Gram(Gram),Kamalapuram,2016-03-10,7700.0,0.0,34.2,clear
+1012,Bengal Gram(Gram),Proddatur,2016-03-10,7800.0,0.0,34.2,clear
+1013,Black Gram (Urd Beans),Kamalapuram,2016-03-10,6400.0,0.0,34.2,clear
+1014,Black Gram (Urd Beans),Proddatur,2016-03-10,8400.0,0.0,34.2,clear
+1015,Green Gram (Moong),Proddatur,2016-03-10,4600.0,0.0,34.2,clear
+1016,Bengal Gram(Gram),Jammalamadugu,2016-04-10,8100.0,0.0,38.6,clear
+1017,Bengal Gram(Gram),Kamalapuram,2016-04-10,7700.0,0.0,38.6,clear
+1018,Bengal Gram(Gram),Proddatur,2016-04-10,7800.0,0.0,38.6,clear
+1019,Black Gram (Urd Beans),Kamalapuram,2016-04-10,6400.0,0.0,38.6,clear
+1020,Black Gram (Urd Beans),Proddatur,2016-04-10,8400.0,0.0,38.6,clear
+1021,Green Gram (Moong),Proddatur,2016-04-10,4600.0,0.0,38.6,clear
+1022,Bengal Gram(Gram),Jammalamadugu,2016-05-10,8100.0,0.0,38.6,clear
+1023,Bengal Gram(Gram),Kamalapuram,2016-05-10,7700.0,0.0,38.6,clear
+1024,Bengal Gram(Gram),Proddatur,2016-05-10,7800.0,0.0,38.6,clear
+1025,Black Gram (Urd Beans),Kamalapuram,2016-05-10,6400.0,0.0,38.6,clear
+1026,Black Gram (Urd Beans),Proddatur,2016-05-10,8400.0,0.0,38.6,clear
+1027,Green Gram (Moong),Proddatur,2016-05-10,4700.0,0.0,38.6,clear
+1028,Bengal Gram(Gram),Jammalamadugu,2016-06-10,8600.0,0.0,35.4,clear
+1029,Bengal Gram(Gram),Kamalapuram,2016-06-10,8400.0,0.0,35.4,clear
+1030,Bengal Gram(Gram),Proddatur,2016-06-10,7800.0,0.0,35.4,clear
+1031,Black Gram (Urd Beans),Kamalapuram,2016-06-10,6400.0,0.0,35.4,clear
+1032,Black Gram (Urd Beans),Proddatur,2016-06-10,8400.0,0.0,35.4,clear
+1033,Green Gram (Moong),Proddatur,2016-06-10,4700.0,0.0,35.4,clear
+1034,Bengal Gram(Gram),Jammalamadugu,2016-07-10,8600.0,0.0,35.4,clear
+1035,Bengal Gram(Gram),Kamalapuram,2016-07-10,7900.0,0.0,35.4,clear
+1036,Bengal Gram(Gram),Proddatur,2016-07-10,8400.0,0.0,35.4,clear
+1037,Black Gram (Urd Beans),Proddatur,2016-07-10,8400.0,0.0,35.4,clear
+1038,Green Gram (Moong),Proddatur,2016-07-10,4700.0,0.0,35.4,clear
+1039,Bengal Gram(Gram),Jammalamadugu,2016-10-10,7600.0,0.0,36.2,clear
+1040,Bengal Gram(Gram),Kamalapuram,2016-10-10,6400.0,0.0,36.2,clear
+1041,Bengal Gram(Gram),Proddatur,2016-10-10,8900.0,0.0,36.2,clear
+1042,Black Gram (Urd Beans),Kamalapuram,2016-10-10,6300.0,0.0,36.2,clear
+1043,Bengal Gram(Gram),Jammalamadugu,2016-11-10,7600.0,0.0,33.0,clear
+1044,Bengal Gram(Gram),Jammalamadugu,2016-12-10,7100.0,0.0,30.0,clear
+1045,Bengal Gram(Gram),Proddatur,2016-12-10,9300.0,0.0,30.0,clear
+1046,Bengal Gram(Gram),Jammalamadugu,2016-10-13,7100.0,0.0,36.6,clear
+1047,Bengal Gram(Gram),Kamalapuram,2016-10-13,7700.0,0.0,36.6,clear
+1048,Bengal Gram(Gram),Proddatur,2016-10-13,9300.0,0.0,36.6,clear
+1049,Bengal Gram(Gram),Jammalamadugu,2016-10-14,9700.0,0.0,37.0,clear
+1050,Bengal Gram(Gram),Kamalapuram,2016-10-14,7700.0,0.0,37.0,clear
+1051,Bengal Gram(Gram),Proddatur,2016-10-14,9300.0,0.0,37.0,clear
+1052,Black Gram (Urd Beans),Kamalapuram,2016-10-14,6400.0,0.0,37.0,clear
+1053,Bengal Gram(Gram),Jammalamadugu,2016-10-19,9750.0,0.0,36.8,clear
+1054,Bengal Gram(Gram),Kamalapuram,2016-10-19,7900.0,0.0,36.8,clear
+1055,Black Gram (Urd Beans),Kamalapuram,2016-10-19,6400.0,0.0,36.8,clear
+1056,Bengal Gram(Gram),Jammalamadugu,2016-10-20,9600.0,0.0,36.8,clear
+1057,Bengal Gram(Gram),Kamalapuram,2016-10-20,7900.0,0.0,36.8,clear
+1058,Bengal Gram(Gram),Proddatur,2016-10-20,9400.0,0.0,36.8,clear
+1059,Black Gram (Urd Beans),Kamalapuram,2016-10-20,6500.0,0.0,36.8,clear
+1060,Bengal Gram(Gram),Jammalamadugu,2016-10-21,9600.0,0.0,35.8,clear
+1061,Bengal Gram(Gram),Kamalapuram,2016-10-21,7900.0,0.0,35.8,clear
+1062,Bengal Gram(Gram),Proddatur,2016-10-21,9750.0,0.0,35.8,clear
+1063,Black Gram (Urd Beans),Kamalapuram,2016-10-21,6500.0,0.0,35.8,clear
+1064,Bengal Gram(Gram),Jammalamadugu,2016-10-22,9900.0,0.0,36.0,clear
+1065,Bengal Gram(Gram),Kamalapuram,2016-10-22,7900.0,0.0,36.0,clear
+1066,Bengal Gram(Gram),Proddatur,2016-10-22,9700.0,0.0,36.0,clear
+1067,Black Gram (Urd Beans),Kamalapuram,2016-10-22,6500.0,0.0,36.0,clear
+1068,Bengal Gram(Gram),Jammalamadugu,2016-10-23,10300.0,0.0,35.2,clear
+1069,Bengal Gram(Gram),Kamalapuram,2016-10-23,8900.0,0.0,35.2,clear
+1070,Bengal Gram(Gram),Proddatur,2016-10-23,9700.0,0.0,35.2,clear
+1071,Black Gram (Urd Beans),Kamalapuram,2016-10-23,6600.0,0.0,35.2,clear
+1072,Bengal Gram(Gram),Jammalamadugu,2016-10-24,9100.0,0.0,35.4,clear
+1073,Bengal Gram(Gram),Kamalapuram,2016-10-24,7900.0,0.0,35.4,clear
+1074,Bengal Gram(Gram),Proddatur,2016-10-24,9700.0,0.0,35.4,clear
+1075,Bengal Gram(Gram),Jammalamadugu,2016-10-25,9900.0,0.0,36.8,clear
+1076,Bengal Gram(Gram),Kamalapuram,2016-10-25,8400.0,0.0,36.8,clear
+1077,Bengal Gram(Gram),Proddatur,2016-10-25,9450.0,0.0,36.8,clear
+1078,Black Gram (Urd Beans),Kamalapuram,2016-10-25,6900.0,0.0,36.8,clear
+1079,Bengal Gram(Gram),Jammalamadugu,2016-10-26,9100.0,0.0,36.2,clear
+1080,Bengal Gram(Gram),Kamalapuram,2016-10-26,8400.0,0.0,36.2,clear
+1081,Bengal Gram(Gram),Proddatur,2016-10-26,9750.0,0.0,36.2,clear
+1082,Black Gram (Urd Beans),Kamalapuram,2016-10-26,6800.0,0.0,36.2,clear
+1083,Bengal Gram(Gram),Jammalamadugu,2016-10-27,9100.0,0.0,36.0,clear
+1084,Bengal Gram(Gram),Kamalapuram,2016-10-27,8400.0,0.0,36.0,clear
+1085,Bengal Gram(Gram),Proddatur,2016-10-27,9700.0,0.0,36.0,clear
+1086,Black Gram (Urd Beans),Kamalapuram,2016-10-27,6800.0,0.0,36.0,clear
+1087,Green Gram (Moong),Proddatur,2016-10-27,4800.0,0.0,36.0,clear
+1088,Bengal Gram(Gram),Jammalamadugu,2016-10-28,9100.0,0.0,36.4,clear
+1089,Bengal Gram(Gram),Kamalapuram,2016-10-28,8400.0,0.0,36.4,clear
+1090,Bengal Gram(Gram),Proddatur,2016-10-28,9700.0,0.0,36.4,clear
+1091,Black Gram (Urd Beans),Kamalapuram,2016-10-28,6900.0,0.0,36.4,clear
+1092,Green Gram (Moong),Proddatur,2016-10-28,4800.0,0.0,36.4,clear
+1093,Bengal Gram(Gram),Jammalamadugu,2016-10-29,8500.0,0.0,31.4,clear
+1094,Bengal Gram(Gram),Proddatur,2016-10-29,9700.0,0.0,31.4,clear
+1095,Bengal Gram(Gram),Jammalamadugu,2016-10-31,8600.0,0.0,30.4,rain
+1096,Bengal Gram(Gram),Kamalapuram,2016-10-31,8400.0,0.0,30.4,rain
+1097,Bengal Gram(Gram),Proddatur,2016-10-31,9950.0,0.0,30.4,rain
+1098,Green Gram (Moong),Proddatur,2016-10-31,4800.0,0.0,30.4,rain
+1099,Bengal Gram(Gram),Jammalamadugu,2016-01-11,9400.0,0.0,29.6,clear
+1100,Bengal Gram(Gram),Kamalapuram,2016-01-11,8900.0,0.0,29.6,clear
+1101,Bengal Gram(Gram),Proddatur,2016-01-11,9800.0,0.0,29.6,clear
+1102,Black Gram (Urd Beans),Kamalapuram,2016-01-11,6900.0,0.0,29.6,clear
+1103,Bengal Gram(Gram),Jammalamadugu,2016-02-11,8900.0,0.0,33.6,clear
+1104,Bengal Gram(Gram),Kamalapuram,2016-02-11,8900.0,0.0,33.6,clear
+1105,Bengal Gram(Gram),Proddatur,2016-02-11,9800.0,0.0,33.6,clear
+1106,Black Gram (Urd Beans),Kamalapuram,2016-02-11,6900.0,0.0,33.6,clear
+1107,Bengal Gram(Gram),Jammalamadugu,2016-03-11,9100.0,0.0,34.8,clear
+1108,Bengal Gram(Gram),Proddatur,2016-03-11,9800.0,0.0,34.8,clear
+1109,Black Gram (Urd Beans),Kamalapuram,2016-03-11,6900.0,0.0,34.8,clear
+1110,Bengal Gram(Gram),Jammalamadugu,2016-04-11,8900.0,0.0,39.8,clear
+1111,Bengal Gram(Gram),Kamalapuram,2016-04-11,8900.0,0.0,39.8,clear
+1112,Bengal Gram(Gram),Proddatur,2016-04-11,9800.0,0.0,39.8,clear
+1113,Bengal Gram(Gram),Jammalamadugu,2016-06-11,8300.0,0.0,37.0,clear
+1114,Bengal Gram(Gram),Proddatur,2016-06-11,9780.0,0.0,37.0,clear
+1115,Bengal Gram(Gram),Jammalamadugu,2016-07-11,8400.0,0.0,37.0,clear
+1116,Bengal Gram(Gram),Proddatur,2016-07-11,9750.0,0.0,37.0,clear
+1117,Bengal Gram(Gram),Jammalamadugu,2016-08-11,10100.0,0.0,35.6,clear
+1118,Bengal Gram(Gram),Kamalapuram,2016-08-11,8900.0,0.0,35.6,clear
+1119,Bengal Gram(Gram),Proddatur,2016-08-11,9780.0,0.0,35.6,clear
+1120,Bengal Gram(Gram),Jammalamadugu,2016-09-11,8100.0,0.0,32.4,clear
+1121,Bengal Gram(Gram),Proddatur,2016-09-11,9700.0,0.0,32.4,clear
+1122,Bengal Gram(Gram),Jammalamadugu,2016-10-11,8500.0,0.0,37.4,clear
+1123,Bengal Gram(Gram),Kamalapuram,2016-10-11,8900.0,0.0,37.4,clear
+1124,Bengal Gram(Gram),Proddatur,2016-10-11,9700.0,0.0,37.4,clear
+1125,Black Gram (Urd Beans),Kamalapuram,2016-10-11,6900.0,0.0,37.4,clear
+1126,Bengal Gram(Gram),Jammalamadugu,2016-11-11,9100.0,0.0,33.2,clear
+1127,Bengal Gram(Gram),Kamalapuram,2016-11-11,8900.0,0.0,33.2,clear
+1128,Bengal Gram(Gram),Proddatur,2016-11-11,9700.0,0.0,33.2,clear
+1129,Black Gram (Urd Beans),Kamalapuram,2016-11-11,6900.0,0.0,33.2,clear
+1130,Bengal Gram(Gram),Jammalamadugu,2016-12-11,9300.0,0.0,29.8,clear
+1131,Bengal Gram(Gram),Proddatur,2016-12-11,9780.0,0.0,29.8,clear
+1132,Bengal Gram(Gram),Jammalamadugu,2016-11-13,8600.0,0.0,32.6,clear
+1133,Bengal Gram(Gram),Proddatur,2016-11-13,9100.0,0.0,32.6,clear
+1134,Bengal Gram(Gram),Jammalamadugu,2016-11-14,8600.0,0.0,33.6,clear
+1135,Bengal Gram(Gram),Kamalapuram,2016-11-14,8900.0,0.0,33.6,clear
+1136,Bengal Gram(Gram),Proddatur,2016-11-14,9150.0,0.0,33.6,clear
+1137,Black Gram (Urd Beans),Kamalapuram,2016-11-14,6900.0,0.0,33.6,clear
+1138,Bengal Gram(Gram),Jammalamadugu,2016-11-16,8600.0,0.0,33.6,clear
+1139,Bengal Gram(Gram),Proddatur,2016-11-16,9450.0,0.0,33.6,clear
+1140,Bengal Gram(Gram),Jammalamadugu,2016-11-17,9100.0,0.0,32.2,clear
+1141,Bengal Gram(Gram),Proddatur,2016-11-17,4200.0,0.0,32.2,clear
+1142,Bengal Gram(Gram),Jammalamadugu,2016-11-18,9100.0,0.0,32.0,clear
+1143,Bengal Gram(Gram),Proddatur,2016-11-18,9100.0,0.0,32.0,clear
+1144,Bengal Gram(Gram),Jammalamadugu,2016-11-19,8600.0,0.0,31.6,clear
+1145,Bengal Gram(Gram),Proddatur,2016-11-19,9050.0,0.0,31.6,clear
+1146,Black Gram (Urd Beans),Proddatur,2016-11-19,6400.0,0.0,31.6,clear
+1147,Green Gram (Moong),Proddatur,2016-11-19,4800.0,0.0,31.6,clear
+1148,Bengal Gram(Gram),Jammalamadugu,2016-11-20,8600.0,0.0,32.2,clear
+1149,Bengal Gram(Gram),Proddatur,2016-11-20,8800.0,0.0,32.2,clear
+1150,Bengal Gram(Gram),Jammalamadugu,2016-11-21,8600.0,0.0,31.4,clear
+1151,Bengal Gram(Gram),Kamalapuram,2016-11-21,7900.0,0.0,31.4,clear
+1152,Bengal Gram(Gram),Proddatur,2016-11-21,8800.0,0.0,31.4,clear
+1153,Bengal Gram(Gram),Jammalamadugu,2016-11-22,9900.0,0.0,31.6,clear
+1154,Bengal Gram(Gram),Proddatur,2016-11-22,9100.0,0.0,31.6,clear
+1155,Bengal Gram(Gram),Jammalamadugu,2016-11-24,8600.0,0.0,32.2,clear
+1156,Bengal Gram(Gram),Kamalapuram,2016-11-24,8900.0,0.0,32.2,clear
+1157,Bengal Gram(Gram),Proddatur,2016-11-24,8800.0,0.0,32.2,clear
+1158,Black Gram (Urd Beans),Kamalapuram,2016-11-24,6900.0,0.0,32.2,clear
+1159,Bengal Gram(Gram),Jammalamadugu,2016-11-26,8600.0,0.0,31.8,clear
+1160,Bengal Gram(Gram),Kamalapuram,2016-11-26,8900.0,0.0,31.8,clear
+1161,Bengal Gram(Gram),Proddatur,2016-11-26,8800.0,0.0,31.8,clear
+1162,Bengal Gram(Gram),Jammalamadugu,2016-11-27,8600.0,0.0,32.4,clear
+1163,Bengal Gram(Gram),Proddatur,2016-11-27,9050.0,0.0,32.4,clear
+1164,Bengal Gram(Gram),Jammalamadugu,2016-11-28,8600.0,0.0,33.2,clear
+1165,Bengal Gram(Gram),Proddatur,2016-11-28,9150.0,0.0,33.2,clear
+1166,Bengal Gram(Gram),Jammalamadugu,2016-11-30,8600.0,0.0,31.4,clear
+1167,Bengal Gram(Gram),Kamalapuram,2016-11-30,8900.0,0.0,31.4,clear
+1168,Bengal Gram(Gram),Proddatur,2016-11-30,9050.0,0.0,31.4,clear
+1169,Black Gram (Urd Beans),Kamalapuram,2016-11-30,6900.0,0.0,31.4,clear
+1170,Bengal Gram(Gram),Jammalamadugu,2016-01-12,9800.0,0.0,30.2,clear
+1171,Bengal Gram(Gram),Kamalapuram,2016-01-12,8400.0,0.0,30.2,clear
+1172,Bengal Gram(Gram),Proddatur,2016-01-12,9100.0,0.0,30.2,clear
+1173,Black Gram (Urd Beans),Kamalapuram,2016-01-12,6900.0,0.0,30.2,clear
+1174,Bengal Gram(Gram),Jammalamadugu,2016-03-12,9450.0,0.0,35.0,clear
+1175,Bengal Gram(Gram),Kamalapuram,2016-03-12,8400.0,0.0,35.0,clear
+1176,Bengal Gram(Gram),Proddatur,2016-03-12,9200.0,0.0,35.0,clear
+1177,Black Gram (Urd Beans),Kamalapuram,2016-03-12,6900.0,0.0,35.0,clear
+1178,Black Gram (Urd Beans),Proddatur,2016-03-12,6200.0,0.0,35.0,clear
+1179,Bengal Gram(Gram),Jammalamadugu,2016-04-12,8600.0,0.0,39.4,clear
+1180,Bengal Gram(Gram),Kamalapuram,2016-04-12,8900.0,0.0,39.4,clear
+1181,Bengal Gram(Gram),Proddatur,2016-04-12,9050.0,0.0,39.4,clear
+1182,Black Gram (Urd Beans),Kamalapuram,2016-04-12,6900.0,0.0,39.4,clear
+1183,Bengal Gram(Gram),Jammalamadugu,2016-05-12,9200.0,0.0,40.2,clear
+1184,Bengal Gram(Gram),Kamalapuram,2016-05-12,8900.0,0.0,40.2,clear
+1185,Bengal Gram(Gram),Proddatur,2016-05-12,9050.0,0.0,40.2,clear
+1186,Black Gram (Urd Beans),Kamalapuram,2016-05-12,6900.0,0.0,40.2,clear
+1187,Bengal Gram(Gram),Jammalamadugu,2016-06-12,9450.0,0.0,36.4,clear
+1188,Bengal Gram(Gram),Kamalapuram,2016-06-12,8900.0,0.0,36.4,clear
+1189,Bengal Gram(Gram),Proddatur,2016-06-12,9150.0,0.0,36.4,clear
+1190,Black Gram (Urd Beans),Kamalapuram,2016-06-12,6900.0,0.0,36.4,clear
+1191,Bengal Gram(Gram),Jammalamadugu,2016-07-12,8500.0,0.0,36.0,clear
+1192,Bengal Gram(Gram),Kamalapuram,2016-07-12,8900.0,0.0,36.0,clear
+1193,Bengal Gram(Gram),Proddatur,2016-07-12,9050.0,0.0,36.0,clear
+1194,Black Gram (Urd Beans),Kamalapuram,2016-07-12,6900.0,0.0,36.0,clear
+1195,Bengal Gram(Gram),Jammalamadugu,2016-08-12,9450.0,0.0,35.2,clear
+1196,Bengal Gram(Gram),Kamalapuram,2016-08-12,8900.0,0.0,35.2,clear
+1197,Bengal Gram(Gram),Proddatur,2016-08-12,9100.0,0.0,35.2,clear
+1198,Bengal Gram(Gram),Jammalamadugu,2016-09-12,10100.0,0.0,36.8,clear
+1199,Bengal Gram(Gram),Proddatur,2016-09-12,9150.0,0.0,36.8,clear
+1200,Bengal Gram(Gram),Jammalamadugu,2016-10-12,9450.0,0.0,37.6,clear
+1201,Bengal Gram(Gram),Kamalapuram,2016-10-12,8900.0,0.0,37.6,clear
+1202,Bengal Gram(Gram),Proddatur,2016-10-12,9150.0,0.0,37.6,clear
+1203,Bengal Gram(Gram),Jammalamadugu,2016-11-12,11450.0,0.0,32.4,clear
+1204,Bengal Gram(Gram),Proddatur,2016-11-12,9100.0,0.0,32.4,clear
+1205,Bengal Gram(Gram),Jammalamadugu,2016-12-12,9450.0,0.0,23.0,rain
+1206,Bengal Gram(Gram),Kamalapuram,2016-12-12,8900.0,0.0,23.0,rain
+1207,Bengal Gram(Gram),Proddatur,2016-12-12,9150.0,0.0,23.0,rain
+1208,Black Gram (Urd Beans),Kamalapuram,2016-12-12,6900.0,0.0,23.0,rain
+1209,Bengal Gram(Gram),Jammalamadugu,2016-12-13,9650.0,0.0,27.8,clear
+1210,Bengal Gram(Gram),Kamalapuram,2016-12-13,8900.0,0.0,27.8,clear
+1211,Bengal Gram(Gram),Proddatur,2016-12-13,9100.0,0.0,27.8,clear
+1212,Black Gram (Urd Beans),Kamalapuram,2016-12-13,6900.0,0.0,27.8,clear
+1213,Bengal Gram(Gram),Jammalamadugu,2016-12-14,9450.0,0.0,29.0,clear
+1214,Bengal Gram(Gram),Kamalapuram,2016-12-14,8900.0,0.0,29.0,clear
+1215,Bengal Gram(Gram),Proddatur,2016-12-14,9100.0,0.0,29.0,clear
+1216,Black Gram (Urd Beans),Kamalapuram,2016-12-14,6900.0,0.0,29.0,clear
+1217,Bengal Gram(Gram),Jammalamadugu,2016-12-15,9450.0,0.0,31.0,clear
+1218,Bengal Gram(Gram),Kamalapuram,2016-12-15,8900.0,0.0,31.0,clear
+1219,Bengal Gram(Gram),Proddatur,2016-12-15,9100.0,0.0,31.0,clear
+1220,Black Gram (Urd Beans),Kamalapuram,2016-12-15,6900.0,0.0,31.0,clear
+1221,Bengal Gram(Gram),Jammalamadugu,2016-12-16,10700.0,0.0,30.8,clear
+1222,Bengal Gram(Gram),Kamalapuram,2016-12-16,8700.0,0.0,30.8,clear
+1223,Bengal Gram(Gram),Proddatur,2016-12-16,9200.0,0.0,30.8,clear
+1224,Black Gram (Urd Beans),Kamalapuram,2016-12-16,6900.0,0.0,30.8,clear
+1225,Bengal Gram(Gram),Jammalamadugu,2016-12-17,9450.0,0.0,29.8,clear
+1226,Bengal Gram(Gram),Proddatur,2016-12-17,9100.0,0.0,29.8,clear
+1227,Bengal Gram(Gram),Jammalamadugu,2016-12-18,11250.0,0.0,29.8,clear
+1228,Bengal Gram(Gram),Kamalapuram,2016-12-18,8700.0,0.0,29.8,clear
+1229,Bengal Gram(Gram),Proddatur,2016-12-18,9100.0,0.0,29.8,clear
+1230,Black Gram (Urd Beans),Kamalapuram,2016-12-18,6700.0,0.0,29.8,clear
+1231,Bengal Gram(Gram),Jammalamadugu,2016-12-19,9450.0,0.0,29.2,clear
+1232,Bengal Gram(Gram),Kamalapuram,2016-12-19,8900.0,0.0,29.2,clear
+1233,Bengal Gram(Gram),Proddatur,2016-12-19,9150.0,0.0,29.2,clear
+1234,Black Gram (Urd Beans),Kamalapuram,2016-12-19,6700.0,0.0,29.2,clear
+1235,Bengal Gram(Gram),Jammalamadugu,2016-12-20,9500.0,0.0,29.6,clear
+1236,Bengal Gram(Gram),Kamalapuram,2016-12-20,8800.0,0.0,29.6,clear
+1237,Bengal Gram(Gram),Proddatur,2016-12-20,9100.0,0.0,29.6,clear
+1238,Black Gram (Urd Beans),Kamalapuram,2016-12-20,6900.0,0.0,29.6,clear
+1239,Bengal Gram(Gram),Jammalamadugu,2016-12-21,9450.0,0.0,30.0,clear
+1240,Bengal Gram(Gram),Kamalapuram,2016-12-21,8700.0,0.0,30.0,clear
+1241,Bengal Gram(Gram),Proddatur,2016-12-21,9100.0,0.0,30.0,clear
+1242,Black Gram (Urd Beans),Kamalapuram,2016-12-21,6800.0,0.0,30.0,clear
+1243,Bengal Gram(Gram),Jammalamadugu,2016-12-22,9450.0,0.0,30.6,clear
+1244,Bengal Gram(Gram),Kamalapuram,2016-12-22,8900.0,0.0,30.6,clear
+1245,Bengal Gram(Gram),Proddatur,2016-12-22,9150.0,0.0,30.6,clear
+1246,Black Gram (Urd Beans),Kamalapuram,2016-12-22,6900.0,0.0,30.6,clear
+1247,Bengal Gram(Gram),Jammalamadugu,2016-12-23,9450.0,0.0,30.4,clear
+1248,Bengal Gram(Gram),Kamalapuram,2016-12-23,8800.0,0.0,30.4,clear
+1249,Bengal Gram(Gram),Proddatur,2016-12-23,9400.0,0.0,30.4,clear
+1250,Bengal Gram(Gram),Jammalamadugu,2016-12-24,9450.0,0.0,30.2,clear
+1251,Bengal Gram(Gram),Kamalapuram,2016-12-24,8900.0,0.0,30.2,clear
+1252,Bengal Gram(Gram),Proddatur,2016-12-24,9150.0,0.0,30.2,clear
+1253,Black Gram (Urd Beans),Kamalapuram,2016-12-24,6800.0,0.0,30.2,clear
+1254,Bengal Gram(Gram),Jammalamadugu,2016-12-25,9450.0,0.0,30.0,clear
+1255,Bengal Gram(Gram),Proddatur,2016-12-25,9500.0,0.0,30.0,clear
+1256,Bengal Gram(Gram),Jammalamadugu,2016-12-27,9450.0,0.0,30.4,clear
+1257,Bengal Gram(Gram),Kamalapuram,2016-12-27,8900.0,0.0,30.4,clear
+1258,Bengal Gram(Gram),Proddatur,2016-12-27,9400.0,0.0,30.4,clear
+1259,Bengal Gram(Gram),Jammalamadugu,2016-12-28,9450.0,0.0,29.4,clear
+1260,Bengal Gram(Gram),Kamalapuram,2016-12-28,8900.0,0.0,29.4,clear
+1261,Bengal Gram(Gram),Proddatur,2016-12-28,9100.0,0.0,29.4,clear
+1262,Black Gram (Urd Beans),Kamalapuram,2016-12-28,6900.0,0.0,29.4,clear
+1263,Bengal Gram(Gram),Jammalamadugu,2016-12-29,9450.0,0.0,29.8,clear
+1264,Bengal Gram(Gram),Kamalapuram,2016-12-29,8900.0,0.0,29.8,clear
+1265,Bengal Gram(Gram),Proddatur,2016-12-29,9500.0,0.0,29.8,clear
+1266,Bengal Gram(Gram),Jammalamadugu,2016-12-31,7550.0,0.0,29.4,clear
+1267,Bengal Gram(Gram),Kamalapuram,2016-12-31,8900.0,0.0,29.4,clear
+1268,Bengal Gram(Gram),Proddatur,2016-12-31,9450.0,0.0,29.4,clear
+1269,Black Gram (Urd Beans),Kamalapuram,2016-12-31,6300.0,0.0,29.4,clear
+1270,Bengal Gram(Gram),Kamalapuram,2016-02-01,4300.0,0.0,32.0,clear
+1271,Bengal Gram(Gram),Proddatur,2016-02-01,5100.0,0.0,32.0,clear
+1272,Black Gram (Urd Beans),Jammalamadugu,2016-02-01,10100.0,0.0,32.0,clear
+1273,Black Gram (Urd Beans),Kamalapuram,2016-02-01,7700.0,0.0,32.0,clear
+1274,Black Gram (Urd Beans),Proddatur,2016-02-01,11300.0,0.0,32.0,clear
+1275,Bengal Gram(Gram),Kamalapuram,2016-01-16,4700.0,0.0,29.8,clear
+1276,Black Gram (Urd Beans),Kamalapuram,2016-01-16,8900.0,0.0,29.8,clear
+1277,Bengal Gram(Gram),Kamalapuram,2016-01-19,4700.0,0.0,28.8,clear
+1278,Bengal Gram(Gram),Proddatur,2016-01-19,4700.0,0.0,28.8,clear
+1279,Black Gram (Urd Beans),Kamalapuram,2016-01-19,9100.0,0.0,28.8,clear
+1280,Black Gram (Urd Beans),Proddatur,2016-01-19,11300.0,0.0,28.8,clear
+1281,Bengal Gram(Gram),Kamalapuram,2016-01-21,4700.0,0.0,30.6,clear
+1282,Bengal Gram(Gram),Proddatur,2016-01-21,4700.0,0.0,30.6,clear
+1283,Black Gram (Urd Beans),Kamalapuram,2016-01-21,8900.0,0.0,30.6,clear
+1284,Black Gram (Urd Beans),Proddatur,2016-01-21,11300.0,0.0,30.6,clear
+1285,Bengal Gram(Gram),Kamalapuram,2016-01-24,4900.0,0.0,29.2,clear
+1286,Black Gram (Urd Beans),Kamalapuram,2016-01-24,9400.0,0.0,29.2,clear
+1287,Bengal Gram(Gram),Kamalapuram,2016-01-26,4900.0,0.0,30.6,clear
+1288,Bengal Gram(Gram),Proddatur,2016-01-26,4700.0,0.0,30.6,clear
+1289,Black Gram (Urd Beans),Kamalapuram,2016-01-26,9400.0,0.0,30.6,clear
+1290,Black Gram (Urd Beans),Proddatur,2016-01-26,8500.0,0.0,30.6,clear
+1291,Green Gram (Moong),Proddatur,2016-01-26,5500.0,0.0,30.6,clear
+1292,Bengal Gram(Gram),Kamalapuram,2016-01-27,4900.0,0.0,31.2,clear
+1293,Bengal Gram(Gram),Proddatur,2016-01-27,4700.0,0.0,31.2,clear
+1294,Black Gram (Urd Beans),Kamalapuram,2016-01-27,9200.0,0.0,31.2,clear
+1295,Black Gram (Urd Beans),Proddatur,2016-01-27,9300.0,0.0,31.2,clear
+1296,Green Gram (Moong),Proddatur,2016-01-27,5500.0,0.0,31.2,clear
+1297,Bengal Gram(Gram),Kamalapuram,2016-01-02,4900.0,0.0,30.0,clear
+1298,Bengal Gram(Gram),Proddatur,2016-01-02,4650.0,0.0,30.0,clear
+1299,Black Gram (Urd Beans),Kamalapuram,2016-01-02,8800.0,0.0,30.0,clear
+1300,Black Gram (Urd Beans),Proddatur,2016-01-02,9300.0,0.0,30.0,clear
+1301,Green Gram (Moong),Proddatur,2016-01-02,5900.0,0.0,30.0,clear
+1302,Bengal Gram(Gram),Kamalapuram,2016-03-02,4800.0,0.0,32.6,clear
+1303,Bengal Gram(Gram),Proddatur,2016-03-02,4800.0,0.0,32.6,clear
+1304,Black Gram (Urd Beans),Kamalapuram,2016-03-02,8700.0,0.0,32.6,clear
+1305,Black Gram (Urd Beans),Proddatur,2016-03-02,9200.0,0.0,32.6,clear
+1306,Bengal Gram(Gram),Kamalapuram,2016-04-02,4900.0,0.0,36.8,clear
+1307,Bengal Gram(Gram),Proddatur,2016-04-02,4650.0,0.0,36.8,clear
+1308,Black Gram (Urd Beans),Kamalapuram,2016-04-02,8700.0,0.0,36.8,clear
+1309,Black Gram (Urd Beans),Proddatur,2016-04-02,9350.0,0.0,36.8,clear
+1310,Bengal Gram(Gram),Kamalapuram,2016-05-02,4800.0,0.0,42.4,clear
+1311,Bengal Gram(Gram),Proddatur,2016-05-02,4650.0,0.0,42.4,clear
+1312,Black Gram (Urd Beans),Jammalamadugu,2016-05-02,8100.0,0.0,42.4,clear
+1313,Black Gram (Urd Beans),Kamalapuram,2016-05-02,8700.0,0.0,42.4,clear
+1314,Black Gram (Urd Beans),Proddatur,2016-05-02,9350.0,0.0,42.4,clear
+1315,Bengal Gram(Gram),Kamalapuram,2016-06-02,4700.0,0.0,34.0,clear
+1316,Bengal Gram(Gram),Proddatur,2016-06-02,4650.0,0.0,34.0,clear
+1317,Black Gram (Urd Beans),Kamalapuram,2016-06-02,8700.0,0.0,34.0,clear
+1318,Black Gram (Urd Beans),Proddatur,2016-06-02,9400.0,0.0,34.0,clear
+1319,Bengal Gram(Gram),Kamalapuram,2016-11-02,4800.0,0.0,27.4,rain
+1320,Bengal Gram(Gram),Proddatur,2016-11-02,4650.0,0.0,27.4,rain
+1321,Black Gram (Urd Beans),Kamalapuram,2016-11-02,8700.0,0.0,27.4,rain
+1322,Black Gram (Urd Beans),Proddatur,2016-11-02,9250.0,0.0,27.4,rain
+1323,Bengal Gram(Gram),Kamalapuram,2016-12-02,4650.0,0.0,30.6,rain
+1324,Bengal Gram(Gram),Proddatur,2016-12-02,4650.0,0.0,30.6,rain
+1325,Black Gram (Urd Beans),Proddatur,2016-12-02,9350.0,0.0,30.6,rain
+1326,Bengal Gram(Gram),Kamalapuram,2016-02-13,4650.0,0.0,33.6,clear
+1327,Bengal Gram(Gram),Proddatur,2016-02-13,4750.0,0.0,33.6,clear
+1328,Black Gram (Urd Beans),Proddatur,2016-02-13,9500.0,0.0,33.6,clear
+1329,Bengal Gram(Gram),Kamalapuram,2016-02-14,4750.0,0.0,32.2,clear
+1330,Bengal Gram(Gram),Proddatur,2016-02-14,4650.0,0.0,32.2,clear
+1331,Black Gram (Urd Beans),Proddatur,2016-02-14,9250.0,0.0,32.2,clear
+1332,Bengal Gram(Gram),Kamalapuram,2016-02-15,4750.0,0.0,31.4,clear
+1333,Bengal Gram(Gram),Proddatur,2016-02-15,4650.0,0.0,31.4,clear
+1334,Black Gram (Urd Beans),Proddatur,2016-02-15,9300.0,0.0,31.4,clear
+1335,Bengal Gram(Gram),Kamalapuram,2016-02-16,4600.0,0.0,33.0,clear
+1336,Bengal Gram(Gram),Proddatur,2016-02-16,4650.0,0.0,33.0,clear
+1337,Black Gram (Urd Beans),Proddatur,2016-02-16,9200.0,0.0,33.0,clear
+1338,Bengal Gram(Gram),Kamalapuram,2016-02-17,4750.0,0.0,32.0,clear
+1339,Bengal Gram(Gram),Proddatur,2016-02-17,4600.0,0.0,32.0,clear
+1340,Black Gram (Urd Beans),Proddatur,2016-02-17,9350.0,0.0,32.0,clear
+1341,Bengal Gram(Gram),Kamalapuram,2016-02-18,4700.0,0.0,32.4,clear
+1342,Bengal Gram(Gram),Proddatur,2016-02-18,4750.0,0.0,32.4,clear
+1343,Black Gram (Urd Beans),Kamalapuram,2016-02-18,8700.0,0.0,32.4,clear
+1344,Black Gram (Urd Beans),Proddatur,2016-02-18,9500.0,0.0,32.4,clear
+1345,Bengal Gram(Gram),Kamalapuram,2016-02-19,4700.0,0.0,32.2,clear
+1346,Bengal Gram(Gram),Proddatur,2016-02-19,4650.0,0.0,32.2,clear
+1347,Black Gram (Urd Beans),Kamalapuram,2016-02-19,8700.0,0.0,32.2,clear
+1348,Black Gram (Urd Beans),Proddatur,2016-02-19,9200.0,0.0,32.2,clear
+1349,Bengal Gram(Gram),Kamalapuram,2016-02-20,4800.0,0.0,34.2,clear
+1350,Bengal Gram(Gram),Proddatur,2016-02-20,4600.0,0.0,34.2,clear
+1351,Black Gram (Urd Beans),Kamalapuram,2016-02-20,8700.0,0.0,34.2,clear
+1352,Black Gram (Urd Beans),Proddatur,2016-02-20,9350.0,0.0,34.2,clear
+1353,Bengal Gram(Gram),Kamalapuram,2016-02-22,4700.0,0.0,36.2,clear
+1354,Bengal Gram(Gram),Proddatur,2016-02-22,4750.0,0.0,36.2,clear
+1355,Black Gram (Urd Beans),Kamalapuram,2016-02-22,8700.0,0.0,36.2,clear
+1356,Black Gram (Urd Beans),Proddatur,2016-02-22,9350.0,0.0,36.2,clear
+1357,Bengal Gram(Gram),Kamalapuram,2016-02-24,4800.0,0.0,34.4,clear
+1358,Bengal Gram(Gram),Proddatur,2016-02-24,4700.0,0.0,34.4,clear
+1359,Black Gram (Urd Beans),Kamalapuram,2016-02-24,8400.0,0.0,34.4,clear
+1360,Black Gram (Urd Beans),Proddatur,2016-02-24,9450.0,0.0,34.4,clear
+1361,Bengal Gram(Gram),Kamalapuram,2016-02-25,4700.0,0.0,34.0,clear
+1362,Bengal Gram(Gram),Proddatur,2016-02-25,4700.0,0.0,34.0,clear
+1363,Black Gram (Urd Beans),Kamalapuram,2016-02-25,8400.0,0.0,34.0,clear
+1364,Black Gram (Urd Beans),Proddatur,2016-02-25,9400.0,0.0,34.0,clear
+1365,Bengal Gram(Gram),Kamalapuram,2016-02-26,4800.0,0.0,33.6,clear
+1366,Bengal Gram(Gram),Proddatur,2016-02-26,4750.0,0.0,33.6,clear
+1367,Black Gram (Urd Beans),Kamalapuram,2016-02-26,8400.0,0.0,33.6,clear
+1368,Black Gram (Urd Beans),Proddatur,2016-02-26,9300.0,0.0,33.6,clear
+1369,Bengal Gram(Gram),Kamalapuram,2016-02-27,4800.0,0.0,33.6,clear
+1370,Bengal Gram(Gram),Proddatur,2016-02-27,4650.0,0.0,33.6,clear
+1371,Black Gram (Urd Beans),Kamalapuram,2016-02-27,8400.0,0.0,33.6,clear
+1372,Black Gram (Urd Beans),Proddatur,2016-02-27,9400.0,0.0,33.6,clear
+1373,Bengal Gram(Gram),Kamalapuram,2016-02-28,4400.0,0.0,33.4,clear
+1374,Bengal Gram(Gram),Proddatur,2016-02-28,4700.0,0.0,33.4,clear
+1375,Black Gram (Urd Beans),Kamalapuram,2016-02-28,8400.0,0.0,33.4,clear
+1376,Black Gram (Urd Beans),Proddatur,2016-02-28,9400.0,0.0,33.4,clear
+1377,Bengal Gram(Gram),Kamalapuram,2016-03-24,4350.0,0.0,38.6,clear
+1378,Bengal Gram(Gram),Proddatur,2016-03-24,4700.0,0.0,38.6,clear
+1379,Black Gram (Urd Beans),Kamalapuram,2016-03-24,8100.0,0.0,38.6,clear
+1380,Black Gram (Urd Beans),Proddatur,2016-03-24,9600.0,0.0,38.6,clear
+1381,Bengal Gram(Gram),Kamalapuram,2016-03-26,4600.0,0.0,36.6,clear
+1382,Bengal Gram(Gram),Proddatur,2016-03-26,4700.0,0.0,36.6,clear
+1383,Black Gram (Urd Beans),Jammalamadugu,2016-03-26,10100.0,0.0,36.6,clear
+1384,Black Gram (Urd Beans),Kamalapuram,2016-03-26,8500.0,0.0,36.6,clear
+1385,Black Gram (Urd Beans),Proddatur,2016-03-26,9700.0,0.0,36.6,clear
+1386,Bengal Gram(Gram),Kamalapuram,2016-03-27,4600.0,0.0,36.0,clear
+1387,Bengal Gram(Gram),Proddatur,2016-03-27,4800.0,0.0,36.0,clear
+1388,Black Gram (Urd Beans),Kamalapuram,2016-03-27,8700.0,0.0,36.0,clear
+1389,Black Gram (Urd Beans),Proddatur,2016-03-27,9600.0,0.0,36.0,clear
+1390,Bengal Gram(Gram),Kamalapuram,2016-03-29,4600.0,0.0,37.4,clear
+1391,Black Gram (Urd Beans),Kamalapuram,2016-03-29,8700.0,0.0,37.4,clear
+1392,Bengal Gram(Gram),Kamalapuram,2016-03-30,4700.0,0.0,36.6,clear
+1393,Bengal Gram(Gram),Proddatur,2016-03-30,6150.0,0.0,36.6,clear
+1394,Black Gram (Urd Beans),Kamalapuram,2016-03-30,8800.0,0.0,36.6,clear
+1395,Black Gram (Urd Beans),Proddatur,2016-03-30,9600.0,0.0,36.6,clear
+1396,Bengal Gram(Gram),Kamalapuram,2016-01-04,4650.0,0.0,30.0,clear
+1397,Bengal Gram(Gram),Proddatur,2016-01-04,4800.0,0.0,30.0,clear
+1398,Black Gram (Urd Beans),Kamalapuram,2016-01-04,8700.0,0.0,30.0,clear
+1399,Black Gram (Urd Beans),Proddatur,2016-01-04,9600.0,0.0,30.0,clear
+1400,Bengal Gram(Gram),Kamalapuram,2016-02-04,4400.0,0.0,33.0,clear
+1401,Bengal Gram(Gram),Proddatur,2016-02-04,4800.0,0.0,33.0,clear
+1402,Black Gram (Urd Beans),Kamalapuram,2016-02-04,8400.0,0.0,33.0,clear
+1403,Black Gram (Urd Beans),Proddatur,2016-02-04,9600.0,0.0,33.0,clear
+1404,Bengal Gram(Gram),Kamalapuram,2016-11-04,4550.0,0.0,35.8,clear
+1405,Bengal Gram(Gram),Proddatur,2016-11-04,4700.0,0.0,35.8,clear
+1406,Black Gram (Urd Beans),Kamalapuram,2016-11-04,8100.0,0.0,35.8,clear
+1407,Bengal Gram(Gram),Kamalapuram,2016-04-16,4650.0,0.0,39.2,clear
+1408,Bengal Gram(Gram),Proddatur,2016-04-16,4700.0,0.0,39.2,clear
+1409,Black Gram (Urd Beans),Kamalapuram,2016-04-16,8500.0,0.0,39.2,clear
+1410,Bengal Gram(Gram),Kamalapuram,2016-04-19,4650.0,0.0,38.6,clear
+1411,Bengal Gram(Gram),Proddatur,2016-04-19,4700.0,0.0,38.6,clear
+1412,Black Gram (Urd Beans),Kamalapuram,2016-04-19,8600.0,0.0,38.6,clear
+1413,Bengal Gram(Gram),Kamalapuram,2016-04-21,4650.0,0.0,40.4,clear
+1414,Bengal Gram(Gram),Proddatur,2016-04-21,4700.0,0.0,40.4,clear
+1415,Black Gram (Urd Beans),Kamalapuram,2016-04-21,8700.0,0.0,40.4,clear
+1416,Green Gram (Moong),Jammalamadugu,2016-04-21,5100.0,0.0,40.4,clear
+1417,Bengal Gram(Gram),Kamalapuram,2016-04-23,4650.0,0.0,42.2,clear
+1418,Bengal Gram(Gram),Proddatur,2016-04-23,4700.0,0.0,42.2,clear
+1419,Black Gram (Urd Beans),Kamalapuram,2016-04-23,8800.0,0.0,42.2,clear
+1420,Bengal Gram(Gram),Kamalapuram,2016-04-26,4700.0,0.0,39.8,clear
+1421,Bengal Gram(Gram),Proddatur,2016-04-26,4700.0,0.0,39.8,clear
+1422,Black Gram (Urd Beans),Kamalapuram,2016-04-26,8850.0,0.0,39.8,clear
+1423,Bengal Gram(Gram),Kamalapuram,2016-04-27,4750.0,0.0,39.0,clear
+1424,Bengal Gram(Gram),Proddatur,2016-04-27,4700.0,0.0,39.0,clear
+1425,Black Gram (Urd Beans),Kamalapuram,2016-04-27,8900.0,0.0,39.0,clear
+1426,Bengal Gram(Gram),Kamalapuram,2016-04-28,4850.0,0.0,40.6,clear
+1427,Bengal Gram(Gram),Proddatur,2016-04-28,4700.0,0.0,40.6,clear
+1428,Black Gram (Urd Beans),Kamalapuram,2016-04-28,8900.0,0.0,40.6,clear
+1429,Bengal Gram(Gram),Kamalapuram,2016-04-29,4850.0,0.0,40.0,clear
+1430,Bengal Gram(Gram),Proddatur,2016-04-29,4750.0,0.0,40.0,clear
+1431,Black Gram (Urd Beans),Kamalapuram,2016-04-29,8900.0,0.0,40.0,clear
+1432,Bengal Gram(Gram),Kamalapuram,2016-04-30,4900.0,0.0,40.8,clear
+1433,Bengal Gram(Gram),Proddatur,2016-04-30,4700.0,0.0,40.8,clear
+1434,Black Gram (Urd Beans),Kamalapuram,2016-04-30,8900.0,0.0,40.8,clear
+1435,Bengal Gram(Gram),Kamalapuram,2016-01-05,4850.0,0.0,29.6,clear
+1436,Black Gram (Urd Beans),Kamalapuram,2016-01-05,9000.0,0.0,29.6,clear
+1437,Bengal Gram(Gram),Kamalapuram,2016-02-05,4850.0,0.0,23.0,clear
+1438,Bengal Gram(Gram),Proddatur,2016-02-05,4700.0,0.0,23.0,clear
+1439,Black Gram (Urd Beans),Kamalapuram,2016-02-05,9000.0,0.0,23.0,clear
+1440,Bengal Gram(Gram),Kamalapuram,2016-04-05,4850.0,0.0,39.0,clear
+1441,Bengal Gram(Gram),Proddatur,2016-04-05,4700.0,0.0,39.0,clear
+1442,Black Gram (Urd Beans),Kamalapuram,2016-04-05,8900.0,0.0,39.0,clear
+1443,Bengal Gram(Gram),Kamalapuram,2016-05-05,4850.0,0.0,39.0,clear
+1444,Bengal Gram(Gram),Proddatur,2016-05-05,4700.0,0.0,39.0,clear
+1445,Black Gram (Urd Beans),Kamalapuram,2016-05-05,8900.0,0.0,39.0,clear
+1446,Bengal Gram(Gram),Kamalapuram,2016-08-05,4850.0,0.0,34.0,clear
+1447,Bengal Gram(Gram),Proddatur,2016-08-05,4700.0,0.0,34.0,clear
+1448,Black Gram (Urd Beans),Kamalapuram,2016-08-05,8900.0,0.0,34.0,clear
+1449,Bengal Gram(Gram),Kamalapuram,2016-12-05,4850.0,0.0,28.2,clear
+1450,Bengal Gram(Gram),Proddatur,2016-12-05,4750.0,0.0,28.2,clear
+1451,Black Gram (Urd Beans),Kamalapuram,2016-12-05,9000.0,0.0,28.2,clear
+1452,Bengal Gram(Gram),Kamalapuram,2016-05-13,4850.0,0.0,40.2,clear
+1453,Bengal Gram(Gram),Proddatur,2016-05-13,4800.0,0.0,40.2,clear
+1454,Black Gram (Urd Beans),Kamalapuram,2016-05-13,8900.0,0.0,40.2,clear
+1455,Bengal Gram(Gram),Kamalapuram,2016-05-14,4800.0,0.0,40.6,clear
+1456,Bengal Gram(Gram),Proddatur,2016-05-14,4850.0,0.0,40.6,clear
+1457,Black Gram (Urd Beans),Kamalapuram,2016-05-14,8900.0,0.0,40.6,clear
+1458,Bengal Gram(Gram),Kamalapuram,2016-05-15,4850.0,0.0,38.4,clear
+1459,Bengal Gram(Gram),Proddatur,2016-05-15,4850.0,0.0,38.4,clear
+1460,Black Gram (Urd Beans),Kamalapuram,2016-05-15,8850.0,0.0,38.4,clear
+1461,Bengal Gram(Gram),Kamalapuram,2016-05-16,4800.0,0.0,36.4,clear
+1462,Bengal Gram(Gram),Proddatur,2016-05-16,4700.0,0.0,36.4,clear
+1463,Black Gram (Urd Beans),Kamalapuram,2016-05-16,8900.0,0.0,36.4,clear
+1464,Bengal Gram(Gram),Kamalapuram,2016-05-18,4800.0,0.0,25.8,rain
+1465,Bengal Gram(Gram),Proddatur,2016-05-18,4750.0,0.0,25.8,rain
+1466,Black Gram (Urd Beans),Kamalapuram,2016-05-18,8900.0,0.0,25.8,rain
+1467,Green Gram (Moong),Jammalamadugu,2016-05-18,5800.0,0.0,25.8,rain
+1468,Bengal Gram(Gram),Kamalapuram,2016-05-19,4850.0,0.0,32.2,clear
+1469,Bengal Gram(Gram),Proddatur,2016-05-19,4750.0,0.0,32.2,clear
+1470,Black Gram (Urd Beans),Kamalapuram,2016-05-19,8900.0,0.0,32.2,clear
+1471,Bengal Gram(Gram),Kamalapuram,2016-05-30,4800.0,0.0,39.2,clear
+1472,Bengal Gram(Gram),Proddatur,2016-05-30,4750.0,0.0,39.2,clear
+1473,Black Gram (Urd Beans),Kamalapuram,2016-05-30,8800.0,0.0,39.2,clear
+1474,Bengal Gram(Gram),Kamalapuram,2016-05-31,4800.0,0.0,37.2,clear
+1475,Bengal Gram(Gram),Proddatur,2016-05-31,4750.0,0.0,37.2,clear
+1476,Black Gram (Urd Beans),Kamalapuram,2016-05-31,9100.0,0.0,37.2,clear
+1477,Bengal Gram(Gram),Kamalapuram,2016-01-06,4700.0,0.0,29.6,clear
+1478,Bengal Gram(Gram),Proddatur,2016-01-06,4850.0,0.0,29.6,clear
+1479,Black Gram (Urd Beans),Kamalapuram,2016-01-06,9100.0,0.0,29.6,clear
+1480,Bengal Gram(Gram),Kamalapuram,2016-07-06,4750.0,0.0,34.4,clear
+1481,Bengal Gram(Gram),Proddatur,2016-07-06,4750.0,0.0,34.4,clear
+1482,Black Gram (Urd Beans),Kamalapuram,2016-07-06,8900.0,0.0,34.4,clear
+1483,Bengal Gram(Gram),Kamalapuram,2016-06-07,5100.0,0.0,34.6,rain
+1484,Bengal Gram(Gram),Proddatur,2016-06-07,6750.0,0.0,34.6,rain
+1485,Black Gram (Urd Beans),Kamalapuram,2016-06-07,8900.0,0.0,34.6,rain
+1486,Bengal Gram(Gram),Kamalapuram,2016-07-27,6900.0,0.0,34.0,rain
+1487,Bengal Gram(Gram),Proddatur,2016-07-27,9200.0,0.0,34.0,rain
+1488,Black Gram (Urd Beans),Kamalapuram,2016-07-27,9900.0,0.0,34.0,rain
+1489,Black Gram (Urd Beans),Proddatur,2016-07-27,14000.0,0.0,34.0,rain
+1490,Bengal Gram(Gram),Kamalapuram,2016-07-28,6900.0,0.0,34.6,clear
+1491,Black Gram (Urd Beans),Kamalapuram,2016-07-28,9900.0,0.0,34.6,clear
+1492,Bengal Gram(Gram),Kamalapuram,2016-09-10,7400.0,0.0,36.0,clear
+1493,Bengal Gram(Gram),Proddatur,2016-09-10,9300.0,0.0,36.0,clear
+1494,Bengal Gram(Gram),Kamalapuram,2016-10-30,8400.0,0.0,32.0,clear
+1495,Bengal Gram(Gram),Proddatur,2016-10-30,9900.0,0.0,32.0,clear
+1496,Black Gram (Urd Beans),Kamalapuram,2016-10-30,6900.0,0.0,32.0,clear
+1497,Bengal Gram(Gram),Kamalapuram,2016-11-15,8900.0,0.0,34.0,clear
+1498,Bengal Gram(Gram),Proddatur,2016-11-15,9100.0,0.0,34.0,clear
+1499,Black Gram (Urd Beans),Kamalapuram,2016-11-15,6900.0,0.0,34.0,clear
+1500,Bengal Gram(Gram),Kamalapuram,2016-12-26,8700.0,0.0,29.2,clear
+1501,Bengal Gram(Gram),Proddatur,2016-12-26,9150.0,0.0,29.2,clear
+1502,Black Gram (Urd Beans),Kamalapuram,2016-12-26,6700.0,0.0,29.2,clear
+1503,Bengal Gram(Gram),Proddatur,2016-07-02,4650.0,0.0,36.6,clear
+1504,Black Gram (Urd Beans),Kamalapuram,2016-07-02,8700.0,0.0,36.6,clear
+1505,Black Gram (Urd Beans),Proddatur,2016-07-02,9350.0,0.0,36.6,clear
+1506,Bengal Gram(Gram),Proddatur,2016-03-31,4800.0,0.0,36.0,clear
+1507,Black Gram (Urd Beans),Proddatur,2016-03-31,9600.0,0.0,36.0,clear
+1508,Bengal Gram(Gram),Proddatur,2016-09-05,4700.0,0.0,34.4,clear
+1509,Bengal Gram(Gram),Proddatur,2016-10-05,4700.0,0.0,36.6,clear
+1510,Black Gram (Urd Beans),Kamalapuram,2016-10-05,8900.0,0.0,36.6,clear
+1511,Bengal Gram(Gram),Proddatur,2016-05-17,4700.0,0.0,27.6,rain
+1512,Black Gram (Urd Beans),Kamalapuram,2016-05-17,8900.0,0.0,27.6,rain
+1513,Bengal Gram(Gram),Proddatur,2016-11-23,9700.0,0.0,32.6,clear
+1514,Black Gram (Urd Beans),Kamalapuram,2016-11-23,6900.0,0.0,32.6,clear
+1515,Bengal Gram(Gram),Proddatur,2016-11-29,9100.0,0.0,31.6,clear
+1516,Green Gram (Moong),Proddatur,2016-11-29,4500.0,0.0,31.6,clear
+1517,Arhar (Tur/Red Gram),Jammalamadugu,2017-02-11,7050.0,0.0,31.0,clear
+1518,Bengal Gram(Gram),Jammalamadugu,2017-02-11,5450.0,0.0,31.0,clear
+1519,Bengal Gram(Gram),Kamalapuram,2017-02-11,5100.0,0.0,31.0,clear
+1520,Bengal Gram(Gram),Proddatur,2017-02-11,4900.0,0.0,31.0,clear
+1521,Black Gram (Urd Beans),Kamalapuram,2017-02-11,4900.0,0.0,31.0,clear
+1522,Arhar (Tur/Red Gram),Proddatur,2017-03-02,8000.0,0.0,32.8,clear
+1523,Arhar (Tur/Red Gram),Proddatur,2017-06-02,4800.0,0.0,39.8,clear
+1524,Bengal Gram(Gram),Jammalamadugu,2017-06-02,9850.0,0.0,39.8,clear
+1525,Bengal Gram(Gram),Proddatur,2017-06-02,6600.0,0.0,39.8,clear
+1526,Green Gram (Moong),Proddatur,2017-06-02,4900.0,0.0,39.8,clear
+1527,Arhar (Tur/Red Gram),Proddatur,2017-02-17,4650.0,0.0,31.0,clear
+1528,Bengal Gram(Gram),Kamalapuram,2017-02-17,6400.0,0.0,31.0,clear
+1529,Black Gram (Urd Beans),Kamalapuram,2017-02-17,5900.0,0.0,31.0,clear
+1530,Black Gram (Urd Beans),Proddatur,2017-02-17,5900.0,0.0,31.0,clear
+1531,Green Gram (Moong),Proddatur,2017-02-17,6300.0,0.0,31.0,clear
+1532,Arhar (Tur/Red Gram),Proddatur,2017-04-15,4700.0,0.0,38.8,clear
+1533,Bengal Gram(Gram),Kamalapuram,2017-04-15,6400.0,0.0,38.8,clear
+1534,Bengal Gram(Gram),Proddatur,2017-04-15,6450.0,0.0,38.8,clear
+1535,Black Gram (Urd Beans),Kamalapuram,2017-04-15,6400.0,0.0,38.8,clear
+1536,Black Gram (Urd Beans),Proddatur,2017-04-15,6450.0,0.0,38.8,clear
+1537,Bengal Gram(Gram),Jammalamadugu,2017-01-01,7600.0,0.0,29.4,clear
+1538,Bengal Gram(Gram),Proddatur,2017-01-01,7800.0,0.0,29.4,clear
+1539,Bengal Gram(Gram),Jammalamadugu,2017-02-01,7600.0,0.0,30.2,clear
+1540,Bengal Gram(Gram),Kamalapuram,2017-02-01,8900.0,0.0,30.2,clear
+1541,Bengal Gram(Gram),Proddatur,2017-02-01,7800.0,0.0,30.2,clear
+1542,Black Gram (Urd Beans),Kamalapuram,2017-02-01,6300.0,0.0,30.2,clear
+1543,Bengal Gram(Gram),Jammalamadugu,2017-03-01,7600.0,0.0,32.0,clear
+1544,Bengal Gram(Gram),Kamalapuram,2017-03-01,8900.0,0.0,32.0,clear
+1545,Bengal Gram(Gram),Proddatur,2017-03-01,7800.0,0.0,32.0,clear
+1546,Black Gram (Urd Beans),Kamalapuram,2017-03-01,6200.0,0.0,32.0,clear
+1547,Bengal Gram(Gram),Jammalamadugu,2017-04-01,8200.0,0.0,38.0,clear
+1548,Bengal Gram(Gram),Kamalapuram,2017-04-01,8900.0,0.0,38.0,clear
+1549,Bengal Gram(Gram),Proddatur,2017-04-01,7800.0,0.0,38.0,clear
+1550,Bengal Gram(Gram),Jammalamadugu,2017-05-01,7100.0,0.0,38.2,clear
+1551,Bengal Gram(Gram),Kamalapuram,2017-05-01,8700.0,0.0,38.2,clear
+1552,Bengal Gram(Gram),Proddatur,2017-05-01,7800.0,0.0,38.2,clear
+1553,Black Gram (Urd Beans),Kamalapuram,2017-05-01,6200.0,0.0,38.2,clear
+1554,Bengal Gram(Gram),Jammalamadugu,2017-06-01,6900.0,0.0,40.4,clear
+1555,Bengal Gram(Gram),Kamalapuram,2017-06-01,8700.0,0.0,40.4,clear
+1556,Black Gram (Urd Beans),Kamalapuram,2017-06-01,6200.0,0.0,40.4,clear
+1557,Black Gram (Urd Beans),Proddatur,2017-06-01,6400.0,0.0,40.4,clear
+1558,Bengal Gram(Gram),Jammalamadugu,2017-07-01,7100.0,0.0,35.4,clear
+1559,Bengal Gram(Gram),Kamalapuram,2017-07-01,8600.0,0.0,35.4,clear
+1560,Bengal Gram(Gram),Proddatur,2017-07-01,7100.0,0.0,35.4,clear
+1561,Bengal Gram(Gram),Jammalamadugu,2017-11-01,6900.0,0.0,24.6,clear
+1562,Bengal Gram(Gram),Kamalapuram,2017-11-01,8400.0,0.0,24.6,clear
+1563,Bengal Gram(Gram),Proddatur,2017-11-01,6700.0,0.0,24.6,clear
+1564,Black Gram (Urd Beans),Kamalapuram,2017-11-01,6100.0,0.0,24.6,clear
+1565,Bengal Gram(Gram),Jammalamadugu,2017-01-18,6100.0,0.0,29.6,clear
+1566,Bengal Gram(Gram),Kamalapuram,2017-01-18,8900.0,0.0,29.6,clear
+1567,Bengal Gram(Gram),Proddatur,2017-01-18,6850.0,0.0,29.6,clear
+1568,Black Gram (Urd Beans),Kamalapuram,2017-01-18,6300.0,0.0,29.6,clear
+1569,Bengal Gram(Gram),Jammalamadugu,2017-01-19,7100.0,0.0,29.6,clear
+1570,Black Gram (Urd Beans),Kamalapuram,2017-01-19,6400.0,0.0,29.6,clear
+1571,Bengal Gram(Gram),Jammalamadugu,2017-01-23,7100.0,0.0,29.2,clear
+1572,Bengal Gram(Gram),Proddatur,2017-01-23,6400.0,0.0,29.2,clear
+1573,Bengal Gram(Gram),Jammalamadugu,2017-01-26,7600.0,0.0,28.2,clear
+1574,Bengal Gram(Gram),Proddatur,2017-01-26,6500.0,0.0,28.2,clear
+1575,Bengal Gram(Gram),Jammalamadugu,2017-01-27,7600.0,0.0,27.2,rain
+1576,Bengal Gram(Gram),Kamalapuram,2017-01-27,6900.0,0.0,27.2,rain
+1577,Bengal Gram(Gram),Proddatur,2017-01-27,6900.0,0.0,27.2,rain
+1578,Black Gram (Urd Beans),Kamalapuram,2017-01-27,5900.0,0.0,27.2,rain
+1579,Bengal Gram(Gram),Jammalamadugu,2017-01-30,10350.0,0.0,29.6,clear
+1580,Bengal Gram(Gram),Proddatur,2017-01-30,6900.0,0.0,29.6,clear
+1581,Bengal Gram(Gram),Jammalamadugu,2017-01-02,10400.0,0.0,30.6,clear
+1582,Bengal Gram(Gram),Kamalapuram,2017-01-02,6700.0,0.0,30.6,clear
+1583,Bengal Gram(Gram),Proddatur,2017-01-02,6950.0,0.0,30.6,clear
+1584,Black Gram (Urd Beans),Kamalapuram,2017-01-02,5900.0,0.0,30.6,clear
+1585,Bengal Gram(Gram),Jammalamadugu,2017-02-02,7600.0,0.0,30.4,clear
+1586,Bengal Gram(Gram),Kamalapuram,2017-02-02,6700.0,0.0,30.4,clear
+1587,Bengal Gram(Gram),Proddatur,2017-02-02,6900.0,0.0,30.4,clear
+1588,Black Gram (Urd Beans),Kamalapuram,2017-02-02,6400.0,0.0,30.4,clear
+1589,Bengal Gram(Gram),Jammalamadugu,2017-04-02,7100.0,0.0,37.6,clear
+1590,Bengal Gram(Gram),Kamalapuram,2017-04-02,6400.0,0.0,37.6,clear
+1591,Bengal Gram(Gram),Proddatur,2017-04-02,6600.0,0.0,37.6,clear
+1592,Black Gram (Urd Beans),Kamalapuram,2017-04-02,5900.0,0.0,37.6,clear
+1593,Bengal Gram(Gram),Jammalamadugu,2017-05-02,7100.0,0.0,38.6,rain
+1594,Bengal Gram(Gram),Proddatur,2017-05-02,8900.0,0.0,38.6,rain
+1595,Bengal Gram(Gram),Jammalamadugu,2017-09-02,5300.0,0.0,33.4,clear
+1596,Bengal Gram(Gram),Proddatur,2017-09-02,6850.0,0.0,33.4,clear
+1597,Bengal Gram(Gram),Jammalamadugu,2017-11-02,5100.0,0.0,26.4,clear
+1598,Bengal Gram(Gram),Proddatur,2017-11-02,6650.0,0.0,26.4,clear
+1599,Bengal Gram(Gram),Jammalamadugu,2017-12-02,5100.0,0.0,28.6,clear
+1600,Bengal Gram(Gram),Proddatur,2017-12-02,6850.0,0.0,28.6,clear
+1601,Bengal Gram(Gram),Jammalamadugu,2017-02-14,5500.0,0.0,30.4,clear
+1602,Bengal Gram(Gram),Proddatur,2017-02-14,5500.0,0.0,30.4,clear
+1603,Bengal Gram(Gram),Jammalamadugu,2017-02-21,5600.0,0.0,37.0,clear
+1604,Bengal Gram(Gram),Proddatur,2017-02-21,6300.0,0.0,37.0,clear
+1605,Bengal Gram(Gram),Jammalamadugu,2017-02-23,8750.0,0.0,34.6,clear
+1606,Bengal Gram(Gram),Kamalapuram,2017-02-23,6400.0,0.0,34.6,clear
+1607,Black Gram (Urd Beans),Kamalapuram,2017-02-23,5900.0,0.0,34.6,clear
+1608,Bengal Gram(Gram),Jammalamadugu,2017-02-24,6200.0,0.0,36.2,clear
+1609,Bengal Gram(Gram),Jammalamadugu,2017-02-28,9400.0,0.0,32.2,clear
+1610,Bengal Gram(Gram),Proddatur,2017-02-28,6750.0,0.0,32.2,clear
+1611,Bengal Gram(Gram),Jammalamadugu,2017-03-28,5100.0,0.0,37.8,clear
+1612,Bengal Gram(Gram),Jammalamadugu,2017-03-31,6050.0,0.0,37.0,clear
+1613,Bengal Gram(Gram),Proddatur,2017-03-31,6100.0,0.0,37.0,clear
+1614,Bengal Gram(Gram),Jammalamadugu,2017-06-17,6650.0,0.0,35.4,clear
+1615,Bengal Gram(Gram),Proddatur,2017-06-17,5800.0,0.0,35.4,clear
+1616,Bengal Gram(Gram),Jammalamadugu,2017-06-23,5950.0,0.0,38.0,clear
+1617,Bengal Gram(Gram),Kamalapuram,2017-06-23,6100.0,0.0,38.0,clear
+1618,Bengal Gram(Gram),Proddatur,2017-06-23,5900.0,0.0,38.0,clear
+1619,Bengal Gram(Gram),Jammalamadugu,2017-06-07,10550.0,0.0,34.6,clear
+1620,Bengal Gram(Gram),Kamalapuram,2017-06-07,5900.0,0.0,34.6,clear
+1621,Bengal Gram(Gram),Proddatur,2017-06-07,6250.0,0.0,34.6,clear
+1622,Black Gram (Urd Beans),Kamalapuram,2017-06-07,5900.0,0.0,34.6,clear
+1623,Bengal Gram(Gram),Jammalamadugu,2017-07-14,5100.0,0.0,35.2,clear
+1624,Bengal Gram(Gram),Proddatur,2017-07-14,5900.0,0.0,35.2,clear
+1625,Bengal Gram(Gram),Jammalamadugu,2017-07-16,5700.0,0.0,33.4,clear
+1626,Bengal Gram(Gram),Proddatur,2017-07-16,5900.0,0.0,33.4,clear
+1627,Bengal Gram(Gram),Jammalamadugu,2017-07-17,5650.0,0.0,33.0,clear
+1628,Bengal Gram(Gram),Kamalapuram,2017-07-17,5900.0,0.0,33.0,clear
+1629,Bengal Gram(Gram),Proddatur,2017-07-17,5950.0,0.0,33.0,clear
+1630,Black Gram (Urd Beans),Kamalapuram,2017-07-17,5700.0,0.0,33.0,clear
+1631,Bengal Gram(Gram),Jammalamadugu,2017-07-18,5650.0,0.0,34.0,clear
+1632,Bengal Gram(Gram),Kamalapuram,2017-07-18,5900.0,0.0,34.0,clear
+1633,Bengal Gram(Gram),Proddatur,2017-07-18,5950.0,0.0,34.0,clear
+1634,Black Gram (Urd Beans),Kamalapuram,2017-07-18,5900.0,0.0,34.0,clear
+1635,Bengal Gram(Gram),Jammalamadugu,2017-02-08,5100.0,0.0,32.8,clear
+1636,Bengal Gram(Gram),Proddatur,2017-02-08,5650.0,0.0,32.8,clear
+1637,Bengal Gram(Gram),Jammalamadugu,2017-04-08,5550.0,0.0,39.0,clear
+1638,Bengal Gram(Gram),Proddatur,2017-04-08,5650.0,0.0,39.0,clear
+1639,Bengal Gram(Gram),Jammalamadugu,2017-05-08,5750.0,0.0,38.4,clear
+1640,Bengal Gram(Gram),Kamalapuram,2017-05-08,6100.0,0.0,38.4,clear
+1641,Bengal Gram(Gram),Proddatur,2017-05-08,5800.0,0.0,38.4,clear
+1642,Black Gram (Urd Beans),Kamalapuram,2017-05-08,5300.0,0.0,38.4,clear
+1643,Bengal Gram(Gram),Jammalamadugu,2017-08-17,5750.0,0.0,32.8,clear
+1644,Bengal Gram(Gram),Proddatur,2017-08-17,6050.0,0.0,32.8,clear
+1645,Bengal Gram(Gram),Jammalamadugu,2017-08-20,5650.0,0.0,34.2,rain
+1646,Bengal Gram(Gram),Proddatur,2017-08-20,5750.0,0.0,34.2,rain
+1647,Bengal Gram(Gram),Jammalamadugu,2017-08-24,5700.0,0.0,30.0,clear
+1648,Bengal Gram(Gram),Kamalapuram,2017-08-24,5800.0,0.0,30.0,clear
+1649,Bengal Gram(Gram),Proddatur,2017-08-24,5650.0,0.0,30.0,clear
+1650,Black Gram (Urd Beans),Kamalapuram,2017-08-24,5300.0,0.0,30.0,clear
+1651,Bengal Gram(Gram),Jammalamadugu,2017-08-25,5700.0,0.0,29.6,clear
+1652,Bengal Gram(Gram),Proddatur,2017-08-25,6200.0,0.0,29.6,clear
+1653,Bengal Gram(Gram),Jammalamadugu,2017-08-29,6100.0,0.0,32.6,clear
+1654,Bengal Gram(Gram),Kamalapuram,2017-08-29,5900.0,0.0,32.6,clear
+1655,Bengal Gram(Gram),Proddatur,2017-08-29,6350.0,0.0,32.6,clear
+1656,Black Gram (Urd Beans),Kamalapuram,2017-08-29,5400.0,0.0,32.6,clear
+1657,Bengal Gram(Gram),Jammalamadugu,2017-08-31,5700.0,0.0,35.0,clear
+1658,Bengal Gram(Gram),Proddatur,2017-08-31,6250.0,0.0,35.0,clear
+1659,Bengal Gram(Gram),Jammalamadugu,2017-02-09,10750.0,0.0,32.6,clear
+1660,Bengal Gram(Gram),Kamalapuram,2017-02-09,6100.0,0.0,32.6,clear
+1661,Bengal Gram(Gram),Proddatur,2017-02-09,6300.0,0.0,32.6,clear
+1662,Bengal Gram(Gram),Jammalamadugu,2017-03-09,5750.0,0.0,35.6,clear
+1663,Bengal Gram(Gram),Kamalapuram,2017-03-09,6100.0,0.0,35.6,clear
+1664,Bengal Gram(Gram),Proddatur,2017-03-09,6450.0,0.0,35.6,clear
+1665,Black Gram (Urd Beans),Kamalapuram,2017-03-09,5300.0,0.0,35.6,clear
+1666,Bengal Gram(Gram),Jammalamadugu,2017-04-09,6050.0,0.0,38.6,clear
+1667,Bengal Gram(Gram),Kamalapuram,2017-04-09,5900.0,0.0,38.6,clear
+1668,Bengal Gram(Gram),Proddatur,2017-04-09,6350.0,0.9,38.6,clear
+1669,Black Gram (Urd Beans),Kamalapuram,2017-04-09,5300.0,0.0,38.6,clear
+1670,Bengal Gram(Gram),Jammalamadugu,2017-05-09,6050.0,0.0,39.4,clear
+1671,Bengal Gram(Gram),Kamalapuram,2017-05-09,6100.0,0.0,39.4,clear
+1672,Bengal Gram(Gram),Proddatur,2017-05-09,6400.0,0.0,39.4,clear
+1673,Bengal Gram(Gram),Jammalamadugu,2017-06-09,5900.0,0.0,36.6,clear
+1674,Bengal Gram(Gram),Kamalapuram,2017-06-09,6100.0,0.0,36.6,clear
+1675,Bengal Gram(Gram),Proddatur,2017-06-09,6400.0,0.0,36.6,clear
+1676,Black Gram (Urd Beans),Kamalapuram,2017-06-09,5400.0,0.0,36.6,clear
+1677,Bengal Gram(Gram),Jammalamadugu,2017-07-09,6050.0,0.0,34.8,clear
+1678,Bengal Gram(Gram),Kamalapuram,2017-07-09,6100.0,0.0,34.8,clear
+1679,Bengal Gram(Gram),Proddatur,2017-07-09,6450.0,0.0,34.8,clear
+1680,Black Gram (Urd Beans),Kamalapuram,2017-07-09,5400.0,0.0,34.8,clear
+1681,Bengal Gram(Gram),Jammalamadugu,2017-08-09,5900.0,0.0,31.2,clear
+1682,Bengal Gram(Gram),Kamalapuram,2017-08-09,5900.0,0.0,31.2,clear
+1683,Bengal Gram(Gram),Proddatur,2017-08-09,6450.0,0.0,31.2,clear
+1684,Black Gram (Urd Beans),Kamalapuram,2017-08-09,5200.0,0.0,31.2,clear
+1685,Bengal Gram(Gram),Jammalamadugu,2017-09-09,5900.0,0.0,31.4,clear
+1686,Bengal Gram(Gram),Kamalapuram,2017-09-09,5900.0,0.0,31.4,clear
+1687,Bengal Gram(Gram),Proddatur,2017-09-09,6450.0,0.0,31.4,clear
+1688,Black Gram (Urd Beans),Kamalapuram,2017-09-09,5100.0,0.0,31.4,clear
+1689,Bengal Gram(Gram),Jammalamadugu,2017-10-09,5900.0,0.0,33.8,clear
+1690,Bengal Gram(Gram),Kamalapuram,2017-10-09,5900.0,0.0,33.8,clear
+1691,Bengal Gram(Gram),Proddatur,2017-10-09,6350.0,0.0,33.8,clear
+1692,Black Gram (Urd Beans),Kamalapuram,2017-10-09,5400.0,0.0,33.8,clear
+1693,Bengal Gram(Gram),Jammalamadugu,2017-12-09,5900.0,0.0,31.8,clear
+1694,Bengal Gram(Gram),Kamalapuram,2017-12-09,6100.0,0.0,31.8,clear
+1695,Bengal Gram(Gram),Proddatur,2017-12-09,6450.0,0.0,31.8,clear
+1696,Black Gram (Urd Beans),Kamalapuram,2017-12-09,4700.0,0.0,31.8,clear
+1697,Bengal Gram(Gram),Jammalamadugu,2017-09-13,6000.0,0.0,34.6,clear
+1698,Bengal Gram(Gram),Kamalapuram,2017-09-13,6100.0,0.0,34.6,clear
+1699,Black Gram (Urd Beans),Kamalapuram,2017-09-13,4700.0,0.0,34.6,clear
+1700,Bengal Gram(Gram),Jammalamadugu,2017-09-16,10700.0,0.0,31.4,clear
+1701,Bengal Gram(Gram),Kamalapuram,2017-09-16,5900.0,570.0,31.4,clear
+1702,Bengal Gram(Gram),Proddatur,2017-09-16,6450.0,0.0,31.4,clear
+1703,Black Gram (Urd Beans),Kamalapuram,2017-09-16,5400.0,0.0,31.4,clear
+1704,Bengal Gram(Gram),Jammalamadugu,2017-09-17,6000.0,0.0,29.0,rain
+1705,Bengal Gram(Gram),Proddatur,2017-09-17,6450.0,0.0,29.0,rain
+1706,Bengal Gram(Gram),Jammalamadugu,2017-09-19,10900.0,0.0,34.0,clear
+1707,Bengal Gram(Gram),Kamalapuram,2017-09-19,5900.0,0.0,34.0,clear
+1708,Bengal Gram(Gram),Proddatur,2017-09-19,6450.0,0.0,34.0,clear
+1709,Black Gram (Urd Beans),Kamalapuram,2017-09-19,5400.0,0.0,34.0,clear
+1710,Bengal Gram(Gram),Jammalamadugu,2017-09-20,5950.0,0.0,34.2,clear
+1711,Bengal Gram(Gram),Proddatur,2017-09-20,6450.0,0.0,34.2,clear
+1712,Bengal Gram(Gram),Jammalamadugu,2017-09-21,5600.0,0.0,35.2,clear
+1713,Bengal Gram(Gram),Kamalapuram,2017-09-21,5900.0,0.0,35.2,clear
+1714,Bengal Gram(Gram),Proddatur,2017-09-21,6450.0,0.0,35.2,clear
+1715,Black Gram (Urd Beans),Kamalapuram,2017-09-21,5400.0,0.0,35.2,clear
+1716,Bengal Gram(Gram),Jammalamadugu,2017-09-23,5700.0,0.0,35.4,clear
+1717,Bengal Gram(Gram),Kamalapuram,2017-09-23,5900.0,0.0,35.4,clear
+1718,Bengal Gram(Gram),Proddatur,2017-09-23,6450.0,0.0,35.4,clear
+1719,Black Gram (Urd Beans),Kamalapuram,2017-09-23,5400.0,0.0,35.4,clear
+1720,Bengal Gram(Gram),Jammalamadugu,2017-09-24,5600.0,0.0,31.6,rain
+1721,Bengal Gram(Gram),Kamalapuram,2017-09-24,5900.0,0.0,31.6,rain
+1722,Bengal Gram(Gram),Proddatur,2017-09-24,6450.0,0.0,31.6,rain
+1723,Black Gram (Urd Beans),Kamalapuram,2017-09-24,5400.0,0.0,31.6,rain
+1724,Bengal Gram(Gram),Jammalamadugu,2017-09-26,5600.0,0.0,31.4,clear
+1725,Bengal Gram(Gram),Kamalapuram,2017-09-26,5900.0,0.0,31.4,clear
+1726,Bengal Gram(Gram),Proddatur,2017-09-26,5950.0,0.0,31.4,clear
+1727,Black Gram (Urd Beans),Kamalapuram,2017-09-26,5400.0,0.0,31.4,clear
+1728,Bengal Gram(Gram),Jammalamadugu,2017-09-27,10950.0,0.0,29.6,clear
+1729,Bengal Gram(Gram),Kamalapuram,2017-09-27,5800.0,0.0,29.6,clear
+1730,Bengal Gram(Gram),Proddatur,2017-09-27,6400.0,0.0,29.6,clear
+1731,Black Gram (Urd Beans),Kamalapuram,2017-09-27,5400.0,0.0,29.6,clear
+1732,Bengal Gram(Gram),Jammalamadugu,2017-09-28,5100.0,0.0,31.8,clear
+1733,Bengal Gram(Gram),Proddatur,2017-09-28,6400.0,0.0,31.8,clear
+1734,Bengal Gram(Gram),Jammalamadugu,2017-09-29,10750.0,0.0,32.2,clear
+1735,Bengal Gram(Gram),Proddatur,2017-09-29,6400.0,0.0,32.2,clear
+1736,Bengal Gram(Gram),Jammalamadugu,2017-01-10,10750.0,0.0,29.6,clear
+1737,Bengal Gram(Gram),Kamalapuram,2017-01-10,5900.0,0.0,29.6,clear
+1738,Bengal Gram(Gram),Proddatur,2017-01-10,6400.0,0.0,29.6,clear
+1739,Black Gram (Urd Beans),Kamalapuram,2017-01-10,5100.0,0.0,29.6,clear
+1740,Bengal Gram(Gram),Jammalamadugu,2017-02-10,10800.0,0.0,32.0,clear
+1741,Bengal Gram(Gram),Kamalapuram,2017-02-10,5900.0,0.0,32.0,clear
+1742,Bengal Gram(Gram),Proddatur,2017-02-10,6400.0,0.0,32.0,clear
+1743,Black Gram (Urd Beans),Kamalapuram,2017-02-10,5100.0,0.0,32.0,clear
+1744,Bengal Gram(Gram),Jammalamadugu,2017-03-10,5900.0,0.0,37.6,clear
+1745,Bengal Gram(Gram),Kamalapuram,2017-03-10,5900.0,0.0,37.6,clear
+1746,Bengal Gram(Gram),Proddatur,2017-03-10,6450.0,0.0,37.6,clear
+1747,Black Gram (Urd Beans),Kamalapuram,2017-03-10,5400.0,0.0,37.6,clear
+1748,Bengal Gram(Gram),Jammalamadugu,2017-05-10,5100.0,0.0,38.0,clear
+1749,Bengal Gram(Gram),Kamalapuram,2017-05-10,5900.0,0.0,38.0,clear
+1750,Bengal Gram(Gram),Proddatur,2017-05-10,6400.0,0.0,38.0,clear
+1751,Bengal Gram(Gram),Jammalamadugu,2017-06-10,5900.0,0.0,37.0,clear
+1752,Bengal Gram(Gram),Kamalapuram,2017-06-10,5900.0,0.0,37.0,clear
+1753,Bengal Gram(Gram),Proddatur,2017-06-10,5600.0,0.0,37.0,clear
+1754,Black Gram (Urd Beans),Kamalapuram,2017-06-10,4900.0,0.0,37.0,clear
+1755,Bengal Gram(Gram),Jammalamadugu,2017-07-10,5850.0,0.0,37.8,clear
+1756,Bengal Gram(Gram),Kamalapuram,2017-07-10,5900.0,0.0,37.8,clear
+1757,Bengal Gram(Gram),Proddatur,2017-07-10,5500.0,0.0,37.8,clear
+1758,Black Gram (Urd Beans),Kamalapuram,2017-07-10,5100.0,0.0,37.8,clear
+1759,Bengal Gram(Gram),Jammalamadugu,2017-08-10,10800.0,0.0,29.6,clear
+1760,Bengal Gram(Gram),Kamalapuram,2017-08-10,5900.0,0.0,29.6,clear
+1761,Bengal Gram(Gram),Proddatur,2017-08-10,5400.0,0.0,29.6,clear
+1762,Black Gram (Urd Beans),Kamalapuram,2017-08-10,5100.0,0.0,29.6,clear
+1763,Bengal Gram(Gram),Jammalamadugu,2017-09-10,10750.0,0.0,30.4,rain
+1764,Bengal Gram(Gram),Kamalapuram,2017-09-10,5900.0,0.0,30.4,rain
+1765,Bengal Gram(Gram),Proddatur,2017-09-10,5500.0,0.0,30.4,rain
+1766,Black Gram (Urd Beans),Kamalapuram,2017-09-10,4900.0,0.0,30.4,rain
+1767,Bengal Gram(Gram),Jammalamadugu,2017-10-10,10750.0,0.0,33.4,clear
+1768,Bengal Gram(Gram),Proddatur,2017-10-10,5550.0,0.0,33.4,clear
+1769,Bengal Gram(Gram),Jammalamadugu,2017-11-10,5400.0,0.0,28.4,clear
+1770,Bengal Gram(Gram),Kamalapuram,2017-11-10,5900.0,0.0,28.4,clear
+1771,Bengal Gram(Gram),Proddatur,2017-11-10,5500.0,0.0,28.4,clear
+1772,Black Gram (Urd Beans),Kamalapuram,2017-11-10,5100.0,0.0,28.4,clear
+1773,Bengal Gram(Gram),Jammalamadugu,2017-12-10,5500.0,0.0,32.0,clear
+1774,Bengal Gram(Gram),Kamalapuram,2017-12-10,5900.0,0.0,32.0,clear
+1775,Bengal Gram(Gram),Proddatur,2017-12-10,5500.0,0.0,32.0,clear
+1776,Bengal Gram(Gram),Jammalamadugu,2017-10-13,5500.0,0.0,32.0,clear
+1777,Bengal Gram(Gram),Kamalapuram,2017-10-13,5900.0,0.0,32.0,clear
+1778,Bengal Gram(Gram),Proddatur,2017-10-13,4950.0,0.0,32.0,clear
+1779,Black Gram (Urd Beans),Kamalapuram,2017-10-13,5100.0,0.0,32.0,clear
+1780,Bengal Gram(Gram),Jammalamadugu,2017-10-14,5300.0,0.0,33.0,clear
+1781,Bengal Gram(Gram),Jammalamadugu,2017-10-15,5400.0,0.0,33.0,clear
+1782,Bengal Gram(Gram),Kamalapuram,2017-10-15,5400.0,0.0,33.0,clear
+1783,Bengal Gram(Gram),Proddatur,2017-10-15,4900.0,0.0,33.0,clear
+1784,Bengal Gram(Gram),Jammalamadugu,2017-10-16,5300.0,0.0,29.4,clear
+1785,Bengal Gram(Gram),Kamalapuram,2017-10-16,5500.0,0.0,29.4,clear
+1786,Bengal Gram(Gram),Proddatur,2017-10-16,4900.0,0.0,29.4,clear
+1787,Black Gram (Urd Beans),Kamalapuram,2017-10-16,5100.0,0.0,29.4,clear
+1788,Bengal Gram(Gram),Jammalamadugu,2017-10-17,5300.0,0.0,30.0,clear
+1789,Bengal Gram(Gram),Kamalapuram,2017-10-17,5400.0,0.0,30.0,clear
+1790,Bengal Gram(Gram),Proddatur,2017-10-17,4900.0,0.0,30.0,clear
+1791,Black Gram (Urd Beans),Kamalapuram,2017-10-17,5100.0,0.0,30.0,clear
+1792,Bengal Gram(Gram),Jammalamadugu,2017-10-18,5400.0,0.0,33.0,clear
+1793,Bengal Gram(Gram),Kamalapuram,2017-10-18,5200.0,0.0,33.0,clear
+1794,Bengal Gram(Gram),Proddatur,2017-10-18,4900.0,0.0,33.0,clear
+1795,Black Gram (Urd Beans),Kamalapuram,2017-10-18,4600.0,0.0,33.0,clear
+1796,Bengal Gram(Gram),Jammalamadugu,2017-10-21,5050.0,0.0,34.4,clear
+1797,Bengal Gram(Gram),Proddatur,2017-10-21,4900.0,0.0,34.4,clear
+1798,Bengal Gram(Gram),Jammalamadugu,2017-10-22,5750.0,0.0,32.6,clear
+1799,Bengal Gram(Gram),Kamalapuram,2017-10-22,5100.0,0.0,32.6,clear
+1800,Bengal Gram(Gram),Proddatur,2017-10-22,4900.0,0.0,32.6,clear
+1801,Black Gram (Urd Beans),Kamalapuram,2017-10-22,4700.0,0.0,32.6,clear
+1802,Bengal Gram(Gram),Jammalamadugu,2017-10-23,10500.0,0.0,33.8,clear
+1803,Bengal Gram(Gram),Kamalapuram,2017-10-23,5400.0,0.0,33.8,clear
+1804,Bengal Gram(Gram),Proddatur,2017-10-23,4900.0,0.0,33.8,clear
+1805,Black Gram (Urd Beans),Kamalapuram,2017-10-23,4100.0,0.0,33.8,clear
+1806,Bengal Gram(Gram),Jammalamadugu,2017-10-24,7950.0,0.0,34.0,clear
+1807,Bengal Gram(Gram),Proddatur,2017-10-24,4900.0,0.0,34.0,clear
+1808,Bengal Gram(Gram),Jammalamadugu,2017-10-25,5500.0,0.0,32.0,clear
+1809,Bengal Gram(Gram),Kamalapuram,2017-10-25,5100.0,0.0,32.0,clear
+1810,Bengal Gram(Gram),Proddatur,2017-10-25,4900.0,0.0,32.0,clear
+1811,Black Gram (Urd Beans),Kamalapuram,2017-10-25,4600.0,0.0,32.0,clear
+1812,Bengal Gram(Gram),Jammalamadugu,2017-10-26,5350.0,0.0,27.6,clear
+1813,Bengal Gram(Gram),Proddatur,2017-10-26,4900.0,0.0,27.6,clear
+1814,Bengal Gram(Gram),Jammalamadugu,2017-10-27,5300.0,0.0,29.2,clear
+1815,Bengal Gram(Gram),Kamalapuram,2017-10-27,5100.0,0.0,29.2,clear
+1816,Bengal Gram(Gram),Proddatur,2017-10-27,4900.0,0.0,29.2,clear
+1817,Black Gram (Urd Beans),Kamalapuram,2017-10-27,4600.0,0.0,29.2,clear
+1818,Bengal Gram(Gram),Jammalamadugu,2017-10-30,5100.0,0.0,25.4,clear
+1819,Bengal Gram(Gram),Proddatur,2017-10-30,4900.0,0.0,25.4,clear
+1820,Bengal Gram(Gram),Jammalamadugu,2017-10-31,4900.0,0.0,27.4,clear
+1821,Bengal Gram(Gram),Proddatur,2017-10-31,4900.0,0.0,27.4,clear
+1822,Bengal Gram(Gram),Jammalamadugu,2017-01-11,5100.0,0.0,30.2,clear
+1823,Bengal Gram(Gram),Kamalapuram,2017-01-11,5100.0,0.0,30.2,clear
+1824,Bengal Gram(Gram),Proddatur,2017-01-11,4900.0,0.0,30.2,clear
+1825,Black Gram (Urd Beans),Kamalapuram,2017-01-11,4600.0,0.0,30.2,clear
+1826,Bengal Gram(Gram),Jammalamadugu,2017-03-11,10100.0,0.0,37.6,clear
+1827,Bengal Gram(Gram),Proddatur,2017-03-11,4900.0,0.0,37.6,clear
+1828,Bengal Gram(Gram),Jammalamadugu,2017-04-11,5450.0,0.0,39.2,clear
+1829,Bengal Gram(Gram),Proddatur,2017-04-11,4900.0,0.0,39.2,clear
+1830,Bengal Gram(Gram),Kamalapuram,2017-09-01,8400.0,0.0,34.0,clear
+1831,Bengal Gram(Gram),Proddatur,2017-09-01,7400.0,0.0,34.0,clear
+1832,Bengal Gram(Gram),Kamalapuram,2017-01-16,8900.0,0.0,30.0,clear
+1833,Bengal Gram(Gram),Proddatur,2017-01-16,6800.0,0.0,30.0,clear
+1834,Black Gram (Urd Beans),Kamalapuram,2017-01-16,6300.0,0.0,30.0,clear
+1835,Bengal Gram(Gram),Kamalapuram,2017-01-17,8900.0,0.0,29.8,clear
+1836,Bengal Gram(Gram),Proddatur,2017-01-17,6780.0,0.0,29.8,clear
+1837,Black Gram (Urd Beans),Kamalapuram,2017-01-17,6400.0,0.0,29.8,clear
+1838,Bengal Gram(Gram),Kamalapuram,2017-01-24,6900.0,0.0,30.2,clear
+1839,Bengal Gram(Gram),Proddatur,2017-01-24,6400.0,0.0,30.2,clear
+1840,Black Gram (Urd Beans),Kamalapuram,2017-01-24,5900.0,0.0,30.2,clear
+1841,Bengal Gram(Gram),Kamalapuram,2017-01-28,6900.0,0.0,30.0,clear
+1842,Bengal Gram(Gram),Proddatur,2017-01-28,6900.0,0.0,30.0,clear
+1843,Black Gram (Urd Beans),Kamalapuram,2017-01-28,6400.0,0.0,30.0,clear
+1844,Bengal Gram(Gram),Kamalapuram,2017-07-02,6400.0,0.0,36.6,clear
+1845,Bengal Gram(Gram),Proddatur,2017-07-02,6550.0,0.0,36.6,clear
+1846,Black Gram (Urd Beans),Kamalapuram,2017-07-02,5900.0,0.0,36.6,clear
+1847,Bengal Gram(Gram),Kamalapuram,2017-08-02,6400.0,0.0,37.0,clear
+1848,Bengal Gram(Gram),Proddatur,2017-08-02,6650.0,0.0,37.0,clear
+1849,Black Gram (Urd Beans),Kamalapuram,2017-08-02,5900.0,0.0,37.0,clear
+1850,Bengal Gram(Gram),Kamalapuram,2017-01-03,6200.0,0.0,30.2,clear
+1851,Bengal Gram(Gram),Proddatur,2017-01-03,5750.0,0.0,30.2,clear
+1852,Black Gram (Urd Beans),Kamalapuram,2017-01-03,5900.0,0.0,30.2,clear
+1853,Bengal Gram(Gram),Kamalapuram,2017-02-03,5900.0,0.0,30.0,clear
+1854,Bengal Gram(Gram),Proddatur,2017-02-03,6600.0,0.0,30.0,clear
+1855,Black Gram (Urd Beans),Kamalapuram,2017-02-03,6100.0,0.0,30.0,clear
+1856,Bengal Gram(Gram),Kamalapuram,2017-04-03,6100.0,0.0,38.2,clear
+1857,Bengal Gram(Gram),Proddatur,2017-04-03,6600.0,0.0,38.2,clear
+1858,Black Gram (Urd Beans),Kamalapuram,2017-04-03,5900.0,0.0,38.2,clear
+1859,Bengal Gram(Gram),Kamalapuram,2017-08-03,6900.0,0.0,36.0,clear
+1860,Bengal Gram(Gram),Proddatur,2017-08-03,2050.0,0.0,36.0,clear
+1861,Black Gram (Urd Beans),Kamalapuram,2017-08-03,6100.0,0.0,36.0,clear
+1862,Bengal Gram(Gram),Kamalapuram,2017-09-03,6900.0,0.0,34.8,clear
+1863,Bengal Gram(Gram),Proddatur,2017-09-03,6650.0,0.0,34.8,clear
+1864,Black Gram (Urd Beans),Kamalapuram,2017-09-03,6100.0,0.0,34.8,clear
+1865,Bengal Gram(Gram),Kamalapuram,2017-03-13,6900.0,0.0,36.2,clear
+1866,Bengal Gram(Gram),Proddatur,2017-03-13,6600.0,0.0,36.2,clear
+1867,Black Gram (Urd Beans),Kamalapuram,2017-03-13,6300.0,0.0,36.2,clear
+1868,Bengal Gram(Gram),Kamalapuram,2017-03-17,6900.0,0.0,35.0,clear
+1869,Bengal Gram(Gram),Proddatur,2017-03-17,6500.0,0.0,35.0,clear
+1870,Black Gram (Urd Beans),Kamalapuram,2017-03-17,6400.0,0.0,35.0,clear
+1871,Bengal Gram(Gram),Kamalapuram,2017-03-18,6900.0,0.0,34.4,clear
+1872,Bengal Gram(Gram),Proddatur,2017-03-18,5950.0,0.0,34.4,clear
+1873,Black Gram (Urd Beans),Kamalapuram,2017-03-18,6400.0,0.0,34.4,clear
+1874,Bengal Gram(Gram),Kamalapuram,2017-03-27,5700.0,0.0,36.8,clear
+1875,Bengal Gram(Gram),Proddatur,2017-03-27,6150.0,0.0,36.8,clear
+1876,Black Gram (Urd Beans),Kamalapuram,2017-03-27,6300.0,0.0,36.8,clear
+1877,Bengal Gram(Gram),Kamalapuram,2017-04-04,5700.0,0.0,37.4,clear
+1878,Bengal Gram(Gram),Proddatur,2017-04-04,6150.0,0.0,37.4,clear
+1879,Black Gram (Urd Beans),Kamalapuram,2017-04-04,5900.0,0.0,37.4,clear
+1880,Bengal Gram(Gram),Kamalapuram,2017-04-13,6900.0,0.0,38.6,clear
+1881,Bengal Gram(Gram),Proddatur,2017-04-13,6150.0,0.0,38.6,clear
+1882,Black Gram (Urd Beans),Kamalapuram,2017-04-13,6400.0,0.0,38.6,clear
+1883,Bengal Gram(Gram),Kamalapuram,2017-04-19,6300.0,0.0,40.6,clear
+1884,Bengal Gram(Gram),Proddatur,2017-04-19,6200.0,0.0,40.6,clear
+1885,Bengal Gram(Gram),Kamalapuram,2017-04-21,6300.0,0.0,39.6,clear
+1886,Bengal Gram(Gram),Proddatur,2017-04-21,6350.0,0.0,39.6,clear
+1887,Black Gram (Urd Beans),Kamalapuram,2017-04-21,5900.0,0.0,39.6,clear
+1888,Bengal Gram(Gram),Kamalapuram,2017-04-22,6400.0,0.0,41.0,clear
+1889,Black Gram (Urd Beans),Kamalapuram,2017-04-22,5900.0,0.0,41.0,clear
+1890,Bengal Gram(Gram),Kamalapuram,2017-04-29,6200.0,0.0,39.6,clear
+1891,Bengal Gram(Gram),Proddatur,2017-04-29,6100.0,0.0,39.6,clear
+1892,Black Gram (Urd Beans),Kamalapuram,2017-04-29,5900.0,0.0,39.6,clear
+1893,Bengal Gram(Gram),Kamalapuram,2017-01-05,6200.0,0.0,29.0,clear
+1894,Bengal Gram(Gram),Proddatur,2017-01-05,6150.0,0.0,29.0,clear
+1895,Black Gram (Urd Beans),Kamalapuram,2017-01-05,5900.0,0.0,29.0,clear
+1896,Bengal Gram(Gram),Kamalapuram,2017-02-05,6400.0,0.0,31.0,clear
+1897,Bengal Gram(Gram),Proddatur,2017-02-05,6150.0,0.0,31.0,clear
+1898,Black Gram (Urd Beans),Kamalapuram,2017-02-05,5900.0,0.0,31.0,clear
+1899,Bengal Gram(Gram),Kamalapuram,2017-03-05,6300.0,0.0,34.8,clear
+1900,Bengal Gram(Gram),Proddatur,2017-03-05,6250.0,0.0,34.8,clear
+1901,Black Gram (Urd Beans),Kamalapuram,2017-03-05,5900.0,0.0,34.8,clear
+1902,Bengal Gram(Gram),Kamalapuram,2017-04-05,6400.0,0.0,38.0,clear
+1903,Bengal Gram(Gram),Proddatur,2017-04-05,6100.0,0.0,38.0,clear
+1904,Black Gram (Urd Beans),Kamalapuram,2017-04-05,5900.0,0.0,38.0,clear
+1905,Bengal Gram(Gram),Kamalapuram,2017-05-05,6300.0,0.0,39.0,clear
+1906,Bengal Gram(Gram),Proddatur,2017-05-05,6100.0,0.0,39.0,clear
+1907,Black Gram (Urd Beans),Kamalapuram,2017-05-05,5900.0,0.0,39.0,clear
+1908,Bengal Gram(Gram),Kamalapuram,2017-10-05,6500.0,0.0,30.4,rain
+1909,Bengal Gram(Gram),Proddatur,2017-10-05,6400.0,0.0,30.4,rain
+1910,Bengal Gram(Gram),Kamalapuram,2017-11-05,6400.0,0.0,27.2,rain
+1911,Bengal Gram(Gram),Proddatur,2017-11-05,6400.0,0.0,27.2,rain
+1912,Bengal Gram(Gram),Kamalapuram,2017-12-05,5900.0,0.0,29.2,clear
+1913,Bengal Gram(Gram),Proddatur,2017-12-05,6400.0,0.0,29.2,clear
+1914,Black Gram (Urd Beans),Kamalapuram,2017-12-05,5900.0,0.0,29.2,clear
+1915,Bengal Gram(Gram),Kamalapuram,2017-05-23,6400.0,0.0,40.2,clear
+1916,Bengal Gram(Gram),Proddatur,2017-05-23,6400.0,0.0,40.2,clear
+1917,Black Gram (Urd Beans),Kamalapuram,2017-05-23,5900.0,0.0,40.2,clear
+1918,Bengal Gram(Gram),Kamalapuram,2017-05-24,6400.0,0.0,40.0,clear
+1919,Bengal Gram(Gram),Proddatur,2017-05-24,6100.0,0.0,40.0,clear
+1920,Black Gram (Urd Beans),Kamalapuram,2017-05-24,5900.0,0.0,40.0,clear
+1921,Bengal Gram(Gram),Kamalapuram,2017-05-25,4900.0,0.0,39.2,clear
+1922,Bengal Gram(Gram),Proddatur,2017-05-25,6400.0,0.0,39.2,clear
+1923,Bengal Gram(Gram),Kamalapuram,2017-05-26,6400.0,0.0,39.8,clear
+1924,Bengal Gram(Gram),Proddatur,2017-05-26,6400.0,0.0,39.8,clear
+1925,Black Gram (Urd Beans),Kamalapuram,2017-05-26,5900.0,0.0,39.8,clear
+1926,Bengal Gram(Gram),Kamalapuram,2017-05-28,5900.0,0.0,39.2,clear
+1927,Bengal Gram(Gram),Proddatur,2017-05-28,6400.0,0.0,39.2,clear
+1928,Black Gram (Urd Beans),Kamalapuram,2017-05-28,5900.0,0.0,39.2,clear
+1929,Bengal Gram(Gram),Kamalapuram,2017-05-30,6400.0,0.0,40.4,clear
+1930,Bengal Gram(Gram),Proddatur,2017-05-30,6400.0,0.0,40.4,clear
+1931,Black Gram (Urd Beans),Kamalapuram,2017-05-30,5900.0,0.0,40.4,clear
+1932,Bengal Gram(Gram),Kamalapuram,2017-01-06,6300.0,0.0,29.2,clear
+1933,Bengal Gram(Gram),Proddatur,2017-01-06,6400.0,0.0,29.2,clear
+1934,Black Gram (Urd Beans),Kamalapuram,2017-01-06,5900.0,0.0,29.2,clear
+1935,Bengal Gram(Gram),Kamalapuram,2017-02-06,6200.0,0.0,32.0,clear
+1936,Bengal Gram(Gram),Proddatur,2017-02-06,6400.0,0.0,32.0,clear
+1937,Black Gram (Urd Beans),Kamalapuram,2017-02-06,5900.0,0.0,32.0,clear
+1938,Bengal Gram(Gram),Kamalapuram,2017-05-06,6300.0,0.0,40.4,clear
+1939,Bengal Gram(Gram),Proddatur,2017-05-06,6450.0,0.0,40.4,clear
+1940,Black Gram (Urd Beans),Kamalapuram,2017-05-06,5900.0,0.0,40.4,clear
+1941,Bengal Gram(Gram),Kamalapuram,2017-06-06,6200.0,0.0,37.4,rain
+1942,Bengal Gram(Gram),Proddatur,2017-06-06,6400.0,0.0,37.4,rain
+1943,Black Gram (Urd Beans),Kamalapuram,2017-06-06,5900.0,0.0,37.4,rain
+1944,Bengal Gram(Gram),Kamalapuram,2017-08-06,6200.0,0.0,36.2,clear
+1945,Black Gram (Urd Beans),Kamalapuram,2017-08-06,5900.0,0.0,36.2,clear
+1946,Bengal Gram(Gram),Kamalapuram,2017-09-06,6200.0,0.0,33.2,clear
+1947,Bengal Gram(Gram),Proddatur,2017-09-06,6400.0,0.0,33.2,clear
+1948,Black Gram (Urd Beans),Kamalapuram,2017-09-06,5900.0,0.0,33.2,clear
+1949,Bengal Gram(Gram),Kamalapuram,2017-10-06,6100.0,0.0,32.4,clear
+1950,Bengal Gram(Gram),Proddatur,2017-10-06,6450.0,0.0,32.4,clear
+1951,Black Gram (Urd Beans),Kamalapuram,2017-10-06,5800.0,0.0,32.4,clear
+1952,Bengal Gram(Gram),Kamalapuram,2017-11-06,6300.0,0.0,27.0,rain
+1953,Bengal Gram(Gram),Proddatur,2017-11-06,6400.0,0.0,27.0,rain
+1954,Black Gram (Urd Beans),Kamalapuram,2017-11-06,5900.0,0.0,27.0,rain
+1955,Bengal Gram(Gram),Kamalapuram,2017-06-14,6200.0,0.0,38.0,clear
+1956,Bengal Gram(Gram),Proddatur,2017-06-14,6300.0,0.0,38.0,clear
+1957,Black Gram (Urd Beans),Kamalapuram,2017-06-14,5900.0,0.0,38.0,clear
+1958,Bengal Gram(Gram),Kamalapuram,2017-06-15,6100.0,0.0,35.2,clear
+1959,Bengal Gram(Gram),Proddatur,2017-06-15,6450.0,0.0,35.2,clear
+1960,Black Gram (Urd Beans),Kamalapuram,2017-06-15,5900.0,0.0,35.2,clear
+1961,Bengal Gram(Gram),Kamalapuram,2017-06-16,6100.0,0.0,33.4,clear
+1962,Bengal Gram(Gram),Proddatur,2017-06-16,5850.0,0.0,33.4,clear
+1963,Black Gram (Urd Beans),Kamalapuram,2017-06-16,5700.0,0.0,33.4,clear
+1964,Bengal Gram(Gram),Kamalapuram,2017-06-18,6100.0,0.0,36.2,clear
+1965,Bengal Gram(Gram),Proddatur,2017-06-18,5850.0,0.0,36.2,clear
+1966,Black Gram (Urd Beans),Kamalapuram,2017-06-18,5900.0,0.0,36.2,clear
+1967,Bengal Gram(Gram),Kamalapuram,2017-06-19,6100.0,0.0,34.8,clear
+1968,Bengal Gram(Gram),Proddatur,2017-06-19,6400.0,0.0,34.8,clear
+1969,Black Gram (Urd Beans),Kamalapuram,2017-06-19,5700.0,0.0,34.8,clear
+1970,Bengal Gram(Gram),Kamalapuram,2017-06-20,6000.0,0.0,34.2,clear
+1971,Bengal Gram(Gram),Proddatur,2017-06-20,6300.0,0.0,34.2,clear
+1972,Bengal Gram(Gram),Kamalapuram,2017-06-21,6000.0,0.0,37.8,clear
+1973,Bengal Gram(Gram),Proddatur,2017-06-21,6300.0,0.0,37.8,clear
+1974,Bengal Gram(Gram),Kamalapuram,2017-06-22,6100.0,0.0,37.8,clear
+1975,Bengal Gram(Gram),Proddatur,2017-06-22,6300.0,0.0,37.8,clear
+1976,Bengal Gram(Gram),Kamalapuram,2017-06-24,6000.0,0.0,36.6,clear
+1977,Bengal Gram(Gram),Proddatur,2017-06-24,6400.0,0.0,36.6,clear
+1978,Black Gram (Urd Beans),Kamalapuram,2017-06-24,5700.0,0.0,36.6,clear
+1979,Bengal Gram(Gram),Kamalapuram,2017-07-07,5900.0,0.0,35.2,clear
+1980,Bengal Gram(Gram),Proddatur,2017-07-07,6200.0,0.0,35.2,clear
+1981,Black Gram (Urd Beans),Kamalapuram,2017-07-07,5700.0,0.0,35.2,clear
+1982,Bengal Gram(Gram),Kamalapuram,2017-08-07,6400.0,0.0,32.4,clear
+1983,Bengal Gram(Gram),Proddatur,2017-08-07,6200.0,0.0,32.4,clear
+1984,Black Gram (Urd Beans),Kamalapuram,2017-08-07,5800.0,0.0,32.4,clear
+1985,Bengal Gram(Gram),Kamalapuram,2017-09-07,5900.0,0.0,33.8,clear
+1986,Bengal Gram(Gram),Proddatur,2017-09-07,5200.0,0.0,33.8,clear
+1987,Bengal Gram(Gram),Kamalapuram,2017-10-07,6000.0,0.0,32.6,clear
+1988,Bengal Gram(Gram),Proddatur,2017-10-07,6300.0,0.0,32.6,clear
+1989,Bengal Gram(Gram),Kamalapuram,2017-07-15,5900.0,0.0,33.6,clear
+1990,Bengal Gram(Gram),Proddatur,2017-07-15,5950.0,0.0,33.6,clear
+1991,Bengal Gram(Gram),Kamalapuram,2017-07-21,6100.0,0.0,38.4,clear
+1992,Bengal Gram(Gram),Proddatur,2017-07-21,5750.0,0.0,38.4,clear
+1993,Black Gram (Urd Beans),Kamalapuram,2017-07-21,5900.0,0.0,38.4,clear
+1994,Bengal Gram(Gram),Kamalapuram,2017-07-22,5900.0,0.0,38.2,clear
+1995,Bengal Gram(Gram),Proddatur,2017-07-22,5950.0,0.0,38.2,clear
+1996,Bengal Gram(Gram),Kamalapuram,2017-07-23,5900.0,0.0,38.6,clear
+1997,Bengal Gram(Gram),Proddatur,2017-07-23,4950.0,0.0,38.6,clear
+1998,Bengal Gram(Gram),Kamalapuram,2017-07-24,5900.0,0.0,38.8,clear
+1999,Bengal Gram(Gram),Proddatur,2017-07-24,5950.0,0.0,38.8,clear
+2000,Bengal Gram(Gram),Kamalapuram,2017-07-25,5900.0,0.0,38.0,clear
+2001,Bengal Gram(Gram),Proddatur,2017-07-25,4950.0,0.0,38.0,clear
+2002,Bengal Gram(Gram),Kamalapuram,2017-07-26,5900.0,0.0,38.6,clear
+2003,Bengal Gram(Gram),Proddatur,2017-07-26,5950.0,0.0,38.6,clear
+2004,Black Gram (Urd Beans),Kamalapuram,2017-07-26,4900.0,0.0,38.6,clear
+2005,Bengal Gram(Gram),Kamalapuram,2017-07-27,5900.0,0.0,38.4,clear
+2006,Bengal Gram(Gram),Proddatur,2017-07-27,5750.0,0.0,38.4,clear
+2007,Bengal Gram(Gram),Kamalapuram,2017-07-28,5900.0,0.0,38.4,clear
+2008,Bengal Gram(Gram),Proddatur,2017-07-28,5950.0,0.0,38.4,clear
+2009,Black Gram (Urd Beans),Kamalapuram,2017-07-28,4900.0,0.0,38.4,clear
+2010,Bengal Gram(Gram),Kamalapuram,2017-06-08,5900.0,0.0,33.4,clear
+2011,Bengal Gram(Gram),Proddatur,2017-06-08,5780.0,0.0,33.4,clear
+2012,Black Gram (Urd Beans),Kamalapuram,2017-06-08,5400.0,0.0,33.4,clear
+2013,Bengal Gram(Gram),Kamalapuram,2017-07-08,5900.0,0.0,34.0,clear
+2014,Bengal Gram(Gram),Proddatur,2017-07-08,5800.0,0.0,34.0,clear
+2015,Black Gram (Urd Beans),Kamalapuram,2017-07-08,5200.0,0.0,34.0,clear
+2016,Bengal Gram(Gram),Kamalapuram,2017-09-08,5900.0,0.0,33.6,clear
+2017,Bengal Gram(Gram),Proddatur,2017-09-08,5650.0,0.0,33.6,clear
+2018,Black Gram (Urd Beans),Kamalapuram,2017-09-08,5200.0,0.0,33.6,clear
+2019,Bengal Gram(Gram),Kamalapuram,2017-08-23,5900.0,0.0,34.0,clear
+2020,Bengal Gram(Gram),Proddatur,2017-08-23,5780.0,0.0,34.0,clear
+2021,Black Gram (Urd Beans),Kamalapuram,2017-08-23,5400.0,0.0,34.0,clear
+2022,Bengal Gram(Gram),Kamalapuram,2017-08-26,5800.0,0.0,34.6,clear
+2023,Bengal Gram(Gram),Proddatur,2017-08-26,6250.0,0.0,34.6,clear
+2024,Black Gram (Urd Beans),Kamalapuram,2017-08-26,5300.0,0.0,34.6,clear
+2025,Bengal Gram(Gram),Kamalapuram,2017-08-27,5900.0,0.0,32.6,clear
+2026,Bengal Gram(Gram),Proddatur,2017-08-27,6350.0,0.0,32.6,clear
+2027,Black Gram (Urd Beans),Kamalapuram,2017-08-27,5400.0,0.0,32.6,clear
+2028,Bengal Gram(Gram),Kamalapuram,2017-08-28,5900.0,0.0,31.0,clear
+2029,Bengal Gram(Gram),Proddatur,2017-08-28,6350.0,0.0,31.0,clear
+2030,Black Gram (Urd Beans),Kamalapuram,2017-08-28,5400.0,0.0,31.0,clear
+2031,Bengal Gram(Gram),Kamalapuram,2017-08-30,6200.0,0.0,35.4,clear
+2032,Bengal Gram(Gram),Proddatur,2017-08-30,6350.0,0.0,35.4,clear
+2033,Black Gram (Urd Beans),Kamalapuram,2017-08-30,5400.0,0.0,35.4,clear
+2034,Bengal Gram(Gram),Kamalapuram,2017-11-09,5900.0,0.0,30.6,clear
+2035,Bengal Gram(Gram),Proddatur,2017-11-09,6250.0,0.0,30.6,clear
+2036,Black Gram (Urd Beans),Kamalapuram,2017-11-09,5400.0,0.0,30.6,clear
+2037,Bengal Gram(Gram),Kamalapuram,2017-09-14,6100.0,0.0,33.6,rain
+2038,Bengal Gram(Gram),Proddatur,2017-09-14,6150.0,0.0,33.6,rain
+2039,Black Gram (Urd Beans),Kamalapuram,2017-09-14,4700.0,0.0,33.6,rain
+2040,Bengal Gram(Gram),Kamalapuram,2017-09-15,6200.0,0.0,32.6,clear
+2041,Bengal Gram(Gram),Proddatur,2017-09-15,6450.0,0.0,32.6,clear
+2042,Black Gram (Urd Beans),Kamalapuram,2017-09-15,4700.0,0.0,32.6,clear
+2043,Bengal Gram(Gram),Kamalapuram,2017-09-18,5900.0,0.0,33.6,clear
+2044,Bengal Gram(Gram),Proddatur,2017-09-18,6450.0,0.0,33.6,clear
+2045,Black Gram (Urd Beans),Kamalapuram,2017-09-18,5400.0,0.0,33.6,clear
+2046,Bengal Gram(Gram),Kamalapuram,2017-04-10,5900.0,0.0,39.0,clear
+2047,Bengal Gram(Gram),Proddatur,2017-04-10,6450.0,0.0,39.0,clear
+2048,Black Gram (Urd Beans),Kamalapuram,2017-04-10,4900.0,0.0,39.0,clear
+2049,Bengal Gram(Gram),Kamalapuram,2017-10-20,5100.0,0.0,34.2,clear
+2050,Bengal Gram(Gram),Proddatur,2017-10-20,4900.0,0.0,34.2,clear
+2051,Black Gram (Urd Beans),Kamalapuram,2017-10-20,4900.0,0.0,34.2,clear
+2052,Bengal Gram(Gram),Proddatur,2017-08-01,6750.0,0.0,38.0,clear
+2053,Bengal Gram(Gram),Proddatur,2017-10-01,7300.0,0.0,31.0,rain
+2054,Bengal Gram(Gram),Proddatur,2017-01-13,6900.0,0.0,29.6,clear
+2055,Bengal Gram(Gram),Proddatur,2017-01-14,6900.0,0.0,30.0,clear
+2056,Bengal Gram(Gram),Proddatur,2017-01-15,6700.0,0.0,29.6,clear
+2057,Bengal Gram(Gram),Proddatur,2017-01-21,6450.0,0.0,28.8,clear
+2058,Bengal Gram(Gram),Proddatur,2017-01-25,5800.0,0.0,30.2,clear
+2059,Bengal Gram(Gram),Proddatur,2017-01-29,6750.0,0.0,30.6,clear
+2060,Bengal Gram(Gram),Proddatur,2017-10-02,6600.0,0.0,33.4,clear
+2061,Bengal Gram(Gram),Proddatur,2017-02-13,6750.0,0.0,31.8,clear
+2062,Black Gram (Urd Beans),Kamalapuram,2017-02-13,5900.0,0.0,31.8,clear
+2063,Bengal Gram(Gram),Proddatur,2017-02-15,5850.0,0.0,32.0,clear
+2064,Bengal Gram(Gram),Proddatur,2017-02-16,8100.0,0.0,31.6,clear
+2065,Black Gram (Urd Beans),Proddatur,2017-02-16,5900.0,0.0,31.6,clear
+2066,Bengal Gram(Gram),Proddatur,2017-02-18,5200.0,0.0,31.4,clear
+2067,Bengal Gram(Gram),Proddatur,2017-02-22,6780.0,0.0,37.0,clear
+2068,Bengal Gram(Gram),Proddatur,2017-02-27,5750.0,0.0,31.0,clear
+2069,Bengal Gram(Gram),Proddatur,2017-03-03,6650.0,0.0,33.2,clear
+2070,Bengal Gram(Gram),Proddatur,2017-05-03,6650.0,0.0,39.6,clear
+2071,Bengal Gram(Gram),Proddatur,2017-06-03,6600.0,0.0,40.4,rain
+2072,Bengal Gram(Gram),Proddatur,2017-07-03,6050.0,0.0,37.4,clear
+2073,Bengal Gram(Gram),Proddatur,2017-10-03,6600.0,0.0,34.2,clear
+2074,Bengal Gram(Gram),Proddatur,2017-11-03,6100.0,0.0,29.0,clear
+2075,Bengal Gram(Gram),Proddatur,2017-12-03,6450.0,0.0,28.4,clear
+2076,Bengal Gram(Gram),Proddatur,2017-03-14,5950.0,0.0,35.6,clear
+2077,Bengal Gram(Gram),Proddatur,2017-03-15,6150.0,0.0,34.6,clear
+2078,Bengal Gram(Gram),Proddatur,2017-03-16,6150.0,0.0,35.0,clear
+2079,Bengal Gram(Gram),Proddatur,2017-03-19,6100.0,0.0,34.2,clear
+2080,Bengal Gram(Gram),Proddatur,2017-03-20,6150.0,0.0,37.2,clear
+2081,Bengal Gram(Gram),Proddatur,2017-03-21,6150.0,0.0,37.0,clear
+2082,Bengal Gram(Gram),Proddatur,2017-03-22,6150.0,0.0,36.6,clear
+2083,Bengal Gram(Gram),Proddatur,2017-03-23,6400.0,0.0,36.4,clear
+2084,Bengal Gram(Gram),Proddatur,2017-03-24,6100.0,0.0,37.6,clear
+2085,Bengal Gram(Gram),Proddatur,2017-03-26,6250.0,0.0,38.0,clear
+2086,Bengal Gram(Gram),Proddatur,2017-03-29,6200.0,0.0,36.8,clear
+2087,Bengal Gram(Gram),Proddatur,2017-01-04,6250.0,0.0,29.2,clear
+2088,Bengal Gram(Gram),Proddatur,2017-02-04,6150.0,0.0,30.0,clear
+2089,Bengal Gram(Gram),Proddatur,2017-03-04,6150.0,0.0,33.2,clear
+2090,Bengal Gram(Gram),Proddatur,2017-05-04,6250.0,0.0,39.6,clear
+2091,Bengal Gram(Gram),Proddatur,2017-06-04,6150.0,0.0,40.6,rain
+2092,Bengal Gram(Gram),Proddatur,2017-07-04,6150.0,0.0,36.4,clear
+2093,Bengal Gram(Gram),Proddatur,2017-08-04,6250.0,0.0,35.8,clear
+2094,Black Gram (Urd Beans),Kamalapuram,2017-08-04,6400.0,0.0,35.8,clear
+2095,Bengal Gram(Gram),Proddatur,2017-09-04,6200.0,0.0,34.4,clear
+2096,Bengal Gram(Gram),Proddatur,2017-10-04,6200.0,0.0,34.2,rain
+2097,Bengal Gram(Gram),Proddatur,2017-11-04,6150.0,0.0,25.4,clear
+2098,Bengal Gram(Gram),Proddatur,2017-12-04,6200.0,0.0,29.2,clear
+2099,Bengal Gram(Gram),Proddatur,2017-04-14,6400.0,0.0,35.6,clear
+2100,Bengal Gram(Gram),Proddatur,2017-04-16,6250.0,0.0,40.2,clear
+2101,Bengal Gram(Gram),Proddatur,2017-04-17,6450.0,0.0,42.0,clear
+2102,Bengal Gram(Gram),Proddatur,2017-04-18,6250.0,0.0,42.2,clear
+2103,Bengal Gram(Gram),Proddatur,2017-04-23,6250.0,0.0,40.8,clear
+2104,Bengal Gram(Gram),Proddatur,2017-04-24,6400.0,0.0,41.6,clear
+2105,Bengal Gram(Gram),Proddatur,2017-04-25,6400.0,0.0,40.6,rain
+2106,Bengal Gram(Gram),Proddatur,2017-04-26,6300.0,0.0,41.0,clear
+2107,Bengal Gram(Gram),Proddatur,2017-04-27,6100.0,0.0,41.0,clear
+2108,Bengal Gram(Gram),Proddatur,2017-04-28,6400.0,0.0,40.2,clear
+2109,Bengal Gram(Gram),Proddatur,2017-04-30,6400.0,0.0,39.4,rain
+2110,Bengal Gram(Gram),Proddatur,2017-06-05,6200.0,0.0,40.6,clear
+2111,Bengal Gram(Gram),Proddatur,2017-07-05,6400.0,0.0,36.2,clear
+2112,Bengal Gram(Gram),Proddatur,2017-08-05,6200.0,0.0,36.0,clear
+2113,Bengal Gram(Gram),Proddatur,2017-09-05,6400.0,0.0,34.2,clear
+2114,Bengal Gram(Gram),Proddatur,2017-05-13,5100.0,0.0,38.8,clear
+2115,Bengal Gram(Gram),Proddatur,2017-05-14,5100.0,0.0,39.2,clear
+2116,Bengal Gram(Gram),Proddatur,2017-05-15,6400.0,0.0,41.4,clear
+2117,Bengal Gram(Gram),Proddatur,2017-05-16,6400.0,0.0,42.2,clear
+2118,Bengal Gram(Gram),Proddatur,2017-05-17,6400.0,0.0,42.4,clear
+2119,Bengal Gram(Gram),Proddatur,2017-05-18,6400.0,0.0,42.4,clear
+2120,Bengal Gram(Gram),Proddatur,2017-05-19,6400.0,0.0,39.6,clear
+2121,Bengal Gram(Gram),Proddatur,2017-05-20,6400.0,0.0,42.0,clear
+2122,Bengal Gram(Gram),Proddatur,2017-05-21,6450.0,0.0,38.0,clear
+2123,Bengal Gram(Gram),Proddatur,2017-05-22,6400.0,0.0,40.6,clear
+2124,Bengal Gram(Gram),Proddatur,2017-05-27,6400.0,0.0,39.4,clear
+2125,Bengal Gram(Gram),Proddatur,2017-05-29,6450.0,0.0,39.2,clear
+2126,Bengal Gram(Gram),Proddatur,2017-05-31,6400.0,0.0,39.8,clear
+2127,Bengal Gram(Gram),Proddatur,2017-03-06,6450.0,0.0,36.4,clear
+2128,Bengal Gram(Gram),Proddatur,2017-04-06,6400.0,0.0,38.6,clear
+2129,Bengal Gram(Gram),Proddatur,2017-07-06,6450.0,0.0,37.2,clear
+2130,Bengal Gram(Gram),Proddatur,2017-12-06,6400.0,0.0,30.4,clear
+2131,Green Gram (Moong),Jammalamadugu,2017-12-06,8100.0,0.0,30.4,clear
+2132,Bengal Gram(Gram),Proddatur,2017-06-13,5900.0,0.0,37.6,clear
+2133,Bengal Gram(Gram),Proddatur,2017-06-25,6300.0,0.0,36.0,clear
+2134,Bengal Gram(Gram),Proddatur,2017-06-26,6200.0,0.0,36.4,clear
+2135,Bengal Gram(Gram),Proddatur,2017-06-27,6300.0,0.0,36.8,clear
+2136,Bengal Gram(Gram),Proddatur,2017-06-28,5750.0,0.0,35.0,clear
+2137,Bengal Gram(Gram),Proddatur,2017-06-29,6200.0,0.0,38.0,clear
+2138,Bengal Gram(Gram),Proddatur,2017-06-30,6300.0,0.0,36.6,clear
+2139,Bengal Gram(Gram),Proddatur,2017-01-07,5800.0,0.0,29.6,clear
+2140,Bengal Gram(Gram),Proddatur,2017-02-07,5900.0,0.0,32.4,clear
+2141,Bengal Gram(Gram),Proddatur,2017-03-07,5800.0,0.0,36.4,clear
+2142,Bengal Gram(Gram),Proddatur,2017-04-07,6200.0,0.0,38.6,clear
+2143,Bengal Gram(Gram),Proddatur,2017-05-07,6200.0,0.0,40.0,clear
+2144,Bengal Gram(Gram),Proddatur,2017-11-07,6200.0,0.0,28.0,rain
+2145,Bengal Gram(Gram),Proddatur,2017-12-07,5900.0,0.0,30.4,clear
+2146,Bengal Gram(Gram),Proddatur,2017-07-13,5950.0,0.0,34.0,clear
+2147,Bengal Gram(Gram),Proddatur,2017-07-19,5500.0,0.0,35.4,rain
+2148,Bengal Gram(Gram),Proddatur,2017-07-20,5750.0,0.0,37.4,clear
+2149,Bengal Gram(Gram),Proddatur,2017-07-29,5650.0,0.0,36.8,clear
+2150,Green Gram (Moong),Proddatur,2017-07-29,4200.0,0.0,36.8,clear
+2151,Bengal Gram(Gram),Proddatur,2017-07-30,5650.0,0.0,35.6,clear
+2152,Bengal Gram(Gram),Proddatur,2017-07-31,5650.0,0.0,34.2,clear
+2153,Bengal Gram(Gram),Proddatur,2017-01-08,5650.0,0.0,30.4,clear
+2154,Bengal Gram(Gram),Proddatur,2017-03-08,5500.0,0.0,36.0,clear
+2155,Bengal Gram(Gram),Proddatur,2017-10-08,5700.0,0.0,33.8,clear
+2156,Bengal Gram(Gram),Proddatur,2017-11-08,5780.0,0.0,31.0,clear
+2157,Bengal Gram(Gram),Proddatur,2017-12-08,5800.0,0.0,31.0,clear
+2158,Bengal Gram(Gram),Proddatur,2017-08-14,5650.0,0.0,34.6,rain
+2159,Bengal Gram(Gram),Proddatur,2017-08-16,5800.0,0.0,33.6,clear
+2160,Bengal Gram(Gram),Proddatur,2017-08-18,5800.0,0.0,33.0,clear
+2161,Bengal Gram(Gram),Proddatur,2017-08-19,5800.0,0.0,33.6,clear
+2162,Bengal Gram(Gram),Proddatur,2017-08-21,5850.0,0.0,34.8,clear
+2163,Bengal Gram(Gram),Proddatur,2017-08-22,5750.0,0.0,33.6,clear
+2164,Bengal Gram(Gram),Proddatur,2017-01-09,5950.0,0.0,29.4,clear
+2165,Green Gram (Moong),Proddatur,2017-01-09,6200.0,0.0,29.4,clear
+2166,Bengal Gram(Gram),Proddatur,2017-09-22,6450.0,0.0,34.0,clear
+2167,Black Gram (Urd Beans),Kamalapuram,2017-09-22,5400.0,0.0,34.0,clear
+2168,Bengal Gram(Gram),Proddatur,2017-09-25,6450.0,0.0,28.0,clear
+2169,Bengal Gram(Gram),Proddatur,2017-09-30,6400.0,0.0,31.6,clear
+2170,Bengal Gram(Gram),Proddatur,2017-10-19,4900.0,0.0,32.8,clear
+2171,Bengal Gram(Gram),Proddatur,2017-10-28,4900.0,0.0,31.4,clear
+2172,Bengal Gram(Gram),Proddatur,2017-10-29,4900.0,0.0,32.0,clear
+2173,Bengal Gram(Gram),Proddatur,2017-05-11,4850.0,0.0,37.2,clear
+2174,Black Gram (Urd Beans),Kamalapuram,2017-08-08,4900.0,0.0,36.8,clear

@@ -1,0 +1,253 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Black Gram (Urd Beans),Attabira,2015-12-10,9000.0,0.5,28.0,clear
+1,Green Gram (Moong),Attabira,2015-12-10,9500.0,0.4,28.0,clear
+2,Black Gram (Urd Beans),Attabira,2015-12-14,9000.0,0.6,26.0,clear
+3,Green Gram (Moong),Attabira,2015-12-14,9000.0,0.6,26.0,clear
+4,Black Gram (Urd Beans),Attabira,2015-12-21,9500.0,0.8,25.6,clear
+5,Green Gram (Moong),Attabira,2015-12-21,9500.0,0.7,25.6,clear
+6,Black Gram (Urd Beans),Attabira,2015-12-28,9000.0,0.8,24.0,clear
+7,Green Gram (Moong),Attabira,2015-12-28,9500.0,0.6,24.0,clear
+8,Black Gram (Urd Beans),Godabhaga,2015-12-11,8000.0,0.03,28.0,clear
+9,Green Gram (Moong),Godabhaga,2015-12-11,9000.0,0.03,28.0,clear
+10,Black Gram (Urd Beans),Attabira,2016-04-01,9500.0,0.6,38.6,clear
+11,Green Gram (Moong),Attabira,2016-04-01,9000.0,0.4,38.6,clear
+12,Black Gram (Urd Beans),Attabira,2016-11-01,9500.0,0.5,31.2,clear
+13,Green Gram (Moong),Attabira,2016-11-01,9500.0,0.4,31.2,clear
+14,Black Gram (Urd Beans),Attabira,2016-01-18,9500.0,0.5,27.8,clear
+15,Green Gram (Moong),Attabira,2016-01-18,9500.0,0.4,27.8,clear
+16,Black Gram (Urd Beans),Attabira,2016-01-02,9500.0,0.7,27.2,clear
+17,Green Gram (Moong),Attabira,2016-01-02,9500.0,0.6,27.2,clear
+18,Black Gram (Urd Beans),Attabira,2016-02-15,9500.0,0.4,31.6,clear
+19,Green Gram (Moong),Attabira,2016-02-15,9500.0,0.3,31.6,clear
+20,Black Gram (Urd Beans),Attabira,2016-02-22,9500.0,0.6,34.0,clear
+21,Green Gram (Moong),Attabira,2016-02-22,9000.0,0.7,34.0,clear
+22,Black Gram (Urd Beans),Attabira,2016-02-29,8500.0,0.7,34.2,clear
+23,Green Gram (Moong),Attabira,2016-02-29,9000.0,0.8,34.2,clear
+24,Black Gram (Urd Beans),Attabira,2016-07-03,8500.0,0.7,28.8,clear
+25,Green Gram (Moong),Attabira,2016-07-03,9000.0,0.6,28.8,clear
+26,Black Gram (Urd Beans),Attabira,2016-03-14,9000.0,0.8,30.2,rain
+27,Green Gram (Moong),Attabira,2016-03-14,9000.0,0.7,30.2,rain
+28,Black Gram (Urd Beans),Attabira,2016-03-28,9000.0,0.6,33.6,clear
+29,Green Gram (Moong),Attabira,2016-03-28,9000.0,0.4,33.6,clear
+30,Black Gram (Urd Beans),Attabira,2016-04-04,9000.0,0.7,41.2,clear
+31,Green Gram (Moong),Attabira,2016-04-04,9000.0,0.7,41.2,clear
+32,Black Gram (Urd Beans),Attabira,2016-04-25,8500.0,0.4,42.8,clear
+33,Green Gram (Moong),Attabira,2016-04-25,8500.0,0.4,42.8,clear
+34,Black Gram (Urd Beans),Attabira,2016-02-05,8500.0,0.3,28.4,clear
+35,Black Gram (Urd Beans),Attabira,2016-06-06,9000.0,0.3,39.0,clear
+36,Green Gram (Moong),Attabira,2016-06-06,8500.0,0.4,39.0,clear
+37,Black Gram (Urd Beans),Attabira,2016-06-27,10000.0,0.6,34.0,clear
+38,Green Gram (Moong),Attabira,2016-06-27,9000.0,0.7,34.0,clear
+39,Black Gram (Urd Beans),Attabira,2016-09-19,8500.0,0.6,33.0,clear
+40,Green Gram (Moong),Attabira,2016-09-19,8500.0,0.5,33.0,clear
+41,Black Gram (Urd Beans),Attabira,2016-09-26,8500.0,0.9,33.2,clear
+42,Green Gram (Moong),Attabira,2016-09-26,7000.0,0.8,33.2,clear
+43,Black Gram (Urd Beans),Attabira,2016-03-10,7500.0,0.7,35.2,clear
+44,Green Gram (Moong),Attabira,2016-03-10,7000.0,0.5,35.2,clear
+45,Black Gram (Urd Beans),Attabira,2016-10-10,8000.0,0.6,31.4,clear
+46,Green Gram (Moong),Attabira,2016-10-10,8500.0,0.4,31.4,clear
+47,Black Gram (Urd Beans),Attabira,2016-10-17,8000.0,0.6,31.0,clear
+48,Green Gram (Moong),Attabira,2016-10-17,7500.0,0.4,31.0,clear
+49,Black Gram (Urd Beans),Attabira,2016-10-24,8000.0,0.5,30.4,clear
+50,Green Gram (Moong),Attabira,2016-10-24,7000.0,0.4,30.4,clear
+51,Black Gram (Urd Beans),Attabira,2016-10-31,8000.0,0.7,30.8,clear
+52,Green Gram (Moong),Attabira,2016-10-31,7500.0,0.6,30.8,clear
+53,Black Gram (Urd Beans),Attabira,2016-07-11,8000.0,0.8,29.8,clear
+54,Green Gram (Moong),Attabira,2016-07-11,8000.0,0.8,29.8,clear
+55,Black Gram (Urd Beans),Attabira,2016-11-14,8000.0,0.9,29.0,clear
+56,Green Gram (Moong),Attabira,2016-11-14,8000.0,0.8,29.0,clear
+57,Black Gram (Urd Beans),Attabira,2016-11-21,7500.0,0.4,28.2,clear
+58,Green Gram (Moong),Attabira,2016-11-21,7500.0,0.6,28.2,clear
+59,Black Gram (Urd Beans),Attabira,2016-11-28,8500.0,1.0,28.0,clear
+60,Green Gram (Moong),Attabira,2016-11-28,8500.0,0.8,28.0,clear
+61,Black Gram (Urd Beans),Attabira,2016-05-12,9000.0,1.0,41.2,clear
+62,Green Gram (Moong),Attabira,2016-05-12,9000.0,0.8,41.2,clear
+63,Black Gram (Urd Beans),Attabira,2016-12-12,8500.0,0.9,29.0,clear
+64,Green Gram (Moong),Attabira,2016-12-12,7500.0,0.7,29.0,clear
+65,Black Gram (Urd Beans),Attabira,2016-12-19,7500.0,0.4,26.0,clear
+66,Green Gram (Moong),Attabira,2016-12-19,7000.0,0.5,26.0,clear
+67,Black Gram (Urd Beans),Attabira,2016-12-26,8500.0,0.7,25.8,clear
+68,Green Gram (Moong),Attabira,2016-12-26,8000.0,0.5,25.8,clear
+69,Black Gram (Urd Beans),Godabhaga,2016-01-14,9500.0,0.06,27.0,clear
+70,Black Gram (Urd Beans),Godabhaga,2016-01-21,8000.0,0.03,23.2,clear
+71,Green Gram (Moong),Godabhaga,2016-01-21,8000.0,0.03,23.2,clear
+72,Black Gram (Urd Beans),Godabhaga,2016-01-28,8500.0,0.03,28.0,clear
+73,Black Gram (Urd Beans),Godabhaga,2016-03-31,7500.0,0.03,35.8,clear
+74,Green Gram (Moong),Godabhaga,2016-03-31,7000.0,0.05,35.8,clear
+75,Black Gram (Urd Beans),Godabhaga,2016-07-04,8000.0,0.04,30.0,clear
+76,Black Gram (Urd Beans),Godabhaga,2016-04-14,8000.0,0.03,42.2,clear
+77,Black Gram (Urd Beans),Godabhaga,2016-05-26,8000.0,0.03,40.0,clear
+78,Black Gram (Urd Beans),Godabhaga,2016-06-07,8000.0,0.03,39.6,clear
+79,Black Gram (Urd Beans),Godabhaga,2016-04-08,7500.0,0.03,41.4,clear
+80,Black Gram (Urd Beans),Godabhaga,2016-09-15,9000.0,0.02,33.0,clear
+81,Green Gram (Moong),Godabhaga,2016-09-15,8000.0,0.02,33.0,clear
+82,Black Gram (Urd Beans),Godabhaga,2016-09-22,8000.0,0.02,30.2,clear
+83,Green Gram (Moong),Godabhaga,2016-09-22,7500.0,0.04,30.2,clear
+84,Black Gram (Urd Beans),Godabhaga,2016-09-29,7500.0,0.02,32.8,clear
+85,Green Gram (Moong),Godabhaga,2016-09-29,6500.0,0.03,32.8,clear
+86,Black Gram (Urd Beans),Godabhaga,2016-06-10,7500.0,0.03,40.4,clear
+87,Green Gram (Moong),Godabhaga,2016-06-10,7000.0,0.04,40.4,clear
+88,Black Gram (Urd Beans),Godabhaga,2016-10-13,7500.0,0.02,31.4,clear
+89,Black Gram (Urd Beans),Godabhaga,2016-10-20,7500.0,0.03,31.8,clear
+90,Black Gram (Urd Beans),Godabhaga,2016-10-27,7500.0,0.02,29.4,clear
+91,Green Gram (Moong),Godabhaga,2016-10-27,6500.0,0.03,29.4,clear
+92,Black Gram (Urd Beans),Godabhaga,2016-03-11,7500.0,0.02,36.4,clear
+93,Green Gram (Moong),Godabhaga,2016-03-11,6500.0,0.02,36.4,clear
+94,Black Gram (Urd Beans),Godabhaga,2016-10-11,7500.0,0.02,31.6,clear
+95,Green Gram (Moong),Godabhaga,2016-10-11,7000.0,0.02,31.6,clear
+96,Black Gram (Urd Beans),Godabhaga,2016-11-17,7500.0,0.03,27.0,clear
+97,Green Gram (Moong),Godabhaga,2016-11-17,7000.0,0.04,27.0,clear
+98,Black Gram (Urd Beans),Godabhaga,2016-11-24,7500.0,0.04,28.0,clear
+99,Green Gram (Moong),Godabhaga,2016-11-24,7000.0,0.04,28.0,clear
+100,Black Gram (Urd Beans),Godabhaga,2016-01-12,7500.0,0.03,26.0,clear
+101,Green Gram (Moong),Godabhaga,2016-01-12,8000.0,0.04,26.0,clear
+102,Black Gram (Urd Beans),Godabhaga,2016-08-12,8000.0,0.03,30.8,clear
+103,Green Gram (Moong),Godabhaga,2016-08-12,8000.0,0.03,30.8,clear
+104,Black Gram (Urd Beans),Godabhaga,2016-12-15,7500.0,0.04,26.2,clear
+105,Green Gram (Moong),Godabhaga,2016-12-15,7000.0,0.04,26.2,clear
+106,Black Gram (Urd Beans),Godabhaga,2016-12-22,7500.0,0.04,24.6,clear
+107,Green Gram (Moong),Godabhaga,2016-12-22,7000.0,0.05,24.6,clear
+108,Black Gram (Urd Beans),Godabhaga,2016-12-29,7500.0,0.02,25.8,clear
+109,Green Gram (Moong),Godabhaga,2016-12-29,7500.0,0.02,25.8,clear
+110,Black Gram (Urd Beans),Padampur,2016-11-06,6600.0,5.0,30.2,clear
+111,Green Gram (Moong),Godabhaga,2016-02-18,7500.0,0.05,34.6,clear
+112,Green Gram (Moong),Godabhaga,2016-03-17,8000.0,0.02,35.6,clear
+113,Green Gram (Moong),Godabhaga,2016-03-24,8000.0,0.02,38.0,clear
+114,Green Gram (Moong),Godabhaga,2016-04-21,8000.0,0.02,44.4,clear
+115,Green Gram (Moong),Godabhaga,2016-04-28,8000.0,0.03,39.6,clear
+116,Green Gram (Moong),Godabhaga,2016-12-05,8000.0,0.03,27.0,clear
+117,Green Gram (Moong),Godabhaga,2016-05-19,8000.0,0.03,38.6,clear
+118,Green Gram (Moong),Godabhaga,2016-06-16,8000.0,0.04,36.8,clear
+119,Black Gram (Urd Beans),Attabira,2017-02-01,8500.0,0.6,28.4,clear
+120,Green Gram (Moong),Attabira,2017-02-01,8500.0,0.5,28.4,clear
+121,Black Gram (Urd Beans),Attabira,2017-09-01,8000.0,0.9,34.0,clear
+122,Green Gram (Moong),Attabira,2017-09-01,8000.0,0.8,34.0,clear
+123,Black Gram (Urd Beans),Attabira,2017-01-16,7500.0,0.5,25.0,clear
+124,Green Gram (Moong),Attabira,2017-01-16,7500.0,0.5,25.0,clear
+125,Black Gram (Urd Beans),Attabira,2017-01-23,8500.0,0.6,29.0,clear
+126,Green Gram (Moong),Attabira,2017-01-23,8000.0,0.5,29.0,clear
+127,Black Gram (Urd Beans),Attabira,2017-01-30,8000.0,0.7,28.0,clear
+128,Green Gram (Moong),Attabira,2017-01-30,8000.0,0.7,28.0,clear
+129,Black Gram (Urd Beans),Attabira,2017-06-02,8500.0,0.8,39.6,clear
+130,Green Gram (Moong),Attabira,2017-06-02,8500.0,0.7,39.6,clear
+131,Black Gram (Urd Beans),Attabira,2017-02-20,8000.0,0.5,33.0,clear
+132,Black Gram (Urd Beans),Attabira,2017-02-27,8000.0,0.6,33.4,clear
+133,Green Gram (Moong),Attabira,2017-02-27,8000.0,0.6,33.4,clear
+134,Black Gram (Urd Beans),Attabira,2017-03-27,8500.0,0.7,39.2,clear
+135,Green Gram (Moong),Attabira,2017-03-27,8500.0,0.6,39.2,clear
+136,Black Gram (Urd Beans),Attabira,2017-03-04,7500.0,0.6,35.0,clear
+137,Green Gram (Moong),Attabira,2017-03-04,7000.0,0.6,35.0,clear
+138,Black Gram (Urd Beans),Attabira,2017-10-04,9000.0,0.5,32.8,clear
+139,Green Gram (Moong),Attabira,2017-10-04,9000.0,0.4,32.8,clear
+140,Black Gram (Urd Beans),Attabira,2017-04-17,9000.0,0.4,39.8,clear
+141,Green Gram (Moong),Attabira,2017-04-17,9000.0,0.3,39.8,clear
+142,Black Gram (Urd Beans),Attabira,2017-04-24,8500.0,0.7,42.0,clear
+143,Green Gram (Moong),Attabira,2017-04-24,8500.0,0.5,42.0,clear
+144,Black Gram (Urd Beans),Attabira,2017-01-05,8500.0,0.6,25.4,clear
+145,Green Gram (Moong),Attabira,2017-01-05,8500.0,0.5,25.4,clear
+146,Black Gram (Urd Beans),Attabira,2017-08-05,8500.0,0.8,31.4,clear
+147,Green Gram (Moong),Attabira,2017-08-05,8500.0,0.6,31.4,clear
+148,Black Gram (Urd Beans),Attabira,2017-05-29,8000.0,0.8,40.2,clear
+149,Green Gram (Moong),Attabira,2017-05-29,8000.0,0.5,40.2,clear
+150,Black Gram (Urd Beans),Attabira,2017-05-06,8000.0,0.4,40.0,clear
+151,Black Gram (Urd Beans),Attabira,2017-10-07,8000.0,0.4,31.6,clear
+152,Green Gram (Moong),Attabira,2017-10-07,8000.0,0.6,31.6,clear
+153,Black Gram (Urd Beans),Attabira,2017-07-17,8500.0,0.8,32.8,clear
+154,Green Gram (Moong),Attabira,2017-07-17,8500.0,0.6,32.8,clear
+155,Black Gram (Urd Beans),Attabira,2017-07-24,8500.0,0.08,26.4,clear
+156,Green Gram (Moong),Attabira,2017-07-24,8500.0,0.06,26.4,clear
+157,Black Gram (Urd Beans),Attabira,2017-07-31,8500.0,0.7,32.2,clear
+158,Green Gram (Moong),Attabira,2017-07-31,8500.0,0.4,32.2,clear
+159,Black Gram (Urd Beans),Attabira,2017-08-21,8000.0,0.4,32.0,clear
+160,Green Gram (Moong),Attabira,2017-08-21,8500.0,0.5,32.0,clear
+161,Black Gram (Urd Beans),Attabira,2017-08-28,8000.0,0.6,31.2,clear
+162,Green Gram (Moong),Attabira,2017-08-28,7500.0,0.5,31.2,clear
+163,Black Gram (Urd Beans),Attabira,2017-04-09,8000.0,0.7,41.2,clear
+164,Green Gram (Moong),Attabira,2017-04-09,8000.0,0.5,41.2,clear
+165,Black Gram (Urd Beans),Attabira,2017-11-09,7500.0,0.7,30.8,clear
+166,Green Gram (Moong),Attabira,2017-11-09,7000.0,0.8,30.8,clear
+167,Black Gram (Urd Beans),Attabira,2017-09-25,7000.0,0.4,35.2,clear
+168,Green Gram (Moong),Attabira,2017-09-25,7000.0,0.5,35.2,clear
+169,Black Gram (Urd Beans),Attabira,2017-09-10,7500.0,0.6,34.8,clear
+170,Green Gram (Moong),Attabira,2017-09-10,7000.0,0.5,34.8,clear
+171,Black Gram (Urd Beans),Attabira,2017-10-16,7000.0,0.6,35.0,clear
+172,Green Gram (Moong),Attabira,2017-10-16,7500.0,0.6,35.0,clear
+173,Black Gram (Urd Beans),Attabira,2017-10-23,8000.0,0.7,34.0,clear
+174,Green Gram (Moong),Attabira,2017-10-23,8000.0,0.6,34.0,clear
+175,Black Gram (Urd Beans),Attabira,2017-10-30,8000.0,0.8,31.8,clear
+176,Green Gram (Moong),Attabira,2017-10-30,8000.0,0.6,31.8,clear
+177,Black Gram (Urd Beans),Godabhaga,2017-05-01,7500.0,0.03,40.6,clear
+178,Green Gram (Moong),Godabhaga,2017-05-01,7500.0,0.04,40.6,clear
+179,Black Gram (Urd Beans),Godabhaga,2017-12-01,7500.0,0.04,29.2,clear
+180,Green Gram (Moong),Godabhaga,2017-12-01,7500.0,0.02,29.2,clear
+181,Black Gram (Urd Beans),Godabhaga,2017-01-19,7500.0,0.04,28.0,clear
+182,Green Gram (Moong),Godabhaga,2017-01-19,7500.0,0.04,28.0,clear
+183,Black Gram (Urd Beans),Godabhaga,2017-01-26,7500.0,0.03,27.4,clear
+184,Green Gram (Moong),Godabhaga,2017-01-26,6500.0,0.02,27.4,clear
+185,Black Gram (Urd Beans),Godabhaga,2017-02-02,8000.0,0.04,28.4,clear
+186,Green Gram (Moong),Godabhaga,2017-02-02,7500.0,0.04,28.4,clear
+187,Black Gram (Urd Beans),Godabhaga,2017-09-02,7500.0,0.04,30.8,clear
+188,Green Gram (Moong),Godabhaga,2017-09-02,7000.0,0.04,30.8,clear
+189,Black Gram (Urd Beans),Godabhaga,2017-02-16,7500.0,0.03,31.0,clear
+190,Green Gram (Moong),Godabhaga,2017-02-16,7000.0,0.0,31.0,clear
+191,Black Gram (Urd Beans),Godabhaga,2017-02-23,7500.0,0.04,34.6,clear
+192,Black Gram (Urd Beans),Godabhaga,2017-02-03,7500.0,0.03,28.0,clear
+193,Green Gram (Moong),Godabhaga,2017-02-03,7000.0,0.04,28.0,clear
+194,Black Gram (Urd Beans),Godabhaga,2017-09-03,7500.0,0.04,33.6,clear
+195,Green Gram (Moong),Godabhaga,2017-09-03,7000.0,0.04,33.6,clear
+196,Black Gram (Urd Beans),Godabhaga,2017-03-16,7500.0,0.03,33.6,clear
+197,Green Gram (Moong),Godabhaga,2017-03-16,7000.0,0.03,33.6,clear
+198,Black Gram (Urd Beans),Godabhaga,2017-03-23,7500.0,0.04,38.4,clear
+199,Green Gram (Moong),Godabhaga,2017-03-23,7000.0,0.04,38.4,clear
+200,Black Gram (Urd Beans),Godabhaga,2017-03-30,7500.0,0.03,42.2,clear
+201,Green Gram (Moong),Godabhaga,2017-03-30,7000.0,0.04,42.2,clear
+202,Black Gram (Urd Beans),Godabhaga,2017-06-04,7500.0,0.04,42.0,clear
+203,Black Gram (Urd Beans),Godabhaga,2017-04-20,7500.0,0.04,39.2,clear
+204,Green Gram (Moong),Godabhaga,2017-04-20,7500.0,0.04,39.2,clear
+205,Black Gram (Urd Beans),Godabhaga,2017-04-27,8500.0,0.04,42.2,clear
+206,Green Gram (Moong),Godabhaga,2017-04-27,8500.0,0.05,42.2,clear
+207,Black Gram (Urd Beans),Godabhaga,2017-04-05,8500.0,0.03,40.0,clear
+208,Green Gram (Moong),Godabhaga,2017-04-05,8000.0,0.03,40.0,clear
+209,Black Gram (Urd Beans),Godabhaga,2017-11-05,8000.0,0.03,31.4,clear
+210,Green Gram (Moong),Godabhaga,2017-11-05,8000.0,0.04,31.4,clear
+211,Black Gram (Urd Beans),Godabhaga,2017-05-25,8000.0,0.02,41.8,clear
+212,Black Gram (Urd Beans),Godabhaga,2017-01-06,8000.0,0.03,25.2,clear
+213,Green Gram (Moong),Godabhaga,2017-01-06,8000.0,0.05,25.2,clear
+214,Black Gram (Urd Beans),Godabhaga,2017-08-06,8000.0,0.02,30.6,clear
+215,Green Gram (Moong),Godabhaga,2017-08-06,8500.0,0.03,30.6,clear
+216,Black Gram (Urd Beans),Godabhaga,2017-06-22,7500.0,0.03,30.6,clear
+217,Green Gram (Moong),Godabhaga,2017-06-22,7000.0,0.04,30.6,clear
+218,Black Gram (Urd Beans),Godabhaga,2017-06-07,7500.0,0.03,35.8,clear
+219,Green Gram (Moong),Godabhaga,2017-06-07,7000.0,0.04,35.8,clear
+220,Black Gram (Urd Beans),Godabhaga,2017-07-13,8000.0,0.03,32.8,clear
+221,Green Gram (Moong),Godabhaga,2017-07-13,7000.0,0.04,32.8,clear
+222,Black Gram (Urd Beans),Godabhaga,2017-07-20,7500.0,0.03,32.2,clear
+223,Green Gram (Moong),Godabhaga,2017-07-20,6500.0,0.03,32.2,clear
+224,Black Gram (Urd Beans),Godabhaga,2017-03-08,7500.0,0.03,27.6,clear
+225,Green Gram (Moong),Godabhaga,2017-03-08,7000.0,0.04,27.6,clear
+226,Black Gram (Urd Beans),Godabhaga,2017-08-17,7000.0,4.0,29.2,clear
+227,Green Gram (Moong),Godabhaga,2017-08-17,6500.0,0.4,29.2,clear
+228,Black Gram (Urd Beans),Godabhaga,2017-08-24,8000.0,6.0,32.0,rain
+229,Green Gram (Moong),Godabhaga,2017-08-24,7500.0,0.5,32.0,rain
+230,Black Gram (Urd Beans),Godabhaga,2017-08-31,8000.0,5.0,33.2,clear
+231,Green Gram (Moong),Godabhaga,2017-08-31,8000.0,0.6,33.2,clear
+232,Black Gram (Urd Beans),Godabhaga,2017-07-09,8000.0,7.0,34.0,clear
+233,Green Gram (Moong),Godabhaga,2017-07-09,8000.0,0.6,34.0,clear
+234,Black Gram (Urd Beans),Godabhaga,2017-09-14,7500.0,4.0,32.8,clear
+235,Black Gram (Urd Beans),Padampur,2017-09-14,8100.0,1.2,32.8,clear
+236,Green Gram (Moong),Godabhaga,2017-09-14,6500.0,0.4,32.8,clear
+237,Black Gram (Urd Beans),Godabhaga,2017-09-21,7500.0,3.0,32.4,clear
+238,Green Gram (Moong),Godabhaga,2017-09-21,7000.0,0.5,32.4,clear
+239,Black Gram (Urd Beans),Godabhaga,2017-09-28,7500.0,3.0,31.6,clear
+240,Green Gram (Moong),Godabhaga,2017-09-28,7000.0,0.5,31.6,clear
+241,Black Gram (Urd Beans),Godabhaga,2017-06-10,7500.0,3.0,35.2,clear
+242,Green Gram (Moong),Godabhaga,2017-06-10,7000.0,0.4,35.2,clear
+243,Black Gram (Urd Beans),Godabhaga,2017-12-10,7500.0,4.0,30.4,clear
+244,Green Gram (Moong),Godabhaga,2017-12-10,6500.0,0.5,30.4,clear
+245,Black Gram (Urd Beans),Godabhaga,2017-10-19,7500.0,4.0,31.4,clear
+246,Green Gram (Moong),Godabhaga,2017-10-19,7000.0,0.4,31.4,clear
+247,Black Gram (Urd Beans),Godabhaga,2017-10-26,7000.0,3.0,34.2,clear
+248,Green Gram (Moong),Godabhaga,2017-10-26,7000.0,0.5,34.2,clear
+249,Black Gram (Urd Beans),Godabhaga,2017-02-11,7500.0,4.0,31.8,clear
+250,Green Gram (Moong),Godabhaga,2017-02-11,7000.0,0.5,31.8,clear
+251,Green Gram (Moong),Godabhaga,2017-05-18,8500.0,0.02,43.2,clear

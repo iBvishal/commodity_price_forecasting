@@ -1,0 +1,616 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Dumka,2015-12-08,4800.0,0.0,28.0,clear
+1,Lentil(Masur),Dumka,2015-12-08,5500.0,0.0,28.0,clear
+2,Arhar (Tur/Red Gram),Dumka,2015-12-09,5500.0,0.0,27.0,clear
+3,Lentil(Masur),Dumka,2015-12-09,5700.0,0.0,27.0,clear
+4,Arhar (Tur/Red Gram),Dumka,2015-12-10,5500.0,0.0,28.0,clear
+5,Lentil(Masur),Dumka,2015-12-10,5700.0,0.0,28.0,clear
+6,Arhar (Tur/Red Gram),Dumka,2015-12-11,5500.0,0.0,23.4,clear
+7,Lentil(Masur),Dumka,2015-12-11,5700.0,0.0,23.4,clear
+8,Arhar (Tur/Red Gram),Dumka,2015-12-18,6200.0,0.0,23.0,clear
+9,Lentil(Masur),Dumka,2015-12-18,6800.0,0.0,23.0,clear
+10,Arhar (Tur/Red Gram),Dumka,2015-12-19,6200.0,0.0,24.0,clear
+11,Lentil(Masur),Dumka,2015-12-19,6800.0,0.0,24.0,clear
+12,Arhar (Tur/Red Gram),Dumka,2015-12-20,6200.0,0.0,24.2,clear
+13,Lentil(Masur),Dumka,2015-12-20,6800.0,0.0,24.2,clear
+14,Arhar (Tur/Red Gram),Dumka,2015-12-21,6200.0,0.0,22.4,clear
+15,Lentil(Masur),Dumka,2015-12-21,6800.0,0.0,22.4,clear
+16,Arhar (Tur/Red Gram),Dumka,2015-12-22,6200.0,0.0,22.4,clear
+17,Lentil(Masur),Dumka,2015-12-22,6800.0,0.0,22.4,clear
+18,Arhar (Tur/Red Gram),Dumka,2015-12-23,6200.0,0.0,24.6,clear
+19,Lentil(Masur),Dumka,2015-12-23,6800.0,0.0,24.6,clear
+20,Arhar (Tur/Red Gram),Dumka,2015-12-25,6200.0,0.0,23.0,clear
+21,Lentil(Masur),Dumka,2015-12-25,6800.0,0.0,23.0,clear
+22,Arhar (Tur/Red Gram),Dumka,2015-12-26,6200.0,0.0,24.6,clear
+23,Lentil(Masur),Dumka,2015-12-26,6800.0,0.0,24.6,clear
+24,Arhar (Tur/Red Gram),Dumka,2015-12-27,6200.0,0.0,24.8,clear
+25,Lentil(Masur),Dumka,2015-12-27,6800.0,0.0,24.8,clear
+26,Arhar (Tur/Red Gram),Dumka,2015-12-28,6200.0,0.0,25.4,clear
+27,Lentil(Masur),Dumka,2015-12-28,6800.0,0.0,25.4,clear
+28,Arhar (Tur/Red Gram),Dumka,2015-12-29,6200.0,0.0,25.0,clear
+29,Lentil(Masur),Dumka,2015-12-29,6800.0,0.0,25.0,clear
+30,Arhar (Tur/Red Gram),Dumka,2015-12-30,6200.0,0.0,25.2,clear
+31,Lentil(Masur),Dumka,2015-12-30,6800.0,0.0,25.2,clear
+32,Arhar (Tur/Red Gram),Dumka,2015-12-31,6200.0,0.0,26.0,clear
+33,Lentil(Masur),Dumka,2015-12-31,6800.0,0.0,26.0,clear
+34,Arhar (Tur/Red Gram),Dumka,2016-01-01,6200.0,0.0,27.2,clear
+35,Lentil(Masur),Dumka,2016-01-01,6800.0,0.0,27.2,clear
+36,Arhar (Tur/Red Gram),Dumka,2016-02-01,6200.0,0.0,29.6,clear
+37,Lentil(Masur),Dumka,2016-02-01,6800.0,0.0,29.6,clear
+38,Arhar (Tur/Red Gram),Dumka,2016-03-01,6200.0,0.0,33.0,clear
+39,Lentil(Masur),Dumka,2016-03-01,6800.0,0.0,33.0,clear
+40,Arhar (Tur/Red Gram),Dumka,2016-04-01,6200.0,0.0,28.6,clear
+41,Lentil(Masur),Dumka,2016-04-01,6800.0,0.0,28.6,clear
+42,Arhar (Tur/Red Gram),Dumka,2016-05-01,6200.0,0.0,41.6,rain
+43,Lentil(Masur),Dumka,2016-05-01,6800.0,0.0,41.6,rain
+44,Arhar (Tur/Red Gram),Dumka,2016-06-01,6200.0,0.0,33.0,clear
+45,Lentil(Masur),Dumka,2016-06-01,6800.0,0.0,33.0,clear
+46,Arhar (Tur/Red Gram),Dumka,2016-07-01,6200.0,0.0,33.4,clear
+47,Lentil(Masur),Dumka,2016-07-01,6800.0,0.0,33.4,clear
+48,Arhar (Tur/Red Gram),Dumka,2016-08-01,6200.0,0.0,32.6,rain
+49,Lentil(Masur),Dumka,2016-08-01,6800.0,0.0,32.6,rain
+50,Arhar (Tur/Red Gram),Dumka,2016-09-01,6200.0,0.0,34.6,clear
+51,Lentil(Masur),Dumka,2016-09-01,6800.0,0.0,34.6,clear
+52,Arhar (Tur/Red Gram),Dumka,2016-11-01,6200.0,0.0,33.2,clear
+53,Lentil(Masur),Dumka,2016-11-01,6800.0,0.0,33.2,clear
+54,Arhar (Tur/Red Gram),Dumka,2016-12-01,6200.0,0.0,30.4,clear
+55,Lentil(Masur),Dumka,2016-12-01,6800.0,0.0,30.4,clear
+56,Arhar (Tur/Red Gram),Dumka,2016-01-15,6200.0,0.0,28.0,clear
+57,Lentil(Masur),Dumka,2016-01-15,6800.0,0.0,28.0,clear
+58,Arhar (Tur/Red Gram),Dumka,2016-01-18,6200.0,0.0,25.6,clear
+59,Lentil(Masur),Dumka,2016-01-18,6800.0,0.0,25.6,clear
+60,Arhar (Tur/Red Gram),Dumka,2016-01-19,6200.0,0.0,22.4,clear
+61,Lentil(Masur),Dumka,2016-01-19,6800.0,0.0,22.4,clear
+62,Arhar (Tur/Red Gram),Dumka,2016-01-21,6200.0,0.0,21.4,clear
+63,Lentil(Masur),Dumka,2016-01-21,6800.0,0.0,21.4,clear
+64,Arhar (Tur/Red Gram),Dumka,2016-01-22,6200.0,0.0,20.6,clear
+65,Lentil(Masur),Dumka,2016-01-22,6800.0,0.0,20.6,clear
+66,Arhar (Tur/Red Gram),Dumka,2016-01-23,6200.0,0.0,20.0,clear
+67,Lentil(Masur),Dumka,2016-01-23,6800.0,0.0,20.0,clear
+68,Arhar (Tur/Red Gram),Dumka,2016-01-24,6200.0,0.0,21.4,clear
+69,Lentil(Masur),Dumka,2016-01-24,6800.0,0.0,21.4,clear
+70,Arhar (Tur/Red Gram),Dumka,2016-01-25,6200.0,0.0,23.0,clear
+71,Arhar (Tur/Red Gram),Dumka,2016-01-28,6200.0,0.0,25.4,clear
+72,Lentil(Masur),Dumka,2016-01-28,6800.0,0.0,25.4,clear
+73,Arhar (Tur/Red Gram),Dumka,2016-01-29,6200.0,0.0,24.6,clear
+74,Lentil(Masur),Dumka,2016-01-29,6800.0,0.0,24.6,clear
+75,Arhar (Tur/Red Gram),Dumka,2016-01-31,6200.0,0.0,28.8,clear
+76,Lentil(Masur),Dumka,2016-01-31,6800.0,0.0,28.8,clear
+77,Arhar (Tur/Red Gram),Dumka,2016-01-02,6200.0,0.0,26.2,clear
+78,Lentil(Masur),Dumka,2016-01-02,6800.0,0.0,26.2,clear
+79,Arhar (Tur/Red Gram),Dumka,2016-02-02,6200.0,0.0,29.6,clear
+80,Lentil(Masur),Dumka,2016-02-02,6800.0,0.0,29.6,clear
+81,Arhar (Tur/Red Gram),Dumka,2016-03-02,6200.0,0.0,32.2,clear
+82,Lentil(Masur),Dumka,2016-03-02,6800.0,0.0,32.2,clear
+83,Arhar (Tur/Red Gram),Dumka,2016-04-02,6200.0,0.0,33.4,clear
+84,Lentil(Masur),Dumka,2016-04-02,6800.0,0.0,33.4,clear
+85,Arhar (Tur/Red Gram),Dumka,2016-05-02,6200.0,0.0,35.6,clear
+86,Lentil(Masur),Dumka,2016-05-02,6800.0,0.0,35.6,clear
+87,Arhar (Tur/Red Gram),Dumka,2016-06-02,6200.0,0.0,35.0,clear
+88,Lentil(Masur),Dumka,2016-06-02,6800.0,0.0,35.0,clear
+89,Arhar (Tur/Red Gram),Dumka,2016-07-02,6200.0,0.0,32.0,clear
+90,Lentil(Masur),Dumka,2016-07-02,6800.0,0.0,32.0,clear
+91,Arhar (Tur/Red Gram),Dumka,2016-08-02,6200.0,0.0,28.6,rain
+92,Lentil(Masur),Dumka,2016-08-02,6800.0,0.0,28.6,rain
+93,Arhar (Tur/Red Gram),Dumka,2016-10-02,6200.0,0.0,34.4,clear
+94,Lentil(Masur),Dumka,2016-10-02,6800.0,0.0,34.4,clear
+95,Arhar (Tur/Red Gram),Dumka,2016-11-02,6200.0,0.0,33.8,clear
+96,Lentil(Masur),Dumka,2016-11-02,6800.0,0.0,33.8,clear
+97,Arhar (Tur/Red Gram),Dumka,2016-12-02,6200.0,0.0,29.8,clear
+98,Lentil(Masur),Dumka,2016-12-02,6800.0,0.0,29.8,clear
+99,Arhar (Tur/Red Gram),Dumka,2016-02-13,6200.0,0.0,28.8,clear
+100,Lentil(Masur),Dumka,2016-02-13,6800.0,0.0,28.8,clear
+101,Arhar (Tur/Red Gram),Dumka,2016-02-21,6200.0,0.0,34.4,clear
+102,Lentil(Masur),Dumka,2016-02-21,6800.0,0.0,34.4,clear
+103,Arhar (Tur/Red Gram),Dumka,2016-02-22,6200.0,0.0,30.6,clear
+104,Lentil(Masur),Dumka,2016-02-22,6800.0,0.0,30.6,clear
+105,Arhar (Tur/Red Gram),Dumka,2016-02-23,6200.0,0.0,30.8,clear
+106,Lentil(Masur),Dumka,2016-02-23,6800.0,0.0,30.8,clear
+107,Arhar (Tur/Red Gram),Dumka,2016-02-24,6200.0,0.0,29.2,clear
+108,Lentil(Masur),Dumka,2016-02-24,6800.0,0.0,29.2,clear
+109,Arhar (Tur/Red Gram),Dumka,2016-02-27,6200.0,0.0,29.4,clear
+110,Lentil(Masur),Dumka,2016-02-27,6800.0,0.0,29.4,clear
+111,Arhar (Tur/Red Gram),Dumka,2016-02-28,6200.0,0.0,30.6,rain
+112,Lentil(Masur),Dumka,2016-02-28,6800.0,0.0,30.6,rain
+113,Arhar (Tur/Red Gram),Dumka,2016-02-29,6200.0,0.0,30.4,clear
+114,Lentil(Masur),Dumka,2016-02-29,6800.0,0.0,30.4,clear
+115,Arhar (Tur/Red Gram),Dumka,2016-01-03,6200.0,0.0,25.8,clear
+116,Lentil(Masur),Dumka,2016-01-03,6800.0,0.0,25.8,clear
+117,Arhar (Tur/Red Gram),Dumka,2016-03-03,6200.0,0.0,33.6,clear
+118,Lentil(Masur),Dumka,2016-03-03,6800.0,0.0,33.6,clear
+119,Arhar (Tur/Red Gram),Dumka,2016-04-03,6200.0,0.0,35.0,clear
+120,Lentil(Masur),Dumka,2016-04-03,6800.0,0.0,35.0,clear
+121,Arhar (Tur/Red Gram),Dumka,2016-05-03,6200.0,0.0,36.6,clear
+122,Lentil(Masur),Dumka,2016-05-03,6800.0,0.0,36.6,clear
+123,Arhar (Tur/Red Gram),Dumka,2016-10-03,6200.0,0.0,35.8,clear
+124,Lentil(Masur),Dumka,2016-10-03,3000.0,0.0,35.8,clear
+125,Arhar (Tur/Red Gram),Dumka,2016-11-03,6200.0,0.0,33.4,clear
+126,Lentil(Masur),Dumka,2016-11-03,6800.0,0.0,33.4,clear
+127,Arhar (Tur/Red Gram),Dumka,2016-12-03,6200.0,0.0,29.6,clear
+128,Lentil(Masur),Dumka,2016-12-03,6800.0,0.0,29.6,clear
+129,Arhar (Tur/Red Gram),Dumka,2016-03-13,6200.0,0.0,28.6,clear
+130,Lentil(Masur),Dumka,2016-03-13,6800.0,0.0,28.6,clear
+131,Arhar (Tur/Red Gram),Dumka,2016-03-17,6200.0,0.0,33.4,clear
+132,Lentil(Masur),Dumka,2016-03-17,6800.0,0.0,33.4,clear
+133,Arhar (Tur/Red Gram),Dumka,2016-03-18,6200.0,0.0,35.4,clear
+134,Lentil(Masur),Dumka,2016-03-18,6800.0,0.0,35.4,clear
+135,Arhar (Tur/Red Gram),Dumka,2016-03-19,6200.0,0.0,35.0,clear
+136,Lentil(Masur),Dumka,2016-03-19,6800.0,0.0,35.0,clear
+137,Arhar (Tur/Red Gram),Dumka,2016-03-20,6200.0,0.0,35.0,clear
+138,Lentil(Masur),Dumka,2016-03-20,6800.0,0.0,35.0,clear
+139,Arhar (Tur/Red Gram),Dumka,2016-03-21,6200.0,0.0,37.8,clear
+140,Lentil(Masur),Dumka,2016-03-21,6800.0,0.0,37.8,clear
+141,Arhar (Tur/Red Gram),Dumka,2016-03-22,6200.0,0.0,36.2,clear
+142,Lentil(Masur),Dumka,2016-03-22,6800.0,0.0,36.2,clear
+143,Arhar (Tur/Red Gram),Dumka,2016-03-23,6200.0,0.0,34.8,clear
+144,Lentil(Masur),Dumka,2016-03-23,6800.0,0.0,34.8,clear
+145,Arhar (Tur/Red Gram),Dumka,2016-03-24,6200.0,0.0,36.2,clear
+146,Lentil(Masur),Dumka,2016-03-24,6800.0,0.0,36.2,clear
+147,Arhar (Tur/Red Gram),Dumka,2016-03-25,6200.0,0.0,34.6,clear
+148,Lentil(Masur),Dumka,2016-03-25,6800.0,0.0,34.6,clear
+149,Arhar (Tur/Red Gram),Dumka,2016-03-26,6200.0,0.0,37.0,clear
+150,Lentil(Masur),Dumka,2016-03-26,6800.0,0.0,37.0,clear
+151,Arhar (Tur/Red Gram),Dumka,2016-03-27,6200.0,0.0,36.0,clear
+152,Lentil(Masur),Dumka,2016-03-27,6800.0,0.0,36.0,clear
+153,Arhar (Tur/Red Gram),Dumka,2016-03-28,6200.0,0.0,34.0,clear
+154,Lentil(Masur),Dumka,2016-03-28,6800.0,0.0,34.0,clear
+155,Arhar (Tur/Red Gram),Dumka,2016-03-29,6200.0,0.0,37.4,clear
+156,Lentil(Masur),Dumka,2016-03-29,6800.0,0.0,37.4,clear
+157,Arhar (Tur/Red Gram),Dumka,2016-03-30,6200.0,0.0,34.8,rain
+158,Lentil(Masur),Dumka,2016-03-30,6800.0,0.0,34.8,rain
+159,Arhar (Tur/Red Gram),Dumka,2016-03-31,6200.0,0.0,34.2,clear
+160,Lentil(Masur),Dumka,2016-03-31,6800.0,0.0,34.2,clear
+161,Arhar (Tur/Red Gram),Dumka,2016-01-04,6200.0,0.0,26.0,clear
+162,Lentil(Masur),Dumka,2016-01-04,6800.0,0.0,26.0,clear
+163,Arhar (Tur/Red Gram),Dumka,2016-02-04,6200.0,0.0,23.6,clear
+164,Lentil(Masur),Dumka,2016-02-04,6800.0,0.0,23.6,clear
+165,Arhar (Tur/Red Gram),Dumka,2016-08-04,6200.0,0.0,33.2,clear
+166,Lentil(Masur),Dumka,2016-08-04,6800.0,0.0,33.2,clear
+167,Arhar (Tur/Red Gram),Dumka,2016-10-04,6200.0,0.0,36.0,clear
+168,Lentil(Masur),Dumka,2016-10-04,6800.0,0.0,36.0,clear
+169,Arhar (Tur/Red Gram),Dumka,2016-11-04,6200.0,0.0,30.4,clear
+170,Arhar (Tur/Red Gram),Dumka,2016-04-13,6200.0,0.0,40.6,clear
+171,Lentil(Masur),Dumka,2016-04-13,6800.0,0.0,40.6,clear
+172,Arhar (Tur/Red Gram),Dumka,2016-04-14,6200.0,0.0,41.0,clear
+173,Lentil(Masur),Dumka,2016-04-14,6800.0,0.0,41.0,clear
+174,Arhar (Tur/Red Gram),Dumka,2016-04-15,6200.0,0.0,41.6,clear
+175,Lentil(Masur),Dumka,2016-04-15,6800.0,0.0,41.6,clear
+176,Arhar (Tur/Red Gram),Dumka,2016-04-16,6200.0,0.0,42.8,clear
+177,Lentil(Masur),Dumka,2016-04-16,6800.0,0.0,42.8,clear
+178,Arhar (Tur/Red Gram),Dumka,2016-04-17,6200.0,0.0,37.0,clear
+179,Lentil(Masur),Dumka,2016-04-17,6800.0,0.0,37.0,clear
+180,Arhar (Tur/Red Gram),Dumka,2016-04-20,6200.0,0.0,43.4,clear
+181,Lentil(Masur),Dumka,2016-04-20,6800.0,0.0,43.4,clear
+182,Arhar (Tur/Red Gram),Dumka,2016-04-21,6200.0,0.0,43.8,clear
+183,Lentil(Masur),Dumka,2016-04-21,6800.0,0.0,43.8,clear
+184,Arhar (Tur/Red Gram),Dumka,2016-04-22,6200.0,0.0,43.0,clear
+185,Lentil(Masur),Dumka,2016-04-22,6800.0,0.0,43.0,clear
+186,Arhar (Tur/Red Gram),Dumka,2016-04-24,6200.0,0.0,41.4,clear
+187,Lentil(Masur),Dumka,2016-04-24,6800.0,0.0,41.4,clear
+188,Arhar (Tur/Red Gram),Dumka,2016-04-27,6200.0,0.0,43.4,clear
+189,Lentil(Masur),Dumka,2016-04-27,6800.0,0.0,43.4,clear
+190,Arhar (Tur/Red Gram),Dumka,2016-04-28,6200.0,0.0,41.0,clear
+191,Lentil(Masur),Dumka,2016-04-28,6800.0,0.0,41.0,clear
+192,Arhar (Tur/Red Gram),Dumka,2016-04-29,6200.0,0.0,42.8,clear
+193,Lentil(Masur),Dumka,2016-04-29,6800.0,0.0,42.8,clear
+194,Arhar (Tur/Red Gram),Dumka,2016-02-05,6200.0,0.0,26.0,clear
+195,Lentil(Masur),Dumka,2016-02-05,6800.0,0.0,26.0,clear
+196,Arhar (Tur/Red Gram),Dumka,2016-03-05,6200.0,0.0,35.6,clear
+197,Lentil(Masur),Dumka,2016-03-05,6800.0,0.0,35.6,clear
+198,Arhar (Tur/Red Gram),Dumka,2016-04-05,6200.0,0.0,35.4,clear
+199,Lentil(Masur),Dumka,2016-04-05,6800.0,0.0,35.4,clear
+200,Arhar (Tur/Red Gram),Dumka,2016-05-05,6200.0,0.0,35.6,clear
+201,Lentil(Masur),Dumka,2016-05-05,6800.0,0.0,35.6,clear
+202,Arhar (Tur/Red Gram),Dumka,2016-06-05,6200.0,0.0,36.0,clear
+203,Lentil(Masur),Dumka,2016-06-05,6800.0,0.0,36.0,clear
+204,Arhar (Tur/Red Gram),Dumka,2016-09-05,6200.0,0.0,32.4,rain
+205,Lentil(Masur),Dumka,2016-09-05,6800.0,0.0,32.4,rain
+206,Arhar (Tur/Red Gram),Dumka,2016-10-05,6200.0,0.0,35.2,clear
+207,Lentil(Masur),Dumka,2016-10-05,6800.0,0.0,35.2,clear
+208,Arhar (Tur/Red Gram),Dumka,2016-11-05,6200.0,0.0,29.0,clear
+209,Lentil(Masur),Dumka,2016-11-05,6800.0,0.0,29.0,clear
+210,Arhar (Tur/Red Gram),Dumka,2016-12-05,6200.0,0.0,28.6,clear
+211,Lentil(Masur),Dumka,2016-12-05,6800.0,0.0,28.6,clear
+212,Arhar (Tur/Red Gram),Dumka,2016-05-13,6200.0,0.0,36.0,clear
+213,Lentil(Masur),Dumka,2016-05-13,6800.0,0.0,36.0,clear
+214,Arhar (Tur/Red Gram),Dumka,2016-05-15,6200.0,0.0,37.6,clear
+215,Lentil(Masur),Dumka,2016-05-15,6800.0,0.0,37.6,clear
+216,Arhar (Tur/Red Gram),Dumka,2016-05-16,6200.0,0.0,35.6,clear
+217,Lentil(Masur),Dumka,2016-05-16,6800.0,0.0,35.6,clear
+218,Arhar (Tur/Red Gram),Dumka,2016-05-17,6200.0,0.0,36.0,clear
+219,Lentil(Masur),Dumka,2016-05-17,6800.0,0.0,36.0,clear
+220,Arhar (Tur/Red Gram),Dumka,2016-05-19,6200.0,0.0,34.6,clear
+221,Lentil(Masur),Dumka,2016-05-19,6800.0,0.0,34.6,clear
+222,Arhar (Tur/Red Gram),Dumka,2016-05-24,6200.0,0.0,33.6,clear
+223,Lentil(Masur),Dumka,2016-05-24,6800.0,0.0,33.6,clear
+224,Arhar (Tur/Red Gram),Dumka,2016-05-25,6200.0,0.0,36.6,rain
+225,Lentil(Masur),Dumka,2016-05-25,6800.0,0.0,36.6,rain
+226,Arhar (Tur/Red Gram),Dumka,2016-05-26,6200.0,0.0,35.8,clear
+227,Lentil(Masur),Dumka,2016-05-26,6800.0,0.0,35.8,clear
+228,Arhar (Tur/Red Gram),Dumka,2016-05-27,6200.0,0.0,34.6,clear
+229,Lentil(Masur),Dumka,2016-05-27,6800.0,0.0,34.6,clear
+230,Arhar (Tur/Red Gram),Dumka,2016-05-28,6200.0,0.0,34.4,clear
+231,Lentil(Masur),Dumka,2016-05-28,6800.0,0.0,34.4,clear
+232,Arhar (Tur/Red Gram),Dumka,2016-05-29,6200.0,0.0,34.0,clear
+233,Lentil(Masur),Dumka,2016-05-29,6800.0,0.0,34.0,clear
+234,Arhar (Tur/Red Gram),Dumka,2016-05-31,6200.0,0.0,36.0,rain
+235,Lentil(Masur),Dumka,2016-05-31,6800.0,0.0,36.0,rain
+236,Arhar (Tur/Red Gram),Dumka,2016-02-06,6200.0,0.0,26.6,clear
+237,Lentil(Masur),Dumka,2016-02-06,6800.0,0.0,26.6,clear
+238,Arhar (Tur/Red Gram),Dumka,2016-06-06,6200.0,0.0,35.0,clear
+239,Lentil(Masur),Dumka,2016-06-06,6800.0,0.0,35.0,clear
+240,Arhar (Tur/Red Gram),Dumka,2016-07-06,6200.0,0.0,32.4,rain
+241,Lentil(Masur),Dumka,2016-07-06,6800.0,0.0,32.4,rain
+242,Arhar (Tur/Red Gram),Dumka,2016-08-06,6200.0,0.0,29.4,clear
+243,Lentil(Masur),Dumka,2016-08-06,6800.0,0.0,29.4,clear
+244,Arhar (Tur/Red Gram),Dumka,2016-11-06,6200.0,0.0,31.2,clear
+245,Lentil(Masur),Dumka,2016-11-06,6800.0,0.0,31.2,clear
+246,Arhar (Tur/Red Gram),Dumka,2016-12-06,6200.0,0.0,29.0,clear
+247,Lentil(Masur),Dumka,2016-12-06,6800.0,0.0,29.0,clear
+248,Arhar (Tur/Red Gram),Dumka,2016-06-13,6200.0,0.0,39.4,clear
+249,Lentil(Masur),Dumka,2016-06-13,6800.0,0.0,39.4,clear
+250,Arhar (Tur/Red Gram),Dumka,2016-06-14,6200.0,0.0,32.4,clear
+251,Lentil(Masur),Dumka,2016-06-14,6800.0,0.0,32.4,clear
+252,Arhar (Tur/Red Gram),Dumka,2016-06-15,6200.0,0.0,35.4,clear
+253,Lentil(Masur),Dumka,2016-06-15,6800.0,0.0,35.4,clear
+254,Arhar (Tur/Red Gram),Dumka,2016-06-16,6200.0,0.0,32.8,clear
+255,Lentil(Masur),Dumka,2016-06-16,6800.0,0.0,32.8,clear
+256,Arhar (Tur/Red Gram),Dumka,2016-06-17,6200.0,0.0,31.6,rain
+257,Lentil(Masur),Dumka,2016-06-17,6800.0,0.0,31.6,rain
+258,Arhar (Tur/Red Gram),Dumka,2016-06-18,6200.0,0.0,31.6,clear
+259,Lentil(Masur),Dumka,2016-06-18,6800.0,0.0,31.6,clear
+260,Arhar (Tur/Red Gram),Dumka,2016-06-19,6200.0,0.0,33.0,clear
+261,Lentil(Masur),Dumka,2016-06-19,6800.0,0.0,33.0,clear
+262,Arhar (Tur/Red Gram),Dumka,2016-06-21,6200.0,0.0,35.2,clear
+263,Lentil(Masur),Dumka,2016-06-21,6800.0,0.0,35.2,clear
+264,Arhar (Tur/Red Gram),Dumka,2016-06-22,6200.0,0.0,35.2,clear
+265,Lentil(Masur),Dumka,2016-06-22,6800.0,0.0,35.2,clear
+266,Arhar (Tur/Red Gram),Dumka,2016-06-07,7000.0,0.0,36.2,clear
+267,Lentil(Masur),Dumka,2016-06-07,6800.0,0.0,36.2,clear
+268,Arhar (Tur/Red Gram),Dumka,2016-09-07,7000.0,0.0,30.0,clear
+269,Lentil(Masur),Dumka,2016-09-07,6800.0,0.0,30.0,clear
+270,Arhar (Tur/Red Gram),Dumka,2016-10-07,7000.0,0.0,32.0,clear
+271,Lentil(Masur),Dumka,2016-10-07,6800.0,0.0,32.0,clear
+272,Arhar (Tur/Red Gram),Dumka,2016-07-13,7000.0,0.0,34.4,clear
+273,Lentil(Masur),Dumka,2016-07-13,6800.0,0.0,34.4,clear
+274,Arhar (Tur/Red Gram),Dumka,2016-07-14,7000.0,0.0,35.0,clear
+275,Lentil(Masur),Dumka,2016-07-14,6800.0,0.0,35.0,clear
+276,Arhar (Tur/Red Gram),Dumka,2016-07-15,7000.0,0.0,33.0,clear
+277,Lentil(Masur),Dumka,2016-07-15,6800.0,0.0,33.0,clear
+278,Arhar (Tur/Red Gram),Dumka,2016-07-16,7000.0,0.0,31.4,clear
+279,Lentil(Masur),Dumka,2016-07-16,6800.0,0.0,31.4,clear
+280,Arhar (Tur/Red Gram),Dumka,2016-07-17,7000.0,0.0,30.8,clear
+281,Lentil(Masur),Dumka,2016-07-17,6800.0,0.0,30.8,clear
+282,Arhar (Tur/Red Gram),Dumka,2016-07-18,7000.0,0.0,31.2,clear
+283,Lentil(Masur),Dumka,2016-07-18,6800.0,0.0,31.2,clear
+284,Arhar (Tur/Red Gram),Dumka,2016-07-23,7000.0,0.0,31.8,clear
+285,Lentil(Masur),Dumka,2016-07-23,6800.0,0.0,31.8,clear
+286,Arhar (Tur/Red Gram),Dumka,2016-07-24,7000.0,0.0,32.6,clear
+287,Lentil(Masur),Dumka,2016-07-24,6800.0,0.0,32.6,clear
+288,Arhar (Tur/Red Gram),Dumka,2016-07-25,7000.0,0.0,31.2,rain
+289,Lentil(Masur),Dumka,2016-07-25,6800.0,0.0,31.2,rain
+290,Arhar (Tur/Red Gram),Dumka,2016-07-30,7000.0,0.0,33.0,clear
+291,Lentil(Masur),Dumka,2016-07-30,6800.0,0.0,33.0,clear
+292,Arhar (Tur/Red Gram),Dumka,2016-01-08,7000.0,0.0,29.4,clear
+293,Lentil(Masur),Dumka,2016-01-08,6800.0,0.0,29.4,clear
+294,Arhar (Tur/Red Gram),Dumka,2016-02-08,7000.0,0.0,28.8,clear
+295,Lentil(Masur),Dumka,2016-02-08,6800.0,0.0,28.8,clear
+296,Arhar (Tur/Red Gram),Dumka,2016-03-08,7000.0,0.0,33.0,clear
+297,Lentil(Masur),Dumka,2016-03-08,6800.0,0.0,33.0,clear
+298,Arhar (Tur/Red Gram),Dumka,2016-05-08,7000.0,0.0,36.2,clear
+299,Lentil(Masur),Dumka,2016-05-08,6800.0,0.0,36.2,clear
+300,Arhar (Tur/Red Gram),Dumka,2016-06-08,7000.0,0.0,36.0,clear
+301,Lentil(Masur),Dumka,2016-06-08,6800.0,0.0,36.0,clear
+302,Arhar (Tur/Red Gram),Dumka,2016-08-08,7000.0,0.0,33.0,clear
+303,Lentil(Masur),Dumka,2016-08-08,6800.0,0.0,33.0,clear
+304,Arhar (Tur/Red Gram),Dumka,2016-12-08,7000.0,0.0,29.4,clear
+305,Lentil(Masur),Dumka,2016-12-08,6800.0,0.0,29.4,clear
+306,Arhar (Tur/Red Gram),Dumka,2016-09-14,7000.0,0.0,31.8,clear
+307,Lentil(Masur),Dumka,2016-09-14,6800.0,0.0,31.8,clear
+308,Arhar (Tur/Red Gram),Dumka,2016-09-15,7000.0,0.0,33.6,clear
+309,Lentil(Masur),Dumka,2016-09-15,6800.0,0.0,33.6,clear
+310,Arhar (Tur/Red Gram),Dumka,2016-09-16,7000.0,0.0,34.4,clear
+311,Lentil(Masur),Dumka,2016-09-16,6800.0,0.0,34.4,clear
+312,Arhar (Tur/Red Gram),Dumka,2016-09-18,7000.0,0.0,33.4,clear
+313,Lentil(Masur),Dumka,2016-09-18,6800.0,0.0,33.4,clear
+314,Arhar (Tur/Red Gram),Dumka,2016-09-19,7000.0,0.0,33.8,clear
+315,Lentil(Masur),Dumka,2016-09-19,6800.0,0.0,33.8,clear
+316,Arhar (Tur/Red Gram),Dumka,2016-09-20,7000.0,0.0,34.0,clear
+317,Lentil(Masur),Dumka,2016-09-20,6800.0,0.0,34.0,clear
+318,Arhar (Tur/Red Gram),Dumka,2016-09-21,7000.0,0.0,32.0,rain
+319,Lentil(Masur),Dumka,2016-09-21,6800.0,0.0,32.0,rain
+320,Arhar (Tur/Red Gram),Dumka,2016-09-22,7000.0,0.0,32.0,rain
+321,Lentil(Masur),Dumka,2016-09-22,6800.0,0.0,32.0,rain
+322,Arhar (Tur/Red Gram),Dumka,2016-09-23,7000.0,0.0,32.8,clear
+323,Lentil(Masur),Dumka,2016-09-23,6800.0,0.0,32.8,clear
+324,Arhar (Tur/Red Gram),Dumka,2016-09-24,7000.0,0.0,30.6,rain
+325,Lentil(Masur),Dumka,2016-09-24,6800.0,0.0,30.6,rain
+326,Arhar (Tur/Red Gram),Dumka,2016-09-25,7000.0,0.0,32.8,clear
+327,Lentil(Masur),Dumka,2016-09-25,6800.0,0.0,32.8,clear
+328,Arhar (Tur/Red Gram),Dumka,2016-04-10,7000.0,0.0,42.6,clear
+329,Lentil(Masur),Dumka,2016-04-10,6800.0,0.0,42.6,clear
+330,Arhar (Tur/Red Gram),Dumka,2016-05-10,7000.0,0.0,37.6,clear
+331,Lentil(Masur),Dumka,2016-05-10,6800.0,0.0,37.6,clear
+332,Arhar (Tur/Red Gram),Dumka,2016-06-10,7000.0,0.0,37.0,clear
+333,Lentil(Masur),Dumka,2016-06-10,6800.0,0.0,37.0,clear
+334,Arhar (Tur/Red Gram),Dumka,2016-07-10,7000.0,0.0,32.2,clear
+335,Lentil(Masur),Dumka,2016-07-10,6800.0,0.0,32.2,clear
+336,Arhar (Tur/Red Gram),Dumka,2016-08-10,7000.0,0.0,28.0,rain
+337,Lentil(Masur),Dumka,2016-08-10,6800.0,0.0,28.0,rain
+338,Arhar (Tur/Red Gram),Dumka,2016-09-10,7000.0,0.0,34.0,clear
+339,Lentil(Masur),Dumka,2016-09-10,6800.0,0.0,34.0,clear
+340,Arhar (Tur/Red Gram),Dumka,2016-10-10,7000.0,0.0,32.4,clear
+341,Lentil(Masur),Dumka,2016-10-10,6800.0,0.0,32.4,clear
+342,Arhar (Tur/Red Gram),Dumka,2016-11-10,7000.0,0.0,29.6,clear
+343,Lentil(Masur),Dumka,2016-11-10,6800.0,0.0,29.6,clear
+344,Arhar (Tur/Red Gram),Dumka,2016-10-18,7000.0,0.0,34.0,clear
+345,Lentil(Masur),Dumka,2016-10-18,6800.0,0.0,34.0,clear
+346,Arhar (Tur/Red Gram),Dumka,2016-10-19,7000.0,0.0,34.2,clear
+347,Lentil(Masur),Dumka,2016-10-19,6800.0,0.0,34.2,clear
+348,Arhar (Tur/Red Gram),Dumka,2016-10-20,7000.0,0.0,32.8,clear
+349,Lentil(Masur),Dumka,2016-10-20,6800.0,0.0,32.8,clear
+350,Arhar (Tur/Red Gram),Dumka,2016-10-21,7000.0,0.0,32.6,clear
+351,Lentil(Masur),Dumka,2016-10-21,6800.0,0.0,32.6,clear
+352,Arhar (Tur/Red Gram),Dumka,2016-10-22,7000.0,0.0,33.2,clear
+353,Lentil(Masur),Dumka,2016-10-22,6800.0,0.0,33.2,clear
+354,Arhar (Tur/Red Gram),Dumka,2016-10-23,7000.0,0.0,33.0,clear
+355,Lentil(Masur),Dumka,2016-10-23,6800.0,0.0,33.0,clear
+356,Arhar (Tur/Red Gram),Dumka,2016-10-24,7000.0,0.0,33.0,clear
+357,Lentil(Masur),Dumka,2016-10-24,6800.0,0.0,33.0,clear
+358,Arhar (Tur/Red Gram),Dumka,2016-10-25,7000.0,0.0,33.2,clear
+359,Lentil(Masur),Dumka,2016-10-25,6800.0,0.0,33.2,clear
+360,Arhar (Tur/Red Gram),Dumka,2016-10-26,7000.0,0.0,32.8,clear
+361,Lentil(Masur),Dumka,2016-10-26,6800.0,0.0,32.8,clear
+362,Arhar (Tur/Red Gram),Dumka,2016-10-27,7000.0,0.0,29.0,clear
+363,Lentil(Masur),Dumka,2016-10-27,6800.0,0.0,29.0,clear
+364,Arhar (Tur/Red Gram),Dumka,2016-10-28,7000.0,0.0,31.6,clear
+365,Lentil(Masur),Dumka,2016-10-28,6800.0,0.0,31.6,clear
+366,Arhar (Tur/Red Gram),Dumka,2016-10-29,7000.0,0.0,32.2,clear
+367,Lentil(Masur),Dumka,2016-10-29,6800.0,0.0,32.2,clear
+368,Arhar (Tur/Red Gram),Dumka,2016-10-31,7000.0,0.0,32.0,clear
+369,Lentil(Masur),Dumka,2016-10-31,6800.0,0.0,32.0,clear
+370,Arhar (Tur/Red Gram),Dumka,2016-01-11,7000.0,0.0,25.0,clear
+371,Lentil(Masur),Dumka,2016-01-11,6800.0,0.0,25.0,clear
+372,Arhar (Tur/Red Gram),Dumka,2016-02-11,7000.0,0.0,25.2,clear
+373,Lentil(Masur),Dumka,2016-02-11,6800.0,0.0,25.2,clear
+374,Arhar (Tur/Red Gram),Dumka,2016-03-11,7000.0,0.0,36.0,clear
+375,Lentil(Masur),Dumka,2016-03-11,6800.0,0.0,36.0,clear
+376,Arhar (Tur/Red Gram),Dumka,2016-04-11,7000.0,0.0,43.4,clear
+377,Lentil(Masur),Dumka,2016-04-11,6800.0,0.0,43.4,clear
+378,Arhar (Tur/Red Gram),Dumka,2016-05-11,7000.0,0.0,37.0,clear
+379,Lentil(Masur),Dumka,2016-05-11,6800.0,0.0,37.0,clear
+380,Arhar (Tur/Red Gram),Dumka,2016-06-11,7000.0,0.0,36.8,clear
+381,Lentil(Masur),Dumka,2016-06-11,6800.0,0.0,36.8,clear
+382,Arhar (Tur/Red Gram),Dumka,2016-07-11,7000.0,0.0,32.2,clear
+383,Lentil(Masur),Dumka,2016-07-11,6800.0,0.0,32.2,clear
+384,Arhar (Tur/Red Gram),Dumka,2016-08-11,7000.0,0.0,27.8,clear
+385,Lentil(Masur),Dumka,2016-08-11,6800.0,0.0,27.8,clear
+386,Arhar (Tur/Red Gram),Dumka,2016-09-11,7000.0,0.0,34.0,clear
+387,Lentil(Masur),Dumka,2016-09-11,6800.0,0.0,34.0,clear
+388,Arhar (Tur/Red Gram),Dumka,2016-10-11,7000.0,0.0,32.4,clear
+389,Lentil(Masur),Dumka,2016-10-11,6800.0,0.0,32.4,clear
+390,Arhar (Tur/Red Gram),Dumka,2016-11-11,7000.0,0.0,31.4,clear
+391,Lentil(Masur),Dumka,2016-11-11,6800.0,0.0,31.4,clear
+392,Arhar (Tur/Red Gram),Dumka,2016-12-11,7000.0,0.0,26.8,clear
+393,Lentil(Masur),Dumka,2016-12-11,6800.0,0.0,26.8,clear
+394,Arhar (Tur/Red Gram),Dumka,2016-11-13,7000.0,0.0,31.4,clear
+395,Lentil(Masur),Dumka,2016-11-13,6800.0,0.0,31.4,clear
+396,Arhar (Tur/Red Gram),Dumka,2016-11-14,7000.0,0.0,31.4,clear
+397,Lentil(Masur),Dumka,2016-11-14,6800.0,0.0,31.4,clear
+398,Arhar (Tur/Red Gram),Dumka,2016-11-15,7000.0,0.0,30.6,clear
+399,Lentil(Masur),Dumka,2016-11-15,6800.0,0.0,30.6,clear
+400,Arhar (Tur/Red Gram),Dumka,2016-11-16,7000.0,0.0,30.0,clear
+401,Lentil(Masur),Dumka,2016-11-16,6800.0,0.0,30.0,clear
+402,Arhar (Tur/Red Gram),Dumka,2016-11-17,7000.0,0.0,29.8,clear
+403,Lentil(Masur),Dumka,2016-11-17,6800.0,0.0,29.8,clear
+404,Arhar (Tur/Red Gram),Dumka,2016-11-18,7000.0,0.0,30.6,clear
+405,Lentil(Masur),Dumka,2016-11-18,6800.0,0.0,30.6,clear
+406,Arhar (Tur/Red Gram),Dumka,2016-11-19,7000.0,0.0,30.2,clear
+407,Lentil(Masur),Dumka,2016-11-19,6800.0,0.0,30.2,clear
+408,Arhar (Tur/Red Gram),Dumka,2016-11-21,7000.0,0.0,29.0,clear
+409,Lentil(Masur),Dumka,2016-11-21,6800.0,0.0,29.0,clear
+410,Arhar (Tur/Red Gram),Dumka,2016-11-22,7000.0,0.0,28.6,clear
+411,Lentil(Masur),Dumka,2016-11-22,6800.0,0.0,28.6,clear
+412,Arhar (Tur/Red Gram),Dumka,2016-11-23,7000.0,0.0,28.8,clear
+413,Lentil(Masur),Dumka,2016-11-23,6800.0,0.0,28.8,clear
+414,Arhar (Tur/Red Gram),Dumka,2016-11-24,7000.0,0.0,29.0,clear
+415,Lentil(Masur),Dumka,2016-11-24,6800.0,0.0,29.0,clear
+416,Arhar (Tur/Red Gram),Dumka,2016-11-25,7000.0,0.0,29.0,clear
+417,Lentil(Masur),Dumka,2016-11-25,6800.0,0.0,29.0,clear
+418,Arhar (Tur/Red Gram),Dumka,2016-11-26,7000.0,0.0,29.2,clear
+419,Lentil(Masur),Dumka,2016-11-26,6800.0,0.0,29.2,clear
+420,Arhar (Tur/Red Gram),Dumka,2016-11-27,7000.0,0.0,28.0,clear
+421,Lentil(Masur),Dumka,2016-11-27,6800.0,0.0,28.0,clear
+422,Arhar (Tur/Red Gram),Dumka,2016-11-28,7000.0,0.0,27.0,clear
+423,Lentil(Masur),Dumka,2016-11-28,6800.0,0.0,27.0,clear
+424,Arhar (Tur/Red Gram),Dumka,2016-11-29,7000.0,0.0,29.0,clear
+425,Lentil(Masur),Dumka,2016-11-29,6800.0,0.0,29.0,clear
+426,Arhar (Tur/Red Gram),Dumka,2016-11-30,7000.0,0.0,29.8,clear
+427,Lentil(Masur),Dumka,2016-11-30,6800.0,0.0,29.8,clear
+428,Arhar (Tur/Red Gram),Dumka,2016-04-12,7000.0,0.0,41.8,clear
+429,Lentil(Masur),Dumka,2016-04-12,6800.0,0.0,41.8,clear
+430,Arhar (Tur/Red Gram),Dumka,2016-05-12,7000.0,0.0,38.0,clear
+431,Lentil(Masur),Dumka,2016-05-12,6800.0,0.0,38.0,clear
+432,Arhar (Tur/Red Gram),Dumka,2016-06-12,7000.0,0.0,36.4,clear
+433,Lentil(Masur),Dumka,2016-06-12,6800.0,0.0,36.4,clear
+434,Arhar (Tur/Red Gram),Dumka,2016-07-12,7000.0,0.0,31.8,clear
+435,Lentil(Masur),Dumka,2016-07-12,6800.0,0.0,31.8,clear
+436,Arhar (Tur/Red Gram),Dumka,2016-08-12,7000.0,0.0,33.2,clear
+437,Lentil(Masur),Dumka,2016-08-12,6800.0,0.0,33.2,clear
+438,Arhar (Tur/Red Gram),Dumka,2016-09-12,7000.0,0.0,32.4,clear
+439,Lentil(Masur),Dumka,2016-09-12,6800.0,0.0,32.4,clear
+440,Arhar (Tur/Red Gram),Dumka,2016-10-12,7000.0,0.0,32.6,clear
+441,Lentil(Masur),Dumka,2016-10-12,6800.0,0.0,32.6,clear
+442,Arhar (Tur/Red Gram),Dumka,2016-11-12,7000.0,0.0,31.6,clear
+443,Lentil(Masur),Dumka,2016-11-12,6800.0,0.0,31.6,clear
+444,Arhar (Tur/Red Gram),Dumka,2016-12-12,7000.0,0.0,27.0,clear
+445,Lentil(Masur),Dumka,2016-12-12,6800.0,0.0,27.0,clear
+446,Arhar (Tur/Red Gram),Dumka,2016-12-13,7000.0,0.0,25.0,clear
+447,Lentil(Masur),Dumka,2016-12-13,6800.0,0.0,25.0,clear
+448,Arhar (Tur/Red Gram),Dumka,2016-12-14,7000.0,0.0,24.4,clear
+449,Lentil(Masur),Dumka,2016-12-14,6800.0,0.0,24.4,clear
+450,Arhar (Tur/Red Gram),Dumka,2016-12-15,7000.0,0.0,25.6,clear
+451,Lentil(Masur),Dumka,2016-12-15,6800.0,0.0,25.6,clear
+452,Arhar (Tur/Red Gram),Dumka,2016-12-16,7000.0,0.0,26.6,clear
+453,Lentil(Masur),Dumka,2016-12-16,6800.0,0.0,26.6,clear
+454,Arhar (Tur/Red Gram),Dumka,2016-12-17,7000.0,0.0,27.0,clear
+455,Lentil(Masur),Dumka,2016-12-17,6800.0,0.0,27.0,clear
+456,Arhar (Tur/Red Gram),Dumka,2016-12-18,7000.0,0.0,27.0,clear
+457,Lentil(Masur),Dumka,2016-12-18,6800.0,0.0,27.0,clear
+458,Arhar (Tur/Red Gram),Dumka,2016-12-19,7000.0,0.0,27.2,clear
+459,Lentil(Masur),Dumka,2016-12-19,6800.0,0.0,27.2,clear
+460,Arhar (Tur/Red Gram),Dumka,2016-12-20,7000.0,0.0,25.8,clear
+461,Lentil(Masur),Dumka,2016-12-20,6800.0,0.0,25.8,clear
+462,Arhar (Tur/Red Gram),Dumka,2016-12-21,7000.0,0.0,26.0,clear
+463,Lentil(Masur),Dumka,2016-12-21,6800.0,0.0,26.0,clear
+464,Arhar (Tur/Red Gram),Dumka,2016-12-22,7000.0,0.0,25.8,clear
+465,Lentil(Masur),Dumka,2016-12-22,6800.0,0.0,25.8,clear
+466,Arhar (Tur/Red Gram),Dumka,2016-12-23,7000.0,0.0,27.2,clear
+467,Lentil(Masur),Dumka,2016-12-23,6800.0,0.0,27.2,clear
+468,Arhar (Tur/Red Gram),Dumka,2016-12-24,7000.0,0.0,27.4,clear
+469,Lentil(Masur),Dumka,2016-12-24,6800.0,0.0,27.4,clear
+470,Arhar (Tur/Red Gram),Dumka,2016-12-25,7000.0,0.0,28.0,clear
+471,Lentil(Masur),Dumka,2016-12-25,6800.0,0.0,28.0,clear
+472,Arhar (Tur/Red Gram),Dumka,2016-12-26,7000.0,0.0,29.0,clear
+473,Lentil(Masur),Dumka,2016-12-26,6800.0,0.0,29.0,clear
+474,Arhar (Tur/Red Gram),Dumka,2016-12-27,7000.0,0.0,25.2,clear
+475,Lentil(Masur),Dumka,2016-12-27,6800.0,0.0,25.2,clear
+476,Arhar (Tur/Red Gram),Dumka,2016-12-28,7000.0,0.0,24.2,clear
+477,Lentil(Masur),Dumka,2016-12-28,6800.0,0.0,24.2,clear
+478,Arhar (Tur/Red Gram),Dumka,2016-12-29,7000.0,0.0,26.0,clear
+479,Lentil(Masur),Dumka,2016-12-29,6800.0,0.0,26.0,clear
+480,Arhar (Tur/Red Gram),Dumka,2016-12-30,7000.0,0.0,26.6,clear
+481,Lentil(Masur),Dumka,2016-12-30,6800.0,0.0,26.6,clear
+482,Arhar (Tur/Red Gram),Dumka,2016-12-31,7000.0,0.0,26.0,clear
+483,Lentil(Masur),Dumka,2016-12-31,6800.0,0.0,26.0,clear
+484,Lentil(Masur),Dumka,2016-01-30,6800.0,0.0,26.4,clear
+485,Lentil(Masur),Dumka,2016-05-14,6800.0,0.0,36.4,clear
+486,Lentil(Masur),Dumka,2016-05-18,6800.0,0.0,35.2,clear
+487,Arhar (Tur/Red Gram),Dumka,2017-01-01,7000.0,0.0,26.0,clear
+488,Lentil(Masur),Dumka,2017-01-01,6800.0,0.0,26.0,clear
+489,Arhar (Tur/Red Gram),Dumka,2017-02-01,7000.0,0.0,26.6,clear
+490,Lentil(Masur),Dumka,2017-02-01,6800.0,0.0,26.6,clear
+491,Arhar (Tur/Red Gram),Dumka,2017-03-01,7000.0,0.0,32.4,clear
+492,Lentil(Masur),Dumka,2017-03-01,6800.0,0.0,32.4,clear
+493,Arhar (Tur/Red Gram),Dumka,2017-04-01,7000.0,0.0,36.8,clear
+494,Lentil(Masur),Dumka,2017-04-01,6800.0,0.0,36.8,clear
+495,Arhar (Tur/Red Gram),Dumka,2017-05-01,7000.0,0.0,31.6,clear
+496,Lentil(Masur),Dumka,2017-05-01,6800.0,0.0,31.6,clear
+497,Arhar (Tur/Red Gram),Dumka,2017-06-01,7000.0,0.0,37.0,rain
+498,Lentil(Masur),Dumka,2017-06-01,6800.0,0.0,37.0,rain
+499,Arhar (Tur/Red Gram),Dumka,2017-07-01,7000.0,0.0,32.4,clear
+500,Lentil(Masur),Dumka,2017-07-01,6800.0,0.0,32.4,clear
+501,Arhar (Tur/Red Gram),Dumka,2017-08-01,7000.0,0.0,34.6,clear
+502,Lentil(Masur),Dumka,2017-08-01,6800.0,0.0,34.6,clear
+503,Arhar (Tur/Red Gram),Dumka,2017-09-01,7000.0,0.0,29.8,rain
+504,Lentil(Masur),Dumka,2017-09-01,6800.0,0.0,29.8,rain
+505,Arhar (Tur/Red Gram),Dumka,2017-10-01,7000.0,0.0,32.2,clear
+506,Lentil(Masur),Dumka,2017-10-01,6800.0,0.0,32.2,clear
+507,Arhar (Tur/Red Gram),Dumka,2017-11-01,7000.0,0.0,28.8,clear
+508,Lentil(Masur),Dumka,2017-11-01,6800.0,0.0,28.8,clear
+509,Arhar (Tur/Red Gram),Dumka,2017-12-01,7000.0,0.0,27.6,clear
+510,Lentil(Masur),Dumka,2017-12-01,6800.0,0.0,27.6,clear
+511,Arhar (Tur/Red Gram),Dumka,2017-01-13,7000.0,0.0,22.6,clear
+512,Lentil(Masur),Dumka,2017-01-13,6800.0,0.0,22.6,clear
+513,Arhar (Tur/Red Gram),Dumka,2017-01-14,7000.0,0.0,22.0,clear
+514,Lentil(Masur),Dumka,2017-01-14,6800.0,0.0,22.0,clear
+515,Arhar (Tur/Red Gram),Dumka,2017-01-15,7000.0,0.0,23.2,clear
+516,Lentil(Masur),Dumka,2017-01-15,6800.0,0.0,23.2,clear
+517,Arhar (Tur/Red Gram),Dumka,2017-01-16,7000.0,0.0,23.6,clear
+518,Lentil(Masur),Dumka,2017-01-16,6800.0,0.0,23.6,clear
+519,Arhar (Tur/Red Gram),Dumka,2017-01-17,7000.0,0.0,27.0,clear
+520,Lentil(Masur),Dumka,2017-01-17,6800.0,0.0,27.0,clear
+521,Arhar (Tur/Red Gram),Dumka,2017-01-18,7000.0,0.0,27.2,clear
+522,Lentil(Masur),Dumka,2017-01-18,6800.0,0.0,27.2,clear
+523,Arhar (Tur/Red Gram),Dumka,2017-01-19,7000.0,0.0,27.4,clear
+524,Lentil(Masur),Dumka,2017-01-19,6800.0,0.0,27.4,clear
+525,Arhar (Tur/Red Gram),Dumka,2017-01-20,7000.0,0.0,27.8,clear
+526,Lentil(Masur),Dumka,2017-01-20,6800.0,0.0,27.8,clear
+527,Arhar (Tur/Red Gram),Dumka,2017-01-21,7000.0,0.0,27.0,clear
+528,Lentil(Masur),Dumka,2017-01-21,6800.0,0.0,27.0,clear
+529,Arhar (Tur/Red Gram),Dumka,2017-01-22,7000.0,0.0,27.4,clear
+530,Lentil(Masur),Dumka,2017-01-22,6800.0,0.0,27.4,clear
+531,Arhar (Tur/Red Gram),Dumka,2017-01-23,7000.0,0.0,27.8,clear
+532,Lentil(Masur),Dumka,2017-01-23,6800.0,0.0,27.8,clear
+533,Arhar (Tur/Red Gram),Dumka,2017-01-24,7000.0,0.0,28.0,clear
+534,Lentil(Masur),Dumka,2017-01-24,6800.0,0.0,28.0,clear
+535,Arhar (Tur/Red Gram),Dumka,2017-01-25,7000.0,0.0,28.2,clear
+536,Lentil(Masur),Dumka,2017-01-25,6800.0,0.0,28.2,clear
+537,Arhar (Tur/Red Gram),Dumka,2017-01-26,7000.0,0.0,27.8,clear
+538,Lentil(Masur),Dumka,2017-01-26,6800.0,0.0,27.8,clear
+539,Arhar (Tur/Red Gram),Dumka,2017-01-27,7000.0,0.0,29.0,clear
+540,Lentil(Masur),Dumka,2017-01-27,6800.0,0.0,29.0,clear
+541,Arhar (Tur/Red Gram),Dumka,2017-01-28,7000.0,0.0,27.0,clear
+542,Lentil(Masur),Dumka,2017-01-28,6800.0,0.0,27.0,clear
+543,Arhar (Tur/Red Gram),Dumka,2017-01-29,7000.0,0.0,26.8,clear
+544,Lentil(Masur),Dumka,2017-01-29,6800.0,0.0,26.8,clear
+545,Arhar (Tur/Red Gram),Dumka,2017-01-30,7000.0,0.0,26.6,clear
+546,Lentil(Masur),Dumka,2017-01-30,6800.0,0.0,26.6,clear
+547,Arhar (Tur/Red Gram),Dumka,2017-01-31,7000.0,0.0,26.0,clear
+548,Lentil(Masur),Dumka,2017-01-31,6800.0,0.0,26.0,clear
+549,Arhar (Tur/Red Gram),Dumka,2017-01-02,7000.0,0.0,26.2,clear
+550,Lentil(Masur),Dumka,2017-01-02,6800.0,0.0,26.2,clear
+551,Arhar (Tur/Red Gram),Dumka,2017-02-02,7000.0,0.0,24.8,clear
+552,Lentil(Masur),Dumka,2017-02-02,6800.0,0.0,24.8,clear
+553,Arhar (Tur/Red Gram),Dumka,2017-03-02,7000.0,0.0,35.8,clear
+554,Lentil(Masur),Dumka,2017-03-02,6800.0,0.0,35.8,clear
+555,Arhar (Tur/Red Gram),Dumka,2017-04-02,7000.0,0.0,38.0,clear
+556,Lentil(Masur),Dumka,2017-04-02,6800.0,0.0,38.0,clear
+557,Arhar (Tur/Red Gram),Dumka,2017-05-02,7000.0,0.0,33.4,clear
+558,Lentil(Masur),Dumka,2017-05-02,9800.0,0.0,33.4,clear
+559,Arhar (Tur/Red Gram),Dumka,2017-06-02,7000.0,0.0,37.2,rain
+560,Lentil(Masur),Dumka,2017-06-02,6800.0,0.0,37.2,rain
+561,Arhar (Tur/Red Gram),Dumka,2017-08-02,7000.0,0.0,34.6,rain
+562,Lentil(Masur),Dumka,2017-08-02,6800.0,0.0,34.6,rain
+563,Arhar (Tur/Red Gram),Dumka,2017-09-02,7000.0,0.0,30.0,rain
+564,Lentil(Masur),Dumka,2017-09-02,6800.0,0.0,30.0,rain
+565,Arhar (Tur/Red Gram),Dumka,2017-10-02,7000.0,0.0,32.2,clear
+566,Lentil(Masur),Dumka,2017-10-02,6800.0,0.0,32.2,clear
+567,Arhar (Tur/Red Gram),Dumka,2017-11-02,7000.0,0.0,29.2,clear
+568,Lentil(Masur),Dumka,2017-11-02,6800.0,0.0,29.2,clear
+569,Arhar (Tur/Red Gram),Dumka,2017-12-02,7000.0,0.0,27.4,clear
+570,Lentil(Masur),Dumka,2017-12-02,6800.0,0.0,27.4,clear
+571,Arhar (Tur/Red Gram),Dumka,2017-02-13,7000.0,0.0,29.8,clear
+572,Lentil(Masur),Dumka,2017-02-13,6800.0,0.0,29.8,clear
+573,Arhar (Tur/Red Gram),Dumka,2017-02-16,7000.0,0.0,27.4,clear
+574,Lentil(Masur),Dumka,2017-02-16,6800.0,0.0,27.4,clear
+575,Arhar (Tur/Red Gram),Dumka,2017-02-17,7000.0,0.0,30.0,clear
+576,Lentil(Masur),Dumka,2017-02-17,6800.0,0.0,30.0,clear
+577,Arhar (Tur/Red Gram),Dumka,2017-03-15,7000.0,0.0,32.2,clear
+578,Lentil(Masur),Dumka,2017-03-15,6800.0,0.0,32.2,clear
+579,Arhar (Tur/Red Gram),Dumka,2017-03-17,7000.0,0.0,33.8,clear
+580,Lentil(Masur),Dumka,2017-03-17,6800.0,0.0,33.8,clear
+581,Arhar (Tur/Red Gram),Dumka,2017-03-18,7000.0,0.0,34.4,clear
+582,Lentil(Masur),Dumka,2017-03-18,6800.0,0.0,34.4,clear
+583,Arhar (Tur/Red Gram),Dumka,2017-03-19,7000.0,0.0,32.2,clear
+584,Lentil(Masur),Dumka,2017-03-19,6800.0,0.0,32.2,clear
+585,Arhar (Tur/Red Gram),Dumka,2017-03-20,7000.0,0.0,29.0,clear
+586,Lentil(Masur),Dumka,2017-03-20,6800.0,0.0,29.0,clear
+587,Arhar (Tur/Red Gram),Dumka,2017-03-21,7000.0,0.0,33.0,clear
+588,Lentil(Masur),Dumka,2017-03-21,6800.0,0.0,33.0,clear
+589,Arhar (Tur/Red Gram),Dumka,2017-03-22,7000.0,0.0,33.6,clear
+590,Lentil(Masur),Dumka,2017-03-22,6800.0,0.0,33.6,clear
+591,Arhar (Tur/Red Gram),Dumka,2017-03-23,7000.0,0.0,34.8,clear
+592,Lentil(Masur),Dumka,2017-03-23,6800.0,0.0,34.8,clear
+593,Arhar (Tur/Red Gram),Dumka,2017-03-24,7000.0,0.0,36.2,clear
+594,Lentil(Masur),Dumka,2017-03-24,6800.0,0.0,36.2,clear
+595,Arhar (Tur/Red Gram),Dumka,2017-03-25,7000.0,0.0,37.6,rain
+596,Lentil(Masur),Dumka,2017-03-25,6800.0,0.0,37.6,rain
+597,Arhar (Tur/Red Gram),Dumka,2017-03-26,7000.0,0.0,34.0,clear
+598,Lentil(Masur),Dumka,2017-03-26,6800.0,0.0,34.0,clear
+599,Arhar (Tur/Red Gram),Dumka,2017-04-17,7000.0,0.0,35.6,clear
+600,Lentil(Masur),Dumka,2017-04-17,6800.0,0.0,35.6,clear
+601,Arhar (Tur/Red Gram),Dumka,2017-04-18,7000.0,0.0,35.8,clear
+602,Lentil(Masur),Dumka,2017-04-18,6800.0,0.0,35.8,clear
+603,Arhar (Tur/Red Gram),Dumka,2017-04-19,7000.0,0.0,37.2,rain
+604,Lentil(Masur),Dumka,2017-04-19,6800.0,0.0,37.2,rain
+605,Arhar (Tur/Red Gram),Dumka,2017-04-20,7000.0,0.0,31.0,clear
+606,Lentil(Masur),Dumka,2017-04-20,6800.0,0.0,31.0,clear
+607,Arhar (Tur/Red Gram),Dumka,2017-04-21,7000.0,0.0,36.6,clear
+608,Lentil(Masur),Dumka,2017-04-21,6800.0,0.0,36.6,clear
+609,Arhar (Tur/Red Gram),Dumka,2017-04-22,7000.0,0.0,32.2,clear
+610,Lentil(Masur),Dumka,2017-04-22,6800.0,0.0,32.2,clear
+611,Arhar (Tur/Red Gram),Dumka,2017-04-23,7000.0,0.0,35.0,clear
+612,Lentil(Masur),Dumka,2017-04-23,6800.0,0.0,35.0,clear
+613,Arhar (Tur/Red Gram),Dumka,2017-04-24,7000.0,0.0,35.6,clear
+614,Lentil(Masur),Dumka,2017-04-24,6800.0,0.0,35.6,clear

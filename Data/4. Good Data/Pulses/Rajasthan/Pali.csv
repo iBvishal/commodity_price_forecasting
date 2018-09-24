@@ -1,0 +1,2715 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Bengal Gram(Gram),Sojat Road,2012-12-12,3001.0,0.1,27.2,clear
+1,Green Gram (Moong),Jaitaran,2012-12-12,5400.0,3.6,27.2,clear
+2,Green Gram (Moong),Rani,2012-12-12,5000.0,3.9,27.2,clear
+3,Green Gram (Moong),Sojat Road,2012-12-12,4299.0,0.1,27.2,clear
+4,Green Gram (Moong),Sumerpur,2012-12-12,5150.0,54.0,27.2,clear
+5,Black Gram (Urd Beans),Sojat Road,2012-01-03,3400.0,0.3,22.8,clear
+6,Green Gram (Moong),Rani,2012-01-03,3500.0,1.8,22.8,clear
+7,Green Gram (Moong),Sumerpur,2012-01-03,3540.0,55.6,22.8,clear
+8,Black Gram (Urd Beans),Sojat Road,2012-05-03,3271.0,17.2,40.0,clear
+9,Green Gram (Moong),Jaitaran,2012-05-03,3250.0,5.1,40.0,clear
+10,Green Gram (Moong),Rani,2012-05-03,3460.0,0.4,40.0,clear
+11,Black Gram (Urd Beans),Sojat Road,2012-09-03,3080.0,0.9,33.0,clear
+12,Black Gram (Urd Beans),Sojat Road,2012-03-13,3300.0,3.6,27.2,clear
+13,Green Gram (Moong),Jaitaran,2012-03-13,3450.0,9.7,27.2,clear
+14,Green Gram (Moong),Rani,2012-03-13,3260.0,0.4,27.2,clear
+15,Black Gram (Urd Beans),Sojat Road,2012-03-15,3071.0,0.3,33.4,clear
+16,Green Gram (Moong),Rani,2012-03-15,3491.0,5.1,33.4,clear
+17,Black Gram (Urd Beans),Sojat Road,2012-03-19,3200.0,0.6,36.8,clear
+18,Green Gram (Moong),Jaitaran,2012-03-19,3150.0,1.7,36.8,clear
+19,Black Gram (Urd Beans),Sojat Road,2012-03-20,3399.0,2.1,30.8,clear
+20,Green Gram (Moong),Rani,2012-03-20,3550.0,10.4,30.8,clear
+21,Black Gram (Urd Beans),Sojat Road,2012-03-21,3345.0,0.4,29.6,clear
+22,Green Gram (Moong),Jaitaran,2012-03-21,3350.0,7.7,29.6,clear
+23,Green Gram (Moong),Rani,2012-03-21,3271.0,0.5,29.6,clear
+24,Black Gram (Urd Beans),Sojat Road,2012-03-23,3372.0,1.0,35.0,clear
+25,Green Gram (Moong),Jaitaran,2012-03-23,3300.0,0.8,35.0,clear
+26,Black Gram (Urd Beans),Sojat Road,2012-03-26,3351.0,0.4,37.0,clear
+27,Green Gram (Moong),Jaitaran,2012-03-26,3550.0,17.4,37.0,clear
+28,Green Gram (Moong),Rani,2012-03-26,3545.0,1.8,37.0,clear
+29,Black Gram (Urd Beans),Sojat Road,2012-02-04,3200.0,2.3,25.2,clear
+30,Green Gram (Moong),Rani,2012-02-04,3226.0,0.5,25.2,clear
+31,Black Gram (Urd Beans),Sojat Road,2012-03-04,3310.0,3.8,33.6,clear
+32,Black Gram (Urd Beans),Sojat Road,2012-07-04,3200.0,5.2,41.8,clear
+33,Green Gram (Moong),Jaitaran,2012-07-04,3350.0,11.4,41.8,clear
+34,Green Gram (Moong),Sojat Road,2012-07-04,3800.0,0.1,41.8,clear
+35,Black Gram (Urd Beans),Sojat Road,2012-09-04,3150.0,0.2,32.8,clear
+36,Green Gram (Moong),Jaitaran,2012-09-04,3500.0,1.2,32.8,clear
+37,Green Gram (Moong),Pali,2012-09-04,3450.0,30.0,32.8,clear
+38,Black Gram (Urd Beans),Sojat Road,2012-10-04,3278.0,1.5,36.0,clear
+39,Green Gram (Moong),Jaitaran,2012-10-04,3800.0,2.6,36.0,clear
+40,Black Gram (Urd Beans),Sojat Road,2012-11-04,3250.0,1.8,31.8,clear
+41,Green Gram (Moong),Rani,2012-11-04,3301.0,0.1,31.8,clear
+42,Black Gram (Urd Beans),Sojat Road,2012-04-13,3194.0,2.6,35.2,rain
+43,Green Gram (Moong),Jaitaran,2012-04-13,3650.0,6.6,35.2,rain
+44,Black Gram (Urd Beans),Sojat Road,2012-04-14,3221.0,2.1,32.0,rain
+45,Green Gram (Moong),Jaitaran,2012-04-14,3600.0,3.2,32.0,rain
+46,Black Gram (Urd Beans),Sojat Road,2012-04-17,3214.0,3.3,36.4,clear
+47,Green Gram (Moong),Jaitaran,2012-04-17,3800.0,1.3,36.4,clear
+48,Black Gram (Urd Beans),Sojat Road,2012-04-30,3250.0,1.5,38.0,clear
+49,Black Gram (Urd Beans),Sojat Road,2012-05-17,3851.0,0.3,39.0,clear
+50,Black Gram (Urd Beans),Sojat Road,2012-05-31,3841.0,0.6,43.4,clear
+51,Black Gram (Urd Beans),Sojat Road,2012-06-16,3690.0,0.2,38.4,clear
+52,Black Gram (Urd Beans),Sojat Road,2012-05-07,3950.0,0.3,39.0,clear
+53,Black Gram (Urd Beans),Sojat Road,2012-12-10,4351.0,0.2,27.8,clear
+54,Green Gram (Moong),Jaitaran,2012-12-10,5601.0,2.0,27.8,clear
+55,Green Gram (Moong),Rani,2012-12-10,5275.0,25.1,27.8,clear
+56,Green Gram (Moong),Sumerpur,2012-12-10,4950.0,73.5,27.8,clear
+57,Black Gram (Urd Beans),Sojat Road,2012-10-29,4361.0,0.8,33.2,clear
+58,Green Gram (Moong),Jaitaran,2012-10-29,5850.0,5.2,33.2,clear
+59,Green Gram (Moong),Pali,2012-10-29,5250.0,20.0,33.2,clear
+60,Green Gram (Moong),Rani,2012-10-29,5162.0,28.5,33.2,clear
+61,Green Gram (Moong),Sojat Road,2012-10-29,5300.0,0.2,33.2,clear
+62,Green Gram (Moong),Sumerpur,2012-10-29,5212.0,124.2,33.2,clear
+63,Green Gram (Moong),Jaitaran,2012-02-01,3612.0,11.6,24.0,clear
+64,Green Gram (Moong),Rani,2012-02-01,3890.0,0.2,24.0,clear
+65,Green Gram (Moong),Sumerpur,2012-02-01,3325.0,93.5,24.0,clear
+66,Green Gram (Moong),Jaitaran,2012-03-01,3485.0,13.3,29.0,clear
+67,Green Gram (Moong),Rani,2012-03-01,3645.0,7.8,29.0,clear
+68,Green Gram (Moong),Sumerpur,2012-03-01,3801.0,83.8,29.0,clear
+69,Green Gram (Moong),Jaitaran,2012-04-01,3445.0,6.3,40.0,clear
+70,Green Gram (Moong),Rani,2012-04-01,3525.0,5.6,40.0,clear
+71,Green Gram (Moong),Jaitaran,2012-06-01,3510.0,11.5,40.8,clear
+72,Green Gram (Moong),Rani,2012-06-01,3515.0,14.8,40.8,clear
+73,Green Gram (Moong),Jaitaran,2012-07-01,3720.0,5.7,41.2,clear
+74,Green Gram (Moong),Rani,2012-07-01,3650.0,2.5,41.2,clear
+75,Green Gram (Moong),Sumerpur,2012-07-01,4010.0,71.3,41.2,clear
+76,Green Gram (Moong),Jaitaran,2012-09-01,3521.0,13.2,34.8,clear
+77,Green Gram (Moong),Rani,2012-09-01,3560.0,9.9,34.8,clear
+78,Green Gram (Moong),Sumerpur,2012-09-01,4081.0,120.1,34.8,clear
+79,Green Gram (Moong),Jaitaran,2012-10-01,3575.0,12.5,36.4,clear
+80,Green Gram (Moong),Rani,2012-10-01,3600.0,7.9,36.4,clear
+81,Green Gram (Moong),Sumerpur,2012-10-01,3800.0,106.0,36.4,clear
+82,Green Gram (Moong),Jaitaran,2012-11-01,3615.0,12.3,31.8,clear
+83,Green Gram (Moong),Rani,2012-11-01,3755.0,2.5,31.8,clear
+84,Green Gram (Moong),Sumerpur,2012-11-01,3821.0,67.2,31.8,clear
+85,Green Gram (Moong),Jaitaran,2012-01-13,3810.0,15.7,25.0,clear
+86,Green Gram (Moong),Rani,2012-01-13,3175.0,1.6,25.0,clear
+87,Green Gram (Moong),Sumerpur,2012-01-13,3751.0,79.5,25.0,clear
+88,Green Gram (Moong),Jaitaran,2012-01-14,3570.0,17.6,26.2,clear
+89,Green Gram (Moong),Rani,2012-01-14,3700.0,3.2,26.2,clear
+90,Green Gram (Moong),Sumerpur,2012-01-14,3761.0,69.1,26.2,clear
+91,Green Gram (Moong),Jaitaran,2012-01-16,3610.0,20.2,22.4,clear
+92,Green Gram (Moong),Rani,2012-01-16,3301.0,9.7,22.4,clear
+93,Green Gram (Moong),Sumerpur,2012-01-16,3775.0,82.5,22.4,clear
+94,Green Gram (Moong),Jaitaran,2012-01-17,3500.0,5.7,20.0,clear
+95,Green Gram (Moong),Rani,2012-01-17,3320.0,5.8,20.0,clear
+96,Green Gram (Moong),Sumerpur,2012-01-17,3950.0,73.8,20.0,clear
+97,Green Gram (Moong),Jaitaran,2012-01-23,3475.0,13.0,23.0,clear
+98,Green Gram (Moong),Sumerpur,2012-01-23,3700.0,50.6,23.0,clear
+99,Green Gram (Moong),Jaitaran,2012-01-24,3450.0,23.7,23.0,clear
+100,Green Gram (Moong),Rani,2012-01-24,3751.0,11.2,23.0,clear
+101,Green Gram (Moong),Sumerpur,2012-01-24,3751.0,73.5,23.0,clear
+102,Green Gram (Moong),Jaitaran,2012-01-25,3500.0,14.8,24.8,clear
+103,Green Gram (Moong),Sumerpur,2012-01-25,3900.0,68.3,24.8,clear
+104,Green Gram (Moong),Jaitaran,2012-01-30,3650.0,23.6,23.8,clear
+105,Green Gram (Moong),Sumerpur,2012-01-30,3580.0,40.6,23.8,clear
+106,Green Gram (Moong),Jaitaran,2012-01-31,3575.0,22.7,23.8,clear
+107,Green Gram (Moong),Rani,2012-01-31,3260.0,0.4,23.8,clear
+108,Green Gram (Moong),Sumerpur,2012-01-31,3601.0,42.7,23.8,clear
+109,Green Gram (Moong),Jaitaran,2012-01-02,3615.0,24.3,21.4,clear
+110,Green Gram (Moong),Rani,2012-01-02,3151.0,0.4,21.4,clear
+111,Green Gram (Moong),Sojat Road,2012-01-02,2800.0,0.1,21.4,clear
+112,Green Gram (Moong),Sumerpur,2012-01-02,3875.0,68.6,21.4,clear
+113,Green Gram (Moong),Jaitaran,2012-02-02,3550.0,24.3,25.2,clear
+114,Green Gram (Moong),Rani,2012-02-02,3075.0,0.4,25.2,clear
+115,Green Gram (Moong),Sumerpur,2012-02-02,3500.0,51.7,25.2,clear
+116,Green Gram (Moong),Jaitaran,2012-03-02,3510.0,24.2,30.6,clear
+117,Green Gram (Moong),Sumerpur,2012-03-02,3850.0,39.1,30.6,clear
+118,Green Gram (Moong),Jaitaran,2012-04-02,3475.0,25.0,39.0,clear
+119,Green Gram (Moong),Rani,2012-04-02,3060.0,6.7,39.0,clear
+120,Green Gram (Moong),Jaitaran,2012-06-02,3490.0,24.4,40.2,clear
+121,Green Gram (Moong),Rani,2012-06-02,3070.0,0.2,40.2,clear
+122,Green Gram (Moong),Jaitaran,2012-07-02,3775.0,12.5,42.0,clear
+123,Green Gram (Moong),Jaitaran,2012-08-02,3512.0,10.0,34.6,clear
+124,Green Gram (Moong),Sumerpur,2012-08-02,3710.0,58.3,34.6,clear
+125,Green Gram (Moong),Jaitaran,2012-11-02,3215.0,9.7,31.4,clear
+126,Green Gram (Moong),Sumerpur,2012-11-02,3850.0,42.7,31.4,clear
+127,Green Gram (Moong),Jaitaran,2012-02-13,3532.0,6.2,23.8,clear
+128,Green Gram (Moong),Rani,2012-02-13,3001.0,1.2,23.8,clear
+129,Green Gram (Moong),Sumerpur,2012-02-13,3750.0,53.8,23.8,clear
+130,Green Gram (Moong),Jaitaran,2012-02-14,3650.0,3.0,24.0,clear
+131,Green Gram (Moong),Sumerpur,2012-02-14,3300.0,110.7,24.0,clear
+132,Green Gram (Moong),Jaitaran,2012-02-15,3485.0,7.9,22.4,clear
+133,Green Gram (Moong),Sumerpur,2012-02-15,3400.0,63.7,22.4,clear
+134,Green Gram (Moong),Jaitaran,2012-02-21,3265.0,0.26,29.4,clear
+135,Green Gram (Moong),Rani,2012-02-21,3200.0,2.2,29.4,clear
+136,Green Gram (Moong),Jaitaran,2012-02-22,3450.0,5.3,28.2,clear
+137,Green Gram (Moong),Rani,2012-02-22,3340.0,4.0,28.2,clear
+138,Green Gram (Moong),Sumerpur,2012-02-22,3920.0,111.5,28.2,clear
+139,Green Gram (Moong),Jaitaran,2012-02-24,2925.0,2.3,24.4,clear
+140,Green Gram (Moong),Sumerpur,2012-02-24,3700.0,45.9,24.4,clear
+141,Green Gram (Moong),Jaitaran,2012-02-27,3350.0,13.1,29.6,clear
+142,Green Gram (Moong),Rani,2012-02-27,3300.0,1.2,29.6,clear
+143,Green Gram (Moong),Sumerpur,2012-02-27,3585.0,55.7,29.6,clear
+144,Green Gram (Moong),Jaitaran,2012-02-28,3100.0,8.0,29.6,clear
+145,Green Gram (Moong),Rani,2012-02-28,3184.0,0.9,29.6,clear
+146,Green Gram (Moong),Sumerpur,2012-02-28,3621.0,76.8,29.6,clear
+147,Green Gram (Moong),Jaitaran,2012-02-29,3218.0,5.9,30.2,clear
+148,Green Gram (Moong),Rani,2012-02-29,3311.0,6.7,30.2,clear
+149,Green Gram (Moong),Sumerpur,2012-02-29,3901.0,560.0,30.2,clear
+150,Green Gram (Moong),Jaitaran,2012-02-03,3412.0,9.6,27.6,clear
+151,Green Gram (Moong),Rani,2012-02-03,3390.0,0.8,27.6,clear
+152,Green Gram (Moong),Sojat Road,2012-02-03,1821.0,0.1,27.6,clear
+153,Green Gram (Moong),Sumerpur,2012-02-03,3450.0,38.8,27.6,clear
+154,Green Gram (Moong),Jaitaran,2012-06-03,3075.0,3.6,39.0,clear
+155,Green Gram (Moong),Rani,2012-06-03,3560.0,1.6,39.0,clear
+156,Green Gram (Moong),Jaitaran,2012-10-03,3350.0,7.2,36.8,clear
+157,Green Gram (Moong),Sumerpur,2012-10-03,3435.0,0.3,36.8,clear
+158,Green Gram (Moong),Jaitaran,2012-12-03,2200.0,0.05,27.4,clear
+159,Green Gram (Moong),Rani,2012-12-03,3380.0,0.1,27.4,clear
+160,Green Gram (Moong),Jaitaran,2012-03-14,2850.0,2.1,31.0,clear
+161,Green Gram (Moong),Jaitaran,2012-03-17,3800.0,8.0,34.8,clear
+162,Green Gram (Moong),Jaitaran,2012-03-24,3250.0,2.2,36.0,clear
+163,Green Gram (Moong),Rani,2012-03-24,3251.0,0.3,36.0,clear
+164,Green Gram (Moong),Jaitaran,2012-03-27,3150.0,2.5,37.0,clear
+165,Green Gram (Moong),Jaitaran,2012-06-04,3800.0,5.4,39.6,clear
+166,Green Gram (Moong),Jaitaran,2012-04-16,3200.0,0.9,37.4,clear
+167,Green Gram (Moong),Jaitaran,2012-04-18,2950.0,7.0,34.4,clear
+168,Green Gram (Moong),Jaitaran,2012-04-20,3250.0,7.7,30.6,clear
+169,Green Gram (Moong),Jaitaran,2012-04-21,4161.0,0.8,34.2,rain
+170,Green Gram (Moong),Rani,2012-04-21,3301.0,0.6,34.2,rain
+171,Green Gram (Moong),Jaitaran,2012-04-23,3450.0,5.7,35.6,clear
+172,Green Gram (Moong),Jaitaran,2012-01-05,3031.0,1.0,24.8,clear
+173,Green Gram (Moong),Jaitaran,2012-03-05,3510.0,10.2,31.0,clear
+174,Green Gram (Moong),Jaitaran,2012-04-05,3200.0,2.5,39.0,clear
+175,Green Gram (Moong),Jaitaran,2012-05-05,3650.0,12.3,41.0,clear
+176,Green Gram (Moong),Rani,2012-05-05,2975.0,0.4,41.0,clear
+177,Green Gram (Moong),Jaitaran,2012-07-05,3375.0,0.6,38.8,clear
+178,Green Gram (Moong),Rani,2012-07-05,2800.0,1.3,38.8,clear
+179,Green Gram (Moong),Jaitaran,2012-08-05,3600.0,6.8,35.4,clear
+180,Green Gram (Moong),Rani,2012-08-05,3500.0,0.7,35.4,clear
+181,Green Gram (Moong),Jaitaran,2012-09-05,3341.0,1.5,34.6,clear
+182,Green Gram (Moong),Pali,2012-09-05,3450.0,30.0,34.6,clear
+183,Green Gram (Moong),Rani,2012-09-05,3636.0,0.6,34.6,clear
+184,Green Gram (Moong),Jaitaran,2012-11-05,3550.0,3.8,31.2,clear
+185,Green Gram (Moong),Rani,2012-11-05,3627.0,0.5,31.2,clear
+186,Green Gram (Moong),Jaitaran,2012-12-05,3500.0,3.0,29.0,clear
+187,Green Gram (Moong),Rani,2012-12-05,3676.0,4.9,29.0,clear
+188,Green Gram (Moong),Jaitaran,2012-05-14,3650.0,0.9,38.6,clear
+189,Green Gram (Moong),Rani,2012-05-14,3800.0,0.1,38.6,clear
+190,Green Gram (Moong),Jaitaran,2012-05-15,3900.0,1.8,40.0,clear
+191,Green Gram (Moong),Rani,2012-05-15,3791.0,0.3,40.0,clear
+192,Green Gram (Moong),Jaitaran,2012-05-16,3600.0,4.1,40.8,clear
+193,Green Gram (Moong),Jaitaran,2012-05-21,3350.0,2.5,41.8,clear
+194,Green Gram (Moong),Rani,2012-05-21,3650.0,1.0,41.8,clear
+195,Green Gram (Moong),Jaitaran,2012-05-25,3500.0,2.5,42.4,clear
+196,Green Gram (Moong),Jaitaran,2012-05-26,3000.0,1.5,39.8,clear
+197,Green Gram (Moong),Jaitaran,2012-05-28,3300.0,0.07,42.6,clear
+198,Green Gram (Moong),Jaitaran,2012-05-30,3000.0,3.7,42.8,clear
+199,Green Gram (Moong),Jaitaran,2012-05-06,3300.0,10.0,40.0,clear
+200,Green Gram (Moong),Jaitaran,2012-06-06,3250.0,10.2,38.0,clear
+201,Green Gram (Moong),Jaitaran,2012-08-06,3375.0,100.0,38.2,rain
+202,Green Gram (Moong),Jaitaran,2012-09-06,2850.0,8.5,33.6,clear
+203,Green Gram (Moong),Jaitaran,2012-11-06,3350.0,13.8,31.6,clear
+204,Green Gram (Moong),Jaitaran,2012-12-06,3275.0,10.1,29.0,clear
+205,Green Gram (Moong),Sumerpur,2012-12-06,3865.0,0.5,29.0,clear
+206,Green Gram (Moong),Jaitaran,2012-06-13,3250.0,25.3,38.0,clear
+207,Green Gram (Moong),Jaitaran,2012-06-15,3250.0,10.0,39.0,rain
+208,Green Gram (Moong),Jaitaran,2012-06-19,3250.0,6.0,40.0,clear
+209,Green Gram (Moong),Rani,2012-06-19,3311.0,0.6,40.0,clear
+210,Green Gram (Moong),Jaitaran,2012-06-25,3250.0,5.0,38.2,clear
+211,Green Gram (Moong),Jaitaran,2012-07-07,3350.0,4.6,36.2,clear
+212,Green Gram (Moong),Rani,2012-07-07,3700.0,0.3,36.2,clear
+213,Green Gram (Moong),Jaitaran,2012-07-14,3600.0,1.5,32.8,clear
+214,Green Gram (Moong),Sumerpur,2012-07-14,4101.0,5.7,32.8,clear
+215,Green Gram (Moong),Jaitaran,2012-07-17,4500.0,5.2,38.0,clear
+216,Green Gram (Moong),Sumerpur,2012-07-17,4695.0,3.1,38.0,clear
+217,Green Gram (Moong),Jaitaran,2012-07-18,4700.0,10.1,37.8,clear
+218,Green Gram (Moong),Sumerpur,2012-07-18,4381.0,5.9,37.8,clear
+219,Green Gram (Moong),Jaitaran,2012-07-20,4525.0,16.5,37.0,clear
+220,Green Gram (Moong),Sumerpur,2012-07-20,5302.0,6.4,37.0,clear
+221,Green Gram (Moong),Jaitaran,2012-07-21,4850.0,29.8,38.2,clear
+222,Green Gram (Moong),Jaitaran,2012-07-23,5100.0,27.8,36.0,clear
+223,Green Gram (Moong),Sumerpur,2012-07-23,5021.0,14.3,36.0,clear
+224,Green Gram (Moong),Jaitaran,2012-07-25,5100.0,0.5,36.0,clear
+225,Green Gram (Moong),Sumerpur,2012-07-25,5201.0,10.8,36.0,clear
+226,Green Gram (Moong),Jaitaran,2012-09-26,4500.0,1.0,32.4,clear
+227,Green Gram (Moong),Rani,2012-09-26,4081.0,3.2,32.4,clear
+228,Green Gram (Moong),Sumerpur,2012-09-26,4040.0,17.1,32.4,clear
+229,Green Gram (Moong),Jaitaran,2012-08-10,5400.0,1.0,34.0,clear
+230,Green Gram (Moong),Rani,2012-08-10,4800.0,9.6,34.0,clear
+231,Green Gram (Moong),Sumerpur,2012-08-10,4700.0,92.4,34.0,clear
+232,Green Gram (Moong),Jaitaran,2012-09-10,5420.0,0.8,33.4,clear
+233,Green Gram (Moong),Rani,2012-09-10,4800.0,11.9,33.4,clear
+234,Green Gram (Moong),Sojat Road,2012-09-10,5250.0,0.2,33.4,clear
+235,Green Gram (Moong),Sumerpur,2012-09-10,4825.0,72.2,33.4,clear
+236,Green Gram (Moong),Jaitaran,2012-10-13,6000.0,2.0,35.0,clear
+237,Green Gram (Moong),Rani,2012-10-13,5000.0,20.9,35.0,clear
+238,Green Gram (Moong),Sumerpur,2012-10-13,4985.0,111.9,35.0,clear
+239,Green Gram (Moong),Jaitaran,2012-10-15,5700.0,4.6,34.8,clear
+240,Green Gram (Moong),Rani,2012-10-15,5300.0,18.6,34.8,clear
+241,Green Gram (Moong),Sumerpur,2012-10-15,5400.0,80.0,34.8,clear
+242,Green Gram (Moong),Jaitaran,2012-10-16,5875.0,22.3,33.4,clear
+243,Green Gram (Moong),Jaitaran,2012-10-17,5975.0,20.07,33.0,clear
+244,Green Gram (Moong),Rani,2012-10-17,5603.0,28.0,33.0,clear
+245,Green Gram (Moong),Sumerpur,2012-10-17,5450.0,117.2,33.0,clear
+246,Green Gram (Moong),Jaitaran,2012-10-18,5950.0,6.6,34.4,clear
+247,Green Gram (Moong),Rani,2012-10-18,5300.0,21.4,34.4,clear
+248,Green Gram (Moong),Sumerpur,2012-10-18,5235.0,105.7,34.4,clear
+249,Green Gram (Moong),Jaitaran,2012-10-19,5850.0,3.0,34.2,clear
+250,Green Gram (Moong),Rani,2012-10-19,5275.0,18.5,34.2,clear
+251,Green Gram (Moong),Sumerpur,2012-10-19,5181.0,113.1,34.2,clear
+252,Green Gram (Moong),Jaitaran,2012-10-23,5500.0,6.5,35.0,clear
+253,Green Gram (Moong),Pali,2012-10-23,5500.0,50.0,35.0,clear
+254,Green Gram (Moong),Rani,2012-10-23,5245.0,14.1,35.0,clear
+255,Green Gram (Moong),Sumerpur,2012-10-23,5200.0,82.8,35.0,clear
+256,Green Gram (Moong),Jaitaran,2012-10-24,6000.0,5.0,32.0,clear
+257,Green Gram (Moong),Sumerpur,2012-10-24,5095.0,65.5,32.0,clear
+258,Green Gram (Moong),Jaitaran,2012-10-26,5600.0,6.3,33.0,clear
+259,Green Gram (Moong),Pali,2012-10-26,3850.0,30.0,33.0,clear
+260,Green Gram (Moong),Sumerpur,2012-10-26,5180.0,128.4,33.0,clear
+261,Green Gram (Moong),Jaitaran,2012-10-30,5700.0,7.2,33.4,clear
+262,Green Gram (Moong),Rani,2012-10-30,5246.0,35.1,33.4,clear
+263,Green Gram (Moong),Sumerpur,2012-10-30,5250.0,126.6,33.4,clear
+264,Green Gram (Moong),Jaitaran,2012-10-31,5750.0,5.0,33.0,clear
+265,Green Gram (Moong),Pali,2012-10-31,5200.0,30.0,33.0,clear
+266,Green Gram (Moong),Rani,2012-10-31,5000.0,30.8,33.0,clear
+267,Green Gram (Moong),Sumerpur,2012-10-31,5360.0,168.6,33.0,clear
+268,Green Gram (Moong),Jaitaran,2012-01-11,5800.0,7.5,20.8,clear
+269,Green Gram (Moong),Pali,2012-01-11,5300.0,10.0,20.8,clear
+270,Green Gram (Moong),Rani,2012-01-11,5141.0,30.0,20.8,clear
+271,Green Gram (Moong),Sojat Road,2012-01-11,5374.0,0.3,20.8,clear
+272,Green Gram (Moong),Sumerpur,2012-01-11,5250.0,134.8,20.8,clear
+273,Green Gram (Moong),Jaitaran,2012-02-11,5650.0,8.5,27.4,clear
+274,Green Gram (Moong),Pali,2012-02-11,5500.0,30.0,27.4,clear
+275,Green Gram (Moong),Sumerpur,2012-02-11,5060.0,105.0,27.4,clear
+276,Green Gram (Moong),Jaitaran,2012-03-11,5500.0,3.9,30.4,clear
+277,Green Gram (Moong),Rani,2012-03-11,5153.0,30.1,30.4,clear
+278,Green Gram (Moong),Sojat Road,2012-03-11,5012.0,3.1,30.4,clear
+279,Green Gram (Moong),Sumerpur,2012-03-11,5150.0,149.7,30.4,clear
+280,Green Gram (Moong),Jaitaran,2012-05-11,5450.0,3.5,39.8,rain
+281,Green Gram (Moong),Rani,2012-05-11,5000.0,14.7,39.8,rain
+282,Green Gram (Moong),Sojat Road,2012-05-11,4941.0,0.5,39.8,rain
+283,Green Gram (Moong),Sumerpur,2012-05-11,4950.0,75.8,39.8,rain
+284,Green Gram (Moong),Jaitaran,2012-06-11,5500.0,15.8,38.6,clear
+285,Green Gram (Moong),Rani,2012-06-11,4931.0,17.3,38.6,clear
+286,Green Gram (Moong),Sojat Road,2012-06-11,5300.0,0.2,38.6,clear
+287,Green Gram (Moong),Sumerpur,2012-06-11,4985.0,65.2,38.6,clear
+288,Green Gram (Moong),Jaitaran,2012-07-11,5300.0,9.1,38.4,clear
+289,Green Gram (Moong),Rani,2012-07-11,5113.0,8.6,38.4,clear
+290,Green Gram (Moong),Sojat Road,2012-07-11,5001.0,0.2,38.4,clear
+291,Green Gram (Moong),Sumerpur,2012-07-11,4990.0,98.2,38.4,clear
+292,Green Gram (Moong),Jaitaran,2012-08-11,5580.0,1.9,31.2,rain
+293,Green Gram (Moong),Pali,2012-08-11,5000.0,20.0,31.2,rain
+294,Green Gram (Moong),Sojat Road,2012-08-11,5000.0,0.2,31.2,rain
+295,Green Gram (Moong),Sumerpur,2012-08-11,5250.0,57.0,31.2,rain
+296,Green Gram (Moong),Jaitaran,2012-09-11,5500.0,3.3,32.8,rain
+297,Green Gram (Moong),Rani,2012-09-11,5450.0,10.0,32.8,rain
+298,Green Gram (Moong),Sumerpur,2012-09-11,5220.0,56.8,32.8,rain
+299,Green Gram (Moong),Jaitaran,2012-10-11,5550.0,4.4,35.2,clear
+300,Green Gram (Moong),Pali,2012-10-11,5000.0,30.0,35.2,clear
+301,Green Gram (Moong),Rani,2012-10-11,5370.0,28.0,35.2,clear
+302,Green Gram (Moong),Sumerpur,2012-10-11,5250.0,72.9,35.2,clear
+303,Green Gram (Moong),Jaitaran,2012-11-16,5375.0,3.8,30.6,clear
+304,Green Gram (Moong),Rani,2012-11-16,5000.0,6.0,30.6,clear
+305,Green Gram (Moong),Jaitaran,2012-11-17,5300.0,6.0,31.0,clear
+306,Green Gram (Moong),Rani,2012-11-17,5100.0,4.1,31.0,clear
+307,Green Gram (Moong),Jaitaran,2012-11-19,5600.0,13.4,29.4,clear
+308,Green Gram (Moong),Pali,2012-11-19,5300.0,20.0,29.4,clear
+309,Green Gram (Moong),Rani,2012-11-19,5100.0,27.8,29.4,clear
+310,Green Gram (Moong),Sumerpur,2012-11-19,5320.0,95.8,29.4,clear
+311,Green Gram (Moong),Jaitaran,2012-11-20,5500.0,14.1,29.6,clear
+312,Green Gram (Moong),Rani,2012-11-20,5300.0,8.0,29.6,clear
+313,Green Gram (Moong),Sojat Road,2012-11-20,5261.0,0.3,29.6,clear
+314,Green Gram (Moong),Sumerpur,2012-11-20,5311.0,115.2,29.6,clear
+315,Green Gram (Moong),Jaitaran,2012-11-21,5550.0,12.0,28.4,clear
+316,Green Gram (Moong),Rani,2012-11-21,5300.0,15.0,28.4,clear
+317,Green Gram (Moong),Sumerpur,2012-11-21,5420.0,153.4,28.4,clear
+318,Green Gram (Moong),Jaitaran,2012-11-22,5500.0,18.9,28.6,clear
+319,Green Gram (Moong),Rani,2012-11-22,5150.0,28.1,28.6,clear
+320,Green Gram (Moong),Jaitaran,2012-11-23,5400.0,15.1,28.8,clear
+321,Green Gram (Moong),Pali,2012-11-23,5500.0,15.0,28.8,clear
+322,Green Gram (Moong),Rani,2012-11-23,5100.0,29.4,28.8,clear
+323,Green Gram (Moong),Sumerpur,2012-11-23,4950.0,117.8,28.8,clear
+324,Green Gram (Moong),Jaitaran,2012-11-24,5350.0,13.6,28.0,clear
+325,Green Gram (Moong),Rani,2012-11-24,4970.0,32.7,28.0,clear
+326,Green Gram (Moong),Jaitaran,2012-11-26,5300.0,11.9,28.0,clear
+327,Green Gram (Moong),Rani,2012-11-26,4896.0,11.3,28.0,clear
+328,Green Gram (Moong),Sumerpur,2012-11-26,4950.0,74.7,28.0,clear
+329,Green Gram (Moong),Jaitaran,2012-11-27,5300.0,12.8,29.0,clear
+330,Green Gram (Moong),Rani,2012-11-27,5000.0,23.5,29.0,clear
+331,Green Gram (Moong),Sojat Road,2012-11-27,5190.0,0.5,29.0,clear
+332,Green Gram (Moong),Sumerpur,2012-11-27,5150.0,94.3,29.0,clear
+333,Green Gram (Moong),Jaitaran,2012-11-28,5300.0,4.9,29.2,clear
+334,Green Gram (Moong),Rani,2012-11-28,5063.0,1.3,29.2,clear
+335,Green Gram (Moong),Jaitaran,2012-11-29,5250.0,6.0,28.0,clear
+336,Green Gram (Moong),Pali,2012-11-29,5150.0,5.0,28.0,clear
+337,Green Gram (Moong),Rani,2012-11-29,5025.0,12.4,28.0,clear
+338,Green Gram (Moong),Sojat Road,2012-11-29,5300.0,0.5,28.0,clear
+339,Green Gram (Moong),Sumerpur,2012-11-29,5000.0,60.4,28.0,clear
+340,Green Gram (Moong),Jaitaran,2012-11-30,4900.0,5.9,25.0,clear
+341,Green Gram (Moong),Rani,2012-11-30,4875.0,13.9,25.0,clear
+342,Green Gram (Moong),Sumerpur,2012-11-30,4911.0,77.6,25.0,clear
+343,Green Gram (Moong),Jaitaran,2012-03-12,4900.0,0.2,30.4,clear
+344,Green Gram (Moong),Rani,2012-03-12,4700.0,4.4,30.4,clear
+345,Green Gram (Moong),Sumerpur,2012-03-12,4900.0,28.1,30.4,clear
+346,Green Gram (Moong),Jaitaran,2012-04-12,5300.0,14.8,37.6,rain
+347,Green Gram (Moong),Rani,2012-04-12,4813.0,7.2,37.6,rain
+348,Green Gram (Moong),Sumerpur,2012-04-12,4950.0,42.4,37.6,rain
+349,Green Gram (Moong),Jaitaran,2012-05-12,5250.0,7.2,38.4,clear
+350,Green Gram (Moong),Pali,2012-05-12,5350.0,41.0,38.4,clear
+351,Green Gram (Moong),Rani,2012-05-12,4900.0,7.1,38.4,clear
+352,Green Gram (Moong),Sumerpur,2012-05-12,4950.0,72.2,38.4,clear
+353,Green Gram (Moong),Jaitaran,2012-06-12,5400.0,1.1,40.4,rain
+354,Green Gram (Moong),Rani,2012-06-12,4700.0,5.0,40.4,rain
+355,Green Gram (Moong),Sojat Road,2012-06-12,4671.0,0.1,40.4,rain
+356,Green Gram (Moong),Jaitaran,2012-07-12,5375.0,1.6,31.2,clear
+357,Green Gram (Moong),Pali,2012-07-12,5500.0,30.0,31.2,clear
+358,Green Gram (Moong),Rani,2012-07-12,4875.0,18.3,31.2,clear
+359,Green Gram (Moong),Sojat Road,2012-07-12,5250.0,0.3,31.2,clear
+360,Green Gram (Moong),Sumerpur,2012-07-12,4950.0,65.0,31.2,clear
+361,Green Gram (Moong),Jaitaran,2012-08-12,5250.0,1.15,33.2,rain
+362,Green Gram (Moong),Pali,2012-08-12,5025.0,12.0,33.2,rain
+363,Green Gram (Moong),Rani,2012-08-12,5000.0,4.5,33.2,rain
+364,Green Gram (Moong),Sojat Road,2012-08-12,4650.0,0.1,33.2,rain
+365,Green Gram (Moong),Sumerpur,2012-08-12,5035.0,74.9,33.2,rain
+366,Green Gram (Moong),Jaitaran,2012-10-12,5400.0,12.1,34.8,clear
+367,Green Gram (Moong),Rani,2012-10-12,5085.0,6.0,34.8,clear
+368,Green Gram (Moong),Sumerpur,2012-10-12,4900.0,32.6,34.8,clear
+369,Green Gram (Moong),Jaitaran,2012-11-12,4975.0,9.1,31.8,clear
+370,Green Gram (Moong),Rani,2012-11-12,4907.0,6.2,31.8,clear
+371,Green Gram (Moong),Sojat Road,2012-11-12,4651.0,0.1,31.8,clear
+372,Green Gram (Moong),Sumerpur,2012-11-12,5150.0,45.3,31.8,clear
+373,Green Gram (Moong),Jaitaran,2012-12-13,5300.0,12.4,26.4,clear
+374,Green Gram (Moong),Rani,2012-12-13,5076.0,5.2,26.4,clear
+375,Green Gram (Moong),Sumerpur,2012-12-13,5035.0,86.1,26.4,clear
+376,Green Gram (Moong),Jaitaran,2012-12-14,5350.0,11.4,26.0,clear
+377,Green Gram (Moong),Rani,2012-12-14,5000.0,4.6,26.0,clear
+378,Green Gram (Moong),Sumerpur,2012-12-14,5055.0,92.6,26.0,clear
+379,Green Gram (Moong),Jaitaran,2012-12-15,5400.0,3.6,24.8,clear
+380,Green Gram (Moong),Pali,2012-12-15,5000.0,10.0,24.8,clear
+381,Green Gram (Moong),Rani,2012-12-15,5181.0,1.6,24.8,clear
+382,Green Gram (Moong),Sumerpur,2012-12-15,5133.0,30.3,24.8,clear
+383,Green Gram (Moong),Jaitaran,2012-12-17,5000.0,2.5,25.4,clear
+384,Green Gram (Moong),Rani,2012-12-17,5150.0,7.9,25.4,clear
+385,Green Gram (Moong),Sumerpur,2012-12-17,4875.0,39.1,25.4,clear
+386,Green Gram (Moong),Jaitaran,2012-12-20,5400.0,2.2,25.4,clear
+387,Green Gram (Moong),Rani,2012-12-20,5350.0,6.8,25.4,clear
+388,Green Gram (Moong),Sumerpur,2012-12-20,5062.0,55.2,25.4,clear
+389,Green Gram (Moong),Jaitaran,2012-12-22,5300.0,9.2,28.0,clear
+390,Green Gram (Moong),Sumerpur,2012-12-22,5040.0,55.8,28.0,clear
+391,Green Gram (Moong),Jaitaran,2012-12-24,5300.0,7.3,27.2,clear
+392,Green Gram (Moong),Rani,2012-12-24,5200.0,3.7,27.2,clear
+393,Green Gram (Moong),Sumerpur,2012-12-24,5010.0,18.3,27.2,clear
+394,Green Gram (Moong),Jaitaran,2012-12-25,5225.0,4.7,26.2,clear
+395,Green Gram (Moong),Rani,2012-12-25,5000.0,5.9,26.2,clear
+396,Green Gram (Moong),Sumerpur,2012-12-25,4990.0,56.2,26.2,clear
+397,Green Gram (Moong),Jaitaran,2012-12-26,5500.0,1.3,25.6,clear
+398,Green Gram (Moong),Rani,2012-12-26,5035.0,2.4,25.6,clear
+399,Green Gram (Moong),Sumerpur,2012-12-26,5035.0,37.8,25.6,clear
+400,Green Gram (Moong),Jaitaran,2012-12-27,5425.0,2.0,27.2,clear
+401,Green Gram (Moong),Rani,2012-12-27,5100.0,2.2,27.2,clear
+402,Green Gram (Moong),Sumerpur,2012-12-27,5050.0,21.8,27.2,clear
+403,Green Gram (Moong),Jaitaran,2012-12-29,5200.0,2.2,19.6,clear
+404,Green Gram (Moong),Rani,2012-12-29,4888.0,0.8,19.6,clear
+405,Green Gram (Moong),Sumerpur,2012-12-29,5021.0,26.5,19.6,clear
+406,Green Gram (Moong),Jaitaran,2012-12-31,5300.0,2.5,21.0,clear
+407,Green Gram (Moong),Rani,2012-12-31,5170.0,1.9,21.0,clear
+408,Green Gram (Moong),Sumerpur,2012-12-31,5045.0,30.5,21.0,clear
+409,Green Gram (Moong),Pali,2012-09-17,5000.0,20.0,30.8,clear
+410,Green Gram (Moong),Pali,2012-09-18,5250.0,40.0,31.8,clear
+411,Green Gram (Moong),Pali,2012-09-19,5020.0,10.0,33.0,clear
+412,Green Gram (Moong),Pali,2012-09-23,5250.0,20.0,32.8,clear
+413,Green Gram (Moong),Pali,2012-09-24,5020.0,40.0,32.0,clear
+414,Green Gram (Moong),Rani,2012-09-24,4200.0,0.7,32.0,clear
+415,Green Gram (Moong),Sojat Road,2012-09-24,3451.0,2.0,32.0,clear
+416,Green Gram (Moong),Sumerpur,2012-09-24,3800.0,35.0,32.0,clear
+417,Green Gram (Moong),Pali,2012-07-10,3535.0,10.0,34.2,rain
+418,Green Gram (Moong),Pali,2012-11-10,5025.0,40.0,32.0,clear
+419,Green Gram (Moong),Rani,2012-11-10,4900.0,19.2,32.0,clear
+420,Green Gram (Moong),Sumerpur,2012-11-10,4956.0,75.9,32.0,clear
+421,Green Gram (Moong),Pali,2012-10-20,5200.0,300.0,34.4,clear
+422,Green Gram (Moong),Rani,2012-10-20,5320.0,32.1,34.4,clear
+423,Green Gram (Moong),Sumerpur,2012-10-20,5010.0,73.9,34.4,clear
+424,Green Gram (Moong),Pali,2012-10-25,3825.0,20.0,32.0,clear
+425,Green Gram (Moong),Rani,2012-10-25,5191.0,30.3,32.0,clear
+426,Green Gram (Moong),Sumerpur,2012-10-25,5100.0,71.1,32.0,clear
+427,Green Gram (Moong),Pali,2012-12-18,5050.0,10.0,26.6,clear
+428,Green Gram (Moong),Rani,2012-12-18,4944.0,6.5,26.6,clear
+429,Green Gram (Moong),Sumerpur,2012-12-18,4920.0,45.6,26.6,clear
+430,Green Gram (Moong),Rani,2012-05-01,3531.0,19.7,38.6,clear
+431,Green Gram (Moong),Rani,2012-12-01,3501.0,12.2,24.4,clear
+432,Green Gram (Moong),Sumerpur,2012-12-01,3900.0,58.7,24.4,clear
+433,Green Gram (Moong),Rani,2012-01-18,3550.0,4.8,20.0,clear
+434,Green Gram (Moong),Sumerpur,2012-01-18,3970.0,74.5,20.0,clear
+435,Green Gram (Moong),Rani,2012-01-19,3551.0,4.2,21.0,clear
+436,Green Gram (Moong),Sumerpur,2012-01-19,3980.0,74.2,21.0,clear
+437,Green Gram (Moong),Rani,2012-01-20,3701.0,7.9,22.0,clear
+438,Green Gram (Moong),Sumerpur,2012-01-20,3995.0,74.5,22.0,clear
+439,Green Gram (Moong),Rani,2012-01-21,3675.0,15.8,21.8,clear
+440,Green Gram (Moong),Rani,2012-10-02,3500.0,11.4,36.6,clear
+441,Green Gram (Moong),Sumerpur,2012-10-02,3350.0,40.6,36.6,clear
+442,Green Gram (Moong),Rani,2012-02-16,3011.0,0.2,23.0,clear
+443,Green Gram (Moong),Sumerpur,2012-02-16,3850.0,82.5,23.0,clear
+444,Green Gram (Moong),Rani,2012-02-17,3500.0,0.5,24.4,clear
+445,Green Gram (Moong),Sumerpur,2012-02-17,3500.0,65.6,24.4,clear
+446,Green Gram (Moong),Rani,2012-02-18,3000.0,0.2,25.8,clear
+447,Green Gram (Moong),Sumerpur,2012-02-18,3700.0,66.5,25.8,clear
+448,Green Gram (Moong),Rani,2012-02-20,3192.0,1.2,31.4,clear
+449,Green Gram (Moong),Sumerpur,2012-02-20,3350.0,35.0,31.4,clear
+450,Green Gram (Moong),Rani,2012-02-25,3266.0,4.4,25.2,clear
+451,Green Gram (Moong),Sumerpur,2012-02-25,3500.0,47.0,25.2,clear
+452,Green Gram (Moong),Rani,2012-03-16,3523.0,0.9,34.6,clear
+453,Green Gram (Moong),Rani,2012-03-28,3620.0,2.4,37.0,clear
+454,Green Gram (Moong),Rani,2012-05-04,3545.0,0.6,40.0,clear
+455,Green Gram (Moong),Rani,2012-04-25,3150.0,0.6,36.2,clear
+456,Green Gram (Moong),Rani,2012-04-28,2900.0,0.1,37.8,clear
+457,Green Gram (Moong),Rani,2012-05-29,2915.0,0.3,43.2,clear
+458,Green Gram (Moong),Rani,2012-06-18,2700.0,0.4,40.0,clear
+459,Green Gram (Moong),Rani,2012-06-26,3300.0,0.5,37.0,clear
+460,Green Gram (Moong),Sumerpur,2012-06-26,4301.0,1.1,37.0,clear
+461,Green Gram (Moong),Rani,2012-04-07,3511.0,5.2,40.0,clear
+462,Green Gram (Moong),Rani,2012-06-07,3460.0,5.1,36.6,clear
+463,Green Gram (Moong),Sumerpur,2012-06-07,3651.0,3.4,36.6,clear
+464,Green Gram (Moong),Rani,2012-07-24,3900.0,2.9,36.2,clear
+465,Green Gram (Moong),Sumerpur,2012-07-24,5101.0,2.3,36.2,clear
+466,Green Gram (Moong),Rani,2012-08-17,4800.0,0.7,30.6,clear
+467,Green Gram (Moong),Rani,2012-08-24,4600.0,0.4,31.8,clear
+468,Green Gram (Moong),Rani,2012-05-09,4381.0,0.6,38.4,clear
+469,Green Gram (Moong),Rani,2012-10-09,4000.0,0.8,35.0,clear
+470,Green Gram (Moong),Rani,2012-09-21,4525.0,0.3,34.4,clear
+471,Green Gram (Moong),Rani,2012-09-27,4340.0,0.8,34.0,clear
+472,Green Gram (Moong),Sumerpur,2012-09-27,4101.0,23.6,34.0,clear
+473,Green Gram (Moong),Rani,2012-09-28,4309.0,1.7,35.0,clear
+474,Green Gram (Moong),Sumerpur,2012-09-28,4221.0,17.2,35.0,clear
+475,Green Gram (Moong),Rani,2012-09-29,4580.0,0.2,35.8,clear
+476,Green Gram (Moong),Sumerpur,2012-09-29,4450.0,33.7,35.8,clear
+477,Green Gram (Moong),Rani,2012-01-10,4672.0,3.2,20.6,clear
+478,Green Gram (Moong),Sumerpur,2012-01-10,4800.0,21.0,20.6,clear
+479,Green Gram (Moong),Rani,2012-02-10,4426.0,4.3,23.0,clear
+480,Green Gram (Moong),Sojat Road,2012-02-10,3180.0,2.3,23.0,clear
+481,Green Gram (Moong),Sumerpur,2012-02-10,5300.0,39.9,23.0,clear
+482,Green Gram (Moong),Rani,2012-03-10,4718.0,7.4,29.0,clear
+483,Green Gram (Moong),Sumerpur,2012-03-10,4700.0,55.2,29.0,clear
+484,Green Gram (Moong),Rani,2012-04-10,4683.0,4.2,40.0,clear
+485,Green Gram (Moong),Sumerpur,2012-04-10,4945.0,55.1,40.0,clear
+486,Green Gram (Moong),Rani,2012-05-10,5000.0,6.9,41.2,clear
+487,Green Gram (Moong),Sumerpur,2012-05-10,5121.0,59.8,41.2,clear
+488,Green Gram (Moong),Rani,2012-06-10,5050.0,8.1,39.0,clear
+489,Green Gram (Moong),Sumerpur,2012-06-10,4850.0,64.7,39.0,clear
+490,Green Gram (Moong),Rani,2012-10-10,4850.0,27.6,35.0,clear
+491,Green Gram (Moong),Sumerpur,2012-10-10,4845.0,118.2,35.0,clear
+492,Green Gram (Moong),Rani,2012-01-12,4862.0,14.8,22.6,clear
+493,Green Gram (Moong),Sumerpur,2012-01-12,4950.0,47.7,22.6,clear
+494,Green Gram (Moong),Rani,2012-12-19,5082.0,6.7,24.2,clear
+495,Green Gram (Moong),Sumerpur,2012-12-19,5110.0,45.1,24.2,clear
+496,Green Gram (Moong),Rani,2012-12-21,5000.0,5.8,26.6,clear
+497,Green Gram (Moong),Sumerpur,2012-12-21,5055.0,90.0,26.6,clear
+498,Green Gram (Moong),Rani,2012-12-28,5100.0,4.4,23.0,clear
+499,Green Gram (Moong),Sojat Road,2012-09-25,3600.0,0.1,31.2,clear
+500,Green Gram (Moong),Sumerpur,2012-09-25,4150.0,15.5,31.2,clear
+501,Green Gram (Moong),Sumerpur,2012-09-02,3650.0,48.9,35.0,clear
+502,Green Gram (Moong),Sumerpur,2012-02-26,3585.0,55.7,27.0,clear
+503,Green Gram (Moong),Sumerpur,2012-03-03,3250.0,43.8,31.8,clear
+504,Green Gram (Moong),Sumerpur,2012-02-07,4140.0,15.2,20.6,clear
+505,Green Gram (Moong),Sumerpur,2012-12-07,3681.0,1.4,28.4,clear
+506,Green Gram (Moong),Sumerpur,2012-07-13,3600.0,2.2,35.4,clear
+507,Green Gram (Moong),Sumerpur,2012-07-16,3880.0,0.1,36.0,clear
+508,Green Gram (Moong),Sumerpur,2012-07-19,4611.0,10.3,37.0,clear
+509,Green Gram (Moong),Sumerpur,2012-07-26,5085.0,7.4,37.0,clear
+510,Green Gram (Moong),Sumerpur,2012-07-27,4850.0,0.2,38.0,clear
+511,Green Gram (Moong),Sumerpur,2012-07-30,4810.0,1.5,30.0,clear
+512,Green Gram (Moong),Sumerpur,2012-01-08,4988.0,1.0,18.4,clear
+513,Green Gram (Moong),Sumerpur,2012-09-13,4200.0,1.0,33.0,clear
+514,Green Gram (Moong),Sumerpur,2012-10-22,5110.0,89.6,35.0,clear
+515,Green Gram (Moong),Sumerpur,2012-11-18,5350.0,39.3,26.6,clear
+516,Bengal Gram(Gram),Rani,2013-01-29,3206.0,0.9,27.6,clear
+517,Green Gram (Moong),Sumerpur,2013-01-29,5075.0,4.6,27.6,clear
+518,Bengal Gram(Gram),Rani,2013-08-02,2816.0,0.5,35.8,clear
+519,Green Gram (Moong),Rani,2013-08-02,4700.0,0.1,35.8,clear
+520,Green Gram (Moong),Sumerpur,2013-08-02,5020.0,4.7,35.8,clear
+521,Bengal Gram(Gram),Rani,2013-05-03,3150.0,0.7,41.0,clear
+522,Green Gram (Moong),Jaitaran,2013-05-03,4500.0,1.3,41.0,clear
+523,Green Gram (Moong),Pali,2013-05-03,4950.0,17.0,41.0,clear
+524,Green Gram (Moong),Rani,2013-05-03,4950.0,0.4,41.0,clear
+525,Bengal Gram(Gram),Rani,2013-06-03,3040.0,2.0,43.4,clear
+526,Bengal Gram(Gram),Rani,2013-03-14,3035.0,2.6,32.0,clear
+527,Green Gram (Moong),Rani,2013-03-14,4800.0,0.6,32.0,clear
+528,Bengal Gram(Gram),Rani,2013-03-16,3100.0,0.7,33.0,clear
+529,Bengal Gram(Gram),Rani,2013-03-18,3121.0,3.0,34.8,clear
+530,Bengal Gram(Gram),Rani,2013-03-20,3125.0,6.0,34.8,clear
+531,Bengal Gram(Gram),Rani,2013-03-22,3126.0,0.9,34.2,clear
+532,Green Gram (Moong),Rani,2013-03-22,5072.0,0.3,34.2,clear
+533,Bengal Gram(Gram),Rani,2013-03-23,3026.0,0.9,34.2,clear
+534,Bengal Gram(Gram),Rani,2013-03-25,3015.0,2.0,32.0,clear
+535,Bengal Gram(Gram),Rani,2013-03-26,2981.0,1.0,32.0,clear
+536,Bengal Gram(Gram),Rani,2013-03-30,3011.0,1.1,32.8,clear
+537,Green Gram (Moong),Rani,2013-03-30,4850.0,0.1,32.8,clear
+538,Bengal Gram(Gram),Rani,2013-01-04,3031.0,8.0,22.4,clear
+539,Black Gram (Urd Beans),Sojat Road,2013-01-04,2980.0,2.9,22.4,clear
+540,Bengal Gram(Gram),Rani,2013-03-04,3137.0,4.0,33.8,clear
+541,Black Gram (Urd Beans),Sojat Road,2013-03-04,3000.0,3.9,33.8,clear
+542,Bengal Gram(Gram),Rani,2013-04-04,3155.0,4.8,35.0,clear
+543,Bengal Gram(Gram),Rani,2013-05-04,3165.0,12.3,42.0,clear
+544,Bengal Gram(Gram),Rani,2013-06-04,3275.0,8.4,45.0,clear
+545,Bengal Gram(Gram),Rani,2013-08-04,3216.0,12.3,31.2,clear
+546,Bengal Gram(Gram),Rani,2013-09-04,3300.0,5.9,33.0,clear
+547,Green Gram (Moong),Rani,2013-09-04,5700.0,1.2,33.0,clear
+548,Bengal Gram(Gram),Rani,2013-10-04,3340.0,10.0,32.8,clear
+549,Bengal Gram(Gram),Rani,2013-11-04,3275.0,4.9,31.6,clear
+550,Bengal Gram(Gram),Rani,2013-12-04,3235.0,5.5,28.6,clear
+551,Green Gram (Moong),Jaitaran,2013-12-04,3400.0,1.0,28.6,clear
+552,Green Gram (Moong),Rani,2013-12-04,5550.0,0.3,28.6,clear
+553,Bengal Gram(Gram),Rani,2013-04-13,3300.0,7.7,38.2,clear
+554,Bengal Gram(Gram),Rani,2013-04-15,3316.0,7.7,39.8,clear
+555,Bengal Gram(Gram),Rani,2013-04-16,3309.0,2.7,39.0,clear
+556,Green Gram (Moong),Rani,2013-04-16,4601.0,0.2,39.0,clear
+557,Bengal Gram(Gram),Rani,2013-04-17,3290.0,1.1,38.0,clear
+558,Black Gram (Urd Beans),Sojat Road,2013-04-17,3236.0,6.4,38.0,clear
+559,Bengal Gram(Gram),Rani,2013-04-18,3312.0,4.5,38.2,clear
+560,Bengal Gram(Gram),Rani,2013-04-19,3300.0,0.2,37.6,clear
+561,Black Gram (Urd Beans),Sojat Road,2013-04-19,3222.0,8.2,37.6,clear
+562,Bengal Gram(Gram),Rani,2013-04-20,3279.0,3.1,36.0,clear
+563,Bengal Gram(Gram),Rani,2013-04-22,3212.0,5.8,35.6,clear
+564,Black Gram (Urd Beans),Sojat Road,2013-04-22,3271.0,5.9,35.6,clear
+565,Bengal Gram(Gram),Rani,2013-04-24,3200.0,3.6,38.6,clear
+566,Black Gram (Urd Beans),Sojat Road,2013-04-24,3221.0,0.9,38.6,clear
+567,Bengal Gram(Gram),Rani,2013-04-25,3200.0,0.9,38.0,clear
+568,Bengal Gram(Gram),Rani,2013-04-26,3141.0,0.6,38.8,clear
+569,Bengal Gram(Gram),Rani,2013-04-27,3166.0,4.2,40.0,clear
+570,Bengal Gram(Gram),Rani,2013-04-29,3148.0,3.0,38.4,clear
+571,Bengal Gram(Gram),Rani,2013-01-05,3121.0,4.8,21.2,clear
+572,Green Gram (Moong),Sumerpur,2013-01-05,5300.0,2.5,21.2,clear
+573,Bengal Gram(Gram),Rani,2013-02-05,3150.0,3.4,21.6,clear
+574,Bengal Gram(Gram),Rani,2013-03-05,3137.0,6.0,34.0,clear
+575,Bengal Gram(Gram),Rani,2013-04-05,3120.0,7.7,36.4,clear
+576,Bengal Gram(Gram),Rani,2013-06-05,3110.0,11.1,42.0,clear
+577,Green Gram (Moong),Rani,2013-06-05,4700.0,0.1,42.0,clear
+578,Bengal Gram(Gram),Rani,2013-07-05,3102.0,4.0,35.4,clear
+579,Bengal Gram(Gram),Rani,2013-08-05,3105.0,1.0,32.4,clear
+580,Black Gram (Urd Beans),Sojat Road,2013-08-05,3090.0,0.1,32.4,clear
+581,Bengal Gram(Gram),Rani,2013-09-05,3090.0,1.0,33.2,clear
+582,Bengal Gram(Gram),Rani,2013-10-05,3040.0,0.6,32.6,clear
+583,Black Gram (Urd Beans),Sojat Road,2013-10-05,3021.0,0.6,32.6,clear
+584,Bengal Gram(Gram),Rani,2013-11-05,3070.0,4.8,32.4,clear
+585,Black Gram (Urd Beans),Sojat Road,2013-11-05,3012.0,1.2,32.4,clear
+586,Bengal Gram(Gram),Rani,2013-05-13,3035.0,0.1,38.6,clear
+587,Bengal Gram(Gram),Rani,2013-05-14,3060.0,6.9,41.2,clear
+588,Bengal Gram(Gram),Rani,2013-05-15,3060.0,1.9,42.4,clear
+589,Bengal Gram(Gram),Rani,2013-05-22,3112.0,3.0,40.6,clear
+590,Black Gram (Urd Beans),Sojat Road,2013-05-22,3119.0,0.8,40.6,clear
+591,Bengal Gram(Gram),Rani,2013-05-24,3095.0,3.5,40.2,clear
+592,Bengal Gram(Gram),Rani,2013-05-25,3050.0,0.1,39.8,clear
+593,Bengal Gram(Gram),Rani,2013-05-27,3050.0,8.8,39.4,clear
+594,Black Gram (Urd Beans),Sojat Road,2013-05-27,3043.0,0.8,39.4,clear
+595,Green Gram (Moong),Rani,2013-05-27,3885.0,0.1,39.4,clear
+596,Bengal Gram(Gram),Rani,2013-05-28,3013.0,0.1,40.4,clear
+597,Black Gram (Urd Beans),Sojat Road,2013-05-28,3041.0,0.4,40.4,clear
+598,Bengal Gram(Gram),Rani,2013-05-30,2925.0,8.3,42.0,clear
+599,Bengal Gram(Gram),Rani,2013-04-06,2950.0,2.2,37.8,clear
+600,Black Gram (Urd Beans),Sojat Road,2013-04-06,2952.0,1.9,37.8,clear
+601,Bengal Gram(Gram),Rani,2013-06-06,2936.0,0.5,42.0,clear
+602,Bengal Gram(Gram),Rani,2013-07-06,2850.0,0.1,35.6,clear
+603,Green Gram (Moong),Jaitaran,2013-07-06,5000.0,1.5,35.6,clear
+604,Green Gram (Moong),Sumerpur,2013-07-06,4900.0,4.2,35.6,clear
+605,Bengal Gram(Gram),Rani,2013-08-06,2934.0,4.3,33.0,clear
+606,Bengal Gram(Gram),Rani,2013-10-06,2930.0,7.5,35.0,clear
+607,Black Gram (Urd Beans),Sojat Road,2013-10-06,2800.0,0.2,35.0,clear
+608,Bengal Gram(Gram),Rani,2013-11-06,2927.0,5.5,31.4,clear
+609,Bengal Gram(Gram),Rani,2013-12-06,2925.0,7.8,27.2,clear
+610,Bengal Gram(Gram),Rani,2013-06-13,2920.0,2.9,36.6,clear
+611,Black Gram (Urd Beans),Sojat Road,2013-06-13,2871.0,2.9,36.6,clear
+612,Bengal Gram(Gram),Rani,2013-06-15,2925.0,8.7,36.8,clear
+613,Bengal Gram(Gram),Rani,2013-06-17,2900.0,0.4,33.4,clear
+614,Black Gram (Urd Beans),Sojat Road,2013-06-17,2851.0,0.2,33.4,clear
+615,Green Gram (Moong),Rani,2013-06-17,4100.0,0.1,33.4,clear
+616,Bengal Gram(Gram),Rani,2013-06-20,2860.0,4.5,39.6,clear
+617,Green Gram (Moong),Rani,2013-06-20,4500.0,0.3,39.6,clear
+618,Bengal Gram(Gram),Rani,2013-06-21,2855.0,5.7,38.6,clear
+619,Bengal Gram(Gram),Rani,2013-06-22,2881.0,4.8,37.8,clear
+620,Bengal Gram(Gram),Rani,2013-06-24,2869.0,7.9,38.2,clear
+621,Green Gram (Moong),Rani,2013-06-24,4000.0,0.3,38.2,clear
+622,Bengal Gram(Gram),Rani,2013-06-26,2875.0,6.3,37.8,clear
+623,Bengal Gram(Gram),Sojat Road,2013-06-26,2900.0,5.0,37.8,clear
+624,Green Gram (Moong),Rani,2013-06-26,4851.0,0.1,37.8,clear
+625,Green Gram (Moong),Sumerpur,2013-06-26,5309.0,0.5,37.8,clear
+626,Bengal Gram(Gram),Rani,2013-06-27,2826.0,0.9,37.6,clear
+627,Bengal Gram(Gram),Sojat Road,2013-06-27,2841.0,1.0,37.6,clear
+628,Bengal Gram(Gram),Rani,2013-01-07,2800.0,3.9,22.4,clear
+629,Bengal Gram(Gram),Rani,2013-03-07,2748.0,6.1,34.0,clear
+630,Green Gram (Moong),Sojat Road,2013-03-07,4100.0,0.2,34.0,clear
+631,Green Gram (Moong),Sumerpur,2013-03-07,5020.0,34.1,34.0,clear
+632,Bengal Gram(Gram),Rani,2013-04-07,2785.0,4.6,37.0,clear
+633,Bengal Gram(Gram),Rani,2013-05-07,2795.0,6.1,42.2,clear
+634,Green Gram (Moong),Sumerpur,2013-05-07,5030.0,1.1,42.2,clear
+635,Bengal Gram(Gram),Rani,2013-06-07,2740.0,8.0,42.0,clear
+636,Green Gram (Moong),Sumerpur,2013-06-07,4515.0,3.8,42.0,clear
+637,Bengal Gram(Gram),Rani,2013-09-07,2756.0,1.6,33.0,clear
+638,Bengal Gram(Gram),Rani,2013-10-07,2800.0,3.6,36.0,clear
+639,Bengal Gram(Gram),Rani,2013-11-07,2786.0,2.3,29.0,clear
+640,Green Gram (Moong),Sumerpur,2013-11-07,4910.0,1.0,29.0,clear
+641,Bengal Gram(Gram),Rani,2013-07-17,2756.0,3.0,37.4,rain
+642,Bengal Gram(Gram),Rani,2013-07-19,2750.0,5.2,36.4,clear
+643,Bengal Gram(Gram),Rani,2013-07-23,2623.0,1.4,35.0,clear
+644,Green Gram (Moong),Sumerpur,2013-07-23,4871.0,1.0,35.0,clear
+645,Bengal Gram(Gram),Rani,2013-07-26,2484.0,2.0,33.0,clear
+646,Bengal Gram(Gram),Rani,2013-07-29,2500.0,3.9,31.0,clear
+647,Bengal Gram(Gram),Rani,2013-07-31,2537.0,1.5,31.0,clear
+648,Bengal Gram(Gram),Rani,2013-05-08,2556.0,1.5,40.0,clear
+649,Green Gram (Moong),Sumerpur,2013-05-08,4700.0,1.7,40.0,clear
+650,Bengal Gram(Gram),Rani,2013-06-08,2668.0,1.5,41.8,clear
+651,Black Gram (Urd Beans),Sojat Road,2013-06-08,2501.0,0.2,41.8,clear
+652,Green Gram (Moong),Sumerpur,2013-06-08,4750.0,0.3,41.8,clear
+653,Bengal Gram(Gram),Rani,2013-07-08,2629.0,3.4,36.6,clear
+654,Green Gram (Moong),Jaitaran,2013-07-08,3500.0,5.0,36.6,clear
+655,Green Gram (Moong),Sumerpur,2013-07-08,4600.0,0.8,36.6,clear
+656,Bengal Gram(Gram),Rani,2013-08-08,2636.0,0.1,34.0,clear
+657,Black Gram (Urd Beans),Sojat Road,2013-08-08,2561.0,0.5,34.0,clear
+658,Green Gram (Moong),Rani,2013-08-08,4000.0,0.2,34.0,clear
+659,Bengal Gram(Gram),Rani,2013-12-08,2560.0,1.2,27.4,clear
+660,Green Gram (Moong),Sojat Road,2013-12-08,3801.0,0.1,27.4,clear
+661,Bengal Gram(Gram),Rani,2013-08-17,2731.0,10.0,32.2,clear
+662,Bengal Gram(Gram),Rani,2013-08-21,2750.0,2.1,32.6,clear
+663,Bengal Gram(Gram),Rani,2013-08-23,2800.0,3.9,33.4,clear
+664,Bengal Gram(Gram),Rani,2013-08-26,2877.0,2.4,33.6,clear
+665,Green Gram (Moong),Jaitaran,2013-08-26,4650.0,1.2,33.6,clear
+666,Bengal Gram(Gram),Rani,2013-08-27,2861.0,0.3,31.8,clear
+667,Green Gram (Moong),Jaitaran,2013-08-27,4300.0,2.4,31.8,clear
+668,Bengal Gram(Gram),Rani,2013-08-28,2894.0,0.3,32.2,clear
+669,Green Gram (Moong),Sumerpur,2013-08-28,4600.0,0.2,32.2,clear
+670,Bengal Gram(Gram),Rani,2013-08-29,2873.0,0.7,33.4,clear
+671,Green Gram (Moong),Rani,2013-08-29,4000.0,0.1,33.4,clear
+672,Green Gram (Moong),Sumerpur,2013-08-29,5375.0,1.9,33.4,clear
+673,Bengal Gram(Gram),Rani,2013-08-30,2845.0,1.9,33.6,clear
+674,Green Gram (Moong),Jaitaran,2013-08-30,4300.0,5.0,33.6,clear
+675,Green Gram (Moong),Rani,2013-08-30,4726.0,0.2,33.6,clear
+676,Green Gram (Moong),Sumerpur,2013-08-30,4950.0,0.8,33.6,clear
+677,Bengal Gram(Gram),Rani,2013-04-09,2896.0,0.8,34.0,clear
+678,Green Gram (Moong),Jaitaran,2013-04-09,4800.0,1.25,34.0,clear
+679,Green Gram (Moong),Rani,2013-04-09,4875.0,0.5,34.0,clear
+680,Green Gram (Moong),Sumerpur,2013-04-09,4750.0,7.1,34.0,clear
+681,Bengal Gram(Gram),Rani,2013-06-09,2900.0,3.2,41.0,clear
+682,Green Gram (Moong),Jaitaran,2013-06-09,4825.0,1.79,41.0,clear
+683,Green Gram (Moong),Pali,2013-06-09,4575.0,100.0,41.0,clear
+684,Green Gram (Moong),Rani,2013-06-09,4843.0,0.4,41.0,clear
+685,Green Gram (Moong),Sumerpur,2013-06-09,4810.0,1.4,41.0,clear
+686,Bengal Gram(Gram),Rani,2013-09-17,2800.0,0.1,37.4,clear
+687,Green Gram (Moong),Jaitaran,2013-09-17,5000.0,83.3,37.4,clear
+688,Green Gram (Moong),Pali,2013-09-17,4875.0,45.0,37.4,clear
+689,Green Gram (Moong),Rani,2013-09-17,5285.0,0.8,37.4,clear
+690,Green Gram (Moong),Sumerpur,2013-09-17,5300.0,44.6,37.4,clear
+691,Bengal Gram(Gram),Rani,2013-09-18,2700.0,0.8,37.6,clear
+692,Green Gram (Moong),Pali,2013-09-18,4750.0,30.0,37.6,clear
+693,Green Gram (Moong),Rani,2013-09-18,5200.0,2.4,37.6,clear
+694,Green Gram (Moong),Sumerpur,2013-09-18,5100.0,35.1,37.6,clear
+695,Bengal Gram(Gram),Rani,2013-05-10,2697.0,0.2,38.0,clear
+696,Green Gram (Moong),Jaitaran,2013-05-10,5050.0,4.9,38.0,clear
+697,Green Gram (Moong),Pali,2013-05-10,5050.0,15.0,38.0,clear
+698,Green Gram (Moong),Rani,2013-05-10,5200.0,19.0,38.0,clear
+699,Bengal Gram(Gram),Rani,2013-07-10,2600.0,0.8,35.8,clear
+700,Green Gram (Moong),Jaitaran,2013-07-10,5050.0,3.19,35.8,clear
+701,Green Gram (Moong),Pali,2013-07-10,5050.0,35.0,35.8,clear
+702,Green Gram (Moong),Rani,2013-07-10,5050.0,20.9,35.8,clear
+703,Green Gram (Moong),Sumerpur,2013-07-10,5145.0,100.7,35.8,clear
+704,Bengal Gram(Gram),Rani,2013-10-14,2785.0,0.6,34.4,clear
+705,Green Gram (Moong),Jaitaran,2013-10-14,5150.0,2.26,34.4,clear
+706,Green Gram (Moong),Pali,2013-10-14,4950.0,36.0,34.4,clear
+707,Green Gram (Moong),Rani,2013-10-14,4900.0,7.5,34.4,clear
+708,Green Gram (Moong),Sojat Road,2013-10-14,4690.0,1.5,34.4,clear
+709,Green Gram (Moong),Sumerpur,2013-10-14,5085.0,87.7,34.4,clear
+710,Bengal Gram(Gram),Rani,2013-10-15,2800.0,0.2,35.4,clear
+711,Green Gram (Moong),Jaitaran,2013-10-15,5100.0,1.29,35.4,clear
+712,Green Gram (Moong),Rani,2013-10-15,5000.0,20.0,35.4,clear
+713,Bengal Gram(Gram),Rani,2013-10-16,2700.0,2.5,35.2,clear
+714,Green Gram (Moong),Pali,2013-10-16,4750.0,20.0,35.2,clear
+715,Green Gram (Moong),Rani,2013-10-16,4900.0,23.6,35.2,clear
+716,Green Gram (Moong),Sojat Road,2013-10-16,4650.0,0.1,35.2,clear
+717,Bengal Gram(Gram),Rani,2013-09-11,2700.0,1.0,37.4,clear
+718,Green Gram (Moong),Pali,2013-09-11,4850.0,20.0,37.4,clear
+719,Green Gram (Moong),Rani,2013-09-11,5100.0,26.0,37.4,clear
+720,Bengal Gram(Gram),Rani,2013-12-16,2501.0,0.6,26.8,clear
+721,Green Gram (Moong),Rani,2013-12-16,5400.0,1.5,26.8,clear
+722,Bengal Gram(Gram),Rani,2013-12-21,2476.0,2.8,21.4,clear
+723,Green Gram (Moong),Jaitaran,2013-12-21,5700.0,1.76,21.4,clear
+724,Bengal Gram(Gram),Rani,2013-12-23,2226.0,0.5,18.4,clear
+725,Green Gram (Moong),Jaitaran,2013-12-23,5250.0,11.2,18.4,clear
+726,Green Gram (Moong),Rani,2013-12-23,5526.0,0.2,18.4,clear
+727,Bengal Gram(Gram),Rani,2013-12-28,2464.0,1.6,22.0,clear
+728,Green Gram (Moong),Rani,2013-12-28,5301.0,0.1,22.0,clear
+729,Green Gram (Moong),Sumerpur,2013-12-28,6190.0,47.8,22.0,clear
+730,Bengal Gram(Gram),Sojat Road,2013-06-25,2000.0,0.2,38.0,clear
+731,Bengal Gram(Gram),Sojat Road,2013-06-29,2900.0,0.2,35.4,clear
+732,Black Gram (Urd Beans),Pali,2013-09-03,3051.0,100.0,32.6,clear
+733,Black Gram (Urd Beans),Pali,2013-05-18,3130.0,700.0,44.0,clear
+734,Black Gram (Urd Beans),Sojat Road,2013-05-18,3013.0,0.4,44.0,clear
+735,Black Gram (Urd Beans),Sojat Road,2013-05-16,3120.0,2.3,43.4,clear
+736,Black Gram (Urd Beans),Sojat Road,2013-05-17,3150.0,3.3,44.2,clear
+737,Green Gram (Moong),Jaitaran,2013-05-17,5000.0,2.0,44.2,clear
+738,Black Gram (Urd Beans),Sojat Road,2013-05-20,3121.0,0.2,43.6,clear
+739,Black Gram (Urd Beans),Sojat Road,2013-03-06,2940.0,0.6,34.2,clear
+740,Black Gram (Urd Beans),Sojat Road,2013-05-06,2959.0,0.4,42.2,clear
+741,Green Gram (Moong),Rani,2013-05-06,4700.0,0.1,42.2,clear
+742,Black Gram (Urd Beans),Sojat Road,2013-06-14,2871.0,1.9,34.4,clear
+743,Black Gram (Urd Beans),Sojat Road,2013-07-18,2821.0,2.0,35.4,clear
+744,Green Gram (Moong),Rani,2013-07-18,4900.0,0.9,35.4,clear
+745,Black Gram (Urd Beans),Sojat Road,2013-02-08,2500.0,3.0,22.4,clear
+746,Black Gram (Urd Beans),Sojat Road,2013-08-19,2666.0,1.3,32.0,clear
+747,Black Gram (Urd Beans),Sojat Road,2013-08-31,3071.0,0.1,33.0,clear
+748,Green Gram (Moong),Jaitaran,2013-08-31,4400.0,6.5,33.0,clear
+749,Green Gram (Moong),Rani,2013-08-31,4770.0,0.8,33.0,clear
+750,Green Gram (Moong),Sumerpur,2013-08-31,5031.0,2.8,33.0,clear
+751,Black Gram (Urd Beans),Sojat Road,2013-03-09,2931.0,2.2,34.8,clear
+752,Green Gram (Moong),Jaitaran,2013-03-09,4500.0,8.9,34.8,clear
+753,Green Gram (Moong),Rani,2013-03-09,4950.0,1.3,34.8,clear
+754,Green Gram (Moong),Sumerpur,2013-03-09,4781.0,8.9,34.8,clear
+755,Green Gram (Moong),Jaitaran,2013-01-01,5200.0,0.9,22.6,clear
+756,Green Gram (Moong),Rani,2013-01-01,5100.0,4.7,22.6,clear
+757,Green Gram (Moong),Sumerpur,2013-01-01,5000.0,46.9,22.6,clear
+758,Green Gram (Moong),Jaitaran,2013-02-01,5300.0,2.3,26.8,clear
+759,Green Gram (Moong),Pali,2013-02-01,5500.0,40.0,26.8,clear
+760,Green Gram (Moong),Rani,2013-02-01,5074.0,1.5,26.8,clear
+761,Green Gram (Moong),Sumerpur,2013-02-01,5100.0,39.0,26.8,clear
+762,Green Gram (Moong),Jaitaran,2013-03-01,5300.0,4.5,27.0,clear
+763,Green Gram (Moong),Rani,2013-03-01,5000.0,1.0,27.0,clear
+764,Green Gram (Moong),Sumerpur,2013-03-01,4950.0,37.3,27.0,clear
+765,Green Gram (Moong),Jaitaran,2013-07-01,5350.0,2.7,37.0,clear
+766,Green Gram (Moong),Rani,2013-07-01,4975.0,1.2,37.0,clear
+767,Green Gram (Moong),Sumerpur,2013-07-01,5250.0,37.8,37.0,clear
+768,Green Gram (Moong),Jaitaran,2013-08-01,5350.0,1.9,33.2,clear
+769,Green Gram (Moong),Rani,2013-08-01,4954.0,2.3,33.2,clear
+770,Green Gram (Moong),Sojat Road,2013-08-01,4800.0,0.2,33.2,clear
+771,Green Gram (Moong),Sumerpur,2013-08-01,5000.0,16.8,33.2,clear
+772,Green Gram (Moong),Jaitaran,2013-09-01,5250.0,4.4,34.0,clear
+773,Green Gram (Moong),Rani,2013-09-01,5052.0,1.4,34.0,clear
+774,Green Gram (Moong),Sumerpur,2013-09-01,4981.0,18.3,34.0,clear
+775,Green Gram (Moong),Jaitaran,2013-10-01,5250.0,1.1,32.2,clear
+776,Green Gram (Moong),Rani,2013-10-01,4951.0,0.1,32.2,clear
+777,Green Gram (Moong),Sumerpur,2013-10-01,4925.0,14.3,32.2,clear
+778,Green Gram (Moong),Jaitaran,2013-01-16,5375.0,3.5,24.2,clear
+779,Green Gram (Moong),Pali,2013-01-16,5300.0,13.0,24.2,clear
+780,Green Gram (Moong),Rani,2013-01-16,5003.0,2.1,24.2,clear
+781,Green Gram (Moong),Sumerpur,2013-01-16,5110.0,32.7,24.2,clear
+782,Green Gram (Moong),Jaitaran,2013-01-25,5450.0,1.6,23.4,clear
+783,Green Gram (Moong),Pali,2013-01-25,5100.0,68.0,23.4,clear
+784,Green Gram (Moong),Rani,2013-01-25,5000.0,0.2,23.4,clear
+785,Green Gram (Moong),Sumerpur,2013-01-25,5065.0,6.2,23.4,clear
+786,Green Gram (Moong),Jaitaran,2013-01-28,4650.0,4.0,26.4,clear
+787,Green Gram (Moong),Rani,2013-01-28,5001.0,0.8,26.4,clear
+788,Green Gram (Moong),Sumerpur,2013-01-28,5050.0,2.9,26.4,clear
+789,Green Gram (Moong),Jaitaran,2013-01-02,5400.0,1.8,22.2,clear
+790,Green Gram (Moong),Sumerpur,2013-01-02,5050.0,3.2,22.2,clear
+791,Green Gram (Moong),Jaitaran,2013-07-02,4661.0,1.9,38.0,clear
+792,Green Gram (Moong),Sumerpur,2013-07-02,5078.0,7.4,38.0,clear
+793,Green Gram (Moong),Jaitaran,2013-09-02,4600.0,8.2,33.8,clear
+794,Green Gram (Moong),Rani,2013-09-02,4700.0,0.4,33.8,clear
+795,Green Gram (Moong),Sumerpur,2013-09-02,5071.0,0.6,33.8,clear
+796,Green Gram (Moong),Jaitaran,2013-02-13,4275.0,6.0,28.4,clear
+797,Green Gram (Moong),Sumerpur,2013-02-13,4870.0,1.6,28.4,clear
+798,Green Gram (Moong),Jaitaran,2013-02-15,4275.0,7.0,26.4,rain
+799,Green Gram (Moong),Sumerpur,2013-02-15,4950.0,16.4,26.4,rain
+800,Green Gram (Moong),Jaitaran,2013-02-26,4600.0,21.2,30.8,clear
+801,Green Gram (Moong),Jaitaran,2013-02-27,5300.0,6.9,27.0,clear
+802,Green Gram (Moong),Pali,2013-02-27,5300.0,15.0,27.0,clear
+803,Green Gram (Moong),Sojat Road,2013-02-27,4200.0,0.2,27.0,clear
+804,Green Gram (Moong),Sumerpur,2013-02-27,5142.0,5.3,27.0,clear
+805,Green Gram (Moong),Jaitaran,2013-02-28,4500.0,0.3,27.8,clear
+806,Green Gram (Moong),Pali,2013-02-28,5100.0,35.0,27.8,clear
+807,Green Gram (Moong),Jaitaran,2013-04-03,4400.0,13.1,34.0,clear
+808,Green Gram (Moong),Rani,2013-04-03,5000.0,0.4,34.0,clear
+809,Green Gram (Moong),Jaitaran,2013-07-03,5150.0,6.5,36.0,clear
+810,Green Gram (Moong),Jaitaran,2013-08-03,5175.0,2.5,34.0,clear
+811,Green Gram (Moong),Rani,2013-08-03,4930.0,3.0,34.0,clear
+812,Green Gram (Moong),Jaitaran,2013-11-03,5151.0,0.2,31.0,clear
+813,Green Gram (Moong),Jaitaran,2013-03-15,5262.0,0.6,33.0,clear
+814,Green Gram (Moong),Jaitaran,2013-03-19,5451.0,0.8,36.0,clear
+815,Green Gram (Moong),Rani,2013-03-19,5000.0,2.0,36.0,clear
+816,Green Gram (Moong),Jaitaran,2013-08-24,4800.0,1.5,35.2,clear
+817,Green Gram (Moong),Jaitaran,2013-02-09,4500.0,7.4,24.4,clear
+818,Green Gram (Moong),Rani,2013-02-09,4800.0,0.9,24.4,clear
+819,Green Gram (Moong),Sumerpur,2013-02-09,4971.0,2.3,24.4,clear
+820,Green Gram (Moong),Jaitaran,2013-05-09,4800.0,6.9,40.0,clear
+821,Green Gram (Moong),Rani,2013-05-09,4826.0,0.2,40.0,clear
+822,Green Gram (Moong),Sumerpur,2013-05-09,4950.0,3.5,40.0,clear
+823,Green Gram (Moong),Jaitaran,2013-07-09,5075.0,2.33,35.2,clear
+824,Green Gram (Moong),Pali,2013-07-09,4900.0,400.0,35.2,clear
+825,Green Gram (Moong),Rani,2013-07-09,4981.0,0.5,35.2,clear
+826,Green Gram (Moong),Sumerpur,2013-07-09,5150.0,6.3,35.2,clear
+827,Green Gram (Moong),Jaitaran,2013-10-09,4850.0,5.72,33.8,clear
+828,Green Gram (Moong),Pali,2013-10-09,4900.0,40.0,33.8,clear
+829,Green Gram (Moong),Rani,2013-10-09,5101.0,4.3,33.8,clear
+830,Green Gram (Moong),Sumerpur,2013-10-09,5220.0,12.0,33.8,clear
+831,Green Gram (Moong),Jaitaran,2013-11-09,4935.0,5.51,26.6,clear
+832,Green Gram (Moong),Pali,2013-11-09,4550.0,50.0,26.6,clear
+833,Green Gram (Moong),Rani,2013-11-09,5200.0,1.8,26.6,clear
+834,Green Gram (Moong),Sumerpur,2013-11-09,5410.0,9.8,26.6,clear
+835,Green Gram (Moong),Jaitaran,2013-12-09,5250.0,6.5,28.8,clear
+836,Green Gram (Moong),Pali,2013-12-09,5050.0,50.0,28.8,clear
+837,Green Gram (Moong),Rani,2013-12-09,5300.0,1.0,28.8,clear
+838,Green Gram (Moong),Sumerpur,2013-12-09,5180.0,39.1,28.8,clear
+839,Green Gram (Moong),Jaitaran,2013-09-13,5100.0,4.13,38.4,clear
+840,Green Gram (Moong),Pali,2013-09-13,5100.0,15.0,38.4,clear
+841,Green Gram (Moong),Rani,2013-09-13,5300.0,1.1,38.4,clear
+842,Green Gram (Moong),Sumerpur,2013-09-13,5200.0,21.2,38.4,clear
+843,Green Gram (Moong),Jaitaran,2013-09-14,5100.0,9.18,40.0,clear
+844,Green Gram (Moong),Rani,2013-09-14,5150.0,2.4,40.0,clear
+845,Green Gram (Moong),Sumerpur,2013-09-14,5201.0,23.7,40.0,clear
+846,Green Gram (Moong),Jaitaran,2013-09-16,5000.0,90.03,37.4,clear
+847,Green Gram (Moong),Pali,2013-09-16,4750.0,50.0,37.4,clear
+848,Green Gram (Moong),Rani,2013-09-16,5285.0,8.0,37.4,clear
+849,Green Gram (Moong),Sumerpur,2013-09-16,5291.0,43.8,37.4,clear
+850,Green Gram (Moong),Jaitaran,2013-09-19,4900.0,118.2,40.0,clear
+851,Green Gram (Moong),Pali,2013-09-19,4970.0,45.0,40.0,clear
+852,Green Gram (Moong),Rani,2013-09-19,5200.0,3.5,40.0,clear
+853,Green Gram (Moong),Sumerpur,2013-09-19,5225.0,52.5,40.0,clear
+854,Green Gram (Moong),Jaitaran,2013-09-20,4750.0,78.8,39.0,clear
+855,Green Gram (Moong),Pali,2013-09-20,5050.0,23.0,39.0,clear
+856,Green Gram (Moong),Rani,2013-09-20,5000.0,8.0,39.0,clear
+857,Green Gram (Moong),Jaitaran,2013-09-21,4975.0,71.2,34.4,clear
+858,Green Gram (Moong),Pali,2013-09-21,5050.0,20.0,34.4,clear
+859,Green Gram (Moong),Rani,2013-09-21,4700.0,13.0,34.4,clear
+860,Green Gram (Moong),Jaitaran,2013-09-23,4950.0,41.3,31.6,clear
+861,Green Gram (Moong),Pali,2013-09-23,5050.0,15.0,31.6,clear
+862,Green Gram (Moong),Rani,2013-09-23,5000.0,10.0,31.6,clear
+863,Green Gram (Moong),Sumerpur,2013-09-23,5140.0,79.5,31.6,clear
+864,Green Gram (Moong),Jaitaran,2013-09-26,4900.0,4.86,33.0,clear
+865,Green Gram (Moong),Rani,2013-09-26,5200.0,10.0,33.0,clear
+866,Green Gram (Moong),Sumerpur,2013-09-26,5150.0,88.2,33.0,clear
+867,Green Gram (Moong),Jaitaran,2013-09-27,5100.0,9.2,33.0,clear
+868,Green Gram (Moong),Rani,2013-09-27,5100.0,30.0,33.0,clear
+869,Green Gram (Moong),Sumerpur,2013-09-27,5220.0,132.9,33.0,clear
+870,Green Gram (Moong),Jaitaran,2013-09-28,5000.0,3.2,26.8,rain
+871,Green Gram (Moong),Pali,2013-09-28,4550.0,20.0,26.8,rain
+872,Green Gram (Moong),Jaitaran,2013-09-30,5150.0,6.98,30.6,clear
+873,Green Gram (Moong),Pali,2013-09-30,5050.0,35.0,30.6,clear
+874,Green Gram (Moong),Rani,2013-09-30,5050.0,0.3,30.6,clear
+875,Green Gram (Moong),Sumerpur,2013-09-30,5210.0,22.8,30.6,clear
+876,Green Gram (Moong),Jaitaran,2013-01-10,5200.0,6.73,26.6,clear
+877,Green Gram (Moong),Pali,2013-01-10,4800.0,20.0,26.6,clear
+878,Green Gram (Moong),Rani,2013-01-10,5480.0,45.2,26.6,clear
+879,Green Gram (Moong),Sumerpur,2013-01-10,5450.0,92.9,26.6,clear
+880,Green Gram (Moong),Jaitaran,2013-02-10,5150.0,4.84,26.4,clear
+881,Green Gram (Moong),Pali,2013-02-10,4550.0,20.0,26.4,clear
+882,Green Gram (Moong),Rani,2013-02-10,5250.0,22.9,26.4,clear
+883,Green Gram (Moong),Sumerpur,2013-02-10,5350.0,173.3,26.4,clear
+884,Green Gram (Moong),Jaitaran,2013-03-10,5100.0,4.87,33.0,clear
+885,Green Gram (Moong),Pali,2013-03-10,4850.0,15.0,33.0,clear
+886,Green Gram (Moong),Rani,2013-03-10,5200.0,27.3,33.0,clear
+887,Green Gram (Moong),Sumerpur,2013-03-10,5240.0,185.7,33.0,clear
+888,Green Gram (Moong),Jaitaran,2013-04-10,5000.0,2.72,34.2,clear
+889,Green Gram (Moong),Rani,2013-04-10,5250.0,26.0,34.2,clear
+890,Green Gram (Moong),Jaitaran,2013-08-10,5100.0,2.91,31.4,clear
+891,Green Gram (Moong),Pali,2013-08-10,5250.0,125.0,31.4,clear
+892,Green Gram (Moong),Rani,2013-08-10,5300.0,31.3,31.4,clear
+893,Green Gram (Moong),Sumerpur,2013-08-10,5350.0,109.4,31.4,clear
+894,Green Gram (Moong),Jaitaran,2013-09-10,5100.0,3.38,36.2,clear
+895,Green Gram (Moong),Rani,2013-09-10,5300.0,47.5,36.2,clear
+896,Green Gram (Moong),Sumerpur,2013-09-10,5135.0,92.2,36.2,clear
+897,Green Gram (Moong),Jaitaran,2013-10-10,5000.0,3.58,34.8,clear
+898,Green Gram (Moong),Rani,2013-10-10,4900.0,60.0,34.8,clear
+899,Green Gram (Moong),Sumerpur,2013-10-10,5115.0,75.1,34.8,clear
+900,Green Gram (Moong),Jaitaran,2013-11-10,5050.0,2.2,26.4,clear
+901,Green Gram (Moong),Rani,2013-11-10,5100.0,30.4,26.4,clear
+902,Green Gram (Moong),Sojat Road,2013-11-10,5071.0,0.2,26.4,clear
+903,Green Gram (Moong),Sumerpur,2013-11-10,5075.0,126.4,26.4,clear
+904,Green Gram (Moong),Jaitaran,2013-12-10,5100.0,1.35,28.4,clear
+905,Green Gram (Moong),Rani,2013-12-10,5000.0,40.0,28.4,clear
+906,Green Gram (Moong),Sumerpur,2013-12-10,5060.0,100.6,28.4,clear
+907,Green Gram (Moong),Jaitaran,2013-10-17,5100.0,7.7,35.0,clear
+908,Green Gram (Moong),Pali,2013-10-17,5050.0,25.0,35.0,clear
+909,Green Gram (Moong),Rani,2013-10-17,4646.0,38.0,35.0,clear
+910,Green Gram (Moong),Jaitaran,2013-10-18,5100.0,1.21,36.0,clear
+911,Green Gram (Moong),Pali,2013-10-18,5250.0,35.0,36.0,clear
+912,Green Gram (Moong),Rani,2013-10-18,5200.0,15.0,36.0,clear
+913,Green Gram (Moong),Jaitaran,2013-10-19,5100.0,7.3,36.4,clear
+914,Green Gram (Moong),Pali,2013-10-19,5050.0,30.0,36.4,clear
+915,Green Gram (Moong),Rani,2013-10-19,5000.0,30.0,36.4,clear
+916,Green Gram (Moong),Sumerpur,2013-10-19,5220.0,168.3,36.4,clear
+917,Green Gram (Moong),Jaitaran,2013-10-21,5150.0,1.92,35.4,clear
+918,Green Gram (Moong),Pali,2013-10-21,5050.0,130.0,35.4,clear
+919,Green Gram (Moong),Rani,2013-10-21,5150.0,29.4,35.4,clear
+920,Green Gram (Moong),Sojat Road,2013-10-21,2100.0,0.3,35.4,clear
+921,Green Gram (Moong),Sumerpur,2013-10-21,5210.0,168.3,35.4,clear
+922,Green Gram (Moong),Jaitaran,2013-10-22,5100.0,9.8,36.4,clear
+923,Green Gram (Moong),Rani,2013-10-22,4800.0,27.7,36.4,clear
+924,Green Gram (Moong),Sojat Road,2013-10-22,4000.0,0.1,36.4,clear
+925,Green Gram (Moong),Sumerpur,2013-10-22,4800.0,144.3,36.4,clear
+926,Green Gram (Moong),Jaitaran,2013-10-23,5150.0,7.4,35.2,clear
+927,Green Gram (Moong),Pali,2013-10-23,5150.0,21.0,35.2,clear
+928,Green Gram (Moong),Rani,2013-10-23,4700.0,20.0,35.2,clear
+929,Green Gram (Moong),Sumerpur,2013-10-23,5210.0,108.0,35.2,clear
+930,Green Gram (Moong),Jaitaran,2013-10-24,5200.0,3.0,33.2,clear
+931,Green Gram (Moong),Pali,2013-10-24,5050.0,20.0,33.2,clear
+932,Green Gram (Moong),Rani,2013-10-24,4800.0,22.8,33.2,clear
+933,Green Gram (Moong),Sumerpur,2013-10-24,5200.0,133.4,33.2,clear
+934,Green Gram (Moong),Jaitaran,2013-10-25,5150.0,8.0,32.8,clear
+935,Green Gram (Moong),Rani,2013-10-25,4700.0,20.0,32.8,clear
+936,Green Gram (Moong),Jaitaran,2013-10-26,5100.0,2.61,33.2,clear
+937,Green Gram (Moong),Rani,2013-10-26,4900.0,16.5,33.2,clear
+938,Green Gram (Moong),Jaitaran,2013-10-28,5150.0,1.62,34.0,clear
+939,Green Gram (Moong),Pali,2013-10-28,5050.0,25.0,34.0,clear
+940,Green Gram (Moong),Rani,2013-10-28,4800.0,15.2,34.0,clear
+941,Green Gram (Moong),Jaitaran,2013-10-29,5240.0,4.0,32.6,clear
+942,Green Gram (Moong),Rani,2013-10-29,4800.0,15.0,32.6,clear
+943,Green Gram (Moong),Jaitaran,2013-10-30,5000.0,9.1,31.8,clear
+944,Green Gram (Moong),Rani,2013-10-30,4500.0,24.0,31.8,clear
+945,Green Gram (Moong),Sojat Road,2013-10-30,4851.0,0.7,31.8,clear
+946,Green Gram (Moong),Jaitaran,2013-10-31,5200.0,7.8,32.6,clear
+947,Green Gram (Moong),Pali,2013-10-31,5250.0,50.0,32.6,clear
+948,Green Gram (Moong),Rani,2013-10-31,5300.0,6.0,32.6,clear
+949,Green Gram (Moong),Sojat Road,2013-10-31,2500.0,0.1,32.6,clear
+950,Green Gram (Moong),Jaitaran,2013-06-11,4800.0,1.83,36.0,rain
+951,Green Gram (Moong),Rani,2013-06-11,5416.0,0.2,36.0,rain
+952,Green Gram (Moong),Jaitaran,2013-08-11,5400.0,5.1,29.6,clear
+953,Green Gram (Moong),Rani,2013-08-11,5000.0,26.8,29.6,clear
+954,Green Gram (Moong),Jaitaran,2013-11-11,4800.0,2.0,26.4,clear
+955,Green Gram (Moong),Rani,2013-11-11,5200.0,24.4,26.4,clear
+956,Green Gram (Moong),Sojat Road,2013-11-11,2400.0,0.1,26.4,clear
+957,Green Gram (Moong),Jaitaran,2013-12-11,5525.0,2.1,28.4,clear
+958,Green Gram (Moong),Rani,2013-12-11,5100.0,20.0,28.4,clear
+959,Green Gram (Moong),Jaitaran,2013-11-13,5300.0,2.7,28.0,clear
+960,Green Gram (Moong),Rani,2013-11-13,5000.0,25.0,28.0,clear
+961,Green Gram (Moong),Jaitaran,2013-11-16,3350.0,10.0,27.8,clear
+962,Green Gram (Moong),Pali,2013-11-16,5350.0,35.0,27.8,clear
+963,Green Gram (Moong),Rani,2013-11-16,5000.0,15.5,27.8,clear
+964,Green Gram (Moong),Sumerpur,2013-11-16,5320.0,68.5,27.8,clear
+965,Green Gram (Moong),Jaitaran,2013-05-12,5450.0,3.2,38.6,clear
+966,Green Gram (Moong),Jaitaran,2013-10-12,4150.0,7.6,31.8,clear
+967,Green Gram (Moong),Pali,2013-10-12,5020.0,40.0,31.8,clear
+968,Green Gram (Moong),Rani,2013-10-12,5180.0,3.6,31.8,clear
+969,Green Gram (Moong),Jaitaran,2013-12-12,4100.0,4.2,29.2,clear
+970,Green Gram (Moong),Rani,2013-12-12,5000.0,0.3,29.2,clear
+971,Green Gram (Moong),Sojat Road,2013-12-12,4050.0,0.2,29.2,clear
+972,Green Gram (Moong),Jaitaran,2013-12-14,5400.0,0.7,28.0,clear
+973,Green Gram (Moong),Jaitaran,2013-12-18,3850.0,4.5,27.0,clear
+974,Green Gram (Moong),Pali,2013-12-18,5550.0,45.0,27.0,clear
+975,Green Gram (Moong),Sojat Road,2013-12-18,3410.0,0.1,27.0,clear
+976,Green Gram (Moong),Jaitaran,2013-12-19,4200.0,3.5,17.8,clear
+977,Green Gram (Moong),Sojat Road,2013-12-19,3410.0,0.1,17.8,clear
+978,Green Gram (Moong),Jaitaran,2013-12-20,5900.0,4.2,19.4,clear
+979,Green Gram (Moong),Sumerpur,2013-12-20,5501.0,34.4,19.4,clear
+980,Green Gram (Moong),Jaitaran,2013-12-24,5800.0,10.0,21.4,clear
+981,Green Gram (Moong),Rani,2013-12-24,5757.0,1.3,21.4,clear
+982,Green Gram (Moong),Jaitaran,2013-12-26,5500.0,2.5,23.0,clear
+983,Green Gram (Moong),Rani,2013-12-26,5728.0,1.1,23.0,clear
+984,Green Gram (Moong),Sumerpur,2013-12-26,5565.0,26.4,23.0,clear
+985,Green Gram (Moong),Pali,2013-01-15,5200.0,46.0,24.4,clear
+986,Green Gram (Moong),Rani,2013-01-15,5050.0,0.5,24.4,clear
+987,Green Gram (Moong),Sumerpur,2013-01-15,4950.0,18.5,24.4,clear
+988,Green Gram (Moong),Pali,2013-01-22,5500.0,8.0,21.6,clear
+989,Green Gram (Moong),Rani,2013-01-22,5050.0,2.2,21.6,clear
+990,Green Gram (Moong),Sumerpur,2013-01-22,5110.0,20.5,21.6,clear
+991,Green Gram (Moong),Pali,2013-01-23,5400.0,80.0,23.4,clear
+992,Green Gram (Moong),Sumerpur,2013-01-23,5085.0,17.9,23.4,clear
+993,Green Gram (Moong),Pali,2013-02-21,5100.0,20.0,29.2,clear
+994,Green Gram (Moong),Sumerpur,2013-02-21,5063.0,3.4,29.2,clear
+995,Green Gram (Moong),Pali,2013-01-03,5000.0,8.0,22.0,clear
+996,Green Gram (Moong),Pali,2013-02-03,4950.0,10.0,29.0,clear
+997,Green Gram (Moong),Rani,2013-02-03,4997.0,4.3,29.0,clear
+998,Green Gram (Moong),Pali,2013-09-25,4850.0,20.0,31.6,clear
+999,Green Gram (Moong),Rani,2013-09-25,5300.0,10.0,31.6,clear
+1000,Green Gram (Moong),Sojat Road,2013-09-25,4601.0,0.2,31.6,clear
+1001,Green Gram (Moong),Pali,2013-10-20,5300.0,20.0,35.8,clear
+1002,Green Gram (Moong),Pali,2013-01-11,4900.0,30.0,27.6,clear
+1003,Green Gram (Moong),Pali,2013-05-11,4900.0,50.0,37.4,clear
+1004,Green Gram (Moong),Pali,2013-07-11,5050.0,25.0,36.4,rain
+1005,Green Gram (Moong),Rani,2013-07-11,5000.0,12.0,36.4,rain
+1006,Green Gram (Moong),Sumerpur,2013-07-11,5450.0,94.0,36.4,rain
+1007,Green Gram (Moong),Pali,2013-11-14,5050.0,35.0,27.8,clear
+1008,Green Gram (Moong),Rani,2013-11-14,5200.0,20.0,27.8,clear
+1009,Green Gram (Moong),Pali,2013-11-15,5080.0,15.0,27.8,clear
+1010,Green Gram (Moong),Rani,2013-11-15,5000.0,23.0,27.8,clear
+1011,Green Gram (Moong),Pali,2013-11-18,4850.0,45.0,29.4,clear
+1012,Green Gram (Moong),Sumerpur,2013-11-18,4905.0,117.2,29.4,clear
+1013,Green Gram (Moong),Pali,2013-11-19,4850.0,40.0,29.4,clear
+1014,Green Gram (Moong),Rani,2013-11-19,5600.0,10.0,29.4,clear
+1015,Green Gram (Moong),Pali,2013-11-21,4850.0,20.0,30.8,clear
+1016,Green Gram (Moong),Rani,2013-11-21,5300.0,8.0,30.8,clear
+1017,Green Gram (Moong),Sumerpur,2013-11-21,5450.0,110.8,30.8,clear
+1018,Green Gram (Moong),Pali,2013-11-22,5050.0,60.0,30.6,clear
+1019,Green Gram (Moong),Rani,2013-11-22,5400.0,8.5,30.6,clear
+1020,Green Gram (Moong),Pali,2013-11-23,5450.0,30.0,26.4,clear
+1021,Green Gram (Moong),Sojat Road,2013-11-23,3301.0,0.2,26.4,clear
+1022,Green Gram (Moong),Pali,2013-11-26,5050.0,50.0,30.4,clear
+1023,Green Gram (Moong),Rani,2013-11-26,5400.0,2.3,30.4,clear
+1024,Green Gram (Moong),Pali,2013-11-29,2750.0,25.0,29.6,clear
+1025,Green Gram (Moong),Rani,2013-11-29,3700.0,0.3,29.6,clear
+1026,Green Gram (Moong),Pali,2013-02-12,5050.0,20.0,28.4,clear
+1027,Green Gram (Moong),Rani,2013-02-12,5500.0,1.3,28.4,clear
+1028,Green Gram (Moong),Pali,2013-03-12,4850.0,10.0,34.0,clear
+1029,Green Gram (Moong),Pali,2013-04-12,4400.0,150.0,36.6,clear
+1030,Green Gram (Moong),Rani,2013-04-12,5575.0,2.4,36.6,clear
+1031,Green Gram (Moong),Pali,2013-06-12,4550.0,25.0,34.2,clear
+1032,Green Gram (Moong),Rani,2013-06-12,4760.0,1.6,34.2,clear
+1033,Green Gram (Moong),Pali,2013-07-12,5050.0,50.0,37.6,clear
+1034,Green Gram (Moong),Rani,2013-07-12,5206.0,1.2,37.6,clear
+1035,Green Gram (Moong),Pali,2013-12-30,3600.0,20.0,21.8,clear
+1036,Green Gram (Moong),Rani,2013-12-30,5613.0,1.3,21.8,clear
+1037,Green Gram (Moong),Sumerpur,2013-12-30,6280.0,43.2,21.8,clear
+1038,Green Gram (Moong),Rani,2013-05-01,4965.0,3.7,39.2,clear
+1039,Green Gram (Moong),Sumerpur,2013-05-01,5078.0,27.3,39.2,clear
+1040,Green Gram (Moong),Rani,2013-11-01,5077.0,1.3,32.0,clear
+1041,Green Gram (Moong),Sumerpur,2013-11-01,5077.0,18.9,32.0,clear
+1042,Green Gram (Moong),Rani,2013-12-01,4960.0,0.4,29.0,clear
+1043,Green Gram (Moong),Rani,2013-01-19,5000.0,4.3,19.0,clear
+1044,Green Gram (Moong),Sumerpur,2013-01-19,5050.0,16.9,19.0,clear
+1045,Green Gram (Moong),Rani,2013-01-21,5000.0,0.1,20.2,clear
+1046,Green Gram (Moong),Sumerpur,2013-01-21,4950.0,23.0,20.2,clear
+1047,Green Gram (Moong),Rani,2013-01-24,5000.0,0.1,23.4,clear
+1048,Green Gram (Moong),Sumerpur,2013-01-24,5145.0,14.1,23.4,clear
+1049,Green Gram (Moong),Rani,2013-04-02,4825.0,2.4,36.0,clear
+1050,Green Gram (Moong),Sumerpur,2013-04-02,5011.0,11.2,36.0,clear
+1051,Green Gram (Moong),Rani,2013-05-02,4851.0,0.3,39.0,clear
+1052,Green Gram (Moong),Rani,2013-06-02,4776.0,0.1,42.2,clear
+1053,Green Gram (Moong),Sumerpur,2013-06-02,4964.0,2.4,42.2,clear
+1054,Green Gram (Moong),Rani,2013-02-16,4900.0,0.3,17.2,clear
+1055,Green Gram (Moong),Sumerpur,2013-02-16,4790.0,5.1,17.2,clear
+1056,Green Gram (Moong),Rani,2013-02-20,4700.0,0.8,27.4,clear
+1057,Green Gram (Moong),Sumerpur,2013-02-20,5100.0,8.8,27.4,clear
+1058,Green Gram (Moong),Rani,2013-02-22,4950.0,0.6,30.2,clear
+1059,Green Gram (Moong),Sumerpur,2013-02-22,5100.0,5.3,30.2,clear
+1060,Green Gram (Moong),Rani,2013-07-25,4500.0,1.9,36.0,rain
+1061,Green Gram (Moong),Rani,2013-09-24,5100.0,16.9,34.4,clear
+1062,Green Gram (Moong),Sumerpur,2013-09-24,5165.0,90.4,34.4,clear
+1063,Green Gram (Moong),Rani,2013-11-20,5300.0,10.0,30.8,clear
+1064,Green Gram (Moong),Sojat Road,2013-11-20,3000.0,0.3,30.8,clear
+1065,Green Gram (Moong),Sumerpur,2013-11-20,5430.0,92.6,30.8,clear
+1066,Green Gram (Moong),Rani,2013-11-25,5000.0,7.5,31.0,clear
+1067,Green Gram (Moong),Sojat Road,2013-11-25,3791.0,0.7,31.0,clear
+1068,Green Gram (Moong),Rani,2013-11-27,5300.0,2.7,32.0,clear
+1069,Green Gram (Moong),Sojat Road,2013-11-27,3801.0,0.2,32.0,clear
+1070,Green Gram (Moong),Sumerpur,2013-11-27,5401.0,92.7,32.0,clear
+1071,Green Gram (Moong),Rani,2013-11-28,5200.0,5.8,31.0,clear
+1072,Green Gram (Moong),Sojat Road,2013-11-28,3701.0,0.3,31.0,clear
+1073,Green Gram (Moong),Sumerpur,2013-11-28,5425.0,81.9,31.0,clear
+1074,Green Gram (Moong),Rani,2013-11-30,5200.0,1.1,29.0,clear
+1075,Green Gram (Moong),Rani,2013-08-12,5740.0,1.4,30.0,clear
+1076,Green Gram (Moong),Rani,2013-11-12,4725.0,0.7,27.8,clear
+1077,Green Gram (Moong),Rani,2013-12-13,5140.0,1.1,27.8,clear
+1078,Green Gram (Moong),Rani,2013-12-17,4445.0,1.1,27.4,clear
+1079,Green Gram (Moong),Rani,2013-12-25,5800.0,0.6,22.0,clear
+1080,Green Gram (Moong),Sumerpur,2013-12-25,5525.0,9.2,22.0,clear
+1081,Green Gram (Moong),Rani,2013-12-27,5301.0,1.2,23.6,clear
+1082,Green Gram (Moong),Sumerpur,2013-12-27,5580.0,12.6,23.6,clear
+1083,Green Gram (Moong),Rani,2013-12-31,3775.0,0.3,18.0,clear
+1084,Green Gram (Moong),Sojat Road,2013-06-18,4000.0,0.2,37.2,clear
+1085,Green Gram (Moong),Sumerpur,2013-04-01,4950.0,43.0,37.0,clear
+1086,Green Gram (Moong),Sumerpur,2013-01-14,5057.0,11.6,25.0,clear
+1087,Green Gram (Moong),Sumerpur,2013-01-17,5140.0,35.2,16.2,clear
+1088,Green Gram (Moong),Sumerpur,2013-01-18,5080.0,8.8,17.2,clear
+1089,Green Gram (Moong),Sumerpur,2013-01-30,5095.0,8.0,27.8,clear
+1090,Green Gram (Moong),Sumerpur,2013-01-31,5015.0,7.7,26.0,clear
+1091,Green Gram (Moong),Sumerpur,2013-02-02,5041.0,4.5,27.8,clear
+1092,Green Gram (Moong),Sumerpur,2013-11-02,4995.0,12.5,30.6,clear
+1093,Green Gram (Moong),Sumerpur,2013-12-02,4893.0,12.3,29.0,clear
+1094,Green Gram (Moong),Sumerpur,2013-02-14,4920.0,10.8,30.8,clear
+1095,Green Gram (Moong),Sumerpur,2013-02-18,4950.0,4.9,25.0,clear
+1096,Green Gram (Moong),Sumerpur,2013-02-19,5100.0,2.2,26.4,clear
+1097,Green Gram (Moong),Sumerpur,2013-02-25,5200.0,5.7,27.2,clear
+1098,Green Gram (Moong),Sumerpur,2013-03-13,5001.0,1.0,34.2,clear
+1099,Green Gram (Moong),Sumerpur,2013-06-28,5270.0,0.2,35.8,clear
+1100,Green Gram (Moong),Sumerpur,2013-07-15,4890.0,0.3,34.6,clear
+1101,Green Gram (Moong),Sumerpur,2013-09-08,4875.0,1.0,34.8,clear
+1102,Green Gram (Moong),Sumerpur,2013-10-08,4630.0,0.8,35.0,clear
+1103,Green Gram (Moong),Sumerpur,2013-08-14,4930.0,0.2,29.8,rain
+1104,Green Gram (Moong),Sumerpur,2013-08-22,4825.0,0.2,32.6,clear
+1105,Green Gram (Moong),Sumerpur,2013-09-09,5210.0,2.3,35.4,clear
+1106,Green Gram (Moong),Sumerpur,2013-09-12,5775.0,23.1,37.4,clear
+1107,Bengal Gram(Gram),Rani,2014-04-01,2480.0,0.2,36.2,clear
+1108,Green Gram (Moong),Pali,2014-04-01,5050.0,20.0,36.2,clear
+1109,Green Gram (Moong),Rani,2014-04-01,6100.0,0.1,36.2,clear
+1110,Green Gram (Moong),Sojat Road,2014-04-01,4151.0,0.2,36.2,clear
+1111,Bengal Gram(Gram),Rani,2014-06-01,2050.0,0.1,41.4,clear
+1112,Green Gram (Moong),Pali,2014-06-01,5800.0,25.0,41.4,clear
+1113,Green Gram (Moong),Rani,2014-06-01,6371.0,0.2,41.4,clear
+1114,Green Gram (Moong),Sumerpur,2014-06-01,6425.0,70.1,41.4,clear
+1115,Bengal Gram(Gram),Rani,2014-01-18,2753.0,1.5,21.0,clear
+1116,Green Gram (Moong),Rani,2014-01-18,7051.0,0.1,21.0,clear
+1117,Green Gram (Moong),Sumerpur,2014-01-18,6560.0,8.7,21.0,clear
+1118,Bengal Gram(Gram),Rani,2014-01-29,2500.0,0.2,27.6,clear
+1119,Green Gram (Moong),Rani,2014-01-29,4601.0,0.2,27.6,clear
+1120,Black Gram (Urd Beans),Jaitaran,2014-07-23,2375.0,15.1,38.8,clear
+1121,Black Gram (Urd Beans),Jaitaran,2014-07-26,2560.0,1.9,29.0,clear
+1122,Black Gram (Urd Beans),Pali,2014-05-14,3100.0,4000.0,35.4,rain
+1123,Black Gram (Urd Beans),Sojat Road,2014-07-29,2480.0,0.1,29.2,clear
+1124,Green Gram (Moong),Jaitaran,2014-01-16,5000.0,2.5,23.0,clear
+1125,Green Gram (Moong),Rani,2014-01-16,6800.0,0.2,23.0,clear
+1126,Green Gram (Moong),Sojat Road,2014-01-16,3401.0,0.1,23.0,clear
+1127,Green Gram (Moong),Jaitaran,2014-01-17,5000.0,5.0,22.4,clear
+1128,Green Gram (Moong),Rani,2014-01-17,6900.0,0.2,22.4,clear
+1129,Green Gram (Moong),Jaitaran,2014-03-25,2825.0,54.2,33.4,clear
+1130,Green Gram (Moong),Jaitaran,2014-01-04,2900.0,11.5,24.2,clear
+1131,Green Gram (Moong),Jaitaran,2014-09-15,6100.0,0.5,33.0,clear
+1132,Green Gram (Moong),Jaitaran,2014-09-17,6082.0,0.5,33.4,clear
+1133,Green Gram (Moong),Sojat Road,2014-09-17,5081.0,0.1,33.4,clear
+1134,Green Gram (Moong),Jaitaran,2014-09-19,6000.0,5.7,33.6,clear
+1135,Green Gram (Moong),Sumerpur,2014-09-19,5200.0,1.0,33.6,clear
+1136,Green Gram (Moong),Jaitaran,2014-09-20,5800.0,6.5,33.0,clear
+1137,Green Gram (Moong),Sojat Road,2014-09-20,5502.0,0.2,33.0,clear
+1138,Green Gram (Moong),Jaitaran,2014-09-23,6500.0,0.8,33.4,clear
+1139,Green Gram (Moong),Sumerpur,2014-09-23,5950.0,12.2,33.4,clear
+1140,Green Gram (Moong),Jaitaran,2014-09-24,6125.0,10.6,33.0,clear
+1141,Green Gram (Moong),Sojat Road,2014-09-24,5751.0,0.2,33.0,clear
+1142,Green Gram (Moong),Sumerpur,2014-09-24,5900.0,10.7,33.0,clear
+1143,Green Gram (Moong),Jaitaran,2014-09-26,6300.0,9.4,33.0,clear
+1144,Green Gram (Moong),Sojat Road,2014-09-26,5400.0,0.1,33.0,clear
+1145,Green Gram (Moong),Sumerpur,2014-09-26,6280.0,10.9,33.0,clear
+1146,Green Gram (Moong),Jaitaran,2014-09-27,6275.0,16.6,33.0,clear
+1147,Green Gram (Moong),Jaitaran,2014-09-29,6675.0,6.6,34.8,clear
+1148,Green Gram (Moong),Sojat Road,2014-09-29,5840.0,0.3,34.8,clear
+1149,Green Gram (Moong),Sumerpur,2014-09-29,6275.0,37.1,34.8,clear
+1150,Green Gram (Moong),Jaitaran,2014-09-30,6250.0,8.9,34.4,clear
+1151,Green Gram (Moong),Sojat Road,2014-09-30,6050.0,0.1,34.4,clear
+1152,Green Gram (Moong),Sumerpur,2014-09-30,6260.0,25.2,34.4,clear
+1153,Green Gram (Moong),Jaitaran,2014-01-10,6125.0,16.4,21.0,clear
+1154,Green Gram (Moong),Jaitaran,2014-02-10,6025.0,17.4,22.2,clear
+1155,Green Gram (Moong),Jaitaran,2014-03-10,6300.0,18.5,32.8,clear
+1156,Green Gram (Moong),Jaitaran,2014-04-10,6225.0,21.4,37.2,clear
+1157,Green Gram (Moong),Jaitaran,2014-07-10,6556.0,21.1,40.0,clear
+1158,Green Gram (Moong),Rani,2014-07-10,6400.0,356.0,40.0,clear
+1159,Green Gram (Moong),Jaitaran,2014-08-10,6800.0,52.4,33.4,clear
+1160,Green Gram (Moong),Rani,2014-08-10,6600.0,143.0,33.4,clear
+1161,Green Gram (Moong),Jaitaran,2014-09-10,7050.0,35.2,31.8,clear
+1162,Green Gram (Moong),Rani,2014-09-10,6700.0,280.0,31.8,clear
+1163,Green Gram (Moong),Jaitaran,2014-10-10,7150.0,26.3,37.4,clear
+1164,Green Gram (Moong),Rani,2014-10-10,6650.0,446.0,37.4,clear
+1165,Green Gram (Moong),Jaitaran,2014-11-10,6850.0,45.5,31.0,clear
+1166,Green Gram (Moong),Rani,2014-11-10,6800.0,560.0,31.0,clear
+1167,Green Gram (Moong),Jaitaran,2014-10-13,6750.0,53.3,36.2,clear
+1168,Green Gram (Moong),Rani,2014-10-13,6588.0,815.0,36.2,clear
+1169,Green Gram (Moong),Jaitaran,2014-10-14,6650.0,57.6,32.0,clear
+1170,Green Gram (Moong),Rani,2014-10-14,6600.0,900.0,32.0,clear
+1171,Green Gram (Moong),Sojat Road,2014-10-14,6821.0,0.2,32.0,clear
+1172,Green Gram (Moong),Jaitaran,2014-10-15,6700.0,50.4,33.0,clear
+1173,Green Gram (Moong),Rani,2014-10-15,6800.0,882.0,33.0,clear
+1174,Green Gram (Moong),Jaitaran,2014-10-16,6775.0,64.3,33.0,clear
+1175,Green Gram (Moong),Rani,2014-10-16,6800.0,960.0,33.0,clear
+1176,Green Gram (Moong),Jaitaran,2014-10-17,6650.0,66.4,33.4,clear
+1177,Green Gram (Moong),Rani,2014-10-17,6800.0,1101.0,33.4,clear
+1178,Green Gram (Moong),Jaitaran,2014-10-18,6700.0,29.3,34.4,clear
+1179,Green Gram (Moong),Rani,2014-10-18,6800.0,1522.0,34.4,clear
+1180,Green Gram (Moong),Jaitaran,2014-10-20,6559.0,10.7,35.4,clear
+1181,Green Gram (Moong),Rani,2014-10-20,6800.0,954.0,35.4,clear
+1182,Green Gram (Moong),Jaitaran,2014-10-27,7050.0,21.7,35.2,clear
+1183,Green Gram (Moong),Rani,2014-10-27,6850.0,396.0,35.2,clear
+1184,Green Gram (Moong),Jaitaran,2014-10-28,7105.0,16.5,35.0,clear
+1185,Green Gram (Moong),Rani,2014-10-28,6900.0,500.0,35.0,clear
+1186,Green Gram (Moong),Sojat Road,2014-10-28,6622.0,3.1,35.0,clear
+1187,Green Gram (Moong),Jaitaran,2014-10-29,7200.0,10.7,33.4,clear
+1188,Green Gram (Moong),Rani,2014-10-29,7050.0,567.0,33.4,clear
+1189,Green Gram (Moong),Jaitaran,2014-10-30,7400.0,5.5,34.8,clear
+1190,Green Gram (Moong),Rani,2014-10-30,7000.0,566.0,34.8,clear
+1191,Green Gram (Moong),Jaitaran,2014-10-31,7200.0,4.3,30.4,clear
+1192,Green Gram (Moong),Pali,2014-10-31,7400.0,10.1,30.4,clear
+1193,Green Gram (Moong),Rani,2014-10-31,7100.0,611.0,30.4,clear
+1194,Green Gram (Moong),Jaitaran,2014-01-11,7362.0,25.3,20.0,clear
+1195,Green Gram (Moong),Rani,2014-01-11,7100.0,47.0,20.0,clear
+1196,Green Gram (Moong),Sojat Road,2014-01-11,6751.0,0.1,20.0,clear
+1197,Green Gram (Moong),Jaitaran,2014-03-11,7500.0,12.5,29.8,clear
+1198,Green Gram (Moong),Rani,2014-03-11,7461.0,500.0,29.8,clear
+1199,Green Gram (Moong),Sojat Road,2014-03-11,7001.0,0.4,29.8,clear
+1200,Green Gram (Moong),Jaitaran,2014-04-11,7500.0,3.3,38.6,clear
+1201,Green Gram (Moong),Rani,2014-04-11,7301.0,606.0,38.6,clear
+1202,Green Gram (Moong),Sojat Road,2014-04-11,7200.0,2.3,38.6,clear
+1203,Green Gram (Moong),Jaitaran,2014-05-11,7400.0,13.4,37.0,rain
+1204,Green Gram (Moong),Rani,2014-05-11,4600.0,366.0,37.0,rain
+1205,Green Gram (Moong),Sojat Road,2014-05-11,7276.0,0.4,37.0,rain
+1206,Green Gram (Moong),Jaitaran,2014-06-11,7395.0,3.2,41.4,clear
+1207,Green Gram (Moong),Sojat Road,2014-06-11,7150.0,0.4,41.4,clear
+1208,Green Gram (Moong),Jaitaran,2014-07-11,7450.0,14.0,40.8,clear
+1209,Green Gram (Moong),Pali,2014-07-11,7450.0,15.0,40.8,clear
+1210,Green Gram (Moong),Rani,2014-07-11,7200.0,500.0,40.8,clear
+1211,Green Gram (Moong),Sojat Road,2014-07-11,7191.0,0.3,40.8,clear
+1212,Green Gram (Moong),Jaitaran,2014-08-11,7350.0,24.8,28.8,clear
+1213,Green Gram (Moong),Rani,2014-08-11,7300.0,374.0,28.8,clear
+1214,Green Gram (Moong),Sojat Road,2014-08-11,7200.0,0.9,28.8,clear
+1215,Green Gram (Moong),Jaitaran,2014-10-11,7187.0,4.5,37.8,clear
+1216,Green Gram (Moong),Pali,2014-10-11,7450.0,7.0,37.8,clear
+1217,Green Gram (Moong),Sojat Road,2014-10-11,7151.0,0.5,37.8,clear
+1218,Green Gram (Moong),Jaitaran,2014-11-11,7275.0,6.5,31.4,clear
+1219,Green Gram (Moong),Pali,2014-11-11,7450.0,16.0,31.4,clear
+1220,Green Gram (Moong),Rani,2014-11-11,7000.0,200.0,31.4,clear
+1221,Green Gram (Moong),Sojat Road,2014-11-11,7200.0,1.1,31.4,clear
+1222,Green Gram (Moong),Jaitaran,2014-12-11,7300.0,3.0,34.8,clear
+1223,Green Gram (Moong),Pali,2014-12-11,7120.0,4.0,34.8,clear
+1224,Green Gram (Moong),Rani,2014-12-11,7000.0,150.0,34.8,clear
+1225,Green Gram (Moong),Sojat Road,2014-12-11,6950.0,0.1,34.8,clear
+1226,Green Gram (Moong),Jaitaran,2014-11-13,7375.0,7.7,31.0,clear
+1227,Green Gram (Moong),Pali,2014-11-13,7120.0,2.0,31.0,clear
+1228,Green Gram (Moong),Rani,2014-11-13,7050.0,120.0,31.0,clear
+1229,Green Gram (Moong),Sojat Road,2014-11-13,7061.0,0.1,31.0,clear
+1230,Green Gram (Moong),Jaitaran,2014-11-17,7325.0,4.0,31.4,clear
+1231,Green Gram (Moong),Rani,2014-11-17,7100.0,110.0,31.4,clear
+1232,Green Gram (Moong),Sojat Road,2014-11-17,6500.0,1.0,31.4,clear
+1233,Green Gram (Moong),Jaitaran,2014-11-18,7250.0,1.3,31.4,clear
+1234,Green Gram (Moong),Rani,2014-11-18,7200.0,50.0,31.4,clear
+1235,Green Gram (Moong),Sojat Road,2014-11-18,6900.0,0.5,31.4,clear
+1236,Green Gram (Moong),Jaitaran,2014-11-19,7112.0,2.6,31.4,clear
+1237,Green Gram (Moong),Pali,2014-11-19,7000.0,4.0,31.4,clear
+1238,Green Gram (Moong),Rani,2014-11-19,7100.0,70.0,31.4,clear
+1239,Green Gram (Moong),Sojat Road,2014-11-19,6875.0,0.1,31.4,clear
+1240,Green Gram (Moong),Jaitaran,2014-11-21,7090.0,3.5,32.0,clear
+1241,Green Gram (Moong),Pali,2014-11-21,7200.0,1.5,32.0,clear
+1242,Green Gram (Moong),Rani,2014-11-21,7100.0,60.0,32.0,clear
+1243,Green Gram (Moong),Sojat Road,2014-11-21,6725.0,0.5,32.0,clear
+1244,Green Gram (Moong),Jaitaran,2014-11-22,7190.0,7.0,31.4,clear
+1245,Green Gram (Moong),Rani,2014-11-22,7100.0,80.0,31.4,clear
+1246,Green Gram (Moong),Sojat Road,2014-11-22,7290.0,0.1,31.4,clear
+1247,Green Gram (Moong),Jaitaran,2014-11-25,7225.0,7.4,31.6,clear
+1248,Green Gram (Moong),Pali,2014-11-25,7250.0,2.5,31.6,clear
+1249,Green Gram (Moong),Rani,2014-11-25,7100.0,85.0,31.6,clear
+1250,Green Gram (Moong),Sojat Road,2014-11-25,6801.0,0.7,31.6,clear
+1251,Green Gram (Moong),Jaitaran,2014-11-27,7000.0,5.7,31.0,clear
+1252,Green Gram (Moong),Rani,2014-11-27,7050.0,34.0,31.0,clear
+1253,Green Gram (Moong),Sojat Road,2014-11-27,6750.0,0.1,31.0,clear
+1254,Green Gram (Moong),Jaitaran,2014-11-28,7000.0,8.0,30.8,clear
+1255,Green Gram (Moong),Pali,2014-11-28,6850.0,1.5,30.8,clear
+1256,Green Gram (Moong),Rani,2014-11-28,7050.0,36.0,30.8,clear
+1257,Green Gram (Moong),Sojat Road,2014-11-28,7121.0,0.2,30.8,clear
+1258,Green Gram (Moong),Jaitaran,2014-01-12,7075.0,4.0,21.4,clear
+1259,Green Gram (Moong),Pali,2014-01-12,6850.0,1.5,21.4,clear
+1260,Green Gram (Moong),Rani,2014-01-12,7000.0,10.0,21.4,clear
+1261,Green Gram (Moong),Jaitaran,2014-02-12,6900.0,2.5,25.0,clear
+1262,Green Gram (Moong),Rani,2014-02-12,7000.0,11.0,25.0,clear
+1263,Green Gram (Moong),Sojat Road,2014-02-12,6700.0,0.2,25.0,clear
+1264,Green Gram (Moong),Sumerpur,2014-02-12,6980.0,16.3,25.0,clear
+1265,Green Gram (Moong),Jaitaran,2014-03-12,7100.0,0.9,27.0,clear
+1266,Green Gram (Moong),Rani,2014-03-12,7000.0,6.0,27.0,clear
+1267,Green Gram (Moong),Sojat Road,2014-03-12,6970.0,0.2,27.0,clear
+1268,Green Gram (Moong),Sumerpur,2014-03-12,7060.0,12.5,27.0,clear
+1269,Green Gram (Moong),Jaitaran,2014-04-12,7200.0,4.0,39.2,clear
+1270,Green Gram (Moong),Pali,2014-04-12,6750.0,0.8,39.2,clear
+1271,Green Gram (Moong),Rani,2014-04-12,7000.0,20.0,39.2,clear
+1272,Green Gram (Moong),Sojat Road,2014-04-12,4600.0,0.2,39.2,clear
+1273,Green Gram (Moong),Sumerpur,2014-04-12,7130.0,29.9,39.2,clear
+1274,Green Gram (Moong),Jaitaran,2014-05-12,7175.0,5.0,36.2,clear
+1275,Green Gram (Moong),Pali,2014-05-12,5450.0,1.5,36.2,clear
+1276,Green Gram (Moong),Rani,2014-05-12,7049.0,8.0,36.2,clear
+1277,Green Gram (Moong),Sojat Road,2014-05-12,6400.0,0.1,36.2,clear
+1278,Green Gram (Moong),Sumerpur,2014-05-12,7000.0,36.2,36.2,clear
+1279,Green Gram (Moong),Jaitaran,2014-12-18,7700.0,0.4,25.0,clear
+1280,Green Gram (Moong),Pali,2014-12-18,5050.0,1.5,25.0,clear
+1281,Green Gram (Moong),Rani,2014-12-18,7580.0,0.0,25.0,clear
+1282,Green Gram (Moong),Sojat Road,2014-12-18,6201.0,0.1,25.0,clear
+1283,Green Gram (Moong),Jaitaran,2014-12-22,7500.0,6.0,26.0,clear
+1284,Green Gram (Moong),Pali,2014-12-22,4850.0,1.2,26.0,clear
+1285,Green Gram (Moong),Rani,2014-12-22,7400.0,5.0,26.0,clear
+1286,Green Gram (Moong),Sumerpur,2014-12-22,7455.0,33.1,26.0,clear
+1287,Green Gram (Moong),Jaitaran,2014-12-23,7592.0,1.0,24.0,clear
+1288,Green Gram (Moong),Jaitaran,2014-12-26,7475.0,5.0,24.4,clear
+1289,Green Gram (Moong),Rani,2014-12-26,7601.0,8.0,24.4,clear
+1290,Green Gram (Moong),Sojat Road,2014-12-26,6500.0,0.1,24.4,clear
+1291,Green Gram (Moong),Sumerpur,2014-12-26,7550.0,15.4,24.4,clear
+1292,Green Gram (Moong),Pali,2014-01-01,5850.0,25.0,18.0,clear
+1293,Green Gram (Moong),Pali,2014-02-01,6050.0,20.0,28.0,clear
+1294,Green Gram (Moong),Sojat Road,2014-02-01,4572.0,0.1,28.0,clear
+1295,Green Gram (Moong),Pali,2014-07-01,5800.0,30.0,35.6,clear
+1296,Green Gram (Moong),Pali,2014-09-01,5850.0,25.0,36.6,clear
+1297,Green Gram (Moong),Rani,2014-09-01,4206.0,0.5,36.6,clear
+1298,Green Gram (Moong),Sumerpur,2014-09-01,6121.0,26.4,36.6,clear
+1299,Green Gram (Moong),Pali,2014-11-01,4850.0,10.0,30.2,clear
+1300,Green Gram (Moong),Pali,2014-01-27,5050.0,20.0,27.0,clear
+1301,Green Gram (Moong),Sojat Road,2014-01-27,4801.0,0.2,27.0,clear
+1302,Green Gram (Moong),Pali,2014-02-17,5850.0,30.0,24.6,clear
+1303,Green Gram (Moong),Pali,2014-08-14,6200.0,2.0,32.8,clear
+1304,Green Gram (Moong),Pali,2014-11-14,7000.0,1.5,30.6,clear
+1305,Green Gram (Moong),Rani,2014-11-14,7200.0,130.0,30.6,clear
+1306,Green Gram (Moong),Sojat Road,2014-11-14,7000.0,3.1,30.6,clear
+1307,Green Gram (Moong),Pali,2014-11-15,7250.0,1.5,30.0,clear
+1308,Green Gram (Moong),Rani,2014-11-15,7200.0,97.0,30.0,clear
+1309,Green Gram (Moong),Sojat Road,2014-11-15,7101.0,0.5,30.0,clear
+1310,Green Gram (Moong),Pali,2014-11-24,7200.0,1.5,30.4,clear
+1311,Green Gram (Moong),Rani,2014-11-24,7150.0,14.0,30.4,clear
+1312,Green Gram (Moong),Sojat Road,2014-11-24,6650.0,0.9,30.4,clear
+1313,Green Gram (Moong),Pali,2014-11-26,7250.0,4.0,30.8,clear
+1314,Green Gram (Moong),Rani,2014-11-26,7050.0,30.0,30.8,clear
+1315,Green Gram (Moong),Sojat Road,2014-11-26,6901.0,0.5,30.8,clear
+1316,Green Gram (Moong),Pali,2014-11-29,6850.0,1.0,30.4,clear
+1317,Green Gram (Moong),Rani,2014-11-29,7050.0,26.0,30.4,clear
+1318,Green Gram (Moong),Sojat Road,2014-11-29,6890.0,0.3,30.4,clear
+1319,Green Gram (Moong),Pali,2014-12-12,6800.0,1.0,35.2,clear
+1320,Green Gram (Moong),Rani,2014-12-12,7114.0,9.0,35.2,clear
+1321,Green Gram (Moong),Pali,2014-12-16,6850.0,1.5,29.0,clear
+1322,Green Gram (Moong),Sumerpur,2014-12-16,7280.0,35.4,29.0,clear
+1323,Green Gram (Moong),Pali,2014-12-30,4750.0,1.0,22.0,clear
+1324,Green Gram (Moong),Rani,2014-12-30,7600.0,10.0,22.0,clear
+1325,Green Gram (Moong),Sojat Road,2014-12-30,7351.0,0.1,22.0,clear
+1326,Green Gram (Moong),Rani,2014-08-01,6126.0,0.4,36.4,rain
+1327,Green Gram (Moong),Sojat Road,2014-08-01,4750.0,0.1,36.4,rain
+1328,Green Gram (Moong),Rani,2014-01-23,4600.0,0.1,24.4,clear
+1329,Green Gram (Moong),Sumerpur,2014-01-23,5000.0,4.8,24.4,clear
+1330,Green Gram (Moong),Rani,2014-01-25,5001.0,0.1,23.6,clear
+1331,Green Gram (Moong),Rani,2014-01-28,6301.0,0.1,27.6,clear
+1332,Green Gram (Moong),Rani,2014-08-02,6470.0,1.4,34.4,clear
+1333,Green Gram (Moong),Rani,2014-02-28,6600.0,0.3,24.4,clear
+1334,Green Gram (Moong),Rani,2014-10-25,6800.0,200.0,35.2,clear
+1335,Green Gram (Moong),Rani,2014-11-20,7000.0,60.0,31.0,clear
+1336,Green Gram (Moong),Rani,2014-06-12,7100.0,54.0,39.2,clear
+1337,Green Gram (Moong),Sojat Road,2014-06-12,6681.0,0.1,39.2,clear
+1338,Green Gram (Moong),Rani,2014-08-12,6800.0,31.0,32.4,clear
+1339,Green Gram (Moong),Rani,2014-09-12,6900.0,14.0,32.8,clear
+1340,Green Gram (Moong),Sojat Road,2014-09-12,6200.0,0.4,32.8,clear
+1341,Green Gram (Moong),Rani,2014-10-12,6950.0,9.0,37.6,clear
+1342,Green Gram (Moong),Sojat Road,2014-10-12,6790.0,0.1,37.6,clear
+1343,Green Gram (Moong),Rani,2014-12-13,7110.0,2.0,24.0,clear
+1344,Green Gram (Moong),Rani,2014-12-15,7286.0,7.0,41.2,clear
+1345,Green Gram (Moong),Sumerpur,2014-12-15,7154.0,33.2,41.2,clear
+1346,Green Gram (Moong),Rani,2014-12-17,7311.0,23.0,24.0,clear
+1347,Green Gram (Moong),Rani,2014-12-19,7490.0,50.0,22.0,clear
+1348,Green Gram (Moong),Sumerpur,2014-12-19,7410.0,27.6,22.0,clear
+1349,Green Gram (Moong),Rani,2014-12-20,7409.0,2.0,25.0,clear
+1350,Green Gram (Moong),Sumerpur,2014-12-20,7425.0,6.5,25.0,clear
+1351,Green Gram (Moong),Rani,2014-12-24,7132.0,3.0,23.8,clear
+1352,Green Gram (Moong),Rani,2014-12-29,7770.0,6.0,24.0,clear
+1353,Green Gram (Moong),Sojat Road,2014-12-29,7271.0,0.1,24.0,clear
+1354,Green Gram (Moong),Sojat Road,2014-04-04,5300.0,0.1,38.8,clear
+1355,Green Gram (Moong),Sojat Road,2014-11-06,5751.0,0.9,33.8,clear
+1356,Green Gram (Moong),Sojat Road,2014-06-13,5300.0,0.2,38.4,clear
+1357,Green Gram (Moong),Sojat Road,2014-06-17,5000.0,1.6,39.8,clear
+1358,Green Gram (Moong),Sojat Road,2014-07-28,4501.0,0.1,32.6,clear
+1359,Green Gram (Moong),Sojat Road,2014-09-22,5600.0,0.2,33.0,clear
+1360,Green Gram (Moong),Sumerpur,2014-09-22,5990.0,7.1,33.0,clear
+1361,Green Gram (Moong),Sumerpur,2014-01-20,6785.0,11.6,22.0,clear
+1362,Green Gram (Moong),Sumerpur,2014-01-21,6715.0,3.4,23.2,clear
+1363,Green Gram (Moong),Sumerpur,2014-01-22,6670.0,1.7,22.2,clear
+1364,Green Gram (Moong),Sumerpur,2014-01-30,5370.0,0.9,28.0,clear
+1365,Green Gram (Moong),Sumerpur,2014-01-02,3605.0,0.5,20.2,clear
+1366,Green Gram (Moong),Sumerpur,2014-09-07,6415.0,0.3,33.6,clear
+1367,Green Gram (Moong),Sumerpur,2014-11-07,6315.0,0.6,32.6,clear
+1368,Green Gram (Moong),Sumerpur,2014-12-07,6380.0,2.1,28.8,clear
+1369,Green Gram (Moong),Sumerpur,2014-07-30,6510.0,0.4,34.6,clear
+1370,Green Gram (Moong),Sumerpur,2014-05-08,5750.0,2.1,40.0,clear
+1371,Green Gram (Moong),Sumerpur,2014-06-08,5000.0,0.1,44.0,clear
+1372,Green Gram (Moong),Sumerpur,2014-11-08,6370.0,0.7,32.8,clear
+1373,Green Gram (Moong),Sumerpur,2014-08-13,6020.0,0.3,33.2,clear
+1374,Green Gram (Moong),Sumerpur,2014-01-09,6186.0,1.2,21.6,clear
+1375,Green Gram (Moong),Sumerpur,2014-08-09,6160.0,1.4,31.0,clear
+1376,Green Gram (Moong),Sumerpur,2014-12-09,6101.0,1.2,36.4,clear
+1377,Green Gram (Moong),Sumerpur,2014-09-16,6015.0,1.9,33.4,clear
+1378,Green Gram (Moong),Sumerpur,2014-09-25,6240.0,7.1,33.0,clear
+1379,Green Gram (Moong),Sumerpur,2014-12-25,7440.0,19.3,24.0,clear
+1380,Green Gram (Moong),Sumerpur,2014-12-31,7580.0,8.4,22.0,clear
+1381,Green Gram (Moong),Jaitaran,2015-06-01,8000.0,2.5,44.0,rain
+1382,Green Gram (Moong),Sojat Road,2015-06-01,7341.0,0.2,44.0,rain
+1383,Green Gram (Moong),Jaitaran,2015-08-01,7800.0,2.0,29.4,clear
+1384,Green Gram (Moong),Rani,2015-08-01,7525.0,2.0,29.4,clear
+1385,Green Gram (Moong),Sojat Road,2015-08-01,7301.0,0.3,29.4,clear
+1386,Green Gram (Moong),Sumerpur,2015-08-01,7590.0,5.5,29.4,clear
+1387,Green Gram (Moong),Jaitaran,2015-03-02,7615.0,4.3,22.0,clear
+1388,Green Gram (Moong),Jaitaran,2015-09-02,7030.0,6.2,33.8,clear
+1389,Green Gram (Moong),Sojat Road,2015-09-02,6600.0,0.1,33.8,clear
+1390,Green Gram (Moong),Sumerpur,2015-09-02,7160.0,7.3,33.8,clear
+1391,Green Gram (Moong),Jaitaran,2015-10-02,7015.0,4.3,38.4,clear
+1392,Green Gram (Moong),Sumerpur,2015-10-02,7140.0,1.3,38.4,clear
+1393,Green Gram (Moong),Jaitaran,2015-02-21,7025.0,3.2,33.4,clear
+1394,Green Gram (Moong),Rani,2015-02-21,7150.0,3.0,33.4,clear
+1395,Green Gram (Moong),Jaitaran,2015-02-23,7700.0,2.0,35.0,clear
+1396,Green Gram (Moong),Jaitaran,2015-02-25,7400.0,2.3,26.4,clear
+1397,Green Gram (Moong),Jaitaran,2015-02-26,7525.0,2.0,25.0,clear
+1398,Green Gram (Moong),Jaitaran,2015-11-03,7500.0,1.0,33.8,clear
+1399,Green Gram (Moong),Jaitaran,2015-03-20,7500.0,0.2,35.4,clear
+1400,Green Gram (Moong),Jaitaran,2015-08-21,5000.0,3.5,32.4,clear
+1401,Green Gram (Moong),Jaitaran,2015-08-25,5500.0,7.5,32.4,clear
+1402,Green Gram (Moong),Sumerpur,2015-08-25,6360.0,1.0,32.4,clear
+1403,Green Gram (Moong),Jaitaran,2015-08-28,5975.0,19.9,34.0,clear
+1404,Green Gram (Moong),Sojat Road,2015-08-28,6100.0,0.1,34.0,clear
+1405,Green Gram (Moong),Jaitaran,2015-08-31,6442.0,38.9,34.2,clear
+1406,Green Gram (Moong),Sumerpur,2015-08-31,6351.0,1.6,34.2,clear
+1407,Green Gram (Moong),Jaitaran,2015-01-09,6312.0,44.7,27.0,clear
+1408,Green Gram (Moong),Sumerpur,2015-01-09,6642.0,2.1,27.0,clear
+1409,Green Gram (Moong),Jaitaran,2015-02-09,6585.0,35.7,26.0,clear
+1410,Green Gram (Moong),Sumerpur,2015-02-09,6575.0,2.4,26.0,clear
+1411,Green Gram (Moong),Jaitaran,2015-03-09,6500.0,56.5,26.4,clear
+1412,Green Gram (Moong),Rani,2015-03-09,6450.0,5.0,26.4,clear
+1413,Green Gram (Moong),Sojat Road,2015-03-09,6201.0,0.1,26.4,clear
+1414,Green Gram (Moong),Sumerpur,2015-03-09,6875.0,4.4,26.4,clear
+1415,Green Gram (Moong),Jaitaran,2015-04-09,6707.0,45.9,35.4,clear
+1416,Green Gram (Moong),Rani,2015-04-09,6750.0,8.0,35.4,clear
+1417,Green Gram (Moong),Sojat Road,2015-04-09,6421.0,0.8,35.4,clear
+1418,Green Gram (Moong),Sumerpur,2015-04-09,6945.0,9.0,35.4,clear
+1419,Green Gram (Moong),Jaitaran,2015-07-09,7000.0,60.6,36.0,clear
+1420,Green Gram (Moong),Rani,2015-07-09,7300.0,60.0,36.0,clear
+1421,Green Gram (Moong),Sumerpur,2015-07-09,7195.0,45.7,36.0,clear
+1422,Green Gram (Moong),Jaitaran,2015-08-09,7050.0,76.6,34.0,clear
+1423,Green Gram (Moong),Rani,2015-08-09,7150.0,78.0,34.0,clear
+1424,Green Gram (Moong),Sojat Road,2015-08-09,6802.0,0.4,34.0,clear
+1425,Green Gram (Moong),Sumerpur,2015-08-09,7165.0,82.3,34.0,clear
+1426,Green Gram (Moong),Jaitaran,2015-09-09,6900.0,60.5,36.0,clear
+1427,Green Gram (Moong),Rani,2015-09-09,7000.0,115.0,36.0,clear
+1428,Green Gram (Moong),Sojat Road,2015-09-09,6700.0,0.1,36.0,clear
+1429,Green Gram (Moong),Jaitaran,2015-10-09,6225.0,74.9,37.4,clear
+1430,Green Gram (Moong),Rani,2015-10-09,6600.0,134.0,37.4,clear
+1431,Green Gram (Moong),Sumerpur,2015-10-09,6746.0,74.5,37.4,clear
+1432,Green Gram (Moong),Jaitaran,2015-11-09,6350.0,62.7,32.6,clear
+1433,Green Gram (Moong),Rani,2015-11-09,6900.0,292.0,32.6,clear
+1434,Green Gram (Moong),Sumerpur,2015-11-09,6847.0,88.9,32.6,clear
+1435,Green Gram (Moong),Jaitaran,2015-12-09,6350.0,69.91,27.0,clear
+1436,Green Gram (Moong),Pali,2015-12-09,6650.0,6.3,27.0,clear
+1437,Green Gram (Moong),Rani,2015-12-09,7000.0,416.0,27.0,clear
+1438,Green Gram (Moong),Sumerpur,2015-12-09,6890.0,109.9,27.0,clear
+1439,Green Gram (Moong),Jaitaran,2015-09-14,6333.0,133.1,38.4,clear
+1440,Green Gram (Moong),Rani,2015-09-14,6900.0,361.0,38.4,clear
+1441,Green Gram (Moong),Sojat Road,2015-09-14,6650.0,0.3,38.4,clear
+1442,Green Gram (Moong),Sumerpur,2015-09-14,6850.0,168.5,38.4,clear
+1443,Green Gram (Moong),Jaitaran,2015-09-15,6450.0,48.7,37.4,clear
+1444,Green Gram (Moong),Rani,2015-09-15,6700.0,153.0,37.4,clear
+1445,Green Gram (Moong),Sumerpur,2015-09-15,6950.0,128.3,37.4,clear
+1446,Green Gram (Moong),Jaitaran,2015-09-16,6600.0,47.7,38.4,clear
+1447,Green Gram (Moong),Pali,2015-09-16,6650.0,1.8,38.4,clear
+1448,Green Gram (Moong),Rani,2015-09-16,6900.0,725.0,38.4,clear
+1449,Green Gram (Moong),Sojat Road,2015-09-16,6561.0,0.8,38.4,clear
+1450,Green Gram (Moong),Sumerpur,2015-09-16,6884.0,154.9,38.4,clear
+1451,Green Gram (Moong),Jaitaran,2015-09-19,7175.0,7.13,36.4,clear
+1452,Green Gram (Moong),Pali,2015-09-19,6800.0,5.0,36.4,clear
+1453,Green Gram (Moong),Rani,2015-09-19,7000.0,600.0,36.4,clear
+1454,Green Gram (Moong),Sumerpur,2015-09-19,7137.0,137.6,36.4,clear
+1455,Green Gram (Moong),Jaitaran,2015-09-22,7035.0,7.31,29.6,clear
+1456,Green Gram (Moong),Rani,2015-09-22,7000.0,521.0,29.6,clear
+1457,Green Gram (Moong),Sojat Road,2015-09-22,6699.0,0.3,29.6,clear
+1458,Green Gram (Moong),Jaitaran,2015-09-23,6875.0,7.44,33.0,clear
+1459,Green Gram (Moong),Sojat Road,2015-09-23,6751.0,1.0,33.0,clear
+1460,Green Gram (Moong),Jaitaran,2015-09-24,7150.0,7.55,32.2,clear
+1461,Green Gram (Moong),Pali,2015-09-24,7150.0,1.0,32.2,clear
+1462,Green Gram (Moong),Rani,2015-09-24,7250.0,600.0,32.2,clear
+1463,Green Gram (Moong),Sumerpur,2015-09-24,7350.0,161.1,32.2,clear
+1464,Green Gram (Moong),Jaitaran,2015-09-25,7600.0,0.25,32.8,clear
+1465,Green Gram (Moong),Pali,2015-09-25,7250.0,10.7,32.8,clear
+1466,Green Gram (Moong),Rani,2015-09-25,7400.0,929.0,32.8,clear
+1467,Green Gram (Moong),Sojat Road,2015-09-25,7000.0,0.4,32.8,clear
+1468,Green Gram (Moong),Sumerpur,2015-09-25,7425.0,189.9,32.8,clear
+1469,Green Gram (Moong),Jaitaran,2015-09-26,7275.0,0.96,33.0,clear
+1470,Green Gram (Moong),Pali,2015-09-26,6850.0,9.7,33.0,clear
+1471,Green Gram (Moong),Rani,2015-09-26,7350.0,1178.0,33.0,clear
+1472,Green Gram (Moong),Sojat Road,2015-09-26,7030.0,0.8,33.0,clear
+1473,Green Gram (Moong),Sumerpur,2015-09-26,7188.0,179.0,33.0,clear
+1474,Green Gram (Moong),Jaitaran,2015-09-28,7449.0,4.56,35.8,clear
+1475,Green Gram (Moong),Pali,2015-09-28,7225.0,4.7,35.8,clear
+1476,Green Gram (Moong),Sojat Road,2015-09-28,7200.0,0.4,35.8,clear
+1477,Green Gram (Moong),Sumerpur,2015-09-28,7950.0,225.8,35.8,clear
+1478,Green Gram (Moong),Jaitaran,2015-09-29,7600.0,11.07,37.0,clear
+1479,Green Gram (Moong),Rani,2015-09-29,8000.0,1199.0,37.0,clear
+1480,Green Gram (Moong),Sumerpur,2015-09-29,7675.0,230.1,37.0,clear
+1481,Green Gram (Moong),Jaitaran,2015-01-10,7800.0,9.5,27.0,clear
+1482,Green Gram (Moong),Pali,2015-01-10,7000.0,10.5,27.0,clear
+1483,Green Gram (Moong),Rani,2015-01-10,8000.0,684.0,27.0,clear
+1484,Green Gram (Moong),Jaitaran,2015-02-10,7550.0,6.36,26.4,clear
+1485,Green Gram (Moong),Rani,2015-02-10,7900.0,601.0,26.4,clear
+1486,Green Gram (Moong),Jaitaran,2015-03-10,7550.0,6.21,26.6,clear
+1487,Green Gram (Moong),Rani,2015-03-10,8000.0,1058.0,26.6,clear
+1488,Green Gram (Moong),Jaitaran,2015-05-10,8500.0,3.92,40.2,clear
+1489,Green Gram (Moong),Pali,2015-05-10,7350.0,7.5,40.2,clear
+1490,Green Gram (Moong),Rani,2015-05-10,8500.0,632.0,40.2,clear
+1491,Green Gram (Moong),Sojat Road,2015-05-10,8053.0,0.5,40.2,clear
+1492,Green Gram (Moong),Jaitaran,2015-06-10,8275.0,3.44,38.4,clear
+1493,Green Gram (Moong),Pali,2015-06-10,7600.0,5.0,38.4,clear
+1494,Green Gram (Moong),Rani,2015-06-10,8450.0,700.0,38.4,clear
+1495,Green Gram (Moong),Sojat Road,2015-06-10,8197.0,1.4,38.4,clear
+1496,Green Gram (Moong),Jaitaran,2015-07-10,8215.0,4.59,36.4,clear
+1497,Green Gram (Moong),Rani,2015-07-10,8300.0,341.0,36.4,clear
+1498,Green Gram (Moong),Jaitaran,2015-09-10,7905.0,3.77,38.0,clear
+1499,Green Gram (Moong),Pali,2015-09-10,7500.0,21.0,38.0,clear
+1500,Green Gram (Moong),Rani,2015-09-10,8000.0,260.0,38.0,clear
+1501,Green Gram (Moong),Sojat Road,2015-09-10,8001.0,0.3,38.0,clear
+1502,Green Gram (Moong),Jaitaran,2015-10-10,7950.0,5.36,37.0,clear
+1503,Green Gram (Moong),Pali,2015-10-10,7750.0,21.0,37.0,clear
+1504,Green Gram (Moong),Rani,2015-10-10,8000.0,493.0,37.0,clear
+1505,Green Gram (Moong),Jaitaran,2015-12-10,7950.0,1.64,27.0,clear
+1506,Green Gram (Moong),Rani,2015-12-10,7700.0,410.0,27.0,clear
+1507,Green Gram (Moong),Jaitaran,2015-10-14,8095.0,2.13,37.2,clear
+1508,Green Gram (Moong),Pali,2015-10-14,7550.0,4.0,37.2,clear
+1509,Green Gram (Moong),Rani,2015-10-14,8050.0,35.0,37.2,clear
+1510,Green Gram (Moong),Jaitaran,2015-10-15,8200.0,2.81,37.4,clear
+1511,Green Gram (Moong),Pali,2015-10-15,7650.0,1.5,37.4,clear
+1512,Green Gram (Moong),Rani,2015-10-15,8070.0,800.0,37.4,clear
+1513,Green Gram (Moong),Jaitaran,2015-10-16,8305.0,5.32,37.4,clear
+1514,Green Gram (Moong),Rani,2015-10-16,8400.0,400.0,37.4,clear
+1515,Green Gram (Moong),Sojat Road,2015-10-16,5799.0,0.7,37.4,clear
+1516,Green Gram (Moong),Jaitaran,2015-10-17,8250.0,8.1,37.4,clear
+1517,Green Gram (Moong),Rani,2015-10-17,8000.0,679.0,37.4,clear
+1518,Green Gram (Moong),Sojat Road,2015-10-17,8000.0,1.3,37.4,clear
+1519,Green Gram (Moong),Jaitaran,2015-10-19,7835.0,2.14,37.0,clear
+1520,Green Gram (Moong),Rani,2015-10-19,8000.0,600.0,37.0,clear
+1521,Green Gram (Moong),Sojat Road,2015-10-19,7752.0,1.5,37.0,clear
+1522,Green Gram (Moong),Jaitaran,2015-10-20,8020.0,22.6,36.0,clear
+1523,Green Gram (Moong),Rani,2015-10-20,8000.0,300.0,36.0,clear
+1524,Green Gram (Moong),Sojat Road,2015-10-20,7701.0,1.0,36.0,clear
+1525,Green Gram (Moong),Jaitaran,2015-10-21,7950.0,16.1,36.0,clear
+1526,Green Gram (Moong),Pali,2015-10-21,7925.0,7.1,36.0,clear
+1527,Green Gram (Moong),Sojat Road,2015-10-21,7878.0,2.3,36.0,clear
+1528,Green Gram (Moong),Jaitaran,2015-10-23,7810.0,1.7,36.0,clear
+1529,Green Gram (Moong),Rani,2015-10-23,7800.0,237.0,36.0,clear
+1530,Green Gram (Moong),Sojat Road,2015-10-23,7480.0,2.0,36.0,clear
+1531,Green Gram (Moong),Jaitaran,2015-10-27,7460.0,4.0,33.0,clear
+1532,Green Gram (Moong),Rani,2015-10-27,7600.0,169.0,33.0,clear
+1533,Green Gram (Moong),Sojat Road,2015-10-27,7251.0,1.0,33.0,clear
+1534,Green Gram (Moong),Jaitaran,2015-10-29,7500.0,0.4,29.0,clear
+1535,Green Gram (Moong),Rani,2015-10-29,7400.0,141.0,29.0,clear
+1536,Green Gram (Moong),Sojat Road,2015-10-29,7300.0,1.2,29.0,clear
+1537,Green Gram (Moong),Jaitaran,2015-02-11,7100.0,0.6,25.4,clear
+1538,Green Gram (Moong),Pali,2015-02-11,7450.0,2.0,25.4,clear
+1539,Green Gram (Moong),Sojat Road,2015-02-11,7000.0,2.3,25.4,clear
+1540,Green Gram (Moong),Jaitaran,2015-03-11,7525.0,2.8,30.4,clear
+1541,Green Gram (Moong),Sojat Road,2015-03-11,7001.0,0.5,30.4,clear
+1542,Green Gram (Moong),Jaitaran,2015-04-11,7350.0,10.2,35.6,rain
+1543,Green Gram (Moong),Rani,2015-04-11,7450.0,64.0,35.6,rain
+1544,Green Gram (Moong),Sojat Road,2015-04-11,7280.0,2.1,35.6,rain
+1545,Green Gram (Moong),Jaitaran,2015-06-11,7100.0,10.5,36.0,rain
+1546,Green Gram (Moong),Rani,2015-06-11,7500.0,141.0,36.0,rain
+1547,Green Gram (Moong),Jaitaran,2015-07-11,6925.0,20.5,37.4,clear
+1548,Green Gram (Moong),Pali,2015-07-11,7750.0,4.0,37.4,clear
+1549,Green Gram (Moong),Rani,2015-07-11,7600.0,135.0,37.4,clear
+1550,Green Gram (Moong),Jaitaran,2015-09-11,6350.0,24.3,38.0,clear
+1551,Green Gram (Moong),Pali,2015-09-11,7650.0,4.3,38.0,clear
+1552,Green Gram (Moong),Jaitaran,2015-11-16,7435.0,8.2,30.8,clear
+1553,Green Gram (Moong),Pali,2015-11-16,7450.0,5.0,30.8,clear
+1554,Green Gram (Moong),Rani,2015-11-16,7500.0,200.0,30.8,clear
+1555,Green Gram (Moong),Jaitaran,2015-11-17,7300.0,0.5,29.4,clear
+1556,Green Gram (Moong),Pali,2015-11-17,7550.0,4.8,29.4,clear
+1557,Green Gram (Moong),Rani,2015-11-17,7000.0,170.0,29.4,clear
+1558,Green Gram (Moong),Sojat Road,2015-11-17,5200.0,0.2,29.4,clear
+1559,Green Gram (Moong),Jaitaran,2015-11-18,7200.0,8.0,31.0,clear
+1560,Green Gram (Moong),Rani,2015-11-18,7300.0,240.0,31.0,clear
+1561,Green Gram (Moong),Jaitaran,2015-11-19,7155.0,5.7,31.0,clear
+1562,Green Gram (Moong),Rani,2015-11-19,7100.0,215.0,31.0,clear
+1563,Green Gram (Moong),Jaitaran,2015-11-20,7022.0,8.0,28.0,clear
+1564,Green Gram (Moong),Rani,2015-11-20,7000.0,73.0,28.0,clear
+1565,Green Gram (Moong),Sojat Road,2015-11-20,6500.0,0.3,28.0,clear
+1566,Green Gram (Moong),Jaitaran,2015-11-21,6900.0,8.0,32.4,clear
+1567,Green Gram (Moong),Rani,2015-11-21,6900.0,177.0,32.4,clear
+1568,Green Gram (Moong),Sojat Road,2015-11-21,5800.0,0.5,32.4,clear
+1569,Green Gram (Moong),Jaitaran,2015-11-24,6900.0,6.5,32.0,clear
+1570,Green Gram (Moong),Rani,2015-11-24,6900.0,37.0,32.0,clear
+1571,Green Gram (Moong),Jaitaran,2015-11-26,6700.0,2.5,28.2,clear
+1572,Green Gram (Moong),Rani,2015-11-26,6500.0,19.0,28.2,clear
+1573,Green Gram (Moong),Sojat Road,2015-11-26,6301.0,0.2,28.2,clear
+1574,Green Gram (Moong),Jaitaran,2015-11-28,7100.0,1.0,26.8,clear
+1575,Green Gram (Moong),Rani,2015-11-28,7051.0,117.0,26.8,clear
+1576,Green Gram (Moong),Jaitaran,2015-11-30,7250.0,1.5,29.4,clear
+1577,Green Gram (Moong),Rani,2015-11-30,7200.0,92.0,29.4,clear
+1578,Green Gram (Moong),Jaitaran,2015-07-12,7160.0,7.0,35.4,clear
+1579,Green Gram (Moong),Pali,2015-07-12,7300.0,4.0,35.4,clear
+1580,Green Gram (Moong),Rani,2015-07-12,7000.0,162.0,35.4,clear
+1581,Green Gram (Moong),Sumerpur,2015-07-12,7000.0,65.4,35.4,clear
+1582,Green Gram (Moong),Jaitaran,2015-09-12,7200.0,1.6,39.2,clear
+1583,Green Gram (Moong),Rani,2015-09-12,7000.0,77.0,39.2,clear
+1584,Green Gram (Moong),Sojat Road,2015-09-12,4000.0,0.1,39.2,clear
+1585,Green Gram (Moong),Sumerpur,2015-09-12,6850.0,22.8,39.2,clear
+1586,Green Gram (Moong),Jaitaran,2015-11-12,7150.0,0.2,33.0,clear
+1587,Green Gram (Moong),Rani,2015-11-12,7000.0,74.0,33.0,clear
+1588,Green Gram (Moong),Sumerpur,2015-11-12,6900.0,49.0,33.0,clear
+1589,Green Gram (Moong),Jaitaran,2015-12-14,7071.0,0.3,23.0,clear
+1590,Green Gram (Moong),Rani,2015-12-14,6865.0,33.0,23.0,clear
+1591,Green Gram (Moong),Sojat Road,2015-12-14,6201.0,0.1,23.0,clear
+1592,Green Gram (Moong),Sumerpur,2015-12-14,6800.0,32.7,23.0,clear
+1593,Green Gram (Moong),Jaitaran,2015-12-16,7000.0,0.4,25.0,clear
+1594,Green Gram (Moong),Rani,2015-12-16,6750.0,62.0,25.0,clear
+1595,Green Gram (Moong),Jaitaran,2015-12-30,6622.0,1.0,30.4,clear
+1596,Green Gram (Moong),Rani,2015-12-30,6901.0,10.0,30.4,clear
+1597,Green Gram (Moong),Sumerpur,2015-12-30,7000.0,25.2,30.4,clear
+1598,Green Gram (Moong),Pali,2015-04-01,4650.0,0.8,37.0,clear
+1599,Green Gram (Moong),Pali,2015-12-01,4750.0,2.0,28.6,clear
+1600,Green Gram (Moong),Rani,2015-12-01,7500.0,4.0,28.6,clear
+1601,Green Gram (Moong),Sojat Road,2015-12-01,7001.0,0.1,28.6,clear
+1602,Green Gram (Moong),Pali,2015-01-17,4750.0,1.0,22.2,clear
+1603,Green Gram (Moong),Pali,2015-01-22,4750.0,0.8,21.0,clear
+1604,Green Gram (Moong),Pali,2015-03-18,6750.0,1.5,31.0,clear
+1605,Green Gram (Moong),Pali,2015-04-14,6750.0,1.5,33.6,clear
+1606,Green Gram (Moong),Pali,2015-06-25,6850.0,1.5,34.8,clear
+1607,Green Gram (Moong),Pali,2015-11-07,6650.0,1.6,31.0,clear
+1608,Green Gram (Moong),Pali,2015-08-24,6000.0,1.5,33.0,clear
+1609,Green Gram (Moong),Sumerpur,2015-08-24,6371.0,1.3,33.0,clear
+1610,Green Gram (Moong),Pali,2015-08-26,6050.0,10.8,33.0,clear
+1611,Green Gram (Moong),Sumerpur,2015-08-26,5560.0,1.3,33.0,clear
+1612,Green Gram (Moong),Pali,2015-09-17,6975.0,8.9,40.0,clear
+1613,Green Gram (Moong),Pali,2015-09-21,6800.0,5.9,32.8,rain
+1614,Green Gram (Moong),Rani,2015-09-21,7200.0,456.0,32.8,rain
+1615,Green Gram (Moong),Sojat Road,2015-09-21,6890.0,0.1,32.8,rain
+1616,Green Gram (Moong),Sumerpur,2015-09-21,7150.0,202.3,32.8,rain
+1617,Green Gram (Moong),Pali,2015-08-10,7650.0,4.5,33.4,clear
+1618,Green Gram (Moong),Rani,2015-08-10,8100.0,270.0,33.4,clear
+1619,Green Gram (Moong),Pali,2015-10-26,7650.0,4.9,33.4,clear
+1620,Green Gram (Moong),Rani,2015-10-26,7600.0,119.0,33.4,clear
+1621,Green Gram (Moong),Sojat Road,2015-10-26,7578.0,2.5,33.4,clear
+1622,Green Gram (Moong),Pali,2015-10-11,7650.0,2.3,36.4,clear
+1623,Green Gram (Moong),Pali,2015-01-12,7450.0,5.0,28.0,clear
+1624,Green Gram (Moong),Rani,2015-01-12,7227.0,85.0,28.0,clear
+1625,Green Gram (Moong),Sojat Road,2015-01-12,5900.0,0.1,28.0,clear
+1626,Green Gram (Moong),Sumerpur,2015-01-12,7237.0,85.0,28.0,clear
+1627,Green Gram (Moong),Pali,2015-05-12,6750.0,8.0,38.4,rain
+1628,Green Gram (Moong),Rani,2015-05-12,6900.0,100.0,38.4,rain
+1629,Green Gram (Moong),Sumerpur,2015-05-12,7136.0,77.6,38.4,rain
+1630,Green Gram (Moong),Pali,2015-12-21,6975.0,10.0,23.8,clear
+1631,Green Gram (Moong),Rani,2015-12-21,6900.0,16.0,23.8,clear
+1632,Green Gram (Moong),Pali,2015-12-22,6975.0,14.5,23.4,clear
+1633,Green Gram (Moong),Pali,2015-12-23,6950.0,8.4,23.8,clear
+1634,Green Gram (Moong),Rani,2015-12-23,6900.0,30.0,23.8,clear
+1635,Green Gram (Moong),Pali,2015-12-25,7250.0,34.9,22.6,clear
+1636,Green Gram (Moong),Rani,2015-01-01,7700.0,2.0,21.4,clear
+1637,Green Gram (Moong),Sojat Road,2015-01-01,6201.0,0.1,21.4,clear
+1638,Green Gram (Moong),Sumerpur,2015-01-01,7801.0,5.4,21.4,clear
+1639,Green Gram (Moong),Rani,2015-03-01,7551.0,3.0,24.8,rain
+1640,Green Gram (Moong),Sojat Road,2015-03-01,7751.0,0.3,24.8,rain
+1641,Green Gram (Moong),Rani,2015-05-01,7751.0,5.0,40.2,clear
+1642,Green Gram (Moong),Sojat Road,2015-05-01,7200.0,0.3,40.2,clear
+1643,Green Gram (Moong),Rani,2015-09-01,7551.0,10.0,33.8,clear
+1644,Green Gram (Moong),Sumerpur,2015-09-01,7590.0,23.7,33.8,clear
+1645,Green Gram (Moong),Rani,2015-10-01,7551.0,5.0,38.0,clear
+1646,Green Gram (Moong),Rani,2015-01-21,7450.0,2.0,22.4,clear
+1647,Green Gram (Moong),Rani,2015-02-02,7000.0,1.0,26.8,clear
+1648,Green Gram (Moong),Sumerpur,2015-02-02,7300.0,0.8,26.8,clear
+1649,Green Gram (Moong),Rani,2015-04-02,7000.0,2.0,35.8,clear
+1650,Green Gram (Moong),Rani,2015-06-02,7150.0,5.0,38.6,rain
+1651,Green Gram (Moong),Rani,2015-04-03,7440.0,13.0,34.8,rain
+1652,Green Gram (Moong),Rani,2015-07-04,7301.0,4.0,38.0,clear
+1653,Green Gram (Moong),Rani,2015-05-29,6800.0,4.0,41.4,clear
+1654,Green Gram (Moong),Rani,2015-05-09,6700.0,20.0,40.2,clear
+1655,Green Gram (Moong),Sumerpur,2015-05-09,7295.0,12.9,40.2,clear
+1656,Green Gram (Moong),Rani,2015-09-18,7150.0,676.0,37.4,clear
+1657,Green Gram (Moong),Sumerpur,2015-09-18,6795.0,170.1,37.4,clear
+1658,Green Gram (Moong),Rani,2015-09-30,7950.0,541.0,37.4,clear
+1659,Green Gram (Moong),Sumerpur,2015-09-30,7900.0,224.6,37.4,clear
+1660,Green Gram (Moong),Rani,2015-10-13,7900.0,357.0,36.0,clear
+1661,Green Gram (Moong),Rani,2015-10-22,7900.0,179.0,35.2,clear
+1662,Green Gram (Moong),Sojat Road,2015-10-22,7850.0,2.4,35.2,clear
+1663,Green Gram (Moong),Rani,2015-10-24,7500.0,69.0,36.4,clear
+1664,Green Gram (Moong),Rani,2015-10-28,7400.0,225.0,29.8,clear
+1665,Green Gram (Moong),Sojat Road,2015-10-28,7301.0,0.9,29.8,clear
+1666,Green Gram (Moong),Rani,2015-10-30,7300.0,202.0,30.4,clear
+1667,Green Gram (Moong),Sojat Road,2015-10-30,7200.0,0.7,30.4,clear
+1668,Green Gram (Moong),Rani,2015-10-31,7400.0,156.0,30.4,clear
+1669,Green Gram (Moong),Sojat Road,2015-10-31,6201.0,0.7,30.4,clear
+1670,Green Gram (Moong),Rani,2015-05-11,7400.0,128.0,39.0,clear
+1671,Green Gram (Moong),Sojat Road,2015-05-11,7000.0,0.2,39.0,clear
+1672,Green Gram (Moong),Rani,2015-11-23,6800.0,141.0,32.2,clear
+1673,Green Gram (Moong),Sojat Road,2015-11-23,6601.0,0.3,32.2,clear
+1674,Green Gram (Moong),Rani,2015-11-27,6750.0,58.0,25.2,clear
+1675,Green Gram (Moong),Sojat Road,2015-11-27,6337.0,0.6,25.2,clear
+1676,Green Gram (Moong),Rani,2015-02-12,7250.0,197.0,26.8,clear
+1677,Green Gram (Moong),Sojat Road,2015-02-12,6850.0,0.3,26.8,clear
+1678,Green Gram (Moong),Sumerpur,2015-02-12,7410.0,117.4,26.8,clear
+1679,Green Gram (Moong),Rani,2015-03-12,7300.0,130.0,33.6,clear
+1680,Green Gram (Moong),Rani,2015-04-12,7250.0,174.0,31.2,clear
+1681,Green Gram (Moong),Sojat Road,2015-04-12,6060.0,0.1,31.2,clear
+1682,Green Gram (Moong),Rani,2015-08-12,6900.0,165.0,32.8,rain
+1683,Green Gram (Moong),Sumerpur,2015-08-12,6910.0,42.3,32.8,rain
+1684,Green Gram (Moong),Rani,2015-10-12,6900.0,47.0,36.0,clear
+1685,Green Gram (Moong),Sumerpur,2015-10-12,7036.0,32.1,36.0,clear
+1686,Green Gram (Moong),Rani,2015-12-12,6900.0,99.0,22.6,clear
+1687,Green Gram (Moong),Rani,2015-12-15,6650.0,73.0,23.8,clear
+1688,Green Gram (Moong),Rani,2015-12-17,6700.0,44.0,24.8,clear
+1689,Green Gram (Moong),Rani,2015-12-18,6900.0,9.0,23.4,clear
+1690,Green Gram (Moong),Rani,2015-12-19,6900.0,66.0,24.8,clear
+1691,Green Gram (Moong),Rani,2015-12-26,6600.0,78.0,25.6,clear
+1692,Green Gram (Moong),Rani,2015-12-28,6650.0,12.0,29.4,clear
+1693,Green Gram (Moong),Sojat Road,2015-12-28,6402.0,0.2,29.4,clear
+1694,Green Gram (Moong),Rani,2015-12-29,7000.0,57.0,29.2,clear
+1695,Green Gram (Moong),Sumerpur,2015-12-29,6911.0,19.3,29.2,clear
+1696,Green Gram (Moong),Rani,2015-12-31,6896.0,7.0,28.4,clear
+1697,Green Gram (Moong),Sumerpur,2015-12-31,6870.0,18.1,28.4,clear
+1698,Green Gram (Moong),Sojat Road,2015-07-01,7201.0,0.1,37.0,clear
+1699,Green Gram (Moong),Sojat Road,2015-01-19,6701.0,0.1,24.4,clear
+1700,Green Gram (Moong),Sojat Road,2015-01-23,7201.0,0.1,20.8,clear
+1701,Green Gram (Moong),Sojat Road,2015-03-25,6900.0,0.1,39.2,clear
+1702,Green Gram (Moong),Sojat Road,2015-09-04,3701.0,0.1,36.2,clear
+1703,Green Gram (Moong),Sojat Road,2015-04-28,4700.0,0.1,40.0,clear
+1704,Green Gram (Moong),Sojat Road,2015-03-07,5000.0,0.1,29.0,clear
+1705,Green Gram (Moong),Sojat Road,2015-12-24,6201.0,0.1,21.0,clear
+1706,Green Gram (Moong),Sumerpur,2015-02-01,7500.0,23.2,28.6,clear
+1707,Green Gram (Moong),Sumerpur,2015-01-16,7530.0,3.9,21.0,clear
+1708,Green Gram (Moong),Sumerpur,2015-01-27,7410.0,4.9,21.4,clear
+1709,Green Gram (Moong),Sumerpur,2015-01-28,7340.0,2.7,23.0,clear
+1710,Green Gram (Moong),Sumerpur,2015-01-29,7280.0,3.4,22.4,clear
+1711,Green Gram (Moong),Sumerpur,2015-01-30,7265.0,0.2,23.4,clear
+1712,Green Gram (Moong),Sumerpur,2015-01-31,6990.0,0.6,26.4,clear
+1713,Green Gram (Moong),Sumerpur,2015-11-02,7290.0,6.3,32.4,clear
+1714,Green Gram (Moong),Sumerpur,2015-12-02,7125.0,6.9,28.0,clear
+1715,Green Gram (Moong),Sumerpur,2015-02-24,7571.0,10.1,30.4,clear
+1716,Green Gram (Moong),Sumerpur,2015-09-03,7315.0,0.4,34.2,clear
+1717,Green Gram (Moong),Sumerpur,2015-04-27,7525.0,1.8,42.6,clear
+1718,Green Gram (Moong),Sumerpur,2015-04-29,7310.0,1.0,42.0,clear
+1719,Green Gram (Moong),Sumerpur,2015-04-05,7510.0,0.5,32.4,clear
+1720,Green Gram (Moong),Sumerpur,2015-07-05,7580.0,0.9,37.4,clear
+1721,Green Gram (Moong),Sumerpur,2015-05-28,7150.0,0.3,42.0,clear
+1722,Green Gram (Moong),Sumerpur,2015-06-29,6025.0,0.1,38.6,clear
+1723,Green Gram (Moong),Sumerpur,2015-06-07,5925.0,0.4,43.8,clear
+1724,Green Gram (Moong),Sumerpur,2015-07-13,6293.0,0.6,36.2,clear
+1725,Green Gram (Moong),Sumerpur,2015-07-14,6185.0,0.1,37.6,clear
+1726,Green Gram (Moong),Sumerpur,2015-07-16,6360.0,0.2,36.6,clear
+1727,Green Gram (Moong),Sumerpur,2015-07-21,6075.0,0.7,36.0,clear
+1728,Green Gram (Moong),Sumerpur,2015-07-22,6230.0,0.2,34.0,rain
+1729,Green Gram (Moong),Sumerpur,2015-07-08,5825.0,0.4,37.8,clear
+1730,Green Gram (Moong),Sumerpur,2015-08-13,5870.0,0.3,32.4,clear
+1731,Green Gram (Moong),Sumerpur,2015-08-14,5650.0,0.2,32.4,clear
+1732,Green Gram (Moong),Sumerpur,2015-08-20,5800.0,0.1,33.0,clear
+1733,Green Gram (Moong),Sumerpur,2015-08-27,5800.0,0.9,33.2,clear
+1734,Bengal Gram(Gram),Rani,2016-05-31,5825.0,0.6,39.4,clear
+1735,Bengal Gram(Gram),Sumerpur,2016-05-31,5810.0,12.6,39.4,clear
+1736,Green Gram (Moong),Sumerpur,2016-05-31,5890.0,4.8,39.4,clear
+1737,Bengal Gram(Gram),Rani,2016-03-06,5811.0,1.4,30.4,clear
+1738,Bengal Gram(Gram),Sumerpur,2016-03-06,5726.0,2.6,30.4,clear
+1739,Green Gram (Moong),Jaitaran,2016-03-06,5700.0,0.33,30.4,clear
+1740,Bengal Gram(Gram),Rani,2016-10-06,6450.0,0.2,32.8,clear
+1741,Green Gram (Moong),Jaitaran,2016-10-06,5800.0,0.31,32.8,clear
+1742,Green Gram (Moong),Pali,2016-10-06,5350.0,4.7,32.8,clear
+1743,Green Gram (Moong),Sojat Road,2016-10-06,5300.0,0.2,32.8,clear
+1744,Bengal Gram(Gram),Rani,2016-06-14,6526.0,0.1,38.0,clear
+1745,Bengal Gram(Gram),Rani,2016-06-16,5700.0,0.3,39.0,clear
+1746,Bengal Gram(Gram),Sumerpur,2016-06-16,6751.0,1.5,39.0,clear
+1747,Bengal Gram(Gram),Rani,2016-06-20,6662.0,0.3,43.8,clear
+1748,Green Gram (Moong),Jaitaran,2016-06-20,5800.0,0.33,43.8,clear
+1749,Bengal Gram(Gram),Rani,2016-06-25,6780.0,2.0,39.0,clear
+1750,Green Gram (Moong),Jaitaran,2016-06-25,5800.0,0.33,39.0,clear
+1751,Bengal Gram(Gram),Rani,2016-01-07,7659.0,0.1,27.8,clear
+1752,Bengal Gram(Gram),Sumerpur,2016-01-07,7310.0,0.3,27.8,clear
+1753,Green Gram (Moong),Jaitaran,2016-01-07,5500.0,0.02,27.8,clear
+1754,Green Gram (Moong),Rani,2016-01-07,5425.0,1.0,27.8,clear
+1755,Bengal Gram(Gram),Rani,2016-02-07,7400.0,0.2,27.4,clear
+1756,Bengal Gram(Gram),Rani,2016-12-07,8751.0,0.4,31.0,clear
+1757,Bengal Gram(Gram),Sumerpur,2016-12-07,8461.0,0.2,31.0,clear
+1758,Bengal Gram(Gram),Rani,2016-07-25,7000.0,0.2,39.0,clear
+1759,Bengal Gram(Gram),Sumerpur,2016-07-25,8212.0,0.2,39.0,clear
+1760,Green Gram (Moong),Jaitaran,2016-07-25,5225.0,0.87,39.0,clear
+1761,Green Gram (Moong),Rani,2016-07-25,4300.0,2.0,39.0,clear
+1762,Green Gram (Moong),Sojat Road,2016-07-25,5211.0,0.3,39.0,clear
+1763,Green Gram (Moong),Sumerpur,2016-07-25,5691.0,1.3,39.0,clear
+1764,Bengal Gram(Gram),Rani,2016-10-21,14000.0,0.1,32.4,clear
+1765,Green Gram (Moong),Jaitaran,2016-10-21,4300.0,6.56,32.4,clear
+1766,Green Gram (Moong),Pali,2016-10-21,5225.0,14.0,32.4,clear
+1767,Green Gram (Moong),Rani,2016-10-21,4600.0,775.0,32.4,clear
+1768,Green Gram (Moong),Sojat Road,2016-10-21,3851.0,11.2,32.4,clear
+1769,Bengal Gram(Gram),Rani,2016-10-22,14800.0,0.2,33.4,clear
+1770,Green Gram (Moong),Jaitaran,2016-10-22,4150.0,6.7,33.4,clear
+1771,Green Gram (Moong),Rani,2016-10-22,4600.0,1449.0,33.4,clear
+1772,Green Gram (Moong),Sojat Road,2016-10-22,3400.0,2.3,33.4,clear
+1773,Bengal Gram(Gram),Rani,2016-10-27,4800.0,0.1,35.0,clear
+1774,Green Gram (Moong),Rani,2016-10-27,4500.0,694.0,35.0,clear
+1775,Green Gram (Moong),Sojat Road,2016-10-27,3700.0,3.1,35.0,clear
+1776,Bengal Gram(Gram),Rani,2016-08-11,4300.0,170.4,29.6,clear
+1777,Green Gram (Moong),Jaitaran,2016-08-11,4212.0,16.83,29.6,clear
+1778,Green Gram (Moong),Pali,2016-08-11,5225.0,3.6,29.6,clear
+1779,Green Gram (Moong),Sojat Road,2016-08-11,4360.0,3.7,29.6,clear
+1780,Bengal Gram(Gram),Sumerpur,2016-12-03,4405.0,854.0,29.0,clear
+1781,Green Gram (Moong),Jaitaran,2016-12-03,9375.0,7.6,29.0,clear
+1782,Bengal Gram(Gram),Sumerpur,2016-03-14,4410.0,77.3,31.4,clear
+1783,Green Gram (Moong),Jaitaran,2016-03-14,5900.0,0.33,31.4,clear
+1784,Green Gram (Moong),Sumerpur,2016-03-14,6475.0,6.8,31.4,clear
+1785,Bengal Gram(Gram),Sumerpur,2016-03-15,4370.0,69.1,32.0,clear
+1786,Green Gram (Moong),Rani,2016-03-15,6670.0,20.0,32.0,clear
+1787,Green Gram (Moong),Sumerpur,2016-03-15,6540.0,9.7,32.0,clear
+1788,Bengal Gram(Gram),Sumerpur,2016-03-16,4300.0,59.5,33.2,clear
+1789,Green Gram (Moong),Jaitaran,2016-03-16,6500.0,0.8,33.2,clear
+1790,Bengal Gram(Gram),Sumerpur,2016-03-17,4265.0,102.7,31.4,clear
+1791,Green Gram (Moong),Jaitaran,2016-03-17,6500.0,10.0,31.4,clear
+1792,Green Gram (Moong),Sumerpur,2016-03-17,6300.0,0.9,31.4,clear
+1793,Bengal Gram(Gram),Sumerpur,2016-03-18,4210.0,14.2,32.0,clear
+1794,Bengal Gram(Gram),Sumerpur,2016-03-25,4070.0,5.5,39.2,clear
+1795,Bengal Gram(Gram),Sumerpur,2016-03-26,4215.0,5.6,33.6,clear
+1796,Bengal Gram(Gram),Sumerpur,2016-01-04,4373.0,40.9,28.8,clear
+1797,Bengal Gram(Gram),Sumerpur,2016-02-04,4486.0,26.8,26.4,clear
+1798,Green Gram (Moong),Sumerpur,2016-02-04,6677.0,0.6,26.4,clear
+1799,Bengal Gram(Gram),Sumerpur,2016-04-04,4755.0,63.5,36.0,clear
+1800,Green Gram (Moong),Jaitaran,2016-04-04,6550.0,6.0,36.0,clear
+1801,Bengal Gram(Gram),Sumerpur,2016-05-04,4826.0,47.1,39.0,clear
+1802,Green Gram (Moong),Jaitaran,2016-05-04,6510.0,30.0,39.0,clear
+1803,Green Gram (Moong),Pali,2016-05-04,6800.0,0.1,39.0,clear
+1804,Green Gram (Moong),Rani,2016-05-04,6791.0,5.0,39.0,clear
+1805,Green Gram (Moong),Sojat Road,2016-05-04,6602.0,0.7,39.0,clear
+1806,Green Gram (Moong),Sumerpur,2016-05-04,6610.0,9.5,39.0,clear
+1807,Bengal Gram(Gram),Sumerpur,2016-06-04,4680.0,78.5,43.6,clear
+1808,Green Gram (Moong),Jaitaran,2016-06-04,6650.0,0.5,43.6,clear
+1809,Green Gram (Moong),Sumerpur,2016-06-04,6500.0,7.8,43.6,clear
+1810,Bengal Gram(Gram),Sumerpur,2016-11-04,4810.0,33.5,33.0,clear
+1811,Green Gram (Moong),Jaitaran,2016-11-04,6330.0,0.01,33.0,clear
+1812,Bengal Gram(Gram),Sumerpur,2016-12-04,4765.0,8.1,27.4,clear
+1813,Green Gram (Moong),Jaitaran,2016-12-04,6700.0,0.3,27.4,clear
+1814,Green Gram (Moong),Sumerpur,2016-12-04,6562.0,11.0,27.4,clear
+1815,Bengal Gram(Gram),Sumerpur,2016-04-13,4801.0,22.9,39.0,clear
+1816,Green Gram (Moong),Rani,2016-04-13,6687.0,1.0,39.0,clear
+1817,Green Gram (Moong),Sumerpur,2016-04-13,6622.0,6.2,39.0,clear
+1818,Bengal Gram(Gram),Sumerpur,2016-04-15,5256.0,25.7,38.8,clear
+1819,Bengal Gram(Gram),Sumerpur,2016-04-16,5265.0,12.7,39.0,clear
+1820,Bengal Gram(Gram),Sumerpur,2016-04-18,5500.0,31.5,37.0,clear
+1821,Bengal Gram(Gram),Sumerpur,2016-04-19,5420.0,25.5,36.4,clear
+1822,Green Gram (Moong),Sumerpur,2016-04-19,6762.0,11.3,36.4,clear
+1823,Bengal Gram(Gram),Sumerpur,2016-04-20,5370.0,13.4,39.4,clear
+1824,Green Gram (Moong),Sumerpur,2016-04-20,6780.0,1.5,39.4,clear
+1825,Bengal Gram(Gram),Sumerpur,2016-04-21,5232.0,13.4,39.2,clear
+1826,Bengal Gram(Gram),Sumerpur,2016-04-22,5150.0,15.6,37.0,clear
+1827,Green Gram (Moong),Sumerpur,2016-04-22,6200.0,0.2,37.0,clear
+1828,Bengal Gram(Gram),Sumerpur,2016-04-25,5300.0,36.7,39.0,clear
+1829,Green Gram (Moong),Sumerpur,2016-04-25,6610.0,15.2,39.0,clear
+1830,Bengal Gram(Gram),Sumerpur,2016-04-29,5328.0,6.2,42.4,clear
+1831,Bengal Gram(Gram),Sumerpur,2016-04-30,5350.0,15.8,43.6,clear
+1832,Green Gram (Moong),Rani,2016-04-30,6401.0,30.0,43.6,clear
+1833,Green Gram (Moong),Sumerpur,2016-04-30,6278.0,1.1,43.6,clear
+1834,Bengal Gram(Gram),Sumerpur,2016-02-05,5226.0,14.0,26.4,clear
+1835,Green Gram (Moong),Sumerpur,2016-02-05,6331.0,4.9,26.4,clear
+1836,Bengal Gram(Gram),Sumerpur,2016-03-05,5230.0,3.4,31.6,clear
+1837,Green Gram (Moong),Jaitaran,2016-03-05,6200.0,32.0,31.6,clear
+1838,Green Gram (Moong),Sojat Road,2016-03-05,5841.0,0.4,31.6,clear
+1839,Green Gram (Moong),Sumerpur,2016-03-05,6320.0,11.8,31.6,clear
+1840,Bengal Gram(Gram),Sumerpur,2016-04-05,5232.0,7.6,37.0,clear
+1841,Green Gram (Moong),Jaitaran,2016-04-05,6300.0,0.32,37.0,clear
+1842,Green Gram (Moong),Sumerpur,2016-04-05,6315.0,3.1,37.0,clear
+1843,Bengal Gram(Gram),Sumerpur,2016-05-05,5251.0,8.0,34.6,clear
+1844,Bengal Gram(Gram),Sumerpur,2016-07-05,5235.0,20.7,38.0,clear
+1845,Green Gram (Moong),Rani,2016-07-05,6000.0,18.0,38.0,clear
+1846,Bengal Gram(Gram),Sumerpur,2016-09-05,5260.0,2.8,31.6,clear
+1847,Green Gram (Moong),Rani,2016-09-05,6155.0,3.0,31.6,clear
+1848,Bengal Gram(Gram),Sumerpur,2016-11-05,5359.0,4.2,33.4,clear
+1849,Green Gram (Moong),Jaitaran,2016-11-05,6300.0,0.32,33.4,clear
+1850,Bengal Gram(Gram),Sumerpur,2016-12-05,5412.0,10.8,29.0,clear
+1851,Green Gram (Moong),Jaitaran,2016-12-05,6500.0,0.32,29.0,clear
+1852,Bengal Gram(Gram),Sumerpur,2016-05-13,5381.0,10.4,42.6,clear
+1853,Bengal Gram(Gram),Sumerpur,2016-05-14,5533.0,6.3,42.2,clear
+1854,Green Gram (Moong),Sumerpur,2016-05-14,6250.0,2.3,42.2,clear
+1855,Bengal Gram(Gram),Sumerpur,2016-05-16,5652.0,6.5,44.0,clear
+1856,Bengal Gram(Gram),Sumerpur,2016-05-19,5768.0,17.0,47.6,clear
+1857,Green Gram (Moong),Rani,2016-05-19,5692.0,2.0,47.6,clear
+1858,Bengal Gram(Gram),Sumerpur,2016-05-26,5776.0,6.1,39.2,clear
+1859,Green Gram (Moong),Sumerpur,2016-05-26,5732.0,19.3,39.2,clear
+1860,Bengal Gram(Gram),Sumerpur,2016-05-27,5805.0,1.9,40.0,clear
+1861,Green Gram (Moong),Sumerpur,2016-05-27,5770.0,5.1,40.0,clear
+1862,Bengal Gram(Gram),Sumerpur,2016-05-28,5867.0,4.6,38.6,clear
+1863,Green Gram (Moong),Sumerpur,2016-05-28,5990.0,2.0,38.6,clear
+1864,Bengal Gram(Gram),Sumerpur,2016-05-30,5820.0,2.9,39.0,clear
+1865,Green Gram (Moong),Sumerpur,2016-05-30,5780.0,6.8,39.0,clear
+1866,Bengal Gram(Gram),Sumerpur,2016-04-06,5933.0,5.4,34.8,clear
+1867,Bengal Gram(Gram),Sumerpur,2016-06-06,6010.0,17.7,45.0,clear
+1868,Green Gram (Moong),Jaitaran,2016-06-06,5800.0,0.3,45.0,clear
+1869,Bengal Gram(Gram),Sumerpur,2016-08-06,6240.0,3.2,32.4,rain
+1870,Bengal Gram(Gram),Sumerpur,2016-09-06,6222.0,0.3,31.4,clear
+1871,Green Gram (Moong),Jaitaran,2016-09-06,5800.0,0.3,31.4,clear
+1872,Bengal Gram(Gram),Sumerpur,2016-06-15,6870.0,1.5,38.2,clear
+1873,Bengal Gram(Gram),Sumerpur,2016-06-17,6790.0,0.8,40.8,clear
+1874,Bengal Gram(Gram),Sumerpur,2016-05-07,7451.0,0.3,41.0,clear
+1875,Bengal Gram(Gram),Sumerpur,2016-11-07,8547.0,2.4,32.0,clear
+1876,Bengal Gram(Gram),Sumerpur,2016-07-14,8541.0,0.4,34.8,clear
+1877,Green Gram (Moong),Jaitaran,2016-07-14,5500.0,0.33,34.8,clear
+1878,Green Gram (Moong),Rani,2016-07-14,5625.0,3.0,34.8,clear
+1879,Green Gram (Moong),Sumerpur,2016-07-14,5760.0,2.0,34.8,clear
+1880,Bengal Gram(Gram),Sumerpur,2016-07-15,8470.0,0.5,31.8,clear
+1881,Bengal Gram(Gram),Sumerpur,2016-07-19,8265.0,0.7,35.0,clear
+1882,Green Gram (Moong),Jaitaran,2016-07-19,5400.0,0.33,35.0,clear
+1883,Green Gram (Moong),Sojat Road,2016-07-19,5365.0,0.4,35.0,clear
+1884,Bengal Gram(Gram),Sumerpur,2016-02-08,7670.0,0.6,26.6,clear
+1885,Green Gram (Moong),Sumerpur,2016-02-08,4920.0,0.5,26.6,clear
+1886,Bengal Gram(Gram),Sumerpur,2016-08-22,7515.0,0.3,31.0,rain
+1887,Bengal Gram(Gram),Sumerpur,2016-09-16,8520.0,1.0,38.0,clear
+1888,Green Gram (Moong),Jaitaran,2016-09-16,4418.0,1.2,38.0,clear
+1889,Green Gram (Moong),Rani,2016-09-16,5001.0,3.0,38.0,clear
+1890,Green Gram (Moong),Sojat Road,2016-09-16,4860.0,1.4,38.0,clear
+1891,Green Gram (Moong),Sumerpur,2016-09-16,5211.0,14.2,38.0,clear
+1892,Bengal Gram(Gram),Sumerpur,2016-09-17,8600.0,2.5,39.0,clear
+1893,Green Gram (Moong),Jaitaran,2016-09-17,4900.0,630.0,39.0,clear
+1894,Green Gram (Moong),Sumerpur,2016-09-17,5185.0,20.1,39.0,clear
+1895,Bengal Gram(Gram),Sumerpur,2016-10-17,12700.0,2.8,35.6,clear
+1896,Green Gram (Moong),Jaitaran,2016-10-17,3880.0,5.99,35.6,clear
+1897,Green Gram (Moong),Rani,2016-10-17,4400.0,786.0,35.6,clear
+1898,Green Gram (Moong),Sojat Road,2016-10-17,3600.0,1.2,35.6,clear
+1899,Black Gram (Urd Beans),Sumerpur,2016-10-15,6121.0,2.8,34.4,clear
+1900,Green Gram (Moong),Rani,2016-10-15,4400.0,966.0,34.4,clear
+1901,Black Gram (Urd Beans),Sumerpur,2016-11-28,5800.0,1.1,31.2,clear
+1902,Green Gram (Moong),Jaitaran,2016-11-28,5225.0,7.85,31.2,clear
+1903,Green Gram (Moong),Pali,2016-11-28,5225.0,9.1,31.2,clear
+1904,Green Gram (Moong),Jaitaran,2016-04-01,7100.0,0.2,38.8,clear
+1905,Green Gram (Moong),Rani,2016-04-01,6900.0,48.0,38.8,clear
+1906,Green Gram (Moong),Sojat Road,2016-04-01,5101.0,0.1,38.8,clear
+1907,Green Gram (Moong),Jaitaran,2016-06-01,6900.0,0.35,40.0,clear
+1908,Green Gram (Moong),Rani,2016-06-01,7100.0,24.0,40.0,clear
+1909,Green Gram (Moong),Sumerpur,2016-06-01,7100.0,31.0,40.0,clear
+1910,Green Gram (Moong),Jaitaran,2016-08-01,6950.0,7.0,36.0,rain
+1911,Green Gram (Moong),Sumerpur,2016-08-01,6882.0,50.8,36.0,rain
+1912,Green Gram (Moong),Jaitaran,2016-01-13,6575.0,9.9,24.0,clear
+1913,Green Gram (Moong),Jaitaran,2016-01-20,6800.0,0.1,23.8,clear
+1914,Green Gram (Moong),Rani,2016-01-20,6700.0,21.0,23.8,clear
+1915,Green Gram (Moong),Sumerpur,2016-01-20,6850.0,49.5,23.8,clear
+1916,Green Gram (Moong),Jaitaran,2016-01-25,6612.0,2.0,24.8,clear
+1917,Green Gram (Moong),Pali,2016-01-25,7700.0,34.5,24.8,clear
+1918,Green Gram (Moong),Rani,2016-01-25,6750.0,20.0,24.8,clear
+1919,Green Gram (Moong),Jaitaran,2016-01-27,6550.0,3.7,25.2,clear
+1920,Green Gram (Moong),Rani,2016-01-27,6500.0,25.0,25.2,clear
+1921,Green Gram (Moong),Sumerpur,2016-01-27,6570.0,4.5,25.2,clear
+1922,Green Gram (Moong),Jaitaran,2016-04-02,5815.0,0.5,38.6,clear
+1923,Green Gram (Moong),Rani,2016-04-02,6061.0,15.0,38.6,clear
+1924,Green Gram (Moong),Jaitaran,2016-02-29,6200.0,0.1,34.8,clear
+1925,Green Gram (Moong),Sumerpur,2016-02-29,6438.0,12.1,34.8,clear
+1926,Green Gram (Moong),Jaitaran,2016-02-03,6400.0,0.1,26.0,clear
+1927,Green Gram (Moong),Sumerpur,2016-02-03,6532.0,14.1,26.0,clear
+1928,Green Gram (Moong),Jaitaran,2016-03-03,6000.0,0.5,35.2,clear
+1929,Green Gram (Moong),Sumerpur,2016-03-03,6451.0,4.5,35.2,clear
+1930,Green Gram (Moong),Jaitaran,2016-05-03,6200.0,1.7,39.6,clear
+1931,Green Gram (Moong),Sumerpur,2016-05-03,6470.0,8.1,39.6,clear
+1932,Green Gram (Moong),Jaitaran,2016-09-03,6400.0,1.7,31.4,clear
+1933,Green Gram (Moong),Sumerpur,2016-09-03,6470.0,11.4,31.4,clear
+1934,Green Gram (Moong),Jaitaran,2016-03-21,6500.0,5.0,35.4,clear
+1935,Green Gram (Moong),Jaitaran,2016-04-14,6400.0,14.3,39.8,clear
+1936,Green Gram (Moong),Jaitaran,2016-10-05,6250.0,0.32,28.6,clear
+1937,Green Gram (Moong),Jaitaran,2016-05-25,5700.0,0.33,39.0,clear
+1938,Green Gram (Moong),Rani,2016-05-25,6050.0,1.0,39.0,clear
+1939,Green Gram (Moong),Jaitaran,2016-04-07,5400.0,0.32,35.4,clear
+1940,Green Gram (Moong),Jaitaran,2016-07-13,5700.0,0.33,30.6,clear
+1941,Green Gram (Moong),Jaitaran,2016-07-18,5500.0,0.33,35.0,clear
+1942,Green Gram (Moong),Jaitaran,2016-07-26,5212.0,0.43,38.0,clear
+1943,Green Gram (Moong),Jaitaran,2016-07-29,5050.0,1.39,34.0,clear
+1944,Green Gram (Moong),Jaitaran,2016-08-13,4950.0,1.45,32.2,clear
+1945,Green Gram (Moong),Jaitaran,2016-08-16,17500.0,0.14,32.4,clear
+1946,Green Gram (Moong),Jaitaran,2016-09-14,4820.0,20.6,35.8,clear
+1947,Green Gram (Moong),Jaitaran,2016-09-15,4800.0,0.17,37.0,clear
+1948,Green Gram (Moong),Sojat Road,2016-09-15,4300.0,1.6,37.0,clear
+1949,Green Gram (Moong),Jaitaran,2016-09-19,4875.0,65.1,37.6,clear
+1950,Green Gram (Moong),Sojat Road,2016-09-19,4750.0,0.1,37.6,clear
+1951,Green Gram (Moong),Sumerpur,2016-09-19,5180.0,49.0,37.6,clear
+1952,Green Gram (Moong),Jaitaran,2016-09-20,4600.0,36.9,36.2,clear
+1953,Green Gram (Moong),Rani,2016-09-20,4800.0,18.0,36.2,clear
+1954,Green Gram (Moong),Sumerpur,2016-09-20,5450.0,35.0,36.2,clear
+1955,Green Gram (Moong),Jaitaran,2016-09-21,5108.0,4.81,35.4,clear
+1956,Green Gram (Moong),Sojat Road,2016-09-21,4551.0,5.2,35.4,clear
+1957,Green Gram (Moong),Jaitaran,2016-09-22,4800.0,40.3,36.4,clear
+1958,Green Gram (Moong),Rani,2016-09-22,5100.0,7.0,36.4,clear
+1959,Green Gram (Moong),Sojat Road,2016-09-22,4823.0,1.4,36.4,clear
+1960,Green Gram (Moong),Jaitaran,2016-09-26,4450.0,81.9,36.4,clear
+1961,Green Gram (Moong),Rani,2016-09-26,5100.0,285.0,36.4,clear
+1962,Green Gram (Moong),Sojat Road,2016-09-26,4991.0,4.6,36.4,clear
+1963,Green Gram (Moong),Jaitaran,2016-09-27,4500.0,86.3,36.0,clear
+1964,Green Gram (Moong),Rani,2016-09-27,5150.0,222.0,36.0,clear
+1965,Green Gram (Moong),Jaitaran,2016-09-29,4050.0,6.23,35.0,clear
+1966,Green Gram (Moong),Rani,2016-09-29,5150.0,135.0,35.0,clear
+1967,Green Gram (Moong),Sojat Road,2016-09-29,4533.0,3.7,35.0,clear
+1968,Green Gram (Moong),Jaitaran,2016-03-10,4425.0,5.72,33.6,clear
+1969,Green Gram (Moong),Rani,2016-03-10,4900.0,420.0,33.6,clear
+1970,Green Gram (Moong),Sojat Road,2016-03-10,4749.0,7.7,33.6,clear
+1971,Green Gram (Moong),Jaitaran,2016-04-10,4225.0,6.28,37.0,clear
+1972,Green Gram (Moong),Rani,2016-04-10,5000.0,326.0,37.0,clear
+1973,Green Gram (Moong),Sojat Road,2016-04-10,4800.0,8.1,37.0,clear
+1974,Green Gram (Moong),Jaitaran,2016-06-10,4125.0,6.25,39.2,clear
+1975,Green Gram (Moong),Rani,2016-06-10,5000.0,268.0,39.2,clear
+1976,Green Gram (Moong),Sojat Road,2016-06-10,3900.0,24.6,39.2,clear
+1977,Green Gram (Moong),Jaitaran,2016-10-18,4250.0,4.55,34.6,clear
+1978,Green Gram (Moong),Pali,2016-10-18,5225.0,14.3,34.6,clear
+1979,Green Gram (Moong),Rani,2016-10-18,4400.0,554.0,34.6,clear
+1980,Green Gram (Moong),Sojat Road,2016-10-18,4166.0,9.0,34.6,clear
+1981,Green Gram (Moong),Jaitaran,2016-10-19,4250.0,63.8,34.4,clear
+1982,Green Gram (Moong),Pali,2016-10-19,5225.0,5.0,34.4,clear
+1983,Green Gram (Moong),Rani,2016-10-19,4700.0,492.0,34.4,clear
+1984,Green Gram (Moong),Sojat Road,2016-10-19,3521.0,6.0,34.4,clear
+1985,Green Gram (Moong),Jaitaran,2016-10-20,4372.0,56.0,33.4,clear
+1986,Green Gram (Moong),Pali,2016-10-20,5225.0,15.0,33.4,clear
+1987,Green Gram (Moong),Rani,2016-10-20,4600.0,954.0,33.4,clear
+1988,Green Gram (Moong),Sojat Road,2016-10-20,4191.0,14.4,33.4,clear
+1989,Green Gram (Moong),Jaitaran,2016-10-24,4022.0,6.9,32.4,clear
+1990,Green Gram (Moong),Rani,2016-10-24,4400.0,784.0,32.4,clear
+1991,Green Gram (Moong),Sojat Road,2016-10-24,3986.0,4.8,32.4,clear
+1992,Green Gram (Moong),Jaitaran,2016-02-11,4612.0,87.8,25.8,clear
+1993,Green Gram (Moong),Jaitaran,2016-03-11,4612.0,81.8,32.8,clear
+1994,Green Gram (Moong),Pali,2016-03-11,5225.0,25.0,32.8,clear
+1995,Green Gram (Moong),Jaitaran,2016-04-11,4562.0,10.09,35.4,clear
+1996,Green Gram (Moong),Pali,2016-04-11,5225.0,1.9,35.4,clear
+1997,Green Gram (Moong),Rani,2016-04-11,4700.0,302.0,35.4,clear
+1998,Green Gram (Moong),Jaitaran,2016-05-11,4612.0,17.38,42.8,clear
+1999,Green Gram (Moong),Pali,2016-05-11,5225.0,0.0,42.8,clear
+2000,Green Gram (Moong),Rani,2016-05-11,4500.0,1680.0,42.8,clear
+2001,Green Gram (Moong),Jaitaran,2016-07-11,4512.0,16.24,35.0,rain
+2002,Green Gram (Moong),Pali,2016-07-11,5050.0,3.2,35.0,rain
+2003,Green Gram (Moong),Rani,2016-07-11,4400.0,1508.0,35.0,rain
+2004,Green Gram (Moong),Sojat Road,2016-07-11,4401.0,6.6,35.0,rain
+2005,Green Gram (Moong),Jaitaran,2016-09-11,5225.0,8.15,32.0,clear
+2006,Green Gram (Moong),Pali,2016-09-11,4862.0,27.9,32.0,clear
+2007,Green Gram (Moong),Jaitaran,2016-10-11,5225.0,10.01,34.4,clear
+2008,Green Gram (Moong),Pali,2016-10-11,5012.0,11.2,34.4,clear
+2009,Green Gram (Moong),Rani,2016-10-11,4200.0,293.0,34.4,clear
+2010,Green Gram (Moong),Jaitaran,2016-11-11,5225.0,1148.0,31.0,clear
+2011,Green Gram (Moong),Rani,2016-11-11,4200.0,153.0,31.0,clear
+2012,Green Gram (Moong),Jaitaran,2016-12-11,5225.0,10.53,28.4,clear
+2013,Green Gram (Moong),Pali,2016-12-11,5012.0,16.3,28.4,clear
+2014,Green Gram (Moong),Rani,2016-12-11,4000.0,46.0,28.4,clear
+2015,Green Gram (Moong),Jaitaran,2016-11-15,5225.0,9.96,28.0,clear
+2016,Green Gram (Moong),Rani,2016-11-15,4300.0,398.0,28.0,clear
+2017,Green Gram (Moong),Jaitaran,2016-11-16,5225.0,9.95,29.0,clear
+2018,Green Gram (Moong),Rani,2016-11-16,4300.0,260.0,29.0,clear
+2019,Green Gram (Moong),Jaitaran,2016-11-17,5225.0,12.09,30.2,clear
+2020,Green Gram (Moong),Pali,2016-11-17,5225.0,1.0,30.2,clear
+2021,Green Gram (Moong),Jaitaran,2016-11-18,5225.0,6.84,31.0,clear
+2022,Green Gram (Moong),Pali,2016-11-18,5012.0,63.6,31.0,clear
+2023,Green Gram (Moong),Sojat Road,2016-11-18,3500.0,3.1,31.0,clear
+2024,Green Gram (Moong),Jaitaran,2016-11-19,5225.0,13.6,30.6,clear
+2025,Green Gram (Moong),Pali,2016-11-19,5225.0,27.9,30.6,clear
+2026,Green Gram (Moong),Jaitaran,2016-11-21,5225.0,93.6,31.6,clear
+2027,Green Gram (Moong),Pali,2016-11-21,5012.0,4.9,31.6,clear
+2028,Green Gram (Moong),Sojat Road,2016-11-21,3200.0,1.5,31.6,clear
+2029,Green Gram (Moong),Jaitaran,2016-11-22,5225.0,114.9,30.8,clear
+2030,Green Gram (Moong),Pali,2016-11-22,4862.0,24.7,30.8,clear
+2031,Green Gram (Moong),Sojat Road,2016-11-22,3467.0,3.7,30.8,clear
+2032,Green Gram (Moong),Jaitaran,2016-11-23,5225.0,126.6,31.0,clear
+2033,Green Gram (Moong),Pali,2016-11-23,4875.0,26.6,31.0,clear
+2034,Green Gram (Moong),Sojat Road,2016-11-23,3700.0,4.6,31.0,clear
+2035,Green Gram (Moong),Jaitaran,2016-11-24,5225.0,131.1,31.2,clear
+2036,Green Gram (Moong),Pali,2016-11-24,4862.0,42.4,31.2,clear
+2037,Green Gram (Moong),Sojat Road,2016-11-24,3400.0,3.1,31.2,clear
+2038,Green Gram (Moong),Jaitaran,2016-11-25,5225.0,151.5,31.0,clear
+2039,Green Gram (Moong),Pali,2016-11-25,4862.0,12.5,31.0,clear
+2040,Green Gram (Moong),Jaitaran,2016-11-26,5225.0,165.2,30.8,clear
+2041,Green Gram (Moong),Pali,2016-11-26,4837.0,58.0,30.8,clear
+2042,Green Gram (Moong),Jaitaran,2016-11-29,5225.0,9.94,31.6,clear
+2043,Green Gram (Moong),Pali,2016-11-29,4850.0,23.5,31.6,clear
+2044,Green Gram (Moong),Sojat Road,2016-11-29,3650.0,3.6,31.6,clear
+2045,Green Gram (Moong),Jaitaran,2016-11-30,5225.0,13.92,31.0,clear
+2046,Green Gram (Moong),Pali,2016-11-30,5225.0,44.2,31.0,clear
+2047,Green Gram (Moong),Sojat Road,2016-11-30,3500.0,0.2,31.0,clear
+2048,Green Gram (Moong),Jaitaran,2016-01-12,5225.0,10.4,26.0,clear
+2049,Green Gram (Moong),Sojat Road,2016-01-12,3600.0,3.0,26.0,clear
+2050,Green Gram (Moong),Jaitaran,2016-02-12,5225.0,11.65,26.4,clear
+2051,Green Gram (Moong),Sojat Road,2016-02-12,3600.0,1.4,26.4,clear
+2052,Green Gram (Moong),Jaitaran,2016-03-12,5225.0,11.37,30.2,clear
+2053,Green Gram (Moong),Sojat Road,2016-03-12,3200.0,6.8,30.2,clear
+2054,Green Gram (Moong),Jaitaran,2016-04-12,5225.0,14.07,35.8,clear
+2055,Green Gram (Moong),Jaitaran,2016-05-12,4575.0,16.23,43.0,clear
+2056,Green Gram (Moong),Jaitaran,2016-06-12,4012.0,1.93,38.0,clear
+2057,Green Gram (Moong),Pali,2016-06-12,5225.0,40.0,38.0,clear
+2058,Green Gram (Moong),Sojat Road,2016-06-12,3132.0,4.5,38.0,clear
+2059,Green Gram (Moong),Jaitaran,2016-07-12,3912.0,1.83,35.0,clear
+2060,Green Gram (Moong),Pali,2016-07-12,4862.0,48.8,35.0,clear
+2061,Green Gram (Moong),Jaitaran,2016-08-12,5225.0,1.32,32.0,clear
+2062,Green Gram (Moong),Pali,2016-08-12,4862.0,47.5,32.0,clear
+2063,Green Gram (Moong),Sojat Road,2016-08-12,3356.0,2.1,32.0,clear
+2064,Green Gram (Moong),Jaitaran,2016-09-12,4112.0,171.2,33.0,clear
+2065,Green Gram (Moong),Pali,2016-09-12,4860.0,40.2,33.0,clear
+2066,Green Gram (Moong),Sojat Road,2016-09-12,3450.0,1.6,33.0,clear
+2067,Green Gram (Moong),Jaitaran,2016-10-12,3912.0,169.1,33.4,clear
+2068,Green Gram (Moong),Pali,2016-10-12,4860.0,71.0,33.4,clear
+2069,Green Gram (Moong),Sojat Road,2016-10-12,3931.0,2.6,33.4,clear
+2070,Green Gram (Moong),Jaitaran,2016-11-12,5225.0,160.8,31.0,clear
+2071,Green Gram (Moong),Jaitaran,2016-12-12,5225.0,132.1,29.0,clear
+2072,Green Gram (Moong),Pali,2016-12-12,4860.0,109.9,29.0,clear
+2073,Green Gram (Moong),Sojat Road,2016-12-12,4016.0,6.8,29.0,clear
+2074,Green Gram (Moong),Jaitaran,2016-12-13,3950.0,1.78,27.8,clear
+2075,Green Gram (Moong),Pali,2016-12-13,4860.0,88.6,27.8,clear
+2076,Green Gram (Moong),Sojat Road,2016-12-13,3451.0,1.5,27.8,clear
+2077,Green Gram (Moong),Jaitaran,2016-12-14,5225.0,1.36,28.4,clear
+2078,Green Gram (Moong),Sojat Road,2016-12-14,3680.0,3.5,28.4,clear
+2079,Green Gram (Moong),Jaitaran,2016-12-15,5225.0,1.64,28.0,clear
+2080,Green Gram (Moong),Sojat Road,2016-12-15,3750.0,4.0,28.0,clear
+2081,Green Gram (Moong),Jaitaran,2016-12-16,3700.0,0.23,27.4,clear
+2082,Green Gram (Moong),Pali,2016-12-16,4862.0,6.2,27.4,clear
+2083,Green Gram (Moong),Rani,2016-12-16,4300.0,617.0,27.4,clear
+2084,Green Gram (Moong),Sojat Road,2016-12-16,4121.0,2.7,27.4,clear
+2085,Green Gram (Moong),Jaitaran,2016-12-19,3712.0,1.27,27.8,clear
+2086,Green Gram (Moong),Pali,2016-12-19,4850.0,11.5,27.8,clear
+2087,Green Gram (Moong),Rani,2016-12-19,4100.0,680.0,27.8,clear
+2088,Green Gram (Moong),Sojat Road,2016-12-19,3700.0,3.6,27.8,clear
+2089,Green Gram (Moong),Jaitaran,2016-12-20,3987.0,1.21,27.0,clear
+2090,Green Gram (Moong),Rani,2016-12-20,4100.0,639.0,27.0,clear
+2091,Green Gram (Moong),Sojat Road,2016-12-20,3345.0,1.3,27.0,clear
+2092,Green Gram (Moong),Jaitaran,2016-12-21,4122.0,1.36,27.4,clear
+2093,Green Gram (Moong),Rani,2016-12-21,4100.0,437.0,27.4,clear
+2094,Green Gram (Moong),Sojat Road,2016-12-21,3780.0,0.8,27.4,clear
+2095,Green Gram (Moong),Jaitaran,2016-12-22,4255.0,1.46,28.4,clear
+2096,Green Gram (Moong),Pali,2016-12-22,4860.0,81.5,28.4,clear
+2097,Green Gram (Moong),Rani,2016-12-22,4000.0,419.0,28.4,clear
+2098,Green Gram (Moong),Sojat Road,2016-12-22,3447.0,3.9,28.4,clear
+2099,Green Gram (Moong),Sumerpur,2016-12-22,4073.0,324.4,28.4,clear
+2100,Green Gram (Moong),Jaitaran,2016-12-23,4162.0,1.04,29.0,clear
+2101,Green Gram (Moong),Pali,2016-12-23,4862.0,61.2,29.0,clear
+2102,Green Gram (Moong),Rani,2016-12-23,4150.0,408.0,29.0,clear
+2103,Green Gram (Moong),Sojat Road,2016-12-23,3621.0,0.5,29.0,clear
+2104,Green Gram (Moong),Jaitaran,2016-12-24,5225.0,0.77,28.4,clear
+2105,Green Gram (Moong),Pali,2016-12-24,4887.0,41.3,28.4,clear
+2106,Green Gram (Moong),Rani,2016-12-24,4400.0,478.0,28.4,clear
+2107,Green Gram (Moong),Sojat Road,2016-12-24,3151.0,0.1,28.4,clear
+2108,Green Gram (Moong),Jaitaran,2016-12-26,5225.0,0.79,24.0,clear
+2109,Green Gram (Moong),Pali,2016-12-26,4837.0,137.6,24.0,clear
+2110,Green Gram (Moong),Sojat Road,2016-12-26,3561.0,0.2,24.0,clear
+2111,Green Gram (Moong),Jaitaran,2016-12-27,4562.0,0.77,27.0,clear
+2112,Green Gram (Moong),Pali,2016-12-27,4862.0,44.8,27.0,clear
+2113,Green Gram (Moong),Rani,2016-12-27,4400.0,246.0,27.0,clear
+2114,Green Gram (Moong),Sojat Road,2016-12-27,3480.0,1.2,27.0,clear
+2115,Green Gram (Moong),Jaitaran,2016-12-28,4462.0,2.1,29.6,clear
+2116,Green Gram (Moong),Rani,2016-12-28,4500.0,146.0,29.6,clear
+2117,Green Gram (Moong),Sojat Road,2016-12-28,3400.0,0.1,29.6,clear
+2118,Green Gram (Moong),Jaitaran,2016-12-29,4562.0,1.21,30.0,clear
+2119,Green Gram (Moong),Pali,2016-12-29,4812.0,42.0,30.0,clear
+2120,Green Gram (Moong),Jaitaran,2016-12-30,5225.0,1.46,29.8,clear
+2121,Green Gram (Moong),Jaitaran,2016-12-31,4337.0,1.74,27.8,clear
+2122,Green Gram (Moong),Rani,2016-12-31,4400.0,259.0,27.8,clear
+2123,Green Gram (Moong),Sumerpur,2016-12-31,4322.0,1531.0,27.8,clear
+2124,Green Gram (Moong),Pali,2016-01-01,7050.0,21.6,27.6,clear
+2125,Green Gram (Moong),Rani,2016-01-01,6800.0,16.0,27.6,clear
+2126,Green Gram (Moong),Sumerpur,2016-01-01,6750.0,26.9,27.6,clear
+2127,Green Gram (Moong),Pali,2016-01-23,7550.0,25.1,25.0,clear
+2128,Green Gram (Moong),Pali,2016-01-26,6775.0,24.5,26.2,clear
+2129,Green Gram (Moong),Pali,2016-11-02,6550.0,4.6,33.4,clear
+2130,Green Gram (Moong),Sumerpur,2016-11-02,6550.0,13.1,33.4,clear
+2131,Green Gram (Moong),Pali,2016-12-02,6650.0,2.4,30.0,clear
+2132,Green Gram (Moong),Rani,2016-12-02,6532.0,11.0,30.0,clear
+2133,Green Gram (Moong),Pali,2016-07-03,6500.0,6.4,38.4,rain
+2134,Green Gram (Moong),Sumerpur,2016-07-03,6348.0,5.3,38.4,rain
+2135,Green Gram (Moong),Pali,2016-10-25,5225.0,14.4,33.0,clear
+2136,Green Gram (Moong),Rani,2016-10-25,4300.0,647.0,33.0,clear
+2137,Green Gram (Moong),Sojat Road,2016-10-25,3771.0,14.5,33.0,clear
+2138,Green Gram (Moong),Pali,2016-10-26,5225.0,13.0,33.6,clear
+2139,Green Gram (Moong),Rani,2016-10-26,4500.0,1052.0,33.6,clear
+2140,Green Gram (Moong),Sojat Road,2016-10-26,4103.0,3.4,33.6,clear
+2141,Green Gram (Moong),Pali,2016-10-28,5225.0,11.0,34.4,clear
+2142,Green Gram (Moong),Rani,2016-10-28,4600.0,361.0,34.4,clear
+2143,Green Gram (Moong),Pali,2016-11-14,5037.0,39.4,28.0,clear
+2144,Green Gram (Moong),Rani,2016-11-14,4060.0,29.0,28.0,clear
+2145,Green Gram (Moong),Pali,2016-12-17,4850.0,12.9,28.0,clear
+2146,Green Gram (Moong),Rani,2016-12-17,4250.0,585.0,28.0,clear
+2147,Green Gram (Moong),Sojat Road,2016-12-17,3560.0,0.9,28.0,clear
+2148,Green Gram (Moong),Rani,2016-05-01,7050.0,60.0,42.4,clear
+2149,Green Gram (Moong),Sumerpur,2016-05-01,7069.0,38.9,42.4,clear
+2150,Green Gram (Moong),Rani,2016-07-01,6760.0,9.0,37.0,clear
+2151,Green Gram (Moong),Sumerpur,2016-07-01,7020.0,52.8,37.0,clear
+2152,Green Gram (Moong),Rani,2016-09-01,6725.0,10.0,31.4,clear
+2153,Green Gram (Moong),Sumerpur,2016-09-01,6953.0,28.5,31.4,clear
+2154,Green Gram (Moong),Rani,2016-11-01,6850.0,18.0,34.4,clear
+2155,Green Gram (Moong),Sumerpur,2016-11-01,6850.0,22.2,34.4,clear
+2156,Green Gram (Moong),Rani,2016-01-19,6750.0,54.0,24.6,clear
+2157,Green Gram (Moong),Sumerpur,2016-01-19,6950.0,23.6,24.6,clear
+2158,Green Gram (Moong),Rani,2016-01-21,6850.0,3.0,24.2,clear
+2159,Green Gram (Moong),Sumerpur,2016-01-21,6690.0,21.7,24.2,clear
+2160,Green Gram (Moong),Rani,2016-01-28,6500.0,26.0,26.0,clear
+2161,Green Gram (Moong),Rani,2016-01-29,6325.0,22.0,29.2,clear
+2162,Green Gram (Moong),Rani,2016-01-30,6200.0,3.0,28.2,clear
+2163,Green Gram (Moong),Rani,2016-02-02,6000.0,65.0,25.4,clear
+2164,Green Gram (Moong),Rani,2016-09-02,6400.0,10.0,32.2,clear
+2165,Green Gram (Moong),Rani,2016-02-13,6460.0,8.0,25.0,clear
+2166,Green Gram (Moong),Sumerpur,2016-02-13,6775.0,25.3,25.0,clear
+2167,Green Gram (Moong),Rani,2016-02-15,6650.0,11.0,26.4,clear
+2168,Green Gram (Moong),Rani,2016-02-21,6611.0,3.0,29.0,clear
+2169,Green Gram (Moong),Rani,2016-02-22,5900.0,5.0,29.8,clear
+2170,Green Gram (Moong),Rani,2016-03-28,6446.0,6.0,35.4,clear
+2171,Green Gram (Moong),Sojat Road,2016-03-28,6210.0,0.2,35.4,clear
+2172,Green Gram (Moong),Rani,2016-09-04,6651.0,26.0,31.4,clear
+2173,Green Gram (Moong),Rani,2016-04-23,6651.0,8.0,38.2,clear
+2174,Green Gram (Moong),Rani,2016-06-05,6051.0,16.0,44.4,clear
+2175,Green Gram (Moong),Rani,2016-05-17,5801.0,7.0,45.2,clear
+2176,Green Gram (Moong),Rani,2016-06-24,6625.0,9.0,37.6,clear
+2177,Green Gram (Moong),Rani,2016-06-27,6000.0,1.0,38.4,clear
+2178,Green Gram (Moong),Rani,2016-06-28,6300.0,12.0,36.2,clear
+2179,Green Gram (Moong),Rani,2016-07-21,5541.0,4.0,35.8,clear
+2180,Green Gram (Moong),Rani,2016-01-08,4701.0,2.0,25.4,clear
+2181,Green Gram (Moong),Sumerpur,2016-01-08,5051.0,3.6,25.4,clear
+2182,Green Gram (Moong),Rani,2016-05-08,4750.0,3.0,42.8,clear
+2183,Green Gram (Moong),Rani,2016-09-24,5100.0,49.0,37.4,clear
+2184,Green Gram (Moong),Sojat Road,2016-09-24,4533.0,6.9,37.4,clear
+2185,Green Gram (Moong),Rani,2016-09-28,5200.0,67.0,36.2,clear
+2186,Green Gram (Moong),Sojat Road,2016-09-28,4687.0,9.0,36.2,clear
+2187,Green Gram (Moong),Rani,2016-09-30,4900.0,473.0,35.2,clear
+2188,Green Gram (Moong),Rani,2016-05-10,5050.0,215.0,41.8,clear
+2189,Green Gram (Moong),Sojat Road,2016-05-10,3791.0,1.3,41.8,clear
+2190,Green Gram (Moong),Rani,2016-07-10,5000.0,405.0,38.4,clear
+2191,Green Gram (Moong),Sojat Road,2016-07-10,4300.0,7.8,38.4,clear
+2192,Green Gram (Moong),Rani,2016-11-10,4400.0,442.0,32.0,clear
+2193,Green Gram (Moong),Rani,2016-12-10,4500.0,838.0,29.6,clear
+2194,Green Gram (Moong),Rani,2016-10-13,4400.0,577.0,33.8,clear
+2195,Green Gram (Moong),Rani,2016-10-14,4400.0,423.0,35.2,clear
+2196,Green Gram (Moong),Sojat Road,2016-01-03,5500.0,0.3,28.0,clear
+2197,Green Gram (Moong),Sumerpur,2016-01-03,6515.0,6.4,28.0,clear
+2198,Green Gram (Moong),Sojat Road,2016-08-03,4700.0,0.1,30.8,clear
+2199,Green Gram (Moong),Sumerpur,2016-08-03,6450.0,4.4,30.8,clear
+2200,Green Gram (Moong),Sojat Road,2016-06-18,5510.0,0.7,40.2,clear
+2201,Green Gram (Moong),Sojat Road,2016-07-09,3800.0,3.0,38.2,clear
+2202,Green Gram (Moong),Sojat Road,2016-08-09,4160.0,2.9,28.0,rain
+2203,Green Gram (Moong),Sojat Road,2016-09-23,4871.0,1.7,38.6,clear
+2204,Green Gram (Moong),Sojat Road,2016-01-10,4732.0,9.3,27.4,clear
+2205,Green Gram (Moong),Sojat Road,2016-10-10,3611.0,4.9,34.4,clear
+2206,Green Gram (Moong),Sumerpur,2016-02-01,6762.0,8.0,26.0,clear
+2207,Green Gram (Moong),Sumerpur,2016-12-01,7110.0,25.4,30.4,clear
+2208,Green Gram (Moong),Sumerpur,2016-01-16,6850.0,18.6,26.0,clear
+2209,Green Gram (Moong),Sumerpur,2016-01-18,6425.0,19.5,25.0,clear
+2210,Green Gram (Moong),Sumerpur,2016-06-02,6155.0,10.3,39.6,clear
+2211,Green Gram (Moong),Sumerpur,2016-08-02,6270.0,6.6,32.0,rain
+2212,Green Gram (Moong),Sumerpur,2016-02-23,6150.0,13.3,31.8,clear
+2213,Green Gram (Moong),Sumerpur,2016-02-25,6550.0,5.1,33.0,clear
+2214,Green Gram (Moong),Sumerpur,2016-02-26,6550.0,30.7,33.2,clear
+2215,Green Gram (Moong),Sumerpur,2016-04-03,6450.0,5.9,35.8,clear
+2216,Green Gram (Moong),Sumerpur,2016-04-26,6750.0,8.3,40.0,clear
+2217,Green Gram (Moong),Sumerpur,2016-07-28,5502.0,0.7,28.2,clear
+2218,Green Gram (Moong),Sumerpur,2016-04-08,4900.0,0.2,36.2,clear
+2219,Bengal Gram(Gram),Pali,2017-06-03,4455.0,163.0,44.0,clear
+2220,Bengal Gram(Gram),Rani,2017-06-03,4500.0,12.9,44.0,clear
+2221,Green Gram (Moong),Rani,2017-06-03,3890.0,3.0,44.0,clear
+2222,Green Gram (Moong),Sumerpur,2017-06-03,4048.0,39.8,44.0,clear
+2223,Bengal Gram(Gram),Pali,2017-07-03,4425.0,494.0,34.6,clear
+2224,Bengal Gram(Gram),Rani,2017-07-03,4600.0,1.2,34.6,clear
+2225,Bengal Gram(Gram),Sumerpur,2017-07-03,4461.0,153.6,34.6,clear
+2226,Green Gram (Moong),Rani,2017-07-03,4200.0,42.0,34.6,clear
+2227,Green Gram (Moong),Sumerpur,2017-07-03,4039.0,88.0,34.6,clear
+2228,Bengal Gram(Gram),Pali,2017-08-03,4550.0,102.0,31.0,clear
+2229,Bengal Gram(Gram),Rani,2017-08-03,4800.0,9.8,31.0,clear
+2230,Bengal Gram(Gram),Sumerpur,2017-08-03,4635.0,107.9,31.0,clear
+2231,Green Gram (Moong),Rani,2017-08-03,3800.0,10.0,31.0,clear
+2232,Green Gram (Moong),Sumerpur,2017-08-03,4130.0,32.2,31.0,clear
+2233,Bengal Gram(Gram),Pali,2017-09-03,4650.0,130.0,30.0,clear
+2234,Bengal Gram(Gram),Rani,2017-09-03,4704.0,11.5,30.0,clear
+2235,Bengal Gram(Gram),Sumerpur,2017-09-03,4816.0,124.7,30.0,clear
+2236,Green Gram (Moong),Jaitaran,2017-09-03,4500.0,2.0,30.0,clear
+2237,Green Gram (Moong),Rani,2017-09-03,4108.0,35.0,30.0,clear
+2238,Green Gram (Moong),Sumerpur,2017-09-03,4099.0,21.2,30.0,clear
+2239,Bengal Gram(Gram),Pali,2017-03-14,4550.0,976.0,31.6,clear
+2240,Bengal Gram(Gram),Rani,2017-03-14,4560.0,4.6,31.6,clear
+2241,Bengal Gram(Gram),Sumerpur,2017-03-14,4627.0,249.0,31.6,clear
+2242,Green Gram (Moong),Rani,2017-03-14,4352.0,5.0,31.6,clear
+2243,Green Gram (Moong),Sumerpur,2017-03-14,4750.0,56.3,31.6,clear
+2244,Bengal Gram(Gram),Pali,2017-03-15,4550.0,110.0,33.4,clear
+2245,Bengal Gram(Gram),Rani,2017-03-15,4555.0,27.5,33.4,clear
+2246,Bengal Gram(Gram),Sumerpur,2017-03-15,4561.0,98.7,33.4,clear
+2247,Green Gram (Moong),Sumerpur,2017-03-15,4108.0,47.3,33.4,clear
+2248,Bengal Gram(Gram),Pali,2017-03-16,4550.0,317.0,32.4,clear
+2249,Bengal Gram(Gram),Rani,2017-03-16,4400.0,20.1,32.4,clear
+2250,Bengal Gram(Gram),Sumerpur,2017-03-16,4618.0,108.8,32.4,clear
+2251,Green Gram (Moong),Pali,2017-03-16,4950.0,33.0,32.4,clear
+2252,Green Gram (Moong),Sojat Road,2017-03-16,4000.0,1.3,32.4,clear
+2253,Green Gram (Moong),Sumerpur,2017-03-16,4457.0,76.6,32.4,clear
+2254,Bengal Gram(Gram),Pali,2017-03-17,4550.0,259.0,32.4,clear
+2255,Bengal Gram(Gram),Rani,2017-03-17,4475.0,21.8,32.4,clear
+2256,Bengal Gram(Gram),Sumerpur,2017-03-17,4492.0,236.6,32.4,clear
+2257,Green Gram (Moong),Rani,2017-03-17,4815.0,2.0,32.4,clear
+2258,Green Gram (Moong),Sumerpur,2017-03-17,4553.0,48.5,32.4,clear
+2259,Bengal Gram(Gram),Pali,2017-03-21,4750.0,247.0,34.8,clear
+2260,Bengal Gram(Gram),Rani,2017-03-21,4825.0,13.1,34.8,clear
+2261,Green Gram (Moong),Rani,2017-03-21,4580.0,3.0,34.8,clear
+2262,Green Gram (Moong),Sojat Road,2017-03-21,3451.0,0.2,34.8,clear
+2263,Green Gram (Moong),Sumerpur,2017-03-21,4752.0,56.4,34.8,clear
+2264,Bengal Gram(Gram),Pali,2017-03-22,4775.0,498.0,35.4,clear
+2265,Bengal Gram(Gram),Rani,2017-03-22,5400.0,18.6,35.4,clear
+2266,Bengal Gram(Gram),Sumerpur,2017-03-22,4824.0,437.3,35.4,clear
+2267,Green Gram (Moong),Rani,2017-03-22,4601.0,21.0,35.4,clear
+2268,Bengal Gram(Gram),Pali,2017-03-23,5037.0,177.0,35.0,clear
+2269,Bengal Gram(Gram),Rani,2017-03-23,5550.0,12.7,35.0,clear
+2270,Bengal Gram(Gram),Sumerpur,2017-03-23,5548.0,397.5,35.0,clear
+2271,Green Gram (Moong),Rani,2017-03-23,5200.0,26.0,35.0,clear
+2272,Bengal Gram(Gram),Pali,2017-03-25,4987.0,406.0,37.0,clear
+2273,Bengal Gram(Gram),Rani,2017-03-25,5532.0,16.7,37.0,clear
+2274,Bengal Gram(Gram),Sumerpur,2017-03-25,5449.0,391.5,37.0,clear
+2275,Green Gram (Moong),Pali,2017-03-25,4800.0,1.0,37.0,clear
+2276,Green Gram (Moong),Rani,2017-03-25,4806.0,7.0,37.0,clear
+2277,Bengal Gram(Gram),Pali,2017-03-27,4987.0,224.0,40.4,clear
+2278,Bengal Gram(Gram),Rani,2017-03-27,5216.0,18.2,40.4,clear
+2279,Bengal Gram(Gram),Sumerpur,2017-03-27,5441.0,440.5,40.4,clear
+2280,Green Gram (Moong),Pali,2017-03-27,4800.0,1.3,40.4,clear
+2281,Green Gram (Moong),Rani,2017-03-27,5025.0,8.0,40.4,clear
+2282,Bengal Gram(Gram),Pali,2017-04-24,5250.0,160.0,37.2,clear
+2283,Bengal Gram(Gram),Rani,2017-04-24,5100.0,14.3,37.2,clear
+2284,Green Gram (Moong),Jaitaran,2017-04-24,4200.0,0.1,37.2,clear
+2285,Green Gram (Moong),Rani,2017-04-24,4500.0,3.0,37.2,clear
+2286,Bengal Gram(Gram),Pali,2017-04-26,5250.0,251.0,38.0,clear
+2287,Bengal Gram(Gram),Rani,2017-04-26,5180.0,3.9,38.0,clear
+2288,Green Gram (Moong),Rani,2017-04-26,4400.0,3.0,38.0,clear
+2289,Bengal Gram(Gram),Pali,2017-05-13,5250.0,117.0,42.8,clear
+2290,Bengal Gram(Gram),Rani,2017-05-13,5325.0,4.4,42.8,clear
+2291,Green Gram (Moong),Jaitaran,2017-05-13,4900.0,10.5,42.8,clear
+2292,Bengal Gram(Gram),Pali,2017-05-15,5250.0,210.0,40.4,clear
+2293,Bengal Gram(Gram),Rani,2017-05-15,5400.0,5.4,40.4,clear
+2294,Bengal Gram(Gram),Sumerpur,2017-05-15,5298.0,259.5,40.4,clear
+2295,Green Gram (Moong),Sojat Road,2017-05-15,3600.0,0.2,40.4,clear
+2296,Green Gram (Moong),Sumerpur,2017-05-15,4275.0,3.6,40.4,clear
+2297,Bengal Gram(Gram),Pali,2017-05-29,5250.0,230.0,38.2,clear
+2298,Bengal Gram(Gram),Rani,2017-05-29,5050.0,5.6,38.2,clear
+2299,Bengal Gram(Gram),Pali,2017-08-06,4775.0,81.0,33.6,clear
+2300,Green Gram (Moong),Jaitaran,2017-08-06,3850.0,0.3,33.6,clear
+2301,Green Gram (Moong),Pali,2017-08-06,4850.0,9.0,33.6,clear
+2302,Bengal Gram(Gram),Pali,2017-06-14,5025.0,190.0,39.4,clear
+2303,Bengal Gram(Gram),Sumerpur,2017-06-14,5030.0,10.6,39.4,clear
+2304,Bengal Gram(Gram),Pali,2017-06-16,5150.0,144.0,38.8,clear
+2305,Green Gram (Moong),Sojat Road,2017-06-16,3900.0,1.2,38.8,clear
+2306,Bengal Gram(Gram),Pali,2017-08-23,5900.0,67.0,35.4,clear
+2307,Bengal Gram(Gram),Pali,2017-09-19,5600.0,170.0,38.8,clear
+2308,Green Gram (Moong),Sojat Road,2017-09-19,3262.0,3.5,38.8,clear
+2309,Bengal Gram(Gram),Rani,2017-11-02,4701.0,0.6,34.4,clear
+2310,Green Gram (Moong),Rani,2017-11-02,3860.0,152.0,34.4,clear
+2311,Green Gram (Moong),Sojat Road,2017-11-02,3000.0,0.1,34.4,clear
+2312,Bengal Gram(Gram),Rani,2017-02-18,3780.0,0.3,34.4,clear
+2313,Green Gram (Moong),Rani,2017-02-18,3750.0,102.0,34.4,clear
+2314,Green Gram (Moong),Sumerpur,2017-02-18,4085.0,67.4,34.4,clear
+2315,Bengal Gram(Gram),Rani,2017-02-23,4250.0,1.2,29.4,clear
+2316,Green Gram (Moong),Rani,2017-02-23,3750.0,17.0,29.4,clear
+2317,Green Gram (Moong),Sojat Road,2017-02-23,3300.0,0.2,29.4,clear
+2318,Green Gram (Moong),Sumerpur,2017-02-23,4072.0,51.9,29.4,clear
+2319,Bengal Gram(Gram),Rani,2017-02-28,4250.0,3.0,33.0,clear
+2320,Bengal Gram(Gram),Sumerpur,2017-02-28,4511.0,9.3,33.0,clear
+2321,Black Gram (Urd Beans),Sumerpur,2017-02-28,4899.0,6.2,33.0,clear
+2322,Green Gram (Moong),Rani,2017-02-28,3900.0,3.0,33.0,clear
+2323,Green Gram (Moong),Sumerpur,2017-02-28,4094.0,46.6,33.0,clear
+2324,Bengal Gram(Gram),Rani,2017-03-03,4600.0,2.6,30.6,clear
+2325,Bengal Gram(Gram),Sumerpur,2017-03-03,4557.0,53.8,30.6,clear
+2326,Green Gram (Moong),Rani,2017-03-03,4000.0,36.0,30.6,clear
+2327,Green Gram (Moong),Sumerpur,2017-03-03,4074.0,47.3,30.6,clear
+2328,Bengal Gram(Gram),Rani,2017-04-03,4600.0,6.1,39.2,clear
+2329,Bengal Gram(Gram),Rani,2017-10-03,4662.0,18.7,38.2,clear
+2330,Bengal Gram(Gram),Sumerpur,2017-10-03,4753.0,252.7,38.2,clear
+2331,Green Gram (Moong),Sumerpur,2017-10-03,4035.0,35.8,38.2,clear
+2332,Bengal Gram(Gram),Rani,2017-03-20,4800.0,18.3,32.2,clear
+2333,Bengal Gram(Gram),Sumerpur,2017-03-20,4652.0,281.7,32.2,clear
+2334,Black Gram (Urd Beans),Sumerpur,2017-03-20,5518.0,2.2,32.2,clear
+2335,Green Gram (Moong),Sumerpur,2017-03-20,4800.0,82.2,32.2,clear
+2336,Bengal Gram(Gram),Rani,2017-03-24,1450.0,1.0,36.2,clear
+2337,Bengal Gram(Gram),Sumerpur,2017-03-24,5488.0,475.4,36.2,clear
+2338,Green Gram (Moong),Rani,2017-03-24,4866.0,23.0,36.2,clear
+2339,Green Gram (Moong),Sojat Road,2017-03-24,3600.0,0.1,36.2,clear
+2340,Bengal Gram(Gram),Rani,2017-03-28,5175.0,10.4,39.6,clear
+2341,Bengal Gram(Gram),Sumerpur,2017-03-28,5301.0,275.7,39.6,clear
+2342,Green Gram (Moong),Rani,2017-03-28,5220.0,15.0,39.6,clear
+2343,Bengal Gram(Gram),Rani,2017-01-04,5490.0,16.5,25.6,clear
+2344,Bengal Gram(Gram),Sumerpur,2017-01-04,5492.0,191.7,25.6,clear
+2345,Green Gram (Moong),Rani,2017-01-04,5140.0,22.0,25.6,clear
+2346,Bengal Gram(Gram),Rani,2017-03-04,5500.0,13.7,30.0,clear
+2347,Green Gram (Moong),Sojat Road,2017-03-04,4302.0,0.3,30.0,clear
+2348,Bengal Gram(Gram),Rani,2017-04-04,5325.0,28.6,38.2,clear
+2349,Bengal Gram(Gram),Sumerpur,2017-04-04,5381.0,256.7,38.2,clear
+2350,Green Gram (Moong),Rani,2017-04-04,4915.0,33.0,38.2,clear
+2351,Green Gram (Moong),Sojat Road,2017-04-04,4571.0,0.8,38.2,clear
+2352,Bengal Gram(Gram),Rani,2017-05-04,5300.0,9.4,41.8,clear
+2353,Green Gram (Moong),Sojat Road,2017-05-04,4100.0,0.3,41.8,clear
+2354,Bengal Gram(Gram),Rani,2017-06-04,5350.0,16.4,41.8,clear
+2355,Bengal Gram(Gram),Sumerpur,2017-06-04,5370.0,158.4,41.8,clear
+2356,Green Gram (Moong),Sojat Road,2017-06-04,4151.0,0.8,41.8,clear
+2357,Bengal Gram(Gram),Rani,2017-07-04,5300.0,15.4,34.4,clear
+2358,Bengal Gram(Gram),Sumerpur,2017-07-04,5350.0,336.0,34.4,clear
+2359,Green Gram (Moong),Sojat Road,2017-07-04,4500.0,0.2,34.4,clear
+2360,Bengal Gram(Gram),Rani,2017-08-04,5100.0,18.4,32.0,clear
+2361,Bengal Gram(Gram),Sumerpur,2017-08-04,5309.0,336.0,32.0,clear
+2362,Bengal Gram(Gram),Rani,2017-10-04,5100.0,14.1,38.8,clear
+2363,Bengal Gram(Gram),Sumerpur,2017-10-04,5070.0,279.5,38.8,clear
+2364,Green Gram (Moong),Jaitaran,2017-10-04,4200.0,2.7,38.8,clear
+2365,Bengal Gram(Gram),Rani,2017-11-04,5135.0,3.2,34.4,clear
+2366,Bengal Gram(Gram),Sumerpur,2017-11-04,5198.0,212.4,34.4,clear
+2367,Green Gram (Moong),Jaitaran,2017-11-04,4600.0,1.5,34.4,clear
+2368,Green Gram (Moong),Rani,2017-11-04,4551.0,11.0,34.4,clear
+2369,Green Gram (Moong),Sojat Road,2017-11-04,4401.0,0.4,34.4,clear
+2370,Bengal Gram(Gram),Rani,2017-12-04,5350.0,7.7,27.2,clear
+2371,Green Gram (Moong),Jaitaran,2017-12-04,4651.0,0.3,27.2,clear
+2372,Green Gram (Moong),Rani,2017-12-04,4700.0,62.0,27.2,clear
+2373,Bengal Gram(Gram),Rani,2017-04-13,5500.0,11.6,43.0,clear
+2374,Bengal Gram(Gram),Sumerpur,2017-04-13,5400.0,201.0,43.0,clear
+2375,Bengal Gram(Gram),Rani,2017-04-14,5450.0,18.1,43.2,clear
+2376,Bengal Gram(Gram),Rani,2017-04-15,5385.0,21.3,43.2,clear
+2377,Green Gram (Moong),Rani,2017-04-15,4900.0,10.0,43.2,clear
+2378,Green Gram (Moong),Sojat Road,2017-04-15,4230.0,0.9,43.2,clear
+2379,Bengal Gram(Gram),Rani,2017-04-18,5217.0,1.1,40.6,clear
+2380,Bengal Gram(Gram),Sumerpur,2017-04-18,5280.0,247.0,40.6,clear
+2381,Green Gram (Moong),Rani,2017-04-18,4301.0,6.0,40.6,clear
+2382,Green Gram (Moong),Sojat Road,2017-04-18,4001.0,0.2,40.6,clear
+2383,Bengal Gram(Gram),Rani,2017-04-19,5265.0,1.1,40.4,clear
+2384,Bengal Gram(Gram),Sumerpur,2017-04-19,5288.0,96.1,40.4,clear
+2385,Green Gram (Moong),Sumerpur,2017-04-19,4640.0,21.7,40.4,clear
+2386,Bengal Gram(Gram),Rani,2017-04-20,5250.0,4.5,41.8,clear
+2387,Bengal Gram(Gram),Sumerpur,2017-04-20,5265.0,92.5,41.8,clear
+2388,Green Gram (Moong),Sumerpur,2017-04-20,4600.0,8.6,41.8,clear
+2389,Bengal Gram(Gram),Rani,2017-04-21,5200.0,4.0,40.0,clear
+2390,Bengal Gram(Gram),Sumerpur,2017-04-21,5230.0,75.4,40.0,clear
+2391,Green Gram (Moong),Jaitaran,2017-04-21,4500.0,0.06,40.0,clear
+2392,Green Gram (Moong),Sojat Road,2017-04-21,3800.0,0.4,40.0,clear
+2393,Green Gram (Moong),Sumerpur,2017-04-21,4511.0,12.6,40.0,clear
+2394,Bengal Gram(Gram),Rani,2017-04-22,5171.0,2.3,39.0,clear
+2395,Green Gram (Moong),Sojat Road,2017-04-22,3700.0,0.4,39.0,clear
+2396,Bengal Gram(Gram),Rani,2017-04-25,5050.0,4.8,37.0,clear
+2397,Green Gram (Moong),Rani,2017-04-25,4450.0,30.0,37.0,clear
+2398,Bengal Gram(Gram),Rani,2017-04-27,5211.0,1.0,38.8,clear
+2399,Bengal Gram(Gram),Sumerpur,2017-04-27,5190.0,95.6,38.8,clear
+2400,Green Gram (Moong),Rani,2017-04-27,4626.0,19.0,38.8,clear
+2401,Bengal Gram(Gram),Rani,2017-04-28,5236.0,0.6,38.8,rain
+2402,Bengal Gram(Gram),Sumerpur,2017-04-28,5298.0,49.9,38.8,rain
+2403,Green Gram (Moong),Sumerpur,2017-04-28,4250.0,14.9,38.8,rain
+2404,Bengal Gram(Gram),Rani,2017-02-05,5100.0,8.1,23.2,clear
+2405,Bengal Gram(Gram),Sumerpur,2017-02-05,5225.0,45.4,23.2,clear
+2406,Bengal Gram(Gram),Rani,2017-03-05,5225.0,8.1,31.2,clear
+2407,Bengal Gram(Gram),Sumerpur,2017-03-05,5245.0,44.8,31.2,clear
+2408,Green Gram (Moong),Jaitaran,2017-03-05,4200.0,4.4,31.2,clear
+2409,Bengal Gram(Gram),Rani,2017-04-05,5200.0,0.9,37.6,clear
+2410,Bengal Gram(Gram),Sumerpur,2017-04-05,5228.0,98.7,37.6,clear
+2411,Green Gram (Moong),Sumerpur,2017-04-05,3800.0,5.4,37.6,clear
+2412,Bengal Gram(Gram),Rani,2017-05-05,5112.0,5.4,41.0,clear
+2413,Bengal Gram(Gram),Sumerpur,2017-05-05,5218.0,51.3,41.0,clear
+2414,Green Gram (Moong),Rani,2017-05-05,4000.0,6.0,41.0,clear
+2415,Bengal Gram(Gram),Rani,2017-06-05,5119.0,1.6,40.0,clear
+2416,Green Gram (Moong),Sojat Road,2017-06-05,4001.0,0.4,40.0,clear
+2417,Bengal Gram(Gram),Rani,2017-10-05,5151.0,1.5,38.2,clear
+2418,Bengal Gram(Gram),Sumerpur,2017-10-05,5170.0,49.2,38.2,clear
+2419,Bengal Gram(Gram),Rani,2017-11-05,5225.0,0.2,33.2,clear
+2420,Bengal Gram(Gram),Rani,2017-12-05,5301.0,0.8,24.4,clear
+2421,Bengal Gram(Gram),Rani,2017-05-17,5325.0,0.3,38.0,clear
+2422,Bengal Gram(Gram),Sumerpur,2017-05-17,5340.0,227.1,38.0,clear
+2423,Green Gram (Moong),Sumerpur,2017-05-17,4368.0,2.6,38.0,clear
+2424,Bengal Gram(Gram),Rani,2017-05-18,5316.0,3.1,39.4,clear
+2425,Bengal Gram(Gram),Sumerpur,2017-05-18,5335.0,133.1,39.4,clear
+2426,Green Gram (Moong),Jaitaran,2017-05-18,4011.0,2.5,39.4,clear
+2427,Green Gram (Moong),Sojat Road,2017-05-18,3801.0,0.1,39.4,clear
+2428,Bengal Gram(Gram),Rani,2017-05-19,5270.0,0.4,40.8,clear
+2429,Bengal Gram(Gram),Sumerpur,2017-05-19,5318.0,138.6,40.8,clear
+2430,Green Gram (Moong),Sojat Road,2017-05-19,3801.0,0.1,40.8,clear
+2431,Bengal Gram(Gram),Rani,2017-05-30,3425.0,4.6,41.4,clear
+2432,Green Gram (Moong),Rani,2017-05-30,4800.0,9.0,41.4,clear
+2433,Bengal Gram(Gram),Rani,2017-05-31,4918.0,1.9,41.4,clear
+2434,Bengal Gram(Gram),Sumerpur,2017-05-31,4951.0,19.3,41.4,clear
+2435,Green Gram (Moong),Sumerpur,2017-05-31,4125.0,10.8,41.4,clear
+2436,Bengal Gram(Gram),Rani,2017-01-06,4860.0,2.5,20.0,clear
+2437,Bengal Gram(Gram),Sumerpur,2017-01-06,4958.0,14.7,20.0,clear
+2438,Bengal Gram(Gram),Rani,2017-02-06,4831.0,0.2,22.8,clear
+2439,Bengal Gram(Gram),Sumerpur,2017-02-06,4970.0,8.9,22.8,clear
+2440,Bengal Gram(Gram),Rani,2017-08-16,5151.0,1.2,34.4,clear
+2441,Bengal Gram(Gram),Rani,2017-05-09,5641.0,1.5,42.6,clear
+2442,Bengal Gram(Gram),Sumerpur,2017-05-09,5723.0,8.0,42.6,clear
+2443,Bengal Gram(Gram),Rani,2017-09-15,5600.0,2.5,35.6,clear
+2444,Green Gram (Moong),Rani,2017-09-15,4600.0,7.0,35.6,clear
+2445,Bengal Gram(Gram),Rani,2017-05-10,4500.0,59.0,42.0,clear
+2446,Green Gram (Moong),Jaitaran,2017-05-10,4000.0,65.08,42.0,clear
+2447,Bengal Gram(Gram),Rani,2017-06-10,4100.0,3.0,39.2,clear
+2448,Green Gram (Moong),Jaitaran,2017-06-10,4067.0,72.0,39.2,clear
+2449,Green Gram (Moong),Rani,2017-06-10,4050.0,511.0,39.2,clear
+2450,Bengal Gram(Gram),Rani,2017-09-10,4800.0,2.8,36.4,clear
+2451,Green Gram (Moong),Jaitaran,2017-09-10,3925.0,102.2,36.4,clear
+2452,Green Gram (Moong),Rani,2017-09-10,4500.0,793.0,36.4,clear
+2453,Bengal Gram(Gram),Sumerpur,2017-02-25,4600.0,11.3,31.4,clear
+2454,Green Gram (Moong),Rani,2017-02-25,3620.0,9.0,31.4,clear
+2455,Green Gram (Moong),Sumerpur,2017-02-25,3822.0,47.6,31.4,clear
+2456,Bengal Gram(Gram),Sumerpur,2017-01-03,4511.0,13.5,27.0,clear
+2457,Green Gram (Moong),Rani,2017-01-03,3750.0,43.0,27.0,clear
+2458,Green Gram (Moong),Sumerpur,2017-01-03,4211.0,20.3,27.0,clear
+2459,Bengal Gram(Gram),Sumerpur,2017-02-03,4538.0,15.2,29.4,clear
+2460,Green Gram (Moong),Sumerpur,2017-02-03,3895.0,41.8,29.4,clear
+2461,Bengal Gram(Gram),Sumerpur,2017-11-03,4711.0,237.5,34.4,clear
+2462,Bengal Gram(Gram),Sumerpur,2017-03-18,4524.0,210.1,34.2,rain
+2463,Green Gram (Moong),Sumerpur,2017-03-18,4690.0,44.7,34.2,rain
+2464,Bengal Gram(Gram),Sumerpur,2017-04-29,5274.0,69.0,37.8,clear
+2465,Green Gram (Moong),Jaitaran,2017-04-29,4300.0,6.2,37.8,clear
+2466,Bengal Gram(Gram),Sumerpur,2017-01-05,5230.0,38.6,26.4,clear
+2467,Green Gram (Moong),Rani,2017-01-05,4000.0,11.0,26.4,clear
+2468,Bengal Gram(Gram),Sumerpur,2017-09-05,5120.0,33.1,32.2,clear
+2469,Green Gram (Moong),Sumerpur,2017-09-05,4268.0,0.3,32.2,clear
+2470,Bengal Gram(Gram),Sumerpur,2017-05-16,5394.0,222.6,38.8,rain
+2471,Green Gram (Moong),Jaitaran,2017-05-16,4450.0,21.0,38.8,rain
+2472,Green Gram (Moong),Sojat Road,2017-05-16,3900.0,1.2,38.8,rain
+2473,Bengal Gram(Gram),Sumerpur,2017-05-20,5248.0,99.6,38.6,clear
+2474,Bengal Gram(Gram),Sumerpur,2017-05-22,5160.0,54.8,35.2,clear
+2475,Bengal Gram(Gram),Sumerpur,2017-05-23,5148.0,108.0,38.2,clear
+2476,Bengal Gram(Gram),Sumerpur,2017-05-24,5205.0,27.9,40.6,rain
+2477,Bengal Gram(Gram),Sumerpur,2017-03-06,4830.0,20.7,32.2,clear
+2478,Green Gram (Moong),Sojat Road,2017-03-06,3001.0,0.3,32.2,clear
+2479,Bengal Gram(Gram),Sumerpur,2017-05-06,4834.0,21.0,43.0,clear
+2480,Green Gram (Moong),Sojat Road,2017-05-06,2700.0,0.1,43.0,clear
+2481,Bengal Gram(Gram),Sumerpur,2017-06-06,4758.0,16.3,39.4,clear
+2482,Bengal Gram(Gram),Sumerpur,2017-07-06,4745.0,20.8,34.4,clear
+2483,Green Gram (Moong),Jaitaran,2017-07-06,3850.0,0.5,34.4,clear
+2484,Bengal Gram(Gram),Sumerpur,2017-12-06,4988.0,45.6,23.0,clear
+2485,Bengal Gram(Gram),Sumerpur,2017-06-15,5025.0,29.4,40.4,clear
+2486,Green Gram (Moong),Sojat Road,2017-06-15,3600.0,0.2,40.4,clear
+2487,Bengal Gram(Gram),Sumerpur,2017-06-17,4990.0,26.8,37.2,clear
+2488,Bengal Gram(Gram),Sumerpur,2017-06-21,4878.0,13.6,34.2,clear
+2489,Bengal Gram(Gram),Sumerpur,2017-06-24,4711.0,22.2,36.0,clear
+2490,Bengal Gram(Gram),Sumerpur,2017-06-26,4752.0,15.2,40.6,rain
+2491,Bengal Gram(Gram),Sumerpur,2017-06-27,4911.0,13.2,36.6,rain
+2492,Green Gram (Moong),Sojat Road,2017-06-27,3450.0,0.1,36.6,rain
+2493,Bengal Gram(Gram),Sumerpur,2017-06-28,4905.0,16.2,34.0,clear
+2494,Bengal Gram(Gram),Sumerpur,2017-06-29,4925.0,26.5,32.2,clear
+2495,Bengal Gram(Gram),Sumerpur,2017-06-30,4964.0,7.6,32.4,clear
+2496,Bengal Gram(Gram),Sumerpur,2017-05-07,4991.0,5.4,43.0,clear
+2497,Bengal Gram(Gram),Sumerpur,2017-06-07,5071.0,38.3,39.0,clear
+2498,Bengal Gram(Gram),Sumerpur,2017-07-07,5042.0,25.8,36.4,clear
+2499,Bengal Gram(Gram),Sumerpur,2017-07-20,4918.0,23.0,33.6,clear
+2500,Green Gram (Moong),Sumerpur,2017-07-20,4125.0,8.2,33.6,clear
+2501,Bengal Gram(Gram),Sumerpur,2017-07-21,4935.0,18.6,35.2,rain
+2502,Green Gram (Moong),Sumerpur,2017-07-21,4180.0,6.3,35.2,rain
+2503,Bengal Gram(Gram),Sumerpur,2017-08-30,5473.0,6.4,34.4,clear
+2504,Green Gram (Moong),Jaitaran,2017-08-30,4225.0,17.0,34.4,clear
+2505,Green Gram (Moong),Sumerpur,2017-08-30,4625.0,2.9,34.4,clear
+2506,Bengal Gram(Gram),Sumerpur,2017-08-31,5978.0,33.5,31.8,clear
+2507,Green Gram (Moong),Sumerpur,2017-08-31,4720.0,2.4,31.8,clear
+2508,Bengal Gram(Gram),Sumerpur,2017-01-09,5590.0,34.8,20.4,clear
+2509,Green Gram (Moong),Jaitaran,2017-01-09,4350.0,59.0,20.4,clear
+2510,Green Gram (Moong),Sumerpur,2017-01-09,4518.0,1.3,20.4,clear
+2511,Bengal Gram(Gram),Sumerpur,2017-02-09,5547.0,14.8,25.4,clear
+2512,Green Gram (Moong),Sumerpur,2017-02-09,4330.0,1.4,25.4,clear
+2513,Bengal Gram(Gram),Sumerpur,2017-04-09,5610.0,11.8,34.6,clear
+2514,Green Gram (Moong),Jaitaran,2017-04-09,4025.0,21.0,34.6,clear
+2515,Bengal Gram(Gram),Sumerpur,2017-06-09,5723.0,16.9,37.0,clear
+2516,Bengal Gram(Gram),Sumerpur,2017-04-10,5168.0,14.2,37.2,clear
+2517,Green Gram (Moong),Jaitaran,2017-04-10,4000.0,69.02,37.2,clear
+2518,Black Gram (Urd Beans),Sumerpur,2017-02-01,6297.0,19.2,27.0,clear
+2519,Green Gram (Moong),Pali,2017-02-01,4862.0,37.2,27.0,clear
+2520,Green Gram (Moong),Rani,2017-02-01,4500.0,120.0,27.0,clear
+2521,Green Gram (Moong),Sojat Road,2017-02-01,3990.0,0.2,27.0,clear
+2522,Green Gram (Moong),Sumerpur,2017-02-01,4318.0,210.3,27.0,clear
+2523,Green Gram (Moong),Jaitaran,2017-03-01,4211.0,0.66,31.2,clear
+2524,Green Gram (Moong),Pali,2017-03-01,4862.0,26.8,31.2,clear
+2525,Green Gram (Moong),Rani,2017-03-01,4500.0,94.0,31.2,clear
+2526,Green Gram (Moong),Sojat Road,2017-03-01,4102.0,6.4,31.2,clear
+2527,Green Gram (Moong),Sumerpur,2017-03-01,4450.0,2744.0,31.2,clear
+2528,Green Gram (Moong),Jaitaran,2017-04-01,4162.0,0.63,39.4,clear
+2529,Green Gram (Moong),Pali,2017-04-01,4862.0,28.7,39.4,clear
+2530,Green Gram (Moong),Rani,2017-04-01,4500.0,245.0,39.4,clear
+2531,Green Gram (Moong),Sojat Road,2017-04-01,4025.0,2.5,39.4,clear
+2532,Green Gram (Moong),Jaitaran,2017-05-01,4510.0,1.41,40.6,clear
+2533,Green Gram (Moong),Rani,2017-05-01,4500.0,300.0,40.6,clear
+2534,Green Gram (Moong),Sojat Road,2017-05-01,4100.0,0.6,40.6,clear
+2535,Green Gram (Moong),Jaitaran,2017-06-01,4212.0,1.01,39.4,clear
+2536,Green Gram (Moong),Rani,2017-06-01,4500.0,340.0,39.4,clear
+2537,Green Gram (Moong),Sojat Road,2017-06-01,4211.0,1.7,39.4,clear
+2538,Green Gram (Moong),Jaitaran,2017-07-01,5225.0,0.38,34.8,rain
+2539,Green Gram (Moong),Rani,2017-07-01,4450.0,256.0,34.8,rain
+2540,Green Gram (Moong),Jaitaran,2017-09-01,4362.0,0.72,30.0,clear
+2541,Green Gram (Moong),Rani,2017-09-01,4400.0,267.0,30.0,clear
+2542,Green Gram (Moong),Sojat Road,2017-09-01,3840.0,0.8,30.0,clear
+2543,Green Gram (Moong),Jaitaran,2017-10-01,4462.0,62.2,37.8,clear
+2544,Green Gram (Moong),Pali,2017-10-01,4862.0,47.6,37.8,clear
+2545,Green Gram (Moong),Rani,2017-10-01,4400.0,210.0,37.8,clear
+2546,Green Gram (Moong),Sumerpur,2017-10-01,4262.0,268.5,37.8,clear
+2547,Green Gram (Moong),Jaitaran,2017-11-01,4062.0,43.2,35.0,clear
+2548,Green Gram (Moong),Rani,2017-11-01,4450.0,201.0,35.0,clear
+2549,Green Gram (Moong),Sojat Road,2017-11-01,3579.0,0.4,35.0,clear
+2550,Green Gram (Moong),Sumerpur,2017-11-01,4218.0,187.0,35.0,clear
+2551,Green Gram (Moong),Jaitaran,2017-12-01,4437.0,96.5,29.6,clear
+2552,Green Gram (Moong),Pali,2017-12-01,4862.0,32.3,29.6,clear
+2553,Green Gram (Moong),Rani,2017-12-01,4400.0,242.0,29.6,clear
+2554,Green Gram (Moong),Sojat Road,2017-12-01,3601.0,2.1,29.6,clear
+2555,Green Gram (Moong),Jaitaran,2017-01-13,4347.0,59.7,22.8,clear
+2556,Green Gram (Moong),Pali,2017-01-13,4862.0,26.8,22.8,clear
+2557,Green Gram (Moong),Rani,2017-01-13,4400.0,119.0,22.8,clear
+2558,Green Gram (Moong),Jaitaran,2017-01-14,4412.0,0.29,20.4,clear
+2559,Green Gram (Moong),Rani,2017-01-14,4500.0,113.0,20.4,clear
+2560,Green Gram (Moong),Jaitaran,2017-01-16,4112.0,0.33,18.4,clear
+2561,Green Gram (Moong),Pali,2017-01-16,4860.0,42.5,18.4,clear
+2562,Green Gram (Moong),Rani,2017-01-16,4373.0,141.0,18.4,clear
+2563,Green Gram (Moong),Jaitaran,2017-01-17,4437.0,0.52,19.6,clear
+2564,Green Gram (Moong),Pali,2017-01-17,4862.0,41.7,19.6,clear
+2565,Green Gram (Moong),Rani,2017-01-17,4128.0,51.0,19.6,clear
+2566,Green Gram (Moong),Sojat Road,2017-01-17,3601.0,4.2,19.6,clear
+2567,Green Gram (Moong),Sumerpur,2017-01-17,4265.0,198.4,19.6,clear
+2568,Green Gram (Moong),Jaitaran,2017-01-18,4272.0,0.34,22.8,clear
+2569,Green Gram (Moong),Rani,2017-01-18,4140.0,7.0,22.8,clear
+2570,Green Gram (Moong),Sojat Road,2017-01-18,3630.0,1.0,22.8,clear
+2571,Green Gram (Moong),Sumerpur,2017-01-18,4318.0,164.5,22.8,clear
+2572,Green Gram (Moong),Jaitaran,2017-01-19,4287.0,0.4,23.2,clear
+2573,Green Gram (Moong),Rani,2017-01-19,4282.0,48.0,23.2,clear
+2574,Green Gram (Moong),Sojat Road,2017-01-19,4000.0,0.4,23.2,clear
+2575,Green Gram (Moong),Sumerpur,2017-01-19,4326.0,181.5,23.2,clear
+2576,Green Gram (Moong),Jaitaran,2017-01-21,4512.0,65.8,24.2,clear
+2577,Green Gram (Moong),Pali,2017-01-21,5225.0,3.0,24.2,clear
+2578,Green Gram (Moong),Jaitaran,2017-01-23,4112.0,43.8,29.0,clear
+2579,Green Gram (Moong),Pali,2017-01-23,4862.0,5.2,29.0,clear
+2580,Green Gram (Moong),Rani,2017-01-23,4460.0,4.0,29.0,clear
+2581,Green Gram (Moong),Sojat Road,2017-01-23,3711.0,0.4,29.0,clear
+2582,Green Gram (Moong),Jaitaran,2017-01-24,4512.0,25.8,28.6,clear
+2583,Green Gram (Moong),Rani,2017-01-24,4145.0,139.0,28.6,clear
+2584,Green Gram (Moong),Jaitaran,2017-01-25,3050.0,18.9,27.8,clear
+2585,Green Gram (Moong),Rani,2017-01-25,4328.0,160.0,27.8,clear
+2586,Green Gram (Moong),Sojat Road,2017-01-25,4080.0,2.2,27.8,clear
+2587,Green Gram (Moong),Jaitaran,2017-01-27,4150.0,4.6,20.6,clear
+2588,Green Gram (Moong),Rani,2017-01-27,3850.0,140.0,20.6,clear
+2589,Green Gram (Moong),Sojat Road,2017-01-27,3840.0,2.0,20.6,clear
+2590,Green Gram (Moong),Jaitaran,2017-01-28,4200.0,8.9,22.6,clear
+2591,Green Gram (Moong),Rani,2017-01-28,4016.0,158.0,22.6,clear
+2592,Green Gram (Moong),Sojat Road,2017-01-28,2723.0,0.2,22.6,clear
+2593,Green Gram (Moong),Sumerpur,2017-01-28,4210.0,68.1,22.6,clear
+2594,Green Gram (Moong),Jaitaran,2017-01-30,4362.0,0.19,27.0,clear
+2595,Green Gram (Moong),Pali,2017-01-30,4862.0,9.6,27.0,clear
+2596,Green Gram (Moong),Rani,2017-01-30,3911.0,19.0,27.0,clear
+2597,Green Gram (Moong),Sojat Road,2017-01-30,2750.0,1.2,27.0,clear
+2598,Green Gram (Moong),Sumerpur,2017-01-30,4225.0,109.1,27.0,clear
+2599,Green Gram (Moong),Jaitaran,2017-01-31,4362.0,0.52,27.4,clear
+2600,Green Gram (Moong),Pali,2017-01-31,4862.0,32.8,27.4,clear
+2601,Green Gram (Moong),Rani,2017-01-31,3851.0,23.0,27.4,clear
+2602,Green Gram (Moong),Sojat Road,2017-01-31,3600.0,0.2,27.4,clear
+2603,Green Gram (Moong),Sumerpur,2017-01-31,4175.0,135.9,27.4,clear
+2604,Green Gram (Moong),Jaitaran,2017-01-02,5225.0,0.58,22.0,clear
+2605,Green Gram (Moong),Rani,2017-01-02,4150.0,21.0,22.0,clear
+2606,Green Gram (Moong),Sumerpur,2017-01-02,4203.0,151.8,22.0,clear
+2607,Green Gram (Moong),Jaitaran,2017-02-02,4362.0,0.41,28.8,clear
+2608,Green Gram (Moong),Pali,2017-02-02,4862.0,67.3,28.8,clear
+2609,Green Gram (Moong),Rani,2017-02-02,3900.0,100.0,28.8,clear
+2610,Green Gram (Moong),Sumerpur,2017-02-02,4255.0,135.5,28.8,clear
+2611,Green Gram (Moong),Jaitaran,2017-03-02,4112.0,0.35,31.2,clear
+2612,Green Gram (Moong),Rani,2017-03-02,4226.0,60.0,31.2,clear
+2613,Green Gram (Moong),Jaitaran,2017-04-02,4512.0,0.4,40.2,clear
+2614,Green Gram (Moong),Rani,2017-04-02,3850.0,78.0,40.2,clear
+2615,Green Gram (Moong),Sojat Road,2017-04-02,3351.0,0.1,40.2,clear
+2616,Green Gram (Moong),Jaitaran,2017-06-02,4550.0,0.23,43.4,clear
+2617,Green Gram (Moong),Rani,2017-06-02,3900.0,16.0,43.4,clear
+2618,Green Gram (Moong),Sumerpur,2017-06-02,4188.0,119.1,43.4,clear
+2619,Green Gram (Moong),Jaitaran,2017-07-02,4427.0,0.14,33.4,rain
+2620,Green Gram (Moong),Rani,2017-07-02,3850.0,54.0,33.4,rain
+2621,Green Gram (Moong),Sumerpur,2017-07-02,4171.0,66.9,33.4,rain
+2622,Green Gram (Moong),Jaitaran,2017-04-17,4600.0,3.8,41.6,clear
+2623,Green Gram (Moong),Jaitaran,2017-07-09,3850.0,0.47,36.2,clear
+2624,Green Gram (Moong),Rani,2017-07-09,4750.0,6.0,36.2,clear
+2625,Green Gram (Moong),Jaitaran,2017-08-09,4115.0,0.55,27.6,clear
+2626,Green Gram (Moong),Jaitaran,2017-09-09,4100.0,0.52,36.2,clear
+2627,Green Gram (Moong),Jaitaran,2017-11-09,4100.0,0.68,32.8,clear
+2628,Green Gram (Moong),Rani,2017-11-09,4757.0,1.0,32.8,clear
+2629,Green Gram (Moong),Jaitaran,2017-12-09,4350.0,3.69,29.2,clear
+2630,Green Gram (Moong),Sumerpur,2017-12-09,4800.0,27.3,29.2,clear
+2631,Green Gram (Moong),Jaitaran,2017-09-13,4162.0,5.97,35.8,rain
+2632,Green Gram (Moong),Rani,2017-09-13,4500.0,14.0,35.8,rain
+2633,Green Gram (Moong),Jaitaran,2017-09-14,4100.0,0.67,35.2,clear
+2634,Green Gram (Moong),Jaitaran,2017-09-20,4075.0,3.8,38.0,clear
+2635,Green Gram (Moong),Sojat Road,2017-09-20,3640.0,4.6,38.0,clear
+2636,Green Gram (Moong),Jaitaran,2017-09-22,4050.0,58.06,36.0,clear
+2637,Green Gram (Moong),Sojat Road,2017-09-22,3699.0,1.7,36.0,clear
+2638,Green Gram (Moong),Jaitaran,2017-09-23,4000.0,76.01,35.0,clear
+2639,Green Gram (Moong),Jaitaran,2017-09-25,3950.0,74.04,34.6,clear
+2640,Green Gram (Moong),Jaitaran,2017-09-26,3850.0,75.08,35.2,clear
+2641,Green Gram (Moong),Jaitaran,2017-09-27,3950.0,51.01,36.2,clear
+2642,Green Gram (Moong),Jaitaran,2017-09-29,3750.0,26.8,37.2,clear
+2643,Green Gram (Moong),Sojat Road,2017-09-29,2500.0,1.5,37.2,clear
+2644,Green Gram (Moong),Jaitaran,2017-09-30,3950.0,23.0,37.6,clear
+2645,Green Gram (Moong),Sojat Road,2017-09-30,4180.0,4.5,37.6,clear
+2646,Green Gram (Moong),Jaitaran,2017-02-10,4000.0,55.0,24.4,clear
+2647,Green Gram (Moong),Sojat Road,2017-02-10,4041.0,4.7,24.4,clear
+2648,Green Gram (Moong),Jaitaran,2017-03-10,4020.0,96.03,29.0,clear
+2649,Green Gram (Moong),Sojat Road,2017-03-10,4410.0,1.5,29.0,clear
+2650,Green Gram (Moong),Jaitaran,2017-07-10,3800.0,112.6,35.0,clear
+2651,Green Gram (Moong),Pali,2017-07-10,6000.0,19.9,35.0,clear
+2652,Green Gram (Moong),Rani,2017-07-10,4400.0,689.0,35.0,clear
+2653,Green Gram (Moong),Jaitaran,2017-10-10,3950.0,51.9,39.0,clear
+2654,Green Gram (Moong),Rani,2017-10-10,4200.0,1014.0,39.0,clear
+2655,Green Gram (Moong),Jaitaran,2017-11-10,3750.0,58.1,33.0,clear
+2656,Green Gram (Moong),Sojat Road,2017-11-10,3791.0,2.9,33.0,clear
+2657,Green Gram (Moong),Jaitaran,2017-12-10,4450.0,86.7,25.6,clear
+2658,Green Gram (Moong),Sojat Road,2017-12-10,2751.0,7.7,25.6,clear
+2659,Green Gram (Moong),Jaitaran,2017-10-13,4687.0,102.5,38.0,clear
+2660,Green Gram (Moong),Sojat Road,2017-10-13,3881.0,5.1,38.0,clear
+2661,Green Gram (Moong),Jaitaran,2017-10-14,4437.0,121.7,38.0,clear
+2662,Green Gram (Moong),Sojat Road,2017-10-14,3760.0,8.8,38.0,clear
+2663,Green Gram (Moong),Jaitaran,2017-10-16,4437.0,120.0,38.0,clear
+2664,Green Gram (Moong),Sojat Road,2017-10-16,4000.0,0.9,38.0,clear
+2665,Green Gram (Moong),Jaitaran,2017-10-17,4487.0,137.1,38.2,clear
+2666,Green Gram (Moong),Jaitaran,2017-10-23,4500.0,200.7,34.8,clear
+2667,Green Gram (Moong),Jaitaran,2017-10-24,4387.0,199.4,35.4,clear
+2668,Green Gram (Moong),Jaitaran,2017-10-25,4387.0,176.1,36.0,clear
+2669,Green Gram (Moong),Pali,2017-10-25,5575.0,21.6,36.0,clear
+2670,Green Gram (Moong),Jaitaran,2017-10-26,4387.0,230.0,35.6,clear
+2671,Green Gram (Moong),Jaitaran,2017-10-27,4700.0,158.1,34.2,clear
+2672,Green Gram (Moong),Jaitaran,2017-10-28,4537.0,81.3,35.0,clear
+2673,Green Gram (Moong),Pali,2017-10-28,5575.0,40.3,35.0,clear
+2674,Green Gram (Moong),Jaitaran,2017-10-30,4387.0,146.7,35.4,clear
+2675,Green Gram (Moong),Pali,2017-10-30,5575.0,94.3,35.4,clear
+2676,Green Gram (Moong),Jaitaran,2017-10-31,4387.0,159.0,34.8,clear
+2677,Green Gram (Moong),Pali,2017-10-31,5575.0,57.0,34.8,clear
+2678,Green Gram (Moong),Jaitaran,2017-01-11,4400.0,184.6,21.0,clear
+2679,Green Gram (Moong),Jaitaran,2017-02-11,4387.0,164.1,25.4,clear
+2680,Green Gram (Moong),Pali,2017-02-11,5575.0,52.5,25.4,clear
+2681,Green Gram (Moong),Pali,2017-03-11,5575.0,53.1,26.2,clear
+2682,Green Gram (Moong),Rani,2017-01-20,4055.0,151.0,22.6,clear
+2683,Green Gram (Moong),Sojat Road,2017-01-20,3851.0,0.5,22.6,clear
+2684,Green Gram (Moong),Rani,2017-08-02,4350.0,77.0,29.8,clear
+2685,Green Gram (Moong),Sumerpur,2017-08-02,4178.0,77.9,29.8,clear
+2686,Green Gram (Moong),Rani,2017-10-02,4100.0,15.0,37.2,clear
+2687,Green Gram (Moong),Rani,2017-02-13,4050.0,97.0,27.6,clear
+2688,Green Gram (Moong),Rani,2017-02-14,4150.0,16.0,28.8,clear
+2689,Green Gram (Moong),Sojat Road,2017-02-14,3525.0,1.1,28.8,clear
+2690,Green Gram (Moong),Sumerpur,2017-02-14,4223.0,108.9,28.8,clear
+2691,Green Gram (Moong),Rani,2017-02-15,3980.0,56.0,31.4,clear
+2692,Green Gram (Moong),Rani,2017-02-16,3750.0,86.0,31.2,clear
+2693,Green Gram (Moong),Sojat Road,2017-02-16,3970.0,1.2,31.2,clear
+2694,Green Gram (Moong),Rani,2017-02-17,3920.0,86.0,33.4,clear
+2695,Green Gram (Moong),Sumerpur,2017-02-17,4166.0,115.0,33.4,clear
+2696,Green Gram (Moong),Rani,2017-02-20,3950.0,49.0,30.4,clear
+2697,Green Gram (Moong),Sumerpur,2017-02-20,4085.0,67.4,30.4,clear
+2698,Green Gram (Moong),Rani,2017-02-21,3700.0,36.0,27.4,clear
+2699,Green Gram (Moong),Sojat Road,2017-02-21,3851.0,1.0,27.4,clear
+2700,Green Gram (Moong),Sumerpur,2017-02-21,4062.0,101.1,27.4,clear
+2701,Green Gram (Moong),Rani,2017-02-22,3650.0,12.0,29.0,clear
+2702,Green Gram (Moong),Sumerpur,2017-02-22,3955.0,61.5,29.0,clear
+2703,Green Gram (Moong),Rani,2017-02-24,3450.0,11.0,29.4,clear
+2704,Green Gram (Moong),Sumerpur,2017-02-24,3911.0,54.9,29.4,clear
+2705,Green Gram (Moong),Rani,2017-02-27,3525.0,2.0,33.4,clear
+2706,Green Gram (Moong),Sumerpur,2017-02-27,3990.0,60.4,33.4,clear
+2707,Green Gram (Moong),Sojat Road,2017-09-02,3850.0,0.2,27.4,clear
+2708,Green Gram (Moong),Sojat Road,2017-04-06,2700.0,0.1,33.0,clear
+2709,Green Gram (Moong),Sojat Road,2017-09-06,2801.0,0.1,32.8,clear
+2710,Green Gram (Moong),Sojat Road,2017-06-18,3801.0,0.1,38.4,clear
+2711,Green Gram (Moong),Sojat Road,2017-09-18,4400.0,3.3,37.0,clear
+2712,Green Gram (Moong),Sojat Road,2017-09-21,4150.0,4.3,37.8,clear
+2713,Green Gram (Moong),Sojat Road,2017-10-19,3262.0,3.5,37.8,clear

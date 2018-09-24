@@ -1,0 +1,1755 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Bindki,2015-12-07,5425.0,10.0,22.2,clear
+1,Arhar (Tur/Red Gram),Jahanabad,2015-12-07,6140.0,0.0,22.2,clear
+2,Arhar (Tur/Red Gram),Khaga,2015-12-07,6470.0,1.0,22.2,clear
+3,Bengal Gram(Gram),Bindki,2015-12-07,4720.0,10.0,22.2,clear
+4,Bengal Gram(Gram),Fatehpur,2015-12-07,4845.0,1.5,22.2,clear
+5,Bengal Gram(Gram),Jahanabad,2015-12-07,4650.0,0.0,22.2,clear
+6,Bengal Gram(Gram),Khaga,2015-12-07,4800.0,5.0,22.2,clear
+7,Green Gram (Moong),Bindki,2015-12-07,6560.0,75.0,22.2,clear
+8,Arhar (Tur/Red Gram),Bindki,2015-12-08,6200.0,10.0,21.2,clear
+9,Arhar (Tur/Red Gram),Jahanabad,2015-12-08,6250.0,0.0,21.2,clear
+10,Arhar (Tur/Red Gram),Khaga,2015-12-08,6530.0,2.0,21.2,clear
+11,Bengal Gram(Gram),Bindki,2015-12-08,4900.0,7.5,21.2,clear
+12,Bengal Gram(Gram),Fatehpur,2015-12-08,4960.0,3.0,21.2,clear
+13,Bengal Gram(Gram),Jahanabad,2015-12-08,4750.0,0.0,21.2,clear
+14,Bengal Gram(Gram),Khaga,2015-12-08,4910.0,4.0,21.2,clear
+15,Green Gram (Moong),Bindki,2015-12-08,6540.0,70.0,21.2,clear
+16,Arhar (Tur/Red Gram),Bindki,2015-12-10,7685.0,2.0,18.2,clear
+17,Bengal Gram(Gram),Bindki,2015-12-10,5050.0,1.0,18.2,clear
+18,Bengal Gram(Gram),Fatehpur,2015-12-10,5180.0,4.5,18.2,clear
+19,Arhar (Tur/Red Gram),Bindki,2015-12-13,9360.0,1.3,21.2,clear
+20,Bengal Gram(Gram),Bindki,2015-12-13,5000.0,1.0,21.2,clear
+21,Bengal Gram(Gram),Fatehpur,2015-12-13,5615.0,3.0,21.2,clear
+22,Arhar (Tur/Red Gram),Bindki,2015-12-14,9360.0,1.4,18.2,clear
+23,Bengal Gram(Gram),Bindki,2015-12-14,5015.0,1.0,18.2,clear
+24,Bengal Gram(Gram),Fatehpur,2015-12-14,5620.0,2.5,18.2,clear
+25,Arhar (Tur/Red Gram),Bindki,2015-12-15,9365.0,1.3,18.2,clear
+26,Bengal Gram(Gram),Bindki,2015-12-15,5010.0,1.2,18.2,clear
+27,Bengal Gram(Gram),Fatehpur,2015-12-15,5600.0,2.0,18.2,clear
+28,Arhar (Tur/Red Gram),Bindki,2015-12-16,9370.0,1.4,16.2,clear
+29,Arhar (Tur/Red Gram),Jahanabad,2015-12-16,8000.0,0.0,16.2,clear
+30,Bengal Gram(Gram),Bindki,2015-12-16,5020.0,1.3,16.2,clear
+31,Bengal Gram(Gram),Fatehpur,2015-12-16,5610.0,3.0,16.2,clear
+32,Bengal Gram(Gram),Jahanabad,2015-12-16,5030.0,4.0,16.2,clear
+33,Arhar (Tur/Red Gram),Bindki,2015-12-17,9375.0,1.2,18.2,clear
+34,Arhar (Tur/Red Gram),Jahanabad,2015-12-17,8020.0,0.0,18.2,clear
+35,Bengal Gram(Gram),Bindki,2015-12-17,5025.0,1.0,18.2,clear
+36,Arhar (Tur/Red Gram),Bindki,2015-12-18,9380.0,1.1,18.2,clear
+37,Arhar (Tur/Red Gram),Jahanabad,2015-12-18,8030.0,0.0,18.2,clear
+38,Bengal Gram(Gram),Bindki,2015-12-18,5015.0,0.0,18.2,clear
+39,Bengal Gram(Gram),Jahanabad,2015-12-18,5030.0,4.0,18.2,clear
+40,Arhar (Tur/Red Gram),Bindki,2015-12-20,9385.0,1.0,19.2,clear
+41,Arhar (Tur/Red Gram),Jahanabad,2015-12-20,8050.0,0.0,19.2,clear
+42,Bengal Gram(Gram),Bindki,2015-12-20,5010.0,1.0,19.2,clear
+43,Bengal Gram(Gram),Fatehpur,2015-12-20,5630.0,4.0,19.2,clear
+44,Bengal Gram(Gram),Jahanabad,2015-12-20,5050.0,3.0,19.2,clear
+45,Arhar (Tur/Red Gram),Bindki,2015-12-21,9390.0,1.2,18.2,clear
+46,Bengal Gram(Gram),Bindki,2015-12-21,5000.0,1.0,18.2,clear
+47,Bengal Gram(Gram),Fatehpur,2015-12-21,5600.0,3.5,18.2,clear
+48,Arhar (Tur/Red Gram),Bindki,2015-12-22,9380.0,1.3,18.2,clear
+49,Arhar (Tur/Red Gram),Jahanabad,2015-12-22,8060.0,0.0,18.2,clear
+50,Bengal Gram(Gram),Bindki,2015-12-22,4990.0,1.1,18.2,clear
+51,Bengal Gram(Gram),Fatehpur,2015-12-22,5595.0,3.0,18.2,clear
+52,Bengal Gram(Gram),Jahanabad,2015-12-22,5060.0,2.5,18.2,clear
+53,Arhar (Tur/Red Gram),Bindki,2015-12-23,9375.0,1.4,18.2,clear
+54,Arhar (Tur/Red Gram),Jahanabad,2015-12-23,8100.0,0.0,18.2,clear
+55,Bengal Gram(Gram),Bindki,2015-12-23,4995.0,1.0,18.2,clear
+56,Bengal Gram(Gram),Fatehpur,2015-12-23,5580.0,4.0,18.2,clear
+57,Bengal Gram(Gram),Jahanabad,2015-12-23,5070.0,2.0,18.2,clear
+58,Arhar (Tur/Red Gram),Bindki,2015-12-24,9370.0,1.5,17.2,clear
+59,Arhar (Tur/Red Gram),Jahanabad,2015-12-24,8120.0,0.0,17.2,clear
+60,Bengal Gram(Gram),Bindki,2015-12-24,4985.0,1.1,17.2,clear
+61,Bengal Gram(Gram),Jahanabad,2015-12-24,5100.0,1.6,17.2,clear
+62,Arhar (Tur/Red Gram),Bindki,2015-12-25,9780.0,1.3,16.2,clear
+63,Arhar (Tur/Red Gram),Jahanabad,2015-12-25,8140.0,1.5,16.2,clear
+64,Bengal Gram(Gram),Bindki,2015-12-25,4980.0,1.2,16.2,clear
+65,Bengal Gram(Gram),Fatehpur,2015-12-25,5585.0,3.5,16.2,clear
+66,Bengal Gram(Gram),Jahanabad,2015-12-25,5120.0,1.5,16.2,clear
+67,Arhar (Tur/Red Gram),Bindki,2015-12-27,9770.0,1.4,21.2,clear
+68,Arhar (Tur/Red Gram),Jahanabad,2015-12-27,8170.0,0.0,21.2,clear
+69,Bengal Gram(Gram),Bindki,2015-12-27,4975.0,1.1,21.2,clear
+70,Bengal Gram(Gram),Fatehpur,2015-12-27,5580.0,2.5,21.2,clear
+71,Bengal Gram(Gram),Jahanabad,2015-12-27,5140.0,0.0,21.2,clear
+72,Arhar (Tur/Red Gram),Bindki,2015-12-28,9390.0,1.2,12.2,clear
+73,Bengal Gram(Gram),Bindki,2015-12-28,4985.0,1.0,12.2,clear
+74,Bengal Gram(Gram),Fatehpur,2015-12-28,5570.0,4.5,12.2,clear
+75,Arhar (Tur/Red Gram),Bindki,2015-12-29,9385.0,1.0,22.2,clear
+76,Arhar (Tur/Red Gram),Jahanabad,2015-12-29,8180.0,0.0,22.2,clear
+77,Bengal Gram(Gram),Bindki,2015-12-29,4980.0,1.1,22.2,clear
+78,Bengal Gram(Gram),Fatehpur,2015-12-29,5585.0,5.0,22.2,clear
+79,Bengal Gram(Gram),Jahanabad,2015-12-29,5130.0,0.0,22.2,clear
+80,Arhar (Tur/Red Gram),Bindki,2015-12-31,9360.0,1.2,21.2,clear
+81,Arhar (Tur/Red Gram),Jahanabad,2015-12-31,8200.0,0.0,21.2,clear
+82,Bengal Gram(Gram),Bindki,2015-12-31,4980.0,9.0,21.2,clear
+83,Bengal Gram(Gram),Jahanabad,2015-12-31,5150.0,0.0,21.2,clear
+84,Arhar (Tur/Red Gram),Jahanabad,2015-12-09,6600.0,0.0,22.2,clear
+85,Bengal Gram(Gram),Fatehpur,2015-12-09,5055.0,4.0,22.2,clear
+86,Bengal Gram(Gram),Jahanabad,2015-12-09,5020.0,0.0,22.2,clear
+87,Arhar (Tur/Red Gram),Jahanabad,2015-12-19,8040.0,0.0,18.2,clear
+88,Bengal Gram(Gram),Fatehpur,2015-12-19,5620.0,3.0,18.2,clear
+89,Bengal Gram(Gram),Jahanabad,2015-12-19,5040.0,4.0,18.2,clear
+90,Arhar (Tur/Red Gram),Jahanabad,2015-12-26,8150.0,5.0,19.2,clear
+91,Bengal Gram(Gram),Fatehpur,2015-12-26,5590.0,3.0,19.2,clear
+92,Bengal Gram(Gram),Jahanabad,2015-12-26,5150.0,1.0,19.2,clear
+93,Arhar (Tur/Red Gram),Jahanabad,2015-12-30,8190.0,0.0,22.2,clear
+94,Bengal Gram(Gram),Fatehpur,2015-12-30,5580.0,6.0,22.2,clear
+95,Bengal Gram(Gram),Jahanabad,2015-12-30,5140.0,0.0,22.2,clear
+96,Bengal Gram(Gram),Fatehpur,2015-12-12,5610.0,4.0,20.2,clear
+97,Arhar (Tur/Red Gram),Bindki,2016-03-01,9375.0,1.3,29.2,clear
+98,Arhar (Tur/Red Gram),Jahanabad,2016-03-01,8050.0,0.0,29.2,clear
+99,Bengal Gram(Gram),Bindki,2016-03-01,4975.0,1.1,29.2,clear
+100,Bengal Gram(Gram),Fatehpur,2016-03-01,5570.0,6.5,29.2,clear
+101,Bengal Gram(Gram),Jahanabad,2016-03-01,5150.0,0.0,29.2,clear
+102,Arhar (Tur/Red Gram),Bindki,2016-04-01,9365.0,1.0,36.2,clear
+103,Bengal Gram(Gram),Bindki,2016-04-01,4975.0,1.1,36.2,clear
+104,Bengal Gram(Gram),Fatehpur,2016-04-01,5560.0,7.5,36.2,clear
+105,Arhar (Tur/Red Gram),Bindki,2016-05-01,9370.0,1.0,40.2,clear
+106,Arhar (Tur/Red Gram),Jahanabad,2016-05-01,8000.0,0.0,40.2,clear
+107,Bengal Gram(Gram),Bindki,2016-05-01,4970.0,1.0,40.2,clear
+108,Bengal Gram(Gram),Fatehpur,2016-05-01,5550.0,6.5,40.2,clear
+109,Bengal Gram(Gram),Jahanabad,2016-05-01,5100.0,0.0,40.2,clear
+110,Arhar (Tur/Red Gram),Bindki,2016-08-01,9365.0,1.4,29.2,clear
+111,Arhar (Tur/Red Gram),Jahanabad,2016-08-01,7700.0,1.0,29.2,clear
+112,Bengal Gram(Gram),Bindki,2016-08-01,4985.0,1.3,29.2,clear
+113,Bengal Gram(Gram),Fatehpur,2016-08-01,5570.0,6.5,29.2,clear
+114,Bengal Gram(Gram),Jahanabad,2016-08-01,5040.0,0.0,29.2,clear
+115,Arhar (Tur/Red Gram),Bindki,2016-10-01,9370.0,1.5,33.2,clear
+116,Arhar (Tur/Red Gram),Jahanabad,2016-10-01,7680.0,1.2,33.2,clear
+117,Bengal Gram(Gram),Bindki,2016-10-01,4980.0,1.4,33.2,clear
+118,Bengal Gram(Gram),Fatehpur,2016-10-01,5580.0,6.0,33.2,clear
+119,Bengal Gram(Gram),Jahanabad,2016-10-01,5060.0,0.0,33.2,clear
+120,Arhar (Tur/Red Gram),Bindki,2016-11-01,9370.0,1.5,29.2,clear
+121,Bengal Gram(Gram),Bindki,2016-11-01,4990.0,1.3,29.2,clear
+122,Bengal Gram(Gram),Fatehpur,2016-11-01,5585.0,3.5,29.2,clear
+123,Arhar (Tur/Red Gram),Bindki,2016-12-01,9360.0,1.8,21.2,clear
+124,Arhar (Tur/Red Gram),Jahanabad,2016-12-01,7680.0,1.2,21.2,clear
+125,Bengal Gram(Gram),Bindki,2016-12-01,4985.0,1.2,21.2,clear
+126,Bengal Gram(Gram),Jahanabad,2016-12-01,5060.0,0.0,21.2,clear
+127,Arhar (Tur/Red Gram),Bindki,2016-01-13,9355.0,2.0,22.2,clear
+128,Arhar (Tur/Red Gram),Jahanabad,2016-01-13,7600.0,1.0,22.2,clear
+129,Bengal Gram(Gram),Bindki,2016-01-13,4990.0,1.1,22.2,clear
+130,Bengal Gram(Gram),Fatehpur,2016-01-13,5600.0,4.0,22.2,clear
+131,Bengal Gram(Gram),Jahanabad,2016-01-13,5070.0,0.0,22.2,clear
+132,Arhar (Tur/Red Gram),Bindki,2016-01-15,9350.0,2.0,20.2,clear
+133,Arhar (Tur/Red Gram),Jahanabad,2016-01-15,7500.0,1.0,20.2,clear
+134,Bengal Gram(Gram),Bindki,2016-01-15,4985.0,1.5,20.2,clear
+135,Bengal Gram(Gram),Fatehpur,2016-01-15,5590.0,5.0,20.2,clear
+136,Bengal Gram(Gram),Jahanabad,2016-01-15,5100.0,0.0,20.2,clear
+137,Arhar (Tur/Red Gram),Bindki,2016-01-17,9370.0,2.1,17.2,clear
+138,Arhar (Tur/Red Gram),Jahanabad,2016-01-17,7520.0,1.2,17.2,clear
+139,Bengal Gram(Gram),Bindki,2016-01-17,4980.0,1.4,17.2,clear
+140,Bengal Gram(Gram),Fatehpur,2016-01-17,5585.0,3.0,17.2,clear
+141,Bengal Gram(Gram),Jahanabad,2016-01-17,5090.0,0.0,17.2,clear
+142,Arhar (Tur/Red Gram),Bindki,2016-01-18,9365.0,1.7,16.2,clear
+143,Bengal Gram(Gram),Bindki,2016-01-18,4990.0,1.1,16.2,clear
+144,Bengal Gram(Gram),Fatehpur,2016-01-18,5590.0,3.5,16.2,clear
+145,Arhar (Tur/Red Gram),Bindki,2016-01-19,9370.0,1.3,13.2,clear
+146,Arhar (Tur/Red Gram),Jahanabad,2016-01-19,7580.0,1.5,13.2,clear
+147,Bengal Gram(Gram),Bindki,2016-01-19,4995.0,0.9,13.2,clear
+148,Bengal Gram(Gram),Fatehpur,2016-01-19,5580.0,4.0,13.2,clear
+149,Bengal Gram(Gram),Jahanabad,2016-01-19,5100.0,1.0,13.2,clear
+150,Arhar (Tur/Red Gram),Bindki,2016-01-21,9360.0,1.2,14.2,clear
+151,Bengal Gram(Gram),Bindki,2016-01-21,5010.0,1.0,14.2,clear
+152,Arhar (Tur/Red Gram),Bindki,2016-01-24,9380.0,2.0,21.2,clear
+153,Arhar (Tur/Red Gram),Jahanabad,2016-01-24,7500.0,0.0,21.2,clear
+154,Bengal Gram(Gram),Bindki,2016-01-24,4990.0,1.1,21.2,clear
+155,Bengal Gram(Gram),Fatehpur,2016-01-24,5470.0,4.0,21.2,clear
+156,Bengal Gram(Gram),Jahanabad,2016-01-24,5150.0,0.0,21.2,clear
+157,Arhar (Tur/Red Gram),Bindki,2016-01-25,9385.0,1.7,22.2,clear
+158,Bengal Gram(Gram),Bindki,2016-01-25,4985.0,1.0,22.2,clear
+159,Bengal Gram(Gram),Fatehpur,2016-01-25,5475.0,2.5,22.2,clear
+160,Arhar (Tur/Red Gram),Bindki,2016-01-27,7860.0,11.0,22.2,clear
+161,Arhar (Tur/Red Gram),Jahanabad,2016-01-27,7500.0,6.0,22.2,clear
+162,Bengal Gram(Gram),Bindki,2016-01-27,4990.0,11.0,22.2,clear
+163,Bengal Gram(Gram),Fatehpur,2016-01-27,5470.0,3.0,22.2,clear
+164,Bengal Gram(Gram),Jahanabad,2016-01-27,5150.0,0.0,22.2,clear
+165,Arhar (Tur/Red Gram),Bindki,2016-01-29,9385.0,1.4,24.2,clear
+166,Arhar (Tur/Red Gram),Jahanabad,2016-01-29,7400.0,0.0,24.2,clear
+167,Arhar (Tur/Red Gram),Kishunpur,2016-01-29,7800.0,34.5,24.2,clear
+168,Bengal Gram(Gram),Bindki,2016-01-29,4980.0,1.2,24.2,clear
+169,Bengal Gram(Gram),Fatehpur,2016-01-29,5480.0,2.0,24.2,clear
+170,Bengal Gram(Gram),Jahanabad,2016-01-29,5170.0,0.0,24.2,clear
+171,Arhar (Tur/Red Gram),Bindki,2016-01-31,9300.0,1.8,26.2,clear
+172,Arhar (Tur/Red Gram),Jahanabad,2016-01-31,7360.0,0.0,26.2,clear
+173,Bengal Gram(Gram),Bindki,2016-01-31,4970.0,1.5,26.2,clear
+174,Bengal Gram(Gram),Fatehpur,2016-01-31,5490.0,2.0,26.2,clear
+175,Bengal Gram(Gram),Jahanabad,2016-01-31,5200.0,0.0,26.2,clear
+176,Arhar (Tur/Red Gram),Bindki,2016-01-02,8130.0,1.3,22.5,clear
+177,Bengal Gram(Gram),Bindki,2016-01-02,4960.0,1.0,22.5,clear
+178,Bengal Gram(Gram),Fatehpur,2016-01-02,5300.0,1.8,22.5,clear
+179,Arhar (Tur/Red Gram),Bindki,2016-02-02,8120.0,1.3,22.2,clear
+180,Arhar (Tur/Red Gram),Jahanabad,2016-02-02,7400.0,0.0,22.2,clear
+181,Bengal Gram(Gram),Bindki,2016-02-02,4975.0,1.6,22.2,clear
+182,Bengal Gram(Gram),Fatehpur,2016-02-02,5290.0,2.0,22.2,clear
+183,Bengal Gram(Gram),Jahanabad,2016-02-02,5250.0,0.0,22.2,clear
+184,Arhar (Tur/Red Gram),Bindki,2016-03-02,7630.0,1.6,30.2,clear
+185,Arhar (Tur/Red Gram),Jahanabad,2016-03-02,7500.0,0.0,30.2,clear
+186,Bengal Gram(Gram),Bindki,2016-03-02,4960.0,1.8,30.2,clear
+187,Bengal Gram(Gram),Fatehpur,2016-03-02,5300.0,4.0,30.2,clear
+188,Bengal Gram(Gram),Jahanabad,2016-03-02,5300.0,0.0,30.2,clear
+189,Arhar (Tur/Red Gram),Bindki,2016-04-02,8110.0,1.7,37.2,clear
+190,Arhar (Tur/Red Gram),Jahanabad,2016-04-02,7500.0,0.0,37.2,clear
+191,Bengal Gram(Gram),Bindki,2016-04-02,4950.0,1.6,37.2,clear
+192,Bengal Gram(Gram),Jahanabad,2016-04-02,5320.0,0.0,37.2,clear
+193,Arhar (Tur/Red Gram),Bindki,2016-05-02,8100.0,1.6,41.2,clear
+194,Arhar (Tur/Red Gram),Jahanabad,2016-05-02,7550.0,5.0,41.2,clear
+195,Bengal Gram(Gram),Bindki,2016-05-02,4945.0,11.0,41.2,clear
+196,Bengal Gram(Gram),Fatehpur,2016-05-02,5285.0,6.5,41.2,clear
+197,Bengal Gram(Gram),Jahanabad,2016-05-02,5300.0,0.0,41.2,clear
+198,Arhar (Tur/Red Gram),Bindki,2016-07-02,7650.0,1.0,30.2,clear
+199,Bengal Gram(Gram),Bindki,2016-07-02,4930.0,1.0,30.2,clear
+200,Bengal Gram(Gram),Fatehpur,2016-07-02,5295.0,5.0,30.2,clear
+201,Arhar (Tur/Red Gram),Bindki,2016-08-02,8065.0,1.2,32.2,clear
+202,Bengal Gram(Gram),Bindki,2016-08-02,4850.0,1.1,32.2,clear
+203,Bengal Gram(Gram),Fatehpur,2016-08-02,5285.0,7.0,32.2,clear
+204,Arhar (Tur/Red Gram),Bindki,2016-09-02,8050.0,1.3,32.2,clear
+205,Arhar (Tur/Red Gram),Jahanabad,2016-09-02,7600.0,0.0,32.2,clear
+206,Bengal Gram(Gram),Bindki,2016-09-02,4840.0,1.2,32.2,clear
+207,Bengal Gram(Gram),Fatehpur,2016-09-02,5290.0,5.0,32.2,clear
+208,Bengal Gram(Gram),Jahanabad,2016-09-02,5400.0,0.0,32.2,clear
+209,Arhar (Tur/Red Gram),Bindki,2016-10-02,8055.0,1.4,33.2,clear
+210,Bengal Gram(Gram),Bindki,2016-10-02,4845.0,1.4,33.2,clear
+211,Bengal Gram(Gram),Fatehpur,2016-10-02,5300.0,6.0,33.2,clear
+212,Bengal Gram(Gram),Jahanabad,2016-10-02,5420.0,0.0,33.2,clear
+213,Arhar (Tur/Red Gram),Bindki,2016-11-02,8060.0,1.5,21.2,clear
+214,Arhar (Tur/Red Gram),Jahanabad,2016-11-02,7630.0,0.0,21.2,clear
+215,Bengal Gram(Gram),Bindki,2016-11-02,4950.0,1.5,21.2,clear
+216,Bengal Gram(Gram),Jahanabad,2016-11-02,5430.0,0.0,21.2,clear
+217,Arhar (Tur/Red Gram),Bindki,2016-12-02,8050.0,1.2,20.2,clear
+218,Arhar (Tur/Red Gram),Jahanabad,2016-12-02,7700.0,0.0,20.2,clear
+219,Bengal Gram(Gram),Bindki,2016-12-02,4940.0,1.3,20.2,clear
+220,Bengal Gram(Gram),Jahanabad,2016-12-02,5470.0,0.0,20.2,clear
+221,Arhar (Tur/Red Gram),Bindki,2016-02-14,8055.0,1.5,26.2,clear
+222,Bengal Gram(Gram),Bindki,2016-02-14,4945.0,1.5,26.2,clear
+223,Bengal Gram(Gram),Jahanabad,2016-02-14,5520.0,0.0,26.2,clear
+224,Arhar (Tur/Red Gram),Bindki,2016-02-15,8045.0,2.0,26.2,clear
+225,Bengal Gram(Gram),Bindki,2016-02-15,4955.0,1.3,26.2,clear
+226,Bengal Gram(Gram),Fatehpur,2016-02-15,5325.0,2.5,26.2,clear
+227,Arhar (Tur/Red Gram),Bindki,2016-02-16,8040.0,2.2,19.2,clear
+228,Arhar (Tur/Red Gram),Jahanabad,2016-02-16,7800.0,0.0,19.2,clear
+229,Bengal Gram(Gram),Bindki,2016-02-16,4940.0,1.0,19.2,clear
+230,Bengal Gram(Gram),Fatehpur,2016-02-16,5330.0,4.0,19.2,clear
+231,Bengal Gram(Gram),Jahanabad,2016-02-16,5530.0,0.0,19.2,clear
+232,Arhar (Tur/Red Gram),Bindki,2016-02-17,8035.0,2.5,25.2,clear
+233,Arhar (Tur/Red Gram),Jahanabad,2016-02-17,7850.0,0.0,25.2,clear
+234,Bengal Gram(Gram),Bindki,2016-02-17,4950.0,1.5,25.2,clear
+235,Bengal Gram(Gram),Fatehpur,2016-02-17,5340.0,6.0,25.2,clear
+236,Bengal Gram(Gram),Jahanabad,2016-02-17,5540.0,0.0,25.2,clear
+237,Arhar (Tur/Red Gram),Bindki,2016-02-18,8000.0,1.8,27.2,clear
+238,Arhar (Tur/Red Gram),Jahanabad,2016-02-18,7900.0,0.0,27.2,clear
+239,Bengal Gram(Gram),Bindki,2016-02-18,4945.0,1.1,27.2,clear
+240,Bengal Gram(Gram),Jahanabad,2016-02-18,5550.0,0.0,27.2,clear
+241,Arhar (Tur/Red Gram),Bindki,2016-02-19,7980.0,1.6,29.2,clear
+242,Bengal Gram(Gram),Bindki,2016-02-19,4940.0,1.0,29.2,clear
+243,Bengal Gram(Gram),Fatehpur,2016-02-19,5335.0,4.5,29.2,clear
+244,Arhar (Tur/Red Gram),Bindki,2016-02-21,7985.0,1.8,26.2,clear
+245,Arhar (Tur/Red Gram),Jahanabad,2016-02-21,7960.0,0.0,26.2,clear
+246,Bengal Gram(Gram),Bindki,2016-02-21,4860.0,1.2,26.2,clear
+247,Bengal Gram(Gram),Fatehpur,2016-02-21,5310.0,2.0,26.2,clear
+248,Bengal Gram(Gram),Jahanabad,2016-02-21,5675.0,0.0,26.2,clear
+249,Arhar (Tur/Red Gram),Bindki,2016-02-22,7970.0,1.3,25.2,clear
+250,Bengal Gram(Gram),Bindki,2016-02-22,4860.0,1.2,25.2,clear
+251,Bengal Gram(Gram),Fatehpur,2016-02-22,5300.0,2.5,25.2,clear
+252,Arhar (Tur/Red Gram),Bindki,2016-02-23,7900.0,9.0,26.2,clear
+253,Arhar (Tur/Red Gram),Jahanabad,2016-02-23,8040.0,0.0,26.2,clear
+254,Bengal Gram(Gram),Bindki,2016-02-23,4865.0,1.0,26.2,clear
+255,Bengal Gram(Gram),Fatehpur,2016-02-23,5310.0,3.0,26.2,clear
+256,Bengal Gram(Gram),Jahanabad,2016-02-23,5680.0,0.0,26.2,clear
+257,Arhar (Tur/Red Gram),Bindki,2016-02-24,7915.0,1.0,28.2,clear
+258,Bengal Gram(Gram),Bindki,2016-02-24,4860.0,1.3,28.2,clear
+259,Bengal Gram(Gram),Fatehpur,2016-02-24,5320.0,4.0,28.2,clear
+260,Arhar (Tur/Red Gram),Bindki,2016-02-25,7920.0,1.2,27.2,clear
+261,Bengal Gram(Gram),Bindki,2016-02-25,4865.0,1.0,27.2,clear
+262,Arhar (Tur/Red Gram),Bindki,2016-02-26,7885.0,1.1,27.2,clear
+263,Bengal Gram(Gram),Bindki,2016-02-26,4870.0,1.1,27.2,clear
+264,Bengal Gram(Gram),Fatehpur,2016-02-26,5325.0,6.0,27.2,clear
+265,Arhar (Tur/Red Gram),Bindki,2016-02-28,7880.0,1.8,28.2,clear
+266,Bengal Gram(Gram),Bindki,2016-02-28,4880.0,1.5,28.2,clear
+267,Bengal Gram(Gram),Fatehpur,2016-02-28,5335.0,8.0,28.2,clear
+268,Arhar (Tur/Red Gram),Bindki,2016-02-29,7885.0,1.3,29.2,clear
+269,Bengal Gram(Gram),Bindki,2016-02-29,4875.0,1.2,29.2,clear
+270,Bengal Gram(Gram),Fatehpur,2016-02-29,5340.0,7.0,29.2,clear
+271,Arhar (Tur/Red Gram),Bindki,2016-01-03,7870.0,1.6,12.2,clear
+272,Bengal Gram(Gram),Bindki,2016-01-03,4870.0,1.6,12.2,clear
+273,Bengal Gram(Gram),Fatehpur,2016-01-03,5350.0,4.5,12.2,clear
+274,Arhar (Tur/Red Gram),Bindki,2016-02-03,5770.0,2.0,21.2,clear
+275,Bengal Gram(Gram),Bindki,2016-02-03,4865.0,1.5,21.2,clear
+276,Arhar (Tur/Red Gram),Bindki,2016-06-03,7815.0,2.0,39.2,clear
+277,Arhar (Tur/Red Gram),Jahanabad,2016-06-03,8000.0,1.0,39.2,clear
+278,Bengal Gram(Gram),Bindki,2016-06-03,4860.0,1.8,39.2,clear
+279,Bengal Gram(Gram),Fatehpur,2016-06-03,5360.0,3.0,39.2,clear
+280,Bengal Gram(Gram),Jahanabad,2016-06-03,5900.0,1.0,39.2,clear
+281,Arhar (Tur/Red Gram),Bindki,2016-07-03,7800.0,1.4,29.2,clear
+282,Bengal Gram(Gram),Bindki,2016-07-03,4870.0,1.2,29.2,clear
+283,Bengal Gram(Gram),Fatehpur,2016-07-03,5365.0,4.5,29.2,clear
+284,Arhar (Tur/Red Gram),Bindki,2016-08-03,7810.0,1.4,32.2,clear
+285,Arhar (Tur/Red Gram),Jahanabad,2016-08-03,8000.0,1.2,32.2,clear
+286,Bengal Gram(Gram),Bindki,2016-08-03,4855.0,1.2,32.2,clear
+287,Bengal Gram(Gram),Fatehpur,2016-08-03,5370.0,5.5,32.2,clear
+288,Bengal Gram(Gram),Jahanabad,2016-08-03,2200.0,1.0,32.2,clear
+289,Arhar (Tur/Red Gram),Bindki,2016-09-03,7815.0,1.6,33.2,clear
+290,Arhar (Tur/Red Gram),Jahanabad,2016-09-03,8050.0,1.5,33.2,clear
+291,Bengal Gram(Gram),Bindki,2016-09-03,4860.0,1.0,33.2,clear
+292,Bengal Gram(Gram),Fatehpur,2016-09-03,5350.0,4.5,33.2,clear
+293,Bengal Gram(Gram),Jahanabad,2016-09-03,6050.0,1.0,33.2,clear
+294,Arhar (Tur/Red Gram),Bindki,2016-10-03,7800.0,1.0,33.2,clear
+295,Arhar (Tur/Red Gram),Jahanabad,2016-10-03,8070.0,1.5,33.2,clear
+296,Bengal Gram(Gram),Bindki,2016-10-03,4860.0,0.9,33.2,clear
+297,Bengal Gram(Gram),Jahanabad,2016-10-03,6100.0,1.0,33.2,clear
+298,Arhar (Tur/Red Gram),Bindki,2016-11-03,7785.0,1.5,27.2,clear
+299,Bengal Gram(Gram),Bindki,2016-11-03,4860.0,1.0,27.2,clear
+300,Bengal Gram(Gram),Fatehpur,2016-11-03,5330.0,6.0,27.2,clear
+301,Bengal Gram(Gram),Jahanabad,2016-11-03,6100.0,1.0,27.2,clear
+302,Arhar (Tur/Red Gram),Bindki,2016-03-13,7775.0,1.3,30.2,clear
+303,Arhar (Tur/Red Gram),Jahanabad,2016-03-13,8020.0,1.6,30.2,clear
+304,Bengal Gram(Gram),Bindki,2016-03-13,4865.0,1.2,30.2,clear
+305,Bengal Gram(Gram),Fatehpur,2016-03-13,5340.0,6.0,30.2,clear
+306,Bengal Gram(Gram),Jahanabad,2016-03-13,6080.0,1.2,30.2,clear
+307,Arhar (Tur/Red Gram),Bindki,2016-03-14,7780.0,1.2,27.2,clear
+308,Bengal Gram(Gram),Bindki,2016-03-14,4870.0,1.0,27.2,clear
+309,Bengal Gram(Gram),Fatehpur,2016-03-14,5330.0,5.5,27.2,clear
+310,Arhar (Tur/Red Gram),Bindki,2016-03-15,7700.0,1.3,26.2,clear
+311,Arhar (Tur/Red Gram),Jahanabad,2016-03-15,8010.0,1.4,26.2,clear
+312,Arhar (Tur/Red Gram),Khaga,2016-03-15,7800.0,1.9,26.2,clear
+313,Bengal Gram(Gram),Bindki,2016-03-15,4800.0,1.1,26.2,clear
+314,Bengal Gram(Gram),Fatehpur,2016-03-15,5320.0,6.0,26.2,clear
+315,Bengal Gram(Gram),Jahanabad,2016-03-15,6100.0,1.5,26.2,clear
+316,Bengal Gram(Gram),Khaga,2016-03-15,5250.0,8.0,26.2,clear
+317,Arhar (Tur/Red Gram),Bindki,2016-03-16,7725.0,1.5,28.2,clear
+318,Bengal Gram(Gram),Bindki,2016-03-16,4775.0,1.5,28.2,clear
+319,Bengal Gram(Gram),Fatehpur,2016-03-16,5300.0,5.0,28.2,clear
+320,Arhar (Tur/Red Gram),Bindki,2016-03-17,7735.0,1.5,30.2,clear
+321,Bengal Gram(Gram),Bindki,2016-03-17,4780.0,1.6,30.2,clear
+322,Arhar (Tur/Red Gram),Bindki,2016-03-18,7700.0,1.3,31.2,clear
+323,Arhar (Tur/Red Gram),Jahanabad,2016-03-18,8050.0,1.2,31.2,clear
+324,Bengal Gram(Gram),Bindki,2016-03-18,4760.0,1.4,31.2,clear
+325,Bengal Gram(Gram),Fatehpur,2016-03-18,5295.0,2.5,31.2,clear
+326,Bengal Gram(Gram),Jahanabad,2016-03-18,6130.0,1.5,31.2,clear
+327,Arhar (Tur/Red Gram),Bindki,2016-03-21,7660.0,2.2,32.2,clear
+328,Bengal Gram(Gram),Bindki,2016-03-21,4755.0,2.0,32.2,clear
+329,Bengal Gram(Gram),Fatehpur,2016-03-21,5285.0,2.5,32.2,clear
+330,Arhar (Tur/Red Gram),Bindki,2016-03-22,7665.0,2.3,30.2,clear
+331,Bengal Gram(Gram),Bindki,2016-03-22,4750.0,2.5,30.2,clear
+332,Arhar (Tur/Red Gram),Bindki,2016-03-23,7670.0,2.0,31.2,clear
+333,Arhar (Tur/Red Gram),Jahanabad,2016-03-23,8030.0,1.2,31.2,clear
+334,Bengal Gram(Gram),Bindki,2016-03-23,4760.0,2.2,31.2,clear
+335,Bengal Gram(Gram),Jahanabad,2016-03-23,6000.0,1.4,31.2,clear
+336,Arhar (Tur/Red Gram),Bindki,2016-03-24,7680.0,2.2,33.2,clear
+337,Bengal Gram(Gram),Bindki,2016-03-24,4765.0,2.3,33.2,clear
+338,Arhar (Tur/Red Gram),Bindki,2016-03-27,7665.0,2.0,32.2,clear
+339,Arhar (Tur/Red Gram),Jahanabad,2016-03-27,7950.0,1.5,32.2,clear
+340,Bengal Gram(Gram),Bindki,2016-03-27,4770.0,2.0,32.2,clear
+341,Bengal Gram(Gram),Fatehpur,2016-03-27,5265.0,1.5,32.2,clear
+342,Bengal Gram(Gram),Jahanabad,2016-03-27,5700.0,1.4,32.2,clear
+343,Arhar (Tur/Red Gram),Bindki,2016-03-28,7670.0,2.0,33.2,clear
+344,Bengal Gram(Gram),Bindki,2016-03-28,4755.0,1.0,33.2,clear
+345,Bengal Gram(Gram),Fatehpur,2016-03-28,5260.0,2.2,33.2,clear
+346,Arhar (Tur/Red Gram),Bindki,2016-03-29,7675.0,1.6,26.2,clear
+347,Bengal Gram(Gram),Fatehpur,2016-03-29,5250.0,2.5,26.2,clear
+348,Arhar (Tur/Red Gram),Bindki,2016-03-30,7670.0,1.8,32.2,clear
+349,Arhar (Tur/Red Gram),Jahanabad,2016-03-30,7950.0,1.5,32.2,clear
+350,Bengal Gram(Gram),Bindki,2016-03-30,4755.0,1.5,32.2,clear
+351,Bengal Gram(Gram),Jahanabad,2016-03-30,5700.0,1.4,32.2,clear
+352,Arhar (Tur/Red Gram),Bindki,2016-03-31,7675.0,1.5,35.2,clear
+353,Arhar (Tur/Red Gram),Jahanabad,2016-03-31,8000.0,1.5,35.2,clear
+354,Bengal Gram(Gram),Bindki,2016-03-31,4765.0,1.3,35.2,clear
+355,Bengal Gram(Gram),Jahanabad,2016-03-31,5600.0,1.5,35.2,clear
+356,Arhar (Tur/Red Gram),Bindki,2016-01-04,7785.0,1.1,20.2,clear
+357,Arhar (Tur/Red Gram),Jahanabad,2016-01-04,8000.0,1.2,20.2,clear
+358,Bengal Gram(Gram),Bindki,2016-01-04,4760.0,1.2,20.2,clear
+359,Bengal Gram(Gram),Fatehpur,2016-01-04,5220.0,3.5,20.2,clear
+360,Bengal Gram(Gram),Jahanabad,2016-01-04,5500.0,1.4,20.2,clear
+361,Arhar (Tur/Red Gram),Bindki,2016-03-04,7775.0,1.3,32.2,clear
+362,Arhar (Tur/Red Gram),Jahanabad,2016-03-04,7950.0,1.2,32.2,clear
+363,Bengal Gram(Gram),Bindki,2016-03-04,4765.0,1.3,32.2,clear
+364,Bengal Gram(Gram),Fatehpur,2016-03-04,5205.0,4.5,32.2,clear
+365,Bengal Gram(Gram),Jahanabad,2016-03-04,5100.0,1.6,32.2,clear
+366,Arhar (Tur/Red Gram),Bindki,2016-04-04,7770.0,1.3,37.2,clear
+367,Bengal Gram(Gram),Bindki,2016-04-04,4780.0,1.2,37.2,clear
+368,Bengal Gram(Gram),Fatehpur,2016-04-04,5200.0,6.5,37.2,clear
+369,Arhar (Tur/Red Gram),Bindki,2016-05-04,7770.0,1.2,37.2,clear
+370,Arhar (Tur/Red Gram),Jahanabad,2016-05-04,7940.0,1.2,37.2,clear
+371,Bengal Gram(Gram),Bindki,2016-05-04,4760.0,1.1,37.2,clear
+372,Bengal Gram(Gram),Fatehpur,2016-05-04,5195.0,7.5,37.2,clear
+373,Bengal Gram(Gram),Jahanabad,2016-05-04,5200.0,1.5,37.2,clear
+374,Arhar (Tur/Red Gram),Bindki,2016-06-04,7750.0,1.0,40.2,clear
+375,Arhar (Tur/Red Gram),Jahanabad,2016-06-04,7950.0,1.2,40.2,clear
+376,Bengal Gram(Gram),Bindki,2016-06-04,4770.0,1.0,40.2,clear
+377,Bengal Gram(Gram),Fatehpur,2016-06-04,5210.0,7.0,40.2,clear
+378,Bengal Gram(Gram),Jahanabad,2016-06-04,5100.0,1.6,40.2,clear
+379,Arhar (Tur/Red Gram),Bindki,2016-07-04,7765.0,1.2,29.2,clear
+380,Arhar (Tur/Red Gram),Jahanabad,2016-07-04,8000.0,1.5,29.2,clear
+381,Bengal Gram(Gram),Bindki,2016-07-04,4775.0,1.4,29.2,clear
+382,Bengal Gram(Gram),Jahanabad,2016-07-04,5080.0,1.4,29.2,clear
+383,Arhar (Tur/Red Gram),Bindki,2016-08-04,7760.0,1.5,33.2,clear
+384,Arhar (Tur/Red Gram),Jahanabad,2016-08-04,8000.0,1.4,33.2,clear
+385,Bengal Gram(Gram),Bindki,2016-08-04,4785.0,1.3,33.2,clear
+386,Bengal Gram(Gram),Fatehpur,2016-08-04,5200.0,6.0,33.2,clear
+387,Bengal Gram(Gram),Jahanabad,2016-08-04,5060.0,1.5,33.2,clear
+388,Arhar (Tur/Red Gram),Bindki,2016-10-04,7765.0,1.7,33.2,clear
+389,Arhar (Tur/Red Gram),Jahanabad,2016-10-04,5000.0,1.4,33.2,clear
+390,Bengal Gram(Gram),Bindki,2016-10-04,4790.0,1.0,33.2,clear
+391,Bengal Gram(Gram),Fatehpur,2016-10-04,5190.0,5.5,33.2,clear
+392,Bengal Gram(Gram),Jahanabad,2016-10-04,5000.0,1.4,33.2,clear
+393,Arhar (Tur/Red Gram),Bindki,2016-11-04,7775.0,1.3,27.2,clear
+394,Bengal Gram(Gram),Bindki,2016-11-04,4780.0,1.0,27.2,clear
+395,Bengal Gram(Gram),Fatehpur,2016-11-04,5185.0,4.5,27.2,clear
+396,Arhar (Tur/Red Gram),Bindki,2016-12-04,7760.0,1.0,21.2,clear
+397,Arhar (Tur/Red Gram),Jahanabad,2016-12-04,8000.0,1.5,21.2,clear
+398,Bengal Gram(Gram),Bindki,2016-12-04,4770.0,1.2,21.2,clear
+399,Bengal Gram(Gram),Fatehpur,2016-12-04,5200.0,6.0,21.2,clear
+400,Bengal Gram(Gram),Jahanabad,2016-12-04,4950.0,1.5,21.2,clear
+401,Arhar (Tur/Red Gram),Bindki,2016-04-13,7765.0,1.6,36.2,clear
+402,Arhar (Tur/Red Gram),Jahanabad,2016-04-13,7900.0,1.4,36.2,clear
+403,Bengal Gram(Gram),Bindki,2016-04-13,4785.0,1.1,36.2,clear
+404,Bengal Gram(Gram),Jahanabad,2016-04-13,4900.0,1.6,36.2,clear
+405,Arhar (Tur/Red Gram),Bindki,2016-04-17,7755.0,2.2,36.2,clear
+406,Arhar (Tur/Red Gram),Jahanabad,2016-04-17,8050.0,1.4,36.2,clear
+407,Bengal Gram(Gram),Bindki,2016-04-17,4915.0,1.0,36.2,clear
+408,Bengal Gram(Gram),Fatehpur,2016-04-17,5230.0,6.5,36.2,clear
+409,Bengal Gram(Gram),Jahanabad,2016-04-17,4980.0,1.4,36.2,clear
+410,Arhar (Tur/Red Gram),Bindki,2016-04-18,7755.0,2.2,39.2,clear
+411,Bengal Gram(Gram),Bindki,2016-04-18,4915.0,1.0,39.2,clear
+412,Bengal Gram(Gram),Fatehpur,2016-04-18,5235.0,7.5,39.2,clear
+413,Arhar (Tur/Red Gram),Bindki,2016-04-22,7765.0,1.2,40.2,clear
+414,Bengal Gram(Gram),Bindki,2016-04-22,5050.0,1.0,40.2,clear
+415,Bengal Gram(Gram),Fatehpur,2016-04-22,5400.0,7.0,40.2,clear
+416,Arhar (Tur/Red Gram),Bindki,2016-04-24,7770.0,1.1,37.2,clear
+417,Arhar (Tur/Red Gram),Jahanabad,2016-04-24,8050.0,1.0,37.2,clear
+418,Bengal Gram(Gram),Bindki,2016-04-24,5055.0,1.2,37.2,clear
+419,Bengal Gram(Gram),Fatehpur,2016-04-24,5440.0,5.0,37.2,clear
+420,Bengal Gram(Gram),Jahanabad,2016-04-24,4850.0,1.4,37.2,clear
+421,Arhar (Tur/Red Gram),Bindki,2016-04-25,7785.0,1.0,37.2,clear
+422,Bengal Gram(Gram),Bindki,2016-04-25,5060.0,1.1,37.2,clear
+423,Bengal Gram(Gram),Fatehpur,2016-04-25,5450.0,6.0,37.2,clear
+424,Arhar (Tur/Red Gram),Bindki,2016-04-26,7780.0,1.3,38.2,clear
+425,Arhar (Tur/Red Gram),Jahanabad,2016-04-26,8050.0,1.0,38.2,clear
+426,Bengal Gram(Gram),Bindki,2016-04-26,5070.0,1.2,38.2,clear
+427,Bengal Gram(Gram),Fatehpur,2016-04-26,5455.0,5.0,38.2,clear
+428,Bengal Gram(Gram),Jahanabad,2016-04-26,4850.0,1.4,38.2,clear
+429,Arhar (Tur/Red Gram),Bindki,2016-04-27,7800.0,2.2,37.2,clear
+430,Arhar (Tur/Red Gram),Jahanabad,2016-04-27,8070.0,1.0,37.2,clear
+431,Bengal Gram(Gram),Bindki,2016-04-27,5070.0,2.0,37.2,clear
+432,Bengal Gram(Gram),Jahanabad,2016-04-27,5000.0,1.2,37.2,clear
+433,Arhar (Tur/Red Gram),Bindki,2016-04-28,7815.0,2.6,40.2,clear
+434,Arhar (Tur/Red Gram),Jahanabad,2016-04-28,8100.0,1.0,40.2,clear
+435,Bengal Gram(Gram),Bindki,2016-04-28,5180.0,1.3,40.2,clear
+436,Bengal Gram(Gram),Jahanabad,2016-04-28,5200.0,1.0,40.2,clear
+437,Arhar (Tur/Red Gram),Bindki,2016-04-29,7820.0,1.7,40.2,clear
+438,Arhar (Tur/Red Gram),Jahanabad,2016-04-29,8150.0,1.0,40.2,clear
+439,Bengal Gram(Gram),Bindki,2016-04-29,5185.0,1.0,40.2,clear
+440,Bengal Gram(Gram),Fatehpur,2016-04-29,5470.0,2.0,40.2,clear
+441,Bengal Gram(Gram),Jahanabad,2016-04-29,5400.0,1.0,40.2,clear
+442,Arhar (Tur/Red Gram),Bindki,2016-01-05,7830.0,1.6,21.2,clear
+443,Bengal Gram(Gram),Bindki,2016-01-05,5200.0,1.3,21.2,clear
+444,Bengal Gram(Gram),Fatehpur,2016-01-05,5485.0,2.5,21.2,clear
+445,Bengal Gram(Gram),Jahanabad,2016-01-05,5600.0,0.0,21.2,clear
+446,Arhar (Tur/Red Gram),Bindki,2016-02-05,7835.0,1.4,21.2,clear
+447,Bengal Gram(Gram),Bindki,2016-02-05,5210.0,1.2,21.2,clear
+448,Arhar (Tur/Red Gram),Bindki,2016-03-05,7850.0,1.8,25.2,clear
+449,Bengal Gram(Gram),Bindki,2016-03-05,5225.0,1.4,25.2,clear
+450,Bengal Gram(Gram),Jahanabad,2016-03-05,5700.0,0.0,25.2,clear
+451,Arhar (Tur/Red Gram),Bindki,2016-04-05,7855.0,2.1,37.2,clear
+452,Arhar (Tur/Red Gram),Jahanabad,2016-04-05,8230.0,0.0,37.2,clear
+453,Bengal Gram(Gram),Bindki,2016-04-05,5250.0,1.4,37.2,clear
+454,Bengal Gram(Gram),Fatehpur,2016-04-05,5500.0,3.0,37.2,clear
+455,Bengal Gram(Gram),Jahanabad,2016-04-05,5750.0,0.0,37.2,clear
+456,Arhar (Tur/Red Gram),Bindki,2016-05-05,7860.0,1.6,36.2,clear
+457,Arhar (Tur/Red Gram),Jahanabad,2016-05-05,8200.0,1.0,36.2,clear
+458,Bengal Gram(Gram),Bindki,2016-05-05,5260.0,1.0,36.2,clear
+459,Bengal Gram(Gram),Jahanabad,2016-05-05,6000.0,5.0,36.2,clear
+460,Arhar (Tur/Red Gram),Bindki,2016-06-05,7865.0,1.4,34.2,clear
+461,Arhar (Tur/Red Gram),Jahanabad,2016-06-05,8200.0,1.0,34.2,clear
+462,Bengal Gram(Gram),Bindki,2016-06-05,5270.0,1.2,34.2,clear
+463,Bengal Gram(Gram),Fatehpur,2016-06-05,5515.0,2.5,34.2,clear
+464,Bengal Gram(Gram),Jahanabad,2016-06-05,6050.0,0.0,34.2,clear
+465,Arhar (Tur/Red Gram),Bindki,2016-08-05,7870.0,1.6,33.2,clear
+466,Arhar (Tur/Red Gram),Jahanabad,2016-08-05,8200.0,0.0,33.2,clear
+467,Bengal Gram(Gram),Bindki,2016-08-05,5275.0,1.0,33.2,clear
+468,Bengal Gram(Gram),Fatehpur,2016-08-05,5525.0,2.5,33.2,clear
+469,Bengal Gram(Gram),Jahanabad,2016-08-05,5700.0,0.0,33.2,clear
+470,Arhar (Tur/Red Gram),Bindki,2016-09-05,7880.0,1.3,32.2,clear
+471,Bengal Gram(Gram),Bindki,2016-09-05,5280.0,1.2,32.2,clear
+472,Bengal Gram(Gram),Fatehpur,2016-09-05,5530.0,2.8,32.2,clear
+473,Arhar (Tur/Red Gram),Bindki,2016-10-05,7885.0,1.0,31.2,clear
+474,Arhar (Tur/Red Gram),Jahanabad,2016-10-05,8100.0,1.0,31.2,clear
+475,Bengal Gram(Gram),Bindki,2016-10-05,5285.0,1.3,31.2,clear
+476,Bengal Gram(Gram),Fatehpur,2016-10-05,5580.0,3.5,31.2,clear
+477,Bengal Gram(Gram),Jahanabad,2016-10-05,5650.0,0.0,31.2,clear
+478,Arhar (Tur/Red Gram),Bindki,2016-11-05,7890.0,1.7,27.2,clear
+479,Arhar (Tur/Red Gram),Jahanabad,2016-11-05,8150.0,0.0,27.2,clear
+480,Bengal Gram(Gram),Bindki,2016-11-05,5290.0,1.6,27.2,clear
+481,Bengal Gram(Gram),Fatehpur,2016-11-05,5600.0,4.0,27.2,clear
+482,Bengal Gram(Gram),Jahanabad,2016-11-05,5600.0,6.0,27.2,clear
+483,Arhar (Tur/Red Gram),Bindki,2016-12-05,7885.0,1.3,20.2,clear
+484,Arhar (Tur/Red Gram),Jahanabad,2016-12-05,3850.0,1.2,20.2,clear
+485,Bengal Gram(Gram),Bindki,2016-12-05,5285.0,1.3,20.2,clear
+486,Bengal Gram(Gram),Jahanabad,2016-12-05,5600.0,0.0,20.2,clear
+487,Arhar (Tur/Red Gram),Bindki,2016-05-13,7885.0,1.4,40.2,clear
+488,Arhar (Tur/Red Gram),Jahanabad,2016-05-13,8150.0,0.0,40.2,clear
+489,Bengal Gram(Gram),Bindki,2016-05-13,5250.0,1.2,40.2,clear
+490,Bengal Gram(Gram),Fatehpur,2016-05-13,5615.0,3.5,40.2,clear
+491,Bengal Gram(Gram),Jahanabad,2016-05-13,5600.0,0.0,40.2,clear
+492,Arhar (Tur/Red Gram),Bindki,2016-05-15,7880.0,1.8,41.2,clear
+493,Arhar (Tur/Red Gram),Jahanabad,2016-05-15,8300.0,0.0,41.2,clear
+494,Bengal Gram(Gram),Fatehpur,2016-05-15,5625.0,2.2,41.2,clear
+495,Bengal Gram(Gram),Jahanabad,2016-05-15,5980.0,0.0,41.2,clear
+496,Arhar (Tur/Red Gram),Bindki,2016-05-17,7880.0,10.0,36.2,clear
+497,Arhar (Tur/Red Gram),Jahanabad,2016-05-17,8320.0,0.0,36.2,clear
+498,Bengal Gram(Gram),Bindki,2016-05-17,5250.0,1.0,36.2,clear
+499,Bengal Gram(Gram),Fatehpur,2016-05-17,5635.0,3.5,36.2,clear
+500,Bengal Gram(Gram),Jahanabad,2016-05-17,5550.0,0.0,36.2,clear
+501,Arhar (Tur/Red Gram),Bindki,2016-05-18,7890.0,1.3,42.2,clear
+502,Arhar (Tur/Red Gram),Jahanabad,2016-05-18,8400.0,0.0,42.2,clear
+503,Bengal Gram(Gram),Bindki,2016-05-18,5255.0,1.3,42.2,clear
+504,Bengal Gram(Gram),Fatehpur,2016-05-18,5640.0,2.5,42.2,clear
+505,Bengal Gram(Gram),Jahanabad,2016-05-18,5600.0,0.0,42.2,clear
+506,Arhar (Tur/Red Gram),Bindki,2016-05-20,7900.0,1.0,39.2,clear
+507,Arhar (Tur/Red Gram),Jahanabad,2016-05-20,8500.0,0.0,39.2,clear
+508,Bengal Gram(Gram),Bindki,2016-05-20,5225.0,1.4,39.2,clear
+509,Bengal Gram(Gram),Fatehpur,2016-05-20,5680.0,2.8,39.2,clear
+510,Bengal Gram(Gram),Jahanabad,2016-05-20,5600.0,0.0,39.2,clear
+511,Arhar (Tur/Red Gram),Bindki,2016-05-22,7920.0,1.1,41.2,clear
+512,Arhar (Tur/Red Gram),Jahanabad,2016-05-22,8350.0,0.0,41.2,clear
+513,Bengal Gram(Gram),Bindki,2016-05-22,5335.0,1.3,41.2,clear
+514,Arhar (Tur/Red Gram),Bindki,2016-05-23,7935.0,1.4,35.2,clear
+515,Bengal Gram(Gram),Bindki,2016-05-23,5340.0,1.1,35.2,clear
+516,Bengal Gram(Gram),Fatehpur,2016-05-23,5710.0,2.0,35.2,clear
+517,Arhar (Tur/Red Gram),Bindki,2016-05-25,7930.0,1.5,30.2,clear
+518,Arhar (Tur/Red Gram),Jahanabad,2016-05-25,8340.0,0.0,30.2,clear
+519,Bengal Gram(Gram),Bindki,2016-05-25,5420.0,1.4,30.2,clear
+520,Bengal Gram(Gram),Fatehpur,2016-05-25,5720.0,3.0,30.2,clear
+521,Bengal Gram(Gram),Jahanabad,2016-05-25,5700.0,1.2,30.2,clear
+522,Arhar (Tur/Red Gram),Bindki,2016-05-26,7935.0,1.3,37.2,clear
+523,Arhar (Tur/Red Gram),Jahanabad,2016-05-26,8400.0,0.0,37.2,clear
+524,Bengal Gram(Gram),Bindki,2016-05-26,5430.0,1.1,37.2,clear
+525,Bengal Gram(Gram),Jahanabad,2016-05-26,5700.0,1.0,37.2,clear
+526,Arhar (Tur/Red Gram),Bindki,2016-05-27,7950.0,12.0,39.2,clear
+527,Arhar (Tur/Red Gram),Jahanabad,2016-05-27,8430.0,0.0,39.2,clear
+528,Bengal Gram(Gram),Bindki,2016-05-27,5500.0,1.3,39.2,clear
+529,Bengal Gram(Gram),Fatehpur,2016-05-27,5725.0,4.5,39.2,clear
+530,Bengal Gram(Gram),Jahanabad,2016-05-27,5725.0,0.0,39.2,clear
+531,Arhar (Tur/Red Gram),Bindki,2016-05-29,7955.0,1.5,36.2,clear
+532,Arhar (Tur/Red Gram),Jahanabad,2016-05-29,8500.0,0.0,36.2,clear
+533,Bengal Gram(Gram),Bindki,2016-05-29,5550.0,1.5,36.2,clear
+534,Bengal Gram(Gram),Fatehpur,2016-05-29,5750.0,4.0,36.2,clear
+535,Bengal Gram(Gram),Jahanabad,2016-05-29,5800.0,1.2,36.2,clear
+536,Arhar (Tur/Red Gram),Bindki,2016-05-30,7960.0,1.3,36.2,clear
+537,Bengal Gram(Gram),Bindki,2016-05-30,5560.0,1.3,36.2,clear
+538,Bengal Gram(Gram),Fatehpur,2016-05-30,5780.0,3.0,36.2,clear
+539,Arhar (Tur/Red Gram),Bindki,2016-05-31,7970.0,1.6,36.2,clear
+540,Arhar (Tur/Red Gram),Jahanabad,2016-05-31,8600.0,0.0,36.2,clear
+541,Bengal Gram(Gram),Bindki,2016-05-31,5565.0,1.6,36.2,clear
+542,Bengal Gram(Gram),Fatehpur,2016-05-31,5800.0,2.5,36.2,clear
+543,Bengal Gram(Gram),Jahanabad,2016-05-31,5850.0,1.0,36.2,clear
+544,Arhar (Tur/Red Gram),Bindki,2016-01-06,8015.0,1.4,23.2,clear
+545,Arhar (Tur/Red Gram),Jahanabad,2016-01-06,8700.0,0.0,23.2,clear
+546,Bengal Gram(Gram),Bindki,2016-01-06,5580.0,1.2,23.2,clear
+547,Bengal Gram(Gram),Fatehpur,2016-01-06,5830.0,4.5,23.2,clear
+548,Bengal Gram(Gram),Jahanabad,2016-01-06,5900.0,0.0,23.2,clear
+549,Arhar (Tur/Red Gram),Bindki,2016-02-06,8025.0,1.3,14.2,clear
+550,Arhar (Tur/Red Gram),Jahanabad,2016-02-06,8650.0,0.0,14.2,clear
+551,Bengal Gram(Gram),Bindki,2016-02-06,5585.0,1.0,14.2,clear
+552,Bengal Gram(Gram),Jahanabad,2016-02-06,5950.0,0.0,14.2,clear
+553,Arhar (Tur/Red Gram),Bindki,2016-03-06,8020.0,1.0,30.2,clear
+554,Arhar (Tur/Red Gram),Jahanabad,2016-03-06,8600.0,0.0,30.2,clear
+555,Bengal Gram(Gram),Bindki,2016-03-06,5590.0,11.0,30.2,clear
+556,Bengal Gram(Gram),Fatehpur,2016-03-06,5840.0,2.0,30.2,clear
+557,Bengal Gram(Gram),Jahanabad,2016-03-06,12040.0,0.0,30.2,clear
+558,Arhar (Tur/Red Gram),Bindki,2016-05-06,8025.0,1.1,34.2,clear
+559,Arhar (Tur/Red Gram),Jahanabad,2016-05-06,8670.0,0.0,34.2,clear
+560,Bengal Gram(Gram),Bindki,2016-05-06,5595.0,1.2,34.2,clear
+561,Bengal Gram(Gram),Fatehpur,2016-05-06,5855.0,4.5,34.2,clear
+562,Bengal Gram(Gram),Jahanabad,2016-05-06,5830.0,1.0,34.2,clear
+563,Arhar (Tur/Red Gram),Bindki,2016-06-06,8030.0,1.8,41.2,clear
+564,Bengal Gram(Gram),Bindki,2016-06-06,5613.0,1.3,41.2,clear
+565,Bengal Gram(Gram),Fatehpur,2016-06-06,5860.0,4.0,41.2,clear
+566,Arhar (Tur/Red Gram),Bindki,2016-07-06,8035.0,2.0,29.2,clear
+567,Arhar (Tur/Red Gram),Jahanabad,2016-07-06,8700.0,0.0,29.2,clear
+568,Bengal Gram(Gram),Bindki,2016-07-06,5620.0,1.4,29.2,clear
+569,Bengal Gram(Gram),Fatehpur,2016-07-06,5850.0,2.5,29.2,clear
+570,Bengal Gram(Gram),Jahanabad,2016-07-06,5800.0,1.2,29.2,clear
+571,Arhar (Tur/Red Gram),Bindki,2016-08-06,8040.0,1.8,30.2,clear
+572,Arhar (Tur/Red Gram),Jahanabad,2016-08-06,8600.0,6.0,30.2,clear
+573,Bengal Gram(Gram),Bindki,2016-08-06,5625.0,1.6,30.2,clear
+574,Bengal Gram(Gram),Fatehpur,2016-08-06,5860.0,3.0,30.2,clear
+575,Bengal Gram(Gram),Jahanabad,2016-08-06,5750.0,1.2,30.2,clear
+576,Arhar (Tur/Red Gram),Bindki,2016-09-06,8035.0,1.6,33.2,clear
+577,Arhar (Tur/Red Gram),Jahanabad,2016-09-06,8550.0,0.0,33.2,clear
+578,Bengal Gram(Gram),Bindki,2016-09-06,5630.0,1.1,33.2,clear
+579,Bengal Gram(Gram),Jahanabad,2016-09-06,5730.0,1.0,33.2,clear
+580,Arhar (Tur/Red Gram),Bindki,2016-10-06,8050.0,1.3,29.2,clear
+581,Arhar (Tur/Red Gram),Jahanabad,2016-10-06,8500.0,0.0,29.2,clear
+582,Bengal Gram(Gram),Bindki,2016-10-06,5640.0,1.0,29.2,clear
+583,Bengal Gram(Gram),Fatehpur,2016-10-06,5855.0,3.5,29.2,clear
+584,Bengal Gram(Gram),Jahanabad,2016-10-06,5700.0,1.0,29.2,clear
+585,Arhar (Tur/Red Gram),Bindki,2016-12-06,8075.0,2.0,19.2,clear
+586,Arhar (Tur/Red Gram),Jahanabad,2016-12-06,8560.0,0.0,19.2,clear
+587,Bengal Gram(Gram),Bindki,2016-12-06,5665.0,1.3,19.2,clear
+588,Bengal Gram(Gram),Fatehpur,2016-12-06,5865.0,3.0,19.2,clear
+589,Bengal Gram(Gram),Jahanabad,2016-12-06,5720.0,1.0,19.2,clear
+590,Arhar (Tur/Red Gram),Bindki,2016-06-13,8080.0,1.1,33.2,clear
+591,Bengal Gram(Gram),Bindki,2016-06-13,5680.0,1.1,33.2,clear
+592,Bengal Gram(Gram),Fatehpur,2016-06-13,5870.0,3.5,33.2,clear
+593,Arhar (Tur/Red Gram),Bindki,2016-06-14,8085.0,1.0,40.2,clear
+594,Arhar (Tur/Red Gram),Jahanabad,2016-06-14,8580.0,0.0,40.2,clear
+595,Bengal Gram(Gram),Bindki,2016-06-14,5700.0,1.0,40.2,clear
+596,Bengal Gram(Gram),Fatehpur,2016-06-14,5900.0,3.0,40.2,clear
+597,Bengal Gram(Gram),Jahanabad,2016-06-14,5680.0,1.4,40.2,clear
+598,Arhar (Tur/Red Gram),Bindki,2016-06-16,8085.0,1.1,37.2,clear
+599,Arhar (Tur/Red Gram),Jahanabad,2016-06-16,8600.0,0.0,37.2,clear
+600,Bengal Gram(Gram),Bindki,2016-06-16,5740.0,1.1,37.2,clear
+601,Bengal Gram(Gram),Jahanabad,2016-06-16,5600.0,1.0,37.2,clear
+602,Arhar (Tur/Red Gram),Bindki,2016-06-17,8100.0,1.0,32.2,clear
+603,Bengal Gram(Gram),Bindki,2016-06-17,5750.0,1.0,32.2,clear
+604,Arhar (Tur/Red Gram),Bindki,2016-06-23,8115.0,2.0,34.2,clear
+605,Arhar (Tur/Red Gram),Jahanabad,2016-06-23,8500.0,0.0,34.2,clear
+606,Bengal Gram(Gram),Bindki,2016-06-23,5830.0,1.4,34.2,clear
+607,Bengal Gram(Gram),Jahanabad,2016-06-23,5500.0,1.2,34.2,clear
+608,Arhar (Tur/Red Gram),Bindki,2016-06-24,8120.0,1.8,33.2,clear
+609,Arhar (Tur/Red Gram),Jahanabad,2016-06-24,8450.0,0.0,33.2,clear
+610,Arhar (Tur/Red Gram),Kishunpur,2016-06-24,8300.0,17.0,33.2,clear
+611,Bengal Gram(Gram),Bindki,2016-06-24,5850.0,1.0,33.2,clear
+612,Bengal Gram(Gram),Fatehpur,2016-06-24,6140.0,3.0,33.2,clear
+613,Bengal Gram(Gram),Jahanabad,2016-06-24,5600.0,1.0,33.2,clear
+614,Arhar (Tur/Red Gram),Bindki,2016-06-26,8190.0,1.2,36.2,clear
+615,Arhar (Tur/Red Gram),Jahanabad,2016-06-26,8450.0,0.0,36.2,clear
+616,Bengal Gram(Gram),Bindki,2016-06-26,5890.0,1.3,36.2,clear
+617,Bengal Gram(Gram),Fatehpur,2016-06-26,6155.0,3.0,36.2,clear
+618,Bengal Gram(Gram),Jahanabad,2016-06-26,5700.0,0.0,36.2,clear
+619,Arhar (Tur/Red Gram),Bindki,2016-06-27,8200.0,0.0,37.2,clear
+620,Bengal Gram(Gram),Fatehpur,2016-06-27,6160.0,2.0,37.2,clear
+621,Arhar (Tur/Red Gram),Bindki,2016-06-28,8210.0,1.1,37.2,clear
+622,Arhar (Tur/Red Gram),Jahanabad,2016-06-28,8450.0,0.0,37.2,clear
+623,Bengal Gram(Gram),Bindki,2016-06-28,5910.0,1.0,37.2,clear
+624,Bengal Gram(Gram),Fatehpur,2016-06-28,6220.0,4.0,37.2,clear
+625,Bengal Gram(Gram),Jahanabad,2016-06-28,5720.0,0.0,37.2,clear
+626,Arhar (Tur/Red Gram),Bindki,2016-06-29,8215.0,1.6,38.2,clear
+627,Arhar (Tur/Red Gram),Jahanabad,2016-06-29,8400.0,0.0,38.2,clear
+628,Bengal Gram(Gram),Bindki,2016-06-29,5925.0,1.1,38.2,clear
+629,Bengal Gram(Gram),Fatehpur,2016-06-29,6250.0,3.0,38.2,clear
+630,Bengal Gram(Gram),Jahanabad,2016-06-29,5700.0,0.0,38.2,clear
+631,Arhar (Tur/Red Gram),Bindki,2016-06-30,8210.0,1.8,39.2,clear
+632,Bengal Gram(Gram),Bindki,2016-06-30,5950.0,1.4,39.2,clear
+633,Bengal Gram(Gram),Jahanabad,2016-06-30,5700.0,1.0,39.2,clear
+634,Arhar (Tur/Red Gram),Bindki,2016-01-07,8200.0,1.9,24.2,clear
+635,Arhar (Tur/Red Gram),Jahanabad,2016-01-07,8340.0,0.0,24.2,clear
+636,Bengal Gram(Gram),Bindki,2016-01-07,5960.0,1.3,24.2,clear
+637,Bengal Gram(Gram),Jahanabad,2016-01-07,5800.0,1.0,24.2,clear
+638,Green Gram (Moong),Bindki,2016-01-07,5430.0,90.0,24.2,clear
+639,Arhar (Tur/Red Gram),Bindki,2016-04-07,8215.0,1.2,34.2,clear
+640,Bengal Gram(Gram),Bindki,2016-04-07,6025.0,1.1,34.2,clear
+641,Bengal Gram(Gram),Fatehpur,2016-04-07,7000.0,2.0,34.2,clear
+642,Green Gram (Moong),Bindki,2016-04-07,5250.0,80.0,34.2,clear
+643,Arhar (Tur/Red Gram),Bindki,2016-06-07,8200.0,1.0,34.2,clear
+644,Arhar (Tur/Red Gram),Jahanabad,2016-06-07,8250.0,0.0,34.2,clear
+645,Bengal Gram(Gram),Bindki,2016-06-07,6050.0,1.3,34.2,clear
+646,Bengal Gram(Gram),Fatehpur,2016-06-07,7100.0,3.5,34.2,clear
+647,Bengal Gram(Gram),Jahanabad,2016-06-07,6150.0,1.0,34.2,clear
+648,Green Gram (Moong),Bindki,2016-06-07,5270.0,110.0,34.2,clear
+649,Arhar (Tur/Red Gram),Bindki,2016-10-28,8406.0,27.0,27.2,clear
+650,Arhar (Tur/Red Gram),Jahanabad,2016-10-28,8420.0,13.0,27.2,clear
+651,Arhar (Tur/Red Gram),Khaga,2016-10-28,8413.0,19.0,27.2,clear
+652,Arhar (Tur/Red Gram),Kishunpur,2016-10-28,8400.0,12.5,27.2,clear
+653,Bengal Gram(Gram),Bindki,2016-10-28,9188.0,19.5,27.2,clear
+654,Bengal Gram(Gram),Fatehpur,2016-10-28,9465.0,1.2,27.2,clear
+655,Bengal Gram(Gram),Jahanabad,2016-10-28,9156.0,19.0,27.2,clear
+656,Bengal Gram(Gram),Khaga,2016-10-28,9200.0,17.5,27.2,clear
+657,Green Gram (Moong),Bindki,2016-10-28,4706.0,1209.0,27.2,clear
+658,Arhar (Tur/Red Gram),Jahanabad,2016-01-01,8100.0,0.0,21.2,clear
+659,Bengal Gram(Gram),Bindki,2016-01-01,4975.0,1.1,21.2,clear
+660,Bengal Gram(Gram),Fatehpur,2016-01-01,5600.0,5.5,21.2,clear
+661,Bengal Gram(Gram),Jahanabad,2016-01-01,5160.0,0.0,21.2,clear
+662,Arhar (Tur/Red Gram),Jahanabad,2016-02-01,8200.0,0.0,23.2,clear
+663,Bengal Gram(Gram),Fatehpur,2016-02-01,5580.0,6.0,23.2,clear
+664,Bengal Gram(Gram),Jahanabad,2016-02-01,5150.0,0.0,23.2,clear
+665,Arhar (Tur/Red Gram),Jahanabad,2016-06-01,7800.0,1.0,40.2,clear
+666,Bengal Gram(Gram),Jahanabad,2016-06-01,5050.0,0.0,40.2,clear
+667,Arhar (Tur/Red Gram),Jahanabad,2016-09-01,7690.0,1.0,31.2,clear
+668,Bengal Gram(Gram),Fatehpur,2016-09-01,5575.0,7.0,31.2,clear
+669,Bengal Gram(Gram),Jahanabad,2016-09-01,5060.0,0.0,31.2,clear
+670,Arhar (Tur/Red Gram),Jahanabad,2016-01-14,7550.0,1.0,23.2,clear
+671,Bengal Gram(Gram),Jahanabad,2016-01-14,5060.0,0.0,23.2,clear
+672,Arhar (Tur/Red Gram),Jahanabad,2016-01-16,7500.0,1.0,18.2,clear
+673,Bengal Gram(Gram),Fatehpur,2016-01-16,5580.0,4.0,18.2,clear
+674,Bengal Gram(Gram),Jahanabad,2016-01-16,5080.0,0.0,18.2,clear
+675,Arhar (Tur/Red Gram),Jahanabad,2016-01-22,7550.0,0.0,14.2,clear
+676,Bengal Gram(Gram),Fatehpur,2016-01-22,5485.0,2.5,14.2,clear
+677,Bengal Gram(Gram),Jahanabad,2016-01-22,5130.0,0.0,14.2,clear
+678,Arhar (Tur/Red Gram),Jahanabad,2016-01-30,7350.0,6.0,26.2,clear
+679,Bengal Gram(Gram),Fatehpur,2016-01-30,5485.0,1.5,26.2,clear
+680,Bengal Gram(Gram),Jahanabad,2016-01-30,5170.0,0.0,26.2,clear
+681,Arhar (Tur/Red Gram),Jahanabad,2016-06-02,7580.0,0.0,41.2,clear
+682,Bengal Gram(Gram),Fatehpur,2016-06-02,5290.0,6.0,41.2,clear
+683,Bengal Gram(Gram),Jahanabad,2016-06-02,5325.0,0.0,41.2,clear
+684,Bengal Gram(Gram),Khaga,2016-06-02,5260.0,2.0,41.2,clear
+685,Arhar (Tur/Red Gram),Jahanabad,2016-02-13,7780.0,0.0,26.2,clear
+686,Bengal Gram(Gram),Jahanabad,2016-02-13,5470.0,0.0,26.2,clear
+687,Arhar (Tur/Red Gram),Jahanabad,2016-02-20,7960.0,0.0,27.2,clear
+688,Bengal Gram(Gram),Fatehpur,2016-02-20,5315.0,2.5,27.2,clear
+689,Bengal Gram(Gram),Jahanabad,2016-02-20,5650.0,0.0,27.2,clear
+690,Arhar (Tur/Red Gram),Jahanabad,2016-02-27,8120.0,0.0,27.2,clear
+691,Bengal Gram(Gram),Fatehpur,2016-02-27,5330.0,6.5,27.2,clear
+692,Bengal Gram(Gram),Jahanabad,2016-02-27,5800.0,0.0,27.2,clear
+693,Arhar (Tur/Red Gram),Jahanabad,2016-03-03,8100.0,0.0,31.2,clear
+694,Bengal Gram(Gram),Fatehpur,2016-03-03,5345.0,2.5,31.2,clear
+695,Bengal Gram(Gram),Jahanabad,2016-03-03,5900.0,0.0,31.2,clear
+696,Arhar (Tur/Red Gram),Jahanabad,2016-04-03,8050.0,1.0,37.2,clear
+697,Bengal Gram(Gram),Fatehpur,2016-04-03,5350.0,3.0,37.2,clear
+698,Bengal Gram(Gram),Jahanabad,2016-04-03,5900.0,0.0,37.2,clear
+699,Arhar (Tur/Red Gram),Jahanabad,2016-05-03,8000.0,1.0,37.2,clear
+700,Bengal Gram(Gram),Jahanabad,2016-05-03,5900.0,1.0,37.2,clear
+701,Arhar (Tur/Red Gram),Jahanabad,2016-12-03,8040.0,1.5,20.2,clear
+702,Bengal Gram(Gram),Fatehpur,2016-12-03,5335.0,7.0,20.2,clear
+703,Bengal Gram(Gram),Jahanabad,2016-12-03,6050.0,1.0,20.2,clear
+704,Arhar (Tur/Red Gram),Jahanabad,2016-03-25,8020.0,1.2,35.2,clear
+705,Bengal Gram(Gram),Fatehpur,2016-03-25,5265.0,2.5,35.2,clear
+706,Bengal Gram(Gram),Jahanabad,2016-03-25,6025.0,1.2,35.2,clear
+707,Arhar (Tur/Red Gram),Jahanabad,2016-03-26,8020.0,1.2,35.2,clear
+708,Arhar (Tur/Red Gram),Kishunpur,2016-03-26,7810.0,14.5,35.2,clear
+709,Bengal Gram(Gram),Fatehpur,2016-03-26,5270.0,2.0,35.2,clear
+710,Bengal Gram(Gram),Jahanabad,2016-03-26,6025.0,1.2,35.2,clear
+711,Arhar (Tur/Red Gram),Jahanabad,2016-02-04,8000.0,1.0,21.2,clear
+712,Bengal Gram(Gram),Fatehpur,2016-02-04,5210.0,4.0,21.2,clear
+713,Bengal Gram(Gram),Jahanabad,2016-02-04,5300.0,1.5,21.2,clear
+714,Arhar (Tur/Red Gram),Jahanabad,2016-09-04,8020.0,1.5,32.2,clear
+715,Bengal Gram(Gram),Fatehpur,2016-09-04,5195.0,5.0,32.2,clear
+716,Bengal Gram(Gram),Jahanabad,2016-09-04,5040.0,1.6,32.2,clear
+717,Arhar (Tur/Red Gram),Jahanabad,2016-04-14,8000.0,1.4,31.2,clear
+718,Bengal Gram(Gram),Jahanabad,2016-04-14,4850.0,1.8,31.2,clear
+719,Arhar (Tur/Red Gram),Jahanabad,2016-04-15,8060.0,1.4,39.2,clear
+720,Bengal Gram(Gram),Fatehpur,2016-04-15,5210.0,6.0,39.2,clear
+721,Bengal Gram(Gram),Jahanabad,2016-04-15,4870.0,1.6,39.2,clear
+722,Arhar (Tur/Red Gram),Jahanabad,2016-04-16,8100.0,1.2,40.2,clear
+723,Arhar (Tur/Red Gram),Khaga,2016-04-16,7815.0,1.85,40.2,clear
+724,Bengal Gram(Gram),Fatehpur,2016-04-16,5220.0,7.0,40.2,clear
+725,Bengal Gram(Gram),Jahanabad,2016-04-16,5000.0,1.5,40.2,clear
+726,Bengal Gram(Gram),Khaga,2016-04-16,5200.0,7.55,40.2,clear
+727,Arhar (Tur/Red Gram),Jahanabad,2016-04-19,8100.0,1.0,40.2,clear
+728,Bengal Gram(Gram),Fatehpur,2016-04-19,5300.0,6.0,40.2,clear
+729,Bengal Gram(Gram),Jahanabad,2016-04-19,4950.0,1.4,40.2,clear
+730,Arhar (Tur/Red Gram),Jahanabad,2016-04-20,8080.0,1.2,38.2,clear
+731,Bengal Gram(Gram),Fatehpur,2016-04-20,5350.0,6.5,38.2,clear
+732,Bengal Gram(Gram),Jahanabad,2016-04-20,4930.0,1.5,38.2,clear
+733,Arhar (Tur/Red Gram),Jahanabad,2016-04-30,8160.0,1.0,40.2,clear
+734,Bengal Gram(Gram),Fatehpur,2016-04-30,5475.0,2.8,40.2,clear
+735,Bengal Gram(Gram),Jahanabad,2016-04-30,5500.0,0.0,40.2,clear
+736,Arhar (Tur/Red Gram),Jahanabad,2016-07-05,8250.0,1.0,32.2,clear
+737,Bengal Gram(Gram),Fatehpur,2016-07-05,5520.0,3.5,32.2,clear
+738,Bengal Gram(Gram),Jahanabad,2016-07-05,5800.0,0.0,32.2,clear
+739,Arhar (Tur/Red Gram),Jahanabad,2016-05-14,8200.0,0.0,41.2,clear
+740,Bengal Gram(Gram),Fatehpur,2016-05-14,5620.0,3.0,41.2,clear
+741,Bengal Gram(Gram),Jahanabad,2016-05-14,5580.0,0.0,41.2,clear
+742,Arhar (Tur/Red Gram),Jahanabad,2016-05-21,8500.0,0.0,39.2,clear
+743,Bengal Gram(Gram),Jahanabad,2016-05-21,5630.0,0.0,39.2,clear
+744,Arhar (Tur/Red Gram),Jahanabad,2016-05-28,8450.0,0.0,35.2,clear
+745,Bengal Gram(Gram),Fatehpur,2016-05-28,5730.0,3.5,35.2,clear
+746,Bengal Gram(Gram),Jahanabad,2016-05-28,5740.0,1.0,35.2,clear
+747,Arhar (Tur/Red Gram),Jahanabad,2016-11-06,8550.0,0.0,27.2,clear
+748,Bengal Gram(Gram),Fatehpur,2016-11-06,5860.0,4.0,27.2,clear
+749,Bengal Gram(Gram),Jahanabad,2016-11-06,2700.0,1.0,27.2,clear
+750,Arhar (Tur/Red Gram),Jahanabad,2016-06-15,8550.0,0.0,27.2,clear
+751,Bengal Gram(Gram),Bindki,2016-06-15,5725.0,1.2,27.2,clear
+752,Bengal Gram(Gram),Fatehpur,2016-06-15,5940.0,4.5,27.2,clear
+753,Bengal Gram(Gram),Jahanabad,2016-06-15,5650.0,1.2,27.2,clear
+754,Arhar (Tur/Red Gram),Jahanabad,2016-06-18,8700.0,0.0,32.2,clear
+755,Bengal Gram(Gram),Fatehpur,2016-06-18,6030.0,4.0,32.2,clear
+756,Bengal Gram(Gram),Jahanabad,2016-06-18,5600.0,0.0,32.2,clear
+757,Arhar (Tur/Red Gram),Jahanabad,2016-06-20,8650.0,0.0,37.2,clear
+758,Bengal Gram(Gram),Fatehpur,2016-06-20,6100.0,5.0,37.2,clear
+759,Bengal Gram(Gram),Jahanabad,2016-06-20,5550.0,1.0,37.2,clear
+760,Arhar (Tur/Red Gram),Jahanabad,2016-06-21,8600.0,0.0,31.2,clear
+761,Bengal Gram(Gram),Fatehpur,2016-06-21,6120.0,4.5,31.2,clear
+762,Bengal Gram(Gram),Jahanabad,2016-06-21,5530.0,1.2,31.2,clear
+763,Arhar (Tur/Red Gram),Jahanabad,2016-06-22,8700.0,0.0,30.2,clear
+764,Bengal Gram(Gram),Fatehpur,2016-06-22,6130.0,3.0,30.2,clear
+765,Bengal Gram(Gram),Jahanabad,2016-06-22,5510.0,1.2,30.2,clear
+766,Arhar (Tur/Red Gram),Jahanabad,2016-06-25,8500.0,0.0,36.2,clear
+767,Bengal Gram(Gram),Fatehpur,2016-06-25,6150.0,4.0,36.2,clear
+768,Bengal Gram(Gram),Jahanabad,2016-06-25,5700.0,0.0,36.2,clear
+769,Arhar (Tur/Red Gram),Jahanabad,2016-02-07,8360.0,0.0,24.2,clear
+770,Bengal Gram(Gram),Jahanabad,2016-02-07,5900.0,0.0,24.2,clear
+771,Arhar (Tur/Red Gram),Jahanabad,2016-03-07,8300.0,0.0,31.2,clear
+772,Bengal Gram(Gram),Jahanabad,2016-03-07,6000.0,1.0,31.2,clear
+773,Arhar (Tur/Red Gram),Jahanabad,2016-05-07,8200.0,0.0,35.2,clear
+774,Bengal Gram(Gram),Fatehpur,2016-05-07,7070.0,2.5,35.2,clear
+775,Bengal Gram(Gram),Jahanabad,2016-05-07,6100.0,1.0,35.2,clear
+776,Arhar (Tur/Red Gram),Jahanabad,2016-07-07,8270.0,0.0,31.2,clear
+777,Bengal Gram(Gram),Jahanabad,2016-07-07,6180.0,1.0,31.2,clear
+778,Arhar (Tur/Red Gram),Jahanabad,2016-08-07,8250.0,0.0,29.2,clear
+779,Bengal Gram(Gram),Jahanabad,2016-08-07,6200.0,1.0,29.2,clear
+780,Arhar (Tur/Red Gram),Jahanabad,2016-09-07,8200.0,0.0,33.2,clear
+781,Bengal Gram(Gram),Jahanabad,2016-09-07,6250.0,1.0,33.2,clear
+782,Arhar (Tur/Red Gram),Jahanabad,2016-10-07,8210.0,0.0,31.2,clear
+783,Bengal Gram(Gram),Jahanabad,2016-10-07,6300.0,1.2,31.2,clear
+784,Arhar (Tur/Red Gram),Jahanabad,2016-12-07,8200.0,0.0,14.2,clear
+785,Bengal Gram(Gram),Jahanabad,2016-12-07,6320.0,1.0,14.2,clear
+786,Arhar (Tur/Red Gram),Jahanabad,2016-07-13,8200.0,0.0,31.2,clear
+787,Bengal Gram(Gram),Fatehpur,2016-07-13,7200.0,4.0,31.2,clear
+788,Bengal Gram(Gram),Jahanabad,2016-07-13,6350.0,1.0,31.2,clear
+789,Arhar (Tur/Red Gram),Jahanabad,2016-07-14,8300.0,0.0,30.2,clear
+790,Bengal Gram(Gram),Jahanabad,2016-07-14,6400.0,0.0,30.2,clear
+791,Arhar (Tur/Red Gram),Jahanabad,2016-07-15,8250.0,6.0,28.2,clear
+792,Bengal Gram(Gram),Fatehpur,2016-07-15,7250.0,2.0,28.2,clear
+793,Arhar (Tur/Red Gram),Jahanabad,2016-07-16,8200.0,0.0,28.2,clear
+794,Bengal Gram(Gram),Fatehpur,2016-07-16,7260.0,1.5,28.2,clear
+795,Bengal Gram(Gram),Jahanabad,2016-07-16,6450.0,0.0,28.2,clear
+796,Arhar (Tur/Red Gram),Jahanabad,2016-07-17,8250.0,0.0,28.2,clear
+797,Bengal Gram(Gram),Fatehpur,2016-07-17,7275.0,1.0,28.2,clear
+798,Bengal Gram(Gram),Jahanabad,2016-07-17,6500.0,1.0,28.2,clear
+799,Arhar (Tur/Red Gram),Jahanabad,2016-07-20,8200.0,0.0,33.2,clear
+800,Bengal Gram(Gram),Jahanabad,2016-07-20,6500.0,0.0,33.2,clear
+801,Arhar (Tur/Red Gram),Jahanabad,2016-07-21,8200.0,0.0,34.2,clear
+802,Bengal Gram(Gram),Jahanabad,2016-07-21,6500.0,0.0,34.2,clear
+803,Arhar (Tur/Red Gram),Jahanabad,2016-07-23,8170.0,0.0,32.2,clear
+804,Bengal Gram(Gram),Fatehpur,2016-07-23,7650.0,0.0,32.2,clear
+805,Bengal Gram(Gram),Jahanabad,2016-07-23,6700.0,0.0,32.2,clear
+806,Arhar (Tur/Red Gram),Jahanabad,2016-07-24,8150.0,0.0,30.2,clear
+807,Bengal Gram(Gram),Fatehpur,2016-07-24,7725.0,0.0,30.2,clear
+808,Bengal Gram(Gram),Jahanabad,2016-07-24,6700.0,0.0,30.2,clear
+809,Arhar (Tur/Red Gram),Jahanabad,2016-07-26,8100.0,0.0,32.2,clear
+810,Bengal Gram(Gram),Jahanabad,2016-07-26,6800.0,0.0,32.2,clear
+811,Arhar (Tur/Red Gram),Jahanabad,2016-07-27,8150.0,0.0,28.2,clear
+812,Bengal Gram(Gram),Fatehpur,2016-07-27,7860.0,0.0,28.2,clear
+813,Bengal Gram(Gram),Jahanabad,2016-07-27,6900.0,0.0,28.2,clear
+814,Arhar (Tur/Red Gram),Jahanabad,2016-07-28,8150.0,0.0,30.2,clear
+815,Bengal Gram(Gram),Jahanabad,2016-07-28,7000.0,0.0,30.2,clear
+816,Arhar (Tur/Red Gram),Jahanabad,2016-07-30,8150.0,0.0,26.2,clear
+817,Bengal Gram(Gram),Jahanabad,2016-07-30,2140.0,0.0,26.2,clear
+818,Arhar (Tur/Red Gram),Jahanabad,2016-07-31,8130.0,0.0,29.2,clear
+819,Bengal Gram(Gram),Fatehpur,2016-07-31,8150.0,0.0,29.2,clear
+820,Bengal Gram(Gram),Jahanabad,2016-07-31,7200.0,0.0,29.2,clear
+821,Arhar (Tur/Red Gram),Jahanabad,2016-05-08,8250.0,0.0,36.2,clear
+822,Bengal Gram(Gram),Fatehpur,2016-05-08,8450.0,1.0,36.2,clear
+823,Bengal Gram(Gram),Jahanabad,2016-05-08,7300.0,0.0,36.2,clear
+824,Arhar (Tur/Red Gram),Jahanabad,2016-06-08,8300.0,3.0,39.2,clear
+825,Bengal Gram(Gram),Fatehpur,2016-06-08,8480.0,0.0,39.2,clear
+826,Bengal Gram(Gram),Jahanabad,2016-06-08,7250.0,0.0,39.2,clear
+827,Arhar (Tur/Red Gram),Jahanabad,2016-07-08,8320.0,0.0,29.2,clear
+828,Bengal Gram(Gram),Fatehpur,2016-07-08,8500.0,0.0,29.2,clear
+829,Bengal Gram(Gram),Jahanabad,2016-07-08,7300.0,0.0,29.2,clear
+830,Arhar (Tur/Red Gram),Jahanabad,2016-09-08,8300.0,0.0,32.2,clear
+831,Bengal Gram(Gram),Fatehpur,2016-09-08,8550.0,0.0,32.2,clear
+832,Bengal Gram(Gram),Jahanabad,2016-09-08,7340.0,0.0,32.2,clear
+833,Arhar (Tur/Red Gram),Jahanabad,2016-10-08,8250.0,0.0,27.2,clear
+834,Bengal Gram(Gram),Fatehpur,2016-10-08,8625.0,1.0,27.2,clear
+835,Bengal Gram(Gram),Jahanabad,2016-10-08,7350.0,0.0,27.2,clear
+836,Arhar (Tur/Red Gram),Jahanabad,2016-11-08,8200.0,0.0,25.2,clear
+837,Bengal Gram(Gram),Jahanabad,2016-11-08,7400.0,0.0,25.2,clear
+838,Arhar (Tur/Red Gram),Jahanabad,2016-08-13,8270.0,0.0,31.2,clear
+839,Bengal Gram(Gram),Fatehpur,2016-08-13,8700.0,0.0,31.2,clear
+840,Bengal Gram(Gram),Jahanabad,2016-08-13,7425.0,0.0,31.2,clear
+841,Arhar (Tur/Red Gram),Jahanabad,2016-08-14,8270.0,0.0,29.2,clear
+842,Bengal Gram(Gram),Fatehpur,2016-08-14,8725.0,1.0,29.2,clear
+843,Bengal Gram(Gram),Jahanabad,2016-08-14,7425.0,0.0,29.2,clear
+844,Arhar (Tur/Red Gram),Jahanabad,2016-08-16,8250.0,0.0,28.2,clear
+845,Bengal Gram(Gram),Fatehpur,2016-08-16,8750.0,0.0,28.2,clear
+846,Bengal Gram(Gram),Jahanabad,2016-08-16,7500.0,0.0,28.2,clear
+847,Arhar (Tur/Red Gram),Jahanabad,2016-08-17,8200.0,0.0,27.2,clear
+848,Bengal Gram(Gram),Fatehpur,2016-08-17,8775.0,1.0,27.2,clear
+849,Bengal Gram(Gram),Jahanabad,2016-08-17,7600.0,0.0,27.2,clear
+850,Arhar (Tur/Red Gram),Jahanabad,2016-08-19,8200.0,0.0,29.2,clear
+851,Bengal Gram(Gram),Fatehpur,2016-08-19,8800.0,0.0,29.2,clear
+852,Bengal Gram(Gram),Jahanabad,2016-08-19,7600.0,0.0,29.2,clear
+853,Arhar (Tur/Red Gram),Jahanabad,2016-08-20,8200.0,0.0,30.2,clear
+854,Bengal Gram(Gram),Fatehpur,2016-08-20,8825.0,0.0,30.2,clear
+855,Bengal Gram(Gram),Jahanabad,2016-08-20,7600.0,0.0,30.2,clear
+856,Arhar (Tur/Red Gram),Jahanabad,2016-08-21,8200.0,0.0,30.2,clear
+857,Bengal Gram(Gram),Jahanabad,2016-08-21,7600.0,0.0,30.2,clear
+858,Arhar (Tur/Red Gram),Jahanabad,2016-08-23,8250.0,0.0,27.2,clear
+859,Bengal Gram(Gram),Fatehpur,2016-08-23,8875.0,0.0,27.2,clear
+860,Bengal Gram(Gram),Jahanabad,2016-08-23,7625.0,0.0,27.2,clear
+861,Arhar (Tur/Red Gram),Jahanabad,2016-08-24,8300.0,0.0,31.2,clear
+862,Bengal Gram(Gram),Fatehpur,2016-08-24,8900.0,1.2,31.2,clear
+863,Bengal Gram(Gram),Jahanabad,2016-08-24,7640.0,0.0,31.2,clear
+864,Arhar (Tur/Red Gram),Jahanabad,2016-08-25,8250.0,0.0,31.2,clear
+865,Bengal Gram(Gram),Jahanabad,2016-08-25,7620.0,0.0,31.2,clear
+866,Arhar (Tur/Red Gram),Jahanabad,2016-08-26,8200.0,2.0,32.0,clear
+867,Bengal Gram(Gram),Fatehpur,2016-08-26,8900.0,0.0,32.0,clear
+868,Bengal Gram(Gram),Jahanabad,2016-08-26,7600.0,0.0,32.0,clear
+869,Arhar (Tur/Red Gram),Jahanabad,2016-08-29,8350.0,0.0,31.2,clear
+870,Bengal Gram(Gram),Fatehpur,2016-08-29,8625.0,1.8,31.2,clear
+871,Bengal Gram(Gram),Jahanabad,2016-08-29,7750.0,0.0,31.2,clear
+872,Arhar (Tur/Red Gram),Jahanabad,2016-01-09,8450.0,0.0,21.2,clear
+873,Bengal Gram(Gram),Jahanabad,2016-01-09,7750.0,0.0,21.2,clear
+874,Arhar (Tur/Red Gram),Jahanabad,2016-02-09,8400.0,0.0,23.2,clear
+875,Bengal Gram(Gram),Fatehpur,2016-02-09,8500.0,1.2,23.2,clear
+876,Bengal Gram(Gram),Jahanabad,2016-02-09,7700.0,1.0,23.2,clear
+877,Arhar (Tur/Red Gram),Jahanabad,2016-03-09,8500.0,0.0,29.2,clear
+878,Bengal Gram(Gram),Fatehpur,2016-03-09,8450.0,1.5,29.2,clear
+879,Bengal Gram(Gram),Jahanabad,2016-03-09,7860.0,1.0,29.2,clear
+880,Arhar (Tur/Red Gram),Jahanabad,2016-04-09,8500.0,0.0,37.2,clear
+881,Bengal Gram(Gram),Fatehpur,2016-04-09,8400.0,2.0,37.2,clear
+882,Bengal Gram(Gram),Jahanabad,2016-04-09,7860.0,1.0,37.2,clear
+883,Arhar (Tur/Red Gram),Jahanabad,2016-06-09,8450.0,0.0,40.2,clear
+884,Bengal Gram(Gram),Jahanabad,2016-06-09,2140.0,3.5,40.2,clear
+885,Arhar (Tur/Red Gram),Jahanabad,2016-07-09,8400.0,0.0,29.2,clear
+886,Bengal Gram(Gram),Jahanabad,2016-07-09,7500.0,1.0,29.2,clear
+887,Arhar (Tur/Red Gram),Jahanabad,2016-08-09,8300.0,0.0,32.2,clear
+888,Bengal Gram(Gram),Jahanabad,2016-08-09,1900.0,2.0,32.2,clear
+889,Arhar (Tur/Red Gram),Jahanabad,2016-09-09,8270.0,0.0,33.2,clear
+890,Bengal Gram(Gram),Fatehpur,2016-09-09,8365.0,1.0,33.2,clear
+891,Bengal Gram(Gram),Jahanabad,2016-09-09,7400.0,1.0,33.2,clear
+892,Arhar (Tur/Red Gram),Jahanabad,2016-10-09,8250.0,0.0,31.2,clear
+893,Bengal Gram(Gram),Fatehpur,2016-10-09,8415.0,0.0,31.2,clear
+894,Bengal Gram(Gram),Jahanabad,2016-10-09,7400.0,1.0,31.2,clear
+895,Arhar (Tur/Red Gram),Jahanabad,2016-11-09,8200.0,0.0,25.2,clear
+896,Bengal Gram(Gram),Fatehpur,2016-11-09,8435.0,1.5,25.2,clear
+897,Bengal Gram(Gram),Jahanabad,2016-11-09,7300.0,0.0,25.2,clear
+898,Arhar (Tur/Red Gram),Jahanabad,2016-09-13,8250.0,1.0,29.2,clear
+899,Bengal Gram(Gram),Fatehpur,2016-09-13,8550.0,0.0,29.2,clear
+900,Bengal Gram(Gram),Jahanabad,2016-09-13,7300.0,0.0,29.2,clear
+901,Arhar (Tur/Red Gram),Jahanabad,2016-09-14,8200.0,1.2,31.2,clear
+902,Bengal Gram(Gram),Fatehpur,2016-09-14,8550.0,0.0,31.2,clear
+903,Bengal Gram(Gram),Jahanabad,2016-09-14,7350.0,1.2,31.2,clear
+904,Arhar (Tur/Red Gram),Jahanabad,2016-09-15,8100.0,0.0,31.2,clear
+905,Bengal Gram(Gram),Jahanabad,2016-09-15,7300.0,1.2,31.2,clear
+906,Arhar (Tur/Red Gram),Jahanabad,2016-09-16,8140.0,0.0,30.2,clear
+907,Arhar (Tur/Red Gram),Khaga,2016-09-16,8625.0,16.5,30.2,clear
+908,Bengal Gram(Gram),Fatehpur,2016-09-16,8750.0,1.6,30.2,clear
+909,Bengal Gram(Gram),Jahanabad,2016-09-16,7300.0,1.0,30.2,clear
+910,Bengal Gram(Gram),Khaga,2016-09-16,8542.0,16.5,30.2,clear
+911,Arhar (Tur/Red Gram),Jahanabad,2016-09-17,8100.0,1.0,30.2,clear
+912,Bengal Gram(Gram),Fatehpur,2016-09-17,8775.0,1.0,30.2,clear
+913,Bengal Gram(Gram),Jahanabad,2016-09-17,7320.0,1.0,30.2,clear
+914,Arhar (Tur/Red Gram),Jahanabad,2016-09-18,8120.0,1.2,26.2,clear
+915,Bengal Gram(Gram),Fatehpur,2016-09-18,8810.0,1.5,26.2,clear
+916,Bengal Gram(Gram),Jahanabad,2016-09-18,4300.0,1.2,26.2,clear
+917,Arhar (Tur/Red Gram),Jahanabad,2016-09-20,8100.0,1.0,34.2,clear
+918,Bengal Gram(Gram),Fatehpur,2016-09-20,8850.0,1.2,34.2,clear
+919,Bengal Gram(Gram),Jahanabad,2016-09-20,7250.0,1.4,34.2,clear
+920,Arhar (Tur/Red Gram),Jahanabad,2016-09-22,8100.0,1.0,29.2,clear
+921,Bengal Gram(Gram),Jahanabad,2016-09-22,7200.0,1.4,29.2,clear
+922,Arhar (Tur/Red Gram),Jahanabad,2016-09-24,8100.0,1.0,30.2,clear
+923,Bengal Gram(Gram),Jahanabad,2016-09-24,7000.0,1.4,30.2,clear
+924,Arhar (Tur/Red Gram),Jahanabad,2016-09-26,8050.0,1.0,31.2,clear
+925,Bengal Gram(Gram),Fatehpur,2016-09-26,8925.0,0.0,31.2,clear
+926,Bengal Gram(Gram),Jahanabad,2016-09-26,7000.0,1.6,31.2,clear
+927,Arhar (Tur/Red Gram),Jahanabad,2016-09-27,8060.0,1.0,30.2,clear
+928,Bengal Gram(Gram),Jahanabad,2016-09-27,7100.0,1.5,30.2,clear
+929,Arhar (Tur/Red Gram),Jahanabad,2016-09-28,8050.0,1.0,31.2,clear
+930,Bengal Gram(Gram),Jahanabad,2016-09-28,7100.0,1.5,31.2,clear
+931,Arhar (Tur/Red Gram),Jahanabad,2016-09-29,8000.0,1.2,29.2,clear
+932,Bengal Gram(Gram),Jahanabad,2016-09-29,7200.0,1.5,29.2,clear
+933,Arhar (Tur/Red Gram),Jahanabad,2016-09-30,8100.0,1.0,32.2,clear
+934,Bengal Gram(Gram),Fatehpur,2016-09-30,8960.0,0.0,32.2,clear
+935,Bengal Gram(Gram),Jahanabad,2016-09-30,7150.0,1.4,32.2,clear
+936,Arhar (Tur/Red Gram),Jahanabad,2016-11-26,8413.0,5.7,25.2,clear
+937,Arhar (Tur/Red Gram),Khaga,2016-11-26,8421.0,8.0,25.2,clear
+938,Arhar (Tur/Red Gram),Kishunpur,2016-11-26,8396.0,8.5,25.2,clear
+939,Bengal Gram(Gram),Bindki,2016-11-26,9806.0,8.5,25.2,clear
+940,Bengal Gram(Gram),Fatehpur,2016-11-26,10175.0,0.0,25.2,clear
+941,Bengal Gram(Gram),Jahanabad,2016-11-26,9819.0,5.3,25.2,clear
+942,Bengal Gram(Gram),Khaga,2016-11-26,9800.0,8.0,25.2,clear
+943,Green Gram (Moong),Bindki,2016-11-26,4869.0,73.0,25.2,clear
+944,Bengal Gram(Gram),Bindki,2016-05-16,5260.0,1.5,40.2,clear
+945,Bengal Gram(Gram),Fatehpur,2016-05-16,5630.0,2.5,40.2,clear
+946,Bengal Gram(Gram),Fatehpur,2016-01-20,5550.0,3.0,15.2,clear
+947,Bengal Gram(Gram),Fatehpur,2016-03-19,5280.0,3.0,32.2,clear
+948,Bengal Gram(Gram),Jahanabad,2016-03-19,6140.0,1.5,32.2,clear
+949,Bengal Gram(Gram),Fatehpur,2016-03-20,5290.0,2.0,32.2,clear
+950,Bengal Gram(Gram),Fatehpur,2016-04-23,5430.0,8.0,38.2,clear
+951,Bengal Gram(Gram),Fatehpur,2016-04-06,5850.0,3.0,36.2,clear
+952,Bengal Gram(Gram),Jahanabad,2016-04-06,5850.0,1.0,36.2,clear
+953,Bengal Gram(Gram),Fatehpur,2016-06-19,6050.0,3.0,32.2,clear
+954,Bengal Gram(Gram),Fatehpur,2016-07-18,7300.0,1.3,28.2,clear
+955,Bengal Gram(Gram),Fatehpur,2016-07-25,7775.0,0.0,30.2,clear
+956,Bengal Gram(Gram),Fatehpur,2016-01-08,8200.0,0.0,23.2,clear
+957,Bengal Gram(Gram),Fatehpur,2016-02-08,8340.0,1.0,22.2,clear
+958,Bengal Gram(Gram),Fatehpur,2016-08-08,8525.0,0.0,29.2,clear
+959,Bengal Gram(Gram),Fatehpur,2016-12-08,8665.0,0.0,18.2,clear
+960,Bengal Gram(Gram),Fatehpur,2016-08-27,8925.0,0.0,32.2,clear
+961,Bengal Gram(Gram),Jahanabad,2016-08-27,7700.0,0.0,32.2,clear
+962,Bengal Gram(Gram),Fatehpur,2016-08-28,8750.0,1.5,33.2,clear
+963,Bengal Gram(Gram),Fatehpur,2016-08-30,8615.0,1.5,31.2,clear
+964,Bengal Gram(Gram),Fatehpur,2016-08-31,8600.0,1.7,31.2,clear
+965,Bengal Gram(Gram),Fatehpur,2016-05-09,8350.0,2.0,35.2,clear
+966,Bengal Gram(Gram),Fatehpur,2016-12-09,8465.0,0.0,15.2,clear
+967,Bengal Gram(Gram),Fatehpur,2016-09-19,8825.0,0.0,30.2,clear
+968,Bengal Gram(Gram),Fatehpur,2016-09-21,8860.0,1.6,32.2,clear
+969,Bengal Gram(Gram),Fatehpur,2016-09-23,8875.0,1.0,30.2,clear
+970,Bengal Gram(Gram),Fatehpur,2016-09-25,8910.0,1.3,31.2,clear
+971,Bengal Gram(Gram),Fatehpur,2016-03-10,9025.0,0.0,30.2,clear
+972,Bengal Gram(Gram),Fatehpur,2016-04-10,9000.0,0.0,38.2,clear
+973,Bengal Gram(Gram),Fatehpur,2016-05-10,8975.0,1.0,37.2,clear
+974,Bengal Gram(Gram),Fatehpur,2016-07-10,9000.0,0.0,32.2,clear
+975,Bengal Gram(Gram),Fatehpur,2016-08-10,9050.0,0.0,31.2,clear
+976,Bengal Gram(Gram),Fatehpur,2016-09-10,9025.0,1.0,33.2,clear
+977,Bengal Gram(Gram),Fatehpur,2016-10-10,9050.0,0.0,31.2,clear
+978,Bengal Gram(Gram),Fatehpur,2016-12-10,9025.0,0.0,19.2,clear
+979,Bengal Gram(Gram),Fatehpur,2016-10-14,9000.0,0.0,30.2,clear
+980,Bengal Gram(Gram),Fatehpur,2016-10-15,9050.0,0.0,30.2,clear
+981,Bengal Gram(Gram),Fatehpur,2016-10-16,9125.0,1.0,26.2,clear
+982,Bengal Gram(Gram),Fatehpur,2016-10-17,9250.0,0.0,30.2,clear
+983,Bengal Gram(Gram),Fatehpur,2016-10-18,9300.0,0.0,34.2,clear
+984,Bengal Gram(Gram),Fatehpur,2016-10-19,9325.0,1.2,30.2,clear
+985,Bengal Gram(Gram),Fatehpur,2016-10-21,9350.0,0.0,31.2,clear
+986,Bengal Gram(Gram),Fatehpur,2016-10-23,9450.0,0.0,32.2,clear
+987,Bengal Gram(Gram),Fatehpur,2016-10-24,9400.0,0.0,30.2,clear
+988,Bengal Gram(Gram),Fatehpur,2016-10-25,9425.0,0.0,30.2,clear
+989,Bengal Gram(Gram),Fatehpur,2016-10-26,9435.0,0.0,30.2,clear
+990,Bengal Gram(Gram),Fatehpur,2016-10-29,9475.0,1.5,27.2,clear
+991,Bengal Gram(Gram),Fatehpur,2016-10-30,9500.0,0.0,30.2,clear
+992,Bengal Gram(Gram),Fatehpur,2016-10-31,9500.0,1.2,27.2,clear
+993,Bengal Gram(Gram),Fatehpur,2016-01-11,9550.0,0.0,21.2,clear
+994,Bengal Gram(Gram),Fatehpur,2016-02-11,9485.0,0.0,24.2,clear
+995,Bengal Gram(Gram),Fatehpur,2016-04-11,9550.0,1.0,37.2,clear
+996,Bengal Gram(Gram),Fatehpur,2016-06-11,9620.0,1.0,42.2,clear
+997,Bengal Gram(Gram),Fatehpur,2016-07-11,9625.0,0.0,33.2,clear
+998,Bengal Gram(Gram),Fatehpur,2016-09-11,9700.0,1.2,36.2,clear
+999,Bengal Gram(Gram),Fatehpur,2016-11-11,9735.0,0.0,25.2,clear
+1000,Bengal Gram(Gram),Fatehpur,2016-12-11,9750.0,0.0,12.2,clear
+1001,Bengal Gram(Gram),Fatehpur,2016-11-13,9760.0,0.0,25.2,clear
+1002,Bengal Gram(Gram),Fatehpur,2016-11-14,9775.0,0.0,26.2,clear
+1003,Bengal Gram(Gram),Fatehpur,2016-11-15,9850.0,0.0,25.2,clear
+1004,Bengal Gram(Gram),Fatehpur,2016-11-16,9865.0,0.0,20.2,clear
+1005,Bengal Gram(Gram),Fatehpur,2016-11-18,9835.0,0.0,24.2,clear
+1006,Bengal Gram(Gram),Fatehpur,2016-11-19,9850.0,0.0,25.2,clear
+1007,Bengal Gram(Gram),Fatehpur,2016-11-21,10000.0,0.0,25.2,clear
+1008,Bengal Gram(Gram),Fatehpur,2016-11-22,10100.0,0.0,26.2,clear
+1009,Bengal Gram(Gram),Fatehpur,2016-11-23,10130.0,0.0,25.2,clear
+1010,Bengal Gram(Gram),Fatehpur,2016-11-25,10150.0,0.0,25.2,clear
+1011,Bengal Gram(Gram),Fatehpur,2016-11-27,10185.0,0.0,24.2,clear
+1012,Bengal Gram(Gram),Fatehpur,2016-11-28,10180.0,0.0,24.2,clear
+1013,Bengal Gram(Gram),Fatehpur,2016-11-29,10200.0,0.0,23.2,clear
+1014,Bengal Gram(Gram),Fatehpur,2016-11-30,10225.0,0.0,21.2,clear
+1015,Bengal Gram(Gram),Fatehpur,2016-02-12,10250.0,0.0,25.2,clear
+1016,Bengal Gram(Gram),Fatehpur,2016-03-12,10260.0,0.0,27.2,clear
+1017,Bengal Gram(Gram),Fatehpur,2016-04-12,10275.0,0.0,35.2,clear
+1018,Bengal Gram(Gram),Fatehpur,2016-05-12,10380.0,2.2,39.2,clear
+1019,Bengal Gram(Gram),Fatehpur,2016-06-12,10370.0,0.0,41.2,clear
+1020,Bengal Gram(Gram),Fatehpur,2016-07-12,10375.0,0.0,31.2,clear
+1021,Bengal Gram(Gram),Fatehpur,2016-09-12,10380.0,0.0,35.2,clear
+1022,Bengal Gram(Gram),Fatehpur,2016-10-12,11385.0,0.0,30.2,clear
+1023,Bengal Gram(Gram),Fatehpur,2016-11-12,10380.0,0.0,27.2,clear
+1024,Bengal Gram(Gram),Fatehpur,2016-12-12,10400.0,0.0,23.2,clear
+1025,Bengal Gram(Gram),Fatehpur,2016-12-13,10400.0,0.0,22.2,clear
+1026,Bengal Gram(Gram),Fatehpur,2016-12-14,10410.0,0.0,23.2,clear
+1027,Bengal Gram(Gram),Fatehpur,2016-12-17,10430.0,0.0,20.2,clear
+1028,Bengal Gram(Gram),Fatehpur,2016-12-18,10450.0,0.0,13.2,clear
+1029,Bengal Gram(Gram),Fatehpur,2016-12-19,10425.0,0.0,17.0,clear
+1030,Bengal Gram(Gram),Fatehpur,2016-12-20,10430.0,0.0,21.2,clear
+1031,Bengal Gram(Gram),Fatehpur,2016-12-23,10435.0,0.0,20.2,clear
+1032,Bengal Gram(Gram),Fatehpur,2016-12-24,10450.0,0.0,20.2,clear
+1033,Bengal Gram(Gram),Fatehpur,2016-12-25,10440.0,0.0,22.2,clear
+1034,Bengal Gram(Gram),Fatehpur,2016-12-26,10400.0,0.0,19.2,clear
+1035,Bengal Gram(Gram),Fatehpur,2016-12-27,10410.0,0.0,19.2,clear
+1036,Bengal Gram(Gram),Fatehpur,2016-12-28,10400.0,0.0,12.2,clear
+1037,Bengal Gram(Gram),Jahanabad,2016-07-01,5000.0,0.0,28.2,clear
+1038,Arhar (Tur/Red Gram),Bindki,2017-03-01,8112.0,22.0,29.2,clear
+1039,Bengal Gram(Gram),Bindki,2017-03-01,10364.0,13.0,29.2,clear
+1040,Bengal Gram(Gram),Fatehpur,2017-03-01,10380.0,0.0,29.2,clear
+1041,Green Gram (Moong),Bindki,2017-03-01,4982.0,25.5,29.2,clear
+1042,Arhar (Tur/Red Gram),Bindki,2017-01-20,6990.0,0.0,20.2,clear
+1043,Bengal Gram(Gram),Bindki,2017-01-20,9890.0,0.0,20.2,clear
+1044,Bengal Gram(Gram),Fatehpur,2017-01-20,9800.0,0.0,20.2,clear
+1045,Arhar (Tur/Red Gram),Bindki,2017-01-02,6650.0,0.0,15.2,clear
+1046,Bengal Gram(Gram),Bindki,2017-01-02,9320.0,0.0,15.2,clear
+1047,Bengal Gram(Gram),Fatehpur,2017-01-02,9285.0,0.0,15.2,clear
+1048,Arhar (Tur/Red Gram),Bindki,2017-02-02,6650.0,1.0,15.2,clear
+1049,Bengal Gram(Gram),Bindki,2017-02-02,9340.0,0.0,15.2,clear
+1050,Green Gram (Moong),Bindki,2017-02-02,4840.0,1.0,15.2,clear
+1051,Arhar (Tur/Red Gram),Bindki,2017-03-02,6670.0,1.0,28.2,clear
+1052,Bengal Gram(Gram),Bindki,2017-03-02,9330.0,0.0,28.2,clear
+1053,Bengal Gram(Gram),Fatehpur,2017-03-02,9290.0,0.0,28.2,clear
+1054,Arhar (Tur/Red Gram),Bindki,2017-05-02,6650.0,1.2,39.2,clear
+1055,Bengal Gram(Gram),Bindki,2017-05-02,9350.0,0.0,39.2,clear
+1056,Bengal Gram(Gram),Fatehpur,2017-05-02,9180.0,1.0,39.2,clear
+1057,Green Gram (Moong),Bindki,2017-05-02,4860.0,1.2,39.2,clear
+1058,Arhar (Tur/Red Gram),Bindki,2017-06-02,6660.0,1.0,40.2,clear
+1059,Bengal Gram(Gram),Bindki,2017-06-02,9340.0,1.0,40.2,clear
+1060,Bengal Gram(Gram),Fatehpur,2017-06-02,9150.0,0.0,40.2,clear
+1061,Green Gram (Moong),Bindki,2017-06-02,4850.0,1.0,40.2,clear
+1062,Arhar (Tur/Red Gram),Bindki,2017-07-02,6640.0,0.8,31.2,clear
+1063,Bengal Gram(Gram),Bindki,2017-07-02,9345.0,0.0,31.2,clear
+1064,Bengal Gram(Gram),Fatehpur,2017-07-02,9120.0,0.0,31.2,clear
+1065,Green Gram (Moong),Bindki,2017-07-02,4840.0,1.2,31.2,clear
+1066,Arhar (Tur/Red Gram),Bindki,2017-08-02,6620.0,0.0,32.2,clear
+1067,Bengal Gram(Gram),Bindki,2017-08-02,9330.0,1.0,32.2,clear
+1068,Bengal Gram(Gram),Fatehpur,2017-08-02,9100.0,0.0,32.2,clear
+1069,Green Gram (Moong),Bindki,2017-08-02,4830.0,1.0,32.2,clear
+1070,Arhar (Tur/Red Gram),Bindki,2017-10-02,6630.0,0.0,32.2,clear
+1071,Bengal Gram(Gram),Bindki,2017-10-02,9160.0,1.0,32.2,clear
+1072,Bengal Gram(Gram),Fatehpur,2017-10-02,9050.0,0.0,32.2,clear
+1073,Green Gram (Moong),Bindki,2017-10-02,4800.0,1.3,32.2,clear
+1074,Arhar (Tur/Red Gram),Bindki,2017-02-14,6650.0,1.0,24.2,clear
+1075,Bengal Gram(Gram),Bindki,2017-02-14,9110.0,1.0,24.2,clear
+1076,Bengal Gram(Gram),Fatehpur,2017-02-14,9000.0,0.0,24.2,clear
+1077,Green Gram (Moong),Bindki,2017-02-14,4810.0,1.0,24.2,clear
+1078,Arhar (Tur/Red Gram),Bindki,2017-02-15,6650.0,1.2,24.2,clear
+1079,Bengal Gram(Gram),Bindki,2017-02-15,9100.0,1.2,24.2,clear
+1080,Bengal Gram(Gram),Fatehpur,2017-02-15,9000.0,0.0,24.2,clear
+1081,Green Gram (Moong),Bindki,2017-02-15,4800.0,0.0,24.2,clear
+1082,Arhar (Tur/Red Gram),Bindki,2017-02-16,6640.0,1.0,26.2,clear
+1083,Bengal Gram(Gram),Bindki,2017-02-16,9000.0,1.0,26.2,clear
+1084,Green Gram (Moong),Bindki,2017-02-16,4810.0,0.0,26.2,clear
+1085,Arhar (Tur/Red Gram),Bindki,2017-02-17,6630.0,0.0,27.2,clear
+1086,Bengal Gram(Gram),Bindki,2017-02-17,9000.0,0.0,27.2,clear
+1087,Bengal Gram(Gram),Fatehpur,2017-02-17,9050.0,0.0,27.2,clear
+1088,Green Gram (Moong),Bindki,2017-02-17,4810.0,0.0,27.2,clear
+1089,Arhar (Tur/Red Gram),Bindki,2017-02-19,6630.0,1.0,28.2,clear
+1090,Bengal Gram(Gram),Bindki,2017-02-19,9000.0,1.0,28.2,clear
+1091,Bengal Gram(Gram),Fatehpur,2017-02-19,9000.0,0.0,28.2,clear
+1092,Green Gram (Moong),Bindki,2017-02-19,4810.0,0.0,28.2,clear
+1093,Arhar (Tur/Red Gram),Bindki,2017-02-20,6620.0,0.0,30.2,clear
+1094,Bengal Gram(Gram),Bindki,2017-02-20,9030.0,0.0,30.2,clear
+1095,Bengal Gram(Gram),Fatehpur,2017-02-20,8980.0,0.0,30.2,clear
+1096,Green Gram (Moong),Bindki,2017-02-20,4800.0,0.0,30.2,clear
+1097,Arhar (Tur/Red Gram),Bindki,2017-02-21,6620.0,1.0,28.2,clear
+1098,Bengal Gram(Gram),Bindki,2017-02-21,9020.0,0.0,28.2,clear
+1099,Bengal Gram(Gram),Fatehpur,2017-02-21,8950.0,1.0,28.2,clear
+1100,Green Gram (Moong),Bindki,2017-02-21,4810.0,1.0,28.2,clear
+1101,Arhar (Tur/Red Gram),Bindki,2017-02-22,6640.0,0.0,25.2,clear
+1102,Bengal Gram(Gram),Bindki,2017-02-22,9020.0,1.0,25.2,clear
+1103,Bengal Gram(Gram),Fatehpur,2017-02-22,8950.0,1.0,25.2,clear
+1104,Green Gram (Moong),Bindki,2017-02-22,4810.0,0.0,25.2,clear
+1105,Arhar (Tur/Red Gram),Bindki,2017-02-28,6680.0,0.6,31.2,clear
+1106,Bengal Gram(Gram),Bindki,2017-02-28,8950.0,0.8,31.2,clear
+1107,Bengal Gram(Gram),Fatehpur,2017-02-28,8850.0,0.0,31.2,clear
+1108,Green Gram (Moong),Bindki,2017-02-28,4910.0,1.5,31.2,clear
+1109,Arhar (Tur/Red Gram),Bindki,2017-01-03,6710.0,0.5,17.2,clear
+1110,Bengal Gram(Gram),Bindki,2017-01-03,8950.0,1.0,17.2,clear
+1111,Bengal Gram(Gram),Fatehpur,2017-01-03,8800.0,0.0,17.2,clear
+1112,Green Gram (Moong),Bindki,2017-01-03,5030.0,1.8,17.2,clear
+1113,Arhar (Tur/Red Gram),Bindki,2017-02-03,6730.0,0.8,15.2,clear
+1114,Bengal Gram(Gram),Bindki,2017-02-03,8940.0,1.2,15.2,clear
+1115,Green Gram (Moong),Bindki,2017-02-03,5080.0,1.5,15.2,clear
+1116,Arhar (Tur/Red Gram),Bindki,2017-03-03,6750.0,1.0,28.2,clear
+1117,Bengal Gram(Gram),Bindki,2017-03-03,8910.0,0.8,28.2,clear
+1118,Bengal Gram(Gram),Fatehpur,2017-03-03,8790.0,0.0,28.2,clear
+1119,Green Gram (Moong),Bindki,2017-03-03,5090.0,1.2,28.2,clear
+1120,Arhar (Tur/Red Gram),Bindki,2017-05-03,6770.0,0.6,39.2,clear
+1121,Bengal Gram(Gram),Bindki,2017-05-03,8890.0,1.0,39.2,clear
+1122,Bengal Gram(Gram),Fatehpur,2017-05-03,8720.0,0.0,39.2,clear
+1123,Green Gram (Moong),Bindki,2017-05-03,5130.0,1.0,39.2,clear
+1124,Arhar (Tur/Red Gram),Bindki,2017-07-03,6790.0,0.8,29.2,clear
+1125,Bengal Gram(Gram),Bindki,2017-07-03,8850.0,0.8,29.2,clear
+1126,Bengal Gram(Gram),Fatehpur,2017-07-03,8670.0,0.0,29.2,clear
+1127,Green Gram (Moong),Bindki,2017-07-03,5190.0,1.5,29.2,clear
+1128,Arhar (Tur/Red Gram),Bindki,2017-08-03,6690.0,0.3,31.2,clear
+1129,Bengal Gram(Gram),Bindki,2017-08-03,8550.0,0.5,31.2,clear
+1130,Bengal Gram(Gram),Fatehpur,2017-08-03,8480.0,1.2,31.2,clear
+1131,Green Gram (Moong),Bindki,2017-08-03,5170.0,1.0,31.2,clear
+1132,Arhar (Tur/Red Gram),Bindki,2017-09-03,6550.0,0.4,34.2,clear
+1133,Bengal Gram(Gram),Bindki,2017-09-03,8280.0,0.4,34.2,clear
+1134,Green Gram (Moong),Bindki,2017-09-03,5150.0,1.2,34.2,clear
+1135,Arhar (Tur/Red Gram),Bindki,2017-10-03,6460.0,0.5,34.2,clear
+1136,Bengal Gram(Gram),Bindki,2017-10-03,7990.0,0.6,34.2,clear
+1137,Bengal Gram(Gram),Fatehpur,2017-10-03,8390.0,1.5,34.2,clear
+1138,Green Gram (Moong),Bindki,2017-10-03,5160.0,0.8,34.2,clear
+1139,Arhar (Tur/Red Gram),Bindki,2017-03-14,6370.0,0.3,25.2,clear
+1140,Bengal Gram(Gram),Bindki,2017-03-14,7500.0,0.5,25.2,clear
+1141,Bengal Gram(Gram),Fatehpur,2017-03-14,8150.0,1.3,25.2,clear
+1142,Green Gram (Moong),Bindki,2017-03-14,5130.0,0.5,25.2,clear
+1143,Arhar (Tur/Red Gram),Bindki,2017-03-15,6250.0,0.2,27.2,clear
+1144,Bengal Gram(Gram),Bindki,2017-03-15,7190.0,0.4,27.2,clear
+1145,Bengal Gram(Gram),Fatehpur,2017-03-15,8080.0,1.2,27.2,clear
+1146,Green Gram (Moong),Bindki,2017-03-15,5110.0,0.7,27.2,clear
+1147,Arhar (Tur/Red Gram),Bindki,2017-03-16,6170.0,0.4,30.2,clear
+1148,Bengal Gram(Gram),Bindki,2017-03-16,6960.0,0.8,30.2,clear
+1149,Green Gram (Moong),Bindki,2017-03-16,5100.0,1.0,30.2,clear
+1150,Arhar (Tur/Red Gram),Bindki,2017-03-17,5980.0,0.5,28.2,clear
+1151,Bengal Gram(Gram),Bindki,2017-03-17,6590.0,0.5,28.2,clear
+1152,Bengal Gram(Gram),Fatehpur,2017-03-17,7850.0,1.8,28.2,clear
+1153,Green Gram (Moong),Bindki,2017-03-17,5130.0,0.8,28.2,clear
+1154,Arhar (Tur/Red Gram),Bindki,2017-03-19,5890.0,0.3,29.2,clear
+1155,Bengal Gram(Gram),Bindki,2017-03-19,6450.0,0.4,29.2,clear
+1156,Bengal Gram(Gram),Fatehpur,2017-03-19,7450.0,2.6,29.2,clear
+1157,Green Gram (Moong),Bindki,2017-03-19,5150.0,0.7,29.2,clear
+1158,Arhar (Tur/Red Gram),Bindki,2017-03-20,5760.0,0.4,30.2,clear
+1159,Bengal Gram(Gram),Bindki,2017-03-20,6340.0,0.8,30.2,clear
+1160,Bengal Gram(Gram),Fatehpur,2017-03-20,7380.0,1.8,30.2,clear
+1161,Green Gram (Moong),Bindki,2017-03-20,5140.0,0.5,30.2,clear
+1162,Arhar (Tur/Red Gram),Bindki,2017-03-21,5620.0,0.2,32.2,clear
+1163,Bengal Gram(Gram),Bindki,2017-03-21,6210.0,0.6,32.2,clear
+1164,Bengal Gram(Gram),Fatehpur,2017-03-21,7170.0,1.5,32.2,clear
+1165,Green Gram (Moong),Bindki,2017-03-21,5160.0,0.6,32.2,clear
+1166,Arhar (Tur/Red Gram),Bindki,2017-03-22,5550.0,0.3,33.5,clear
+1167,Bengal Gram(Gram),Bindki,2017-03-22,6130.0,0.5,33.5,clear
+1168,Bengal Gram(Gram),Fatehpur,2017-03-22,6920.0,2.0,33.5,clear
+1169,Green Gram (Moong),Bindki,2017-03-22,5170.0,0.8,33.5,clear
+1170,Arhar (Tur/Red Gram),Bindki,2017-03-23,5500.0,0.5,35.2,clear
+1171,Bengal Gram(Gram),Bindki,2017-03-23,6000.0,0.4,35.2,clear
+1172,Green Gram (Moong),Bindki,2017-03-23,5150.0,0.7,35.2,clear
+1173,Arhar (Tur/Red Gram),Bindki,2017-03-24,5450.0,0.6,36.2,clear
+1174,Bengal Gram(Gram),Bindki,2017-03-24,5890.0,1.0,36.2,clear
+1175,Bengal Gram(Gram),Fatehpur,2017-03-24,6810.0,1.3,36.2,clear
+1176,Green Gram (Moong),Bindki,2017-03-24,5160.0,1.0,36.2,clear
+1177,Arhar (Tur/Red Gram),Bindki,2017-03-26,5340.0,0.4,35.2,clear
+1178,Bengal Gram(Gram),Bindki,2017-03-26,5750.0,0.8,35.2,clear
+1179,Bengal Gram(Gram),Fatehpur,2017-03-26,6680.0,2.0,35.2,clear
+1180,Green Gram (Moong),Bindki,2017-03-26,5130.0,0.5,35.2,clear
+1181,Arhar (Tur/Red Gram),Bindki,2017-03-27,5280.0,0.3,35.2,clear
+1182,Bengal Gram(Gram),Bindki,2017-03-27,5650.0,0.6,35.2,clear
+1183,Bengal Gram(Gram),Fatehpur,2017-03-27,6650.0,1.8,35.2,clear
+1184,Green Gram (Moong),Bindki,2017-03-27,5110.0,0.6,35.2,clear
+1185,Arhar (Tur/Red Gram),Bindki,2017-03-28,5150.0,0.5,36.2,clear
+1186,Bengal Gram(Gram),Bindki,2017-03-28,5530.0,0.5,36.2,clear
+1187,Bengal Gram(Gram),Fatehpur,2017-03-28,6660.0,1.3,36.2,clear
+1188,Green Gram (Moong),Bindki,2017-03-28,5100.0,0.8,36.2,clear
+1189,Arhar (Tur/Red Gram),Bindki,2017-03-29,5100.0,0.2,37.2,clear
+1190,Bengal Gram(Gram),Bindki,2017-03-29,5450.0,0.4,37.2,clear
+1191,Bengal Gram(Gram),Fatehpur,2017-03-29,6600.0,2.0,37.2,clear
+1192,Green Gram (Moong),Bindki,2017-03-29,5090.0,0.9,37.2,clear
+1193,Arhar (Tur/Red Gram),Bindki,2017-03-30,5080.0,0.4,38.2,clear
+1194,Bengal Gram(Gram),Bindki,2017-03-30,5410.0,0.9,38.2,clear
+1195,Green Gram (Moong),Bindki,2017-03-30,5110.0,1.0,38.2,clear
+1196,Arhar (Tur/Red Gram),Bindki,2017-03-31,5030.0,0.6,38.2,clear
+1197,Bengal Gram(Gram),Bindki,2017-03-31,5350.0,1.0,38.2,clear
+1198,Bengal Gram(Gram),Fatehpur,2017-03-31,6580.0,1.6,38.2,clear
+1199,Green Gram (Moong),Bindki,2017-03-31,5140.0,0.9,38.2,clear
+1200,Arhar (Tur/Red Gram),Bindki,2017-02-04,4980.0,0.8,22.2,clear
+1201,Bengal Gram(Gram),Bindki,2017-02-04,5150.0,0.8,22.2,clear
+1202,Bengal Gram(Gram),Fatehpur,2017-02-04,6420.0,1.8,22.2,clear
+1203,Green Gram (Moong),Bindki,2017-02-04,5110.0,1.2,22.2,clear
+1204,Arhar (Tur/Red Gram),Bindki,2017-03-04,4910.0,1.0,20.2,clear
+1205,Bengal Gram(Gram),Bindki,2017-03-04,5080.0,1.2,20.2,clear
+1206,Bengal Gram(Gram),Fatehpur,2017-03-04,6350.0,1.5,20.2,clear
+1207,Green Gram (Moong),Bindki,2017-03-04,5100.0,0.8,20.2,clear
+1208,Arhar (Tur/Red Gram),Bindki,2017-09-04,4890.0,0.8,30.2,clear
+1209,Bengal Gram(Gram),Bindki,2017-09-04,5090.0,1.5,30.2,clear
+1210,Bengal Gram(Gram),Fatehpur,2017-09-04,6590.0,1.2,30.2,clear
+1211,Green Gram (Moong),Bindki,2017-09-04,5130.0,1.0,30.2,clear
+1212,Arhar (Tur/Red Gram),Bindki,2017-10-04,4850.0,1.2,33.2,clear
+1213,Bengal Gram(Gram),Bindki,2017-10-04,5070.0,1.0,33.2,clear
+1214,Bengal Gram(Gram),Fatehpur,2017-10-04,6580.0,0.0,33.2,clear
+1215,Green Gram (Moong),Bindki,2017-10-04,5190.0,1.2,33.2,clear
+1216,Arhar (Tur/Red Gram),Bindki,2017-11-04,4870.0,0.6,26.2,clear
+1217,Bengal Gram(Gram),Bindki,2017-11-04,5180.0,0.8,26.2,clear
+1218,Bengal Gram(Gram),Fatehpur,2017-11-04,6580.0,1.5,26.2,clear
+1219,Green Gram (Moong),Bindki,2017-11-04,5180.0,0.8,26.2,clear
+1220,Arhar (Tur/Red Gram),Bindki,2017-12-04,4880.0,1.0,22.2,clear
+1221,Bengal Gram(Gram),Bindki,2017-12-04,5190.0,1.2,22.2,clear
+1222,Green Gram (Moong),Bindki,2017-12-04,5160.0,0.6,22.2,clear
+1223,Arhar (Tur/Red Gram),Bindki,2017-04-13,4930.0,0.8,37.2,clear
+1224,Bengal Gram(Gram),Bindki,2017-04-13,5250.0,1.5,37.2,clear
+1225,Green Gram (Moong),Bindki,2017-04-13,5140.0,1.0,37.2,clear
+1226,Arhar (Tur/Red Gram),Bindki,2017-04-14,5010.0,0.5,41.2,clear
+1227,Bengal Gram(Gram),Bindki,2017-04-14,5360.0,1.0,41.2,clear
+1228,Bengal Gram(Gram),Fatehpur,2017-04-14,6560.0,0.0,41.2,clear
+1229,Green Gram (Moong),Bindki,2017-04-14,5130.0,0.7,41.2,clear
+1230,Arhar (Tur/Red Gram),Bindki,2017-04-16,5050.0,0.6,38.2,clear
+1231,Bengal Gram(Gram),Bindki,2017-04-16,5390.0,1.2,38.2,clear
+1232,Bengal Gram(Gram),Fatehpur,2017-04-16,6590.0,1.0,38.2,clear
+1233,Green Gram (Moong),Bindki,2017-04-16,5250.0,0.5,38.2,clear
+1234,Arhar (Tur/Red Gram),Bindki,2017-04-17,5060.0,0.4,38.2,clear
+1235,Bengal Gram(Gram),Bindki,2017-04-17,5390.0,1.4,38.2,clear
+1236,Bengal Gram(Gram),Fatehpur,2017-04-17,6600.0,0.0,38.2,clear
+1237,Green Gram (Moong),Bindki,2017-04-17,5190.0,0.8,38.2,clear
+1238,Arhar (Tur/Red Gram),Bindki,2017-04-18,5070.0,0.3,40.2,clear
+1239,Bengal Gram(Gram),Bindki,2017-04-18,5410.0,1.0,40.2,clear
+1240,Bengal Gram(Gram),Fatehpur,2017-04-18,6625.0,0.0,40.2,clear
+1241,Green Gram (Moong),Bindki,2017-04-18,5170.0,0.7,40.2,clear
+1242,Arhar (Tur/Red Gram),Bindki,2017-04-19,5090.0,0.5,44.2,clear
+1243,Bengal Gram(Gram),Bindki,2017-04-19,5470.0,1.1,44.2,clear
+1244,Bengal Gram(Gram),Fatehpur,2017-04-19,6560.0,1.2,44.2,clear
+1245,Green Gram (Moong),Bindki,2017-04-19,5140.0,0.8,44.2,clear
+1246,Arhar (Tur/Red Gram),Bindki,2017-04-20,5180.0,0.8,43.2,clear
+1247,Bengal Gram(Gram),Bindki,2017-04-20,5570.0,1.2,43.2,clear
+1248,Green Gram (Moong),Bindki,2017-04-20,5180.0,1.0,43.2,clear
+1249,Arhar (Tur/Red Gram),Bindki,2017-04-21,5230.0,0.6,39.2,clear
+1250,Bengal Gram(Gram),Bindki,2017-04-21,5690.0,0.8,39.2,clear
+1251,Bengal Gram(Gram),Fatehpur,2017-04-21,6560.0,1.5,39.2,clear
+1252,Green Gram (Moong),Bindki,2017-04-21,5190.0,1.2,39.2,clear
+1253,Arhar (Tur/Red Gram),Bindki,2017-04-23,5290.0,1.0,34.2,clear
+1254,Bengal Gram(Gram),Bindki,2017-04-23,5780.0,1.3,34.2,clear
+1255,Bengal Gram(Gram),Fatehpur,2017-04-23,6345.0,2.3,34.2,clear
+1256,Green Gram (Moong),Bindki,2017-04-23,5150.0,1.1,34.2,clear
+1257,Arhar (Tur/Red Gram),Bindki,2017-04-24,5340.0,0.9,39.2,clear
+1258,Bengal Gram(Gram),Bindki,2017-04-24,5870.0,1.5,39.2,clear
+1259,Bengal Gram(Gram),Fatehpur,2017-04-24,6280.0,1.2,39.2,clear
+1260,Green Gram (Moong),Bindki,2017-04-24,5130.0,1.0,39.2,clear
+1261,Arhar (Tur/Red Gram),Bindki,2017-04-25,5400.0,0.5,38.2,clear
+1262,Bengal Gram(Gram),Bindki,2017-04-25,5910.0,1.0,38.2,clear
+1263,Bengal Gram(Gram),Fatehpur,2017-04-25,6250.0,0.0,38.2,clear
+1264,Green Gram (Moong),Bindki,2017-04-25,5110.0,1.4,38.2,clear
+1265,Arhar (Tur/Red Gram),Bindki,2017-04-26,5410.0,0.8,38.2,clear
+1266,Bengal Gram(Gram),Bindki,2017-04-26,6000.0,1.2,38.2,clear
+1267,Bengal Gram(Gram),Fatehpur,2017-04-26,6200.0,1.0,38.2,clear
+1268,Green Gram (Moong),Bindki,2017-04-26,5150.0,1.2,38.2,clear
+1269,Arhar (Tur/Red Gram),Bindki,2017-04-27,5460.0,1.2,40.2,clear
+1270,Bengal Gram(Gram),Bindki,2017-04-27,6140.0,1.8,40.2,clear
+1271,Green Gram (Moong),Bindki,2017-04-27,5170.0,1.5,40.2,clear
+1272,Arhar (Tur/Red Gram),Bindki,2017-04-28,5480.0,1.0,40.2,clear
+1273,Bengal Gram(Gram),Bindki,2017-04-28,6190.0,1.5,40.2,clear
+1274,Green Gram (Moong),Bindki,2017-04-28,5190.0,1.0,40.2,clear
+1275,Arhar (Tur/Red Gram),Bindki,2017-04-30,5470.0,0.5,38.2,clear
+1276,Bengal Gram(Gram),Bindki,2017-04-30,6240.0,1.0,38.2,clear
+1277,Bengal Gram(Gram),Fatehpur,2017-04-30,6300.0,0.0,38.2,clear
+1278,Green Gram (Moong),Bindki,2017-04-30,5170.0,1.6,38.2,clear
+1279,Arhar (Tur/Red Gram),Bindki,2017-01-05,5490.0,0.6,21.2,clear
+1280,Bengal Gram(Gram),Bindki,2017-01-05,6260.0,1.2,21.2,clear
+1281,Bengal Gram(Gram),Fatehpur,2017-01-05,6380.0,6.0,21.2,clear
+1282,Green Gram (Moong),Bindki,2017-01-05,5175.0,1.2,21.2,clear
+1283,Arhar (Tur/Red Gram),Bindki,2017-02-05,5470.0,0.8,23.2,clear
+1284,Bengal Gram(Gram),Bindki,2017-02-05,6290.0,0.8,23.2,clear
+1285,Bengal Gram(Gram),Fatehpur,2017-02-05,6350.0,0.0,23.2,clear
+1286,Green Gram (Moong),Bindki,2017-02-05,5190.0,1.5,23.2,clear
+1287,Arhar (Tur/Red Gram),Bindki,2017-03-05,5460.0,1.0,27.2,clear
+1288,Bengal Gram(Gram),Bindki,2017-03-05,6310.0,1.3,27.2,clear
+1289,Bengal Gram(Gram),Fatehpur,2017-03-05,6320.0,1.6,27.2,clear
+1290,Green Gram (Moong),Bindki,2017-03-05,5175.0,1.4,27.2,clear
+1291,Arhar (Tur/Red Gram),Bindki,2017-04-05,5450.0,0.7,37.2,clear
+1292,Bengal Gram(Gram),Bindki,2017-04-05,6370.0,1.6,37.2,clear
+1293,Green Gram (Moong),Bindki,2017-04-05,5190.0,1.6,37.2,clear
+1294,Arhar (Tur/Red Gram),Bindki,2017-05-05,5490.0,0.5,39.2,clear
+1295,Bengal Gram(Gram),Bindki,2017-05-05,6390.0,1.0,39.2,clear
+1296,Bengal Gram(Gram),Fatehpur,2017-05-05,6280.0,0.0,39.2,clear
+1297,Green Gram (Moong),Bindki,2017-05-05,5130.0,1.8,39.2,clear
+1298,Arhar (Tur/Red Gram),Bindki,2017-07-05,5530.0,0.6,30.2,clear
+1299,Bengal Gram(Gram),Bindki,2017-07-05,6380.0,1.5,30.2,clear
+1300,Bengal Gram(Gram),Fatehpur,2017-07-05,6200.0,0.0,30.2,clear
+1301,Green Gram (Moong),Bindki,2017-07-05,5350.0,1.0,30.2,clear
+1302,Arhar (Tur/Red Gram),Bindki,2017-08-05,5560.0,1.0,33.2,clear
+1303,Bengal Gram(Gram),Bindki,2017-08-05,6400.0,1.4,33.2,clear
+1304,Bengal Gram(Gram),Fatehpur,2017-08-05,6230.0,0.0,33.2,clear
+1305,Green Gram (Moong),Bindki,2017-08-05,5690.0,5.0,33.2,clear
+1306,Arhar (Tur/Red Gram),Bindki,2017-09-05,5540.0,0.8,34.2,clear
+1307,Bengal Gram(Gram),Bindki,2017-09-05,6460.0,1.2,34.2,clear
+1308,Bengal Gram(Gram),Fatehpur,2017-09-05,6220.0,1.0,34.2,clear
+1309,Green Gram (Moong),Bindki,2017-09-05,5730.0,6.0,34.2,clear
+1310,Arhar (Tur/Red Gram),Bindki,2017-10-05,5390.0,0.9,35.2,clear
+1311,Bengal Gram(Gram),Bindki,2017-10-05,6430.0,1.0,35.2,clear
+1312,Bengal Gram(Gram),Fatehpur,2017-10-05,6185.0,1.0,35.2,clear
+1313,Green Gram (Moong),Bindki,2017-10-05,5680.0,4.5,35.2,clear
+1314,Arhar (Tur/Red Gram),Bindki,2017-11-05,5385.0,0.7,27.2,clear
+1315,Bengal Gram(Gram),Bindki,2017-11-05,6310.0,0.8,27.2,clear
+1316,Green Gram (Moong),Bindki,2017-11-05,5690.0,3.5,27.2,clear
+1317,Arhar (Tur/Red Gram),Bindki,2017-12-05,5350.0,0.5,21.2,rain
+1318,Bengal Gram(Gram),Bindki,2017-12-05,6350.0,0.7,21.2,rain
+1319,Bengal Gram(Gram),Fatehpur,2017-12-05,6200.0,1.5,21.2,rain
+1320,Green Gram (Moong),Bindki,2017-12-05,5570.0,5.0,21.2,rain
+1321,Arhar (Tur/Red Gram),Bindki,2017-05-14,5340.0,0.6,43.2,clear
+1322,Bengal Gram(Gram),Bindki,2017-05-14,6310.0,1.1,43.2,clear
+1323,Bengal Gram(Gram),Fatehpur,2017-05-14,6215.0,0.0,43.2,clear
+1324,Green Gram (Moong),Bindki,2017-05-14,5585.0,3.8,43.2,clear
+1325,Arhar (Tur/Red Gram),Bindki,2017-05-15,5310.0,0.5,42.2,clear
+1326,Bengal Gram(Gram),Bindki,2017-05-15,6290.0,1.0,42.2,clear
+1327,Bengal Gram(Gram),Fatehpur,2017-05-15,6210.0,0.0,42.2,clear
+1328,Green Gram (Moong),Bindki,2017-05-15,5570.0,3.0,42.2,clear
+1329,Arhar (Tur/Red Gram),Bindki,2017-05-16,5280.0,0.8,42.2,clear
+1330,Bengal Gram(Gram),Bindki,2017-05-16,6270.0,1.2,42.2,clear
+1331,Bengal Gram(Gram),Fatehpur,2017-05-16,6340.0,0.0,42.2,clear
+1332,Green Gram (Moong),Bindki,2017-05-16,5550.0,2.5,42.2,clear
+1333,Arhar (Tur/Red Gram),Bindki,2017-05-17,5350.0,0.7,27.2,clear
+1334,Bengal Gram(Gram),Bindki,2017-05-17,6320.0,0.8,27.2,clear
+1335,Bengal Gram(Gram),Fatehpur,2017-05-17,6275.0,0.0,27.2,clear
+1336,Green Gram (Moong),Bindki,2017-05-17,5630.0,2.0,27.2,clear
+1337,Arhar (Tur/Red Gram),Bindki,2017-05-18,5375.0,1.0,35.2,clear
+1338,Bengal Gram(Gram),Bindki,2017-05-18,6305.0,0.9,35.2,clear
+1339,Green Gram (Moong),Bindki,2017-05-18,5590.0,1.8,35.2,clear
+1340,Arhar (Tur/Red Gram),Bindki,2017-05-19,5350.0,0.6,37.2,clear
+1341,Bengal Gram(Gram),Bindki,2017-05-19,6320.0,1.4,37.2,clear
+1342,Bengal Gram(Gram),Fatehpur,2017-05-19,6280.0,0.0,37.2,clear
+1343,Green Gram (Moong),Bindki,2017-05-19,5560.0,1.5,37.2,clear
+1344,Arhar (Tur/Red Gram),Bindki,2017-05-21,5340.0,0.8,36.2,clear
+1345,Bengal Gram(Gram),Bindki,2017-05-21,6290.0,1.0,36.2,clear
+1346,Bengal Gram(Gram),Fatehpur,2017-05-21,6320.0,0.0,36.2,clear
+1347,Green Gram (Moong),Bindki,2017-05-21,5480.0,1.6,36.2,clear
+1348,Arhar (Tur/Red Gram),Bindki,2017-05-22,5310.0,0.7,40.2,clear
+1349,Bengal Gram(Gram),Bindki,2017-05-22,6285.0,1.5,40.2,clear
+1350,Bengal Gram(Gram),Fatehpur,2017-05-22,6300.0,0.0,40.2,clear
+1351,Green Gram (Moong),Bindki,2017-05-22,5470.0,1.2,40.2,clear
+1352,Arhar (Tur/Red Gram),Bindki,2017-05-23,5350.0,0.9,39.2,clear
+1353,Bengal Gram(Gram),Bindki,2017-05-23,6300.0,1.2,39.2,clear
+1354,Bengal Gram(Gram),Fatehpur,2017-05-23,6310.0,0.0,39.2,clear
+1355,Green Gram (Moong),Bindki,2017-05-23,5465.0,1.0,39.2,clear
+1356,Arhar (Tur/Red Gram),Bindki,2017-05-24,5330.0,0.5,40.2,clear
+1357,Bengal Gram(Gram),Bindki,2017-05-24,6310.0,1.3,40.2,clear
+1358,Bengal Gram(Gram),Fatehpur,2017-05-24,6320.0,1.0,40.2,clear
+1359,Green Gram (Moong),Bindki,2017-05-24,5450.0,1.5,40.2,clear
+1360,Arhar (Tur/Red Gram),Bindki,2017-05-25,5290.0,1.1,42.2,clear
+1361,Bengal Gram(Gram),Bindki,2017-05-25,6315.0,1.0,42.2,clear
+1362,Green Gram (Moong),Bindki,2017-05-25,5310.0,1.3,42.2,clear
+1363,Arhar (Tur/Red Gram),Bindki,2017-05-26,5270.0,0.8,43.2,clear
+1364,Bengal Gram(Gram),Bindki,2017-05-26,6320.0,0.8,43.2,clear
+1365,Bengal Gram(Gram),Fatehpur,2017-05-26,6330.0,0.0,43.2,clear
+1366,Green Gram (Moong),Bindki,2017-05-26,5270.0,1.2,43.2,clear
+1367,Arhar (Tur/Red Gram),Bindki,2017-05-28,5210.0,0.7,38.2,clear
+1368,Bengal Gram(Gram),Bindki,2017-05-28,6310.0,1.4,38.2,clear
+1369,Bengal Gram(Gram),Fatehpur,2017-05-28,6340.0,0.0,38.2,clear
+1370,Green Gram (Moong),Bindki,2017-05-28,5160.0,1.0,38.2,clear
+1371,Arhar (Tur/Red Gram),Bindki,2017-05-29,5170.0,0.5,30.2,clear
+1372,Bengal Gram(Gram),Bindki,2017-05-29,6325.0,1.1,30.2,clear
+1373,Bengal Gram(Gram),Fatehpur,2017-05-29,6360.0,0.0,30.2,clear
+1374,Green Gram (Moong),Bindki,2017-05-29,4970.0,1.3,30.2,clear
+1375,Arhar (Tur/Red Gram),Bindki,2017-05-30,5120.0,0.9,33.2,clear
+1376,Bengal Gram(Gram),Bindki,2017-05-30,6330.0,1.0,33.2,clear
+1377,Bengal Gram(Gram),Fatehpur,2017-05-30,6375.0,0.0,33.2,clear
+1378,Green Gram (Moong),Bindki,2017-05-30,4920.0,1.6,33.2,clear
+1379,Arhar (Tur/Red Gram),Bindki,2017-05-31,5070.0,0.6,36.2,clear
+1380,Bengal Gram(Gram),Bindki,2017-05-31,6315.0,0.8,36.2,clear
+1381,Bengal Gram(Gram),Fatehpur,2017-05-31,6425.0,1.0,36.2,clear
+1382,Green Gram (Moong),Bindki,2017-05-31,4870.0,1.2,36.2,clear
+1383,Arhar (Tur/Red Gram),Bindki,2017-01-06,5060.0,0.8,29.2,clear
+1384,Bengal Gram(Gram),Bindki,2017-01-06,6320.0,0.9,29.2,clear
+1385,Green Gram (Moong),Bindki,2017-01-06,4860.0,1.0,29.2,clear
+1386,Arhar (Tur/Red Gram),Bindki,2017-02-06,4990.0,0.9,24.2,clear
+1387,Bengal Gram(Gram),Bindki,2017-02-06,6325.0,1.0,24.2,clear
+1388,Bengal Gram(Gram),Fatehpur,2017-02-06,6450.0,0.0,24.2,clear
+1389,Green Gram (Moong),Bindki,2017-02-06,4850.0,1.5,24.2,clear
+1390,Arhar (Tur/Red Gram),Bindki,2017-04-06,4930.0,0.7,36.2,clear
+1391,Bengal Gram(Gram),Bindki,2017-04-06,6320.0,0.9,36.2,clear
+1392,Bengal Gram(Gram),Fatehpur,2017-04-06,6360.0,1.2,36.2,clear
+1393,Green Gram (Moong),Bindki,2017-04-06,4810.0,1.4,36.2,clear
+1394,Arhar (Tur/Red Gram),Bindki,2017-05-06,4890.0,0.5,41.2,clear
+1395,Bengal Gram(Gram),Bindki,2017-05-06,6315.0,0.6,41.2,clear
+1396,Bengal Gram(Gram),Fatehpur,2017-05-06,6350.0,0.0,41.2,clear
+1397,Green Gram (Moong),Bindki,2017-05-06,4850.0,1.6,41.2,clear
+1398,Arhar (Tur/Red Gram),Bindki,2017-06-06,4870.0,0.6,37.2,clear
+1399,Bengal Gram(Gram),Bindki,2017-06-06,6310.0,0.7,37.2,clear
+1400,Bengal Gram(Gram),Fatehpur,2017-06-06,6330.0,0.0,37.2,clear
+1401,Green Gram (Moong),Bindki,2017-06-06,4810.0,1.2,37.2,clear
+1402,Arhar (Tur/Red Gram),Bindki,2017-07-06,4860.0,0.7,27.2,clear
+1403,Bengal Gram(Gram),Bindki,2017-07-06,6320.0,0.8,27.2,clear
+1404,Bengal Gram(Gram),Fatehpur,2017-07-06,6350.0,0.0,27.2,clear
+1405,Green Gram (Moong),Bindki,2017-07-06,4890.0,7.0,27.2,clear
+1406,Arhar (Tur/Red Gram),Bindki,2017-08-06,4850.0,0.8,30.2,clear
+1407,Bengal Gram(Gram),Bindki,2017-08-06,6325.0,1.0,30.2,clear
+1408,Green Gram (Moong),Bindki,2017-08-06,4930.0,5.0,30.2,clear
+1409,Arhar (Tur/Red Gram),Bindki,2017-09-06,4850.0,1.0,35.2,clear
+1410,Bengal Gram(Gram),Bindki,2017-09-06,6330.0,1.2,35.2,clear
+1411,Bengal Gram(Gram),Fatehpur,2017-09-06,6340.0,6260.0,35.2,clear
+1412,Green Gram (Moong),Bindki,2017-09-06,4940.0,6.0,35.2,clear
+1413,Arhar (Tur/Red Gram),Bindki,2017-11-06,4840.0,0.8,27.2,clear
+1414,Bengal Gram(Gram),Bindki,2017-11-06,6340.0,0.7,27.2,clear
+1415,Bengal Gram(Gram),Fatehpur,2017-11-06,6380.0,0.0,27.2,clear
+1416,Green Gram (Moong),Bindki,2017-11-06,4930.0,10.0,27.2,clear
+1417,Arhar (Tur/Red Gram),Bindki,2017-12-06,4845.0,0.7,22.2,clear
+1418,Bengal Gram(Gram),Bindki,2017-12-06,6345.0,0.8,22.2,clear
+1419,Bengal Gram(Gram),Fatehpur,2017-12-06,6400.0,0.0,22.2,clear
+1420,Green Gram (Moong),Bindki,2017-12-06,4900.0,13.0,22.2,clear
+1421,Arhar (Tur/Red Gram),Bindki,2017-06-13,4850.0,0.6,40.2,clear
+1422,Bengal Gram(Gram),Bindki,2017-06-13,6350.0,1.0,40.2,clear
+1423,Bengal Gram(Gram),Fatehpur,2017-06-13,6440.0,0.0,40.2,clear
+1424,Green Gram (Moong),Bindki,2017-06-13,4870.0,15.0,40.2,clear
+1425,Arhar (Tur/Red Gram),Bindki,2017-06-14,4855.0,1.0,40.2,clear
+1426,Bengal Gram(Gram),Bindki,2017-06-14,6380.0,0.9,40.2,clear
+1427,Bengal Gram(Gram),Fatehpur,2017-06-14,6460.0,0.0,40.2,clear
+1428,Green Gram (Moong),Bindki,2017-06-14,4860.0,19.0,40.2,clear
+1429,Arhar (Tur/Red Gram),Bindki,2017-06-15,4830.0,0.5,40.2,clear
+1430,Bengal Gram(Gram),Bindki,2017-06-15,6395.0,0.6,40.2,clear
+1431,Green Gram (Moong),Bindki,2017-06-15,4850.0,23.0,40.2,clear
+1432,Arhar (Tur/Red Gram),Bindki,2017-06-16,4810.0,0.6,37.2,clear
+1433,Bengal Gram(Gram),Fatehpur,2017-06-16,6500.0,0.0,37.2,clear
+1434,Arhar (Tur/Red Gram),Bindki,2017-06-29,4795.0,1.5,33.2,clear
+1435,Bengal Gram(Gram),Bindki,2017-06-29,6210.0,0.8,33.2,clear
+1436,Arhar (Tur/Red Gram),Bindki,2017-09-19,4300.0,3.0,33.2,clear
+1437,Bengal Gram(Gram),Bindki,2017-09-19,6000.0,4.0,33.2,clear
+1438,Bengal Gram(Gram),Fatehpur,2017-09-19,6700.0,0.0,33.2,clear
+1439,Green Gram (Moong),Bindki,2017-09-19,4400.0,10.0,33.2,clear
+1440,Arhar (Tur/Red Gram),Bindki,2017-09-20,4300.0,3.5,31.2,clear
+1441,Bengal Gram(Gram),Bindki,2017-09-20,6000.0,5.0,31.2,clear
+1442,Bengal Gram(Gram),Fatehpur,2017-09-20,6740.0,0.0,31.2,clear
+1443,Green Gram (Moong),Bindki,2017-09-20,4400.0,13.0,31.2,clear
+1444,Arhar (Tur/Red Gram),Bindki,2017-09-21,4290.0,3.0,28.2,clear
+1445,Bengal Gram(Gram),Bindki,2017-09-21,6000.0,2.5,28.2,clear
+1446,Green Gram (Moong),Bindki,2017-09-21,4350.0,9.0,28.2,clear
+1447,Arhar (Tur/Red Gram),Bindki,2017-09-22,4300.0,5.0,29.2,clear
+1448,Bengal Gram(Gram),Bindki,2017-09-22,6050.0,4.0,29.2,clear
+1449,Bengal Gram(Gram),Fatehpur,2017-09-22,6750.0,0.0,29.2,clear
+1450,Green Gram (Moong),Bindki,2017-09-22,4360.0,15.0,29.2,clear
+1451,Arhar (Tur/Red Gram),Bindki,2017-09-24,4370.0,2.0,32.2,clear
+1452,Bengal Gram(Gram),Bindki,2017-09-24,6080.0,2.5,32.2,clear
+1453,Bengal Gram(Gram),Fatehpur,2017-09-24,6820.0,0.0,32.2,clear
+1454,Green Gram (Moong),Bindki,2017-09-24,4350.0,4.0,32.2,clear
+1455,Arhar (Tur/Red Gram),Bindki,2017-09-25,4370.0,2.5,32.2,clear
+1456,Bengal Gram(Gram),Bindki,2017-09-25,6100.0,3.0,32.2,clear
+1457,Bengal Gram(Gram),Fatehpur,2017-09-25,6810.0,0.0,32.2,clear
+1458,Green Gram (Moong),Bindki,2017-09-25,4350.0,16.0,32.2,clear
+1459,Arhar (Tur/Red Gram),Bindki,2017-09-27,4320.0,5.0,33.2,clear
+1460,Arhar (Tur/Red Gram),Kishunpur,2017-09-27,3300.0,10.0,33.2,clear
+1461,Bengal Gram(Gram),Bindki,2017-09-27,6150.0,9.0,33.2,clear
+1462,Bengal Gram(Gram),Fatehpur,2017-09-27,6900.0,0.0,33.2,clear
+1463,Green Gram (Moong),Bindki,2017-09-27,4340.0,15.0,33.2,clear
+1464,Arhar (Tur/Red Gram),Bindki,2017-04-10,4400.0,2.0,34.2,clear
+1465,Bengal Gram(Gram),Bindki,2017-04-10,6150.0,10.0,34.2,clear
+1466,Bengal Gram(Gram),Fatehpur,2017-04-10,6770.0,1.0,34.2,clear
+1467,Green Gram (Moong),Bindki,2017-04-10,4350.0,8.0,34.2,clear
+1468,Arhar (Tur/Red Gram),Bindki,2017-05-10,4400.0,1.5,31.2,clear
+1469,Bengal Gram(Gram),Bindki,2017-05-10,6180.0,3.0,31.2,clear
+1470,Green Gram (Moong),Bindki,2017-05-10,4350.0,7.0,31.2,clear
+1471,Arhar (Tur/Red Gram),Bindki,2017-06-10,4410.0,2.0,39.2,clear
+1472,Bengal Gram(Gram),Bindki,2017-06-10,6170.0,4.5,39.2,clear
+1473,Bengal Gram(Gram),Fatehpur,2017-06-10,6700.0,0.0,39.2,clear
+1474,Green Gram (Moong),Bindki,2017-06-10,4370.0,5.0,39.2,clear
+1475,Arhar (Tur/Red Gram),Bindki,2017-09-10,4400.0,2.0,35.2,clear
+1476,Bengal Gram(Gram),Bindki,2017-09-10,6180.0,5.0,35.2,clear
+1477,Bengal Gram(Gram),Fatehpur,2017-09-10,6650.0,0.0,35.2,clear
+1478,Green Gram (Moong),Bindki,2017-09-10,4425.0,3.0,35.2,clear
+1479,Arhar (Tur/Red Gram),Bindki,2017-10-10,4300.0,3.0,33.2,clear
+1480,Bengal Gram(Gram),Bindki,2017-10-10,6100.0,5.0,33.2,clear
+1481,Bengal Gram(Gram),Fatehpur,2017-10-10,6670.0,0.0,33.2,clear
+1482,Green Gram (Moong),Bindki,2017-10-10,4400.0,3.5,33.2,clear
+1483,Arhar (Tur/Red Gram),Bindki,2017-11-10,4300.0,3.5,26.2,clear
+1484,Bengal Gram(Gram),Bindki,2017-11-10,6070.0,9.0,26.2,clear
+1485,Bengal Gram(Gram),Fatehpur,2017-11-10,6660.0,0.0,26.2,clear
+1486,Green Gram (Moong),Bindki,2017-11-10,4400.0,5.0,26.2,clear
+1487,Arhar (Tur/Red Gram),Bindki,2017-12-10,4300.0,3.0,23.2,clear
+1488,Bengal Gram(Gram),Bindki,2017-12-10,6090.0,5.0,23.2,clear
+1489,Green Gram (Moong),Bindki,2017-12-10,4425.0,2.0,23.2,clear
+1490,Arhar (Tur/Red Gram),Bindki,2017-10-13,4250.0,2.0,33.2,clear
+1491,Bengal Gram(Gram),Bindki,2017-10-13,6050.0,4.0,33.2,clear
+1492,Bengal Gram(Gram),Fatehpur,2017-10-13,6600.0,0.0,33.2,clear
+1493,Green Gram (Moong),Bindki,2017-10-13,4400.0,1.5,33.2,clear
+1494,Arhar (Tur/Red Gram),Bindki,2017-10-15,4280.0,2.5,34.2,clear
+1495,Bengal Gram(Gram),Bindki,2017-10-15,6050.0,4.0,34.2,clear
+1496,Bengal Gram(Gram),Fatehpur,2017-10-15,6560.0,0.0,34.2,clear
+1497,Green Gram (Moong),Bindki,2017-10-15,4400.0,4.0,34.2,clear
+1498,Arhar (Tur/Red Gram),Bindki,2017-10-16,4300.0,3.0,33.2,clear
+1499,Bengal Gram(Gram),Bindki,2017-10-16,6000.0,3.5,33.2,clear
+1500,Bengal Gram(Gram),Fatehpur,2017-10-16,6500.0,0.0,33.2,clear
+1501,Green Gram (Moong),Bindki,2017-10-16,4380.0,3.0,33.2,clear
+1502,Arhar (Tur/Red Gram),Bindki,2017-10-22,6070.0,2.5,31.2,clear
+1503,Bengal Gram(Gram),Bindki,2017-10-22,6080.0,2.0,31.2,clear
+1504,Bengal Gram(Gram),Fatehpur,2017-10-22,6720.0,0.0,31.2,clear
+1505,Arhar (Tur/Red Gram),Bindki,2017-10-23,4250.0,2.0,27.2,clear
+1506,Bengal Gram(Gram),Fatehpur,2017-10-23,6700.0,0.0,27.2,clear
+1507,Arhar (Tur/Red Gram),Bindki,2017-10-24,4260.0,3.0,31.2,clear
+1508,Bengal Gram(Gram),Bindki,2017-10-24,6080.0,3.5,31.2,clear
+1509,Bengal Gram(Gram),Fatehpur,2017-10-24,6500.0,0.0,31.2,clear
+1510,Green Gram (Moong),Bindki,2017-10-24,4380.0,2.5,31.2,clear
+1511,Arhar (Tur/Red Gram),Bindki,2017-10-25,4200.0,4.0,30.2,clear
+1512,Bengal Gram(Gram),Bindki,2017-10-25,6080.0,4.0,30.2,clear
+1513,Bengal Gram(Gram),Fatehpur,2017-10-25,6520.0,1.0,30.2,clear
+1514,Green Gram (Moong),Bindki,2017-10-25,4350.0,1.5,30.2,clear
+1515,Arhar (Tur/Red Gram),Bindki,2017-10-26,4225.0,3.5,29.2,clear
+1516,Bengal Gram(Gram),Bindki,2017-10-26,6050.0,3.0,29.2,clear
+1517,Green Gram (Moong),Bindki,2017-10-26,4350.0,2.0,29.2,clear
+1518,Arhar (Tur/Red Gram),Bindki,2017-10-27,4215.0,2.8,29.2,clear
+1519,Bengal Gram(Gram),Bindki,2017-10-27,6000.0,3.5,29.2,clear
+1520,Bengal Gram(Gram),Fatehpur,2017-10-27,6500.0,0.0,29.2,clear
+1521,Green Gram (Moong),Bindki,2017-10-27,4325.0,3.5,29.2,clear
+1522,Arhar (Tur/Red Gram),Bindki,2017-10-29,4225.0,1.5,29.2,clear
+1523,Bengal Gram(Gram),Bindki,2017-10-29,6050.0,2.5,29.2,clear
+1524,Bengal Gram(Gram),Fatehpur,2017-10-29,6500.0,0.0,29.2,clear
+1525,Green Gram (Moong),Bindki,2017-10-29,4350.0,2.5,29.2,clear
+1526,Arhar (Tur/Red Gram),Bindki,2017-10-30,4250.0,2.5,28.2,clear
+1527,Bengal Gram(Gram),Bindki,2017-10-30,6025.0,2.5,28.2,clear
+1528,Bengal Gram(Gram),Fatehpur,2017-10-30,6500.0,6.0,28.2,clear
+1529,Green Gram (Moong),Bindki,2017-10-30,4325.0,2.5,28.2,clear
+1530,Arhar (Tur/Red Gram),Bindki,2017-10-31,4300.0,2.0,28.2,clear
+1531,Bengal Gram(Gram),Bindki,2017-10-31,6090.0,3.5,28.2,clear
+1532,Bengal Gram(Gram),Fatehpur,2017-10-31,6510.0,0.0,28.2,clear
+1533,Green Gram (Moong),Bindki,2017-10-31,4200.0,3.5,28.2,clear
+1534,Arhar (Tur/Red Gram),Bindki,2017-03-11,4300.0,2.0,23.2,clear
+1535,Bengal Gram(Gram),Bindki,2017-03-11,6030.0,2.8,23.2,clear
+1536,Bengal Gram(Gram),Fatehpur,2017-03-11,6440.0,1.2,23.2,clear
+1537,Green Gram (Moong),Bindki,2017-03-11,4250.0,2.5,23.2,clear
+1538,Arhar (Tur/Red Gram),Kishunpur,2017-07-16,1625.0,310.0,35.2,clear
+1539,Bengal Gram(Gram),Bindki,2017-07-16,5700.0,1.2,35.2,clear
+1540,Bengal Gram(Gram),Fatehpur,2017-07-16,6175.0,1.2,35.2,clear
+1541,Green Gram (Moong),Khaga,2017-07-16,3800.0,7.0,35.2,clear
+1542,Arhar (Tur/Red Gram),Kishunpur,2017-04-08,3500.0,1.0,37.2,clear
+1543,Bengal Gram(Gram),Bindki,2017-04-08,5075.0,1.5,37.2,clear
+1544,Bengal Gram(Gram),Fatehpur,2017-04-08,6040.0,0.0,37.2,clear
+1545,Arhar (Tur/Red Gram),Kishunpur,2017-07-08,1500.0,22.0,30.2,clear
+1546,Bengal Gram(Gram),Bindki,2017-07-08,4930.0,1.0,30.2,clear
+1547,Bengal Gram(Gram),Fatehpur,2017-07-08,5980.0,0.0,30.2,clear
+1548,Arhar (Tur/Red Gram),Kishunpur,2017-10-08,1510.0,22.0,36.2,clear
+1549,Bengal Gram(Gram),Bindki,2017-10-08,4950.0,1.0,36.2,clear
+1550,Arhar (Tur/Red Gram),Kishunpur,2017-08-14,3600.0,2.5,31.2,clear
+1551,Bengal Gram(Gram),Bindki,2017-08-14,4875.0,1.5,31.2,clear
+1552,Bengal Gram(Gram),Fatehpur,2017-08-14,6460.0,0.0,31.2,clear
+1553,Arhar (Tur/Red Gram),Kishunpur,2017-08-24,3800.0,3.0,34.2,clear
+1554,Bengal Gram(Gram),Bindki,2017-08-24,4915.0,1.0,34.2,clear
+1555,Arhar (Tur/Red Gram),Kishunpur,2017-08-29,4000.0,1.0,29.2,clear
+1556,Bengal Gram(Gram),Bindki,2017-08-29,5210.0,1.5,29.2,clear
+1557,Bengal Gram(Gram),Fatehpur,2017-08-29,6480.0,0.0,29.2,clear
+1558,Green Gram (Moong),Kishunpur,2017-08-29,4100.0,1.2,29.2,clear
+1559,Arhar (Tur/Red Gram),Kishunpur,2017-12-09,1500.0,20.0,22.2,clear
+1560,Bengal Gram(Gram),Bindki,2017-12-09,5970.0,2.0,22.2,clear
+1561,Bengal Gram(Gram),Fatehpur,2017-12-09,6600.0,0.0,22.2,clear
+1562,Bengal Gram(Gram),Bindki,2017-04-07,6390.0,1.2,36.2,clear
+1563,Bengal Gram(Gram),Fatehpur,2017-04-07,6380.0,0.0,36.2,clear
+1564,Bengal Gram(Gram),Bindki,2017-05-07,6100.0,1.0,42.2,clear
+1565,Bengal Gram(Gram),Fatehpur,2017-05-07,6385.0,1.0,42.2,clear
+1566,Bengal Gram(Gram),Bindki,2017-06-07,5910.0,0.8,35.6,clear
+1567,Bengal Gram(Gram),Bindki,2017-07-07,5895.0,0.7,33.2,clear
+1568,Bengal Gram(Gram),Fatehpur,2017-07-07,6360.0,0.0,33.2,clear
+1569,Bengal Gram(Gram),Khaga,2017-07-07,5100.0,0.0,33.2,clear
+1570,Green Gram (Moong),Khaga,2017-07-07,4100.0,27.0,33.2,clear
+1571,Bengal Gram(Gram),Bindki,2017-12-07,5710.0,0.9,24.2,clear
+1572,Bengal Gram(Gram),Fatehpur,2017-12-07,6240.0,0.0,24.2,clear
+1573,Bengal Gram(Gram),Bindki,2017-07-13,5700.0,1.0,30.2,clear
+1574,Bengal Gram(Gram),Bindki,2017-07-14,5720.0,1.0,32.2,clear
+1575,Bengal Gram(Gram),Fatehpur,2017-07-14,6250.0,0.0,32.2,clear
+1576,Green Gram (Moong),Khaga,2017-07-14,4000.0,10.0,32.2,clear
+1577,Bengal Gram(Gram),Bindki,2017-07-17,5650.0,1.2,29.2,clear
+1578,Bengal Gram(Gram),Fatehpur,2017-07-17,6120.0,0.0,29.2,clear
+1579,Green Gram (Moong),Khaga,2017-07-17,3800.0,5.0,29.2,clear
+1580,Bengal Gram(Gram),Bindki,2017-07-18,5670.0,1.0,34.2,clear
+1581,Bengal Gram(Gram),Fatehpur,2017-07-18,6085.0,0.0,34.2,clear
+1582,Green Gram (Moong),Khaga,2017-07-18,3800.0,3.0,34.2,clear
+1583,Bengal Gram(Gram),Bindki,2017-07-19,5680.0,1.5,32.2,clear
+1584,Bengal Gram(Gram),Fatehpur,2017-07-19,6050.0,1.3,32.2,clear
+1585,Green Gram (Moong),Khaga,2017-07-19,3800.0,6.5,32.2,clear
+1586,Bengal Gram(Gram),Bindki,2017-07-20,5650.0,1.0,31.2,clear
+1587,Green Gram (Moong),Khaga,2017-07-20,3800.0,1.5,31.2,clear
+1588,Bengal Gram(Gram),Bindki,2017-07-21,5615.0,1.2,29.2,clear
+1589,Bengal Gram(Gram),Fatehpur,2017-07-21,6030.0,0.0,29.2,clear
+1590,Green Gram (Moong),Khaga,2017-07-21,3800.0,1.8,29.2,clear
+1591,Bengal Gram(Gram),Bindki,2017-07-23,5600.0,1.0,28.5,clear
+1592,Bengal Gram(Gram),Fatehpur,2017-07-23,6060.0,0.0,28.5,clear
+1593,Bengal Gram(Gram),Bindki,2017-07-24,5595.0,1.0,31.2,clear
+1594,Bengal Gram(Gram),Fatehpur,2017-07-24,6050.0,0.0,31.2,clear
+1595,Bengal Gram(Gram),Bindki,2017-07-25,5570.0,1.2,27.2,clear
+1596,Bengal Gram(Gram),Fatehpur,2017-07-25,6060.0,0.0,27.2,clear
+1597,Bengal Gram(Gram),Bindki,2017-07-26,5550.0,0.9,31.2,clear
+1598,Bengal Gram(Gram),Fatehpur,2017-07-26,6050.0,0.0,31.2,clear
+1599,Green Gram (Moong),Khaga,2017-07-26,3800.0,1.3,31.2,clear
+1600,Bengal Gram(Gram),Bindki,2017-07-27,5515.0,1.2,30.2,clear
+1601,Bengal Gram(Gram),Bindki,2017-07-28,5500.0,1.0,32.2,clear
+1602,Bengal Gram(Gram),Fatehpur,2017-07-28,5900.0,0.0,32.2,clear
+1603,Green Gram (Moong),Khaga,2017-07-28,3800.0,1.2,32.2,clear
+1604,Bengal Gram(Gram),Bindki,2017-07-30,5495.0,2.5,33.2,clear
+1605,Bengal Gram(Gram),Fatehpur,2017-07-30,5900.0,0.0,33.2,clear
+1606,Bengal Gram(Gram),Bindki,2017-07-31,5450.0,1.5,32.2,clear
+1607,Bengal Gram(Gram),Fatehpur,2017-07-31,6000.0,0.0,32.2,clear
+1608,Bengal Gram(Gram),Bindki,2017-02-08,5310.0,1.5,22.2,clear
+1609,Bengal Gram(Gram),Fatehpur,2017-02-08,6060.0,0.0,22.2,clear
+1610,Bengal Gram(Gram),Bindki,2017-03-08,5225.0,1.2,28.2,clear
+1611,Bengal Gram(Gram),Bindki,2017-06-08,4940.0,2.0,33.2,clear
+1612,Bengal Gram(Gram),Fatehpur,2017-06-08,6010.0,1.0,33.2,clear
+1613,Bengal Gram(Gram),Bindki,2017-08-08,4930.0,1.0,30.2,clear
+1614,Bengal Gram(Gram),Fatehpur,2017-08-08,5970.0,0.0,30.2,clear
+1615,Bengal Gram(Gram),Bindki,2017-09-08,4945.0,1.5,34.2,clear
+1616,Bengal Gram(Gram),Fatehpur,2017-09-08,5960.0,0.0,34.2,clear
+1617,Bengal Gram(Gram),Bindki,2017-11-08,4975.0,1.2,27.2,clear
+1618,Bengal Gram(Gram),Fatehpur,2017-11-08,6000.0,5.0,27.2,clear
+1619,Bengal Gram(Gram),Bindki,2017-08-13,4945.0,2.0,32.2,clear
+1620,Bengal Gram(Gram),Fatehpur,2017-08-13,6280.0,1.2,32.2,clear
+1621,Bengal Gram(Gram),Bindki,2017-08-16,4910.0,1.0,34.2,clear
+1622,Bengal Gram(Gram),Fatehpur,2017-08-16,6520.0,0.0,34.2,clear
+1623,Bengal Gram(Gram),Bindki,2017-08-17,4925.0,1.5,33.2,clear
+1624,Bengal Gram(Gram),Bindki,2017-08-18,4900.0,1.0,31.2,clear
+1625,Bengal Gram(Gram),Fatehpur,2017-08-18,6350.0,0.0,31.2,clear
+1626,Bengal Gram(Gram),Bindki,2017-08-20,4910.0,2.0,34.2,clear
+1627,Bengal Gram(Gram),Fatehpur,2017-08-20,6300.0,0.0,34.2,clear
+1628,Bengal Gram(Gram),Bindki,2017-08-21,4915.0,1.5,31.2,clear
+1629,Bengal Gram(Gram),Fatehpur,2017-08-21,6280.0,0.0,31.2,clear
+1630,Bengal Gram(Gram),Bindki,2017-08-22,4900.0,1.0,34.2,clear
+1631,Bengal Gram(Gram),Fatehpur,2017-08-22,6250.0,0.0,34.2,clear
+1632,Bengal Gram(Gram),Bindki,2017-08-23,4895.0,1.5,30.2,clear
+1633,Bengal Gram(Gram),Fatehpur,2017-08-23,6260.0,0.0,30.2,clear
+1634,Bengal Gram(Gram),Bindki,2017-08-25,5000.0,1.0,32.2,clear
+1635,Bengal Gram(Gram),Fatehpur,2017-08-25,6310.0,0.0,32.2,clear
+1636,Bengal Gram(Gram),Bindki,2017-08-27,5135.0,2.0,30.2,clear
+1637,Bengal Gram(Gram),Fatehpur,2017-08-27,6310.0,1.0,30.2,clear
+1638,Bengal Gram(Gram),Bindki,2017-08-28,5140.0,1.0,31.2,clear
+1639,Bengal Gram(Gram),Fatehpur,2017-08-28,6315.0,0.0,31.2,clear
+1640,Bengal Gram(Gram),Bindki,2017-08-30,5250.0,2.8,31.2,clear
+1641,Bengal Gram(Gram),Fatehpur,2017-08-30,6650.0,0.0,31.2,clear
+1642,Bengal Gram(Gram),Bindki,2017-01-09,5190.0,1.5,13.2,clear
+1643,Bengal Gram(Gram),Fatehpur,2017-01-09,6700.0,0.0,13.2,clear
+1644,Bengal Gram(Gram),Bindki,2017-03-09,5200.0,2.0,28.2,clear
+1645,Bengal Gram(Gram),Fatehpur,2017-03-09,6740.0,0.0,28.2,clear
+1646,Bengal Gram(Gram),Bindki,2017-10-09,6050.0,2.0,34.2,clear
+1647,Bengal Gram(Gram),Fatehpur,2017-10-09,6750.0,0.0,34.2,clear
+1648,Bengal Gram(Gram),Bindki,2017-11-09,6000.0,1.5,27.2,clear
+1649,Bengal Gram(Gram),Fatehpur,2017-11-09,6740.0,0.0,27.2,clear
+1650,Bengal Gram(Gram),Bindki,2017-09-13,5950.0,2.0,35.2,clear
+1651,Bengal Gram(Gram),Fatehpur,2017-09-13,6620.0,0.0,35.2,clear
+1652,Bengal Gram(Gram),Bindki,2017-09-14,5980.0,2.5,31.2,clear
+1653,Bengal Gram(Gram),Bindki,2017-09-15,5950.0,2.5,32.2,clear
+1654,Bengal Gram(Gram),Fatehpur,2017-09-15,6650.0,0.0,32.2,clear
+1655,Bengal Gram(Gram),Bindki,2017-09-17,6000.0,1.5,32.2,clear
+1656,Bengal Gram(Gram),Fatehpur,2017-09-17,6600.0,1.0,32.2,clear
+1657,Bengal Gram(Gram),Bindki,2017-09-18,6010.0,2.0,31.2,clear
+1658,Bengal Gram(Gram),Fatehpur,2017-09-18,6600.0,0.0,31.2,clear
+1659,Bengal Gram(Gram),Fatehpur,2017-01-01,10360.0,0.0,16.2,clear
+1660,Bengal Gram(Gram),Fatehpur,2017-02-01,10350.0,0.0,22.2,clear
+1661,Bengal Gram(Gram),Fatehpur,2017-04-01,10400.0,1.5,30.2,clear
+1662,Bengal Gram(Gram),Fatehpur,2017-07-01,10350.0,0.0,34.2,clear
+1663,Bengal Gram(Gram),Fatehpur,2017-08-01,10300.0,0.0,31.6,clear
+1664,Bengal Gram(Gram),Fatehpur,2017-09-01,10275.0,0.0,31.2,clear
+1665,Bengal Gram(Gram),Fatehpur,2017-10-01,10260.0,0.0,34.2,clear
+1666,Bengal Gram(Gram),Fatehpur,2017-11-01,10250.0,0.0,28.2,clear
+1667,Bengal Gram(Gram),Fatehpur,2017-01-13,10200.0,1.0,15.2,clear
+1668,Bengal Gram(Gram),Fatehpur,2017-01-14,10150.0,1.5,16.2,clear
+1669,Bengal Gram(Gram),Fatehpur,2017-01-15,10200.0,0.0,17.2,clear
+1670,Bengal Gram(Gram),Fatehpur,2017-01-16,10050.0,0.0,20.2,clear
+1671,Bengal Gram(Gram),Fatehpur,2017-01-17,9950.0,0.0,19.2,clear
+1672,Bengal Gram(Gram),Fatehpur,2017-01-18,9870.0,0.0,17.2,clear
+1673,Bengal Gram(Gram),Fatehpur,2017-01-21,11250.0,0.0,20.2,clear
+1674,Bengal Gram(Gram),Fatehpur,2017-01-22,9650.0,0.0,21.2,clear
+1675,Bengal Gram(Gram),Fatehpur,2017-01-23,9440.0,0.0,22.2,clear
+1676,Bengal Gram(Gram),Fatehpur,2017-01-24,9375.0,0.0,23.2,clear
+1677,Bengal Gram(Gram),Fatehpur,2017-01-25,9320.0,0.0,24.2,clear
+1678,Bengal Gram(Gram),Fatehpur,2017-01-27,9320.0,0.0,15.2,clear
+1679,Bengal Gram(Gram),Fatehpur,2017-01-28,9300.0,0.0,20.2,clear
+1680,Bengal Gram(Gram),Fatehpur,2017-01-29,9310.0,0.0,19.2,clear
+1681,Bengal Gram(Gram),Fatehpur,2017-01-30,9320.0,0.0,20.2,clear
+1682,Bengal Gram(Gram),Fatehpur,2017-01-31,9275.0,0.0,22.2,clear
+1683,Bengal Gram(Gram),Fatehpur,2017-04-02,9200.0,0.0,39.2,clear
+1684,Bengal Gram(Gram),Fatehpur,2017-11-02,9040.0,0.0,28.2,clear
+1685,Bengal Gram(Gram),Fatehpur,2017-12-02,9030.0,0.0,22.2,clear
+1686,Bengal Gram(Gram),Fatehpur,2017-02-13,9000.0,0.0,24.2,clear
+1687,Bengal Gram(Gram),Fatehpur,2017-02-18,9020.0,0.0,27.2,clear
+1688,Bengal Gram(Gram),Fatehpur,2017-02-24,8920.0,0.0,26.2,clear
+1689,Bengal Gram(Gram),Fatehpur,2017-02-25,8890.0,0.0,29.5,clear
+1690,Bengal Gram(Gram),Fatehpur,2017-02-26,8850.0,0.0,26.2,clear
+1691,Bengal Gram(Gram),Fatehpur,2017-02-27,8840.0,0.0,27.2,clear
+1692,Bengal Gram(Gram),Fatehpur,2017-04-03,8760.0,0.0,39.2,clear
+1693,Bengal Gram(Gram),Fatehpur,2017-11-03,8310.0,1.2,27.2,clear
+1694,Bengal Gram(Gram),Fatehpur,2017-12-03,8240.0,1.6,23.2,clear
+1695,Bengal Gram(Gram),Fatehpur,2017-03-18,7520.0,2.2,29.2,clear
+1696,Bengal Gram(Gram),Fatehpur,2017-03-25,6675.0,1.6,34.2,clear
+1697,Bengal Gram(Gram),Fatehpur,2017-01-04,6510.0,1.0,20.2,clear
+1698,Bengal Gram(Gram),Fatehpur,2017-04-04,6420.0,1.0,32.2,clear
+1699,Bengal Gram(Gram),Fatehpur,2017-05-04,6530.0,0.0,39.2,clear
+1700,Bengal Gram(Gram),Fatehpur,2017-07-04,6585.0,0.0,28.2,clear
+1701,Bengal Gram(Gram),Fatehpur,2017-08-04,6600.0,0.0,32.2,clear
+1702,Bengal Gram(Gram),Fatehpur,2017-04-15,6570.0,0.0,39.2,clear
+1703,Bengal Gram(Gram),Fatehpur,2017-04-22,6420.0,1.8,40.2,clear
+1704,Bengal Gram(Gram),Fatehpur,2017-04-29,6230.0,0.0,39.2,clear
+1705,Bengal Gram(Gram),Fatehpur,2017-06-05,6250.0,0.0,42.2,clear
+1706,Bengal Gram(Gram),Fatehpur,2017-05-13,6210.0,1.2,40.2,clear
+1707,Bengal Gram(Gram),Fatehpur,2017-05-20,6300.0,0.0,42.5,clear
+1708,Bengal Gram(Gram),Fatehpur,2017-05-27,6320.0,0.0,37.2,clear
+1709,Bengal Gram(Gram),Fatehpur,2017-03-06,6410.0,0.0,27.2,clear
+1710,Bengal Gram(Gram),Fatehpur,2017-10-06,6360.0,0.0,34.2,clear
+1711,Bengal Gram(Gram),Fatehpur,2017-06-17,6440.0,0.0,38.2,clear
+1712,Bengal Gram(Gram),Fatehpur,2017-06-18,6430.0,1.2,35.2,clear
+1713,Bengal Gram(Gram),Fatehpur,2017-06-19,6415.0,0.0,37.2,clear
+1714,Bengal Gram(Gram),Fatehpur,2017-06-20,6400.0,0.0,37.2,clear
+1715,Bengal Gram(Gram),Fatehpur,2017-06-21,6410.0,1.2,31.2,clear
+1716,Bengal Gram(Gram),Fatehpur,2017-06-23,6400.0,0.0,33.2,clear
+1717,Bengal Gram(Gram),Fatehpur,2017-06-24,6375.0,0.0,39.2,clear
+1718,Bengal Gram(Gram),Fatehpur,2017-06-25,6370.0,1.0,32.2,clear
+1719,Bengal Gram(Gram),Fatehpur,2017-06-26,6380.0,0.0,39.2,clear
+1720,Bengal Gram(Gram),Fatehpur,2017-06-27,6360.0,0.0,39.2,clear
+1721,Bengal Gram(Gram),Fatehpur,2017-06-28,6350.0,0.0,39.2,clear
+1722,Bengal Gram(Gram),Fatehpur,2017-06-30,6360.0,0.0,32.2,clear
+1723,Bengal Gram(Gram),Fatehpur,2017-01-07,6350.0,0.0,14.2,clear
+1724,Bengal Gram(Gram),Fatehpur,2017-11-07,6250.0,0.0,26.2,clear
+1725,Bengal Gram(Gram),Fatehpur,2017-07-15,6230.0,0.0,32.2,clear
+1726,Green Gram (Moong),Khaga,2017-07-15,4000.0,10.0,32.2,clear
+1727,Bengal Gram(Gram),Fatehpur,2017-07-22,6050.0,0.0,29.2,clear
+1728,Green Gram (Moong),Khaga,2017-07-22,3800.0,1.5,29.2,clear
+1729,Bengal Gram(Gram),Fatehpur,2017-07-29,5800.0,1.0,32.2,clear
+1730,Bengal Gram(Gram),Fatehpur,2017-05-08,6000.0,0.0,41.2,clear
+1731,Bengal Gram(Gram),Fatehpur,2017-12-08,6120.0,0.0,22.2,clear
+1732,Bengal Gram(Gram),Fatehpur,2017-08-19,6330.0,0.0,32.2,clear
+1733,Bengal Gram(Gram),Fatehpur,2017-08-26,6300.0,0.0,31.2,clear
+1734,Bengal Gram(Gram),Fatehpur,2017-02-09,6720.0,0.0,23.2,clear
+1735,Bengal Gram(Gram),Fatehpur,2017-04-09,6750.0,0.0,34.2,clear
+1736,Bengal Gram(Gram),Fatehpur,2017-06-09,6750.0,0.0,38.2,clear
+1737,Bengal Gram(Gram),Fatehpur,2017-08-09,6760.0,0.0,30.2,clear
+1738,Bengal Gram(Gram),Fatehpur,2017-09-09,6750.0,0.0,36.2,clear
+1739,Bengal Gram(Gram),Fatehpur,2017-09-16,6620.0,0.0,34.2,clear
+1740,Bengal Gram(Gram),Fatehpur,2017-09-23,6800.0,0.0,32.2,clear
+1741,Bengal Gram(Gram),Fatehpur,2017-09-29,6880.0,0.0,30.2,clear
+1742,Bengal Gram(Gram),Fatehpur,2017-01-10,6880.0,0.0,13.2,clear
+1743,Bengal Gram(Gram),Fatehpur,2017-02-10,6800.0,1.0,22.2,clear
+1744,Bengal Gram(Gram),Fatehpur,2017-03-10,6800.0,0.0,22.2,clear
+1745,Bengal Gram(Gram),Fatehpur,2017-07-10,6710.0,0.0,30.2,clear
+1746,Bengal Gram(Gram),Fatehpur,2017-08-10,6700.0,1.0,28.2,clear
+1747,Bengal Gram(Gram),Fatehpur,2017-10-14,6600.0,0.0,34.2,clear
+1748,Bengal Gram(Gram),Fatehpur,2017-10-17,6530.0,0.0,34.2,clear
+1749,Bengal Gram(Gram),Fatehpur,2017-10-18,6600.0,0.0,33.2,clear
+1750,Bengal Gram(Gram),Fatehpur,2017-10-20,6670.0,0.0,31.2,clear
+1751,Bengal Gram(Gram),Fatehpur,2017-10-21,6700.0,0.0,33.2,clear
+1752,Bengal Gram(Gram),Fatehpur,2017-10-28,6530.0,0.0,29.2,clear
+1753,Green Gram (Moong),Bindki,2017-02-11,4290.0,3.0,22.2,clear

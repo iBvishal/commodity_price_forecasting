@@ -1,0 +1,1046 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Silapathar,2014-06-06,6000.0,0.1,30.0,clear
+1,Black Gram (Urd Beans),Silapathar,2014-06-06,5010.0,0.1,30.0,clear
+2,Arhar (Tur/Red Gram),Silapathar,2014-12-06,6000.0,0.1,28.8,clear
+3,Black Gram (Urd Beans),Silapathar,2014-12-06,5010.0,0.1,28.8,clear
+4,Arhar (Tur/Red Gram),Silapathar,2014-06-26,6000.0,1.6,34.0,clear
+5,Black Gram (Urd Beans),Silapathar,2014-06-26,5005.0,2.2,34.0,clear
+6,Green Gram (Moong),Silapathar,2014-06-26,9150.0,0.9,34.0,clear
+7,Arhar (Tur/Red Gram),Silapathar,2014-08-13,7500.0,0.0,26.6,rain
+8,Lentil(Masur),Silapathar,2014-08-13,7600.0,1.0,26.6,rain
+9,Arhar (Tur/Red Gram),Silapathar,2014-08-26,7500.0,1.1,28.2,clear
+10,Lentil(Masur),Silapathar,2014-08-26,7600.0,2.9,28.2,clear
+11,Arhar (Tur/Red Gram),Silapathar,2014-08-27,7500.0,0.7,30.6,clear
+12,Green Gram (Moong),Silapathar,2014-08-27,9600.0,1.4,30.6,clear
+13,Lentil(Masur),Silapathar,2014-08-27,7600.0,3.2,30.6,clear
+14,Arhar (Tur/Red Gram),Silapathar,2014-08-28,7500.0,1.5,33.6,clear
+15,Green Gram (Moong),Silapathar,2014-08-28,9600.0,1.7,33.6,clear
+16,Lentil(Masur),Silapathar,2014-08-28,7600.0,1.9,33.6,clear
+17,Arhar (Tur/Red Gram),Silapathar,2014-08-30,7500.0,1.0,32.6,clear
+18,Arhar (Tur/Red Gram),Silapathar,2014-09-22,7500.0,1.8,27.8,rain
+19,Green Gram (Moong),Silapathar,2014-09-22,9600.0,2.6,27.8,rain
+20,Lentil(Masur),Silapathar,2014-09-22,7600.0,3.4,27.8,rain
+21,Black Gram (Urd Beans),Silapathar,2014-05-06,5010.0,0.1,30.0,rain
+22,Black Gram (Urd Beans),Silapathar,2014-07-06,5010.0,0.1,32.4,clear
+23,Black Gram (Urd Beans),Silapathar,2014-09-06,5010.0,0.1,34.2,clear
+24,Black Gram (Urd Beans),Silapathar,2014-10-06,5010.0,0.1,34.6,clear
+25,Black Gram (Urd Beans),Silapathar,2014-11-06,4810.0,0.1,32.0,clear
+26,Black Gram (Urd Beans),Silapathar,2014-06-16,5010.0,0.4,32.2,clear
+27,Black Gram (Urd Beans),Silapathar,2014-06-17,5010.0,1.1,36.4,clear
+28,Black Gram (Urd Beans),Silapathar,2014-06-18,5010.0,1.3,35.6,rain
+29,Black Gram (Urd Beans),Silapathar,2014-06-23,5010.0,1.0,29.6,clear
+30,Black Gram (Urd Beans),Silapathar,2014-06-24,5010.0,1.5,29.6,clear
+31,Black Gram (Urd Beans),Silapathar,2014-06-25,5010.0,1.1,34.6,clear
+32,Black Gram (Urd Beans),Silapathar,2014-06-27,5010.0,0.1,31.0,clear
+33,Black Gram (Urd Beans),Silapathar,2014-06-30,5010.0,2.5,31.6,clear
+34,Black Gram (Urd Beans),Silapathar,2014-01-07,5010.0,1.5,18.4,clear
+35,Black Gram (Urd Beans),Silapathar,2014-02-07,5010.0,1.0,22.0,clear
+36,Black Gram (Urd Beans),Silapathar,2014-07-22,6000.0,3.0,31.2,clear
+37,Green Gram (Moong),Silapathar,2014-07-16,9600.0,5.3,31.6,clear
+38,Lentil(Masur),Silapathar,2014-07-16,5500.0,2.1,31.6,clear
+39,Green Gram (Moong),Silapathar,2014-07-17,9600.0,1.1,31.4,clear
+40,Lentil(Masur),Silapathar,2014-07-17,7400.0,2.8,31.4,clear
+41,Green Gram (Moong),Silapathar,2014-07-18,9600.0,1.8,33.0,clear
+42,Lentil(Masur),Silapathar,2014-07-18,7400.0,2.7,33.0,clear
+43,Green Gram (Moong),Silapathar,2014-07-24,6000.0,1.9,34.0,clear
+44,Green Gram (Moong),Silapathar,2014-02-08,9600.0,1.4,17.0,rain
+45,Lentil(Masur),Silapathar,2014-02-08,6450.0,1.6,17.0,rain
+46,Green Gram (Moong),Silapathar,2014-07-08,9600.0,0.5,28.8,clear
+47,Lentil(Masur),Silapathar,2014-07-08,6450.0,0.8,28.8,clear
+48,Green Gram (Moong),Silapathar,2014-09-08,9600.0,1.4,32.4,clear
+49,Lentil(Masur),Silapathar,2014-09-08,6450.0,1.5,32.4,clear
+50,Green Gram (Moong),Silapathar,2014-10-08,9600.0,1.2,34.8,clear
+51,Lentil(Masur),Silapathar,2014-10-08,6450.0,0.8,34.8,clear
+52,Green Gram (Moong),Silapathar,2014-11-08,9600.0,1.1,31.2,clear
+53,Lentil(Masur),Silapathar,2014-11-08,6450.0,1.3,31.2,clear
+54,Green Gram (Moong),Silapathar,2014-08-16,9600.0,4.4,28.6,clear
+55,Green Gram (Moong),Silapathar,2014-02-09,9600.0,2.1,21.0,rain
+56,Green Gram (Moong),Silapathar,2014-03-09,9600.0,3.4,28.8,clear
+57,Green Gram (Moong),Silapathar,2014-04-09,9600.0,2.4,24.8,clear
+58,Lentil(Masur),Silapathar,2014-04-09,7600.0,3.5,24.8,clear
+59,Green Gram (Moong),Silapathar,2014-09-16,9600.0,3.2,32.0,clear
+60,Lentil(Masur),Silapathar,2014-09-16,7600.0,3.5,32.0,clear
+61,Green Gram (Moong),Silapathar,2014-09-30,9600.0,2.4,34.0,clear
+62,Lentil(Masur),Silapathar,2014-09-30,7600.0,1.6,34.0,clear
+63,Green Gram (Moong),Silapathar,2014-01-10,9600.0,0.9,23.4,clear
+64,Green Gram (Moong),Silapathar,2014-11-10,9600.0,1.7,31.8,clear
+65,Lentil(Masur),Silapathar,2014-11-10,7500.0,1.4,31.8,clear
+66,Green Gram (Moong),Silapathar,2014-10-13,9600.0,1.7,33.0,clear
+67,Lentil(Masur),Silapathar,2014-10-13,7500.0,3.1,33.0,clear
+68,Green Gram (Moong),Silapathar,2014-10-14,9600.0,2.3,33.8,clear
+69,Lentil(Masur),Silapathar,2014-10-14,7600.0,3.8,33.8,clear
+70,Green Gram (Moong),Silapathar,2014-10-24,9600.0,2.4,31.2,clear
+71,Lentil(Masur),Silapathar,2014-10-24,7600.0,3.5,31.2,clear
+72,Green Gram (Moong),Silapathar,2014-04-11,9600.0,3.8,30.4,clear
+73,Lentil(Masur),Silapathar,2014-04-11,7600.0,3.8,30.4,clear
+74,Green Gram (Moong),Silapathar,2014-11-25,9600.0,4.1,26.0,clear
+75,Lentil(Masur),Silapathar,2014-11-25,7600.0,6.0,26.0,clear
+76,Green Gram (Moong),Silapathar,2014-11-29,9600.0,1.0,23.0,clear
+77,Green Gram (Moong),Silapathar,2014-12-18,9600.0,3.3,26.2,clear
+78,Lentil(Masur),Silapathar,2014-12-18,7500.0,4.6,26.2,clear
+79,Green Gram (Moong),Silapathar,2014-12-30,9600.0,3.4,27.0,clear
+80,Lentil(Masur),Silapathar,2014-12-30,7600.0,5.0,27.0,clear
+81,Lentil(Masur),Silapathar,2014-07-19,7400.0,2.0,32.6,clear
+82,Lentil(Masur),Silapathar,2014-06-09,7500.0,1.8,31.4,clear
+83,Lentil(Masur),Silapathar,2014-09-13,7500.0,3.0,30.0,clear
+84,Lentil(Masur),Silapathar,2014-09-14,7500.0,1.3,32.6,clear
+85,Lentil(Masur),Silapathar,2014-09-15,7500.0,2.0,33.2,clear
+86,Lentil(Masur),Silapathar,2014-09-19,7500.0,3.2,30.4,rain
+87,Lentil(Masur),Silapathar,2014-09-24,7600.0,2.3,28.4,clear
+88,Lentil(Masur),Silapathar,2014-09-29,7500.0,1.6,31.4,clear
+89,Lentil(Masur),Silapathar,2014-08-10,7500.0,1.3,31.8,rain
+90,Lentil(Masur),Silapathar,2014-09-10,7500.0,1.2,30.4,clear
+91,Lentil(Masur),Silapathar,2014-10-10,7500.0,2.3,33.4,clear
+92,Lentil(Masur),Silapathar,2014-10-15,7500.0,2.2,29.6,clear
+93,Lentil(Masur),Silapathar,2014-10-18,7500.0,2.5,32.0,clear
+94,Lentil(Masur),Silapathar,2014-10-20,7500.0,2.5,31.2,clear
+95,Lentil(Masur),Silapathar,2014-10-21,7500.0,4.5,32.0,clear
+96,Lentil(Masur),Silapathar,2014-10-22,7500.0,3.7,32.2,clear
+97,Lentil(Masur),Silapathar,2014-10-23,7500.0,2.7,32.6,clear
+98,Lentil(Masur),Silapathar,2014-10-25,7500.0,3.5,31.2,clear
+99,Lentil(Masur),Silapathar,2014-10-27,7500.0,4.5,28.0,clear
+100,Lentil(Masur),Silapathar,2014-10-29,7500.0,3.4,30.0,clear
+101,Lentil(Masur),Silapathar,2014-10-31,7500.0,2.2,30.0,clear
+102,Lentil(Masur),Silapathar,2014-03-11,7500.0,6.0,30.6,clear
+103,Lentil(Masur),Silapathar,2014-05-11,7500.0,4.8,22.4,clear
+104,Lentil(Masur),Silapathar,2014-06-11,7500.0,3.0,33.0,clear
+105,Lentil(Masur),Silapathar,2014-07-11,7500.0,4.0,35.0,clear
+106,Lentil(Masur),Silapathar,2014-08-11,7500.0,4.1,30.4,rain
+107,Lentil(Masur),Silapathar,2014-10-11,7500.0,4.8,33.0,clear
+108,Lentil(Masur),Silapathar,2014-12-11,7500.0,5.4,31.0,clear
+109,Lentil(Masur),Silapathar,2014-11-13,7500.0,2.9,25.4,clear
+110,Lentil(Masur),Silapathar,2014-11-14,7500.0,2.4,27.8,clear
+111,Lentil(Masur),Silapathar,2014-11-15,7500.0,5.6,28.6,clear
+112,Lentil(Masur),Silapathar,2014-11-17,7500.0,5.2,29.2,clear
+113,Lentil(Masur),Silapathar,2014-11-18,7500.0,5.4,29.4,clear
+114,Lentil(Masur),Silapathar,2014-11-19,7500.0,5.0,29.0,clear
+115,Lentil(Masur),Silapathar,2014-11-20,7500.0,8.1,30.4,clear
+116,Lentil(Masur),Silapathar,2014-11-21,7500.0,7.5,29.0,clear
+117,Lentil(Masur),Silapathar,2014-11-22,7500.0,4.8,22.6,clear
+118,Lentil(Masur),Silapathar,2014-11-24,7500.0,3.1,24.8,clear
+119,Lentil(Masur),Silapathar,2014-11-26,7500.0,4.6,25.6,clear
+120,Lentil(Masur),Silapathar,2014-11-27,7500.0,3.1,27.0,clear
+121,Lentil(Masur),Silapathar,2014-11-28,7500.0,4.5,23.4,clear
+122,Lentil(Masur),Silapathar,2014-02-12,7500.0,3.6,24.4,clear
+123,Lentil(Masur),Silapathar,2014-03-12,7500.0,3.7,28.0,clear
+124,Lentil(Masur),Silapathar,2014-04-12,7500.0,2.2,32.8,clear
+125,Lentil(Masur),Silapathar,2014-05-12,7500.0,4.4,27.6,rain
+126,Lentil(Masur),Silapathar,2014-09-12,7500.0,6.0,28.0,clear
+127,Lentil(Masur),Silapathar,2014-12-13,7500.0,6.5,26.2,clear
+128,Lentil(Masur),Silapathar,2014-12-15,7500.0,6.0,26.2,clear
+129,Lentil(Masur),Silapathar,2014-12-19,7500.0,2.3,25.0,clear
+130,Lentil(Masur),Silapathar,2014-12-20,7500.0,4.3,25.2,clear
+131,Lentil(Masur),Silapathar,2014-12-22,7500.0,6.7,25.2,clear
+132,Lentil(Masur),Silapathar,2014-12-23,7600.0,4.5,25.4,clear
+133,Lentil(Masur),Silapathar,2014-12-26,7500.0,1.5,25.8,clear
+134,Lentil(Masur),Silapathar,2014-12-27,7500.0,4.5,25.4,clear
+135,Lentil(Masur),Silapathar,2014-12-29,7600.0,6.6,26.4,clear
+136,Lentil(Masur),Silapathar,2014-12-31,7600.0,3.5,26.0,clear
+137,Arhar (Tur/Red Gram),Silapathar,2015-11-25,0.0,12.0,27.6,clear
+138,Lentil(Masur),Silapathar,2015-11-25,10300.0,1.4,27.6,clear
+139,Arhar (Tur/Red Gram),Silapathar,2015-05-12,12000.0,1.6,27.4,clear
+140,Lentil(Masur),Silapathar,2015-05-12,7500.0,3.2,27.4,clear
+141,Arhar (Tur/Red Gram),Silapathar,2015-06-12,12000.0,17.0,29.2,clear
+142,Green Gram (Moong),Silapathar,2015-06-12,9600.0,12.0,29.2,clear
+143,Lentil(Masur),Silapathar,2015-06-12,7500.0,25.0,29.2,clear
+144,Arhar (Tur/Red Gram),Silapathar,2015-09-12,12000.0,18.0,31.6,clear
+145,Green Gram (Moong),Silapathar,2015-09-12,9600.0,15.0,31.6,clear
+146,Lentil(Masur),Silapathar,2015-09-12,7500.0,25.0,31.6,clear
+147,Arhar (Tur/Red Gram),Silapathar,2015-10-12,12000.0,15.0,32.0,clear
+148,Green Gram (Moong),Silapathar,2015-10-12,9600.0,14.0,32.0,clear
+149,Lentil(Masur),Silapathar,2015-10-12,7500.0,0.0,32.0,clear
+150,Arhar (Tur/Red Gram),Silapathar,2015-12-12,12000.0,18.0,19.0,clear
+151,Lentil(Masur),Silapathar,2015-12-12,7500.0,24.0,19.0,clear
+152,Arhar (Tur/Red Gram),Silapathar,2015-12-17,12000.0,17.0,23.0,clear
+153,Green Gram (Moong),Silapathar,2015-12-17,9600.0,1.0,23.0,clear
+154,Lentil(Masur),Silapathar,2015-12-17,7500.0,25.0,23.0,clear
+155,Arhar (Tur/Red Gram),Silapathar,2015-12-18,12000.0,1.6,23.0,clear
+156,Green Gram (Moong),Silapathar,2015-12-18,9600.0,25.0,23.0,clear
+157,Lentil(Masur),Silapathar,2015-12-18,7500.0,24.0,23.0,clear
+158,Arhar (Tur/Red Gram),Silapathar,2015-12-19,12000.0,17.0,22.2,clear
+159,Green Gram (Moong),Silapathar,2015-12-19,9600.0,1.7,22.2,clear
+160,Lentil(Masur),Silapathar,2015-12-19,7500.0,2.3,22.2,clear
+161,Arhar (Tur/Red Gram),Silapathar,2015-12-20,12000.0,1.9,22.6,clear
+162,Green Gram (Moong),Silapathar,2015-12-20,9600.0,17.0,22.6,clear
+163,Lentil(Masur),Silapathar,2015-12-20,7500.0,2.0,22.6,clear
+164,Arhar (Tur/Red Gram),Silapathar,2015-12-21,12000.0,17.0,24.0,clear
+165,Green Gram (Moong),Silapathar,2015-12-21,9600.0,22.0,24.0,clear
+166,Lentil(Masur),Silapathar,2015-12-21,7500.0,2.1,24.0,clear
+167,Arhar (Tur/Red Gram),Silapathar,2015-12-22,12000.0,16.0,23.0,clear
+168,Green Gram (Moong),Silapathar,2015-12-22,9600.0,27.0,23.0,clear
+169,Lentil(Masur),Silapathar,2015-12-22,7500.0,24.0,23.0,clear
+170,Arhar (Tur/Red Gram),Silapathar,2015-12-23,12000.0,17.0,23.0,clear
+171,Green Gram (Moong),Silapathar,2015-12-23,9600.0,2.4,23.0,clear
+172,Lentil(Masur),Silapathar,2015-12-23,7500.0,2.2,23.0,clear
+173,Arhar (Tur/Red Gram),Silapathar,2015-12-25,12000.0,18.0,24.0,clear
+174,Black Gram (Urd Beans),Silapathar,2015-12-25,5500.0,21.0,24.0,clear
+175,Green Gram (Moong),Silapathar,2015-12-25,9600.0,22.0,24.0,clear
+176,Lentil(Masur),Silapathar,2015-12-25,7500.0,2.0,24.0,clear
+177,Arhar (Tur/Red Gram),Silapathar,2015-12-26,12000.0,1.1,23.8,clear
+178,Black Gram (Urd Beans),Silapathar,2015-12-26,5500.0,2.5,23.8,clear
+179,Green Gram (Moong),Silapathar,2015-12-26,9600.0,2.6,23.8,clear
+180,Lentil(Masur),Silapathar,2015-12-26,7500.0,2.0,23.8,clear
+181,Arhar (Tur/Red Gram),Silapathar,2015-12-28,12000.0,15.0,24.0,clear
+182,Black Gram (Urd Beans),Silapathar,2015-12-28,5500.0,3.2,24.0,clear
+183,Green Gram (Moong),Silapathar,2015-12-28,9600.0,24.0,24.0,clear
+184,Lentil(Masur),Silapathar,2015-12-28,7500.0,14.0,24.0,clear
+185,Arhar (Tur/Red Gram),Silapathar,2015-12-29,12000.0,1.6,25.0,clear
+186,Black Gram (Urd Beans),Silapathar,2015-12-29,5500.0,3.0,25.0,clear
+187,Green Gram (Moong),Silapathar,2015-12-29,9600.0,26.0,25.0,clear
+188,Lentil(Masur),Silapathar,2015-12-29,7500.0,1.5,25.0,clear
+189,Arhar (Tur/Red Gram),Silapathar,2015-12-30,12000.0,1.6,25.0,clear
+190,Black Gram (Urd Beans),Silapathar,2015-12-30,5500.0,2.3,25.0,clear
+191,Green Gram (Moong),Silapathar,2015-12-30,9600.0,2.2,25.0,clear
+192,Lentil(Masur),Silapathar,2015-12-30,7500.0,12.0,25.0,clear
+193,Arhar (Tur/Red Gram),Silapathar,2015-12-31,12000.0,23.0,26.0,clear
+194,Black Gram (Urd Beans),Silapathar,2015-12-31,5500.0,27.0,26.0,clear
+195,Green Gram (Moong),Silapathar,2015-12-31,9600.0,3.2,26.0,clear
+196,Lentil(Masur),Silapathar,2015-12-31,7500.0,1.2,26.0,clear
+197,Black Gram (Urd Beans),Silapathar,2015-01-06,5700.0,0.4,24.2,clear
+198,Green Gram (Moong),Silapathar,2015-01-06,9600.0,0.8,24.2,clear
+199,Black Gram (Urd Beans),Silapathar,2015-02-06,5700.0,1.5,27.0,clear
+200,Green Gram (Moong),Silapathar,2015-02-06,9600.0,1.4,27.0,clear
+201,Lentil(Masur),Silapathar,2015-02-06,7500.0,2.3,27.0,clear
+202,Black Gram (Urd Beans),Silapathar,2015-10-06,5700.0,0.3,33.0,clear
+203,Green Gram (Moong),Silapathar,2015-10-06,9600.0,0.6,33.0,clear
+204,Lentil(Masur),Silapathar,2015-10-06,7600.0,1.1,33.0,clear
+205,Black Gram (Urd Beans),Silapathar,2015-06-23,5700.0,1.5,33.4,clear
+206,Green Gram (Moong),Silapathar,2015-06-23,9600.0,1.2,33.4,clear
+207,Lentil(Masur),Silapathar,2015-06-23,7600.0,2.4,33.4,clear
+208,Black Gram (Urd Beans),Silapathar,2015-06-30,5700.0,1.3,32.0,clear
+209,Green Gram (Moong),Silapathar,2015-06-30,9600.0,0.9,32.0,clear
+210,Lentil(Masur),Silapathar,2015-06-30,7600.0,2.5,32.0,clear
+211,Black Gram (Urd Beans),Silapathar,2015-05-07,5700.0,0.9,29.0,clear
+212,Black Gram (Urd Beans),Silapathar,2015-07-14,5700.0,1.1,28.4,rain
+213,Black Gram (Urd Beans),Silapathar,2015-12-24,5500.0,26.0,23.6,clear
+214,Green Gram (Moong),Silapathar,2015-12-24,9600.0,2.3,23.6,clear
+215,Lentil(Masur),Silapathar,2015-12-24,7500.0,2.0,23.6,clear
+216,Green Gram (Moong),Silapathar,2015-06-01,9600.0,2.7,27.6,clear
+217,Lentil(Masur),Silapathar,2015-06-01,7500.0,5.0,27.6,clear
+218,Green Gram (Moong),Silapathar,2015-01-20,9600.0,2.8,26.8,clear
+219,Lentil(Masur),Silapathar,2015-01-20,7500.0,5.5,26.8,clear
+220,Green Gram (Moong),Silapathar,2015-11-02,9600.0,0.5,29.8,clear
+221,Lentil(Masur),Silapathar,2015-11-02,7500.0,1.9,29.8,clear
+222,Green Gram (Moong),Silapathar,2015-02-16,9600.0,0.6,27.0,clear
+223,Lentil(Masur),Silapathar,2015-02-16,7500.0,1.8,27.0,clear
+224,Green Gram (Moong),Silapathar,2015-02-17,9600.0,0.8,27.6,clear
+225,Lentil(Masur),Silapathar,2015-02-17,7500.0,2.7,27.6,clear
+226,Green Gram (Moong),Silapathar,2015-05-03,9600.0,0.3,29.0,rain
+227,Green Gram (Moong),Silapathar,2015-06-03,9600.0,0.7,29.8,clear
+228,Green Gram (Moong),Silapathar,2015-04-21,9600.0,1.8,25.6,clear
+229,Lentil(Masur),Silapathar,2015-04-21,7600.0,2.7,25.6,clear
+230,Green Gram (Moong),Silapathar,2015-04-29,9600.0,0.4,30.4,clear
+231,Lentil(Masur),Silapathar,2015-04-29,7600.0,1.1,30.4,clear
+232,Green Gram (Moong),Silapathar,2015-05-05,9600.0,1.7,27.6,clear
+233,Green Gram (Moong),Silapathar,2015-06-05,9600.0,0.4,26.8,rain
+234,Green Gram (Moong),Silapathar,2015-05-23,9600.0,0.9,24.6,rain
+235,Lentil(Masur),Silapathar,2015-05-23,7600.0,1.5,24.6,rain
+236,Green Gram (Moong),Silapathar,2015-05-26,9600.0,1.3,27.6,clear
+237,Lentil(Masur),Silapathar,2015-05-26,7600.0,1.8,27.6,clear
+238,Green Gram (Moong),Silapathar,2015-05-27,9600.0,0.7,24.2,clear
+239,Lentil(Masur),Silapathar,2015-05-27,7600.0,1.3,24.2,clear
+240,Green Gram (Moong),Silapathar,2015-05-29,9600.0,0.7,26.8,clear
+241,Lentil(Masur),Silapathar,2015-05-29,7600.0,1.4,26.8,clear
+242,Green Gram (Moong),Silapathar,2015-05-30,9600.0,0.6,32.2,clear
+243,Lentil(Masur),Silapathar,2015-05-30,7600.0,2.2,32.2,clear
+244,Green Gram (Moong),Silapathar,2015-04-06,9600.0,0.9,24.0,clear
+245,Lentil(Masur),Silapathar,2015-04-06,7500.0,1.6,24.0,clear
+246,Green Gram (Moong),Silapathar,2015-06-24,9600.0,0.9,33.4,clear
+247,Lentil(Masur),Silapathar,2015-06-24,7600.0,1.1,33.4,clear
+248,Green Gram (Moong),Silapathar,2015-11-09,9600.0,0.8,29.0,clear
+249,Lentil(Masur),Silapathar,2015-11-09,7600.0,1.7,29.0,clear
+250,Green Gram (Moong),Silapathar,2015-06-10,9600.0,13.0,24.8,clear
+251,Green Gram (Moong),Silapathar,2015-07-10,9600.0,2.4,31.4,clear
+252,Lentil(Masur),Silapathar,2015-07-10,7600.0,1.6,31.4,clear
+253,Green Gram (Moong),Silapathar,2015-08-10,9600.0,1.8,35.6,clear
+254,Lentil(Masur),Silapathar,2015-08-10,7600.0,2.8,35.6,clear
+255,Green Gram (Moong),Silapathar,2015-09-10,9700.0,1.6,34.8,clear
+256,Lentil(Masur),Silapathar,2015-09-10,7600.0,2.1,34.8,clear
+257,Green Gram (Moong),Silapathar,2015-12-10,9600.0,0.9,23.6,clear
+258,Lentil(Masur),Silapathar,2015-12-10,7600.0,1.5,23.6,clear
+259,Green Gram (Moong),Silapathar,2015-10-13,9600.0,1.7,32.8,clear
+260,Lentil(Masur),Silapathar,2015-10-13,7600.0,2.7,32.8,clear
+261,Green Gram (Moong),Silapathar,2015-10-14,9600.0,0.7,29.6,clear
+262,Lentil(Masur),Silapathar,2015-10-14,7600.0,1.7,29.6,clear
+263,Green Gram (Moong),Silapathar,2015-10-15,9600.0,0.9,26.0,clear
+264,Lentil(Masur),Silapathar,2015-10-15,7600.0,1.5,26.0,clear
+265,Green Gram (Moong),Silapathar,2015-10-16,9600.0,1.2,30.2,clear
+266,Lentil(Masur),Silapathar,2015-10-16,10300.0,1.1,30.2,clear
+267,Green Gram (Moong),Silapathar,2015-10-17,9600.0,0.5,32.4,clear
+268,Lentil(Masur),Silapathar,2015-10-17,10300.0,0.8,32.4,clear
+269,Green Gram (Moong),Silapathar,2015-10-19,9600.0,1.1,32.8,clear
+270,Lentil(Masur),Silapathar,2015-10-19,10300.0,1.3,32.8,clear
+271,Green Gram (Moong),Silapathar,2015-10-20,9600.0,1.6,32.0,clear
+272,Lentil(Masur),Silapathar,2015-10-20,10300.0,2.1,32.0,clear
+273,Green Gram (Moong),Silapathar,2015-10-21,9600.0,0.9,32.0,clear
+274,Lentil(Masur),Silapathar,2015-10-21,10300.0,1.0,32.0,clear
+275,Green Gram (Moong),Silapathar,2015-10-22,9600.0,1.8,31.2,clear
+276,Lentil(Masur),Silapathar,2015-10-22,10300.0,1.7,31.2,clear
+277,Green Gram (Moong),Silapathar,2015-10-23,9600.0,0.8,30.0,clear
+278,Lentil(Masur),Silapathar,2015-10-23,10300.0,1.2,30.0,clear
+279,Green Gram (Moong),Silapathar,2015-10-24,9600.0,1.4,27.4,clear
+280,Lentil(Masur),Silapathar,2015-10-24,10300.0,2.1,27.4,clear
+281,Green Gram (Moong),Silapathar,2015-10-26,9600.0,1.4,30.4,clear
+282,Lentil(Masur),Silapathar,2015-10-26,10300.0,2.0,30.4,clear
+283,Green Gram (Moong),Silapathar,2015-10-27,9600.0,1.1,31.2,clear
+284,Lentil(Masur),Silapathar,2015-10-27,10300.0,3.5,31.2,clear
+285,Green Gram (Moong),Silapathar,2015-10-28,9600.0,1.6,31.4,clear
+286,Lentil(Masur),Silapathar,2015-10-28,10300.0,1.2,31.4,clear
+287,Green Gram (Moong),Silapathar,2015-10-30,9600.0,0.9,30.6,clear
+288,Lentil(Masur),Silapathar,2015-10-30,10300.0,1.6,30.6,clear
+289,Green Gram (Moong),Silapathar,2015-10-31,9600.0,1.6,29.4,clear
+290,Lentil(Masur),Silapathar,2015-10-31,10300.0,2.0,29.4,clear
+291,Green Gram (Moong),Silapathar,2015-01-11,9600.0,8.0,24.6,clear
+292,Lentil(Masur),Silapathar,2015-01-11,10300.0,12.0,24.6,clear
+293,Green Gram (Moong),Silapathar,2015-02-11,9600.0,1.6,26.4,clear
+294,Lentil(Masur),Silapathar,2015-02-11,10300.0,2.3,26.4,clear
+295,Green Gram (Moong),Silapathar,2015-03-11,9600.0,3.1,31.6,clear
+296,Lentil(Masur),Silapathar,2015-03-11,10300.0,3.2,31.6,clear
+297,Green Gram (Moong),Silapathar,2015-04-11,9600.0,0.9,21.0,clear
+298,Lentil(Masur),Silapathar,2015-04-11,10300.0,1.8,21.0,clear
+299,Green Gram (Moong),Silapathar,2015-05-11,9600.0,12.0,32.6,clear
+300,Lentil(Masur),Silapathar,2015-05-11,10300.0,2.5,32.6,clear
+301,Green Gram (Moong),Silapathar,2015-06-11,9600.0,3.0,31.2,clear
+302,Lentil(Masur),Silapathar,2015-06-11,10300.0,4.0,31.2,clear
+303,Green Gram (Moong),Silapathar,2015-07-11,9600.0,1.1,34.6,clear
+304,Lentil(Masur),Silapathar,2015-07-11,10300.0,18.0,34.6,clear
+305,Green Gram (Moong),Silapathar,2015-09-11,9600.0,1.5,31.4,clear
+306,Lentil(Masur),Silapathar,2015-09-11,10300.0,3.5,31.4,clear
+307,Green Gram (Moong),Silapathar,2015-10-11,9600.0,35.0,30.2,clear
+308,Lentil(Masur),Silapathar,2015-10-11,10300.0,6.0,30.2,clear
+309,Green Gram (Moong),Silapathar,2015-11-11,9600.0,0.8,29.0,clear
+310,Lentil(Masur),Silapathar,2015-11-11,10300.0,0.9,29.0,clear
+311,Green Gram (Moong),Silapathar,2015-12-11,9600.0,1.8,22.0,clear
+312,Lentil(Masur),Silapathar,2015-12-11,10300.0,2.8,22.0,clear
+313,Green Gram (Moong),Silapathar,2015-11-13,9600.0,12.0,28.8,clear
+314,Lentil(Masur),Silapathar,2015-11-13,10300.0,13.0,28.8,clear
+315,Green Gram (Moong),Silapathar,2015-11-14,9600.0,1.6,27.4,clear
+316,Lentil(Masur),Silapathar,2015-11-14,10300.0,3.0,27.4,clear
+317,Green Gram (Moong),Silapathar,2015-11-16,9600.0,1.8,27.4,clear
+318,Lentil(Masur),Silapathar,2015-11-16,10300.0,2.5,27.4,clear
+319,Green Gram (Moong),Silapathar,2015-11-17,9600.0,1.3,25.8,clear
+320,Green Gram (Moong),Silapathar,2015-11-18,9600.0,1.3,24.0,clear
+321,Lentil(Masur),Silapathar,2015-11-18,10300.0,2.6,24.0,clear
+322,Green Gram (Moong),Silapathar,2015-11-19,9600.0,1.3,27.6,clear
+323,Lentil(Masur),Silapathar,2015-11-19,10300.0,1.2,27.6,clear
+324,Green Gram (Moong),Silapathar,2015-11-20,9600.0,0.7,28.2,clear
+325,Lentil(Masur),Silapathar,2015-11-20,10300.0,1.8,28.2,clear
+326,Green Gram (Moong),Silapathar,2015-11-21,9600.0,1.0,28.2,clear
+327,Lentil(Masur),Silapathar,2015-11-21,10300.0,2.4,28.2,clear
+328,Green Gram (Moong),Silapathar,2015-11-22,9600.0,7.0,28.2,clear
+329,Lentil(Masur),Silapathar,2015-11-22,10300.0,16.0,28.2,clear
+330,Green Gram (Moong),Silapathar,2015-11-23,9600.0,1.2,28.0,clear
+331,Lentil(Masur),Silapathar,2015-11-23,10300.0,1.1,28.0,clear
+332,Green Gram (Moong),Silapathar,2015-11-24,9600.0,1.4,27.8,clear
+333,Lentil(Masur),Silapathar,2015-11-24,5150.0,1.2,27.8,clear
+334,Green Gram (Moong),Silapathar,2015-11-26,9600.0,1.7,28.0,clear
+335,Lentil(Masur),Silapathar,2015-11-26,10300.0,1.5,28.0,clear
+336,Green Gram (Moong),Silapathar,2015-11-27,9600.0,13.0,27.2,clear
+337,Lentil(Masur),Silapathar,2015-11-27,10300.0,1.2,27.2,clear
+338,Green Gram (Moong),Silapathar,2015-11-28,9600.0,1.0,28.2,clear
+339,Lentil(Masur),Silapathar,2015-11-28,10300.0,22.0,28.2,clear
+340,Green Gram (Moong),Silapathar,2015-11-30,9600.0,14.0,27.6,clear
+341,Lentil(Masur),Silapathar,2015-11-30,10300.0,28.0,27.6,clear
+342,Green Gram (Moong),Silapathar,2015-01-12,9600.0,1.6,25.2,clear
+343,Lentil(Masur),Silapathar,2015-01-12,10300.0,30.0,25.2,clear
+344,Green Gram (Moong),Silapathar,2015-02-12,9600.0,1.1,26.4,clear
+345,Lentil(Masur),Silapathar,2015-02-12,10300.0,1.3,26.4,clear
+346,Green Gram (Moong),Silapathar,2015-03-12,9600.0,1.0,30.6,clear
+347,Lentil(Masur),Silapathar,2015-03-12,10300.0,11.0,30.6,clear
+348,Green Gram (Moong),Silapathar,2015-04-12,9600.0,1.6,29.8,clear
+349,Lentil(Masur),Silapathar,2015-04-12,10300.0,2.0,29.8,clear
+350,Green Gram (Moong),Silapathar,2015-07-12,9600.0,15.0,31.6,clear
+351,Lentil(Masur),Silapathar,2015-07-12,7500.0,19.0,31.6,clear
+352,Green Gram (Moong),Silapathar,2015-11-12,9600.0,1.4,27.8,clear
+353,Lentil(Masur),Silapathar,2015-11-12,7500.0,25.0,27.8,clear
+354,Green Gram (Moong),Silapathar,2015-12-14,9600.0,1.0,21.4,clear
+355,Lentil(Masur),Silapathar,2015-12-14,10300.0,3.0,21.4,clear
+356,Green Gram (Moong),Silapathar,2015-12-16,9600.0,16.0,22.0,clear
+357,Lentil(Masur),Silapathar,2015-12-16,7500.0,22.0,22.0,clear
+358,Lentil(Masur),Silapathar,2015-01-01,7500.0,2.4,25.2,clear
+359,Lentil(Masur),Silapathar,2015-02-01,7500.0,5.8,25.4,clear
+360,Lentil(Masur),Silapathar,2015-03-01,7500.0,4.0,29.2,clear
+361,Lentil(Masur),Silapathar,2015-05-01,7500.0,6.5,31.0,clear
+362,Lentil(Masur),Silapathar,2015-07-01,7500.0,3.6,30.4,clear
+363,Lentil(Masur),Silapathar,2015-08-01,7500.0,6.3,32.4,clear
+364,Lentil(Masur),Silapathar,2015-09-01,7500.0,5.1,28.6,clear
+365,Lentil(Masur),Silapathar,2015-10-01,7500.0,6.5,33.8,clear
+366,Lentil(Masur),Silapathar,2015-12-01,7500.0,3.5,28.2,clear
+367,Lentil(Masur),Silapathar,2015-01-13,7500.0,9.2,27.2,clear
+368,Lentil(Masur),Silapathar,2015-01-14,7500.0,4.0,26.4,clear
+369,Lentil(Masur),Silapathar,2015-01-16,7500.0,5.2,27.4,clear
+370,Lentil(Masur),Silapathar,2015-01-17,7500.0,2.5,26.8,clear
+371,Lentil(Masur),Silapathar,2015-01-19,7500.0,4.5,27.4,clear
+372,Lentil(Masur),Silapathar,2015-01-21,7500.0,4.0,26.6,clear
+373,Lentil(Masur),Silapathar,2015-01-22,7500.0,3.2,26.8,clear
+374,Lentil(Masur),Silapathar,2015-01-23,7500.0,2.2,27.2,clear
+375,Lentil(Masur),Silapathar,2015-01-24,7500.0,3.1,25.2,clear
+376,Lentil(Masur),Silapathar,2015-01-25,7500.0,1.6,26.8,clear
+377,Lentil(Masur),Silapathar,2015-01-26,7500.0,0.8,26.6,clear
+378,Lentil(Masur),Silapathar,2015-01-27,7500.0,2.4,27.6,clear
+379,Lentil(Masur),Silapathar,2015-01-28,7500.0,2.6,25.8,clear
+380,Lentil(Masur),Silapathar,2015-01-29,7500.0,2.0,27.6,rain
+381,Lentil(Masur),Silapathar,2015-01-30,7500.0,3.0,24.2,rain
+382,Lentil(Masur),Silapathar,2015-01-31,7500.0,2.1,24.4,clear
+383,Lentil(Masur),Silapathar,2015-05-02,7500.0,2.0,30.4,rain
+384,Lentil(Masur),Silapathar,2015-06-02,7500.0,0.9,26.4,clear
+385,Lentil(Masur),Silapathar,2015-07-02,7500.0,2.8,31.0,clear
+386,Lentil(Masur),Silapathar,2015-10-02,7500.0,3.0,34.0,clear
+387,Lentil(Masur),Silapathar,2015-12-02,7500.0,2.2,28.0,clear
+388,Lentil(Masur),Silapathar,2015-02-13,7500.0,1.9,17.8,clear
+389,Lentil(Masur),Silapathar,2015-02-18,7500.0,1.6,28.8,clear
+390,Lentil(Masur),Silapathar,2015-02-19,7500.0,3.1,19.6,clear
+391,Lentil(Masur),Silapathar,2015-02-20,7500.0,2.3,26.4,clear
+392,Lentil(Masur),Silapathar,2015-02-21,7500.0,1.2,28.0,clear
+393,Lentil(Masur),Silapathar,2015-02-22,7500.0,1.3,28.0,clear
+394,Lentil(Masur),Silapathar,2015-02-23,7500.0,2.7,29.0,clear
+395,Lentil(Masur),Silapathar,2015-02-24,7500.0,1.8,30.6,clear
+396,Lentil(Masur),Silapathar,2015-02-25,7500.0,1.0,28.0,clear
+397,Lentil(Masur),Silapathar,2015-02-26,7500.0,1.0,20.6,rain
+398,Lentil(Masur),Silapathar,2015-02-27,7500.0,0.9,25.6,clear
+399,Lentil(Masur),Silapathar,2015-02-28,7500.0,2.2,26.4,clear
+400,Lentil(Masur),Silapathar,2015-03-03,7500.0,1.3,26.0,rain
+401,Lentil(Masur),Silapathar,2015-04-03,7500.0,0.7,27.2,clear
+402,Lentil(Masur),Silapathar,2015-07-03,7500.0,0.9,32.6,clear
+403,Lentil(Masur),Silapathar,2015-03-13,7600.0,1.1,30.6,clear
+404,Lentil(Masur),Silapathar,2015-03-16,7600.0,1.9,27.4,clear
+405,Lentil(Masur),Silapathar,2015-03-17,7600.0,2.2,29.4,clear
+406,Lentil(Masur),Silapathar,2015-03-19,7600.0,2.4,29.4,clear
+407,Lentil(Masur),Silapathar,2015-07-04,7500.0,2.2,29.8,rain
+408,Lentil(Masur),Silapathar,2015-04-13,7500.0,2.4,30.4,clear
+409,Lentil(Masur),Silapathar,2015-04-14,7500.0,1.5,32.4,clear
+410,Lentil(Masur),Silapathar,2015-04-15,7500.0,1.0,34.2,clear
+411,Lentil(Masur),Silapathar,2015-04-16,7500.0,2.3,34.6,clear
+412,Lentil(Masur),Silapathar,2015-04-17,7500.0,1.5,26.0,rain
+413,Lentil(Masur),Silapathar,2015-04-18,7500.0,2.2,21.6,rain
+414,Lentil(Masur),Silapathar,2015-04-20,7600.0,2.8,29.4,clear
+415,Lentil(Masur),Silapathar,2015-04-24,7600.0,1.1,23.4,clear
+416,Lentil(Masur),Silapathar,2015-04-30,7600.0,0.7,28.4,clear
+417,Lentil(Masur),Silapathar,2015-06-26,7500.0,1.7,37.8,clear
+418,Lentil(Masur),Silapathar,2015-10-29,10300.0,2.0,32.0,clear
+419,Arhar (Tur/Red Gram),Silapathar,2016-01-01,12000.0,13.0,27.0,clear
+420,Black Gram (Urd Beans),Silapathar,2016-01-01,5700.0,2.1,27.0,clear
+421,Green Gram (Moong),Silapathar,2016-01-01,9600.0,3.0,27.0,clear
+422,Lentil(Masur),Silapathar,2016-01-01,7500.0,2.3,27.0,clear
+423,Arhar (Tur/Red Gram),Silapathar,2016-02-01,12000.0,1.9,23.8,clear
+424,Black Gram (Urd Beans),Silapathar,2016-02-01,5700.0,2.4,23.8,clear
+425,Green Gram (Moong),Silapathar,2016-02-01,9600.0,24.0,23.8,clear
+426,Lentil(Masur),Silapathar,2016-02-01,7500.0,2.2,23.8,clear
+427,Arhar (Tur/Red Gram),Silapathar,2016-03-01,12000.0,11.0,30.0,clear
+428,Black Gram (Urd Beans),Silapathar,2016-03-01,5700.0,34.0,30.0,clear
+429,Green Gram (Moong),Silapathar,2016-03-01,9600.0,24.0,30.0,clear
+430,Lentil(Masur),Silapathar,2016-03-01,7500.0,12.0,30.0,clear
+431,Arhar (Tur/Red Gram),Silapathar,2016-05-01,12000.0,12.0,27.2,clear
+432,Black Gram (Urd Beans),Silapathar,2016-05-01,5700.0,25.0,27.2,clear
+433,Green Gram (Moong),Silapathar,2016-05-01,9600.0,2.5,27.2,clear
+434,Lentil(Masur),Silapathar,2016-05-01,7500.0,1.5,27.2,clear
+435,Arhar (Tur/Red Gram),Silapathar,2016-10-01,12000.0,2.0,34.0,clear
+436,Black Gram (Urd Beans),Silapathar,2016-10-01,5600.0,5.7,34.0,clear
+437,Green Gram (Moong),Silapathar,2016-10-01,9600.0,31.0,34.0,clear
+438,Lentil(Masur),Silapathar,2016-10-01,7500.0,28.0,34.0,clear
+439,Arhar (Tur/Red Gram),Silapathar,2016-01-13,12000.0,26.0,23.8,clear
+440,Black Gram (Urd Beans),Silapathar,2016-01-13,5600.0,62.0,23.8,clear
+441,Green Gram (Moong),Silapathar,2016-01-13,9600.0,53.0,23.8,clear
+442,Lentil(Masur),Silapathar,2016-01-13,7500.0,32.0,23.8,clear
+443,Arhar (Tur/Red Gram),Silapathar,2016-01-14,12000.0,28.0,23.8,clear
+444,Black Gram (Urd Beans),Silapathar,2016-01-14,5700.0,56.0,23.8,clear
+445,Green Gram (Moong),Silapathar,2016-01-14,9600.0,43.0,23.8,clear
+446,Lentil(Masur),Silapathar,2016-01-14,7500.0,29.0,23.8,clear
+447,Arhar (Tur/Red Gram),Silapathar,2016-01-15,12000.0,27.0,23.2,clear
+448,Black Gram (Urd Beans),Silapathar,2016-01-15,5600.0,52.0,23.2,clear
+449,Green Gram (Moong),Silapathar,2016-01-15,9600.0,45.0,23.2,clear
+450,Lentil(Masur),Silapathar,2016-01-15,7500.0,3.0,23.2,clear
+451,Arhar (Tur/Red Gram),Silapathar,2016-01-16,12000.0,29.0,19.6,clear
+452,Black Gram (Urd Beans),Silapathar,2016-01-16,5600.0,46.0,19.6,clear
+453,Arhar (Tur/Red Gram),Silapathar,2016-01-18,12000.0,22.0,23.0,clear
+454,Black Gram (Urd Beans),Silapathar,2016-01-18,5600.0,47.0,23.0,clear
+455,Green Gram (Moong),Silapathar,2016-01-18,9600.0,44.0,23.0,clear
+456,Lentil(Masur),Silapathar,2016-01-18,7500.0,27.0,23.0,clear
+457,Arhar (Tur/Red Gram),Silapathar,2016-01-19,12000.0,22.0,24.0,clear
+458,Black Gram (Urd Beans),Silapathar,2016-01-19,5500.0,55.0,24.0,clear
+459,Green Gram (Moong),Silapathar,2016-01-19,9600.0,49.0,24.0,clear
+460,Arhar (Tur/Red Gram),Silapathar,2016-01-22,12000.0,22.0,24.6,clear
+461,Black Gram (Urd Beans),Silapathar,2016-01-22,5600.0,33.0,24.6,clear
+462,Green Gram (Moong),Silapathar,2016-01-22,9600.0,48.0,24.6,clear
+463,Lentil(Masur),Silapathar,2016-01-22,7500.0,2.7,24.6,clear
+464,Arhar (Tur/Red Gram),Silapathar,2016-01-23,12000.0,2.0,20.2,clear
+465,Black Gram (Urd Beans),Silapathar,2016-01-23,5600.0,39.0,20.2,clear
+466,Green Gram (Moong),Silapathar,2016-01-23,9600.0,54.0,20.2,clear
+467,Lentil(Masur),Silapathar,2016-01-23,7500.0,3.0,20.2,clear
+468,Arhar (Tur/Red Gram),Silapathar,2016-01-24,12000.0,18.0,22.4,clear
+469,Black Gram (Urd Beans),Silapathar,2016-01-24,5600.0,33.0,22.4,clear
+470,Green Gram (Moong),Silapathar,2016-01-24,9600.0,46.0,22.4,clear
+471,Lentil(Masur),Silapathar,2016-01-24,7500.0,25.0,22.4,clear
+472,Arhar (Tur/Red Gram),Silapathar,2016-01-25,12000.0,1.6,23.8,clear
+473,Black Gram (Urd Beans),Silapathar,2016-01-25,5600.0,3.2,23.8,clear
+474,Green Gram (Moong),Silapathar,2016-01-25,9600.0,42.0,23.8,clear
+475,Arhar (Tur/Red Gram),Silapathar,2016-01-27,12000.0,1.5,18.0,clear
+476,Black Gram (Urd Beans),Silapathar,2016-01-27,5600.0,3.6,18.0,clear
+477,Green Gram (Moong),Silapathar,2016-01-27,9600.0,52.0,18.0,clear
+478,Lentil(Masur),Silapathar,2016-01-27,7500.0,28.0,18.0,clear
+479,Arhar (Tur/Red Gram),Silapathar,2016-01-28,12000.0,18.0,23.0,clear
+480,Black Gram (Urd Beans),Silapathar,2016-01-28,5600.0,36.0,23.0,clear
+481,Green Gram (Moong),Silapathar,2016-01-28,9600.0,52.0,23.0,clear
+482,Arhar (Tur/Red Gram),Silapathar,2016-01-29,12000.0,2.9,24.0,clear
+483,Black Gram (Urd Beans),Silapathar,2016-01-29,5600.0,5.6,24.0,clear
+484,Green Gram (Moong),Silapathar,2016-01-29,9600.0,5.0,24.0,clear
+485,Lentil(Masur),Silapathar,2016-01-29,7500.0,2.9,24.0,clear
+486,Arhar (Tur/Red Gram),Silapathar,2016-01-30,12000.0,2.9,22.6,clear
+487,Black Gram (Urd Beans),Silapathar,2016-01-30,5600.0,5.0,22.6,clear
+488,Green Gram (Moong),Silapathar,2016-01-30,9600.0,5.1,22.6,clear
+489,Lentil(Masur),Silapathar,2016-01-30,7500.0,2.8,22.6,clear
+490,Arhar (Tur/Red Gram),Silapathar,2016-01-31,12000.0,2.8,24.2,clear
+491,Black Gram (Urd Beans),Silapathar,2016-01-31,5600.0,4.8,24.2,clear
+492,Green Gram (Moong),Silapathar,2016-01-31,8700.0,5.5,24.2,clear
+493,Lentil(Masur),Silapathar,2016-01-31,7500.0,3.0,24.2,clear
+494,Arhar (Tur/Red Gram),Silapathar,2016-12-05,12000.0,30.0,28.4,clear
+495,Black Gram (Urd Beans),Silapathar,2016-12-05,5600.0,59.0,28.4,clear
+496,Green Gram (Moong),Silapathar,2016-12-05,9600.0,5.6,28.4,clear
+497,Lentil(Masur),Silapathar,2016-12-05,7500.0,30.0,28.4,clear
+498,Arhar (Tur/Red Gram),Silapathar,2016-05-22,12000.0,24.0,25.6,clear
+499,Black Gram (Urd Beans),Silapathar,2016-05-22,5600.0,62.0,25.6,clear
+500,Green Gram (Moong),Silapathar,2016-05-22,9600.0,56.0,25.6,clear
+501,Lentil(Masur),Silapathar,2016-05-22,7500.0,31.0,25.6,clear
+502,Arhar (Tur/Red Gram),Silapathar,2016-05-31,12000.0,29.0,29.2,clear
+503,Black Gram (Urd Beans),Silapathar,2016-05-31,5600.0,62.0,29.2,clear
+504,Green Gram (Moong),Silapathar,2016-05-31,9600.0,66.0,29.2,clear
+505,Lentil(Masur),Silapathar,2016-05-31,7500.0,30.0,29.2,clear
+506,Arhar (Tur/Red Gram),Silapathar,2016-09-06,12000.0,28.0,33.6,clear
+507,Green Gram (Moong),Silapathar,2016-09-06,9600.0,61.0,33.6,clear
+508,Lentil(Masur),Silapathar,2016-09-06,7500.0,3.0,33.6,clear
+509,Arhar (Tur/Red Gram),Silapathar,2016-06-13,12000.0,24.0,29.0,clear
+510,Black Gram (Urd Beans),Silapathar,2016-06-13,5500.0,42.0,29.0,clear
+511,Green Gram (Moong),Silapathar,2016-06-13,9600.0,51.0,29.0,clear
+512,Lentil(Masur),Silapathar,2016-06-13,7500.0,4.3,29.0,clear
+513,Arhar (Tur/Red Gram),Silapathar,2016-06-14,12000.0,2.6,28.8,clear
+514,Black Gram (Urd Beans),Silapathar,2016-06-14,5500.0,4.3,28.8,clear
+515,Green Gram (Moong),Silapathar,2016-06-14,9600.0,51.0,28.8,clear
+516,Lentil(Masur),Silapathar,2016-06-14,7500.0,45.0,28.8,clear
+517,Arhar (Tur/Red Gram),Silapathar,2016-06-17,12000.0,2.4,30.4,clear
+518,Black Gram (Urd Beans),Silapathar,2016-06-17,5500.0,4.2,30.4,clear
+519,Green Gram (Moong),Silapathar,2016-06-17,9600.0,0.0,30.4,clear
+520,Lentil(Masur),Silapathar,2016-06-17,7500.0,4.3,30.4,clear
+521,Arhar (Tur/Red Gram),Silapathar,2016-06-18,12000.0,2.5,31.0,clear
+522,Black Gram (Urd Beans),Silapathar,2016-06-18,5500.0,3.3,31.0,clear
+523,Green Gram (Moong),Silapathar,2016-06-18,9600.0,5.1,31.0,clear
+524,Lentil(Masur),Silapathar,2016-06-18,7500.0,44.0,31.0,clear
+525,Arhar (Tur/Red Gram),Silapathar,2016-06-19,12000.0,2.3,30.4,rain
+526,Black Gram (Urd Beans),Silapathar,2016-06-19,5500.0,3.9,30.4,rain
+527,Green Gram (Moong),Silapathar,2016-06-19,9600.0,51.0,30.4,rain
+528,Lentil(Masur),Silapathar,2016-06-19,7500.0,4.5,30.4,rain
+529,Arhar (Tur/Red Gram),Silapathar,2016-06-20,12000.0,2.0,30.2,clear
+530,Black Gram (Urd Beans),Silapathar,2016-06-20,5500.0,2.9,30.2,clear
+531,Green Gram (Moong),Silapathar,2016-06-20,9600.0,4.5,30.2,clear
+532,Arhar (Tur/Red Gram),Silapathar,2016-06-21,12000.0,2.0,26.2,clear
+533,Black Gram (Urd Beans),Silapathar,2016-06-21,5500.0,3.8,26.2,clear
+534,Green Gram (Moong),Silapathar,2016-06-21,9600.0,4.5,26.2,clear
+535,Lentil(Masur),Silapathar,2016-06-21,7500.0,3.5,26.2,clear
+536,Arhar (Tur/Red Gram),Silapathar,2016-06-22,12000.0,1.8,27.2,clear
+537,Black Gram (Urd Beans),Silapathar,2016-06-22,5500.0,2.5,27.2,clear
+538,Green Gram (Moong),Silapathar,2016-06-22,9600.0,4.2,27.2,clear
+539,Lentil(Masur),Silapathar,2016-06-22,7500.0,3.0,27.2,clear
+540,Arhar (Tur/Red Gram),Silapathar,2016-06-24,12000.0,2.0,31.8,clear
+541,Black Gram (Urd Beans),Silapathar,2016-06-24,5500.0,2.6,31.8,clear
+542,Lentil(Masur),Silapathar,2016-06-24,7500.0,3.2,31.8,clear
+543,Arhar (Tur/Red Gram),Silapathar,2016-06-25,12000.0,1.8,33.0,clear
+544,Black Gram (Urd Beans),Silapathar,2016-06-25,5500.0,3.0,33.0,clear
+545,Lentil(Masur),Silapathar,2016-06-25,7500.0,3.0,33.0,clear
+546,Arhar (Tur/Red Gram),Silapathar,2016-06-26,12000.0,1.5,33.0,clear
+547,Black Gram (Urd Beans),Silapathar,2016-06-26,5500.0,3.1,33.0,clear
+548,Lentil(Masur),Silapathar,2016-06-26,7500.0,3.5,33.0,clear
+549,Arhar (Tur/Red Gram),Silapathar,2016-06-27,12000.0,1.6,33.4,clear
+550,Black Gram (Urd Beans),Silapathar,2016-06-27,5500.0,26.0,33.4,clear
+551,Lentil(Masur),Silapathar,2016-06-27,7500.0,3.4,33.4,clear
+552,Arhar (Tur/Red Gram),Silapathar,2016-06-28,12000.0,1.5,31.6,clear
+553,Black Gram (Urd Beans),Silapathar,2016-06-28,5500.0,2.6,31.6,clear
+554,Green Gram (Moong),Silapathar,2016-06-28,9600.0,4.0,31.6,clear
+555,Lentil(Masur),Silapathar,2016-06-28,7500.0,3.0,31.6,clear
+556,Arhar (Tur/Red Gram),Silapathar,2016-06-29,12000.0,1.6,34.0,clear
+557,Black Gram (Urd Beans),Silapathar,2016-06-29,5500.0,3.0,34.0,clear
+558,Green Gram (Moong),Silapathar,2016-06-29,9600.0,4.0,34.0,clear
+559,Lentil(Masur),Silapathar,2016-06-29,7500.0,2.8,34.0,clear
+560,Arhar (Tur/Red Gram),Silapathar,2016-06-30,12000.0,1.6,28.0,clear
+561,Black Gram (Urd Beans),Silapathar,2016-06-30,5500.0,2.6,28.0,clear
+562,Lentil(Masur),Silapathar,2016-06-30,7500.0,3.2,28.0,clear
+563,Arhar (Tur/Red Gram),Silapathar,2016-03-07,12000.0,1.5,25.4,rain
+564,Green Gram (Moong),Silapathar,2016-03-07,9600.0,2.5,25.4,rain
+565,Lentil(Masur),Silapathar,2016-03-07,7500.0,2.6,25.4,rain
+566,Arhar (Tur/Red Gram),Silapathar,2016-04-07,12000.0,2.0,24.6,clear
+567,Green Gram (Moong),Silapathar,2016-04-07,9600.0,2.7,24.6,clear
+568,Lentil(Masur),Silapathar,2016-04-07,7500.0,2.8,24.6,clear
+569,Arhar (Tur/Red Gram),Silapathar,2016-05-07,12000.0,0.0,29.8,clear
+570,Green Gram (Moong),Silapathar,2016-05-07,9600.0,2.3,29.8,clear
+571,Lentil(Masur),Silapathar,2016-05-07,7500.0,2.9,29.8,clear
+572,Arhar (Tur/Red Gram),Silapathar,2016-07-07,12000.0,2.2,33.0,clear
+573,Green Gram (Moong),Silapathar,2016-07-07,9600.0,3.0,33.0,clear
+574,Lentil(Masur),Silapathar,2016-07-07,7500.0,3.2,33.0,clear
+575,Arhar (Tur/Red Gram),Silapathar,2016-09-07,12000.0,2.5,32.2,clear
+576,Green Gram (Moong),Silapathar,2016-09-07,9600.0,2.5,32.2,clear
+577,Lentil(Masur),Silapathar,2016-09-07,7500.0,2.8,32.2,clear
+578,Arhar (Tur/Red Gram),Silapathar,2016-10-07,12000.0,2.6,31.6,clear
+579,Green Gram (Moong),Silapathar,2016-10-07,9600.0,2.7,31.6,clear
+580,Lentil(Masur),Silapathar,2016-10-07,7500.0,2.9,31.6,clear
+581,Arhar (Tur/Red Gram),Silapathar,2016-11-07,12000.0,2.5,24.6,clear
+582,Green Gram (Moong),Silapathar,2016-11-07,9600.0,2.3,24.6,clear
+583,Lentil(Masur),Silapathar,2016-11-07,7500.0,3.0,24.6,clear
+584,Arhar (Tur/Red Gram),Silapathar,2016-12-07,12000.0,2.5,27.4,clear
+585,Green Gram (Moong),Silapathar,2016-12-07,9600.0,2.1,27.4,clear
+586,Lentil(Masur),Silapathar,2016-12-07,7500.0,3.0,27.4,clear
+587,Arhar (Tur/Red Gram),Silapathar,2016-07-16,12000.0,2.6,30.8,clear
+588,Green Gram (Moong),Silapathar,2016-07-16,9600.0,2.5,30.8,clear
+589,Lentil(Masur),Silapathar,2016-07-16,7500.0,2.9,30.8,clear
+590,Arhar (Tur/Red Gram),Silapathar,2016-07-18,12000.0,2.7,29.4,rain
+591,Lentil(Masur),Silapathar,2016-07-18,7500.0,3.1,29.4,rain
+592,Arhar (Tur/Red Gram),Silapathar,2016-07-19,12000.0,2.6,28.4,clear
+593,Green Gram (Moong),Silapathar,2016-07-19,9600.0,2.7,28.4,clear
+594,Lentil(Masur),Silapathar,2016-07-19,7500.0,3.2,28.4,clear
+595,Arhar (Tur/Red Gram),Silapathar,2016-07-20,12000.0,2.5,30.4,clear
+596,Green Gram (Moong),Silapathar,2016-07-20,9600.0,1.9,30.4,clear
+597,Lentil(Masur),Silapathar,2016-07-20,7500.0,0.0,30.4,clear
+598,Arhar (Tur/Red Gram),Silapathar,2016-07-21,12000.0,2.4,30.2,clear
+599,Green Gram (Moong),Silapathar,2016-07-21,9600.0,2.5,30.2,clear
+600,Arhar (Tur/Red Gram),Silapathar,2016-07-22,12000.0,2.3,26.0,rain
+601,Green Gram (Moong),Silapathar,2016-07-22,9600.0,2.5,26.0,rain
+602,Lentil(Masur),Silapathar,2016-07-22,7500.0,3.2,26.0,rain
+603,Arhar (Tur/Red Gram),Silapathar,2016-07-23,12000.0,2.8,27.8,clear
+604,Green Gram (Moong),Silapathar,2016-07-23,9600.0,2.1,27.8,clear
+605,Lentil(Masur),Silapathar,2016-07-23,7500.0,3.3,27.8,clear
+606,Arhar (Tur/Red Gram),Silapathar,2016-07-25,12000.0,2.8,25.2,rain
+607,Green Gram (Moong),Silapathar,2016-07-25,9600.0,2.6,25.2,rain
+608,Lentil(Masur),Silapathar,2016-07-25,7500.0,3.0,25.2,rain
+609,Arhar (Tur/Red Gram),Silapathar,2016-07-26,12000.0,2.9,29.0,clear
+610,Green Gram (Moong),Silapathar,2016-07-26,9600.0,3.0,29.0,clear
+611,Lentil(Masur),Silapathar,2016-07-26,7500.0,3.2,29.0,clear
+612,Arhar (Tur/Red Gram),Silapathar,2016-07-27,12000.0,2.7,30.2,clear
+613,Green Gram (Moong),Silapathar,2016-07-27,9600.0,3.0,30.2,clear
+614,Lentil(Masur),Silapathar,2016-07-27,7500.0,3.3,30.2,clear
+615,Arhar (Tur/Red Gram),Silapathar,2016-07-28,12000.0,2.6,30.0,clear
+616,Green Gram (Moong),Silapathar,2016-07-28,9600.0,3.0,30.0,clear
+617,Lentil(Masur),Silapathar,2016-07-28,7500.0,3.5,30.0,clear
+618,Arhar (Tur/Red Gram),Silapathar,2016-07-29,12000.0,2.5,32.6,clear
+619,Green Gram (Moong),Silapathar,2016-07-29,9600.0,3.0,32.6,clear
+620,Lentil(Masur),Silapathar,2016-07-29,7500.0,3.0,32.6,clear
+621,Arhar (Tur/Red Gram),Silapathar,2016-07-30,12000.0,2.5,34.0,clear
+622,Green Gram (Moong),Silapathar,2016-07-30,9600.0,3.0,34.0,clear
+623,Lentil(Masur),Silapathar,2016-07-30,7500.0,3.0,34.0,clear
+624,Arhar (Tur/Red Gram),Silapathar,2016-07-31,12000.0,2.4,34.2,clear
+625,Green Gram (Moong),Silapathar,2016-07-31,9600.0,3.0,34.2,clear
+626,Lentil(Masur),Silapathar,2016-07-31,7500.0,2.9,34.2,clear
+627,Arhar (Tur/Red Gram),Silapathar,2016-08-17,12000.0,2.6,35.2,clear
+628,Arhar (Tur/Red Gram),Silapathar,2016-08-18,12000.0,2.6,35.6,clear
+629,Green Gram (Moong),Silapathar,2016-08-18,9600.0,2.7,35.6,clear
+630,Lentil(Masur),Silapathar,2016-08-18,7500.0,3.2,35.6,clear
+631,Arhar (Tur/Red Gram),Silapathar,2016-08-20,12000.0,2.5,34.0,clear
+632,Green Gram (Moong),Silapathar,2016-08-20,9600.0,3.0,34.0,clear
+633,Lentil(Masur),Silapathar,2016-08-20,7500.0,2.5,34.0,clear
+634,Arhar (Tur/Red Gram),Silapathar,2016-08-22,12000.0,3.0,36.0,clear
+635,Green Gram (Moong),Silapathar,2016-08-22,9600.0,4.0,36.0,clear
+636,Lentil(Masur),Silapathar,2016-08-22,7500.0,2.8,36.0,clear
+637,Arhar (Tur/Red Gram),Silapathar,2016-08-23,12000.0,2.3,32.0,clear
+638,Lentil(Masur),Silapathar,2016-08-23,7500.0,3.0,32.0,clear
+639,Arhar (Tur/Red Gram),Silapathar,2016-08-24,12000.0,2.4,34.4,clear
+640,Green Gram (Moong),Silapathar,2016-08-24,9600.0,3.0,34.4,clear
+641,Lentil(Masur),Silapathar,2016-08-24,7500.0,2.8,34.4,clear
+642,Arhar (Tur/Red Gram),Silapathar,2016-08-26,12000.0,2.0,36.0,clear
+643,Green Gram (Moong),Silapathar,2016-08-26,9600.0,4.0,36.0,clear
+644,Lentil(Masur),Silapathar,2016-08-26,7500.0,2.5,36.0,clear
+645,Arhar (Tur/Red Gram),Silapathar,2016-06-09,12000.0,2.8,30.4,clear
+646,Green Gram (Moong),Silapathar,2016-06-09,9600.0,2.7,30.4,clear
+647,Lentil(Masur),Silapathar,2016-06-09,7500.0,2.8,30.4,clear
+648,Arhar (Tur/Red Gram),Silapathar,2016-07-09,12000.0,2.6,34.0,clear
+649,Green Gram (Moong),Silapathar,2016-07-09,9600.0,2.9,34.0,clear
+650,Lentil(Masur),Silapathar,2016-07-09,7500.0,3.0,34.0,clear
+651,Arhar (Tur/Red Gram),Silapathar,2016-08-09,12000.0,1.4,32.6,clear
+652,Green Gram (Moong),Silapathar,2016-08-09,9600.0,3.0,32.6,clear
+653,Lentil(Masur),Silapathar,2016-08-09,7500.0,3.2,32.6,clear
+654,Arhar (Tur/Red Gram),Silapathar,2016-09-09,12000.0,1.6,28.4,clear
+655,Green Gram (Moong),Silapathar,2016-09-09,9600.0,3.0,28.4,clear
+656,Lentil(Masur),Silapathar,2016-09-09,7500.0,3.5,28.4,clear
+657,Arhar (Tur/Red Gram),Silapathar,2016-10-09,12000.0,2.0,26.2,rain
+658,Green Gram (Moong),Silapathar,2016-10-09,9600.0,2.5,26.2,rain
+659,Lentil(Masur),Silapathar,2016-10-09,7500.0,3.0,26.2,rain
+660,Arhar (Tur/Red Gram),Silapathar,2016-12-09,12000.0,2.7,27.0,clear
+661,Green Gram (Moong),Silapathar,2016-12-09,9600.0,3.2,27.0,clear
+662,Lentil(Masur),Silapathar,2016-12-09,7500.0,2.8,27.0,clear
+663,Arhar (Tur/Red Gram),Silapathar,2016-09-16,12000.0,2.2,33.6,clear
+664,Green Gram (Moong),Silapathar,2016-09-16,9600.0,2.4,33.6,clear
+665,Lentil(Masur),Silapathar,2016-09-16,7500.0,2.8,33.6,clear
+666,Arhar (Tur/Red Gram),Silapathar,2016-09-19,12000.0,2.4,32.4,clear
+667,Green Gram (Moong),Silapathar,2016-09-19,9600.0,2.8,32.4,clear
+668,Lentil(Masur),Silapathar,2016-09-19,7500.0,3.0,32.4,clear
+669,Arhar (Tur/Red Gram),Silapathar,2016-09-23,12000.0,2.2,27.6,clear
+670,Lentil(Masur),Silapathar,2016-09-23,7500.0,3.2,27.6,clear
+671,Arhar (Tur/Red Gram),Silapathar,2016-09-26,12000.0,2.5,29.6,clear
+672,Green Gram (Moong),Silapathar,2016-09-26,9600.0,2.4,29.6,clear
+673,Lentil(Masur),Silapathar,2016-09-26,7500.0,3.0,29.6,clear
+674,Arhar (Tur/Red Gram),Silapathar,2016-09-27,12000.0,2.4,31.0,clear
+675,Arhar (Tur/Red Gram),Silapathar,2016-09-28,12000.0,24.0,33.2,clear
+676,Green Gram (Moong),Silapathar,2016-09-28,9600.0,22.0,33.2,clear
+677,Lentil(Masur),Silapathar,2016-09-28,7500.0,29.0,33.2,clear
+678,Arhar (Tur/Red Gram),Silapathar,2016-09-29,12000.0,0.0,34.0,clear
+679,Green Gram (Moong),Silapathar,2016-09-29,9600.0,27.0,34.0,clear
+680,Lentil(Masur),Silapathar,2016-09-29,7500.0,3.0,34.0,clear
+681,Arhar (Tur/Red Gram),Silapathar,2016-10-13,12000.0,2.5,29.0,clear
+682,Green Gram (Moong),Silapathar,2016-10-13,9600.0,5.3,29.0,clear
+683,Lentil(Masur),Silapathar,2016-10-13,7500.0,3.2,29.0,clear
+684,Arhar (Tur/Red Gram),Silapathar,2016-10-19,12000.0,22.0,32.2,clear
+685,Green Gram (Moong),Silapathar,2016-10-19,9600.0,59.0,32.2,clear
+686,Lentil(Masur),Silapathar,2016-10-19,7500.0,28.0,32.2,clear
+687,Arhar (Tur/Red Gram),Silapathar,2016-10-27,12000.0,24.0,30.0,clear
+688,Green Gram (Moong),Silapathar,2016-10-27,9600.0,5.9,30.0,clear
+689,Lentil(Masur),Silapathar,2016-10-27,7500.0,27.0,30.0,clear
+690,Arhar (Tur/Red Gram),Silapathar,2016-10-29,12000.0,3.0,32.2,clear
+691,Green Gram (Moong),Silapathar,2016-10-29,9600.0,45.0,32.2,clear
+692,Lentil(Masur),Silapathar,2016-10-29,7500.0,27.0,32.2,clear
+693,Arhar (Tur/Red Gram),Silapathar,2016-10-31,12000.0,3.0,32.4,clear
+694,Green Gram (Moong),Silapathar,2016-10-31,9600.0,54.0,32.4,clear
+695,Arhar (Tur/Red Gram),Silapathar,2016-01-11,12000.0,31.0,23.0,clear
+696,Green Gram (Moong),Silapathar,2016-01-11,9600.0,45.0,23.0,clear
+697,Lentil(Masur),Silapathar,2016-01-11,7500.0,29.0,23.0,clear
+698,Arhar (Tur/Red Gram),Silapathar,2016-04-11,12000.0,27.0,27.0,rain
+699,Green Gram (Moong),Silapathar,2016-04-11,9600.0,42.0,27.0,rain
+700,Lentil(Masur),Silapathar,2016-04-11,7500.0,28.0,27.0,rain
+701,Arhar (Tur/Red Gram),Silapathar,2016-08-11,12000.0,29.0,35.8,clear
+702,Green Gram (Moong),Silapathar,2016-08-11,9600.0,47.0,35.8,clear
+703,Lentil(Masur),Silapathar,2016-08-11,7500.0,29.0,35.8,clear
+704,Arhar (Tur/Red Gram),Silapathar,2016-10-11,12000.0,23.0,26.0,rain
+705,Green Gram (Moong),Silapathar,2016-10-11,9600.0,42.0,26.0,rain
+706,Lentil(Masur),Silapathar,2016-10-11,7500.0,29.0,26.0,rain
+707,Arhar (Tur/Red Gram),Silapathar,2016-12-11,12000.0,22.0,26.4,clear
+708,Lentil(Masur),Silapathar,2016-12-11,7500.0,27.0,26.4,clear
+709,Arhar (Tur/Red Gram),Silapathar,2016-11-15,12000.0,24.0,31.8,clear
+710,Green Gram (Moong),Silapathar,2016-11-15,9600.0,47.0,31.8,clear
+711,Lentil(Masur),Silapathar,2016-11-15,7500.0,23.0,31.8,clear
+712,Arhar (Tur/Red Gram),Silapathar,2016-11-16,12000.0,2.0,30.8,clear
+713,Green Gram (Moong),Silapathar,2016-11-16,9600.0,43.0,30.8,clear
+714,Lentil(Masur),Silapathar,2016-11-16,7500.0,23.0,30.8,clear
+715,Arhar (Tur/Red Gram),Silapathar,2016-11-17,12000.0,2.0,30.2,clear
+716,Green Gram (Moong),Silapathar,2016-11-17,9600.0,43.0,30.2,clear
+717,Lentil(Masur),Silapathar,2016-11-17,7500.0,23.0,30.2,clear
+718,Arhar (Tur/Red Gram),Silapathar,2016-11-18,12000.0,24.0,30.0,clear
+719,Green Gram (Moong),Silapathar,2016-11-18,9600.0,42.0,30.0,clear
+720,Lentil(Masur),Silapathar,2016-11-18,7500.0,26.0,30.0,clear
+721,Arhar (Tur/Red Gram),Silapathar,2016-11-25,12000.0,23.0,28.0,clear
+722,Green Gram (Moong),Silapathar,2016-11-25,9600.0,53.0,28.0,clear
+723,Lentil(Masur),Silapathar,2016-11-25,7500.0,28.0,28.0,clear
+724,Arhar (Tur/Red Gram),Silapathar,2016-11-30,12000.0,24.0,28.0,clear
+725,Green Gram (Moong),Silapathar,2016-11-30,9600.0,53.0,28.0,clear
+726,Arhar (Tur/Red Gram),Silapathar,2016-09-12,12000.0,24.0,33.6,clear
+727,Black Gram (Urd Beans),Silapathar,2016-09-12,5500.0,42.0,33.6,clear
+728,Green Gram (Moong),Silapathar,2016-09-12,9600.0,44.0,33.6,clear
+729,Lentil(Masur),Silapathar,2016-09-12,7500.0,20.0,33.6,clear
+730,Black Gram (Urd Beans),Silapathar,2016-09-01,5600.0,3.5,26.2,rain
+731,Lentil(Masur),Silapathar,2016-09-01,7500.0,3.0,26.2,rain
+732,Black Gram (Urd Beans),Silapathar,2016-12-01,5600.0,49.0,28.2,clear
+733,Green Gram (Moong),Silapathar,2016-12-01,9600.0,5.0,28.2,clear
+734,Lentil(Masur),Silapathar,2016-12-01,7500.0,3.0,28.2,clear
+735,Black Gram (Urd Beans),Silapathar,2016-01-21,5600.0,46.0,20.4,clear
+736,Green Gram (Moong),Silapathar,2016-01-21,9600.0,56.0,20.4,clear
+737,Black Gram (Urd Beans),Silapathar,2016-01-02,5700.0,5.4,26.0,clear
+738,Green Gram (Moong),Silapathar,2016-01-02,9600.0,4.8,26.0,clear
+739,Lentil(Masur),Silapathar,2016-01-02,7500.0,3.0,26.0,clear
+740,Black Gram (Urd Beans),Silapathar,2016-02-02,5700.0,5.3,25.0,clear
+741,Green Gram (Moong),Silapathar,2016-02-02,9600.0,5.0,25.0,clear
+742,Lentil(Masur),Silapathar,2016-02-02,7500.0,3.0,25.0,clear
+743,Black Gram (Urd Beans),Silapathar,2016-03-02,5700.0,4.9,28.6,clear
+744,Green Gram (Moong),Silapathar,2016-03-02,9600.0,4.9,28.6,clear
+745,Lentil(Masur),Silapathar,2016-03-02,7500.0,2.8,28.6,clear
+746,Black Gram (Urd Beans),Silapathar,2016-04-02,5700.0,5.4,29.4,clear
+747,Green Gram (Moong),Silapathar,2016-04-02,9600.0,5.9,29.4,clear
+748,Lentil(Masur),Silapathar,2016-04-02,7500.0,3.0,29.4,clear
+749,Black Gram (Urd Beans),Silapathar,2016-05-02,5600.0,4.8,30.2,clear
+750,Green Gram (Moong),Silapathar,2016-05-02,9600.0,6.4,30.2,clear
+751,Lentil(Masur),Silapathar,2016-05-02,7500.0,3.2,30.2,clear
+752,Black Gram (Urd Beans),Silapathar,2016-07-02,5600.0,4.7,28.4,clear
+753,Green Gram (Moong),Silapathar,2016-07-02,9600.0,6.2,28.4,clear
+754,Lentil(Masur),Silapathar,2016-07-02,7500.0,3.0,28.4,clear
+755,Black Gram (Urd Beans),Silapathar,2016-08-02,5600.0,4.7,35.2,clear
+756,Lentil(Masur),Silapathar,2016-08-02,7500.0,3.2,35.2,clear
+757,Black Gram (Urd Beans),Silapathar,2016-12-02,5600.0,4.4,27.8,clear
+758,Green Gram (Moong),Silapathar,2016-12-02,9600.0,5.4,27.8,clear
+759,Lentil(Masur),Silapathar,2016-12-02,7500.0,3.2,27.8,clear
+760,Black Gram (Urd Beans),Silapathar,2016-02-14,5600.0,5.9,22.6,clear
+761,Green Gram (Moong),Silapathar,2016-02-14,9600.0,4.4,22.6,clear
+762,Lentil(Masur),Silapathar,2016-02-14,7500.0,3.0,22.6,clear
+763,Black Gram (Urd Beans),Silapathar,2016-02-15,5600.0,5.4,25.4,clear
+764,Green Gram (Moong),Silapathar,2016-02-15,9600.0,5.9,25.4,clear
+765,Lentil(Masur),Silapathar,2016-02-15,7500.0,3.0,25.4,clear
+766,Black Gram (Urd Beans),Silapathar,2016-02-16,5600.0,5.8,26.2,clear
+767,Green Gram (Moong),Silapathar,2016-02-16,9600.0,5.2,26.2,clear
+768,Black Gram (Urd Beans),Silapathar,2016-02-17,5600.0,5.3,24.0,clear
+769,Green Gram (Moong),Silapathar,2016-02-17,9600.0,5.8,24.0,clear
+770,Lentil(Masur),Silapathar,2016-02-17,7500.0,2.6,24.0,clear
+771,Black Gram (Urd Beans),Silapathar,2016-02-18,5600.0,4.9,25.4,clear
+772,Green Gram (Moong),Silapathar,2016-02-18,9600.0,5.8,25.4,clear
+773,Lentil(Masur),Silapathar,2016-02-18,7500.0,2.7,25.4,clear
+774,Black Gram (Urd Beans),Silapathar,2016-02-19,5600.0,4.8,28.0,clear
+775,Green Gram (Moong),Silapathar,2016-02-19,9600.0,5.7,28.0,clear
+776,Lentil(Masur),Silapathar,2016-02-19,7500.0,2.9,28.0,clear
+777,Black Gram (Urd Beans),Silapathar,2016-02-21,5600.0,5.3,20.0,rain
+778,Green Gram (Moong),Silapathar,2016-02-21,9600.0,5.2,20.0,rain
+779,Lentil(Masur),Silapathar,2016-02-21,7500.0,2.9,20.0,rain
+780,Black Gram (Urd Beans),Silapathar,2016-02-22,5600.0,5.7,25.6,rain
+781,Green Gram (Moong),Silapathar,2016-02-22,9600.0,5.5,25.6,rain
+782,Lentil(Masur),Silapathar,2016-02-22,7500.0,2.9,25.6,rain
+783,Black Gram (Urd Beans),Silapathar,2016-02-23,5600.0,4.9,22.6,rain
+784,Green Gram (Moong),Silapathar,2016-02-23,9600.0,5.5,22.6,rain
+785,Lentil(Masur),Silapathar,2016-02-23,7500.0,3.0,22.6,rain
+786,Black Gram (Urd Beans),Silapathar,2016-02-24,5600.0,5.2,25.0,clear
+787,Green Gram (Moong),Silapathar,2016-02-24,9600.0,6.6,25.0,clear
+788,Lentil(Masur),Silapathar,2016-02-24,7500.0,3.0,25.0,clear
+789,Black Gram (Urd Beans),Silapathar,2016-02-25,5600.0,4.8,26.0,clear
+790,Green Gram (Moong),Silapathar,2016-02-25,9600.0,6.2,26.0,clear
+791,Lentil(Masur),Silapathar,2016-02-25,7500.0,2.9,26.0,clear
+792,Black Gram (Urd Beans),Silapathar,2016-02-26,5700.0,5.9,28.0,clear
+793,Green Gram (Moong),Silapathar,2016-02-26,9600.0,6.1,28.0,clear
+794,Lentil(Masur),Silapathar,2016-02-26,7500.0,3.0,28.0,clear
+795,Black Gram (Urd Beans),Silapathar,2016-02-28,5600.0,5.3,30.0,clear
+796,Green Gram (Moong),Silapathar,2016-02-28,9600.0,5.9,30.0,clear
+797,Lentil(Masur),Silapathar,2016-02-28,7500.0,3.2,30.0,clear
+798,Black Gram (Urd Beans),Silapathar,2016-02-29,5600.0,5.5,31.0,clear
+799,Green Gram (Moong),Silapathar,2016-02-29,9600.0,5.9,31.0,clear
+800,Lentil(Masur),Silapathar,2016-02-29,7500.0,3.0,31.0,clear
+801,Black Gram (Urd Beans),Silapathar,2016-01-03,5700.0,5.1,25.0,clear
+802,Green Gram (Moong),Silapathar,2016-01-03,9600.0,6.1,25.0,clear
+803,Lentil(Masur),Silapathar,2016-01-03,7500.0,2.8,25.0,clear
+804,Black Gram (Urd Beans),Silapathar,2016-03-03,5700.0,5.2,29.2,clear
+805,Green Gram (Moong),Silapathar,2016-03-03,9600.0,6.2,29.2,clear
+806,Lentil(Masur),Silapathar,2016-03-03,7500.0,2.7,29.2,clear
+807,Black Gram (Urd Beans),Silapathar,2016-04-03,5700.0,4.9,32.4,clear
+808,Green Gram (Moong),Silapathar,2016-04-03,9600.0,6.2,32.4,clear
+809,Lentil(Masur),Silapathar,2016-04-03,7500.0,2.9,32.4,clear
+810,Black Gram (Urd Beans),Silapathar,2016-06-03,5600.0,0.0,35.2,clear
+811,Green Gram (Moong),Silapathar,2016-06-03,9600.0,5.6,35.2,clear
+812,Lentil(Masur),Silapathar,2016-06-03,7500.0,2.8,35.2,clear
+813,Black Gram (Urd Beans),Silapathar,2016-08-03,5600.0,5.1,37.0,clear
+814,Green Gram (Moong),Silapathar,2016-08-03,9600.0,5.9,37.0,clear
+815,Lentil(Masur),Silapathar,2016-08-03,7500.0,2.7,37.0,clear
+816,Black Gram (Urd Beans),Silapathar,2016-12-03,5700.0,6.1,29.2,clear
+817,Green Gram (Moong),Silapathar,2016-12-03,9600.0,5.2,29.2,clear
+818,Lentil(Masur),Silapathar,2016-12-03,7500.0,3.0,29.2,clear
+819,Black Gram (Urd Beans),Silapathar,2016-03-13,5600.0,5.3,24.4,clear
+820,Green Gram (Moong),Silapathar,2016-03-13,9600.0,5.9,24.4,clear
+821,Lentil(Masur),Silapathar,2016-03-13,7500.0,3.2,24.4,clear
+822,Black Gram (Urd Beans),Silapathar,2016-03-19,5600.0,5.5,26.2,clear
+823,Green Gram (Moong),Silapathar,2016-03-19,9600.0,4.9,26.2,clear
+824,Lentil(Masur),Silapathar,2016-03-19,7500.0,2.7,26.2,clear
+825,Black Gram (Urd Beans),Silapathar,2016-03-20,5600.0,5.2,28.0,rain
+826,Green Gram (Moong),Silapathar,2016-03-20,9600.0,4.9,28.0,rain
+827,Black Gram (Urd Beans),Silapathar,2016-03-23,9150.0,5.9,24.6,clear
+828,Green Gram (Moong),Silapathar,2016-03-23,9600.0,6.2,24.6,clear
+829,Lentil(Masur),Silapathar,2016-03-23,7500.0,2.9,24.6,clear
+830,Black Gram (Urd Beans),Silapathar,2016-03-25,5600.0,6.1,31.6,clear
+831,Green Gram (Moong),Silapathar,2016-03-25,9600.0,5.2,31.6,clear
+832,Lentil(Masur),Silapathar,2016-03-25,7500.0,3.2,31.6,clear
+833,Black Gram (Urd Beans),Silapathar,2016-03-26,5600.0,6.2,31.0,clear
+834,Green Gram (Moong),Silapathar,2016-03-26,9600.0,4.9,31.0,clear
+835,Lentil(Masur),Silapathar,2016-03-26,7500.0,3.2,31.0,clear
+836,Black Gram (Urd Beans),Silapathar,2016-03-27,5600.0,4.9,31.0,rain
+837,Green Gram (Moong),Silapathar,2016-03-27,9600.0,6.2,31.0,rain
+838,Lentil(Masur),Silapathar,2016-03-27,7500.0,3.1,31.0,rain
+839,Black Gram (Urd Beans),Silapathar,2016-03-28,5600.0,5.3,23.4,clear
+840,Green Gram (Moong),Silapathar,2016-03-28,9600.0,6.2,23.4,clear
+841,Lentil(Masur),Silapathar,2016-03-28,7500.0,3.0,23.4,clear
+842,Black Gram (Urd Beans),Silapathar,2016-06-04,5500.0,5.9,36.0,clear
+843,Green Gram (Moong),Silapathar,2016-06-04,9600.0,6.2,36.0,clear
+844,Lentil(Masur),Silapathar,2016-06-04,7500.0,2.8,36.0,clear
+845,Black Gram (Urd Beans),Silapathar,2016-09-04,5600.0,5.0,30.8,clear
+846,Green Gram (Moong),Silapathar,2016-09-04,9500.0,5.9,30.8,clear
+847,Lentil(Masur),Silapathar,2016-09-04,7500.0,3.2,30.8,clear
+848,Black Gram (Urd Beans),Silapathar,2016-10-04,5600.0,5.2,35.2,clear
+849,Green Gram (Moong),Silapathar,2016-10-04,9600.0,5.4,35.2,clear
+850,Black Gram (Urd Beans),Silapathar,2016-11-04,5600.0,5.3,29.6,clear
+851,Green Gram (Moong),Silapathar,2016-11-04,9600.0,5.9,29.6,clear
+852,Lentil(Masur),Silapathar,2016-11-04,7500.0,3.2,29.6,clear
+853,Black Gram (Urd Beans),Silapathar,2016-12-04,5600.0,5.2,29.8,clear
+854,Green Gram (Moong),Silapathar,2016-12-04,9600.0,5.9,29.8,clear
+855,Lentil(Masur),Silapathar,2016-12-04,7500.0,3.0,29.8,clear
+856,Black Gram (Urd Beans),Silapathar,2016-04-13,5600.0,5.7,24.6,clear
+857,Green Gram (Moong),Silapathar,2016-04-13,9600.0,6.1,24.6,clear
+858,Lentil(Masur),Silapathar,2016-04-13,7500.0,2.9,24.6,clear
+859,Black Gram (Urd Beans),Silapathar,2016-04-14,5600.0,5.9,22.8,rain
+860,Green Gram (Moong),Silapathar,2016-04-14,7500.0,4.9,22.8,rain
+861,Lentil(Masur),Silapathar,2016-04-14,7500.0,2.7,22.8,rain
+862,Black Gram (Urd Beans),Silapathar,2016-04-17,5600.0,5.4,30.0,clear
+863,Green Gram (Moong),Silapathar,2016-04-17,9600.0,5.9,30.0,clear
+864,Lentil(Masur),Silapathar,2016-04-17,7500.0,2.8,30.0,clear
+865,Black Gram (Urd Beans),Silapathar,2016-04-23,5600.0,5.9,23.6,rain
+866,Green Gram (Moong),Silapathar,2016-04-23,9600.0,6.2,23.6,rain
+867,Lentil(Masur),Silapathar,2016-04-23,7500.0,2.9,23.6,rain
+868,Black Gram (Urd Beans),Silapathar,2016-11-06,5500.0,4.2,23.6,rain
+869,Green Gram (Moong),Silapathar,2016-11-06,9600.0,5.3,23.6,rain
+870,Lentil(Masur),Silapathar,2016-11-06,7500.0,40.0,23.6,rain
+871,Black Gram (Urd Beans),Silapathar,2016-06-23,5500.0,3.0,28.8,clear
+872,Green Gram (Moong),Silapathar,2016-06-23,9600.0,3.7,28.8,clear
+873,Lentil(Masur),Silapathar,2016-06-23,7500.0,2.5,28.8,clear
+874,Black Gram (Urd Beans),Silapathar,2016-05-12,5500.0,54.0,34.0,clear
+875,Green Gram (Moong),Silapathar,2016-06-01,9600.0,18.0,32.6,clear
+876,Lentil(Masur),Silapathar,2016-06-01,7500.0,3.0,32.6,clear
+877,Green Gram (Moong),Silapathar,2016-07-01,9600.0,3.0,27.4,clear
+878,Lentil(Masur),Silapathar,2016-07-01,7500.0,16.0,27.4,clear
+879,Green Gram (Moong),Silapathar,2016-01-07,5700.0,2.3,26.0,clear
+880,Lentil(Masur),Silapathar,2016-01-07,7500.0,3.0,26.0,clear
+881,Green Gram (Moong),Silapathar,2016-02-07,9600.0,3.0,26.2,clear
+882,Lentil(Masur),Silapathar,2016-02-07,7500.0,3.2,26.2,clear
+883,Green Gram (Moong),Silapathar,2016-06-07,9600.0,2.7,33.6,clear
+884,Lentil(Masur),Silapathar,2016-06-07,7500.0,3.0,33.6,clear
+885,Green Gram (Moong),Silapathar,2016-08-07,9600.0,2.0,32.6,clear
+886,Lentil(Masur),Silapathar,2016-08-07,7500.0,3.0,32.6,clear
+887,Green Gram (Moong),Silapathar,2016-01-08,9600.0,3.0,23.6,clear
+888,Lentil(Masur),Silapathar,2016-01-08,7500.0,3.0,23.6,clear
+889,Green Gram (Moong),Silapathar,2016-08-16,9600.0,3.7,33.4,clear
+890,Lentil(Masur),Silapathar,2016-08-16,7500.0,3.0,33.4,clear
+891,Green Gram (Moong),Silapathar,2016-08-25,9600.0,3.0,36.6,clear
+892,Lentil(Masur),Silapathar,2016-08-25,7500.0,3.0,36.6,clear
+893,Green Gram (Moong),Silapathar,2016-05-09,9600.0,3.0,33.0,clear
+894,Green Gram (Moong),Silapathar,2016-10-20,9600.0,46.0,32.2,clear
+895,Lentil(Masur),Silapathar,2016-10-20,7500.0,27.0,32.2,clear
+896,Green Gram (Moong),Silapathar,2016-10-24,9600.0,57.0,33.4,clear
+897,Lentil(Masur),Silapathar,2016-10-24,7500.0,30.0,33.4,clear
+898,Green Gram (Moong),Silapathar,2016-10-25,9600.0,53.0,30.4,clear
+899,Lentil(Masur),Silapathar,2016-10-25,7500.0,3.0,30.4,clear
+900,Green Gram (Moong),Silapathar,2016-10-28,9600.0,5.3,32.0,clear
+901,Lentil(Masur),Silapathar,2016-10-28,7500.0,27.0,32.0,clear
+902,Green Gram (Moong),Silapathar,2016-02-11,9600.0,49.0,18.8,rain
+903,Lentil(Masur),Silapathar,2016-02-11,7500.0,3.0,18.8,rain
+904,Green Gram (Moong),Silapathar,2016-07-11,9600.0,45.0,34.4,clear
+905,Lentil(Masur),Silapathar,2016-07-11,7500.0,28.0,34.4,clear
+906,Lentil(Masur),Silapathar,2016-07-15,7500.0,3.0,29.0,clear
+907,Lentil(Masur),Silapathar,2016-11-09,7500.0,3.0,30.8,clear
+908,Arhar (Tur/Red Gram),Silapathar,2017-01-20,12000.0,23.0,25.6,clear
+909,Black Gram (Urd Beans),Silapathar,2017-01-20,7550.0,43.0,25.6,clear
+910,Green Gram (Moong),Silapathar,2017-01-20,9600.0,53.0,25.6,clear
+911,Lentil(Masur),Silapathar,2017-01-20,7500.0,23.0,25.6,clear
+912,Arhar (Tur/Red Gram),Silapathar,2017-01-21,12000.0,24.0,26.4,clear
+913,Black Gram (Urd Beans),Silapathar,2017-01-21,7550.0,50.0,26.4,clear
+914,Lentil(Masur),Silapathar,2017-01-21,7500.0,27.0,26.4,clear
+915,Arhar (Tur/Red Gram),Silapathar,2017-01-22,12000.0,26.0,27.4,clear
+916,Black Gram (Urd Beans),Silapathar,2017-01-22,7550.0,44.0,27.4,clear
+917,Green Gram (Moong),Silapathar,2017-01-22,9600.0,44.0,27.4,clear
+918,Lentil(Masur),Silapathar,2017-01-22,7500.0,23.0,27.4,clear
+919,Arhar (Tur/Red Gram),Silapathar,2017-01-23,12000.0,24.0,26.4,clear
+920,Black Gram (Urd Beans),Silapathar,2017-01-23,7550.0,42.0,26.4,clear
+921,Green Gram (Moong),Silapathar,2017-01-23,9600.0,54.0,26.4,clear
+922,Arhar (Tur/Red Gram),Silapathar,2017-01-25,12000.0,23.0,29.0,clear
+923,Black Gram (Urd Beans),Silapathar,2017-01-25,5500.0,56.0,29.0,clear
+924,Green Gram (Moong),Silapathar,2017-01-25,9600.0,59.0,29.0,clear
+925,Lentil(Masur),Silapathar,2017-01-25,7500.0,28.0,29.0,clear
+926,Arhar (Tur/Red Gram),Silapathar,2017-01-27,12000.0,24.0,27.6,clear
+927,Black Gram (Urd Beans),Silapathar,2017-01-27,7550.0,45.0,27.6,clear
+928,Green Gram (Moong),Silapathar,2017-01-27,9600.0,50.0,27.6,clear
+929,Lentil(Masur),Silapathar,2017-01-27,7500.0,27.0,27.6,clear
+930,Arhar (Tur/Red Gram),Silapathar,2017-01-28,12000.0,23.0,21.4,clear
+931,Black Gram (Urd Beans),Silapathar,2017-01-28,7550.0,56.0,21.4,clear
+932,Green Gram (Moong),Silapathar,2017-01-28,9600.0,44.0,21.4,clear
+933,Lentil(Masur),Silapathar,2017-01-28,7500.0,28.0,21.4,clear
+934,Black Gram (Urd Beans),Silapathar,2017-01-02,7550.0,56.0,27.2,clear
+935,Green Gram (Moong),Silapathar,2017-01-02,9600.0,42.0,27.2,clear
+936,Lentil(Masur),Silapathar,2017-01-02,7500.0,26.0,27.2,clear
+937,Black Gram (Urd Beans),Silapathar,2017-04-02,7550.0,53.0,20.8,rain
+938,Black Gram (Urd Beans),Silapathar,2017-02-23,7550.0,5.0,25.6,rain
+939,Green Gram (Moong),Silapathar,2017-02-23,9600.0,43.0,25.6,rain
+940,Lentil(Masur),Silapathar,2017-02-23,7500.0,28.0,25.6,rain
+941,Black Gram (Urd Beans),Silapathar,2017-03-26,5500.0,39.0,29.6,clear
+942,Green Gram (Moong),Silapathar,2017-03-26,9600.0,47.0,29.6,clear
+943,Lentil(Masur),Silapathar,2017-03-26,7500.0,2.0,29.6,clear
+944,Black Gram (Urd Beans),Silapathar,2017-03-27,9600.0,4.5,28.8,clear
+945,Green Gram (Moong),Silapathar,2017-03-27,9600.0,48.0,28.8,clear
+946,Lentil(Masur),Silapathar,2017-03-27,7500.0,35.0,28.8,clear
+947,Black Gram (Urd Beans),Silapathar,2017-03-30,7550.0,44.0,21.0,rain
+948,Green Gram (Moong),Silapathar,2017-03-30,9600.0,61.0,21.0,rain
+949,Lentil(Masur),Silapathar,2017-03-30,7500.0,3.0,21.0,rain
+950,Green Gram (Moong),Silapathar,2017-07-15,9600.0,3.4,34.4,clear
+951,Lentil(Masur),Silapathar,2017-07-15,7500.0,1.8,34.4,clear
+952,Green Gram (Moong),Silapathar,2017-07-17,9600.0,1.9,32.0,clear
+953,Lentil(Masur),Silapathar,2017-07-17,7500.0,3.3,32.0,clear
+954,Green Gram (Moong),Silapathar,2017-07-18,9600.0,1.0,36.2,clear
+955,Lentil(Masur),Silapathar,2017-07-18,7500.0,2.8,36.2,clear
+956,Green Gram (Moong),Silapathar,2017-07-19,9600.0,2.6,34.0,clear
+957,Lentil(Masur),Silapathar,2017-07-19,7500.0,5.5,34.0,clear
+958,Green Gram (Moong),Silapathar,2017-07-20,9600.0,2.2,33.6,clear
+959,Lentil(Masur),Silapathar,2017-07-20,7500.0,3.3,33.6,clear
+960,Green Gram (Moong),Silapathar,2017-07-21,9600.0,1.8,33.6,clear
+961,Lentil(Masur),Silapathar,2017-07-21,7500.0,2.4,33.6,clear
+962,Green Gram (Moong),Silapathar,2017-07-22,9600.0,2.5,35.4,clear
+963,Lentil(Masur),Silapathar,2017-07-22,7500.0,1.7,35.4,clear
+964,Green Gram (Moong),Silapathar,2017-07-24,9600.0,2.6,33.0,rain
+965,Lentil(Masur),Silapathar,2017-07-24,7500.0,4.4,33.0,rain
+966,Green Gram (Moong),Silapathar,2017-07-25,9600.0,0.9,32.0,clear
+967,Lentil(Masur),Silapathar,2017-07-25,7500.0,1.8,32.0,clear
+968,Green Gram (Moong),Silapathar,2017-07-26,9600.0,1.9,31.4,clear
+969,Lentil(Masur),Silapathar,2017-07-26,7500.0,5.1,31.4,clear
+970,Lentil(Masur),Silapathar,2017-12-07,7500.0,3.6,26.0,clear
+971,Lentil(Masur),Silapathar,2017-07-13,7500.0,4.6,33.8,clear
+972,Lentil(Masur),Silapathar,2017-07-14,7500.0,2.4,33.0,clear
+973,Lentil(Masur),Silapathar,2017-07-27,7500.0,4.0,31.2,clear
+974,Lentil(Masur),Silapathar,2017-07-28,7500.0,1.7,33.0,clear
+975,Lentil(Masur),Silapathar,2017-07-29,7500.0,3.8,34.6,clear
+976,Lentil(Masur),Silapathar,2017-07-31,7500.0,4.4,33.6,clear
+977,Lentil(Masur),Silapathar,2017-02-08,7500.0,3.9,28.0,clear
+978,Lentil(Masur),Silapathar,2017-03-08,7500.0,4.9,27.2,clear
+979,Lentil(Masur),Silapathar,2017-04-08,7500.0,5.8,29.6,clear
+980,Lentil(Masur),Silapathar,2017-05-08,7500.0,1.7,32.4,clear
+981,Lentil(Masur),Silapathar,2017-07-08,7500.0,2.4,29.0,clear
+982,Lentil(Masur),Silapathar,2017-08-08,7500.0,6.6,30.0,rain
+983,Lentil(Masur),Silapathar,2017-09-08,7500.0,3.5,30.6,clear
+984,Lentil(Masur),Silapathar,2017-10-08,7500.0,3.2,35.6,clear
+985,Lentil(Masur),Silapathar,2017-11-08,7500.0,5.1,31.4,clear
+986,Lentil(Masur),Silapathar,2017-12-08,7500.0,1.7,26.8,clear
+987,Lentil(Masur),Silapathar,2017-08-13,7500.0,1.8,30.0,clear
+988,Lentil(Masur),Silapathar,2017-08-14,7500.0,5.3,31.2,clear
+989,Lentil(Masur),Silapathar,2017-08-16,7500.0,7.3,30.2,clear
+990,Lentil(Masur),Silapathar,2017-08-17,7500.0,3.8,34.4,clear
+991,Lentil(Masur),Silapathar,2017-08-18,7500.0,2.7,28.2,rain
+992,Lentil(Masur),Silapathar,2017-08-19,7500.0,7.7,31.2,clear
+993,Lentil(Masur),Silapathar,2017-08-21,7500.0,3.2,34.2,clear
+994,Lentil(Masur),Silapathar,2017-08-22,7500.0,5.3,35.6,clear
+995,Lentil(Masur),Silapathar,2017-08-24,7500.0,6.2,30.6,clear
+996,Lentil(Masur),Silapathar,2017-08-25,7500.0,4.8,34.0,clear
+997,Lentil(Masur),Silapathar,2017-08-26,7500.0,5.2,34.0,clear
+998,Lentil(Masur),Silapathar,2017-08-28,7500.0,6.0,33.2,clear
+999,Lentil(Masur),Silapathar,2017-08-29,7500.0,3.2,31.6,clear
+1000,Lentil(Masur),Silapathar,2017-08-30,7500.0,4.3,33.8,clear
+1001,Lentil(Masur),Silapathar,2017-08-31,7500.0,5.5,32.4,clear
+1002,Lentil(Masur),Silapathar,2017-01-09,7500.0,3.0,26.0,clear
+1003,Lentil(Masur),Silapathar,2017-02-09,7500.0,4.6,28.0,clear
+1004,Lentil(Masur),Silapathar,2017-04-09,7500.0,3.4,30.6,rain
+1005,Lentil(Masur),Silapathar,2017-05-09,7500.0,4.4,33.2,rain
+1006,Lentil(Masur),Silapathar,2017-06-09,7500.0,7.3,32.0,clear
+1007,Lentil(Masur),Silapathar,2017-07-09,7500.0,3.8,26.2,rain
+1008,Lentil(Masur),Silapathar,2017-08-09,7500.0,5.7,28.6,clear
+1009,Lentil(Masur),Silapathar,2017-09-09,7500.0,7.2,27.6,clear
+1010,Lentil(Masur),Silapathar,2017-11-09,7500.0,2.0,29.8,clear
+1011,Lentil(Masur),Silapathar,2017-12-09,7500.0,5.9,25.6,clear
+1012,Lentil(Masur),Silapathar,2017-09-14,7500.0,9.3,33.0,clear
+1013,Lentil(Masur),Silapathar,2017-09-15,7500.0,5.5,34.4,clear
+1014,Lentil(Masur),Silapathar,2017-09-16,7500.0,6.6,36.2,clear
+1015,Lentil(Masur),Silapathar,2017-09-17,7500.0,3.6,35.6,clear
+1016,Lentil(Masur),Silapathar,2017-09-18,7500.0,2.1,36.4,clear
+1017,Lentil(Masur),Silapathar,2017-09-19,7500.0,7.4,37.0,clear
+1018,Lentil(Masur),Silapathar,2017-09-20,7500.0,5.8,33.0,clear
+1019,Lentil(Masur),Silapathar,2017-09-21,7500.0,4.0,31.0,clear
+1020,Lentil(Masur),Silapathar,2017-09-22,7500.0,2.4,30.4,clear
+1021,Lentil(Masur),Silapathar,2017-09-25,7500.0,6.8,32.4,clear
+1022,Lentil(Masur),Silapathar,2017-09-26,7500.0,4.8,34.8,clear
+1023,Lentil(Masur),Silapathar,2017-09-27,7500.0,3.3,34.2,clear
+1024,Lentil(Masur),Silapathar,2017-09-30,7500.0,6.6,31.8,clear
+1025,Lentil(Masur),Silapathar,2017-01-10,7500.0,4.2,21.0,clear
+1026,Lentil(Masur),Silapathar,2017-02-10,7500.0,3.6,25.2,clear
+1027,Lentil(Masur),Silapathar,2017-03-10,7500.0,5.8,22.2,clear
+1028,Lentil(Masur),Silapathar,2017-04-10,7500.0,5.7,28.2,rain
+1029,Lentil(Masur),Silapathar,2017-05-10,7500.0,4.9,30.0,clear
+1030,Lentil(Masur),Silapathar,2017-06-10,7500.0,5.3,34.2,clear
+1031,Lentil(Masur),Silapathar,2017-07-10,7500.0,3.3,25.4,rain
+1032,Lentil(Masur),Silapathar,2017-09-10,7500.0,3.7,28.8,clear
+1033,Lentil(Masur),Silapathar,2017-10-10,7500.0,6.3,34.2,clear
+1034,Lentil(Masur),Silapathar,2017-11-10,7500.0,5.1,30.0,clear
+1035,Lentil(Masur),Silapathar,2017-12-10,7500.0,4.4,25.2,clear
+1036,Lentil(Masur),Silapathar,2017-10-13,7500.0,3.7,30.0,clear
+1037,Lentil(Masur),Silapathar,2017-10-17,7500.0,6.9,32.0,clear
+1038,Lentil(Masur),Silapathar,2017-10-20,7500.0,3.6,30.0,clear
+1039,Lentil(Masur),Silapathar,2017-10-21,7500.0,3.7,24.0,rain
+1040,Lentil(Masur),Silapathar,2017-10-23,7500.0,5.4,27.0,clear
+1041,Lentil(Masur),Silapathar,2017-10-24,7500.0,4.6,28.0,clear
+1042,Lentil(Masur),Silapathar,2017-10-25,7500.0,6.6,26.4,clear
+1043,Lentil(Masur),Silapathar,2017-10-30,7500.0,4.9,24.4,clear
+1044,Lentil(Masur),Silapathar,2017-10-31,7500.0,6.5,27.0,clear

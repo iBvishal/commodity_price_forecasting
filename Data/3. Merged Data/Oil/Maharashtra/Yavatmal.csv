@@ -1,0 +1,2886 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Soyabean,Aarni,2015-12-12,3450.0,10.0,27.0,clear
+1,Soyabean,Bori Arab,2015-12-12,3470.0,4.0,27.0,clear
+2,Soyabean,Kalamb,2015-12-12,3450.0,4.0,27.0,clear
+3,Soyabean,Ner Parasopant,2015-12-12,3450.0,34.0,27.0,clear
+4,Soyabean,Pusad,2015-12-12,3585.0,34.0,27.0,clear
+5,Soyabean,Umarked(Danki),2015-12-12,3550.0,14.0,27.0,clear
+6,Soyabean,Umarkhed,2015-12-12,3550.0,14.0,27.0,clear
+7,Soyabean,Aarni,2015-12-14,3500.0,10.0,28.4,clear
+8,Soyabean,Bori Arab,2015-12-14,3500.0,1.0,28.4,clear
+9,Soyabean,Digras,2015-12-14,3565.0,24.0,28.4,clear
+10,Soyabean,Ghatanji,2015-12-14,3450.0,4.0,28.4,clear
+11,Soyabean,Kalamb,2015-12-14,3600.0,9.0,28.4,clear
+12,Soyabean,Ner Parasopant,2015-12-14,3400.0,42.0,28.4,clear
+13,Soyabean,Pandhakawada,2015-12-14,3485.0,4.0,28.4,clear
+14,Soyabean,Umarked(Danki),2015-12-14,3550.0,12.0,28.4,clear
+15,Soyabean,Vani,2015-12-14,3489.0,16.0,28.4,clear
+16,Soyabean,Yeotmal,2015-12-14,3605.0,124.0,28.4,clear
+17,Soyabean,Aarni,2015-12-15,3500.0,8.0,26.0,clear
+18,Soyabean,Babhulgaon,2015-12-15,3450.0,65.0,26.0,clear
+19,Soyabean,Bori Arab,2015-12-15,3525.0,1.0,26.0,clear
+20,Soyabean,Digras,2015-12-15,3545.0,25.0,26.0,clear
+21,Soyabean,Kalamb,2015-12-15,3450.0,3.0,26.0,clear
+22,Soyabean,Ner Parasopant,2015-12-15,3550.0,24.0,26.0,clear
+23,Soyabean,Pandhakawada,2015-12-15,3500.0,4.0,26.0,clear
+24,Soyabean,Pusad,2015-12-15,3585.0,51.0,26.0,clear
+25,Soyabean,Vani,2015-12-15,3551.0,31.0,26.0,clear
+26,Soyabean,Yeotmal,2015-12-15,3585.0,126.0,26.0,clear
+27,Soyabean,Aarni,2015-12-16,3500.0,14.0,28.0,clear
+28,Soyabean,Babhulgaon,2015-12-16,3401.0,60.0,28.0,clear
+29,Soyabean,Digras,2015-12-16,3555.0,22.0,28.0,clear
+30,Soyabean,Ghatanji,2015-12-16,3450.0,2.0,28.0,clear
+31,Soyabean,Kalamb,2015-12-16,3550.0,8.0,28.0,clear
+32,Soyabean,Ner Parasopant,2015-12-16,3450.0,36.0,28.0,clear
+33,Soyabean,Pandhakawada,2015-12-16,3450.0,3.0,28.0,clear
+34,Soyabean,Umarked(Danki),2015-12-16,3550.0,19.0,28.0,clear
+35,Soyabean,Vani,2015-12-16,3558.0,13.0,28.0,clear
+36,Soyabean,Yeotmal,2015-12-16,3590.0,89.0,28.0,clear
+37,Soyabean,Aarni,2015-12-17,3500.0,13.0,28.4,clear
+38,Soyabean,Digras,2015-12-17,3515.0,26.0,28.4,clear
+39,Soyabean,Ghatanji,2015-12-17,3400.0,2.0,28.4,clear
+40,Soyabean,Kalamb,2015-12-17,3450.0,4.0,28.4,clear
+41,Soyabean,Ner Parasopant,2015-12-17,3450.0,26.0,28.4,clear
+42,Soyabean,Pandhakawada,2015-12-17,3400.0,3.0,28.4,clear
+43,Soyabean,Umarkhed,2015-12-17,3550.0,7.0,28.4,clear
+44,Soyabean,Vani,2015-12-17,3528.0,16.0,28.4,clear
+45,Soyabean,Yeotmal,2015-12-17,3540.0,82.0,28.4,clear
+46,Soyabean,Aarni,2015-12-18,3500.0,14.0,25.0,clear
+47,Soyabean,Babhulgaon,2015-12-18,3501.0,80.0,25.0,clear
+48,Soyabean,Digras,2015-12-18,3595.0,22.0,25.0,clear
+49,Soyabean,Ghatanji,2015-12-18,3420.0,2.0,25.0,clear
+50,Soyabean,Kalamb,2015-12-18,3500.0,3.0,25.0,clear
+51,Soyabean,Ner Parasopant,2015-12-18,3475.0,25.0,25.0,clear
+52,Soyabean,Pandhakawada,2015-12-18,3430.0,3.0,25.0,clear
+53,Soyabean,Pusad,2015-12-18,3615.0,62.0,25.0,clear
+54,Soyabean,Umarkhed,2015-12-18,3550.0,7.0,25.0,clear
+55,Soyabean,Vani,2015-12-18,3470.0,14.0,25.0,clear
+56,Soyabean,Yeotmal,2015-12-18,3610.0,68.0,25.0,clear
+57,Soyabean,Aarni,2015-12-23,3500.0,24.0,26.0,clear
+58,Soyabean,Babhulgaon,2015-12-23,3501.0,50.0,26.0,clear
+59,Soyabean,Bori Arab,2015-12-23,3500.0,2.0,26.0,clear
+60,Soyabean,Digras,2015-12-23,3615.0,10.0,26.0,clear
+61,Soyabean,Ghatanji,2015-12-23,3450.0,3.0,26.0,clear
+62,Soyabean,Kalamb,2015-12-23,3450.0,6.0,26.0,clear
+63,Soyabean,Ner Parasopant,2015-12-23,3550.0,23.0,26.0,clear
+64,Soyabean,Pandhakawada,2015-12-23,3430.0,2.0,26.0,clear
+65,Soyabean,Vani,2015-12-23,3588.0,17.0,26.0,clear
+66,Soyabean,Yeotmal,2015-12-23,3549.0,65.0,26.0,clear
+67,Soyabean,Babhulgaon,2015-12-08,3240.0,25.0,27.4,clear
+68,Soyabean,Digras,2015-12-08,3100.0,0.0,27.4,clear
+69,Soyabean,Ner Parasopant,2015-12-08,3200.0,10.0,27.4,clear
+70,Soyabean,Umarked(Danki),2015-12-08,3300.0,10.0,27.4,clear
+71,Soyabean,Yeotmal,2015-12-08,3249.0,20.0,27.4,clear
+72,Soyabean,Babhulgaon,2015-12-10,3360.0,97.0,30.0,clear
+73,Soyabean,Pandhakawada,2015-12-10,3400.0,15.0,30.0,clear
+74,Soyabean,Umarked(Danki),2015-12-10,3500.0,7.0,30.0,clear
+75,Soyabean,Umarkhed,2015-12-10,3500.0,58.0,30.0,clear
+76,Soyabean,ZariZamini,2015-12-10,3357.0,4.0,30.0,clear
+77,Soyabean,Babhulgaon,2015-12-21,3551.0,50.0,26.0,clear
+78,Soyabean,Bori Arab,2015-12-21,3500.0,2.0,26.0,clear
+79,Soyabean,Digras,2015-12-21,3560.0,5.0,26.0,clear
+80,Soyabean,Ghatanji,2015-12-21,3550.0,7.0,26.0,clear
+81,Soyabean,Kalamb,2015-12-21,3550.0,9.0,26.0,clear
+82,Soyabean,Ner Parasopant,2015-12-21,3600.0,47.0,26.0,clear
+83,Soyabean,Pandhakawada,2015-12-21,3350.0,3.0,26.0,clear
+84,Soyabean,Vani,2015-12-21,3646.0,20.0,26.0,clear
+85,Soyabean,Yeotmal,2015-12-21,3505.0,125.0,26.0,clear
+86,Soyabean,Babhulgaon,2015-12-22,3501.0,50.0,28.4,clear
+87,Soyabean,Digras,2015-12-22,3625.0,11.0,28.4,clear
+88,Soyabean,Ghatanji,2015-12-22,3450.0,4.0,28.4,clear
+89,Soyabean,Kalamb,2015-12-22,3400.0,7.0,28.4,clear
+90,Soyabean,Ner Parasopant,2015-12-22,3600.0,22.0,28.4,clear
+91,Soyabean,Pandhakawada,2015-12-22,3400.0,3.0,28.4,clear
+92,Soyabean,Pusad,2015-12-22,3670.0,66.0,28.4,clear
+93,Soyabean,Umarked(Danki),2015-12-22,3500.0,16.0,28.4,clear
+94,Soyabean,Vani,2015-12-22,3606.0,14.0,28.4,clear
+95,Soyabean,Yeotmal,2015-12-22,3550.0,84.0,28.4,clear
+96,Soyabean,Babhulgaon,2015-12-28,3451.0,80.0,28.4,clear
+97,Soyabean,Bori Arab,2015-12-28,3500.0,1.0,28.4,clear
+98,Soyabean,Digras,2015-12-28,3595.0,20.0,28.4,clear
+99,Soyabean,Kalamb,2015-12-28,3500.0,19.0,28.4,clear
+100,Soyabean,Ner Parasopant,2015-12-28,3450.0,36.0,28.4,clear
+101,Soyabean,Pandhakawada,2015-12-28,3200.0,6.0,28.4,clear
+102,Soyabean,Vani,2015-12-28,3566.0,17.0,28.4,clear
+103,Soyabean,Yeotmal,2015-12-28,3560.0,71.0,28.4,clear
+104,Soyabean,Babhulgaon,2015-12-29,3501.0,50.0,30.0,clear
+105,Soyabean,Bori Arab,2015-12-29,3500.0,1.0,30.0,clear
+106,Soyabean,Ghatanji,2015-12-29,3450.0,5.0,30.0,clear
+107,Soyabean,Kalamb,2015-12-29,3450.0,4.0,30.0,clear
+108,Soyabean,Ner Parasopant,2015-12-29,3400.0,25.0,30.0,clear
+109,Soyabean,Pandhakawada,2015-12-29,3350.0,4.0,30.0,clear
+110,Soyabean,Pusad,2015-12-29,3590.0,62.0,30.0,clear
+111,Soyabean,Umarked(Danki),2015-12-29,3500.0,12.0,30.0,clear
+112,Soyabean,Umarkhed,2015-12-29,3500.0,14.0,30.0,clear
+113,Soyabean,Vani,2015-12-29,3561.0,11.0,30.0,clear
+114,Soyabean,Yeotmal,2015-12-29,3570.0,43.0,30.0,clear
+115,Soyabean,Babhulgaon,2015-12-30,3401.0,60.0,30.0,clear
+116,Soyabean,Bori Arab,2015-12-30,3500.0,2.0,30.0,clear
+117,Soyabean,Ghatanji,2015-12-30,3480.0,3.0,30.0,clear
+118,Soyabean,Kalamb,2015-12-30,3550.0,3.0,30.0,clear
+119,Soyabean,Ner Parasopant,2015-12-30,3425.0,21.0,30.0,clear
+120,Soyabean,Pandhakawada,2015-12-30,3400.0,4.0,30.0,clear
+121,Soyabean,Umarked(Danki),2015-12-30,3500.0,7.0,30.0,clear
+122,Soyabean,Vani,2015-12-30,3565.0,11.0,30.0,clear
+123,Soyabean,Yeotmal,2015-12-30,3590.0,68.0,30.0,clear
+124,Soyabean,Bori Arab,2015-12-31,3490.0,2.0,31.4,clear
+125,Soyabean,Kalamb,2015-12-31,3500.0,11.0,31.4,clear
+126,Soyabean,Ner Parasopant,2015-12-31,3400.0,30.0,31.4,clear
+127,Soyabean,Vani,2015-12-31,3472.0,8.0,31.4,clear
+128,Soyabean,Yeotmal,2015-12-31,3585.0,55.0,31.4,clear
+129,Soyabean,Kalamb,2015-12-19,3600.0,3.0,19.4,clear
+130,Soyabean,Ner Parasopant,2015-12-19,3500.0,28.0,19.4,clear
+131,Soyabean,Kalamb,2015-12-26,3450.0,3.0,22.6,clear
+132,Soyabean,Ner Parasopant,2015-12-26,3500.0,26.0,22.6,clear
+133,Soyabean,Umarked(Danki),2015-12-24,3500.0,7.0,23.0,clear
+134,Soyabean,Vani,2015-12-24,3602.0,3.0,23.0,clear
+135,Soyabean,Umarked(Danki),2015-12-27,3500.0,14.0,26.4,clear
+136,Soyabean,Umarkhed,2015-12-25,3500.0,7.0,21.0,clear
+137,Soyabean,Vani,2015-12-25,3535.0,4.0,21.0,clear
+138,Soyabean,Aarni,2016-09-01,3400.0,53.0,27.0,clear
+139,Soyabean,Babhulgaon,2016-09-01,3501.0,50.0,27.0,clear
+140,Soyabean,Kalamb,2016-09-01,3450.0,6.0,27.0,clear
+141,Soyabean,Ner Parasopant,2016-09-01,3450.0,26.0,27.0,clear
+142,Soyabean,ZariZamini,2016-09-01,3290.0,1.0,27.0,clear
+143,Soyabean,Aarni,2016-01-16,3500.0,73.0,28.4,clear
+144,Soyabean,Babhulgaon,2016-01-16,3501.0,35.0,28.4,clear
+145,Soyabean,Kalamb,2016-01-16,3500.0,8.0,28.4,clear
+146,Soyabean,Ner Parasopant,2016-01-16,3400.0,7.0,28.4,clear
+147,Soyabean,Umarkhed,2016-01-16,3500.0,5.0,28.4,clear
+148,Soyabean,ZariZamini,2016-01-16,3437.0,3.0,28.4,clear
+149,Soyabean,Aarni,2016-01-23,3400.0,68.0,26.0,clear
+150,Soyabean,Babhulgaon,2016-01-23,3601.0,40.0,26.0,clear
+151,Soyabean,Bori Arab,2016-01-23,3530.0,2.0,26.0,clear
+152,Soyabean,Kalamb,2016-01-23,3500.0,4.0,26.0,clear
+153,Soyabean,Ner Parasopant,2016-01-23,3650.0,48.0,26.0,clear
+154,Soyabean,Umarked(Danki),2016-01-23,3500.0,19.0,26.0,clear
+155,Soyabean,ZariZamini,2016-01-23,2750.0,0.0,26.0,clear
+156,Soyabean,Aarni,2016-01-30,3300.0,39.0,33.0,clear
+157,Soyabean,Kalamb,2016-01-30,3500.0,2.0,33.0,clear
+158,Soyabean,Ner Parasopant,2016-01-30,3600.0,33.0,33.0,clear
+159,Soyabean,Umarkhed,2016-01-30,3400.0,6.0,33.0,clear
+160,Soyabean,Aarni,2016-08-02,3400.0,12.0,25.4,clear
+161,Soyabean,Babhulgaon,2016-08-02,3501.0,90.0,25.4,clear
+162,Soyabean,Digras,2016-08-02,3695.0,9.0,25.4,clear
+163,Soyabean,Kalamb,2016-08-02,3450.0,4.0,25.4,clear
+164,Soyabean,Ner Parasopant,2016-08-02,3600.0,5.0,25.4,clear
+165,Soyabean,Umarkhed,2016-08-02,3400.0,20.0,25.4,clear
+166,Soyabean,Yeotmal,2016-08-02,3620.0,208.0,25.4,clear
+167,Soyabean,Aarni,2016-02-13,3500.0,50.0,31.0,clear
+168,Soyabean,Babhulgaon,2016-02-13,3575.0,67.0,31.0,clear
+169,Soyabean,Kalamb,2016-02-13,3500.0,5.0,31.0,clear
+170,Soyabean,Ner Parasopant,2016-02-13,3600.0,13.0,31.0,clear
+171,Soyabean,Umarked(Danki),2016-02-13,3500.0,41.0,31.0,clear
+172,Soyabean,Umarkhed,2016-02-13,3500.0,7.0,31.0,clear
+173,Soyabean,Aarni,2016-02-27,3300.0,54.0,31.6,clear
+174,Soyabean,Babhulgaon,2016-02-27,3451.0,90.0,31.6,clear
+175,Soyabean,Ner Parasopant,2016-02-27,3500.0,8.0,31.6,clear
+176,Soyabean,Umarkhed,2016-02-27,3500.0,12.0,31.6,clear
+177,Soyabean,Aarni,2016-05-28,3550.0,75.0,40.0,clear
+178,Soyabean,Babhulgaon,2016-05-28,3600.0,22.0,40.0,clear
+179,Soyabean,Kalamb,2016-05-28,3550.0,2.0,40.0,clear
+180,Soyabean,Ner Parasopant,2016-05-28,3600.0,15.0,40.0,clear
+181,Soyabean,Umarked(Danki),2016-05-28,3600.0,7.0,40.0,clear
+182,Soyabean,Aarni,2016-04-06,3400.0,55.0,37.0,clear
+183,Soyabean,Babhulgaon,2016-04-06,3601.0,40.0,37.0,clear
+184,Soyabean,Ner Parasopant,2016-04-06,3500.0,18.0,37.0,clear
+185,Soyabean,Aarni,2016-11-06,3500.0,33.0,26.4,clear
+186,Soyabean,Babhulgaon,2016-11-06,3601.0,30.0,26.4,clear
+187,Soyabean,Umarkhed,2016-11-06,3500.0,5.0,26.4,clear
+188,Soyabean,Aarni,2016-06-18,3500.0,30.0,25.4,clear
+189,Soyabean,Babhulgaon,2016-06-18,3625.0,15.0,25.4,clear
+190,Soyabean,Ner Parasopant,2016-06-18,3550.0,13.0,25.4,clear
+191,Soyabean,Aarni,2016-02-07,3500.0,21.0,31.2,clear
+192,Soyabean,Babhulgaon,2016-02-07,3651.0,20.0,31.2,clear
+193,Soyabean,Ner Parasopant,2016-02-07,3650.0,12.0,31.2,clear
+194,Soyabean,Aarni,2016-07-23,3400.0,40.0,28.0,clear
+195,Soyabean,Kalamb,2016-07-23,3350.0,3.0,28.0,clear
+196,Soyabean,Ner Parasopant,2016-07-23,3650.0,7.0,28.0,clear
+197,Soyabean,Aarni,2016-10-09,3150.0,33.0,28.2,clear
+198,Soyabean,Ner Parasopant,2016-10-09,3150.0,0.0,28.2,clear
+199,Soyabean,Pusad,2016-10-09,3290.0,6.0,28.2,clear
+200,Soyabean,Aarni,2016-09-17,3025.0,100.0,29.4,clear
+201,Soyabean,Ner Parasopant,2016-09-17,3200.0,1.0,29.4,clear
+202,Soyabean,Pusad,2016-09-17,3250.0,2.0,29.4,clear
+203,Soyabean,Aarni,2016-09-24,3170.0,16.0,24.8,clear
+204,Soyabean,Babhulgaon,2016-09-24,3201.0,20.0,24.8,clear
+205,Soyabean,Ner Parasopant,2016-09-24,3350.0,4.0,24.8,clear
+206,Soyabean,Umarkhed,2016-09-24,3500.0,12.0,24.8,clear
+207,Soyabean,Aarni,2016-01-10,3050.0,10.0,30.4,clear
+208,Soyabean,Ner Parasopant,2016-01-10,3000.0,3.0,30.4,clear
+209,Soyabean,Aarni,2016-10-17,2575.0,80.0,28.0,clear
+210,Soyabean,Kalamb,2016-10-17,2800.0,26.0,28.0,clear
+211,Soyabean,Umarked(Danki),2016-10-17,2900.0,181.0,28.0,clear
+212,Soyabean,Umarkhed,2016-10-17,2900.0,124.0,28.0,clear
+213,Soyabean,Yeotmal,2016-10-17,2550.0,150.0,28.0,clear
+214,Soyabean,Aarni,2016-10-18,2625.0,132.0,30.0,clear
+215,Soyabean,Kalamb,2016-10-18,2800.0,15.0,30.0,clear
+216,Soyabean,Mahagaon,2016-10-18,2800.0,30.0,30.0,clear
+217,Soyabean,Yeotmal,2016-10-18,2850.0,99.0,30.0,clear
+218,Soyabean,ZariZamini,2016-10-18,2234.0,3.0,30.0,clear
+219,Soyabean,Aarni,2016-10-19,2650.0,125.0,29.4,clear
+220,Soyabean,Babhulgaon,2016-10-19,2350.0,67.0,29.4,clear
+221,Soyabean,Digras,2016-10-19,2825.0,38.0,29.4,clear
+222,Soyabean,Mahagaon,2016-10-19,2800.0,14.0,29.4,clear
+223,Soyabean,Ner Parasopant,2016-10-19,2550.0,104.0,29.4,clear
+224,Soyabean,Pandhakawada,2016-10-19,2500.0,16.0,29.4,clear
+225,Soyabean,Pusad,2016-10-19,2750.0,227.0,29.4,clear
+226,Soyabean,Umarked(Danki),2016-10-19,2600.0,67.0,29.4,clear
+227,Soyabean,Umarkhed,2016-10-19,2650.0,178.0,29.4,clear
+228,Soyabean,Vani,2016-10-19,2402.0,9.0,29.4,clear
+229,Soyabean,Yeotmal,2016-10-19,2700.0,120.0,29.4,clear
+230,Soyabean,ZariZamini,2016-10-19,2361.0,4.0,29.4,clear
+231,Soyabean,Aarni,2016-10-20,2600.0,130.0,29.0,clear
+232,Soyabean,Digras,2016-10-20,2885.0,27.0,29.0,clear
+233,Soyabean,Mahagaon,2016-10-20,2800.0,56.0,29.0,clear
+234,Soyabean,Ner Parasopant,2016-10-20,2600.0,92.0,29.0,clear
+235,Soyabean,Pandhakawada,2016-10-20,2500.0,30.0,29.0,clear
+236,Soyabean,Pusad,2016-10-20,2710.0,180.0,29.0,clear
+237,Soyabean,Umarked(Danki),2016-10-20,2600.0,98.0,29.0,clear
+238,Soyabean,Umarkhed,2016-10-20,2600.0,109.0,29.0,clear
+239,Soyabean,Vani,2016-10-20,2562.0,4.0,29.0,clear
+240,Soyabean,Yeotmal,2016-10-20,2475.0,170.0,29.0,clear
+241,Soyabean,ZariZamini,2016-10-20,2077.0,3.0,29.0,clear
+242,Soyabean,Aarni,2016-10-21,2650.0,205.0,29.0,clear
+243,Soyabean,Babhulgaon,2016-10-21,2501.0,100.0,29.0,clear
+244,Soyabean,Digras,2016-10-21,2865.0,47.0,29.0,clear
+245,Soyabean,Kalamb,2016-10-21,2600.0,37.0,29.0,clear
+246,Soyabean,Mahagaon,2016-10-21,2800.0,41.0,29.0,clear
+247,Soyabean,Ner Parasopant,2016-10-21,2600.0,80.0,29.0,clear
+248,Soyabean,Pandhakawada,2016-10-21,2500.0,37.0,29.0,clear
+249,Soyabean,Pusad,2016-10-21,2745.0,196.0,29.0,clear
+250,Soyabean,Umarked(Danki),2016-10-21,2600.0,133.0,29.0,clear
+251,Soyabean,Umarkhed,2016-10-21,2600.0,162.0,29.0,clear
+252,Soyabean,Vani,2016-10-21,2500.0,2.0,29.0,clear
+253,Soyabean,Yeotmal,2016-10-21,2455.0,230.0,29.0,clear
+254,Soyabean,ZariZamini,2016-10-21,2309.0,5.0,29.0,clear
+255,Soyabean,Aarni,2016-10-22,2725.0,115.0,30.4,clear
+256,Soyabean,Kalamb,2016-10-22,2650.0,44.0,30.4,clear
+257,Soyabean,Mahagaon,2016-10-22,2800.0,22.0,30.4,clear
+258,Soyabean,Ner Parasopant,2016-10-22,2550.0,109.0,30.4,clear
+259,Soyabean,Pandhakawada,2016-10-22,2350.0,2.0,30.4,clear
+260,Soyabean,Pusad,2016-10-22,2735.0,197.0,30.4,clear
+261,Soyabean,Umarked(Danki),2016-10-22,2600.0,49.0,30.4,clear
+262,Soyabean,Umarkhed,2016-10-22,2600.0,129.0,30.4,clear
+263,Soyabean,ZariZamini,2016-10-22,2313.0,15.0,30.4,clear
+264,Soyabean,Aarni,2016-02-11,2600.0,134.0,31.4,clear
+265,Soyabean,Digras,2016-02-11,2825.0,27.0,31.4,clear
+266,Soyabean,Ghatanji,2016-02-11,2500.0,18.0,31.4,clear
+267,Soyabean,Mahagaon,2016-02-11,2700.0,3.0,31.4,clear
+268,Soyabean,Ner Parasopant,2016-02-11,2650.0,121.0,31.4,clear
+269,Soyabean,Umarked(Danki),2016-02-11,2790.0,51.0,31.4,clear
+270,Soyabean,Umarkhed,2016-02-11,2790.0,31.0,31.4,clear
+271,Soyabean,Vani,2016-02-11,2554.0,14.0,31.4,clear
+272,Soyabean,ZariZamini,2016-02-11,2557.0,6.0,31.4,clear
+273,Soyabean,Aarni,2016-03-11,2670.0,140.0,38.0,clear
+274,Soyabean,Digras,2016-03-11,2815.0,49.0,38.0,clear
+275,Soyabean,Ghatanji,2016-03-11,2520.0,7.0,38.0,clear
+276,Soyabean,Mahagaon,2016-03-11,2800.0,23.0,38.0,clear
+277,Soyabean,Ner Parasopant,2016-03-11,2650.0,123.0,38.0,clear
+278,Soyabean,Pandhakawada,2016-03-11,2550.0,37.0,38.0,clear
+279,Soyabean,Umarked(Danki),2016-03-11,2780.0,61.0,38.0,clear
+280,Soyabean,Umarkhed,2016-03-11,2780.0,79.0,38.0,clear
+281,Soyabean,Vani,2016-03-11,2605.0,16.0,38.0,clear
+282,Soyabean,Yeotmal,2016-03-11,2615.0,60.0,38.0,clear
+283,Soyabean,ZariZamini,2016-03-11,2640.0,9.0,38.0,clear
+284,Soyabean,Aarni,2016-04-11,2675.0,126.0,39.4,clear
+285,Soyabean,Babhulgaon,2016-04-11,2700.0,100.0,39.4,clear
+286,Soyabean,Digras,2016-04-11,2795.0,100.0,39.4,clear
+287,Soyabean,Ner Parasopant,2016-04-11,2625.0,119.0,39.4,clear
+288,Soyabean,Pandhakawada,2016-04-11,2630.0,36.0,39.4,clear
+289,Soyabean,Umarked(Danki),2016-04-11,2780.0,24.0,39.4,clear
+290,Soyabean,Umarkhed,2016-04-11,2750.0,127.0,39.4,clear
+291,Soyabean,Vani,2016-04-11,2450.0,15.0,39.4,clear
+292,Soyabean,Yeotmal,2016-04-11,2620.0,230.0,39.4,clear
+293,Soyabean,ZariZamini,2016-04-11,2649.0,12.0,39.4,clear
+294,Soyabean,Aarni,2016-11-21,2650.0,115.0,27.0,clear
+295,Soyabean,Digras,2016-11-21,2795.0,19.0,27.0,clear
+296,Soyabean,Kalamb,2016-11-21,2650.0,97.0,27.0,clear
+297,Soyabean,Ner Parasopant,2016-11-21,2750.0,126.0,27.0,clear
+298,Soyabean,Pandhakawada,2016-11-21,2795.0,15.0,27.0,clear
+299,Soyabean,Vani,2016-11-21,2645.0,11.0,27.0,clear
+300,Soyabean,Yeotmal,2016-11-21,2745.0,125.0,27.0,clear
+301,Soyabean,ZariZamini,2016-11-21,2659.0,3.0,27.0,clear
+302,Soyabean,Aarni,2016-11-22,2600.0,75.0,26.4,clear
+303,Soyabean,Bori Arab,2016-11-22,2800.0,2.0,26.4,clear
+304,Soyabean,Digras,2016-11-22,2795.0,22.0,26.4,clear
+305,Soyabean,Ghatanji,2016-11-22,2650.0,10.0,26.4,clear
+306,Soyabean,Kalamb,2016-11-22,2800.0,50.0,26.4,clear
+307,Soyabean,Ner Parasopant,2016-11-22,2750.0,106.0,26.4,clear
+308,Soyabean,Pandhakawada,2016-11-22,2790.0,23.0,26.4,clear
+309,Soyabean,Vani,2016-11-22,2765.0,11.0,26.4,clear
+310,Soyabean,Yeotmal,2016-11-22,2800.0,284.0,26.4,clear
+311,Soyabean,ZariZamini,2016-11-22,2703.0,5.0,26.4,clear
+312,Soyabean,Aarni,2016-11-23,2600.0,145.0,26.4,clear
+313,Soyabean,Bori Arab,2016-11-23,2790.0,3.0,26.4,clear
+314,Soyabean,Digras,2016-11-23,2795.0,23.0,26.4,clear
+315,Soyabean,Ghatanji,2016-11-23,2560.0,3.0,26.4,clear
+316,Soyabean,Kalamb,2016-11-23,2650.0,60.0,26.4,clear
+317,Soyabean,Mahagaon,2016-11-23,2780.0,5.0,26.4,clear
+318,Soyabean,Ner Parasopant,2016-11-23,2700.0,126.0,26.4,clear
+319,Soyabean,Pandhakawada,2016-11-23,2795.0,26.0,26.4,clear
+320,Soyabean,Umarked(Danki),2016-11-23,2780.0,24.0,26.4,clear
+321,Soyabean,Umarkhed,2016-11-23,2790.0,23.0,26.4,clear
+322,Soyabean,Vani,2016-11-23,2802.0,20.0,26.4,clear
+323,Soyabean,Yeotmal,2016-11-23,2750.0,249.0,26.4,clear
+324,Soyabean,ZariZamini,2016-11-23,2639.0,12.0,26.4,clear
+325,Soyabean,Aarni,2016-11-24,2700.0,125.0,26.4,clear
+326,Soyabean,Bori Arab,2016-11-24,2792.0,9.0,26.4,clear
+327,Soyabean,Digras,2016-11-24,2795.0,23.0,26.4,clear
+328,Soyabean,Kalamb,2016-11-24,2750.0,63.0,26.4,clear
+329,Soyabean,Ner Parasopant,2016-11-24,2750.0,102.0,26.4,clear
+330,Soyabean,Pandhakawada,2016-11-24,2790.0,15.0,26.4,clear
+331,Soyabean,Umarked(Danki),2016-11-24,2790.0,12.0,26.4,clear
+332,Soyabean,Umarkhed,2016-11-24,2790.0,5.0,26.4,clear
+333,Soyabean,Vani,2016-11-24,2780.0,15.0,26.4,clear
+334,Soyabean,Yeotmal,2016-11-24,2750.0,231.0,26.4,clear
+335,Soyabean,ZariZamini,2016-11-24,2723.0,9.0,26.4,clear
+336,Soyabean,Aarni,2016-11-25,2700.0,124.0,28.4,clear
+337,Soyabean,Bori Arab,2016-11-25,2795.0,9.0,28.4,clear
+338,Soyabean,Digras,2016-11-25,2699.0,30.0,28.4,clear
+339,Soyabean,Kalamb,2016-11-25,2750.0,43.0,28.4,clear
+340,Soyabean,Ner Parasopant,2016-11-25,2750.0,97.0,28.4,clear
+341,Soyabean,Pandhakawada,2016-11-25,2790.0,26.0,28.4,clear
+342,Soyabean,Umarked(Danki),2016-11-25,2790.0,49.0,28.4,clear
+343,Soyabean,Umarkhed,2016-11-25,2790.0,30.0,28.4,clear
+344,Soyabean,Vani,2016-11-25,2845.0,42.0,28.4,clear
+345,Soyabean,Yeotmal,2016-11-25,2690.0,227.0,28.4,clear
+346,Soyabean,ZariZamini,2016-11-25,2735.0,8.0,28.4,clear
+347,Soyabean,Aarni,2016-11-26,2700.0,95.0,26.4,clear
+348,Soyabean,Bori Arab,2016-11-26,2795.0,4.0,26.4,clear
+349,Soyabean,Kalamb,2016-11-26,2700.0,15.0,26.4,clear
+350,Soyabean,Ner Parasopant,2016-11-26,2700.0,71.0,26.4,clear
+351,Soyabean,Umarkhed,2016-11-26,2790.0,21.0,26.4,clear
+352,Soyabean,ZariZamini,2016-11-26,2725.0,1.0,26.4,clear
+353,Soyabean,Aarni,2016-11-28,2700.0,115.0,28.0,clear
+354,Soyabean,Bori Arab,2016-11-28,2797.0,3.0,28.0,clear
+355,Soyabean,Digras,2016-11-28,2795.0,10.0,28.0,clear
+356,Soyabean,Kalamb,2016-11-28,2600.0,40.0,28.0,clear
+357,Soyabean,Mahagaon,2016-11-28,2790.0,6.0,28.0,clear
+358,Soyabean,Ner Parasopant,2016-11-28,2750.0,98.0,28.0,clear
+359,Soyabean,Pandhakawada,2016-11-28,2800.0,16.0,28.0,clear
+360,Soyabean,Umarked(Danki),2016-11-28,2785.0,36.0,28.0,clear
+361,Soyabean,Vani,2016-11-28,2775.0,28.0,28.0,clear
+362,Soyabean,Yeotmal,2016-11-28,2770.0,308.0,28.0,clear
+363,Soyabean,Aarni,2016-11-29,2700.0,100.0,29.0,clear
+364,Soyabean,Bori Arab,2016-11-29,2800.0,2.0,29.0,clear
+365,Soyabean,Digras,2016-11-29,2835.0,22.0,29.0,clear
+366,Soyabean,Kalamb,2016-11-29,2650.0,46.0,29.0,clear
+367,Soyabean,Ner Parasopant,2016-11-29,2700.0,81.0,29.0,clear
+368,Soyabean,Pandhakawada,2016-11-29,2790.0,23.0,29.0,clear
+369,Soyabean,Umarkhed,2016-11-29,2780.0,13.0,29.0,clear
+370,Soyabean,Vani,2016-11-29,2840.0,27.0,29.0,clear
+371,Soyabean,Yeotmal,2016-11-29,2818.0,293.0,29.0,clear
+372,Soyabean,Aarni,2016-11-30,2700.0,102.0,28.0,clear
+373,Soyabean,Bori Arab,2016-11-30,2800.0,4.0,28.0,clear
+374,Soyabean,Digras,2016-11-30,2795.0,17.0,28.0,clear
+375,Soyabean,Kalamb,2016-11-30,2700.0,56.0,28.0,clear
+376,Soyabean,Ner Parasopant,2016-11-30,2725.0,83.0,28.0,clear
+377,Soyabean,Pandhakawada,2016-11-30,2795.0,17.0,28.0,clear
+378,Soyabean,Umarked(Danki),2016-11-30,2790.0,35.0,28.0,clear
+379,Soyabean,Umarkhed,2016-11-30,2790.0,14.0,28.0,clear
+380,Soyabean,Vani,2016-11-30,2905.0,39.0,28.0,clear
+381,Soyabean,Yeotmal,2016-11-30,2825.0,300.0,28.0,clear
+382,Soyabean,Aarni,2016-01-12,2700.0,112.0,28.0,clear
+383,Soyabean,Bori Arab,2016-01-12,2785.0,4.0,28.0,clear
+384,Soyabean,Digras,2016-01-12,2845.0,27.0,28.0,clear
+385,Soyabean,Kalamb,2016-01-12,2650.0,42.0,28.0,clear
+386,Soyabean,Ner Parasopant,2016-01-12,2700.0,79.0,28.0,clear
+387,Soyabean,Pandhakawada,2016-01-12,2800.0,19.0,28.0,clear
+388,Soyabean,Umarked(Danki),2016-01-12,2790.0,36.0,28.0,clear
+389,Soyabean,Umarkhed,2016-01-12,2790.0,52.0,28.0,clear
+390,Soyabean,Vani,2016-01-12,2875.0,36.0,28.0,clear
+391,Soyabean,Yeotmal,2016-01-12,2850.0,251.0,28.0,clear
+392,Soyabean,Aarni,2016-02-12,2700.0,122.0,32.0,clear
+393,Soyabean,Babhulgaon,2016-02-12,2600.0,140.0,32.0,clear
+394,Soyabean,Bori Arab,2016-02-12,2785.0,4.0,32.0,clear
+395,Soyabean,Digras,2016-02-12,2850.0,31.0,32.0,clear
+396,Soyabean,Kalamb,2016-02-12,2650.0,57.0,32.0,clear
+397,Soyabean,Ner Parasopant,2016-02-12,2750.0,99.0,32.0,clear
+398,Soyabean,Pandhakawada,2016-02-12,2800.0,21.0,32.0,clear
+399,Soyabean,Umarked(Danki),2016-02-12,2790.0,12.0,32.0,clear
+400,Soyabean,Umarkhed,2016-02-12,2790.0,24.0,32.0,clear
+401,Soyabean,Vani,2016-02-12,2763.0,53.0,32.0,clear
+402,Soyabean,Yeotmal,2016-02-12,2855.0,296.0,32.0,clear
+403,Soyabean,Aarni,2016-03-12,2650.0,96.0,38.4,clear
+404,Soyabean,Babhulgaon,2016-03-12,2601.0,100.0,38.4,clear
+405,Soyabean,Bori Arab,2016-03-12,2785.0,6.0,38.4,clear
+406,Soyabean,Kalamb,2016-03-12,2650.0,31.0,38.4,clear
+407,Soyabean,Ner Parasopant,2016-03-12,2750.0,60.0,38.4,clear
+408,Soyabean,Umarkhed,2016-03-12,2790.0,7.0,38.4,clear
+409,Soyabean,Aarni,2016-05-12,2700.0,114.0,42.0,clear
+410,Soyabean,Bori Arab,2016-05-12,2780.0,7.0,42.0,clear
+411,Soyabean,Digras,2016-05-12,2845.0,31.0,42.0,clear
+412,Soyabean,Kalamb,2016-05-12,2650.0,64.0,42.0,clear
+413,Soyabean,Ner Parasopant,2016-05-12,2800.0,108.0,42.0,clear
+414,Soyabean,Pandhakawada,2016-05-12,2790.0,23.0,42.0,clear
+415,Soyabean,Umarked(Danki),2016-05-12,2800.0,19.0,42.0,clear
+416,Soyabean,Umarkhed,2016-05-12,2800.0,42.0,42.0,clear
+417,Soyabean,Vani,2016-05-12,2800.0,47.0,42.0,clear
+418,Soyabean,Yeotmal,2016-05-12,2870.0,383.0,42.0,clear
+419,Soyabean,Aarni,2016-06-12,2700.0,126.0,38.0,clear
+420,Soyabean,Digras,2016-06-12,2795.0,37.0,38.0,clear
+421,Soyabean,Kalamb,2016-06-12,2650.0,31.0,38.0,clear
+422,Soyabean,Ner Parasopant,2016-06-12,2750.0,87.0,38.0,clear
+423,Soyabean,Pandhakawada,2016-06-12,2790.0,19.0,38.0,clear
+424,Soyabean,Umarked(Danki),2016-06-12,2790.0,19.0,38.0,clear
+425,Soyabean,Umarkhed,2016-06-12,2790.0,21.0,38.0,clear
+426,Soyabean,Vani,2016-06-12,2757.0,31.0,38.0,clear
+427,Soyabean,Yeotmal,2016-06-12,2830.0,328.0,38.0,clear
+428,Soyabean,Aarni,2016-07-12,2700.0,135.0,24.8,clear
+429,Soyabean,Bori Arab,2016-07-12,2785.0,4.0,24.8,clear
+430,Soyabean,Digras,2016-07-12,2795.0,33.0,24.8,clear
+431,Soyabean,Ghatanji,2016-07-12,2550.0,8.0,24.8,clear
+432,Soyabean,Kalamb,2016-07-12,2650.0,43.0,24.8,clear
+433,Soyabean,Mahagaon,2016-07-12,2800.0,35.0,24.8,clear
+434,Soyabean,Ner Parasopant,2016-07-12,2700.0,115.0,24.8,clear
+435,Soyabean,Pandhakawada,2016-07-12,2790.0,11.0,24.8,clear
+436,Soyabean,Umarkhed,2016-07-12,2790.0,7.0,24.8,clear
+437,Soyabean,Vani,2016-07-12,2813.0,26.0,24.8,clear
+438,Soyabean,Yeotmal,2016-07-12,2850.0,243.0,24.8,clear
+439,Soyabean,Aarni,2016-08-12,2700.0,88.0,28.0,clear
+440,Soyabean,Bori Arab,2016-08-12,2780.0,1.0,28.0,clear
+441,Soyabean,Digras,2016-08-12,2785.0,35.0,28.0,clear
+442,Soyabean,Ghatanji,2016-08-12,2650.0,4.0,28.0,clear
+443,Soyabean,Kalamb,2016-08-12,2650.0,41.0,28.0,clear
+444,Soyabean,Ner Parasopant,2016-08-12,2650.0,89.0,28.0,clear
+445,Soyabean,Pandhakawada,2016-08-12,2790.0,14.0,28.0,clear
+446,Soyabean,Umarked(Danki),2016-08-12,2785.0,19.0,28.0,clear
+447,Soyabean,Umarkhed,2016-08-12,2785.0,12.0,28.0,clear
+448,Soyabean,Vani,2016-08-12,2661.0,21.0,28.0,clear
+449,Soyabean,Yeotmal,2016-08-12,2850.0,177.0,28.0,clear
+450,Soyabean,Aarni,2016-09-12,2700.0,102.0,27.0,clear
+451,Soyabean,Babhulgaon,2016-09-12,2601.0,140.0,27.0,clear
+452,Soyabean,Bori Arab,2016-09-12,2780.0,1.0,27.0,clear
+453,Soyabean,Digras,2016-09-12,2775.0,10.0,27.0,clear
+454,Soyabean,Ghatanji,2016-09-12,2560.0,6.0,27.0,clear
+455,Soyabean,Kalamb,2016-09-12,2700.0,37.0,27.0,clear
+456,Soyabean,Ner Parasopant,2016-09-12,2650.0,95.0,27.0,clear
+457,Soyabean,Pandhakawada,2016-09-12,2775.0,18.0,27.0,clear
+458,Soyabean,Umarked(Danki),2016-09-12,2810.0,24.0,27.0,clear
+459,Soyabean,Umarkhed,2016-09-12,2810.0,7.0,27.0,clear
+460,Soyabean,Vani,2016-09-12,2690.0,19.0,27.0,clear
+461,Soyabean,Yeotmal,2016-09-12,2835.0,269.0,27.0,clear
+462,Soyabean,Aarni,2016-10-12,2700.0,74.0,30.0,clear
+463,Soyabean,Babhulgaon,2016-10-12,2601.0,120.0,30.0,clear
+464,Soyabean,Ner Parasopant,2016-10-12,2700.0,68.0,30.0,clear
+465,Soyabean,Umarked(Danki),2016-10-12,2800.0,12.0,30.0,clear
+466,Soyabean,Umarkhed,2016-10-12,2795.0,39.0,30.0,clear
+467,Soyabean,Aarni,2016-12-13,2750.0,63.0,28.0,clear
+468,Soyabean,Babhulgaon,2016-12-13,2601.0,110.0,28.0,clear
+469,Soyabean,Digras,2016-12-13,2795.0,27.0,28.0,clear
+470,Soyabean,Ghatanji,2016-12-13,2550.0,5.0,28.0,clear
+471,Soyabean,Kalamb,2016-12-13,2800.0,48.0,28.0,clear
+472,Soyabean,Ner Parasopant,2016-12-13,2700.0,103.0,28.0,clear
+473,Soyabean,Pandhakawada,2016-12-13,2775.0,9.0,28.0,clear
+474,Soyabean,Umarkhed,2016-12-13,2795.0,21.0,28.0,clear
+475,Soyabean,Vani,2016-12-13,2700.0,14.0,28.0,clear
+476,Soyabean,Yeotmal,2016-12-13,2840.0,258.0,28.0,clear
+477,Soyabean,Aarni,2016-12-14,2675.0,49.0,26.0,clear
+478,Soyabean,Babhulgaon,2016-12-14,2601.0,130.0,26.0,clear
+479,Soyabean,Digras,2016-12-14,2855.0,28.0,26.0,clear
+480,Soyabean,Ghatanji,2016-12-14,2560.0,8.0,26.0,clear
+481,Soyabean,Kalamb,2016-12-14,2800.0,46.0,26.0,clear
+482,Soyabean,Ner Parasopant,2016-12-14,2750.0,114.0,26.0,clear
+483,Soyabean,Pandhakawada,2016-12-14,2790.0,15.0,26.0,clear
+484,Soyabean,Umarkhed,2016-12-14,2800.0,24.0,26.0,clear
+485,Soyabean,Vani,2016-12-14,2775.0,24.0,26.0,clear
+486,Soyabean,Yeotmal,2016-12-14,2850.0,249.0,26.0,clear
+487,Soyabean,Aarni,2016-12-15,2700.0,97.0,26.4,clear
+488,Soyabean,Bori Arab,2016-12-15,2785.0,7.0,26.4,clear
+489,Soyabean,Digras,2016-12-15,2795.0,27.0,26.4,clear
+490,Soyabean,Kalamb,2016-12-15,2800.0,30.0,26.4,clear
+491,Soyabean,Ner Parasopant,2016-12-15,2750.0,128.0,26.4,clear
+492,Soyabean,Pandhakawada,2016-12-15,2780.0,10.0,26.4,clear
+493,Soyabean,Umarked(Danki),2016-12-15,2800.0,24.0,26.4,clear
+494,Soyabean,Umarkhed,2016-12-15,2795.0,14.0,26.4,clear
+495,Soyabean,Vani,2016-12-15,2775.0,22.0,26.4,clear
+496,Soyabean,Yeotmal,2016-12-15,2850.0,218.0,26.4,clear
+497,Soyabean,Aarni,2016-12-16,2700.0,119.0,27.4,clear
+498,Soyabean,Babhulgaon,2016-12-16,2651.0,140.0,27.4,clear
+499,Soyabean,Digras,2016-12-16,2835.0,29.0,27.4,clear
+500,Soyabean,Kalamb,2016-12-16,2800.0,44.0,27.4,clear
+501,Soyabean,Ner Parasopant,2016-12-16,2700.0,115.0,27.4,clear
+502,Soyabean,Pandhakawada,2016-12-16,2790.0,14.0,27.4,clear
+503,Soyabean,Umarked(Danki),2016-12-16,2795.0,26.0,27.4,clear
+504,Soyabean,Umarkhed,2016-12-16,2800.0,78.0,27.4,clear
+505,Soyabean,Vani,2016-12-16,2775.0,9.0,27.4,clear
+506,Soyabean,Yeotmal,2016-12-16,2835.0,268.0,27.4,clear
+507,Soyabean,Aarni,2016-12-17,2700.0,110.0,26.0,clear
+508,Soyabean,Babhulgaon,2016-12-17,2601.0,140.0,26.0,clear
+509,Soyabean,Kalamb,2016-12-17,2800.0,32.0,26.0,clear
+510,Soyabean,Ner Parasopant,2016-12-17,2650.0,96.0,26.0,clear
+511,Soyabean,Umarked(Danki),2016-12-17,2795.0,29.0,26.0,clear
+512,Soyabean,Umarkhed,2016-12-17,2790.0,55.0,26.0,clear
+513,Soyabean,Aarni,2016-12-19,2700.0,105.0,23.4,clear
+514,Soyabean,Babhulgaon,2016-12-19,2705.0,118.0,23.4,clear
+515,Soyabean,Digras,2016-12-19,2825.0,32.0,23.4,clear
+516,Soyabean,Kalamb,2016-12-19,2800.0,50.0,23.4,clear
+517,Soyabean,Ner Parasopant,2016-12-19,2675.0,108.0,23.4,clear
+518,Soyabean,Pandhakawada,2016-12-19,2780.0,14.0,23.4,clear
+519,Soyabean,Umarked(Danki),2016-12-19,2790.0,19.0,23.4,clear
+520,Soyabean,Umarkhed,2016-12-19,2790.0,21.0,23.4,clear
+521,Soyabean,Vani,2016-12-19,2775.0,34.0,23.4,clear
+522,Soyabean,Yeotmal,2016-12-19,2820.0,233.0,23.4,clear
+523,Soyabean,Aarni,2016-12-20,2700.0,100.0,26.0,clear
+524,Soyabean,Babhulgaon,2016-12-20,2690.0,87.0,26.0,clear
+525,Soyabean,Digras,2016-12-20,2775.0,20.0,26.0,clear
+526,Soyabean,Ghatanji,2016-12-20,2560.0,9.0,26.0,clear
+527,Soyabean,Kalamb,2016-12-20,2800.0,50.0,26.0,clear
+528,Soyabean,Mahagaon,2016-12-20,2800.0,5.0,26.0,clear
+529,Soyabean,Ner Parasopant,2016-12-20,2625.0,69.0,26.0,clear
+530,Soyabean,Pandhakawada,2016-12-20,2775.0,14.0,26.0,clear
+531,Soyabean,Umarkhed,2016-12-20,2700.0,33.0,26.0,clear
+532,Soyabean,Vani,2016-12-20,2775.0,9.0,26.0,clear
+533,Soyabean,Yeotmal,2016-12-20,2825.0,270.0,26.0,clear
+534,Soyabean,Aarni,2016-12-21,2700.0,92.0,27.4,clear
+535,Soyabean,Babhulgaon,2016-12-21,2601.0,120.0,27.4,clear
+536,Soyabean,Bori Arab,2016-12-21,2785.0,3.0,27.4,clear
+537,Soyabean,Digras,2016-12-21,2775.0,11.0,27.4,clear
+538,Soyabean,Ghatanji,2016-12-21,2580.0,9.0,27.4,clear
+539,Soyabean,Kalamb,2016-12-21,2600.0,46.0,27.4,clear
+540,Soyabean,Ner Parasopant,2016-12-21,2650.0,102.0,27.4,clear
+541,Soyabean,Pandhakawada,2016-12-21,2790.0,15.0,27.4,clear
+542,Soyabean,Umarked(Danki),2016-12-21,2700.0,10.0,27.4,clear
+543,Soyabean,Umarkhed,2016-12-21,2700.0,12.0,27.4,clear
+544,Soyabean,Vani,2016-12-21,2775.0,25.0,27.4,clear
+545,Soyabean,Yeotmal,2016-12-21,2825.0,187.0,27.4,clear
+546,Soyabean,Aarni,2016-12-23,2700.0,52.0,25.4,clear
+547,Soyabean,Babhulgaon,2016-12-23,2551.0,100.0,25.4,clear
+548,Soyabean,Bori Arab,2016-12-23,2780.0,2.0,25.4,clear
+549,Soyabean,Ghatanji,2016-12-23,2350.0,12.0,25.4,clear
+550,Soyabean,Kalamb,2016-12-23,2600.0,31.0,25.4,clear
+551,Soyabean,Ner Parasopant,2016-12-23,2625.0,73.0,25.4,clear
+552,Soyabean,Pandhakawada,2016-12-23,2710.0,19.0,25.4,clear
+553,Soyabean,Umarked(Danki),2016-12-23,2700.0,37.0,25.4,clear
+554,Soyabean,Umarkhed,2016-12-23,2700.0,8.0,25.4,clear
+555,Soyabean,Vani,2016-12-23,2775.0,20.0,25.4,clear
+556,Soyabean,Yeotmal,2016-12-23,2800.0,141.0,25.4,clear
+557,Soyabean,Aarni,2016-12-24,2700.0,101.0,26.0,clear
+558,Soyabean,Babhulgaon,2016-12-24,2551.0,90.0,26.0,clear
+559,Soyabean,Bori Arab,2016-12-24,2785.0,2.0,26.0,clear
+560,Soyabean,Kalamb,2016-12-24,2800.0,15.0,26.0,clear
+561,Soyabean,Ner Parasopant,2016-12-24,2700.0,64.0,26.0,clear
+562,Soyabean,Umarkhed,2016-12-24,2700.0,38.0,26.0,clear
+563,Soyabean,Aarni,2016-12-27,2700.0,50.0,24.0,clear
+564,Soyabean,Babhulgaon,2016-12-27,2601.0,80.0,24.0,clear
+565,Soyabean,Bori Arab,2016-12-27,2780.0,4.0,24.0,clear
+566,Soyabean,Digras,2016-12-27,2775.0,5.0,24.0,clear
+567,Soyabean,Ghatanji,2016-12-27,2560.0,8.0,24.0,clear
+568,Soyabean,Kalamb,2016-12-27,2800.0,25.0,24.0,clear
+569,Soyabean,Ner Parasopant,2016-12-27,2750.0,65.0,24.0,clear
+570,Soyabean,Pandhakawada,2016-12-27,2700.0,12.0,24.0,clear
+571,Soyabean,Umarked(Danki),2016-12-27,2700.0,12.0,24.0,clear
+572,Soyabean,Umarkhed,2016-12-27,2700.0,28.0,24.0,clear
+573,Soyabean,Vani,2016-12-27,2775.0,12.0,24.0,clear
+574,Soyabean,Yeotmal,2016-12-27,2675.0,161.0,24.0,clear
+575,Soyabean,Aarni,2016-12-28,2700.0,55.0,25.0,clear
+576,Soyabean,Babhulgaon,2016-12-28,2601.0,70.0,25.0,clear
+577,Soyabean,Digras,2016-12-28,2775.0,6.0,25.0,clear
+578,Soyabean,Ghatanji,2016-12-28,2560.0,4.0,25.0,clear
+579,Soyabean,Kalamb,2016-12-28,2700.0,43.0,25.0,clear
+580,Soyabean,Ner Parasopant,2016-12-28,2750.0,83.0,25.0,clear
+581,Soyabean,Pandhakawada,2016-12-28,2800.0,12.0,25.0,clear
+582,Soyabean,Umarked(Danki),2016-12-28,2700.0,12.0,25.0,clear
+583,Soyabean,Umarkhed,2016-12-28,2700.0,63.0,25.0,clear
+584,Soyabean,Yeotmal,2016-12-28,2845.0,153.0,25.0,clear
+585,Soyabean,Aarni,2016-12-29,2700.0,49.0,25.4,clear
+586,Soyabean,Bori Arab,2016-12-29,2785.0,4.0,25.4,clear
+587,Soyabean,Digras,2016-12-29,2855.0,18.0,25.4,clear
+588,Soyabean,Ghatanji,2016-12-29,2550.0,3.0,25.4,clear
+589,Soyabean,Kalamb,2016-12-29,2700.0,21.0,25.4,clear
+590,Soyabean,Ner Parasopant,2016-12-29,2750.0,56.0,25.4,clear
+591,Soyabean,Pandhakawada,2016-12-29,2780.0,14.0,25.4,clear
+592,Soyabean,Umarked(Danki),2016-12-29,2700.0,24.0,25.4,clear
+593,Soyabean,Umarkhed,2016-12-29,2700.0,12.0,25.4,clear
+594,Soyabean,Vani,2016-12-29,2775.0,20.0,25.4,clear
+595,Soyabean,Yeotmal,2016-12-29,2865.0,182.0,25.4,clear
+596,Soyabean,Aarni,2016-12-30,2700.0,70.0,27.4,clear
+597,Soyabean,Babhulgaon,2016-12-30,2601.0,90.0,27.4,clear
+598,Soyabean,Digras,2016-12-30,2795.0,21.0,27.4,clear
+599,Soyabean,Ghatanji,2016-12-30,2550.0,3.0,27.4,clear
+600,Soyabean,Kalamb,2016-12-30,2775.0,28.0,27.4,clear
+601,Soyabean,Ner Parasopant,2016-12-30,2800.0,67.0,27.4,clear
+602,Soyabean,Pandhakawada,2016-12-30,2780.0,8.0,27.4,clear
+603,Soyabean,Umarked(Danki),2016-12-30,2700.0,43.0,27.4,clear
+604,Soyabean,Umarkhed,2016-12-30,2700.0,46.0,27.4,clear
+605,Soyabean,Vani,2016-12-30,2775.0,25.0,27.4,clear
+606,Soyabean,Yeotmal,2016-12-30,2710.0,121.0,27.4,clear
+607,Soyabean,Aarni,2016-12-31,2700.0,47.0,26.8,clear
+608,Soyabean,Babhulgaon,2016-12-31,2701.0,40.0,26.8,clear
+609,Soyabean,Bori Arab,2016-12-31,2785.0,3.0,26.8,clear
+610,Soyabean,Kalamb,2016-12-31,2750.0,16.0,26.8,clear
+611,Soyabean,Ner Parasopant,2016-12-31,2750.0,49.0,26.8,clear
+612,Soyabean,Umarkhed,2016-12-31,2700.0,26.0,26.8,clear
+613,Soyabean,Babhulgaon,2016-01-01,3401.0,50.0,30.4,clear
+614,Soyabean,Ghatanji,2016-01-01,3450.0,1.0,30.4,clear
+615,Soyabean,Kalamb,2016-01-01,3450.0,3.0,30.4,clear
+616,Soyabean,Ner Parasopant,2016-01-01,3450.0,15.0,30.4,clear
+617,Soyabean,Umarkhed,2016-01-01,3500.0,7.0,30.4,clear
+618,Soyabean,Vani,2016-01-01,3496.0,17.0,30.4,clear
+619,Soyabean,Yeotmal,2016-01-01,3545.0,42.0,30.4,clear
+620,Soyabean,ZariZamini,2016-01-01,3304.0,1.0,30.4,clear
+621,Soyabean,Babhulgaon,2016-02-01,3501.0,40.0,34.0,clear
+622,Soyabean,Bori Arab,2016-02-01,3500.0,1.0,34.0,clear
+623,Soyabean,Kalamb,2016-02-01,3500.0,6.0,34.0,clear
+624,Soyabean,Ner Parasopant,2016-02-01,3500.0,20.0,34.0,clear
+625,Soyabean,Umarkhed,2016-02-01,3500.0,7.0,34.0,clear
+626,Soyabean,Babhulgaon,2016-04-01,3601.0,40.0,40.0,clear
+627,Soyabean,Kalamb,2016-04-01,3500.0,9.0,40.0,clear
+628,Soyabean,Ner Parasopant,2016-04-01,3400.0,40.0,40.0,clear
+629,Soyabean,Umarked(Danki),2016-04-01,3500.0,7.0,40.0,clear
+630,Soyabean,Vani,2016-04-01,3567.0,28.0,40.0,clear
+631,Soyabean,Yeotmal,2016-04-01,3590.0,138.0,40.0,clear
+632,Soyabean,Babhulgaon,2016-05-01,3501.0,56.0,37.6,clear
+633,Soyabean,Digras,2016-05-01,3666.0,9.0,37.6,clear
+634,Soyabean,Ghatanji,2016-05-01,3500.0,3.0,37.6,clear
+635,Soyabean,Kalamb,2016-05-01,3500.0,7.0,37.6,clear
+636,Soyabean,Ner Parasopant,2016-05-01,3425.0,34.0,37.6,clear
+637,Soyabean,Pusad,2016-05-01,3635.0,68.0,37.6,clear
+638,Soyabean,Umarked(Danki),2016-05-01,3500.0,7.0,37.6,clear
+639,Soyabean,Umarkhed,2016-05-01,3500.0,7.0,37.6,clear
+640,Soyabean,Vani,2016-05-01,3515.0,15.0,37.6,clear
+641,Soyabean,Yeotmal,2016-05-01,3590.0,67.0,37.6,clear
+642,Soyabean,Babhulgaon,2016-06-01,3451.0,60.0,42.0,clear
+643,Soyabean,Digras,2016-06-01,3650.0,17.0,42.0,clear
+644,Soyabean,Ghatanji,2016-06-01,3400.0,2.0,42.0,clear
+645,Soyabean,Kalamb,2016-06-01,3450.0,3.0,42.0,clear
+646,Soyabean,Ner Parasopant,2016-06-01,3450.0,22.0,42.0,clear
+647,Soyabean,Umarked(Danki),2016-06-01,3500.0,12.0,42.0,clear
+648,Soyabean,Umarkhed,2016-06-01,3500.0,13.0,42.0,clear
+649,Soyabean,Vani,2016-06-01,3431.0,28.0,42.0,clear
+650,Soyabean,Yeotmal,2016-06-01,3580.0,96.0,42.0,clear
+651,Soyabean,Babhulgaon,2016-08-01,3551.0,40.0,26.4,clear
+652,Soyabean,Digras,2016-08-01,3560.0,17.0,26.4,clear
+653,Soyabean,Ghatanji,2016-08-01,3460.0,3.0,26.4,clear
+654,Soyabean,Kalamb,2016-08-01,3400.0,6.0,26.4,clear
+655,Soyabean,Ner Parasopant,2016-08-01,3425.0,20.0,26.4,clear
+656,Soyabean,Pusad,2016-08-01,3645.0,89.0,26.4,clear
+657,Soyabean,Umarkhed,2016-08-01,3500.0,7.0,26.4,clear
+658,Soyabean,Vani,2016-08-01,3418.0,10.0,26.4,clear
+659,Soyabean,Yeotmal,2016-08-01,3570.0,78.0,26.4,clear
+660,Soyabean,Babhulgaon,2016-12-01,3500.0,63.0,26.0,clear
+661,Soyabean,Digras,2016-12-01,3625.0,19.0,26.0,clear
+662,Soyabean,Kalamb,2016-12-01,3500.0,7.0,26.0,clear
+663,Soyabean,Ner Parasopant,2016-12-01,3450.0,20.0,26.0,clear
+664,Soyabean,Pandhakawada,2016-12-01,3350.0,2.0,26.0,clear
+665,Soyabean,Umarked(Danki),2016-12-01,3500.0,7.0,26.0,clear
+666,Soyabean,Umarkhed,2016-12-01,3500.0,5.0,26.0,clear
+667,Soyabean,Vani,2016-12-01,3372.0,22.0,26.0,clear
+668,Soyabean,Yeotmal,2016-12-01,3550.0,86.0,26.0,clear
+669,Soyabean,Babhulgaon,2016-01-13,3450.0,60.0,29.0,clear
+670,Soyabean,Digras,2016-01-13,3625.0,18.0,29.0,clear
+671,Soyabean,Kalamb,2016-01-13,3600.0,4.0,29.0,clear
+672,Soyabean,Ner Parasopant,2016-01-13,3450.0,28.0,29.0,clear
+673,Soyabean,Umarkhed,2016-01-13,3500.0,7.0,29.0,clear
+674,Soyabean,Vani,2016-01-13,3506.0,9.0,29.0,clear
+675,Soyabean,Yeotmal,2016-01-13,3580.0,125.0,29.0,clear
+676,Soyabean,Babhulgaon,2016-01-15,3451.0,50.0,27.4,clear
+677,Soyabean,Digras,2016-01-15,3715.0,2.0,27.4,clear
+678,Soyabean,Kalamb,2016-01-15,3500.0,13.0,27.4,clear
+679,Soyabean,Ner Parasopant,2016-01-15,3425.0,14.0,27.4,clear
+680,Soyabean,Umarkhed,2016-01-15,3500.0,12.0,27.4,clear
+681,Soyabean,Vani,2016-01-15,3534.0,15.0,27.4,clear
+682,Soyabean,Yeotmal,2016-01-15,3550.0,29.0,27.4,clear
+683,Soyabean,Babhulgaon,2016-01-18,3500.0,51.0,27.0,clear
+684,Soyabean,Bori Arab,2016-01-18,3550.0,1.0,27.0,clear
+685,Soyabean,Digras,2016-01-18,3625.0,31.0,27.0,clear
+686,Soyabean,Kalamb,2016-01-18,3500.0,4.0,27.0,clear
+687,Soyabean,Umarked(Danki),2016-01-18,3500.0,14.0,27.0,clear
+688,Soyabean,Vani,2016-01-18,3527.0,19.0,27.0,clear
+689,Soyabean,Yeotmal,2016-01-18,3590.0,55.0,27.0,clear
+690,Soyabean,Babhulgaon,2016-01-19,3500.0,50.0,27.0,clear
+691,Soyabean,Digras,2016-01-19,3650.0,17.0,27.0,clear
+692,Soyabean,Kalamb,2016-01-19,3500.0,6.0,27.0,clear
+693,Soyabean,Ner Parasopant,2016-01-19,3675.0,26.0,27.0,clear
+694,Soyabean,Pusad,2016-01-19,3690.0,79.0,27.0,clear
+695,Soyabean,Umarked(Danki),2016-01-19,3500.0,7.0,27.0,clear
+696,Soyabean,Umarkhed,2016-01-19,3500.0,6.0,27.0,clear
+697,Soyabean,Vani,2016-01-19,3546.0,22.0,27.0,clear
+698,Soyabean,Yeotmal,2016-01-19,3599.0,112.0,27.0,clear
+699,Soyabean,ZariZamini,2016-01-19,3200.0,0.0,27.0,clear
+700,Soyabean,Babhulgaon,2016-01-20,3551.0,60.0,24.0,clear
+701,Soyabean,Digras,2016-01-20,3665.0,23.0,24.0,clear
+702,Soyabean,Kalamb,2016-01-20,3500.0,4.0,24.0,clear
+703,Soyabean,Ner Parasopant,2016-01-20,3650.0,43.0,24.0,clear
+704,Soyabean,Pandhakawada,2016-01-20,3300.0,2.0,24.0,clear
+705,Soyabean,Vani,2016-01-20,3594.0,17.0,24.0,clear
+706,Soyabean,Yeotmal,2016-01-20,3599.0,101.0,24.0,clear
+707,Soyabean,Babhulgaon,2016-01-22,3551.0,68.0,24.4,clear
+708,Soyabean,Bori Arab,2016-01-22,3500.0,1.0,24.4,clear
+709,Soyabean,Digras,2016-01-22,3715.0,20.0,24.4,clear
+710,Soyabean,Kalamb,2016-01-22,3500.0,3.0,24.4,clear
+711,Soyabean,Ner Parasopant,2016-01-22,3650.0,53.0,24.4,clear
+712,Soyabean,Pusad,2016-01-22,3735.0,64.0,24.4,clear
+713,Soyabean,Umarked(Danki),2016-01-22,3500.0,5.0,24.4,clear
+714,Soyabean,Vani,2016-01-22,3519.0,11.0,24.4,clear
+715,Soyabean,Yeotmal,2016-01-22,3575.0,113.0,24.4,clear
+716,Soyabean,ZariZamini,2016-01-22,3350.0,2.0,24.4,clear
+717,Soyabean,Babhulgaon,2016-01-25,3601.0,70.0,29.0,clear
+718,Soyabean,Bori Arab,2016-01-25,3475.0,3.0,29.0,clear
+719,Soyabean,Digras,2016-01-25,3560.0,15.0,29.0,clear
+720,Soyabean,Kalamb,2016-01-25,3600.0,4.0,29.0,clear
+721,Soyabean,Ner Parasopant,2016-01-25,3600.0,39.0,29.0,clear
+722,Soyabean,Umarked(Danki),2016-01-25,3500.0,7.0,29.0,clear
+723,Soyabean,Vani,2016-01-25,3550.0,11.0,29.0,clear
+724,Soyabean,Yeotmal,2016-01-25,3610.0,116.0,29.0,clear
+725,Soyabean,Babhulgaon,2016-01-29,3450.0,40.0,31.0,clear
+726,Soyabean,Digras,2016-01-29,3685.0,18.0,31.0,clear
+727,Soyabean,Ghatanji,2016-01-29,3542.0,2.0,31.0,clear
+728,Soyabean,Kalamb,2016-01-29,3550.0,6.0,31.0,clear
+729,Soyabean,Ner Parasopant,2016-01-29,3675.0,40.0,31.0,clear
+730,Soyabean,Pusad,2016-01-29,3700.0,137.0,31.0,clear
+731,Soyabean,Umarkhed,2016-01-29,3400.0,27.0,31.0,clear
+732,Soyabean,Vani,2016-01-29,3528.0,25.0,31.0,clear
+733,Soyabean,Babhulgaon,2016-01-02,3501.0,60.0,29.4,clear
+734,Soyabean,Digras,2016-01-02,3665.0,20.0,29.4,clear
+735,Soyabean,Ghatanji,2016-01-02,3500.0,3.0,29.4,clear
+736,Soyabean,Kalamb,2016-01-02,3500.0,7.0,29.4,clear
+737,Soyabean,Ner Parasopant,2016-01-02,3625.0,17.0,29.4,clear
+738,Soyabean,Vani,2016-01-02,3550.0,7.0,29.4,clear
+739,Soyabean,Yeotmal,2016-01-02,3595.0,68.0,29.4,clear
+740,Soyabean,ZariZamini,2016-01-02,3500.0,3.0,29.4,clear
+741,Soyabean,Babhulgaon,2016-02-02,3551.0,90.0,33.0,clear
+742,Soyabean,Digras,2016-02-02,3655.0,19.0,33.0,clear
+743,Soyabean,Kalamb,2016-02-02,3500.0,5.0,33.0,clear
+744,Soyabean,Ner Parasopant,2016-02-02,3650.0,29.0,33.0,clear
+745,Soyabean,Pusad,2016-02-02,3700.0,84.0,33.0,clear
+746,Soyabean,Vani,2016-02-02,3540.0,24.0,33.0,clear
+747,Soyabean,Yeotmal,2016-02-02,3600.0,108.0,33.0,clear
+748,Soyabean,Babhulgaon,2016-03-02,3450.0,90.0,34.0,clear
+749,Soyabean,Digras,2016-03-02,3695.0,16.0,34.0,clear
+750,Soyabean,Kalamb,2016-03-02,3500.0,8.0,34.0,clear
+751,Soyabean,Ner Parasopant,2016-03-02,3675.0,26.0,34.0,clear
+752,Soyabean,Umarked(Danki),2016-03-02,3500.0,31.0,34.0,clear
+753,Soyabean,Umarkhed,2016-03-02,3500.0,6.0,34.0,clear
+754,Soyabean,Vani,2016-03-02,3455.0,20.0,34.0,clear
+755,Soyabean,Yeotmal,2016-03-02,3595.0,101.0,34.0,clear
+756,Soyabean,ZariZamini,2016-03-02,3420.0,1.0,34.0,clear
+757,Soyabean,Babhulgaon,2016-05-02,3501.0,80.0,39.4,clear
+758,Soyabean,Digras,2016-05-02,3665.0,19.0,39.4,clear
+759,Soyabean,Ghatanji,2016-05-02,3400.0,10.0,39.4,clear
+760,Soyabean,Kalamb,2016-05-02,3200.0,5.0,39.4,clear
+761,Soyabean,Ner Parasopant,2016-05-02,3650.0,31.0,39.4,clear
+762,Soyabean,Pusad,2016-05-02,3710.0,78.0,39.4,clear
+763,Soyabean,Umarkhed,2016-05-02,3500.0,12.0,39.4,clear
+764,Soyabean,Vani,2016-05-02,3540.0,15.0,39.4,clear
+765,Soyabean,Yeotmal,2016-05-02,3618.0,203.0,39.4,clear
+766,Soyabean,Babhulgaon,2016-06-02,3525.0,60.0,39.0,clear
+767,Soyabean,Kalamb,2016-06-02,3450.0,4.0,39.0,clear
+768,Soyabean,Ner Parasopant,2016-06-02,3575.0,26.0,39.0,clear
+769,Soyabean,Umarkhed,2016-06-02,3500.0,21.0,39.0,clear
+770,Soyabean,Babhulgaon,2016-09-02,3501.0,80.0,29.4,clear
+771,Soyabean,Digras,2016-09-02,3685.0,18.0,29.4,clear
+772,Soyabean,Kalamb,2016-09-02,3400.0,4.0,29.4,clear
+773,Soyabean,Ner Parasopant,2016-09-02,3600.0,19.0,29.4,clear
+774,Soyabean,Pusad,2016-09-02,3670.0,84.0,29.4,clear
+775,Soyabean,Umarked(Danki),2016-09-02,3300.0,7.0,29.4,clear
+776,Soyabean,Vani,2016-09-02,3528.0,16.0,29.4,clear
+777,Soyabean,Yeotmal,2016-09-02,3605.0,147.0,29.4,clear
+778,Soyabean,Babhulgaon,2016-10-02,3501.0,80.0,26.4,clear
+779,Soyabean,Digras,2016-10-02,3695.0,14.0,26.4,clear
+780,Soyabean,Kalamb,2016-10-02,3250.0,6.0,26.4,clear
+781,Soyabean,Ner Parasopant,2016-10-02,3550.0,22.0,26.4,clear
+782,Soyabean,Umarked(Danki),2016-10-02,3300.0,12.0,26.4,clear
+783,Soyabean,Umarkhed,2016-10-02,3300.0,7.0,26.4,clear
+784,Soyabean,Vani,2016-10-02,3476.0,28.0,26.4,clear
+785,Soyabean,Yeotmal,2016-10-02,3590.0,118.0,26.4,clear
+786,Soyabean,Babhulgaon,2016-12-02,3501.0,90.0,26.0,clear
+787,Soyabean,Bori Arab,2016-12-02,3600.0,1.0,26.0,clear
+788,Soyabean,Digras,2016-12-02,3645.0,13.0,26.0,clear
+789,Soyabean,Kalamb,2016-12-02,3500.0,4.0,26.0,clear
+790,Soyabean,Ner Parasopant,2016-12-02,3550.0,21.0,26.0,clear
+791,Soyabean,Pusad,2016-12-02,3665.0,75.0,26.0,clear
+792,Soyabean,Umarkhed,2016-12-02,3500.0,9.0,26.0,clear
+793,Soyabean,Vani,2016-12-02,3582.0,17.0,26.0,clear
+794,Soyabean,Yeotmal,2016-12-02,3610.0,150.0,26.0,clear
+795,Soyabean,Babhulgaon,2016-02-15,3401.0,45.0,33.0,clear
+796,Soyabean,Digras,2016-02-15,3695.0,22.0,33.0,clear
+797,Soyabean,Kalamb,2016-02-15,3500.0,7.0,33.0,clear
+798,Soyabean,Ner Parasopant,2016-02-15,3600.0,35.0,33.0,clear
+799,Soyabean,Umarked(Danki),2016-02-15,3500.0,7.0,33.0,clear
+800,Soyabean,Vani,2016-02-15,3523.0,11.0,33.0,clear
+801,Soyabean,Yeotmal,2016-02-15,3610.0,92.0,33.0,clear
+802,Soyabean,Babhulgaon,2016-02-16,3501.0,100.0,33.4,clear
+803,Soyabean,Digras,2016-02-16,3685.0,19.0,33.4,clear
+804,Soyabean,Kalamb,2016-02-16,3500.0,4.0,33.4,clear
+805,Soyabean,Ner Parasopant,2016-02-16,3600.0,30.0,33.4,clear
+806,Soyabean,Umarked(Danki),2016-02-16,3500.0,24.0,33.4,clear
+807,Soyabean,Umarkhed,2016-02-16,3500.0,7.0,33.4,clear
+808,Soyabean,Vani,2016-02-16,3542.0,26.0,33.4,clear
+809,Soyabean,Yeotmal,2016-02-16,3590.0,101.0,33.4,clear
+810,Soyabean,Babhulgaon,2016-02-17,3501.0,90.0,33.0,clear
+811,Soyabean,Digras,2016-02-17,3655.0,9.0,33.0,clear
+812,Soyabean,Kalamb,2016-02-17,3500.0,4.0,33.0,clear
+813,Soyabean,Ner Parasopant,2016-02-17,3500.0,28.0,33.0,clear
+814,Soyabean,Umarkhed,2016-02-17,3500.0,24.0,33.0,clear
+815,Soyabean,Vani,2016-02-17,3527.0,21.0,33.0,clear
+816,Soyabean,Yeotmal,2016-02-17,3575.0,75.0,33.0,clear
+817,Soyabean,Babhulgaon,2016-02-22,3501.0,90.0,34.0,clear
+818,Soyabean,Digras,2016-02-22,3595.0,14.0,34.0,clear
+819,Soyabean,Kalamb,2016-02-22,3500.0,5.0,34.0,clear
+820,Soyabean,Ner Parasopant,2016-02-22,3600.0,21.0,34.0,clear
+821,Soyabean,Pandhakawada,2016-02-22,3450.0,3.0,34.0,clear
+822,Soyabean,Vani,2016-02-22,3492.0,26.0,34.0,clear
+823,Soyabean,Yeotmal,2016-02-22,3595.0,132.0,34.0,clear
+824,Soyabean,Babhulgaon,2016-02-23,3551.0,65.0,33.0,clear
+825,Soyabean,Digras,2016-02-23,3611.0,15.0,33.0,clear
+826,Soyabean,Ghatanji,2016-02-23,3500.0,2.0,33.0,clear
+827,Soyabean,Ner Parasopant,2016-02-23,3500.0,26.0,33.0,clear
+828,Soyabean,Pusad,2016-02-23,3545.0,78.0,33.0,clear
+829,Soyabean,Umarkhed,2016-02-23,3400.0,5.0,33.0,clear
+830,Soyabean,Vani,2016-02-23,3486.0,25.0,33.0,clear
+831,Soyabean,Yeotmal,2016-02-23,3520.0,117.0,33.0,clear
+832,Soyabean,ZariZamini,2016-02-23,3328.0,1.0,33.0,clear
+833,Soyabean,Babhulgaon,2016-02-24,3501.0,60.0,34.0,clear
+834,Soyabean,Digras,2016-02-24,3590.0,15.0,34.0,clear
+835,Soyabean,Kalamb,2016-02-24,3450.0,2.0,34.0,clear
+836,Soyabean,Ner Parasopant,2016-02-24,3500.0,26.0,34.0,clear
+837,Soyabean,Umarkhed,2016-02-24,3400.0,5.0,34.0,clear
+838,Soyabean,Vani,2016-02-24,3463.0,13.0,34.0,clear
+839,Soyabean,Yeotmal,2016-02-24,3650.0,93.0,34.0,clear
+840,Soyabean,Babhulgaon,2016-02-26,3501.0,70.0,34.0,clear
+841,Soyabean,Digras,2016-02-26,3565.0,4.0,34.0,clear
+842,Soyabean,Kalamb,2016-02-26,3500.0,3.0,34.0,clear
+843,Soyabean,Ner Parasopant,2016-02-26,3450.0,16.0,34.0,clear
+844,Soyabean,Pandhakawada,2016-02-26,3300.0,2.0,34.0,clear
+845,Soyabean,Vani,2016-02-26,3476.0,27.0,34.0,clear
+846,Soyabean,Yeotmal,2016-02-26,3610.0,130.0,34.0,clear
+847,Soyabean,ZariZamini,2016-02-26,3260.0,0.0,34.0,clear
+848,Soyabean,Babhulgaon,2016-01-03,3451.0,40.0,29.0,clear
+849,Soyabean,Ner Parasopant,2016-01-03,3450.0,9.0,29.0,clear
+850,Soyabean,Pusad,2016-01-03,3550.0,41.0,29.0,clear
+851,Soyabean,Vani,2016-01-03,3399.0,16.0,29.0,clear
+852,Soyabean,Yeotmal,2016-01-03,3555.0,38.0,29.0,clear
+853,Soyabean,Babhulgaon,2016-02-03,3401.0,25.0,30.0,clear
+854,Soyabean,Digras,2016-02-03,3595.0,5.0,30.0,clear
+855,Soyabean,Kalamb,2016-02-03,3400.0,4.0,30.0,clear
+856,Soyabean,Ner Parasopant,2016-02-03,3450.0,18.0,30.0,clear
+857,Soyabean,Pandhakawada,2016-02-03,3425.0,3.0,30.0,clear
+858,Soyabean,Umarked(Danki),2016-02-03,3500.0,7.0,30.0,clear
+859,Soyabean,Umarkhed,2016-02-03,3500.0,37.0,30.0,clear
+860,Soyabean,Vani,2016-02-03,3446.0,8.0,30.0,clear
+861,Soyabean,Yeotmal,2016-02-03,3475.0,55.0,30.0,clear
+862,Soyabean,Babhulgaon,2016-04-03,3451.0,50.0,41.0,clear
+863,Soyabean,Digras,2016-04-03,3585.0,9.0,41.0,clear
+864,Soyabean,Ner Parasopant,2016-04-03,3500.0,21.0,41.0,clear
+865,Soyabean,Pandhakawada,2016-04-03,3450.0,3.0,41.0,clear
+866,Soyabean,Pusad,2016-04-03,3540.0,53.0,41.0,clear
+867,Soyabean,Vani,2016-04-03,3383.0,8.0,41.0,clear
+868,Soyabean,Yeotmal,2016-04-03,3458.0,71.0,41.0,clear
+869,Soyabean,Babhulgaon,2016-05-03,3451.0,50.0,40.8,clear
+870,Soyabean,Ner Parasopant,2016-05-03,3550.0,32.0,40.8,clear
+871,Soyabean,Umarked(Danki),2016-05-03,3400.0,7.0,40.8,clear
+872,Soyabean,Umarkhed,2016-05-03,3400.0,7.0,40.8,clear
+873,Soyabean,Babhulgaon,2016-08-03,3401.0,12.0,25.4,clear
+874,Soyabean,Ner Parasopant,2016-08-03,3600.0,14.0,25.4,clear
+875,Soyabean,Umarked(Danki),2016-08-03,3400.0,7.0,25.4,clear
+876,Soyabean,Yeotmal,2016-08-03,3450.0,47.0,25.4,clear
+877,Soyabean,Babhulgaon,2016-09-03,3401.0,25.0,29.0,clear
+878,Soyabean,Digras,2016-09-03,3650.0,8.0,29.0,clear
+879,Soyabean,Ner Parasopant,2016-09-03,3600.0,33.0,29.0,clear
+880,Soyabean,Pandhakawada,2016-09-03,3450.0,5.0,29.0,clear
+881,Soyabean,Vani,2016-09-03,3411.0,4.0,29.0,clear
+882,Soyabean,Yeotmal,2016-09-03,3440.0,66.0,29.0,clear
+883,Soyabean,Babhulgaon,2016-11-03,3401.0,20.0,27.4,clear
+884,Soyabean,Digras,2016-11-03,3595.0,17.0,27.4,clear
+885,Soyabean,Kalamb,2016-11-03,3200.0,3.0,27.4,clear
+886,Soyabean,Ner Parasopant,2016-11-03,3550.0,36.0,27.4,clear
+887,Soyabean,Pusad,2016-11-03,3690.0,52.0,27.4,clear
+888,Soyabean,Umarkhed,2016-11-03,3400.0,14.0,27.4,clear
+889,Soyabean,Vani,2016-11-03,3482.0,20.0,27.4,clear
+890,Soyabean,Yeotmal,2016-11-03,3510.0,126.0,27.4,clear
+891,Soyabean,Babhulgaon,2016-12-03,3501.0,30.0,26.4,clear
+892,Soyabean,Kalamb,2016-12-03,3400.0,3.0,26.4,clear
+893,Soyabean,Ner Parasopant,2016-12-03,3500.0,29.0,26.4,clear
+894,Soyabean,Umarked(Danki),2016-12-03,3400.0,14.0,26.4,clear
+895,Soyabean,Umarkhed,2016-12-03,3400.0,17.0,26.4,clear
+896,Soyabean,Babhulgaon,2016-03-14,3501.0,40.0,34.0,clear
+897,Soyabean,Digras,2016-03-14,3685.0,5.0,34.0,clear
+898,Soyabean,Ner Parasopant,2016-03-14,3500.0,34.0,34.0,clear
+899,Soyabean,Pandhakawada,2016-03-14,3450.0,4.0,34.0,clear
+900,Soyabean,Umarked(Danki),2016-03-14,3300.0,20.0,34.0,clear
+901,Soyabean,Vani,2016-03-14,3545.0,9.0,34.0,clear
+902,Soyabean,Yeotmal,2016-03-14,3515.0,109.0,34.0,clear
+903,Soyabean,Babhulgaon,2016-03-15,3501.0,60.0,33.4,clear
+904,Soyabean,Digras,2016-03-15,3685.0,9.0,33.4,clear
+905,Soyabean,Kalamb,2016-03-15,3500.0,9.0,33.4,clear
+906,Soyabean,Ner Parasopant,2016-03-15,3550.0,32.0,33.4,clear
+907,Soyabean,Pandhakawada,2016-03-15,3500.0,2.0,33.4,clear
+908,Soyabean,Pusad,2016-03-15,3680.0,50.0,33.4,clear
+909,Soyabean,Umarkhed,2016-03-15,3200.0,20.0,33.4,clear
+910,Soyabean,Vani,2016-03-15,3445.0,17.0,33.4,clear
+911,Soyabean,Yeotmal,2016-03-15,3590.0,101.0,33.4,clear
+912,Soyabean,Babhulgaon,2016-03-16,3501.0,70.0,33.0,clear
+913,Soyabean,Digras,2016-03-16,3665.0,14.0,33.0,clear
+914,Soyabean,Ghatanji,2016-03-16,4210.0,7.0,33.0,clear
+915,Soyabean,Kalamb,2016-03-16,3400.0,6.0,33.0,clear
+916,Soyabean,Ner Parasopant,2016-03-16,3600.0,42.0,33.0,clear
+917,Soyabean,Umarkhed,2016-03-16,3200.0,10.0,33.0,clear
+918,Soyabean,Vani,2016-03-16,3465.0,25.0,33.0,clear
+919,Soyabean,Yeotmal,2016-03-16,3565.0,130.0,33.0,clear
+920,Soyabean,ZariZamini,2016-03-16,3200.0,1.0,33.0,clear
+921,Soyabean,Babhulgaon,2016-03-18,3520.0,82.0,37.0,clear
+922,Soyabean,Digras,2016-03-18,3710.0,5.0,37.0,clear
+923,Soyabean,Ghatanji,2016-03-18,3550.0,2.0,37.0,clear
+924,Soyabean,Kalamb,2016-03-18,3400.0,3.0,37.0,clear
+925,Soyabean,Ner Parasopant,2016-03-18,3600.0,36.0,37.0,clear
+926,Soyabean,Pandhakawada,2016-03-18,3500.0,3.0,37.0,clear
+927,Soyabean,Pusad,2016-03-18,3670.0,65.0,37.0,clear
+928,Soyabean,Vani,2016-03-18,3532.0,10.0,37.0,clear
+929,Soyabean,Yeotmal,2016-03-18,3595.0,130.0,37.0,clear
+930,Soyabean,Babhulgaon,2016-03-19,3501.0,60.0,36.4,clear
+931,Soyabean,Kalamb,2016-03-19,3500.0,4.0,36.4,clear
+932,Soyabean,Ner Parasopant,2016-03-19,3600.0,29.0,36.4,clear
+933,Soyabean,ZariZamini,2016-03-19,3500.0,3.0,36.4,clear
+934,Soyabean,Babhulgaon,2016-03-21,3501.0,47.0,36.4,clear
+935,Soyabean,Digras,2016-03-21,3690.0,2.0,36.4,clear
+936,Soyabean,Kalamb,2016-03-21,3600.0,2.0,36.4,clear
+937,Soyabean,Ner Parasopant,2016-03-21,3700.0,39.0,36.4,clear
+938,Soyabean,Pandhakawada,2016-03-21,3500.0,3.0,36.4,clear
+939,Soyabean,Vani,2016-03-21,3574.0,13.0,36.4,clear
+940,Soyabean,ZariZamini,2016-03-21,3500.0,2.0,36.4,clear
+941,Soyabean,Babhulgaon,2016-03-22,3651.0,50.0,36.0,clear
+942,Soyabean,Digras,2016-03-22,3765.0,8.0,36.0,clear
+943,Soyabean,Kalamb,2016-03-22,3500.0,3.0,36.0,clear
+944,Soyabean,Ner Parasopant,2016-03-22,3750.0,24.0,36.0,clear
+945,Soyabean,Pandhakawada,2016-03-22,3550.0,3.0,36.0,clear
+946,Soyabean,Pusad,2016-03-22,3700.0,44.0,36.0,clear
+947,Soyabean,Vani,2016-03-22,3631.0,11.0,36.0,clear
+948,Soyabean,Babhulgaon,2016-05-04,3700.0,90.0,39.0,clear
+949,Soyabean,Digras,2016-05-04,3845.0,7.0,39.0,clear
+950,Soyabean,Ghatanji,2016-05-04,3800.0,2.0,39.0,clear
+951,Soyabean,Kalamb,2016-05-04,3700.0,2.0,39.0,clear
+952,Soyabean,Ner Parasopant,2016-05-04,3800.0,67.0,39.0,clear
+953,Soyabean,Pandhakawada,2016-05-04,3820.0,2.0,39.0,clear
+954,Soyabean,Pusad,2016-05-04,3895.0,73.0,39.0,clear
+955,Soyabean,Vani,2016-05-04,3864.0,19.0,39.0,clear
+956,Soyabean,Babhulgaon,2016-06-04,3751.0,80.0,41.4,clear
+957,Soyabean,Digras,2016-06-04,3865.0,7.0,41.4,clear
+958,Soyabean,Kalamb,2016-06-04,3700.0,3.0,41.4,clear
+959,Soyabean,Ner Parasopant,2016-06-04,3850.0,79.0,41.4,clear
+960,Soyabean,Vani,2016-06-04,3548.0,5.0,41.4,clear
+961,Soyabean,Babhulgaon,2016-09-04,3801.0,60.0,28.0,clear
+962,Soyabean,Kalamb,2016-09-04,3500.0,2.0,28.0,clear
+963,Soyabean,Ner Parasopant,2016-09-04,3825.0,48.0,28.0,clear
+964,Soyabean,Umarked(Danki),2016-09-04,3700.0,7.0,28.0,clear
+965,Soyabean,Umarkhed,2016-09-04,3500.0,7.0,28.0,clear
+966,Soyabean,Babhulgaon,2016-11-04,3801.0,70.0,28.0,clear
+967,Soyabean,Digras,2016-11-04,3995.0,8.0,28.0,clear
+968,Soyabean,Kalamb,2016-11-04,3850.0,3.0,28.0,clear
+969,Soyabean,Ner Parasopant,2016-11-04,3850.0,60.0,28.0,clear
+970,Soyabean,Umarkhed,2016-11-04,3500.0,11.0,28.0,clear
+971,Soyabean,ZariZamini,2016-11-04,3483.0,9.0,28.0,clear
+972,Soyabean,Babhulgaon,2016-12-04,3701.0,60.0,27.1,clear
+973,Soyabean,Digras,2016-12-04,3965.0,7.0,27.1,clear
+974,Soyabean,Kalamb,2016-12-04,3800.0,6.0,27.1,clear
+975,Soyabean,Ner Parasopant,2016-12-04,3850.0,52.0,27.1,clear
+976,Soyabean,Umarkhed,2016-12-04,3700.0,12.0,27.1,clear
+977,Soyabean,Vani,2016-12-04,3757.0,14.0,27.1,clear
+978,Soyabean,Babhulgaon,2016-04-13,3701.0,60.0,40.0,clear
+979,Soyabean,Digras,2016-04-13,3995.0,8.0,40.0,clear
+980,Soyabean,Ner Parasopant,2016-04-13,3900.0,68.0,40.0,clear
+981,Soyabean,Umarkhed,2016-04-13,3700.0,22.0,40.0,clear
+982,Soyabean,Vani,2016-04-13,3744.0,15.0,40.0,clear
+983,Soyabean,Babhulgaon,2016-04-18,3801.0,60.0,41.4,clear
+984,Soyabean,Digras,2016-04-18,3995.0,18.0,41.4,clear
+985,Soyabean,Kalamb,2016-04-18,3600.0,2.0,41.4,clear
+986,Soyabean,Ner Parasopant,2016-04-18,4050.0,56.0,41.4,clear
+987,Soyabean,Umarkhed,2016-04-18,3700.0,6.0,41.4,clear
+988,Soyabean,Vani,2016-04-18,3690.0,8.0,41.4,clear
+989,Soyabean,Babhulgaon,2016-04-25,3601.0,70.0,41.4,clear
+990,Soyabean,Digras,2016-04-25,3965.0,17.0,41.4,clear
+991,Soyabean,Kalamb,2016-04-25,3700.0,2.0,41.4,clear
+992,Soyabean,Ner Parasopant,2016-04-25,3900.0,56.0,41.4,clear
+993,Soyabean,Vani,2016-04-25,3795.0,14.0,41.4,clear
+994,Soyabean,Babhulgaon,2016-04-27,3701.0,50.0,41.0,clear
+995,Soyabean,Ner Parasopant,2016-04-27,3700.0,13.0,41.0,clear
+996,Soyabean,Umarkhed,2016-04-27,3500.0,7.0,41.0,clear
+997,Soyabean,Vani,2016-04-27,3659.0,5.0,41.0,clear
+998,Soyabean,Babhulgaon,2016-02-05,3701.0,60.0,31.0,clear
+999,Soyabean,Kalamb,2016-02-05,3700.0,2.0,31.0,clear
+1000,Soyabean,Ner Parasopant,2016-02-05,3650.0,17.0,31.0,clear
+1001,Soyabean,Umarkhed,2016-02-05,3400.0,7.0,31.0,clear
+1002,Soyabean,Yeotmal,2016-02-05,3750.0,45.0,31.0,clear
+1003,Soyabean,Babhulgaon,2016-04-05,3701.0,50.0,37.0,clear
+1004,Soyabean,Digras,2016-04-05,3895.0,7.0,37.0,clear
+1005,Soyabean,Ghatanji,2016-04-05,3600.0,1.0,37.0,clear
+1006,Soyabean,Ner Parasopant,2016-04-05,3600.0,26.0,37.0,clear
+1007,Soyabean,Umarked(Danki),2016-04-05,3400.0,12.0,37.0,clear
+1008,Soyabean,Vani,2016-04-05,3556.0,5.0,37.0,clear
+1009,Soyabean,Yeotmal,2016-04-05,3860.0,31.0,37.0,clear
+1010,Soyabean,Babhulgaon,2016-06-05,3701.0,60.0,40.0,clear
+1011,Soyabean,Digras,2016-06-05,3865.0,8.0,40.0,clear
+1012,Soyabean,Ner Parasopant,2016-06-05,3700.0,16.0,40.0,clear
+1013,Soyabean,Pusad,2016-06-05,3780.0,39.0,40.0,clear
+1014,Soyabean,Umarkhed,2016-06-05,3400.0,13.0,40.0,clear
+1015,Soyabean,Vani,2016-06-05,3833.0,6.0,40.0,clear
+1016,Soyabean,Yeotmal,2016-06-05,3690.0,62.0,40.0,clear
+1017,Soyabean,Babhulgaon,2016-10-05,3751.0,60.0,28.0,clear
+1018,Soyabean,Digras,2016-10-05,3850.0,7.0,28.0,clear
+1019,Soyabean,Ner Parasopant,2016-10-05,3750.0,44.0,28.0,clear
+1020,Soyabean,Pusad,2016-10-05,3755.0,58.0,28.0,clear
+1021,Soyabean,Umarked(Danki),2016-10-05,3500.0,12.0,28.0,clear
+1022,Soyabean,Umarkhed,2016-10-05,3600.0,7.0,28.0,clear
+1023,Soyabean,Vani,2016-10-05,3799.0,11.0,28.0,clear
+1024,Soyabean,Yeotmal,2016-10-05,3750.0,81.0,28.0,clear
+1025,Soyabean,Babhulgaon,2016-11-05,3751.0,60.0,28.0,clear
+1026,Soyabean,Digras,2016-11-05,3865.0,9.0,28.0,clear
+1027,Soyabean,Kalamb,2016-11-05,3650.0,2.0,28.0,clear
+1028,Soyabean,Ner Parasopant,2016-11-05,3850.0,49.0,28.0,clear
+1029,Soyabean,Umarked(Danki),2016-11-05,3600.0,7.0,28.0,clear
+1030,Soyabean,Umarkhed,2016-11-05,3600.0,7.0,28.0,clear
+1031,Soyabean,Vani,2016-11-05,3814.0,8.0,28.0,clear
+1032,Soyabean,Yeotmal,2016-11-05,3650.0,117.0,28.0,clear
+1033,Soyabean,Babhulgaon,2016-05-13,3701.0,60.0,42.4,clear
+1034,Soyabean,Digras,2016-05-13,3865.0,14.0,42.4,clear
+1035,Soyabean,Kalamb,2016-05-13,3500.0,2.0,42.4,clear
+1036,Soyabean,Umarked(Danki),2016-05-13,3600.0,7.0,42.4,clear
+1037,Soyabean,Vani,2016-05-13,3715.0,20.0,42.4,clear
+1038,Soyabean,Babhulgaon,2016-05-16,3701.0,40.0,42.2,clear
+1039,Soyabean,Digras,2016-05-16,3865.0,6.0,42.2,clear
+1040,Soyabean,Ner Parasopant,2016-05-16,3750.0,28.0,42.2,clear
+1041,Soyabean,Vani,2016-05-16,3772.0,11.0,42.2,clear
+1042,Soyabean,Yeotmal,2016-05-16,3780.0,65.0,42.2,clear
+1043,Soyabean,Babhulgaon,2016-05-17,3701.0,40.0,43.0,clear
+1044,Soyabean,Digras,2016-05-17,3900.0,10.0,43.0,clear
+1045,Soyabean,Ner Parasopant,2016-05-17,3750.0,44.0,43.0,clear
+1046,Soyabean,Umarked(Danki),2016-05-17,3600.0,9.0,43.0,clear
+1047,Soyabean,Vani,2016-05-17,3792.0,17.0,43.0,clear
+1048,Soyabean,Yeotmal,2016-05-17,3750.0,70.0,43.0,clear
+1049,Soyabean,Babhulgaon,2016-05-20,3651.0,60.0,42.0,clear
+1050,Soyabean,Digras,2016-05-20,3850.0,6.0,42.0,clear
+1051,Soyabean,Kalamb,2016-05-20,3600.0,3.0,42.0,clear
+1052,Soyabean,Ner Parasopant,2016-05-20,3650.0,6.0,42.0,clear
+1053,Soyabean,Vani,2016-05-20,3630.0,14.0,42.0,clear
+1054,Soyabean,Babhulgaon,2016-05-23,3551.0,45.0,41.0,clear
+1055,Soyabean,Digras,2016-05-23,3800.0,9.0,41.0,clear
+1056,Soyabean,Kalamb,2016-05-23,3600.0,2.0,41.0,clear
+1057,Soyabean,Ner Parasopant,2016-05-23,3650.0,19.0,41.0,clear
+1058,Soyabean,Umarked(Danki),2016-05-23,3600.0,7.0,41.0,clear
+1059,Soyabean,Yeotmal,2016-05-23,3675.0,117.0,41.0,clear
+1060,Soyabean,Babhulgaon,2016-05-24,3651.0,60.0,41.0,clear
+1061,Soyabean,Digras,2016-05-24,3750.0,7.0,41.0,clear
+1062,Soyabean,Kalamb,2016-05-24,3500.0,2.0,41.0,clear
+1063,Soyabean,Ner Parasopant,2016-05-24,3650.0,11.0,41.0,clear
+1064,Soyabean,Pusad,2016-05-24,3695.0,58.0,41.0,clear
+1065,Soyabean,Umarked(Danki),2016-05-24,3700.0,12.0,41.0,clear
+1066,Soyabean,Umarkhed,2016-05-24,3700.0,7.0,41.0,clear
+1067,Soyabean,Vani,2016-05-24,3560.0,8.0,41.0,clear
+1068,Soyabean,Yeotmal,2016-05-24,3675.0,81.0,41.0,clear
+1069,Soyabean,Babhulgaon,2016-05-25,3701.0,40.0,40.0,clear
+1070,Soyabean,Digras,2016-05-25,3845.0,9.0,40.0,clear
+1071,Soyabean,Kalamb,2016-05-25,3700.0,2.0,40.0,clear
+1072,Soyabean,Ner Parasopant,2016-05-25,3600.0,18.0,40.0,clear
+1073,Soyabean,Vani,2016-05-25,3640.0,19.0,40.0,clear
+1074,Soyabean,Yeotmal,2016-05-25,3610.0,26.0,40.0,clear
+1075,Soyabean,Babhulgaon,2016-05-27,3600.0,42.0,41.2,clear
+1076,Soyabean,Digras,2016-05-27,3765.0,7.0,41.2,clear
+1077,Soyabean,Ner Parasopant,2016-05-27,3650.0,13.0,41.2,clear
+1078,Soyabean,Umarked(Danki),2016-05-27,3825.0,7.0,41.2,clear
+1079,Soyabean,Vani,2016-05-27,3670.0,19.0,41.2,clear
+1080,Soyabean,Yeotmal,2016-05-27,3650.0,45.0,41.2,clear
+1081,Soyabean,Babhulgaon,2016-05-30,3590.0,18.0,40.0,clear
+1082,Soyabean,Digras,2016-05-30,3765.0,8.0,40.0,clear
+1083,Soyabean,Ghatanji,2016-05-30,3600.0,1.0,40.0,clear
+1084,Soyabean,Kalamb,2016-05-30,3500.0,2.0,40.0,clear
+1085,Soyabean,Ner Parasopant,2016-05-30,3600.0,13.0,40.0,clear
+1086,Soyabean,Umarked(Danki),2016-05-30,3600.0,10.0,40.0,clear
+1087,Soyabean,Vani,2016-05-30,3630.0,14.0,40.0,clear
+1088,Soyabean,Yeotmal,2016-05-30,3650.0,54.0,40.0,clear
+1089,Soyabean,Babhulgaon,2016-05-31,3601.0,41.0,41.0,clear
+1090,Soyabean,Digras,2016-05-31,3755.0,11.0,41.0,clear
+1091,Soyabean,Kalamb,2016-05-31,3550.0,2.0,41.0,clear
+1092,Soyabean,Ner Parasopant,2016-05-31,3600.0,10.0,41.0,clear
+1093,Soyabean,Pusad,2016-05-31,3655.0,73.0,41.0,clear
+1094,Soyabean,Umarked(Danki),2016-05-31,3600.0,12.0,41.0,clear
+1095,Soyabean,Vani,2016-05-31,3530.0,6.0,41.0,clear
+1096,Soyabean,Yeotmal,2016-05-31,3590.0,41.0,41.0,clear
+1097,Soyabean,Babhulgaon,2016-01-06,3551.0,13.0,29.4,clear
+1098,Soyabean,Digras,2016-01-06,3565.0,7.0,29.4,clear
+1099,Soyabean,Ner Parasopant,2016-01-06,3450.0,9.0,29.4,clear
+1100,Soyabean,Umarkhed,2016-01-06,3600.0,7.0,29.4,clear
+1101,Soyabean,Vani,2016-01-06,3560.0,7.0,29.4,clear
+1102,Soyabean,Yeotmal,2016-01-06,3580.0,27.0,29.4,clear
+1103,Soyabean,Babhulgaon,2016-03-06,3601.0,42.0,34.4,clear
+1104,Soyabean,Digras,2016-03-06,3745.0,4.0,34.4,clear
+1105,Soyabean,Ner Parasopant,2016-03-06,3500.0,6.0,34.4,clear
+1106,Soyabean,Vani,2016-03-06,3630.0,6.0,34.4,clear
+1107,Soyabean,Yeotmal,2016-03-06,3575.0,23.0,34.4,clear
+1108,Soyabean,Babhulgaon,2016-06-06,3501.0,22.0,39.0,clear
+1109,Soyabean,Digras,2016-06-06,3730.0,1.0,39.0,clear
+1110,Soyabean,Kalamb,2016-06-06,3600.0,2.0,39.0,clear
+1111,Soyabean,Ner Parasopant,2016-06-06,3650.0,28.0,39.0,clear
+1112,Soyabean,Pandhakawada,2016-06-06,3400.0,2.0,39.0,clear
+1113,Soyabean,Umarked(Danki),2016-06-06,3600.0,7.0,39.0,clear
+1114,Soyabean,Umarkhed,2016-06-06,3600.0,7.0,39.0,clear
+1115,Soyabean,Vani,2016-06-06,3700.0,4.0,39.0,clear
+1116,Soyabean,Yeotmal,2016-06-06,3575.0,64.0,39.0,clear
+1117,Soyabean,Babhulgaon,2016-07-06,3551.0,23.0,27.8,clear
+1118,Soyabean,Digras,2016-07-06,3740.0,2.0,27.8,clear
+1119,Soyabean,Kalamb,2016-07-06,3600.0,2.0,27.8,clear
+1120,Soyabean,Ner Parasopant,2016-07-06,3650.0,11.0,27.8,clear
+1121,Soyabean,Pandhakawada,2016-07-06,3600.0,4.0,27.8,clear
+1122,Soyabean,Pusad,2016-07-06,3685.0,60.0,27.8,clear
+1123,Soyabean,Umarked(Danki),2016-07-06,3550.0,7.0,27.8,clear
+1124,Soyabean,Umarkhed,2016-07-06,3550.0,12.0,27.8,clear
+1125,Soyabean,Vani,2016-07-06,3680.0,12.0,27.8,clear
+1126,Soyabean,Yeotmal,2016-07-06,3575.0,39.0,27.8,clear
+1127,Soyabean,Babhulgaon,2016-08-06,3551.0,35.0,26.4,clear
+1128,Soyabean,Digras,2016-08-06,3795.0,4.0,26.4,clear
+1129,Soyabean,Kalamb,2016-08-06,3600.0,2.0,26.4,clear
+1130,Soyabean,Ner Parasopant,2016-08-06,3650.0,28.0,26.4,clear
+1131,Soyabean,Vani,2016-08-06,3575.0,7.0,26.4,clear
+1132,Soyabean,Yeotmal,2016-08-06,3655.0,32.0,26.4,clear
+1133,Soyabean,Babhulgaon,2016-10-06,3601.0,50.0,28.0,clear
+1134,Soyabean,Digras,2016-10-06,3835.0,5.0,28.0,clear
+1135,Soyabean,Kalamb,2016-10-06,3600.0,1.0,28.0,clear
+1136,Soyabean,Ner Parasopant,2016-10-06,3650.0,19.0,28.0,clear
+1137,Soyabean,Umarked(Danki),2016-10-06,3550.0,7.0,28.0,clear
+1138,Soyabean,Umarkhed,2016-10-06,3550.0,17.0,28.0,clear
+1139,Soyabean,Vani,2016-10-06,3625.0,6.0,28.0,clear
+1140,Soyabean,Yeotmal,2016-10-06,3675.0,21.0,28.0,clear
+1141,Soyabean,Babhulgaon,2016-06-13,3651.0,25.0,37.0,clear
+1142,Soyabean,Digras,2016-06-13,3865.0,2.0,37.0,clear
+1143,Soyabean,Ner Parasopant,2016-06-13,3650.0,13.0,37.0,clear
+1144,Soyabean,Vani,2016-06-13,3650.0,3.0,37.0,clear
+1145,Soyabean,Yeotmal,2016-06-13,3680.0,21.0,37.0,clear
+1146,Soyabean,Babhulgaon,2016-06-14,3651.0,15.0,38.0,clear
+1147,Soyabean,Digras,2016-06-14,3855.0,3.0,38.0,clear
+1148,Soyabean,Ner Parasopant,2016-06-14,3650.0,6.0,38.0,clear
+1149,Soyabean,Pandhakawada,2016-06-14,3750.0,2.0,38.0,clear
+1150,Soyabean,Vani,2016-06-14,3720.0,4.0,38.0,clear
+1151,Soyabean,Yeotmal,2016-06-14,3750.0,32.0,38.0,clear
+1152,Soyabean,Babhulgaon,2016-06-15,3601.0,15.0,38.0,clear
+1153,Soyabean,Digras,2016-06-15,3825.0,3.0,38.0,clear
+1154,Soyabean,Ner Parasopant,2016-06-15,3600.0,6.0,38.0,clear
+1155,Soyabean,Vani,2016-06-15,3760.0,6.0,38.0,clear
+1156,Soyabean,Yeotmal,2016-06-15,3655.0,19.0,38.0,clear
+1157,Soyabean,Babhulgaon,2016-06-17,3601.0,20.0,36.4,clear
+1158,Soyabean,Digras,2016-06-17,3785.0,2.0,36.4,clear
+1159,Soyabean,Ner Parasopant,2016-06-17,3550.0,7.0,36.4,clear
+1160,Soyabean,Umarked(Danki),2016-06-17,3700.0,22.0,36.4,clear
+1161,Soyabean,Vani,2016-06-17,3685.0,11.0,36.4,clear
+1162,Soyabean,Yeotmal,2016-06-17,3675.0,41.0,36.4,clear
+1163,Soyabean,Babhulgaon,2016-06-20,3580.0,17.0,32.0,clear
+1164,Soyabean,Digras,2016-06-20,3765.0,4.0,32.0,clear
+1165,Soyabean,Ner Parasopant,2016-06-20,3600.0,9.0,32.0,clear
+1166,Soyabean,Umarked(Danki),2016-06-20,3500.0,7.0,32.0,clear
+1167,Soyabean,Vani,2016-06-20,3520.0,3.0,32.0,clear
+1168,Soyabean,Yeotmal,2016-06-20,3710.0,21.0,32.0,clear
+1169,Soyabean,Babhulgaon,2016-06-21,3601.0,5.0,35.0,clear
+1170,Soyabean,Digras,2016-06-21,3770.0,1.0,35.0,clear
+1171,Soyabean,Ner Parasopant,2016-06-21,3500.0,5.0,35.0,clear
+1172,Soyabean,Pusad,2016-06-21,3700.0,33.0,35.0,clear
+1173,Soyabean,Vani,2016-06-21,3665.0,5.0,35.0,clear
+1174,Soyabean,Yeotmal,2016-06-21,3690.0,22.0,35.0,clear
+1175,Soyabean,Babhulgaon,2016-06-22,3550.0,7.0,35.4,clear
+1176,Soyabean,Digras,2016-06-22,3835.0,1.0,35.4,clear
+1177,Soyabean,Ner Parasopant,2016-06-22,3550.0,7.0,35.4,clear
+1178,Soyabean,Pandhakawada,2016-06-22,3700.0,1.0,35.4,clear
+1179,Soyabean,Vani,2016-06-22,3700.0,6.0,35.4,clear
+1180,Soyabean,Yeotmal,2016-06-22,3625.0,23.0,35.4,clear
+1181,Soyabean,Babhulgaon,2016-06-24,3601.0,6.0,33.0,clear
+1182,Soyabean,Digras,2016-06-24,3750.0,1.0,33.0,clear
+1183,Soyabean,Ner Parasopant,2016-06-24,3500.0,2.0,33.0,clear
+1184,Soyabean,Vani,2016-06-24,3680.0,7.0,33.0,clear
+1185,Soyabean,Yeotmal,2016-06-24,3680.0,27.0,33.0,clear
+1186,Soyabean,Babhulgaon,2016-06-25,3651.0,8.0,28.0,clear
+1187,Soyabean,Ner Parasopant,2016-06-25,3600.0,1.0,28.0,clear
+1188,Soyabean,Babhulgaon,2016-06-27,3600.0,13.0,26.4,clear
+1189,Soyabean,Digras,2016-06-27,3685.0,2.0,26.4,clear
+1190,Soyabean,Ner Parasopant,2016-06-27,3600.0,12.0,26.4,clear
+1191,Soyabean,Umarkhed,2016-06-27,3500.0,12.0,26.4,clear
+1192,Soyabean,Vani,2016-06-27,3698.0,12.0,26.4,clear
+1193,Soyabean,Yeotmal,2016-06-27,3725.0,40.0,26.4,clear
+1194,Soyabean,Babhulgaon,2016-06-28,3600.0,30.0,27.0,clear
+1195,Soyabean,Digras,2016-06-28,3685.0,0.0,27.0,clear
+1196,Soyabean,Ner Parasopant,2016-06-28,3600.0,4.0,27.0,clear
+1197,Soyabean,Pusad,2016-06-28,3700.0,55.0,27.0,clear
+1198,Soyabean,Yeotmal,2016-06-28,3650.0,32.0,27.0,clear
+1199,Soyabean,Babhulgaon,2016-06-29,3601.0,22.0,26.2,clear
+1200,Soyabean,Digras,2016-06-29,3786.0,1.0,26.2,clear
+1201,Soyabean,Ner Parasopant,2016-06-29,3600.0,8.0,26.2,clear
+1202,Soyabean,Umarkhed,2016-06-29,3700.0,12.0,26.2,clear
+1203,Soyabean,Yeotmal,2016-06-29,3690.0,24.0,26.2,clear
+1204,Soyabean,Babhulgaon,2016-01-07,3651.0,50.0,29.0,clear
+1205,Soyabean,Digras,2016-01-07,3745.0,4.0,29.0,clear
+1206,Soyabean,Ner Parasopant,2016-01-07,3575.0,13.0,29.0,clear
+1207,Soyabean,Umarkhed,2016-01-07,3700.0,7.0,29.0,clear
+1208,Soyabean,Vani,2016-01-07,3665.0,3.0,29.0,clear
+1209,Soyabean,Yeotmal,2016-01-07,3690.0,27.0,29.0,clear
+1210,Soyabean,Babhulgaon,2016-04-07,3601.0,30.0,37.0,clear
+1211,Soyabean,Ner Parasopant,2016-04-07,3500.0,9.0,37.0,clear
+1212,Soyabean,Vani,2016-04-07,3590.0,4.0,37.0,clear
+1213,Soyabean,Yeotmal,2016-04-07,3595.0,9.0,37.0,clear
+1214,Soyabean,Babhulgaon,2016-07-20,3351.0,10.0,29.8,clear
+1215,Soyabean,Ner Parasopant,2016-07-20,3500.0,0.0,29.8,clear
+1216,Soyabean,Babhulgaon,2016-02-08,3301.0,10.0,30.0,clear
+1217,Soyabean,Digras,2016-02-08,3625.0,4.0,30.0,clear
+1218,Soyabean,Kalamb,2016-02-08,3100.0,1.0,30.0,clear
+1219,Soyabean,Ner Parasopant,2016-02-08,3400.0,7.0,30.0,clear
+1220,Soyabean,Pusad,2016-02-08,3575.0,9.0,30.0,clear
+1221,Soyabean,Vani,2016-02-08,3250.0,1.0,30.0,clear
+1222,Soyabean,Babhulgaon,2016-03-08,3560.0,14.0,35.4,clear
+1223,Soyabean,Digras,2016-03-08,3605.0,0.0,35.4,clear
+1224,Soyabean,Kalamb,2016-03-08,3100.0,1.0,35.4,clear
+1225,Soyabean,Ner Parasopant,2016-03-08,3400.0,4.0,35.4,clear
+1226,Soyabean,Pusad,2016-03-08,3585.0,17.0,35.4,clear
+1227,Soyabean,Umarked(Danki),2016-03-08,3625.0,7.0,35.4,clear
+1228,Soyabean,Babhulgaon,2016-05-08,3451.0,45.0,37.6,clear
+1229,Soyabean,Digras,2016-05-08,3565.0,5.0,37.6,clear
+1230,Soyabean,Kalamb,2016-05-08,3100.0,1.0,37.6,clear
+1231,Soyabean,Ner Parasopant,2016-05-08,3500.0,7.0,37.6,clear
+1232,Soyabean,Babhulgaon,2016-06-08,3451.0,30.0,36.0,clear
+1233,Soyabean,Ner Parasopant,2016-06-08,3600.0,5.0,36.0,clear
+1234,Soyabean,Babhulgaon,2016-08-18,3301.0,14.0,29.0,clear
+1235,Soyabean,Digras,2016-08-18,3250.0,1.0,29.0,clear
+1236,Soyabean,Kalamb,2016-08-18,3200.0,4.0,29.0,clear
+1237,Soyabean,Ner Parasopant,2016-08-18,3400.0,3.0,29.0,clear
+1238,Soyabean,Umarked(Danki),2016-08-18,3400.0,6.0,29.0,clear
+1239,Soyabean,Yeotmal,2016-08-18,3370.0,25.0,29.0,clear
+1240,Soyabean,Babhulgaon,2016-08-19,3301.0,12.0,28.6,clear
+1241,Soyabean,Digras,2016-08-19,3545.0,1.0,28.6,clear
+1242,Soyabean,Kalamb,2016-08-19,3300.0,3.0,28.6,clear
+1243,Soyabean,Yeotmal,2016-08-19,3340.0,39.0,28.6,clear
+1244,Soyabean,Babhulgaon,2016-08-20,3251.0,9.0,27.0,clear
+1245,Soyabean,Ner Parasopant,2016-08-20,3300.0,1.0,27.0,clear
+1246,Soyabean,Babhulgaon,2016-08-23,3201.0,16.0,29.4,clear
+1247,Soyabean,Digras,2016-08-23,3450.0,5.0,29.4,clear
+1248,Soyabean,Ner Parasopant,2016-08-23,3200.0,8.0,29.4,clear
+1249,Soyabean,Pusad,2016-08-23,3435.0,28.0,29.4,clear
+1250,Soyabean,Yeotmal,2016-08-23,3250.0,57.0,29.4,clear
+1251,Soyabean,Babhulgaon,2016-08-24,3350.0,13.0,30.4,clear
+1252,Soyabean,Digras,2016-08-24,3285.0,4.0,30.4,clear
+1253,Soyabean,Ner Parasopant,2016-08-24,3200.0,5.0,30.4,clear
+1254,Soyabean,Yeotmal,2016-08-24,3270.0,38.0,30.4,clear
+1255,Soyabean,Babhulgaon,2016-08-26,3251.0,20.0,30.4,clear
+1256,Soyabean,Ner Parasopant,2016-08-26,3375.0,3.0,30.4,clear
+1257,Soyabean,Pusad,2016-08-26,3240.0,4.0,30.4,clear
+1258,Soyabean,Yeotmal,2016-08-26,3240.0,40.0,30.4,clear
+1259,Soyabean,Babhulgaon,2016-08-27,3201.0,10.0,30.4,clear
+1260,Soyabean,Ner Parasopant,2016-08-27,3100.0,5.0,30.4,clear
+1261,Soyabean,Pusad,2016-08-27,3300.0,2.0,30.4,clear
+1262,Sunflower,Pusad,2016-08-27,4805.0,0.0,30.4,clear
+1263,Soyabean,Babhulgaon,2016-08-29,3151.0,12.0,31.0,clear
+1264,Soyabean,Digras,2016-08-29,3150.0,9.0,31.0,clear
+1265,Soyabean,Ner Parasopant,2016-08-29,3150.0,3.0,31.0,clear
+1266,Soyabean,Umarked(Danki),2016-08-29,3900.0,7.0,31.0,clear
+1267,Soyabean,Yeotmal,2016-08-29,3175.0,17.0,31.0,clear
+1268,Soyabean,Babhulgaon,2016-08-30,3050.0,6.0,27.0,clear
+1269,Soyabean,Digras,2016-08-30,3175.0,9.0,27.0,clear
+1270,Soyabean,Ner Parasopant,2016-08-30,3200.0,1.0,27.0,clear
+1271,Soyabean,Pusad,2016-08-30,3255.0,24.0,27.0,clear
+1272,Soyabean,Vani,2016-08-30,2700.0,1.0,27.0,clear
+1273,Soyabean,Yeotmal,2016-08-30,3145.0,16.0,27.0,clear
+1274,Soyabean,Babhulgaon,2016-08-31,3100.0,5.0,25.4,clear
+1275,Soyabean,Ner Parasopant,2016-08-31,3200.0,1.0,25.4,clear
+1276,Soyabean,Yeotmal,2016-08-31,3160.0,16.0,25.4,clear
+1277,Soyabean,Babhulgaon,2016-06-09,3101.0,5.0,35.0,clear
+1278,Soyabean,Digras,2016-06-09,3315.0,8.0,35.0,clear
+1279,Soyabean,Ner Parasopant,2016-06-09,3200.0,2.0,35.0,clear
+1280,Soyabean,Pusad,2016-06-09,3250.0,6.0,35.0,clear
+1281,Soyabean,Yeotmal,2016-06-09,3050.0,8.0,35.0,clear
+1282,Soyabean,Babhulgaon,2016-07-09,3101.0,5.0,24.4,clear
+1283,Soyabean,Digras,2016-07-09,3275.0,5.0,24.4,clear
+1284,Soyabean,Ner Parasopant,2016-07-09,3250.0,1.0,24.4,clear
+1285,Soyabean,Pusad,2016-07-09,3300.0,2.0,24.4,clear
+1286,Soyabean,Vani,2016-07-09,2720.0,0.0,24.4,clear
+1287,Soyabean,Yeotmal,2016-07-09,3225.0,15.0,24.4,clear
+1288,Soyabean,Babhulgaon,2016-12-09,3051.0,3.0,25.4,clear
+1289,Soyabean,Ner Parasopant,2016-12-09,3000.0,0.0,25.4,clear
+1290,Soyabean,Pusad,2016-12-09,3320.0,0.0,25.4,clear
+1291,Soyabean,Yeotmal,2016-12-09,3255.0,6.0,25.4,clear
+1292,Soyabean,Babhulgaon,2016-09-14,3150.0,12.0,27.0,clear
+1293,Soyabean,Digras,2016-09-14,3200.0,1.0,27.0,clear
+1294,Soyabean,Pusad,2016-09-14,3315.0,2.0,27.0,clear
+1295,Soyabean,Umarked(Danki),2016-09-14,3700.0,7.0,27.0,clear
+1296,Soyabean,Yeotmal,2016-09-14,3160.0,9.0,27.0,clear
+1297,Soyabean,Babhulgaon,2016-09-19,3251.0,10.0,27.0,clear
+1298,Soyabean,Ner Parasopant,2016-09-19,3350.0,6.0,27.0,clear
+1299,Soyabean,Pusad,2016-09-19,3385.0,3.0,27.0,clear
+1300,Soyabean,Yeotmal,2016-09-19,3250.0,37.0,27.0,clear
+1301,Soyabean,Babhulgaon,2016-09-20,3301.0,13.0,26.6,clear
+1302,Soyabean,Ner Parasopant,2016-09-20,3400.0,4.0,26.6,clear
+1303,Soyabean,Pusad,2016-09-20,3400.0,9.0,26.6,clear
+1304,Soyabean,Vani,2016-09-20,2914.0,2.0,26.6,clear
+1305,Soyabean,Yeotmal,2016-09-20,3355.0,18.0,26.6,clear
+1306,Soyabean,Babhulgaon,2016-09-23,3251.0,20.0,26.4,clear
+1307,Soyabean,Digras,2016-09-23,3285.0,1.0,26.4,clear
+1308,Soyabean,Ner Parasopant,2016-09-23,3300.0,3.0,26.4,clear
+1309,Soyabean,Yeotmal,2016-09-23,3255.0,43.0,26.4,clear
+1310,Soyabean,Babhulgaon,2016-09-26,3101.0,15.0,25.4,clear
+1311,Soyabean,Digras,2016-09-26,3265.0,2.0,25.4,clear
+1312,Soyabean,Ner Parasopant,2016-09-26,3250.0,6.0,25.4,clear
+1313,Soyabean,Yeotmal,2016-09-26,3225.0,31.0,25.4,clear
+1314,Soyabean,Babhulgaon,2016-09-27,3151.0,15.0,29.0,clear
+1315,Soyabean,Ner Parasopant,2016-09-27,3150.0,4.0,29.0,clear
+1316,Soyabean,Pusad,2016-09-27,3170.0,7.0,29.0,clear
+1317,Soyabean,Yeotmal,2016-09-27,3250.0,31.0,29.0,clear
+1318,Soyabean,Babhulgaon,2016-03-10,3101.0,10.0,36.4,clear
+1319,Soyabean,Digras,2016-03-10,3197.0,1.0,36.4,clear
+1320,Soyabean,Pusad,2016-03-10,3275.0,27.0,36.4,clear
+1321,Soyabean,Yeotmal,2016-03-10,3199.0,14.0,36.4,clear
+1322,Soyabean,Babhulgaon,2016-04-10,3125.0,20.0,40.0,clear
+1323,Soyabean,Digras,2016-04-10,2875.0,1.0,40.0,clear
+1324,Soyabean,Ner Parasopant,2016-04-10,3300.0,1.0,40.0,clear
+1325,Soyabean,Yeotmal,2016-04-10,3175.0,14.0,40.0,clear
+1326,Soyabean,Babhulgaon,2016-10-24,2601.0,110.0,28.4,clear
+1327,Soyabean,Digras,2016-10-24,2795.0,92.0,28.4,clear
+1328,Soyabean,Kalamb,2016-10-24,2600.0,150.0,28.4,clear
+1329,Soyabean,Mahagaon,2016-10-24,2800.0,5.0,28.4,clear
+1330,Soyabean,Ner Parasopant,2016-10-24,2550.0,171.0,28.4,clear
+1331,Soyabean,Pandhakawada,2016-10-24,2575.0,69.0,28.4,clear
+1332,Soyabean,Umarked(Danki),2016-10-24,2600.0,335.0,28.4,clear
+1333,Soyabean,Umarkhed,2016-10-24,2600.0,465.0,28.4,clear
+1334,Soyabean,Vani,2016-10-24,2530.0,17.0,28.4,clear
+1335,Soyabean,Yeotmal,2016-10-24,2385.0,351.0,28.4,clear
+1336,Soyabean,ZariZamini,2016-10-24,2522.0,5.0,28.4,clear
+1337,Soyabean,Babhulgaon,2016-10-25,2501.0,110.0,28.4,clear
+1338,Soyabean,Digras,2016-10-25,2805.0,53.0,28.4,clear
+1339,Soyabean,Kalamb,2016-10-25,2650.0,70.0,28.4,clear
+1340,Soyabean,Ner Parasopant,2016-10-25,2550.0,127.0,28.4,clear
+1341,Soyabean,Pandhakawada,2016-10-25,2500.0,34.0,28.4,clear
+1342,Soyabean,Umarked(Danki),2016-10-25,2600.0,86.0,28.4,clear
+1343,Soyabean,Umarkhed,2016-10-25,2600.0,128.0,28.4,clear
+1344,Soyabean,Vani,2016-10-25,2447.0,19.0,28.4,clear
+1345,Soyabean,Yeotmal,2016-10-25,2495.0,155.0,28.4,clear
+1346,Soyabean,ZariZamini,2016-10-25,2463.0,14.0,28.4,clear
+1347,Soyabean,Babhulgaon,2016-10-26,2501.0,140.0,28.4,clear
+1348,Soyabean,Kalamb,2016-10-26,2600.0,105.0,28.4,clear
+1349,Soyabean,Mahagaon,2016-10-26,2800.0,21.0,28.4,clear
+1350,Soyabean,Ner Parasopant,2016-10-26,2600.0,116.0,28.4,clear
+1351,Soyabean,Pandhakawada,2016-10-26,2550.0,41.0,28.4,clear
+1352,Soyabean,Pusad,2016-10-26,2755.0,207.0,28.4,clear
+1353,Soyabean,Umarked(Danki),2016-10-26,2600.0,82.0,28.4,clear
+1354,Soyabean,Umarkhed,2016-10-26,2600.0,146.0,28.4,clear
+1355,Soyabean,Vani,2016-10-26,2476.0,12.0,28.4,clear
+1356,Soyabean,Yeotmal,2016-10-26,2650.0,207.0,28.4,clear
+1357,Soyabean,ZariZamini,2016-10-26,2431.0,9.0,28.4,clear
+1358,Soyabean,Babhulgaon,2016-05-11,2601.0,120.0,38.4,clear
+1359,Soyabean,Mahagaon,2016-05-11,2800.0,5.0,38.4,clear
+1360,Soyabean,Ner Parasopant,2016-05-11,2650.0,140.0,38.4,clear
+1361,Soyabean,Umarked(Danki),2016-05-11,2750.0,44.0,38.4,clear
+1362,Soyabean,Umarkhed,2016-05-11,2780.0,56.0,38.4,clear
+1363,Soyabean,ZariZamini,2016-05-11,2595.0,10.0,38.4,clear
+1364,Soyabean,Babhulgaon,2016-07-11,2551.0,140.0,23.6,clear
+1365,Soyabean,Digras,2016-07-11,2785.0,119.0,23.6,clear
+1366,Soyabean,Kalamb,2016-07-11,2600.0,570.0,23.6,clear
+1367,Soyabean,Mahagaon,2016-07-11,2800.0,67.0,23.6,clear
+1368,Soyabean,Ner Parasopant,2016-07-11,2600.0,193.0,23.6,clear
+1369,Soyabean,Pandhakawada,2016-07-11,2800.0,56.0,23.6,clear
+1370,Soyabean,Umarked(Danki),2016-07-11,2680.0,21.0,23.6,clear
+1371,Soyabean,Umarkhed,2016-07-11,2680.0,84.0,23.6,clear
+1372,Soyabean,Vani,2016-07-11,2528.0,33.0,23.6,clear
+1373,Soyabean,Yeotmal,2016-07-11,2585.0,620.0,23.6,clear
+1374,Soyabean,ZariZamini,2016-07-11,2606.0,10.0,23.6,clear
+1375,Soyabean,Babhulgaon,2016-08-11,2501.0,120.0,29.4,clear
+1376,Soyabean,Digras,2016-08-11,2585.0,82.0,29.4,clear
+1377,Soyabean,Ghatanji,2016-08-11,2650.0,11.0,29.4,clear
+1378,Soyabean,Kalamb,2016-08-11,2500.0,170.0,29.4,clear
+1379,Soyabean,Mahagaon,2016-08-11,2800.0,8.0,29.4,clear
+1380,Soyabean,Ner Parasopant,2016-08-11,2600.0,131.0,29.4,clear
+1381,Soyabean,Pandhakawada,2016-08-11,2625.0,32.0,29.4,clear
+1382,Soyabean,Umarked(Danki),2016-08-11,2720.0,39.0,29.4,clear
+1383,Soyabean,Umarkhed,2016-08-11,2720.0,62.0,29.4,clear
+1384,Soyabean,Vani,2016-08-11,2602.0,13.0,29.4,clear
+1385,Soyabean,Yeotmal,2016-08-11,2580.0,351.0,29.4,clear
+1386,Soyabean,ZariZamini,2016-08-11,2591.0,17.0,29.4,clear
+1387,Soyabean,Babhulgaon,2016-09-11,2501.0,110.0,28.0,clear
+1388,Soyabean,Digras,2016-09-11,2585.0,16.0,28.0,clear
+1389,Soyabean,Pandhakawada,2016-09-11,2575.0,12.0,28.0,clear
+1390,Soyabean,Umarked(Danki),2016-09-11,2690.0,31.0,28.0,clear
+1391,Soyabean,Umarkhed,2016-09-11,2680.0,61.0,28.0,clear
+1392,Soyabean,Vani,2016-09-11,2525.0,6.0,28.0,clear
+1393,Soyabean,Yeotmal,2016-09-11,2575.0,236.0,28.0,clear
+1394,Soyabean,ZariZamini,2016-09-11,2577.0,8.0,28.0,clear
+1395,Soyabean,Babhulgaon,2016-11-11,2501.0,40.0,25.4,clear
+1396,Soyabean,Digras,2016-11-11,2565.0,15.0,25.4,clear
+1397,Soyabean,Umarked(Danki),2016-11-11,2600.0,14.0,25.4,clear
+1398,Soyabean,Umarkhed,2016-11-11,2600.0,16.0,25.4,clear
+1399,Soyabean,Vani,2016-11-11,2430.0,18.0,25.4,clear
+1400,Soyabean,Babhulgaon,2016-11-16,2525.0,92.0,26.4,clear
+1401,Soyabean,Digras,2016-11-16,2685.0,5.0,26.4,clear
+1402,Soyabean,Pandhakawada,2016-11-16,2650.0,14.0,26.4,clear
+1403,Soyabean,Umarked(Danki),2016-11-16,2650.0,21.0,26.4,clear
+1404,Soyabean,Umarkhed,2016-11-16,2650.0,31.0,26.4,clear
+1405,Soyabean,ZariZamini,2016-11-16,2265.0,2.0,26.4,clear
+1406,Soyabean,Babhulgaon,2016-11-18,2701.0,100.0,26.4,clear
+1407,Soyabean,Digras,2016-11-18,2785.0,27.0,26.4,clear
+1408,Soyabean,Kalamb,2016-11-18,2700.0,41.0,26.4,clear
+1409,Soyabean,Ner Parasopant,2016-11-18,2600.0,61.0,26.4,clear
+1410,Soyabean,Pandhakawada,2016-11-18,2775.0,23.0,26.4,clear
+1411,Soyabean,Umarked(Danki),2016-11-18,2650.0,19.0,26.4,clear
+1412,Soyabean,Umarkhed,2016-11-18,2650.0,7.0,26.4,clear
+1413,Soyabean,Vani,2016-11-18,2699.0,15.0,26.4,clear
+1414,Soyabean,ZariZamini,2016-11-18,2688.0,6.0,26.4,clear
+1415,Soyabean,Babhulgaon,2016-11-19,2651.0,100.0,25.4,clear
+1416,Soyabean,Kalamb,2016-11-19,2500.0,31.0,25.4,clear
+1417,Soyabean,Ner Parasopant,2016-11-19,2650.0,86.0,25.4,clear
+1418,Soyabean,ZariZamini,2016-11-19,2780.0,7.0,25.4,clear
+1419,Soyabean,Babhulgaon,2016-12-26,2601.0,90.0,25.0,clear
+1420,Soyabean,Bori Arab,2016-12-26,2780.0,2.0,25.0,clear
+1421,Soyabean,Digras,2016-12-26,2795.0,15.0,25.0,clear
+1422,Soyabean,Ghatanji,2016-12-26,2550.0,11.0,25.0,clear
+1423,Soyabean,Kalamb,2016-12-26,2800.0,33.0,25.0,clear
+1424,Soyabean,Ner Parasopant,2016-12-26,2750.0,60.0,25.0,clear
+1425,Soyabean,Pandhakawada,2016-12-26,2700.0,15.0,25.0,clear
+1426,Soyabean,Umarkhed,2016-12-26,2695.0,33.0,25.0,clear
+1427,Soyabean,Vani,2016-12-26,2775.0,26.0,25.0,clear
+1428,Soyabean,Yeotmal,2016-12-26,2640.0,131.0,25.0,clear
+1429,Soyabean,Bori Arab,2016-01-27,3500.0,2.0,30.0,clear
+1430,Soyabean,Digras,2016-01-27,3695.0,8.0,30.0,clear
+1431,Soyabean,Kalamb,2016-01-27,3500.0,15.0,30.0,clear
+1432,Soyabean,Ner Parasopant,2016-01-27,3575.0,31.0,30.0,clear
+1433,Soyabean,Umarkhed,2016-01-27,3500.0,8.0,30.0,clear
+1434,Soyabean,Vani,2016-01-27,3545.0,15.0,30.0,clear
+1435,Soyabean,Bori Arab,2016-01-28,3500.0,1.0,29.4,clear
+1436,Soyabean,Ghatanji,2016-01-28,3500.0,2.0,29.4,clear
+1437,Soyabean,Kalamb,2016-01-28,3450.0,7.0,29.4,clear
+1438,Soyabean,Ner Parasopant,2016-01-28,3600.0,50.0,29.4,clear
+1439,Soyabean,Umarked(Danki),2016-01-28,3400.0,14.0,29.4,clear
+1440,Soyabean,Umarkhed,2016-01-28,3400.0,8.0,29.4,clear
+1441,Soyabean,Vani,2016-01-28,3560.0,26.0,29.4,clear
+1442,Soyabean,Bori Arab,2016-12-22,2785.0,3.0,25.4,clear
+1443,Soyabean,Digras,2016-12-22,4835.0,27.0,25.4,clear
+1444,Soyabean,Ghatanji,2016-12-22,2560.0,6.0,25.4,clear
+1445,Soyabean,Kalamb,2016-12-22,2700.0,28.0,25.4,clear
+1446,Soyabean,Ner Parasopant,2016-12-22,2650.0,78.0,25.4,clear
+1447,Soyabean,Pandhakawada,2016-12-22,2700.0,21.0,25.4,clear
+1448,Soyabean,Umarkhed,2016-12-22,2700.0,47.0,25.4,clear
+1449,Soyabean,Vani,2016-12-22,2700.0,13.0,25.4,clear
+1450,Soyabean,Yeotmal,2016-12-22,2815.0,236.0,25.4,clear
+1451,Soyabean,Darwha,2016-11-15,2785.0,1.0,27.0,clear
+1452,Soyabean,Digras,2016-11-15,2665.0,3.0,27.0,clear
+1453,Soyabean,Ner Parasopant,2016-11-15,2550.0,54.0,27.0,clear
+1454,Soyabean,Pandhakawada,2016-11-15,2550.0,10.0,27.0,clear
+1455,Soyabean,Umarked(Danki),2016-11-15,2650.0,11.0,27.0,clear
+1456,Soyabean,Vani,2016-11-15,2545.0,13.0,27.0,clear
+1457,Soyabean,ZariZamini,2016-11-15,2265.0,4.0,27.0,clear
+1458,Soyabean,Darwha,2016-11-17,2770.0,2.0,25.4,clear
+1459,Soyabean,Digras,2016-11-17,2685.0,14.0,25.4,clear
+1460,Soyabean,Ner Parasopant,2016-11-17,2650.0,53.0,25.4,clear
+1461,Soyabean,Pandhakawada,2016-11-17,2775.0,20.0,25.4,clear
+1462,Soyabean,Umarked(Danki),2016-11-17,2640.0,24.0,25.4,clear
+1463,Soyabean,Vani,2016-11-17,2725.0,9.0,25.4,clear
+1464,Soyabean,ZariZamini,2016-11-17,2503.0,3.0,25.4,clear
+1465,Soyabean,Digras,2016-07-01,3625.0,25.0,30.0,clear
+1466,Soyabean,Ghatanji,2016-07-01,3495.0,5.0,30.0,clear
+1467,Soyabean,Kalamb,2016-07-01,3350.0,7.0,30.0,clear
+1468,Soyabean,Ner Parasopant,2016-07-01,3400.0,25.0,30.0,clear
+1469,Soyabean,Pandhakawada,2016-07-01,3330.0,3.0,30.0,clear
+1470,Soyabean,Vani,2016-07-01,3504.0,18.0,30.0,clear
+1471,Soyabean,Yeotmal,2016-07-01,3550.0,75.0,30.0,clear
+1472,Soyabean,Digras,2016-11-01,3525.0,30.0,27.0,clear
+1473,Soyabean,Kalamb,2016-11-01,3500.0,19.0,27.0,clear
+1474,Soyabean,Ner Parasopant,2016-11-01,3400.0,28.0,27.0,clear
+1475,Soyabean,Vani,2016-11-01,3401.0,14.0,27.0,clear
+1476,Soyabean,Yeotmal,2016-11-01,3570.0,116.0,27.0,clear
+1477,Soyabean,Digras,2016-01-14,3565.0,10.0,30.0,clear
+1478,Soyabean,Kalamb,2016-01-14,3500.0,11.0,30.0,clear
+1479,Soyabean,Ner Parasopant,2016-01-14,3400.0,16.0,30.0,clear
+1480,Soyabean,Vani,2016-01-14,3534.0,19.0,30.0,clear
+1481,Soyabean,Yeotmal,2016-01-14,3650.0,65.0,30.0,clear
+1482,Soyabean,Digras,2016-01-21,3615.0,9.0,22.4,clear
+1483,Soyabean,Kalamb,2016-01-21,3500.0,6.0,22.4,clear
+1484,Soyabean,Ner Parasopant,2016-01-21,3650.0,48.0,22.4,clear
+1485,Soyabean,Vani,2016-01-21,3560.0,17.0,22.4,clear
+1486,Soyabean,Yeotmal,2016-01-21,3599.0,137.0,22.4,clear
+1487,Soyabean,ZariZamini,2016-01-21,3470.0,1.0,22.4,clear
+1488,Soyabean,Digras,2016-04-02,3685.0,11.0,40.0,clear
+1489,Soyabean,Ghatanji,2016-04-02,3500.0,1.0,40.0,clear
+1490,Soyabean,Kalamb,2016-04-02,3500.0,6.0,40.0,clear
+1491,Soyabean,Ner Parasopant,2016-04-02,3650.0,24.0,40.0,clear
+1492,Soyabean,Pandhakawada,2016-04-02,3450.0,2.0,40.0,clear
+1493,Soyabean,Umarked(Danki),2016-04-02,3500.0,25.0,40.0,clear
+1494,Soyabean,Umarkhed,2016-04-02,3500.0,11.0,40.0,clear
+1495,Soyabean,Vani,2016-04-02,3493.0,10.0,40.0,clear
+1496,Soyabean,Yeotmal,2016-04-02,3599.0,85.0,40.0,clear
+1497,Soyabean,Digras,2016-11-02,3695.0,15.0,26.0,clear
+1498,Soyabean,Kalamb,2016-11-02,3450.0,4.0,26.0,clear
+1499,Soyabean,Ner Parasopant,2016-11-02,3550.0,16.0,26.0,clear
+1500,Soyabean,Vani,2016-11-02,3526.0,13.0,26.0,clear
+1501,Soyabean,Yeotmal,2016-11-02,3590.0,76.0,26.0,clear
+1502,Soyabean,Digras,2016-02-18,3685.0,12.0,34.0,clear
+1503,Soyabean,Ghatanji,2016-02-18,4105.0,5.0,34.0,clear
+1504,Soyabean,Kalamb,2016-02-18,3350.0,4.0,34.0,clear
+1505,Soyabean,Ner Parasopant,2016-02-18,3500.0,19.0,34.0,clear
+1506,Soyabean,Umarked(Danki),2016-02-18,3500.0,9.0,34.0,clear
+1507,Soyabean,Vani,2016-02-18,3525.0,13.0,34.0,clear
+1508,Soyabean,Yeotmal,2016-02-18,3610.0,91.0,34.0,clear
+1509,Soyabean,Digras,2016-02-25,3590.0,2.0,33.6,clear
+1510,Soyabean,Kalamb,2016-02-25,3400.0,4.0,33.6,clear
+1511,Soyabean,Ner Parasopant,2016-02-25,3450.0,13.0,33.6,clear
+1512,Soyabean,Pandhakawada,2016-02-25,3450.0,8.0,33.6,clear
+1513,Soyabean,Vani,2016-02-25,3482.0,22.0,33.6,clear
+1514,Soyabean,Yeotmal,2016-02-25,3595.0,64.0,33.6,clear
+1515,Soyabean,Digras,2016-02-29,3595.0,4.0,33.2,clear
+1516,Soyabean,Ner Parasopant,2016-02-29,3400.0,14.0,33.2,clear
+1517,Soyabean,Umarked(Danki),2016-02-29,3400.0,7.0,33.2,clear
+1518,Soyabean,Umarkhed,2016-02-29,3500.0,18.0,33.2,clear
+1519,Soyabean,Vani,2016-02-29,3450.0,17.0,33.2,clear
+1520,Soyabean,Yeotmal,2016-02-29,3599.0,62.0,33.2,clear
+1521,Soyabean,Digras,2016-03-03,3590.0,3.0,34.0,clear
+1522,Soyabean,Kalamb,2016-03-03,3300.0,7.0,34.0,clear
+1523,Soyabean,Ner Parasopant,2016-03-03,3500.0,17.0,34.0,clear
+1524,Soyabean,Pandhakawada,2016-03-03,3500.0,2.0,34.0,clear
+1525,Soyabean,Umarked(Danki),2016-03-03,3300.0,7.0,34.0,clear
+1526,Soyabean,Vani,2016-03-03,3354.0,6.0,34.0,clear
+1527,Soyabean,Yeotmal,2016-03-03,3495.0,77.0,34.0,clear
+1528,Soyabean,Digras,2016-10-03,3500.0,3.0,27.6,clear
+1529,Soyabean,Kalamb,2016-10-03,3400.0,3.0,27.6,clear
+1530,Soyabean,Ner Parasopant,2016-10-03,3600.0,24.0,27.6,clear
+1531,Soyabean,Pandhakawada,2016-10-03,3450.0,4.0,27.6,clear
+1532,Soyabean,Vani,2016-10-03,3485.0,7.0,27.6,clear
+1533,Soyabean,Yeotmal,2016-10-03,3599.0,75.0,27.6,clear
+1534,Soyabean,Digras,2016-03-17,3665.0,9.0,35.4,clear
+1535,Soyabean,Ghatanji,2016-03-17,3585.0,2.0,35.4,clear
+1536,Soyabean,Kalamb,2016-03-17,4000.0,1.0,35.4,clear
+1537,Soyabean,Ner Parasopant,2016-03-17,3575.0,50.0,35.4,clear
+1538,Soyabean,Vani,2016-03-17,3546.0,8.0,35.4,clear
+1539,Soyabean,Yeotmal,2016-03-17,3585.0,121.0,35.4,clear
+1540,Soyabean,Digras,2016-04-04,4185.0,9.0,40.4,clear
+1541,Soyabean,Kalamb,2016-04-04,3900.0,2.0,40.4,clear
+1542,Soyabean,Ner Parasopant,2016-04-04,3850.0,45.0,40.4,clear
+1543,Soyabean,Pandhakawada,2016-04-04,3850.0,2.0,40.4,clear
+1544,Soyabean,Umarked(Danki),2016-04-04,3600.0,7.0,40.4,clear
+1545,Soyabean,Umarkhed,2016-04-04,3500.0,3.0,40.4,clear
+1546,Soyabean,Vani,2016-04-04,3800.0,6.0,40.4,clear
+1547,Soyabean,Digras,2016-07-04,3995.0,13.0,26.4,clear
+1548,Soyabean,Kalamb,2016-07-04,3600.0,2.0,26.4,clear
+1549,Soyabean,Ner Parasopant,2016-07-04,3800.0,82.0,26.4,clear
+1550,Soyabean,Vani,2016-07-04,3828.0,6.0,26.4,clear
+1551,Soyabean,Digras,2016-04-20,4050.0,23.0,41.4,clear
+1552,Soyabean,Kalamb,2016-04-20,3800.0,4.0,41.4,clear
+1553,Soyabean,Ner Parasopant,2016-04-20,3900.0,62.0,41.4,clear
+1554,Soyabean,Vani,2016-04-20,3772.0,15.0,41.4,clear
+1555,Soyabean,Digras,2016-04-21,4035.0,23.0,42.0,clear
+1556,Soyabean,Kalamb,2016-04-21,3850.0,3.0,42.0,clear
+1557,Soyabean,Ner Parasopant,2016-04-21,3950.0,65.0,42.0,clear
+1558,Soyabean,Umarked(Danki),2016-04-21,3700.0,6.0,42.0,clear
+1559,Soyabean,Umarkhed,2016-04-21,3700.0,6.0,42.0,clear
+1560,Soyabean,Vani,2016-04-21,3662.0,13.0,42.0,clear
+1561,Soyabean,Digras,2016-05-05,3865.0,5.0,38.0,clear
+1562,Soyabean,Kalamb,2016-05-05,3400.0,2.0,38.0,clear
+1563,Soyabean,Ner Parasopant,2016-05-05,3650.0,22.0,38.0,clear
+1564,Soyabean,Umarkhed,2016-05-05,3508.0,12.0,38.0,clear
+1565,Soyabean,Vani,2016-05-05,3722.0,7.0,38.0,clear
+1566,Soyabean,Yeotmal,2016-05-05,3750.0,52.0,38.0,clear
+1567,Soyabean,Digras,2016-12-05,3885.0,11.0,25.0,clear
+1568,Soyabean,Kalamb,2016-12-05,3700.0,3.0,25.0,clear
+1569,Soyabean,Vani,2016-12-05,3756.0,14.0,25.0,clear
+1570,Soyabean,Yeotmal,2016-12-05,3750.0,51.0,25.0,clear
+1571,Soyabean,Digras,2016-05-18,3800.0,8.0,43.4,clear
+1572,Soyabean,Kalamb,2016-05-18,3650.0,4.0,43.4,clear
+1573,Soyabean,Ner Parasopant,2016-05-18,3750.0,33.0,43.4,clear
+1574,Soyabean,Pusad,2016-05-18,5485.0,222.0,43.4,clear
+1575,Soyabean,Vani,2016-05-18,3790.0,5.0,43.4,clear
+1576,Soyabean,Yeotmal,2016-05-18,3750.0,87.0,43.4,clear
+1577,Soyabean,Digras,2016-05-19,3775.0,10.0,41.0,clear
+1578,Soyabean,Ghatanji,2016-05-19,3550.0,1.0,41.0,clear
+1579,Soyabean,Kalamb,2016-05-19,3650.0,4.0,41.0,clear
+1580,Soyabean,Ner Parasopant,2016-05-19,3750.0,31.0,41.0,clear
+1581,Soyabean,Vani,2016-05-19,3500.0,20.0,41.0,clear
+1582,Soyabean,Yeotmal,2016-05-19,3650.0,97.0,41.0,clear
+1583,Soyabean,Digras,2016-05-26,3835.0,3.0,40.4,clear
+1584,Soyabean,Kalamb,2016-05-26,3600.0,2.0,40.4,clear
+1585,Soyabean,Ner Parasopant,2016-05-26,3650.0,15.0,40.4,clear
+1586,Soyabean,Umarked(Danki),2016-05-26,3600.0,15.0,40.4,clear
+1587,Soyabean,Vani,2016-05-26,3600.0,29.0,40.4,clear
+1588,Soyabean,Yeotmal,2016-05-26,3675.0,45.0,40.4,clear
+1589,Soyabean,Digras,2016-02-06,3765.0,8.0,32.0,clear
+1590,Soyabean,Kalamb,2016-02-06,3500.0,1.0,32.0,clear
+1591,Soyabean,Ner Parasopant,2016-02-06,3550.0,9.0,32.0,clear
+1592,Soyabean,Vani,2016-02-06,3605.0,18.0,32.0,clear
+1593,Soyabean,Yeotmal,2016-02-06,3590.0,27.0,32.0,clear
+1594,Soyabean,Digras,2016-09-06,3835.0,5.0,28.6,clear
+1595,Soyabean,Ner Parasopant,2016-09-06,3650.0,19.0,28.6,clear
+1596,Soyabean,Vani,2016-09-06,3690.0,9.0,28.6,clear
+1597,Soyabean,Yeotmal,2016-09-06,3650.0,60.0,28.6,clear
+1598,Soyabean,Digras,2016-06-16,3835.0,1.0,38.0,clear
+1599,Soyabean,Ner Parasopant,2016-06-16,3550.0,3.0,38.0,clear
+1600,Soyabean,Umarked(Danki),2016-06-16,3700.0,5.0,38.0,clear
+1601,Soyabean,Vani,2016-06-16,3720.0,7.0,38.0,clear
+1602,Soyabean,Yeotmal,2016-06-16,3675.0,27.0,38.0,clear
+1603,Soyabean,Digras,2016-05-07,3745.0,2.0,34.4,clear
+1604,Soyabean,Ner Parasopant,2016-05-07,3500.0,5.0,34.4,clear
+1605,Soyabean,Pusad,2016-05-07,3600.0,66.0,34.4,clear
+1606,Soyabean,Vani,2016-05-07,3490.0,8.0,34.4,clear
+1607,Soyabean,Yeotmal,2016-05-07,3650.0,65.0,34.4,clear
+1608,Soyabean,Digras,2016-07-13,3535.0,0.0,29.4,clear
+1609,Soyabean,Vani,2016-07-13,3450.0,2.0,29.4,clear
+1610,Soyabean,Digras,2016-07-25,3625.0,2.0,27.0,clear
+1611,Soyabean,Ner Parasopant,2016-07-25,3600.0,6.0,27.0,clear
+1612,Soyabean,Digras,2016-07-26,3582.0,8.0,30.0,clear
+1613,Soyabean,Ner Parasopant,2016-07-26,3500.0,1.0,30.0,clear
+1614,Soyabean,Umarked(Danki),2016-07-26,3700.0,7.0,30.0,clear
+1615,Soyabean,Digras,2016-07-27,3500.0,5.0,26.0,clear
+1616,Soyabean,Kalamb,2016-07-27,3200.0,3.0,26.0,clear
+1617,Soyabean,Ner Parasopant,2016-07-27,3550.0,10.0,26.0,clear
+1618,Soyabean,Pusad,2016-07-27,3580.0,18.0,26.0,clear
+1619,Soyabean,Digras,2016-07-28,3560.0,4.0,30.4,clear
+1620,Soyabean,Kalamb,2016-07-28,3200.0,3.0,30.4,clear
+1621,Soyabean,Ner Parasopant,2016-07-28,3600.0,2.0,30.4,clear
+1622,Soyabean,Pusad,2016-07-28,3575.0,9.0,30.4,clear
+1623,Soyabean,Digras,2016-07-29,3525.0,5.0,29.4,clear
+1624,Soyabean,Kalamb,2016-07-29,3100.0,2.0,29.4,clear
+1625,Soyabean,Ner Parasopant,2016-07-29,3400.0,8.0,29.4,clear
+1626,Soyabean,Digras,2016-01-08,3565.0,3.0,28.4,clear
+1627,Soyabean,Kalamb,2016-01-08,3300.0,1.0,28.4,clear
+1628,Soyabean,Ner Parasopant,2016-01-08,3450.0,10.0,28.4,clear
+1629,Soyabean,Pandhakawada,2016-01-08,3300.0,1.0,28.4,clear
+1630,Soyabean,Yeotmal,2016-01-08,3500.0,0.0,28.4,clear
+1631,Soyabean,Digras,2016-04-08,3485.0,5.0,38.0,clear
+1632,Soyabean,Kalamb,2016-04-08,3100.0,1.0,38.0,clear
+1633,Soyabean,Ner Parasopant,2016-04-08,3500.0,6.0,38.0,clear
+1634,Soyabean,Pusad,2016-04-08,3565.0,10.0,38.0,clear
+1635,Soyabean,Umarkhed,2016-04-08,3700.0,13.0,38.0,clear
+1636,Soyabean,Digras,2016-08-08,3585.0,5.0,29.0,clear
+1637,Soyabean,Ner Parasopant,2016-08-08,3550.0,7.0,29.0,clear
+1638,Soyabean,Digras,2016-09-08,3650.0,5.0,29.4,clear
+1639,Soyabean,Kalamb,2016-09-08,3350.0,5.0,29.4,clear
+1640,Soyabean,Ner Parasopant,2016-09-08,3500.0,10.0,29.4,clear
+1641,Soyabean,Pusad,2016-09-08,3600.0,10.0,29.4,clear
+1642,Soyabean,Vani,2016-09-08,3050.0,1.0,29.4,clear
+1643,Soyabean,Digras,2016-10-08,3565.0,5.0,26.0,clear
+1644,Soyabean,Ner Parasopant,2016-10-08,3500.0,13.0,26.0,clear
+1645,Soyabean,Pusad,2016-10-08,3580.0,43.0,26.0,clear
+1646,Soyabean,Vani,2016-10-08,2690.0,1.0,26.0,clear
+1647,Soyabean,Digras,2016-11-08,3645.0,5.0,28.0,clear
+1648,Soyabean,Ner Parasopant,2016-11-08,3400.0,8.0,28.0,clear
+1649,Soyabean,Pusad,2016-11-08,3575.0,16.0,28.0,clear
+1650,Soyabean,Digras,2016-12-08,3575.0,11.0,25.4,clear
+1651,Soyabean,Ner Parasopant,2016-12-08,3450.0,14.0,25.4,clear
+1652,Soyabean,Umarkhed,2016-12-08,3700.0,7.0,25.4,clear
+1653,Soyabean,Digras,2016-08-16,3455.0,9.0,28.0,clear
+1654,Soyabean,Kalamb,2016-08-16,3250.0,5.0,28.0,clear
+1655,Soyabean,Ner Parasopant,2016-08-16,3400.0,6.0,28.0,clear
+1656,Soyabean,Yeotmal,2016-08-16,3400.0,19.0,28.0,clear
+1657,Soyabean,Digras,2016-08-22,3385.0,8.0,28.4,clear
+1658,Soyabean,Ner Parasopant,2016-08-22,3200.0,4.0,28.4,clear
+1659,Soyabean,Yeotmal,2016-08-22,3280.0,61.0,28.4,clear
+1660,Soyabean,Digras,2016-08-25,3200.0,1.0,30.0,clear
+1661,Soyabean,Ner Parasopant,2016-08-25,3200.0,0.0,30.0,clear
+1662,Soyabean,Yeotmal,2016-08-25,3250.0,27.0,30.0,clear
+1663,Soyabean,Digras,2016-09-15,3170.0,1.0,24.0,clear
+1664,Soyabean,Ner Parasopant,2016-09-15,3150.0,2.0,24.0,clear
+1665,Soyabean,Yeotmal,2016-09-15,3185.0,8.0,24.0,clear
+1666,Soyabean,Digras,2016-09-16,3280.0,0.0,29.0,clear
+1667,Soyabean,Pusad,2016-09-16,3250.0,6.0,29.0,clear
+1668,Soyabean,Yeotmal,2016-09-16,3240.0,7.0,29.0,clear
+1669,Soyabean,Digras,2016-09-22,3400.0,2.0,29.4,clear
+1670,Soyabean,Ner Parasopant,2016-09-22,3350.0,7.0,29.4,clear
+1671,Soyabean,Umarked(Danki),2016-09-22,3500.0,7.0,29.4,clear
+1672,Soyabean,Yeotmal,2016-09-22,3275.0,40.0,29.4,clear
+1673,Soyabean,Digras,2016-09-28,3185.0,1.0,29.4,clear
+1674,Soyabean,Ner Parasopant,2016-09-28,3200.0,1.0,29.4,clear
+1675,Soyabean,Pusad,2016-09-28,3355.0,10.0,29.4,clear
+1676,Soyabean,Yeotmal,2016-09-28,3195.0,19.0,29.4,clear
+1677,Soyabean,Digras,2016-09-29,3245.0,9.0,28.4,clear
+1678,Soyabean,Ner Parasopant,2016-09-29,3150.0,7.0,28.4,clear
+1679,Soyabean,Pusad,2016-09-29,3255.0,11.0,28.4,clear
+1680,Soyabean,Yeotmal,2016-09-29,3260.0,19.0,28.4,clear
+1681,Soyabean,Digras,2016-05-10,2775.0,1.0,38.0,clear
+1682,Soyabean,Ner Parasopant,2016-05-10,3000.0,3.0,38.0,clear
+1683,Soyabean,Vani,2016-05-10,2800.0,1.0,38.0,clear
+1684,Soyabean,Yeotmal,2016-05-10,3195.0,53.0,38.0,clear
+1685,Soyabean,Digras,2016-06-10,2780.0,0.0,36.0,clear
+1686,Soyabean,Ner Parasopant,2016-06-10,3000.0,3.0,36.0,clear
+1687,Soyabean,Umarked(Danki),2016-06-10,3100.0,12.0,36.0,clear
+1688,Soyabean,Vani,2016-06-10,2830.0,1.0,36.0,clear
+1689,Soyabean,Yeotmal,2016-06-10,3195.0,46.0,36.0,clear
+1690,Soyabean,Digras,2016-07-10,3205.0,1.0,24.0,clear
+1691,Soyabean,Ner Parasopant,2016-07-10,2950.0,9.0,24.0,clear
+1692,Soyabean,Umarked(Danki),2016-07-10,3050.0,20.0,24.0,clear
+1693,Soyabean,Umarkhed,2016-07-10,3050.0,25.0,24.0,clear
+1694,Soyabean,Yeotmal,2016-07-10,3175.0,48.0,24.0,clear
+1695,Soyabean,Digras,2016-10-14,2855.0,27.0,28.0,clear
+1696,Soyabean,Pusad,2016-10-14,2875.0,107.0,28.0,clear
+1697,Soyabean,Umarked(Danki),2016-10-14,2900.0,84.0,28.0,clear
+1698,Soyabean,Umarkhed,2016-10-14,2900.0,71.0,28.0,clear
+1699,Soyabean,Digras,2016-10-27,2575.0,22.0,27.0,clear
+1700,Soyabean,Kalamb,2016-10-27,2650.0,66.0,27.0,clear
+1701,Soyabean,Ner Parasopant,2016-10-27,2600.0,118.0,27.0,clear
+1702,Soyabean,Pandhakawada,2016-10-27,2550.0,50.0,27.0,clear
+1703,Soyabean,Umarked(Danki),2016-10-27,2650.0,82.0,27.0,clear
+1704,Soyabean,Umarkhed,2016-10-27,2650.0,103.0,27.0,clear
+1705,Soyabean,Vani,2016-10-27,2545.0,17.0,27.0,clear
+1706,Soyabean,Yeotmal,2016-10-27,2645.0,106.0,27.0,clear
+1707,Soyabean,ZariZamini,2016-10-27,2648.0,10.0,27.0,clear
+1708,Soyabean,Digras,2016-10-28,2795.0,37.0,26.0,clear
+1709,Soyabean,Kalamb,2016-10-28,2650.0,366.0,26.0,clear
+1710,Soyabean,Ner Parasopant,2016-10-28,2775.0,80.0,26.0,clear
+1711,Soyabean,Pandhakawada,2016-10-28,2600.0,45.0,26.0,clear
+1712,Soyabean,Umarked(Danki),2016-10-28,2650.0,71.0,26.0,clear
+1713,Soyabean,Umarkhed,2016-10-28,2650.0,143.0,26.0,clear
+1714,Soyabean,Vani,2016-10-28,2499.0,8.0,26.0,clear
+1715,Soyabean,ZariZamini,2016-10-28,2672.0,23.0,26.0,clear
+1716,Soyabean,Digras,2016-10-11,2565.0,5.0,29.4,clear
+1717,Soyabean,Mahagaon,2016-10-11,2700.0,8.0,29.4,clear
+1718,Soyabean,Ner Parasopant,2016-10-11,2550.0,52.0,29.4,clear
+1719,Soyabean,Pandhakawada,2016-10-11,2475.0,2.0,29.4,clear
+1720,Soyabean,Umarked(Danki),2016-10-11,2650.0,37.0,29.4,clear
+1721,Soyabean,Umarkhed,2016-10-11,2650.0,16.0,29.4,clear
+1722,Soyabean,Vani,2016-10-11,2411.0,6.0,29.4,clear
+1723,Soyabean,Yeotmal,2016-10-11,2575.0,156.0,29.4,clear
+1724,Soyabean,Ghatanji,2016-04-29,3700.0,3.0,41.0,clear
+1725,Soyabean,Ner Parasopant,2016-04-29,3650.0,9.0,41.0,clear
+1726,Soyabean,Pusad,2016-04-29,3600.0,30.0,41.0,clear
+1727,Soyabean,Ghatanji,2016-01-11,2650.0,11.0,27.0,clear
+1728,Soyabean,Kalamb,2016-01-11,2650.0,32.0,27.0,clear
+1729,Soyabean,Umarked(Danki),2016-01-11,2650.0,21.0,27.0,clear
+1730,Soyabean,Umarkhed,2016-01-11,2650.0,14.0,27.0,clear
+1731,Soyabean,ZariZamini,2016-01-11,2528.0,1.0,27.0,clear
+1732,Soyabean,Kalamb,2016-03-30,3600.0,8.0,39.0,clear
+1733,Soyabean,Umarked(Danki),2016-03-30,3300.0,5.0,39.0,clear
+1734,Soyabean,Vani,2016-03-30,3646.0,7.0,39.0,clear
+1735,Soyabean,Kalamb,2016-03-31,3600.0,3.0,39.0,clear
+1736,Soyabean,Umarked(Danki),2016-03-31,3300.0,12.0,39.0,clear
+1737,Soyabean,Vani,2016-03-31,3615.0,4.0,39.0,clear
+1738,Soyabean,Kalamb,2016-01-04,3650.0,4.0,28.0,clear
+1739,Soyabean,Vani,2016-01-04,3658.0,5.0,28.0,clear
+1740,Soyabean,Kalamb,2016-02-04,3900.0,2.0,28.0,clear
+1741,Soyabean,Umarkhed,2016-02-04,3500.0,19.0,28.0,clear
+1742,Soyabean,Kalamb,2016-04-28,3650.0,2.0,41.0,clear
+1743,Soyabean,Ner Parasopant,2016-04-28,3700.0,17.0,41.0,clear
+1744,Soyabean,Umarked(Danki),2016-04-28,3500.0,7.0,41.0,clear
+1745,Soyabean,Umarkhed,2016-04-28,3500.0,7.0,41.0,clear
+1746,Soyabean,Kalamb,2016-03-05,3600.0,2.0,29.4,clear
+1747,Soyabean,Ner Parasopant,2016-03-05,3700.0,15.0,29.4,clear
+1748,Soyabean,Pusad,2016-03-05,3865.0,50.0,29.4,clear
+1749,Soyabean,Vani,2016-03-05,3755.0,4.0,29.4,clear
+1750,Soyabean,Yeotmal,2016-03-05,3655.0,55.0,29.4,clear
+1751,Soyabean,Kalamb,2016-07-22,3350.0,4.0,28.0,clear
+1752,Soyabean,Ner Parasopant,2016-07-22,3600.0,2.0,28.0,clear
+1753,Soyabean,Kalamb,2016-08-17,3200.0,4.0,28.0,clear
+1754,Soyabean,Kalamb,2016-10-29,2700.0,40.0,28.0,clear
+1755,Soyabean,Ner Parasopant,2016-10-29,2700.0,42.0,28.0,clear
+1756,Soyabean,Pandhakawada,2016-10-29,2500.0,6.0,28.0,clear
+1757,Soyabean,Umarked(Danki),2016-10-29,2650.0,24.0,28.0,clear
+1758,Soyabean,Umarkhed,2016-10-29,2650.0,61.0,28.0,clear
+1759,Soyabean,ZariZamini,2016-10-29,2647.0,13.0,28.0,clear
+1760,Soyabean,Mahagaon,2016-10-23,2800.0,3.0,30.0,clear
+1761,Soyabean,Umarked(Danki),2016-10-23,2600.0,87.0,30.0,clear
+1762,Soyabean,Ner Parasopant,2016-02-20,3550.0,45.0,36.0,clear
+1763,Soyabean,Umarked(Danki),2016-02-20,3500.0,7.0,36.0,clear
+1764,Soyabean,Ner Parasopant,2016-03-23,3700.0,33.0,37.0,clear
+1765,Soyabean,Vani,2016-03-23,3584.0,4.0,37.0,clear
+1766,Soyabean,Ner Parasopant,2016-03-26,3750.0,5.0,39.0,clear
+1767,Soyabean,Umarked(Danki),2016-03-26,3600.0,7.0,39.0,clear
+1768,Soyabean,Ner Parasopant,2016-04-16,4000.0,45.0,42.0,clear
+1769,Soyabean,Ner Parasopant,2016-04-23,3900.0,47.0,39.0,clear
+1770,Soyabean,Umarked(Danki),2016-04-23,3700.0,12.0,39.0,clear
+1771,Soyabean,Ner Parasopant,2016-04-26,3650.0,19.0,41.4,clear
+1772,Soyabean,Pusad,2016-04-26,3865.0,79.0,41.4,clear
+1773,Soyabean,Umarkhed,2016-04-26,3500.0,12.0,41.4,clear
+1774,Soyabean,Vani,2016-04-26,3556.0,1.0,41.4,clear
+1775,Soyabean,Ner Parasopant,2016-04-30,3675.0,10.0,41.0,clear
+1776,Soyabean,Ner Parasopant,2016-07-05,3725.0,17.0,28.0,clear
+1777,Soyabean,Umarkhed,2016-07-05,3600.0,7.0,28.0,clear
+1778,Soyabean,Ner Parasopant,2016-06-23,3450.0,3.0,33.4,clear
+1779,Soyabean,Vani,2016-06-23,3645.0,14.0,33.4,clear
+1780,Soyabean,Yeotmal,2016-06-23,3710.0,27.0,33.4,clear
+1781,Soyabean,Ner Parasopant,2016-07-07,3650.0,1.0,27.4,clear
+1782,Soyabean,Umarkhed,2016-07-07,3550.0,7.0,27.4,clear
+1783,Soyabean,Vani,2016-07-07,3450.0,1.0,27.4,clear
+1784,Soyabean,Yeotmal,2016-07-07,3690.0,22.0,27.4,clear
+1785,Soyabean,Ner Parasopant,2016-07-18,3300.0,0.0,25.4,clear
+1786,Soyabean,Ner Parasopant,2016-07-21,3550.0,1.0,28.4,clear
+1787,Soyabean,Pandhakawada,2016-07-21,3495.0,1.0,28.4,clear
+1788,Soyabean,Umarkhed,2016-07-21,3600.0,5.0,28.4,clear
+1789,Soyabean,Ner Parasopant,2016-07-30,3450.0,2.0,30.4,clear
+1790,Soyabean,Ner Parasopant,2016-08-13,3400.0,18.0,29.0,clear
+1791,Soyabean,Ner Parasopant,2016-03-09,3300.0,0.0,35.4,clear
+1792,Soyabean,Pusad,2016-03-09,3220.0,5.0,35.4,clear
+1793,Soyabean,Ner Parasopant,2016-08-09,3200.0,0.0,28.0,clear
+1794,Soyabean,Pusad,2016-08-09,3250.0,6.0,28.0,clear
+1795,Soyabean,Yeotmal,2016-08-09,3175.0,13.0,28.0,clear
+1796,Soyabean,Pandhakawada,2016-03-29,3600.0,4.0,39.0,clear
+1797,Soyabean,Vani,2016-03-29,3665.0,11.0,39.0,clear
+1798,Soyabean,Pandhakawada,2016-07-15,3375.0,0.0,30.4,clear
+1799,Soyabean,Vani,2016-07-15,3485.0,1.0,30.4,clear
+1800,Soyabean,Pusad,2016-10-15,2780.0,134.0,30.0,clear
+1801,Soyabean,Umarked(Danki),2016-10-15,2900.0,7.0,30.0,clear
+1802,Soyabean,Umarkhed,2016-10-15,2900.0,43.0,30.0,clear
+1803,Soyabean,Umarked(Danki),2016-10-01,3500.0,7.0,26.4,clear
+1804,Soyabean,Umarked(Danki),2016-02-14,3500.0,7.0,31.0,clear
+1805,Soyabean,Umarkhed,2016-02-14,3500.0,10.0,31.0,clear
+1806,Soyabean,Umarked(Danki),2016-06-03,3400.0,11.0,38.4,clear
+1807,Soyabean,Umarkhed,2016-06-03,3400.0,5.0,38.4,clear
+1808,Soyabean,Umarked(Danki),2016-07-03,3400.0,6.0,29.2,clear
+1809,Soyabean,Umarked(Danki),2016-03-13,3400.0,7.0,34.0,clear
+1810,Soyabean,Umarked(Danki),2016-03-28,3300.0,5.0,36.0,clear
+1811,Soyabean,Umarkhed,2016-03-28,3450.0,3.0,36.0,clear
+1812,Soyabean,Umarked(Danki),2016-04-14,3700.0,7.0,41.2,clear
+1813,Soyabean,Umarked(Danki),2016-09-05,3600.0,7.0,28.0,clear
+1814,Soyabean,Umarkhed,2016-09-05,3600.0,26.0,28.0,clear
+1815,Soyabean,Umarked(Danki),2016-05-21,3500.0,7.0,41.4,clear
+1816,Soyabean,Umarked(Danki),2016-05-22,3600.0,12.0,41.4,clear
+1817,Soyabean,Umarked(Danki),2016-08-10,3050.0,15.0,28.0,clear
+1818,Soyabean,Umarkhed,2016-08-10,3050.0,45.0,28.0,clear
+1819,Soyabean,Umarked(Danki),2016-10-10,2900.0,132.0,27.0,clear
+1820,Soyabean,Umarkhed,2016-10-10,2900.0,50.0,27.0,clear
+1821,Soyabean,Umarked(Danki),2016-11-10,2900.0,14.0,25.4,clear
+1822,Soyabean,Umarked(Danki),2016-12-10,2900.0,37.0,24.4,clear
+1823,Soyabean,Umarkhed,2016-12-10,2900.0,17.0,24.4,clear
+1824,Soyabean,Umarked(Danki),2016-10-13,2900.0,46.0,29.0,clear
+1825,Soyabean,Umarkhed,2016-10-13,2900.0,55.0,29.0,clear
+1826,Soyabean,Yeotmal,2016-10-13,2820.0,109.0,29.0,clear
+1827,Soyabean,Umarked(Danki),2016-10-30,2650.0,28.0,28.0,clear
+1828,Soyabean,Umarkhed,2016-10-30,2650.0,47.0,28.0,clear
+1829,Soyabean,Umarked(Danki),2016-12-18,2790.0,12.0,24.0,clear
+1830,Soyabean,Umarkhed,2016-12-18,2790.0,37.0,24.0,clear
+1831,Soyabean,Umarkhed,2016-01-31,3400.0,36.0,30.4,clear
+1832,Soyabean,Umarkhed,2016-03-04,3500.0,5.0,32.3,clear
+1833,Soyabean,Umarkhed,2016-04-15,3700.0,6.0,42.0,clear
+1834,Soyabean,Umarkhed,2016-04-17,3700.0,7.0,41.0,clear
+1835,Soyabean,Umarkhed,2016-05-14,3600.0,55.0,43.0,clear
+1836,Soyabean,Umarkhed,2016-07-19,3700.0,10.0,28.0,clear
+1837,Soyabean,Umarkhed,2016-12-11,2600.0,12.0,26.0,clear
+1838,Soyabean,Umarkhed,2016-12-12,2795.0,56.0,27.0,clear
+1839,Soyabean,Vani,2016-04-22,3689.0,2.0,40.4,clear
+1840,Soyabean,Vani,2016-07-14,3445.0,6.0,30.8,clear
+1841,Soyabean,Yeotmal,2016-01-26,3350.0,5.0,31.0,clear
+1842,Soyabean,Yeotmal,2016-08-07,3575.0,4.0,24.4,clear
+1843,Soyabean,Aarni,2017-02-01,2700.0,56.0,30.4,clear
+1844,Soyabean,Babhulgaon,2017-02-01,2701.0,70.0,30.4,clear
+1845,Soyabean,Bori Arab,2017-02-01,2790.0,4.0,30.4,clear
+1846,Soyabean,Digras,2017-02-01,2835.0,16.0,30.4,clear
+1847,Soyabean,Ghatanji,2017-02-01,2550.0,7.0,30.4,clear
+1848,Soyabean,Kalamb,2017-02-01,2800.0,24.0,30.4,clear
+1849,Soyabean,Ner Parasopant,2017-02-01,2750.0,105.0,30.4,clear
+1850,Soyabean,Pandhakawada,2017-02-01,2790.0,24.0,30.4,clear
+1851,Soyabean,Umarked(Danki),2017-02-01,2750.0,12.0,30.4,clear
+1852,Soyabean,Umarkhed,2017-02-01,2750.0,47.0,30.4,clear
+1853,Soyabean,Vani,2017-02-01,2775.0,36.0,30.4,clear
+1854,Soyabean,Yeotmal,2017-02-01,2850.0,246.0,30.4,clear
+1855,Soyabean,Aarni,2017-03-01,2600.0,67.0,34.0,clear
+1856,Soyabean,Babhulgaon,2017-03-01,2701.0,90.0,34.0,clear
+1857,Soyabean,Digras,2017-03-01,2795.0,25.0,34.0,clear
+1858,Soyabean,Kalamb,2017-03-01,2775.0,28.0,34.0,clear
+1859,Soyabean,Ner Parasopant,2017-03-01,2750.0,72.0,34.0,clear
+1860,Soyabean,Pandhakawada,2017-03-01,2775.0,21.0,34.0,clear
+1861,Soyabean,Umarked(Danki),2017-03-01,2750.0,12.0,34.0,clear
+1862,Soyabean,Umarkhed,2017-03-01,2750.0,30.0,34.0,clear
+1863,Soyabean,Vani,2017-03-01,2800.0,23.0,34.0,clear
+1864,Soyabean,Yeotmal,2017-03-01,2830.0,214.0,34.0,clear
+1865,Soyabean,Aarni,2017-04-01,2600.0,79.0,40.0,clear
+1866,Soyabean,Babhulgaon,2017-04-01,2700.0,160.0,40.0,clear
+1867,Soyabean,Bori Arab,2017-04-01,2780.0,4.0,40.0,clear
+1868,Soyabean,Digras,2017-04-01,2795.0,35.0,40.0,clear
+1869,Soyabean,Kalamb,2017-04-01,2700.0,52.0,40.0,clear
+1870,Soyabean,Ner Parasopant,2017-04-01,2725.0,121.0,40.0,clear
+1871,Soyabean,Pandhakawada,2017-04-01,2775.0,12.0,40.0,clear
+1872,Soyabean,Umarked(Danki),2017-04-01,2750.0,9.0,40.0,clear
+1873,Soyabean,Umarkhed,2017-04-01,2750.0,71.0,40.0,clear
+1874,Soyabean,Vani,2017-04-01,2775.0,29.0,40.0,clear
+1875,Soyabean,Yeotmal,2017-04-01,2830.0,241.0,40.0,clear
+1876,Soyabean,Aarni,2017-05-01,2700.0,84.0,39.0,clear
+1877,Soyabean,Digras,2017-05-01,2795.0,23.0,39.0,clear
+1878,Soyabean,Kalamb,2017-05-01,2700.0,51.0,39.0,clear
+1879,Soyabean,Ner Parasopant,2017-05-01,2750.0,132.0,39.0,clear
+1880,Soyabean,Pandhakawada,2017-05-01,2700.0,10.0,39.0,clear
+1881,Soyabean,Umarked(Danki),2017-05-01,2750.0,24.0,39.0,clear
+1882,Soyabean,Umarkhed,2017-05-01,2750.0,33.0,39.0,clear
+1883,Soyabean,Vani,2017-05-01,2778.0,20.0,39.0,clear
+1884,Soyabean,Yeotmal,2017-05-01,2690.0,292.0,39.0,clear
+1885,Soyabean,Aarni,2017-06-01,2600.0,70.0,34.4,clear
+1886,Soyabean,Babhulgaon,2017-06-01,2601.0,150.0,34.4,clear
+1887,Soyabean,Bori Arab,2017-06-01,2780.0,4.0,34.4,clear
+1888,Soyabean,Digras,2017-06-01,2775.0,6.0,34.4,clear
+1889,Soyabean,Kalamb,2017-06-01,2600.0,43.0,34.4,clear
+1890,Soyabean,Ner Parasopant,2017-06-01,2750.0,150.0,34.4,clear
+1891,Soyabean,Pandhakawada,2017-06-01,2720.0,19.0,34.4,clear
+1892,Soyabean,Umarked(Danki),2017-06-01,2750.0,19.0,34.4,clear
+1893,Soyabean,Umarkhed,2017-06-01,2750.0,31.0,34.4,clear
+1894,Soyabean,Vani,2017-06-01,2775.0,36.0,34.4,clear
+1895,Soyabean,Yeotmal,2017-06-01,2680.0,276.0,34.4,clear
+1896,Soyabean,Aarni,2017-09-01,2600.0,92.0,29.0,clear
+1897,Soyabean,Babhulgaon,2017-09-01,2551.0,90.0,29.0,clear
+1898,Soyabean,Digras,2017-09-01,2775.0,42.0,29.0,clear
+1899,Soyabean,Ghatanji,2017-09-01,2650.0,5.0,29.0,clear
+1900,Soyabean,Kalamb,2017-09-01,2700.0,46.0,29.0,clear
+1901,Soyabean,Ner Parasopant,2017-09-01,2700.0,154.0,29.0,clear
+1902,Soyabean,Pandhakawada,2017-09-01,2700.0,14.0,29.0,clear
+1903,Soyabean,Umarked(Danki),2017-09-01,2750.0,36.0,29.0,clear
+1904,Soyabean,Umarkhed,2017-09-01,2750.0,47.0,29.0,clear
+1905,Soyabean,Vani,2017-09-01,2775.0,40.0,29.0,clear
+1906,Soyabean,Yeotmal,2017-09-01,2805.0,360.0,29.0,clear
+1907,Soyabean,Aarni,2017-10-01,2600.0,67.0,32.8,clear
+1908,Soyabean,Babhulgaon,2017-10-01,2601.0,120.0,32.8,clear
+1909,Soyabean,Digras,2017-10-01,2775.0,44.0,32.8,clear
+1910,Soyabean,Ghatanji,2017-10-01,2450.0,11.0,32.8,clear
+1911,Soyabean,Kalamb,2017-10-01,2600.0,29.0,32.8,clear
+1912,Soyabean,Ner Parasopant,2017-10-01,2700.0,85.0,32.8,clear
+1913,Soyabean,Pandhakawada,2017-10-01,2690.0,16.0,32.8,clear
+1914,Soyabean,Umarked(Danki),2017-10-01,2750.0,11.0,32.8,clear
+1915,Soyabean,Umarkhed,2017-10-01,2750.0,59.0,32.8,clear
+1916,Soyabean,Vani,2017-10-01,2700.0,31.0,32.8,clear
+1917,Soyabean,Yeotmal,2017-10-01,2790.0,269.0,32.8,clear
+1918,Soyabean,Aarni,2017-01-23,2650.0,52.0,29.4,clear
+1919,Soyabean,Ghatanji,2017-01-23,2650.0,4.0,29.4,clear
+1920,Soyabean,Aarni,2017-01-27,2575.0,51.0,29.4,clear
+1921,Soyabean,Babhulgaon,2017-01-27,2601.0,85.0,29.4,clear
+1922,Soyabean,Digras,2017-01-27,2685.0,24.0,29.4,clear
+1923,Soyabean,Pusad,2017-01-27,2720.0,183.0,29.4,clear
+1924,Soyabean,Umarked(Danki),2017-01-27,2780.0,24.0,29.4,clear
+1925,Soyabean,Umarkhed,2017-01-27,2780.0,90.0,29.4,clear
+1926,Soyabean,Aarni,2017-01-28,2550.0,29.0,27.0,clear
+1927,Soyabean,Babhulgaon,2017-01-28,2601.0,60.0,27.0,clear
+1928,Soyabean,Umarkhed,2017-01-28,2780.0,29.0,27.0,clear
+1929,Soyabean,Aarni,2017-01-31,2600.0,41.0,30.4,clear
+1930,Soyabean,Babhulgaon,2017-01-31,2601.0,80.0,30.4,clear
+1931,Soyabean,Ner Parasopant,2017-01-31,2600.0,72.0,30.4,clear
+1932,Soyabean,Pandhakawada,2017-01-31,2625.0,9.0,30.4,clear
+1933,Soyabean,Umarkhed,2017-01-31,2780.0,35.0,30.4,clear
+1934,Soyabean,Aarni,2017-01-02,2550.0,27.0,24.8,clear
+1935,Soyabean,Babhulgaon,2017-01-02,2601.0,90.0,24.8,clear
+1936,Soyabean,Digras,2017-01-02,2595.0,12.0,24.8,clear
+1937,Soyabean,Ner Parasopant,2017-01-02,2600.0,71.0,24.8,clear
+1938,Soyabean,Pandhakawada,2017-01-02,2600.0,8.0,24.8,clear
+1939,Soyabean,Umarkhed,2017-01-02,2780.0,18.0,24.8,clear
+1940,Soyabean,Vani,2017-01-02,2675.0,27.0,24.8,clear
+1941,Soyabean,Aarni,2017-02-02,2650.0,27.0,30.0,clear
+1942,Soyabean,Digras,2017-02-02,2685.0,20.0,30.0,clear
+1943,Soyabean,Ner Parasopant,2017-02-02,2650.0,60.0,30.0,clear
+1944,Soyabean,Pandhakawada,2017-02-02,2600.0,10.0,30.0,clear
+1945,Soyabean,Umarked(Danki),2017-02-02,2780.0,14.0,30.0,clear
+1946,Soyabean,Umarkhed,2017-02-02,2780.0,35.0,30.0,clear
+1947,Soyabean,Vani,2017-02-02,2775.0,21.0,30.0,clear
+1948,Soyabean,Aarni,2017-02-27,2650.0,23.0,34.0,clear
+1949,Soyabean,Babhulgaon,2017-02-27,2601.0,90.0,34.0,clear
+1950,Soyabean,Ghatanji,2017-02-27,2500.0,5.0,34.0,clear
+1951,Soyabean,Umarkhed,2017-02-27,2700.0,19.0,34.0,clear
+1952,Soyabean,Vani,2017-02-27,2700.0,8.0,34.0,clear
+1953,Soyabean,Yeotmal,2017-02-27,2786.0,157.0,34.0,clear
+1954,Soyabean,Aarni,2017-02-28,2630.0,20.0,33.6,clear
+1955,Soyabean,Ner Parasopant,2017-02-28,2675.0,50.0,33.6,clear
+1956,Soyabean,Umarked(Danki),2017-02-28,2700.0,12.0,33.6,clear
+1957,Soyabean,Umarkhed,2017-02-28,2700.0,12.0,33.6,clear
+1958,Soyabean,Vani,2017-02-28,2720.0,25.0,33.6,clear
+1959,Soyabean,Yeotmal,2017-02-28,2650.0,86.0,33.6,clear
+1960,Soyabean,Aarni,2017-01-03,2650.0,23.0,24.4,clear
+1961,Soyabean,Ner Parasopant,2017-01-03,2700.0,58.0,24.4,clear
+1962,Soyabean,Vani,2017-01-03,2725.0,25.0,24.4,clear
+1963,Soyabean,Yeotmal,2017-01-03,2651.0,141.0,24.4,clear
+1964,Soyabean,Aarni,2017-03-03,2650.0,26.0,33.4,clear
+1965,Soyabean,Ghatanji,2017-03-03,2500.0,4.0,33.4,clear
+1966,Soyabean,Ner Parasopant,2017-03-03,2700.0,59.0,33.4,clear
+1967,Soyabean,Umarked(Danki),2017-03-03,2700.0,12.0,33.4,clear
+1968,Soyabean,Umarkhed,2017-03-03,2700.0,24.0,33.4,clear
+1969,Soyabean,Vani,2017-03-03,2700.0,28.0,33.4,clear
+1970,Soyabean,Yeotmal,2017-03-03,2650.0,155.0,33.4,clear
+1971,Soyabean,Aarni,2017-07-03,2625.0,37.0,30.0,clear
+1972,Soyabean,Bori Arab,2017-07-03,2700.0,3.0,30.0,clear
+1973,Soyabean,Digras,2017-07-03,2615.0,23.0,30.0,clear
+1974,Soyabean,Ner Parasopant,2017-07-03,2700.0,62.0,30.0,clear
+1975,Soyabean,Umarked(Danki),2017-07-03,2700.0,12.0,30.0,clear
+1976,Soyabean,Vani,2017-07-03,2550.0,22.0,30.0,clear
+1977,Soyabean,Yeotmal,2017-07-03,2640.0,173.0,30.0,clear
+1978,Soyabean,Aarni,2017-03-17,2650.0,38.0,34.0,clear
+1979,Soyabean,Digras,2017-03-17,2595.0,11.0,34.0,clear
+1980,Soyabean,Ner Parasopant,2017-03-17,2675.0,34.0,34.0,clear
+1981,Soyabean,Umarkhed,2017-03-17,2700.0,31.0,34.0,clear
+1982,Soyabean,Vani,2017-03-17,2660.0,6.0,34.0,clear
+1983,Soyabean,Yeotmal,2017-03-17,2655.0,112.0,34.0,clear
+1984,Soyabean,Aarni,2017-03-20,2675.0,80.0,32.4,clear
+1985,Soyabean,Babhulgaon,2017-03-20,2601.0,100.0,32.4,clear
+1986,Soyabean,Digras,2017-03-20,2555.0,8.0,32.4,clear
+1987,Soyabean,Ner Parasopant,2017-03-20,2700.0,57.0,32.4,clear
+1988,Soyabean,Umarked(Danki),2017-03-20,2700.0,10.0,32.4,clear
+1989,Soyabean,Umarkhed,2017-03-20,2730.0,14.0,32.4,clear
+1990,Soyabean,Vani,2017-03-20,2655.0,13.0,32.4,clear
+1991,Soyabean,Yeotmal,2017-03-20,2700.0,134.0,32.4,clear
+1992,Soyabean,Aarni,2017-03-22,2650.0,93.0,35.0,clear
+1993,Soyabean,Babhulgaon,2017-03-22,2601.0,110.0,35.0,clear
+1994,Soyabean,Digras,2017-03-22,2595.0,13.0,35.0,clear
+1995,Soyabean,Ner Parasopant,2017-03-22,2700.0,30.0,35.0,clear
+1996,Soyabean,Pandhakawada,2017-03-22,2630.0,5.0,35.0,clear
+1997,Soyabean,Umarkhed,2017-03-22,2700.0,21.0,35.0,clear
+1998,Soyabean,Vani,2017-03-22,2775.0,17.0,35.0,clear
+1999,Soyabean,Yeotmal,2017-03-22,2700.0,144.0,35.0,clear
+2000,Soyabean,Aarni,2017-05-04,2600.0,49.0,40.4,clear
+2001,Soyabean,Babhulgaon,2017-05-04,2601.0,30.0,40.4,clear
+2002,Soyabean,Umarkhed,2017-05-04,2700.0,12.0,40.4,clear
+2003,Soyabean,Vani,2017-05-04,2700.0,19.0,40.4,clear
+2004,Soyabean,Aarni,2017-04-05,2700.0,16.0,39.0,clear
+2005,Soyabean,Umarked(Danki),2017-04-05,2650.0,7.0,39.0,clear
+2006,Soyabean,Umarkhed,2017-04-05,2650.0,22.0,39.0,clear
+2007,Soyabean,Vani,2017-04-05,2750.0,10.0,39.0,clear
+2008,Soyabean,Aarni,2017-06-05,2700.0,30.0,34.6,clear
+2009,Soyabean,Babhulgaon,2017-06-05,2601.0,80.0,34.6,clear
+2010,Soyabean,Ner Parasopant,2017-06-05,2700.0,28.0,34.6,clear
+2011,Soyabean,Umarkhed,2017-06-05,2650.0,25.0,34.6,clear
+2012,Soyabean,Aarni,2017-08-05,2700.0,19.0,29.0,clear
+2013,Soyabean,Babhulgaon,2017-08-05,2601.0,80.0,29.0,clear
+2014,Soyabean,Vani,2017-08-05,2775.0,31.0,29.0,clear
+2015,Soyabean,Aarni,2017-09-05,2700.0,16.0,29.4,clear
+2016,Soyabean,Babhulgaon,2017-09-05,2601.0,130.0,29.4,clear
+2017,Soyabean,Ner Parasopant,2017-09-05,2700.0,23.0,29.4,clear
+2018,Soyabean,Umarked(Danki),2017-09-05,2650.0,7.0,29.4,clear
+2019,Soyabean,Umarkhed,2017-09-05,2650.0,7.0,29.4,clear
+2020,Soyabean,Aarni,2017-05-15,2650.0,41.0,43.4,clear
+2021,Soyabean,Babhulgaon,2017-05-15,2601.0,110.0,43.4,clear
+2022,Soyabean,Umarkhed,2017-05-15,2650.0,28.0,43.4,clear
+2023,Soyabean,Vani,2017-05-15,2700.0,25.0,43.4,clear
+2024,Soyabean,Aarni,2017-06-23,2600.0,32.0,30.0,clear
+2025,Soyabean,Babhulgaon,2017-06-23,2651.0,80.0,30.0,clear
+2026,Soyabean,Digras,2017-06-23,2645.0,4.0,30.0,clear
+2027,Soyabean,Umarked(Danki),2017-06-23,2600.0,12.0,30.0,clear
+2028,Soyabean,Vani,2017-06-23,2700.0,3.0,30.0,clear
+2029,Soyabean,Aarni,2017-06-30,2600.0,43.0,31.4,clear
+2030,Soyabean,Babhulgaon,2017-06-30,2601.0,80.0,31.4,clear
+2031,Soyabean,Digras,2017-06-30,2600.0,5.0,31.4,clear
+2032,Soyabean,Umarked(Danki),2017-06-30,2600.0,28.0,31.4,clear
+2033,Soyabean,Umarkhed,2017-06-30,2600.0,17.0,31.4,clear
+2034,Soyabean,Vani,2017-06-30,2675.0,2.0,31.4,clear
+2035,Soyabean,Aarni,2017-07-07,2700.0,39.0,34.4,clear
+2036,Soyabean,Umarked(Danki),2017-07-07,2600.0,7.0,34.4,clear
+2037,Soyabean,Umarkhed,2017-07-07,2600.0,12.0,34.4,clear
+2038,Soyabean,Yeotmal,2017-07-07,2750.0,114.0,34.4,clear
+2039,Soyabean,Aarni,2017-07-21,2700.0,66.0,30.0,clear
+2040,Soyabean,Digras,2017-07-21,2815.0,4.0,30.0,clear
+2041,Soyabean,Umarked(Danki),2017-07-21,2700.0,12.0,30.0,clear
+2042,Soyabean,Yeotmal,2017-07-21,2750.0,108.0,30.0,clear
+2043,Soyabean,Aarni,2017-04-08,2650.0,29.0,38.4,clear
+2044,Soyabean,Digras,2017-04-08,2665.0,3.0,38.4,clear
+2045,Soyabean,Umarkhed,2017-04-08,2700.0,12.0,38.4,clear
+2046,Soyabean,Yeotmal,2017-04-08,2675.0,99.0,38.4,clear
+2047,Soyabean,Aarni,2017-11-08,2750.0,48.0,28.0,clear
+2048,Soyabean,Vani,2017-11-08,2245.0,1.0,28.0,clear
+2049,Soyabean,Yeotmal,2017-11-08,2750.0,68.0,28.0,clear
+2050,Soyabean,Aarni,2017-08-29,2800.0,14.0,26.0,clear
+2051,Soyabean,Digras,2017-08-29,2905.0,2.0,26.0,clear
+2052,Soyabean,Yeotmal,2017-08-29,2750.0,79.0,26.0,clear
+2053,Soyabean,Aarni,2017-01-09,2750.0,9.0,26.4,clear
+2054,Soyabean,Digras,2017-01-09,2650.0,0.0,26.4,clear
+2055,Soyabean,Vani,2017-01-09,2950.0,11.0,26.4,clear
+2056,Soyabean,Yeotmal,2017-01-09,2750.0,100.0,26.4,clear
+2057,Soyabean,Babhulgaon,2017-07-01,2601.0,90.0,27.4,clear
+2058,Soyabean,Kalamb,2017-07-01,2600.0,17.0,27.4,clear
+2059,Soyabean,Ner Parasopant,2017-07-01,2750.0,125.0,27.4,clear
+2060,Soyabean,Umarkhed,2017-07-01,2750.0,41.0,27.4,clear
+2061,Soyabean,Babhulgaon,2017-11-01,2651.0,120.0,28.0,clear
+2062,Soyabean,Digras,2017-11-01,2695.0,37.0,28.0,clear
+2063,Soyabean,Kalamb,2017-11-01,2600.0,43.0,28.0,clear
+2064,Soyabean,Ner Parasopant,2017-11-01,2675.0,116.0,28.0,clear
+2065,Soyabean,Pandhakawada,2017-11-01,2625.0,15.0,28.0,clear
+2066,Soyabean,Umarkhed,2017-11-01,2750.0,33.0,28.0,clear
+2067,Soyabean,Vani,2017-11-01,2775.0,29.0,28.0,clear
+2068,Soyabean,Yeotmal,2017-11-01,2800.0,255.0,28.0,clear
+2069,Soyabean,Babhulgaon,2017-01-13,2601.0,100.0,23.0,clear
+2070,Soyabean,Digras,2017-01-13,2685.0,14.0,23.0,clear
+2071,Soyabean,Pandhakawada,2017-01-13,2630.0,6.0,23.0,clear
+2072,Soyabean,Umarked(Danki),2017-01-13,2750.0,28.0,23.0,clear
+2073,Soyabean,Umarkhed,2017-01-13,2750.0,27.0,23.0,clear
+2074,Soyabean,Vani,2017-01-13,2775.0,32.0,23.0,clear
+2075,Soyabean,Yeotmal,2017-01-13,2830.0,211.0,23.0,clear
+2076,Soyabean,Babhulgaon,2017-01-14,2551.0,50.0,25.0,clear
+2077,Soyabean,Umarked(Danki),2017-01-14,2780.0,24.0,25.0,clear
+2078,Soyabean,Umarkhed,2017-01-14,2780.0,42.0,25.0,clear
+2079,Soyabean,Babhulgaon,2017-01-16,2601.0,90.0,26.4,clear
+2080,Soyabean,Bori Arab,2017-01-16,2780.0,5.0,26.4,clear
+2081,Soyabean,Digras,2017-01-16,2685.0,20.0,26.4,clear
+2082,Soyabean,Pandhakawada,2017-01-16,2675.0,9.0,26.4,clear
+2083,Soyabean,Umarked(Danki),2017-01-16,2780.0,5.0,26.4,clear
+2084,Soyabean,Umarkhed,2017-01-16,2780.0,14.0,26.4,clear
+2085,Soyabean,Vani,2017-01-16,2725.0,46.0,26.4,clear
+2086,Soyabean,Yeotmal,2017-01-16,2825.0,228.0,26.4,clear
+2087,Soyabean,Babhulgaon,2017-01-25,2601.0,90.0,27.4,clear
+2088,Soyabean,Digras,2017-01-25,2685.0,18.0,27.4,clear
+2089,Soyabean,Umarked(Danki),2017-01-25,2780.0,12.0,27.4,clear
+2090,Soyabean,Umarkhed,2017-01-25,2780.0,7.0,27.4,clear
+2091,Soyabean,Babhulgaon,2017-01-30,2601.0,70.0,29.4,clear
+2092,Soyabean,Pandhakawada,2017-01-30,2650.0,8.0,29.4,clear
+2093,Soyabean,Umarked(Danki),2017-01-30,2780.0,36.0,29.4,clear
+2094,Soyabean,Umarkhed,2017-01-30,2780.0,14.0,29.4,clear
+2095,Soyabean,Babhulgaon,2017-03-02,2601.0,90.0,34.0,clear
+2096,Soyabean,Pandhakawada,2017-03-02,2675.0,11.0,34.0,clear
+2097,Soyabean,Umarked(Danki),2017-03-02,2780.0,24.0,34.0,clear
+2098,Soyabean,Umarkhed,2017-03-02,2780.0,16.0,34.0,clear
+2099,Soyabean,Babhulgaon,2017-04-02,2651.0,100.0,38.4,clear
+2100,Soyabean,Ner Parasopant,2017-04-02,2650.0,66.0,38.4,clear
+2101,Soyabean,Umarked(Danki),2017-04-02,2780.0,12.0,38.4,clear
+2102,Soyabean,Umarkhed,2017-04-02,2780.0,29.0,38.4,clear
+2103,Soyabean,Babhulgaon,2017-06-02,2601.0,90.0,35.0,clear
+2104,Soyabean,Ghatanji,2017-06-02,2500.0,7.0,35.0,clear
+2105,Soyabean,Ner Parasopant,2017-06-02,2550.0,1.0,35.0,clear
+2106,Soyabean,Pandhakawada,2017-06-02,2660.0,8.0,35.0,clear
+2107,Soyabean,Umarked(Danki),2017-06-02,2780.0,12.0,35.0,clear
+2108,Soyabean,Umarkhed,2017-06-02,2780.0,12.0,35.0,clear
+2109,Soyabean,Vani,2017-06-02,2702.0,38.0,35.0,clear
+2110,Soyabean,Babhulgaon,2017-07-02,2601.0,130.0,27.0,clear
+2111,Soyabean,Digras,2017-07-02,2665.0,18.0,27.0,clear
+2112,Soyabean,Ner Parasopant,2017-07-02,2650.0,120.0,27.0,clear
+2113,Soyabean,Pandhakawada,2017-07-02,2650.0,10.0,27.0,clear
+2114,Soyabean,Umarked(Danki),2017-07-02,2780.0,12.0,27.0,clear
+2115,Soyabean,Umarkhed,2017-07-02,2780.0,19.0,27.0,clear
+2116,Soyabean,Vani,2017-07-02,2710.0,19.0,27.0,clear
+2117,Soyabean,Yeotmal,2017-07-02,2670.0,257.0,27.0,clear
+2118,Soyabean,Babhulgaon,2017-08-02,2601.0,90.0,31.4,clear
+2119,Soyabean,Bori Arab,2017-08-02,2700.0,1.0,31.4,clear
+2120,Soyabean,Mahagaon,2017-08-02,2800.0,90.0,31.4,clear
+2121,Soyabean,Ner Parasopant,2017-08-02,2675.0,107.0,31.4,clear
+2122,Soyabean,Pandhakawada,2017-08-02,2650.0,9.0,31.4,clear
+2123,Soyabean,Umarked(Danki),2017-08-02,2780.0,12.0,31.4,clear
+2124,Soyabean,Umarkhed,2017-08-02,2780.0,19.0,31.4,clear
+2125,Soyabean,Vani,2017-08-02,2682.0,29.0,31.4,clear
+2126,Soyabean,Yeotmal,2017-08-02,2675.0,138.0,31.4,clear
+2127,Soyabean,Babhulgaon,2017-10-02,2601.0,90.0,31.0,clear
+2128,Soyabean,Bori Arab,2017-10-02,2700.0,1.0,31.0,clear
+2129,Soyabean,Pandhakawada,2017-10-02,2665.0,11.0,31.0,clear
+2130,Soyabean,Umarked(Danki),2017-10-02,2750.0,36.0,31.0,clear
+2131,Soyabean,Umarkhed,2017-10-02,2760.0,21.0,31.0,clear
+2132,Soyabean,Yeotmal,2017-10-02,2790.0,188.0,31.0,clear
+2133,Soyabean,Babhulgaon,2017-11-02,2601.0,100.0,26.4,clear
+2134,Soyabean,Ner Parasopant,2017-11-02,2675.0,107.0,26.4,clear
+2135,Soyabean,Pusad,2017-11-02,2720.0,118.0,26.4,clear
+2136,Soyabean,Umarkhed,2017-11-02,2780.0,50.0,26.4,clear
+2137,Soyabean,Babhulgaon,2017-02-13,2601.0,100.0,29.0,clear
+2138,Soyabean,Ghatanji,2017-02-13,2500.0,8.0,29.0,clear
+2139,Soyabean,Ner Parasopant,2017-02-13,2700.0,75.0,29.0,clear
+2140,Soyabean,Umarked(Danki),2017-02-13,2770.0,12.0,29.0,clear
+2141,Soyabean,Umarkhed,2017-02-13,2780.0,43.0,29.0,clear
+2142,Soyabean,Vani,2017-02-13,2650.0,13.0,29.0,clear
+2143,Soyabean,Yeotmal,2017-02-13,2790.0,158.0,29.0,clear
+2144,Soyabean,Babhulgaon,2017-02-14,2601.0,100.0,30.0,clear
+2145,Soyabean,Ghatanji,2017-02-14,2500.0,8.0,30.0,clear
+2146,Soyabean,Ner Parasopant,2017-02-14,2675.0,59.0,30.0,clear
+2147,Soyabean,Umarked(Danki),2017-02-14,2780.0,13.0,30.0,clear
+2148,Soyabean,Umarkhed,2017-02-14,2780.0,50.0,30.0,clear
+2149,Soyabean,Vani,2017-02-14,2625.0,12.0,30.0,clear
+2150,Soyabean,Yeotmal,2017-02-14,2820.0,126.0,30.0,clear
+2151,Soyabean,Babhulgaon,2017-02-15,2601.0,100.0,31.0,clear
+2152,Soyabean,Ner Parasopant,2017-02-15,2650.0,51.0,31.0,clear
+2153,Soyabean,Umarked(Danki),2017-02-15,2780.0,24.0,31.0,clear
+2154,Soyabean,Vani,2017-02-15,2725.0,27.0,31.0,clear
+2155,Soyabean,Yeotmal,2017-02-15,2815.0,132.0,31.0,clear
+2156,Soyabean,Babhulgaon,2017-02-21,2601.0,90.0,34.0,clear
+2157,Soyabean,Ghatanji,2017-02-21,2540.0,5.0,34.0,clear
+2158,Soyabean,Ner Parasopant,2017-02-21,2650.0,31.0,34.0,clear
+2159,Soyabean,Umarked(Danki),2017-02-21,2730.0,14.0,34.0,clear
+2160,Soyabean,Umarkhed,2017-02-21,2740.0,48.0,34.0,clear
+2161,Soyabean,Vani,2017-02-21,2655.0,22.0,34.0,clear
+2162,Soyabean,Yeotmal,2017-02-21,2795.0,153.0,34.0,clear
+2163,Soyabean,Babhulgaon,2017-02-22,2601.0,85.0,33.4,clear
+2164,Soyabean,Ner Parasopant,2017-02-22,2700.0,72.0,33.4,clear
+2165,Soyabean,Umarked(Danki),2017-02-22,2750.0,12.0,33.4,clear
+2166,Soyabean,Vani,2017-02-22,2575.0,29.0,33.4,clear
+2167,Soyabean,Yeotmal,2017-02-22,2777.0,139.0,33.4,clear
+2168,Soyabean,Babhulgaon,2017-10-03,2601.0,121.0,31.0,clear
+2169,Soyabean,Digras,2017-10-03,2585.0,7.0,31.0,clear
+2170,Soyabean,Umarkhed,2017-10-03,2700.0,38.0,31.0,clear
+2171,Soyabean,Yeotmal,2017-10-03,2630.0,116.0,31.0,clear
+2172,Soyabean,Babhulgaon,2017-11-03,2601.0,100.0,27.4,clear
+2173,Soyabean,Umarkhed,2017-11-03,2700.0,25.0,27.4,clear
+2174,Soyabean,Babhulgaon,2017-03-14,2601.0,90.0,33.0,clear
+2175,Soyabean,Kalamb,2017-03-14,2600.0,10.0,33.0,clear
+2176,Soyabean,Umarkhed,2017-03-14,2700.0,12.0,33.0,clear
+2177,Soyabean,Vani,2017-03-14,2655.0,5.0,33.0,clear
+2178,Soyabean,Babhulgaon,2017-03-21,2601.0,90.0,34.4,clear
+2179,Soyabean,Ner Parasopant,2017-03-21,2680.0,31.0,34.4,clear
+2180,Soyabean,Umarkhed,2017-03-21,2750.0,10.0,34.4,clear
+2181,Soyabean,Vani,2017-03-21,2750.0,11.0,34.4,clear
+2182,Soyabean,Yeotmal,2017-03-21,2650.0,127.0,34.4,clear
+2183,Soyabean,Babhulgaon,2017-03-24,2601.0,150.0,38.0,clear
+2184,Soyabean,Digras,2017-03-24,2575.0,7.0,38.0,clear
+2185,Soyabean,Ner Parasopant,2017-03-24,2700.0,24.0,38.0,clear
+2186,Soyabean,Umarked(Danki),2017-03-24,2750.0,13.0,38.0,clear
+2187,Soyabean,Umarkhed,2017-03-24,2750.0,21.0,38.0,clear
+2188,Soyabean,Yeotmal,2017-03-24,2690.0,113.0,38.0,clear
+2189,Soyabean,Babhulgaon,2017-03-25,2601.0,160.0,39.4,clear
+2190,Soyabean,Umarkhed,2017-03-25,2750.0,53.0,39.4,clear
+2191,Soyabean,Babhulgaon,2017-07-04,2725.0,90.0,28.0,clear
+2192,Soyabean,Digras,2017-07-04,2675.0,17.0,28.0,clear
+2193,Soyabean,Umarkhed,2017-07-04,2750.0,7.0,28.0,clear
+2194,Soyabean,Babhulgaon,2017-08-04,2601.0,100.0,28.4,clear
+2195,Soyabean,Umarked(Danki),2017-08-04,2700.0,12.0,28.4,clear
+2196,Soyabean,Umarkhed,2017-08-04,2700.0,12.0,28.4,clear
+2197,Soyabean,Babhulgaon,2017-10-04,2601.0,150.0,26.4,clear
+2198,Soyabean,Digras,2017-10-04,2775.0,0.0,26.4,clear
+2199,Soyabean,Umarked(Danki),2017-10-04,2700.0,12.0,26.4,clear
+2200,Soyabean,Umarkhed,2017-10-04,2700.0,7.0,26.4,clear
+2201,Soyabean,Vani,2017-10-04,2700.0,25.0,26.4,clear
+2202,Soyabean,Babhulgaon,2017-12-04,2601.0,131.0,25.0,clear
+2203,Soyabean,Digras,2017-12-04,2775.0,2.0,25.0,clear
+2204,Soyabean,Vani,2017-12-04,2700.0,15.0,25.0,clear
+2205,Soyabean,Babhulgaon,2017-04-17,2601.0,110.0,42.4,clear
+2206,Soyabean,Ner Parasopant,2017-04-17,2800.0,52.0,42.4,clear
+2207,Soyabean,Umarkhed,2017-04-17,2650.0,12.0,42.4,clear
+2208,Soyabean,Vani,2017-04-17,2775.0,20.0,42.4,clear
+2209,Soyabean,Babhulgaon,2017-04-18,2601.0,150.0,42.4,clear
+2210,Soyabean,Umarkhed,2017-04-18,2650.0,27.0,42.4,clear
+2211,Soyabean,Vani,2017-04-18,2775.0,36.0,42.4,clear
+2212,Soyabean,Yeotmal,2017-04-18,2780.0,201.0,42.4,clear
+2213,Soyabean,Babhulgaon,2017-04-19,2725.0,110.0,41.4,clear
+2214,Soyabean,Ner Parasopant,2017-04-19,2750.0,19.0,41.4,clear
+2215,Soyabean,Umarked(Danki),2017-04-19,2700.0,12.0,41.4,clear
+2216,Soyabean,Umarkhed,2017-04-19,2700.0,19.0,41.4,clear
+2217,Soyabean,Vani,2017-04-19,2775.0,29.0,41.4,clear
+2218,Soyabean,Yeotmal,2017-04-19,2675.0,183.0,41.4,clear
+2219,Soyabean,Babhulgaon,2017-04-24,2701.0,130.0,38.0,clear
+2220,Soyabean,Ghatanji,2017-04-24,2400.0,5.0,38.0,clear
+2221,Soyabean,Ner Parasopant,2017-04-24,2750.0,60.0,38.0,clear
+2222,Soyabean,Umarked(Danki),2017-04-24,2700.0,12.0,38.0,clear
+2223,Soyabean,Umarkhed,2017-04-24,2700.0,17.0,38.0,clear
+2224,Soyabean,Vani,2017-04-24,2800.0,12.0,38.0,clear
+2225,Soyabean,Babhulgaon,2017-04-25,2681.0,100.0,38.0,clear
+2226,Soyabean,Digras,2017-04-25,2775.0,6.0,38.0,clear
+2227,Soyabean,Ghatanji,2017-04-25,2450.0,5.0,38.0,clear
+2228,Soyabean,Ner Parasopant,2017-04-25,2800.0,41.0,38.0,clear
+2229,Soyabean,Pandhakawada,2017-04-25,2675.0,4.0,38.0,clear
+2230,Soyabean,Umarked(Danki),2017-04-25,2700.0,12.0,38.0,clear
+2231,Soyabean,Umarkhed,2017-04-25,2700.0,24.0,38.0,clear
+2232,Soyabean,Vani,2017-04-25,2810.0,22.0,38.0,clear
+2233,Soyabean,Yeotmal,2017-04-25,2750.0,167.0,38.0,clear
+2234,Soyabean,Babhulgaon,2017-04-26,2701.0,100.0,39.0,clear
+2235,Soyabean,Ghatanji,2017-04-26,2400.0,6.0,39.0,clear
+2236,Soyabean,Umarked(Danki),2017-04-26,2650.0,12.0,39.0,clear
+2237,Soyabean,Umarkhed,2017-04-26,2650.0,26.0,39.0,clear
+2238,Soyabean,Yeotmal,2017-04-26,2730.0,233.0,39.0,clear
+2239,Soyabean,Babhulgaon,2017-04-29,2701.0,100.0,39.0,clear
+2240,Soyabean,Umarkhed,2017-04-29,2650.0,7.0,39.0,clear
+2241,Soyabean,Babhulgaon,2017-02-05,2651.0,100.0,31.0,clear
+2242,Soyabean,Umarked(Danki),2017-02-05,2650.0,12.0,31.0,clear
+2243,Soyabean,Umarkhed,2017-02-05,2600.0,13.0,31.0,clear
+2244,Soyabean,Vani,2017-02-05,2700.0,16.0,31.0,clear
+2245,Soyabean,Babhulgaon,2017-03-05,2601.0,90.0,33.0,clear
+2246,Soyabean,Umarkhed,2017-03-05,2650.0,7.0,33.0,clear
+2247,Soyabean,Vani,2017-03-05,2775.0,24.0,33.0,clear
+2248,Soyabean,ZariZamini,2017-03-05,2775.0,4.0,33.0,clear
+2249,Soyabean,Babhulgaon,2017-05-05,2601.0,100.0,42.0,clear
+2250,Soyabean,Umarkhed,2017-05-05,2650.0,7.0,42.0,clear
+2251,Soyabean,Vani,2017-05-05,2775.0,17.0,42.0,clear
+2252,Soyabean,Babhulgaon,2017-12-05,2651.0,100.0,26.4,clear
+2253,Soyabean,Umarkhed,2017-12-05,2650.0,14.0,26.4,clear
+2254,Soyabean,Babhulgaon,2017-05-13,2601.0,120.0,41.0,clear
+2255,Soyabean,Umarkhed,2017-05-13,2650.0,14.0,41.0,clear
+2256,Soyabean,Babhulgaon,2017-05-16,2601.0,100.0,41.4,clear
+2257,Soyabean,Digras,2017-05-16,2635.0,2.0,41.4,clear
+2258,Soyabean,Umarked(Danki),2017-05-16,2650.0,24.0,41.4,clear
+2259,Soyabean,Umarkhed,2017-05-16,2650.0,24.0,41.4,clear
+2260,Soyabean,Vani,2017-05-16,2700.0,9.0,41.4,clear
+2261,Soyabean,Babhulgaon,2017-12-06,2551.0,15.0,28.0,clear
+2262,Soyabean,Digras,2017-12-06,2585.0,4.0,28.0,clear
+2263,Soyabean,Umarked(Danki),2017-12-06,2650.0,24.0,28.0,clear
+2264,Soyabean,Umarkhed,2017-12-06,2650.0,12.0,28.0,clear
+2265,Soyabean,Vani,2017-12-06,2600.0,4.0,28.0,clear
+2266,Soyabean,Yeotmal,2017-12-06,2650.0,189.0,28.0,clear
+2267,Soyabean,Babhulgaon,2017-06-13,2601.0,30.0,31.4,clear
+2268,Soyabean,Digras,2017-06-13,2615.0,13.0,31.4,clear
+2269,Soyabean,Umarkhed,2017-06-13,2600.0,7.0,31.4,clear
+2270,Soyabean,Vani,2017-06-13,2700.0,8.0,31.4,clear
+2271,Soyabean,Yeotmal,2017-06-13,2650.0,133.0,31.4,clear
+2272,Soyabean,Babhulgaon,2017-06-14,2551.0,60.0,35.0,clear
+2273,Soyabean,Digras,2017-06-14,2595.0,4.0,35.0,clear
+2274,Soyabean,Pandhakawada,2017-06-14,2550.0,2.0,35.0,clear
+2275,Soyabean,Umarkhed,2017-06-14,2600.0,14.0,35.0,clear
+2276,Soyabean,Vani,2017-06-14,2678.0,7.0,35.0,clear
+2277,Soyabean,Yeotmal,2017-06-14,2650.0,128.0,35.0,clear
+2278,Soyabean,Babhulgaon,2017-06-19,2601.0,60.0,37.0,clear
+2279,Soyabean,Digras,2017-06-19,2585.0,3.0,37.0,clear
+2280,Soyabean,Umarkhed,2017-06-19,2600.0,7.0,37.0,clear
+2281,Soyabean,Vani,2017-06-19,2700.0,10.0,37.0,clear
+2282,Soyabean,Babhulgaon,2017-06-21,2601.0,100.0,36.0,clear
+2283,Soyabean,Digras,2017-06-21,2700.0,0.0,36.0,clear
+2284,Soyabean,Umarkhed,2017-06-21,2600.0,12.0,36.0,clear
+2285,Soyabean,Vani,2017-06-21,2775.0,15.0,36.0,clear
+2286,Soyabean,Babhulgaon,2017-06-22,2601.0,90.0,35.0,clear
+2287,Soyabean,Umarked(Danki),2017-06-22,2600.0,7.0,35.0,clear
+2288,Soyabean,Vani,2017-06-22,2700.0,4.0,35.0,clear
+2289,Soyabean,Babhulgaon,2017-06-27,2601.0,80.0,29.4,clear
+2290,Soyabean,Digras,2017-06-27,2685.0,4.0,29.4,clear
+2291,Soyabean,Vani,2017-06-27,2710.0,7.0,29.4,clear
+2292,Soyabean,Yeotmal,2017-06-27,2675.0,118.0,29.4,clear
+2293,Soyabean,Babhulgaon,2017-06-28,2651.0,50.0,30.0,clear
+2294,Soyabean,Digras,2017-06-28,2595.0,2.0,30.0,clear
+2295,Soyabean,Umarked(Danki),2017-06-28,2600.0,12.0,30.0,clear
+2296,Soyabean,Vani,2017-06-28,2775.0,5.0,30.0,clear
+2297,Soyabean,Yeotmal,2017-06-28,2750.0,118.0,30.0,clear
+2298,Soyabean,Babhulgaon,2017-10-07,2651.0,80.0,30.0,clear
+2299,Soyabean,Umarkhed,2017-10-07,2600.0,3.0,30.0,clear
+2300,Soyabean,Vani,2017-10-07,2775.0,4.0,30.0,clear
+2301,Soyabean,Yeotmal,2017-10-07,2890.0,114.0,30.0,clear
+2302,Soyabean,Babhulgaon,2017-11-07,2651.0,50.0,29.0,clear
+2303,Soyabean,Digras,2017-11-07,2795.0,10.0,29.0,clear
+2304,Soyabean,Umarked(Danki),2017-11-07,2600.0,12.0,29.0,clear
+2305,Soyabean,Umarkhed,2017-11-07,2600.0,12.0,29.0,clear
+2306,Soyabean,Vani,2017-11-07,2775.0,12.0,29.0,clear
+2307,Soyabean,Yeotmal,2017-11-07,2850.0,77.0,29.0,clear
+2308,Soyabean,Babhulgaon,2017-12-07,2651.0,50.0,27.4,clear
+2309,Soyabean,Digras,2017-12-07,2795.0,4.0,27.4,clear
+2310,Soyabean,Umarkhed,2017-12-07,2750.0,6.0,27.4,clear
+2311,Soyabean,Vani,2017-12-07,2865.0,5.0,27.4,clear
+2312,Soyabean,Yeotmal,2017-12-07,2670.0,100.0,27.4,clear
+2313,Soyabean,Babhulgaon,2017-07-14,2651.0,80.0,28.0,clear
+2314,Soyabean,Umarked(Danki),2017-07-14,2750.0,6.0,28.0,clear
+2315,Soyabean,Umarkhed,2017-07-14,2750.0,17.0,28.0,clear
+2316,Soyabean,Yeotmal,2017-07-14,2700.0,139.0,28.0,clear
+2317,Soyabean,Babhulgaon,2017-07-15,2651.0,60.0,25.0,clear
+2318,Soyabean,Umarked(Danki),2017-07-15,2750.0,12.0,25.0,clear
+2319,Soyabean,Babhulgaon,2017-07-17,2651.0,60.0,26.4,clear
+2320,Soyabean,Pandhakawada,2017-07-17,2585.0,1.0,26.4,clear
+2321,Soyabean,Vani,2017-07-17,2760.0,2.0,26.4,clear
+2322,Soyabean,Yeotmal,2017-07-17,2675.0,74.0,26.4,clear
+2323,Soyabean,Babhulgaon,2017-07-18,2701.0,25.0,28.4,clear
+2324,Soyabean,Digras,2017-07-18,2780.0,1.0,28.4,clear
+2325,Soyabean,Yeotmal,2017-07-18,2750.0,90.0,28.4,clear
+2326,Soyabean,Babhulgaon,2017-07-19,2701.0,60.0,26.4,clear
+2327,Soyabean,Digras,2017-07-19,2695.0,2.0,26.4,clear
+2328,Soyabean,Yeotmal,2017-07-19,2720.0,47.0,26.4,clear
+2329,Soyabean,Babhulgaon,2017-07-22,2651.0,40.0,30.0,clear
+2330,Soyabean,Babhulgaon,2017-07-24,2701.0,30.0,26.0,clear
+2331,Soyabean,Digras,2017-07-24,2755.0,3.0,26.0,clear
+2332,Soyabean,Umarked(Danki),2017-07-24,2750.0,7.0,26.0,clear
+2333,Soyabean,Umarkhed,2017-07-24,2700.0,10.0,26.0,clear
+2334,Soyabean,Vani,2017-07-24,2775.0,8.0,26.0,clear
+2335,Soyabean,Yeotmal,2017-07-24,2750.0,142.0,26.0,clear
+2336,Soyabean,Babhulgaon,2017-07-25,2701.0,25.0,25.4,clear
+2337,Soyabean,Digras,2017-07-25,2795.0,5.0,25.4,clear
+2338,Soyabean,Vani,2017-07-25,2775.0,8.0,25.4,clear
+2339,Soyabean,Yeotmal,2017-07-25,2750.0,98.0,25.4,clear
+2340,Soyabean,Babhulgaon,2017-07-29,2701.0,30.0,30.0,clear
+2341,Soyabean,Umarked(Danki),2017-07-29,2700.0,12.0,30.0,clear
+2342,Soyabean,Umarkhed,2017-07-29,2700.0,12.0,30.0,clear
+2343,Soyabean,Babhulgaon,2017-04-09,2801.0,40.0,39.4,clear
+2344,Soyabean,Digras,2017-04-09,2885.0,3.0,39.4,clear
+2345,Soyabean,Ner Parasopant,2017-04-09,2850.0,5.0,39.4,clear
+2346,Soyabean,Yeotmal,2017-04-09,2750.0,96.0,39.4,clear
+2347,Soyabean,Babhulgaon,2017-05-09,2851.0,30.0,40.4,clear
+2348,Soyabean,Digras,2017-05-09,2975.0,0.0,40.4,clear
+2349,Soyabean,Umarkhed,2017-05-09,2900.0,5.0,40.4,clear
+2350,Soyabean,Vani,2017-05-09,3000.0,9.0,40.4,clear
+2351,Soyabean,Yeotmal,2017-05-09,2850.0,106.0,40.4,clear
+2352,Soyabean,Babhulgaon,2017-06-09,2751.0,30.0,35.4,clear
+2353,Soyabean,Digras,2017-06-09,3000.0,1.0,35.4,clear
+2354,Soyabean,Ner Parasopant,2017-06-09,2800.0,0.0,35.4,clear
+2355,Soyabean,Yeotmal,2017-06-09,2775.0,122.0,35.4,clear
+2356,Soyabean,Babhulgaon,2017-08-09,2901.0,25.0,26.0,clear
+2357,Soyabean,Digras,2017-08-09,2885.0,1.0,26.0,clear
+2358,Soyabean,Ner Parasopant,2017-08-09,2850.0,6.0,26.0,clear
+2359,Soyabean,Umarkhed,2017-08-09,2800.0,19.0,26.0,clear
+2360,Soyabean,Yeotmal,2017-08-09,2785.0,92.0,26.0,clear
+2361,Soyabean,Babhulgaon,2017-09-09,2900.0,8.0,29.4,clear
+2362,Soyabean,Babhulgaon,2017-11-09,2901.0,20.0,27.0,clear
+2363,Soyabean,Umarked(Danki),2017-11-09,2800.0,5.0,27.0,clear
+2364,Soyabean,Umarkhed,2017-11-09,2800.0,6.0,27.0,clear
+2365,Soyabean,Vani,2017-11-09,2850.0,8.0,27.0,clear
+2366,Soyabean,Yeotmal,2017-11-09,2875.0,185.0,27.0,clear
+2367,Soyabean,Babhulgaon,2017-12-09,2851.0,16.0,27.0,clear
+2368,Soyabean,Digras,2017-12-09,2875.0,2.0,27.0,clear
+2369,Soyabean,Vani,2017-12-09,2800.0,1.0,27.0,clear
+2370,Soyabean,Yeotmal,2017-12-09,2850.0,164.0,27.0,clear
+2371,Soyabean,Babhulgaon,2017-09-13,2900.0,21.0,27.4,clear
+2372,Soyabean,Digras,2017-09-13,2915.0,3.0,27.4,clear
+2373,Soyabean,Umarkhed,2017-09-13,2800.0,7.0,27.4,clear
+2374,Soyabean,Vani,2017-09-13,2890.0,6.0,27.4,clear
+2375,Soyabean,Babhulgaon,2017-09-18,2851.0,15.0,28.0,clear
+2376,Soyabean,Digras,2017-09-18,2875.0,3.0,28.0,clear
+2377,Soyabean,Ner Parasopant,2017-09-18,2850.0,7.0,28.0,clear
+2378,Soyabean,Vani,2017-09-18,2629.0,4.0,28.0,clear
+2379,Soyabean,Yeotmal,2017-09-18,2850.0,117.0,28.0,clear
+2380,Soyabean,Babhulgaon,2017-09-20,2825.0,15.0,27.0,clear
+2381,Soyabean,Digras,2017-09-20,2810.0,1.0,27.0,clear
+2382,Soyabean,Ner Parasopant,2017-09-20,2850.0,27.0,27.0,clear
+2383,Soyabean,Vani,2017-09-20,2875.0,17.0,27.0,clear
+2384,Soyabean,Yeotmal,2017-09-20,2850.0,131.0,27.0,clear
+2385,Soyabean,Babhulgaon,2017-09-22,2851.0,15.0,25.4,clear
+2386,Soyabean,Digras,2017-09-22,2920.0,1.0,25.4,clear
+2387,Soyabean,Ner Parasopant,2017-09-22,2850.0,17.0,25.4,clear
+2388,Soyabean,Vani,2017-09-22,2845.0,0.0,25.4,clear
+2389,Soyabean,Yeotmal,2017-09-22,2825.0,124.0,25.4,clear
+2390,Soyabean,Babhulgaon,2017-09-25,2701.0,11.0,30.4,clear
+2391,Soyabean,Digras,2017-09-25,2610.0,1.0,30.4,clear
+2392,Soyabean,Ner Parasopant,2017-09-25,2800.0,12.0,30.4,clear
+2393,Soyabean,Umarkhed,2017-09-25,2700.0,24.0,30.4,clear
+2394,Soyabean,Vani,2017-09-25,2840.0,1.0,30.4,clear
+2395,Soyabean,Yeotmal,2017-09-25,2780.0,145.0,30.4,clear
+2396,Soyabean,Babhulgaon,2017-09-26,2751.0,15.0,31.0,clear
+2397,Soyabean,Ner Parasopant,2017-09-26,2850.0,11.0,31.0,clear
+2398,Soyabean,Umarked(Danki),2017-09-26,2700.0,50.0,31.0,clear
+2399,Soyabean,Umarkhed,2017-09-26,2700.0,55.0,31.0,clear
+2400,Soyabean,Yeotmal,2017-09-26,2745.0,143.0,31.0,clear
+2401,Soyabean,Babhulgaon,2017-09-27,2751.0,15.0,32.0,clear
+2402,Soyabean,Ner Parasopant,2017-09-27,2800.0,15.0,32.0,clear
+2403,Soyabean,Umarked(Danki),2017-09-27,2700.0,69.0,32.0,clear
+2404,Soyabean,Umarkhed,2017-09-27,2700.0,44.0,32.0,clear
+2405,Soyabean,Vani,2017-09-27,2700.0,2.0,32.0,clear
+2406,Soyabean,Yeotmal,2017-09-27,2775.0,138.0,32.0,clear
+2407,Soyabean,Babhulgaon,2017-06-10,2601.0,30.0,34.0,clear
+2408,Soyabean,Ner Parasopant,2017-06-10,2650.0,52.0,34.0,clear
+2409,Soyabean,Umarked(Danki),2017-06-10,2600.0,124.0,34.0,clear
+2410,Soyabean,Umarkhed,2017-06-10,2620.0,105.0,34.0,clear
+2411,Soyabean,Vani,2017-06-10,2680.0,41.0,34.0,clear
+2412,Soyabean,ZariZamini,2017-06-10,2693.0,10.0,34.0,clear
+2413,Soyabean,Babhulgaon,2017-07-10,2601.0,40.0,32.0,clear
+2414,Soyabean,Ner Parasopant,2017-07-10,2600.0,97.0,32.0,clear
+2415,Soyabean,Umarked(Danki),2017-07-10,2600.0,7.0,32.0,clear
+2416,Soyabean,Umarkhed,2017-07-10,2600.0,95.0,32.0,clear
+2417,Soyabean,ZariZamini,2017-07-10,2678.0,6.0,32.0,clear
+2418,Soyabean,Babhulgaon,2017-09-10,2551.0,40.0,30.0,clear
+2419,Soyabean,Kalamb,2017-09-10,2600.0,10.0,30.0,clear
+2420,Soyabean,Umarked(Danki),2017-09-10,2570.0,160.0,30.0,clear
+2421,Soyabean,Umarkhed,2017-09-10,2600.0,92.0,30.0,clear
+2422,Soyabean,Vani,2017-09-10,2775.0,8.0,30.0,clear
+2423,Soyabean,Yeotmal,2017-09-10,2625.0,196.0,30.0,clear
+2424,Soyabean,Babhulgaon,2017-10-13,2500.0,40.0,29.4,clear
+2425,Soyabean,Digras,2017-10-13,2700.0,25.0,29.4,clear
+2426,Soyabean,Kalamb,2017-10-13,2235.0,14.0,29.4,clear
+2427,Soyabean,Ner Parasopant,2017-10-13,2625.0,60.0,29.4,clear
+2428,Soyabean,Umarked(Danki),2017-10-13,2590.0,74.0,29.4,clear
+2429,Soyabean,Umarkhed,2017-10-13,2580.0,110.0,29.4,clear
+2430,Soyabean,Vani,2017-10-13,2775.0,25.0,29.4,clear
+2431,Soyabean,Yeotmal,2017-10-13,2750.0,278.0,29.4,clear
+2432,Soyabean,Babhulgaon,2017-10-14,2400.0,61.0,29.4,clear
+2433,Soyabean,Kalamb,2017-10-14,2275.0,8.0,29.4,clear
+2434,Soyabean,Umarked(Danki),2017-10-14,2600.0,14.0,29.4,clear
+2435,Soyabean,Umarkhed,2017-10-14,2600.0,121.0,29.4,clear
+2436,Soyabean,ZariZamini,2017-10-14,2443.0,8.0,29.4,clear
+2437,Soyabean,Babhulgaon,2017-10-23,2501.0,140.0,30.4,clear
+2438,Soyabean,Digras,2017-10-23,2775.0,22.0,30.4,clear
+2439,Soyabean,Kalamb,2017-10-23,2425.0,42.0,30.4,clear
+2440,Soyabean,Umarked(Danki),2017-10-23,2580.0,112.0,30.4,clear
+2441,Soyabean,Umarkhed,2017-10-23,2580.0,36.0,30.4,clear
+2442,Soyabean,Vani,2017-10-23,2700.0,50.0,30.4,clear
+2443,Soyabean,Yeotmal,2017-10-23,2650.0,368.0,30.4,clear
+2444,Soyabean,ZariZamini,2017-10-23,2569.0,8.0,30.4,clear
+2445,Soyabean,Babhulgaon,2017-10-24,2501.0,110.0,29.4,clear
+2446,Soyabean,Digras,2017-10-24,2685.0,32.0,29.4,clear
+2447,Soyabean,Kalamb,2017-10-24,2420.0,51.0,29.4,clear
+2448,Soyabean,Mahagaon,2017-10-24,2900.0,5.0,29.4,clear
+2449,Soyabean,Pandhakawada,2017-10-24,3050.0,1.0,29.4,clear
+2450,Soyabean,Umarked(Danki),2017-10-24,2630.0,37.0,29.4,clear
+2451,Soyabean,Umarkhed,2017-10-24,2620.0,43.0,29.4,clear
+2452,Soyabean,Vani,2017-10-24,2650.0,48.0,29.4,clear
+2453,Soyabean,ZariZamini,2017-10-24,2635.0,6.0,29.4,clear
+2454,Soyabean,Babhulgaon,2017-10-25,2601.0,150.0,29.0,clear
+2455,Soyabean,Digras,2017-10-25,2775.0,31.0,29.0,clear
+2456,Soyabean,Kalamb,2017-10-25,2440.0,34.0,29.0,clear
+2457,Soyabean,Mahagaon,2017-10-25,2800.0,11.0,29.0,clear
+2458,Soyabean,Umarked(Danki),2017-10-25,2600.0,29.0,29.0,clear
+2459,Soyabean,Umarkhed,2017-10-25,2590.0,107.0,29.0,clear
+2460,Soyabean,Vani,2017-10-25,2635.0,50.0,29.0,clear
+2461,Soyabean,ZariZamini,2017-10-25,2624.0,9.0,29.0,clear
+2462,Soyabean,Babhulgaon,2017-01-11,2501.0,120.0,22.0,clear
+2463,Soyabean,Digras,2017-01-11,2675.0,27.0,22.0,clear
+2464,Soyabean,Pandhakawada,2017-01-11,2375.0,21.0,22.0,clear
+2465,Soyabean,Umarked(Danki),2017-01-11,2550.0,37.0,22.0,clear
+2466,Soyabean,Umarkhed,2017-01-11,2550.0,55.0,22.0,clear
+2467,Soyabean,Vani,2017-01-11,2375.0,42.0,22.0,clear
+2468,Soyabean,Yeotmal,2017-01-11,2550.0,391.0,22.0,clear
+2469,Soyabean,ZariZamini,2017-01-11,2512.0,3.0,22.0,clear
+2470,Soyabean,Babhulgaon,2017-03-11,2501.0,140.0,24.0,clear
+2471,Soyabean,Kalamb,2017-03-11,2380.0,34.0,24.0,clear
+2472,Soyabean,Pandhakawada,2017-03-11,2425.0,20.0,24.0,clear
+2473,Soyabean,Umarkhed,2017-03-11,2550.0,87.0,24.0,clear
+2474,Soyabean,Vani,2017-03-11,2450.0,42.0,24.0,clear
+2475,Soyabean,Bori Arab,2017-06-03,2710.0,10.0,41.0,clear
+2476,Soyabean,Digras,2017-06-03,2575.0,16.0,41.0,clear
+2477,Soyabean,Ner Parasopant,2017-06-03,2675.0,46.0,41.0,clear
+2478,Soyabean,Umarked(Danki),2017-06-03,2700.0,7.0,41.0,clear
+2479,Soyabean,Umarkhed,2017-06-03,2700.0,5.0,41.0,clear
+2480,Soyabean,Vani,2017-06-03,2675.0,26.0,41.0,clear
+2481,Soyabean,Yeotmal,2017-06-03,2650.0,195.0,41.0,clear
+2482,Soyabean,Digras,2017-12-01,2685.0,37.0,24.0,clear
+2483,Soyabean,Ner Parasopant,2017-12-01,2700.0,75.0,24.0,clear
+2484,Soyabean,Pandhakawada,2017-12-01,2630.0,10.0,24.0,clear
+2485,Soyabean,Umarked(Danki),2017-12-01,2750.0,37.0,24.0,clear
+2486,Soyabean,Umarkhed,2017-12-01,2750.0,42.0,24.0,clear
+2487,Soyabean,Vani,2017-12-01,2700.0,26.0,24.0,clear
+2488,Soyabean,Yeotmal,2017-12-01,2810.0,186.0,24.0,clear
+2489,Soyabean,Digras,2017-01-17,2685.0,18.0,27.4,clear
+2490,Soyabean,Pandhakawada,2017-01-17,2700.0,6.0,27.4,clear
+2491,Soyabean,Umarked(Danki),2017-01-17,2780.0,13.0,27.4,clear
+2492,Soyabean,Umarkhed,2017-01-17,2780.0,31.0,27.4,clear
+2493,Soyabean,Vani,2017-01-17,2700.0,49.0,27.4,clear
+2494,Soyabean,Yeotmal,2017-01-17,2850.0,250.0,27.4,clear
+2495,Soyabean,Digras,2017-01-18,2795.0,11.0,28.0,clear
+2496,Soyabean,Pandhakawada,2017-01-18,2700.0,17.0,28.0,clear
+2497,Soyabean,Umarked(Danki),2017-01-18,2775.0,12.0,28.0,clear
+2498,Soyabean,Umarkhed,2017-01-18,2780.0,14.0,28.0,clear
+2499,Soyabean,Vani,2017-01-18,2775.0,53.0,28.0,clear
+2500,Soyabean,Digras,2017-01-19,2785.0,13.0,27.0,clear
+2501,Soyabean,Pandhakawada,2017-01-19,2700.0,10.0,27.0,clear
+2502,Soyabean,Umarked(Danki),2017-01-19,2780.0,31.0,27.0,clear
+2503,Soyabean,Umarkhed,2017-01-19,2775.0,53.0,27.0,clear
+2504,Soyabean,Digras,2017-01-24,2685.0,27.0,28.4,clear
+2505,Soyabean,Ghatanji,2017-01-24,2780.0,4.0,28.4,clear
+2506,Soyabean,Pandhakawada,2017-01-24,2700.0,5.0,28.4,clear
+2507,Soyabean,Umarkhed,2017-01-24,2780.0,19.0,28.4,clear
+2508,Soyabean,Digras,2017-08-03,2585.0,15.0,28.4,clear
+2509,Soyabean,Umarked(Danki),2017-08-03,2700.0,12.0,28.4,clear
+2510,Soyabean,Umarkhed,2017-08-03,2700.0,12.0,28.4,clear
+2511,Soyabean,Vani,2017-08-03,2650.0,9.0,28.4,clear
+2512,Soyabean,Yeotmal,2017-08-03,2650.0,140.0,28.4,clear
+2513,Soyabean,Digras,2017-09-03,2685.0,16.0,28.0,clear
+2514,Soyabean,Umarked(Danki),2017-09-03,2700.0,7.0,28.0,clear
+2515,Soyabean,Umarkhed,2017-09-03,2700.0,57.0,28.0,clear
+2516,Soyabean,Vani,2017-09-03,2635.0,17.0,28.0,clear
+2517,Soyabean,Yeotmal,2017-09-03,2660.0,93.0,28.0,clear
+2518,Soyabean,Digras,2017-03-15,2585.0,11.0,33.0,clear
+2519,Soyabean,Ghatanji,2017-03-15,2540.0,7.0,33.0,clear
+2520,Soyabean,Umarkhed,2017-03-15,2700.0,17.0,33.0,clear
+2521,Soyabean,Vani,2017-03-15,2630.0,17.0,33.0,clear
+2522,Soyabean,Yeotmal,2017-03-15,2635.0,125.0,33.0,clear
+2523,Soyabean,Digras,2017-03-16,2515.0,9.0,27.4,clear
+2524,Soyabean,Ner Parasopant,2017-03-16,2700.0,34.0,27.4,clear
+2525,Soyabean,Umarkhed,2017-03-16,2700.0,12.0,27.4,clear
+2526,Soyabean,Vani,2017-03-16,2550.0,3.0,27.4,clear
+2527,Soyabean,Yeotmal,2017-03-16,2650.0,129.0,27.4,clear
+2528,Soyabean,Digras,2017-03-23,2585.0,5.0,38.4,clear
+2529,Soyabean,Ner Parasopant,2017-03-23,2675.0,26.0,38.4,clear
+2530,Soyabean,Pandhakawada,2017-03-23,2630.0,8.0,38.4,clear
+2531,Soyabean,Umarked(Danki),2017-03-23,2770.0,13.0,38.4,clear
+2532,Soyabean,Umarkhed,2017-03-23,2750.0,24.0,38.4,clear
+2533,Soyabean,Vani,2017-03-23,2775.0,21.0,38.4,clear
+2534,Soyabean,Yeotmal,2017-03-23,2700.0,174.0,38.4,clear
+2535,Soyabean,Digras,2017-05-22,2585.0,9.0,40.0,clear
+2536,Soyabean,Umarkhed,2017-05-22,2650.0,13.0,40.0,clear
+2537,Soyabean,Vani,2017-05-22,2700.0,27.0,40.0,clear
+2538,Soyabean,Digras,2017-08-06,2645.0,0.0,27.4,clear
+2539,Soyabean,Umarked(Danki),2017-08-06,2650.0,7.0,27.4,clear
+2540,Soyabean,Umarkhed,2017-08-06,2650.0,7.0,27.4,clear
+2541,Soyabean,Digras,2017-06-15,2645.0,1.0,30.4,clear
+2542,Soyabean,Umarked(Danki),2017-06-15,2600.0,19.0,30.4,clear
+2543,Soyabean,Umarkhed,2017-06-15,2600.0,18.0,30.4,clear
+2544,Soyabean,Vani,2017-06-15,2700.0,5.0,30.4,clear
+2545,Soyabean,Yeotmal,2017-06-15,2775.0,91.0,30.4,clear
+2546,Soyabean,Digras,2017-06-29,2695.0,3.0,29.0,clear
+2547,Soyabean,Umarked(Danki),2017-06-29,2600.0,12.0,29.0,clear
+2548,Soyabean,Umarkhed,2017-06-29,2600.0,26.0,29.0,clear
+2549,Soyabean,Yeotmal,2017-06-29,2745.0,90.0,29.0,clear
+2550,Soyabean,Digras,2017-03-07,2585.0,4.0,33.0,clear
+2551,Soyabean,Pandhakawada,2017-03-07,2305.0,2.0,33.0,clear
+2552,Soyabean,Digras,2017-05-07,2775.0,5.0,43.0,clear
+2553,Soyabean,Umarkhed,2017-05-07,2700.0,7.0,43.0,clear
+2554,Soyabean,Vani,2017-05-07,2760.0,15.0,43.0,clear
+2555,Soyabean,Digras,2017-07-20,2825.0,5.0,29.4,clear
+2556,Soyabean,Umarked(Danki),2017-07-20,2700.0,7.0,29.4,clear
+2557,Soyabean,Vani,2017-07-20,2800.0,8.0,29.4,clear
+2558,Soyabean,Yeotmal,2017-07-20,2775.0,117.0,29.4,clear
+2559,Soyabean,Digras,2017-07-26,2780.0,2.0,27.4,clear
+2560,Soyabean,Umarkhed,2017-07-26,2700.0,12.0,27.4,clear
+2561,Soyabean,Vani,2017-07-26,2830.0,7.0,27.4,clear
+2562,Soyabean,Yeotmal,2017-07-26,2725.0,58.0,27.4,clear
+2563,Soyabean,Digras,2017-07-28,2775.0,2.0,28.0,clear
+2564,Soyabean,Yeotmal,2017-07-28,2728.0,80.0,28.0,clear
+2565,Soyabean,Digras,2017-07-31,2715.0,1.0,31.0,clear
+2566,Soyabean,Umarkhed,2017-07-31,2700.0,12.0,31.0,clear
+2567,Soyabean,Vani,2017-07-31,2850.0,19.0,31.0,clear
+2568,Soyabean,Yeotmal,2017-07-31,2750.0,65.0,31.0,clear
+2569,Soyabean,Digras,2017-01-08,2755.0,4.0,27.0,clear
+2570,Soyabean,Vani,2017-01-08,2860.0,7.0,27.0,clear
+2571,Soyabean,Yeotmal,2017-01-08,2725.0,87.0,27.0,clear
+2572,Soyabean,Digras,2017-02-08,2610.0,1.0,31.0,clear
+2573,Soyabean,Umarked(Danki),2017-02-08,2700.0,12.0,31.0,clear
+2574,Soyabean,Umarkhed,2017-02-08,2700.0,13.0,31.0,clear
+2575,Soyabean,Yeotmal,2017-02-08,2750.0,74.0,31.0,clear
+2576,Soyabean,Digras,2017-03-08,2685.0,4.0,24.4,clear
+2577,Soyabean,Umarked(Danki),2017-03-08,2700.0,7.0,24.4,clear
+2578,Soyabean,Umarkhed,2017-03-08,2700.0,12.0,24.4,clear
+2579,Soyabean,Yeotmal,2017-03-08,2745.0,89.0,24.4,clear
+2580,Soyabean,Digras,2017-08-08,2685.0,3.0,26.0,clear
+2581,Soyabean,Vani,2017-08-08,2840.0,12.0,26.0,clear
+2582,Soyabean,Digras,2017-09-08,2785.0,4.0,30.4,clear
+2583,Soyabean,Yeotmal,2017-09-08,2675.0,84.0,30.4,clear
+2584,Soyabean,Digras,2017-10-08,2785.0,2.0,26.4,clear
+2585,Soyabean,Yeotmal,2017-10-08,2750.0,75.0,26.4,clear
+2586,Soyabean,Digras,2017-08-14,2885.0,2.0,27.4,clear
+2587,Soyabean,Yeotmal,2017-08-14,2820.0,43.0,27.4,clear
+2588,Soyabean,Digras,2017-08-16,2785.0,9.0,29.0,clear
+2589,Soyabean,Vani,2017-08-16,2952.0,1.0,29.0,clear
+2590,Soyabean,Yeotmal,2017-08-16,2750.0,69.0,29.0,clear
+2591,Soyabean,Digras,2017-08-18,2885.0,3.0,27.0,clear
+2592,Soyabean,Vani,2017-08-18,2900.0,5.0,27.0,clear
+2593,Soyabean,Yeotmal,2017-08-18,2825.0,74.0,27.0,clear
+2594,Soyabean,Digras,2017-08-23,2995.0,14.0,28.0,clear
+2595,Soyabean,Vani,2017-08-23,2800.0,1.0,28.0,clear
+2596,Soyabean,Digras,2017-08-24,2985.0,2.0,28.0,clear
+2597,Soyabean,Vani,2017-08-24,3060.0,2.0,28.0,clear
+2598,Soyabean,Digras,2017-08-28,2785.0,4.0,25.4,clear
+2599,Soyabean,Ner Parasopant,2017-08-28,2700.0,7.0,25.4,clear
+2600,Soyabean,Vani,2017-08-28,3050.0,1.0,25.4,clear
+2601,Soyabean,Yeotmal,2017-08-28,2775.0,72.0,25.4,clear
+2602,Soyabean,Digras,2017-07-09,3050.0,4.0,35.0,clear
+2603,Soyabean,Ner Parasopant,2017-07-09,2900.0,9.0,35.0,clear
+2604,Soyabean,Umarked(Danki),2017-07-09,2850.0,19.0,35.0,clear
+2605,Soyabean,Umarkhed,2017-07-09,2850.0,12.0,35.0,clear
+2606,Soyabean,Vani,2017-07-09,2955.0,5.0,35.0,clear
+2607,Soyabean,Yeotmal,2017-07-09,2765.0,109.0,35.0,clear
+2608,Soyabean,Digras,2017-09-14,2865.0,2.0,29.4,clear
+2609,Soyabean,Ner Parasopant,2017-09-14,2750.0,27.0,29.4,clear
+2610,Soyabean,Umarkhed,2017-09-14,2800.0,7.0,29.4,clear
+2611,Soyabean,Vani,2017-09-14,2900.0,2.0,29.4,clear
+2612,Soyabean,Yeotmal,2017-09-14,2850.0,261.0,29.4,clear
+2613,Soyabean,Digras,2017-09-21,2875.0,3.0,24.4,clear
+2614,Soyabean,Ner Parasopant,2017-09-21,2800.0,1.0,24.4,clear
+2615,Soyabean,Yeotmal,2017-09-21,2850.0,93.0,24.4,clear
+2616,Soyabean,Digras,2017-03-10,2775.0,11.0,32.0,clear
+2617,Soyabean,Ner Parasopant,2017-03-10,2650.0,36.0,32.0,clear
+2618,Soyabean,Pusad,2017-03-10,2690.0,134.0,32.0,clear
+2619,Soyabean,Umarked(Danki),2017-03-10,2600.0,117.0,32.0,clear
+2620,Soyabean,Umarkhed,2017-03-10,2600.0,58.0,32.0,clear
+2621,Soyabean,Vani,2017-03-10,2615.0,5.0,32.0,clear
+2622,Soyabean,Digras,2017-04-10,2765.0,10.0,37.4,clear
+2623,Soyabean,Umarked(Danki),2017-04-10,2600.0,112.0,37.4,clear
+2624,Soyabean,Umarkhed,2017-04-10,2600.0,97.0,37.4,clear
+2625,Soyabean,Vani,2017-04-10,2700.0,18.0,37.4,clear
+2626,Soyabean,Digras,2017-05-10,2785.0,7.0,39.4,clear
+2627,Soyabean,Ner Parasopant,2017-05-10,2650.0,60.0,39.4,clear
+2628,Soyabean,Umarked(Danki),2017-05-10,2600.0,464.0,39.4,clear
+2629,Soyabean,Umarkhed,2017-05-10,2600.0,89.0,39.4,clear
+2630,Soyabean,Vani,2017-05-10,2575.0,4.0,39.4,clear
+2631,Soyabean,Digras,2017-10-16,2775.0,35.0,32.0,clear
+2632,Soyabean,Kalamb,2017-10-16,2425.0,35.0,32.0,clear
+2633,Soyabean,Ner Parasopant,2017-10-16,2500.0,111.0,32.0,clear
+2634,Soyabean,Pandhakawada,2017-10-16,2550.0,1.0,32.0,clear
+2635,Soyabean,Umarked(Danki),2017-10-16,2590.0,76.0,32.0,clear
+2636,Soyabean,Umarkhed,2017-10-16,2590.0,91.0,32.0,clear
+2637,Soyabean,Vani,2017-10-16,2775.0,25.0,32.0,clear
+2638,Soyabean,ZariZamini,2017-10-16,2452.0,10.0,32.0,clear
+2639,Soyabean,Digras,2017-10-17,2575.0,23.0,31.0,clear
+2640,Soyabean,Kalamb,2017-10-17,2450.0,15.0,31.0,clear
+2641,Soyabean,Ner Parasopant,2017-10-17,2500.0,49.0,31.0,clear
+2642,Soyabean,Umarked(Danki),2017-10-17,2550.0,12.0,31.0,clear
+2643,Soyabean,Umarkhed,2017-10-17,2570.0,103.0,31.0,clear
+2644,Soyabean,Vani,2017-10-17,2810.0,17.0,31.0,clear
+2645,Soyabean,ZariZamini,2017-10-17,2459.0,7.0,31.0,clear
+2646,Soyabean,Digras,2017-10-26,2775.0,31.0,30.0,clear
+2647,Soyabean,Mahagaon,2017-10-26,2700.0,9.0,30.0,clear
+2648,Soyabean,Pandhakawada,2017-10-26,3050.0,5.0,30.0,clear
+2649,Soyabean,Umarked(Danki),2017-10-26,2600.0,50.0,30.0,clear
+2650,Soyabean,Umarkhed,2017-10-26,2600.0,77.0,30.0,clear
+2651,Soyabean,Vani,2017-10-26,2650.0,48.0,30.0,clear
+2652,Soyabean,ZariZamini,2017-10-26,2495.0,6.0,30.0,clear
+2653,Soyabean,Digras,2017-10-30,2575.0,38.0,25.0,clear
+2654,Soyabean,Pandhakawada,2017-10-30,2400.0,21.0,25.0,clear
+2655,Soyabean,Umarked(Danki),2017-10-30,2580.0,37.0,25.0,clear
+2656,Soyabean,Umarkhed,2017-10-30,2600.0,51.0,25.0,clear
+2657,Soyabean,Vani,2017-10-30,2500.0,73.0,25.0,clear
+2658,Soyabean,ZariZamini,2017-10-30,2296.0,5.0,25.0,clear
+2659,Soyabean,Digras,2017-10-31,2585.0,49.0,29.0,clear
+2660,Soyabean,Pandhakawada,2017-10-31,2375.0,18.0,29.0,clear
+2661,Soyabean,Umarked(Danki),2017-10-31,2590.0,25.0,29.0,clear
+2662,Soyabean,Umarkhed,2017-10-31,2590.0,54.0,29.0,clear
+2663,Soyabean,Vani,2017-10-31,2300.0,62.0,29.0,clear
+2664,Soyabean,Yeotmal,2017-10-31,2460.0,353.0,29.0,clear
+2665,Soyabean,ZariZamini,2017-10-31,2159.0,7.0,29.0,clear
+2666,Soyabean,Digras,2017-02-11,2675.0,38.0,30.4,clear
+2667,Soyabean,Kalamb,2017-02-11,2360.0,37.0,30.4,clear
+2668,Soyabean,Pandhakawada,2017-02-11,2525.0,16.0,30.4,clear
+2669,Soyabean,Umarked(Danki),2017-02-11,2550.0,60.0,30.4,clear
+2670,Soyabean,Umarkhed,2017-02-11,2600.0,70.0,30.4,clear
+2671,Soyabean,Vani,2017-02-11,2400.0,27.0,30.4,clear
+2672,Soyabean,Yeotmal,2017-02-11,2625.0,386.0,30.4,clear
+2673,Soyabean,ZariZamini,2017-02-11,2401.0,2.0,30.4,clear
+2674,Soyabean,Ghatanji,2017-02-03,2500.0,5.0,30.0,clear
+2675,Soyabean,Ner Parasopant,2017-02-03,2675.0,77.0,30.0,clear
+2676,Soyabean,Umarkhed,2017-02-03,2710.0,33.0,30.0,clear
+2677,Soyabean,Vani,2017-02-03,2775.0,30.0,30.0,clear
+2678,Soyabean,Yeotmal,2017-02-03,2675.0,116.0,30.0,clear
+2679,Soyabean,Kalamb,2017-12-03,2600.0,12.0,24.4,clear
+2680,Soyabean,Kalamb,2017-10-10,2250.0,6.0,28.0,clear
+2681,Soyabean,Vani,2017-10-10,2700.0,15.0,28.0,clear
+2682,Soyabean,ZariZamini,2017-10-10,2623.0,15.0,28.0,clear
+2683,Soyabean,Kalamb,2017-11-10,2275.0,4.0,27.4,clear
+2684,Soyabean,Ner Parasopant,2017-11-10,2650.0,24.0,27.4,clear
+2685,Soyabean,Umarked(Danki),2017-11-10,2630.0,136.0,27.4,clear
+2686,Soyabean,Umarkhed,2017-11-10,2630.0,89.0,27.4,clear
+2687,Soyabean,Vani,2017-11-10,2625.0,10.0,27.4,clear
+2688,Soyabean,Yeotmal,2017-11-10,2675.0,363.0,27.4,clear
+2689,Soyabean,ZariZamini,2017-11-10,2649.0,8.0,27.4,clear
+2690,Soyabean,Kalamb,2017-10-18,2455.0,15.0,31.0,clear
+2691,Soyabean,Umarked(Danki),2017-10-18,2570.0,88.0,31.0,clear
+2692,Soyabean,Umarkhed,2017-10-18,2570.0,74.0,31.0,clear
+2693,Soyabean,Mahagaon,2017-11-04,2800.0,5.0,29.0,clear
+2694,Soyabean,Umarked(Danki),2017-11-04,2700.0,12.0,29.0,clear
+2695,Soyabean,Umarkhed,2017-11-04,2700.0,14.0,29.0,clear
+2696,Soyabean,Ner Parasopant,2017-09-02,2700.0,102.0,30.0,clear
+2697,Soyabean,Pandhakawada,2017-09-02,2680.0,9.0,30.0,clear
+2698,Soyabean,Umarked(Danki),2017-09-02,2780.0,12.0,30.0,clear
+2699,Soyabean,Umarkhed,2017-09-02,2780.0,83.0,30.0,clear
+2700,Soyabean,Yeotmal,2017-09-02,2680.0,162.0,30.0,clear
+2701,Soyabean,Ner Parasopant,2017-02-25,2700.0,26.0,31.4,clear
+2702,Soyabean,Ner Parasopant,2017-04-03,2700.0,49.0,39.4,clear
+2703,Soyabean,Umarkhed,2017-04-03,2700.0,12.0,39.4,clear
+2704,Soyabean,Ner Parasopant,2017-03-18,2700.0,36.0,33.4,clear
+2705,Soyabean,Umarked(Danki),2017-03-18,2750.0,12.0,33.4,clear
+2706,Soyabean,Umarkhed,2017-03-18,2750.0,63.0,33.4,clear
+2707,Soyabean,Ner Parasopant,2017-04-13,2675.0,47.0,41.0,clear
+2708,Soyabean,Umarkhed,2017-04-13,2700.0,19.0,41.0,clear
+2709,Soyabean,Vani,2017-04-13,2775.0,21.0,41.0,clear
+2710,Soyabean,Yeotmal,2017-04-13,2720.0,131.0,41.0,clear
+2711,Soyabean,Ner Parasopant,2017-04-20,2775.0,41.0,41.0,clear
+2712,Soyabean,Umarkhed,2017-04-20,2700.0,28.0,41.0,clear
+2713,Soyabean,Vani,2017-04-20,2775.0,17.0,41.0,clear
+2714,Soyabean,Ner Parasopant,2017-05-18,2700.0,2.0,41.4,clear
+2715,Soyabean,Umarked(Danki),2017-05-18,2600.0,24.0,41.4,clear
+2716,Soyabean,Umarkhed,2017-05-18,2650.0,10.0,41.4,clear
+2717,Soyabean,Vani,2017-05-18,2634.0,28.0,41.4,clear
+2718,Soyabean,Yeotmal,2017-05-18,2690.0,335.0,41.4,clear
+2719,Soyabean,Ner Parasopant,2017-05-19,2650.0,2.0,41.4,clear
+2720,Soyabean,Vani,2017-05-19,2700.0,31.0,41.4,clear
+2721,Soyabean,Ner Parasopant,2017-05-25,2675.0,5.0,42.0,clear
+2722,Soyabean,Umarkhed,2017-05-25,2650.0,8.0,42.0,clear
+2723,Soyabean,Ner Parasopant,2017-05-26,2600.0,3.0,40.4,clear
+2724,Soyabean,Umarkhed,2017-05-26,2650.0,12.0,40.4,clear
+2725,Soyabean,Ner Parasopant,2017-05-29,2600.0,4.0,40.0,clear
+2726,Soyabean,Umarked(Danki),2017-05-29,2650.0,7.0,40.0,clear
+2727,Soyabean,Ner Parasopant,2017-08-07,2600.0,6.0,27.4,clear
+2728,Soyabean,Ner Parasopant,2017-08-31,2800.0,5.0,30.0,clear
+2729,Soyabean,Yeotmal,2017-08-31,2750.0,44.0,30.0,clear
+2730,Soyabean,Ner Parasopant,2017-09-15,2800.0,11.0,25.4,clear
+2731,Soyabean,Umarked(Danki),2017-09-15,2800.0,21.0,25.4,clear
+2732,Soyabean,Vani,2017-09-15,2850.0,1.0,25.4,clear
+2733,Soyabean,Yeotmal,2017-09-15,2750.0,141.0,25.4,clear
+2734,Soyabean,Ner Parasopant,2017-09-23,2850.0,12.0,30.4,clear
+2735,Soyabean,Umarked(Danki),2017-09-23,2800.0,36.0,30.4,clear
+2736,Soyabean,Ner Parasopant,2017-09-28,2850.0,23.0,31.4,clear
+2737,Soyabean,Umarked(Danki),2017-09-28,2650.0,67.0,31.4,clear
+2738,Soyabean,Umarkhed,2017-09-28,2650.0,76.0,31.4,clear
+2739,Soyabean,Yeotmal,2017-09-28,2750.0,57.0,31.4,clear
+2740,Soyabean,Ner Parasopant,2017-12-10,2650.0,74.0,26.0,clear
+2741,Soyabean,Umarked(Danki),2017-12-10,2640.0,55.0,26.0,clear
+2742,Soyabean,Umarkhed,2017-12-10,2630.0,94.0,26.0,clear
+2743,Soyabean,Vani,2017-12-10,2750.0,14.0,26.0,clear
+2744,Soyabean,Yeotmal,2017-12-10,2650.0,305.0,26.0,clear
+2745,Soyabean,ZariZamini,2017-12-10,2703.0,3.0,26.0,clear
+2746,Soyabean,Pandhakawada,2017-02-17,2650.0,4.0,33.4,clear
+2747,Soyabean,Yeotmal,2017-02-17,2820.0,142.0,33.4,clear
+2748,Soyabean,Pandhakawada,2017-04-22,2675.0,3.0,39.0,clear
+2749,Soyabean,Umarkhed,2017-04-22,2700.0,26.0,39.0,clear
+2750,Soyabean,Pandhakawada,2017-10-27,3050.0,3.0,29.0,clear
+2751,Soyabean,Umarked(Danki),2017-10-27,2600.0,25.0,29.0,clear
+2752,Soyabean,Umarkhed,2017-10-27,2600.0,70.0,29.0,clear
+2753,Soyabean,ZariZamini,2017-10-27,2500.0,1.0,29.0,clear
+2754,Soyabean,Umarked(Danki),2017-01-01,2750.0,12.0,27.0,clear
+2755,Soyabean,Umarkhed,2017-01-01,2750.0,7.0,27.0,clear
+2756,Soyabean,Umarked(Danki),2017-08-01,2750.0,24.0,31.4,clear
+2757,Soyabean,Umarkhed,2017-08-01,2750.0,28.0,31.4,clear
+2758,Soyabean,Umarked(Danki),2017-01-26,2780.0,12.0,28.4,clear
+2759,Soyabean,Umarkhed,2017-01-26,2780.0,31.0,28.4,clear
+2760,Soyabean,Umarked(Danki),2017-02-16,2780.0,12.0,31.0,clear
+2761,Soyabean,Umarkhed,2017-02-16,2780.0,31.0,31.0,clear
+2762,Soyabean,Umarked(Danki),2017-02-19,2730.0,13.0,33.4,clear
+2763,Soyabean,Umarkhed,2017-02-19,2730.0,30.0,33.4,clear
+2764,Soyabean,Umarked(Danki),2017-02-20,2730.0,24.0,34.0,clear
+2765,Soyabean,Umarkhed,2017-02-20,2720.0,16.0,34.0,clear
+2766,Soyabean,Vani,2017-02-20,2670.0,15.0,34.0,clear
+2767,Soyabean,Yeotmal,2017-02-20,2815.0,176.0,34.0,clear
+2768,Soyabean,Umarked(Danki),2017-02-23,2750.0,12.0,33.4,clear
+2769,Soyabean,Umarkhed,2017-02-23,2750.0,19.0,33.4,clear
+2770,Soyabean,Yeotmal,2017-02-23,2781.0,72.0,33.4,clear
+2771,Soyabean,Umarked(Danki),2017-02-26,2700.0,24.0,33.0,clear
+2772,Soyabean,Umarked(Danki),2017-05-03,2700.0,24.0,39.0,clear
+2773,Soyabean,Umarkhed,2017-05-03,2700.0,24.0,39.0,clear
+2774,Soyabean,Umarked(Danki),2017-03-19,2700.0,24.0,34.0,clear
+2775,Soyabean,Umarkhed,2017-03-19,2720.0,38.0,34.0,clear
+2776,Soyabean,Umarked(Danki),2017-03-29,2750.0,7.0,40.4,clear
+2777,Soyabean,Umarkhed,2017-03-29,2750.0,37.0,40.4,clear
+2778,Soyabean,Vani,2017-03-29,2700.0,5.0,40.4,clear
+2779,Soyabean,Umarked(Danki),2017-03-04,2700.0,6.0,34.0,clear
+2780,Soyabean,Umarkhed,2017-03-04,2700.0,17.0,34.0,clear
+2781,Soyabean,Vani,2017-03-04,2700.0,23.0,34.0,clear
+2782,Soyabean,Umarked(Danki),2017-09-04,2700.0,12.0,29.0,clear
+2783,Soyabean,Umarked(Danki),2017-04-16,2650.0,7.0,41.4,clear
+2784,Soyabean,Umarkhed,2017-04-16,2650.0,17.0,41.4,clear
+2785,Soyabean,Umarked(Danki),2017-04-23,2700.0,12.0,38.0,clear
+2786,Soyabean,Umarkhed,2017-04-23,2700.0,27.0,38.0,clear
+2787,Soyabean,Umarked(Danki),2017-01-05,2650.0,7.0,25.0,clear
+2788,Soyabean,Umarkhed,2017-01-05,2650.0,14.0,25.0,clear
+2789,Soyabean,Umarked(Danki),2017-10-05,2650.0,12.0,27.0,clear
+2790,Soyabean,Umarkhed,2017-10-05,2650.0,14.0,27.0,clear
+2791,Soyabean,Umarked(Danki),2017-11-05,2650.0,7.0,28.0,clear
+2792,Soyabean,Umarkhed,2017-11-05,2650.0,19.0,28.0,clear
+2793,Soyabean,Vani,2017-11-05,2775.0,30.0,28.0,clear
+2794,Soyabean,Yeotmal,2017-11-05,2675.0,187.0,28.0,clear
+2795,Soyabean,Umarked(Danki),2017-05-23,2650.0,24.0,41.2,clear
+2796,Soyabean,Umarkhed,2017-05-23,2650.0,19.0,41.2,clear
+2797,Soyabean,Vani,2017-05-23,2700.0,16.0,41.2,clear
+2798,Soyabean,Umarked(Danki),2017-05-24,2650.0,12.0,42.4,clear
+2799,Soyabean,Umarkhed,2017-05-24,2650.0,7.0,42.4,clear
+2800,Soyabean,Vani,2017-05-24,2700.0,13.0,42.4,clear
+2801,Soyabean,Umarked(Danki),2017-05-27,2650.0,7.0,39.0,clear
+2802,Soyabean,Umarkhed,2017-05-27,2650.0,7.0,39.0,clear
+2803,Soyabean,Umarked(Danki),2017-01-06,2650.0,12.0,28.0,clear
+2804,Soyabean,Umarked(Danki),2017-03-06,2650.0,7.0,31.4,clear
+2805,Soyabean,Umarkhed,2017-03-06,2650.0,6.0,31.4,clear
+2806,Soyabean,Umarked(Danki),2017-04-06,2650.0,12.0,39.4,clear
+2807,Soyabean,Umarked(Danki),2017-07-06,2650.0,12.0,27.0,clear
+2808,Soyabean,Umarked(Danki),2017-09-06,2650.0,12.0,31.4,clear
+2809,Soyabean,Umarked(Danki),2017-06-17,2600.0,12.0,35.4,clear
+2810,Soyabean,Umarkhed,2017-06-17,2600.0,7.0,35.4,clear
+2811,Soyabean,Umarked(Danki),2017-01-07,2600.0,7.0,27.4,clear
+2812,Soyabean,Umarked(Danki),2017-07-13,2700.0,12.0,27.0,clear
+2813,Soyabean,Umarkhed,2017-07-13,2700.0,14.0,27.0,clear
+2814,Soyabean,Vani,2017-07-13,2700.0,1.0,27.0,clear
+2815,Soyabean,Yeotmal,2017-07-13,2750.0,88.0,27.0,clear
+2816,Soyabean,Umarked(Danki),2017-07-08,2700.0,5.0,35.0,clear
+2817,Soyabean,Vani,2017-07-08,2890.0,4.0,35.0,clear
+2818,Soyabean,Umarked(Danki),2017-08-21,2800.0,6.0,24.0,clear
+2819,Soyabean,Umarkhed,2017-08-21,2800.0,6.0,24.0,clear
+2820,Soyabean,Vani,2017-08-21,2925.0,8.0,24.0,clear
+2821,Soyabean,Umarked(Danki),2017-02-09,2800.0,5.0,32.0,clear
+2822,Soyabean,Umarkhed,2017-02-09,2800.0,5.0,32.0,clear
+2823,Soyabean,Umarked(Danki),2017-09-24,2700.0,36.0,31.4,clear
+2824,Soyabean,Umarked(Danki),2017-09-29,2650.0,103.0,32.0,clear
+2825,Soyabean,Umarkhed,2017-09-29,2650.0,53.0,32.0,clear
+2826,Soyabean,Umarked(Danki),2017-09-30,2650.0,37.0,32.6,clear
+2827,Soyabean,Umarkhed,2017-09-30,2650.0,69.0,32.6,clear
+2828,Soyabean,Umarked(Danki),2017-01-10,2650.0,68.0,27.4,clear
+2829,Soyabean,Umarkhed,2017-01-10,2650.0,50.0,27.4,clear
+2830,Soyabean,Umarked(Danki),2017-02-10,2650.0,69.0,30.4,clear
+2831,Soyabean,Umarkhed,2017-02-10,2650.0,97.0,30.4,clear
+2832,Soyabean,Umarked(Danki),2017-08-10,2600.0,85.0,30.0,clear
+2833,Soyabean,Umarkhed,2017-08-10,2600.0,81.0,30.0,clear
+2834,Soyabean,Umarked(Danki),2017-10-15,2590.0,72.0,30.0,clear
+2835,Soyabean,Umarkhed,2017-10-15,2580.0,67.0,30.0,clear
+2836,Soyabean,Umarked(Danki),2017-10-21,2570.0,69.0,30.4,clear
+2837,Soyabean,Umarkhed,2017-10-21,2580.0,44.0,30.4,clear
+2838,Soyabean,Umarked(Danki),2017-10-22,2550.0,29.0,32.0,clear
+2839,Soyabean,Umarkhed,2017-10-22,2550.0,36.0,32.0,clear
+2840,Soyabean,Umarked(Danki),2017-10-28,2600.0,13.0,29.0,clear
+2841,Soyabean,Umarkhed,2017-10-28,2650.0,63.0,29.0,clear
+2842,Soyabean,ZariZamini,2017-10-28,2492.0,4.0,29.0,clear
+2843,Soyabean,Umarked(Danki),2017-10-29,2590.0,36.0,27.4,clear
+2844,Soyabean,Umarkhed,2017-10-29,2590.0,54.0,27.4,clear
+2845,Soyabean,Umarkhed,2017-01-15,2780.0,33.0,25.0,clear
+2846,Soyabean,Umarkhed,2017-01-29,2780.0,36.0,28.0,clear
+2847,Soyabean,Umarkhed,2017-05-02,2780.0,24.0,40.0,clear
+2848,Soyabean,Umarkhed,2017-12-02,2770.0,19.0,26.0,clear
+2849,Soyabean,Umarkhed,2017-03-28,2750.0,19.0,39.4,clear
+2850,Soyabean,Umarkhed,2017-03-30,2750.0,35.0,40.0,clear
+2851,Soyabean,Vani,2017-03-30,2675.0,8.0,40.0,clear
+2852,Soyabean,Umarkhed,2017-03-31,2750.0,39.0,41.0,clear
+2853,Soyabean,Vani,2017-03-31,2700.0,6.0,41.0,clear
+2854,Soyabean,Umarkhed,2017-01-04,2750.0,27.0,24.1,clear
+2855,Soyabean,Umarkhed,2017-06-04,2700.0,36.0,40.4,clear
+2856,Soyabean,Umarkhed,2017-04-14,2700.0,11.0,40.0,clear
+2857,Soyabean,Umarkhed,2017-04-15,2700.0,13.0,40.0,clear
+2858,Soyabean,Umarkhed,2017-04-21,2700.0,36.0,40.0,clear
+2859,Soyabean,Umarkhed,2017-04-27,2650.0,12.0,39.0,clear
+2860,Soyabean,Yeotmal,2017-04-27,2725.0,251.0,39.0,clear
+2861,Soyabean,Umarkhed,2017-04-28,2650.0,7.0,39.4,clear
+2862,Soyabean,Umarkhed,2017-04-30,2650.0,22.0,37.4,clear
+2863,Soyabean,Umarkhed,2017-05-17,2650.0,7.0,41.4,clear
+2864,Soyabean,Umarkhed,2017-05-20,2650.0,19.0,41.0,clear
+2865,Soyabean,Umarkhed,2017-05-21,2650.0,7.0,42.4,clear
+2866,Soyabean,Umarkhed,2017-05-31,2650.0,11.0,35.0,clear
+2867,Soyabean,Umarkhed,2017-02-06,2650.0,11.0,30.0,clear
+2868,Soyabean,Umarkhed,2017-05-06,2650.0,18.0,42.0,clear
+2869,Soyabean,Umarkhed,2017-11-06,2650.0,18.0,29.0,clear
+2870,Soyabean,Umarkhed,2017-06-16,2600.0,12.0,31.4,clear
+2871,Soyabean,Vani,2017-06-16,2625.0,7.0,31.4,clear
+2872,Soyabean,Yeotmal,2017-06-16,2700.0,90.0,31.4,clear
+2873,Soyabean,Umarkhed,2017-06-18,2600.0,7.0,35.4,clear
+2874,Soyabean,Umarkhed,2017-06-20,2600.0,7.0,34.4,clear
+2875,Soyabean,Vani,2017-06-20,2700.0,8.0,34.4,clear
+2876,Soyabean,Umarkhed,2017-06-25,2600.0,7.0,34.0,clear
+2877,Soyabean,Umarkhed,2017-07-27,2700.0,14.0,25.4,clear
+2878,Soyabean,Umarkhed,2017-08-19,2750.0,7.0,25.4,clear
+2879,Soyabean,Umarkhed,2017-08-30,2800.0,10.0,30.0,clear
+2880,Soyabean,Umarkhed,2017-04-11,2550.0,99.0,39.0,clear
+2881,Soyabean,Vani,2017-03-27,2700.0,8.0,39.4,clear
+2882,Soyabean,Vani,2017-06-06,2650.0,6.0,39.0,clear
+2883,Soyabean,Vani,2017-06-07,2775.0,12.0,33.0,clear
+2884,Soyabean,Yeotmal,2017-06-07,2650.0,63.0,33.0,clear

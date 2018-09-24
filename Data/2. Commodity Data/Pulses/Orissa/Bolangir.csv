@@ -1,0 +1,934 @@
+,Unnamed: 0,comm_name,state_name,district_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity
+112342,112343,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2012-03-12,4400.0,0.3
+112343,112344,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2012-04-12,4800.0,0.4
+112344,112345,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2012-05-12,4800.0,0.5
+112345,112346,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2012-06-12,4800.0,0.4
+112346,112347,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2012-10-12,4300.0,0.4
+112347,112348,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2012-11-12,4300.0,0.5
+112348,112349,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2012-12-12,4800.0,0.5
+112349,112350,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2012-12-13,4800.0,0.5
+112350,112351,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2012-12-14,4800.0,0.6
+112351,112352,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2012-12-15,4800.0,0.7
+112352,112353,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2012-12-17,4800.0,0.8
+112353,112354,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2012-12-18,4900.0,0.6
+112354,112355,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2012-12-19,4900.0,1.0
+112355,112356,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2012-12-20,4900.0,0.5
+112356,112357,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2012-12-21,4900.0,0.4
+112357,112358,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2012-12-22,4900.0,1.2
+112358,112359,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2012-12-24,4900.0,0.6
+112359,112360,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2012-12-26,4900.0,0.5
+112360,112361,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2012-12-27,4900.0,0.5
+143642,143643,Green Gram (Moong),Orissa,Bolangir,Bolangir,2012-03-12,6400.0,0.5
+143643,143644,Green Gram (Moong),Orissa,Bolangir,Bolangir,2012-04-12,6400.0,0.5
+143644,143645,Green Gram (Moong),Orissa,Bolangir,Bolangir,2012-05-12,6400.0,0.4
+143645,143646,Green Gram (Moong),Orissa,Bolangir,Bolangir,2012-06-12,6400.0,0.5
+143646,143647,Green Gram (Moong),Orissa,Bolangir,Bolangir,2012-10-12,6000.0,0.5
+143647,143648,Green Gram (Moong),Orissa,Bolangir,Bolangir,2012-11-12,6000.0,0.6
+143648,143649,Green Gram (Moong),Orissa,Bolangir,Bolangir,2012-12-12,6400.0,0.8
+143649,143650,Green Gram (Moong),Orissa,Bolangir,Bolangir,2012-12-13,6400.0,0.8
+143650,143651,Green Gram (Moong),Orissa,Bolangir,Bolangir,2012-12-14,6000.0,0.6
+143651,143652,Green Gram (Moong),Orissa,Bolangir,Bolangir,2012-12-15,6000.0,0.5
+143652,143653,Green Gram (Moong),Orissa,Bolangir,Bolangir,2012-12-17,6000.0,1.0
+143653,143654,Green Gram (Moong),Orissa,Bolangir,Bolangir,2012-12-18,6000.0,0.7
+143654,143655,Green Gram (Moong),Orissa,Bolangir,Bolangir,2012-12-19,5800.0,0.7
+143655,143656,Green Gram (Moong),Orissa,Bolangir,Bolangir,2012-12-20,5800.0,0.5
+143656,143657,Green Gram (Moong),Orissa,Bolangir,Bolangir,2012-12-21,5800.0,0.5
+143657,143658,Green Gram (Moong),Orissa,Bolangir,Bolangir,2012-12-22,5800.0,1.0
+143658,143659,Green Gram (Moong),Orissa,Bolangir,Bolangir,2012-12-24,6000.0,0.8
+143659,143660,Green Gram (Moong),Orissa,Bolangir,Bolangir,2012-12-26,6300.0,1.0
+143660,143661,Green Gram (Moong),Orissa,Bolangir,Bolangir,2012-12-27,6300.0,0.8
+271473,271474,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-01-01,4900.0,1.0
+271474,271475,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-02-01,4900.0,0.9
+271475,271476,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-03-01,4900.0,0.7
+271476,271477,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-01,4900.0,1.5
+271477,271478,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-01,3900.0,0.7
+271478,271479,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-01,4900.0,0.7
+271479,271480,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-08-01,4900.0,0.9
+271480,271481,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-09-01,4900.0,1.0
+271481,271482,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-10-01,4900.0,0.8
+271482,271483,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-11-01,3900.0,0.5
+271483,271484,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-01-14,3900.0,0.8
+271484,271485,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-01-15,3900.0,1.0
+271485,271486,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-01-16,3900.0,1.3
+271486,271487,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-01-18,3900.0,2.5
+271487,271488,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-01-19,4900.0,1.0
+271488,271489,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-01-21,4900.0,1.0
+271489,271490,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-01-24,4900.0,1.0
+271490,271491,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-01-02,4900.0,0.4
+271491,271492,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-02-02,4900.0,0.8
+271492,271493,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-02,4900.0,0.5
+271493,271494,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-02,4900.0,0.6
+271494,271495,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-08-02,4900.0,0.4
+271495,271496,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-11-02,4900.0,0.6
+271496,271497,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-12-02,4900.0,0.5
+271497,271498,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-02-13,5100.0,0.6
+271498,271499,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-02-14,5200.0,0.9
+271499,271500,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-02-16,4800.0,0.5
+271500,271501,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-02-18,5000.0,0.6
+271501,271502,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-02-22,5200.0,0.5
+271502,271503,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-01-03,5400.0,0.5
+271503,271504,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-02-03,5500.0,1.0
+271504,271505,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-03,5500.0,0.5
+271505,271506,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-06-03,5500.0,0.5
+271506,271507,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-03,5500.0,0.8
+271507,271508,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-08-03,5200.0,0.5
+271508,271509,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-11-03,5200.0,0.3
+271509,271510,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-03-14,5200.0,0.4
+271510,271511,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-03-15,5200.0,0.6
+271511,271512,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-03-16,5300.0,0.7
+271512,271513,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-03-18,5500.0,0.9
+271513,271514,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-03-19,4800.0,1.5
+271514,271515,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-03-20,4800.0,2.0
+271515,271516,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-03-21,4800.0,2.1
+271516,271517,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-03-22,4800.0,0.5
+271517,271518,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-03-23,4800.0,0.4
+271518,271519,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-03-25,4800.0,0.4
+271519,271520,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-03-26,4800.0,0.5
+271520,271521,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-03-30,4800.0,0.6
+271521,271522,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-02-04,4800.0,1.8
+271522,271523,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-03-04,4800.0,0.8
+271523,271524,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-04,4300.0,1.5
+271524,271525,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-04,4300.0,1.0
+271525,271526,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-06-04,4300.0,0.8
+271526,271527,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-04,4300.0,0.6
+271527,271528,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-09-04,4300.0,0.6
+271528,271529,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-10-04,4300.0,0.7
+271529,271530,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-11-04,4300.0,0.5
+271530,271531,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-12-04,4300.0,0.4
+271531,271532,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-13,4300.0,0.6
+271532,271533,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-14,3800.0,0.7
+271533,271534,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-15,3800.0,0.7
+271534,271535,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-16,3800.0,0.6
+271535,271536,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-17,3800.0,0.7
+271536,271537,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-18,3800.0,0.8
+271537,271538,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-19,4800.0,0.7
+271538,271539,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-21,3800.0,1.0
+271539,271540,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-22,3800.0,0.8
+271540,271541,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-23,3800.0,0.7
+271541,271542,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-24,3800.0,0.8
+271542,271543,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-25,3800.0,1.0
+271543,271544,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-27,4800.0,1.0
+271544,271545,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-28,3800.0,1.5
+271545,271546,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-29,3800.0,1.0
+271546,271547,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-30,3800.0,0.8
+271547,271548,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-01-05,3800.0,1.0
+271548,271549,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-02-05,3800.0,0.8
+271549,271550,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-03-05,3800.0,1.0
+271550,271551,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-05,3800.0,0.8
+271551,271552,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-05,3800.0,1.5
+271552,271553,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-06-05,3800.0,1.0
+271553,271554,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-05,3800.0,0.8
+271554,271555,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-08-05,3800.0,1.0
+271555,271556,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-09-05,3800.0,1.5
+271556,271557,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-10-05,3800.0,1.0
+271557,271558,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-11-05,3800.0,1.0
+271558,271559,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-12-05,3800.0,1.5
+271559,271560,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-13,3800.0,1.0
+271560,271561,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-14,3800.0,1.3
+271561,271562,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-16,3800.0,0.8
+271562,271563,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-17,3800.0,0.5
+271563,271564,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-18,3800.0,0.7
+271564,271565,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-19,3800.0,1.0
+271565,271566,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-20,3800.0,0.7
+271566,271567,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-21,3800.0,0.8
+271567,271568,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-22,3800.0,0.5
+271568,271569,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-23,3800.0,0.7
+271569,271570,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-24,3800.0,0.5
+271570,271571,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-25,3800.0,0.7
+271571,271572,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-26,3800.0,1.0
+271572,271573,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-27,3800.0,0.5
+271573,271574,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-29,3800.0,0.6
+271574,271575,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-30,3800.0,0.5
+271575,271576,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-31,3800.0,0.7
+271576,271577,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-01-06,3800.0,0.5
+271577,271578,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-02-06,3800.0,1.0
+271578,271579,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-03-06,3800.0,0.7
+271579,271580,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-06,3800.0,0.8
+271580,271581,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-06,3800.0,1.0
+271581,271582,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-06-06,3800.0,0.8
+271582,271583,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-06,3800.0,1.0
+271583,271584,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-08-06,3800.0,0.8
+271584,271585,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-09-06,3800.0,1.5
+271585,271586,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-10-06,3800.0,1.0
+271586,271587,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-11-06,3800.0,0.8
+271587,271588,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-06-17,5500.0,0.5
+271588,271589,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-06-24,4000.0,0.5
+271589,271590,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-06-25,4200.0,0.6
+271590,271591,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-06-26,4300.0,0.5
+271591,271592,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-06-27,4300.0,0.3
+271592,271593,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-06-28,4400.0,0.4
+271593,271594,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-06-29,4400.0,0.4
+271594,271595,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-01-07,4300.0,0.5
+271595,271596,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-02-07,4300.0,0.4
+271596,271597,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-03-07,4300.0,0.5
+271597,271598,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-07,4300.0,0.6
+271598,271599,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-07,4300.0,0.7
+271599,271600,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-06-07,4300.0,0.8
+271600,271601,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-08-07,4300.0,0.8
+271601,271602,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-10-07,4300.0,0.5
+271602,271603,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-11-07,4300.0,1.0
+271603,271604,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-12-07,4300.0,0.4
+271604,271605,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-13,4600.0,0.4
+271605,271606,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-14,4600.0,0.4
+271606,271607,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-15,4600.0,0.5
+271607,271608,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-16,4600.0,0.4
+271608,271609,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-17,4800.0,0.6
+271609,271610,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-18,4800.0,0.5
+271610,271611,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-19,4800.0,0.4
+271611,271612,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-20,4800.0,0.5
+271612,271613,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-21,4800.0,0.3
+271613,271614,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-23,4800.0,0.6
+271614,271615,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-24,4800.0,0.7
+271615,271616,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-25,4800.0,0.6
+271616,271617,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-26,4800.0,1.0
+271617,271618,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-27,4800.0,0.6
+271618,271619,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-28,4800.0,1.0
+271619,271620,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-29,4800.0,0.4
+271620,271621,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-01-08,4800.0,0.6
+271621,271622,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-02-08,4800.0,0.5
+271622,271623,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-03-08,4800.0,0.4
+271623,271624,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-08,4800.0,2.0
+271624,271625,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-08,4800.0,0.4
+271625,271626,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-06-08,4800.0,0.5
+271626,271627,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-08,4800.0,0.5
+271627,271628,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-08-08,4800.0,0.4
+271628,271629,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-09-08,4800.0,0.8
+271629,271630,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-10-08,4800.0,0.3
+271630,271631,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-11-08,4800.0,1.0
+271631,271632,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-12-08,4800.0,0.5
+271632,271633,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-08-13,4800.0,0.4
+271633,271634,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-08-14,4800.0,0.3
+271634,271635,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-08-15,4800.0,0.4
+271635,271636,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-08-16,4800.0,0.3
+271636,271637,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-08-17,4800.0,0.5
+271637,271638,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-08-18,4800.0,1.2
+271638,271639,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-08-19,4800.0,0.4
+271639,271640,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-08-20,4800.0,0.5
+271640,271641,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-08-21,4800.0,0.3
+271641,271642,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-08-22,4800.0,0.5
+271642,271643,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-08-23,4800.0,0.4
+271643,271644,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-08-25,4800.0,0.8
+271644,271645,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-08-27,4800.0,0.4
+271645,271646,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-01-09,5000.0,1.0
+271646,271647,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-02-09,5000.0,0.5
+271647,271648,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-03-09,5000.0,0.3
+271648,271649,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-09,5200.0,0.5
+271649,271650,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-09,5200.0,0.6
+271650,271651,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-06-09,5200.0,0.4
+271651,271652,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-09,5200.0,0.6
+271652,271653,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-08-09,5200.0,0.8
+271653,271654,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-09-09,5200.0,1.0
+271654,271655,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-12-09,5000.0,0.3
+271655,271656,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-09-13,5000.0,0.5
+271656,271657,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-09-14,4800.0,0.4
+271657,271658,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-09-15,4800.0,0.4
+271658,271659,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-09-16,4800.0,0.5
+271659,271660,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-09-17,4800.0,0.8
+271660,271661,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-09-18,4800.0,0.5
+271661,271662,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-09-19,5000.0,0.3
+271662,271663,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-09-21,5000.0,0.5
+271663,271664,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-09-22,5000.0,1.0
+271664,271665,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-09-23,5000.0,0.4
+271665,271666,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-09-24,5000.0,0.3
+271666,271667,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-09-25,4800.0,0.5
+271667,271668,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-09-26,4800.0,0.5
+271668,271669,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-09-27,4800.0,0.4
+271669,271670,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-09-28,5000.0,0.4
+271670,271671,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-09-29,4800.0,1.2
+271671,271672,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-09-30,4800.0,0.4
+271672,271673,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-01-10,4800.0,0.5
+271673,271674,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-02-10,4800.0,0.3
+271674,271675,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-03-10,4800.0,0.5
+271675,271676,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-10,4800.0,0.5
+271676,271677,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-10,4800.0,0.5
+271677,271678,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-06-10,4800.0,0.8
+271678,271679,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-08-10,4800.0,0.4
+271679,271680,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-09-10,4800.0,0.5
+271680,271681,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-10-10,4800.0,0.3
+271681,271682,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-10-15,4800.0,0.5
+271682,271683,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-10-16,5000.0,0.5
+271683,271684,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-10-17,5000.0,0.4
+271684,271685,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-10-18,5000.0,0.5
+271685,271686,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-10-19,5000.0,0.6
+271686,271687,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-10-20,5000.0,1.5
+271687,271688,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-10-21,5000.0,0.5
+271688,271689,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-10-22,5000.0,0.5
+271689,271690,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-10-23,5000.0,0.4
+271690,271691,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-10-24,5000.0,0.3
+271691,271692,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-10-25,5000.0,0.6
+271692,271693,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-10-26,5000.0,0.4
+271693,271694,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-10-28,5000.0,0.4
+271694,271695,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-10-29,4800.0,0.5
+271695,271696,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-10-30,4300.0,0.5
+271696,271697,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-01-11,4300.0,0.6
+271697,271698,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-02-11,4600.0,0.9
+271698,271699,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-03-11,4500.0,1.0
+271699,271700,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-11,4500.0,0.6
+271700,271701,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-11,4700.0,0.7
+271701,271702,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-06-11,4800.0,0.5
+271702,271703,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-11,4800.0,0.8
+271703,271704,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-08-11,4800.0,0.6
+271704,271705,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-10-11,4800.0,1.2
+271705,271706,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-11-11,4400.0,0.5
+271706,271707,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-12-11,4800.0,0.5
+271707,271708,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-11-13,4800.0,1.0
+271708,271709,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-11-14,4800.0,0.6
+271709,271710,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-11-15,4300.0,0.6
+271710,271711,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-11-16,4300.0,0.5
+271711,271712,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-11-17,4300.0,1.2
+271712,271713,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-11-18,4400.0,0.6
+271713,271714,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-11-19,4400.0,0.6
+271714,271715,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-11-20,4300.0,0.6
+271715,271716,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-11-21,4300.0,0.7
+271716,271717,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-11-23,4300.0,0.7
+271717,271718,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-11-24,4000.0,1.2
+271718,271719,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-11-25,4300.0,0.6
+271719,271720,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-11-26,4300.0,0.7
+271720,271721,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-11-27,2300.0,0.7
+271721,271722,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-01-12,4200.0,1.5
+271722,271723,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-02-12,4300.0,0.8
+271723,271724,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-03-12,4300.0,0.8
+271724,271725,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-04-12,4000.0,1.0
+271725,271726,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-05-12,4000.0,0.8
+271726,271727,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-06-12,4000.0,0.7
+271727,271728,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-07-12,4300.0,1.0
+271728,271729,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-08-12,4300.0,1.5
+271729,271730,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-09-12,4300.0,0.7
+271730,271731,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-10-12,4300.0,0.8
+271731,271732,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-11-12,4300.0,0.5
+271732,271733,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-12-14,4200.0,1.0
+271733,271734,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-12-15,3800.0,1.0
+271734,271735,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-12-16,4300.0,0.6
+271735,271736,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-12-17,4300.0,0.6
+271736,271737,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-12-18,4300.0,0.7
+271737,271738,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-12-19,4000.0,0.5
+271738,271739,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-12-20,4300.0,0.6
+271739,271740,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-12-21,5300.0,0.7
+271740,271741,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-12-22,4800.0,1.0
+271741,271742,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-12-23,5000.0,0.7
+271742,271743,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-12-24,4800.0,0.7
+271743,271744,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-12-25,4800.0,0.9
+271744,271745,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-12-26,5000.0,0.6
+271745,271746,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-12-27,5000.0,0.7
+271746,271747,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-12-28,4800.0,0.8
+271747,271748,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-12-29,5000.0,1.3
+271748,271749,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-12-30,4800.0,0.6
+271749,271750,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2013-12-31,4800.0,0.8
+299360,299361,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-01-01,6400.0,1.2
+299361,299362,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-02-01,6400.0,1.0
+299362,299363,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-03-01,6400.0,0.9
+299363,299364,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-01,6400.0,0.5
+299364,299365,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-01,6400.0,0.8
+299365,299366,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-01,6400.0,1.0
+299366,299367,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-08-01,6400.0,0.8
+299367,299368,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-09-01,6400.0,1.0
+299368,299369,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-10-01,5900.0,1.2
+299369,299370,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-11-01,5900.0,0.5
+299370,299371,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-01-14,5900.0,1.0
+299371,299372,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-01-15,5900.0,1.2
+299372,299373,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-01-16,5900.0,1.0
+299373,299374,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-01-18,6000.0,1.0
+299374,299375,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-01-19,6000.0,0.6
+299375,299376,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-01-21,6000.0,1.3
+299376,299377,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-01-24,6000.0,1.2
+299377,299378,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-01-02,6300.0,1.0
+299378,299379,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-02-02,6300.0,0.6
+299379,299380,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-02,6300.0,0.9
+299380,299381,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-02,5900.0,1.0
+299381,299382,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-08-02,6400.0,0.6
+299382,299383,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-11-02,6400.0,1.0
+299383,299384,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-12-02,6400.0,0.6
+299384,299385,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-02-13,6400.0,0.8
+299385,299386,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-02-14,6400.0,0.6
+299386,299387,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-02-16,6500.0,0.5
+299387,299388,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-02-18,6500.0,0.5
+299388,299389,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-02-22,6500.0,0.5
+299389,299390,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-01-03,6200.0,0.8
+299390,299391,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-02-03,6200.0,0.8
+299391,299392,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-03,6400.0,0.5
+299392,299393,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-06-03,6400.0,0.7
+299393,299394,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-03,6400.0,0.7
+299394,299395,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-08-03,6400.0,0.8
+299395,299396,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-11-03,6400.0,0.7
+299396,299397,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-03-14,6400.0,0.6
+299397,299398,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-03-15,6400.0,0.7
+299398,299399,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-03-16,6400.0,0.8
+299399,299400,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-03-18,6200.0,1.0
+299400,299401,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-03-19,6000.0,1.0
+299401,299402,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-03-20,6000.0,1.2
+299402,299403,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-03-21,6000.0,1.3
+299403,299404,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-03-22,5500.0,0.7
+299404,299405,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-03-23,5500.0,0.6
+299405,299406,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-03-25,5500.0,0.5
+299406,299407,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-03-26,5500.0,0.7
+299407,299408,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-03-30,5500.0,0.5
+299408,299409,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-02-04,6800.0,0.6
+299409,299410,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-03-04,6300.0,0.6
+299410,299411,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-04,5800.0,1.2
+299411,299412,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-04,5800.0,0.8
+299412,299413,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-06-04,5800.0,0.6
+299413,299414,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-04,5800.0,0.5
+299414,299415,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-09-04,5800.0,0.8
+299415,299416,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-10-04,5800.0,0.8
+299416,299417,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-11-04,5800.0,0.6
+299417,299418,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-12-04,5800.0,0.5
+299418,299419,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-13,5300.0,0.8
+299419,299420,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-14,5300.0,0.9
+299420,299421,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-15,5300.0,0.8
+299421,299422,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-16,5300.0,0.7
+299422,299423,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-17,5300.0,0.9
+299423,299424,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-18,5300.0,1.0
+299424,299425,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-19,5800.0,1.0
+299425,299426,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-21,5300.0,1.8
+299426,299427,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-22,5500.0,1.0
+299427,299428,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-23,5500.0,1.0
+299428,299429,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-24,5500.0,1.0
+299429,299430,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-25,5500.0,1.5
+299430,299431,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-27,5800.0,1.5
+299431,299432,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-28,5000.0,2.0
+299432,299433,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-29,5500.0,1.3
+299433,299434,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-30,5500.0,1.0
+299434,299435,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-01-05,5500.0,1.5
+299435,299436,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-02-05,5500.0,1.0
+299436,299437,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-03-05,5500.0,1.5
+299437,299438,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-05,5500.0,1.0
+299438,299439,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-05,4500.0,2.0
+299439,299440,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-06-05,5000.0,1.2
+299440,299441,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-05,5500.0,1.0
+299441,299442,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-08-05,5500.0,1.2
+299442,299443,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-09-05,5500.0,2.0
+299443,299444,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-10-05,5500.0,1.5
+299444,299445,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-11-05,5000.0,1.5
+299445,299446,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-12-05,5000.0,2.0
+299446,299447,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-13,5000.0,1.2
+299447,299448,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-14,5000.0,1.6
+299448,299449,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-16,5000.0,1.0
+299449,299450,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-17,5500.0,0.8
+299450,299451,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-18,5500.0,1.0
+299451,299452,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-19,5000.0,1.5
+299452,299453,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-20,5500.0,1.0
+299453,299454,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-21,5500.0,1.0
+299454,299455,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-22,5500.0,0.8
+299455,299456,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-23,5500.0,1.0
+299456,299457,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-24,5500.0,0.8
+299457,299458,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-25,5500.0,0.8
+299458,299459,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-26,5000.0,1.5
+299459,299460,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-27,5500.0,1.0
+299460,299461,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-29,5500.0,0.8
+299461,299462,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-30,5500.0,0.7
+299462,299463,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-31,5500.0,1.0
+299463,299464,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-01-06,5500.0,0.8
+299464,299465,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-02-06,5000.0,1.5
+299465,299466,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-03-06,5500.0,1.0
+299466,299467,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-06,5500.0,1.2
+299467,299468,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-06,5500.0,1.5
+299468,299469,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-06-06,5500.0,1.0
+299469,299470,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-06,5500.0,1.2
+299470,299471,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-08-06,5500.0,1.0
+299471,299472,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-09-06,5000.0,2.0
+299472,299473,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-10-06,5500.0,1.5
+299473,299474,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-11-06,5500.0,1.0
+299474,299475,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-06-17,6000.0,0.5
+299475,299476,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-06-24,5800.0,1.0
+299476,299477,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-06-25,5800.0,1.0
+299477,299478,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-06-26,5800.0,0.8
+299478,299479,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-06-27,5800.0,0.7
+299479,299480,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-06-28,5800.0,0.6
+299480,299481,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-06-29,6000.0,0.6
+299481,299482,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-01-07,5800.0,0.6
+299482,299483,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-02-07,5800.0,0.7
+299483,299484,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-03-07,5800.0,0.9
+299484,299485,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-07,5800.0,1.4
+299485,299486,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-07,5800.0,0.5
+299486,299487,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-06-07,5800.0,0.6
+299487,299488,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-08-07,5800.0,0.6
+299488,299489,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-10-07,5800.0,1.0
+299489,299490,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-11-07,5800.0,1.0
+299490,299491,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-12-07,5800.0,0.6
+299491,299492,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-13,5800.0,1.6
+299492,299493,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-14,5800.0,0.6
+299493,299494,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-15,5800.0,1.5
+299494,299495,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-16,5800.0,1.6
+299495,299496,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-17,5800.0,0.5
+299496,299497,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-18,5800.0,1.0
+299497,299498,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-19,5800.0,1.0
+299498,299499,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-20,5800.0,1.5
+299499,299500,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-21,5800.0,1.2
+299500,299501,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-23,5800.0,1.4
+299501,299502,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-24,5800.0,1.3
+299502,299503,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-25,5800.0,1.4
+299503,299504,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-26,5800.0,1.0
+299504,299505,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-27,5800.0,1.4
+299505,299506,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-28,5800.0,1.5
+299506,299507,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-29,5800.0,1.4
+299507,299508,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-01-08,5800.0,1.5
+299508,299509,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-02-08,5800.0,1.0
+299509,299510,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-03-08,6200.0,0.8
+299510,299511,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-08,5800.0,2.5
+299511,299512,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-08,5800.0,0.6
+299512,299513,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-06-08,6200.0,1.0
+299513,299514,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-08,6200.0,0.6
+299514,299515,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-08-08,6200.0,1.0
+299515,299516,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-09-08,6200.0,1.2
+299516,299517,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-10-08,6300.0,0.7
+299517,299518,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-11-08,6300.0,2.5
+299518,299519,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-12-08,6200.0,0.6
+299519,299520,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-08-13,6300.0,0.7
+299520,299521,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-08-14,6300.0,0.7
+299521,299522,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-08-15,6300.0,0.5
+299522,299523,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-08-16,6800.0,0.7
+299523,299524,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-08-17,6800.0,0.6
+299524,299525,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-08-18,6800.0,1.3
+299525,299526,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-08-19,6300.0,0.6
+299526,299527,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-08-20,6300.0,0.6
+299527,299528,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-08-21,6300.0,0.7
+299528,299529,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-08-22,6300.0,0.6
+299529,299530,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-08-23,6300.0,0.7
+299530,299531,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-08-25,6300.0,1.2
+299531,299532,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-08-27,6300.0,0.6
+299532,299533,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-01-09,6300.0,1.2
+299533,299534,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-02-09,6300.0,0.5
+299534,299535,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-03-09,6300.0,0.7
+299535,299536,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-09,6300.0,0.6
+299536,299537,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-09,6500.0,0.4
+299537,299538,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-06-09,6600.0,0.7
+299538,299539,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-09,6600.0,0.9
+299539,299540,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-08-09,6600.0,1.2
+299540,299541,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-09-09,6600.0,2.0
+299541,299542,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-12-09,6000.0,0.4
+299542,299543,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-09-13,6000.0,0.5
+299543,299544,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-09-14,6000.0,0.6
+299544,299545,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-09-15,5800.0,0.5
+299545,299546,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-09-16,5800.0,0.6
+299546,299547,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-09-17,5800.0,1.2
+299547,299548,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-09-18,5800.0,0.5
+299548,299549,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-09-19,5800.0,0.7
+299549,299550,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-09-21,5800.0,0.5
+299550,299551,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-09-22,5800.0,1.5
+299551,299552,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-09-23,5800.0,0.6
+299552,299553,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-09-24,5800.0,0.8
+299553,299554,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-09-25,5800.0,0.6
+299554,299555,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-09-26,5800.0,0.5
+299555,299556,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-09-27,6000.0,0.6
+299556,299557,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-09-28,6000.0,0.8
+299557,299558,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-09-29,5800.0,1.8
+299558,299559,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-09-30,5800.0,0.6
+299559,299560,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-01-10,5800.0,0.5
+299560,299561,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-02-10,5800.0,0.5
+299561,299562,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-03-10,5800.0,0.6
+299562,299563,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-10,5800.0,0.5
+299563,299564,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-10,5800.0,0.6
+299564,299565,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-06-10,5800.0,1.2
+299565,299566,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-08-10,5800.0,0.7
+299566,299567,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-09-10,5800.0,0.5
+299567,299568,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-10-10,5800.0,0.7
+299568,299569,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-10-15,5800.0,0.6
+299569,299570,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-10-16,5800.0,0.7
+299570,299571,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-10-17,5800.0,0.6
+299571,299572,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-10-18,5800.0,0.5
+299572,299573,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-10-19,5800.0,0.5
+299573,299574,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-10-20,5800.0,2.0
+299574,299575,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-10-21,6000.0,0.6
+299575,299576,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-10-22,6000.0,0.6
+299576,299577,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-10-23,6000.0,0.5
+299577,299578,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-10-24,6000.0,0.6
+299578,299579,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-10-25,6000.0,0.9
+299579,299580,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-10-26,6000.0,0.6
+299580,299581,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-10-28,6000.0,0.7
+299581,299582,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-10-29,6300.0,0.5
+299582,299583,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-10-30,6300.0,0.7
+299583,299584,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-01-11,6300.0,0.5
+299584,299585,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-02-11,6300.0,0.6
+299585,299586,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-03-11,6300.0,1.0
+299586,299587,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-11,6300.0,0.8
+299587,299588,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-11,6300.0,1.3
+299588,299589,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-06-11,6300.0,0.8
+299589,299590,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-11,6800.0,0.7
+299590,299591,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-08-11,6800.0,0.7
+299591,299592,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-10-11,6800.0,1.0
+299592,299593,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-11-11,6800.0,0.5
+299593,299594,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-12-11,6800.0,0.4
+299594,299595,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-11-13,6800.0,0.8
+299595,299596,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-11-14,6800.0,0.5
+299596,299597,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-11-15,6800.0,0.6
+299597,299598,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-11-16,6200.0,0.8
+299598,299599,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-11-17,6200.0,1.3
+299599,299600,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-11-18,6200.0,0.5
+299600,299601,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-11-19,6200.0,0.6
+299601,299602,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-11-20,6800.0,0.5
+299602,299603,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-11-21,6800.0,0.6
+299603,299604,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-11-23,6800.0,0.5
+299604,299605,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-11-24,6800.0,1.3
+299605,299606,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-11-25,6800.0,0.7
+299606,299607,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-11-26,6800.0,0.7
+299607,299608,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-11-27,6800.0,1.0
+299608,299609,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-01-12,6800.0,1.0
+299609,299610,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-02-12,6800.0,0.7
+299610,299611,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-03-12,6800.0,0.6
+299611,299612,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-04-12,6800.0,1.0
+299612,299613,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-05-12,6200.0,1.2
+299613,299614,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-06-12,6300.0,1.0
+299614,299615,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-07-12,6300.0,0.6
+299615,299616,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-08-12,6000.0,1.2
+299616,299617,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-09-12,6000.0,0.5
+299617,299618,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-10-12,6000.0,0.6
+299618,299619,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-11-12,6000.0,0.6
+299619,299620,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-12-14,6000.0,0.7
+299620,299621,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-12-15,5800.0,1.0
+299621,299622,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-12-16,5800.0,0.5
+299622,299623,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-12-17,5800.0,0.7
+299623,299624,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-12-18,5800.0,0.6
+299624,299625,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-12-19,5800.0,0.6
+299625,299626,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-12-20,5800.0,0.6
+299626,299627,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-12-21,6800.0,0.7
+299627,299628,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-12-22,6800.0,2.0
+299628,299629,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-12-23,6800.0,0.6
+299629,299630,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-12-24,6800.0,0.7
+299630,299631,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-12-25,6800.0,0.7
+299631,299632,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-12-26,6800.0,0.5
+299632,299633,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-12-27,6800.0,0.7
+299633,299634,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-12-28,6800.0,0.5
+299634,299635,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-12-29,6800.0,1.0
+299635,299636,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-12-30,6800.0,0.5
+299636,299637,Green Gram (Moong),Orissa,Bolangir,Bolangir,2013-12-31,6800.0,0.7
+419323,419324,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-01-01,4800.0,0.6
+419324,419325,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-02-01,4800.0,0.5
+419325,419326,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-03-01,4800.0,0.6
+419326,419327,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-06-01,4800.0,0.7
+419327,419328,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-08-01,4800.0,0.8
+419328,419329,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-09-01,4800.0,0.7
+419329,419330,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-10-01,5000.0,0.6
+419330,419331,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-12-01,4800.0,1.2
+419331,419332,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-01-13,4800.0,0.7
+419332,419333,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-01-14,4800.0,0.8
+419333,419334,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-01-15,5000.0,0.6
+419334,419335,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-01-16,5000.0,0.5
+419335,419336,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-01-17,5000.0,0.6
+419336,419337,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-01-18,5000.0,0.7
+419337,419338,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-01-20,4800.0,0.8
+419338,419339,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-01-21,4800.0,0.6
+419339,419340,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-01-22,4800.0,0.8
+419340,419341,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-01-24,4800.0,0.8
+419341,419342,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-01-25,4800.0,0.8
+419342,419343,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-01-27,5000.0,0.7
+419343,419344,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-01-02,5200.0,1.0
+419344,419345,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-03-02,5000.0,0.6
+419345,419346,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-05-02,5000.0,0.4
+419346,419347,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-07-02,5000.0,0.6
+419347,419348,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-11-02,5000.0,0.6
+419348,419349,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-02-13,5000.0,0.6
+419349,419350,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-02-14,5200.0,0.6
+419350,419351,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-02-15,5300.0,0.6
+419351,419352,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-02-17,5000.0,0.8
+419352,419353,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-02-19,5000.0,0.8
+419353,419354,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-02-20,5000.0,0.8
+419354,419355,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-02-24,4800.0,0.5
+419355,419356,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-02-25,4800.0,0.7
+419356,419357,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-02-26,4800.0,0.7
+419357,419358,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-02-28,5000.0,0.7
+419358,419359,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-01-03,5200.0,0.6
+419359,419360,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-03-03,5200.0,0.5
+419360,419361,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-06-03,5400.0,0.5
+419361,419362,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-07-03,5800.0,0.4
+419362,419363,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-10-03,5800.0,0.5
+419363,419364,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-11-03,5800.0,0.6
+419364,419365,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-12-03,5800.0,0.6
+419365,419366,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-03-13,5800.0,0.6
+419366,419367,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-03-14,5400.0,0.6
+419367,419368,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-03-15,5800.0,0.8
+419368,419369,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-03-18,5800.0,0.5
+419369,419370,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-03-19,5800.0,0.6
+419370,419371,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-03-20,5800.0,0.5
+419371,419372,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-03-21,5800.0,0.7
+419372,419373,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-03-22,5800.0,0.8
+419373,419374,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-03-24,5800.0,0.7
+419374,419375,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-03-25,5600.0,0.6
+419375,419376,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-03-26,5600.0,0.4
+419376,419377,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-03-27,5600.0,0.5
+419377,419378,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-03-28,5600.0,0.6
+419378,419379,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-02-04,5400.0,0.7
+419379,419380,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-03-04,5400.0,0.6
+419380,419381,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-04-04,5400.0,1.0
+419381,419382,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-05-04,5400.0,0.8
+419382,419383,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-07-04,5400.0,0.6
+419383,419384,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-11-04,5400.0,0.7
+419384,419385,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-04-15,5400.0,0.8
+419385,419386,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-04-16,5800.0,0.8
+419386,419387,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-04-17,5800.0,0.7
+419387,419388,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-04-19,5800.0,1.0
+419388,419389,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-04-21,5800.0,0.8
+419389,419390,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-04-22,5800.0,0.5
+419390,419391,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-04-23,5800.0,0.6
+419391,419392,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-04-24,5800.0,0.8
+419392,419393,Black Gram (Urd Beans),Orissa,Bolangir,Bolangir,2014-04-26,5800.0,0.6
+447342,447343,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-01-01,6800.0,0.5
+447343,447344,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-02-01,6800.0,0.6
+447344,447345,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-03-01,6800.0,0.5
+447345,447346,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-06-01,6800.0,0.7
+447346,447347,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-08-01,6800.0,0.8
+447347,447348,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-09-01,6800.0,0.6
+447348,447349,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-10-01,6800.0,0.6
+447349,447350,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-12-01,6800.0,1.3
+447350,447351,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-01-13,6800.0,0.6
+447351,447352,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-01-14,6800.0,0.8
+447352,447353,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-01-15,6800.0,0.7
+447353,447354,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-01-16,6800.0,0.5
+447354,447355,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-01-17,6800.0,0.5
+447355,447356,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-01-18,6800.0,0.6
+447356,447357,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-01-20,6800.0,0.5
+447357,447358,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-01-21,7000.0,0.6
+447358,447359,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-01-22,7000.0,0.7
+447359,447360,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-01-24,7000.0,1.0
+447360,447361,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-01-25,7000.0,0.7
+447361,447362,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-01-27,6800.0,0.8
+447362,447363,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-01-02,7000.0,0.8
+447363,447364,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-03-02,6800.0,0.6
+447364,447365,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-05-02,6800.0,0.6
+447365,447366,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-07-02,6800.0,0.5
+447366,447367,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-11-02,7000.0,0.7
+447367,447368,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-02-13,7000.0,0.7
+447368,447369,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-02-14,7000.0,0.5
+447369,447370,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-02-15,7000.0,0.6
+447370,447371,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-02-17,7000.0,0.5
+447371,447372,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-02-19,7000.0,0.5
+447372,447373,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-02-20,7000.0,0.5
+447373,447374,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-02-24,6800.0,0.7
+447374,447375,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-02-25,6800.0,0.7
+447375,447376,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-02-26,6800.0,0.6
+447376,447377,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-02-28,6800.0,0.5
+447377,447378,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-01-03,6800.0,0.7
+447378,447379,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-03-03,6800.0,0.4
+447379,447380,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-06-03,6800.0,0.6
+447380,447381,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-07-03,6800.0,0.8
+447381,447382,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-10-03,6800.0,0.6
+447382,447383,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-11-03,6800.0,0.6
+447383,447384,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-12-03,6800.0,0.5
+447384,447385,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-03-13,6800.0,0.6
+447385,447386,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-03-14,6800.0,0.5
+447386,447387,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-03-15,6800.0,0.5
+447387,447388,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-03-18,6800.0,0.5
+447388,447389,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-03-19,6800.0,0.6
+447389,447390,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-03-20,6800.0,0.4
+447390,447391,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-03-21,6800.0,0.5
+447391,447392,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-03-22,6800.0,0.5
+447392,447393,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-03-24,6800.0,0.7
+447393,447394,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-03-25,6800.0,0.6
+447394,447395,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-03-26,7000.0,0.6
+447395,447396,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-03-27,7000.0,0.7
+447396,447397,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-03-28,7000.0,0.6
+447397,447398,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-02-04,6800.0,0.5
+447398,447399,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-03-04,6800.0,0.6
+447399,447400,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-04-04,6800.0,0.6
+447400,447401,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-05-04,6800.0,0.5
+447401,447402,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-07-04,6800.0,0.6
+447402,447403,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-11-04,6800.0,0.8
+447403,447404,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-04-15,6800.0,1.0
+447404,447405,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-04-16,6800.0,1.0
+447405,447406,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-04-17,6800.0,0.8
+447406,447407,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-04-19,6800.0,0.6
+447407,447408,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-04-21,6800.0,0.7
+447408,447409,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-04-22,6800.0,0.7
+447409,447410,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-04-23,6800.0,0.8
+447410,447411,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-04-24,6800.0,0.6
+447411,447412,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-04-26,6800.0,0.5
+447412,447413,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-04-28,6800.0,0.6
+447413,447414,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-04-29,6800.0,0.5
+447414,447415,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-04-30,6800.0,0.7
+447415,447416,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-01-05,6800.0,0.8
+447416,447417,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-02-05,6600.0,1.0
+447417,447418,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-03-05,6600.0,0.8
+447418,447419,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-05-05,6600.0,0.7
+447419,447420,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-06-05,6800.0,0.8
+447420,447421,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-07-05,6800.0,0.7
+447421,447422,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-08-05,6600.0,0.8
+447422,447423,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-09-05,6600.0,0.6
+447423,447424,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-12-05,6800.0,1.0
+447424,447425,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-05-13,6800.0,0.8
+447425,447426,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-05-15,7000.0,0.6
+447426,447427,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-05-16,7000.0,0.5
+447427,447428,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-05-17,7000.0,1.0
+447428,447429,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-05-19,7000.0,0.8
+447429,447430,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-05-20,7300.0,1.0
+447430,447431,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-05-21,7300.0,0.8
+447431,447432,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-05-22,7200.0,0.5
+447432,447433,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-05-23,7200.0,0.6
+447433,447434,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-05-26,7000.0,0.7
+447434,447435,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-05-27,7000.0,0.8
+447435,447436,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-05-28,7000.0,0.7
+447436,447437,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-05-29,7000.0,0.8
+447437,447438,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-02-06,7300.0,0.7
+447438,447439,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-03-06,7300.0,0.8
+447439,447440,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-04-06,7300.0,0.7
+447440,447441,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-05-06,7300.0,0.6
+447441,447442,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-06-06,7300.0,0.7
+447442,447443,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-07-06,6800.0,0.6
+447443,447444,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-09-06,7000.0,0.8
+447444,447445,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-10-06,7000.0,0.9
+447445,447446,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-11-06,7300.0,0.6
+447446,447447,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-12-06,7300.0,0.7
+447447,447448,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-06-13,7300.0,0.8
+447448,447449,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-06-16,7000.0,0.6
+447449,447450,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-06-17,7000.0,1.0
+447450,447451,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-06-20,7400.0,0.5
+447451,447452,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-06-23,7300.0,0.8
+447452,447453,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-06-24,7300.0,0.7
+447453,447454,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-06-25,7300.0,0.9
+447454,447455,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-06-26,7400.0,0.8
+447455,447456,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-06-27,7400.0,0.8
+447456,447457,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-06-28,7400.0,0.8
+447457,447458,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-06-30,7800.0,0.6
+447458,447459,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-02-07,7300.0,0.8
+447459,447460,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-03-07,7300.0,0.6
+447460,447461,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-04-07,7300.0,0.7
+447461,447462,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-05-07,6800.0,0.7
+447462,447463,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-07-07,6800.0,0.8
+447463,447464,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-08-07,6800.0,0.7
+447464,447465,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-09-07,6800.0,0.9
+447465,447466,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-10-07,6800.0,0.8
+447466,447467,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-11-07,6800.0,0.7
+447467,447468,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-07-14,6800.0,0.7
+447468,447469,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-07-15,6800.0,0.8
+447469,447470,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-07-16,6800.0,0.6
+447470,447471,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-07-17,6600.0,0.8
+447471,447472,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-07-18,6600.0,0.9
+447472,447473,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-07-19,6500.0,1.0
+447473,447474,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-07-21,6800.0,0.8
+447474,447475,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-07-22,6800.0,0.9
+447475,447476,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-07-23,6800.0,0.8
+447476,447477,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-07-24,6800.0,1.0
+447477,447478,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-07-25,6800.0,0.8
+447478,447479,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-07-26,6800.0,0.7
+447479,447480,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-07-28,6800.0,0.8
+447480,447481,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-01-08,6800.0,0.8
+447481,447482,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-02-08,6800.0,0.9
+447482,447483,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-04-08,7000.0,0.7
+447483,447484,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-05-08,7400.0,0.9
+447484,447485,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-06-08,7300.0,0.6
+447485,447486,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-07-08,6800.0,0.8
+447486,447487,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-08-08,6800.0,0.9
+447487,447488,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-11-08,7800.0,0.8
+447488,447489,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-12-08,7800.0,0.7
+447489,447490,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-08-16,7300.0,0.8
+447490,447491,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-08-18,7300.0,0.7
+447491,447492,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-08-19,7000.0,0.9
+447492,447493,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-08-20,7000.0,0.8
+447493,447494,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-08-21,7300.0,0.7
+447494,447495,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-08-22,6800.0,1.0
+447495,447496,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-08-25,6800.0,0.7
+447496,447497,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-08-27,6800.0,0.7
+447497,447498,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-08-28,6800.0,1.5
+447498,447499,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-01-09,6800.0,0.8
+447499,447500,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-02-09,6800.0,0.7
+447500,447501,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-03-09,6800.0,1.0
+447501,447502,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-04-09,6800.0,1.2
+447502,447503,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-05-09,6800.0,0.8
+447503,447504,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-06-09,6800.0,0.7
+447504,447505,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-08-09,6800.0,0.9
+447505,447506,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-09-09,6800.0,0.8
+447506,447507,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-10-09,6800.0,0.8
+447507,447508,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-11-09,6800.0,0.9
+447508,447509,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-12-09,6800.0,0.8
+447509,447510,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-09-15,7200.0,0.7
+447510,447511,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-09-16,6800.0,0.7
+447511,447512,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-09-17,7300.0,0.7
+447512,447513,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-09-18,6800.0,1.0
+447513,447514,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-09-19,6800.0,0.8
+447514,447515,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-09-20,6800.0,1.0
+447515,447516,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-09-22,6800.0,1.2
+447516,447517,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-09-24,6800.0,0.9
+447517,447518,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-09-25,7200.0,0.8
+447518,447519,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-09-26,7200.0,0.7
+447519,447520,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-10-22,6700.0,0.5
+447520,447521,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-10-24,6800.0,0.8
+447521,447522,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-10-25,6800.0,0.8
+447522,447523,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-10-27,7800.0,0.6
+447523,447524,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-10-28,7800.0,0.6
+447524,447525,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-10-29,7800.0,0.7
+447525,447526,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-01-11,7800.0,0.3
+447526,447527,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-05-11,7800.0,0.8
+447527,447528,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-10-11,6800.0,0.7
+447528,447529,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-11-11,6800.0,0.8
+447529,447530,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-12-11,6800.0,0.6
+447530,447531,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-11-14,6800.0,0.8
+447531,447532,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-11-15,6800.0,0.7
+447532,447533,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-11-17,6800.0,0.5
+447533,447534,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-11-18,6800.0,0.6
+447534,447535,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-11-19,6800.0,0.6
+447535,447536,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-11-20,5800.0,0.6
+447536,447537,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-11-21,5800.0,0.7
+447537,447538,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-11-22,5800.0,0.8
+447538,447539,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-11-24,7800.0,0.8
+447539,447540,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-11-25,7800.0,0.8
+447540,447541,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-11-26,7800.0,0.8
+447541,447542,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-11-27,7800.0,0.5
+447542,447543,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-11-28,7800.0,0.6
+447543,447544,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-11-29,7800.0,0.7
+447544,447545,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-01-12,7800.0,0.8
+447545,447546,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-02-12,7800.0,0.8
+447546,447547,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-03-12,7800.0,0.5
+447547,447548,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-04-12,7800.0,0.8
+447548,447549,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-06-12,7800.0,0.5
+447549,447550,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-09-12,7800.0,0.5
+447550,447551,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-10-12,7800.0,1.0
+447551,447552,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-11-12,7800.0,1.0
+447552,447553,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-12-12,7800.0,1.1
+447553,447554,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-12-15,7800.0,0.8
+447554,447555,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-12-17,7800.0,0.8
+447555,447556,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-12-22,7800.0,1.0
+447556,447557,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-12-23,7700.0,1.0
+447557,447558,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-12-26,7800.0,0.8
+447558,447559,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-12-30,7800.0,1.0
+447559,447560,Green Gram (Moong),Orissa,Bolangir,Bolangir,2014-12-31,7800.0,0.8
+640794,640795,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-01-01,7800.0,1.0
+640795,640796,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-02-01,7800.0,0.8
+640796,640797,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-05-01,7800.0,1.0
+640797,640798,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-06-01,7800.0,1.0
+640798,640799,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-07-01,7800.0,1.0
+640799,640800,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-08-01,7800.0,0.7
+640800,640801,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-09-01,7800.0,0.8
+640801,640802,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-12-01,7800.0,1.5
+640802,640803,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-01-13,8000.0,1.0
+640803,640804,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-01-14,7800.0,1.5
+640804,640805,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-01-19,7800.0,2.0
+640805,640806,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-01-20,8000.0,3.0
+640806,640807,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-01-21,8000.0,2.0
+640807,640808,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-01-22,8000.0,3.0
+640808,640809,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-01-31,8000.0,2.0
+640809,640810,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-02-02,8000.0,2.0
+640810,640811,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-03-02,8500.0,1.5
+640811,640812,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-04-02,8000.0,1.5
+640812,640813,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-09-02,8000.0,0.8
+640813,640814,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-10-02,8000.0,2.0
+640814,640815,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-11-02,8500.0,1.0
+640815,640816,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-02-13,8000.0,1.5
+640816,640817,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-02-16,8500.0,2.0
+640817,640818,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-02-18,8500.0,3.0
+640818,640819,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-02-19,8500.0,2.0
+640819,640820,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-02-20,9500.0,2.0
+640820,640821,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-02-23,9500.0,1.5
+640821,640822,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-02-24,9500.0,1.0
+640822,640823,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-02-25,9500.0,3.0
+640823,640824,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-02-26,9500.0,2.0
+640824,640825,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-02-27,9500.0,3.0
+640825,640826,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-02-03,9500.0,2.0
+640826,640827,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-03-03,9500.0,1.0
+640827,640828,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-04-03,9500.0,2.0
+640828,640829,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-10-03,9500.0,0.8
+640829,640830,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-11-03,7800.0,1.5
+640830,640831,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-12-03,7800.0,1.0
+640831,640832,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-03-16,7800.0,1.0
+640832,640833,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-03-17,7800.0,0.8
+640833,640834,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-03-18,7800.0,1.0
+640834,640835,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-03-19,7800.0,0.8
+640835,640836,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-03-20,7800.0,1.0
+640836,640837,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-03-24,7800.0,1.0
+640837,640838,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-03-26,7800.0,0.8
+640838,640839,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-03-27,7800.0,1.0
+640839,640840,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-03-30,7800.0,0.8
+640840,640841,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-03-31,7800.0,1.0
+640841,640842,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-02-04,7800.0,0.8
+640842,640843,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-04-20,7800.0,0.7
+640843,640844,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-04-21,7800.0,0.8
+640844,640845,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-04-22,7800.0,1.0
+640845,640846,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-04-23,7800.0,0.8
+640846,640847,Green Gram (Moong),Orissa,Bolangir,Bolangir,2015-04-27,7800.0,1.0

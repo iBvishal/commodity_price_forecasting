@@ -1,0 +1,2620 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Bengal Gram(Gram),Thoubal,2013-03-07,5700.0,7.2,30.4,clear
+1,Bengal Gram(Gram),Thoubal,2013-01-08,5400.0,8.4,21.0,clear
+2,Bengal Gram(Gram),Thoubal,2013-03-09,5366.0,11.4,28.2,clear
+3,Bengal Gram(Gram),Thoubal,2013-09-10,5750.0,12.0,28.4,clear
+4,Bengal Gram(Gram),Thoubal,2013-10-31,5775.0,14.4,27.0,clear
+5,Bengal Gram(Gram),Thoubal,2013-05-12,5440.0,19.2,29.4,clear
+6,Black Gram (Urd Beans),Thoubal,2013-01-06,5780.0,7.8,23.0,clear
+7,Arhar (Tur/Red Gram),Thoubal,2014-01-08,8500.0,0.4,22.4,clear
+8,Bengal Gram(Gram),Thoubal,2014-01-08,5700.0,0.4,22.4,clear
+9,Black Gram (Urd Beans),Thoubal,2014-01-08,8000.0,0.4,22.4,clear
+10,Arhar (Tur/Red Gram),Thoubal,2014-06-08,9000.0,0.0,32.0,clear
+11,Bengal Gram(Gram),Thoubal,2014-06-08,5700.0,0.0,32.0,clear
+12,Black Gram (Urd Beans),Thoubal,2014-06-08,8000.0,0.0,32.0,clear
+13,Green Gram (Moong),Thoubal,2014-06-08,11600.0,0.0,32.0,clear
+14,Lentil(Masur),Thoubal,2014-06-08,8500.0,0.0,32.0,clear
+15,Arhar (Tur/Red Gram),Thoubal,2014-01-09,8100.0,0.0,23.0,clear
+16,Bengal Gram(Gram),Thoubal,2014-01-09,5100.0,0.0,23.0,clear
+17,Black Gram (Urd Beans),Thoubal,2014-01-09,7600.0,0.0,23.0,clear
+18,Green Gram (Moong),Thoubal,2014-01-09,11600.0,0.0,23.0,clear
+19,Lentil(Masur),Thoubal,2014-01-09,7600.0,0.0,23.0,clear
+20,Arhar (Tur/Red Gram),Thoubal,2014-02-09,8100.0,0.0,23.4,clear
+21,Bengal Gram(Gram),Thoubal,2014-02-09,5100.0,0.0,23.4,clear
+22,Black Gram (Urd Beans),Thoubal,2014-02-09,7600.0,0.0,23.4,clear
+23,Green Gram (Moong),Thoubal,2014-02-09,11600.0,0.0,23.4,clear
+24,Lentil(Masur),Thoubal,2014-02-09,7600.0,0.0,23.4,clear
+25,Arhar (Tur/Red Gram),Thoubal,2014-03-09,8100.0,0.0,28.8,clear
+26,Bengal Gram(Gram),Thoubal,2014-03-09,5600.0,0.0,28.8,clear
+27,Black Gram (Urd Beans),Thoubal,2014-03-09,8100.0,0.0,28.8,clear
+28,Green Gram (Moong),Thoubal,2014-03-09,11600.0,0.0,28.8,clear
+29,Lentil(Masur),Thoubal,2014-03-09,8100.0,0.0,28.8,clear
+30,Arhar (Tur/Red Gram),Thoubal,2014-04-09,8100.0,0.0,27.4,clear
+31,Bengal Gram(Gram),Thoubal,2014-04-09,5600.0,0.0,27.4,clear
+32,Black Gram (Urd Beans),Thoubal,2014-04-09,8100.0,0.0,27.4,clear
+33,Green Gram (Moong),Thoubal,2014-04-09,11600.0,0.0,27.4,clear
+34,Lentil(Masur),Thoubal,2014-04-09,8100.0,0.0,27.4,clear
+35,Arhar (Tur/Red Gram),Thoubal,2014-05-09,8100.0,0.0,26.6,rain
+36,Bengal Gram(Gram),Thoubal,2014-05-09,5600.0,0.0,26.6,rain
+37,Black Gram (Urd Beans),Thoubal,2014-05-09,8100.0,0.0,26.6,rain
+38,Green Gram (Moong),Thoubal,2014-05-09,11600.0,0.0,26.6,rain
+39,Lentil(Masur),Thoubal,2014-05-09,8100.0,0.0,26.6,rain
+40,Arhar (Tur/Red Gram),Thoubal,2014-06-09,8600.0,0.0,31.4,clear
+41,Bengal Gram(Gram),Thoubal,2014-06-09,5600.0,0.0,31.4,clear
+42,Black Gram (Urd Beans),Thoubal,2014-06-09,7600.0,0.0,31.4,clear
+43,Green Gram (Moong),Thoubal,2014-06-09,11600.0,0.0,31.4,clear
+44,Lentil(Masur),Thoubal,2014-06-09,8600.0,0.0,31.4,clear
+45,Arhar (Tur/Red Gram),Thoubal,2014-01-10,8600.0,0.0,23.8,clear
+46,Bengal Gram(Gram),Thoubal,2014-01-10,5100.0,0.0,23.8,clear
+47,Black Gram (Urd Beans),Thoubal,2014-01-10,8600.0,0.0,23.8,clear
+48,Green Gram (Moong),Thoubal,2014-01-10,11600.0,0.0,23.8,clear
+49,Lentil(Masur),Thoubal,2014-01-10,8600.0,0.0,23.8,clear
+50,Arhar (Tur/Red Gram),Thoubal,2014-03-10,8600.0,0.0,28.4,clear
+51,Bengal Gram(Gram),Thoubal,2014-03-10,5100.0,0.0,28.4,clear
+52,Black Gram (Urd Beans),Thoubal,2014-03-10,8600.0,0.0,28.4,clear
+53,Green Gram (Moong),Thoubal,2014-03-10,11600.0,0.0,28.4,clear
+54,Lentil(Masur),Thoubal,2014-03-10,8600.0,0.0,28.4,clear
+55,Arhar (Tur/Red Gram),Thoubal,2014-04-10,8600.0,0.0,31.0,clear
+56,Bengal Gram(Gram),Thoubal,2014-04-10,5100.0,0.0,31.0,clear
+57,Black Gram (Urd Beans),Thoubal,2014-04-10,8600.0,0.0,31.0,clear
+58,Green Gram (Moong),Thoubal,2014-04-10,11600.0,0.0,31.0,clear
+59,Lentil(Masur),Thoubal,2014-04-10,8600.0,0.0,31.0,clear
+60,Arhar (Tur/Red Gram),Thoubal,2014-07-10,8600.0,0.0,29.6,clear
+61,Bengal Gram(Gram),Thoubal,2014-07-10,5100.0,0.0,29.6,clear
+62,Black Gram (Urd Beans),Thoubal,2014-07-10,8600.0,0.0,29.6,clear
+63,Green Gram (Moong),Thoubal,2014-07-10,11600.0,0.0,29.6,clear
+64,Lentil(Masur),Thoubal,2014-07-10,8600.0,0.0,29.6,clear
+65,Arhar (Tur/Red Gram),Thoubal,2014-09-10,8600.0,0.0,30.4,clear
+66,Bengal Gram(Gram),Thoubal,2014-09-10,5100.0,0.0,30.4,clear
+67,Black Gram (Urd Beans),Thoubal,2014-09-10,8600.0,0.0,30.4,clear
+68,Green Gram (Moong),Thoubal,2014-09-10,11600.0,0.0,30.4,clear
+69,Lentil(Masur),Thoubal,2014-09-10,8600.0,0.0,30.4,clear
+70,Arhar (Tur/Red Gram),Thoubal,2014-10-10,8600.0,0.0,31.4,clear
+71,Bengal Gram(Gram),Thoubal,2014-10-10,5100.0,0.0,31.4,clear
+72,Black Gram (Urd Beans),Thoubal,2014-10-10,8600.0,0.0,31.4,clear
+73,Green Gram (Moong),Thoubal,2014-10-10,11600.0,0.0,31.4,clear
+74,Lentil(Masur),Thoubal,2014-10-10,8600.0,0.0,31.4,clear
+75,Arhar (Tur/Red Gram),Thoubal,2014-10-13,8600.0,0.0,30.4,clear
+76,Bengal Gram(Gram),Thoubal,2014-10-13,5100.0,0.0,30.4,clear
+77,Black Gram (Urd Beans),Thoubal,2014-10-13,8600.0,0.0,30.4,clear
+78,Green Gram (Moong),Thoubal,2014-10-13,11600.0,0.0,30.4,clear
+79,Lentil(Masur),Thoubal,2014-10-13,8600.0,0.0,30.4,clear
+80,Arhar (Tur/Red Gram),Thoubal,2014-10-14,8600.0,0.0,30.4,clear
+81,Bengal Gram(Gram),Thoubal,2014-10-14,5100.0,0.0,30.4,clear
+82,Black Gram (Urd Beans),Thoubal,2014-10-14,8600.0,0.0,30.4,clear
+83,Green Gram (Moong),Thoubal,2014-10-14,11600.0,0.0,30.4,clear
+84,Lentil(Masur),Thoubal,2014-10-14,8100.0,0.0,30.4,clear
+85,Arhar (Tur/Red Gram),Thoubal,2014-10-17,8600.0,0.0,30.0,clear
+86,Bengal Gram(Gram),Thoubal,2014-10-17,5100.0,0.0,30.0,clear
+87,Black Gram (Urd Beans),Thoubal,2014-10-17,8600.0,0.0,30.0,clear
+88,Green Gram (Moong),Thoubal,2014-10-17,11600.0,0.0,30.0,clear
+89,Lentil(Masur),Thoubal,2014-10-17,8000.0,0.0,30.0,clear
+90,Arhar (Tur/Red Gram),Thoubal,2014-10-18,8600.0,0.0,27.4,clear
+91,Bengal Gram(Gram),Thoubal,2014-10-18,5100.0,0.0,27.4,clear
+92,Black Gram (Urd Beans),Thoubal,2014-10-18,8600.0,0.0,27.4,clear
+93,Green Gram (Moong),Thoubal,2014-10-18,11600.0,0.0,27.4,clear
+94,Lentil(Masur),Thoubal,2014-10-18,8000.0,0.0,27.4,clear
+95,Arhar (Tur/Red Gram),Thoubal,2014-10-20,8600.0,0.0,29.6,clear
+96,Bengal Gram(Gram),Thoubal,2014-10-20,5050.0,0.0,29.6,clear
+97,Black Gram (Urd Beans),Thoubal,2014-10-20,8600.0,0.0,29.6,clear
+98,Green Gram (Moong),Thoubal,2014-10-20,11600.0,0.0,29.6,clear
+99,Lentil(Masur),Thoubal,2014-10-20,8000.0,0.0,29.6,clear
+100,Arhar (Tur/Red Gram),Thoubal,2014-10-21,8600.0,0.0,30.6,clear
+101,Bengal Gram(Gram),Thoubal,2014-10-21,5100.0,0.0,30.6,clear
+102,Black Gram (Urd Beans),Thoubal,2014-10-21,8600.0,0.0,30.6,clear
+103,Green Gram (Moong),Thoubal,2014-10-21,11600.0,0.0,30.6,clear
+104,Lentil(Masur),Thoubal,2014-10-21,8600.0,0.0,30.6,clear
+105,Arhar (Tur/Red Gram),Thoubal,2014-10-22,8600.0,0.0,30.0,clear
+106,Bengal Gram(Gram),Thoubal,2014-10-22,5100.0,0.0,30.0,clear
+107,Black Gram (Urd Beans),Thoubal,2014-10-22,8600.0,0.0,30.0,clear
+108,Green Gram (Moong),Thoubal,2014-10-22,11600.0,0.0,30.0,clear
+109,Lentil(Masur),Thoubal,2014-10-22,8600.0,0.0,30.0,clear
+110,Arhar (Tur/Red Gram),Thoubal,2014-10-27,8600.0,0.0,19.8,clear
+111,Bengal Gram(Gram),Thoubal,2014-10-27,5100.0,0.0,19.8,clear
+112,Black Gram (Urd Beans),Thoubal,2014-10-27,8600.0,0.0,19.8,clear
+113,Green Gram (Moong),Thoubal,2014-10-27,11600.0,0.0,19.8,clear
+114,Lentil(Masur),Thoubal,2014-10-27,8600.0,0.0,19.8,clear
+115,Arhar (Tur/Red Gram),Thoubal,2014-10-28,8600.0,0.0,20.2,clear
+116,Bengal Gram(Gram),Thoubal,2014-10-28,8600.0,0.0,20.2,clear
+117,Black Gram (Urd Beans),Thoubal,2014-10-28,8600.0,0.0,20.2,clear
+118,Green Gram (Moong),Thoubal,2014-10-28,11600.0,0.0,20.2,clear
+119,Lentil(Masur),Thoubal,2014-10-28,8600.0,0.0,20.2,clear
+120,Arhar (Tur/Red Gram),Thoubal,2014-10-29,8600.0,0.0,24.8,clear
+121,Bengal Gram(Gram),Thoubal,2014-10-29,8600.0,0.0,24.8,clear
+122,Black Gram (Urd Beans),Thoubal,2014-10-29,8600.0,0.0,24.8,clear
+123,Green Gram (Moong),Thoubal,2014-10-29,11600.0,0.0,24.8,clear
+124,Lentil(Masur),Thoubal,2014-10-29,8600.0,0.0,24.8,clear
+125,Arhar (Tur/Red Gram),Thoubal,2014-10-31,8600.0,0.0,29.0,clear
+126,Bengal Gram(Gram),Thoubal,2014-10-31,5100.0,0.0,29.0,clear
+127,Black Gram (Urd Beans),Thoubal,2014-10-31,8600.0,0.0,29.0,clear
+128,Green Gram (Moong),Thoubal,2014-10-31,11600.0,0.0,29.0,clear
+129,Lentil(Masur),Thoubal,2014-10-31,8600.0,0.0,29.0,clear
+130,Arhar (Tur/Red Gram),Thoubal,2014-03-11,8600.0,0.0,27.6,clear
+131,Bengal Gram(Gram),Thoubal,2014-03-11,5100.0,0.0,27.6,clear
+132,Black Gram (Urd Beans),Thoubal,2014-03-11,8600.0,0.0,27.6,clear
+133,Green Gram (Moong),Thoubal,2014-03-11,11600.0,0.0,27.6,clear
+134,Lentil(Masur),Thoubal,2014-03-11,8600.0,0.0,27.6,clear
+135,Arhar (Tur/Red Gram),Thoubal,2014-04-11,8600.0,0.0,30.6,clear
+136,Bengal Gram(Gram),Thoubal,2014-04-11,5100.0,0.0,30.6,clear
+137,Black Gram (Urd Beans),Thoubal,2014-04-11,8600.0,0.0,30.6,clear
+138,Green Gram (Moong),Thoubal,2014-04-11,11600.0,0.0,30.6,clear
+139,Lentil(Masur),Thoubal,2014-04-11,8600.0,0.0,30.6,clear
+140,Arhar (Tur/Red Gram),Thoubal,2014-05-11,8600.0,0.4,20.0,clear
+141,Bengal Gram(Gram),Thoubal,2014-05-11,5100.0,0.5,20.0,clear
+142,Black Gram (Urd Beans),Thoubal,2014-05-11,8600.0,0.4,20.0,clear
+143,Green Gram (Moong),Thoubal,2014-05-11,11600.0,0.3,20.0,clear
+144,Lentil(Masur),Thoubal,2014-05-11,8600.0,0.6,20.0,clear
+145,Arhar (Tur/Red Gram),Thoubal,2014-06-11,8600.0,0.0,26.4,clear
+146,Bengal Gram(Gram),Thoubal,2014-06-11,5100.0,0.0,26.4,clear
+147,Black Gram (Urd Beans),Thoubal,2014-06-11,8600.0,0.0,26.4,clear
+148,Green Gram (Moong),Thoubal,2014-06-11,11600.0,0.0,26.4,clear
+149,Lentil(Masur),Thoubal,2014-06-11,8600.0,0.0,26.4,clear
+150,Arhar (Tur/Red Gram),Thoubal,2014-01-12,8600.0,0.0,22.8,clear
+151,Bengal Gram(Gram),Thoubal,2014-01-12,5600.0,0.0,22.8,clear
+152,Black Gram (Urd Beans),Thoubal,2014-01-12,8600.0,0.0,22.8,clear
+153,Green Gram (Moong),Thoubal,2014-01-12,11600.0,0.0,22.8,clear
+154,Lentil(Masur),Thoubal,2014-01-12,8600.0,0.0,22.8,clear
+155,Arhar (Tur/Red Gram),Thoubal,2014-02-12,8600.0,0.0,23.4,clear
+156,Bengal Gram(Gram),Thoubal,2014-02-12,5600.0,0.0,23.4,clear
+157,Black Gram (Urd Beans),Thoubal,2014-02-12,8600.0,0.0,23.4,clear
+158,Green Gram (Moong),Thoubal,2014-02-12,11600.0,0.0,23.4,clear
+159,Lentil(Masur),Thoubal,2014-02-12,8600.0,0.0,23.4,clear
+160,Arhar (Tur/Red Gram),Thoubal,2014-03-12,8600.0,0.0,28.0,clear
+161,Bengal Gram(Gram),Thoubal,2014-03-12,5600.0,0.0,28.0,clear
+162,Black Gram (Urd Beans),Thoubal,2014-03-12,8600.0,0.0,28.0,clear
+163,Green Gram (Moong),Thoubal,2014-03-12,11600.0,0.0,28.0,clear
+164,Lentil(Masur),Thoubal,2014-03-12,8600.0,0.0,28.0,clear
+165,Arhar (Tur/Red Gram),Thoubal,2014-04-12,8600.0,0.0,32.4,clear
+166,Bengal Gram(Gram),Thoubal,2014-04-12,5600.0,0.0,32.4,clear
+167,Black Gram (Urd Beans),Thoubal,2014-04-12,8600.0,0.0,32.4,clear
+168,Green Gram (Moong),Thoubal,2014-04-12,11600.0,0.0,32.4,clear
+169,Lentil(Masur),Thoubal,2014-04-12,8600.0,0.0,32.4,clear
+170,Arhar (Tur/Red Gram),Thoubal,2014-05-12,8600.0,0.0,26.0,clear
+171,Bengal Gram(Gram),Thoubal,2014-05-12,5600.0,0.0,26.0,clear
+172,Black Gram (Urd Beans),Thoubal,2014-05-12,8600.0,0.0,26.0,clear
+173,Green Gram (Moong),Thoubal,2014-05-12,11600.0,0.0,26.0,clear
+174,Lentil(Masur),Thoubal,2014-05-12,8600.0,0.0,26.0,clear
+175,Arhar (Tur/Red Gram),Thoubal,2014-06-12,8600.0,0.0,31.2,clear
+176,Bengal Gram(Gram),Thoubal,2014-06-12,5600.0,0.0,31.2,clear
+177,Black Gram (Urd Beans),Thoubal,2014-06-12,8000.0,0.0,31.2,clear
+178,Green Gram (Moong),Thoubal,2014-06-12,11600.0,0.0,31.2,clear
+179,Lentil(Masur),Thoubal,2014-06-12,8600.0,0.0,31.2,clear
+180,Arhar (Tur/Red Gram),Thoubal,2014-10-12,8600.0,0.0,28.0,clear
+181,Bengal Gram(Gram),Thoubal,2014-10-12,5100.0,0.0,28.0,clear
+182,Black Gram (Urd Beans),Thoubal,2014-10-12,8600.0,0.0,28.0,clear
+183,Green Gram (Moong),Thoubal,2014-10-12,11600.0,0.0,28.0,clear
+184,Lentil(Masur),Thoubal,2014-10-12,8600.0,0.0,28.0,clear
+185,Arhar (Tur/Red Gram),Thoubal,2014-12-18,8600.0,0.0,24.4,clear
+186,Bengal Gram(Gram),Thoubal,2014-12-18,5100.0,0.0,24.4,clear
+187,Black Gram (Urd Beans),Thoubal,2014-12-18,8600.0,0.0,24.4,clear
+188,Green Gram (Moong),Thoubal,2014-12-18,11600.0,0.0,24.4,clear
+189,Lentil(Masur),Thoubal,2014-12-18,8600.0,0.0,24.4,clear
+190,Bengal Gram(Gram),Thoubal,2014-04-02,5120.0,17.4,30.0,clear
+191,Bengal Gram(Gram),Thoubal,2014-06-03,5300.0,15.0,31.8,clear
+192,Bengal Gram(Gram),Thoubal,2014-04-04,5225.0,13.8,22.0,clear
+193,Arhar (Tur/Red Gram),Thoubal,2015-05-01,8600.0,0.0,26.2,clear
+194,Bengal Gram(Gram),Thoubal,2015-05-01,5100.0,0.0,26.2,clear
+195,Black Gram (Urd Beans),Thoubal,2015-05-01,8600.0,0.0,26.2,clear
+196,Green Gram (Moong),Thoubal,2015-05-01,11600.0,0.0,26.2,clear
+197,Lentil(Masur),Thoubal,2015-05-01,8600.0,0.0,26.2,clear
+198,Arhar (Tur/Red Gram),Thoubal,2015-06-01,8600.0,0.0,28.0,clear
+199,Bengal Gram(Gram),Thoubal,2015-06-01,5100.0,0.0,28.0,clear
+200,Black Gram (Urd Beans),Thoubal,2015-06-01,8600.0,0.0,28.0,clear
+201,Green Gram (Moong),Thoubal,2015-06-01,11600.0,0.0,28.0,clear
+202,Lentil(Masur),Thoubal,2015-06-01,8600.0,0.0,28.0,clear
+203,Arhar (Tur/Red Gram),Thoubal,2015-08-01,8600.0,0.0,26.4,clear
+204,Bengal Gram(Gram),Thoubal,2015-08-01,5100.0,0.0,26.4,clear
+205,Black Gram (Urd Beans),Thoubal,2015-08-01,8600.0,0.0,26.4,clear
+206,Green Gram (Moong),Thoubal,2015-08-01,11600.0,0.0,26.4,clear
+207,Lentil(Masur),Thoubal,2015-08-01,8600.0,0.0,26.4,clear
+208,Arhar (Tur/Red Gram),Thoubal,2015-01-30,8600.0,0.0,22.8,clear
+209,Bengal Gram(Gram),Thoubal,2015-01-30,5100.0,0.0,22.8,clear
+210,Black Gram (Urd Beans),Thoubal,2015-01-30,8600.0,0.0,22.8,clear
+211,Green Gram (Moong),Thoubal,2015-01-30,12500.0,0.0,22.8,clear
+212,Lentil(Masur),Thoubal,2015-01-30,9000.0,0.0,22.8,clear
+213,Arhar (Tur/Red Gram),Thoubal,2015-03-02,8600.0,0.0,30.0,clear
+214,Bengal Gram(Gram),Thoubal,2015-03-02,5100.0,0.0,30.0,clear
+215,Black Gram (Urd Beans),Thoubal,2015-03-02,8100.0,0.0,30.0,clear
+216,Green Gram (Moong),Thoubal,2015-03-02,12100.0,0.0,30.0,clear
+217,Lentil(Masur),Thoubal,2015-03-02,9100.0,0.0,30.0,clear
+218,Arhar (Tur/Red Gram),Thoubal,2015-05-02,8600.0,0.5,27.2,clear
+219,Bengal Gram(Gram),Thoubal,2015-05-02,5100.0,0.0,27.2,clear
+220,Black Gram (Urd Beans),Thoubal,2015-05-02,8100.0,0.0,27.2,clear
+221,Green Gram (Moong),Thoubal,2015-05-02,12100.0,0.0,27.2,clear
+222,Lentil(Masur),Thoubal,2015-05-02,9100.0,0.0,27.2,clear
+223,Arhar (Tur/Red Gram),Thoubal,2015-06-02,8600.0,0.0,30.0,clear
+224,Bengal Gram(Gram),Thoubal,2015-06-02,5100.0,0.0,30.0,clear
+225,Black Gram (Urd Beans),Thoubal,2015-06-02,8100.0,0.0,30.0,clear
+226,Green Gram (Moong),Thoubal,2015-06-02,12100.0,0.0,30.0,clear
+227,Lentil(Masur),Thoubal,2015-06-02,9100.0,0.0,30.0,clear
+228,Arhar (Tur/Red Gram),Thoubal,2015-09-02,8600.0,0.0,29.0,clear
+229,Bengal Gram(Gram),Thoubal,2015-09-02,5100.0,0.0,29.0,clear
+230,Black Gram (Urd Beans),Thoubal,2015-09-02,8100.0,0.0,29.0,clear
+231,Green Gram (Moong),Thoubal,2015-09-02,12100.0,0.0,29.0,clear
+232,Lentil(Masur),Thoubal,2015-09-02,9100.0,0.0,29.0,clear
+233,Arhar (Tur/Red Gram),Thoubal,2015-10-02,8600.0,0.6,31.2,clear
+234,Bengal Gram(Gram),Thoubal,2015-10-02,5100.0,0.6,31.2,clear
+235,Green Gram (Moong),Thoubal,2015-10-02,12100.0,0.6,31.2,clear
+236,Lentil(Masur),Thoubal,2015-10-02,9100.0,0.6,31.2,clear
+237,Arhar (Tur/Red Gram),Thoubal,2015-11-02,8600.0,0.0,27.2,clear
+238,Bengal Gram(Gram),Thoubal,2015-11-02,5100.0,0.0,27.2,clear
+239,Black Gram (Urd Beans),Thoubal,2015-11-02,8100.0,0.0,27.2,clear
+240,Green Gram (Moong),Thoubal,2015-11-02,12100.0,0.0,27.2,clear
+241,Lentil(Masur),Thoubal,2015-11-02,9100.0,0.0,27.2,clear
+242,Arhar (Tur/Red Gram),Thoubal,2015-12-02,8600.0,0.6,20.0,clear
+243,Bengal Gram(Gram),Thoubal,2015-12-02,5100.0,0.7,20.0,clear
+244,Black Gram (Urd Beans),Thoubal,2015-12-02,8100.0,0.8,20.0,clear
+245,Green Gram (Moong),Thoubal,2015-12-02,12100.0,0.6,20.0,clear
+246,Lentil(Masur),Thoubal,2015-12-02,9100.0,0.6,20.0,clear
+247,Arhar (Tur/Red Gram),Thoubal,2015-02-13,8600.0,0.0,23.8,clear
+248,Bengal Gram(Gram),Thoubal,2015-02-13,5100.0,0.0,23.8,clear
+249,Black Gram (Urd Beans),Thoubal,2015-02-13,8100.0,0.0,23.8,clear
+250,Green Gram (Moong),Thoubal,2015-02-13,12100.0,0.0,23.8,clear
+251,Lentil(Masur),Thoubal,2015-02-13,9100.0,0.0,23.8,clear
+252,Arhar (Tur/Red Gram),Thoubal,2015-02-16,8600.0,0.0,24.2,clear
+253,Bengal Gram(Gram),Thoubal,2015-02-16,5100.0,0.0,24.2,clear
+254,Black Gram (Urd Beans),Thoubal,2015-02-16,5100.0,0.0,24.2,clear
+255,Green Gram (Moong),Thoubal,2015-02-16,12100.0,0.0,24.2,clear
+256,Lentil(Masur),Thoubal,2015-02-16,9100.0,0.0,24.2,clear
+257,Arhar (Tur/Red Gram),Thoubal,2015-02-17,8600.0,0.0,26.6,clear
+258,Bengal Gram(Gram),Thoubal,2015-02-17,5100.0,0.0,26.6,clear
+259,Black Gram (Urd Beans),Thoubal,2015-02-17,8100.0,0.0,26.6,clear
+260,Green Gram (Moong),Thoubal,2015-02-17,12100.0,0.0,26.6,clear
+261,Lentil(Masur),Thoubal,2015-02-17,9100.0,0.0,26.6,clear
+262,Arhar (Tur/Red Gram),Thoubal,2015-02-18,8600.0,0.0,24.6,clear
+263,Bengal Gram(Gram),Thoubal,2015-02-18,5100.0,0.0,24.6,clear
+264,Black Gram (Urd Beans),Thoubal,2015-02-18,8100.0,0.0,24.6,clear
+265,Green Gram (Moong),Thoubal,2015-02-18,12100.0,0.0,24.6,clear
+266,Lentil(Masur),Thoubal,2015-02-18,9100.0,0.0,24.6,clear
+267,Arhar (Tur/Red Gram),Thoubal,2015-02-20,9100.0,0.0,25.6,clear
+268,Bengal Gram(Gram),Thoubal,2015-02-20,5600.0,0.0,25.6,clear
+269,Black Gram (Urd Beans),Thoubal,2015-02-20,7100.0,0.0,25.6,clear
+270,Green Gram (Moong),Thoubal,2015-02-20,11600.0,0.0,25.6,clear
+271,Lentil(Masur),Thoubal,2015-02-20,8100.0,0.0,25.6,clear
+272,Arhar (Tur/Red Gram),Thoubal,2015-02-21,8600.0,0.0,25.0,clear
+273,Bengal Gram(Gram),Thoubal,2015-02-21,5100.0,0.0,25.0,clear
+274,Black Gram (Urd Beans),Thoubal,2015-02-21,8100.0,0.0,25.0,clear
+275,Green Gram (Moong),Thoubal,2015-02-21,12100.0,0.0,25.0,clear
+276,Lentil(Masur),Thoubal,2015-02-21,9100.0,0.0,25.0,clear
+277,Arhar (Tur/Red Gram),Thoubal,2015-03-31,9100.0,0.6,24.8,clear
+278,Bengal Gram(Gram),Thoubal,2015-03-31,5100.0,0.6,24.8,clear
+279,Black Gram (Urd Beans),Thoubal,2015-03-31,8100.0,0.5,24.8,clear
+280,Green Gram (Moong),Thoubal,2015-03-31,12100.0,0.5,24.8,clear
+281,Lentil(Masur),Thoubal,2015-03-31,9100.0,0.4,24.8,clear
+282,Arhar (Tur/Red Gram),Thoubal,2015-01-04,9100.0,0.5,26.0,rain
+283,Bengal Gram(Gram),Thoubal,2015-01-04,5100.0,0.5,26.0,rain
+284,Black Gram (Urd Beans),Thoubal,2015-01-04,8100.0,0.6,26.0,rain
+285,Green Gram (Moong),Thoubal,2015-01-04,12100.0,0.4,26.0,rain
+286,Lentil(Masur),Thoubal,2015-01-04,9100.0,0.5,26.0,rain
+287,Arhar (Tur/Red Gram),Thoubal,2015-02-04,9100.0,0.5,25.8,clear
+288,Bengal Gram(Gram),Thoubal,2015-02-04,5100.0,0.5,25.8,clear
+289,Black Gram (Urd Beans),Thoubal,2015-02-04,8100.0,0.6,25.8,clear
+290,Green Gram (Moong),Thoubal,2015-02-04,12100.0,0.4,25.8,clear
+291,Lentil(Masur),Thoubal,2015-02-04,9100.0,0.4,25.8,clear
+292,Arhar (Tur/Red Gram),Thoubal,2015-04-04,9100.0,0.0,23.0,rain
+293,Bengal Gram(Gram),Thoubal,2015-04-04,5100.0,0.0,23.0,rain
+294,Black Gram (Urd Beans),Thoubal,2015-04-04,8100.0,0.0,23.0,rain
+295,Green Gram (Moong),Thoubal,2015-04-04,12100.0,0.0,23.0,rain
+296,Lentil(Masur),Thoubal,2015-04-04,9100.0,0.0,23.0,rain
+297,Arhar (Tur/Red Gram),Thoubal,2015-06-04,9100.0,0.0,33.0,clear
+298,Bengal Gram(Gram),Thoubal,2015-06-04,5100.0,0.0,33.0,clear
+299,Black Gram (Urd Beans),Thoubal,2015-06-04,8100.0,0.0,33.0,clear
+300,Green Gram (Moong),Thoubal,2015-06-04,12100.0,0.0,33.0,clear
+301,Lentil(Masur),Thoubal,2015-06-04,9100.0,0.0,33.0,clear
+302,Arhar (Tur/Red Gram),Thoubal,2015-07-04,9100.0,0.0,31.2,clear
+303,Bengal Gram(Gram),Thoubal,2015-07-04,5100.0,0.0,31.2,clear
+304,Black Gram (Urd Beans),Thoubal,2015-07-04,8100.0,0.0,31.2,clear
+305,Green Gram (Moong),Thoubal,2015-07-04,12100.0,0.0,31.2,clear
+306,Lentil(Masur),Thoubal,2015-07-04,9100.0,0.0,31.2,clear
+307,Arhar (Tur/Red Gram),Thoubal,2015-08-04,8100.0,0.4,29.8,clear
+308,Bengal Gram(Gram),Thoubal,2015-08-04,5600.0,0.4,29.8,clear
+309,Black Gram (Urd Beans),Thoubal,2015-08-04,8100.0,0.5,29.8,clear
+310,Green Gram (Moong),Thoubal,2015-08-04,12100.0,0.4,29.8,clear
+311,Lentil(Masur),Thoubal,2015-08-04,9600.0,0.5,29.8,clear
+312,Arhar (Tur/Red Gram),Thoubal,2015-04-13,9600.0,0.0,29.6,clear
+313,Bengal Gram(Gram),Thoubal,2015-04-13,5100.0,0.0,29.6,clear
+314,Black Gram (Urd Beans),Thoubal,2015-04-13,8100.0,0.0,29.6,clear
+315,Green Gram (Moong),Thoubal,2015-04-13,12100.0,0.0,29.6,clear
+316,Lentil(Masur),Thoubal,2015-04-13,9100.0,0.0,29.6,clear
+317,Arhar (Tur/Red Gram),Thoubal,2015-04-15,9600.0,0.0,32.8,clear
+318,Bengal Gram(Gram),Thoubal,2015-04-15,5100.0,0.0,32.8,clear
+319,Black Gram (Urd Beans),Thoubal,2015-04-15,8100.0,0.0,32.8,clear
+320,Green Gram (Moong),Thoubal,2015-04-15,12100.0,0.0,32.8,clear
+321,Lentil(Masur),Thoubal,2015-04-15,9100.0,0.0,32.8,clear
+322,Arhar (Tur/Red Gram),Thoubal,2015-04-16,9600.0,0.0,31.4,clear
+323,Bengal Gram(Gram),Thoubal,2015-04-16,5100.0,0.0,31.4,clear
+324,Black Gram (Urd Beans),Thoubal,2015-04-16,8100.0,0.0,31.4,clear
+325,Green Gram (Moong),Thoubal,2015-04-16,12100.0,0.0,31.4,clear
+326,Lentil(Masur),Thoubal,2015-04-16,9100.0,0.0,31.4,clear
+327,Arhar (Tur/Red Gram),Thoubal,2015-04-17,9600.0,0.0,26.0,clear
+328,Bengal Gram(Gram),Thoubal,2015-04-17,5100.0,0.0,26.0,clear
+329,Black Gram (Urd Beans),Thoubal,2015-04-17,8100.0,0.0,26.0,clear
+330,Green Gram (Moong),Thoubal,2015-04-17,12100.0,0.0,26.0,clear
+331,Lentil(Masur),Thoubal,2015-04-17,9100.0,0.0,26.0,clear
+332,Arhar (Tur/Red Gram),Thoubal,2015-04-18,9600.0,0.0,28.0,rain
+333,Bengal Gram(Gram),Thoubal,2015-04-18,5600.0,0.0,28.0,rain
+334,Black Gram (Urd Beans),Thoubal,2015-04-18,8600.0,0.0,28.0,rain
+335,Green Gram (Moong),Thoubal,2015-04-18,12600.0,0.0,28.0,rain
+336,Lentil(Masur),Thoubal,2015-04-18,9600.0,0.0,28.0,rain
+337,Arhar (Tur/Red Gram),Thoubal,2015-04-20,9600.0,0.0,24.8,rain
+338,Bengal Gram(Gram),Thoubal,2015-04-20,5600.0,0.0,24.8,rain
+339,Black Gram (Urd Beans),Thoubal,2015-04-20,8600.0,0.0,24.8,rain
+340,Green Gram (Moong),Thoubal,2015-04-20,12600.0,0.0,24.8,rain
+341,Lentil(Masur),Thoubal,2015-04-20,9600.0,0.0,24.8,rain
+342,Arhar (Tur/Red Gram),Thoubal,2015-04-21,9600.0,0.0,23.2,clear
+343,Bengal Gram(Gram),Thoubal,2015-04-21,5600.0,0.0,23.2,clear
+344,Black Gram (Urd Beans),Thoubal,2015-04-21,8600.0,0.0,23.2,clear
+345,Green Gram (Moong),Thoubal,2015-04-21,12600.0,0.0,23.2,clear
+346,Lentil(Masur),Thoubal,2015-04-21,9600.0,0.0,23.2,clear
+347,Arhar (Tur/Red Gram),Thoubal,2015-04-22,9600.0,0.0,27.6,clear
+348,Bengal Gram(Gram),Thoubal,2015-04-22,5600.0,0.0,27.6,clear
+349,Black Gram (Urd Beans),Thoubal,2015-04-22,8600.0,0.0,27.6,clear
+350,Green Gram (Moong),Thoubal,2015-04-22,12600.0,0.0,27.6,clear
+351,Lentil(Masur),Thoubal,2015-04-22,9600.0,4.0,27.6,clear
+352,Arhar (Tur/Red Gram),Thoubal,2015-04-24,9600.0,0.0,26.0,clear
+353,Bengal Gram(Gram),Thoubal,2015-04-24,5600.0,0.0,26.0,clear
+354,Black Gram (Urd Beans),Thoubal,2015-04-24,8600.0,0.0,26.0,clear
+355,Green Gram (Moong),Thoubal,2015-04-24,12600.0,0.0,26.0,clear
+356,Lentil(Masur),Thoubal,2015-04-24,9600.0,0.0,26.0,clear
+357,Arhar (Tur/Red Gram),Thoubal,2015-04-25,9600.0,0.0,21.2,rain
+358,Bengal Gram(Gram),Thoubal,2015-04-25,5600.0,0.0,21.2,rain
+359,Black Gram (Urd Beans),Thoubal,2015-04-25,9100.0,0.0,21.2,rain
+360,Green Gram (Moong),Thoubal,2015-04-25,12600.0,0.0,21.2,rain
+361,Lentil(Masur),Thoubal,2015-04-25,9600.0,0.0,21.2,rain
+362,Arhar (Tur/Red Gram),Thoubal,2015-04-27,10600.0,0.0,23.0,clear
+363,Bengal Gram(Gram),Thoubal,2015-04-27,6000.0,0.0,23.0,clear
+364,Black Gram (Urd Beans),Thoubal,2015-04-27,8600.0,0.0,23.0,clear
+365,Green Gram (Moong),Thoubal,2015-04-27,13600.0,0.0,23.0,clear
+366,Lentil(Masur),Thoubal,2015-04-27,9600.0,0.0,23.0,clear
+367,Arhar (Tur/Red Gram),Thoubal,2015-04-28,9600.0,0.0,27.4,clear
+368,Bengal Gram(Gram),Thoubal,2015-04-28,5600.0,0.0,27.4,clear
+369,Black Gram (Urd Beans),Thoubal,2015-04-28,9100.0,0.0,27.4,clear
+370,Green Gram (Moong),Thoubal,2015-04-28,12600.0,0.0,27.4,clear
+371,Lentil(Masur),Thoubal,2015-04-28,9600.0,0.0,27.4,clear
+372,Arhar (Tur/Red Gram),Thoubal,2015-04-29,9600.0,0.0,26.6,clear
+373,Arhar (Tur/Red Gram),Thoubal,2015-04-30,9600.0,0.0,30.8,clear
+374,Bengal Gram(Gram),Thoubal,2015-04-30,5600.0,0.0,30.8,clear
+375,Black Gram (Urd Beans),Thoubal,2015-04-30,9600.0,0.0,30.8,clear
+376,Green Gram (Moong),Thoubal,2015-04-30,13100.0,0.0,30.8,clear
+377,Lentil(Masur),Thoubal,2015-04-30,9600.0,0.0,30.8,clear
+378,Arhar (Tur/Red Gram),Thoubal,2015-02-05,9600.0,0.0,24.6,clear
+379,Bengal Gram(Gram),Thoubal,2015-02-05,5200.0,0.0,24.6,clear
+380,Black Gram (Urd Beans),Thoubal,2015-02-05,9600.0,0.0,24.6,clear
+381,Green Gram (Moong),Thoubal,2015-02-05,13100.0,0.0,24.6,clear
+382,Lentil(Masur),Thoubal,2015-02-05,9600.0,0.0,24.6,clear
+383,Arhar (Tur/Red Gram),Thoubal,2015-04-05,9600.0,0.0,24.4,rain
+384,Bengal Gram(Gram),Thoubal,2015-04-05,5200.0,0.0,24.4,rain
+385,Black Gram (Urd Beans),Thoubal,2015-04-05,9600.0,0.0,24.4,rain
+386,Green Gram (Moong),Thoubal,2015-04-05,13100.0,0.0,24.4,rain
+387,Lentil(Masur),Thoubal,2015-04-05,9600.0,0.0,24.4,rain
+388,Arhar (Tur/Red Gram),Thoubal,2015-05-05,10600.0,0.0,31.2,clear
+389,Bengal Gram(Gram),Thoubal,2015-05-05,5200.0,0.0,31.2,clear
+390,Black Gram (Urd Beans),Thoubal,2015-05-05,9600.0,0.0,31.2,clear
+391,Green Gram (Moong),Thoubal,2015-05-05,13600.0,0.0,31.2,clear
+392,Lentil(Masur),Thoubal,2015-05-05,9600.0,0.0,31.2,clear
+393,Arhar (Tur/Red Gram),Thoubal,2015-06-05,10600.0,0.0,29.2,clear
+394,Bengal Gram(Gram),Thoubal,2015-06-05,5200.0,0.0,29.2,clear
+395,Black Gram (Urd Beans),Thoubal,2015-06-05,9600.0,0.0,29.2,clear
+396,Green Gram (Moong),Thoubal,2015-06-05,13100.0,0.0,29.2,clear
+397,Lentil(Masur),Thoubal,2015-06-05,9600.0,0.0,29.2,clear
+398,Arhar (Tur/Red Gram),Thoubal,2015-07-05,10600.0,0.0,31.8,clear
+399,Bengal Gram(Gram),Thoubal,2015-07-05,5200.0,0.0,31.8,clear
+400,Black Gram (Urd Beans),Thoubal,2015-07-05,9600.0,0.0,31.8,clear
+401,Green Gram (Moong),Thoubal,2015-07-05,13100.0,0.0,31.8,clear
+402,Lentil(Masur),Thoubal,2015-07-05,9600.0,0.0,31.8,clear
+403,Arhar (Tur/Red Gram),Thoubal,2015-08-05,10600.0,0.0,27.2,clear
+404,Bengal Gram(Gram),Thoubal,2015-08-05,5600.0,0.0,27.2,clear
+405,Arhar (Tur/Red Gram),Thoubal,2015-11-05,10600.0,0.0,27.0,clear
+406,Bengal Gram(Gram),Thoubal,2015-11-05,5600.0,0.0,27.0,clear
+407,Arhar (Tur/Red Gram),Thoubal,2015-12-05,10600.0,0.0,22.4,clear
+408,Bengal Gram(Gram),Thoubal,2015-12-05,5600.0,0.0,22.4,clear
+409,Black Gram (Urd Beans),Thoubal,2015-12-05,10600.0,0.0,22.4,clear
+410,Arhar (Tur/Red Gram),Thoubal,2015-05-13,10600.0,0.0,30.8,clear
+411,Bengal Gram(Gram),Thoubal,2015-05-13,5600.0,0.0,30.8,clear
+412,Black Gram (Urd Beans),Thoubal,2015-05-13,10600.0,0.0,30.8,clear
+413,Green Gram (Moong),Thoubal,2015-05-13,14600.0,0.0,30.8,clear
+414,Lentil(Masur),Thoubal,2015-05-13,11600.0,0.0,30.8,clear
+415,Arhar (Tur/Red Gram),Thoubal,2015-05-14,10600.0,0.0,29.6,clear
+416,Bengal Gram(Gram),Thoubal,2015-05-14,5600.0,0.0,29.6,clear
+417,Black Gram (Urd Beans),Thoubal,2015-05-14,10600.0,0.0,29.6,clear
+418,Lentil(Masur),Thoubal,2015-05-14,11600.0,0.0,29.6,clear
+419,Arhar (Tur/Red Gram),Thoubal,2015-05-15,11600.0,0.0,27.0,clear
+420,Bengal Gram(Gram),Thoubal,2015-05-15,5600.0,0.0,27.0,clear
+421,Black Gram (Urd Beans),Thoubal,2015-05-15,10600.0,0.0,27.0,clear
+422,Green Gram (Moong),Thoubal,2015-05-15,13600.0,0.0,27.0,clear
+423,Lentil(Masur),Thoubal,2015-05-15,11600.0,0.0,27.0,clear
+424,Arhar (Tur/Red Gram),Thoubal,2015-05-18,11600.0,0.0,26.8,clear
+425,Bengal Gram(Gram),Thoubal,2015-05-18,5600.0,0.0,26.8,clear
+426,Black Gram (Urd Beans),Thoubal,2015-05-18,10600.0,0.0,26.8,clear
+427,Green Gram (Moong),Thoubal,2015-05-18,13600.0,0.0,26.8,clear
+428,Lentil(Masur),Thoubal,2015-05-18,11600.0,0.0,26.8,clear
+429,Arhar (Tur/Red Gram),Thoubal,2015-05-19,11500.0,0.0,31.2,clear
+430,Bengal Gram(Gram),Thoubal,2015-05-19,5600.0,0.0,31.2,clear
+431,Black Gram (Urd Beans),Thoubal,2015-05-19,10600.0,0.0,31.2,clear
+432,Green Gram (Moong),Thoubal,2015-05-19,13500.0,0.0,31.2,clear
+433,Lentil(Masur),Thoubal,2015-05-19,11500.0,0.0,31.2,clear
+434,Arhar (Tur/Red Gram),Thoubal,2015-05-20,11500.0,0.0,33.6,clear
+435,Bengal Gram(Gram),Thoubal,2015-05-20,5600.0,0.0,33.6,clear
+436,Black Gram (Urd Beans),Thoubal,2015-05-20,10600.0,0.0,33.6,clear
+437,Green Gram (Moong),Thoubal,2015-05-20,13500.0,0.0,33.6,clear
+438,Lentil(Masur),Thoubal,2015-05-20,11500.0,0.0,33.6,clear
+439,Arhar (Tur/Red Gram),Thoubal,2015-05-21,11500.0,0.0,32.8,clear
+440,Bengal Gram(Gram),Thoubal,2015-05-21,5600.0,0.0,32.8,clear
+441,Black Gram (Urd Beans),Thoubal,2015-05-21,10600.0,0.0,32.8,clear
+442,Arhar (Tur/Red Gram),Thoubal,2015-05-22,11500.0,0.0,29.4,clear
+443,Bengal Gram(Gram),Thoubal,2015-05-22,5600.0,0.0,29.4,clear
+444,Black Gram (Urd Beans),Thoubal,2015-05-22,10600.0,0.0,29.4,clear
+445,Green Gram (Moong),Thoubal,2015-05-22,13500.0,0.0,29.4,clear
+446,Lentil(Masur),Thoubal,2015-05-22,11500.0,0.0,29.4,clear
+447,Arhar (Tur/Red Gram),Thoubal,2015-05-25,11500.0,0.0,31.6,clear
+448,Arhar (Tur/Red Gram),Thoubal,2015-05-26,11500.0,0.5,30.8,clear
+449,Bengal Gram(Gram),Thoubal,2015-05-26,5600.0,0.5,30.8,clear
+450,Black Gram (Urd Beans),Thoubal,2015-05-26,10600.0,0.4,30.8,clear
+451,Green Gram (Moong),Thoubal,2015-05-26,13500.0,0.4,30.8,clear
+452,Lentil(Masur),Thoubal,2015-05-26,11500.0,0.5,30.8,clear
+453,Arhar (Tur/Red Gram),Thoubal,2015-05-27,11500.0,0.6,29.0,clear
+454,Bengal Gram(Gram),Thoubal,2015-05-27,5600.0,0.4,29.0,clear
+455,Black Gram (Urd Beans),Thoubal,2015-05-27,5600.0,0.4,29.0,clear
+456,Green Gram (Moong),Thoubal,2015-05-27,13500.0,0.5,29.0,clear
+457,Lentil(Masur),Thoubal,2015-05-27,11500.0,0.6,29.0,clear
+458,Arhar (Tur/Red Gram),Thoubal,2015-05-28,11500.0,0.0,29.0,clear
+459,Bengal Gram(Gram),Thoubal,2015-05-28,5600.0,0.0,29.0,clear
+460,Black Gram (Urd Beans),Thoubal,2015-05-28,10600.0,0.0,29.0,clear
+461,Arhar (Tur/Red Gram),Thoubal,2015-05-29,11500.0,0.0,29.8,clear
+462,Arhar (Tur/Red Gram),Thoubal,2015-05-30,11500.0,0.0,31.0,clear
+463,Bengal Gram(Gram),Thoubal,2015-05-30,5500.0,0.0,31.0,clear
+464,Black Gram (Urd Beans),Thoubal,2015-05-30,11500.0,0.0,31.0,clear
+465,Green Gram (Moong),Thoubal,2015-05-30,13500.0,0.0,31.0,clear
+466,Lentil(Masur),Thoubal,2015-05-30,11500.0,0.0,31.0,clear
+467,Arhar (Tur/Red Gram),Thoubal,2015-01-06,11500.0,0.0,23.0,clear
+468,Bengal Gram(Gram),Thoubal,2015-01-06,5600.0,0.0,23.0,clear
+469,Black Gram (Urd Beans),Thoubal,2015-01-06,10600.0,0.0,23.0,clear
+470,Green Gram (Moong),Thoubal,2015-01-06,14500.0,0.0,23.0,clear
+471,Lentil(Masur),Thoubal,2015-01-06,11500.0,0.0,23.0,clear
+472,Arhar (Tur/Red Gram),Thoubal,2015-02-06,11500.0,0.0,23.4,clear
+473,Arhar (Tur/Red Gram),Thoubal,2015-03-06,11500.0,0.0,27.0,clear
+474,Arhar (Tur/Red Gram),Thoubal,2015-04-06,11400.0,0.0,22.6,rain
+475,Bengal Gram(Gram),Thoubal,2015-04-06,5600.0,0.0,22.6,rain
+476,Black Gram (Urd Beans),Thoubal,2015-04-06,11500.0,0.0,22.6,rain
+477,Green Gram (Moong),Thoubal,2015-04-06,13500.0,0.0,22.6,rain
+478,Lentil(Masur),Thoubal,2015-04-06,11500.0,0.0,22.6,rain
+479,Arhar (Tur/Red Gram),Thoubal,2015-05-06,11500.0,0.0,30.2,clear
+480,Bengal Gram(Gram),Thoubal,2015-05-06,5600.0,0.0,30.2,clear
+481,Black Gram (Urd Beans),Thoubal,2015-05-06,11500.0,0.0,30.2,clear
+482,Green Gram (Moong),Thoubal,2015-05-06,13500.0,0.0,30.2,clear
+483,Lentil(Masur),Thoubal,2015-05-06,11500.0,0.0,30.2,clear
+484,Arhar (Tur/Red Gram),Thoubal,2015-06-06,11500.0,0.0,31.6,clear
+485,Bengal Gram(Gram),Thoubal,2015-06-06,5600.0,0.0,31.6,clear
+486,Black Gram (Urd Beans),Thoubal,2015-06-06,11500.0,0.0,31.6,clear
+487,Green Gram (Moong),Thoubal,2015-06-06,13500.0,0.0,31.6,clear
+488,Lentil(Masur),Thoubal,2015-06-06,11500.0,0.0,31.6,clear
+489,Arhar (Tur/Red Gram),Thoubal,2015-08-06,11500.0,0.0,32.0,clear
+490,Bengal Gram(Gram),Thoubal,2015-08-06,5600.0,0.0,32.0,clear
+491,Black Gram (Urd Beans),Thoubal,2015-08-06,11500.0,0.0,32.0,clear
+492,Green Gram (Moong),Thoubal,2015-08-06,13500.0,0.0,32.0,clear
+493,Lentil(Masur),Thoubal,2015-08-06,11500.0,0.0,32.0,clear
+494,Arhar (Tur/Red Gram),Thoubal,2015-09-06,11500.0,0.0,29.2,clear
+495,Bengal Gram(Gram),Thoubal,2015-09-06,5600.0,0.0,29.2,clear
+496,Black Gram (Urd Beans),Thoubal,2015-09-06,11500.0,0.0,29.2,clear
+497,Green Gram (Moong),Thoubal,2015-09-06,13500.0,0.0,29.2,clear
+498,Lentil(Masur),Thoubal,2015-09-06,11500.0,0.0,29.2,clear
+499,Arhar (Tur/Red Gram),Thoubal,2015-10-06,11600.0,0.0,30.0,rain
+500,Bengal Gram(Gram),Thoubal,2015-10-06,5600.0,0.0,30.0,rain
+501,Black Gram (Urd Beans),Thoubal,2015-10-06,11600.0,0.0,30.0,rain
+502,Green Gram (Moong),Thoubal,2015-10-06,13600.0,0.0,30.0,rain
+503,Lentil(Masur),Thoubal,2015-10-06,11600.0,0.0,30.0,rain
+504,Arhar (Tur/Red Gram),Thoubal,2015-11-06,11600.0,0.0,26.6,clear
+505,Arhar (Tur/Red Gram),Thoubal,2015-12-06,11600.0,0.0,21.8,clear
+506,Bengal Gram(Gram),Thoubal,2015-12-06,5600.0,0.0,21.8,clear
+507,Black Gram (Urd Beans),Thoubal,2015-12-06,11600.0,0.0,21.8,clear
+508,Green Gram (Moong),Thoubal,2015-12-06,13600.0,0.0,21.8,clear
+509,Lentil(Masur),Thoubal,2015-12-06,11600.0,0.0,21.8,clear
+510,Arhar (Tur/Red Gram),Thoubal,2015-06-15,11500.0,0.0,31.0,clear
+511,Bengal Gram(Gram),Thoubal,2015-06-15,5500.0,0.0,31.0,clear
+512,Black Gram (Urd Beans),Thoubal,2015-06-15,10500.0,0.0,31.0,clear
+513,Green Gram (Moong),Thoubal,2015-06-15,13500.0,0.0,31.0,clear
+514,Lentil(Masur),Thoubal,2015-06-15,11500.0,0.0,31.0,clear
+515,Arhar (Tur/Red Gram),Thoubal,2015-06-16,11500.0,0.0,29.4,clear
+516,Bengal Gram(Gram),Thoubal,2015-06-16,5500.0,0.0,29.4,clear
+517,Black Gram (Urd Beans),Thoubal,2015-06-16,10500.0,0.0,29.4,clear
+518,Green Gram (Moong),Thoubal,2015-06-16,13500.0,0.0,29.4,clear
+519,Lentil(Masur),Thoubal,2015-06-16,11500.0,0.0,29.4,clear
+520,Arhar (Tur/Red Gram),Thoubal,2015-06-17,11600.0,0.0,30.6,clear
+521,Bengal Gram(Gram),Thoubal,2015-06-17,5600.0,0.0,30.6,clear
+522,Black Gram (Urd Beans),Thoubal,2015-06-17,10600.0,0.0,30.6,clear
+523,Green Gram (Moong),Thoubal,2015-06-17,13600.0,0.0,30.6,clear
+524,Lentil(Masur),Thoubal,2015-06-17,11600.0,0.0,30.6,clear
+525,Arhar (Tur/Red Gram),Thoubal,2015-06-19,11600.0,1.5,30.0,clear
+526,Arhar (Tur/Red Gram),Thoubal,2015-06-22,11500.0,0.6,31.0,clear
+527,Bengal Gram(Gram),Thoubal,2015-06-22,5500.0,0.5,31.0,clear
+528,Black Gram (Urd Beans),Thoubal,2015-06-22,10500.0,0.5,31.0,clear
+529,Lentil(Masur),Thoubal,2015-06-22,11500.0,0.6,31.0,clear
+530,Arhar (Tur/Red Gram),Thoubal,2015-06-23,11500.0,0.0,26.4,rain
+531,Arhar (Tur/Red Gram),Thoubal,2015-06-24,11500.0,0.0,29.6,clear
+532,Arhar (Tur/Red Gram),Thoubal,2015-06-27,11500.0,0.0,27.2,rain
+533,Arhar (Tur/Red Gram),Thoubal,2015-06-30,11500.0,0.0,30.8,clear
+534,Arhar (Tur/Red Gram),Thoubal,2015-01-07,11500.0,0.6,24.6,clear
+535,Bengal Gram(Gram),Thoubal,2015-01-07,5500.0,0.5,24.6,clear
+536,Black Gram (Urd Beans),Thoubal,2015-01-07,10500.0,0.4,24.6,clear
+537,Green Gram (Moong),Thoubal,2015-01-07,12500.0,0.4,24.6,clear
+538,Lentil(Masur),Thoubal,2015-01-07,11500.0,0.5,24.6,clear
+539,Arhar (Tur/Red Gram),Thoubal,2015-03-07,11600.0,0.0,28.6,clear
+540,Bengal Gram(Gram),Thoubal,2015-03-07,5600.0,0.0,28.6,clear
+541,Black Gram (Urd Beans),Thoubal,2015-03-07,11600.0,0.0,28.6,clear
+542,Green Gram (Moong),Thoubal,2015-03-07,13600.0,0.0,28.6,clear
+543,Lentil(Masur),Thoubal,2015-03-07,10600.0,0.0,28.6,clear
+544,Arhar (Tur/Red Gram),Thoubal,2015-04-07,11600.0,0.0,29.8,clear
+545,Bengal Gram(Gram),Thoubal,2015-04-07,5600.0,0.0,29.8,clear
+546,Black Gram (Urd Beans),Thoubal,2015-04-07,11600.0,0.0,29.8,clear
+547,Green Gram (Moong),Thoubal,2015-04-07,13600.0,0.0,29.8,clear
+548,Lentil(Masur),Thoubal,2015-04-07,10600.0,0.0,29.8,clear
+549,Arhar (Tur/Red Gram),Thoubal,2015-06-07,11500.0,0.0,32.0,clear
+550,Bengal Gram(Gram),Thoubal,2015-06-07,5500.0,0.0,32.0,clear
+551,Black Gram (Urd Beans),Thoubal,2015-06-07,9000.0,0.0,32.0,clear
+552,Green Gram (Moong),Thoubal,2015-06-07,12500.0,0.0,32.0,clear
+553,Lentil(Masur),Thoubal,2015-06-07,11500.0,0.0,32.0,clear
+554,Arhar (Tur/Red Gram),Thoubal,2015-09-07,11500.0,0.0,29.0,clear
+555,Arhar (Tur/Red Gram),Thoubal,2015-07-13,11500.0,0.0,32.2,clear
+556,Arhar (Tur/Red Gram),Thoubal,2015-07-14,11500.0,0.0,31.2,clear
+557,Arhar (Tur/Red Gram),Thoubal,2015-07-17,11500.0,0.5,25.0,rain
+558,Bengal Gram(Gram),Thoubal,2015-07-17,5500.0,0.5,25.0,rain
+559,Black Gram (Urd Beans),Thoubal,2015-07-17,9000.0,0.4,25.0,rain
+560,Green Gram (Moong),Thoubal,2015-07-17,12500.0,0.4,25.0,rain
+561,Lentil(Masur),Thoubal,2015-07-17,11500.0,0.6,25.0,rain
+562,Arhar (Tur/Red Gram),Thoubal,2015-07-21,11500.0,0.0,29.8,rain
+563,Arhar (Tur/Red Gram),Thoubal,2015-07-22,11600.0,0.0,29.4,clear
+564,Bengal Gram(Gram),Thoubal,2015-07-22,5600.0,0.0,29.4,clear
+565,Black Gram (Urd Beans),Thoubal,2015-07-22,9100.0,0.0,29.4,clear
+566,Green Gram (Moong),Thoubal,2015-07-22,12600.0,0.0,29.4,clear
+567,Lentil(Masur),Thoubal,2015-07-22,11600.0,0.0,29.4,clear
+568,Arhar (Tur/Red Gram),Thoubal,2015-07-24,11600.0,0.4,26.4,clear
+569,Bengal Gram(Gram),Thoubal,2015-07-24,5600.0,0.4,26.4,clear
+570,Black Gram (Urd Beans),Thoubal,2015-07-24,9100.0,0.4,26.4,clear
+571,Green Gram (Moong),Thoubal,2015-07-24,12600.0,0.3,26.4,clear
+572,Lentil(Masur),Thoubal,2015-07-24,11600.0,0.5,26.4,clear
+573,Arhar (Tur/Red Gram),Thoubal,2015-01-08,11600.0,0.0,27.2,clear
+574,Bengal Gram(Gram),Thoubal,2015-01-08,5600.0,0.0,27.2,clear
+575,Black Gram (Urd Beans),Thoubal,2015-01-08,9100.0,0.0,27.2,clear
+576,Green Gram (Moong),Thoubal,2015-01-08,12600.0,0.0,27.2,clear
+577,Lentil(Masur),Thoubal,2015-01-08,11600.0,0.0,27.2,clear
+578,Arhar (Tur/Red Gram),Thoubal,2015-03-08,11600.0,0.0,29.8,clear
+579,Arhar (Tur/Red Gram),Thoubal,2015-04-08,11500.0,0.5,29.8,clear
+580,Bengal Gram(Gram),Thoubal,2015-04-08,5500.0,0.5,29.8,clear
+581,Black Gram (Urd Beans),Thoubal,2015-04-08,9000.0,0.5,29.8,clear
+582,Green Gram (Moong),Thoubal,2015-04-08,12500.0,0.5,29.8,clear
+583,Lentil(Masur),Thoubal,2015-04-08,11500.0,0.7,29.8,clear
+584,Arhar (Tur/Red Gram),Thoubal,2015-07-08,11500.0,0.0,27.0,clear
+585,Arhar (Tur/Red Gram),Thoubal,2015-10-08,11500.0,0.0,25.8,clear
+586,Bengal Gram(Gram),Thoubal,2015-10-08,5500.0,0.0,25.8,clear
+587,Black Gram (Urd Beans),Thoubal,2015-10-08,9000.0,0.0,25.8,clear
+588,Arhar (Tur/Red Gram),Thoubal,2015-10-09,14500.0,0.3,26.2,rain
+589,Bengal Gram(Gram),Thoubal,2015-10-09,6500.0,0.2,26.2,rain
+590,Black Gram (Urd Beans),Thoubal,2015-10-09,11500.0,0.2,26.2,rain
+591,Green Gram (Moong),Thoubal,2015-10-09,13500.0,0.1,26.2,rain
+592,Lentil(Masur),Thoubal,2015-10-09,11500.0,0.3,26.2,rain
+593,Arhar (Tur/Red Gram),Thoubal,2015-11-09,14500.0,0.2,28.4,clear
+594,Black Gram (Urd Beans),Thoubal,2015-11-09,11500.0,0.3,28.4,clear
+595,Green Gram (Moong),Thoubal,2015-11-09,13500.0,0.2,28.4,clear
+596,Lentil(Masur),Thoubal,2015-11-09,11500.0,0.4,28.4,clear
+597,Arhar (Tur/Red Gram),Thoubal,2015-01-10,13500.0,0.6,22.0,clear
+598,Bengal Gram(Gram),Thoubal,2015-01-10,6500.0,0.6,22.0,clear
+599,Black Gram (Urd Beans),Thoubal,2015-01-10,12500.0,0.5,22.0,clear
+600,Green Gram (Moong),Thoubal,2015-01-10,13500.0,0.5,22.0,clear
+601,Lentil(Masur),Thoubal,2015-01-10,11500.0,0.7,22.0,clear
+602,Arhar (Tur/Red Gram),Thoubal,2015-03-10,13500.0,0.7,31.4,clear
+603,Bengal Gram(Gram),Thoubal,2015-03-10,6500.0,0.5,31.4,clear
+604,Black Gram (Urd Beans),Thoubal,2015-03-10,12500.0,0.5,31.4,clear
+605,Green Gram (Moong),Thoubal,2015-03-10,13500.0,0.5,31.4,clear
+606,Lentil(Masur),Thoubal,2015-03-10,11500.0,0.7,31.4,clear
+607,Arhar (Tur/Red Gram),Thoubal,2015-05-10,13500.0,0.6,26.4,clear
+608,Bengal Gram(Gram),Thoubal,2015-05-10,6500.0,0.5,26.4,clear
+609,Black Gram (Urd Beans),Thoubal,2015-05-10,12500.0,0.5,26.4,clear
+610,Green Gram (Moong),Thoubal,2015-05-10,13500.0,0.5,26.4,clear
+611,Lentil(Masur),Thoubal,2015-05-10,11500.0,0.6,26.4,clear
+612,Arhar (Tur/Red Gram),Thoubal,2015-06-10,14600.0,0.7,25.0,clear
+613,Bengal Gram(Gram),Thoubal,2015-06-10,6600.0,0.6,25.0,clear
+614,Black Gram (Urd Beans),Thoubal,2015-06-10,11600.0,0.5,25.0,clear
+615,Lentil(Masur),Thoubal,2015-06-10,11600.0,0.7,25.0,clear
+616,Arhar (Tur/Red Gram),Thoubal,2015-07-10,14600.0,0.6,30.6,rain
+617,Bengal Gram(Gram),Thoubal,2015-07-10,6600.0,0.6,30.6,rain
+618,Black Gram (Urd Beans),Thoubal,2015-07-10,11600.0,0.6,30.6,rain
+619,Green Gram (Moong),Thoubal,2015-07-10,13600.0,0.6,30.6,rain
+620,Lentil(Masur),Thoubal,2015-07-10,11600.0,0.7,30.6,rain
+621,Arhar (Tur/Red Gram),Thoubal,2015-08-10,14600.0,0.7,31.2,clear
+622,Bengal Gram(Gram),Thoubal,2015-08-10,6600.0,0.6,31.2,clear
+623,Black Gram (Urd Beans),Thoubal,2015-08-10,11600.0,0.6,31.2,clear
+624,Green Gram (Moong),Thoubal,2015-08-10,13600.0,0.6,31.2,clear
+625,Lentil(Masur),Thoubal,2015-08-10,11600.0,0.8,31.2,clear
+626,Arhar (Tur/Red Gram),Thoubal,2015-09-10,14500.0,0.8,29.0,clear
+627,Bengal Gram(Gram),Thoubal,2015-09-10,6500.0,0.7,29.0,clear
+628,Black Gram (Urd Beans),Thoubal,2015-09-10,11500.0,0.6,29.0,clear
+629,Green Gram (Moong),Thoubal,2015-09-10,13500.0,0.6,29.0,clear
+630,Lentil(Masur),Thoubal,2015-09-10,11500.0,0.8,29.0,clear
+631,Arhar (Tur/Red Gram),Thoubal,2015-12-10,14500.0,0.7,20.4,clear
+632,Bengal Gram(Gram),Thoubal,2015-12-10,6500.0,0.6,20.4,clear
+633,Black Gram (Urd Beans),Thoubal,2015-12-10,11500.0,0.6,20.4,clear
+634,Green Gram (Moong),Thoubal,2015-12-10,13500.0,0.6,20.4,clear
+635,Lentil(Masur),Thoubal,2015-12-10,11500.0,0.8,20.4,clear
+636,Arhar (Tur/Red Gram),Thoubal,2015-10-13,13500.0,0.7,22.6,rain
+637,Bengal Gram(Gram),Thoubal,2015-10-13,7500.0,0.6,22.6,rain
+638,Black Gram (Urd Beans),Thoubal,2015-10-13,11500.0,0.6,22.6,rain
+639,Green Gram (Moong),Thoubal,2015-10-13,13500.0,0.5,22.6,rain
+640,Lentil(Masur),Thoubal,2015-10-13,11500.0,0.8,22.6,rain
+641,Arhar (Tur/Red Gram),Thoubal,2015-10-16,15500.0,0.6,29.0,clear
+642,Bengal Gram(Gram),Thoubal,2015-10-16,7500.0,0.7,29.0,clear
+643,Black Gram (Urd Beans),Thoubal,2015-10-16,12500.0,0.5,29.0,clear
+644,Green Gram (Moong),Thoubal,2015-10-16,13500.0,0.5,29.0,clear
+645,Lentil(Masur),Thoubal,2015-10-16,11500.0,0.8,29.0,clear
+646,Arhar (Tur/Red Gram),Thoubal,2015-10-17,16500.0,0.6,28.4,clear
+647,Bengal Gram(Gram),Thoubal,2015-10-17,7500.0,0.7,28.4,clear
+648,Black Gram (Urd Beans),Thoubal,2015-10-17,12500.0,0.5,28.4,clear
+649,Green Gram (Moong),Thoubal,2015-10-17,13500.0,0.6,28.4,clear
+650,Lentil(Masur),Thoubal,2015-10-17,11500.0,0.7,28.4,clear
+651,Arhar (Tur/Red Gram),Thoubal,2015-10-19,16500.0,0.5,28.6,clear
+652,Bengal Gram(Gram),Thoubal,2015-10-19,7500.0,0.6,28.6,clear
+653,Black Gram (Urd Beans),Thoubal,2015-10-19,12500.0,0.5,28.6,clear
+654,Green Gram (Moong),Thoubal,2015-10-19,13500.0,0.5,28.6,clear
+655,Lentil(Masur),Thoubal,2015-10-19,11500.0,0.6,28.6,clear
+656,Arhar (Tur/Red Gram),Thoubal,2015-10-20,16500.0,0.6,29.0,clear
+657,Bengal Gram(Gram),Thoubal,2015-10-20,7500.0,0.3,29.0,clear
+658,Black Gram (Urd Beans),Thoubal,2015-10-20,12500.0,0.3,29.0,clear
+659,Green Gram (Moong),Thoubal,2015-10-20,13500.0,0.2,29.0,clear
+660,Lentil(Masur),Thoubal,2015-10-20,11500.0,0.2,29.0,clear
+661,Arhar (Tur/Red Gram),Thoubal,2015-10-22,16500.0,0.1,29.6,clear
+662,Bengal Gram(Gram),Thoubal,2015-10-22,7500.0,0.3,29.6,clear
+663,Black Gram (Urd Beans),Thoubal,2015-10-22,12500.0,0.3,29.6,clear
+664,Green Gram (Moong),Thoubal,2015-10-22,13500.0,0.2,29.6,clear
+665,Lentil(Masur),Thoubal,2015-10-22,11500.0,0.3,29.6,clear
+666,Arhar (Tur/Red Gram),Thoubal,2015-10-23,14500.0,0.3,28.2,clear
+667,Bengal Gram(Gram),Thoubal,2015-10-23,6500.0,0.3,28.2,clear
+668,Black Gram (Urd Beans),Thoubal,2015-10-23,13000.0,0.3,28.2,clear
+669,Green Gram (Moong),Thoubal,2015-10-23,13500.0,0.3,28.2,clear
+670,Lentil(Masur),Thoubal,2015-10-23,11500.0,0.4,28.2,clear
+671,Arhar (Tur/Red Gram),Thoubal,2015-10-24,14500.0,0.2,28.6,clear
+672,Bengal Gram(Gram),Thoubal,2015-10-24,6500.0,0.2,28.6,clear
+673,Black Gram (Urd Beans),Thoubal,2015-10-24,13000.0,0.1,28.6,clear
+674,Green Gram (Moong),Thoubal,2015-10-24,13500.0,0.2,28.6,clear
+675,Lentil(Masur),Thoubal,2015-10-24,11500.0,0.4,28.6,clear
+676,Arhar (Tur/Red Gram),Thoubal,2015-10-26,14500.0,0.2,29.8,clear
+677,Bengal Gram(Gram),Thoubal,2015-10-26,6500.0,0.3,29.8,clear
+678,Black Gram (Urd Beans),Thoubal,2015-10-26,13000.0,0.2,29.8,clear
+679,Green Gram (Moong),Thoubal,2015-10-26,13500.0,0.2,29.8,clear
+680,Lentil(Masur),Thoubal,2015-10-26,11500.0,0.4,29.8,clear
+681,Arhar (Tur/Red Gram),Thoubal,2015-10-28,14500.0,0.0,28.6,clear
+682,Bengal Gram(Gram),Thoubal,2015-10-28,6500.0,0.3,28.6,clear
+683,Black Gram (Urd Beans),Thoubal,2015-10-28,13000.0,0.3,28.6,clear
+684,Green Gram (Moong),Thoubal,2015-10-28,13500.0,0.2,28.6,clear
+685,Lentil(Masur),Thoubal,2015-10-28,11500.0,0.4,28.6,clear
+686,Arhar (Tur/Red Gram),Thoubal,2015-10-29,14500.0,0.0,27.4,clear
+687,Bengal Gram(Gram),Thoubal,2015-10-29,6500.0,0.2,27.4,clear
+688,Black Gram (Urd Beans),Thoubal,2015-10-29,13000.0,0.2,27.4,clear
+689,Green Gram (Moong),Thoubal,2015-10-29,13500.0,0.3,27.4,clear
+690,Lentil(Masur),Thoubal,2015-10-29,11500.0,0.3,27.4,clear
+691,Arhar (Tur/Red Gram),Thoubal,2015-10-31,14500.0,0.0,21.0,rain
+692,Bengal Gram(Gram),Thoubal,2015-10-31,6500.0,0.3,21.0,rain
+693,Black Gram (Urd Beans),Thoubal,2015-10-31,12500.0,0.0,21.0,rain
+694,Green Gram (Moong),Thoubal,2015-10-31,13500.0,0.7,21.0,rain
+695,Arhar (Tur/Red Gram),Thoubal,2015-02-11,14500.0,0.0,22.4,clear
+696,Bengal Gram(Gram),Thoubal,2015-02-11,6500.0,0.3,22.4,clear
+697,Black Gram (Urd Beans),Thoubal,2015-02-11,12500.0,0.2,22.4,clear
+698,Green Gram (Moong),Thoubal,2015-02-11,13500.0,0.1,22.4,clear
+699,Lentil(Masur),Thoubal,2015-02-11,12500.0,0.3,22.4,clear
+700,Arhar (Tur/Red Gram),Thoubal,2015-03-11,14500.0,0.1,29.2,clear
+701,Bengal Gram(Gram),Thoubal,2015-03-11,7500.0,0.2,29.2,clear
+702,Black Gram (Urd Beans),Thoubal,2015-03-11,12500.0,0.3,29.2,clear
+703,Green Gram (Moong),Thoubal,2015-03-11,13500.0,0.3,29.2,clear
+704,Lentil(Masur),Thoubal,2015-03-11,12500.0,0.4,29.2,clear
+705,Arhar (Tur/Red Gram),Thoubal,2015-04-11,14500.0,0.1,29.8,clear
+706,Bengal Gram(Gram),Thoubal,2015-04-11,6500.0,0.2,29.8,clear
+707,Black Gram (Urd Beans),Thoubal,2015-04-11,12500.0,0.2,29.8,clear
+708,Green Gram (Moong),Thoubal,2015-04-11,13500.0,0.2,29.8,clear
+709,Lentil(Masur),Thoubal,2015-04-11,12500.0,0.3,29.8,clear
+710,Arhar (Tur/Red Gram),Thoubal,2015-05-11,14500.0,0.1,26.8,clear
+711,Bengal Gram(Gram),Thoubal,2015-05-11,6500.0,0.3,26.8,clear
+712,Black Gram (Urd Beans),Thoubal,2015-05-11,12500.0,0.1,26.8,clear
+713,Green Gram (Moong),Thoubal,2015-05-11,13500.0,0.3,26.8,clear
+714,Lentil(Masur),Thoubal,2015-05-11,12500.0,0.3,26.8,clear
+715,Arhar (Tur/Red Gram),Thoubal,2015-07-11,15500.0,0.4,32.8,clear
+716,Bengal Gram(Gram),Thoubal,2015-07-11,7500.0,0.3,32.8,clear
+717,Black Gram (Urd Beans),Thoubal,2015-07-11,12500.0,0.4,32.8,clear
+718,Green Gram (Moong),Thoubal,2015-07-11,13500.0,0.4,32.8,clear
+719,Lentil(Masur),Thoubal,2015-07-11,11500.0,0.5,32.8,clear
+720,Arhar (Tur/Red Gram),Thoubal,2015-09-11,15500.0,0.4,30.4,clear
+721,Bengal Gram(Gram),Thoubal,2015-09-11,7500.0,0.5,30.4,clear
+722,Black Gram (Urd Beans),Thoubal,2015-09-11,12500.0,0.5,30.4,clear
+723,Green Gram (Moong),Thoubal,2015-09-11,13500.0,0.4,30.4,clear
+724,Arhar (Tur/Red Gram),Thoubal,2015-10-11,15500.0,0.6,23.6,rain
+725,Bengal Gram(Gram),Thoubal,2015-10-11,6500.0,0.6,23.6,rain
+726,Black Gram (Urd Beans),Thoubal,2015-10-11,12500.0,0.5,23.6,rain
+727,Green Gram (Moong),Thoubal,2015-10-11,14500.0,0.6,23.6,rain
+728,Lentil(Masur),Thoubal,2015-10-11,12500.0,0.7,23.6,rain
+729,Arhar (Tur/Red Gram),Thoubal,2015-12-11,15500.0,0.7,21.0,clear
+730,Bengal Gram(Gram),Thoubal,2015-12-11,6500.0,0.6,21.0,clear
+731,Black Gram (Urd Beans),Thoubal,2015-12-11,12500.0,0.6,21.0,clear
+732,Green Gram (Moong),Thoubal,2015-12-11,14500.0,0.5,21.0,clear
+733,Lentil(Masur),Thoubal,2015-12-11,12500.0,0.9,21.0,clear
+734,Arhar (Tur/Red Gram),Thoubal,2015-11-16,14500.0,0.8,26.4,clear
+735,Bengal Gram(Gram),Thoubal,2015-11-16,7500.0,0.7,26.4,clear
+736,Black Gram (Urd Beans),Thoubal,2015-11-16,13500.0,0.6,26.4,clear
+737,Green Gram (Moong),Thoubal,2015-11-16,13500.0,0.6,26.4,clear
+738,Lentil(Masur),Thoubal,2015-11-16,12500.0,0.9,26.4,clear
+739,Arhar (Tur/Red Gram),Thoubal,2015-11-17,14500.0,0.7,25.0,clear
+740,Bengal Gram(Gram),Thoubal,2015-11-17,12500.0,0.6,25.0,clear
+741,Black Gram (Urd Beans),Thoubal,2015-11-17,7500.0,0.5,25.0,clear
+742,Green Gram (Moong),Thoubal,2015-11-17,13500.0,0.5,25.0,clear
+743,Lentil(Masur),Thoubal,2015-11-17,12500.0,0.8,25.0,clear
+744,Arhar (Tur/Red Gram),Thoubal,2015-11-18,14500.0,0.7,21.4,clear
+745,Bengal Gram(Gram),Thoubal,2015-11-18,12500.0,0.5,21.4,clear
+746,Black Gram (Urd Beans),Thoubal,2015-11-18,7500.0,0.5,21.4,clear
+747,Green Gram (Moong),Thoubal,2015-11-18,13500.0,0.5,21.4,clear
+748,Lentil(Masur),Thoubal,2015-11-18,12500.0,0.7,21.4,clear
+749,Arhar (Tur/Red Gram),Thoubal,2015-11-19,14500.0,0.2,26.8,clear
+750,Bengal Gram(Gram),Thoubal,2015-11-19,12500.0,0.6,26.8,clear
+751,Black Gram (Urd Beans),Thoubal,2015-11-19,7500.0,0.5,26.8,clear
+752,Green Gram (Moong),Thoubal,2015-11-19,13500.0,0.5,26.8,clear
+753,Lentil(Masur),Thoubal,2015-11-19,12500.0,0.8,26.8,clear
+754,Arhar (Tur/Red Gram),Thoubal,2015-11-20,14500.0,0.4,27.6,clear
+755,Bengal Gram(Gram),Thoubal,2015-11-20,7500.0,0.7,27.6,clear
+756,Black Gram (Urd Beans),Thoubal,2015-11-20,12500.0,0.6,27.6,clear
+757,Green Gram (Moong),Thoubal,2015-11-20,14500.0,0.5,27.6,clear
+758,Lentil(Masur),Thoubal,2015-11-20,13500.0,0.5,27.6,clear
+759,Arhar (Tur/Red Gram),Thoubal,2015-11-21,14500.0,0.7,27.0,clear
+760,Bengal Gram(Gram),Thoubal,2015-11-21,7500.0,0.6,27.0,clear
+761,Black Gram (Urd Beans),Thoubal,2015-11-21,12500.0,0.6,27.0,clear
+762,Green Gram (Moong),Thoubal,2015-11-21,14500.0,0.5,27.0,clear
+763,Lentil(Masur),Thoubal,2015-11-21,13500.0,0.8,27.0,clear
+764,Arhar (Tur/Red Gram),Thoubal,2015-11-24,14500.0,0.8,25.6,clear
+765,Bengal Gram(Gram),Thoubal,2015-11-24,7500.0,0.7,25.6,clear
+766,Black Gram (Urd Beans),Thoubal,2015-11-24,12500.0,0.5,25.6,clear
+767,Green Gram (Moong),Thoubal,2015-11-24,14500.0,0.5,25.6,clear
+768,Lentil(Masur),Thoubal,2015-11-24,13500.0,0.8,25.6,clear
+769,Arhar (Tur/Red Gram),Thoubal,2015-11-25,14500.0,0.9,25.0,clear
+770,Bengal Gram(Gram),Thoubal,2015-11-25,7500.0,0.7,25.0,clear
+771,Black Gram (Urd Beans),Thoubal,2015-11-25,7500.0,0.7,25.0,clear
+772,Green Gram (Moong),Thoubal,2015-11-25,14500.0,0.6,25.0,clear
+773,Lentil(Masur),Thoubal,2015-11-25,13500.0,0.9,25.0,clear
+774,Arhar (Tur/Red Gram),Thoubal,2015-11-26,14500.0,0.6,25.0,clear
+775,Bengal Gram(Gram),Thoubal,2015-11-26,7500.0,0.6,25.0,clear
+776,Black Gram (Urd Beans),Thoubal,2015-11-26,12500.0,0.7,25.0,clear
+777,Green Gram (Moong),Thoubal,2015-11-26,14500.0,0.8,25.0,clear
+778,Lentil(Masur),Thoubal,2015-11-26,13500.0,0.9,25.0,clear
+779,Arhar (Tur/Red Gram),Thoubal,2015-11-27,14500.0,0.8,25.4,clear
+780,Bengal Gram(Gram),Thoubal,2015-11-27,7500.0,0.6,25.4,clear
+781,Black Gram (Urd Beans),Thoubal,2015-11-27,12500.0,0.7,25.4,clear
+782,Green Gram (Moong),Thoubal,2015-11-27,14500.0,0.6,25.4,clear
+783,Lentil(Masur),Thoubal,2015-11-27,12500.0,0.9,25.4,clear
+784,Arhar (Tur/Red Gram),Thoubal,2015-11-28,14500.0,0.8,25.4,clear
+785,Bengal Gram(Gram),Thoubal,2015-11-28,7500.0,0.7,25.4,clear
+786,Black Gram (Urd Beans),Thoubal,2015-11-28,12500.0,0.6,25.4,clear
+787,Green Gram (Moong),Thoubal,2015-11-28,14500.0,0.5,25.4,clear
+788,Lentil(Masur),Thoubal,2015-11-28,12500.0,0.8,25.4,clear
+789,Arhar (Tur/Red Gram),Thoubal,2015-11-30,14500.0,0.6,24.8,clear
+790,Bengal Gram(Gram),Thoubal,2015-11-30,7500.0,0.5,24.8,clear
+791,Black Gram (Urd Beans),Thoubal,2015-11-30,12500.0,0.5,24.8,clear
+792,Lentil(Masur),Thoubal,2015-11-30,12500.0,0.8,24.8,clear
+793,Arhar (Tur/Red Gram),Thoubal,2015-01-12,14500.0,0.2,22.6,clear
+794,Bengal Gram(Gram),Thoubal,2015-01-12,7500.0,0.8,22.6,clear
+795,Black Gram (Urd Beans),Thoubal,2015-01-12,12500.0,0.6,22.6,clear
+796,Green Gram (Moong),Thoubal,2015-01-12,14500.0,0.6,22.6,clear
+797,Lentil(Masur),Thoubal,2015-01-12,12500.0,0.8,22.6,clear
+798,Arhar (Tur/Red Gram),Thoubal,2015-02-12,14500.0,0.6,25.2,clear
+799,Bengal Gram(Gram),Thoubal,2015-02-12,7500.0,0.7,25.2,clear
+800,Black Gram (Urd Beans),Thoubal,2015-02-12,12500.0,0.6,25.2,clear
+801,Green Gram (Moong),Thoubal,2015-02-12,14500.0,0.5,25.2,clear
+802,Lentil(Masur),Thoubal,2015-02-12,13500.0,0.7,25.2,clear
+803,Arhar (Tur/Red Gram),Thoubal,2015-03-12,14500.0,0.7,31.0,clear
+804,Bengal Gram(Gram),Thoubal,2015-03-12,7500.0,0.5,31.0,clear
+805,Black Gram (Urd Beans),Thoubal,2015-03-12,12500.0,0.7,31.0,clear
+806,Green Gram (Moong),Thoubal,2015-03-12,14500.0,0.6,31.0,clear
+807,Lentil(Masur),Thoubal,2015-03-12,13500.0,0.9,31.0,clear
+808,Arhar (Tur/Red Gram),Thoubal,2015-04-12,14500.0,0.4,27.6,clear
+809,Bengal Gram(Gram),Thoubal,2015-04-12,7500.0,0.8,27.6,clear
+810,Black Gram (Urd Beans),Thoubal,2015-04-12,12500.0,0.7,27.6,clear
+811,Green Gram (Moong),Thoubal,2015-04-12,14500.0,0.6,27.6,clear
+812,Lentil(Masur),Thoubal,2015-04-12,13500.0,0.7,27.6,clear
+813,Arhar (Tur/Red Gram),Thoubal,2015-05-12,14500.0,0.3,29.4,clear
+814,Bengal Gram(Gram),Thoubal,2015-05-12,7500.0,0.6,29.4,clear
+815,Black Gram (Urd Beans),Thoubal,2015-05-12,12500.0,0.7,29.4,clear
+816,Green Gram (Moong),Thoubal,2015-05-12,14500.0,0.6,29.4,clear
+817,Lentil(Masur),Thoubal,2015-05-12,13500.0,0.8,29.4,clear
+818,Arhar (Tur/Red Gram),Thoubal,2015-07-12,14500.0,0.4,29.8,clear
+819,Bengal Gram(Gram),Thoubal,2015-07-12,7500.0,0.4,29.8,clear
+820,Black Gram (Urd Beans),Thoubal,2015-07-12,12500.0,0.5,29.8,clear
+821,Green Gram (Moong),Thoubal,2015-07-12,14500.0,0.3,29.8,clear
+822,Lentil(Masur),Thoubal,2015-07-12,13500.0,0.6,29.8,clear
+823,Arhar (Tur/Red Gram),Thoubal,2015-08-12,14500.0,0.3,31.8,clear
+824,Bengal Gram(Gram),Thoubal,2015-08-12,7500.0,0.4,31.8,clear
+825,Black Gram (Urd Beans),Thoubal,2015-08-12,12500.0,0.3,31.8,clear
+826,Green Gram (Moong),Thoubal,2015-08-12,13500.0,0.3,31.8,clear
+827,Lentil(Masur),Thoubal,2015-08-12,12500.0,0.5,31.8,clear
+828,Arhar (Tur/Red Gram),Thoubal,2015-09-12,14500.0,0.5,32.4,clear
+829,Bengal Gram(Gram),Thoubal,2015-09-12,7500.0,0.2,32.4,clear
+830,Black Gram (Urd Beans),Thoubal,2015-09-12,12500.0,0.6,32.4,clear
+831,Green Gram (Moong),Thoubal,2015-09-12,13500.0,0.1,32.4,clear
+832,Lentil(Masur),Thoubal,2015-09-12,12500.0,0.0,32.4,clear
+833,Arhar (Tur/Red Gram),Thoubal,2015-10-12,14500.0,0.3,24.0,clear
+834,Bengal Gram(Gram),Thoubal,2015-10-12,7500.0,0.2,24.0,clear
+835,Black Gram (Urd Beans),Thoubal,2015-10-12,12500.0,0.2,24.0,clear
+836,Green Gram (Moong),Thoubal,2015-10-12,13500.0,0.3,24.0,clear
+837,Lentil(Masur),Thoubal,2015-10-12,12500.0,0.5,24.0,clear
+838,Arhar (Tur/Red Gram),Thoubal,2015-11-12,14500.0,0.2,27.4,clear
+839,Bengal Gram(Gram),Thoubal,2015-11-12,7500.0,0.3,27.4,clear
+840,Black Gram (Urd Beans),Thoubal,2015-11-12,13500.0,0.3,27.4,clear
+841,Green Gram (Moong),Thoubal,2015-11-12,13500.0,0.2,27.4,clear
+842,Lentil(Masur),Thoubal,2015-11-12,12500.0,0.4,27.4,clear
+843,Arhar (Tur/Red Gram),Thoubal,2015-12-14,14500.0,0.3,22.0,clear
+844,Bengal Gram(Gram),Thoubal,2015-12-14,13500.0,0.2,22.0,clear
+845,Black Gram (Urd Beans),Thoubal,2015-12-14,13500.0,0.2,22.0,clear
+846,Green Gram (Moong),Thoubal,2015-12-14,13500.0,0.3,22.0,clear
+847,Lentil(Masur),Thoubal,2015-12-14,12500.0,0.4,22.0,clear
+848,Arhar (Tur/Red Gram),Thoubal,2015-12-15,14500.0,0.3,22.0,clear
+849,Bengal Gram(Gram),Thoubal,2015-12-15,7500.0,0.5,22.0,clear
+850,Black Gram (Urd Beans),Thoubal,2015-12-15,13500.0,0.5,22.0,clear
+851,Green Gram (Moong),Thoubal,2015-12-15,13500.0,0.3,22.0,clear
+852,Lentil(Masur),Thoubal,2015-12-15,12500.0,0.2,22.0,clear
+853,Arhar (Tur/Red Gram),Thoubal,2015-12-16,17600.0,0.2,21.8,clear
+854,Bengal Gram(Gram),Thoubal,2015-12-16,7500.0,0.3,21.8,clear
+855,Black Gram (Urd Beans),Thoubal,2015-12-16,13500.0,0.3,21.8,clear
+856,Green Gram (Moong),Thoubal,2015-12-16,15600.0,0.2,21.8,clear
+857,Lentil(Masur),Thoubal,2015-12-16,13600.0,0.5,21.8,clear
+858,Arhar (Tur/Red Gram),Thoubal,2015-12-17,17600.0,0.2,21.8,clear
+859,Bengal Gram(Gram),Thoubal,2015-12-17,7500.0,0.4,21.8,clear
+860,Black Gram (Urd Beans),Thoubal,2015-12-17,13500.0,0.3,21.8,clear
+861,Green Gram (Moong),Thoubal,2015-12-17,15600.0,0.5,21.8,clear
+862,Lentil(Masur),Thoubal,2015-12-17,13600.0,0.2,21.8,clear
+863,Arhar (Tur/Red Gram),Thoubal,2015-12-18,17600.0,0.2,19.2,clear
+864,Bengal Gram(Gram),Thoubal,2015-12-18,7500.0,0.2,19.2,clear
+865,Black Gram (Urd Beans),Thoubal,2015-12-18,13500.0,0.3,19.2,clear
+866,Green Gram (Moong),Thoubal,2015-12-18,15600.0,0.2,19.2,clear
+867,Lentil(Masur),Thoubal,2015-12-18,13600.0,0.3,19.2,clear
+868,Arhar (Tur/Red Gram),Thoubal,2015-12-19,17600.0,0.4,21.0,clear
+869,Bengal Gram(Gram),Thoubal,2015-12-19,7500.0,0.5,21.0,clear
+870,Black Gram (Urd Beans),Thoubal,2015-12-19,13500.0,0.4,21.0,clear
+871,Green Gram (Moong),Thoubal,2015-12-19,15600.0,0.3,21.0,clear
+872,Lentil(Masur),Thoubal,2015-12-19,13600.0,0.5,21.0,clear
+873,Arhar (Tur/Red Gram),Thoubal,2015-12-21,18500.0,0.3,21.0,clear
+874,Bengal Gram(Gram),Thoubal,2015-12-21,7500.0,0.4,21.0,clear
+875,Black Gram (Urd Beans),Thoubal,2015-12-21,13500.0,0.3,21.0,clear
+876,Green Gram (Moong),Thoubal,2015-12-21,15600.0,0.4,21.0,clear
+877,Lentil(Masur),Thoubal,2015-12-21,11600.0,0.5,21.0,clear
+878,Arhar (Tur/Red Gram),Thoubal,2015-12-22,17500.0,0.3,20.0,clear
+879,Bengal Gram(Gram),Thoubal,2015-12-22,6600.0,0.4,20.0,clear
+880,Black Gram (Urd Beans),Thoubal,2015-12-22,12600.0,0.3,20.0,clear
+881,Green Gram (Moong),Thoubal,2015-12-22,13600.0,0.2,20.0,clear
+882,Lentil(Masur),Thoubal,2015-12-22,12600.0,0.4,20.0,clear
+883,Arhar (Tur/Red Gram),Thoubal,2015-12-23,17500.0,0.4,19.2,clear
+884,Bengal Gram(Gram),Thoubal,2015-12-23,6600.0,0.5,19.2,clear
+885,Black Gram (Urd Beans),Thoubal,2015-12-23,12600.0,0.4,19.2,clear
+886,Green Gram (Moong),Thoubal,2015-12-23,13600.0,0.3,19.2,clear
+887,Lentil(Masur),Thoubal,2015-12-23,12600.0,0.5,19.2,clear
+888,Arhar (Tur/Red Gram),Thoubal,2015-12-26,19500.0,0.4,20.8,clear
+889,Bengal Gram(Gram),Thoubal,2015-12-26,6600.0,0.6,20.8,clear
+890,Black Gram (Urd Beans),Thoubal,2015-12-26,12600.0,0.4,20.8,clear
+891,Green Gram (Moong),Thoubal,2015-12-26,13600.0,0.4,20.8,clear
+892,Lentil(Masur),Thoubal,2015-12-26,12600.0,0.5,20.8,clear
+893,Arhar (Tur/Red Gram),Thoubal,2015-12-28,19500.0,0.4,22.4,clear
+894,Bengal Gram(Gram),Thoubal,2015-12-28,7500.0,0.6,22.4,clear
+895,Black Gram (Urd Beans),Thoubal,2015-12-28,13600.0,0.5,22.4,clear
+896,Green Gram (Moong),Thoubal,2015-12-28,13600.0,0.4,22.4,clear
+897,Lentil(Masur),Thoubal,2015-12-28,11600.0,0.3,22.4,clear
+898,Arhar (Tur/Red Gram),Thoubal,2015-12-29,19500.0,0.5,22.4,clear
+899,Bengal Gram(Gram),Thoubal,2015-12-29,7500.0,0.4,22.4,clear
+900,Black Gram (Urd Beans),Thoubal,2015-12-29,12500.0,0.4,22.4,clear
+901,Green Gram (Moong),Thoubal,2015-12-29,13500.0,0.5,22.4,clear
+902,Lentil(Masur),Thoubal,2015-12-29,12500.0,0.4,22.4,clear
+903,Arhar (Tur/Red Gram),Thoubal,2015-12-30,19500.0,0.4,22.8,clear
+904,Bengal Gram(Gram),Thoubal,2015-12-30,7500.0,0.4,22.8,clear
+905,Black Gram (Urd Beans),Thoubal,2015-12-30,12500.0,0.4,22.8,clear
+906,Green Gram (Moong),Thoubal,2015-12-30,13500.0,0.3,22.8,clear
+907,Lentil(Masur),Thoubal,2015-12-30,12500.0,0.5,22.8,clear
+908,Arhar (Tur/Red Gram),Thoubal,2015-12-31,19500.0,0.6,20.4,clear
+909,Bengal Gram(Gram),Thoubal,2015-12-31,7500.0,0.8,20.4,clear
+910,Black Gram (Urd Beans),Thoubal,2015-12-31,12500.0,0.7,20.4,clear
+911,Green Gram (Moong),Thoubal,2015-12-31,13500.0,0.5,20.4,clear
+912,Lentil(Masur),Thoubal,2015-12-31,12500.0,0.5,20.4,clear
+913,Bengal Gram(Gram),Thoubal,2015-02-02,5100.0,0.7,26.0,clear
+914,Black Gram (Urd Beans),Thoubal,2015-02-02,8100.0,0.9,26.0,clear
+915,Bengal Gram(Gram),Thoubal,2015-09-24,6500.0,0.5,25.2,clear
+916,Black Gram (Urd Beans),Thoubal,2015-09-24,12500.0,0.4,25.2,clear
+917,Green Gram (Moong),Thoubal,2015-09-24,13500.0,0.5,25.2,clear
+918,Bengal Gram(Gram),Thoubal,2015-06-11,6500.0,0.3,27.4,clear
+919,Black Gram (Urd Beans),Thoubal,2015-06-11,12500.0,0.3,27.4,clear
+920,Green Gram (Moong),Thoubal,2015-06-11,13500.0,0.3,27.4,clear
+921,Lentil(Masur),Thoubal,2015-06-11,12500.0,0.4,27.4,clear
+922,Black Gram (Urd Beans),Thoubal,2015-03-25,8100.0,0.7,29.4,clear
+923,Black Gram (Urd Beans),Thoubal,2015-05-16,10600.0,0.0,26.8,clear
+924,Arhar (Tur/Red Gram),Thoubal,2016-01-01,19500.0,0.3,21.6,clear
+925,Bengal Gram(Gram),Thoubal,2016-01-01,6500.0,0.4,21.6,clear
+926,Black Gram (Urd Beans),Thoubal,2016-01-01,13500.0,0.3,21.6,clear
+927,Green Gram (Moong),Thoubal,2016-01-01,13500.0,0.2,21.6,clear
+928,Lentil(Masur),Thoubal,2016-01-01,11500.0,0.5,21.6,clear
+929,Arhar (Tur/Red Gram),Thoubal,2016-07-01,18500.0,0.3,29.8,rain
+930,Bengal Gram(Gram),Thoubal,2016-07-01,7500.0,0.6,29.8,rain
+931,Black Gram (Urd Beans),Thoubal,2016-07-01,13500.0,0.3,29.8,rain
+932,Green Gram (Moong),Thoubal,2016-07-01,13500.0,0.3,29.8,rain
+933,Lentil(Masur),Thoubal,2016-07-01,11500.0,0.5,29.8,rain
+934,Arhar (Tur/Red Gram),Thoubal,2016-08-01,18500.0,0.4,28.2,clear
+935,Bengal Gram(Gram),Thoubal,2016-08-01,7500.0,0.4,28.2,clear
+936,Black Gram (Urd Beans),Thoubal,2016-08-01,13500.0,0.4,28.2,clear
+937,Green Gram (Moong),Thoubal,2016-08-01,13500.0,0.3,28.2,clear
+938,Lentil(Masur),Thoubal,2016-08-01,11500.0,0.4,28.2,clear
+939,Arhar (Tur/Red Gram),Thoubal,2016-11-01,18500.0,0.4,28.6,clear
+940,Bengal Gram(Gram),Thoubal,2016-11-01,7500.0,0.4,28.6,clear
+941,Black Gram (Urd Beans),Thoubal,2016-11-01,13500.0,0.4,28.6,clear
+942,Green Gram (Moong),Thoubal,2016-11-01,13500.0,0.4,28.6,clear
+943,Lentil(Masur),Thoubal,2016-11-01,11500.0,0.4,28.6,clear
+944,Arhar (Tur/Red Gram),Thoubal,2016-12-01,18500.0,0.1,24.8,clear
+945,Bengal Gram(Gram),Thoubal,2016-12-01,7500.0,0.2,24.8,clear
+946,Black Gram (Urd Beans),Thoubal,2016-12-01,13500.0,0.2,24.8,clear
+947,Lentil(Masur),Thoubal,2016-12-01,11500.0,0.2,24.8,clear
+948,Arhar (Tur/Red Gram),Thoubal,2016-01-13,18500.0,0.6,21.4,clear
+949,Bengal Gram(Gram),Thoubal,2016-01-13,7500.0,0.4,21.4,clear
+950,Black Gram (Urd Beans),Thoubal,2016-01-13,13500.0,0.4,21.4,clear
+951,Green Gram (Moong),Thoubal,2016-01-13,13500.0,0.3,21.4,clear
+952,Lentil(Masur),Thoubal,2016-01-13,11500.0,0.5,21.4,clear
+953,Arhar (Tur/Red Gram),Thoubal,2016-01-14,18500.0,0.1,21.0,clear
+954,Bengal Gram(Gram),Thoubal,2016-01-14,7500.0,0.4,21.0,clear
+955,Black Gram (Urd Beans),Thoubal,2016-01-14,13500.0,0.4,21.0,clear
+956,Green Gram (Moong),Thoubal,2016-01-14,13500.0,0.1,21.0,clear
+957,Lentil(Masur),Thoubal,2016-01-14,11500.0,0.1,21.0,clear
+958,Arhar (Tur/Red Gram),Thoubal,2016-01-15,18500.0,0.1,21.2,clear
+959,Bengal Gram(Gram),Thoubal,2016-01-15,7500.0,0.6,21.2,clear
+960,Black Gram (Urd Beans),Thoubal,2016-01-15,13500.0,0.5,21.2,clear
+961,Green Gram (Moong),Thoubal,2016-01-15,13500.0,0.3,21.2,clear
+962,Lentil(Masur),Thoubal,2016-01-15,11500.0,0.1,21.2,clear
+963,Arhar (Tur/Red Gram),Thoubal,2016-01-18,14500.0,0.3,22.0,clear
+964,Bengal Gram(Gram),Thoubal,2016-01-18,5500.0,0.3,22.0,clear
+965,Black Gram (Urd Beans),Thoubal,2016-01-18,14500.0,0.4,22.0,clear
+966,Green Gram (Moong),Thoubal,2016-01-18,14500.0,0.1,22.0,clear
+967,Lentil(Masur),Thoubal,2016-01-18,11500.0,0.1,22.0,clear
+968,Arhar (Tur/Red Gram),Thoubal,2016-01-19,14500.0,0.1,22.2,clear
+969,Bengal Gram(Gram),Thoubal,2016-01-19,5500.0,0.3,22.2,clear
+970,Black Gram (Urd Beans),Thoubal,2016-01-19,14500.0,0.1,22.2,clear
+971,Green Gram (Moong),Thoubal,2016-01-19,14500.0,0.1,22.2,clear
+972,Lentil(Masur),Thoubal,2016-01-19,11500.0,0.1,22.2,clear
+973,Arhar (Tur/Red Gram),Thoubal,2016-01-20,13500.0,0.1,20.6,clear
+974,Bengal Gram(Gram),Thoubal,2016-01-20,6500.0,0.5,20.6,clear
+975,Black Gram (Urd Beans),Thoubal,2016-01-20,14500.0,0.1,20.6,clear
+976,Green Gram (Moong),Thoubal,2016-01-20,14500.0,0.1,20.6,clear
+977,Lentil(Masur),Thoubal,2016-01-20,11500.0,0.1,20.6,clear
+978,Arhar (Tur/Red Gram),Thoubal,2016-01-28,13500.0,0.1,20.2,clear
+979,Bengal Gram(Gram),Thoubal,2016-01-28,7500.0,0.4,20.2,clear
+980,Black Gram (Urd Beans),Thoubal,2016-01-28,12500.0,0.2,20.2,clear
+981,Green Gram (Moong),Thoubal,2016-01-28,13500.0,0.2,20.2,clear
+982,Lentil(Masur),Thoubal,2016-01-28,11500.0,0.1,20.2,clear
+983,Arhar (Tur/Red Gram),Thoubal,2016-01-29,13500.0,0.3,20.0,clear
+984,Bengal Gram(Gram),Thoubal,2016-01-29,7500.0,0.3,20.0,clear
+985,Black Gram (Urd Beans),Thoubal,2016-01-29,7500.0,0.2,20.0,clear
+986,Green Gram (Moong),Thoubal,2016-01-29,13500.0,0.2,20.0,clear
+987,Lentil(Masur),Thoubal,2016-01-29,11500.0,0.1,20.0,clear
+988,Arhar (Tur/Red Gram),Thoubal,2016-01-30,13500.0,0.0,18.8,clear
+989,Bengal Gram(Gram),Thoubal,2016-01-30,7500.0,0.3,18.8,clear
+990,Black Gram (Urd Beans),Thoubal,2016-01-30,12500.0,0.2,18.8,clear
+991,Green Gram (Moong),Thoubal,2016-01-30,13500.0,0.2,18.8,clear
+992,Lentil(Masur),Thoubal,2016-01-30,11500.0,0.1,18.8,clear
+993,Arhar (Tur/Red Gram),Thoubal,2016-01-02,13500.0,0.1,24.0,clear
+994,Bengal Gram(Gram),Thoubal,2016-01-02,7500.0,0.4,24.0,clear
+995,Black Gram (Urd Beans),Thoubal,2016-01-02,12500.0,0.2,24.0,clear
+996,Green Gram (Moong),Thoubal,2016-01-02,13500.0,0.2,24.0,clear
+997,Lentil(Masur),Thoubal,2016-01-02,11500.0,0.1,24.0,clear
+998,Arhar (Tur/Red Gram),Thoubal,2016-02-02,15500.0,0.2,23.2,clear
+999,Bengal Gram(Gram),Thoubal,2016-02-02,6500.0,0.5,23.2,clear
+1000,Black Gram (Urd Beans),Thoubal,2016-02-02,13500.0,0.1,23.2,clear
+1001,Green Gram (Moong),Thoubal,2016-02-02,13500.0,0.2,23.2,clear
+1002,Lentil(Masur),Thoubal,2016-02-02,11500.0,0.1,23.2,clear
+1003,Arhar (Tur/Red Gram),Thoubal,2016-03-02,15500.0,0.1,28.0,clear
+1004,Bengal Gram(Gram),Thoubal,2016-03-02,6500.0,0.5,28.0,clear
+1005,Black Gram (Urd Beans),Thoubal,2016-03-02,12500.0,0.2,28.0,clear
+1006,Green Gram (Moong),Thoubal,2016-03-02,12500.0,0.1,28.0,clear
+1007,Lentil(Masur),Thoubal,2016-03-02,10500.0,0.1,28.0,clear
+1008,Arhar (Tur/Red Gram),Thoubal,2016-04-02,15500.0,0.1,26.6,clear
+1009,Bengal Gram(Gram),Thoubal,2016-04-02,6500.0,0.4,26.6,clear
+1010,Black Gram (Urd Beans),Thoubal,2016-04-02,13500.0,0.2,26.6,clear
+1011,Green Gram (Moong),Thoubal,2016-04-02,14500.0,0.2,26.6,clear
+1012,Lentil(Masur),Thoubal,2016-04-02,12500.0,0.1,26.6,clear
+1013,Arhar (Tur/Red Gram),Thoubal,2016-05-02,14500.0,0.2,24.8,clear
+1014,Bengal Gram(Gram),Thoubal,2016-05-02,6500.0,0.5,24.8,clear
+1015,Black Gram (Urd Beans),Thoubal,2016-05-02,12500.0,0.1,24.8,clear
+1016,Lentil(Masur),Thoubal,2016-05-02,12500.0,0.1,24.8,clear
+1017,Arhar (Tur/Red Gram),Thoubal,2016-06-02,17500.0,0.4,32.4,clear
+1018,Bengal Gram(Gram),Thoubal,2016-06-02,7500.0,0.4,32.4,clear
+1019,Black Gram (Urd Beans),Thoubal,2016-06-02,15500.0,0.3,32.4,clear
+1020,Green Gram (Moong),Thoubal,2016-06-02,15500.0,0.4,32.4,clear
+1021,Lentil(Masur),Thoubal,2016-06-02,13500.0,0.5,32.4,clear
+1022,Arhar (Tur/Red Gram),Thoubal,2016-08-02,18500.0,0.3,28.4,clear
+1023,Bengal Gram(Gram),Thoubal,2016-08-02,7500.0,0.4,28.4,clear
+1024,Black Gram (Urd Beans),Thoubal,2016-08-02,14500.0,0.5,28.4,clear
+1025,Green Gram (Moong),Thoubal,2016-08-02,14500.0,0.3,28.4,clear
+1026,Lentil(Masur),Thoubal,2016-08-02,12500.0,0.5,28.4,clear
+1027,Arhar (Tur/Red Gram),Thoubal,2016-09-02,18500.0,0.2,29.4,clear
+1028,Bengal Gram(Gram),Thoubal,2016-09-02,7500.0,0.5,29.4,clear
+1029,Black Gram (Urd Beans),Thoubal,2016-09-02,13500.0,0.3,29.4,clear
+1030,Green Gram (Moong),Thoubal,2016-09-02,13500.0,0.2,29.4,clear
+1031,Lentil(Masur),Thoubal,2016-09-02,11500.0,0.6,29.4,clear
+1032,Arhar (Tur/Red Gram),Thoubal,2016-10-02,18500.0,0.3,33.2,clear
+1033,Bengal Gram(Gram),Thoubal,2016-10-02,7500.0,0.3,33.2,clear
+1034,Black Gram (Urd Beans),Thoubal,2016-10-02,13500.0,0.5,33.2,clear
+1035,Green Gram (Moong),Thoubal,2016-10-02,13500.0,0.4,33.2,clear
+1036,Lentil(Masur),Thoubal,2016-10-02,11500.0,0.4,33.2,clear
+1037,Arhar (Tur/Red Gram),Thoubal,2016-11-02,18500.0,0.2,31.0,clear
+1038,Bengal Gram(Gram),Thoubal,2016-11-02,7500.0,0.3,31.0,clear
+1039,Black Gram (Urd Beans),Thoubal,2016-11-02,13500.0,0.6,31.0,clear
+1040,Green Gram (Moong),Thoubal,2016-11-02,13500.0,0.3,31.0,clear
+1041,Lentil(Masur),Thoubal,2016-11-02,11500.0,0.4,31.0,clear
+1042,Arhar (Tur/Red Gram),Thoubal,2016-12-02,17500.0,0.4,26.4,clear
+1043,Bengal Gram(Gram),Thoubal,2016-12-02,7500.0,0.4,26.4,clear
+1044,Black Gram (Urd Beans),Thoubal,2016-12-02,14500.0,0.4,26.4,clear
+1045,Green Gram (Moong),Thoubal,2016-12-02,13500.0,0.2,26.4,clear
+1046,Lentil(Masur),Thoubal,2016-12-02,11500.0,0.5,26.4,clear
+1047,Arhar (Tur/Red Gram),Thoubal,2016-02-16,17500.0,0.2,26.8,clear
+1048,Bengal Gram(Gram),Thoubal,2016-02-16,7500.0,0.3,26.8,clear
+1049,Black Gram (Urd Beans),Thoubal,2016-02-16,14500.0,0.3,26.8,clear
+1050,Green Gram (Moong),Thoubal,2016-02-16,13500.0,0.4,26.8,clear
+1051,Lentil(Masur),Thoubal,2016-02-16,11500.0,0.7,26.8,clear
+1052,Arhar (Tur/Red Gram),Thoubal,2016-02-17,16500.0,0.3,26.4,clear
+1053,Bengal Gram(Gram),Thoubal,2016-02-17,7500.0,0.5,26.4,clear
+1054,Black Gram (Urd Beans),Thoubal,2016-02-17,13500.0,0.2,26.4,clear
+1055,Green Gram (Moong),Thoubal,2016-02-17,13500.0,0.2,26.4,clear
+1056,Lentil(Masur),Thoubal,2016-02-17,10500.0,0.3,26.4,clear
+1057,Arhar (Tur/Red Gram),Thoubal,2016-02-18,16500.0,0.3,26.0,clear
+1058,Bengal Gram(Gram),Thoubal,2016-02-18,7500.0,0.4,26.0,clear
+1059,Black Gram (Urd Beans),Thoubal,2016-02-18,13500.0,0.4,26.0,clear
+1060,Green Gram (Moong),Thoubal,2016-02-18,13500.0,0.4,26.0,clear
+1061,Lentil(Masur),Thoubal,2016-02-18,10500.0,0.4,26.0,clear
+1062,Arhar (Tur/Red Gram),Thoubal,2016-02-20,15500.0,0.4,28.8,clear
+1063,Bengal Gram(Gram),Thoubal,2016-02-20,7000.0,0.3,28.8,clear
+1064,Black Gram (Urd Beans),Thoubal,2016-02-20,14500.0,0.4,28.8,clear
+1065,Green Gram (Moong),Thoubal,2016-02-20,12500.0,0.2,28.8,clear
+1066,Lentil(Masur),Thoubal,2016-02-20,11500.0,0.6,28.8,clear
+1067,Arhar (Tur/Red Gram),Thoubal,2016-02-22,15500.0,0.4,26.0,clear
+1068,Bengal Gram(Gram),Thoubal,2016-02-22,7000.0,0.5,26.0,clear
+1069,Black Gram (Urd Beans),Thoubal,2016-02-22,14500.0,0.4,26.0,clear
+1070,Green Gram (Moong),Thoubal,2016-02-22,12500.0,0.5,26.0,clear
+1071,Lentil(Masur),Thoubal,2016-02-22,11500.0,0.4,26.0,clear
+1072,Arhar (Tur/Red Gram),Thoubal,2016-02-23,15500.0,0.4,26.4,rain
+1073,Bengal Gram(Gram),Thoubal,2016-02-23,7500.0,0.5,26.4,rain
+1074,Black Gram (Urd Beans),Thoubal,2016-02-23,14500.0,0.3,26.4,rain
+1075,Green Gram (Moong),Thoubal,2016-02-23,13500.0,0.4,26.4,rain
+1076,Lentil(Masur),Thoubal,2016-02-23,11500.0,0.5,26.4,rain
+1077,Arhar (Tur/Red Gram),Thoubal,2016-02-24,15500.0,0.5,20.6,rain
+1078,Bengal Gram(Gram),Thoubal,2016-02-24,7500.0,0.4,20.6,rain
+1079,Black Gram (Urd Beans),Thoubal,2016-02-24,14500.0,0.4,20.6,rain
+1080,Green Gram (Moong),Thoubal,2016-02-24,13500.0,0.3,20.6,rain
+1081,Lentil(Masur),Thoubal,2016-02-24,11500.0,0.5,20.6,rain
+1082,Arhar (Tur/Red Gram),Thoubal,2016-02-26,15500.0,0.3,26.4,clear
+1083,Bengal Gram(Gram),Thoubal,2016-02-26,7500.0,0.3,26.4,clear
+1084,Black Gram (Urd Beans),Thoubal,2016-02-26,14500.0,0.4,26.4,clear
+1085,Green Gram (Moong),Thoubal,2016-02-26,13500.0,0.3,26.4,clear
+1086,Lentil(Masur),Thoubal,2016-02-26,11500.0,0.6,26.4,clear
+1087,Arhar (Tur/Red Gram),Thoubal,2016-02-27,15500.0,0.4,25.2,clear
+1088,Bengal Gram(Gram),Thoubal,2016-02-27,7500.0,0.5,25.2,clear
+1089,Black Gram (Urd Beans),Thoubal,2016-02-27,14500.0,0.3,25.2,clear
+1090,Green Gram (Moong),Thoubal,2016-02-27,13500.0,0.5,25.2,clear
+1091,Lentil(Masur),Thoubal,2016-02-27,11500.0,0.3,25.2,clear
+1092,Arhar (Tur/Red Gram),Thoubal,2016-02-29,15500.0,0.2,27.2,clear
+1093,Bengal Gram(Gram),Thoubal,2016-02-29,7500.0,0.3,27.2,clear
+1094,Black Gram (Urd Beans),Thoubal,2016-02-29,14500.0,0.5,27.2,clear
+1095,Green Gram (Moong),Thoubal,2016-02-29,13500.0,0.4,27.2,clear
+1096,Lentil(Masur),Thoubal,2016-02-29,11500.0,0.5,27.2,clear
+1097,Arhar (Tur/Red Gram),Thoubal,2016-01-03,15500.0,0.4,23.6,clear
+1098,Bengal Gram(Gram),Thoubal,2016-01-03,7500.0,0.5,23.6,clear
+1099,Black Gram (Urd Beans),Thoubal,2016-01-03,14500.0,0.3,23.6,clear
+1100,Green Gram (Moong),Thoubal,2016-01-03,13500.0,0.3,23.6,clear
+1101,Lentil(Masur),Thoubal,2016-01-03,11500.0,0.6,23.6,clear
+1102,Arhar (Tur/Red Gram),Thoubal,2016-02-03,15500.0,0.2,23.4,clear
+1103,Bengal Gram(Gram),Thoubal,2016-02-03,7500.0,0.3,23.4,clear
+1104,Black Gram (Urd Beans),Thoubal,2016-02-03,14500.0,0.2,23.4,clear
+1105,Green Gram (Moong),Thoubal,2016-02-03,13500.0,0.5,23.4,clear
+1106,Lentil(Masur),Thoubal,2016-02-03,11500.0,0.4,23.4,clear
+1107,Arhar (Tur/Red Gram),Thoubal,2016-03-03,15500.0,0.4,28.0,clear
+1108,Bengal Gram(Gram),Thoubal,2016-03-03,7500.0,0.4,28.0,clear
+1109,Black Gram (Urd Beans),Thoubal,2016-03-03,14500.0,0.3,28.0,clear
+1110,Green Gram (Moong),Thoubal,2016-03-03,13500.0,0.3,28.0,clear
+1111,Lentil(Masur),Thoubal,2016-03-03,11500.0,0.6,28.0,clear
+1112,Arhar (Tur/Red Gram),Thoubal,2016-04-03,15500.0,0.4,22.0,clear
+1113,Bengal Gram(Gram),Thoubal,2016-04-03,7500.0,0.5,22.0,clear
+1114,Black Gram (Urd Beans),Thoubal,2016-04-03,14500.0,0.3,22.0,clear
+1115,Green Gram (Moong),Thoubal,2016-04-03,13500.0,0.3,22.0,clear
+1116,Lentil(Masur),Thoubal,2016-04-03,11500.0,0.5,22.0,clear
+1117,Arhar (Tur/Red Gram),Thoubal,2016-05-03,15500.0,0.3,25.4,clear
+1118,Bengal Gram(Gram),Thoubal,2016-05-03,7500.0,0.3,25.4,clear
+1119,Black Gram (Urd Beans),Thoubal,2016-05-03,14500.0,0.4,25.4,clear
+1120,Green Gram (Moong),Thoubal,2016-05-03,13500.0,0.4,25.4,clear
+1121,Lentil(Masur),Thoubal,2016-05-03,11500.0,0.3,25.4,clear
+1122,Arhar (Tur/Red Gram),Thoubal,2016-07-03,15500.0,0.4,29.6,clear
+1123,Bengal Gram(Gram),Thoubal,2016-07-03,7500.0,0.5,29.6,clear
+1124,Black Gram (Urd Beans),Thoubal,2016-07-03,14500.0,0.3,29.6,clear
+1125,Green Gram (Moong),Thoubal,2016-07-03,13500.0,0.5,29.6,clear
+1126,Lentil(Masur),Thoubal,2016-07-03,11500.0,0.6,29.6,clear
+1127,Arhar (Tur/Red Gram),Thoubal,2016-08-03,15500.0,0.4,30.6,clear
+1128,Bengal Gram(Gram),Thoubal,2016-08-03,7500.0,0.3,30.6,clear
+1129,Black Gram (Urd Beans),Thoubal,2016-08-03,14500.0,0.3,30.6,clear
+1130,Green Gram (Moong),Thoubal,2016-08-03,13500.0,0.3,30.6,clear
+1131,Lentil(Masur),Thoubal,2016-08-03,11500.0,0.4,30.6,clear
+1132,Arhar (Tur/Red Gram),Thoubal,2016-09-03,15500.0,0.2,30.0,clear
+1133,Bengal Gram(Gram),Thoubal,2016-09-03,7500.0,0.5,30.0,clear
+1134,Black Gram (Urd Beans),Thoubal,2016-09-03,14500.0,0.5,30.0,clear
+1135,Green Gram (Moong),Thoubal,2016-09-03,13500.0,0.4,30.0,clear
+1136,Lentil(Masur),Thoubal,2016-09-03,11500.0,0.5,30.0,clear
+1137,Arhar (Tur/Red Gram),Thoubal,2016-10-03,15500.0,0.4,32.8,clear
+1138,Bengal Gram(Gram),Thoubal,2016-10-03,7500.0,0.3,32.8,clear
+1139,Black Gram (Urd Beans),Thoubal,2016-10-03,13500.0,0.5,32.8,clear
+1140,Green Gram (Moong),Thoubal,2016-10-03,13500.0,0.4,32.8,clear
+1141,Lentil(Masur),Thoubal,2016-10-03,11500.0,0.3,32.8,clear
+1142,Arhar (Tur/Red Gram),Thoubal,2016-11-03,15500.0,0.5,30.4,clear
+1143,Bengal Gram(Gram),Thoubal,2016-11-03,7500.0,0.5,30.4,clear
+1144,Black Gram (Urd Beans),Thoubal,2016-11-03,13500.0,0.2,30.4,clear
+1145,Green Gram (Moong),Thoubal,2016-11-03,13500.0,0.2,30.4,clear
+1146,Lentil(Masur),Thoubal,2016-11-03,11500.0,0.6,30.4,clear
+1147,Arhar (Tur/Red Gram),Thoubal,2016-03-14,15500.0,0.3,28.4,clear
+1148,Bengal Gram(Gram),Thoubal,2016-03-14,7500.0,0.3,28.4,clear
+1149,Black Gram (Urd Beans),Thoubal,2016-03-14,13500.0,0.4,28.4,clear
+1150,Green Gram (Moong),Thoubal,2016-03-14,13500.0,0.4,28.4,clear
+1151,Lentil(Masur),Thoubal,2016-03-14,11500.0,0.6,28.4,clear
+1152,Arhar (Tur/Red Gram),Thoubal,2016-03-15,15500.0,0.5,28.0,clear
+1153,Bengal Gram(Gram),Thoubal,2016-03-15,7500.0,0.3,28.0,clear
+1154,Black Gram (Urd Beans),Thoubal,2016-03-15,13500.0,0.2,28.0,clear
+1155,Green Gram (Moong),Thoubal,2016-03-15,13500.0,0.4,28.0,clear
+1156,Lentil(Masur),Thoubal,2016-03-15,11500.0,0.4,28.0,clear
+1157,Arhar (Tur/Red Gram),Thoubal,2016-03-16,15500.0,0.3,24.0,clear
+1158,Bengal Gram(Gram),Thoubal,2016-03-16,7500.0,0.5,24.0,clear
+1159,Black Gram (Urd Beans),Thoubal,2016-03-16,13500.0,0.4,24.0,clear
+1160,Green Gram (Moong),Thoubal,2016-03-16,13500.0,0.4,24.0,clear
+1161,Lentil(Masur),Thoubal,2016-03-16,11500.0,0.5,24.0,clear
+1162,Arhar (Tur/Red Gram),Thoubal,2016-03-17,15500.0,0.5,28.2,clear
+1163,Bengal Gram(Gram),Thoubal,2016-03-17,7500.0,0.3,28.2,clear
+1164,Black Gram (Urd Beans),Thoubal,2016-03-17,13500.0,0.3,28.2,clear
+1165,Green Gram (Moong),Thoubal,2016-03-17,13500.0,0.4,28.2,clear
+1166,Lentil(Masur),Thoubal,2016-03-17,11500.0,0.6,28.2,clear
+1167,Arhar (Tur/Red Gram),Thoubal,2016-03-18,15500.0,0.2,26.6,clear
+1168,Bengal Gram(Gram),Thoubal,2016-03-18,7500.0,0.5,26.6,clear
+1169,Black Gram (Urd Beans),Thoubal,2016-03-18,13500.0,0.2,26.6,clear
+1170,Green Gram (Moong),Thoubal,2016-03-18,13500.0,0.4,26.6,clear
+1171,Lentil(Masur),Thoubal,2016-03-18,11500.0,0.6,26.6,clear
+1172,Arhar (Tur/Red Gram),Thoubal,2016-03-19,15500.0,0.4,26.8,rain
+1173,Bengal Gram(Gram),Thoubal,2016-03-19,7500.0,0.6,26.8,rain
+1174,Black Gram (Urd Beans),Thoubal,2016-03-19,13500.0,0.4,26.8,rain
+1175,Green Gram (Moong),Thoubal,2016-03-19,13500.0,0.2,26.8,rain
+1176,Lentil(Masur),Thoubal,2016-03-19,11500.0,0.5,26.8,rain
+1177,Arhar (Tur/Red Gram),Thoubal,2016-03-22,15500.0,0.4,27.0,clear
+1178,Bengal Gram(Gram),Thoubal,2016-03-22,7500.0,0.5,27.0,clear
+1179,Black Gram (Urd Beans),Thoubal,2016-03-22,13500.0,0.5,27.0,clear
+1180,Green Gram (Moong),Thoubal,2016-03-22,13500.0,0.5,27.0,clear
+1181,Lentil(Masur),Thoubal,2016-03-22,11500.0,0.6,27.0,clear
+1182,Arhar (Tur/Red Gram),Thoubal,2016-03-26,15500.0,0.2,30.6,clear
+1183,Bengal Gram(Gram),Thoubal,2016-03-26,7500.0,0.3,30.6,clear
+1184,Black Gram (Urd Beans),Thoubal,2016-03-26,13500.0,0.5,30.6,clear
+1185,Green Gram (Moong),Thoubal,2016-03-26,13500.0,0.5,30.6,clear
+1186,Lentil(Masur),Thoubal,2016-03-26,11500.0,0.6,30.6,clear
+1187,Arhar (Tur/Red Gram),Thoubal,2016-03-31,15500.0,0.3,27.2,rain
+1188,Bengal Gram(Gram),Thoubal,2016-03-31,7500.0,0.5,27.2,rain
+1189,Black Gram (Urd Beans),Thoubal,2016-03-31,13500.0,0.3,27.2,rain
+1190,Green Gram (Moong),Thoubal,2016-03-31,13500.0,0.3,27.2,rain
+1191,Lentil(Masur),Thoubal,2016-03-31,11500.0,0.6,27.2,rain
+1192,Arhar (Tur/Red Gram),Thoubal,2016-01-04,15500.0,0.2,23.4,clear
+1193,Bengal Gram(Gram),Thoubal,2016-01-04,7500.0,0.3,23.4,clear
+1194,Black Gram (Urd Beans),Thoubal,2016-01-04,13500.0,0.5,23.4,clear
+1195,Green Gram (Moong),Thoubal,2016-01-04,13500.0,0.5,23.4,clear
+1196,Lentil(Masur),Thoubal,2016-01-04,11500.0,0.3,23.4,clear
+1197,Arhar (Tur/Red Gram),Thoubal,2016-02-04,15500.0,0.4,22.6,clear
+1198,Bengal Gram(Gram),Thoubal,2016-02-04,7500.0,0.3,22.6,clear
+1199,Black Gram (Urd Beans),Thoubal,2016-02-04,13500.0,0.3,22.6,clear
+1200,Green Gram (Moong),Thoubal,2016-02-04,13500.0,0.3,22.6,clear
+1201,Lentil(Masur),Thoubal,2016-02-04,11500.0,0.5,22.6,clear
+1202,Arhar (Tur/Red Gram),Thoubal,2016-04-04,15500.0,0.4,24.6,rain
+1203,Bengal Gram(Gram),Thoubal,2016-04-04,7500.0,0.4,24.6,rain
+1204,Black Gram (Urd Beans),Thoubal,2016-04-04,13500.0,0.3,24.6,rain
+1205,Green Gram (Moong),Thoubal,2016-04-04,13500.0,0.4,24.6,rain
+1206,Lentil(Masur),Thoubal,2016-04-04,11500.0,0.6,24.6,rain
+1207,Arhar (Tur/Red Gram),Thoubal,2016-07-04,15500.0,0.3,29.4,clear
+1208,Bengal Gram(Gram),Thoubal,2016-07-04,7500.0,0.4,29.4,clear
+1209,Black Gram (Urd Beans),Thoubal,2016-07-04,13500.0,0.2,29.4,clear
+1210,Green Gram (Moong),Thoubal,2016-07-04,13500.0,0.4,29.4,clear
+1211,Lentil(Masur),Thoubal,2016-07-04,11500.0,0.6,29.4,clear
+1212,Arhar (Tur/Red Gram),Thoubal,2016-11-04,15500.0,0.4,22.0,rain
+1213,Bengal Gram(Gram),Thoubal,2016-11-04,7500.0,0.3,22.0,rain
+1214,Black Gram (Urd Beans),Thoubal,2016-11-04,13500.0,0.3,22.0,rain
+1215,Green Gram (Moong),Thoubal,2016-11-04,13500.0,0.5,22.0,rain
+1216,Lentil(Masur),Thoubal,2016-11-04,11500.0,0.6,22.0,rain
+1217,Arhar (Tur/Red Gram),Thoubal,2016-12-04,15500.0,0.2,24.6,clear
+1218,Bengal Gram(Gram),Thoubal,2016-12-04,7500.0,0.5,24.6,clear
+1219,Black Gram (Urd Beans),Thoubal,2016-12-04,13500.0,0.5,24.6,clear
+1220,Green Gram (Moong),Thoubal,2016-12-04,13500.0,0.2,24.6,clear
+1221,Lentil(Masur),Thoubal,2016-12-04,11500.0,0.3,24.6,clear
+1222,Arhar (Tur/Red Gram),Thoubal,2016-04-14,15500.0,0.5,29.2,rain
+1223,Bengal Gram(Gram),Thoubal,2016-04-14,7500.0,0.4,29.2,rain
+1224,Black Gram (Urd Beans),Thoubal,2016-04-14,13500.0,0.4,29.2,rain
+1225,Green Gram (Moong),Thoubal,2016-04-14,14500.0,0.3,29.2,rain
+1226,Lentil(Masur),Thoubal,2016-04-14,11500.0,0.4,29.2,rain
+1227,Arhar (Tur/Red Gram),Thoubal,2016-04-15,15500.0,0.0,29.0,rain
+1228,Bengal Gram(Gram),Thoubal,2016-04-15,7500.0,0.4,29.0,rain
+1229,Black Gram (Urd Beans),Thoubal,2016-04-15,13500.0,0.4,29.0,rain
+1230,Green Gram (Moong),Thoubal,2016-04-15,14500.0,0.6,29.0,rain
+1231,Lentil(Masur),Thoubal,2016-04-15,11500.0,0.4,29.0,rain
+1232,Arhar (Tur/Red Gram),Thoubal,2016-04-16,15500.0,0.3,25.0,rain
+1233,Bengal Gram(Gram),Thoubal,2016-04-16,7500.0,0.5,25.0,rain
+1234,Black Gram (Urd Beans),Thoubal,2016-04-16,13500.0,0.4,25.0,rain
+1235,Green Gram (Moong),Thoubal,2016-04-16,11500.0,0.0,25.0,rain
+1236,Lentil(Masur),Thoubal,2016-04-16,11500.0,0.4,25.0,rain
+1237,Arhar (Tur/Red Gram),Thoubal,2016-04-18,15500.0,0.3,28.0,rain
+1238,Bengal Gram(Gram),Thoubal,2016-04-18,7500.0,0.5,28.0,rain
+1239,Black Gram (Urd Beans),Thoubal,2016-04-18,13500.0,0.4,28.0,rain
+1240,Green Gram (Moong),Thoubal,2016-04-18,14500.0,0.3,28.0,rain
+1241,Lentil(Masur),Thoubal,2016-04-18,11500.0,0.4,28.0,rain
+1242,Arhar (Tur/Red Gram),Thoubal,2016-04-19,15500.0,0.4,24.4,clear
+1243,Bengal Gram(Gram),Thoubal,2016-04-19,7500.0,0.5,24.4,clear
+1244,Black Gram (Urd Beans),Thoubal,2016-04-19,13500.0,0.2,24.4,clear
+1245,Green Gram (Moong),Thoubal,2016-04-19,14500.0,0.3,24.4,clear
+1246,Lentil(Masur),Thoubal,2016-04-19,11500.0,0.4,24.4,clear
+1247,Arhar (Tur/Red Gram),Thoubal,2016-04-20,15500.0,0.2,29.6,clear
+1248,Bengal Gram(Gram),Thoubal,2016-04-20,7500.0,0.5,29.6,clear
+1249,Black Gram (Urd Beans),Thoubal,2016-04-20,13500.0,0.2,29.6,clear
+1250,Green Gram (Moong),Thoubal,2016-04-20,14500.0,0.3,29.6,clear
+1251,Lentil(Masur),Thoubal,2016-04-20,11500.0,0.6,29.6,clear
+1252,Arhar (Tur/Red Gram),Thoubal,2016-04-22,15500.0,0.5,26.2,clear
+1253,Bengal Gram(Gram),Thoubal,2016-04-22,7500.0,0.5,26.2,clear
+1254,Black Gram (Urd Beans),Thoubal,2016-04-22,13500.0,0.4,26.2,clear
+1255,Green Gram (Moong),Thoubal,2016-04-22,14500.0,0.4,26.2,clear
+1256,Lentil(Masur),Thoubal,2016-04-22,11500.0,0.5,26.2,clear
+1257,Arhar (Tur/Red Gram),Thoubal,2016-04-25,18000.0,0.2,29.0,clear
+1258,Bengal Gram(Gram),Thoubal,2016-04-25,7500.0,0.3,29.0,clear
+1259,Black Gram (Urd Beans),Thoubal,2016-04-25,13500.0,0.2,29.0,clear
+1260,Green Gram (Moong),Thoubal,2016-04-25,14500.0,0.2,29.0,clear
+1261,Lentil(Masur),Thoubal,2016-04-25,13500.0,0.5,29.0,clear
+1262,Arhar (Tur/Red Gram),Thoubal,2016-04-26,18000.0,0.2,30.0,clear
+1263,Bengal Gram(Gram),Thoubal,2016-04-26,7500.0,0.5,30.0,clear
+1264,Black Gram (Urd Beans),Thoubal,2016-04-26,13500.0,0.2,30.0,clear
+1265,Green Gram (Moong),Thoubal,2016-04-26,14500.0,0.2,30.0,clear
+1266,Lentil(Masur),Thoubal,2016-04-26,13500.0,0.3,30.0,clear
+1267,Arhar (Tur/Red Gram),Thoubal,2016-04-27,18000.0,0.4,29.6,clear
+1268,Bengal Gram(Gram),Thoubal,2016-04-27,7500.0,0.2,29.6,clear
+1269,Black Gram (Urd Beans),Thoubal,2016-04-27,13500.0,0.4,29.6,clear
+1270,Green Gram (Moong),Thoubal,2016-04-27,14500.0,0.1,29.6,clear
+1271,Lentil(Masur),Thoubal,2016-04-27,13500.0,0.4,29.6,clear
+1272,Arhar (Tur/Red Gram),Thoubal,2016-04-29,18000.0,0.2,28.6,clear
+1273,Bengal Gram(Gram),Thoubal,2016-04-29,7500.0,0.4,28.6,clear
+1274,Black Gram (Urd Beans),Thoubal,2016-04-29,13500.0,0.3,28.6,clear
+1275,Green Gram (Moong),Thoubal,2016-04-29,14500.0,0.3,28.6,clear
+1276,Lentil(Masur),Thoubal,2016-04-29,13500.0,0.5,28.6,clear
+1277,Arhar (Tur/Red Gram),Thoubal,2016-04-30,18000.0,0.3,31.4,clear
+1278,Bengal Gram(Gram),Thoubal,2016-04-30,7500.0,0.4,31.4,clear
+1279,Black Gram (Urd Beans),Thoubal,2016-04-30,13500.0,0.4,31.4,clear
+1280,Green Gram (Moong),Thoubal,2016-04-30,14500.0,0.3,31.4,clear
+1281,Arhar (Tur/Red Gram),Thoubal,2016-02-05,16500.0,0.2,23.8,clear
+1282,Bengal Gram(Gram),Thoubal,2016-02-05,7500.0,0.2,23.8,clear
+1283,Black Gram (Urd Beans),Thoubal,2016-02-05,13500.0,0.3,23.8,clear
+1284,Green Gram (Moong),Thoubal,2016-02-05,14500.0,0.2,23.8,clear
+1285,Lentil(Masur),Thoubal,2016-02-05,11500.0,0.4,23.8,clear
+1286,Arhar (Tur/Red Gram),Thoubal,2016-03-05,16500.0,0.1,27.2,clear
+1287,Bengal Gram(Gram),Thoubal,2016-03-05,7500.0,0.2,27.2,clear
+1288,Black Gram (Urd Beans),Thoubal,2016-03-05,13500.0,0.2,27.2,clear
+1289,Green Gram (Moong),Thoubal,2016-03-05,14500.0,0.2,27.2,clear
+1290,Lentil(Masur),Thoubal,2016-03-05,11500.0,0.3,27.2,clear
+1291,Arhar (Tur/Red Gram),Thoubal,2016-04-05,16500.0,0.5,25.4,rain
+1292,Bengal Gram(Gram),Thoubal,2016-04-05,7500.0,0.5,25.4,rain
+1293,Black Gram (Urd Beans),Thoubal,2016-04-05,13500.0,0.2,25.4,rain
+1294,Green Gram (Moong),Thoubal,2016-04-05,14500.0,0.2,25.4,rain
+1295,Lentil(Masur),Thoubal,2016-04-05,11500.0,0.4,25.4,rain
+1296,Arhar (Tur/Red Gram),Thoubal,2016-09-05,16500.0,0.3,27.6,clear
+1297,Bengal Gram(Gram),Thoubal,2016-09-05,7500.0,0.2,27.6,clear
+1298,Black Gram (Urd Beans),Thoubal,2016-09-05,13500.0,0.2,27.6,clear
+1299,Green Gram (Moong),Thoubal,2016-09-05,14500.0,0.2,27.6,clear
+1300,Lentil(Masur),Thoubal,2016-09-05,11500.0,0.3,27.6,clear
+1301,Arhar (Tur/Red Gram),Thoubal,2016-10-05,16500.0,0.2,30.4,clear
+1302,Bengal Gram(Gram),Thoubal,2016-10-05,7500.0,0.2,30.4,clear
+1303,Black Gram (Urd Beans),Thoubal,2016-10-05,13500.0,0.2,30.4,clear
+1304,Green Gram (Moong),Thoubal,2016-10-05,14500.0,0.2,30.4,clear
+1305,Lentil(Masur),Thoubal,2016-10-05,11500.0,0.5,30.4,clear
+1306,Arhar (Tur/Red Gram),Thoubal,2016-11-05,16500.0,0.4,21.0,rain
+1307,Bengal Gram(Gram),Thoubal,2016-11-05,7500.0,0.4,21.0,rain
+1308,Black Gram (Urd Beans),Thoubal,2016-11-05,13500.0,0.3,21.0,rain
+1309,Green Gram (Moong),Thoubal,2016-11-05,13500.0,0.2,21.0,rain
+1310,Lentil(Masur),Thoubal,2016-11-05,11500.0,0.5,21.0,rain
+1311,Arhar (Tur/Red Gram),Thoubal,2016-12-05,16500.0,0.2,25.8,clear
+1312,Bengal Gram(Gram),Thoubal,2016-12-05,7500.0,0.3,25.8,clear
+1313,Black Gram (Urd Beans),Thoubal,2016-12-05,13500.0,0.3,25.8,clear
+1314,Green Gram (Moong),Thoubal,2016-12-05,13500.0,0.4,25.8,clear
+1315,Lentil(Masur),Thoubal,2016-12-05,11500.0,0.3,25.8,clear
+1316,Arhar (Tur/Red Gram),Thoubal,2016-05-13,16500.0,0.3,27.2,rain
+1317,Bengal Gram(Gram),Thoubal,2016-05-13,7500.0,0.4,27.2,rain
+1318,Black Gram (Urd Beans),Thoubal,2016-05-13,13500.0,0.2,27.2,rain
+1319,Green Gram (Moong),Thoubal,2016-05-13,13500.0,0.3,27.2,rain
+1320,Lentil(Masur),Thoubal,2016-05-13,11500.0,0.3,27.2,rain
+1321,Arhar (Tur/Red Gram),Thoubal,2016-05-16,16500.0,0.4,28.4,rain
+1322,Bengal Gram(Gram),Thoubal,2016-05-16,7500.0,0.4,28.4,rain
+1323,Black Gram (Urd Beans),Thoubal,2016-05-16,13500.0,0.3,28.4,rain
+1324,Green Gram (Moong),Thoubal,2016-05-16,13500.0,0.3,28.4,rain
+1325,Lentil(Masur),Thoubal,2016-05-16,11500.0,0.5,28.4,rain
+1326,Arhar (Tur/Red Gram),Thoubal,2016-05-17,15500.0,0.3,26.6,rain
+1327,Bengal Gram(Gram),Thoubal,2016-05-17,7500.0,0.5,26.6,rain
+1328,Black Gram (Urd Beans),Thoubal,2016-05-17,15500.0,0.2,26.6,rain
+1329,Green Gram (Moong),Thoubal,2016-05-17,13500.0,0.3,26.6,rain
+1330,Lentil(Masur),Thoubal,2016-05-17,11500.0,0.5,26.6,rain
+1331,Arhar (Tur/Red Gram),Thoubal,2016-05-18,15500.0,0.3,21.0,clear
+1332,Bengal Gram(Gram),Thoubal,2016-05-18,7500.0,0.3,21.0,clear
+1333,Black Gram (Urd Beans),Thoubal,2016-05-18,15500.0,0.3,21.0,clear
+1334,Green Gram (Moong),Thoubal,2016-05-18,13500.0,0.3,21.0,clear
+1335,Lentil(Masur),Thoubal,2016-05-18,11500.0,0.5,21.0,clear
+1336,Arhar (Tur/Red Gram),Thoubal,2016-05-19,17500.0,0.4,27.4,clear
+1337,Bengal Gram(Gram),Thoubal,2016-05-19,7500.0,0.3,27.4,clear
+1338,Black Gram (Urd Beans),Thoubal,2016-05-19,15500.0,0.2,27.4,clear
+1339,Green Gram (Moong),Thoubal,2016-05-19,13500.0,0.1,27.4,clear
+1340,Lentil(Masur),Thoubal,2016-05-19,11500.0,0.3,27.4,clear
+1341,Arhar (Tur/Red Gram),Thoubal,2016-05-20,16500.0,0.2,26.0,clear
+1342,Bengal Gram(Gram),Thoubal,2016-05-20,7500.0,0.3,26.0,clear
+1343,Black Gram (Urd Beans),Thoubal,2016-05-20,14500.0,0.3,26.0,clear
+1344,Green Gram (Moong),Thoubal,2016-05-20,13500.0,0.4,26.0,clear
+1345,Lentil(Masur),Thoubal,2016-05-20,11500.0,0.5,26.0,clear
+1346,Arhar (Tur/Red Gram),Thoubal,2016-05-24,16500.0,0.2,29.4,clear
+1347,Bengal Gram(Gram),Thoubal,2016-05-24,7500.0,0.3,29.4,clear
+1348,Black Gram (Urd Beans),Thoubal,2016-05-24,14500.0,0.3,29.4,clear
+1349,Green Gram (Moong),Thoubal,2016-05-24,13500.0,0.4,29.4,clear
+1350,Lentil(Masur),Thoubal,2016-05-24,11500.0,0.5,29.4,clear
+1351,Arhar (Tur/Red Gram),Thoubal,2016-05-25,17500.0,0.1,28.0,clear
+1352,Bengal Gram(Gram),Thoubal,2016-05-25,7500.0,0.1,28.0,clear
+1353,Black Gram (Urd Beans),Thoubal,2016-05-25,15500.0,0.1,28.0,clear
+1354,Green Gram (Moong),Thoubal,2016-05-25,13500.0,0.2,28.0,clear
+1355,Lentil(Masur),Thoubal,2016-05-25,11500.0,0.3,28.0,clear
+1356,Arhar (Tur/Red Gram),Thoubal,2016-05-26,17500.0,0.2,30.0,clear
+1357,Bengal Gram(Gram),Thoubal,2016-05-26,7500.0,0.3,30.0,clear
+1358,Black Gram (Urd Beans),Thoubal,2016-05-26,15500.0,0.3,30.0,clear
+1359,Green Gram (Moong),Thoubal,2016-05-26,13500.0,0.3,30.0,clear
+1360,Lentil(Masur),Thoubal,2016-05-26,11500.0,0.4,30.0,clear
+1361,Arhar (Tur/Red Gram),Thoubal,2016-05-27,17500.0,0.4,28.8,clear
+1362,Bengal Gram(Gram),Thoubal,2016-05-27,7500.0,0.4,28.8,clear
+1363,Black Gram (Urd Beans),Thoubal,2016-05-27,15500.0,0.3,28.8,clear
+1364,Green Gram (Moong),Thoubal,2016-05-27,13500.0,0.3,28.8,clear
+1365,Lentil(Masur),Thoubal,2016-05-27,11500.0,0.5,28.8,clear
+1366,Arhar (Tur/Red Gram),Thoubal,2016-05-28,17500.0,0.2,30.4,rain
+1367,Bengal Gram(Gram),Thoubal,2016-05-28,7500.0,0.3,30.4,rain
+1368,Black Gram (Urd Beans),Thoubal,2016-05-28,15500.0,0.3,30.4,rain
+1369,Green Gram (Moong),Thoubal,2016-05-28,13500.0,0.2,30.4,rain
+1370,Lentil(Masur),Thoubal,2016-05-28,11500.0,0.3,30.4,rain
+1371,Arhar (Tur/Red Gram),Thoubal,2016-05-30,17500.0,0.2,30.4,clear
+1372,Bengal Gram(Gram),Thoubal,2016-05-30,7500.0,0.3,30.4,clear
+1373,Black Gram (Urd Beans),Thoubal,2016-05-30,15500.0,0.2,30.4,clear
+1374,Green Gram (Moong),Thoubal,2016-05-30,13500.0,0.3,30.4,clear
+1375,Lentil(Masur),Thoubal,2016-05-30,11500.0,0.4,30.4,clear
+1376,Arhar (Tur/Red Gram),Thoubal,2016-05-31,17500.0,0.4,29.8,clear
+1377,Bengal Gram(Gram),Thoubal,2016-05-31,7500.0,0.4,29.8,clear
+1378,Black Gram (Urd Beans),Thoubal,2016-05-31,15500.0,0.3,29.8,clear
+1379,Green Gram (Moong),Thoubal,2016-05-31,13500.0,0.4,29.8,clear
+1380,Lentil(Masur),Thoubal,2016-05-31,11500.0,0.4,29.8,clear
+1381,Arhar (Tur/Red Gram),Thoubal,2016-01-06,17500.0,0.0,23.2,clear
+1382,Bengal Gram(Gram),Thoubal,2016-01-06,7500.0,0.0,23.2,clear
+1383,Black Gram (Urd Beans),Thoubal,2016-01-06,5500.0,0.0,23.2,clear
+1384,Green Gram (Moong),Thoubal,2016-01-06,13500.0,0.0,23.2,clear
+1385,Lentil(Masur),Thoubal,2016-01-06,11500.0,0.0,23.2,clear
+1386,Arhar (Tur/Red Gram),Thoubal,2016-04-06,17500.0,0.4,28.0,rain
+1387,Bengal Gram(Gram),Thoubal,2016-04-06,7500.0,0.2,28.0,rain
+1388,Black Gram (Urd Beans),Thoubal,2016-04-06,15500.0,0.3,28.0,rain
+1389,Green Gram (Moong),Thoubal,2016-04-06,13500.0,0.3,28.0,rain
+1390,Lentil(Masur),Thoubal,2016-04-06,11500.0,0.5,28.0,rain
+1391,Arhar (Tur/Red Gram),Thoubal,2016-06-06,18500.0,0.2,32.0,rain
+1392,Bengal Gram(Gram),Thoubal,2016-06-06,7500.0,0.2,32.0,rain
+1393,Black Gram (Urd Beans),Thoubal,2016-06-06,16500.0,0.2,32.0,rain
+1394,Green Gram (Moong),Thoubal,2016-06-06,13500.0,0.3,32.0,rain
+1395,Lentil(Masur),Thoubal,2016-06-06,11500.0,0.4,32.0,rain
+1396,Arhar (Tur/Red Gram),Thoubal,2016-07-06,17500.0,0.4,30.8,clear
+1397,Bengal Gram(Gram),Thoubal,2016-07-06,7500.0,0.4,30.8,clear
+1398,Black Gram (Urd Beans),Thoubal,2016-07-06,15500.0,0.3,30.8,clear
+1399,Green Gram (Moong),Thoubal,2016-07-06,13500.0,0.4,30.8,clear
+1400,Lentil(Masur),Thoubal,2016-07-06,11500.0,0.4,30.8,clear
+1401,Arhar (Tur/Red Gram),Thoubal,2016-09-06,17500.0,0.3,27.4,clear
+1402,Bengal Gram(Gram),Thoubal,2016-09-06,7500.0,0.4,27.4,clear
+1403,Black Gram (Urd Beans),Thoubal,2016-09-06,15500.0,0.3,27.4,clear
+1404,Green Gram (Moong),Thoubal,2016-09-06,13500.0,0.3,27.4,clear
+1405,Lentil(Masur),Thoubal,2016-09-06,11500.0,0.5,27.4,clear
+1406,Arhar (Tur/Red Gram),Thoubal,2016-10-06,17500.0,0.1,31.6,clear
+1407,Bengal Gram(Gram),Thoubal,2016-10-06,7500.0,0.4,31.6,clear
+1408,Black Gram (Urd Beans),Thoubal,2016-10-06,15500.0,0.2,31.6,clear
+1409,Green Gram (Moong),Thoubal,2016-10-06,13500.0,0.2,31.6,clear
+1410,Lentil(Masur),Thoubal,2016-10-06,11500.0,0.4,31.6,clear
+1411,Arhar (Tur/Red Gram),Thoubal,2016-06-13,17500.0,0.2,27.6,clear
+1412,Bengal Gram(Gram),Thoubal,2016-06-13,7500.0,0.3,27.6,clear
+1413,Black Gram (Urd Beans),Thoubal,2016-06-13,15500.0,0.2,27.6,clear
+1414,Green Gram (Moong),Thoubal,2016-06-13,13500.0,0.2,27.6,clear
+1415,Lentil(Masur),Thoubal,2016-06-13,11500.0,0.2,27.6,clear
+1416,Arhar (Tur/Red Gram),Thoubal,2016-06-14,17500.0,0.1,29.0,clear
+1417,Bengal Gram(Gram),Thoubal,2016-06-14,7500.0,0.3,29.0,clear
+1418,Black Gram (Urd Beans),Thoubal,2016-06-14,15500.0,0.2,29.0,clear
+1419,Green Gram (Moong),Thoubal,2016-06-14,14500.0,0.2,29.0,clear
+1420,Lentil(Masur),Thoubal,2016-06-14,11500.0,0.4,29.0,clear
+1421,Arhar (Tur/Red Gram),Thoubal,2016-06-15,17500.0,0.2,30.6,rain
+1422,Bengal Gram(Gram),Thoubal,2016-06-15,7500.0,0.4,30.6,rain
+1423,Black Gram (Urd Beans),Thoubal,2016-06-15,15500.0,0.2,30.6,rain
+1424,Green Gram (Moong),Thoubal,2016-06-15,14500.0,0.2,30.6,rain
+1425,Lentil(Masur),Thoubal,2016-06-15,11500.0,0.3,30.6,rain
+1426,Arhar (Tur/Red Gram),Thoubal,2016-06-16,17500.0,0.2,28.2,clear
+1427,Bengal Gram(Gram),Thoubal,2016-06-16,7500.0,0.2,28.2,clear
+1428,Black Gram (Urd Beans),Thoubal,2016-06-16,15500.0,0.2,28.2,clear
+1429,Green Gram (Moong),Thoubal,2016-06-16,14500.0,0.2,28.2,clear
+1430,Lentil(Masur),Thoubal,2016-06-16,11500.0,0.4,28.2,clear
+1431,Arhar (Tur/Red Gram),Thoubal,2016-06-17,17500.0,0.1,27.6,clear
+1432,Bengal Gram(Gram),Thoubal,2016-06-17,7500.0,0.2,27.6,clear
+1433,Black Gram (Urd Beans),Thoubal,2016-06-17,13500.0,0.1,27.6,clear
+1434,Green Gram (Moong),Thoubal,2016-06-17,14500.0,0.2,27.6,clear
+1435,Lentil(Masur),Thoubal,2016-06-17,11500.0,0.3,27.6,clear
+1436,Arhar (Tur/Red Gram),Thoubal,2016-06-22,17500.0,0.2,30.0,clear
+1437,Bengal Gram(Gram),Thoubal,2016-06-22,7500.0,0.3,30.0,clear
+1438,Black Gram (Urd Beans),Thoubal,2016-06-22,13500.0,0.2,30.0,clear
+1439,Green Gram (Moong),Thoubal,2016-06-22,14500.0,0.3,30.0,clear
+1440,Lentil(Masur),Thoubal,2016-06-22,11500.0,0.5,30.0,clear
+1441,Arhar (Tur/Red Gram),Thoubal,2016-06-25,17500.0,0.3,29.8,rain
+1442,Bengal Gram(Gram),Thoubal,2016-06-25,7500.0,0.4,29.8,rain
+1443,Black Gram (Urd Beans),Thoubal,2016-06-25,13500.0,0.4,29.8,rain
+1444,Green Gram (Moong),Thoubal,2016-06-25,14500.0,0.3,29.8,rain
+1445,Lentil(Masur),Thoubal,2016-06-25,11500.0,0.5,29.8,rain
+1446,Arhar (Tur/Red Gram),Thoubal,2016-06-27,17500.0,0.4,28.4,clear
+1447,Bengal Gram(Gram),Thoubal,2016-06-27,7500.0,0.4,28.4,clear
+1448,Black Gram (Urd Beans),Thoubal,2016-06-27,13500.0,0.3,28.4,clear
+1449,Green Gram (Moong),Thoubal,2016-06-27,13500.0,0.4,28.4,clear
+1450,Lentil(Masur),Thoubal,2016-06-27,11500.0,0.5,28.4,clear
+1451,Arhar (Tur/Red Gram),Thoubal,2016-06-28,17500.0,0.4,32.6,clear
+1452,Bengal Gram(Gram),Thoubal,2016-06-28,7500.0,0.5,32.6,clear
+1453,Black Gram (Urd Beans),Thoubal,2016-06-28,13500.0,0.4,32.6,clear
+1454,Green Gram (Moong),Thoubal,2016-06-28,13500.0,0.4,32.6,clear
+1455,Lentil(Masur),Thoubal,2016-06-28,11500.0,0.3,32.6,clear
+1456,Arhar (Tur/Red Gram),Thoubal,2016-06-29,17500.0,0.3,31.6,clear
+1457,Bengal Gram(Gram),Thoubal,2016-06-29,7500.0,0.2,31.6,clear
+1458,Black Gram (Urd Beans),Thoubal,2016-06-29,13500.0,0.6,31.6,clear
+1459,Green Gram (Moong),Thoubal,2016-06-29,13500.0,0.3,31.6,clear
+1460,Lentil(Masur),Thoubal,2016-06-29,11500.0,0.4,31.6,clear
+1461,Arhar (Tur/Red Gram),Thoubal,2016-06-30,17500.0,0.2,27.4,clear
+1462,Bengal Gram(Gram),Thoubal,2016-06-30,7500.0,0.4,27.4,clear
+1463,Black Gram (Urd Beans),Thoubal,2016-06-30,13500.0,0.3,27.4,clear
+1464,Green Gram (Moong),Thoubal,2016-06-30,13500.0,0.4,27.4,clear
+1465,Lentil(Masur),Thoubal,2016-06-30,11500.0,0.4,27.4,clear
+1466,Arhar (Tur/Red Gram),Thoubal,2016-01-07,17500.0,0.2,22.4,clear
+1467,Bengal Gram(Gram),Thoubal,2016-01-07,8500.0,0.3,22.4,clear
+1468,Black Gram (Urd Beans),Thoubal,2016-01-07,15500.0,0.2,22.4,clear
+1469,Green Gram (Moong),Thoubal,2016-01-07,13500.0,0.3,22.4,clear
+1470,Lentil(Masur),Thoubal,2016-01-07,11500.0,0.5,22.4,clear
+1471,Arhar (Tur/Red Gram),Thoubal,2016-02-07,17500.0,0.3,26.2,clear
+1472,Bengal Gram(Gram),Thoubal,2016-02-07,8500.0,0.4,26.2,clear
+1473,Black Gram (Urd Beans),Thoubal,2016-02-07,15500.0,0.4,26.2,clear
+1474,Green Gram (Moong),Thoubal,2016-02-07,13500.0,0.4,26.2,clear
+1475,Lentil(Masur),Thoubal,2016-02-07,11500.0,0.5,26.2,clear
+1476,Arhar (Tur/Red Gram),Thoubal,2016-04-07,17500.0,0.2,30.0,clear
+1477,Bengal Gram(Gram),Thoubal,2016-04-07,8500.0,0.2,30.0,clear
+1478,Black Gram (Urd Beans),Thoubal,2016-04-07,15500.0,0.3,30.0,clear
+1479,Green Gram (Moong),Thoubal,2016-04-07,13500.0,0.4,30.0,clear
+1480,Lentil(Masur),Thoubal,2016-04-07,11500.0,0.4,30.0,clear
+1481,Arhar (Tur/Red Gram),Thoubal,2016-08-07,17500.0,0.4,29.2,clear
+1482,Arhar (Tur/Red Gram),Thoubal,2016-11-07,17500.0,0.4,25.6,clear
+1483,Bengal Gram(Gram),Thoubal,2016-11-07,9500.0,0.2,25.6,clear
+1484,Black Gram (Urd Beans),Thoubal,2016-11-07,13500.0,0.4,25.6,clear
+1485,Green Gram (Moong),Thoubal,2016-11-07,13500.0,0.2,25.6,clear
+1486,Lentil(Masur),Thoubal,2016-11-07,11500.0,0.3,25.6,clear
+1487,Arhar (Tur/Red Gram),Thoubal,2016-12-07,17500.0,0.4,26.2,clear
+1488,Bengal Gram(Gram),Thoubal,2016-12-07,9500.0,0.3,26.2,clear
+1489,Black Gram (Urd Beans),Thoubal,2016-12-07,13500.0,0.2,26.2,clear
+1490,Green Gram (Moong),Thoubal,2016-12-07,13500.0,0.3,26.2,clear
+1491,Lentil(Masur),Thoubal,2016-12-07,11500.0,0.5,26.2,clear
+1492,Arhar (Tur/Red Gram),Thoubal,2016-07-13,17500.0,0.3,30.4,clear
+1493,Bengal Gram(Gram),Thoubal,2016-07-13,9500.0,0.3,30.4,clear
+1494,Black Gram (Urd Beans),Thoubal,2016-07-13,13500.0,0.3,30.4,clear
+1495,Green Gram (Moong),Thoubal,2016-07-13,13500.0,0.3,30.4,clear
+1496,Lentil(Masur),Thoubal,2016-07-13,11500.0,0.4,30.4,clear
+1497,Arhar (Tur/Red Gram),Thoubal,2016-07-14,17500.0,0.2,31.6,clear
+1498,Bengal Gram(Gram),Thoubal,2016-07-14,9500.0,0.3,31.6,clear
+1499,Black Gram (Urd Beans),Thoubal,2016-07-14,13500.0,0.2,31.6,clear
+1500,Arhar (Tur/Red Gram),Thoubal,2016-07-15,17500.0,0.3,28.2,rain
+1501,Bengal Gram(Gram),Thoubal,2016-07-15,8500.0,0.4,28.2,rain
+1502,Black Gram (Urd Beans),Thoubal,2016-07-15,13500.0,0.3,28.2,rain
+1503,Green Gram (Moong),Thoubal,2016-07-15,13500.0,0.2,28.2,rain
+1504,Lentil(Masur),Thoubal,2016-07-15,11500.0,0.4,28.2,rain
+1505,Arhar (Tur/Red Gram),Thoubal,2016-07-16,17500.0,0.2,26.4,clear
+1506,Bengal Gram(Gram),Thoubal,2016-07-16,8500.0,0.3,26.4,clear
+1507,Black Gram (Urd Beans),Thoubal,2016-07-16,13500.0,0.3,26.4,clear
+1508,Green Gram (Moong),Thoubal,2016-07-16,13500.0,0.3,26.4,clear
+1509,Lentil(Masur),Thoubal,2016-07-16,11500.0,0.4,26.4,clear
+1510,Arhar (Tur/Red Gram),Thoubal,2016-07-18,17500.0,0.3,25.4,clear
+1511,Bengal Gram(Gram),Thoubal,2016-07-18,8500.0,0.2,25.4,clear
+1512,Black Gram (Urd Beans),Thoubal,2016-07-18,13500.0,0.2,25.4,clear
+1513,Green Gram (Moong),Thoubal,2016-07-18,13500.0,0.2,25.4,clear
+1514,Lentil(Masur),Thoubal,2016-07-18,11500.0,0.3,25.4,clear
+1515,Arhar (Tur/Red Gram),Thoubal,2016-07-19,17500.0,0.2,28.0,clear
+1516,Bengal Gram(Gram),Thoubal,2016-07-19,8500.0,0.3,28.0,clear
+1517,Black Gram (Urd Beans),Thoubal,2016-07-19,13500.0,0.3,28.0,clear
+1518,Green Gram (Moong),Thoubal,2016-07-19,13500.0,0.2,28.0,clear
+1519,Lentil(Masur),Thoubal,2016-07-19,11500.0,0.4,28.0,clear
+1520,Arhar (Tur/Red Gram),Thoubal,2016-07-21,17500.0,0.3,25.8,clear
+1521,Bengal Gram(Gram),Thoubal,2016-07-21,8500.0,0.4,25.8,clear
+1522,Black Gram (Urd Beans),Thoubal,2016-07-21,13500.0,0.2,25.8,clear
+1523,Green Gram (Moong),Thoubal,2016-07-21,13500.0,0.4,25.8,clear
+1524,Lentil(Masur),Thoubal,2016-07-21,11500.0,0.2,25.8,clear
+1525,Arhar (Tur/Red Gram),Thoubal,2016-07-22,17500.0,0.3,28.2,clear
+1526,Bengal Gram(Gram),Thoubal,2016-07-22,9500.0,0.2,28.2,clear
+1527,Black Gram (Urd Beans),Thoubal,2016-07-22,13500.0,0.3,28.2,clear
+1528,Green Gram (Moong),Thoubal,2016-07-22,13500.0,0.4,28.2,clear
+1529,Lentil(Masur),Thoubal,2016-07-22,11500.0,0.3,28.2,clear
+1530,Arhar (Tur/Red Gram),Thoubal,2016-07-23,17500.0,0.2,28.8,rain
+1531,Bengal Gram(Gram),Thoubal,2016-07-23,9500.0,0.2,28.8,rain
+1532,Black Gram (Urd Beans),Thoubal,2016-07-23,13500.0,0.4,28.8,rain
+1533,Green Gram (Moong),Thoubal,2016-07-23,13500.0,0.2,28.8,rain
+1534,Lentil(Masur),Thoubal,2016-07-23,11500.0,0.4,28.8,rain
+1535,Arhar (Tur/Red Gram),Thoubal,2016-07-25,17500.0,0.3,23.4,rain
+1536,Bengal Gram(Gram),Thoubal,2016-07-25,9500.0,0.1,23.4,rain
+1537,Black Gram (Urd Beans),Thoubal,2016-07-25,13500.0,0.3,23.4,rain
+1538,Green Gram (Moong),Thoubal,2016-07-25,13500.0,0.2,23.4,rain
+1539,Lentil(Masur),Thoubal,2016-07-25,11500.0,0.2,23.4,rain
+1540,Arhar (Tur/Red Gram),Thoubal,2016-07-26,17500.0,0.4,29.2,clear
+1541,Bengal Gram(Gram),Thoubal,2016-07-26,9500.0,0.3,29.2,clear
+1542,Black Gram (Urd Beans),Thoubal,2016-07-26,13500.0,0.3,29.2,clear
+1543,Green Gram (Moong),Thoubal,2016-07-26,13500.0,0.4,29.2,clear
+1544,Lentil(Masur),Thoubal,2016-07-26,11500.0,0.2,29.2,clear
+1545,Arhar (Tur/Red Gram),Thoubal,2016-07-27,17500.0,0.3,30.0,rain
+1546,Bengal Gram(Gram),Thoubal,2016-07-27,9500.0,0.3,30.0,rain
+1547,Black Gram (Urd Beans),Thoubal,2016-07-27,13500.0,0.2,30.0,rain
+1548,Green Gram (Moong),Thoubal,2016-07-27,13500.0,0.2,30.0,rain
+1549,Lentil(Masur),Thoubal,2016-07-27,11500.0,0.3,30.0,rain
+1550,Arhar (Tur/Red Gram),Thoubal,2016-07-28,17500.0,0.4,29.0,clear
+1551,Bengal Gram(Gram),Thoubal,2016-07-28,10500.0,0.2,29.0,clear
+1552,Black Gram (Urd Beans),Thoubal,2016-07-28,16500.0,0.2,29.0,clear
+1553,Green Gram (Moong),Thoubal,2016-07-28,13500.0,0.4,29.0,clear
+1554,Lentil(Masur),Thoubal,2016-07-28,11500.0,0.4,29.0,clear
+1555,Arhar (Tur/Red Gram),Thoubal,2016-07-29,17500.0,0.3,28.4,clear
+1556,Bengal Gram(Gram),Thoubal,2016-07-29,10500.0,0.4,28.4,clear
+1557,Black Gram (Urd Beans),Thoubal,2016-07-29,16500.0,0.3,28.4,clear
+1558,Green Gram (Moong),Thoubal,2016-07-29,13500.0,0.2,28.4,clear
+1559,Lentil(Masur),Thoubal,2016-07-29,11500.0,0.3,28.4,clear
+1560,Arhar (Tur/Red Gram),Thoubal,2016-07-30,15500.0,0.4,28.6,clear
+1561,Bengal Gram(Gram),Thoubal,2016-07-30,9500.0,0.4,28.6,clear
+1562,Black Gram (Urd Beans),Thoubal,2016-07-30,15500.0,0.3,28.6,clear
+1563,Green Gram (Moong),Thoubal,2016-07-30,15500.0,0.3,28.6,clear
+1564,Lentil(Masur),Thoubal,2016-07-30,11500.0,0.4,28.6,clear
+1565,Arhar (Tur/Red Gram),Thoubal,2016-01-08,15500.0,0.4,16.2,clear
+1566,Bengal Gram(Gram),Thoubal,2016-01-08,9500.0,0.4,16.2,clear
+1567,Black Gram (Urd Beans),Thoubal,2016-01-08,15500.0,0.3,16.2,clear
+1568,Green Gram (Moong),Thoubal,2016-01-08,15500.0,0.3,16.2,clear
+1569,Lentil(Masur),Thoubal,2016-01-08,11500.0,0.4,16.2,clear
+1570,Arhar (Tur/Red Gram),Thoubal,2016-05-08,17500.0,0.2,30.6,clear
+1571,Bengal Gram(Gram),Thoubal,2016-05-08,3500.0,0.5,30.6,clear
+1572,Black Gram (Urd Beans),Thoubal,2016-05-08,14500.0,0.3,30.6,clear
+1573,Green Gram (Moong),Thoubal,2016-05-08,15000.0,0.2,30.6,clear
+1574,Lentil(Masur),Thoubal,2016-05-08,11500.0,0.3,30.6,clear
+1575,Arhar (Tur/Red Gram),Thoubal,2016-06-08,17500.0,0.3,28.2,clear
+1576,Bengal Gram(Gram),Thoubal,2016-06-08,9500.0,0.3,28.2,clear
+1577,Green Gram (Moong),Thoubal,2016-06-08,15000.0,0.2,28.2,clear
+1578,Arhar (Tur/Red Gram),Thoubal,2016-08-08,17500.0,0.2,31.4,clear
+1579,Bengal Gram(Gram),Thoubal,2016-08-08,9500.0,0.3,31.4,clear
+1580,Black Gram (Urd Beans),Thoubal,2016-08-08,14500.0,0.3,31.4,clear
+1581,Green Gram (Moong),Thoubal,2016-08-08,15000.0,0.3,31.4,clear
+1582,Lentil(Masur),Thoubal,2016-08-08,11500.0,0.4,31.4,clear
+1583,Arhar (Tur/Red Gram),Thoubal,2016-09-08,17500.0,0.2,30.6,clear
+1584,Bengal Gram(Gram),Thoubal,2016-09-08,9500.0,0.3,30.6,clear
+1585,Black Gram (Urd Beans),Thoubal,2016-09-08,14500.0,0.3,30.6,clear
+1586,Green Gram (Moong),Thoubal,2016-09-08,15000.0,0.1,30.6,clear
+1587,Lentil(Masur),Thoubal,2016-09-08,11500.0,0.4,30.6,clear
+1588,Arhar (Tur/Red Gram),Thoubal,2016-08-17,17500.0,0.3,28.6,rain
+1589,Bengal Gram(Gram),Thoubal,2016-08-17,9500.0,0.4,28.6,rain
+1590,Black Gram (Urd Beans),Thoubal,2016-08-17,15500.0,0.3,28.6,rain
+1591,Green Gram (Moong),Thoubal,2016-08-17,13500.0,0.2,28.6,rain
+1592,Lentil(Masur),Thoubal,2016-08-17,11500.0,0.3,28.6,rain
+1593,Arhar (Tur/Red Gram),Thoubal,2016-08-18,17500.0,0.2,32.0,clear
+1594,Bengal Gram(Gram),Thoubal,2016-08-18,9500.0,0.3,32.0,clear
+1595,Black Gram (Urd Beans),Thoubal,2016-08-18,16500.0,0.3,32.0,clear
+1596,Green Gram (Moong),Thoubal,2016-08-18,13500.0,0.2,32.0,clear
+1597,Lentil(Masur),Thoubal,2016-08-18,11500.0,0.3,32.0,clear
+1598,Arhar (Tur/Red Gram),Thoubal,2016-08-20,17500.0,0.3,28.2,clear
+1599,Bengal Gram(Gram),Thoubal,2016-08-20,9500.0,0.3,28.2,clear
+1600,Black Gram (Urd Beans),Thoubal,2016-08-20,16500.0,0.2,28.2,clear
+1601,Green Gram (Moong),Thoubal,2016-08-20,14500.0,0.3,28.2,clear
+1602,Lentil(Masur),Thoubal,2016-08-20,11500.0,0.4,28.2,clear
+1603,Arhar (Tur/Red Gram),Thoubal,2016-08-22,17500.0,0.1,31.0,clear
+1604,Bengal Gram(Gram),Thoubal,2016-08-22,9500.0,0.2,31.0,clear
+1605,Black Gram (Urd Beans),Thoubal,2016-08-22,16500.0,0.3,31.0,clear
+1606,Green Gram (Moong),Thoubal,2016-08-22,14500.0,0.2,31.0,clear
+1607,Lentil(Masur),Thoubal,2016-08-22,11500.0,0.3,31.0,clear
+1608,Arhar (Tur/Red Gram),Thoubal,2016-08-23,17500.0,0.3,24.6,clear
+1609,Bengal Gram(Gram),Thoubal,2016-08-23,9500.0,0.2,24.6,clear
+1610,Black Gram (Urd Beans),Thoubal,2016-08-23,16500.0,1.2,24.6,clear
+1611,Green Gram (Moong),Thoubal,2016-08-23,14500.0,0.3,24.6,clear
+1612,Lentil(Masur),Thoubal,2016-08-23,11500.0,0.4,24.6,clear
+1613,Arhar (Tur/Red Gram),Thoubal,2016-08-26,17500.0,0.2,32.4,clear
+1614,Bengal Gram(Gram),Thoubal,2016-08-26,9500.0,0.4,32.4,clear
+1615,Black Gram (Urd Beans),Thoubal,2016-08-26,16500.0,0.3,32.4,clear
+1616,Green Gram (Moong),Thoubal,2016-08-26,14500.0,0.3,32.4,clear
+1617,Lentil(Masur),Thoubal,2016-08-26,11500.0,0.4,32.4,clear
+1618,Arhar (Tur/Red Gram),Thoubal,2016-08-27,17500.0,0.3,31.4,clear
+1619,Bengal Gram(Gram),Thoubal,2016-08-27,10500.0,0.3,31.4,clear
+1620,Black Gram (Urd Beans),Thoubal,2016-08-27,17500.0,0.2,31.4,clear
+1621,Green Gram (Moong),Thoubal,2016-08-27,13500.0,0.3,31.4,clear
+1622,Lentil(Masur),Thoubal,2016-08-27,11500.0,0.4,31.4,clear
+1623,Arhar (Tur/Red Gram),Thoubal,2016-08-29,17500.0,0.3,32.2,clear
+1624,Bengal Gram(Gram),Thoubal,2016-08-29,10500.0,0.2,32.2,clear
+1625,Black Gram (Urd Beans),Thoubal,2016-08-29,17500.0,0.2,32.2,clear
+1626,Green Gram (Moong),Thoubal,2016-08-29,13500.0,0.3,32.2,clear
+1627,Lentil(Masur),Thoubal,2016-08-29,11500.0,0.5,32.2,clear
+1628,Arhar (Tur/Red Gram),Thoubal,2016-08-30,17500.0,0.4,30.4,clear
+1629,Bengal Gram(Gram),Thoubal,2016-08-30,11500.0,0.1,30.4,clear
+1630,Black Gram (Urd Beans),Thoubal,2016-08-30,17500.0,0.3,30.4,clear
+1631,Arhar (Tur/Red Gram),Thoubal,2016-08-31,17500.0,0.2,26.8,clear
+1632,Bengal Gram(Gram),Thoubal,2016-08-31,11500.0,0.3,26.8,clear
+1633,Black Gram (Urd Beans),Thoubal,2016-08-31,17500.0,0.4,26.8,clear
+1634,Green Gram (Moong),Thoubal,2016-08-31,13500.0,0.4,26.8,clear
+1635,Lentil(Masur),Thoubal,2016-08-31,11500.0,0.2,26.8,clear
+1636,Arhar (Tur/Red Gram),Thoubal,2016-01-09,17500.0,0.2,17.0,rain
+1637,Bengal Gram(Gram),Thoubal,2016-01-09,11500.0,0.3,17.0,rain
+1638,Black Gram (Urd Beans),Thoubal,2016-01-09,17500.0,0.4,17.0,rain
+1639,Green Gram (Moong),Thoubal,2016-01-09,13500.0,0.4,17.0,rain
+1640,Lentil(Masur),Thoubal,2016-01-09,11500.0,0.2,17.0,rain
+1641,Arhar (Tur/Red Gram),Thoubal,2016-02-09,17500.0,0.1,23.0,clear
+1642,Bengal Gram(Gram),Thoubal,2016-02-09,9500.0,0.2,23.0,clear
+1643,Black Gram (Urd Beans),Thoubal,2016-02-09,16500.0,0.2,23.0,clear
+1644,Green Gram (Moong),Thoubal,2016-02-09,13500.0,0.2,23.0,clear
+1645,Lentil(Masur),Thoubal,2016-02-09,11500.0,0.2,23.0,clear
+1646,Arhar (Tur/Red Gram),Thoubal,2016-03-09,17500.0,0.1,27.4,clear
+1647,Bengal Gram(Gram),Thoubal,2016-03-09,9500.0,0.2,27.4,clear
+1648,Black Gram (Urd Beans),Thoubal,2016-03-09,16500.0,0.2,27.4,clear
+1649,Green Gram (Moong),Thoubal,2016-03-09,13500.0,0.2,27.4,clear
+1650,Lentil(Masur),Thoubal,2016-03-09,11500.0,0.2,27.4,clear
+1651,Arhar (Tur/Red Gram),Thoubal,2016-05-09,17500.0,0.1,31.6,clear
+1652,Bengal Gram(Gram),Thoubal,2016-05-09,10500.0,0.2,31.6,clear
+1653,Black Gram (Urd Beans),Thoubal,2016-05-09,16500.0,0.2,31.6,clear
+1654,Green Gram (Moong),Thoubal,2016-05-09,13500.0,0.1,31.6,clear
+1655,Lentil(Masur),Thoubal,2016-05-09,11500.0,0.2,31.6,clear
+1656,Arhar (Tur/Red Gram),Thoubal,2016-06-09,17500.0,0.1,27.8,clear
+1657,Bengal Gram(Gram),Thoubal,2016-06-09,10500.0,0.2,27.8,clear
+1658,Black Gram (Urd Beans),Thoubal,2016-06-09,16500.0,0.1,27.8,clear
+1659,Green Gram (Moong),Thoubal,2016-06-09,13500.0,0.2,27.8,clear
+1660,Lentil(Masur),Thoubal,2016-06-09,11500.0,0.2,27.8,clear
+1661,Arhar (Tur/Red Gram),Thoubal,2016-09-09,16500.0,0.4,28.4,clear
+1662,Bengal Gram(Gram),Thoubal,2016-09-09,10500.0,0.4,28.4,clear
+1663,Black Gram (Urd Beans),Thoubal,2016-09-09,15500.0,0.3,28.4,clear
+1664,Green Gram (Moong),Thoubal,2016-09-09,13500.0,0.2,28.4,clear
+1665,Lentil(Masur),Thoubal,2016-09-09,10500.0,0.4,28.4,clear
+1666,Arhar (Tur/Red Gram),Thoubal,2016-12-09,16500.0,0.3,24.6,clear
+1667,Bengal Gram(Gram),Thoubal,2016-12-09,10500.0,0.2,24.6,clear
+1668,Black Gram (Urd Beans),Thoubal,2016-12-09,15500.0,0.2,24.6,clear
+1669,Green Gram (Moong),Thoubal,2016-12-09,13500.0,0.4,24.6,clear
+1670,Lentil(Masur),Thoubal,2016-12-09,10500.0,0.2,24.6,clear
+1671,Arhar (Tur/Red Gram),Thoubal,2016-09-14,16500.0,0.2,31.6,clear
+1672,Bengal Gram(Gram),Thoubal,2016-09-14,9500.0,0.3,31.6,clear
+1673,Black Gram (Urd Beans),Thoubal,2016-09-14,15500.0,0.2,31.6,clear
+1674,Green Gram (Moong),Thoubal,2016-09-14,13500.0,0.3,31.6,clear
+1675,Lentil(Masur),Thoubal,2016-09-14,11500.0,0.3,31.6,clear
+1676,Arhar (Tur/Red Gram),Thoubal,2016-09-15,16500.0,0.3,32.2,clear
+1677,Bengal Gram(Gram),Thoubal,2016-09-15,9500.0,0.4,32.2,clear
+1678,Black Gram (Urd Beans),Thoubal,2016-09-15,15500.0,0.3,32.2,clear
+1679,Green Gram (Moong),Thoubal,2016-09-15,13500.0,0.4,32.2,clear
+1680,Lentil(Masur),Thoubal,2016-09-15,11500.0,0.4,32.2,clear
+1681,Arhar (Tur/Red Gram),Thoubal,2016-09-16,15500.0,0.4,31.4,clear
+1682,Bengal Gram(Gram),Thoubal,2016-09-16,9500.0,0.3,31.4,clear
+1683,Black Gram (Urd Beans),Thoubal,2016-09-16,13500.0,0.2,31.4,clear
+1684,Green Gram (Moong),Thoubal,2016-09-16,13500.0,0.2,31.4,clear
+1685,Lentil(Masur),Thoubal,2016-09-16,11500.0,0.3,31.4,clear
+1686,Arhar (Tur/Red Gram),Thoubal,2016-09-24,15500.0,0.2,30.6,clear
+1687,Bengal Gram(Gram),Thoubal,2016-09-24,10500.0,0.4,30.6,clear
+1688,Black Gram (Urd Beans),Thoubal,2016-09-24,14500.0,0.2,30.6,clear
+1689,Green Gram (Moong),Thoubal,2016-09-24,13500.0,0.4,30.6,clear
+1690,Lentil(Masur),Thoubal,2016-09-24,11500.0,0.3,30.6,clear
+1691,Arhar (Tur/Red Gram),Thoubal,2016-09-26,15500.0,0.5,32.0,clear
+1692,Bengal Gram(Gram),Thoubal,2016-09-26,10500.0,0.6,32.0,clear
+1693,Black Gram (Urd Beans),Thoubal,2016-09-26,14500.0,0.4,32.0,clear
+1694,Green Gram (Moong),Thoubal,2016-09-26,13500.0,0.4,32.0,clear
+1695,Lentil(Masur),Thoubal,2016-09-26,11500.0,0.6,32.0,clear
+1696,Arhar (Tur/Red Gram),Thoubal,2016-09-28,15500.0,0.5,31.0,clear
+1697,Bengal Gram(Gram),Thoubal,2016-09-28,10500.0,0.6,31.0,clear
+1698,Black Gram (Urd Beans),Thoubal,2016-09-28,15500.0,0.4,31.0,clear
+1699,Green Gram (Moong),Thoubal,2016-09-28,13500.0,0.6,31.0,clear
+1700,Lentil(Masur),Thoubal,2016-09-28,11500.0,0.7,31.0,clear
+1701,Arhar (Tur/Red Gram),Thoubal,2016-09-29,15500.0,0.6,32.0,clear
+1702,Bengal Gram(Gram),Thoubal,2016-09-29,10500.0,0.5,32.0,clear
+1703,Black Gram (Urd Beans),Thoubal,2016-09-29,15500.0,0.4,32.0,clear
+1704,Green Gram (Moong),Thoubal,2016-09-29,13500.0,0.5,32.0,clear
+1705,Lentil(Masur),Thoubal,2016-09-29,11500.0,0.6,32.0,clear
+1706,Arhar (Tur/Red Gram),Thoubal,2016-01-10,15500.0,0.5,21.0,clear
+1707,Bengal Gram(Gram),Thoubal,2016-01-10,10500.0,0.5,21.0,clear
+1708,Black Gram (Urd Beans),Thoubal,2016-01-10,16500.0,0.5,21.0,clear
+1709,Green Gram (Moong),Thoubal,2016-01-10,13500.0,0.4,21.0,clear
+1710,Lentil(Masur),Thoubal,2016-01-10,11500.0,0.5,21.0,clear
+1711,Arhar (Tur/Red Gram),Thoubal,2016-03-10,15500.0,0.4,27.2,clear
+1712,Bengal Gram(Gram),Thoubal,2016-03-10,10500.0,0.6,27.2,clear
+1713,Black Gram (Urd Beans),Thoubal,2016-03-10,16500.0,0.5,27.2,clear
+1714,Green Gram (Moong),Thoubal,2016-03-10,13500.0,0.5,27.2,clear
+1715,Lentil(Masur),Thoubal,2016-03-10,11500.0,0.6,27.2,clear
+1716,Arhar (Tur/Red Gram),Thoubal,2016-04-10,15500.0,0.5,32.0,clear
+1717,Bengal Gram(Gram),Thoubal,2016-04-10,10500.0,0.5,32.0,clear
+1718,Black Gram (Urd Beans),Thoubal,2016-04-10,16500.0,0.3,32.0,clear
+1719,Green Gram (Moong),Thoubal,2016-04-10,13500.0,0.5,32.0,clear
+1720,Lentil(Masur),Thoubal,2016-04-10,11500.0,0.5,32.0,clear
+1721,Arhar (Tur/Red Gram),Thoubal,2016-05-10,15500.0,0.6,31.8,clear
+1722,Bengal Gram(Gram),Thoubal,2016-05-10,10500.0,0.5,31.8,clear
+1723,Black Gram (Urd Beans),Thoubal,2016-05-10,16500.0,0.3,31.8,clear
+1724,Green Gram (Moong),Thoubal,2016-05-10,13500.0,0.5,31.8,clear
+1725,Lentil(Masur),Thoubal,2016-05-10,11500.0,0.6,31.8,clear
+1726,Arhar (Tur/Red Gram),Thoubal,2016-06-10,15500.0,0.4,25.0,clear
+1727,Bengal Gram(Gram),Thoubal,2016-06-10,10500.0,0.6,25.0,clear
+1728,Black Gram (Urd Beans),Thoubal,2016-06-10,16500.0,0.4,25.0,clear
+1729,Green Gram (Moong),Thoubal,2016-06-10,13500.0,0.4,25.0,clear
+1730,Lentil(Masur),Thoubal,2016-06-10,11500.0,0.7,25.0,clear
+1731,Arhar (Tur/Red Gram),Thoubal,2016-07-10,15500.0,0.6,29.0,clear
+1732,Bengal Gram(Gram),Thoubal,2016-07-10,9500.0,0.4,29.0,clear
+1733,Black Gram (Urd Beans),Thoubal,2016-07-10,15500.0,0.5,29.0,clear
+1734,Green Gram (Moong),Thoubal,2016-07-10,13500.0,0.4,29.0,clear
+1735,Lentil(Masur),Thoubal,2016-07-10,11500.0,0.6,29.0,clear
+1736,Arhar (Tur/Red Gram),Thoubal,2016-10-10,15500.0,0.6,29.0,rain
+1737,Bengal Gram(Gram),Thoubal,2016-10-10,9500.0,0.5,29.0,rain
+1738,Black Gram (Urd Beans),Thoubal,2016-10-10,15500.0,0.4,29.0,rain
+1739,Green Gram (Moong),Thoubal,2016-10-10,13500.0,0.5,29.0,rain
+1740,Lentil(Masur),Thoubal,2016-10-10,11500.0,0.6,29.0,rain
+1741,Arhar (Tur/Red Gram),Thoubal,2016-11-10,15500.0,0.5,27.4,clear
+1742,Bengal Gram(Gram),Thoubal,2016-11-10,9500.0,0.4,27.4,clear
+1743,Black Gram (Urd Beans),Thoubal,2016-11-10,15500.0,0.5,27.4,clear
+1744,Green Gram (Moong),Thoubal,2016-11-10,13500.0,0.5,27.4,clear
+1745,Lentil(Masur),Thoubal,2016-11-10,11500.0,0.6,27.4,clear
+1746,Arhar (Tur/Red Gram),Thoubal,2016-12-10,15500.0,0.7,24.4,clear
+1747,Bengal Gram(Gram),Thoubal,2016-12-10,9500.0,0.5,24.4,clear
+1748,Black Gram (Urd Beans),Thoubal,2016-12-10,15500.0,0.5,24.4,clear
+1749,Green Gram (Moong),Thoubal,2016-12-10,13500.0,0.4,24.4,clear
+1750,Lentil(Masur),Thoubal,2016-12-10,11500.0,0.7,24.4,clear
+1751,Arhar (Tur/Red Gram),Thoubal,2016-10-13,15500.0,0.5,24.4,clear
+1752,Bengal Gram(Gram),Thoubal,2016-10-13,9500.0,0.5,24.4,clear
+1753,Black Gram (Urd Beans),Thoubal,2016-10-13,15500.0,0.4,24.4,clear
+1754,Green Gram (Moong),Thoubal,2016-10-13,13500.0,0.3,24.4,clear
+1755,Lentil(Masur),Thoubal,2016-10-13,11500.0,0.6,24.4,clear
+1756,Arhar (Tur/Red Gram),Thoubal,2016-10-14,15500.0,0.7,29.4,clear
+1757,Bengal Gram(Gram),Thoubal,2016-10-14,9500.0,0.4,29.4,clear
+1758,Black Gram (Urd Beans),Thoubal,2016-10-14,14500.0,0.5,29.4,clear
+1759,Green Gram (Moong),Thoubal,2016-10-14,13500.0,0.5,29.4,clear
+1760,Lentil(Masur),Thoubal,2016-10-14,10500.0,0.5,29.4,clear
+1761,Arhar (Tur/Red Gram),Thoubal,2016-10-17,15500.0,0.6,31.6,clear
+1762,Bengal Gram(Gram),Thoubal,2016-10-17,9500.0,0.6,31.6,clear
+1763,Black Gram (Urd Beans),Thoubal,2016-10-17,14500.0,0.4,31.6,clear
+1764,Green Gram (Moong),Thoubal,2016-10-17,13500.0,0.4,31.6,clear
+1765,Lentil(Masur),Thoubal,2016-10-17,10500.0,0.4,31.6,clear
+1766,Arhar (Tur/Red Gram),Thoubal,2016-10-18,16500.0,0.5,31.6,clear
+1767,Bengal Gram(Gram),Thoubal,2016-10-18,9500.0,0.6,31.6,clear
+1768,Black Gram (Urd Beans),Thoubal,2016-10-18,13500.0,0.5,31.6,clear
+1769,Green Gram (Moong),Thoubal,2016-10-18,13500.0,0.4,31.6,clear
+1770,Lentil(Masur),Thoubal,2016-10-18,10500.0,0.5,31.6,clear
+1771,Arhar (Tur/Red Gram),Thoubal,2016-10-19,16500.0,0.6,31.0,clear
+1772,Bengal Gram(Gram),Thoubal,2016-10-19,9500.0,0.5,31.0,clear
+1773,Black Gram (Urd Beans),Thoubal,2016-10-19,13500.0,0.5,31.0,clear
+1774,Green Gram (Moong),Thoubal,2016-10-19,13500.0,0.5,31.0,clear
+1775,Lentil(Masur),Thoubal,2016-10-19,10500.0,0.6,31.0,clear
+1776,Arhar (Tur/Red Gram),Thoubal,2016-10-20,16500.0,0.5,31.0,clear
+1777,Bengal Gram(Gram),Thoubal,2016-10-20,9500.0,0.6,31.0,clear
+1778,Black Gram (Urd Beans),Thoubal,2016-10-20,13500.0,0.5,31.0,clear
+1779,Green Gram (Moong),Thoubal,2016-10-20,13500.0,0.4,31.0,clear
+1780,Lentil(Masur),Thoubal,2016-10-20,10500.0,0.7,31.0,clear
+1781,Arhar (Tur/Red Gram),Thoubal,2016-10-21,15500.0,0.7,29.4,clear
+1782,Bengal Gram(Gram),Thoubal,2016-10-21,9500.0,0.6,29.4,clear
+1783,Black Gram (Urd Beans),Thoubal,2016-10-21,13500.0,0.5,29.4,clear
+1784,Green Gram (Moong),Thoubal,2016-10-21,12500.0,0.5,29.4,clear
+1785,Lentil(Masur),Thoubal,2016-10-21,11500.0,0.6,29.4,clear
+1786,Arhar (Tur/Red Gram),Thoubal,2016-10-22,15500.0,0.6,30.0,clear
+1787,Bengal Gram(Gram),Thoubal,2016-10-22,9500.0,0.6,30.0,clear
+1788,Black Gram (Urd Beans),Thoubal,2016-10-22,13500.0,0.4,30.0,clear
+1789,Green Gram (Moong),Thoubal,2016-10-22,12500.0,0.5,30.0,clear
+1790,Lentil(Masur),Thoubal,2016-10-22,11500.0,0.6,30.0,clear
+1791,Arhar (Tur/Red Gram),Thoubal,2016-10-24,15500.0,0.4,29.4,clear
+1792,Bengal Gram(Gram),Thoubal,2016-10-24,9500.0,0.5,29.4,clear
+1793,Black Gram (Urd Beans),Thoubal,2016-10-24,13500.0,0.6,29.4,clear
+1794,Green Gram (Moong),Thoubal,2016-10-24,12500.0,0.4,29.4,clear
+1795,Lentil(Masur),Thoubal,2016-10-24,11500.0,0.7,29.4,clear
+1796,Arhar (Tur/Red Gram),Thoubal,2016-10-25,15500.0,0.6,26.4,clear
+1797,Bengal Gram(Gram),Thoubal,2016-10-25,9500.0,0.7,26.4,clear
+1798,Black Gram (Urd Beans),Thoubal,2016-10-25,13500.0,0.5,26.4,clear
+1799,Green Gram (Moong),Thoubal,2016-10-25,12500.0,0.5,26.4,clear
+1800,Lentil(Masur),Thoubal,2016-10-25,10500.0,0.6,26.4,clear
+1801,Arhar (Tur/Red Gram),Thoubal,2016-10-26,15500.0,0.5,23.2,clear
+1802,Bengal Gram(Gram),Thoubal,2016-10-26,9500.0,0.6,23.2,clear
+1803,Black Gram (Urd Beans),Thoubal,2016-10-26,13500.0,0.6,23.2,clear
+1804,Green Gram (Moong),Thoubal,2016-10-26,12500.0,0.5,23.2,clear
+1805,Lentil(Masur),Thoubal,2016-10-26,10500.0,0.7,23.2,clear
+1806,Arhar (Tur/Red Gram),Thoubal,2016-10-27,15500.0,0.6,25.6,rain
+1807,Bengal Gram(Gram),Thoubal,2016-10-27,9500.0,0.5,25.6,rain
+1808,Black Gram (Urd Beans),Thoubal,2016-10-27,13500.0,0.4,25.6,rain
+1809,Green Gram (Moong),Thoubal,2016-10-27,12500.0,0.5,25.6,rain
+1810,Lentil(Masur),Thoubal,2016-10-27,10500.0,0.6,25.6,rain
+1811,Arhar (Tur/Red Gram),Thoubal,2016-10-28,14500.0,0.5,21.0,clear
+1812,Bengal Gram(Gram),Thoubal,2016-10-28,9500.0,0.6,21.0,clear
+1813,Black Gram (Urd Beans),Thoubal,2016-10-28,13500.0,0.4,21.0,clear
+1814,Green Gram (Moong),Thoubal,2016-10-28,11500.0,0.6,21.0,clear
+1815,Lentil(Masur),Thoubal,2016-10-28,10500.0,0.7,21.0,clear
+1816,Arhar (Tur/Red Gram),Thoubal,2016-10-29,14500.0,0.7,25.2,clear
+1817,Bengal Gram(Gram),Thoubal,2016-10-29,9500.0,0.5,25.2,clear
+1818,Black Gram (Urd Beans),Thoubal,2016-10-29,13500.0,0.6,25.2,clear
+1819,Green Gram (Moong),Thoubal,2016-10-29,11500.0,0.6,25.2,clear
+1820,Lentil(Masur),Thoubal,2016-10-29,10500.0,0.6,25.2,clear
+1821,Arhar (Tur/Red Gram),Thoubal,2016-10-31,14500.0,0.5,29.0,clear
+1822,Bengal Gram(Gram),Thoubal,2016-10-31,9500.0,0.4,29.0,clear
+1823,Black Gram (Urd Beans),Thoubal,2016-10-31,13500.0,0.5,29.0,clear
+1824,Green Gram (Moong),Thoubal,2016-10-31,11500.0,0.5,29.0,clear
+1825,Lentil(Masur),Thoubal,2016-10-31,10500.0,0.6,29.0,clear
+1826,Arhar (Tur/Red Gram),Thoubal,2016-02-11,15500.0,0.6,22.0,clear
+1827,Bengal Gram(Gram),Thoubal,2016-02-11,9500.0,0.5,22.0,clear
+1828,Black Gram (Urd Beans),Thoubal,2016-02-11,13500.0,0.4,22.0,clear
+1829,Green Gram (Moong),Thoubal,2016-02-11,12500.0,0.6,22.0,clear
+1830,Lentil(Masur),Thoubal,2016-02-11,11500.0,0.7,22.0,clear
+1831,Arhar (Tur/Red Gram),Thoubal,2016-03-11,15500.0,0.7,28.0,clear
+1832,Bengal Gram(Gram),Thoubal,2016-03-11,9500.0,0.6,28.0,clear
+1833,Black Gram (Urd Beans),Thoubal,2016-03-11,14500.0,0.5,28.0,clear
+1834,Green Gram (Moong),Thoubal,2016-03-11,13500.0,0.7,28.0,clear
+1835,Lentil(Masur),Thoubal,2016-03-11,11500.0,0.7,28.0,clear
+1836,Arhar (Tur/Red Gram),Thoubal,2016-04-11,15500.0,0.6,32.4,clear
+1837,Bengal Gram(Gram),Thoubal,2016-04-11,9500.0,0.5,32.4,clear
+1838,Black Gram (Urd Beans),Thoubal,2016-04-11,14500.0,0.5,32.4,clear
+1839,Green Gram (Moong),Thoubal,2016-04-11,13500.0,0.6,32.4,clear
+1840,Lentil(Masur),Thoubal,2016-04-11,11500.0,0.7,32.4,clear
+1841,Arhar (Tur/Red Gram),Thoubal,2016-05-11,15500.0,0.5,31.2,clear
+1842,Bengal Gram(Gram),Thoubal,2016-05-11,9500.0,0.6,31.2,clear
+1843,Black Gram (Urd Beans),Thoubal,2016-05-11,13500.0,0.4,31.2,clear
+1844,Lentil(Masur),Thoubal,2016-05-11,11500.0,0.6,31.2,clear
+1845,Arhar (Tur/Red Gram),Thoubal,2016-07-11,15500.0,0.5,29.4,clear
+1846,Bengal Gram(Gram),Thoubal,2016-07-11,9500.0,0.4,29.4,clear
+1847,Black Gram (Urd Beans),Thoubal,2016-07-11,13500.0,0.3,29.4,clear
+1848,Green Gram (Moong),Thoubal,2016-07-11,12500.0,0.4,29.4,clear
+1849,Lentil(Masur),Thoubal,2016-07-11,11500.0,0.7,29.4,clear
+1850,Arhar (Tur/Red Gram),Thoubal,2016-08-11,15500.0,0.6,31.6,clear
+1851,Bengal Gram(Gram),Thoubal,2016-08-11,9500.0,0.6,31.6,clear
+1852,Black Gram (Urd Beans),Thoubal,2016-08-11,13500.0,0.5,31.6,clear
+1853,Green Gram (Moong),Thoubal,2016-08-11,12500.0,0.5,31.6,clear
+1854,Lentil(Masur),Thoubal,2016-08-11,11500.0,0.7,31.6,clear
+1855,Arhar (Tur/Red Gram),Thoubal,2016-09-11,15500.0,0.5,28.4,clear
+1856,Bengal Gram(Gram),Thoubal,2016-09-11,9500.0,0.6,28.4,clear
+1857,Black Gram (Urd Beans),Thoubal,2016-09-11,13500.0,0.4,28.4,clear
+1858,Green Gram (Moong),Thoubal,2016-09-11,12500.0,0.5,28.4,clear
+1859,Lentil(Masur),Thoubal,2016-09-11,11500.0,0.6,28.4,clear
+1860,Arhar (Tur/Red Gram),Thoubal,2016-11-11,15500.0,0.4,29.0,clear
+1861,Arhar (Tur/Red Gram),Thoubal,2016-11-14,15500.0,0.5,26.6,clear
+1862,Bengal Gram(Gram),Thoubal,2016-11-14,9500.0,0.3,26.6,clear
+1863,Black Gram (Urd Beans),Thoubal,2016-11-14,13500.0,0.4,26.6,clear
+1864,Green Gram (Moong),Thoubal,2016-11-14,13500.0,0.5,26.6,clear
+1865,Lentil(Masur),Thoubal,2016-11-14,11500.0,0.4,26.6,clear
+1866,Arhar (Tur/Red Gram),Thoubal,2016-11-15,15500.0,0.2,26.8,clear
+1867,Bengal Gram(Gram),Thoubal,2016-11-15,11500.0,0.2,26.8,clear
+1868,Black Gram (Urd Beans),Thoubal,2016-11-15,13500.0,0.3,26.8,clear
+1869,Green Gram (Moong),Thoubal,2016-11-15,13500.0,0.1,26.8,clear
+1870,Lentil(Masur),Thoubal,2016-11-15,11500.0,0.2,26.8,clear
+1871,Arhar (Tur/Red Gram),Thoubal,2016-11-16,15500.0,0.1,26.4,clear
+1872,Bengal Gram(Gram),Thoubal,2016-11-16,11500.0,0.2,26.4,clear
+1873,Black Gram (Urd Beans),Thoubal,2016-11-16,13500.0,0.2,26.4,clear
+1874,Green Gram (Moong),Thoubal,2016-11-16,13500.0,0.1,26.4,clear
+1875,Lentil(Masur),Thoubal,2016-11-16,11500.0,0.1,26.4,clear
+1876,Arhar (Tur/Red Gram),Thoubal,2016-11-17,15500.0,0.2,26.4,clear
+1877,Bengal Gram(Gram),Thoubal,2016-11-17,11500.0,0.2,26.4,clear
+1878,Black Gram (Urd Beans),Thoubal,2016-11-17,13500.0,0.2,26.4,clear
+1879,Green Gram (Moong),Thoubal,2016-11-17,13500.0,0.1,26.4,clear
+1880,Lentil(Masur),Thoubal,2016-11-17,12500.0,0.2,26.4,clear
+1881,Arhar (Tur/Red Gram),Thoubal,2016-11-18,15500.0,0.3,25.6,clear
+1882,Bengal Gram(Gram),Thoubal,2016-11-18,11500.0,0.2,25.6,clear
+1883,Black Gram (Urd Beans),Thoubal,2016-11-18,13500.0,0.3,25.6,clear
+1884,Green Gram (Moong),Thoubal,2016-11-18,13500.0,0.3,25.6,clear
+1885,Lentil(Masur),Thoubal,2016-11-18,12500.0,0.3,25.6,clear
+1886,Arhar (Tur/Red Gram),Thoubal,2016-11-19,15500.0,0.3,25.3,clear
+1887,Bengal Gram(Gram),Thoubal,2016-11-19,11500.0,0.3,25.3,clear
+1888,Black Gram (Urd Beans),Thoubal,2016-11-19,13500.0,0.2,25.3,clear
+1889,Green Gram (Moong),Thoubal,2016-11-19,13500.0,0.2,25.3,clear
+1890,Lentil(Masur),Thoubal,2016-11-19,12500.0,0.2,25.3,clear
+1891,Arhar (Tur/Red Gram),Thoubal,2016-11-21,15500.0,0.3,25.8,clear
+1892,Bengal Gram(Gram),Thoubal,2016-11-21,11500.0,0.3,25.8,clear
+1893,Black Gram (Urd Beans),Thoubal,2016-11-21,14500.0,0.3,25.8,clear
+1894,Green Gram (Moong),Thoubal,2016-11-21,13500.0,0.2,25.8,clear
+1895,Lentil(Masur),Thoubal,2016-11-21,11500.0,0.3,25.8,clear
+1896,Arhar (Tur/Red Gram),Thoubal,2016-11-22,15500.0,0.4,24.6,clear
+1897,Bengal Gram(Gram),Thoubal,2016-11-22,11500.0,0.3,24.6,clear
+1898,Black Gram (Urd Beans),Thoubal,2016-11-22,14500.0,0.4,24.6,clear
+1899,Green Gram (Moong),Thoubal,2016-11-22,13500.0,0.3,24.6,clear
+1900,Lentil(Masur),Thoubal,2016-11-22,11500.0,0.4,24.6,clear
+1901,Arhar (Tur/Red Gram),Thoubal,2016-11-23,15500.0,0.4,24.6,clear
+1902,Bengal Gram(Gram),Thoubal,2016-11-23,11500.0,0.4,24.6,clear
+1903,Black Gram (Urd Beans),Thoubal,2016-11-23,14500.0,0.3,24.6,clear
+1904,Green Gram (Moong),Thoubal,2016-11-23,13500.0,0.3,24.6,clear
+1905,Lentil(Masur),Thoubal,2016-11-23,11500.0,0.5,24.6,clear
+1906,Arhar (Tur/Red Gram),Thoubal,2016-11-24,15500.0,0.3,23.6,clear
+1907,Bengal Gram(Gram),Thoubal,2016-11-24,11500.0,0.3,23.6,clear
+1908,Black Gram (Urd Beans),Thoubal,2016-11-24,14500.0,0.4,23.6,clear
+1909,Green Gram (Moong),Thoubal,2016-11-24,13500.0,0.2,23.6,clear
+1910,Lentil(Masur),Thoubal,2016-11-24,11500.0,0.3,23.6,clear
+1911,Arhar (Tur/Red Gram),Thoubal,2016-11-25,15500.0,0.3,24.0,clear
+1912,Bengal Gram(Gram),Thoubal,2016-11-25,11500.0,0.2,24.0,clear
+1913,Black Gram (Urd Beans),Thoubal,2016-11-25,14500.0,0.3,24.0,clear
+1914,Green Gram (Moong),Thoubal,2016-11-25,13500.0,0.3,24.0,clear
+1915,Lentil(Masur),Thoubal,2016-11-25,11500.0,0.3,24.0,clear
+1916,Arhar (Tur/Red Gram),Thoubal,2016-11-26,15500.0,0.2,23.6,clear
+1917,Bengal Gram(Gram),Thoubal,2016-11-26,11500.0,0.3,23.6,clear
+1918,Black Gram (Urd Beans),Thoubal,2016-11-26,14500.0,0.2,23.6,clear
+1919,Green Gram (Moong),Thoubal,2016-11-26,13500.0,0.2,23.6,clear
+1920,Lentil(Masur),Thoubal,2016-11-26,11500.0,0.3,23.6,clear
+1921,Arhar (Tur/Red Gram),Thoubal,2016-11-28,15500.0,0.2,23.6,clear
+1922,Bengal Gram(Gram),Thoubal,2016-11-28,10500.0,0.2,23.6,clear
+1923,Black Gram (Urd Beans),Thoubal,2016-11-28,15500.0,0.2,23.6,clear
+1924,Green Gram (Moong),Thoubal,2016-11-28,13500.0,0.2,23.6,clear
+1925,Lentil(Masur),Thoubal,2016-11-28,11500.0,0.2,23.6,clear
+1926,Arhar (Tur/Red Gram),Thoubal,2016-11-29,16500.0,0.3,24.6,clear
+1927,Bengal Gram(Gram),Thoubal,2016-11-29,10500.0,0.3,24.6,clear
+1928,Black Gram (Urd Beans),Thoubal,2016-11-29,14500.0,0.3,24.6,clear
+1929,Green Gram (Moong),Thoubal,2016-11-29,13500.0,0.2,24.6,clear
+1930,Lentil(Masur),Thoubal,2016-11-29,11500.0,0.4,24.6,clear
+1931,Arhar (Tur/Red Gram),Thoubal,2016-11-30,16500.0,0.3,24.0,clear
+1932,Bengal Gram(Gram),Thoubal,2016-11-30,10500.0,0.3,24.0,clear
+1933,Black Gram (Urd Beans),Thoubal,2016-11-30,14500.0,0.2,24.0,clear
+1934,Green Gram (Moong),Thoubal,2016-11-30,13500.0,0.3,24.0,clear
+1935,Lentil(Masur),Thoubal,2016-11-30,11500.0,0.3,24.0,clear
+1936,Arhar (Tur/Red Gram),Thoubal,2016-01-12,16500.0,0.2,21.6,clear
+1937,Bengal Gram(Gram),Thoubal,2016-01-12,10500.0,0.3,21.6,clear
+1938,Black Gram (Urd Beans),Thoubal,2016-01-12,14500.0,0.3,21.6,clear
+1939,Green Gram (Moong),Thoubal,2016-01-12,13500.0,0.2,21.6,clear
+1940,Lentil(Masur),Thoubal,2016-01-12,11500.0,0.4,21.6,clear
+1941,Arhar (Tur/Red Gram),Thoubal,2016-02-12,16500.0,0.2,18.0,clear
+1942,Bengal Gram(Gram),Thoubal,2016-02-12,10500.0,0.3,18.0,clear
+1943,Black Gram (Urd Beans),Thoubal,2016-02-12,13500.0,0.3,18.0,clear
+1944,Green Gram (Moong),Thoubal,2016-02-12,13500.0,0.4,18.0,clear
+1945,Lentil(Masur),Thoubal,2016-02-12,11500.0,0.3,18.0,clear
+1946,Arhar (Tur/Red Gram),Thoubal,2016-03-12,16500.0,0.2,28.6,clear
+1947,Bengal Gram(Gram),Thoubal,2016-03-12,10500.0,0.4,28.6,clear
+1948,Black Gram (Urd Beans),Thoubal,2016-03-12,13500.0,0.3,28.6,clear
+1949,Green Gram (Moong),Thoubal,2016-03-12,13500.0,0.3,28.6,clear
+1950,Lentil(Masur),Thoubal,2016-03-12,11500.0,0.4,28.6,clear
+1951,Arhar (Tur/Red Gram),Thoubal,2016-05-12,15500.0,0.2,32.0,rain
+1952,Bengal Gram(Gram),Thoubal,2016-05-12,10500.0,0.3,32.0,rain
+1953,Black Gram (Urd Beans),Thoubal,2016-05-12,13500.0,0.3,32.0,rain
+1954,Green Gram (Moong),Thoubal,2016-05-12,13500.0,0.4,32.0,rain
+1955,Lentil(Masur),Thoubal,2016-05-12,11500.0,0.3,32.0,rain
+1956,Arhar (Tur/Red Gram),Thoubal,2016-06-12,15500.0,0.3,26.4,clear
+1957,Bengal Gram(Gram),Thoubal,2016-06-12,10500.0,0.3,26.4,clear
+1958,Black Gram (Urd Beans),Thoubal,2016-06-12,13500.0,0.2,26.4,clear
+1959,Green Gram (Moong),Thoubal,2016-06-12,13500.0,0.3,26.4,clear
+1960,Lentil(Masur),Thoubal,2016-06-12,11500.0,0.3,26.4,clear
+1961,Arhar (Tur/Red Gram),Thoubal,2016-07-12,15500.0,0.3,31.0,rain
+1962,Bengal Gram(Gram),Thoubal,2016-07-12,11500.0,0.4,31.0,rain
+1963,Black Gram (Urd Beans),Thoubal,2016-07-12,13500.0,0.4,31.0,rain
+1964,Green Gram (Moong),Thoubal,2016-07-12,13500.0,0.4,31.0,rain
+1965,Lentil(Masur),Thoubal,2016-07-12,11500.0,0.4,31.0,rain
+1966,Arhar (Tur/Red Gram),Thoubal,2016-09-12,15500.0,0.3,30.8,clear
+1967,Bengal Gram(Gram),Thoubal,2016-09-12,11500.0,0.4,30.8,clear
+1968,Black Gram (Urd Beans),Thoubal,2016-09-12,13500.0,0.2,30.8,clear
+1969,Green Gram (Moong),Thoubal,2016-09-12,13500.0,0.3,30.8,clear
+1970,Lentil(Masur),Thoubal,2016-09-12,11500.0,0.4,30.8,clear
+1971,Arhar (Tur/Red Gram),Thoubal,2016-12-13,15500.0,0.3,23.6,clear
+1972,Bengal Gram(Gram),Thoubal,2016-12-13,11500.0,0.3,23.6,clear
+1973,Black Gram (Urd Beans),Thoubal,2016-12-13,14500.0,0.3,23.6,clear
+1974,Green Gram (Moong),Thoubal,2016-12-13,13500.0,0.4,23.6,clear
+1975,Lentil(Masur),Thoubal,2016-12-13,11500.0,0.5,23.6,clear
+1976,Arhar (Tur/Red Gram),Thoubal,2016-12-14,15500.0,0.3,23.6,clear
+1977,Bengal Gram(Gram),Thoubal,2016-12-14,11500.0,0.4,23.6,clear
+1978,Black Gram (Urd Beans),Thoubal,2016-12-14,14500.0,0.3,23.6,clear
+1979,Green Gram (Moong),Thoubal,2016-12-14,13500.0,0.4,23.6,clear
+1980,Lentil(Masur),Thoubal,2016-12-14,11500.0,0.4,23.6,clear
+1981,Arhar (Tur/Red Gram),Thoubal,2016-12-15,15500.0,0.4,23.8,clear
+1982,Bengal Gram(Gram),Thoubal,2016-12-15,11500.0,0.3,23.8,clear
+1983,Black Gram (Urd Beans),Thoubal,2016-12-15,14500.0,0.4,23.8,clear
+1984,Green Gram (Moong),Thoubal,2016-12-15,13500.0,0.4,23.8,clear
+1985,Lentil(Masur),Thoubal,2016-12-15,11500.0,0.5,23.8,clear
+1986,Arhar (Tur/Red Gram),Thoubal,2016-12-16,15500.0,0.3,24.4,clear
+1987,Bengal Gram(Gram),Thoubal,2016-12-16,11500.0,0.3,24.4,clear
+1988,Black Gram (Urd Beans),Thoubal,2016-12-16,14500.0,0.3,24.4,clear
+1989,Arhar (Tur/Red Gram),Thoubal,2016-12-30,15500.0,0.3,24.6,clear
+1990,Bengal Gram(Gram),Thoubal,2016-12-30,13500.0,0.4,24.6,clear
+1991,Black Gram (Urd Beans),Thoubal,2016-12-30,15500.0,0.3,24.6,clear
+1992,Green Gram (Moong),Thoubal,2016-12-30,13500.0,0.3,24.6,clear
+1993,Lentil(Masur),Thoubal,2016-12-30,11500.0,0.5,24.6,clear
+1994,Arhar (Tur/Red Gram),Thoubal,2016-12-31,15500.0,0.3,24.2,clear
+1995,Bengal Gram(Gram),Thoubal,2016-12-31,13500.0,0.3,24.2,clear
+1996,Black Gram (Urd Beans),Thoubal,2016-12-31,15500.0,0.3,24.2,clear
+1997,Green Gram (Moong),Thoubal,2016-12-31,13500.0,0.2,24.2,clear
+1998,Lentil(Masur),Thoubal,2016-12-31,11500.0,0.4,24.2,clear
+1999,Arhar (Tur/Red Gram),Thoubal,2017-02-01,15500.0,0.2,25.2,clear
+2000,Bengal Gram(Gram),Thoubal,2017-02-01,13500.0,0.2,25.2,clear
+2001,Black Gram (Urd Beans),Thoubal,2017-02-01,15500.0,0.3,25.2,clear
+2002,Green Gram (Moong),Thoubal,2017-02-01,13500.0,0.3,25.2,clear
+2003,Lentil(Masur),Thoubal,2017-02-01,11500.0,0.4,25.2,clear
+2004,Arhar (Tur/Red Gram),Thoubal,2017-03-01,15500.0,0.3,26.8,clear
+2005,Bengal Gram(Gram),Thoubal,2017-03-01,11500.0,0.4,26.8,clear
+2006,Black Gram (Urd Beans),Thoubal,2017-03-01,15500.0,0.3,26.8,clear
+2007,Green Gram (Moong),Thoubal,2017-03-01,13500.0,0.4,26.8,clear
+2008,Lentil(Masur),Thoubal,2017-03-01,11500.0,0.4,26.8,clear
+2009,Arhar (Tur/Red Gram),Thoubal,2017-04-01,15500.0,0.4,23.8,rain
+2010,Bengal Gram(Gram),Thoubal,2017-04-01,11500.0,0.2,23.8,rain
+2011,Black Gram (Urd Beans),Thoubal,2017-04-01,15500.0,0.4,23.8,rain
+2012,Green Gram (Moong),Thoubal,2017-04-01,14500.0,0.5,23.8,rain
+2013,Lentil(Masur),Thoubal,2017-04-01,11500.0,0.3,23.8,rain
+2014,Arhar (Tur/Red Gram),Thoubal,2017-05-01,15500.0,0.2,30.0,clear
+2015,Bengal Gram(Gram),Thoubal,2017-05-01,11500.0,0.3,30.0,clear
+2016,Black Gram (Urd Beans),Thoubal,2017-05-01,15500.0,0.3,30.0,clear
+2017,Green Gram (Moong),Thoubal,2017-05-01,14500.0,0.4,30.0,clear
+2018,Lentil(Masur),Thoubal,2017-05-01,11500.0,0.5,30.0,clear
+2019,Arhar (Tur/Red Gram),Thoubal,2017-06-01,15500.0,0.3,26.0,clear
+2020,Bengal Gram(Gram),Thoubal,2017-06-01,11500.0,0.4,26.0,clear
+2021,Black Gram (Urd Beans),Thoubal,2017-06-01,15500.0,0.4,26.0,clear
+2022,Green Gram (Moong),Thoubal,2017-06-01,14500.0,0.3,26.0,clear
+2023,Lentil(Masur),Thoubal,2017-06-01,11500.0,0.5,26.0,clear
+2024,Arhar (Tur/Red Gram),Thoubal,2017-07-01,15500.0,0.4,26.4,clear
+2025,Bengal Gram(Gram),Thoubal,2017-07-01,11500.0,0.3,26.4,clear
+2026,Black Gram (Urd Beans),Thoubal,2017-07-01,15500.0,0.2,26.4,clear
+2027,Green Gram (Moong),Thoubal,2017-07-01,14500.0,0.3,26.4,clear
+2028,Lentil(Masur),Thoubal,2017-07-01,11500.0,0.5,26.4,clear
+2029,Arhar (Tur/Red Gram),Thoubal,2017-11-01,15500.0,0.3,24.4,clear
+2030,Bengal Gram(Gram),Thoubal,2017-11-01,11500.0,0.4,24.4,clear
+2031,Black Gram (Urd Beans),Thoubal,2017-11-01,15500.0,0.3,24.4,clear
+2032,Green Gram (Moong),Thoubal,2017-11-01,14500.0,0.4,24.4,clear
+2033,Lentil(Masur),Thoubal,2017-11-01,11500.0,0.6,24.4,clear
+2034,Arhar (Tur/Red Gram),Thoubal,2017-12-01,15500.0,0.4,24.0,clear
+2035,Bengal Gram(Gram),Thoubal,2017-12-01,11500.0,0.3,24.0,clear
+2036,Black Gram (Urd Beans),Thoubal,2017-12-01,15500.0,0.2,24.0,clear
+2037,Green Gram (Moong),Thoubal,2017-12-01,13500.0,0.4,24.0,clear
+2038,Lentil(Masur),Thoubal,2017-12-01,11500.0,0.5,24.0,clear
+2039,Arhar (Tur/Red Gram),Thoubal,2017-01-13,15500.0,0.3,21.4,clear
+2040,Bengal Gram(Gram),Thoubal,2017-01-13,11500.0,0.4,21.4,clear
+2041,Black Gram (Urd Beans),Thoubal,2017-01-13,15500.0,0.4,21.4,clear
+2042,Green Gram (Moong),Thoubal,2017-01-13,13500.0,0.3,21.4,clear
+2043,Lentil(Masur),Thoubal,2017-01-13,11500.0,0.5,21.4,clear
+2044,Arhar (Tur/Red Gram),Thoubal,2017-01-16,15500.0,0.4,21.0,clear
+2045,Bengal Gram(Gram),Thoubal,2017-01-16,10500.0,0.5,21.0,clear
+2046,Black Gram (Urd Beans),Thoubal,2017-01-16,15500.0,0.3,21.0,clear
+2047,Green Gram (Moong),Thoubal,2017-01-16,13500.0,0.4,21.0,clear
+2048,Lentil(Masur),Thoubal,2017-01-16,11500.0,0.6,21.0,clear
+2049,Arhar (Tur/Red Gram),Thoubal,2017-01-17,15500.0,0.4,22.4,clear
+2050,Bengal Gram(Gram),Thoubal,2017-01-17,10500.0,0.4,22.4,clear
+2051,Black Gram (Urd Beans),Thoubal,2017-01-17,15500.0,0.3,22.4,clear
+2052,Green Gram (Moong),Thoubal,2017-01-17,13500.0,0.5,22.4,clear
+2053,Lentil(Masur),Thoubal,2017-01-17,11500.0,0.5,22.4,clear
+2054,Arhar (Tur/Red Gram),Thoubal,2017-01-18,15500.0,0.3,23.2,clear
+2055,Bengal Gram(Gram),Thoubal,2017-01-18,10500.0,0.2,23.2,clear
+2056,Black Gram (Urd Beans),Thoubal,2017-01-18,15500.0,0.4,23.2,clear
+2057,Green Gram (Moong),Thoubal,2017-01-18,13500.0,0.4,23.2,clear
+2058,Lentil(Masur),Thoubal,2017-01-18,11500.0,0.4,23.2,clear
+2059,Arhar (Tur/Red Gram),Thoubal,2017-01-19,15500.0,0.4,23.0,clear
+2060,Bengal Gram(Gram),Thoubal,2017-01-19,10500.0,0.4,23.0,clear
+2061,Black Gram (Urd Beans),Thoubal,2017-01-19,15500.0,0.3,23.0,clear
+2062,Green Gram (Moong),Thoubal,2017-01-19,13500.0,0.3,23.0,clear
+2063,Lentil(Masur),Thoubal,2017-01-19,11500.0,0.5,23.0,clear
+2064,Arhar (Tur/Red Gram),Thoubal,2017-01-20,15500.0,0.3,23.8,clear
+2065,Bengal Gram(Gram),Thoubal,2017-01-20,11500.0,0.5,23.8,clear
+2066,Black Gram (Urd Beans),Thoubal,2017-01-20,15500.0,0.4,23.8,clear
+2067,Green Gram (Moong),Thoubal,2017-01-20,13500.0,0.4,23.8,clear
+2068,Lentil(Masur),Thoubal,2017-01-20,11500.0,0.6,23.8,clear
+2069,Arhar (Tur/Red Gram),Thoubal,2017-01-21,15500.0,0.4,24.4,clear
+2070,Bengal Gram(Gram),Thoubal,2017-01-21,11500.0,0.3,24.4,clear
+2071,Black Gram (Urd Beans),Thoubal,2017-01-21,15500.0,0.2,24.4,clear
+2072,Green Gram (Moong),Thoubal,2017-01-21,13500.0,0.3,24.4,clear
+2073,Lentil(Masur),Thoubal,2017-01-21,11500.0,0.5,24.4,clear
+2074,Arhar (Tur/Red Gram),Thoubal,2017-01-23,15500.0,0.2,24.6,clear
+2075,Bengal Gram(Gram),Thoubal,2017-01-23,11500.0,0.3,24.6,clear
+2076,Black Gram (Urd Beans),Thoubal,2017-01-23,15500.0,0.2,24.6,clear
+2077,Green Gram (Moong),Thoubal,2017-01-23,13500.0,0.3,24.6,clear
+2078,Lentil(Masur),Thoubal,2017-01-23,11500.0,0.5,24.6,clear
+2079,Arhar (Tur/Red Gram),Thoubal,2017-01-24,15500.0,0.4,25.2,clear
+2080,Bengal Gram(Gram),Thoubal,2017-01-24,11500.0,0.3,25.2,clear
+2081,Black Gram (Urd Beans),Thoubal,2017-01-24,15500.0,0.4,25.2,clear
+2082,Green Gram (Moong),Thoubal,2017-01-24,13500.0,0.2,25.2,clear
+2083,Lentil(Masur),Thoubal,2017-01-24,11500.0,0.5,25.2,clear
+2084,Arhar (Tur/Red Gram),Thoubal,2017-01-25,15500.0,0.3,26.0,clear
+2085,Bengal Gram(Gram),Thoubal,2017-01-25,11500.0,0.4,26.0,clear
+2086,Black Gram (Urd Beans),Thoubal,2017-01-25,15500.0,0.2,26.0,clear
+2087,Green Gram (Moong),Thoubal,2017-01-25,13500.0,0.3,26.0,clear
+2088,Lentil(Masur),Thoubal,2017-01-25,11500.0,0.3,26.0,clear
+2089,Arhar (Tur/Red Gram),Thoubal,2017-01-27,15500.0,0.2,26.6,clear
+2090,Bengal Gram(Gram),Thoubal,2017-01-27,11500.0,0.2,26.6,clear
+2091,Black Gram (Urd Beans),Thoubal,2017-01-27,15500.0,0.3,26.6,clear
+2092,Green Gram (Moong),Thoubal,2017-01-27,13500.0,0.4,26.6,clear
+2093,Lentil(Masur),Thoubal,2017-01-27,11500.0,0.5,26.6,clear
+2094,Arhar (Tur/Red Gram),Thoubal,2017-01-28,15500.0,0.4,23.8,clear
+2095,Bengal Gram(Gram),Thoubal,2017-01-28,11500.0,0.5,23.8,clear
+2096,Black Gram (Urd Beans),Thoubal,2017-01-28,15500.0,0.3,23.8,clear
+2097,Green Gram (Moong),Thoubal,2017-01-28,13500.0,0.5,23.8,clear
+2098,Lentil(Masur),Thoubal,2017-01-28,11500.0,0.5,23.8,clear
+2099,Arhar (Tur/Red Gram),Thoubal,2017-01-30,15500.0,0.2,23.8,clear
+2100,Bengal Gram(Gram),Thoubal,2017-01-30,11500.0,0.3,23.8,clear
+2101,Black Gram (Urd Beans),Thoubal,2017-01-30,15500.0,0.2,23.8,clear
+2102,Green Gram (Moong),Thoubal,2017-01-30,13500.0,0.2,23.8,clear
+2103,Lentil(Masur),Thoubal,2017-01-30,11500.0,0.4,23.8,clear
+2104,Arhar (Tur/Red Gram),Thoubal,2017-01-31,15500.0,0.4,23.0,clear
+2105,Bengal Gram(Gram),Thoubal,2017-01-31,11500.0,0.4,23.0,clear
+2106,Black Gram (Urd Beans),Thoubal,2017-01-31,15500.0,0.3,23.0,clear
+2107,Green Gram (Moong),Thoubal,2017-01-31,13500.0,0.5,23.0,clear
+2108,Lentil(Masur),Thoubal,2017-01-31,11500.0,0.6,23.0,clear
+2109,Arhar (Tur/Red Gram),Thoubal,2017-01-02,15500.0,0.3,25.4,clear
+2110,Bengal Gram(Gram),Thoubal,2017-01-02,11500.0,0.4,25.4,clear
+2111,Black Gram (Urd Beans),Thoubal,2017-01-02,15500.0,0.4,25.4,clear
+2112,Green Gram (Moong),Thoubal,2017-01-02,13500.0,0.5,25.4,clear
+2113,Lentil(Masur),Thoubal,2017-01-02,11500.0,0.5,25.4,clear
+2114,Arhar (Tur/Red Gram),Thoubal,2017-02-02,15500.0,0.4,24.6,clear
+2115,Bengal Gram(Gram),Thoubal,2017-02-02,11500.0,0.3,24.6,clear
+2116,Black Gram (Urd Beans),Thoubal,2017-02-02,15500.0,0.2,24.6,clear
+2117,Green Gram (Moong),Thoubal,2017-02-02,13500.0,0.3,24.6,clear
+2118,Lentil(Masur),Thoubal,2017-02-02,11500.0,0.4,24.6,clear
+2119,Arhar (Tur/Red Gram),Thoubal,2017-03-02,15500.0,0.4,26.0,clear
+2120,Bengal Gram(Gram),Thoubal,2017-03-02,11500.0,0.5,26.0,clear
+2121,Black Gram (Urd Beans),Thoubal,2017-03-02,15500.0,0.4,26.0,clear
+2122,Green Gram (Moong),Thoubal,2017-03-02,13500.0,0.4,26.0,clear
+2123,Lentil(Masur),Thoubal,2017-03-02,11500.0,0.5,26.0,clear
+2124,Arhar (Tur/Red Gram),Thoubal,2017-04-02,15500.0,0.3,25.7,clear
+2125,Bengal Gram(Gram),Thoubal,2017-04-02,11500.0,0.4,25.7,clear
+2126,Black Gram (Urd Beans),Thoubal,2017-04-02,15500.0,0.3,25.7,clear
+2127,Green Gram (Moong),Thoubal,2017-04-02,13500.0,0.4,25.7,clear
+2128,Lentil(Masur),Thoubal,2017-04-02,11500.0,0.3,25.7,clear
+2129,Arhar (Tur/Red Gram),Thoubal,2017-06-02,15500.0,0.2,26.4,clear
+2130,Bengal Gram(Gram),Thoubal,2017-06-02,11500.0,0.3,26.4,clear
+2131,Black Gram (Urd Beans),Thoubal,2017-06-02,15500.0,0.2,26.4,clear
+2132,Green Gram (Moong),Thoubal,2017-06-02,13500.0,0.2,26.4,clear
+2133,Lentil(Masur),Thoubal,2017-06-02,11500.0,0.4,26.4,clear
+2134,Arhar (Tur/Red Gram),Thoubal,2017-07-02,15500.0,0.4,28.0,rain
+2135,Bengal Gram(Gram),Thoubal,2017-07-02,11500.0,0.5,28.0,rain
+2136,Black Gram (Urd Beans),Thoubal,2017-07-02,15500.0,0.3,28.0,rain
+2137,Green Gram (Moong),Thoubal,2017-07-02,13500.0,0.4,28.0,rain
+2138,Lentil(Masur),Thoubal,2017-07-02,11500.0,0.6,28.0,rain
+2139,Arhar (Tur/Red Gram),Thoubal,2017-08-02,15500.0,0.3,30.8,clear
+2140,Bengal Gram(Gram),Thoubal,2017-08-02,11500.0,0.4,30.8,clear
+2141,Black Gram (Urd Beans),Thoubal,2017-08-02,15500.0,0.4,30.8,clear
+2142,Green Gram (Moong),Thoubal,2017-08-02,13500.0,0.2,30.8,clear
+2143,Lentil(Masur),Thoubal,2017-08-02,11500.0,0.4,30.8,clear
+2144,Arhar (Tur/Red Gram),Thoubal,2017-09-02,15500.0,0.4,27.4,clear
+2145,Bengal Gram(Gram),Thoubal,2017-09-02,11500.0,0.2,27.4,clear
+2146,Black Gram (Urd Beans),Thoubal,2017-09-02,15500.0,0.3,27.4,clear
+2147,Green Gram (Moong),Thoubal,2017-09-02,13500.0,0.4,27.4,clear
+2148,Lentil(Masur),Thoubal,2017-09-02,11500.0,0.5,27.4,clear
+2149,Arhar (Tur/Red Gram),Thoubal,2017-10-02,15500.0,0.3,31.0,clear
+2150,Bengal Gram(Gram),Thoubal,2017-10-02,10500.0,0.4,31.0,clear
+2151,Black Gram (Urd Beans),Thoubal,2017-10-02,14500.0,0.5,31.0,clear
+2152,Green Gram (Moong),Thoubal,2017-10-02,13500.0,0.4,31.0,clear
+2153,Lentil(Masur),Thoubal,2017-10-02,11500.0,0.6,31.0,clear
+2154,Arhar (Tur/Red Gram),Thoubal,2017-02-13,15500.0,0.3,26.2,clear
+2155,Bengal Gram(Gram),Thoubal,2017-02-13,10500.0,0.5,26.2,clear
+2156,Black Gram (Urd Beans),Thoubal,2017-02-13,14500.0,0.3,26.2,clear
+2157,Green Gram (Moong),Thoubal,2017-02-13,13500.0,0.4,26.2,clear
+2158,Lentil(Masur),Thoubal,2017-02-13,11500.0,0.6,26.2,clear
+2159,Arhar (Tur/Red Gram),Thoubal,2017-02-14,15500.0,0.4,26.2,clear
+2160,Bengal Gram(Gram),Thoubal,2017-02-14,10500.0,0.5,26.2,clear
+2161,Black Gram (Urd Beans),Thoubal,2017-02-14,14500.0,0.5,26.2,clear
+2162,Green Gram (Moong),Thoubal,2017-02-14,13500.0,0.4,26.2,clear
+2163,Lentil(Masur),Thoubal,2017-02-14,11500.0,0.7,26.2,clear
+2164,Arhar (Tur/Red Gram),Thoubal,2017-02-16,15500.0,0.3,26.4,clear
+2165,Bengal Gram(Gram),Thoubal,2017-02-16,10500.0,0.4,26.4,clear
+2166,Black Gram (Urd Beans),Thoubal,2017-02-16,14500.0,0.3,26.4,clear
+2167,Green Gram (Moong),Thoubal,2017-02-16,13500.0,0.5,26.4,clear
+2168,Lentil(Masur),Thoubal,2017-02-16,11500.0,0.6,26.4,clear
+2169,Arhar (Tur/Red Gram),Thoubal,2017-02-17,15500.0,0.4,27.0,clear
+2170,Bengal Gram(Gram),Thoubal,2017-02-17,11500.0,0.5,27.0,clear
+2171,Black Gram (Urd Beans),Thoubal,2017-02-17,15500.0,0.4,27.0,clear
+2172,Green Gram (Moong),Thoubal,2017-02-17,13500.0,0.6,27.0,clear
+2173,Lentil(Masur),Thoubal,2017-02-17,11500.0,0.5,27.0,clear
+2174,Arhar (Tur/Red Gram),Thoubal,2017-02-18,15500.0,0.5,28.2,clear
+2175,Bengal Gram(Gram),Thoubal,2017-02-18,11500.0,0.3,28.2,clear
+2176,Black Gram (Urd Beans),Thoubal,2017-02-18,15500.0,0.4,28.2,clear
+2177,Green Gram (Moong),Thoubal,2017-02-18,13500.0,0.4,28.2,clear
+2178,Lentil(Masur),Thoubal,2017-02-18,11500.0,0.5,28.2,clear
+2179,Arhar (Tur/Red Gram),Thoubal,2017-02-20,15500.0,0.3,22.4,clear
+2180,Bengal Gram(Gram),Thoubal,2017-02-20,11500.0,0.5,22.4,clear
+2181,Black Gram (Urd Beans),Thoubal,2017-02-20,15500.0,0.4,22.4,clear
+2182,Green Gram (Moong),Thoubal,2017-02-20,13500.0,0.5,22.4,clear
+2183,Lentil(Masur),Thoubal,2017-02-20,11500.0,0.6,22.4,clear
+2184,Arhar (Tur/Red Gram),Thoubal,2017-02-21,15500.0,0.4,19.8,rain
+2185,Bengal Gram(Gram),Thoubal,2017-02-21,11500.0,0.3,19.8,rain
+2186,Black Gram (Urd Beans),Thoubal,2017-02-21,15500.0,0.5,19.8,rain
+2187,Green Gram (Moong),Thoubal,2017-02-21,13500.0,0.3,19.8,rain
+2188,Lentil(Masur),Thoubal,2017-02-21,11500.0,0.5,19.8,rain
+2189,Arhar (Tur/Red Gram),Thoubal,2017-02-22,15500.0,0.5,25.0,clear
+2190,Bengal Gram(Gram),Thoubal,2017-02-22,11500.0,0.5,25.0,clear
+2191,Black Gram (Urd Beans),Thoubal,2017-02-22,15500.0,0.4,25.0,clear
+2192,Green Gram (Moong),Thoubal,2017-02-22,13500.0,0.4,25.0,clear
+2193,Lentil(Masur),Thoubal,2017-02-22,11500.0,0.6,25.0,clear
+2194,Arhar (Tur/Red Gram),Thoubal,2017-02-23,15500.0,0.3,22.2,clear
+2195,Bengal Gram(Gram),Thoubal,2017-02-23,11500.0,0.4,22.2,clear
+2196,Black Gram (Urd Beans),Thoubal,2017-02-23,15500.0,0.4,22.2,clear
+2197,Green Gram (Moong),Thoubal,2017-02-23,13500.0,0.3,22.2,clear
+2198,Lentil(Masur),Thoubal,2017-02-23,11500.0,0.4,22.2,clear
+2199,Arhar (Tur/Red Gram),Thoubal,2017-02-24,15500.0,0.5,24.2,clear
+2200,Bengal Gram(Gram),Thoubal,2017-02-24,11500.0,0.4,24.2,clear
+2201,Black Gram (Urd Beans),Thoubal,2017-02-24,15500.0,0.4,24.2,clear
+2202,Green Gram (Moong),Thoubal,2017-02-24,13500.0,0.5,24.2,clear
+2203,Lentil(Masur),Thoubal,2017-02-24,11500.0,0.5,24.2,clear
+2204,Arhar (Tur/Red Gram),Thoubal,2017-02-25,15500.0,0.3,24.0,clear
+2205,Bengal Gram(Gram),Thoubal,2017-02-25,11500.0,0.3,24.0,clear
+2206,Black Gram (Urd Beans),Thoubal,2017-02-25,15500.0,0.4,24.0,clear
+2207,Green Gram (Moong),Thoubal,2017-02-25,13500.0,0.4,24.0,clear
+2208,Lentil(Masur),Thoubal,2017-02-25,11550.0,0.5,24.0,clear
+2209,Arhar (Tur/Red Gram),Thoubal,2017-02-28,15500.0,0.5,25.8,clear
+2210,Bengal Gram(Gram),Thoubal,2017-02-28,11500.0,0.4,25.8,clear
+2211,Black Gram (Urd Beans),Thoubal,2017-02-28,15500.0,0.4,25.8,clear
+2212,Green Gram (Moong),Thoubal,2017-02-28,13500.0,0.4,25.8,clear
+2213,Lentil(Masur),Thoubal,2017-02-28,11500.0,0.6,25.8,clear
+2214,Arhar (Tur/Red Gram),Thoubal,2017-01-03,15500.0,0.4,25.4,clear
+2215,Bengal Gram(Gram),Thoubal,2017-01-03,11500.0,0.3,25.4,clear
+2216,Black Gram (Urd Beans),Thoubal,2017-01-03,15500.0,0.5,25.4,clear
+2217,Green Gram (Moong),Thoubal,2017-01-03,13500.0,0.3,25.4,clear
+2218,Lentil(Masur),Thoubal,2017-01-03,11500.0,0.5,25.4,clear
+2219,Arhar (Tur/Red Gram),Thoubal,2017-02-03,15500.0,0.4,25.4,clear
+2220,Bengal Gram(Gram),Thoubal,2017-02-03,11500.0,0.3,25.4,clear
+2221,Black Gram (Urd Beans),Thoubal,2017-02-03,15500.0,0.3,25.4,clear
+2222,Green Gram (Moong),Thoubal,2017-02-03,13500.0,0.5,25.4,clear
+2223,Lentil(Masur),Thoubal,2017-02-03,11500.0,0.7,25.4,clear
+2224,Arhar (Tur/Red Gram),Thoubal,2017-03-03,15500.0,0.5,27.8,clear
+2225,Bengal Gram(Gram),Thoubal,2017-03-03,11500.0,0.4,27.8,clear
+2226,Black Gram (Urd Beans),Thoubal,2017-03-03,15500.0,0.4,27.8,clear
+2227,Green Gram (Moong),Thoubal,2017-03-03,13500.0,0.3,27.8,clear
+2228,Lentil(Masur),Thoubal,2017-03-03,11500.0,0.6,27.8,clear
+2229,Arhar (Tur/Red Gram),Thoubal,2017-06-03,15500.0,0.5,23.4,clear
+2230,Bengal Gram(Gram),Thoubal,2017-06-03,11500.0,0.6,23.4,clear
+2231,Black Gram (Urd Beans),Thoubal,2017-06-03,15500.0,0.5,23.4,clear
+2232,Green Gram (Moong),Thoubal,2017-06-03,13500.0,0.5,23.4,clear
+2233,Lentil(Masur),Thoubal,2017-06-03,11500.0,0.8,23.4,clear
+2234,Arhar (Tur/Red Gram),Thoubal,2017-07-03,14500.0,0.4,29.2,clear
+2235,Bengal Gram(Gram),Thoubal,2017-07-03,11500.0,0.5,29.2,clear
+2236,Black Gram (Urd Beans),Thoubal,2017-07-03,15500.0,0.3,29.2,clear
+2237,Green Gram (Moong),Thoubal,2017-07-03,13500.0,0.4,29.2,clear
+2238,Lentil(Masur),Thoubal,2017-07-03,11500.0,0.6,29.2,clear
+2239,Arhar (Tur/Red Gram),Thoubal,2017-08-03,14500.0,0.5,32.2,clear
+2240,Bengal Gram(Gram),Thoubal,2017-08-03,11500.0,0.7,32.2,clear
+2241,Black Gram (Urd Beans),Thoubal,2017-08-03,15500.0,0.5,32.2,clear
+2242,Green Gram (Moong),Thoubal,2017-08-03,13500.0,0.5,32.2,clear
+2243,Lentil(Masur),Thoubal,2017-08-03,11500.0,0.8,32.2,clear
+2244,Arhar (Tur/Red Gram),Thoubal,2017-09-03,14500.0,0.4,28.2,rain
+2245,Bengal Gram(Gram),Thoubal,2017-09-03,11500.0,0.6,28.2,rain
+2246,Black Gram (Urd Beans),Thoubal,2017-09-03,15500.0,0.4,28.2,rain
+2247,Green Gram (Moong),Thoubal,2017-09-03,13500.0,0.4,28.2,rain
+2248,Lentil(Masur),Thoubal,2017-09-03,11500.0,0.7,28.2,rain
+2249,Arhar (Tur/Red Gram),Thoubal,2017-10-03,14500.0,0.5,31.0,rain
+2250,Bengal Gram(Gram),Thoubal,2017-10-03,11500.0,0.6,31.0,rain
+2251,Black Gram (Urd Beans),Thoubal,2017-10-03,15500.0,0.4,31.0,rain
+2252,Green Gram (Moong),Thoubal,2017-10-03,13500.0,0.4,31.0,rain
+2253,Lentil(Masur),Thoubal,2017-10-03,11500.0,0.6,31.0,rain
+2254,Arhar (Tur/Red Gram),Thoubal,2017-03-17,15500.0,0.5,26.8,clear
+2255,Bengal Gram(Gram),Thoubal,2017-03-17,11500.0,0.7,26.8,clear
+2256,Black Gram (Urd Beans),Thoubal,2017-03-17,15500.0,0.5,26.8,clear
+2257,Green Gram (Moong),Thoubal,2017-03-17,13500.0,0.5,26.8,clear
+2258,Lentil(Masur),Thoubal,2017-03-17,11500.0,0.8,26.8,clear
+2259,Arhar (Tur/Red Gram),Thoubal,2017-03-18,15500.0,0.4,19.0,rain
+2260,Bengal Gram(Gram),Thoubal,2017-03-18,11500.0,0.5,19.0,rain
+2261,Black Gram (Urd Beans),Thoubal,2017-03-18,15500.0,0.6,19.0,rain
+2262,Green Gram (Moong),Thoubal,2017-03-18,13500.0,0.4,19.0,rain
+2263,Lentil(Masur),Thoubal,2017-03-18,11500.0,0.6,19.0,rain
+2264,Arhar (Tur/Red Gram),Thoubal,2017-03-20,15500.0,0.4,19.0,rain
+2265,Bengal Gram(Gram),Thoubal,2017-03-20,11500.0,0.3,19.0,rain
+2266,Black Gram (Urd Beans),Thoubal,2017-03-20,15500.0,0.4,19.0,rain
+2267,Green Gram (Moong),Thoubal,2017-03-20,13500.0,0.4,19.0,rain
+2268,Lentil(Masur),Thoubal,2017-03-20,11500.0,0.5,19.0,rain
+2269,Arhar (Tur/Red Gram),Thoubal,2017-03-21,15500.0,0.5,22.4,clear
+2270,Bengal Gram(Gram),Thoubal,2017-03-21,11500.0,0.6,22.4,clear
+2271,Black Gram (Urd Beans),Thoubal,2017-03-21,15500.0,0.5,22.4,clear
+2272,Green Gram (Moong),Thoubal,2017-03-21,13500.0,0.5,22.4,clear
+2273,Lentil(Masur),Thoubal,2017-03-21,11500.0,0.6,22.4,clear
+2274,Arhar (Tur/Red Gram),Thoubal,2017-03-22,15500.0,0.4,25.8,clear
+2275,Bengal Gram(Gram),Thoubal,2017-03-22,11500.0,0.5,25.8,clear
+2276,Black Gram (Urd Beans),Thoubal,2017-03-22,15500.0,0.3,25.8,clear
+2277,Green Gram (Moong),Thoubal,2017-03-22,13500.0,0.4,25.8,clear
+2278,Lentil(Masur),Thoubal,2017-03-22,11500.0,0.7,25.8,clear
+2279,Arhar (Tur/Red Gram),Thoubal,2017-03-23,15500.0,0.3,27.4,clear
+2280,Bengal Gram(Gram),Thoubal,2017-03-23,11500.0,0.6,27.4,clear
+2281,Black Gram (Urd Beans),Thoubal,2017-03-23,15500.0,0.5,27.4,clear
+2282,Green Gram (Moong),Thoubal,2017-03-23,13500.0,0.4,27.4,clear
+2283,Lentil(Masur),Thoubal,2017-03-23,11500.0,0.6,27.4,clear
+2284,Arhar (Tur/Red Gram),Thoubal,2017-03-24,14500.0,0.5,26.4,clear
+2285,Bengal Gram(Gram),Thoubal,2017-03-24,11500.0,0.4,26.4,clear
+2286,Black Gram (Urd Beans),Thoubal,2017-03-24,14500.0,0.4,26.4,clear
+2287,Green Gram (Moong),Thoubal,2017-03-24,13500.0,0.5,26.4,clear
+2288,Lentil(Masur),Thoubal,2017-03-24,11500.0,0.8,26.4,clear
+2289,Arhar (Tur/Red Gram),Thoubal,2017-03-25,14500.0,0.3,25.8,clear
+2290,Bengal Gram(Gram),Thoubal,2017-03-25,11500.0,0.5,25.8,clear
+2291,Black Gram (Urd Beans),Thoubal,2017-03-25,14500.0,0.4,25.8,clear
+2292,Green Gram (Moong),Thoubal,2017-03-25,13500.0,0.3,25.8,clear
+2293,Lentil(Masur),Thoubal,2017-03-25,11500.0,0.6,25.8,clear
+2294,Arhar (Tur/Red Gram),Thoubal,2017-03-27,14500.0,0.4,30.2,clear
+2295,Bengal Gram(Gram),Thoubal,2017-03-27,11500.0,0.4,30.2,clear
+2296,Black Gram (Urd Beans),Thoubal,2017-03-27,14500.0,0.3,30.2,clear
+2297,Green Gram (Moong),Thoubal,2017-03-27,13500.0,0.4,30.2,clear
+2298,Lentil(Masur),Thoubal,2017-03-27,11500.0,0.6,30.2,clear
+2299,Arhar (Tur/Red Gram),Thoubal,2017-03-28,14500.0,0.6,29.4,clear
+2300,Bengal Gram(Gram),Thoubal,2017-03-28,11500.0,0.5,29.4,clear
+2301,Black Gram (Urd Beans),Thoubal,2017-03-28,14500.0,0.4,29.4,clear
+2302,Green Gram (Moong),Thoubal,2017-03-28,13500.0,0.5,29.4,clear
+2303,Lentil(Masur),Thoubal,2017-03-28,11500.0,0.8,29.4,clear
+2304,Arhar (Tur/Red Gram),Thoubal,2017-03-30,14500.0,0.7,20.0,rain
+2305,Bengal Gram(Gram),Thoubal,2017-03-30,11500.0,0.6,20.0,rain
+2306,Black Gram (Urd Beans),Thoubal,2017-03-30,14500.0,0.5,20.0,rain
+2307,Green Gram (Moong),Thoubal,2017-03-30,13500.0,0.4,20.0,rain
+2308,Lentil(Masur),Thoubal,2017-03-30,11500.0,0.7,20.0,rain
+2309,Arhar (Tur/Red Gram),Thoubal,2017-03-31,14500.0,0.5,23.2,rain
+2310,Bengal Gram(Gram),Thoubal,2017-03-31,11500.0,0.4,23.2,rain
+2311,Black Gram (Urd Beans),Thoubal,2017-03-31,13500.0,0.4,23.2,rain
+2312,Green Gram (Moong),Thoubal,2017-03-31,13500.0,0.4,23.2,rain
+2313,Lentil(Masur),Thoubal,2017-03-31,11500.0,0.6,23.2,rain
+2314,Arhar (Tur/Red Gram),Thoubal,2017-01-04,14500.0,0.4,22.8,clear
+2315,Bengal Gram(Gram),Thoubal,2017-01-04,11500.0,0.3,22.8,clear
+2316,Black Gram (Urd Beans),Thoubal,2017-01-04,13500.0,0.4,22.8,clear
+2317,Green Gram (Moong),Thoubal,2017-01-04,13500.0,0.3,22.8,clear
+2318,Lentil(Masur),Thoubal,2017-01-04,11500.0,0.5,22.8,clear
+2319,Arhar (Tur/Red Gram),Thoubal,2017-03-04,14500.0,0.3,24.0,clear
+2320,Bengal Gram(Gram),Thoubal,2017-03-04,11500.0,0.3,24.0,clear
+2321,Black Gram (Urd Beans),Thoubal,2017-03-04,13500.0,0.4,24.0,clear
+2322,Green Gram (Moong),Thoubal,2017-03-04,13500.0,0.4,24.0,clear
+2323,Lentil(Masur),Thoubal,2017-03-04,11500.0,0.6,24.0,clear
+2324,Arhar (Tur/Red Gram),Thoubal,2017-04-04,14500.0,0.4,17.4,rain
+2325,Bengal Gram(Gram),Thoubal,2017-04-04,10500.0,0.5,17.4,rain
+2326,Black Gram (Urd Beans),Thoubal,2017-04-04,13500.0,0.4,17.4,rain
+2327,Green Gram (Moong),Thoubal,2017-04-04,13500.0,0.5,17.4,rain
+2328,Lentil(Masur),Thoubal,2017-04-04,10500.0,0.5,17.4,rain
+2329,Arhar (Tur/Red Gram),Thoubal,2017-05-04,14500.0,0.5,29.4,clear
+2330,Bengal Gram(Gram),Thoubal,2017-05-04,10500.0,0.4,29.4,clear
+2331,Black Gram (Urd Beans),Thoubal,2017-05-04,13500.0,0.3,29.4,clear
+2332,Green Gram (Moong),Thoubal,2017-05-04,13500.0,0.4,29.4,clear
+2333,Lentil(Masur),Thoubal,2017-05-04,10500.0,0.7,29.4,clear
+2334,Arhar (Tur/Red Gram),Thoubal,2017-06-04,13500.0,0.6,25.4,clear
+2335,Bengal Gram(Gram),Thoubal,2017-06-04,10500.0,0.5,25.4,clear
+2336,Black Gram (Urd Beans),Thoubal,2017-06-04,13500.0,0.5,25.4,clear
+2337,Green Gram (Moong),Thoubal,2017-06-04,13500.0,0.5,25.4,clear
+2338,Lentil(Masur),Thoubal,2017-06-04,11500.0,0.8,25.4,clear
+2339,Arhar (Tur/Red Gram),Thoubal,2017-07-04,13500.0,0.4,28.2,clear
+2340,Bengal Gram(Gram),Thoubal,2017-07-04,10500.0,0.4,28.2,clear
+2341,Black Gram (Urd Beans),Thoubal,2017-07-04,13500.0,0.3,28.2,clear
+2342,Green Gram (Moong),Thoubal,2017-07-04,13500.0,0.4,28.2,clear
+2343,Lentil(Masur),Thoubal,2017-07-04,11500.0,0.6,28.2,clear
+2344,Arhar (Tur/Red Gram),Thoubal,2017-10-04,13500.0,0.4,30.4,clear
+2345,Bengal Gram(Gram),Thoubal,2017-10-04,10500.0,0.3,30.4,clear
+2346,Black Gram (Urd Beans),Thoubal,2017-10-04,13500.0,0.4,30.4,clear
+2347,Green Gram (Moong),Thoubal,2017-10-04,13500.0,0.4,30.4,clear
+2348,Lentil(Masur),Thoubal,2017-10-04,11500.0,0.5,30.4,clear
+2349,Arhar (Tur/Red Gram),Thoubal,2017-11-04,13500.0,0.5,27.4,clear
+2350,Bengal Gram(Gram),Thoubal,2017-11-04,10500.0,0.4,27.4,clear
+2351,Black Gram (Urd Beans),Thoubal,2017-11-04,13500.0,0.5,27.4,clear
+2352,Green Gram (Moong),Thoubal,2017-11-04,13500.0,0.5,27.4,clear
+2353,Lentil(Masur),Thoubal,2017-11-04,11500.0,0.7,27.4,clear
+2354,Arhar (Tur/Red Gram),Thoubal,2017-12-04,13500.0,0.3,23.0,clear
+2355,Bengal Gram(Gram),Thoubal,2017-12-04,10500.0,0.5,23.0,clear
+2356,Black Gram (Urd Beans),Thoubal,2017-12-04,13500.0,0.4,23.0,clear
+2357,Green Gram (Moong),Thoubal,2017-12-04,13500.0,0.5,23.0,clear
+2358,Lentil(Masur),Thoubal,2017-12-04,11500.0,0.8,23.0,clear
+2359,Arhar (Tur/Red Gram),Thoubal,2017-04-13,13500.0,0.4,31.0,clear
+2360,Bengal Gram(Gram),Thoubal,2017-04-13,10500.0,0.4,31.0,clear
+2361,Black Gram (Urd Beans),Thoubal,2017-04-13,13500.0,0.5,31.0,clear
+2362,Green Gram (Moong),Thoubal,2017-04-13,13500.0,0.6,31.0,clear
+2363,Lentil(Masur),Thoubal,2017-04-13,11500.0,0.7,31.0,clear
+2364,Arhar (Tur/Red Gram),Thoubal,2017-04-15,13500.0,0.6,30.4,clear
+2365,Bengal Gram(Gram),Thoubal,2017-04-15,11500.0,0.5,30.4,clear
+2366,Black Gram (Urd Beans),Thoubal,2017-04-15,13500.0,0.5,30.4,clear
+2367,Green Gram (Moong),Thoubal,2017-04-15,13500.0,0.5,30.4,clear
+2368,Lentil(Masur),Thoubal,2017-04-15,10500.0,0.8,30.4,clear
+2369,Arhar (Tur/Red Gram),Thoubal,2017-04-17,13500.0,0.3,27.4,clear
+2370,Bengal Gram(Gram),Thoubal,2017-04-17,11500.0,0.4,27.4,clear
+2371,Black Gram (Urd Beans),Thoubal,2017-04-17,13500.0,0.4,27.4,clear
+2372,Green Gram (Moong),Thoubal,2017-04-17,13500.0,0.5,27.4,clear
+2373,Lentil(Masur),Thoubal,2017-04-17,10500.0,0.6,27.4,clear
+2374,Arhar (Tur/Red Gram),Thoubal,2017-04-18,13500.0,0.6,29.6,clear
+2375,Bengal Gram(Gram),Thoubal,2017-04-18,11500.0,0.5,29.6,clear
+2376,Black Gram (Urd Beans),Thoubal,2017-04-18,13500.0,0.5,29.6,clear
+2377,Green Gram (Moong),Thoubal,2017-04-18,13500.0,0.6,29.6,clear
+2378,Lentil(Masur),Thoubal,2017-04-18,11500.0,0.7,29.6,clear
+2379,Arhar (Tur/Red Gram),Thoubal,2017-04-19,13500.0,0.4,25.4,rain
+2380,Bengal Gram(Gram),Thoubal,2017-04-19,11500.0,0.7,25.4,rain
+2381,Black Gram (Urd Beans),Thoubal,2017-04-19,13500.0,0.5,25.4,rain
+2382,Green Gram (Moong),Thoubal,2017-04-19,13500.0,0.4,25.4,rain
+2383,Lentil(Masur),Thoubal,2017-04-19,11500.0,0.8,25.4,rain
+2384,Arhar (Tur/Red Gram),Thoubal,2017-04-20,13500.0,0.3,25.2,clear
+2385,Bengal Gram(Gram),Thoubal,2017-04-20,11500.0,0.6,25.2,clear
+2386,Black Gram (Urd Beans),Thoubal,2017-04-20,13500.0,0.5,25.2,clear
+2387,Green Gram (Moong),Thoubal,2017-04-20,13500.0,0.5,25.2,clear
+2388,Lentil(Masur),Thoubal,2017-04-20,11500.0,0.6,25.2,clear
+2389,Arhar (Tur/Red Gram),Thoubal,2017-04-21,13500.0,0.6,21.4,clear
+2390,Bengal Gram(Gram),Thoubal,2017-04-21,10500.0,0.5,21.4,clear
+2391,Black Gram (Urd Beans),Thoubal,2017-04-21,13500.0,0.4,21.4,clear
+2392,Green Gram (Moong),Thoubal,2017-04-21,11500.0,0.4,21.4,clear
+2393,Lentil(Masur),Thoubal,2017-04-21,10500.0,0.8,21.4,clear
+2394,Arhar (Tur/Red Gram),Thoubal,2017-04-22,13500.0,0.4,24.6,rain
+2395,Bengal Gram(Gram),Thoubal,2017-04-22,10500.0,0.7,24.6,rain
+2396,Black Gram (Urd Beans),Thoubal,2017-04-22,13500.0,0.6,24.6,rain
+2397,Green Gram (Moong),Thoubal,2017-04-22,11500.0,0.5,24.6,rain
+2398,Lentil(Masur),Thoubal,2017-04-22,10500.0,0.6,24.6,rain
+2399,Arhar (Tur/Red Gram),Thoubal,2017-04-24,13500.0,0.6,23.6,clear
+2400,Bengal Gram(Gram),Thoubal,2017-04-24,10500.0,0.5,23.6,clear
+2401,Black Gram (Urd Beans),Thoubal,2017-04-24,13500.0,0.4,23.6,clear
+2402,Green Gram (Moong),Thoubal,2017-04-24,11500.0,0.6,23.6,clear
+2403,Lentil(Masur),Thoubal,2017-04-24,10500.0,0.8,23.6,clear
+2404,Arhar (Tur/Red Gram),Thoubal,2017-04-25,13500.0,0.4,26.0,rain
+2405,Bengal Gram(Gram),Thoubal,2017-04-25,10500.0,0.6,26.0,rain
+2406,Black Gram (Urd Beans),Thoubal,2017-04-25,13500.0,0.3,26.0,rain
+2407,Green Gram (Moong),Thoubal,2017-04-25,11500.0,0.5,26.0,rain
+2408,Lentil(Masur),Thoubal,2017-04-25,10500.0,0.7,26.0,rain
+2409,Arhar (Tur/Red Gram),Thoubal,2017-04-26,13500.0,0.6,27.6,clear
+2410,Bengal Gram(Gram),Thoubal,2017-04-26,10500.0,0.4,27.6,clear
+2411,Black Gram (Urd Beans),Thoubal,2017-04-26,13500.0,0.5,27.6,clear
+2412,Green Gram (Moong),Thoubal,2017-04-26,11500.0,0.3,27.6,clear
+2413,Lentil(Masur),Thoubal,2017-04-26,10500.0,0.8,27.6,clear
+2414,Arhar (Tur/Red Gram),Thoubal,2017-04-27,13500.0,0.4,26.8,clear
+2415,Bengal Gram(Gram),Thoubal,2017-04-27,10500.0,0.6,26.8,clear
+2416,Black Gram (Urd Beans),Thoubal,2017-04-27,13500.0,0.4,26.8,clear
+2417,Green Gram (Moong),Thoubal,2017-04-27,11500.0,0.7,26.8,clear
+2418,Lentil(Masur),Thoubal,2017-04-27,10500.0,0.7,26.8,clear
+2419,Arhar (Tur/Red Gram),Thoubal,2017-04-29,13500.0,0.5,29.6,clear
+2420,Bengal Gram(Gram),Thoubal,2017-04-29,9500.0,0.6,29.6,clear
+2421,Black Gram (Urd Beans),Thoubal,2017-04-29,13500.0,0.5,29.6,clear
+2422,Green Gram (Moong),Thoubal,2017-04-29,11500.0,0.6,29.6,clear
+2423,Lentil(Masur),Thoubal,2017-04-29,10500.0,0.8,29.6,clear
+2424,Arhar (Tur/Red Gram),Thoubal,2017-02-05,13500.0,0.3,26.8,clear
+2425,Bengal Gram(Gram),Thoubal,2017-02-05,9500.0,0.4,26.8,clear
+2426,Black Gram (Urd Beans),Thoubal,2017-02-05,13500.0,0.4,26.8,clear
+2427,Green Gram (Moong),Thoubal,2017-02-05,11500.0,0.4,26.8,clear
+2428,Lentil(Masur),Thoubal,2017-02-05,10500.0,0.6,26.8,clear
+2429,Arhar (Tur/Red Gram),Thoubal,2017-03-05,13500.0,0.5,21.0,clear
+2430,Bengal Gram(Gram),Thoubal,2017-03-05,9500.0,0.6,21.0,clear
+2431,Black Gram (Urd Beans),Thoubal,2017-03-05,13500.0,0.5,21.0,clear
+2432,Green Gram (Moong),Thoubal,2017-03-05,11500.0,0.6,21.0,clear
+2433,Lentil(Masur),Thoubal,2017-03-05,10500.0,0.7,21.0,clear
+2434,Arhar (Tur/Red Gram),Thoubal,2017-04-05,13500.0,0.5,22.6,clear
+2435,Bengal Gram(Gram),Thoubal,2017-04-05,9500.0,0.5,22.6,clear
+2436,Black Gram (Urd Beans),Thoubal,2017-04-05,13500.0,0.4,22.6,clear
+2437,Green Gram (Moong),Thoubal,2017-04-05,11500.0,0.5,22.6,clear
+2438,Lentil(Masur),Thoubal,2017-04-05,10500.0,0.6,22.6,clear
+2439,Arhar (Tur/Red Gram),Thoubal,2017-05-05,12500.0,0.6,29.6,clear
+2440,Bengal Gram(Gram),Thoubal,2017-05-05,9500.0,0.5,29.6,clear
+2441,Black Gram (Urd Beans),Thoubal,2017-05-05,12500.0,0.4,29.6,clear
+2442,Green Gram (Moong),Thoubal,2017-05-05,11500.0,0.5,29.6,clear
+2443,Lentil(Masur),Thoubal,2017-05-05,9500.0,0.8,29.6,clear
+2444,Arhar (Tur/Red Gram),Thoubal,2017-06-05,12500.0,0.3,30.2,clear
+2445,Bengal Gram(Gram),Thoubal,2017-06-05,9500.0,0.4,30.2,clear
+2446,Black Gram (Urd Beans),Thoubal,2017-06-05,12500.0,0.4,30.2,clear
+2447,Green Gram (Moong),Thoubal,2017-06-05,11500.0,0.3,30.2,clear
+2448,Lentil(Masur),Thoubal,2017-06-05,9500.0,0.7,30.2,clear
+2449,Arhar (Tur/Red Gram),Thoubal,2017-08-05,12500.0,0.4,27.2,clear
+2450,Bengal Gram(Gram),Thoubal,2017-08-05,9500.0,0.3,27.2,clear
+2451,Black Gram (Urd Beans),Thoubal,2017-08-05,12500.0,0.4,27.2,clear
+2452,Green Gram (Moong),Thoubal,2017-08-05,11500.0,0.4,27.2,clear
+2453,Lentil(Masur),Thoubal,2017-08-05,9500.0,0.5,27.2,clear
+2454,Arhar (Tur/Red Gram),Thoubal,2017-09-05,12500.0,0.5,30.6,clear
+2455,Bengal Gram(Gram),Thoubal,2017-09-05,9500.0,0.4,30.6,clear
+2456,Black Gram (Urd Beans),Thoubal,2017-09-05,12500.0,0.6,30.6,clear
+2457,Green Gram (Moong),Thoubal,2017-09-05,11500.0,0.5,30.6,clear
+2458,Lentil(Masur),Thoubal,2017-09-05,9500.0,0.7,30.6,clear
+2459,Arhar (Tur/Red Gram),Thoubal,2017-10-05,12500.0,0.4,31.8,clear
+2460,Bengal Gram(Gram),Thoubal,2017-10-05,9500.0,0.6,31.8,clear
+2461,Black Gram (Urd Beans),Thoubal,2017-10-05,12500.0,0.4,31.8,clear
+2462,Green Gram (Moong),Thoubal,2017-10-05,11500.0,0.4,31.8,clear
+2463,Lentil(Masur),Thoubal,2017-10-05,9500.0,0.5,31.8,clear
+2464,Arhar (Tur/Red Gram),Thoubal,2017-11-05,12500.0,0.6,26.6,clear
+2465,Bengal Gram(Gram),Thoubal,2017-11-05,9500.0,0.5,26.6,clear
+2466,Black Gram (Urd Beans),Thoubal,2017-11-05,12500.0,0.5,26.6,clear
+2467,Green Gram (Moong),Thoubal,2017-11-05,11500.0,0.5,26.6,clear
+2468,Lentil(Masur),Thoubal,2017-11-05,9500.0,0.6,26.6,clear
+2469,Arhar (Tur/Red Gram),Thoubal,2017-05-15,11500.0,0.5,26.0,clear
+2470,Bengal Gram(Gram),Thoubal,2017-05-15,8500.0,0.5,26.0,clear
+2471,Black Gram (Urd Beans),Thoubal,2017-05-15,11500.0,0.4,26.0,clear
+2472,Green Gram (Moong),Thoubal,2017-05-15,11500.0,0.5,26.0,clear
+2473,Lentil(Masur),Thoubal,2017-05-15,9500.0,0.6,26.0,clear
+2474,Arhar (Tur/Red Gram),Thoubal,2017-05-16,11500.0,0.4,25.0,clear
+2475,Bengal Gram(Gram),Thoubal,2017-05-16,8500.0,0.4,25.0,clear
+2476,Black Gram (Urd Beans),Thoubal,2017-05-16,11500.0,0.3,25.0,clear
+2477,Green Gram (Moong),Thoubal,2017-05-16,11500.0,0.6,25.0,clear
+2478,Lentil(Masur),Thoubal,2017-05-16,9500.0,0.7,25.0,clear
+2479,Arhar (Tur/Red Gram),Thoubal,2017-05-17,11500.0,0.5,25.8,clear
+2480,Bengal Gram(Gram),Thoubal,2017-05-17,8500.0,0.4,25.8,clear
+2481,Black Gram (Urd Beans),Thoubal,2017-05-17,11500.0,0.5,25.8,clear
+2482,Green Gram (Moong),Thoubal,2017-05-17,11500.0,0.4,25.8,clear
+2483,Lentil(Masur),Thoubal,2017-05-17,9500.0,0.7,25.8,clear
+2484,Arhar (Tur/Red Gram),Thoubal,2017-05-18,11500.0,0.7,28.4,rain
+2485,Bengal Gram(Gram),Thoubal,2017-05-18,8500.0,0.6,28.4,rain
+2486,Black Gram (Urd Beans),Thoubal,2017-05-18,11500.0,0.5,28.4,rain
+2487,Green Gram (Moong),Thoubal,2017-05-18,11500.0,0.4,28.4,rain
+2488,Lentil(Masur),Thoubal,2017-05-18,9500.0,0.5,28.4,rain
+2489,Arhar (Tur/Red Gram),Thoubal,2017-05-19,11500.0,0.5,27.4,clear
+2490,Bengal Gram(Gram),Thoubal,2017-05-19,8500.0,0.4,27.4,clear
+2491,Black Gram (Urd Beans),Thoubal,2017-05-19,11500.0,0.4,27.4,clear
+2492,Green Gram (Moong),Thoubal,2017-05-19,11500.0,0.4,27.4,clear
+2493,Lentil(Masur),Thoubal,2017-05-19,9500.0,0.7,27.4,clear
+2494,Arhar (Tur/Red Gram),Thoubal,2017-05-20,11500.0,0.4,28.4,clear
+2495,Bengal Gram(Gram),Thoubal,2017-05-20,8500.0,0.6,28.4,clear
+2496,Black Gram (Urd Beans),Thoubal,2017-05-20,11500.0,0.5,28.4,clear
+2497,Green Gram (Moong),Thoubal,2017-05-20,11500.0,0.5,28.4,clear
+2498,Lentil(Masur),Thoubal,2017-05-20,9500.0,0.6,28.4,clear
+2499,Arhar (Tur/Red Gram),Thoubal,2017-05-22,11500.0,0.4,30.6,clear
+2500,Bengal Gram(Gram),Thoubal,2017-05-22,8500.0,0.4,30.6,clear
+2501,Black Gram (Urd Beans),Thoubal,2017-05-22,11500.0,0.3,30.6,clear
+2502,Green Gram (Moong),Thoubal,2017-05-22,11500.0,0.5,30.6,clear
+2503,Lentil(Masur),Thoubal,2017-05-22,9500.0,0.6,30.6,clear
+2504,Arhar (Tur/Red Gram),Thoubal,2017-05-23,11500.0,0.6,31.0,clear
+2505,Bengal Gram(Gram),Thoubal,2017-05-23,8500.0,0.5,31.0,clear
+2506,Black Gram (Urd Beans),Thoubal,2017-05-23,11500.0,0.5,31.0,clear
+2507,Green Gram (Moong),Thoubal,2017-05-23,11500.0,0.5,31.0,clear
+2508,Lentil(Masur),Thoubal,2017-05-23,9500.0,0.8,31.0,clear
+2509,Arhar (Tur/Red Gram),Thoubal,2017-05-24,11500.0,0.4,29.6,clear
+2510,Bengal Gram(Gram),Thoubal,2017-05-24,8500.0,0.4,29.6,clear
+2511,Black Gram (Urd Beans),Thoubal,2017-05-24,11500.0,0.4,29.6,clear
+2512,Green Gram (Moong),Thoubal,2017-05-24,11500.0,0.5,29.6,clear
+2513,Lentil(Masur),Thoubal,2017-05-24,9500.0,0.6,29.6,clear
+2514,Arhar (Tur/Red Gram),Thoubal,2017-05-25,11500.0,0.6,32.0,clear
+2515,Bengal Gram(Gram),Thoubal,2017-05-25,8500.0,0.6,32.0,clear
+2516,Black Gram (Urd Beans),Thoubal,2017-05-25,11500.0,0.4,32.0,clear
+2517,Green Gram (Moong),Thoubal,2017-05-25,11500.0,0.4,32.0,clear
+2518,Lentil(Masur),Thoubal,2017-05-25,9500.0,0.5,32.0,clear
+2519,Arhar (Tur/Red Gram),Thoubal,2017-05-26,11500.0,0.5,30.0,clear
+2520,Bengal Gram(Gram),Thoubal,2017-05-26,9500.0,0.4,30.0,clear
+2521,Black Gram (Urd Beans),Thoubal,2017-05-26,11500.0,0.5,30.0,clear
+2522,Green Gram (Moong),Thoubal,2017-05-26,11500.0,0.5,30.0,clear
+2523,Lentil(Masur),Thoubal,2017-05-26,9500.0,0.6,30.0,clear
+2524,Arhar (Tur/Red Gram),Thoubal,2017-05-27,11500.0,0.6,31.2,rain
+2525,Bengal Gram(Gram),Thoubal,2017-05-27,9500.0,0.5,31.2,rain
+2526,Black Gram (Urd Beans),Thoubal,2017-05-27,11500.0,0.4,31.2,rain
+2527,Green Gram (Moong),Thoubal,2017-05-27,11500.0,0.4,31.2,rain
+2528,Lentil(Masur),Thoubal,2017-05-27,9500.0,0.8,31.2,rain
+2529,Arhar (Tur/Red Gram),Thoubal,2017-05-29,11500.0,0.4,26.0,rain
+2530,Bengal Gram(Gram),Thoubal,2017-05-29,9500.0,0.3,26.0,rain
+2531,Black Gram (Urd Beans),Thoubal,2017-05-29,11500.0,0.4,26.0,rain
+2532,Green Gram (Moong),Thoubal,2017-05-29,11500.0,0.4,26.0,rain
+2533,Lentil(Masur),Thoubal,2017-05-29,9500.0,0.6,26.0,rain
+2534,Arhar (Tur/Red Gram),Thoubal,2017-05-30,11500.0,0.4,24.0,rain
+2535,Bengal Gram(Gram),Thoubal,2017-05-30,9500.0,0.4,24.0,rain
+2536,Black Gram (Urd Beans),Thoubal,2017-05-30,11500.0,0.3,24.0,rain
+2537,Green Gram (Moong),Thoubal,2017-05-30,11500.0,0.5,24.0,rain
+2538,Lentil(Masur),Thoubal,2017-05-30,9500.0,0.6,24.0,rain
+2539,Arhar (Tur/Red Gram),Thoubal,2017-05-31,11500.0,0.3,28.0,clear
+2540,Bengal Gram(Gram),Thoubal,2017-05-31,9500.0,0.4,28.0,clear
+2541,Black Gram (Urd Beans),Thoubal,2017-05-31,11500.0,0.4,28.0,clear
+2542,Green Gram (Moong),Thoubal,2017-05-31,11500.0,0.4,28.0,clear
+2543,Lentil(Masur),Thoubal,2017-05-31,9500.0,0.7,28.0,clear
+2544,Arhar (Tur/Red Gram),Thoubal,2017-01-06,11500.0,0.5,23.0,clear
+2545,Bengal Gram(Gram),Thoubal,2017-01-06,9500.0,0.6,23.0,clear
+2546,Black Gram (Urd Beans),Thoubal,2017-01-06,11500.0,0.5,23.0,clear
+2547,Green Gram (Moong),Thoubal,2017-01-06,11500.0,0.6,23.0,clear
+2548,Lentil(Masur),Thoubal,2017-01-06,9500.0,0.5,23.0,clear
+2549,Arhar (Tur/Red Gram),Thoubal,2017-03-06,11500.0,0.5,23.4,clear
+2550,Bengal Gram(Gram),Thoubal,2017-03-06,9500.0,0.6,23.4,clear
+2551,Black Gram (Urd Beans),Thoubal,2017-03-06,11500.0,0.5,23.4,clear
+2552,Green Gram (Moong),Thoubal,2017-03-06,11500.0,0.4,23.4,clear
+2553,Lentil(Masur),Thoubal,2017-03-06,9500.0,0.6,23.4,clear
+2554,Arhar (Tur/Red Gram),Thoubal,2017-05-06,11500.0,0.3,32.0,clear
+2555,Bengal Gram(Gram),Thoubal,2017-05-06,9500.0,0.4,32.0,clear
+2556,Black Gram (Urd Beans),Thoubal,2017-05-06,11500.0,0.3,32.0,clear
+2557,Green Gram (Moong),Thoubal,2017-05-06,11500.0,0.3,32.0,clear
+2558,Lentil(Masur),Thoubal,2017-05-06,9500.0,0.5,32.0,clear
+2559,Arhar (Tur/Red Gram),Thoubal,2017-06-06,11500.0,0.6,32.4,clear
+2560,Bengal Gram(Gram),Thoubal,2017-06-06,9500.0,0.5,32.4,clear
+2561,Black Gram (Urd Beans),Thoubal,2017-06-06,11500.0,0.4,32.4,clear
+2562,Green Gram (Moong),Thoubal,2017-06-06,11500.0,0.5,32.4,clear
+2563,Lentil(Masur),Thoubal,2017-06-06,9500.0,0.8,32.4,clear
+2564,Arhar (Tur/Red Gram),Thoubal,2017-07-06,11500.0,0.4,29.6,clear
+2565,Bengal Gram(Gram),Thoubal,2017-07-06,9500.0,0.3,29.6,clear
+2566,Black Gram (Urd Beans),Thoubal,2017-07-06,11500.0,0.5,29.6,clear
+2567,Green Gram (Moong),Thoubal,2017-07-06,11500.0,0.5,29.6,clear
+2568,Lentil(Masur),Thoubal,2017-07-06,9500.0,0.8,29.6,clear
+2569,Arhar (Tur/Red Gram),Thoubal,2017-09-06,11500.0,0.6,32.0,clear
+2570,Bengal Gram(Gram),Thoubal,2017-09-06,9500.0,0.5,32.0,clear
+2571,Black Gram (Urd Beans),Thoubal,2017-09-06,11500.0,0.5,32.0,clear
+2572,Green Gram (Moong),Thoubal,2017-09-06,11500.0,0.4,32.0,clear
+2573,Lentil(Masur),Thoubal,2017-09-06,9500.0,0.8,32.0,clear
+2574,Arhar (Tur/Red Gram),Thoubal,2017-12-06,11500.0,0.5,22.4,clear
+2575,Bengal Gram(Gram),Thoubal,2017-12-06,9500.0,0.4,22.4,clear
+2576,Black Gram (Urd Beans),Thoubal,2017-12-06,11500.0,0.4,22.4,clear
+2577,Green Gram (Moong),Thoubal,2017-12-06,11500.0,0.5,22.4,clear
+2578,Lentil(Masur),Thoubal,2017-12-06,9500.0,0.6,22.4,clear
+2579,Arhar (Tur/Red Gram),Thoubal,2017-06-13,11500.0,0.4,25.4,clear
+2580,Bengal Gram(Gram),Thoubal,2017-06-13,9500.0,0.4,25.4,clear
+2581,Black Gram (Urd Beans),Thoubal,2017-06-13,11500.0,0.4,25.4,clear
+2582,Green Gram (Moong),Thoubal,2017-06-13,11500.0,0.4,25.4,clear
+2583,Lentil(Masur),Thoubal,2017-06-13,9500.0,0.5,25.4,clear
+2584,Arhar (Tur/Red Gram),Thoubal,2017-06-14,11500.0,0.3,31.0,clear
+2585,Bengal Gram(Gram),Thoubal,2017-06-14,9500.0,0.6,31.0,clear
+2586,Black Gram (Urd Beans),Thoubal,2017-06-14,11500.0,0.6,31.0,clear
+2587,Green Gram (Moong),Thoubal,2017-06-14,11500.0,0.5,31.0,clear
+2588,Lentil(Masur),Thoubal,2017-06-14,9500.0,0.7,31.0,clear
+2589,Arhar (Tur/Red Gram),Thoubal,2017-06-15,11500.0,0.5,30.4,rain
+2590,Bengal Gram(Gram),Thoubal,2017-06-15,9500.0,0.4,30.4,rain
+2591,Black Gram (Urd Beans),Thoubal,2017-06-15,11500.0,0.4,30.4,rain
+2592,Green Gram (Moong),Thoubal,2017-06-15,11500.0,0.4,30.4,rain
+2593,Lentil(Masur),Thoubal,2017-06-15,9500.0,0.6,30.4,rain
+2594,Arhar (Tur/Red Gram),Thoubal,2017-06-16,11500.0,0.4,27.6,clear
+2595,Bengal Gram(Gram),Thoubal,2017-06-16,9500.0,0.6,27.6,clear
+2596,Black Gram (Urd Beans),Thoubal,2017-06-16,11500.0,0.5,27.6,clear
+2597,Green Gram (Moong),Thoubal,2017-06-16,11500.0,0.5,27.6,clear
+2598,Lentil(Masur),Thoubal,2017-06-16,9500.0,0.8,27.6,clear
+2599,Arhar (Tur/Red Gram),Thoubal,2017-06-17,11500.0,0.6,27.6,clear
+2600,Bengal Gram(Gram),Thoubal,2017-06-17,9500.0,0.5,27.6,clear
+2601,Black Gram (Urd Beans),Thoubal,2017-06-17,11500.0,0.4,27.6,clear
+2602,Green Gram (Moong),Thoubal,2017-06-17,11500.0,0.4,27.6,clear
+2603,Lentil(Masur),Thoubal,2017-06-17,9500.0,0.6,27.6,clear
+2604,Arhar (Tur/Red Gram),Thoubal,2017-06-19,11500.0,0.4,27.0,clear
+2605,Bengal Gram(Gram),Thoubal,2017-06-19,9500.0,0.3,27.0,clear
+2606,Black Gram (Urd Beans),Thoubal,2017-06-19,11500.0,0.4,27.0,clear
+2607,Green Gram (Moong),Thoubal,2017-06-19,11500.0,0.3,27.0,clear
+2608,Lentil(Masur),Thoubal,2017-06-19,9500.0,0.5,27.0,clear
+2609,Arhar (Tur/Red Gram),Thoubal,2017-06-20,11500.0,0.5,28.6,clear
+2610,Bengal Gram(Gram),Thoubal,2017-06-20,9500.0,0.4,28.6,clear
+2611,Black Gram (Urd Beans),Thoubal,2017-06-20,11500.0,0.5,28.6,clear
+2612,Green Gram (Moong),Thoubal,2017-06-20,11500.0,0.6,28.6,clear
+2613,Lentil(Masur),Thoubal,2017-06-20,9500.0,0.7,28.6,clear
+2614,Arhar (Tur/Red Gram),Thoubal,2017-06-21,11500.0,0.5,26.6,clear
+2615,Bengal Gram(Gram),Thoubal,2017-06-21,9500.0,0.5,26.6,clear
+2616,Black Gram (Urd Beans),Thoubal,2017-06-21,11500.0,0.4,26.6,clear
+2617,Green Gram (Moong),Thoubal,2017-06-21,11500.0,0.4,26.6,clear
+2618,Lentil(Masur),Thoubal,2017-06-21,9500.0,0.5,26.6,clear

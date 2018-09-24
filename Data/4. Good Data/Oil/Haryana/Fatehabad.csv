@@ -1,0 +1,1854 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Mustard,Bhattu Kalan,2012-01-28,2800.0,4.5,20.4,clear
+1,Mustard,Bhattu Kalan,2012-03-21,3925.0,7.0,26.0,clear
+2,Mustard,Fatehabad,2012-03-21,3913.0,8.0,26.0,clear
+3,Mustard,Bhattu Kalan,2012-03-23,3960.0,1.8,30.0,clear
+4,Mustard,Fatehabad,2012-03-23,3562.0,2.0,30.0,clear
+5,Mustard,Bhattu Kalan,2012-03-24,3400.0,0.4,32.8,clear
+6,Mustard,Fatehabad,2012-03-24,3615.0,2.5,32.8,clear
+7,Mustard,Bhattu Kalan,2012-02-04,3261.0,1.5,22.0,clear
+8,Mustard,Fatehabad,2012-02-04,3745.0,19.5,22.0,clear
+9,Mustard,Bhattu Kalan,2012-05-04,3411.0,2.7,38.4,clear
+10,Mustard,Fatehabad,2012-05-04,3565.0,10.0,38.4,clear
+11,Mustard,Bhattu Kalan,2012-06-04,3431.0,25.8,42.4,clear
+12,Mustard,Fatehabad,2012-06-04,3651.0,10.1,42.4,clear
+13,Mustard,Bhattu Kalan,2012-09-04,3225.0,55.4,31.6,clear
+14,Mustard,Fatehabad,2012-09-04,3500.0,30.5,31.6,clear
+15,Mustard,Bhattu Kalan,2012-10-04,3500.0,57.3,36.6,clear
+16,Mustard,Fatehabad,2012-10-04,3489.0,24.8,36.6,clear
+17,Mustard,Bhattu Kalan,2012-11-04,3500.0,54.4,29.6,clear
+18,Mustard,Fatehabad,2012-11-04,3400.0,25.0,29.6,clear
+19,Mustard,Bhattu Kalan,2012-12-04,3531.0,49.8,23.4,clear
+20,Mustard,Fatehabad,2012-12-04,3481.0,6.5,23.4,clear
+21,Mustard,Bhattu Kalan,2012-04-13,3500.0,68.9,28.0,clear
+22,Mustard,Fatehabad,2012-04-13,3500.0,11.8,28.0,clear
+23,Mustard,Bhattu Kalan,2012-04-14,3400.0,83.6,28.2,clear
+24,Mustard,Fatehabad,2012-04-14,3449.0,1.0,28.2,clear
+25,Mustard,Bhattu Kalan,2012-04-16,3350.0,102.0,35.8,rain
+26,Mustard,Bhattu Kalan,2012-04-17,3350.0,79.1,31.4,clear
+27,Mustard,Bhattu Kalan,2012-04-18,3282.0,14.9,32.2,clear
+28,Mustard,Bhattu Kalan,2012-04-19,3200.0,28.3,35.4,clear
+29,Mustard,Bhattu Kalan,2012-04-20,3300.0,26.9,35.0,clear
+30,Mustard,Fatehabad,2012-04-20,3314.0,0.8,35.0,clear
+31,Mustard,Bhattu Kalan,2012-04-21,3220.0,35.0,33.6,clear
+32,Mustard,Bhattu Kalan,2012-04-23,3300.0,40.4,35.0,clear
+33,Mustard,Bhattu Kalan,2012-04-24,3300.0,18.0,32.0,clear
+34,Mustard,Bhattu Kalan,2012-04-25,3325.0,30.0,35.4,clear
+35,Mustard,Bhattu Kalan,2012-04-26,3399.0,7.3,29.8,clear
+36,Mustard,Bhattu Kalan,2012-04-27,3280.0,8.5,34.8,clear
+37,Mustard,Bhattu Kalan,2012-04-28,3351.0,4.3,34.0,clear
+38,Mustard,Bhattu Kalan,2012-04-30,3400.0,6.5,36.2,clear
+39,Mustard,Bhattu Kalan,2012-12-05,3500.0,1.4,24.4,clear
+40,Mustard,Bhattu Kalan,2012-05-14,3400.0,4.9,35.6,rain
+41,Mustard,Fatehabad,2012-05-14,3437.0,3.3,35.6,rain
+42,Mustard,Bhattu Kalan,2012-05-15,3380.0,6.6,40.2,clear
+43,Mustard,Fatehabad,2012-05-15,3471.0,2.5,40.2,clear
+44,Mustard,Bhattu Kalan,2012-05-16,3370.0,4.9,42.6,clear
+45,Mustard,Fatehabad,2012-05-16,3205.0,5.5,42.6,clear
+46,Mustard,Bhattu Kalan,2012-05-17,3400.0,6.8,38.8,clear
+47,Mustard,Fatehabad,2012-05-17,3500.0,1.2,38.8,clear
+48,Mustard,Bhattu Kalan,2012-05-18,3370.0,1.3,41.4,clear
+49,Mustard,Bhattu Kalan,2012-05-19,3350.0,23.4,42.0,rain
+50,Mustard,Fatehabad,2012-05-19,3461.0,3.4,42.0,rain
+51,Mustard,Bhattu Kalan,2012-05-21,3350.0,40.4,42.8,clear
+52,Mustard,Bhattu Kalan,2012-05-22,3270.0,21.5,42.0,clear
+53,Mustard,Fatehabad,2012-05-22,3231.0,1.0,42.0,clear
+54,Mustard,Bhattu Kalan,2012-05-23,3270.0,26.2,43.0,clear
+55,Mustard,Bhattu Kalan,2012-05-24,3270.0,28.0,44.0,clear
+56,Mustard,Bhattu Kalan,2012-05-25,3300.0,17.1,44.8,clear
+57,Mustard,Bhattu Kalan,2012-05-26,3300.0,42.9,41.6,clear
+58,Mustard,Bhattu Kalan,2012-05-28,3340.0,50.3,41.6,clear
+59,Mustard,Fatehabad,2012-05-28,3310.0,1.2,41.6,clear
+60,Mustard,Bhattu Kalan,2012-05-29,3305.0,44.5,45.0,clear
+61,Mustard,Fatehabad,2012-05-29,3310.0,3.0,45.0,clear
+62,Mustard,Bhattu Kalan,2012-05-30,3350.0,43.7,46.2,clear
+63,Mustard,Bhattu Kalan,2012-05-31,3300.0,35.2,45.4,clear
+64,Mustard,Bhattu Kalan,2012-01-06,3300.0,33.0,19.0,rain
+65,Mustard,Fatehabad,2012-01-06,3350.0,2.0,19.0,rain
+66,Mustard,Bhattu Kalan,2012-02-06,3260.0,18.1,21.2,clear
+67,Mustard,Bhattu Kalan,2012-04-06,3250.0,24.3,37.0,clear
+68,Mustard,Bhattu Kalan,2012-05-06,3250.0,22.0,40.2,clear
+69,Mustard,Bhattu Kalan,2012-06-06,3320.0,20.3,38.4,rain
+70,Mustard,Bhattu Kalan,2012-07-06,3300.0,23.0,40.4,clear
+71,Mustard,Bhattu Kalan,2012-08-06,3269.0,33.7,35.6,clear
+72,Mustard,Bhattu Kalan,2012-09-06,3205.0,30.9,33.4,clear
+73,Mustard,Bhattu Kalan,2012-11-06,3214.0,24.9,30.0,clear
+74,Mustard,Bhattu Kalan,2012-12-06,3280.0,30.4,26.0,clear
+75,Mustard,Bhattu Kalan,2012-06-13,3260.0,24.4,42.6,clear
+76,Mustard,Bhattu Kalan,2012-06-14,3250.0,20.0,43.4,clear
+77,Mustard,Bhattu Kalan,2012-06-15,3200.0,15.5,43.0,clear
+78,Mustard,Bhattu Kalan,2012-06-16,3190.0,29.7,43.8,clear
+79,Mustard,Bhattu Kalan,2012-06-18,3190.0,23.7,36.2,clear
+80,Mustard,Bhattu Kalan,2012-06-19,3170.0,18.7,42.6,clear
+81,Mustard,Bhattu Kalan,2012-06-20,3250.0,9.4,43.4,clear
+82,Mustard,Bhattu Kalan,2012-06-21,3215.0,15.5,43.0,clear
+83,Mustard,Bhattu Kalan,2012-06-22,3196.0,18.3,43.0,clear
+84,Mustard,Bhattu Kalan,2012-06-23,3171.0,6.3,43.0,clear
+85,Mustard,Bhattu Kalan,2012-06-25,3200.0,18.7,42.0,clear
+86,Mustard,Bhattu Kalan,2012-06-26,3264.0,4.6,40.0,clear
+87,Mustard,Bhattu Kalan,2012-06-27,3302.0,3.6,40.0,clear
+88,Mustard,Bhattu Kalan,2012-06-28,3255.0,12.1,42.0,clear
+89,Mustard,Bhattu Kalan,2012-06-29,3260.0,4.3,39.0,clear
+90,Mustard,Fatehabad,2012-06-29,3146.0,520.0,39.0,clear
+91,Mustard,Bhattu Kalan,2012-06-30,3262.0,12.0,41.4,clear
+92,Mustard,Bhattu Kalan,2012-02-07,3290.0,9.7,19.2,clear
+93,Mustard,Bhattu Kalan,2012-03-07,3300.0,13.3,29.2,clear
+94,Mustard,Bhattu Kalan,2012-04-07,3350.0,14.8,36.4,clear
+95,Mustard,Bhattu Kalan,2012-05-07,3410.0,17.8,40.0,clear
+96,Mustard,Bhattu Kalan,2012-06-07,3490.0,4.1,35.2,clear
+97,Mustard,Bhattu Kalan,2012-09-07,3488.0,6.1,31.2,clear
+98,Mustard,Bhattu Kalan,2012-10-07,3500.0,12.7,36.0,clear
+99,Mustard,Bhattu Kalan,2012-11-07,3511.0,11.1,24.0,clear
+100,Mustard,Bhattu Kalan,2012-07-13,3520.0,6.3,38.4,clear
+101,Mustard,Bhattu Kalan,2012-07-16,3720.0,22.7,35.6,clear
+102,Mustard,Bhattu Kalan,2012-07-17,3719.0,11.6,39.4,clear
+103,Mustard,Bhattu Kalan,2012-07-18,3702.0,9.5,41.6,clear
+104,Mustard,Bhattu Kalan,2012-07-19,3760.0,6.1,41.0,clear
+105,Mustard,Bhattu Kalan,2012-07-20,3800.0,4.5,37.6,rain
+106,Mustard,Bhattu Kalan,2012-07-21,3923.0,0.3,36.0,clear
+107,Mustard,Bhattu Kalan,2012-07-24,3961.0,3.6,39.6,clear
+108,Mustard,Bhattu Kalan,2012-07-25,3973.0,4.0,38.0,clear
+109,Mustard,Bhattu Kalan,2012-07-26,3966.0,3.6,36.0,clear
+110,Mustard,Bhattu Kalan,2012-07-27,3948.0,0.2,38.4,clear
+111,Mustard,Bhattu Kalan,2012-07-28,3900.0,6.6,36.2,clear
+112,Mustard,Bhattu Kalan,2012-07-30,3791.0,16.6,34.6,clear
+113,Mustard,Bhattu Kalan,2012-07-31,3650.0,10.1,34.4,clear
+114,Mustard,Fatehabad,2012-07-31,3861.0,0.2,34.4,clear
+115,Mustard,Bhattu Kalan,2012-01-08,3850.0,12.1,12.6,clear
+116,Mustard,Bhattu Kalan,2012-02-08,3820.0,2.5,15.6,clear
+117,Mustard,Bhattu Kalan,2012-03-08,3850.0,5.3,25.8,clear
+118,Mustard,Bhattu Kalan,2012-04-08,3880.0,7.8,37.0,clear
+119,Mustard,Bhattu Kalan,2012-06-08,3881.0,7.6,39.2,clear
+120,Mustard,Bhattu Kalan,2012-07-08,3806.0,4.3,36.4,clear
+121,Mustard,Bhattu Kalan,2012-08-08,3741.0,3.7,30.0,clear
+122,Mustard,Bhattu Kalan,2012-09-08,3770.0,11.6,31.4,clear
+123,Mustard,Bhattu Kalan,2012-10-08,3760.0,7.6,35.0,clear
+124,Mustard,Bhattu Kalan,2012-11-08,3816.0,5.7,29.4,clear
+125,Mustard,Bhattu Kalan,2012-08-13,3818.0,4.1,37.4,rain
+126,Mustard,Bhattu Kalan,2012-08-14,3800.0,8.4,33.4,clear
+127,Mustard,Bhattu Kalan,2012-08-15,3750.0,2.7,33.8,clear
+128,Mustard,Bhattu Kalan,2012-08-16,3830.0,7.1,33.4,clear
+129,Mustard,Bhattu Kalan,2012-08-17,3808.0,8.7,35.4,clear
+130,Mustard,Bhattu Kalan,2012-08-18,3812.0,10.3,36.2,clear
+131,Mustard,Bhattu Kalan,2012-08-20,3785.0,26.8,34.6,clear
+132,Mustard,Bhattu Kalan,2012-08-21,3731.0,5.4,30.6,rain
+133,Mustard,Fatehabad,2012-08-21,3655.0,29.5,30.6,rain
+134,Mustard,Bhattu Kalan,2012-08-22,3800.0,1.5,28.0,clear
+135,Mustard,Fatehabad,2012-08-22,3665.0,22.0,28.0,clear
+136,Mustard,Bhattu Kalan,2012-08-24,3820.0,11.4,31.0,clear
+137,Mustard,Fatehabad,2012-08-24,3690.0,3.4,31.0,clear
+138,Mustard,Bhattu Kalan,2012-08-25,3870.0,7.4,31.6,clear
+139,Mustard,Bhattu Kalan,2012-08-27,3876.0,10.7,28.8,clear
+140,Mustard,Bhattu Kalan,2012-08-28,3808.0,13.0,32.4,clear
+141,Mustard,Bhattu Kalan,2012-08-29,3790.0,11.7,33.0,clear
+142,Mustard,Bhattu Kalan,2012-08-30,3780.0,11.5,32.4,clear
+143,Mustard,Bhattu Kalan,2012-08-31,3765.0,8.7,33.4,clear
+144,Mustard,Bhattu Kalan,2012-01-09,3780.0,17.8,17.2,clear
+145,Mustard,Bhattu Kalan,2012-03-09,3780.0,34.9,24.4,clear
+146,Mustard,Bhattu Kalan,2012-04-09,3672.0,15.2,36.6,clear
+147,Mustard,Bhattu Kalan,2012-06-09,3690.0,14.3,41.4,clear
+148,Mustard,Bhattu Kalan,2012-07-09,3650.0,12.8,38.0,clear
+149,Mustard,Bhattu Kalan,2012-08-09,3596.0,15.0,33.0,clear
+150,Mustard,Bhattu Kalan,2012-10-09,3600.0,6.6,35.0,clear
+151,Mustard,Bhattu Kalan,2012-11-09,3476.0,6.8,31.8,clear
+152,Mustard,Bhattu Kalan,2012-12-09,3591.0,9.4,27.6,clear
+153,Mustard,Bhattu Kalan,2012-09-13,3665.0,5.7,36.0,clear
+154,Mustard,Bhattu Kalan,2012-09-14,3699.0,9.2,33.6,rain
+155,Mustard,Bhattu Kalan,2012-09-15,3774.0,3.6,34.4,rain
+156,Mustard,Bhattu Kalan,2012-09-17,3717.0,13.8,31.6,clear
+157,Mustard,Bhattu Kalan,2012-09-18,3667.0,5.3,29.6,clear
+158,Mustard,Bhattu Kalan,2012-09-19,3690.0,4.2,32.2,clear
+159,Mustard,Bhattu Kalan,2012-09-20,3640.0,7.7,32.8,clear
+160,Mustard,Bhattu Kalan,2012-09-21,3585.0,11.9,31.6,clear
+161,Mustard,Bhattu Kalan,2012-09-22,3598.0,23.7,33.6,clear
+162,Mustard,Bhattu Kalan,2012-09-24,3500.0,18.1,35.0,clear
+163,Mustard,Bhattu Kalan,2012-09-25,3539.0,13.4,34.2,clear
+164,Mustard,Bhattu Kalan,2012-09-26,3560.0,6.1,34.0,clear
+165,Mustard,Bhattu Kalan,2012-09-27,3575.0,11.3,34.6,clear
+166,Mustard,Bhattu Kalan,2012-09-28,3531.0,20.2,33.4,clear
+167,Mustard,Bhattu Kalan,2012-09-29,3539.0,5.1,34.4,clear
+168,Mustard,Bhattu Kalan,2012-01-10,3505.0,6.0,17.0,clear
+169,Mustard,Bhattu Kalan,2012-02-10,3408.0,6.8,20.8,clear
+170,Mustard,Bhattu Kalan,2012-03-10,3399.0,6.5,26.4,clear
+171,Mustard,Bhattu Kalan,2012-04-10,3434.0,5.0,35.8,clear
+172,Mustard,Fatehabad,2012-04-10,3450.0,11.0,35.8,clear
+173,Mustard,Bhattu Kalan,2012-05-10,3461.0,3.0,42.4,clear
+174,Mustard,Bhattu Kalan,2012-06-10,3508.0,8.2,42.0,clear
+175,Mustard,Bhattu Kalan,2012-08-10,3583.0,4.0,32.0,clear
+176,Mustard,Bhattu Kalan,2012-09-10,3644.0,8.0,35.4,clear
+177,Mustard,Bhattu Kalan,2012-10-10,3700.0,3.5,34.0,clear
+178,Mustard,Bhattu Kalan,2012-11-10,3671.0,2.0,32.0,clear
+179,Mustard,Bhattu Kalan,2012-10-13,3699.0,4.4,36.0,clear
+180,Mustard,Bhattu Kalan,2012-10-15,3650.0,6.8,33.4,rain
+181,Mustard,Bhattu Kalan,2012-10-16,3650.0,7.9,30.4,clear
+182,Mustard,Bhattu Kalan,2012-10-17,3682.0,4.8,31.4,clear
+183,Mustard,Bhattu Kalan,2012-10-18,3680.0,5.8,31.2,clear
+184,Mustard,Bhattu Kalan,2012-10-19,3699.0,11.8,29.6,clear
+185,Mustard,Bhattu Kalan,2012-10-20,3682.0,10.6,28.0,clear
+186,Mustard,Bhattu Kalan,2012-10-22,3700.0,14.7,31.6,clear
+187,Mustard,Bhattu Kalan,2012-10-23,3721.0,6.2,28.8,rain
+188,Mustard,Bhattu Kalan,2012-10-24,3696.0,22.6,27.2,clear
+189,Mustard,Bhattu Kalan,2012-10-25,3700.0,22.3,29.0,clear
+190,Mustard,Bhattu Kalan,2012-10-26,3560.0,6.1,30.4,clear
+191,Mustard,Bhattu Kalan,2012-10-27,3731.0,8.5,31.0,clear
+192,Mustard,Bhattu Kalan,2012-10-29,3706.0,14.2,29.4,clear
+193,Mustard,Bhattu Kalan,2012-10-30,3689.0,8.6,28.8,clear
+194,Mustard,Bhattu Kalan,2012-10-31,3718.0,11.8,29.4,clear
+195,Mustard,Bhattu Kalan,2012-01-11,3680.0,13.3,18.2,clear
+196,Mustard,Bhattu Kalan,2012-02-11,3676.0,15.1,19.4,clear
+197,Mustard,Bhattu Kalan,2012-03-11,3620.0,8.9,28.0,clear
+198,Mustard,Bhattu Kalan,2012-05-11,3641.0,17.9,34.6,clear
+199,Mustard,Bhattu Kalan,2012-06-11,3630.0,4.4,41.2,clear
+200,Mustard,Bhattu Kalan,2012-07-11,3660.0,7.6,34.4,clear
+201,Mustard,Bhattu Kalan,2012-08-11,3650.0,12.2,34.0,clear
+202,Mustard,Bhattu Kalan,2012-11-16,3775.0,7.6,27.6,clear
+203,Mustard,Bhattu Kalan,2012-11-17,3718.0,7.4,29.0,clear
+204,Mustard,Bhattu Kalan,2012-11-19,3765.0,11.0,27.4,clear
+205,Mustard,Bhattu Kalan,2012-11-20,3705.0,9.5,26.6,clear
+206,Mustard,Bhattu Kalan,2012-11-21,3700.0,5.7,26.6,clear
+207,Mustard,Bhattu Kalan,2012-11-22,3705.0,11.5,26.6,clear
+208,Mustard,Bhattu Kalan,2012-11-23,3691.0,12.9,27.0,clear
+209,Mustard,Bhattu Kalan,2012-11-24,3680.0,2.0,26.0,clear
+210,Mustard,Bhattu Kalan,2012-11-26,3665.0,1.8,22.4,clear
+211,Mustard,Bhattu Kalan,2012-11-27,3660.0,8.7,23.0,clear
+212,Mustard,Bhattu Kalan,2012-11-28,3650.0,2.5,26.0,clear
+213,Mustard,Bhattu Kalan,2012-11-29,3660.0,2.5,23.0,clear
+214,Mustard,Bhattu Kalan,2012-11-30,3700.0,2.0,22.4,clear
+215,Mustard,Bhattu Kalan,2012-01-12,3640.0,3.1,16.0,clear
+216,Mustard,Bhattu Kalan,2012-03-12,3679.0,1.3,28.0,clear
+217,Mustard,Bhattu Kalan,2012-04-12,3670.0,2.9,34.0,clear
+218,Mustard,Bhattu Kalan,2012-05-12,3647.0,1.0,37.4,rain
+219,Mustard,Bhattu Kalan,2012-06-12,3672.0,8.6,43.0,clear
+220,Mustard,Bhattu Kalan,2012-07-12,3645.0,7.7,35.0,clear
+221,Mustard,Bhattu Kalan,2012-08-12,3675.0,1.4,33.4,clear
+222,Mustard,Bhattu Kalan,2012-10-12,3668.0,2.5,36.2,clear
+223,Mustard,Bhattu Kalan,2012-11-12,3633.0,5.0,27.2,clear
+224,Mustard,Bhattu Kalan,2012-12-12,3640.0,10.2,21.0,clear
+225,Mustard,Bhattu Kalan,2012-12-13,3649.0,14.2,22.4,rain
+226,Mustard,Bhattu Kalan,2012-12-14,3663.0,4.0,19.6,clear
+227,Mustard,Bhattu Kalan,2012-12-15,3629.0,7.4,16.6,clear
+228,Mustard,Bhattu Kalan,2012-12-17,3619.0,6.6,21.4,clear
+229,Mustard,Bhattu Kalan,2012-12-18,3620.0,12.9,23.4,clear
+230,Mustard,Bhattu Kalan,2012-12-19,3628.0,2.1,22.0,clear
+231,Mustard,Bhattu Kalan,2012-12-20,3661.0,2.8,19.0,clear
+232,Mustard,Bhattu Kalan,2012-12-21,3640.0,5.3,22.4,clear
+233,Mustard,Bhattu Kalan,2012-12-22,3665.0,0.8,22.4,clear
+234,Mustard,Bhattu Kalan,2012-12-24,3621.0,0.7,13.4,rain
+235,Mustard,Bhattu Kalan,2012-12-28,3540.0,0.4,17.6,clear
+236,Mustard,Fatehabad,2012-03-19,0.0,3.2,37.4,clear
+237,Mustard,Fatehabad,2012-03-20,3600.0,2.5,32.2,clear
+238,Mustard,Fatehabad,2012-03-04,3551.0,10.5,31.6,clear
+239,Mustard,Fatehabad,2012-04-04,3671.0,13.7,37.0,clear
+240,Mustard,Fatehabad,2012-07-04,3580.0,12.5,42.6,clear
+241,Mustard,Fatehabad,2012-12-31,3550.0,5.0,11.6,clear
+242,Groundnut,Bhattu Kalan,2013-07-10,3781.0,1.9,33.4,clear
+243,Mustard,Bhattu Kalan,2013-07-10,3130.0,6.8,33.4,clear
+244,Groundnut,Bhattu Kalan,2013-09-10,3701.0,8.8,35.4,clear
+245,Mustard,Bhattu Kalan,2013-09-10,3175.0,8.1,35.4,clear
+246,Groundnut,Bhattu Kalan,2013-10-10,3750.0,6.6,34.4,clear
+247,Mustard,Bhattu Kalan,2013-10-10,3150.0,12.2,34.4,clear
+248,Groundnut,Bhattu Kalan,2013-11-10,3800.0,4.2,25.8,clear
+249,Mustard,Bhattu Kalan,2013-11-10,3150.0,7.0,25.8,clear
+250,Groundnut,Bhattu Kalan,2013-12-10,3700.0,8.7,24.2,clear
+251,Mustard,Bhattu Kalan,2013-12-10,3140.0,8.0,24.2,clear
+252,Groundnut,Bhattu Kalan,2013-10-14,3561.0,10.4,31.4,clear
+253,Mustard,Bhattu Kalan,2013-10-14,3200.0,15.5,31.4,clear
+254,Groundnut,Bhattu Kalan,2013-10-15,3600.0,11.7,34.0,clear
+255,Mustard,Bhattu Kalan,2013-10-15,3200.0,9.0,34.0,clear
+256,Groundnut,Bhattu Kalan,2013-10-16,3630.0,14.3,34.6,clear
+257,Mustard,Bhattu Kalan,2013-10-16,3200.0,8.8,34.6,clear
+258,Groundnut,Bhattu Kalan,2013-10-17,3621.0,22.7,34.6,clear
+259,Mustard,Bhattu Kalan,2013-10-17,3215.0,4.2,34.6,clear
+260,Groundnut,Bhattu Kalan,2013-10-18,3345.0,57.3,33.4,clear
+261,Mustard,Bhattu Kalan,2013-10-18,3230.0,6.9,33.4,clear
+262,Groundnut,Bhattu Kalan,2013-10-19,3171.0,36.6,33.8,clear
+263,Mustard,Bhattu Kalan,2013-10-19,3135.0,18.3,33.8,clear
+264,Groundnut,Bhattu Kalan,2013-10-21,3151.0,38.5,34.0,clear
+265,Mustard,Bhattu Kalan,2013-10-21,3200.0,10.6,34.0,clear
+266,Groundnut,Bhattu Kalan,2013-10-22,3227.0,27.8,33.0,clear
+267,Mustard,Bhattu Kalan,2013-10-22,3200.0,6.2,33.0,clear
+268,Groundnut,Bhattu Kalan,2013-10-23,3311.0,16.4,33.0,clear
+269,Mustard,Bhattu Kalan,2013-10-23,3249.0,3.5,33.0,clear
+270,Groundnut,Bhattu Kalan,2013-10-24,3351.0,27.1,29.4,clear
+271,Mustard,Bhattu Kalan,2013-10-24,3265.0,6.7,29.4,clear
+272,Groundnut,Bhattu Kalan,2013-10-25,3301.0,19.8,27.8,clear
+273,Mustard,Bhattu Kalan,2013-10-25,3250.0,7.9,27.8,clear
+274,Groundnut,Bhattu Kalan,2013-10-26,3336.0,36.3,31.4,clear
+275,Mustard,Bhattu Kalan,2013-10-26,3250.0,13.9,31.4,clear
+276,Groundnut,Bhattu Kalan,2013-10-28,3250.0,32.0,30.2,clear
+277,Mustard,Bhattu Kalan,2013-10-28,3316.0,6.6,30.2,clear
+278,Groundnut,Bhattu Kalan,2013-10-30,3200.0,27.6,34.0,clear
+279,Mustard,Bhattu Kalan,2013-10-30,3300.0,6.3,34.0,clear
+280,Groundnut,Bhattu Kalan,2013-10-31,3171.0,22.1,30.0,clear
+281,Mustard,Bhattu Kalan,2013-10-31,3340.0,5.3,30.0,clear
+282,Groundnut,Bhattu Kalan,2013-01-11,3101.0,21.9,22.6,clear
+283,Mustard,Bhattu Kalan,2013-01-11,3313.0,4.3,22.6,clear
+284,Groundnut,Bhattu Kalan,2013-05-11,3255.0,23.0,36.2,clear
+285,Mustard,Bhattu Kalan,2013-05-11,3347.0,7.4,36.2,clear
+286,Groundnut,Bhattu Kalan,2013-06-11,3325.0,31.5,37.0,clear
+287,Mustard,Bhattu Kalan,2013-06-11,3370.0,4.1,37.0,clear
+288,Groundnut,Bhattu Kalan,2013-07-11,3281.0,48.4,36.6,clear
+289,Mustard,Bhattu Kalan,2013-07-11,3368.0,3.5,36.6,clear
+290,Groundnut,Bhattu Kalan,2013-08-11,3317.0,37.1,34.4,clear
+291,Mustard,Bhattu Kalan,2013-08-11,3247.0,1.8,34.4,clear
+292,Groundnut,Bhattu Kalan,2013-09-11,3326.0,31.7,37.2,clear
+293,Mustard,Bhattu Kalan,2013-09-11,3314.0,3.9,37.2,clear
+294,Groundnut,Bhattu Kalan,2013-11-11,3450.0,35.8,25.6,clear
+295,Mustard,Bhattu Kalan,2013-11-11,3320.0,5.8,25.6,clear
+296,Groundnut,Bhattu Kalan,2013-12-11,3450.0,40.0,25.2,clear
+297,Mustard,Bhattu Kalan,2013-12-11,3330.0,11.5,25.2,clear
+298,Groundnut,Bhattu Kalan,2013-11-13,3461.0,41.2,26.2,clear
+299,Mustard,Bhattu Kalan,2013-11-13,3354.0,7.1,26.2,clear
+300,Groundnut,Bhattu Kalan,2013-11-14,3451.0,38.4,26.4,clear
+301,Mustard,Bhattu Kalan,2013-11-14,3300.0,3.3,26.4,clear
+302,Groundnut,Bhattu Kalan,2013-11-15,3400.0,59.6,26.4,clear
+303,Mustard,Bhattu Kalan,2013-11-15,3329.0,7.3,26.4,clear
+304,Groundnut,Bhattu Kalan,2013-11-16,3400.0,36.7,24.4,clear
+305,Mustard,Bhattu Kalan,2013-11-16,3325.0,7.2,24.4,clear
+306,Groundnut,Bhattu Kalan,2013-11-18,3400.0,32.6,27.6,clear
+307,Mustard,Bhattu Kalan,2013-11-18,3330.0,9.5,27.6,clear
+308,Groundnut,Bhattu Kalan,2013-11-19,3355.0,33.7,28.0,clear
+309,Mustard,Bhattu Kalan,2013-11-19,3351.0,6.7,28.0,clear
+310,Groundnut,Bhattu Kalan,2013-11-20,3224.0,32.7,29.4,clear
+311,Mustard,Bhattu Kalan,2013-11-20,3300.0,13.4,29.4,clear
+312,Groundnut,Bhattu Kalan,2013-11-21,3285.0,50.7,28.2,clear
+313,Mustard,Bhattu Kalan,2013-11-21,3335.0,17.6,28.2,clear
+314,Groundnut,Bhattu Kalan,2013-11-22,3261.0,50.9,27.6,clear
+315,Mustard,Bhattu Kalan,2013-11-22,3400.0,13.2,27.6,clear
+316,Groundnut,Bhattu Kalan,2013-11-23,3250.0,41.7,24.6,clear
+317,Mustard,Bhattu Kalan,2013-11-23,3380.0,19.8,24.6,clear
+318,Groundnut,Bhattu Kalan,2013-11-25,3200.0,50.3,28.8,clear
+319,Mustard,Bhattu Kalan,2013-11-25,3326.0,8.2,28.8,clear
+320,Groundnut,Bhattu Kalan,2013-11-26,3200.0,38.1,28.0,clear
+321,Mustard,Bhattu Kalan,2013-11-26,3360.0,8.1,28.0,clear
+322,Groundnut,Bhattu Kalan,2013-11-27,3053.0,51.7,29.2,clear
+323,Mustard,Bhattu Kalan,2013-11-27,3350.0,9.5,29.2,clear
+324,Groundnut,Bhattu Kalan,2013-11-28,2970.0,20.0,29.4,clear
+325,Mustard,Bhattu Kalan,2013-11-28,3351.0,13.2,29.4,clear
+326,Groundnut,Bhattu Kalan,2013-03-12,3200.0,28.6,30.0,clear
+327,Mustard,Bhattu Kalan,2013-03-12,3299.0,6.0,30.0,clear
+328,Groundnut,Bhattu Kalan,2013-04-12,3013.0,34.1,34.4,clear
+329,Mustard,Bhattu Kalan,2013-04-12,3264.0,10.8,34.4,clear
+330,Groundnut,Bhattu Kalan,2013-05-12,3173.0,41.8,34.4,clear
+331,Mustard,Bhattu Kalan,2013-05-12,3323.0,8.8,34.4,clear
+332,Groundnut,Bhattu Kalan,2013-06-12,3141.0,37.8,38.4,clear
+333,Mustard,Bhattu Kalan,2013-06-12,3289.0,2.2,38.4,clear
+334,Groundnut,Bhattu Kalan,2013-07-12,3161.0,31.2,34.4,clear
+335,Mustard,Bhattu Kalan,2013-07-12,3206.0,0.4,34.4,clear
+336,Groundnut,Bhattu Kalan,2013-09-12,3100.0,43.8,35.8,clear
+337,Mustard,Bhattu Kalan,2013-09-12,3340.0,7.0,35.8,clear
+338,Groundnut,Bhattu Kalan,2013-10-12,3025.0,24.0,29.2,clear
+339,Mustard,Bhattu Kalan,2013-10-12,3341.0,8.5,29.2,clear
+340,Groundnut,Bhattu Kalan,2013-11-12,2984.0,31.8,26.4,clear
+341,Mustard,Bhattu Kalan,2013-11-12,3325.0,7.8,26.4,clear
+342,Groundnut,Bhattu Kalan,2013-12-12,2790.0,20.7,24.2,clear
+343,Mustard,Bhattu Kalan,2013-12-12,3296.0,3.5,24.2,clear
+344,Groundnut,Bhattu Kalan,2013-12-16,2911.0,32.1,24.2,clear
+345,Mustard,Bhattu Kalan,2013-12-16,3280.0,5.1,24.2,clear
+346,Groundnut,Bhattu Kalan,2013-12-23,2830.0,17.2,18.2,clear
+347,Mustard,Bhattu Kalan,2013-12-23,3300.0,2.8,18.2,clear
+348,Groundnut,Bhattu Kalan,2013-12-24,3000.0,8.2,19.4,clear
+349,Mustard,Bhattu Kalan,2013-12-24,3311.0,7.0,19.4,clear
+350,Groundnut,Bhattu Kalan,2013-12-25,2900.0,19.2,20.0,clear
+351,Groundnut,Bhattu Kalan,2013-12-26,2900.0,9.4,21.2,clear
+352,Mustard,Bhattu Kalan,2013-12-26,3090.0,5.5,21.2,clear
+353,Groundnut,Bhattu Kalan,2013-12-27,2957.0,15.4,20.4,clear
+354,Mustard,Bhattu Kalan,2013-12-27,3170.0,7.0,20.4,clear
+355,Groundnut,Bhattu Kalan,2013-12-28,2849.0,10.2,20.0,clear
+356,Mustard,Bhattu Kalan,2013-12-28,3250.0,4.2,20.0,clear
+357,Mustard,Bhattu Kalan,2013-01-01,3614.0,0.8,12.2,clear
+358,Mustard,Bhattu Kalan,2013-09-01,3530.0,3.8,35.4,clear
+359,Mustard,Bhattu Kalan,2013-10-01,3510.0,3.0,32.2,clear
+360,Mustard,Bhattu Kalan,2013-01-21,3470.0,0.7,19.0,clear
+361,Mustard,Bhattu Kalan,2013-01-25,3310.0,1.0,20.8,clear
+362,Mustard,Bhattu Kalan,2013-02-02,3300.0,0.3,23.6,clear
+363,Mustard,Bhattu Kalan,2013-02-20,3370.0,1.5,23.0,clear
+364,Mustard,Bhattu Kalan,2013-12-03,3051.0,1.5,26.2,clear
+365,Mustard,Bhattu Kalan,2013-03-14,3031.0,1.0,25.4,rain
+366,Mustard,Fatehabad,2013-03-14,2970.0,7.5,25.4,rain
+367,Mustard,Bhattu Kalan,2013-03-15,3190.0,1.0,26.0,clear
+368,Mustard,Fatehabad,2013-03-15,2931.0,2.5,26.0,clear
+369,Mustard,Bhattu Kalan,2013-01-04,3000.0,59.1,11.4,clear
+370,Mustard,Fatehabad,2013-01-04,2900.0,13.6,11.4,clear
+371,Mustard,Bhattu Kalan,2013-02-04,2881.0,37.1,17.6,rain
+372,Mustard,Bhattu Kalan,2013-03-04,3000.0,53.6,29.4,clear
+373,Mustard,Fatehabad,2013-03-04,2826.0,29.2,29.4,clear
+374,Mustard,Bhattu Kalan,2013-05-04,3136.0,72.6,42.0,clear
+375,Mustard,Fatehabad,2013-05-04,3025.0,39.2,42.0,clear
+376,Mustard,Bhattu Kalan,2013-10-04,3040.0,124.4,28.0,clear
+377,Mustard,Fatehabad,2013-10-04,3060.0,121.7,28.0,clear
+378,Mustard,Bhattu Kalan,2013-11-04,3000.0,130.2,29.0,clear
+379,Mustard,Fatehabad,2013-11-04,2950.0,56.7,29.0,clear
+380,Mustard,Bhattu Kalan,2013-12-04,3030.0,100.8,25.4,clear
+381,Mustard,Fatehabad,2013-12-04,2950.0,55.9,25.4,clear
+382,Mustard,Bhattu Kalan,2013-04-13,3091.0,119.9,36.6,rain
+383,Mustard,Fatehabad,2013-04-13,3031.0,55.8,36.6,rain
+384,Mustard,Bhattu Kalan,2013-04-15,3030.0,140.4,36.8,clear
+385,Mustard,Fatehabad,2013-04-15,3000.0,136.5,36.8,clear
+386,Mustard,Bhattu Kalan,2013-04-16,2980.0,139.2,40.0,clear
+387,Mustard,Fatehabad,2013-04-16,2950.0,72.6,40.0,clear
+388,Mustard,Bhattu Kalan,2013-04-17,2950.0,134.0,38.0,clear
+389,Mustard,Fatehabad,2013-04-17,2890.0,55.4,38.0,clear
+390,Mustard,Bhattu Kalan,2013-04-18,2960.0,111.6,38.4,clear
+391,Mustard,Fatehabad,2013-04-18,2986.0,10.8,38.4,clear
+392,Mustard,Bhattu Kalan,2013-04-19,3000.0,53.1,39.2,clear
+393,Mustard,Fatehabad,2013-04-19,2905.0,13.8,39.2,clear
+394,Mustard,Bhattu Kalan,2013-04-20,2950.0,47.0,39.6,clear
+395,Mustard,Bhattu Kalan,2013-04-22,2950.0,89.7,31.8,clear
+396,Mustard,Bhattu Kalan,2013-04-23,2932.0,39.8,35.6,clear
+397,Mustard,Bhattu Kalan,2013-04-24,3000.0,36.4,37.4,clear
+398,Mustard,Bhattu Kalan,2013-04-25,2970.0,30.0,36.0,clear
+399,Mustard,Bhattu Kalan,2013-04-26,3010.0,1.0,34.0,clear
+400,Mustard,Bhattu Kalan,2013-04-27,2906.0,2.5,37.4,clear
+401,Mustard,Fatehabad,2013-04-27,2950.0,19.5,37.4,clear
+402,Mustard,Bhattu Kalan,2013-04-29,2950.0,4.8,38.0,clear
+403,Mustard,Bhattu Kalan,2013-04-30,2919.0,6.1,39.0,clear
+404,Mustard,Bhattu Kalan,2013-01-05,2916.0,7.2,10.4,clear
+405,Mustard,Bhattu Kalan,2013-02-05,2911.0,4.7,21.0,clear
+406,Mustard,Bhattu Kalan,2013-03-05,2900.0,14.1,31.2,clear
+407,Mustard,Bhattu Kalan,2013-04-05,2910.0,47.0,32.6,clear
+408,Mustard,Fatehabad,2013-04-05,2829.0,2.3,32.6,clear
+409,Mustard,Bhattu Kalan,2013-06-05,2850.0,41.0,45.6,clear
+410,Mustard,Fatehabad,2013-06-05,2880.0,0.8,45.6,clear
+411,Mustard,Bhattu Kalan,2013-07-05,2860.0,29.6,39.0,clear
+412,Mustard,Bhattu Kalan,2013-08-05,2850.0,49.8,36.0,clear
+413,Mustard,Fatehabad,2013-08-05,2857.0,0.3,36.0,clear
+414,Mustard,Bhattu Kalan,2013-09-05,2892.0,41.7,34.0,clear
+415,Mustard,Fatehabad,2013-09-05,2825.0,1.1,34.0,clear
+416,Mustard,Bhattu Kalan,2013-10-05,2900.0,45.8,32.4,clear
+417,Mustard,Fatehabad,2013-10-05,2865.0,1.9,32.4,clear
+418,Mustard,Bhattu Kalan,2013-11-05,2948.0,58.3,25.8,clear
+419,Mustard,Fatehabad,2013-11-05,2865.0,0.8,25.8,clear
+420,Mustard,Bhattu Kalan,2013-05-13,3000.0,42.8,38.2,clear
+421,Mustard,Fatehabad,2013-05-13,2900.0,3.4,38.2,clear
+422,Mustard,Bhattu Kalan,2013-05-14,2961.0,38.1,40.4,clear
+423,Mustard,Fatehabad,2013-05-14,2983.0,1.6,40.4,clear
+424,Mustard,Bhattu Kalan,2013-05-15,2950.0,33.7,41.0,clear
+425,Mustard,Fatehabad,2013-05-15,2949.0,3.2,41.0,clear
+426,Mustard,Bhattu Kalan,2013-05-16,2930.0,20.3,42.0,clear
+427,Mustard,Fatehabad,2013-05-16,3042.0,1.5,42.0,clear
+428,Mustard,Bhattu Kalan,2013-05-17,2939.0,18.2,44.0,clear
+429,Mustard,Bhattu Kalan,2013-05-18,2960.0,16.5,45.6,clear
+430,Mustard,Fatehabad,2013-05-18,2981.0,0.6,45.6,clear
+431,Mustard,Bhattu Kalan,2013-05-20,2960.0,26.1,45.4,clear
+432,Mustard,Fatehabad,2013-05-20,2991.0,3.1,45.4,clear
+433,Mustard,Bhattu Kalan,2013-05-21,2946.0,14.6,46.0,clear
+434,Mustard,Fatehabad,2013-05-21,3032.0,1.3,46.0,clear
+435,Mustard,Bhattu Kalan,2013-05-22,2960.0,18.0,45.8,clear
+436,Mustard,Fatehabad,2013-05-22,2944.0,1.0,45.8,clear
+437,Mustard,Bhattu Kalan,2013-05-23,2960.0,16.1,47.2,clear
+438,Mustard,Fatehabad,2013-05-23,3001.0,0.8,47.2,clear
+439,Mustard,Bhattu Kalan,2013-05-24,2945.0,18.9,47.2,clear
+440,Mustard,Fatehabad,2013-05-24,2911.0,3.2,47.2,clear
+441,Mustard,Bhattu Kalan,2013-05-25,2957.0,15.1,45.4,clear
+442,Mustard,Fatehabad,2013-05-25,2947.0,2.6,45.4,clear
+443,Mustard,Bhattu Kalan,2013-05-27,2925.0,16.1,43.8,clear
+444,Mustard,Fatehabad,2013-05-27,2891.0,4.4,43.8,clear
+445,Mustard,Bhattu Kalan,2013-05-28,2925.0,26.5,42.0,clear
+446,Mustard,Fatehabad,2013-05-28,2996.0,1.9,42.0,clear
+447,Mustard,Bhattu Kalan,2013-05-29,2940.0,19.1,43.2,clear
+448,Mustard,Bhattu Kalan,2013-05-30,2945.0,19.4,40.4,clear
+449,Mustard,Fatehabad,2013-05-30,2903.0,2.8,40.4,clear
+450,Mustard,Bhattu Kalan,2013-05-31,2960.0,13.4,43.4,clear
+451,Mustard,Bhattu Kalan,2013-01-06,2980.0,14.1,11.6,clear
+452,Mustard,Fatehabad,2013-01-06,2973.0,2.8,11.6,clear
+453,Mustard,Bhattu Kalan,2013-03-06,2975.0,9.5,29.0,clear
+454,Mustard,Fatehabad,2013-03-06,2951.0,2.4,29.0,clear
+455,Mustard,Bhattu Kalan,2013-04-06,2959.0,21.8,35.2,clear
+456,Mustard,Fatehabad,2013-04-06,2995.0,2.5,35.2,clear
+457,Mustard,Bhattu Kalan,2013-05-06,2970.0,18.4,42.0,clear
+458,Mustard,Fatehabad,2013-05-06,2973.0,0.8,42.0,clear
+459,Mustard,Bhattu Kalan,2013-06-06,2980.0,21.6,44.2,clear
+460,Mustard,Fatehabad,2013-06-06,3030.0,0.9,44.2,clear
+461,Mustard,Bhattu Kalan,2013-07-06,3000.0,35.4,37.4,clear
+462,Mustard,Fatehabad,2013-07-06,3042.0,1.5,37.4,clear
+463,Mustard,Bhattu Kalan,2013-10-06,3050.0,21.9,34.0,clear
+464,Mustard,Fatehabad,2013-10-06,3055.0,0.5,34.0,clear
+465,Mustard,Bhattu Kalan,2013-11-06,3060.0,18.0,27.0,clear
+466,Mustard,Fatehabad,2013-11-06,3041.0,0.5,27.0,clear
+467,Mustard,Bhattu Kalan,2013-06-13,3055.0,21.1,33.0,clear
+468,Mustard,Bhattu Kalan,2013-06-14,3060.0,20.0,34.0,clear
+469,Mustard,Bhattu Kalan,2013-06-15,3077.0,14.7,34.4,clear
+470,Mustard,Bhattu Kalan,2013-06-21,3064.0,23.8,42.0,clear
+471,Mustard,Fatehabad,2013-06-21,3060.0,3.0,42.0,clear
+472,Mustard,Bhattu Kalan,2013-06-22,3100.0,16.5,41.2,clear
+473,Mustard,Bhattu Kalan,2013-06-24,3085.0,28.3,41.0,clear
+474,Mustard,Bhattu Kalan,2013-06-25,3066.0,13.0,40.4,clear
+475,Mustard,Bhattu Kalan,2013-06-26,3024.0,12.3,37.8,clear
+476,Mustard,Bhattu Kalan,2013-06-27,3017.0,8.2,40.0,clear
+477,Mustard,Bhattu Kalan,2013-06-28,2985.0,3.0,40.0,clear
+478,Mustard,Bhattu Kalan,2013-06-29,3030.0,15.4,40.0,clear
+479,Mustard,Bhattu Kalan,2013-01-07,3020.0,15.8,11.6,clear
+480,Mustard,Bhattu Kalan,2013-02-07,3010.0,6.7,20.0,clear
+481,Mustard,Bhattu Kalan,2013-03-07,3028.0,11.1,31.4,clear
+482,Mustard,Bhattu Kalan,2013-04-07,3020.0,13.9,34.6,clear
+483,Mustard,Bhattu Kalan,2013-05-07,3010.0,9.7,42.0,clear
+484,Mustard,Bhattu Kalan,2013-06-07,3010.0,10.1,43.2,clear
+485,Mustard,Bhattu Kalan,2013-08-07,3020.0,15.1,31.4,clear
+486,Mustard,Bhattu Kalan,2013-09-07,3035.0,10.9,35.0,clear
+487,Mustard,Bhattu Kalan,2013-10-07,3061.0,9.6,35.4,clear
+488,Mustard,Bhattu Kalan,2013-11-07,3055.0,18.3,20.4,clear
+489,Mustard,Bhattu Kalan,2013-12-07,3045.0,10.5,26.6,clear
+490,Mustard,Bhattu Kalan,2013-07-16,3018.0,7.3,36.6,clear
+491,Mustard,Bhattu Kalan,2013-07-17,3010.0,7.2,35.8,clear
+492,Mustard,Bhattu Kalan,2013-07-19,2962.0,4.4,38.6,rain
+493,Mustard,Bhattu Kalan,2013-07-20,2974.0,8.2,32.0,clear
+494,Mustard,Bhattu Kalan,2013-07-23,2962.0,11.9,34.6,clear
+495,Mustard,Fatehabad,2013-07-23,3000.0,3.5,34.6,clear
+496,Mustard,Bhattu Kalan,2013-07-24,2940.0,11.1,34.8,clear
+497,Mustard,Bhattu Kalan,2013-07-25,2820.0,7.8,36.2,clear
+498,Mustard,Bhattu Kalan,2013-07-26,2881.0,9.5,35.4,clear
+499,Mustard,Bhattu Kalan,2013-07-27,2894.0,3.1,35.4,clear
+500,Mustard,Bhattu Kalan,2013-07-29,2900.0,8.3,38.4,clear
+501,Mustard,Bhattu Kalan,2013-07-30,2894.0,4.6,36.0,rain
+502,Mustard,Bhattu Kalan,2013-07-31,2929.0,8.0,37.4,rain
+503,Mustard,Bhattu Kalan,2013-01-08,2971.0,9.0,12.2,clear
+504,Mustard,Bhattu Kalan,2013-02-08,2975.0,8.9,21.0,clear
+505,Mustard,Bhattu Kalan,2013-03-08,2950.0,8.0,31.4,clear
+506,Mustard,Bhattu Kalan,2013-07-08,2974.0,4.3,35.2,clear
+507,Mustard,Bhattu Kalan,2013-08-13,3028.0,8.2,32.6,clear
+508,Mustard,Bhattu Kalan,2013-08-19,3050.0,14.5,32.8,clear
+509,Mustard,Bhattu Kalan,2013-08-20,3030.0,9.1,33.4,clear
+510,Mustard,Bhattu Kalan,2013-08-21,3040.0,14.4,32.0,clear
+511,Mustard,Bhattu Kalan,2013-08-22,3055.0,14.1,32.6,clear
+512,Mustard,Bhattu Kalan,2013-08-23,3035.0,19.8,33.6,clear
+513,Mustard,Bhattu Kalan,2013-08-24,3080.0,14.3,35.4,clear
+514,Mustard,Bhattu Kalan,2013-08-27,3174.0,14.5,35.4,clear
+515,Mustard,Bhattu Kalan,2013-08-28,3181.0,5.5,34.8,clear
+516,Mustard,Bhattu Kalan,2013-08-29,3211.0,5.4,33.0,clear
+517,Mustard,Bhattu Kalan,2013-08-30,3170.0,5.6,34.6,clear
+518,Mustard,Bhattu Kalan,2013-08-31,3201.0,5.0,34.0,clear
+519,Mustard,Bhattu Kalan,2013-02-09,3180.0,5.5,21.6,clear
+520,Mustard,Bhattu Kalan,2013-03-09,3250.0,8.0,30.8,clear
+521,Mustard,Bhattu Kalan,2013-04-09,3250.0,8.0,37.2,rain
+522,Mustard,Bhattu Kalan,2013-05-09,3307.0,5.6,42.4,clear
+523,Mustard,Bhattu Kalan,2013-06-09,3250.0,8.6,44.0,clear
+524,Mustard,Bhattu Kalan,2013-07-09,3249.0,14.6,36.4,clear
+525,Mustard,Bhattu Kalan,2013-09-09,3210.0,13.1,36.0,clear
+526,Mustard,Bhattu Kalan,2013-11-09,3210.0,7.6,25.0,clear
+527,Mustard,Bhattu Kalan,2013-12-09,3180.0,11.2,24.8,clear
+528,Mustard,Bhattu Kalan,2013-09-13,3200.0,6.4,37.6,clear
+529,Mustard,Bhattu Kalan,2013-09-14,3189.0,11.6,37.4,clear
+530,Mustard,Bhattu Kalan,2013-09-16,3160.0,20.8,31.0,clear
+531,Mustard,Bhattu Kalan,2013-09-17,3189.0,15.2,36.2,clear
+532,Mustard,Bhattu Kalan,2013-09-18,3211.0,9.3,35.8,clear
+533,Mustard,Bhattu Kalan,2013-09-19,3135.0,18.8,36.0,clear
+534,Mustard,Bhattu Kalan,2013-09-20,3120.0,12.6,36.2,clear
+535,Mustard,Bhattu Kalan,2013-09-21,3093.0,8.6,24.8,clear
+536,Mustard,Bhattu Kalan,2013-09-23,3124.0,6.4,33.6,clear
+537,Mustard,Bhattu Kalan,2013-09-24,3130.0,9.3,34.6,clear
+538,Mustard,Bhattu Kalan,2013-09-25,3134.0,10.2,30.6,clear
+539,Mustard,Bhattu Kalan,2013-09-26,3130.0,12.2,33.0,clear
+540,Mustard,Bhattu Kalan,2013-09-27,3132.0,12.8,35.2,clear
+541,Mustard,Bhattu Kalan,2013-09-28,3100.0,9.0,32.4,clear
+542,Mustard,Bhattu Kalan,2013-09-30,3129.0,6.8,29.8,clear
+543,Mustard,Bhattu Kalan,2013-01-10,3115.0,7.2,21.2,clear
+544,Mustard,Bhattu Kalan,2013-02-10,3128.0,9.0,21.6,clear
+545,Mustard,Bhattu Kalan,2013-03-10,3100.0,10.9,31.4,clear
+546,Mustard,Bhattu Kalan,2013-04-10,3081.0,9.3,34.8,clear
+547,Mustard,Bhattu Kalan,2013-05-10,3069.0,9.8,40.8,clear
+548,Mustard,Bhattu Kalan,2013-10-29,3280.0,4.9,31.0,clear
+549,Mustard,Bhattu Kalan,2013-02-12,3310.0,3.4,24.0,clear
+550,Mustard,Bhattu Kalan,2013-12-17,3245.0,4.4,23.5,clear
+551,Mustard,Bhattu Kalan,2013-12-18,3290.0,0.5,18.0,clear
+552,Mustard,Bhattu Kalan,2013-12-19,3271.0,2.3,16.8,clear
+553,Mustard,Bhattu Kalan,2013-12-21,3340.0,4.3,14.2,clear
+554,Mustard,Fatehabad,2013-03-13,2900.0,7.0,28.2,rain
+555,Mustard,Fatehabad,2013-03-16,2925.0,1.0,26.6,clear
+556,Mustard,Fatehabad,2013-03-18,2860.0,1.1,28.8,clear
+557,Mustard,Fatehabad,2013-03-20,3041.0,15.6,32.4,clear
+558,Mustard,Fatehabad,2013-03-21,2900.0,5.0,32.6,clear
+559,Mustard,Fatehabad,2013-03-22,2964.0,6.3,30.8,clear
+560,Mustard,Fatehabad,2013-03-23,2981.0,4.0,33.4,clear
+561,Mustard,Fatehabad,2013-03-25,2999.0,6.7,27.4,clear
+562,Mustard,Fatehabad,2013-03-26,2911.0,2.0,27.6,clear
+563,Mustard,Fatehabad,2013-03-28,2976.0,2.6,28.6,clear
+564,Mustard,Fatehabad,2013-03-29,2951.0,0.5,26.2,clear
+565,Mustard,Fatehabad,2013-03-30,2861.0,3.1,30.0,clear
+566,Mustard,Fatehabad,2013-06-04,3100.0,80.3,42.6,clear
+567,Mustard,Fatehabad,2013-08-04,3181.0,134.7,35.4,clear
+568,Mustard,Fatehabad,2013-09-04,3080.0,150.0,35.4,clear
+569,Mustard,Fatehabad,2013-08-06,2981.0,3.2,28.6,clear
+570,Mustard,Fatehabad,2013-12-06,3061.0,0.2,25.6,clear
+571,Groundnut,Bhattu Kalan,2014-01-01,2851.0,11.2,11.4,clear
+572,Groundnut,Bhattu Kalan,2014-02-01,2961.0,26.7,16.4,clear
+573,Mustard,Bhattu Kalan,2014-02-01,3230.0,0.7,16.4,clear
+574,Groundnut,Bhattu Kalan,2014-03-01,2951.0,17.4,19.4,clear
+575,Groundnut,Bhattu Kalan,2014-04-01,2840.0,17.3,33.4,clear
+576,Groundnut,Bhattu Kalan,2014-06-01,2925.0,19.6,34.4,clear
+577,Groundnut,Bhattu Kalan,2014-08-01,2851.0,13.7,36.0,clear
+578,Mustard,Bhattu Kalan,2014-08-01,3250.0,3.1,36.0,clear
+579,Groundnut,Bhattu Kalan,2014-09-01,2700.0,13.8,33.4,clear
+580,Groundnut,Bhattu Kalan,2014-10-01,2800.0,7.8,37.6,clear
+581,Groundnut,Bhattu Kalan,2014-11-01,2749.0,7.8,30.6,clear
+582,Mustard,Bhattu Kalan,2014-11-01,3204.0,0.7,30.6,clear
+583,Groundnut,Bhattu Kalan,2014-01-13,2706.0,12.6,18.6,clear
+584,Groundnut,Bhattu Kalan,2014-01-14,2751.0,5.1,20.4,clear
+585,Groundnut,Bhattu Kalan,2014-01-15,2750.0,21.0,16.0,clear
+586,Mustard,Bhattu Kalan,2014-01-15,3190.0,0.2,16.0,clear
+587,Groundnut,Bhattu Kalan,2014-01-16,2900.0,9.5,13.0,clear
+588,Mustard,Bhattu Kalan,2014-01-16,3210.0,1.0,13.0,clear
+589,Groundnut,Bhattu Kalan,2014-01-17,2931.0,12.6,12.4,clear
+590,Mustard,Bhattu Kalan,2014-01-17,3190.0,2.2,12.4,clear
+591,Groundnut,Bhattu Kalan,2014-01-18,2870.0,3.7,14.4,clear
+592,Mustard,Bhattu Kalan,2014-01-18,3150.0,1.7,14.4,clear
+593,Groundnut,Bhattu Kalan,2014-01-20,2900.0,14.3,19.0,clear
+594,Groundnut,Bhattu Kalan,2014-01-21,2950.0,9.6,16.0,clear
+595,Groundnut,Bhattu Kalan,2014-01-22,2861.0,2.9,17.2,clear
+596,Groundnut,Bhattu Kalan,2014-01-23,2850.0,5.0,19.0,clear
+597,Groundnut,Bhattu Kalan,2014-01-24,2890.0,11.6,14.8,clear
+598,Groundnut,Bhattu Kalan,2014-01-25,2829.0,12.4,15.6,clear
+599,Groundnut,Bhattu Kalan,2014-01-27,2599.0,15.3,24.0,clear
+600,Mustard,Bhattu Kalan,2014-01-27,3180.0,0.4,24.0,clear
+601,Groundnut,Bhattu Kalan,2014-01-28,2723.0,13.8,24.0,clear
+602,Groundnut,Bhattu Kalan,2014-01-29,2830.0,22.6,25.0,clear
+603,Groundnut,Bhattu Kalan,2014-01-30,2780.0,18.5,18.0,clear
+604,Groundnut,Bhattu Kalan,2014-01-31,2572.0,9.9,19.0,clear
+605,Mustard,Bhattu Kalan,2014-01-31,3085.0,3.2,19.0,clear
+606,Groundnut,Bhattu Kalan,2014-01-02,2736.0,8.6,17.6,clear
+607,Groundnut,Bhattu Kalan,2014-03-02,2710.0,20.2,22.0,clear
+608,Groundnut,Bhattu Kalan,2014-04-02,2730.0,10.7,32.2,clear
+609,Groundnut,Bhattu Kalan,2014-05-02,2750.0,12.0,43.0,clear
+610,Groundnut,Bhattu Kalan,2014-06-02,2741.0,6.0,40.6,clear
+611,Groundnut,Bhattu Kalan,2014-07-02,2700.0,5.3,36.4,clear
+612,Groundnut,Bhattu Kalan,2014-08-02,2902.0,4.0,36.4,rain
+613,Mustard,Bhattu Kalan,2014-08-02,3150.0,1.2,36.4,rain
+614,Groundnut,Bhattu Kalan,2014-10-02,2730.0,16.4,38.0,clear
+615,Groundnut,Bhattu Kalan,2014-11-02,2799.0,12.1,31.4,clear
+616,Mustard,Bhattu Kalan,2014-11-02,3150.0,0.6,31.4,clear
+617,Groundnut,Bhattu Kalan,2014-12-02,2840.0,13.2,28.4,clear
+618,Mustard,Bhattu Kalan,2014-12-02,3140.0,0.2,28.4,clear
+619,Groundnut,Bhattu Kalan,2014-02-13,2900.0,12.3,19.8,clear
+620,Groundnut,Bhattu Kalan,2014-02-14,2955.0,8.8,16.4,clear
+621,Groundnut,Bhattu Kalan,2014-02-15,3025.0,8.2,18.2,clear
+622,Groundnut,Bhattu Kalan,2014-02-17,2851.0,12.7,21.6,clear
+623,Groundnut,Bhattu Kalan,2014-02-18,3030.0,10.9,23.6,clear
+624,Groundnut,Bhattu Kalan,2014-02-19,2934.0,8.4,24.0,clear
+625,Groundnut,Bhattu Kalan,2014-02-20,2851.0,5.5,25.0,clear
+626,Groundnut,Bhattu Kalan,2014-02-21,2860.0,6.0,23.4,rain
+627,Groundnut,Bhattu Kalan,2014-02-22,2900.0,2.5,20.6,clear
+628,Groundnut,Bhattu Kalan,2014-02-24,2900.0,5.0,22.4,clear
+629,Groundnut,Bhattu Kalan,2014-02-25,2901.0,6.8,24.4,clear
+630,Groundnut,Bhattu Kalan,2014-02-26,3050.0,8.0,24.4,clear
+631,Groundnut,Bhattu Kalan,2014-02-27,2885.0,9.3,24.4,rain
+632,Groundnut,Bhattu Kalan,2014-02-28,3066.0,2.7,17.2,clear
+633,Groundnut,Bhattu Kalan,2014-01-03,3050.0,6.5,19.4,clear
+634,Groundnut,Bhattu Kalan,2014-03-03,3050.0,7.1,25.0,clear
+635,Groundnut,Bhattu Kalan,2014-04-03,3212.0,3.2,32.0,clear
+636,Groundnut,Bhattu Kalan,2014-05-03,3351.0,2.5,39.6,clear
+637,Groundnut,Bhattu Kalan,2014-06-03,3375.0,6.7,43.2,clear
+638,Groundnut,Bhattu Kalan,2014-07-03,3351.0,8.7,33.0,clear
+639,Groundnut,Bhattu Kalan,2014-08-03,3310.0,16.7,35.6,clear
+640,Mustard,Bhattu Kalan,2014-08-03,3250.0,1.3,35.6,clear
+641,Groundnut,Bhattu Kalan,2014-10-03,3300.0,2.3,38.0,clear
+642,Groundnut,Bhattu Kalan,2014-11-03,3288.0,4.1,31.4,clear
+643,Mustard,Bhattu Kalan,2014-11-03,3190.0,0.8,31.4,clear
+644,Groundnut,Bhattu Kalan,2014-12-03,3100.0,5.4,36.0,clear
+645,Groundnut,Bhattu Kalan,2014-03-13,3199.0,3.6,22.6,clear
+646,Groundnut,Bhattu Kalan,2014-03-14,3170.0,4.4,27.2,clear
+647,Groundnut,Bhattu Kalan,2014-03-15,3300.0,3.9,28.4,clear
+648,Groundnut,Bhattu Kalan,2014-03-18,3276.0,1.1,29.2,clear
+649,Groundnut,Bhattu Kalan,2014-03-19,3216.0,5.3,28.4,clear
+650,Groundnut,Bhattu Kalan,2014-03-20,3150.0,2.6,28.6,clear
+651,Groundnut,Bhattu Kalan,2014-03-22,3349.0,5.1,31.0,clear
+652,Groundnut,Bhattu Kalan,2014-03-24,3360.0,1.4,26.0,clear
+653,Groundnut,Bhattu Kalan,2014-03-25,3351.0,3.2,29.6,clear
+654,Groundnut,Bhattu Kalan,2014-03-26,3500.0,4.3,28.6,clear
+655,Groundnut,Bhattu Kalan,2014-03-28,3300.0,17.7,28.2,clear
+656,Mustard,Bhattu Kalan,2014-03-28,2990.0,3.0,28.2,clear
+657,Mustard,Fatehabad,2014-03-28,2765.0,1.3,28.2,clear
+658,Groundnut,Bhattu Kalan,2014-03-29,3281.0,5.9,29.2,clear
+659,Mustard,Bhattu Kalan,2014-03-29,3000.0,2.5,29.2,clear
+660,Mustard,Fatehabad,2014-03-29,2805.0,0.4,29.2,clear
+661,Groundnut,Bhattu Kalan,2014-03-31,3350.0,0.7,32.0,clear
+662,Mustard,Fatehabad,2014-03-31,2800.0,8.5,32.0,clear
+663,Groundnut,Bhattu Kalan,2014-01-04,3350.0,1.8,20.0,clear
+664,Mustard,Bhattu Kalan,2014-01-04,2850.0,19.4,20.0,clear
+665,Mustard,Fatehabad,2014-01-04,2824.0,54.8,20.0,clear
+666,Groundnut,Bhattu Kalan,2014-02-04,3350.0,3.5,23.0,clear
+667,Mustard,Bhattu Kalan,2014-02-04,2900.0,39.5,23.0,clear
+668,Mustard,Fatehabad,2014-02-04,2825.0,74.4,23.0,clear
+669,Groundnut,Bhattu Kalan,2014-03-04,3310.0,2.0,26.6,clear
+670,Mustard,Bhattu Kalan,2014-03-04,2950.0,52.5,26.6,clear
+671,Mustard,Fatehabad,2014-03-04,2600.0,78.8,26.6,clear
+672,Groundnut,Bhattu Kalan,2014-04-04,2971.0,1.2,31.0,clear
+673,Mustard,Bhattu Kalan,2014-04-04,2950.0,75.1,31.0,clear
+674,Mustard,Fatehabad,2014-04-04,2841.0,90.0,31.0,clear
+675,Groundnut,Bhattu Kalan,2014-05-04,3331.0,2.5,39.6,clear
+676,Mustard,Bhattu Kalan,2014-05-04,2900.0,128.5,39.6,clear
+677,Mustard,Fatehabad,2014-05-04,2725.0,33.2,39.6,clear
+678,Groundnut,Bhattu Kalan,2014-07-04,3510.0,5.3,38.0,clear
+679,Mustard,Bhattu Kalan,2014-07-04,2850.0,210.4,38.0,clear
+680,Mustard,Fatehabad,2014-07-04,2800.0,52.5,38.0,clear
+681,Groundnut,Bhattu Kalan,2014-11-04,3280.0,2.5,31.0,clear
+682,Mustard,Bhattu Kalan,2014-11-04,2850.0,245.5,31.0,clear
+683,Mustard,Fatehabad,2014-11-04,2811.0,65.8,31.0,clear
+684,Groundnut,Bhattu Kalan,2014-12-04,2450.0,0.4,36.0,clear
+685,Mustard,Bhattu Kalan,2014-12-04,2850.0,250.5,36.0,clear
+686,Mustard,Fatehabad,2014-12-04,2830.0,155.5,36.0,clear
+687,Groundnut,Bhattu Kalan,2014-02-10,3360.0,2.3,19.4,clear
+688,Mustard,Bhattu Kalan,2014-02-10,3081.0,3.6,19.4,clear
+689,Groundnut,Bhattu Kalan,2014-04-10,3331.0,0.5,34.0,clear
+690,Mustard,Bhattu Kalan,2014-04-10,3335.0,1.6,34.0,clear
+691,Groundnut,Bhattu Kalan,2014-06-10,3281.0,2.1,46.0,clear
+692,Groundnut,Bhattu Kalan,2014-07-10,3150.0,0.7,41.4,clear
+693,Mustard,Bhattu Kalan,2014-07-10,3300.0,7.8,41.4,clear
+694,Groundnut,Bhattu Kalan,2014-10-10,3499.0,5.2,35.4,clear
+695,Mustard,Bhattu Kalan,2014-10-10,3270.0,12.6,35.4,clear
+696,Groundnut,Bhattu Kalan,2014-11-10,3606.0,9.1,27.8,clear
+697,Mustard,Bhattu Kalan,2014-11-10,3270.0,5.0,27.8,clear
+698,Groundnut,Bhattu Kalan,2014-10-13,3450.0,11.4,33.6,clear
+699,Mustard,Bhattu Kalan,2014-10-13,3288.0,6.0,33.6,clear
+700,Groundnut,Bhattu Kalan,2014-10-14,3640.0,66.0,26.0,clear
+701,Mustard,Bhattu Kalan,2014-10-14,3254.0,2.6,26.0,clear
+702,Groundnut,Bhattu Kalan,2014-10-17,4225.0,10.9,31.0,clear
+703,Groundnut,Bhattu Kalan,2014-10-20,3660.0,14.5,32.8,clear
+704,Mustard,Bhattu Kalan,2014-10-20,3366.0,10.5,32.8,clear
+705,Groundnut,Bhattu Kalan,2014-10-21,3500.0,20.3,34.0,clear
+706,Mustard,Bhattu Kalan,2014-10-21,3341.0,4.9,34.0,clear
+707,Groundnut,Bhattu Kalan,2014-10-22,3700.0,16.4,34.6,clear
+708,Mustard,Bhattu Kalan,2014-10-22,3276.0,3.5,34.6,clear
+709,Groundnut,Bhattu Kalan,2014-10-26,3560.0,38.1,31.6,clear
+710,Groundnut,Bhattu Kalan,2014-10-29,3452.0,27.5,31.4,clear
+711,Mustard,Bhattu Kalan,2014-10-29,3300.0,1.6,31.4,clear
+712,Groundnut,Bhattu Kalan,2014-10-30,3500.0,21.5,32.0,clear
+713,Mustard,Bhattu Kalan,2014-10-30,3300.0,1.3,32.0,clear
+714,Groundnut,Bhattu Kalan,2014-01-11,3430.0,18.5,18.4,clear
+715,Groundnut,Bhattu Kalan,2014-03-11,3400.0,20.8,23.8,clear
+716,Groundnut,Bhattu Kalan,2014-04-11,3400.0,36.0,36.0,clear
+717,Groundnut,Bhattu Kalan,2014-05-11,3300.0,32.7,37.0,clear
+718,Mustard,Bhattu Kalan,2014-05-11,3328.0,2.5,37.0,clear
+719,Groundnut,Bhattu Kalan,2014-08-11,3450.0,20.0,37.6,clear
+720,Mustard,Bhattu Kalan,2014-08-11,3312.0,3.7,37.6,clear
+721,Groundnut,Bhattu Kalan,2014-10-11,3500.0,21.4,35.0,clear
+722,Mustard,Bhattu Kalan,2014-10-11,3329.0,2.0,35.0,clear
+723,Groundnut,Bhattu Kalan,2014-11-11,3280.0,19.9,27.4,clear
+724,Groundnut,Bhattu Kalan,2014-12-11,3251.0,17.3,33.0,clear
+725,Mustard,Bhattu Kalan,2014-12-11,3379.0,2.0,33.0,clear
+726,Groundnut,Bhattu Kalan,2014-11-13,3400.0,8.1,28.4,clear
+727,Groundnut,Bhattu Kalan,2014-11-14,3450.0,16.8,27.8,clear
+728,Mustard,Bhattu Kalan,2014-11-14,3385.0,3.1,27.8,clear
+729,Groundnut,Bhattu Kalan,2014-11-15,3465.0,20.4,28.2,clear
+730,Groundnut,Bhattu Kalan,2014-11-17,3500.0,6.9,28.4,clear
+731,Mustard,Bhattu Kalan,2014-11-17,3361.0,2.4,28.4,clear
+732,Groundnut,Bhattu Kalan,2014-11-18,3571.0,12.4,27.6,clear
+733,Mustard,Bhattu Kalan,2014-11-18,3355.0,1.5,27.6,clear
+734,Groundnut,Bhattu Kalan,2014-11-19,3600.0,12.1,28.4,clear
+735,Mustard,Bhattu Kalan,2014-11-19,3377.0,1.9,28.4,clear
+736,Groundnut,Bhattu Kalan,2014-11-20,3600.0,9.2,27.8,clear
+737,Groundnut,Bhattu Kalan,2014-11-21,3855.0,6.4,27.4,clear
+738,Groundnut,Bhattu Kalan,2014-11-22,3843.0,15.0,24.4,clear
+739,Mustard,Bhattu Kalan,2014-11-22,3371.0,1.5,24.4,clear
+740,Groundnut,Bhattu Kalan,2014-11-24,3858.0,13.8,26.4,clear
+741,Mustard,Bhattu Kalan,2014-11-24,3434.0,4.6,26.4,clear
+742,Groundnut,Bhattu Kalan,2014-11-25,3740.0,8.8,27.8,clear
+743,Mustard,Bhattu Kalan,2014-11-25,3482.0,1.9,27.8,clear
+744,Groundnut,Bhattu Kalan,2014-11-26,4000.0,6.0,27.2,clear
+745,Mustard,Bhattu Kalan,2014-11-26,3475.0,3.2,27.2,clear
+746,Groundnut,Bhattu Kalan,2014-11-27,3900.0,6.7,30.0,clear
+747,Mustard,Bhattu Kalan,2014-11-27,3490.0,1.2,30.0,clear
+748,Groundnut,Bhattu Kalan,2014-11-28,3800.0,8.3,30.4,clear
+749,Mustard,Bhattu Kalan,2014-11-28,3500.0,5.4,30.4,clear
+750,Groundnut,Bhattu Kalan,2014-11-29,3806.0,10.5,29.0,clear
+751,Mustard,Bhattu Kalan,2014-11-29,3490.0,7.7,29.0,clear
+752,Groundnut,Bhattu Kalan,2014-01-12,3851.0,13.1,20.4,clear
+753,Mustard,Bhattu Kalan,2014-01-12,3446.0,9.7,20.4,clear
+754,Groundnut,Bhattu Kalan,2014-02-12,3500.0,6.8,21.2,clear
+755,Mustard,Bhattu Kalan,2014-02-12,3468.0,2.7,21.2,clear
+756,Groundnut,Bhattu Kalan,2014-03-12,3702.0,8.7,24.2,clear
+757,Mustard,Bhattu Kalan,2014-03-12,3528.0,2.8,24.2,clear
+758,Groundnut,Bhattu Kalan,2014-04-12,3500.0,11.5,37.4,clear
+759,Mustard,Bhattu Kalan,2014-04-12,3548.0,0.8,37.4,clear
+760,Groundnut,Bhattu Kalan,2014-05-12,3540.0,8.4,33.2,clear
+761,Mustard,Bhattu Kalan,2014-05-12,3485.0,1.6,33.2,clear
+762,Groundnut,Bhattu Kalan,2014-06-12,3750.0,1.8,41.6,rain
+763,Mustard,Bhattu Kalan,2014-06-12,3586.0,2.9,41.6,rain
+764,Groundnut,Bhattu Kalan,2014-08-12,3561.0,6.3,36.0,clear
+765,Groundnut,Bhattu Kalan,2014-09-12,3651.0,4.3,33.0,clear
+766,Mustard,Bhattu Kalan,2014-09-12,3801.0,3.7,33.0,clear
+767,Groundnut,Bhattu Kalan,2014-10-12,3602.0,6.7,36.0,clear
+768,Mustard,Bhattu Kalan,2014-10-12,3800.0,5.7,36.0,clear
+769,Groundnut,Bhattu Kalan,2014-11-12,3400.0,5.4,26.2,clear
+770,Mustard,Bhattu Kalan,2014-11-12,3646.0,1.6,26.2,clear
+771,Groundnut,Bhattu Kalan,2014-12-12,3400.0,8.1,32.4,clear
+772,Mustard,Bhattu Kalan,2014-12-12,3675.0,2.4,32.4,clear
+773,Groundnut,Bhattu Kalan,2014-12-13,3600.0,3.1,15.2,clear
+774,Groundnut,Bhattu Kalan,2014-12-15,3402.0,4.3,41.0,clear
+775,Mustard,Bhattu Kalan,2014-12-15,3730.0,1.0,41.0,clear
+776,Groundnut,Bhattu Kalan,2014-12-16,3650.0,2.0,28.0,clear
+777,Groundnut,Bhattu Kalan,2014-12-18,3300.0,2.6,13.8,clear
+778,Mustard,Bhattu Kalan,2014-12-18,3888.0,1.5,13.8,clear
+779,Groundnut,Bhattu Kalan,2014-12-19,3601.0,2.8,14.6,clear
+780,Mustard,Bhattu Kalan,2014-12-19,3810.0,3.0,14.6,clear
+781,Groundnut,Bhattu Kalan,2014-12-20,3350.0,3.2,12.0,clear
+782,Mustard,Bhattu Kalan,2014-12-20,3831.0,3.2,12.0,clear
+783,Groundnut,Bhattu Kalan,2014-12-22,3400.0,3.5,11.0,clear
+784,Mustard,Bhattu Kalan,2014-12-22,3800.0,4.8,11.0,clear
+785,Groundnut,Bhattu Kalan,2014-12-23,3460.0,4.6,10.0,clear
+786,Mustard,Bhattu Kalan,2014-12-23,3796.0,1.2,10.0,clear
+787,Groundnut,Bhattu Kalan,2014-12-24,3735.0,2.5,10.2,clear
+788,Mustard,Bhattu Kalan,2014-12-24,3801.0,2.5,10.2,clear
+789,Groundnut,Bhattu Kalan,2014-12-25,3701.0,7.3,13.0,clear
+790,Mustard,Bhattu Kalan,2014-12-25,3840.0,5.7,13.0,clear
+791,Groundnut,Bhattu Kalan,2014-12-26,3797.0,4.0,15.4,clear
+792,Mustard,Bhattu Kalan,2014-12-26,3941.0,2.6,15.4,clear
+793,Groundnut,Bhattu Kalan,2014-12-29,3750.0,8.3,16.6,clear
+794,Mustard,Bhattu Kalan,2014-12-29,3820.0,1.4,16.6,clear
+795,Groundnut,Bhattu Kalan,2014-12-31,3771.0,2.0,12.6,clear
+796,Mustard,Bhattu Kalan,2014-12-31,3900.0,1.9,12.6,clear
+797,Mustard,Bhattu Kalan,2014-03-27,2970.0,3.0,26.4,clear
+798,Mustard,Fatehabad,2014-03-27,2831.0,0.5,26.4,clear
+799,Mustard,Bhattu Kalan,2014-08-04,2900.0,127.7,36.0,clear
+800,Mustard,Fatehabad,2014-08-04,2800.0,45.9,36.0,clear
+801,Mustard,Bhattu Kalan,2014-09-04,2715.0,187.0,32.4,rain
+802,Mustard,Fatehabad,2014-09-04,2815.0,31.3,32.4,rain
+803,Mustard,Bhattu Kalan,2014-04-14,2900.0,282.0,34.0,clear
+804,Mustard,Fatehabad,2014-04-14,2800.0,187.9,34.0,clear
+805,Mustard,Bhattu Kalan,2014-04-15,2900.0,140.2,37.6,clear
+806,Mustard,Fatehabad,2014-04-15,2826.0,17.8,37.6,clear
+807,Mustard,Bhattu Kalan,2014-04-16,2900.0,259.0,34.0,clear
+808,Mustard,Fatehabad,2014-04-16,2854.0,54.9,34.0,clear
+809,Mustard,Bhattu Kalan,2014-04-17,2950.0,111.0,31.0,clear
+810,Mustard,Bhattu Kalan,2014-04-18,2926.0,146.0,29.4,clear
+811,Mustard,Fatehabad,2014-04-18,2900.0,54.2,29.4,clear
+812,Mustard,Bhattu Kalan,2014-04-19,2955.0,131.1,32.0,clear
+813,Mustard,Fatehabad,2014-04-19,2890.0,34.5,32.0,clear
+814,Mustard,Bhattu Kalan,2014-04-21,2950.0,69.1,34.6,clear
+815,Mustard,Bhattu Kalan,2014-04-22,2950.0,56.0,35.0,clear
+816,Mustard,Bhattu Kalan,2014-04-23,2965.0,74.2,36.2,clear
+817,Mustard,Bhattu Kalan,2014-04-24,2962.0,36.5,38.4,clear
+818,Mustard,Bhattu Kalan,2014-04-25,3074.0,16.8,39.2,clear
+819,Mustard,Bhattu Kalan,2014-04-26,3149.0,8.8,36.6,clear
+820,Mustard,Bhattu Kalan,2014-04-28,3181.0,15.4,40.6,clear
+821,Mustard,Bhattu Kalan,2014-04-29,3150.0,5.8,42.6,clear
+822,Mustard,Bhattu Kalan,2014-04-30,3154.0,9.4,43.6,clear
+823,Mustard,Bhattu Kalan,2014-01-05,3150.0,9.4,17.4,clear
+824,Mustard,Bhattu Kalan,2014-02-05,3115.0,14.6,30.1,clear
+825,Mustard,Bhattu Kalan,2014-03-05,3100.0,23.7,26.4,clear
+826,Mustard,Bhattu Kalan,2014-05-05,3080.0,37.4,38.0,clear
+827,Mustard,Bhattu Kalan,2014-06-05,3000.0,20.9,45.4,clear
+828,Mustard,Bhattu Kalan,2014-07-05,3000.0,36.0,39.6,clear
+829,Mustard,Bhattu Kalan,2014-08-05,3080.0,28.3,33.0,clear
+830,Mustard,Bhattu Kalan,2014-09-05,3115.0,57.4,30.4,clear
+831,Mustard,Bhattu Kalan,2014-10-05,3050.0,70.4,39.0,clear
+832,Mustard,Bhattu Kalan,2014-12-05,3136.0,58.8,28.6,clear
+833,Mustard,Bhattu Kalan,2014-05-13,3090.0,40.4,28.6,clear
+834,Mustard,Bhattu Kalan,2014-05-14,3070.0,46.4,32.0,clear
+835,Mustard,Fatehabad,2014-05-14,3071.0,0.8,32.0,clear
+836,Mustard,Bhattu Kalan,2014-05-15,3081.0,31.7,36.0,clear
+837,Mustard,Bhattu Kalan,2014-05-16,3070.0,22.5,36.6,clear
+838,Mustard,Bhattu Kalan,2014-05-17,3019.0,27.0,36.8,clear
+839,Mustard,Bhattu Kalan,2014-05-19,3070.0,27.8,37.6,clear
+840,Mustard,Fatehabad,2014-05-19,3041.0,0.4,37.6,clear
+841,Mustard,Bhattu Kalan,2014-05-20,3079.0,21.5,38.4,clear
+842,Mustard,Bhattu Kalan,2014-05-21,3070.0,21.8,38.8,clear
+843,Mustard,Bhattu Kalan,2014-05-22,3080.0,21.1,42.0,clear
+844,Mustard,Bhattu Kalan,2014-05-23,3090.0,21.8,42.8,clear
+845,Mustard,Bhattu Kalan,2014-05-24,3085.0,21.1,40.0,clear
+846,Mustard,Bhattu Kalan,2014-05-26,3050.0,18.7,39.6,clear
+847,Mustard,Bhattu Kalan,2014-05-27,3055.0,15.2,41.0,clear
+848,Mustard,Bhattu Kalan,2014-05-28,3050.0,23.1,43.4,clear
+849,Mustard,Fatehabad,2014-05-28,2951.0,2.5,43.4,clear
+850,Mustard,Bhattu Kalan,2014-05-29,3061.0,22.8,45.2,clear
+851,Mustard,Bhattu Kalan,2014-05-30,3071.0,17.0,44.4,clear
+852,Mustard,Fatehabad,2014-05-30,3036.0,1.2,44.4,clear
+853,Mustard,Bhattu Kalan,2014-05-31,3012.0,21.3,44.0,rain
+854,Mustard,Bhattu Kalan,2014-02-06,2950.0,20.7,21.6,clear
+855,Mustard,Fatehabad,2014-02-06,2897.0,0.5,21.6,clear
+856,Mustard,Bhattu Kalan,2014-03-06,2790.0,15.9,25.0,clear
+857,Mustard,Bhattu Kalan,2014-04-06,3044.0,23.4,37.6,rain
+858,Mustard,Bhattu Kalan,2014-05-06,3080.0,14.7,37.0,clear
+859,Mustard,Bhattu Kalan,2014-06-06,3032.0,16.6,46.4,clear
+860,Mustard,Fatehabad,2014-06-06,3061.0,0.7,46.4,clear
+861,Mustard,Bhattu Kalan,2014-07-06,3000.0,15.0,39.0,clear
+862,Mustard,Bhattu Kalan,2014-09-06,3055.0,18.9,32.4,clear
+863,Mustard,Bhattu Kalan,2014-10-06,3040.0,21.8,36.8,clear
+864,Mustard,Bhattu Kalan,2014-11-06,3040.0,17.1,30.8,clear
+865,Mustard,Bhattu Kalan,2014-12-06,3000.0,17.0,27.0,clear
+866,Mustard,Bhattu Kalan,2014-06-13,3060.0,16.5,35.8,clear
+867,Mustard,Bhattu Kalan,2014-06-16,3140.0,11.5,43.0,clear
+868,Mustard,Bhattu Kalan,2014-06-17,3100.0,9.2,43.6,clear
+869,Mustard,Bhattu Kalan,2014-06-18,3140.0,10.8,42.6,clear
+870,Mustard,Bhattu Kalan,2014-06-20,3095.0,15.3,43.6,clear
+871,Mustard,Bhattu Kalan,2014-06-21,3140.0,13.0,41.4,clear
+872,Mustard,Bhattu Kalan,2014-06-24,3165.0,17.7,39.2,clear
+873,Mustard,Bhattu Kalan,2014-06-25,3130.0,8.4,35.2,clear
+874,Mustard,Bhattu Kalan,2014-06-26,3200.0,12.5,36.2,clear
+875,Mustard,Bhattu Kalan,2014-06-27,3154.0,9.6,40.4,clear
+876,Mustard,Bhattu Kalan,2014-06-28,3220.0,7.6,40.4,clear
+877,Mustard,Bhattu Kalan,2014-01-07,3140.0,15.8,20.4,clear
+878,Mustard,Bhattu Kalan,2014-02-07,3164.0,17.0,21.0,clear
+879,Mustard,Bhattu Kalan,2014-03-07,3200.0,15.4,26.8,clear
+880,Mustard,Bhattu Kalan,2014-04-07,3200.0,12.1,30.0,clear
+881,Mustard,Bhattu Kalan,2014-05-07,3270.0,11.5,38.4,clear
+882,Mustard,Bhattu Kalan,2014-07-07,3270.0,23.4,41.6,clear
+883,Mustard,Bhattu Kalan,2014-08-07,3260.0,16.6,34.8,clear
+884,Mustard,Bhattu Kalan,2014-09-07,3200.0,18.6,33.4,clear
+885,Mustard,Bhattu Kalan,2014-10-07,3205.0,11.4,37.2,clear
+886,Mustard,Bhattu Kalan,2014-11-07,3281.0,15.0,30.6,clear
+887,Mustard,Bhattu Kalan,2014-12-07,3230.0,21.9,27.0,clear
+888,Mustard,Bhattu Kalan,2014-07-14,3200.0,15.3,40.2,clear
+889,Mustard,Bhattu Kalan,2014-07-15,3254.0,6.0,41.6,clear
+890,Mustard,Bhattu Kalan,2014-07-16,3271.0,5.5,38.2,clear
+891,Mustard,Bhattu Kalan,2014-07-17,3251.0,4.3,34.8,rain
+892,Mustard,Bhattu Kalan,2014-07-18,3273.0,4.4,34.4,clear
+893,Mustard,Bhattu Kalan,2014-07-19,3230.0,1.3,37.0,clear
+894,Mustard,Bhattu Kalan,2014-07-21,3274.0,7.3,37.4,clear
+895,Mustard,Bhattu Kalan,2014-07-22,3250.0,5.9,39.0,clear
+896,Mustard,Bhattu Kalan,2014-07-23,3300.0,8.2,36.0,clear
+897,Mustard,Bhattu Kalan,2014-07-24,3260.0,3.0,34.0,clear
+898,Mustard,Bhattu Kalan,2014-07-25,3260.0,5.5,34.0,clear
+899,Mustard,Bhattu Kalan,2014-07-26,3250.0,2.5,37.0,clear
+900,Mustard,Bhattu Kalan,2014-07-28,3255.0,10.8,29.8,clear
+901,Mustard,Bhattu Kalan,2014-07-29,3200.0,4.8,32.2,clear
+902,Mustard,Bhattu Kalan,2014-07-30,3240.0,3.8,34.8,clear
+903,Mustard,Bhattu Kalan,2014-07-31,3240.0,8.5,33.0,rain
+904,Mustard,Bhattu Kalan,2014-01-08,3261.0,9.4,19.4,clear
+905,Mustard,Bhattu Kalan,2014-04-08,3200.0,7.7,31.6,clear
+906,Mustard,Bhattu Kalan,2014-05-08,3300.0,9.3,41.2,clear
+907,Mustard,Bhattu Kalan,2014-06-08,3250.0,7.5,46.2,clear
+908,Mustard,Bhattu Kalan,2014-07-08,3240.0,10.4,41.2,clear
+909,Mustard,Bhattu Kalan,2014-08-08,3209.0,8.1,34.8,clear
+910,Mustard,Bhattu Kalan,2014-09-08,3225.0,12.0,34.6,clear
+911,Mustard,Bhattu Kalan,2014-11-08,3200.0,3.3,31.2,clear
+912,Mustard,Bhattu Kalan,2014-12-08,3169.0,1.6,27.8,clear
+913,Mustard,Bhattu Kalan,2014-08-13,3200.0,7.8,37.4,clear
+914,Mustard,Bhattu Kalan,2014-08-19,3200.0,5.3,39.0,clear
+915,Mustard,Bhattu Kalan,2014-08-20,3210.0,5.0,39.8,clear
+916,Mustard,Bhattu Kalan,2014-08-21,3220.0,5.4,39.4,clear
+917,Mustard,Bhattu Kalan,2014-08-22,3260.0,9.2,39.2,clear
+918,Mustard,Bhattu Kalan,2014-08-23,3274.0,4.4,39.6,clear
+919,Mustard,Bhattu Kalan,2014-08-25,3300.0,5.1,40.6,clear
+920,Mustard,Bhattu Kalan,2014-08-26,3290.0,11.6,40.2,clear
+921,Mustard,Bhattu Kalan,2014-08-27,3301.0,5.2,37.4,clear
+922,Mustard,Bhattu Kalan,2014-08-28,3311.0,7.1,37.0,clear
+923,Mustard,Bhattu Kalan,2014-08-29,3241.0,6.4,35.6,clear
+924,Mustard,Bhattu Kalan,2014-01-09,3250.0,6.5,19.4,clear
+925,Mustard,Bhattu Kalan,2014-02-09,3225.0,6.6,19.6,clear
+926,Mustard,Bhattu Kalan,2014-03-09,3150.0,18.6,27.6,rain
+927,Mustard,Bhattu Kalan,2014-04-09,3203.0,7.8,33.4,clear
+928,Mustard,Bhattu Kalan,2014-06-09,3250.0,9.0,47.0,clear
+929,Mustard,Bhattu Kalan,2014-08-09,3250.0,16.1,35.6,clear
+930,Mustard,Bhattu Kalan,2014-09-09,3245.0,15.6,35.2,clear
+931,Mustard,Bhattu Kalan,2014-10-09,3300.0,12.9,35.4,clear
+932,Mustard,Bhattu Kalan,2014-11-09,3300.0,10.7,31.2,clear
+933,Mustard,Bhattu Kalan,2014-12-09,3280.0,16.2,34.2,clear
+934,Mustard,Bhattu Kalan,2014-09-13,3266.0,18.8,34.0,clear
+935,Mustard,Bhattu Kalan,2014-09-15,3300.0,27.1,35.6,clear
+936,Mustard,Bhattu Kalan,2014-09-16,3270.0,25.1,36.0,clear
+937,Mustard,Bhattu Kalan,2014-09-17,3251.0,14.7,35.4,clear
+938,Mustard,Bhattu Kalan,2014-09-18,3338.0,14.7,36.2,clear
+939,Mustard,Bhattu Kalan,2014-09-19,3300.0,13.5,37.4,clear
+940,Mustard,Bhattu Kalan,2014-09-20,3348.0,18.2,37.4,clear
+941,Mustard,Bhattu Kalan,2014-09-22,3330.0,12.4,37.4,clear
+942,Mustard,Bhattu Kalan,2014-09-23,3354.0,5.8,37.0,clear
+943,Mustard,Bhattu Kalan,2014-09-24,3311.0,6.0,37.2,clear
+944,Mustard,Bhattu Kalan,2014-09-25,3299.0,7.8,36.0,clear
+945,Mustard,Bhattu Kalan,2014-09-26,3308.0,4.6,36.8,clear
+946,Mustard,Bhattu Kalan,2014-09-27,3274.0,5.3,37.6,clear
+947,Mustard,Bhattu Kalan,2014-09-29,3300.0,3.9,37.6,clear
+948,Mustard,Bhattu Kalan,2014-09-30,3301.0,6.0,37.4,clear
+949,Mustard,Bhattu Kalan,2014-01-10,3280.0,6.7,19.4,clear
+950,Mustard,Bhattu Kalan,2014-03-10,3235.0,0.6,23.4,clear
+951,Mustard,Bhattu Kalan,2014-08-10,3291.0,7.0,36.4,clear
+952,Mustard,Bhattu Kalan,2014-09-10,3318.0,8.7,34.2,clear
+953,Mustard,Bhattu Kalan,2014-10-16,3265.0,2.9,30.4,clear
+954,Mustard,Bhattu Kalan,2014-10-18,3351.0,7.3,32.0,clear
+955,Groundnut,Bhattu Kalan,2015-01-01,3749.0,2.3,23.0,clear
+956,Groundnut,Bhattu Kalan,2015-02-01,3900.0,2.8,20.6,clear
+957,Mustard,Bhattu Kalan,2015-02-01,3830.0,0.5,20.6,clear
+958,Groundnut,Bhattu Kalan,2015-03-01,3661.0,1.4,18.0,clear
+959,Mustard,Bhattu Kalan,2015-03-01,3716.0,0.9,18.0,clear
+960,Groundnut,Bhattu Kalan,2015-05-01,4388.0,3.0,37.2,clear
+961,Mustard,Bhattu Kalan,2015-05-01,3721.0,1.3,37.2,clear
+962,Groundnut,Bhattu Kalan,2015-06-01,3998.0,3.9,35.6,rain
+963,Groundnut,Bhattu Kalan,2015-07-01,4126.0,1.0,38.0,clear
+964,Mustard,Bhattu Kalan,2015-07-01,3661.0,1.0,38.0,clear
+965,Groundnut,Bhattu Kalan,2015-09-01,4050.0,2.9,36.6,clear
+966,Groundnut,Bhattu Kalan,2015-10-01,4161.0,3.0,36.4,clear
+967,Groundnut,Bhattu Kalan,2015-12-01,4270.0,0.6,26.2,clear
+968,Mustard,Bhattu Kalan,2015-12-01,3824.0,2.6,26.2,clear
+969,Groundnut,Bhattu Kalan,2015-01-17,3951.0,2.2,21.4,clear
+970,Groundnut,Bhattu Kalan,2015-01-20,3725.0,0.7,15.4,clear
+971,Groundnut,Bhattu Kalan,2015-01-28,4120.0,1.2,16.2,clear
+972,Groundnut,Bhattu Kalan,2015-01-29,4025.0,0.4,18.0,clear
+973,Mustard,Bhattu Kalan,2015-01-29,3447.0,0.7,18.0,clear
+974,Groundnut,Bhattu Kalan,2015-01-30,3732.0,4.8,19.0,clear
+975,Groundnut,Bhattu Kalan,2015-01-31,4080.0,0.5,21.4,clear
+976,Groundnut,Bhattu Kalan,2015-04-02,4051.0,2.0,33.2,rain
+977,Mustard,Bhattu Kalan,2015-04-02,3578.0,2.8,33.2,rain
+978,Groundnut,Bhattu Kalan,2015-05-02,3700.0,1.0,39.2,clear
+979,Mustard,Bhattu Kalan,2015-05-02,3550.0,3.5,39.2,clear
+980,Groundnut,Bhattu Kalan,2015-09-02,4000.0,0.5,36.6,clear
+981,Groundnut,Bhattu Kalan,2015-02-18,4000.0,0.6,26.0,clear
+982,Mustard,Bhattu Kalan,2015-02-18,3480.0,1.5,26.0,clear
+983,Groundnut,Bhattu Kalan,2015-02-03,3900.0,0.3,17.6,clear
+984,Groundnut,Bhattu Kalan,2015-01-10,4801.0,12.7,16.0,clear
+985,Mustard,Bhattu Kalan,2015-01-10,4350.0,16.0,16.0,clear
+986,Groundnut,Bhattu Kalan,2015-02-10,4725.0,9.7,22.6,clear
+987,Mustard,Bhattu Kalan,2015-02-10,4360.0,9.5,22.6,clear
+988,Groundnut,Bhattu Kalan,2015-03-10,4700.0,11.5,23.4,clear
+989,Mustard,Bhattu Kalan,2015-03-10,4561.0,6.0,23.4,clear
+990,Groundnut,Bhattu Kalan,2015-05-10,4550.0,19.1,42.2,clear
+991,Mustard,Bhattu Kalan,2015-05-10,4671.0,32.5,42.2,clear
+992,Groundnut,Bhattu Kalan,2015-06-10,4400.0,15.1,39.4,clear
+993,Mustard,Bhattu Kalan,2015-06-10,4677.0,4.8,39.4,clear
+994,Groundnut,Bhattu Kalan,2015-07-10,3800.0,22.5,30.6,clear
+995,Mustard,Bhattu Kalan,2015-07-10,4731.0,4.3,30.6,clear
+996,Groundnut,Bhattu Kalan,2015-08-10,4100.0,12.6,34.4,clear
+997,Mustard,Bhattu Kalan,2015-08-10,4701.0,9.0,34.4,clear
+998,Groundnut,Bhattu Kalan,2015-09-10,4375.0,14.2,38.6,clear
+999,Mustard,Bhattu Kalan,2015-09-10,4730.0,6.2,38.6,clear
+1000,Groundnut,Bhattu Kalan,2015-10-10,4428.0,9.6,38.0,clear
+1001,Mustard,Bhattu Kalan,2015-10-10,4660.0,11.9,38.0,clear
+1002,Groundnut,Bhattu Kalan,2015-12-10,4002.0,14.1,22.6,clear
+1003,Mustard,Bhattu Kalan,2015-12-10,4640.0,11.3,22.6,clear
+1004,Groundnut,Bhattu Kalan,2015-10-13,4300.0,17.7,37.0,clear
+1005,Mustard,Bhattu Kalan,2015-10-13,4614.0,6.2,37.0,clear
+1006,Groundnut,Bhattu Kalan,2015-10-14,4190.0,15.9,36.6,clear
+1007,Groundnut,Bhattu Kalan,2015-10-15,4100.0,22.9,34.0,clear
+1008,Mustard,Bhattu Kalan,2015-10-15,4630.0,5.7,34.0,clear
+1009,Groundnut,Bhattu Kalan,2015-10-16,4060.0,28.4,36.4,clear
+1010,Mustard,Bhattu Kalan,2015-10-16,4586.0,1.1,36.4,clear
+1011,Groundnut,Bhattu Kalan,2015-10-17,3800.0,17.8,35.4,clear
+1012,Mustard,Bhattu Kalan,2015-10-17,4562.0,2.2,35.4,clear
+1013,Groundnut,Bhattu Kalan,2015-10-19,3700.0,26.5,35.8,clear
+1014,Mustard,Bhattu Kalan,2015-10-19,4525.0,13.7,35.8,clear
+1015,Groundnut,Bhattu Kalan,2015-10-20,3700.0,16.9,35.4,clear
+1016,Mustard,Bhattu Kalan,2015-10-20,4600.0,3.6,35.4,clear
+1017,Groundnut,Bhattu Kalan,2015-10-21,3500.0,9.1,33.2,clear
+1018,Mustard,Bhattu Kalan,2015-10-21,4629.0,7.9,33.2,clear
+1019,Groundnut,Bhattu Kalan,2015-10-22,3580.0,7.8,34.0,clear
+1020,Mustard,Bhattu Kalan,2015-10-22,4660.0,1.4,34.0,clear
+1021,Groundnut,Bhattu Kalan,2015-10-23,3500.0,6.3,33.6,clear
+1022,Mustard,Bhattu Kalan,2015-10-23,4700.0,1.2,33.6,clear
+1023,Groundnut,Bhattu Kalan,2015-10-24,3500.0,6.2,35.0,clear
+1024,Mustard,Bhattu Kalan,2015-10-24,4750.0,0.8,35.0,clear
+1025,Groundnut,Bhattu Kalan,2015-10-26,3630.0,13.9,30.8,clear
+1026,Mustard,Bhattu Kalan,2015-10-26,4722.0,13.5,30.8,clear
+1027,Groundnut,Bhattu Kalan,2015-10-27,3559.0,2.8,30.4,clear
+1028,Mustard,Bhattu Kalan,2015-10-27,4705.0,3.0,30.4,clear
+1029,Groundnut,Bhattu Kalan,2015-10-28,3709.0,4.0,23.2,clear
+1030,Mustard,Bhattu Kalan,2015-10-28,4680.0,3.2,23.2,clear
+1031,Groundnut,Bhattu Kalan,2015-10-29,3705.0,6.4,28.4,clear
+1032,Groundnut,Bhattu Kalan,2015-10-30,3713.0,4.9,30.4,clear
+1033,Groundnut,Bhattu Kalan,2015-10-31,3661.0,4.4,30.4,clear
+1034,Mustard,Bhattu Kalan,2015-10-31,4541.0,1.8,30.4,clear
+1035,Groundnut,Bhattu Kalan,2015-02-11,3855.0,7.2,22.0,clear
+1036,Groundnut,Bhattu Kalan,2015-03-11,3899.0,2.3,25.6,clear
+1037,Groundnut,Bhattu Kalan,2015-04-11,3715.0,6.6,36.0,rain
+1038,Groundnut,Bhattu Kalan,2015-05-11,4025.0,4.6,40.4,clear
+1039,Groundnut,Bhattu Kalan,2015-06-11,3582.0,3.9,41.6,clear
+1040,Groundnut,Bhattu Kalan,2015-07-11,3601.0,5.1,29.0,clear
+1041,Groundnut,Bhattu Kalan,2015-09-11,3725.0,8.5,38.4,clear
+1042,Groundnut,Bhattu Kalan,2015-10-11,3725.0,3.4,38.0,clear
+1043,Groundnut,Bhattu Kalan,2015-11-13,3771.0,5.1,30.4,clear
+1044,Groundnut,Bhattu Kalan,2015-11-14,3605.0,6.0,29.6,clear
+1045,Groundnut,Bhattu Kalan,2015-11-16,3500.0,9.3,30.0,clear
+1046,Groundnut,Bhattu Kalan,2015-11-17,3500.0,6.4,28.0,clear
+1047,Groundnut,Bhattu Kalan,2015-11-18,3825.0,4.0,29.0,clear
+1048,Groundnut,Bhattu Kalan,2015-11-19,3800.0,3.5,26.0,clear
+1049,Groundnut,Bhattu Kalan,2015-11-20,3700.0,13.2,28.0,clear
+1050,Groundnut,Bhattu Kalan,2015-11-21,3630.0,2.6,29.0,clear
+1051,Groundnut,Bhattu Kalan,2015-11-23,3806.0,5.8,29.2,clear
+1052,Groundnut,Bhattu Kalan,2015-11-24,3620.0,4.9,28.0,clear
+1053,Groundnut,Bhattu Kalan,2015-11-25,3700.0,5.4,27.0,clear
+1054,Groundnut,Bhattu Kalan,2015-11-27,3740.0,4.3,26.0,clear
+1055,Mustard,Bhattu Kalan,2015-11-27,4681.0,4.0,26.0,clear
+1056,Groundnut,Bhattu Kalan,2015-11-28,3770.0,6.6,24.4,clear
+1057,Mustard,Bhattu Kalan,2015-11-28,4350.0,9.0,24.4,clear
+1058,Groundnut,Bhattu Kalan,2015-11-30,3800.0,9.2,26.0,clear
+1059,Groundnut,Bhattu Kalan,2015-01-12,3700.0,7.4,14.2,clear
+1060,Mustard,Bhattu Kalan,2015-01-12,4560.0,9.2,14.2,clear
+1061,Groundnut,Bhattu Kalan,2015-02-12,3850.0,4.9,23.0,clear
+1062,Mustard,Bhattu Kalan,2015-02-12,4579.0,2.8,23.0,clear
+1063,Groundnut,Bhattu Kalan,2015-03-12,4000.0,8.2,26.6,clear
+1064,Mustard,Bhattu Kalan,2015-03-12,4561.0,2.4,26.6,clear
+1065,Groundnut,Bhattu Kalan,2015-04-12,4040.0,4.5,27.2,clear
+1066,Mustard,Bhattu Kalan,2015-04-12,4490.0,2.7,27.2,clear
+1067,Groundnut,Bhattu Kalan,2015-05-12,4240.0,5.3,37.4,clear
+1068,Mustard,Bhattu Kalan,2015-05-12,4466.0,1.0,37.4,clear
+1069,Groundnut,Bhattu Kalan,2015-07-12,3800.0,5.2,26.8,clear
+1070,Mustard,Bhattu Kalan,2015-07-12,4466.0,0.8,26.8,clear
+1071,Groundnut,Bhattu Kalan,2015-08-12,3880.0,10.6,33.0,clear
+1072,Groundnut,Bhattu Kalan,2015-09-12,3900.0,6.4,37.0,clear
+1073,Groundnut,Bhattu Kalan,2015-10-12,3700.0,4.2,37.0,clear
+1074,Groundnut,Bhattu Kalan,2015-11-12,3525.0,1.2,29.0,clear
+1075,Groundnut,Bhattu Kalan,2015-12-12,3800.0,9.0,20.6,clear
+1076,Groundnut,Bhattu Kalan,2015-12-14,3800.0,3.7,20.6,clear
+1077,Groundnut,Bhattu Kalan,2015-12-15,3500.0,5.7,22.0,clear
+1078,Mustard,Bhattu Kalan,2015-12-15,4200.0,5.1,22.0,clear
+1079,Groundnut,Bhattu Kalan,2015-12-16,3850.0,5.3,22.4,clear
+1080,Mustard,Bhattu Kalan,2015-12-16,4350.0,2.6,22.4,clear
+1081,Groundnut,Bhattu Kalan,2015-12-17,3711.0,7.6,20.8,clear
+1082,Mustard,Bhattu Kalan,2015-12-17,4286.0,1.3,20.8,clear
+1083,Groundnut,Bhattu Kalan,2015-12-18,3625.0,4.9,20.6,clear
+1084,Mustard,Bhattu Kalan,2015-12-18,4350.0,4.4,20.6,clear
+1085,Groundnut,Bhattu Kalan,2015-12-19,3800.0,4.4,22.4,clear
+1086,Mustard,Bhattu Kalan,2015-12-19,4400.0,0.8,22.4,clear
+1087,Groundnut,Bhattu Kalan,2015-12-21,4181.0,3.8,20.4,clear
+1088,Mustard,Bhattu Kalan,2015-12-21,4460.0,0.8,20.4,clear
+1089,Groundnut,Bhattu Kalan,2015-12-22,3828.0,3.1,21.0,clear
+1090,Mustard,Bhattu Kalan,2015-12-22,4472.0,3.6,21.0,clear
+1091,Groundnut,Bhattu Kalan,2015-12-25,3840.0,4.0,19.6,clear
+1092,Groundnut,Bhattu Kalan,2015-12-26,3864.0,3.0,22.4,clear
+1093,Groundnut,Bhattu Kalan,2015-12-28,3835.0,3.0,23.0,clear
+1094,Mustard,Bhattu Kalan,2015-12-28,4300.0,7.5,23.0,clear
+1095,Groundnut,Bhattu Kalan,2015-12-29,3825.0,10.9,24.0,clear
+1096,Mustard,Bhattu Kalan,2015-12-29,4260.0,8.7,24.0,clear
+1097,Groundnut,Bhattu Kalan,2015-12-30,3850.0,2.5,24.8,clear
+1098,Mustard,Bhattu Kalan,2015-12-30,4200.0,1.9,24.8,clear
+1099,Groundnut,Bhattu Kalan,2015-12-31,3851.0,1.0,24.0,clear
+1100,Mustard,Bhattu Kalan,2015-01-13,3773.0,3.0,16.4,clear
+1101,Mustard,Bhattu Kalan,2015-01-14,3822.0,1.6,14.6,clear
+1102,Mustard,Bhattu Kalan,2015-01-19,3500.0,1.0,21.6,clear
+1103,Mustard,Bhattu Kalan,2015-01-22,3610.0,2.5,15.4,clear
+1104,Mustard,Bhattu Kalan,2015-01-23,3613.0,2.5,16.8,clear
+1105,Mustard,Bhattu Kalan,2015-01-24,3563.0,2.5,12.6,clear
+1106,Mustard,Bhattu Kalan,2015-01-26,3521.0,1.2,15.4,clear
+1107,Mustard,Bhattu Kalan,2015-06-02,4010.0,4.0,38.6,clear
+1108,Mustard,Bhattu Kalan,2015-07-02,3505.0,0.3,36.0,clear
+1109,Mustard,Bhattu Kalan,2015-10-02,3400.0,1.0,36.4,clear
+1110,Mustard,Bhattu Kalan,2015-11-02,3460.0,2.3,30.4,clear
+1111,Mustard,Bhattu Kalan,2015-12-02,3570.0,1.5,25.2,clear
+1112,Mustard,Bhattu Kalan,2015-02-19,3621.0,2.8,25.6,clear
+1113,Mustard,Bhattu Kalan,2015-02-23,3596.0,0.9,27.4,clear
+1114,Mustard,Bhattu Kalan,2015-02-26,3641.0,1.8,23.6,clear
+1115,Mustard,Bhattu Kalan,2015-03-25,3129.0,2.1,34.6,clear
+1116,Mustard,Bhattu Kalan,2015-03-26,2860.0,4.4,35.0,clear
+1117,Mustard,Bhattu Kalan,2015-03-27,3054.0,14.8,35.4,clear
+1118,Mustard,Fatehabad,2015-03-27,2901.0,2.0,35.4,clear
+1119,Mustard,Bhattu Kalan,2015-03-28,3026.0,14.2,35.2,clear
+1120,Mustard,Fatehabad,2015-03-28,3016.0,3.0,35.2,clear
+1121,Mustard,Bhattu Kalan,2015-03-30,2900.0,54.2,25.6,clear
+1122,Mustard,Bhattu Kalan,2015-01-04,3180.0,110.6,15.2,clear
+1123,Mustard,Fatehabad,2015-01-04,2841.0,49.1,15.2,clear
+1124,Mustard,Bhattu Kalan,2015-02-04,3192.0,114.6,20.4,clear
+1125,Mustard,Fatehabad,2015-02-04,3000.0,54.2,20.4,clear
+1126,Mustard,Bhattu Kalan,2015-03-04,3160.0,157.5,23.0,clear
+1127,Mustard,Fatehabad,2015-03-04,2950.0,54.9,23.0,clear
+1128,Mustard,Bhattu Kalan,2015-04-04,3000.0,107.8,27.0,clear
+1129,Mustard,Fatehabad,2015-04-04,3000.0,31.4,27.0,clear
+1130,Mustard,Bhattu Kalan,2015-06-04,3150.0,205.9,37.0,clear
+1131,Mustard,Fatehabad,2015-06-04,3170.0,81.0,37.0,clear
+1132,Mustard,Bhattu Kalan,2015-07-04,3200.0,110.9,36.2,clear
+1133,Mustard,Fatehabad,2015-07-04,3166.0,11.4,36.2,clear
+1134,Mustard,Bhattu Kalan,2015-08-04,3210.0,111.8,34.8,clear
+1135,Mustard,Fatehabad,2015-08-04,3060.0,38.7,34.8,clear
+1136,Mustard,Bhattu Kalan,2015-11-04,3175.0,334.6,31.4,clear
+1137,Mustard,Bhattu Kalan,2015-04-13,3150.0,368.2,31.0,clear
+1138,Mustard,Fatehabad,2015-04-13,3050.0,151.8,31.0,clear
+1139,Mustard,Bhattu Kalan,2015-04-14,3250.0,316.7,31.4,clear
+1140,Mustard,Fatehabad,2015-04-14,3150.0,144.3,31.4,clear
+1141,Mustard,Bhattu Kalan,2015-04-15,3250.0,215.7,34.2,rain
+1142,Mustard,Fatehabad,2015-04-15,3250.0,141.1,34.2,rain
+1143,Mustard,Bhattu Kalan,2015-04-17,3250.0,,34.0,clear
+1144,Mustard,Fatehabad,2015-04-17,3200.0,70.6,34.0,clear
+1145,Mustard,Bhattu Kalan,2015-04-18,3290.0,326.9,36.4,clear
+1146,Mustard,Fatehabad,2015-04-18,3225.0,28.4,36.4,clear
+1147,Mustard,Bhattu Kalan,2015-04-20,3170.0,172.3,39.4,clear
+1148,Mustard,Fatehabad,2015-04-20,3225.0,17.3,39.4,clear
+1149,Mustard,Bhattu Kalan,2015-04-21,3250.0,153.3,38.0,clear
+1150,Mustard,Bhattu Kalan,2015-04-22,3190.0,55.4,38.0,clear
+1151,Mustard,Bhattu Kalan,2015-04-23,3141.0,33.1,39.2,clear
+1152,Mustard,Bhattu Kalan,2015-04-24,3270.0,24.8,40.2,clear
+1153,Mustard,Bhattu Kalan,2015-04-25,3283.0,6.8,41.6,clear
+1154,Mustard,Bhattu Kalan,2015-04-27,3415.0,5.5,37.0,clear
+1155,Mustard,Bhattu Kalan,2015-04-28,3452.0,1.3,37.2,clear
+1156,Mustard,Bhattu Kalan,2015-04-29,3348.0,10.1,38.6,clear
+1157,Mustard,Bhattu Kalan,2015-01-05,3255.0,22.8,17.0,clear
+1158,Mustard,Bhattu Kalan,2015-02-05,3390.0,30.3,21.4,clear
+1159,Mustard,Bhattu Kalan,2015-04-05,3550.0,38.2,29.6,clear
+1160,Mustard,Bhattu Kalan,2015-06-05,3640.0,42.5,39.0,clear
+1161,Mustard,Bhattu Kalan,2015-07-05,3630.0,44.8,38.6,clear
+1162,Mustard,Bhattu Kalan,2015-08-05,3600.0,44.2,36.0,clear
+1163,Mustard,Bhattu Kalan,2015-09-05,3790.0,443.0,36.6,clear
+1164,Mustard,Bhattu Kalan,2015-11-05,3851.0,66.1,26.6,clear
+1165,Mustard,Bhattu Kalan,2015-12-05,3880.0,61.7,29.0,clear
+1166,Mustard,Bhattu Kalan,2015-05-13,3800.0,43.1,38.6,clear
+1167,Mustard,Bhattu Kalan,2015-05-14,3835.0,44.7,36.4,clear
+1168,Mustard,Bhattu Kalan,2015-05-15,3850.0,59.4,32.0,clear
+1169,Mustard,Bhattu Kalan,2015-05-16,3850.0,45.1,38.6,clear
+1170,Mustard,Bhattu Kalan,2015-05-18,3860.0,43.8,44.0,clear
+1171,Mustard,Fatehabad,2015-05-18,3500.0,3.1,44.0,clear
+1172,Mustard,Bhattu Kalan,2015-05-19,3820.0,31.5,37.4,clear
+1173,Mustard,Bhattu Kalan,2015-05-20,3820.0,37.5,41.4,clear
+1174,Mustard,Fatehabad,2015-05-20,3721.0,2.5,41.4,clear
+1175,Mustard,Bhattu Kalan,2015-05-21,3850.0,37.9,43.4,clear
+1176,Mustard,Fatehabad,2015-05-21,3800.0,0.5,43.4,clear
+1177,Mustard,Bhattu Kalan,2015-05-22,3950.0,57.4,45.2,clear
+1178,Mustard,Fatehabad,2015-05-22,3842.0,1.4,45.2,clear
+1179,Mustard,Bhattu Kalan,2015-05-23,3950.0,42.0,44.4,clear
+1180,Mustard,Fatehabad,2015-05-23,3846.0,9.7,44.4,clear
+1181,Mustard,Bhattu Kalan,2015-05-25,3850.0,35.3,44.6,clear
+1182,Mustard,Fatehabad,2015-05-25,3875.0,0.5,44.6,clear
+1183,Mustard,Bhattu Kalan,2015-05-26,3900.0,31.9,43.2,clear
+1184,Mustard,Fatehabad,2015-05-26,3550.0,0.7,43.2,clear
+1185,Mustard,Bhattu Kalan,2015-05-27,3950.0,31.5,43.0,clear
+1186,Mustard,Bhattu Kalan,2015-05-28,3900.0,30.6,43.4,clear
+1187,Mustard,Fatehabad,2015-05-28,3886.0,0.3,43.4,clear
+1188,Mustard,Bhattu Kalan,2015-05-29,3900.0,43.6,40.6,clear
+1189,Mustard,Bhattu Kalan,2015-05-30,3928.0,21.3,43.0,clear
+1190,Mustard,Bhattu Kalan,2015-01-06,3950.0,35.2,14.2,clear
+1191,Mustard,Fatehabad,2015-01-06,3921.0,0.6,14.2,clear
+1192,Mustard,Bhattu Kalan,2015-02-06,4000.0,20.3,22.6,clear
+1193,Mustard,Fatehabad,2015-02-06,3833.0,1.4,22.6,clear
+1194,Mustard,Bhattu Kalan,2015-03-06,3955.0,37.2,26.0,clear
+1195,Mustard,Fatehabad,2015-03-06,3925.0,1.2,26.0,clear
+1196,Mustard,Bhattu Kalan,2015-04-06,3940.0,34.8,30.4,clear
+1197,Mustard,Fatehabad,2015-04-06,3825.0,0.5,30.4,clear
+1198,Mustard,Bhattu Kalan,2015-05-06,3900.0,14.5,43.4,clear
+1199,Mustard,Fatehabad,2015-05-06,3854.0,0.3,43.4,clear
+1200,Mustard,Bhattu Kalan,2015-06-06,3914.0,11.1,40.4,clear
+1201,Mustard,Fatehabad,2015-06-06,3790.0,0.7,40.4,clear
+1202,Mustard,Bhattu Kalan,2015-08-06,3801.0,13.2,36.4,clear
+1203,Mustard,Fatehabad,2015-08-06,3600.0,2.5,36.4,clear
+1204,Mustard,Bhattu Kalan,2015-09-06,3909.0,33.4,37.8,clear
+1205,Mustard,Bhattu Kalan,2015-10-06,3900.0,16.7,37.0,clear
+1206,Mustard,Bhattu Kalan,2015-11-06,3911.0,16.3,24.4,clear
+1207,Mustard,Bhattu Kalan,2015-12-06,3880.0,15.2,26.4,clear
+1208,Mustard,Fatehabad,2015-12-06,3756.0,0.4,26.4,clear
+1209,Mustard,Bhattu Kalan,2015-06-13,3940.0,16.0,40.8,clear
+1210,Mustard,Bhattu Kalan,2015-06-15,3900.0,13.8,34.2,clear
+1211,Mustard,Fatehabad,2015-06-15,3451.0,0.2,34.2,clear
+1212,Mustard,Bhattu Kalan,2015-06-16,3900.0,19.6,35.0,clear
+1213,Mustard,Bhattu Kalan,2015-06-17,3820.0,28.1,40.0,clear
+1214,Mustard,Bhattu Kalan,2015-06-18,3910.0,11.5,42.8,clear
+1215,Mustard,Bhattu Kalan,2015-06-19,3802.0,6.9,44.4,clear
+1216,Mustard,Bhattu Kalan,2015-06-20,3800.0,6.8,37.8,clear
+1217,Mustard,Bhattu Kalan,2015-06-23,3836.0,13.9,38.4,clear
+1218,Mustard,Bhattu Kalan,2015-06-24,3900.0,5.1,31.8,clear
+1219,Mustard,Bhattu Kalan,2015-06-25,3890.0,10.5,33.0,clear
+1220,Mustard,Bhattu Kalan,2015-06-26,3900.0,17.1,36.4,clear
+1221,Mustard,Bhattu Kalan,2015-06-27,3940.0,8.4,37.2,clear
+1222,Mustard,Bhattu Kalan,2015-06-29,3901.0,15.9,34.2,clear
+1223,Mustard,Bhattu Kalan,2015-06-30,3900.0,11.0,35.4,clear
+1224,Mustard,Bhattu Kalan,2015-01-07,3966.0,17.5,14.4,clear
+1225,Mustard,Bhattu Kalan,2015-02-07,3940.0,12.0,23.0,clear
+1226,Mustard,Bhattu Kalan,2015-03-07,3971.0,11.0,24.4,clear
+1227,Mustard,Bhattu Kalan,2015-04-07,3961.0,7.9,27.4,clear
+1228,Mustard,Bhattu Kalan,2015-06-07,3960.0,12.2,43.0,clear
+1229,Mustard,Bhattu Kalan,2015-08-07,3950.0,18.1,36.0,clear
+1230,Mustard,Bhattu Kalan,2015-09-07,3920.0,13.8,38.0,clear
+1231,Mustard,Bhattu Kalan,2015-10-07,3979.0,11.7,37.2,clear
+1232,Mustard,Bhattu Kalan,2015-11-07,3974.0,8.4,26.6,clear
+1233,Mustard,Bhattu Kalan,2015-07-13,4000.0,11.2,32.4,clear
+1234,Mustard,Bhattu Kalan,2015-07-14,4000.0,11.0,36.4,clear
+1235,Mustard,Bhattu Kalan,2015-07-15,3997.0,9.1,37.0,clear
+1236,Mustard,Bhattu Kalan,2015-07-16,3990.0,15.9,37.6,clear
+1237,Mustard,Bhattu Kalan,2015-07-17,3940.0,22.2,35.4,clear
+1238,Mustard,Bhattu Kalan,2015-07-18,3970.0,12.1,35.0,clear
+1239,Mustard,Bhattu Kalan,2015-07-20,3976.0,11.4,36.4,rain
+1240,Mustard,Bhattu Kalan,2015-07-21,3950.0,12.3,34.4,clear
+1241,Mustard,Bhattu Kalan,2015-07-22,3925.0,8.0,35.6,clear
+1242,Mustard,Bhattu Kalan,2015-07-23,3953.0,7.1,34.8,clear
+1243,Mustard,Bhattu Kalan,2015-07-24,3960.0,20.5,37.2,clear
+1244,Mustard,Bhattu Kalan,2015-07-25,3890.0,13.0,35.0,clear
+1245,Mustard,Bhattu Kalan,2015-07-27,3860.0,8.6,32.8,clear
+1246,Mustard,Bhattu Kalan,2015-07-28,3816.0,5.9,32.0,clear
+1247,Mustard,Bhattu Kalan,2015-07-29,3839.0,3.5,31.2,clear
+1248,Mustard,Bhattu Kalan,2015-07-30,3870.0,7.0,31.0,clear
+1249,Mustard,Bhattu Kalan,2015-07-31,3870.0,6.9,31.6,clear
+1250,Mustard,Bhattu Kalan,2015-01-08,3897.0,7.4,13.4,clear
+1251,Mustard,Bhattu Kalan,2015-03-08,3921.0,7.5,24.4,clear
+1252,Mustard,Bhattu Kalan,2015-04-08,3900.0,11.0,31.0,clear
+1253,Mustard,Bhattu Kalan,2015-05-08,3860.0,6.3,41.0,clear
+1254,Mustard,Bhattu Kalan,2015-06-08,3900.0,5.0,43.8,clear
+1255,Mustard,Bhattu Kalan,2015-07-08,3800.0,4.7,34.0,clear
+1256,Mustard,Bhattu Kalan,2015-08-08,3825.0,11.1,35.8,clear
+1257,Mustard,Bhattu Kalan,2015-10-08,3870.0,9.1,36.4,clear
+1258,Mustard,Bhattu Kalan,2015-11-08,3960.0,8.3,27.2,clear
+1259,Mustard,Bhattu Kalan,2015-12-08,3930.0,8.4,25.2,clear
+1260,Mustard,Bhattu Kalan,2015-08-13,3975.0,6.0,33.4,clear
+1261,Mustard,Bhattu Kalan,2015-08-14,3925.0,5.7,33.0,clear
+1262,Mustard,Bhattu Kalan,2015-08-15,3975.0,4.8,29.2,clear
+1263,Mustard,Bhattu Kalan,2015-08-17,4002.0,5.4,34.4,clear
+1264,Mustard,Bhattu Kalan,2015-08-18,3953.0,4.7,36.6,clear
+1265,Mustard,Bhattu Kalan,2015-08-19,4075.0,14.4,35.4,clear
+1266,Mustard,Bhattu Kalan,2015-08-20,4100.0,4.7,33.6,clear
+1267,Mustard,Bhattu Kalan,2015-08-21,4140.0,7.3,34.0,clear
+1268,Mustard,Bhattu Kalan,2015-08-22,4025.0,7.0,33.4,clear
+1269,Mustard,Bhattu Kalan,2015-08-24,4161.0,3.0,34.0,clear
+1270,Mustard,Bhattu Kalan,2015-08-25,4111.0,6.4,37.4,clear
+1271,Mustard,Bhattu Kalan,2015-08-26,4099.0,3.9,38.0,clear
+1272,Mustard,Bhattu Kalan,2015-08-27,4019.0,6.1,36.6,clear
+1273,Mustard,Bhattu Kalan,2015-08-28,4000.0,6.2,37.0,clear
+1274,Mustard,Bhattu Kalan,2015-08-29,4000.0,6.2,36.4,clear
+1275,Mustard,Bhattu Kalan,2015-08-31,4040.0,7.0,35.8,clear
+1276,Mustard,Bhattu Kalan,2015-01-09,4050.0,10.0,16.0,clear
+1277,Mustard,Bhattu Kalan,2015-02-09,4090.0,8.7,24.4,clear
+1278,Mustard,Bhattu Kalan,2015-03-09,4000.0,11.8,22.2,clear
+1279,Mustard,Bhattu Kalan,2015-04-09,4040.0,14.5,32.0,clear
+1280,Mustard,Fatehabad,2015-04-09,3900.0,0.4,32.0,clear
+1281,Mustard,Bhattu Kalan,2015-05-09,4175.0,7.3,41.8,clear
+1282,Mustard,Bhattu Kalan,2015-07-09,4050.0,11.8,29.4,clear
+1283,Mustard,Bhattu Kalan,2015-08-09,3910.0,29.4,34.6,clear
+1284,Mustard,Bhattu Kalan,2015-09-09,4040.0,6.8,37.4,clear
+1285,Mustard,Bhattu Kalan,2015-10-09,4072.0,7.6,38.0,clear
+1286,Mustard,Bhattu Kalan,2015-11-09,4100.0,12.9,28.0,clear
+1287,Mustard,Fatehabad,2015-11-09,3950.0,1.1,28.0,clear
+1288,Mustard,Bhattu Kalan,2015-12-09,4119.0,5.5,21.8,clear
+1289,Mustard,Bhattu Kalan,2015-09-14,4010.0,25.7,38.0,clear
+1290,Mustard,Bhattu Kalan,2015-09-15,4100.0,6.5,38.4,clear
+1291,Mustard,Bhattu Kalan,2015-09-16,4060.0,8.0,38.4,clear
+1292,Mustard,Bhattu Kalan,2015-09-17,4140.0,3.9,38.0,clear
+1293,Mustard,Bhattu Kalan,2015-09-18,4013.0,6.0,34.0,clear
+1294,Mustard,Bhattu Kalan,2015-09-19,4041.0,5.8,29.4,clear
+1295,Mustard,Bhattu Kalan,2015-09-21,4000.0,5.2,30.4,clear
+1296,Mustard,Bhattu Kalan,2015-09-22,4022.0,6.0,33.4,clear
+1297,Mustard,Bhattu Kalan,2015-09-23,4080.0,5.9,33.4,clear
+1298,Mustard,Bhattu Kalan,2015-09-24,4150.0,20.1,34.6,clear
+1299,Mustard,Bhattu Kalan,2015-09-25,4141.0,23.5,35.6,clear
+1300,Mustard,Bhattu Kalan,2015-09-26,4140.0,26.3,35.6,clear
+1301,Mustard,Bhattu Kalan,2015-09-28,4300.0,25.0,34.6,clear
+1302,Mustard,Bhattu Kalan,2015-09-29,4300.0,19.8,35.0,clear
+1303,Mustard,Bhattu Kalan,2015-09-30,4300.0,9.0,35.6,clear
+1304,Mustard,Bhattu Kalan,2015-11-26,4550.0,1.5,26.6,clear
+1305,Mustard,Fatehabad,2015-03-31,2917.0,5.0,30.4,clear
+1306,Mustard,Fatehabad,2015-09-04,3100.0,55.0,37.4,clear
+1307,Mustard,Fatehabad,2015-04-16,3200.0,65.0,28.2,clear
+1308,Groundnut,Bhattu Kalan,2016-02-01,3800.0,2.3,18.8,clear
+1309,Groundnut,Bhattu Kalan,2016-04-01,3950.0,1.8,37.4,clear
+1310,Mustard,Bhattu Kalan,2016-04-01,4190.0,2.0,37.4,clear
+1311,Groundnut,Bhattu Kalan,2016-05-01,4051.0,1.8,44.6,clear
+1312,Mustard,Bhattu Kalan,2016-05-01,4218.0,1.9,44.6,clear
+1313,Groundnut,Bhattu Kalan,2016-06-01,3873.0,2.2,41.0,clear
+1314,Mustard,Bhattu Kalan,2016-06-01,4220.0,2.5,41.0,clear
+1315,Groundnut,Bhattu Kalan,2016-07-01,3550.0,2.5,40.4,clear
+1316,Mustard,Bhattu Kalan,2016-07-01,4135.0,7.1,40.4,clear
+1317,Groundnut,Bhattu Kalan,2016-08-01,3601.0,2.0,33.2,clear
+1318,Groundnut,Bhattu Kalan,2016-09-01,3600.0,2.5,34.0,clear
+1319,Groundnut,Bhattu Kalan,2016-12-01,3831.0,1.0,23.6,clear
+1320,Mustard,Bhattu Kalan,2016-12-01,4137.0,1.7,23.6,clear
+1321,Groundnut,Bhattu Kalan,2016-01-15,3750.0,0.6,14.6,clear
+1322,Groundnut,Bhattu Kalan,2016-01-18,3381.0,0.9,16.0,clear
+1323,Groundnut,Bhattu Kalan,2016-01-19,3851.0,1.1,13.4,clear
+1324,Mustard,Bhattu Kalan,2016-01-19,3950.0,2.0,13.4,clear
+1325,Groundnut,Bhattu Kalan,2016-01-20,3600.0,1.7,16.0,clear
+1326,Groundnut,Bhattu Kalan,2016-01-21,3805.0,1.2,17.2,clear
+1327,Mustard,Bhattu Kalan,2016-01-21,3984.0,3.0,17.2,clear
+1328,Groundnut,Bhattu Kalan,2016-01-22,3880.0,1.1,12.8,clear
+1329,Groundnut,Bhattu Kalan,2016-01-23,3705.0,1.4,13.4,clear
+1330,Mustard,Bhattu Kalan,2016-01-23,3691.0,1.4,13.4,clear
+1331,Groundnut,Bhattu Kalan,2016-01-27,3625.0,1.1,22.4,clear
+1332,Groundnut,Bhattu Kalan,2016-01-28,3500.0,1.5,22.6,clear
+1333,Mustard,Bhattu Kalan,2016-01-28,3551.0,1.0,22.6,clear
+1334,Groundnut,Bhattu Kalan,2016-01-02,3320.0,2.0,23.0,clear
+1335,Groundnut,Bhattu Kalan,2016-02-02,3200.0,2.6,22.0,clear
+1336,Groundnut,Bhattu Kalan,2016-03-02,3380.0,3.8,30.6,clear
+1337,Groundnut,Bhattu Kalan,2016-04-02,3200.0,1.7,38.4,clear
+1338,Mustard,Bhattu Kalan,2016-04-02,3450.0,0.9,38.4,clear
+1339,Groundnut,Bhattu Kalan,2016-05-02,3362.0,2.9,45.4,clear
+1340,Groundnut,Bhattu Kalan,2016-06-02,3260.0,1.7,42.6,clear
+1341,Groundnut,Bhattu Kalan,2016-08-02,3333.0,0.9,31.6,clear
+1342,Mustard,Bhattu Kalan,2016-08-02,3610.0,1.4,31.6,clear
+1343,Groundnut,Bhattu Kalan,2016-09-02,3500.0,1.8,34.6,clear
+1344,Groundnut,Bhattu Kalan,2016-10-02,3210.0,1.2,36.4,clear
+1345,Groundnut,Bhattu Kalan,2016-12-02,3201.0,0.9,26.8,clear
+1346,Groundnut,Bhattu Kalan,2016-02-13,3370.0,2.6,20.8,clear
+1347,Mustard,Bhattu Kalan,2016-02-13,3729.0,1.1,20.8,clear
+1348,Groundnut,Bhattu Kalan,2016-02-15,3500.0,1.5,22.0,clear
+1349,Groundnut,Bhattu Kalan,2016-02-16,3550.0,2.4,23.8,clear
+1350,Groundnut,Bhattu Kalan,2016-02-18,3755.0,1.1,20.4,clear
+1351,Groundnut,Bhattu Kalan,2016-02-26,4100.0,1.1,28.6,clear
+1352,Groundnut,Bhattu Kalan,2016-02-03,3530.0,2.4,22.4,clear
+1353,Mustard,Bhattu Kalan,2016-02-03,3500.0,0.8,22.4,clear
+1354,Groundnut,Bhattu Kalan,2016-03-03,3795.0,0.3,32.4,clear
+1355,Groundnut,Bhattu Kalan,2016-03-14,3925.0,0.6,27.4,clear
+1356,Groundnut,Bhattu Kalan,2016-03-20,4011.0,0.3,29.6,clear
+1357,Mustard,Bhattu Kalan,2016-03-20,3290.0,38.5,29.6,clear
+1358,Groundnut,Bhattu Kalan,2016-03-28,4175.0,3.2,32.0,clear
+1359,Mustard,Bhattu Kalan,2016-03-28,3510.0,448.4,32.0,clear
+1360,Mustard,Fatehabad,2016-03-28,3325.0,260.7,32.0,clear
+1361,Groundnut,Bhattu Kalan,2016-01-10,3900.0,20.0,24.0,clear
+1362,Mustard,Bhattu Kalan,2016-01-10,4201.0,2.1,24.0,clear
+1363,Groundnut,Bhattu Kalan,2016-04-10,4004.0,10.3,36.6,clear
+1364,Mustard,Bhattu Kalan,2016-04-10,4162.0,0.5,36.6,clear
+1365,Groundnut,Bhattu Kalan,2016-05-10,3950.0,39.7,41.4,clear
+1366,Mustard,Bhattu Kalan,2016-05-10,4162.0,0.5,41.4,clear
+1367,Groundnut,Bhattu Kalan,2016-06-10,4100.0,35.9,42.6,clear
+1368,Mustard,Bhattu Kalan,2016-06-10,4000.0,13.2,42.6,clear
+1369,Groundnut,Bhattu Kalan,2016-07-10,4155.0,45.5,38.0,clear
+1370,Mustard,Bhattu Kalan,2016-07-10,4050.0,0.7,38.0,clear
+1371,Groundnut,Bhattu Kalan,2016-08-10,3778.0,39.4,32.6,clear
+1372,Mustard,Bhattu Kalan,2016-08-10,4151.0,12.6,32.6,clear
+1373,Groundnut,Bhattu Kalan,2016-10-10,3805.0,45.2,34.6,clear
+1374,Mustard,Bhattu Kalan,2016-10-10,4020.0,37.1,34.6,clear
+1375,Groundnut,Bhattu Kalan,2016-11-10,3535.0,35.6,32.4,clear
+1376,Mustard,Bhattu Kalan,2016-11-10,3984.0,32.5,32.4,clear
+1377,Groundnut,Bhattu Kalan,2016-10-13,3600.0,38.0,36.4,clear
+1378,Mustard,Bhattu Kalan,2016-10-13,4030.0,19.4,36.4,clear
+1379,Groundnut,Bhattu Kalan,2016-10-14,3500.0,36.8,37.0,clear
+1380,Mustard,Bhattu Kalan,2016-10-14,4076.0,4.4,37.0,clear
+1381,Groundnut,Bhattu Kalan,2016-10-15,3500.0,54.0,36.0,clear
+1382,Mustard,Bhattu Kalan,2016-10-15,4011.0,3.4,36.0,clear
+1383,Groundnut,Bhattu Kalan,2016-10-17,3551.0,45.9,36.0,clear
+1384,Mustard,Bhattu Kalan,2016-10-17,4100.0,13.9,36.0,clear
+1385,Groundnut,Bhattu Kalan,2016-10-18,3500.0,55.0,36.0,clear
+1386,Mustard,Bhattu Kalan,2016-10-18,4050.0,11.7,36.0,clear
+1387,Groundnut,Bhattu Kalan,2016-10-19,3450.0,32.4,36.0,clear
+1388,Mustard,Bhattu Kalan,2016-10-19,4100.0,4.4,36.0,clear
+1389,Groundnut,Bhattu Kalan,2016-10-20,3350.0,32.4,33.6,clear
+1390,Mustard,Bhattu Kalan,2016-10-20,4150.0,3.2,33.6,clear
+1391,Groundnut,Bhattu Kalan,2016-10-21,3315.0,40.1,36.2,clear
+1392,Mustard,Bhattu Kalan,2016-10-21,4089.0,131.0,36.2,clear
+1393,Groundnut,Bhattu Kalan,2016-10-22,3300.0,48.5,34.8,clear
+1394,Mustard,Bhattu Kalan,2016-10-22,3900.0,3.6,34.8,clear
+1395,Groundnut,Bhattu Kalan,2016-10-24,3050.0,2.8,34.4,clear
+1396,Groundnut,Bhattu Kalan,2016-10-25,3081.0,41.0,34.2,clear
+1397,Mustard,Bhattu Kalan,2016-10-25,4000.0,8.6,34.2,clear
+1398,Groundnut,Bhattu Kalan,2016-10-26,3081.0,41.0,35.0,clear
+1399,Groundnut,Bhattu Kalan,2016-10-27,3350.0,26.7,33.4,clear
+1400,Mustard,Bhattu Kalan,2016-10-27,4050.0,9.8,33.4,clear
+1401,Groundnut,Bhattu Kalan,2016-10-28,3352.0,20.1,33.6,clear
+1402,Mustard,Bhattu Kalan,2016-10-28,4001.0,6.1,33.6,clear
+1403,Groundnut,Bhattu Kalan,2016-10-29,3301.0,26.1,34.2,clear
+1404,Mustard,Bhattu Kalan,2016-10-29,3963.0,1.9,34.2,clear
+1405,Groundnut,Bhattu Kalan,2016-01-11,3315.0,26.3,24.4,clear
+1406,Mustard,Bhattu Kalan,2016-01-11,4002.0,2.5,24.4,clear
+1407,Groundnut,Bhattu Kalan,2016-02-11,3350.0,36.5,24.0,clear
+1408,Mustard,Bhattu Kalan,2016-02-11,4031.0,3.3,24.0,clear
+1409,Groundnut,Bhattu Kalan,2016-03-11,3360.0,12.9,31.6,rain
+1410,Mustard,Bhattu Kalan,2016-03-11,4040.0,6.1,31.6,rain
+1411,Groundnut,Bhattu Kalan,2016-04-11,3331.0,18.4,34.8,clear
+1412,Mustard,Bhattu Kalan,2016-04-11,3900.0,2.1,34.8,clear
+1413,Groundnut,Bhattu Kalan,2016-05-11,3429.0,21.2,40.6,clear
+1414,Mustard,Bhattu Kalan,2016-05-11,4100.0,5.1,40.6,clear
+1415,Groundnut,Bhattu Kalan,2016-07-11,3521.0,23.7,36.0,clear
+1416,Mustard,Bhattu Kalan,2016-07-11,4185.0,6.2,36.0,clear
+1417,Groundnut,Bhattu Kalan,2016-08-11,3412.0,15.1,29.6,clear
+1418,Mustard,Bhattu Kalan,2016-08-11,4191.0,4.2,29.6,clear
+1419,Groundnut,Bhattu Kalan,2016-09-11,3585.0,25.1,36.4,clear
+1420,Mustard,Bhattu Kalan,2016-09-11,4045.0,3.0,36.4,clear
+1421,Groundnut,Bhattu Kalan,2016-10-11,3440.0,15.5,36.0,clear
+1422,Mustard,Bhattu Kalan,2016-10-11,4000.0,0.5,36.0,clear
+1423,Groundnut,Bhattu Kalan,2016-11-11,3450.0,8.9,31.8,clear
+1424,Groundnut,Bhattu Kalan,2016-12-11,3470.0,11.7,26.6,clear
+1425,Mustard,Bhattu Kalan,2016-12-11,4080.0,7.5,26.6,clear
+1426,Groundnut,Bhattu Kalan,2016-11-14,3508.0,21.2,28.8,clear
+1427,Mustard,Bhattu Kalan,2016-11-14,4149.0,3.3,28.8,clear
+1428,Groundnut,Bhattu Kalan,2016-11-15,3500.0,9.0,28.0,clear
+1429,Mustard,Bhattu Kalan,2016-11-15,4010.0,4.0,28.0,clear
+1430,Groundnut,Bhattu Kalan,2016-11-16,3357.0,7.8,28.6,clear
+1431,Groundnut,Bhattu Kalan,2016-11-17,3535.0,12.5,25.2,clear
+1432,Groundnut,Bhattu Kalan,2016-11-18,3457.0,10.5,28.4,clear
+1433,Groundnut,Bhattu Kalan,2016-11-19,3500.0,13.7,30.0,clear
+1434,Groundnut,Bhattu Kalan,2016-11-21,3582.0,9.2,31.6,clear
+1435,Groundnut,Bhattu Kalan,2016-11-22,3650.0,6.9,31.0,clear
+1436,Mustard,Bhattu Kalan,2016-11-22,4021.0,3.6,31.0,clear
+1437,Groundnut,Bhattu Kalan,2016-11-23,3495.0,8.3,29.0,clear
+1438,Mustard,Bhattu Kalan,2016-11-23,4011.0,5.5,29.0,clear
+1439,Groundnut,Bhattu Kalan,2016-11-25,3552.0,10.2,29.4,clear
+1440,Groundnut,Bhattu Kalan,2016-11-26,3505.0,14.3,30.0,clear
+1441,Groundnut,Bhattu Kalan,2016-11-28,3712.0,8.8,30.0,clear
+1442,Groundnut,Bhattu Kalan,2016-11-29,3580.0,10.5,30.4,clear
+1443,Groundnut,Bhattu Kalan,2016-11-30,3685.0,13.7,27.6,clear
+1444,Groundnut,Bhattu Kalan,2016-01-12,3536.0,13.9,24.2,clear
+1445,Groundnut,Bhattu Kalan,2016-02-12,3600.0,12.8,23.0,clear
+1446,Mustard,Bhattu Kalan,2016-02-12,4075.0,1.2,23.0,clear
+1447,Groundnut,Bhattu Kalan,2016-03-12,3350.0,9.5,25.6,clear
+1448,Groundnut,Bhattu Kalan,2016-05-12,3505.0,22.7,43.4,clear
+1449,Groundnut,Bhattu Kalan,2016-06-12,3351.0,10.3,37.8,clear
+1450,Groundnut,Bhattu Kalan,2016-07-12,3422.0,7.8,34.0,clear
+1451,Groundnut,Bhattu Kalan,2016-08-12,3450.0,9.7,32.4,clear
+1452,Groundnut,Bhattu Kalan,2016-09-12,3629.0,12.1,35.4,clear
+1453,Groundnut,Bhattu Kalan,2016-10-12,3681.0,10.7,36.4,clear
+1454,Mustard,Bhattu Kalan,2016-10-12,4150.0,1.2,36.4,clear
+1455,Groundnut,Bhattu Kalan,2016-12-12,3380.0,14.0,24.0,clear
+1456,Groundnut,Bhattu Kalan,2016-12-13,3401.0,8.9,24.2,clear
+1457,Groundnut,Bhattu Kalan,2016-12-14,3650.0,20.1,22.6,clear
+1458,Groundnut,Bhattu Kalan,2016-12-15,3549.0,15.5,24.4,clear
+1459,Groundnut,Bhattu Kalan,2016-12-16,3600.0,6.7,25.4,clear
+1460,Groundnut,Bhattu Kalan,2016-12-17,3600.0,16.4,24.0,clear
+1461,Groundnut,Bhattu Kalan,2016-12-19,3566.0,11.7,23.6,clear
+1462,Groundnut,Bhattu Kalan,2016-12-20,3551.0,16.5,24.6,clear
+1463,Groundnut,Bhattu Kalan,2016-12-21,3440.0,13.4,26.0,clear
+1464,Groundnut,Bhattu Kalan,2016-12-22,3500.0,15.0,26.8,clear
+1465,Groundnut,Bhattu Kalan,2016-12-23,3549.0,6.0,25.6,clear
+1466,Groundnut,Bhattu Kalan,2016-12-24,3600.0,8.2,21.2,clear
+1467,Groundnut,Bhattu Kalan,2016-12-26,3500.0,6.0,20.6,clear
+1468,Groundnut,Bhattu Kalan,2016-12-27,3290.0,91.0,24.2,clear
+1469,Mustard,Bhattu Kalan,2016-12-27,3800.0,3.0,24.2,clear
+1470,Groundnut,Bhattu Kalan,2016-12-28,3552.0,8.7,26.4,clear
+1471,Groundnut,Bhattu Kalan,2016-12-29,3500.0,10.9,22.4,clear
+1472,Groundnut,Bhattu Kalan,2016-12-30,3599.0,5.4,14.4,clear
+1473,Groundnut,Bhattu Kalan,2016-12-31,3550.0,4.5,19.8,clear
+1474,Mustard,Bhattu Kalan,2016-03-16,3390.0,6.7,28.4,clear
+1475,Mustard,Fatehabad,2016-03-16,3265.0,1.3,28.4,clear
+1476,Mustard,Bhattu Kalan,2016-03-18,3300.0,10.6,30.6,clear
+1477,Mustard,Fatehabad,2016-03-18,2965.0,3.0,30.6,clear
+1478,Mustard,Bhattu Kalan,2016-03-21,3231.0,103.5,31.4,clear
+1479,Mustard,Fatehabad,2016-03-21,2901.0,26.8,31.4,clear
+1480,Mustard,Bhattu Kalan,2016-03-23,3150.0,93.1,34.0,clear
+1481,Mustard,Fatehabad,2016-03-23,3300.0,55.9,34.0,clear
+1482,Mustard,Bhattu Kalan,2016-03-29,3480.0,299.8,33.8,clear
+1483,Mustard,Fatehabad,2016-03-29,3290.0,189.1,33.8,clear
+1484,Mustard,Bhattu Kalan,2016-03-30,3525.0,338.3,35.4,clear
+1485,Mustard,Bhattu Kalan,2016-03-31,3450.0,200.6,36.8,clear
+1486,Mustard,Bhattu Kalan,2016-01-04,3560.0,206.4,20.8,clear
+1487,Mustard,Fatehabad,2016-01-04,3390.0,114.9,20.8,clear
+1488,Mustard,Bhattu Kalan,2016-02-04,3625.0,232.2,23.8,clear
+1489,Mustard,Bhattu Kalan,2016-04-04,3700.0,176.6,38.0,clear
+1490,Mustard,Bhattu Kalan,2016-05-04,3661.0,161.4,39.4,clear
+1491,Mustard,Bhattu Kalan,2016-06-04,3750.0,182.9,44.8,clear
+1492,Mustard,Bhattu Kalan,2016-07-04,3780.0,154.0,34.4,clear
+1493,Mustard,Bhattu Kalan,2016-08-04,3875.0,120.5,35.2,clear
+1494,Mustard,Bhattu Kalan,2016-09-04,3840.0,132.4,35.6,clear
+1495,Mustard,Bhattu Kalan,2016-11-04,3890.0,169.8,24.4,clear
+1496,Mustard,Fatehabad,2016-11-04,3675.0,37.2,24.4,clear
+1497,Mustard,Bhattu Kalan,2016-12-04,3775.0,49.8,27.8,clear
+1498,Mustard,Fatehabad,2016-12-04,3700.0,13.5,27.8,clear
+1499,Mustard,Bhattu Kalan,2016-04-13,3881.0,53.6,38.4,clear
+1500,Mustard,Bhattu Kalan,2016-04-14,3990.0,43.3,39.4,clear
+1501,Mustard,Bhattu Kalan,2016-04-15,4100.0,29.0,41.0,clear
+1502,Mustard,Bhattu Kalan,2016-04-16,4081.0,48.5,43.0,clear
+1503,Mustard,Bhattu Kalan,2016-04-18,4145.0,30.3,41.2,clear
+1504,Mustard,Bhattu Kalan,2016-04-19,4140.0,37.0,40.0,clear
+1505,Mustard,Bhattu Kalan,2016-04-20,4080.0,22.0,40.0,clear
+1506,Mustard,Bhattu Kalan,2016-04-21,4035.0,14.2,39.4,clear
+1507,Mustard,Bhattu Kalan,2016-04-22,4050.0,17.0,39.6,clear
+1508,Mustard,Bhattu Kalan,2016-04-23,4050.0,32.5,38.2,clear
+1509,Mustard,Bhattu Kalan,2016-04-25,4005.0,55.3,39.0,clear
+1510,Mustard,Bhattu Kalan,2016-04-26,3950.0,34.5,40.8,clear
+1511,Mustard,Bhattu Kalan,2016-04-27,4000.0,67.7,41.6,clear
+1512,Mustard,Bhattu Kalan,2016-04-28,3975.0,60.0,39.6,clear
+1513,Mustard,Bhattu Kalan,2016-04-29,3974.0,69.4,41.0,clear
+1514,Mustard,Bhattu Kalan,2016-04-30,3900.0,75.8,42.8,clear
+1515,Mustard,Bhattu Kalan,2016-02-05,3850.0,63.9,21.0,clear
+1516,Mustard,Bhattu Kalan,2016-03-05,3825.0,54.9,29.2,rain
+1517,Mustard,Bhattu Kalan,2016-04-05,3850.0,66.5,35.6,clear
+1518,Mustard,Fatehabad,2016-04-05,3752.0,0.9,35.6,clear
+1519,Mustard,Bhattu Kalan,2016-05-05,3900.0,64.2,36.0,clear
+1520,Mustard,Fatehabad,2016-05-05,3851.0,0.7,36.0,clear
+1521,Mustard,Bhattu Kalan,2016-06-05,3885.0,62.8,44.0,clear
+1522,Mustard,Bhattu Kalan,2016-07-05,3925.0,91.5,37.0,clear
+1523,Mustard,Bhattu Kalan,2016-09-05,3965.0,67.7,35.0,clear
+1524,Mustard,Fatehabad,2016-09-05,3866.0,1.5,35.0,clear
+1525,Mustard,Bhattu Kalan,2016-10-05,3900.0,54.4,34.6,clear
+1526,Mustard,Fatehabad,2016-10-05,3875.0,0.7,34.6,clear
+1527,Mustard,Bhattu Kalan,2016-11-05,3850.0,22.4,30.2,clear
+1528,Mustard,Bhattu Kalan,2016-12-05,3830.0,22.8,27.2,clear
+1529,Mustard,Bhattu Kalan,2016-05-13,3820.0,21.7,44.4,clear
+1530,Mustard,Fatehabad,2016-05-13,3850.0,1.5,44.4,clear
+1531,Mustard,Bhattu Kalan,2016-05-14,3900.0,47.6,43.4,clear
+1532,Mustard,Bhattu Kalan,2016-05-16,3900.0,31.4,44.4,clear
+1533,Mustard,Fatehabad,2016-05-16,3611.0,16.5,44.4,clear
+1534,Mustard,Bhattu Kalan,2016-05-17,3875.0,44.9,45.0,clear
+1535,Mustard,Fatehabad,2016-05-17,3625.0,3.3,45.0,clear
+1536,Mustard,Bhattu Kalan,2016-05-18,3820.0,27.5,46.2,clear
+1537,Mustard,Bhattu Kalan,2016-05-19,3840.0,15.6,45.0,clear
+1538,Mustard,Fatehabad,2016-05-19,3700.0,0.5,45.0,clear
+1539,Mustard,Bhattu Kalan,2016-05-20,3870.0,26.9,45.2,clear
+1540,Mustard,Bhattu Kalan,2016-05-21,3855.0,17.9,46.8,clear
+1541,Mustard,Bhattu Kalan,2016-05-23,3850.0,27.6,40.0,rain
+1542,Mustard,Fatehabad,2016-05-23,3865.0,0.3,40.0,rain
+1543,Mustard,Bhattu Kalan,2016-05-24,3827.0,19.4,33.8,clear
+1544,Mustard,Fatehabad,2016-05-24,3830.0,0.6,33.8,clear
+1545,Mustard,Bhattu Kalan,2016-05-25,3820.0,22.5,39.0,clear
+1546,Mustard,Bhattu Kalan,2016-05-26,3850.0,23.7,40.4,clear
+1547,Mustard,Fatehabad,2016-05-26,3761.0,4.0,40.4,clear
+1548,Mustard,Bhattu Kalan,2016-05-27,3860.0,20.7,42.0,clear
+1549,Mustard,Fatehabad,2016-05-27,3791.0,0.4,42.0,clear
+1550,Mustard,Bhattu Kalan,2016-05-28,3940.0,18.3,41.0,clear
+1551,Mustard,Bhattu Kalan,2016-05-30,3935.0,35.7,29.6,clear
+1552,Mustard,Fatehabad,2016-05-30,3910.0,0.5,29.6,clear
+1553,Mustard,Bhattu Kalan,2016-05-31,3940.0,33.4,37.0,clear
+1554,Mustard,Bhattu Kalan,2016-01-06,3915.0,39.1,22.4,clear
+1555,Mustard,Bhattu Kalan,2016-02-06,3915.0,32.5,20.8,clear
+1556,Mustard,Bhattu Kalan,2016-04-06,3909.0,67.7,35.4,clear
+1557,Mustard,Fatehabad,2016-04-06,3762.0,1.7,35.4,clear
+1558,Mustard,Bhattu Kalan,2016-06-06,3890.0,33.0,44.0,clear
+1559,Mustard,Fatehabad,2016-06-06,3871.0,2.7,44.0,clear
+1560,Mustard,Bhattu Kalan,2016-07-06,3980.0,17.1,35.2,clear
+1561,Mustard,Fatehabad,2016-07-06,3886.0,2.5,35.2,clear
+1562,Mustard,Bhattu Kalan,2016-08-06,4000.0,27.4,33.2,clear
+1563,Mustard,Bhattu Kalan,2016-09-06,4080.0,26.6,36.0,clear
+1564,Mustard,Bhattu Kalan,2016-10-06,4150.0,27.9,35.0,clear
+1565,Mustard,Fatehabad,2016-10-06,4071.0,2.2,35.0,clear
+1566,Mustard,Bhattu Kalan,2016-11-06,4170.0,15.7,31.0,clear
+1567,Mustard,Bhattu Kalan,2016-06-13,4248.0,16.2,40.4,clear
+1568,Mustard,Bhattu Kalan,2016-06-14,4290.0,10.2,36.8,clear
+1569,Mustard,Fatehabad,2016-06-14,3551.0,0.3,36.8,clear
+1570,Mustard,Bhattu Kalan,2016-06-15,4300.0,22.9,38.0,clear
+1571,Mustard,Bhattu Kalan,2016-06-16,4280.0,15.3,37.0,clear
+1572,Mustard,Fatehabad,2016-06-16,3975.0,0.3,37.0,clear
+1573,Mustard,Bhattu Kalan,2016-06-17,4191.0,18.7,39.4,clear
+1574,Mustard,Bhattu Kalan,2016-06-18,4207.0,6.5,39.6,clear
+1575,Mustard,Bhattu Kalan,2016-06-20,4205.0,13.8,40.0,clear
+1576,Mustard,Bhattu Kalan,2016-06-21,4288.0,23.6,39.0,clear
+1577,Mustard,Bhattu Kalan,2016-06-22,4285.0,22.5,39.4,clear
+1578,Mustard,Fatehabad,2016-06-22,3922.0,3.4,39.4,clear
+1579,Mustard,Bhattu Kalan,2016-06-23,4250.0,21.4,40.4,clear
+1580,Mustard,Bhattu Kalan,2016-06-24,4250.0,6.3,41.8,clear
+1581,Mustard,Fatehabad,2016-06-24,4071.0,1.7,41.8,clear
+1582,Mustard,Bhattu Kalan,2016-06-25,4245.0,18.5,41.4,clear
+1583,Mustard,Bhattu Kalan,2016-06-28,4230.0,20.4,34.6,clear
+1584,Mustard,Bhattu Kalan,2016-06-30,4290.0,13.8,41.4,clear
+1585,Mustard,Bhattu Kalan,2016-01-07,4281.0,10.5,22.4,clear
+1586,Mustard,Bhattu Kalan,2016-02-07,4290.0,10.6,23.8,clear
+1587,Mustard,Bhattu Kalan,2016-04-07,4280.0,11.9,35.8,clear
+1588,Mustard,Bhattu Kalan,2016-05-07,4370.0,18.6,39.2,clear
+1589,Mustard,Bhattu Kalan,2016-06-07,4290.0,20.4,38.2,clear
+1590,Mustard,Fatehabad,2016-06-07,4191.0,0.8,38.2,clear
+1591,Mustard,Bhattu Kalan,2016-07-07,4285.0,18.8,38.4,clear
+1592,Mustard,Bhattu Kalan,2016-08-07,4275.0,12.3,35.0,clear
+1593,Mustard,Fatehabad,2016-08-07,4151.0,4.0,35.0,clear
+1594,Mustard,Bhattu Kalan,2016-09-07,4333.0,7.5,35.8,clear
+1595,Mustard,Bhattu Kalan,2016-11-07,4360.0,14.5,29.2,clear
+1596,Mustard,Bhattu Kalan,2016-12-07,4321.0,28.8,27.4,clear
+1597,Mustard,Bhattu Kalan,2016-07-13,4380.0,28.0,36.0,clear
+1598,Mustard,Bhattu Kalan,2016-07-14,4450.0,26.6,36.4,clear
+1599,Mustard,Bhattu Kalan,2016-07-15,4500.0,20.0,33.2,clear
+1600,Mustard,Bhattu Kalan,2016-07-16,4500.0,18.3,28.8,clear
+1601,Mustard,Bhattu Kalan,2016-07-18,4552.0,29.0,34.4,clear
+1602,Mustard,Bhattu Kalan,2016-07-19,4575.0,16.8,35.8,clear
+1603,Mustard,Bhattu Kalan,2016-07-20,4533.0,19.3,37.6,clear
+1604,Mustard,Bhattu Kalan,2016-07-21,4558.0,7.9,39.0,clear
+1605,Mustard,Bhattu Kalan,2016-07-22,4550.0,9.6,38.6,clear
+1606,Mustard,Bhattu Kalan,2016-07-23,4480.0,12.3,35.2,clear
+1607,Mustard,Bhattu Kalan,2016-07-25,4430.0,9.0,38.4,clear
+1608,Mustard,Bhattu Kalan,2016-07-26,4425.0,12.2,39.4,clear
+1609,Mustard,Bhattu Kalan,2016-07-27,4344.0,5.1,32.2,clear
+1610,Mustard,Bhattu Kalan,2016-07-28,4354.0,3.4,30.2,clear
+1611,Mustard,Bhattu Kalan,2016-07-29,4330.0,4.6,30.4,clear
+1612,Mustard,Bhattu Kalan,2016-07-30,4326.0,3.2,30.4,clear
+1613,Mustard,Bhattu Kalan,2016-01-08,4300.0,4.4,21.6,clear
+1614,Mustard,Bhattu Kalan,2016-03-08,4500.0,11.3,27.8,clear
+1615,Mustard,Bhattu Kalan,2016-04-08,4418.0,5.6,36.0,clear
+1616,Mustard,Bhattu Kalan,2016-05-08,4496.0,6.6,41.0,clear
+1617,Mustard,Bhattu Kalan,2016-06-08,4440.0,6.0,42.8,clear
+1618,Mustard,Bhattu Kalan,2016-08-08,4360.0,5.5,34.4,clear
+1619,Mustard,Bhattu Kalan,2016-09-08,4429.0,2.6,36.2,clear
+1620,Mustard,Bhattu Kalan,2016-10-08,4400.0,4.3,37.0,clear
+1621,Mustard,Bhattu Kalan,2016-12-08,4400.0,1.5,25.0,clear
+1622,Mustard,Bhattu Kalan,2016-08-13,4250.0,2.5,35.8,clear
+1623,Mustard,Bhattu Kalan,2016-08-15,4350.0,2.6,36.8,clear
+1624,Mustard,Bhattu Kalan,2016-08-16,4320.0,9.3,38.8,clear
+1625,Mustard,Bhattu Kalan,2016-08-18,4402.0,1.4,32.2,clear
+1626,Mustard,Bhattu Kalan,2016-08-19,4390.0,14.4,33.8,clear
+1627,Mustard,Bhattu Kalan,2016-08-20,4273.0,2.1,34.6,clear
+1628,Mustard,Bhattu Kalan,2016-08-22,4380.0,10.2,34.0,clear
+1629,Mustard,Bhattu Kalan,2016-08-23,4380.0,7.3,35.0,clear
+1630,Mustard,Bhattu Kalan,2016-08-24,4265.0,8.5,29.6,clear
+1631,Mustard,Bhattu Kalan,2016-08-25,4252.0,3.4,34.0,clear
+1632,Mustard,Bhattu Kalan,2016-08-26,4225.0,18.7,35.8,clear
+1633,Mustard,Bhattu Kalan,2016-08-27,4343.0,8.6,34.6,clear
+1634,Mustard,Bhattu Kalan,2016-08-29,4200.0,8.0,27.4,clear
+1635,Mustard,Bhattu Kalan,2016-08-30,4208.0,12.0,31.0,clear
+1636,Mustard,Bhattu Kalan,2016-02-09,4271.0,10.8,23.0,clear
+1637,Mustard,Bhattu Kalan,2016-03-09,4330.0,7.7,29.0,clear
+1638,Mustard,Bhattu Kalan,2016-05-09,4375.0,11.1,42.2,clear
+1639,Mustard,Bhattu Kalan,2016-06-09,4350.0,10.6,43.6,clear
+1640,Mustard,Bhattu Kalan,2016-07-09,4350.0,7.1,35.8,clear
+1641,Mustard,Bhattu Kalan,2016-08-09,4320.0,8.2,34.8,clear
+1642,Mustard,Bhattu Kalan,2016-09-09,4270.0,10.9,36.0,clear
+1643,Mustard,Bhattu Kalan,2016-10-09,4270.0,6.7,36.8,clear
+1644,Mustard,Bhattu Kalan,2016-12-09,4140.0,4.9,28.0,clear
+1645,Mustard,Bhattu Kalan,2016-09-13,4310.0,1.6,37.0,clear
+1646,Mustard,Bhattu Kalan,2016-09-14,4270.0,6.7,36.4,clear
+1647,Mustard,Bhattu Kalan,2016-09-15,4250.0,4.5,37.0,clear
+1648,Mustard,Bhattu Kalan,2016-09-16,4226.0,4.3,37.0,clear
+1649,Mustard,Bhattu Kalan,2016-09-19,4310.0,4.6,37.0,clear
+1650,Mustard,Bhattu Kalan,2016-09-20,4251.0,7.4,37.4,clear
+1651,Mustard,Bhattu Kalan,2016-09-21,4276.0,3.2,37.4,clear
+1652,Mustard,Fatehabad,2016-09-21,4000.0,5.5,37.4,clear
+1653,Mustard,Bhattu Kalan,2016-09-23,4200.0,6.3,34.8,clear
+1654,Mustard,Bhattu Kalan,2016-09-26,4191.0,3.0,35.0,clear
+1655,Mustard,Bhattu Kalan,2016-09-27,4050.0,2.5,35.4,clear
+1656,Mustard,Bhattu Kalan,2016-09-28,4179.0,2.8,35.6,clear
+1657,Mustard,Bhattu Kalan,2016-09-30,4188.0,1.0,36.8,clear
+1658,Mustard,Bhattu Kalan,2016-03-10,4122.0,3.7,31.4,clear
+1659,Mustard,Fatehabad,2016-03-15,3200.0,2.8,29.4,clear
+1660,Mustard,Fatehabad,2016-03-17,3100.0,0.9,29.2,clear
+1661,Mustard,Fatehabad,2016-03-19,3001.0,3.3,32.6,rain
+1662,Mustard,Fatehabad,2016-03-22,2850.0,55.5,30.4,clear
+1663,Mustard,Fatehabad,2016-03-25,3275.0,78.6,35.0,clear
+1664,Mustard,Fatehabad,2016-03-26,3230.0,88.1,31.4,clear
+1665,Mustard,Fatehabad,2016-03-06,3771.0,5.4,25.0,clear
+1666,Groundnut,Bhattu Kalan,2017-02-01,3575.0,9.0,22.4,clear
+1667,Groundnut,Bhattu Kalan,2017-03-01,3550.0,3.8,29.4,clear
+1668,Groundnut,Bhattu Kalan,2017-04-01,3550.0,19.2,39.8,clear
+1669,Groundnut,Bhattu Kalan,2017-05-01,3501.0,9.7,38.4,clear
+1670,Mustard,Bhattu Kalan,2017-05-01,3850.0,0.8,38.4,clear
+1671,Groundnut,Bhattu Kalan,2017-06-01,3562.0,11.5,37.4,clear
+1672,Groundnut,Bhattu Kalan,2017-07-01,3630.0,6.8,34.2,clear
+1673,Groundnut,Bhattu Kalan,2017-09-01,3435.0,10.1,29.6,clear
+1674,Groundnut,Bhattu Kalan,2017-10-01,3600.0,17.1,39.0,clear
+1675,Groundnut,Bhattu Kalan,2017-11-01,3551.0,15.8,33.8,clear
+1676,Mustard,Bhattu Kalan,2017-11-01,3760.0,8.1,33.8,clear
+1677,Groundnut,Bhattu Kalan,2017-12-01,3500.0,10.7,27.0,clear
+1678,Mustard,Bhattu Kalan,2017-12-01,3750.0,3.8,27.0,clear
+1679,Groundnut,Bhattu Kalan,2017-01-13,3550.0,12.3,20.2,clear
+1680,Groundnut,Bhattu Kalan,2017-01-14,3580.0,14.2,16.8,clear
+1681,Groundnut,Bhattu Kalan,2017-01-16,3607.0,6.0,15.6,clear
+1682,Groundnut,Bhattu Kalan,2017-01-17,3571.0,2.1,15.0,clear
+1683,Groundnut,Bhattu Kalan,2017-01-18,3620.0,5.8,18.4,clear
+1684,Groundnut,Bhattu Kalan,2017-01-19,3560.0,7.3,18.8,clear
+1685,Groundnut,Bhattu Kalan,2017-01-20,3500.0,7.8,20.0,clear
+1686,Groundnut,Bhattu Kalan,2017-01-21,3451.0,2.0,18.6,clear
+1687,Groundnut,Bhattu Kalan,2017-01-23,3747.0,7.4,20.4,clear
+1688,Groundnut,Bhattu Kalan,2017-01-24,3574.0,4.6,22.6,clear
+1689,Groundnut,Bhattu Kalan,2017-01-25,3551.0,6.5,23.4,rain
+1690,Groundnut,Bhattu Kalan,2017-01-27,3457.0,4.1,17.2,clear
+1691,Groundnut,Bhattu Kalan,2017-01-28,3511.0,1.0,15.2,clear
+1692,Groundnut,Bhattu Kalan,2017-01-30,3400.0,7.0,22.6,clear
+1693,Groundnut,Bhattu Kalan,2017-01-31,3481.0,9.0,21.8,clear
+1694,Groundnut,Bhattu Kalan,2017-01-02,3525.0,6.8,21.8,clear
+1695,Groundnut,Bhattu Kalan,2017-02-02,3477.0,3.6,22.2,clear
+1696,Groundnut,Bhattu Kalan,2017-03-02,3366.0,25.0,28.6,clear
+1697,Groundnut,Bhattu Kalan,2017-04-02,3600.0,6.7,39.0,clear
+1698,Groundnut,Bhattu Kalan,2017-06-02,3600.0,3.0,41.8,clear
+1699,Groundnut,Bhattu Kalan,2017-07-02,3581.0,4.2,34.0,clear
+1700,Groundnut,Bhattu Kalan,2017-08-02,3635.0,4.4,31.4,clear
+1701,Groundnut,Bhattu Kalan,2017-09-02,3561.0,1.3,32.2,clear
+1702,Groundnut,Bhattu Kalan,2017-10-02,3730.0,4.5,38.0,clear
+1703,Groundnut,Bhattu Kalan,2017-11-02,3652.0,3.6,30.4,clear
+1704,Groundnut,Bhattu Kalan,2017-02-13,3620.0,6.3,25.4,clear
+1705,Groundnut,Bhattu Kalan,2017-02-14,3500.0,6.7,26.0,clear
+1706,Groundnut,Bhattu Kalan,2017-02-15,4005.0,3.0,27.4,clear
+1707,Groundnut,Bhattu Kalan,2017-02-16,3954.0,1.2,25.4,clear
+1708,Groundnut,Bhattu Kalan,2017-02-17,3721.0,3.4,28.2,clear
+1709,Groundnut,Bhattu Kalan,2017-02-18,4050.0,1.2,29.8,clear
+1710,Groundnut,Bhattu Kalan,2017-02-20,3627.0,6.8,30.4,clear
+1711,Groundnut,Bhattu Kalan,2017-02-21,3809.0,5.4,26.4,clear
+1712,Groundnut,Bhattu Kalan,2017-02-23,3800.0,3.6,26.8,clear
+1713,Groundnut,Bhattu Kalan,2017-02-24,3709.0,2.0,26.0,clear
+1714,Groundnut,Bhattu Kalan,2017-02-25,3806.0,2.7,28.4,clear
+1715,Groundnut,Bhattu Kalan,2017-02-27,3800.0,3.2,29.8,clear
+1716,Mustard,Bhattu Kalan,2017-02-27,3920.0,5.0,29.8,clear
+1717,Groundnut,Bhattu Kalan,2017-02-28,3880.0,2.2,28.2,clear
+1718,Groundnut,Bhattu Kalan,2017-02-03,3825.0,6.0,22.8,clear
+1719,Groundnut,Bhattu Kalan,2017-03-03,4050.0,0.2,27.4,clear
+1720,Groundnut,Bhattu Kalan,2017-04-03,3683.0,2.4,39.0,clear
+1721,Groundnut,Bhattu Kalan,2017-06-03,3765.0,1.3,46.2,clear
+1722,Groundnut,Bhattu Kalan,2017-08-03,3400.0,3.2,33.8,clear
+1723,Groundnut,Bhattu Kalan,2017-09-03,3898.0,0.4,34.0,clear
+1724,Groundnut,Bhattu Kalan,2017-10-03,4070.0,0.8,37.6,clear
+1725,Groundnut,Bhattu Kalan,2017-11-03,4025.0,1.8,31.2,clear
+1726,Groundnut,Bhattu Kalan,2017-03-15,3742.0,0.7,29.2,clear
+1727,Mustard,Bhattu Kalan,2017-03-15,3217.0,13.8,29.2,clear
+1728,Groundnut,Bhattu Kalan,2017-03-16,3317.0,2.4,26.8,clear
+1729,Mustard,Bhattu Kalan,2017-03-16,3322.0,6.6,26.8,clear
+1730,Groundnut,Bhattu Kalan,2017-03-17,3500.0,1.8,28.4,clear
+1731,Mustard,Bhattu Kalan,2017-03-17,3380.0,13.6,28.4,clear
+1732,Groundnut,Bhattu Kalan,2017-03-18,3824.0,1.4,28.4,clear
+1733,Mustard,Bhattu Kalan,2017-03-18,3276.0,10.8,28.4,clear
+1734,Groundnut,Bhattu Kalan,2017-03-20,4080.0,1.1,31.6,clear
+1735,Mustard,Bhattu Kalan,2017-03-20,3580.0,43.7,31.6,clear
+1736,Groundnut,Bhattu Kalan,2017-03-21,3525.0,0.4,35.0,clear
+1737,Mustard,Bhattu Kalan,2017-03-21,3450.0,19.7,35.0,clear
+1738,Groundnut,Bhattu Kalan,2017-03-29,4000.0,1.0,38.0,clear
+1739,Mustard,Bhattu Kalan,2017-03-29,3550.0,229.2,38.0,clear
+1740,Groundnut,Bhattu Kalan,2017-02-10,3300.0,39.4,23.4,clear
+1741,Mustard,Bhattu Kalan,2017-02-10,3450.0,25.9,23.4,clear
+1742,Groundnut,Bhattu Kalan,2017-04-10,3287.0,30.8,35.2,clear
+1743,Mustard,Bhattu Kalan,2017-04-10,3400.0,15.5,35.2,clear
+1744,Groundnut,Bhattu Kalan,2017-05-10,3015.0,40.8,42.0,clear
+1745,Mustard,Bhattu Kalan,2017-05-10,3490.0,16.3,42.0,clear
+1746,Groundnut,Bhattu Kalan,2017-06-10,2975.0,25.8,41.0,rain
+1747,Mustard,Bhattu Kalan,2017-06-10,3460.0,17.0,41.0,rain
+1748,Groundnut,Bhattu Kalan,2017-10-13,3186.0,39.6,37.4,clear
+1749,Mustard,Bhattu Kalan,2017-10-13,3416.0,41.9,37.4,clear
+1750,Groundnut,Bhattu Kalan,2017-10-14,3092.0,14.4,37.4,clear
+1751,Mustard,Bhattu Kalan,2017-10-14,3497.0,23.4,37.4,clear
+1752,Groundnut,Bhattu Kalan,2017-10-16,3251.0,34.8,37.4,clear
+1753,Mustard,Bhattu Kalan,2017-10-16,3481.0,39.7,37.4,clear
+1754,Groundnut,Bhattu Kalan,2017-10-21,3192.0,45.8,35.6,clear
+1755,Mustard,Bhattu Kalan,2017-10-21,3521.0,26.3,35.6,clear
+1756,Groundnut,Bhattu Kalan,2017-10-23,3219.0,31.1,36.4,clear
+1757,Mustard,Bhattu Kalan,2017-10-23,3490.0,48.1,36.4,clear
+1758,Groundnut,Bhattu Kalan,2017-10-24,3501.0,68.2,34.2,clear
+1759,Mustard,Bhattu Kalan,2017-10-24,3500.0,35.3,34.2,clear
+1760,Groundnut,Bhattu Kalan,2017-10-25,3380.0,28.3,34.0,clear
+1761,Mustard,Bhattu Kalan,2017-10-25,3590.0,24.7,34.0,clear
+1762,Groundnut,Bhattu Kalan,2017-10-26,3480.0,23.0,34.0,clear
+1763,Mustard,Bhattu Kalan,2017-10-26,3581.0,44.7,34.0,clear
+1764,Groundnut,Bhattu Kalan,2017-10-27,3337.0,29.2,33.0,clear
+1765,Groundnut,Bhattu Kalan,2017-10-28,3100.0,22.7,32.4,clear
+1766,Mustard,Bhattu Kalan,2017-10-28,3580.0,39.8,32.4,clear
+1767,Mustard,Bhattu Kalan,2017-03-14,3311.0,5.1,25.0,clear
+1768,Mustard,Bhattu Kalan,2017-03-22,3512.0,75.6,35.0,clear
+1769,Mustard,Bhattu Kalan,2017-03-23,3551.0,57.0,37.4,clear
+1770,Mustard,Bhattu Kalan,2017-03-24,3600.0,133.2,35.0,clear
+1771,Mustard,Bhattu Kalan,2017-03-25,3580.0,177.5,34.4,clear
+1772,Mustard,Bhattu Kalan,2017-03-27,3500.0,234.6,37.4,clear
+1773,Mustard,Bhattu Kalan,2017-03-28,3465.0,204.6,38.4,clear
+1774,Mustard,Bhattu Kalan,2017-03-30,3500.0,227.8,36.0,clear
+1775,Mustard,Bhattu Kalan,2017-03-31,3511.0,361.7,40.0,clear
+1776,Mustard,Bhattu Kalan,2017-01-04,3511.0,,23.8,clear
+1777,Mustard,Bhattu Kalan,2017-06-23,3376.0,48.0,36.8,clear
+1778,Mustard,Bhattu Kalan,2017-06-24,3422.0,44.4,38.4,clear
+1779,Mustard,Bhattu Kalan,2017-06-29,3293.0,107.6,28.0,clear
+1780,Mustard,Bhattu Kalan,2017-03-07,3400.0,85.5,27.0,clear
+1781,Mustard,Bhattu Kalan,2017-04-07,3280.0,47.0,33.8,clear
+1782,Mustard,Bhattu Kalan,2017-05-07,3331.0,20.3,44.8,clear
+1783,Mustard,Bhattu Kalan,2017-06-07,3341.0,29.0,34.4,clear
+1784,Mustard,Bhattu Kalan,2017-07-07,3360.0,35.2,38.4,rain
+1785,Mustard,Bhattu Kalan,2017-08-07,3381.0,14.5,35.6,clear
+1786,Mustard,Bhattu Kalan,2017-10-07,3374.0,36.2,37.0,clear
+1787,Mustard,Bhattu Kalan,2017-11-07,3370.0,14.6,29.6,clear
+1788,Mustard,Bhattu Kalan,2017-12-07,3400.0,38.4,24.0,clear
+1789,Mustard,Bhattu Kalan,2017-07-14,3450.0,35.2,35.2,clear
+1790,Mustard,Bhattu Kalan,2017-07-15,3500.0,35.4,37.0,clear
+1791,Mustard,Bhattu Kalan,2017-07-17,3472.0,40.3,33.2,clear
+1792,Mustard,Bhattu Kalan,2017-07-18,3500.0,25.0,35.8,clear
+1793,Mustard,Bhattu Kalan,2017-07-19,3415.0,21.5,37.4,clear
+1794,Mustard,Bhattu Kalan,2017-07-20,3452.0,2.6,30.2,clear
+1795,Mustard,Bhattu Kalan,2017-07-21,3401.0,30.6,34.8,clear
+1796,Mustard,Bhattu Kalan,2017-07-22,3475.0,11.3,34.0,clear
+1797,Mustard,Bhattu Kalan,2017-07-24,3444.0,34.4,31.6,clear
+1798,Mustard,Bhattu Kalan,2017-07-25,3460.0,22.0,33.6,clear
+1799,Mustard,Bhattu Kalan,2017-07-26,3465.0,21.3,33.4,clear
+1800,Mustard,Bhattu Kalan,2017-07-27,3481.0,23.9,34.0,clear
+1801,Mustard,Bhattu Kalan,2017-07-28,3451.0,24.7,35.0,clear
+1802,Mustard,Bhattu Kalan,2017-07-29,3450.0,17.0,34.0,clear
+1803,Mustard,Bhattu Kalan,2017-07-31,3477.0,20.4,32.4,clear
+1804,Mustard,Bhattu Kalan,2017-01-08,3485.0,13.2,17.0,clear
+1805,Mustard,Bhattu Kalan,2017-02-08,3450.0,20.0,22.4,clear
+1806,Mustard,Bhattu Kalan,2017-03-08,3481.0,20.0,24.4,clear
+1807,Mustard,Bhattu Kalan,2017-04-08,3424.0,15.3,34.2,clear
+1808,Mustard,Bhattu Kalan,2017-05-08,3496.0,19.5,44.0,rain
+1809,Mustard,Bhattu Kalan,2017-07-08,3435.0,20.7,35.8,clear
+1810,Mustard,Bhattu Kalan,2017-08-08,3464.0,24.6,34.8,clear
+1811,Mustard,Bhattu Kalan,2017-09-08,3459.0,17.8,35.2,clear
+1812,Mustard,Bhattu Kalan,2017-12-08,3503.0,18.2,24.6,clear
+1813,Mustard,Bhattu Kalan,2017-08-14,3544.0,24.5,35.0,clear
+1814,Mustard,Bhattu Kalan,2017-08-17,3500.0,41.9,37.6,clear
+1815,Mustard,Bhattu Kalan,2017-08-18,3501.0,87.3,37.4,clear
+1816,Mustard,Bhattu Kalan,2017-08-19,3561.0,40.0,34.4,clear
+1817,Mustard,Bhattu Kalan,2017-08-21,3500.0,57.3,35.6,clear
+1818,Mustard,Bhattu Kalan,2017-08-22,3535.0,37.7,34.6,clear
+1819,Mustard,Bhattu Kalan,2017-08-24,3555.0,17.9,34.6,clear
+1820,Mustard,Bhattu Kalan,2017-08-25,3600.0,10.7,34.0,clear
+1821,Mustard,Bhattu Kalan,2017-08-28,3646.0,5.0,32.2,clear
+1822,Mustard,Bhattu Kalan,2017-08-29,3600.0,18.7,31.0,clear
+1823,Mustard,Bhattu Kalan,2017-08-30,3563.0,15.5,32.4,clear
+1824,Mustard,Bhattu Kalan,2017-08-31,3501.0,15.5,32.0,clear
+1825,Mustard,Bhattu Kalan,2017-01-09,3495.0,17.3,19.0,clear
+1826,Mustard,Bhattu Kalan,2017-02-09,3505.0,24.6,22.2,clear
+1827,Mustard,Bhattu Kalan,2017-06-09,3571.0,26.5,38.0,clear
+1828,Mustard,Bhattu Kalan,2017-07-09,3544.0,17.7,38.6,clear
+1829,Mustard,Bhattu Kalan,2017-08-09,3600.0,28.3,36.4,clear
+1830,Mustard,Bhattu Kalan,2017-09-09,3550.0,29.4,35.0,clear
+1831,Mustard,Bhattu Kalan,2017-11-09,3500.0,39.0,31.4,clear
+1832,Mustard,Fatehabad,2017-11-09,3406.0,0.9,31.4,clear
+1833,Mustard,Bhattu Kalan,2017-12-09,3505.0,26.8,20.4,clear
+1834,Mustard,Bhattu Kalan,2017-09-14,3548.0,33.6,35.2,clear
+1835,Mustard,Bhattu Kalan,2017-09-16,3520.0,32.1,32.6,clear
+1836,Mustard,Fatehabad,2017-09-16,3375.0,0.8,32.6,clear
+1837,Mustard,Bhattu Kalan,2017-09-18,3451.0,25.5,37.8,clear
+1838,Mustard,Bhattu Kalan,2017-09-19,3500.0,58.7,36.8,clear
+1839,Mustard,Bhattu Kalan,2017-09-20,3485.0,23.4,37.2,clear
+1840,Mustard,Bhattu Kalan,2017-09-21,3451.0,30.7,36.4,clear
+1841,Mustard,Fatehabad,2017-09-21,3381.0,0.6,36.4,clear
+1842,Mustard,Bhattu Kalan,2017-09-22,3454.0,26.1,33.6,clear
+1843,Mustard,Fatehabad,2017-09-22,3372.0,0.3,33.6,clear
+1844,Mustard,Bhattu Kalan,2017-09-23,3481.0,29.0,31.6,clear
+1845,Mustard,Bhattu Kalan,2017-09-25,3450.0,34.8,38.0,clear
+1846,Mustard,Bhattu Kalan,2017-09-26,3500.0,35.7,38.0,clear
+1847,Mustard,Bhattu Kalan,2017-09-27,3465.0,27.0,37.0,clear
+1848,Mustard,Bhattu Kalan,2017-09-28,3499.0,19.1,38.4,clear
+1849,Mustard,Bhattu Kalan,2017-09-30,3501.0,14.7,39.0,clear
+1850,Mustard,Bhattu Kalan,2017-10-17,3470.0,12.3,36.8,clear
+1851,Mustard,Fatehabad,2017-09-15,3367.0,1.2,36.0,clear
+1852,Mustard,Fatehabad,2017-07-10,3311.0,1.5,39.0,clear

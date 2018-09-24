@@ -1,0 +1,687 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Mihipurwa,2015-12-30,8700.0,62.5,23.0,clear
+1,Bengal Gram(Gram),Bahraich,2015-12-30,5500.0,2.7,23.0,clear
+2,Arhar (Tur/Red Gram),Risia,2015-12-28,8650.0,15.0,23.2,clear
+3,Bengal Gram(Gram),Bahraich,2015-12-08,4645.0,2.2,24.2,clear
+4,Bengal Gram(Gram),Bahraich,2015-12-12,5485.0,1.8,23.6,clear
+5,Bengal Gram(Gram),Bahraich,2015-12-14,5480.0,2.1,16.0,clear
+6,Bengal Gram(Gram),Bahraich,2015-12-15,5485.0,1.9,20.2,clear
+7,Bengal Gram(Gram),Bahraich,2015-12-16,5480.0,2.4,20.4,clear
+8,Bengal Gram(Gram),Bahraich,2015-12-17,5485.0,2.1,21.2,clear
+9,Bengal Gram(Gram),Bahraich,2015-12-18,5500.0,1.9,21.6,clear
+10,Bengal Gram(Gram),Bahraich,2015-12-19,5500.0,2.0,23.6,clear
+11,Bengal Gram(Gram),Bahraich,2015-12-21,5500.0,2.2,21.6,clear
+12,Bengal Gram(Gram),Bahraich,2015-12-22,5500.0,2.1,20.0,clear
+13,Bengal Gram(Gram),Bahraich,2015-12-23,5500.0,2.4,22.0,clear
+14,Bengal Gram(Gram),Bahraich,2015-12-24,5500.0,2.3,21.2,clear
+15,Bengal Gram(Gram),Bahraich,2015-12-25,5500.0,2.6,22.0,clear
+16,Bengal Gram(Gram),Bahraich,2015-12-29,5500.0,2.4,20.6,clear
+17,Bengal Gram(Gram),Ruperdeeha,2015-12-29,5550.0,30.0,20.6,clear
+18,Bengal Gram(Gram),Bahraich,2015-12-31,5500.0,2.4,24.0,clear
+19,Bengal Gram(Gram),Naanpara,2015-12-26,5560.0,49.0,21.4,clear
+20,Arhar (Tur/Red Gram),Mihipurwa,2016-03-31,8350.0,70.0,36.4,clear
+21,Bengal Gram(Gram),Bahraich,2016-03-31,5550.0,3.2,36.4,clear
+22,Arhar (Tur/Red Gram),Risia,2016-01-27,8700.0,24.5,21.6,clear
+23,Bengal Gram(Gram),Bahraich,2016-01-27,5615.0,3.0,21.6,clear
+24,Arhar (Tur/Red Gram),Risia,2016-02-25,8600.0,80.0,28.0,clear
+25,Bengal Gram(Gram),Bahraich,2016-02-25,5610.0,2.7,28.0,clear
+26,Arhar (Tur/Red Gram),Risia,2016-02-04,8300.0,26.0,23.2,clear
+27,Bengal Gram(Gram),Bahraich,2016-02-04,5545.0,3.5,23.2,clear
+28,Arhar (Tur/Red Gram),Risia,2016-04-27,7800.0,27.0,42.0,clear
+29,Bengal Gram(Gram),Bahraich,2016-04-27,5465.0,4.5,42.0,clear
+30,Arhar (Tur/Red Gram),Risia,2016-05-31,8500.0,17.0,35.6,clear
+31,Bengal Gram(Gram),Bahraich,2016-05-31,5425.0,2.8,35.6,clear
+32,Arhar (Tur/Red Gram),Risia,2016-06-30,8500.0,9.6,36.4,clear
+33,Bengal Gram(Gram),Bahraich,2016-06-30,6430.0,2.3,36.4,clear
+34,Arhar (Tur/Red Gram),Risia,2016-07-27,8550.0,9.2,31.6,clear
+35,Bengal Gram(Gram),Bahraich,2016-07-27,6720.0,2.0,31.6,clear
+36,Arhar (Tur/Red Gram),Risia,2016-08-26,7300.0,8.0,34.0,clear
+37,Bengal Gram(Gram),Bahraich,2016-08-26,8260.0,2.6,34.0,clear
+38,Arhar (Tur/Red Gram),Risia,2016-09-26,7400.0,12.0,31.4,clear
+39,Bengal Gram(Gram),Bahraich,2016-09-26,8290.0,2.3,31.4,clear
+40,Arhar (Tur/Red Gram),Risia,2016-10-29,7400.0,7.0,31.6,clear
+41,Bengal Gram(Gram),Bahraich,2016-10-29,8710.0,2.2,31.6,clear
+42,Arhar (Tur/Red Gram),Risia,2016-11-29,7250.0,13.0,27.0,clear
+43,Bengal Gram(Gram),Bahraich,2016-11-29,9190.0,2.1,27.0,clear
+44,Bengal Gram(Gram),Bahraich,2016-01-01,5500.0,2.2,31.0,clear
+45,Bengal Gram(Gram),Bahraich,2016-05-01,5620.0,2.1,41.0,clear
+46,Bengal Gram(Gram),Bahraich,2016-08-01,5610.0,2.4,30.0,clear
+47,Bengal Gram(Gram),Bahraich,2016-09-01,5610.0,2.3,34.0,clear
+48,Bengal Gram(Gram),Bahraich,2016-11-01,5620.0,2.2,31.0,clear
+49,Bengal Gram(Gram),Bahraich,2016-12-01,5620.0,2.4,27.6,clear
+50,Bengal Gram(Gram),Bahraich,2016-01-13,5620.0,2.5,23.6,clear
+51,Bengal Gram(Gram),Bahraich,2016-01-15,5620.0,2.4,23.8,clear
+52,Bengal Gram(Gram),Bahraich,2016-01-21,5620.0,2.6,14.6,clear
+53,Bengal Gram(Gram),Bahraich,2016-01-22,5615.0,2.8,12.4,clear
+54,Bengal Gram(Gram),Bahraich,2016-01-23,5615.0,2.6,17.0,clear
+55,Bengal Gram(Gram),Bahraich,2016-01-25,5620.0,2.4,21.4,clear
+56,Bengal Gram(Gram),Ruperdeeha,2016-01-25,5600.0,45.0,21.4,clear
+57,Bengal Gram(Gram),Bahraich,2016-01-28,5620.0,2.9,22.0,clear
+58,Bengal Gram(Gram),Bahraich,2016-01-29,5620.0,2.7,21.0,clear
+59,Bengal Gram(Gram),Naanpara,2016-01-29,5620.0,43.5,21.0,clear
+60,Bengal Gram(Gram),Bahraich,2016-01-30,5615.0,2.8,24.0,clear
+61,Bengal Gram(Gram),Bahraich,2016-01-02,5620.0,2.4,24.8,clear
+62,Bengal Gram(Gram),Bahraich,2016-02-02,5615.0,2.5,24.6,clear
+63,Bengal Gram(Gram),Bahraich,2016-03-02,5625.0,2.0,31.6,clear
+64,Bengal Gram(Gram),Bahraich,2016-04-02,5620.0,2.4,34.0,clear
+65,Bengal Gram(Gram),Bahraich,2016-05-02,5615.0,2.6,38.4,clear
+66,Bengal Gram(Gram),Bahraich,2016-06-02,5620.0,2.3,35.0,clear
+67,Bengal Gram(Gram),Bahraich,2016-08-02,5610.0,2.5,34.2,clear
+68,Bengal Gram(Gram),Bahraich,2016-09-02,5615.0,2.2,33.8,clear
+69,Bengal Gram(Gram),Bahraich,2016-10-02,5610.0,2.6,34.0,clear
+70,Bengal Gram(Gram),Bahraich,2016-11-02,5610.0,2.6,31.0,clear
+71,Bengal Gram(Gram),Bahraich,2016-12-02,5620.0,2.0,26.6,clear
+72,Bengal Gram(Gram),Bahraich,2016-02-13,5620.0,2.2,27.6,clear
+73,Bengal Gram(Gram),Bahraich,2016-02-15,5615.0,2.4,29.6,clear
+74,Bengal Gram(Gram),Bahraich,2016-02-16,5620.0,2.1,27.6,clear
+75,Bengal Gram(Gram),Bahraich,2016-02-17,5615.0,2.3,30.4,clear
+76,Bengal Gram(Gram),Bahraich,2016-02-18,5620.0,1.9,32.0,clear
+77,Bengal Gram(Gram),Bahraich,2016-02-20,5620.0,2.1,26.0,clear
+78,Bengal Gram(Gram),Bahraich,2016-02-22,5610.0,2.6,26.2,clear
+79,Bengal Gram(Gram),Bahraich,2016-02-23,5620.0,2.1,26.8,clear
+80,Bengal Gram(Gram),Bahraich,2016-02-24,5615.0,2.4,28.2,clear
+81,Bengal Gram(Gram),Bahraich,2016-02-26,5615.0,2.4,28.8,clear
+82,Bengal Gram(Gram),Naanpara,2016-02-26,5625.0,52.0,28.8,clear
+83,Bengal Gram(Gram),Bahraich,2016-02-27,5620.0,2.2,27.4,clear
+84,Bengal Gram(Gram),Ruperdeeha,2016-02-27,5700.0,75.0,27.4,clear
+85,Bengal Gram(Gram),Bahraich,2016-02-29,5615.0,2.3,30.6,clear
+86,Bengal Gram(Gram),Bahraich,2016-03-03,5620.0,2.3,31.6,clear
+87,Bengal Gram(Gram),Bahraich,2016-04-03,5615.0,2.6,34.6,clear
+88,Bengal Gram(Gram),Bahraich,2016-07-03,5620.0,2.3,33.2,rain
+89,Bengal Gram(Gram),Bahraich,2016-08-03,5615.0,2.6,33.0,clear
+90,Bengal Gram(Gram),Bahraich,2016-09-03,5610.0,2.8,32.6,clear
+91,Bengal Gram(Gram),Bahraich,2016-10-03,5615.0,2.4,35.6,clear
+92,Bengal Gram(Gram),Bahraich,2016-11-03,5610.0,2.5,31.6,clear
+93,Bengal Gram(Gram),Bahraich,2016-12-03,5620.0,2.0,23.0,clear
+94,Bengal Gram(Gram),Bahraich,2016-03-14,5615.0,2.6,29.2,clear
+95,Bengal Gram(Gram),Bahraich,2016-03-15,5620.0,2.3,29.6,clear
+96,Bengal Gram(Gram),Bahraich,2016-03-16,5610.0,2.5,31.4,clear
+97,Bengal Gram(Gram),Bahraich,2016-03-17,5620.0,2.1,31.0,clear
+98,Bengal Gram(Gram),Bahraich,2016-03-18,5620.0,2.2,32.6,clear
+99,Bengal Gram(Gram),Bahraich,2016-03-22,5560.0,2.8,30.2,clear
+100,Bengal Gram(Gram),Bahraich,2016-03-25,5565.0,2.6,34.0,clear
+101,Bengal Gram(Gram),Bahraich,2016-03-26,5560.0,2.9,35.6,clear
+102,Bengal Gram(Gram),Bahraich,2016-03-28,5560.0,3.0,35.0,clear
+103,Bengal Gram(Gram),Naanpara,2016-03-28,5545.0,63.0,35.0,clear
+104,Bengal Gram(Gram),Bahraich,2016-03-30,5550.0,3.1,35.2,clear
+105,Bengal Gram(Gram),Ruperdeeha,2016-03-30,5600.0,34.2,35.2,clear
+106,Bengal Gram(Gram),Bahraich,2016-01-04,5550.0,3.4,23.4,clear
+107,Bengal Gram(Gram),Bahraich,2016-04-04,5545.0,3.6,36.0,clear
+108,Bengal Gram(Gram),Bahraich,2016-05-04,5545.0,3.7,33.0,clear
+109,Bengal Gram(Gram),Bahraich,2016-06-04,5545.0,3.4,37.0,clear
+110,Bengal Gram(Gram),Bahraich,2016-08-04,5540.0,3.7,34.6,clear
+111,Bengal Gram(Gram),Bahraich,2016-09-04,5530.0,3.8,33.6,clear
+112,Bengal Gram(Gram),Bahraich,2016-11-04,5535.0,4.0,30.2,clear
+113,Bengal Gram(Gram),Bahraich,2016-04-18,5500.0,3.8,37.6,clear
+114,Bengal Gram(Gram),Bahraich,2016-04-19,5500.0,4.2,38.6,clear
+115,Bengal Gram(Gram),Bahraich,2016-04-20,5490.0,4.5,41.8,clear
+116,Bengal Gram(Gram),Bahraich,2016-04-22,5480.0,4.7,39.4,clear
+117,Bengal Gram(Gram),Bahraich,2016-04-23,5480.0,4.1,40.0,clear
+118,Bengal Gram(Gram),Bahraich,2016-04-25,5475.0,4.2,39.6,clear
+119,Bengal Gram(Gram),Ruperdeeha,2016-04-25,5425.0,47.5,39.6,clear
+120,Bengal Gram(Gram),Bahraich,2016-04-26,5470.0,4.4,40.2,clear
+121,Bengal Gram(Gram),Bahraich,2016-04-28,5460.0,4.6,41.6,clear
+122,Bengal Gram(Gram),Bahraich,2016-04-29,5450.0,4.8,42.4,clear
+123,Bengal Gram(Gram),Bahraich,2016-04-30,5445.0,5.0,40.2,clear
+124,Bengal Gram(Gram),Naanpara,2016-04-30,5430.0,58.0,40.2,clear
+125,Bengal Gram(Gram),Bahraich,2016-02-05,5440.0,5.1,22.0,clear
+126,Bengal Gram(Gram),Bahraich,2016-03-05,5430.0,4.6,33.0,clear
+127,Bengal Gram(Gram),Bahraich,2016-04-05,5430.0,4.3,39.6,clear
+128,Bengal Gram(Gram),Bahraich,2016-05-05,5420.0,4.5,34.4,clear
+129,Bengal Gram(Gram),Bahraich,2016-06-05,5415.0,2.5,38.0,clear
+130,Bengal Gram(Gram),Bahraich,2016-07-05,5415.0,3.0,31.0,rain
+131,Bengal Gram(Gram),Bahraich,2016-09-05,5410.0,3.5,33.6,clear
+132,Bengal Gram(Gram),Bahraich,2016-10-05,5420.0,2.9,33.0,clear
+133,Bengal Gram(Gram),Bahraich,2016-11-05,5410.0,3.2,27.6,clear
+134,Bengal Gram(Gram),Bahraich,2016-12-05,5420.0,2.6,17.2,clear
+135,Bengal Gram(Gram),Bahraich,2016-05-13,5410.0,3.0,37.4,clear
+136,Bengal Gram(Gram),Bahraich,2016-05-14,5420.0,2.5,38.0,clear
+137,Bengal Gram(Gram),Bahraich,2016-05-16,5410.0,2.4,41.6,clear
+138,Bengal Gram(Gram),Bahraich,2016-05-17,5415.0,2.3,41.6,clear
+139,Bengal Gram(Gram),Bahraich,2016-05-18,5420.0,2.4,40.0,clear
+140,Bengal Gram(Gram),Bahraich,2016-05-19,5425.0,2.2,38.0,clear
+141,Bengal Gram(Gram),Bahraich,2016-05-20,5430.0,2.0,35.6,clear
+142,Bengal Gram(Gram),Bahraich,2016-05-21,5425.0,2.4,32.0,clear
+143,Bengal Gram(Gram),Bahraich,2016-05-23,5430.0,2.2,31.0,clear
+144,Bengal Gram(Gram),Bahraich,2016-05-24,5425.0,2.5,35.4,clear
+145,Bengal Gram(Gram),Bahraich,2016-05-25,5430.0,2.1,38.0,clear
+146,Bengal Gram(Gram),Bahraich,2016-05-26,5425.0,2.3,35.6,clear
+147,Bengal Gram(Gram),Bahraich,2016-05-27,5430.0,2.1,38.0,clear
+148,Bengal Gram(Gram),Naanpara,2016-05-27,5435.0,62.5,38.0,clear
+149,Bengal Gram(Gram),Bahraich,2016-05-28,5425.0,2.6,35.2,rain
+150,Bengal Gram(Gram),Bahraich,2016-05-30,5430.0,2.4,33.4,clear
+151,Bengal Gram(Gram),Bahraich,2016-01-06,5430.0,2.4,24.0,clear
+152,Bengal Gram(Gram),Bahraich,2016-02-06,5425.0,2.7,22.2,clear
+153,Bengal Gram(Gram),Bahraich,2016-03-06,5430.0,2.6,32.4,clear
+154,Bengal Gram(Gram),Bahraich,2016-04-06,5425.0,2.8,38.0,clear
+155,Bengal Gram(Gram),Bahraich,2016-06-06,5430.0,2.4,39.4,clear
+156,Bengal Gram(Gram),Bahraich,2016-07-06,5425.0,2.2,32.2,clear
+157,Bengal Gram(Gram),Bahraich,2016-08-06,5435.0,2.0,35.0,clear
+158,Bengal Gram(Gram),Bahraich,2016-09-06,5430.0,2.4,33.6,clear
+159,Bengal Gram(Gram),Bahraich,2016-10-06,5600.0,2.3,30.0,clear
+160,Bengal Gram(Gram),Bahraich,2016-11-06,5630.0,2.2,30.0,clear
+161,Bengal Gram(Gram),Bahraich,2016-06-13,5650.0,2.1,38.6,rain
+162,Bengal Gram(Gram),Bahraich,2016-06-14,5700.0,1.8,38.0,clear
+163,Bengal Gram(Gram),Bahraich,2016-06-15,5750.0,1.7,31.6,clear
+164,Bengal Gram(Gram),Bahraich,2016-06-16,5750.0,1.8,32.0,clear
+165,Bengal Gram(Gram),Bahraich,2016-06-17,5800.0,2.2,34.6,clear
+166,Bengal Gram(Gram),Bahraich,2016-06-18,5850.0,2.0,35.8,clear
+167,Bengal Gram(Gram),Bahraich,2016-06-20,6200.0,1.7,35.4,clear
+168,Bengal Gram(Gram),Bahraich,2016-06-21,6300.0,1.6,31.6,clear
+169,Bengal Gram(Gram),Bahraich,2016-06-22,6300.0,1.7,30.0,clear
+170,Bengal Gram(Gram),Bahraich,2016-06-23,6350.0,1.6,35.0,clear
+171,Bengal Gram(Gram),Bahraich,2016-06-24,6400.0,1.8,30.6,clear
+172,Bengal Gram(Gram),Bahraich,2016-06-25,6420.0,2.1,33.3,clear
+173,Bengal Gram(Gram),Bahraich,2016-06-27,6425.0,1.9,33.0,clear
+174,Bengal Gram(Gram),Bahraich,2016-06-28,6430.0,2.2,36.0,clear
+175,Bengal Gram(Gram),Naanpara,2016-06-28,6540.0,49.0,36.0,clear
+176,Bengal Gram(Gram),Bahraich,2016-06-29,6425.0,2.6,36.0,clear
+177,Bengal Gram(Gram),Ruperdeeha,2016-06-29,6500.0,140.0,36.0,clear
+178,Bengal Gram(Gram),Bahraich,2016-06-07,6460.0,2.4,37.6,clear
+179,Bengal Gram(Gram),Bahraich,2016-09-07,6500.0,2.4,33.6,clear
+180,Bengal Gram(Gram),Bahraich,2016-11-07,6500.0,2.3,28.0,clear
+181,Bengal Gram(Gram),Bahraich,2016-12-07,6520.0,2.4,16.4,clear
+182,Bengal Gram(Gram),Bahraich,2016-07-13,6600.0,2.1,33.4,clear
+183,Bengal Gram(Gram),Bahraich,2016-07-14,6630.0,2.0,35.2,clear
+184,Bengal Gram(Gram),Bahraich,2016-07-15,6650.0,1.9,34.6,rain
+185,Bengal Gram(Gram),Bahraich,2016-07-16,6680.0,2.1,31.0,rain
+186,Bengal Gram(Gram),Bahraich,2016-07-18,6630.0,2.0,28.2,clear
+187,Bengal Gram(Gram),Bahraich,2016-07-19,6670.0,1.8,29.6,clear
+188,Bengal Gram(Gram),Bahraich,2016-07-20,6700.0,1.9,33.2,clear
+189,Bengal Gram(Gram),Bahraich,2016-07-21,6700.0,2.0,31.2,clear
+190,Bengal Gram(Gram),Bahraich,2016-07-22,6710.0,1.8,27.0,clear
+191,Bengal Gram(Gram),Bahraich,2016-07-23,6710.0,2.4,31.6,clear
+192,Bengal Gram(Gram),Bahraich,2016-07-25,6710.0,2.3,33.6,rain
+193,Bengal Gram(Gram),Bahraich,2016-07-26,6715.0,2.2,27.4,clear
+194,Bengal Gram(Gram),Bahraich,2016-07-28,6720.0,2.2,29.0,clear
+195,Bengal Gram(Gram),Ruperdeeha,2016-07-28,6800.0,47.0,29.0,clear
+196,Bengal Gram(Gram),Bahraich,2016-07-29,6720.0,2.3,27.6,clear
+197,Bengal Gram(Gram),Naanpara,2016-07-29,6900.0,51.0,27.6,clear
+198,Bengal Gram(Gram),Bahraich,2016-07-30,6730.0,2.2,30.0,clear
+199,Bengal Gram(Gram),Bahraich,2016-02-08,6750.0,2.0,25.0,clear
+200,Bengal Gram(Gram),Bahraich,2016-03-08,6900.0,1.9,32.6,clear
+201,Bengal Gram(Gram),Bahraich,2016-04-08,7000.0,2.1,39.6,clear
+202,Bengal Gram(Gram),Bahraich,2016-06-08,7100.0,2.3,33.0,clear
+203,Bengal Gram(Gram),Bahraich,2016-08-08,7115.0,2.1,34.4,clear
+204,Bengal Gram(Gram),Bahraich,2016-09-08,7120.0,2.3,33.4,clear
+205,Bengal Gram(Gram),Bahraich,2016-10-08,7120.0,2.4,33.2,clear
+206,Bengal Gram(Gram),Bahraich,2016-11-08,7150.0,2.2,28.0,clear
+207,Bengal Gram(Gram),Bahraich,2016-12-08,7200.0,2.0,16.0,clear
+208,Bengal Gram(Gram),Bahraich,2016-08-13,7250.0,1.9,34.0,clear
+209,Bengal Gram(Gram),Bahraich,2016-08-16,7250.0,2.1,32.2,rain
+210,Bengal Gram(Gram),Bahraich,2016-08-19,7240.0,2.5,33.4,clear
+211,Bengal Gram(Gram),Bahraich,2016-08-20,7235.0,2.6,33.4,clear
+212,Bengal Gram(Gram),Bahraich,2016-08-22,7215.0,2.8,32.2,clear
+213,Bengal Gram(Gram),Bahraich,2016-08-23,8220.0,3.1,32.8,clear
+214,Bengal Gram(Gram),Bahraich,2016-08-24,8240.0,2.9,34.0,clear
+215,Bengal Gram(Gram),Bahraich,2016-08-25,8250.0,2.8,34.6,clear
+216,Bengal Gram(Gram),Bahraich,2016-08-27,8250.0,2.8,34.4,clear
+217,Bengal Gram(Gram),Naanpara,2016-08-27,8280.0,71.5,34.4,clear
+218,Bengal Gram(Gram),Bahraich,2016-08-29,8230.0,3.0,36.6,clear
+219,Bengal Gram(Gram),Bahraich,2016-08-30,8240.0,2.4,31.6,clear
+220,Bengal Gram(Gram),Ruperdeeha,2016-08-30,7850.0,31.5,31.6,clear
+221,Bengal Gram(Gram),Bahraich,2016-08-31,8250.0,2.0,31.0,clear
+222,Bengal Gram(Gram),Bahraich,2016-01-09,8260.0,1.9,23.6,clear
+223,Bengal Gram(Gram),Bahraich,2016-02-09,8265.0,2.4,26.0,clear
+224,Bengal Gram(Gram),Bahraich,2016-03-09,8270.0,2.2,32.2,clear
+225,Bengal Gram(Gram),Bahraich,2016-05-09,8260.0,2.1,37.6,clear
+226,Bengal Gram(Gram),Bahraich,2016-06-09,8250.0,2.8,33.6,clear
+227,Bengal Gram(Gram),Bahraich,2016-07-09,8250.0,2.5,35.4,clear
+228,Bengal Gram(Gram),Bahraich,2016-08-09,8260.0,2.3,32.8,rain
+229,Bengal Gram(Gram),Bahraich,2016-09-09,8265.0,2.4,33.6,clear
+230,Bengal Gram(Gram),Bahraich,2016-10-09,8270.0,2.3,30.4,clear
+231,Bengal Gram(Gram),Bahraich,2016-12-09,8275.0,2.1,19.2,clear
+232,Bengal Gram(Gram),Bahraich,2016-09-13,8280.0,2.3,30.4,clear
+233,Bengal Gram(Gram),Bahraich,2016-09-14,8270.0,2.6,31.4,clear
+234,Bengal Gram(Gram),Bahraich,2016-09-15,8275.0,2.3,31.8,clear
+235,Bengal Gram(Gram),Bahraich,2016-09-16,8280.0,2.2,32.6,clear
+236,Bengal Gram(Gram),Bahraich,2016-09-17,8290.0,2.3,30.4,clear
+237,Bengal Gram(Gram),Bahraich,2016-09-19,8300.0,2.1,34.6,clear
+238,Bengal Gram(Gram),Bahraich,2016-09-20,8310.0,2.4,34.2,clear
+239,Bengal Gram(Gram),Bahraich,2016-09-22,8310.0,2.5,32.0,clear
+240,Bengal Gram(Gram),Bahraich,2016-09-24,8280.0,2.6,30.4,clear
+241,Bengal Gram(Gram),Bahraich,2016-09-27,8300.0,2.5,32.2,clear
+242,Bengal Gram(Gram),Bahraich,2016-09-28,8340.0,2.4,31.4,clear
+243,Bengal Gram(Gram),Ruperdeeha,2016-09-28,8380.0,38.0,31.4,clear
+244,Bengal Gram(Gram),Bahraich,2016-09-29,8350.0,2.3,31.6,clear
+245,Bengal Gram(Gram),Bahraich,2016-09-30,8360.0,2.5,35.0,clear
+246,Bengal Gram(Gram),Naanpara,2016-09-30,8280.0,65.0,35.0,clear
+247,Bengal Gram(Gram),Bahraich,2016-01-10,8370.0,3.0,22.6,clear
+248,Bengal Gram(Gram),Bahraich,2016-03-10,8350.0,2.8,31.4,clear
+249,Bengal Gram(Gram),Bahraich,2016-04-10,8360.0,2.6,40.6,clear
+250,Bengal Gram(Gram),Bahraich,2016-05-10,8340.0,2.8,36.4,clear
+251,Bengal Gram(Gram),Bahraich,2016-06-10,8420.0,2.6,36.0,clear
+252,Bengal Gram(Gram),Bahraich,2016-08-10,8440.0,2.1,31.0,clear
+253,Bengal Gram(Gram),Bahraich,2016-10-10,8450.0,1.9,32.4,clear
+254,Bengal Gram(Gram),Bahraich,2016-11-10,8455.0,2.1,30.0,clear
+255,Bengal Gram(Gram),Bahraich,2016-12-10,8460.0,2.0,18.0,clear
+256,Bengal Gram(Gram),Bahraich,2016-10-13,8460.0,2.4,33.0,clear
+257,Bengal Gram(Gram),Bahraich,2016-10-14,8515.0,2.3,32.6,clear
+258,Bengal Gram(Gram),Bahraich,2016-10-15,8540.0,2.1,32.4,clear
+259,Bengal Gram(Gram),Bahraich,2016-10-17,8565.0,2.3,33.0,clear
+260,Bengal Gram(Gram),Bahraich,2016-10-18,8570.0,2.1,32.0,clear
+261,Bengal Gram(Gram),Bahraich,2016-10-19,8575.0,2.4,33.0,clear
+262,Bengal Gram(Gram),Bahraich,2016-10-20,8610.0,2.1,32.2,clear
+263,Bengal Gram(Gram),Bahraich,2016-10-21,8625.0,2.4,31.8,clear
+264,Bengal Gram(Gram),Bahraich,2016-10-22,8630.0,2.0,31.8,clear
+265,Bengal Gram(Gram),Bahraich,2016-10-24,8660.0,2.3,32.0,clear
+266,Bengal Gram(Gram),Bahraich,2016-10-25,8670.0,2.4,31.4,clear
+267,Bengal Gram(Gram),Bahraich,2016-10-26,8675.0,2.2,32.4,clear
+268,Bengal Gram(Gram),Bahraich,2016-10-27,8680.0,2.1,33.0,clear
+269,Bengal Gram(Gram),Naanpara,2016-10-27,8690.0,36.0,33.0,clear
+270,Bengal Gram(Gram),Bahraich,2016-10-28,8690.0,1.9,31.0,clear
+271,Bengal Gram(Gram),Bahraich,2016-02-11,8700.0,2.0,26.0,clear
+272,Bengal Gram(Gram),Bahraich,2016-03-11,8700.0,2.2,33.6,clear
+273,Bengal Gram(Gram),Bahraich,2016-04-11,8700.0,2.4,40.4,clear
+274,Bengal Gram(Gram),Bahraich,2016-05-11,8620.0,2.0,32.4,clear
+275,Bengal Gram(Gram),Bahraich,2016-07-11,8630.0,1.9,33.4,clear
+276,Bengal Gram(Gram),Bahraich,2016-08-11,8620.0,2.3,33.6,clear
+277,Bengal Gram(Gram),Bahraich,2016-09-11,8630.0,2.2,31.6,clear
+278,Bengal Gram(Gram),Bahraich,2016-10-11,8625.0,2.3,32.0,clear
+279,Bengal Gram(Gram),Bahraich,2016-11-11,8620.0,2.5,30.6,clear
+280,Bengal Gram(Gram),Bahraich,2016-12-11,8620.0,2.2,15.6,clear
+281,Bengal Gram(Gram),Bahraich,2016-11-14,8610.0,2.4,29.4,clear
+282,Bengal Gram(Gram),Bahraich,2016-11-15,8615.0,2.6,27.6,clear
+283,Bengal Gram(Gram),Bahraich,2016-11-16,8820.0,1.9,28.2,clear
+284,Bengal Gram(Gram),Bahraich,2016-11-17,8820.0,2.1,27.6,clear
+285,Bengal Gram(Gram),Bahraich,2016-11-18,9200.0,1.9,27.0,clear
+286,Bengal Gram(Gram),Bahraich,2016-11-19,9185.0,1.8,26.0,clear
+287,Bengal Gram(Gram),Bahraich,2016-11-21,9190.0,2.2,27.4,clear
+288,Bengal Gram(Gram),Bahraich,2016-11-22,9180.0,2.1,27.0,clear
+289,Bengal Gram(Gram),Bahraich,2016-11-23,9175.0,2.3,32.4,clear
+290,Bengal Gram(Gram),Bahraich,2016-11-24,9180.0,2.2,27.4,clear
+291,Bengal Gram(Gram),Bahraich,2016-11-25,9170.0,2.3,25.4,clear
+292,Bengal Gram(Gram),Naanpara,2016-11-25,9230.0,29.0,25.4,clear
+293,Bengal Gram(Gram),Bahraich,2016-11-28,9185.0,1.9,25.0,clear
+294,Bengal Gram(Gram),Bahraich,2016-11-30,9185.0,2.0,27.6,clear
+295,Bengal Gram(Gram),Ruperdeeha,2016-11-30,9150.0,41.5,27.6,clear
+296,Bengal Gram(Gram),Bahraich,2016-01-12,9190.0,2.2,21.4,clear
+297,Bengal Gram(Gram),Bahraich,2016-02-12,9200.0,2.1,27.8,clear
+298,Bengal Gram(Gram),Bahraich,2016-03-12,9185.0,2.2,35.0,clear
+299,Bengal Gram(Gram),Bahraich,2016-05-12,9180.0,2.0,37.6,clear
+300,Bengal Gram(Gram),Bahraich,2016-06-12,9190.0,2.2,38.0,clear
+301,Bengal Gram(Gram),Bahraich,2016-07-12,9195.0,2.3,34.6,clear
+302,Bengal Gram(Gram),Bahraich,2016-08-12,9210.0,2.1,34.0,clear
+303,Bengal Gram(Gram),Bahraich,2016-09-12,9215.0,2.0,31.8,clear
+304,Bengal Gram(Gram),Bahraich,2016-10-12,9210.0,1.8,33.0,clear
+305,Bengal Gram(Gram),Bahraich,2016-12-12,9220.0,1.9,17.4,clear
+306,Bengal Gram(Gram),Bahraich,2016-12-13,9220.0,2.1,14.4,clear
+307,Bengal Gram(Gram),Bahraich,2016-12-14,9230.0,2.0,16.0,clear
+308,Bengal Gram(Gram),Bahraich,2016-12-16,9230.0,2.2,20.0,clear
+309,Bengal Gram(Gram),Bahraich,2016-12-17,9225.0,2.3,20.6,clear
+310,Bengal Gram(Gram),Bahraich,2016-12-19,9220.0,2.2,24.4,clear
+311,Bengal Gram(Gram),Bahraich,2016-12-20,9225.0,2.4,22.0,clear
+312,Bengal Gram(Gram),Bahraich,2016-12-21,9230.0,2.6,19.2,clear
+313,Bengal Gram(Gram),Bahraich,2016-12-22,9225.0,2.4,22.6,clear
+314,Bengal Gram(Gram),Bahraich,2016-12-23,9230.0,2.2,25.6,clear
+315,Bengal Gram(Gram),Bahraich,2016-12-24,9220.0,2.3,26.0,clear
+316,Bengal Gram(Gram),Bahraich,2016-12-26,9225.0,2.5,24.0,clear
+317,Bengal Gram(Gram),Naanpara,2016-12-26,9470.0,28.5,24.0,clear
+318,Bengal Gram(Gram),Bahraich,2016-12-28,9230.0,2.3,14.0,clear
+319,Bengal Gram(Gram),Bahraich,2016-12-29,9220.0,2.4,20.0,clear
+320,Bengal Gram(Gram),Bahraich,2016-12-30,9340.0,2.3,16.4,clear
+321,Bengal Gram(Gram),Bahraich,2016-12-31,9450.0,2.2,18.8,clear
+322,Bengal Gram(Gram),Ruperdeeha,2016-12-31,9340.0,42.8,18.8,clear
+323,Bengal Gram(Gram),Ruperdeeha,2016-10-31,8480.0,48.0,30.6,clear
+324,Arhar (Tur/Red Gram),Bahraich,2017-09-15,4715.0,0.5,34.2,clear
+325,Arhar (Tur/Red Gram),Naanpara,2017-09-15,4540.0,0.5,34.2,clear
+326,Black Gram (Urd Beans),Risia,2017-09-15,5010.0,20.0,34.2,clear
+327,Arhar (Tur/Red Gram),Bahraich,2017-09-20,4700.0,0.5,33.4,clear
+328,Arhar (Tur/Red Gram),Naanpara,2017-09-20,4600.0,0.4,33.4,clear
+329,Arhar (Tur/Red Gram),Risia,2017-09-20,6700.0,0.5,33.4,clear
+330,Black Gram (Urd Beans),Risia,2017-09-20,5200.0,2.0,33.4,clear
+331,Arhar (Tur/Red Gram),Naanpara,2017-06-27,4550.0,1.8,36.2,clear
+332,Bengal Gram(Gram),Bahraich,2017-06-27,6400.0,5.3,36.2,clear
+333,Arhar (Tur/Red Gram),Naanpara,2017-06-29,4565.0,0.4,37.2,clear
+334,Bengal Gram(Gram),Bahraich,2017-06-29,6390.0,5.0,37.2,clear
+335,Black Gram (Urd Beans),Risia,2017-06-29,3800.0,9.0,37.2,clear
+336,Arhar (Tur/Red Gram),Naanpara,2017-04-07,4525.0,1.0,36.6,clear
+337,Bengal Gram(Gram),Bahraich,2017-04-07,6410.0,4.8,36.6,clear
+338,Bengal Gram(Gram),Naanpara,2017-04-07,6700.0,5.0,36.6,clear
+339,Arhar (Tur/Red Gram),Naanpara,2017-05-07,4525.0,0.8,37.6,clear
+340,Bengal Gram(Gram),Bahraich,2017-05-07,6400.0,5.2,37.6,clear
+341,Bengal Gram(Gram),Risia,2017-05-07,3700.0,2.2,37.6,clear
+342,Black Gram (Urd Beans),Risia,2017-05-07,3700.0,2.2,37.6,clear
+343,Arhar (Tur/Red Gram),Naanpara,2017-06-07,4525.0,1.2,32.4,clear
+344,Bengal Gram(Gram),Bahraich,2017-06-07,6340.0,5.6,32.4,clear
+345,Bengal Gram(Gram),Naanpara,2017-06-07,6625.0,3.5,32.4,clear
+346,Black Gram (Urd Beans),Risia,2017-06-07,5600.0,14.0,32.4,clear
+347,Arhar (Tur/Red Gram),Naanpara,2017-07-07,4525.0,0.6,30.6,clear
+348,Bengal Gram(Gram),Bahraich,2017-07-07,6260.0,6.2,30.6,clear
+349,Black Gram (Urd Beans),Risia,2017-07-07,5610.0,9510.0,30.6,clear
+350,Arhar (Tur/Red Gram),Naanpara,2017-11-07,4500.0,1.0,27.2,clear
+351,Bengal Gram(Gram),Bahraich,2017-11-07,6070.0,6.3,27.2,clear
+352,Arhar (Tur/Red Gram),Naanpara,2017-07-13,4500.0,0.8,33.4,clear
+353,Bengal Gram(Gram),Bahraich,2017-07-13,6040.0,5.2,33.4,clear
+354,Black Gram (Urd Beans),Risia,2017-07-13,5810.0,10.5,33.4,clear
+355,Arhar (Tur/Red Gram),Naanpara,2017-07-14,4500.0,1.0,33.0,clear
+356,Bengal Gram(Gram),Bahraich,2017-07-14,6020.0,4.6,33.0,clear
+357,Arhar (Tur/Red Gram),Naanpara,2017-07-15,4525.0,0.6,33.0,clear
+358,Arhar (Tur/Red Gram),Risia,2017-07-15,6200.0,1.5,33.0,clear
+359,Bengal Gram(Gram),Bahraich,2017-07-15,6010.0,4.9,33.0,clear
+360,Arhar (Tur/Red Gram),Naanpara,2017-07-20,4650.0,0.5,34.4,clear
+361,Bengal Gram(Gram),Bahraich,2017-07-20,5920.0,5.6,34.4,clear
+362,Arhar (Tur/Red Gram),Naanpara,2017-07-22,4650.0,0.5,33.2,clear
+363,Bengal Gram(Gram),Bahraich,2017-07-22,5900.0,4.6,33.2,clear
+364,Black Gram (Urd Beans),Risia,2017-07-22,5200.0,30.0,33.2,clear
+365,Arhar (Tur/Red Gram),Naanpara,2017-07-24,4685.0,0.4,33.2,clear
+366,Bengal Gram(Gram),Bahraich,2017-07-24,5880.0,4.9,33.2,clear
+367,Bengal Gram(Gram),Naanpara,2017-07-24,6600.0,0.0,33.2,clear
+368,Black Gram (Urd Beans),Risia,2017-07-24,5350.0,5.5,33.2,clear
+369,Lentil(Masur),Mihipurwa,2017-07-24,4050.0,7.5,33.2,clear
+370,Arhar (Tur/Red Gram),Naanpara,2017-07-25,4650.0,0.6,33.0,clear
+371,Bengal Gram(Gram),Bahraich,2017-07-25,5875.0,4.7,33.0,clear
+372,Black Gram (Urd Beans),Risia,2017-07-25,5500.0,5.4,33.0,clear
+373,Arhar (Tur/Red Gram),Naanpara,2017-07-26,4650.0,0.5,32.8,clear
+374,Bengal Gram(Gram),Bahraich,2017-07-26,5880.0,4.3,32.8,clear
+375,Arhar (Tur/Red Gram),Naanpara,2017-07-27,4625.0,0.8,33.6,clear
+376,Bengal Gram(Gram),Bahraich,2017-07-27,5885.0,4.1,33.6,clear
+377,Arhar (Tur/Red Gram),Naanpara,2017-07-28,4625.0,0.6,33.4,clear
+378,Bengal Gram(Gram),Bahraich,2017-07-28,5880.0,3.5,33.4,clear
+379,Arhar (Tur/Red Gram),Naanpara,2017-01-08,4585.0,0.5,22.6,clear
+380,Bengal Gram(Gram),Bahraich,2017-01-08,5870.0,4.1,22.6,clear
+381,Arhar (Tur/Red Gram),Naanpara,2017-02-08,4585.0,1.0,24.4,clear
+382,Bengal Gram(Gram),Bahraich,2017-02-08,5880.0,4.7,24.4,clear
+383,Black Gram (Urd Beans),Risia,2017-02-08,5300.0,15.8,24.4,clear
+384,Arhar (Tur/Red Gram),Naanpara,2017-03-08,4585.0,0.6,28.6,clear
+385,Bengal Gram(Gram),Bahraich,2017-03-08,5940.0,3.5,28.6,clear
+386,Black Gram (Urd Beans),Risia,2017-03-08,5600.0,18.1,28.6,clear
+387,Lentil(Masur),Mihipurwa,2017-03-08,4000.0,10.0,28.6,clear
+388,Arhar (Tur/Red Gram),Naanpara,2017-04-08,4580.0,0.7,34.4,clear
+389,Bengal Gram(Gram),Bahraich,2017-04-08,5900.0,3.8,34.4,clear
+390,Black Gram (Urd Beans),Risia,2017-04-08,5200.0,11.5,34.4,clear
+391,Arhar (Tur/Red Gram),Naanpara,2017-05-08,4600.0,0.5,36.8,rain
+392,Bengal Gram(Gram),Bahraich,2017-05-08,5915.0,4.2,36.8,rain
+393,Black Gram (Urd Beans),Risia,2017-05-08,5290.0,1.0,36.8,rain
+394,Arhar (Tur/Red Gram),Naanpara,2017-08-14,4425.0,0.4,28.0,clear
+395,Bengal Gram(Gram),Bahraich,2017-08-14,5870.0,5.6,28.0,clear
+396,Arhar (Tur/Red Gram),Naanpara,2017-08-19,4450.0,0.8,32.4,clear
+397,Bengal Gram(Gram),Bahraich,2017-08-19,5885.0,7.1,32.4,clear
+398,Arhar (Tur/Red Gram),Naanpara,2017-08-24,4525.0,0.3,31.4,clear
+399,Bengal Gram(Gram),Bahraich,2017-08-24,5885.0,4.3,31.4,clear
+400,Arhar (Tur/Red Gram),Naanpara,2017-08-28,4550.0,0.5,32.6,clear
+401,Bengal Gram(Gram),Bahraich,2017-08-28,5865.0,5.4,32.6,clear
+402,Arhar (Tur/Red Gram),Naanpara,2017-08-29,4600.0,0.8,33.4,clear
+403,Bengal Gram(Gram),Bahraich,2017-08-29,5890.0,6.8,33.4,clear
+404,Arhar (Tur/Red Gram),Naanpara,2017-08-30,4600.0,0.5,34.0,clear
+405,Bengal Gram(Gram),Bahraich,2017-08-30,5870.0,7.3,34.0,clear
+406,Black Gram (Urd Beans),Risia,2017-08-30,5010.0,30.0,34.0,clear
+407,Arhar (Tur/Red Gram),Naanpara,2017-08-31,4600.0,0.4,34.2,rain
+408,Bengal Gram(Gram),Bahraich,2017-08-31,5860.0,5.6,34.2,rain
+409,Arhar (Tur/Red Gram),Naanpara,2017-01-09,4625.0,0.6,24.0,clear
+410,Bengal Gram(Gram),Bahraich,2017-01-09,5865.0,4.5,24.0,clear
+411,Lentil(Masur),Mihipurwa,2017-01-09,4100.0,28.7,24.0,clear
+412,Arhar (Tur/Red Gram),Naanpara,2017-04-09,4600.0,0.4,35.2,clear
+413,Bengal Gram(Gram),Bahraich,2017-04-09,5860.0,4.6,35.2,clear
+414,Arhar (Tur/Red Gram),Naanpara,2017-05-09,4600.0,0.4,33.4,clear
+415,Bengal Gram(Gram),Bahraich,2017-05-09,5860.0,4.3,33.4,clear
+416,Arhar (Tur/Red Gram),Naanpara,2017-06-09,4600.0,0.5,36.4,clear
+417,Bengal Gram(Gram),Bahraich,2017-06-09,5870.0,4.7,36.4,clear
+418,Arhar (Tur/Red Gram),Naanpara,2017-09-13,4575.0,0.6,34.4,clear
+419,Arhar (Tur/Red Gram),Naanpara,2017-09-14,4575.0,0.5,32.6,clear
+420,Arhar (Tur/Red Gram),Naanpara,2017-09-16,4600.0,0.5,35.4,clear
+421,Lentil(Masur),Mihipurwa,2017-09-16,4300.0,7.8,35.4,clear
+422,Arhar (Tur/Red Gram),Naanpara,2017-09-19,4600.0,0.8,35.4,clear
+423,Arhar (Tur/Red Gram),Naanpara,2017-09-22,4600.0,0.8,30.6,rain
+424,Bengal Gram(Gram),Bahraich,2017-09-22,5875.0,4.5,30.6,rain
+425,Bengal Gram(Gram),Naanpara,2017-09-22,6100.0,0.0,30.6,rain
+426,Arhar (Tur/Red Gram),Naanpara,2017-09-25,4625.0,0.4,33.0,clear
+427,Bengal Gram(Gram),Bahraich,2017-09-25,2925.0,12.5,33.0,clear
+428,Arhar (Tur/Red Gram),Naanpara,2017-09-27,4625.0,0.4,33.4,clear
+429,Arhar (Tur/Red Gram),Naanpara,2017-11-10,4685.0,0.3,25.0,clear
+430,Arhar (Tur/Red Gram),Naanpara,2017-10-13,4700.0,0.4,33.6,clear
+431,Lentil(Masur),Mihipurwa,2017-10-13,3900.0,7.0,33.6,clear
+432,Arhar (Tur/Red Gram),Risia,2017-01-28,7250.0,12.0,21.8,clear
+433,Bengal Gram(Gram),Bahraich,2017-01-28,9490.0,3.0,21.8,clear
+434,Arhar (Tur/Red Gram),Risia,2017-02-23,6580.0,11.0,26.8,clear
+435,Bengal Gram(Gram),Bahraich,2017-02-23,8450.0,2.6,26.8,clear
+436,Arhar (Tur/Red Gram),Risia,2017-03-28,5870.0,15.0,34.2,clear
+437,Bengal Gram(Gram),Bahraich,2017-03-28,7160.0,3.2,34.2,clear
+438,Arhar (Tur/Red Gram),Risia,2017-04-25,5770.0,8.0,38.0,clear
+439,Bengal Gram(Gram),Bahraich,2017-04-25,6980.0,3.3,38.0,clear
+440,Arhar (Tur/Red Gram),Risia,2017-05-30,5250.0,8.5,31.8,clear
+441,Bengal Gram(Gram),Bahraich,2017-05-30,6420.0,4.2,31.8,clear
+442,Arhar (Tur/Red Gram),Risia,2017-06-15,5500.0,2.5,37.4,clear
+443,Bengal Gram(Gram),Bahraich,2017-06-15,6415.0,4.2,37.4,clear
+444,Lentil(Masur),Risia,2017-06-15,4350.0,4.9,37.4,clear
+445,Arhar (Tur/Red Gram),Risia,2017-08-07,6440.0,10.0,32.4,clear
+446,Bengal Gram(Gram),Bahraich,2017-08-07,6150.0,6.8,32.4,clear
+447,Lentil(Masur),Mihipurwa,2017-08-07,4000.0,11.0,32.4,clear
+448,Arhar (Tur/Red Gram),Risia,2017-10-07,6350.0,1.5,33.6,clear
+449,Bengal Gram(Gram),Bahraich,2017-10-07,6110.0,5.2,33.6,clear
+450,Lentil(Masur),Mihipurwa,2017-10-07,4000.0,51.0,33.6,clear
+451,Lentil(Masur),Risia,2017-10-07,5660.0,3.0,33.6,clear
+452,Arhar (Tur/Red Gram),Risia,2017-12-07,5610.0,6.5,27.0,clear
+453,Bengal Gram(Gram),Bahraich,2017-12-07,6050.0,4.7,27.0,clear
+454,Black Gram (Urd Beans),Risia,2017-12-07,4950.0,1.5,27.0,clear
+455,Arhar (Tur/Red Gram),Risia,2017-08-20,6400.0,2.7,33.4,clear
+456,Arhar (Tur/Red Gram),Risia,2017-08-26,6250.0,7.5,32.0,clear
+457,Bengal Gram(Gram),Bahraich,2017-08-26,5870.0,4.7,32.0,clear
+458,Arhar (Tur/Red Gram),Risia,2017-09-30,6550.0,0.4,31.6,clear
+459,Black Gram (Urd Beans),Risia,2017-09-30,5600.0,0.1,31.6,clear
+460,Arhar (Tur/Red Gram),Risia,2017-10-31,6100.0,2.5,29.0,clear
+461,Black Gram (Urd Beans),Risia,2017-10-31,5100.0,2.5,29.0,clear
+462,Bengal Gram(Gram),Bahraich,2017-02-01,9480.0,2.3,21.0,clear
+463,Bengal Gram(Gram),Bahraich,2017-03-01,9485.0,2.1,30.4,clear
+464,Bengal Gram(Gram),Bahraich,2017-04-01,9480.0,2.4,38.6,clear
+465,Bengal Gram(Gram),Bahraich,2017-05-01,9485.0,2.3,35.6,clear
+466,Bengal Gram(Gram),Bahraich,2017-06-01,9490.0,2.1,37.4,clear
+467,Bengal Gram(Gram),Bahraich,2017-07-01,9490.0,2.4,32.6,clear
+468,Bengal Gram(Gram),Bahraich,2017-09-01,9495.0,2.5,29.0,clear
+469,Bengal Gram(Gram),Bahraich,2017-10-01,9495.0,2.8,32.0,clear
+470,Bengal Gram(Gram),Bahraich,2017-12-01,9500.0,2.8,25.0,clear
+471,Bengal Gram(Gram),Bahraich,2017-01-13,9500.0,2.6,18.6,clear
+472,Bengal Gram(Gram),Bahraich,2017-01-14,9500.0,2.5,21.0,clear
+473,Bengal Gram(Gram),Bahraich,2017-01-16,9500.0,2.2,23.8,clear
+474,Bengal Gram(Gram),Bahraich,2017-01-17,9500.0,2.6,21.6,clear
+475,Bengal Gram(Gram),Bahraich,2017-01-18,9500.0,2.5,14.0,clear
+476,Bengal Gram(Gram),Bahraich,2017-01-19,9480.0,2.8,18.8,clear
+477,Bengal Gram(Gram),Bahraich,2017-01-20,9480.0,3.4,24.0,clear
+478,Bengal Gram(Gram),Bahraich,2017-01-21,9480.0,3.2,20.0,clear
+479,Bengal Gram(Gram),Bahraich,2017-01-23,9490.0,2.3,25.8,clear
+480,Bengal Gram(Gram),Bahraich,2017-01-24,9490.0,2.8,25.0,clear
+481,Bengal Gram(Gram),Bahraich,2017-01-25,9490.0,2.5,26.2,clear
+482,Bengal Gram(Gram),Naanpara,2017-01-25,9480.0,24.0,26.2,clear
+483,Bengal Gram(Gram),Bahraich,2017-01-27,9490.0,2.8,18.0,clear
+484,Bengal Gram(Gram),Bahraich,2017-01-30,9510.0,2.7,19.4,clear
+485,Bengal Gram(Gram),Ruperdeeha,2017-01-30,9480.0,48.0,19.4,clear
+486,Bengal Gram(Gram),Bahraich,2017-01-31,9515.0,2.4,17.4,clear
+487,Bengal Gram(Gram),Bahraich,2017-01-02,9510.0,2.6,20.8,clear
+488,Bengal Gram(Gram),Bahraich,2017-02-02,9520.0,2.2,19.0,clear
+489,Bengal Gram(Gram),Bahraich,2017-03-02,9515.0,2.4,30.2,clear
+490,Bengal Gram(Gram),Bahraich,2017-04-02,9510.0,2.3,37.6,clear
+491,Bengal Gram(Gram),Bahraich,2017-06-02,9510.0,2.6,39.0,clear
+492,Bengal Gram(Gram),Bahraich,2017-07-02,9515.0,2.8,32.0,clear
+493,Bengal Gram(Gram),Bahraich,2017-08-02,9500.0,2.4,30.0,clear
+494,Bengal Gram(Gram),Bahraich,2017-09-02,9495.0,2.3,38.0,clear
+495,Bengal Gram(Gram),Bahraich,2017-11-02,9495.0,2.2,28.0,clear
+496,Bengal Gram(Gram),Bahraich,2017-02-13,9480.0,2.6,26.2,clear
+497,Bengal Gram(Gram),Bahraich,2017-02-14,9475.0,2.5,25.2,clear
+498,Bengal Gram(Gram),Bahraich,2017-02-15,9460.0,2.3,26.6,clear
+499,Bengal Gram(Gram),Bahraich,2017-02-16,9410.0,2.4,27.0,clear
+500,Bengal Gram(Gram),Bahraich,2017-02-17,8450.0,2.6,27.4,clear
+501,Bengal Gram(Gram),Bahraich,2017-02-18,8450.0,2.8,28.6,clear
+502,Bengal Gram(Gram),Bahraich,2017-02-20,8450.0,2.0,30.0,clear
+503,Bengal Gram(Gram),Bahraich,2017-02-21,8450.0,2.6,30.0,clear
+504,Bengal Gram(Gram),Ruperdeeha,2017-02-21,8450.0,45.0,30.0,clear
+505,Bengal Gram(Gram),Bahraich,2017-02-22,8450.0,2.2,27.6,clear
+506,Bengal Gram(Gram),Bahraich,2017-02-24,8440.0,2.2,26.4,clear
+507,Bengal Gram(Gram),Bahraich,2017-02-25,8440.0,2.2,23.6,clear
+508,Bengal Gram(Gram),Naanpara,2017-02-25,8460.0,31.5,23.6,clear
+509,Bengal Gram(Gram),Bahraich,2017-02-28,8430.0,2.6,29.4,clear
+510,Bengal Gram(Gram),Bahraich,2017-01-03,8420.0,2.7,23.4,clear
+511,Bengal Gram(Gram),Bahraich,2017-02-03,8410.0,2.9,23.6,clear
+512,Bengal Gram(Gram),Bahraich,2017-03-03,8410.0,2.7,31.0,clear
+513,Bengal Gram(Gram),Bahraich,2017-04-03,8400.0,2.5,38.6,clear
+514,Bengal Gram(Gram),Bahraich,2017-06-03,8385.0,2.8,40.0,clear
+515,Bengal Gram(Gram),Bahraich,2017-07-03,8380.0,2.6,33.6,rain
+516,Bengal Gram(Gram),Bahraich,2017-08-03,7820.0,2.4,31.6,clear
+517,Bengal Gram(Gram),Bahraich,2017-09-03,7550.0,2.2,32.0,clear
+518,Bengal Gram(Gram),Bahraich,2017-10-03,7340.0,4.2,31.6,clear
+519,Bengal Gram(Gram),Bahraich,2017-11-03,7340.0,4.6,29.6,clear
+520,Bengal Gram(Gram),Bahraich,2017-03-14,7330.0,4.4,27.2,clear
+521,Bengal Gram(Gram),Bahraich,2017-03-15,7340.0,4.8,28.2,clear
+522,Bengal Gram(Gram),Bahraich,2017-03-16,7320.0,4.4,30.0,clear
+523,Bengal Gram(Gram),Bahraich,2017-03-17,7310.0,3.7,30.8,clear
+524,Bengal Gram(Gram),Bahraich,2017-03-18,7300.0,3.0,27.6,clear
+525,Bengal Gram(Gram),Bahraich,2017-03-20,7300.0,2.8,31.0,clear
+526,Bengal Gram(Gram),Bahraich,2017-03-21,7300.0,3.2,29.0,clear
+527,Bengal Gram(Gram),Bahraich,2017-03-22,7300.0,3.2,30.4,clear
+528,Bengal Gram(Gram),Bahraich,2017-03-23,7300.0,3.4,31.4,clear
+529,Bengal Gram(Gram),Bahraich,2017-03-24,7180.0,3.6,34.4,clear
+530,Bengal Gram(Gram),Bahraich,2017-03-25,7180.0,3.2,35.4,clear
+531,Bengal Gram(Gram),Bahraich,2017-03-27,7160.0,3.5,32.4,clear
+532,Bengal Gram(Gram),Bahraich,2017-03-29,7160.0,2.5,35.0,clear
+533,Bengal Gram(Gram),Ruperdeeha,2017-03-29,7140.0,52.0,35.0,clear
+534,Bengal Gram(Gram),Bahraich,2017-03-30,7160.0,3.6,37.0,clear
+535,Bengal Gram(Gram),Bahraich,2017-03-31,7140.0,3.4,34.4,clear
+536,Bengal Gram(Gram),Naanpara,2017-03-31,7120.0,41.0,34.4,clear
+537,Bengal Gram(Gram),Bahraich,2017-01-04,7120.0,3.6,15.2,clear
+538,Bengal Gram(Gram),Bahraich,2017-03-04,7130.0,3.8,30.0,clear
+539,Bengal Gram(Gram),Bahraich,2017-04-04,7130.0,3.6,37.0,clear
+540,Bengal Gram(Gram),Bahraich,2017-05-04,7130.0,2.8,39.4,clear
+541,Bengal Gram(Gram),Bahraich,2017-06-04,7130.0,3.1,40.0,clear
+542,Bengal Gram(Gram),Bahraich,2017-07-04,7120.0,3.4,31.6,clear
+543,Bengal Gram(Gram),Bahraich,2017-08-04,7110.0,3.1,31.6,clear
+544,Bengal Gram(Gram),Bahraich,2017-10-04,7115.0,2.8,33.4,clear
+545,Bengal Gram(Gram),Bahraich,2017-11-04,7110.0,3.0,30.4,clear
+546,Bengal Gram(Gram),Bahraich,2017-12-04,7100.0,3.3,23.0,clear
+547,Bengal Gram(Gram),Bahraich,2017-04-13,7100.0,3.2,36.4,clear
+548,Bengal Gram(Gram),Bahraich,2017-04-14,7030.0,1.8,36.6,clear
+549,Bengal Gram(Gram),Bahraich,2017-04-15,7020.0,2.9,36.6,clear
+550,Bengal Gram(Gram),Bahraich,2017-04-17,7010.0,3.2,35.6,clear
+551,Bengal Gram(Gram),Bahraich,2017-04-18,7010.0,3.4,37.0,clear
+552,Bengal Gram(Gram),Bahraich,2017-04-19,6980.0,3.7,36.0,clear
+553,Bengal Gram(Gram),Bahraich,2017-04-20,6980.0,3.2,35.2,clear
+554,Bengal Gram(Gram),Bahraich,2017-04-21,6960.0,3.4,34.4,clear
+555,Bengal Gram(Gram),Bahraich,2017-04-22,6970.0,3.6,35.6,clear
+556,Bengal Gram(Gram),Bahraich,2017-04-24,6970.0,3.8,34.4,clear
+557,Bengal Gram(Gram),Bahraich,2017-04-26,6980.0,3.0,38.0,clear
+558,Bengal Gram(Gram),Bahraich,2017-04-27,6980.0,2.8,38.0,clear
+559,Bengal Gram(Gram),Ruperdeeha,2017-04-27,7010.0,44.0,38.0,clear
+560,Bengal Gram(Gram),Bahraich,2017-04-28,6990.0,2.6,38.6,clear
+561,Bengal Gram(Gram),Naanpara,2017-04-28,7010.0,44.0,38.6,clear
+562,Bengal Gram(Gram),Bahraich,2017-04-29,6990.0,2.8,40.0,clear
+563,Bengal Gram(Gram),Bahraich,2017-01-05,6985.0,3.1,15.0,clear
+564,Bengal Gram(Gram),Bahraich,2017-02-05,6990.0,3.3,26.0,clear
+565,Bengal Gram(Gram),Bahraich,2017-03-05,6985.0,3.8,27.6,clear
+566,Bengal Gram(Gram),Bahraich,2017-04-05,6980.0,3.6,33.6,clear
+567,Bengal Gram(Gram),Bahraich,2017-05-05,6900.0,3.8,38.0,clear
+568,Bengal Gram(Gram),Bahraich,2017-06-05,6800.0,4.5,37.4,rain
+569,Bengal Gram(Gram),Bahraich,2017-08-05,6775.0,4.1,33.0,clear
+570,Bengal Gram(Gram),Bahraich,2017-09-05,6730.0,3.4,35.0,clear
+571,Bengal Gram(Gram),Bahraich,2017-10-05,6710.0,3.7,33.4,clear
+572,Bengal Gram(Gram),Bahraich,2017-11-05,6700.0,3.6,30.4,clear
+573,Bengal Gram(Gram),Bahraich,2017-05-13,6650.0,4.1,36.0,clear
+574,Bengal Gram(Gram),Bahraich,2017-05-15,6630.0,3.6,37.8,clear
+575,Bengal Gram(Gram),Bahraich,2017-05-16,6630.0,3.2,37.4,clear
+576,Bengal Gram(Gram),Bahraich,2017-05-17,6630.0,3.8,30.0,clear
+577,Bengal Gram(Gram),Bahraich,2017-05-18,6630.0,2.8,34.2,clear
+578,Bengal Gram(Gram),Bahraich,2017-05-19,6550.0,3.8,37.4,clear
+579,Bengal Gram(Gram),Bahraich,2017-05-20,6550.0,3.0,37.0,clear
+580,Bengal Gram(Gram),Bahraich,2017-05-22,6550.0,3.6,38.6,clear
+581,Bengal Gram(Gram),Bahraich,2017-05-23,6550.0,3.8,37.2,clear
+582,Bengal Gram(Gram),Bahraich,2017-05-24,6550.0,3.8,39.0,clear
+583,Bengal Gram(Gram),Bahraich,2017-05-25,6550.0,3.9,40.6,clear
+584,Bengal Gram(Gram),Bahraich,2017-05-26,6430.0,4.3,37.6,clear
+585,Bengal Gram(Gram),Naanpara,2017-05-26,6440.0,51.0,37.6,clear
+586,Bengal Gram(Gram),Bahraich,2017-05-27,6420.0,4.2,31.6,clear
+587,Bengal Gram(Gram),Bahraich,2017-05-29,6425.0,3.8,34.4,clear
+588,Bengal Gram(Gram),Ruperdeeha,2017-05-29,6510.0,45.0,34.4,clear
+589,Bengal Gram(Gram),Bahraich,2017-05-31,6420.0,4.8,35.2,clear
+590,Bengal Gram(Gram),Bahraich,2017-01-06,6430.0,3.8,16.2,clear
+591,Bengal Gram(Gram),Bahraich,2017-03-06,6410.0,4.3,29.0,clear
+592,Bengal Gram(Gram),Bahraich,2017-06-06,6420.0,4.2,28.0,clear
+593,Bengal Gram(Gram),Bahraich,2017-07-06,6430.0,3.8,32.0,rain
+594,Bengal Gram(Gram),Bahraich,2017-08-06,6425.0,3.9,36.0,rain
+595,Lentil(Masur),Mihipurwa,2017-08-06,4300.0,7.0,36.0,rain
+596,Bengal Gram(Gram),Bahraich,2017-09-06,6415.0,4.2,34.0,clear
+597,Lentil(Masur),Mihipurwa,2017-09-06,4300.0,7.0,34.0,clear
+598,Bengal Gram(Gram),Bahraich,2017-10-06,6415.0,4.0,35.0,clear
+599,Lentil(Masur),Mihipurwa,2017-10-06,4300.0,8.0,35.0,clear
+600,Bengal Gram(Gram),Bahraich,2017-12-06,6415.0,4.8,25.0,clear
+601,Black Gram (Urd Beans),Risia,2017-12-06,5500.0,5.0,25.0,clear
+602,Bengal Gram(Gram),Bahraich,2017-06-13,6415.0,4.7,39.6,clear
+603,Lentil(Masur),Mihipurwa,2017-06-13,4300.0,9.0,39.6,clear
+604,Bengal Gram(Gram),Bahraich,2017-06-14,6415.0,4.8,40.2,clear
+605,Bengal Gram(Gram),Bahraich,2017-06-16,6415.0,3.8,32.0,clear
+606,Lentil(Masur),Mihipurwa,2017-06-16,4300.0,7.5,32.0,clear
+607,Bengal Gram(Gram),Bahraich,2017-06-17,6410.0,4.0,35.4,clear
+608,Bengal Gram(Gram),Bahraich,2017-06-19,6415.0,3.8,37.4,clear
+609,Bengal Gram(Gram),Bahraich,2017-06-20,6415.0,3.0,32.6,clear
+610,Lentil(Masur),Mihipurwa,2017-06-20,4300.0,3.0,32.6,clear
+611,Bengal Gram(Gram),Bahraich,2017-06-21,6410.0,3.6,31.4,clear
+612,Lentil(Masur),Mihipurwa,2017-06-21,4200.0,15.0,31.4,clear
+613,Bengal Gram(Gram),Bahraich,2017-06-22,6400.0,4.7,34.0,clear
+614,Lentil(Masur),Mihipurwa,2017-06-22,4100.0,4.0,34.0,clear
+615,Bengal Gram(Gram),Bahraich,2017-06-23,6410.0,4.2,35.0,clear
+616,Bengal Gram(Gram),Bahraich,2017-06-24,6410.0,4.8,35.0,clear
+617,Bengal Gram(Gram),Bahraich,2017-06-28,6390.0,4.8,37.4,clear
+618,Bengal Gram(Gram),Naanpara,2017-06-28,6850.0,0.0,37.4,clear
+619,Black Gram (Urd Beans),Risia,2017-06-28,3800.0,15.0,37.4,clear
+620,Bengal Gram(Gram),Bahraich,2017-06-30,6400.0,4.7,36.4,clear
+621,Bengal Gram(Gram),Bahraich,2017-01-07,6410.0,4.4,19.4,clear
+622,Bengal Gram(Gram),Bahraich,2017-07-17,6000.0,5.2,32.0,clear
+623,Lentil(Masur),Mihipurwa,2017-07-17,4300.0,6.0,32.0,clear
+624,Bengal Gram(Gram),Bahraich,2017-07-18,5940.0,5.6,36.2,clear
+625,Black Gram (Urd Beans),Risia,2017-07-18,5200.0,14.2,36.2,clear
+626,Lentil(Masur),Mihipurwa,2017-07-18,4400.0,6.9,36.2,clear
+627,Bengal Gram(Gram),Bahraich,2017-07-19,5930.0,5.2,36.2,clear
+628,Black Gram (Urd Beans),Risia,2017-07-19,4980.0,2.5,36.2,clear
+629,Bengal Gram(Gram),Bahraich,2017-07-29,5890.0,3.2,32.4,clear
+630,Bengal Gram(Gram),Bahraich,2017-07-31,5880.0,3.5,33.4,clear
+631,Black Gram (Urd Beans),Risia,2017-07-31,5500.0,1.5,33.4,clear
+632,Bengal Gram(Gram),Bahraich,2017-07-08,5900.0,4.5,34.6,clear
+633,Lentil(Masur),Mihipurwa,2017-07-08,4050.0,2.5,34.6,clear
+634,Bengal Gram(Gram),Bahraich,2017-08-08,5920.0,3.7,33.0,clear
+635,Bengal Gram(Gram),Bahraich,2017-09-08,5900.0,4.2,34.4,clear
+636,Bengal Gram(Gram),Bahraich,2017-10-08,5915.0,3.8,35.0,clear
+637,Bengal Gram(Gram),Bahraich,2017-11-08,5880.0,4.6,27.6,clear
+638,Bengal Gram(Gram),Bahraich,2017-12-08,5875.0,5.2,26.6,clear
+639,Lentil(Masur),Mihipurwa,2017-12-08,4050.0,3.6,26.6,clear
+640,Bengal Gram(Gram),Bahraich,2017-08-16,5880.0,4.2,34.0,clear
+641,Bengal Gram(Gram),Bahraich,2017-08-17,5885.0,6.2,31.4,clear
+642,Black Gram (Urd Beans),Risia,2017-08-17,5500.0,0.0,31.4,clear
+643,Bengal Gram(Gram),Bahraich,2017-08-18,5890.0,6.8,33.6,clear
+644,Black Gram (Urd Beans),Risia,2017-08-18,5380.0,0.5,33.6,clear
+645,Bengal Gram(Gram),Bahraich,2017-08-21,5870.0,8.3,33.4,clear
+646,Black Gram (Urd Beans),Risia,2017-08-21,6200.0,3.7,33.4,clear
+647,Bengal Gram(Gram),Bahraich,2017-08-22,5875.0,6.6,32.0,clear
+648,Bengal Gram(Gram),Bahraich,2017-08-23,5880.0,5.4,29.0,clear
+649,Bengal Gram(Gram),Bahraich,2017-08-25,5875.0,7.2,32.8,clear
+650,Black Gram (Urd Beans),Risia,2017-08-25,5600.0,8.9,32.8,clear
+651,Lentil(Masur),Mihipurwa,2017-08-25,5900.0,7.5,32.8,clear
+652,Bengal Gram(Gram),Bahraich,2017-02-09,5870.0,5.2,23.0,clear
+653,Lentil(Masur),Mihipurwa,2017-02-09,4400.0,20.0,23.0,clear
+654,Bengal Gram(Gram),Bahraich,2017-09-21,5950.0,15.0,29.0,rain
+655,Bengal Gram(Gram),Risia,2017-10-15,6700.0,0.3,33.4,clear
+656,Black Gram (Urd Beans),Risia,2017-07-21,4910.0,17.5,32.0,clear
+657,Black Gram (Urd Beans),Risia,2017-07-23,5300.0,8.0,32.8,clear
+658,Black Gram (Urd Beans),Risia,2017-08-27,5200.0,24.1,33.0,clear
+659,Black Gram (Urd Beans),Risia,2017-09-23,5700.0,1.2,31.6,clear
+660,Black Gram (Urd Beans),Risia,2017-05-10,5300.0,0.3,34.4,clear
+661,Lentil(Masur),Mihipurwa,2017-05-10,4500.0,15.0,34.4,clear
+662,Black Gram (Urd Beans),Risia,2017-10-27,4750.0,25.6,30.0,clear
+663,Black Gram (Urd Beans),Risia,2017-01-11,5100.0,15.0,19.4,clear
+664,Lentil(Masur),Mihipurwa,2017-01-11,3825.0,11.0,19.4,clear
+665,Black Gram (Urd Beans),Risia,2017-02-11,4950.0,5.3,22.4,clear
+666,Black Gram (Urd Beans),Risia,2017-04-11,5000.0,4.9,35.4,clear
+667,Black Gram (Urd Beans),Risia,2017-05-11,4700.0,0.5,36.2,clear
+668,Lentil(Masur),Mihipurwa,2017-11-06,4300.0,6.0,29.4,clear
+669,Lentil(Masur),Mihipurwa,2017-09-07,4000.0,3.0,34.4,clear
+670,Lentil(Masur),Mihipurwa,2017-07-09,4600.0,7.5,30.0,clear
+671,Lentil(Masur),Mihipurwa,2017-08-09,4300.0,5.0,31.4,clear
+672,Lentil(Masur),Mihipurwa,2017-09-17,4300.0,10.7,36.0,clear
+673,Lentil(Masur),Mihipurwa,2017-06-10,4500.0,7.5,37.4,clear
+674,Lentil(Masur),Mihipurwa,2017-08-10,4250.0,15.0,32.4,clear
+675,Lentil(Masur),Mihipurwa,2017-12-10,4500.0,15.0,25.2,clear
+676,Lentil(Masur),Mihipurwa,2017-10-14,3750.0,13.0,34.2,clear
+677,Lentil(Masur),Mihipurwa,2017-10-17,3850.0,7.0,33.8,clear
+678,Lentil(Masur),Mihipurwa,2017-10-18,4050.0,22.2,34.0,clear
+679,Lentil(Masur),Mihipurwa,2017-10-23,3850.0,8.0,32.6,clear
+680,Lentil(Masur),Mihipurwa,2017-10-24,3825.0,7.0,31.2,clear
+681,Lentil(Masur),Mihipurwa,2017-10-25,3850.0,11.0,31.6,clear
+682,Lentil(Masur),Mihipurwa,2017-10-26,3825.0,23.0,31.0,clear
+683,Lentil(Masur),Mihipurwa,2017-10-30,3850.0,15.7,30.6,clear
+684,Lentil(Masur),Mihipurwa,2017-03-11,3825.0,10.0,25.0,rain
+685,Lentil(Masur),Risia,2017-02-07,4500.0,5.0,25.2,clear

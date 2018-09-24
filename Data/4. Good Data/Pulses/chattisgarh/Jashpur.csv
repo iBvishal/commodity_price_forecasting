@@ -1,0 +1,237 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Black Gram (Urd Beans),Bageecha,2013-03-21,3280.0,3.3,26.4,clear
+1,Arhar (Tur/Red Gram),Jaspur,2015-12-16,4500.0,0.2,21.6,clear
+2,Bengal Gram(Gram),Jaspur,2015-12-16,3000.0,0.4,21.6,clear
+3,Lentil(Masur),Jaspur,2015-12-16,3000.0,0.2,21.6,clear
+4,Arhar (Tur/Red Gram),Jaspur,2015-12-21,4500.0,0.3,22.0,clear
+5,Bengal Gram(Gram),Jaspur,2015-12-21,3200.0,0.5,22.0,clear
+6,Black Gram (Urd Beans),Jaspur,2015-12-21,4600.0,0.4,22.0,clear
+7,Lentil(Masur),Jaspur,2015-12-21,3000.0,0.5,22.0,clear
+8,Arhar (Tur/Red Gram),Pathalgaon,2015-12-31,4500.0,3.0,25.6,clear
+9,Black Gram (Urd Beans),Pathalgaon,2015-12-31,4500.0,1.0,25.6,clear
+10,Bengal Gram(Gram),Jaspur,2015-12-23,3200.0,0.4,21.8,clear
+11,Black Gram (Urd Beans),Jaspur,2015-12-23,4000.0,0.4,21.8,clear
+12,Bengal Gram(Gram),Jaspur,2015-12-30,3200.0,0.8,24.0,clear
+13,Black Gram (Urd Beans),Kotba,2015-12-29,4350.0,1.5,24.2,clear
+14,Arhar (Tur/Red Gram),Jaspur,2016-01-19,4500.0,0.5,23.0,clear
+15,Bengal Gram(Gram),Jaspur,2016-01-19,3300.0,2.5,23.0,clear
+16,Black Gram (Urd Beans),Jaspur,2016-01-19,4500.0,0.6,23.0,clear
+17,Arhar (Tur/Red Gram),Jaspur,2016-02-25,4500.0,0.1,29.0,clear
+18,Bengal Gram(Gram),Jaspur,2016-02-25,3500.0,2.7,29.0,clear
+19,Black Gram (Urd Beans),Jaspur,2016-02-25,4500.0,0.1,29.0,clear
+20,Arhar (Tur/Red Gram),Jaspur,2016-02-29,4500.0,0.1,30.8,clear
+21,Arhar (Tur/Red Gram),Kotba,2016-02-29,3000.0,0.5,30.8,clear
+22,Bengal Gram(Gram),Jaspur,2016-02-29,3500.0,1.7,30.8,clear
+23,Black Gram (Urd Beans),Jaspur,2016-02-29,4500.0,0.3,30.8,clear
+24,Black Gram (Urd Beans),Kotba,2016-02-29,4600.0,1.5,30.8,clear
+25,Lentil(Masur),Jaspur,2016-02-29,3000.0,0.2,30.8,clear
+26,Arhar (Tur/Red Gram),Jaspur,2016-05-18,4500.0,0.3,39.4,clear
+27,Arhar (Tur/Red Gram),Kunkuri,2016-05-18,5000.0,0.3,39.4,clear
+28,Bengal Gram(Gram),Jaspur,2016-05-18,3285.0,0.7,39.4,clear
+29,Black Gram (Urd Beans),Jaspur,2016-05-18,4500.0,0.1,39.4,clear
+30,Lentil(Masur),Jaspur,2016-05-18,3200.0,0.4,39.4,clear
+31,Arhar (Tur/Red Gram),Jaspur,2016-07-18,4500.0,0.1,26.2,clear
+32,Bengal Gram(Gram),Jaspur,2016-07-18,3500.0,1.1,26.2,clear
+33,Lentil(Masur),Jaspur,2016-07-18,3000.0,0.3,26.2,clear
+34,Arhar (Tur/Red Gram),Jaspur,2016-07-20,4500.0,0.4,29.2,clear
+35,Bengal Gram(Gram),Jaspur,2016-07-20,3500.0,0.4,29.2,clear
+36,Black Gram (Urd Beans),Jaspur,2016-07-20,4000.0,0.3,29.2,clear
+37,Arhar (Tur/Red Gram),Jaspur,2016-09-08,4500.0,0.3,26.2,clear
+38,Bengal Gram(Gram),Jaspur,2016-09-08,3500.0,0.4,26.2,clear
+39,Arhar (Tur/Red Gram),Jaspur,2016-09-19,5500.0,1.0,29.4,clear
+40,Black Gram (Urd Beans),Jaspur,2016-09-19,4700.0,1.0,29.4,clear
+41,Arhar (Tur/Red Gram),Jaspur,2016-10-19,4500.0,0.2,27.4,clear
+42,Bengal Gram(Gram),Jaspur,2016-10-19,3000.0,1.3,27.4,clear
+43,Black Gram (Urd Beans),Jaspur,2016-10-19,5000.0,0.4,27.4,clear
+44,Arhar (Tur/Red Gram),Jaspur,2016-11-28,5000.0,0.7,25.0,clear
+45,Bengal Gram(Gram),Jaspur,2016-11-28,3500.0,1.0,25.0,clear
+46,Black Gram (Urd Beans),Jaspur,2016-11-28,5000.0,0.4,25.0,clear
+47,Lentil(Masur),Jaspur,2016-11-28,3500.0,0.2,25.0,clear
+48,Arhar (Tur/Red Gram),Jaspur,2016-11-30,4500.0,0.2,24.2,clear
+49,Lentil(Masur),Jaspur,2016-11-30,4000.0,0.2,24.2,clear
+50,Arhar (Tur/Red Gram),Jaspur,2016-09-12,5000.0,0.7,28.4,clear
+51,Black Gram (Urd Beans),Jaspur,2016-09-12,5000.0,1.8,28.4,clear
+52,Lentil(Masur),Jaspur,2016-09-12,3500.0,0.5,28.4,clear
+53,Arhar (Tur/Red Gram),Kotba,2016-02-26,4600.0,1.0,23.2,clear
+54,Bengal Gram(Gram),Jaspur,2016-02-26,3600.0,1.9,23.2,clear
+55,Arhar (Tur/Red Gram),Kunkuri,2016-03-18,5000.0,0.2,32.6,clear
+56,Bengal Gram(Gram),Kunkuri,2016-03-18,3387.0,3.1,32.6,clear
+57,Black Gram (Urd Beans),Kunkuri,2016-03-18,4440.0,2.5,32.6,clear
+58,Lentil(Masur),Kunkuri,2016-03-18,3000.0,1.0,32.6,clear
+59,Arhar (Tur/Red Gram),Kunkuri,2016-07-14,7500.0,0.5,28.2,clear
+60,Black Gram (Urd Beans),Kunkuri,2016-07-14,4000.0,0.5,28.2,clear
+61,Arhar (Tur/Red Gram),Kunkuri,2016-07-31,6000.0,0.5,29.6,clear
+62,Bengal Gram(Gram),Kotba,2016-07-31,3000.0,4.0,29.6,clear
+63,Black Gram (Urd Beans),Jaspur,2016-07-31,5000.0,0.2,29.6,clear
+64,Black Gram (Urd Beans),Pathalgaon,2016-07-31,4600.0,1.0,29.6,clear
+65,Lentil(Masur),Kotba,2016-07-31,3200.0,3.0,29.6,clear
+66,Lentil(Masur),Kunkuri,2016-07-31,7500.0,0.2,29.6,clear
+67,Arhar (Tur/Red Gram),Pathalgaon,2016-03-21,4600.0,2.0,33.4,clear
+68,Arhar (Tur/Red Gram),Pathalgaon,2016-03-24,3000.0,2.0,33.4,clear
+69,Lentil(Masur),Kotba,2016-03-24,3100.0,2.5,33.4,clear
+70,Arhar (Tur/Red Gram),Pathalgaon,2016-03-31,3000.0,5.0,36.4,clear
+71,Black Gram (Urd Beans),Pathalgaon,2016-03-31,4600.0,0.5,36.4,clear
+72,Arhar (Tur/Red Gram),Pathalgaon,2016-05-31,3000.0,2.0,38.6,clear
+73,Bengal Gram(Gram),Jaspur,2016-05-31,3500.0,0.1,38.6,clear
+74,Black Gram (Urd Beans),Jaspur,2016-05-31,4500.0,0.2,38.6,clear
+75,Lentil(Masur),Jaspur,2016-05-31,3000.0,0.3,38.6,clear
+76,Arhar (Tur/Red Gram),Pathalgaon,2016-06-29,3000.0,5.5,32.8,clear
+77,Black Gram (Urd Beans),Pathalgaon,2016-06-29,4600.0,1.0,32.8,clear
+78,Arhar (Tur/Red Gram),Pathalgaon,2016-08-31,4625.0,1.2,28.0,clear
+79,Bengal Gram(Gram),Jaspur,2016-08-31,4000.0,0.1,28.0,clear
+80,Lentil(Masur),Pathalgaon,2016-08-31,3200.0,2.0,28.0,clear
+81,Arhar (Tur/Red Gram),Pathalgaon,2016-09-30,4600.0,1.0,28.8,clear
+82,Arhar (Tur/Red Gram),Pathalgaon,2016-08-10,3200.0,1.0,26.2,clear
+83,Black Gram (Urd Beans),Pathalgaon,2016-08-10,4600.0,1.5,26.2,clear
+84,Arhar (Tur/Red Gram),Pathalgaon,2016-11-21,4600.0,1.0,25.2,clear
+85,Lentil(Masur),Pathalgaon,2016-11-21,3300.0,1.0,25.2,clear
+86,Bengal Gram(Gram),Jaspur,2016-01-31,3500.0,1.1,26.8,clear
+87,Black Gram (Urd Beans),Jaspur,2016-01-31,4400.0,0.3,26.8,clear
+88,Lentil(Masur),Kotba,2016-01-31,3325.0,1.5,26.8,clear
+89,Bengal Gram(Gram),Jaspur,2016-10-02,3400.0,0.6,30.4,clear
+90,Bengal Gram(Gram),Jaspur,2016-02-22,3500.0,4.0,29.6,clear
+91,Bengal Gram(Gram),Jaspur,2016-03-03,3600.0,1.0,33.2,clear
+92,Bengal Gram(Gram),Jaspur,2016-11-04,3000.0,0.4,26.8,clear
+93,Bengal Gram(Gram),Jaspur,2016-04-29,3200.0,0.5,40.4,clear
+94,Lentil(Masur),Jaspur,2016-04-29,3000.0,0.3,40.4,clear
+95,Bengal Gram(Gram),Jaspur,2016-07-05,3300.0,1.3,25.0,rain
+96,Black Gram (Urd Beans),Jaspur,2016-07-05,4500.0,0.3,25.0,rain
+97,Lentil(Masur),Jaspur,2016-07-05,3200.0,0.3,25.0,rain
+98,Bengal Gram(Gram),Jaspur,2016-06-27,3500.0,0.7,35.0,clear
+99,Black Gram (Urd Beans),Jaspur,2016-06-27,4500.0,0.1,35.0,clear
+100,Lentil(Masur),Jaspur,2016-06-27,2800.0,0.3,35.0,clear
+101,Bengal Gram(Gram),Jaspur,2016-07-29,3500.0,0.2,31.2,clear
+102,Bengal Gram(Gram),Kunkuri,2016-07-29,4500.0,1.0,31.2,clear
+103,Bengal Gram(Gram),Jaspur,2016-09-14,3500.0,1.2,29.0,clear
+104,Black Gram (Urd Beans),Jaspur,2016-09-14,5000.0,0.8,29.0,clear
+105,Bengal Gram(Gram),Jaspur,2016-10-31,4000.0,0.5,26.8,clear
+106,Black Gram (Urd Beans),Jaspur,2016-10-31,5000.0,0.5,26.8,clear
+107,Bengal Gram(Gram),Jaspur,2016-11-25,3500.0,0.5,25.0,clear
+108,Bengal Gram(Gram),Kunkuri,2016-11-25,3000.0,0.5,25.0,clear
+109,Black Gram (Urd Beans),Jaspur,2016-11-25,4800.0,0.3,25.0,clear
+110,Black Gram (Urd Beans),Kunkuri,2016-11-25,4100.0,1.0,25.0,clear
+111,Bengal Gram(Gram),Jaspur,2016-12-13,3500.0,0.2,23.8,clear
+112,Black Gram (Urd Beans),Jaspur,2016-12-13,4500.0,1.1,23.8,clear
+113,Bengal Gram(Gram),Jaspur,2016-12-29,3500.0,0.4,22.8,clear
+114,Bengal Gram(Gram),Kunkuri,2016-12-03,3500.0,0.1,25.2,clear
+115,Bengal Gram(Gram),Kunkuri,2016-03-26,3830.0,3.0,36.6,clear
+116,Black Gram (Urd Beans),Kunkuri,2016-03-26,4500.0,1.5,36.6,clear
+117,Bengal Gram(Gram),Kunkuri,2016-08-04,3500.0,5.0,29.4,clear
+118,Black Gram (Urd Beans),Kunkuri,2016-08-04,3500.0,1.5,29.4,clear
+119,Bengal Gram(Gram),Kunkuri,2016-05-16,3500.0,1.3,40.6,clear
+120,Black Gram (Urd Beans),Kunkuri,2016-05-16,4500.0,0.7,40.6,clear
+121,Lentil(Masur),Kunkuri,2016-05-16,3500.0,0.2,40.6,clear
+122,Bengal Gram(Gram),Kunkuri,2016-06-15,3500.0,2.0,39.6,rain
+123,Lentil(Masur),Kunkuri,2016-06-15,3000.0,1.0,39.6,rain
+124,Bengal Gram(Gram),Pathalgaon,2016-10-14,3500.0,3.0,28.6,clear
+125,Black Gram (Urd Beans),Jaspur,2016-01-18,4425.0,7.1,19.0,clear
+126,Black Gram (Urd Beans),Jaspur,2016-05-24,4500.0,0.1,36.6,clear
+127,Black Gram (Urd Beans),Jaspur,2016-08-16,5000.0,0.2,25.2,rain
+128,Black Gram (Urd Beans),Jaspur,2016-11-15,4000.0,0.3,25.0,clear
+129,Black Gram (Urd Beans),Kunkuri,2016-11-15,4000.0,1.5,25.0,clear
+130,Black Gram (Urd Beans),Kotba,2016-01-25,4350.0,1.0,21.6,clear
+131,Black Gram (Urd Beans),Kotba,2016-02-27,4600.0,1.0,27.4,clear
+132,Black Gram (Urd Beans),Kunkuri,2016-03-23,4500.0,2.6,31.0,clear
+133,Black Gram (Urd Beans),Kunkuri,2016-05-12,4500.0,1.1,39.6,rain
+134,Black Gram (Urd Beans),Kunkuri,2016-12-15,5000.0,0.2,23.0,clear
+135,Black Gram (Urd Beans),Pathalgaon,2016-03-19,4600.0,2.0,33.0,clear
+136,Lentil(Masur),Pathalgaon,2016-03-19,3325.0,3.0,33.0,clear
+137,Black Gram (Urd Beans),Pathalgaon,2016-06-30,4600.0,2.0,36.4,clear
+138,Black Gram (Urd Beans),Pathalgaon,2016-09-07,4600.0,1.0,24.2,rain
+139,Black Gram (Urd Beans),Pathalgaon,2016-05-10,4350.0,1.5,38.4,clear
+140,Black Gram (Urd Beans),Pathalgaon,2016-07-10,4600.0,2.2,31.0,clear
+141,Lentil(Masur),Pathalgaon,2016-07-10,3000.0,1.0,31.0,clear
+142,Black Gram (Urd Beans),Pathalgaon,2016-12-11,4600.0,1.0,25.0,clear
+143,Lentil(Masur),Kotba,2016-01-22,3325.0,1.0,17.8,clear
+144,Lentil(Masur),Kotba,2016-01-29,3325.0,1.0,25.2,clear
+145,Lentil(Masur),Kotba,2016-09-23,3200.0,0.5,28.4,clear
+146,Lentil(Masur),Pathalgaon,2016-08-27,3200.0,1.0,30.4,clear
+147,Lentil(Masur),Pathalgaon,2016-11-26,3300.0,1.0,26.6,clear
+148,Arhar (Tur/Red Gram),Jaspur,2017-01-30,4500.0,1.9,24.8,clear
+149,Bengal Gram(Gram),Jaspur,2017-01-30,3500.0,2.4,24.8,clear
+150,Black Gram (Urd Beans),Jaspur,2017-01-30,4500.0,0.4,24.8,clear
+151,Lentil(Masur),Jaspur,2017-01-30,3000.0,1.2,24.8,clear
+152,Arhar (Tur/Red Gram),Jaspur,2017-02-13,5000.0,0.3,26.8,clear
+153,Lentil(Masur),Jaspur,2017-02-13,3000.0,0.2,26.8,clear
+154,Arhar (Tur/Red Gram),Jaspur,2017-02-17,4800.0,0.3,27.0,clear
+155,Arhar (Tur/Red Gram),Pathalgaon,2017-02-17,4700.0,1.0,27.0,clear
+156,Black Gram (Urd Beans),Jaspur,2017-02-17,4500.0,42.0,27.0,clear
+157,Arhar (Tur/Red Gram),Jaspur,2017-02-28,5000.0,0.2,30.0,clear
+158,Arhar (Tur/Red Gram),Jaspur,2017-03-30,5000.0,0.2,40.0,clear
+159,Bengal Gram(Gram),Jaspur,2017-03-30,4000.0,1.3,40.0,clear
+160,Black Gram (Urd Beans),Kunkuri,2017-03-30,4575.0,24.0,40.0,clear
+161,Arhar (Tur/Red Gram),Jaspur,2017-04-30,5000.0,0.4,39.8,clear
+162,Bengal Gram(Gram),Jaspur,2017-04-30,4000.0,0.7,39.8,clear
+163,Bengal Gram(Gram),Kunkuri,2017-04-30,4000.0,5.3,39.8,clear
+164,Black Gram (Urd Beans),Kunkuri,2017-04-30,5000.0,4.7,39.8,clear
+165,Lentil(Masur),Jaspur,2017-04-30,4000.0,0.3,39.8,clear
+166,Arhar (Tur/Red Gram),Jaspur,2017-05-24,5000.0,0.1,40.4,clear
+167,Bengal Gram(Gram),Pathalgaon,2017-05-24,3600.0,2.0,40.4,clear
+168,Lentil(Masur),Jaspur,2017-05-24,3500.0,0.5,40.4,clear
+169,Arhar (Tur/Red Gram),Jaspur,2017-06-29,5000.0,0.5,30.0,rain
+170,Bengal Gram(Gram),Jaspur,2017-06-29,4000.0,0.5,30.0,rain
+171,Black Gram (Urd Beans),Jaspur,2017-06-29,5000.0,1.1,30.0,rain
+172,Arhar (Tur/Red Gram),Jaspur,2017-06-30,3800.0,1.5,24.8,clear
+173,Lentil(Masur),Jaspur,2017-06-30,3000.0,0.3,24.8,clear
+174,Arhar (Tur/Red Gram),Jaspur,2017-12-07,5000.0,0.5,25.0,clear
+175,Black Gram (Urd Beans),Jaspur,2017-12-07,5000.0,1.3,25.0,clear
+176,Arhar (Tur/Red Gram),Jaspur,2017-07-31,5000.0,0.1,30.6,rain
+177,Arhar (Tur/Red Gram),Kunkuri,2017-07-31,5000.0,0.5,30.6,rain
+178,Bengal Gram(Gram),Jaspur,2017-07-31,3500.0,0.2,30.6,rain
+179,Black Gram (Urd Beans),Kunkuri,2017-07-31,4500.0,0.1,30.6,rain
+180,Arhar (Tur/Red Gram),Jaspur,2017-08-28,5000.0,0.3,27.4,clear
+181,Bengal Gram(Gram),Jaspur,2017-08-28,4000.0,0.2,27.4,clear
+182,Black Gram (Urd Beans),Jaspur,2017-08-28,5000.0,0.2,27.4,clear
+183,Arhar (Tur/Red Gram),Jaspur,2017-12-09,5000.0,0.2,23.8,clear
+184,Bengal Gram(Gram),Jaspur,2017-12-09,4000.0,1.5,23.8,clear
+185,Black Gram (Urd Beans),Jaspur,2017-12-09,5000.0,0.9,23.8,clear
+186,Arhar (Tur/Red Gram),Jaspur,2017-09-18,5000.0,0.8,30.0,rain
+187,Bengal Gram(Gram),Jaspur,2017-09-18,4000.0,0.3,30.0,rain
+188,Black Gram (Urd Beans),Jaspur,2017-09-18,5000.0,1.0,30.0,rain
+189,Arhar (Tur/Red Gram),Jaspur,2017-10-30,6000.0,0.7,27.0,clear
+190,Bengal Gram(Gram),Jaspur,2017-10-30,4000.0,0.2,27.0,clear
+191,Black Gram (Urd Beans),Jaspur,2017-10-30,5150.0,2.0,27.0,clear
+192,Arhar (Tur/Red Gram),Kotba,2017-04-24,3600.0,2.5,39.0,clear
+193,Arhar (Tur/Red Gram),Kotba,2017-09-22,4600.0,1.0,29.8,clear
+194,Arhar (Tur/Red Gram),Kunkuri,2017-05-31,5000.0,0.5,38.0,clear
+195,Bengal Gram(Gram),Kunkuri,2017-05-31,4500.0,13.8,38.0,clear
+196,Black Gram (Urd Beans),Kunkuri,2017-05-31,4500.0,14.0,38.0,clear
+197,Lentil(Masur),Kunkuri,2017-05-31,3500.0,0.5,38.0,clear
+198,Arhar (Tur/Red Gram),Pathalgaon,2017-02-18,4650.0,0.5,27.2,clear
+199,Arhar (Tur/Red Gram),Pathalgaon,2017-08-23,4600.0,1.2,28.8,clear
+200,Bengal Gram(Gram),Jaspur,2017-01-19,3500.0,0.5,25.4,clear
+201,Black Gram (Urd Beans),Jaspur,2017-01-19,4500.0,0.2,25.4,clear
+202,Bengal Gram(Gram),Jaspur,2017-03-18,3600.0,0.5,31.4,clear
+203,Black Gram (Urd Beans),Kunkuri,2017-03-18,4500.0,10.0,31.4,clear
+204,Bengal Gram(Gram),Jaspur,2017-03-20,3500.0,0.8,28.0,clear
+205,Lentil(Masur),Jaspur,2017-03-20,3200.0,0.4,28.0,clear
+206,Bengal Gram(Gram),Jaspur,2017-03-31,4500.0,0.3,38.0,clear
+207,Bengal Gram(Gram),Kunkuri,2017-03-31,4500.0,1.1,38.0,clear
+208,Black Gram (Urd Beans),Kunkuri,2017-03-31,4500.0,2.3,38.0,clear
+209,Black Gram (Urd Beans),Pathalgaon,2017-03-31,4600.0,4.0,38.0,clear
+210,Lentil(Masur),Pathalgaon,2017-03-31,3500.0,2.0,38.0,clear
+211,Bengal Gram(Gram),Jaspur,2017-04-20,4000.0,0.3,40.6,clear
+212,Lentil(Masur),Jaspur,2017-04-20,3500.0,0.1,40.6,clear
+213,Bengal Gram(Gram),Jaspur,2017-06-27,4000.0,0.2,31.4,rain
+214,Black Gram (Urd Beans),Jaspur,2017-06-27,5000.0,0.2,31.4,rain
+215,Bengal Gram(Gram),Jaspur,2017-08-22,4000.0,0.4,26.8,clear
+216,Lentil(Masur),Jaspur,2017-08-22,4000.0,0.1,26.8,clear
+217,Bengal Gram(Gram),Jaspur,2017-09-30,4000.0,0.1,30.6,clear
+218,Lentil(Masur),Pathalgaon,2017-09-30,3000.0,0.5,30.6,clear
+219,Bengal Gram(Gram),Kunkuri,2017-06-20,4500.0,0.2,36.2,clear
+220,Black Gram (Urd Beans),Kunkuri,2017-06-20,4500.0,1.0,36.2,clear
+221,Bengal Gram(Gram),Kunkuri,2017-09-28,5000.0,0.5,29.6,clear
+222,Black Gram (Urd Beans),Kunkuri,2017-09-28,5000.0,0.5,29.6,clear
+223,Bengal Gram(Gram),Kunkuri,2017-10-16,5000.0,0.5,31.2,clear
+224,Bengal Gram(Gram),Pathalgaon,2017-03-27,3600.0,30.0,37.0,clear
+225,Bengal Gram(Gram),Pathalgaon,2017-06-15,3000.0,1.0,39.2,clear
+226,Bengal Gram(Gram),Pathalgaon,2017-06-25,4000.0,30.0,32.2,clear
+227,Bengal Gram(Gram),Pathalgaon,2017-06-26,4200.0,20.0,32.2,clear
+228,Black Gram (Urd Beans),Jaspur,2017-11-01,5000.0,4.0,26.2,clear
+229,Black Gram (Urd Beans),Kunkuri,2017-01-31,4000.0,0.3,25.2,clear
+230,Black Gram (Urd Beans),Pathalgaon,2017-03-26,4600.0,1.5,35.6,clear
+231,Black Gram (Urd Beans),Pathalgaon,2017-07-25,4600.0,1.0,25.2,clear
+232,Black Gram (Urd Beans),Pathalgaon,2017-10-17,3525.0,20.0,30.0,clear
+233,Lentil(Masur),Kotba,2017-08-30,3000.0,2.0,29.0,clear
+234,Lentil(Masur),Pathalgaon,2017-07-26,3000.0,1.0,23.8,rain
+235,Lentil(Masur),Pathalgaon,2017-08-31,3500.0,2.0,30.4,clear

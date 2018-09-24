@@ -1,0 +1,990 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Bengal Gram(Gram),Badwani,2015-12-18,3200.0,0.85,24.6,clear
+1,Green Gram (Moong),Badwani,2015-12-18,6000.0,2.79,24.6,clear
+2,Black Gram (Urd Beans),Sendhwa,2015-12-11,8500.0,2.0,28.4,clear
+3,Black Gram (Urd Beans),Sendhwa,2015-12-14,10300.0,0.3,25.4,clear
+4,Black Gram (Urd Beans),Sendhwa,2015-12-16,9750.0,1.5,26.8,clear
+5,Black Gram (Urd Beans),Sendhwa,2015-12-24,10200.0,1.5,22.8,clear
+6,Green Gram (Moong),Sendhwa,2015-12-24,6450.0,3.5,22.8,clear
+7,Green Gram (Moong),Badwani,2015-12-19,7000.0,7.5,27.0,clear
+8,Arhar (Tur/Red Gram),Anjad,2016-07-24,4000.0,45.0,31.4,clear
+9,Bengal Gram(Gram),Anjad,2016-07-24,3425.0,38.0,31.4,clear
+10,Arhar (Tur/Red Gram),Anjad,2016-07-25,5000.0,2.0,29.8,clear
+11,Bengal Gram(Gram),Anjad,2016-07-25,4000.0,27.57,29.8,clear
+12,Bengal Gram(Gram),Sendhwa,2016-07-25,7600.0,2.2,29.8,clear
+13,Arhar (Tur/Red Gram),Anjad,2016-07-29,4425.0,19.5,28.8,clear
+14,Bengal Gram(Gram),Anjad,2016-07-29,3425.0,2.2,28.8,clear
+15,Arhar (Tur/Red Gram),Anjad,2016-01-08,4500.0,12.0,28.8,clear
+16,Bengal Gram(Gram),Anjad,2016-01-08,4000.0,3.0,28.8,clear
+17,Green Gram (Moong),Anjad,2016-01-08,4400.0,0.3,28.8,clear
+18,Arhar (Tur/Red Gram),Anjad,2016-08-08,5000.0,5.5,27.0,clear
+19,Bengal Gram(Gram),Badwani,2016-08-08,5500.0,0.37,27.0,clear
+20,Green Gram (Moong),Anjad,2016-08-08,3800.0,6.1,27.0,clear
+21,Green Gram (Moong),Badwani,2016-08-08,5100.0,0.6,27.0,clear
+22,Arhar (Tur/Red Gram),Anjad,2016-07-09,4625.0,25.0,27.4,clear
+23,Bengal Gram(Gram),Sendhwa,2016-07-09,6675.0,5.0,27.4,clear
+24,Green Gram (Moong),Sendhwa,2016-07-09,4901.0,1.0,27.4,clear
+25,Arhar (Tur/Red Gram),Anjad,2016-10-14,5000.0,0.0,31.2,clear
+26,Bengal Gram(Gram),Anjad,2016-10-14,4000.0,39.0,31.2,clear
+27,Green Gram (Moong),Badwani,2016-10-14,4800.0,4.68,31.2,clear
+28,Arhar (Tur/Red Gram),Badwani,2016-11-01,7000.0,0.3,28.0,clear
+29,Black Gram (Urd Beans),Badwani,2016-11-01,9000.0,1.13,28.0,clear
+30,Green Gram (Moong),Badwani,2016-11-01,6800.0,1.55,28.0,clear
+31,Arhar (Tur/Red Gram),Badwani,2016-01-23,6500.0,3.1,26.8,clear
+32,Arhar (Tur/Red Gram),Balwadi,2016-01-23,6800.0,9.0,26.8,clear
+33,Green Gram (Moong),Badwani,2016-01-23,6500.0,0.6,26.8,clear
+34,Arhar (Tur/Red Gram),Badwani,2016-08-02,6000.0,0.3,24.6,clear
+35,Bengal Gram(Gram),Badwani,2016-08-02,3200.0,0.24,24.6,clear
+36,Arhar (Tur/Red Gram),Badwani,2016-04-20,7000.0,0.2,42.2,clear
+37,Bengal Gram(Gram),Badwani,2016-04-20,4500.0,6.3,42.2,clear
+38,Black Gram (Urd Beans),Badwani,2016-04-20,9000.0,16.0,42.2,clear
+39,Arhar (Tur/Red Gram),Badwani,2016-05-05,6500.0,0.2,32.4,clear
+40,Bengal Gram(Gram),Badwani,2016-05-05,5000.0,0.2,32.4,clear
+41,Bengal Gram(Gram),Sendhwa,2016-05-05,4950.0,6.0,32.4,clear
+42,Green Gram (Moong),Badwani,2016-05-05,6000.0,2.6,32.4,clear
+43,Arhar (Tur/Red Gram),Badwani,2016-06-05,7000.0,0.14,44.2,clear
+44,Bengal Gram(Gram),Badwani,2016-06-05,7000.0,0.11,44.2,clear
+45,Green Gram (Moong),Badwani,2016-06-05,6000.0,3.4,44.2,clear
+46,Arhar (Tur/Red Gram),Badwani,2016-05-13,7300.0,2.2,43.0,clear
+47,Bengal Gram(Gram),Badwani,2016-05-13,5000.0,3.62,43.0,clear
+48,Bengal Gram(Gram),Sendhwa,2016-05-13,5400.0,4.7,43.0,clear
+49,Arhar (Tur/Red Gram),Badwani,2016-07-22,7100.0,0.95,29.8,clear
+50,Green Gram (Moong),Anjad,2016-07-22,5000.0,0.0,29.8,clear
+51,Arhar (Tur/Red Gram),Badwani,2016-07-08,6000.0,0.2,28.6,clear
+52,Bengal Gram(Gram),Badwani,2016-07-08,6500.0,0.36,28.6,clear
+53,Green Gram (Moong),Badwani,2016-07-08,5000.0,1.15,28.6,clear
+54,Arhar (Tur/Red Gram),Badwani,2016-02-09,4400.0,11.87,31.0,clear
+55,Green Gram (Moong),Anjad,2016-02-09,4000.0,6.9,31.0,clear
+56,Arhar (Tur/Red Gram),Badwani,2016-06-09,5000.0,0.18,41.6,clear
+57,Bengal Gram(Gram),Anjad,2016-06-09,5000.0,34.2,41.6,clear
+58,Bengal Gram(Gram),Badwani,2016-06-09,6500.0,0.85,41.6,clear
+59,Bengal Gram(Gram),Sendhwa,2016-06-09,6500.0,1.5,41.6,clear
+60,Green Gram (Moong),Anjad,2016-06-09,4400.0,4.5,41.6,clear
+61,Green Gram (Moong),Badwani,2016-06-09,4600.0,24.62,41.6,clear
+62,Arhar (Tur/Red Gram),Badwani,2016-09-26,6500.0,0.21,27.8,clear
+63,Black Gram (Urd Beans),Balwadi,2016-09-26,5500.0,1.5,27.8,clear
+64,Green Gram (Moong),Badwani,2016-09-26,4700.0,35.9,27.8,clear
+65,Green Gram (Moong),Balwadi,2016-09-26,5000.0,4.9,27.8,clear
+66,Arhar (Tur/Red Gram),Badwani,2016-08-11,1600.0,22.0,26.2,rain
+67,Black Gram (Urd Beans),Sendhwa,2016-08-11,5700.0,0.3,26.2,rain
+68,Green Gram (Moong),Anjad,2016-08-11,4500.0,6.2,26.2,rain
+69,Arhar (Tur/Red Gram),Balwadi,2016-01-01,6500.0,12.5,31.2,clear
+70,Black Gram (Urd Beans),Sendhwa,2016-01-01,8950.0,1.5,31.2,clear
+71,Arhar (Tur/Red Gram),Balwadi,2016-02-01,6450.0,12.0,30.8,clear
+72,Arhar (Tur/Red Gram),Balwadi,2016-03-01,6600.0,15.1,28.0,clear
+73,Arhar (Tur/Red Gram),Balwadi,2016-04-01,6300.0,8.0,40.2,clear
+74,Black Gram (Urd Beans),Anjad,2016-04-01,8000.0,2.1,40.2,clear
+75,Black Gram (Urd Beans),Sendhwa,2016-04-01,9550.0,0.2,40.2,clear
+76,Green Gram (Moong),Anjad,2016-04-01,6500.0,2.4,40.2,clear
+77,Arhar (Tur/Red Gram),Balwadi,2016-05-01,6500.0,12.5,41.8,clear
+78,Black Gram (Urd Beans),Sendhwa,2016-05-01,9200.0,1.0,41.8,clear
+79,Arhar (Tur/Red Gram),Balwadi,2016-01-16,7500.0,11.0,24.8,clear
+80,Black Gram (Urd Beans),Sendhwa,2016-01-16,9313.0,0.2,24.8,clear
+81,Arhar (Tur/Red Gram),Balwadi,2016-01-17,7500.0,13.0,25.0,clear
+82,Arhar (Tur/Red Gram),Balwadi,2016-01-18,7500.0,15.0,25.6,clear
+83,Black Gram (Urd Beans),Sendhwa,2016-01-18,9829.0,0.2,25.6,clear
+84,Arhar (Tur/Red Gram),Balwadi,2016-01-20,7500.0,15.0,23.4,clear
+85,Black Gram (Urd Beans),Sendhwa,2016-01-20,8925.0,1.5,23.4,clear
+86,Arhar (Tur/Red Gram),Balwadi,2016-01-22,7500.0,10.0,23.2,clear
+87,Black Gram (Urd Beans),Sendhwa,2016-01-22,9005.0,1.0,23.2,clear
+88,Arhar (Tur/Red Gram),Balwadi,2016-01-26,4000.0,5.0,28.6,clear
+89,Arhar (Tur/Red Gram),Balwadi,2016-01-27,7000.0,10.0,29.0,clear
+90,Arhar (Tur/Red Gram),Balwadi,2016-01-02,7000.0,60.0,28.0,clear
+91,Black Gram (Urd Beans),Balwadi,2016-01-02,8500.0,2.0,28.0,clear
+92,Black Gram (Urd Beans),Sendhwa,2016-01-02,9200.0,0.3,28.0,clear
+93,Arhar (Tur/Red Gram),Balwadi,2016-03-02,8000.0,5.4,35.6,clear
+94,Arhar (Tur/Red Gram),Balwadi,2016-02-19,6500.0,2.6,36.6,clear
+95,Bengal Gram(Gram),Sendhwa,2016-02-19,4187.0,9.6,36.6,clear
+96,Arhar (Tur/Red Gram),Balwadi,2016-04-03,6200.0,8.5,42.0,clear
+97,Bengal Gram(Gram),Sendhwa,2016-04-03,4225.0,6.5,42.0,clear
+98,Black Gram (Urd Beans),Anjad,2016-04-03,4425.0,1.18,42.0,clear
+99,Arhar (Tur/Red Gram),Balwadi,2016-07-03,6200.0,1.2,28.4,rain
+100,Bengal Gram(Gram),Badwani,2016-07-03,5000.0,5.28,28.4,rain
+101,Black Gram (Urd Beans),Balwadi,2016-07-03,6000.0,3.1,28.4,rain
+102,Green Gram (Moong),Badwani,2016-07-03,6000.0,0.6,28.4,rain
+103,Arhar (Tur/Red Gram),Balwadi,2016-10-03,7000.0,13.0,26.6,clear
+104,Bengal Gram(Gram),Sendhwa,2016-10-03,4250.0,5.0,26.6,clear
+105,Black Gram (Urd Beans),Sendhwa,2016-10-03,8590.0,2.7,26.6,clear
+106,Arhar (Tur/Red Gram),Balwadi,2016-11-04,7000.0,16.9,27.4,clear
+107,Arhar (Tur/Red Gram),Balwadi,2016-10-05,6800.0,6.0,26.6,rain
+108,Bengal Gram(Gram),Sendhwa,2016-10-05,5050.0,5.0,26.6,rain
+109,Black Gram (Urd Beans),Sendhwa,2016-10-05,10500.0,1.9,26.6,rain
+110,Green Gram (Moong),Balwadi,2016-10-05,6200.0,8.5,26.6,rain
+111,Arhar (Tur/Red Gram),Balwadi,2016-11-05,6800.0,3.0,28.2,clear
+112,Arhar (Tur/Red Gram),Balwadi,2016-09-09,5000.0,1.3,32.2,clear
+113,Black Gram (Urd Beans),Balwadi,2016-09-09,5000.0,0.9,32.2,clear
+114,Green Gram (Moong),Balwadi,2016-09-09,4100.0,3.2,32.2,clear
+115,Arhar (Tur/Red Gram),Balwadi,2016-09-29,5000.0,1.0,30.4,clear
+116,Green Gram (Moong),Badwani,2016-09-29,4700.0,7.5,30.4,clear
+117,Arhar (Tur/Red Gram),Balwadi,2016-09-30,5000.0,10.2,29.4,clear
+118,Green Gram (Moong),Anjad,2016-09-30,4600.0,17.7,29.4,clear
+119,Green Gram (Moong),Balwadi,2016-09-30,5000.0,6.2,29.4,clear
+120,Green Gram (Moong),Sendhwa,2016-09-30,4851.0,0.1,29.4,clear
+121,Arhar (Tur/Red Gram),Balwadi,2016-10-18,4000.0,6.0,30.8,clear
+122,Arhar (Tur/Red Gram),Balwadi,2016-01-11,5000.0,4.8,28.4,clear
+123,Black Gram (Urd Beans),Badwani,2016-01-11,4500.0,9.0,28.4,clear
+124,Green Gram (Moong),Badwani,2016-01-11,4500.0,11.65,28.4,clear
+125,Green Gram (Moong),Balwadi,2016-01-11,5300.0,2.65,28.4,clear
+126,Arhar (Tur/Red Gram),Balwadi,2016-11-20,4600.0,34.7,27.0,clear
+127,Arhar (Tur/Red Gram),Balwadi,2016-11-27,4650.0,9.3,29.2,clear
+128,Bengal Gram(Gram),Badwani,2016-11-27,6000.0,1.4,29.2,clear
+129,Green Gram (Moong),Badwani,2016-11-27,4300.0,1.8,29.2,clear
+130,Arhar (Tur/Red Gram),Balwadi,2016-10-12,4000.0,0.5,30.0,clear
+131,Black Gram (Urd Beans),Balwadi,2016-10-12,5000.0,1.5,30.0,clear
+132,Black Gram (Urd Beans),Sendhwa,2016-10-12,4575.0,0.7,30.0,clear
+133,Arhar (Tur/Red Gram),Balwadi,2016-12-13,4600.0,28.9,28.2,clear
+134,Arhar (Tur/Red Gram),Balwadi,2016-12-25,4600.0,27.1,27.6,clear
+135,Black Gram (Urd Beans),Balwadi,2016-12-25,4000.0,2.4,27.6,clear
+136,Bengal Gram(Gram),Anjad,2016-09-23,2800.0,0.0,31.8,clear
+137,Green Gram (Moong),Badwani,2016-09-23,4800.0,4.8,31.8,clear
+138,Green Gram (Moong),Sendhwa,2016-09-23,5050.0,0.1,31.8,clear
+139,Bengal Gram(Gram),Anjad,2016-09-28,5000.0,10.0,27.6,clear
+140,Green Gram (Moong),Anjad,2016-09-28,3500.0,2.0,27.6,clear
+141,Bengal Gram(Gram),Anjad,2016-10-13,6000.0,8.8,29.4,clear
+142,Bengal Gram(Gram),Badwani,2016-01-03,5000.0,1.4,27.6,clear
+143,Bengal Gram(Gram),Badwani,2016-01-04,5000.0,10.28,29.4,clear
+144,Green Gram (Moong),Badwani,2016-01-04,6000.0,0.3,29.4,clear
+145,Bengal Gram(Gram),Badwani,2016-06-04,4500.0,2.2,43.6,clear
+146,Green Gram (Moong),Badwani,2016-06-04,6000.0,1.55,43.6,clear
+147,Bengal Gram(Gram),Badwani,2016-07-04,4500.0,2.35,31.4,clear
+148,Bengal Gram(Gram),Sendhwa,2016-07-04,4750.0,9.0,31.4,clear
+149,Bengal Gram(Gram),Badwani,2016-10-04,3650.0,7.2,27.6,clear
+150,Bengal Gram(Gram),Badwani,2016-04-27,4500.0,0.6,35.0,clear
+151,Bengal Gram(Gram),Badwani,2016-05-27,4000.0,0.65,40.2,clear
+152,Bengal Gram(Gram),Badwani,2016-06-19,5000.0,0.28,29.6,clear
+153,Green Gram (Moong),Anjad,2016-06-19,5000.0,2.5,29.6,clear
+154,Green Gram (Moong),Badwani,2016-06-19,5300.0,5.65,29.6,clear
+155,Bengal Gram(Gram),Badwani,2016-06-27,5500.0,0.28,34.4,clear
+156,Green Gram (Moong),Anjad,2016-06-27,4650.0,1.77,34.4,clear
+157,Green Gram (Moong),Badwani,2016-06-27,5300.0,3.4,34.4,clear
+158,Bengal Gram(Gram),Badwani,2016-12-27,9000.0,0.25,23.8,clear
+159,Black Gram (Urd Beans),Badwani,2016-12-27,5200.0,11.85,23.8,clear
+160,Bengal Gram(Gram),Sendhwa,2016-09-02,3550.0,14.9,29.0,clear
+161,Black Gram (Urd Beans),Sendhwa,2016-09-02,8500.0,5.0,29.0,clear
+162,Green Gram (Moong),Badwani,2016-09-02,5500.0,1.44,29.0,clear
+163,Bengal Gram(Gram),Sendhwa,2016-11-02,3521.0,1.5,29.4,clear
+164,Black Gram (Urd Beans),Sendhwa,2016-11-02,8170.0,0.8,29.4,clear
+165,Bengal Gram(Gram),Sendhwa,2016-12-02,4020.0,4.2,27.8,clear
+166,Bengal Gram(Gram),Sendhwa,2016-02-13,3800.0,8.9,28.4,clear
+167,Black Gram (Urd Beans),Sendhwa,2016-02-13,8300.0,0.2,28.4,clear
+168,Bengal Gram(Gram),Sendhwa,2016-02-16,4011.0,3.8,32.4,clear
+169,Bengal Gram(Gram),Sendhwa,2016-02-17,4050.0,0.6,35.0,clear
+170,Bengal Gram(Gram),Sendhwa,2016-02-22,4050.0,3.5,32.0,clear
+171,Bengal Gram(Gram),Sendhwa,2016-02-23,4150.0,5.5,32.8,clear
+172,Bengal Gram(Gram),Sendhwa,2016-02-25,4050.0,0.4,33.6,clear
+173,Bengal Gram(Gram),Sendhwa,2016-02-26,4030.0,9.3,34.4,clear
+174,Black Gram (Urd Beans),Sendhwa,2016-02-26,8121.0,0.5,34.4,clear
+175,Bengal Gram(Gram),Sendhwa,2016-02-29,4000.0,17.6,35.4,clear
+176,Black Gram (Urd Beans),Sendhwa,2016-02-29,7600.0,2.9,35.4,clear
+177,Bengal Gram(Gram),Sendhwa,2016-03-03,4200.0,1.0,32.0,clear
+178,Black Gram (Urd Beans),Sendhwa,2016-03-03,8850.0,4.3,32.0,clear
+179,Bengal Gram(Gram),Sendhwa,2016-05-03,4115.0,8.1,43.0,clear
+180,Bengal Gram(Gram),Sendhwa,2016-08-03,4285.0,7.0,26.8,clear
+181,Bengal Gram(Gram),Sendhwa,2016-09-03,4040.0,16.4,29.2,clear
+182,Bengal Gram(Gram),Sendhwa,2016-11-03,4200.0,9.7,28.6,clear
+183,Black Gram (Urd Beans),Sendhwa,2016-11-03,8060.0,0.8,28.6,clear
+184,Bengal Gram(Gram),Sendhwa,2016-03-15,4450.0,1.0,35.0,clear
+185,Bengal Gram(Gram),Sendhwa,2016-03-16,4350.0,7.0,34.4,clear
+186,Bengal Gram(Gram),Sendhwa,2016-03-18,4400.0,3.0,38.4,clear
+187,Bengal Gram(Gram),Sendhwa,2016-03-22,4300.0,6.0,37.0,clear
+188,Bengal Gram(Gram),Sendhwa,2016-03-26,4300.0,2.0,40.0,clear
+189,Bengal Gram(Gram),Sendhwa,2016-03-29,4012.0,3.0,39.2,clear
+190,Bengal Gram(Gram),Sendhwa,2016-03-30,3967.0,4.0,40.2,clear
+191,Green Gram (Moong),Anjad,2016-03-30,4650.0,1.26,40.2,clear
+192,Bengal Gram(Gram),Sendhwa,2016-02-04,4011.0,2.0,27.4,clear
+193,Bengal Gram(Gram),Sendhwa,2016-04-04,4450.0,4.5,39.4,clear
+194,Green Gram (Moong),Anjad,2016-04-04,4650.0,2.9,39.4,clear
+195,Bengal Gram(Gram),Sendhwa,2016-05-04,4662.0,7.5,33.8,clear
+196,Bengal Gram(Gram),Sendhwa,2016-08-04,4450.0,4.0,33.2,clear
+197,Bengal Gram(Gram),Sendhwa,2016-09-04,4750.0,0.1,29.6,clear
+198,Black Gram (Urd Beans),Sendhwa,2016-09-04,10037.0,7.2,29.6,clear
+199,Bengal Gram(Gram),Sendhwa,2016-04-16,4400.0,2.0,41.4,clear
+200,Black Gram (Urd Beans),Sendhwa,2016-04-16,10500.0,1.0,41.4,clear
+201,Bengal Gram(Gram),Sendhwa,2016-04-19,4500.0,3.0,41.8,clear
+202,Bengal Gram(Gram),Sendhwa,2016-04-22,4575.0,12.0,39.4,clear
+203,Bengal Gram(Gram),Sendhwa,2016-04-25,4550.0,6.5,38.6,clear
+204,Bengal Gram(Gram),Sendhwa,2016-04-26,4350.0,10.8,39.4,clear
+205,Bengal Gram(Gram),Sendhwa,2016-04-28,4500.0,16.5,40.9,clear
+206,Green Gram (Moong),Badwani,2016-04-28,6000.0,6.0,40.9,clear
+207,Bengal Gram(Gram),Sendhwa,2016-04-29,4750.0,6.0,41.8,clear
+208,Bengal Gram(Gram),Sendhwa,2016-04-30,4700.0,10.3,42.0,clear
+209,Bengal Gram(Gram),Sendhwa,2016-04-05,5100.0,10.3,37.4,clear
+210,Bengal Gram(Gram),Sendhwa,2016-07-05,4450.0,6.0,32.4,clear
+211,Bengal Gram(Gram),Sendhwa,2016-09-05,5050.0,4.0,30.6,clear
+212,Green Gram (Moong),Balwadi,2016-09-05,6000.0,3.0,30.6,clear
+213,Bengal Gram(Gram),Sendhwa,2016-12-05,5050.0,9.0,26.0,clear
+214,Bengal Gram(Gram),Sendhwa,2016-05-16,5625.0,3.0,42.2,clear
+215,Green Gram (Moong),Khetia,2016-05-16,5600.0,0.0,42.2,clear
+216,Bengal Gram(Gram),Sendhwa,2016-05-17,5550.0,5.7,43.2,clear
+217,Bengal Gram(Gram),Sendhwa,2016-05-18,5550.0,5.0,45.8,clear
+218,Green Gram (Moong),Badwani,2016-05-18,6000.0,4.0,45.8,clear
+219,Bengal Gram(Gram),Sendhwa,2016-05-19,5605.0,0.0,45.2,clear
+220,Green Gram (Moong),Badwani,2016-05-19,5800.0,2.0,45.2,clear
+221,Bengal Gram(Gram),Sendhwa,2016-05-20,5550.0,1.5,42.2,clear
+222,Bengal Gram(Gram),Sendhwa,2016-05-23,5450.0,13.8,40.4,clear
+223,Bengal Gram(Gram),Sendhwa,2016-05-25,5300.0,5.0,38.6,clear
+224,Bengal Gram(Gram),Sendhwa,2016-05-28,5225.0,4.0,40.0,clear
+225,Green Gram (Moong),Badwani,2016-05-28,5600.0,3.0,40.0,clear
+226,Green Gram (Moong),Khetia,2016-05-28,5600.0,1.0,40.0,clear
+227,Bengal Gram(Gram),Sendhwa,2016-05-31,5300.0,2.0,38.6,clear
+228,Bengal Gram(Gram),Sendhwa,2016-10-06,6200.0,2.6,29.4,clear
+229,Green Gram (Moong),Badwani,2016-10-06,5500.0,6.35,29.4,clear
+230,Bengal Gram(Gram),Sendhwa,2016-06-22,5300.0,2.0,29.2,clear
+231,Bengal Gram(Gram),Sendhwa,2016-06-23,5000.0,2.7,30.2,clear
+232,Green Gram (Moong),Badwani,2016-06-23,5300.0,2.5,30.2,clear
+233,Bengal Gram(Gram),Sendhwa,2016-12-07,6000.0,1.9,27.0,clear
+234,Bengal Gram(Gram),Sendhwa,2016-07-21,7500.0,2.0,31.2,clear
+235,Green Gram (Moong),Anjad,2016-07-21,4650.0,22.0,31.2,clear
+236,Bengal Gram(Gram),Sendhwa,2016-07-26,7500.0,1.5,27.6,rain
+237,Green Gram (Moong),Badwani,2016-07-26,5000.0,6.0,27.6,rain
+238,Bengal Gram(Gram),Sendhwa,2016-03-08,7100.0,2.2,34.6,clear
+239,Bengal Gram(Gram),Sendhwa,2016-04-08,7200.0,2.0,39.4,clear
+240,Bengal Gram(Gram),Sendhwa,2016-11-08,7050.0,10.0,28.4,clear
+241,Bengal Gram(Gram),Sendhwa,2016-08-17,6775.0,9.3,31.8,clear
+242,Bengal Gram(Gram),Sendhwa,2016-08-19,6780.0,0.6,27.2,clear
+243,Bengal Gram(Gram),Sendhwa,2016-08-24,6013.0,12.1,30.4,clear
+244,Green Gram (Moong),Badwani,2016-08-24,4500.0,3.0,30.4,clear
+245,Bengal Gram(Gram),Sendhwa,2016-08-26,5900.0,0.7,32.4,clear
+246,Green Gram (Moong),Badwani,2016-08-26,4300.0,9.7,32.4,clear
+247,Bengal Gram(Gram),Sendhwa,2016-08-29,5413.0,10.0,32.4,clear
+248,Bengal Gram(Gram),Sendhwa,2016-08-09,6625.0,3.0,29.0,clear
+249,Green Gram (Moong),Badwani,2016-08-09,4600.0,17.3,29.0,clear
+250,Bengal Gram(Gram),Sendhwa,2016-10-09,6515.0,5.0,28.2,clear
+251,Green Gram (Moong),Badwani,2016-10-09,4600.0,8.0,28.2,clear
+252,Bengal Gram(Gram),Sendhwa,2016-09-21,7900.0,4.5,29.0,clear
+253,Green Gram (Moong),Anjad,2016-09-21,4200.0,5.0,29.0,clear
+254,Bengal Gram(Gram),Sendhwa,2016-08-10,8700.0,5.0,27.8,clear
+255,Bengal Gram(Gram),Sendhwa,2016-05-11,7505.0,1.7,40.4,clear
+256,Bengal Gram(Gram),Sendhwa,2016-11-26,8550.0,0.6,28.4,clear
+257,Bengal Gram(Gram),Sendhwa,2016-11-29,8602.0,0.5,28.0,clear
+258,Green Gram (Moong),Badwani,2016-11-29,4500.0,4.62,28.0,clear
+259,Black Gram (Urd Beans),Anjad,2016-10-01,4425.0,3.5,29.2,clear
+260,Black Gram (Urd Beans),Anjad,2016-02-03,4425.0,0.6,28.6,clear
+261,Black Gram (Urd Beans),Anjad,2016-12-04,4425.0,0.9,27.4,clear
+262,Green Gram (Moong),Badwani,2016-12-04,6500.0,7.8,27.4,clear
+263,Black Gram (Urd Beans),Anjad,2016-04-17,4425.0,4.6,40.4,clear
+264,Black Gram (Urd Beans),Anjad,2016-05-10,5500.0,4.2,40.0,clear
+265,Green Gram (Moong),Anjad,2016-05-10,4800.0,4.2,40.0,clear
+266,Green Gram (Moong),Badwani,2016-05-10,4600.0,13.2,40.0,clear
+267,Black Gram (Urd Beans),Anjad,2016-12-10,4600.0,3.8,26.4,clear
+268,Black Gram (Urd Beans),Sendhwa,2016-12-10,6100.0,0.1,26.4,clear
+269,Green Gram (Moong),Balwadi,2016-12-10,4700.0,20.5,26.4,clear
+270,Black Gram (Urd Beans),Anjad,2016-10-16,5000.0,5.4,31.2,clear
+271,Black Gram (Urd Beans),Anjad,2016-10-20,4800.0,7.38,30.8,clear
+272,Black Gram (Urd Beans),Sendhwa,2016-10-20,6775.0,2.2,30.8,clear
+273,Green Gram (Moong),Badwani,2016-10-20,4500.0,10.0,30.8,clear
+274,Black Gram (Urd Beans),Anjad,2016-07-11,4600.0,1.1,25.6,rain
+275,Green Gram (Moong),Badwani,2016-07-11,4300.0,12.7,25.6,rain
+276,Black Gram (Urd Beans),Anjad,2016-02-12,4800.0,3.0,29.4,clear
+277,Black Gram (Urd Beans),Badwani,2016-10-23,5800.0,42.0,30.8,clear
+278,Black Gram (Urd Beans),Badwani,2016-11-14,5200.0,40.0,27.8,clear
+279,Black Gram (Urd Beans),Sendhwa,2016-11-14,5450.0,1.5,27.8,clear
+280,Black Gram (Urd Beans),Badwani,2016-11-15,5200.0,40.0,27.4,clear
+281,Black Gram (Urd Beans),Badwani,2016-11-22,4800.0,11.0,27.0,clear
+282,Black Gram (Urd Beans),Sendhwa,2016-11-22,5100.0,1.5,27.0,clear
+283,Black Gram (Urd Beans),Balwadi,2016-02-20,7500.0,0.4,31.4,clear
+284,Black Gram (Urd Beans),Balwadi,2016-06-03,4000.0,12.0,42.6,clear
+285,Black Gram (Urd Beans),Balwadi,2016-03-11,4800.0,1.9,39.0,clear
+286,Black Gram (Urd Beans),Sendhwa,2016-03-11,6159.0,2.7,39.0,clear
+287,Green Gram (Moong),Balwadi,2016-03-11,5300.0,0.65,39.0,clear
+288,Black Gram (Urd Beans),Balwadi,2016-11-24,5800.0,7.4,29.0,clear
+289,Black Gram (Urd Beans),Sendhwa,2016-11-24,5050.0,1.2,29.0,clear
+290,Green Gram (Moong),Sendhwa,2016-11-24,5226.0,0.4,29.0,clear
+291,Black Gram (Urd Beans),Balwadi,2016-12-19,7000.0,1.2,24.4,clear
+292,Black Gram (Urd Beans),Sendhwa,2016-12-19,5145.0,0.8,24.4,clear
+293,Black Gram (Urd Beans),Sendhwa,2016-06-01,9600.0,1.0,40.6,clear
+294,Black Gram (Urd Beans),Sendhwa,2016-07-01,9753.0,0.5,34.6,clear
+295,Black Gram (Urd Beans),Sendhwa,2016-08-01,9600.0,0.2,25.4,clear
+296,Black Gram (Urd Beans),Sendhwa,2016-09-01,9650.0,0.1,27.0,rain
+297,Black Gram (Urd Beans),Sendhwa,2016-01-21,8841.0,9.3,23.4,clear
+298,Black Gram (Urd Beans),Sendhwa,2016-01-25,9650.0,2.0,28.6,clear
+299,Black Gram (Urd Beans),Sendhwa,2016-01-28,9450.0,3.0,29.6,clear
+300,Black Gram (Urd Beans),Sendhwa,2016-02-27,7800.0,4.5,34.2,clear
+301,Black Gram (Urd Beans),Sendhwa,2016-05-26,9650.0,11.0,40.0,clear
+302,Green Gram (Moong),Badwani,2016-05-26,5500.0,17.0,40.0,clear
+303,Black Gram (Urd Beans),Sendhwa,2016-10-19,6000.0,1.2,31.2,clear
+304,Green Gram (Moong),Badwani,2016-10-19,4400.0,9.0,31.2,clear
+305,Black Gram (Urd Beans),Sendhwa,2016-10-21,6500.0,1.4,31.0,clear
+306,Black Gram (Urd Beans),Sendhwa,2016-10-24,6050.0,4.2,30.0,clear
+307,Black Gram (Urd Beans),Sendhwa,2016-10-25,5400.0,0.5,29.2,clear
+308,Green Gram (Moong),Badwani,2016-10-25,4525.0,12.0,29.2,clear
+309,Black Gram (Urd Beans),Sendhwa,2016-10-27,6038.0,1.1,32.4,clear
+310,Black Gram (Urd Beans),Sendhwa,2016-10-28,6402.0,0.4,28.8,clear
+311,Black Gram (Urd Beans),Sendhwa,2016-02-11,6133.0,3.3,31.0,clear
+312,Green Gram (Moong),Anjad,2016-02-11,4500.0,8.0,31.0,clear
+313,Green Gram (Moong),Badwani,2016-02-11,4600.0,12.0,31.0,clear
+314,Black Gram (Urd Beans),Sendhwa,2016-04-11,6010.0,5.0,39.2,clear
+315,Black Gram (Urd Beans),Sendhwa,2016-11-17,5410.0,1.5,27.8,clear
+316,Black Gram (Urd Beans),Sendhwa,2016-11-19,5000.0,0.7,27.2,clear
+317,Black Gram (Urd Beans),Sendhwa,2016-11-21,5025.0,1.5,27.4,clear
+318,Black Gram (Urd Beans),Sendhwa,2016-11-25,5075.0,1.9,28.6,clear
+319,Black Gram (Urd Beans),Sendhwa,2016-11-28,5128.0,0.8,28.2,clear
+320,Black Gram (Urd Beans),Sendhwa,2016-09-12,4901.0,0.2,31.6,clear
+321,Black Gram (Urd Beans),Sendhwa,2016-12-20,4650.0,0.4,25.4,clear
+322,Green Gram (Moong),Anjad,2016-12-20,4100.0,5.4,25.4,clear
+323,Black Gram (Urd Beans),Sendhwa,2016-12-21,4772.0,0.3,27.0,clear
+324,Black Gram (Urd Beans),Sendhwa,2016-12-28,5411.0,0.3,26.6,clear
+325,Green Gram (Moong),Anjad,2016-01-19,5000.0,0.8,25.8,clear
+326,Green Gram (Moong),Anjad,2016-02-28,4650.0,0.3,34.0,clear
+327,Green Gram (Moong),Anjad,2016-04-21,4650.0,4.4,40.6,clear
+328,Green Gram (Moong),Anjad,2016-05-06,4650.0,3.1,32.6,clear
+329,Green Gram (Moong),Badwani,2016-05-06,5500.0,4.0,32.6,clear
+330,Green Gram (Moong),Anjad,2016-06-13,4650.0,25.0,39.4,clear
+331,Green Gram (Moong),Anjad,2016-06-26,4650.0,3.0,36.0,clear
+332,Green Gram (Moong),Badwani,2016-06-26,5300.0,2.5,36.0,clear
+333,Green Gram (Moong),Anjad,2016-06-28,4650.0,1.4,34.4,clear
+334,Green Gram (Moong),Anjad,2016-07-20,4650.0,2.5,31.0,clear
+335,Green Gram (Moong),Anjad,2016-05-08,4300.0,1.1,35.0,clear
+336,Green Gram (Moong),Anjad,2016-08-21,3300.0,13.7,27.8,clear
+337,Green Gram (Moong),Anjad,2016-08-27,4100.0,9.7,30.2,clear
+338,Green Gram (Moong),Badwani,2016-08-27,4500.0,21.29,30.2,clear
+339,Green Gram (Moong),Anjad,2016-01-09,4200.0,1.0,28.6,clear
+340,Green Gram (Moong),Badwani,2016-01-09,4300.0,8.1,28.6,clear
+341,Green Gram (Moong),Anjad,2016-09-13,4200.0,6.0,33.0,clear
+342,Green Gram (Moong),Anjad,2016-09-16,4400.0,2.3,32.0,clear
+343,Green Gram (Moong),Badwani,2016-09-16,4500.0,16.68,32.0,clear
+344,Green Gram (Moong),Sendhwa,2016-09-16,5050.0,0.1,32.0,clear
+345,Green Gram (Moong),Anjad,2016-09-18,4800.0,5.0,26.4,rain
+346,Green Gram (Moong),Badwani,2016-09-18,4600.0,14.3,26.4,rain
+347,Green Gram (Moong),Anjad,2016-01-12,4130.0,0.0,28.6,clear
+348,Green Gram (Moong),Badwani,2016-02-02,6000.0,9.6,30.4,clear
+349,Green Gram (Moong),Badwani,2016-05-15,5400.0,5.3,42.6,clear
+350,Green Gram (Moong),Badwani,2016-05-21,5800.0,2.0,41.4,clear
+351,Green Gram (Moong),Badwani,2016-05-22,6000.0,4.0,41.6,clear
+352,Green Gram (Moong),Badwani,2016-01-06,5500.0,2.0,30.0,clear
+353,Green Gram (Moong),Badwani,2016-02-06,5200.0,15.9,31.6,clear
+354,Green Gram (Moong),Badwani,2016-04-06,5200.0,6.0,38.4,clear
+355,Green Gram (Moong),Badwani,2016-06-06,5500.0,0.8,33.4,clear
+356,Green Gram (Moong),Badwani,2016-09-06,5300.0,8.0,27.6,clear
+357,Green Gram (Moong),Badwani,2016-06-15,5300.0,1.5,37.4,clear
+358,Green Gram (Moong),Khetia,2016-06-15,5900.0,0.5,37.4,clear
+359,Green Gram (Moong),Badwani,2016-06-16,5500.0,16.75,38.4,clear
+360,Green Gram (Moong),Khetia,2016-06-16,5900.0,0.2,38.4,clear
+361,Green Gram (Moong),Badwani,2016-06-29,5300.0,3.0,28.2,clear
+362,Green Gram (Moong),Badwani,2016-06-30,5200.0,4.8,32.6,clear
+363,Green Gram (Moong),Badwani,2016-07-14,5300.0,4.0,31.0,clear
+364,Green Gram (Moong),Badwani,2016-07-16,5000.0,4.0,31.4,clear
+365,Green Gram (Moong),Badwani,2016-07-18,5000.0,1.3,27.4,clear
+366,Green Gram (Moong),Badwani,2016-08-22,4500.0,11.75,26.8,rain
+367,Green Gram (Moong),Badwani,2016-08-28,4200.0,3.48,31.6,clear
+368,Green Gram (Moong),Badwani,2016-08-30,4200.0,8.4,30.4,clear
+369,Green Gram (Moong),Badwani,2016-08-31,4100.0,3.0,28.4,clear
+370,Green Gram (Moong),Badwani,2016-03-09,4400.0,8.25,35.0,clear
+371,Green Gram (Moong),Badwani,2016-04-09,4300.0,10.29,39.6,clear
+372,Green Gram (Moong),Badwani,2016-05-09,4200.0,10.06,40.6,clear
+373,Green Gram (Moong),Badwani,2016-11-09,4600.0,21.9,27.6,clear
+374,Green Gram (Moong),Badwani,2016-09-14,4500.0,6.8,29.0,clear
+375,Green Gram (Moong),Sendhwa,2016-09-14,4900.0,0.1,29.0,clear
+376,Green Gram (Moong),Badwani,2016-09-15,4600.0,12.84,28.2,clear
+377,Green Gram (Moong),Badwani,2016-09-17,4600.0,16.4,30.6,clear
+378,Green Gram (Moong),Badwani,2016-09-22,4600.0,24.66,28.8,clear
+379,Green Gram (Moong),Balwadi,2016-09-22,5000.0,18.5,28.8,clear
+380,Green Gram (Moong),Sendhwa,2016-09-22,5028.0,0.1,28.8,clear
+381,Green Gram (Moong),Badwani,2016-09-25,4600.0,3.8,30.8,clear
+382,Green Gram (Moong),Badwani,2016-04-10,4600.0,14.37,40.4,clear
+383,Green Gram (Moong),Badwani,2016-11-13,4300.0,5.0,27.6,clear
+384,Green Gram (Moong),Balwadi,2016-08-05,6500.0,1.6,28.4,rain
+385,Green Gram (Moong),Balwadi,2016-07-28,5000.0,12.0,27.2,clear
+386,Green Gram (Moong),Balwadi,2016-08-12,4500.0,0.6,27.4,clear
+387,Green Gram (Moong),Khetia,2016-08-06,5350.0,0.5,26.6,rain
+388,Green Gram (Moong),Khetia,2016-06-14,5950.0,0.2,39.0,clear
+389,Green Gram (Moong),Sendhwa,2016-09-19,4975.0,1.4,29.2,clear
+390,Green Gram (Moong),Sendhwa,2016-09-20,5116.0,0.1,29.4,clear
+391,Green Gram (Moong),Sendhwa,2016-11-16,4851.0,1.6,28.4,clear
+392,Green Gram (Moong),Sendhwa,2016-11-30,5100.0,0.5,29.4,clear
+393,Green Gram (Moong),Sendhwa,2016-07-12,4210.0,0.4,25.0,clear
+394,Arhar (Tur/Red Gram),Anjad,2017-01-20,3500.0,1.5,26.8,clear
+395,Green Gram (Moong),Anjad,2017-01-20,4000.0,1.7,26.8,clear
+396,Arhar (Tur/Red Gram),Anjad,2017-01-22,3500.0,5.0,30.0,clear
+397,Black Gram (Urd Beans),Anjad,2017-01-22,4575.0,2.4,30.0,clear
+398,Arhar (Tur/Red Gram),Anjad,2017-01-26,3800.0,24.0,31.0,clear
+399,Green Gram (Moong),Anjad,2017-01-26,3000.0,0.2,31.0,clear
+400,Arhar (Tur/Red Gram),Anjad,2017-02-02,3000.0,1.39,31.0,clear
+401,Green Gram (Moong),Anjad,2017-02-02,3000.0,2.35,31.0,clear
+402,Arhar (Tur/Red Gram),Anjad,2017-02-27,2800.0,6.5,34.0,clear
+403,Green Gram (Moong),Anjad,2017-02-27,3200.0,4.9,34.0,clear
+404,Arhar (Tur/Red Gram),Anjad,2017-02-03,3200.0,60.0,31.6,clear
+405,Bengal Gram(Gram),Anjad,2017-02-03,4000.0,51.0,31.6,clear
+406,Bengal Gram(Gram),Sendhwa,2017-02-03,4300.0,6.1,31.6,clear
+407,Black Gram (Urd Beans),Anjad,2017-02-03,4000.0,3.2,31.6,clear
+408,Black Gram (Urd Beans),Sendhwa,2017-02-03,4135.0,2.0,31.6,clear
+409,Green Gram (Moong),Anjad,2017-02-03,4000.0,2.9,31.6,clear
+410,Arhar (Tur/Red Gram),Anjad,2017-05-03,3200.0,44.6,41.6,clear
+411,Bengal Gram(Gram),Anjad,2017-05-03,4000.0,23.0,41.6,clear
+412,Arhar (Tur/Red Gram),Anjad,2017-03-15,3400.0,53.0,32.8,clear
+413,Arhar (Tur/Red Gram),Badwani,2017-03-15,5050.0,83.7,32.8,clear
+414,Bengal Gram(Gram),Anjad,2017-03-15,5000.0,53.0,32.8,clear
+415,Black Gram (Urd Beans),Anjad,2017-03-15,4575.0,20.6,32.8,clear
+416,Black Gram (Urd Beans),Sendhwa,2017-03-15,4100.0,2.2,32.8,clear
+417,Arhar (Tur/Red Gram),Anjad,2017-03-19,3000.0,40.0,35.6,clear
+418,Bengal Gram(Gram),Anjad,2017-03-19,3800.0,110.7,35.6,clear
+419,Bengal Gram(Gram),Badwani,2017-03-19,4000.0,5.25,35.6,clear
+420,Black Gram (Urd Beans),Anjad,2017-03-19,4700.0,8.37,35.6,clear
+421,Black Gram (Urd Beans),Badwani,2017-03-19,4500.0,10.8,35.6,clear
+422,Green Gram (Moong),Badwani,2017-03-19,4300.0,13.14,35.6,clear
+423,Arhar (Tur/Red Gram),Anjad,2017-05-04,3200.0,16.0,42.4,clear
+424,Bengal Gram(Gram),Anjad,2017-05-04,4000.0,12.0,42.4,clear
+425,Bengal Gram(Gram),Sendhwa,2017-05-04,5073.0,1.6,42.4,clear
+426,Black Gram (Urd Beans),Anjad,2017-05-04,4600.0,4.4,42.4,clear
+427,Black Gram (Urd Beans),Sendhwa,2017-05-04,4575.0,1.6,42.4,clear
+428,Green Gram (Moong),Anjad,2017-05-04,4600.0,0.7,42.4,clear
+429,Arhar (Tur/Red Gram),Anjad,2017-12-04,3000.0,26.95,27.0,clear
+430,Arhar (Tur/Red Gram),Badwani,2017-12-04,5050.0,6.6,27.0,clear
+431,Bengal Gram(Gram),Anjad,2017-12-04,4500.0,56.55,27.0,clear
+432,Bengal Gram(Gram),Sendhwa,2017-12-04,5255.0,2.5,27.0,clear
+433,Arhar (Tur/Red Gram),Anjad,2017-04-19,2900.0,57.7,42.6,clear
+434,Bengal Gram(Gram),Anjad,2017-04-19,3800.0,12.5,42.6,clear
+435,Bengal Gram(Gram),Sendhwa,2017-04-19,5050.0,1.3,42.6,clear
+436,Black Gram (Urd Beans),Sendhwa,2017-04-19,5037.0,6.0,42.6,clear
+437,Green Gram (Moong),Badwani,2017-04-19,4350.0,10.3,42.6,clear
+438,Arhar (Tur/Red Gram),Anjad,2017-04-29,3000.0,15.0,40.0,clear
+439,Arhar (Tur/Red Gram),Anjad,2017-02-05,3200.0,101.0,28.8,clear
+440,Bengal Gram(Gram),Anjad,2017-02-05,4500.0,21.0,28.8,clear
+441,Green Gram (Moong),Anjad,2017-02-05,4200.0,1.8,28.8,clear
+442,Green Gram (Moong),Badwani,2017-02-05,4000.0,8.92,28.8,clear
+443,Arhar (Tur/Red Gram),Anjad,2017-12-05,3100.0,32.0,20.6,clear
+444,Bengal Gram(Gram),Anjad,2017-12-05,4500.0,37.0,20.6,clear
+445,Bengal Gram(Gram),Sendhwa,2017-12-05,5335.0,2.2,20.6,clear
+446,Black Gram (Urd Beans),Sendhwa,2017-12-05,4650.0,2.4,20.6,clear
+447,Arhar (Tur/Red Gram),Anjad,2017-05-14,3500.0,67.0,43.4,clear
+448,Green Gram (Moong),Anjad,2017-05-14,4000.0,4.3,43.4,clear
+449,Arhar (Tur/Red Gram),Anjad,2017-05-16,3500.0,3.0,41.2,clear
+450,Bengal Gram(Gram),Anjad,2017-05-16,4500.0,45.0,41.2,clear
+451,Black Gram (Urd Beans),Sendhwa,2017-05-16,4450.0,2.0,41.2,clear
+452,Green Gram (Moong),Anjad,2017-05-16,4200.0,0.6,41.2,clear
+453,Arhar (Tur/Red Gram),Anjad,2017-05-28,3100.0,54.0,40.0,clear
+454,Bengal Gram(Gram),Anjad,2017-05-28,5000.0,24.2,40.0,clear
+455,Green Gram (Moong),Badwani,2017-05-28,4000.0,7.0,40.0,clear
+456,Arhar (Tur/Red Gram),Anjad,2017-05-31,3100.0,6.0,38.0,clear
+457,Arhar (Tur/Red Gram),Badwani,2017-05-31,3000.0,1.75,38.0,clear
+458,Arhar (Tur/Red Gram),Sendhwa,2017-05-31,3027.0,6.3,38.0,clear
+459,Bengal Gram(Gram),Anjad,2017-05-31,4500.0,3.5,38.0,clear
+460,Bengal Gram(Gram),Badwani,2017-05-31,4800.0,1.4,38.0,clear
+461,Green Gram (Moong),Anjad,2017-05-31,4200.0,0.4,38.0,clear
+462,Green Gram (Moong),Sendhwa,2017-05-31,3844.0,8.8,38.0,clear
+463,Arhar (Tur/Red Gram),Anjad,2017-05-06,3000.0,82.0,42.2,clear
+464,Arhar (Tur/Red Gram),Sendhwa,2017-05-06,3120.0,5.6,42.2,clear
+465,Bengal Gram(Gram),Sendhwa,2017-05-06,4745.0,2.0,42.2,clear
+466,Black Gram (Urd Beans),Sendhwa,2017-05-06,3750.0,5.0,42.2,clear
+467,Green Gram (Moong),Badwani,2017-05-06,4000.0,9.3,42.2,clear
+468,Arhar (Tur/Red Gram),Anjad,2017-06-06,3000.0,90.0,38.4,clear
+469,Arhar (Tur/Red Gram),Sendhwa,2017-06-06,3125.0,5.0,38.4,clear
+470,Bengal Gram(Gram),Sendhwa,2017-06-06,4950.0,3.4,38.4,clear
+471,Green Gram (Moong),Badwani,2017-06-06,4000.0,9.0,38.4,clear
+472,Arhar (Tur/Red Gram),Anjad,2017-11-06,3200.0,43.63,29.2,clear
+473,Green Gram (Moong),Anjad,2017-11-06,3500.0,5.08,29.2,clear
+474,Green Gram (Moong),Badwani,2017-11-06,5225.0,10.02,29.2,clear
+475,Arhar (Tur/Red Gram),Anjad,2017-12-06,4800.0,12.6,26.2,clear
+476,Black Gram (Urd Beans),Sendhwa,2017-12-06,5017.0,1.2,26.2,clear
+477,Green Gram (Moong),Anjad,2017-12-06,5000.0,15.0,26.2,clear
+478,Green Gram (Moong),Badwani,2017-12-06,5225.0,7.8,26.2,clear
+479,Green Gram (Moong),Khetia,2017-12-06,4500.0,2.5,26.2,clear
+480,Arhar (Tur/Red Gram),Anjad,2017-06-16,5000.0,64.0,35.6,clear
+481,Bengal Gram(Gram),Anjad,2017-06-16,3800.0,15.0,35.6,clear
+482,Bengal Gram(Gram),Badwani,2017-06-16,4800.0,5.15,35.6,clear
+483,Green Gram (Moong),Anjad,2017-06-16,5000.0,10.4,35.6,clear
+484,Arhar (Tur/Red Gram),Anjad,2017-06-19,3500.0,2.5,37.2,clear
+485,Arhar (Tur/Red Gram),Badwani,2017-06-19,5050.0,3.8,37.2,clear
+486,Bengal Gram(Gram),Anjad,2017-06-19,6000.0,6.29,37.2,clear
+487,Green Gram (Moong),Anjad,2017-06-19,3500.0,1.5,37.2,clear
+488,Green Gram (Moong),Khetia,2017-06-19,4400.0,12.0,37.2,clear
+489,Arhar (Tur/Red Gram),Anjad,2017-06-26,3500.0,2.0,32.4,clear
+490,Black Gram (Urd Beans),Anjad,2017-06-26,4500.0,3.12,32.4,clear
+491,Green Gram (Moong),Anjad,2017-06-26,5225.0,7.1,32.4,clear
+492,Arhar (Tur/Red Gram),Anjad,2017-06-27,3550.0,4.5,34.0,clear
+493,Arhar (Tur/Red Gram),Badwani,2017-06-27,5050.0,2.45,34.0,clear
+494,Bengal Gram(Gram),Sendhwa,2017-06-27,4058.0,1.3,34.0,clear
+495,Black Gram (Urd Beans),Sendhwa,2017-06-27,5404.0,0.8,34.0,clear
+496,Green Gram (Moong),Anjad,2017-06-27,3500.0,1.38,34.0,clear
+497,Arhar (Tur/Red Gram),Anjad,2017-06-28,3200.0,6.3,32.2,clear
+498,Arhar (Tur/Red Gram),Badwani,2017-06-28,5050.0,9.65,32.2,clear
+499,Green Gram (Moong),Khetia,2017-06-28,4200.0,15.0,32.2,clear
+500,Arhar (Tur/Red Gram),Anjad,2017-07-13,4000.0,12.2,25.6,clear
+501,Arhar (Tur/Red Gram),Balwadi,2017-07-13,3400.0,1.8,25.6,clear
+502,Bengal Gram(Gram),Anjad,2017-07-13,4000.0,5.9,25.6,clear
+503,Green Gram (Moong),Anjad,2017-07-13,4000.0,4.9,25.6,clear
+504,Green Gram (Moong),Balwadi,2017-07-13,5225.0,12.05,25.6,clear
+505,Green Gram (Moong),Khetia,2017-07-13,4800.0,5.0,25.6,clear
+506,Arhar (Tur/Red Gram),Anjad,2017-07-16,3100.0,2.22,26.6,clear
+507,Bengal Gram(Gram),Anjad,2017-07-16,4900.0,4.55,26.6,clear
+508,Green Gram (Moong),Anjad,2017-07-16,4100.0,3.3,26.6,clear
+509,Arhar (Tur/Red Gram),Anjad,2017-07-17,3200.0,9.0,29.8,clear
+510,Black Gram (Urd Beans),Anjad,2017-07-17,3800.0,1.3,29.8,clear
+511,Green Gram (Moong),Anjad,2017-07-17,4000.0,6.1,29.8,clear
+512,Arhar (Tur/Red Gram),Anjad,2017-07-21,5846.0,194.4,28.6,clear
+513,Arhar (Tur/Red Gram),Anjad,2017-07-24,3000.0,9.2,27.6,clear
+514,Arhar (Tur/Red Gram),Anjad,2017-07-25,3000.0,1.46,28.0,clear
+515,Arhar (Tur/Red Gram),Anjad,2017-07-30,1350.0,16.0,30.2,clear
+516,Arhar (Tur/Red Gram),Anjad,2017-07-08,4000.0,1.6,34.4,clear
+517,Bengal Gram(Gram),Anjad,2017-07-08,7000.0,0.15,34.4,clear
+518,Green Gram (Moong),Anjad,2017-07-08,4000.0,1.6,34.4,clear
+519,Arhar (Tur/Red Gram),Anjad,2017-09-08,3000.0,7.55,29.0,clear
+520,Arhar (Tur/Red Gram),Badwani,2017-09-08,5050.0,0.9,29.0,clear
+521,Bengal Gram(Gram),Anjad,2017-09-08,4000.0,3.25,29.0,clear
+522,Green Gram (Moong),Badwani,2017-09-08,5225.0,5.28,29.0,clear
+523,Arhar (Tur/Red Gram),Anjad,2017-08-16,3500.0,2.22,32.0,clear
+524,Arhar (Tur/Red Gram),Balwadi,2017-08-16,4200.0,32.7,32.0,clear
+525,Green Gram (Moong),Anjad,2017-08-16,4000.0,8.88,32.0,clear
+526,Green Gram (Moong),Badwani,2017-08-16,4200.0,8.1,32.0,clear
+527,Green Gram (Moong),Balwadi,2017-08-16,3700.0,4.2,32.0,clear
+528,Arhar (Tur/Red Gram),Anjad,2017-08-20,3400.0,20.32,30.4,clear
+529,Arhar (Tur/Red Gram),Anjad,2017-08-23,3500.0,4.3,30.2,clear
+530,Bengal Gram(Gram),Anjad,2017-08-23,4700.0,0.3,30.2,clear
+531,Green Gram (Moong),Anjad,2017-08-23,3800.0,1.98,30.2,clear
+532,Green Gram (Moong),Balwadi,2017-08-23,4400.0,3.0,30.2,clear
+533,Arhar (Tur/Red Gram),Anjad,2017-08-27,3000.0,1.8,29.0,clear
+534,Bengal Gram(Gram),Badwani,2017-08-27,5200.0,11.36,29.0,clear
+535,Green Gram (Moong),Badwani,2017-08-27,5000.0,2.74,29.0,clear
+536,Arhar (Tur/Red Gram),Anjad,2017-08-31,3500.0,5.5,30.8,clear
+537,Green Gram (Moong),Khetia,2017-08-31,4500.0,10.0,30.8,clear
+538,Arhar (Tur/Red Gram),Anjad,2017-09-14,3000.0,0.65,30.6,clear
+539,Bengal Gram(Gram),Anjad,2017-09-14,4500.0,2.83,30.6,clear
+540,Green Gram (Moong),Badwani,2017-09-14,4500.0,22.0,30.6,clear
+541,Arhar (Tur/Red Gram),Anjad,2017-10-29,2900.0,0.58,29.4,clear
+542,Green Gram (Moong),Anjad,2017-10-29,4000.0,10.1,29.4,clear
+543,Arhar (Tur/Red Gram),Badwani,2017-05-01,4800.0,0.5,40.4,clear
+544,Black Gram (Urd Beans),Badwani,2017-05-01,5000.0,13.0,40.4,clear
+545,Black Gram (Urd Beans),Sendhwa,2017-05-01,4600.0,0.5,40.4,clear
+546,Green Gram (Moong),Anjad,2017-05-01,4600.0,4.7,40.4,clear
+547,Arhar (Tur/Red Gram),Badwani,2017-01-27,3400.0,9.1,26.0,clear
+548,Arhar (Tur/Red Gram),Badwani,2017-01-29,3500.0,4.15,27.8,clear
+549,Black Gram (Urd Beans),Anjad,2017-01-29,4500.0,1.5,27.8,clear
+550,Green Gram (Moong),Badwani,2017-01-29,3500.0,9.45,27.8,clear
+551,Arhar (Tur/Red Gram),Badwani,2017-01-30,3500.0,2.37,29.4,clear
+552,Black Gram (Urd Beans),Anjad,2017-01-30,4800.0,9.0,29.4,clear
+553,Black Gram (Urd Beans),Badwani,2017-01-30,4000.0,10.2,29.4,clear
+554,Green Gram (Moong),Anjad,2017-01-30,4100.0,3.72,29.4,clear
+555,Green Gram (Moong),Badwani,2017-01-30,4000.0,7.08,29.4,clear
+556,Arhar (Tur/Red Gram),Badwani,2017-01-02,3500.0,10.0,25.6,clear
+557,Arhar (Tur/Red Gram),Sendhwa,2017-01-02,3700.0,0.9,25.6,clear
+558,Green Gram (Moong),Badwani,2017-01-02,3500.0,6.06,25.6,clear
+559,Arhar (Tur/Red Gram),Badwani,2017-03-02,3300.0,3.0,35.4,clear
+560,Arhar (Tur/Red Gram),Badwani,2017-08-02,4650.0,4.0,28.4,clear
+561,Black Gram (Urd Beans),Badwani,2017-08-02,4100.0,94.0,28.4,clear
+562,Green Gram (Moong),Badwani,2017-08-02,4300.0,8.4,28.4,clear
+563,Arhar (Tur/Red Gram),Badwani,2017-02-28,4650.0,0.96,34.2,clear
+564,Black Gram (Urd Beans),Badwani,2017-02-28,4200.0,63.0,34.2,clear
+565,Black Gram (Urd Beans),Sendhwa,2017-02-28,4102.0,6.8,34.2,clear
+566,Green Gram (Moong),Badwani,2017-02-28,3500.0,8.5,34.2,clear
+567,Arhar (Tur/Red Gram),Badwani,2017-01-03,3800.0,5.75,25.4,clear
+568,Bengal Gram(Gram),Anjad,2017-01-03,4600.0,7.0,25.4,clear
+569,Bengal Gram(Gram),Sendhwa,2017-01-03,4190.0,1.7,25.4,clear
+570,Arhar (Tur/Red Gram),Badwani,2017-08-03,5050.0,24.35,26.4,clear
+571,Black Gram (Urd Beans),Sendhwa,2017-08-03,4550.0,1.1,26.4,clear
+572,Arhar (Tur/Red Gram),Badwani,2017-09-03,5050.0,31.75,27.4,clear
+573,Black Gram (Urd Beans),Sendhwa,2017-09-03,4100.0,1.5,27.4,clear
+574,Green Gram (Moong),Khetia,2017-09-03,4350.0,10.0,27.4,clear
+575,Arhar (Tur/Red Gram),Badwani,2017-10-03,5050.0,67.65,34.4,clear
+576,Bengal Gram(Gram),Sendhwa,2017-10-03,4801.0,2.0,34.4,clear
+577,Black Gram (Urd Beans),Sendhwa,2017-10-03,4000.0,2.3,34.4,clear
+578,Arhar (Tur/Red Gram),Badwani,2017-11-03,5050.0,59.95,29.4,clear
+579,Arhar (Tur/Red Gram),Sendhwa,2017-11-03,3750.0,6.5,29.4,clear
+580,Bengal Gram(Gram),Sendhwa,2017-11-03,4995.0,3.5,29.4,clear
+581,Black Gram (Urd Beans),Anjad,2017-11-03,4800.0,20.0,29.4,clear
+582,Arhar (Tur/Red Gram),Badwani,2017-03-14,5050.0,36.0,33.0,clear
+583,Bengal Gram(Gram),Sendhwa,2017-03-14,5015.0,2.8,33.0,clear
+584,Arhar (Tur/Red Gram),Badwani,2017-03-16,5050.0,78.0,36.4,clear
+585,Bengal Gram(Gram),Sendhwa,2017-03-16,4050.0,3.5,36.4,clear
+586,Black Gram (Urd Beans),Sendhwa,2017-03-16,4260.0,4.1,36.4,clear
+587,Green Gram (Moong),Anjad,2017-03-16,4300.0,6.2,36.4,clear
+588,Green Gram (Moong),Badwani,2017-03-16,4700.0,10.6,36.4,clear
+589,Arhar (Tur/Red Gram),Badwani,2017-03-18,5050.0,3.05,35.4,clear
+590,Bengal Gram(Gram),Sendhwa,2017-03-18,5175.0,3.9,35.4,clear
+591,Black Gram (Urd Beans),Sendhwa,2017-03-18,4050.0,4.5,35.4,clear
+592,Arhar (Tur/Red Gram),Badwani,2017-03-20,5050.0,3.25,35.4,clear
+593,Bengal Gram(Gram),Sendhwa,2017-03-20,5187.0,1.8,35.4,clear
+594,Black Gram (Urd Beans),Anjad,2017-03-20,4575.0,16.2,35.4,clear
+595,Black Gram (Urd Beans),Sendhwa,2017-03-20,4150.0,5.1,35.4,clear
+596,Arhar (Tur/Red Gram),Badwani,2017-03-22,5050.0,0.4,37.8,clear
+597,Bengal Gram(Gram),Anjad,2017-03-22,4500.0,9.0,37.8,clear
+598,Bengal Gram(Gram),Sendhwa,2017-03-22,5100.0,0.8,37.8,clear
+599,Black Gram (Urd Beans),Anjad,2017-03-22,4575.0,3.7,37.8,clear
+600,Green Gram (Moong),Anjad,2017-03-22,4400.0,11.46,37.8,clear
+601,Arhar (Tur/Red Gram),Badwani,2017-03-24,5050.0,5.4,39.8,clear
+602,Bengal Gram(Gram),Anjad,2017-03-24,4600.0,211.0,39.8,clear
+603,Bengal Gram(Gram),Sendhwa,2017-03-24,5225.0,2.0,39.8,clear
+604,Black Gram (Urd Beans),Sendhwa,2017-03-24,4525.0,1.6,39.8,clear
+605,Arhar (Tur/Red Gram),Badwani,2017-03-25,5050.0,515.0,40.2,clear
+606,Bengal Gram(Gram),Sendhwa,2017-03-25,5500.0,2.5,40.2,clear
+607,Arhar (Tur/Red Gram),Badwani,2017-03-27,5050.0,10.45,41.6,clear
+608,Bengal Gram(Gram),Sendhwa,2017-03-27,5072.0,1.9,41.6,clear
+609,Black Gram (Urd Beans),Anjad,2017-03-27,4600.0,5.6,41.6,clear
+610,Black Gram (Urd Beans),Sendhwa,2017-03-27,4525.0,1.2,41.6,clear
+611,Green Gram (Moong),Anjad,2017-03-27,4300.0,2.3,41.6,clear
+612,Arhar (Tur/Red Gram),Badwani,2017-03-28,5050.0,2.65,42.2,clear
+613,Bengal Gram(Gram),Anjad,2017-03-28,4200.0,6.0,42.2,clear
+614,Arhar (Tur/Red Gram),Badwani,2017-04-04,1100.0,19.0,39.2,clear
+615,Arhar (Tur/Red Gram),Badwani,2017-07-04,5050.0,6.65,28.6,clear
+616,Bengal Gram(Gram),Anjad,2017-07-04,5300.0,129.6,28.6,clear
+617,Bengal Gram(Gram),Sendhwa,2017-07-04,5492.0,3.2,28.6,clear
+618,Black Gram (Urd Beans),Anjad,2017-07-04,4600.0,3.0,28.6,clear
+619,Arhar (Tur/Red Gram),Badwani,2017-08-04,5050.0,442.45,30.6,clear
+620,Green Gram (Moong),Sendhwa,2017-08-04,4687.0,2.1,30.6,clear
+621,Arhar (Tur/Red Gram),Badwani,2017-11-04,5050.0,8.65,30.2,clear
+622,Bengal Gram(Gram),Sendhwa,2017-11-04,5232.0,1.6,30.2,clear
+623,Black Gram (Urd Beans),Sendhwa,2017-11-04,4200.0,1.0,30.2,clear
+624,Arhar (Tur/Red Gram),Badwani,2017-04-13,5050.0,10.8,42.8,clear
+625,Bengal Gram(Gram),Sendhwa,2017-04-13,5260.0,3.3,42.8,clear
+626,Black Gram (Urd Beans),Badwani,2017-04-13,4300.0,8.0,42.8,clear
+627,Green Gram (Moong),Badwani,2017-04-13,4600.0,7.9,42.8,clear
+628,Arhar (Tur/Red Gram),Badwani,2017-04-15,5050.0,22.5,41.6,clear
+629,Bengal Gram(Gram),Sendhwa,2017-04-15,5292.0,4.0,41.6,clear
+630,Black Gram (Urd Beans),Sendhwa,2017-04-15,4660.0,8.0,41.6,clear
+631,Arhar (Tur/Red Gram),Badwani,2017-04-18,3500.0,5.0,43.0,clear
+632,Bengal Gram(Gram),Sendhwa,2017-04-18,5150.0,5.0,43.0,clear
+633,Green Gram (Moong),Badwani,2017-04-18,9800.0,5.0,43.0,clear
+634,Arhar (Tur/Red Gram),Badwani,2017-04-23,4500.0,1.2,38.0,clear
+635,Bengal Gram(Gram),Badwani,2017-04-23,4000.0,0.9,38.0,clear
+636,Black Gram (Urd Beans),Badwani,2017-04-23,4200.0,6.0,38.0,clear
+637,Green Gram (Moong),Badwani,2017-04-23,4000.0,12.3,38.0,clear
+638,Arhar (Tur/Red Gram),Badwani,2017-04-25,1300.0,70.84,38.0,clear
+639,Bengal Gram(Gram),Sendhwa,2017-04-25,5315.0,2.9,38.0,clear
+640,Arhar (Tur/Red Gram),Badwani,2017-03-05,3000.0,3.7,32.4,clear
+641,Bengal Gram(Gram),Sendhwa,2017-03-05,5285.0,3.6,32.4,clear
+642,Arhar (Tur/Red Gram),Badwani,2017-05-05,3500.0,1.8,42.2,clear
+643,Bengal Gram(Gram),Anjad,2017-05-05,4500.0,29.7,42.2,clear
+644,Bengal Gram(Gram),Badwani,2017-05-05,5000.0,0.6,42.2,clear
+645,Bengal Gram(Gram),Sendhwa,2017-05-05,5110.0,2.4,42.2,clear
+646,Green Gram (Moong),Badwani,2017-05-05,4200.0,2.1,42.2,clear
+647,Arhar (Tur/Red Gram),Badwani,2017-10-05,1300.0,41.4,33.4,clear
+648,Arhar (Tur/Red Gram),Badwani,2017-05-21,3000.0,6.3,39.8,clear
+649,Arhar (Tur/Red Gram),Balwadi,2017-05-21,3300.0,16.0,39.8,clear
+650,Green Gram (Moong),Badwani,2017-05-21,4200.0,6.6,39.8,clear
+651,Arhar (Tur/Red Gram),Badwani,2017-05-29,2800.0,6.3,39.0,clear
+652,Arhar (Tur/Red Gram),Sendhwa,2017-05-29,3360.0,5.5,39.0,clear
+653,Green Gram (Moong),Badwani,2017-05-29,4000.0,2.0,39.0,clear
+654,Green Gram (Moong),Khetia,2017-05-29,4400.0,20.0,39.0,clear
+655,Arhar (Tur/Red Gram),Badwani,2017-06-20,5050.0,0.05,37.0,clear
+656,Bengal Gram(Gram),Sendhwa,2017-06-20,4450.0,6.4,37.0,clear
+657,Black Gram (Urd Beans),Sendhwa,2017-06-20,5018.0,3.5,37.0,clear
+658,Green Gram (Moong),Badwani,2017-06-20,5225.0,4.7,37.0,clear
+659,Green Gram (Moong),Khetia,2017-06-20,4450.0,14.0,37.0,clear
+660,Arhar (Tur/Red Gram),Badwani,2017-06-21,5050.0,8.75,36.4,clear
+661,Bengal Gram(Gram),Sendhwa,2017-06-21,4512.0,11.5,36.4,clear
+662,Black Gram (Urd Beans),Badwani,2017-06-21,5000.0,87.0,36.4,clear
+663,Green Gram (Moong),Khetia,2017-06-21,4400.0,7.5,36.4,clear
+664,Arhar (Tur/Red Gram),Badwani,2017-06-22,5050.0,18.4,30.4,clear
+665,Bengal Gram(Gram),Badwani,2017-06-22,4000.0,1.98,30.4,clear
+666,Bengal Gram(Gram),Sendhwa,2017-06-22,4110.0,2.2,30.4,clear
+667,Black Gram (Urd Beans),Badwani,2017-06-22,5000.0,28.8,30.4,clear
+668,Green Gram (Moong),Badwani,2017-06-22,5225.0,9.18,30.4,clear
+669,Arhar (Tur/Red Gram),Badwani,2017-06-23,5050.0,1.85,33.4,clear
+670,Arhar (Tur/Red Gram),Badwani,2017-06-25,5050.0,2.5,29.6,clear
+671,Arhar (Tur/Red Gram),Badwani,2017-06-29,5050.0,10.45,34.8,clear
+672,Arhar (Tur/Red Gram),Balwadi,2017-06-29,3400.0,1.3,34.8,clear
+673,Black Gram (Urd Beans),Anjad,2017-06-29,4000.0,3.0,34.8,clear
+674,Black Gram (Urd Beans),Balwadi,2017-06-29,4000.0,1.8,34.8,clear
+675,Black Gram (Urd Beans),Sendhwa,2017-06-29,5401.0,3.8,34.8,clear
+676,Green Gram (Moong),Anjad,2017-06-29,4200.0,4.0,34.8,clear
+677,Green Gram (Moong),Balwadi,2017-06-29,5225.0,10.5,34.8,clear
+678,Green Gram (Moong),Sendhwa,2017-06-29,5576.0,1.7,34.8,clear
+679,Arhar (Tur/Red Gram),Badwani,2017-06-30,5050.0,32.85,34.6,clear
+680,Green Gram (Moong),Badwani,2017-06-30,5225.0,8.0,34.6,clear
+681,Green Gram (Moong),Balwadi,2017-06-30,5225.0,19.0,34.6,clear
+682,Green Gram (Moong),Khetia,2017-06-30,4300.0,5.0,34.6,clear
+683,Arhar (Tur/Red Gram),Badwani,2017-07-14,5050.0,1.9,25.4,rain
+684,Bengal Gram(Gram),Anjad,2017-07-14,4600.0,2.9,25.4,rain
+685,Green Gram (Moong),Badwani,2017-07-14,5225.0,3.2,25.4,rain
+686,Arhar (Tur/Red Gram),Badwani,2017-07-19,3100.0,1.1,30.4,clear
+687,Bengal Gram(Gram),Badwani,2017-07-19,4900.0,3.85,30.4,clear
+688,Green Gram (Moong),Badwani,2017-07-19,5225.0,14.25,30.4,clear
+689,Arhar (Tur/Red Gram),Badwani,2017-11-08,3800.0,0.6,28.8,clear
+690,Bengal Gram(Gram),Anjad,2017-11-08,4500.0,1.01,28.8,clear
+691,Green Gram (Moong),Anjad,2017-11-08,4200.0,4.02,28.8,clear
+692,Green Gram (Moong),Badwani,2017-11-08,4800.0,11.92,28.8,clear
+693,Green Gram (Moong),Khetia,2017-11-08,4600.0,10.0,28.8,clear
+694,Arhar (Tur/Red Gram),Badwani,2017-04-09,3000.0,0.57,39.0,clear
+695,Black Gram (Urd Beans),Sendhwa,2017-04-09,3700.0,4.3,39.0,clear
+696,Green Gram (Moong),Badwani,2017-04-09,4200.0,3.42,39.0,clear
+697,Green Gram (Moong),Sendhwa,2017-04-09,4560.0,5.5,39.0,clear
+698,Arhar (Tur/Red Gram),Badwani,2017-10-22,3200.0,2.75,32.2,clear
+699,Green Gram (Moong),Badwani,2017-10-22,3500.0,3.95,32.2,clear
+700,Arhar (Tur/Red Gram),Balwadi,2017-04-01,4500.0,0.63,39.4,clear
+701,Black Gram (Urd Beans),Balwadi,2017-04-01,3500.0,25.05,39.4,clear
+702,Arhar (Tur/Red Gram),Balwadi,2017-09-01,4800.0,15.5,30.4,clear
+703,Black Gram (Urd Beans),Sendhwa,2017-09-01,5000.0,0.6,30.4,clear
+704,Arhar (Tur/Red Gram),Balwadi,2017-10-01,1150.0,77.0,33.4,clear
+705,Black Gram (Urd Beans),Sendhwa,2017-10-01,4612.0,0.6,33.4,clear
+706,Arhar (Tur/Red Gram),Balwadi,2017-12-01,1300.0,3.0,26.4,clear
+707,Black Gram (Urd Beans),Sendhwa,2017-12-01,4757.0,2.5,26.4,clear
+708,Arhar (Tur/Red Gram),Balwadi,2017-02-15,3500.0,10.5,32.4,clear
+709,Black Gram (Urd Beans),Balwadi,2017-02-15,4000.0,3.0,32.4,clear
+710,Black Gram (Urd Beans),Sendhwa,2017-02-15,4618.0,0.3,32.4,clear
+711,Arhar (Tur/Red Gram),Balwadi,2017-02-22,3500.0,53.2,32.4,clear
+712,Arhar (Tur/Red Gram),Balwadi,2017-02-24,3400.0,21.0,32.4,clear
+713,Bengal Gram(Gram),Anjad,2017-02-24,3800.0,31.5,32.4,clear
+714,Black Gram (Urd Beans),Badwani,2017-02-24,4000.0,45.9,32.4,clear
+715,Arhar (Tur/Red Gram),Balwadi,2017-05-26,3200.0,16.9,36.2,clear
+716,Green Gram (Moong),Badwani,2017-05-26,4200.0,9.0,36.2,clear
+717,Green Gram (Moong),Balwadi,2017-05-26,4200.0,29.0,36.2,clear
+718,Arhar (Tur/Red Gram),Balwadi,2017-02-08,4200.0,6.0,31.4,clear
+719,Arhar (Tur/Red Gram),Balwadi,2017-08-13,4200.0,19.0,28.6,clear
+720,Arhar (Tur/Red Gram),Balwadi,2017-08-17,3500.0,11.0,32.2,clear
+721,Bengal Gram(Gram),Anjad,2017-08-17,5000.0,7.21,32.2,clear
+722,Green Gram (Moong),Anjad,2017-08-17,4200.0,5.62,32.2,clear
+723,Green Gram (Moong),Badwani,2017-08-17,4200.0,1.3,32.2,clear
+724,Arhar (Tur/Red Gram),Balwadi,2017-08-28,3800.0,10.8,29.4,clear
+725,Bengal Gram(Gram),Anjad,2017-08-28,4800.0,7.72,29.4,clear
+726,Black Gram (Urd Beans),Balwadi,2017-08-28,3300.0,0.7,29.4,clear
+727,Green Gram (Moong),Anjad,2017-08-28,4500.0,10.2,29.4,clear
+728,Arhar (Tur/Red Gram),Balwadi,2017-09-13,3500.0,2.8,30.4,clear
+729,Bengal Gram(Gram),Sendhwa,2017-09-13,5100.0,1.5,30.4,clear
+730,Arhar (Tur/Red Gram),Balwadi,2017-09-19,3500.0,27.5,31.4,clear
+731,Arhar (Tur/Red Gram),Balwadi,2017-09-25,3300.0,1.7,31.4,clear
+732,Green Gram (Moong),Anjad,2017-09-25,4100.0,9.06,31.4,clear
+733,Green Gram (Moong),Badwani,2017-09-25,4400.0,5.64,31.4,clear
+734,Green Gram (Moong),Balwadi,2017-09-25,4000.0,1.5,31.4,clear
+735,Arhar (Tur/Red Gram),Balwadi,2017-09-27,3400.0,0.6,32.2,clear
+736,Black Gram (Urd Beans),Balwadi,2017-09-27,3000.0,2.5,32.2,clear
+737,Black Gram (Urd Beans),Sendhwa,2017-09-27,3175.0,1.7,32.2,clear
+738,Green Gram (Moong),Sendhwa,2017-09-27,3402.0,1.6,32.2,clear
+739,Arhar (Tur/Red Gram),Balwadi,2017-09-29,3300.0,3.0,33.8,clear
+740,Green Gram (Moong),Balwadi,2017-09-29,4000.0,11.0,33.8,clear
+741,Arhar (Tur/Red Gram),Balwadi,2017-02-10,3200.0,10.4,27.2,clear
+742,Bengal Gram(Gram),Anjad,2017-02-10,3800.0,3.1,27.2,clear
+743,Green Gram (Moong),Badwani,2017-02-10,4500.0,3.0,27.2,clear
+744,Green Gram (Moong),Balwadi,2017-02-10,3400.0,2.3,27.2,clear
+745,Arhar (Tur/Red Gram),Balwadi,2017-07-10,3200.0,11.9,30.2,clear
+746,Black Gram (Urd Beans),Sendhwa,2017-07-10,3050.0,3.0,30.2,clear
+747,Arhar (Tur/Red Gram),Balwadi,2017-12-10,4500.0,10.5,28.0,clear
+748,Black Gram (Urd Beans),Sendhwa,2017-12-10,2525.0,2.0,28.0,clear
+749,Green Gram (Moong),Badwani,2017-12-10,4500.0,8.7,28.0,clear
+750,Green Gram (Moong),Sendhwa,2017-12-10,4091.0,5.1,28.0,clear
+751,Arhar (Tur/Red Gram),Balwadi,2017-10-25,3300.0,16.0,30.8,clear
+752,Arhar (Tur/Red Gram),Balwadi,2017-10-26,3200.0,11.5,29.2,clear
+753,Green Gram (Moong),Balwadi,2017-10-26,3700.0,4.7,29.2,clear
+754,Green Gram (Moong),Sendhwa,2017-10-26,3550.0,0.7,29.2,clear
+755,Arhar (Tur/Red Gram),Sendhwa,2017-07-01,4100.0,4.2,34.4,clear
+756,Black Gram (Urd Beans),Sendhwa,2017-07-01,4699.0,0.7,34.4,clear
+757,Arhar (Tur/Red Gram),Sendhwa,2017-11-01,4210.0,3.3,30.6,clear
+758,Arhar (Tur/Red Gram),Sendhwa,2017-01-13,4000.0,3.7,22.0,clear
+759,Arhar (Tur/Red Gram),Sendhwa,2017-01-17,4000.0,7.0,27.4,clear
+760,Black Gram (Urd Beans),Sendhwa,2017-01-17,4870.0,0.4,27.4,clear
+761,Arhar (Tur/Red Gram),Sendhwa,2017-01-18,3900.0,3.0,24.6,clear
+762,Black Gram (Urd Beans),Sendhwa,2017-01-18,5075.0,0.1,24.6,clear
+763,Green Gram (Moong),Badwani,2017-01-18,4250.0,89.05,24.6,clear
+764,Arhar (Tur/Red Gram),Sendhwa,2017-01-19,4125.0,3.0,26.8,clear
+765,Black Gram (Urd Beans),Anjad,2017-01-19,4200.0,3.06,26.8,clear
+766,Black Gram (Urd Beans),Sendhwa,2017-01-19,4600.0,0.2,26.8,clear
+767,Green Gram (Moong),Anjad,2017-01-19,5200.0,7.6,26.8,clear
+768,Arhar (Tur/Red Gram),Sendhwa,2017-03-21,3550.0,13.0,36.4,clear
+769,Bengal Gram(Gram),Anjad,2017-03-21,5000.0,80.0,36.4,clear
+770,Bengal Gram(Gram),Sendhwa,2017-03-21,5085.0,4.5,36.4,clear
+771,Black Gram (Urd Beans),Sendhwa,2017-03-21,4300.0,3.1,36.4,clear
+772,Green Gram (Moong),Badwani,2017-03-21,4900.0,9.5,36.4,clear
+773,Green Gram (Moong),Sendhwa,2017-03-21,4000.0,3.0,36.4,clear
+774,Arhar (Tur/Red Gram),Sendhwa,2017-05-13,3400.0,16.0,44.4,clear
+775,Bengal Gram(Gram),Sendhwa,2017-05-13,5400.0,1.0,44.4,clear
+776,Black Gram (Urd Beans),Sendhwa,2017-05-13,4440.0,2.5,44.4,clear
+777,Arhar (Tur/Red Gram),Sendhwa,2017-05-18,3420.0,9.8,41.8,clear
+778,Arhar (Tur/Red Gram),Sendhwa,2017-05-30,3170.0,4.5,39.6,clear
+779,Bengal Gram(Gram),Anjad,2017-05-30,4000.0,18.0,39.6,clear
+780,Green Gram (Moong),Khetia,2017-05-30,4400.0,20.0,39.6,clear
+781,Arhar (Tur/Red Gram),Sendhwa,2017-07-06,3105.0,6.6,29.0,clear
+782,Black Gram (Urd Beans),Sendhwa,2017-07-06,3886.0,2.7,29.0,clear
+783,Green Gram (Moong),Anjad,2017-07-06,4000.0,9.0,29.0,clear
+784,Arhar (Tur/Red Gram),Sendhwa,2017-03-10,3015.0,3.0,30.4,clear
+785,Arhar (Tur/Red Gram),Sendhwa,2017-10-10,2955.0,10.8,27.4,clear
+786,Arhar (Tur/Red Gram),Sendhwa,2017-10-16,3025.0,2.6,30.4,clear
+787,Black Gram (Urd Beans),Sendhwa,2017-10-16,2752.0,6.5,30.4,clear
+788,Green Gram (Moong),Badwani,2017-10-16,4100.0,10.0,30.4,clear
+789,Bengal Gram(Gram),Anjad,2017-07-02,3425.0,6.0,31.8,clear
+790,Bengal Gram(Gram),Sendhwa,2017-07-02,4001.0,0.8,31.8,clear
+791,Green Gram (Moong),Badwani,2017-07-02,4100.0,12.5,31.8,clear
+792,Bengal Gram(Gram),Anjad,2017-02-19,4300.0,71.1,34.0,clear
+793,Green Gram (Moong),Badwani,2017-02-19,4100.0,9.0,34.0,clear
+794,Bengal Gram(Gram),Anjad,2017-02-20,4000.0,71.1,34.2,clear
+795,Green Gram (Moong),Anjad,2017-02-20,4000.0,14.8,34.2,clear
+796,Green Gram (Moong),Badwani,2017-02-20,4200.0,2.88,34.2,clear
+797,Bengal Gram(Gram),Anjad,2017-03-03,4000.0,87.62,32.8,clear
+798,Bengal Gram(Gram),Sendhwa,2017-03-03,4505.0,2.7,32.8,clear
+799,Bengal Gram(Gram),Anjad,2017-03-23,4500.0,9.0,39.4,clear
+800,Bengal Gram(Gram),Sendhwa,2017-03-23,4855.0,2.0,39.4,clear
+801,Black Gram (Urd Beans),Anjad,2017-03-23,4575.0,21.95,39.4,clear
+802,Black Gram (Urd Beans),Sendhwa,2017-03-23,4000.0,2.0,39.4,clear
+803,Green Gram (Moong),Anjad,2017-03-23,4700.0,7.3,39.4,clear
+804,Bengal Gram(Gram),Anjad,2017-03-26,4600.0,74.0,40.0,clear
+805,Black Gram (Urd Beans),Anjad,2017-03-26,4800.0,2.4,40.0,clear
+806,Green Gram (Moong),Anjad,2017-03-26,4800.0,5.2,40.0,clear
+807,Bengal Gram(Gram),Anjad,2017-04-16,4800.0,29.7,41.4,clear
+808,Black Gram (Urd Beans),Anjad,2017-04-16,4200.0,3.0,41.4,clear
+809,Bengal Gram(Gram),Anjad,2017-04-30,4800.0,101.0,33.8,clear
+810,Bengal Gram(Gram),Badwani,2017-04-30,4000.0,6.15,33.8,clear
+811,Bengal Gram(Gram),Anjad,2017-05-15,4500.0,31.0,41.8,clear
+812,Green Gram (Moong),Anjad,2017-05-15,4100.0,3.0,41.8,clear
+813,Bengal Gram(Gram),Anjad,2017-05-23,4800.0,18.0,40.8,clear
+814,Bengal Gram(Gram),Sendhwa,2017-05-23,4975.0,2.5,40.8,clear
+815,Bengal Gram(Gram),Anjad,2017-04-07,4500.0,1.8,38.0,clear
+816,Black Gram (Urd Beans),Anjad,2017-04-07,3500.0,0.7,38.0,clear
+817,Green Gram (Moong),Anjad,2017-04-07,3500.0,0.2,38.0,clear
+818,Green Gram (Moong),Badwani,2017-04-07,5225.0,2.25,38.0,clear
+819,Bengal Gram(Gram),Anjad,2017-05-07,4500.0,3.45,42.0,clear
+820,Black Gram (Urd Beans),Anjad,2017-05-07,3800.0,4.04,42.0,clear
+821,Green Gram (Moong),Khetia,2017-05-07,4800.0,15.0,42.0,clear
+822,Bengal Gram(Gram),Anjad,2017-04-08,4200.0,2.9,38.4,clear
+823,Bengal Gram(Gram),Anjad,2017-03-09,4500.0,2.15,33.2,clear
+824,Green Gram (Moong),Anjad,2017-03-09,4500.0,4.25,33.2,clear
+825,Bengal Gram(Gram),Anjad,2017-09-24,4200.0,8.0,30.4,clear
+826,Black Gram (Urd Beans),Balwadi,2017-09-24,3300.0,1.7,30.4,clear
+827,Bengal Gram(Gram),Anjad,2017-10-23,2500.0,7.8,30.8,clear
+828,Black Gram (Urd Beans),Sendhwa,2017-10-23,2477.0,0.3,30.8,clear
+829,Bengal Gram(Gram),Badwani,2017-06-15,4025.0,0.3,36.6,clear
+830,Black Gram (Urd Beans),Badwani,2017-06-15,5000.0,9.0,36.6,clear
+831,Green Gram (Moong),Badwani,2017-06-15,5225.0,6.72,36.6,clear
+832,Bengal Gram(Gram),Badwani,2017-06-09,5000.0,5.95,29.4,clear
+833,Green Gram (Moong),Sendhwa,2017-06-09,4300.0,3.4,29.4,clear
+834,Bengal Gram(Gram),Sendhwa,2017-02-25,4050.0,2.3,32.2,clear
+835,Bengal Gram(Gram),Sendhwa,2017-04-03,4412.0,2.2,39.2,clear
+836,Bengal Gram(Gram),Sendhwa,2017-03-30,5047.0,3.0,41.6,clear
+837,Black Gram (Urd Beans),Sendhwa,2017-03-30,4350.0,3.0,41.6,clear
+838,Bengal Gram(Gram),Sendhwa,2017-03-31,5054.0,2.3,41.0,clear
+839,Black Gram (Urd Beans),Sendhwa,2017-03-31,4506.0,3.0,41.0,clear
+840,Bengal Gram(Gram),Sendhwa,2017-01-04,5101.0,0.5,26.8,clear
+841,Black Gram (Urd Beans),Sendhwa,2017-01-04,4500.0,0.6,26.8,clear
+842,Green Gram (Moong),Anjad,2017-01-04,4300.0,6.0,26.8,clear
+843,Bengal Gram(Gram),Sendhwa,2017-03-04,5100.0,0.5,33.0,clear
+844,Black Gram (Urd Beans),Sendhwa,2017-03-04,4477.0,1.0,33.0,clear
+845,Bengal Gram(Gram),Sendhwa,2017-10-04,5025.0,1.5,33.4,clear
+846,Black Gram (Urd Beans),Sendhwa,2017-10-04,4450.0,4.0,33.4,clear
+847,Green Gram (Moong),Anjad,2017-10-04,4200.0,8.8,33.4,clear
+848,Bengal Gram(Gram),Sendhwa,2017-04-14,5088.0,1.9,43.0,clear
+849,Black Gram (Urd Beans),Sendhwa,2017-04-14,4573.0,1.6,43.0,clear
+850,Bengal Gram(Gram),Sendhwa,2017-04-17,5087.0,1.0,41.8,clear
+851,Bengal Gram(Gram),Sendhwa,2017-04-20,5455.0,1.8,41.2,clear
+852,Bengal Gram(Gram),Sendhwa,2017-04-22,5325.0,0.2,39.2,clear
+853,Black Gram (Urd Beans),Anjad,2017-04-22,4600.0,2.4,39.2,clear
+854,Black Gram (Urd Beans),Sendhwa,2017-04-22,4990.0,1.6,39.2,clear
+855,Bengal Gram(Gram),Sendhwa,2017-04-24,5235.0,5.6,38.2,clear
+856,Black Gram (Urd Beans),Sendhwa,2017-04-24,4696.0,0.3,38.2,clear
+857,Bengal Gram(Gram),Sendhwa,2017-04-26,5210.0,3.6,39.6,clear
+858,Black Gram (Urd Beans),Sendhwa,2017-04-26,4567.0,2.0,39.6,clear
+859,Bengal Gram(Gram),Sendhwa,2017-04-27,5191.0,5.4,40.8,clear
+860,Black Gram (Urd Beans),Sendhwa,2017-04-27,4598.0,1.5,40.8,clear
+861,Bengal Gram(Gram),Sendhwa,2017-04-28,5315.0,2.3,40.4,clear
+862,Bengal Gram(Gram),Sendhwa,2017-01-05,5075.0,2.6,26.2,clear
+863,Green Gram (Moong),Anjad,2017-01-05,4500.0,9.44,26.2,clear
+864,Bengal Gram(Gram),Sendhwa,2017-04-05,5225.0,4.6,39.0,clear
+865,Bengal Gram(Gram),Sendhwa,2017-08-05,5025.0,2.6,31.2,clear
+866,Bengal Gram(Gram),Sendhwa,2017-11-05,5320.0,2.4,29.6,clear
+867,Bengal Gram(Gram),Sendhwa,2017-05-22,4950.0,2.6,40.6,clear
+868,Bengal Gram(Gram),Sendhwa,2017-01-06,4730.0,3.0,26.4,clear
+869,Green Gram (Moong),Anjad,2017-01-06,3800.0,7.9,26.4,clear
+870,Green Gram (Moong),Badwani,2017-01-06,4000.0,7.98,26.4,clear
+871,Green Gram (Moong),Khetia,2017-01-06,4500.0,5.0,26.4,clear
+872,Bengal Gram(Gram),Sendhwa,2017-03-06,4950.0,2.0,32.6,clear
+873,Bengal Gram(Gram),Sendhwa,2017-06-13,4800.0,1.2,36.4,clear
+874,Bengal Gram(Gram),Sendhwa,2017-06-14,4530.0,3.3,35.4,clear
+875,Green Gram (Moong),Badwani,2017-06-14,5225.0,0.9,35.4,clear
+876,Bengal Gram(Gram),Sendhwa,2017-06-17,4750.0,2.0,37.5,clear
+877,Green Gram (Moong),Khetia,2017-06-17,4600.0,20.0,37.5,clear
+878,Bengal Gram(Gram),Sendhwa,2017-07-07,4705.0,6.8,33.0,clear
+879,Bengal Gram(Gram),Sendhwa,2017-08-07,4660.0,0.5,29.4,clear
+880,Bengal Gram(Gram),Sendhwa,2017-11-07,4636.0,7.0,30.8,clear
+881,Black Gram (Urd Beans),Anjad,2017-11-07,4400.0,2.58,30.8,clear
+882,Green Gram (Moong),Anjad,2017-11-07,4500.0,5.46,30.8,clear
+883,Green Gram (Moong),Khetia,2017-11-07,4800.0,6.6,30.8,clear
+884,Bengal Gram(Gram),Sendhwa,2017-12-07,4479.0,7.9,25.8,clear
+885,Green Gram (Moong),Balwadi,2017-12-07,5225.0,3.5,25.8,clear
+886,Green Gram (Moong),Khetia,2017-12-07,4800.0,9.5,25.8,clear
+887,Bengal Gram(Gram),Sendhwa,2017-07-15,4548.0,3.9,30.0,clear
+888,Green Gram (Moong),Khetia,2017-07-15,4500.0,2.0,30.0,clear
+889,Bengal Gram(Gram),Sendhwa,2017-08-26,5037.0,2.6,27.4,clear
+890,Green Gram (Moong),Badwani,2017-08-26,5000.0,5.0,27.4,clear
+891,Bengal Gram(Gram),Sendhwa,2017-07-09,5100.0,7.9,35.2,clear
+892,Green Gram (Moong),Anjad,2017-07-09,4000.0,3.55,35.2,clear
+893,Green Gram (Moong),Sendhwa,2017-07-09,4493.0,3.7,35.2,clear
+894,Bengal Gram(Gram),Sendhwa,2017-08-09,5032.0,4.1,30.6,clear
+895,Green Gram (Moong),Sendhwa,2017-08-09,4207.0,3.2,30.6,clear
+896,Bengal Gram(Gram),Sendhwa,2017-10-27,4025.0,5.0,30.6,clear
+897,Green Gram (Moong),Sendhwa,2017-10-27,3883.0,1.8,30.6,clear
+898,Bengal Gram(Gram),Sendhwa,2017-10-30,3971.0,5.5,28.6,clear
+899,Black Gram (Urd Beans),Anjad,2017-03-01,5000.0,3.6,36.6,clear
+900,Black Gram (Urd Beans),Sendhwa,2017-03-01,4000.0,0.2,36.6,clear
+901,Black Gram (Urd Beans),Anjad,2017-01-23,5000.0,9.3,29.4,clear
+902,Black Gram (Urd Beans),Sendhwa,2017-01-23,4800.0,0.1,29.4,clear
+903,Green Gram (Moong),Badwani,2017-01-23,4300.0,15.8,29.4,clear
+904,Black Gram (Urd Beans),Anjad,2017-06-02,5100.0,6.9,34.2,clear
+905,Green Gram (Moong),Anjad,2017-06-02,4000.0,7.0,34.2,clear
+906,Black Gram (Urd Beans),Anjad,2017-09-02,4600.0,2.4,30.8,clear
+907,Green Gram (Moong),Anjad,2017-09-02,4000.0,4.8,30.8,clear
+908,Black Gram (Urd Beans),Anjad,2017-10-02,4500.0,4.9,33.6,clear
+909,Green Gram (Moong),Anjad,2017-10-02,4200.0,3.4,33.6,clear
+910,Black Gram (Urd Beans),Anjad,2017-02-17,4600.0,5.85,32.2,clear
+911,Black Gram (Urd Beans),Balwadi,2017-02-17,4000.0,1.0,32.2,clear
+912,Black Gram (Urd Beans),Sendhwa,2017-02-17,4391.0,0.6,32.2,clear
+913,Green Gram (Moong),Anjad,2017-02-17,4100.0,4.25,32.2,clear
+914,Black Gram (Urd Beans),Anjad,2017-06-18,4600.0,5.1,37.4,clear
+915,Black Gram (Urd Beans),Badwani,2017-06-18,5000.0,24.0,37.4,clear
+916,Green Gram (Moong),Anjad,2017-06-18,5000.0,4.2,37.4,clear
+917,Green Gram (Moong),Badwani,2017-06-18,5225.0,18.0,37.4,clear
+918,Black Gram (Urd Beans),Anjad,2017-06-07,4000.0,0.23,29.0,clear
+919,Green Gram (Moong),Anjad,2017-06-07,5225.0,0.2,29.0,clear
+920,Green Gram (Moong),Khetia,2017-06-07,4250.0,2.5,29.0,clear
+921,Black Gram (Urd Beans),Badwani,2017-01-31,4500.0,30.6,29.2,clear
+922,Green Gram (Moong),Badwani,2017-01-31,4200.0,11.7,29.2,clear
+923,Black Gram (Urd Beans),Badwani,2017-05-02,4500.0,15.4,41.8,clear
+924,Green Gram (Moong),Badwani,2017-05-02,4100.0,5.64,41.8,clear
+925,Black Gram (Urd Beans),Balwadi,2017-02-13,4100.0,3.1,30.6,clear
+926,Black Gram (Urd Beans),Sendhwa,2017-02-13,4771.0,0.2,30.6,clear
+927,Green Gram (Moong),Badwani,2017-02-13,4250.0,8.05,30.6,clear
+928,Black Gram (Urd Beans),Balwadi,2017-08-29,4100.0,5.5,27.4,clear
+929,Green Gram (Moong),Badwani,2017-08-29,3900.0,3.9,27.4,clear
+930,Green Gram (Moong),Balwadi,2017-08-29,4100.0,2.1,27.4,clear
+931,Black Gram (Urd Beans),Balwadi,2017-09-22,2500.0,1.3,26.4,clear
+932,Green Gram (Moong),Balwadi,2017-09-22,4000.0,1.8,26.4,clear
+933,Black Gram (Urd Beans),Sendhwa,2017-01-14,4650.0,0.4,24.4,clear
+934,Black Gram (Urd Beans),Sendhwa,2017-01-21,4795.0,1.7,26.8,clear
+935,Black Gram (Urd Beans),Sendhwa,2017-01-24,4489.0,0.7,31.8,clear
+936,Black Gram (Urd Beans),Sendhwa,2017-01-25,4501.0,0.8,31.4,clear
+937,Black Gram (Urd Beans),Sendhwa,2017-02-14,4000.0,0.4,32.2,clear
+938,Green Gram (Moong),Anjad,2017-02-14,4000.0,2.5,32.2,clear
+939,Black Gram (Urd Beans),Sendhwa,2017-02-16,4225.0,0.1,31.8,clear
+940,Black Gram (Urd Beans),Sendhwa,2017-02-18,4000.0,0.2,33.6,clear
+941,Black Gram (Urd Beans),Sendhwa,2017-09-06,3700.0,4.4,30.6,clear
+942,Green Gram (Moong),Sendhwa,2017-09-06,3625.0,5.0,30.6,clear
+943,Black Gram (Urd Beans),Sendhwa,2017-05-10,3070.0,2.3,42.2,clear
+944,Green Gram (Moong),Sendhwa,2017-05-10,4163.0,8.8,42.2,clear
+945,Black Gram (Urd Beans),Sendhwa,2017-09-10,2600.0,1.0,33.4,clear
+946,Black Gram (Urd Beans),Sendhwa,2017-11-10,2550.0,0.3,28.4,clear
+947,Black Gram (Urd Beans),Sendhwa,2017-03-11,2550.0,2.0,29.8,clear
+948,Green Gram (Moong),Anjad,2017-02-21,4000.0,9.5,34.4,clear
+949,Green Gram (Moong),Anjad,2017-09-05,4000.0,9.2,29.6,clear
+950,Green Gram (Moong),Anjad,2017-08-06,4000.0,0.0,30.2,clear
+951,Green Gram (Moong),Badwani,2017-08-06,4200.0,18.66,30.2,clear
+952,Green Gram (Moong),Anjad,2017-07-18,4100.0,5.0,32.2,clear
+953,Green Gram (Moong),Khetia,2017-07-18,5000.0,7.5,32.2,clear
+954,Green Gram (Moong),Anjad,2017-07-20,4200.0,3.14,28.4,clear
+955,Green Gram (Moong),Khetia,2017-07-20,4400.0,5.0,28.4,clear
+956,Green Gram (Moong),Anjad,2017-08-19,4000.0,2.1,27.8,clear
+957,Green Gram (Moong),Anjad,2017-08-25,4200.0,8.1,29.6,clear
+958,Green Gram (Moong),Anjad,2017-08-30,4700.0,9.0,26.4,clear
+959,Green Gram (Moong),Khetia,2017-08-30,4400.0,20.0,26.4,clear
+960,Green Gram (Moong),Anjad,2017-01-09,4000.0,12.0,26.2,clear
+961,Green Gram (Moong),Anjad,2017-10-09,4200.0,9.0,27.6,clear
+962,Green Gram (Moong),Anjad,2017-09-21,4300.0,3.0,24.8,clear
+963,Green Gram (Moong),Badwani,2017-09-21,4400.0,9.0,24.8,clear
+964,Green Gram (Moong),Anjad,2017-09-26,4100.0,8.16,31.6,clear
+965,Green Gram (Moong),Anjad,2017-01-11,3100.0,2.75,22.4,clear
+966,Green Gram (Moong),Badwani,2017-11-02,4300.0,8.4,30.2,clear
+967,Green Gram (Moong),Badwani,2017-02-26,4100.0,10.08,33.8,clear
+968,Green Gram (Moong),Badwani,2017-03-29,4500.0,8.88,42.0,clear
+969,Green Gram (Moong),Badwani,2017-09-04,4700.0,7.5,29.8,clear
+970,Green Gram (Moong),Badwani,2017-09-07,5225.0,8.52,31.4,clear
+971,Green Gram (Moong),Badwani,2017-10-08,4000.0,8.36,33.6,clear
+972,Green Gram (Moong),Balwadi,2017-10-08,5225.0,2.8,33.6,clear
+973,Green Gram (Moong),Khetia,2017-10-08,4500.0,15.0,33.6,clear
+974,Green Gram (Moong),Badwani,2017-08-15,4000.0,8.37,29.8,clear
+975,Green Gram (Moong),Badwani,2017-04-10,4500.0,2.0,38.4,clear
+976,Green Gram (Moong),Badwani,2017-08-10,4300.0,13.7,31.8,clear
+977,Green Gram (Moong),Balwadi,2017-01-08,4000.0,21.0,26.0,clear
+978,Green Gram (Moong),Khetia,2017-05-19,4600.0,20.0,41.6,clear
+979,Green Gram (Moong),Khetia,2017-05-25,4350.0,20.0,41.4,clear
+980,Green Gram (Moong),Khetia,2017-03-07,4200.0,2.0,33.4,clear
+981,Green Gram (Moong),Sendhwa,2017-03-07,5576.0,1.3,33.4,clear
+982,Green Gram (Moong),Khetia,2017-12-08,4800.0,15.0,26.6,clear
+983,Green Gram (Moong),Sendhwa,2017-05-09,4410.0,0.3,43.0,clear
+984,Green Gram (Moong),Sendhwa,2017-09-09,4180.0,0.3,31.6,clear
+985,Green Gram (Moong),Sendhwa,2017-11-09,4175.0,0.3,28.6,clear
+986,Green Gram (Moong),Sendhwa,2017-09-23,4150.0,1.8,28.8,clear
+987,Green Gram (Moong),Sendhwa,2017-06-10,4253.0,4.6,35.4,clear
+988,Green Gram (Moong),Sendhwa,2017-10-13,4050.0,3.0,30.2,clear

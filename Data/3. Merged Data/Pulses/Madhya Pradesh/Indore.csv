@@ -1,0 +1,1824 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Indore(F&V),2012-04-01,3200.0,1.1,38.0,clear
+1,Green Gram (Moong),Indore(F&V),2012-04-01,3000.0,15.4,38.0,clear
+2,Arhar (Tur/Red Gram),Indore(F&V),2012-05-01,2681.0,0.3,38.0,clear
+3,Black Gram (Urd Beans),Gautampura,2012-05-01,2850.0,3.5,38.0,clear
+4,Green Gram (Moong),Indore(F&V),2012-05-01,3200.0,7.6,38.0,clear
+5,Arhar (Tur/Red Gram),Indore(F&V),2012-06-01,0.0,2.1,38.4,clear
+6,Green Gram (Moong),Indore(F&V),2012-06-01,3000.0,12.3,38.4,clear
+7,Arhar (Tur/Red Gram),Indore(F&V),2012-07-01,2800.0,0.2,35.4,rain
+8,Green Gram (Moong),Indore(F&V),2012-07-01,3100.0,6.9,35.4,rain
+9,Arhar (Tur/Red Gram),Indore(F&V),2012-09-01,1465.0,1.0,30.0,clear
+10,Black Gram (Urd Beans),Gautampura,2012-09-01,3100.0,4.0,30.0,clear
+11,Green Gram (Moong),Indore(F&V),2012-09-01,3100.0,9.6,30.0,clear
+12,Arhar (Tur/Red Gram),Indore(F&V),2012-12-01,2300.0,2.0,25.6,clear
+13,Black Gram (Urd Beans),Gautampura,2012-12-01,3000.0,2.0,25.6,clear
+14,Green Gram (Moong),Indore(F&V),2012-12-01,3100.0,28.6,25.6,clear
+15,Arhar (Tur/Red Gram),Indore(F&V),2012-01-18,3200.0,5.9,21.8,clear
+16,Green Gram (Moong),Indore(F&V),2012-01-18,3100.0,21.0,21.8,clear
+17,Arhar (Tur/Red Gram),Indore(F&V),2012-01-20,1750.0,0.1,19.0,clear
+18,Green Gram (Moong),Indore(F&V),2012-01-20,3100.0,8.6,19.0,clear
+19,Arhar (Tur/Red Gram),Indore(F&V),2012-01-21,3100.0,1.2,20.2,clear
+20,Green Gram (Moong),Indore(F&V),2012-01-21,3100.0,22.2,20.2,clear
+21,Arhar (Tur/Red Gram),Indore(F&V),2012-01-24,3055.0,0.5,26.4,clear
+22,Black Gram (Urd Beans),Gautampura,2012-01-24,2500.0,1.0,26.4,clear
+23,Arhar (Tur/Red Gram),Indore(F&V),2012-01-25,2450.0,2.4,25.6,clear
+24,Black Gram (Urd Beans),Gautampura,2012-01-25,3200.0,2.0,25.6,clear
+25,Arhar (Tur/Red Gram),Indore(F&V),2012-01-30,3199.0,0.7,22.0,clear
+26,Arhar (Tur/Red Gram),Indore(F&V),2012-02-02,0.0,0.6,24.0,clear
+27,Arhar (Tur/Red Gram),Indore(F&V),2012-03-02,0.0,0.3,28.0,clear
+28,Black Gram (Urd Beans),Gautampura,2012-03-02,2800.0,11.3,28.0,clear
+29,Arhar (Tur/Red Gram),Indore(F&V),2012-04-02,0.0,0.3,39.0,clear
+30,Black Gram (Urd Beans),Gautampura,2012-04-02,2800.0,1.2,39.0,clear
+31,Arhar (Tur/Red Gram),Indore(F&V),2012-07-02,0.0,0.1,34.0,rain
+32,Black Gram (Urd Beans),Gautampura,2012-07-02,2451.0,2.3,34.0,rain
+33,Black Gram (Urd Beans),Sanwer,2012-07-02,2992.0,1.5,34.0,rain
+34,Arhar (Tur/Red Gram),Indore(F&V),2012-08-02,0.0,2.6,27.2,clear
+35,Black Gram (Urd Beans),Gautampura,2012-08-02,2850.0,5.1,27.2,clear
+36,Black Gram (Urd Beans),Sanwer,2012-08-02,2673.0,2.2,27.2,clear
+37,Arhar (Tur/Red Gram),Indore(F&V),2012-09-02,0.0,0.6,30.0,clear
+38,Black Gram (Urd Beans),Gautampura,2012-09-02,2850.0,2.8,30.0,clear
+39,Arhar (Tur/Red Gram),Indore(F&V),2012-11-02,0.0,1.7,29.0,clear
+40,Black Gram (Urd Beans),Gautampura,2012-11-02,3000.0,2.6,29.0,clear
+41,Black Gram (Urd Beans),Sanwer,2012-11-02,2958.0,0.2,29.0,clear
+42,Arhar (Tur/Red Gram),Indore(F&V),2012-02-13,2900.0,8.6,27.0,clear
+43,Black Gram (Urd Beans),Gautampura,2012-02-13,2850.0,8.2,27.0,clear
+44,Black Gram (Urd Beans),Sanwer,2012-02-13,2671.0,2.0,27.0,clear
+45,Arhar (Tur/Red Gram),Indore(F&V),2012-02-14,0.0,0.8,27.0,clear
+46,Black Gram (Urd Beans),Gautampura,2012-02-14,2800.0,3.0,27.0,clear
+47,Arhar (Tur/Red Gram),Indore(F&V),2012-02-16,2999.0,1.0,24.6,clear
+48,Black Gram (Urd Beans),Gautampura,2012-02-16,2870.0,4.0,24.6,clear
+49,Black Gram (Urd Beans),Sanwer,2012-02-16,2701.0,1.8,24.6,clear
+50,Arhar (Tur/Red Gram),Indore(F&V),2012-02-17,2400.0,2.5,24.0,clear
+51,Black Gram (Urd Beans),Gautampura,2012-02-17,2900.0,8.2,24.0,clear
+52,Arhar (Tur/Red Gram),Indore(F&V),2012-02-18,2800.0,2.0,27.4,clear
+53,Black Gram (Urd Beans),Gautampura,2012-02-18,3000.0,19.7,27.4,clear
+54,Black Gram (Urd Beans),Sanwer,2012-02-18,2900.0,4.2,27.4,clear
+55,Arhar (Tur/Red Gram),Indore(F&V),2012-02-22,2180.0,0.4,33.2,clear
+56,Black Gram (Urd Beans),Gautampura,2012-02-22,2900.0,9.1,33.2,clear
+57,Black Gram (Urd Beans),Sanwer,2012-02-22,3260.0,13.5,33.2,clear
+58,Arhar (Tur/Red Gram),Indore(F&V),2012-02-23,2500.0,0.2,33.2,clear
+59,Black Gram (Urd Beans),Gautampura,2012-02-23,3000.0,14.0,33.2,clear
+60,Black Gram (Urd Beans),Sanwer,2012-02-23,2960.0,8.6,33.2,clear
+61,Arhar (Tur/Red Gram),Indore(F&V),2012-02-24,2200.0,0.7,30.8,clear
+62,Black Gram (Urd Beans),Gautampura,2012-02-24,3000.0,12.0,30.8,clear
+63,Black Gram (Urd Beans),Sanwer,2012-02-24,3052.0,1.2,30.8,clear
+64,Arhar (Tur/Red Gram),Indore(F&V),2012-02-25,3000.0,0.3,32.8,clear
+65,Black Gram (Urd Beans),Gautampura,2012-02-25,3200.0,9.3,32.8,clear
+66,Black Gram (Urd Beans),Sanwer,2012-02-25,3017.0,7.4,32.8,clear
+67,Arhar (Tur/Red Gram),Indore(F&V),2012-02-27,2800.0,3.0,32.6,clear
+68,Black Gram (Urd Beans),Sanwer,2012-02-27,3000.0,12.4,32.6,clear
+69,Arhar (Tur/Red Gram),Indore(F&V),2012-02-29,2700.0,1.1,29.4,clear
+70,Black Gram (Urd Beans),Gautampura,2012-02-29,3000.0,4.0,29.4,clear
+71,Black Gram (Urd Beans),Sanwer,2012-02-29,3100.0,7.0,29.4,clear
+72,Arhar (Tur/Red Gram),Indore(F&V),2012-01-03,2600.0,1.2,22.6,clear
+73,Black Gram (Urd Beans),Gautampura,2012-01-03,3000.0,7.5,22.6,clear
+74,Black Gram (Urd Beans),Sanwer,2012-01-03,2941.0,0.5,22.6,clear
+75,Arhar (Tur/Red Gram),Indore(F&V),2012-02-03,0.0,0.4,28.6,clear
+76,Black Gram (Urd Beans),Gautampura,2012-02-03,2900.0,12.0,28.6,clear
+77,Black Gram (Urd Beans),Sanwer,2012-02-03,2800.0,5.6,28.6,clear
+78,Arhar (Tur/Red Gram),Indore(F&V),2012-03-03,2700.0,0.2,30.0,clear
+79,Black Gram (Urd Beans),Gautampura,2012-03-03,3100.0,12.7,30.0,clear
+80,Black Gram (Urd Beans),Sanwer,2012-03-03,3045.0,2.2,30.0,clear
+81,Arhar (Tur/Red Gram),Indore(F&V),2012-06-03,0.0,0.8,37.2,clear
+82,Black Gram (Urd Beans),Gautampura,2012-06-03,3100.0,5.0,37.2,clear
+83,Black Gram (Urd Beans),Sanwer,2012-06-03,3164.0,3.7,37.2,clear
+84,Arhar (Tur/Red Gram),Indore(F&V),2012-09-03,2680.0,0.2,28.0,clear
+85,Black Gram (Urd Beans),Gautampura,2012-09-03,3150.0,13.2,28.0,clear
+86,Arhar (Tur/Red Gram),Indore(F&V),2012-10-03,2500.0,2.7,33.0,clear
+87,Black Gram (Urd Beans),Gautampura,2012-10-03,3100.0,4.7,33.0,clear
+88,Black Gram (Urd Beans),Sanwer,2012-10-03,0.0,0.6,33.0,clear
+89,Arhar (Tur/Red Gram),Indore(F&V),2012-03-15,2701.0,0.4,33.2,clear
+90,Black Gram (Urd Beans),Gautampura,2012-03-15,3000.0,18.5,33.2,clear
+91,Black Gram (Urd Beans),Sanwer,2012-03-15,0.0,0.8,33.2,clear
+92,Arhar (Tur/Red Gram),Indore(F&V),2012-03-16,2790.0,6.6,36.4,clear
+93,Black Gram (Urd Beans),Gautampura,2012-03-16,3200.0,12.3,36.4,clear
+94,Black Gram (Urd Beans),Sanwer,2012-03-16,3401.0,1.0,36.4,clear
+95,Arhar (Tur/Red Gram),Indore(F&V),2012-03-17,2741.0,0.2,34.8,clear
+96,Black Gram (Urd Beans),Gautampura,2012-03-17,3000.0,7.5,34.8,clear
+97,Black Gram (Urd Beans),Sanwer,2012-03-17,3412.0,2.5,34.8,clear
+98,Arhar (Tur/Red Gram),Indore(F&V),2012-03-19,2400.0,4.3,35.6,clear
+99,Black Gram (Urd Beans),Sanwer,2012-03-19,3441.0,10.5,35.6,clear
+100,Arhar (Tur/Red Gram),Indore(F&V),2012-03-29,2641.0,0.4,36.8,clear
+101,Black Gram (Urd Beans),Sanwer,2012-03-29,3412.0,7.0,36.8,clear
+102,Arhar (Tur/Red Gram),Indore(F&V),2012-05-04,2800.0,1.2,38.0,clear
+103,Black Gram (Urd Beans),Gautampura,2012-05-04,3100.0,11.0,38.0,clear
+104,Black Gram (Urd Beans),Sanwer,2012-05-04,0.0,0.9,38.0,clear
+105,Arhar (Tur/Red Gram),Indore(F&V),2012-04-19,2500.0,0.9,37.0,clear
+106,Black Gram (Urd Beans),Gautampura,2012-04-19,3350.0,8.8,37.0,clear
+107,Black Gram (Urd Beans),Sanwer,2012-04-19,3351.0,4.4,37.0,clear
+108,Arhar (Tur/Red Gram),Indore(F&V),2012-04-20,2500.0,0.2,32.6,clear
+109,Black Gram (Urd Beans),Gautampura,2012-04-20,3700.0,16.0,32.6,clear
+110,Arhar (Tur/Red Gram),Indore(F&V),2012-04-27,2300.0,0.2,36.4,clear
+111,Arhar (Tur/Red Gram),Indore(F&V),2012-04-05,2651.0,0.3,37.8,clear
+112,Arhar (Tur/Red Gram),Indore(F&V),2012-08-05,2650.0,0.3,29.8,clear
+113,Arhar (Tur/Red Gram),Indore(F&V),2012-09-05,2697.0,0.7,25.2,rain
+114,Black Gram (Urd Beans),Gautampura,2012-09-05,4205.0,8.0,25.2,rain
+115,Arhar (Tur/Red Gram),Indore(F&V),2012-11-05,2795.0,1.2,27.6,clear
+116,Arhar (Tur/Red Gram),Indore(F&V),2012-12-05,1550.0,0.1,28.0,clear
+117,Black Gram (Urd Beans),Gautampura,2012-12-05,3800.0,2.0,28.0,clear
+118,Arhar (Tur/Red Gram),Indore(F&V),2012-05-16,2500.0,0.1,39.2,clear
+119,Black Gram (Urd Beans),Gautampura,2012-05-16,4000.0,19.0,39.2,clear
+120,Arhar (Tur/Red Gram),Indore(F&V),2012-05-21,1860.0,0.1,40.2,clear
+121,Arhar (Tur/Red Gram),Indore(F&V),2012-05-23,2100.0,0.3,39.4,clear
+122,Arhar (Tur/Red Gram),Indore(F&V),2012-05-25,3200.0,2.2,41.4,clear
+123,Arhar (Tur/Red Gram),Indore(F&V),2012-05-28,2500.0,0.1,40.0,clear
+124,Black Gram (Urd Beans),Gautampura,2012-05-28,3800.0,4.0,40.0,clear
+125,Arhar (Tur/Red Gram),Indore(F&V),2012-05-31,2201.0,0.2,40.0,clear
+126,Arhar (Tur/Red Gram),Indore(F&V),2012-01-06,3177.0,2.2,24.8,clear
+127,Arhar (Tur/Red Gram),Indore(F&V),2012-04-06,2999.0,5.2,38.0,clear
+128,Arhar (Tur/Red Gram),Indore(F&V),2012-06-06,2205.0,0.1,34.0,clear
+129,Black Gram (Urd Beans),Sanwer,2012-06-06,5700.0,0.5,34.0,clear
+130,Arhar (Tur/Red Gram),Indore(F&V),2012-08-06,2200.0,0.1,26.4,rain
+131,Arhar (Tur/Red Gram),Indore(F&V),2012-09-06,3125.0,2.2,25.0,rain
+132,Black Gram (Urd Beans),Gautampura,2012-09-06,3800.0,6.0,25.0,rain
+133,Arhar (Tur/Red Gram),Indore(F&V),2012-11-06,2950.0,0.2,26.0,clear
+134,Black Gram (Urd Beans),Gautampura,2012-11-06,3900.0,6.0,26.0,clear
+135,Arhar (Tur/Red Gram),Indore(F&V),2012-06-16,3000.0,1.1,34.8,clear
+136,Black Gram (Urd Beans),Gautampura,2012-06-16,3800.0,11.7,34.8,clear
+137,Arhar (Tur/Red Gram),Indore(F&V),2012-06-20,3300.0,0.5,33.6,clear
+138,Black Gram (Urd Beans),Gautampura,2012-06-20,3200.0,2.5,33.6,clear
+139,Arhar (Tur/Red Gram),Indore(F&V),2012-06-21,1870.0,1.0,35.0,clear
+140,Arhar (Tur/Red Gram),Indore(F&V),2012-06-22,3092.0,6.0,35.4,clear
+141,Arhar (Tur/Red Gram),Indore(F&V),2012-06-25,3150.0,0.3,35.0,clear
+142,Black Gram (Urd Beans),Gautampura,2012-06-25,3200.0,23.8,35.0,clear
+143,Arhar (Tur/Red Gram),Indore(F&V),2012-06-26,3505.0,0.2,36.2,clear
+144,Black Gram (Urd Beans),Gautampura,2012-06-26,3500.0,1.0,36.2,clear
+145,Arhar (Tur/Red Gram),Indore(F&V),2012-06-27,3300.0,1.0,35.2,clear
+146,Arhar (Tur/Red Gram),Indore(F&V),2012-06-29,2651.0,0.4,34.0,clear
+147,Arhar (Tur/Red Gram),Indore(F&V),2012-06-30,0.0,0.4,34.2,clear
+148,Arhar (Tur/Red Gram),Indore(F&V),2012-06-07,3500.0,3.3,32.8,clear
+149,Black Gram (Urd Beans),Gautampura,2012-06-07,4000.0,10.5,32.8,clear
+150,Arhar (Tur/Red Gram),Indore(F&V),2012-07-13,3270.0,0.7,31.8,clear
+151,Arhar (Tur/Red Gram),Indore(F&V),2012-07-14,2770.0,0.4,30.0,clear
+152,Black Gram (Urd Beans),Gautampura,2012-07-14,4500.0,0.4,30.0,clear
+153,Black Gram (Urd Beans),Sanwer,2012-07-14,0.0,9.5,30.0,clear
+154,Arhar (Tur/Red Gram),Indore(F&V),2012-07-16,2975.0,0.1,32.0,clear
+155,Black Gram (Urd Beans),Gautampura,2012-07-16,3500.0,4.0,32.0,clear
+156,Black Gram (Urd Beans),Sanwer,2012-07-16,5253.0,0.5,32.0,clear
+157,Arhar (Tur/Red Gram),Indore(F&V),2012-07-20,2201.0,0.1,31.4,clear
+158,Black Gram (Urd Beans),Gautampura,2012-07-20,3200.0,3.0,31.4,clear
+159,Arhar (Tur/Red Gram),Indore(F&V),2012-07-21,3000.0,0.2,31.4,clear
+160,Arhar (Tur/Red Gram),Indore(F&V),2012-07-23,3520.0,0.3,24.6,clear
+161,Arhar (Tur/Red Gram),Indore(F&V),2012-07-25,3750.0,0.3,27.0,clear
+162,Black Gram (Urd Beans),Gautampura,2012-07-25,1950.0,8.5,27.0,clear
+163,Arhar (Tur/Red Gram),Indore(F&V),2012-07-26,2750.0,0.2,28.6,clear
+164,Arhar (Tur/Red Gram),Indore(F&V),2012-07-27,1385.0,0.4,24.8,clear
+165,Arhar (Tur/Red Gram),Indore(F&V),2012-03-08,2150.0,0.1,28.2,clear
+166,Black Gram (Urd Beans),Gautampura,2012-03-08,4500.0,1.0,28.2,clear
+167,Arhar (Tur/Red Gram),Indore(F&V),2012-08-08,0.0,0.1,25.0,clear
+168,Black Gram (Urd Beans),Gautampura,2012-08-08,2800.0,1.4,25.0,clear
+169,Arhar (Tur/Red Gram),Indore(F&V),2012-09-08,3300.0,0.2,30.0,clear
+170,Arhar (Tur/Red Gram),Indore(F&V),2012-08-13,3500.0,2.2,23.8,rain
+171,Arhar (Tur/Red Gram),Indore(F&V),2012-08-14,2600.0,0.2,25.4,rain
+172,Black Gram (Urd Beans),Sanwer,2012-08-14,4700.0,5.0,25.4,rain
+173,Arhar (Tur/Red Gram),Indore(F&V),2012-08-21,3800.0,0.2,25.8,clear
+174,Arhar (Tur/Red Gram),Indore(F&V),2012-08-27,1901.0,0.1,24.2,rain
+175,Arhar (Tur/Red Gram),Indore(F&V),2012-08-30,1725.0,0.4,29.8,clear
+176,Arhar (Tur/Red Gram),Indore(F&V),2012-08-09,2700.0,0.1,25.0,clear
+177,Arhar (Tur/Red Gram),Indore(F&V),2012-11-09,2891.0,0.1,28.4,clear
+178,Arhar (Tur/Red Gram),Indore(F&V),2012-09-13,2000.0,0.1,27.6,clear
+179,Arhar (Tur/Red Gram),Indore(F&V),2012-09-21,3000.0,0.3,31.4,clear
+180,Arhar (Tur/Red Gram),Indore(F&V),2012-09-22,3300.0,0.1,31.6,clear
+181,Arhar (Tur/Red Gram),Indore(F&V),2012-09-24,3010.0,0.6,29.8,clear
+182,Arhar (Tur/Red Gram),Indore(F&V),2012-09-26,2590.0,0.1,27.2,clear
+183,Arhar (Tur/Red Gram),Indore(F&V),2012-05-10,2600.0,0.1,38.0,clear
+184,Black Gram (Urd Beans),Gautampura,2012-05-10,3500.0,1.0,38.0,clear
+185,Arhar (Tur/Red Gram),Indore(F&V),2012-11-20,2210.0,0.3,25.8,clear
+186,Black Gram (Urd Beans),Sanwer,2012-11-20,4195.0,15.0,25.8,clear
+187,Arhar (Tur/Red Gram),Indore(F&V),2012-11-29,1510.0,0.1,29.8,clear
+188,Arhar (Tur/Red Gram),Indore(F&V),2012-01-12,2401.0,0.2,20.2,clear
+189,Arhar (Tur/Red Gram),Indore(F&V),2012-05-12,2595.0,0.1,37.0,clear
+190,Black Gram (Urd Beans),Gautampura,2012-05-12,3600.0,5.0,37.0,clear
+191,Arhar (Tur/Red Gram),Indore(F&V),2012-11-12,2765.0,1.0,28.8,clear
+192,Arhar (Tur/Red Gram),Indore(F&V),2012-12-15,1702.0,0.1,26.8,clear
+193,Black Gram (Urd Beans),Gautampura,2012-10-01,2820.0,5.9,32.4,clear
+194,Black Gram (Urd Beans),Gautampura,2012-01-13,3100.0,7.5,22.4,clear
+195,Green Gram (Moong),Indore(F&V),2012-01-13,3100.0,10.9,22.4,clear
+196,Black Gram (Urd Beans),Gautampura,2012-01-19,2500.0,1.0,20.4,clear
+197,Black Gram (Urd Beans),Gautampura,2012-01-27,2800.0,1.0,25.2,clear
+198,Black Gram (Urd Beans),Gautampura,2012-01-28,2800.0,12.5,25.0,clear
+199,Black Gram (Urd Beans),Gautampura,2012-06-02,2800.0,1.5,37.0,clear
+200,Black Gram (Urd Beans),Sanwer,2012-06-02,2901.0,0.7,37.0,clear
+201,Black Gram (Urd Beans),Gautampura,2012-10-02,2900.0,5.0,32.8,clear
+202,Black Gram (Urd Beans),Gautampura,2012-02-20,3000.0,2.5,31.4,clear
+203,Black Gram (Urd Beans),Gautampura,2012-02-21,3000.0,22.0,33.6,clear
+204,Black Gram (Urd Beans),Gautampura,2012-02-28,3100.0,10.6,30.8,clear
+205,Black Gram (Urd Beans),Sanwer,2012-02-28,3301.0,0.2,30.8,clear
+206,Black Gram (Urd Beans),Gautampura,2012-04-03,3000.0,7.3,38.6,clear
+207,Black Gram (Urd Beans),Gautampura,2012-05-03,3150.0,7.0,39.0,clear
+208,Black Gram (Urd Beans),Sanwer,2012-05-03,3320.0,2.8,39.0,clear
+209,Black Gram (Urd Beans),Gautampura,2012-07-03,3000.0,1.5,35.4,rain
+210,Black Gram (Urd Beans),Sanwer,2012-07-03,3250.0,12.8,35.4,rain
+211,Black Gram (Urd Beans),Gautampura,2012-03-14,2905.0,5.0,29.0,clear
+212,Black Gram (Urd Beans),Sanwer,2012-03-14,3201.0,8.8,29.0,clear
+213,Black Gram (Urd Beans),Gautampura,2012-03-18,3100.0,20.5,34.6,clear
+214,Black Gram (Urd Beans),Gautampura,2012-01-04,3100.0,25.0,26.2,clear
+215,Black Gram (Urd Beans),Gautampura,2012-02-04,3200.0,18.5,29.0,clear
+216,Black Gram (Urd Beans),Gautampura,2012-04-04,3200.0,14.0,38.6,clear
+217,Black Gram (Urd Beans),Gautampura,2012-06-04,3200.0,11.5,36.4,clear
+218,Black Gram (Urd Beans),Gautampura,2012-10-04,3700.0,2.0,32.0,clear
+219,Black Gram (Urd Beans),Gautampura,2012-04-14,3100.0,4.0,35.6,clear
+220,Black Gram (Urd Beans),Gautampura,2012-04-16,3000.0,13.1,37.4,clear
+221,Black Gram (Urd Beans),Sanwer,2012-04-16,0.0,1.4,37.4,clear
+222,Black Gram (Urd Beans),Gautampura,2012-04-18,3460.0,6.0,37.2,clear
+223,Black Gram (Urd Beans),Gautampura,2012-04-22,3350.0,10.0,36.6,clear
+224,Black Gram (Urd Beans),Gautampura,2012-01-05,3500.0,2.5,24.8,clear
+225,Black Gram (Urd Beans),Gautampura,2012-02-05,3200.0,1.0,25.8,clear
+226,Black Gram (Urd Beans),Gautampura,2012-05-05,3400.0,7.0,38.0,rain
+227,Black Gram (Urd Beans),Gautampura,2012-06-05,3500.0,9.5,37.4,clear
+228,Black Gram (Urd Beans),Gautampura,2012-07-05,3000.0,1.1,27.8,clear
+229,Black Gram (Urd Beans),Gautampura,2012-10-05,3500.0,7.5,32.2,clear
+230,Black Gram (Urd Beans),Gautampura,2012-05-13,3800.0,5.6,36.0,clear
+231,Black Gram (Urd Beans),Gautampura,2012-05-15,4000.0,36.5,37.8,clear
+232,Black Gram (Urd Beans),Gautampura,2012-05-17,3800.0,11.0,39.6,clear
+233,Black Gram (Urd Beans),Gautampura,2012-05-18,3300.0,4.0,39.6,clear
+234,Black Gram (Urd Beans),Gautampura,2012-05-19,4260.0,4.0,38.8,clear
+235,Black Gram (Urd Beans),Gautampura,2012-05-22,3600.0,1.0,37.8,clear
+236,Black Gram (Urd Beans),Gautampura,2012-05-24,3850.0,29.5,40.0,clear
+237,Black Gram (Urd Beans),Gautampura,2012-05-29,3800.0,8.0,40.4,clear
+238,Black Gram (Urd Beans),Gautampura,2012-05-30,3700.0,1.0,39.6,clear
+239,Black Gram (Urd Beans),Gautampura,2012-02-06,3900.0,14.7,27.4,clear
+240,Black Gram (Urd Beans),Gautampura,2012-07-06,3900.0,8.5,29.4,clear
+241,Black Gram (Urd Beans),Gautampura,2012-12-06,3800.0,12.0,29.6,clear
+242,Black Gram (Urd Beans),Gautampura,2012-06-13,4000.0,9.0,36.6,clear
+243,Black Gram (Urd Beans),Gautampura,2012-06-18,4300.0,5.0,33.8,clear
+244,Black Gram (Urd Beans),Gautampura,2012-06-19,3100.0,2.5,36.2,clear
+245,Black Gram (Urd Beans),Gautampura,2012-06-23,3800.0,22.5,36.0,clear
+246,Black Gram (Urd Beans),Gautampura,2012-04-07,3200.0,1.0,38.6,clear
+247,Black Gram (Urd Beans),Gautampura,2012-09-07,3550.0,2.0,28.0,clear
+248,Black Gram (Urd Beans),Gautampura,2012-12-07,3600.0,3.0,31.0,clear
+249,Black Gram (Urd Beans),Gautampura,2012-07-17,3800.0,5.5,31.0,clear
+250,Black Gram (Urd Beans),Gautampura,2012-07-19,3800.0,5.4,31.0,clear
+251,Black Gram (Urd Beans),Gautampura,2012-06-08,3500.0,1.3,35.6,clear
+252,Black Gram (Urd Beans),Gautampura,2012-10-08,1800.0,6.9,33.4,clear
+253,Black Gram (Urd Beans),Gautampura,2012-08-22,4600.0,11.0,26.4,clear
+254,Black Gram (Urd Beans),Gautampura,2012-08-26,4000.0,5.0,29.0,clear
+255,Black Gram (Urd Beans),Gautampura,2012-04-09,4600.0,9.4,38.8,clear
+256,Black Gram (Urd Beans),Gautampura,2012-02-11,5500.0,5.5,26.2,clear
+257,Black Gram (Urd Beans),Gautampura,2012-11-16,4400.0,26.5,27.4,clear
+258,Black Gram (Urd Beans),Gautampura,2012-11-17,3205.0,1.0,27.0,clear
+259,Black Gram (Urd Beans),Gautampura,2012-11-18,3500.0,13.7,27.6,clear
+260,Black Gram (Urd Beans),Gautampura,2012-11-19,2600.0,1.5,27.6,clear
+261,Black Gram (Urd Beans),Gautampura,2012-07-12,3500.0,6.0,32.2,clear
+262,Black Gram (Urd Beans),Gautampura,2012-08-12,3020.0,1.5,23.4,rain
+263,Black Gram (Urd Beans),Gautampura,2012-09-12,3300.0,1.2,24.4,clear
+264,Black Gram (Urd Beans),Gautampura,2012-12-19,3325.0,8.0,24.4,clear
+265,Black Gram (Urd Beans),Gautampura,2012-12-21,3600.0,4.7,24.6,clear
+266,Black Gram (Urd Beans),Gautampura,2012-12-24,2100.0,1.5,24.2,clear
+267,Black Gram (Urd Beans),Gautampura,2012-12-26,3500.0,8.0,23.2,clear
+268,Black Gram (Urd Beans),Sanwer,2012-12-26,3150.0,6.7,23.2,clear
+269,Black Gram (Urd Beans),Gautampura,2012-12-27,2500.0,1.4,23.8,clear
+270,Black Gram (Urd Beans),Sanwer,2012-12-27,3510.0,0.5,23.8,clear
+271,Black Gram (Urd Beans),Sanwer,2012-01-16,1991.0,12.0,27.0,clear
+272,Green Gram (Moong),Indore(F&V),2012-01-16,3100.0,17.5,27.0,clear
+273,Black Gram (Urd Beans),Sanwer,2012-02-15,2751.0,0.1,28.0,clear
+274,Black Gram (Urd Beans),Sanwer,2012-03-20,3441.0,10.5,36.6,clear
+275,Black Gram (Urd Beans),Sanwer,2012-03-21,3378.0,11.1,33.8,clear
+276,Black Gram (Urd Beans),Sanwer,2012-03-22,6527.0,0.3,33.0,clear
+277,Black Gram (Urd Beans),Sanwer,2012-03-24,0.0,3.2,36.2,clear
+278,Black Gram (Urd Beans),Sanwer,2012-03-26,3376.0,6.7,37.2,clear
+279,Black Gram (Urd Beans),Sanwer,2012-03-27,3450.0,7.8,36.6,clear
+280,Black Gram (Urd Beans),Sanwer,2012-03-28,3430.0,6.7,37.8,clear
+281,Black Gram (Urd Beans),Sanwer,2012-03-30,3200.0,19.9,36.6,clear
+282,Black Gram (Urd Beans),Sanwer,2012-03-31,3221.0,14.0,37.8,clear
+283,Black Gram (Urd Beans),Sanwer,2012-03-04,0.0,5.2,32.6,clear
+284,Black Gram (Urd Beans),Sanwer,2012-07-04,0.0,5.3,29.0,clear
+285,Black Gram (Urd Beans),Sanwer,2012-07-07,0.0,10.0,30.0,clear
+286,Black Gram (Urd Beans),Sanwer,2012-10-16,4000.0,12.5,33.0,clear
+287,Black Gram (Urd Beans),Sanwer,2012-10-20,4500.0,5.0,32.4,clear
+288,Black Gram (Urd Beans),Sanwer,2012-10-30,4311.0,1.6,29.6,clear
+289,Black Gram (Urd Beans),Sanwer,2012-10-31,0.0,0.2,29.0,clear
+290,Black Gram (Urd Beans),Sanwer,2012-01-11,4331.0,0.2,20.4,clear
+291,Black Gram (Urd Beans),Sanwer,2012-03-11,3800.0,0.1,31.6,clear
+292,Black Gram (Urd Beans),Sanwer,2012-05-11,0.0,8.5,37.4,clear
+293,Black Gram (Urd Beans),Sanwer,2012-07-11,4021.0,5.0,31.4,clear
+294,Black Gram (Urd Beans),Sanwer,2012-08-11,4300.0,1.5,24.0,clear
+295,Black Gram (Urd Beans),Sanwer,2012-09-11,4000.0,3.0,29.4,clear
+296,Black Gram (Urd Beans),Sanwer,2012-11-23,3202.0,0.9,29.2,clear
+297,Black Gram (Urd Beans),Sanwer,2012-11-24,4300.0,10.0,27.6,clear
+298,Black Gram (Urd Beans),Sanwer,2012-11-26,3160.0,22.0,29.8,clear
+299,Black Gram (Urd Beans),Sanwer,2012-11-27,0.0,6.0,29.8,clear
+300,Green Gram (Moong),Indore(F&V),2012-02-01,3000.0,11.8,21.8,clear
+301,Green Gram (Moong),Indore(F&V),2012-03-01,3000.0,16.1,29.4,clear
+302,Green Gram (Moong),Indore(F&V),2012-01-17,3100.0,7.6,24.0,clear
+303,Arhar (Tur/Red Gram),Indore,2013-01-07,2725.0,0.2,18.6,clear
+304,Black Gram (Urd Beans),Gautampura,2013-01-07,2500.0,2.5,18.6,clear
+305,Arhar (Tur/Red Gram),Indore,2013-10-07,3400.0,0.1,30.4,clear
+306,Black Gram (Urd Beans),Gautampura,2013-10-07,2700.0,16.5,30.4,clear
+307,Arhar (Tur/Red Gram),Indore,2013-11-09,3600.0,1.7,26.6,clear
+308,Arhar (Tur/Red Gram),Indore,2013-12-10,3000.0,558.9,25.2,clear
+309,Arhar (Tur/Red Gram),Indore,2013-12-21,2790.0,0.2,24.8,clear
+310,Arhar (Tur/Red Gram),Indore(F&V),2013-05-01,3135.0,0.1,41.0,clear
+311,Black Gram (Urd Beans),Gautampura,2013-05-01,3000.0,1.0,41.0,clear
+312,Arhar (Tur/Red Gram),Indore(F&V),2013-12-01,3200.0,1.0,28.2,clear
+313,Black Gram (Urd Beans),Gautampura,2013-12-01,3000.0,5.0,28.2,clear
+314,Arhar (Tur/Red Gram),Indore(F&V),2013-01-17,3350.0,0.2,29.4,clear
+315,Arhar (Tur/Red Gram),Indore(F&V),2013-01-21,3271.0,1.0,20.0,clear
+316,Black Gram (Urd Beans),Gautampura,2013-01-21,3000.0,1.0,20.0,clear
+317,Arhar (Tur/Red Gram),Indore(F&V),2013-01-22,3549.0,0.5,22.0,clear
+318,Arhar (Tur/Red Gram),Indore(F&V),2013-01-23,3430.0,1.1,21.2,clear
+319,Black Gram (Urd Beans),Gautampura,2013-01-23,3400.0,1.5,21.2,clear
+320,Arhar (Tur/Red Gram),Indore(F&V),2013-01-28,3300.0,0.1,24.0,clear
+321,Black Gram (Urd Beans),Gautampura,2013-01-28,3100.0,21.7,24.0,clear
+322,Arhar (Tur/Red Gram),Indore(F&V),2013-01-30,1205.0,0.1,24.0,clear
+323,Arhar (Tur/Red Gram),Indore(F&V),2013-01-31,3090.0,0.2,25.6,clear
+324,Black Gram (Urd Beans),Sanwer,2013-01-31,3130.0,2.5,25.6,clear
+325,Arhar (Tur/Red Gram),Indore(F&V),2013-01-02,3500.0,0.2,23.2,clear
+326,Black Gram (Urd Beans),Gautampura,2013-01-02,3000.0,2.0,23.2,clear
+327,Arhar (Tur/Red Gram),Indore(F&V),2013-06-02,3375.0,0.2,36.4,clear
+328,Arhar (Tur/Red Gram),Indore(F&V),2013-08-02,3261.0,1.0,27.0,clear
+329,Black Gram (Urd Beans),Gautampura,2013-08-02,2900.0,1.0,27.0,clear
+330,Arhar (Tur/Red Gram),Indore(F&V),2013-11-02,3300.0,0.9,29.6,clear
+331,Black Gram (Urd Beans),Gautampura,2013-11-02,3000.0,1.0,29.6,clear
+332,Arhar (Tur/Red Gram),Indore(F&V),2013-03-15,3992.0,2.6,31.2,clear
+333,Black Gram (Urd Beans),Gautampura,2013-03-15,2650.0,5.7,31.2,clear
+334,Black Gram (Urd Beans),Sanwer,2013-03-15,3167.0,9.6,31.2,clear
+335,Arhar (Tur/Red Gram),Indore(F&V),2013-03-04,3900.0,0.2,32.0,clear
+336,Black Gram (Urd Beans),Gautampura,2013-03-04,2750.0,4.5,32.0,clear
+337,Black Gram (Urd Beans),Sanwer,2013-03-04,2150.0,9.0,32.0,clear
+338,Arhar (Tur/Red Gram),Indore(F&V),2013-06-04,3950.0,0.2,37.2,clear
+339,Black Gram (Urd Beans),Gautampura,2013-06-04,3100.0,7.5,37.2,clear
+340,Black Gram (Urd Beans),Sanwer,2013-06-04,0.0,1.7,37.2,clear
+341,Arhar (Tur/Red Gram),Indore(F&V),2013-08-04,3455.0,1.2,27.6,clear
+342,Black Gram (Urd Beans),Gautampura,2013-08-04,3100.0,13.5,27.6,clear
+343,Black Gram (Urd Beans),Sanwer,2013-08-04,3090.0,1.9,27.6,clear
+344,Arhar (Tur/Red Gram),Indore(F&V),2013-12-04,3900.0,0.4,26.8,clear
+345,Black Gram (Urd Beans),Gautampura,2013-12-04,3000.0,5.5,26.8,clear
+346,Black Gram (Urd Beans),Sanwer,2013-12-04,3150.0,3.0,26.8,clear
+347,Arhar (Tur/Red Gram),Indore(F&V),2013-04-13,3701.0,0.2,37.2,clear
+348,Black Gram (Urd Beans),Sanwer,2013-04-13,0.0,1.3,37.2,clear
+349,Arhar (Tur/Red Gram),Indore(F&V),2013-04-17,3700.0,0.5,35.6,clear
+350,Black Gram (Urd Beans),Gautampura,2013-04-17,2900.0,5.5,35.6,clear
+351,Arhar (Tur/Red Gram),Indore(F&V),2013-04-18,3700.0,0.8,33.4,clear
+352,Arhar (Tur/Red Gram),Indore(F&V),2013-04-22,3760.0,0.1,32.8,clear
+353,Black Gram (Urd Beans),Sanwer,2013-04-22,3001.0,0.7,32.8,clear
+354,Arhar (Tur/Red Gram),Indore(F&V),2013-04-24,1410.0,0.1,36.6,clear
+355,Black Gram (Urd Beans),Sanwer,2013-04-24,3235.0,0.3,36.6,clear
+356,Arhar (Tur/Red Gram),Indore(F&V),2013-04-29,3636.0,0.2,39.8,clear
+357,Arhar (Tur/Red Gram),Indore(F&V),2013-04-30,3401.0,0.1,40.4,clear
+358,Arhar (Tur/Red Gram),Indore(F&V),2013-01-05,3665.0,0.1,21.2,clear
+359,Black Gram (Urd Beans),Gautampura,2013-01-05,3000.0,10.0,21.2,clear
+360,Black Gram (Urd Beans),Sanwer,2013-01-05,0.0,2.0,21.2,clear
+361,Arhar (Tur/Red Gram),Indore(F&V),2013-03-05,3300.0,2.1,32.8,clear
+362,Black Gram (Urd Beans),Gautampura,2013-03-05,2850.0,3.5,32.8,clear
+363,Arhar (Tur/Red Gram),Indore(F&V),2013-04-05,3400.0,0.2,35.0,clear
+364,Black Gram (Urd Beans),Gautampura,2013-04-05,3000.0,5.0,35.0,clear
+365,Arhar (Tur/Red Gram),Indore(F&V),2013-06-05,3515.0,0.6,33.2,clear
+366,Arhar (Tur/Red Gram),Indore(F&V),2013-08-05,3705.0,0.5,26.6,clear
+367,Black Gram (Urd Beans),Gautampura,2013-08-05,3000.0,3.0,26.6,clear
+368,Black Gram (Urd Beans),Sanwer,2013-08-05,0.0,0.4,26.6,clear
+369,Arhar (Tur/Red Gram),Indore(F&V),2013-05-16,3450.0,1.0,39.8,clear
+370,Arhar (Tur/Red Gram),Indore(F&V),2013-05-24,3700.0,5.2,38.8,clear
+371,Black Gram (Urd Beans),Sanwer,2013-05-24,0.0,1.1,38.8,clear
+372,Arhar (Tur/Red Gram),Indore(F&V),2013-05-06,3500.0,0.3,39.0,clear
+373,Black Gram (Urd Beans),Gautampura,2013-05-06,2810.0,8.0,39.0,clear
+374,Black Gram (Urd Beans),Sanwer,2013-05-06,2301.0,0.3,39.0,clear
+375,Arhar (Tur/Red Gram),Indore(F&V),2013-06-13,3600.0,6.1,31.2,clear
+376,Black Gram (Urd Beans),Gautampura,2013-06-13,2641.0,2.5,31.2,clear
+377,Black Gram (Urd Beans),Sanwer,2013-06-13,2839.0,1.8,31.2,clear
+378,Black Gram (Urd Beans),Gautampura,2013-02-01,3000.0,1.0,29.8,clear
+379,Black Gram (Urd Beans),Gautampura,2013-08-01,3000.0,2.0,24.4,clear
+380,Black Gram (Urd Beans),Gautampura,2013-09-01,3500.0,1.0,29.8,clear
+381,Black Gram (Urd Beans),Gautampura,2013-10-01,2500.0,1.3,29.6,clear
+382,Black Gram (Urd Beans),Gautampura,2013-11-01,3500.0,1.0,30.8,clear
+383,Black Gram (Urd Beans),Gautampura,2013-01-14,4000.0,1.5,27.4,clear
+384,Black Gram (Urd Beans),Gautampura,2013-01-25,3675.0,18.0,21.4,clear
+385,Black Gram (Urd Beans),Gautampura,2013-01-27,3651.0,0.7,22.6,clear
+386,Black Gram (Urd Beans),Gautampura,2013-01-29,2900.0,5.6,24.2,clear
+387,Black Gram (Urd Beans),Gautampura,2013-04-02,3050.0,1.5,35.4,clear
+388,Black Gram (Urd Beans),Gautampura,2013-07-02,3200.0,2.5,27.4,clear
+389,Black Gram (Urd Beans),Gautampura,2013-09-02,2850.0,7.3,30.0,clear
+390,Black Gram (Urd Beans),Gautampura,2013-02-15,3000.0,1.0,25.0,clear
+391,Black Gram (Urd Beans),Gautampura,2013-01-03,3000.0,1.0,21.2,clear
+392,Black Gram (Urd Beans),Sanwer,2013-01-03,2800.0,3.9,21.2,clear
+393,Black Gram (Urd Beans),Gautampura,2013-02-03,3000.0,8.2,28.2,clear
+394,Black Gram (Urd Beans),Sanwer,2013-02-03,2511.0,5.0,28.2,clear
+395,Black Gram (Urd Beans),Gautampura,2013-04-03,2800.0,1.2,34.0,clear
+396,Black Gram (Urd Beans),Sanwer,2013-04-03,2965.0,2.1,34.0,clear
+397,Black Gram (Urd Beans),Gautampura,2013-06-03,2900.0,7.0,37.4,clear
+398,Black Gram (Urd Beans),Sanwer,2013-06-03,2826.0,0.5,37.4,clear
+399,Black Gram (Urd Beans),Gautampura,2013-07-03,2900.0,14.5,24.2,rain
+400,Black Gram (Urd Beans),Sanwer,2013-07-03,2451.0,0.4,24.2,rain
+401,Black Gram (Urd Beans),Gautampura,2013-08-03,2900.0,5.5,25.8,clear
+402,Black Gram (Urd Beans),Sanwer,2013-08-03,3000.0,2.7,25.8,clear
+403,Black Gram (Urd Beans),Gautampura,2013-09-03,2900.0,9.5,28.4,clear
+404,Black Gram (Urd Beans),Gautampura,2013-11-03,2800.0,26.5,29.8,clear
+405,Black Gram (Urd Beans),Gautampura,2013-03-13,2900.0,6.5,34.4,clear
+406,Black Gram (Urd Beans),Sanwer,2013-03-13,3100.0,1.0,34.4,clear
+407,Black Gram (Urd Beans),Gautampura,2013-03-14,2800.0,2.0,32.2,clear
+408,Black Gram (Urd Beans),Gautampura,2013-03-16,2700.0,4.0,30.8,clear
+409,Black Gram (Urd Beans),Sanwer,2013-03-16,2900.0,3.9,30.8,clear
+410,Black Gram (Urd Beans),Gautampura,2013-03-17,3000.0,3.6,29.8,clear
+411,Black Gram (Urd Beans),Gautampura,2013-03-18,2900.0,15.5,31.0,clear
+412,Black Gram (Urd Beans),Sanwer,2013-03-18,3100.0,2.4,31.0,clear
+413,Black Gram (Urd Beans),Gautampura,2013-03-19,3100.0,7.8,33.6,clear
+414,Black Gram (Urd Beans),Sanwer,2013-03-19,3200.0,7.5,33.6,clear
+415,Black Gram (Urd Beans),Gautampura,2013-03-20,2800.0,16.6,34.6,clear
+416,Black Gram (Urd Beans),Sanwer,2013-03-20,2750.0,15.6,34.6,clear
+417,Black Gram (Urd Beans),Gautampura,2013-03-22,3000.0,2.0,34.0,clear
+418,Black Gram (Urd Beans),Sanwer,2013-03-22,2808.0,2.0,34.0,clear
+419,Black Gram (Urd Beans),Gautampura,2013-03-23,2850.0,3.0,35.0,clear
+420,Black Gram (Urd Beans),Sanwer,2013-03-23,3231.0,5.0,35.0,clear
+421,Black Gram (Urd Beans),Gautampura,2013-03-24,2900.0,10.0,34.0,clear
+422,Black Gram (Urd Beans),Gautampura,2013-03-25,3200.0,3.5,34.8,clear
+423,Black Gram (Urd Beans),Sanwer,2013-03-25,3825.0,1.2,34.8,clear
+424,Black Gram (Urd Beans),Gautampura,2013-04-04,3100.0,3.0,34.0,clear
+425,Black Gram (Urd Beans),Sanwer,2013-04-04,2800.0,2.4,34.0,clear
+426,Black Gram (Urd Beans),Gautampura,2013-05-04,3000.0,6.0,39.0,clear
+427,Black Gram (Urd Beans),Gautampura,2013-09-04,3200.0,7.5,29.2,clear
+428,Black Gram (Urd Beans),Sanwer,2013-09-04,0.0,2.9,29.2,clear
+429,Black Gram (Urd Beans),Gautampura,2013-10-04,3005.0,11.5,27.0,clear
+430,Black Gram (Urd Beans),Gautampura,2013-11-04,3050.0,20.0,30.0,clear
+431,Black Gram (Urd Beans),Gautampura,2013-04-16,3000.0,6.5,36.8,clear
+432,Black Gram (Urd Beans),Sanwer,2013-04-16,3275.0,3.3,36.8,clear
+433,Black Gram (Urd Beans),Gautampura,2013-04-19,3000.0,5.0,32.4,clear
+434,Black Gram (Urd Beans),Gautampura,2013-04-20,3050.0,3.0,31.8,clear
+435,Black Gram (Urd Beans),Sanwer,2013-04-20,0.0,2.6,31.8,clear
+436,Black Gram (Urd Beans),Gautampura,2013-04-21,3000.0,10.0,32.4,clear
+437,Black Gram (Urd Beans),Gautampura,2013-02-05,3000.0,6.5,24.6,clear
+438,Black Gram (Urd Beans),Gautampura,2013-09-05,2910.0,15.6,27.0,clear
+439,Black Gram (Urd Beans),Gautampura,2013-11-05,3000.0,8.5,29.4,clear
+440,Black Gram (Urd Beans),Gautampura,2013-05-14,2940.0,5.0,38.0,clear
+441,Black Gram (Urd Beans),Sanwer,2013-05-14,3800.0,3.5,38.0,clear
+442,Black Gram (Urd Beans),Gautampura,2013-05-17,3000.0,1.0,40.8,clear
+443,Black Gram (Urd Beans),Sanwer,2013-05-17,3055.0,0.9,40.8,clear
+444,Black Gram (Urd Beans),Gautampura,2013-05-18,3800.0,11.0,41.4,clear
+445,Black Gram (Urd Beans),Gautampura,2013-05-20,3050.0,0.9,41.6,clear
+446,Black Gram (Urd Beans),Gautampura,2013-05-21,2910.0,7.2,41.8,clear
+447,Black Gram (Urd Beans),Gautampura,2013-03-06,2750.0,8.0,31.6,clear
+448,Black Gram (Urd Beans),Sanwer,2013-03-06,3058.0,0.3,31.6,clear
+449,Black Gram (Urd Beans),Gautampura,2013-06-06,2810.0,12.5,32.0,clear
+450,Black Gram (Urd Beans),Gautampura,2013-07-06,2709.0,2.5,28.4,clear
+451,Black Gram (Urd Beans),Gautampura,2013-08-06,2700.0,2.5,27.2,clear
+452,Black Gram (Urd Beans),Gautampura,2013-10-06,2850.0,8.0,27.8,clear
+453,Black Gram (Urd Beans),Sanwer,2013-10-06,0.0,1.0,27.8,clear
+454,Black Gram (Urd Beans),Gautampura,2013-12-06,2900.0,5.0,24.6,clear
+455,Black Gram (Urd Beans),Gautampura,2013-06-15,2800.0,6.5,30.4,clear
+456,Black Gram (Urd Beans),Gautampura,2013-06-16,2800.0,5.0,26.6,clear
+457,Black Gram (Urd Beans),Gautampura,2013-06-17,2850.0,12.3,25.8,clear
+458,Black Gram (Urd Beans),Gautampura,2013-06-18,2600.0,2.5,27.4,clear
+459,Black Gram (Urd Beans),Gautampura,2013-06-07,2600.0,1.0,32.4,clear
+460,Black Gram (Urd Beans),Sanwer,2013-06-07,2700.0,2.5,32.4,clear
+461,Black Gram (Urd Beans),Gautampura,2013-09-07,2700.0,2.5,29.6,clear
+462,Black Gram (Urd Beans),Gautampura,2013-11-07,2550.0,5.0,29.4,clear
+463,Black Gram (Urd Beans),Gautampura,2013-12-07,2600.0,2.8,26.0,clear
+464,Black Gram (Urd Beans),Gautampura,2013-07-13,2750.0,3.0,27.0,clear
+465,Black Gram (Urd Beans),Sanwer,2013-01-19,0.0,8.0,19.0,clear
+466,Black Gram (Urd Beans),Sanwer,2013-12-02,2901.0,0.5,28.2,clear
+467,Black Gram (Urd Beans),Sanwer,2013-02-19,2942.0,1.0,26.2,clear
+468,Black Gram (Urd Beans),Sanwer,2013-02-20,3000.0,1.0,25.6,clear
+469,Black Gram (Urd Beans),Sanwer,2013-02-27,2900.0,8.0,31.0,clear
+470,Black Gram (Urd Beans),Sanwer,2013-02-28,2965.0,2.1,29.0,clear
+471,Black Gram (Urd Beans),Sanwer,2013-05-03,2701.0,3.2,39.0,clear
+472,Black Gram (Urd Beans),Sanwer,2013-12-03,2951.0,1.3,27.0,clear
+473,Black Gram (Urd Beans),Sanwer,2013-03-21,0.0,3.2,34.0,clear
+474,Black Gram (Urd Beans),Sanwer,2013-03-30,0.0,1.9,32.6,clear
+475,Black Gram (Urd Beans),Sanwer,2013-01-04,0.0,2.6,24.0,clear
+476,Black Gram (Urd Beans),Sanwer,2013-02-04,2911.0,2.8,29.0,clear
+477,Black Gram (Urd Beans),Sanwer,2013-04-15,3200.0,1.2,37.8,clear
+478,Black Gram (Urd Beans),Sanwer,2013-04-26,3000.0,2.3,37.6,clear
+479,Black Gram (Urd Beans),Sanwer,2013-04-27,3351.0,2.5,38.6,clear
+480,Black Gram (Urd Beans),Sanwer,2013-05-27,2900.0,1.0,37.2,clear
+481,Black Gram (Urd Beans),Sanwer,2013-05-28,0.0,4.2,37.4,clear
+482,Black Gram (Urd Beans),Sanwer,2013-05-29,0.0,4.0,38.4,clear
+483,Black Gram (Urd Beans),Sanwer,2013-05-30,2855.0,4.9,38.0,clear
+484,Black Gram (Urd Beans),Sanwer,2013-11-06,0.0,3.2,28.8,clear
+485,Black Gram (Urd Beans),Sanwer,2013-06-25,0.0,10.0,26.0,rain
+486,Black Gram (Urd Beans),Sanwer,2013-06-26,0.0,10.0,25.8,rain
+487,Black Gram (Urd Beans),Sanwer,2013-07-19,3100.0,2.5,26.8,clear
+488,Black Gram (Urd Beans),Sanwer,2013-03-09,2400.0,1.0,34.0,clear
+489,Black Gram (Urd Beans),Sanwer,2013-09-14,2040.0,3.0,33.2,clear
+490,Black Gram (Urd Beans),Sanwer,2013-09-20,2005.0,4.0,32.6,clear
+491,Black Gram (Urd Beans),Sanwer,2013-09-28,3500.0,0.4,29.8,clear
+492,Black Gram (Urd Beans),Sanwer,2013-07-10,2750.0,6.0,29.0,clear
+493,Black Gram (Urd Beans),Sanwer,2013-12-11,0.0,10.5,25.4,clear
+494,Arhar (Tur/Red Gram),Indore,2014-12-02,3600.0,2.6,30.4,clear
+495,Arhar (Tur/Red Gram),Indore,2014-03-24,3985.0,544.4,34.8,clear
+496,Black Gram (Urd Beans),Sanwer,2014-03-24,2700.0,2.0,34.8,clear
+497,Arhar (Tur/Red Gram),Indore,2014-03-29,3500.0,0.7,36.2,clear
+498,Black Gram (Urd Beans),Gautampura,2014-07-17,2200.0,3.1,31.8,clear
+499,Black Gram (Urd Beans),Gautampura,2014-07-26,2000.0,8.0,27.6,clear
+500,Black Gram (Urd Beans),Gautampura,2014-07-28,2300.0,5.0,26.4,clear
+501,Black Gram (Urd Beans),Gautampura,2014-08-15,2500.0,9.8,28.6,clear
+502,Black Gram (Urd Beans),Gautampura,2014-08-16,2451.0,14.0,26.2,clear
+503,Black Gram (Urd Beans),Gautampura,2014-08-23,2300.0,7.0,29.0,clear
+504,Black Gram (Urd Beans),Gautampura,2014-09-15,2300.0,7.0,29.4,clear
+505,Black Gram (Urd Beans),Gautampura,2014-09-18,2000.0,12.5,30.0,clear
+506,Black Gram (Urd Beans),Gautampura,2014-09-19,2300.0,19.5,29.6,clear
+507,Black Gram (Urd Beans),Gautampura,2014-09-21,2500.0,4.5,29.2,clear
+508,Black Gram (Urd Beans),Gautampura,2014-09-29,2400.0,19.1,32.8,clear
+509,Black Gram (Urd Beans),Gautampura,2014-06-10,2255.0,8.0,39.4,clear
+510,Black Gram (Urd Beans),Gautampura,2014-08-10,2320.0,4.5,29.4,clear
+511,Black Gram (Urd Beans),Gautampura,2014-10-10,2050.0,9.6,33.8,clear
+512,Black Gram (Urd Beans),Gautampura,2014-12-10,2200.0,10.0,32.4,clear
+513,Black Gram (Urd Beans),Gautampura,2014-10-16,2300.0,9.0,33.2,clear
+514,Black Gram (Urd Beans),Gautampura,2014-10-18,2300.0,9.5,32.0,clear
+515,Black Gram (Urd Beans),Gautampura,2014-10-27,2000.0,10.2,30.0,clear
+516,Black Gram (Urd Beans),Gautampura,2014-10-28,2100.0,12.0,30.8,clear
+517,Black Gram (Urd Beans),Gautampura,2014-10-29,2450.0,14.0,31.4,clear
+518,Black Gram (Urd Beans),Gautampura,2014-10-30,2500.0,3.5,32.0,clear
+519,Black Gram (Urd Beans),Gautampura,2014-01-11,2500.0,3.0,16.8,clear
+520,Black Gram (Urd Beans),Gautampura,2014-02-11,2600.0,1.5,23.6,clear
+521,Black Gram (Urd Beans),Gautampura,2014-03-11,2550.0,5.5,30.0,clear
+522,Black Gram (Urd Beans),Gautampura,2014-05-11,2800.0,9.2,36.6,clear
+523,Black Gram (Urd Beans),Gautampura,2014-07-11,2250.0,34.9,35.4,clear
+524,Black Gram (Urd Beans),Gautampura,2014-08-11,2500.0,5.0,27.8,clear
+525,Black Gram (Urd Beans),Gautampura,2014-10-11,2500.0,17.1,33.6,clear
+526,Black Gram (Urd Beans),Gautampura,2014-11-11,2500.0,4.0,29.8,clear
+527,Black Gram (Urd Beans),Gautampura,2014-11-13,2500.0,8.5,31.2,clear
+528,Black Gram (Urd Beans),Gautampura,2014-11-14,2500.0,22.5,31.0,clear
+529,Black Gram (Urd Beans),Gautampura,2014-11-17,2400.0,10.0,29.0,clear
+530,Black Gram (Urd Beans),Gautampura,2014-11-19,2900.0,10.5,29.0,clear
+531,Black Gram (Urd Beans),Gautampura,2014-11-21,2400.0,15.7,28.8,clear
+532,Black Gram (Urd Beans),Gautampura,2014-11-24,2550.0,31.5,29.4,clear
+533,Black Gram (Urd Beans),Gautampura,2014-11-27,2350.0,24.8,29.6,clear
+534,Black Gram (Urd Beans),Gautampura,2014-11-28,2400.0,1.0,30.8,clear
+535,Black Gram (Urd Beans),Gautampura,2014-11-30,2425.0,17.0,30.0,clear
+536,Black Gram (Urd Beans),Gautampura,2014-01-12,2400.0,8.1,20.2,clear
+537,Black Gram (Urd Beans),Gautampura,2014-03-12,2500.0,2.0,30.4,clear
+538,Black Gram (Urd Beans),Gautampura,2014-05-12,2400.0,3.0,36.8,clear
+539,Black Gram (Urd Beans),Gautampura,2014-06-12,2700.0,2.5,35.4,clear
+540,Black Gram (Urd Beans),Gautampura,2014-09-12,2400.0,12.5,25.2,clear
+541,Black Gram (Urd Beans),Gautampura,2014-10-12,2500.0,12.0,33.6,clear
+542,Black Gram (Urd Beans),Gautampura,2014-11-12,2700.0,16.5,30.6,clear
+543,Black Gram (Urd Beans),Gautampura,2014-12-12,2600.0,2.0,31.4,clear
+544,Black Gram (Urd Beans),Gautampura,2014-12-13,2450.0,10.0,23.6,clear
+545,Black Gram (Urd Beans),Gautampura,2014-12-15,2250.0,9.3,24.6,clear
+546,Black Gram (Urd Beans),Gautampura,2014-12-16,2500.0,8.5,31.6,clear
+547,Black Gram (Urd Beans),Gautampura,2014-12-18,2800.0,1.2,21.4,clear
+548,Black Gram (Urd Beans),Gautampura,2014-12-22,2500.0,1.0,27.2,clear
+549,Black Gram (Urd Beans),Gautampura,2014-12-23,2600.0,8.0,26.8,clear
+550,Black Gram (Urd Beans),Gautampura,2014-12-25,2700.0,9.0,24.0,clear
+551,Black Gram (Urd Beans),Gautampura,2014-12-26,2700.0,7.5,22.2,clear
+552,Black Gram (Urd Beans),Gautampura,2014-12-28,2700.0,8.5,20.8,clear
+553,Black Gram (Urd Beans),Gautampura,2014-12-29,2100.0,4.6,21.4,clear
+554,Black Gram (Urd Beans),Sanwer,2014-10-02,2301.0,0.3,34.0,clear
+555,Black Gram (Urd Beans),Sanwer,2014-02-15,2284.0,1.5,20.4,clear
+556,Black Gram (Urd Beans),Sanwer,2014-02-17,2384.0,0.2,21.0,clear
+557,Black Gram (Urd Beans),Sanwer,2014-02-24,2362.0,1.6,27.0,rain
+558,Black Gram (Urd Beans),Sanwer,2014-04-03,2451.0,1.8,35.4,clear
+559,Black Gram (Urd Beans),Sanwer,2014-05-03,2151.0,0.8,39.0,clear
+560,Black Gram (Urd Beans),Sanwer,2014-08-03,2752.0,0.7,26.8,rain
+561,Black Gram (Urd Beans),Sanwer,2014-10-03,2668.0,0.4,34.2,clear
+562,Black Gram (Urd Beans),Sanwer,2014-03-13,2640.0,0.2,31.0,clear
+563,Black Gram (Urd Beans),Sanwer,2014-03-14,2552.0,1.0,32.4,clear
+564,Black Gram (Urd Beans),Sanwer,2014-03-19,2000.0,0.7,32.6,clear
+565,Black Gram (Urd Beans),Sanwer,2014-03-20,2701.0,1.0,34.6,clear
+566,Black Gram (Urd Beans),Sanwer,2014-03-26,2531.0,9.5,35.2,clear
+567,Black Gram (Urd Beans),Sanwer,2014-03-04,2451.0,0.5,26.0,clear
+568,Black Gram (Urd Beans),Sanwer,2014-04-04,0.0,1.7,35.8,clear
+569,Black Gram (Urd Beans),Sanwer,2014-07-04,3006.0,0.6,35.2,clear
+570,Black Gram (Urd Beans),Sanwer,2014-09-04,2408.0,0.8,28.4,clear
+571,Black Gram (Urd Beans),Sanwer,2014-12-04,2151.0,0.4,31.4,clear
+572,Black Gram (Urd Beans),Sanwer,2014-04-21,2100.0,4.0,35.4,clear
+573,Black Gram (Urd Beans),Sanwer,2014-04-25,2263.0,1.2,38.6,clear
+574,Black Gram (Urd Beans),Sanwer,2014-06-05,2300.0,0.8,41.4,clear
+575,Black Gram (Urd Beans),Sanwer,2014-02-06,2100.0,0.8,30.2,clear
+576,Black Gram (Urd Beans),Sanwer,2014-05-06,2251.0,1.5,36.6,clear
+577,Black Gram (Urd Beans),Sanwer,2014-06-16,1775.0,2.0,37.0,clear
+578,Arhar (Tur/Red Gram),Indore,2015-10-30,5500.0,0.3,26.4,clear
+579,Black Gram (Urd Beans),Indore,2015-10-30,7500.0,1.4,26.4,clear
+580,Green Gram (Moong),Indore,2015-10-30,6700.0,0.3,26.4,clear
+581,Arhar (Tur/Red Gram),Indore,2015-03-11,6801.0,0.2,32.0,clear
+582,Black Gram (Urd Beans),Indore,2015-03-11,7700.0,1.1,32.0,clear
+583,Green Gram (Moong),Indore,2015-03-11,6500.0,4.0,32.0,clear
+584,Arhar (Tur/Red Gram),Indore,2015-05-11,5400.0,0.3,40.0,clear
+585,Black Gram (Urd Beans),Indore,2015-05-11,9900.0,2.0,40.0,clear
+586,Green Gram (Moong),Indore,2015-05-11,7700.0,0.5,40.0,clear
+587,Arhar (Tur/Red Gram),Indore,2015-11-16,7671.0,0.3,31.6,clear
+588,Green Gram (Moong),Indore,2015-11-16,7200.0,5.6,31.6,clear
+589,Arhar (Tur/Red Gram),Indore,2015-11-25,4700.0,2.0,29.6,clear
+590,Arhar (Tur/Red Gram),Indore,2015-12-12,6500.0,1.0,24.0,clear
+591,Black Gram (Urd Beans),Indore,2015-12-12,6900.0,0.9,24.0,clear
+592,Green Gram (Moong),Indore,2015-12-12,6900.0,1.9,24.0,clear
+593,Arhar (Tur/Red Gram),Indore,2015-12-15,7500.0,0.5,21.6,clear
+594,Green Gram (Moong),Indore,2015-12-15,6500.0,1.1,21.6,clear
+595,Arhar (Tur/Red Gram),Indore,2015-12-17,8300.0,1.4,23.6,clear
+596,Green Gram (Moong),Indore,2015-12-17,6500.0,1.8,23.6,clear
+597,Arhar (Tur/Red Gram),Indore,2015-12-21,6350.0,1.3,23.0,clear
+598,Black Gram (Urd Beans),Indore,2015-12-21,9300.0,0.5,23.0,clear
+599,Arhar (Tur/Red Gram),Indore,2015-12-22,6500.0,1.0,22.6,clear
+600,Arhar (Tur/Red Gram),Indore,2015-12-24,4800.0,0.0,20.8,clear
+601,Arhar (Tur/Red Gram),Indore,2015-12-25,6550.0,1.2,20.4,clear
+602,Arhar (Tur/Red Gram),Indore,2015-12-26,7150.0,1.2,22.4,clear
+603,Arhar (Tur/Red Gram),Indore,2015-12-28,6800.0,5.8,28.4,clear
+604,Arhar (Tur/Red Gram),Indore,2015-12-29,6600.0,4.6,31.0,clear
+605,Arhar (Tur/Red Gram),Indore,2015-12-30,6600.0,1.7,31.8,clear
+606,Bengal Gram(Gram),Sanwer,2015-08-13,4200.0,10.0,26.2,rain
+607,Bengal Gram(Gram),Sanwer,2015-08-31,4508.0,16.5,30.0,clear
+608,Bengal Gram(Gram),Sanwer,2015-10-15,5008.0,5.0,34.4,clear
+609,Black Gram (Urd Beans),Indore,2015-10-15,8500.0,1.0,34.4,clear
+610,Bengal Gram(Gram),Sanwer,2015-04-11,4500.0,6.2,35.0,clear
+611,Black Gram (Urd Beans),Indore,2015-04-11,7200.0,0.4,35.0,clear
+612,Green Gram (Moong),Indore,2015-04-11,6000.0,0.5,35.0,clear
+613,Bengal Gram(Gram),Sanwer,2015-11-18,5201.0,0.2,29.0,clear
+614,Bengal Gram(Gram),Sanwer,2015-11-20,6276.0,0.1,28.4,clear
+615,Black Gram (Urd Beans),Indore,2015-11-20,6500.0,0.5,28.4,clear
+616,Green Gram (Moong),Indore,2015-11-20,7000.0,1.0,28.4,clear
+617,Black Gram (Urd Beans),Gautampura,2015-04-01,2900.0,8.5,35.6,clear
+618,Black Gram (Urd Beans),Gautampura,2015-05-01,2900.0,9.5,40.0,clear
+619,Black Gram (Urd Beans),Gautampura,2015-06-01,2500.0,18.3,40.4,clear
+620,Black Gram (Urd Beans),Gautampura,2015-07-01,2950.0,12.7,32.0,clear
+621,Black Gram (Urd Beans),Gautampura,2015-08-01,2900.0,13.1,28.4,clear
+622,Black Gram (Urd Beans),Gautampura,2015-09-01,2400.0,1.5,26.4,clear
+623,Black Gram (Urd Beans),Gautampura,2015-12-01,2825.0,9.5,31.8,clear
+624,Black Gram (Urd Beans),Gautampura,2015-01-13,2800.0,4.0,24.4,clear
+625,Black Gram (Urd Beans),Gautampura,2015-01-15,2800.0,2.0,23.6,clear
+626,Black Gram (Urd Beans),Gautampura,2015-01-16,2800.0,12.5,21.2,clear
+627,Black Gram (Urd Beans),Gautampura,2015-01-22,2800.0,1.5,21.4,clear
+628,Black Gram (Urd Beans),Gautampura,2015-01-28,2500.0,10.0,19.6,clear
+629,Black Gram (Urd Beans),Gautampura,2015-02-02,2950.0,14.9,29.4,clear
+630,Black Gram (Urd Beans),Gautampura,2015-03-02,3000.0,4.3,24.0,clear
+631,Black Gram (Urd Beans),Gautampura,2015-04-02,2700.0,12.5,35.0,clear
+632,Black Gram (Urd Beans),Gautampura,2015-05-02,2600.0,1.0,39.6,clear
+633,Black Gram (Urd Beans),Gautampura,2015-12-02,2900.0,12.9,30.2,clear
+634,Black Gram (Urd Beans),Gautampura,2015-02-19,2700.0,10.0,30.2,clear
+635,Black Gram (Urd Beans),Gautampura,2015-02-20,2700.0,10.0,32.4,clear
+636,Black Gram (Urd Beans),Gautampura,2015-02-21,3700.0,0.7,31.0,clear
+637,Black Gram (Urd Beans),Gautampura,2015-02-23,3000.0,2.5,32.4,clear
+638,Black Gram (Urd Beans),Gautampura,2015-02-25,2700.0,11.5,31.8,clear
+639,Black Gram (Urd Beans),Gautampura,2015-02-26,2800.0,2.5,29.0,clear
+640,Black Gram (Urd Beans),Gautampura,2015-01-03,3000.0,2.0,17.4,clear
+641,Black Gram (Urd Beans),Gautampura,2015-04-03,3010.0,3.0,36.4,clear
+642,Black Gram (Urd Beans),Gautampura,2015-05-03,3050.0,4.0,39.4,clear
+643,Black Gram (Urd Beans),Gautampura,2015-07-03,3050.0,19.0,32.0,clear
+644,Black Gram (Urd Beans),Gautampura,2015-08-03,3000.0,26.7,28.0,clear
+645,Black Gram (Urd Beans),Gautampura,2015-09-03,2900.0,6.0,31.0,clear
+646,Black Gram (Urd Beans),Gautampura,2015-10-03,2900.0,8.0,35.2,clear
+647,Black Gram (Urd Beans),Gautampura,2015-11-03,3100.0,24.0,31.8,clear
+648,Black Gram (Urd Beans),Gautampura,2015-12-03,3000.0,22.0,26.6,clear
+649,Black Gram (Urd Beans),Gautampura,2015-03-13,2800.0,9.5,21.2,rain
+650,Black Gram (Urd Beans),Gautampura,2015-03-14,2750.0,2.5,26.4,clear
+651,Black Gram (Urd Beans),Gautampura,2015-03-15,3010.0,23.5,28.6,clear
+652,Black Gram (Urd Beans),Gautampura,2015-03-16,3000.0,18.0,28.8,clear
+653,Black Gram (Urd Beans),Gautampura,2015-03-17,2900.0,20.0,28.0,clear
+654,Black Gram (Urd Beans),Gautampura,2015-03-18,3000.0,21.0,28.4,clear
+655,Black Gram (Urd Beans),Gautampura,2015-03-19,2900.0,7.5,30.0,clear
+656,Black Gram (Urd Beans),Gautampura,2015-03-20,3000.0,53.3,32.2,clear
+657,Black Gram (Urd Beans),Gautampura,2015-03-21,3000.0,15.7,35.0,clear
+658,Black Gram (Urd Beans),Gautampura,2015-03-22,3000.0,58.4,35.4,clear
+659,Black Gram (Urd Beans),Gautampura,2015-03-23,3000.0,54.5,36.8,clear
+660,Black Gram (Urd Beans),Gautampura,2015-03-24,2900.0,49.7,36.4,clear
+661,Black Gram (Urd Beans),Gautampura,2015-03-25,3025.0,18.0,36.8,clear
+662,Black Gram (Urd Beans),Gautampura,2015-03-26,3000.0,47.0,36.4,clear
+663,Black Gram (Urd Beans),Gautampura,2015-03-27,2950.0,20.1,37.0,clear
+664,Black Gram (Urd Beans),Gautampura,2015-03-28,2850.0,15.0,34.6,clear
+665,Black Gram (Urd Beans),Gautampura,2015-03-29,2900.0,11.0,34.0,clear
+666,Black Gram (Urd Beans),Gautampura,2015-03-30,2875.0,19.0,34.0,clear
+667,Black Gram (Urd Beans),Gautampura,2015-03-31,2977.0,19.5,35.0,clear
+668,Black Gram (Urd Beans),Gautampura,2015-01-04,2925.0,19.8,18.4,clear
+669,Black Gram (Urd Beans),Gautampura,2015-02-04,3100.0,7.0,23.4,clear
+670,Black Gram (Urd Beans),Gautampura,2015-03-04,3000.0,25.3,25.0,clear
+671,Black Gram (Urd Beans),Gautampura,2015-04-04,3000.0,13.5,32.8,clear
+672,Black Gram (Urd Beans),Gautampura,2015-05-04,2800.0,9.0,40.6,clear
+673,Black Gram (Urd Beans),Gautampura,2015-06-04,3025.0,33.0,38.0,clear
+674,Black Gram (Urd Beans),Gautampura,2015-07-04,3100.0,54.8,32.0,clear
+675,Black Gram (Urd Beans),Gautampura,2015-08-04,3150.0,39.0,25.6,rain
+676,Black Gram (Urd Beans),Gautampura,2015-09-04,3225.0,54.1,31.8,clear
+677,Black Gram (Urd Beans),Gautampura,2015-10-04,3200.0,61.0,34.6,clear
+678,Black Gram (Urd Beans),Gautampura,2015-11-04,3150.0,8.5,31.6,clear
+679,Black Gram (Urd Beans),Gautampura,2015-12-04,3300.0,5.0,28.0,clear
+680,Black Gram (Urd Beans),Gautampura,2015-04-13,2900.0,4.0,26.0,clear
+681,Black Gram (Urd Beans),Gautampura,2015-04-14,3185.0,11.0,28.2,rain
+682,Black Gram (Urd Beans),Gautampura,2015-04-15,3350.0,29.4,30.2,clear
+683,Black Gram (Urd Beans),Gautampura,2015-04-16,3100.0,0.0,33.4,clear
+684,Black Gram (Urd Beans),Gautampura,2015-04-17,3400.0,0.0,36.4,clear
+685,Black Gram (Urd Beans),Gautampura,2015-04-18,2900.0,0.0,39.0,clear
+686,Black Gram (Urd Beans),Gautampura,2015-04-19,3400.0,0.0,40.4,clear
+687,Black Gram (Urd Beans),Indore,2015-10-10,7000.0,0.0,34.2,clear
+688,Green Gram (Moong),Indore,2015-10-10,6500.0,2.0,34.2,clear
+689,Black Gram (Urd Beans),Indore,2015-10-14,8500.0,2.5,35.4,clear
+690,Green Gram (Moong),Indore,2015-10-14,6800.0,5.0,35.4,clear
+691,Black Gram (Urd Beans),Indore,2015-10-16,9200.0,3.0,33.6,clear
+692,Black Gram (Urd Beans),Indore,2015-10-17,8000.0,10.0,34.4,clear
+693,Green Gram (Moong),Indore,2015-10-17,7000.0,3.0,34.4,clear
+694,Black Gram (Urd Beans),Indore,2015-10-19,8500.0,3.0,34.0,clear
+695,Green Gram (Moong),Indore,2015-10-19,7000.0,2.6,34.0,clear
+696,Black Gram (Urd Beans),Indore,2015-10-20,8500.0,1.0,35.4,clear
+697,Green Gram (Moong),Indore,2015-10-20,7000.0,1.0,35.4,clear
+698,Black Gram (Urd Beans),Indore,2015-10-27,7000.0,1.0,28.4,clear
+699,Green Gram (Moong),Indore,2015-10-27,7500.0,0.0,28.4,clear
+700,Black Gram (Urd Beans),Indore,2015-10-29,7500.0,2.4,27.8,clear
+701,Green Gram (Moong),Indore,2015-10-29,7000.0,1.0,27.8,clear
+702,Black Gram (Urd Beans),Indore,2015-02-11,6900.0,0.5,27.6,clear
+703,Green Gram (Moong),Indore,2015-02-11,7200.0,0.3,27.6,clear
+704,Black Gram (Urd Beans),Indore,2015-09-11,7600.0,0.3,33.2,clear
+705,Green Gram (Moong),Indore,2015-09-11,5825.0,1.0,33.2,clear
+706,Black Gram (Urd Beans),Indore,2015-11-19,10500.0,0.7,28.4,clear
+707,Green Gram (Moong),Indore,2015-11-19,7200.0,1.0,28.4,clear
+708,Black Gram (Urd Beans),Indore,2015-11-26,9500.0,0.4,32.2,clear
+709,Green Gram (Moong),Indore,2015-11-26,7000.0,1.2,32.2,clear
+710,Black Gram (Urd Beans),Indore,2015-02-12,10340.0,0.5,25.6,clear
+711,Green Gram (Moong),Indore,2015-02-12,6600.0,2.8,25.6,clear
+712,Black Gram (Urd Beans),Indore,2015-12-14,6500.0,1.5,22.4,clear
+713,Green Gram (Moong),Indore,2015-10-28,7500.0,0.4,31.4,clear
+714,Green Gram (Moong),Indore,2015-11-14,7631.0,0.5,32.2,clear
+715,Green Gram (Moong),Indore,2015-11-17,7000.0,2.5,30.8,clear
+716,Green Gram (Moong),Indore,2015-11-21,6850.0,2.5,29.4,clear
+717,Green Gram (Moong),Indore,2015-11-23,6800.0,1.1,28.6,clear
+718,Green Gram (Moong),Indore,2015-09-12,6500.0,1.7,34.4,clear
+719,Green Gram (Moong),Indore,2015-10-12,7150.0,1.4,34.8,clear
+720,Green Gram (Moong),Indore,2015-12-18,6500.0,1.0,22.2,clear
+721,Arhar (Tur/Red Gram),Indore,2016-05-01,7800.0,2.1,40.6,clear
+722,Arhar (Tur/Red Gram),Indore,2016-07-01,7800.0,2.1,32.6,clear
+723,Arhar (Tur/Red Gram),Indore,2016-08-01,7900.0,3.0,26.0,rain
+724,Arhar (Tur/Red Gram),Indore,2016-11-01,8200.0,10.0,30.0,clear
+725,Black Gram (Urd Beans),Indore,2016-11-01,7000.0,0.7,30.0,clear
+726,Green Gram (Moong),Indore,2016-11-01,5500.0,1.3,30.0,clear
+727,Arhar (Tur/Red Gram),Indore,2016-12-01,7500.0,4.0,29.4,clear
+728,Green Gram (Moong),Indore,2016-12-01,4900.0,15.0,29.4,clear
+729,Arhar (Tur/Red Gram),Indore,2016-01-13,7500.0,4.1,26.6,clear
+730,Arhar (Tur/Red Gram),Indore,2016-01-14,8100.0,9.0,28.4,clear
+731,Green Gram (Moong),Indore,2016-01-14,6499.0,1.3,28.4,clear
+732,Arhar (Tur/Red Gram),Indore,2016-01-18,7500.0,7.0,25.6,clear
+733,Green Gram (Moong),Indore,2016-01-18,5500.0,2.5,25.6,clear
+734,Arhar (Tur/Red Gram),Indore,2016-01-19,7000.0,0.8,21.6,clear
+735,Arhar (Tur/Red Gram),Indore,2016-01-20,7000.0,1.0,20.4,clear
+736,Green Gram (Moong),Indore,2016-01-20,6000.0,2.0,20.4,clear
+737,Arhar (Tur/Red Gram),Indore,2016-01-21,6500.0,4.3,20.8,clear
+738,Arhar (Tur/Red Gram),Indore,2016-01-29,7200.0,2.1,30.2,clear
+739,Bengal Gram(Gram),Sanwer,2016-01-29,3901.0,1.2,30.2,clear
+740,Black Gram (Urd Beans),Indore,2016-01-29,7500.0,2.0,30.2,clear
+741,Green Gram (Moong),Indore,2016-01-29,6000.0,3.0,30.2,clear
+742,Arhar (Tur/Red Gram),Indore,2016-01-30,7000.0,2.0,31.6,clear
+743,Arhar (Tur/Red Gram),Indore,2016-01-02,7103.0,0.9,27.6,clear
+744,Bengal Gram(Gram),Sanwer,2016-01-02,3700.0,1.4,27.6,clear
+745,Green Gram (Moong),Indore,2016-01-02,4500.0,3.5,27.6,clear
+746,Arhar (Tur/Red Gram),Indore,2016-02-02,7103.0,0.9,27.0,clear
+747,Arhar (Tur/Red Gram),Indore,2016-03-02,6600.0,1.7,34.4,clear
+748,Green Gram (Moong),Indore,2016-03-02,6610.0,1.0,34.4,clear
+749,Arhar (Tur/Red Gram),Indore,2016-04-02,6500.0,11.4,39.2,clear
+750,Black Gram (Urd Beans),Indore,2016-04-02,7500.0,2.1,39.2,clear
+751,Green Gram (Moong),Indore,2016-04-02,6026.0,0.8,39.2,clear
+752,Arhar (Tur/Red Gram),Indore,2016-05-02,6300.0,0.4,38.6,clear
+753,Arhar (Tur/Red Gram),Indore,2016-06-02,7200.0,3.8,40.0,clear
+754,Green Gram (Moong),Indore,2016-06-02,4500.0,1.0,40.0,clear
+755,Arhar (Tur/Red Gram),Indore,2016-10-02,7099.0,0.3,31.2,clear
+756,Arhar (Tur/Red Gram),Indore,2016-02-16,6500.0,0.6,27.6,clear
+757,Arhar (Tur/Red Gram),Indore,2016-02-17,7000.0,2.6,31.8,clear
+758,Arhar (Tur/Red Gram),Indore,2016-02-18,6600.0,2.8,33.8,clear
+759,Bengal Gram(Gram),Sanwer,2016-02-18,0.0,0.5,33.8,clear
+760,Arhar (Tur/Red Gram),Indore,2016-02-20,6500.0,0.7,31.0,clear
+761,Arhar (Tur/Red Gram),Indore,2016-02-22,6800.0,1.5,29.0,clear
+762,Arhar (Tur/Red Gram),Indore,2016-02-29,6500.0,2.0,32.2,clear
+763,Arhar (Tur/Red Gram),Indore,2016-01-03,6000.0,0.3,25.6,clear
+764,Bengal Gram(Gram),Sanwer,2016-01-03,3411.0,1.8,25.6,clear
+765,Green Gram (Moong),Indore,2016-01-03,5500.0,1.2,25.6,clear
+766,Arhar (Tur/Red Gram),Indore,2016-02-03,6400.0,0.6,24.0,clear
+767,Bengal Gram(Gram),Sanwer,2016-02-03,0.0,0.5,24.0,clear
+768,Arhar (Tur/Red Gram),Indore,2016-03-03,6500.0,0.6,32.4,clear
+769,Arhar (Tur/Red Gram),Indore,2016-10-03,6850.0,1.7,30.4,clear
+770,Green Gram (Moong),Indore,2016-10-03,3500.0,1.1,30.4,clear
+771,Arhar (Tur/Red Gram),Indore,2016-11-03,6600.0,1.5,28.4,clear
+772,Arhar (Tur/Red Gram),Indore,2016-03-14,6500.0,1.4,30.4,clear
+773,Arhar (Tur/Red Gram),Indore,2016-03-15,7500.0,2.8,30.8,clear
+774,Arhar (Tur/Red Gram),Indore,2016-03-18,4400.0,1.0,35.0,clear
+775,Arhar (Tur/Red Gram),Indore,2016-03-19,6860.0,0.3,34.2,clear
+776,Arhar (Tur/Red Gram),Indore,2016-03-23,4000.0,5.3,35.4,clear
+777,Arhar (Tur/Red Gram),Indore,2016-03-25,7000.0,1.4,38.4,clear
+778,Arhar (Tur/Red Gram),Indore,2016-03-26,7910.0,0.8,37.8,clear
+779,Arhar (Tur/Red Gram),Indore,2016-03-29,4200.0,1.1,36.2,clear
+780,Bengal Gram(Gram),Sanwer,2016-03-29,4350.0,1.2,36.2,clear
+781,Arhar (Tur/Red Gram),Indore,2016-03-30,6700.0,1.1,36.6,clear
+782,Bengal Gram(Gram),Sanwer,2016-03-30,4251.0,2.0,36.6,clear
+783,Arhar (Tur/Red Gram),Indore,2016-01-04,7600.0,0.4,29.0,clear
+784,Arhar (Tur/Red Gram),Indore,2016-04-04,8200.0,2.0,38.2,clear
+785,Arhar (Tur/Red Gram),Indore,2016-05-04,8210.0,2.0,39.0,clear
+786,Arhar (Tur/Red Gram),Indore,2016-06-04,7950.0,0.5,42.4,clear
+787,Arhar (Tur/Red Gram),Indore,2016-11-04,1325.0,1.7,28.8,clear
+788,Arhar (Tur/Red Gram),Mhow,2016-11-04,7305.0,0.2,28.8,clear
+789,Arhar (Tur/Red Gram),Indore,2016-12-04,7900.0,0.2,27.0,clear
+790,Arhar (Tur/Red Gram),Indore,2016-04-13,8500.0,0.3,37.0,clear
+791,Arhar (Tur/Red Gram),Indore,2016-04-18,7101.0,1.3,36.6,clear
+792,Arhar (Tur/Red Gram),Indore,2016-04-20,7500.0,3.0,39.4,clear
+793,Arhar (Tur/Red Gram),Indore,2016-04-21,6500.0,3.0,40.0,clear
+794,Bengal Gram(Gram),Sanwer,2016-04-21,5200.0,1.0,40.0,clear
+795,Green Gram (Moong),Indore,2016-04-21,7000.0,1.7,40.0,clear
+796,Arhar (Tur/Red Gram),Indore,2016-04-27,7200.0,0.7,36.6,clear
+797,Green Gram (Moong),Indore,2016-04-27,6600.0,4.3,36.6,clear
+798,Arhar (Tur/Red Gram),Indore,2016-04-29,7195.0,2.3,40.4,clear
+799,Green Gram (Moong),Indore,2016-04-29,6501.0,5.5,40.4,clear
+800,Arhar (Tur/Red Gram),Indore,2016-04-30,7800.0,0.4,41.0,clear
+801,Arhar (Tur/Red Gram),Mhow,2016-04-30,7211.0,0.1,41.0,clear
+802,Green Gram (Moong),Indore,2016-04-30,6400.0,6.7,41.0,clear
+803,Arhar (Tur/Red Gram),Indore,2016-02-05,7300.0,3.6,29.6,clear
+804,Green Gram (Moong),Indore,2016-02-05,5000.0,23.0,29.6,clear
+805,Arhar (Tur/Red Gram),Indore,2016-03-05,7755.0,0.5,33.0,clear
+806,Green Gram (Moong),Indore,2016-03-05,6000.0,12.4,33.0,clear
+807,Arhar (Tur/Red Gram),Indore,2016-05-05,8000.0,2.7,38.4,clear
+808,Green Gram (Moong),Indore,2016-05-05,6400.0,14.0,38.4,clear
+809,Arhar (Tur/Red Gram),Indore,2016-07-05,6500.0,2.2,29.8,clear
+810,Bengal Gram(Gram),Sanwer,2016-07-05,8501.0,0.1,29.8,clear
+811,Green Gram (Moong),Indore,2016-07-05,6000.0,30.4,29.8,clear
+812,Arhar (Tur/Red Gram),Indore,2016-10-05,8000.0,1.3,27.0,clear
+813,Green Gram (Moong),Indore,2016-10-05,6499.0,9.4,27.0,clear
+814,Arhar (Tur/Red Gram),Indore,2016-12-05,7850.0,0.5,25.6,clear
+815,Bengal Gram(Gram),Sanwer,2016-12-05,5454.0,0.5,25.6,clear
+816,Green Gram (Moong),Indore,2016-12-05,5400.0,18.6,25.6,clear
+817,Arhar (Tur/Red Gram),Indore,2016-05-14,7500.0,0.1,41.0,clear
+818,Black Gram (Urd Beans),Indore,2016-05-14,8700.0,0.5,41.0,clear
+819,Green Gram (Moong),Indore,2016-05-14,5600.0,44.8,41.0,clear
+820,Arhar (Tur/Red Gram),Indore,2016-05-16,7750.0,0.4,41.6,clear
+821,Green Gram (Moong),Indore,2016-05-16,5600.0,44.3,41.6,clear
+822,Arhar (Tur/Red Gram),Indore,2016-05-17,7254.0,3.5,41.6,clear
+823,Black Gram (Urd Beans),Indore,2016-05-17,9900.0,0.7,41.6,clear
+824,Green Gram (Moong),Indore,2016-05-17,5850.0,37.1,41.6,clear
+825,Arhar (Tur/Red Gram),Indore,2016-05-18,6600.0,0.3,43.4,clear
+826,Green Gram (Moong),Indore,2016-05-18,5500.0,22.8,43.4,clear
+827,Arhar (Tur/Red Gram),Indore,2016-05-19,8100.0,2.5,43.4,clear
+828,Black Gram (Urd Beans),Indore,2016-05-19,10000.0,0.3,43.4,clear
+829,Green Gram (Moong),Indore,2016-05-19,5800.0,35.6,43.4,clear
+830,Arhar (Tur/Red Gram),Indore,2016-05-21,8500.0,2.6,40.4,clear
+831,Green Gram (Moong),Indore,2016-05-21,6060.0,35.0,40.4,clear
+832,Arhar (Tur/Red Gram),Indore,2016-05-23,7605.0,0.4,38.6,clear
+833,Green Gram (Moong),Indore,2016-05-23,5500.0,54.2,38.6,clear
+834,Arhar (Tur/Red Gram),Indore,2016-05-25,7696.0,0.4,37.4,clear
+835,Bengal Gram(Gram),Sanwer,2016-05-25,5595.0,0.5,37.4,clear
+836,Black Gram (Urd Beans),Indore,2016-05-25,10430.0,1.1,37.4,clear
+837,Green Gram (Moong),Indore,2016-05-25,5600.0,58.4,37.4,clear
+838,Arhar (Tur/Red Gram),Indore,2016-05-30,7250.0,1.0,37.4,clear
+839,Green Gram (Moong),Indore,2016-05-30,5500.0,45.0,37.4,clear
+840,Arhar (Tur/Red Gram),Indore,2016-05-31,7100.0,0.4,37.0,clear
+841,Green Gram (Moong),Indore,2016-05-31,5300.0,59.8,37.0,clear
+842,Arhar (Tur/Red Gram),Indore,2016-01-06,7000.0,0.2,28.4,clear
+843,Black Gram (Urd Beans),Indore,2016-01-06,9000.0,0.5,28.4,clear
+844,Green Gram (Moong),Indore,2016-01-06,5500.0,62.0,28.4,clear
+845,Arhar (Tur/Red Gram),Indore,2016-02-06,6450.0,0.1,30.0,clear
+846,Black Gram (Urd Beans),Indore,2016-02-06,7860.0,0.3,30.0,clear
+847,Green Gram (Moong),Indore,2016-02-06,5450.0,37.6,30.0,clear
+848,Arhar (Tur/Red Gram),Indore,2016-03-06,7450.0,0.1,33.4,clear
+849,Black Gram (Urd Beans),Indore,2016-03-06,9270.0,0.3,33.4,clear
+850,Green Gram (Moong),Indore,2016-03-06,5000.0,41.2,33.4,clear
+851,Arhar (Tur/Red Gram),Indore,2016-06-06,7500.0,4.3,43.0,clear
+852,Bengal Gram(Gram),Gautampura,2016-06-06,5370.0,37.0,43.0,clear
+853,Black Gram (Urd Beans),Indore,2016-06-06,10100.0,0.4,43.0,clear
+854,Green Gram (Moong),Indore,2016-06-06,5500.0,38.0,43.0,clear
+855,Arhar (Tur/Red Gram),Indore,2016-07-06,7525.0,1.1,29.6,clear
+856,Green Gram (Moong),Indore,2016-07-06,4500.0,39.3,29.6,clear
+857,Arhar (Tur/Red Gram),Indore,2016-08-06,7300.0,0.1,28.0,rain
+858,Black Gram (Urd Beans),Indore,2016-08-06,9811.0,2.4,28.0,rain
+859,Green Gram (Moong),Indore,2016-08-06,5500.0,16.9,28.0,rain
+860,Arhar (Tur/Red Gram),Indore,2016-09-06,7799.0,0.3,28.4,clear
+861,Bengal Gram(Gram),Indore,2016-09-06,6000.0,53.7,28.4,clear
+862,Black Gram (Urd Beans),Indore,2016-09-06,10100.0,0.5,28.4,clear
+863,Green Gram (Moong),Indore,2016-09-06,5500.0,20.9,28.4,clear
+864,Arhar (Tur/Red Gram),Indore,2016-10-06,7600.0,0.1,28.6,clear
+865,Bengal Gram(Gram),Gautampura,2016-10-06,5700.0,32.0,28.6,clear
+866,Green Gram (Moong),Indore,2016-10-06,5900.0,27.4,28.6,clear
+867,Arhar (Tur/Red Gram),Indore,2016-11-06,7955.0,0.5,29.0,clear
+868,Bengal Gram(Gram),Gautampura,2016-11-06,5800.0,90.0,29.0,clear
+869,Green Gram (Moong),Indore,2016-11-06,5875.0,31.2,29.0,clear
+870,Arhar (Tur/Red Gram),Indore,2016-06-14,7200.0,1.8,35.8,clear
+871,Black Gram (Urd Beans),Indore,2016-06-14,8000.0,0.1,35.8,clear
+872,Green Gram (Moong),Indore,2016-06-14,5500.0,81.0,35.8,clear
+873,Arhar (Tur/Red Gram),Indore,2016-06-15,8020.0,0.5,36.0,clear
+874,Black Gram (Urd Beans),Indore,2016-06-15,10100.0,0.5,36.0,clear
+875,Green Gram (Moong),Indore,2016-06-15,5761.0,27.5,36.0,clear
+876,Arhar (Tur/Red Gram),Indore,2016-06-16,6711.0,0.3,34.4,clear
+877,Green Gram (Moong),Indore,2016-06-16,5500.0,36.5,34.4,clear
+878,Arhar (Tur/Red Gram),Indore,2016-06-17,8005.0,0.7,37.4,clear
+879,Bengal Gram(Gram),Gautampura,2016-06-17,5850.0,92.0,37.4,clear
+880,Green Gram (Moong),Indore,2016-06-17,5000.0,53.0,37.4,clear
+881,Arhar (Tur/Red Gram),Indore,2016-06-20,6850.0,0.3,35.0,rain
+882,Bengal Gram(Gram),Gautampura,2016-06-20,6500.0,80.0,35.0,rain
+883,Black Gram (Urd Beans),Indore,2016-06-20,10450.0,0.3,35.0,rain
+884,Green Gram (Moong),Indore,2016-06-20,5500.0,22.4,35.0,rain
+885,Arhar (Tur/Red Gram),Indore,2016-06-27,7505.0,0.3,33.6,clear
+886,Black Gram (Urd Beans),Indore,2016-06-27,11600.0,0.6,33.6,clear
+887,Green Gram (Moong),Indore,2016-06-27,5500.0,32.0,33.6,clear
+888,Green Gram (Moong),Mhow,2016-06-27,5400.0,5.0,33.6,clear
+889,Arhar (Tur/Red Gram),Indore,2016-06-28,8399.0,0.4,31.2,clear
+890,Green Gram (Moong),Indore,2016-06-28,5500.0,19.2,31.2,clear
+891,Arhar (Tur/Red Gram),Indore,2016-06-30,8407.0,0.1,31.0,clear
+892,Green Gram (Moong),Indore,2016-06-30,5500.0,35.1,31.0,clear
+893,Arhar (Tur/Red Gram),Indore,2016-05-07,7801.0,1.4,36.2,clear
+894,Green Gram (Moong),Indore,2016-05-07,5000.0,28.8,36.2,clear
+895,Arhar (Tur/Red Gram),Indore,2016-08-07,8136.0,1.5,24.6,rain
+896,Black Gram (Urd Beans),Indore,2016-08-07,9450.0,0.1,24.6,rain
+897,Green Gram (Moong),Mhow,2016-08-07,4695.0,3.0,24.6,rain
+898,Arhar (Tur/Red Gram),Indore,2016-09-07,4000.0,0.5,29.0,clear
+899,Black Gram (Urd Beans),Indore,2016-09-07,5425.0,17.0,29.0,clear
+900,Green Gram (Moong),Indore,2016-09-07,5425.0,17.0,29.0,clear
+901,Arhar (Tur/Red Gram),Indore,2016-07-16,7300.0,0.5,26.4,clear
+902,Green Gram (Moong),Indore,2016-07-16,5000.0,13.9,26.4,clear
+903,Arhar (Tur/Red Gram),Indore,2016-07-22,7000.0,1.0,28.4,clear
+904,Green Gram (Moong),Indore,2016-07-22,5300.0,9.0,28.4,clear
+905,Arhar (Tur/Red Gram),Indore,2016-07-25,7871.0,0.6,29.0,clear
+906,Green Gram (Moong),Indore,2016-07-25,5000.0,16.2,29.0,clear
+907,Arhar (Tur/Red Gram),Indore,2016-07-26,9599.0,0.4,30.0,rain
+908,Black Gram (Urd Beans),Indore,2016-07-26,4000.0,0.3,30.0,rain
+909,Green Gram (Moong),Indore,2016-07-26,4900.0,12.0,30.0,rain
+910,Arhar (Tur/Red Gram),Indore,2016-07-27,6799.0,0.1,25.8,rain
+911,Green Gram (Moong),Indore,2016-07-27,4800.0,22.3,25.8,rain
+912,Arhar (Tur/Red Gram),Indore,2016-07-30,6926.0,0.1,29.4,clear
+913,Green Gram (Moong),Indore,2016-07-30,5000.0,5.8,29.4,clear
+914,Arhar (Tur/Red Gram),Indore,2016-12-08,4550.0,0.1,27.0,clear
+915,Green Gram (Moong),Indore,2016-12-08,5051.0,23.1,27.0,clear
+916,Arhar (Tur/Red Gram),Indore,2016-08-16,5225.0,0.1,28.2,clear
+917,Green Gram (Moong),Indore,2016-08-16,4200.0,17.9,28.2,clear
+918,Arhar (Tur/Red Gram),Indore,2016-08-17,5099.0,0.4,27.6,clear
+919,Green Gram (Moong),Indore,2016-08-17,4600.0,5.9,27.6,clear
+920,Arhar (Tur/Red Gram),Indore,2016-08-29,3900.0,0.1,29.6,clear
+921,Black Gram (Urd Beans),Indore,2016-08-29,5251.0,0.2,29.6,clear
+922,Green Gram (Moong),Indore,2016-08-29,4100.0,9.0,29.6,clear
+923,Arhar (Tur/Red Gram),Indore,2016-08-30,5500.0,3.7,30.4,clear
+924,Green Gram (Moong),Indore,2016-08-30,4200.0,5.5,30.4,clear
+925,Arhar (Tur/Red Gram),Indore,2016-08-31,5000.0,0.2,27.8,clear
+926,Green Gram (Moong),Indore,2016-08-31,4000.0,6.8,27.8,clear
+927,Arhar (Tur/Red Gram),Indore,2016-02-09,4900.0,0.1,28.8,clear
+928,Black Gram (Urd Beans),Indore,2016-02-09,4001.0,0.2,28.8,clear
+929,Green Gram (Moong),Indore,2016-02-09,4200.0,3.4,28.8,clear
+930,Arhar (Tur/Red Gram),Indore,2016-05-09,5960.0,0.3,37.0,rain
+931,Green Gram (Moong),Indore,2016-05-09,4100.0,8.4,37.0,rain
+932,Arhar (Tur/Red Gram),Indore,2016-07-09,5960.0,0.3,25.0,rain
+933,Green Gram (Moong),Indore,2016-07-09,4000.0,8.4,25.0,rain
+934,Arhar (Tur/Red Gram),Indore,2016-09-16,5050.0,0.3,29.4,clear
+935,Black Gram (Urd Beans),Indore,2016-09-16,6500.0,2.1,29.4,clear
+936,Green Gram (Moong),Indore,2016-09-16,4500.0,5.8,29.4,clear
+937,Arhar (Tur/Red Gram),Indore,2016-09-19,4500.0,1.2,28.2,clear
+938,Black Gram (Urd Beans),Indore,2016-09-19,6500.0,13.1,28.2,clear
+939,Green Gram (Moong),Indore,2016-09-19,4500.0,9.1,28.2,clear
+940,Arhar (Tur/Red Gram),Indore,2016-09-26,4000.0,0.1,31.8,clear
+941,Black Gram (Urd Beans),Indore,2016-09-26,6500.0,20.4,31.8,clear
+942,Green Gram (Moong),Indore,2016-09-26,4600.0,3.0,31.8,clear
+943,Arhar (Tur/Red Gram),Indore,2016-09-27,5705.0,0.1,32.2,clear
+944,Bengal Gram(Gram),Gautampura,2016-09-27,8700.0,29.9,32.2,clear
+945,Black Gram (Urd Beans),Indore,2016-09-27,7000.0,14.7,32.2,clear
+946,Green Gram (Moong),Indore,2016-09-27,5000.0,5.3,32.2,clear
+947,Arhar (Tur/Red Gram),Indore,2016-05-10,6355.0,1.6,37.4,clear
+948,Bengal Gram(Gram),Gautampura,2016-05-10,7000.0,10.0,37.4,clear
+949,Black Gram (Urd Beans),Indore,2016-05-10,6000.0,20.3,37.4,clear
+950,Green Gram (Moong),Indore,2016-05-10,4500.0,3.6,37.4,clear
+951,Arhar (Tur/Red Gram),Indore,2016-10-26,4005.0,0.1,30.8,clear
+952,Bengal Gram(Gram),Sanwer,2016-10-26,8001.0,0.1,30.8,clear
+953,Black Gram (Urd Beans),Indore,2016-10-26,6000.0,23.4,30.8,clear
+954,Green Gram (Moong),Indore,2016-10-26,5225.0,13.7,30.8,clear
+955,Arhar (Tur/Red Gram),Indore,2016-11-30,2900.0,960.0,30.6,clear
+956,Black Gram (Urd Beans),Mhow,2016-11-30,4302.0,2.0,30.6,clear
+957,Arhar (Tur/Red Gram),Indore,2016-03-12,4700.0,3.4,33.2,rain
+958,Black Gram (Urd Beans),Indore,2016-03-12,5800.0,7.6,33.2,rain
+959,Green Gram (Moong),Indore,2016-03-12,5225.0,3.0,33.2,rain
+960,Arhar (Tur/Red Gram),Indore,2016-08-12,4205.0,2.8,26.2,clear
+961,Black Gram (Urd Beans),Indore,2016-08-12,5500.0,16.6,26.2,clear
+962,Green Gram (Moong),Indore,2016-08-12,5000.0,3.5,26.2,clear
+963,Arhar (Tur/Red Gram),Indore,2016-09-12,4000.0,3.2,30.4,clear
+964,Black Gram (Urd Beans),Indore,2016-09-12,4905.0,1.0,30.4,clear
+965,Green Gram (Moong),Indore,2016-09-12,5000.0,6.8,30.4,clear
+966,Arhar (Tur/Red Gram),Indore,2016-12-13,3450.0,0.1,28.2,clear
+967,Black Gram (Urd Beans),Indore,2016-12-13,4000.0,8.4,28.2,clear
+968,Green Gram (Moong),Indore,2016-12-13,5225.0,10.8,28.2,clear
+969,Arhar (Tur/Red Gram),Indore,2016-12-16,6500.0,1.8,28.4,clear
+970,Black Gram (Urd Beans),Indore,2016-12-16,4800.0,20.6,28.4,clear
+971,Green Gram (Moong),Indore,2016-12-16,5000.0,9.3,28.4,clear
+972,Arhar (Tur/Red Gram),Indore,2016-12-17,3600.0,3.1,24.8,clear
+973,Black Gram (Urd Beans),Indore,2016-12-17,5000.0,2.4,24.8,clear
+974,Green Gram (Moong),Indore,2016-12-17,4165.0,3.8,24.8,clear
+975,Arhar (Tur/Red Gram),Indore,2016-12-22,3140.0,0.1,26.2,clear
+976,Black Gram (Urd Beans),Indore,2016-12-22,4800.0,9.6,26.2,clear
+977,Green Gram (Moong),Indore,2016-12-22,4800.0,18.4,26.2,clear
+978,Arhar (Tur/Red Gram),Indore,2016-12-24,4000.0,2.0,28.8,clear
+979,Bengal Gram(Gram),Sanwer,2016-12-24,8000.0,0.1,28.8,clear
+980,Arhar (Tur/Red Gram),Indore,2016-12-26,4360.0,3.0,22.0,clear
+981,Black Gram (Urd Beans),Indore,2016-12-26,5500.0,4.2,22.0,clear
+982,Arhar (Tur/Red Gram),Indore,2016-12-30,4380.0,8.4,30.2,clear
+983,Arhar (Tur/Red Gram),Mhow,2016-01-28,7391.0,0.1,26.8,clear
+984,Arhar (Tur/Red Gram),Mhow,2016-05-03,5600.0,0.1,39.8,clear
+985,Arhar (Tur/Red Gram),Mhow,2016-08-04,5000.0,0.1,26.6,clear
+986,Arhar (Tur/Red Gram),Mhow,2016-05-27,7451.0,0.1,38.0,clear
+987,Green Gram (Moong),Indore,2016-05-27,5200.0,19.6,38.0,clear
+988,Bengal Gram(Gram),Gautampura,2016-05-26,5600.0,180.0,37.6,clear
+989,Green Gram (Moong),Indore,2016-05-26,4800.0,52.8,37.6,clear
+990,Bengal Gram(Gram),Gautampura,2016-05-28,5600.0,223.0,37.0,clear
+991,Green Gram (Moong),Indore,2016-05-28,5000.0,50.1,37.0,clear
+992,Bengal Gram(Gram),Gautampura,2016-06-18,6400.0,125.0,34.6,clear
+993,Bengal Gram(Gram),Gautampura,2016-06-25,6000.0,8.7,29.0,clear
+994,Green Gram (Moong),Indore,2016-06-25,5681.0,9.1,29.0,clear
+995,Bengal Gram(Gram),Gautampura,2016-11-07,8100.0,2.6,30.0,clear
+996,Black Gram (Urd Beans),Indore,2016-11-07,9999.0,5.7,30.0,clear
+997,Bengal Gram(Gram),Gautampura,2016-07-15,7000.0,8.0,29.4,clear
+998,Bengal Gram(Gram),Sanwer,2016-07-15,6700.0,0.01,29.4,clear
+999,Green Gram (Moong),Mhow,2016-07-15,5500.0,1.0,29.4,clear
+1000,Bengal Gram(Gram),Gautampura,2016-07-19,7000.0,2.5,28.0,clear
+1001,Bengal Gram(Gram),Gautampura,2016-09-14,7050.0,9.0,31.6,clear
+1002,Bengal Gram(Gram),Gautampura,2016-09-15,7600.0,14.0,32.0,clear
+1003,Green Gram (Moong),Indore,2016-09-15,4500.0,14.7,32.0,clear
+1004,Bengal Gram(Gram),Gautampura,2016-09-21,7750.0,9.8,30.2,clear
+1005,Black Gram (Urd Beans),Indore,2016-09-21,6000.0,13.0,30.2,clear
+1006,Green Gram (Moong),Indore,2016-09-21,4500.0,5.6,30.2,clear
+1007,Bengal Gram(Gram),Gautampura,2016-09-22,8000.0,7.5,31.2,clear
+1008,Black Gram (Urd Beans),Indore,2016-09-22,6500.0,6.1,31.2,clear
+1009,Green Gram (Moong),Indore,2016-09-22,4500.0,11.8,31.2,clear
+1010,Bengal Gram(Gram),Gautampura,2016-09-24,8200.0,4.8,32.6,clear
+1011,Black Gram (Urd Beans),Indore,2016-09-24,6363.0,8.6,32.6,clear
+1012,Green Gram (Moong),Indore,2016-09-24,5252.0,11.7,32.6,clear
+1013,Bengal Gram(Gram),Gautampura,2016-09-25,7000.0,5.8,31.8,clear
+1014,Bengal Gram(Gram),Gautampura,2016-07-10,9300.0,10.0,25.2,clear
+1015,Black Gram (Urd Beans),Indore,2016-07-10,6200.0,16.2,25.2,clear
+1016,Green Gram (Moong),Indore,2016-07-10,4200.0,7.0,25.2,clear
+1017,Bengal Gram(Gram),Gautampura,2016-10-15,9000.0,3.0,31.2,clear
+1018,Black Gram (Urd Beans),Indore,2016-10-15,5800.0,22.3,31.2,clear
+1019,Green Gram (Moong),Indore,2016-10-15,4500.0,1.0,31.2,clear
+1020,Bengal Gram(Gram),Gautampura,2016-11-22,6579.0,0.3,28.8,clear
+1021,Black Gram (Urd Beans),Indore,2016-11-22,5500.0,2.1,28.8,clear
+1022,Green Gram (Moong),Indore,2016-11-22,4000.0,1.8,28.8,clear
+1023,Bengal Gram(Gram),Gautampura,2016-11-25,11500.0,2.1,29.2,clear
+1024,Bengal Gram(Gram),Sanwer,2016-11-25,8100.0,0.2,29.2,clear
+1025,Black Gram (Urd Beans),Mhow,2016-11-25,2900.0,4.0,29.2,clear
+1026,Bengal Gram(Gram),Indore,2016-04-16,5400.0,132.0,39.4,clear
+1027,Bengal Gram(Gram),Sanwer,2016-02-19,4220.0,0.9,33.8,clear
+1028,Bengal Gram(Gram),Sanwer,2016-02-25,3852.0,0.7,30.6,clear
+1029,Bengal Gram(Gram),Sanwer,2016-09-03,3711.0,1.2,28.2,clear
+1030,Bengal Gram(Gram),Sanwer,2016-03-16,4301.0,0.5,31.4,clear
+1031,Bengal Gram(Gram),Sanwer,2016-05-13,4280.0,0.2,41.4,clear
+1032,Green Gram (Moong),Indore,2016-05-13,5800.0,27.0,41.4,clear
+1033,Bengal Gram(Gram),Sanwer,2016-02-12,4000.0,0.4,28.6,clear
+1034,Black Gram (Urd Beans),Indore,2016-01-22,8899.0,1.0,23.4,clear
+1035,Black Gram (Urd Beans),Indore,2016-04-25,10000.0,1.6,37.0,clear
+1036,Green Gram (Moong),Indore,2016-04-25,6900.0,3.7,37.0,clear
+1037,Black Gram (Urd Beans),Indore,2016-05-24,9599.0,0.6,39.0,clear
+1038,Green Gram (Moong),Indore,2016-05-24,5600.0,67.3,39.0,clear
+1039,Black Gram (Urd Beans),Indore,2016-07-21,8814.0,1.0,30.4,clear
+1040,Green Gram (Moong),Indore,2016-07-21,5000.0,39.6,30.4,clear
+1041,Black Gram (Urd Beans),Indore,2016-10-08,5000.0,0.4,30.2,clear
+1042,Green Gram (Moong),Indore,2016-10-08,5100.0,4.6,30.2,clear
+1043,Black Gram (Urd Beans),Indore,2016-03-09,6111.0,0.2,33.0,clear
+1044,Green Gram (Moong),Indore,2016-03-09,5500.0,9.9,33.0,clear
+1045,Black Gram (Urd Beans),Indore,2016-08-09,4501.0,0.2,27.0,clear
+1046,Green Gram (Moong),Indore,2016-08-09,4000.0,8.5,27.0,clear
+1047,Black Gram (Urd Beans),Indore,2016-10-09,6901.0,0.2,31.2,clear
+1048,Green Gram (Moong),Indore,2016-10-09,4200.0,7.5,31.2,clear
+1049,Black Gram (Urd Beans),Indore,2016-09-13,5500.0,0.9,31.4,clear
+1050,Green Gram (Moong),Indore,2016-09-13,4500.0,6.0,31.4,clear
+1051,Black Gram (Urd Beans),Indore,2016-09-20,6000.0,11.3,29.8,rain
+1052,Green Gram (Moong),Indore,2016-09-20,4800.0,2.6,29.8,rain
+1053,Black Gram (Urd Beans),Indore,2016-09-28,6400.0,8.0,32.6,clear
+1054,Green Gram (Moong),Indore,2016-09-28,4800.0,1.9,32.6,clear
+1055,Black Gram (Urd Beans),Indore,2016-09-29,6500.0,13.6,32.2,clear
+1056,Green Gram (Moong),Indore,2016-09-29,4000.0,2.4,32.2,clear
+1057,Black Gram (Urd Beans),Indore,2016-04-10,6000.0,25.9,37.6,clear
+1058,Green Gram (Moong),Indore,2016-04-10,5030.0,3.3,37.6,clear
+1059,Black Gram (Urd Beans),Indore,2016-06-10,6000.0,9.0,38.0,clear
+1060,Green Gram (Moong),Indore,2016-06-10,4905.0,3.6,38.0,clear
+1061,Black Gram (Urd Beans),Indore,2016-08-10,6000.0,4.3,26.8,clear
+1062,Green Gram (Moong),Indore,2016-08-10,4760.0,1.1,26.8,clear
+1063,Black Gram (Urd Beans),Indore,2016-12-10,5500.0,3.1,26.8,clear
+1064,Black Gram (Urd Beans),Indore,2016-10-13,5800.0,23.0,30.2,clear
+1065,Green Gram (Moong),Indore,2016-10-13,5225.0,0.6,30.2,clear
+1066,Black Gram (Urd Beans),Indore,2016-10-14,5800.0,16.5,31.0,clear
+1067,Black Gram (Urd Beans),Indore,2016-10-17,5500.0,23.2,31.8,clear
+1068,Green Gram (Moong),Indore,2016-10-17,4650.0,6.2,31.8,clear
+1069,Black Gram (Urd Beans),Indore,2016-10-18,6000.0,24.4,32.0,clear
+1070,Green Gram (Moong),Indore,2016-10-18,4100.0,3.8,32.0,clear
+1071,Black Gram (Urd Beans),Indore,2016-10-19,6500.0,14.7,32.0,clear
+1072,Green Gram (Moong),Indore,2016-10-19,4200.0,6.1,32.0,clear
+1073,Black Gram (Urd Beans),Indore,2016-10-20,6200.0,5.3,32.4,clear
+1074,Green Gram (Moong),Indore,2016-10-20,5000.0,10.6,32.4,clear
+1075,Black Gram (Urd Beans),Indore,2016-10-21,6500.0,15.1,31.6,clear
+1076,Green Gram (Moong),Indore,2016-10-21,4500.0,6.5,31.6,clear
+1077,Black Gram (Urd Beans),Indore,2016-10-22,6500.0,15.1,31.0,clear
+1078,Green Gram (Moong),Indore,2016-10-22,4500.0,6.5,31.0,clear
+1079,Black Gram (Urd Beans),Indore,2016-10-24,6200.0,17.4,30.0,clear
+1080,Green Gram (Moong),Indore,2016-10-24,5000.0,5.7,30.0,clear
+1081,Black Gram (Urd Beans),Indore,2016-10-25,6200.0,21.0,29.4,clear
+1082,Green Gram (Moong),Indore,2016-10-25,5000.0,12.5,29.4,clear
+1083,Black Gram (Urd Beans),Indore,2016-10-27,6000.0,18.5,31.4,clear
+1084,Green Gram (Moong),Indore,2016-10-27,5000.0,2.0,31.4,clear
+1085,Black Gram (Urd Beans),Indore,2016-10-28,6270.0,4.6,30.6,clear
+1086,Green Gram (Moong),Indore,2016-10-28,5225.0,2.6,30.6,clear
+1087,Black Gram (Urd Beans),Indore,2016-02-11,6500.0,11.0,27.6,clear
+1088,Green Gram (Moong),Indore,2016-02-11,4200.0,0.8,27.6,clear
+1089,Black Gram (Urd Beans),Indore,2016-03-11,6500.0,7.9,36.2,clear
+1090,Black Gram (Urd Beans),Mhow,2016-03-11,3850.0,12.0,36.2,clear
+1091,Green Gram (Moong),Indore,2016-03-11,4405.0,0.8,36.2,clear
+1092,Black Gram (Urd Beans),Indore,2016-04-11,6200.0,11.7,36.4,clear
+1093,Green Gram (Moong),Indore,2016-04-11,3805.0,0.8,36.4,clear
+1094,Black Gram (Urd Beans),Indore,2016-05-11,6500.0,16.3,38.6,clear
+1095,Green Gram (Moong),Indore,2016-05-11,4900.0,15.3,38.6,clear
+1096,Black Gram (Urd Beans),Indore,2016-07-11,6500.0,12.1,25.0,rain
+1097,Green Gram (Moong),Indore,2016-07-11,4800.0,13.8,25.0,rain
+1098,Black Gram (Urd Beans),Indore,2016-08-11,5500.0,6.6,25.4,clear
+1099,Green Gram (Moong),Indore,2016-08-11,4500.0,8.3,25.4,clear
+1100,Black Gram (Urd Beans),Indore,2016-11-18,5000.0,0.1,28.4,clear
+1101,Black Gram (Urd Beans),Indore,2016-11-19,5750.0,0.2,28.4,clear
+1102,Black Gram (Urd Beans),Indore,2016-11-23,5900.0,8.7,28.6,clear
+1103,Black Gram (Urd Beans),Indore,2016-11-24,5500.0,3.9,28.6,clear
+1104,Green Gram (Moong),Indore,2016-11-24,4070.0,0.9,28.6,clear
+1105,Black Gram (Urd Beans),Indore,2016-11-28,5000.0,4.4,28.8,clear
+1106,Black Gram (Urd Beans),Mhow,2016-11-28,3601.0,2.0,28.8,clear
+1107,Green Gram (Moong),Indore,2016-11-28,4000.0,2.8,28.8,clear
+1108,Black Gram (Urd Beans),Indore,2016-07-12,6500.0,11.1,24.2,clear
+1109,Green Gram (Moong),Indore,2016-07-12,4800.0,5.0,24.2,clear
+1110,Black Gram (Urd Beans),Indore,2016-10-12,6200.0,5.5,30.4,clear
+1111,Green Gram (Moong),Indore,2016-10-12,3805.0,0.8,30.4,clear
+1112,Black Gram (Urd Beans),Indore,2016-12-12,5000.0,0.7,27.8,clear
+1113,Green Gram (Moong),Indore,2016-12-12,3750.0,0.6,27.8,clear
+1114,Black Gram (Urd Beans),Indore,2016-12-19,4895.0,2.3,24.2,clear
+1115,Green Gram (Moong),Indore,2016-12-19,5200.0,7.7,24.2,clear
+1116,Black Gram (Urd Beans),Indore,2016-12-20,5500.0,2.0,25.2,clear
+1117,Black Gram (Urd Beans),Indore,2016-12-21,5900.0,2.5,26.2,clear
+1118,Green Gram (Moong),Indore,2016-12-21,4800.0,3.1,26.2,clear
+1119,Black Gram (Urd Beans),Indore,2016-12-23,5600.0,4.5,28.0,clear
+1120,Green Gram (Moong),Indore,2016-12-23,5000.0,8.9,28.0,clear
+1121,Black Gram (Urd Beans),Indore,2016-12-27,4610.0,1.6,23.6,clear
+1122,Green Gram (Moong),Indore,2016-12-27,4500.0,3.4,23.6,clear
+1123,Black Gram (Urd Beans),Indore,2016-12-28,4000.0,2.5,26.6,clear
+1124,Green Gram (Moong),Indore,2016-12-28,4500.0,3.5,26.6,clear
+1125,Black Gram (Urd Beans),Indore,2016-12-29,5000.0,2.5,29.0,clear
+1126,Green Gram (Moong),Indore,2016-12-29,5000.0,4.5,29.0,clear
+1127,Black Gram (Urd Beans),Indore,2016-12-31,6100.0,3.0,29.0,clear
+1128,Green Gram (Moong),Indore,2016-12-31,5225.0,7.7,29.0,clear
+1129,Green Gram (Moong),Indore,2016-04-23,6500.0,3.6,36.4,clear
+1130,Green Gram (Moong),Indore,2016-04-26,6850.0,4.4,37.4,clear
+1131,Green Gram (Moong),Indore,2016-04-28,5500.0,6.0,39.4,clear
+1132,Green Gram (Moong),Indore,2016-04-05,6000.0,14.0,37.2,clear
+1133,Green Gram (Moong),Indore,2016-11-05,6300.0,36.6,28.4,clear
+1134,Green Gram (Moong),Indore,2016-05-20,5500.0,39.0,42.8,clear
+1135,Green Gram (Moong),Indore,2016-06-21,5000.0,5.8,33.0,rain
+1136,Green Gram (Moong),Indore,2016-06-29,5600.0,35.0,31.4,clear
+1137,Green Gram (Moong),Indore,2016-01-07,5900.0,32.0,28.0,clear
+1138,Green Gram (Moong),Indore,2016-02-07,5600.0,32.5,26.0,clear
+1139,Green Gram (Moong),Indore,2016-12-07,5500.0,25.0,27.0,clear
+1140,Green Gram (Moong),Indore,2016-07-13,5000.0,1.0,28.4,clear
+1141,Green Gram (Moong),Indore,2016-07-14,5000.0,1.5,30.2,clear
+1142,Green Gram (Moong),Indore,2016-07-20,5100.0,15.8,30.0,clear
+1143,Green Gram (Moong),Indore,2016-07-23,5500.0,21.0,30.6,rain
+1144,Green Gram (Moong),Indore,2016-07-28,5059.0,2.4,27.6,clear
+1145,Green Gram (Moong),Indore,2016-07-29,4800.0,5.1,29.4,clear
+1146,Green Gram (Moong),Indore,2016-01-08,4900.0,2.5,27.2,clear
+1147,Green Gram (Moong),Indore,2016-03-08,4800.0,4.5,31.6,clear
+1148,Green Gram (Moong),Indore,2016-05-08,4800.0,3.5,36.6,rain
+1149,Green Gram (Moong),Mhow,2016-05-08,4025.0,3.0,36.6,rain
+1150,Green Gram (Moong),Indore,2016-06-08,4800.0,3.5,41.4,clear
+1151,Green Gram (Moong),Indore,2016-08-08,4900.0,4.5,25.4,clear
+1152,Green Gram (Moong),Indore,2016-09-08,4500.0,5.6,29.4,clear
+1153,Green Gram (Moong),Indore,2016-11-08,5100.0,7.1,29.8,clear
+1154,Green Gram (Moong),Indore,2016-08-13,4690.0,1.0,25.8,clear
+1155,Green Gram (Moong),Indore,2016-08-19,4680.0,6.2,22.8,clear
+1156,Green Gram (Moong),Indore,2016-08-20,4456.0,3.8,22.4,rain
+1157,Green Gram (Moong),Indore,2016-08-23,4710.0,4.5,26.6,clear
+1158,Green Gram (Moong),Indore,2016-08-24,4950.0,5.5,28.2,clear
+1159,Green Gram (Moong),Indore,2016-08-26,4299.0,12.4,30.8,clear
+1160,Green Gram (Moong),Indore,2016-09-09,4200.0,6.1,30.0,clear
+1161,Green Gram (Moong),Indore,2016-10-10,2400.0,0.3,30.8,clear
+1162,Green Gram (Moong),Indore,2016-11-21,4290.0,1.1,29.6,clear
+1163,Green Gram (Moong),Mhow,2016-06-22,5930.0,2.0,32.8,clear
+1164,Arhar (Tur/Red Gram),Indore,2017-03-01,4280.0,1.9,34.0,clear
+1165,Arhar (Tur/Red Gram),Mhow,2017-03-01,3600.0,0.9,34.0,clear
+1166,Black Gram (Urd Beans),Indore,2017-03-01,6070.0,6.7,34.0,clear
+1167,Black Gram (Urd Beans),Mhow,2017-03-01,3501.0,1.0,34.0,clear
+1168,Green Gram (Moong),Indore,2017-03-01,4200.0,5.3,34.0,clear
+1169,Arhar (Tur/Red Gram),Indore,2017-04-01,4500.0,6.5,38.6,clear
+1170,Black Gram (Urd Beans),Indore,2017-04-01,6010.0,0.7,38.6,clear
+1171,Green Gram (Moong),Indore,2017-04-01,3800.0,2.4,38.6,clear
+1172,Arhar (Tur/Red Gram),Indore,2017-06-01,4150.0,0.9,36.6,clear
+1173,Black Gram (Urd Beans),Indore,2017-06-01,5505.0,6.3,36.6,clear
+1174,Black Gram (Urd Beans),Mhow,2017-06-01,3500.0,2.0,36.6,clear
+1175,Green Gram (Moong),Indore,2017-06-01,4722.0,5.3,36.6,clear
+1176,Arhar (Tur/Red Gram),Indore,2017-09-01,4365.0,3.1,28.6,clear
+1177,Black Gram (Urd Beans),Indore,2017-09-01,5305.0,15.6,28.6,clear
+1178,Green Gram (Moong),Indore,2017-09-01,4400.0,3.2,28.6,clear
+1179,Arhar (Tur/Red Gram),Indore,2017-10-01,3800.0,4.6,35.4,clear
+1180,Black Gram (Urd Beans),Indore,2017-10-01,5000.0,7.0,35.4,clear
+1181,Green Gram (Moong),Indore,2017-10-01,3755.0,0.4,35.4,clear
+1182,Arhar (Tur/Red Gram),Indore,2017-11-01,4205.0,6.6,30.4,clear
+1183,Arhar (Tur/Red Gram),Mhow,2017-11-01,3380.0,1.7,30.4,clear
+1184,Black Gram (Urd Beans),Indore,2017-11-01,5000.0,16.5,30.4,clear
+1185,Green Gram (Moong),Indore,2017-11-01,4000.0,1.4,30.4,clear
+1186,Arhar (Tur/Red Gram),Indore,2017-12-01,4240.0,7.4,26.4,clear
+1187,Black Gram (Urd Beans),Indore,2017-12-01,5455.0,8.7,26.4,clear
+1188,Green Gram (Moong),Indore,2017-12-01,4620.0,9.7,26.4,clear
+1189,Arhar (Tur/Red Gram),Indore,2017-01-13,3955.0,2.2,20.2,clear
+1190,Black Gram (Urd Beans),Indore,2017-01-13,5675.0,4.0,20.2,clear
+1191,Black Gram (Urd Beans),Mhow,2017-01-13,4071.0,4.0,20.2,clear
+1192,Green Gram (Moong),Indore,2017-01-13,4300.0,0.4,20.2,clear
+1193,Arhar (Tur/Red Gram),Indore,2017-01-16,4000.0,5.3,25.6,clear
+1194,Black Gram (Urd Beans),Indore,2017-01-16,5500.0,4.1,25.6,clear
+1195,Green Gram (Moong),Indore,2017-01-16,4000.0,6.0,25.6,clear
+1196,Arhar (Tur/Red Gram),Indore,2017-01-17,4300.0,2.2,23.8,clear
+1197,Black Gram (Urd Beans),Indore,2017-01-17,3895.0,2.4,23.8,clear
+1198,Arhar (Tur/Red Gram),Indore,2017-01-18,4000.0,8.2,24.0,clear
+1199,Black Gram (Urd Beans),Indore,2017-01-18,5000.0,18.4,24.0,clear
+1200,Green Gram (Moong),Indore,2017-01-18,3900.0,0.6,24.0,clear
+1201,Arhar (Tur/Red Gram),Indore,2017-01-19,4500.0,3.3,21.6,clear
+1202,Bengal Gram(Gram),Gautampura,2017-01-19,6100.0,1.2,21.6,clear
+1203,Black Gram (Urd Beans),Indore,2017-01-19,5690.0,2.9,21.6,clear
+1204,Arhar (Tur/Red Gram),Indore,2017-01-20,4480.0,3.2,25.0,clear
+1205,Black Gram (Urd Beans),Indore,2017-01-20,5000.0,5.6,25.0,clear
+1206,Green Gram (Moong),Indore,2017-01-20,4230.0,0.9,25.0,clear
+1207,Arhar (Tur/Red Gram),Indore,2017-01-21,12000.0,10.8,27.2,clear
+1208,Black Gram (Urd Beans),Indore,2017-01-21,5500.0,5.4,27.2,clear
+1209,Green Gram (Moong),Indore,2017-01-21,4000.0,4.0,27.2,clear
+1210,Arhar (Tur/Red Gram),Indore,2017-01-23,4000.0,8.2,30.4,clear
+1211,Bengal Gram(Gram),Gautampura,2017-01-23,6100.0,1.2,30.4,clear
+1212,Arhar (Tur/Red Gram),Indore,2017-01-28,4000.0,9.5,23.0,clear
+1213,Bengal Gram(Gram),Gautampura,2017-01-28,5600.0,1.3,23.0,clear
+1214,Black Gram (Urd Beans),Indore,2017-01-28,4800.0,12.5,23.0,clear
+1215,Green Gram (Moong),Indore,2017-01-28,4600.0,5.1,23.0,clear
+1216,Arhar (Tur/Red Gram),Indore,2017-01-30,4000.0,15.4,28.0,clear
+1217,Arhar (Tur/Red Gram),Mhow,2017-01-30,3400.0,1.0,28.0,clear
+1218,Black Gram (Urd Beans),Indore,2017-01-30,5000.0,12.7,28.0,clear
+1219,Green Gram (Moong),Indore,2017-01-30,4000.0,3.3,28.0,clear
+1220,Arhar (Tur/Red Gram),Indore,2017-01-31,3835.0,12.3,28.4,clear
+1221,Bengal Gram(Gram),Gautampura,2017-01-31,10800.0,0.5,28.4,clear
+1222,Black Gram (Urd Beans),Indore,2017-01-31,4985.0,4.2,28.4,clear
+1223,Green Gram (Moong),Indore,2017-01-31,3500.0,1.0,28.4,clear
+1224,Arhar (Tur/Red Gram),Indore,2017-03-02,5000.0,11.8,33.2,clear
+1225,Arhar (Tur/Red Gram),Mhow,2017-03-02,3400.0,0.2,33.2,clear
+1226,Black Gram (Urd Beans),Indore,2017-03-02,4600.0,1.2,33.2,clear
+1227,Green Gram (Moong),Indore,2017-03-02,3560.0,0.2,33.2,clear
+1228,Arhar (Tur/Red Gram),Indore,2017-06-02,4120.0,5.6,38.6,clear
+1229,Arhar (Tur/Red Gram),Mhow,2017-06-02,2890.0,223.8,38.6,clear
+1230,Black Gram (Urd Beans),Indore,2017-06-02,5065.0,6.9,38.6,clear
+1231,Green Gram (Moong),Indore,2017-06-02,4365.0,0.6,38.6,clear
+1232,Arhar (Tur/Red Gram),Indore,2017-07-02,4020.0,8.4,27.6,clear
+1233,Bengal Gram(Gram),Sanwer,2017-07-02,4000.0,0.5,27.6,clear
+1234,Black Gram (Urd Beans),Indore,2017-07-02,3595.0,3.7,27.6,clear
+1235,Black Gram (Urd Beans),Mhow,2017-07-02,5000.0,1.0,27.6,clear
+1236,Green Gram (Moong),Indore,2017-07-02,3440.0,0.2,27.6,clear
+1237,Arhar (Tur/Red Gram),Indore,2017-08-02,3900.0,9.2,29.4,clear
+1238,Arhar (Tur/Red Gram),Mhow,2017-08-02,3401.0,0.1,29.4,clear
+1239,Black Gram (Urd Beans),Indore,2017-08-02,4270.0,7.5,29.4,clear
+1240,Green Gram (Moong),Indore,2017-08-02,3970.0,0.2,29.4,clear
+1241,Arhar (Tur/Red Gram),Indore,2017-10-02,3780.0,2.3,34.8,clear
+1242,Arhar (Tur/Red Gram),Mhow,2017-10-02,3391.0,0.2,34.8,clear
+1243,Black Gram (Urd Beans),Indore,2017-10-02,4490.0,2.2,34.8,clear
+1244,Green Gram (Moong),Indore,2017-10-02,4350.0,0.5,34.8,clear
+1245,Arhar (Tur/Red Gram),Indore,2017-11-02,3855.0,2.6,31.0,clear
+1246,Green Gram (Moong),Indore,2017-11-02,3850.0,0.8,31.0,clear
+1247,Arhar (Tur/Red Gram),Indore,2017-02-13,3700.0,13.2,27.8,clear
+1248,Arhar (Tur/Red Gram),Mhow,2017-02-13,3355.0,0.2,27.8,clear
+1249,Bengal Gram(Gram),Sanwer,2017-02-13,3700.0,1.5,27.8,clear
+1250,Black Gram (Urd Beans),Indore,2017-02-13,4780.0,11.7,27.8,clear
+1251,Green Gram (Moong),Indore,2017-02-13,4200.0,2.7,27.8,clear
+1252,Arhar (Tur/Red Gram),Indore,2017-02-14,4625.0,6.4,29.2,clear
+1253,Arhar (Tur/Red Gram),Mhow,2017-02-14,3246.0,1.4,29.2,clear
+1254,Bengal Gram(Gram),Sanwer,2017-02-14,4100.0,0.3,29.2,clear
+1255,Black Gram (Urd Beans),Indore,2017-02-14,4895.0,3.6,29.2,clear
+1256,Arhar (Tur/Red Gram),Indore,2017-02-15,4300.0,5.1,29.6,clear
+1257,Bengal Gram(Gram),Sanwer,2017-02-15,4361.0,0.5,29.6,clear
+1258,Black Gram (Urd Beans),Indore,2017-02-15,5125.0,6.4,29.6,clear
+1259,Green Gram (Moong),Indore,2017-02-15,4015.0,1.7,29.6,clear
+1260,Arhar (Tur/Red Gram),Indore,2017-02-16,3700.0,2.2,29.8,clear
+1261,Bengal Gram(Gram),Sanwer,2017-02-16,4450.0,0.8,29.8,clear
+1262,Black Gram (Urd Beans),Indore,2017-02-16,4900.0,9.9,29.8,clear
+1263,Green Gram (Moong),Indore,2017-02-16,4500.0,1.6,29.8,clear
+1264,Arhar (Tur/Red Gram),Indore,2017-02-17,4020.0,5.6,31.8,clear
+1265,Black Gram (Urd Beans),Indore,2017-02-17,4780.0,2.6,31.8,clear
+1266,Green Gram (Moong),Indore,2017-02-17,4155.0,0.2,31.8,clear
+1267,Arhar (Tur/Red Gram),Indore,2017-02-18,3225.0,0.0,31.6,clear
+1268,Arhar (Tur/Red Gram),Mhow,2017-02-18,3202.0,0.2,31.6,clear
+1269,Black Gram (Urd Beans),Indore,2017-02-18,4100.0,2.6,31.6,clear
+1270,Black Gram (Urd Beans),Mhow,2017-02-18,3968.0,1.0,31.6,clear
+1271,Green Gram (Moong),Indore,2017-02-18,4205.0,0.0,31.6,clear
+1272,Arhar (Tur/Red Gram),Indore,2017-02-20,3800.0,3.2,32.4,clear
+1273,Black Gram (Urd Beans),Indore,2017-02-20,4315.0,3.4,32.4,clear
+1274,Green Gram (Moong),Indore,2017-02-20,4165.0,1.5,32.4,clear
+1275,Arhar (Tur/Red Gram),Indore,2017-02-21,4110.0,6.6,29.0,clear
+1276,Black Gram (Urd Beans),Indore,2017-02-21,3790.0,3.2,29.0,clear
+1277,Arhar (Tur/Red Gram),Indore,2017-02-22,4165.0,2.0,30.0,clear
+1278,Bengal Gram(Gram),Sanwer,2017-02-22,4457.0,0.3,30.0,clear
+1279,Black Gram (Urd Beans),Indore,2017-02-22,4000.0,2.9,30.0,clear
+1280,Arhar (Tur/Red Gram),Indore,2017-02-23,3600.0,3.0,29.0,clear
+1281,Arhar (Tur/Red Gram),Mhow,2017-02-23,2770.0,0.3,29.0,clear
+1282,Bengal Gram(Gram),Sanwer,2017-02-23,4300.0,5.5,29.0,clear
+1283,Black Gram (Urd Beans),Indore,2017-02-23,4090.0,1.5,29.0,clear
+1284,Green Gram (Moong),Indore,2017-02-23,4200.0,3.2,29.0,clear
+1285,Arhar (Tur/Red Gram),Indore,2017-02-28,3899.0,3.0,33.6,clear
+1286,Bengal Gram(Gram),Gautampura,2017-02-28,4100.0,6.4,33.6,clear
+1287,Black Gram (Urd Beans),Indore,2017-02-28,4360.0,0.8,33.6,clear
+1288,Arhar (Tur/Red Gram),Indore,2017-01-03,3930.0,1.8,23.0,clear
+1289,Bengal Gram(Gram),Gautampura,2017-01-03,4300.0,6.4,23.0,clear
+1290,Bengal Gram(Gram),Sanwer,2017-01-03,6201.0,8.7,23.0,clear
+1291,Black Gram (Urd Beans),Indore,2017-01-03,4480.0,1.9,23.0,clear
+1292,Green Gram (Moong),Indore,2017-01-03,3310.0,0.2,23.0,clear
+1293,Arhar (Tur/Red Gram),Indore,2017-02-03,3680.0,3.5,31.4,clear
+1294,Bengal Gram(Gram),Gautampura,2017-02-03,4200.0,25.4,31.4,clear
+1295,Bengal Gram(Gram),Sanwer,2017-02-03,4300.0,3.1,31.4,clear
+1296,Black Gram (Urd Beans),Indore,2017-02-03,3800.0,0.6,31.4,clear
+1297,Green Gram (Moong),Indore,2017-02-03,4340.0,1.5,31.4,clear
+1298,Arhar (Tur/Red Gram),Indore,2017-03-03,4155.0,10.5,34.1,clear
+1299,Arhar (Tur/Red Gram),Mhow,2017-03-03,2875.0,0.2,34.1,clear
+1300,Bengal Gram(Gram),Gautampura,2017-03-03,4300.0,21.2,34.1,clear
+1301,Black Gram (Urd Beans),Indore,2017-03-03,4690.0,5.2,34.1,clear
+1302,Green Gram (Moong),Indore,2017-03-03,4400.0,1.3,34.1,clear
+1303,Arhar (Tur/Red Gram),Indore,2017-04-03,3780.0,2.0,38.0,clear
+1304,Arhar (Tur/Red Gram),Mhow,2017-04-03,3085.0,0.5,38.0,clear
+1305,Bengal Gram(Gram),Gautampura,2017-04-03,4600.0,21.2,38.0,clear
+1306,Black Gram (Urd Beans),Indore,2017-04-03,4560.0,1.6,38.0,clear
+1307,Green Gram (Moong),Indore,2017-04-03,4595.0,6.8,38.0,clear
+1308,Arhar (Tur/Red Gram),Indore,2017-06-03,4455.0,4.7,41.0,clear
+1309,Bengal Gram(Gram),Gautampura,2017-06-03,4445.0,6.0,41.0,clear
+1310,Bengal Gram(Gram),Sanwer,2017-06-03,4500.0,0.3,41.0,clear
+1311,Black Gram (Urd Beans),Indore,2017-06-03,4880.0,3.3,41.0,clear
+1312,Arhar (Tur/Red Gram),Indore,2017-07-03,4015.0,1.0,29.0,clear
+1313,Bengal Gram(Gram),Sanwer,2017-07-03,4300.0,0.6,29.0,clear
+1314,Black Gram (Urd Beans),Indore,2017-07-03,4565.0,2.5,29.0,clear
+1315,Arhar (Tur/Red Gram),Indore,2017-08-03,3830.0,3.0,27.0,clear
+1316,Bengal Gram(Gram),Gautampura,2017-08-03,4700.0,9.9,27.0,clear
+1317,Bengal Gram(Gram),Sanwer,2017-08-03,4590.0,0.5,27.0,clear
+1318,Arhar (Tur/Red Gram),Indore,2017-09-03,3405.0,0.7,28.4,clear
+1319,Bengal Gram(Gram),Gautampura,2017-09-03,4000.0,2.3,28.4,clear
+1320,Black Gram (Urd Beans),Indore,2017-09-03,2800.0,1.5,28.4,clear
+1321,Arhar (Tur/Red Gram),Indore,2017-10-03,4155.0,10.5,35.2,clear
+1322,Bengal Gram(Gram),Gautampura,2017-10-03,4602.0,0.4,35.2,clear
+1323,Bengal Gram(Gram),Sanwer,2017-10-03,4000.0,0.2,35.2,clear
+1324,Black Gram (Urd Beans),Indore,2017-10-03,4555.0,0.8,35.2,clear
+1325,Green Gram (Moong),Indore,2017-10-03,4395.0,3.6,35.2,clear
+1326,Arhar (Tur/Red Gram),Indore,2017-11-03,3700.0,2.6,31.0,clear
+1327,Arhar (Tur/Red Gram),Mhow,2017-11-03,3135.0,0.4,31.0,clear
+1328,Bengal Gram(Gram),Gautampura,2017-11-03,4221.0,0.8,31.0,clear
+1329,Black Gram (Urd Beans),Indore,2017-11-03,4500.0,1.2,31.0,clear
+1330,Green Gram (Moong),Indore,2017-11-03,3310.0,0.0,31.0,clear
+1331,Arhar (Tur/Red Gram),Indore,2017-03-14,3790.0,0.7,30.2,clear
+1332,Bengal Gram(Gram),Gautampura,2017-03-14,4500.0,9.1,30.2,clear
+1333,Black Gram (Urd Beans),Indore,2017-03-14,4500.0,0.6,30.2,clear
+1334,Green Gram (Moong),Indore,2017-03-14,4175.0,3.0,30.2,clear
+1335,Arhar (Tur/Red Gram),Indore,2017-03-15,3880.0,1.6,31.0,clear
+1336,Arhar (Tur/Red Gram),Mhow,2017-03-15,3101.0,0.1,31.0,clear
+1337,Bengal Gram(Gram),Gautampura,2017-03-15,4500.0,5.4,31.0,clear
+1338,Black Gram (Urd Beans),Indore,2017-03-15,5190.0,2.0,31.0,clear
+1339,Green Gram (Moong),Indore,2017-03-15,4830.0,0.7,31.0,clear
+1340,Arhar (Tur/Red Gram),Indore,2017-03-16,3805.0,4.5,34.0,clear
+1341,Arhar (Tur/Red Gram),Mhow,2017-03-16,3250.0,0.3,34.0,clear
+1342,Black Gram (Urd Beans),Indore,2017-03-16,4200.0,0.2,34.0,clear
+1343,Green Gram (Moong),Indore,2017-03-16,3950.0,2.7,34.0,clear
+1344,Arhar (Tur/Red Gram),Indore,2017-03-18,3390.0,0.2,32.6,clear
+1345,Black Gram (Urd Beans),Indore,2017-03-18,4950.0,3.0,32.6,clear
+1346,Arhar (Tur/Red Gram),Indore,2017-03-20,4000.0,8.9,31.2,clear
+1347,Arhar (Tur/Red Gram),Mhow,2017-03-20,3550.0,0.2,31.2,clear
+1348,Bengal Gram(Gram),Gautampura,2017-03-20,4700.0,13.9,31.2,clear
+1349,Black Gram (Urd Beans),Indore,2017-03-20,4590.0,0.5,31.2,clear
+1350,Arhar (Tur/Red Gram),Indore,2017-03-21,2000.0,3.7,33.6,clear
+1351,Arhar (Tur/Red Gram),Mhow,2017-03-21,3640.0,0.4,33.6,clear
+1352,Bengal Gram(Gram),Gautampura,2017-03-21,4900.0,11.8,33.6,clear
+1353,Green Gram (Moong),Indore,2017-03-21,5200.0,3.1,33.6,clear
+1354,Arhar (Tur/Red Gram),Indore,2017-03-22,3865.0,4.1,36.4,clear
+1355,Arhar (Tur/Red Gram),Mhow,2017-03-22,3651.0,0.3,36.4,clear
+1356,Bengal Gram(Gram),Gautampura,2017-03-22,4800.0,25.4,36.4,clear
+1357,Black Gram (Urd Beans),Indore,2017-03-22,5005.0,0.5,36.4,clear
+1358,Arhar (Tur/Red Gram),Indore,2017-03-23,3865.0,4.1,37.0,clear
+1359,Bengal Gram(Gram),Gautampura,2017-03-23,5000.0,21.5,37.0,clear
+1360,Black Gram (Urd Beans),Indore,2017-03-23,5005.0,0.5,37.0,clear
+1361,Arhar (Tur/Red Gram),Indore,2017-03-24,4100.0,11.7,37.0,clear
+1362,Bengal Gram(Gram),Gautampura,2017-03-24,5000.0,3.1,37.0,clear
+1363,Bengal Gram(Gram),Sanwer,2017-03-24,4650.0,0.2,37.0,clear
+1364,Black Gram (Urd Beans),Indore,2017-03-24,4400.0,4.2,37.0,clear
+1365,Green Gram (Moong),Indore,2017-03-24,5360.0,1.8,37.0,clear
+1366,Arhar (Tur/Red Gram),Indore,2017-03-25,4100.0,11.7,37.4,clear
+1367,Arhar (Tur/Red Gram),Mhow,2017-03-25,3335.0,0.2,37.4,clear
+1368,Bengal Gram(Gram),Gautampura,2017-03-25,5000.0,3.4,37.4,clear
+1369,Black Gram (Urd Beans),Indore,2017-03-25,4400.0,4.2,37.4,clear
+1370,Green Gram (Moong),Indore,2017-03-25,5360.0,1.8,37.4,clear
+1371,Arhar (Tur/Red Gram),Indore,2017-03-27,3925.0,1.0,38.6,clear
+1372,Bengal Gram(Gram),Gautampura,2017-03-27,5400.0,0.7,38.6,clear
+1373,Black Gram (Urd Beans),Indore,2017-03-27,5200.0,6.0,38.6,clear
+1374,Black Gram (Urd Beans),Mhow,2017-03-27,3501.0,8.0,38.6,clear
+1375,Green Gram (Moong),Indore,2017-03-27,4980.0,1.7,38.6,clear
+1376,Arhar (Tur/Red Gram),Indore,2017-03-30,3885.0,0.7,40.0,clear
+1377,Bengal Gram(Gram),Gautampura,2017-03-30,5100.0,5.0,40.0,clear
+1378,Black Gram (Urd Beans),Indore,2017-03-30,4060.0,1.4,40.0,clear
+1379,Arhar (Tur/Red Gram),Indore,2017-01-04,4250.0,1.5,25.6,clear
+1380,Arhar (Tur/Red Gram),Mhow,2017-01-04,3641.0,0.1,25.6,clear
+1381,Black Gram (Urd Beans),Indore,2017-01-04,5440.0,2.0,25.6,clear
+1382,Black Gram (Urd Beans),Mhow,2017-01-04,4900.0,5.0,25.6,clear
+1383,Green Gram (Moong),Indore,2017-01-04,4765.0,0.3,25.6,clear
+1384,Arhar (Tur/Red Gram),Indore,2017-03-04,4250.0,1.5,29.6,clear
+1385,Arhar (Tur/Red Gram),Mhow,2017-03-04,3655.0,1.1,29.6,clear
+1386,Arhar (Tur/Red Gram),Indore,2017-04-04,3870.0,0.6,37.2,clear
+1387,Arhar (Tur/Red Gram),Mhow,2017-04-04,3365.0,0.6,37.2,clear
+1388,Arhar (Tur/Red Gram),Indore,2017-06-04,3880.0,7.9,37.0,clear
+1389,Arhar (Tur/Red Gram),Mhow,2017-06-04,3200.0,0.1,37.0,clear
+1390,Green Gram (Moong),Indore,2017-06-04,5345.0,3.2,37.0,clear
+1391,Arhar (Tur/Red Gram),Indore,2017-07-04,3800.0,3.2,28.4,clear
+1392,Arhar (Tur/Red Gram),Mhow,2017-07-04,3301.0,0.3,28.4,clear
+1393,Green Gram (Moong),Indore,2017-07-04,4900.0,10.0,28.4,clear
+1394,Arhar (Tur/Red Gram),Indore,2017-10-04,3690.0,1.0,35.0,clear
+1395,Bengal Gram(Gram),Gautampura,2017-10-04,5000.0,2.6,35.0,clear
+1396,Black Gram (Urd Beans),Indore,2017-10-04,4470.0,2.8,35.0,clear
+1397,Green Gram (Moong),Indore,2017-10-04,4950.0,6.3,35.0,clear
+1398,Arhar (Tur/Red Gram),Indore,2017-12-04,1326.0,1.0,26.0,clear
+1399,Arhar (Tur/Red Gram),Mhow,2017-12-04,3100.0,0.1,26.0,clear
+1400,Bengal Gram(Gram),Gautampura,2017-12-04,5400.0,4.0,26.0,clear
+1401,Black Gram (Urd Beans),Indore,2017-12-04,4000.0,5.4,26.0,clear
+1402,Green Gram (Moong),Indore,2017-12-04,4500.0,14.5,26.0,clear
+1403,Arhar (Tur/Red Gram),Indore,2017-04-13,3755.0,2.1,40.6,clear
+1404,Bengal Gram(Gram),Gautampura,2017-04-13,5500.0,6.2,40.6,clear
+1405,Green Gram (Moong),Indore,2017-04-13,4200.0,11.6,40.6,clear
+1406,Arhar (Tur/Red Gram),Indore,2017-04-15,3000.0,5.0,41.0,clear
+1407,Bengal Gram(Gram),Gautampura,2017-04-15,6000.0,1.0,41.0,clear
+1408,Black Gram (Urd Beans),Indore,2017-04-15,5455.0,1.8,41.0,clear
+1409,Black Gram (Urd Beans),Mhow,2017-04-15,3001.0,1.0,41.0,clear
+1410,Green Gram (Moong),Indore,2017-04-15,4890.0,16.7,41.0,clear
+1411,Arhar (Tur/Red Gram),Indore,2017-04-17,3600.0,6.7,41.0,clear
+1412,Bengal Gram(Gram),Gautampura,2017-04-17,6500.0,6.8,41.0,clear
+1413,Black Gram (Urd Beans),Indore,2017-04-17,3000.0,0.1,41.0,clear
+1414,Green Gram (Moong),Indore,2017-04-17,4865.0,5.4,41.0,clear
+1415,Arhar (Tur/Red Gram),Indore,2017-04-18,3500.0,1.0,41.0,clear
+1416,Bengal Gram(Gram),Gautampura,2017-04-18,5000.0,2.0,41.0,clear
+1417,Black Gram (Urd Beans),Indore,2017-04-18,4000.0,1.2,41.0,clear
+1418,Green Gram (Moong),Indore,2017-04-18,4000.0,5.2,41.0,clear
+1419,Arhar (Tur/Red Gram),Indore,2017-04-19,3510.0,1.2,40.0,clear
+1420,Bengal Gram(Gram),Gautampura,2017-04-19,5500.0,14.2,40.0,clear
+1421,Black Gram (Urd Beans),Indore,2017-04-19,4000.0,1.4,40.0,clear
+1422,Green Gram (Moong),Indore,2017-04-19,4715.0,6.0,40.0,clear
+1423,Arhar (Tur/Red Gram),Indore,2017-04-20,3560.0,0.6,39.8,clear
+1424,Bengal Gram(Gram),Sanwer,2017-04-20,5200.0,0.5,39.8,clear
+1425,Black Gram (Urd Beans),Indore,2017-04-20,4000.0,0.0,39.8,clear
+1426,Arhar (Tur/Red Gram),Indore,2017-04-21,3530.0,3.4,39.6,clear
+1427,Bengal Gram(Gram),Gautampura,2017-04-21,5300.0,4.2,39.6,clear
+1428,Black Gram (Urd Beans),Indore,2017-04-21,4945.0,1.2,39.6,clear
+1429,Green Gram (Moong),Indore,2017-04-21,4525.0,7.6,39.6,clear
+1430,Arhar (Tur/Red Gram),Indore,2017-04-22,3360.0,2.0,37.2,clear
+1431,Bengal Gram(Gram),Gautampura,2017-04-22,5000.0,1.0,37.2,clear
+1432,Bengal Gram(Gram),Sanwer,2017-04-22,4400.0,0.4,37.2,clear
+1433,Black Gram (Urd Beans),Indore,2017-04-22,4675.0,1.1,37.2,clear
+1434,Green Gram (Moong),Indore,2017-04-22,4551.0,1.3,37.2,clear
+1435,Arhar (Tur/Red Gram),Indore,2017-04-24,3435.0,1.6,35.4,clear
+1436,Bengal Gram(Gram),Gautampura,2017-04-24,6000.0,1.7,35.4,clear
+1437,Bengal Gram(Gram),Sanwer,2017-04-24,5411.0,0.5,35.4,clear
+1438,Green Gram (Moong),Indore,2017-04-24,4380.0,5.2,35.4,clear
+1439,Arhar (Tur/Red Gram),Indore,2017-02-05,4700.0,3.1,26.8,clear
+1440,Bengal Gram(Gram),Gautampura,2017-02-05,5100.0,0.6,26.8,clear
+1441,Arhar (Tur/Red Gram),Indore,2017-03-05,3190.0,0.4,29.2,clear
+1442,Bengal Gram(Gram),Gautampura,2017-03-05,6000.0,1.0,29.2,clear
+1443,Black Gram (Urd Beans),Indore,2017-03-05,4710.0,1.0,29.2,clear
+1444,Black Gram (Urd Beans),Mhow,2017-03-05,4451.0,1.0,29.2,clear
+1445,Arhar (Tur/Red Gram),Indore,2017-04-05,3255.0,1.9,36.6,clear
+1446,Bengal Gram(Gram),Gautampura,2017-04-05,5000.0,3.7,36.6,clear
+1447,Black Gram (Urd Beans),Indore,2017-04-05,4540.0,1.8,36.6,clear
+1448,Green Gram (Moong),Indore,2017-04-05,4000.0,7.6,36.6,clear
+1449,Arhar (Tur/Red Gram),Indore,2017-05-05,3395.0,3.1,41.0,clear
+1450,Bengal Gram(Gram),Gautampura,2017-05-05,5000.0,1.0,41.0,clear
+1451,Black Gram (Urd Beans),Indore,2017-05-05,3365.0,0.1,41.0,clear
+1452,Green Gram (Moong),Indore,2017-05-05,3300.0,0.2,41.0,clear
+1453,Arhar (Tur/Red Gram),Indore,2017-06-05,3400.0,1.3,38.2,clear
+1454,Green Gram (Moong),Indore,2017-06-05,4475.0,0.8,38.2,clear
+1455,Arhar (Tur/Red Gram),Indore,2017-08-05,3405.0,5.5,30.2,clear
+1456,Black Gram (Urd Beans),Indore,2017-08-05,5040.0,6.8,30.2,clear
+1457,Green Gram (Moong),Indore,2017-08-05,2725.0,1.0,30.2,clear
+1458,Arhar (Tur/Red Gram),Indore,2017-09-05,3570.0,2.4,30.0,clear
+1459,Bengal Gram(Gram),Gautampura,2017-09-05,5000.0,2.0,30.0,clear
+1460,Arhar (Tur/Red Gram),Indore,2017-10-05,3550.0,5.4,33.8,clear
+1461,Bengal Gram(Gram),Gautampura,2017-10-05,5100.0,5.1,33.8,clear
+1462,Green Gram (Moong),Indore,2017-10-05,3350.0,2.0,33.8,clear
+1463,Arhar (Tur/Red Gram),Indore,2017-11-05,3625.0,9.0,29.4,clear
+1464,Bengal Gram(Gram),Gautampura,2017-11-05,5400.0,24.0,29.4,clear
+1465,Black Gram (Urd Beans),Indore,2017-11-05,4920.0,8.8,29.4,clear
+1466,Green Gram (Moong),Indore,2017-11-05,3800.0,2.5,29.4,clear
+1467,Arhar (Tur/Red Gram),Indore,2017-12-05,3645.0,3.2,22.0,clear
+1468,Bengal Gram(Gram),Gautampura,2017-12-05,5500.0,4.1,22.0,clear
+1469,Black Gram (Urd Beans),Indore,2017-12-05,4755.0,6.1,22.0,clear
+1470,Green Gram (Moong),Indore,2017-12-05,4550.0,16.2,22.0,clear
+1471,Arhar (Tur/Red Gram),Indore,2017-05-13,3670.0,4.6,41.4,clear
+1472,Arhar (Tur/Red Gram),Indore,2017-05-15,3740.0,11.1,40.0,clear
+1473,Arhar (Tur/Red Gram),Mhow,2017-05-15,2890.0,0.5,40.0,clear
+1474,Bengal Gram(Gram),Gautampura,2017-05-15,5500.0,3.4,40.0,clear
+1475,Black Gram (Urd Beans),Indore,2017-05-15,5650.0,10.9,40.0,clear
+1476,Green Gram (Moong),Indore,2017-05-15,4865.0,11.9,40.0,clear
+1477,Arhar (Tur/Red Gram),Indore,2017-05-16,3605.0,9.1,39.6,clear
+1478,Black Gram (Urd Beans),Indore,2017-05-16,5700.0,3.1,39.6,clear
+1479,Green Gram (Moong),Indore,2017-05-16,4795.0,3.5,39.6,clear
+1480,Arhar (Tur/Red Gram),Indore,2017-05-17,4855.0,16.1,39.8,clear
+1481,Bengal Gram(Gram),Gautampura,2017-05-17,5100.0,18.4,39.8,clear
+1482,Black Gram (Urd Beans),Indore,2017-05-17,5000.0,7.5,39.8,clear
+1483,Green Gram (Moong),Indore,2017-05-17,4855.0,15.5,39.8,clear
+1484,Arhar (Tur/Red Gram),Indore,2017-05-19,2000.0,6.6,40.6,clear
+1485,Green Gram (Moong),Indore,2017-05-19,4295.0,6.6,40.6,clear
+1486,Arhar (Tur/Red Gram),Indore,2017-05-20,3320.0,5.4,40.0,clear
+1487,Bengal Gram(Gram),Gautampura,2017-05-20,5000.0,3.7,40.0,clear
+1488,Black Gram (Urd Beans),Indore,2017-05-20,4275.0,1.9,40.0,clear
+1489,Green Gram (Moong),Indore,2017-05-20,4290.0,3.6,40.0,clear
+1490,Arhar (Tur/Red Gram),Indore,2017-05-22,3275.0,5.9,39.0,clear
+1491,Bengal Gram(Gram),Sanwer,2017-05-22,6500.0,0.1,39.0,clear
+1492,Black Gram (Urd Beans),Indore,2017-05-22,4455.0,13.2,39.0,clear
+1493,Green Gram (Moong),Indore,2017-05-22,4175.0,12.0,39.0,clear
+1494,Arhar (Tur/Red Gram),Indore,2017-05-23,5230.0,5.8,39.0,clear
+1495,Bengal Gram(Gram),Gautampura,2017-05-23,4500.0,5.2,39.0,clear
+1496,Bengal Gram(Gram),Sanwer,2017-05-23,4400.0,3.0,39.0,clear
+1497,Green Gram (Moong),Indore,2017-05-23,4175.0,18.7,39.0,clear
+1498,Arhar (Tur/Red Gram),Indore,2017-05-26,3550.0,6.3,41.0,clear
+1499,Bengal Gram(Gram),Gautampura,2017-05-26,5000.0,8.8,41.0,clear
+1500,Black Gram (Urd Beans),Indore,2017-05-26,3500.0,14.5,41.0,clear
+1501,Green Gram (Moong),Indore,2017-05-26,4175.0,26.1,41.0,clear
+1502,Arhar (Tur/Red Gram),Indore,2017-06-21,3310.0,2.8,34.6,clear
+1503,Arhar (Tur/Red Gram),Mhow,2017-06-21,2230.0,0.2,34.6,clear
+1504,Bengal Gram(Gram),Gautampura,2017-06-21,5000.0,2.4,34.6,clear
+1505,Bengal Gram(Gram),Indore,2017-06-21,4970.0,87.4,34.6,clear
+1506,Black Gram (Urd Beans),Indore,2017-06-21,4500.0,3.1,34.6,clear
+1507,Green Gram (Moong),Indore,2017-06-21,4400.0,12.1,34.6,clear
+1508,Arhar (Tur/Red Gram),Indore,2017-06-22,2800.0,4.3,30.4,clear
+1509,Bengal Gram(Gram),Gautampura,2017-06-22,4100.0,4.2,30.4,clear
+1510,Bengal Gram(Gram),Indore,2017-06-22,4800.0,78.8,30.4,clear
+1511,Black Gram (Urd Beans),Indore,2017-06-22,2800.0,4.5,30.4,clear
+1512,Green Gram (Moong),Indore,2017-06-22,4150.0,8.5,30.4,clear
+1513,Arhar (Tur/Red Gram),Indore,2017-06-27,3450.0,7.5,31.0,clear
+1514,Bengal Gram(Gram),Gautampura,2017-06-27,4150.0,3.0,31.0,clear
+1515,Bengal Gram(Gram),Indore,2017-06-27,4850.0,37.4,31.0,clear
+1516,Green Gram (Moong),Indore,2017-06-27,4590.0,3.9,31.0,clear
+1517,Arhar (Tur/Red Gram),Indore,2017-06-29,3350.0,3.6,33.0,clear
+1518,Bengal Gram(Gram),Indore,2017-06-29,4780.0,89.5,33.0,clear
+1519,Arhar (Tur/Red Gram),Indore,2017-07-07,3525.0,5.7,32.2,clear
+1520,Bengal Gram(Gram),Indore,2017-07-07,5285.0,63.2,32.2,clear
+1521,Black Gram (Urd Beans),Indore,2017-07-07,3850.0,5.3,32.2,clear
+1522,Green Gram (Moong),Indore,2017-07-07,4445.0,0.0,32.2,clear
+1523,Arhar (Tur/Red Gram),Indore,2017-08-07,3400.0,5.8,28.4,clear
+1524,Bengal Gram(Gram),Indore,2017-08-07,4890.0,62.5,28.4,clear
+1525,Black Gram (Urd Beans),Indore,2017-08-07,3630.0,1.3,28.4,clear
+1526,Arhar (Tur/Red Gram),Indore,2017-11-07,3475.0,0.0,30.0,clear
+1527,Bengal Gram(Gram),Gautampura,2017-11-07,4955.0,1.6,30.0,clear
+1528,Bengal Gram(Gram),Indore,2017-11-07,5270.0,42.6,30.0,clear
+1529,Black Gram (Urd Beans),Indore,2017-11-07,2650.0,0.0,30.0,clear
+1530,Green Gram (Moong),Indore,2017-11-07,4280.0,1.2,30.0,clear
+1531,Arhar (Tur/Red Gram),Indore,2017-12-07,3500.0,1.5,22.4,clear
+1532,Arhar (Tur/Red Gram),Mhow,2017-12-07,2310.0,0.2,22.4,clear
+1533,Bengal Gram(Gram),Indore,2017-12-07,5005.0,42.2,22.4,clear
+1534,Green Gram (Moong),Indore,2017-12-07,4100.0,3.6,22.4,clear
+1535,Arhar (Tur/Red Gram),Indore,2017-07-15,3300.0,5.2,27.8,clear
+1536,Bengal Gram(Gram),Gautampura,2017-07-15,5000.0,3.6,27.8,clear
+1537,Bengal Gram(Gram),Indore,2017-07-15,4860.0,14.3,27.8,clear
+1538,Bengal Gram(Gram),Sanwer,2017-07-15,4700.0,0.2,27.8,clear
+1539,Black Gram (Urd Beans),Indore,2017-07-15,3000.0,1.0,27.8,clear
+1540,Green Gram (Moong),Indore,2017-07-15,4000.0,1.7,27.8,clear
+1541,Arhar (Tur/Red Gram),Indore,2017-07-17,3300.0,4.3,27.2,clear
+1542,Arhar (Tur/Red Gram),Mhow,2017-07-17,1975.0,0.1,27.2,clear
+1543,Bengal Gram(Gram),Indore,2017-07-17,5800.0,45.5,27.2,clear
+1544,Black Gram (Urd Beans),Indore,2017-07-17,3395.0,2.3,27.2,clear
+1545,Arhar (Tur/Red Gram),Indore,2017-07-18,2592.5,348.6,30.4,clear
+1546,Bengal Gram(Gram),Gautampura,2017-07-18,4600.0,2.3,30.4,clear
+1547,Bengal Gram(Gram),Indore,2017-07-18,5265.0,18.6,30.4,clear
+1548,Black Gram (Urd Beans),Gautampura,2017-07-18,2600.0,0.1,30.4,clear
+1549,Black Gram (Urd Beans),Mhow,2017-07-18,3265.0,2.0,30.4,clear
+1550,Arhar (Tur/Red Gram),Indore,2017-07-20,3230.0,2.4,30.4,rain
+1551,Bengal Gram(Gram),Gautampura,2017-07-20,4800.0,3.9,30.4,rain
+1552,Bengal Gram(Gram),Indore,2017-07-20,5330.0,46.0,30.4,rain
+1553,Black Gram (Urd Beans),Indore,2017-07-20,2800.0,0.0,30.4,rain
+1554,Arhar (Tur/Red Gram),Indore,2017-07-27,2850.0,1.7,24.8,rain
+1555,Arhar (Tur/Red Gram),Mhow,2017-07-27,1700.0,0.2,24.8,rain
+1556,Bengal Gram(Gram),Indore,2017-07-27,4560.0,4.5,24.8,rain
+1557,Arhar (Tur/Red Gram),Indore,2017-07-29,2855.0,0.0,28.2,clear
+1558,Bengal Gram(Gram),Indore,2017-07-29,4500.0,27.0,28.2,clear
+1559,Black Gram (Urd Beans),Indore,2017-07-29,2605.0,0.0,28.2,clear
+1560,Arhar (Tur/Red Gram),Indore,2017-07-31,2705.0,3.5,28.0,clear
+1561,Bengal Gram(Gram),Gautampura,2017-07-31,3000.0,0.7,28.0,clear
+1562,Bengal Gram(Gram),Indore,2017-07-31,5100.0,16.3,28.0,clear
+1563,Black Gram (Urd Beans),Indore,2017-07-31,1565.0,1.0,28.0,clear
+1564,Arhar (Tur/Red Gram),Indore,2017-01-08,3052.5,1.6,24.4,clear
+1565,Arhar (Tur/Red Gram),Mhow,2017-01-08,2690.0,0.2,24.4,clear
+1566,Bengal Gram(Gram),Gautampura,2017-01-08,4000.0,2.0,24.4,clear
+1567,Black Gram (Urd Beans),Indore,2017-01-08,2820.0,2.0,24.4,clear
+1568,Arhar (Tur/Red Gram),Indore,2017-03-08,2695.0,1.0,31.6,clear
+1569,Arhar (Tur/Red Gram),Indore,2017-04-08,4330.0,1.2,35.0,clear
+1570,Bengal Gram(Gram),Gautampura,2017-04-08,4200.0,0.7,35.0,clear
+1571,Arhar (Tur/Red Gram),Indore,2017-05-08,3680.0,3.1,40.4,clear
+1572,Arhar (Tur/Red Gram),Mhow,2017-05-08,2341.0,0.2,40.4,clear
+1573,Black Gram (Urd Beans),Indore,2017-05-08,3680.0,8.0,40.4,clear
+1574,Arhar (Tur/Red Gram),Indore,2017-08-08,3470.0,4.0,28.0,clear
+1575,Bengal Gram(Gram),Gautampura,2017-08-08,4545.0,0.5,28.0,clear
+1576,Arhar (Tur/Red Gram),Indore,2017-09-08,3500.0,1.4,31.8,rain
+1577,Bengal Gram(Gram),Gautampura,2017-09-08,4900.0,6.6,31.8,rain
+1578,Black Gram (Urd Beans),Indore,2017-09-08,4155.0,2.5,31.8,rain
+1579,Arhar (Tur/Red Gram),Indore,2017-10-08,3270.0,2.9,34.4,clear
+1580,Black Gram (Urd Beans),Indore,2017-10-08,2580.0,0.0,34.4,clear
+1581,Arhar (Tur/Red Gram),Indore,2017-11-08,3500.0,1.9,29.4,clear
+1582,Bengal Gram(Gram),Gautampura,2017-11-08,4650.0,6.5,29.4,clear
+1583,Black Gram (Urd Beans),Indore,2017-11-08,3705.0,2.1,29.4,clear
+1584,Green Gram (Moong),Mhow,2017-11-08,2501.0,1.0,29.4,clear
+1585,Arhar (Tur/Red Gram),Indore,2017-12-08,4000.0,1.2,25.2,clear
+1586,Arhar (Tur/Red Gram),Mhow,2017-12-08,2820.0,0.3,25.2,clear
+1587,Black Gram (Urd Beans),Indore,2017-12-08,3805.0,0.4,25.2,clear
+1588,Black Gram (Urd Beans),Mhow,2017-12-08,2571.0,2.0,25.2,clear
+1589,Arhar (Tur/Red Gram),Indore,2017-08-14,3955.0,4.0,30.2,clear
+1590,Black Gram (Urd Beans),Indore,2017-08-14,3255.0,1.2,30.2,clear
+1591,Arhar (Tur/Red Gram),Indore,2017-08-16,4170.0,3.2,30.2,clear
+1592,Black Gram (Urd Beans),Indore,2017-08-16,3500.0,0.0,30.2,clear
+1593,Arhar (Tur/Red Gram),Indore,2017-08-17,3720.0,4.2,29.4,clear
+1594,Bengal Gram(Gram),Gautampura,2017-08-17,5550.0,8.8,29.4,clear
+1595,Black Gram (Urd Beans),Indore,2017-08-17,3200.0,0.0,29.4,clear
+1596,Arhar (Tur/Red Gram),Indore,2017-08-18,4000.0,12.2,30.0,clear
+1597,Arhar (Tur/Red Gram),Mhow,2017-08-18,3600.0,0.1,30.0,clear
+1598,Black Gram (Urd Beans),Indore,2017-08-18,4145.0,4.8,30.0,clear
+1599,Arhar (Tur/Red Gram),Indore,2017-08-19,3680.0,1.4,27.6,clear
+1600,Black Gram (Urd Beans),Indore,2017-08-19,2870.0,3.0,27.6,clear
+1601,Arhar (Tur/Red Gram),Indore,2017-08-22,4275.0,3.1,28.0,clear
+1602,Black Gram (Urd Beans),Indore,2017-08-22,4250.0,3.1,28.0,clear
+1603,Black Gram (Urd Beans),Mhow,2017-08-22,2776.0,2.0,28.0,clear
+1604,Arhar (Tur/Red Gram),Indore,2017-08-23,3765.0,4.8,27.4,clear
+1605,Black Gram (Urd Beans),Indore,2017-08-23,4185.0,5.8,27.4,clear
+1606,Black Gram (Urd Beans),Mhow,2017-08-23,2776.0,0.0,27.4,clear
+1607,Arhar (Tur/Red Gram),Indore,2017-08-24,3945.0,2.9,28.4,clear
+1608,Arhar (Tur/Red Gram),Indore,2017-08-28,3840.0,1.4,29.6,clear
+1609,Bengal Gram(Gram),Gautampura,2017-08-28,5500.0,4.3,29.6,clear
+1610,Black Gram (Urd Beans),Indore,2017-08-28,4585.0,5.2,29.6,clear
+1611,Arhar (Tur/Red Gram),Indore,2017-08-29,4735.0,6.5,26.4,clear
+1612,Black Gram (Urd Beans),Indore,2017-08-29,4255.0,4.8,26.4,clear
+1613,Arhar (Tur/Red Gram),Indore,2017-08-30,3970.0,3.0,28.0,clear
+1614,Black Gram (Urd Beans),Indore,2017-08-30,3965.0,0.7,28.0,clear
+1615,Arhar (Tur/Red Gram),Indore,2017-08-31,3800.0,1.4,29.8,clear
+1616,Black Gram (Urd Beans),Indore,2017-08-31,3180.0,1.3,29.8,clear
+1617,Arhar (Tur/Red Gram),Indore,2017-02-09,3800.0,0.5,25.4,clear
+1618,Black Gram (Urd Beans),Indore,2017-02-09,3695.0,1.1,25.4,clear
+1619,Arhar (Tur/Red Gram),Indore,2017-04-09,5710.0,0.3,36.2,clear
+1620,Bengal Gram(Gram),Gautampura,2017-04-09,5175.0,4.5,36.2,clear
+1621,Black Gram (Urd Beans),Indore,2017-04-09,3450.0,2.1,36.2,clear
+1622,Arhar (Tur/Red Gram),Indore,2017-06-09,3785.0,2.3,32.6,clear
+1623,Bengal Gram(Gram),Gautampura,2017-06-09,5500.0,2.2,32.6,clear
+1624,Black Gram (Urd Beans),Indore,2017-06-09,2770.0,2.0,32.6,clear
+1625,Arhar (Tur/Red Gram),Indore,2017-07-09,3785.0,1.7,32.6,clear
+1626,Bengal Gram(Gram),Gautampura,2017-07-09,5700.0,17.7,32.6,clear
+1627,Black Gram (Urd Beans),Indore,2017-07-09,4255.0,3.6,32.6,clear
+1628,Black Gram (Urd Beans),Mhow,2017-07-09,2525.0,2.0,32.6,clear
+1629,Arhar (Tur/Red Gram),Indore,2017-08-09,3000.0,3.4,29.4,clear
+1630,Arhar (Tur/Red Gram),Mhow,2017-08-09,3150.0,0.3,29.4,clear
+1631,Bengal Gram(Gram),Gautampura,2017-08-09,5819.0,5.0,29.4,clear
+1632,Black Gram (Urd Beans),Indore,2017-08-09,3651.0,3.5,29.4,clear
+1633,Arhar (Tur/Red Gram),Indore,2017-09-09,3680.0,2.4,30.8,clear
+1634,Arhar (Tur/Red Gram),Mhow,2017-09-09,3001.0,0.2,30.8,clear
+1635,Black Gram (Urd Beans),Indore,2017-09-09,3285.0,4.1,30.8,clear
+1636,Arhar (Tur/Red Gram),Indore,2017-11-09,3600.0,2.4,29.2,clear
+1637,Bengal Gram(Gram),Gautampura,2017-11-09,5800.0,6.5,29.2,clear
+1638,Black Gram (Urd Beans),Indore,2017-11-09,3600.0,2.0,29.2,clear
+1639,Arhar (Tur/Red Gram),Indore,2017-12-09,3600.0,0.7,26.8,clear
+1640,Black Gram (Urd Beans),Indore,2017-12-09,1985.0,0.3,26.8,clear
+1641,Arhar (Tur/Red Gram),Indore,2017-09-13,3600.0,3.3,28.6,clear
+1642,Bengal Gram(Gram),Gautampura,2017-09-13,5000.0,2.7,28.6,clear
+1643,Black Gram (Urd Beans),Indore,2017-09-13,2780.0,1.2,28.6,clear
+1644,Arhar (Tur/Red Gram),Indore,2017-09-14,3600.0,1.4,30.2,clear
+1645,Bengal Gram(Gram),Gautampura,2017-09-14,5100.0,2.2,30.2,clear
+1646,Black Gram (Urd Beans),Indore,2017-09-14,3700.0,4.1,30.2,clear
+1647,Arhar (Tur/Red Gram),Indore,2017-09-15,3585.0,0.3,27.4,clear
+1648,Bengal Gram(Gram),Gautampura,2017-09-15,5550.0,10.9,27.4,clear
+1649,Black Gram (Urd Beans),Indore,2017-09-15,4000.0,2.2,27.4,clear
+1650,Arhar (Tur/Red Gram),Indore,2017-09-16,3615.0,0.1,27.0,clear
+1651,Black Gram (Urd Beans),Indore,2017-09-16,2650.0,0.1,27.0,clear
+1652,Arhar (Tur/Red Gram),Indore,2017-09-18,3810.0,5.8,28.4,clear
+1653,Black Gram (Urd Beans),Indore,2017-09-18,4305.0,3.9,28.4,clear
+1654,Arhar (Tur/Red Gram),Indore,2017-09-19,3500.0,3.3,32.4,clear
+1655,Arhar (Tur/Red Gram),Indore,2017-09-22,3500.0,7.4,26.4,clear
+1656,Bengal Gram(Gram),Gautampura,2017-09-22,5515.0,1.8,26.4,clear
+1657,Black Gram (Urd Beans),Indore,2017-09-22,3310.0,3.3,26.4,clear
+1658,Arhar (Tur/Red Gram),Indore,2017-09-23,3400.0,2.8,29.8,clear
+1659,Bengal Gram(Gram),Gautampura,2017-09-23,4800.0,4.0,29.8,clear
+1660,Black Gram (Urd Beans),Indore,2017-09-23,2960.0,1.0,29.8,clear
+1661,Arhar (Tur/Red Gram),Indore,2017-09-25,3690.0,0.9,31.6,clear
+1662,Bengal Gram(Gram),Gautampura,2017-09-25,5100.0,12.0,31.6,clear
+1663,Black Gram (Urd Beans),Indore,2017-09-25,4021.0,1.8,31.6,clear
+1664,Arhar (Tur/Red Gram),Indore,2017-09-26,2840.0,0.2,32.6,clear
+1665,Black Gram (Urd Beans),Indore,2017-09-26,3800.0,4.3,32.6,clear
+1666,Arhar (Tur/Red Gram),Indore,2017-09-27,3500.0,1.1,33.0,clear
+1667,Black Gram (Urd Beans),Indore,2017-09-27,3640.0,1.9,33.0,clear
+1668,Arhar (Tur/Red Gram),Indore,2017-09-28,3470.0,0.5,33.6,clear
+1669,Arhar (Tur/Red Gram),Indore,2017-09-29,3250.0,0.2,33.4,clear
+1670,Arhar (Tur/Red Gram),Indore,2017-04-10,3635.0,3.2,35.6,clear
+1671,Arhar (Tur/Red Gram),Indore,2017-05-10,3650.0,4.8,39.4,clear
+1672,Black Gram (Urd Beans),Indore,2017-05-10,2300.0,3.7,39.4,clear
+1673,Arhar (Tur/Red Gram),Indore,2017-09-10,3780.0,0.0,31.6,clear
+1674,Bengal Gram(Gram),Gautampura,2017-09-10,5200.0,1.5,31.6,clear
+1675,Bengal Gram(Gram),Sanwer,2017-09-10,5201.0,0.5,31.6,clear
+1676,Black Gram (Urd Beans),Indore,2017-09-10,2600.0,2.9,31.6,clear
+1677,Arhar (Tur/Red Gram),Indore,2017-10-10,3300.0,2.7,30.0,clear
+1678,Black Gram (Urd Beans),Indore,2017-10-10,2780.0,1.6,30.0,clear
+1679,Arhar (Tur/Red Gram),Indore,2017-11-10,2800.0,2.7,28.8,clear
+1680,Black Gram (Urd Beans),Indore,2017-11-10,1160.0,0.1,28.8,clear
+1681,Arhar (Tur/Red Gram),Indore,2017-12-10,3390.0,4.8,27.0,clear
+1682,Black Gram (Urd Beans),Indore,2017-12-10,1000.0,0.4,27.0,clear
+1683,Arhar (Tur/Red Gram),Indore,2017-10-13,3060.0,0.3,31.4,clear
+1684,Arhar (Tur/Red Gram),Mhow,2017-10-13,2445.0,0.2,31.4,clear
+1685,Black Gram (Urd Beans),Indore,2017-10-13,2340.0,0.9,31.4,clear
+1686,Arhar (Tur/Red Gram),Indore,2017-10-14,2400.0,0.1,33.6,clear
+1687,Arhar (Tur/Red Gram),Mhow,2017-10-14,2300.0,0.1,33.6,clear
+1688,Black Gram (Urd Beans),Indore,2017-10-14,3540.0,0.8,33.6,clear
+1689,Arhar (Tur/Red Gram),Indore,2017-10-16,2800.0,912.7,34.4,clear
+1690,Arhar (Tur/Red Gram),Indore,2017-10-17,3360.0,2.7,35.2,clear
+1691,Bengal Gram(Gram),Gautampura,2017-10-17,4700.0,4.2,35.2,clear
+1692,Black Gram (Urd Beans),Indore,2017-10-17,2655.0,2.1,35.2,clear
+1693,Arhar (Tur/Red Gram),Indore,2017-10-23,3205.0,0.1,32.2,clear
+1694,Bengal Gram(Gram),Gautampura,2017-10-23,4400.0,11.9,32.2,clear
+1695,Black Gram (Urd Beans),Indore,2017-10-23,2200.0,4.7,32.2,clear
+1696,Arhar (Tur/Red Gram),Indore,2017-10-24,3390.0,0.6,32.2,clear
+1697,Arhar (Tur/Red Gram),Mhow,2017-10-24,1935.0,0.5,32.2,clear
+1698,Black Gram (Urd Beans),Indore,2017-10-24,3185.0,6.9,32.2,clear
+1699,Arhar (Tur/Red Gram),Indore,2017-10-25,3300.0,0.2,32.4,clear
+1700,Bengal Gram(Gram),Gautampura,2017-10-25,4500.0,24.3,32.4,clear
+1701,Black Gram (Urd Beans),Indore,2017-10-25,2325.0,3.0,32.4,clear
+1702,Arhar (Tur/Red Gram),Indore,2017-10-26,3440.0,3.0,33.0,clear
+1703,Arhar (Tur/Red Gram),Mhow,2017-10-26,2400.0,0.4,33.0,clear
+1704,Bengal Gram(Gram),Gautampura,2017-10-26,4500.0,0.5,33.0,clear
+1705,Black Gram (Urd Beans),Indore,2017-10-26,2900.0,4.3,33.0,clear
+1706,Arhar (Tur/Red Gram),Indore,2017-10-27,3385.0,1.6,32.6,clear
+1707,Bengal Gram(Gram),Gautampura,2017-10-27,4500.0,2.7,32.6,clear
+1708,Black Gram (Urd Beans),Indore,2017-10-27,2810.0,8.7,32.6,clear
+1709,Arhar (Tur/Red Gram),Indore,2017-10-28,2800.0,1.9,32.4,clear
+1710,Black Gram (Urd Beans),Indore,2017-10-28,1000.0,3.3,32.4,clear
+1711,Arhar (Tur/Red Gram),Indore,2017-10-30,3200.0,1.4,31.8,clear
+1712,Arhar (Tur/Red Gram),Mhow,2017-10-30,1855.0,0.6,31.8,clear
+1713,Black Gram (Urd Beans),Indore,2017-10-30,2500.0,4.7,31.8,clear
+1714,Arhar (Tur/Red Gram),Indore,2017-10-31,3180.0,3.5,31.2,clear
+1715,Bengal Gram(Gram),Gautampura,2017-10-31,3800.0,12.0,31.2,clear
+1716,Black Gram (Urd Beans),Indore,2017-10-31,1670.0,1.6,31.2,clear
+1717,Arhar (Tur/Red Gram),Indore,2017-01-11,3030.0,0.1,19.4,clear
+1718,Black Gram (Urd Beans),Indore,2017-01-11,2000.0,4.3,19.4,clear
+1719,Arhar (Tur/Red Gram),Indore,2017-02-11,3200.0,0.2,25.4,clear
+1720,Bengal Gram(Gram),Gautampura,2017-02-11,3700.0,11.8,25.4,clear
+1721,Black Gram (Urd Beans),Indore,2017-02-11,2000.0,5.6,25.4,clear
+1722,Arhar (Tur/Red Gram),Mhow,2017-07-01,2400.0,0.1,30.2,clear
+1723,Arhar (Tur/Red Gram),Mhow,2017-01-25,3651.0,0.6,30.6,clear
+1724,Arhar (Tur/Red Gram),Mhow,2017-02-02,3467.0,0.2,30.0,clear
+1725,Arhar (Tur/Red Gram),Mhow,2017-02-27,3025.0,0.5,32.8,clear
+1726,Bengal Gram(Gram),Gautampura,2017-02-27,4100.0,12.0,32.8,clear
+1727,Arhar (Tur/Red Gram),Mhow,2017-08-04,3080.0,0.6,29.0,clear
+1728,Green Gram (Moong),Indore,2017-08-04,4400.0,0.2,29.0,clear
+1729,Arhar (Tur/Red Gram),Mhow,2017-11-04,3100.0,0.3,29.6,clear
+1730,Arhar (Tur/Red Gram),Mhow,2017-05-29,2755.0,1.1,36.8,clear
+1731,Bengal Gram(Gram),Gautampura,2017-05-29,4600.0,3.9,36.8,clear
+1732,Arhar (Tur/Red Gram),Mhow,2017-05-31,2476.0,0.1,38.6,clear
+1733,Green Gram (Moong),Mhow,2017-05-31,2725.0,5.0,38.6,clear
+1734,Arhar (Tur/Red Gram),Mhow,2017-06-07,2300.0,0.1,35.4,rain
+1735,Bengal Gram(Gram),Indore,2017-06-07,5105.0,67.9,35.4,rain
+1736,Green Gram (Moong),Mhow,2017-06-07,3600.0,2.0,35.4,rain
+1737,Arhar (Tur/Red Gram),Mhow,2017-07-19,2575.0,0.2,28.0,clear
+1738,Bengal Gram(Gram),Gautampura,2017-07-19,4900.0,0.9,28.0,clear
+1739,Bengal Gram(Gram),Indore,2017-07-19,5605.0,25.3,28.0,clear
+1740,Black Gram (Urd Beans),Indore,2017-07-19,2800.0,0.0,28.0,clear
+1741,Black Gram (Urd Beans),Mhow,2017-07-19,3770.0,1.0,28.0,clear
+1742,Arhar (Tur/Red Gram),Mhow,2017-03-10,2310.0,0.2,27.2,clear
+1743,Bengal Gram(Gram),Sanwer,2017-03-10,3811.0,0.1,27.2,clear
+1744,Black Gram (Urd Beans),Indore,2017-03-10,3425.0,4.0,27.2,clear
+1745,Arhar (Tur/Red Gram),Mhow,2017-07-10,1851.0,0.2,31.4,clear
+1746,Bengal Gram(Gram),Gautampura,2017-07-10,5100.0,13.0,31.4,clear
+1747,Black Gram (Urd Beans),Indore,2017-07-10,2395.0,2.0,31.4,clear
+1748,Bengal Gram(Gram),Gautampura,2017-01-27,5601.0,3.3,21.2,clear
+1749,Bengal Gram(Gram),Gautampura,2017-02-25,4200.0,20.1,29.6,clear
+1750,Bengal Gram(Gram),Sanwer,2017-02-25,4300.0,5.5,29.6,clear
+1751,Bengal Gram(Gram),Gautampura,2017-02-26,4200.0,11.4,31.2,clear
+1752,Bengal Gram(Gram),Gautampura,2017-05-03,4300.0,0.9,39.6,clear
+1753,Bengal Gram(Gram),Gautampura,2017-03-19,4900.0,12.9,33.0,clear
+1754,Bengal Gram(Gram),Gautampura,2017-03-26,5500.0,1.5,38.0,clear
+1755,Bengal Gram(Gram),Gautampura,2017-03-29,5000.0,4.4,40.2,clear
+1756,Bengal Gram(Gram),Gautampura,2017-03-31,4300.0,1.4,39.4,clear
+1757,Green Gram (Moong),Indore,2017-03-31,3500.0,0.5,39.4,clear
+1758,Bengal Gram(Gram),Gautampura,2017-09-04,5400.0,2.0,29.6,clear
+1759,Bengal Gram(Gram),Gautampura,2017-04-14,5400.0,2.9,41.2,clear
+1760,Bengal Gram(Gram),Gautampura,2017-04-16,5700.0,10.0,40.6,clear
+1761,Bengal Gram(Gram),Gautampura,2017-04-26,6500.0,0.2,36.4,clear
+1762,Bengal Gram(Gram),Gautampura,2017-04-27,4805.0,0.3,37.6,clear
+1763,Bengal Gram(Gram),Gautampura,2017-05-18,5504.0,8.4,39.6,clear
+1764,Bengal Gram(Gram),Gautampura,2017-05-25,5050.0,5.8,41.4,rain
+1765,Bengal Gram(Gram),Gautampura,2017-05-27,4450.0,0.6,41.2,clear
+1766,Green Gram (Moong),Indore,2017-05-27,4060.0,14.6,41.2,clear
+1767,Bengal Gram(Gram),Gautampura,2017-05-30,4000.0,5.0,35.6,clear
+1768,Bengal Gram(Gram),Gautampura,2017-10-06,4700.0,4.0,34.0,clear
+1769,Bengal Gram(Gram),Gautampura,2017-06-15,5000.0,4.5,36.0,clear
+1770,Bengal Gram(Gram),Gautampura,2017-06-16,4400.0,3.5,34.6,clear
+1771,Bengal Gram(Gram),Gautampura,2017-06-17,4500.0,4.9,35.0,clear
+1772,Bengal Gram(Gram),Gautampura,2017-06-18,5000.0,4.6,35.0,clear
+1773,Bengal Gram(Gram),Gautampura,2017-06-23,3750.0,0.4,33.0,clear
+1774,Bengal Gram(Gram),Gautampura,2017-06-24,4020.0,3.3,32.4,clear
+1775,Bengal Gram(Gram),Gautampura,2017-06-25,4600.0,1.5,34.2,clear
+1776,Bengal Gram(Gram),Gautampura,2017-06-26,4600.0,3.1,28.6,clear
+1777,Bengal Gram(Gram),Indore,2017-06-26,4700.0,17.2,28.6,clear
+1778,Black Gram (Urd Beans),Indore,2017-06-26,6506.0,0.0,28.6,clear
+1779,Green Gram (Moong),Indore,2017-06-26,4450.0,2.3,28.6,clear
+1780,Bengal Gram(Gram),Gautampura,2017-06-28,5000.0,17.0,33.0,clear
+1781,Bengal Gram(Gram),Gautampura,2017-03-07,4000.0,1.8,32.8,clear
+1782,Bengal Gram(Gram),Gautampura,2017-04-07,4005.0,1.5,35.0,clear
+1783,Bengal Gram(Gram),Indore,2017-04-07,5190.0,26.9,35.0,clear
+1784,Green Gram (Moong),Indore,2017-04-07,3850.0,1.0,35.0,clear
+1785,Bengal Gram(Gram),Gautampura,2017-05-07,5000.0,11.1,40.2,clear
+1786,Black Gram (Urd Beans),Indore,2017-05-07,4250.0,3.5,40.2,clear
+1787,Green Gram (Moong),Indore,2017-05-07,4500.0,4.7,40.2,clear
+1788,Bengal Gram(Gram),Gautampura,2017-07-25,4600.0,3.2,23.4,clear
+1789,Bengal Gram(Gram),Indore,2017-07-25,4700.0,21.7,23.4,clear
+1790,Black Gram (Urd Beans),Indore,2017-07-25,3165.0,0.0,23.4,clear
+1791,Bengal Gram(Gram),Gautampura,2017-02-08,3500.0,0.6,31.0,clear
+1792,Bengal Gram(Gram),Gautampura,2017-08-15,5100.0,3.5,29.4,clear
+1793,Bengal Gram(Gram),Gautampura,2017-09-21,5501.0,0.8,25.0,clear
+1794,Bengal Gram(Gram),Gautampura,2017-06-10,4800.0,1.7,32.6,clear
+1795,Black Gram (Urd Beans),Indore,2017-06-10,2900.0,1.0,32.6,clear
+1796,Bengal Gram(Gram),Gautampura,2017-08-10,5000.0,1.5,29.0,clear
+1797,Bengal Gram(Gram),Gautampura,2017-10-18,1825.0,5.5,34.4,clear
+1798,Bengal Gram(Gram),Gautampura,2017-10-21,4300.0,4.5,33.2,clear
+1799,Bengal Gram(Gram),Indore,2017-06-20,4800.0,66.2,34.4,clear
+1800,Bengal Gram(Gram),Sanwer,2017-06-20,4400.0,1.5,34.4,clear
+1801,Bengal Gram(Gram),Indore,2017-06-30,5180.0,48.3,32.0,clear
+1802,Bengal Gram(Gram),Indore,2017-01-07,5000.0,31.3,24.4,clear
+1803,Black Gram (Urd Beans),Indore,2017-01-07,3800.0,1.1,24.4,clear
+1804,Bengal Gram(Gram),Indore,2017-10-07,4805.0,51.4,34.6,clear
+1805,Bengal Gram(Gram),Indore,2017-07-14,5300.0,20.9,25.4,rain
+1806,Green Gram (Moong),Indore,2017-07-14,4005.0,1.9,25.4,rain
+1807,Bengal Gram(Gram),Indore,2017-07-21,5005.0,23.1,29.6,clear
+1808,Bengal Gram(Gram),Indore,2017-07-22,4800.0,24.2,26.4,clear
+1809,Bengal Gram(Gram),Indore,2017-07-24,4800.0,18.6,24.8,rain
+1810,Bengal Gram(Gram),Indore,2017-07-28,4800.0,10.2,24.4,rain
+1811,Black Gram (Urd Beans),Indore,2017-05-01,5500.0,10.1,38.2,clear
+1812,Green Gram (Moong),Indore,2017-05-01,4000.0,1.3,38.2,clear
+1813,Black Gram (Urd Beans),Indore,2017-04-02,4235.0,0.8,37.8,clear
+1814,Green Gram (Moong),Indore,2017-04-02,3400.0,1.2,37.8,clear
+1815,Black Gram (Urd Beans),Indore,2017-09-02,4490.0,2.2,30.0,clear
+1816,Green Gram (Moong),Indore,2017-09-02,4350.0,0.5,30.0,clear
+1817,Black Gram (Urd Beans),Indore,2017-04-28,2390.0,0.0,39.0,clear
+1818,Black Gram (Urd Beans),Mhow,2017-01-24,4180.0,2.0,30.0,clear
+1819,Green Gram (Moong),Indore,2017-01-24,4580.0,4.5,30.0,clear
+1820,Green Gram (Moong),Indore,2017-02-01,5400.0,1.5,29.0,clear
+1821,Green Gram (Moong),Indore,2017-01-05,4488.0,0.0,28.0,clear
+1822,Green Gram (Moong),Indore,2017-05-24,4155.0,7.2,40.6,clear

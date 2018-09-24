@@ -1,0 +1,1493 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Bengal Gram(Gram),Hardoi,2015-12-08,4500.0,2.0,24.0,clear
+1,Bengal Gram(Gram),Madhoganj,2015-12-08,4450.0,4.0,24.0,clear
+2,Bengal Gram(Gram),Shahabad(New Mandi),2015-12-08,4600.0,0.8,24.0,clear
+3,Lentil(Masur),Madhoganj,2015-12-08,6450.0,2.0,24.0,clear
+4,Lentil(Masur),Shahabad(New Mandi),2015-12-08,6600.0,2.6,24.0,clear
+5,Bengal Gram(Gram),Hardoi,2015-12-09,4700.0,1.3,24.0,clear
+6,Bengal Gram(Gram),Hardoi,2015-12-10,4830.0,2.5,16.5,clear
+7,Bengal Gram(Gram),Madhoganj,2015-12-10,4500.0,4.0,16.5,clear
+8,Lentil(Masur),Madhoganj,2015-12-10,6800.0,2.0,16.5,clear
+9,Bengal Gram(Gram),Hardoi,2015-12-15,5000.0,2.0,19.0,clear
+10,Bengal Gram(Gram),Madhoganj,2015-12-15,4970.0,2.0,19.0,clear
+11,Lentil(Masur),Madhoganj,2015-12-15,7320.0,2.0,19.0,clear
+12,Bengal Gram(Gram),Hardoi,2015-12-21,1560.0,2.5,18.5,clear
+13,Bengal Gram(Gram),Madhoganj,2015-12-21,4940.0,2.5,18.5,clear
+14,Lentil(Masur),Madhoganj,2015-12-21,7350.0,2.7,18.5,clear
+15,Bengal Gram(Gram),Hardoi,2015-12-28,5100.0,2.5,10.5,clear
+16,Bengal Gram(Gram),Madhoganj,2015-12-28,4910.0,4.0,10.5,clear
+17,Lentil(Masur),Madhoganj,2015-12-28,7125.0,2.0,10.5,clear
+18,Bengal Gram(Gram),Hardoi,2015-12-29,5100.0,3.2,19.0,clear
+19,Bengal Gram(Gram),Madhoganj,2015-12-29,4920.0,2.5,19.0,clear
+20,Lentil(Masur),Madhoganj,2015-12-29,7150.0,1.5,19.0,clear
+21,Bengal Gram(Gram),Hardoi,2015-12-30,5100.0,2.0,22.0,clear
+22,Bengal Gram(Gram),Madhoganj,2015-12-30,4925.0,1.5,22.0,clear
+23,Lentil(Masur),Madhoganj,2015-12-30,7175.0,1.0,22.0,clear
+24,Bengal Gram(Gram),Madhoganj,2015-12-13,4940.0,1.8,20.5,clear
+25,Lentil(Masur),Madhoganj,2015-12-13,7350.0,2.0,20.5,clear
+26,Bengal Gram(Gram),Madhoganj,2015-12-14,4940.0,2.5,20.0,clear
+27,Lentil(Masur),Madhoganj,2015-12-14,7310.0,2.5,20.0,clear
+28,Bengal Gram(Gram),Madhoganj,2015-12-16,4970.0,1.5,19.0,clear
+29,Lentil(Masur),Madhoganj,2015-12-16,7380.0,1.5,19.0,clear
+30,Bengal Gram(Gram),Madhoganj,2015-12-17,4940.0,2.8,20.5,clear
+31,Lentil(Masur),Madhoganj,2015-12-17,7350.0,2.0,20.5,clear
+32,Bengal Gram(Gram),Madhoganj,2015-12-18,4925.0,3.1,20.5,clear
+33,Lentil(Masur),Madhoganj,2015-12-18,7320.0,2.5,20.5,clear
+34,Bengal Gram(Gram),Madhoganj,2015-12-20,4920.0,2.8,20.0,clear
+35,Lentil(Masur),Madhoganj,2015-12-20,7350.0,1.8,20.0,clear
+36,Bengal Gram(Gram),Madhoganj,2015-12-22,4950.0,1.5,19.0,clear
+37,Lentil(Masur),Madhoganj,2015-12-22,7200.0,3.2,19.0,clear
+38,Bengal Gram(Gram),Madhoganj,2015-12-23,4950.0,2.5,19.0,clear
+39,Lentil(Masur),Madhoganj,2015-12-23,7180.0,4.0,19.0,clear
+40,Bengal Gram(Gram),Madhoganj,2015-12-24,4950.0,3.0,19.0,clear
+41,Lentil(Masur),Madhoganj,2015-12-24,7150.0,3.0,19.0,clear
+42,Bengal Gram(Gram),Madhoganj,2015-12-25,4950.0,2.0,19.0,clear
+43,Lentil(Masur),Madhoganj,2015-12-25,7150.0,2.5,19.0,clear
+44,Bengal Gram(Gram),Madhoganj,2015-12-27,4900.0,6.0,19.0,clear
+45,Lentil(Masur),Madhoganj,2015-12-27,7120.0,4.0,19.0,clear
+46,Bengal Gram(Gram),Madhoganj,2015-12-31,4925.0,2.5,23.5,clear
+47,Lentil(Masur),Madhoganj,2015-12-31,7175.0,1.5,23.5,clear
+48,Bengal Gram(Gram),Hardoi,2016-01-01,5100.0,2.5,22.5,clear
+49,Bengal Gram(Gram),Madhoganj,2016-01-01,4900.0,2.0,22.5,clear
+50,Lentil(Masur),Madhoganj,2016-01-01,7200.0,1.0,22.5,clear
+51,Bengal Gram(Gram),Hardoi,2016-02-01,5120.0,3.0,24.5,clear
+52,Bengal Gram(Gram),Hardoi,2016-11-01,5240.0,3.0,31.5,clear
+53,Bengal Gram(Gram),Madhoganj,2016-11-01,4950.0,2.2,31.5,clear
+54,Lentil(Masur),Madhoganj,2016-11-01,7300.0,2.5,31.5,clear
+55,Bengal Gram(Gram),Hardoi,2016-12-01,5240.0,3.0,21.0,clear
+56,Bengal Gram(Gram),Madhoganj,2016-12-01,4950.0,1.8,21.0,clear
+57,Lentil(Masur),Madhoganj,2016-12-01,7250.0,3.0,21.0,clear
+58,Bengal Gram(Gram),Hardoi,2016-01-13,5240.0,2.0,23.0,clear
+59,Bengal Gram(Gram),Madhoganj,2016-01-13,4920.0,2.8,23.0,clear
+60,Lentil(Masur),Madhoganj,2016-01-13,7250.0,2.0,23.0,clear
+61,Bengal Gram(Gram),Hardoi,2016-01-20,5200.0,2.5,13.5,clear
+62,Bengal Gram(Gram),Madhoganj,2016-01-20,5025.0,1.5,13.5,clear
+63,Lentil(Masur),Madhoganj,2016-01-20,7325.0,1.5,13.5,clear
+64,Bengal Gram(Gram),Hardoi,2016-01-25,5200.0,2.5,19.0,clear
+65,Bengal Gram(Gram),Madhoganj,2016-01-25,5075.0,1.0,19.0,clear
+66,Lentil(Masur),Madhoganj,2016-01-25,7350.0,1.0,19.0,clear
+67,Bengal Gram(Gram),Hardoi,2016-01-26,5200.0,1.0,21.0,clear
+68,Bengal Gram(Gram),Hardoi,2016-01-27,5200.0,3.0,22.5,clear
+69,Bengal Gram(Gram),Madhoganj,2016-01-27,5050.0,2.0,22.5,clear
+70,Lentil(Masur),Madhoganj,2016-01-27,7350.0,1.5,22.5,clear
+71,Bengal Gram(Gram),Hardoi,2016-01-28,4600.0,6.5,22.5,clear
+72,Bengal Gram(Gram),Madhoganj,2016-01-28,5100.0,1.6,22.5,clear
+73,Lentil(Masur),Madhoganj,2016-01-28,7320.0,2.0,22.5,clear
+74,Bengal Gram(Gram),Hardoi,2016-01-29,5220.0,3.0,23.5,clear
+75,Bengal Gram(Gram),Madhoganj,2016-01-29,5150.0,1.5,23.5,clear
+76,Lentil(Masur),Madhoganj,2016-01-29,7325.0,1.0,23.5,clear
+77,Bengal Gram(Gram),Hardoi,2016-01-30,5220.0,2.9,25.5,clear
+78,Bengal Gram(Gram),Hardoi,2016-02-02,5240.0,2.5,21.5,clear
+79,Bengal Gram(Gram),Madhoganj,2016-02-02,5150.0,2.0,21.5,clear
+80,Lentil(Masur),Madhoganj,2016-02-02,7350.0,1.0,21.5,clear
+81,Bengal Gram(Gram),Hardoi,2016-03-02,5240.0,2.0,29.5,clear
+82,Bengal Gram(Gram),Madhoganj,2016-03-02,5175.0,2.5,29.5,clear
+83,Lentil(Masur),Madhoganj,2016-03-02,7325.0,1.8,29.5,clear
+84,Bengal Gram(Gram),Hardoi,2016-04-02,5200.0,3.0,38.0,clear
+85,Bengal Gram(Gram),Madhoganj,2016-04-02,5175.0,1.5,38.0,clear
+86,Lentil(Masur),Madhoganj,2016-04-02,7340.0,1.0,38.0,clear
+87,Bengal Gram(Gram),Hardoi,2016-05-02,5230.0,2.0,42.5,clear
+88,Bengal Gram(Gram),Madhoganj,2016-05-02,5125.0,2.0,42.5,clear
+89,Lentil(Masur),Madhoganj,2016-05-02,7310.0,2.0,42.5,clear
+90,Bengal Gram(Gram),Hardoi,2016-06-02,5235.0,2.0,41.5,clear
+91,Bengal Gram(Gram),Hardoi,2016-08-02,5230.0,3.0,31.5,clear
+92,Bengal Gram(Gram),Madhoganj,2016-08-02,5200.0,1.0,31.5,clear
+93,Lentil(Masur),Madhoganj,2016-08-02,7320.0,2.0,31.5,clear
+94,Bengal Gram(Gram),Hardoi,2016-09-02,5240.0,4.0,31.5,clear
+95,Bengal Gram(Gram),Madhoganj,2016-09-02,5240.0,1.2,31.5,clear
+96,Lentil(Masur),Madhoganj,2016-09-02,7340.0,1.5,31.5,clear
+97,Bengal Gram(Gram),Hardoi,2016-11-02,5200.0,3.2,19.5,clear
+98,Bengal Gram(Gram),Madhoganj,2016-11-02,5175.0,1.5,19.5,clear
+99,Lentil(Masur),Madhoganj,2016-11-02,7200.0,4.0,19.5,clear
+100,Bengal Gram(Gram),Hardoi,2016-12-02,5200.0,3.4,21.5,clear
+101,Bengal Gram(Gram),Hardoi,2016-02-13,5200.0,3.0,25.0,clear
+102,Bengal Gram(Gram),Hardoi,2016-02-15,5200.0,3.0,25.5,clear
+103,Bengal Gram(Gram),Hardoi,2016-02-16,5200.0,2.0,25.5,clear
+104,Bengal Gram(Gram),Hardoi,2016-02-17,5200.0,3.0,23.5,clear
+105,Bengal Gram(Gram),Hardoi,2016-02-18,5220.0,2.6,27.0,clear
+106,Bengal Gram(Gram),Hardoi,2016-02-19,5200.0,3.2,27.5,clear
+107,Bengal Gram(Gram),Hardoi,2016-02-22,5230.0,2.5,28.0,clear
+108,Bengal Gram(Gram),Madhoganj,2016-02-22,5160.0,2.0,28.0,clear
+109,Lentil(Masur),Madhoganj,2016-02-22,6800.0,2.0,28.0,clear
+110,Bengal Gram(Gram),Hardoi,2016-02-23,5240.0,2.0,27.0,clear
+111,Bengal Gram(Gram),Madhoganj,2016-02-23,5140.0,2.5,27.0,clear
+112,Lentil(Masur),Madhoganj,2016-02-23,6750.0,2.5,27.0,clear
+113,Bengal Gram(Gram),Hardoi,2016-01-03,5200.0,1.5,13.5,clear
+114,Bengal Gram(Gram),Madhoganj,2016-01-03,5240.0,2.0,13.5,clear
+115,Lentil(Masur),Madhoganj,2016-01-03,6400.0,7.0,13.5,clear
+116,Bengal Gram(Gram),Hardoi,2016-02-03,5210.0,2.0,21.5,clear
+117,Bengal Gram(Gram),Madhoganj,2016-02-03,5200.0,2.5,21.5,clear
+118,Lentil(Masur),Madhoganj,2016-02-03,6450.0,6.0,21.5,clear
+119,Bengal Gram(Gram),Hardoi,2016-03-03,5220.0,1.4,31.5,clear
+120,Bengal Gram(Gram),Madhoganj,2016-03-03,5240.0,1.8,31.5,clear
+121,Lentil(Masur),Madhoganj,2016-03-03,6450.0,5.0,31.5,clear
+122,Bengal Gram(Gram),Hardoi,2016-04-03,5210.0,1.5,38.0,clear
+123,Bengal Gram(Gram),Madhoganj,2016-04-03,5250.0,1.5,38.0,clear
+124,Lentil(Masur),Madhoganj,2016-04-03,6400.0,4.0,38.0,clear
+125,Bengal Gram(Gram),Hardoi,2016-07-03,4000.0,4.2,32.5,clear
+126,Bengal Gram(Gram),Madhoganj,2016-07-03,5210.0,4.0,32.5,clear
+127,Lentil(Masur),Madhoganj,2016-07-03,6450.0,2.0,32.5,clear
+128,Bengal Gram(Gram),Hardoi,2016-08-03,5230.0,1.8,32.0,clear
+129,Bengal Gram(Gram),Madhoganj,2016-08-03,5210.0,3.0,32.0,clear
+130,Lentil(Masur),Madhoganj,2016-08-03,6420.0,2.5,32.0,clear
+131,Bengal Gram(Gram),Hardoi,2016-09-03,5200.0,3.0,30.5,clear
+132,Bengal Gram(Gram),Madhoganj,2016-09-03,5250.0,1.0,30.5,clear
+133,Lentil(Masur),Madhoganj,2016-09-03,6250.0,4.0,30.5,clear
+134,Bengal Gram(Gram),Hardoi,2016-10-03,5200.0,2.5,33.0,clear
+135,Bengal Gram(Gram),Madhoganj,2016-10-03,5250.0,2.0,33.0,clear
+136,Lentil(Masur),Madhoganj,2016-10-03,6250.0,2.5,33.0,clear
+137,Bengal Gram(Gram),Hardoi,2016-11-03,5150.0,2.0,27.5,clear
+138,Bengal Gram(Gram),Madhoganj,2016-11-03,5240.0,2.5,27.5,clear
+139,Lentil(Masur),Madhoganj,2016-11-03,6250.0,1.0,27.5,clear
+140,Bengal Gram(Gram),Hardoi,2016-12-03,5150.0,2.0,21.0,clear
+141,Bengal Gram(Gram),Hardoi,2016-03-14,3760.0,2.2,28.0,clear
+142,Bengal Gram(Gram),Madhoganj,2016-03-14,5260.0,1.0,28.0,clear
+143,Lentil(Masur),Madhoganj,2016-03-14,6350.0,2.5,28.0,clear
+144,Bengal Gram(Gram),Hardoi,2016-03-15,5110.0,12.0,26.4,clear
+145,Bengal Gram(Gram),Madhoganj,2016-03-15,5240.0,1.5,26.4,clear
+146,Lentil(Masur),Madhoganj,2016-03-15,6350.0,2.0,26.4,clear
+147,Bengal Gram(Gram),Hardoi,2016-03-16,5100.0,2.5,30.0,clear
+148,Bengal Gram(Gram),Madhoganj,2016-03-16,5200.0,2.5,30.0,clear
+149,Lentil(Masur),Madhoganj,2016-03-16,6400.0,2.5,30.0,clear
+150,Bengal Gram(Gram),Hardoi,2016-03-17,5120.0,2.0,31.2,clear
+151,Bengal Gram(Gram),Madhoganj,2016-03-17,5190.0,2.0,31.2,clear
+152,Lentil(Masur),Madhoganj,2016-03-17,6400.0,2.0,31.2,clear
+153,Bengal Gram(Gram),Hardoi,2016-03-18,5120.0,2.5,33.0,clear
+154,Bengal Gram(Gram),Madhoganj,2016-03-18,5240.0,1.0,33.0,clear
+155,Lentil(Masur),Madhoganj,2016-03-18,6425.0,1.5,33.0,clear
+156,Bengal Gram(Gram),Hardoi,2016-03-22,5140.0,2.5,31.0,clear
+157,Bengal Gram(Gram),Hardoi,2016-03-23,5130.0,3.0,32.5,clear
+158,Bengal Gram(Gram),Madhoganj,2016-03-23,5140.0,2.5,32.5,clear
+159,Lentil(Masur),Madhoganj,2016-03-23,6420.0,1.2,32.5,clear
+160,Bengal Gram(Gram),Hardoi,2016-03-28,5200.0,3.0,34.5,clear
+161,Bengal Gram(Gram),Madhoganj,2016-03-28,5120.0,1.0,34.5,clear
+162,Lentil(Masur),Madhoganj,2016-03-28,6410.0,0.4,34.5,clear
+163,Bengal Gram(Gram),Hardoi,2016-03-29,5200.0,1.5,23.0,clear
+164,Lentil(Masur),Madhoganj,2016-03-29,6425.0,0.6,23.0,clear
+165,Bengal Gram(Gram),Hardoi,2016-03-31,5240.0,2.4,36.0,clear
+166,Bengal Gram(Gram),Madhoganj,2016-03-31,5150.0,1.0,36.0,clear
+167,Lentil(Masur),Madhoganj,2016-03-31,6250.0,11.0,36.0,clear
+168,Bengal Gram(Gram),Hardoi,2016-01-04,5240.0,3.0,22.5,clear
+169,Bengal Gram(Gram),Madhoganj,2016-01-04,5125.0,1.5,22.5,clear
+170,Lentil(Masur),Madhoganj,2016-01-04,6250.0,8.5,22.5,clear
+171,Bengal Gram(Gram),Hardoi,2016-04-04,5220.0,4.0,37.5,clear
+172,Bengal Gram(Gram),Madhoganj,2016-04-04,5150.0,0.8,37.5,clear
+173,Lentil(Masur),Madhoganj,2016-04-04,6150.0,10.0,37.5,clear
+174,Bengal Gram(Gram),Hardoi,2016-05-04,5230.0,4.2,39.5,clear
+175,Bengal Gram(Gram),Madhoganj,2016-05-04,5140.0,1.2,39.5,clear
+176,Lentil(Masur),Madhoganj,2016-05-04,6150.0,7.5,39.5,clear
+177,Bengal Gram(Gram),Hardoi,2016-06-04,5230.0,6.0,41.5,clear
+178,Bengal Gram(Gram),Madhoganj,2016-06-04,5170.0,0.8,41.5,clear
+179,Lentil(Masur),Madhoganj,2016-06-04,6170.0,9.0,41.5,clear
+180,Bengal Gram(Gram),Hardoi,2016-07-04,5220.0,4.0,31.5,clear
+181,Bengal Gram(Gram),Madhoganj,2016-07-04,5200.0,0.5,31.5,clear
+182,Lentil(Masur),Madhoganj,2016-07-04,6230.0,12.0,31.5,clear
+183,Bengal Gram(Gram),Hardoi,2016-08-04,5230.0,5.0,32.5,clear
+184,Bengal Gram(Gram),Madhoganj,2016-08-04,5175.0,1.5,32.5,clear
+185,Lentil(Masur),Madhoganj,2016-08-04,6200.0,9.0,32.5,clear
+186,Bengal Gram(Gram),Hardoi,2016-09-04,5240.0,4.0,31.0,clear
+187,Bengal Gram(Gram),Hardoi,2016-11-04,5230.0,2.0,26.2,clear
+188,Bengal Gram(Gram),Madhoganj,2016-11-04,5200.0,0.8,26.2,clear
+189,Lentil(Masur),Madhoganj,2016-11-04,6170.0,9.5,26.2,clear
+190,Bengal Gram(Gram),Hardoi,2016-12-04,5230.0,3.0,21.5,clear
+191,Bengal Gram(Gram),Madhoganj,2016-12-04,5150.0,1.2,21.5,clear
+192,Lentil(Masur),Madhoganj,2016-12-04,6140.0,12.0,21.5,clear
+193,Bengal Gram(Gram),Hardoi,2016-04-13,5230.0,2.0,38.0,clear
+194,Bengal Gram(Gram),Hardoi,2016-04-14,5230.0,2.0,27.3,clear
+195,Bengal Gram(Gram),Hardoi,2016-04-15,5340.0,3.0,40.0,clear
+196,Bengal Gram(Gram),Hardoi,2016-04-16,5400.0,2.5,41.5,clear
+197,Bengal Gram(Gram),Hardoi,2016-04-18,5400.0,3.0,40.0,clear
+198,Bengal Gram(Gram),Madhoganj,2016-04-18,5280.0,0.5,40.0,clear
+199,Lentil(Masur),Madhoganj,2016-04-18,7150.0,7.0,40.0,clear
+200,Bengal Gram(Gram),Hardoi,2016-04-19,5400.0,2.0,40.5,clear
+201,Bengal Gram(Gram),Madhoganj,2016-04-19,5300.0,1.0,40.5,clear
+202,Lentil(Masur),Madhoganj,2016-04-19,7180.0,6.0,40.5,clear
+203,Bengal Gram(Gram),Hardoi,2016-04-20,5500.0,3.7,40.5,clear
+204,Bengal Gram(Gram),Madhoganj,2016-04-20,5320.0,0.8,40.5,clear
+205,Lentil(Masur),Madhoganj,2016-04-20,7200.0,4.0,40.5,clear
+206,Bengal Gram(Gram),Hardoi,2016-04-22,5600.0,2.4,40.6,clear
+207,Bengal Gram(Gram),Madhoganj,2016-04-22,5400.0,0.5,40.6,clear
+208,Lentil(Masur),Madhoganj,2016-04-22,7250.0,11.0,40.6,clear
+209,Bengal Gram(Gram),Hardoi,2016-04-23,5450.0,3.0,39.0,clear
+210,Bengal Gram(Gram),Hardoi,2016-04-25,5450.0,2.5,39.0,clear
+211,Bengal Gram(Gram),Madhoganj,2016-04-25,5420.0,1.2,39.0,clear
+212,Lentil(Masur),Madhoganj,2016-04-25,7180.0,14.0,39.0,clear
+213,Bengal Gram(Gram),Hardoi,2016-02-05,5360.0,3.0,22.5,clear
+214,Bengal Gram(Gram),Madhoganj,2016-02-05,6150.0,1.5,22.5,clear
+215,Lentil(Masur),Madhoganj,2016-02-05,7140.0,7.0,22.5,clear
+216,Bengal Gram(Gram),Hardoi,2016-04-05,5360.0,2.0,37.0,clear
+217,Bengal Gram(Gram),Madhoganj,2016-04-05,6170.0,1.0,37.0,clear
+218,Lentil(Masur),Madhoganj,2016-04-05,7125.0,2.0,37.0,clear
+219,Bengal Gram(Gram),Hardoi,2016-05-05,5400.0,2.6,37.5,clear
+220,Bengal Gram(Gram),Madhoganj,2016-05-05,6120.0,2.0,37.5,clear
+221,Lentil(Masur),Madhoganj,2016-05-05,7120.0,4.0,37.5,clear
+222,Bengal Gram(Gram),Hardoi,2016-06-05,5425.0,3.0,33.5,clear
+223,Bengal Gram(Gram),Madhoganj,2016-06-05,6250.0,1.0,33.5,clear
+224,Lentil(Masur),Madhoganj,2016-06-05,7200.0,9.0,33.5,clear
+225,Bengal Gram(Gram),Hardoi,2016-07-05,5450.0,2.5,28.5,clear
+226,Bengal Gram(Gram),Hardoi,2016-09-05,5440.0,3.2,32.0,clear
+227,Bengal Gram(Gram),Madhoganj,2016-09-05,6300.0,2.5,32.0,clear
+228,Lentil(Masur),Madhoganj,2016-09-05,7080.0,9.0,32.0,clear
+229,Bengal Gram(Gram),Hardoi,2016-10-05,5450.0,0.0,32.0,clear
+230,Bengal Gram(Gram),Madhoganj,2016-10-05,6275.0,1.5,32.0,clear
+231,Lentil(Masur),Madhoganj,2016-10-05,7120.0,6.0,32.0,clear
+232,Bengal Gram(Gram),Hardoi,2016-11-05,5470.0,2.2,26.0,clear
+233,Bengal Gram(Gram),Madhoganj,2016-11-05,6250.0,2.0,26.0,clear
+234,Lentil(Masur),Madhoganj,2016-11-05,7140.0,2.0,26.0,clear
+235,Bengal Gram(Gram),Hardoi,2016-12-05,5460.0,6.0,22.0,clear
+236,Bengal Gram(Gram),Madhoganj,2016-12-05,6300.0,1.0,22.0,clear
+237,Lentil(Masur),Madhoganj,2016-12-05,7200.0,1.0,22.0,clear
+238,Bengal Gram(Gram),Hardoi,2016-05-13,5460.0,2.4,41.5,clear
+239,Bengal Gram(Gram),Madhoganj,2016-05-13,6450.0,0.5,41.5,clear
+240,Lentil(Masur),Madhoganj,2016-05-13,7250.0,0.8,41.5,clear
+241,Bengal Gram(Gram),Hardoi,2016-05-14,5450.0,2.4,41.0,clear
+242,Bengal Gram(Gram),Hardoi,2016-05-16,5440.0,3.7,32.0,clear
+243,Bengal Gram(Gram),Madhoganj,2016-05-16,6650.0,0.5,32.0,clear
+244,Lentil(Masur),Madhoganj,2016-05-16,7250.0,1.5,32.0,clear
+245,Bengal Gram(Gram),Hardoi,2016-05-17,5460.0,6.0,32.5,clear
+246,Bengal Gram(Gram),Madhoganj,2016-05-17,6750.0,1.0,32.5,clear
+247,Lentil(Masur),Madhoganj,2016-05-17,7350.0,1.0,32.5,clear
+248,Bengal Gram(Gram),Hardoi,2016-05-18,5500.0,2.5,45.5,clear
+249,Bengal Gram(Gram),Madhoganj,2016-05-18,6450.0,2.0,45.5,clear
+250,Lentil(Masur),Madhoganj,2016-05-18,7250.0,2.0,45.5,clear
+251,Bengal Gram(Gram),Hardoi,2016-05-19,5600.0,2.0,33.5,clear
+252,Bengal Gram(Gram),Madhoganj,2016-05-19,6300.0,2.5,33.5,clear
+253,Lentil(Masur),Madhoganj,2016-05-19,7200.0,2.5,33.5,clear
+254,Bengal Gram(Gram),Hardoi,2016-05-20,5700.0,2.2,45.0,clear
+255,Bengal Gram(Gram),Madhoganj,2016-05-20,6200.0,2.0,45.0,clear
+256,Lentil(Masur),Madhoganj,2016-05-20,7100.0,3.0,45.0,clear
+257,Bengal Gram(Gram),Hardoi,2016-05-21,5500.0,3.0,39.5,clear
+258,Bengal Gram(Gram),Hardoi,2016-05-23,5600.0,2.3,34.0,clear
+259,Bengal Gram(Gram),Madhoganj,2016-05-23,6050.0,1.0,34.0,clear
+260,Lentil(Masur),Madhoganj,2016-05-23,7080.0,2.0,34.0,clear
+261,Bengal Gram(Gram),Hardoi,2016-05-25,5400.0,2.5,34.5,clear
+262,Bengal Gram(Gram),Madhoganj,2016-05-25,6050.0,2.0,34.5,clear
+263,Lentil(Masur),Madhoganj,2016-05-25,7120.0,2.0,34.5,clear
+264,Bengal Gram(Gram),Hardoi,2016-05-26,5400.0,2.8,37.5,clear
+265,Bengal Gram(Gram),Madhoganj,2016-05-26,6025.0,2.5,37.5,clear
+266,Lentil(Masur),Madhoganj,2016-05-26,7040.0,2.5,37.5,clear
+267,Bengal Gram(Gram),Hardoi,2016-05-27,5400.0,2.4,40.5,clear
+268,Bengal Gram(Gram),Madhoganj,2016-05-27,6050.0,2.0,40.5,clear
+269,Lentil(Masur),Madhoganj,2016-05-27,7150.0,1.0,40.5,clear
+270,Bengal Gram(Gram),Hardoi,2016-05-28,5400.0,6.0,32.5,clear
+271,Bengal Gram(Gram),Hardoi,2016-05-30,5400.0,3.0,35.0,clear
+272,Bengal Gram(Gram),Madhoganj,2016-05-30,6025.0,2.5,35.0,clear
+273,Lentil(Masur),Madhoganj,2016-05-30,7080.0,4.0,35.0,clear
+274,Bengal Gram(Gram),Hardoi,2016-03-06,5400.0,2.6,29.5,clear
+275,Bengal Gram(Gram),Madhoganj,2016-03-06,5850.0,1.0,29.5,clear
+276,Lentil(Masur),Madhoganj,2016-03-06,7050.0,1.0,29.5,clear
+277,Bengal Gram(Gram),Hardoi,2016-04-06,5500.0,2.0,38.5,clear
+278,Bengal Gram(Gram),Hardoi,2016-06-06,5500.0,2.4,42.5,clear
+279,Bengal Gram(Gram),Madhoganj,2016-06-06,5900.0,2.5,42.5,clear
+280,Lentil(Masur),Madhoganj,2016-06-06,7060.0,2.5,42.5,clear
+281,Bengal Gram(Gram),Hardoi,2016-07-06,5600.0,2.0,27.5,clear
+282,Bengal Gram(Gram),Madhoganj,2016-07-06,5840.0,2.0,27.5,clear
+283,Lentil(Masur),Madhoganj,2016-07-06,7100.0,2.0,27.5,clear
+284,Bengal Gram(Gram),Hardoi,2016-08-06,5630.0,2.0,31.5,clear
+285,Bengal Gram(Gram),Madhoganj,2016-08-06,5750.0,2.5,31.5,clear
+286,Lentil(Masur),Madhoganj,2016-08-06,7120.0,4.0,31.5,clear
+287,Bengal Gram(Gram),Hardoi,2016-09-06,5640.0,1.7,31.5,clear
+288,Bengal Gram(Gram),Madhoganj,2016-09-06,5780.0,2.0,31.5,clear
+289,Lentil(Masur),Madhoganj,2016-09-06,7140.0,2.5,31.5,clear
+290,Bengal Gram(Gram),Hardoi,2016-10-06,5640.0,3.0,28.5,clear
+291,Bengal Gram(Gram),Madhoganj,2016-10-06,5740.0,1.8,28.5,clear
+292,Lentil(Masur),Madhoganj,2016-10-06,7120.0,2.0,28.5,clear
+293,Bengal Gram(Gram),Hardoi,2016-11-06,5710.0,2.0,26.0,clear
+294,Bengal Gram(Gram),Hardoi,2016-06-13,5740.0,1.5,31.0,clear
+295,Bengal Gram(Gram),Madhoganj,2016-06-13,5750.0,1.5,31.0,clear
+296,Lentil(Masur),Madhoganj,2016-06-13,7110.0,2.5,31.0,clear
+297,Bengal Gram(Gram),Hardoi,2016-06-14,5720.0,2.8,38.5,clear
+298,Bengal Gram(Gram),Hardoi,2016-06-15,5600.0,1.9,34.5,clear
+299,Bengal Gram(Gram),Hardoi,2016-06-16,5650.0,1.5,36.5,clear
+300,Bengal Gram(Gram),Hardoi,2016-06-17,5680.0,2.2,31.0,clear
+301,Bengal Gram(Gram),Hardoi,2016-06-18,5720.0,1.8,36.5,clear
+302,Bengal Gram(Gram),Hardoi,2016-06-20,5810.0,1.5,36.5,clear
+303,Bengal Gram(Gram),Hardoi,2016-06-22,5870.0,1.1,31.0,clear
+304,Bengal Gram(Gram),Hardoi,2016-06-23,5900.0,1.0,33.5,clear
+305,Bengal Gram(Gram),Hardoi,2016-06-24,5950.0,1.2,35.5,clear
+306,Bengal Gram(Gram),Madhoganj,2016-06-24,5900.0,9.0,35.5,clear
+307,Lentil(Masur),Madhoganj,2016-06-24,7150.0,28.0,35.5,clear
+308,Bengal Gram(Gram),Hardoi,2016-06-25,5960.0,1.5,37.5,clear
+309,Bengal Gram(Gram),Hardoi,2016-06-27,5960.0,3.0,36.5,clear
+310,Bengal Gram(Gram),Madhoganj,2016-06-27,5940.0,1.2,36.5,clear
+311,Lentil(Masur),Madhoganj,2016-06-27,7150.0,1.6,36.5,clear
+312,Bengal Gram(Gram),Hardoi,2016-06-28,5970.0,3.0,36.5,clear
+313,Bengal Gram(Gram),Madhoganj,2016-06-28,5950.0,1.0,36.5,clear
+314,Lentil(Masur),Madhoganj,2016-06-28,7140.0,1.4,36.5,clear
+315,Bengal Gram(Gram),Hardoi,2016-06-29,5990.0,3.0,37.5,clear
+316,Bengal Gram(Gram),Madhoganj,2016-06-29,5920.0,1.8,37.5,clear
+317,Lentil(Masur),Madhoganj,2016-06-29,7150.0,1.0,37.5,clear
+318,Bengal Gram(Gram),Hardoi,2016-06-30,5980.0,2.5,31.5,clear
+319,Bengal Gram(Gram),Madhoganj,2016-06-30,5925.0,2.0,31.5,clear
+320,Lentil(Masur),Madhoganj,2016-06-30,7180.0,1.5,31.5,clear
+321,Bengal Gram(Gram),Hardoi,2016-01-07,5990.0,3.0,22.5,clear
+322,Bengal Gram(Gram),Madhoganj,2016-01-07,5950.0,1.0,22.5,clear
+323,Lentil(Masur),Madhoganj,2016-01-07,7160.0,2.5,22.5,clear
+324,Bengal Gram(Gram),Hardoi,2016-02-07,5980.0,2.5,24.0,clear
+325,Bengal Gram(Gram),Hardoi,2016-04-07,1640.0,162.0,36.0,clear
+326,Bengal Gram(Gram),Madhoganj,2016-04-07,5960.0,1.8,36.0,clear
+327,Lentil(Masur),Madhoganj,2016-04-07,7160.0,1.5,36.0,clear
+328,Bengal Gram(Gram),Hardoi,2016-05-07,5980.0,2.2,35.5,clear
+329,Bengal Gram(Gram),Madhoganj,2016-05-07,5950.0,1.0,35.5,clear
+330,Lentil(Masur),Madhoganj,2016-05-07,7175.0,1.0,35.5,clear
+331,Bengal Gram(Gram),Hardoi,2016-06-07,6050.0,3.0,32.5,clear
+332,Bengal Gram(Gram),Madhoganj,2016-06-07,5970.0,0.8,32.5,clear
+333,Lentil(Masur),Madhoganj,2016-06-07,7160.0,1.5,32.5,clear
+334,Bengal Gram(Gram),Hardoi,2016-07-07,6050.0,2.5,27.5,clear
+335,Bengal Gram(Gram),Madhoganj,2016-07-07,6150.0,0.5,27.5,clear
+336,Lentil(Masur),Madhoganj,2016-07-07,7250.0,1.0,27.5,clear
+337,Bengal Gram(Gram),Hardoi,2016-08-07,6150.0,2.5,29.0,clear
+338,Bengal Gram(Gram),Madhoganj,2016-08-07,6250.0,1.0,29.0,clear
+339,Lentil(Masur),Madhoganj,2016-08-07,7300.0,1.5,29.0,clear
+340,Bengal Gram(Gram),Hardoi,2016-09-07,6640.0,2.4,32.0,clear
+341,Bengal Gram(Gram),Hardoi,2016-11-07,9600.0,3.0,30.0,clear
+342,Bengal Gram(Gram),Madhoganj,2016-11-07,6500.0,0.5,30.0,clear
+343,Lentil(Masur),Madhoganj,2016-11-07,7450.0,1.0,30.0,clear
+344,Bengal Gram(Gram),Hardoi,2016-12-07,9600.0,3.7,15.0,clear
+345,Bengal Gram(Gram),Hardoi,2016-07-13,6600.0,3.0,31.0,clear
+346,Bengal Gram(Gram),Madhoganj,2016-07-13,6420.0,1.2,31.0,clear
+347,Lentil(Masur),Madhoganj,2016-07-13,7415.0,1.0,31.0,clear
+348,Bengal Gram(Gram),Hardoi,2016-07-14,6500.0,3.0,28.5,clear
+349,Bengal Gram(Gram),Madhoganj,2016-07-14,6440.0,1.0,28.5,clear
+350,Lentil(Masur),Madhoganj,2016-07-14,7425.0,0.8,28.5,clear
+351,Bengal Gram(Gram),Hardoi,2016-07-15,6500.0,2.5,28.5,clear
+352,Bengal Gram(Gram),Madhoganj,2016-07-15,6470.0,1.0,28.5,clear
+353,Lentil(Masur),Madhoganj,2016-07-15,7650.0,0.8,28.5,clear
+354,Bengal Gram(Gram),Hardoi,2016-07-16,6550.0,2.0,27.5,clear
+355,Bengal Gram(Gram),Hardoi,2016-07-18,6550.0,3.0,30.5,clear
+356,Bengal Gram(Gram),Madhoganj,2016-07-18,6475.0,1.0,30.5,clear
+357,Lentil(Masur),Madhoganj,2016-07-18,7650.0,1.5,30.5,clear
+358,Bengal Gram(Gram),Hardoi,2016-07-20,6600.0,2.0,33.5,clear
+359,Bengal Gram(Gram),Madhoganj,2016-07-20,6510.0,0.0,33.5,clear
+360,Lentil(Masur),Madhoganj,2016-07-20,7620.0,1.4,33.5,clear
+361,Bengal Gram(Gram),Hardoi,2016-07-21,6650.0,2.5,34.5,clear
+362,Bengal Gram(Gram),Madhoganj,2016-07-21,6520.0,1.0,34.5,clear
+363,Lentil(Masur),Madhoganj,2016-07-21,7650.0,1.0,34.5,clear
+364,Bengal Gram(Gram),Hardoi,2016-07-22,6650.0,2.0,31.0,clear
+365,Bengal Gram(Gram),Madhoganj,2016-07-22,6525.0,0.0,31.0,clear
+366,Lentil(Masur),Madhoganj,2016-07-22,7450.0,1.5,31.0,clear
+367,Bengal Gram(Gram),Hardoi,2016-07-23,6650.0,8.0,32.0,clear
+368,Bengal Gram(Gram),Hardoi,2016-07-25,6800.0,3.0,27.5,clear
+369,Bengal Gram(Gram),Madhoganj,2016-07-25,6550.0,0.0,27.5,clear
+370,Lentil(Masur),Madhoganj,2016-07-25,7480.0,0.0,27.5,clear
+371,Bengal Gram(Gram),Hardoi,2016-07-26,6800.0,2.5,30.5,clear
+372,Bengal Gram(Gram),Madhoganj,2016-07-26,6525.0,1.0,30.5,clear
+373,Lentil(Masur),Madhoganj,2016-07-26,7440.0,1.0,30.5,clear
+374,Bengal Gram(Gram),Hardoi,2016-07-27,6850.0,2.0,28.0,clear
+375,Bengal Gram(Gram),Madhoganj,2016-07-27,6480.0,0.5,28.0,clear
+376,Lentil(Masur),Madhoganj,2016-07-27,7470.0,0.0,28.0,clear
+377,Bengal Gram(Gram),Hardoi,2016-07-28,6850.0,2.2,30.5,clear
+378,Bengal Gram(Gram),Madhoganj,2016-07-28,6500.0,0.0,30.5,clear
+379,Lentil(Masur),Madhoganj,2016-07-28,7500.0,1.0,30.5,clear
+380,Bengal Gram(Gram),Hardoi,2016-07-29,6860.0,1.7,30.5,clear
+381,Bengal Gram(Gram),Hardoi,2016-07-30,6870.0,1.2,28.5,clear
+382,Bengal Gram(Gram),Hardoi,2016-01-08,6800.0,3.0,23.5,clear
+383,Bengal Gram(Gram),Madhoganj,2016-01-08,6520.0,1.0,23.5,clear
+384,Lentil(Masur),Madhoganj,2016-01-08,7450.0,1.5,23.5,clear
+385,Bengal Gram(Gram),Hardoi,2016-02-08,6800.0,3.6,23.5,clear
+386,Bengal Gram(Gram),Madhoganj,2016-02-08,6480.0,0.8,23.5,clear
+387,Lentil(Masur),Madhoganj,2016-02-08,7520.0,1.0,23.5,clear
+388,Bengal Gram(Gram),Hardoi,2016-04-08,6800.0,2.0,37.5,clear
+389,Bengal Gram(Gram),Madhoganj,2016-04-08,6570.0,0.0,37.5,clear
+390,Lentil(Masur),Madhoganj,2016-04-08,7450.0,1.0,37.5,clear
+391,Bengal Gram(Gram),Hardoi,2016-05-08,6850.0,2.5,25.5,clear
+392,Bengal Gram(Gram),Madhoganj,2016-05-08,6520.0,1.0,25.5,clear
+393,Lentil(Masur),Madhoganj,2016-05-08,7400.0,1.6,25.5,clear
+394,Bengal Gram(Gram),Hardoi,2016-06-08,6870.0,3.4,41.5,clear
+395,Bengal Gram(Gram),Hardoi,2016-09-08,7000.0,2.0,32.5,clear
+396,Bengal Gram(Gram),Madhoganj,2016-09-08,6550.0,0.0,32.5,clear
+397,Lentil(Masur),Madhoganj,2016-09-08,7250.0,1.0,32.5,clear
+398,Bengal Gram(Gram),Hardoi,2016-10-08,7100.0,2.0,30.6,clear
+399,Bengal Gram(Gram),Madhoganj,2016-10-08,6650.0,0.5,30.6,clear
+400,Lentil(Masur),Madhoganj,2016-10-08,7280.0,0.0,30.6,clear
+401,Bengal Gram(Gram),Hardoi,2016-08-18,7200.0,1.2,26.5,clear
+402,Bengal Gram(Gram),Madhoganj,2016-08-18,6725.0,0.8,26.5,clear
+403,Lentil(Masur),Madhoganj,2016-08-18,7300.0,1.0,26.5,clear
+404,Bengal Gram(Gram),Hardoi,2016-08-19,7280.0,3.0,26.5,clear
+405,Bengal Gram(Gram),Madhoganj,2016-08-19,6750.0,0.5,26.5,clear
+406,Lentil(Masur),Madhoganj,2016-08-19,4190.0,0.8,26.5,clear
+407,Bengal Gram(Gram),Hardoi,2016-08-20,7260.0,3.0,29.5,clear
+408,Bengal Gram(Gram),Hardoi,2016-08-22,7260.0,3.0,29.5,clear
+409,Bengal Gram(Gram),Madhoganj,2016-08-22,6710.0,1.5,29.5,clear
+410,Lentil(Masur),Madhoganj,2016-08-22,7350.0,1.0,29.5,clear
+411,Bengal Gram(Gram),Hardoi,2016-08-23,7260.0,2.5,27.0,clear
+412,Bengal Gram(Gram),Madhoganj,2016-08-23,6740.0,0.5,27.0,clear
+413,Lentil(Masur),Madhoganj,2016-08-23,7300.0,1.5,27.0,clear
+414,Bengal Gram(Gram),Hardoi,2016-08-24,7260.0,3.0,29.5,clear
+415,Bengal Gram(Gram),Madhoganj,2016-08-24,6720.0,1.0,29.5,clear
+416,Lentil(Masur),Madhoganj,2016-08-24,7320.0,1.0,29.5,clear
+417,Bengal Gram(Gram),Hardoi,2016-08-26,7250.0,2.4,29.0,clear
+418,Bengal Gram(Gram),Madhoganj,2016-08-26,6750.0,1.0,29.0,clear
+419,Lentil(Masur),Madhoganj,2016-08-26,6850.0,2.0,29.0,clear
+420,Bengal Gram(Gram),Hardoi,2016-08-27,7300.0,3.0,28.5,clear
+421,Bengal Gram(Gram),Hardoi,2016-08-30,7300.0,2.5,33.0,clear
+422,Bengal Gram(Gram),Madhoganj,2016-08-30,7140.0,1.0,33.0,clear
+423,Lentil(Masur),Madhoganj,2016-08-30,6950.0,1.0,33.0,clear
+424,Bengal Gram(Gram),Hardoi,2016-08-31,7350.0,3.0,30.5,clear
+425,Bengal Gram(Gram),Madhoganj,2016-08-31,7150.0,0.5,30.5,clear
+426,Lentil(Masur),Madhoganj,2016-08-31,7050.0,0.5,30.5,clear
+427,Bengal Gram(Gram),Hardoi,2016-01-09,7400.0,3.5,22.5,clear
+428,Bengal Gram(Gram),Madhoganj,2016-01-09,7140.0,1.0,22.5,clear
+429,Lentil(Masur),Madhoganj,2016-01-09,7150.0,1.0,22.5,clear
+430,Bengal Gram(Gram),Hardoi,2016-02-09,7300.0,2.5,22.0,clear
+431,Bengal Gram(Gram),Madhoganj,2016-02-09,7050.0,1.5,22.0,clear
+432,Lentil(Masur),Madhoganj,2016-02-09,7050.0,1.5,22.0,clear
+433,Bengal Gram(Gram),Hardoi,2016-03-09,7300.0,3.0,31.0,clear
+434,Bengal Gram(Gram),Hardoi,2016-05-09,7400.0,2.5,33.0,clear
+435,Bengal Gram(Gram),Madhoganj,2016-05-09,7200.0,1.0,33.0,clear
+436,Lentil(Masur),Madhoganj,2016-05-09,7120.0,2.0,33.0,clear
+437,Bengal Gram(Gram),Hardoi,2016-06-09,7400.0,2.4,42.5,clear
+438,Bengal Gram(Gram),Hardoi,2016-08-09,7500.0,2.0,31.0,clear
+439,Bengal Gram(Gram),Hardoi,2016-09-09,7600.0,2.5,33.0,clear
+440,Bengal Gram(Gram),Madhoganj,2016-09-09,7210.0,0.0,33.0,clear
+441,Lentil(Masur),Madhoganj,2016-09-09,7020.0,0.5,33.0,clear
+442,Bengal Gram(Gram),Hardoi,2016-12-09,7500.0,2.0,17.5,clear
+443,Bengal Gram(Gram),Madhoganj,2016-12-09,7450.0,1.0,17.5,clear
+444,Lentil(Masur),Madhoganj,2016-12-09,7040.0,0.5,17.5,clear
+445,Bengal Gram(Gram),Hardoi,2016-09-13,7700.0,3.0,29.5,clear
+446,Bengal Gram(Gram),Hardoi,2016-09-14,7800.0,1.5,30.0,clear
+447,Bengal Gram(Gram),Madhoganj,2016-09-14,7460.0,1.0,30.0,clear
+448,Bengal Gram(Gram),Hardoi,2016-09-15,8000.0,2.5,30.5,clear
+449,Bengal Gram(Gram),Madhoganj,2016-09-15,7650.0,0.0,30.5,clear
+450,Lentil(Masur),Madhoganj,2016-09-15,7000.0,1.0,30.5,clear
+451,Bengal Gram(Gram),Hardoi,2016-09-16,8000.0,2.4,31.5,clear
+452,Bengal Gram(Gram),Madhoganj,2016-09-16,7650.0,1.0,31.5,clear
+453,Lentil(Masur),Madhoganj,2016-09-16,7025.0,1.5,31.5,clear
+454,Bengal Gram(Gram),Hardoi,2016-09-17,8050.0,2.4,30.5,clear
+455,Bengal Gram(Gram),Hardoi,2016-09-19,8100.0,8.0,32.5,clear
+456,Bengal Gram(Gram),Hardoi,2016-09-20,8125.0,2.0,33.5,clear
+457,Bengal Gram(Gram),Hardoi,2016-09-22,8200.0,2.4,29.5,clear
+458,Bengal Gram(Gram),Hardoi,2016-09-23,8200.0,2.6,30.5,clear
+459,Bengal Gram(Gram),Hardoi,2016-09-24,8250.0,3.0,31.0,clear
+460,Bengal Gram(Gram),Hardoi,2016-09-25,920.0,2.0,30.5,clear
+461,Bengal Gram(Gram),Hardoi,2016-09-26,8300.0,2.0,31.5,clear
+462,Bengal Gram(Gram),Hardoi,2016-09-27,8500.0,3.0,31.0,clear
+463,Bengal Gram(Gram),Hardoi,2016-09-28,8600.0,2.8,30.5,clear
+464,Bengal Gram(Gram),Hardoi,2016-09-29,8700.0,3.2,26.5,clear
+465,Bengal Gram(Gram),Hardoi,2016-01-10,7400.0,3.5,22.0,clear
+466,Bengal Gram(Gram),Hardoi,2016-05-10,8400.0,1.8,38.0,clear
+467,Bengal Gram(Gram),Madhoganj,2016-05-10,8120.0,0.5,38.0,clear
+468,Lentil(Masur),Madhoganj,2016-05-10,7025.0,0.5,38.0,clear
+469,Bengal Gram(Gram),Hardoi,2016-06-10,8350.0,1.9,41.5,clear
+470,Bengal Gram(Gram),Madhoganj,2016-06-10,8150.0,1.0,41.5,clear
+471,Lentil(Masur),Madhoganj,2016-06-10,6900.0,1.0,41.5,clear
+472,Bengal Gram(Gram),Hardoi,2016-07-10,8300.0,2.2,29.5,clear
+473,Bengal Gram(Gram),Madhoganj,2016-07-10,8100.0,1.5,29.5,clear
+474,Lentil(Masur),Madhoganj,2016-07-10,6950.0,0.0,29.5,clear
+475,Bengal Gram(Gram),Hardoi,2016-08-10,8300.0,2.6,30.5,clear
+476,Bengal Gram(Gram),Hardoi,2016-10-10,8300.0,2.0,30.0,clear
+477,Bengal Gram(Gram),Madhoganj,2016-10-10,8500.0,0.0,30.0,clear
+478,Lentil(Masur),Madhoganj,2016-10-10,6750.0,0.0,30.0,clear
+479,Bengal Gram(Gram),Hardoi,2016-11-10,8400.0,1.5,23.5,clear
+480,Bengal Gram(Gram),Madhoganj,2016-11-10,8550.0,0.0,23.5,clear
+481,Lentil(Masur),Madhoganj,2016-11-10,6750.0,1.5,23.5,clear
+482,Bengal Gram(Gram),Hardoi,2016-12-10,8350.0,1.8,17.0,clear
+483,Bengal Gram(Gram),Madhoganj,2016-12-10,8650.0,1.0,17.0,clear
+484,Lentil(Masur),Madhoganj,2016-12-10,6500.0,2.0,17.0,clear
+485,Bengal Gram(Gram),Hardoi,2016-10-13,8550.0,2.0,31.5,clear
+486,Bengal Gram(Gram),Madhoganj,2016-10-13,8700.0,0.5,31.5,clear
+487,Lentil(Masur),Madhoganj,2016-10-13,6500.0,1.0,31.5,clear
+488,Bengal Gram(Gram),Hardoi,2016-10-14,8560.0,1.8,24.5,clear
+489,Bengal Gram(Gram),Madhoganj,2016-10-14,8700.0,0.0,24.5,clear
+490,Lentil(Masur),Madhoganj,2016-10-14,6470.0,1.5,24.5,clear
+491,Bengal Gram(Gram),Hardoi,2016-10-15,8570.0,1.6,31.5,clear
+492,Bengal Gram(Gram),Hardoi,2016-10-17,8600.0,1.5,31.0,clear
+493,Bengal Gram(Gram),Madhoganj,2016-10-17,8750.0,1.0,31.0,clear
+494,Lentil(Masur),Madhoganj,2016-10-17,6420.0,1.0,31.0,clear
+495,Bengal Gram(Gram),Hardoi,2016-10-18,8700.0,1.8,30.0,clear
+496,Bengal Gram(Gram),Madhoganj,2016-10-18,8750.0,0.0,30.0,clear
+497,Lentil(Masur),Madhoganj,2016-10-18,6500.0,0.5,30.0,clear
+498,Bengal Gram(Gram),Hardoi,2016-10-19,8700.0,1.0,31.0,clear
+499,Bengal Gram(Gram),Madhoganj,2016-10-19,8750.0,1.0,31.0,clear
+500,Lentil(Masur),Madhoganj,2016-10-19,6550.0,1.0,31.0,clear
+501,Bengal Gram(Gram),Hardoi,2016-10-20,8730.0,2.5,30.0,clear
+502,Bengal Gram(Gram),Madhoganj,2016-10-20,8720.0,1.5,30.0,clear
+503,Lentil(Masur),Madhoganj,2016-10-20,6550.0,0.0,30.0,clear
+504,Bengal Gram(Gram),Hardoi,2016-10-21,8800.0,2.4,30.5,clear
+505,Bengal Gram(Gram),Madhoganj,2016-10-21,8750.0,0.5,30.5,clear
+506,Lentil(Masur),Madhoganj,2016-10-21,6600.0,0.0,30.5,clear
+507,Bengal Gram(Gram),Hardoi,2016-10-22,8810.0,2.2,30.5,clear
+508,Bengal Gram(Gram),Hardoi,2016-10-24,8810.0,3.0,31.5,clear
+509,Bengal Gram(Gram),Madhoganj,2016-10-24,8700.0,0.5,31.5,clear
+510,Lentil(Masur),Madhoganj,2016-10-24,6300.0,1.0,31.5,clear
+511,Bengal Gram(Gram),Hardoi,2016-10-25,8800.0,3.1,32.5,clear
+512,Bengal Gram(Gram),Madhoganj,2016-10-25,8550.0,1.0,32.5,clear
+513,Lentil(Masur),Madhoganj,2016-10-25,6250.0,1.5,32.5,clear
+514,Bengal Gram(Gram),Hardoi,2016-10-26,8800.0,2.5,33.5,clear
+515,Bengal Gram(Gram),Madhoganj,2016-10-26,8450.0,0.0,33.5,clear
+516,Lentil(Masur),Madhoganj,2016-10-26,6250.0,1.0,33.5,clear
+517,Bengal Gram(Gram),Hardoi,2016-10-27,8810.0,2.4,32.0,clear
+518,Bengal Gram(Gram),Madhoganj,2016-10-27,8450.0,1.0,32.0,clear
+519,Lentil(Masur),Madhoganj,2016-10-27,6350.0,1.0,32.0,clear
+520,Bengal Gram(Gram),Hardoi,2016-10-29,8900.0,2.0,32.0,clear
+521,Bengal Gram(Gram),Hardoi,2016-02-11,8850.0,2.0,21.5,clear
+522,Bengal Gram(Gram),Madhoganj,2016-02-11,8500.0,1.5,21.5,clear
+523,Lentil(Masur),Madhoganj,2016-02-11,6550.0,2.0,21.5,clear
+524,Bengal Gram(Gram),Hardoi,2016-03-11,8860.0,1.0,33.0,clear
+525,Bengal Gram(Gram),Madhoganj,2016-03-11,8450.0,1.0,33.0,clear
+526,Lentil(Masur),Madhoganj,2016-03-11,6600.0,1.0,33.0,clear
+527,Bengal Gram(Gram),Hardoi,2016-04-11,8830.0,2.5,38.0,clear
+528,Bengal Gram(Gram),Madhoganj,2016-04-11,8600.0,0.5,38.0,clear
+529,Lentil(Masur),Madhoganj,2016-04-11,6750.0,0.5,38.0,clear
+530,Bengal Gram(Gram),Hardoi,2016-05-11,8855.0,2.0,38.0,clear
+531,Bengal Gram(Gram),Hardoi,2016-07-11,8875.0,1.5,29.5,clear
+532,Bengal Gram(Gram),Madhoganj,2016-07-11,8700.0,0.0,29.5,clear
+533,Lentil(Masur),Madhoganj,2016-07-11,6800.0,0.5,29.5,clear
+534,Bengal Gram(Gram),Hardoi,2016-08-11,8870.0,1.8,30.0,clear
+535,Bengal Gram(Gram),Madhoganj,2016-08-11,8650.0,1.0,30.0,clear
+536,Lentil(Masur),Madhoganj,2016-08-11,6750.0,0.0,30.0,clear
+537,Bengal Gram(Gram),Hardoi,2016-09-11,8890.0,1.6,33.0,clear
+538,Bengal Gram(Gram),Madhoganj,2016-09-11,8700.0,0.0,33.0,clear
+539,Lentil(Masur),Madhoganj,2016-09-11,6700.0,1.0,33.0,clear
+540,Bengal Gram(Gram),Hardoi,2016-10-11,8870.0,1.8,31.0,clear
+541,Bengal Gram(Gram),Madhoganj,2016-10-11,8750.0,0.5,31.0,clear
+542,Lentil(Masur),Madhoganj,2016-10-11,6750.0,0.5,31.0,clear
+543,Bengal Gram(Gram),Hardoi,2016-11-11,8870.0,2.0,17.5,clear
+544,Bengal Gram(Gram),Hardoi,2016-12-11,8880.0,1.4,17.0,clear
+545,Bengal Gram(Gram),Hardoi,2016-11-15,8900.0,1.0,27.0,clear
+546,Bengal Gram(Gram),Madhoganj,2016-11-15,8700.0,1.0,27.0,clear
+547,Lentil(Masur),Madhoganj,2016-11-15,6520.0,0.8,27.0,clear
+548,Bengal Gram(Gram),Hardoi,2016-11-16,8880.0,1.1,17.5,clear
+549,Bengal Gram(Gram),Madhoganj,2016-11-16,8700.0,0.5,17.5,clear
+550,Lentil(Masur),Madhoganj,2016-11-16,6650.0,0.5,17.5,clear
+551,Bengal Gram(Gram),Hardoi,2016-11-17,8860.0,1.0,27.0,clear
+552,Bengal Gram(Gram),Hardoi,2016-11-19,9000.0,1.5,26.2,clear
+553,Bengal Gram(Gram),Hardoi,2016-11-21,8950.0,1.6,25.5,clear
+554,Bengal Gram(Gram),Madhoganj,2016-11-21,8850.0,1.0,25.5,clear
+555,Lentil(Masur),Madhoganj,2016-11-21,6750.0,0.5,25.5,clear
+556,Bengal Gram(Gram),Hardoi,2016-11-22,8950.0,1.6,26.0,clear
+557,Bengal Gram(Gram),Madhoganj,2016-11-22,8900.0,0.5,26.0,clear
+558,Lentil(Masur),Madhoganj,2016-11-22,6750.0,0.5,26.0,clear
+559,Bengal Gram(Gram),Hardoi,2016-11-23,8930.0,1.8,25.7,clear
+560,Bengal Gram(Gram),Madhoganj,2016-11-23,8950.0,0.0,25.7,clear
+561,Lentil(Masur),Madhoganj,2016-11-23,6750.0,0.2,25.7,clear
+562,Bengal Gram(Gram),Hardoi,2016-11-24,8950.0,1.6,25.0,clear
+563,Bengal Gram(Gram),Hardoi,2016-11-25,8900.0,1.8,24.5,clear
+564,Bengal Gram(Gram),Madhoganj,2016-11-25,8950.0,1.0,24.5,clear
+565,Lentil(Masur),Madhoganj,2016-11-25,6720.0,0.5,24.5,clear
+566,Bengal Gram(Gram),Hardoi,2016-11-26,2240.0,160.0,27.0,clear
+567,Bengal Gram(Gram),Hardoi,2016-11-29,9800.0,11.0,26.0,clear
+568,Bengal Gram(Gram),Madhoganj,2016-11-29,9050.0,0.2,26.0,clear
+569,Lentil(Masur),Madhoganj,2016-11-29,6500.0,1.0,26.0,clear
+570,Bengal Gram(Gram),Hardoi,2016-01-12,9720.0,2.0,23.5,clear
+571,Bengal Gram(Gram),Madhoganj,2016-01-12,9050.0,1.0,23.5,clear
+572,Lentil(Masur),Madhoganj,2016-01-12,6450.0,1.0,23.5,clear
+573,Bengal Gram(Gram),Hardoi,2016-02-12,9720.0,1.5,24.0,clear
+574,Bengal Gram(Gram),Madhoganj,2016-02-12,9050.0,0.5,24.0,clear
+575,Lentil(Masur),Madhoganj,2016-02-12,6450.0,0.5,24.0,clear
+576,Bengal Gram(Gram),Hardoi,2016-03-12,9800.0,1.0,27.4,clear
+577,Bengal Gram(Gram),Hardoi,2016-05-12,9800.0,1.2,40.5,clear
+578,Bengal Gram(Gram),Madhoganj,2016-05-12,9100.0,0.5,40.5,clear
+579,Lentil(Masur),Madhoganj,2016-05-12,6540.0,0.5,40.5,clear
+580,Bengal Gram(Gram),Hardoi,2016-06-12,9800.0,1.7,41.0,clear
+581,Bengal Gram(Gram),Madhoganj,2016-06-12,9050.0,0.2,41.0,clear
+582,Lentil(Masur),Madhoganj,2016-06-12,6550.0,0.2,41.0,clear
+583,Bengal Gram(Gram),Hardoi,2016-07-12,9750.0,2.2,29.0,clear
+584,Bengal Gram(Gram),Madhoganj,2016-07-12,9050.0,0.5,29.0,clear
+585,Lentil(Masur),Madhoganj,2016-07-12,6650.0,0.4,29.0,clear
+586,Bengal Gram(Gram),Hardoi,2016-08-12,9750.0,2.5,30.5,clear
+587,Bengal Gram(Gram),Hardoi,2016-09-12,9750.0,11.0,32.5,clear
+588,Bengal Gram(Gram),Madhoganj,2016-09-12,9125.0,0.5,32.5,clear
+589,Lentil(Masur),Madhoganj,2016-09-12,6650.0,0.5,32.5,clear
+590,Bengal Gram(Gram),Hardoi,2016-10-12,9850.0,1.3,31.5,clear
+591,Bengal Gram(Gram),Hardoi,2016-12-12,9780.0,2.0,19.0,clear
+592,Bengal Gram(Gram),Madhoganj,2016-12-12,9100.0,1.0,19.0,clear
+593,Lentil(Masur),Madhoganj,2016-12-12,6750.0,0.5,19.0,clear
+594,Bengal Gram(Gram),Hardoi,2016-12-13,9770.0,2.0,19.5,clear
+595,Bengal Gram(Gram),Madhoganj,2016-12-13,9020.0,0.5,19.5,clear
+596,Lentil(Masur),Madhoganj,2016-12-13,6750.0,1.0,19.5,clear
+597,Bengal Gram(Gram),Hardoi,2016-12-14,9720.0,2.2,19.5,clear
+598,Bengal Gram(Gram),Hardoi,2016-12-15,9500.0,1.0,21.0,clear
+599,Bengal Gram(Gram),Madhoganj,2016-12-15,9050.0,1.0,21.0,clear
+600,Lentil(Masur),Madhoganj,2016-12-15,6750.0,0.5,21.0,clear
+601,Bengal Gram(Gram),Hardoi,2016-12-17,9400.0,1.3,22.0,clear
+602,Bengal Gram(Gram),Hardoi,2016-12-19,9350.0,1.5,12.5,clear
+603,Bengal Gram(Gram),Madhoganj,2016-12-19,9100.0,0.2,12.5,clear
+604,Lentil(Masur),Madhoganj,2016-12-19,6750.0,0.5,12.5,clear
+605,Bengal Gram(Gram),Hardoi,2016-12-21,9340.0,1.6,22.0,clear
+606,Bengal Gram(Gram),Madhoganj,2016-12-21,9050.0,1.0,22.0,clear
+607,Lentil(Masur),Madhoganj,2016-12-21,6800.0,0.5,22.0,clear
+608,Bengal Gram(Gram),Hardoi,2016-12-22,9320.0,1.5,21.5,clear
+609,Bengal Gram(Gram),Madhoganj,2016-12-22,9050.0,0.5,21.5,clear
+610,Lentil(Masur),Madhoganj,2016-12-22,6800.0,1.0,21.5,clear
+611,Bengal Gram(Gram),Hardoi,2016-12-24,9340.0,2.0,22.0,clear
+612,Bengal Gram(Gram),Hardoi,2016-12-26,9350.0,1.5,20.0,clear
+613,Bengal Gram(Gram),Madhoganj,2016-12-26,9050.0,1.0,20.0,clear
+614,Lentil(Masur),Madhoganj,2016-12-26,6820.0,1.0,20.0,clear
+615,Bengal Gram(Gram),Hardoi,2016-12-27,9340.0,1.0,20.0,clear
+616,Bengal Gram(Gram),Madhoganj,2016-12-27,9025.0,0.5,20.0,clear
+617,Lentil(Masur),Madhoganj,2016-12-27,6850.0,0.5,20.0,clear
+618,Bengal Gram(Gram),Hardoi,2016-12-28,9320.0,1.2,12.5,clear
+619,Bengal Gram(Gram),Madhoganj,2016-12-28,9040.0,0.2,12.5,clear
+620,Lentil(Masur),Madhoganj,2016-12-28,6800.0,1.0,12.5,clear
+621,Bengal Gram(Gram),Hardoi,2016-12-29,9220.0,1.4,16.0,clear
+622,Bengal Gram(Gram),Madhoganj,2016-12-29,9050.0,0.5,16.0,clear
+623,Lentil(Masur),Madhoganj,2016-12-29,6800.0,0.5,16.0,clear
+624,Bengal Gram(Gram),Madhoganj,2016-03-01,4925.0,1.0,29.0,clear
+625,Lentil(Masur),Madhoganj,2016-03-01,7220.0,2.0,29.0,clear
+626,Bengal Gram(Gram),Madhoganj,2016-04-01,4930.0,2.5,37.0,clear
+627,Lentil(Masur),Madhoganj,2016-04-01,7200.0,2.5,37.0,clear
+628,Bengal Gram(Gram),Madhoganj,2016-05-01,4950.0,1.5,42.0,clear
+629,Lentil(Masur),Madhoganj,2016-05-01,7210.0,2.0,42.0,clear
+630,Bengal Gram(Gram),Madhoganj,2016-06-01,4950.0,2.5,38.5,clear
+631,Lentil(Masur),Madhoganj,2016-06-01,7250.0,1.5,38.5,clear
+632,Bengal Gram(Gram),Madhoganj,2016-08-01,4920.0,2.4,28.5,clear
+633,Lentil(Masur),Madhoganj,2016-08-01,7280.0,2.0,28.5,clear
+634,Bengal Gram(Gram),Madhoganj,2016-10-01,4925.0,2.8,29.5,clear
+635,Lentil(Masur),Madhoganj,2016-10-01,7280.0,4.0,29.5,clear
+636,Bengal Gram(Gram),Madhoganj,2016-01-14,4970.0,1.2,22.5,clear
+637,Lentil(Masur),Madhoganj,2016-01-14,7300.0,1.5,22.5,clear
+638,Bengal Gram(Gram),Madhoganj,2016-01-15,4950.0,1.8,18.1,clear
+639,Lentil(Masur),Madhoganj,2016-01-15,7280.0,2.5,18.1,clear
+640,Bengal Gram(Gram),Madhoganj,2016-01-17,4970.0,1.5,17.0,clear
+641,Lentil(Masur),Madhoganj,2016-01-17,7250.0,3.0,17.0,clear
+642,Bengal Gram(Gram),Madhoganj,2016-01-18,4975.0,2.5,18.0,clear
+643,Lentil(Masur),Madhoganj,2016-01-18,7240.0,3.5,18.0,clear
+644,Bengal Gram(Gram),Madhoganj,2016-01-19,5025.0,2.0,9.0,clear
+645,Lentil(Masur),Madhoganj,2016-01-19,7300.0,2.0,9.0,clear
+646,Bengal Gram(Gram),Madhoganj,2016-01-21,5050.0,1.0,14.5,clear
+647,Lentil(Masur),Madhoganj,2016-01-21,7350.0,1.0,14.5,clear
+648,Bengal Gram(Gram),Madhoganj,2016-01-22,5050.0,1.5,16.5,clear
+649,Lentil(Masur),Madhoganj,2016-01-22,7320.0,2.0,16.5,clear
+650,Bengal Gram(Gram),Madhoganj,2016-01-24,5050.0,2.0,18.5,clear
+651,Lentil(Masur),Madhoganj,2016-01-24,7340.0,1.6,18.5,clear
+652,Bengal Gram(Gram),Madhoganj,2016-01-31,5150.0,1.5,25.5,clear
+653,Lentil(Masur),Madhoganj,2016-01-31,7350.0,1.5,25.5,clear
+654,Bengal Gram(Gram),Madhoganj,2016-07-02,5175.0,1.5,30.5,clear
+655,Lentil(Masur),Madhoganj,2016-07-02,7300.0,2.5,30.5,clear
+656,Bengal Gram(Gram),Madhoganj,2016-10-02,5200.0,2.0,30.5,clear
+657,Lentil(Masur),Madhoganj,2016-10-02,7340.0,2.0,30.5,clear
+658,Bengal Gram(Gram),Madhoganj,2016-02-21,5150.0,2.5,26.0,clear
+659,Lentil(Masur),Madhoganj,2016-02-21,6750.0,2.5,26.0,clear
+660,Bengal Gram(Gram),Madhoganj,2016-02-24,5200.0,1.5,28.0,clear
+661,Lentil(Masur),Madhoganj,2016-02-24,6800.0,2.0,28.0,clear
+662,Bengal Gram(Gram),Madhoganj,2016-02-25,5180.0,1.0,28.0,clear
+663,Lentil(Masur),Madhoganj,2016-02-25,6750.0,2.5,28.0,clear
+664,Bengal Gram(Gram),Madhoganj,2016-02-26,5140.0,2.5,27.5,clear
+665,Lentil(Masur),Madhoganj,2016-02-26,6750.0,1.0,27.5,clear
+666,Bengal Gram(Gram),Madhoganj,2016-02-28,5200.0,2.0,28.5,clear
+667,Lentil(Masur),Madhoganj,2016-02-28,6500.0,2.0,28.5,clear
+668,Bengal Gram(Gram),Madhoganj,2016-02-29,5250.0,1.0,29.0,clear
+669,Lentil(Masur),Madhoganj,2016-02-29,6450.0,4.0,29.0,clear
+670,Bengal Gram(Gram),Madhoganj,2016-06-03,5230.0,2.5,42.0,clear
+671,Lentil(Masur),Madhoganj,2016-06-03,6450.0,3.0,42.0,clear
+672,Bengal Gram(Gram),Madhoganj,2016-03-13,5250.0,2.0,30.0,clear
+673,Lentil(Masur),Madhoganj,2016-03-13,6350.0,1.5,30.0,clear
+674,Bengal Gram(Gram),Madhoganj,2016-03-25,5100.0,1.0,35.5,clear
+675,Lentil(Masur),Madhoganj,2016-03-25,6400.0,1.0,35.5,clear
+676,Bengal Gram(Gram),Madhoganj,2016-03-27,5050.0,0.8,31.0,clear
+677,Lentil(Masur),Madhoganj,2016-03-27,6400.0,0.6,31.0,clear
+678,Bengal Gram(Gram),Madhoganj,2016-03-04,5125.0,1.0,31.5,clear
+679,Lentil(Masur),Madhoganj,2016-03-04,6200.0,8.0,31.5,clear
+680,Bengal Gram(Gram),Madhoganj,2016-10-04,5150.0,1.0,34.5,clear
+681,Lentil(Masur),Madhoganj,2016-10-04,6180.0,11.5,34.5,clear
+682,Bengal Gram(Gram),Madhoganj,2016-04-17,5250.0,1.0,38.0,clear
+683,Lentil(Masur),Madhoganj,2016-04-17,6900.0,9.0,38.0,clear
+684,Bengal Gram(Gram),Madhoganj,2016-04-21,5350.0,1.0,39.5,clear
+685,Lentil(Masur),Madhoganj,2016-04-21,7250.0,6.0,39.5,clear
+686,Bengal Gram(Gram),Madhoganj,2016-04-24,5400.0,1.0,39.5,clear
+687,Lentil(Masur),Madhoganj,2016-04-24,7240.0,12.0,39.5,clear
+688,Bengal Gram(Gram),Madhoganj,2016-04-26,5650.0,1.0,40.0,clear
+689,Lentil(Masur),Madhoganj,2016-04-26,7200.0,10.5,40.0,clear
+690,Bengal Gram(Gram),Madhoganj,2016-04-27,6050.0,0.8,41.0,clear
+691,Lentil(Masur),Madhoganj,2016-04-27,7200.0,16.5,41.0,clear
+692,Bengal Gram(Gram),Madhoganj,2016-04-28,6150.0,1.0,39.5,clear
+693,Lentil(Masur),Madhoganj,2016-04-28,7150.0,20.5,39.5,clear
+694,Bengal Gram(Gram),Madhoganj,2016-04-29,6150.0,1.5,40.5,clear
+695,Lentil(Masur),Madhoganj,2016-04-29,7160.0,17.0,40.5,clear
+696,Bengal Gram(Gram),Madhoganj,2016-01-05,6200.0,1.0,21.5,clear
+697,Lentil(Masur),Madhoganj,2016-01-05,7150.0,10.5,21.5,clear
+698,Bengal Gram(Gram),Madhoganj,2016-03-05,6125.0,2.0,22.0,clear
+699,Lentil(Masur),Madhoganj,2016-03-05,7140.0,4.0,22.0,clear
+700,Bengal Gram(Gram),Madhoganj,2016-08-05,6300.0,2.0,32.5,clear
+701,Lentil(Masur),Madhoganj,2016-08-05,7050.0,6.0,32.5,clear
+702,Bengal Gram(Gram),Madhoganj,2016-05-15,6600.0,1.0,41.5,clear
+703,Lentil(Masur),Madhoganj,2016-05-15,7300.0,1.0,41.5,clear
+704,Bengal Gram(Gram),Madhoganj,2016-05-22,6100.0,2.5,43.5,clear
+705,Lentil(Masur),Madhoganj,2016-05-22,7050.0,4.0,43.5,clear
+706,Bengal Gram(Gram),Madhoganj,2016-05-29,6100.0,1.0,39.5,clear
+707,Lentil(Masur),Madhoganj,2016-05-29,7050.0,2.5,39.5,clear
+708,Bengal Gram(Gram),Madhoganj,2016-05-31,6050.0,1.0,36.5,clear
+709,Lentil(Masur),Madhoganj,2016-05-31,7125.0,2.5,36.5,clear
+710,Bengal Gram(Gram),Madhoganj,2016-01-06,6070.0,2.0,21.5,clear
+711,Lentil(Masur),Madhoganj,2016-01-06,7150.0,2.0,21.5,clear
+712,Bengal Gram(Gram),Madhoganj,2016-02-06,5850.0,2.5,12.0,clear
+713,Lentil(Masur),Madhoganj,2016-02-06,7050.0,2.5,12.0,clear
+714,Bengal Gram(Gram),Madhoganj,2016-05-06,5950.0,1.0,34.0,clear
+715,Lentil(Masur),Madhoganj,2016-05-06,7025.0,2.0,34.0,clear
+716,Bengal Gram(Gram),Madhoganj,2016-12-06,5780.0,2.5,21.5,clear
+717,Lentil(Masur),Madhoganj,2016-12-06,7125.0,1.5,21.5,clear
+718,Bengal Gram(Gram),Madhoganj,2016-03-07,5960.0,2.0,29.5,clear
+719,Lentil(Masur),Madhoganj,2016-03-07,7170.0,2.0,29.5,clear
+720,Bengal Gram(Gram),Madhoganj,2016-10-07,6450.0,1.5,30.5,clear
+721,Lentil(Masur),Madhoganj,2016-10-07,7400.0,2.0,30.5,clear
+722,Bengal Gram(Gram),Madhoganj,2016-07-17,6425.0,1.5,25.5,clear
+723,Lentil(Masur),Madhoganj,2016-07-17,7640.0,1.0,25.5,clear
+724,Bengal Gram(Gram),Madhoganj,2016-07-24,6540.0,1.0,30.5,clear
+725,Lentil(Masur),Madhoganj,2016-07-24,7425.0,1.0,30.5,clear
+726,Bengal Gram(Gram),Madhoganj,2016-07-31,6500.0,2.0,27.0,clear
+727,Lentil(Masur),Madhoganj,2016-07-31,7425.0,1.0,27.0,clear
+728,Bengal Gram(Gram),Madhoganj,2016-03-08,6525.0,0.5,30.5,clear
+729,Lentil(Masur),Madhoganj,2016-03-08,7540.0,0.8,30.5,clear
+730,Bengal Gram(Gram),Madhoganj,2016-07-08,6540.0,0.0,30.5,clear
+731,Lentil(Masur),Madhoganj,2016-07-08,7300.0,1.8,30.5,clear
+732,Bengal Gram(Gram),Madhoganj,2016-08-08,6500.0,1.0,27.0,clear
+733,Lentil(Masur),Madhoganj,2016-08-08,7250.0,1.5,27.0,clear
+734,Bengal Gram(Gram),Madhoganj,2016-11-08,6650.0,1.0,24.0,clear
+735,Lentil(Masur),Madhoganj,2016-11-08,7300.0,1.0,24.0,clear
+736,Bengal Gram(Gram),Madhoganj,2016-12-08,6670.0,1.5,17.5,clear
+737,Lentil(Masur),Madhoganj,2016-12-08,7320.0,1.5,17.5,clear
+738,Bengal Gram(Gram),Madhoganj,2016-08-14,6680.0,1.0,28.0,clear
+739,Lentil(Masur),Madhoganj,2016-08-14,7340.0,1.0,28.0,clear
+740,Bengal Gram(Gram),Madhoganj,2016-08-16,6700.0,0.5,28.0,clear
+741,Lentil(Masur),Madhoganj,2016-08-16,7350.0,0.8,28.0,clear
+742,Bengal Gram(Gram),Madhoganj,2016-08-17,6720.0,1.0,26.5,clear
+743,Lentil(Masur),Madhoganj,2016-08-17,7340.0,1.5,26.5,clear
+744,Bengal Gram(Gram),Madhoganj,2016-08-21,6740.0,1.0,30.0,clear
+745,Lentil(Masur),Madhoganj,2016-08-21,7350.0,0.5,30.0,clear
+746,Bengal Gram(Gram),Madhoganj,2016-08-25,6750.0,0.0,30.0,clear
+747,Lentil(Masur),Madhoganj,2016-08-25,7050.0,1.5,30.0,clear
+748,Bengal Gram(Gram),Madhoganj,2016-08-28,7050.0,0.5,31.0,clear
+749,Lentil(Masur),Madhoganj,2016-08-28,7050.0,1.0,31.0,clear
+750,Bengal Gram(Gram),Madhoganj,2016-08-29,7150.0,0.0,29.5,clear
+751,Lentil(Masur),Madhoganj,2016-08-29,6850.0,2.0,29.5,clear
+752,Bengal Gram(Gram),Madhoganj,2016-04-09,7200.0,0.5,37.5,clear
+753,Lentil(Masur),Madhoganj,2016-04-09,7150.0,1.8,37.5,clear
+754,Bengal Gram(Gram),Madhoganj,2016-11-09,7450.0,0.0,24.0,clear
+755,Lentil(Masur),Madhoganj,2016-11-09,7025.0,1.0,24.0,clear
+756,Bengal Gram(Gram),Madhoganj,2016-02-10,8100.0,0.5,22.0,clear
+757,Lentil(Masur),Madhoganj,2016-02-10,7050.0,1.5,22.0,clear
+758,Bengal Gram(Gram),Madhoganj,2016-03-10,8100.0,1.0,30.5,clear
+759,Lentil(Masur),Madhoganj,2016-03-10,7100.0,1.0,30.5,clear
+760,Bengal Gram(Gram),Madhoganj,2016-04-10,8150.0,0.0,39.0,clear
+761,Lentil(Masur),Madhoganj,2016-04-10,6900.0,1.0,39.0,clear
+762,Bengal Gram(Gram),Madhoganj,2016-09-10,8450.0,1.0,32.5,clear
+763,Lentil(Masur),Madhoganj,2016-09-10,6850.0,1.0,32.5,clear
+764,Bengal Gram(Gram),Madhoganj,2016-10-16,8750.0,0.0,24.0,clear
+765,Lentil(Masur),Madhoganj,2016-10-16,6450.0,0.5,24.0,clear
+766,Bengal Gram(Gram),Madhoganj,2016-10-23,8650.0,1.0,31.0,clear
+767,Lentil(Masur),Madhoganj,2016-10-23,6450.0,1.5,31.0,clear
+768,Bengal Gram(Gram),Madhoganj,2016-10-28,8550.0,0.5,32.5,clear
+769,Lentil(Masur),Madhoganj,2016-10-28,6450.0,1.5,32.5,clear
+770,Bengal Gram(Gram),Madhoganj,2016-06-11,8650.0,0.0,42.5,clear
+771,Lentil(Masur),Madhoganj,2016-06-11,6750.0,0.0,42.5,clear
+772,Bengal Gram(Gram),Madhoganj,2016-11-13,8750.0,0.5,26.5,clear
+773,Lentil(Masur),Madhoganj,2016-11-13,6500.0,0.5,26.5,clear
+774,Bengal Gram(Gram),Madhoganj,2016-11-20,8850.0,0.0,17.0,clear
+775,Lentil(Masur),Madhoganj,2016-11-20,6750.0,0.0,17.0,clear
+776,Bengal Gram(Gram),Madhoganj,2016-11-27,8950.0,0.5,25.0,clear
+777,Lentil(Masur),Madhoganj,2016-11-27,6500.0,0.2,25.0,clear
+778,Bengal Gram(Gram),Madhoganj,2016-11-30,9050.0,0.5,23.0,clear
+779,Lentil(Masur),Madhoganj,2016-11-30,6450.0,1.5,23.0,clear
+780,Bengal Gram(Gram),Madhoganj,2016-04-12,9100.0,0.2,36.0,clear
+781,Lentil(Masur),Madhoganj,2016-04-12,6450.0,0.2,36.0,clear
+782,Bengal Gram(Gram),Madhoganj,2016-11-12,9100.0,0.5,26.0,clear
+783,Lentil(Masur),Madhoganj,2016-11-12,6650.0,1.0,26.0,clear
+784,Bengal Gram(Gram),Madhoganj,2016-12-18,9070.0,0.5,22.5,clear
+785,Lentil(Masur),Madhoganj,2016-12-18,6750.0,1.0,22.5,clear
+786,Bengal Gram(Gram),Madhoganj,2016-12-20,9100.0,0.5,22.0,clear
+787,Lentil(Masur),Madhoganj,2016-12-20,6725.0,1.0,22.0,clear
+788,Bengal Gram(Gram),Madhoganj,2016-12-23,9050.0,1.0,21.0,clear
+789,Lentil(Masur),Madhoganj,2016-12-23,6800.0,0.5,21.0,clear
+790,Bengal Gram(Gram),Madhoganj,2016-12-25,9050.0,2.0,23.0,clear
+791,Lentil(Masur),Madhoganj,2016-12-25,6820.0,0.8,23.0,clear
+792,Lentil(Masur),Madhoganj,2016-03-30,6300.0,9.8,33.0,clear
+793,Bengal Gram(Gram),Hardoi,2017-02-01,9120.0,1.0,24.0,clear
+794,Bengal Gram(Gram),Madhoganj,2017-02-01,9050.0,1.0,24.0,clear
+795,Lentil(Masur),Madhoganj,2017-02-01,6850.0,1.0,24.0,clear
+796,Bengal Gram(Gram),Hardoi,2017-04-01,9140.0,1.5,40.5,clear
+797,Bengal Gram(Gram),Madhoganj,2017-04-01,9100.0,1.0,40.5,clear
+798,Lentil(Masur),Madhoganj,2017-04-01,6750.0,1.0,40.5,clear
+799,Bengal Gram(Gram),Hardoi,2017-05-01,9150.0,1.8,26.5,clear
+800,Bengal Gram(Gram),Madhoganj,2017-05-01,9100.0,0.5,26.5,clear
+801,Lentil(Masur),Madhoganj,2017-05-01,6750.0,0.5,26.5,clear
+802,Bengal Gram(Gram),Hardoi,2017-06-01,9150.0,1.6,39.5,clear
+803,Bengal Gram(Gram),Madhoganj,2017-06-01,9050.0,1.0,39.5,clear
+804,Lentil(Masur),Madhoganj,2017-06-01,6800.0,0.8,39.5,clear
+805,Bengal Gram(Gram),Hardoi,2017-07-01,9160.0,1.5,34.0,clear
+806,Bengal Gram(Gram),Hardoi,2017-09-01,9100.0,1.0,31.0,clear
+807,Bengal Gram(Gram),Madhoganj,2017-09-01,9050.0,0.2,31.0,clear
+808,Lentil(Masur),Madhoganj,2017-09-01,6850.0,1.0,31.0,clear
+809,Bengal Gram(Gram),Hardoi,2017-10-01,9100.0,1.2,34.5,clear
+810,Bengal Gram(Gram),Madhoganj,2017-10-01,9100.0,1.0,34.5,clear
+811,Lentil(Masur),Madhoganj,2017-10-01,6850.0,0.5,34.5,clear
+812,Bengal Gram(Gram),Hardoi,2017-11-01,9120.0,1.4,31.0,clear
+813,Bengal Gram(Gram),Madhoganj,2017-11-01,9050.0,0.5,31.0,clear
+814,Lentil(Masur),Madhoganj,2017-11-01,6850.0,1.0,31.0,clear
+815,Bengal Gram(Gram),Hardoi,2017-12-01,8700.0,1.6,26.0,clear
+816,Bengal Gram(Gram),Madhoganj,2017-12-01,9100.0,0.2,26.0,clear
+817,Lentil(Masur),Madhoganj,2017-12-01,6850.0,0.5,26.0,clear
+818,Bengal Gram(Gram),Hardoi,2017-01-13,8620.0,1.8,16.0,clear
+819,Bengal Gram(Gram),Madhoganj,2017-01-13,9100.0,0.5,16.0,clear
+820,Lentil(Masur),Madhoganj,2017-01-13,6850.0,0.2,16.0,clear
+821,Bengal Gram(Gram),Hardoi,2017-01-14,8620.0,2.1,17.0,clear
+822,Bengal Gram(Gram),Hardoi,2017-01-16,8650.0,2.0,12.0,clear
+823,Bengal Gram(Gram),Madhoganj,2017-01-16,9100.0,0.5,12.0,clear
+824,Lentil(Masur),Madhoganj,2017-01-16,6850.0,0.5,12.0,clear
+825,Bengal Gram(Gram),Hardoi,2017-01-17,8660.0,1.8,20.5,clear
+826,Bengal Gram(Gram),Madhoganj,2017-01-17,9050.0,0.2,20.5,clear
+827,Lentil(Masur),Madhoganj,2017-01-17,6800.0,1.0,20.5,clear
+828,Bengal Gram(Gram),Hardoi,2017-01-18,8640.0,2.2,21.0,clear
+829,Bengal Gram(Gram),Madhoganj,2017-01-18,9025.0,0.5,21.0,clear
+830,Lentil(Masur),Madhoganj,2017-01-18,6750.0,0.5,21.0,clear
+831,Bengal Gram(Gram),Hardoi,2017-01-19,8660.0,2.0,21.5,clear
+832,Bengal Gram(Gram),Madhoganj,2017-01-19,9100.0,0.0,21.5,clear
+833,Lentil(Masur),Madhoganj,2017-01-19,6750.0,0.2,21.5,clear
+834,Bengal Gram(Gram),Hardoi,2017-01-20,8600.0,2.2,10.5,clear
+835,Bengal Gram(Gram),Madhoganj,2017-01-20,9025.0,0.5,10.5,clear
+836,Lentil(Masur),Madhoganj,2017-01-20,6800.0,0.8,10.5,clear
+837,Bengal Gram(Gram),Hardoi,2017-01-21,8500.0,2.6,20.5,clear
+838,Bengal Gram(Gram),Hardoi,2017-01-24,8420.0,2.4,23.5,clear
+839,Bengal Gram(Gram),Madhoganj,2017-01-24,9025.0,0.2,23.5,clear
+840,Lentil(Masur),Madhoganj,2017-01-24,6850.0,0.5,23.5,clear
+841,Bengal Gram(Gram),Hardoi,2017-01-25,8450.0,2.2,24.5,clear
+842,Bengal Gram(Gram),Madhoganj,2017-01-25,9050.0,0.5,24.5,clear
+843,Lentil(Masur),Madhoganj,2017-01-25,6850.0,0.3,24.5,clear
+844,Bengal Gram(Gram),Hardoi,2017-01-28,8550.0,2.4,20.5,clear
+845,Bengal Gram(Gram),Hardoi,2017-01-29,8560.0,1.8,20.0,clear
+846,Bengal Gram(Gram),Madhoganj,2017-01-29,9050.0,0.5,20.0,clear
+847,Lentil(Masur),Madhoganj,2017-01-29,6750.0,0.5,20.0,clear
+848,Bengal Gram(Gram),Hardoi,2017-01-31,8540.0,2.0,24.0,clear
+849,Bengal Gram(Gram),Madhoganj,2017-01-31,9100.0,0.0,24.0,clear
+850,Lentil(Masur),Madhoganj,2017-01-31,6750.0,0.5,24.0,clear
+851,Bengal Gram(Gram),Hardoi,2017-01-02,8520.0,2.0,17.0,clear
+852,Bengal Gram(Gram),Madhoganj,2017-01-02,9050.0,0.5,17.0,clear
+853,Lentil(Masur),Madhoganj,2017-01-02,6850.0,0.2,17.0,clear
+854,Bengal Gram(Gram),Hardoi,2017-02-02,8520.0,2.2,23.5,clear
+855,Bengal Gram(Gram),Madhoganj,2017-02-02,9050.0,0.2,23.5,clear
+856,Lentil(Masur),Madhoganj,2017-02-02,6820.0,0.5,23.5,clear
+857,Bengal Gram(Gram),Hardoi,2017-03-02,8500.0,2.4,30.5,clear
+858,Bengal Gram(Gram),Madhoganj,2017-03-02,9050.0,0.6,30.5,clear
+859,Lentil(Masur),Madhoganj,2017-03-02,6825.0,1.0,30.5,clear
+860,Bengal Gram(Gram),Hardoi,2017-04-02,8450.0,2.5,41.0,clear
+861,Bengal Gram(Gram),Hardoi,2017-06-02,8500.0,2.0,40.0,clear
+862,Bengal Gram(Gram),Madhoganj,2017-06-02,9050.0,0.0,40.0,clear
+863,Lentil(Masur),Madhoganj,2017-06-02,6750.0,1.0,40.0,clear
+864,Bengal Gram(Gram),Hardoi,2017-07-02,8450.0,2.2,33.5,clear
+865,Bengal Gram(Gram),Madhoganj,2017-07-02,9100.0,0.5,33.5,clear
+866,Lentil(Masur),Madhoganj,2017-07-02,6850.0,0.5,33.5,clear
+867,Bengal Gram(Gram),Hardoi,2017-08-02,8400.0,2.4,31.0,clear
+868,Bengal Gram(Gram),Madhoganj,2017-08-02,9100.0,0.3,31.0,clear
+869,Lentil(Masur),Madhoganj,2017-08-02,6850.0,0.2,31.0,clear
+870,Bengal Gram(Gram),Hardoi,2017-09-02,8500.0,2.0,30.5,clear
+871,Bengal Gram(Gram),Madhoganj,2017-09-02,9125.0,0.5,30.5,clear
+872,Lentil(Masur),Madhoganj,2017-09-02,6850.0,0.5,30.5,clear
+873,Bengal Gram(Gram),Hardoi,2017-10-02,8510.0,1.8,33.6,clear
+874,Bengal Gram(Gram),Madhoganj,2017-10-02,9140.0,0.0,33.6,clear
+875,Lentil(Masur),Madhoganj,2017-10-02,6850.0,0.0,33.6,clear
+876,Bengal Gram(Gram),Hardoi,2017-02-13,8500.0,1.9,25.5,clear
+877,Bengal Gram(Gram),Madhoganj,2017-02-13,9050.0,0.5,25.5,clear
+878,Lentil(Masur),Madhoganj,2017-02-13,6850.0,2.5,25.5,clear
+879,Bengal Gram(Gram),Hardoi,2017-02-14,8500.0,1.0,26.0,clear
+880,Bengal Gram(Gram),Madhoganj,2017-02-14,9050.0,0.0,26.0,clear
+881,Lentil(Masur),Madhoganj,2017-02-14,6800.0,1.0,26.0,clear
+882,Bengal Gram(Gram),Hardoi,2017-02-17,8440.0,1.9,29.5,clear
+883,Bengal Gram(Gram),Madhoganj,2017-02-17,9025.0,0.5,29.5,clear
+884,Lentil(Masur),Madhoganj,2017-02-17,6850.0,0.5,29.5,clear
+885,Bengal Gram(Gram),Hardoi,2017-02-18,8450.0,1.0,17.0,clear
+886,Bengal Gram(Gram),Hardoi,2017-02-21,8100.0,2.0,31.0,clear
+887,Bengal Gram(Gram),Madhoganj,2017-02-21,9025.0,0.5,31.0,clear
+888,Lentil(Masur),Madhoganj,2017-02-21,6800.0,0.5,31.0,clear
+889,Bengal Gram(Gram),Hardoi,2017-02-22,8340.0,1.8,31.5,clear
+890,Bengal Gram(Gram),Madhoganj,2017-02-22,9050.0,0.0,31.5,clear
+891,Lentil(Masur),Madhoganj,2017-02-22,6800.0,0.0,31.5,clear
+892,Bengal Gram(Gram),Hardoi,2017-02-23,8300.0,1.9,32.0,clear
+893,Bengal Gram(Gram),Madhoganj,2017-02-23,9150.0,0.5,32.0,clear
+894,Lentil(Masur),Madhoganj,2017-02-23,6750.0,0.5,32.0,clear
+895,Bengal Gram(Gram),Hardoi,2017-02-24,8180.0,2.2,30.0,clear
+896,Bengal Gram(Gram),Madhoganj,2017-02-24,9150.0,0.0,30.0,clear
+897,Lentil(Masur),Madhoganj,2017-02-24,6800.0,1.0,30.0,clear
+898,Bengal Gram(Gram),Hardoi,2017-02-25,8200.0,1.9,21.0,clear
+899,Bengal Gram(Gram),Hardoi,2017-02-27,7850.0,2.2,31.0,clear
+900,Bengal Gram(Gram),Madhoganj,2017-02-27,9125.0,0.5,31.0,clear
+901,Lentil(Masur),Madhoganj,2017-02-27,6825.0,1.0,31.0,clear
+902,Bengal Gram(Gram),Hardoi,2017-01-03,7380.0,2.0,18.0,clear
+903,Bengal Gram(Gram),Madhoganj,2017-01-03,9050.0,0.5,18.0,clear
+904,Lentil(Masur),Madhoganj,2017-01-03,6750.0,1.0,18.0,clear
+905,Bengal Gram(Gram),Hardoi,2017-02-03,7330.0,2.5,12.5,clear
+906,Bengal Gram(Gram),Madhoganj,2017-02-03,9020.0,0.0,12.5,clear
+907,Lentil(Masur),Madhoganj,2017-02-03,6750.0,0.5,12.5,clear
+908,Bengal Gram(Gram),Hardoi,2017-03-03,7360.0,2.5,31.0,clear
+909,Bengal Gram(Gram),Madhoganj,2017-03-03,9050.0,0.5,31.0,clear
+910,Lentil(Masur),Madhoganj,2017-03-03,6750.0,0.2,31.0,clear
+911,Bengal Gram(Gram),Hardoi,2017-04-03,7350.0,2.7,40.0,clear
+912,Bengal Gram(Gram),Hardoi,2017-06-03,7300.0,4.0,44.0,clear
+913,Bengal Gram(Gram),Madhoganj,2017-06-03,9050.0,0.0,44.0,clear
+914,Lentil(Masur),Madhoganj,2017-06-03,6800.0,0.5,44.0,clear
+915,Bengal Gram(Gram),Hardoi,2017-07-03,7200.0,3.1,29.5,clear
+916,Bengal Gram(Gram),Madhoganj,2017-07-03,9100.0,0.5,29.5,clear
+917,Lentil(Masur),Madhoganj,2017-07-03,6800.0,1.0,29.5,clear
+918,Bengal Gram(Gram),Hardoi,2017-08-03,7050.0,3.4,33.0,clear
+919,Bengal Gram(Gram),Madhoganj,2017-08-03,8450.0,0.0,33.0,clear
+920,Lentil(Masur),Madhoganj,2017-08-03,6750.0,0.5,33.0,clear
+921,Bengal Gram(Gram),Hardoi,2017-03-17,7000.0,2.5,30.5,clear
+922,Bengal Gram(Gram),Madhoganj,2017-03-17,7250.0,0.2,30.5,clear
+923,Lentil(Masur),Madhoganj,2017-03-17,6650.0,0.5,30.5,clear
+924,Bengal Gram(Gram),Hardoi,2017-03-18,6950.0,1.2,30.5,clear
+925,Bengal Gram(Gram),Hardoi,2017-03-20,7050.0,1.5,30.5,clear
+926,Bengal Gram(Gram),Madhoganj,2017-03-20,6900.0,0.2,30.5,clear
+927,Lentil(Masur),Madhoganj,2017-03-20,6250.0,0.5,30.5,clear
+928,Bengal Gram(Gram),Hardoi,2017-03-21,7100.0,1.8,32.0,clear
+929,Bengal Gram(Gram),Madhoganj,2017-03-21,6850.0,0.5,32.0,clear
+930,Lentil(Masur),Madhoganj,2017-03-21,6250.0,1.0,32.0,clear
+931,Bengal Gram(Gram),Hardoi,2017-03-22,7150.0,2.0,20.0,clear
+932,Bengal Gram(Gram),Madhoganj,2017-03-22,6850.0,0.0,20.0,clear
+933,Lentil(Masur),Madhoganj,2017-03-22,6200.0,0.5,20.0,clear
+934,Bengal Gram(Gram),Hardoi,2017-03-23,7130.0,2.2,35.0,clear
+935,Bengal Gram(Gram),Madhoganj,2017-03-23,6850.0,0.5,35.0,clear
+936,Lentil(Masur),Madhoganj,2017-03-23,6200.0,1.2,35.0,clear
+937,Bengal Gram(Gram),Hardoi,2017-03-24,7150.0,1.8,35.0,clear
+938,Bengal Gram(Gram),Madhoganj,2017-03-24,6750.0,1.0,35.0,clear
+939,Lentil(Masur),Madhoganj,2017-03-24,6200.0,0.8,35.0,clear
+940,Bengal Gram(Gram),Hardoi,2017-03-27,6900.0,2.1,37.0,clear
+941,Bengal Gram(Gram),Madhoganj,2017-03-27,6750.0,0.2,37.0,clear
+942,Lentil(Masur),Madhoganj,2017-03-27,6250.0,0.5,37.0,clear
+943,Bengal Gram(Gram),Hardoi,2017-06-04,6900.0,2.2,45.5,clear
+944,Bengal Gram(Gram),Madhoganj,2017-06-04,6520.0,1.0,45.5,clear
+945,Lentil(Masur),Madhoganj,2017-06-04,5900.0,1.0,45.5,clear
+946,Bengal Gram(Gram),Hardoi,2017-07-04,6950.0,2.5,31.5,clear
+947,Bengal Gram(Gram),Madhoganj,2017-07-04,6520.0,0.5,31.5,clear
+948,Lentil(Masur),Madhoganj,2017-07-04,5450.0,2.0,31.5,clear
+949,Bengal Gram(Gram),Hardoi,2017-08-04,6950.0,3.0,33.0,clear
+950,Bengal Gram(Gram),Hardoi,2017-10-04,1630.0,8.6,35.5,clear
+951,Bengal Gram(Gram),Madhoganj,2017-10-04,6400.0,0.5,35.5,clear
+952,Lentil(Masur),Madhoganj,2017-10-04,5420.0,1.5,35.5,clear
+953,Bengal Gram(Gram),Hardoi,2017-11-04,6950.0,3.0,31.0,clear
+954,Bengal Gram(Gram),Madhoganj,2017-11-04,6300.0,0.0,31.0,clear
+955,Lentil(Masur),Madhoganj,2017-11-04,5420.0,1.0,31.0,clear
+956,Bengal Gram(Gram),Hardoi,2017-12-04,7000.0,3.2,25.5,clear
+957,Bengal Gram(Gram),Madhoganj,2017-12-04,6250.0,0.5,25.5,clear
+958,Lentil(Masur),Madhoganj,2017-12-04,5350.0,0.5,25.5,clear
+959,Bengal Gram(Gram),Hardoi,2017-04-13,6950.0,3.5,41.5,clear
+960,Bengal Gram(Gram),Madhoganj,2017-04-13,6250.0,0.0,41.5,clear
+961,Lentil(Masur),Madhoganj,2017-04-13,5320.0,1.0,41.5,clear
+962,Bengal Gram(Gram),Hardoi,2017-04-14,7000.0,3.0,42.0,clear
+963,Bengal Gram(Gram),Madhoganj,2017-04-14,6250.0,0.5,42.0,clear
+964,Lentil(Masur),Madhoganj,2017-04-14,5350.0,0.5,42.0,clear
+965,Bengal Gram(Gram),Hardoi,2017-04-15,6930.0,4.0,43.0,clear
+966,Bengal Gram(Gram),Hardoi,2017-04-17,6960.0,4.4,42.0,clear
+967,Bengal Gram(Gram),Madhoganj,2017-04-17,6250.0,0.5,42.0,clear
+968,Lentil(Masur),Madhoganj,2017-04-17,5250.0,0.5,42.0,clear
+969,Bengal Gram(Gram),Hardoi,2017-04-19,6920.0,3.5,44.5,clear
+970,Bengal Gram(Gram),Madhoganj,2017-04-19,6250.0,0.5,44.5,clear
+971,Lentil(Masur),Madhoganj,2017-04-19,5250.0,1.5,44.5,clear
+972,Bengal Gram(Gram),Hardoi,2017-04-20,6950.0,3.0,44.5,clear
+973,Bengal Gram(Gram),Madhoganj,2017-04-20,6300.0,0.05,44.5,clear
+974,Lentil(Masur),Madhoganj,2017-04-20,5400.0,0.1,44.5,clear
+975,Bengal Gram(Gram),Hardoi,2017-04-21,6900.0,3.5,43.5,clear
+976,Bengal Gram(Gram),Madhoganj,2017-04-21,6290.0,0.0,43.5,clear
+977,Lentil(Masur),Madhoganj,2017-04-21,5410.0,0.09,43.5,clear
+978,Bengal Gram(Gram),Hardoi,2017-04-22,6880.0,3.6,43.5,clear
+979,Bengal Gram(Gram),Hardoi,2017-04-24,6850.0,3.5,39.5,clear
+980,Bengal Gram(Gram),Madhoganj,2017-04-24,6230.0,1.0,39.5,clear
+981,Lentil(Masur),Madhoganj,2017-04-24,5240.0,1.0,39.5,clear
+982,Bengal Gram(Gram),Hardoi,2017-04-25,6860.0,3.0,39.5,clear
+983,Bengal Gram(Gram),Madhoganj,2017-04-25,6250.0,0.5,39.5,clear
+984,Lentil(Masur),Madhoganj,2017-04-25,5150.0,1.5,39.5,clear
+985,Bengal Gram(Gram),Hardoi,2017-04-26,6870.0,2.5,39.0,clear
+986,Bengal Gram(Gram),Madhoganj,2017-04-26,6250.0,0.2,39.0,clear
+987,Lentil(Masur),Madhoganj,2017-04-26,5150.0,1.0,39.0,clear
+988,Bengal Gram(Gram),Hardoi,2017-04-28,6800.0,6.0,39.5,clear
+989,Bengal Gram(Gram),Hardoi,2017-01-05,6800.0,4.5,20.0,clear
+990,Bengal Gram(Gram),Madhoganj,2017-01-05,6150.0,0.5,20.0,clear
+991,Lentil(Masur),Madhoganj,2017-01-05,5150.0,1.0,20.0,clear
+992,Bengal Gram(Gram),Hardoi,2017-03-05,6780.0,4.0,27.0,clear
+993,Bengal Gram(Gram),Madhoganj,2017-03-05,6250.0,0.5,27.0,clear
+994,Lentil(Masur),Madhoganj,2017-03-05,5150.0,1.0,27.0,clear
+995,Bengal Gram(Gram),Hardoi,2017-04-05,6620.0,3.5,28.5,clear
+996,Bengal Gram(Gram),Madhoganj,2017-04-05,6100.0,0.2,28.5,clear
+997,Lentil(Masur),Madhoganj,2017-04-05,5150.0,0.5,28.5,clear
+998,Bengal Gram(Gram),Hardoi,2017-05-05,6650.0,4.0,41.0,clear
+999,Bengal Gram(Gram),Madhoganj,2017-05-05,6100.0,0.4,41.0,clear
+1000,Lentil(Masur),Madhoganj,2017-05-05,5125.0,1.0,41.0,clear
+1001,Bengal Gram(Gram),Hardoi,2017-06-05,6640.0,3.0,45.0,clear
+1002,Bengal Gram(Gram),Hardoi,2017-08-05,6650.0,3.5,33.0,clear
+1003,Bengal Gram(Gram),Madhoganj,2017-08-05,6150.0,0.5,33.0,clear
+1004,Lentil(Masur),Madhoganj,2017-08-05,5130.0,2.5,33.0,clear
+1005,Bengal Gram(Gram),Hardoi,2017-09-05,6660.0,3.0,31.5,clear
+1006,Bengal Gram(Gram),Madhoganj,2017-09-05,6150.0,1.0,31.5,clear
+1007,Lentil(Masur),Madhoganj,2017-09-05,5250.0,1.0,31.5,clear
+1008,Bengal Gram(Gram),Hardoi,2017-10-05,6690.0,2.7,35.0,clear
+1009,Bengal Gram(Gram),Madhoganj,2017-10-05,6150.0,0.5,35.0,clear
+1010,Lentil(Masur),Madhoganj,2017-10-05,5250.0,1.5,35.0,clear
+1011,Bengal Gram(Gram),Hardoi,2017-11-05,6690.0,3.5,31.5,clear
+1012,Bengal Gram(Gram),Madhoganj,2017-11-05,6200.0,0.0,31.5,clear
+1013,Lentil(Masur),Madhoganj,2017-11-05,5300.0,2.0,31.5,clear
+1014,Bengal Gram(Gram),Hardoi,2017-05-15,6720.0,3.5,45.0,clear
+1015,Bengal Gram(Gram),Madhoganj,2017-05-15,6250.0,1.0,45.0,clear
+1016,Lentil(Masur),Madhoganj,2017-05-15,5420.0,4.0,45.0,clear
+1017,Bengal Gram(Gram),Hardoi,2017-05-16,6690.0,3.8,42.5,clear
+1018,Bengal Gram(Gram),Madhoganj,2017-05-16,6270.0,0.5,42.5,clear
+1019,Lentil(Masur),Madhoganj,2017-05-16,5350.0,7.0,42.5,clear
+1020,Bengal Gram(Gram),Hardoi,2017-05-19,6300.0,4.2,42.5,clear
+1021,Bengal Gram(Gram),Madhoganj,2017-05-19,6230.0,0.0,42.5,clear
+1022,Lentil(Masur),Madhoganj,2017-05-19,5300.0,12.0,42.5,clear
+1023,Bengal Gram(Gram),Hardoi,2017-05-22,6200.0,4.5,43.0,clear
+1024,Bengal Gram(Gram),Madhoganj,2017-05-22,6350.0,0.2,43.0,clear
+1025,Lentil(Masur),Madhoganj,2017-05-22,5250.0,4.0,43.0,clear
+1026,Bengal Gram(Gram),Hardoi,2017-05-25,6240.0,4.0,40.5,clear
+1027,Bengal Gram(Gram),Madhoganj,2017-05-25,6450.0,0.5,40.5,clear
+1028,Lentil(Masur),Madhoganj,2017-05-25,5300.0,2.5,40.5,clear
+1029,Bengal Gram(Gram),Hardoi,2017-05-26,6230.0,5.5,44.5,clear
+1030,Bengal Gram(Gram),Madhoganj,2017-05-26,6450.0,0.2,44.5,clear
+1031,Lentil(Masur),Madhoganj,2017-05-26,5100.0,1.0,44.5,clear
+1032,Bengal Gram(Gram),Hardoi,2017-05-27,6250.0,2.5,43.5,clear
+1033,Bengal Gram(Gram),Hardoi,2017-05-29,6400.0,2.0,40.0,clear
+1034,Bengal Gram(Gram),Madhoganj,2017-05-29,6350.0,0.5,40.0,clear
+1035,Lentil(Masur),Madhoganj,2017-05-29,5250.0,1.0,40.0,clear
+1036,Bengal Gram(Gram),Hardoi,2017-05-31,6420.0,1.2,38.5,clear
+1037,Bengal Gram(Gram),Madhoganj,2017-05-31,6350.0,0.5,38.5,clear
+1038,Lentil(Masur),Madhoganj,2017-05-31,5200.0,2.5,38.5,clear
+1039,Bengal Gram(Gram),Hardoi,2017-01-06,6450.0,1.8,22.5,clear
+1040,Bengal Gram(Gram),Madhoganj,2017-01-06,6350.0,1.0,22.5,clear
+1041,Lentil(Masur),Madhoganj,2017-01-06,5150.0,1.0,22.5,clear
+1042,Bengal Gram(Gram),Hardoi,2017-05-06,6240.0,3.5,43.0,clear
+1043,Bengal Gram(Gram),Hardoi,2017-06-06,6220.0,3.0,42.0,clear
+1044,Bengal Gram(Gram),Madhoganj,2017-06-06,6250.0,1.0,42.0,clear
+1045,Lentil(Masur),Madhoganj,2017-06-06,5150.0,6.0,42.0,clear
+1046,Bengal Gram(Gram),Hardoi,2017-07-06,6240.0,2.5,27.5,clear
+1047,Bengal Gram(Gram),Madhoganj,2017-07-06,6250.0,0.5,27.5,clear
+1048,Lentil(Masur),Madhoganj,2017-07-06,5250.0,4.0,27.5,clear
+1049,Bengal Gram(Gram),Hardoi,2017-08-06,6250.0,2.0,29.6,clear
+1050,Bengal Gram(Gram),Madhoganj,2017-08-06,6250.0,1.0,29.6,clear
+1051,Lentil(Masur),Madhoganj,2017-08-06,5250.0,2.5,29.6,clear
+1052,Bengal Gram(Gram),Hardoi,2017-06-13,6300.0,2.0,42.0,clear
+1053,Bengal Gram(Gram),Madhoganj,2017-06-13,6260.0,0.8,42.0,clear
+1054,Lentil(Masur),Madhoganj,2017-06-13,5220.0,1.6,42.0,clear
+1055,Bengal Gram(Gram),Hardoi,2017-06-14,6300.0,3.0,42.5,clear
+1056,Bengal Gram(Gram),Madhoganj,2017-06-14,6150.0,1.2,42.5,clear
+1057,Lentil(Masur),Madhoganj,2017-06-14,5460.0,1.4,42.5,clear
+1058,Bengal Gram(Gram),Hardoi,2017-06-15,6310.0,2.5,39.5,clear
+1059,Bengal Gram(Gram),Madhoganj,2017-06-15,6160.0,1.0,39.5,clear
+1060,Lentil(Masur),Madhoganj,2017-06-15,5420.0,1.6,39.5,clear
+1061,Bengal Gram(Gram),Hardoi,2017-06-16,6250.0,2.2,38.5,clear
+1062,Bengal Gram(Gram),Madhoganj,2017-06-16,6170.0,0.7,38.5,clear
+1063,Lentil(Masur),Madhoganj,2017-06-16,5430.0,1.3,38.5,clear
+1064,Bengal Gram(Gram),Hardoi,2017-06-17,6260.0,2.5,37.5,clear
+1065,Bengal Gram(Gram),Hardoi,2017-06-19,6240.0,2.8,38.0,clear
+1066,Bengal Gram(Gram),Madhoganj,2017-06-19,6250.0,0.5,38.0,clear
+1067,Lentil(Masur),Madhoganj,2017-06-19,5400.0,1.5,38.0,clear
+1068,Bengal Gram(Gram),Hardoi,2017-06-20,6710.0,3.2,39.5,clear
+1069,Bengal Gram(Gram),Madhoganj,2017-06-20,6250.0,1.0,39.5,clear
+1070,Lentil(Masur),Madhoganj,2017-06-20,5450.0,1.0,39.5,clear
+1071,Bengal Gram(Gram),Hardoi,2017-06-21,6300.0,2.8,36.5,clear
+1072,Bengal Gram(Gram),Madhoganj,2017-06-21,6250.0,0.5,36.5,clear
+1073,Lentil(Masur),Madhoganj,2017-06-21,5300.0,2.0,36.5,clear
+1074,Bengal Gram(Gram),Hardoi,2017-06-22,6330.0,3.0,38.5,clear
+1075,Bengal Gram(Gram),Madhoganj,2017-06-22,6200.0,0.2,38.5,clear
+1076,Lentil(Masur),Madhoganj,2017-06-22,5250.0,1.0,38.5,clear
+1077,Bengal Gram(Gram),Hardoi,2017-06-23,6400.0,2.6,37.5,clear
+1078,Bengal Gram(Gram),Madhoganj,2017-06-23,6200.0,0.5,37.5,clear
+1079,Lentil(Masur),Madhoganj,2017-06-23,5350.0,0.5,37.5,clear
+1080,Bengal Gram(Gram),Hardoi,2017-06-27,6310.0,3.2,37.5,clear
+1081,Bengal Gram(Gram),Madhoganj,2017-06-27,6230.0,0.6,37.5,clear
+1082,Lentil(Masur),Madhoganj,2017-06-27,5450.0,0.5,37.5,clear
+1083,Bengal Gram(Gram),Hardoi,2017-01-07,6330.0,1.5,14.0,clear
+1084,Bengal Gram(Gram),Hardoi,2017-04-07,6320.0,1.8,37.0,clear
+1085,Bengal Gram(Gram),Madhoganj,2017-04-07,6250.0,1.0,37.0,clear
+1086,Lentil(Masur),Madhoganj,2017-04-07,5450.0,0.0,37.0,clear
+1087,Lentil(Masur),Shahabad(New Mandi),2017-04-07,4000.0,4.2,37.0,clear
+1088,Bengal Gram(Gram),Hardoi,2017-05-07,6350.0,2.2,45.0,clear
+1089,Bengal Gram(Gram),Madhoganj,2017-05-07,6290.0,0.5,45.0,clear
+1090,Lentil(Masur),Madhoganj,2017-05-07,5430.0,1.5,45.0,clear
+1091,Bengal Gram(Gram),Hardoi,2017-06-07,6200.0,2.0,37.5,clear
+1092,Bengal Gram(Gram),Madhoganj,2017-06-07,6250.0,1.0,37.5,clear
+1093,Lentil(Masur),Madhoganj,2017-06-07,5400.0,0.5,37.5,clear
+1094,Bengal Gram(Gram),Hardoi,2017-07-07,6100.0,2.2,33.5,clear
+1095,Bengal Gram(Gram),Madhoganj,2017-07-07,6215.0,0.8,33.5,clear
+1096,Lentil(Masur),Madhoganj,2017-07-07,5425.0,6.0,33.5,clear
+1097,Bengal Gram(Gram),Hardoi,2017-08-07,6120.0,2.0,29.0,clear
+1098,Bengal Gram(Gram),Hardoi,2017-10-07,6100.0,1.8,35.0,clear
+1099,Bengal Gram(Gram),Madhoganj,2017-10-07,6250.0,0.8,35.0,clear
+1100,Lentil(Masur),Madhoganj,2017-10-07,5400.0,0.5,35.0,clear
+1101,Lentil(Masur),Shahabad(New Mandi),2017-10-07,4020.0,3.7,35.0,clear
+1102,Bengal Gram(Gram),Hardoi,2017-11-07,6000.0,2.0,30.5,clear
+1103,Bengal Gram(Gram),Madhoganj,2017-11-07,6275.0,0.5,30.5,clear
+1104,Lentil(Masur),Madhoganj,2017-11-07,5450.0,0.8,30.5,clear
+1105,Lentil(Masur),Shahabad(New Mandi),2017-11-07,3900.0,2.0,30.5,clear
+1106,Bengal Gram(Gram),Hardoi,2017-12-07,5900.0,3.0,24.5,clear
+1107,Bengal Gram(Gram),Madhoganj,2017-12-07,6250.0,0.5,24.5,clear
+1108,Bengal Gram(Gram),Shahabad(New Mandi),2017-12-07,6050.0,1.4,24.5,clear
+1109,Lentil(Masur),Madhoganj,2017-12-07,5620.0,0.5,24.5,clear
+1110,Lentil(Masur),Shahabad(New Mandi),2017-12-07,3900.0,9.5,24.5,clear
+1111,Bengal Gram(Gram),Hardoi,2017-07-13,5940.0,2.5,30.0,clear
+1112,Bengal Gram(Gram),Madhoganj,2017-07-13,6240.0,1.0,30.0,clear
+1113,Lentil(Masur),Madhoganj,2017-07-13,5650.0,1.0,30.0,clear
+1114,Bengal Gram(Gram),Hardoi,2017-07-14,5900.0,2.6,31.5,clear
+1115,Bengal Gram(Gram),Madhoganj,2017-07-14,6250.0,0.5,31.5,clear
+1116,Bengal Gram(Gram),Shahabad(New Mandi),2017-07-14,5920.0,1.1,31.5,clear
+1117,Lentil(Masur),Madhoganj,2017-07-14,5500.0,0.5,31.5,clear
+1118,Lentil(Masur),Shahabad(New Mandi),2017-07-14,3900.0,16.9,31.5,clear
+1119,Bengal Gram(Gram),Hardoi,2017-07-15,5880.0,3.5,30.5,clear
+1120,Bengal Gram(Gram),Hardoi,2017-07-17,5900.0,2.8,32.5,clear
+1121,Bengal Gram(Gram),Madhoganj,2017-07-17,6240.0,0.5,32.5,clear
+1122,Bengal Gram(Gram),Shahabad(New Mandi),2017-07-17,5850.0,0.6,32.5,clear
+1123,Lentil(Masur),Madhoganj,2017-07-17,5500.0,0.5,32.5,clear
+1124,Lentil(Masur),Shahabad(New Mandi),2017-07-17,3900.0,5.0,32.5,clear
+1125,Bengal Gram(Gram),Hardoi,2017-07-18,5940.0,3.0,33.5,clear
+1126,Bengal Gram(Gram),Madhoganj,2017-07-18,6250.0,0.2,33.5,clear
+1127,Bengal Gram(Gram),Shahabad(New Mandi),2017-07-18,5900.0,1.2,33.5,clear
+1128,Lentil(Masur),Madhoganj,2017-07-18,5450.0,0.8,33.5,clear
+1129,Lentil(Masur),Shahabad(New Mandi),2017-07-18,3850.0,12.0,33.5,clear
+1130,Bengal Gram(Gram),Hardoi,2017-07-19,5920.0,2.0,30.0,clear
+1131,Bengal Gram(Gram),Madhoganj,2017-07-19,6225.0,0.2,30.0,clear
+1132,Lentil(Masur),Madhoganj,2017-07-19,5650.0,0.5,30.0,clear
+1133,Bengal Gram(Gram),Hardoi,2017-07-20,5900.0,2.5,31.5,clear
+1134,Bengal Gram(Gram),Madhoganj,2017-07-20,6230.0,0.2,31.5,clear
+1135,Lentil(Masur),Madhoganj,2017-07-20,5600.0,1.0,31.5,clear
+1136,Bengal Gram(Gram),Hardoi,2017-07-22,5950.0,1.5,30.5,clear
+1137,Bengal Gram(Gram),Hardoi,2017-07-24,5930.0,2.0,28.5,clear
+1138,Bengal Gram(Gram),Madhoganj,2017-07-24,6250.0,0.5,28.5,clear
+1139,Lentil(Masur),Madhoganj,2017-07-24,5450.0,1.5,28.5,clear
+1140,Bengal Gram(Gram),Hardoi,2017-07-25,5850.0,2.5,31.0,clear
+1141,Bengal Gram(Gram),Madhoganj,2017-07-25,6240.0,0.2,31.0,clear
+1142,Lentil(Masur),Madhoganj,2017-07-25,5650.0,0.5,31.0,clear
+1143,Bengal Gram(Gram),Hardoi,2017-07-26,5800.0,3.0,31.5,clear
+1144,Bengal Gram(Gram),Madhoganj,2017-07-26,6230.0,0.5,31.5,clear
+1145,Lentil(Masur),Madhoganj,2017-07-26,5850.0,0.5,31.5,clear
+1146,Bengal Gram(Gram),Hardoi,2017-07-28,5820.0,1.5,31.5,clear
+1147,Bengal Gram(Gram),Madhoganj,2017-07-28,6275.0,0.4,31.5,clear
+1148,Lentil(Masur),Madhoganj,2017-07-28,5650.0,0.5,31.5,clear
+1149,Bengal Gram(Gram),Hardoi,2017-07-29,5800.0,2.5,32.0,clear
+1150,Bengal Gram(Gram),Hardoi,2017-02-08,5900.0,2.0,24.5,clear
+1151,Bengal Gram(Gram),Madhoganj,2017-02-08,6300.0,0.4,24.5,clear
+1152,Lentil(Masur),Madhoganj,2017-02-08,5250.0,0.2,24.5,clear
+1153,Bengal Gram(Gram),Hardoi,2017-03-08,5800.0,2.1,31.5,clear
+1154,Bengal Gram(Gram),Hardoi,2017-04-08,5720.0,1.7,39.5,clear
+1155,Bengal Gram(Gram),Madhoganj,2017-04-08,6050.0,1.0,39.5,clear
+1156,Lentil(Masur),Madhoganj,2017-04-08,5200.0,2.5,39.5,clear
+1157,Bengal Gram(Gram),Hardoi,2017-05-08,5800.0,2.0,42.5,clear
+1158,Bengal Gram(Gram),Hardoi,2017-08-08,6750.0,2.5,32.5,clear
+1159,Bengal Gram(Gram),Madhoganj,2017-08-08,5650.0,0.5,32.5,clear
+1160,Lentil(Masur),Madhoganj,2017-08-08,5100.0,0.5,32.5,clear
+1161,Bengal Gram(Gram),Hardoi,2017-09-08,6740.0,3.0,33.0,clear
+1162,Bengal Gram(Gram),Madhoganj,2017-09-08,5650.0,0.8,33.0,clear
+1163,Lentil(Masur),Madhoganj,2017-09-08,5100.0,0.8,33.0,clear
+1164,Bengal Gram(Gram),Hardoi,2017-10-08,6630.0,3.4,35.5,clear
+1165,Bengal Gram(Gram),Madhoganj,2017-10-08,5700.0,0.5,35.5,clear
+1166,Lentil(Masur),Madhoganj,2017-10-08,5200.0,0.5,35.5,clear
+1167,Bengal Gram(Gram),Hardoi,2017-11-08,6660.0,3.2,31.5,clear
+1168,Bengal Gram(Gram),Madhoganj,2017-11-08,5600.0,1.0,31.5,clear
+1169,Lentil(Masur),Madhoganj,2017-11-08,5200.0,1.5,31.5,clear
+1170,Bengal Gram(Gram),Hardoi,2017-12-08,6600.0,3.4,25.0,clear
+1171,Bengal Gram(Gram),Hardoi,2017-08-14,6600.0,3.5,32.5,clear
+1172,Bengal Gram(Gram),Madhoganj,2017-08-14,5550.0,0.8,32.5,clear
+1173,Lentil(Masur),Madhoganj,2017-08-14,4250.0,1.0,32.5,clear
+1174,Bengal Gram(Gram),Hardoi,2017-08-16,6200.0,3.0,34.0,clear
+1175,Bengal Gram(Gram),Madhoganj,2017-08-16,5500.0,1.0,34.0,clear
+1176,Lentil(Masur),Madhoganj,2017-08-16,4250.0,0.5,34.0,clear
+1177,Bengal Gram(Gram),Hardoi,2017-08-17,2240.0,90.0,34.5,clear
+1178,Bengal Gram(Gram),Madhoganj,2017-08-17,5450.0,0.8,34.5,clear
+1179,Lentil(Masur),Madhoganj,2017-08-17,4400.0,1.0,34.5,clear
+1180,Bengal Gram(Gram),Hardoi,2017-08-18,6050.0,3.5,30.0,clear
+1181,Bengal Gram(Gram),Madhoganj,2017-08-18,5300.0,0.6,30.0,clear
+1182,Lentil(Masur),Madhoganj,2017-08-18,4250.0,0.5,30.0,clear
+1183,Bengal Gram(Gram),Hardoi,2017-08-19,6000.0,3.0,31.5,clear
+1184,Bengal Gram(Gram),Hardoi,2017-08-21,5900.0,3.3,32.5,clear
+1185,Bengal Gram(Gram),Madhoganj,2017-08-21,5300.0,0.5,32.5,clear
+1186,Lentil(Masur),Madhoganj,2017-08-21,4350.0,1.8,32.5,clear
+1187,Bengal Gram(Gram),Hardoi,2017-08-22,5860.0,3.4,33.5,clear
+1188,Bengal Gram(Gram),Madhoganj,2017-08-22,5285.0,0.2,33.5,clear
+1189,Lentil(Masur),Madhoganj,2017-08-22,4310.0,2.0,33.5,clear
+1190,Lentil(Masur),Shahabad(New Mandi),2017-08-22,3910.0,30.0,33.5,clear
+1191,Bengal Gram(Gram),Hardoi,2017-08-23,5860.0,3.3,34.5,clear
+1192,Bengal Gram(Gram),Madhoganj,2017-08-23,5250.0,0.4,34.5,clear
+1193,Lentil(Masur),Madhoganj,2017-08-23,4215.0,1.0,34.5,clear
+1194,Lentil(Masur),Shahabad(New Mandi),2017-08-23,4020.0,188.0,34.5,clear
+1195,Bengal Gram(Gram),Hardoi,2017-08-24,5700.0,3.0,34.4,clear
+1196,Bengal Gram(Gram),Madhoganj,2017-08-24,5230.0,0.5,34.4,clear
+1197,Lentil(Masur),Madhoganj,2017-08-24,4200.0,1.4,34.4,clear
+1198,Lentil(Masur),Shahabad(New Mandi),2017-08-24,4020.0,188.0,34.4,clear
+1199,Bengal Gram(Gram),Hardoi,2017-08-25,5630.0,2.8,30.5,clear
+1200,Bengal Gram(Gram),Madhoganj,2017-08-25,5250.0,14.0,30.5,clear
+1201,Lentil(Masur),Madhoganj,2017-08-25,4250.0,1.0,30.5,clear
+1202,Lentil(Masur),Shahabad(New Mandi),2017-08-25,4020.0,188.0,30.5,clear
+1203,Bengal Gram(Gram),Hardoi,2017-08-26,5600.0,2.5,29.5,clear
+1204,Lentil(Masur),Shahabad(New Mandi),2017-08-26,4060.0,30.0,29.5,clear
+1205,Bengal Gram(Gram),Hardoi,2017-08-28,5550.0,2.8,29.0,clear
+1206,Bengal Gram(Gram),Madhoganj,2017-08-28,5200.0,0.4,29.0,clear
+1207,Lentil(Masur),Madhoganj,2017-08-28,4250.0,0.2,29.0,clear
+1208,Bengal Gram(Gram),Hardoi,2017-08-29,6050.0,2.5,28.0,clear
+1209,Bengal Gram(Gram),Madhoganj,2017-08-29,5150.0,0.2,28.0,clear
+1210,Lentil(Masur),Madhoganj,2017-08-29,4250.0,2.6,28.0,clear
+1211,Bengal Gram(Gram),Hardoi,2017-02-09,5880.0,3.8,25.0,clear
+1212,Bengal Gram(Gram),Hardoi,2017-04-09,5880.0,3.5,38.5,clear
+1213,Bengal Gram(Gram),Madhoganj,2017-04-09,5210.0,1.2,38.5,clear
+1214,Lentil(Masur),Madhoganj,2017-04-09,4250.0,0.6,38.5,clear
+1215,Bengal Gram(Gram),Hardoi,2017-05-09,5840.0,4.0,38.0,clear
+1216,Bengal Gram(Gram),Madhoganj,2017-05-09,5190.0,0.8,38.0,clear
+1217,Lentil(Masur),Madhoganj,2017-05-09,4250.0,1.5,38.0,clear
+1218,Bengal Gram(Gram),Hardoi,2017-06-09,5800.0,3.5,36.5,clear
+1219,Bengal Gram(Gram),Madhoganj,2017-06-09,5050.0,1.0,36.5,clear
+1220,Lentil(Masur),Madhoganj,2017-06-09,4200.0,1.0,36.5,clear
+1221,Bengal Gram(Gram),Hardoi,2017-07-09,5780.0,3.0,34.0,clear
+1222,Bengal Gram(Gram),Madhoganj,2017-07-09,5100.0,0.6,34.0,clear
+1223,Lentil(Masur),Madhoganj,2017-07-09,4250.0,0.5,34.0,clear
+1224,Bengal Gram(Gram),Hardoi,2017-08-09,6500.0,2.5,30.5,clear
+1225,Bengal Gram(Gram),Hardoi,2017-09-09,5840.0,2.3,34.5,clear
+1226,Bengal Gram(Gram),Hardoi,2017-11-09,5800.0,2.0,29.0,clear
+1227,Bengal Gram(Gram),Madhoganj,2017-11-09,5250.0,0.3,29.0,clear
+1228,Lentil(Masur),Madhoganj,2017-11-09,4200.0,2.0,29.0,clear
+1229,Bengal Gram(Gram),Hardoi,2017-12-09,5850.0,3.5,26.5,clear
+1230,Bengal Gram(Gram),Madhoganj,2017-12-09,5200.0,0.5,26.5,clear
+1231,Lentil(Masur),Madhoganj,2017-12-09,4250.0,1.0,26.5,clear
+1232,Bengal Gram(Gram),Hardoi,2017-09-13,5800.0,3.8,34.0,clear
+1233,Bengal Gram(Gram),Madhoganj,2017-09-13,5200.0,0.2,34.0,clear
+1234,Lentil(Masur),Madhoganj,2017-09-13,4210.0,0.5,34.0,clear
+1235,Bengal Gram(Gram),Hardoi,2017-09-14,5760.0,3.0,33.5,clear
+1236,Bengal Gram(Gram),Madhoganj,2017-09-14,5180.0,0.4,33.5,clear
+1237,Lentil(Masur),Madhoganj,2017-09-14,4230.0,0.8,33.5,clear
+1238,Bengal Gram(Gram),Hardoi,2017-09-15,5800.0,2.4,30.5,clear
+1239,Bengal Gram(Gram),Madhoganj,2017-09-15,5200.0,0.3,30.5,clear
+1240,Lentil(Masur),Madhoganj,2017-09-15,4250.0,0.5,30.5,clear
+1241,Bengal Gram(Gram),Hardoi,2017-09-16,5800.0,2.5,30.0,clear
+1242,Lentil(Masur),Shahabad(New Mandi),2017-09-16,4050.0,21.0,30.0,clear
+1243,Bengal Gram(Gram),Hardoi,2017-09-20,5780.0,3.0,29.8,clear
+1244,Bengal Gram(Gram),Madhoganj,2017-09-20,5160.0,0.6,29.8,clear
+1245,Lentil(Masur),Madhoganj,2017-09-20,4200.0,1.2,29.8,clear
+1246,Bengal Gram(Gram),Hardoi,2017-09-21,5700.0,2.5,28.0,clear
+1247,Bengal Gram(Gram),Madhoganj,2017-09-21,5175.0,1.0,28.0,clear
+1248,Lentil(Masur),Madhoganj,2017-09-21,4200.0,1.0,28.0,clear
+1249,Bengal Gram(Gram),Hardoi,2017-09-23,5700.0,3.0,31.0,clear
+1250,Bengal Gram(Gram),Hardoi,2017-09-25,5750.0,2.0,34.0,clear
+1251,Bengal Gram(Gram),Madhoganj,2017-09-25,5170.0,0.8,34.0,clear
+1252,Lentil(Masur),Madhoganj,2017-09-25,4250.0,2.5,34.0,clear
+1253,Lentil(Masur),Shahabad(New Mandi),2017-09-25,3850.0,5.0,34.0,clear
+1254,Bengal Gram(Gram),Hardoi,2017-09-26,5760.0,1.8,34.0,clear
+1255,Bengal Gram(Gram),Madhoganj,2017-09-26,5170.0,0.3,34.0,clear
+1256,Lentil(Masur),Madhoganj,2017-09-26,4250.0,1.0,34.0,clear
+1257,Bengal Gram(Gram),Hardoi,2017-09-27,5800.0,1.6,34.0,clear
+1258,Bengal Gram(Gram),Madhoganj,2017-09-27,5150.0,0.2,34.0,clear
+1259,Lentil(Masur),Madhoganj,2017-09-27,4250.0,0.5,34.0,clear
+1260,Bengal Gram(Gram),Hardoi,2017-04-10,5750.0,2.5,35.0,clear
+1261,Bengal Gram(Gram),Madhoganj,2017-04-10,5280.0,0.6,35.0,clear
+1262,Lentil(Masur),Madhoganj,2017-04-10,4200.0,0.8,35.0,clear
+1263,Bengal Gram(Gram),Hardoi,2017-05-10,5770.0,2.0,42.0,clear
+1264,Bengal Gram(Gram),Madhoganj,2017-05-10,5270.0,0.7,42.0,clear
+1265,Lentil(Masur),Madhoganj,2017-05-10,4180.0,1.0,42.0,clear
+1266,Bengal Gram(Gram),Hardoi,2017-06-10,5900.0,1.8,39.5,clear
+1267,Bengal Gram(Gram),Madhoganj,2017-06-10,5280.0,0.6,39.5,clear
+1268,Lentil(Masur),Madhoganj,2017-06-10,4190.0,0.9,39.5,clear
+1269,Bengal Gram(Gram),Hardoi,2017-07-10,6000.0,2.2,32.5,clear
+1270,Bengal Gram(Gram),Hardoi,2017-09-10,6100.0,1.8,35.0,clear
+1271,Bengal Gram(Gram),Madhoganj,2017-09-10,4200.0,0.5,35.0,clear
+1272,Lentil(Masur),Madhoganj,2017-09-10,4200.0,0.5,35.0,clear
+1273,Bengal Gram(Gram),Hardoi,2017-10-10,6180.0,1.4,36.0,clear
+1274,Bengal Gram(Gram),Madhoganj,2017-10-10,5250.0,0.2,36.0,clear
+1275,Lentil(Masur),Madhoganj,2017-10-10,4275.0,0.2,36.0,clear
+1276,Bengal Gram(Gram),Hardoi,2017-11-10,6500.0,3.2,29.0,clear
+1277,Bengal Gram(Gram),Madhoganj,2017-11-10,5300.0,0.5,29.0,clear
+1278,Lentil(Masur),Madhoganj,2017-11-10,4300.0,0.5,29.0,clear
+1279,Bengal Gram(Gram),Hardoi,2017-12-10,6520.0,2.8,26.5,clear
+1280,Bengal Gram(Gram),Madhoganj,2017-12-10,5250.0,0.2,26.5,clear
+1281,Lentil(Masur),Madhoganj,2017-12-10,4350.0,1.0,26.5,clear
+1282,Bengal Gram(Gram),Hardoi,2017-10-13,6480.0,2.4,35.5,clear
+1283,Bengal Gram(Gram),Madhoganj,2017-10-13,5300.0,0.5,35.5,clear
+1284,Lentil(Masur),Madhoganj,2017-10-13,4500.0,0.5,35.5,clear
+1285,Bengal Gram(Gram),Hardoi,2017-10-14,1630.0,2.5,36.5,clear
+1286,Bengal Gram(Gram),Hardoi,2017-10-16,6450.0,1.4,34.5,clear
+1287,Bengal Gram(Gram),Madhoganj,2017-10-16,5350.0,0.5,34.5,clear
+1288,Lentil(Masur),Madhoganj,2017-10-16,4350.0,0.5,34.5,clear
+1289,Bengal Gram(Gram),Hardoi,2017-10-17,6400.0,2.4,36.5,clear
+1290,Bengal Gram(Gram),Madhoganj,2017-10-17,5300.0,0.2,36.5,clear
+1291,Lentil(Masur),Madhoganj,2017-10-17,4250.0,1.0,36.5,clear
+1292,Bengal Gram(Gram),Hardoi,2017-10-18,6450.0,3.5,36.0,clear
+1293,Bengal Gram(Gram),Madhoganj,2017-10-18,5300.0,0.5,36.0,clear
+1294,Lentil(Masur),Madhoganj,2017-10-18,4230.0,0.5,36.0,clear
+1295,Bengal Gram(Gram),Hardoi,2017-10-23,6440.0,4.0,26.5,clear
+1296,Bengal Gram(Gram),Madhoganj,2017-10-23,5350.0,0.3,26.5,clear
+1297,Lentil(Masur),Madhoganj,2017-10-23,4300.0,1.0,26.5,clear
+1298,Bengal Gram(Gram),Hardoi,2017-10-24,6400.0,3.0,36.5,clear
+1299,Bengal Gram(Gram),Madhoganj,2017-10-24,5300.0,0.5,36.5,clear
+1300,Lentil(Masur),Madhoganj,2017-10-24,4350.0,0.5,36.5,clear
+1301,Bengal Gram(Gram),Hardoi,2017-10-25,6350.0,2.0,35.5,clear
+1302,Bengal Gram(Gram),Madhoganj,2017-10-25,5200.0,0.2,35.5,clear
+1303,Lentil(Masur),Madhoganj,2017-10-25,4350.0,0.2,35.5,clear
+1304,Bengal Gram(Gram),Hardoi,2017-10-26,6380.0,2.5,34.5,clear
+1305,Bengal Gram(Gram),Madhoganj,2017-10-26,5200.0,0.4,34.5,clear
+1306,Lentil(Masur),Madhoganj,2017-10-26,4250.0,0.0,34.5,clear
+1307,Bengal Gram(Gram),Hardoi,2017-10-27,6400.0,2.0,33.5,clear
+1308,Bengal Gram(Gram),Madhoganj,2017-10-27,5200.0,0.2,33.5,clear
+1309,Lentil(Masur),Madhoganj,2017-10-27,4300.0,0.5,33.5,clear
+1310,Lentil(Masur),Shahabad(New Mandi),2017-10-27,3450.0,20.0,33.5,clear
+1311,Bengal Gram(Gram),Hardoi,2017-10-28,6420.0,2.5,33.0,clear
+1312,Bengal Gram(Gram),Hardoi,2017-02-11,6450.0,2.6,23.0,clear
+1313,Bengal Gram(Gram),Madhoganj,2017-02-11,5100.0,0.2,23.0,clear
+1314,Lentil(Masur),Madhoganj,2017-02-11,3950.0,1.0,23.0,clear
+1315,Bengal Gram(Gram),Hardoi,2017-03-11,6480.0,2.4,20.5,clear
+1316,Bengal Gram(Gram),Madhoganj,2017-03-11,5050.0,0.5,20.5,clear
+1317,Lentil(Masur),Madhoganj,2017-03-11,3970.0,0.5,20.5,clear
+1318,Lentil(Masur),Shahabad(New Mandi),2017-03-11,3450.0,20.0,20.5,clear
+1319,Bengal Gram(Gram),Madhoganj,2017-01-01,9100.0,0.5,16.5,clear
+1320,Lentil(Masur),Madhoganj,2017-01-01,6850.0,0.5,16.5,clear
+1321,Bengal Gram(Gram),Madhoganj,2017-03-01,9050.0,0.5,32.0,clear
+1322,Lentil(Masur),Madhoganj,2017-03-01,6850.0,0.5,32.0,clear
+1323,Bengal Gram(Gram),Madhoganj,2017-08-01,9050.0,0.5,31.0,clear
+1324,Lentil(Masur),Madhoganj,2017-08-01,6800.0,0.5,31.0,clear
+1325,Bengal Gram(Gram),Madhoganj,2017-01-15,9050.0,1.0,19.5,clear
+1326,Lentil(Masur),Madhoganj,2017-01-15,6850.0,1.0,19.5,clear
+1327,Bengal Gram(Gram),Madhoganj,2017-01-22,9050.0,1.0,21.5,clear
+1328,Lentil(Masur),Madhoganj,2017-01-22,6800.0,0.5,21.5,clear
+1329,Bengal Gram(Gram),Madhoganj,2017-01-27,9050.0,0.0,21.5,clear
+1330,Lentil(Masur),Madhoganj,2017-01-27,6800.0,0.2,21.5,clear
+1331,Bengal Gram(Gram),Madhoganj,2017-01-30,9100.0,0.2,23.5,clear
+1332,Lentil(Masur),Madhoganj,2017-01-30,6750.0,0.2,23.5,clear
+1333,Bengal Gram(Gram),Madhoganj,2017-05-02,9050.0,0.5,40.0,clear
+1334,Lentil(Masur),Madhoganj,2017-05-02,6800.0,0.5,40.0,clear
+1335,Bengal Gram(Gram),Madhoganj,2017-12-02,9125.0,0.0,26.5,clear
+1336,Lentil(Masur),Madhoganj,2017-12-02,6850.0,1.5,26.5,clear
+1337,Bengal Gram(Gram),Madhoganj,2017-02-15,9100.0,1.0,26.0,clear
+1338,Lentil(Masur),Madhoganj,2017-02-15,6800.0,0.5,26.0,clear
+1339,Bengal Gram(Gram),Madhoganj,2017-02-16,9040.0,0.0,26.0,clear
+1340,Lentil(Masur),Madhoganj,2017-02-16,6850.0,0.2,26.0,clear
+1341,Bengal Gram(Gram),Madhoganj,2017-02-26,9150.0,0.5,29.5,clear
+1342,Lentil(Masur),Madhoganj,2017-02-26,6820.0,0.5,29.5,clear
+1343,Bengal Gram(Gram),Madhoganj,2017-02-28,9025.0,0.0,32.0,clear
+1344,Lentil(Masur),Madhoganj,2017-02-28,6825.0,0.5,32.0,clear
+1345,Bengal Gram(Gram),Madhoganj,2017-09-03,8050.0,1.0,31.0,clear
+1346,Lentil(Masur),Madhoganj,2017-09-03,6750.0,1.0,31.0,clear
+1347,Bengal Gram(Gram),Madhoganj,2017-10-03,7700.0,0.5,35.5,clear
+1348,Lentil(Masur),Madhoganj,2017-10-03,6850.0,0.5,35.5,clear
+1349,Bengal Gram(Gram),Madhoganj,2017-03-19,7050.0,0.5,30.0,clear
+1350,Lentil(Masur),Madhoganj,2017-03-19,6300.0,0.2,30.0,clear
+1351,Bengal Gram(Gram),Madhoganj,2017-03-26,6750.0,0.5,36.5,clear
+1352,Lentil(Masur),Madhoganj,2017-03-26,6250.0,0.5,36.5,clear
+1353,Bengal Gram(Gram),Madhoganj,2017-03-28,6800.0,0.5,37.0,clear
+1354,Lentil(Masur),Madhoganj,2017-03-28,6250.0,0.2,37.0,clear
+1355,Bengal Gram(Gram),Madhoganj,2017-03-29,6800.0,0.0,38.0,clear
+1356,Lentil(Masur),Madhoganj,2017-03-29,6100.0,1.0,38.0,clear
+1357,Bengal Gram(Gram),Madhoganj,2017-03-30,6820.0,0.5,40.0,clear
+1358,Lentil(Masur),Madhoganj,2017-03-30,6050.0,0.5,40.0,clear
+1359,Bengal Gram(Gram),Madhoganj,2017-03-31,6600.0,1.0,40.0,clear
+1360,Lentil(Masur),Madhoganj,2017-03-31,5900.0,1.0,40.0,clear
+1361,Bengal Gram(Gram),Madhoganj,2017-02-04,6450.0,0.5,23.0,clear
+1362,Lentil(Masur),Madhoganj,2017-02-04,5900.0,1.5,23.0,clear
+1363,Bengal Gram(Gram),Madhoganj,2017-03-04,6450.0,0.0,31.5,clear
+1364,Lentil(Masur),Madhoganj,2017-03-04,5850.0,0.5,31.5,clear
+1365,Bengal Gram(Gram),Madhoganj,2017-04-04,6450.0,0.5,30.0,clear
+1366,Lentil(Masur),Madhoganj,2017-04-04,5850.0,1.0,30.0,clear
+1367,Bengal Gram(Gram),Madhoganj,2017-05-04,6550.0,0.0,40.5,clear
+1368,Lentil(Masur),Madhoganj,2017-05-04,5900.0,2.0,40.5,clear
+1369,Bengal Gram(Gram),Madhoganj,2017-09-04,6450.0,0.0,27.5,clear
+1370,Lentil(Masur),Madhoganj,2017-09-04,5450.0,1.0,27.5,clear
+1371,Bengal Gram(Gram),Madhoganj,2017-04-16,6250.0,0.0,43.0,clear
+1372,Lentil(Masur),Madhoganj,2017-04-16,5250.0,1.0,43.0,clear
+1373,Bengal Gram(Gram),Madhoganj,2017-04-18,6270.0,1.0,43.0,clear
+1374,Lentil(Masur),Madhoganj,2017-04-18,5200.0,1.0,43.0,clear
+1375,Bengal Gram(Gram),Madhoganj,2017-04-23,6200.0,0.5,42.5,clear
+1376,Lentil(Masur),Madhoganj,2017-04-23,5300.0,0.5,42.5,clear
+1377,Bengal Gram(Gram),Madhoganj,2017-04-30,6125.0,1.0,40.0,clear
+1378,Lentil(Masur),Madhoganj,2017-04-30,5050.0,2.5,40.0,clear
+1379,Bengal Gram(Gram),Madhoganj,2017-02-05,6150.0,0.2,24.0,clear
+1380,Lentil(Masur),Madhoganj,2017-02-05,5250.0,0.5,24.0,clear
+1381,Bengal Gram(Gram),Madhoganj,2017-07-05,6125.0,1.0,36.0,clear
+1382,Lentil(Masur),Madhoganj,2017-07-05,5150.0,1.5,36.0,clear
+1383,Bengal Gram(Gram),Madhoganj,2017-05-14,6250.0,0.5,43.5,clear
+1384,Lentil(Masur),Madhoganj,2017-05-14,5450.0,2.0,43.5,clear
+1385,Bengal Gram(Gram),Madhoganj,2017-05-17,6200.0,1.0,31.0,clear
+1386,Lentil(Masur),Madhoganj,2017-05-17,5250.0,9.0,31.0,clear
+1387,Bengal Gram(Gram),Madhoganj,2017-05-18,6200.0,0.5,34.0,clear
+1388,Lentil(Masur),Madhoganj,2017-05-18,5350.0,7.0,34.0,clear
+1389,Bengal Gram(Gram),Madhoganj,2017-05-21,6230.0,0.5,43.5,clear
+1390,Lentil(Masur),Madhoganj,2017-05-21,5250.0,8.0,43.5,clear
+1391,Bengal Gram(Gram),Madhoganj,2017-05-23,6450.0,0.5,40.5,clear
+1392,Lentil(Masur),Madhoganj,2017-05-23,5350.0,2.0,40.5,clear
+1393,Bengal Gram(Gram),Madhoganj,2017-05-24,6450.0,0.2,41.5,clear
+1394,Lentil(Masur),Madhoganj,2017-05-24,5400.0,1.0,41.5,clear
+1395,Bengal Gram(Gram),Madhoganj,2017-05-28,6350.0,1.0,41.5,clear
+1396,Lentil(Masur),Madhoganj,2017-05-28,5250.0,1.5,41.5,clear
+1397,Bengal Gram(Gram),Madhoganj,2017-05-30,6350.0,1.0,38.5,clear
+1398,Lentil(Masur),Madhoganj,2017-05-30,5300.0,2.0,38.5,clear
+1399,Bengal Gram(Gram),Madhoganj,2017-04-06,6350.0,1.0,39.5,clear
+1400,Lentil(Masur),Madhoganj,2017-04-06,5250.0,1.0,39.5,clear
+1401,Bengal Gram(Gram),Madhoganj,2017-09-06,6350.0,0.5,32.5,clear
+1402,Lentil(Masur),Madhoganj,2017-09-06,5300.0,1.0,32.5,clear
+1403,Bengal Gram(Gram),Madhoganj,2017-11-06,6340.0,0.8,31.5,clear
+1404,Lentil(Masur),Madhoganj,2017-11-06,5320.0,0.9,31.5,clear
+1405,Bengal Gram(Gram),Madhoganj,2017-12-06,6250.0,1.0,22.5,clear
+1406,Lentil(Masur),Madhoganj,2017-12-06,5230.0,1.5,22.5,clear
+1407,Bengal Gram(Gram),Madhoganj,2017-06-18,6240.0,0.5,37.5,clear
+1408,Lentil(Masur),Madhoganj,2017-06-18,5350.0,1.0,37.5,clear
+1409,Bengal Gram(Gram),Madhoganj,2017-06-25,6230.0,0.5,30.0,clear
+1410,Lentil(Masur),Madhoganj,2017-06-25,5250.0,1.5,30.0,clear
+1411,Bengal Gram(Gram),Madhoganj,2017-06-26,6275.0,1.0,38.0,clear
+1412,Lentil(Masur),Madhoganj,2017-06-26,5350.0,1.0,38.0,clear
+1413,Bengal Gram(Gram),Madhoganj,2017-06-28,6250.0,0.5,33.5,clear
+1414,Lentil(Masur),Madhoganj,2017-06-28,5250.0,1.0,33.5,clear
+1415,Bengal Gram(Gram),Madhoganj,2017-06-29,6200.0,1.0,33.5,clear
+1416,Lentil(Masur),Madhoganj,2017-06-29,5450.0,0.5,33.5,clear
+1417,Bengal Gram(Gram),Madhoganj,2017-06-30,6200.0,0.5,33.5,clear
+1418,Lentil(Masur),Madhoganj,2017-06-30,5435.0,1.0,33.5,clear
+1419,Bengal Gram(Gram),Madhoganj,2017-02-07,6250.0,0.8,21.0,clear
+1420,Lentil(Masur),Madhoganj,2017-02-07,5450.0,1.0,21.0,clear
+1421,Bengal Gram(Gram),Madhoganj,2017-03-07,6275.0,0.5,19.0,clear
+1422,Lentil(Masur),Madhoganj,2017-03-07,5550.0,0.5,19.0,clear
+1423,Bengal Gram(Gram),Madhoganj,2017-09-07,6250.0,0.5,32.5,clear
+1424,Lentil(Masur),Madhoganj,2017-09-07,5250.0,1.0,32.5,clear
+1425,Bengal Gram(Gram),Madhoganj,2017-07-16,6200.0,0.8,35.0,clear
+1426,Bengal Gram(Gram),Shahabad(New Mandi),2017-07-16,5900.0,1.0,35.0,clear
+1427,Lentil(Masur),Madhoganj,2017-07-16,5625.0,1.0,35.0,clear
+1428,Bengal Gram(Gram),Madhoganj,2017-07-21,6250.0,0.8,30.5,clear
+1429,Lentil(Masur),Madhoganj,2017-07-21,5650.0,0.2,30.5,clear
+1430,Bengal Gram(Gram),Madhoganj,2017-07-23,6240.0,0.4,27.0,clear
+1431,Lentil(Masur),Madhoganj,2017-07-23,5600.0,2.5,27.0,clear
+1432,Bengal Gram(Gram),Madhoganj,2017-07-27,6240.0,0.2,30.5,clear
+1433,Lentil(Masur),Madhoganj,2017-07-27,5635.0,0.2,30.5,clear
+1434,Bengal Gram(Gram),Madhoganj,2017-07-30,6250.0,0.5,32.0,clear
+1435,Lentil(Masur),Madhoganj,2017-07-30,5625.0,0.2,32.0,clear
+1436,Bengal Gram(Gram),Madhoganj,2017-07-31,6270.0,0.2,34.0,clear
+1437,Lentil(Masur),Madhoganj,2017-07-31,5825.0,0.3,34.0,clear
+1438,Bengal Gram(Gram),Madhoganj,2017-06-08,5900.0,1.5,37.5,clear
+1439,Lentil(Masur),Madhoganj,2017-06-08,5100.0,1.0,37.5,clear
+1440,Bengal Gram(Gram),Madhoganj,2017-08-13,5650.0,0.6,32.0,clear
+1441,Lentil(Masur),Madhoganj,2017-08-13,4250.0,2.5,32.0,clear
+1442,Bengal Gram(Gram),Madhoganj,2017-08-20,5250.0,0.5,33.5,clear
+1443,Lentil(Masur),Madhoganj,2017-08-20,4250.0,0.8,33.5,clear
+1444,Bengal Gram(Gram),Madhoganj,2017-08-27,5250.0,0.6,29.0,clear
+1445,Lentil(Masur),Madhoganj,2017-08-27,4300.0,0.5,29.0,clear
+1446,Bengal Gram(Gram),Madhoganj,2017-08-30,5250.0,0.5,31.0,clear
+1447,Lentil(Masur),Madhoganj,2017-08-30,4350.0,1.0,31.0,clear
+1448,Bengal Gram(Gram),Madhoganj,2017-03-09,5200.0,0.5,29.0,clear
+1449,Lentil(Masur),Madhoganj,2017-03-09,4500.0,0.2,29.0,clear
+1450,Bengal Gram(Gram),Madhoganj,2017-10-09,5150.0,0.2,36.0,clear
+1451,Lentil(Masur),Madhoganj,2017-10-09,4300.0,1.0,36.0,clear
+1452,Bengal Gram(Gram),Madhoganj,2017-09-17,5100.0,0.8,27.5,clear
+1453,Lentil(Masur),Madhoganj,2017-09-17,4250.0,0.6,27.5,clear
+1454,Lentil(Masur),Shahabad(New Mandi),2017-09-17,4000.0,6.0,27.5,clear
+1455,Bengal Gram(Gram),Madhoganj,2017-09-18,5200.0,0.5,28.0,clear
+1456,Lentil(Masur),Madhoganj,2017-09-18,4200.0,0.5,28.0,clear
+1457,Lentil(Masur),Shahabad(New Mandi),2017-09-18,4000.0,5.0,28.0,clear
+1458,Bengal Gram(Gram),Madhoganj,2017-09-19,5150.0,0.8,32.5,clear
+1459,Lentil(Masur),Madhoganj,2017-09-19,4250.0,0.8,32.5,clear
+1460,Lentil(Masur),Shahabad(New Mandi),2017-09-19,4000.0,4.5,32.5,clear
+1461,Bengal Gram(Gram),Madhoganj,2017-09-22,5130.0,0.5,27.5,clear
+1462,Lentil(Masur),Madhoganj,2017-09-22,4150.0,0.6,27.5,clear
+1463,Lentil(Masur),Shahabad(New Mandi),2017-09-22,3850.0,21.0,27.5,clear
+1464,Bengal Gram(Gram),Madhoganj,2017-09-24,5200.0,0.6,26.0,clear
+1465,Lentil(Masur),Madhoganj,2017-09-24,4200.0,1.0,26.0,clear
+1466,Bengal Gram(Gram),Madhoganj,2017-09-28,5200.0,0.2,34.5,clear
+1467,Lentil(Masur),Madhoganj,2017-09-28,4230.0,1.0,34.5,clear
+1468,Bengal Gram(Gram),Madhoganj,2017-09-29,5150.0,0.5,34.3,clear
+1469,Lentil(Masur),Madhoganj,2017-09-29,4250.0,0.5,34.3,clear
+1470,Bengal Gram(Gram),Madhoganj,2017-01-10,5170.0,0.5,10.5,clear
+1471,Lentil(Masur),Madhoganj,2017-01-10,4200.0,0.8,10.5,clear
+1472,Bengal Gram(Gram),Madhoganj,2017-03-10,5260.0,0.7,19.5,clear
+1473,Bengal Gram(Gram),Madhoganj,2017-08-10,5175.0,1.0,29.5,clear
+1474,Lentil(Masur),Madhoganj,2017-08-10,4200.0,1.0,29.5,clear
+1475,Bengal Gram(Gram),Madhoganj,2017-10-15,5250.0,1.0,37.0,clear
+1476,Lentil(Masur),Madhoganj,2017-10-15,4250.0,1.0,37.0,clear
+1477,Bengal Gram(Gram),Madhoganj,2017-10-22,5400.0,0.2,35.5,clear
+1478,Lentil(Masur),Madhoganj,2017-10-22,4250.0,0.2,35.5,clear
+1479,Bengal Gram(Gram),Madhoganj,2017-10-29,5150.0,0.6,32.5,clear
+1480,Lentil(Masur),Madhoganj,2017-10-29,4270.0,1.0,32.5,clear
+1481,Bengal Gram(Gram),Madhoganj,2017-10-30,5200.0,0.5,22.0,clear
+1482,Lentil(Masur),Madhoganj,2017-10-30,4300.0,0.5,22.0,clear
+1483,Lentil(Masur),Shahabad(New Mandi),2017-10-30,3450.0,20.0,22.0,clear
+1484,Bengal Gram(Gram),Madhoganj,2017-10-31,5200.0,0.2,31.5,clear
+1485,Lentil(Masur),Madhoganj,2017-10-31,4000.0,1.0,31.5,clear
+1486,Lentil(Masur),Shahabad(New Mandi),2017-10-31,3450.0,22.0,31.5,clear
+1487,Bengal Gram(Gram),Madhoganj,2017-05-11,5100.0,0.5,41.0,clear
+1488,Lentil(Masur),Madhoganj,2017-05-11,3950.0,1.0,41.0,clear
+1489,Lentil(Masur),Shahabad(New Mandi),2017-05-11,3450.0,10.0,41.0,clear
+1490,Lentil(Masur),Shahabad(New Mandi),2017-02-10,3800.0,15.0,23.5,clear
+1491,Lentil(Masur),Shahabad(New Mandi),2017-04-11,3450.0,20.0,38.5,clear

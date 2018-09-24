@@ -1,0 +1,2538 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Mustard,A lot,2015-12-31,3001.0,0.14,27.2,clear
+1,Mustard,Jaora,2015-12-31,3885.0,11.1,27.2,clear
+2,Soyabean,A lot,2015-12-31,3572.0,,27.2,clear
+3,Soyabean,Jaora,2015-12-31,3655.0,69.8,27.2,clear
+4,Soyabean,Ratlam,2015-12-31,3660.0,101.8,27.2,clear
+5,Soyabean,Sailana,2015-12-31,3710.0,38.9,27.2,clear
+6,Mustard,Jaora,2015-12-08,3393.0,3.4,26.2,clear
+7,Soyabean,A lot,2015-12-08,2985.0,0.46,26.2,clear
+8,Soyabean,Jaora,2015-12-08,3151.0,83.3,26.2,clear
+9,Soyabean,Ratlam,2015-12-08,3131.0,6.7,26.2,clear
+10,Soyabean,Taal,2015-12-08,3141.0,8.62,26.2,clear
+11,Mustard,Jaora,2015-12-14,4051.0,4.1,20.2,clear
+12,Soyabean,A lot,2015-12-14,3500.0,8.62,20.2,clear
+13,Soyabean,Jaora,2015-12-14,3630.0,108.9,20.2,clear
+14,Soyabean,Ratlam,2015-12-14,3530.0,256.1,20.2,clear
+15,Soyabean,Sailana,2015-12-14,3610.0,90.7,20.2,clear
+16,Soyabean,Taal,2015-12-14,3570.0,36.36,20.2,clear
+17,Mustard,Jaora,2015-12-15,3886.0,1.8,21.2,clear
+18,Soyabean,A lot,2015-12-15,3518.0,7.05,21.2,clear
+19,Soyabean,Jaora,2015-12-15,3508.0,148.7,21.2,clear
+20,Soyabean,Ratlam,2015-12-15,3525.0,222.3,21.2,clear
+21,Mustard,Jaora,2015-12-17,3678.0,2.2,24.2,clear
+22,Soyabean,A lot,2015-12-17,3470.0,11.39,24.2,clear
+23,Soyabean,Jaora,2015-12-17,3950.0,193.0,24.2,clear
+24,Soyabean,Ratlam,2015-12-17,3437.0,176.0,24.2,clear
+25,Soyabean,Taal,2015-12-17,3515.0,27.58,24.2,clear
+26,Mustard,Jaora,2015-12-18,3850.0,3.2,21.2,clear
+27,Soyabean,A lot,2015-12-18,3530.0,11.7,21.2,clear
+28,Soyabean,Jaora,2015-12-18,3650.0,151.3,21.2,clear
+29,Soyabean,Sailana,2015-12-18,3610.0,49.7,21.2,clear
+30,Soyabean,Taal,2015-12-18,3560.0,49.34,21.2,clear
+31,Mustard,Jaora,2015-12-19,4000.0,2.2,22.2,clear
+32,Soyabean,A lot,2015-12-19,3566.0,6.5,22.2,clear
+33,Soyabean,Jaora,2015-12-19,3637.0,91.7,22.2,clear
+34,Soyabean,Ratlam,2015-12-19,3625.0,178.4,22.2,clear
+35,Soyabean,Sailana,2015-12-19,3650.0,65.6,22.2,clear
+36,Soyabean,Taal,2015-12-19,3634.0,,22.2,clear
+37,Mustard,Jaora,2015-12-21,3930.0,7.4,21.2,clear
+38,Mustard,Ratlam,2015-12-21,3520.0,0.3,21.2,clear
+39,Soyabean,A lot,2015-12-21,3640.0,8.04,21.2,clear
+40,Soyabean,Jaora,2015-12-21,3713.0,144.7,21.2,clear
+41,Soyabean,Ratlam,2015-12-21,3660.0,169.7,21.2,clear
+42,Soyabean,Sailana,2015-12-21,3747.0,60.0,21.2,clear
+43,Soyabean,Taal,2015-12-21,3645.0,43.06,21.2,clear
+44,Mustard,Jaora,2015-12-23,3870.0,8.4,20.2,clear
+45,Soyabean,A lot,2015-12-23,3580.0,9.15,20.2,clear
+46,Soyabean,Jaora,2015-12-23,3685.0,129.5,20.2,clear
+47,Soyabean,Ratlam,2015-12-23,3671.0,167.9,20.2,clear
+48,Soyabean,Taal,2015-12-23,3660.0,,20.2,clear
+49,Mustard,Jaora,2015-12-28,3825.0,14.5,26.2,clear
+50,Soyabean,A lot,2015-12-28,3551.0,10.51,26.2,clear
+51,Soyabean,Jaora,2015-12-28,3638.0,132.0,26.2,clear
+52,Soyabean,Ratlam,2015-12-28,3580.0,155.6,26.2,clear
+53,Soyabean,Sailana,2015-12-28,3688.0,60.8,26.2,clear
+54,Soyabean,Taal,2015-12-28,3586.0,,26.2,clear
+55,Mustard,Ratlam,2015-12-30,3900.0,0.2,28.2,clear
+56,Mustard,Taal,2015-12-30,3211.0,0.27,28.2,clear
+57,Soyabean,A lot,2015-12-30,3580.0,6.64,28.2,clear
+58,Soyabean,Ratlam,2015-12-30,3646.0,136.5,28.2,clear
+59,Soyabean,Sailana,2015-12-30,3636.0,53.3,28.2,clear
+60,Soyabean,Taal,2015-12-30,3600.0,,28.2,clear
+61,Soyabean,A lot,2015-12-12,3510.0,14.88,21.2,clear
+62,Soyabean,Taal,2015-12-12,3551.0,43.9,21.2,clear
+63,Soyabean,A lot,2015-12-16,3521.0,7.54,22.2,clear
+64,Soyabean,Ratlam,2015-12-16,3500.0,191.9,22.2,clear
+65,Soyabean,Sailana,2015-12-16,3748.0,72.0,22.2,clear
+66,Soyabean,Taal,2015-12-16,3550.0,65.04,22.2,clear
+67,Soyabean,A lot,2015-12-22,3570.0,15.8,21.2,clear
+68,Soyabean,Ratlam,2015-12-22,3651.0,136.9,21.2,clear
+69,Soyabean,Sailana,2015-12-22,3723.0,71.6,21.2,clear
+70,Soyabean,Taal,2015-12-22,3660.0,,21.2,clear
+71,Soyabean,A lot,2015-12-26,3620.0,3.04,21.6,clear
+72,Soyabean,Taal,2015-12-26,3400.0,3.66,21.6,clear
+73,Soyabean,A lot,2015-12-29,3540.0,6.59,27.2,clear
+74,Soyabean,Ratlam,2015-12-29,3625.0,161.0,27.2,clear
+75,Soyabean,Sailana,2015-12-29,3657.0,70.0,27.2,clear
+76,Soyabean,Taal,2015-12-29,3578.0,,27.2,clear
+77,Soyabean,Sailana,2015-12-10,3955.0,168.9,27.2,clear
+78,Soyabean,Taal,2015-12-10,3775.0,,27.2,clear
+79,Soyabean,Taal,2015-12-09,3141.0,9.5,26.6,clear
+80,Mustard,A lot,2016-01-28,3000.0,1.28,27.2,clear
+81,Mustard,Jaora,2016-01-28,3500.0,91.2,27.2,clear
+82,Mustard,Ratlam,2016-01-28,3334.0,0.1,27.2,clear
+83,Mustard,Taal,2016-01-28,3331.0,0.7,27.2,clear
+84,Soyabean,A lot,2016-01-28,3599.0,,27.2,clear
+85,Soyabean,Jaora,2016-01-28,3600.0,97.5,27.2,clear
+86,Soyabean,Ratlam,2016-01-28,3640.0,146.3,27.2,clear
+87,Soyabean,Sailana,2016-01-28,3665.0,61.1,27.2,clear
+88,Soyabean,Taal,2016-01-28,3616.0,,27.2,clear
+89,Mustard,A lot,2016-01-29,3310.0,0.42,29.2,clear
+90,Mustard,Jaora,2016-01-29,3565.0,86.1,29.2,clear
+91,Mustard,Taal,2016-01-29,3351.0,4.1,29.2,clear
+92,Soyabean,A lot,2016-01-29,3611.0,4.18,29.2,clear
+93,Soyabean,Jaora,2016-01-29,3675.0,100.1,29.2,clear
+94,Soyabean,Ratlam,2016-01-29,3645.0,106.5,29.2,clear
+95,Soyabean,Sailana,2016-01-29,3662.0,41.5,29.2,clear
+96,Soyabean,Taal,2016-01-29,3631.0,,29.2,clear
+97,Mustard,A lot,2016-01-30,3000.0,0.41,28.2,clear
+98,Mustard,Ratlam,2016-01-30,3146.0,1.8,28.2,clear
+99,Mustard,Taal,2016-01-30,3150.0,0.7,28.2,clear
+100,Soyabean,A lot,2016-01-30,3542.0,0.8,28.2,clear
+101,Soyabean,Ratlam,2016-01-30,3621.0,89.8,28.2,clear
+102,Soyabean,Sailana,2016-01-30,3620.0,40.0,28.2,clear
+103,Soyabean,Taal,2016-01-30,3595.0,21.79,28.2,clear
+104,Mustard,A lot,2016-01-02,3331.0,0.58,25.2,clear
+105,Mustard,Jaora,2016-01-02,3660.0,156.1,25.2,clear
+106,Mustard,Taal,2016-01-02,3300.0,4.33,25.2,clear
+107,Soyabean,A lot,2016-01-02,3496.0,2.6,25.2,clear
+108,Soyabean,Ratlam,2016-01-02,3618.0,181.6,25.2,clear
+109,Soyabean,Sailana,2016-01-02,3605.0,60.0,25.2,clear
+110,Soyabean,Taal,2016-01-02,3600.0,18.61,25.2,clear
+111,Mustard,A lot,2016-02-02,3200.0,0.32,27.6,clear
+112,Mustard,Jaora,2016-02-02,3400.0,98.6,27.6,clear
+113,Mustard,Ratlam,2016-02-02,3301.0,0.4,27.6,clear
+114,Mustard,Taal,2016-02-02,3270.0,1.82,27.6,clear
+115,Soyabean,A lot,2016-02-02,3572.0,6.51,27.6,clear
+116,Soyabean,Jaora,2016-02-02,3700.0,91.0,27.6,clear
+117,Soyabean,Ratlam,2016-02-02,3640.0,134.2,27.6,clear
+118,Soyabean,Sailana,2016-02-02,3660.0,44.0,27.6,clear
+119,Soyabean,Taal,2016-02-02,3607.0,10.22,27.6,clear
+120,Mustard,A lot,2016-03-02,3441.0,7.3,33.2,clear
+121,Mustard,Jaora,2016-03-02,3575.0,98.6,33.2,clear
+122,Mustard,Taal,2016-03-02,3445.0,5.14,33.2,clear
+123,Soyabean,A lot,2016-03-02,3541.0,2.17,33.2,clear
+124,Soyabean,Jaora,2016-03-02,3700.0,97.6,33.2,clear
+125,Soyabean,Ratlam,2016-03-02,3630.0,118.8,33.2,clear
+126,Soyabean,Sailana,2016-03-02,3700.0,30.0,33.2,clear
+127,Soyabean,Taal,2016-03-02,3626.0,14.95,33.2,clear
+128,Mustard,A lot,2016-04-02,3494.0,1.03,37.4,clear
+129,Mustard,Jaora,2016-04-02,3675.0,86.6,37.4,clear
+130,Mustard,Ratlam,2016-04-02,2690.0,0.5,37.4,clear
+131,Mustard,Taal,2016-04-02,3445.0,5.0,37.4,clear
+132,Soyabean,A lot,2016-04-02,3569.0,0.43,37.4,clear
+133,Soyabean,Jaora,2016-04-02,3690.0,90.8,37.4,clear
+134,Soyabean,Ratlam,2016-04-02,3655.0,86.8,37.4,clear
+135,Soyabean,Sailana,2016-04-02,3660.0,30.0,37.4,clear
+136,Soyabean,Taal,2016-04-02,3602.0,0.0,37.4,clear
+137,Mustard,A lot,2016-05-02,3352.0,2.92,38.2,clear
+138,Mustard,Taal,2016-05-02,3558.0,4.22,38.2,clear
+139,Soyabean,A lot,2016-05-02,3542.0,4.2,38.2,clear
+140,Soyabean,Ratlam,2016-05-02,3620.0,96.0,38.2,clear
+141,Soyabean,Sailana,2016-05-02,3696.0,29.4,38.2,clear
+142,Soyabean,Taal,2016-05-02,3621.0,,38.2,clear
+143,Mustard,A lot,2016-06-02,3566.0,1.24,39.2,clear
+144,Mustard,Jaora,2016-06-02,3740.0,74.9,39.2,clear
+145,Soyabean,A lot,2016-06-02,3520.0,1.05,39.2,clear
+146,Soyabean,Jaora,2016-06-02,3700.0,90.7,39.2,clear
+147,Soyabean,Ratlam,2016-06-02,3642.0,79.0,39.2,clear
+148,Soyabean,Sailana,2016-06-02,3681.0,32.0,39.2,clear
+149,Mustard,A lot,2016-08-02,3671.0,2.98,24.2,rain
+150,Mustard,Jaora,2016-08-02,3710.0,145.7,24.2,rain
+151,Mustard,Taal,2016-08-02,3600.0,6.55,24.2,rain
+152,Soyabean,Jaora,2016-08-02,3661.0,87.9,24.2,rain
+153,Soyabean,Sailana,2016-08-02,3675.0,45.0,24.2,rain
+154,Soyabean,Taal,2016-08-02,3631.0,13.66,24.2,rain
+155,Mustard,A lot,2016-09-02,3675.0,1.66,26.2,clear
+156,Mustard,Jaora,2016-09-02,3675.0,85.0,26.2,clear
+157,Mustard,Ratlam,2016-09-02,3250.0,0.3,26.2,clear
+158,Mustard,Taal,2016-09-02,3601.0,11.9,26.2,clear
+159,Soyabean,A lot,2016-09-02,3541.0,5.01,26.2,clear
+160,Soyabean,Jaora,2016-09-02,3690.0,89.0,26.2,clear
+161,Soyabean,Ratlam,2016-09-02,3648.0,156.6,26.2,clear
+162,Soyabean,Sailana,2016-09-02,3640.0,49.0,26.2,clear
+163,Soyabean,Taal,2016-09-02,3619.0,13.81,26.2,clear
+164,Mustard,A lot,2016-10-02,3391.0,0.23,28.2,clear
+165,Mustard,Jaora,2016-10-02,3450.0,75.0,28.2,clear
+166,Mustard,Taal,2016-10-02,3650.0,9.26,28.2,clear
+167,Soyabean,A lot,2016-10-02,3540.0,1.79,28.2,clear
+168,Soyabean,Jaora,2016-10-02,3750.0,85.0,28.2,clear
+169,Soyabean,Ratlam,2016-10-02,3645.0,95.7,28.2,clear
+170,Soyabean,Sailana,2016-10-02,3668.0,45.0,28.2,clear
+171,Soyabean,Taal,2016-10-02,3580.0,13.0,28.2,clear
+172,Mustard,A lot,2016-11-02,3656.0,1.87,27.2,clear
+173,Mustard,Jaora,2016-11-02,3600.0,69.6,27.2,clear
+174,Mustard,Ratlam,2016-11-02,3350.0,1.2,27.2,clear
+175,Mustard,Taal,2016-11-02,3591.0,5.52,27.2,clear
+176,Soyabean,A lot,2016-11-02,3486.0,0.77,27.2,clear
+177,Soyabean,Jaora,2016-11-02,3650.0,80.8,27.2,clear
+178,Soyabean,Ratlam,2016-11-02,3640.0,78.4,27.2,clear
+179,Soyabean,Sailana,2016-11-02,3662.0,39.3,27.2,clear
+180,Soyabean,Taal,2016-11-02,3621.0,,27.2,clear
+181,Mustard,A lot,2016-12-02,3701.0,0.0,24.2,clear
+182,Mustard,Jaora,2016-12-02,3600.0,73.5,24.2,clear
+183,Mustard,Taal,2016-12-02,3675.0,4.57,24.2,clear
+184,Soyabean,A lot,2016-12-02,3630.0,1.47,24.2,clear
+185,Soyabean,Jaora,2016-12-02,3700.0,81.0,24.2,clear
+186,Soyabean,Ratlam,2016-12-02,3638.0,67.5,24.2,clear
+187,Soyabean,Taal,2016-12-02,3600.0,7.54,24.2,clear
+188,Mustard,A lot,2016-02-13,3820.0,1.44,25.6,clear
+189,Mustard,Taal,2016-02-13,3751.0,7.29,25.6,clear
+190,Soyabean,A lot,2016-02-13,3562.0,1.36,25.6,clear
+191,Soyabean,Taal,2016-02-13,3751.0,5.92,25.6,clear
+192,Mustard,A lot,2016-02-15,4000.0,2.55,28.2,clear
+193,Mustard,Jaora,2016-02-15,3725.0,61.9,28.2,clear
+194,Mustard,Ratlam,2016-02-15,3202.0,0.3,28.2,clear
+195,Mustard,Taal,2016-02-15,3827.0,6.77,28.2,clear
+196,Soyabean,A lot,2016-02-15,3542.0,,28.2,clear
+197,Soyabean,Jaora,2016-02-15,3675.0,39.7,28.2,clear
+198,Soyabean,Ratlam,2016-02-15,3640.0,125.1,28.2,clear
+199,Soyabean,Sailana,2016-02-15,3642.0,45.0,28.2,clear
+200,Soyabean,Taal,2016-02-15,3641.0,18.19,28.2,clear
+201,Mustard,A lot,2016-02-16,3894.0,863.0,26.2,clear
+202,Mustard,Jaora,2016-02-16,3817.0,82.1,26.2,clear
+203,Mustard,Taal,2016-02-16,3841.0,5.61,26.2,clear
+204,Soyabean,A lot,2016-02-16,3500.0,4.2,26.2,clear
+205,Soyabean,Jaora,2016-02-16,3580.0,157.9,26.2,clear
+206,Soyabean,Ratlam,2016-02-16,3660.0,95.6,26.2,clear
+207,Soyabean,Sailana,2016-02-16,3500.0,25.3,26.2,clear
+208,Soyabean,Taal,2016-02-16,3610.0,5.92,26.2,clear
+209,Mustard,A lot,2016-02-17,3860.0,1.85,31.2,clear
+210,Mustard,Taal,2016-02-17,3762.0,5.43,31.2,clear
+211,Soyabean,A lot,2016-02-17,3500.0,2.63,31.2,clear
+212,Soyabean,Ratlam,2016-02-17,3640.0,122.6,31.2,clear
+213,Soyabean,Sailana,2016-02-17,3600.0,28.7,31.2,clear
+214,Soyabean,Taal,2016-02-17,3600.0,,31.2,clear
+215,Mustard,A lot,2016-02-19,3921.0,2.46,32.2,clear
+216,Mustard,Jaora,2016-02-19,3962.0,80.9,32.2,clear
+217,Mustard,Taal,2016-02-19,3741.0,2.55,32.2,clear
+218,Soyabean,A lot,2016-02-19,3549.0,2.76,32.2,clear
+219,Soyabean,Jaora,2016-02-19,3700.0,72.1,32.2,clear
+220,Soyabean,Ratlam,2016-02-19,3645.0,115.4,32.2,clear
+221,Soyabean,Sailana,2016-02-19,3678.0,29.5,32.2,clear
+222,Soyabean,Taal,2016-02-19,3618.0,9.86,32.2,clear
+223,Mustard,A lot,2016-02-20,3976.0,1.27,24.2,clear
+224,Mustard,Jaora,2016-02-20,3962.0,80.9,24.2,clear
+225,Soyabean,A lot,2016-02-20,3660.0,3.46,24.2,clear
+226,Soyabean,Jaora,2016-02-20,3600.0,64.0,24.2,clear
+227,Soyabean,Ratlam,2016-02-20,3630.0,82.2,24.2,clear
+228,Soyabean,Sailana,2016-02-20,3557.0,8.8,24.2,clear
+229,Mustard,A lot,2016-02-23,3732.0,4.56,29.6,clear
+230,Mustard,Jaora,2016-02-23,3715.0,56.5,29.6,clear
+231,Mustard,Ratlam,2016-02-23,3501.0,0.1,29.6,clear
+232,Mustard,Sailana,2016-02-23,3638.0,2.2,29.6,clear
+233,Mustard,Taal,2016-02-23,3810.0,3.91,29.6,clear
+234,Soyabean,A lot,2016-02-23,3487.0,1.75,29.6,clear
+235,Soyabean,Jaora,2016-02-23,3630.0,104.6,29.6,clear
+236,Soyabean,Ratlam,2016-02-23,3636.0,138.1,29.6,clear
+237,Soyabean,Sailana,2016-02-23,3580.0,41.6,29.6,clear
+238,Soyabean,Taal,2016-02-23,3601.0,0.97,29.6,clear
+239,Mustard,A lot,2016-02-24,3666.0,5.23,18.2,clear
+240,Mustard,Sailana,2016-02-24,3670.0,4.3,18.2,clear
+241,Mustard,Taal,2016-02-24,3596.0,1.61,18.2,clear
+242,Soyabean,A lot,2016-02-24,3470.0,0.45,18.2,clear
+243,Soyabean,Ratlam,2016-02-24,3556.0,102.7,18.2,clear
+244,Soyabean,Sailana,2016-02-24,3580.0,41.6,18.2,clear
+245,Soyabean,Taal,2016-02-24,3615.0,10.77,18.2,clear
+246,Mustard,A lot,2016-02-25,3675.0,2.38,29.2,clear
+247,Mustard,Jaora,2016-02-25,3703.0,31.2,29.2,clear
+248,Mustard,Ratlam,2016-02-25,3501.0,0.6,29.2,clear
+249,Mustard,Sailana,2016-02-25,3646.0,5.0,29.2,clear
+250,Mustard,Taal,2016-02-25,3660.0,5.09,29.2,clear
+251,Soyabean,A lot,2016-02-25,3537.0,1.35,29.2,clear
+252,Soyabean,Jaora,2016-02-25,3575.0,67.7,29.2,clear
+253,Soyabean,Ratlam,2016-02-25,3560.0,64.5,29.2,clear
+254,Soyabean,Sailana,2016-02-25,3610.0,15.3,29.2,clear
+255,Soyabean,Taal,2016-02-25,3560.0,,29.2,clear
+256,Mustard,A lot,2016-02-26,3766.0,0.34,30.2,clear
+257,Mustard,Jaora,2016-02-26,3686.0,19.2,30.2,clear
+258,Mustard,Sailana,2016-02-26,3645.0,3.6,30.2,clear
+259,Mustard,Taal,2016-02-26,3651.0,6.3,30.2,clear
+260,Soyabean,Jaora,2016-02-26,3531.0,63.5,30.2,clear
+261,Soyabean,Ratlam,2016-02-26,3555.0,107.7,30.2,clear
+262,Soyabean,Sailana,2016-02-26,3595.0,34.5,30.2,clear
+263,Soyabean,Taal,2016-02-26,3614.0,10.35,30.2,clear
+264,Mustard,A lot,2016-02-27,3830.0,1.96,30.2,clear
+265,Mustard,Taal,2016-02-27,3651.0,0.85,30.2,clear
+266,Soyabean,A lot,2016-02-27,3581.0,40.28,30.2,clear
+267,Mustard,A lot,2016-01-03,3700.0,3.22,25.6,clear
+268,Mustard,Taal,2016-01-03,3651.0,2.46,25.6,clear
+269,Soyabean,A lot,2016-01-03,3515.0,3.26,25.6,clear
+270,Soyabean,Ratlam,2016-01-03,3530.0,82.3,25.6,clear
+271,Soyabean,Sailana,2016-01-03,3559.0,20.7,25.6,clear
+272,Soyabean,Taal,2016-01-03,3550.0,,25.6,clear
+273,Mustard,A lot,2016-03-03,3615.0,1.13,24.6,clear
+274,Mustard,Jaora,2016-03-03,3565.0,20.9,24.6,clear
+275,Mustard,Taal,2016-03-03,3561.0,0.62,24.6,clear
+276,Soyabean,Jaora,2016-03-03,3587.0,44.6,24.6,clear
+277,Soyabean,Ratlam,2016-03-03,3520.0,26.4,24.6,clear
+278,Soyabean,Sailana,2016-03-03,3590.0,11.5,24.6,clear
+279,Soyabean,Taal,2016-03-03,3450.0,0.73,24.6,clear
+280,Mustard,A lot,2016-04-03,3656.0,2.53,28.2,clear
+281,Mustard,Taal,2016-04-03,3630.0,2.04,28.2,clear
+282,Soyabean,A lot,2016-04-03,3300.0,0.25,28.2,clear
+283,Soyabean,Ratlam,2016-04-03,3481.0,60.0,28.2,clear
+284,Soyabean,Sailana,2016-04-03,3650.0,21.8,28.2,clear
+285,Soyabean,Taal,2016-04-03,3500.0,11.82,28.2,clear
+286,Mustard,A lot,2016-05-03,3575.0,2.66,39.2,clear
+287,Mustard,Jaora,2016-05-03,3560.0,18.0,39.2,clear
+288,Mustard,Taal,2016-05-03,3500.0,0.23,39.2,clear
+289,Soyabean,A lot,2016-05-03,3515.0,1.45,39.2,clear
+290,Soyabean,Jaora,2016-05-03,3600.0,65.0,39.2,clear
+291,Soyabean,Ratlam,2016-05-03,3519.0,60.5,39.2,clear
+292,Soyabean,Sailana,2016-05-03,3605.0,0.0,39.2,clear
+293,Soyabean,Taal,2016-05-03,3509.0,3.68,39.2,clear
+294,Mustard,A lot,2016-08-03,3500.0,0.56,23.6,clear
+295,Mustard,Jaora,2016-08-03,3658.0,9.8,23.6,clear
+296,Mustard,Taal,2016-08-03,3500.0,0.92,23.6,clear
+297,Soyabean,A lot,2016-08-03,3551.0,2.23,23.6,clear
+298,Soyabean,Jaora,2016-08-03,3570.0,61.6,23.6,clear
+299,Soyabean,Ratlam,2016-08-03,3538.0,91.4,23.6,clear
+300,Soyabean,Sailana,2016-08-03,3620.0,23.4,23.6,clear
+301,Soyabean,Taal,2016-08-03,3600.0,16.63,23.6,clear
+302,Mustard,A lot,2016-09-03,3601.0,1.07,27.2,clear
+303,Mustard,Jaora,2016-09-03,3680.0,12.4,27.2,clear
+304,Mustard,Taal,2016-09-03,3551.0,3.22,27.2,clear
+305,Soyabean,A lot,2016-09-03,3560.0,1.12,27.2,clear
+306,Soyabean,Jaora,2016-09-03,3600.0,77.9,27.2,clear
+307,Soyabean,Ratlam,2016-09-03,3565.0,79.9,27.2,clear
+308,Soyabean,Sailana,2016-09-03,3615.0,49.2,27.2,clear
+309,Soyabean,Taal,2016-09-03,3600.0,4.62,27.2,clear
+310,Mustard,A lot,2016-10-03,3451.0,0.57,26.2,clear
+311,Mustard,Jaora,2016-10-03,3685.0,15.7,26.2,clear
+312,Mustard,Taal,2016-10-03,3600.0,4.94,26.2,clear
+313,Soyabean,A lot,2016-10-03,3432.0,0.21,26.2,clear
+314,Soyabean,Jaora,2016-10-03,3550.0,85.8,26.2,clear
+315,Soyabean,Ratlam,2016-10-03,3556.0,111.9,26.2,clear
+316,Soyabean,Sailana,2016-10-03,3537.0,56.5,26.2,clear
+317,Soyabean,Taal,2016-10-03,3568.0,22.38,26.2,clear
+318,Mustard,A lot,2016-11-03,3651.0,1.17,27.2,clear
+319,Mustard,Jaora,2016-11-03,3680.0,12.4,27.2,clear
+320,Mustard,Taal,2016-11-03,3600.0,1.12,27.2,clear
+321,Soyabean,A lot,2016-11-03,3500.0,0.35,27.2,clear
+322,Soyabean,Jaora,2016-11-03,3600.0,77.9,27.2,clear
+323,Soyabean,Taal,2016-11-03,3541.0,,27.2,clear
+324,Mustard,A lot,2016-12-03,4231.0,0.12,24.2,clear
+325,Soyabean,Taal,2016-12-03,3611.0,,24.2,clear
+326,Mustard,A lot,2016-03-16,3580.0,0.59,32.2,clear
+327,Mustard,Jaora,2016-03-16,3600.0,15.0,32.2,clear
+328,Mustard,Sailana,2016-03-16,5150.0,0.3,32.2,clear
+329,Mustard,Taal,2016-03-16,3696.0,1.5,32.2,clear
+330,Soyabean,A lot,2016-03-16,3675.0,0.15,32.2,clear
+331,Soyabean,Jaora,2016-03-16,3535.0,100.0,32.2,clear
+332,Soyabean,Ratlam,2016-03-16,3581.0,82.6,32.2,clear
+333,Soyabean,Sailana,2016-03-16,3650.0,52.6,32.2,clear
+334,Soyabean,Taal,2016-03-16,3576.0,15.67,32.2,clear
+335,Mustard,A lot,2016-03-17,3451.0,0.46,35.2,clear
+336,Mustard,Jaora,2016-03-17,3600.0,15.0,35.2,clear
+337,Mustard,Ratlam,2016-03-17,3210.0,0.1,35.2,clear
+338,Soyabean,Jaora,2016-03-17,3550.0,102.5,35.2,clear
+339,Soyabean,Ratlam,2016-03-17,3654.0,125.0,35.2,clear
+340,Soyabean,Taal,2016-03-17,3621.0,,35.2,clear
+341,Mustard,A lot,2016-03-18,3500.0,0.96,34.2,clear
+342,Mustard,Jaora,2016-03-18,3675.0,19.9,34.2,clear
+343,Mustard,Taal,2016-03-18,3596.0,3.94,34.2,clear
+344,Soyabean,Jaora,2016-03-18,3500.0,137.4,34.2,clear
+345,Soyabean,Ratlam,2016-03-18,3660.0,178.0,34.2,clear
+346,Soyabean,Sailana,2016-03-18,3540.0,44.1,34.2,clear
+347,Soyabean,Taal,2016-03-18,3626.0,21.29,34.2,clear
+348,Mustard,A lot,2016-03-19,3413.0,0.11,24.6,clear
+349,Mustard,Jaora,2016-03-19,3540.0,13.3,24.6,clear
+350,Soyabean,Jaora,2016-03-19,3600.0,167.9,24.6,clear
+351,Soyabean,Ratlam,2016-03-19,3658.0,134.9,24.6,clear
+352,Soyabean,Sailana,2016-03-19,3575.0,36.0,24.6,clear
+353,Mustard,A lot,2016-03-22,3500.0,0.13,35.2,clear
+354,Mustard,Jaora,2016-03-22,3510.0,3.5,35.2,clear
+355,Mustard,Taal,2016-03-22,3555.0,1.07,35.2,clear
+356,Soyabean,Jaora,2016-03-22,3839.0,58.8,35.2,clear
+357,Soyabean,Ratlam,2016-03-22,7380.0,40.2,35.2,clear
+358,Soyabean,Taal,2016-03-22,3795.0,6.06,35.2,clear
+359,Mustard,A lot,2016-03-26,3400.0,0.21,25.6,clear
+360,Mustard,Taal,2016-03-26,3550.0,0.29,25.6,clear
+361,Soyabean,Taal,2016-03-26,3691.0,6.47,25.6,clear
+362,Mustard,A lot,2016-02-04,3735.0,0.32,24.6,clear
+363,Soyabean,A lot,2016-02-04,3816.0,0.29,24.6,clear
+364,Soyabean,Ratlam,2016-02-04,4000.0,108.1,24.6,clear
+365,Soyabean,Taal,2016-02-04,3891.0,5.7,24.6,clear
+366,Mustard,A lot,2016-07-04,3855.0,2.57,27.2,clear
+367,Mustard,Jaora,2016-07-04,3950.0,15.0,27.2,clear
+368,Mustard,Ratlam,2016-07-04,3300.0,0.0,27.2,clear
+369,Soyabean,Jaora,2016-07-04,3900.0,205.0,27.2,clear
+370,Soyabean,Ratlam,2016-07-04,3970.0,410.6,27.2,clear
+371,Soyabean,Sailana,2016-07-04,3860.0,39.0,27.2,clear
+372,Mustard,A lot,2016-11-04,3811.0,1.68,27.2,clear
+373,Mustard,Jaora,2016-11-04,4018.0,71.7,27.2,clear
+374,Mustard,Ratlam,2016-11-04,3850.0,0.3,27.2,clear
+375,Mustard,Taal,2016-11-04,3801.0,0.11,27.2,clear
+376,Soyabean,A lot,2016-11-04,3851.0,0.35,27.2,clear
+377,Soyabean,Jaora,2016-11-04,3965.0,445.3,27.2,clear
+378,Soyabean,Ratlam,2016-11-04,3965.0,382.8,27.2,clear
+379,Soyabean,Sailana,2016-11-04,3865.0,36.1,27.2,clear
+380,Soyabean,Taal,2016-11-04,3900.0,,27.2,clear
+381,Mustard,A lot,2016-04-13,3800.0,0.35,38.2,clear
+382,Mustard,Taal,2016-04-13,3805.0,0.3,38.2,clear
+383,Soyabean,A lot,2016-04-13,3870.0,2.79,38.2,clear
+384,Soyabean,Ratlam,2016-04-13,3975.0,362.3,38.2,clear
+385,Soyabean,Sailana,2016-04-13,3813.0,48.4,38.2,clear
+386,Soyabean,Taal,2016-04-13,3915.0,32.04,38.2,clear
+387,Mustard,A lot,2016-04-25,3812.0,0.29,34.2,clear
+388,Mustard,Jaora,2016-04-25,4100.0,8.5,34.2,clear
+389,Mustard,Taal,2016-04-25,3951.0,0.19,34.2,clear
+390,Soyabean,A lot,2016-04-25,3889.0,0.28,34.2,clear
+391,Soyabean,Jaora,2016-04-25,4000.0,195.0,34.2,clear
+392,Soyabean,Ratlam,2016-04-25,3850.0,412.9,34.2,clear
+393,Soyabean,Sailana,2016-04-25,3868.0,34.7,34.2,clear
+394,Soyabean,Taal,2016-04-25,3850.0,6.35,34.2,clear
+395,Mustard,A lot,2016-04-30,3790.0,0.55,40.2,clear
+396,Soyabean,A lot,2016-04-30,3650.0,0.28,40.2,clear
+397,Soyabean,Sailana,2016-04-30,3761.0,9.9,40.2,clear
+398,Soyabean,Taal,2016-04-30,3875.0,,40.2,clear
+399,Mustard,A lot,2016-05-17,3840.0,0.24,42.2,clear
+400,Mustard,Jaora,2016-05-17,3950.0,6.3,42.2,clear
+401,Soyabean,A lot,2016-05-17,3820.0,0.39,42.2,clear
+402,Soyabean,Jaora,2016-05-17,3850.0,85.5,42.2,clear
+403,Soyabean,Ratlam,2016-05-17,3989.0,208.7,42.2,clear
+404,Soyabean,Sailana,2016-05-17,3925.0,30.8,42.2,clear
+405,Soyabean,Taal,2016-05-17,3931.0,8.4,42.2,clear
+406,Mustard,A lot,2016-05-20,3750.0,0.22,43.2,clear
+407,Mustard,Ratlam,2016-05-20,3801.0,0.2,43.2,clear
+408,Mustard,Taal,2016-05-20,4000.0,1.97,43.2,clear
+409,Soyabean,Ratlam,2016-05-20,3885.0,164.5,43.2,clear
+410,Soyabean,Sailana,2016-05-20,3841.0,27.5,43.2,clear
+411,Soyabean,Taal,2016-05-20,3871.0,19.75,43.2,clear
+412,Mustard,A lot,2016-05-23,3783.0,0.19,28.2,clear
+413,Mustard,Ratlam,2016-05-23,3800.0,0.3,28.2,clear
+414,Mustard,Taal,2016-05-23,3900.0,0.02,28.2,clear
+415,Soyabean,A lot,2016-05-23,3817.0,4.49,28.2,clear
+416,Soyabean,Ratlam,2016-05-23,3960.0,272.2,28.2,clear
+417,Soyabean,Sailana,2016-05-23,3900.0,25.1,28.2,clear
+418,Soyabean,Taal,2016-05-23,3874.0,,28.2,clear
+419,Mustard,A lot,2016-05-28,3755.0,18.0,37.2,clear
+420,Soyabean,A lot,2016-05-28,3618.0,2.14,37.2,clear
+421,Soyabean,Taal,2016-05-28,3821.0,,37.2,clear
+422,Mustard,A lot,2016-05-30,3776.0,0.29,37.6,clear
+423,Mustard,Jaora,2016-05-30,3950.0,6.5,37.6,clear
+424,Mustard,Taal,2016-05-30,3875.0,0.03,37.6,clear
+425,Soyabean,Jaora,2016-05-30,3850.0,115.1,37.6,clear
+426,Soyabean,Ratlam,2016-05-30,3825.0,338.0,37.6,clear
+427,Soyabean,Sailana,2016-05-30,3685.0,59.0,37.6,clear
+428,Soyabean,Taal,2016-05-30,3800.0,,37.6,clear
+429,Mustard,A lot,2016-05-31,3776.0,0.29,38.2,clear
+430,Mustard,Jaora,2016-05-31,3950.0,5.7,38.2,clear
+431,Mustard,Ratlam,2016-05-31,3675.0,0.2,38.2,clear
+432,Soyabean,Jaora,2016-05-31,3920.0,129.6,38.2,clear
+433,Soyabean,Ratlam,2016-05-31,3725.0,306.0,38.2,clear
+434,Soyabean,Sailana,2016-05-31,3735.0,44.7,38.2,clear
+435,Soyabean,Taal,2016-05-31,3751.0,21.05,38.2,clear
+436,Mustard,A lot,2016-06-14,3971.0,0.18,35.2,clear
+437,Mustard,Jaora,2016-06-14,4150.0,12.0,35.2,clear
+438,Mustard,Ratlam,2016-06-14,3700.0,0.4,35.2,clear
+439,Soyabean,A lot,2016-06-14,3757.0,5.64,35.2,clear
+440,Soyabean,Jaora,2016-06-14,4000.0,,35.2,clear
+441,Soyabean,Ratlam,2016-06-14,3799.0,262.9,35.2,clear
+442,Soyabean,Sailana,2016-06-14,3749.0,35.0,35.2,clear
+443,Soyabean,Taal,2016-06-14,3780.0,34.98,35.2,clear
+444,Mustard,A lot,2016-09-17,2757.0,1.14,32.2,clear
+445,Soyabean,Ratlam,2016-09-17,3284.0,100.1,32.2,clear
+446,Soyabean,Sailana,2016-09-17,3142.0,12.3,32.2,clear
+447,Soyabean,Taal,2016-09-17,3150.0,16.98,32.2,clear
+448,Mustard,Jaora,2016-02-01,3678.0,11.8,27.2,clear
+449,Soyabean,A lot,2016-02-01,3575.0,9.98,27.2,clear
+450,Soyabean,Jaora,2016-02-01,3675.0,79.5,27.2,clear
+451,Soyabean,Sailana,2016-02-01,3658.0,35.9,27.2,clear
+452,Soyabean,Taal,2016-02-01,3571.0,,27.2,clear
+453,Mustard,Jaora,2016-04-01,3800.0,18.9,36.6,clear
+454,Soyabean,A lot,2016-04-01,3560.0,9.69,36.6,clear
+455,Soyabean,Jaora,2016-04-01,3730.0,123.2,36.6,clear
+456,Soyabean,Ratlam,2016-04-01,3665.0,183.5,36.6,clear
+457,Soyabean,Sailana,2016-04-01,3646.0,55.9,36.6,clear
+458,Soyabean,Taal,2016-04-01,3585.0,,36.6,clear
+459,Mustard,Jaora,2016-05-01,3870.0,9.5,29.2,clear
+460,Soyabean,A lot,2016-05-01,3560.0,,29.2,clear
+461,Soyabean,Ratlam,2016-05-01,3662.0,188.7,29.2,clear
+462,Soyabean,Sailana,2016-05-01,3620.0,46.2,29.2,clear
+463,Soyabean,Taal,2016-05-01,3608.0,,29.2,clear
+464,Mustard,Jaora,2016-06-01,3815.0,29.0,38.6,clear
+465,Soyabean,A lot,2016-06-01,3555.0,,38.6,clear
+466,Soyabean,Jaora,2016-06-01,3685.0,83.4,38.6,clear
+467,Soyabean,Ratlam,2016-06-01,3590.0,151.6,38.6,clear
+468,Soyabean,Sailana,2016-06-01,3652.0,50.0,38.6,clear
+469,Soyabean,Taal,2016-06-01,3571.0,,38.6,clear
+470,Mustard,Jaora,2016-07-01,3770.0,69.6,34.2,clear
+471,Soyabean,A lot,2016-07-01,3549.0,3.95,34.2,clear
+472,Soyabean,Jaora,2016-07-01,3600.0,184.4,34.2,clear
+473,Soyabean,Ratlam,2016-07-01,3569.0,122.6,34.2,clear
+474,Soyabean,Sailana,2016-07-01,3653.0,52.7,34.2,clear
+475,Soyabean,Taal,2016-07-01,3565.0,,34.2,clear
+476,Mustard,Jaora,2016-08-01,3813.0,11.8,26.2,clear
+477,Mustard,Ratlam,2016-08-01,3350.0,0.4,26.2,clear
+478,Soyabean,A lot,2016-08-01,3531.0,1.53,26.2,clear
+479,Soyabean,Jaora,2016-08-01,3612.0,80.1,26.2,clear
+480,Soyabean,Ratlam,2016-08-01,3660.0,137.1,26.2,clear
+481,Soyabean,Taal,2016-08-01,3575.0,,26.2,clear
+482,Mustard,Jaora,2016-11-01,3775.0,69.6,20.2,clear
+483,Mustard,Ratlam,2016-11-01,3600.0,0.2,20.2,clear
+484,Soyabean,A lot,2016-11-01,3510.0,2.72,20.2,clear
+485,Soyabean,Jaora,2016-11-01,3662.0,184.4,20.2,clear
+486,Soyabean,Ratlam,2016-11-01,3660.0,200.5,20.2,clear
+487,Soyabean,Sailana,2016-11-01,3618.0,55.3,20.2,clear
+488,Soyabean,Taal,2016-11-01,3581.0,28.98,20.2,clear
+489,Mustard,Jaora,2016-12-01,3610.0,47.5,17.2,clear
+490,Mustard,Taal,2016-12-01,3322.0,0.45,17.2,clear
+491,Soyabean,A lot,2016-12-01,3521.0,5.73,17.2,clear
+492,Soyabean,Jaora,2016-12-01,3632.0,191.1,17.2,clear
+493,Soyabean,Ratlam,2016-12-01,3550.0,162.6,17.2,clear
+494,Soyabean,Sailana,2016-12-01,3635.0,41.2,17.2,clear
+495,Soyabean,Taal,2016-12-01,3575.0,,17.2,clear
+496,Mustard,Jaora,2016-01-15,3684.0,43.7,24.6,clear
+497,Soyabean,A lot,2016-01-15,3590.0,2.6,24.6,clear
+498,Soyabean,Jaora,2016-01-15,3752.0,68.5,24.6,clear
+499,Soyabean,Sailana,2016-01-15,3613.0,5.9,24.6,clear
+500,Soyabean,Taal,2016-01-15,3591.0,23.05,24.6,clear
+501,Mustard,Jaora,2016-01-18,3561.0,154.2,22.6,clear
+502,Mustard,Ratlam,2016-01-18,3642.0,0.8,22.6,clear
+503,Mustard,Taal,2016-01-18,3551.0,1.29,22.6,clear
+504,Soyabean,A lot,2016-01-18,3540.0,6.75,22.6,clear
+505,Soyabean,Jaora,2016-01-18,3650.0,198.2,22.6,clear
+506,Soyabean,Ratlam,2016-01-18,3630.0,171.3,22.6,clear
+507,Soyabean,Sailana,2016-01-18,3640.0,51.9,22.6,clear
+508,Soyabean,Taal,2016-01-18,3584.0,24.63,22.6,clear
+509,Mustard,Jaora,2016-01-19,3450.0,74.9,20.2,clear
+510,Mustard,Taal,2016-01-19,3451.0,0.4,20.2,clear
+511,Soyabean,A lot,2016-01-19,3540.0,0.32,20.2,clear
+512,Soyabean,Jaora,2016-01-19,3650.0,152.2,20.2,clear
+513,Soyabean,Ratlam,2016-01-19,3640.0,82.6,20.2,clear
+514,Soyabean,Sailana,2016-01-19,3636.0,56.7,20.2,clear
+515,Soyabean,Taal,2016-01-19,3601.0,17.1,20.2,clear
+516,Mustard,Jaora,2016-01-20,3655.0,81.1,20.2,clear
+517,Mustard,Taal,2016-01-20,3600.0,0.6,20.2,clear
+518,Soyabean,A lot,2016-01-20,3542.0,5.51,20.2,clear
+519,Soyabean,Jaora,2016-01-20,3700.0,123.1,20.2,clear
+520,Soyabean,Ratlam,2016-01-20,3670.0,103.2,20.2,clear
+521,Soyabean,Sailana,2016-01-20,3665.0,33.9,20.2,clear
+522,Soyabean,Taal,2016-01-20,3651.0,8.0,20.2,clear
+523,Mustard,Jaora,2016-01-21,3490.0,45.1,8.0,clear
+524,Mustard,Taal,2016-01-21,3581.0,0.43,8.0,clear
+525,Soyabean,A lot,2016-01-21,3611.0,14.63,8.0,clear
+526,Soyabean,Jaora,2016-01-21,3700.0,98.2,8.0,clear
+527,Soyabean,Ratlam,2016-01-21,3666.0,180.5,8.0,clear
+528,Soyabean,Sailana,2016-01-21,3655.0,40.6,8.0,clear
+529,Soyabean,Taal,2016-01-21,3670.0,,8.0,clear
+530,Mustard,Jaora,2016-01-22,3330.0,58.9,10.2,clear
+531,Mustard,Ratlam,2016-01-22,3391.0,0.6,10.2,clear
+532,Soyabean,A lot,2016-01-22,3550.0,4.09,10.2,clear
+533,Soyabean,Jaora,2016-01-22,3625.0,85.4,10.2,clear
+534,Soyabean,Ratlam,2016-01-22,3665.0,155.4,10.2,clear
+535,Soyabean,Sailana,2016-01-22,3642.0,35.0,10.2,clear
+536,Soyabean,Taal,2016-01-22,3651.0,36.56,10.2,clear
+537,Mustard,Jaora,2016-01-31,3375.0,76.1,28.2,clear
+538,Soyabean,Jaora,2016-01-31,3700.0,81.6,28.2,clear
+539,Mustard,Jaora,2016-02-29,3830.0,28.3,32.2,clear
+540,Mustard,Sailana,2016-02-29,3675.0,4.2,32.2,clear
+541,Mustard,Taal,2016-02-29,3651.0,4.88,32.2,clear
+542,Soyabean,Jaora,2016-02-29,3700.0,89.1,32.2,clear
+543,Soyabean,Sailana,2016-02-29,3603.0,37.8,32.2,clear
+544,Soyabean,Taal,2016-02-29,3551.0,9.41,32.2,clear
+545,Mustard,Jaora,2016-02-03,3620.0,33.0,24.2,clear
+546,Mustard,Ratlam,2016-02-03,3100.0,0.4,24.2,clear
+547,Mustard,Taal,2016-02-03,3600.0,0.56,24.2,clear
+548,Soyabean,Jaora,2016-02-03,3512.0,65.0,24.2,clear
+549,Soyabean,Ratlam,2016-02-03,3525.0,62.8,24.2,clear
+550,Soyabean,Sailana,2016-02-03,3595.0,25.6,24.2,clear
+551,Soyabean,Taal,2016-02-03,3536.0,,24.2,clear
+552,Mustard,Jaora,2016-03-21,3660.0,9.7,35.2,clear
+553,Mustard,Ratlam,2016-03-21,3100.0,0.5,35.2,clear
+554,Mustard,Taal,2016-03-21,3575.0,3.52,35.2,clear
+555,Soyabean,A lot,2016-03-21,3575.0,1.12,35.2,clear
+556,Soyabean,Jaora,2016-03-21,3700.0,152.6,35.2,clear
+557,Soyabean,Ratlam,2016-03-21,3670.0,129.6,35.2,clear
+558,Soyabean,Taal,2016-03-21,3600.0,26.09,35.2,clear
+559,Mustard,Jaora,2016-03-24,3670.0,1.0,37.2,clear
+560,Soyabean,A lot,2016-03-24,2370.0,,37.2,clear
+561,Soyabean,Jaora,2016-03-24,3600.0,71.2,37.2,clear
+562,Soyabean,Ratlam,2016-03-24,3822.0,40.1,37.2,clear
+563,Soyabean,Sailana,2016-03-24,3700.0,8.6,37.2,clear
+564,Soyabean,Taal,2016-03-24,3810.0,1.98,37.2,clear
+565,Mustard,Jaora,2016-04-04,3975.0,20.1,35.2,clear
+566,Mustard,Ratlam,2016-04-04,3340.0,0.7,35.2,clear
+567,Soyabean,A lot,2016-04-04,3928.0,1.08,35.2,clear
+568,Soyabean,Jaora,2016-04-04,4035.0,199.2,35.2,clear
+569,Soyabean,Ratlam,2016-04-04,3995.0,244.5,35.2,clear
+570,Soyabean,Sailana,2016-04-04,3885.0,38.1,35.2,clear
+571,Soyabean,Taal,2016-04-04,3945.0,11.22,35.2,clear
+572,Mustard,Jaora,2016-05-04,3975.0,20.1,30.2,clear
+573,Soyabean,Jaora,2016-05-04,4035.0,199.2,30.2,clear
+574,Soyabean,Sailana,2016-05-04,3800.0,35.6,30.2,clear
+575,Soyabean,Taal,2016-05-04,3926.0,,30.2,clear
+576,Mustard,Jaora,2016-06-04,4032.0,19.2,42.6,clear
+577,Soyabean,A lot,2016-06-04,3800.0,0.31,42.6,clear
+578,Soyabean,Jaora,2016-06-04,3960.0,233.3,42.6,clear
+579,Soyabean,Sailana,2016-06-04,3780.0,30.6,42.6,clear
+580,Mustard,Jaora,2016-12-04,3927.0,35.0,24.6,clear
+581,Mustard,Ratlam,2016-12-04,3700.0,0.1,24.6,clear
+582,Soyabean,A lot,2016-12-04,3851.0,0.61,24.6,clear
+583,Soyabean,Jaora,2016-12-04,3943.0,269.5,24.6,clear
+584,Soyabean,Ratlam,2016-12-04,3960.0,387.0,24.6,clear
+585,Soyabean,Sailana,2016-12-04,3850.0,37.7,24.6,clear
+586,Mustard,Jaora,2016-04-18,3950.0,25.4,37.2,clear
+587,Soyabean,A lot,2016-04-18,3700.0,0.39,37.2,clear
+588,Soyabean,Jaora,2016-04-18,3850.0,255.0,37.2,clear
+589,Soyabean,Ratlam,2016-04-18,3970.0,294.6,37.2,clear
+590,Soyabean,Sailana,2016-04-18,3893.0,25.5,37.2,clear
+591,Mustard,Jaora,2016-04-20,4240.0,12.6,38.2,clear
+592,Soyabean,A lot,2016-04-20,3900.0,1.13,38.2,clear
+593,Soyabean,Jaora,2016-04-20,4089.0,146.6,38.2,clear
+594,Soyabean,Ratlam,2016-04-20,4090.0,291.4,38.2,clear
+595,Soyabean,Sailana,2016-04-20,3988.0,30.1,38.2,clear
+596,Mustard,Jaora,2016-04-26,4100.0,85.0,34.2,clear
+597,Mustard,Taal,2016-04-26,3800.0,0.29,34.2,clear
+598,Soyabean,A lot,2016-04-26,3800.0,1.18,34.2,clear
+599,Soyabean,Jaora,2016-04-26,4050.0,195.0,34.2,clear
+600,Soyabean,Ratlam,2016-04-26,3850.0,278.0,34.2,clear
+601,Soyabean,Sailana,2016-04-26,3750.0,27.9,34.2,clear
+602,Soyabean,Taal,2016-04-26,3751.0,,34.2,clear
+603,Mustard,Jaora,2016-04-27,3900.0,6.1,30.2,clear
+604,Mustard,Ratlam,2016-04-27,3650.0,0.4,30.2,clear
+605,Soyabean,Jaora,2016-04-27,3710.0,83.3,30.2,clear
+606,Soyabean,Ratlam,2016-04-27,3880.0,193.5,30.2,clear
+607,Soyabean,Sailana,2016-04-27,3621.0,19.0,30.2,clear
+608,Soyabean,Taal,2016-04-27,3841.0,23.65,30.2,clear
+609,Mustard,Jaora,2016-04-28,3975.0,6.9,39.2,clear
+610,Mustard,Taal,2016-04-28,3975.0,0.47,39.2,clear
+611,Soyabean,Ratlam,2016-04-28,3840.0,176.7,39.2,clear
+612,Soyabean,Sailana,2016-04-28,3714.5,11.7,39.2,clear
+613,Soyabean,Taal,2016-04-28,3881.0,12.42,39.2,clear
+614,Mustard,Jaora,2016-04-29,3950.0,6.8,40.2,clear
+615,Soyabean,A lot,2016-04-29,3731.0,2.03,40.2,clear
+616,Soyabean,Jaora,2016-04-29,3700.0,83.5,40.2,clear
+617,Soyabean,Ratlam,2016-04-29,3885.0,234.8,40.2,clear
+618,Soyabean,Sailana,2016-04-29,3725.0,14.7,40.2,clear
+619,Soyabean,Taal,2016-04-29,3831.0,,40.2,clear
+620,Mustard,Jaora,2016-02-05,4200.0,10.8,27.2,clear
+621,Soyabean,A lot,2016-02-05,3898.0,1.86,27.2,clear
+622,Soyabean,Jaora,2016-02-05,3980.0,83.5,27.2,clear
+623,Soyabean,Sailana,2016-02-05,3727.0,10.9,27.2,clear
+624,Soyabean,Taal,2016-02-05,3901.0,5.02,27.2,clear
+625,Mustard,Jaora,2016-03-05,4100.0,10.2,32.6,clear
+626,Soyabean,A lot,2016-03-05,3752.0,2.29,32.6,clear
+627,Soyabean,Jaora,2016-03-05,3950.0,77.8,32.6,clear
+628,Soyabean,Sailana,2016-03-05,3700.0,14.1,32.6,clear
+629,Soyabean,Taal,2016-03-05,3850.0,1.48,32.6,clear
+630,Mustard,Jaora,2016-04-05,4000.0,10.2,38.2,clear
+631,Mustard,Taal,2016-04-05,3990.0,0.15,38.2,clear
+632,Soyabean,A lot,2016-04-05,3531.0,0.49,38.2,clear
+633,Soyabean,Jaora,2016-04-05,3900.0,79.0,38.2,clear
+634,Soyabean,Sailana,2016-04-05,3680.0,31.2,38.2,clear
+635,Soyabean,Taal,2016-04-05,3900.0,7.43,38.2,clear
+636,Mustard,Jaora,2016-05-05,3800.0,3.5,38.2,clear
+637,Soyabean,Jaora,2016-05-05,3850.0,88.4,38.2,clear
+638,Soyabean,Ratlam,2016-05-05,3990.0,180.2,38.2,clear
+639,Soyabean,Sailana,2016-05-05,3688.0,12.9,38.2,clear
+640,Soyabean,Taal,2016-05-05,3890.0,7.68,38.2,clear
+641,Mustard,Jaora,2016-06-05,3775.0,2.8,44.2,clear
+642,Mustard,Taal,2016-06-05,3600.0,0.04,44.2,clear
+643,Soyabean,A lot,2016-06-05,3751.0,1.17,44.2,clear
+644,Soyabean,Jaora,2016-06-05,3740.0,85.0,44.2,clear
+645,Soyabean,Ratlam,2016-06-05,3980.0,193.4,44.2,clear
+646,Soyabean,Sailana,2016-06-05,3800.0,28.4,44.2,clear
+647,Soyabean,Taal,2016-06-05,3890.0,14.63,44.2,clear
+648,Mustard,Jaora,2016-07-05,3780.0,2.9,30.2,clear
+649,Mustard,Ratlam,2016-07-05,3762.0,0.1,30.2,clear
+650,Soyabean,Jaora,2016-07-05,3800.0,86.5,30.2,clear
+651,Soyabean,Ratlam,2016-07-05,3990.0,201.3,30.2,clear
+652,Soyabean,Sailana,2016-07-05,3790.0,13.7,30.2,clear
+653,Soyabean,Taal,2016-07-05,3921.0,10.27,30.2,clear
+654,Mustard,Jaora,2016-10-05,3940.0,1.7,29.2,rain
+655,Soyabean,A lot,2016-10-05,3860.0,0.16,29.2,rain
+656,Soyabean,Jaora,2016-10-05,3925.0,909.0,29.2,rain
+657,Soyabean,Ratlam,2016-10-05,3980.0,241.8,29.2,rain
+658,Soyabean,Sailana,2016-10-05,3856.0,18.6,29.2,rain
+659,Soyabean,Taal,2016-10-05,3916.0,0.0,29.2,rain
+660,Mustard,Jaora,2016-11-05,3900.0,15.6,27.2,clear
+661,Mustard,Ratlam,2016-11-05,3667.0,0.1,27.2,clear
+662,Soyabean,Jaora,2016-11-05,3900.0,902.5,27.2,clear
+663,Soyabean,Ratlam,2016-11-05,4000.0,256.3,27.2,clear
+664,Soyabean,Taal,2016-11-05,3940.0,24.27,27.2,clear
+665,Mustard,Jaora,2016-05-16,3993.0,5.2,41.2,clear
+666,Soyabean,A lot,2016-05-16,3817.0,0.19,41.2,clear
+667,Soyabean,Jaora,2016-05-16,3890.0,86.4,41.2,clear
+668,Soyabean,Ratlam,2016-05-16,3940.0,173.1,41.2,clear
+669,Soyabean,Sailana,2016-05-16,3925.0,16.9,41.2,clear
+670,Soyabean,Taal,2016-05-16,3900.0,4.07,41.2,clear
+671,Mustard,Jaora,2016-05-18,4000.0,2.9,43.2,clear
+672,Mustard,Ratlam,2016-05-18,3666.0,0.1,43.2,clear
+673,Soyabean,A lot,2016-05-18,3851.0,1.23,43.2,clear
+674,Soyabean,Jaora,2016-05-18,3900.0,44.9,43.2,clear
+675,Soyabean,Ratlam,2016-05-18,3970.0,158.6,43.2,clear
+676,Soyabean,Sailana,2016-05-18,3815.0,23.9,43.2,clear
+677,Soyabean,Taal,2016-05-18,3884.0,19.43,43.2,clear
+678,Mustard,Jaora,2016-05-19,3975.0,5.2,43.6,clear
+679,Mustard,Ratlam,2016-05-19,3666.0,0.1,43.6,clear
+680,Soyabean,A lot,2016-05-19,3876.0,0.46,43.6,clear
+681,Soyabean,Jaora,2016-05-19,3900.0,78.9,43.6,clear
+682,Soyabean,Ratlam,2016-05-19,3850.0,152.1,43.6,clear
+683,Soyabean,Sailana,2016-05-19,3860.0,22.9,43.6,clear
+684,Soyabean,Taal,2016-05-19,3870.0,16.73,43.6,clear
+685,Mustard,Jaora,2016-05-24,4100.0,4.5,37.2,clear
+686,Soyabean,A lot,2016-05-24,3894.0,1.76,37.2,clear
+687,Soyabean,Jaora,2016-05-24,3950.0,49.8,37.2,clear
+688,Soyabean,Ratlam,2016-05-24,3979.0,296.3,37.2,clear
+689,Soyabean,Sailana,2016-05-24,3880.0,28.2,37.2,clear
+690,Soyabean,Taal,2016-05-24,3800.0,25.19,37.2,clear
+691,Mustard,Jaora,2016-05-25,3901.0,7.9,36.2,clear
+692,Soyabean,A lot,2016-05-25,3757.0,4.57,36.2,clear
+693,Soyabean,Jaora,2016-05-25,3948.0,169.9,36.2,clear
+694,Soyabean,Ratlam,2016-05-25,3850.0,335.7,36.2,clear
+695,Soyabean,Sailana,2016-05-25,3868.0,39.9,36.2,clear
+696,Soyabean,Taal,2016-05-25,3818.0,12.37,36.2,clear
+697,Mustard,Jaora,2016-05-26,4013.0,5.4,37.2,clear
+698,Soyabean,A lot,2016-05-26,3825.0,2.31,37.2,clear
+699,Soyabean,Jaora,2016-05-26,4010.0,159.6,37.2,clear
+700,Soyabean,Ratlam,2016-05-26,3825.0,252.4,37.2,clear
+701,Soyabean,Sailana,2016-05-26,3776.0,30.9,37.2,clear
+702,Soyabean,Taal,2016-05-26,3871.0,,37.2,clear
+703,Mustard,Jaora,2016-05-27,3900.0,65.5,38.0,clear
+704,Mustard,Taal,2016-05-27,3950.0,0.01,38.0,clear
+705,Soyabean,A lot,2016-05-27,3710.0,0.85,38.0,clear
+706,Soyabean,Jaora,2016-05-27,3920.0,158.2,38.0,clear
+707,Soyabean,Taal,2016-05-27,3761.0,25.04,38.0,clear
+708,Mustard,Jaora,2016-01-06,3950.0,5.6,15.2,clear
+709,Mustard,Ratlam,2016-01-06,3766.0,0.1,15.2,clear
+710,Soyabean,A lot,2016-01-06,3632.0,0.33,15.2,clear
+711,Soyabean,Jaora,2016-01-06,3750.0,111.8,15.2,clear
+712,Soyabean,Ratlam,2016-01-06,3730.0,259.7,15.2,clear
+713,Soyabean,Sailana,2016-01-06,3515.0,23.2,15.2,clear
+714,Soyabean,Taal,2016-01-06,3750.0,18.67,15.2,clear
+715,Mustard,Jaora,2016-02-06,3900.0,2.5,28.2,clear
+716,Mustard,Taal,2016-02-06,3890.0,0.05,28.2,clear
+717,Soyabean,A lot,2016-02-06,3691.0,23.6,28.2,clear
+718,Soyabean,Jaora,2016-02-06,3700.0,89.9,28.2,clear
+719,Soyabean,Ratlam,2016-02-06,3725.0,205.4,28.2,clear
+720,Soyabean,Sailana,2016-02-06,3921.0,24.8,28.2,clear
+721,Soyabean,Taal,2016-02-06,3780.0,,28.2,clear
+722,Mustard,Jaora,2016-03-06,3900.0,7.3,33.2,clear
+723,Mustard,Ratlam,2016-03-06,3600.0,0.1,33.2,clear
+724,Soyabean,A lot,2016-03-06,3718.0,6.64,33.2,clear
+725,Soyabean,Jaora,2016-03-06,3950.0,168.3,33.2,clear
+726,Soyabean,Ratlam,2016-03-06,3751.0,150.3,33.2,clear
+727,Soyabean,Sailana,2016-03-06,3750.0,13.5,33.2,clear
+728,Soyabean,Taal,2016-03-06,3752.0,,33.2,clear
+729,Mustard,Jaora,2016-04-06,4000.0,4.92,35.2,clear
+730,Soyabean,A lot,2016-04-06,3725.0,5.49,35.2,clear
+731,Soyabean,Jaora,2016-04-06,3950.0,139.2,35.2,clear
+732,Soyabean,Ratlam,2016-04-06,3800.0,134.8,35.2,clear
+733,Soyabean,Sailana,2016-04-06,3750.0,10.9,35.2,clear
+734,Soyabean,Taal,2016-04-06,3800.0,12.97,35.2,clear
+735,Mustard,Jaora,2016-06-06,4000.0,1.7,43.2,clear
+736,Mustard,Taal,2016-06-06,3920.0,1.07,43.2,clear
+737,Soyabean,A lot,2016-06-06,3790.0,28.67,43.2,clear
+738,Soyabean,Jaora,2016-06-06,3900.0,58.1,43.2,clear
+739,Soyabean,Ratlam,2016-06-06,3770.0,176.2,43.2,clear
+740,Soyabean,Sailana,2016-06-06,3800.0,27.5,43.2,clear
+741,Soyabean,Taal,2016-06-06,3800.0,6.6,43.2,clear
+742,Mustard,Jaora,2016-07-06,3900.0,3.4,30.2,clear
+743,Soyabean,A lot,2016-07-06,3780.0,0.49,30.2,clear
+744,Soyabean,Jaora,2016-07-06,3900.0,28.5,30.2,clear
+745,Soyabean,Ratlam,2016-07-06,3760.0,154.5,30.2,clear
+746,Soyabean,Sailana,2016-07-06,3776.0,27.0,30.2,clear
+747,Soyabean,Taal,2016-07-06,3800.0,,30.2,clear
+748,Mustard,Jaora,2016-08-06,4100.0,85.3,26.2,clear
+749,Soyabean,A lot,2016-08-06,3770.0,3.44,26.2,clear
+750,Soyabean,Jaora,2016-08-06,3750.0,378.2,26.2,clear
+751,Soyabean,Ratlam,2016-08-06,3732.0,200.4,26.2,clear
+752,Soyabean,Sailana,2016-08-06,3770.0,40.5,26.2,clear
+753,Mustard,Jaora,2016-06-13,4150.0,9.4,36.6,clear
+754,Soyabean,A lot,2016-06-13,3740.0,11.49,36.6,clear
+755,Soyabean,Jaora,2016-06-13,3800.0,381.2,36.6,clear
+756,Soyabean,Ratlam,2016-06-13,3770.0,344.5,36.6,clear
+757,Soyabean,Sailana,2016-06-13,3692.0,51.3,36.6,clear
+758,Soyabean,Taal,2016-06-13,3764.0,25.51,36.6,clear
+759,Mustard,Jaora,2016-06-15,4161.0,10.0,36.2,clear
+760,Soyabean,A lot,2016-06-15,3680.0,14.47,36.2,clear
+761,Soyabean,Jaora,2016-06-15,4000.0,,36.2,clear
+762,Soyabean,Ratlam,2016-06-15,3775.0,272.4,36.2,clear
+763,Soyabean,Sailana,2016-06-15,3730.0,44.7,36.2,clear
+764,Soyabean,Taal,2016-06-15,3758.0,14.61,36.2,clear
+765,Mustard,Jaora,2016-06-16,4000.0,6.5,35.2,clear
+766,Mustard,Taal,2016-06-16,3901.0,0.01,35.2,clear
+767,Soyabean,A lot,2016-06-16,3690.0,5.85,35.2,clear
+768,Soyabean,Jaora,2016-06-16,4050.0,325.2,35.2,clear
+769,Soyabean,Ratlam,2016-06-16,3780.0,215.0,35.2,clear
+770,Soyabean,Sailana,2016-06-16,3726.0,22.9,35.2,clear
+771,Soyabean,Taal,2016-06-16,3767.0,,35.2,clear
+772,Mustard,Jaora,2016-06-18,4161.0,95.2,37.6,clear
+773,Mustard,Ratlam,2016-06-18,3790.0,0.4,37.6,clear
+774,Soyabean,A lot,2016-06-18,3680.0,8.92,37.6,clear
+775,Soyabean,Jaora,2016-06-18,4037.0,362.0,37.6,clear
+776,Soyabean,Ratlam,2016-06-18,3745.0,154.8,37.6,clear
+777,Soyabean,Taal,2016-06-18,3711.0,,37.6,clear
+778,Mustard,Jaora,2016-06-20,3945.0,8.5,37.0,clear
+779,Soyabean,A lot,2016-06-20,3649.0,2.45,37.0,clear
+780,Soyabean,Jaora,2016-06-20,3825.0,275.1,37.0,clear
+781,Soyabean,Taal,2016-06-20,3750.0,31.37,37.0,clear
+782,Mustard,Jaora,2016-06-21,4045.0,3.0,34.2,clear
+783,Soyabean,A lot,2016-06-21,3677.0,13.02,34.2,clear
+784,Soyabean,Jaora,2016-06-21,3900.0,172.0,34.2,clear
+785,Soyabean,Ratlam,2016-06-21,3770.0,184.7,34.2,clear
+786,Soyabean,Sailana,2016-06-21,3787.0,21.1,34.2,clear
+787,Soyabean,Taal,2016-06-21,3750.0,15.17,34.2,clear
+788,Mustard,Jaora,2016-06-22,4150.0,2.1,28.2,clear
+789,Soyabean,Jaora,2016-06-22,4200.0,225.1,28.2,clear
+790,Soyabean,Ratlam,2016-06-22,3750.0,178.9,28.2,clear
+791,Soyabean,Sailana,2016-06-22,3775.0,22.4,28.2,clear
+792,Soyabean,Taal,2016-06-22,3705.0,,28.2,clear
+793,Mustard,Jaora,2016-06-23,4000.0,6.5,32.2,clear
+794,Soyabean,A lot,2016-06-23,3657.0,6.15,32.2,clear
+795,Soyabean,Jaora,2016-06-23,4100.0,211.2,32.2,clear
+796,Soyabean,Ratlam,2016-06-23,3760.0,105.6,32.2,clear
+797,Soyabean,Sailana,2016-06-23,3837.0,10.3,32.2,clear
+798,Soyabean,Taal,2016-06-23,3680.0,,32.2,clear
+799,Mustard,Jaora,2016-06-27,4025.0,6.3,30.2,clear
+800,Soyabean,A lot,2016-06-27,3610.0,5.65,30.2,clear
+801,Soyabean,Jaora,2016-06-27,3820.0,456.8,30.2,clear
+802,Soyabean,Ratlam,2016-06-27,3636.0,237.2,30.2,clear
+803,Soyabean,Sailana,2016-06-27,3830.0,50.5,30.2,clear
+804,Soyabean,Taal,2016-06-27,3650.0,9.9,30.2,clear
+805,Mustard,Jaora,2016-06-28,4050.0,5.6,28.2,clear
+806,Soyabean,A lot,2016-06-28,3572.0,2.74,28.2,clear
+807,Soyabean,Jaora,2016-06-28,3800.0,432.1,28.2,clear
+808,Soyabean,Ratlam,2016-06-28,3665.0,222.0,28.2,clear
+809,Soyabean,Sailana,2016-06-28,3724.0,46.8,28.2,clear
+810,Mustard,Jaora,2016-06-30,4000.0,2.4,33.6,clear
+811,Soyabean,Jaora,2016-06-30,3950.0,326.2,33.6,clear
+812,Soyabean,Ratlam,2016-06-30,3645.0,262.5,33.6,clear
+813,Soyabean,Sailana,2016-06-30,3725.0,69.9,33.6,clear
+814,Soyabean,Taal,2016-06-30,3624.0,,33.6,clear
+815,Mustard,Jaora,2016-02-07,3950.0,1.9,25.6,clear
+816,Soyabean,A lot,2016-02-07,3570.0,2.27,25.6,clear
+817,Soyabean,Jaora,2016-02-07,3900.0,312.2,25.6,clear
+818,Mustard,Jaora,2016-04-07,4069.0,5.4,34.6,clear
+819,Soyabean,Jaora,2016-04-07,3675.0,357.1,34.6,clear
+820,Mustard,Jaora,2016-05-07,4050.0,4.5,38.2,clear
+821,Soyabean,A lot,2016-05-07,3576.0,3.04,38.2,clear
+822,Soyabean,Jaora,2016-05-07,3700.0,351.0,38.2,clear
+823,Soyabean,Ratlam,2016-05-07,3660.0,447.0,38.2,clear
+824,Soyabean,Sailana,2016-05-07,3587.0,65.0,38.2,clear
+825,Soyabean,Taal,2016-05-07,3661.0,28.05,38.2,clear
+826,Mustard,Jaora,2016-08-07,4080.0,2.4,25.2,clear
+827,Soyabean,A lot,2016-08-07,3424.0,6.29,25.2,clear
+828,Soyabean,Ratlam,2016-08-07,3540.0,384.9,25.2,clear
+829,Soyabean,Sailana,2016-08-07,3409.0,68.7,25.2,clear
+830,Soyabean,Taal,2016-08-07,3510.0,,25.2,clear
+831,Mustard,Jaora,2016-11-07,4200.0,1.5,27.2,clear
+832,Mustard,Ratlam,2016-11-07,4060.0,0.2,27.2,clear
+833,Soyabean,A lot,2016-11-07,3380.0,0.63,27.2,clear
+834,Soyabean,Ratlam,2016-11-07,3558.0,123.0,27.2,clear
+835,Soyabean,Sailana,2016-11-07,3400.0,32.1,27.2,clear
+836,Soyabean,Taal,2016-11-07,3500.0,2.0,27.2,clear
+837,Mustard,Jaora,2016-07-13,4150.0,1.5,25.2,clear
+838,Soyabean,A lot,2016-07-13,3490.0,0.12,25.2,clear
+839,Soyabean,Jaora,2016-07-13,3600.0,80.1,25.2,clear
+840,Soyabean,Ratlam,2016-07-13,3550.0,69.9,25.2,clear
+841,Soyabean,Sailana,2016-07-13,3547.0,15.3,25.2,clear
+842,Soyabean,Taal,2016-07-13,3511.0,4.19,25.2,clear
+843,Mustard,Jaora,2016-07-14,4350.0,2.1,29.2,clear
+844,Soyabean,A lot,2016-07-14,3376.0,0.83,29.2,clear
+845,Soyabean,Jaora,2016-07-14,3680.0,105.0,29.2,clear
+846,Soyabean,Ratlam,2016-07-14,3567.0,129.3,29.2,clear
+847,Soyabean,Sailana,2016-07-14,3614.0,12.7,29.2,clear
+848,Soyabean,Taal,2016-07-14,3565.0,3.04,29.2,clear
+849,Mustard,Jaora,2016-07-15,4300.0,1.9,25.2,clear
+850,Soyabean,A lot,2016-07-15,3499.0,0.88,25.2,clear
+851,Soyabean,Jaora,2016-07-15,3650.0,102.0,25.2,clear
+852,Soyabean,Ratlam,2016-07-15,3635.0,188.8,25.2,clear
+853,Soyabean,Sailana,2016-07-15,3612.0,21.8,25.2,clear
+854,Soyabean,Taal,2016-07-15,3591.0,11.23,25.2,clear
+855,Mustard,Jaora,2016-07-16,4150.0,1.3,25.2,clear
+856,Soyabean,Jaora,2016-07-16,3620.0,97.2,25.2,clear
+857,Soyabean,Ratlam,2016-07-16,3665.0,156.4,25.2,clear
+858,Soyabean,Taal,2016-07-16,3610.0,19.61,25.2,clear
+859,Mustard,Jaora,2016-07-18,4530.0,3.1,28.2,clear
+860,Soyabean,A lot,2016-07-18,3504.0,1.48,28.2,clear
+861,Soyabean,Jaora,2016-07-18,3500.0,142.2,28.2,clear
+862,Soyabean,Ratlam,2016-07-18,3600.0,152.2,28.2,clear
+863,Soyabean,Sailana,2016-07-18,3641.0,21.1,28.2,clear
+864,Soyabean,Taal,2016-07-18,3525.0,22.73,28.2,clear
+865,Mustard,Jaora,2016-07-19,4400.0,2.9,28.2,clear
+866,Soyabean,A lot,2016-07-19,3440.0,1.15,28.2,clear
+867,Soyabean,Jaora,2016-07-19,3600.0,83.7,28.2,clear
+868,Soyabean,Ratlam,2016-07-19,3570.0,53.7,28.2,clear
+869,Soyabean,Sailana,2016-07-19,3563.0,10.0,28.2,clear
+870,Soyabean,Taal,2016-07-19,3450.0,16.41,28.2,clear
+871,Mustard,Jaora,2016-07-20,5240.0,1.8,30.2,clear
+872,Soyabean,A lot,2016-07-20,3490.0,,30.2,clear
+873,Soyabean,Jaora,2016-07-20,3650.0,76.2,30.2,clear
+874,Soyabean,Sailana,2016-07-20,3552.0,16.7,30.2,clear
+875,Soyabean,Taal,2016-07-20,3600.0,14.59,30.2,clear
+876,Mustard,Jaora,2016-07-21,5000.0,1.5,31.4,clear
+877,Soyabean,A lot,2016-07-21,3514.0,0.34,31.4,clear
+878,Soyabean,Jaora,2016-07-21,3600.0,72.2,31.4,clear
+879,Soyabean,Sailana,2016-07-21,3616.0,9.4,31.4,clear
+880,Soyabean,Taal,2016-07-21,3591.0,5.82,31.4,clear
+881,Mustard,Jaora,2016-07-22,4500.0,2.5,26.2,clear
+882,Soyabean,A lot,2016-07-22,3562.0,0.27,26.2,clear
+883,Soyabean,Jaora,2016-07-22,3690.0,97.3,26.2,clear
+884,Soyabean,Ratlam,2016-07-22,3685.0,153.9,26.2,clear
+885,Soyabean,Sailana,2016-07-22,3660.0,21.7,26.2,clear
+886,Soyabean,Taal,2016-07-22,3610.0,,26.2,clear
+887,Mustard,Jaora,2016-07-26,4820.0,1.3,30.2,clear
+888,Soyabean,A lot,2016-07-26,3460.0,0.55,30.2,clear
+889,Soyabean,Jaora,2016-07-26,3650.0,72.5,30.2,clear
+890,Soyabean,Ratlam,2016-07-26,3600.0,94.3,30.2,clear
+891,Soyabean,Sailana,2016-07-26,3506.0,18.5,30.2,clear
+892,Soyabean,Taal,2016-07-26,3550.0,,30.2,clear
+893,Mustard,Jaora,2016-07-27,4350.0,1.4,28.2,clear
+894,Soyabean,A lot,2016-07-27,2980.0,9.6,28.2,clear
+895,Soyabean,Jaora,2016-07-27,3640.0,68.1,28.2,clear
+896,Soyabean,Ratlam,2016-07-27,3640.0,84.8,28.2,clear
+897,Soyabean,Sailana,2016-07-27,3618.0,8.4,28.2,clear
+898,Soyabean,Taal,2016-07-27,3530.0,12.57,28.2,clear
+899,Mustard,Jaora,2016-07-28,5000.0,1.5,25.2,clear
+900,Soyabean,Jaora,2016-07-28,3600.0,66.8,25.2,clear
+901,Soyabean,Ratlam,2016-07-28,3650.0,56.7,25.2,clear
+902,Mustard,Jaora,2016-07-29,4950.0,1.7,24.2,clear
+903,Soyabean,A lot,2016-07-29,3530.0,1.62,24.2,clear
+904,Soyabean,Jaora,2016-07-29,3600.0,75.8,24.2,clear
+905,Soyabean,Ratlam,2016-07-29,3640.0,102.5,24.2,clear
+906,Soyabean,Taal,2016-07-29,3606.0,,24.2,clear
+907,Mustard,Jaora,2016-07-30,4400.0,2.1,28.2,clear
+908,Soyabean,A lot,2016-07-30,3511.0,0.12,28.2,clear
+909,Soyabean,Jaora,2016-07-30,3650.0,89.7,28.2,clear
+910,Soyabean,Ratlam,2016-07-30,3655.0,60.4,28.2,clear
+911,Soyabean,Sailana,2016-07-30,3549.0,7.4,28.2,clear
+912,Soyabean,Taal,2016-07-30,3541.0,5.41,28.2,clear
+913,Mustard,Jaora,2016-02-08,4480.0,1.5,25.2,clear
+914,Soyabean,Jaora,2016-02-08,3600.0,76.8,25.2,clear
+915,Soyabean,Ratlam,2016-02-08,3575.0,35.5,25.2,clear
+916,Soyabean,Taal,2016-02-08,3560.0,4.46,25.2,clear
+917,Mustard,Jaora,2016-03-08,4450.0,0.0,32.2,clear
+918,Soyabean,Jaora,2016-03-08,3655.0,27.7,32.2,clear
+919,Soyabean,Ratlam,2016-03-08,3600.0,14.0,32.2,clear
+920,Mustard,Jaora,2016-04-08,4437.0,0.0,36.2,clear
+921,Soyabean,Jaora,2016-04-08,3600.0,51.8,36.2,clear
+922,Soyabean,Taal,2016-04-08,3600.0,2.4,36.2,clear
+923,Mustard,Jaora,2016-05-08,4420.0,0.0,29.2,clear
+924,Mustard,Ratlam,2016-05-08,3666.0,0.1,29.2,clear
+925,Soyabean,Jaora,2016-05-08,3600.0,51.2,29.2,clear
+926,Soyabean,Ratlam,2016-05-08,3605.0,18.2,29.2,clear
+927,Soyabean,Sailana,2016-05-08,3557.0,32.7,29.2,clear
+928,Soyabean,Taal,2016-05-08,3550.0,3.68,29.2,clear
+929,Mustard,Jaora,2016-06-08,4450.0,0.0,41.2,clear
+930,Soyabean,Jaora,2016-06-08,3650.0,25.3,41.2,clear
+931,Soyabean,Ratlam,2016-06-08,3570.0,85.9,41.2,clear
+932,Soyabean,Sailana,2016-06-08,3507.0,19.7,41.2,clear
+933,Mustard,Jaora,2016-10-08,4340.0,1.7,29.2,clear
+934,Soyabean,Jaora,2016-10-08,3652.0,61.4,29.2,clear
+935,Soyabean,Ratlam,2016-10-08,3571.0,47.6,29.2,clear
+936,Soyabean,Sailana,2016-10-08,3605.0,6.7,29.2,clear
+937,Soyabean,Taal,2016-10-08,3580.0,0.2,29.2,clear
+938,Mustard,Jaora,2016-11-08,4400.0,2.0,27.2,clear
+939,Soyabean,A lot,2016-11-08,3445.0,,27.2,clear
+940,Soyabean,Jaora,2016-11-08,3600.0,100.1,27.2,clear
+941,Soyabean,Ratlam,2016-11-08,3577.0,75.2,27.2,clear
+942,Soyabean,Sailana,2016-11-08,3561.0,21.1,27.2,clear
+943,Soyabean,Taal,2016-11-08,3569.0,6.3,27.2,clear
+944,Mustard,Jaora,2016-12-08,4300.0,1.8,24.2,clear
+945,Soyabean,Jaora,2016-12-08,3610.0,89.0,24.2,clear
+946,Soyabean,Sailana,2016-12-08,3582.0,13.0,24.2,clear
+947,Soyabean,Taal,2016-12-08,3580.0,8.91,24.2,clear
+948,Mustard,Jaora,2016-08-16,4320.0,2.7,27.6,clear
+949,Soyabean,A lot,2016-08-16,3465.0,1.42,27.6,clear
+950,Soyabean,Jaora,2016-08-16,3530.0,117.6,27.6,clear
+951,Soyabean,Ratlam,2016-08-16,3560.0,166.4,27.6,clear
+952,Soyabean,Sailana,2016-08-16,3522.0,17.4,27.6,clear
+953,Soyabean,Taal,2016-08-16,3525.0,2.89,27.6,clear
+954,Mustard,Jaora,2016-08-17,4320.0,2.3,29.2,clear
+955,Soyabean,A lot,2016-08-17,3440.0,0.18,29.2,clear
+956,Soyabean,Jaora,2016-08-17,3550.0,110.2,29.2,clear
+957,Soyabean,Ratlam,2016-08-17,3505.0,85.3,29.2,clear
+958,Soyabean,Taal,2016-08-17,3521.0,2.22,29.2,clear
+959,Mustard,Jaora,2016-08-19,4100.0,0.0,23.6,rain
+960,Soyabean,Jaora,2016-08-19,3500.0,50.3,23.6,rain
+961,Soyabean,Ratlam,2016-08-19,3551.0,27.2,23.6,rain
+962,Soyabean,Sailana,2016-08-19,3498.0,6.3,23.6,rain
+963,Mustard,Jaora,2016-08-24,4250.0,0.0,25.2,clear
+964,Soyabean,Jaora,2016-08-24,3420.0,2.25,25.2,clear
+965,Soyabean,Ratlam,2016-08-24,3470.0,69.3,25.2,clear
+966,Soyabean,Sailana,2016-08-24,3521.0,7.9,25.2,clear
+967,Soyabean,Taal,2016-08-24,3496.0,9.64,25.2,clear
+968,Mustard,Jaora,2016-08-26,4188.0,1.8,27.6,clear
+969,Soyabean,A lot,2016-08-26,2970.0,19.26,27.6,clear
+970,Soyabean,Jaora,2016-08-26,3400.0,175.1,27.6,clear
+971,Soyabean,Ratlam,2016-08-26,3300.0,165.6,27.6,clear
+972,Soyabean,Sailana,2016-08-26,3330.0,14.4,27.6,clear
+973,Soyabean,Taal,2016-08-26,3360.0,,27.6,clear
+974,Mustard,Jaora,2016-08-29,3900.0,2.6,28.2,clear
+975,Soyabean,A lot,2016-08-29,2920.0,18.0,28.2,clear
+976,Soyabean,Jaora,2016-08-29,3500.0,145.9,28.2,clear
+977,Soyabean,Sailana,2016-08-29,3173.0,7.0,28.2,clear
+978,Soyabean,Taal,2016-08-29,3221.0,1.84,28.2,clear
+979,Mustard,Jaora,2016-08-30,3950.0,3.5,26.2,clear
+980,Soyabean,Jaora,2016-08-30,3200.0,180.3,26.2,clear
+981,Soyabean,Ratlam,2016-08-30,3200.0,31.4,26.2,clear
+982,Soyabean,Sailana,2016-08-30,3166.0,17.5,26.2,clear
+983,Soyabean,Taal,2016-08-30,3180.0,7.33,26.2,clear
+984,Mustard,Jaora,2016-08-31,4011.0,2.1,28.3,clear
+985,Soyabean,Jaora,2016-08-31,3204.0,113.5,28.3,clear
+986,Soyabean,Ratlam,2016-08-31,3160.0,160.6,28.3,clear
+987,Soyabean,Taal,2016-08-31,3100.0,26.64,28.3,clear
+988,Mustard,Jaora,2016-01-09,4090.0,1.4,24.2,clear
+989,Soyabean,Jaora,2016-01-09,3088.0,155.9,24.2,clear
+990,Soyabean,Ratlam,2016-01-09,3170.0,90.5,24.2,clear
+991,Soyabean,Taal,2016-01-09,3232.0,3.14,24.2,clear
+992,Mustard,Jaora,2016-03-09,4000.0,1.3,32.6,clear
+993,Soyabean,Jaora,2016-03-09,3300.0,36.6,32.6,clear
+994,Soyabean,Ratlam,2016-03-09,3250.0,40.9,32.6,clear
+995,Soyabean,Taal,2016-03-09,3242.0,5.54,32.6,clear
+996,Mustard,Jaora,2016-09-09,4100.0,4.9,29.6,clear
+997,Soyabean,Jaora,2016-09-09,3300.0,108.9,29.6,clear
+998,Soyabean,Ratlam,2016-09-09,3230.0,133.6,29.6,clear
+999,Soyabean,Sailana,2016-09-09,3160.0,10.0,29.6,clear
+1000,Soyabean,Taal,2016-09-09,3238.0,5.42,29.6,clear
+1001,Mustard,Jaora,2016-12-09,4100.0,7.3,25.2,clear
+1002,Soyabean,Jaora,2016-12-09,3000.0,72.9,25.2,clear
+1003,Soyabean,Ratlam,2016-12-09,3233.0,66.6,25.2,clear
+1004,Soyabean,Sailana,2016-12-09,3100.0,10.3,25.2,clear
+1005,Soyabean,Taal,2016-12-09,3150.0,,25.2,clear
+1006,Mustard,Jaora,2016-09-14,3950.0,3.9,30.6,clear
+1007,Soyabean,Jaora,2016-09-14,3180.0,73.7,30.6,clear
+1008,Soyabean,Sailana,2016-09-14,3250.0,7.7,30.6,clear
+1009,Soyabean,Taal,2016-09-14,3160.0,73.51,30.6,clear
+1010,Mustard,Jaora,2016-09-15,4000.0,6.5,30.2,clear
+1011,Soyabean,A lot,2016-09-15,2655.0,,30.2,clear
+1012,Soyabean,Jaora,2016-09-15,3150.0,67.2,30.2,clear
+1013,Soyabean,Ratlam,2016-09-15,3200.0,87.3,30.2,clear
+1014,Soyabean,Sailana,2016-09-15,3092.0,5.5,30.2,clear
+1015,Soyabean,Taal,2016-09-15,3110.0,,30.2,clear
+1016,Mustard,Jaora,2016-09-16,4000.0,6.2,26.6,clear
+1017,Soyabean,Jaora,2016-09-16,2900.0,69.1,26.6,clear
+1018,Soyabean,Ratlam,2016-09-16,2861.0,19.3,26.6,clear
+1019,Soyabean,Sailana,2016-09-16,3095.0,6.7,26.6,clear
+1020,Soyabean,Taal,2016-09-16,3100.0,3.0,26.6,clear
+1021,Mustard,Jaora,2016-09-21,4010.0,2.7,25.2,clear
+1022,Soyabean,A lot,2016-09-21,2735.0,0.68,25.2,clear
+1023,Soyabean,Jaora,2016-09-21,3200.0,108.3,25.2,clear
+1024,Soyabean,Ratlam,2016-09-21,3290.0,101.2,25.2,clear
+1025,Soyabean,Sailana,2016-09-21,3108.0,14.6,25.2,clear
+1026,Mustard,Jaora,2016-09-22,4000.0,5.2,29.2,clear
+1027,Soyabean,A lot,2016-09-22,2642.0,1.65,29.2,clear
+1028,Soyabean,Jaora,2016-09-22,3100.0,115.2,29.2,clear
+1029,Soyabean,Ratlam,2016-09-22,3085.0,75.8,29.2,clear
+1030,Soyabean,Sailana,2016-09-22,2995.0,13.5,29.2,clear
+1031,Soyabean,Taal,2016-09-22,3040.0,,29.2,clear
+1032,Mustard,Jaora,2016-09-23,4000.0,1.6,28.2,clear
+1033,Soyabean,A lot,2016-09-23,2799.0,0.32,28.2,clear
+1034,Soyabean,Jaora,2016-09-23,3200.0,58.1,28.2,clear
+1035,Soyabean,Ratlam,2016-09-23,3060.0,140.6,28.2,clear
+1036,Soyabean,Sailana,2016-09-23,2953.0,12.3,28.2,clear
+1037,Mustard,Jaora,2016-09-26,3992.0,1.8,31.2,clear
+1038,Mustard,Ratlam,2016-09-26,3701.0,0.5,31.2,clear
+1039,Soyabean,A lot,2016-09-26,2681.0,7.82,31.2,clear
+1040,Soyabean,Jaora,2016-09-26,2955.0,,31.2,clear
+1041,Soyabean,Ratlam,2016-09-26,2748.0,317.3,31.2,clear
+1042,Soyabean,Taal,2016-09-26,2850.0,113.7,31.2,clear
+1043,Mustard,Jaora,2016-09-27,4010.0,1.1,31.2,clear
+1044,Soyabean,A lot,2016-09-27,2711.0,,31.2,clear
+1045,Soyabean,Jaora,2016-09-27,2710.0,178.9,31.2,clear
+1046,Soyabean,Ratlam,2016-09-27,2840.0,209.3,31.2,clear
+1047,Soyabean,Sailana,2016-09-27,2605.0,6.4,31.2,clear
+1048,Soyabean,Taal,2016-09-27,2965.0,,31.2,clear
+1049,Mustard,Jaora,2016-09-28,4100.0,1.1,31.2,clear
+1050,Soyabean,A lot,2016-09-28,2800.0,,31.2,clear
+1051,Soyabean,Jaora,2016-09-28,2800.0,178.4,31.2,clear
+1052,Soyabean,Ratlam,2016-09-28,2850.0,142.4,31.2,clear
+1053,Soyabean,Sailana,2016-09-28,2755.0,8.2,31.2,clear
+1054,Soyabean,Taal,2016-09-28,2890.0,,31.2,clear
+1055,Mustard,Jaora,2016-09-29,4050.0,1.0,30.2,clear
+1056,Soyabean,A lot,2016-09-29,2870.0,,30.2,clear
+1057,Soyabean,Jaora,2016-09-29,2800.0,165.0,30.2,clear
+1058,Soyabean,Sailana,2016-09-29,2780.0,22.4,30.2,clear
+1059,Soyabean,Taal,2016-09-29,2975.0,,30.2,clear
+1060,Mustard,Jaora,2016-03-10,3983.0,4.0,23.6,clear
+1061,Soyabean,Jaora,2016-03-10,3040.0,294.2,23.6,clear
+1062,Soyabean,Ratlam,2016-03-10,2850.0,,23.6,clear
+1063,Soyabean,Sailana,2016-03-10,3025.0,16.3,23.6,clear
+1064,Soyabean,Taal,2016-03-10,2990.0,265.4,23.6,clear
+1065,Mustard,Jaora,2016-04-10,4025.0,0.0,36.6,clear
+1066,Soyabean,A lot,2016-04-10,2850.0,,36.6,clear
+1067,Soyabean,Jaora,2016-04-10,2952.0,344.8,36.6,clear
+1068,Soyabean,Ratlam,2016-04-10,2770.0,,36.6,clear
+1069,Soyabean,Sailana,2016-04-10,2873.0,13.2,36.6,clear
+1070,Soyabean,Taal,2016-04-10,2965.0,,36.6,clear
+1071,Mustard,Jaora,2016-05-10,3876.0,0.0,37.2,clear
+1072,Soyabean,A lot,2016-05-10,2930.0,,37.2,clear
+1073,Soyabean,Jaora,2016-05-10,2975.0,240.3,37.2,clear
+1074,Soyabean,Ratlam,2016-05-10,2790.0,,37.2,clear
+1075,Soyabean,Sailana,2016-05-10,2850.0,17.7,37.2,clear
+1076,Soyabean,Taal,2016-05-10,2995.0,,37.2,clear
+1077,Mustard,Jaora,2016-10-17,3800.0,0.0,27.6,clear
+1078,Soyabean,A lot,2016-10-17,2800.0,,27.6,clear
+1079,Soyabean,Jaora,2016-10-17,2850.0,449.4,27.6,clear
+1080,Soyabean,Ratlam,2016-10-17,2650.0,727.7,27.6,clear
+1081,Soyabean,Sailana,2016-10-17,2798.0,77.0,27.6,clear
+1082,Soyabean,Taal,2016-10-17,2850.0,,27.6,clear
+1083,Mustard,Jaora,2016-10-18,3850.0,1.9,30.2,clear
+1084,Soyabean,A lot,2016-10-18,2790.0,,30.2,clear
+1085,Soyabean,Jaora,2016-10-18,2720.0,404.4,30.2,clear
+1086,Soyabean,Ratlam,2016-10-18,2800.0,,30.2,clear
+1087,Soyabean,Sailana,2016-10-18,2703.0,81.0,30.2,clear
+1088,Soyabean,Taal,2016-10-18,2860.0,369.0,30.2,clear
+1089,Mustard,Jaora,2016-10-19,3750.0,0.0,30.2,clear
+1090,Soyabean,A lot,2016-10-19,2775.0,,30.2,clear
+1091,Soyabean,Jaora,2016-10-19,2800.0,467.4,30.2,clear
+1092,Soyabean,Ratlam,2016-10-19,2777.0,526.2,30.2,clear
+1093,Soyabean,Sailana,2016-10-19,2630.0,98.1,30.2,clear
+1094,Soyabean,Taal,2016-10-19,2860.0,,30.2,clear
+1095,Mustard,Jaora,2016-10-20,3800.0,1.0,29.2,clear
+1096,Soyabean,A lot,2016-10-20,2759.0,,29.2,clear
+1097,Soyabean,Jaora,2016-10-20,2800.0,412.5,29.2,clear
+1098,Soyabean,Ratlam,2016-10-20,2800.0,520.5,29.2,clear
+1099,Soyabean,Sailana,2016-10-20,2887.0,103.4,29.2,clear
+1100,Soyabean,Taal,2016-10-20,2925.0,,29.2,clear
+1101,Mustard,Jaora,2016-10-21,3750.0,0.0,29.2,clear
+1102,Soyabean,A lot,2016-10-21,2770.0,,29.2,clear
+1103,Soyabean,Jaora,2016-10-21,2900.0,451.3,29.2,clear
+1104,Soyabean,Ratlam,2016-10-21,2820.0,,29.2,clear
+1105,Soyabean,Sailana,2016-10-21,2925.0,122.2,29.2,clear
+1106,Soyabean,Taal,2016-10-21,2870.0,,29.2,clear
+1107,Mustard,Jaora,2016-10-24,3842.0,1.1,28.2,clear
+1108,Soyabean,A lot,2016-10-24,2830.0,,28.2,clear
+1109,Soyabean,Jaora,2016-10-24,2850.0,482.1,28.2,clear
+1110,Soyabean,Ratlam,2016-10-24,2790.0,585.1,28.2,clear
+1111,Soyabean,Sailana,2016-10-24,2829.0,150.0,28.2,clear
+1112,Soyabean,Taal,2016-10-24,2850.0,,28.2,clear
+1113,Mustard,Jaora,2016-10-25,3900.0,1.3,27.2,clear
+1114,Soyabean,A lot,2016-10-25,2850.0,,27.2,clear
+1115,Soyabean,Jaora,2016-10-25,2850.0,391.2,27.2,clear
+1116,Soyabean,Ratlam,2016-10-25,2866.0,,27.2,clear
+1117,Soyabean,Sailana,2016-10-25,2812.0,167.5,27.2,clear
+1118,Soyabean,Taal,2016-10-25,2860.0,,27.2,clear
+1119,Mustard,Jaora,2016-10-26,3852.0,0.0,28.2,clear
+1120,Soyabean,A lot,2016-10-26,2860.0,,28.2,clear
+1121,Soyabean,Jaora,2016-10-26,2950.0,327.0,28.2,clear
+1122,Soyabean,Sailana,2016-10-26,2886.0,129.6,28.2,clear
+1123,Soyabean,Taal,2016-10-26,2880.0,,28.2,clear
+1124,Mustard,Jaora,2016-02-11,3780.0,0.0,15.6,clear
+1125,Soyabean,A lot,2016-02-11,2920.0,,15.6,clear
+1126,Soyabean,Jaora,2016-02-11,2890.0,312.2,15.6,clear
+1127,Soyabean,Sailana,2016-02-11,2902.0,113.4,15.6,clear
+1128,Soyabean,Taal,2016-02-11,2940.0,,15.6,clear
+1129,Mustard,Jaora,2016-04-11,3975.0,0.0,36.2,clear
+1130,Soyabean,Jaora,2016-04-11,2900.0,487.9,36.2,clear
+1131,Soyabean,Ratlam,2016-04-11,3995.5,,36.2,clear
+1132,Soyabean,Sailana,2016-04-11,2765.0,155.0,36.2,clear
+1133,Soyabean,Taal,2016-04-11,2825.0,,36.2,clear
+1134,Mustard,Jaora,2016-05-11,3924.0,0.0,40.2,clear
+1135,Soyabean,A lot,2016-05-11,2870.0,,40.2,clear
+1136,Soyabean,Jaora,2016-05-11,3000.0,394.2,40.2,clear
+1137,Soyabean,Ratlam,2016-05-11,2900.0,728.8,40.2,clear
+1138,Soyabean,Sailana,2016-05-11,2725.0,120.0,40.2,clear
+1139,Soyabean,Taal,2016-05-11,2840.0,,40.2,clear
+1140,Mustard,Jaora,2016-07-11,3900.0,1.3,25.2,rain
+1141,Mustard,Ratlam,2016-07-11,3200.0,0.2,25.2,rain
+1142,Soyabean,A lot,2016-07-11,2789.0,,25.2,rain
+1143,Soyabean,Jaora,2016-07-11,2850.0,,25.2,rain
+1144,Soyabean,Ratlam,2016-07-11,2896.0,,25.2,rain
+1145,Soyabean,Sailana,2016-07-11,2800.0,258.5,25.2,rain
+1146,Soyabean,Taal,2016-07-11,2765.0,,25.2,rain
+1147,Mustard,Jaora,2016-08-11,3850.0,1.1,23.2,clear
+1148,Soyabean,A lot,2016-08-11,2777.0,,23.2,clear
+1149,Soyabean,Jaora,2016-08-11,2860.0,,23.2,clear
+1150,Soyabean,Ratlam,2016-08-11,2855.0,990.0,23.2,clear
+1151,Soyabean,Sailana,2016-08-11,2875.0,186.9,23.2,clear
+1152,Soyabean,Taal,2016-08-11,2815.0,337.4,23.2,clear
+1153,Mustard,Jaora,2016-11-29,3820.0,3.4,26.6,clear
+1154,Soyabean,A lot,2016-11-29,2888.0,,26.6,clear
+1155,Soyabean,Jaora,2016-11-29,2900.0,649.2,26.6,clear
+1156,Soyabean,Taal,2016-11-29,2920.0,320.0,26.6,clear
+1157,Mustard,Jaora,2016-11-30,3811.0,2.8,26.2,clear
+1158,Soyabean,A lot,2016-11-30,2880.0,,26.2,clear
+1159,Soyabean,Jaora,2016-11-30,2900.0,,26.2,clear
+1160,Soyabean,Ratlam,2016-11-30,2940.0,,26.2,clear
+1161,Soyabean,Sailana,2016-11-30,2775.0,126.9,26.2,clear
+1162,Soyabean,Taal,2016-11-30,2860.0,,26.2,clear
+1163,Mustard,Jaora,2016-02-12,3793.0,1.5,27.6,clear
+1164,Soyabean,A lot,2016-02-12,2875.0,,27.6,clear
+1165,Soyabean,Jaora,2016-02-12,2875.0,572.1,27.6,clear
+1166,Soyabean,Ratlam,2016-02-12,2935.0,567.1,27.6,clear
+1167,Soyabean,Sailana,2016-02-12,2800.0,116.9,27.6,clear
+1168,Soyabean,Taal,2016-02-12,2880.0,,27.6,clear
+1169,Mustard,Jaora,2016-05-12,3830.0,6.6,40.6,clear
+1170,Mustard,Ratlam,2016-05-12,3600.0,0.4,40.6,clear
+1171,Soyabean,A lot,2016-05-12,2866.0,,40.6,clear
+1172,Soyabean,Jaora,2016-05-12,2876.0,624.7,40.6,clear
+1173,Soyabean,Ratlam,2016-05-12,2900.0,559.1,40.6,clear
+1174,Soyabean,Sailana,2016-05-12,2800.0,136.5,40.6,clear
+1175,Soyabean,Taal,2016-05-12,2880.0,,40.6,clear
+1176,Mustard,Jaora,2016-06-12,3855.0,7.6,37.2,clear
+1177,Soyabean,A lot,2016-06-12,2855.0,,37.2,clear
+1178,Soyabean,Ratlam,2016-06-12,2850.0,635.5,37.2,clear
+1179,Soyabean,Sailana,2016-06-12,2800.0,120.5,37.2,clear
+1180,Soyabean,Taal,2016-06-12,2830.0,,37.2,clear
+1181,Mustard,Jaora,2016-07-12,3850.0,6.9,24.2,rain
+1182,Soyabean,A lot,2016-07-12,2847.0,,24.2,rain
+1183,Soyabean,Jaora,2016-07-12,2900.0,485.2,24.2,rain
+1184,Soyabean,Ratlam,2016-07-12,2865.0,502.9,24.2,rain
+1185,Soyabean,Sailana,2016-07-12,2750.0,124.0,24.2,rain
+1186,Soyabean,Taal,2016-07-12,2830.0,,24.2,rain
+1187,Mustard,Jaora,2016-08-12,3820.0,5.5,27.2,clear
+1188,Soyabean,A lot,2016-08-12,2834.0,104.2,27.2,clear
+1189,Soyabean,Jaora,2016-08-12,2840.0,555.8,27.2,clear
+1190,Soyabean,Ratlam,2016-08-12,2840.0,416.9,27.2,clear
+1191,Soyabean,Sailana,2016-08-12,2800.0,101.5,27.2,clear
+1192,Soyabean,Taal,2016-08-12,2851.0,,27.2,clear
+1193,Mustard,Jaora,2016-12-14,3450.0,0.0,24.2,clear
+1194,Soyabean,Jaora,2016-12-14,2780.0,422.1,24.2,clear
+1195,Soyabean,Ratlam,2016-12-14,2865.0,396.4,24.2,clear
+1196,Soyabean,Sailana,2016-12-14,2830.0,71.2,24.2,clear
+1197,Soyabean,Taal,2016-12-14,2861.0,,24.2,clear
+1198,Mustard,Jaora,2016-12-15,3500.0,0.0,14.6,clear
+1199,Soyabean,A lot,2016-12-15,2860.0,,14.6,clear
+1200,Soyabean,Jaora,2016-12-15,2650.0,435.0,14.6,clear
+1201,Soyabean,Ratlam,2016-12-15,2885.0,394.6,14.6,clear
+1202,Soyabean,Sailana,2016-12-15,2847.0,96.3,14.6,clear
+1203,Soyabean,Taal,2016-12-15,2820.0,,14.6,clear
+1204,Mustard,Jaora,2016-12-16,3550.0,0.0,24.2,clear
+1205,Soyabean,A lot,2016-12-16,2870.0,,24.2,clear
+1206,Soyabean,Jaora,2016-12-16,2710.0,413.2,24.2,clear
+1207,Soyabean,Ratlam,2016-12-16,2865.0,455.8,24.2,clear
+1208,Soyabean,Taal,2016-12-16,2855.0,,24.2,clear
+1209,Mustard,Jaora,2016-12-17,3720.0,14.1,24.2,clear
+1210,Soyabean,A lot,2016-12-17,2872.0,,24.2,clear
+1211,Soyabean,Jaora,2016-12-17,2820.0,353.8,24.2,clear
+1212,Soyabean,Ratlam,2016-12-17,2870.0,264.7,24.2,clear
+1213,Soyabean,Sailana,2016-12-17,2750.0,35.1,24.2,clear
+1214,Soyabean,Taal,2016-12-17,2835.0,,24.2,clear
+1215,Mustard,Jaora,2016-12-20,3400.0,2.1,13.2,clear
+1216,Soyabean,A lot,2016-12-20,2865.0,67.02,13.2,clear
+1217,Soyabean,Jaora,2016-12-20,2750.0,406.1,13.2,clear
+1218,Soyabean,Ratlam,2016-12-20,2835.0,299.9,13.2,clear
+1219,Soyabean,Sailana,2016-12-20,2850.0,93.0,13.2,clear
+1220,Soyabean,Taal,2016-12-20,2860.0,,13.2,clear
+1221,Mustard,Jaora,2016-12-21,3350.0,1.7,23.2,clear
+1222,Soyabean,A lot,2016-12-21,2852.0,,23.2,clear
+1223,Soyabean,Jaora,2016-12-21,2740.0,,23.2,clear
+1224,Soyabean,Ratlam,2016-12-21,2840.0,298.9,23.2,clear
+1225,Soyabean,Sailana,2016-12-21,2850.0,99.5,23.2,clear
+1226,Soyabean,Taal,2016-12-21,2865.0,,23.2,clear
+1227,Mustard,Jaora,2016-12-22,3400.0,1.7,24.2,clear
+1228,Soyabean,A lot,2016-12-22,2835.0,,24.2,clear
+1229,Soyabean,Jaora,2016-12-22,2800.0,392.8,24.2,clear
+1230,Soyabean,Ratlam,2016-12-22,2838.0,260.6,24.2,clear
+1231,Soyabean,Sailana,2016-12-22,2800.0,84.5,24.2,clear
+1232,Soyabean,Taal,2016-12-22,2830.0,,24.2,clear
+1233,Mustard,Jaora,2016-12-23,3400.0,1.4,13.6,clear
+1234,Soyabean,A lot,2016-12-23,2811.0,4.51,13.6,clear
+1235,Soyabean,Jaora,2016-12-23,2800.0,295.9,13.6,clear
+1236,Soyabean,Ratlam,2016-12-23,2805.0,242.1,13.6,clear
+1237,Soyabean,Sailana,2016-12-23,2850.0,48.5,13.6,clear
+1238,Soyabean,Taal,2016-12-23,2826.0,,13.6,clear
+1239,Mustard,Jaora,2016-12-27,3500.0,3.2,22.6,clear
+1240,Soyabean,A lot,2016-12-27,2861.0,,22.6,clear
+1241,Soyabean,Jaora,2016-12-27,2860.0,176.7,22.6,clear
+1242,Soyabean,Taal,2016-12-27,2860.0,,22.6,clear
+1243,Mustard,Jaora,2016-12-28,3440.0,3.7,24.2,clear
+1244,Soyabean,Jaora,2016-12-28,2800.0,239.2,24.2,clear
+1245,Soyabean,Ratlam,2016-12-28,2900.0,159.9,24.2,clear
+1246,Soyabean,Sailana,2016-12-28,2850.0,61.5,24.2,clear
+1247,Soyabean,Taal,2016-12-28,2865.0,,24.2,clear
+1248,Mustard,Jaora,2016-12-29,3600.0,2.8,24.2,clear
+1249,Soyabean,A lot,2016-12-29,2905.0,,24.2,clear
+1250,Soyabean,Jaora,2016-12-29,2850.0,241.7,24.2,clear
+1251,Soyabean,Sailana,2016-12-29,2850.0,30.5,24.2,clear
+1252,Soyabean,Taal,2016-12-29,2905.0,,24.2,clear
+1253,Mustard,Jaora,2016-12-30,3551.0,10.0,26.2,clear
+1254,Soyabean,A lot,2016-12-30,2909.0,23.81,26.2,clear
+1255,Soyabean,Jaora,2016-12-30,2900.0,178.1,26.2,clear
+1256,Soyabean,Ratlam,2016-12-30,2970.0,152.2,26.2,clear
+1257,Soyabean,Sailana,2016-12-30,2950.0,51.8,26.2,clear
+1258,Soyabean,Taal,2016-12-30,2930.0,,26.2,clear
+1259,Mustard,Jaora,2016-12-31,3700.0,1.7,26.2,clear
+1260,Soyabean,A lot,2016-12-31,2971.0,,26.2,clear
+1261,Soyabean,Jaora,2016-12-31,3000.0,97.3,26.2,clear
+1262,Soyabean,Ratlam,2016-12-31,2971.0,69.7,26.2,clear
+1263,Soyabean,Taal,2016-12-31,2935.0,,26.2,clear
+1264,Mustard,Ratlam,2016-01-25,3201.0,0.3,25.2,clear
+1265,Mustard,Taal,2016-01-25,3351.0,1.2,25.2,clear
+1266,Soyabean,A lot,2016-01-25,3590.0,26.78,25.2,clear
+1267,Soyabean,Ratlam,2016-01-25,3655.0,242.0,25.2,clear
+1268,Soyabean,Sailana,2016-01-25,3683.0,76.5,25.2,clear
+1269,Soyabean,Taal,2016-01-25,3659.0,,25.2,clear
+1270,Mustard,Ratlam,2016-04-21,3780.0,0.1,38.2,clear
+1271,Mustard,Taal,2016-04-21,3926.0,0.9,38.2,clear
+1272,Soyabean,A lot,2016-04-21,3867.0,3.08,38.2,clear
+1273,Soyabean,Ratlam,2016-04-21,4070.0,275.5,38.2,clear
+1274,Soyabean,Taal,2016-04-21,4075.0,,38.2,clear
+1275,Mustard,Ratlam,2016-06-17,3700.0,0.3,37.2,clear
+1276,Soyabean,A lot,2016-06-17,3685.0,5.16,37.2,clear
+1277,Soyabean,Ratlam,2016-06-17,3620.0,218.0,37.2,clear
+1278,Soyabean,Sailana,2016-06-17,3770.0,30.0,37.2,clear
+1279,Soyabean,Taal,2016-06-17,3700.0,,37.2,clear
+1280,Mustard,Taal,2016-01-13,3300.0,0.49,25.2,clear
+1281,Soyabean,A lot,2016-01-13,3526.0,5.43,25.2,clear
+1282,Soyabean,Ratlam,2016-01-13,3590.0,154.0,25.2,clear
+1283,Soyabean,Sailana,2016-01-13,3645.0,42.0,25.2,clear
+1284,Soyabean,Taal,2016-01-13,3618.0,,25.2,clear
+1285,Mustard,Taal,2016-01-23,3170.0,0.2,24.0,clear
+1286,Soyabean,Taal,2016-01-23,3630.0,28.07,24.0,clear
+1287,Mustard,Taal,2016-01-27,3226.0,1.56,13.2,clear
+1288,Soyabean,A lot,2016-01-27,3601.0,2.47,13.2,clear
+1289,Soyabean,Ratlam,2016-01-27,3668.0,193.5,13.2,clear
+1290,Soyabean,Sailana,2016-01-27,3558.0,65.0,13.2,clear
+1291,Soyabean,Taal,2016-01-27,3635.0,,13.2,clear
+1292,Mustard,Taal,2016-03-29,3651.0,3.64,35.6,clear
+1293,Soyabean,Taal,2016-03-29,3810.0,11.57,35.6,clear
+1294,Mustard,Taal,2016-03-30,3800.0,3.29,37.2,clear
+1295,Soyabean,Sailana,2016-03-30,3650.0,20.9,37.2,clear
+1296,Soyabean,Taal,2016-03-30,3795.0,4.04,37.2,clear
+1297,Mustard,Taal,2016-05-13,3975.0,1.51,31.2,clear
+1298,Soyabean,A lot,2016-05-13,3786.0,1.74,31.2,clear
+1299,Soyabean,Jaora,2016-05-13,3900.0,895.0,31.2,clear
+1300,Soyabean,Ratlam,2016-05-13,3885.0,244.1,31.2,clear
+1301,Soyabean,Sailana,2016-05-13,3930.0,31.2,31.2,clear
+1302,Soyabean,Taal,2016-05-13,3900.0,,31.2,clear
+1303,Mustard,Taal,2016-05-14,3921.0,0.19,40.6,clear
+1304,Soyabean,A lot,2016-05-14,3751.0,0.46,40.6,clear
+1305,Soyabean,Taal,2016-05-14,3921.0,17.55,40.6,clear
+1306,Mustard,Taal,2016-09-06,3891.0,0.1,28.2,clear
+1307,Soyabean,A lot,2016-09-06,3786.0,3.34,28.2,clear
+1308,Soyabean,Ratlam,2016-09-06,3775.0,136.5,28.2,clear
+1309,Soyabean,Sailana,2016-09-06,3822.0,22.2,28.2,clear
+1310,Soyabean,Taal,2016-09-06,3766.0,14.3,28.2,clear
+1311,Soyabean,A lot,2016-01-01,3556.0,6.36,28.2,clear
+1312,Soyabean,Sailana,2016-01-01,3720.0,35.8,28.2,clear
+1313,Soyabean,Taal,2016-01-01,3610.0,16.04,28.2,clear
+1314,Soyabean,A lot,2016-01-14,3558.0,0.67,25.2,clear
+1315,Soyabean,Ratlam,2016-01-14,3550.0,33.6,25.2,clear
+1316,Soyabean,Sailana,2016-01-14,3781.0,7.5,25.2,clear
+1317,Soyabean,Taal,2016-01-14,3627.0,13.24,25.2,clear
+1318,Soyabean,A lot,2016-01-16,3535.0,4.31,24.2,clear
+1319,Soyabean,Ratlam,2016-01-16,3580.0,24.8,24.2,clear
+1320,Soyabean,Sailana,2016-01-16,3690.0,51.6,24.2,clear
+1321,Soyabean,Taal,2016-01-16,3600.0,36.45,24.2,clear
+1322,Soyabean,A lot,2016-10-06,3790.0,15.97,28.2,clear
+1323,Soyabean,Ratlam,2016-10-06,3770.0,214.6,28.2,clear
+1324,Soyabean,Sailana,2016-10-06,3783.0,31.5,28.2,clear
+1325,Soyabean,Taal,2016-10-06,3781.0,19.72,28.2,clear
+1326,Soyabean,A lot,2016-11-06,3760.0,7.78,27.2,clear
+1327,Soyabean,Taal,2016-11-06,3736.0,25.14,27.2,clear
+1328,Soyabean,A lot,2016-06-24,3670.0,8.07,28.2,clear
+1329,Soyabean,Ratlam,2016-06-24,3725.0,164.3,28.2,clear
+1330,Soyabean,Taal,2016-06-24,3680.0,,28.2,clear
+1331,Soyabean,A lot,2016-06-25,3682.0,1.23,33.2,clear
+1332,Soyabean,Taal,2016-06-25,3724.0,,33.2,clear
+1333,Soyabean,A lot,2016-06-29,3549.0,2.31,33.2,clear
+1334,Soyabean,Ratlam,2016-06-29,3700.0,200.2,33.2,clear
+1335,Soyabean,Sailana,2016-06-29,3711.0,47.5,33.2,clear
+1336,Soyabean,Taal,2016-06-29,3621.0,30.02,33.2,clear
+1337,Soyabean,A lot,2016-01-07,3550.0,2.29,25.6,clear
+1338,Soyabean,Sailana,2016-01-07,3468.0,68.5,25.6,clear
+1339,Soyabean,Taal,2016-01-07,3676.0,8.88,25.6,clear
+1340,Soyabean,A lot,2016-06-07,3550.0,0.87,42.2,clear
+1341,Soyabean,Ratlam,2016-06-07,3581.0,21.5,42.2,clear
+1342,Soyabean,Taal,2016-06-07,3626.0,9.86,42.2,clear
+1343,Soyabean,A lot,2016-09-07,3409.0,0.17,23.6,clear
+1344,Soyabean,A lot,2016-02-09,3100.0,0.98,15.2,clear
+1345,Soyabean,Taal,2016-02-09,3221.0,4.95,15.2,clear
+1346,Soyabean,A lot,2016-09-20,2667.0,0.0,28.2,clear
+1347,Soyabean,Ratlam,2016-09-20,3234.0,73.0,28.2,clear
+1348,Soyabean,Sailana,2016-09-20,3152.0,13.3,28.2,clear
+1349,Soyabean,Taal,2016-09-20,3075.0,13.66,28.2,clear
+1350,Soyabean,A lot,2016-09-30,2881.0,14.04,27.2,clear
+1351,Soyabean,Taal,2016-09-30,2985.0,,27.2,clear
+1352,Soyabean,A lot,2016-01-10,2925.0,,26.2,clear
+1353,Soyabean,Sailana,2016-01-10,2847.0,11.9,26.2,clear
+1354,Soyabean,Taal,2016-01-10,2980.0,,26.2,clear
+1355,Soyabean,A lot,2016-06-10,2940.0,,38.2,clear
+1356,Soyabean,Sailana,2016-06-10,2900.0,31.8,38.2,clear
+1357,Soyabean,Taal,2016-06-10,2900.0,271.3,38.2,clear
+1358,Soyabean,A lot,2016-07-10,2875.0,61.2,24.6,rain
+1359,Soyabean,Sailana,2016-07-10,2700.0,25.3,24.6,rain
+1360,Soyabean,A lot,2016-08-10,2900.0,42.05,23.2,clear
+1361,Soyabean,Taal,2016-08-10,2875.0,,23.2,clear
+1362,Soyabean,A lot,2016-10-10,2763.0,3.19,28.2,clear
+1363,Soyabean,A lot,2016-10-13,2835.0,,28.2,clear
+1364,Soyabean,Sailana,2016-10-13,2651.0,48.0,28.2,clear
+1365,Soyabean,Taal,2016-10-13,2750.0,,28.2,clear
+1366,Soyabean,A lot,2016-10-14,2850.0,106.75,28.2,clear
+1367,Soyabean,Ratlam,2016-10-14,2670.0,,28.2,clear
+1368,Soyabean,Sailana,2016-10-14,2710.0,29.7,28.2,clear
+1369,Soyabean,Taal,2016-10-14,2850.0,310.0,28.2,clear
+1370,Soyabean,A lot,2016-10-15,2851.0,0.0,30.2,clear
+1371,Soyabean,Ratlam,2016-10-15,2700.0,711.2,30.2,clear
+1372,Soyabean,Sailana,2016-10-15,2682.0,32.9,30.2,clear
+1373,Soyabean,Taal,2016-10-15,2865.0,323.8,30.2,clear
+1374,Soyabean,A lot,2016-10-22,2790.0,,23.2,clear
+1375,Soyabean,Taal,2016-10-22,2860.0,,23.2,clear
+1376,Soyabean,A lot,2016-10-27,2950.0,102.86,23.2,clear
+1377,Soyabean,Sailana,2016-10-27,2880.0,134.6,23.2,clear
+1378,Soyabean,Taal,2016-10-27,2915.0,203.6,23.2,clear
+1379,Soyabean,A lot,2016-10-28,2955.0,,28.2,clear
+1380,Soyabean,A lot,2016-11-18,2811.0,5.75,25.2,clear
+1381,Soyabean,A lot,2016-11-19,2849.0,17.95,25.6,clear
+1382,Soyabean,A lot,2016-11-21,2877.0,51.9,26.6,clear
+1383,Soyabean,Ratlam,2016-11-21,2974.0,122.8,26.6,clear
+1384,Soyabean,Taal,2016-11-21,2850.0,8.97,26.6,clear
+1385,Soyabean,A lot,2016-11-22,2890.0,,26.6,clear
+1386,Soyabean,Ratlam,2016-11-22,2960.0,298.0,26.6,clear
+1387,Soyabean,Taal,2016-11-22,2881.0,,26.6,clear
+1388,Soyabean,A lot,2016-11-23,2860.0,30.58,26.2,clear
+1389,Soyabean,Jaora,2016-11-23,2912.0,104.1,26.2,clear
+1390,Soyabean,Ratlam,2016-11-23,2885.0,359.9,26.2,clear
+1391,Soyabean,Taal,2016-11-23,2871.0,,26.2,clear
+1392,Soyabean,A lot,2016-11-24,2850.0,,25.6,clear
+1393,Soyabean,Ratlam,2016-11-24,2925.0,475.8,25.6,clear
+1394,Soyabean,Sailana,2016-11-24,2750.0,26.0,25.6,clear
+1395,Soyabean,Taal,2016-11-24,2950.0,,25.6,clear
+1396,Soyabean,A lot,2016-11-25,2880.0,,25.6,clear
+1397,Soyabean,Ratlam,2016-11-25,2940.0,586.0,25.6,clear
+1398,Soyabean,Sailana,2016-11-25,2675.0,76.1,25.6,clear
+1399,Soyabean,Taal,2016-11-25,2925.0,,25.6,clear
+1400,Soyabean,A lot,2016-09-12,2810.0,130.42,30.2,clear
+1401,Soyabean,Ratlam,2016-09-12,2845.0,412.9,30.2,clear
+1402,Soyabean,Sailana,2016-09-12,2650.0,67.7,30.2,clear
+1403,Soyabean,Taal,2016-09-12,2825.0,184.4,30.2,clear
+1404,Soyabean,A lot,2016-12-13,2820.0,,25.0,clear
+1405,Soyabean,Ratlam,2016-12-13,2866.0,289.6,25.0,clear
+1406,Soyabean,Sailana,2016-12-13,2775.0,60.3,25.0,clear
+1407,Soyabean,Taal,2016-12-13,2790.0,86.6,25.0,clear
+1408,Soyabean,A lot,2016-12-26,2860.0,16.6,21.2,clear
+1409,Soyabean,Jaora,2016-12-26,2800.0,155.4,21.2,clear
+1410,Soyabean,Ratlam,2016-12-26,2885.0,113.2,21.2,clear
+1411,Soyabean,Taal,2016-12-26,2840.0,30.2,21.2,clear
+1412,Soyabean,Jaora,2016-09-08,3520.0,41.4,28.2,clear
+1413,Soyabean,Jaora,2016-08-20,3500.0,14.8,23.2,clear
+1414,Soyabean,Ratlam,2016-08-20,3473.0,19.5,23.2,clear
+1415,Soyabean,Jaora,2016-07-09,3350.0,111.4,25.2,rain
+1416,Soyabean,Ratlam,2016-07-09,3200.0,138.5,25.2,rain
+1417,Soyabean,Sailana,2016-07-09,3143.0,13.1,25.2,rain
+1418,Soyabean,Taal,2016-07-09,3154.0,5.25,25.2,rain
+1419,Soyabean,Ratlam,2016-03-25,3822.0,40.1,38.2,clear
+1420,Soyabean,Ratlam,2016-07-25,3630.0,96.5,30.2,clear
+1421,Soyabean,Sailana,2016-07-25,3551.0,15.2,30.2,clear
+1422,Soyabean,Taal,2016-07-25,3580.0,3.23,30.2,clear
+1423,Soyabean,Ratlam,2016-01-08,3586.0,113.0,26.2,clear
+1424,Soyabean,Sailana,2016-01-08,3614.0,15.4,26.2,clear
+1425,Soyabean,Taal,2016-01-08,3641.0,4.59,26.2,clear
+1426,Soyabean,Ratlam,2016-08-08,3580.0,28.8,24.2,rain
+1427,Soyabean,Sailana,2016-08-08,3561.0,6.1,24.2,rain
+1428,Soyabean,Ratlam,2016-08-09,3190.0,116.5,24.2,rain
+1429,Soyabean,Sailana,2016-08-09,3179.0,11.2,24.2,rain
+1430,Soyabean,Ratlam,2016-09-19,3275.0,128.1,26.2,rain
+1431,Soyabean,Sailana,2016-09-19,3217.0,16.0,26.2,rain
+1432,Soyabean,Sailana,2016-09-24,2953.0,12.3,28.2,clear
+1433,Soyabean,Taal,2016-09-24,2950.0,,28.2,clear
+1434,Soyabean,Taal,2016-09-01,3578.0,,25.2,clear
+1435,Soyabean,Taal,2016-04-22,3930.0,9.21,35.2,clear
+1436,Soyabean,Taal,2016-04-23,3930.0,9.17,36.2,clear
+1437,Soyabean,Taal,2016-07-23,3551.0,,30.2,clear
+1438,Soyabean,Taal,2016-08-13,3600.0,0.08,26.2,clear
+1439,Soyabean,Taal,2016-08-27,3331.0,,27.2,clear
+1440,Soyabean,Taal,2016-06-09,3216.0,0.32,29.2,clear
+1441,Soyabean,Taal,2016-10-09,3150.0,3.0,29.2,clear
+1442,Mustard,A lot,2017-02-17,3264.0,0.76,31.2,clear
+1443,Mustard,Ratlam,2017-02-17,2901.0,1.0,31.2,clear
+1444,Soyabean,A lot,2017-02-17,2836.0,12.93,31.2,clear
+1445,Soyabean,Ratlam,2017-02-17,2800.0,227.8,31.2,clear
+1446,Soyabean,Sailana,2017-02-17,2894.0,55.2,31.2,clear
+1447,Soyabean,Taal,2017-02-17,2828.0,37.07,31.2,clear
+1448,Mustard,A lot,2017-02-25,3212.0,1.58,30.2,clear
+1449,Soyabean,A lot,2017-02-25,2764.0,2.87,30.2,clear
+1450,Mustard,A lot,2017-02-03,3200.0,3.05,16.2,clear
+1451,Mustard,Jaora,2017-02-03,3200.0,176.2,16.2,clear
+1452,Soyabean,A lot,2017-02-03,2825.0,5.03,16.2,clear
+1453,Soyabean,Jaora,2017-02-03,2770.0,221.8,16.2,clear
+1454,Soyabean,Ratlam,2017-02-03,2840.0,182.9,16.2,clear
+1455,Soyabean,Sailana,2017-02-03,2728.0,40.7,16.2,clear
+1456,Soyabean,Taal,2017-02-03,2846.0,24.7,16.2,clear
+1457,Mustard,A lot,2017-04-03,3280.0,3.23,37.6,clear
+1458,Mustard,Jaora,2017-04-03,3280.0,82.0,37.6,clear
+1459,Mustard,Ratlam,2017-04-03,2800.0,0.1,37.6,clear
+1460,Mustard,Taal,2017-04-03,3166.0,1.2,37.6,clear
+1461,Soyabean,A lot,2017-04-03,2809.0,12.56,37.6,clear
+1462,Soyabean,Jaora,2017-04-03,2900.0,142.5,37.6,clear
+1463,Soyabean,Ratlam,2017-04-03,2830.0,131.1,37.6,clear
+1464,Soyabean,Sailana,2017-04-03,2850.0,24.0,37.6,clear
+1465,Soyabean,Taal,2017-04-03,2861.0,,37.6,clear
+1466,Mustard,A lot,2017-06-03,3000.0,2.65,40.6,clear
+1467,Mustard,Jaora,2017-06-03,3300.0,111.5,40.6,clear
+1468,Soyabean,A lot,2017-06-03,2841.0,12.35,40.6,clear
+1469,Soyabean,Jaora,2017-06-03,2860.0,154.6,40.6,clear
+1470,Soyabean,Ratlam,2017-06-03,2840.0,135.8,40.6,clear
+1471,Soyabean,Sailana,2017-06-03,2825.0,42.0,40.6,clear
+1472,Soyabean,Taal,2017-06-03,2890.0,27.67,40.6,clear
+1473,Mustard,A lot,2017-07-03,3190.0,3.64,25.2,clear
+1474,Soyabean,A lot,2017-07-03,2820.0,4.59,25.2,clear
+1475,Soyabean,Ratlam,2017-07-03,2800.0,156.1,25.2,clear
+1476,Soyabean,Sailana,2017-07-03,2850.0,21.2,25.2,clear
+1477,Soyabean,Taal,2017-07-03,2820.0,34.3,25.2,clear
+1478,Mustard,A lot,2017-08-03,3176.0,2.35,27.2,clear
+1479,Mustard,Jaora,2017-08-03,3300.0,59.0,27.2,clear
+1480,Mustard,Taal,2017-08-03,3050.0,2.63,27.2,clear
+1481,Soyabean,A lot,2017-08-03,2777.0,10.96,27.2,clear
+1482,Soyabean,Jaora,2017-08-03,2800.0,133.7,27.2,clear
+1483,Soyabean,Ratlam,2017-08-03,2790.0,195.8,27.2,clear
+1484,Soyabean,Sailana,2017-08-03,2850.0,26.5,27.2,clear
+1485,Soyabean,Taal,2017-08-03,2810.0,,27.2,clear
+1486,Mustard,A lot,2017-09-03,3155.0,5.53,25.2,rain
+1487,Mustard,Ratlam,2017-09-03,3900.0,0.1,25.2,rain
+1488,Soyabean,A lot,2017-09-03,2790.0,3.26,25.2,rain
+1489,Soyabean,Ratlam,2017-09-03,2800.0,155.1,25.2,rain
+1490,Soyabean,Sailana,2017-09-03,2800.0,33.2,25.2,rain
+1491,Soyabean,Taal,2017-09-03,2830.0,,25.2,rain
+1492,Mustard,A lot,2017-10-03,3141.0,1.55,25.6,clear
+1493,Mustard,Jaora,2017-10-03,3250.0,37.1,25.6,clear
+1494,Mustard,Ratlam,2017-10-03,2850.0,1.0,25.6,clear
+1495,Mustard,Taal,2017-10-03,3050.0,6.31,25.6,clear
+1496,Soyabean,A lot,2017-10-03,2798.0,0.85,25.6,clear
+1497,Soyabean,Jaora,2017-10-03,2750.0,107.3,25.6,clear
+1498,Soyabean,Ratlam,2017-10-03,2790.0,101.0,25.6,clear
+1499,Soyabean,Sailana,2017-10-03,2826.0,57.3,25.6,clear
+1500,Soyabean,Taal,2017-10-03,2820.0,16.91,25.6,clear
+1501,Mustard,A lot,2017-11-03,3187.0,0.23,28.2,clear
+1502,Mustard,A lot,2017-03-14,3166.0,0.72,19.2,clear
+1503,Mustard,Jaora,2017-03-14,3300.0,19.1,19.2,clear
+1504,Soyabean,A lot,2017-03-14,2805.0,,19.2,clear
+1505,Soyabean,Jaora,2017-03-14,2700.0,49.0,19.2,clear
+1506,Soyabean,Ratlam,2017-03-14,2780.0,56.7,19.2,clear
+1507,Soyabean,Sailana,2017-03-14,2750.0,4.4,19.2,clear
+1508,Soyabean,Taal,2017-03-14,2800.0,7.29,19.2,clear
+1509,Mustard,A lot,2017-03-16,3228.0,0.96,33.2,clear
+1510,Mustard,Jaora,2017-03-16,3300.0,23.6,33.2,clear
+1511,Mustard,Taal,2017-03-16,3065.0,1.99,33.2,clear
+1512,Soyabean,A lot,2017-03-16,2821.0,2.13,33.2,clear
+1513,Soyabean,Jaora,2017-03-16,2900.0,135.3,33.2,clear
+1514,Soyabean,Ratlam,2017-03-16,2845.0,166.6,33.2,clear
+1515,Soyabean,Sailana,2017-03-16,2850.0,21.8,33.2,clear
+1516,Soyabean,Taal,2017-03-16,2830.0,11.54,33.2,clear
+1517,Mustard,A lot,2017-03-18,3303.0,0.42,33.2,clear
+1518,Mustard,Jaora,2017-03-18,3350.0,15.8,33.2,clear
+1519,Soyabean,A lot,2017-03-18,2839.0,1.02,33.2,clear
+1520,Soyabean,Jaora,2017-03-18,2800.0,122.5,33.2,clear
+1521,Soyabean,Ratlam,2017-03-18,2850.0,148.8,33.2,clear
+1522,Soyabean,Sailana,2017-03-18,2850.0,22.7,33.2,clear
+1523,Soyabean,Taal,2017-03-18,2865.0,15.42,33.2,clear
+1524,Mustard,A lot,2017-03-20,3323.0,2.03,33.2,clear
+1525,Mustard,Jaora,2017-03-20,3400.0,17.8,33.2,clear
+1526,Mustard,Taal,2017-03-20,3150.0,1.21,33.2,clear
+1527,Soyabean,A lot,2017-03-20,2815.0,5.21,33.2,clear
+1528,Soyabean,Jaora,2017-03-20,2850.0,227.7,33.2,clear
+1529,Soyabean,Ratlam,2017-03-20,2840.0,191.3,33.2,clear
+1530,Soyabean,Taal,2017-03-20,2875.0,,33.2,clear
+1531,Mustard,A lot,2017-03-22,3250.0,1.32,24.2,clear
+1532,Mustard,Jaora,2017-03-22,3380.0,5.8,24.2,clear
+1533,Soyabean,A lot,2017-03-22,2790.0,3.32,24.2,clear
+1534,Soyabean,Jaora,2017-03-22,2800.0,208.1,24.2,clear
+1535,Soyabean,Ratlam,2017-03-22,2863.0,221.5,24.2,clear
+1536,Soyabean,Sailana,2017-03-22,2815.0,23.9,24.2,clear
+1537,Soyabean,Taal,2017-03-22,2810.0,31.12,24.2,clear
+1538,Mustard,A lot,2017-03-23,3451.0,2.13,37.2,clear
+1539,Mustard,Jaora,2017-03-23,3500.0,25.0,37.2,clear
+1540,Mustard,Ratlam,2017-03-23,4001.0,0.2,37.2,clear
+1541,Soyabean,A lot,2017-03-23,2844.0,3.02,37.2,clear
+1542,Soyabean,Jaora,2017-03-23,2900.0,166.5,37.2,clear
+1543,Soyabean,Ratlam,2017-03-23,2870.0,143.2,37.2,clear
+1544,Soyabean,Sailana,2017-03-23,2800.0,19.8,37.2,clear
+1545,Soyabean,Taal,2017-03-23,2850.0,,37.2,clear
+1546,Mustard,A lot,2017-03-24,3476.0,0.12,37.2,clear
+1547,Mustard,Jaora,2017-03-24,3500.0,24.1,37.2,clear
+1548,Soyabean,A lot,2017-03-24,2899.0,8.96,37.2,clear
+1549,Soyabean,Jaora,2017-03-24,2700.0,288.5,37.2,clear
+1550,Soyabean,Ratlam,2017-03-24,2880.0,276.0,37.2,clear
+1551,Soyabean,Taal,2017-03-24,2880.0,,37.2,clear
+1552,Mustard,A lot,2017-03-25,3500.0,0.23,37.2,clear
+1553,Soyabean,A lot,2017-03-25,2791.0,1.13,37.2,clear
+1554,Mustard,A lot,2017-03-27,3100.0,1.23,38.6,clear
+1555,Soyabean,Ratlam,2017-03-27,2800.0,271.9,38.6,clear
+1556,Soyabean,Sailana,2017-03-27,2950.0,49.2,38.6,clear
+1557,Soyabean,Taal,2017-03-27,2875.0,,38.6,clear
+1558,Mustard,A lot,2017-07-04,3380.0,0.23,28.2,clear
+1559,Mustard,Jaora,2017-07-04,3450.0,8.5,28.2,clear
+1560,Mustard,Ratlam,2017-07-04,3000.0,0.1,28.2,clear
+1561,Soyabean,A lot,2017-07-04,2776.0,3.2,28.2,clear
+1562,Soyabean,Jaora,2017-07-04,2800.0,235.0,28.2,clear
+1563,Soyabean,Ratlam,2017-07-04,2820.0,297.0,28.2,clear
+1564,Soyabean,Sailana,2017-07-04,2831.0,41.9,28.2,clear
+1565,Soyabean,Taal,2017-07-04,2830.0,,28.2,clear
+1566,Mustard,Jaora,2017-02-01,3700.0,2.6,27.2,clear
+1567,Soyabean,A lot,2017-02-01,2980.0,36.32,27.2,clear
+1568,Soyabean,Jaora,2017-02-01,2960.0,282.1,27.2,clear
+1569,Soyabean,Ratlam,2017-02-01,2950.0,201.2,27.2,clear
+1570,Soyabean,Sailana,2017-02-01,3000.0,51.2,27.2,clear
+1571,Soyabean,Taal,2017-02-01,2925.0,85.27,27.2,clear
+1572,Mustard,Jaora,2017-03-01,3450.0,0.0,32.2,clear
+1573,Soyabean,A lot,2017-03-01,2967.0,56.73,32.2,clear
+1574,Soyabean,Jaora,2017-03-01,2900.0,319.3,32.2,clear
+1575,Soyabean,Ratlam,2017-03-01,2985.0,232.4,32.2,clear
+1576,Soyabean,Sailana,2017-03-01,2975.0,60.6,32.2,clear
+1577,Soyabean,Taal,2017-03-01,2950.0,83.2,32.2,clear
+1578,Mustard,Jaora,2017-04-01,3450.0,1.3,38.2,clear
+1579,Soyabean,A lot,2017-04-01,2920.0,74.54,38.2,clear
+1580,Soyabean,Jaora,2017-04-01,2800.0,357.6,38.2,clear
+1581,Soyabean,Ratlam,2017-04-01,2965.0,307.5,38.2,clear
+1582,Soyabean,Sailana,2017-04-01,2950.0,78.7,38.2,clear
+1583,Soyabean,Taal,2017-04-01,2870.0,,38.2,clear
+1584,Mustard,Jaora,2017-06-01,3420.0,1.1,39.2,clear
+1585,Soyabean,A lot,2017-06-01,2970.0,,39.2,clear
+1586,Soyabean,Jaora,2017-06-01,2810.0,,39.2,clear
+1587,Soyabean,Ratlam,2017-06-01,2830.0,,39.2,clear
+1588,Soyabean,Sailana,2017-06-01,2875.0,107.5,39.2,clear
+1589,Soyabean,Taal,2017-06-01,2855.0,,39.2,clear
+1590,Mustard,Jaora,2017-09-01,3500.0,5.8,28.2,clear
+1591,Soyabean,A lot,2017-09-01,2900.0,60.25,28.2,clear
+1592,Soyabean,Jaora,2017-09-01,2850.0,364.2,28.2,clear
+1593,Soyabean,Ratlam,2017-09-01,2842.0,310.3,28.2,clear
+1594,Soyabean,Sailana,2017-09-01,2950.0,55.9,28.2,clear
+1595,Soyabean,Taal,2017-09-01,2871.0,,28.2,clear
+1596,Mustard,Jaora,2017-11-01,3300.0,5.8,29.2,clear
+1597,Soyabean,A lot,2017-11-01,2881.0,,29.2,clear
+1598,Soyabean,Jaora,2017-11-01,2900.0,366.1,29.2,clear
+1599,Soyabean,Ratlam,2017-11-01,2860.0,342.9,29.2,clear
+1600,Soyabean,Sailana,2017-11-01,2950.0,80.9,29.2,clear
+1601,Soyabean,Taal,2017-11-01,2871.0,113.6,29.2,clear
+1602,Mustard,Jaora,2017-12-01,2900.0,0.0,24.2,clear
+1603,Soyabean,A lot,2017-12-01,2888.0,,24.2,clear
+1604,Soyabean,Jaora,2017-12-01,2800.0,159.1,24.2,clear
+1605,Soyabean,Ratlam,2017-12-01,2880.0,241.7,24.2,clear
+1606,Soyabean,Sailana,2017-12-01,2940.0,69.2,24.2,clear
+1607,Soyabean,Taal,2017-12-01,2870.0,96.1,24.2,clear
+1608,Mustard,Jaora,2017-01-13,3350.0,4.4,18.2,clear
+1609,Soyabean,A lot,2017-01-13,2940.0,33.55,18.2,clear
+1610,Soyabean,Jaora,2017-01-13,2850.0,268.1,18.2,clear
+1611,Soyabean,Ratlam,2017-01-13,2900.0,266.5,18.2,clear
+1612,Soyabean,Sailana,2017-01-13,2950.0,57.9,18.2,clear
+1613,Soyabean,Taal,2017-01-13,2880.0,,18.2,clear
+1614,Mustard,Jaora,2017-01-16,3400.0,6.5,23.2,clear
+1615,Soyabean,A lot,2017-01-16,2915.0,37.65,23.2,clear
+1616,Soyabean,Jaora,2017-01-16,2900.0,317.8,23.2,clear
+1617,Soyabean,Ratlam,2017-01-16,2910.0,266.0,23.2,clear
+1618,Soyabean,Sailana,2017-01-16,2850.0,58.1,23.2,clear
+1619,Soyabean,Taal,2017-01-16,2875.0,,23.2,clear
+1620,Mustard,Jaora,2017-01-17,2940.0,2.9,21.2,clear
+1621,Soyabean,A lot,2017-01-17,2957.0,,21.2,clear
+1622,Soyabean,Jaora,2017-01-17,3000.0,176.7,21.2,clear
+1623,Soyabean,Ratlam,2017-01-17,2980.0,260.1,21.2,clear
+1624,Soyabean,Sailana,2017-01-17,2900.0,49.7,21.2,clear
+1625,Soyabean,Taal,2017-01-17,2961.0,,21.2,clear
+1626,Mustard,Jaora,2017-01-18,3540.0,7.6,21.6,clear
+1627,Soyabean,A lot,2017-01-18,3015.0,,21.6,clear
+1628,Soyabean,Jaora,2017-01-18,2950.0,358.3,21.6,clear
+1629,Soyabean,Ratlam,2017-01-18,2985.0,283.4,21.6,clear
+1630,Soyabean,Sailana,2017-01-18,3025.0,61.5,21.6,clear
+1631,Soyabean,Taal,2017-01-18,2990.0,,21.6,clear
+1632,Mustard,Jaora,2017-01-19,3300.0,5.9,19.2,clear
+1633,Soyabean,Jaora,2017-01-19,2900.0,169.9,19.2,clear
+1634,Soyabean,Ratlam,2017-01-19,2960.0,305.3,19.2,clear
+1635,Soyabean,Sailana,2017-01-19,3000.0,72.9,19.2,clear
+1636,Soyabean,Taal,2017-01-19,2985.0,,19.2,clear
+1637,Mustard,Jaora,2017-01-20,3400.0,16.1,22.2,clear
+1638,Mustard,Taal,2017-01-20,2551.0,0.9,22.2,clear
+1639,Soyabean,Jaora,2017-01-20,2910.0,294.9,22.2,clear
+1640,Soyabean,Ratlam,2017-01-20,2905.0,246.1,22.2,clear
+1641,Soyabean,Sailana,2017-01-20,3040.0,72.0,22.2,clear
+1642,Soyabean,Taal,2017-01-20,2951.0,,22.2,clear
+1643,Mustard,Jaora,2017-01-23,3500.0,24.9,28.2,clear
+1644,Soyabean,A lot,2017-01-23,2920.0,36.45,28.2,clear
+1645,Soyabean,Jaora,2017-01-23,2800.0,426.7,28.2,clear
+1646,Soyabean,Ratlam,2017-01-23,2902.0,333.8,28.2,clear
+1647,Soyabean,Sailana,2017-01-23,3000.0,79.6,28.2,clear
+1648,Soyabean,Taal,2017-01-23,2904.0,,28.2,clear
+1649,Mustard,Jaora,2017-01-24,3200.0,13.5,28.2,clear
+1650,Soyabean,A lot,2017-01-24,2910.0,,28.2,clear
+1651,Soyabean,Jaora,2017-01-24,2900.0,440.2,28.2,clear
+1652,Soyabean,Ratlam,2017-01-24,2910.0,314.1,28.2,clear
+1653,Soyabean,Sailana,2017-01-24,2900.0,65.4,28.2,clear
+1654,Mustard,Jaora,2017-01-25,3200.0,4.0,28.2,clear
+1655,Soyabean,A lot,2017-01-25,2888.0,,28.2,clear
+1656,Soyabean,Jaora,2017-01-25,3000.0,343.7,28.2,clear
+1657,Soyabean,Sailana,2017-01-25,2950.0,68.7,28.2,clear
+1658,Soyabean,Taal,2017-01-25,2909.0,,28.2,clear
+1659,Mustard,Jaora,2017-01-27,3100.0,11.4,21.2,clear
+1660,Mustard,Taal,2017-01-27,2775.0,0.29,21.2,clear
+1661,Soyabean,A lot,2017-01-27,2890.0,19.43,21.2,clear
+1662,Soyabean,Jaora,2017-01-27,2800.0,253.3,21.2,clear
+1663,Soyabean,Ratlam,2017-01-27,2855.0,278.0,21.2,clear
+1664,Soyabean,Sailana,2017-01-27,3050.0,70.0,21.2,clear
+1665,Soyabean,Taal,2017-01-27,2890.0,,21.2,clear
+1666,Mustard,Jaora,2017-01-30,3200.0,26.5,27.2,clear
+1667,Mustard,Ratlam,2017-01-30,2651.0,0.1,27.2,clear
+1668,Soyabean,A lot,2017-01-30,2865.0,11.2,27.2,clear
+1669,Soyabean,Jaora,2017-01-30,2800.0,453.5,27.2,clear
+1670,Soyabean,Ratlam,2017-01-30,2866.0,363.1,27.2,clear
+1671,Soyabean,Sailana,2017-01-30,2950.0,89.5,27.2,clear
+1672,Soyabean,Taal,2017-01-30,2870.0,,27.2,clear
+1673,Mustard,Jaora,2017-01-31,3200.0,19.1,27.2,clear
+1674,Mustard,Ratlam,2017-01-31,2701.0,0.0,27.2,clear
+1675,Soyabean,A lot,2017-01-31,2884.0,23.02,27.2,clear
+1676,Soyabean,Jaora,2017-01-31,2900.0,258.6,27.2,clear
+1677,Soyabean,Ratlam,2017-01-31,2890.0,218.6,27.2,clear
+1678,Soyabean,Sailana,2017-01-31,2950.0,102.9,27.2,clear
+1679,Soyabean,Taal,2017-01-31,2860.0,,27.2,clear
+1680,Mustard,Jaora,2017-01-02,3150.0,7.2,22.2,clear
+1681,Mustard,Sailana,2017-01-02,3010.0,1.7,22.2,clear
+1682,Mustard,Taal,2017-01-02,3002.0,0.01,22.2,clear
+1683,Soyabean,A lot,2017-01-02,2891.0,28.05,22.2,clear
+1684,Soyabean,Jaora,2017-01-02,2890.0,184.7,22.2,clear
+1685,Soyabean,Ratlam,2017-01-02,2880.0,157.5,22.2,clear
+1686,Soyabean,Sailana,2017-01-02,2850.0,37.6,22.2,clear
+1687,Soyabean,Taal,2017-01-02,2865.0,47.62,22.2,clear
+1688,Mustard,Jaora,2017-02-02,3300.0,25.0,28.2,clear
+1689,Mustard,Taal,2017-02-02,3100.0,0.07,28.2,clear
+1690,Soyabean,A lot,2017-02-02,2929.0,,28.2,clear
+1691,Soyabean,Jaora,2017-02-02,3000.0,200.3,28.2,clear
+1692,Soyabean,Ratlam,2017-02-02,2990.0,202.1,28.2,clear
+1693,Soyabean,Sailana,2017-02-02,2900.0,68.6,28.2,clear
+1694,Soyabean,Taal,2017-02-02,2915.0,,28.2,clear
+1695,Mustard,Jaora,2017-03-02,3310.0,41.8,32.6,clear
+1696,Soyabean,A lot,2017-03-02,2920.0,33.37,32.6,clear
+1697,Soyabean,Jaora,2017-03-02,3000.0,272.4,32.6,clear
+1698,Soyabean,Ratlam,2017-03-02,2925.0,266.3,32.6,clear
+1699,Soyabean,Sailana,2017-03-02,2850.0,65.8,32.6,clear
+1700,Soyabean,Taal,2017-03-02,2915.0,,32.6,clear
+1701,Mustard,Jaora,2017-04-02,3350.0,42.7,37.5,clear
+1702,Soyabean,A lot,2017-04-02,2915.0,,37.5,clear
+1703,Soyabean,Jaora,2017-04-02,2980.0,255.5,37.5,clear
+1704,Soyabean,Ratlam,2017-04-02,2915.0,265.7,37.5,clear
+1705,Soyabean,Sailana,2017-04-02,2850.0,0.0,37.5,clear
+1706,Soyabean,Taal,2017-04-02,2924.0,,37.5,clear
+1707,Mustard,Jaora,2017-06-02,3400.0,88.5,36.2,clear
+1708,Mustard,Ratlam,2017-06-02,2501.0,0.3,36.2,clear
+1709,Mustard,Taal,2017-06-02,3500.0,2.32,36.2,clear
+1710,Soyabean,A lot,2017-06-02,2905.0,,36.2,clear
+1711,Soyabean,Jaora,2017-06-02,2910.0,239.3,36.2,clear
+1712,Soyabean,Ratlam,2017-06-02,2920.0,283.4,36.2,clear
+1713,Soyabean,Sailana,2017-06-02,2850.0,41.8,36.2,clear
+1714,Soyabean,Taal,2017-06-02,2960.0,,36.2,clear
+1715,Mustard,Jaora,2017-09-02,3400.0,94.9,27.6,clear
+1716,Soyabean,A lot,2017-09-02,2930.0,,27.6,clear
+1717,Soyabean,Jaora,2017-09-02,2900.0,302.6,27.6,clear
+1718,Soyabean,Ratlam,2017-09-02,2900.0,306.6,27.6,clear
+1719,Soyabean,Sailana,2017-09-02,2950.0,77.8,27.6,clear
+1720,Soyabean,Taal,2017-09-02,2930.0,73.3,27.6,clear
+1721,Mustard,Jaora,2017-02-13,3400.0,271.3,25.0,clear
+1722,Mustard,Ratlam,2017-02-13,2500.0,0.4,25.0,clear
+1723,Mustard,Sailana,2017-02-13,3215.0,4.2,25.0,clear
+1724,Mustard,Taal,2017-02-13,3250.0,2.15,25.0,clear
+1725,Soyabean,A lot,2017-02-13,2885.0,23.3,25.0,clear
+1726,Soyabean,Jaora,2017-02-13,2890.0,382.1,25.0,clear
+1727,Soyabean,Ratlam,2017-02-13,2845.0,362.8,25.0,clear
+1728,Soyabean,Sailana,2017-02-13,2950.0,86.5,25.0,clear
+1729,Soyabean,Taal,2017-02-13,2835.0,97.82,25.0,clear
+1730,Mustard,Jaora,2017-02-14,3350.0,149.3,28.2,clear
+1731,Mustard,Taal,2017-02-14,3130.0,0.1,28.2,clear
+1732,Soyabean,A lot,2017-02-14,2880.0,,28.2,clear
+1733,Soyabean,Jaora,2017-02-14,2800.0,319.6,28.2,clear
+1734,Soyabean,Ratlam,2017-02-14,2840.0,312.2,28.2,clear
+1735,Soyabean,Sailana,2017-02-14,2950.0,104.6,28.2,clear
+1736,Soyabean,Taal,2017-02-14,2840.0,78.17,28.2,clear
+1737,Mustard,Jaora,2017-02-15,3400.0,112.4,28.2,clear
+1738,Mustard,Sailana,2017-02-15,3135.0,4.2,28.2,clear
+1739,Soyabean,A lot,2017-02-15,2866.0,42.63,28.2,clear
+1740,Soyabean,Jaora,2017-02-15,2800.0,276.4,28.2,clear
+1741,Soyabean,Ratlam,2017-02-15,2820.0,296.9,28.2,clear
+1742,Soyabean,Sailana,2017-02-15,2950.0,86.5,28.2,clear
+1743,Soyabean,Taal,2017-02-15,2840.0,,28.2,clear
+1744,Mustard,Jaora,2017-02-18,3350.0,74.5,31.2,clear
+1745,Mustard,Ratlam,2017-02-18,2900.0,0.3,31.2,clear
+1746,Mustard,Taal,2017-02-18,3191.0,1.14,31.2,clear
+1747,Soyabean,A lot,2017-02-18,2823.0,13.05,31.2,clear
+1748,Soyabean,Jaora,2017-02-18,2850.0,119.1,31.2,clear
+1749,Soyabean,Ratlam,2017-02-18,2855.0,141.4,31.2,clear
+1750,Soyabean,Sailana,2017-02-18,2850.0,,31.2,clear
+1751,Soyabean,Taal,2017-02-18,2831.0,,31.2,clear
+1752,Mustard,Jaora,2017-02-20,3310.0,145.1,30.2,clear
+1753,Mustard,Taal,2017-02-20,3151.0,2.53,30.2,clear
+1754,Soyabean,A lot,2017-02-20,2829.0,19.22,30.2,clear
+1755,Soyabean,Jaora,2017-02-20,2890.0,199.1,30.2,clear
+1756,Soyabean,Ratlam,2017-02-20,2802.0,193.6,30.2,clear
+1757,Soyabean,Sailana,2017-02-20,2900.0,43.3,30.2,clear
+1758,Soyabean,Taal,2017-02-20,2826.0,,30.2,clear
+1759,Mustard,Jaora,2017-02-21,3310.0,111.1,28.2,clear
+1760,Mustard,Sailana,2017-02-21,3050.0,3.0,28.2,clear
+1761,Mustard,Taal,2017-02-21,3210.0,1.31,28.2,clear
+1762,Soyabean,A lot,2017-02-21,2830.0,17.96,28.2,clear
+1763,Soyabean,Jaora,2017-02-21,2850.0,158.3,28.2,clear
+1764,Soyabean,Ratlam,2017-02-21,2800.0,163.3,28.2,clear
+1765,Soyabean,Sailana,2017-02-21,2850.0,46.9,28.2,clear
+1766,Soyabean,Taal,2017-02-21,2830.0,,28.2,clear
+1767,Mustard,Jaora,2017-02-22,3200.0,81.1,29.2,clear
+1768,Mustard,Sailana,2017-02-22,3075.0,2.9,29.2,clear
+1769,Mustard,Taal,2017-02-22,3171.0,0.37,29.2,clear
+1770,Soyabean,A lot,2017-02-22,2799.0,,29.2,clear
+1771,Soyabean,Jaora,2017-02-22,2820.0,210.5,29.2,clear
+1772,Soyabean,Ratlam,2017-02-22,2800.0,263.7,29.2,clear
+1773,Soyabean,Sailana,2017-02-22,2850.0,44.4,29.2,clear
+1774,Soyabean,Taal,2017-02-22,2800.0,,29.2,clear
+1775,Mustard,Jaora,2017-02-23,3380.0,116.2,29.2,clear
+1776,Mustard,Taal,2017-02-23,3101.0,5.8,29.2,clear
+1777,Soyabean,A lot,2017-02-23,2791.0,4.83,29.2,clear
+1778,Soyabean,Jaora,2017-02-23,2870.0,183.5,29.2,clear
+1779,Soyabean,Sailana,2017-02-23,2750.0,47.4,29.2,clear
+1780,Soyabean,Taal,2017-02-23,2801.0,29.87,29.2,clear
+1781,Mustard,Jaora,2017-02-27,3210.0,204.9,19.2,clear
+1782,Mustard,Ratlam,2017-02-27,2860.0,0.1,19.2,clear
+1783,Mustard,Sailana,2017-02-27,3022.0,13.2,19.2,clear
+1784,Mustard,Taal,2017-02-27,3090.0,2.85,19.2,clear
+1785,Soyabean,A lot,2017-02-27,2800.0,2.55,19.2,clear
+1786,Soyabean,Jaora,2017-02-27,2840.0,197.3,19.2,clear
+1787,Soyabean,Ratlam,2017-02-27,2811.0,129.4,19.2,clear
+1788,Soyabean,Sailana,2017-02-27,2850.0,15.3,19.2,clear
+1789,Soyabean,Taal,2017-02-27,2765.0,11.0,19.2,clear
+1790,Mustard,Jaora,2017-01-03,3310.0,166.6,22.2,clear
+1791,Soyabean,A lot,2017-01-03,2844.0,13.63,22.2,clear
+1792,Soyabean,Jaora,2017-01-03,2930.0,251.1,22.2,clear
+1793,Soyabean,Ratlam,2017-01-03,2845.0,173.3,22.2,clear
+1794,Soyabean,Sailana,2017-01-03,2800.0,37.8,22.2,clear
+1795,Mustard,Jaora,2017-03-03,3362.0,124.1,31.2,clear
+1796,Mustard,Ratlam,2017-03-03,2800.0,2.5,31.2,clear
+1797,Soyabean,Jaora,2017-03-03,2867.0,246.9,31.2,clear
+1798,Soyabean,Ratlam,2017-03-03,2821.0,221.2,31.2,clear
+1799,Soyabean,Sailana,2017-03-03,2850.0,36.6,31.2,clear
+1800,Soyabean,Taal,2017-03-03,2800.0,29.35,31.2,clear
+1801,Mustard,Jaora,2017-03-15,3300.0,21.0,32.2,clear
+1802,Mustard,Taal,2017-03-15,3100.0,1.43,32.2,clear
+1803,Soyabean,A lot,2017-03-15,2803.0,14.22,32.2,clear
+1804,Soyabean,Jaora,2017-03-15,2850.0,120.7,32.2,clear
+1805,Soyabean,Ratlam,2017-03-15,2840.0,123.0,32.2,clear
+1806,Soyabean,Sailana,2017-03-15,2767.0,11.7,32.2,clear
+1807,Soyabean,Taal,2017-03-15,2800.0,4.46,32.2,clear
+1808,Mustard,Jaora,2017-03-21,3500.0,18.3,34.2,clear
+1809,Soyabean,Jaora,2017-03-21,2850.0,233.2,34.2,clear
+1810,Soyabean,Ratlam,2017-03-21,2853.0,227.7,34.2,clear
+1811,Soyabean,Sailana,2017-03-21,2833.0,204.9,34.2,clear
+1812,Soyabean,Taal,2017-03-21,2835.0,,34.2,clear
+1813,Mustard,Jaora,2017-03-04,3450.0,13.8,29.2,clear
+1814,Mustard,Ratlam,2017-03-04,3100.0,0.7,29.2,clear
+1815,Soyabean,Jaora,2017-03-04,2900.0,298.7,29.2,clear
+1816,Soyabean,Ratlam,2017-03-04,2800.0,236.2,29.2,clear
+1817,Soyabean,Sailana,2017-03-04,2650.0,34.8,29.2,clear
+1818,Soyabean,Taal,2017-03-04,2885.0,20.43,29.2,clear
+1819,Mustard,Jaora,2017-10-04,3400.0,24.0,33.2,clear
+1820,Mustard,Sailana,2017-10-04,4350.0,0.2,33.2,clear
+1821,Mustard,Taal,2017-10-04,3230.0,0.94,33.2,clear
+1822,Soyabean,A lot,2017-10-04,2785.0,5.22,33.2,clear
+1823,Soyabean,Jaora,2017-10-04,2850.0,228.0,33.2,clear
+1824,Soyabean,Sailana,2017-10-04,2923.0,36.4,33.2,clear
+1825,Soyabean,Taal,2017-10-04,2790.0,,33.2,clear
+1826,Mustard,Jaora,2017-04-13,3400.0,25.5,40.2,clear
+1827,Soyabean,A lot,2017-04-13,2800.0,3.26,40.2,clear
+1828,Soyabean,Jaora,2017-04-13,3000.0,324.8,40.2,clear
+1829,Soyabean,Ratlam,2017-04-13,2881.0,327.5,40.2,clear
+1830,Soyabean,Sailana,2017-04-13,2850.0,49.6,40.2,clear
+1831,Soyabean,Taal,2017-04-13,2810.0,,40.2,clear
+1832,Mustard,Jaora,2017-04-17,3400.0,18.2,28.6,clear
+1833,Soyabean,A lot,2017-04-17,2832.0,0.0,28.6,clear
+1834,Soyabean,Jaora,2017-04-17,2950.0,330.5,28.6,clear
+1835,Soyabean,Ratlam,2017-04-17,2880.0,327.6,28.6,clear
+1836,Soyabean,Sailana,2017-04-17,2865.0,34.7,28.6,clear
+1837,Soyabean,Taal,2017-04-17,2860.0,,28.6,clear
+1838,Mustard,Jaora,2017-04-18,3350.0,7.2,39.2,clear
+1839,Soyabean,A lot,2017-04-18,2810.0,2.55,39.2,clear
+1840,Soyabean,Jaora,2017-04-18,2800.0,113.2,39.2,clear
+1841,Soyabean,Ratlam,2017-04-18,2900.0,265.8,39.2,clear
+1842,Soyabean,Taal,2017-04-18,2865.0,,39.2,clear
+1843,Mustard,Jaora,2017-04-19,3300.0,5.0,38.2,clear
+1844,Mustard,Ratlam,2017-04-19,3000.0,0.2,38.2,clear
+1845,Soyabean,A lot,2017-04-19,2859.0,2.3,38.2,clear
+1846,Soyabean,Jaora,2017-04-19,2900.0,271.4,38.2,clear
+1847,Soyabean,Ratlam,2017-04-19,2910.0,155.0,38.2,clear
+1848,Soyabean,Sailana,2017-04-19,2713.0,29.8,38.2,clear
+1849,Soyabean,Taal,2017-04-19,2710.0,38.38,38.2,clear
+1850,Mustard,Jaora,2017-04-27,3250.0,5.2,38.2,clear
+1851,Mustard,Ratlam,2017-04-27,3201.0,0.1,38.2,clear
+1852,Soyabean,Jaora,2017-04-27,2900.0,223.3,38.2,clear
+1853,Soyabean,Ratlam,2017-04-27,2880.0,201.7,38.2,clear
+1854,Soyabean,Taal,2017-04-27,2845.0,24.69,38.2,clear
+1855,Mustard,Jaora,2017-04-28,3250.0,5.4,38.2,clear
+1856,Soyabean,A lot,2017-04-28,2805.0,2.23,38.2,clear
+1857,Soyabean,Jaora,2017-04-28,2850.0,112.7,38.2,clear
+1858,Soyabean,Taal,2017-04-28,2750.0,7.06,38.2,clear
+1859,Mustard,Jaora,2017-01-05,3450.0,4.7,24.2,clear
+1860,Mustard,Ratlam,2017-01-05,3500.0,1.5,24.2,clear
+1861,Mustard,Sailana,2017-01-05,1100.0,1.0,24.2,clear
+1862,Soyabean,A lot,2017-01-05,2816.0,3.32,24.2,clear
+1863,Soyabean,Jaora,2017-01-05,2800.0,150.7,24.2,clear
+1864,Soyabean,Ratlam,2017-01-05,2870.0,169.3,24.2,clear
+1865,Soyabean,Sailana,2017-01-05,2845.0,40.6,24.2,clear
+1866,Soyabean,Taal,2017-01-05,2827.0,12.51,24.2,clear
+1867,Mustard,Jaora,2017-02-05,3300.0,5.7,25.2,clear
+1868,Mustard,Ratlam,2017-02-05,3000.0,5.0,25.2,clear
+1869,Mustard,Taal,2017-02-05,3170.0,0.47,25.2,clear
+1870,Soyabean,A lot,2017-02-05,2822.0,2.53,25.2,clear
+1871,Soyabean,Jaora,2017-02-05,2900.0,157.8,25.2,clear
+1872,Soyabean,Ratlam,2017-02-05,2885.0,162.2,25.2,clear
+1873,Soyabean,Sailana,2017-02-05,2787.0,25.3,25.2,clear
+1874,Soyabean,Taal,2017-02-05,2851.0,,25.2,clear
+1875,Mustard,Jaora,2017-03-05,3200.0,5.2,29.2,clear
+1876,Soyabean,A lot,2017-03-05,2805.0,6.52,29.2,clear
+1877,Soyabean,Jaora,2017-03-05,2800.0,159.6,29.2,clear
+1878,Soyabean,Ratlam,2017-03-05,2875.0,203.1,29.2,clear
+1879,Soyabean,Sailana,2017-03-05,2700.0,34.7,29.2,clear
+1880,Soyabean,Taal,2017-03-05,2840.0,,29.2,clear
+1881,Mustard,Jaora,2017-04-05,3247.0,4.1,36.2,clear
+1882,Soyabean,A lot,2017-04-05,2812.0,4.12,36.2,clear
+1883,Soyabean,Jaora,2017-04-05,2900.0,97.1,36.2,clear
+1884,Soyabean,Sailana,2017-04-05,2776.0,13.1,36.2,clear
+1885,Soyabean,Taal,2017-04-05,2831.0,16.01,36.2,clear
+1886,Mustard,Jaora,2017-05-05,3200.0,4.1,40.2,clear
+1887,Soyabean,A lot,2017-05-05,2811.0,1.96,40.2,clear
+1888,Soyabean,Jaora,2017-05-05,2880.0,136.5,40.2,clear
+1889,Soyabean,Sailana,2017-05-05,2775.0,16.2,40.2,clear
+1890,Soyabean,Taal,2017-05-05,2856.0,16.28,40.2,clear
+1891,Mustard,Jaora,2017-06-05,3250.0,3.6,38.2,clear
+1892,Soyabean,Jaora,2017-06-05,2950.0,115.2,38.2,clear
+1893,Soyabean,Sailana,2017-06-05,2699.0,23.2,38.2,clear
+1894,Soyabean,Taal,2017-06-05,2859.0,7.0,38.2,clear
+1895,Mustard,Jaora,2017-08-05,3340.0,3.8,28.2,clear
+1896,Soyabean,A lot,2017-08-05,2770.0,1.73,28.2,clear
+1897,Soyabean,Jaora,2017-08-05,3000.0,99.3,28.2,clear
+1898,Soyabean,Sailana,2017-08-05,2843.0,22.7,28.2,clear
+1899,Soyabean,Taal,2017-08-05,2871.0,11.48,28.2,clear
+1900,Mustard,Jaora,2017-09-05,3280.0,2.6,28.2,clear
+1901,Soyabean,Jaora,2017-09-05,3000.0,114.9,28.2,clear
+1902,Soyabean,Sailana,2017-09-05,2888.0,17.2,28.2,clear
+1903,Mustard,Jaora,2017-11-05,3300.0,4.1,20.2,clear
+1904,Soyabean,Jaora,2017-11-05,2900.0,195.3,20.2,clear
+1905,Soyabean,Taal,2017-11-05,2880.0,23.05,20.2,clear
+1906,Mustard,Jaora,2017-05-17,3250.0,8.4,38.2,clear
+1907,Mustard,Ratlam,2017-05-17,2900.0,0.7,38.2,clear
+1908,Soyabean,A lot,2017-05-17,2767.0,3.42,38.2,clear
+1909,Soyabean,Jaora,2017-05-17,2850.0,216.9,38.2,clear
+1910,Soyabean,Ratlam,2017-05-17,2850.0,438.0,38.2,clear
+1911,Soyabean,Sailana,2017-05-17,2750.0,50.1,38.2,clear
+1912,Soyabean,Taal,2017-05-17,2776.0,,38.2,clear
+1913,Mustard,Jaora,2017-05-18,3275.0,5.2,39.0,clear
+1914,Mustard,Ratlam,2017-05-18,2200.0,0.1,39.0,clear
+1915,Soyabean,A lot,2017-05-18,2791.0,4.12,39.0,clear
+1916,Soyabean,Jaora,2017-05-18,2750.0,157.9,39.0,clear
+1917,Soyabean,Ratlam,2017-05-18,2790.0,336.5,39.0,clear
+1918,Soyabean,Sailana,2017-05-18,2700.0,46.3,39.0,clear
+1919,Soyabean,Taal,2017-05-18,2834.0,,39.0,clear
+1920,Mustard,Jaora,2017-05-19,3250.0,6.8,40.2,clear
+1921,Soyabean,A lot,2017-05-19,2797.0,1.33,40.2,clear
+1922,Soyabean,Jaora,2017-05-19,2900.0,116.5,40.2,clear
+1923,Soyabean,Ratlam,2017-05-19,2821.0,283.6,40.2,clear
+1924,Soyabean,Sailana,2017-05-19,2800.0,38.3,40.2,clear
+1925,Soyabean,Taal,2017-05-19,2800.0,,40.2,clear
+1926,Mustard,Jaora,2017-05-22,3200.0,6.3,38.2,clear
+1927,Soyabean,A lot,2017-05-22,2775.0,1.83,38.2,clear
+1928,Soyabean,Jaora,2017-05-22,2750.0,145.5,38.2,clear
+1929,Soyabean,Taal,2017-05-22,2802.0,16.64,38.2,clear
+1930,Mustard,Jaora,2017-05-23,3200.0,6.4,39.6,clear
+1931,Soyabean,A lot,2017-05-23,2770.0,2.7,39.6,clear
+1932,Soyabean,Jaora,2017-05-23,2800.0,123.6,39.6,clear
+1933,Soyabean,Ratlam,2017-05-23,2866.0,333.9,39.6,clear
+1934,Soyabean,Sailana,2017-05-23,2675.0,37.2,39.6,clear
+1935,Soyabean,Taal,2017-05-23,2800.0,,39.6,clear
+1936,Mustard,Jaora,2017-05-24,3200.0,8.1,40.2,clear
+1937,Soyabean,A lot,2017-05-24,2718.0,1.53,40.2,clear
+1938,Soyabean,Jaora,2017-05-24,2800.0,100.2,40.2,clear
+1939,Soyabean,Ratlam,2017-05-24,2840.0,300.2,40.2,clear
+1940,Soyabean,Sailana,2017-05-24,2605.0,43.7,40.2,clear
+1941,Soyabean,Taal,2017-05-24,2770.0,,40.2,clear
+1942,Mustard,Jaora,2017-05-25,3200.0,6.8,40.2,clear
+1943,Mustard,Ratlam,2017-05-25,2800.0,0.4,40.2,clear
+1944,Soyabean,A lot,2017-05-25,2725.0,0.63,40.2,clear
+1945,Soyabean,Jaora,2017-05-25,2700.0,132.2,40.2,clear
+1946,Soyabean,Ratlam,2017-05-25,2800.0,402.8,40.2,clear
+1947,Soyabean,Sailana,2017-05-25,2676.0,48.6,40.2,clear
+1948,Soyabean,Taal,2017-05-25,2771.0,34.5,40.2,clear
+1949,Mustard,Jaora,2017-05-26,3200.0,4.1,40.2,clear
+1950,Mustard,Sailana,2017-05-26,890.0,8.8,40.2,clear
+1951,Soyabean,A lot,2017-05-26,2734.0,2.73,40.2,clear
+1952,Soyabean,Jaora,2017-05-26,2700.0,141.3,40.2,clear
+1953,Soyabean,Ratlam,2017-05-26,2750.0,265.5,40.2,clear
+1954,Soyabean,Sailana,2017-05-26,2640.0,32.2,40.2,clear
+1955,Soyabean,Taal,2017-05-26,2800.0,24.48,40.2,clear
+1956,Mustard,Jaora,2017-05-29,3100.0,14.0,37.2,clear
+1957,Soyabean,Jaora,2017-05-29,2750.0,116.7,37.2,clear
+1958,Soyabean,Ratlam,2017-05-29,2780.0,281.8,37.2,clear
+1959,Soyabean,Sailana,2017-05-29,2675.0,25.0,37.2,clear
+1960,Soyabean,Taal,2017-05-29,2721.0,24.14,37.2,clear
+1961,Mustard,Jaora,2017-05-31,3100.0,3.0,39.2,clear
+1962,Soyabean,A lot,2017-05-31,2599.0,5.32,39.2,clear
+1963,Soyabean,Jaora,2017-05-31,2750.0,109.5,39.2,clear
+1964,Soyabean,Ratlam,2017-05-31,2740.0,161.7,39.2,clear
+1965,Soyabean,Sailana,2017-05-31,2675.0,17.8,39.2,clear
+1966,Mustard,Jaora,2017-06-21,3100.0,2.4,34.2,clear
+1967,Soyabean,A lot,2017-06-21,2775.0,4.4,34.2,clear
+1968,Soyabean,Jaora,2017-06-21,2800.0,83.6,34.2,clear
+1969,Soyabean,Taal,2017-06-21,2725.0,15.2,34.2,clear
+1970,Mustard,Jaora,2017-06-22,3121.0,1.4,24.2,clear
+1971,Soyabean,A lot,2017-06-22,2750.0,,24.2,clear
+1972,Soyabean,Jaora,2017-06-22,2850.0,49.3,24.2,clear
+1973,Soyabean,Taal,2017-06-22,2765.0,10.3,24.2,clear
+1974,Mustard,Jaora,2017-03-07,3140.0,1.6,32.2,clear
+1975,Soyabean,A lot,2017-03-07,2762.0,,32.2,clear
+1976,Soyabean,Jaora,2017-03-07,2810.0,141.9,32.2,clear
+1977,Soyabean,Sailana,2017-03-07,2800.0,9.0,32.2,clear
+1978,Soyabean,Taal,2017-03-07,2750.0,61.48,32.2,clear
+1979,Mustard,Jaora,2017-04-07,3080.0,23.7,33.2,clear
+1980,Soyabean,A lot,2017-04-07,1465.0,,33.2,clear
+1981,Soyabean,Jaora,2017-04-07,2800.0,536.1,33.2,clear
+1982,Soyabean,Sailana,2017-04-07,2835.0,39.5,33.2,clear
+1983,Soyabean,Taal,2017-04-07,2715.0,,33.2,clear
+1984,Mustard,Jaora,2017-05-07,3225.0,27.4,40.2,clear
+1985,Mustard,Taal,2017-05-07,2900.0,0.46,40.2,clear
+1986,Soyabean,A lot,2017-05-07,2821.0,67.0,40.2,clear
+1987,Soyabean,Jaora,2017-05-07,2828.0,472.0,40.2,clear
+1988,Soyabean,Sailana,2017-05-07,2800.0,74.2,40.2,clear
+1989,Soyabean,Taal,2017-05-07,2775.0,,40.2,clear
+1990,Mustard,Jaora,2017-06-07,3110.0,1.0,37.2,clear
+1991,Mustard,Taal,2017-06-07,2900.0,0.32,37.2,clear
+1992,Soyabean,A lot,2017-06-07,2800.0,37.72,37.2,clear
+1993,Soyabean,Jaora,2017-06-07,2800.0,332.7,37.2,clear
+1994,Soyabean,Sailana,2017-06-07,2700.0,61.6,37.2,clear
+1995,Soyabean,Taal,2017-06-07,2775.0,77.6,37.2,clear
+1996,Mustard,Jaora,2017-07-07,3030.0,9.8,32.2,clear
+1997,Soyabean,A lot,2017-07-07,2830.0,,32.2,clear
+1998,Soyabean,Jaora,2017-07-07,2820.0,393.5,32.2,clear
+1999,Soyabean,Sailana,2017-07-07,2805.0,77.8,32.2,clear
+2000,Soyabean,Taal,2017-07-07,2775.0,59.09,32.2,clear
+2001,Mustard,Jaora,2017-11-07,3160.0,15.5,28.2,clear
+2002,Mustard,Taal,2017-11-07,3050.0,1.12,28.2,clear
+2003,Soyabean,A lot,2017-11-07,2889.0,19.52,28.2,clear
+2004,Soyabean,Jaora,2017-11-07,2861.0,,28.2,clear
+2005,Soyabean,Sailana,2017-11-07,2847.0,71.6,28.2,clear
+2006,Soyabean,Taal,2017-11-07,2870.0,46.75,28.2,clear
+2007,Mustard,Jaora,2017-12-07,3100.0,11.7,20.2,clear
+2008,Soyabean,A lot,2017-12-07,2870.0,14.01,20.2,clear
+2009,Soyabean,Jaora,2017-12-07,2814.0,307.6,20.2,clear
+2010,Soyabean,Sailana,2017-12-07,2603.0,89.9,20.2,clear
+2011,Soyabean,Taal,2017-12-07,2820.0,,20.2,clear
+2012,Mustard,Jaora,2017-07-13,3140.0,8.3,25.2,rain
+2013,Soyabean,Jaora,2017-07-13,2800.0,242.0,25.2,rain
+2014,Soyabean,Ratlam,2017-07-13,2875.0,13.3,25.2,rain
+2015,Soyabean,Sailana,2017-07-13,2700.0,59.9,25.2,rain
+2016,Soyabean,Taal,2017-07-13,2810.0,,25.2,rain
+2017,Mustard,Jaora,2017-07-14,3160.0,1.1,24.2,clear
+2018,Soyabean,A lot,2017-07-14,2800.0,14.04,24.2,clear
+2019,Soyabean,Jaora,2017-07-14,2800.0,88.6,24.2,clear
+2020,Soyabean,Ratlam,2017-07-14,2880.0,34.9,24.2,clear
+2021,Soyabean,Sailana,2017-07-14,2750.0,20.0,24.2,clear
+2022,Soyabean,Taal,2017-07-14,2750.0,,24.2,clear
+2023,Mustard,Jaora,2017-07-15,3200.0,1.8,26.2,clear
+2024,Soyabean,A lot,2017-07-15,2836.0,12.5,26.2,clear
+2025,Soyabean,Jaora,2017-07-15,2800.0,246.8,26.2,clear
+2026,Soyabean,Ratlam,2017-07-15,2880.0,163.2,26.2,clear
+2027,Soyabean,Sailana,2017-07-15,2750.0,17.8,26.2,clear
+2028,Soyabean,Taal,2017-07-15,2845.0,,26.2,clear
+2029,Mustard,Jaora,2017-07-18,3131.0,15.0,31.2,clear
+2030,Soyabean,A lot,2017-07-18,2832.0,,31.2,clear
+2031,Soyabean,Jaora,2017-07-18,2805.0,547.2,31.2,clear
+2032,Soyabean,Ratlam,2017-07-18,2811.0,467.0,31.2,clear
+2033,Soyabean,Sailana,2017-07-18,2700.0,108.3,31.2,clear
+2034,Soyabean,Taal,2017-07-18,2775.0,,31.2,clear
+2035,Mustard,Jaora,2017-07-19,3250.0,15.4,26.2,clear
+2036,Mustard,Taal,2017-07-19,3090.0,0.87,26.2,clear
+2037,Soyabean,A lot,2017-07-19,2841.0,26.22,26.2,clear
+2038,Soyabean,Jaora,2017-07-19,2780.0,,26.2,clear
+2039,Soyabean,Ratlam,2017-07-19,2750.0,,26.2,clear
+2040,Soyabean,Taal,2017-07-19,2752.0,72.8,26.2,clear
+2041,Mustard,Jaora,2017-07-20,3220.0,1.0,25.2,clear
+2042,Soyabean,A lot,2017-07-20,2836.0,,25.2,clear
+2043,Soyabean,Jaora,2017-07-20,2807.0,408.7,25.2,clear
+2044,Soyabean,Ratlam,2017-07-20,2800.0,472.9,25.2,clear
+2045,Soyabean,Taal,2017-07-20,2780.0,63.9,25.2,clear
+2046,Mustard,Jaora,2017-07-21,3150.0,1.0,27.2,clear
+2047,Soyabean,A lot,2017-07-21,2812.0,3.39,27.2,clear
+2048,Soyabean,Jaora,2017-07-21,2750.0,301.6,27.2,clear
+2049,Soyabean,Ratlam,2017-07-21,2820.0,420.4,27.2,clear
+2050,Soyabean,Taal,2017-07-21,2780.0,15.48,27.2,clear
+2051,Mustard,Jaora,2017-07-25,3292.0,5.4,23.0,clear
+2052,Soyabean,A lot,2017-07-25,2800.0,27.29,23.0,clear
+2053,Soyabean,Jaora,2017-07-25,2812.0,365.8,23.0,clear
+2054,Soyabean,Ratlam,2017-07-25,2801.0,153.1,23.0,clear
+2055,Soyabean,Sailana,2017-07-25,2750.0,8.0,23.0,clear
+2056,Soyabean,Taal,2017-07-25,2770.0,,23.0,clear
+2057,Mustard,Jaora,2017-07-26,3305.0,3.7,23.2,clear
+2058,Soyabean,A lot,2017-07-26,2830.0,22.75,23.2,clear
+2059,Soyabean,Jaora,2017-07-26,2770.0,288.4,23.2,clear
+2060,Soyabean,Ratlam,2017-07-26,2790.0,92.6,23.2,clear
+2061,Soyabean,Sailana,2017-07-26,2750.0,52.8,23.2,clear
+2062,Soyabean,Taal,2017-07-26,2770.0,,23.2,clear
+2063,Mustard,Jaora,2017-07-27,3235.0,4.2,25.0,clear
+2064,Soyabean,A lot,2017-07-27,2850.0,16.53,25.0,clear
+2065,Soyabean,Jaora,2017-07-27,2825.0,416.0,25.0,clear
+2066,Soyabean,Ratlam,2017-07-27,2820.0,120.8,25.0,clear
+2067,Soyabean,Sailana,2017-07-27,2750.0,28.0,25.0,clear
+2068,Soyabean,Taal,2017-07-27,2785.0,,25.0,clear
+2069,Mustard,Jaora,2017-07-28,3350.0,2.7,24.2,clear
+2070,Soyabean,A lot,2017-07-28,2860.0,0.0,24.2,clear
+2071,Soyabean,Jaora,2017-07-28,2800.0,139.2,24.2,clear
+2072,Soyabean,Ratlam,2017-07-28,2820.0,104.0,24.2,clear
+2073,Soyabean,Sailana,2017-07-28,2650.0,19.3,24.2,clear
+2074,Soyabean,Taal,2017-07-28,2775.0,6.0,24.2,clear
+2075,Mustard,Jaora,2017-07-29,3200.0,8.4,27.2,clear
+2076,Soyabean,A lot,2017-07-29,2828.0,,27.2,clear
+2077,Soyabean,Jaora,2017-07-29,2800.0,323.1,27.2,clear
+2078,Soyabean,Ratlam,2017-07-29,2835.0,168.7,27.2,clear
+2079,Soyabean,Sailana,2017-07-29,2700.0,36.1,27.2,clear
+2080,Soyabean,Taal,2017-07-29,2780.0,49.06,27.2,clear
+2081,Mustard,Jaora,2017-01-08,3300.0,9.0,15.2,clear
+2082,Soyabean,A lot,2017-01-08,2860.0,8.43,15.2,clear
+2083,Soyabean,Jaora,2017-01-08,2800.0,373.5,15.2,clear
+2084,Soyabean,Ratlam,2017-01-08,2780.0,296.7,15.2,clear
+2085,Soyabean,Sailana,2017-01-08,2750.0,111.7,15.2,clear
+2086,Soyabean,Taal,2017-01-08,2790.0,66.6,15.2,clear
+2087,Mustard,Jaora,2017-03-08,3300.0,13.4,30.2,clear
+2088,Soyabean,A lot,2017-03-08,2827.0,15.25,30.2,clear
+2089,Soyabean,Jaora,2017-03-08,2750.0,310.5,30.2,clear
+2090,Soyabean,Ratlam,2017-03-08,2820.0,218.8,30.2,clear
+2091,Soyabean,Taal,2017-03-08,2781.0,,30.2,clear
+2092,Mustard,Jaora,2017-04-08,3250.0,11.0,36.2,clear
+2093,Soyabean,A lot,2017-04-08,2800.0,5.7,36.2,clear
+2094,Soyabean,Jaora,2017-04-08,2800.0,247.2,36.2,clear
+2095,Soyabean,Ratlam,2017-04-08,2780.0,250.7,36.2,clear
+2096,Soyabean,Sailana,2017-04-08,2750.0,79.7,36.2,clear
+2097,Soyabean,Taal,2017-04-08,2775.0,,36.2,clear
+2098,Mustard,Jaora,2017-05-08,3300.0,4.8,40.2,clear
+2099,Soyabean,A lot,2017-05-08,2781.0,,40.2,clear
+2100,Soyabean,Jaora,2017-05-08,2800.0,136.7,40.2,clear
+2101,Soyabean,Ratlam,2017-05-08,2820.0,73.2,40.2,clear
+2102,Soyabean,Sailana,2017-05-08,2700.0,21.2,40.2,clear
+2103,Mustard,Jaora,2017-08-08,3276.0,1.9,26.2,clear
+2104,Soyabean,Jaora,2017-08-08,2700.0,53.0,26.2,clear
+2105,Soyabean,Ratlam,2017-08-08,2866.0,35.8,26.2,clear
+2106,Soyabean,Sailana,2017-08-08,2800.0,4.2,26.2,clear
+2107,Soyabean,Taal,2017-08-08,2800.0,16.58,26.2,clear
+2108,Mustard,Jaora,2017-09-08,3300.0,7.3,31.2,clear
+2109,Soyabean,A lot,2017-09-08,2730.0,21.93,31.2,clear
+2110,Soyabean,Jaora,2017-09-08,2800.0,115.7,31.2,clear
+2111,Soyabean,Taal,2017-09-08,2815.0,31.99,31.2,clear
+2112,Mustard,Jaora,2017-10-08,3300.0,11.4,35.6,clear
+2113,Soyabean,A lot,2017-10-08,2795.0,,35.6,clear
+2114,Soyabean,Jaora,2017-10-08,2900.0,233.2,35.6,clear
+2115,Soyabean,Ratlam,2017-10-08,2860.0,183.1,35.6,clear
+2116,Soyabean,Sailana,2017-10-08,2703.0,7.5,35.6,clear
+2117,Soyabean,Taal,2017-10-08,2801.0,,35.6,clear
+2118,Mustard,Jaora,2017-11-08,3300.0,14.7,28.2,clear
+2119,Soyabean,A lot,2017-11-08,2859.0,2.43,28.2,clear
+2120,Soyabean,Jaora,2017-11-08,2800.0,284.5,28.2,clear
+2121,Soyabean,Ratlam,2017-11-08,2830.0,246.9,28.2,clear
+2122,Soyabean,Taal,2017-11-08,2752.0,,28.2,clear
+2123,Mustard,Jaora,2017-08-14,3400.0,5.5,29.2,clear
+2124,Soyabean,A lot,2017-08-14,2785.0,10.42,29.2,clear
+2125,Soyabean,Jaora,2017-08-14,2900.0,198.0,29.2,clear
+2126,Soyabean,Ratlam,2017-08-14,2885.0,106.9,29.2,clear
+2127,Soyabean,Sailana,2017-08-14,2765.0,22.7,29.2,clear
+2128,Soyabean,Taal,2017-08-14,2790.0,10.8,29.2,clear
+2129,Mustard,Jaora,2017-08-16,3350.0,11.2,30.2,clear
+2130,Soyabean,A lot,2017-08-16,2900.0,0.86,30.2,clear
+2131,Soyabean,Jaora,2017-08-16,2900.0,207.9,30.2,clear
+2132,Soyabean,Ratlam,2017-08-16,2880.0,138.4,30.2,clear
+2133,Soyabean,Sailana,2017-08-16,2753.0,13.7,30.2,clear
+2134,Soyabean,Taal,2017-08-16,2874.0,,30.2,clear
+2135,Mustard,Jaora,2017-08-18,3500.0,17.8,30.2,clear
+2136,Soyabean,A lot,2017-08-18,2961.0,4.22,30.2,clear
+2137,Soyabean,Jaora,2017-08-18,2900.0,309.2,30.2,clear
+2138,Soyabean,Sailana,2017-08-18,2905.0,24.6,30.2,clear
+2139,Soyabean,Taal,2017-08-18,2880.0,34.17,30.2,clear
+2140,Mustard,Jaora,2017-08-19,3560.0,4.5,25.2,clear
+2141,Soyabean,A lot,2017-08-19,2931.0,11.22,25.2,clear
+2142,Soyabean,Jaora,2017-08-19,3000.0,229.6,25.2,clear
+2143,Soyabean,Sailana,2017-08-19,2795.0,24.3,25.2,clear
+2144,Soyabean,Taal,2017-08-19,2950.0,9.2,25.2,clear
+2145,Mustard,Jaora,2017-08-21,3400.0,3.1,27.2,clear
+2146,Soyabean,Jaora,2017-08-21,2900.0,299.0,27.2,clear
+2147,Soyabean,Ratlam,2017-08-21,2930.0,164.6,27.2,clear
+2148,Soyabean,Sailana,2017-08-21,2900.0,8.5,27.2,clear
+2149,Soyabean,Taal,2017-08-21,2970.0,9.54,27.2,clear
+2150,Mustard,Jaora,2017-08-23,3550.0,1.7,26.2,clear
+2151,Soyabean,A lot,2017-08-23,2800.0,11.32,26.2,clear
+2152,Soyabean,Jaora,2017-08-23,2900.0,298.1,26.2,clear
+2153,Soyabean,Ratlam,2017-08-23,3060.0,208.0,26.2,clear
+2154,Soyabean,Taal,2017-08-23,2995.0,17.64,26.2,clear
+2155,Mustard,Jaora,2017-08-24,3225.0,11.2,28.2,clear
+2156,Soyabean,A lot,2017-08-24,3055.0,5.42,28.2,clear
+2157,Soyabean,Jaora,2017-08-24,3100.0,270.1,28.2,clear
+2158,Soyabean,Ratlam,2017-08-24,3070.0,233.7,28.2,clear
+2159,Soyabean,Sailana,2017-08-24,3020.0,29.7,28.2,clear
+2160,Soyabean,Taal,2017-08-24,3037.0,23.96,28.2,clear
+2161,Mustard,Jaora,2017-08-28,3550.0,5.5,27.2,clear
+2162,Soyabean,A lot,2017-08-28,3000.0,12.36,27.2,clear
+2163,Soyabean,Jaora,2017-08-28,3000.0,334.3,27.2,clear
+2164,Soyabean,Ratlam,2017-08-28,3005.0,171.9,27.2,clear
+2165,Soyabean,Sailana,2017-08-28,2979.0,15.9,27.2,clear
+2166,Soyabean,Taal,2017-08-28,2913.0,,27.2,clear
+2167,Mustard,Jaora,2017-08-29,3550.0,3.5,26.2,clear
+2168,Soyabean,A lot,2017-08-29,2970.0,2.44,26.2,clear
+2169,Soyabean,Jaora,2017-08-29,3000.0,352.6,26.2,clear
+2170,Soyabean,Ratlam,2017-08-29,2970.0,160.0,26.2,clear
+2171,Soyabean,Sailana,2017-08-29,2920.0,44.8,26.2,clear
+2172,Soyabean,Taal,2017-08-29,2912.0,,26.2,clear
+2173,Mustard,Jaora,2017-08-30,3500.0,4.4,28.6,clear
+2174,Soyabean,A lot,2017-08-30,2860.0,25.33,28.6,clear
+2175,Soyabean,Jaora,2017-08-30,2900.0,332.2,28.6,clear
+2176,Soyabean,Ratlam,2017-08-30,2890.0,216.6,28.6,clear
+2177,Soyabean,Sailana,2017-08-30,2920.0,43.0,28.6,clear
+2178,Soyabean,Taal,2017-08-30,2915.0,13.59,28.6,clear
+2179,Mustard,Jaora,2017-08-31,3500.0,2.5,27.6,clear
+2180,Soyabean,A lot,2017-08-31,2865.0,0.43,27.6,clear
+2181,Soyabean,Jaora,2017-08-31,2850.0,296.5,27.6,clear
+2182,Soyabean,Ratlam,2017-08-31,2851.0,69.9,27.6,clear
+2183,Soyabean,Sailana,2017-08-31,2960.0,18.54,27.6,clear
+2184,Soyabean,Taal,2017-08-31,2894.0,,27.6,clear
+2185,Mustard,Jaora,2017-01-09,3480.0,2.6,21.2,clear
+2186,Soyabean,A lot,2017-01-09,2851.0,0.56,21.2,clear
+2187,Soyabean,Jaora,2017-01-09,2810.0,223.5,21.2,clear
+2188,Soyabean,Ratlam,2017-01-09,2810.0,151.7,21.2,clear
+2189,Soyabean,Sailana,2017-01-09,2900.0,16.8,21.2,clear
+2190,Soyabean,Taal,2017-01-09,2925.0,56.82,21.2,clear
+2191,Mustard,Jaora,2017-04-09,3600.0,10.9,36.6,clear
+2192,Soyabean,A lot,2017-04-09,2880.0,6.17,36.6,clear
+2193,Soyabean,Jaora,2017-04-09,3000.0,201.9,36.6,clear
+2194,Soyabean,Ratlam,2017-04-09,2895.0,153.4,36.6,clear
+2195,Soyabean,Sailana,2017-04-09,2897.0,40.0,36.6,clear
+2196,Soyabean,Taal,2017-04-09,2810.0,106.69,36.6,clear
+2197,Mustard,Jaora,2017-05-09,3450.0,3.0,40.2,clear
+2198,Soyabean,A lot,2017-05-09,2919.0,3.62,40.2,clear
+2199,Soyabean,Jaora,2017-05-09,2850.0,256.2,40.2,clear
+2200,Soyabean,Ratlam,2017-05-09,2886.0,86.6,40.2,clear
+2201,Soyabean,Sailana,2017-05-09,2900.0,22.0,40.2,clear
+2202,Soyabean,Taal,2017-05-09,2908.0,,40.2,clear
+2203,Mustard,Jaora,2017-06-09,3500.0,8.0,27.2,clear
+2204,Soyabean,A lot,2017-06-09,2958.0,4.33,27.2,clear
+2205,Soyabean,Jaora,2017-06-09,2900.0,211.2,27.2,clear
+2206,Soyabean,Ratlam,2017-06-09,2950.0,47.0,27.2,clear
+2207,Soyabean,Sailana,2017-06-09,2900.0,14.0,27.2,clear
+2208,Soyabean,Taal,2017-06-09,2890.0,62.49,27.2,clear
+2209,Mustard,Jaora,2017-08-09,3450.0,49.7,30.2,clear
+2210,Soyabean,A lot,2017-08-09,2924.0,4.77,30.2,clear
+2211,Soyabean,Jaora,2017-08-09,2850.0,472.7,30.2,clear
+2212,Soyabean,Ratlam,2017-08-09,2840.0,319.3,30.2,clear
+2213,Soyabean,Sailana,2017-08-09,2705.0,64.7,30.2,clear
+2214,Soyabean,Taal,2017-08-09,2898.0,,30.2,clear
+2215,Mustard,Jaora,2017-12-09,3500.0,34.5,24.6,clear
+2216,Mustard,Ratlam,2017-12-09,3250.0,0.5,24.6,clear
+2217,Mustard,Taal,2017-12-09,3175.0,0.33,24.6,clear
+2218,Soyabean,A lot,2017-12-09,2869.0,1.92,24.6,clear
+2219,Soyabean,Jaora,2017-12-09,2800.0,312.5,24.6,clear
+2220,Soyabean,Ratlam,2017-12-09,2803.0,268.5,24.6,clear
+2221,Soyabean,Sailana,2017-12-09,2500.0,39.4,24.6,clear
+2222,Soyabean,Taal,2017-12-09,2850.0,,24.6,clear
+2223,Mustard,Jaora,2017-09-14,3350.0,31.9,30.2,clear
+2224,Soyabean,Jaora,2017-09-14,2800.0,333.6,30.2,clear
+2225,Soyabean,Ratlam,2017-09-14,2840.0,145.0,30.2,clear
+2226,Soyabean,Sailana,2017-09-14,2500.0,35.4,30.2,clear
+2227,Soyabean,Taal,2017-09-14,2895.0,,30.2,clear
+2228,Mustard,Jaora,2017-09-15,3400.0,19.8,25.2,clear
+2229,Mustard,Ratlam,2017-09-15,2950.0,0.1,25.2,clear
+2230,Soyabean,Jaora,2017-09-15,2840.0,385.1,25.2,clear
+2231,Soyabean,Ratlam,2017-09-15,2910.0,114.0,25.2,clear
+2232,Soyabean,Sailana,2017-09-15,2500.0,32.4,25.2,clear
+2233,Soyabean,Taal,2017-09-15,2895.0,,25.2,clear
+2234,Mustard,Jaora,2017-09-18,3300.0,17.2,28.2,clear
+2235,Soyabean,Jaora,2017-09-18,2750.0,240.5,28.2,clear
+2236,Soyabean,Ratlam,2017-09-18,2935.0,962.0,28.2,clear
+2237,Soyabean,Sailana,2017-09-18,2500.0,11.7,28.2,clear
+2238,Soyabean,Taal,2017-09-18,2968.0,,28.2,clear
+2239,Mustard,Jaora,2017-09-19,3200.0,13.1,30.2,clear
+2240,Soyabean,A lot,2017-09-19,2766.0,5.83,30.2,clear
+2241,Soyabean,Jaora,2017-09-19,2800.0,262.8,30.2,clear
+2242,Soyabean,Ratlam,2017-09-19,2950.0,122.9,30.2,clear
+2243,Soyabean,Sailana,2017-09-19,2500.0,14.2,30.2,clear
+2244,Soyabean,Taal,2017-09-19,2900.0,22.95,30.2,clear
+2245,Mustard,Jaora,2017-09-22,3300.0,11.6,26.2,clear
+2246,Mustard,Ratlam,2017-09-22,3060.0,0.3,26.2,clear
+2247,Soyabean,A lot,2017-09-22,2200.0,,26.2,clear
+2248,Soyabean,Jaora,2017-09-22,2800.0,351.0,26.2,clear
+2249,Soyabean,Ratlam,2017-09-22,2985.0,94.0,26.2,clear
+2250,Soyabean,Sailana,2017-09-22,2500.0,19.3,26.2,clear
+2251,Soyabean,Taal,2017-09-22,2870.0,,26.2,clear
+2252,Mustard,Jaora,2017-09-25,3300.0,10.4,29.6,clear
+2253,Soyabean,A lot,2017-09-25,2575.0,28.96,29.6,clear
+2254,Soyabean,Jaora,2017-09-25,2800.0,482.7,29.6,clear
+2255,Soyabean,Ratlam,2017-09-25,2910.0,174.8,29.6,clear
+2256,Soyabean,Sailana,2017-09-25,2450.0,53.8,29.6,clear
+2257,Soyabean,Taal,2017-09-25,2893.0,,29.6,clear
+2258,Mustard,Jaora,2017-09-26,3250.0,9.2,30.2,clear
+2259,Soyabean,A lot,2017-09-26,2640.0,43.02,30.2,clear
+2260,Soyabean,Jaora,2017-09-26,2790.0,421.2,30.2,clear
+2261,Soyabean,Ratlam,2017-09-26,2850.0,177.7,30.2,clear
+2262,Soyabean,Sailana,2017-09-26,2462.0,41.2,30.2,clear
+2263,Soyabean,Taal,2017-09-26,2850.0,,30.2,clear
+2264,Mustard,Jaora,2017-09-27,3200.0,8.5,30.2,clear
+2265,Soyabean,A lot,2017-09-27,2651.0,26.5,30.2,clear
+2266,Soyabean,Jaora,2017-09-27,2800.0,412.1,30.2,clear
+2267,Soyabean,Ratlam,2017-09-27,2695.0,201.5,30.2,clear
+2268,Soyabean,Sailana,2017-09-27,2461.0,47.3,30.2,clear
+2269,Soyabean,Taal,2017-09-27,2805.0,,30.2,clear
+2270,Mustard,Jaora,2017-06-10,3250.0,11.9,27.2,clear
+2271,Soyabean,A lot,2017-06-10,2705.0,,27.2,clear
+2272,Soyabean,Jaora,2017-06-10,2800.0,,27.2,clear
+2273,Soyabean,Ratlam,2017-06-10,2740.0,557.6,27.2,clear
+2274,Soyabean,Sailana,2017-06-10,2645.0,169.7,27.2,clear
+2275,Mustard,Jaora,2017-07-10,3250.0,7.2,27.2,clear
+2276,Soyabean,A lot,2017-07-10,2725.0,380.0,27.2,clear
+2277,Soyabean,Jaora,2017-07-10,2750.0,779.8,27.2,clear
+2278,Soyabean,Ratlam,2017-07-10,2750.0,513.3,27.2,clear
+2279,Soyabean,Sailana,2017-07-10,2607.0,88.9,27.2,clear
+2280,Soyabean,Taal,2017-07-10,2690.0,215.5,27.2,clear
+2281,Mustard,Jaora,2017-09-10,3110.0,4.7,26.6,clear
+2282,Soyabean,A lot,2017-09-10,2685.0,,26.6,clear
+2283,Soyabean,Jaora,2017-09-10,2763.0,,26.6,clear
+2284,Soyabean,Sailana,2017-09-10,2607.0,131.7,26.6,clear
+2285,Soyabean,Taal,2017-09-10,2760.0,315.8,26.6,clear
+2286,Mustard,Jaora,2017-10-10,3100.0,3.6,25.2,clear
+2287,Soyabean,Jaora,2017-10-10,2700.0,782.8,25.2,clear
+2288,Soyabean,Ratlam,2017-10-10,2680.0,0.0,25.2,clear
+2289,Soyabean,Sailana,2017-10-10,2597.0,120.6,25.2,clear
+2290,Soyabean,Taal,2017-10-10,2685.0,298.8,25.2,clear
+2291,Mustard,Jaora,2017-11-10,3200.0,9.0,28.2,clear
+2292,Soyabean,A lot,2017-11-10,1540.0,,28.2,clear
+2293,Soyabean,Jaora,2017-11-10,2720.0,,28.2,clear
+2294,Soyabean,Sailana,2017-11-10,2590.0,120.2,28.2,clear
+2295,Soyabean,Taal,2017-11-10,2688.0,,28.2,clear
+2296,Mustard,Jaora,2017-10-23,3200.0,4.9,30.2,clear
+2297,Soyabean,A lot,2017-10-23,2670.0,,30.2,clear
+2298,Soyabean,Jaora,2017-10-23,2700.0,,30.2,clear
+2299,Soyabean,Sailana,2017-10-23,2675.0,164.7,30.2,clear
+2300,Soyabean,Taal,2017-10-23,2650.0,458.0,30.2,clear
+2301,Mustard,Jaora,2017-10-24,3200.0,2.2,30.2,clear
+2302,Soyabean,A lot,2017-10-24,2640.0,,30.2,clear
+2303,Soyabean,Jaora,2017-10-24,2600.0,805.6,30.2,clear
+2304,Soyabean,Ratlam,2017-10-24,2680.0,552.0,30.2,clear
+2305,Soyabean,Sailana,2017-10-24,2698.0,256.0,30.2,clear
+2306,Soyabean,Taal,2017-10-24,2650.0,567.5,30.2,clear
+2307,Mustard,Jaora,2017-10-25,3300.0,2.4,22.2,clear
+2308,Soyabean,A lot,2017-10-25,2630.0,582.7,22.2,clear
+2309,Soyabean,Jaora,2017-10-25,2650.0,,22.2,clear
+2310,Soyabean,Ratlam,2017-10-25,2675.0,753.9,22.2,clear
+2311,Soyabean,Sailana,2017-10-25,2700.0,275.4,22.2,clear
+2312,Soyabean,Taal,2017-10-25,2640.0,,22.2,clear
+2313,Mustard,Jaora,2017-10-26,3250.0,6.4,29.2,clear
+2314,Soyabean,A lot,2017-10-26,2602.0,559.8,29.2,clear
+2315,Soyabean,Jaora,2017-10-26,2600.0,615.6,29.2,clear
+2316,Soyabean,Ratlam,2017-10-26,2661.0,,29.2,clear
+2317,Soyabean,Sailana,2017-10-26,2580.0,309.6,29.2,clear
+2318,Soyabean,Taal,2017-10-26,2610.0,622.5,29.2,clear
+2319,Mustard,Jaora,2017-10-27,3300.0,6.9,20.2,clear
+2320,Soyabean,A lot,2017-10-27,2570.0,,20.2,clear
+2321,Soyabean,Jaora,2017-10-27,2600.0,1013.4,20.2,clear
+2322,Soyabean,Ratlam,2017-10-27,2615.0,,20.2,clear
+2323,Soyabean,Sailana,2017-10-27,2605.0,326.4,20.2,clear
+2324,Soyabean,Taal,2017-10-27,2615.0,,20.2,clear
+2325,Mustard,Jaora,2017-10-30,3300.0,19.2,29.2,clear
+2326,Soyabean,A lot,2017-10-30,2535.0,,29.2,clear
+2327,Soyabean,Jaora,2017-10-30,2550.0,701.0,29.2,clear
+2328,Soyabean,Ratlam,2017-10-30,2580.0,874.2,29.2,clear
+2329,Soyabean,Sailana,2017-10-30,2650.0,397.5,29.2,clear
+2330,Soyabean,Taal,2017-10-30,2575.0,576.5,29.2,clear
+2331,Mustard,Jaora,2017-10-31,3300.0,4.8,30.2,clear
+2332,Soyabean,A lot,2017-10-31,2529.0,,30.2,clear
+2333,Soyabean,Jaora,2017-10-31,2521.0,,30.2,clear
+2334,Soyabean,Ratlam,2017-10-31,2560.0,,30.2,clear
+2335,Soyabean,Taal,2017-10-31,2580.0,,30.2,clear
+2336,Mustard,Jaora,2017-01-11,3350.0,7.8,18.2,clear
+2337,Soyabean,A lot,2017-01-11,2615.0,,18.2,clear
+2338,Soyabean,Jaora,2017-01-11,2589.0,,18.2,clear
+2339,Soyabean,Ratlam,2017-01-11,2635.0,,18.2,clear
+2340,Soyabean,Sailana,2017-01-11,2775.0,289.7,18.2,clear
+2341,Soyabean,Taal,2017-01-11,2615.0,576.8,18.2,clear
+2342,Mustard,Jaora,2017-02-11,3255.0,5.9,23.6,clear
+2343,Soyabean,A lot,2017-02-11,2630.0,392.5,23.6,clear
+2344,Soyabean,Jaora,2017-02-11,2677.0,,23.6,clear
+2345,Soyabean,Ratlam,2017-02-11,2680.0,789.4,23.6,clear
+2346,Soyabean,Sailana,2017-02-11,2705.0,304.0,23.6,clear
+2347,Soyabean,Taal,2017-02-11,2610.0,,23.6,clear
+2348,Mustard,Ratlam,2017-03-28,3000.0,1.5,39.2,clear
+2349,Soyabean,A lot,2017-03-28,2800.0,0.13,39.2,clear
+2350,Soyabean,Ratlam,2017-03-28,2800.0,217.3,39.2,clear
+2351,Soyabean,Sailana,2017-03-28,2900.0,32.0,39.2,clear
+2352,Soyabean,Taal,2017-03-28,2865.0,15.21,39.2,clear
+2353,Mustard,Ratlam,2017-04-24,2500.0,0.2,34.2,clear
+2354,Soyabean,A lot,2017-04-24,2700.0,,34.2,clear
+2355,Soyabean,Ratlam,2017-04-24,2970.0,291.1,34.2,clear
+2356,Soyabean,Sailana,2017-04-24,2595.0,39.5,34.2,clear
+2357,Soyabean,Taal,2017-04-24,1485.0,25.35,34.2,clear
+2358,Mustard,Ratlam,2017-04-26,4000.0,0.1,36.2,clear
+2359,Soyabean,A lot,2017-04-26,2849.0,3.02,36.2,clear
+2360,Soyabean,Ratlam,2017-04-26,2870.0,312.1,36.2,clear
+2361,Soyabean,Sailana,2017-04-26,2750.0,19.2,36.2,clear
+2362,Soyabean,Taal,2017-04-26,2880.0,,36.2,clear
+2363,Mustard,Ratlam,2017-05-30,2500.0,0.1,27.2,clear
+2364,Soyabean,A lot,2017-05-30,2750.0,3.44,27.2,clear
+2365,Soyabean,Ratlam,2017-05-30,2765.0,250.8,27.2,clear
+2366,Soyabean,Sailana,2017-05-30,2636.0,51.0,27.2,clear
+2367,Soyabean,Taal,2017-05-30,2680.0,,27.2,clear
+2368,Mustard,Ratlam,2017-03-11,2701.0,0.3,26.2,clear
+2369,Soyabean,A lot,2017-03-11,2637.0,,26.2,clear
+2370,Soyabean,Ratlam,2017-03-11,2645.0,,26.2,clear
+2371,Soyabean,Sailana,2017-03-11,2705.0,17.0,26.2,clear
+2372,Soyabean,Taal,2017-03-11,2680.0,,26.2,clear
+2373,Mustard,Sailana,2017-08-02,3200.0,3.4,24.6,clear
+2374,Mustard,Taal,2017-08-02,3441.0,2.19,24.6,clear
+2375,Soyabean,A lot,2017-08-02,2919.0,,24.6,clear
+2376,Soyabean,Sailana,2017-08-02,2887.0,62.2,24.6,clear
+2377,Soyabean,Taal,2017-08-02,2927.0,,24.6,clear
+2378,Mustard,Sailana,2017-12-05,1158.0,1.5,16.2,clear
+2379,Mustard,Taal,2017-12-05,3300.0,1.98,16.2,clear
+2380,Soyabean,A lot,2017-12-05,2847.0,5.53,16.2,clear
+2381,Soyabean,Sailana,2017-12-05,2856.0,34.5,16.2,clear
+2382,Soyabean,Taal,2017-12-05,2874.0,,16.2,clear
+2383,Mustard,Taal,2017-02-16,3300.0,1.36,30.2,clear
+2384,Soyabean,A lot,2017-02-16,2870.0,,30.2,clear
+2385,Soyabean,Ratlam,2017-02-16,2855.0,277.7,30.2,clear
+2386,Soyabean,Sailana,2017-02-16,2795.0,53.8,30.2,clear
+2387,Soyabean,Taal,2017-02-16,2829.0,,30.2,clear
+2388,Mustard,Taal,2017-04-20,3170.0,0.83,38.2,clear
+2389,Soyabean,Sailana,2017-04-20,2784.0,29.0,38.2,clear
+2390,Soyabean,Taal,2017-04-20,2915.0,,38.2,clear
+2391,Mustard,Taal,2017-05-20,3070.0,0.25,39.2,clear
+2392,Soyabean,A lot,2017-05-20,2789.0,3.57,39.2,clear
+2393,Soyabean,Ratlam,2017-05-20,2886.0,192.1,39.2,clear
+2394,Soyabean,Sailana,2017-05-20,2800.0,25.4,39.2,clear
+2395,Soyabean,Taal,2017-05-20,2850.0,,39.2,clear
+2396,Mustard,Taal,2017-07-31,3100.0,0.18,27.2,clear
+2397,Soyabean,A lot,2017-07-31,2842.0,,27.2,clear
+2398,Soyabean,Ratlam,2017-07-31,2840.0,172.4,27.2,clear
+2399,Soyabean,Sailana,2017-07-31,2750.0,35.8,27.2,clear
+2400,Soyabean,Taal,2017-07-31,2798.0,,27.2,clear
+2401,Soyabean,A lot,2017-10-01,2888.0,36.12,33.2,clear
+2402,Soyabean,Jaora,2017-10-01,2850.0,5.5,33.2,clear
+2403,Soyabean,Ratlam,2017-10-01,2830.0,267.6,33.2,clear
+2404,Soyabean,Sailana,2017-10-01,2950.0,75.2,33.2,clear
+2405,Soyabean,Taal,2017-10-01,2860.0,,33.2,clear
+2406,Soyabean,A lot,2017-01-21,2939.0,,11.6,clear
+2407,Soyabean,Ratlam,2017-01-21,2900.0,216.3,11.6,clear
+2408,Soyabean,Sailana,2017-01-21,2950.0,63.0,11.6,clear
+2409,Soyabean,Taal,2017-01-21,2950.0,,11.6,clear
+2410,Soyabean,A lot,2017-11-02,2907.0,2.4,29.2,clear
+2411,Soyabean,A lot,2017-04-04,2770.0,5.2,36.2,clear
+2412,Soyabean,Ratlam,2017-04-04,2785.0,244.7,36.2,clear
+2413,Soyabean,Sailana,2017-04-04,2760.0,61.7,36.2,clear
+2414,Soyabean,Taal,2017-04-04,2830.0,6.81,36.2,clear
+2415,Soyabean,A lot,2017-06-04,1925.0,,38.2,clear
+2416,Soyabean,Sailana,2017-06-04,2725.0,13.1,38.2,clear
+2417,Soyabean,Taal,2017-06-04,2820.0,,38.2,clear
+2418,Soyabean,A lot,2017-08-04,2799.0,1.86,28.2,clear
+2419,Soyabean,A lot,2017-11-04,2830.0,7.11,28.2,clear
+2420,Soyabean,Sailana,2017-11-04,2692.0,14.7,28.2,clear
+2421,Soyabean,A lot,2017-12-04,2830.0,3.63,22.2,clear
+2422,Soyabean,Sailana,2017-12-04,2800.0,30.3,22.2,clear
+2423,Soyabean,Taal,2017-12-04,2860.0,41.08,22.2,clear
+2424,Soyabean,A lot,2017-04-15,2832.0,1.22,40.2,clear
+2425,Soyabean,Ratlam,2017-04-15,2885.0,266.9,40.2,clear
+2426,Soyabean,Sailana,2017-04-15,2700.0,25.8,40.2,clear
+2427,Soyabean,Taal,2017-04-15,2860.0,,40.2,clear
+2428,Soyabean,A lot,2017-04-22,2401.0,0.54,35.6,clear
+2429,Soyabean,A lot,2017-05-27,2698.0,3.32,39.2,clear
+2430,Soyabean,A lot,2017-06-19,2739.0,15.2,35.2,clear
+2431,Soyabean,Taal,2017-06-19,2750.0,0.17,35.2,clear
+2432,Soyabean,A lot,2017-06-20,2787.0,8.11,29.2,clear
+2433,Soyabean,Jaora,2017-06-20,2800.0,28.7,29.2,clear
+2434,Soyabean,A lot,2017-06-23,2753.0,24.82,34.2,clear
+2435,Soyabean,Taal,2017-06-23,2736.0,8.67,34.2,clear
+2436,Soyabean,A lot,2017-06-24,2744.0,4.96,34.2,clear
+2437,Soyabean,Taal,2017-06-24,2775.0,8.92,34.2,clear
+2438,Soyabean,A lot,2017-06-26,2744.0,5.0,31.2,clear
+2439,Soyabean,A lot,2017-06-27,2730.0,12.19,31.2,clear
+2440,Soyabean,Taal,2017-06-27,2776.0,9.07,31.2,clear
+2441,Soyabean,A lot,2017-06-28,2726.0,2.73,32.2,clear
+2442,Soyabean,Sailana,2017-06-28,2600.0,7.0,32.2,clear
+2443,Soyabean,Taal,2017-06-28,2760.0,,32.2,clear
+2444,Soyabean,A lot,2017-06-29,2700.0,14.53,33.2,clear
+2445,Soyabean,Taal,2017-06-29,2740.0,,33.2,clear
+2446,Soyabean,A lot,2017-08-07,2790.0,24.1,28.2,clear
+2447,Soyabean,Taal,2017-08-07,2780.0,,28.2,clear
+2448,Soyabean,A lot,2017-10-07,2850.0,17.01,33.2,clear
+2449,Soyabean,Sailana,2017-10-07,2836.0,59.2,33.2,clear
+2450,Soyabean,Taal,2017-10-07,2860.0,48.73,33.2,clear
+2451,Soyabean,A lot,2017-07-17,2826.0,39.82,28.2,clear
+2452,Soyabean,Ratlam,2017-07-17,2780.0,328.0,28.2,clear
+2453,Soyabean,Sailana,2017-07-17,2700.0,69.2,28.2,clear
+2454,Soyabean,A lot,2017-07-22,2832.0,,25.2,clear
+2455,Soyabean,Taal,2017-07-22,2790.0,29.63,25.2,clear
+2456,Soyabean,A lot,2017-07-24,2860.0,36.52,23.2,rain
+2457,Soyabean,Sailana,2017-07-24,2450.0,4.9,23.2,rain
+2458,Soyabean,Taal,2017-07-24,2776.0,,23.2,rain
+2459,Soyabean,A lot,2017-12-08,2825.0,32.02,16.2,clear
+2460,Soyabean,Taal,2017-12-08,2880.0,6.03,16.2,clear
+2461,Soyabean,A lot,2017-08-17,2949.0,14.02,30.2,clear
+2462,Soyabean,Ratlam,2017-08-17,2940.0,172.0,30.2,clear
+2463,Soyabean,Sailana,2017-08-17,2776.0,32.4,30.2,clear
+2464,Soyabean,Taal,2017-08-17,2940.0,25.54,30.2,clear
+2465,Soyabean,A lot,2017-08-26,3020.0,4.33,26.2,clear
+2466,Soyabean,Taal,2017-08-26,2987.0,3.84,26.2,clear
+2467,Soyabean,A lot,2017-07-09,2886.0,12.2,32.2,clear
+2468,Soyabean,Ratlam,2017-07-09,2880.0,311.4,32.2,clear
+2469,Soyabean,Sailana,2017-07-09,2911.0,52.7,32.2,clear
+2470,Soyabean,Taal,2017-07-09,2890.0,41.1,32.2,clear
+2471,Soyabean,A lot,2017-09-09,2875.0,34.7,27.2,clear
+2472,Soyabean,Jaora,2017-09-09,2850.0,108.8,27.2,clear
+2473,Soyabean,Sailana,2017-09-09,2705.0,,27.2,clear
+2474,Soyabean,Taal,2017-09-09,2865.0,,27.2,clear
+2475,Soyabean,A lot,2017-09-16,2470.0,4.72,24.6,clear
+2476,Soyabean,Jaora,2017-09-16,2800.0,235.1,24.6,clear
+2477,Soyabean,Ratlam,2017-09-16,2900.0,101.4,24.6,clear
+2478,Soyabean,Taal,2017-09-16,2930.0,10.02,24.6,clear
+2479,Soyabean,A lot,2017-09-20,2645.0,8.79,30.2,clear
+2480,Soyabean,Sailana,2017-09-20,2575.0,26.1,30.2,clear
+2481,Soyabean,Taal,2017-09-20,2885.0,,30.2,clear
+2482,Soyabean,A lot,2017-09-21,2500.0,8.82,27.2,clear
+2483,Soyabean,Ratlam,2017-09-21,2930.0,118.1,27.2,clear
+2484,Soyabean,Sailana,2017-09-21,2444.0,13.7,27.2,clear
+2485,Soyabean,Taal,2017-09-21,2945.0,,27.2,clear
+2486,Soyabean,A lot,2017-09-23,2189.0,35.43,28.2,clear
+2487,Soyabean,Sailana,2017-09-23,2444.0,13.19,28.2,clear
+2488,Soyabean,Taal,2017-09-23,2863.0,33.8,28.2,clear
+2489,Soyabean,A lot,2017-09-28,2720.0,53.58,32.6,clear
+2490,Soyabean,Sailana,2017-09-28,2461.0,24.38,32.6,clear
+2491,Soyabean,Taal,2017-09-28,2820.0,,32.6,clear
+2492,Soyabean,A lot,2017-09-29,2720.0,,32.2,clear
+2493,Soyabean,Taal,2017-09-29,2725.0,160.5,32.2,clear
+2494,Soyabean,A lot,2017-03-10,2700.0,,24.2,clear
+2495,Soyabean,Sailana,2017-03-10,2473.0,59.9,24.2,clear
+2496,Soyabean,Taal,2017-03-10,2775.0,,24.2,clear
+2497,Soyabean,A lot,2017-05-10,2720.0,,39.6,clear
+2498,Soyabean,Taal,2017-05-10,2725.0,218.0,39.6,clear
+2499,Soyabean,A lot,2017-12-10,2650.0,277.4,24.2,clear
+2500,Soyabean,Ratlam,2017-12-10,2745.0,,24.2,clear
+2501,Soyabean,Sailana,2017-12-10,2605.0,131.7,24.2,clear
+2502,Soyabean,Taal,2017-12-10,2728.0,266.5,24.2,clear
+2503,Soyabean,A lot,2017-10-13,2680.0,,30.2,clear
+2504,Soyabean,Ratlam,2017-10-13,2750.0,,30.2,clear
+2505,Soyabean,Sailana,2017-10-13,2666.0,185.9,30.2,clear
+2506,Soyabean,Taal,2017-10-13,2760.0,,30.2,clear
+2507,Soyabean,A lot,2017-10-14,2670.0,,23.2,clear
+2508,Soyabean,Taal,2017-10-14,2725.0,,23.2,clear
+2509,Soyabean,A lot,2017-10-16,2661.0,319.0,32.2,clear
+2510,Soyabean,Ratlam,2017-10-16,2705.0,394.0,32.2,clear
+2511,Soyabean,Sailana,2017-10-16,2550.0,163.4,32.2,clear
+2512,Soyabean,Taal,2017-10-16,2750.0,29.5,32.2,clear
+2513,Soyabean,A lot,2017-10-17,2680.0,,33.2,clear
+2514,Soyabean,Taal,2017-10-17,2730.0,,33.2,clear
+2515,Soyabean,A lot,2017-10-18,2673.0,,32.2,clear
+2516,Soyabean,Taal,2017-10-18,2700.0,213.0,32.2,clear
+2517,Soyabean,Jaora,2017-06-17,2750.0,1.1,36.2,clear
+2518,Soyabean,Ratlam,2017-04-21,2950.0,366.3,38.2,clear
+2519,Soyabean,Sailana,2017-04-21,2575.0,39.1,38.2,clear
+2520,Soyabean,Taal,2017-04-21,2940.0,27.33,38.2,clear
+2521,Soyabean,Ratlam,2017-08-22,2990.0,130.8,29.2,clear
+2522,Soyabean,Taal,2017-08-22,3025.0,3.81,29.2,clear
+2523,Soyabean,Ratlam,2017-09-13,2790.0,201.5,29.6,clear
+2524,Soyabean,Sailana,2017-09-13,2700.0,34.7,29.6,clear
+2525,Soyabean,Taal,2017-09-13,2861.0,31.23,29.6,clear
+2526,Soyabean,Ratlam,2017-10-28,2660.0,200.0,20.2,clear
+2527,Soyabean,Sailana,2017-09-07,2802.0,3.4,30.2,clear
+2528,Soyabean,Sailana,2017-08-25,2795.0,,25.2,clear
+2529,Soyabean,Taal,2017-08-25,2987.0,3.84,25.2,clear
+2530,Soyabean,Sailana,2017-10-09,2911.0,,32.2,clear
+2531,Soyabean,Sailana,2017-09-30,2461.0,18.6,31.2,clear
+2532,Soyabean,Sailana,2017-02-10,2461.0,17.55,23.2,clear
+2533,Soyabean,Sailana,2017-04-10,2500.0,143.7,35.2,clear
+2534,Soyabean,Taal,2017-04-10,2735.0,,35.2,clear
+2535,Soyabean,Taal,2017-01-07,2650.0,24.06,23.2,clear
+2536,Soyabean,Taal,2017-10-21,2635.0,108.81,32.6,clear

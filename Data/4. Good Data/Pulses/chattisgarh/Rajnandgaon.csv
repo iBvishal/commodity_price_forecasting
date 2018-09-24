@@ -1,0 +1,1046 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Rajnandgaon,2015-12-10,8601.0,0.1,26.0,clear
+1,Black Gram (Urd Beans),Rajnandgaon,2015-12-10,8000.0,5.1,26.0,clear
+2,Lentil(Masur),Rajnandgaon,2015-12-10,6636.0,0.1,26.0,clear
+3,Arhar (Tur/Red Gram),Rajnandgaon,2015-12-14,6500.0,0.1,26.2,clear
+4,Black Gram (Urd Beans),Rajnandgaon,2015-12-14,7801.0,0.1,26.2,clear
+5,Lentil(Masur),Rajnandgaon,2015-12-14,4900.0,0.3,26.2,clear
+6,Arhar (Tur/Red Gram),Rajnandgaon,2015-12-30,6700.0,2.5,15.0,clear
+7,Lentil(Masur),Rajnandgaon,2015-12-30,4400.0,0.6,15.0,clear
+8,Arhar (Tur/Red Gram),Rajnandgaon,2015-12-31,7751.0,0.6,27.2,clear
+9,Black Gram (Urd Beans),Rajnandgaon,2015-12-31,8702.0,0.4,27.2,clear
+10,Lentil(Masur),Rajnandgaon,2015-12-31,4100.0,1.7,27.2,clear
+11,Black Gram (Urd Beans),Rajnandgaon,2015-12-12,9001.0,0.1,25.2,clear
+12,Lentil(Masur),Rajnandgaon,2015-12-12,5001.0,0.9,25.2,clear
+13,Black Gram (Urd Beans),Rajnandgaon,2015-12-17,8702.0,1.1,26.0,clear
+14,Lentil(Masur),Rajnandgaon,2015-12-17,4700.0,0.6,26.0,clear
+15,Black Gram (Urd Beans),Rajnandgaon,2015-12-22,8012.0,0.2,20.0,clear
+16,Lentil(Masur),Rajnandgaon,2015-12-22,4651.0,0.6,20.0,clear
+17,Black Gram (Urd Beans),Rajnandgaon,2015-12-26,8001.0,0.2,13.4,clear
+18,Lentil(Masur),Rajnandgaon,2015-12-26,4400.0,0.2,13.4,clear
+19,Lentil(Masur),Rajnandgaon,2015-12-08,3901.0,0.1,24.8,clear
+20,Lentil(Masur),Rajnandgaon,2015-12-15,4561.0,0.1,24.2,clear
+21,Lentil(Masur),Rajnandgaon,2015-12-21,4713.0,1.0,27.0,clear
+22,Lentil(Masur),Rajnandgaon,2015-12-23,4500.0,0.1,26.8,clear
+23,Lentil(Masur),Rajnandgaon,2015-12-28,4050.0,0.4,16.0,clear
+24,Arhar (Tur/Red Gram),Dongargarh,2016-12-03,4425.0,5.0,17.0,clear
+25,Arhar (Tur/Red Gram),Rajnandgaon,2016-12-03,6976.0,8.1,17.0,clear
+26,Lentil(Masur),Rajnandgaon,2016-12-03,4650.0,6.3,17.0,clear
+27,Arhar (Tur/Red Gram),Dongargarh,2016-03-14,4425.0,2.0,22.0,clear
+28,Arhar (Tur/Red Gram),Gandai,2016-03-14,4425.0,15.0,22.0,clear
+29,Arhar (Tur/Red Gram),Rajnandgaon,2016-03-14,7200.0,6.5,22.0,clear
+30,Bengal Gram(Gram),Kheragarh,2016-03-14,3800.0,1000.0,22.0,clear
+31,Lentil(Masur),Rajnandgaon,2016-03-14,4700.0,4.7,22.0,clear
+32,Arhar (Tur/Red Gram),Gandai,2016-01-30,7000.0,1.0,28.0,clear
+33,Arhar (Tur/Red Gram),Rajnandgaon,2016-01-30,7595.0,3.0,28.0,clear
+34,Black Gram (Urd Beans),Rajnandgaon,2016-01-30,7400.0,0.8,28.0,clear
+35,Lentil(Masur),Rajnandgaon,2016-01-30,4201.0,1.8,28.0,clear
+36,Arhar (Tur/Red Gram),Gandai,2016-09-03,4425.0,7.0,29.0,clear
+37,Arhar (Tur/Red Gram),Rajnandgaon,2016-09-03,7500.0,5.9,29.0,clear
+38,Lentil(Masur),Rajnandgaon,2016-09-03,4431.0,3.8,29.0,clear
+39,Arhar (Tur/Red Gram),Gandai,2016-10-03,4425.0,3.0,29.0,clear
+40,Arhar (Tur/Red Gram),Rajnandgaon,2016-10-03,7511.0,8.3,29.0,clear
+41,Lentil(Masur),Rajnandgaon,2016-10-03,4580.0,4.1,29.0,clear
+42,Arhar (Tur/Red Gram),Gandai,2016-03-13,4425.0,0.0,26.2,clear
+43,Arhar (Tur/Red Gram),Gandai,2016-03-15,4425.0,10.0,32.2,clear
+44,Arhar (Tur/Red Gram),Gandai,2016-03-16,4425.0,30.5,33.2,clear
+45,Bengal Gram(Gram),Bazar Atriya ,2016-03-16,4000.0,20.0,33.2,clear
+46,Bengal Gram(Gram),Kheragarh,2016-03-16,4000.0,200.0,33.2,clear
+47,Arhar (Tur/Red Gram),Gandai,2016-01-04,4600.0,12.0,16.2,clear
+48,Arhar (Tur/Red Gram),Rajnandgaon,2016-01-04,7950.0,5.5,16.2,clear
+49,Lentil(Masur),Rajnandgaon,2016-01-04,5220.0,4.1,16.2,clear
+50,Arhar (Tur/Red Gram),Gandai,2016-02-04,4600.0,10.0,27.0,clear
+51,Arhar (Tur/Red Gram),Gandai,2016-04-30,4425.0,20.0,42.0,clear
+52,Arhar (Tur/Red Gram),Rajnandgaon,2016-04-30,7900.0,1.8,42.0,clear
+53,Bengal Gram(Gram),Dongargarh,2016-04-30,3500.0,5.0,42.0,clear
+54,Bengal Gram(Gram),Kheragarh,2016-04-30,4500.0,45.0,42.0,clear
+55,Black Gram (Urd Beans),Rajnandgaon,2016-04-30,6201.0,1.2,42.0,clear
+56,Lentil(Masur),Rajnandgaon,2016-04-30,5400.0,9.0,42.0,clear
+57,Arhar (Tur/Red Gram),Gandai,2016-03-05,5325.0,10.0,23.2,clear
+58,Arhar (Tur/Red Gram),Rajnandgaon,2016-03-05,7401.0,0.7,23.2,clear
+59,Lentil(Masur),Rajnandgaon,2016-03-05,5201.0,1.3,23.2,clear
+60,Arhar (Tur/Red Gram),Gandai,2016-06-05,4000.0,30.0,31.6,clear
+61,Arhar (Tur/Red Gram),Rajnandgaon,2016-06-05,7501.0,0.2,31.6,clear
+62,Lentil(Masur),Rajnandgaon,2016-06-05,5125.0,0.8,31.6,clear
+63,Arhar (Tur/Red Gram),Gandai,2016-05-23,4500.0,5.0,42.6,clear
+64,Arhar (Tur/Red Gram),Rajnandgaon,2016-05-23,7701.0,2.1,42.6,clear
+65,Bengal Gram(Gram),Kheragarh,2016-05-23,5000.0,15.0,42.6,clear
+66,Lentil(Masur),Rajnandgaon,2016-05-23,5300.0,1.0,42.6,clear
+67,Arhar (Tur/Red Gram),Gandai,2016-05-31,4425.0,14.0,40.0,clear
+68,Bengal Gram(Gram),Kheragarh,2016-05-31,4500.0,0.7,40.0,clear
+69,Black Gram (Urd Beans),Rajnandgaon,2016-05-31,7280.0,3.9,40.0,clear
+70,Lentil(Masur),Rajnandgaon,2016-05-31,5200.0,0.3,40.0,clear
+71,Arhar (Tur/Red Gram),Gandai,2016-11-17,8000.0,5.0,27.0,clear
+72,Arhar (Tur/Red Gram),Gandai,2016-12-31,7500.0,11.4,12.0,clear
+73,Bengal Gram(Gram),Kheragarh,2016-12-31,5000.0,20.0,12.0,clear
+74,Black Gram (Urd Beans),Rajnandgaon,2016-12-31,3800.0,0.1,12.0,clear
+75,Lentil(Masur),Rajnandgaon,2016-12-31,3600.0,0.4,12.0,clear
+76,Arhar (Tur/Red Gram),Kheragarh,2016-08-20,5000.0,6.0,26.0,clear
+77,Arhar (Tur/Red Gram),Rajnandgaon,2016-08-20,4890.0,1.1,26.0,clear
+78,Arhar (Tur/Red Gram),Kheragarh,2016-08-31,5000.0,5.0,31.0,clear
+79,Bengal Gram(Gram),Kheragarh,2016-08-31,3000.0,9.1,31.0,clear
+80,Arhar (Tur/Red Gram),Kheragarh,2016-09-17,5700.0,1.4,29.0,clear
+81,Arhar (Tur/Red Gram),Rajnandgaon,2016-04-01,7600.0,3.5,37.2,clear
+82,Black Gram (Urd Beans),Rajnandgaon,2016-04-01,7601.0,0.6,37.2,clear
+83,Lentil(Masur),Rajnandgaon,2016-04-01,4181.0,0.2,37.2,clear
+84,Arhar (Tur/Red Gram),Rajnandgaon,2016-05-01,8522.0,5.3,41.4,clear
+85,Lentil(Masur),Rajnandgaon,2016-05-01,4401.0,0.3,41.4,clear
+86,Arhar (Tur/Red Gram),Rajnandgaon,2016-06-01,8725.0,3.4,39.0,clear
+87,Black Gram (Urd Beans),Rajnandgaon,2016-06-01,7842.0,0.7,39.0,clear
+88,Arhar (Tur/Red Gram),Rajnandgaon,2016-07-01,8600.0,4.5,33.0,clear
+89,Black Gram (Urd Beans),Rajnandgaon,2016-07-01,7101.0,1.1,33.0,clear
+90,Lentil(Masur),Rajnandgaon,2016-07-01,4451.0,0.3,33.0,clear
+91,Arhar (Tur/Red Gram),Rajnandgaon,2016-08-01,8200.0,7.7,30.0,clear
+92,Lentil(Masur),Rajnandgaon,2016-08-01,4101.0,0.8,30.0,clear
+93,Arhar (Tur/Red Gram),Rajnandgaon,2016-09-01,8165.0,8.0,31.0,clear
+94,Lentil(Masur),Rajnandgaon,2016-09-01,3950.0,0.2,31.0,clear
+95,Arhar (Tur/Red Gram),Rajnandgaon,2016-12-01,8381.0,9.5,16.0,clear
+96,Black Gram (Urd Beans),Rajnandgaon,2016-12-01,7200.0,0.9,16.0,clear
+97,Lentil(Masur),Rajnandgaon,2016-12-01,4201.0,0.2,16.0,clear
+98,Arhar (Tur/Red Gram),Rajnandgaon,2016-01-15,8276.0,0.4,27.2,clear
+99,Arhar (Tur/Red Gram),Rajnandgaon,2016-01-16,8270.0,6.3,16.2,clear
+100,Lentil(Masur),Rajnandgaon,2016-01-16,4305.0,0.1,16.2,clear
+101,Arhar (Tur/Red Gram),Rajnandgaon,2016-01-18,8211.0,11.9,27.2,clear
+102,Black Gram (Urd Beans),Rajnandgaon,2016-01-18,8000.0,0.2,27.2,clear
+103,Lentil(Masur),Rajnandgaon,2016-01-18,4199.0,0.1,27.2,clear
+104,Arhar (Tur/Red Gram),Rajnandgaon,2016-01-19,8202.0,10.6,22.0,clear
+105,Lentil(Masur),Rajnandgaon,2016-01-19,4200.0,0.1,22.0,clear
+106,Arhar (Tur/Red Gram),Rajnandgaon,2016-01-21,8000.0,0.5,24.0,clear
+107,Arhar (Tur/Red Gram),Rajnandgaon,2016-01-22,7600.0,12.2,22.8,clear
+108,Arhar (Tur/Red Gram),Rajnandgaon,2016-01-23,7600.0,2.4,23.8,clear
+109,Lentil(Masur),Rajnandgaon,2016-01-23,4100.0,0.1,23.8,clear
+110,Arhar (Tur/Red Gram),Rajnandgaon,2016-01-25,7775.0,4.3,25.6,clear
+111,Arhar (Tur/Red Gram),Rajnandgaon,2016-01-28,7757.0,1.5,28.0,clear
+112,Black Gram (Urd Beans),Rajnandgaon,2016-01-28,7200.0,0.1,28.0,clear
+113,Arhar (Tur/Red Gram),Rajnandgaon,2016-01-29,7757.0,5.9,26.0,clear
+114,Lentil(Masur),Rajnandgaon,2016-01-29,4000.0,0.2,26.0,clear
+115,Arhar (Tur/Red Gram),Rajnandgaon,2016-01-02,7750.0,3.4,26.0,clear
+116,Black Gram (Urd Beans),Rajnandgaon,2016-01-02,7000.0,0.1,26.0,clear
+117,Lentil(Masur),Rajnandgaon,2016-01-02,4000.0,0.1,26.0,clear
+118,Arhar (Tur/Red Gram),Rajnandgaon,2016-02-02,7231.0,8.5,31.2,clear
+119,Lentil(Masur),Rajnandgaon,2016-02-02,3733.0,0.5,31.2,clear
+120,Arhar (Tur/Red Gram),Rajnandgaon,2016-06-02,7281.0,2.7,41.2,clear
+121,Black Gram (Urd Beans),Rajnandgaon,2016-06-02,8200.0,0.1,41.2,clear
+122,Arhar (Tur/Red Gram),Rajnandgaon,2016-09-02,7562.0,5.8,31.0,clear
+123,Arhar (Tur/Red Gram),Rajnandgaon,2016-10-02,7562.0,5.7,29.0,clear
+124,Lentil(Masur),Rajnandgaon,2016-10-02,3711.0,0.1,29.0,clear
+125,Arhar (Tur/Red Gram),Rajnandgaon,2016-12-02,7680.0,10.6,26.0,clear
+126,Lentil(Masur),Rajnandgaon,2016-12-02,4353.0,0.3,26.0,clear
+127,Arhar (Tur/Red Gram),Rajnandgaon,2016-02-13,7500.0,5.3,29.4,clear
+128,Arhar (Tur/Red Gram),Rajnandgaon,2016-02-15,7625.0,3.9,31.6,clear
+129,Lentil(Masur),Rajnandgaon,2016-02-15,4051.0,0.1,31.6,clear
+130,Arhar (Tur/Red Gram),Rajnandgaon,2016-02-17,7500.0,4.3,30.0,clear
+131,Black Gram (Urd Beans),Rajnandgaon,2016-02-17,8401.0,0.1,30.0,clear
+132,Lentil(Masur),Rajnandgaon,2016-02-17,4290.0,0.1,30.0,clear
+133,Arhar (Tur/Red Gram),Rajnandgaon,2016-02-18,7500.0,4.3,32.0,clear
+134,Black Gram (Urd Beans),Rajnandgaon,2016-02-18,8401.0,0.1,32.0,clear
+135,Lentil(Masur),Rajnandgaon,2016-02-18,4290.0,0.1,32.0,clear
+136,Arhar (Tur/Red Gram),Rajnandgaon,2016-02-19,7355.0,3.0,22.2,clear
+137,Black Gram (Urd Beans),Rajnandgaon,2016-02-19,8600.0,0.4,22.2,clear
+138,Lentil(Masur),Rajnandgaon,2016-02-19,4200.0,0.4,22.2,clear
+139,Arhar (Tur/Red Gram),Rajnandgaon,2016-02-20,7084.0,4.3,34.0,clear
+140,Lentil(Masur),Rajnandgaon,2016-02-20,4302.0,0.7,34.0,clear
+141,Arhar (Tur/Red Gram),Rajnandgaon,2016-02-22,7001.0,1.5,32.0,clear
+142,Arhar (Tur/Red Gram),Rajnandgaon,2016-02-24,7100.0,4.8,32.0,clear
+143,Lentil(Masur),Rajnandgaon,2016-02-24,4181.0,0.5,32.0,clear
+144,Arhar (Tur/Red Gram),Rajnandgaon,2016-02-25,7356.0,5.4,31.2,clear
+145,Lentil(Masur),Rajnandgaon,2016-02-25,4161.0,1.9,31.2,clear
+146,Arhar (Tur/Red Gram),Rajnandgaon,2016-02-26,7399.0,10.7,23.2,clear
+147,Black Gram (Urd Beans),Rajnandgaon,2016-02-26,6981.0,0.3,23.2,clear
+148,Lentil(Masur),Rajnandgaon,2016-02-26,4214.0,2.0,23.2,clear
+149,Arhar (Tur/Red Gram),Rajnandgaon,2016-02-27,7252.0,7.1,21.8,clear
+150,Black Gram (Urd Beans),Rajnandgaon,2016-02-27,8501.0,0.1,21.8,clear
+151,Lentil(Masur),Rajnandgaon,2016-02-27,4250.0,2.6,21.8,clear
+152,Arhar (Tur/Red Gram),Rajnandgaon,2016-02-29,7276.0,3.7,26.2,clear
+153,Lentil(Masur),Rajnandgaon,2016-02-29,4275.0,1.7,26.2,clear
+154,Arhar (Tur/Red Gram),Rajnandgaon,2016-01-03,6900.0,5.7,26.0,clear
+155,Lentil(Masur),Rajnandgaon,2016-01-03,4250.0,2.0,26.0,clear
+156,Arhar (Tur/Red Gram),Rajnandgaon,2016-02-03,7181.0,5.8,28.8,clear
+157,Lentil(Masur),Rajnandgaon,2016-02-03,4261.0,1.9,28.8,clear
+158,Arhar (Tur/Red Gram),Rajnandgaon,2016-03-03,7271.0,7.3,33.2,clear
+159,Black Gram (Urd Beans),Rajnandgaon,2016-03-03,7850.0,0.7,33.2,clear
+160,Lentil(Masur),Rajnandgaon,2016-03-03,4345.0,2.0,33.2,clear
+161,Arhar (Tur/Red Gram),Rajnandgaon,2016-04-03,7241.0,3.0,29.2,clear
+162,Lentil(Masur),Rajnandgaon,2016-04-03,4380.0,2.1,29.2,clear
+163,Arhar (Tur/Red Gram),Rajnandgaon,2016-05-03,7301.0,3.3,39.0,clear
+164,Black Gram (Urd Beans),Rajnandgaon,2016-05-03,8301.0,0.1,39.0,clear
+165,Arhar (Tur/Red Gram),Rajnandgaon,2016-08-03,7500.0,7.2,29.0,clear
+166,Black Gram (Urd Beans),Rajnandgaon,2016-08-03,8300.0,0.1,29.0,clear
+167,Lentil(Masur),Rajnandgaon,2016-08-03,4390.0,3.6,29.0,clear
+168,Arhar (Tur/Red Gram),Rajnandgaon,2016-03-18,7258.0,11.6,33.0,clear
+169,Lentil(Masur),Rajnandgaon,2016-03-18,4775.0,4.5,33.0,clear
+170,Arhar (Tur/Red Gram),Rajnandgaon,2016-03-19,7341.0,4.2,35.4,clear
+171,Lentil(Masur),Rajnandgaon,2016-03-19,4812.0,3.5,35.4,clear
+172,Arhar (Tur/Red Gram),Rajnandgaon,2016-03-22,7500.0,1.7,36.2,clear
+173,Black Gram (Urd Beans),Rajnandgaon,2016-03-22,7000.0,0.9,36.2,clear
+174,Lentil(Masur),Rajnandgaon,2016-03-22,4831.0,6.2,36.2,clear
+175,Arhar (Tur/Red Gram),Rajnandgaon,2016-03-30,7740.0,6.6,36.8,clear
+176,Bengal Gram(Gram),Dongargarh,2016-03-30,3800.0,100.0,36.8,clear
+177,Bengal Gram(Gram),Kheragarh,2016-03-30,4000.0,100.0,36.8,clear
+178,Lentil(Masur),Rajnandgaon,2016-03-30,5021.0,5.8,36.8,clear
+179,Arhar (Tur/Red Gram),Rajnandgaon,2016-04-04,8100.0,6.4,40.0,clear
+180,Bengal Gram(Gram),Kheragarh,2016-04-04,4000.0,50.0,40.0,clear
+181,Lentil(Masur),Rajnandgaon,2016-04-04,5339.0,6.1,40.0,clear
+182,Arhar (Tur/Red Gram),Rajnandgaon,2016-06-04,8570.0,3.3,39.2,clear
+183,Bengal Gram(Gram),Kheragarh,2016-06-04,4000.0,660.0,39.2,clear
+184,Lentil(Masur),Rajnandgaon,2016-06-04,5300.0,7.2,39.2,clear
+185,Arhar (Tur/Red Gram),Rajnandgaon,2016-07-04,8000.0,4.8,24.0,rain
+186,Bengal Gram(Gram),Dongargarh,2016-07-04,3800.0,25.0,24.0,rain
+187,Bengal Gram(Gram),Kheragarh,2016-07-04,4000.0,100.0,24.0,rain
+188,Lentil(Masur),Rajnandgaon,2016-07-04,5300.0,8.0,24.0,rain
+189,Arhar (Tur/Red Gram),Rajnandgaon,2016-08-04,8000.0,1.9,29.0,clear
+190,Lentil(Masur),Rajnandgaon,2016-08-04,5321.0,2.1,29.0,clear
+191,Arhar (Tur/Red Gram),Rajnandgaon,2016-09-04,8000.0,2.2,26.0,clear
+192,Lentil(Masur),Rajnandgaon,2016-09-04,5300.0,12.6,26.0,clear
+193,Arhar (Tur/Red Gram),Rajnandgaon,2016-12-04,8301.0,3.0,26.2,clear
+194,Lentil(Masur),Rajnandgaon,2016-12-04,5312.0,3.5,26.2,clear
+195,Arhar (Tur/Red Gram),Rajnandgaon,2016-04-16,8800.0,0.8,41.2,clear
+196,Lentil(Masur),Rajnandgaon,2016-04-16,5700.0,1.4,41.2,clear
+197,Arhar (Tur/Red Gram),Rajnandgaon,2016-04-18,8600.0,4.0,41.2,clear
+198,Bengal Gram(Gram),Dongargarh,2016-04-18,4200.0,15.0,41.2,clear
+199,Lentil(Masur),Rajnandgaon,2016-04-18,5701.0,4.6,41.2,clear
+200,Arhar (Tur/Red Gram),Rajnandgaon,2016-04-20,8000.0,4.1,41.4,clear
+201,Lentil(Masur),Rajnandgaon,2016-04-20,5500.0,5.3,41.4,clear
+202,Arhar (Tur/Red Gram),Rajnandgaon,2016-04-21,8000.0,4.2,41.2,clear
+203,Bengal Gram(Gram),Kheragarh,2016-04-21,4500.0,275.0,41.2,clear
+204,Lentil(Masur),Rajnandgaon,2016-04-21,5500.0,3.2,41.2,clear
+205,Arhar (Tur/Red Gram),Rajnandgaon,2016-04-22,8146.0,2.1,41.2,clear
+206,Lentil(Masur),Rajnandgaon,2016-04-22,5301.0,2.7,41.2,clear
+207,Arhar (Tur/Red Gram),Rajnandgaon,2016-04-23,7925.0,0.8,41.2,clear
+208,Bengal Gram(Gram),Kheragarh,2016-04-23,5000.0,100.0,41.2,clear
+209,Lentil(Masur),Rajnandgaon,2016-04-23,5380.0,0.8,41.2,clear
+210,Arhar (Tur/Red Gram),Rajnandgaon,2016-04-25,8000.0,2.5,33.2,clear
+211,Lentil(Masur),Rajnandgaon,2016-04-25,5300.0,2.1,33.2,clear
+212,Arhar (Tur/Red Gram),Rajnandgaon,2016-04-26,8271.0,0.8,37.2,clear
+213,Lentil(Masur),Rajnandgaon,2016-04-26,5500.0,1.3,37.2,clear
+214,Arhar (Tur/Red Gram),Rajnandgaon,2016-04-27,8350.0,1.4,40.0,clear
+215,Bengal Gram(Gram),Bazar Atriya ,2016-04-27,4500.0,23.0,40.0,clear
+216,Bengal Gram(Gram),Kheragarh,2016-04-27,4500.0,68.5,40.0,clear
+217,Lentil(Masur),Rajnandgaon,2016-04-27,5300.0,0.3,40.0,clear
+218,Arhar (Tur/Red Gram),Rajnandgaon,2016-04-28,8191.0,0.6,29.0,clear
+219,Lentil(Masur),Rajnandgaon,2016-04-28,5181.0,0.2,29.0,clear
+220,Arhar (Tur/Red Gram),Rajnandgaon,2016-02-05,7680.0,2.2,27.6,clear
+221,Lentil(Masur),Rajnandgaon,2016-02-05,5370.0,4.6,27.6,clear
+222,Arhar (Tur/Red Gram),Rajnandgaon,2016-04-05,7100.0,1.2,40.0,clear
+223,Bengal Gram(Gram),Dongargarh,2016-04-05,3500.0,5.0,40.0,clear
+224,Lentil(Masur),Rajnandgaon,2016-04-05,5250.0,3.9,40.0,clear
+225,Arhar (Tur/Red Gram),Rajnandgaon,2016-05-05,6900.0,0.4,39.2,clear
+226,Lentil(Masur),Rajnandgaon,2016-05-05,5100.0,2.6,39.2,clear
+227,Arhar (Tur/Red Gram),Rajnandgaon,2016-07-05,7500.0,0.8,26.0,clear
+228,Lentil(Masur),Rajnandgaon,2016-07-05,5100.0,2.3,26.0,clear
+229,Arhar (Tur/Red Gram),Rajnandgaon,2016-10-05,7000.0,0.2,29.0,clear
+230,Arhar (Tur/Red Gram),Rajnandgaon,2016-12-05,7777.0,1.3,17.0,clear
+231,Black Gram (Urd Beans),Rajnandgaon,2016-12-05,8401.0,0.4,17.0,clear
+232,Lentil(Masur),Rajnandgaon,2016-12-05,5381.0,0.6,17.0,clear
+233,Arhar (Tur/Red Gram),Rajnandgaon,2016-05-13,7700.0,0.7,31.0,clear
+234,Lentil(Masur),Rajnandgaon,2016-05-13,5402.0,2.7,31.0,clear
+235,Arhar (Tur/Red Gram),Rajnandgaon,2016-05-14,8280.0,0.9,30.2,clear
+236,Lentil(Masur),Rajnandgaon,2016-05-14,5300.0,2.1,30.2,clear
+237,Arhar (Tur/Red Gram),Rajnandgaon,2016-05-16,8280.0,3.5,42.0,clear
+238,Lentil(Masur),Rajnandgaon,2016-05-16,5300.0,0.6,42.0,clear
+239,Arhar (Tur/Red Gram),Rajnandgaon,2016-05-17,7901.0,1.2,32.2,clear
+240,Lentil(Masur),Rajnandgaon,2016-05-17,5400.0,0.6,32.2,clear
+241,Arhar (Tur/Red Gram),Rajnandgaon,2016-05-18,8390.0,1.0,42.0,clear
+242,Bengal Gram(Gram),Kheragarh,2016-05-18,5000.0,10.0,42.0,clear
+243,Lentil(Masur),Rajnandgaon,2016-05-18,5475.0,0.6,42.0,clear
+244,Arhar (Tur/Red Gram),Rajnandgaon,2016-05-19,7600.0,1.1,38.2,clear
+245,Lentil(Masur),Rajnandgaon,2016-05-19,5400.0,3.0,38.2,clear
+246,Arhar (Tur/Red Gram),Rajnandgaon,2016-05-20,7800.0,0.3,40.0,clear
+247,Lentil(Masur),Rajnandgaon,2016-05-20,5300.0,1.4,40.0,clear
+248,Arhar (Tur/Red Gram),Rajnandgaon,2016-05-24,6501.0,0.7,31.0,clear
+249,Lentil(Masur),Rajnandgaon,2016-05-24,5302.0,1.4,31.0,clear
+250,Arhar (Tur/Red Gram),Rajnandgaon,2016-05-26,7701.0,0.2,39.0,clear
+251,Lentil(Masur),Rajnandgaon,2016-05-26,5377.0,1.7,39.0,clear
+252,Arhar (Tur/Red Gram),Rajnandgaon,2016-05-27,6576.0,4.5,38.0,clear
+253,Bengal Gram(Gram),Bazar Atriya ,2016-05-27,4500.0,10.0,38.0,clear
+254,Bengal Gram(Gram),Kheragarh,2016-05-27,4500.0,1.9,38.0,clear
+255,Black Gram (Urd Beans),Rajnandgaon,2016-05-27,8410.0,0.3,38.0,clear
+256,Lentil(Masur),Rajnandgaon,2016-05-27,5400.0,1.1,38.0,clear
+257,Arhar (Tur/Red Gram),Rajnandgaon,2016-05-28,7000.0,0.1,40.0,clear
+258,Lentil(Masur),Rajnandgaon,2016-05-28,5490.0,2.4,40.0,clear
+259,Arhar (Tur/Red Gram),Rajnandgaon,2016-02-06,7801.0,0.2,28.0,clear
+260,Lentil(Masur),Rajnandgaon,2016-02-06,5400.0,1.5,28.0,clear
+261,Arhar (Tur/Red Gram),Rajnandgaon,2016-03-06,7501.0,0.6,32.0,clear
+262,Lentil(Masur),Rajnandgaon,2016-03-06,5302.0,4.4,32.0,clear
+263,Arhar (Tur/Red Gram),Rajnandgaon,2016-04-06,8080.0,1.9,29.0,clear
+264,Lentil(Masur),Rajnandgaon,2016-04-06,5460.0,1.5,29.0,clear
+265,Arhar (Tur/Red Gram),Rajnandgaon,2016-06-06,7905.0,0.1,28.6,clear
+266,Lentil(Masur),Rajnandgaon,2016-06-06,5400.0,1.0,28.6,clear
+267,Arhar (Tur/Red Gram),Rajnandgaon,2016-07-06,6500.0,0.2,25.0,clear
+268,Lentil(Masur),Rajnandgaon,2016-07-06,5426.0,0.7,25.0,clear
+269,Arhar (Tur/Red Gram),Rajnandgaon,2016-08-06,7875.0,1.2,27.0,rain
+270,Lentil(Masur),Rajnandgaon,2016-08-06,5351.0,0.6,27.0,rain
+271,Arhar (Tur/Red Gram),Rajnandgaon,2016-10-06,8000.0,0.6,29.0,clear
+272,Black Gram (Urd Beans),Rajnandgaon,2016-10-06,9400.0,0.9,29.0,clear
+273,Arhar (Tur/Red Gram),Rajnandgaon,2016-06-13,8103.0,0.9,39.2,clear
+274,Black Gram (Urd Beans),Rajnandgaon,2016-06-13,10001.0,1.5,39.2,clear
+275,Lentil(Masur),Rajnandgaon,2016-06-13,5650.0,0.1,39.2,clear
+276,Arhar (Tur/Red Gram),Rajnandgaon,2016-06-14,8225.0,0.4,39.0,clear
+277,Lentil(Masur),Rajnandgaon,2016-06-14,5650.0,1.1,39.0,clear
+278,Arhar (Tur/Red Gram),Rajnandgaon,2016-06-15,8100.0,0.1,30.0,clear
+279,Black Gram (Urd Beans),Rajnandgaon,2016-06-15,10000.0,1.9,30.0,clear
+280,Lentil(Masur),Rajnandgaon,2016-06-15,5650.0,1.1,30.0,clear
+281,Arhar (Tur/Red Gram),Rajnandgaon,2016-06-16,8000.0,1.1,33.0,clear
+282,Black Gram (Urd Beans),Rajnandgaon,2016-06-16,9701.0,2.4,33.0,clear
+283,Lentil(Masur),Rajnandgaon,2016-06-16,5580.0,0.3,33.0,clear
+284,Arhar (Tur/Red Gram),Rajnandgaon,2016-06-17,7801.0,0.8,30.0,clear
+285,Bengal Gram(Gram),Dongargarh,2016-06-17,3425.0,2.0,30.0,clear
+286,Bengal Gram(Gram),Kheragarh,2016-06-17,4500.0,10.0,30.0,clear
+287,Black Gram (Urd Beans),Rajnandgaon,2016-06-17,10500.0,0.2,30.0,clear
+288,Lentil(Masur),Rajnandgaon,2016-06-17,5551.0,0.4,30.0,clear
+289,Arhar (Tur/Red Gram),Rajnandgaon,2016-06-21,7500.0,0.8,36.0,clear
+290,Black Gram (Urd Beans),Rajnandgaon,2016-06-21,10200.0,1.3,36.0,clear
+291,Lentil(Masur),Rajnandgaon,2016-06-21,5531.0,1.3,36.0,clear
+292,Arhar (Tur/Red Gram),Rajnandgaon,2016-06-22,7900.0,1.5,37.0,clear
+293,Black Gram (Urd Beans),Rajnandgaon,2016-06-22,9800.0,3.8,37.0,clear
+294,Lentil(Masur),Rajnandgaon,2016-06-22,5600.0,1.1,37.0,clear
+295,Arhar (Tur/Red Gram),Rajnandgaon,2016-06-23,7521.0,2.0,37.0,clear
+296,Lentil(Masur),Rajnandgaon,2016-06-23,5490.0,0.9,37.0,clear
+297,Arhar (Tur/Red Gram),Rajnandgaon,2016-06-24,7752.0,2.8,34.0,clear
+298,Lentil(Masur),Rajnandgaon,2016-06-24,5300.0,0.2,34.0,clear
+299,Arhar (Tur/Red Gram),Rajnandgaon,2016-06-27,8255.0,0.9,35.0,clear
+300,Lentil(Masur),Rajnandgaon,2016-06-27,4530.0,0.1,35.0,clear
+301,Arhar (Tur/Red Gram),Rajnandgaon,2016-06-28,8000.0,0.4,33.0,clear
+302,Lentil(Masur),Rajnandgaon,2016-06-28,5401.0,1.1,33.0,clear
+303,Arhar (Tur/Red Gram),Rajnandgaon,2016-06-29,8150.0,1.3,34.0,clear
+304,Bengal Gram(Gram),Kheragarh,2016-06-29,4500.0,10.0,34.0,clear
+305,Black Gram (Urd Beans),Rajnandgaon,2016-06-29,7500.0,0.2,34.0,clear
+306,Lentil(Masur),Rajnandgaon,2016-06-29,5400.0,0.4,34.0,clear
+307,Arhar (Tur/Red Gram),Rajnandgaon,2016-06-30,8100.0,4.0,34.0,clear
+308,Black Gram (Urd Beans),Rajnandgaon,2016-06-30,9850.0,9.5,34.0,clear
+309,Lentil(Masur),Rajnandgaon,2016-06-30,5450.0,2.7,34.0,clear
+310,Arhar (Tur/Red Gram),Rajnandgaon,2016-08-07,7900.0,1.0,25.0,clear
+311,Black Gram (Urd Beans),Rajnandgaon,2016-08-07,10341.0,0.1,25.0,clear
+312,Lentil(Masur),Rajnandgaon,2016-08-07,5500.0,0.2,25.0,clear
+313,Arhar (Tur/Red Gram),Rajnandgaon,2016-09-07,7901.0,0.8,29.0,clear
+314,Black Gram (Urd Beans),Rajnandgaon,2016-09-07,10476.0,0.4,29.0,clear
+315,Lentil(Masur),Rajnandgaon,2016-09-07,5100.0,0.1,29.0,clear
+316,Arhar (Tur/Red Gram),Rajnandgaon,2016-12-07,8152.0,0.2,26.0,clear
+317,Black Gram (Urd Beans),Rajnandgaon,2016-12-07,10430.0,0.2,26.0,clear
+318,Lentil(Masur),Rajnandgaon,2016-12-07,5850.0,0.1,26.0,clear
+319,Arhar (Tur/Red Gram),Rajnandgaon,2016-07-13,8152.0,1.0,28.0,clear
+320,Black Gram (Urd Beans),Rajnandgaon,2016-07-13,10430.0,0.2,28.0,clear
+321,Lentil(Masur),Rajnandgaon,2016-07-13,5850.0,0.8,28.0,clear
+322,Arhar (Tur/Red Gram),Rajnandgaon,2016-07-14,8000.0,0.4,31.0,clear
+323,Black Gram (Urd Beans),Rajnandgaon,2016-07-14,10500.0,0.1,31.0,clear
+324,Lentil(Masur),Rajnandgaon,2016-07-14,5801.0,1.1,31.0,clear
+325,Arhar (Tur/Red Gram),Rajnandgaon,2016-07-15,8052.0,2.0,30.0,clear
+326,Black Gram (Urd Beans),Rajnandgaon,2016-07-15,10300.0,0.1,30.0,clear
+327,Lentil(Masur),Rajnandgaon,2016-07-15,5701.0,7.4,30.0,clear
+328,Arhar (Tur/Red Gram),Rajnandgaon,2016-07-16,7300.0,0.1,26.2,clear
+329,Black Gram (Urd Beans),Rajnandgaon,2016-07-16,10350.0,0.1,26.2,clear
+330,Lentil(Masur),Rajnandgaon,2016-07-16,5650.0,0.5,26.2,clear
+331,Arhar (Tur/Red Gram),Rajnandgaon,2016-07-19,6050.0,0.2,28.0,clear
+332,Black Gram (Urd Beans),Rajnandgaon,2016-07-19,10370.0,0.3,28.0,clear
+333,Arhar (Tur/Red Gram),Rajnandgaon,2016-07-23,7200.0,250.5,29.0,clear
+334,Black Gram (Urd Beans),Rajnandgaon,2016-07-23,10101.0,0.6,29.0,clear
+335,Lentil(Masur),Rajnandgaon,2016-07-23,5250.0,0.1,29.0,clear
+336,Arhar (Tur/Red Gram),Rajnandgaon,2016-07-25,7450.0,0.5,30.0,clear
+337,Lentil(Masur),Rajnandgaon,2016-07-25,5700.0,0.9,30.0,clear
+338,Arhar (Tur/Red Gram),Rajnandgaon,2016-07-26,7251.0,0.1,29.0,clear
+339,Black Gram (Urd Beans),Rajnandgaon,2016-07-26,9800.0,0.3,29.0,clear
+340,Arhar (Tur/Red Gram),Rajnandgaon,2016-07-27,5300.0,0.3,29.0,clear
+341,Lentil(Masur),Rajnandgaon,2016-07-27,5300.0,0.1,29.0,clear
+342,Arhar (Tur/Red Gram),Rajnandgaon,2016-05-08,6450.0,0.4,29.0,clear
+343,Arhar (Tur/Red Gram),Rajnandgaon,2016-06-08,6551.0,4.2,37.0,clear
+344,Arhar (Tur/Red Gram),Rajnandgaon,2016-08-08,5800.0,0.2,30.0,clear
+345,Black Gram (Urd Beans),Rajnandgaon,2016-08-08,8901.0,0.5,30.0,clear
+346,Arhar (Tur/Red Gram),Rajnandgaon,2016-09-08,6101.0,1.4,29.0,clear
+347,Lentil(Masur),Rajnandgaon,2016-09-08,3800.0,0.1,29.0,clear
+348,Arhar (Tur/Red Gram),Rajnandgaon,2016-10-08,6302.0,0.6,24.0,clear
+349,Black Gram (Urd Beans),Rajnandgaon,2016-10-08,8500.0,0.1,24.0,clear
+350,Lentil(Masur),Rajnandgaon,2016-10-08,5511.0,0.1,24.0,clear
+351,Arhar (Tur/Red Gram),Rajnandgaon,2016-08-13,5601.0,0.2,29.1,clear
+352,Arhar (Tur/Red Gram),Rajnandgaon,2016-08-17,4500.0,0.3,29.0,clear
+353,Arhar (Tur/Red Gram),Rajnandgaon,2016-08-24,5000.0,1.4,29.0,clear
+354,Arhar (Tur/Red Gram),Rajnandgaon,2016-08-27,4700.0,0.1,29.0,clear
+355,Black Gram (Urd Beans),Rajnandgaon,2016-08-27,8800.0,0.2,29.0,clear
+356,Arhar (Tur/Red Gram),Rajnandgaon,2016-02-09,5350.0,1.1,21.6,clear
+357,Black Gram (Urd Beans),Rajnandgaon,2016-02-09,8701.0,0.6,21.6,clear
+358,Arhar (Tur/Red Gram),Rajnandgaon,2016-06-09,5400.0,0.9,37.0,clear
+359,Lentil(Masur),Rajnandgaon,2016-06-09,4803.0,0.3,37.0,clear
+360,Arhar (Tur/Red Gram),Rajnandgaon,2016-08-09,5001.0,0.2,29.0,clear
+361,Black Gram (Urd Beans),Rajnandgaon,2016-08-09,8000.0,0.1,29.0,clear
+362,Arhar (Tur/Red Gram),Rajnandgaon,2016-09-09,5201.0,0.3,26.0,clear
+363,Arhar (Tur/Red Gram),Rajnandgaon,2016-10-09,4200.0,0.7,26.0,clear
+364,Arhar (Tur/Red Gram),Rajnandgaon,2016-12-09,5000.0,0.1,25.0,clear
+365,Arhar (Tur/Red Gram),Rajnandgaon,2016-09-19,4801.0,0.1,30.0,clear
+366,Lentil(Masur),Rajnandgaon,2016-09-19,5000.0,0.1,30.0,clear
+367,Arhar (Tur/Red Gram),Rajnandgaon,2016-09-20,5500.0,0.1,28.0,clear
+368,Lentil(Masur),Rajnandgaon,2016-09-20,4551.0,0.7,28.0,clear
+369,Arhar (Tur/Red Gram),Rajnandgaon,2016-09-23,5700.0,0.7,29.0,clear
+370,Black Gram (Urd Beans),Rajnandgaon,2016-09-23,5502.0,0.2,29.0,clear
+371,Lentil(Masur),Rajnandgaon,2016-09-23,5171.0,0.1,29.0,clear
+372,Arhar (Tur/Red Gram),Rajnandgaon,2016-09-28,5900.0,0.2,29.0,clear
+373,Black Gram (Urd Beans),Rajnandgaon,2016-09-28,6180.0,2.2,29.0,clear
+374,Arhar (Tur/Red Gram),Rajnandgaon,2016-09-29,5511.0,0.9,26.0,clear
+375,Black Gram (Urd Beans),Rajnandgaon,2016-09-29,6801.0,0.1,26.0,clear
+376,Arhar (Tur/Red Gram),Rajnandgaon,2016-09-30,5825.0,0.8,26.0,clear
+377,Black Gram (Urd Beans),Rajnandgaon,2016-09-30,5901.0,2.6,26.0,clear
+378,Lentil(Masur),Rajnandgaon,2016-09-30,5171.0,0.1,26.0,clear
+379,Arhar (Tur/Red Gram),Rajnandgaon,2016-04-10,6405.0,0.9,38.2,clear
+380,Black Gram (Urd Beans),Rajnandgaon,2016-04-10,6281.0,1.3,38.2,clear
+381,Lentil(Masur),Rajnandgaon,2016-04-10,5100.0,0.1,38.2,clear
+382,Arhar (Tur/Red Gram),Rajnandgaon,2016-05-10,5900.0,0.2,38.0,clear
+383,Black Gram (Urd Beans),Rajnandgaon,2016-05-10,6100.0,3.4,38.0,clear
+384,Lentil(Masur),Rajnandgaon,2016-05-10,5556.0,0.2,38.0,clear
+385,Arhar (Tur/Red Gram),Rajnandgaon,2016-08-10,5458.0,0.5,25.0,clear
+386,Black Gram (Urd Beans),Rajnandgaon,2016-08-10,5562.0,3.4,25.0,clear
+387,Arhar (Tur/Red Gram),Rajnandgaon,2016-10-13,5203.0,0.5,26.0,clear
+388,Black Gram (Urd Beans),Rajnandgaon,2016-10-13,5801.0,9.8,26.0,clear
+389,Arhar (Tur/Red Gram),Rajnandgaon,2016-10-14,4801.0,0.1,29.0,clear
+390,Black Gram (Urd Beans),Rajnandgaon,2016-10-14,5465.0,4.1,29.0,clear
+391,Lentil(Masur),Rajnandgaon,2016-10-14,5210.0,0.4,29.0,clear
+392,Arhar (Tur/Red Gram),Rajnandgaon,2016-10-17,4545.0,0.1,29.0,clear
+393,Black Gram (Urd Beans),Rajnandgaon,2016-10-17,5200.0,10.0,29.0,clear
+394,Arhar (Tur/Red Gram),Rajnandgaon,2016-10-18,4001.0,0.1,22.0,clear
+395,Black Gram (Urd Beans),Rajnandgaon,2016-10-18,5200.0,16.7,22.0,clear
+396,Lentil(Masur),Rajnandgaon,2016-10-18,5200.0,0.4,22.0,clear
+397,Arhar (Tur/Red Gram),Rajnandgaon,2016-10-19,5757.0,0.7,29.2,clear
+398,Black Gram (Urd Beans),Rajnandgaon,2016-10-19,5221.0,8.2,29.2,clear
+399,Lentil(Masur),Rajnandgaon,2016-10-19,5252.0,1.0,29.2,clear
+400,Arhar (Tur/Red Gram),Rajnandgaon,2016-10-24,4780.0,0.2,21.0,clear
+401,Black Gram (Urd Beans),Rajnandgaon,2016-10-24,5600.0,5.6,21.0,clear
+402,Lentil(Masur),Rajnandgaon,2016-10-24,4550.0,0.2,21.0,clear
+403,Arhar (Tur/Red Gram),Rajnandgaon,2016-10-25,4700.0,0.1,21.0,clear
+404,Black Gram (Urd Beans),Rajnandgaon,2016-10-25,4600.0,1.2,21.0,clear
+405,Lentil(Masur),Rajnandgaon,2016-10-25,5025.0,0.5,21.0,clear
+406,Arhar (Tur/Red Gram),Rajnandgaon,2016-09-11,4501.0,0.5,29.0,rain
+407,Lentil(Masur),Rajnandgaon,2016-09-11,5258.0,0.5,29.0,rain
+408,Arhar (Tur/Red Gram),Rajnandgaon,2016-11-30,4501.0,3.1,16.0,clear
+409,Black Gram (Urd Beans),Rajnandgaon,2016-11-30,4830.0,0.2,16.0,clear
+410,Arhar (Tur/Red Gram),Rajnandgaon,2016-12-23,3000.0,0.1,22.0,clear
+411,Black Gram (Urd Beans),Rajnandgaon,2016-12-23,3700.0,0.9,22.0,clear
+412,Arhar (Tur/Red Gram),Rajnandgaon,2016-12-28,3650.0,0.2,22.0,clear
+413,Bengal Gram(Gram),Bazar Atriya ,2016-03-31,4000.0,50.0,37.2,clear
+414,Bengal Gram(Gram),Kheragarh,2016-03-31,4000.0,1481.0,37.2,clear
+415,Bengal Gram(Gram),Dongargarh,2016-04-13,3500.0,150.0,40.2,clear
+416,Bengal Gram(Gram),Kheragarh,2016-11-15,5000.0,5.0,17.0,clear
+417,Bengal Gram(Gram),Kheragarh,2016-11-22,7000.0,25.0,15.0,clear
+418,Black Gram (Urd Beans),Gandai,2016-12-29,4000.0,3.0,22.0,clear
+419,Black Gram (Urd Beans),Rajnandgaon,2016-09-06,9001.0,0.2,29.0,clear
+420,Black Gram (Urd Beans),Rajnandgaon,2016-06-18,9800.0,4.0,33.0,clear
+421,Lentil(Masur),Rajnandgaon,2016-06-18,5500.0,1.2,33.0,clear
+422,Black Gram (Urd Beans),Rajnandgaon,2016-06-25,10016.0,0.1,26.0,clear
+423,Lentil(Masur),Rajnandgaon,2016-06-25,5405.0,0.1,26.0,clear
+424,Black Gram (Urd Beans),Rajnandgaon,2016-07-29,9400.0,0.3,29.0,clear
+425,Lentil(Masur),Rajnandgaon,2016-07-29,5651.0,0.1,29.0,clear
+426,Black Gram (Urd Beans),Rajnandgaon,2016-08-29,9200.0,1.5,29.0,clear
+427,Black Gram (Urd Beans),Rajnandgaon,2016-09-27,6510.0,0.3,29.0,clear
+428,Black Gram (Urd Beans),Rajnandgaon,2016-01-10,5860.0,0.6,26.2,clear
+429,Black Gram (Urd Beans),Rajnandgaon,2016-03-10,5760.0,0.2,36.2,clear
+430,Black Gram (Urd Beans),Rajnandgaon,2016-06-10,5800.0,1.0,39.0,clear
+431,Black Gram (Urd Beans),Rajnandgaon,2016-07-10,5351.0,3.8,26.0,clear
+432,Lentil(Masur),Rajnandgaon,2016-07-10,5251.0,0.1,26.0,clear
+433,Black Gram (Urd Beans),Rajnandgaon,2016-04-11,3301.0,0.2,38.2,clear
+434,Black Gram (Urd Beans),Rajnandgaon,2016-05-11,3940.0,1.5,35.6,clear
+435,Lentil(Masur),Rajnandgaon,2016-05-11,5651.0,0.1,35.6,clear
+436,Black Gram (Urd Beans),Rajnandgaon,2016-07-11,4501.0,0.1,26.2,clear
+437,Black Gram (Urd Beans),Rajnandgaon,2016-08-11,3700.0,0.2,29.0,clear
+438,Lentil(Masur),Rajnandgaon,2016-08-11,5101.0,0.1,29.0,clear
+439,Black Gram (Urd Beans),Rajnandgaon,2016-02-12,3800.0,0.1,29.4,clear
+440,Black Gram (Urd Beans),Rajnandgaon,2016-05-12,3800.0,0.1,40.0,clear
+441,Black Gram (Urd Beans),Rajnandgaon,2016-06-12,3500.0,0.6,40.0,clear
+442,Black Gram (Urd Beans),Rajnandgaon,2016-07-12,3500.0,0.1,30.0,clear
+443,Black Gram (Urd Beans),Rajnandgaon,2016-08-12,3250.0,0.2,29.0,clear
+444,Black Gram (Urd Beans),Rajnandgaon,2016-09-12,2750.0,0.1,28.0,clear
+445,Lentil(Masur),Rajnandgaon,2016-09-12,4199.0,0.1,28.0,clear
+446,Black Gram (Urd Beans),Rajnandgaon,2016-10-12,2800.0,0.1,30.0,clear
+447,Black Gram (Urd Beans),Rajnandgaon,2016-12-17,3500.0,1.5,13.0,clear
+448,Black Gram (Urd Beans),Rajnandgaon,2016-12-22,3400.0,0.2,11.0,clear
+449,Lentil(Masur),Rajnandgaon,2016-12-22,3400.0,0.2,11.0,clear
+450,Black Gram (Urd Beans),Rajnandgaon,2016-12-24,3400.0,0.3,22.0,clear
+451,Black Gram (Urd Beans),Rajnandgaon,2016-12-26,3800.0,0.3,23.0,clear
+452,Lentil(Masur),Rajnandgaon,2016-12-26,3800.0,0.9,23.0,clear
+453,Lentil(Masur),Rajnandgaon,2016-02-23,4380.0,0.2,32.0,clear
+454,Lentil(Masur),Rajnandgaon,2016-03-28,4898.0,0.8,23.2,clear
+455,Lentil(Masur),Rajnandgaon,2016-04-29,5300.0,1.3,41.0,clear
+456,Lentil(Masur),Rajnandgaon,2016-05-25,5302.0,0.5,39.0,clear
+457,Lentil(Masur),Rajnandgaon,2016-05-30,5102.0,0.5,41.2,clear
+458,Lentil(Masur),Rajnandgaon,2016-01-06,5476.0,2.1,26.4,clear
+459,Lentil(Masur),Rajnandgaon,2016-07-28,5200.0,0.8,29.0,clear
+460,Lentil(Masur),Rajnandgaon,2016-03-08,5450.0,1.4,33.0,clear
+461,Lentil(Masur),Rajnandgaon,2016-04-08,4403.0,0.1,28.2,clear
+462,Lentil(Masur),Rajnandgaon,2016-08-16,4900.0,0.1,29.0,clear
+463,Lentil(Masur),Rajnandgaon,2016-08-23,5101.0,0.1,29.0,clear
+464,Lentil(Masur),Rajnandgaon,2016-09-21,5101.0,0.7,30.0,clear
+465,Lentil(Masur),Rajnandgaon,2016-10-26,5200.0,0.4,28.0,clear
+466,Lentil(Masur),Rajnandgaon,2016-12-19,3850.0,0.2,23.0,clear
+467,Lentil(Masur),Rajnandgaon,2016-12-21,3801.0,0.1,23.0,clear
+468,Arhar (Tur/Red Gram),Bazar Atriya ,2017-03-27,4200.0,3.0,38.0,clear
+469,Arhar (Tur/Red Gram),Gandai,2017-03-27,4400.0,45.0,38.0,clear
+470,Arhar (Tur/Red Gram),Rajnandgaon,2017-03-27,4400.0,1.3,38.0,clear
+471,Black Gram (Urd Beans),Rajnandgaon,2017-03-27,4377.0,0.7,38.0,clear
+472,Lentil(Masur),Rajnandgaon,2017-03-27,4550.0,12.6,38.0,clear
+473,Arhar (Tur/Red Gram),Bazar Atriya ,2017-03-31,4200.0,13.0,39.2,clear
+474,Arhar (Tur/Red Gram),Gandai,2017-03-31,4500.0,252.1,39.2,clear
+475,Arhar (Tur/Red Gram),Kheragarh,2017-03-31,4200.0,5.0,39.2,clear
+476,Arhar (Tur/Red Gram),Rajnandgaon,2017-03-31,4052.0,36.3,39.2,clear
+477,Bengal Gram(Gram),Kheragarh,2017-03-31,4500.0,85.7,39.2,clear
+478,Black Gram (Urd Beans),Rajnandgaon,2017-03-31,4031.0,2.6,39.2,clear
+479,Lentil(Masur),Rajnandgaon,2017-03-31,4526.0,6.7,39.2,clear
+480,Arhar (Tur/Red Gram),Bazar Atriya ,2017-05-31,3600.0,8.0,39.0,clear
+481,Arhar (Tur/Red Gram),Gandai,2017-05-31,5600.0,51.4,39.0,clear
+482,Arhar (Tur/Red Gram),Rajnandgaon,2017-05-31,3270.0,0.3,39.0,clear
+483,Bengal Gram(Gram),Kheragarh,2017-05-31,5500.0,127.6,39.0,clear
+484,Lentil(Masur),Rajnandgaon,2017-05-31,3221.0,0.1,39.0,clear
+485,Arhar (Tur/Red Gram),Bazar Atriya ,2017-06-30,3600.0,8.0,32.2,clear
+486,Arhar (Tur/Red Gram),Gandai,2017-06-30,5400.0,129.1,32.2,clear
+487,Arhar (Tur/Red Gram),Kheragarh,2017-06-30,3600.0,22.5,32.2,clear
+488,Bengal Gram(Gram),Bazar Atriya ,2017-06-30,4900.0,22.4,32.2,clear
+489,Bengal Gram(Gram),Kheragarh,2017-06-30,4900.0,143.3,32.2,clear
+490,Arhar (Tur/Red Gram),Gandai,2017-02-17,4000.0,50.0,28.2,clear
+491,Arhar (Tur/Red Gram),Rajnandgaon,2017-02-17,3950.0,1.9,28.2,clear
+492,Lentil(Masur),Rajnandgaon,2017-02-17,3750.0,0.1,28.2,clear
+493,Arhar (Tur/Red Gram),Gandai,2017-02-21,4750.0,12.0,32.2,clear
+494,Arhar (Tur/Red Gram),Rajnandgaon,2017-02-21,3953.0,1.4,32.2,clear
+495,Lentil(Masur),Rajnandgaon,2017-02-21,3913.0,0.8,32.2,clear
+496,Arhar (Tur/Red Gram),Gandai,2017-02-23,4730.0,23.5,32.2,clear
+497,Arhar (Tur/Red Gram),Rajnandgaon,2017-02-23,3780.0,2.6,32.2,clear
+498,Bengal Gram(Gram),Kheragarh,2017-02-23,4500.0,12.0,32.2,clear
+499,Black Gram (Urd Beans),Rajnandgaon,2017-02-23,3401.0,0.4,32.2,clear
+500,Lentil(Masur),Rajnandgaon,2017-02-23,3585.0,2.1,32.2,clear
+501,Arhar (Tur/Red Gram),Gandai,2017-02-25,4000.0,12.0,30.0,clear
+502,Arhar (Tur/Red Gram),Rajnandgaon,2017-02-25,3785.0,1.6,30.0,clear
+503,Black Gram (Urd Beans),Rajnandgaon,2017-02-25,3500.0,0.5,30.0,clear
+504,Lentil(Masur),Rajnandgaon,2017-02-25,3715.0,0.9,30.0,clear
+505,Arhar (Tur/Red Gram),Gandai,2017-01-03,3800.0,10.5,22.0,clear
+506,Arhar (Tur/Red Gram),Rajnandgaon,2017-01-03,3800.0,0.5,22.0,clear
+507,Lentil(Masur),Rajnandgaon,2017-01-03,3517.0,3.5,22.0,clear
+508,Arhar (Tur/Red Gram),Gandai,2017-02-03,3900.0,21.0,27.0,clear
+509,Arhar (Tur/Red Gram),Rajnandgaon,2017-02-03,3800.0,0.5,27.0,clear
+510,Lentil(Masur),Rajnandgaon,2017-02-03,3741.0,6.8,27.0,clear
+511,Arhar (Tur/Red Gram),Gandai,2017-04-03,3800.0,12.5,39.2,clear
+512,Arhar (Tur/Red Gram),Rajnandgaon,2017-04-03,3990.0,2.7,39.2,clear
+513,Black Gram (Urd Beans),Rajnandgaon,2017-04-03,3700.0,0.2,39.2,clear
+514,Lentil(Masur),Rajnandgaon,2017-04-03,3825.0,2.7,39.2,clear
+515,Arhar (Tur/Red Gram),Gandai,2017-07-03,4000.0,21.0,26.4,clear
+516,Arhar (Tur/Red Gram),Rajnandgaon,2017-07-03,4050.0,1.6,26.4,clear
+517,Lentil(Masur),Rajnandgaon,2017-07-03,3863.0,4.5,26.4,clear
+518,Arhar (Tur/Red Gram),Gandai,2017-09-03,4000.0,21.0,31.0,clear
+519,Arhar (Tur/Red Gram),Gandai,2017-10-03,4000.0,66.0,29.0,clear
+520,Arhar (Tur/Red Gram),Gandai,2017-11-03,3900.0,48.0,23.0,clear
+521,Lentil(Masur),Rajnandgaon,2017-11-03,3901.0,0.3,23.0,clear
+522,Arhar (Tur/Red Gram),Gandai,2017-03-14,4500.0,10.0,31.8,clear
+523,Arhar (Tur/Red Gram),Gandai,2017-03-15,4500.0,11.0,31.8,clear
+524,Arhar (Tur/Red Gram),Gandai,2017-03-20,4300.0,34.0,32.8,clear
+525,Arhar (Tur/Red Gram),Kheragarh,2017-03-20,4200.0,8.0,32.8,clear
+526,Arhar (Tur/Red Gram),Rajnandgaon,2017-03-20,4250.0,0.2,32.8,clear
+527,Bengal Gram(Gram),Bazar Atriya ,2017-03-20,4700.0,12.7,32.8,clear
+528,Bengal Gram(Gram),Dongargarh,2017-03-20,4550.0,4.0,32.8,clear
+529,Bengal Gram(Gram),Kheragarh,2017-03-20,4700.0,55.6,32.8,clear
+530,Lentil(Masur),Rajnandgaon,2017-03-20,4150.0,1.4,32.8,clear
+531,Arhar (Tur/Red Gram),Gandai,2017-03-21,4400.0,22.0,33.4,clear
+532,Arhar (Tur/Red Gram),Kheragarh,2017-03-21,4000.0,26.0,33.4,clear
+533,Arhar (Tur/Red Gram),Rajnandgaon,2017-03-21,4343.0,1.1,33.4,clear
+534,Bengal Gram(Gram),Bazar Atriya ,2017-03-21,4700.0,28.0,33.4,clear
+535,Bengal Gram(Gram),Kheragarh,2017-03-21,4700.0,116.7,33.4,clear
+536,Lentil(Masur),Rajnandgaon,2017-03-21,4230.0,2.9,33.4,clear
+537,Arhar (Tur/Red Gram),Gandai,2017-03-22,4400.0,99.5,32.3,clear
+538,Arhar (Tur/Red Gram),Rajnandgaon,2017-03-22,4325.0,15.4,32.3,clear
+539,Bengal Gram(Gram),Dongargarh,2017-03-22,4550.0,18.0,32.3,clear
+540,Lentil(Masur),Rajnandgaon,2017-03-22,4425.0,5.1,32.3,clear
+541,Arhar (Tur/Red Gram),Gandai,2017-03-25,4200.0,11.5,31.0,clear
+542,Arhar (Tur/Red Gram),Rajnandgaon,2017-03-25,4600.0,11.6,31.0,clear
+543,Lentil(Masur),Rajnandgaon,2017-03-25,4600.0,7.5,31.0,clear
+544,Arhar (Tur/Red Gram),Gandai,2017-03-28,4200.0,10.0,36.8,clear
+545,Arhar (Tur/Red Gram),Rajnandgaon,2017-03-28,4151.0,2.3,36.8,clear
+546,Bengal Gram(Gram),Dongargarh,2017-03-28,4550.0,4.0,36.8,clear
+547,Lentil(Masur),Rajnandgaon,2017-03-28,4450.0,4.8,36.8,clear
+548,Arhar (Tur/Red Gram),Gandai,2017-01-04,5100.0,8.0,22.0,clear
+549,Arhar (Tur/Red Gram),Rajnandgaon,2017-01-04,4321.0,3.0,22.0,clear
+550,Lentil(Masur),Rajnandgaon,2017-01-04,4505.0,6.2,22.0,clear
+551,Arhar (Tur/Red Gram),Gandai,2017-03-04,5100.0,12.0,32.2,clear
+552,Arhar (Tur/Red Gram),Rajnandgaon,2017-03-04,4350.0,3.2,32.2,clear
+553,Lentil(Masur),Rajnandgaon,2017-03-04,4470.0,3.6,32.2,clear
+554,Arhar (Tur/Red Gram),Gandai,2017-05-04,5500.0,21.1,40.2,clear
+555,Arhar (Tur/Red Gram),Gandai,2017-06-04,5500.0,18.0,40.2,clear
+556,Arhar (Tur/Red Gram),Rajnandgaon,2017-06-04,4135.0,0.6,40.2,clear
+557,Lentil(Masur),Rajnandgaon,2017-06-04,4400.0,4.0,40.2,clear
+558,Arhar (Tur/Red Gram),Gandai,2017-08-04,5500.0,10.0,27.2,clear
+559,Arhar (Tur/Red Gram),Rajnandgaon,2017-08-04,4200.0,3.3,27.2,clear
+560,Black Gram (Urd Beans),Rajnandgaon,2017-08-04,4100.0,1.2,27.2,clear
+561,Lentil(Masur),Rajnandgaon,2017-08-04,4150.0,1.9,27.2,clear
+562,Arhar (Tur/Red Gram),Gandai,2017-04-13,5500.0,55.0,39.0,clear
+563,Arhar (Tur/Red Gram),Rajnandgaon,2017-04-13,3900.0,2.6,39.0,clear
+564,Bengal Gram(Gram),Dongargarh,2017-04-13,5750.0,3.9,39.0,clear
+565,Lentil(Masur),Rajnandgaon,2017-04-13,4202.0,4.7,39.0,clear
+566,Arhar (Tur/Red Gram),Gandai,2017-04-17,4100.0,9.0,41.0,clear
+567,Arhar (Tur/Red Gram),Rajnandgaon,2017-04-17,3998.0,3.2,41.0,clear
+568,Black Gram (Urd Beans),Rajnandgaon,2017-04-17,3900.0,1.0,41.0,clear
+569,Lentil(Masur),Rajnandgaon,2017-04-17,3900.0,1.1,41.0,clear
+570,Arhar (Tur/Red Gram),Gandai,2017-04-19,4900.0,11.0,41.8,clear
+571,Arhar (Tur/Red Gram),Rajnandgaon,2017-04-19,3900.0,2.0,41.8,clear
+572,Lentil(Masur),Rajnandgaon,2017-04-19,3900.0,0.6,41.8,clear
+573,Arhar (Tur/Red Gram),Gandai,2017-04-20,4900.0,34.5,40.2,clear
+574,Arhar (Tur/Red Gram),Rajnandgaon,2017-04-20,4003.0,1.2,40.2,clear
+575,Bengal Gram(Gram),Kheragarh,2017-04-20,5600.0,40.0,40.2,clear
+576,Lentil(Masur),Rajnandgaon,2017-04-20,4075.0,1.1,40.2,clear
+577,Arhar (Tur/Red Gram),Gandai,2017-04-26,4900.0,87.0,39.8,clear
+578,Arhar (Tur/Red Gram),Gandai,2017-04-29,5000.0,52.1,39.2,clear
+579,Bengal Gram(Gram),Kheragarh,2017-04-29,5500.0,25.7,39.2,clear
+580,Arhar (Tur/Red Gram),Gandai,2017-05-05,5600.0,15.0,41.8,clear
+581,Arhar (Tur/Red Gram),Rajnandgaon,2017-05-05,3426.0,0.7,41.8,clear
+582,Lentil(Masur),Rajnandgaon,2017-05-05,3700.0,2.8,41.8,clear
+583,Arhar (Tur/Red Gram),Gandai,2017-06-05,5600.0,10.0,32.6,rain
+584,Arhar (Tur/Red Gram),Gandai,2017-05-15,5600.0,25.1,40.2,clear
+585,Arhar (Tur/Red Gram),Rajnandgaon,2017-05-15,3860.0,0.9,40.2,clear
+586,Lentil(Masur),Rajnandgaon,2017-05-15,3880.0,7.3,40.2,clear
+587,Arhar (Tur/Red Gram),Gandai,2017-05-16,5600.0,26.0,41.2,clear
+588,Arhar (Tur/Red Gram),Rajnandgaon,2017-05-16,3800.0,1.2,41.2,clear
+589,Lentil(Masur),Rajnandgaon,2017-05-16,3800.0,6.2,41.2,clear
+590,Arhar (Tur/Red Gram),Gandai,2017-05-22,5600.0,91.1,43.2,clear
+591,Arhar (Tur/Red Gram),Rajnandgaon,2017-05-22,3622.0,2.5,43.2,clear
+592,Lentil(Masur),Rajnandgaon,2017-05-22,3715.0,8.3,43.2,clear
+593,Arhar (Tur/Red Gram),Gandai,2017-05-27,5600.0,43.0,36.0,clear
+594,Arhar (Tur/Red Gram),Rajnandgaon,2017-05-27,3712.0,0.1,36.0,clear
+595,Black Gram (Urd Beans),Rajnandgaon,2017-05-27,4000.0,0.1,36.0,clear
+596,Lentil(Masur),Rajnandgaon,2017-05-27,3610.0,2.2,36.0,clear
+597,Arhar (Tur/Red Gram),Gandai,2017-05-29,5600.0,55.0,32.0,clear
+598,Arhar (Tur/Red Gram),Rajnandgaon,2017-05-29,3299.0,0.4,32.0,clear
+599,Lentil(Masur),Rajnandgaon,2017-05-29,3471.0,4.5,32.0,clear
+600,Arhar (Tur/Red Gram),Gandai,2017-01-06,5500.0,10.0,20.0,clear
+601,Arhar (Tur/Red Gram),Rajnandgaon,2017-01-06,3401.0,4.6,20.0,clear
+602,Bengal Gram(Gram),Kheragarh,2017-01-06,5000.0,4.0,20.0,clear
+603,Lentil(Masur),Rajnandgaon,2017-01-06,3300.0,8.1,20.0,clear
+604,Arhar (Tur/Red Gram),Gandai,2017-02-06,5500.0,11.0,26.8,clear
+605,Arhar (Tur/Red Gram),Rajnandgaon,2017-02-06,3280.0,4.3,26.8,clear
+606,Black Gram (Urd Beans),Rajnandgaon,2017-02-06,3701.0,0.2,26.8,clear
+607,Lentil(Masur),Rajnandgaon,2017-02-06,3350.0,2.6,26.8,clear
+608,Arhar (Tur/Red Gram),Gandai,2017-07-06,4500.0,29.5,29.0,clear
+609,Arhar (Tur/Red Gram),Rajnandgaon,2017-07-06,3530.0,1.7,29.0,clear
+610,Lentil(Masur),Rajnandgaon,2017-07-06,3380.0,1.9,29.0,clear
+611,Arhar (Tur/Red Gram),Gandai,2017-06-15,5400.0,21.0,27.2,clear
+612,Arhar (Tur/Red Gram),Rajnandgaon,2017-06-15,3550.0,2.1,27.2,clear
+613,Black Gram (Urd Beans),Rajnandgaon,2017-06-15,4200.0,0.2,27.2,clear
+614,Lentil(Masur),Rajnandgaon,2017-06-15,3550.0,3.4,27.2,clear
+615,Arhar (Tur/Red Gram),Gandai,2017-06-19,5400.0,15.4,38.2,clear
+616,Arhar (Tur/Red Gram),Rajnandgaon,2017-06-19,3476.0,0.2,38.2,clear
+617,Lentil(Masur),Rajnandgaon,2017-06-19,3420.0,4.0,38.2,clear
+618,Arhar (Tur/Red Gram),Gandai,2017-06-20,5400.0,20.0,37.0,clear
+619,Arhar (Tur/Red Gram),Rajnandgaon,2017-06-20,3700.0,1.0,37.0,clear
+620,Lentil(Masur),Rajnandgaon,2017-06-20,3481.0,1.5,37.0,clear
+621,Arhar (Tur/Red Gram),Gandai,2017-06-21,4900.0,12.0,37.0,clear
+622,Arhar (Tur/Red Gram),Rajnandgaon,2017-06-21,3600.0,0.4,37.0,clear
+623,Black Gram (Urd Beans),Rajnandgaon,2017-06-21,3300.0,0.1,37.0,clear
+624,Lentil(Masur),Rajnandgaon,2017-06-21,3500.0,2.8,37.0,clear
+625,Arhar (Tur/Red Gram),Gandai,2017-06-22,5400.0,20.0,37.0,clear
+626,Arhar (Tur/Red Gram),Rajnandgaon,2017-06-22,3200.0,1.2,37.0,clear
+627,Black Gram (Urd Beans),Rajnandgaon,2017-06-22,4790.0,0.4,37.0,clear
+628,Lentil(Masur),Rajnandgaon,2017-06-22,3400.0,5.3,37.0,clear
+629,Arhar (Tur/Red Gram),Gandai,2017-06-23,5400.0,10.0,30.0,clear
+630,Arhar (Tur/Red Gram),Rajnandgaon,2017-06-23,3350.0,3.0,30.0,clear
+631,Lentil(Masur),Rajnandgaon,2017-06-23,3350.0,3.1,30.0,clear
+632,Arhar (Tur/Red Gram),Gandai,2017-06-24,5400.0,12.0,34.0,clear
+633,Arhar (Tur/Red Gram),Rajnandgaon,2017-06-24,3531.0,1.8,34.0,clear
+634,Black Gram (Urd Beans),Rajnandgaon,2017-06-24,3491.0,1.1,34.0,clear
+635,Lentil(Masur),Rajnandgaon,2017-06-24,3350.0,1.1,34.0,clear
+636,Arhar (Tur/Red Gram),Gandai,2017-06-27,5500.0,12.0,30.0,clear
+637,Arhar (Tur/Red Gram),Rajnandgaon,2017-06-27,3641.0,0.3,30.0,clear
+638,Lentil(Masur),Rajnandgaon,2017-06-27,3380.0,4.8,30.0,clear
+639,Arhar (Tur/Red Gram),Gandai,2017-06-28,5500.0,50.0,26.2,clear
+640,Arhar (Tur/Red Gram),Rajnandgaon,2017-06-28,3577.0,2.3,26.2,clear
+641,Black Gram (Urd Beans),Rajnandgaon,2017-06-28,3700.0,0.4,26.2,clear
+642,Lentil(Masur),Rajnandgaon,2017-06-28,3470.0,1.3,26.2,clear
+643,Arhar (Tur/Red Gram),Gandai,2017-06-29,4900.0,50.0,26.2,rain
+644,Arhar (Tur/Red Gram),Gandai,2017-07-07,5400.0,20.0,31.2,clear
+645,Arhar (Tur/Red Gram),Rajnandgaon,2017-07-07,3400.0,0.3,31.2,clear
+646,Lentil(Masur),Rajnandgaon,2017-07-07,3381.0,5.4,31.2,clear
+647,Arhar (Tur/Red Gram),Gandai,2017-08-07,5000.0,11.9,28.2,clear
+648,Arhar (Tur/Red Gram),Rajnandgaon,2017-08-07,3472.0,4.1,28.2,clear
+649,Black Gram (Urd Beans),Rajnandgaon,2017-08-07,3795.0,1.0,28.2,clear
+650,Lentil(Masur),Rajnandgaon,2017-08-07,3430.0,2.3,28.2,clear
+651,Arhar (Tur/Red Gram),Gandai,2017-10-07,5000.0,21.2,28.0,clear
+652,Arhar (Tur/Red Gram),Rajnandgaon,2017-10-07,3501.0,1.2,28.0,clear
+653,Lentil(Masur),Rajnandgaon,2017-10-07,3300.0,0.1,28.0,clear
+654,Arhar (Tur/Red Gram),Gandai,2017-11-07,5000.0,20.0,27.2,clear
+655,Arhar (Tur/Red Gram),Rajnandgaon,2017-11-07,3500.0,0.3,27.2,clear
+656,Black Gram (Urd Beans),Rajnandgaon,2017-11-07,3499.0,0.4,27.2,clear
+657,Lentil(Masur),Rajnandgaon,2017-11-07,3480.0,3.1,27.2,clear
+658,Arhar (Tur/Red Gram),Gandai,2017-12-07,5000.0,20.0,28.6,clear
+659,Lentil(Masur),Rajnandgaon,2017-12-07,3425.0,1.1,28.6,clear
+660,Arhar (Tur/Red Gram),Gandai,2017-07-17,3750.0,15.0,29.8,clear
+661,Arhar (Tur/Red Gram),Rajnandgaon,2017-07-17,3530.0,1.7,29.8,clear
+662,Lentil(Masur),Rajnandgaon,2017-07-17,3400.0,1.6,29.8,clear
+663,Arhar (Tur/Red Gram),Gandai,2017-07-19,3750.0,15.0,28.2,clear
+664,Bengal Gram(Gram),Bazar Atriya ,2017-07-19,4800.0,6.0,28.2,clear
+665,Bengal Gram(Gram),Kheragarh,2017-07-19,4800.0,49.9,28.2,clear
+666,Bengal Gram(Gram),Rajnandgaon,2017-07-19,5055.0,28.8,28.2,clear
+667,Arhar (Tur/Red Gram),Gandai,2017-07-22,5000.0,9.0,27.2,clear
+668,Arhar (Tur/Red Gram),Rajnandgaon,2017-07-22,3400.0,1.5,27.2,clear
+669,Bengal Gram(Gram),Rajnandgaon,2017-07-22,5000.0,7.5,27.2,clear
+670,Black Gram (Urd Beans),Rajnandgaon,2017-07-22,4100.0,0.5,27.2,clear
+671,Lentil(Masur),Rajnandgaon,2017-07-22,3250.0,1.1,27.2,clear
+672,Arhar (Tur/Red Gram),Gandai,2017-07-27,5100.0,19.2,28.8,clear
+673,Arhar (Tur/Red Gram),Rajnandgaon,2017-07-27,3300.0,2.6,28.8,clear
+674,Bengal Gram(Gram),Rajnandgaon,2017-07-27,5000.0,9.7,28.8,clear
+675,Black Gram (Urd Beans),Rajnandgaon,2017-07-27,4100.0,0.5,28.8,clear
+676,Lentil(Masur),Rajnandgaon,2017-07-27,3341.0,2.0,28.8,clear
+677,Arhar (Tur/Red Gram),Gandai,2017-07-31,5000.0,15.0,28.2,clear
+678,Bengal Gram(Gram),Kheragarh,2017-07-31,4800.0,133.8,28.2,clear
+679,Bengal Gram(Gram),Rajnandgaon,2017-07-31,4920.0,60.5,28.2,clear
+680,Black Gram (Urd Beans),Rajnandgaon,2017-07-31,4088.0,6.5,28.2,clear
+681,Lentil(Masur),Rajnandgaon,2017-07-31,3201.0,2.0,28.2,clear
+682,Arhar (Tur/Red Gram),Gandai,2017-08-08,5000.0,21.0,29.2,clear
+683,Bengal Gram(Gram),Rajnandgaon,2017-08-08,5271.0,6.4,29.2,clear
+684,Black Gram (Urd Beans),Rajnandgaon,2017-08-08,3790.0,0.2,29.2,clear
+685,Lentil(Masur),Rajnandgaon,2017-08-08,3380.0,0.1,29.2,clear
+686,Arhar (Tur/Red Gram),Gandai,2017-09-08,5000.0,18.0,31.0,clear
+687,Arhar (Tur/Red Gram),Rajnandgaon,2017-09-08,3501.0,0.9,31.0,clear
+688,Bengal Gram(Gram),Rajnandgaon,2017-09-08,5254.0,14.3,31.0,clear
+689,Lentil(Masur),Rajnandgaon,2017-09-08,2921.0,0.1,31.0,clear
+690,Arhar (Tur/Red Gram),Gandai,2017-10-08,5000.0,20.0,27.2,clear
+691,Arhar (Tur/Red Gram),Rajnandgaon,2017-10-08,3011.0,0.2,27.2,clear
+692,Bengal Gram(Gram),Rajnandgaon,2017-10-08,5250.0,5.3,27.2,clear
+693,Lentil(Masur),Rajnandgaon,2017-10-08,3400.0,1.5,27.2,clear
+694,Arhar (Tur/Red Gram),Gandai,2017-08-14,5000.0,11.0,30.0,clear
+695,Arhar (Tur/Red Gram),Gandai,2017-08-16,5000.0,10.0,30.0,clear
+696,Bengal Gram(Gram),Rajnandgaon,2017-08-16,5540.0,5.1,30.0,clear
+697,Lentil(Masur),Rajnandgaon,2017-08-16,3732.0,0.6,30.0,clear
+698,Arhar (Tur/Red Gram),Gandai,2017-08-21,5000.0,10.0,29.2,clear
+699,Bengal Gram(Gram),Rajnandgaon,2017-08-21,5300.0,0.5,29.2,clear
+700,Arhar (Tur/Red Gram),Gandai,2017-08-26,5000.0,16.1,30.0,clear
+701,Bengal Gram(Gram),Rajnandgaon,2017-08-26,5350.0,41.4,30.0,clear
+702,Lentil(Masur),Rajnandgaon,2017-08-26,3740.0,0.6,30.0,clear
+703,Arhar (Tur/Red Gram),Gandai,2017-08-31,4800.0,47.4,30.0,clear
+704,Arhar (Tur/Red Gram),Gandai,2017-09-13,4200.0,9.3,29.0,clear
+705,Arhar (Tur/Red Gram),Kheragarh,2017-10-01,4000.0,0.3,28.0,clear
+706,Arhar (Tur/Red Gram),Kheragarh,2017-01-31,4000.0,0.3,26.8,clear
+707,Arhar (Tur/Red Gram),Kheragarh,2017-02-20,3800.0,15.5,32.0,clear
+708,Arhar (Tur/Red Gram),Rajnandgaon,2017-02-20,3900.0,1.1,32.0,clear
+709,Lentil(Masur),Rajnandgaon,2017-02-20,3910.0,0.8,32.0,clear
+710,Arhar (Tur/Red Gram),Kheragarh,2017-10-25,4600.0,11.0,30.0,clear
+711,Arhar (Tur/Red Gram),Rajnandgaon,2017-06-01,3412.0,0.2,39.0,clear
+712,Arhar (Tur/Red Gram),Rajnandgaon,2017-01-13,3511.0,0.2,13.0,clear
+713,Arhar (Tur/Red Gram),Rajnandgaon,2017-01-25,3960.0,0.1,26.6,clear
+714,Arhar (Tur/Red Gram),Rajnandgaon,2017-01-27,4096.0,0.6,28.2,clear
+715,Arhar (Tur/Red Gram),Rajnandgaon,2017-01-28,4091.0,2.1,28.0,clear
+716,Black Gram (Urd Beans),Rajnandgaon,2017-01-28,3100.0,0.4,28.0,clear
+717,Arhar (Tur/Red Gram),Rajnandgaon,2017-01-30,3870.0,2.0,29.2,clear
+718,Lentil(Masur),Rajnandgaon,2017-01-30,3500.0,0.1,29.2,clear
+719,Arhar (Tur/Red Gram),Rajnandgaon,2017-01-02,4011.0,1.6,12.0,clear
+720,Black Gram (Urd Beans),Rajnandgaon,2017-01-02,4001.0,0.1,12.0,clear
+721,Arhar (Tur/Red Gram),Rajnandgaon,2017-02-02,4141.0,4.4,26.8,clear
+722,Lentil(Masur),Rajnandgaon,2017-02-02,2701.0,0.2,26.8,clear
+723,Arhar (Tur/Red Gram),Rajnandgaon,2017-03-02,4111.0,1.1,33.2,clear
+724,Arhar (Tur/Red Gram),Rajnandgaon,2017-04-02,3901.0,0.8,39.0,clear
+725,Black Gram (Urd Beans),Rajnandgaon,2017-04-02,3600.0,0.4,39.0,clear
+726,Arhar (Tur/Red Gram),Rajnandgaon,2017-06-02,4026.0,2.0,31.2,clear
+727,Arhar (Tur/Red Gram),Rajnandgaon,2017-07-02,4026.0,3.1,26.0,clear
+728,Arhar (Tur/Red Gram),Rajnandgaon,2017-08-02,3900.0,2.8,32.2,clear
+729,Arhar (Tur/Red Gram),Rajnandgaon,2017-09-02,3790.0,2.8,31.0,clear
+730,Lentil(Masur),Rajnandgaon,2017-09-02,2800.0,0.1,31.0,clear
+731,Arhar (Tur/Red Gram),Rajnandgaon,2017-10-02,3979.0,5.4,28.0,clear
+732,Arhar (Tur/Red Gram),Rajnandgaon,2017-11-02,3871.0,1.9,26.0,clear
+733,Black Gram (Urd Beans),Rajnandgaon,2017-11-02,3300.0,0.1,26.0,clear
+734,Arhar (Tur/Red Gram),Rajnandgaon,2017-02-14,3981.0,5.1,27.0,clear
+735,Black Gram (Urd Beans),Gandai,2017-02-14,4000.0,2.0,27.0,clear
+736,Lentil(Masur),Rajnandgaon,2017-02-14,3651.0,0.2,27.0,clear
+737,Arhar (Tur/Red Gram),Rajnandgaon,2017-02-16,3950.0,5.6,19.0,clear
+738,Lentil(Masur),Rajnandgaon,2017-02-16,3750.0,0.3,19.0,clear
+739,Arhar (Tur/Red Gram),Rajnandgaon,2017-02-18,3941.0,2.9,31.2,clear
+740,Lentil(Masur),Rajnandgaon,2017-02-18,3826.0,2.0,31.2,clear
+741,Arhar (Tur/Red Gram),Rajnandgaon,2017-02-22,3953.0,5.5,32.0,clear
+742,Lentil(Masur),Rajnandgaon,2017-02-22,3670.0,1.5,32.0,clear
+743,Arhar (Tur/Red Gram),Rajnandgaon,2017-03-03,3880.0,1.2,20.0,clear
+744,Lentil(Masur),Rajnandgaon,2017-03-03,3620.0,3.0,20.0,clear
+745,Arhar (Tur/Red Gram),Rajnandgaon,2017-08-03,4100.0,0.6,32.2,clear
+746,Lentil(Masur),Rajnandgaon,2017-08-03,3915.0,1.8,32.2,clear
+747,Arhar (Tur/Red Gram),Rajnandgaon,2017-03-23,4550.0,1.7,34.4,clear
+748,Bengal Gram(Gram),Dongargarh,2017-03-23,4550.0,3.0,34.4,clear
+749,Lentil(Masur),Rajnandgaon,2017-03-23,4650.0,6.1,34.4,clear
+750,Arhar (Tur/Red Gram),Rajnandgaon,2017-03-24,4550.0,8.1,32.8,clear
+751,Bengal Gram(Gram),Kheragarh,2017-03-24,4500.0,29.9,32.8,clear
+752,Lentil(Masur),Rajnandgaon,2017-03-24,4550.0,9.2,32.8,clear
+753,Arhar (Tur/Red Gram),Rajnandgaon,2017-03-29,4360.0,0.8,39.0,clear
+754,Lentil(Masur),Rajnandgaon,2017-03-29,4525.0,6.6,39.0,clear
+755,Arhar (Tur/Red Gram),Rajnandgaon,2017-03-30,4300.0,0.4,39.0,clear
+756,Bengal Gram(Gram),Dongargarh,2017-03-30,4900.0,11.0,39.0,clear
+757,Lentil(Masur),Rajnandgaon,2017-03-30,4500.0,4.9,39.0,clear
+758,Arhar (Tur/Red Gram),Rajnandgaon,2017-07-04,4100.0,3.4,26.0,clear
+759,Lentil(Masur),Rajnandgaon,2017-07-04,4270.0,4.7,26.0,clear
+760,Arhar (Tur/Red Gram),Rajnandgaon,2017-10-04,4076.0,3.1,28.0,clear
+761,Lentil(Masur),Rajnandgaon,2017-10-04,4090.0,3.2,28.0,clear
+762,Arhar (Tur/Red Gram),Rajnandgaon,2017-11-04,4080.0,5.2,27.2,clear
+763,Bengal Gram(Gram),Dongargarh,2017-11-04,5880.0,6.0,27.2,clear
+764,Black Gram (Urd Beans),Rajnandgaon,2017-11-04,3485.0,0.2,27.2,clear
+765,Lentil(Masur),Rajnandgaon,2017-11-04,4175.0,4.3,27.2,clear
+766,Arhar (Tur/Red Gram),Rajnandgaon,2017-12-04,4100.0,1.4,27.8,clear
+767,Black Gram (Urd Beans),Rajnandgaon,2017-12-04,3766.0,0.3,27.8,clear
+768,Lentil(Masur),Rajnandgaon,2017-12-04,4171.0,2.1,27.8,clear
+769,Arhar (Tur/Red Gram),Rajnandgaon,2017-04-15,4155.0,2.1,40.2,clear
+770,Black Gram (Urd Beans),Rajnandgaon,2017-04-15,4000.0,1.8,40.2,clear
+771,Lentil(Masur),Rajnandgaon,2017-04-15,4170.0,1.7,40.2,clear
+772,Arhar (Tur/Red Gram),Rajnandgaon,2017-04-18,4100.0,1.7,41.0,clear
+773,Black Gram (Urd Beans),Rajnandgaon,2017-04-18,3670.0,0.1,41.0,clear
+774,Arhar (Tur/Red Gram),Rajnandgaon,2017-04-21,3900.0,2.8,40.2,clear
+775,Black Gram (Urd Beans),Rajnandgaon,2017-04-21,3000.0,0.3,40.2,clear
+776,Lentil(Masur),Rajnandgaon,2017-04-21,3901.0,7.1,40.2,clear
+777,Arhar (Tur/Red Gram),Rajnandgaon,2017-04-22,3901.0,1.1,31.4,clear
+778,Lentil(Masur),Rajnandgaon,2017-04-22,3951.0,7.5,31.4,clear
+779,Arhar (Tur/Red Gram),Rajnandgaon,2017-04-25,3900.0,0.9,29.0,clear
+780,Black Gram (Urd Beans),Rajnandgaon,2017-04-25,3000.0,0.4,29.0,clear
+781,Lentil(Masur),Rajnandgaon,2017-04-25,3760.0,1.0,29.0,clear
+782,Arhar (Tur/Red Gram),Rajnandgaon,2017-04-27,3901.0,2.5,38.8,clear
+783,Bengal Gram(Gram),Dongargarh,2017-04-27,4950.0,1.0,38.8,clear
+784,Lentil(Masur),Rajnandgaon,2017-04-27,3800.0,8.9,38.8,clear
+785,Arhar (Tur/Red Gram),Rajnandgaon,2017-04-28,3825.0,11.4,39.8,clear
+786,Black Gram (Urd Beans),Rajnandgaon,2017-04-28,3420.0,3.6,39.8,clear
+787,Lentil(Masur),Rajnandgaon,2017-04-28,3650.0,13.6,39.8,clear
+788,Arhar (Tur/Red Gram),Rajnandgaon,2017-01-05,3825.0,1.6,20.0,clear
+789,Lentil(Masur),Rajnandgaon,2017-01-05,3870.0,4.5,20.0,clear
+790,Arhar (Tur/Red Gram),Rajnandgaon,2017-02-05,3842.0,0.8,27.8,clear
+791,Lentil(Masur),Rajnandgaon,2017-02-05,3771.0,0.8,27.8,clear
+792,Arhar (Tur/Red Gram),Rajnandgaon,2017-03-05,3700.0,1.2,33.0,clear
+793,Lentil(Masur),Rajnandgaon,2017-03-05,3811.0,6.8,33.0,clear
+794,Arhar (Tur/Red Gram),Rajnandgaon,2017-04-05,3780.0,0.4,39.8,clear
+795,Lentil(Masur),Rajnandgaon,2017-04-05,3780.0,2.3,39.8,clear
+796,Arhar (Tur/Red Gram),Rajnandgaon,2017-12-05,3850.0,3.7,27.6,clear
+797,Lentil(Masur),Rajnandgaon,2017-12-05,3800.0,3.9,27.6,clear
+798,Arhar (Tur/Red Gram),Rajnandgaon,2017-05-13,3750.0,3.6,40.2,clear
+799,Lentil(Masur),Rajnandgaon,2017-05-13,3850.0,2.4,40.2,clear
+800,Arhar (Tur/Red Gram),Rajnandgaon,2017-05-17,3901.0,1.4,42.0,clear
+801,Lentil(Masur),Rajnandgaon,2017-05-17,3761.0,1.0,42.0,clear
+802,Arhar (Tur/Red Gram),Rajnandgaon,2017-05-18,3403.0,0.2,37.0,clear
+803,Black Gram (Urd Beans),Rajnandgaon,2017-05-18,3501.0,0.5,37.0,clear
+804,Lentil(Masur),Rajnandgaon,2017-05-18,3775.0,0.93,37.0,clear
+805,Arhar (Tur/Red Gram),Rajnandgaon,2017-05-19,3751.0,1.2,40.2,clear
+806,Bengal Gram(Gram),Kheragarh,2017-05-19,5600.0,45.1,40.2,clear
+807,Lentil(Masur),Rajnandgaon,2017-05-19,3851.0,3.0,40.2,clear
+808,Arhar (Tur/Red Gram),Rajnandgaon,2017-05-20,3252.0,2.9,42.0,clear
+809,Bengal Gram(Gram),Kheragarh,2017-05-20,5600.0,13.3,42.0,clear
+810,Black Gram (Urd Beans),Rajnandgaon,2017-05-20,4780.0,0.1,42.0,clear
+811,Lentil(Masur),Rajnandgaon,2017-05-20,3800.0,3.1,42.0,clear
+812,Arhar (Tur/Red Gram),Rajnandgaon,2017-05-24,3500.0,0.2,43.4,clear
+813,Lentil(Masur),Rajnandgaon,2017-05-24,3651.0,9.5,43.4,clear
+814,Arhar (Tur/Red Gram),Rajnandgaon,2017-05-25,3601.0,1.7,43.4,clear
+815,Lentil(Masur),Rajnandgaon,2017-05-25,3600.0,5.7,43.4,clear
+816,Arhar (Tur/Red Gram),Rajnandgaon,2017-05-30,3280.0,0.6,38.2,clear
+817,Lentil(Masur),Rajnandgaon,2017-05-30,3450.0,5.0,38.2,clear
+818,Arhar (Tur/Red Gram),Rajnandgaon,2017-05-06,3401.0,1.3,41.8,clear
+819,Lentil(Masur),Rajnandgaon,2017-05-06,5303.0,3.2,41.8,clear
+820,Arhar (Tur/Red Gram),Rajnandgaon,2017-06-06,3586.0,0.5,27.8,clear
+821,Lentil(Masur),Rajnandgaon,2017-06-06,3400.0,0.9,27.8,clear
+822,Arhar (Tur/Red Gram),Rajnandgaon,2017-08-06,3550.0,2.0,28.2,clear
+823,Lentil(Masur),Rajnandgaon,2017-08-06,3560.0,1.6,28.2,clear
+824,Arhar (Tur/Red Gram),Rajnandgaon,2017-10-06,3550.0,1.4,29.2,clear
+825,Lentil(Masur),Rajnandgaon,2017-10-06,3550.0,1.8,29.2,clear
+826,Arhar (Tur/Red Gram),Rajnandgaon,2017-12-06,3761.0,0.1,28.0,clear
+827,Black Gram (Urd Beans),Rajnandgaon,2017-12-06,3300.0,0.1,28.0,clear
+828,Lentil(Masur),Rajnandgaon,2017-12-06,3575.0,4.5,28.0,clear
+829,Arhar (Tur/Red Gram),Rajnandgaon,2017-06-13,3580.0,0.6,27.0,clear
+830,Lentil(Masur),Rajnandgaon,2017-06-13,3550.0,2.7,27.0,clear
+831,Arhar (Tur/Red Gram),Rajnandgaon,2017-06-14,3561.0,4.7,27.0,clear
+832,Lentil(Masur),Rajnandgaon,2017-06-14,3500.0,4.3,27.0,clear
+833,Arhar (Tur/Red Gram),Rajnandgaon,2017-06-16,3700.0,1.2,36.2,clear
+834,Black Gram (Urd Beans),Rajnandgaon,2017-06-16,3800.0,1.1,36.2,clear
+835,Lentil(Masur),Rajnandgaon,2017-06-16,3500.0,2.7,36.2,clear
+836,Arhar (Tur/Red Gram),Rajnandgaon,2017-06-17,3561.0,4.3,29.2,clear
+837,Lentil(Masur),Rajnandgaon,2017-06-17,3376.0,2.7,29.2,clear
+838,Arhar (Tur/Red Gram),Rajnandgaon,2017-03-07,3451.0,0.6,30.0,clear
+839,Black Gram (Urd Beans),Rajnandgaon,2017-03-07,4300.0,1.8,30.0,clear
+840,Lentil(Masur),Rajnandgaon,2017-03-07,3375.0,1.0,30.0,clear
+841,Arhar (Tur/Red Gram),Rajnandgaon,2017-04-07,3540.0,2.2,32.2,clear
+842,Black Gram (Urd Beans),Rajnandgaon,2017-04-07,2876.0,0.1,32.2,clear
+843,Lentil(Masur),Rajnandgaon,2017-04-07,3400.0,5.0,32.2,clear
+844,Arhar (Tur/Red Gram),Rajnandgaon,2017-05-07,3025.0,0.1,41.8,clear
+845,Lentil(Masur),Rajnandgaon,2017-05-07,3450.0,2.9,41.8,clear
+846,Arhar (Tur/Red Gram),Rajnandgaon,2017-07-13,3400.0,1.1,26.8,clear
+847,Lentil(Masur),Rajnandgaon,2017-07-13,3411.0,3.6,26.8,clear
+848,Arhar (Tur/Red Gram),Rajnandgaon,2017-07-14,3250.0,21.7,26.0,clear
+849,Black Gram (Urd Beans),Rajnandgaon,2017-07-14,2576.0,1.2,26.0,clear
+850,Lentil(Masur),Rajnandgaon,2017-07-14,3450.0,5.0,26.0,clear
+851,Arhar (Tur/Red Gram),Rajnandgaon,2017-07-15,3176.0,0.3,26.0,clear
+852,Lentil(Masur),Rajnandgaon,2017-07-15,3300.0,3.1,26.0,clear
+853,Arhar (Tur/Red Gram),Rajnandgaon,2017-07-18,3200.0,0.9,28.2,clear
+854,Black Gram (Urd Beans),Rajnandgaon,2017-07-18,4001.0,0.5,28.2,clear
+855,Lentil(Masur),Rajnandgaon,2017-07-18,3400.0,1.5,28.2,clear
+856,Arhar (Tur/Red Gram),Rajnandgaon,2017-07-21,3400.0,0.6,30.0,clear
+857,Bengal Gram(Gram),Rajnandgaon,2017-07-21,5075.0,25.4,30.0,clear
+858,Black Gram (Urd Beans),Rajnandgaon,2017-07-21,2801.0,0.8,30.0,clear
+859,Lentil(Masur),Rajnandgaon,2017-07-21,3430.0,0.4,30.0,clear
+860,Arhar (Tur/Red Gram),Rajnandgaon,2017-07-29,3280.0,2.6,29.2,clear
+861,Bengal Gram(Gram),Rajnandgaon,2017-07-29,4850.0,19.2,29.2,clear
+862,Black Gram (Urd Beans),Rajnandgaon,2017-07-29,3101.0,0.3,29.2,clear
+863,Lentil(Masur),Rajnandgaon,2017-07-29,3201.0,0.8,29.2,clear
+864,Arhar (Tur/Red Gram),Rajnandgaon,2017-01-08,3300.0,0.6,22.0,clear
+865,Bengal Gram(Gram),Rajnandgaon,2017-01-08,4950.0,16.7,22.0,clear
+866,Black Gram (Urd Beans),Rajnandgaon,2017-01-08,3501.0,1.0,22.0,clear
+867,Lentil(Masur),Rajnandgaon,2017-01-08,3325.0,3.4,22.0,clear
+868,Arhar (Tur/Red Gram),Rajnandgaon,2017-02-08,3301.0,3.8,18.2,clear
+869,Bengal Gram(Gram),Rajnandgaon,2017-02-08,4955.0,13.0,18.2,clear
+870,Lentil(Masur),Rajnandgaon,2017-02-08,3340.0,1.0,18.2,clear
+871,Arhar (Tur/Red Gram),Rajnandgaon,2017-04-08,3400.0,3.1,40.8,clear
+872,Bengal Gram(Gram),Rajnandgaon,2017-04-08,5170.0,12.1,40.8,clear
+873,Black Gram (Urd Beans),Rajnandgaon,2017-04-08,4400.0,1.0,40.8,clear
+874,Lentil(Masur),Rajnandgaon,2017-04-08,3420.0,2.8,40.8,clear
+875,Arhar (Tur/Red Gram),Rajnandgaon,2017-05-08,3565.0,1.8,31.0,clear
+876,Bengal Gram(Gram),Rajnandgaon,2017-05-08,5171.0,36.9,31.0,clear
+877,Lentil(Masur),Rajnandgaon,2017-05-08,3390.0,1.7,31.0,clear
+878,Arhar (Tur/Red Gram),Rajnandgaon,2017-11-08,3601.0,8.3,22.2,clear
+879,Bengal Gram(Gram),Rajnandgaon,2017-11-08,5250.0,14.2,22.2,clear
+880,Black Gram (Urd Beans),Rajnandgaon,2017-11-08,2850.0,0.2,22.2,clear
+881,Lentil(Masur),Rajnandgaon,2017-11-08,3450.0,3.5,22.2,clear
+882,Arhar (Tur/Red Gram),Rajnandgaon,2017-12-08,3702.0,0.1,19.0,clear
+883,Bengal Gram(Gram),Rajnandgaon,2017-12-08,5402.0,25.6,19.0,clear
+884,Black Gram (Urd Beans),Rajnandgaon,2017-12-08,4400.0,0.5,19.0,clear
+885,Lentil(Masur),Rajnandgaon,2017-12-08,3701.0,2.1,19.0,clear
+886,Arhar (Tur/Red Gram),Rajnandgaon,2017-08-17,4360.0,2.1,30.8,clear
+887,Bengal Gram(Gram),Rajnandgaon,2017-08-17,5320.0,93.8,30.8,clear
+888,Black Gram (Urd Beans),Rajnandgaon,2017-08-17,4500.0,0.4,30.8,clear
+889,Lentil(Masur),Rajnandgaon,2017-08-17,2891.0,0.7,30.8,clear
+890,Arhar (Tur/Red Gram),Rajnandgaon,2017-08-18,4300.0,3.3,29.2,clear
+891,Bengal Gram(Gram),Rajnandgaon,2017-08-18,5125.0,111.5,29.2,clear
+892,Lentil(Masur),Rajnandgaon,2017-08-18,3625.0,0.1,29.2,clear
+893,Arhar (Tur/Red Gram),Rajnandgaon,2017-08-19,4500.0,0.5,29.0,clear
+894,Bengal Gram(Gram),Rajnandgaon,2017-08-19,5112.0,6.5,29.0,clear
+895,Lentil(Masur),Rajnandgaon,2017-08-19,3700.0,1.4,29.0,clear
+896,Arhar (Tur/Red Gram),Rajnandgaon,2017-08-28,4045.0,0.3,29.0,clear
+897,Bengal Gram(Gram),Rajnandgaon,2017-08-28,5900.0,13.0,29.0,clear
+898,Black Gram (Urd Beans),Rajnandgaon,2017-08-28,3166.0,2.3,29.0,clear
+899,Lentil(Masur),Rajnandgaon,2017-08-28,3551.0,0.1,29.0,clear
+900,Arhar (Tur/Red Gram),Rajnandgaon,2017-08-29,3840.0,0.4,29.0,clear
+901,Bengal Gram(Gram),Rajnandgaon,2017-08-29,1679.0,130.1,29.0,clear
+902,Black Gram (Urd Beans),Rajnandgaon,2017-08-29,3307.0,0.8,29.0,clear
+903,Lentil(Masur),Rajnandgaon,2017-08-29,3800.0,4.7,29.0,clear
+904,Arhar (Tur/Red Gram),Rajnandgaon,2017-01-09,3801.0,2.8,23.0,clear
+905,Bengal Gram(Gram),Rajnandgaon,2017-01-09,5365.0,4.4,23.0,clear
+906,Black Gram (Urd Beans),Rajnandgaon,2017-01-09,3151.0,0.3,23.0,clear
+907,Lentil(Masur),Rajnandgaon,2017-01-09,3700.0,1.6,23.0,clear
+908,Arhar (Tur/Red Gram),Rajnandgaon,2017-04-09,4100.0,2.2,40.4,clear
+909,Bengal Gram(Gram),Rajnandgaon,2017-04-09,5880.0,4.9,40.4,clear
+910,Black Gram (Urd Beans),Rajnandgaon,2017-04-09,2776.0,0.4,40.4,clear
+911,Lentil(Masur),Rajnandgaon,2017-04-09,3650.0,0.3,40.4,clear
+912,Arhar (Tur/Red Gram),Rajnandgaon,2017-05-09,4180.0,0.4,40.2,clear
+913,Bengal Gram(Gram),Rajnandgaon,2017-05-09,5676.0,3.5,40.2,clear
+914,Black Gram (Urd Beans),Rajnandgaon,2017-05-09,2921.0,1.5,40.2,clear
+915,Lentil(Masur),Rajnandgaon,2017-05-09,3399.0,0.3,40.2,clear
+916,Arhar (Tur/Red Gram),Rajnandgaon,2017-09-14,3775.0,0.5,29.0,clear
+917,Black Gram (Urd Beans),Rajnandgaon,2017-09-14,3721.0,0.3,29.0,clear
+918,Lentil(Masur),Rajnandgaon,2017-09-14,3700.0,0.3,29.0,clear
+919,Arhar (Tur/Red Gram),Rajnandgaon,2017-09-16,4000.0,0.3,33.2,clear
+920,Bengal Gram(Gram),Rajnandgaon,2017-09-16,5400.0,1.5,33.2,clear
+921,Black Gram (Urd Beans),Rajnandgaon,2017-09-16,4351.0,1.4,33.2,clear
+922,Lentil(Masur),Rajnandgaon,2017-09-16,3500.0,1.8,33.2,clear
+923,Arhar (Tur/Red Gram),Rajnandgaon,2017-09-18,4061.0,1.1,33.2,clear
+924,Bengal Gram(Gram),Rajnandgaon,2017-09-18,5751.0,15.3,33.2,clear
+925,Black Gram (Urd Beans),Rajnandgaon,2017-09-18,4200.0,1.8,33.2,clear
+926,Lentil(Masur),Rajnandgaon,2017-09-18,3125.0,0.2,33.2,clear
+927,Arhar (Tur/Red Gram),Rajnandgaon,2017-09-19,4125.0,1.5,30.0,rain
+928,Black Gram (Urd Beans),Rajnandgaon,2017-09-19,4001.0,1.5,30.0,rain
+929,Lentil(Masur),Rajnandgaon,2017-09-19,3550.0,1.2,30.0,rain
+930,Arhar (Tur/Red Gram),Rajnandgaon,2017-09-20,3875.0,0.3,30.0,clear
+931,Bengal Gram(Gram),Rajnandgaon,2017-09-20,5353.0,2.6,30.0,clear
+932,Black Gram (Urd Beans),Rajnandgaon,2017-09-20,3871.0,3.7,30.0,clear
+933,Lentil(Masur),Rajnandgaon,2017-09-20,3381.0,0.4,30.0,clear
+934,Arhar (Tur/Red Gram),Rajnandgaon,2017-09-22,3876.0,9.6,29.8,clear
+935,Bengal Gram(Gram),Rajnandgaon,2017-09-22,5400.0,12.0,29.8,clear
+936,Black Gram (Urd Beans),Rajnandgaon,2017-09-22,3850.0,4.2,29.8,clear
+937,Lentil(Masur),Rajnandgaon,2017-09-22,3400.0,0.7,29.8,clear
+938,Arhar (Tur/Red Gram),Rajnandgaon,2017-09-23,3600.0,7.0,28.0,clear
+939,Bengal Gram(Gram),Rajnandgaon,2017-09-23,5304.0,10.3,28.0,clear
+940,Black Gram (Urd Beans),Rajnandgaon,2017-09-23,3850.0,2.2,28.0,clear
+941,Lentil(Masur),Rajnandgaon,2017-09-23,3260.0,0.6,28.0,clear
+942,Arhar (Tur/Red Gram),Rajnandgaon,2017-09-25,3900.0,0.3,30.0,clear
+943,Bengal Gram(Gram),Rajnandgaon,2017-09-25,5276.0,3.0,30.0,clear
+944,Black Gram (Urd Beans),Rajnandgaon,2017-09-25,4201.0,2.6,30.0,clear
+945,Lentil(Masur),Rajnandgaon,2017-09-25,3175.0,0.4,30.0,clear
+946,Arhar (Tur/Red Gram),Rajnandgaon,2017-09-26,2301.0,0.4,29.0,clear
+947,Bengal Gram(Gram),Rajnandgaon,2017-09-26,5465.0,6.9,29.0,clear
+948,Black Gram (Urd Beans),Rajnandgaon,2017-09-26,4419.0,4.2,29.0,clear
+949,Lentil(Masur),Rajnandgaon,2017-09-26,3850.0,0.4,29.0,clear
+950,Arhar (Tur/Red Gram),Rajnandgaon,2017-04-10,3801.0,0.5,38.2,clear
+951,Bengal Gram(Gram),Rajnandgaon,2017-04-10,5160.0,12.7,38.2,clear
+952,Black Gram (Urd Beans),Rajnandgaon,2017-04-10,3301.0,3.2,38.2,clear
+953,Lentil(Masur),Rajnandgaon,2017-04-10,3360.0,0.4,38.2,clear
+954,Arhar (Tur/Red Gram),Rajnandgaon,2017-05-10,3275.0,2.3,40.2,clear
+955,Bengal Gram(Gram),Rajnandgaon,2017-05-10,4900.0,7.3,40.2,clear
+956,Black Gram (Urd Beans),Rajnandgaon,2017-05-10,3301.0,2.9,40.2,clear
+957,Lentil(Masur),Rajnandgaon,2017-05-10,3213.0,1.4,40.2,clear
+958,Arhar (Tur/Red Gram),Rajnandgaon,2017-06-10,3380.0,0.7,36.2,clear
+959,Bengal Gram(Gram),Rajnandgaon,2017-06-10,4850.0,2.4,36.2,clear
+960,Black Gram (Urd Beans),Rajnandgaon,2017-06-10,3600.0,1.3,36.2,clear
+961,Lentil(Masur),Rajnandgaon,2017-06-10,3141.0,0.8,36.2,clear
+962,Arhar (Tur/Red Gram),Rajnandgaon,2017-07-10,3000.0,0.2,30.2,clear
+963,Bengal Gram(Gram),Rajnandgaon,2017-07-10,4700.0,1.1,30.2,clear
+964,Black Gram (Urd Beans),Rajnandgaon,2017-07-10,3350.0,3.0,30.2,clear
+965,Lentil(Masur),Rajnandgaon,2017-07-10,2950.0,0.7,30.2,clear
+966,Arhar (Tur/Red Gram),Rajnandgaon,2017-09-10,3090.0,0.1,29.2,clear
+967,Bengal Gram(Gram),Rajnandgaon,2017-09-10,5200.0,3.6,29.2,clear
+968,Black Gram (Urd Beans),Rajnandgaon,2017-09-10,3500.0,1.4,29.2,clear
+969,Lentil(Masur),Rajnandgaon,2017-09-10,3300.0,0.3,29.2,clear
+970,Arhar (Tur/Red Gram),Rajnandgaon,2017-10-10,3100.0,0.4,29.0,clear
+971,Bengal Gram(Gram),Rajnandgaon,2017-10-10,5000.0,1.8,29.0,clear
+972,Black Gram (Urd Beans),Rajnandgaon,2017-10-10,3400.0,0.6,29.0,clear
+973,Lentil(Masur),Rajnandgaon,2017-10-10,3131.0,0.4,29.0,clear
+974,Arhar (Tur/Red Gram),Rajnandgaon,2017-11-10,3241.0,0.1,27.2,clear
+975,Bengal Gram(Gram),Rajnandgaon,2017-11-10,5111.0,15.0,27.2,clear
+976,Black Gram (Urd Beans),Rajnandgaon,2017-11-10,3200.0,2.2,27.2,clear
+977,Lentil(Masur),Rajnandgaon,2017-11-10,3299.0,0.9,27.2,clear
+978,Arhar (Tur/Red Gram),Rajnandgaon,2017-12-10,3151.0,2.5,27.2,clear
+979,Bengal Gram(Gram),Rajnandgaon,2017-12-10,4400.0,6.8,27.2,clear
+980,Black Gram (Urd Beans),Rajnandgaon,2017-12-10,2970.0,0.8,27.2,clear
+981,Lentil(Masur),Rajnandgaon,2017-12-10,3036.0,1.3,27.2,clear
+982,Arhar (Tur/Red Gram),Rajnandgaon,2017-10-13,3053.0,0.3,28.2,clear
+983,Bengal Gram(Gram),Rajnandgaon,2017-10-13,4001.0,3.7,28.2,clear
+984,Black Gram (Urd Beans),Rajnandgaon,2017-10-13,3450.0,3.8,28.2,clear
+985,Lentil(Masur),Rajnandgaon,2017-10-13,2700.0,0.2,28.2,clear
+986,Arhar (Tur/Red Gram),Rajnandgaon,2017-10-14,3280.0,0.1,27.8,clear
+987,Bengal Gram(Gram),Rajnandgaon,2017-10-14,4000.0,0.7,27.8,clear
+988,Black Gram (Urd Beans),Rajnandgaon,2017-10-14,2901.0,1.3,27.8,clear
+989,Lentil(Masur),Rajnandgaon,2017-10-14,3000.0,0.1,27.8,clear
+990,Arhar (Tur/Red Gram),Rajnandgaon,2017-10-27,3601.0,0.3,29.0,clear
+991,Bengal Gram(Gram),Rajnandgaon,2017-10-27,4655.0,2.8,29.0,clear
+992,Black Gram (Urd Beans),Rajnandgaon,2017-10-27,3600.0,0.1,29.0,clear
+993,Lentil(Masur),Rajnandgaon,2017-10-27,3276.0,3.5,29.0,clear
+994,Arhar (Tur/Red Gram),Rajnandgaon,2017-10-30,3300.0,2.4,28.2,clear
+995,Bengal Gram(Gram),Rajnandgaon,2017-10-30,2800.0,0.8,28.2,clear
+996,Black Gram (Urd Beans),Rajnandgaon,2017-10-30,3401.0,4.9,28.2,clear
+997,Lentil(Masur),Rajnandgaon,2017-10-30,3400.0,0.1,28.2,clear
+998,Arhar (Tur/Red Gram),Rajnandgaon,2017-10-31,3460.0,1.1,27.9,clear
+999,Black Gram (Urd Beans),Rajnandgaon,2017-10-31,3200.0,2.3,27.9,clear
+1000,Lentil(Masur),Rajnandgaon,2017-10-31,3350.0,2.0,27.9,clear
+1001,Arhar (Tur/Red Gram),Rajnandgaon,2017-01-11,3100.0,5.4,20.0,clear
+1002,Bengal Gram(Gram),Rajnandgaon,2017-01-11,4451.0,1.1,20.0,clear
+1003,Lentil(Masur),Rajnandgaon,2017-01-11,3101.0,0.5,20.0,clear
+1004,Bengal Gram(Gram),Bazar Atriya ,2017-08-30,5000.0,5.0,30.0,clear
+1005,Bengal Gram(Gram),Kheragarh,2017-08-30,5000.0,53.2,30.0,clear
+1006,Bengal Gram(Gram),Dongargarh,2017-06-03,4350.0,4.8,38.0,clear
+1007,Bengal Gram(Gram),Dongargarh,2017-03-16,4400.0,5.0,32.2,clear
+1008,Bengal Gram(Gram),Kheragarh,2017-09-28,5200.0,10.0,28.2,clear
+1009,Bengal Gram(Gram),Rajnandgaon,2017-07-24,5100.0,42.5,26.8,clear
+1010,Lentil(Masur),Rajnandgaon,2017-07-24,3430.0,0.1,26.8,clear
+1011,Bengal Gram(Gram),Rajnandgaon,2017-07-25,4980.0,3.5,28.2,clear
+1012,Lentil(Masur),Rajnandgaon,2017-07-25,3251.0,0.3,28.2,clear
+1013,Bengal Gram(Gram),Rajnandgaon,2017-07-26,4950.0,20.6,28.2,clear
+1014,Lentil(Masur),Rajnandgaon,2017-07-26,3180.0,0.3,28.2,clear
+1015,Bengal Gram(Gram),Rajnandgaon,2017-03-08,5050.0,17.8,30.0,clear
+1016,Black Gram (Urd Beans),Rajnandgaon,2017-03-08,4444.0,0.2,30.0,clear
+1017,Lentil(Masur),Rajnandgaon,2017-03-08,3381.0,2.1,30.0,clear
+1018,Bengal Gram(Gram),Rajnandgaon,2017-09-21,5490.0,10.1,26.0,clear
+1019,Black Gram (Urd Beans),Rajnandgaon,2017-09-21,3700.0,1.6,26.0,clear
+1020,Lentil(Masur),Rajnandgaon,2017-09-21,3400.0,0.4,26.0,clear
+1021,Bengal Gram(Gram),Rajnandgaon,2017-03-10,5100.0,0.7,31.0,clear
+1022,Black Gram (Urd Beans),Rajnandgaon,2017-03-10,3401.0,4.6,31.0,clear
+1023,Lentil(Masur),Rajnandgaon,2017-03-10,3152.0,0.2,31.0,clear
+1024,Bengal Gram(Gram),Rajnandgaon,2017-10-26,5000.0,2.3,29.8,clear
+1025,Black Gram (Urd Beans),Rajnandgaon,2017-10-26,3600.0,1.4,29.8,clear
+1026,Lentil(Masur),Rajnandgaon,2017-10-26,3240.0,0.2,29.8,clear
+1027,Bengal Gram(Gram),Rajnandgaon,2017-10-28,4581.0,5.5,24.2,clear
+1028,Black Gram (Urd Beans),Rajnandgaon,2017-10-28,3480.0,1.5,24.2,clear
+1029,Lentil(Masur),Rajnandgaon,2017-10-28,3365.0,1.1,24.2,clear
+1030,Bengal Gram(Gram),Rajnandgaon,2017-02-11,4380.0,2.7,20.2,clear
+1031,Black Gram (Urd Beans),Rajnandgaon,2017-02-11,3500.0,1.5,20.2,clear
+1032,Lentil(Masur),Rajnandgaon,2017-02-11,3201.0,0.2,20.2,clear
+1033,Black Gram (Urd Beans),Rajnandgaon,2017-05-01,3850.0,0.7,40.2,clear
+1034,Lentil(Masur),Rajnandgaon,2017-05-01,2500.0,0.1,40.2,clear
+1035,Black Gram (Urd Beans),Rajnandgaon,2017-01-19,3901.0,0.4,25.2,clear
+1036,Black Gram (Urd Beans),Rajnandgaon,2017-01-20,3560.0,0.3,26.6,clear
+1037,Black Gram (Urd Beans),Rajnandgaon,2017-04-24,3430.0,0.7,38.8,clear
+1038,Lentil(Masur),Rajnandgaon,2017-04-24,3850.0,6.7,38.8,clear
+1039,Black Gram (Urd Beans),Rajnandgaon,2017-05-23,4000.0,0.2,41.8,clear
+1040,Lentil(Masur),Rajnandgaon,2017-05-23,3712.0,0.5,41.8,clear
+1041,Lentil(Masur),Rajnandgaon,2017-04-01,3600.0,1.8,39.2,clear
+1042,Lentil(Masur),Rajnandgaon,2017-01-21,3481.0,0.3,30.0,clear
+1043,Lentil(Masur),Rajnandgaon,2017-02-13,3500.0,0.3,27.2,clear
+1044,Lentil(Masur),Rajnandgaon,2017-09-05,3775.0,2.9,30.0,clear

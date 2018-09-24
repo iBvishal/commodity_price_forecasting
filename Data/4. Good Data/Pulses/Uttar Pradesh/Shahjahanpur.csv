@@ -1,0 +1,1961 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Shahjahanpur,2015-12-08,7260.0,1.6,22.0,clear
+1,Bengal Gram(Gram),Shahjahanpur,2015-12-08,4850.0,2.0,22.0,clear
+2,Black Gram (Urd Beans),Shahjahanpur,2015-12-08,7145.0,2.5,22.0,clear
+3,Lentil(Masur),Shahjahanpur,2015-12-08,6830.0,2.4,22.0,clear
+4,Arhar (Tur/Red Gram),Shahjahanpur,2015-12-10,8135.0,2.0,12.4,clear
+5,Bengal Gram(Gram),Shahjahanpur,2015-12-10,5010.0,4.5,12.4,clear
+6,Black Gram (Urd Beans),Shahjahanpur,2015-12-10,7865.0,2.4,12.4,clear
+7,Green Gram (Moong),Shahjahanpur,2015-12-10,8635.0,1.8,12.4,clear
+8,Lentil(Masur),Shahjahanpur,2015-12-10,7050.0,2.5,12.4,clear
+9,Arhar (Tur/Red Gram),Shahjahanpur,2015-12-14,8880.0,1.4,18.0,clear
+10,Bengal Gram(Gram),Shahjahanpur,2015-12-14,5320.0,2.4,18.0,clear
+11,Bengal Gram(Gram),Tilhar,2015-12-14,5310.0,0.6,18.0,clear
+12,Black Gram (Urd Beans),Shahjahanpur,2015-12-14,8700.0,2.5,18.0,clear
+13,Green Gram (Moong),Shahjahanpur,2015-12-14,8995.0,1.3,18.0,clear
+14,Lentil(Masur),Shahjahanpur,2015-12-14,7000.0,2.0,18.0,clear
+15,Arhar (Tur/Red Gram),Shahjahanpur,2015-12-15,8860.0,1.6,18.0,clear
+16,Bengal Gram(Gram),Shahjahanpur,2015-12-15,5300.0,2.7,18.0,clear
+17,Black Gram (Urd Beans),Shahjahanpur,2015-12-15,8720.0,2.2,18.0,clear
+18,Green Gram (Moong),Shahjahanpur,2015-12-15,8995.0,1.5,18.0,clear
+19,Lentil(Masur),Shahjahanpur,2015-12-15,6985.0,2.3,18.0,clear
+20,Arhar (Tur/Red Gram),Shahjahanpur,2015-12-16,8860.0,1.5,18.6,clear
+21,Black Gram (Urd Beans),Shahjahanpur,2015-12-16,8720.0,2.4,18.6,clear
+22,Arhar (Tur/Red Gram),Shahjahanpur,2015-12-17,8860.0,1.3,20.0,clear
+23,Black Gram (Urd Beans),Shahjahanpur,2015-12-17,8715.0,2.6,20.0,clear
+24,Green Gram (Moong),Shahjahanpur,2015-12-17,9000.0,1.6,20.0,clear
+25,Lentil(Masur),Shahjahanpur,2015-12-17,6980.0,3.3,20.0,clear
+26,Arhar (Tur/Red Gram),Shahjahanpur,2015-12-19,8850.0,1.5,20.4,clear
+27,Bengal Gram(Gram),Shahjahanpur,2015-12-19,5290.0,2.4,20.4,clear
+28,Black Gram (Urd Beans),Shahjahanpur,2015-12-19,8700.0,1.5,20.4,clear
+29,Green Gram (Moong),Shahjahanpur,2015-12-19,9030.0,1.2,20.4,clear
+30,Arhar (Tur/Red Gram),Shahjahanpur,2015-12-21,8850.0,2.0,20.0,clear
+31,Bengal Gram(Gram),Shahjahanpur,2015-12-21,5290.0,2.3,20.0,clear
+32,Bengal Gram(Gram),Tilhar,2015-12-21,5320.0,0.5,20.0,clear
+33,Black Gram (Urd Beans),Shahjahanpur,2015-12-21,8700.0,2.5,20.0,clear
+34,Green Gram (Moong),Shahjahanpur,2015-12-21,9030.0,1.5,20.0,clear
+35,Lentil(Masur),Shahjahanpur,2015-12-21,6960.0,3.5,20.0,clear
+36,Arhar (Tur/Red Gram),Shahjahanpur,2015-12-22,8845.0,2.2,19.4,clear
+37,Bengal Gram(Gram),Shahjahanpur,2015-12-22,5285.0,2.6,19.4,clear
+38,Black Gram (Urd Beans),Shahjahanpur,2015-12-22,8690.0,2.6,19.4,clear
+39,Lentil(Masur),Shahjahanpur,2015-12-22,6955.0,3.6,19.4,clear
+40,Arhar (Tur/Red Gram),Shahjahanpur,2015-12-26,8840.0,2.7,20.0,clear
+41,Bengal Gram(Gram),Shahjahanpur,2015-12-26,5280.0,3.5,20.0,clear
+42,Black Gram (Urd Beans),Shahjahanpur,2015-12-26,8685.0,2.6,20.0,clear
+43,Green Gram (Moong),Shahjahanpur,2015-12-26,9045.0,1.6,20.0,clear
+44,Lentil(Masur),Shahjahanpur,2015-12-26,6950.0,4.0,20.0,clear
+45,Arhar (Tur/Red Gram),Shahjahanpur,2015-12-28,8855.0,2.4,11.0,clear
+46,Bengal Gram(Gram),Shahjahanpur,2015-12-28,5300.0,2.6,11.0,clear
+47,Bengal Gram(Gram),Tilhar,2015-12-28,5300.0,0.4,11.0,clear
+48,Black Gram (Urd Beans),Shahjahanpur,2015-12-28,8685.0,2.3,11.0,clear
+49,Green Gram (Moong),Shahjahanpur,2015-12-28,9050.0,1.5,11.0,clear
+50,Lentil(Masur),Shahjahanpur,2015-12-28,6945.0,3.0,11.0,clear
+51,Arhar (Tur/Red Gram),Shahjahanpur,2015-12-30,8850.0,2.2,20.0,clear
+52,Bengal Gram(Gram),Shahjahanpur,2015-12-30,5325.0,2.6,20.0,clear
+53,Black Gram (Urd Beans),Shahjahanpur,2015-12-30,8700.0,2.5,20.0,clear
+54,Green Gram (Moong),Shahjahanpur,2015-12-30,9060.0,1.2,20.0,clear
+55,Arhar (Tur/Red Gram),Shahjahanpur,2015-12-31,8850.0,2.0,22.0,clear
+56,Bengal Gram(Gram),Shahjahanpur,2015-12-31,5330.0,2.4,22.0,clear
+57,Black Gram (Urd Beans),Shahjahanpur,2015-12-31,8710.0,2.3,22.0,clear
+58,Green Gram (Moong),Shahjahanpur,2015-12-31,9060.0,1.8,22.0,clear
+59,Lentil(Masur),Shahjahanpur,2015-12-31,6950.0,3.0,22.0,clear
+60,Bengal Gram(Gram),Shahjahanpur,2015-12-24,5285.0,2.7,19.2,clear
+61,Black Gram (Urd Beans),Shahjahanpur,2015-12-24,8690.0,2.5,19.2,clear
+62,Green Gram (Moong),Shahjahanpur,2015-12-24,9040.0,1.2,19.2,clear
+63,Bengal Gram(Gram),Shahjahanpur,2015-12-25,5280.0,3.0,19.0,clear
+64,Black Gram (Urd Beans),Shahjahanpur,2015-12-25,8680.0,2.3,19.0,clear
+65,Green Gram (Moong),Shahjahanpur,2015-12-25,9045.0,1.4,19.0,clear
+66,Bengal Gram(Gram),Shahjahanpur,2015-12-29,5325.0,2.3,22.0,clear
+67,Black Gram (Urd Beans),Shahjahanpur,2015-12-29,8700.0,2.0,22.0,clear
+68,Green Gram (Moong),Shahjahanpur,2015-12-29,9050.0,1.3,22.0,clear
+69,Lentil(Masur),Shahjahanpur,2015-12-29,6940.0,3.1,22.0,clear
+70,Arhar (Tur/Red Gram),Shahjahanpur,2016-01-01,8860.0,1.8,23.0,clear
+71,Bengal Gram(Gram),Shahjahanpur,2016-01-01,5340.0,2.0,23.0,clear
+72,Black Gram (Urd Beans),Shahjahanpur,2016-01-01,8720.0,2.0,23.0,clear
+73,Lentil(Masur),Shahjahanpur,2016-01-01,6960.0,2.5,23.0,clear
+74,Arhar (Tur/Red Gram),Shahjahanpur,2016-02-01,8850.0,2.0,22.8,clear
+75,Bengal Gram(Gram),Shahjahanpur,2016-02-01,5350.0,1.6,22.8,clear
+76,Black Gram (Urd Beans),Shahjahanpur,2016-02-01,8730.0,1.7,22.8,clear
+77,Arhar (Tur/Red Gram),Shahjahanpur,2016-08-01,8850.0,2.3,29.4,clear
+78,Bengal Gram(Gram),Shahjahanpur,2016-08-01,5380.0,2.4,29.4,clear
+79,Black Gram (Urd Beans),Shahjahanpur,2016-08-01,8950.0,2.5,29.4,clear
+80,Lentil(Masur),Shahjahanpur,2016-08-01,6950.0,2.0,29.4,clear
+81,Arhar (Tur/Red Gram),Shahjahanpur,2016-09-01,8880.0,2.0,33.0,clear
+82,Bengal Gram(Gram),Shahjahanpur,2016-09-01,5400.0,2.0,33.0,clear
+83,Black Gram (Urd Beans),Shahjahanpur,2016-09-01,8960.0,2.3,33.0,clear
+84,Green Gram (Moong),Shahjahanpur,2016-09-01,8520.0,1.8,33.0,clear
+85,Lentil(Masur),Shahjahanpur,2016-09-01,6950.0,2.1,33.0,clear
+86,Arhar (Tur/Red Gram),Shahjahanpur,2016-11-01,8880.0,1.8,29.8,clear
+87,Bengal Gram(Gram),Shahjahanpur,2016-11-01,5400.0,2.5,29.8,clear
+88,Bengal Gram(Gram),Tilhar,2016-11-01,5350.0,0.4,29.8,clear
+89,Black Gram (Urd Beans),Shahjahanpur,2016-11-01,8960.0,2.4,29.8,clear
+90,Black Gram (Urd Beans),Tilhar,2016-11-01,10010.0,0.6,29.8,clear
+91,Green Gram (Moong),Shahjahanpur,2016-11-01,8520.0,1.5,29.8,clear
+92,Lentil(Masur),Shahjahanpur,2016-11-01,6950.0,2.2,29.8,clear
+93,Arhar (Tur/Red Gram),Shahjahanpur,2016-12-01,8900.0,1.7,25.4,clear
+94,Green Gram (Moong),Shahjahanpur,2016-12-01,5410.0,2.4,25.4,clear
+95,Lentil(Masur),Shahjahanpur,2016-12-01,6960.0,2.0,25.4,clear
+96,Arhar (Tur/Red Gram),Shahjahanpur,2016-01-13,8900.0,2.0,21.0,clear
+97,Bengal Gram(Gram),Shahjahanpur,2016-01-13,5400.0,3.0,21.0,clear
+98,Black Gram (Urd Beans),Shahjahanpur,2016-01-13,8980.0,2.1,21.0,clear
+99,Lentil(Masur),Shahjahanpur,2016-01-13,6960.0,2.5,21.0,clear
+100,Arhar (Tur/Red Gram),Shahjahanpur,2016-01-14,8920.0,2.3,21.4,clear
+101,Bengal Gram(Gram),Shahjahanpur,2016-01-14,5400.0,2.5,21.4,clear
+102,Black Gram (Urd Beans),Shahjahanpur,2016-01-14,8975.0,2.4,21.4,clear
+103,Green Gram (Moong),Shahjahanpur,2016-01-14,8530.0,1.4,21.4,clear
+104,Lentil(Masur),Shahjahanpur,2016-01-14,6975.0,2.3,21.4,clear
+105,Arhar (Tur/Red Gram),Shahjahanpur,2016-01-15,9200.0,2.4,19.0,clear
+106,Bengal Gram(Gram),Shahjahanpur,2016-01-15,5390.0,2.6,19.0,clear
+107,Black Gram (Urd Beans),Shahjahanpur,2016-01-15,8900.0,2.5,19.0,clear
+108,Lentil(Masur),Shahjahanpur,2016-01-15,6980.0,2.2,19.0,clear
+109,Arhar (Tur/Red Gram),Shahjahanpur,2016-01-16,9220.0,2.2,18.6,clear
+110,Bengal Gram(Gram),Shahjahanpur,2016-01-16,5360.0,3.0,18.6,clear
+111,Black Gram (Urd Beans),Shahjahanpur,2016-01-16,8890.0,2.7,18.6,clear
+112,Green Gram (Moong),Shahjahanpur,2016-01-16,8550.0,1.8,18.6,clear
+113,Lentil(Masur),Shahjahanpur,2016-01-16,6950.0,2.5,18.6,clear
+114,Arhar (Tur/Red Gram),Shahjahanpur,2016-01-18,9220.0,2.3,17.0,clear
+115,Bengal Gram(Gram),Shahjahanpur,2016-01-18,5360.0,2.5,17.0,clear
+116,Black Gram (Urd Beans),Shahjahanpur,2016-01-18,8890.0,2.6,17.0,clear
+117,Green Gram (Moong),Shahjahanpur,2016-01-18,8550.0,1.7,17.0,clear
+118,Arhar (Tur/Red Gram),Shahjahanpur,2016-01-20,9240.0,2.1,15.4,clear
+119,Bengal Gram(Gram),Shahjahanpur,2016-01-20,5350.0,2.0,15.4,clear
+120,Black Gram (Urd Beans),Shahjahanpur,2016-01-20,8885.0,3.0,15.4,clear
+121,Green Gram (Moong),Shahjahanpur,2016-01-20,8560.0,1.3,15.4,clear
+122,Lentil(Masur),Shahjahanpur,2016-01-20,6940.0,2.3,15.4,clear
+123,Arhar (Tur/Red Gram),Shahjahanpur,2016-01-21,9240.0,2.5,10.0,clear
+124,Bengal Gram(Gram),Shahjahanpur,2016-01-21,5350.0,3.0,10.0,clear
+125,Black Gram (Urd Beans),Shahjahanpur,2016-01-21,8860.0,3.5,10.0,clear
+126,Green Gram (Moong),Shahjahanpur,2016-01-21,8560.0,1.4,10.0,clear
+127,Lentil(Masur),Shahjahanpur,2016-01-21,6940.0,2.4,10.0,clear
+128,Arhar (Tur/Red Gram),Shahjahanpur,2016-01-22,9950.0,2.4,14.4,clear
+129,Bengal Gram(Gram),Shahjahanpur,2016-01-22,5360.0,4.0,14.4,clear
+130,Black Gram (Urd Beans),Shahjahanpur,2016-01-22,9460.0,4.0,14.4,clear
+131,Green Gram (Moong),Shahjahanpur,2016-01-22,8550.0,1.5,14.4,clear
+132,Lentil(Masur),Shahjahanpur,2016-01-22,6930.0,2.2,14.4,clear
+133,Arhar (Tur/Red Gram),Shahjahanpur,2016-01-23,9950.0,4.0,16.0,clear
+134,Bengal Gram(Gram),Shahjahanpur,2016-01-23,5100.0,3.5,16.0,clear
+135,Black Gram (Urd Beans),Shahjahanpur,2016-01-23,9460.0,2.5,16.0,clear
+136,Green Gram (Moong),Shahjahanpur,2016-01-23,8600.0,1.4,16.0,clear
+137,Lentil(Masur),Shahjahanpur,2016-01-23,8450.0,1.3,16.0,clear
+138,Arhar (Tur/Red Gram),Shahjahanpur,2016-01-25,9960.0,3.8,19.0,clear
+139,Bengal Gram(Gram),Shahjahanpur,2016-01-25,5100.0,4.0,19.0,clear
+140,Bengal Gram(Gram),Tilhar,2016-01-25,5200.0,0.5,19.0,clear
+141,Black Gram (Urd Beans),Shahjahanpur,2016-01-25,9450.0,2.8,19.0,clear
+142,Black Gram (Urd Beans),Tilhar,2016-01-25,10040.0,0.4,19.0,clear
+143,Green Gram (Moong),Shahjahanpur,2016-01-25,8600.0,1.2,19.0,clear
+144,Lentil(Masur),Shahjahanpur,2016-01-25,6900.0,2.4,19.0,clear
+145,Arhar (Tur/Red Gram),Shahjahanpur,2016-01-27,9980.0,3.0,20.0,clear
+146,Bengal Gram(Gram),Shahjahanpur,2016-01-27,5090.0,4.5,20.0,clear
+147,Black Gram (Urd Beans),Shahjahanpur,2016-01-27,9480.0,2.5,20.0,clear
+148,Green Gram (Moong),Shahjahanpur,2016-01-27,8220.0,1.1,20.0,clear
+149,Lentil(Masur),Shahjahanpur,2016-01-27,6900.0,2.3,20.0,clear
+150,Arhar (Tur/Red Gram),Shahjahanpur,2016-01-28,9980.0,2.5,21.0,clear
+151,Bengal Gram(Gram),Shahjahanpur,2016-01-28,5080.0,5.0,21.0,clear
+152,Green Gram (Moong),Shahjahanpur,2016-01-28,8820.0,1.2,21.0,clear
+153,Lentil(Masur),Shahjahanpur,2016-01-28,6890.0,2.4,21.0,clear
+154,Arhar (Tur/Red Gram),Shahjahanpur,2016-01-29,9990.0,2.4,22.0,clear
+155,Bengal Gram(Gram),Shahjahanpur,2016-01-29,5080.0,4.0,22.0,clear
+156,Black Gram (Urd Beans),Shahjahanpur,2016-01-29,9500.0,2.0,22.0,clear
+157,Lentil(Masur),Shahjahanpur,2016-01-29,6890.0,2.5,22.0,clear
+158,Arhar (Tur/Red Gram),Shahjahanpur,2016-01-30,9990.0,2.1,24.0,clear
+159,Bengal Gram(Gram),Shahjahanpur,2016-01-30,5060.0,4.2,24.0,clear
+160,Black Gram (Urd Beans),Shahjahanpur,2016-01-30,9500.0,2.5,24.0,clear
+161,Green Gram (Moong),Shahjahanpur,2016-01-30,8960.0,1.3,24.0,clear
+162,Lentil(Masur),Shahjahanpur,2016-01-30,6880.0,2.6,24.0,clear
+163,Arhar (Tur/Red Gram),Shahjahanpur,2016-01-02,9980.0,2.2,22.0,clear
+164,Bengal Gram(Gram),Shahjahanpur,2016-01-02,5060.0,4.5,22.0,clear
+165,Bengal Gram(Gram),Tilhar,2016-01-02,5100.0,0.4,22.0,clear
+166,Black Gram (Urd Beans),Shahjahanpur,2016-01-02,9520.0,2.4,22.0,clear
+167,Green Gram (Moong),Shahjahanpur,2016-01-02,8960.0,1.4,22.0,clear
+168,Lentil(Masur),Shahjahanpur,2016-01-02,6880.0,2.5,22.0,clear
+169,Arhar (Tur/Red Gram),Shahjahanpur,2016-03-02,9950.0,2.2,29.0,clear
+170,Bengal Gram(Gram),Shahjahanpur,2016-03-02,5040.0,4.5,29.0,clear
+171,Bengal Gram(Gram),Tilhar,2016-03-02,5090.0,0.3,29.0,clear
+172,Black Gram (Urd Beans),Shahjahanpur,2016-03-02,9530.0,2.5,29.0,clear
+173,Green Gram (Moong),Shahjahanpur,2016-03-02,8980.0,1.3,29.0,clear
+174,Lentil(Masur),Shahjahanpur,2016-03-02,6850.0,1.8,29.0,clear
+175,Arhar (Tur/Red Gram),Shahjahanpur,2016-04-02,9950.0,2.3,35.0,clear
+176,Bengal Gram(Gram),Shahjahanpur,2016-04-02,5050.0,4.0,35.0,clear
+177,Black Gram (Urd Beans),Shahjahanpur,2016-04-02,9500.0,2.6,35.0,clear
+178,Green Gram (Moong),Shahjahanpur,2016-04-02,8985.0,1.1,35.0,clear
+179,Lentil(Masur),Shahjahanpur,2016-04-02,6860.0,1.5,35.0,clear
+180,Arhar (Tur/Red Gram),Shahjahanpur,2016-05-02,9960.0,2.1,41.0,clear
+181,Bengal Gram(Gram),Shahjahanpur,2016-05-02,5050.0,3.0,41.0,clear
+182,Black Gram (Urd Beans),Shahjahanpur,2016-05-02,9500.0,2.5,41.0,clear
+183,Green Gram (Moong),Shahjahanpur,2016-05-02,8985.0,1.3,41.0,clear
+184,Lentil(Masur),Shahjahanpur,2016-05-02,6860.0,1.4,41.0,clear
+185,Arhar (Tur/Red Gram),Shahjahanpur,2016-06-02,9960.0,2.2,36.0,clear
+186,Bengal Gram(Gram),Shahjahanpur,2016-06-02,5060.0,2.5,36.0,clear
+187,Black Gram (Urd Beans),Shahjahanpur,2016-06-02,9530.0,2.3,36.0,clear
+188,Green Gram (Moong),Shahjahanpur,2016-06-02,8980.0,1.4,36.0,clear
+189,Lentil(Masur),Shahjahanpur,2016-06-02,6880.0,1.3,36.0,clear
+190,Arhar (Tur/Red Gram),Shahjahanpur,2016-08-02,9950.0,2.3,32.4,clear
+191,Bengal Gram(Gram),Shahjahanpur,2016-08-02,5060.0,2.4,32.4,clear
+192,Bengal Gram(Gram),Tilhar,2016-08-02,5045.0,0.7,32.4,clear
+193,Black Gram (Urd Beans),Shahjahanpur,2016-08-02,9530.0,2.4,32.4,clear
+194,Green Gram (Moong),Shahjahanpur,2016-08-02,8980.0,1.5,32.4,clear
+195,Lentil(Masur),Shahjahanpur,2016-08-02,6880.0,1.2,32.4,clear
+196,Arhar (Tur/Red Gram),Shahjahanpur,2016-09-02,9950.0,2.4,32.4,clear
+197,Bengal Gram(Gram),Shahjahanpur,2016-09-02,5050.0,2.0,32.4,clear
+198,Black Gram (Urd Beans),Shahjahanpur,2016-09-02,9550.0,2.2,32.4,clear
+199,Green Gram (Moong),Shahjahanpur,2016-09-02,9965.0,1.1,32.4,clear
+200,Lentil(Masur),Shahjahanpur,2016-09-02,6890.0,1.1,32.4,clear
+201,Arhar (Tur/Red Gram),Shahjahanpur,2016-10-02,9940.0,2.6,34.0,clear
+202,Bengal Gram(Gram),Shahjahanpur,2016-10-02,5050.0,2.5,34.0,clear
+203,Black Gram (Urd Beans),Shahjahanpur,2016-10-02,9550.0,2.0,34.0,clear
+204,Green Gram (Moong),Shahjahanpur,2016-10-02,8990.0,1.2,34.0,clear
+205,Arhar (Tur/Red Gram),Shahjahanpur,2016-11-02,9940.0,3.0,18.6,clear
+206,Bengal Gram(Gram),Shahjahanpur,2016-11-02,5060.0,2.3,18.6,clear
+207,Black Gram (Urd Beans),Shahjahanpur,2016-11-02,9560.0,1.8,18.6,clear
+208,Green Gram (Moong),Shahjahanpur,2016-11-02,8985.0,1.3,18.6,clear
+209,Lentil(Masur),Shahjahanpur,2016-11-02,6895.0,1.3,18.6,clear
+210,Arhar (Tur/Red Gram),Shahjahanpur,2016-12-02,9950.0,3.2,24.4,clear
+211,Black Gram (Urd Beans),Shahjahanpur,2016-12-02,9560.0,2.1,24.4,clear
+212,Green Gram (Moong),Shahjahanpur,2016-12-02,8985.0,1.4,24.4,clear
+213,Lentil(Masur),Shahjahanpur,2016-12-02,6895.0,1.4,24.4,clear
+214,Arhar (Tur/Red Gram),Shahjahanpur,2016-02-14,9950.0,3.2,25.0,clear
+215,Lentil(Masur),Shahjahanpur,2016-02-14,6890.0,1.4,25.0,clear
+216,Arhar (Tur/Red Gram),Shahjahanpur,2016-02-16,9940.0,3.3,24.4,clear
+217,Bengal Gram(Gram),Shahjahanpur,2016-02-16,5100.0,1.7,24.4,clear
+218,Black Gram (Urd Beans),Shahjahanpur,2016-02-16,9580.0,1.6,24.4,clear
+219,Green Gram (Moong),Shahjahanpur,2016-02-16,9000.0,0.8,24.4,clear
+220,Lentil(Masur),Shahjahanpur,2016-02-16,6900.0,1.2,24.4,clear
+221,Arhar (Tur/Red Gram),Shahjahanpur,2016-02-17,9950.0,3.0,25.0,clear
+222,Lentil(Masur),Shahjahanpur,2016-02-17,6900.0,1.0,25.0,clear
+223,Arhar (Tur/Red Gram),Shahjahanpur,2016-02-18,9950.0,2.5,28.0,clear
+224,Bengal Gram(Gram),Shahjahanpur,2016-02-18,5150.0,1.6,28.0,clear
+225,Black Gram (Urd Beans),Shahjahanpur,2016-02-18,10000.0,1.0,28.0,clear
+226,Green Gram (Moong),Shahjahanpur,2016-02-18,9050.0,1.0,28.0,clear
+227,Lentil(Masur),Shahjahanpur,2016-02-18,6850.0,2.5,28.0,clear
+228,Arhar (Tur/Red Gram),Shahjahanpur,2016-02-20,9960.0,2.0,21.4,clear
+229,Bengal Gram(Gram),Shahjahanpur,2016-02-20,5160.0,1.5,21.4,clear
+230,Black Gram (Urd Beans),Shahjahanpur,2016-02-20,9490.0,1.3,21.4,clear
+231,Lentil(Masur),Shahjahanpur,2016-02-20,6960.0,2.0,21.4,clear
+232,Arhar (Tur/Red Gram),Shahjahanpur,2016-02-22,9950.0,2.1,24.0,clear
+233,Bengal Gram(Gram),Shahjahanpur,2016-02-22,5170.0,1.2,24.0,clear
+234,Bengal Gram(Gram),Tilhar,2016-02-22,5025.0,0.8,24.0,clear
+235,Black Gram (Urd Beans),Shahjahanpur,2016-02-22,9490.0,1.5,24.0,clear
+236,Green Gram (Moong),Shahjahanpur,2016-02-22,9080.0,1.1,24.0,clear
+237,Lentil(Masur),Shahjahanpur,2016-02-22,6965.0,1.8,24.0,clear
+238,Arhar (Tur/Red Gram),Shahjahanpur,2016-02-23,9940.0,2.3,25.0,clear
+239,Bengal Gram(Gram),Shahjahanpur,2016-02-23,5175.0,1.0,25.0,clear
+240,Black Gram (Urd Beans),Shahjahanpur,2016-02-23,9480.0,1.6,25.0,clear
+241,Green Gram (Moong),Shahjahanpur,2016-02-23,9060.0,1.5,25.0,clear
+242,Lentil(Masur),Shahjahanpur,2016-02-23,6965.0,1.6,25.0,clear
+243,Arhar (Tur/Red Gram),Shahjahanpur,2016-02-24,9950.0,2.1,27.0,clear
+244,Bengal Gram(Gram),Shahjahanpur,2016-02-24,5175.0,1.5,27.0,clear
+245,Black Gram (Urd Beans),Shahjahanpur,2016-02-24,9450.0,1.7,27.0,clear
+246,Green Gram (Moong),Shahjahanpur,2016-02-24,9050.0,1.6,27.0,clear
+247,Lentil(Masur),Shahjahanpur,2016-02-24,6900.0,16.0,27.0,clear
+248,Arhar (Tur/Red Gram),Shahjahanpur,2016-02-25,9930.0,3.5,26.0,clear
+249,Bengal Gram(Gram),Shahjahanpur,2016-02-25,5180.0,3.0,26.0,clear
+250,Black Gram (Urd Beans),Shahjahanpur,2016-02-25,9440.0,2.5,26.0,clear
+251,Green Gram (Moong),Shahjahanpur,2016-02-25,9030.0,2.0,26.0,clear
+252,Arhar (Tur/Red Gram),Shahjahanpur,2016-02-26,9930.0,2.5,26.4,clear
+253,Bengal Gram(Gram),Shahjahanpur,2016-02-26,5200.0,3.5,26.4,clear
+254,Black Gram (Urd Beans),Shahjahanpur,2016-02-26,9440.0,2.0,26.4,clear
+255,Green Gram (Moong),Shahjahanpur,2016-02-26,9030.0,2.5,26.4,clear
+256,Lentil(Masur),Shahjahanpur,2016-02-26,6925.0,2.6,26.4,clear
+257,Arhar (Tur/Red Gram),Shahjahanpur,2016-02-27,9900.0,3.0,27.0,clear
+258,Bengal Gram(Gram),Shahjahanpur,2016-02-27,5170.0,4.0,27.0,clear
+259,Black Gram (Urd Beans),Shahjahanpur,2016-02-27,9430.0,3.0,27.0,clear
+260,Green Gram (Moong),Shahjahanpur,2016-02-27,9010.0,2.7,27.0,clear
+261,Lentil(Masur),Shahjahanpur,2016-02-27,6925.0,2.3,27.0,clear
+262,Arhar (Tur/Red Gram),Shahjahanpur,2016-02-29,9900.0,5.0,28.0,clear
+263,Bengal Gram(Gram),Shahjahanpur,2016-02-29,5150.0,4.5,28.0,clear
+264,Black Gram (Urd Beans),Shahjahanpur,2016-02-29,9400.0,3.5,28.0,clear
+265,Green Gram (Moong),Shahjahanpur,2016-02-29,9000.0,3.0,28.0,clear
+266,Arhar (Tur/Red Gram),Shahjahanpur,2016-03-03,9875.0,4.5,29.4,clear
+267,Bengal Gram(Gram),Shahjahanpur,2016-03-03,5130.0,7.0,29.4,clear
+268,Black Gram (Urd Beans),Shahjahanpur,2016-03-03,9380.0,4.0,29.4,clear
+269,Green Gram (Moong),Shahjahanpur,2016-03-03,8960.0,2.0,29.4,clear
+270,Lentil(Masur),Shahjahanpur,2016-03-03,6940.0,2.0,29.4,clear
+271,Arhar (Tur/Red Gram),Shahjahanpur,2016-07-03,9860.0,4.5,30.0,clear
+272,Bengal Gram(Gram),Shahjahanpur,2016-07-03,5120.0,4.0,30.0,clear
+273,Black Gram (Urd Beans),Shahjahanpur,2016-07-03,9410.0,2.5,30.0,clear
+274,Green Gram (Moong),Shahjahanpur,2016-07-03,8990.0,1.5,30.0,clear
+275,Lentil(Masur),Shahjahanpur,2016-07-03,6920.0,1.3,30.0,clear
+276,Arhar (Tur/Red Gram),Shahjahanpur,2016-08-03,9850.0,3.5,33.0,clear
+277,Bengal Gram(Gram),Shahjahanpur,2016-08-03,5120.0,3.0,33.0,clear
+278,Black Gram (Urd Beans),Shahjahanpur,2016-08-03,9410.0,2.0,33.0,clear
+279,Green Gram (Moong),Shahjahanpur,2016-08-03,8990.0,1.3,33.0,clear
+280,Lentil(Masur),Shahjahanpur,2016-08-03,6920.0,1.6,33.0,clear
+281,Arhar (Tur/Red Gram),Shahjahanpur,2016-09-03,9850.0,3.0,31.2,clear
+282,Bengal Gram(Gram),Shahjahanpur,2016-09-03,5100.0,5.0,31.2,clear
+283,Black Gram (Urd Beans),Shahjahanpur,2016-09-03,9400.0,3.0,31.2,clear
+284,Green Gram (Moong),Shahjahanpur,2016-09-03,9000.0,1.0,31.2,clear
+285,Lentil(Masur),Shahjahanpur,2016-09-03,6900.0,2.0,31.2,clear
+286,Arhar (Tur/Red Gram),Shahjahanpur,2016-11-03,9800.0,4.0,29.4,clear
+287,Bengal Gram(Gram),Shahjahanpur,2016-11-03,5110.0,3.0,29.4,clear
+288,Black Gram (Urd Beans),Shahjahanpur,2016-11-03,9450.0,2.0,29.4,clear
+289,Green Gram (Moong),Shahjahanpur,2016-11-03,9010.0,8.2,29.4,clear
+290,Lentil(Masur),Shahjahanpur,2016-11-03,6880.0,2.0,29.4,clear
+291,Arhar (Tur/Red Gram),Shahjahanpur,2016-03-14,9780.0,2.5,25.0,clear
+292,Bengal Gram(Gram),Shahjahanpur,2016-03-14,5120.0,2.5,25.0,clear
+293,Black Gram (Urd Beans),Shahjahanpur,2016-03-14,9430.0,2.0,25.0,clear
+294,Green Gram (Moong),Shahjahanpur,2016-03-14,9020.0,1.3,25.0,clear
+295,Lentil(Masur),Shahjahanpur,2016-03-14,6820.0,4.0,25.0,clear
+296,Arhar (Tur/Red Gram),Shahjahanpur,2016-03-15,9775.0,3.0,26.0,clear
+297,Bengal Gram(Gram),Shahjahanpur,2016-03-15,5130.0,2.0,26.0,clear
+298,Black Gram (Urd Beans),Shahjahanpur,2016-03-15,9440.0,1.5,26.0,clear
+299,Green Gram (Moong),Shahjahanpur,2016-03-15,9020.0,1.6,26.0,clear
+300,Lentil(Masur),Shahjahanpur,2016-03-15,6800.0,4.5,26.0,clear
+301,Arhar (Tur/Red Gram),Shahjahanpur,2016-03-16,9760.0,3.5,28.0,clear
+302,Bengal Gram(Gram),Shahjahanpur,2016-03-16,5140.0,1.5,28.0,clear
+303,Black Gram (Urd Beans),Shahjahanpur,2016-03-16,9430.0,3.0,28.0,clear
+304,Green Gram (Moong),Shahjahanpur,2016-03-16,9000.0,1.7,28.0,clear
+305,Lentil(Masur),Shahjahanpur,2016-03-16,6790.0,5.0,28.0,clear
+306,Arhar (Tur/Red Gram),Shahjahanpur,2016-03-17,9750.0,4.0,29.0,clear
+307,Bengal Gram(Gram),Shahjahanpur,2016-03-17,5150.0,1.4,29.0,clear
+308,Black Gram (Urd Beans),Shahjahanpur,2016-03-17,9450.0,2.5,29.0,clear
+309,Green Gram (Moong),Shahjahanpur,2016-03-17,9010.0,1.0,29.0,clear
+310,Lentil(Masur),Shahjahanpur,2016-03-17,6780.0,6.0,29.0,clear
+311,Arhar (Tur/Red Gram),Shahjahanpur,2016-03-18,9750.0,3.0,31.0,clear
+312,Bengal Gram(Gram),Shahjahanpur,2016-03-18,5140.0,2.0,31.0,clear
+313,Black Gram (Urd Beans),Shahjahanpur,2016-03-18,9460.0,2.0,31.0,clear
+314,Green Gram (Moong),Shahjahanpur,2016-03-18,9000.0,1.6,31.0,clear
+315,Lentil(Masur),Shahjahanpur,2016-03-18,6800.0,4.0,31.0,clear
+316,Arhar (Tur/Red Gram),Shahjahanpur,2016-03-19,9740.0,3.5,31.6,clear
+317,Bengal Gram(Gram),Shahjahanpur,2016-03-19,5100.0,3.0,31.6,clear
+318,Black Gram (Urd Beans),Shahjahanpur,2016-03-19,9440.0,2.5,31.6,clear
+319,Green Gram (Moong),Shahjahanpur,2016-03-19,9010.0,1.5,31.6,clear
+320,Lentil(Masur),Shahjahanpur,2016-03-19,6810.0,3.0,31.6,clear
+321,Arhar (Tur/Red Gram),Shahjahanpur,2016-03-21,9740.0,3.0,31.0,clear
+322,Bengal Gram(Gram),Shahjahanpur,2016-03-21,5100.0,4.0,31.0,clear
+323,Black Gram (Urd Beans),Shahjahanpur,2016-03-21,9450.0,2.0,31.0,clear
+324,Green Gram (Moong),Shahjahanpur,2016-03-21,9010.0,2.0,31.0,clear
+325,Lentil(Masur),Shahjahanpur,2016-03-21,6800.0,2.5,31.0,clear
+326,Arhar (Tur/Red Gram),Shahjahanpur,2016-03-26,9730.0,3.0,34.0,clear
+327,Bengal Gram(Gram),Shahjahanpur,2016-03-26,5100.0,4.0,34.0,clear
+328,Black Gram (Urd Beans),Shahjahanpur,2016-03-26,9475.0,1.0,34.0,clear
+329,Arhar (Tur/Red Gram),Shahjahanpur,2016-03-28,9700.0,4.0,32.0,clear
+330,Bengal Gram(Gram),Shahjahanpur,2016-03-28,5100.0,5.0,32.0,clear
+331,Black Gram (Urd Beans),Shahjahanpur,2016-03-28,9475.0,1.5,32.0,clear
+332,Green Gram (Moong),Shahjahanpur,2016-03-28,9040.0,1.3,32.0,clear
+333,Lentil(Masur),Shahjahanpur,2016-03-28,6650.0,2.0,32.0,clear
+334,Arhar (Tur/Red Gram),Shahjahanpur,2016-03-29,9700.0,2.5,20.8,clear
+335,Bengal Gram(Gram),Shahjahanpur,2016-03-29,5110.0,4.0,20.8,clear
+336,Black Gram (Urd Beans),Shahjahanpur,2016-03-29,9460.0,2.0,20.8,clear
+337,Green Gram (Moong),Shahjahanpur,2016-03-29,9040.0,1.6,20.8,clear
+338,Lentil(Masur),Shahjahanpur,2016-03-29,6630.0,2.5,20.8,clear
+339,Arhar (Tur/Red Gram),Shahjahanpur,2016-03-31,9680.0,3.5,35.4,clear
+340,Bengal Gram(Gram),Shahjahanpur,2016-03-31,5130.0,2.5,35.4,clear
+341,Black Gram (Urd Beans),Shahjahanpur,2016-03-31,9450.0,3.5,35.4,clear
+342,Green Gram (Moong),Shahjahanpur,2016-03-31,9050.0,2.0,35.4,clear
+343,Lentil(Masur),Shahjahanpur,2016-03-31,6600.0,4.0,35.4,clear
+344,Arhar (Tur/Red Gram),Shahjahanpur,2016-02-04,9670.0,3.0,21.0,clear
+345,Green Gram (Moong),Shahjahanpur,2016-02-04,9060.0,1.5,21.0,clear
+346,Lentil(Masur),Shahjahanpur,2016-02-04,6610.0,2.0,21.0,clear
+347,Arhar (Tur/Red Gram),Shahjahanpur,2016-04-04,9670.0,3.5,36.0,clear
+348,Bengal Gram(Gram),Shahjahanpur,2016-04-04,5130.0,4.0,36.0,clear
+349,Black Gram (Urd Beans),Shahjahanpur,2016-04-04,9470.0,1.5,36.0,clear
+350,Green Gram (Moong),Shahjahanpur,2016-04-04,9080.0,1.4,36.0,clear
+351,Lentil(Masur),Shahjahanpur,2016-04-04,6610.0,3.0,36.0,clear
+352,Arhar (Tur/Red Gram),Shahjahanpur,2016-07-04,9630.0,3.0,31.0,clear
+353,Bengal Gram(Gram),Shahjahanpur,2016-07-04,5100.0,7.0,31.0,clear
+354,Black Gram (Urd Beans),Shahjahanpur,2016-07-04,9500.0,1.0,31.0,clear
+355,Green Gram (Moong),Shahjahanpur,2016-07-04,9050.0,1.8,31.0,clear
+356,Lentil(Masur),Shahjahanpur,2016-07-04,6600.0,4.0,31.0,clear
+357,Arhar (Tur/Red Gram),Shahjahanpur,2016-11-04,9680.0,6.0,29.0,clear
+358,Bengal Gram(Gram),Shahjahanpur,2016-11-04,5125.0,3.0,29.0,clear
+359,Black Gram (Urd Beans),Shahjahanpur,2016-11-04,9800.0,2.0,29.0,clear
+360,Lentil(Masur),Shahjahanpur,2016-11-04,6610.0,4.0,29.0,clear
+361,Arhar (Tur/Red Gram),Shahjahanpur,2016-12-04,9680.0,5.0,12.4,clear
+362,Bengal Gram(Gram),Shahjahanpur,2016-12-04,5140.0,2.5,12.4,clear
+363,Black Gram (Urd Beans),Shahjahanpur,2016-12-04,5140.0,3.0,12.4,clear
+364,Green Gram (Moong),Shahjahanpur,2016-12-04,9050.0,2.0,12.4,clear
+365,Lentil(Masur),Shahjahanpur,2016-12-04,6620.0,3.0,12.4,clear
+366,Arhar (Tur/Red Gram),Shahjahanpur,2016-04-13,9660.0,6.5,34.0,clear
+367,Bengal Gram(Gram),Shahjahanpur,2016-04-13,5140.0,5.0,34.0,clear
+368,Black Gram (Urd Beans),Shahjahanpur,2016-04-13,9830.0,2.8,34.0,clear
+369,Green Gram (Moong),Shahjahanpur,2016-04-13,9050.0,2.5,34.0,clear
+370,Lentil(Masur),Shahjahanpur,2016-04-13,6620.0,6.0,34.0,clear
+371,Arhar (Tur/Red Gram),Shahjahanpur,2016-04-18,9640.0,3.0,38.0,clear
+372,Bengal Gram(Gram),Shahjahanpur,2016-04-18,5160.0,3.5,38.0,clear
+373,Black Gram (Urd Beans),Shahjahanpur,2016-04-18,9850.0,2.5,38.0,clear
+374,Arhar (Tur/Red Gram),Shahjahanpur,2016-04-19,9640.0,4.0,38.2,clear
+375,Bengal Gram(Gram),Shahjahanpur,2016-04-19,5160.0,6.5,38.2,clear
+376,Black Gram (Urd Beans),Shahjahanpur,2016-04-19,9850.0,2.0,38.2,clear
+377,Lentil(Masur),Shahjahanpur,2016-04-19,6840.0,12.5,38.2,clear
+378,Arhar (Tur/Red Gram),Shahjahanpur,2016-04-20,9630.0,4.5,40.0,clear
+379,Arhar (Tur/Red Gram),Shahjahanpur,2016-04-22,9730.0,3.0,28.0,clear
+380,Bengal Gram(Gram),Shahjahanpur,2016-04-22,5540.0,5.0,28.0,clear
+381,Bengal Gram(Gram),Tilhar,2016-04-22,5515.0,0.3,28.0,clear
+382,Black Gram (Urd Beans),Shahjahanpur,2016-04-22,10500.0,2.0,28.0,clear
+383,Arhar (Tur/Red Gram),Shahjahanpur,2016-04-25,9750.0,4.0,36.0,clear
+384,Bengal Gram(Gram),Shahjahanpur,2016-04-25,5560.0,6.0,36.0,clear
+385,Bengal Gram(Gram),Tilhar,2016-04-25,5525.0,0.5,36.0,clear
+386,Black Gram (Urd Beans),Shahjahanpur,2016-04-25,10520.0,3.0,36.0,clear
+387,Green Gram (Moong),Shahjahanpur,2016-04-25,9040.0,3.0,36.0,clear
+388,Arhar (Tur/Red Gram),Shahjahanpur,2016-04-26,9740.0,5.0,40.0,clear
+389,Bengal Gram(Gram),Shahjahanpur,2016-04-26,5580.0,2.0,40.0,clear
+390,Black Gram (Urd Beans),Shahjahanpur,2016-04-26,10490.0,4.0,40.0,clear
+391,Green Gram (Moong),Shahjahanpur,2016-04-26,9050.0,2.0,40.0,clear
+392,Lentil(Masur),Shahjahanpur,2016-04-26,7110.0,10.0,40.0,clear
+393,Arhar (Tur/Red Gram),Shahjahanpur,2016-04-27,9740.0,6.0,39.0,clear
+394,Lentil(Masur),Shahjahanpur,2016-04-27,7110.0,12.5,39.0,clear
+395,Arhar (Tur/Red Gram),Shahjahanpur,2016-04-28,9760.0,4.0,40.2,clear
+396,Bengal Gram(Gram),Shahjahanpur,2016-04-28,5600.0,4.0,40.2,clear
+397,Black Gram (Urd Beans),Shahjahanpur,2016-04-28,10510.0,3.0,40.2,clear
+398,Green Gram (Moong),Shahjahanpur,2016-04-28,9100.0,2.0,40.2,clear
+399,Lentil(Masur),Shahjahanpur,2016-04-28,7150.0,11.0,40.2,clear
+400,Arhar (Tur/Red Gram),Shahjahanpur,2016-04-29,9760.0,3.0,39.4,clear
+401,Bengal Gram(Gram),Shahjahanpur,2016-04-29,5600.0,3.0,39.4,clear
+402,Green Gram (Moong),Shahjahanpur,2016-04-29,9100.0,1.5,39.4,clear
+403,Lentil(Masur),Shahjahanpur,2016-04-29,7100.0,70.0,39.4,clear
+404,Arhar (Tur/Red Gram),Shahjahanpur,2016-04-30,9750.0,3.5,38.4,clear
+405,Bengal Gram(Gram),Shahjahanpur,2016-04-30,5590.0,4.0,38.4,clear
+406,Black Gram (Urd Beans),Shahjahanpur,2016-04-30,10520.0,2.0,38.4,clear
+407,Green Gram (Moong),Shahjahanpur,2016-04-30,9120.0,1.3,38.4,clear
+408,Lentil(Masur),Shahjahanpur,2016-04-30,7100.0,11.0,38.4,clear
+409,Arhar (Tur/Red Gram),Shahjahanpur,2016-02-05,9740.0,5.0,21.4,clear
+410,Bengal Gram(Gram),Shahjahanpur,2016-02-05,9130.0,1.5,21.4,clear
+411,Black Gram (Urd Beans),Shahjahanpur,2016-02-05,10515.0,2.5,21.4,clear
+412,Lentil(Masur),Shahjahanpur,2016-02-05,7115.0,8.0,21.4,clear
+413,Arhar (Tur/Red Gram),Shahjahanpur,2016-03-05,9750.0,4.0,20.0,clear
+414,Bengal Gram(Gram),Shahjahanpur,2016-03-05,5580.0,8.0,20.0,clear
+415,Green Gram (Moong),Shahjahanpur,2016-03-05,9135.0,1.4,20.0,clear
+416,Lentil(Masur),Shahjahanpur,2016-03-05,7115.0,6.0,20.0,clear
+417,Arhar (Tur/Red Gram),Shahjahanpur,2016-04-05,9750.0,3.5,37.0,clear
+418,Green Gram (Moong),Shahjahanpur,2016-04-05,9135.0,12.0,37.0,clear
+419,Lentil(Masur),Shahjahanpur,2016-04-05,7120.0,4.0,37.0,clear
+420,Arhar (Tur/Red Gram),Shahjahanpur,2016-05-05,9760.0,3.4,32.4,clear
+421,Bengal Gram(Gram),Shahjahanpur,2016-05-05,5585.0,4.0,32.4,clear
+422,Black Gram (Urd Beans),Shahjahanpur,2016-05-05,10520.0,1.8,32.4,clear
+423,Green Gram (Moong),Shahjahanpur,2016-05-05,9150.0,1.0,32.4,clear
+424,Lentil(Masur),Shahjahanpur,2016-05-05,7120.0,3.0,32.4,clear
+425,Arhar (Tur/Red Gram),Shahjahanpur,2016-06-05,9850.0,4.0,30.0,clear
+426,Bengal Gram(Gram),Shahjahanpur,2016-06-05,5585.0,5.0,30.0,clear
+427,Black Gram (Urd Beans),Shahjahanpur,2016-06-05,10830.0,1.5,30.0,clear
+428,Green Gram (Moong),Shahjahanpur,2016-06-05,9150.0,1.6,30.0,clear
+429,Lentil(Masur),Shahjahanpur,2016-06-05,7130.0,2.5,30.0,clear
+430,Arhar (Tur/Red Gram),Shahjahanpur,2016-07-05,9840.0,5.0,31.0,clear
+431,Bengal Gram(Gram),Shahjahanpur,2016-07-05,5590.0,4.0,31.0,clear
+432,Black Gram (Urd Beans),Shahjahanpur,2016-07-05,10830.0,2.0,31.0,clear
+433,Green Gram (Moong),Shahjahanpur,2016-07-05,9165.0,1.5,31.0,clear
+434,Lentil(Masur),Shahjahanpur,2016-07-05,7130.0,3.5,31.0,clear
+435,Arhar (Tur/Red Gram),Shahjahanpur,2016-10-05,9840.0,4.5,26.8,rain
+436,Bengal Gram(Gram),Shahjahanpur,2016-10-05,5580.0,6.0,26.8,rain
+437,Bengal Gram(Gram),Tilhar,2016-10-05,5565.0,0.4,26.8,rain
+438,Lentil(Masur),Shahjahanpur,2016-10-05,7140.0,3.0,26.8,rain
+439,Arhar (Tur/Red Gram),Shahjahanpur,2016-11-05,9850.0,3.5,27.0,clear
+440,Bengal Gram(Gram),Shahjahanpur,2016-11-05,5600.0,4.0,27.0,clear
+441,Black Gram (Urd Beans),Shahjahanpur,2016-11-05,10850.0,1.5,27.0,clear
+442,Black Gram (Urd Beans),Tilhar,2016-11-05,13800.0,0.2,27.0,clear
+443,Lentil(Masur),Shahjahanpur,2016-11-05,7150.0,2.0,27.0,clear
+444,Arhar (Tur/Red Gram),Shahjahanpur,2016-05-17,9865.0,3.0,27.4,clear
+445,Bengal Gram(Gram),Shahjahanpur,2016-05-17,5660.0,1.5,27.4,clear
+446,Black Gram (Urd Beans),Shahjahanpur,2016-05-17,10850.0,2.5,27.4,clear
+447,Green Gram (Moong),Shahjahanpur,2016-05-17,9200.0,1.2,27.4,clear
+448,Lentil(Masur),Shahjahanpur,2016-05-17,7250.0,2.4,27.4,clear
+449,Arhar (Tur/Red Gram),Shahjahanpur,2016-05-18,9865.0,2.5,41.0,clear
+450,Bengal Gram(Gram),Shahjahanpur,2016-05-18,5675.0,1.4,41.0,clear
+451,Black Gram (Urd Beans),Shahjahanpur,2016-05-18,10850.0,2.0,41.0,clear
+452,Green Gram (Moong),Shahjahanpur,2016-05-18,9200.0,1.6,41.0,clear
+453,Lentil(Masur),Shahjahanpur,2016-05-18,7250.0,3.0,41.0,clear
+454,Arhar (Tur/Red Gram),Shahjahanpur,2016-05-19,9850.0,3.0,29.0,clear
+455,Bengal Gram(Gram),Shahjahanpur,2016-05-19,5675.0,2.0,29.0,clear
+456,Black Gram (Urd Beans),Shahjahanpur,2016-05-19,10865.0,1.5,29.0,clear
+457,Green Gram (Moong),Shahjahanpur,2016-05-19,9225.0,1.6,29.0,clear
+458,Lentil(Masur),Shahjahanpur,2016-05-19,7240.0,3.5,29.0,clear
+459,Arhar (Tur/Red Gram),Shahjahanpur,2016-05-26,9840.0,2.5,36.0,clear
+460,Bengal Gram(Gram),Shahjahanpur,2016-05-26,5760.0,30.0,36.0,clear
+461,Bengal Gram(Gram),Tilhar,2016-05-26,5725.0,0.3,36.0,clear
+462,Black Gram (Urd Beans),Shahjahanpur,2016-05-26,10840.0,3.0,36.0,clear
+463,Lentil(Masur),Shahjahanpur,2016-05-26,7240.0,1.5,36.0,clear
+464,Arhar (Tur/Red Gram),Shahjahanpur,2016-05-30,9850.0,2.0,33.0,clear
+465,Bengal Gram(Gram),Shahjahanpur,2016-05-30,5775.0,10.0,33.0,clear
+466,Bengal Gram(Gram),Tilhar,2016-05-30,5800.0,0.4,33.0,clear
+467,Black Gram (Urd Beans),Shahjahanpur,2016-05-30,10845.0,2.5,33.0,clear
+468,Black Gram (Urd Beans),Tilhar,2016-05-30,13050.0,0.3,33.0,clear
+469,Green Gram (Moong),Shahjahanpur,2016-05-30,9255.0,1.9,33.0,clear
+470,Lentil(Masur),Shahjahanpur,2016-05-30,7250.0,2.0,33.0,clear
+471,Arhar (Tur/Red Gram),Shahjahanpur,2016-02-06,9860.0,2.4,7.4,clear
+472,Bengal Gram(Gram),Shahjahanpur,2016-02-06,6000.0,3.0,7.4,clear
+473,Black Gram (Urd Beans),Shahjahanpur,2016-02-06,10850.0,2.3,7.4,clear
+474,Green Gram (Moong),Shahjahanpur,2016-02-06,9250.0,2.4,7.4,clear
+475,Lentil(Masur),Shahjahanpur,2016-02-06,7260.0,2.2,7.4,clear
+476,Arhar (Tur/Red Gram),Shahjahanpur,2016-04-06,9850.0,2.0,34.0,clear
+477,Bengal Gram(Gram),Shahjahanpur,2016-04-06,6015.0,1.6,34.0,clear
+478,Black Gram (Urd Beans),Shahjahanpur,2016-04-06,10820.0,3.0,34.0,clear
+479,Green Gram (Moong),Shahjahanpur,2016-04-06,9240.0,1.6,34.0,clear
+480,Lentil(Masur),Shahjahanpur,2016-04-06,7280.0,1.7,34.0,clear
+481,Arhar (Tur/Red Gram),Shahjahanpur,2016-07-06,9900.0,1.5,31.0,clear
+482,Bengal Gram(Gram),Shahjahanpur,2016-07-06,6040.0,1.0,31.0,clear
+483,Black Gram (Urd Beans),Shahjahanpur,2016-07-06,10800.0,4.5,31.0,clear
+484,Lentil(Masur),Shahjahanpur,2016-07-06,7300.0,1.3,31.0,clear
+485,Arhar (Tur/Red Gram),Shahjahanpur,2016-08-06,9915.0,1.3,30.4,clear
+486,Bengal Gram(Gram),Shahjahanpur,2016-08-06,6040.0,1.2,30.4,clear
+487,Black Gram (Urd Beans),Shahjahanpur,2016-08-06,10800.0,2.0,30.4,clear
+488,Green Gram (Moong),Shahjahanpur,2016-08-06,9190.0,2.5,30.4,clear
+489,Lentil(Masur),Shahjahanpur,2016-08-06,7310.0,1.2,30.4,clear
+490,Arhar (Tur/Red Gram),Shahjahanpur,2016-09-06,9915.0,1.4,31.4,clear
+491,Bengal Gram(Gram),Shahjahanpur,2016-09-06,6020.0,1.5,31.4,clear
+492,Black Gram (Urd Beans),Shahjahanpur,2016-09-06,10805.0,1.6,31.4,clear
+493,Lentil(Masur),Shahjahanpur,2016-09-06,7310.0,1.3,31.4,clear
+494,Arhar (Tur/Red Gram),Shahjahanpur,2016-10-06,9900.0,1.5,30.0,clear
+495,Bengal Gram(Gram),Shahjahanpur,2016-10-06,6050.0,1.4,30.0,clear
+496,Black Gram (Urd Beans),Shahjahanpur,2016-10-06,10800.0,2.0,30.0,clear
+497,Green Gram (Moong),Shahjahanpur,2016-10-06,9180.0,2.0,30.0,clear
+498,Lentil(Masur),Shahjahanpur,2016-10-06,7300.0,1.6,30.0,clear
+499,Arhar (Tur/Red Gram),Shahjahanpur,2016-06-13,9900.0,2.5,32.4,clear
+500,Bengal Gram(Gram),Shahjahanpur,2016-06-13,6045.0,2.0,32.4,clear
+501,Bengal Gram(Gram),Tilhar,2016-06-13,6075.0,0.7,32.4,clear
+502,Black Gram (Urd Beans),Shahjahanpur,2016-06-13,10790.0,2.5,32.4,clear
+503,Black Gram (Urd Beans),Tilhar,2016-06-13,13050.0,0.5,32.4,clear
+504,Lentil(Masur),Shahjahanpur,2016-06-13,7310.0,1.4,32.4,clear
+505,Arhar (Tur/Red Gram),Shahjahanpur,2016-06-14,9890.0,2.6,36.2,clear
+506,Bengal Gram(Gram),Shahjahanpur,2016-06-14,6030.0,2.2,36.2,clear
+507,Black Gram (Urd Beans),Shahjahanpur,2016-06-14,10800.0,2.4,36.2,clear
+508,Green Gram (Moong),Shahjahanpur,2016-06-14,9210.0,2.3,36.2,clear
+509,Lentil(Masur),Shahjahanpur,2016-06-14,7320.0,1.2,36.2,clear
+510,Arhar (Tur/Red Gram),Shahjahanpur,2016-06-15,9890.0,2.5,39.0,clear
+511,Bengal Gram(Gram),Shahjahanpur,2016-06-15,6030.0,3.0,39.0,clear
+512,Black Gram (Urd Beans),Shahjahanpur,2016-06-15,10800.0,2.3,39.0,clear
+513,Green Gram (Moong),Shahjahanpur,2016-06-15,9210.0,1.5,39.0,clear
+514,Lentil(Masur),Shahjahanpur,2016-06-15,7320.0,1.5,39.0,clear
+515,Arhar (Tur/Red Gram),Shahjahanpur,2016-06-16,9900.0,2.3,37.2,clear
+516,Bengal Gram(Gram),Shahjahanpur,2016-06-16,6240.0,4.0,37.2,clear
+517,Black Gram (Urd Beans),Shahjahanpur,2016-06-16,10805.0,2.2,37.2,clear
+518,Green Gram (Moong),Shahjahanpur,2016-06-16,9215.0,1.4,37.2,clear
+519,Lentil(Masur),Shahjahanpur,2016-06-16,7350.0,1.3,37.2,clear
+520,Arhar (Tur/Red Gram),Shahjahanpur,2016-06-18,9905.0,2.0,34.0,clear
+521,Bengal Gram(Gram),Shahjahanpur,2016-06-18,6200.0,4.0,34.0,clear
+522,Black Gram (Urd Beans),Shahjahanpur,2016-06-18,10800.0,1.5,34.0,clear
+523,Green Gram (Moong),Shahjahanpur,2016-06-18,9200.0,1.5,34.0,clear
+524,Lentil(Masur),Shahjahanpur,2016-06-18,7340.0,1.5,34.0,clear
+525,Arhar (Tur/Red Gram),Shahjahanpur,2016-06-23,9900.0,2.0,34.4,clear
+526,Bengal Gram(Gram),Shahjahanpur,2016-06-23,6240.0,2.3,34.4,clear
+527,Black Gram (Urd Beans),Shahjahanpur,2016-06-23,10800.0,1.8,34.4,clear
+528,Green Gram (Moong),Shahjahanpur,2016-06-23,9240.0,1.6,34.4,clear
+529,Lentil(Masur),Shahjahanpur,2016-06-23,7335.0,2.2,34.4,clear
+530,Arhar (Tur/Red Gram),Shahjahanpur,2016-06-24,9905.0,1.6,34.4,clear
+531,Bengal Gram(Gram),Shahjahanpur,2016-06-24,6250.0,2.2,34.4,clear
+532,Black Gram (Urd Beans),Shahjahanpur,2016-06-24,10800.0,2.0,34.4,clear
+533,Green Gram (Moong),Shahjahanpur,2016-06-24,9240.0,1.5,34.4,clear
+534,Lentil(Masur),Shahjahanpur,2016-06-24,7335.0,2.5,34.4,clear
+535,Arhar (Tur/Red Gram),Shahjahanpur,2016-06-25,9910.0,1.4,33.0,clear
+536,Bengal Gram(Gram),Shahjahanpur,2016-06-25,6250.0,2.0,33.0,clear
+537,Green Gram (Moong),Shahjahanpur,2016-06-25,9250.0,1.3,33.0,clear
+538,Lentil(Masur),Shahjahanpur,2016-06-25,7340.0,2.3,33.0,clear
+539,Arhar (Tur/Red Gram),Shahjahanpur,2016-06-28,9920.0,2.4,35.0,clear
+540,Bengal Gram(Gram),Shahjahanpur,2016-06-28,6260.0,1.3,35.0,clear
+541,Black Gram (Urd Beans),Shahjahanpur,2016-06-28,10790.0,2.3,35.0,clear
+542,Lentil(Masur),Shahjahanpur,2016-06-28,7350.0,2.4,35.0,clear
+543,Arhar (Tur/Red Gram),Shahjahanpur,2016-04-07,9950.0,2.5,33.0,clear
+544,Bengal Gram(Gram),Shahjahanpur,2016-04-07,6250.0,2.3,33.0,clear
+545,Black Gram (Urd Beans),Shahjahanpur,2016-04-07,10800.0,2.0,33.0,clear
+546,Green Gram (Moong),Shahjahanpur,2016-04-07,9230.0,1.4,33.0,clear
+547,Arhar (Tur/Red Gram),Shahjahanpur,2016-06-07,9960.0,202.0,30.4,clear
+548,Green Gram (Moong),Shahjahanpur,2016-06-07,9240.0,1.0,30.4,clear
+549,Arhar (Tur/Red Gram),Shahjahanpur,2016-07-13,9950.0,1.6,33.4,clear
+550,Bengal Gram(Gram),Shahjahanpur,2016-07-13,6730.0,2.3,33.4,clear
+551,Arhar (Tur/Red Gram),Shahjahanpur,2016-07-16,9700.0,2.5,29.0,clear
+552,Bengal Gram(Gram),Shahjahanpur,2016-07-16,7050.0,1.6,29.0,clear
+553,Black Gram (Urd Beans),Shahjahanpur,2016-07-16,10780.0,1.5,29.0,clear
+554,Green Gram (Moong),Shahjahanpur,2016-07-16,8750.0,1.6,29.0,clear
+555,Lentil(Masur),Shahjahanpur,2016-07-16,7200.0,1.2,29.0,clear
+556,Arhar (Tur/Red Gram),Shahjahanpur,2016-07-18,9700.0,2.5,28.4,clear
+557,Bengal Gram(Gram),Shahjahanpur,2016-07-18,7100.0,1.4,28.4,clear
+558,Black Gram (Urd Beans),Shahjahanpur,2016-07-18,10780.0,1.4,28.4,clear
+559,Green Gram (Moong),Shahjahanpur,2016-07-18,7250.0,1.3,28.4,clear
+560,Arhar (Tur/Red Gram),Shahjahanpur,2016-07-20,9725.0,1.4,34.0,clear
+561,Bengal Gram(Gram),Shahjahanpur,2016-07-20,7650.0,1.3,34.0,clear
+562,Green Gram (Moong),Shahjahanpur,2016-07-20,7250.0,1.1,34.0,clear
+563,Arhar (Tur/Red Gram),Shahjahanpur,2016-07-25,9450.0,1.3,29.0,clear
+564,Bengal Gram(Gram),Shahjahanpur,2016-07-25,8100.0,1.3,29.0,clear
+565,Lentil(Masur),Shahjahanpur,2016-07-25,7350.0,1.2,29.0,clear
+566,Arhar (Tur/Red Gram),Shahjahanpur,2016-07-26,9450.0,1.0,28.0,clear
+567,Bengal Gram(Gram),Shahjahanpur,2016-07-26,8400.0,1.4,28.0,clear
+568,Black Gram (Urd Beans),Shahjahanpur,2016-07-26,10730.0,1.0,28.0,clear
+569,Arhar (Tur/Red Gram),Shahjahanpur,2016-07-30,9460.0,1.3,30.0,clear
+570,Bengal Gram(Gram),Shahjahanpur,2016-07-30,8520.0,1.0,30.0,clear
+571,Black Gram (Urd Beans),Shahjahanpur,2016-07-30,10760.0,1.2,30.0,clear
+572,Green Gram (Moong),Shahjahanpur,2016-07-30,8650.0,1.3,30.0,clear
+573,Lentil(Masur),Shahjahanpur,2016-07-30,7260.0,1.3,30.0,clear
+574,Arhar (Tur/Red Gram),Shahjahanpur,2016-01-08,9520.0,1.3,23.0,clear
+575,Bengal Gram(Gram),Shahjahanpur,2016-01-08,8560.0,1.0,23.0,clear
+576,Black Gram (Urd Beans),Shahjahanpur,2016-01-08,10800.0,1.4,23.0,clear
+577,Lentil(Masur),Shahjahanpur,2016-01-08,7300.0,1.2,23.0,clear
+578,Arhar (Tur/Red Gram),Shahjahanpur,2016-03-08,9520.0,2.0,29.0,clear
+579,Green Gram (Moong),Shahjahanpur,2016-03-08,8740.0,1.5,29.0,clear
+580,Lentil(Masur),Shahjahanpur,2016-03-08,7315.0,1.8,29.0,clear
+581,Arhar (Tur/Red Gram),Shahjahanpur,2016-04-08,9535.0,1.7,36.8,clear
+582,Bengal Gram(Gram),Shahjahanpur,2016-04-08,8540.0,1.5,36.8,clear
+583,Black Gram (Urd Beans),Shahjahanpur,2016-04-08,11800.0,1.5,36.8,clear
+584,Lentil(Masur),Shahjahanpur,2016-04-08,7335.0,1.7,36.8,clear
+585,Arhar (Tur/Red Gram),Shahjahanpur,2016-05-08,9535.0,1.6,34.6,clear
+586,Bengal Gram(Gram),Shahjahanpur,2016-05-08,8540.0,2.0,34.6,clear
+587,Lentil(Masur),Shahjahanpur,2016-05-08,7335.0,1.5,34.6,clear
+588,Arhar (Tur/Red Gram),Shahjahanpur,2016-08-08,9550.0,1.2,30.0,clear
+589,Lentil(Masur),Shahjahanpur,2016-08-08,7200.0,1.4,30.0,clear
+590,Arhar (Tur/Red Gram),Shahjahanpur,2016-09-08,12350.0,4.0,33.0,clear
+591,Bengal Gram(Gram),Shahjahanpur,2016-09-08,8800.0,1.5,33.0,clear
+592,Black Gram (Urd Beans),Shahjahanpur,2016-09-08,10960.0,1.3,33.0,clear
+593,Green Gram (Moong),Shahjahanpur,2016-09-08,8800.0,1.3,33.0,clear
+594,Lentil(Masur),Shahjahanpur,2016-09-08,7200.0,1.5,33.0,clear
+595,Arhar (Tur/Red Gram),Shahjahanpur,2016-11-08,9540.0,3.0,27.0,clear
+596,Bengal Gram(Gram),Shahjahanpur,2016-11-08,8820.0,2.5,27.0,clear
+597,Black Gram (Urd Beans),Shahjahanpur,2016-11-08,10940.0,1.6,27.0,clear
+598,Lentil(Masur),Shahjahanpur,2016-11-08,7190.0,1.4,27.0,clear
+599,Arhar (Tur/Red Gram),Shahjahanpur,2016-12-08,9550.0,2.5,14.0,clear
+600,Bengal Gram(Gram),Shahjahanpur,2016-12-08,8835.0,2.3,14.0,clear
+601,Lentil(Masur),Shahjahanpur,2016-12-08,7200.0,1.2,14.0,clear
+602,Arhar (Tur/Red Gram),Shahjahanpur,2016-08-16,9560.0,2.5,32.0,clear
+603,Lentil(Masur),Shahjahanpur,2016-08-16,7220.0,1.5,32.0,clear
+604,Arhar (Tur/Red Gram),Shahjahanpur,2016-08-19,9580.0,2.0,32.4,clear
+605,Bengal Gram(Gram),Shahjahanpur,2016-08-19,8850.0,4.0,32.4,clear
+606,Black Gram (Urd Beans),Shahjahanpur,2016-08-19,10965.0,1.4,32.4,clear
+607,Lentil(Masur),Shahjahanpur,2016-08-19,7230.0,1.6,32.4,clear
+608,Arhar (Tur/Red Gram),Shahjahanpur,2016-08-20,9575.0,2.3,32.4,clear
+609,Bengal Gram(Gram),Shahjahanpur,2016-08-20,8830.0,5.0,32.4,clear
+610,Black Gram (Urd Beans),Shahjahanpur,2016-08-20,10965.0,1.5,32.4,clear
+611,Green Gram (Moong),Shahjahanpur,2016-08-20,8530.0,1.6,32.4,clear
+612,Lentil(Masur),Shahjahanpur,2016-08-20,7250.0,1.5,32.4,clear
+613,Arhar (Tur/Red Gram),Shahjahanpur,2016-08-22,9585.0,2.0,30.6,clear
+614,Bengal Gram(Gram),Shahjahanpur,2016-08-22,8850.0,4.0,30.6,clear
+615,Black Gram (Urd Beans),Shahjahanpur,2016-08-22,10950.0,2.0,30.6,clear
+616,Green Gram (Moong),Shahjahanpur,2016-08-22,8530.0,1.7,30.6,clear
+617,Lentil(Masur),Shahjahanpur,2016-08-22,7250.0,1.4,30.6,clear
+618,Arhar (Tur/Red Gram),Shahjahanpur,2016-08-24,9600.0,2.0,32.0,clear
+619,Green Gram (Moong),Shahjahanpur,2016-08-24,8550.0,1.5,32.0,clear
+620,Lentil(Masur),Shahjahanpur,2016-08-24,7260.0,1.5,32.0,clear
+621,Arhar (Tur/Red Gram),Shahjahanpur,2016-08-26,9400.0,1.5,31.0,clear
+622,Bengal Gram(Gram),Shahjahanpur,2016-08-26,8840.0,4.0,31.0,clear
+623,Black Gram (Urd Beans),Shahjahanpur,2016-08-26,10660.0,1.4,31.0,clear
+624,Green Gram (Moong),Shahjahanpur,2016-08-26,8565.0,1.4,31.0,clear
+625,Lentil(Masur),Shahjahanpur,2016-08-26,7265.0,1.4,31.0,clear
+626,Arhar (Tur/Red Gram),Shahjahanpur,2016-08-27,9380.0,1.6,34.0,clear
+627,Bengal Gram(Gram),Shahjahanpur,2016-08-27,8860.0,3.0,34.0,clear
+628,Green Gram (Moong),Shahjahanpur,2016-08-27,8565.0,1.3,34.0,clear
+629,Arhar (Tur/Red Gram),Shahjahanpur,2016-08-29,9380.0,14.0,31.2,clear
+630,Bengal Gram(Gram),Shahjahanpur,2016-08-29,8860.0,3.5,31.2,clear
+631,Black Gram (Urd Beans),Shahjahanpur,2016-08-29,8860.0,3.5,31.2,clear
+632,Lentil(Masur),Shahjahanpur,2016-08-29,7255.0,2.4,31.2,clear
+633,Arhar (Tur/Red Gram),Shahjahanpur,2016-08-31,9350.0,1.6,31.0,clear
+634,Bengal Gram(Gram),Shahjahanpur,2016-08-31,8860.0,3.0,31.0,clear
+635,Black Gram (Urd Beans),Shahjahanpur,2016-08-31,10630.0,2.5,31.0,clear
+636,Lentil(Masur),Shahjahanpur,2016-08-31,7260.0,2.4,31.0,clear
+637,Arhar (Tur/Red Gram),Shahjahanpur,2016-01-09,9350.0,1.5,21.4,clear
+638,Bengal Gram(Gram),Shahjahanpur,2016-01-09,8860.0,4.0,21.4,clear
+639,Black Gram (Urd Beans),Shahjahanpur,2016-01-09,10630.0,2.3,21.4,clear
+640,Lentil(Masur),Shahjahanpur,2016-01-09,7260.0,2.3,21.4,clear
+641,Arhar (Tur/Red Gram),Shahjahanpur,2016-03-09,9340.0,2.2,28.0,clear
+642,Bengal Gram(Gram),Shahjahanpur,2016-03-09,8870.0,4.5,28.0,clear
+643,Black Gram (Urd Beans),Shahjahanpur,2016-03-09,10600.0,2.7,28.0,clear
+644,Green Gram (Moong),Shahjahanpur,2016-03-09,8560.0,2.0,28.0,clear
+645,Lentil(Masur),Shahjahanpur,2016-03-09,7250.0,2.6,28.0,clear
+646,Arhar (Tur/Red Gram),Shahjahanpur,2016-06-09,9335.0,2.6,37.0,clear
+647,Black Gram (Urd Beans),Shahjahanpur,2016-06-09,10620.0,2.4,37.0,clear
+648,Green Gram (Moong),Shahjahanpur,2016-06-09,8565.0,1.5,37.0,clear
+649,Lentil(Masur),Shahjahanpur,2016-06-09,7240.0,2.6,37.0,clear
+650,Arhar (Tur/Red Gram),Shahjahanpur,2016-07-09,9335.0,2.3,34.0,clear
+651,Bengal Gram(Gram),Shahjahanpur,2016-07-09,8600.0,5.0,34.0,clear
+652,Black Gram (Urd Beans),Shahjahanpur,2016-07-09,10620.0,2.3,34.0,clear
+653,Green Gram (Moong),Shahjahanpur,2016-07-09,8565.0,1.4,34.0,clear
+654,Lentil(Masur),Shahjahanpur,2016-07-09,7240.0,2.5,34.0,clear
+655,Arhar (Tur/Red Gram),Shahjahanpur,2016-12-09,9000.0,3.3,14.4,clear
+656,Bengal Gram(Gram),Shahjahanpur,2016-12-09,8500.0,3.0,14.4,clear
+657,Lentil(Masur),Shahjahanpur,2016-12-09,7200.0,2.6,14.4,clear
+658,Arhar (Tur/Red Gram),Shahjahanpur,2016-09-14,9000.0,4.0,30.0,clear
+659,Bengal Gram(Gram),Shahjahanpur,2016-09-14,8500.0,4.0,30.0,clear
+660,Black Gram (Urd Beans),Shahjahanpur,2016-09-14,9900.0,5.0,30.0,clear
+661,Green Gram (Moong),Shahjahanpur,2016-09-14,8060.0,1.8,30.0,clear
+662,Lentil(Masur),Shahjahanpur,2016-09-14,7200.0,2.4,30.0,clear
+663,Arhar (Tur/Red Gram),Shahjahanpur,2016-09-16,8190.0,3.8,29.8,clear
+664,Bengal Gram(Gram),Shahjahanpur,2016-09-16,8460.0,5.0,29.8,clear
+665,Black Gram (Urd Beans),Shahjahanpur,2016-09-16,9360.0,6.0,29.8,clear
+666,Lentil(Masur),Shahjahanpur,2016-09-16,6950.0,2.4,29.8,clear
+667,Arhar (Tur/Red Gram),Shahjahanpur,2016-09-20,8225.0,2.5,34.0,clear
+668,Black Gram (Urd Beans),Shahjahanpur,2016-09-20,8400.0,6.5,34.0,clear
+669,Arhar (Tur/Red Gram),Shahjahanpur,2016-09-22,8250.0,2.3,31.0,clear
+670,Black Gram (Urd Beans),Shahjahanpur,2016-09-22,9345.0,4.0,31.0,clear
+671,Lentil(Masur),Shahjahanpur,2016-09-22,6900.0,2.5,31.0,clear
+672,Arhar (Tur/Red Gram),Shahjahanpur,2016-09-23,8150.0,2.5,31.4,clear
+673,Bengal Gram(Gram),Shahjahanpur,2016-09-23,8350.0,11.0,31.4,clear
+674,Green Gram (Moong),Shahjahanpur,2016-09-23,7900.0,2.4,31.4,clear
+675,Lentil(Masur),Shahjahanpur,2016-09-23,6900.0,2.4,31.4,clear
+676,Arhar (Tur/Red Gram),Shahjahanpur,2016-09-24,8125.0,3.0,31.0,clear
+677,Bengal Gram(Gram),Shahjahanpur,2016-09-24,8335.0,12.5,31.0,clear
+678,Black Gram (Urd Beans),Shahjahanpur,2016-09-24,9250.0,4.0,31.0,clear
+679,Lentil(Masur),Shahjahanpur,2016-09-24,6885.0,2.5,31.0,clear
+680,Arhar (Tur/Red Gram),Shahjahanpur,2016-09-29,8115.0,2.3,25.2,clear
+681,Lentil(Masur),Shahjahanpur,2016-09-29,6890.0,2.2,25.2,clear
+682,Arhar (Tur/Red Gram),Shahjahanpur,2016-03-10,8120.0,1.8,28.0,clear
+683,Bengal Gram(Gram),Shahjahanpur,2016-03-10,8340.0,6.0,28.0,clear
+684,Black Gram (Urd Beans),Shahjahanpur,2016-03-10,9200.0,3.0,28.0,clear
+685,Lentil(Masur),Shahjahanpur,2016-03-10,6885.0,2.0,28.0,clear
+686,Arhar (Tur/Red Gram),Shahjahanpur,2016-04-10,8135.0,1.5,38.0,clear
+687,Bengal Gram(Gram),Shahjahanpur,2016-04-10,8340.0,4.5,38.0,clear
+688,Black Gram (Urd Beans),Shahjahanpur,2016-04-10,9200.0,2.5,38.0,clear
+689,Lentil(Masur),Shahjahanpur,2016-04-10,6885.0,1.6,38.0,clear
+690,Arhar (Tur/Red Gram),Shahjahanpur,2016-06-10,8140.0,1.3,37.4,clear
+691,Bengal Gram(Gram),Shahjahanpur,2016-06-10,8300.0,3.5,37.4,clear
+692,Black Gram (Urd Beans),Shahjahanpur,2016-06-10,9190.0,2.4,37.4,clear
+693,Green Gram (Moong),Shahjahanpur,2016-06-10,7865.0,2.0,37.4,clear
+694,Lentil(Masur),Shahjahanpur,2016-06-10,6865.0,2.3,37.4,clear
+695,Arhar (Tur/Red Gram),Shahjahanpur,2016-10-13,8160.0,1.3,32.0,clear
+696,Bengal Gram(Gram),Shahjahanpur,2016-10-13,8300.0,3.2,32.0,clear
+697,Black Gram (Urd Beans),Shahjahanpur,2016-10-13,9165.0,2.0,32.0,clear
+698,Green Gram (Moong),Shahjahanpur,2016-10-13,7840.0,2.5,32.0,clear
+699,Arhar (Tur/Red Gram),Shahjahanpur,2016-10-14,9850.0,1.6,31.4,clear
+700,Bengal Gram(Gram),Shahjahanpur,2016-10-14,8250.0,3.3,31.4,clear
+701,Black Gram (Urd Beans),Shahjahanpur,2016-10-14,9165.0,2.4,31.4,clear
+702,Lentil(Masur),Shahjahanpur,2016-10-14,6840.0,2.3,31.4,clear
+703,Arhar (Tur/Red Gram),Shahjahanpur,2016-10-15,8160.0,1.3,32.0,clear
+704,Bengal Gram(Gram),Shahjahanpur,2016-10-15,8300.0,3.2,32.0,clear
+705,Black Gram (Urd Beans),Shahjahanpur,2016-10-15,9165.0,2.0,32.0,clear
+706,Green Gram (Moong),Shahjahanpur,2016-10-15,7840.0,2.5,32.0,clear
+707,Lentil(Masur),Shahjahanpur,2016-10-15,6840.0,2.2,32.0,clear
+708,Arhar (Tur/Red Gram),Shahjahanpur,2016-10-18,8155.0,2.5,30.4,clear
+709,Bengal Gram(Gram),Shahjahanpur,2016-10-18,8245.0,3.0,30.4,clear
+710,Black Gram (Urd Beans),Shahjahanpur,2016-10-18,9140.0,2.4,30.4,clear
+711,Green Gram (Moong),Shahjahanpur,2016-10-18,7815.0,2.4,30.4,clear
+712,Lentil(Masur),Shahjahanpur,2016-10-18,6830.0,2.3,30.4,clear
+713,Arhar (Tur/Red Gram),Shahjahanpur,2016-10-19,8150.0,2.4,30.4,clear
+714,Green Gram (Moong),Shahjahanpur,2016-10-19,7525.0,2.6,30.4,clear
+715,Lentil(Masur),Shahjahanpur,2016-10-19,6830.0,2.4,30.4,clear
+716,Arhar (Tur/Red Gram),Shahjahanpur,2016-10-21,8365.0,2.0,30.4,clear
+717,Bengal Gram(Gram),Shahjahanpur,2016-10-21,8820.0,3.2,30.4,clear
+718,Black Gram (Urd Beans),Shahjahanpur,2016-10-21,8860.0,3.0,30.4,clear
+719,Green Gram (Moong),Shahjahanpur,2016-10-21,7480.0,2.5,30.4,clear
+720,Lentil(Masur),Shahjahanpur,2016-10-21,6840.0,2.0,30.4,clear
+721,Arhar (Tur/Red Gram),Shahjahanpur,2016-10-25,8345.0,2.3,30.4,clear
+722,Bengal Gram(Gram),Shahjahanpur,2016-10-25,8850.0,2.4,30.4,clear
+723,Black Gram (Urd Beans),Shahjahanpur,2016-10-25,8840.0,3.6,30.4,clear
+724,Green Gram (Moong),Shahjahanpur,2016-10-25,7450.0,2.5,30.4,clear
+725,Arhar (Tur/Red Gram),Shahjahanpur,2016-10-29,8300.0,2.5,28.4,clear
+726,Bengal Gram(Gram),Shahjahanpur,2016-10-29,8800.0,2.0,28.4,clear
+727,Black Gram (Urd Beans),Shahjahanpur,2016-10-29,8800.0,3.0,28.4,clear
+728,Green Gram (Moong),Shahjahanpur,2016-10-29,7350.0,2.4,28.4,clear
+729,Arhar (Tur/Red Gram),Shahjahanpur,2016-02-11,8300.0,2.0,24.0,clear
+730,Bengal Gram(Gram),Shahjahanpur,2016-02-11,8800.0,2.5,24.0,clear
+731,Black Gram (Urd Beans),Shahjahanpur,2016-02-11,8815.0,2.0,24.0,clear
+732,Lentil(Masur),Shahjahanpur,2016-02-11,6850.0,2.5,24.0,clear
+733,Arhar (Tur/Red Gram),Shahjahanpur,2016-03-11,9850.0,1.4,30.0,clear
+734,Bengal Gram(Gram),Shahjahanpur,2016-03-11,8815.0,2.3,30.0,clear
+735,Green Gram (Moong),Shahjahanpur,2016-03-11,7360.0,2.2,30.0,clear
+736,Arhar (Tur/Red Gram),Shahjahanpur,2016-04-11,8310.0,2.0,37.0,clear
+737,Bengal Gram(Gram),Shahjahanpur,2016-04-11,8815.0,2.4,37.0,clear
+738,Black Gram (Urd Beans),Shahjahanpur,2016-04-11,8825.0,1.5,37.0,clear
+739,Green Gram (Moong),Shahjahanpur,2016-04-11,7360.0,2.3,37.0,clear
+740,Lentil(Masur),Shahjahanpur,2016-04-11,6840.0,2.5,37.0,clear
+741,Arhar (Tur/Red Gram),Shahjahanpur,2016-05-11,8250.0,2.2,33.0,clear
+742,Bengal Gram(Gram),Shahjahanpur,2016-05-11,8800.0,2.5,33.0,clear
+743,Arhar (Tur/Red Gram),Shahjahanpur,2016-07-11,8250.0,1.8,32.0,clear
+744,Bengal Gram(Gram),Shahjahanpur,2016-07-11,8800.0,2.3,32.0,clear
+745,Black Gram (Urd Beans),Shahjahanpur,2016-07-11,8345.0,2.4,32.0,clear
+746,Lentil(Masur),Shahjahanpur,2016-07-11,6800.0,2.1,32.0,clear
+747,Arhar (Tur/Red Gram),Shahjahanpur,2016-08-11,8260.0,2.4,31.4,clear
+748,Bengal Gram(Gram),Shahjahanpur,2016-08-11,8790.0,2.4,31.4,clear
+749,Black Gram (Urd Beans),Shahjahanpur,2016-08-11,8345.0,2.3,31.4,clear
+750,Lentil(Masur),Shahjahanpur,2016-08-11,6815.0,2.0,31.4,clear
+751,Arhar (Tur/Red Gram),Shahjahanpur,2016-09-11,8260.0,2.6,33.4,clear
+752,Bengal Gram(Gram),Shahjahanpur,2016-09-11,8850.0,2.5,33.4,clear
+753,Black Gram (Urd Beans),Shahjahanpur,2016-09-11,8460.0,2.0,33.4,clear
+754,Lentil(Masur),Shahjahanpur,2016-09-11,6815.0,2.3,33.4,clear
+755,Arhar (Tur/Red Gram),Shahjahanpur,2016-12-11,8180.0,2.4,19.4,clear
+756,Bengal Gram(Gram),Shahjahanpur,2016-12-11,8840.0,2.6,19.4,clear
+757,Black Gram (Urd Beans),Shahjahanpur,2016-12-11,8525.0,1.4,19.4,clear
+758,Lentil(Masur),Shahjahanpur,2016-12-11,6800.0,3.0,19.4,clear
+759,Arhar (Tur/Red Gram),Shahjahanpur,2016-11-15,8190.0,2.5,26.0,clear
+760,Bengal Gram(Gram),Shahjahanpur,2016-11-15,8840.0,2.4,26.0,clear
+761,Black Gram (Urd Beans),Shahjahanpur,2016-11-15,8525.0,1.5,26.0,clear
+762,Lentil(Masur),Shahjahanpur,2016-11-15,6800.0,2.5,26.0,clear
+763,Arhar (Tur/Red Gram),Shahjahanpur,2016-11-16,8190.0,2.3,13.8,clear
+764,Bengal Gram(Gram),Shahjahanpur,2016-11-16,8930.0,2.6,13.8,clear
+765,Black Gram (Urd Beans),Shahjahanpur,2016-11-16,8500.0,1.6,13.8,clear
+766,Green Gram (Moong),Shahjahanpur,2016-11-16,7265.0,2.4,13.8,clear
+767,Lentil(Masur),Shahjahanpur,2016-11-16,6785.0,2.6,13.8,clear
+768,Arhar (Tur/Red Gram),Shahjahanpur,2016-11-17,8175.0,2.4,24.0,clear
+769,Bengal Gram(Gram),Shahjahanpur,2016-11-17,9000.0,2.5,24.0,clear
+770,Black Gram (Urd Beans),Shahjahanpur,2016-11-17,8500.0,2.0,24.0,clear
+771,Arhar (Tur/Red Gram),Shahjahanpur,2016-11-18,8175.0,2.3,24.0,clear
+772,Bengal Gram(Gram),Shahjahanpur,2016-11-18,9000.0,3.0,24.0,clear
+773,Black Gram (Urd Beans),Shahjahanpur,2016-11-18,8465.0,2.2,24.0,clear
+774,Green Gram (Moong),Shahjahanpur,2016-11-18,7250.0,2.6,24.0,clear
+775,Arhar (Tur/Red Gram),Shahjahanpur,2016-11-19,8200.0,2.2,25.0,clear
+776,Black Gram (Urd Beans),Shahjahanpur,2016-11-19,8460.0,2.3,25.0,clear
+777,Lentil(Masur),Shahjahanpur,2016-11-19,6780.0,2.3,25.0,clear
+778,Arhar (Tur/Red Gram),Shahjahanpur,2016-11-21,8200.0,2.3,25.0,clear
+779,Bengal Gram(Gram),Shahjahanpur,2016-11-21,9025.0,2.4,25.0,clear
+780,Black Gram (Urd Beans),Shahjahanpur,2016-11-21,8440.0,2.4,25.0,clear
+781,Arhar (Tur/Red Gram),Shahjahanpur,2016-11-22,8225.0,2.1,26.4,clear
+782,Bengal Gram(Gram),Shahjahanpur,2016-11-22,9025.0,2.0,26.4,clear
+783,Black Gram (Urd Beans),Shahjahanpur,2016-11-22,8480.0,2.2,26.4,clear
+784,Green Gram (Moong),Shahjahanpur,2016-11-22,7260.0,2.1,26.4,clear
+785,Arhar (Tur/Red Gram),Shahjahanpur,2016-11-24,8250.0,2.3,26.0,clear
+786,Bengal Gram(Gram),Shahjahanpur,2016-11-24,9100.0,1.5,26.0,clear
+787,Black Gram (Urd Beans),Shahjahanpur,2016-11-24,8500.0,2.1,26.0,clear
+788,Green Gram (Moong),Shahjahanpur,2016-11-24,7300.0,1.6,26.0,clear
+789,Arhar (Tur/Red Gram),Shahjahanpur,2016-11-25,8260.0,2.1,26.0,clear
+790,Bengal Gram(Gram),Shahjahanpur,2016-11-25,9115.0,1.4,26.0,clear
+791,Black Gram (Urd Beans),Shahjahanpur,2016-11-25,8510.0,2.0,26.0,clear
+792,Lentil(Masur),Shahjahanpur,2016-11-25,6810.0,2.1,26.0,clear
+793,Arhar (Tur/Red Gram),Shahjahanpur,2016-11-26,8265.0,2.8,25.4,clear
+794,Arhar (Tur/Red Gram),Shahjahanpur,2016-11-28,8240.0,3.0,22.0,clear
+795,Bengal Gram(Gram),Shahjahanpur,2016-11-28,9100.0,2.0,22.0,clear
+796,Black Gram (Urd Beans),Shahjahanpur,2016-11-28,8520.0,1.5,22.0,clear
+797,Green Gram (Moong),Shahjahanpur,2016-11-28,7320.0,1.3,22.0,clear
+798,Lentil(Masur),Shahjahanpur,2016-11-28,6820.0,2.3,22.0,clear
+799,Arhar (Tur/Red Gram),Shahjahanpur,2016-11-29,8240.0,2.8,25.0,clear
+800,Bengal Gram(Gram),Shahjahanpur,2016-11-29,9100.0,1.6,25.0,clear
+801,Black Gram (Urd Beans),Shahjahanpur,2016-11-29,8520.0,1.4,25.0,clear
+802,Lentil(Masur),Shahjahanpur,2016-11-29,6825.0,2.2,25.0,clear
+803,Arhar (Tur/Red Gram),Shahjahanpur,2016-01-12,8250.0,2.4,20.4,clear
+804,Bengal Gram(Gram),Shahjahanpur,2016-01-12,9110.0,1.5,20.4,clear
+805,Black Gram (Urd Beans),Shahjahanpur,2016-01-12,8500.0,2.0,20.4,clear
+806,Green Gram (Moong),Shahjahanpur,2016-01-12,7300.0,1.5,20.4,clear
+807,Lentil(Masur),Shahjahanpur,2016-01-12,6820.0,2.4,20.4,clear
+808,Arhar (Tur/Red Gram),Shahjahanpur,2016-03-12,8200.0,4.0,30.2,clear
+809,Bengal Gram(Gram),Shahjahanpur,2016-03-12,9100.0,2.0,30.2,clear
+810,Black Gram (Urd Beans),Shahjahanpur,2016-03-12,8460.0,5.0,30.2,clear
+811,Green Gram (Moong),Shahjahanpur,2016-03-12,7250.0,3.0,30.2,clear
+812,Lentil(Masur),Shahjahanpur,2016-03-12,6800.0,4.5,30.2,clear
+813,Arhar (Tur/Red Gram),Shahjahanpur,2016-05-12,8100.0,4.5,37.0,clear
+814,Bengal Gram(Gram),Shahjahanpur,2016-05-12,9100.0,2.5,37.0,clear
+815,Black Gram (Urd Beans),Shahjahanpur,2016-05-12,8000.0,3.0,37.0,clear
+816,Lentil(Masur),Shahjahanpur,2016-05-12,6750.0,5.0,37.0,clear
+817,Arhar (Tur/Red Gram),Shahjahanpur,2016-07-12,8100.0,1.4,33.0,clear
+818,Bengal Gram(Gram),Shahjahanpur,2016-07-12,9115.0,2.4,33.0,clear
+819,Black Gram (Urd Beans),Shahjahanpur,2016-07-12,8000.0,3.3,33.0,clear
+820,Green Gram (Moong),Shahjahanpur,2016-07-12,8000.0,3.0,33.0,clear
+821,Lentil(Masur),Shahjahanpur,2016-07-12,6750.0,4.0,33.0,clear
+822,Arhar (Tur/Red Gram),Shahjahanpur,2016-08-12,8110.0,1.3,32.4,clear
+823,Bengal Gram(Gram),Shahjahanpur,2016-08-12,9115.0,2.6,32.4,clear
+824,Black Gram (Urd Beans),Shahjahanpur,2016-08-12,8005.0,3.0,32.4,clear
+825,Lentil(Masur),Shahjahanpur,2016-08-12,6745.0,5.0,32.4,clear
+826,Arhar (Tur/Red Gram),Shahjahanpur,2016-12-13,8100.0,2.4,16.4,clear
+827,Bengal Gram(Gram),Shahjahanpur,2016-12-13,9100.0,2.5,16.4,clear
+828,Black Gram (Urd Beans),Shahjahanpur,2016-12-13,8115.0,3.4,16.4,clear
+829,Green Gram (Moong),Shahjahanpur,2016-12-13,7160.0,2.4,16.4,clear
+830,Lentil(Masur),Shahjahanpur,2016-12-13,6740.0,4.0,16.4,clear
+831,Arhar (Tur/Red Gram),Shahjahanpur,2016-12-14,8100.0,2.3,22.0,clear
+832,Bengal Gram(Gram),Shahjahanpur,2016-12-14,9100.0,2.0,22.0,clear
+833,Black Gram (Urd Beans),Shahjahanpur,2016-12-14,8115.0,3.3,22.0,clear
+834,Lentil(Masur),Shahjahanpur,2016-12-14,6730.0,5.0,22.0,clear
+835,Arhar (Tur/Red Gram),Shahjahanpur,2016-12-15,8085.0,2.5,20.4,clear
+836,Bengal Gram(Gram),Shahjahanpur,2016-12-15,9065.0,2.3,20.4,clear
+837,Black Gram (Urd Beans),Shahjahanpur,2016-12-15,8100.0,3.4,20.4,clear
+838,Green Gram (Moong),Shahjahanpur,2016-12-15,7140.0,2.4,20.4,clear
+839,Lentil(Masur),Shahjahanpur,2016-12-15,6730.0,6.0,20.4,clear
+840,Arhar (Tur/Red Gram),Shahjahanpur,2016-12-16,8200.0,2.4,18.4,clear
+841,Bengal Gram(Gram),Shahjahanpur,2016-12-16,9065.0,2.4,18.4,clear
+842,Black Gram (Urd Beans),Shahjahanpur,2016-12-16,8000.0,4.0,18.4,clear
+843,Lentil(Masur),Shahjahanpur,2016-12-16,6750.0,4.0,18.4,clear
+844,Arhar (Tur/Red Gram),Shahjahanpur,2016-12-20,8220.0,2.3,22.4,clear
+845,Bengal Gram(Gram),Shahjahanpur,2016-12-20,9050.0,2.4,22.4,clear
+846,Black Gram (Urd Beans),Shahjahanpur,2016-12-20,8005.0,2.8,22.4,clear
+847,Lentil(Masur),Shahjahanpur,2016-12-20,6740.0,2.3,22.4,clear
+848,Arhar (Tur/Red Gram),Shahjahanpur,2016-12-22,8230.0,1.8,20.4,clear
+849,Bengal Gram(Gram),Shahjahanpur,2016-12-22,9040.0,2.6,20.4,clear
+850,Black Gram (Urd Beans),Shahjahanpur,2016-12-22,8000.0,3.3,20.4,clear
+851,Green Gram (Moong),Shahjahanpur,2016-12-22,7105.0,1.6,20.4,clear
+852,Lentil(Masur),Shahjahanpur,2016-12-22,6735.0,2.2,20.4,clear
+853,Arhar (Tur/Red Gram),Shahjahanpur,2016-12-24,8250.0,1.9,22.4,clear
+854,Bengal Gram(Gram),Shahjahanpur,2016-12-24,9000.0,2.6,22.4,clear
+855,Black Gram (Urd Beans),Shahjahanpur,2016-12-24,8015.0,2.5,22.4,clear
+856,Lentil(Masur),Shahjahanpur,2016-12-24,6750.0,2.3,22.4,clear
+857,Arhar (Tur/Red Gram),Shahjahanpur,2016-12-26,8200.0,2.0,22.0,clear
+858,Bengal Gram(Gram),Shahjahanpur,2016-12-26,9000.0,2.4,22.0,clear
+859,Black Gram (Urd Beans),Shahjahanpur,2016-12-26,8000.0,2.6,22.0,clear
+860,Lentil(Masur),Shahjahanpur,2016-12-26,6750.0,2.4,22.0,clear
+861,Arhar (Tur/Red Gram),Shahjahanpur,2016-12-27,8150.0,2.3,19.4,clear
+862,Bengal Gram(Gram),Shahjahanpur,2016-12-27,8960.0,2.5,19.4,clear
+863,Black Gram (Urd Beans),Shahjahanpur,2016-12-27,8000.0,3.4,19.4,clear
+864,Green Gram (Moong),Shahjahanpur,2016-12-27,7050.0,1.6,19.4,clear
+865,Lentil(Masur),Shahjahanpur,2016-12-27,6760.0,2.2,19.4,clear
+866,Arhar (Tur/Red Gram),Shahjahanpur,2016-12-28,8150.0,2.4,8.4,clear
+867,Bengal Gram(Gram),Shahjahanpur,2016-12-28,9000.0,2.3,8.4,clear
+868,Black Gram (Urd Beans),Shahjahanpur,2016-12-28,9200.0,2.0,8.4,clear
+869,Green Gram (Moong),Shahjahanpur,2016-12-28,7100.0,2.0,8.4,clear
+870,Lentil(Masur),Shahjahanpur,2016-12-28,6760.0,2.1,8.4,clear
+871,Arhar (Tur/Red Gram),Shahjahanpur,2016-12-29,8160.0,2.3,18.6,clear
+872,Bengal Gram(Gram),Shahjahanpur,2016-12-29,9000.0,2.4,18.6,clear
+873,Black Gram (Urd Beans),Shahjahanpur,2016-12-29,8005.0,2.5,18.6,clear
+874,Green Gram (Moong),Shahjahanpur,2016-12-29,7100.0,2.4,18.6,clear
+875,Lentil(Masur),Shahjahanpur,2016-12-29,6740.0,2.3,18.6,clear
+876,Bengal Gram(Gram),Shahjahanpur,2016-01-04,5140.0,4.0,21.0,clear
+877,Black Gram (Urd Beans),Shahjahanpur,2016-01-04,9460.0,1.5,21.0,clear
+878,Bengal Gram(Gram),Shahjahanpur,2016-04-16,5150.0,4.0,38.0,clear
+879,Lentil(Masur),Shahjahanpur,2016-04-16,6640.0,8.0,38.0,clear
+880,Bengal Gram(Gram),Shahjahanpur,2016-05-13,5650.0,2.5,38.0,clear
+881,Black Gram (Urd Beans),Shahjahanpur,2016-05-13,10840.0,2.5,38.0,clear
+882,Green Gram (Moong),Shahjahanpur,2016-05-13,9180.0,2.0,38.0,clear
+883,Lentil(Masur),Shahjahanpur,2016-05-13,7260.0,3.0,38.0,clear
+884,Bengal Gram(Gram),Shahjahanpur,2016-05-16,5660.0,2.0,41.0,clear
+885,Black Gram (Urd Beans),Shahjahanpur,2016-05-16,10840.0,3.0,41.0,clear
+886,Green Gram (Moong),Shahjahanpur,2016-05-16,9185.0,1.4,41.0,clear
+887,Lentil(Masur),Shahjahanpur,2016-05-16,7260.0,2.3,41.0,clear
+888,Bengal Gram(Gram),Shahjahanpur,2016-05-20,5680.0,2.1,36.0,clear
+889,Green Gram (Moong),Shahjahanpur,2016-05-20,9225.0,1.3,36.0,clear
+890,Lentil(Masur),Shahjahanpur,2016-05-20,7240.0,3.0,36.0,clear
+891,Bengal Gram(Gram),Shahjahanpur,2016-05-21,5680.0,2.0,34.0,clear
+892,Black Gram (Urd Beans),Shahjahanpur,2016-05-21,10860.0,1.5,34.0,clear
+893,Lentil(Masur),Shahjahanpur,2016-05-21,7230.0,2.5,34.0,clear
+894,Bengal Gram(Gram),Shahjahanpur,2016-05-23,5680.0,1.5,23.4,clear
+895,Bengal Gram(Gram),Tilhar,2016-05-23,5570.0,0.4,23.4,clear
+896,Black Gram (Urd Beans),Shahjahanpur,2016-05-23,10860.0,2.5,23.4,clear
+897,Green Gram (Moong),Shahjahanpur,2016-05-23,9230.0,1.5,23.4,clear
+898,Lentil(Masur),Shahjahanpur,2016-05-23,7230.0,2.0,23.4,clear
+899,Bengal Gram(Gram),Shahjahanpur,2016-05-27,5760.0,20.0,39.0,clear
+900,Black Gram (Urd Beans),Shahjahanpur,2016-05-27,10840.0,2.6,39.0,clear
+901,Green Gram (Moong),Shahjahanpur,2016-05-27,9250.0,1.8,39.0,clear
+902,Lentil(Masur),Shahjahanpur,2016-05-27,7240.0,2.0,39.0,clear
+903,Bengal Gram(Gram),Shahjahanpur,2016-05-28,5775.0,15.0,30.0,clear
+904,Green Gram (Moong),Shahjahanpur,2016-05-28,9255.0,1.7,30.0,clear
+905,Lentil(Masur),Shahjahanpur,2016-05-28,7250.0,1.8,30.0,clear
+906,Bengal Gram(Gram),Shahjahanpur,2016-05-31,5980.0,4.0,36.0,clear
+907,Black Gram (Urd Beans),Shahjahanpur,2016-05-31,10835.0,3.0,36.0,clear
+908,Lentil(Masur),Shahjahanpur,2016-05-31,7260.0,1.8,36.0,clear
+909,Bengal Gram(Gram),Shahjahanpur,2016-01-06,5980.0,3.5,20.0,clear
+910,Black Gram (Urd Beans),Shahjahanpur,2016-01-06,10840.0,2.5,20.0,clear
+911,Lentil(Masur),Shahjahanpur,2016-01-06,7260.0,1.8,20.0,clear
+912,Bengal Gram(Gram),Shahjahanpur,2016-06-20,6200.0,3.0,31.0,clear
+913,Bengal Gram(Gram),Tilhar,2016-06-20,6100.0,0.5,31.0,clear
+914,Green Gram (Moong),Shahjahanpur,2016-06-20,9200.0,1.6,31.0,clear
+915,Lentil(Masur),Shahjahanpur,2016-06-20,7340.0,1.7,31.0,clear
+916,Bengal Gram(Gram),Shahjahanpur,2016-06-22,6230.0,2.5,28.4,clear
+917,Black Gram (Urd Beans),Shahjahanpur,2016-06-22,10790.0,2.0,28.4,clear
+918,Green Gram (Moong),Shahjahanpur,2016-06-22,9225.0,1.8,28.4,clear
+919,Lentil(Masur),Shahjahanpur,2016-06-22,7350.0,2.0,28.4,clear
+920,Bengal Gram(Gram),Shahjahanpur,2016-06-29,6250.0,1.5,32.0,clear
+921,Black Gram (Urd Beans),Shahjahanpur,2016-06-29,10785.0,2.4,32.0,clear
+922,Lentil(Masur),Shahjahanpur,2016-06-29,7350.0,2.3,32.0,clear
+923,Bengal Gram(Gram),Shahjahanpur,2016-11-07,6700.0,2.6,29.0,clear
+924,Black Gram (Urd Beans),Shahjahanpur,2016-11-07,10800.0,2.0,29.0,clear
+925,Lentil(Masur),Shahjahanpur,2016-11-07,8765.0,1.4,29.0,clear
+926,Bengal Gram(Gram),Shahjahanpur,2016-12-07,6725.0,2.0,15.4,clear
+927,Green Gram (Moong),Shahjahanpur,2016-12-07,8760.0,1.4,15.4,clear
+928,Bengal Gram(Gram),Shahjahanpur,2016-07-14,6730.0,2.0,34.0,clear
+929,Green Gram (Moong),Shahjahanpur,2016-07-14,8765.0,1.4,34.0,clear
+930,Lentil(Masur),Shahjahanpur,2016-07-14,7385.0,1.5,34.0,clear
+931,Bengal Gram(Gram),Shahjahanpur,2016-07-15,7040.0,1.8,28.0,clear
+932,Black Gram (Urd Beans),Shahjahanpur,2016-07-15,10795.0,1.4,28.0,clear
+933,Lentil(Masur),Shahjahanpur,2016-07-15,7185.0,1.3,28.0,clear
+934,Bengal Gram(Gram),Shahjahanpur,2016-07-21,7700.0,1.2,33.0,clear
+935,Black Gram (Urd Beans),Shahjahanpur,2016-07-21,10760.0,1.2,33.0,clear
+936,Bengal Gram(Gram),Shahjahanpur,2016-07-23,8050.0,1.4,28.0,clear
+937,Black Gram (Urd Beans),Shahjahanpur,2016-07-23,10700.0,1.4,28.0,clear
+938,Green Gram (Moong),Shahjahanpur,2016-07-23,8460.0,1.4,28.0,clear
+939,Lentil(Masur),Shahjahanpur,2016-07-23,7325.0,1.0,28.0,clear
+940,Bengal Gram(Gram),Shahjahanpur,2016-07-28,8500.0,1.0,28.0,clear
+941,Black Gram (Urd Beans),Shahjahanpur,2016-07-28,10740.0,1.2,28.0,clear
+942,Green Gram (Moong),Shahjahanpur,2016-07-28,8600.0,1.3,28.0,clear
+943,Lentil(Masur),Shahjahanpur,2016-07-28,7440.0,1.1,28.0,clear
+944,Bengal Gram(Gram),Shahjahanpur,2016-02-08,8560.0,1.0,22.0,clear
+945,Lentil(Masur),Shahjahanpur,2016-02-08,7315.0,1.0,22.0,clear
+946,Bengal Gram(Gram),Shahjahanpur,2016-06-08,8550.0,16.0,35.6,clear
+947,Black Gram (Urd Beans),Shahjahanpur,2016-06-08,10950.0,1.5,35.6,clear
+948,Green Gram (Moong),Shahjahanpur,2016-06-08,7335.0,1.5,35.6,clear
+949,Lentil(Masur),Shahjahanpur,2016-06-08,7230.0,1.6,35.6,clear
+950,Bengal Gram(Gram),Shahjahanpur,2016-10-08,8800.0,3.0,30.6,clear
+951,Black Gram (Urd Beans),Shahjahanpur,2016-10-08,10960.0,1.5,30.6,clear
+952,Green Gram (Moong),Shahjahanpur,2016-10-08,8800.0,1.6,30.6,clear
+953,Lentil(Masur),Shahjahanpur,2016-10-08,7190.0,1.6,30.6,clear
+954,Bengal Gram(Gram),Shahjahanpur,2016-08-23,8850.0,2.0,32.0,clear
+955,Lentil(Masur),Shahjahanpur,2016-08-23,7260.0,1.2,32.0,clear
+956,Bengal Gram(Gram),Shahjahanpur,2016-02-09,8860.0,5.0,23.0,clear
+957,Black Gram (Urd Beans),Shahjahanpur,2016-02-09,10630.0,2.4,23.0,clear
+958,Lentil(Masur),Shahjahanpur,2016-02-09,7260.0,2.5,23.0,clear
+959,Bengal Gram(Gram),Shahjahanpur,2016-09-09,8600.0,4.0,33.4,clear
+960,Black Gram (Urd Beans),Shahjahanpur,2016-09-09,10000.0,2.5,33.4,clear
+961,Green Gram (Moong),Shahjahanpur,2016-09-09,8100.0,1.2,33.4,clear
+962,Lentil(Masur),Shahjahanpur,2016-09-09,8850.0,1.6,33.4,clear
+963,Bengal Gram(Gram),Shahjahanpur,2016-10-09,8500.0,5.0,31.0,clear
+964,Green Gram (Moong),Shahjahanpur,2016-10-09,8100.0,1.4,31.0,clear
+965,Lentil(Masur),Shahjahanpur,2016-10-09,7240.0,2.5,31.0,clear
+966,Bengal Gram(Gram),Shahjahanpur,2016-09-15,8460.0,4.5,33.0,clear
+967,Green Gram (Moong),Shahjahanpur,2016-09-15,8060.0,1.7,33.0,clear
+968,Bengal Gram(Gram),Shahjahanpur,2016-09-19,8450.0,6.0,33.0,clear
+969,Green Gram (Moong),Shahjahanpur,2016-09-19,6950.0,2.0,33.0,clear
+970,Lentil(Masur),Shahjahanpur,2016-09-19,6950.0,2.0,33.0,clear
+971,Bengal Gram(Gram),Shahjahanpur,2016-09-26,8335.0,10.0,31.0,clear
+972,Black Gram (Urd Beans),Shahjahanpur,2016-09-26,9200.0,5.0,31.0,clear
+973,Lentil(Masur),Shahjahanpur,2016-09-26,6885.0,2.4,31.0,clear
+974,Bengal Gram(Gram),Shahjahanpur,2016-09-28,8330.0,10.0,32.4,clear
+975,Black Gram (Urd Beans),Shahjahanpur,2016-09-28,9215.0,3.3,32.4,clear
+976,Lentil(Masur),Shahjahanpur,2016-09-28,6880.0,2.3,32.4,clear
+977,Bengal Gram(Gram),Shahjahanpur,2016-07-10,8325.0,3.0,34.0,clear
+978,Lentil(Masur),Shahjahanpur,2016-07-10,6860.0,2.4,34.0,clear
+979,Bengal Gram(Gram),Shahjahanpur,2016-10-10,8330.0,3.5,31.8,clear
+980,Black Gram (Urd Beans),Shahjahanpur,2016-10-10,9160.0,2.4,31.8,clear
+981,Green Gram (Moong),Shahjahanpur,2016-10-10,7860.0,2.3,31.8,clear
+982,Lentil(Masur),Shahjahanpur,2016-10-10,6850.0,2.7,31.8,clear
+983,Bengal Gram(Gram),Shahjahanpur,2016-10-17,8245.0,3.5,31.4,clear
+984,Green Gram (Moong),Shahjahanpur,2016-10-17,7800.0,2.3,31.4,clear
+985,Lentil(Masur),Shahjahanpur,2016-10-17,6835.0,2.2,31.4,clear
+986,Bengal Gram(Gram),Shahjahanpur,2016-10-20,8800.0,3.3,30.4,clear
+987,Black Gram (Urd Beans),Shahjahanpur,2016-10-20,8900.0,2.6,30.4,clear
+988,Lentil(Masur),Shahjahanpur,2016-10-20,6840.0,2.3,30.4,clear
+989,Bengal Gram(Gram),Shahjahanpur,2016-10-22,8820.0,3.0,30.4,clear
+990,Black Gram (Urd Beans),Shahjahanpur,2016-10-22,8850.0,3.3,30.4,clear
+991,Lentil(Masur),Shahjahanpur,2016-10-22,6830.0,2.1,30.4,clear
+992,Bengal Gram(Gram),Shahjahanpur,2016-10-24,8840.0,2.6,31.0,clear
+993,Black Gram (Urd Beans),Shahjahanpur,2016-10-24,8850.0,3.0,31.0,clear
+994,Green Gram (Moong),Shahjahanpur,2016-10-24,7460.0,2.4,31.0,clear
+995,Lentil(Masur),Shahjahanpur,2016-10-24,6830.0,1.8,31.0,clear
+996,Bengal Gram(Gram),Shahjahanpur,2016-10-26,8850.0,2.0,29.4,clear
+997,Black Gram (Urd Beans),Shahjahanpur,2016-10-26,8840.0,2.5,29.4,clear
+998,Lentil(Masur),Shahjahanpur,2016-10-26,6850.0,2.1,29.4,clear
+999,Bengal Gram(Gram),Shahjahanpur,2016-10-27,8860.0,1.6,32.0,clear
+1000,Lentil(Masur),Shahjahanpur,2016-10-27,6840.0,2.7,32.0,clear
+1001,Bengal Gram(Gram),Shahjahanpur,2016-10-28,8860.0,1.4,29.0,clear
+1002,Black Gram (Urd Beans),Shahjahanpur,2016-10-28,8835.0,2.5,29.0,clear
+1003,Lentil(Masur),Shahjahanpur,2016-10-28,6850.0,2.5,29.0,clear
+1004,Bengal Gram(Gram),Shahjahanpur,2016-11-30,9110.0,1.4,26.4,clear
+1005,Black Gram (Urd Beans),Shahjahanpur,2016-11-30,8500.0,1.6,26.4,clear
+1006,Lentil(Masur),Shahjahanpur,2016-11-30,6820.0,2.3,26.4,clear
+1007,Bengal Gram(Gram),Shahjahanpur,2016-02-12,9120.0,1.4,24.0,clear
+1008,Black Gram (Urd Beans),Shahjahanpur,2016-02-12,8500.0,4.0,24.0,clear
+1009,Green Gram (Moong),Shahjahanpur,2016-02-12,7300.0,2.5,24.0,clear
+1010,Lentil(Masur),Shahjahanpur,2016-02-12,6820.0,4.0,24.0,clear
+1011,Bengal Gram(Gram),Tilhar,2016-04-01,5330.0,0.5,36.2,clear
+1012,Black Gram (Urd Beans),Tilhar,2016-04-01,10025.0,0.4,36.2,clear
+1013,Bengal Gram(Gram),Tilhar,2016-06-06,6025.0,0.5,33.0,clear
+1014,Black Gram (Urd Beans),Shahjahanpur,2016-06-06,10820.0,2.0,33.0,clear
+1015,Black Gram (Urd Beans),Tilhar,2016-06-06,13045.0,0.0,33.0,clear
+1016,Green Gram (Moong),Shahjahanpur,2016-06-06,9200.0,1.8,33.0,clear
+1017,Lentil(Masur),Shahjahanpur,2016-06-06,7300.0,1.5,33.0,clear
+1018,Bengal Gram(Gram),Tilhar,2016-08-07,6600.0,0.3,30.0,clear
+1019,Black Gram (Urd Beans),Shahjahanpur,2016-08-07,10805.0,2.0,30.0,clear
+1020,Black Gram (Urd Beans),Shahjahanpur,2016-06-30,10790.0,2.3,35.0,clear
+1021,Green Gram (Moong),Shahjahanpur,2016-06-30,9240.0,1.2,35.0,clear
+1022,Lentil(Masur),Shahjahanpur,2016-06-30,7360.0,2.2,35.0,clear
+1023,Black Gram (Urd Beans),Shahjahanpur,2016-07-27,10740.0,0.8,27.4,clear
+1024,Lentil(Masur),Shahjahanpur,2016-07-27,7400.0,1.2,27.4,clear
+1025,Green Gram (Moong),Shahjahanpur,2016-04-21,9060.0,2.5,37.4,clear
+1026,Lentil(Masur),Shahjahanpur,2016-04-21,7000.0,11.0,37.4,clear
+1027,Green Gram (Moong),Shahjahanpur,2016-11-06,9180.0,1.9,26.2,clear
+1028,Lentil(Masur),Shahjahanpur,2016-04-14,6630.0,5.0,26.6,clear
+1029,Lentil(Masur),Shahjahanpur,2016-05-14,7260.0,2.5,29.0,clear
+1030,Lentil(Masur),Shahjahanpur,2016-07-22,7315.0,1.2,26.4,clear
+1031,Lentil(Masur),Shahjahanpur,2016-08-30,7260.0,2.3,32.4,clear
+1032,Lentil(Masur),Shahjahanpur,2016-08-09,7230.0,2.6,28.0,clear
+1033,Lentil(Masur),Shahjahanpur,2016-05-10,6865.0,2.0,31.4,clear
+1034,Arhar (Tur/Red Gram),Puwaha,2017-09-15,6550.0,1.0,33.4,clear
+1035,Bengal Gram(Gram),Puwaha,2017-09-15,6480.0,1.0,33.4,clear
+1036,Bengal Gram(Gram),Shahjahanpur,2017-09-15,6390.0,2.4,33.4,clear
+1037,Black Gram (Urd Beans),Puwaha,2017-09-15,6500.0,0.7,33.4,clear
+1038,Black Gram (Urd Beans),Shahjahanpur,2017-09-15,6325.0,1.4,33.4,clear
+1039,Green Gram (Moong),Shahjahanpur,2017-09-15,6350.0,1.6,33.4,clear
+1040,Arhar (Tur/Red Gram),Puwaha,2017-09-17,6450.0,1.0,29.2,clear
+1041,Bengal Gram(Gram),Puwaha,2017-09-17,6500.0,1.0,29.2,clear
+1042,Black Gram (Urd Beans),Puwaha,2017-09-17,6500.0,1.2,29.2,clear
+1043,Arhar (Tur/Red Gram),Puwaha,2017-09-18,6450.0,1.0,30.4,clear
+1044,Bengal Gram(Gram),Puwaha,2017-09-18,6400.0,1.0,30.4,clear
+1045,Bengal Gram(Gram),Shahjahanpur,2017-09-18,6400.0,2.0,30.4,clear
+1046,Black Gram (Urd Beans),Puwaha,2017-09-18,6450.0,1.2,30.4,clear
+1047,Black Gram (Urd Beans),Shahjahanpur,2017-09-18,6350.0,1.4,30.4,clear
+1048,Green Gram (Moong),Shahjahanpur,2017-09-18,6360.0,1.3,30.4,clear
+1049,Lentil(Masur),Shahjahanpur,2017-09-18,5125.0,0.0,30.4,clear
+1050,Arhar (Tur/Red Gram),Puwaha,2017-09-19,6450.0,1.2,33.4,clear
+1051,Bengal Gram(Gram),Puwaha,2017-09-19,6400.0,1.2,33.4,clear
+1052,Bengal Gram(Gram),Shahjahanpur,2017-09-19,6450.0,1.7,33.4,clear
+1053,Black Gram (Urd Beans),Puwaha,2017-09-19,6350.0,1.0,33.4,clear
+1054,Black Gram (Urd Beans),Shahjahanpur,2017-09-19,6350.0,1.3,33.4,clear
+1055,Green Gram (Moong),Shahjahanpur,2017-09-19,6340.0,1.6,33.4,clear
+1056,Arhar (Tur/Red Gram),Puwaha,2017-09-20,6400.0,1.5,33.4,clear
+1057,Bengal Gram(Gram),Puwaha,2017-09-20,6350.0,1.4,33.4,clear
+1058,Bengal Gram(Gram),Shahjahanpur,2017-09-20,6450.0,1.6,33.4,clear
+1059,Black Gram (Urd Beans),Puwaha,2017-09-20,6400.0,1.2,33.4,clear
+1060,Black Gram (Urd Beans),Shahjahanpur,2017-09-20,6330.0,1.5,33.4,clear
+1061,Green Gram (Moong),Shahjahanpur,2017-09-20,6340.0,1.8,33.4,clear
+1062,Arhar (Tur/Red Gram),Puwaha,2017-09-21,6450.0,1.6,25.0,clear
+1063,Bengal Gram(Gram),Puwaha,2017-09-21,6400.0,1.6,25.0,clear
+1064,Bengal Gram(Gram),Shahjahanpur,2017-09-21,6440.0,1.8,25.0,clear
+1065,Black Gram (Urd Beans),Puwaha,2017-09-21,6400.0,1.4,25.0,clear
+1066,Black Gram (Urd Beans),Shahjahanpur,2017-09-21,6335.0,1.4,25.0,clear
+1067,Green Gram (Moong),Shahjahanpur,2017-09-21,6300.0,2.3,25.0,clear
+1068,Arhar (Tur/Red Gram),Puwaha,2017-09-22,6400.0,1.0,28.0,clear
+1069,Bengal Gram(Gram),Puwaha,2017-09-22,6300.0,1.4,28.0,clear
+1070,Bengal Gram(Gram),Shahjahanpur,2017-09-22,6440.0,2.0,28.0,clear
+1071,Black Gram (Urd Beans),Puwaha,2017-09-22,6350.0,1.2,28.0,clear
+1072,Black Gram (Urd Beans),Shahjahanpur,2017-09-22,6335.0,1.6,28.0,clear
+1073,Green Gram (Moong),Shahjahanpur,2017-09-22,6300.0,2.4,28.0,clear
+1074,Lentil(Masur),Shahjahanpur,2017-09-22,5100.0,3.5,28.0,clear
+1075,Arhar (Tur/Red Gram),Puwaha,2017-09-24,6350.0,1.2,28.0,clear
+1076,Bengal Gram(Gram),Puwaha,2017-09-24,6300.0,1.6,28.0,clear
+1077,Black Gram (Urd Beans),Puwaha,2017-09-24,6300.0,1.4,28.0,clear
+1078,Arhar (Tur/Red Gram),Puwaha,2017-09-25,6400.0,1.8,32.0,clear
+1079,Bengal Gram(Gram),Puwaha,2017-09-25,6300.0,1.4,32.0,clear
+1080,Bengal Gram(Gram),Shahjahanpur,2017-09-25,6425.0,2.0,32.0,clear
+1081,Black Gram (Urd Beans),Puwaha,2017-09-25,6400.0,1.6,32.0,clear
+1082,Black Gram (Urd Beans),Shahjahanpur,2017-09-25,6340.0,1.4,32.0,clear
+1083,Green Gram (Moong),Shahjahanpur,2017-09-25,6285.0,2.3,32.0,clear
+1084,Lentil(Masur),Shahjahanpur,2017-09-25,5125.0,2.5,32.0,clear
+1085,Arhar (Tur/Red Gram),Puwaha,2017-09-26,6300.0,1.6,33.0,clear
+1086,Bengal Gram(Gram),Puwaha,2017-09-26,6380.0,1.0,33.0,clear
+1087,Bengal Gram(Gram),Shahjahanpur,2017-09-26,6420.0,2.3,33.0,clear
+1088,Black Gram (Urd Beans),Puwaha,2017-09-26,6400.0,1.5,33.0,clear
+1089,Black Gram (Urd Beans),Shahjahanpur,2017-09-26,6340.0,1.3,33.0,clear
+1090,Green Gram (Moong),Shahjahanpur,2017-09-26,6280.0,2.4,33.0,clear
+1091,Lentil(Masur),Shahjahanpur,2017-09-26,5135.0,0.0,33.0,clear
+1092,Arhar (Tur/Red Gram),Puwaha,2017-09-27,6250.0,1.5,33.0,clear
+1093,Bengal Gram(Gram),Puwaha,2017-09-27,6250.0,1.5,33.0,clear
+1094,Bengal Gram(Gram),Shahjahanpur,2017-09-27,6400.0,2.5,33.0,clear
+1095,Black Gram (Urd Beans),Puwaha,2017-09-27,6350.0,1.0,33.0,clear
+1096,Black Gram (Urd Beans),Shahjahanpur,2017-09-27,6300.0,1.5,33.0,clear
+1097,Green Gram (Moong),Shahjahanpur,2017-09-27,6280.0,2.3,33.0,clear
+1098,Arhar (Tur/Red Gram),Puwaha,2017-09-28,6350.0,1.5,32.4,clear
+1099,Bengal Gram(Gram),Puwaha,2017-09-28,6200.0,1.5,32.4,clear
+1100,Bengal Gram(Gram),Shahjahanpur,2017-09-28,6400.0,2.3,32.4,clear
+1101,Black Gram (Urd Beans),Puwaha,2017-09-28,6300.0,1.8,32.4,clear
+1102,Black Gram (Urd Beans),Shahjahanpur,2017-09-28,6300.0,1.4,32.4,clear
+1103,Green Gram (Moong),Shahjahanpur,2017-09-28,6285.0,2.0,32.4,clear
+1104,Arhar (Tur/Red Gram),Puwaha,2017-06-10,6350.0,0.7,37.6,clear
+1105,Bengal Gram(Gram),Shahjahanpur,2017-06-10,6400.0,1.4,37.6,clear
+1106,Black Gram (Urd Beans),Puwaha,2017-06-10,6400.0,0.7,37.6,clear
+1107,Black Gram (Urd Beans),Shahjahanpur,2017-06-10,6315.0,1.0,37.6,clear
+1108,Green Gram (Moong),Shahjahanpur,2017-06-10,6300.0,1.5,37.6,clear
+1109,Arhar (Tur/Red Gram),Puwaha,2017-08-10,6300.0,1.0,27.4,clear
+1110,Black Gram (Urd Beans),Puwaha,2017-08-10,6300.0,0.8,27.4,clear
+1111,Arhar (Tur/Red Gram),Puwaha,2017-09-10,6280.0,0.8,34.2,clear
+1112,Bengal Gram(Gram),Shahjahanpur,2017-09-10,6400.0,1.0,34.2,clear
+1113,Black Gram (Urd Beans),Puwaha,2017-09-10,6250.0,0.5,34.2,clear
+1114,Black Gram (Urd Beans),Shahjahanpur,2017-09-10,6300.0,1.0,34.2,clear
+1115,Arhar (Tur/Red Gram),Puwaha,2017-10-10,6250.0,1.0,32.0,clear
+1116,Bengal Gram(Gram),Shahjahanpur,2017-10-10,6410.0,0.9,32.0,clear
+1117,Black Gram (Urd Beans),Puwaha,2017-10-10,6280.0,1.5,32.0,clear
+1118,Arhar (Tur/Red Gram),Puwaha,2017-11-10,6250.0,1.0,26.0,clear
+1119,Bengal Gram(Gram),Shahjahanpur,2017-11-10,6410.0,1.2,26.0,clear
+1120,Black Gram (Urd Beans),Shahjahanpur,2017-11-10,6300.0,1.2,26.0,clear
+1121,Green Gram (Moong),Shahjahanpur,2017-11-10,6310.0,1.2,26.0,clear
+1122,Arhar (Tur/Red Gram),Puwaha,2017-12-10,6250.0,1.2,25.8,clear
+1123,Bengal Gram(Gram),Shahjahanpur,2017-12-10,6420.0,0.0,25.8,clear
+1124,Black Gram (Urd Beans),Puwaha,2017-12-10,6280.0,1.0,25.8,clear
+1125,Black Gram (Urd Beans),Shahjahanpur,2017-12-10,6300.0,1.4,25.8,clear
+1126,Green Gram (Moong),Shahjahanpur,2017-12-10,6310.0,1.1,25.8,clear
+1127,Arhar (Tur/Red Gram),Puwaha,2017-10-13,6270.0,0.8,32.0,clear
+1128,Bengal Gram(Gram),Shahjahanpur,2017-10-13,6420.0,1.3,32.0,clear
+1129,Black Gram (Urd Beans),Puwaha,2017-10-13,6280.0,1.2,32.0,clear
+1130,Black Gram (Urd Beans),Shahjahanpur,2017-10-13,6310.0,1.3,32.0,clear
+1131,Arhar (Tur/Red Gram),Puwaha,2017-10-16,6320.0,0.6,32.4,clear
+1132,Bengal Gram(Gram),Shahjahanpur,2017-10-16,6400.0,1.8,32.4,clear
+1133,Black Gram (Urd Beans),Puwaha,2017-10-16,6350.0,0.5,32.4,clear
+1134,Black Gram (Urd Beans),Shahjahanpur,2017-10-16,6300.0,1.5,32.4,clear
+1135,Green Gram (Moong),Shahjahanpur,2017-10-16,6350.0,1.4,32.4,clear
+1136,Arhar (Tur/Red Gram),Puwaha,2017-10-17,6350.0,0.8,31.4,clear
+1137,Black Gram (Urd Beans),Puwaha,2017-10-17,6340.0,1.0,31.4,clear
+1138,Black Gram (Urd Beans),Shahjahanpur,2017-10-17,6300.0,1.5,31.4,clear
+1139,Green Gram (Moong),Shahjahanpur,2017-10-17,6350.0,1.4,31.4,clear
+1140,Arhar (Tur/Red Gram),Puwaha,2017-10-18,6350.0,0.5,33.0,clear
+1141,Bengal Gram(Gram),Shahjahanpur,2017-10-18,6400.0,1.2,33.0,clear
+1142,Black Gram (Urd Beans),Puwaha,2017-10-18,6340.0,0.7,33.0,clear
+1143,Black Gram (Urd Beans),Shahjahanpur,2017-10-18,6300.0,1.4,33.0,clear
+1144,Green Gram (Moong),Shahjahanpur,2017-10-18,6350.0,1.3,33.0,clear
+1145,Arhar (Tur/Red Gram),Puwaha,2017-10-19,6350.0,0.5,34.2,clear
+1146,Black Gram (Urd Beans),Puwaha,2017-10-19,6340.0,1.0,34.2,clear
+1147,Arhar (Tur/Red Gram),Puwaha,2017-10-22,6280.0,0.5,33.6,clear
+1148,Bengal Gram(Gram),Shahjahanpur,2017-10-22,6400.0,1.2,33.6,clear
+1149,Black Gram (Urd Beans),Puwaha,2017-10-22,6300.0,1.5,33.6,clear
+1150,Black Gram (Urd Beans),Shahjahanpur,2017-10-22,6300.0,1.0,33.6,clear
+1151,Arhar (Tur/Red Gram),Puwaha,2017-10-23,6250.0,0.8,19.2,clear
+1152,Bengal Gram(Gram),Shahjahanpur,2017-10-23,6400.0,1.0,19.2,clear
+1153,Black Gram (Urd Beans),Puwaha,2017-10-23,6280.0,1.0,19.2,clear
+1154,Black Gram (Urd Beans),Shahjahanpur,2017-10-23,6300.0,1.6,19.2,clear
+1155,Green Gram (Moong),Shahjahanpur,2017-10-23,6350.0,1.1,19.2,clear
+1156,Arhar (Tur/Red Gram),Puwaha,2017-10-24,6280.0,0.8,31.0,clear
+1157,Bengal Gram(Gram),Shahjahanpur,2017-10-24,6400.0,1.2,31.0,clear
+1158,Black Gram (Urd Beans),Puwaha,2017-10-24,6300.0,1.5,31.0,clear
+1159,Black Gram (Urd Beans),Shahjahanpur,2017-10-24,6310.0,1.2,31.0,clear
+1160,Green Gram (Moong),Shahjahanpur,2017-10-24,6300.0,1.0,31.0,clear
+1161,Arhar (Tur/Red Gram),Puwaha,2017-10-25,6300.0,0.5,30.0,clear
+1162,Bengal Gram(Gram),Shahjahanpur,2017-10-25,6390.0,1.0,30.0,clear
+1163,Black Gram (Urd Beans),Puwaha,2017-10-25,6350.0,1.5,30.0,clear
+1164,Black Gram (Urd Beans),Shahjahanpur,2017-10-25,6310.0,1.3,30.0,clear
+1165,Green Gram (Moong),Shahjahanpur,2017-10-25,6300.0,1.2,30.0,clear
+1166,Lentil(Masur),Shahjahanpur,2017-10-25,5100.0,0.0,30.0,clear
+1167,Arhar (Tur/Red Gram),Puwaha,2017-10-26,6250.0,0.8,28.4,clear
+1168,Bengal Gram(Gram),Shahjahanpur,2017-10-26,6395.0,1.1,28.4,clear
+1169,Black Gram (Urd Beans),Puwaha,2017-10-26,6280.0,1.2,28.4,clear
+1170,Black Gram (Urd Beans),Shahjahanpur,2017-10-26,6310.0,1.0,28.4,clear
+1171,Green Gram (Moong),Shahjahanpur,2017-10-26,6300.0,1.4,28.4,clear
+1172,Lentil(Masur),Shahjahanpur,2017-10-26,5100.0,0.0,28.4,clear
+1173,Arhar (Tur/Red Gram),Puwaha,2017-10-27,6250.0,0.5,28.0,clear
+1174,Bengal Gram(Gram),Shahjahanpur,2017-10-27,6395.0,1.2,28.0,clear
+1175,Black Gram (Urd Beans),Puwaha,2017-10-27,6250.0,1.0,28.0,clear
+1176,Black Gram (Urd Beans),Shahjahanpur,2017-10-27,6310.0,1.3,28.0,clear
+1177,Green Gram (Moong),Shahjahanpur,2017-10-27,6300.0,1.5,28.0,clear
+1178,Arhar (Tur/Red Gram),Puwaha,2017-10-30,6300.0,0.8,28.0,clear
+1179,Bengal Gram(Gram),Shahjahanpur,2017-10-30,6390.0,1.5,28.0,clear
+1180,Black Gram (Urd Beans),Puwaha,2017-10-30,6280.0,1.5,28.0,clear
+1181,Black Gram (Urd Beans),Shahjahanpur,2017-10-30,6325.0,1.3,28.0,clear
+1182,Green Gram (Moong),Shahjahanpur,2017-10-30,6350.0,1.4,28.0,clear
+1183,Arhar (Tur/Red Gram),Puwaha,2017-10-31,6280.0,1.0,28.0,clear
+1184,Bengal Gram(Gram),Shahjahanpur,2017-10-31,6390.0,1.4,28.0,clear
+1185,Black Gram (Urd Beans),Puwaha,2017-10-31,6300.0,2.0,28.0,clear
+1186,Black Gram (Urd Beans),Shahjahanpur,2017-10-31,6325.0,1.4,28.0,clear
+1187,Green Gram (Moong),Shahjahanpur,2017-10-31,6350.0,1.3,28.0,clear
+1188,Arhar (Tur/Red Gram),Shahjahanpur,2017-02-01,8200.0,1.4,21.4,clear
+1189,Bengal Gram(Gram),Shahjahanpur,2017-02-01,9050.0,3.0,21.4,clear
+1190,Black Gram (Urd Beans),Shahjahanpur,2017-02-01,8100.0,1.6,21.4,clear
+1191,Arhar (Tur/Red Gram),Shahjahanpur,2017-03-01,8200.0,1.3,29.0,clear
+1192,Bengal Gram(Gram),Shahjahanpur,2017-03-01,9100.0,2.5,29.0,clear
+1193,Black Gram (Urd Beans),Shahjahanpur,2017-03-01,8100.0,1.5,29.0,clear
+1194,Green Gram (Moong),Shahjahanpur,2017-03-01,7320.0,2.0,29.0,clear
+1195,Lentil(Masur),Shahjahanpur,2017-03-01,6800.0,1.5,29.0,clear
+1196,Arhar (Tur/Red Gram),Shahjahanpur,2017-04-01,8240.0,1.2,36.4,clear
+1197,Bengal Gram(Gram),Shahjahanpur,2017-04-01,9100.0,2.3,36.4,clear
+1198,Black Gram (Urd Beans),Shahjahanpur,2017-04-01,8125.0,1.3,36.4,clear
+1199,Green Gram (Moong),Shahjahanpur,2017-04-01,7350.0,1.6,36.4,clear
+1200,Lentil(Masur),Shahjahanpur,2017-04-01,6815.0,1.2,36.4,clear
+1201,Arhar (Tur/Red Gram),Shahjahanpur,2017-06-01,7700.0,1.6,38.4,clear
+1202,Bengal Gram(Gram),Shahjahanpur,2017-06-01,9060.0,2.4,38.4,clear
+1203,Black Gram (Urd Beans),Shahjahanpur,2017-06-01,8125.0,1.6,38.4,clear
+1204,Green Gram (Moong),Shahjahanpur,2017-06-01,7360.0,1.9,38.4,clear
+1205,Lentil(Masur),Shahjahanpur,2017-06-01,6825.0,1.1,38.4,clear
+1206,Arhar (Tur/Red Gram),Shahjahanpur,2017-07-01,7700.0,1.7,30.2,clear
+1207,Bengal Gram(Gram),Shahjahanpur,2017-07-01,9060.0,2.5,30.2,clear
+1208,Black Gram (Urd Beans),Shahjahanpur,2017-07-01,8150.0,1.5,30.2,clear
+1209,Green Gram (Moong),Shahjahanpur,2017-07-01,7360.0,1.2,30.2,clear
+1210,Lentil(Masur),Shahjahanpur,2017-07-01,6800.0,1.4,30.2,clear
+1211,Arhar (Tur/Red Gram),Shahjahanpur,2017-09-01,8000.0,1.5,29.0,clear
+1212,Bengal Gram(Gram),Shahjahanpur,2017-09-01,9100.0,2.2,29.0,clear
+1213,Black Gram (Urd Beans),Shahjahanpur,2017-09-01,8170.0,1.1,29.0,clear
+1214,Green Gram (Moong),Shahjahanpur,2017-09-01,7400.0,1.5,29.0,clear
+1215,Lentil(Masur),Shahjahanpur,2017-09-01,6800.0,1.3,29.0,clear
+1216,Arhar (Tur/Red Gram),Shahjahanpur,2017-10-01,7550.0,2.1,33.6,clear
+1217,Bengal Gram(Gram),Shahjahanpur,2017-10-01,9100.0,2.4,33.6,clear
+1218,Black Gram (Urd Beans),Shahjahanpur,2017-10-01,8200.0,1.2,33.6,clear
+1219,Lentil(Masur),Shahjahanpur,2017-10-01,6800.0,1.6,33.6,clear
+1220,Arhar (Tur/Red Gram),Shahjahanpur,2017-11-01,7600.0,2.0,18.6,clear
+1221,Bengal Gram(Gram),Shahjahanpur,2017-11-01,9130.0,2.2,18.6,clear
+1222,Black Gram (Urd Beans),Shahjahanpur,2017-11-01,8200.0,1.4,18.6,clear
+1223,Lentil(Masur),Shahjahanpur,2017-11-01,6850.0,1.4,18.6,clear
+1224,Arhar (Tur/Red Gram),Shahjahanpur,2017-01-13,7625.0,1.9,17.0,clear
+1225,Bengal Gram(Gram),Shahjahanpur,2017-01-13,9140.0,2.4,17.0,clear
+1226,Black Gram (Urd Beans),Shahjahanpur,2017-01-13,8240.0,1.4,17.0,clear
+1227,Green Gram (Moong),Shahjahanpur,2017-01-13,7440.0,1.5,17.0,clear
+1228,Lentil(Masur),Shahjahanpur,2017-01-13,6840.0,1.4,17.0,clear
+1229,Arhar (Tur/Red Gram),Shahjahanpur,2017-01-16,7630.0,1.8,21.0,clear
+1230,Bengal Gram(Gram),Shahjahanpur,2017-01-16,9140.0,2.0,21.0,clear
+1231,Black Gram (Urd Beans),Shahjahanpur,2017-01-16,8250.0,1.5,21.0,clear
+1232,Lentil(Masur),Shahjahanpur,2017-01-16,6850.0,1.6,21.0,clear
+1233,Arhar (Tur/Red Gram),Shahjahanpur,2017-01-17,7650.0,2.0,14.0,clear
+1234,Black Gram (Urd Beans),Shahjahanpur,2017-01-17,8200.0,1.8,14.0,clear
+1235,Green Gram (Moong),Shahjahanpur,2017-01-17,7450.0,1.5,14.0,clear
+1236,Lentil(Masur),Shahjahanpur,2017-01-17,6900.0,1.5,14.0,clear
+1237,Arhar (Tur/Red Gram),Shahjahanpur,2017-01-18,7650.0,2.5,15.4,clear
+1238,Bengal Gram(Gram),Shahjahanpur,2017-01-18,9100.0,2.0,15.4,clear
+1239,Black Gram (Urd Beans),Shahjahanpur,2017-01-18,8200.0,1.7,15.4,clear
+1240,Green Gram (Moong),Shahjahanpur,2017-01-18,7450.0,1.9,15.4,clear
+1241,Lentil(Masur),Shahjahanpur,2017-01-18,6900.0,1.4,15.4,clear
+1242,Arhar (Tur/Red Gram),Shahjahanpur,2017-01-21,7550.0,2.0,19.4,clear
+1243,Bengal Gram(Gram),Shahjahanpur,2017-01-21,9100.0,1.4,19.4,clear
+1244,Black Gram (Urd Beans),Shahjahanpur,2017-01-21,8190.0,2.5,19.4,clear
+1245,Lentil(Masur),Shahjahanpur,2017-01-21,6950.0,1.4,19.4,clear
+1246,Arhar (Tur/Red Gram),Shahjahanpur,2017-01-23,7560.0,2.0,24.0,clear
+1247,Bengal Gram(Gram),Shahjahanpur,2017-01-23,9110.0,1.8,24.0,clear
+1248,Black Gram (Urd Beans),Shahjahanpur,2017-01-23,8150.0,2.2,24.0,clear
+1249,Arhar (Tur/Red Gram),Shahjahanpur,2017-01-28,7500.0,2.0,19.0,clear
+1250,Bengal Gram(Gram),Shahjahanpur,2017-01-28,8950.0,2.0,19.0,clear
+1251,Green Gram (Moong),Shahjahanpur,2017-01-28,7600.0,2.2,19.0,clear
+1252,Lentil(Masur),Shahjahanpur,2017-01-28,6950.0,1.2,19.0,clear
+1253,Arhar (Tur/Red Gram),Shahjahanpur,2017-01-30,7510.0,1.9,19.4,clear
+1254,Bengal Gram(Gram),Shahjahanpur,2017-01-30,8940.0,2.4,19.4,clear
+1255,Black Gram (Urd Beans),Shahjahanpur,2017-01-30,7950.0,2.6,19.4,clear
+1256,Green Gram (Moong),Shahjahanpur,2017-01-30,7600.0,2.0,19.4,clear
+1257,Lentil(Masur),Shahjahanpur,2017-01-30,6960.0,1.0,19.4,clear
+1258,Arhar (Tur/Red Gram),Shahjahanpur,2017-02-02,7525.0,2.5,22.0,clear
+1259,Bengal Gram(Gram),Shahjahanpur,2017-02-02,8900.0,3.5,22.0,clear
+1260,Black Gram (Urd Beans),Shahjahanpur,2017-02-02,8000.0,2.0,22.0,clear
+1261,Green Gram (Moong),Shahjahanpur,2017-02-02,7610.0,2.0,22.0,clear
+1262,Lentil(Masur),Shahjahanpur,2017-02-02,6970.0,3.5,22.0,clear
+1263,Arhar (Tur/Red Gram),Shahjahanpur,2017-03-02,7500.0,2.4,24.0,clear
+1264,Bengal Gram(Gram),Shahjahanpur,2017-03-02,8850.0,4.0,24.0,clear
+1265,Black Gram (Urd Beans),Shahjahanpur,2017-03-02,7980.0,2.3,24.0,clear
+1266,Lentil(Masur),Shahjahanpur,2017-03-02,6870.0,4.0,24.0,clear
+1267,Arhar (Tur/Red Gram),Shahjahanpur,2017-04-02,7450.0,2.6,36.2,clear
+1268,Bengal Gram(Gram),Shahjahanpur,2017-04-02,8850.0,6.0,36.2,clear
+1269,Black Gram (Urd Beans),Shahjahanpur,2017-04-02,7980.0,2.4,36.2,clear
+1270,Green Gram (Moong),Shahjahanpur,2017-04-02,7600.0,2.5,36.2,clear
+1271,Lentil(Masur),Shahjahanpur,2017-04-02,6870.0,3.0,36.2,clear
+1272,Arhar (Tur/Red Gram),Shahjahanpur,2017-06-02,7500.0,2.4,28.8,clear
+1273,Bengal Gram(Gram),Shahjahanpur,2017-06-02,8800.0,4.5,28.8,clear
+1274,Black Gram (Urd Beans),Shahjahanpur,2017-06-02,7990.0,2.5,28.8,clear
+1275,Arhar (Tur/Red Gram),Shahjahanpur,2017-07-02,7500.0,2.5,30.4,clear
+1276,Bengal Gram(Gram),Shahjahanpur,2017-07-02,8800.0,4.3,30.4,clear
+1277,Black Gram (Urd Beans),Shahjahanpur,2017-07-02,7990.0,2.4,30.4,clear
+1278,Lentil(Masur),Shahjahanpur,2017-07-02,6900.0,1.6,30.4,clear
+1279,Arhar (Tur/Red Gram),Shahjahanpur,2017-08-02,7600.0,3.0,28.4,clear
+1280,Bengal Gram(Gram),Shahjahanpur,2017-08-02,8810.0,4.0,28.4,clear
+1281,Black Gram (Urd Beans),Shahjahanpur,2017-08-02,7600.0,3.0,28.4,clear
+1282,Green Gram (Moong),Shahjahanpur,2017-08-02,7800.0,2.4,28.4,clear
+1283,Lentil(Masur),Shahjahanpur,2017-08-02,7000.0,1.4,28.4,clear
+1284,Arhar (Tur/Red Gram),Shahjahanpur,2017-09-02,7600.0,1.4,30.4,clear
+1285,Bengal Gram(Gram),Shahjahanpur,2017-09-02,8800.0,0.0,30.4,clear
+1286,Black Gram (Urd Beans),Shahjahanpur,2017-09-02,7900.0,2.4,30.4,clear
+1287,Lentil(Masur),Shahjahanpur,2017-09-02,7000.0,1.0,30.4,clear
+1288,Arhar (Tur/Red Gram),Shahjahanpur,2017-10-02,7600.0,1.3,33.0,clear
+1289,Bengal Gram(Gram),Shahjahanpur,2017-10-02,8805.0,3.0,33.0,clear
+1290,Black Gram (Urd Beans),Shahjahanpur,2017-10-02,7950.0,2.0,33.0,clear
+1291,Green Gram (Moong),Shahjahanpur,2017-10-02,7800.0,1.2,33.0,clear
+1292,Lentil(Masur),Shahjahanpur,2017-10-02,7000.0,1.1,33.0,clear
+1293,Arhar (Tur/Red Gram),Shahjahanpur,2017-11-02,7650.0,1.8,27.4,clear
+1294,Black Gram (Urd Beans),Shahjahanpur,2017-11-02,7900.0,2.2,27.4,clear
+1295,Arhar (Tur/Red Gram),Shahjahanpur,2017-02-13,7650.0,1.8,24.0,clear
+1296,Bengal Gram(Gram),Shahjahanpur,2017-02-13,8810.0,4.0,24.0,clear
+1297,Black Gram (Urd Beans),Shahjahanpur,2017-02-13,7950.0,2.1,24.0,clear
+1298,Green Gram (Moong),Shahjahanpur,2017-02-13,7850.0,1.4,24.0,clear
+1299,Lentil(Masur),Shahjahanpur,2017-02-13,7000.0,1.5,24.0,clear
+1300,Arhar (Tur/Red Gram),Shahjahanpur,2017-02-14,7700.0,1.4,11.6,clear
+1301,Bengal Gram(Gram),Shahjahanpur,2017-02-14,8800.0,3.5,11.6,clear
+1302,Black Gram (Urd Beans),Shahjahanpur,2017-02-14,7980.0,2.0,11.6,clear
+1303,Lentil(Masur),Shahjahanpur,2017-02-14,7050.0,1.4,11.6,clear
+1304,Arhar (Tur/Red Gram),Shahjahanpur,2017-02-16,7700.0,1.1,23.0,clear
+1305,Black Gram (Urd Beans),Shahjahanpur,2017-02-16,7950.0,1.8,23.0,clear
+1306,Arhar (Tur/Red Gram),Shahjahanpur,2017-02-20,7710.0,1.4,29.4,clear
+1307,Bengal Gram(Gram),Shahjahanpur,2017-02-20,8840.0,2.0,29.4,clear
+1308,Black Gram (Urd Beans),Shahjahanpur,2017-02-20,7940.0,2.3,29.4,clear
+1309,Arhar (Tur/Red Gram),Shahjahanpur,2017-02-21,7710.0,1.6,24.0,clear
+1310,Bengal Gram(Gram),Shahjahanpur,2017-02-21,8840.0,2.3,24.0,clear
+1311,Black Gram (Urd Beans),Shahjahanpur,2017-02-21,7950.0,2.4,24.0,clear
+1312,Arhar (Tur/Red Gram),Shahjahanpur,2017-02-22,7720.0,1.4,25.4,clear
+1313,Bengal Gram(Gram),Shahjahanpur,2017-02-22,8850.0,2.0,25.4,clear
+1314,Black Gram (Urd Beans),Shahjahanpur,2017-02-22,7950.0,2.3,25.4,clear
+1315,Lentil(Masur),Shahjahanpur,2017-02-22,7015.0,1.3,25.4,clear
+1316,Arhar (Tur/Red Gram),Shahjahanpur,2017-02-23,7730.0,1.4,14.0,clear
+1317,Bengal Gram(Gram),Shahjahanpur,2017-02-23,8840.0,2.2,14.0,clear
+1318,Black Gram (Urd Beans),Shahjahanpur,2017-02-23,7960.0,2.4,14.0,clear
+1319,Arhar (Tur/Red Gram),Shahjahanpur,2017-02-24,7720.0,1.3,23.6,clear
+1320,Bengal Gram(Gram),Shahjahanpur,2017-02-24,8850.0,2.4,23.6,clear
+1321,Black Gram (Urd Beans),Shahjahanpur,2017-02-24,7960.0,2.4,23.6,clear
+1322,Green Gram (Moong),Shahjahanpur,2017-02-24,7935.0,1.6,23.6,clear
+1323,Lentil(Masur),Shahjahanpur,2017-02-24,7015.0,1.4,23.6,clear
+1324,Arhar (Tur/Red Gram),Shahjahanpur,2017-02-25,7730.0,1.4,25.4,clear
+1325,Bengal Gram(Gram),Shahjahanpur,2017-02-25,8840.0,2.2,25.4,clear
+1326,Black Gram (Urd Beans),Shahjahanpur,2017-02-25,7960.0,2.4,25.4,clear
+1327,Green Gram (Moong),Shahjahanpur,2017-02-25,7940.0,1.9,25.4,clear
+1328,Arhar (Tur/Red Gram),Shahjahanpur,2017-02-27,7700.0,1.6,26.0,clear
+1329,Bengal Gram(Gram),Shahjahanpur,2017-02-27,8800.0,2.0,26.0,clear
+1330,Black Gram (Urd Beans),Shahjahanpur,2017-02-27,7900.0,2.5,26.0,clear
+1331,Lentil(Masur),Shahjahanpur,2017-02-27,6900.0,2.5,26.0,clear
+1332,Arhar (Tur/Red Gram),Shahjahanpur,2017-02-28,7730.0,1.4,14.2,clear
+1333,Bengal Gram(Gram),Shahjahanpur,2017-02-28,8810.0,2.3,14.2,clear
+1334,Black Gram (Urd Beans),Shahjahanpur,2017-02-28,7890.0,2.4,14.2,clear
+1335,Green Gram (Moong),Shahjahanpur,2017-02-28,7690.0,2.4,14.2,clear
+1336,Arhar (Tur/Red Gram),Shahjahanpur,2017-01-03,7730.0,1.4,10.4,clear
+1337,Bengal Gram(Gram),Shahjahanpur,2017-01-03,8800.0,2.4,10.4,clear
+1338,Black Gram (Urd Beans),Shahjahanpur,2017-01-03,7900.0,2.3,10.4,clear
+1339,Lentil(Masur),Shahjahanpur,2017-01-03,6900.0,2.4,10.4,clear
+1340,Arhar (Tur/Red Gram),Shahjahanpur,2017-04-03,7680.0,2.2,25.0,clear
+1341,Bengal Gram(Gram),Shahjahanpur,2017-04-03,8810.0,2.3,25.0,clear
+1342,Black Gram (Urd Beans),Shahjahanpur,2017-04-03,7880.0,2.0,25.0,clear
+1343,Green Gram (Moong),Shahjahanpur,2017-04-03,7650.0,2.0,25.0,clear
+1344,Lentil(Masur),Shahjahanpur,2017-04-03,6790.0,4.0,25.0,clear
+1345,Arhar (Tur/Red Gram),Shahjahanpur,2017-06-03,7700.0,2.0,40.0,clear
+1346,Bengal Gram(Gram),Shahjahanpur,2017-06-03,8750.0,2.0,40.0,clear
+1347,Black Gram (Urd Beans),Shahjahanpur,2017-06-03,7800.0,2.4,40.0,clear
+1348,Lentil(Masur),Shahjahanpur,2017-06-03,6800.0,4.5,40.0,clear
+1349,Arhar (Tur/Red Gram),Shahjahanpur,2017-07-03,7710.0,1.9,29.0,clear
+1350,Bengal Gram(Gram),Shahjahanpur,2017-07-03,8750.0,1.8,29.0,clear
+1351,Black Gram (Urd Beans),Shahjahanpur,2017-07-03,7800.0,2.1,29.0,clear
+1352,Lentil(Masur),Shahjahanpur,2017-07-03,6800.0,4.0,29.0,clear
+1353,Arhar (Tur/Red Gram),Shahjahanpur,2017-08-03,7600.0,2.5,33.0,clear
+1354,Bengal Gram(Gram),Shahjahanpur,2017-08-03,7000.0,3.0,33.0,clear
+1355,Black Gram (Urd Beans),Shahjahanpur,2017-08-03,7300.0,2.5,33.0,clear
+1356,Lentil(Masur),Shahjahanpur,2017-08-03,6750.0,4.2,33.0,clear
+1357,Arhar (Tur/Red Gram),Shahjahanpur,2017-09-03,7600.0,2.3,33.0,clear
+1358,Bengal Gram(Gram),Shahjahanpur,2017-09-03,7000.0,2.5,33.0,clear
+1359,Black Gram (Urd Beans),Shahjahanpur,2017-09-03,7300.0,2.4,33.0,clear
+1360,Lentil(Masur),Shahjahanpur,2017-09-03,6750.0,4.3,33.0,clear
+1361,Arhar (Tur/Red Gram),Shahjahanpur,2017-03-15,7000.0,2.4,23.4,clear
+1362,Bengal Gram(Gram),Shahjahanpur,2017-03-15,7000.0,2.2,23.4,clear
+1363,Black Gram (Urd Beans),Shahjahanpur,2017-03-15,7000.0,2.2,23.4,clear
+1364,Lentil(Masur),Shahjahanpur,2017-03-15,6700.0,1.8,23.4,clear
+1365,Arhar (Tur/Red Gram),Shahjahanpur,2017-03-16,6900.0,2.1,29.0,clear
+1366,Bengal Gram(Gram),Shahjahanpur,2017-03-16,7050.0,1.9,29.0,clear
+1367,Black Gram (Urd Beans),Shahjahanpur,2017-03-16,7000.0,1.6,29.0,clear
+1368,Green Gram (Moong),Shahjahanpur,2017-03-16,6850.0,1.9,29.0,clear
+1369,Lentil(Masur),Shahjahanpur,2017-03-16,6700.0,1.6,29.0,clear
+1370,Arhar (Tur/Red Gram),Shahjahanpur,2017-03-17,6900.0,2.1,27.0,clear
+1371,Bengal Gram(Gram),Shahjahanpur,2017-03-17,7050.0,1.9,27.0,clear
+1372,Black Gram (Urd Beans),Shahjahanpur,2017-03-17,7000.0,1.5,27.0,clear
+1373,Green Gram (Moong),Shahjahanpur,2017-03-17,6850.0,1.9,27.0,clear
+1374,Lentil(Masur),Shahjahanpur,2017-03-17,6700.0,1.7,27.0,clear
+1375,Arhar (Tur/Red Gram),Shahjahanpur,2017-03-18,6900.0,2.4,28.0,clear
+1376,Bengal Gram(Gram),Shahjahanpur,2017-03-18,7050.0,2.0,28.0,clear
+1377,Black Gram (Urd Beans),Shahjahanpur,2017-03-18,7000.0,1.4,28.0,clear
+1378,Lentil(Masur),Shahjahanpur,2017-03-18,6700.0,1.6,28.0,clear
+1379,Arhar (Tur/Red Gram),Shahjahanpur,2017-03-20,6890.0,2.5,29.0,clear
+1380,Bengal Gram(Gram),Shahjahanpur,2017-03-20,7040.0,2.3,29.0,clear
+1381,Black Gram (Urd Beans),Shahjahanpur,2017-03-20,7010.0,1.3,29.0,clear
+1382,Green Gram (Moong),Shahjahanpur,2017-03-20,6860.0,1.9,29.0,clear
+1383,Lentil(Masur),Shahjahanpur,2017-03-20,6780.0,2.0,29.0,clear
+1384,Arhar (Tur/Red Gram),Shahjahanpur,2017-03-21,6890.0,2.4,30.0,clear
+1385,Bengal Gram(Gram),Shahjahanpur,2017-03-21,7050.0,2.4,30.0,clear
+1386,Black Gram (Urd Beans),Shahjahanpur,2017-03-21,7020.0,1.4,30.0,clear
+1387,Lentil(Masur),Shahjahanpur,2017-03-21,6780.0,1.9,30.0,clear
+1388,Arhar (Tur/Red Gram),Shahjahanpur,2017-03-22,6890.0,2.4,33.5,clear
+1389,Bengal Gram(Gram),Shahjahanpur,2017-03-22,7050.0,2.4,33.5,clear
+1390,Black Gram (Urd Beans),Shahjahanpur,2017-03-22,7020.0,1.4,33.5,clear
+1391,Green Gram (Moong),Shahjahanpur,2017-03-22,6860.0,2.4,33.5,clear
+1392,Lentil(Masur),Shahjahanpur,2017-03-22,6750.0,2.0,33.5,clear
+1393,Arhar (Tur/Red Gram),Shahjahanpur,2017-03-23,6880.0,2.6,33.0,clear
+1394,Bengal Gram(Gram),Shahjahanpur,2017-03-23,7050.0,1.6,33.0,clear
+1395,Black Gram (Urd Beans),Shahjahanpur,2017-03-23,7020.0,1.6,33.0,clear
+1396,Green Gram (Moong),Shahjahanpur,2017-03-23,6850.0,2.5,33.0,clear
+1397,Lentil(Masur),Shahjahanpur,2017-03-23,6750.0,2.3,33.0,clear
+1398,Arhar (Tur/Red Gram),Shahjahanpur,2017-03-24,6840.0,3.0,34.0,clear
+1399,Bengal Gram(Gram),Shahjahanpur,2017-03-24,7000.0,2.4,34.0,clear
+1400,Black Gram (Urd Beans),Shahjahanpur,2017-03-24,7030.0,1.3,34.0,clear
+1401,Green Gram (Moong),Shahjahanpur,2017-03-24,6800.0,2.6,34.0,clear
+1402,Lentil(Masur),Shahjahanpur,2017-03-24,6730.0,2.4,34.0,clear
+1403,Arhar (Tur/Red Gram),Shahjahanpur,2017-03-25,6800.0,3.2,33.0,clear
+1404,Bengal Gram(Gram),Shahjahanpur,2017-03-25,7000.0,2.6,33.0,clear
+1405,Black Gram (Urd Beans),Shahjahanpur,2017-03-25,7000.0,1.4,33.0,clear
+1406,Green Gram (Moong),Shahjahanpur,2017-03-25,6800.0,2.4,33.0,clear
+1407,Lentil(Masur),Shahjahanpur,2017-03-25,6700.0,2.0,33.0,clear
+1408,Arhar (Tur/Red Gram),Shahjahanpur,2017-03-27,6900.0,2.0,32.4,clear
+1409,Bengal Gram(Gram),Shahjahanpur,2017-03-27,7000.0,2.2,32.4,clear
+1410,Black Gram (Urd Beans),Shahjahanpur,2017-03-27,7000.0,1.5,32.4,clear
+1411,Lentil(Masur),Shahjahanpur,2017-03-27,6700.0,2.1,32.4,clear
+1412,Arhar (Tur/Red Gram),Shahjahanpur,2017-03-28,6900.0,2.4,35.0,clear
+1413,Bengal Gram(Gram),Shahjahanpur,2017-03-28,6950.0,2.3,35.0,clear
+1414,Black Gram (Urd Beans),Shahjahanpur,2017-03-28,7000.0,1.4,35.0,clear
+1415,Green Gram (Moong),Shahjahanpur,2017-03-28,6840.0,2.3,35.0,clear
+1416,Lentil(Masur),Shahjahanpur,2017-03-28,6650.0,2.5,35.0,clear
+1417,Arhar (Tur/Red Gram),Shahjahanpur,2017-03-29,6900.0,2.3,36.0,clear
+1418,Black Gram (Urd Beans),Shahjahanpur,2017-03-29,7000.0,1.2,36.0,clear
+1419,Lentil(Masur),Shahjahanpur,2017-03-29,6650.0,2.0,36.0,clear
+1420,Arhar (Tur/Red Gram),Shahjahanpur,2017-03-30,6900.0,2.4,36.4,clear
+1421,Bengal Gram(Gram),Shahjahanpur,2017-03-30,6900.0,2.4,36.4,clear
+1422,Black Gram (Urd Beans),Shahjahanpur,2017-03-30,6900.0,1.4,36.4,clear
+1423,Green Gram (Moong),Shahjahanpur,2017-03-30,6800.0,2.1,36.4,clear
+1424,Lentil(Masur),Shahjahanpur,2017-03-30,6700.0,1.8,36.4,clear
+1425,Arhar (Tur/Red Gram),Shahjahanpur,2017-03-31,6900.0,2.3,37.0,clear
+1426,Bengal Gram(Gram),Shahjahanpur,2017-03-31,6900.0,2.3,37.0,clear
+1427,Black Gram (Urd Beans),Shahjahanpur,2017-03-31,6900.0,1.3,37.0,clear
+1428,Lentil(Masur),Shahjahanpur,2017-03-31,6700.0,1.9,37.0,clear
+1429,Arhar (Tur/Red Gram),Shahjahanpur,2017-01-04,6860.0,2.4,18.0,clear
+1430,Bengal Gram(Gram),Shahjahanpur,2017-01-04,6950.0,2.0,18.0,clear
+1431,Black Gram (Urd Beans),Shahjahanpur,2017-01-04,6850.0,1.5,18.0,clear
+1432,Green Gram (Moong),Shahjahanpur,2017-01-04,6600.0,2.2,18.0,clear
+1433,Lentil(Masur),Shahjahanpur,2017-01-04,6700.0,2.0,18.0,clear
+1434,Arhar (Tur/Red Gram),Shahjahanpur,2017-03-04,6850.0,2.5,26.0,clear
+1435,Bengal Gram(Gram),Shahjahanpur,2017-03-04,6950.0,2.4,26.0,clear
+1436,Black Gram (Urd Beans),Shahjahanpur,2017-03-04,6800.0,1.4,26.0,clear
+1437,Green Gram (Moong),Shahjahanpur,2017-03-04,6600.0,2.0,26.0,clear
+1438,Lentil(Masur),Shahjahanpur,2017-03-04,6700.0,4.0,26.0,clear
+1439,Arhar (Tur/Red Gram),Shahjahanpur,2017-04-04,6850.0,2.3,26.2,clear
+1440,Bengal Gram(Gram),Shahjahanpur,2017-04-04,6900.0,3.0,26.2,clear
+1441,Black Gram (Urd Beans),Shahjahanpur,2017-04-04,6800.0,1.3,26.2,clear
+1442,Arhar (Tur/Red Gram),Shahjahanpur,2017-06-04,6800.0,2.4,41.0,clear
+1443,Bengal Gram(Gram),Shahjahanpur,2017-06-04,6600.0,4.0,41.0,clear
+1444,Black Gram (Urd Beans),Shahjahanpur,2017-06-04,6600.0,1.2,41.0,clear
+1445,Lentil(Masur),Shahjahanpur,2017-06-04,6650.0,4.0,41.0,clear
+1446,Arhar (Tur/Red Gram),Shahjahanpur,2017-07-04,6800.0,2.3,28.4,clear
+1447,Bengal Gram(Gram),Shahjahanpur,2017-07-04,6600.0,5.0,28.4,clear
+1448,Black Gram (Urd Beans),Shahjahanpur,2017-07-04,6600.0,1.4,28.4,clear
+1449,Lentil(Masur),Shahjahanpur,2017-07-04,6600.0,3.5,28.4,clear
+1450,Arhar (Tur/Red Gram),Shahjahanpur,2017-08-04,6700.0,2.3,31.4,clear
+1451,Bengal Gram(Gram),Shahjahanpur,2017-08-04,6500.0,4.0,31.4,clear
+1452,Black Gram (Urd Beans),Shahjahanpur,2017-08-04,6500.0,1.8,31.4,clear
+1453,Green Gram (Moong),Shahjahanpur,2017-08-04,6500.0,1.6,31.4,clear
+1454,Lentil(Masur),Shahjahanpur,2017-08-04,6450.0,7.0,31.4,clear
+1455,Arhar (Tur/Red Gram),Shahjahanpur,2017-10-04,6700.0,2.3,32.4,clear
+1456,Bengal Gram(Gram),Shahjahanpur,2017-10-04,6800.0,3.5,32.4,clear
+1457,Black Gram (Urd Beans),Shahjahanpur,2017-10-04,6500.0,1.7,32.4,clear
+1458,Lentil(Masur),Shahjahanpur,2017-10-04,6450.0,6.0,32.4,clear
+1459,Arhar (Tur/Red Gram),Shahjahanpur,2017-04-15,6700.0,1.4,37.4,clear
+1460,Bengal Gram(Gram),Shahjahanpur,2017-04-15,7050.0,3.0,37.4,clear
+1461,Black Gram (Urd Beans),Shahjahanpur,2017-04-15,6600.0,1.2,37.4,clear
+1462,Arhar (Tur/Red Gram),Shahjahanpur,2017-04-18,6750.0,1.6,38.0,clear
+1463,Bengal Gram(Gram),Shahjahanpur,2017-04-18,7100.0,2.2,38.0,clear
+1464,Black Gram (Urd Beans),Shahjahanpur,2017-04-18,6625.0,1.4,38.0,clear
+1465,Green Gram (Moong),Shahjahanpur,2017-04-18,6610.0,1.6,38.0,clear
+1466,Lentil(Masur),Shahjahanpur,2017-04-18,6500.0,3.0,38.0,clear
+1467,Arhar (Tur/Red Gram),Shahjahanpur,2017-04-21,6740.0,2.3,38.4,clear
+1468,Bengal Gram(Gram),Shahjahanpur,2017-04-21,6950.0,2.0,38.4,clear
+1469,Black Gram (Urd Beans),Shahjahanpur,2017-04-21,6630.0,1.2,38.4,clear
+1470,Green Gram (Moong),Shahjahanpur,2017-04-21,6600.0,2.4,38.4,clear
+1471,Lentil(Masur),Shahjahanpur,2017-04-21,6480.0,2.6,38.4,clear
+1472,Arhar (Tur/Red Gram),Shahjahanpur,2017-04-22,6750.0,1.5,37.0,clear
+1473,Bengal Gram(Gram),Shahjahanpur,2017-04-22,6950.0,2.0,37.0,clear
+1474,Black Gram (Urd Beans),Shahjahanpur,2017-04-22,6600.0,2.0,37.0,clear
+1475,Lentil(Masur),Shahjahanpur,2017-04-22,6470.0,2.5,37.0,clear
+1476,Arhar (Tur/Red Gram),Shahjahanpur,2017-04-23,6750.0,1.4,36.0,clear
+1477,Bengal Gram(Gram),Shahjahanpur,2017-04-23,6950.0,1.5,36.0,clear
+1478,Black Gram (Urd Beans),Shahjahanpur,2017-04-23,6600.0,1.6,36.0,clear
+1479,Lentil(Masur),Shahjahanpur,2017-04-23,6470.0,2.4,36.0,clear
+1480,Arhar (Tur/Red Gram),Shahjahanpur,2017-04-26,6700.0,1.3,37.0,clear
+1481,Bengal Gram(Gram),Shahjahanpur,2017-04-26,6700.0,2.5,37.0,clear
+1482,Black Gram (Urd Beans),Shahjahanpur,2017-04-26,6600.0,1.5,37.0,clear
+1483,Green Gram (Moong),Shahjahanpur,2017-04-26,6600.0,1.5,37.0,clear
+1484,Lentil(Masur),Shahjahanpur,2017-04-26,6450.0,2.0,37.0,clear
+1485,Arhar (Tur/Red Gram),Shahjahanpur,2017-01-05,6700.0,1.4,18.4,clear
+1486,Green Gram (Moong),Shahjahanpur,2017-01-05,6600.0,1.8,18.4,clear
+1487,Lentil(Masur),Shahjahanpur,2017-01-05,6400.0,2.3,18.4,clear
+1488,Arhar (Tur/Red Gram),Shahjahanpur,2017-12-05,5390.0,2.3,20.0,clear
+1489,Bengal Gram(Gram),Shahjahanpur,2017-12-05,6460.0,5.0,20.0,clear
+1490,Black Gram (Urd Beans),Shahjahanpur,2017-12-05,6250.0,2.0,20.0,clear
+1491,Green Gram (Moong),Shahjahanpur,2017-12-05,6290.0,1.6,20.0,clear
+1492,Lentil(Masur),Shahjahanpur,2017-12-05,5790.0,6.5,20.0,clear
+1493,Arhar (Tur/Red Gram),Shahjahanpur,2017-05-15,5390.0,2.4,40.0,clear
+1494,Bengal Gram(Gram),Shahjahanpur,2017-05-15,6460.0,4.0,40.0,clear
+1495,Lentil(Masur),Shahjahanpur,2017-05-15,5780.0,6.0,40.0,clear
+1496,Arhar (Tur/Red Gram),Shahjahanpur,2017-06-13,6450.0,1.6,40.0,clear
+1497,Bengal Gram(Gram),Shahjahanpur,2017-06-13,6720.0,1.4,40.0,clear
+1498,Black Gram (Urd Beans),Puwaha,2017-06-13,6630.0,1.8,40.0,clear
+1499,Lentil(Masur),Shahjahanpur,2017-06-13,6630.0,1.3,40.0,clear
+1500,Arhar (Tur/Red Gram),Shahjahanpur,2017-08-19,6190.0,23.0,30.4,clear
+1501,Bengal Gram(Gram),Shahjahanpur,2017-08-19,6425.0,2.3,30.4,clear
+1502,Black Gram (Urd Beans),Shahjahanpur,2017-08-19,6200.0,23.0,30.4,clear
+1503,Green Gram (Moong),Shahjahanpur,2017-08-19,6360.0,62.5,30.4,clear
+1504,Lentil(Masur),Shahjahanpur,2017-08-19,6400.0,2.3,30.4,clear
+1505,Arhar (Tur/Red Gram),Shahjahanpur,2017-08-25,6300.0,3.0,30.0,clear
+1506,Bengal Gram(Gram),Puwaha,2017-08-25,6480.0,0.5,30.0,clear
+1507,Bengal Gram(Gram),Shahjahanpur,2017-08-25,6460.0,2.4,30.0,clear
+1508,Black Gram (Urd Beans),Puwaha,2017-08-25,6600.0,0.8,30.0,clear
+1509,Black Gram (Urd Beans),Shahjahanpur,2017-08-25,6250.0,1.8,30.0,clear
+1510,Green Gram (Moong),Shahjahanpur,2017-08-25,6350.0,2.0,30.0,clear
+1511,Lentil(Masur),Shahjahanpur,2017-08-25,5150.0,2.0,30.0,clear
+1512,Bengal Gram(Gram),Puwaha,2017-09-08,6550.0,0.8,33.0,clear
+1513,Bengal Gram(Gram),Shahjahanpur,2017-09-08,6500.0,1.5,33.0,clear
+1514,Black Gram (Urd Beans),Puwaha,2017-09-08,6650.0,0.7,33.0,clear
+1515,Black Gram (Urd Beans),Shahjahanpur,2017-09-08,6350.0,1.7,33.0,clear
+1516,Green Gram (Moong),Shahjahanpur,2017-09-08,6400.0,2.4,33.0,clear
+1517,Lentil(Masur),Shahjahanpur,2017-09-08,5150.0,4.0,33.0,clear
+1518,Bengal Gram(Gram),Puwaha,2017-10-08,6570.0,0.7,27.0,clear
+1519,Bengal Gram(Gram),Shahjahanpur,2017-10-08,6480.0,1.6,27.0,clear
+1520,Black Gram (Urd Beans),Shahjahanpur,2017-10-08,6300.0,2.0,27.0,clear
+1521,Green Gram (Moong),Shahjahanpur,2017-10-08,6390.0,2.6,27.0,clear
+1522,Lentil(Masur),Shahjahanpur,2017-10-08,5160.0,2.0,27.0,clear
+1523,Bengal Gram(Gram),Puwaha,2017-11-08,6520.0,0.9,24.0,clear
+1524,Bengal Gram(Gram),Shahjahanpur,2017-11-08,6480.0,1.5,24.0,clear
+1525,Black Gram (Urd Beans),Puwaha,2017-11-08,6600.0,0.8,24.0,clear
+1526,Black Gram (Urd Beans),Shahjahanpur,2017-11-08,6300.0,1.9,24.0,clear
+1527,Green Gram (Moong),Shahjahanpur,2017-11-08,6390.0,2.4,24.0,clear
+1528,Lentil(Masur),Shahjahanpur,2017-11-08,5160.0,1.6,24.0,clear
+1529,Bengal Gram(Gram),Puwaha,2017-08-14,6540.0,1.0,26.4,clear
+1530,Bengal Gram(Gram),Shahjahanpur,2017-08-14,6450.0,1.4,26.4,clear
+1531,Black Gram (Urd Beans),Puwaha,2017-08-14,6600.0,0.9,26.4,clear
+1532,Black Gram (Urd Beans),Shahjahanpur,2017-08-14,6250.0,2.3,26.4,clear
+1533,Green Gram (Moong),Shahjahanpur,2017-08-14,6380.0,2.5,26.4,clear
+1534,Lentil(Masur),Shahjahanpur,2017-08-14,6450.0,1.4,26.4,clear
+1535,Bengal Gram(Gram),Puwaha,2017-08-16,6500.0,1.0,32.0,clear
+1536,Bengal Gram(Gram),Shahjahanpur,2017-08-16,6400.0,2.0,32.0,clear
+1537,Black Gram (Urd Beans),Puwaha,2017-08-16,6600.0,0.7,32.0,clear
+1538,Black Gram (Urd Beans),Shahjahanpur,2017-08-16,6225.0,1.6,32.0,clear
+1539,Green Gram (Moong),Shahjahanpur,2017-08-16,6350.0,2.5,32.0,clear
+1540,Lentil(Masur),Shahjahanpur,2017-08-16,5125.0,2.3,32.0,clear
+1541,Bengal Gram(Gram),Puwaha,2017-08-18,6450.0,1.0,28.4,clear
+1542,Bengal Gram(Gram),Shahjahanpur,2017-08-18,6425.0,2.0,28.4,clear
+1543,Black Gram (Urd Beans),Puwaha,2017-08-18,6500.0,1.2,28.4,clear
+1544,Black Gram (Urd Beans),Shahjahanpur,2017-08-18,6225.0,2.0,28.4,clear
+1545,Green Gram (Moong),Shahjahanpur,2017-08-18,6360.0,2.5,28.4,clear
+1546,Lentil(Masur),Shahjahanpur,2017-08-18,5100.0,2.6,28.4,clear
+1547,Bengal Gram(Gram),Puwaha,2017-08-20,6450.0,1.0,29.4,clear
+1548,Black Gram (Urd Beans),Puwaha,2017-08-20,6500.0,1.0,29.4,clear
+1549,Bengal Gram(Gram),Puwaha,2017-08-22,6430.0,1.0,31.0,clear
+1550,Bengal Gram(Gram),Shahjahanpur,2017-08-22,6435.0,2.3,31.0,clear
+1551,Black Gram (Urd Beans),Puwaha,2017-08-22,6500.0,0.7,31.0,clear
+1552,Black Gram (Urd Beans),Shahjahanpur,2017-08-22,6215.0,2.0,31.0,clear
+1553,Green Gram (Moong),Shahjahanpur,2017-08-22,6340.0,2.4,31.0,clear
+1554,Lentil(Masur),Shahjahanpur,2017-08-22,5115.0,2.0,31.0,clear
+1555,Bengal Gram(Gram),Puwaha,2017-08-23,6500.0,1.0,27.8,clear
+1556,Bengal Gram(Gram),Shahjahanpur,2017-08-23,6425.0,2.4,27.8,clear
+1557,Black Gram (Urd Beans),Puwaha,2017-08-23,6600.0,0.6,27.8,clear
+1558,Black Gram (Urd Beans),Shahjahanpur,2017-08-23,6215.0,1.8,27.8,clear
+1559,Green Gram (Moong),Shahjahanpur,2017-08-23,6350.0,2.2,27.8,clear
+1560,Lentil(Masur),Shahjahanpur,2017-08-23,5115.0,2.4,27.8,clear
+1561,Bengal Gram(Gram),Puwaha,2017-08-24,6490.0,0.7,32.0,clear
+1562,Bengal Gram(Gram),Shahjahanpur,2017-08-24,6450.0,2.6,32.0,clear
+1563,Black Gram (Urd Beans),Puwaha,2017-08-24,6600.0,0.5,32.0,clear
+1564,Black Gram (Urd Beans),Shahjahanpur,2017-08-24,6250.0,1.6,32.0,clear
+1565,Green Gram (Moong),Shahjahanpur,2017-08-24,6350.0,2.3,32.0,clear
+1566,Lentil(Masur),Shahjahanpur,2017-08-24,5125.0,2.3,32.0,clear
+1567,Bengal Gram(Gram),Puwaha,2017-08-27,6450.0,1.0,28.0,clear
+1568,Black Gram (Urd Beans),Puwaha,2017-08-27,6600.0,0.9,28.0,clear
+1569,Bengal Gram(Gram),Puwaha,2017-08-28,6450.0,1.2,30.0,clear
+1570,Bengal Gram(Gram),Shahjahanpur,2017-08-28,6500.0,2.0,30.0,clear
+1571,Black Gram (Urd Beans),Puwaha,2017-08-28,6590.0,1.0,30.0,clear
+1572,Black Gram (Urd Beans),Shahjahanpur,2017-08-28,6300.0,1.7,30.0,clear
+1573,Green Gram (Moong),Shahjahanpur,2017-08-28,6400.0,2.3,30.0,clear
+1574,Lentil(Masur),Shahjahanpur,2017-08-28,5200.0,2.6,30.0,clear
+1575,Bengal Gram(Gram),Puwaha,2017-08-30,6440.0,1.0,33.0,clear
+1576,Bengal Gram(Gram),Shahjahanpur,2017-08-30,6490.0,2.5,33.0,clear
+1577,Black Gram (Urd Beans),Puwaha,2017-08-30,6550.0,1.0,33.0,clear
+1578,Black Gram (Urd Beans),Shahjahanpur,2017-08-30,6315.0,1.8,33.0,clear
+1579,Green Gram (Moong),Shahjahanpur,2017-08-30,6380.0,2.4,33.0,clear
+1580,Lentil(Masur),Shahjahanpur,2017-08-30,5215.0,2.3,33.0,clear
+1581,Bengal Gram(Gram),Puwaha,2017-01-09,6500.0,1.0,12.8,clear
+1582,Bengal Gram(Gram),Shahjahanpur,2017-01-09,6480.0,2.6,12.8,clear
+1583,Black Gram (Urd Beans),Puwaha,2017-01-09,6530.0,1.2,12.8,clear
+1584,Black Gram (Urd Beans),Shahjahanpur,2017-01-09,6300.0,1.7,12.8,clear
+1585,Green Gram (Moong),Shahjahanpur,2017-01-09,6375.0,2.5,12.8,clear
+1586,Lentil(Masur),Shahjahanpur,2017-01-09,5200.0,2.3,12.8,clear
+1587,Bengal Gram(Gram),Puwaha,2017-04-09,6500.0,1.0,32.6,clear
+1588,Bengal Gram(Gram),Shahjahanpur,2017-04-09,6400.0,2.5,32.6,clear
+1589,Black Gram (Urd Beans),Puwaha,2017-04-09,6550.0,1.2,32.6,clear
+1590,Black Gram (Urd Beans),Shahjahanpur,2017-04-09,6350.0,1.8,32.6,clear
+1591,Lentil(Masur),Shahjahanpur,2017-04-09,5200.0,2.5,32.6,clear
+1592,Bengal Gram(Gram),Puwaha,2017-05-09,6540.0,1.2,35.4,clear
+1593,Bengal Gram(Gram),Shahjahanpur,2017-05-09,6400.0,2.3,35.4,clear
+1594,Black Gram (Urd Beans),Puwaha,2017-05-09,6560.0,1.4,35.4,clear
+1595,Black Gram (Urd Beans),Shahjahanpur,2017-05-09,6300.0,1.7,35.4,clear
+1596,Green Gram (Moong),Shahjahanpur,2017-05-09,6350.0,2.4,35.4,clear
+1597,Lentil(Masur),Shahjahanpur,2017-05-09,5200.0,2.4,35.4,clear
+1598,Bengal Gram(Gram),Puwaha,2017-06-09,6450.0,1.0,34.8,clear
+1599,Bengal Gram(Gram),Shahjahanpur,2017-06-09,6390.0,2.4,34.8,clear
+1600,Black Gram (Urd Beans),Puwaha,2017-06-09,6550.0,1.2,34.8,clear
+1601,Black Gram (Urd Beans),Shahjahanpur,2017-06-09,6300.0,1.4,34.8,clear
+1602,Green Gram (Moong),Shahjahanpur,2017-06-09,6360.0,2.2,34.8,clear
+1603,Lentil(Masur),Shahjahanpur,2017-06-09,5150.0,3.0,34.8,clear
+1604,Bengal Gram(Gram),Puwaha,2017-07-09,6500.0,1.4,30.0,clear
+1605,Bengal Gram(Gram),Shahjahanpur,2017-07-09,6390.0,2.5,30.0,clear
+1606,Black Gram (Urd Beans),Puwaha,2017-07-09,6580.0,1.0,30.0,clear
+1607,Black Gram (Urd Beans),Shahjahanpur,2017-07-09,6300.0,1.5,30.0,clear
+1608,Green Gram (Moong),Shahjahanpur,2017-07-09,6360.0,2.3,30.0,clear
+1609,Lentil(Masur),Shahjahanpur,2017-07-09,5150.0,3.5,30.0,clear
+1610,Bengal Gram(Gram),Puwaha,2017-08-09,6450.0,1.4,32.0,clear
+1611,Bengal Gram(Gram),Shahjahanpur,2017-08-09,6400.0,2.3,32.0,clear
+1612,Black Gram (Urd Beans),Puwaha,2017-08-09,6480.0,1.0,32.0,clear
+1613,Black Gram (Urd Beans),Shahjahanpur,2017-08-09,6280.0,2.0,32.0,clear
+1614,Green Gram (Moong),Shahjahanpur,2017-08-09,6260.0,2.0,32.0,clear
+1615,Lentil(Masur),Shahjahanpur,2017-08-09,5100.0,4.0,32.0,clear
+1616,Bengal Gram(Gram),Puwaha,2017-10-09,6500.0,1.6,32.0,clear
+1617,Black Gram (Urd Beans),Puwaha,2017-10-09,6550.0,1.2,32.0,clear
+1618,Bengal Gram(Gram),Puwaha,2017-11-09,6450.0,1.4,23.4,clear
+1619,Bengal Gram(Gram),Shahjahanpur,2017-11-09,6415.0,2.0,23.4,clear
+1620,Black Gram (Urd Beans),Puwaha,2017-11-09,6500.0,1.0,23.4,clear
+1621,Black Gram (Urd Beans),Shahjahanpur,2017-11-09,6300.0,1.2,23.4,clear
+1622,Green Gram (Moong),Shahjahanpur,2017-11-09,6350.0,1.8,23.4,clear
+1623,Lentil(Masur),Shahjahanpur,2017-11-09,5100.0,0.0,23.4,clear
+1624,Bengal Gram(Gram),Puwaha,2017-12-09,6450.0,1.0,10.4,clear
+1625,Bengal Gram(Gram),Shahjahanpur,2017-12-09,6415.0,1.6,10.4,clear
+1626,Black Gram (Urd Beans),Puwaha,2017-12-09,6500.0,1.2,10.4,clear
+1627,Black Gram (Urd Beans),Shahjahanpur,2017-12-09,6300.0,1.4,10.4,clear
+1628,Green Gram (Moong),Shahjahanpur,2017-12-09,6340.0,2.0,10.4,clear
+1629,Bengal Gram(Gram),Puwaha,2017-09-13,6440.0,1.2,32.4,clear
+1630,Bengal Gram(Gram),Shahjahanpur,2017-09-13,6400.0,1.7,32.4,clear
+1631,Black Gram (Urd Beans),Puwaha,2017-09-13,6450.0,1.0,32.4,clear
+1632,Black Gram (Urd Beans),Shahjahanpur,2017-09-13,6315.0,1.3,32.4,clear
+1633,Green Gram (Moong),Shahjahanpur,2017-09-13,6340.0,1.6,32.4,clear
+1634,Bengal Gram(Gram),Puwaha,2017-09-14,6500.0,1.2,34.0,clear
+1635,Bengal Gram(Gram),Shahjahanpur,2017-09-14,6400.0,2.0,34.0,clear
+1636,Black Gram (Urd Beans),Puwaha,2017-09-14,6450.0,1.4,34.0,clear
+1637,Black Gram (Urd Beans),Shahjahanpur,2017-09-14,6315.0,1.3,34.0,clear
+1638,Green Gram (Moong),Shahjahanpur,2017-09-14,6350.0,7.0,34.0,clear
+1639,Bengal Gram(Gram),Shahjahanpur,2017-01-19,9050.0,1.8,20.4,clear
+1640,Black Gram (Urd Beans),Shahjahanpur,2017-01-19,8210.0,1.8,20.4,clear
+1641,Green Gram (Moong),Shahjahanpur,2017-01-19,7500.0,1.8,20.4,clear
+1642,Lentil(Masur),Shahjahanpur,2017-01-19,6950.0,1.2,20.4,clear
+1643,Bengal Gram(Gram),Shahjahanpur,2017-01-31,8900.0,2.5,21.0,clear
+1644,Green Gram (Moong),Shahjahanpur,2017-01-31,7650.0,1.4,21.0,clear
+1645,Bengal Gram(Gram),Shahjahanpur,2017-04-25,6850.0,2.7,37.4,clear
+1646,Black Gram (Urd Beans),Shahjahanpur,2017-04-25,6600.0,1.4,37.4,clear
+1647,Bengal Gram(Gram),Shahjahanpur,2017-04-29,6700.0,2.4,38.4,clear
+1648,Black Gram (Urd Beans),Shahjahanpur,2017-04-29,6825.0,1.3,38.4,clear
+1649,Green Gram (Moong),Shahjahanpur,2017-04-29,6620.0,1.2,38.4,clear
+1650,Lentil(Masur),Shahjahanpur,2017-04-29,6400.0,2.3,38.4,clear
+1651,Bengal Gram(Gram),Shahjahanpur,2017-02-05,6800.0,1.5,23.6,clear
+1652,Black Gram (Urd Beans),Shahjahanpur,2017-02-05,6650.0,1.4,23.6,clear
+1653,Green Gram (Moong),Shahjahanpur,2017-02-05,6610.0,1.4,23.6,clear
+1654,Lentil(Masur),Shahjahanpur,2017-02-05,6400.0,2.0,23.6,clear
+1655,Bengal Gram(Gram),Shahjahanpur,2017-04-05,6850.0,1.2,33.8,clear
+1656,Black Gram (Urd Beans),Shahjahanpur,2017-04-05,6640.0,1.4,33.8,clear
+1657,Lentil(Masur),Shahjahanpur,2017-04-05,6350.0,2.3,33.8,clear
+1658,Bengal Gram(Gram),Shahjahanpur,2017-05-05,6850.0,1.6,37.4,clear
+1659,Black Gram (Urd Beans),Shahjahanpur,2017-05-05,6600.0,1.6,37.4,clear
+1660,Green Gram (Moong),Shahjahanpur,2017-05-05,6600.0,1.4,37.4,clear
+1661,Lentil(Masur),Shahjahanpur,2017-05-05,6300.0,2.6,37.4,clear
+1662,Bengal Gram(Gram),Shahjahanpur,2017-09-05,6480.0,5.0,33.0,clear
+1663,Black Gram (Urd Beans),Shahjahanpur,2017-09-05,6300.0,1.7,33.0,clear
+1664,Lentil(Masur),Shahjahanpur,2017-09-05,5800.0,5.0,33.0,clear
+1665,Bengal Gram(Gram),Shahjahanpur,2017-05-17,6440.0,3.4,27.4,clear
+1666,Black Gram (Urd Beans),Shahjahanpur,2017-05-17,6400.0,2.0,27.4,clear
+1667,Green Gram (Moong),Shahjahanpur,2017-05-17,6350.0,1.4,27.4,clear
+1668,Lentil(Masur),Shahjahanpur,2017-05-17,5500.0,2.0,27.4,clear
+1669,Bengal Gram(Gram),Shahjahanpur,2017-05-18,6440.0,3.3,37.0,clear
+1670,Black Gram (Urd Beans),Shahjahanpur,2017-05-18,6400.0,1.6,37.0,clear
+1671,Green Gram (Moong),Shahjahanpur,2017-05-18,6350.0,1.3,37.0,clear
+1672,Lentil(Masur),Shahjahanpur,2017-05-18,5600.0,1.8,37.0,clear
+1673,Bengal Gram(Gram),Shahjahanpur,2017-05-19,6440.0,3.4,35.4,clear
+1674,Black Gram (Urd Beans),Shahjahanpur,2017-05-19,6450.0,1.4,35.4,clear
+1675,Lentil(Masur),Shahjahanpur,2017-05-19,5600.0,1.7,35.4,clear
+1676,Bengal Gram(Gram),Shahjahanpur,2017-05-20,6450.0,2.4,38.0,clear
+1677,Black Gram (Urd Beans),Shahjahanpur,2017-05-20,6450.0,1.5,38.0,clear
+1678,Lentil(Masur),Shahjahanpur,2017-05-20,5590.0,1.8,38.0,clear
+1679,Bengal Gram(Gram),Shahjahanpur,2017-05-22,6340.0,1.2,37.4,clear
+1680,Black Gram (Urd Beans),Shahjahanpur,2017-05-22,6440.0,1.6,37.4,clear
+1681,Green Gram (Moong),Shahjahanpur,2017-05-22,6340.0,1.2,37.4,clear
+1682,Lentil(Masur),Shahjahanpur,2017-05-22,5590.0,1.6,37.4,clear
+1683,Bengal Gram(Gram),Shahjahanpur,2017-05-23,6600.0,1.8,38.0,clear
+1684,Black Gram (Urd Beans),Shahjahanpur,2017-05-23,6600.0,1.5,38.0,clear
+1685,Green Gram (Moong),Shahjahanpur,2017-05-23,6400.0,1.0,38.0,clear
+1686,Lentil(Masur),Shahjahanpur,2017-05-23,5575.0,1.8,38.0,clear
+1687,Bengal Gram(Gram),Shahjahanpur,2017-05-26,6650.0,1.3,38.0,clear
+1688,Black Gram (Urd Beans),Shahjahanpur,2017-05-26,6650.0,1.2,38.0,clear
+1689,Lentil(Masur),Shahjahanpur,2017-05-26,5550.0,2.3,38.0,clear
+1690,Bengal Gram(Gram),Shahjahanpur,2017-05-31,6625.0,1.4,34.4,clear
+1691,Black Gram (Urd Beans),Shahjahanpur,2017-05-31,6600.0,1.3,34.4,clear
+1692,Green Gram (Moong),Shahjahanpur,2017-05-31,6380.0,1.3,34.4,clear
+1693,Lentil(Masur),Shahjahanpur,2017-05-31,5500.0,2.0,34.4,clear
+1694,Bengal Gram(Gram),Shahjahanpur,2017-01-06,6625.0,1.4,14.4,clear
+1695,Black Gram (Urd Beans),Shahjahanpur,2017-01-06,6600.0,1.4,14.4,clear
+1696,Green Gram (Moong),Shahjahanpur,2017-01-06,6370.0,1.4,14.4,clear
+1697,Lentil(Masur),Shahjahanpur,2017-01-06,5500.0,2.3,14.4,clear
+1698,Bengal Gram(Gram),Shahjahanpur,2017-02-06,6625.0,1.3,24.0,clear
+1699,Black Gram (Urd Beans),Shahjahanpur,2017-02-06,6600.0,1.3,24.0,clear
+1700,Green Gram (Moong),Shahjahanpur,2017-02-06,6570.0,1.6,24.0,clear
+1701,Lentil(Masur),Shahjahanpur,2017-02-06,5500.0,2.4,24.0,clear
+1702,Bengal Gram(Gram),Shahjahanpur,2017-03-06,6650.0,1.3,27.0,clear
+1703,Black Gram (Urd Beans),Shahjahanpur,2017-03-06,6600.0,1.8,27.0,clear
+1704,Green Gram (Moong),Shahjahanpur,2017-03-06,6750.0,1.6,27.0,clear
+1705,Lentil(Masur),Shahjahanpur,2017-03-06,5500.0,2.4,27.0,clear
+1706,Bengal Gram(Gram),Shahjahanpur,2017-05-06,6675.0,1.2,39.0,clear
+1707,Black Gram (Urd Beans),Shahjahanpur,2017-05-06,6610.0,1.2,39.0,clear
+1708,Green Gram (Moong),Shahjahanpur,2017-05-06,6600.0,1.5,39.0,clear
+1709,Lentil(Masur),Shahjahanpur,2017-05-06,5475.0,2.5,39.0,clear
+1710,Bengal Gram(Gram),Shahjahanpur,2017-06-06,6675.0,1.5,32.0,clear
+1711,Black Gram (Urd Beans),Shahjahanpur,2017-06-06,6610.0,1.3,32.0,clear
+1712,Green Gram (Moong),Shahjahanpur,2017-06-06,6600.0,1.4,32.0,clear
+1713,Lentil(Masur),Shahjahanpur,2017-06-06,5475.0,2.4,32.0,clear
+1714,Bengal Gram(Gram),Shahjahanpur,2017-07-06,6680.0,1.4,25.6,clear
+1715,Black Gram (Urd Beans),Shahjahanpur,2017-07-06,6625.0,1.2,25.6,clear
+1716,Green Gram (Moong),Shahjahanpur,2017-07-06,6610.0,1.3,25.6,clear
+1717,Lentil(Masur),Shahjahanpur,2017-07-06,5460.0,2.5,25.6,clear
+1718,Bengal Gram(Gram),Shahjahanpur,2017-08-06,6700.0,1.2,28.4,clear
+1719,Black Gram (Urd Beans),Shahjahanpur,2017-08-06,6600.0,1.4,28.4,clear
+1720,Green Gram (Moong),Shahjahanpur,2017-08-06,6600.0,1.8,28.4,clear
+1721,Lentil(Masur),Shahjahanpur,2017-08-06,5450.0,2.0,28.4,clear
+1722,Bengal Gram(Gram),Shahjahanpur,2017-09-06,6700.0,1.4,34.4,clear
+1723,Black Gram (Urd Beans),Puwaha,2017-09-06,6620.0,2.0,34.4,clear
+1724,Black Gram (Urd Beans),Shahjahanpur,2017-09-06,6600.0,1.3,34.4,clear
+1725,Green Gram (Moong),Shahjahanpur,2017-09-06,6600.0,1.7,34.4,clear
+1726,Lentil(Masur),Shahjahanpur,2017-09-06,5460.0,1.6,34.4,clear
+1727,Bengal Gram(Gram),Shahjahanpur,2017-12-06,6710.0,1.5,24.0,clear
+1728,Black Gram (Urd Beans),Puwaha,2017-12-06,6620.0,1.6,24.0,clear
+1729,Black Gram (Urd Beans),Shahjahanpur,2017-12-06,6590.0,1.2,24.0,clear
+1730,Green Gram (Moong),Shahjahanpur,2017-12-06,6580.0,2.3,24.0,clear
+1731,Lentil(Masur),Shahjahanpur,2017-12-06,5450.0,1.3,24.0,clear
+1732,Bengal Gram(Gram),Shahjahanpur,2017-06-14,6750.0,1.2,40.2,clear
+1733,Black Gram (Urd Beans),Puwaha,2017-06-14,6620.0,1.5,40.2,clear
+1734,Black Gram (Urd Beans),Shahjahanpur,2017-06-14,6575.0,1.4,40.2,clear
+1735,Green Gram (Moong),Shahjahanpur,2017-06-14,6575.0,2.1,40.2,clear
+1736,Lentil(Masur),Shahjahanpur,2017-06-14,5450.0,1.5,40.2,clear
+1737,Bengal Gram(Gram),Shahjahanpur,2017-06-15,6750.0,1.0,37.4,clear
+1738,Black Gram (Urd Beans),Shahjahanpur,2017-06-15,6550.0,1.5,37.4,clear
+1739,Green Gram (Moong),Shahjahanpur,2017-06-15,6550.0,2.2,37.4,clear
+1740,Lentil(Masur),Shahjahanpur,2017-06-15,5450.0,1.0,37.4,clear
+1741,Bengal Gram(Gram),Shahjahanpur,2017-06-16,6750.0,1.1,31.4,clear
+1742,Black Gram (Urd Beans),Shahjahanpur,2017-06-16,6550.0,1.4,31.4,clear
+1743,Lentil(Masur),Shahjahanpur,2017-06-16,5450.0,1.2,31.4,clear
+1744,Bengal Gram(Gram),Shahjahanpur,2017-06-17,6850.0,1.2,36.0,clear
+1745,Black Gram (Urd Beans),Shahjahanpur,2017-06-17,6550.0,1.3,36.0,clear
+1746,Green Gram (Moong),Shahjahanpur,2017-06-17,6540.0,1.8,36.0,clear
+1747,Lentil(Masur),Shahjahanpur,2017-06-17,5450.0,1.3,36.0,clear
+1748,Bengal Gram(Gram),Shahjahanpur,2017-06-19,6900.0,1.5,37.0,clear
+1749,Black Gram (Urd Beans),Shahjahanpur,2017-06-19,6600.0,1.0,37.0,clear
+1750,Lentil(Masur),Shahjahanpur,2017-06-19,5450.0,1.4,37.0,clear
+1751,Bengal Gram(Gram),Shahjahanpur,2017-06-20,6900.0,1.0,34.0,clear
+1752,Black Gram (Urd Beans),Shahjahanpur,2017-06-20,6610.0,1.1,34.0,clear
+1753,Green Gram (Moong),Shahjahanpur,2017-06-20,6600.0,1.4,34.0,clear
+1754,Lentil(Masur),Shahjahanpur,2017-06-20,5400.0,1.2,34.0,clear
+1755,Bengal Gram(Gram),Shahjahanpur,2017-06-21,6900.0,1.2,34.0,clear
+1756,Black Gram (Urd Beans),Shahjahanpur,2017-06-21,6610.0,1.2,34.0,clear
+1757,Lentil(Masur),Shahjahanpur,2017-06-21,5450.0,1.3,34.0,clear
+1758,Bengal Gram(Gram),Shahjahanpur,2017-06-22,6910.0,1.3,34.0,clear
+1759,Black Gram (Urd Beans),Shahjahanpur,2017-06-22,6620.0,1.4,34.0,clear
+1760,Green Gram (Moong),Shahjahanpur,2017-06-22,6610.0,1.4,34.0,clear
+1761,Bengal Gram(Gram),Shahjahanpur,2017-06-23,6910.0,1.5,35.0,clear
+1762,Black Gram (Urd Beans),Shahjahanpur,2017-06-23,6620.0,1.3,35.0,clear
+1763,Lentil(Masur),Shahjahanpur,2017-06-23,5450.0,1.5,35.0,clear
+1764,Bengal Gram(Gram),Shahjahanpur,2017-06-27,6750.0,2.3,35.0,clear
+1765,Black Gram (Urd Beans),Shahjahanpur,2017-06-27,6630.0,1.4,35.0,clear
+1766,Lentil(Masur),Shahjahanpur,2017-06-27,5400.0,2.4,35.0,clear
+1767,Bengal Gram(Gram),Shahjahanpur,2017-06-29,6740.0,2.5,33.4,clear
+1768,Black Gram (Urd Beans),Shahjahanpur,2017-06-29,6600.0,2.0,33.4,clear
+1769,Lentil(Masur),Shahjahanpur,2017-06-29,5390.0,2.4,33.4,clear
+1770,Bengal Gram(Gram),Shahjahanpur,2017-06-30,6740.0,2.4,34.0,clear
+1771,Lentil(Masur),Shahjahanpur,2017-06-30,5390.0,2.5,34.0,clear
+1772,Bengal Gram(Gram),Shahjahanpur,2017-01-07,6730.0,2.5,10.0,clear
+1773,Black Gram (Urd Beans),Shahjahanpur,2017-01-07,6600.0,2.0,10.0,clear
+1774,Green Gram (Moong),Shahjahanpur,2017-01-07,6580.0,2.4,10.0,clear
+1775,Lentil(Masur),Shahjahanpur,2017-01-07,5380.0,2.3,10.0,clear
+1776,Bengal Gram(Gram),Shahjahanpur,2017-03-07,6730.0,2.4,27.4,clear
+1777,Black Gram (Urd Beans),Shahjahanpur,2017-03-07,6600.0,2.3,27.4,clear
+1778,Lentil(Masur),Shahjahanpur,2017-03-07,5380.0,2.0,27.4,clear
+1779,Bengal Gram(Gram),Shahjahanpur,2017-06-07,6500.0,2.4,32.0,clear
+1780,Black Gram (Urd Beans),Shahjahanpur,2017-06-07,6610.0,2.3,32.0,clear
+1781,Lentil(Masur),Shahjahanpur,2017-06-07,5375.0,2.4,32.0,clear
+1782,Bengal Gram(Gram),Shahjahanpur,2017-07-07,6500.0,1.4,28.0,clear
+1783,Black Gram (Urd Beans),Shahjahanpur,2017-07-07,6610.0,2.0,28.0,clear
+1784,Green Gram (Moong),Shahjahanpur,2017-07-07,6525.0,1.6,28.0,clear
+1785,Lentil(Masur),Shahjahanpur,2017-07-07,5350.0,1.8,28.0,clear
+1786,Bengal Gram(Gram),Shahjahanpur,2017-10-07,6450.0,1.6,35.0,clear
+1787,Black Gram (Urd Beans),Puwaha,2017-10-07,6850.0,0.4,35.0,clear
+1788,Black Gram (Urd Beans),Shahjahanpur,2017-10-07,6450.0,1.8,35.0,clear
+1789,Green Gram (Moong),Shahjahanpur,2017-10-07,6500.0,1.7,35.0,clear
+1790,Lentil(Masur),Shahjahanpur,2017-10-07,5200.0,1.7,35.0,clear
+1791,Bengal Gram(Gram),Shahjahanpur,2017-11-07,6475.0,1.5,26.4,clear
+1792,Black Gram (Urd Beans),Puwaha,2017-11-07,6820.0,0.2,26.4,clear
+1793,Black Gram (Urd Beans),Shahjahanpur,2017-11-07,6400.0,1.6,26.4,clear
+1794,Green Gram (Moong),Shahjahanpur,2017-11-07,6500.0,1.6,26.4,clear
+1795,Lentil(Masur),Shahjahanpur,2017-11-07,5200.0,1.6,26.4,clear
+1796,Bengal Gram(Gram),Shahjahanpur,2017-07-13,6475.0,1.2,30.4,clear
+1797,Black Gram (Urd Beans),Shahjahanpur,2017-07-13,6400.0,1.2,30.4,clear
+1798,Green Gram (Moong),Shahjahanpur,2017-07-13,6500.0,1.2,30.4,clear
+1799,Lentil(Masur),Shahjahanpur,2017-07-13,5200.0,1.3,30.4,clear
+1800,Bengal Gram(Gram),Shahjahanpur,2017-07-14,6475.0,1.4,33.0,clear
+1801,Black Gram (Urd Beans),Puwaha,2017-07-14,6870.0,0.4,33.0,clear
+1802,Black Gram (Urd Beans),Shahjahanpur,2017-07-14,6400.0,1.5,33.0,clear
+1803,Green Gram (Moong),Shahjahanpur,2017-07-14,6500.0,1.5,33.0,clear
+1804,Lentil(Masur),Shahjahanpur,2017-07-14,5200.0,1.5,33.0,clear
+1805,Bengal Gram(Gram),Shahjahanpur,2017-07-15,6465.0,1.5,32.0,clear
+1806,Black Gram (Urd Beans),Shahjahanpur,2017-07-15,6400.0,1.4,32.0,clear
+1807,Green Gram (Moong),Shahjahanpur,2017-07-15,6480.0,1.6,32.0,clear
+1808,Lentil(Masur),Shahjahanpur,2017-07-15,5210.0,1.3,32.0,clear
+1809,Bengal Gram(Gram),Shahjahanpur,2017-07-17,6465.0,1.3,30.4,clear
+1810,Black Gram (Urd Beans),Shahjahanpur,2017-07-17,6410.0,1.2,30.4,clear
+1811,Bengal Gram(Gram),Shahjahanpur,2017-07-18,6480.0,1.2,34.0,clear
+1812,Black Gram (Urd Beans),Puwaha,2017-07-18,6870.0,0.5,34.0,clear
+1813,Black Gram (Urd Beans),Shahjahanpur,2017-07-18,6410.0,1.4,34.0,clear
+1814,Green Gram (Moong),Shahjahanpur,2017-07-18,6500.0,1.6,34.0,clear
+1815,Lentil(Masur),Shahjahanpur,2017-07-18,5215.0,1.3,34.0,clear
+1816,Bengal Gram(Gram),Shahjahanpur,2017-07-19,6480.0,1.5,33.0,clear
+1817,Black Gram (Urd Beans),Puwaha,2017-07-19,6890.0,0.2,33.0,clear
+1818,Black Gram (Urd Beans),Shahjahanpur,2017-07-19,6400.0,1.6,33.0,clear
+1819,Green Gram (Moong),Shahjahanpur,2017-07-19,6500.0,1.7,33.0,clear
+1820,Lentil(Masur),Shahjahanpur,2017-07-19,5215.0,1.6,33.0,clear
+1821,Bengal Gram(Gram),Shahjahanpur,2017-07-20,6480.0,1.6,33.4,clear
+1822,Black Gram (Urd Beans),Puwaha,2017-07-20,6650.0,0.4,33.4,clear
+1823,Black Gram (Urd Beans),Shahjahanpur,2017-07-20,6400.0,1.7,33.4,clear
+1824,Green Gram (Moong),Shahjahanpur,2017-07-20,6500.0,2.0,33.4,clear
+1825,Lentil(Masur),Shahjahanpur,2017-07-20,5215.0,1.4,33.4,clear
+1826,Bengal Gram(Gram),Shahjahanpur,2017-07-22,6465.0,2.3,30.4,clear
+1827,Black Gram (Urd Beans),Shahjahanpur,2017-07-22,6390.0,2.0,30.4,clear
+1828,Green Gram (Moong),Shahjahanpur,2017-07-22,6490.0,2.0,30.4,clear
+1829,Lentil(Masur),Shahjahanpur,2017-07-22,5225.0,1.5,30.4,clear
+1830,Bengal Gram(Gram),Shahjahanpur,2017-07-24,6450.0,2.4,28.4,clear
+1831,Black Gram (Urd Beans),Puwaha,2017-07-24,6490.0,0.5,28.4,clear
+1832,Black Gram (Urd Beans),Shahjahanpur,2017-07-24,6390.0,1.6,28.4,clear
+1833,Green Gram (Moong),Shahjahanpur,2017-07-24,6500.0,1.7,28.4,clear
+1834,Lentil(Masur),Shahjahanpur,2017-07-24,5225.0,1.4,28.4,clear
+1835,Bengal Gram(Gram),Shahjahanpur,2017-07-25,6450.0,2.5,30.4,clear
+1836,Black Gram (Urd Beans),Puwaha,2017-07-25,6480.0,0.7,30.4,clear
+1837,Black Gram (Urd Beans),Shahjahanpur,2017-07-25,6390.0,1.4,30.4,clear
+1838,Green Gram (Moong),Shahjahanpur,2017-07-25,6500.0,1.6,30.4,clear
+1839,Lentil(Masur),Shahjahanpur,2017-07-25,5225.0,1.6,30.4,clear
+1840,Bengal Gram(Gram),Shahjahanpur,2017-07-26,6450.0,2.6,33.0,clear
+1841,Black Gram (Urd Beans),Puwaha,2017-07-26,6500.0,0.5,33.0,clear
+1842,Black Gram (Urd Beans),Shahjahanpur,2017-07-26,6400.0,1.2,33.0,clear
+1843,Green Gram (Moong),Shahjahanpur,2017-07-26,6500.0,1.8,33.0,clear
+1844,Lentil(Masur),Shahjahanpur,2017-07-26,5235.0,1.9,33.0,clear
+1845,Bengal Gram(Gram),Shahjahanpur,2017-07-28,6450.0,2.3,32.0,clear
+1846,Black Gram (Urd Beans),Shahjahanpur,2017-07-28,6400.0,1.5,32.0,clear
+1847,Green Gram (Moong),Shahjahanpur,2017-07-28,6500.0,1.3,32.0,clear
+1848,Lentil(Masur),Shahjahanpur,2017-07-28,5235.0,1.6,32.0,clear
+1849,Bengal Gram(Gram),Shahjahanpur,2017-07-29,6460.0,2.0,32.0,clear
+1850,Black Gram (Urd Beans),Shahjahanpur,2017-07-29,6450.0,1.3,32.0,clear
+1851,Green Gram (Moong),Shahjahanpur,2017-07-29,6480.0,1.5,32.0,clear
+1852,Lentil(Masur),Shahjahanpur,2017-07-29,5240.0,1.5,32.0,clear
+1853,Bengal Gram(Gram),Shahjahanpur,2017-07-31,6500.0,1.4,30.4,clear
+1854,Black Gram (Urd Beans),Puwaha,2017-07-31,6480.0,0.6,30.4,clear
+1855,Black Gram (Urd Beans),Shahjahanpur,2017-07-31,6400.0,1.2,30.4,clear
+1856,Green Gram (Moong),Shahjahanpur,2017-07-31,6450.0,1.6,30.4,clear
+1857,Lentil(Masur),Shahjahanpur,2017-07-31,5200.0,1.6,30.4,clear
+1858,Bengal Gram(Gram),Shahjahanpur,2017-02-08,6500.0,1.5,22.4,clear
+1859,Black Gram (Urd Beans),Puwaha,2017-02-08,6560.0,0.4,22.4,clear
+1860,Black Gram (Urd Beans),Shahjahanpur,2017-02-08,6400.0,1.3,22.4,clear
+1861,Green Gram (Moong),Shahjahanpur,2017-02-08,6450.0,1.6,22.4,clear
+1862,Lentil(Masur),Shahjahanpur,2017-02-08,5200.0,1.6,22.4,clear
+1863,Bengal Gram(Gram),Shahjahanpur,2017-03-08,6500.0,1.4,12.2,clear
+1864,Black Gram (Urd Beans),Puwaha,2017-03-08,6520.0,0.5,12.2,clear
+1865,Black Gram (Urd Beans),Shahjahanpur,2017-03-08,6400.0,1.5,12.2,clear
+1866,Green Gram (Moong),Shahjahanpur,2017-03-08,6450.0,1.7,12.2,clear
+1867,Lentil(Masur),Shahjahanpur,2017-03-08,5200.0,2.0,12.2,clear
+1868,Bengal Gram(Gram),Shahjahanpur,2017-04-08,6525.0,1.3,34.0,clear
+1869,Black Gram (Urd Beans),Puwaha,2017-04-08,6600.0,0.7,34.0,clear
+1870,Black Gram (Urd Beans),Shahjahanpur,2017-04-08,6390.0,1.6,34.0,clear
+1871,Green Gram (Moong),Shahjahanpur,2017-04-08,6445.0,2.0,34.0,clear
+1872,Lentil(Masur),Shahjahanpur,2017-04-08,5215.0,1.8,34.0,clear
+1873,Bengal Gram(Gram),Shahjahanpur,2017-05-08,6500.0,1.5,37.0,clear
+1874,Black Gram (Urd Beans),Shahjahanpur,2017-05-08,6350.0,1.4,37.0,clear
+1875,Green Gram (Moong),Shahjahanpur,2017-05-08,6400.0,2.0,37.0,clear
+1876,Lentil(Masur),Shahjahanpur,2017-05-08,5150.0,4.0,37.0,clear
+1877,Bengal Gram(Gram),Shahjahanpur,2017-07-08,6400.0,1.5,28.0,clear
+1878,Black Gram (Urd Beans),Shahjahanpur,2017-07-08,6250.0,2.0,28.0,clear
+1879,Green Gram (Moong),Shahjahanpur,2017-07-08,6380.0,2.5,28.0,clear
+1880,Lentil(Masur),Shahjahanpur,2017-07-08,5100.0,2.1,28.0,clear
+1881,Bengal Gram(Gram),Shahjahanpur,2017-08-08,6500.0,1.4,29.0,clear
+1882,Black Gram (Urd Beans),Puwaha,2017-08-08,6630.0,0.6,29.0,clear
+1883,Black Gram (Urd Beans),Shahjahanpur,2017-08-08,6350.0,1.5,29.0,clear
+1884,Green Gram (Moong),Shahjahanpur,2017-08-08,6400.0,2.3,29.0,clear
+1885,Lentil(Masur),Shahjahanpur,2017-08-08,5150.0,4.5,29.0,clear
+1886,Bengal Gram(Gram),Shahjahanpur,2017-12-08,6450.0,1.6,23.4,clear
+1887,Black Gram (Urd Beans),Shahjahanpur,2017-12-08,6300.0,2.0,23.4,clear
+1888,Green Gram (Moong),Shahjahanpur,2017-12-08,6380.0,2.5,23.4,clear
+1889,Lentil(Masur),Shahjahanpur,2017-12-08,5100.0,2.5,23.4,clear
+1890,Bengal Gram(Gram),Shahjahanpur,2017-08-17,6400.0,2.3,34.4,clear
+1891,Lentil(Masur),Shahjahanpur,2017-08-17,5125.0,2.4,34.4,clear
+1892,Bengal Gram(Gram),Shahjahanpur,2017-08-21,6435.0,2.2,32.4,clear
+1893,Black Gram (Urd Beans),Shahjahanpur,2017-08-21,6200.0,2.4,32.4,clear
+1894,Green Gram (Moong),Shahjahanpur,2017-08-21,6340.0,2.5,32.4,clear
+1895,Bengal Gram(Gram),Shahjahanpur,2017-08-26,6460.0,2.4,28.0,clear
+1896,Black Gram (Urd Beans),Shahjahanpur,2017-08-26,6250.0,2.0,28.0,clear
+1897,Green Gram (Moong),Shahjahanpur,2017-08-26,6350.0,2.0,28.0,clear
+1898,Lentil(Masur),Shahjahanpur,2017-08-26,5100.0,2.8,28.0,clear
+1899,Bengal Gram(Gram),Shahjahanpur,2017-08-29,6500.0,2.3,27.8,clear
+1900,Black Gram (Urd Beans),Puwaha,2017-08-29,6450.0,1.0,27.8,clear
+1901,Black Gram (Urd Beans),Shahjahanpur,2017-08-29,6300.0,2.0,27.8,clear
+1902,Green Gram (Moong),Shahjahanpur,2017-08-29,6400.0,2.2,27.8,clear
+1903,Lentil(Masur),Shahjahanpur,2017-08-29,5200.0,2.4,27.8,clear
+1904,Bengal Gram(Gram),Shahjahanpur,2017-09-16,6400.0,2.3,34.4,clear
+1905,Black Gram (Urd Beans),Shahjahanpur,2017-09-16,6360.0,1.6,34.4,clear
+1906,Green Gram (Moong),Shahjahanpur,2017-09-16,2660.0,5.0,34.4,clear
+1907,Bengal Gram(Gram),Shahjahanpur,2017-09-23,6425.0,2.3,28.0,clear
+1908,Black Gram (Urd Beans),Shahjahanpur,2017-09-23,6340.0,1.5,28.0,clear
+1909,Green Gram (Moong),Shahjahanpur,2017-09-23,6285.0,2.5,28.0,clear
+1910,Bengal Gram(Gram),Shahjahanpur,2017-09-29,6390.0,2.4,32.2,clear
+1911,Bengal Gram(Gram),Shahjahanpur,2017-09-30,6400.0,1.5,32.8,clear
+1912,Black Gram (Urd Beans),Shahjahanpur,2017-09-30,6300.0,1.2,32.8,clear
+1913,Bengal Gram(Gram),Shahjahanpur,2017-02-10,6400.0,2.0,21.0,clear
+1914,Black Gram (Urd Beans),Puwaha,2017-02-10,6350.0,0.6,21.0,clear
+1915,Bengal Gram(Gram),Shahjahanpur,2017-03-10,6400.0,1.0,18.4,clear
+1916,Black Gram (Urd Beans),Puwaha,2017-03-10,6300.0,0.6,18.4,clear
+1917,Bengal Gram(Gram),Shahjahanpur,2017-04-10,6400.0,1.5,32.4,clear
+1918,Black Gram (Urd Beans),Puwaha,2017-04-10,6250.0,0.5,32.4,clear
+1919,Green Gram (Moong),Shahjahanpur,2017-04-10,6300.0,1.4,32.4,clear
+1920,Bengal Gram(Gram),Shahjahanpur,2017-10-14,6400.0,1.6,33.8,clear
+1921,Black Gram (Urd Beans),Shahjahanpur,2017-10-14,6310.0,1.4,33.8,clear
+1922,Green Gram (Moong),Shahjahanpur,2017-10-14,6350.0,1.5,33.8,clear
+1923,Bengal Gram(Gram),Shahjahanpur,2017-10-21,6400.0,2.0,33.4,clear
+1924,Black Gram (Urd Beans),Shahjahanpur,2017-10-21,6350.0,2.1,33.4,clear
+1925,Bengal Gram(Gram),Shahjahanpur,2017-10-28,6390.0,1.4,28.4,clear
+1926,Black Gram (Urd Beans),Shahjahanpur,2017-10-28,6325.0,1.2,28.4,clear
+1927,Bengal Gram(Gram),Shahjahanpur,2017-03-11,6380.0,1.6,21.4,clear
+1928,Black Gram (Urd Beans),Puwaha,2017-03-11,6300.0,1.2,21.4,clear
+1929,Black Gram (Urd Beans),Shahjahanpur,2017-03-11,6335.0,1.4,21.4,clear
+1930,Green Gram (Moong),Shahjahanpur,2017-03-11,6340.0,1.5,21.4,clear
+1931,Bengal Gram(Gram),Shahjahanpur,2017-04-11,6380.0,1.4,34.2,clear
+1932,Black Gram (Urd Beans),Shahjahanpur,2017-04-11,6375.0,1.2,34.2,clear
+1933,Black Gram (Urd Beans),Puwaha,2017-11-06,6600.0,1.5,28.0,clear
+1934,Black Gram (Urd Beans),Puwaha,2017-07-23,6500.0,0.6,28.2,clear
+1935,Black Gram (Urd Beans),Puwaha,2017-07-27,6520.0,0.5,33.0,clear
+1936,Black Gram (Urd Beans),Puwaha,2017-06-08,6620.0,0.4,29.4,clear
+1937,Black Gram (Urd Beans),Puwaha,2017-02-11,6300.0,1.5,23.2,clear
+1938,Black Gram (Urd Beans),Shahjahanpur,2017-04-19,6625.0,1.3,38.4,clear
+1939,Black Gram (Urd Beans),Shahjahanpur,2017-04-20,6630.0,1.2,38.0,clear
+1940,Green Gram (Moong),Shahjahanpur,2017-04-20,6600.0,2.4,38.0,clear
+1941,Lentil(Masur),Shahjahanpur,2017-04-20,6480.0,2.6,38.0,clear
+1942,Black Gram (Urd Beans),Shahjahanpur,2017-04-24,6580.0,1.7,37.0,clear
+1943,Green Gram (Moong),Shahjahanpur,2017-04-24,6590.0,1.3,37.0,clear
+1944,Lentil(Masur),Shahjahanpur,2017-04-24,6400.0,4.0,37.0,clear
+1945,Black Gram (Urd Beans),Shahjahanpur,2017-05-25,6650.0,1.3,39.4,clear
+1946,Lentil(Masur),Shahjahanpur,2017-05-25,5550.0,2.0,39.4,clear
+1947,Black Gram (Urd Beans),Shahjahanpur,2017-05-29,6640.0,1.2,26.8,clear
+1948,Green Gram (Moong),Shahjahanpur,2017-05-29,6400.0,1.2,26.8,clear
+1949,Lentil(Masur),Shahjahanpur,2017-05-29,5560.0,2.3,26.8,clear
+1950,Black Gram (Urd Beans),Shahjahanpur,2017-06-28,6630.0,1.6,36.4,clear
+1951,Lentil(Masur),Shahjahanpur,2017-06-28,5390.0,2.6,36.4,clear
+1952,Black Gram (Urd Beans),Shahjahanpur,2017-12-07,6400.0,1.4,23.4,clear
+1953,Green Gram (Moong),Shahjahanpur,2017-12-07,6500.0,1.4,23.4,clear
+1954,Lentil(Masur),Shahjahanpur,2017-12-07,5200.0,1.4,23.4,clear
+1955,Black Gram (Urd Beans),Shahjahanpur,2017-07-10,6315.0,1.2,27.8,clear
+1956,Green Gram (Moong),Shahjahanpur,2017-07-10,6300.0,1.4,27.8,clear
+1957,Lentil(Masur),Shahjahanpur,2017-07-10,5100.0,0.0,27.8,clear
+1958,Lentil(Masur),Shahjahanpur,2017-06-05,6300.0,2.4,40.0,clear
+1959,Lentil(Masur),Shahjahanpur,2017-04-07,5075.0,2.2,36.0,clear

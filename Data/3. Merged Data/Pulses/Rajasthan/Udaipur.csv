@@ -1,0 +1,943 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Udaipur,2012-07-14,3600.0,5.1,30.8,clear
+1,Lentil(Masur),Udaipur,2012-07-14,2950.0,14.7,30.8,clear
+2,Arhar (Tur/Red Gram),Udaipur,2012-07-16,3500.0,29.3,29.4,clear
+3,Green Gram (Moong),Udaipur,2012-07-16,4200.0,0.2,29.4,clear
+4,Lentil(Masur),Udaipur,2012-07-16,2900.0,20.2,29.4,clear
+5,Arhar (Tur/Red Gram),Udaipur,2012-07-17,3300.0,32.8,31.4,clear
+6,Green Gram (Moong),Udaipur,2012-07-17,4400.0,1.8,31.4,clear
+7,Lentil(Masur),Udaipur,2012-07-17,3150.0,32.2,31.4,clear
+8,Arhar (Tur/Red Gram),Udaipur,2012-07-18,3800.0,15.6,33.6,clear
+9,Lentil(Masur),Udaipur,2012-07-18,3160.0,26.1,33.6,clear
+10,Arhar (Tur/Red Gram),Udaipur,2012-07-20,4100.0,17.3,31.6,clear
+11,Green Gram (Moong),Udaipur,2012-07-20,4500.0,1.5,31.6,clear
+12,Lentil(Masur),Udaipur,2012-07-20,3105.0,29.7,31.6,clear
+13,Arhar (Tur/Red Gram),Udaipur,2012-07-21,3480.0,5.4,33.6,clear
+14,Green Gram (Moong),Udaipur,2012-07-21,5000.0,3.1,33.6,clear
+15,Lentil(Masur),Udaipur,2012-07-21,3400.0,10.7,33.6,clear
+16,Arhar (Tur/Red Gram),Udaipur,2012-07-23,3395.0,8.8,29.6,clear
+17,Green Gram (Moong),Udaipur,2012-07-23,5000.0,0.3,29.6,clear
+18,Lentil(Masur),Udaipur,2012-07-23,3255.0,11.1,29.6,clear
+19,Arhar (Tur/Red Gram),Udaipur,2012-07-24,3900.0,16.0,31.2,clear
+20,Green Gram (Moong),Udaipur,2012-07-24,5200.0,0.6,31.2,clear
+21,Lentil(Masur),Udaipur,2012-07-24,3300.0,41.9,31.2,clear
+22,Arhar (Tur/Red Gram),Udaipur,2012-07-25,3745.0,9.0,32.4,clear
+23,Black Gram (Urd Beans),Udaipur,2012-07-25,3500.0,0.1,32.4,clear
+24,Green Gram (Moong),Udaipur,2012-07-25,5200.0,0.3,32.4,clear
+25,Lentil(Masur),Udaipur,2012-07-25,3300.0,6.7,32.4,clear
+26,Black Gram (Urd Beans),Udaipur,2012-02-01,3120.0,5.4,19.6,clear
+27,Black Gram (Urd Beans),Udaipur,2012-03-01,3400.0,1.0,29.0,clear
+28,Black Gram (Urd Beans),Udaipur,2012-04-01,3400.0,1.8,37.6,clear
+29,Green Gram (Moong),Udaipur,2012-04-01,4200.0,3.1,37.6,clear
+30,Black Gram (Urd Beans),Udaipur,2012-05-01,3350.0,4.3,37.4,clear
+31,Black Gram (Urd Beans),Udaipur,2012-09-01,3400.0,4.0,30.0,clear
+32,Green Gram (Moong),Udaipur,2012-09-01,4400.0,1.0,30.0,clear
+33,Black Gram (Urd Beans),Udaipur,2012-10-01,3400.0,2.6,32.0,clear
+34,Green Gram (Moong),Udaipur,2012-10-01,4450.0,2.9,32.0,clear
+35,Black Gram (Urd Beans),Udaipur,2012-11-01,2400.0,0.2,28.0,clear
+36,Black Gram (Urd Beans),Udaipur,2012-01-13,3300.0,0.4,20.8,clear
+37,Black Gram (Urd Beans),Udaipur,2012-01-14,3300.0,0.4,24.4,clear
+38,Green Gram (Moong),Udaipur,2012-01-14,4500.0,2.1,24.4,clear
+39,Black Gram (Urd Beans),Udaipur,2012-01-17,3300.0,0.8,20.6,clear
+40,Green Gram (Moong),Udaipur,2012-01-17,4500.0,2.9,20.6,clear
+41,Black Gram (Urd Beans),Udaipur,2012-01-18,3300.0,6.0,19.0,clear
+42,Black Gram (Urd Beans),Udaipur,2012-01-19,3200.0,3.3,17.6,clear
+43,Black Gram (Urd Beans),Udaipur,2012-01-21,3100.0,0.1,18.4,clear
+44,Black Gram (Urd Beans),Udaipur,2012-01-23,3000.0,0.8,21.4,clear
+45,Black Gram (Urd Beans),Udaipur,2012-01-24,3070.0,2.0,21.0,clear
+46,Green Gram (Moong),Udaipur,2012-01-24,4300.0,2.1,21.0,clear
+47,Black Gram (Urd Beans),Udaipur,2012-01-25,3070.0,13.3,22.8,clear
+48,Black Gram (Urd Beans),Udaipur,2012-01-27,3075.0,0.4,21.8,clear
+49,Black Gram (Urd Beans),Udaipur,2012-01-31,3070.0,13.2,21.4,clear
+50,Black Gram (Urd Beans),Udaipur,2012-01-02,3070.0,0.1,18.6,clear
+51,Black Gram (Urd Beans),Udaipur,2012-02-02,3070.0,0.2,22.8,clear
+52,Black Gram (Urd Beans),Udaipur,2012-06-02,3070.0,4.1,37.4,clear
+53,Green Gram (Moong),Udaipur,2012-06-02,4450.0,30.0,37.4,clear
+54,Black Gram (Urd Beans),Udaipur,2012-07-02,3060.0,0.4,35.4,clear
+55,Green Gram (Moong),Udaipur,2012-07-02,4450.0,2.3,35.4,clear
+56,Black Gram (Urd Beans),Udaipur,2012-09-02,3040.0,0.3,31.0,rain
+57,Black Gram (Urd Beans),Udaipur,2012-11-02,3000.0,0.3,27.4,clear
+58,Black Gram (Urd Beans),Udaipur,2012-02-13,3000.0,1.2,25.6,clear
+59,Green Gram (Moong),Udaipur,2012-02-13,4000.0,1.0,25.6,clear
+60,Black Gram (Urd Beans),Udaipur,2012-02-14,3000.0,0.1,24.0,clear
+61,Black Gram (Urd Beans),Udaipur,2012-02-23,3000.0,0.2,29.8,clear
+62,Green Gram (Moong),Udaipur,2012-02-23,4100.0,4.8,29.8,clear
+63,Black Gram (Urd Beans),Udaipur,2012-02-24,3000.0,0.8,26.8,clear
+64,Green Gram (Moong),Udaipur,2012-02-24,4100.0,8.9,26.8,clear
+65,Black Gram (Urd Beans),Udaipur,2012-02-28,2900.0,0.5,28.4,clear
+66,Black Gram (Urd Beans),Udaipur,2012-07-03,2700.0,0.2,37.0,clear
+67,Green Gram (Moong),Udaipur,2012-07-03,4100.0,9.0,37.0,clear
+68,Black Gram (Urd Beans),Udaipur,2012-03-13,2800.0,1.0,27.2,clear
+69,Black Gram (Urd Beans),Udaipur,2012-03-05,3000.0,0.1,32.4,clear
+70,Black Gram (Urd Beans),Udaipur,2012-08-05,2900.0,0.1,31.4,clear
+71,Black Gram (Urd Beans),Udaipur,2012-11-05,2700.0,0.2,28.0,clear
+72,Green Gram (Moong),Udaipur,2012-11-05,4000.0,3.2,28.0,clear
+73,Black Gram (Urd Beans),Udaipur,2012-05-17,2900.0,2.5,38.0,clear
+74,Black Gram (Urd Beans),Udaipur,2012-06-23,3000.0,0.9,35.2,clear
+75,Black Gram (Urd Beans),Udaipur,2012-06-25,3000.0,1.7,35.2,clear
+76,Black Gram (Urd Beans),Udaipur,2012-11-07,3100.0,0.3,27.2,clear
+77,Green Gram (Moong),Udaipur,2012-11-07,4200.0,0.8,27.2,clear
+78,Black Gram (Urd Beans),Udaipur,2012-07-30,3400.0,0.1,29.0,clear
+79,Green Gram (Moong),Udaipur,2012-07-30,5200.0,0.2,29.0,clear
+80,Black Gram (Urd Beans),Udaipur,2012-06-08,3400.0,0.1,35.0,clear
+81,Green Gram (Moong),Udaipur,2012-06-08,5200.0,3.4,35.0,clear
+82,Black Gram (Urd Beans),Udaipur,2012-07-08,3400.0,0.2,35.0,clear
+83,Green Gram (Moong),Udaipur,2012-07-08,5200.0,0.5,35.0,clear
+84,Black Gram (Urd Beans),Udaipur,2012-08-17,3300.0,0.3,28.6,clear
+85,Green Gram (Moong),Udaipur,2012-08-17,4600.0,0.1,28.6,clear
+86,Black Gram (Urd Beans),Udaipur,2012-08-21,3300.0,0.1,25.0,clear
+87,Green Gram (Moong),Udaipur,2012-08-21,4600.0,1.2,25.0,clear
+88,Black Gram (Urd Beans),Udaipur,2012-08-24,3300.0,0.3,28.4,clear
+89,Green Gram (Moong),Udaipur,2012-08-24,4800.0,3.4,28.4,clear
+90,Black Gram (Urd Beans),Udaipur,2012-08-25,3400.0,0.1,28.0,clear
+91,Black Gram (Urd Beans),Udaipur,2012-09-28,2800.0,0.1,31.0,clear
+92,Black Gram (Urd Beans),Udaipur,2012-10-26,3300.0,3.2,28.2,clear
+93,Black Gram (Urd Beans),Udaipur,2012-03-11,3500.0,2.5,29.0,clear
+94,Black Gram (Urd Beans),Udaipur,2012-05-11,3500.0,1.6,38.2,clear
+95,Black Gram (Urd Beans),Udaipur,2012-06-11,3500.0,1.5,35.4,clear
+96,Black Gram (Urd Beans),Udaipur,2012-12-11,3400.0,0.8,25.0,clear
+97,Green Gram (Moong),Udaipur,2012-12-11,5100.0,2.1,25.0,clear
+98,Black Gram (Urd Beans),Udaipur,2012-11-16,3000.0,0.6,26.6,clear
+99,Black Gram (Urd Beans),Udaipur,2012-11-17,3000.0,0.2,27.0,clear
+100,Black Gram (Urd Beans),Udaipur,2012-11-19,3000.0,1.1,16.4,clear
+101,Black Gram (Urd Beans),Udaipur,2012-11-21,3400.0,0.5,24.6,clear
+102,Green Gram (Moong),Udaipur,2012-11-21,5000.0,0.5,24.6,clear
+103,Black Gram (Urd Beans),Udaipur,2012-11-23,3400.0,0.4,26.4,clear
+104,Black Gram (Urd Beans),Udaipur,2012-11-24,3400.0,1.0,27.2,clear
+105,Green Gram (Moong),Udaipur,2012-11-24,5100.0,3.4,27.2,clear
+106,Black Gram (Urd Beans),Udaipur,2012-11-28,3500.0,2.0,26.8,clear
+107,Black Gram (Urd Beans),Udaipur,2012-11-29,3500.0,0.2,27.4,clear
+108,Black Gram (Urd Beans),Udaipur,2012-11-30,3600.0,2.3,23.0,clear
+109,Black Gram (Urd Beans),Udaipur,2012-04-12,3600.0,3.3,35.4,clear
+110,Black Gram (Urd Beans),Udaipur,2012-05-12,3600.0,0.3,37.0,clear
+111,Black Gram (Urd Beans),Udaipur,2012-06-12,3600.0,1.2,35.6,clear
+112,Black Gram (Urd Beans),Udaipur,2012-10-12,3600.0,1.9,32.6,clear
+113,Black Gram (Urd Beans),Udaipur,2012-11-12,3200.0,0.2,28.4,clear
+114,Black Gram (Urd Beans),Udaipur,2012-12-12,3300.0,0.1,25.4,clear
+115,Black Gram (Urd Beans),Udaipur,2012-12-13,3300.0,0.1,24.6,clear
+116,Black Gram (Urd Beans),Udaipur,2012-12-14,3300.0,4.0,24.8,clear
+117,Black Gram (Urd Beans),Udaipur,2012-12-17,3300.0,10.8,24.2,clear
+118,Green Gram (Moong),Udaipur,2012-12-17,5000.0,6.9,24.2,clear
+119,Black Gram (Urd Beans),Udaipur,2012-12-19,3200.0,0.1,23.0,clear
+120,Black Gram (Urd Beans),Udaipur,2012-12-21,3200.0,1.8,23.0,clear
+121,Green Gram (Moong),Udaipur,2012-12-21,5100.0,4.7,23.0,clear
+122,Black Gram (Urd Beans),Udaipur,2012-12-22,3100.0,1.6,22.4,clear
+123,Green Gram (Moong),Udaipur,2012-12-22,5000.0,4.5,22.4,clear
+124,Black Gram (Urd Beans),Udaipur,2012-12-25,3200.0,0.4,23.4,clear
+125,Green Gram (Moong),Udaipur,2012-12-25,5200.0,1.4,23.4,clear
+126,Black Gram (Urd Beans),Udaipur,2012-12-26,3200.0,5.4,24.2,clear
+127,Green Gram (Moong),Udaipur,2012-12-26,5200.0,7.1,24.2,clear
+128,Black Gram (Urd Beans),Udaipur,2012-12-27,3200.0,0.1,24.0,clear
+129,Black Gram (Urd Beans),Udaipur,2012-12-29,3000.0,0.1,21.2,clear
+130,Black Gram (Urd Beans),Udaipur,2012-12-31,3000.0,10.0,19.4,clear
+131,Green Gram (Moong),Udaipur,2012-12-31,5000.0,1.6,19.4,clear
+132,Green Gram (Moong),Udaipur,2012-07-01,4400.0,1.0,35.0,clear
+133,Green Gram (Moong),Udaipur,2012-03-02,4450.0,1.7,28.6,clear
+134,Green Gram (Moong),Udaipur,2012-08-02,4450.0,4.1,29.0,clear
+135,Green Gram (Moong),Udaipur,2012-02-15,4100.0,19.0,22.4,clear
+136,Green Gram (Moong),Udaipur,2012-02-18,4000.0,3.6,24.6,clear
+137,Green Gram (Moong),Udaipur,2012-02-22,4100.0,4.1,30.0,clear
+138,Green Gram (Moong),Udaipur,2012-02-25,4100.0,4.6,26.0,clear
+139,Green Gram (Moong),Udaipur,2012-02-27,4100.0,12.5,28.0,clear
+140,Green Gram (Moong),Udaipur,2012-02-29,4100.0,4.2,28.4,clear
+141,Green Gram (Moong),Udaipur,2012-01-03,4100.0,2.5,20.4,clear
+142,Green Gram (Moong),Udaipur,2012-02-03,4000.0,9.7,26.2,clear
+143,Green Gram (Moong),Udaipur,2012-06-03,4100.0,1.5,36.4,clear
+144,Green Gram (Moong),Udaipur,2012-12-03,4100.0,4.9,25.4,clear
+145,Green Gram (Moong),Udaipur,2012-03-15,4300.0,10.3,32.4,clear
+146,Green Gram (Moong),Udaipur,2012-03-16,4400.0,2.5,34.4,clear
+147,Green Gram (Moong),Udaipur,2012-03-17,4400.0,4.5,35.0,clear
+148,Green Gram (Moong),Udaipur,2012-03-21,4200.0,9.2,29.4,clear
+149,Green Gram (Moong),Udaipur,2012-03-22,4100.0,5.8,30.4,clear
+150,Green Gram (Moong),Udaipur,2012-03-24,4000.0,12.7,34.4,clear
+151,Green Gram (Moong),Udaipur,2012-03-28,4000.0,10.1,36.2,clear
+152,Green Gram (Moong),Udaipur,2012-03-29,4000.0,4.0,34.8,clear
+153,Green Gram (Moong),Udaipur,2012-05-29,4100.0,2.2,40.8,clear
+154,Green Gram (Moong),Udaipur,2012-04-06,4000.0,0.1,37.2,clear
+155,Green Gram (Moong),Udaipur,2012-06-06,4000.0,0.5,36.6,clear
+156,Green Gram (Moong),Udaipur,2012-07-06,3800.0,0.1,34.4,clear
+157,Green Gram (Moong),Udaipur,2012-09-06,3800.0,0.2,26.0,clear
+158,Green Gram (Moong),Udaipur,2012-11-06,3800.0,1.0,26.4,clear
+159,Green Gram (Moong),Udaipur,2012-06-13,3800.0,0.5,35.4,clear
+160,Green Gram (Moong),Udaipur,2012-06-14,3650.0,1.1,36.0,clear
+161,Green Gram (Moong),Udaipur,2012-06-18,3660.0,0.5,37.4,clear
+162,Green Gram (Moong),Udaipur,2012-06-19,3675.0,0.1,38.4,clear
+163,Green Gram (Moong),Udaipur,2012-06-20,3700.0,0.7,36.4,clear
+164,Green Gram (Moong),Udaipur,2012-06-21,3800.0,0.5,35.6,clear
+165,Green Gram (Moong),Udaipur,2012-06-22,3800.0,0.4,36.0,clear
+166,Green Gram (Moong),Udaipur,2012-06-26,4000.0,0.2,35.0,clear
+167,Green Gram (Moong),Udaipur,2012-06-27,4100.0,1.4,35.4,clear
+168,Green Gram (Moong),Udaipur,2012-06-28,4200.0,1.3,36.6,clear
+169,Green Gram (Moong),Udaipur,2012-06-29,4200.0,1.1,38.0,clear
+170,Green Gram (Moong),Udaipur,2012-06-30,4200.0,1.6,35.0,clear
+171,Green Gram (Moong),Udaipur,2012-02-07,4200.0,0.5,21.4,clear
+172,Green Gram (Moong),Udaipur,2012-03-07,4200.0,4.4,28.0,clear
+173,Green Gram (Moong),Udaipur,2012-04-07,4200.0,1.1,38.0,clear
+174,Green Gram (Moong),Udaipur,2012-05-07,4200.0,1.2,35.0,clear
+175,Green Gram (Moong),Udaipur,2012-06-07,4200.0,0.7,36.2,clear
+176,Green Gram (Moong),Udaipur,2012-07-07,4100.0,1.1,32.8,clear
+177,Green Gram (Moong),Udaipur,2012-09-07,4100.0,1.3,24.2,rain
+178,Green Gram (Moong),Udaipur,2012-12-07,4200.0,3.4,28.6,clear
+179,Green Gram (Moong),Udaipur,2012-07-19,4500.0,5.1,31.2,clear
+180,Green Gram (Moong),Udaipur,2012-07-28,5200.0,0.3,30.0,clear
+181,Green Gram (Moong),Udaipur,2012-07-31,5000.0,1.4,27.0,clear
+182,Green Gram (Moong),Udaipur,2012-02-08,5000.0,0.2,17.8,clear
+183,Green Gram (Moong),Udaipur,2012-10-08,5300.0,0.9,32.0,clear
+184,Green Gram (Moong),Udaipur,2012-11-08,5300.0,3.1,28.6,clear
+185,Green Gram (Moong),Udaipur,2012-08-13,5300.0,0.2,26.0,clear
+186,Green Gram (Moong),Udaipur,2012-08-14,5000.0,0.2,25.0,clear
+187,Green Gram (Moong),Udaipur,2012-08-16,5000.0,0.1,27.8,clear
+188,Green Gram (Moong),Udaipur,2012-08-23,4700.0,1.1,28.8,clear
+189,Green Gram (Moong),Udaipur,2012-08-28,4900.0,1.5,28.6,clear
+190,Green Gram (Moong),Udaipur,2012-04-09,4450.0,0.1,37.8,clear
+191,Green Gram (Moong),Udaipur,2012-08-09,4300.0,0.1,27.6,clear
+192,Green Gram (Moong),Udaipur,2012-09-15,4250.0,3.3,28.6,clear
+193,Green Gram (Moong),Udaipur,2012-09-20,4300.0,0.2,30.8,clear
+194,Green Gram (Moong),Udaipur,2012-09-22,4400.0,0.3,30.6,clear
+195,Green Gram (Moong),Udaipur,2012-10-13,4500.0,1.0,32.0,clear
+196,Green Gram (Moong),Udaipur,2012-10-20,5000.0,6.2,31.2,clear
+197,Green Gram (Moong),Udaipur,2012-10-23,5000.0,1.5,30.8,clear
+198,Green Gram (Moong),Udaipur,2012-10-29,5100.0,1.8,29.2,clear
+199,Green Gram (Moong),Udaipur,2012-10-31,5000.0,2.0,27.6,clear
+200,Green Gram (Moong),Udaipur,2012-10-11,5100.0,1.0,33.0,clear
+201,Green Gram (Moong),Udaipur,2012-11-22,5000.0,7.6,26.2,clear
+202,Green Gram (Moong),Udaipur,2012-11-26,5200.0,3.0,27.2,clear
+203,Green Gram (Moong),Udaipur,2012-07-12,5300.0,6.1,30.8,clear
+204,Green Gram (Moong),Udaipur,2012-12-18,5000.0,12.9,24.2,clear
+205,Green Gram (Moong),Udaipur,2012-12-20,5000.0,3.5,22.4,clear
+206,Black Gram (Urd Beans),Udaipur,2013-01-01,3000.0,0.1,21.6,clear
+207,Green Gram (Moong),Udaipur,2013-01-01,5000.0,1.3,21.6,clear
+208,Black Gram (Urd Beans),Udaipur,2013-02-01,3000.0,4.6,24.4,clear
+209,Green Gram (Moong),Udaipur,2013-02-01,5000.0,1.1,24.4,clear
+210,Black Gram (Urd Beans),Udaipur,2013-04-01,3000.0,12.8,34.2,clear
+211,Black Gram (Urd Beans),Udaipur,2013-05-01,3100.0,4.3,38.4,clear
+212,Black Gram (Urd Beans),Udaipur,2013-07-01,3100.0,1.1,34.4,clear
+213,Black Gram (Urd Beans),Udaipur,2013-10-01,3000.0,0.1,30.0,clear
+214,Black Gram (Urd Beans),Udaipur,2013-01-14,3100.0,0.1,23.0,clear
+215,Black Gram (Urd Beans),Udaipur,2013-01-15,3100.0,3.2,25.8,clear
+216,Black Gram (Urd Beans),Udaipur,2013-01-19,3100.0,0.1,18.4,clear
+217,Black Gram (Urd Beans),Udaipur,2013-01-29,3100.0,0.3,24.0,clear
+218,Black Gram (Urd Beans),Udaipur,2013-01-02,3000.0,0.1,20.8,clear
+219,Black Gram (Urd Beans),Udaipur,2013-05-02,2900.0,0.1,38.2,clear
+220,Black Gram (Urd Beans),Udaipur,2013-02-18,2800.0,0.3,23.4,clear
+221,Black Gram (Urd Beans),Udaipur,2013-02-19,2800.0,0.2,24.4,clear
+222,Black Gram (Urd Beans),Udaipur,2013-03-13,2900.0,0.3,32.8,clear
+223,Black Gram (Urd Beans),Udaipur,2013-12-06,3000.0,1.6,24.0,clear
+224,Green Gram (Moong),Udaipur,2013-12-06,5200.0,1.8,24.0,clear
+225,Black Gram (Urd Beans),Udaipur,2013-06-21,3100.0,0.1,34.2,clear
+226,Green Gram (Moong),Udaipur,2013-06-21,5000.0,0.4,34.2,clear
+227,Black Gram (Urd Beans),Udaipur,2013-06-22,3100.0,0.2,34.8,clear
+228,Green Gram (Moong),Udaipur,2013-06-22,5200.0,1.2,34.8,clear
+229,Black Gram (Urd Beans),Udaipur,2013-06-24,3100.0,4.7,34.4,clear
+230,Green Gram (Moong),Udaipur,2013-06-24,5200.0,2.5,34.4,clear
+231,Black Gram (Urd Beans),Udaipur,2013-06-25,3100.0,1.2,32.4,rain
+232,Green Gram (Moong),Udaipur,2013-06-25,5000.0,7.2,32.4,rain
+233,Black Gram (Urd Beans),Udaipur,2013-01-07,2875.0,0.1,18.8,clear
+234,Green Gram (Moong),Udaipur,2013-01-07,4040.0,19.0,18.8,clear
+235,Black Gram (Urd Beans),Udaipur,2013-12-07,2800.0,1.0,25.0,clear
+236,Green Gram (Moong),Udaipur,2013-12-07,4400.0,2.9,25.0,clear
+237,Black Gram (Urd Beans),Udaipur,2013-07-15,2800.0,1.3,29.6,clear
+238,Green Gram (Moong),Udaipur,2013-07-15,4500.0,3.0,29.6,clear
+239,Black Gram (Urd Beans),Udaipur,2013-01-08,2875.0,0.1,20.4,clear
+240,Black Gram (Urd Beans),Udaipur,2013-05-08,2880.0,0.2,39.4,clear
+241,Black Gram (Urd Beans),Udaipur,2013-10-18,3175.0,4.4,32.4,clear
+242,Black Gram (Urd Beans),Udaipur,2013-10-22,3175.0,0.1,30.8,clear
+243,Green Gram (Moong),Udaipur,2013-10-22,4000.0,2.4,30.8,clear
+244,Black Gram (Urd Beans),Udaipur,2013-10-23,3170.0,0.2,30.2,clear
+245,Green Gram (Moong),Udaipur,2013-10-23,4000.0,1.0,30.2,clear
+246,Black Gram (Urd Beans),Udaipur,2013-10-24,3170.0,1.2,27.4,clear
+247,Green Gram (Moong),Udaipur,2013-10-24,4000.0,1.3,27.4,clear
+248,Black Gram (Urd Beans),Udaipur,2013-10-25,3170.0,2.0,28.8,clear
+249,Black Gram (Urd Beans),Udaipur,2013-06-11,3100.0,3.5,33.2,clear
+250,Black Gram (Urd Beans),Udaipur,2013-11-18,3100.0,3.1,25.0,clear
+251,Black Gram (Urd Beans),Udaipur,2013-11-19,3125.0,5.1,25.4,clear
+252,Black Gram (Urd Beans),Udaipur,2013-11-20,3125.0,3.0,27.0,clear
+253,Black Gram (Urd Beans),Udaipur,2013-11-21,3135.0,2.1,27.4,clear
+254,Green Gram (Moong),Udaipur,2013-11-21,4000.0,3.1,27.4,clear
+255,Black Gram (Urd Beans),Udaipur,2013-11-25,3135.0,0.7,26.0,clear
+256,Green Gram (Moong),Udaipur,2013-11-25,4000.0,2.3,26.0,clear
+257,Black Gram (Urd Beans),Udaipur,2013-11-26,3135.0,2.9,26.4,clear
+258,Black Gram (Urd Beans),Udaipur,2013-11-29,3125.0,7.0,25.2,clear
+259,Black Gram (Urd Beans),Udaipur,2013-05-12,3125.0,5.5,36.4,clear
+260,Black Gram (Urd Beans),Udaipur,2013-10-12,3125.0,4.8,29.4,clear
+261,Green Gram (Moong),Udaipur,2013-01-21,4900.0,1.3,19.0,clear
+262,Green Gram (Moong),Udaipur,2013-12-02,5300.0,4.0,27.0,clear
+263,Green Gram (Moong),Udaipur,2013-02-16,5300.0,1.9,20.4,clear
+264,Green Gram (Moong),Udaipur,2013-02-20,5400.0,2.7,23.0,clear
+265,Green Gram (Moong),Udaipur,2013-02-25,5500.0,3.0,25.4,clear
+266,Green Gram (Moong),Udaipur,2013-02-26,5500.0,4.9,30.0,clear
+267,Green Gram (Moong),Udaipur,2013-01-03,5500.0,2.7,20.0,clear
+268,Green Gram (Moong),Udaipur,2013-04-03,5300.0,0.9,33.4,clear
+269,Green Gram (Moong),Udaipur,2013-03-15,5000.0,1.0,29.6,clear
+270,Green Gram (Moong),Udaipur,2013-03-16,5000.0,3.7,27.4,clear
+271,Green Gram (Moong),Udaipur,2013-03-18,5100.0,1.2,31.6,clear
+272,Green Gram (Moong),Udaipur,2013-03-19,5100.0,1.0,33.6,clear
+273,Green Gram (Moong),Udaipur,2013-03-20,5200.0,3.5,34.6,clear
+274,Green Gram (Moong),Udaipur,2013-03-23,5200.0,10.1,33.4,clear
+275,Green Gram (Moong),Udaipur,2013-04-04,5000.0,4.0,32.8,clear
+276,Green Gram (Moong),Udaipur,2013-06-04,5000.0,4.2,37.2,rain
+277,Green Gram (Moong),Udaipur,2013-04-24,5500.0,0.9,34.0,clear
+278,Green Gram (Moong),Udaipur,2013-05-24,4500.0,2.0,39.4,clear
+279,Green Gram (Moong),Udaipur,2013-05-27,4500.0,5.0,37.8,clear
+280,Green Gram (Moong),Udaipur,2013-06-13,5300.0,0.8,34.0,clear
+281,Green Gram (Moong),Udaipur,2013-06-14,5300.0,1.1,29.2,clear
+282,Green Gram (Moong),Udaipur,2013-06-15,5400.0,0.7,36.4,clear
+283,Green Gram (Moong),Udaipur,2013-06-17,5400.0,1.0,31.4,rain
+284,Green Gram (Moong),Udaipur,2013-06-18,5300.0,2.1,28.2,rain
+285,Green Gram (Moong),Udaipur,2013-06-19,5200.0,0.5,32.6,clear
+286,Green Gram (Moong),Udaipur,2013-06-20,5100.0,1.0,32.4,clear
+287,Green Gram (Moong),Udaipur,2013-06-26,4800.0,0.8,32.0,clear
+288,Green Gram (Moong),Udaipur,2013-06-27,4700.0,1.9,33.8,clear
+289,Green Gram (Moong),Udaipur,2013-06-28,4700.0,10.1,31.4,clear
+290,Green Gram (Moong),Udaipur,2013-06-29,4700.0,16.3,37.2,clear
+291,Green Gram (Moong),Udaipur,2013-02-07,4700.0,15.2,20.4,clear
+292,Green Gram (Moong),Udaipur,2013-03-07,4700.0,12.8,29.2,clear
+293,Green Gram (Moong),Udaipur,2013-04-07,4700.0,7.2,36.4,clear
+294,Green Gram (Moong),Udaipur,2013-05-07,4400.0,0.9,40.0,clear
+295,Green Gram (Moong),Udaipur,2013-06-07,4400.0,8.2,36.6,clear
+296,Green Gram (Moong),Udaipur,2013-10-07,4700.0,1.4,31.0,clear
+297,Green Gram (Moong),Udaipur,2013-11-07,4600.0,1.5,25.8,clear
+298,Green Gram (Moong),Udaipur,2013-07-13,4500.0,3.1,27.6,clear
+299,Green Gram (Moong),Udaipur,2013-07-16,4300.0,1.4,29.8,clear
+300,Green Gram (Moong),Udaipur,2013-07-17,4300.0,4.1,29.6,rain
+301,Green Gram (Moong),Udaipur,2013-12-08,4040.0,1.0,24.6,clear
+302,Green Gram (Moong),Udaipur,2013-11-13,3975.0,3.0,24.2,clear
+303,Green Gram (Moong),Udaipur,2013-11-14,3970.0,2.0,22.6,clear
+304,Green Gram (Moong),Udaipur,2013-11-27,4000.0,3.3,26.8,clear
+305,Black Gram (Urd Beans),Udaipur,2014-01-01,3250.0,7.4,13.8,clear
+306,Black Gram (Urd Beans),Udaipur,2014-03-01,3280.0,2.6,24.0,clear
+307,Black Gram (Urd Beans),Udaipur,2014-01-17,3350.0,3.5,19.4,clear
+308,Black Gram (Urd Beans),Udaipur,2014-01-21,3350.0,0.8,15.4,clear
+309,Black Gram (Urd Beans),Udaipur,2014-01-22,3350.0,0.1,22.2,clear
+310,Black Gram (Urd Beans),Udaipur,2014-01-24,3290.0,0.2,19.6,clear
+311,Green Gram (Moong),Udaipur,2014-01-24,4000.0,5.7,19.6,clear
+312,Black Gram (Urd Beans),Udaipur,2014-01-27,3290.0,0.2,22.0,clear
+313,Green Gram (Moong),Udaipur,2014-01-27,4000.0,5.7,22.0,clear
+314,Black Gram (Urd Beans),Udaipur,2014-01-30,3300.0,0.2,23.8,clear
+315,Black Gram (Urd Beans),Udaipur,2014-12-02,2950.0,4.0,30.0,clear
+316,Black Gram (Urd Beans),Udaipur,2014-04-03,3200.0,3.7,34.0,clear
+317,Black Gram (Urd Beans),Udaipur,2014-10-03,3200.0,0.2,37.0,clear
+318,Black Gram (Urd Beans),Udaipur,2014-04-28,3510.0,0.2,40.0,clear
+319,Black Gram (Urd Beans),Udaipur,2014-06-23,3100.0,1.4,35.4,clear
+320,Green Gram (Moong),Udaipur,2014-06-23,5425.0,17.1,35.4,clear
+321,Black Gram (Urd Beans),Udaipur,2014-07-16,3115.0,0.7,30.2,rain
+322,Green Gram (Moong),Udaipur,2014-07-16,5500.0,1.1,30.2,rain
+323,Black Gram (Urd Beans),Udaipur,2014-07-21,3110.0,8.5,32.4,clear
+324,Green Gram (Moong),Udaipur,2014-07-21,6300.0,3.4,32.4,clear
+325,Black Gram (Urd Beans),Udaipur,2014-07-23,3110.0,1.3,30.4,rain
+326,Green Gram (Moong),Udaipur,2014-07-23,6300.0,2.1,30.4,rain
+327,Black Gram (Urd Beans),Udaipur,2014-07-24,3115.0,1.5,28.0,clear
+328,Green Gram (Moong),Udaipur,2014-07-24,6300.0,4.5,28.0,clear
+329,Black Gram (Urd Beans),Udaipur,2014-08-08,3120.0,0.5,28.0,clear
+330,Black Gram (Urd Beans),Udaipur,2014-09-18,3175.0,0.5,31.2,clear
+331,Black Gram (Urd Beans),Udaipur,2014-10-13,2995.0,3.2,31.4,clear
+332,Black Gram (Urd Beans),Udaipur,2014-10-15,2995.0,8.8,31.0,clear
+333,Black Gram (Urd Beans),Udaipur,2014-10-17,2995.0,0.8,30.2,clear
+334,Black Gram (Urd Beans),Udaipur,2014-10-20,2995.0,5.8,31.4,clear
+335,Green Gram (Moong),Udaipur,2014-10-20,5100.0,35.6,31.4,clear
+336,Black Gram (Urd Beans),Udaipur,2014-10-21,2995.0,0.5,32.4,clear
+337,Black Gram (Urd Beans),Udaipur,2014-10-27,2990.0,4.2,30.4,clear
+338,Black Gram (Urd Beans),Udaipur,2014-10-29,2990.0,0.2,31.4,clear
+339,Black Gram (Urd Beans),Udaipur,2014-10-31,2990.0,3.0,27.4,clear
+340,Black Gram (Urd Beans),Udaipur,2014-03-11,2990.0,2.9,29.6,clear
+341,Black Gram (Urd Beans),Udaipur,2014-05-11,2990.0,0.1,36.0,clear
+342,Black Gram (Urd Beans),Udaipur,2014-10-11,2990.0,3.3,34.4,clear
+343,Black Gram (Urd Beans),Udaipur,2014-11-11,2990.0,6.5,27.4,clear
+344,Black Gram (Urd Beans),Udaipur,2014-12-11,3010.0,0.1,34.4,clear
+345,Black Gram (Urd Beans),Udaipur,2014-11-13,3005.0,0.6,29.4,clear
+346,Black Gram (Urd Beans),Udaipur,2014-11-14,3010.0,2.5,29.4,clear
+347,Black Gram (Urd Beans),Udaipur,2014-11-17,3010.0,2.6,27.0,clear
+348,Black Gram (Urd Beans),Udaipur,2014-11-20,4120.0,0.4,28.4,clear
+349,Black Gram (Urd Beans),Udaipur,2014-11-21,4120.0,0.5,28.6,clear
+350,Black Gram (Urd Beans),Udaipur,2014-11-25,4300.0,0.2,27.4,clear
+351,Black Gram (Urd Beans),Udaipur,2014-11-26,4300.0,0.4,27.8,clear
+352,Black Gram (Urd Beans),Udaipur,2014-11-27,4300.0,0.2,28.6,clear
+353,Black Gram (Urd Beans),Udaipur,2014-01-12,4300.0,36.8,18.4,clear
+354,Black Gram (Urd Beans),Udaipur,2014-04-12,4300.0,0.1,36.4,clear
+355,Black Gram (Urd Beans),Udaipur,2014-09-12,4450.0,1.9,26.0,clear
+356,Black Gram (Urd Beans),Udaipur,2014-12-12,4450.0,0.1,33.0,clear
+357,Black Gram (Urd Beans),Udaipur,2014-12-15,4450.0,9.2,20.0,clear
+358,Black Gram (Urd Beans),Udaipur,2014-12-16,4450.0,5.3,29.0,clear
+359,Black Gram (Urd Beans),Udaipur,2014-12-23,2700.0,3.4,23.4,clear
+360,Black Gram (Urd Beans),Udaipur,2014-12-26,5000.0,0.2,22.4,clear
+361,Black Gram (Urd Beans),Udaipur,2014-12-29,5000.0,0.2,19.0,clear
+362,Black Gram (Urd Beans),Udaipur,2014-12-30,5200.0,3.0,18.0,clear
+363,Green Gram (Moong),Udaipur,2014-01-29,4100.0,2.9,25.0,clear
+364,Green Gram (Moong),Udaipur,2014-03-14,5500.0,2.1,30.0,clear
+365,Green Gram (Moong),Udaipur,2014-03-24,5500.0,2.1,33.4,clear
+366,Green Gram (Moong),Udaipur,2014-04-04,5500.0,1.5,36.4,clear
+367,Green Gram (Moong),Udaipur,2014-06-18,5440.0,14.0,35.0,clear
+368,Green Gram (Moong),Udaipur,2014-06-19,5430.0,22.9,35.6,clear
+369,Green Gram (Moong),Udaipur,2014-06-20,5430.0,16.0,35.4,clear
+370,Green Gram (Moong),Udaipur,2014-06-24,5425.0,29.7,36.0,clear
+371,Green Gram (Moong),Udaipur,2014-06-25,5400.0,6.5,35.0,clear
+372,Green Gram (Moong),Udaipur,2014-06-27,5390.0,16.5,36.8,clear
+373,Green Gram (Moong),Udaipur,2014-06-30,5390.0,23.2,35.0,clear
+374,Green Gram (Moong),Udaipur,2014-01-07,5383.0,9.8,19.6,clear
+375,Green Gram (Moong),Udaipur,2014-08-07,0.0,5.4,26.8,clear
+376,Green Gram (Moong),Udaipur,2014-09-07,5390.0,1.0,29.8,rain
+377,Green Gram (Moong),Udaipur,2014-10-07,5600.0,4.5,33.4,clear
+378,Green Gram (Moong),Udaipur,2014-11-07,5600.0,0.9,30.6,clear
+379,Green Gram (Moong),Udaipur,2014-07-14,5500.0,4.9,32.0,clear
+380,Green Gram (Moong),Udaipur,2014-07-15,5500.0,0.6,34.0,clear
+381,Green Gram (Moong),Udaipur,2014-07-17,5500.0,0.8,30.6,clear
+382,Green Gram (Moong),Udaipur,2014-01-08,6300.0,5.2,21.4,clear
+383,Black Gram (Urd Beans),Udaipur,2015-01-01,5300.0,0.1,15.0,clear
+384,Black Gram (Urd Beans),Udaipur,2015-02-01,5300.0,2.5,26.4,clear
+385,Black Gram (Urd Beans),Udaipur,2015-06-01,5300.0,0.1,39.4,clear
+386,Black Gram (Urd Beans),Udaipur,2015-12-01,5500.0,3.8,28.4,clear
+387,Black Gram (Urd Beans),Udaipur,2015-01-13,5500.0,1.1,24.4,clear
+388,Black Gram (Urd Beans),Udaipur,2015-03-02,5500.0,0.9,23.0,clear
+389,Black Gram (Urd Beans),Udaipur,2015-06-02,5500.0,0.1,37.0,rain
+390,Black Gram (Urd Beans),Udaipur,2015-02-19,5150.0,0.1,30.4,clear
+391,Black Gram (Urd Beans),Udaipur,2015-02-26,5150.0,0.1,26.8,clear
+392,Black Gram (Urd Beans),Udaipur,2015-03-03,5200.0,0.8,22.6,clear
+393,Black Gram (Urd Beans),Udaipur,2015-03-18,2810.0,66.5,28.4,clear
+394,Black Gram (Urd Beans),Udaipur,2015-03-20,5150.0,0.3,33.0,clear
+395,Black Gram (Urd Beans),Udaipur,2015-04-22,5200.0,0.0,37.0,clear
+396,Black Gram (Urd Beans),Udaipur,2015-04-23,5200.0,0.0,37.6,clear
+397,Black Gram (Urd Beans),Udaipur,2015-04-24,5200.0,0.0,37.8,clear
+398,Black Gram (Urd Beans),Udaipur,2015-04-27,5200.0,0.0,39.8,clear
+399,Black Gram (Urd Beans),Udaipur,2015-04-28,5200.0,0.0,39.2,clear
+400,Black Gram (Urd Beans),Udaipur,2015-04-29,5200.0,0.0,39.8,clear
+401,Black Gram (Urd Beans),Udaipur,2015-04-30,5200.0,0.0,38.2,clear
+402,Black Gram (Urd Beans),Udaipur,2015-04-05,5200.0,0.0,33.6,clear
+403,Black Gram (Urd Beans),Udaipur,2015-06-05,5200.0,0.0,36.2,clear
+404,Black Gram (Urd Beans),Udaipur,2015-07-05,5500.0,0.0,36.2,clear
+405,Black Gram (Urd Beans),Udaipur,2015-08-05,5200.0,0.0,30.4,clear
+406,Black Gram (Urd Beans),Udaipur,2015-11-05,5200.0,0.0,31.2,clear
+407,Black Gram (Urd Beans),Udaipur,2015-12-05,5235.0,0.0,27.4,clear
+408,Black Gram (Urd Beans),Udaipur,2015-05-13,5235.0,0.0,38.4,clear
+409,Black Gram (Urd Beans),Udaipur,2015-05-15,5240.0,0.0,37.4,clear
+410,Green Gram (Moong),Udaipur,2015-05-15,6200.0,0.0,37.4,clear
+411,Black Gram (Urd Beans),Udaipur,2015-05-18,5240.0,0.0,41.4,clear
+412,Green Gram (Moong),Udaipur,2015-05-18,6200.0,0.0,41.4,clear
+413,Black Gram (Urd Beans),Udaipur,2015-05-21,7500.0,0.0,41.8,clear
+414,Green Gram (Moong),Udaipur,2015-05-21,7500.0,0.0,41.8,clear
+415,Black Gram (Urd Beans),Udaipur,2015-05-22,7500.0,0.0,40.4,clear
+416,Green Gram (Moong),Udaipur,2015-05-22,7500.0,0.1,40.4,clear
+417,Black Gram (Urd Beans),Udaipur,2015-05-26,7500.0,0.0,39.6,clear
+418,Green Gram (Moong),Udaipur,2015-05-26,7500.0,0.0,39.6,clear
+419,Black Gram (Urd Beans),Udaipur,2015-05-27,7500.0,0.0,41.0,clear
+420,Green Gram (Moong),Udaipur,2015-05-27,7500.0,0.0,41.0,clear
+421,Black Gram (Urd Beans),Udaipur,2015-05-29,7500.0,0.0,40.4,clear
+422,Green Gram (Moong),Udaipur,2015-05-29,7500.0,0.0,40.4,clear
+423,Black Gram (Urd Beans),Udaipur,2015-02-06,7500.0,0.0,22.4,clear
+424,Green Gram (Moong),Udaipur,2015-02-06,7500.0,0.0,22.4,clear
+425,Black Gram (Urd Beans),Udaipur,2015-03-06,7500.0,0.0,27.2,clear
+426,Green Gram (Moong),Udaipur,2015-03-06,7500.0,0.0,27.2,clear
+427,Black Gram (Urd Beans),Udaipur,2015-04-06,7500.0,0.0,31.4,rain
+428,Green Gram (Moong),Udaipur,2015-04-06,7500.0,0.0,31.4,rain
+429,Black Gram (Urd Beans),Udaipur,2015-10-06,7500.0,0.0,35.0,clear
+430,Green Gram (Moong),Udaipur,2015-10-06,7500.0,10.4,35.0,clear
+431,Black Gram (Urd Beans),Udaipur,2015-11-06,7500.0,0.0,30.0,clear
+432,Green Gram (Moong),Udaipur,2015-11-06,7500.0,0.4,30.0,clear
+433,Black Gram (Urd Beans),Udaipur,2015-12-06,7500.0,0.0,29.0,clear
+434,Green Gram (Moong),Udaipur,2015-12-06,7500.0,0.0,29.0,clear
+435,Black Gram (Urd Beans),Udaipur,2015-06-15,7500.0,0.0,35.4,clear
+436,Green Gram (Moong),Udaipur,2015-06-15,7500.0,0.0,35.4,clear
+437,Black Gram (Urd Beans),Udaipur,2015-06-16,7500.0,0.0,33.6,clear
+438,Green Gram (Moong),Udaipur,2015-06-16,7500.0,0.0,33.6,clear
+439,Black Gram (Urd Beans),Udaipur,2015-06-17,7500.0,1.4,32.6,clear
+440,Green Gram (Moong),Udaipur,2015-06-17,7500.0,0.0,32.6,clear
+441,Black Gram (Urd Beans),Udaipur,2015-06-19,7500.0,0.0,33.8,rain
+442,Green Gram (Moong),Udaipur,2015-06-19,7500.0,0.0,33.8,rain
+443,Black Gram (Urd Beans),Udaipur,2015-06-23,7500.0,0.0,33.6,clear
+444,Black Gram (Urd Beans),Udaipur,2015-06-24,7500.0,0.0,29.4,clear
+445,Green Gram (Moong),Udaipur,2015-06-24,4400.0,0.5,29.4,clear
+446,Black Gram (Urd Beans),Udaipur,2015-06-25,7500.0,0.0,32.4,clear
+447,Black Gram (Urd Beans),Udaipur,2015-06-29,7500.0,0.0,33.4,clear
+448,Black Gram (Urd Beans),Udaipur,2015-06-30,7500.0,0.0,33.6,clear
+449,Black Gram (Urd Beans),Udaipur,2015-01-07,7450.0,0.0,25.4,clear
+450,Black Gram (Urd Beans),Udaipur,2015-02-07,7450.0,0.0,25.0,clear
+451,Black Gram (Urd Beans),Udaipur,2015-03-07,7400.0,0.0,29.0,clear
+452,Black Gram (Urd Beans),Udaipur,2015-06-07,7400.0,0.3,40.0,clear
+453,Black Gram (Urd Beans),Udaipur,2015-07-07,7400.0,0.0,31.6,clear
+454,Green Gram (Moong),Udaipur,2015-07-07,6500.0,3.0,31.6,clear
+455,Black Gram (Urd Beans),Udaipur,2015-08-07,7350.0,0.0,31.4,clear
+456,Green Gram (Moong),Udaipur,2015-08-07,6500.0,1.8,31.4,clear
+457,Black Gram (Urd Beans),Udaipur,2015-09-07,7400.0,0.0,31.0,clear
+458,Green Gram (Moong),Udaipur,2015-09-07,6500.0,1.2,31.0,clear
+459,Black Gram (Urd Beans),Udaipur,2015-10-07,7350.0,0.0,33.0,clear
+460,Green Gram (Moong),Udaipur,2015-10-07,6500.0,0.0,33.0,clear
+461,Black Gram (Urd Beans),Udaipur,2015-11-07,6500.0,0.0,29.4,clear
+462,Green Gram (Moong),Udaipur,2015-11-07,5900.0,0.0,29.4,clear
+463,Black Gram (Urd Beans),Udaipur,2015-07-13,6490.0,0.0,34.2,clear
+464,Green Gram (Moong),Udaipur,2015-07-13,5890.0,0.0,34.2,clear
+465,Black Gram (Urd Beans),Udaipur,2015-07-14,2450.0,0.0,34.4,clear
+466,Black Gram (Urd Beans),Udaipur,2015-07-15,6490.0,0.0,33.0,clear
+467,Green Gram (Moong),Udaipur,2015-07-15,5890.0,0.0,33.0,clear
+468,Black Gram (Urd Beans),Udaipur,2015-07-17,6490.0,0.0,34.0,clear
+469,Green Gram (Moong),Udaipur,2015-07-17,5890.0,0.0,34.0,clear
+470,Black Gram (Urd Beans),Udaipur,2015-07-18,6075.0,0.0,32.0,rain
+471,Black Gram (Urd Beans),Udaipur,2015-07-20,6080.0,0.0,29.4,clear
+472,Green Gram (Moong),Udaipur,2015-07-20,6390.0,0.0,29.4,clear
+473,Black Gram (Urd Beans),Udaipur,2015-07-21,6075.0,0.0,31.2,rain
+474,Green Gram (Moong),Udaipur,2015-07-21,6395.0,0.0,31.2,rain
+475,Black Gram (Urd Beans),Udaipur,2015-07-23,6075.0,0.0,29.8,clear
+476,Green Gram (Moong),Udaipur,2015-07-23,6390.0,0.0,29.8,clear
+477,Black Gram (Urd Beans),Udaipur,2015-07-27,6000.0,0.0,24.4,rain
+478,Green Gram (Moong),Udaipur,2015-07-27,6400.0,0.0,24.4,rain
+479,Black Gram (Urd Beans),Udaipur,2015-07-28,5850.0,0.0,23.4,rain
+480,Green Gram (Moong),Udaipur,2015-07-28,6300.0,0.1,23.4,rain
+481,Black Gram (Urd Beans),Udaipur,2015-07-29,5850.0,0.0,25.0,rain
+482,Green Gram (Moong),Udaipur,2015-07-29,6300.0,0.0,25.0,rain
+483,Black Gram (Urd Beans),Udaipur,2015-07-30,5850.0,0.0,27.8,clear
+484,Green Gram (Moong),Udaipur,2015-07-30,6300.0,0.0,27.8,clear
+485,Black Gram (Urd Beans),Udaipur,2015-07-31,5850.0,0.0,29.0,clear
+486,Green Gram (Moong),Udaipur,2015-07-31,6300.0,0.0,29.0,clear
+487,Black Gram (Urd Beans),Udaipur,2015-01-08,5850.0,0.0,22.8,clear
+488,Green Gram (Moong),Udaipur,2015-01-08,6300.0,0.0,22.8,clear
+489,Black Gram (Urd Beans),Udaipur,2015-03-08,5850.0,0.0,28.4,clear
+490,Green Gram (Moong),Udaipur,2015-03-08,6300.0,0.0,28.4,clear
+491,Black Gram (Urd Beans),Udaipur,2015-04-08,5850.0,0.0,32.2,clear
+492,Green Gram (Moong),Udaipur,2015-04-08,6200.0,0.0,32.2,clear
+493,Black Gram (Urd Beans),Udaipur,2015-05-08,5850.0,0.0,38.2,clear
+494,Green Gram (Moong),Udaipur,2015-05-08,6200.0,0.0,38.2,clear
+495,Black Gram (Urd Beans),Udaipur,2015-06-08,5850.0,0.0,36.0,clear
+496,Green Gram (Moong),Udaipur,2015-06-08,6200.0,0.0,36.0,clear
+497,Black Gram (Urd Beans),Udaipur,2015-07-08,5850.0,0.0,34.4,clear
+498,Green Gram (Moong),Udaipur,2015-07-08,6200.0,0.0,34.4,clear
+499,Black Gram (Urd Beans),Udaipur,2015-08-08,5850.0,0.0,32.2,clear
+500,Green Gram (Moong),Udaipur,2015-08-08,6200.0,0.0,32.2,clear
+501,Black Gram (Urd Beans),Udaipur,2015-10-08,5850.0,0.0,34.4,clear
+502,Green Gram (Moong),Udaipur,2015-10-08,6200.0,0.0,34.4,clear
+503,Black Gram (Urd Beans),Udaipur,2015-11-08,5850.0,0.1,29.2,clear
+504,Green Gram (Moong),Udaipur,2015-11-08,6200.0,0.0,29.2,clear
+505,Black Gram (Urd Beans),Udaipur,2015-12-08,5850.0,0.0,28.4,clear
+506,Green Gram (Moong),Udaipur,2015-12-08,6200.0,0.0,28.4,clear
+507,Black Gram (Urd Beans),Udaipur,2015-08-17,5850.0,0.0,29.4,clear
+508,Green Gram (Moong),Udaipur,2015-08-17,6200.0,0.0,29.4,clear
+509,Black Gram (Urd Beans),Udaipur,2015-08-18,5850.0,0.0,29.6,clear
+510,Green Gram (Moong),Udaipur,2015-08-18,6200.0,0.0,29.6,clear
+511,Black Gram (Urd Beans),Udaipur,2015-08-19,5850.0,0.0,28.2,clear
+512,Green Gram (Moong),Udaipur,2015-08-19,5990.0,0.0,28.2,clear
+513,Black Gram (Urd Beans),Udaipur,2015-08-20,5850.0,0.0,29.4,clear
+514,Green Gram (Moong),Udaipur,2015-08-20,5990.0,0.0,29.4,clear
+515,Black Gram (Urd Beans),Udaipur,2015-08-21,5850.0,0.0,30.0,clear
+516,Green Gram (Moong),Udaipur,2015-08-21,5990.0,0.0,30.0,clear
+517,Black Gram (Urd Beans),Udaipur,2015-08-24,5850.0,0.0,31.2,clear
+518,Green Gram (Moong),Udaipur,2015-08-24,5990.0,0.0,31.2,clear
+519,Black Gram (Urd Beans),Udaipur,2015-08-25,5850.0,0.0,31.6,clear
+520,Black Gram (Urd Beans),Udaipur,2015-08-28,5850.0,0.0,32.4,clear
+521,Green Gram (Moong),Udaipur,2015-08-28,5600.0,0.0,32.4,clear
+522,Black Gram (Urd Beans),Udaipur,2015-01-09,5850.0,0.0,24.2,clear
+523,Green Gram (Moong),Udaipur,2015-01-09,5600.0,0.0,24.2,clear
+524,Black Gram (Urd Beans),Udaipur,2015-04-09,5850.0,0.0,34.0,clear
+525,Green Gram (Moong),Udaipur,2015-04-09,5600.0,0.2,34.0,clear
+526,Black Gram (Urd Beans),Udaipur,2015-08-09,5850.0,0.0,31.0,clear
+527,Green Gram (Moong),Udaipur,2015-08-09,5600.0,0.0,31.0,clear
+528,Black Gram (Urd Beans),Udaipur,2015-10-09,7900.0,0.0,34.0,clear
+529,Green Gram (Moong),Udaipur,2015-10-09,5610.0,0.0,34.0,clear
+530,Black Gram (Urd Beans),Udaipur,2015-11-09,5860.0,0.0,30.4,clear
+531,Green Gram (Moong),Udaipur,2015-11-09,5610.0,5.1,30.4,clear
+532,Black Gram (Urd Beans),Udaipur,2015-09-14,5860.0,0.0,35.0,clear
+533,Green Gram (Moong),Udaipur,2015-09-14,5610.0,1.9,35.0,clear
+534,Black Gram (Urd Beans),Udaipur,2015-09-15,5870.0,0.0,35.8,clear
+535,Green Gram (Moong),Udaipur,2015-09-15,5620.0,0.0,35.8,clear
+536,Black Gram (Urd Beans),Udaipur,2015-09-19,7500.0,0.0,28.4,clear
+537,Green Gram (Moong),Udaipur,2015-09-19,5700.0,0.0,28.4,clear
+538,Black Gram (Urd Beans),Udaipur,2015-09-21,7500.0,0.0,24.6,rain
+539,Green Gram (Moong),Udaipur,2015-09-21,5700.0,0.0,24.6,rain
+540,Black Gram (Urd Beans),Udaipur,2015-09-22,7500.0,0.0,29.4,clear
+541,Green Gram (Moong),Udaipur,2015-09-22,5700.0,0.0,29.4,clear
+542,Black Gram (Urd Beans),Udaipur,2015-09-23,7500.0,0.0,30.4,clear
+543,Green Gram (Moong),Udaipur,2015-09-23,5700.0,0.0,30.4,clear
+544,Black Gram (Urd Beans),Udaipur,2015-09-28,7500.0,0.0,33.4,clear
+545,Green Gram (Moong),Udaipur,2015-09-28,5700.0,0.0,33.4,clear
+546,Black Gram (Urd Beans),Udaipur,2015-09-29,7500.0,0.0,33.4,clear
+547,Green Gram (Moong),Udaipur,2015-09-29,5700.0,0.0,33.4,clear
+548,Black Gram (Urd Beans),Udaipur,2015-03-11,9150.0,0.3,29.0,clear
+549,Green Gram (Moong),Udaipur,2015-03-11,6100.0,0.0,29.0,clear
+550,Black Gram (Urd Beans),Udaipur,2015-05-11,9150.0,0.1,37.4,clear
+551,Green Gram (Moong),Udaipur,2015-05-11,6250.0,0.0,37.4,clear
+552,Black Gram (Urd Beans),Udaipur,2015-09-11,9225.0,0.3,34.0,clear
+553,Green Gram (Moong),Udaipur,2015-09-11,6300.0,4.0,34.0,clear
+554,Black Gram (Urd Beans),Udaipur,2015-11-19,9225.0,1.3,26.4,clear
+555,Green Gram (Moong),Udaipur,2015-11-19,6300.0,0.0,26.4,clear
+556,Black Gram (Urd Beans),Udaipur,2015-11-24,9225.0,1.8,28.0,clear
+557,Green Gram (Moong),Udaipur,2015-11-24,6500.0,0.0,28.0,clear
+558,Black Gram (Urd Beans),Udaipur,2015-01-12,9225.0,1.5,25.4,clear
+559,Green Gram (Moong),Udaipur,2015-01-12,7000.0,3.1,25.4,clear
+560,Black Gram (Urd Beans),Udaipur,2015-02-12,9225.0,0.0,25.4,clear
+561,Green Gram (Moong),Udaipur,2015-02-12,7000.0,0.0,25.4,clear
+562,Black Gram (Urd Beans),Udaipur,2015-03-12,9225.0,1.3,29.8,clear
+563,Green Gram (Moong),Udaipur,2015-03-12,7000.0,0.0,29.8,clear
+564,Black Gram (Urd Beans),Udaipur,2015-04-12,9225.0,0.0,28.0,clear
+565,Green Gram (Moong),Udaipur,2015-04-12,9000.0,0.0,28.0,clear
+566,Black Gram (Urd Beans),Udaipur,2015-07-12,9225.0,2.5,35.6,clear
+567,Green Gram (Moong),Udaipur,2015-07-12,7000.0,8.7,35.6,clear
+568,Black Gram (Urd Beans),Udaipur,2015-08-12,9225.0,5.2,29.4,rain
+569,Green Gram (Moong),Udaipur,2015-08-12,7000.0,0.0,29.4,rain
+570,Black Gram (Urd Beans),Udaipur,2015-12-16,9510.0,1.3,21.4,clear
+571,Green Gram (Moong),Udaipur,2015-12-16,9600.0,0.0,21.4,clear
+572,Black Gram (Urd Beans),Udaipur,2015-12-17,9900.0,0.0,23.4,clear
+573,Green Gram (Moong),Udaipur,2015-12-17,9600.0,0.0,23.4,clear
+574,Black Gram (Urd Beans),Udaipur,2015-12-18,9900.0,0.0,21.6,clear
+575,Black Gram (Urd Beans),Udaipur,2015-12-21,9900.0,2.4,20.0,clear
+576,Green Gram (Moong),Udaipur,2015-12-21,9500.0,1.5,20.0,clear
+577,Black Gram (Urd Beans),Udaipur,2015-12-22,9900.0,1.2,20.2,clear
+578,Green Gram (Moong),Udaipur,2015-12-22,9500.0,0.0,20.2,clear
+579,Black Gram (Urd Beans),Udaipur,2015-12-23,10000.0,0.0,19.4,clear
+580,Green Gram (Moong),Udaipur,2015-12-23,9000.0,0.0,19.4,clear
+581,Black Gram (Urd Beans),Udaipur,2015-12-28,10000.0,8.0,29.0,clear
+582,Green Gram (Moong),Udaipur,2015-12-28,9000.0,0.0,29.0,clear
+583,Black Gram (Urd Beans),Udaipur,2015-12-29,9550.0,1.0,30.0,clear
+584,Green Gram (Moong),Udaipur,2015-12-29,9000.0,0.0,30.0,clear
+585,Black Gram (Urd Beans),Udaipur,2015-12-30,9550.0,0.0,29.4,clear
+586,Green Gram (Moong),Udaipur,2015-12-30,9000.0,0.0,29.4,clear
+587,Black Gram (Urd Beans),Udaipur,2015-12-31,9550.0,0.3,26.2,clear
+588,Green Gram (Moong),Udaipur,2015-12-31,10000.0,0.0,26.2,clear
+589,Green Gram (Moong),Udaipur,2015-08-06,7500.0,0.0,29.8,clear
+590,Green Gram (Moong),Udaipur,2015-07-22,6395.0,0.0,30.2,clear
+591,Green Gram (Moong),Udaipur,2015-06-10,5700.0,0.0,36.4,clear
+592,Green Gram (Moong),Udaipur,2015-08-10,5700.0,1.5,31.4,rain
+593,Green Gram (Moong),Udaipur,2015-10-16,6100.0,2.0,34.0,clear
+594,Green Gram (Moong),Udaipur,2015-10-27,6100.0,0.0,30.0,clear
+595,Green Gram (Moong),Udaipur,2015-10-30,6100.0,0.0,26.4,clear
+596,Bengal Gram(Gram),Udaipur,2016-03-10,7000.0,5.0,32.8,clear
+597,Black Gram (Urd Beans),Udaipur,2016-03-10,8775.0,0.2,32.8,clear
+598,Bengal Gram(Gram),Udaipur,2016-07-10,7000.0,15.0,31.0,clear
+599,Bengal Gram(Gram),Udaipur,2016-10-13,7000.0,76.0,30.0,clear
+600,Bengal Gram(Gram),Udaipur,2016-10-18,7000.0,16.0,31.6,clear
+601,Black Gram (Urd Beans),Udaipur,2016-10-18,8725.0,5.4,31.6,clear
+602,Bengal Gram(Gram),Udaipur,2016-10-24,11000.0,10.0,29.6,clear
+603,Black Gram (Urd Beans),Udaipur,2016-10-24,6200.0,4.1,29.6,clear
+604,Bengal Gram(Gram),Udaipur,2016-10-27,11000.0,4.0,30.6,clear
+605,Black Gram (Urd Beans),Udaipur,2016-10-27,6200.0,0.3,30.6,clear
+606,Bengal Gram(Gram),Udaipur,2016-10-28,9000.0,9.0,30.4,clear
+607,Black Gram (Urd Beans),Udaipur,2016-10-28,6200.0,0.8,30.4,clear
+608,Bengal Gram(Gram),Udaipur,2016-01-11,8550.0,2.0,26.4,clear
+609,Black Gram (Urd Beans),Udaipur,2016-01-11,6200.0,3.0,26.4,clear
+610,Green Gram (Moong),Udaipur,2016-01-11,4100.0,0.5,26.4,clear
+611,Bengal Gram(Gram),Udaipur,2016-10-11,11000.0,6.0,30.0,clear
+612,Black Gram (Urd Beans),Udaipur,2016-10-11,6200.0,9.2,30.0,clear
+613,Green Gram (Moong),Udaipur,2016-10-11,4100.0,6.4,30.0,clear
+614,Bengal Gram(Gram),Udaipur,2016-11-11,10800.0,52.0,28.4,clear
+615,Black Gram (Urd Beans),Udaipur,2016-11-11,6000.0,1.7,28.4,clear
+616,Bengal Gram(Gram),Udaipur,2016-11-16,10000.0,17.0,25.4,clear
+617,Black Gram (Urd Beans),Udaipur,2016-11-16,6000.0,0.1,25.4,clear
+618,Bengal Gram(Gram),Udaipur,2016-11-21,8400.0,1.8,27.6,clear
+619,Black Gram (Urd Beans),Udaipur,2016-11-21,5850.0,7.5,27.6,clear
+620,Bengal Gram(Gram),Udaipur,2016-11-22,6350.0,0.4,29.0,clear
+621,Black Gram (Urd Beans),Udaipur,2016-11-22,5850.0,6.2,29.0,clear
+622,Green Gram (Moong),Udaipur,2016-11-22,4100.0,7.1,29.0,clear
+623,Bengal Gram(Gram),Udaipur,2016-11-25,8400.0,0.1,27.8,clear
+624,Black Gram (Urd Beans),Udaipur,2016-11-25,5700.0,7.8,27.8,clear
+625,Green Gram (Moong),Udaipur,2016-11-25,4100.0,2.6,27.8,clear
+626,Bengal Gram(Gram),Udaipur,2016-11-28,8400.0,0.1,28.4,clear
+627,Black Gram (Urd Beans),Udaipur,2016-11-28,6050.0,21.7,28.4,clear
+628,Green Gram (Moong),Udaipur,2016-11-28,4250.0,1.1,28.4,clear
+629,Bengal Gram(Gram),Udaipur,2016-01-12,8530.0,1.0,26.0,clear
+630,Black Gram (Urd Beans),Udaipur,2016-01-12,6200.0,2.4,26.0,clear
+631,Green Gram (Moong),Udaipur,2016-01-12,3950.0,2.3,26.0,clear
+632,Bengal Gram(Gram),Udaipur,2016-02-12,8550.0,0.6,26.4,clear
+633,Black Gram (Urd Beans),Udaipur,2016-02-12,6200.0,1.3,26.4,clear
+634,Bengal Gram(Gram),Udaipur,2016-07-12,8550.0,0.3,28.4,clear
+635,Green Gram (Moong),Udaipur,2016-07-12,3950.0,0.3,28.4,clear
+636,Bengal Gram(Gram),Udaipur,2016-09-12,8550.0,1.3,31.4,clear
+637,Black Gram (Urd Beans),Udaipur,2016-09-12,6200.0,1.5,31.4,clear
+638,Green Gram (Moong),Udaipur,2016-09-12,3950.0,0.8,31.4,clear
+639,Bengal Gram(Gram),Udaipur,2016-12-26,8550.0,0.9,22.2,clear
+640,Black Gram (Urd Beans),Udaipur,2016-12-26,5200.0,9.5,22.2,clear
+641,Green Gram (Moong),Udaipur,2016-12-26,4000.0,2.0,22.2,clear
+642,Bengal Gram(Gram),Udaipur,2016-12-30,8525.0,0.3,27.8,clear
+643,Black Gram (Urd Beans),Udaipur,2016-12-30,5225.0,8.7,27.8,clear
+644,Green Gram (Moong),Udaipur,2016-12-30,4000.0,1.1,27.8,clear
+645,Black Gram (Urd Beans),Udaipur,2016-01-01,9500.0,1.5,25.4,clear
+646,Green Gram (Moong),Udaipur,2016-01-01,9500.0,0.0,25.4,clear
+647,Black Gram (Urd Beans),Udaipur,2016-04-01,9550.0,0.3,38.0,clear
+648,Green Gram (Moong),Udaipur,2016-04-01,9500.0,0.0,38.0,clear
+649,Black Gram (Urd Beans),Udaipur,2016-05-01,9550.0,0.0,39.2,clear
+650,Green Gram (Moong),Udaipur,2016-05-01,9500.0,0.0,39.2,clear
+651,Black Gram (Urd Beans),Udaipur,2016-06-01,10000.0,0.0,39.0,clear
+652,Black Gram (Urd Beans),Udaipur,2016-11-01,9250.0,2.2,28.4,clear
+653,Green Gram (Moong),Udaipur,2016-11-01,3160.0,0.0,28.4,clear
+654,Black Gram (Urd Beans),Udaipur,2016-12-01,9500.0,2.2,26.2,clear
+655,Green Gram (Moong),Udaipur,2016-12-01,6560.0,0.0,26.2,clear
+656,Black Gram (Urd Beans),Udaipur,2016-01-19,9250.0,0.0,20.0,clear
+657,Green Gram (Moong),Udaipur,2016-01-19,6650.0,0.0,20.0,clear
+658,Black Gram (Urd Beans),Udaipur,2016-01-20,9250.0,0.0,21.6,clear
+659,Green Gram (Moong),Udaipur,2016-01-20,6645.0,0.0,21.6,clear
+660,Black Gram (Urd Beans),Udaipur,2016-01-25,9200.0,0.0,24.0,clear
+661,Green Gram (Moong),Udaipur,2016-01-25,6500.0,0.0,24.0,clear
+662,Black Gram (Urd Beans),Udaipur,2016-01-27,9200.0,1.0,25.4,clear
+663,Green Gram (Moong),Udaipur,2016-01-27,6750.0,0.0,25.4,clear
+664,Black Gram (Urd Beans),Udaipur,2016-01-29,9225.0,0.0,29.4,clear
+665,Green Gram (Moong),Udaipur,2016-01-29,6740.0,0.0,29.4,clear
+666,Black Gram (Urd Beans),Udaipur,2016-01-02,9250.0,0.0,24.0,clear
+667,Black Gram (Urd Beans),Udaipur,2016-04-02,9250.0,162.0,38.4,clear
+668,Green Gram (Moong),Udaipur,2016-04-02,6725.0,0.0,38.4,clear
+669,Black Gram (Urd Beans),Udaipur,2016-05-02,9300.0,5.2,39.4,clear
+670,Green Gram (Moong),Udaipur,2016-05-02,6725.0,0.0,39.4,clear
+671,Black Gram (Urd Beans),Udaipur,2016-09-02,9240.0,0.0,29.8,clear
+672,Green Gram (Moong),Udaipur,2016-09-02,6725.0,0.0,29.8,clear
+673,Black Gram (Urd Beans),Udaipur,2016-02-23,9500.0,0.0,30.0,clear
+674,Black Gram (Urd Beans),Udaipur,2016-02-24,9500.0,4.3,28.4,clear
+675,Black Gram (Urd Beans),Udaipur,2016-02-29,9500.0,0.0,31.6,clear
+676,Green Gram (Moong),Udaipur,2016-02-29,8300.0,0.0,31.6,clear
+677,Black Gram (Urd Beans),Udaipur,2016-03-03,9300.0,1.5,32.8,clear
+678,Green Gram (Moong),Udaipur,2016-03-03,6600.0,5.5,32.8,clear
+679,Black Gram (Urd Beans),Udaipur,2016-04-03,9200.0,0.0,37.2,clear
+680,Green Gram (Moong),Udaipur,2016-04-03,6600.0,0.0,37.2,clear
+681,Black Gram (Urd Beans),Udaipur,2016-08-03,9200.0,3.0,25.4,clear
+682,Green Gram (Moong),Udaipur,2016-08-03,6575.0,0.0,25.4,clear
+683,Black Gram (Urd Beans),Udaipur,2016-10-03,9200.0,0.0,31.0,clear
+684,Black Gram (Urd Beans),Udaipur,2016-03-15,9200.0,0.0,28.0,clear
+685,Green Gram (Moong),Udaipur,2016-03-15,6550.0,0.0,28.0,clear
+686,Black Gram (Urd Beans),Udaipur,2016-03-16,9200.0,0.0,29.8,clear
+687,Green Gram (Moong),Udaipur,2016-03-16,6550.0,0.0,29.8,clear
+688,Black Gram (Urd Beans),Udaipur,2016-03-17,9200.0,0.1,32.6,clear
+689,Green Gram (Moong),Udaipur,2016-03-17,6550.0,0.0,32.6,clear
+690,Black Gram (Urd Beans),Udaipur,2016-03-18,9200.0,0.0,32.0,clear
+691,Green Gram (Moong),Udaipur,2016-03-18,6550.0,0.0,32.0,clear
+692,Black Gram (Urd Beans),Udaipur,2016-03-22,9300.0,0.0,32.8,clear
+693,Green Gram (Moong),Udaipur,2016-03-22,5900.0,0.0,32.8,clear
+694,Black Gram (Urd Beans),Udaipur,2016-05-04,9200.0,0.0,37.8,clear
+695,Green Gram (Moong),Udaipur,2016-05-04,6000.0,2.5,37.8,clear
+696,Black Gram (Urd Beans),Udaipur,2016-07-04,9200.0,0.0,26.8,clear
+697,Green Gram (Moong),Udaipur,2016-07-04,5800.0,2.5,26.8,clear
+698,Black Gram (Urd Beans),Udaipur,2016-12-04,9200.0,0.0,24.0,clear
+699,Green Gram (Moong),Udaipur,2016-12-04,5800.0,0.0,24.0,clear
+700,Black Gram (Urd Beans),Udaipur,2016-04-18,9200.0,0.0,36.8,clear
+701,Green Gram (Moong),Udaipur,2016-04-18,6600.0,1.0,36.8,clear
+702,Black Gram (Urd Beans),Udaipur,2016-04-20,9200.0,0.0,38.4,clear
+703,Green Gram (Moong),Udaipur,2016-04-20,6000.0,10.8,38.4,clear
+704,Black Gram (Urd Beans),Udaipur,2016-04-26,9200.0,0.0,35.4,clear
+705,Green Gram (Moong),Udaipur,2016-04-26,6000.0,0.0,35.4,clear
+706,Black Gram (Urd Beans),Udaipur,2016-02-05,9200.0,0.0,24.2,clear
+707,Green Gram (Moong),Udaipur,2016-02-05,6000.0,0.0,24.2,clear
+708,Black Gram (Urd Beans),Udaipur,2016-03-05,9200.0,0.0,30.4,clear
+709,Green Gram (Moong),Udaipur,2016-03-05,6000.0,0.0,30.4,clear
+710,Black Gram (Urd Beans),Udaipur,2016-04-05,9200.0,0.0,36.0,clear
+711,Black Gram (Urd Beans),Udaipur,2016-06-05,9200.0,0.0,43.4,clear
+712,Green Gram (Moong),Udaipur,2016-06-05,4800.0,0.0,43.4,clear
+713,Black Gram (Urd Beans),Udaipur,2016-10-05,9200.0,0.0,29.0,clear
+714,Green Gram (Moong),Udaipur,2016-10-05,6000.0,0.5,29.0,clear
+715,Black Gram (Urd Beans),Udaipur,2016-11-05,9200.0,0.0,29.4,clear
+716,Green Gram (Moong),Udaipur,2016-11-05,6000.0,0.0,29.4,clear
+717,Black Gram (Urd Beans),Udaipur,2016-05-13,9200.0,0.0,40.2,clear
+718,Green Gram (Moong),Udaipur,2016-05-13,6000.0,0.0,40.2,clear
+719,Black Gram (Urd Beans),Udaipur,2016-05-25,9200.0,0.0,37.2,clear
+720,Green Gram (Moong),Udaipur,2016-05-25,6000.0,0.0,37.2,clear
+721,Black Gram (Urd Beans),Udaipur,2016-05-26,9200.0,0.0,37.4,clear
+722,Green Gram (Moong),Udaipur,2016-05-26,6000.0,0.0,37.4,clear
+723,Black Gram (Urd Beans),Udaipur,2016-05-27,9200.0,0.0,38.0,clear
+724,Green Gram (Moong),Udaipur,2016-05-27,6000.0,0.0,38.0,clear
+725,Black Gram (Urd Beans),Udaipur,2016-05-31,8400.0,0.0,38.8,clear
+726,Green Gram (Moong),Udaipur,2016-05-31,6000.0,0.6,38.8,clear
+727,Black Gram (Urd Beans),Udaipur,2016-01-06,9200.0,0.0,26.4,clear
+728,Green Gram (Moong),Udaipur,2016-01-06,6000.0,0.5,26.4,clear
+729,Black Gram (Urd Beans),Udaipur,2016-06-27,9500.0,2.4,33.6,clear
+730,Green Gram (Moong),Udaipur,2016-06-27,6250.0,7.8,33.6,clear
+731,Black Gram (Urd Beans),Udaipur,2016-11-07,9550.0,0.1,30.0,clear
+732,Black Gram (Urd Beans),Udaipur,2016-08-30,9450.0,0.1,29.4,clear
+733,Green Gram (Moong),Udaipur,2016-08-30,5250.0,0.1,29.4,clear
+734,Black Gram (Urd Beans),Udaipur,2016-09-27,9450.0,0.1,34.6,clear
+735,Black Gram (Urd Beans),Udaipur,2016-10-10,8775.0,3.5,31.4,clear
+736,Green Gram (Moong),Udaipur,2016-10-10,3950.0,2.1,31.4,clear
+737,Black Gram (Urd Beans),Udaipur,2016-10-17,8775.0,3.3,31.0,clear
+738,Green Gram (Moong),Udaipur,2016-10-17,3960.0,1.0,31.0,clear
+739,Black Gram (Urd Beans),Udaipur,2016-10-19,8725.0,2.8,31.4,clear
+740,Black Gram (Urd Beans),Udaipur,2016-10-20,6200.0,2.8,30.4,clear
+741,Black Gram (Urd Beans),Udaipur,2016-10-25,6200.0,1.0,28.6,clear
+742,Black Gram (Urd Beans),Udaipur,2016-07-11,6200.0,1.8,28.2,clear
+743,Black Gram (Urd Beans),Udaipur,2016-08-11,6200.0,2.8,26.0,clear
+744,Black Gram (Urd Beans),Udaipur,2016-11-15,6000.0,11.0,25.4,clear
+745,Black Gram (Urd Beans),Udaipur,2016-11-18,6000.0,2.3,27.0,clear
+746,Black Gram (Urd Beans),Udaipur,2016-11-23,5850.0,0.6,28.0,clear
+747,Black Gram (Urd Beans),Udaipur,2016-11-24,5600.0,0.2,29.0,clear
+748,Black Gram (Urd Beans),Udaipur,2016-11-29,6050.0,9.0,29.4,clear
+749,Green Gram (Moong),Udaipur,2016-11-29,4250.0,2.2,29.4,clear
+750,Black Gram (Urd Beans),Udaipur,2016-06-12,6200.0,2.7,36.2,clear
+751,Black Gram (Urd Beans),Udaipur,2016-12-13,6200.0,4.2,25.2,clear
+752,Black Gram (Urd Beans),Udaipur,2016-12-14,6200.0,5.2,25.0,clear
+753,Black Gram (Urd Beans),Udaipur,2016-12-15,5100.0,0.9,23.0,clear
+754,Black Gram (Urd Beans),Udaipur,2016-12-19,5100.0,6.7,24.4,clear
+755,Black Gram (Urd Beans),Udaipur,2016-12-20,5200.0,5.2,23.6,clear
+756,Black Gram (Urd Beans),Udaipur,2016-12-23,5200.0,3.0,27.6,clear
+757,Black Gram (Urd Beans),Udaipur,2016-12-27,5200.0,16.8,23.0,clear
+758,Green Gram (Moong),Udaipur,2016-12-27,4000.0,1.5,23.0,clear
+759,Black Gram (Urd Beans),Udaipur,2016-12-28,5200.0,0.1,25.0,clear
+760,Black Gram (Urd Beans),Udaipur,2016-12-29,5225.0,3.5,26.4,clear
+761,Green Gram (Moong),Udaipur,2016-08-01,6500.0,0.0,30.4,clear
+762,Green Gram (Moong),Udaipur,2016-02-03,8300.0,0.0,23.4,clear
+763,Green Gram (Moong),Udaipur,2016-10-06,6100.0,7.0,28.0,rain
+764,Green Gram (Moong),Udaipur,2016-06-13,6100.0,11.4,36.0,clear
+765,Green Gram (Moong),Udaipur,2016-06-14,6100.0,4.8,35.8,clear
+766,Green Gram (Moong),Udaipur,2016-06-15,6200.0,13.9,35.0,clear
+767,Green Gram (Moong),Udaipur,2016-06-16,6200.0,10.5,35.8,clear
+768,Green Gram (Moong),Udaipur,2016-06-20,6200.0,13.4,36.0,rain
+769,Green Gram (Moong),Udaipur,2016-06-22,6200.0,2.3,35.0,clear
+770,Green Gram (Moong),Udaipur,2016-06-23,6200.0,4.2,33.6,clear
+771,Green Gram (Moong),Udaipur,2016-06-28,6300.0,0.7,31.5,clear
+772,Green Gram (Moong),Udaipur,2016-06-30,6300.0,0.8,34.4,clear
+773,Green Gram (Moong),Udaipur,2016-01-07,6300.0,0.5,26.4,clear
+774,Green Gram (Moong),Udaipur,2016-06-07,6300.0,0.8,43.0,clear
+775,Green Gram (Moong),Udaipur,2016-12-07,5450.0,0.4,26.6,clear
+776,Green Gram (Moong),Udaipur,2016-07-13,5450.0,0.1,28.0,clear
+777,Green Gram (Moong),Udaipur,2016-07-15,5600.0,0.3,28.0,clear
+778,Green Gram (Moong),Udaipur,2016-07-18,5600.0,1.9,31.4,clear
+779,Green Gram (Moong),Udaipur,2016-07-19,5650.0,0.4,30.0,clear
+780,Green Gram (Moong),Udaipur,2016-07-20,5650.0,0.3,31.4,clear
+781,Green Gram (Moong),Udaipur,2016-07-27,5650.0,1.7,27.6,rain
+782,Green Gram (Moong),Udaipur,2016-07-28,5650.0,0.6,27.0,clear
+783,Green Gram (Moong),Udaipur,2016-03-08,5490.0,0.5,30.0,clear
+784,Green Gram (Moong),Udaipur,2016-05-08,5550.0,0.1,39.2,clear
+785,Green Gram (Moong),Udaipur,2016-06-09,3950.0,3.0,39.0,clear
+786,Green Gram (Moong),Udaipur,2016-09-19,3950.0,9.4,31.8,clear
+787,Bengal Gram(Gram),Udaipur,2017-02-01,8400.0,0.3,24.8,clear
+788,Black Gram (Urd Beans),Udaipur,2017-02-01,5300.0,22.6,24.8,clear
+789,Green Gram (Moong),Udaipur,2017-02-01,4000.0,2.0,24.8,clear
+790,Bengal Gram(Gram),Udaipur,2017-01-25,5900.0,0.1,27.4,clear
+791,Black Gram (Urd Beans),Udaipur,2017-01-25,5600.0,1.4,27.4,clear
+792,Bengal Gram(Gram),Udaipur,2017-03-03,4600.0,1.3,27.0,clear
+793,Bengal Gram(Gram),Udaipur,2017-06-03,4600.0,2.9,40.2,clear
+794,Black Gram (Urd Beans),Udaipur,2017-06-03,4775.0,6.4,40.2,clear
+795,Green Gram (Moong),Udaipur,2017-06-03,4300.0,3.6,40.2,clear
+796,Bengal Gram(Gram),Udaipur,2017-08-03,4600.0,1.0,28.2,clear
+797,Bengal Gram(Gram),Udaipur,2017-09-03,4600.0,0.5,28.4,clear
+798,Green Gram (Moong),Udaipur,2017-09-03,4300.0,0.3,28.4,clear
+799,Bengal Gram(Gram),Udaipur,2017-03-16,4600.0,1.4,32.6,clear
+800,Black Gram (Urd Beans),Udaipur,2017-03-16,4770.0,5.0,32.6,clear
+801,Bengal Gram(Gram),Udaipur,2017-03-20,4600.0,5.2,30.4,clear
+802,Bengal Gram(Gram),Udaipur,2017-03-21,4600.0,4.1,34.2,clear
+803,Black Gram (Urd Beans),Udaipur,2017-03-21,4800.0,4.8,34.2,clear
+804,Bengal Gram(Gram),Udaipur,2017-03-22,4600.0,8.5,35.4,clear
+805,Black Gram (Urd Beans),Udaipur,2017-03-22,4800.0,3.5,35.4,clear
+806,Green Gram (Moong),Udaipur,2017-03-22,4300.0,1.5,35.4,clear
+807,Bengal Gram(Gram),Udaipur,2017-03-23,4600.0,9.0,36.0,clear
+808,Bengal Gram(Gram),Udaipur,2017-03-24,4600.0,14.2,34.8,clear
+809,Green Gram (Moong),Udaipur,2017-03-24,4300.0,1.0,34.8,clear
+810,Bengal Gram(Gram),Udaipur,2017-03-27,4600.0,14.6,38.4,clear
+811,Black Gram (Urd Beans),Udaipur,2017-03-27,4750.0,1.3,38.4,clear
+812,Green Gram (Moong),Udaipur,2017-03-27,4300.0,3.9,38.4,clear
+813,Bengal Gram(Gram),Udaipur,2017-05-04,4650.0,25.1,37.0,clear
+814,Black Gram (Urd Beans),Udaipur,2017-05-04,4750.0,1.0,37.0,clear
+815,Bengal Gram(Gram),Udaipur,2017-06-04,4650.0,3.8,38.2,clear
+816,Black Gram (Urd Beans),Udaipur,2017-06-04,4750.0,0.7,38.2,clear
+817,Bengal Gram(Gram),Udaipur,2017-07-04,4650.0,3.5,31.0,clear
+818,Bengal Gram(Gram),Udaipur,2017-10-04,5200.0,23.8,33.0,clear
+819,Black Gram (Urd Beans),Udaipur,2017-10-04,5300.0,9.2,33.0,clear
+820,Green Gram (Moong),Udaipur,2017-10-04,4200.0,0.5,33.0,clear
+821,Bengal Gram(Gram),Udaipur,2017-11-04,4660.0,3.2,29.4,clear
+822,Black Gram (Urd Beans),Udaipur,2017-11-04,4760.0,0.2,29.4,clear
+823,Bengal Gram(Gram),Udaipur,2017-04-13,5200.0,2.9,40.4,clear
+824,Bengal Gram(Gram),Udaipur,2017-04-17,5200.0,17.4,41.0,clear
+825,Black Gram (Urd Beans),Udaipur,2017-04-17,5300.0,0.8,41.0,clear
+826,Green Gram (Moong),Udaipur,2017-04-17,4200.0,2.3,41.0,clear
+827,Bengal Gram(Gram),Udaipur,2017-04-18,5200.0,6.5,40.0,clear
+828,Bengal Gram(Gram),Udaipur,2017-04-27,5200.0,1.2,37.4,clear
+829,Black Gram (Urd Beans),Udaipur,2017-04-27,5275.0,0.1,37.4,clear
+830,Bengal Gram(Gram),Udaipur,2017-01-05,5200.0,10.5,23.4,clear
+831,Bengal Gram(Gram),Udaipur,2017-02-05,5200.0,0.6,28.0,clear
+832,Bengal Gram(Gram),Udaipur,2017-04-05,5200.0,1.2,37.0,clear
+833,Black Gram (Urd Beans),Udaipur,2017-04-05,5275.0,2.0,37.0,clear
+834,Bengal Gram(Gram),Udaipur,2017-12-05,5200.0,2.3,17.0,clear
+835,Bengal Gram(Gram),Udaipur,2017-05-15,5200.0,7.8,39.2,clear
+836,Bengal Gram(Gram),Udaipur,2017-05-16,5200.0,4.7,38.0,clear
+837,Black Gram (Urd Beans),Udaipur,2017-05-16,5270.0,4.5,38.0,clear
+838,Bengal Gram(Gram),Udaipur,2017-05-17,5200.0,2.5,38.8,clear
+839,Bengal Gram(Gram),Udaipur,2017-05-18,5200.0,1.2,39.6,clear
+840,Black Gram (Urd Beans),Udaipur,2017-05-18,5270.0,0.2,39.6,clear
+841,Bengal Gram(Gram),Udaipur,2017-05-19,5200.0,2.3,40.0,clear
+842,Bengal Gram(Gram),Udaipur,2017-05-25,5150.0,1.1,38.6,clear
+843,Bengal Gram(Gram),Udaipur,2017-05-29,5150.0,1.4,36.0,clear
+844,Black Gram (Urd Beans),Udaipur,2017-05-29,5280.0,2.0,36.0,clear
+845,Bengal Gram(Gram),Udaipur,2017-05-30,5150.0,0.5,35.4,clear
+846,Bengal Gram(Gram),Udaipur,2017-05-31,5150.0,1.5,38.6,clear
+847,Green Gram (Moong),Udaipur,2017-05-31,4250.0,1.0,38.6,clear
+848,Bengal Gram(Gram),Udaipur,2017-01-06,5150.0,1.2,23.4,clear
+849,Green Gram (Moong),Udaipur,2017-01-06,4250.0,0.5,23.4,clear
+850,Bengal Gram(Gram),Udaipur,2017-08-06,5150.0,0.2,30.4,clear
+851,Green Gram (Moong),Udaipur,2017-08-06,4250.0,0.4,30.4,clear
+852,Bengal Gram(Gram),Udaipur,2017-06-19,4875.0,1.1,36.4,clear
+853,Green Gram (Moong),Udaipur,2017-06-19,4200.0,5.2,36.4,clear
+854,Bengal Gram(Gram),Udaipur,2017-06-20,4875.0,1.3,34.4,clear
+855,Green Gram (Moong),Udaipur,2017-06-20,4200.0,10.0,34.4,clear
+856,Bengal Gram(Gram),Udaipur,2017-06-21,4775.0,0.3,34.6,clear
+857,Green Gram (Moong),Udaipur,2017-06-21,4200.0,1.4,34.6,clear
+858,Bengal Gram(Gram),Udaipur,2017-06-22,4775.0,0.1,32.0,clear
+859,Green Gram (Moong),Udaipur,2017-06-22,4200.0,1.5,32.0,clear
+860,Bengal Gram(Gram),Udaipur,2017-06-27,4700.0,3.7,31.4,clear
+861,Green Gram (Moong),Udaipur,2017-06-27,4200.0,8.8,31.4,clear
+862,Bengal Gram(Gram),Udaipur,2017-06-28,4700.0,0.1,32.8,clear
+863,Green Gram (Moong),Udaipur,2017-06-28,4200.0,2.9,32.8,clear
+864,Bengal Gram(Gram),Udaipur,2017-06-30,4700.0,0.3,28.4,rain
+865,Green Gram (Moong),Udaipur,2017-06-30,4200.0,1.3,28.4,rain
+866,Bengal Gram(Gram),Udaipur,2017-07-07,4700.0,6.9,30.8,clear
+867,Green Gram (Moong),Udaipur,2017-07-07,4200.0,2.7,30.8,clear
+868,Bengal Gram(Gram),Udaipur,2017-07-17,4700.0,7.1,31.2,clear
+869,Black Gram (Urd Beans),Udaipur,2017-07-17,4400.0,0.1,31.2,clear
+870,Bengal Gram(Gram),Udaipur,2017-07-18,4700.0,1.2,30.6,clear
+871,Bengal Gram(Gram),Udaipur,2017-07-24,4700.0,10.6,25.2,rain
+872,Black Gram (Urd Beans),Udaipur,2017-07-24,4400.0,0.1,25.2,rain
+873,Bengal Gram(Gram),Udaipur,2017-07-25,4700.0,3.3,24.4,clear
+874,Black Gram (Urd Beans),Udaipur,2017-07-25,4400.0,0.3,24.4,clear
+875,Bengal Gram(Gram),Udaipur,2017-07-27,4700.0,0.3,26.8,clear
+876,Green Gram (Moong),Udaipur,2017-07-27,4200.0,0.2,26.8,clear
+877,Bengal Gram(Gram),Udaipur,2017-07-31,4500.0,0.2,28.2,clear
+878,Bengal Gram(Gram),Udaipur,2017-01-08,4400.0,1.9,21.6,clear
+879,Bengal Gram(Gram),Udaipur,2017-03-08,4400.0,0.9,29.0,clear
+880,Bengal Gram(Gram),Udaipur,2017-04-08,4400.0,0.2,33.6,clear
+881,Bengal Gram(Gram),Udaipur,2017-10-08,4500.0,11.0,33.2,clear
+882,Bengal Gram(Gram),Udaipur,2017-11-08,4500.0,2.9,29.2,clear
+883,Black Gram (Urd Beans),Udaipur,2017-11-08,4000.0,0.6,29.2,clear
+884,Bengal Gram(Gram),Udaipur,2017-08-14,4500.0,64.7,30.4,clear
+885,Bengal Gram(Gram),Udaipur,2017-08-16,4500.0,7.5,30.0,clear
+886,Black Gram (Urd Beans),Udaipur,2017-08-16,4000.0,0.3,30.0,clear
+887,Bengal Gram(Gram),Udaipur,2017-08-18,4600.0,1.5,32.0,clear
+888,Black Gram (Urd Beans),Udaipur,2017-08-18,3700.0,0.1,32.0,clear
+889,Green Gram (Moong),Udaipur,2017-08-18,4175.0,0.2,32.0,clear
+890,Bengal Gram(Gram),Udaipur,2017-08-21,4700.0,6.1,35.6,rain
+891,Green Gram (Moong),Udaipur,2017-08-21,4175.0,0.9,35.6,rain
+892,Bengal Gram(Gram),Udaipur,2017-08-28,4900.0,6.1,30.6,clear
+893,Green Gram (Moong),Udaipur,2017-08-28,4175.0,1.6,30.6,clear
+894,Bengal Gram(Gram),Udaipur,2017-08-29,4900.0,0.2,29.4,rain
+895,Green Gram (Moong),Udaipur,2017-08-29,4175.0,0.3,29.4,rain
+896,Bengal Gram(Gram),Udaipur,2017-09-14,5150.0,1.4,29.4,clear
+897,Bengal Gram(Gram),Udaipur,2017-09-15,5150.0,1.2,30.8,clear
+898,Bengal Gram(Gram),Udaipur,2017-09-18,5200.0,0.4,31.4,clear
+899,Bengal Gram(Gram),Udaipur,2017-09-19,5200.0,0.5,32.8,clear
+900,Bengal Gram(Gram),Udaipur,2017-09-26,5200.0,0.2,31.6,clear
+901,Bengal Gram(Gram),Udaipur,2017-03-10,5200.0,6.5,25.4,clear
+902,Black Gram (Urd Beans),Udaipur,2017-03-10,4050.0,0.5,25.4,clear
+903,Black Gram (Urd Beans),Udaipur,2017-03-01,5300.0,4.0,32.0,clear
+904,Black Gram (Urd Beans),Udaipur,2017-06-01,5300.0,20.5,35.6,clear
+905,Black Gram (Urd Beans),Udaipur,2017-11-01,5500.0,0.7,30.4,clear
+906,Black Gram (Urd Beans),Udaipur,2017-01-13,5400.0,6.4,18.0,clear
+907,Black Gram (Urd Beans),Udaipur,2017-01-17,5500.0,1.2,19.0,clear
+908,Black Gram (Urd Beans),Udaipur,2017-01-19,5500.0,10.4,18.6,clear
+909,Black Gram (Urd Beans),Udaipur,2017-01-20,5500.0,1.2,18.0,clear
+910,Black Gram (Urd Beans),Udaipur,2017-01-02,5600.0,6.4,23.4,clear
+911,Black Gram (Urd Beans),Udaipur,2017-02-02,5600.0,1.0,25.4,clear
+912,Black Gram (Urd Beans),Udaipur,2017-06-02,5600.0,6.0,40.4,clear
+913,Black Gram (Urd Beans),Udaipur,2017-07-02,5500.0,8.8,27.8,clear
+914,Black Gram (Urd Beans),Udaipur,2017-08-02,5200.0,3.4,28.8,clear
+915,Black Gram (Urd Beans),Udaipur,2017-02-13,5100.0,1.5,23.8,clear
+916,Black Gram (Urd Beans),Udaipur,2017-02-14,5000.0,7.6,25.4,clear
+917,Green Gram (Moong),Udaipur,2017-02-14,4300.0,3.2,25.4,clear
+918,Black Gram (Urd Beans),Udaipur,2017-02-15,5000.0,5.9,27.4,clear
+919,Black Gram (Urd Beans),Udaipur,2017-02-20,4900.0,1.1,31.0,clear
+920,Black Gram (Urd Beans),Udaipur,2017-02-23,4900.0,0.5,26.4,clear
+921,Green Gram (Moong),Udaipur,2017-02-23,4350.0,3.8,26.4,clear
+922,Black Gram (Urd Beans),Udaipur,2017-02-28,4800.0,1.3,32.6,clear
+923,Green Gram (Moong),Udaipur,2017-02-28,4250.0,5.0,32.6,clear
+924,Black Gram (Urd Beans),Udaipur,2017-07-03,4775.0,10.9,30.6,clear
+925,Green Gram (Moong),Udaipur,2017-07-03,4300.0,2.7,30.6,clear
+926,Black Gram (Urd Beans),Udaipur,2017-03-14,4770.0,2.8,29.4,clear
+927,Black Gram (Urd Beans),Udaipur,2017-03-15,4780.0,0.6,30.4,clear
+928,Black Gram (Urd Beans),Udaipur,2017-03-17,4800.0,6.4,30.0,clear
+929,Green Gram (Moong),Udaipur,2017-03-17,4300.0,4.0,30.0,clear
+930,Black Gram (Urd Beans),Udaipur,2017-03-28,4750.0,4.6,39.6,clear
+931,Black Gram (Urd Beans),Udaipur,2017-03-31,4750.0,0.1,38.0,clear
+932,Black Gram (Urd Beans),Udaipur,2017-03-04,4750.0,0.3,27.0,clear
+933,Green Gram (Moong),Udaipur,2017-03-04,4300.0,0.8,27.0,clear
+934,Black Gram (Urd Beans),Udaipur,2017-10-25,4050.0,2.2,32.2,clear
+935,Green Gram (Moong),Udaipur,2017-02-27,4350.0,2.5,31.0,clear
+936,Green Gram (Moong),Udaipur,2017-12-04,4200.0,2.0,20.8,clear
+937,Green Gram (Moong),Udaipur,2017-06-16,4050.0,6.4,37.8,clear
+938,Green Gram (Moong),Udaipur,2017-06-23,4200.0,1.5,32.6,clear
+939,Green Gram (Moong),Udaipur,2017-07-13,4200.0,0.5,29.4,rain
+940,Green Gram (Moong),Udaipur,2017-07-19,4200.0,0.4,32.4,clear
+941,Green Gram (Moong),Udaipur,2017-08-08,4200.0,0.1,28.6,clear

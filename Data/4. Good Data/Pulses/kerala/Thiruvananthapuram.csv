@@ -1,0 +1,783 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Bengal Gram(Gram),Thiruvananthapuram,2012-03-01,5200.0,2.0,32.6,clear
+1,Black Gram (Urd Beans),Thiruvananthapuram,2012-03-01,5900.0,5.0,32.6,clear
+2,Green Gram (Moong),Thiruvananthapuram,2012-03-01,6000.0,10.0,32.6,clear
+3,Bengal Gram(Gram),Thiruvananthapuram,2012-06-01,4800.0,2.0,32.0,clear
+4,Black Gram (Urd Beans),Thiruvananthapuram,2012-06-01,5700.0,8.0,32.0,clear
+5,Green Gram (Moong),Thiruvananthapuram,2012-06-01,6200.0,15.0,32.0,clear
+6,Bengal Gram(Gram),Thiruvananthapuram,2012-10-01,4800.0,3.0,32.0,clear
+7,Black Gram (Urd Beans),Thiruvananthapuram,2012-10-01,5700.0,10.0,32.0,clear
+8,Green Gram (Moong),Thiruvananthapuram,2012-10-01,6200.0,10.0,32.0,clear
+9,Bengal Gram(Gram),Thiruvananthapuram,2012-01-13,5000.0,2.0,32.4,clear
+10,Black Gram (Urd Beans),Thiruvananthapuram,2012-01-13,5950.0,5.0,32.4,clear
+11,Green Gram (Moong),Thiruvananthapuram,2012-01-13,6400.0,10.0,32.4,clear
+12,Bengal Gram(Gram),Thiruvananthapuram,2012-01-17,5000.0,3.0,30.0,clear
+13,Black Gram (Urd Beans),Thiruvananthapuram,2012-01-17,5950.0,7.0,30.0,clear
+14,Green Gram (Moong),Thiruvananthapuram,2012-01-17,6400.0,10.0,30.0,clear
+15,Bengal Gram(Gram),Thiruvananthapuram,2012-01-20,5000.0,2.0,31.6,clear
+16,Black Gram (Urd Beans),Thiruvananthapuram,2012-01-20,5700.0,5.0,31.6,clear
+17,Green Gram (Moong),Thiruvananthapuram,2012-01-20,6500.0,10.0,31.6,clear
+18,Bengal Gram(Gram),Thiruvananthapuram,2012-01-24,5700.0,2.0,31.8,clear
+19,Black Gram (Urd Beans),Thiruvananthapuram,2012-01-24,5700.0,5.0,31.8,clear
+20,Green Gram (Moong),Thiruvananthapuram,2012-01-24,6500.0,10.0,31.8,clear
+21,Bengal Gram(Gram),Chala,2013-02-15,4850.0,3.0,33.4,clear
+22,Black Gram (Urd Beans),Chala,2013-02-15,5075.0,7.0,33.4,clear
+23,Bengal Gram(Gram),Chala,2013-02-19,5000.0,4.0,30.0,clear
+24,Black Gram (Urd Beans),Chala,2013-02-19,5205.0,13.0,30.0,clear
+25,Bengal Gram(Gram),Chala,2013-02-22,4800.0,4.0,31.8,clear
+26,Black Gram (Urd Beans),Chala,2013-02-22,5200.0,12.0,31.8,clear
+27,Bengal Gram(Gram),Chala,2013-01-03,4900.0,4.0,32.2,clear
+28,Black Gram (Urd Beans),Chala,2013-01-03,5200.0,12.0,32.2,clear
+29,Bengal Gram(Gram),Chala,2013-05-03,4800.0,4.0,31.6,clear
+30,Black Gram (Urd Beans),Chala,2013-05-03,5750.0,11.0,31.6,clear
+31,Bengal Gram(Gram),Chala,2013-08-03,4850.0,4.0,30.2,rain
+32,Black Gram (Urd Beans),Chala,2013-08-03,5200.0,10.0,30.2,rain
+33,Bengal Gram(Gram),Chala,2013-12-03,4900.0,4.0,32.2,clear
+34,Black Gram (Urd Beans),Chala,2013-12-03,5150.0,10.0,32.2,clear
+35,Bengal Gram(Gram),Chala,2013-03-26,4800.0,4.0,32.0,clear
+36,Black Gram (Urd Beans),Chala,2013-03-26,5350.0,5.0,32.0,clear
+37,Bengal Gram(Gram),Chala,2013-02-04,4800.0,4.0,31.4,clear
+38,Black Gram (Urd Beans),Chala,2013-02-04,5450.0,12.0,31.4,clear
+39,Bengal Gram(Gram),Chala,2013-05-04,4800.0,4.0,32.6,clear
+40,Black Gram (Urd Beans),Chala,2013-05-04,5350.0,12.0,32.6,clear
+41,Bengal Gram(Gram),Chala,2013-04-16,4900.0,4.0,34.0,clear
+42,Black Gram (Urd Beans),Chala,2013-04-16,5150.0,12.0,34.0,clear
+43,Green Gram (Moong),Chala,2013-04-16,6500.0,7.0,34.0,clear
+44,Bengal Gram(Gram),Chala,2013-04-23,4900.0,4.0,34.4,clear
+45,Black Gram (Urd Beans),Chala,2013-04-23,5150.0,12.0,34.4,clear
+46,Green Gram (Moong),Chala,2013-04-23,6500.0,7.0,34.4,clear
+47,Bengal Gram(Gram),Chala,2013-03-05,4800.0,5.0,31.2,clear
+48,Black Gram (Urd Beans),Chala,2013-03-05,5250.0,12.0,31.2,clear
+49,Green Gram (Moong),Chala,2013-03-05,6700.0,7.0,31.2,clear
+50,Bengal Gram(Gram),Chala,2013-05-21,6450.0,5.0,33.0,clear
+51,Black Gram (Urd Beans),Chala,2013-05-21,5600.0,12.0,33.0,clear
+52,Green Gram (Moong),Chala,2013-05-21,6800.0,7.0,33.0,clear
+53,Bengal Gram(Gram),Chala,2013-05-24,6400.0,5.0,31.4,clear
+54,Black Gram (Urd Beans),Chala,2013-05-24,5500.0,12.0,31.4,clear
+55,Green Gram (Moong),Chala,2013-05-24,6600.0,7.0,31.4,clear
+56,Bengal Gram(Gram),Chala,2013-05-28,6300.0,5.0,31.0,clear
+57,Black Gram (Urd Beans),Chala,2013-05-28,5250.0,12.0,31.0,clear
+58,Green Gram (Moong),Chala,2013-05-28,6600.0,7.0,31.0,clear
+59,Bengal Gram(Gram),Chala,2013-05-31,6450.0,5.0,29.0,rain
+60,Black Gram (Urd Beans),Chala,2013-05-31,5500.0,12.0,29.0,rain
+61,Green Gram (Moong),Chala,2013-05-31,6600.0,7.0,29.0,rain
+62,Bengal Gram(Gram),Chala,2013-04-06,6450.0,5.0,33.4,clear
+63,Black Gram (Urd Beans),Chala,2013-04-06,5500.0,12.0,33.4,clear
+64,Green Gram (Moong),Chala,2013-04-06,6600.0,7.0,33.4,clear
+65,Bengal Gram(Gram),Chala,2013-07-06,6200.0,5.0,31.4,clear
+66,Black Gram (Urd Beans),Chala,2013-07-06,5350.0,12.0,31.4,clear
+67,Green Gram (Moong),Chala,2013-07-06,6500.0,7.0,31.4,clear
+68,Bengal Gram(Gram),Chala,2013-06-14,6100.0,5.0,30.2,rain
+69,Black Gram (Urd Beans),Chala,2013-06-14,5500.0,12.0,30.2,rain
+70,Green Gram (Moong),Chala,2013-06-14,6600.0,7.0,30.2,rain
+71,Bengal Gram(Gram),Chala,2013-06-18,4600.0,5.0,26.8,clear
+72,Black Gram (Urd Beans),Chala,2013-06-18,6000.0,12.0,26.8,clear
+73,Green Gram (Moong),Chala,2013-06-18,6800.0,7.0,26.8,clear
+74,Bengal Gram(Gram),Chala,2013-06-21,6100.0,5.0,29.0,rain
+75,Black Gram (Urd Beans),Chala,2013-06-21,5500.0,12.0,29.0,rain
+76,Green Gram (Moong),Chala,2013-06-21,6600.0,7.0,29.0,rain
+77,Bengal Gram(Gram),Chala,2013-06-25,5600.0,5.0,28.4,rain
+78,Black Gram (Urd Beans),Chala,2013-06-25,5500.0,12.0,28.4,rain
+79,Green Gram (Moong),Chala,2013-06-25,6600.0,7.0,28.4,rain
+80,Bengal Gram(Gram),Chala,2013-06-28,4500.0,5.0,31.4,clear
+81,Black Gram (Urd Beans),Chala,2013-06-28,5600.0,12.0,31.4,clear
+82,Green Gram (Moong),Chala,2013-06-28,6800.0,7.0,31.4,clear
+83,Bengal Gram(Gram),Chala,2013-02-07,5600.0,5.0,31.8,clear
+84,Black Gram (Urd Beans),Chala,2013-02-07,5600.0,12.0,31.8,clear
+85,Green Gram (Moong),Chala,2013-02-07,6500.0,7.0,31.8,clear
+86,Bengal Gram(Gram),Chala,2013-05-07,5800.0,5.0,31.0,rain
+87,Black Gram (Urd Beans),Chala,2013-05-07,5600.0,12.0,31.0,rain
+88,Green Gram (Moong),Chala,2013-05-07,6600.0,7.0,31.0,rain
+89,Bengal Gram(Gram),Chala,2013-09-07,5600.0,5.0,26.0,clear
+90,Black Gram (Urd Beans),Chala,2013-09-07,5550.0,12.0,26.0,clear
+91,Green Gram (Moong),Chala,2013-09-07,6400.0,7.0,26.0,clear
+92,Bengal Gram(Gram),Chala,2013-12-07,5600.0,5.0,32.2,clear
+93,Black Gram (Urd Beans),Chala,2013-12-07,5600.0,12.0,32.2,clear
+94,Green Gram (Moong),Chala,2013-12-07,6500.0,7.0,32.2,clear
+95,Bengal Gram(Gram),Chala,2013-07-16,5600.0,5.0,28.0,clear
+96,Black Gram (Urd Beans),Chala,2013-07-16,5250.0,12.0,28.0,clear
+97,Green Gram (Moong),Chala,2013-07-16,6400.0,7.0,28.0,clear
+98,Bengal Gram(Gram),Chala,2013-07-23,5600.0,5.0,28.6,clear
+99,Black Gram (Urd Beans),Chala,2013-07-23,5600.0,12.0,28.6,clear
+100,Green Gram (Moong),Chala,2013-07-23,6600.0,7.0,28.6,clear
+101,Bengal Gram(Gram),Chala,2013-07-26,5600.0,5.0,25.6,rain
+102,Black Gram (Urd Beans),Chala,2013-07-26,5500.0,12.0,25.6,rain
+103,Green Gram (Moong),Chala,2013-07-26,6600.0,7.0,25.6,rain
+104,Bengal Gram(Gram),Chala,2013-02-08,5450.0,5.0,32.6,clear
+105,Black Gram (Urd Beans),Chala,2013-02-08,5200.0,12.0,32.6,clear
+106,Green Gram (Moong),Chala,2013-02-08,6700.0,7.0,32.6,clear
+107,Bengal Gram(Gram),Chala,2013-08-16,5500.0,5.0,29.0,clear
+108,Black Gram (Urd Beans),Chala,2013-08-16,5500.0,12.0,29.0,clear
+109,Green Gram (Moong),Chala,2013-08-16,7000.0,7.0,29.0,clear
+110,Bengal Gram(Gram),Chala,2013-08-20,5500.0,5.0,30.0,clear
+111,Black Gram (Urd Beans),Chala,2013-08-20,5600.0,12.0,30.0,clear
+112,Green Gram (Moong),Chala,2013-08-20,7400.0,7.0,30.0,clear
+113,Bengal Gram(Gram),Chala,2013-08-23,5500.0,5.0,31.0,clear
+114,Black Gram (Urd Beans),Chala,2013-08-23,5300.0,12.0,31.0,clear
+115,Green Gram (Moong),Chala,2013-08-23,7000.0,7.0,31.0,clear
+116,Bengal Gram(Gram),Chala,2013-08-27,5500.0,5.0,32.0,clear
+117,Black Gram (Urd Beans),Chala,2013-08-27,5700.0,12.0,32.0,clear
+118,Green Gram (Moong),Chala,2013-08-27,7000.0,7.0,32.0,clear
+119,Bengal Gram(Gram),Chala,2013-08-30,5800.0,5.0,32.0,rain
+120,Black Gram (Urd Beans),Chala,2013-08-30,5700.0,12.0,32.0,rain
+121,Green Gram (Moong),Chala,2013-08-30,7000.0,7.0,32.0,rain
+122,Bengal Gram(Gram),Chala,2013-03-09,5600.0,5.0,29.6,clear
+123,Black Gram (Urd Beans),Chala,2013-03-09,5700.0,12.0,29.6,clear
+124,Green Gram (Moong),Chala,2013-03-09,7000.0,7.0,29.6,clear
+125,Bengal Gram(Gram),Chala,2014-04-02,5500.0,5.0,34.6,clear
+126,Black Gram (Urd Beans),Chala,2014-04-02,5900.0,10.0,34.6,clear
+127,Green Gram (Moong),Chala,2014-04-02,9200.0,5.0,34.6,clear
+128,Bengal Gram(Gram),Chala,2014-07-02,5500.0,4.0,31.8,clear
+129,Black Gram (Urd Beans),Chala,2014-07-02,5900.0,12.0,31.8,clear
+130,Green Gram (Moong),Chala,2014-07-02,9300.0,6.0,31.8,clear
+131,Bengal Gram(Gram),Chala,2014-11-02,5600.0,4.0,30.2,clear
+132,Black Gram (Urd Beans),Chala,2014-11-02,5900.0,12.0,30.2,clear
+133,Green Gram (Moong),Chala,2014-11-02,9200.0,6.0,30.2,clear
+134,Bengal Gram(Gram),Chala,2014-02-14,5600.0,5.0,32.4,clear
+135,Black Gram (Urd Beans),Chala,2014-02-14,5900.0,12.0,32.4,clear
+136,Green Gram (Moong),Chala,2014-02-14,9200.0,6.0,32.4,clear
+137,Bengal Gram(Gram),Chala,2014-02-21,5600.0,5.0,31.8,clear
+138,Black Gram (Urd Beans),Chala,2014-02-21,5900.0,12.0,31.8,clear
+139,Green Gram (Moong),Chala,2014-02-21,8800.0,6.0,31.8,clear
+140,Bengal Gram(Gram),Chala,2014-02-25,5600.0,5.0,34.6,clear
+141,Black Gram (Urd Beans),Chala,2014-02-25,6000.0,12.0,34.6,clear
+142,Green Gram (Moong),Chala,2014-02-25,8800.0,6.0,34.6,clear
+143,Bengal Gram(Gram),Chala,2014-02-28,5600.0,5.0,32.8,clear
+144,Black Gram (Urd Beans),Chala,2014-02-28,6350.0,12.0,32.8,clear
+145,Green Gram (Moong),Chala,2014-02-28,9000.0,6.0,32.8,clear
+146,Bengal Gram(Gram),Chala,2014-04-03,5600.0,5.0,35.2,clear
+147,Black Gram (Urd Beans),Chala,2014-04-03,5900.0,12.0,35.2,clear
+148,Green Gram (Moong),Chala,2014-04-03,9100.0,6.0,35.2,clear
+149,Bengal Gram(Gram),Chala,2014-07-03,5600.0,5.0,31.0,clear
+150,Black Gram (Urd Beans),Chala,2014-07-03,6000.0,12.0,31.0,clear
+151,Green Gram (Moong),Chala,2014-07-03,9200.0,6.0,31.0,clear
+152,Bengal Gram(Gram),Chala,2014-11-03,5700.0,5.0,29.4,rain
+153,Black Gram (Urd Beans),Chala,2014-11-03,5900.0,12.0,29.4,rain
+154,Green Gram (Moong),Chala,2014-11-03,9400.0,6.0,29.4,rain
+155,Bengal Gram(Gram),Chala,2014-03-14,6000.0,5.0,33.2,clear
+156,Black Gram (Urd Beans),Chala,2014-03-14,5900.0,12.0,33.2,clear
+157,Green Gram (Moong),Chala,2014-03-14,9100.0,6.0,33.2,clear
+158,Bengal Gram(Gram),Chala,2014-03-18,6200.0,5.0,34.0,clear
+159,Black Gram (Urd Beans),Chala,2014-03-18,6000.0,12.0,34.0,clear
+160,Green Gram (Moong),Chala,2014-03-18,9400.0,6.0,34.0,clear
+161,Bengal Gram(Gram),Chala,2014-03-21,6450.0,5.0,34.8,clear
+162,Black Gram (Urd Beans),Chala,2014-03-21,5900.0,12.0,34.8,clear
+163,Green Gram (Moong),Chala,2014-03-21,8800.0,6.0,34.8,clear
+164,Bengal Gram(Gram),Chala,2014-03-25,6650.0,5.0,34.6,clear
+165,Black Gram (Urd Beans),Chala,2014-03-25,5900.0,12.0,34.6,clear
+166,Green Gram (Moong),Chala,2014-03-25,9200.0,6.0,34.6,clear
+167,Bengal Gram(Gram),Chala,2014-03-28,4800.0,5.0,34.0,clear
+168,Black Gram (Urd Beans),Chala,2014-03-28,5900.0,12.0,34.0,clear
+169,Green Gram (Moong),Chala,2014-03-28,9000.0,6.0,34.0,clear
+170,Bengal Gram(Gram),Chala,2014-01-04,6450.0,5.0,31.4,clear
+171,Black Gram (Urd Beans),Chala,2014-01-04,6000.0,12.0,31.4,clear
+172,Green Gram (Moong),Chala,2014-01-04,9200.0,6.0,31.4,clear
+173,Bengal Gram(Gram),Chala,2014-04-04,7600.0,5.0,34.6,clear
+174,Black Gram (Urd Beans),Chala,2014-04-04,6000.0,12.0,34.6,clear
+175,Green Gram (Moong),Chala,2014-04-04,9200.0,6.0,34.6,clear
+176,Bengal Gram(Gram),Chala,2014-08-04,6650.0,5.0,29.6,rain
+177,Black Gram (Urd Beans),Chala,2014-08-04,6000.0,12.0,29.6,rain
+178,Green Gram (Moong),Chala,2014-08-04,9000.0,6.0,29.6,rain
+179,Bengal Gram(Gram),Chala,2014-11-04,7000.0,6.0,30.2,clear
+180,Black Gram (Urd Beans),Chala,2014-11-04,6000.0,12.0,30.2,clear
+181,Green Gram (Moong),Chala,2014-11-04,9000.0,6.0,30.2,clear
+182,Bengal Gram(Gram),Chala,2014-04-22,6850.0,6.0,35.0,clear
+183,Black Gram (Urd Beans),Chala,2014-04-22,6100.0,12.0,35.0,clear
+184,Green Gram (Moong),Chala,2014-04-22,8600.0,6.0,35.0,clear
+185,Bengal Gram(Gram),Chala,2014-04-29,6800.0,6.0,30.8,rain
+186,Black Gram (Urd Beans),Chala,2014-04-29,7000.0,12.0,30.8,rain
+187,Green Gram (Moong),Chala,2014-04-29,8700.0,6.0,30.8,rain
+188,Bengal Gram(Gram),Chala,2014-06-05,6900.0,6.0,32.0,clear
+189,Black Gram (Urd Beans),Chala,2014-06-05,6200.0,12.0,32.0,clear
+190,Green Gram (Moong),Chala,2014-06-05,8650.0,6.0,32.0,clear
+191,Bengal Gram(Gram),Chala,2014-09-05,6800.0,6.0,30.6,clear
+192,Black Gram (Urd Beans),Chala,2014-09-05,6300.0,12.0,30.6,clear
+193,Green Gram (Moong),Chala,2014-09-05,8600.0,6.0,30.6,clear
+194,Bengal Gram(Gram),Chala,2014-11-07,6500.0,6.0,32.2,clear
+195,Black Gram (Urd Beans),Chala,2014-11-07,8100.0,12.0,32.2,clear
+196,Green Gram (Moong),Chala,2014-11-07,8800.0,6.0,32.2,clear
+197,Bengal Gram(Gram),Chala,2014-07-15,6500.0,6.0,29.2,rain
+198,Black Gram (Urd Beans),Chala,2014-07-15,8150.0,12.0,29.2,rain
+199,Green Gram (Moong),Chala,2014-07-15,8800.0,6.0,29.2,rain
+200,Bengal Gram(Gram),Chala,2014-07-22,6500.0,6.0,30.0,clear
+201,Black Gram (Urd Beans),Chala,2014-07-22,8250.0,12.0,30.0,clear
+202,Green Gram (Moong),Chala,2014-07-22,8600.0,6.0,30.0,clear
+203,Bengal Gram(Gram),Chala,2014-07-25,6500.0,6.0,30.6,clear
+204,Black Gram (Urd Beans),Chala,2014-07-25,8350.0,12.0,30.6,clear
+205,Green Gram (Moong),Chala,2014-07-25,8600.0,6.0,30.6,clear
+206,Bengal Gram(Gram),Chala,2014-01-08,6600.0,6.0,25.0,rain
+207,Black Gram (Urd Beans),Chala,2014-01-08,8500.0,12.0,25.0,rain
+208,Green Gram (Moong),Chala,2014-01-08,8600.0,6.0,25.0,rain
+209,Bengal Gram(Gram),Chala,2014-05-08,6600.0,6.0,27.2,rain
+210,Black Gram (Urd Beans),Chala,2014-05-08,8500.0,12.0,27.2,rain
+211,Green Gram (Moong),Chala,2014-05-08,8600.0,6.0,27.2,rain
+212,Bengal Gram(Gram),Chala,2014-12-08,6800.0,6.0,31.4,rain
+213,Black Gram (Urd Beans),Chala,2014-12-08,8500.0,12.0,31.4,rain
+214,Green Gram (Moong),Chala,2014-12-08,8100.0,6.0,31.4,rain
+215,Bengal Gram(Gram),Chala,2014-08-22,6600.0,6.0,25.6,rain
+216,Black Gram (Urd Beans),Chala,2014-08-22,8700.0,12.0,25.6,rain
+217,Green Gram (Moong),Chala,2014-08-22,8400.0,6.0,25.6,rain
+218,Bengal Gram(Gram),Chala,2014-08-26,6600.0,6.0,30.4,clear
+219,Black Gram (Urd Beans),Chala,2014-08-26,8600.0,12.0,30.4,clear
+220,Green Gram (Moong),Chala,2014-08-26,8400.0,6.0,30.4,clear
+221,Bengal Gram(Gram),Chala,2014-08-29,6600.0,6.0,29.4,rain
+222,Black Gram (Urd Beans),Chala,2014-08-29,8600.0,12.0,29.4,rain
+223,Green Gram (Moong),Chala,2014-08-29,8400.0,6.0,29.4,rain
+224,Bengal Gram(Gram),Chala,2014-05-09,7000.0,6.0,31.8,clear
+225,Black Gram (Urd Beans),Chala,2014-05-09,8650.0,12.0,31.8,clear
+226,Green Gram (Moong),Chala,2014-05-09,8400.0,6.0,31.8,clear
+227,Bengal Gram(Gram),Chala,2014-09-16,6900.0,5.0,30.6,clear
+228,Black Gram (Urd Beans),Chala,2014-09-16,8650.0,10.0,30.6,clear
+229,Green Gram (Moong),Chala,2014-09-16,8400.0,5.0,30.6,clear
+230,Bengal Gram(Gram),Chala,2014-09-19,6900.0,5.0,30.6,clear
+231,Black Gram (Urd Beans),Chala,2014-09-19,8600.0,10.0,30.6,clear
+232,Green Gram (Moong),Chala,2014-09-19,8600.0,5.0,30.6,clear
+233,Bengal Gram(Gram),Chala,2014-09-23,6900.0,5.0,33.0,clear
+234,Black Gram (Urd Beans),Chala,2014-09-23,8550.0,10.0,33.0,clear
+235,Green Gram (Moong),Chala,2014-09-23,8400.0,5.0,33.0,clear
+236,Bengal Gram(Gram),Chala,2014-09-26,6900.0,5.0,31.6,rain
+237,Black Gram (Urd Beans),Chala,2014-09-26,8600.0,10.0,31.6,rain
+238,Green Gram (Moong),Chala,2014-09-26,8600.0,5.0,31.6,rain
+239,Bengal Gram(Gram),Chala,2014-09-30,6800.0,4.0,28.4,clear
+240,Black Gram (Urd Beans),Chala,2014-09-30,8300.0,8.0,28.4,clear
+241,Green Gram (Moong),Chala,2014-09-30,8500.0,4.0,28.4,clear
+242,Bengal Gram(Gram),Chala,2014-07-10,6700.0,4.0,29.2,rain
+243,Black Gram (Urd Beans),Chala,2014-07-10,8250.0,8.0,29.2,rain
+244,Green Gram (Moong),Chala,2014-07-10,8400.0,4.0,29.2,rain
+245,Bengal Gram(Gram),Chala,2014-10-10,6700.0,4.0,31.0,clear
+246,Black Gram (Urd Beans),Chala,2014-10-10,7900.0,8.0,31.0,clear
+247,Green Gram (Moong),Chala,2014-10-10,8400.0,4.0,31.0,clear
+248,Bengal Gram(Gram),Chala,2014-10-14,6700.0,4.0,32.0,rain
+249,Black Gram (Urd Beans),Chala,2014-10-14,8300.0,8.0,32.0,rain
+250,Green Gram (Moong),Chala,2014-10-14,8400.0,4.0,32.0,rain
+251,Bengal Gram(Gram),Chala,2014-10-17,6700.0,4.0,29.8,rain
+252,Black Gram (Urd Beans),Chala,2014-10-17,8000.0,8.0,29.8,rain
+253,Green Gram (Moong),Chala,2014-10-17,8600.0,4.0,29.8,rain
+254,Bengal Gram(Gram),Chala,2014-10-21,6700.0,4.0,26.0,clear
+255,Black Gram (Urd Beans),Chala,2014-10-21,8000.0,8.0,26.0,clear
+256,Green Gram (Moong),Chala,2014-10-21,8600.0,4.0,26.0,clear
+257,Bengal Gram(Gram),Chala,2014-10-24,6700.0,4.0,31.0,clear
+258,Black Gram (Urd Beans),Chala,2014-10-24,8000.0,8.0,31.0,clear
+259,Green Gram (Moong),Chala,2014-10-24,8600.0,4.0,31.0,clear
+260,Bengal Gram(Gram),Chala,2014-10-28,6700.0,4.0,32.0,clear
+261,Black Gram (Urd Beans),Chala,2014-10-28,7700.0,8.0,32.0,clear
+262,Green Gram (Moong),Chala,2014-10-28,8700.0,4.0,32.0,clear
+263,Bengal Gram(Gram),Chala,2014-10-31,6700.0,4.0,31.0,rain
+264,Black Gram (Urd Beans),Chala,2014-10-31,7700.0,8.0,31.0,rain
+265,Green Gram (Moong),Chala,2014-10-31,8700.0,4.0,31.0,rain
+266,Bengal Gram(Gram),Chala,2014-07-11,6600.0,4.0,30.4,clear
+267,Black Gram (Urd Beans),Chala,2014-07-11,7600.0,8.0,30.4,clear
+268,Green Gram (Moong),Chala,2014-07-11,9000.0,4.0,30.4,clear
+269,Bengal Gram(Gram),Chala,2014-11-11,6600.0,4.0,31.6,rain
+270,Black Gram (Urd Beans),Chala,2014-11-11,7300.0,8.0,31.6,rain
+271,Green Gram (Moong),Chala,2014-11-11,9500.0,4.0,31.6,rain
+272,Bengal Gram(Gram),Chala,2014-11-14,6600.0,4.0,30.4,clear
+273,Black Gram (Urd Beans),Chala,2014-11-14,7500.0,8.0,30.4,clear
+274,Green Gram (Moong),Chala,2014-11-14,9800.0,4.0,30.4,clear
+275,Bengal Gram(Gram),Chala,2014-11-25,6600.0,4.0,27.6,clear
+276,Black Gram (Urd Beans),Chala,2014-11-25,7600.0,8.0,27.6,clear
+277,Green Gram (Moong),Chala,2014-11-25,9600.0,4.0,27.6,clear
+278,Bengal Gram(Gram),Chala,2014-12-16,7200.0,4.0,31.6,clear
+279,Black Gram (Urd Beans),Chala,2014-12-16,7200.0,4.0,31.6,clear
+280,Green Gram (Moong),Chala,2014-12-16,9200.0,4.0,31.6,clear
+281,Bengal Gram(Gram),Chala,2014-12-23,4300.0,70.0,31.2,clear
+282,Black Gram (Urd Beans),Chala,2014-12-23,4300.0,4.0,31.2,clear
+283,Green Gram (Moong),Chala,2014-12-23,9500.0,4.0,31.2,clear
+284,Black Gram (Urd Beans),Chala,2014-01-31,6000.0,10.0,32.6,clear
+285,Green Gram (Moong),Chala,2014-01-31,9000.0,5.0,32.6,clear
+286,Black Gram (Urd Beans),Chala,2014-04-11,7900.0,8.0,33.8,clear
+287,Black Gram (Urd Beans),Chala,2014-12-12,8000.0,4.0,30.8,clear
+288,Green Gram (Moong),Chala,2014-12-12,9225.0,4.0,30.8,clear
+289,Black Gram (Urd Beans),Chala,2014-12-26,7800.0,4.0,29.6,clear
+290,Green Gram (Moong),Chala,2014-12-26,9600.0,4.0,29.6,clear
+291,Green Gram (Moong),Chala,2014-09-12,9300.0,4.0,31.4,clear
+292,Bengal Gram(Gram),Chala,2015-03-07,5400.0,70.0,33.8,clear
+293,Black Gram (Urd Beans),Chala,2015-03-07,10300.0,8.0,33.8,clear
+294,Green Gram (Moong),Chala,2015-03-07,10300.0,8.0,33.8,clear
+295,Bengal Gram(Gram),Chala,2015-07-07,5400.0,70.0,31.0,clear
+296,Black Gram (Urd Beans),Chala,2015-07-07,10300.0,8.0,31.0,clear
+297,Green Gram (Moong),Chala,2015-07-07,8625.0,4.0,31.0,clear
+298,Bengal Gram(Gram),Chala,2015-10-07,6850.0,70.0,31.6,rain
+299,Black Gram (Urd Beans),Chala,2015-10-07,10650.0,8.0,31.6,rain
+300,Green Gram (Moong),Chala,2015-10-07,9600.0,4.0,31.6,rain
+301,Bengal Gram(Gram),Chala,2015-07-14,6850.0,70.0,32.0,clear
+302,Black Gram (Urd Beans),Chala,2015-07-14,10650.0,8.0,32.0,clear
+303,Green Gram (Moong),Chala,2015-07-14,9600.0,4.0,32.0,clear
+304,Bengal Gram(Gram),Chala,2015-07-21,6600.0,70.0,31.2,clear
+305,Black Gram (Urd Beans),Chala,2015-07-21,8400.0,4.0,31.2,clear
+306,Green Gram (Moong),Chala,2015-07-21,8400.0,4.0,31.2,clear
+307,Bengal Gram(Gram),Chala,2015-07-28,6950.0,10.0,33.0,clear
+308,Black Gram (Urd Beans),Chala,2015-07-28,10300.0,8.0,33.0,clear
+309,Green Gram (Moong),Chala,2015-07-28,9000.0,4.0,33.0,clear
+310,Bengal Gram(Gram),Chala,2015-07-31,6800.0,7.0,30.2,clear
+311,Black Gram (Urd Beans),Chala,2015-07-31,10800.0,10.0,30.2,clear
+312,Green Gram (Moong),Chala,2015-07-31,9000.0,4.0,30.2,clear
+313,Bengal Gram(Gram),Chala,2015-07-08,6650.0,70.0,31.2,clear
+314,Black Gram (Urd Beans),Chala,2015-07-08,10800.0,8.0,31.2,clear
+315,Green Gram (Moong),Chala,2015-07-08,9000.0,4.0,31.2,clear
+316,Bengal Gram(Gram),Chala,2015-08-18,6650.0,70.0,32.6,rain
+317,Black Gram (Urd Beans),Chala,2015-08-18,10800.0,8.0,32.6,rain
+318,Green Gram (Moong),Chala,2015-08-18,9000.0,4.0,32.6,rain
+319,Bengal Gram(Gram),Chala,2015-08-21,6650.0,70.0,31.2,clear
+320,Black Gram (Urd Beans),Chala,2015-08-21,10800.0,8.0,31.2,clear
+321,Green Gram (Moong),Chala,2015-08-21,10800.0,8.0,31.2,clear
+322,Bengal Gram(Gram),Chala,2015-08-25,6650.0,70.0,32.0,clear
+323,Black Gram (Urd Beans),Chala,2015-08-25,10800.0,8.0,32.0,clear
+324,Green Gram (Moong),Chala,2015-08-25,9000.0,4.0,32.0,clear
+325,Bengal Gram(Gram),Chala,2015-01-09,6650.0,70.0,30.2,clear
+326,Black Gram (Urd Beans),Chala,2015-01-09,10800.0,8.0,30.2,clear
+327,Green Gram (Moong),Chala,2015-01-09,9000.0,4.0,30.2,clear
+328,Bengal Gram(Gram),Chala,2015-04-09,6850.0,7.0,33.0,rain
+329,Black Gram (Urd Beans),Chala,2015-04-09,11150.0,8.0,33.0,rain
+330,Green Gram (Moong),Chala,2015-04-09,11150.0,8.0,33.0,rain
+331,Bengal Gram(Gram),Chala,2015-08-09,6850.0,7.0,31.0,clear
+332,Black Gram (Urd Beans),Chala,2015-08-09,11150.0,8.0,31.0,clear
+333,Green Gram (Moong),Chala,2015-08-09,8600.0,4.0,31.0,clear
+334,Bengal Gram(Gram),Chala,2015-11-09,6850.0,4.0,29.4,rain
+335,Black Gram (Urd Beans),Chala,2015-11-09,10300.0,8.0,29.4,rain
+336,Green Gram (Moong),Chala,2015-11-09,8600.0,4.0,29.4,rain
+337,Bengal Gram(Gram),Chala,2015-09-15,6850.0,7.0,29.8,rain
+338,Black Gram (Urd Beans),Chala,2015-09-15,11750.0,8.0,29.8,rain
+339,Green Gram (Moong),Chala,2015-09-15,8600.0,4.0,29.8,rain
+340,Bengal Gram(Gram),Chala,2015-09-18,6950.0,7.0,30.8,clear
+341,Black Gram (Urd Beans),Chala,2015-09-18,11650.0,8.0,30.8,clear
+342,Green Gram (Moong),Chala,2015-09-18,11650.0,8.0,30.8,clear
+343,Bengal Gram(Gram),Chala,2015-09-22,6950.0,7.0,31.6,clear
+344,Black Gram (Urd Beans),Chala,2015-09-22,11650.0,8.0,31.6,clear
+345,Green Gram (Moong),Chala,2015-09-22,8600.0,4.0,31.6,clear
+346,Bengal Gram(Gram),Chala,2015-09-25,7000.0,7.0,32.8,rain
+347,Black Gram (Urd Beans),Chala,2015-09-25,12200.0,8.0,32.8,rain
+348,Green Gram (Moong),Chala,2015-09-25,8600.0,4.0,32.8,rain
+349,Bengal Gram(Gram),Chala,2015-09-29,7000.0,7.0,30.0,rain
+350,Black Gram (Urd Beans),Chala,2015-09-29,12200.0,8.0,30.0,rain
+351,Green Gram (Moong),Chala,2015-09-29,8600.0,4.0,30.0,rain
+352,Bengal Gram(Gram),Chala,2015-06-10,7000.0,7.0,32.4,clear
+353,Black Gram (Urd Beans),Chala,2015-06-10,12200.0,8.0,32.4,clear
+354,Green Gram (Moong),Chala,2015-06-10,12200.0,8.0,32.4,clear
+355,Bengal Gram(Gram),Chala,2015-09-10,7200.0,7.0,28.8,clear
+356,Black Gram (Urd Beans),Chala,2015-09-10,12500.0,0.0,28.8,clear
+357,Green Gram (Moong),Chala,2015-09-10,10000.0,4.0,28.8,clear
+358,Bengal Gram(Gram),Chala,2015-10-13,7200.0,7.0,31.4,rain
+359,Black Gram (Urd Beans),Chala,2015-10-13,12500.0,8.0,31.4,rain
+360,Green Gram (Moong),Chala,2015-10-13,10000.0,4.0,31.4,rain
+361,Bengal Gram(Gram),Chala,2015-10-16,7600.0,7.0,31.4,clear
+362,Black Gram (Urd Beans),Chala,2015-10-16,13600.0,8.0,31.4,clear
+363,Green Gram (Moong),Chala,2015-10-16,10000.0,4.0,31.4,clear
+364,Bengal Gram(Gram),Chala,2015-10-20,7600.0,7.0,30.6,clear
+365,Black Gram (Urd Beans),Chala,2015-10-20,13600.0,8.0,30.6,clear
+366,Green Gram (Moong),Chala,2015-10-20,10000.0,4.0,30.6,clear
+367,Bengal Gram(Gram),Chala,2015-10-30,8200.0,7.0,30.0,rain
+368,Black Gram (Urd Beans),Chala,2015-10-30,16100.0,8.0,30.0,rain
+369,Green Gram (Moong),Chala,2015-10-30,10000.0,4.0,30.0,rain
+370,Bengal Gram(Gram),Chala,2015-06-11,8200.0,7.0,30.8,rain
+371,Black Gram (Urd Beans),Chala,2015-06-11,16100.0,8.0,30.8,rain
+372,Green Gram (Moong),Chala,2015-06-11,10000.0,4.0,30.8,rain
+373,Bengal Gram(Gram),Chala,2015-11-13,8400.0,7.0,25.4,clear
+374,Black Gram (Urd Beans),Chala,2015-11-13,15750.0,8.0,25.4,clear
+375,Green Gram (Moong),Chala,2015-11-13,15750.0,8.0,25.4,clear
+376,Bengal Gram(Gram),Chala,2015-11-17,8400.0,7.0,32.0,clear
+377,Black Gram (Urd Beans),Chala,2015-11-17,15750.0,8.0,32.0,clear
+378,Green Gram (Moong),Chala,2015-11-17,9600.0,4.0,32.0,clear
+379,Bengal Gram(Gram),Chala,2015-11-24,8400.0,7.0,31.0,clear
+380,Black Gram (Urd Beans),Chala,2015-11-24,15750.0,8.0,31.0,clear
+381,Green Gram (Moong),Chala,2015-11-24,9600.0,4.0,31.0,clear
+382,Bengal Gram(Gram),Chala,2015-11-27,5600.0,7.0,31.4,rain
+383,Black Gram (Urd Beans),Chala,2015-11-27,12200.0,8.0,31.4,rain
+384,Green Gram (Moong),Chala,2015-11-27,9400.0,4.0,31.4,rain
+385,Black Gram (Urd Beans),Chala,2015-06-01,7900.0,4.0,31.6,clear
+386,Green Gram (Moong),Chala,2015-06-01,9000.0,4.0,31.6,clear
+387,Black Gram (Urd Beans),Chala,2015-09-01,4600.0,4.0,33.6,clear
+388,Green Gram (Moong),Chala,2015-09-01,9600.0,4.0,33.6,clear
+389,Black Gram (Urd Beans),Chala,2015-01-13,8000.0,4.0,31.2,clear
+390,Green Gram (Moong),Chala,2015-01-13,8800.0,4.0,31.2,clear
+391,Black Gram (Urd Beans),Chala,2015-01-16,8000.0,4.0,31.8,clear
+392,Green Gram (Moong),Chala,2015-01-16,9000.0,4.0,31.8,clear
+393,Black Gram (Urd Beans),Chala,2015-01-20,8000.0,4.0,32.2,clear
+394,Green Gram (Moong),Chala,2015-01-20,9200.0,4.0,32.2,clear
+395,Black Gram (Urd Beans),Chala,2015-01-23,8000.0,8.0,31.6,clear
+396,Green Gram (Moong),Chala,2015-01-23,9200.0,4.0,31.6,clear
+397,Black Gram (Urd Beans),Chala,2015-01-30,8200.0,8.0,32.0,clear
+398,Green Gram (Moong),Chala,2015-01-30,9600.0,4.0,32.0,clear
+399,Black Gram (Urd Beans),Chala,2015-03-02,8100.0,8.0,33.2,clear
+400,Green Gram (Moong),Chala,2015-03-02,9600.0,4.0,33.2,clear
+401,Black Gram (Urd Beans),Chala,2015-06-02,8000.0,8.0,32.4,clear
+402,Green Gram (Moong),Chala,2015-06-02,9000.0,4.0,32.4,clear
+403,Black Gram (Urd Beans),Chala,2015-10-02,8000.0,8.0,31.2,clear
+404,Green Gram (Moong),Chala,2015-10-02,9000.0,4.0,31.2,clear
+405,Black Gram (Urd Beans),Chala,2015-02-20,8100.0,8.0,32.2,clear
+406,Green Gram (Moong),Chala,2015-02-20,9600.0,4.0,32.2,clear
+407,Black Gram (Urd Beans),Chala,2015-02-24,8100.0,8.0,33.0,clear
+408,Green Gram (Moong),Chala,2015-02-24,9600.0,4.0,33.0,clear
+409,Black Gram (Urd Beans),Chala,2015-02-27,7800.0,8.0,32.8,clear
+410,Green Gram (Moong),Chala,2015-02-27,9000.0,4.0,32.8,clear
+411,Black Gram (Urd Beans),Chala,2015-03-03,7800.0,8.0,32.4,clear
+412,Green Gram (Moong),Chala,2015-03-03,9000.0,4.0,32.4,clear
+413,Black Gram (Urd Beans),Chala,2015-06-03,7900.0,8.0,32.4,rain
+414,Green Gram (Moong),Chala,2015-06-03,9000.0,4.0,32.4,rain
+415,Black Gram (Urd Beans),Chala,2015-03-17,7900.0,8.0,32.8,clear
+416,Green Gram (Moong),Chala,2015-03-17,9000.0,4.0,32.8,clear
+417,Black Gram (Urd Beans),Chala,2015-03-20,8200.0,8.0,33.0,clear
+418,Green Gram (Moong),Chala,2015-03-20,9400.0,4.0,33.0,clear
+419,Black Gram (Urd Beans),Chala,2015-03-24,8200.0,8.0,34.0,clear
+420,Green Gram (Moong),Chala,2015-03-24,9400.0,4.0,34.0,clear
+421,Black Gram (Urd Beans),Chala,2015-03-27,8300.0,8.0,34.6,clear
+422,Green Gram (Moong),Chala,2015-03-27,9300.0,4.0,34.6,clear
+423,Black Gram (Urd Beans),Chala,2015-07-04,8300.0,8.0,31.8,clear
+424,Green Gram (Moong),Chala,2015-07-04,9300.0,4.0,31.8,clear
+425,Black Gram (Urd Beans),Chala,2015-10-04,8600.0,8.0,29.0,clear
+426,Green Gram (Moong),Chala,2015-10-04,9400.0,4.0,29.0,clear
+427,Black Gram (Urd Beans),Chala,2015-04-21,8600.0,8.0,30.4,rain
+428,Green Gram (Moong),Chala,2015-04-21,9400.0,4.0,30.4,rain
+429,Black Gram (Urd Beans),Chala,2015-04-24,9200.0,8.0,33.2,rain
+430,Green Gram (Moong),Chala,2015-04-24,9400.0,4.0,33.2,rain
+431,Black Gram (Urd Beans),Chala,2015-05-05,9200.0,8.0,33.0,clear
+432,Green Gram (Moong),Chala,2015-05-05,9400.0,4.0,33.0,clear
+433,Black Gram (Urd Beans),Chala,2015-08-05,11000.0,8.0,30.6,clear
+434,Green Gram (Moong),Chala,2015-08-05,9600.0,4.0,30.6,clear
+435,Black Gram (Urd Beans),Chala,2015-12-05,11000.0,8.0,31.0,clear
+436,Green Gram (Moong),Chala,2015-12-05,9600.0,4.0,31.0,clear
+437,Black Gram (Urd Beans),Chala,2015-05-15,10800.0,8.0,32.4,clear
+438,Green Gram (Moong),Chala,2015-05-15,9400.0,4.0,32.4,clear
+439,Black Gram (Urd Beans),Chala,2015-05-19,10800.0,8.0,29.2,rain
+440,Green Gram (Moong),Chala,2015-05-19,9400.0,4.0,29.2,rain
+441,Black Gram (Urd Beans),Chala,2015-05-22,11000.0,8.0,32.4,clear
+442,Green Gram (Moong),Chala,2015-05-22,9600.0,4.0,32.4,clear
+443,Black Gram (Urd Beans),Chala,2015-05-26,11000.0,8.0,32.2,clear
+444,Green Gram (Moong),Chala,2015-05-26,9600.0,4.0,32.2,clear
+445,Black Gram (Urd Beans),Chala,2015-05-29,11000.0,8.0,32.8,rain
+446,Green Gram (Moong),Chala,2015-05-29,9600.0,4.0,32.8,rain
+447,Black Gram (Urd Beans),Chala,2015-02-06,11000.0,8.0,33.2,clear
+448,Black Gram (Urd Beans),Chala,2015-06-16,11000.0,8.0,31.2,clear
+449,Green Gram (Moong),Chala,2015-06-16,8500.0,4.0,31.2,clear
+450,Black Gram (Urd Beans),Chala,2015-06-19,11000.0,8.0,31.0,clear
+451,Green Gram (Moong),Chala,2015-06-19,8500.0,4.0,31.0,clear
+452,Black Gram (Urd Beans),Chala,2015-06-23,11000.0,8.0,30.6,clear
+453,Green Gram (Moong),Chala,2015-06-23,8500.0,4.0,30.6,clear
+454,Black Gram (Urd Beans),Chala,2015-06-26,11000.0,8.0,30.6,clear
+455,Green Gram (Moong),Chala,2015-06-26,8625.0,4.0,30.6,clear
+456,Black Gram (Urd Beans),Chala,2015-06-30,11000.0,8.0,31.4,clear
+457,Green Gram (Moong),Chala,2015-06-30,8600.0,4.0,31.4,clear
+458,Black Gram (Urd Beans),Chala,2015-01-12,15000.0,8.0,31.8,clear
+459,Green Gram (Moong),Chala,2015-01-12,9400.0,4.0,31.8,clear
+460,Black Gram (Urd Beans),Chala,2015-04-12,15500.0,8.0,32.4,clear
+461,Green Gram (Moong),Chala,2015-04-12,9600.0,4.0,32.4,clear
+462,Black Gram (Urd Beans),Chala,2015-08-12,15500.0,8.0,30.6,clear
+463,Green Gram (Moong),Chala,2015-08-12,9600.0,4.0,30.6,clear
+464,Black Gram (Urd Beans),Chala,2015-11-12,15200.0,8.0,30.4,rain
+465,Green Gram (Moong),Chala,2015-11-12,9600.0,4.0,30.4,rain
+466,Black Gram (Urd Beans),Chala,2015-12-15,15200.0,8.0,31.8,rain
+467,Green Gram (Moong),Chala,2015-12-15,9600.0,4.0,31.8,rain
+468,Black Gram (Urd Beans),Chala,2015-12-22,15200.0,8.0,31.4,clear
+469,Green Gram (Moong),Chala,2015-12-22,9400.0,8.0,31.4,clear
+470,Black Gram (Urd Beans),Chala,2015-12-29,15200.0,8.0,33.4,clear
+471,Green Gram (Moong),Chala,2015-12-29,9400.0,4.0,33.4,clear
+472,Green Gram (Moong),Chala,2015-04-28,9400.0,4.0,32.2,clear
+473,Green Gram (Moong),Chala,2015-07-17,8400.0,4.0,28.2,clear
+474,Bengal Gram(Gram),Chala,2016-01-29,8600.0,8.0,31.0,clear
+475,Black Gram (Urd Beans),Chala,2016-01-29,14050.0,8.0,31.0,clear
+476,Green Gram (Moong),Chala,2016-01-29,9600.0,4.0,31.0,clear
+477,Bengal Gram(Gram),Chala,2016-02-02,8450.0,7.0,32.6,clear
+478,Black Gram (Urd Beans),Chala,2016-02-02,14050.0,8.0,32.6,clear
+479,Green Gram (Moong),Chala,2016-02-02,9600.0,4.0,32.6,clear
+480,Bengal Gram(Gram),Chala,2016-12-02,8850.0,8.0,32.0,clear
+481,Black Gram (Urd Beans),Chala,2016-12-02,14000.0,8.0,32.0,clear
+482,Green Gram (Moong),Chala,2016-12-02,9600.0,4.0,32.0,clear
+483,Bengal Gram(Gram),Chala,2016-02-16,8850.0,8.0,34.2,clear
+484,Black Gram (Urd Beans),Chala,2016-02-16,14000.0,8.0,34.2,clear
+485,Green Gram (Moong),Chala,2016-02-16,9600.0,4.0,34.2,clear
+486,Bengal Gram(Gram),Chala,2016-04-03,7400.0,8.0,35.0,clear
+487,Black Gram (Urd Beans),Chala,2016-04-03,12500.0,8.0,35.0,clear
+488,Green Gram (Moong),Chala,2016-04-03,9000.0,4.0,35.0,clear
+489,Bengal Gram(Gram),Chala,2016-08-03,7400.0,8.0,30.6,rain
+490,Black Gram (Urd Beans),Chala,2016-08-03,12500.0,8.0,30.6,rain
+491,Green Gram (Moong),Chala,2016-08-03,9000.0,4.0,30.6,rain
+492,Bengal Gram(Gram),Chala,2016-11-03,6400.0,8.0,30.4,clear
+493,Black Gram (Urd Beans),Chala,2016-11-03,12700.0,8.0,30.4,clear
+494,Green Gram (Moong),Chala,2016-11-03,8900.0,4.0,30.4,clear
+495,Bengal Gram(Gram),Chala,2016-03-18,8000.0,8.0,34.4,clear
+496,Black Gram (Urd Beans),Chala,2016-03-18,12850.0,8.0,34.4,clear
+497,Green Gram (Moong),Chala,2016-03-18,9000.0,4.0,34.4,clear
+498,Bengal Gram(Gram),Chala,2016-03-29,8000.0,8.0,33.0,clear
+499,Black Gram (Urd Beans),Chala,2016-03-29,12850.0,8.0,33.0,clear
+500,Green Gram (Moong),Chala,2016-03-29,9000.0,4.0,33.0,clear
+501,Bengal Gram(Gram),Chala,2016-05-04,9000.0,8.0,35.2,rain
+502,Black Gram (Urd Beans),Chala,2016-05-04,12600.0,8.0,35.2,rain
+503,Green Gram (Moong),Chala,2016-05-04,9600.0,4.0,35.2,rain
+504,Bengal Gram(Gram),Chala,2016-08-04,9300.0,8.0,30.0,clear
+505,Black Gram (Urd Beans),Chala,2016-08-04,14100.0,8.0,30.0,clear
+506,Green Gram (Moong),Chala,2016-08-04,9000.0,4.0,30.0,clear
+507,Bengal Gram(Gram),Chala,2016-04-15,10800.0,8.0,34.0,clear
+508,Black Gram (Urd Beans),Chala,2016-04-15,14600.0,8.0,34.0,clear
+509,Green Gram (Moong),Chala,2016-04-15,9400.0,4.0,34.0,clear
+510,Bengal Gram(Gram),Chala,2016-04-19,10800.0,8.0,33.6,clear
+511,Black Gram (Urd Beans),Chala,2016-04-19,14600.0,8.0,33.6,clear
+512,Green Gram (Moong),Chala,2016-04-19,9400.0,4.0,33.6,clear
+513,Bengal Gram(Gram),Chala,2016-04-22,8800.0,8.0,35.2,clear
+514,Black Gram (Urd Beans),Chala,2016-04-22,16000.0,8.0,35.2,clear
+515,Green Gram (Moong),Chala,2016-04-22,9600.0,4.0,35.2,clear
+516,Bengal Gram(Gram),Chala,2016-04-26,8800.0,8.0,34.6,clear
+517,Black Gram (Urd Beans),Chala,2016-04-26,16000.0,8.0,34.6,clear
+518,Green Gram (Moong),Chala,2016-04-26,9600.0,4.0,34.6,clear
+519,Bengal Gram(Gram),Chala,2016-04-30,9000.0,8.0,35.0,clear
+520,Black Gram (Urd Beans),Chala,2016-04-30,16100.0,8.0,35.0,clear
+521,Green Gram (Moong),Chala,2016-04-30,9400.0,4.0,35.0,clear
+522,Bengal Gram(Gram),Chala,2016-03-05,9000.0,8.0,33.4,clear
+523,Black Gram (Urd Beans),Chala,2016-03-05,16100.0,8.0,33.4,clear
+524,Green Gram (Moong),Chala,2016-03-05,9400.0,4.0,33.4,clear
+525,Bengal Gram(Gram),Chala,2016-06-05,9000.0,8.0,32.0,clear
+526,Black Gram (Urd Beans),Chala,2016-06-05,15900.0,8.0,32.0,clear
+527,Green Gram (Moong),Chala,2016-06-05,9000.0,4.0,32.0,clear
+528,Bengal Gram(Gram),Chala,2016-10-05,9000.0,8.0,32.0,clear
+529,Black Gram (Urd Beans),Chala,2016-10-05,15900.0,8.0,32.0,clear
+530,Green Gram (Moong),Chala,2016-10-05,9000.0,4.0,32.0,clear
+531,Bengal Gram(Gram),Chala,2016-05-13,9000.0,8.0,33.4,rain
+532,Black Gram (Urd Beans),Chala,2016-05-13,15650.0,8.0,33.4,rain
+533,Green Gram (Moong),Chala,2016-05-13,9050.0,4.0,33.4,rain
+534,Bengal Gram(Gram),Chala,2016-05-17,9000.0,8.0,26.2,rain
+535,Black Gram (Urd Beans),Chala,2016-05-17,15650.0,8.0,26.2,rain
+536,Green Gram (Moong),Chala,2016-05-17,9050.0,4.0,26.2,rain
+537,Bengal Gram(Gram),Chala,2016-05-20,9000.0,8.0,28.0,clear
+538,Black Gram (Urd Beans),Chala,2016-05-20,15750.0,4.0,28.0,clear
+539,Green Gram (Moong),Chala,2016-05-20,8500.0,4.0,28.0,clear
+540,Bengal Gram(Gram),Chala,2016-05-24,9000.0,8.0,30.6,rain
+541,Black Gram (Urd Beans),Chala,2016-05-24,15750.0,8.0,30.6,rain
+542,Green Gram (Moong),Chala,2016-05-24,8500.0,4.0,30.6,rain
+543,Bengal Gram(Gram),Chala,2016-05-27,9000.0,8.0,29.8,clear
+544,Black Gram (Urd Beans),Chala,2016-05-27,15650.0,8.0,29.8,clear
+545,Green Gram (Moong),Chala,2016-05-27,9200.0,4.0,29.8,clear
+546,Bengal Gram(Gram),Chala,2016-05-31,9000.0,8.0,31.2,clear
+547,Black Gram (Urd Beans),Chala,2016-05-31,15650.0,8.0,31.2,clear
+548,Green Gram (Moong),Chala,2016-05-31,9200.0,4.0,31.2,clear
+549,Bengal Gram(Gram),Chala,2016-03-06,11000.0,8.0,33.6,clear
+550,Black Gram (Urd Beans),Chala,2016-03-06,15400.0,8.0,33.6,clear
+551,Green Gram (Moong),Chala,2016-03-06,8800.0,4.0,33.6,clear
+552,Bengal Gram(Gram),Chala,2016-07-06,11000.0,8.0,31.6,clear
+553,Black Gram (Urd Beans),Chala,2016-07-06,15400.0,8.0,31.6,clear
+554,Bengal Gram(Gram),Chala,2016-06-14,11000.0,8.0,30.8,rain
+555,Black Gram (Urd Beans),Chala,2016-06-14,15400.0,8.0,30.8,rain
+556,Green Gram (Moong),Chala,2016-06-14,8800.0,4.0,30.8,rain
+557,Bengal Gram(Gram),Chala,2016-06-17,9000.0,8.0,28.2,clear
+558,Black Gram (Urd Beans),Chala,2016-06-17,15500.0,8.0,28.2,clear
+559,Green Gram (Moong),Chala,2016-06-17,9000.0,4.0,28.2,clear
+560,Bengal Gram(Gram),Chala,2016-06-21,9000.0,8.0,29.0,rain
+561,Black Gram (Urd Beans),Chala,2016-06-21,15500.0,8.0,29.0,rain
+562,Green Gram (Moong),Chala,2016-06-21,9000.0,4.0,29.0,rain
+563,Bengal Gram(Gram),Chala,2016-06-24,9000.0,8.0,29.8,clear
+564,Black Gram (Urd Beans),Chala,2016-06-24,14900.0,8.0,29.8,clear
+565,Green Gram (Moong),Chala,2016-06-24,7400.0,4.0,29.8,clear
+566,Bengal Gram(Gram),Chala,2016-06-28,9000.0,8.0,29.0,clear
+567,Black Gram (Urd Beans),Chala,2016-06-28,14900.0,8.0,29.0,clear
+568,Green Gram (Moong),Chala,2016-06-28,7400.0,4.0,29.0,clear
+569,Bengal Gram(Gram),Chala,2016-01-07,10000.0,8.0,33.0,clear
+570,Black Gram (Urd Beans),Chala,2016-01-07,15100.0,8.0,33.0,clear
+571,Green Gram (Moong),Chala,2016-01-07,8000.0,4.0,33.0,clear
+572,Bengal Gram(Gram),Chala,2016-05-07,10000.0,8.0,34.8,clear
+573,Black Gram (Urd Beans),Chala,2016-05-07,15100.0,8.0,34.8,clear
+574,Green Gram (Moong),Chala,2016-05-07,15100.0,4.0,34.8,clear
+575,Bengal Gram(Gram),Chala,2016-08-07,13000.0,8.0,31.4,clear
+576,Black Gram (Urd Beans),Chala,2016-08-07,14900.0,8.0,31.4,clear
+577,Green Gram (Moong),Chala,2016-08-07,8000.0,4.0,31.4,clear
+578,Bengal Gram(Gram),Chala,2016-07-15,13800.0,8.0,29.8,clear
+579,Black Gram (Urd Beans),Chala,2016-07-15,14700.0,5.0,29.8,clear
+580,Green Gram (Moong),Chala,2016-07-15,7800.0,5.0,29.8,clear
+581,Bengal Gram(Gram),Chala,2016-07-22,10800.0,8.0,29.8,clear
+582,Black Gram (Urd Beans),Chala,2016-07-22,14500.0,10.0,29.8,clear
+583,Green Gram (Moong),Chala,2016-07-22,7800.0,5.0,29.8,clear
+584,Bengal Gram(Gram),Chala,2016-07-26,10800.0,8.0,30.8,clear
+585,Black Gram (Urd Beans),Chala,2016-07-26,14500.0,10.0,30.8,clear
+586,Green Gram (Moong),Chala,2016-07-26,7800.0,5.0,30.8,clear
+587,Bengal Gram(Gram),Chala,2016-07-29,10800.0,8.0,30.6,clear
+588,Black Gram (Urd Beans),Chala,2016-07-29,13650.0,10.0,30.6,clear
+589,Green Gram (Moong),Chala,2016-07-29,7800.0,5.0,30.6,clear
+590,Bengal Gram(Gram),Chala,2016-05-08,14600.0,8.0,35.0,clear
+591,Black Gram (Urd Beans),Chala,2016-05-08,13100.0,10.0,35.0,clear
+592,Green Gram (Moong),Chala,2016-05-08,7600.0,5.0,35.0,clear
+593,Bengal Gram(Gram),Chala,2016-08-08,14600.0,8.0,31.0,clear
+594,Black Gram (Urd Beans),Chala,2016-08-08,13100.0,10.0,31.0,clear
+595,Green Gram (Moong),Chala,2016-08-08,7600.0,5.0,31.0,clear
+596,Bengal Gram(Gram),Chala,2016-09-08,14600.0,8.0,30.6,clear
+597,Black Gram (Urd Beans),Chala,2016-09-08,13100.0,10.0,30.6,clear
+598,Green Gram (Moong),Chala,2016-09-08,7600.0,5.0,30.6,clear
+599,Bengal Gram(Gram),Chala,2016-11-08,14600.0,8.0,32.6,clear
+600,Black Gram (Urd Beans),Chala,2016-11-08,13100.0,10.0,32.6,clear
+601,Green Gram (Moong),Chala,2016-11-08,7600.0,5.0,32.6,clear
+602,Bengal Gram(Gram),Chala,2016-12-08,10500.0,8.0,31.0,clear
+603,Black Gram (Urd Beans),Chala,2016-12-08,13250.0,10.0,31.0,clear
+604,Green Gram (Moong),Chala,2016-12-08,7200.0,5.0,31.0,clear
+605,Bengal Gram(Gram),Chala,2016-08-16,10500.0,8.0,29.6,clear
+606,Black Gram (Urd Beans),Chala,2016-08-16,13650.0,10.0,29.6,clear
+607,Green Gram (Moong),Chala,2016-08-16,7200.0,5.0,29.6,clear
+608,Bengal Gram(Gram),Chala,2016-08-19,13000.0,8.0,30.8,clear
+609,Black Gram (Urd Beans),Chala,2016-08-19,12800.0,10.0,30.8,clear
+610,Green Gram (Moong),Chala,2016-08-19,7800.0,5.0,30.8,clear
+611,Bengal Gram(Gram),Chala,2016-08-23,13000.0,8.0,31.4,clear
+612,Black Gram (Urd Beans),Chala,2016-08-23,12800.0,10.0,31.4,clear
+613,Green Gram (Moong),Chala,2016-08-23,7600.0,5.0,31.4,clear
+614,Bengal Gram(Gram),Chala,2016-08-26,10200.0,8.0,29.0,clear
+615,Black Gram (Urd Beans),Chala,2016-08-26,12750.0,16.0,29.0,clear
+616,Green Gram (Moong),Chala,2016-08-26,7000.0,7.0,29.0,clear
+617,Bengal Gram(Gram),Chala,2016-08-30,10200.0,8.0,30.6,clear
+618,Black Gram (Urd Beans),Chala,2016-08-30,12750.0,16.0,30.6,clear
+619,Green Gram (Moong),Chala,2016-08-30,7000.0,7.0,30.6,clear
+620,Bengal Gram(Gram),Chala,2016-06-09,10200.0,8.0,29.4,rain
+621,Black Gram (Urd Beans),Chala,2016-06-09,12750.0,16.0,29.4,rain
+622,Green Gram (Moong),Chala,2016-06-09,7000.0,7.0,29.4,rain
+623,Bengal Gram(Gram),Chala,2016-09-09,14000.0,8.0,30.6,clear
+624,Black Gram (Urd Beans),Chala,2016-09-09,11500.0,16.0,30.6,clear
+625,Green Gram (Moong),Chala,2016-09-09,6800.0,7.0,30.6,clear
+626,Bengal Gram(Gram),Chala,2016-09-20,10200.0,8.0,31.4,clear
+627,Black Gram (Urd Beans),Chala,2016-09-20,10900.0,16.0,31.4,clear
+628,Green Gram (Moong),Chala,2016-09-20,7000.0,7.0,31.4,clear
+629,Bengal Gram(Gram),Chala,2016-09-23,10200.0,8.0,31.4,clear
+630,Black Gram (Urd Beans),Chala,2016-09-23,10900.0,16.0,31.4,clear
+631,Green Gram (Moong),Chala,2016-09-23,7000.0,7.0,31.4,clear
+632,Bengal Gram(Gram),Chala,2016-09-27,10500.0,8.0,31.8,clear
+633,Black Gram (Urd Beans),Chala,2016-09-27,11650.0,16.0,31.8,clear
+634,Green Gram (Moong),Chala,2016-09-27,7000.0,7.0,31.8,clear
+635,Bengal Gram(Gram),Chala,2016-09-30,10500.0,8.0,30.6,clear
+636,Black Gram (Urd Beans),Chala,2016-09-30,11650.0,16.0,30.6,clear
+637,Green Gram (Moong),Chala,2016-09-30,7000.0,7.0,30.6,clear
+638,Bengal Gram(Gram),Chala,2016-04-10,10500.0,8.0,33.6,clear
+639,Black Gram (Urd Beans),Chala,2016-04-10,11650.0,16.0,33.6,clear
+640,Green Gram (Moong),Chala,2016-04-10,7000.0,7.0,33.6,clear
+641,Bengal Gram(Gram),Chala,2016-07-10,15000.0,8.0,29.8,clear
+642,Black Gram (Urd Beans),Chala,2016-07-10,11850.0,16.0,29.8,clear
+643,Green Gram (Moong),Chala,2016-07-10,6800.0,7.0,29.8,clear
+644,Bengal Gram(Gram),Chala,2016-10-14,15300.0,8.0,32.4,clear
+645,Black Gram (Urd Beans),Chala,2016-10-14,11400.0,16.0,32.4,clear
+646,Green Gram (Moong),Chala,2016-10-14,7000.0,7.0,32.4,clear
+647,Bengal Gram(Gram),Chala,2016-10-18,15300.0,8.0,32.6,clear
+648,Black Gram (Urd Beans),Chala,2016-10-18,11400.0,16.0,32.6,clear
+649,Green Gram (Moong),Chala,2016-10-18,7000.0,7.0,32.6,clear
+650,Bengal Gram(Gram),Chala,2016-10-21,10500.0,8.0,26.8,clear
+651,Black Gram (Urd Beans),Chala,2016-10-21,11550.0,16.0,26.8,clear
+652,Green Gram (Moong),Chala,2016-10-21,6500.0,7.0,26.8,clear
+653,Bengal Gram(Gram),Chala,2016-10-25,10500.0,8.0,31.8,clear
+654,Black Gram (Urd Beans),Chala,2016-10-25,11550.0,16.0,31.8,clear
+655,Green Gram (Moong),Chala,2016-10-25,6500.0,7.0,31.8,clear
+656,Bengal Gram(Gram),Chala,2016-10-28,10500.0,8.0,32.0,clear
+657,Black Gram (Urd Beans),Chala,2016-10-28,11150.0,16.0,32.0,clear
+658,Green Gram (Moong),Chala,2016-10-28,6600.0,7.0,32.0,clear
+659,Bengal Gram(Gram),Chala,2016-01-11,10500.0,8.0,33.0,clear
+660,Bengal Gram(Gram),Chala,2016-08-11,10500.0,8.0,31.8,clear
+661,Black Gram (Urd Beans),Chala,2016-08-11,11150.0,16.0,31.8,clear
+662,Green Gram (Moong),Chala,2016-08-11,11150.0,16.0,31.8,clear
+663,Bengal Gram(Gram),Chala,2016-11-15,10500.0,8.0,30.6,clear
+664,Black Gram (Urd Beans),Chala,2016-11-15,11150.0,16.0,30.6,clear
+665,Green Gram (Moong),Chala,2016-11-15,6600.0,7.0,30.6,clear
+666,Bengal Gram(Gram),Chala,2016-11-18,14300.0,8.0,33.0,clear
+667,Black Gram (Urd Beans),Chala,2016-11-18,9750.0,16.0,33.0,clear
+668,Green Gram (Moong),Chala,2016-11-18,7000.0,7.0,33.0,clear
+669,Bengal Gram(Gram),Chala,2016-11-22,14300.0,8.0,31.0,clear
+670,Black Gram (Urd Beans),Chala,2016-11-22,9750.0,16.0,31.0,clear
+671,Green Gram (Moong),Chala,2016-11-22,7000.0,7.0,31.0,clear
+672,Bengal Gram(Gram),Chala,2016-11-25,14300.0,8.0,32.4,clear
+673,Black Gram (Urd Beans),Chala,2016-11-25,9700.0,16.0,32.4,clear
+674,Green Gram (Moong),Chala,2016-11-25,7000.0,7.0,32.4,clear
+675,Bengal Gram(Gram),Chala,2016-11-29,14300.0,8.0,32.8,clear
+676,Black Gram (Urd Beans),Chala,2016-11-29,9700.0,16.0,32.8,clear
+677,Green Gram (Moong),Chala,2016-11-29,7000.0,7.0,32.8,clear
+678,Bengal Gram(Gram),Chala,2016-02-12,14300.0,5.0,32.0,clear
+679,Black Gram (Urd Beans),Chala,2016-02-12,9700.0,8.0,32.0,clear
+680,Green Gram (Moong),Chala,2016-02-12,7000.0,3.0,32.0,clear
+681,Bengal Gram(Gram),Chala,2016-09-12,15000.0,5.0,31.0,clear
+682,Black Gram (Urd Beans),Chala,2016-09-12,9600.0,8.0,31.0,clear
+683,Green Gram (Moong),Chala,2016-09-12,7000.0,3.0,31.0,clear
+684,Bengal Gram(Gram),Chala,2016-12-13,15000.0,5.0,29.6,clear
+685,Black Gram (Urd Beans),Chala,2016-12-13,9600.0,8.0,29.6,clear
+686,Green Gram (Moong),Chala,2016-12-13,7000.0,3.0,29.6,clear
+687,Bengal Gram(Gram),Chala,2016-12-16,12000.0,5.0,32.4,clear
+688,Black Gram (Urd Beans),Chala,2016-12-16,9300.0,8.0,32.4,clear
+689,Green Gram (Moong),Chala,2016-12-16,7000.0,3.0,32.4,clear
+690,Bengal Gram(Gram),Chala,2016-12-20,12000.0,5.0,31.2,clear
+691,Black Gram (Urd Beans),Chala,2016-12-20,9300.0,8.0,31.2,clear
+692,Green Gram (Moong),Chala,2016-12-20,7000.0,3.0,31.2,clear
+693,Black Gram (Urd Beans),Chala,2016-01-01,14700.0,8.0,34.8,clear
+694,Green Gram (Moong),Chala,2016-01-01,9400.0,4.0,34.8,clear
+695,Black Gram (Urd Beans),Chala,2016-05-01,14700.0,8.0,34.0,clear
+696,Green Gram (Moong),Chala,2016-05-01,9400.0,4.0,34.0,clear
+697,Black Gram (Urd Beans),Chala,2016-08-01,14600.0,8.0,31.0,clear
+698,Green Gram (Moong),Chala,2016-08-01,9300.0,4.0,31.0,clear
+699,Black Gram (Urd Beans),Chala,2016-12-01,14600.0,8.0,30.4,clear
+700,Green Gram (Moong),Chala,2016-12-01,9300.0,4.0,30.4,clear
+701,Black Gram (Urd Beans),Chala,2016-01-19,14600.0,8.0,33.2,clear
+702,Green Gram (Moong),Chala,2016-01-19,9300.0,4.0,33.2,clear
+703,Black Gram (Urd Beans),Chala,2016-01-22,14000.0,8.0,32.4,clear
+704,Green Gram (Moong),Chala,2016-01-22,9000.0,4.0,32.4,clear
+705,Black Gram (Urd Beans),Chala,2016-01-03,13800.0,8.0,32.4,clear
+706,Green Gram (Moong),Chala,2016-01-03,9400.0,4.0,32.4,clear
+707,Black Gram (Urd Beans),Chala,2016-01-04,12600.0,8.0,32.4,clear
+708,Green Gram (Moong),Chala,2016-01-04,9600.0,4.0,32.4,clear
+709,Black Gram (Urd Beans),Chala,2016-12-04,14100.0,8.0,33.0,clear
+710,Green Gram (Moong),Chala,2016-12-04,9000.0,4.0,33.0,clear
+711,Green Gram (Moong),Chala,2016-12-23,7000.0,3.0,33.2,clear
+712,Green Gram (Moong),Chala,2016-12-27,8900.0,3.0,32.0,rain
+713,Green Gram (Moong),Chala,2017-03-01,6800.0,3.0,33.4,clear
+714,Green Gram (Moong),Chala,2017-06-01,6600.0,3.0,29.2,clear
+715,Green Gram (Moong),Chala,2017-10-01,6600.0,3.0,31.0,clear
+716,Green Gram (Moong),Chala,2017-01-17,6600.0,3.0,33.0,clear
+717,Green Gram (Moong),Chala,2017-01-20,6600.0,3.0,32.0,clear
+718,Green Gram (Moong),Chala,2017-01-24,6600.0,3.0,33.0,clear
+719,Green Gram (Moong),Chala,2017-01-31,6600.0,3.0,32.0,clear
+720,Green Gram (Moong),Chala,2017-03-02,6600.0,3.0,33.4,clear
+721,Green Gram (Moong),Chala,2017-07-02,6600.0,3.0,31.0,clear
+722,Green Gram (Moong),Chala,2017-10-02,6600.0,3.0,31.0,clear
+723,Green Gram (Moong),Chala,2017-02-14,6600.0,3.0,33.6,clear
+724,Green Gram (Moong),Chala,2017-02-17,6600.0,3.0,33.6,clear
+725,Green Gram (Moong),Chala,2017-02-21,6600.0,3.0,32.0,clear
+726,Green Gram (Moong),Chala,2017-03-03,7826.0,3.0,34.0,clear
+727,Green Gram (Moong),Chala,2017-07-03,7800.0,3.0,29.4,clear
+728,Green Gram (Moong),Chala,2017-10-03,7800.0,3.0,31.2,clear
+729,Green Gram (Moong),Chala,2017-03-14,7800.0,3.0,34.6,clear
+730,Green Gram (Moong),Chala,2017-03-17,6800.0,3.0,32.4,clear
+731,Green Gram (Moong),Chala,2017-03-21,6800.0,3.0,33.4,rain
+732,Green Gram (Moong),Chala,2017-03-24,7000.0,3.0,33.0,clear
+733,Green Gram (Moong),Chala,2017-03-28,7000.0,3.0,32.0,rain
+734,Green Gram (Moong),Chala,2017-03-31,7000.0,3.0,34.0,clear
+735,Green Gram (Moong),Chala,2017-04-04,7000.0,5.0,33.4,clear
+736,Green Gram (Moong),Chala,2017-07-04,7000.0,5.0,32.0,clear
+737,Green Gram (Moong),Chala,2017-04-18,7000.0,5.0,33.6,clear
+738,Green Gram (Moong),Chala,2017-04-21,7000.0,5.0,33.4,clear
+739,Green Gram (Moong),Chala,2017-04-25,7000.0,5.0,33.4,clear
+740,Green Gram (Moong),Chala,2017-04-28,7000.0,5.0,34.2,clear
+741,Green Gram (Moong),Chala,2017-02-05,7000.0,5.0,32.4,clear
+742,Green Gram (Moong),Chala,2017-05-05,7400.0,5.0,32.8,clear
+743,Green Gram (Moong),Chala,2017-09-05,7400.0,5.0,32.2,clear
+744,Green Gram (Moong),Chala,2017-05-16,7800.0,5.0,33.0,clear
+745,Green Gram (Moong),Chala,2017-05-19,7800.0,5.0,32.0,clear
+746,Green Gram (Moong),Chala,2017-05-23,7000.0,1.0,31.8,clear
+747,Green Gram (Moong),Chala,2017-05-30,7000.0,1.0,30.2,clear
+748,Green Gram (Moong),Chala,2017-06-06,7000.0,1.0,29.8,clear
+749,Green Gram (Moong),Chala,2017-09-06,6500.0,1.0,30.6,clear
+750,Green Gram (Moong),Chala,2017-06-13,6525.0,1.0,32.0,clear
+751,Green Gram (Moong),Chala,2017-06-16,6500.0,1.0,31.8,clear
+752,Green Gram (Moong),Chala,2017-06-20,6500.0,1.0,31.6,clear
+753,Green Gram (Moong),Chala,2017-06-23,6600.0,1.0,30.2,clear
+754,Green Gram (Moong),Chala,2017-06-27,6600.0,1.0,26.8,rain
+755,Green Gram (Moong),Chala,2017-06-30,6600.0,1.0,31.0,clear
+756,Green Gram (Moong),Chala,2017-04-07,6800.0,1.0,33.8,clear
+757,Green Gram (Moong),Chala,2017-07-07,6800.0,1.0,31.0,clear
+758,Green Gram (Moong),Chala,2017-11-07,6800.0,1.0,28.4,clear
+759,Green Gram (Moong),Chala,2017-07-14,6800.0,1.0,31.0,clear
+760,Green Gram (Moong),Chala,2017-07-18,6400.0,1.0,31.0,clear
+761,Green Gram (Moong),Chala,2017-07-25,6800.0,1.0,33.0,clear
+762,Green Gram (Moong),Chala,2017-07-28,6600.0,2.0,32.2,clear
+763,Green Gram (Moong),Chala,2017-04-08,6600.0,5.0,34.6,clear
+764,Green Gram (Moong),Chala,2017-08-08,6600.0,5.0,30.2,clear
+765,Green Gram (Moong),Chala,2017-11-08,6800.0,5.0,27.2,rain
+766,Green Gram (Moong),Chala,2017-08-18,6600.0,5.0,29.4,clear
+767,Green Gram (Moong),Chala,2017-08-22,6600.0,5.0,30.6,clear
+768,Green Gram (Moong),Chala,2017-08-25,6600.0,5.0,31.0,clear
+769,Green Gram (Moong),Chala,2017-08-09,6600.0,5.0,30.2,clear
+770,Green Gram (Moong),Chala,2017-09-19,7600.0,5.0,30.6,rain
+771,Green Gram (Moong),Chala,2017-09-22,7000.0,5.0,32.2,clear
+772,Green Gram (Moong),Chala,2017-09-26,7000.0,5.0,31.0,clear
+773,Green Gram (Moong),Chala,2017-03-10,7000.0,5.0,32.6,clear
+774,Green Gram (Moong),Chala,2017-06-10,6800.0,5.0,28.0,clear
+775,Green Gram (Moong),Chala,2017-10-10,6800.0,5.0,32.6,clear
+776,Green Gram (Moong),Chala,2017-10-13,7000.0,5.0,29.4,clear
+777,Green Gram (Moong),Chala,2017-10-17,7000.0,5.0,28.8,clear
+778,Green Gram (Moong),Chala,2017-10-20,7000.0,5.0,31.8,clear
+779,Green Gram (Moong),Chala,2017-10-24,7000.0,5.0,32.0,clear
+780,Green Gram (Moong),Chala,2017-10-27,6600.0,5.0,30.8,clear
+781,Green Gram (Moong),Chala,2017-10-31,6600.0,5.0,29.4,clear

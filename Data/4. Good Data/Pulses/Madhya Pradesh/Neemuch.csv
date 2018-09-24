@@ -1,0 +1,2478 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Neemuch,2015-12-08,5500.0,0.7,26.6,clear
+1,Black Gram (Urd Beans),Neemuch,2015-12-08,7400.0,5.2,26.6,clear
+2,Lentil(Masur),Neemuch,2015-12-08,6300.0,7.0,26.6,clear
+3,Arhar (Tur/Red Gram),Neemuch,2015-12-09,6100.0,0.9,28.0,clear
+4,Black Gram (Urd Beans),Neemuch,2015-12-09,7300.0,72.3,28.0,clear
+5,Lentil(Masur),Neemuch,2015-12-09,6200.0,3.8,28.0,clear
+6,Arhar (Tur/Red Gram),Neemuch,2015-12-10,5701.0,0.7,27.8,clear
+7,Black Gram (Urd Beans),Neemuch,2015-12-10,9900.0,152.0,27.8,clear
+8,Lentil(Masur),Neemuch,2015-12-10,6750.0,6.7,27.8,clear
+9,Arhar (Tur/Red Gram),Neemuch,2015-12-21,8050.0,0.5,20.0,clear
+10,Black Gram (Urd Beans),Manasa,2015-12-21,8450.0,6.0,20.0,clear
+11,Lentil(Masur),Neemuch,2015-12-21,5800.0,7.2,20.0,clear
+12,Arhar (Tur/Red Gram),Neemuch,2015-12-29,5000.0,0.1,27.6,clear
+13,Black Gram (Urd Beans),Neemuch,2015-12-29,9990.0,14.3,27.6,clear
+14,Lentil(Masur),Neemuch,2015-12-29,5500.0,2.6,27.6,clear
+15,Arhar (Tur/Red Gram),Neemuch,2015-12-30,6701.0,0.8,29.0,clear
+16,Black Gram (Urd Beans),Manasa,2015-12-30,9700.0,8.0,29.0,clear
+17,Black Gram (Urd Beans),Neemuch,2015-12-30,9500.0,9.5,29.0,clear
+18,Lentil(Masur),Neemuch,2015-12-30,5100.0,4.5,29.0,clear
+19,Black Gram (Urd Beans),Manasa,2015-12-14,9750.0,18.0,7.2,clear
+20,Black Gram (Urd Beans),Manasa,2015-12-15,8800.0,29.0,5.6,clear
+21,Black Gram (Urd Beans),Manasa,2015-12-16,9300.0,10.0,5.0,clear
+22,Black Gram (Urd Beans),Manasa,2015-12-17,9950.0,2.0,23.0,clear
+23,Black Gram (Urd Beans),Manasa,2015-12-18,9701.0,2.0,22.0,clear
+24,Black Gram (Urd Beans),Manasa,2015-12-19,9650.0,36.0,22.4,clear
+25,Black Gram (Urd Beans),Manasa,2015-12-22,9150.0,6.0,20.4,clear
+26,Black Gram (Urd Beans),Manasa,2015-12-23,9600.0,6.0,20.4,clear
+27,Black Gram (Urd Beans),Manasa,2015-12-31,8925.0,5.0,25.0,clear
+28,Arhar (Tur/Red Gram),Javad,2016-04-25,6000.0,0.2,39.2,clear
+29,Arhar (Tur/Red Gram),Manasa,2016-04-25,5120.0,32.0,39.2,clear
+30,Bengal Gram(Gram),Neemuch,2016-04-25,5150.0,73.3,39.2,clear
+31,Black Gram (Urd Beans),Manasa,2016-04-25,10850.0,5.0,39.2,clear
+32,Black Gram (Urd Beans),Neemuch,2016-04-25,9800.0,0.5,39.2,clear
+33,Lentil(Masur),Neemuch,2016-04-25,5500.0,19.9,39.2,clear
+34,Arhar (Tur/Red Gram),Javad,2016-05-19,6500.0,0.4,47.0,clear
+35,Arhar (Tur/Red Gram),Manasa,2016-05-19,5370.0,11.0,47.0,clear
+36,Arhar (Tur/Red Gram),Neemuch,2016-05-19,6101.0,0.1,47.0,clear
+37,Bengal Gram(Gram),Neemuch,2016-05-19,4900.0,54.1,47.0,clear
+38,Black Gram (Urd Beans),Neemuch,2016-05-19,9000.0,0.5,47.0,clear
+39,Lentil(Masur),Neemuch,2016-05-19,5400.0,9.5,47.0,clear
+40,Arhar (Tur/Red Gram),Manasa,2016-01-16,4151.0,3.0,23.0,clear
+41,Black Gram (Urd Beans),Manasa,2016-01-16,9101.0,2.0,23.0,clear
+42,Black Gram (Urd Beans),Neemuch,2016-01-16,9600.0,8.4,23.0,clear
+43,Lentil(Masur),Neemuch,2016-01-16,5276.0,0.8,23.0,clear
+44,Arhar (Tur/Red Gram),Manasa,2016-01-18,3972.0,4.0,19.2,clear
+45,Arhar (Tur/Red Gram),Neemuch,2016-01-18,4500.0,0.1,19.2,clear
+46,Bengal Gram(Gram),Neemuch,2016-01-18,3850.0,9.1,19.2,clear
+47,Black Gram (Urd Beans),Manasa,2016-01-18,9350.0,6.0,19.2,clear
+48,Black Gram (Urd Beans),Neemuch,2016-01-18,9800.0,19.2,19.2,clear
+49,Green Gram (Moong),Neemuch,2016-01-18,4650.0,0.1,19.2,clear
+50,Lentil(Masur),Neemuch,2016-01-18,5200.0,2.3,19.2,clear
+51,Arhar (Tur/Red Gram),Manasa,2016-01-21,4121.0,2.0,21.8,clear
+52,Bengal Gram(Gram),Neemuch,2016-01-21,4050.0,4.6,21.8,clear
+53,Black Gram (Urd Beans),Manasa,2016-01-21,10263.0,65.0,21.8,clear
+54,Black Gram (Urd Beans),Neemuch,2016-01-21,9300.0,1.8,21.8,clear
+55,Lentil(Masur),Neemuch,2016-01-21,5000.0,1.7,21.8,clear
+56,Arhar (Tur/Red Gram),Manasa,2016-01-27,3903.0,3.0,27.2,clear
+57,Arhar (Tur/Red Gram),Neemuch,2016-01-27,6650.0,0.2,27.2,clear
+58,Bengal Gram(Gram),Neemuch,2016-01-27,3900.0,7.3,27.2,clear
+59,Black Gram (Urd Beans),Manasa,2016-01-27,4948.0,3.0,27.2,clear
+60,Black Gram (Urd Beans),Neemuch,2016-01-27,9300.0,6.9,27.2,clear
+61,Green Gram (Moong),Neemuch,2016-01-27,5650.0,0.5,27.2,clear
+62,Lentil(Masur),Neemuch,2016-01-27,4200.0,1.2,27.2,clear
+63,Arhar (Tur/Red Gram),Manasa,2016-01-28,3784.0,8.0,27.4,clear
+64,Arhar (Tur/Red Gram),Neemuch,2016-01-28,5400.0,0.1,27.4,clear
+65,Bengal Gram(Gram),Neemuch,2016-01-28,5250.0,3.3,27.4,clear
+66,Black Gram (Urd Beans),Manasa,2016-01-28,8350.0,3.0,27.4,clear
+67,Black Gram (Urd Beans),Neemuch,2016-01-28,9100.0,8.4,27.4,clear
+68,Lentil(Masur),Neemuch,2016-01-28,4150.0,0.9,27.4,clear
+69,Arhar (Tur/Red Gram),Manasa,2016-01-29,3800.0,8.0,29.4,clear
+70,Bengal Gram(Gram),Neemuch,2016-01-29,4010.0,6.3,29.4,clear
+71,Black Gram (Urd Beans),Neemuch,2016-01-29,9900.0,1.6,29.4,clear
+72,Lentil(Masur),Neemuch,2016-01-29,4050.0,0.6,29.4,clear
+73,Arhar (Tur/Red Gram),Manasa,2016-01-30,3696.0,8.0,28.2,clear
+74,Bengal Gram(Gram),Neemuch,2016-01-30,4050.0,5.5,28.2,clear
+75,Black Gram (Urd Beans),Neemuch,2016-01-30,9200.0,7.4,28.2,clear
+76,Green Gram (Moong),Neemuch,2016-01-30,5650.0,0.1,28.2,clear
+77,Lentil(Masur),Neemuch,2016-01-30,4100.0,1.2,28.2,clear
+78,Arhar (Tur/Red Gram),Manasa,2016-01-02,3516.0,14.0,25.0,clear
+79,Arhar (Tur/Red Gram),Neemuch,2016-01-02,4425.0,0.1,25.0,clear
+80,Bengal Gram(Gram),Neemuch,2016-01-02,3950.0,11.5,25.0,clear
+81,Black Gram (Urd Beans),Manasa,2016-01-02,9200.0,2.0,25.0,clear
+82,Black Gram (Urd Beans),Neemuch,2016-01-02,9300.0,14.6,25.0,clear
+83,Arhar (Tur/Red Gram),Manasa,2016-02-02,3546.0,3.0,24.6,clear
+84,Bengal Gram(Gram),Neemuch,2016-02-02,3991.0,9.6,24.6,clear
+85,Black Gram (Urd Beans),Neemuch,2016-02-02,9000.0,5.0,24.6,clear
+86,Lentil(Masur),Neemuch,2016-02-02,3650.0,0.9,24.6,clear
+87,Arhar (Tur/Red Gram),Manasa,2016-03-02,3633.0,25.0,34.8,clear
+88,Bengal Gram(Gram),Neemuch,2016-03-02,3900.0,9.0,34.8,clear
+89,Black Gram (Urd Beans),Manasa,2016-03-02,6000.0,6.0,34.8,clear
+90,Black Gram (Urd Beans),Neemuch,2016-03-02,8100.0,18.0,34.8,clear
+91,Lentil(Masur),Neemuch,2016-03-02,3981.0,1.5,34.8,clear
+92,Arhar (Tur/Red Gram),Manasa,2016-04-02,3710.0,14.0,40.4,clear
+93,Bengal Gram(Gram),Neemuch,2016-04-02,3901.0,6.0,40.4,clear
+94,Black Gram (Urd Beans),Manasa,2016-04-02,7901.0,1.0,40.4,clear
+95,Black Gram (Urd Beans),Neemuch,2016-04-02,8250.0,3.0,40.4,clear
+96,Green Gram (Moong),Neemuch,2016-04-02,4650.0,0.1,40.4,clear
+97,Lentil(Masur),Neemuch,2016-04-02,4062.0,1.4,40.4,clear
+98,Arhar (Tur/Red Gram),Manasa,2016-05-02,3767.0,2.0,41.0,clear
+99,Arhar (Tur/Red Gram),Neemuch,2016-05-02,5300.0,0.2,41.0,clear
+100,Bengal Gram(Gram),Neemuch,2016-05-02,3800.0,2.7,41.0,clear
+101,Black Gram (Urd Beans),Manasa,2016-05-02,7900.0,3.0,41.0,clear
+102,Black Gram (Urd Beans),Neemuch,2016-05-02,7700.0,6.0,41.0,clear
+103,Lentil(Masur),Neemuch,2016-05-02,3325.0,1.2,41.0,clear
+104,Arhar (Tur/Red Gram),Manasa,2016-06-02,3693.0,5.0,42.4,clear
+105,Black Gram (Urd Beans),Manasa,2016-06-02,8850.0,1.0,42.4,clear
+106,Arhar (Tur/Red Gram),Manasa,2016-08-02,3923.0,6.0,24.6,rain
+107,Bengal Gram(Gram),Neemuch,2016-08-02,4000.0,5.6,24.6,rain
+108,Black Gram (Urd Beans),Neemuch,2016-08-02,8500.0,1.1,24.6,rain
+109,Lentil(Masur),Neemuch,2016-08-02,3500.0,1.1,24.6,rain
+110,Arhar (Tur/Red Gram),Manasa,2016-09-02,4111.0,11.0,26.8,clear
+111,Arhar (Tur/Red Gram),Neemuch,2016-09-02,5500.0,0.2,26.8,clear
+112,Bengal Gram(Gram),Neemuch,2016-09-02,3651.0,7.0,26.8,clear
+113,Black Gram (Urd Beans),Neemuch,2016-09-02,8101.0,4.9,26.8,clear
+114,Lentil(Masur),Neemuch,2016-09-02,4190.0,2.2,26.8,clear
+115,Arhar (Tur/Red Gram),Manasa,2016-10-02,4050.0,6.0,33.2,clear
+116,Bengal Gram(Gram),Neemuch,2016-10-02,4105.0,12.7,33.2,clear
+117,Black Gram (Urd Beans),Neemuch,2016-10-02,8900.0,4.9,33.2,clear
+118,Lentil(Masur),Neemuch,2016-10-02,4541.0,1.1,33.2,clear
+119,Arhar (Tur/Red Gram),Manasa,2016-11-02,4199.0,6.0,28.2,clear
+120,Arhar (Tur/Red Gram),Neemuch,2016-11-02,6700.0,1.1,28.2,clear
+121,Bengal Gram(Gram),Neemuch,2016-11-02,4150.0,8.9,28.2,clear
+122,Black Gram (Urd Beans),Manasa,2016-11-02,8000.0,1.0,28.2,clear
+123,Black Gram (Urd Beans),Neemuch,2016-11-02,7301.0,4.3,28.2,clear
+124,Green Gram (Moong),Neemuch,2016-11-02,4650.0,0.1,28.2,clear
+125,Arhar (Tur/Red Gram),Manasa,2016-12-02,4285.0,22.0,25.4,clear
+126,Arhar (Tur/Red Gram),Neemuch,2016-12-02,4425.0,0.1,25.4,clear
+127,Bengal Gram(Gram),Neemuch,2016-12-02,4201.0,3.0,25.4,clear
+128,Black Gram (Urd Beans),Manasa,2016-12-02,8501.0,1.0,25.4,clear
+129,Black Gram (Urd Beans),Neemuch,2016-12-02,9400.0,4.1,25.4,clear
+130,Lentil(Masur),Neemuch,2016-12-02,4432.0,3.2,25.4,clear
+131,Arhar (Tur/Red Gram),Manasa,2016-02-15,3461.0,39.0,24.6,clear
+132,Black Gram (Urd Beans),Manasa,2016-02-15,7800.0,3.0,24.6,clear
+133,Arhar (Tur/Red Gram),Manasa,2016-02-16,4620.0,25.0,23.8,clear
+134,Arhar (Tur/Red Gram),Manasa,2016-02-17,4201.0,11.0,26.7,clear
+135,Arhar (Tur/Red Gram),Neemuch,2016-02-17,6400.0,0.2,26.7,clear
+136,Bengal Gram(Gram),Neemuch,2016-02-17,4400.0,6.5,26.7,clear
+137,Black Gram (Urd Beans),Manasa,2016-02-17,8250.0,3.0,26.7,clear
+138,Black Gram (Urd Beans),Neemuch,2016-02-17,9000.0,2.2,26.7,clear
+139,Green Gram (Moong),Neemuch,2016-02-17,5702.0,0.6,26.7,clear
+140,Lentil(Masur),Neemuch,2016-02-17,4900.0,1.0,26.7,clear
+141,Arhar (Tur/Red Gram),Manasa,2016-02-18,3958.0,22.0,31.2,clear
+142,Arhar (Tur/Red Gram),Manasa,2016-02-23,3580.0,90.0,30.6,clear
+143,Bengal Gram(Gram),Neemuch,2016-02-23,4050.0,34.3,30.6,clear
+144,Black Gram (Urd Beans),Neemuch,2016-02-23,8500.0,8.2,30.6,clear
+145,Lentil(Masur),Neemuch,2016-02-23,5000.0,18.1,30.6,clear
+146,Arhar (Tur/Red Gram),Manasa,2016-02-25,4105.0,34.0,31.0,clear
+147,Bengal Gram(Gram),Neemuch,2016-02-25,4000.0,19.3,31.0,clear
+148,Black Gram (Urd Beans),Neemuch,2016-02-25,7000.0,0.6,31.0,clear
+149,Lentil(Masur),Neemuch,2016-02-25,4550.0,23.6,31.0,clear
+150,Arhar (Tur/Red Gram),Manasa,2016-02-26,4051.0,35.0,29.8,clear
+151,Arhar (Tur/Red Gram),Neemuch,2016-02-26,7281.0,0.1,29.8,clear
+152,Bengal Gram(Gram),Neemuch,2016-02-26,4100.0,29.5,29.8,clear
+153,Black Gram (Urd Beans),Neemuch,2016-02-26,9000.0,3.8,29.8,clear
+154,Lentil(Masur),Neemuch,2016-02-26,4600.0,8.5,29.8,clear
+155,Arhar (Tur/Red Gram),Manasa,2016-02-29,3672.0,28.0,32.2,clear
+156,Arhar (Tur/Red Gram),Manasa,2016-01-03,4180.0,50.0,26.2,clear
+157,Arhar (Tur/Red Gram),Neemuch,2016-01-03,6353.0,0.2,26.2,clear
+158,Bengal Gram(Gram),Neemuch,2016-01-03,4040.0,33.2,26.2,clear
+159,Black Gram (Urd Beans),Neemuch,2016-01-03,8300.0,6.1,26.2,clear
+160,Green Gram (Moong),Neemuch,2016-01-03,4650.0,0.1,26.2,clear
+161,Lentil(Masur),Neemuch,2016-01-03,4450.0,16.5,26.2,clear
+162,Arhar (Tur/Red Gram),Manasa,2016-02-03,4250.0,44.0,24.0,clear
+163,Arhar (Tur/Red Gram),Neemuch,2016-02-03,6551.0,0.3,24.0,clear
+164,Bengal Gram(Gram),Neemuch,2016-02-03,4050.0,35.1,24.0,clear
+165,Black Gram (Urd Beans),Manasa,2016-02-03,8500.0,1.0,24.0,clear
+166,Black Gram (Urd Beans),Neemuch,2016-02-03,8500.0,9.6,24.0,clear
+167,Lentil(Masur),Neemuch,2016-02-03,4550.0,16.0,24.0,clear
+168,Arhar (Tur/Red Gram),Manasa,2016-03-03,4050.0,22.0,34.4,clear
+169,Arhar (Tur/Red Gram),Neemuch,2016-03-03,4425.0,0.1,34.4,clear
+170,Bengal Gram(Gram),Neemuch,2016-03-03,4140.0,27.7,34.4,clear
+171,Black Gram (Urd Beans),Manasa,2016-03-03,9200.0,2.0,34.4,clear
+172,Black Gram (Urd Beans),Neemuch,2016-03-03,9200.0,6.2,34.4,clear
+173,Lentil(Masur),Neemuch,2016-03-03,4550.0,19.3,34.4,clear
+174,Arhar (Tur/Red Gram),Manasa,2016-04-03,3975.0,32.0,40.2,clear
+175,Arhar (Tur/Red Gram),Neemuch,2016-04-03,5500.0,0.7,40.2,clear
+176,Bengal Gram(Gram),Neemuch,2016-04-03,4100.0,50.3,40.2,clear
+177,Black Gram (Urd Beans),Manasa,2016-04-03,9000.0,2.0,40.2,clear
+178,Black Gram (Urd Beans),Neemuch,2016-04-03,9000.0,7.3,40.2,clear
+179,Green Gram (Moong),Neemuch,2016-04-03,5000.0,0.4,40.2,clear
+180,Lentil(Masur),Neemuch,2016-04-03,4750.0,16.7,40.2,clear
+181,Arhar (Tur/Red Gram),Manasa,2016-05-03,4168.0,48.0,40.8,clear
+182,Arhar (Tur/Red Gram),Manasa,2016-07-03,3820.0,28.0,29.8,clear
+183,Arhar (Tur/Red Gram),Manasa,2016-08-03,3820.0,28.0,29.2,clear
+184,Bengal Gram(Gram),Neemuch,2016-08-03,4200.0,59.0,29.2,clear
+185,Black Gram (Urd Beans),Neemuch,2016-08-03,8000.0,0.9,29.2,clear
+186,Lentil(Masur),Neemuch,2016-08-03,4850.0,29.3,29.2,clear
+187,Arhar (Tur/Red Gram),Manasa,2016-09-03,4205.0,39.0,31.4,clear
+188,Arhar (Tur/Red Gram),Neemuch,2016-09-03,4601.0,0.3,31.4,clear
+189,Bengal Gram(Gram),Neemuch,2016-09-03,4250.0,42.4,31.4,clear
+190,Black Gram (Urd Beans),Neemuch,2016-09-03,9000.0,1.7,31.4,clear
+191,Lentil(Masur),Neemuch,2016-09-03,4850.0,29.0,31.4,clear
+192,Arhar (Tur/Red Gram),Manasa,2016-10-03,4165.0,84.0,32.4,clear
+193,Arhar (Tur/Red Gram),Neemuch,2016-10-03,7700.0,0.1,32.4,clear
+194,Bengal Gram(Gram),Neemuch,2016-10-03,4150.0,48.0,32.4,clear
+195,Lentil(Masur),Neemuch,2016-10-03,4550.0,17.1,32.4,clear
+196,Arhar (Tur/Red Gram),Manasa,2016-11-03,4196.0,39.0,28.0,clear
+197,Bengal Gram(Gram),Neemuch,2016-11-03,4250.0,56.4,28.0,clear
+198,Black Gram (Urd Beans),Manasa,2016-11-03,8000.0,3.0,28.0,clear
+199,Black Gram (Urd Beans),Neemuch,2016-11-03,8650.0,0.2,28.0,clear
+200,Lentil(Masur),Neemuch,2016-11-03,5250.0,32.5,28.0,clear
+201,Arhar (Tur/Red Gram),Manasa,2016-03-16,4215.0,36.0,32.0,clear
+202,Bengal Gram(Gram),Neemuch,2016-03-16,4227.0,53.5,32.0,clear
+203,Black Gram (Urd Beans),Manasa,2016-03-16,9000.0,1.0,32.0,clear
+204,Lentil(Masur),Neemuch,2016-03-16,5300.0,55.5,32.0,clear
+205,Arhar (Tur/Red Gram),Manasa,2016-03-17,3933.0,41.0,35.4,clear
+206,Bengal Gram(Gram),Neemuch,2016-03-17,4250.0,52.1,35.4,clear
+207,Black Gram (Urd Beans),Neemuch,2016-03-17,9700.0,4.5,35.4,clear
+208,Lentil(Masur),Neemuch,2016-03-17,5121.0,38.4,35.4,clear
+209,Arhar (Tur/Red Gram),Manasa,2016-03-18,3965.0,51.0,34.8,clear
+210,Arhar (Tur/Red Gram),Neemuch,2016-03-18,7500.0,0.4,34.8,clear
+211,Bengal Gram(Gram),Neemuch,2016-03-18,4150.0,57.0,34.8,clear
+212,Black Gram (Urd Beans),Neemuch,2016-03-18,9500.0,5.8,34.8,clear
+213,Lentil(Masur),Neemuch,2016-03-18,5168.0,35.0,34.8,clear
+214,Arhar (Tur/Red Gram),Manasa,2016-03-19,3880.0,74.0,35.0,clear
+215,Arhar (Tur/Red Gram),Neemuch,2016-03-19,6001.0,0.4,35.0,clear
+216,Bengal Gram(Gram),Neemuch,2016-03-19,4060.0,70.5,35.0,clear
+217,Black Gram (Urd Beans),Manasa,2016-03-19,9100.0,2.0,35.0,clear
+218,Black Gram (Urd Beans),Neemuch,2016-03-19,9000.0,0.8,35.0,clear
+219,Lentil(Masur),Neemuch,2016-03-19,4900.0,36.9,35.0,clear
+220,Arhar (Tur/Red Gram),Manasa,2016-03-22,3875.0,18.0,33.2,clear
+221,Bengal Gram(Gram),Neemuch,2016-03-22,4021.0,36.5,33.2,clear
+222,Black Gram (Urd Beans),Manasa,2016-03-22,9000.0,1.0,33.2,clear
+223,Black Gram (Urd Beans),Neemuch,2016-03-22,10100.0,2.6,33.2,clear
+224,Lentil(Masur),Neemuch,2016-03-22,4550.0,14.3,33.2,clear
+225,Arhar (Tur/Red Gram),Manasa,2016-03-28,4110.0,16.0,34.0,clear
+226,Bengal Gram(Gram),Neemuch,2016-03-28,4500.0,80.4,34.0,clear
+227,Black Gram (Urd Beans),Neemuch,2016-03-28,7000.0,2.9,34.0,clear
+228,Lentil(Masur),Neemuch,2016-03-28,5001.0,15.4,34.0,clear
+229,Arhar (Tur/Red Gram),Manasa,2016-03-29,4352.0,16.0,35.4,clear
+230,Arhar (Tur/Red Gram),Neemuch,2016-03-29,6000.0,0.2,35.4,clear
+231,Bengal Gram(Gram),Neemuch,2016-03-29,4000.0,79.9,35.4,clear
+232,Black Gram (Urd Beans),Manasa,2016-03-29,7500.0,1.0,35.4,clear
+233,Black Gram (Urd Beans),Neemuch,2016-03-29,9200.0,5.5,35.4,clear
+234,Lentil(Masur),Neemuch,2016-03-29,5000.0,29.1,35.4,clear
+235,Arhar (Tur/Red Gram),Manasa,2016-02-04,4550.0,21.0,6.4,clear
+236,Arhar (Tur/Red Gram),Neemuch,2016-02-04,6601.0,0.1,6.4,clear
+237,Bengal Gram(Gram),Neemuch,2016-02-04,3970.0,93.5,6.4,clear
+238,Black Gram (Urd Beans),Manasa,2016-02-04,9801.0,1.0,6.4,clear
+239,Black Gram (Urd Beans),Neemuch,2016-02-04,10000.0,5.5,6.4,clear
+240,Lentil(Masur),Neemuch,2016-02-04,5500.0,28.6,6.4,clear
+241,Arhar (Tur/Red Gram),Manasa,2016-04-04,4400.0,85.0,38.4,clear
+242,Arhar (Tur/Red Gram),Manasa,2016-06-04,4250.0,56.0,44.4,clear
+243,Black Gram (Urd Beans),Manasa,2016-06-04,9750.0,2.0,44.4,clear
+244,Arhar (Tur/Red Gram),Manasa,2016-07-04,4462.0,35.0,27.4,clear
+245,Black Gram (Urd Beans),Manasa,2016-07-04,10001.0,4.0,27.4,clear
+246,Arhar (Tur/Red Gram),Manasa,2016-11-04,4700.0,32.0,28.0,clear
+247,Arhar (Tur/Red Gram),Neemuch,2016-11-04,5900.0,0.1,28.0,clear
+248,Bengal Gram(Gram),Neemuch,2016-11-04,4800.0,64.1,28.0,clear
+249,Lentil(Masur),Neemuch,2016-11-04,5800.0,31.1,28.0,clear
+250,Arhar (Tur/Red Gram),Manasa,2016-04-20,4525.0,31.0,39.4,clear
+251,Arhar (Tur/Red Gram),Neemuch,2016-04-20,7000.0,0.1,39.4,clear
+252,Bengal Gram(Gram),Neemuch,2016-04-20,4900.0,77.2,39.4,clear
+253,Black Gram (Urd Beans),Neemuch,2016-04-20,11000.0,6.7,39.4,clear
+254,Green Gram (Moong),Neemuch,2016-04-20,5601.0,0.1,39.4,clear
+255,Lentil(Masur),Neemuch,2016-04-20,5850.0,48.2,39.4,clear
+256,Arhar (Tur/Red Gram),Manasa,2016-04-21,4875.0,18.0,40.4,clear
+257,Arhar (Tur/Red Gram),Neemuch,2016-04-21,4500.0,0.2,40.4,clear
+258,Bengal Gram(Gram),Neemuch,2016-04-21,5000.0,37.5,40.4,clear
+259,Black Gram (Urd Beans),Neemuch,2016-04-21,9500.0,15.1,40.4,clear
+260,Green Gram (Moong),Neemuch,2016-04-21,4650.0,0.1,40.4,clear
+261,Lentil(Masur),Neemuch,2016-04-21,5800.0,23.5,40.4,clear
+262,Arhar (Tur/Red Gram),Manasa,2016-04-26,4820.0,33.0,37.8,clear
+263,Arhar (Tur/Red Gram),Neemuch,2016-04-26,6800.0,0.2,37.8,clear
+264,Bengal Gram(Gram),Neemuch,2016-04-26,5100.0,36.8,37.8,clear
+265,Black Gram (Urd Beans),Manasa,2016-04-26,9500.0,3.0,37.8,clear
+266,Black Gram (Urd Beans),Neemuch,2016-04-26,10000.0,0.8,37.8,clear
+267,Lentil(Masur),Neemuch,2016-04-26,5450.0,18.8,37.8,clear
+268,Arhar (Tur/Red Gram),Manasa,2016-04-27,5150.0,32.0,40.0,clear
+269,Arhar (Tur/Red Gram),Neemuch,2016-04-27,7101.0,0.1,40.0,clear
+270,Bengal Gram(Gram),Neemuch,2016-04-27,5100.0,28.3,40.0,clear
+271,Black Gram (Urd Beans),Neemuch,2016-04-27,9000.0,0.6,40.0,clear
+272,Green Gram (Moong),Neemuch,2016-04-27,5853.0,0.3,40.0,clear
+273,Lentil(Masur),Neemuch,2016-04-27,5600.0,10.8,40.0,clear
+274,Arhar (Tur/Red Gram),Manasa,2016-04-28,4760.0,32.0,40.4,clear
+275,Arhar (Tur/Red Gram),Neemuch,2016-04-28,8501.0,0.1,40.4,clear
+276,Bengal Gram(Gram),Neemuch,2016-04-28,5000.0,34.1,40.4,clear
+277,Black Gram (Urd Beans),Manasa,2016-04-28,10000.0,2.0,40.4,clear
+278,Black Gram (Urd Beans),Neemuch,2016-04-28,8500.0,1.2,40.4,clear
+279,Lentil(Masur),Neemuch,2016-04-28,5250.0,14.8,40.4,clear
+280,Arhar (Tur/Red Gram),Manasa,2016-04-29,5074.0,17.0,41.4,clear
+281,Arhar (Tur/Red Gram),Neemuch,2016-04-29,6101.0,0.2,41.4,clear
+282,Bengal Gram(Gram),Neemuch,2016-04-29,5180.0,27.9,41.4,clear
+283,Black Gram (Urd Beans),Manasa,2016-04-29,9200.0,1.0,41.4,clear
+284,Black Gram (Urd Beans),Neemuch,2016-04-29,8000.0,0.4,41.4,clear
+285,Lentil(Masur),Neemuch,2016-04-29,5500.0,14.4,41.4,clear
+286,Arhar (Tur/Red Gram),Manasa,2016-04-30,5275.0,32.0,42.0,clear
+287,Arhar (Tur/Red Gram),Neemuch,2016-04-30,6800.0,0.1,42.0,clear
+288,Bengal Gram(Gram),Neemuch,2016-04-30,5100.0,15.8,42.0,clear
+289,Black Gram (Urd Beans),Neemuch,2016-04-30,8500.0,1.1,42.0,clear
+290,Lentil(Masur),Neemuch,2016-04-30,4900.0,8.9,42.0,clear
+291,Arhar (Tur/Red Gram),Manasa,2016-02-05,4901.0,22.0,25.6,clear
+292,Arhar (Tur/Red Gram),Neemuch,2016-02-05,7000.0,0.5,25.6,clear
+293,Bengal Gram(Gram),Neemuch,2016-02-05,5150.0,38.2,25.6,clear
+294,Black Gram (Urd Beans),Manasa,2016-02-05,9201.0,2.0,25.6,clear
+295,Black Gram (Urd Beans),Neemuch,2016-02-05,8050.0,1.4,25.6,clear
+296,Lentil(Masur),Neemuch,2016-02-05,5100.0,8.7,25.6,clear
+297,Arhar (Tur/Red Gram),Manasa,2016-03-05,4380.0,24.0,32.0,clear
+298,Arhar (Tur/Red Gram),Neemuch,2016-03-05,7000.0,0.2,32.0,clear
+299,Bengal Gram(Gram),Neemuch,2016-03-05,5101.0,48.0,32.0,clear
+300,Black Gram (Urd Beans),Neemuch,2016-03-05,9700.0,2.9,32.0,clear
+301,Lentil(Masur),Neemuch,2016-03-05,5000.0,12.4,32.0,clear
+302,Arhar (Tur/Red Gram),Manasa,2016-04-05,4805.0,23.0,38.2,clear
+303,Bengal Gram(Gram),Neemuch,2016-04-05,5100.0,38.1,38.2,clear
+304,Black Gram (Urd Beans),Manasa,2016-04-05,9551.0,4.0,38.2,clear
+305,Black Gram (Urd Beans),Neemuch,2016-04-05,9000.0,1.6,38.2,clear
+306,Lentil(Masur),Neemuch,2016-04-05,5500.0,11.7,38.2,clear
+307,Arhar (Tur/Red Gram),Manasa,2016-05-05,5181.0,18.0,39.0,clear
+308,Arhar (Tur/Red Gram),Neemuch,2016-05-05,6850.0,0.5,39.0,clear
+309,Bengal Gram(Gram),Neemuch,2016-05-05,5150.0,42.2,39.0,clear
+310,Lentil(Masur),Neemuch,2016-05-05,5250.0,8.5,39.0,clear
+311,Arhar (Tur/Red Gram),Manasa,2016-06-05,4588.0,14.0,44.8,clear
+312,Bengal Gram(Gram),Neemuch,2016-06-05,5100.0,18.0,44.8,clear
+313,Black Gram (Urd Beans),Neemuch,2016-06-05,10000.0,2.1,44.8,clear
+314,Lentil(Masur),Neemuch,2016-06-05,5250.0,6.2,44.8,clear
+315,Arhar (Tur/Red Gram),Manasa,2016-07-05,4950.0,13.0,34.8,clear
+316,Bengal Gram(Gram),Neemuch,2016-07-05,5100.0,20.6,34.8,clear
+317,Black Gram (Urd Beans),Neemuch,2016-07-05,11000.0,7.0,34.8,clear
+318,Lentil(Masur),Neemuch,2016-07-05,5110.0,4.3,34.8,clear
+319,Arhar (Tur/Red Gram),Manasa,2016-10-05,5400.0,8.0,25.0,rain
+320,Arhar (Tur/Red Gram),Neemuch,2016-10-05,4425.0,0.3,25.0,rain
+321,Bengal Gram(Gram),Neemuch,2016-10-05,5100.0,20.7,25.0,rain
+322,Black Gram (Urd Beans),Neemuch,2016-10-05,9000.0,1.4,25.0,rain
+323,Lentil(Masur),Neemuch,2016-10-05,5400.0,10.0,25.0,rain
+324,Arhar (Tur/Red Gram),Manasa,2016-11-05,5083.0,7.0,29.0,clear
+325,Bengal Gram(Gram),Neemuch,2016-11-05,5244.0,60.9,29.0,clear
+326,Black Gram (Urd Beans),Neemuch,2016-11-05,7700.0,0.2,29.0,clear
+327,Lentil(Masur),Neemuch,2016-11-05,5151.0,19.0,29.0,clear
+328,Arhar (Tur/Red Gram),Manasa,2016-12-05,5200.0,15.0,25.0,clear
+329,Arhar (Tur/Red Gram),Neemuch,2016-12-05,6000.0,0.2,25.0,clear
+330,Bengal Gram(Gram),Neemuch,2016-12-05,5260.0,55.3,25.0,clear
+331,Black Gram (Urd Beans),Neemuch,2016-12-05,8900.0,1.2,25.0,clear
+332,Lentil(Masur),Neemuch,2016-12-05,5300.0,10.7,25.0,clear
+333,Arhar (Tur/Red Gram),Manasa,2016-05-13,4975.0,15.0,42.8,clear
+334,Arhar (Tur/Red Gram),Neemuch,2016-05-13,7000.0,2.6,42.8,clear
+335,Bengal Gram(Gram),Neemuch,2016-05-13,5261.0,62.1,42.8,clear
+336,Black Gram (Urd Beans),Neemuch,2016-05-13,4601.0,0.1,42.8,clear
+337,Lentil(Masur),Neemuch,2016-05-13,5200.0,17.4,42.8,clear
+338,Arhar (Tur/Red Gram),Manasa,2016-05-16,5595.0,32.0,37.8,clear
+339,Arhar (Tur/Red Gram),Neemuch,2016-05-16,7000.0,2.6,37.8,clear
+340,Bengal Gram(Gram),Neemuch,2016-05-16,5261.0,62.1,37.8,clear
+341,Lentil(Masur),Neemuch,2016-05-16,5541.0,9.8,37.8,clear
+342,Arhar (Tur/Red Gram),Manasa,2016-05-17,5650.0,6.0,44.8,clear
+343,Arhar (Tur/Red Gram),Neemuch,2016-05-17,7201.0,0.9,44.8,clear
+344,Bengal Gram(Gram),Neemuch,2016-05-17,5000.0,41.8,44.8,clear
+345,Black Gram (Urd Beans),Neemuch,2016-05-17,8500.0,0.7,44.8,clear
+346,Lentil(Masur),Neemuch,2016-05-17,5500.0,14.9,44.8,clear
+347,Arhar (Tur/Red Gram),Manasa,2016-05-18,5380.0,11.0,44.8,clear
+348,Bengal Gram(Gram),Neemuch,2016-05-18,5750.0,48.1,44.8,clear
+349,Black Gram (Urd Beans),Neemuch,2016-05-18,11000.0,0.9,44.8,clear
+350,Lentil(Masur),Neemuch,2016-05-18,5750.0,5.5,44.8,clear
+351,Arhar (Tur/Red Gram),Manasa,2016-05-20,5348.0,6.0,47.0,clear
+352,Black Gram (Urd Beans),Neemuch,2016-05-20,10500.0,1.6,47.0,clear
+353,Lentil(Masur),Neemuch,2016-05-20,6300.0,15.2,47.0,clear
+354,Arhar (Tur/Red Gram),Manasa,2016-05-23,5315.0,43.0,43.4,clear
+355,Bengal Gram(Gram),Neemuch,2016-05-23,4500.0,31.8,43.4,clear
+356,Black Gram (Urd Beans),Manasa,2016-05-23,10800.0,4.0,43.4,clear
+357,Black Gram (Urd Beans),Neemuch,2016-05-23,10001.0,1.1,43.4,clear
+358,Green Gram (Moong),Neemuch,2016-05-23,5851.0,0.1,43.4,clear
+359,Lentil(Masur),Neemuch,2016-05-23,4600.0,9.6,43.4,clear
+360,Arhar (Tur/Red Gram),Manasa,2016-05-25,5455.0,15.0,40.2,clear
+361,Bengal Gram(Gram),Neemuch,2016-05-25,5200.0,27.4,40.2,clear
+362,Black Gram (Urd Beans),Neemuch,2016-05-25,11000.0,0.9,40.2,clear
+363,Lentil(Masur),Neemuch,2016-05-25,5000.0,10.4,40.2,clear
+364,Arhar (Tur/Red Gram),Manasa,2016-05-26,5263.0,20.0,41.2,clear
+365,Arhar (Tur/Red Gram),Neemuch,2016-05-26,4425.0,0.2,41.2,clear
+366,Bengal Gram(Gram),Neemuch,2016-05-26,5211.0,22.2,41.2,clear
+367,Black Gram (Urd Beans),Neemuch,2016-05-26,11400.0,3.2,41.2,clear
+368,Green Gram (Moong),Neemuch,2016-05-26,6092.0,1.5,41.2,clear
+369,Lentil(Masur),Neemuch,2016-05-26,5100.0,8.0,41.2,clear
+370,Arhar (Tur/Red Gram),Manasa,2016-05-27,5572.0,14.0,41.8,clear
+371,Arhar (Tur/Red Gram),Neemuch,2016-05-27,7821.0,0.2,41.8,clear
+372,Bengal Gram(Gram),Neemuch,2016-05-27,5301.0,23.0,41.8,clear
+373,Black Gram (Urd Beans),Manasa,2016-05-27,10500.0,2.0,41.8,clear
+374,Black Gram (Urd Beans),Neemuch,2016-05-27,9000.0,0.4,41.8,clear
+375,Green Gram (Moong),Neemuch,2016-05-27,5330.0,0.6,41.8,clear
+376,Lentil(Masur),Neemuch,2016-05-27,5000.0,4.0,41.8,clear
+377,Arhar (Tur/Red Gram),Manasa,2016-05-30,5380.0,29.0,39.6,clear
+378,Arhar (Tur/Red Gram),Manasa,2016-05-31,5245.0,10.0,41.4,clear
+379,Bengal Gram(Gram),Neemuch,2016-05-31,5500.0,23.5,41.4,clear
+380,Black Gram (Urd Beans),Neemuch,2016-05-31,11400.0,2.1,41.4,clear
+381,Green Gram (Moong),Neemuch,2016-05-31,6400.0,1.2,41.4,clear
+382,Lentil(Masur),Neemuch,2016-05-31,4800.0,10.5,41.4,clear
+383,Arhar (Tur/Red Gram),Manasa,2016-01-06,5420.0,15.0,27.4,clear
+384,Bengal Gram(Gram),Neemuch,2016-01-06,5500.0,15.8,27.4,clear
+385,Black Gram (Urd Beans),Neemuch,2016-01-06,10100.0,2.3,27.4,clear
+386,Green Gram (Moong),Neemuch,2016-01-06,6100.0,6.4,27.4,clear
+387,Lentil(Masur),Manasa,2016-01-06,5180.0,6.0,27.4,clear
+388,Lentil(Masur),Neemuch,2016-01-06,5200.0,10.7,27.4,clear
+389,Arhar (Tur/Red Gram),Manasa,2016-02-06,5057.0,14.0,11.4,clear
+390,Arhar (Tur/Red Gram),Neemuch,2016-02-06,7101.0,0.5,11.4,clear
+391,Bengal Gram(Gram),Neemuch,2016-02-06,5300.0,21.0,11.4,clear
+392,Black Gram (Urd Beans),Neemuch,2016-02-06,10500.0,3.3,11.4,clear
+393,Green Gram (Moong),Neemuch,2016-02-06,6150.0,0.2,11.4,clear
+394,Lentil(Masur),Manasa,2016-02-06,5150.0,8.0,11.4,clear
+395,Lentil(Masur),Neemuch,2016-02-06,4550.0,10.4,11.4,clear
+396,Arhar (Tur/Red Gram),Manasa,2016-03-06,5426.0,11.0,31.6,clear
+397,Arhar (Tur/Red Gram),Neemuch,2016-03-06,4425.0,0.1,31.6,clear
+398,Bengal Gram(Gram),Neemuch,2016-03-06,5700.0,10.6,31.6,clear
+399,Black Gram (Urd Beans),Neemuch,2016-03-06,10500.0,0.8,31.6,clear
+400,Green Gram (Moong),Neemuch,2016-03-06,5400.0,3.7,31.6,clear
+401,Lentil(Masur),Manasa,2016-03-06,5210.0,8.0,31.6,clear
+402,Lentil(Masur),Neemuch,2016-03-06,5200.0,3.0,31.6,clear
+403,Arhar (Tur/Red Gram),Manasa,2016-04-06,5890.0,8.0,35.4,clear
+404,Arhar (Tur/Red Gram),Neemuch,2016-04-06,6901.0,1.3,35.4,clear
+405,Bengal Gram(Gram),Neemuch,2016-04-06,5900.0,18.3,35.4,clear
+406,Black Gram (Urd Beans),Neemuch,2016-04-06,11500.0,1.4,35.4,clear
+407,Green Gram (Moong),Neemuch,2016-04-06,5200.0,2.4,35.4,clear
+408,Lentil(Masur),Manasa,2016-04-06,5451.0,6.0,35.4,clear
+409,Lentil(Masur),Neemuch,2016-04-06,5100.0,2.9,35.4,clear
+410,Arhar (Tur/Red Gram),Manasa,2016-06-06,5600.0,15.0,44.8,clear
+411,Bengal Gram(Gram),Neemuch,2016-06-06,5950.0,31.0,44.8,clear
+412,Black Gram (Urd Beans),Neemuch,2016-06-06,9500.0,1.0,44.8,clear
+413,Green Gram (Moong),Neemuch,2016-06-06,5700.0,2.1,44.8,clear
+414,Lentil(Masur),Manasa,2016-06-06,5200.0,4.0,44.8,clear
+415,Lentil(Masur),Neemuch,2016-06-06,5300.0,8.4,44.8,clear
+416,Arhar (Tur/Red Gram),Manasa,2016-07-06,6025.0,25.0,27.8,clear
+417,Arhar (Tur/Red Gram),Neemuch,2016-07-06,4801.0,1.0,27.8,clear
+418,Bengal Gram(Gram),Neemuch,2016-07-06,6000.0,39.2,27.8,clear
+419,Black Gram (Urd Beans),Manasa,2016-07-06,9350.0,2.0,27.8,clear
+420,Black Gram (Urd Beans),Neemuch,2016-07-06,9901.0,0.9,27.8,clear
+421,Green Gram (Moong),Neemuch,2016-07-06,5531.0,0.6,27.8,clear
+422,Lentil(Masur),Manasa,2016-07-06,5350.0,4.0,27.8,clear
+423,Lentil(Masur),Neemuch,2016-07-06,5250.0,14.6,27.8,clear
+424,Arhar (Tur/Red Gram),Manasa,2016-08-06,5699.0,11.0,26.4,clear
+425,Arhar (Tur/Red Gram),Neemuch,2016-08-06,4700.0,0.1,26.4,clear
+426,Bengal Gram(Gram),Neemuch,2016-08-06,6050.0,31.3,26.4,clear
+427,Black Gram (Urd Beans),Neemuch,2016-08-06,11100.0,4.1,26.4,clear
+428,Green Gram (Moong),Neemuch,2016-08-06,6311.0,2.1,26.4,clear
+429,Lentil(Masur),Manasa,2016-08-06,5305.0,4.0,26.4,clear
+430,Lentil(Masur),Neemuch,2016-08-06,5340.0,9.3,26.4,clear
+431,Arhar (Tur/Red Gram),Manasa,2016-09-06,5700.0,22.0,30.8,clear
+432,Arhar (Tur/Red Gram),Neemuch,2016-09-06,6000.0,1.4,30.8,clear
+433,Bengal Gram(Gram),Neemuch,2016-09-06,5950.0,17.2,30.8,clear
+434,Black Gram (Urd Beans),Neemuch,2016-09-06,11000.0,9.2,30.8,clear
+435,Green Gram (Moong),Neemuch,2016-09-06,5900.0,3.5,30.8,clear
+436,Lentil(Masur),Manasa,2016-09-06,5600.0,5.0,30.8,clear
+437,Lentil(Masur),Neemuch,2016-09-06,5200.0,10.4,30.8,clear
+438,Arhar (Tur/Red Gram),Manasa,2016-06-15,5692.0,20.0,38.2,clear
+439,Bengal Gram(Gram),Neemuch,2016-06-15,6500.0,33.0,38.2,clear
+440,Black Gram (Urd Beans),Manasa,2016-06-15,8717.0,1.0,38.2,clear
+441,Black Gram (Urd Beans),Neemuch,2016-06-15,12000.0,0.6,38.2,clear
+442,Green Gram (Moong),Neemuch,2016-06-15,5900.0,1.0,38.2,clear
+443,Lentil(Masur),Manasa,2016-06-15,5350.0,12.0,38.2,clear
+444,Lentil(Masur),Neemuch,2016-06-15,5800.0,13.6,38.2,clear
+445,Arhar (Tur/Red Gram),Manasa,2016-06-20,5450.0,12.0,41.4,clear
+446,Bengal Gram(Gram),Neemuch,2016-06-20,5100.0,7.3,41.4,clear
+447,Black Gram (Urd Beans),Manasa,2016-06-20,10450.0,4.0,41.4,clear
+448,Black Gram (Urd Beans),Neemuch,2016-06-20,12500.0,1.3,41.4,clear
+449,Green Gram (Moong),Neemuch,2016-06-20,5400.0,1.6,41.4,clear
+450,Lentil(Masur),Manasa,2016-06-20,5028.0,5.0,41.4,clear
+451,Lentil(Masur),Neemuch,2016-06-20,5200.0,9.2,41.4,clear
+452,Arhar (Tur/Red Gram),Manasa,2016-06-21,6175.0,4.0,26.4,clear
+453,Bengal Gram(Gram),Neemuch,2016-06-21,5900.0,5.4,26.4,clear
+454,Black Gram (Urd Beans),Manasa,2016-06-21,12050.0,9.0,26.4,clear
+455,Black Gram (Urd Beans),Neemuch,2016-06-21,10001.0,4.1,26.4,clear
+456,Green Gram (Moong),Neemuch,2016-06-21,5301.0,4.2,26.4,clear
+457,Lentil(Masur),Manasa,2016-06-21,5000.0,1.0,26.4,clear
+458,Lentil(Masur),Neemuch,2016-06-21,5202.0,9.3,26.4,clear
+459,Arhar (Tur/Red Gram),Manasa,2016-06-22,5900.0,10.0,32.0,clear
+460,Black Gram (Urd Beans),Manasa,2016-06-22,9870.0,6.0,32.0,clear
+461,Black Gram (Urd Beans),Neemuch,2016-06-22,9501.0,3.7,32.0,clear
+462,Green Gram (Moong),Neemuch,2016-06-22,5300.0,1.4,32.0,clear
+463,Lentil(Masur),Manasa,2016-06-22,5113.0,14.0,32.0,clear
+464,Lentil(Masur),Neemuch,2016-06-22,4900.0,19.0,32.0,clear
+465,Arhar (Tur/Red Gram),Manasa,2016-06-23,5910.0,4.0,36.8,clear
+466,Bengal Gram(Gram),Neemuch,2016-06-23,5500.0,5.0,36.8,clear
+467,Black Gram (Urd Beans),Manasa,2016-06-23,11150.0,5.0,36.8,clear
+468,Black Gram (Urd Beans),Neemuch,2016-06-23,9301.0,8.0,36.8,clear
+469,Green Gram (Moong),Neemuch,2016-06-23,5251.0,1.3,36.8,clear
+470,Lentil(Masur),Manasa,2016-06-23,5215.0,3.0,36.8,clear
+471,Lentil(Masur),Neemuch,2016-06-23,5100.0,17.0,36.8,clear
+472,Arhar (Tur/Red Gram),Manasa,2016-06-24,6025.0,26.0,33.2,clear
+473,Black Gram (Urd Beans),Manasa,2016-06-24,9000.0,2.0,33.2,clear
+474,Arhar (Tur/Red Gram),Manasa,2016-06-27,6100.0,10.0,28.2,clear
+475,Arhar (Tur/Red Gram),Neemuch,2016-06-27,8002.0,0.2,28.2,clear
+476,Bengal Gram(Gram),Neemuch,2016-06-27,7000.0,13.9,28.2,clear
+477,Black Gram (Urd Beans),Manasa,2016-06-27,10075.0,5.0,28.2,clear
+478,Black Gram (Urd Beans),Neemuch,2016-06-27,10500.0,2.5,28.2,clear
+479,Green Gram (Moong),Neemuch,2016-06-27,5500.0,2.1,28.2,clear
+480,Lentil(Masur),Manasa,2016-06-27,5145.0,14.0,28.2,clear
+481,Lentil(Masur),Neemuch,2016-06-27,5300.0,5.0,28.2,clear
+482,Arhar (Tur/Red Gram),Manasa,2016-06-28,6350.0,8.0,35.0,clear
+483,Black Gram (Urd Beans),Manasa,2016-06-28,10300.0,3.0,35.0,clear
+484,Arhar (Tur/Red Gram),Manasa,2016-06-29,7150.0,4.0,34.2,clear
+485,Bengal Gram(Gram),Neemuch,2016-06-29,7200.0,14.1,34.2,clear
+486,Black Gram (Urd Beans),Manasa,2016-06-29,9700.0,4.0,34.2,clear
+487,Black Gram (Urd Beans),Neemuch,2016-06-29,11000.0,2.2,34.2,clear
+488,Green Gram (Moong),Neemuch,2016-06-29,5300.0,1.9,34.2,clear
+489,Lentil(Masur),Manasa,2016-06-29,5400.0,6.0,34.2,clear
+490,Lentil(Masur),Neemuch,2016-06-29,5200.0,6.0,34.2,clear
+491,Arhar (Tur/Red Gram),Manasa,2016-06-30,6680.0,7.0,35.8,clear
+492,Bengal Gram(Gram),Neemuch,2016-06-30,7000.0,22.6,35.8,clear
+493,Black Gram (Urd Beans),Manasa,2016-06-30,9850.0,8.0,35.8,clear
+494,Black Gram (Urd Beans),Neemuch,2016-06-30,11000.0,1.6,35.8,clear
+495,Green Gram (Moong),Neemuch,2016-06-30,5400.0,1.7,35.8,clear
+496,Lentil(Masur),Manasa,2016-06-30,5525.0,8.0,35.8,clear
+497,Lentil(Masur),Neemuch,2016-06-30,5250.0,7.1,35.8,clear
+498,Arhar (Tur/Red Gram),Manasa,2016-01-07,7216.0,8.0,26.6,clear
+499,Black Gram (Urd Beans),Manasa,2016-01-07,9400.0,5.0,26.6,clear
+500,Arhar (Tur/Red Gram),Manasa,2016-02-07,6601.0,2.0,26.0,clear
+501,Black Gram (Urd Beans),Manasa,2016-02-07,10000.0,2.0,26.0,clear
+502,Lentil(Masur),Manasa,2016-02-07,5500.0,3.0,26.0,clear
+503,Arhar (Tur/Red Gram),Manasa,2016-04-07,6852.0,11.0,36.0,clear
+504,Bengal Gram(Gram),Neemuch,2016-04-07,7101.0,20.6,36.0,clear
+505,Black Gram (Urd Beans),Manasa,2016-04-07,9851.0,7.0,36.0,clear
+506,Black Gram (Urd Beans),Neemuch,2016-04-07,9100.0,4.2,36.0,clear
+507,Green Gram (Moong),Neemuch,2016-04-07,5101.0,6.0,36.0,clear
+508,Lentil(Masur),Manasa,2016-04-07,5625.0,8.0,36.0,clear
+509,Lentil(Masur),Neemuch,2016-04-07,5480.0,2.6,36.0,clear
+510,Arhar (Tur/Red Gram),Manasa,2016-05-07,6865.0,5.0,38.8,clear
+511,Arhar (Tur/Red Gram),Neemuch,2016-05-07,11000.0,1.4,38.8,clear
+512,Bengal Gram(Gram),Neemuch,2016-05-07,7200.0,8.8,38.8,clear
+513,Black Gram (Urd Beans),Manasa,2016-05-07,9700.0,3.0,38.8,clear
+514,Black Gram (Urd Beans),Neemuch,2016-05-07,9600.0,0.8,38.8,clear
+515,Green Gram (Moong),Neemuch,2016-05-07,5600.0,2.0,38.8,clear
+516,Lentil(Masur),Manasa,2016-05-07,5505.0,5.0,38.8,clear
+517,Lentil(Masur),Neemuch,2016-05-07,5100.0,3.0,38.8,clear
+518,Arhar (Tur/Red Gram),Manasa,2016-06-07,7175.0,2.0,43.2,clear
+519,Bengal Gram(Gram),Neemuch,2016-06-07,7042.0,1.3,43.2,clear
+520,Lentil(Masur),Neemuch,2016-06-07,5490.0,0.5,43.2,clear
+521,Arhar (Tur/Red Gram),Manasa,2016-07-14,7725.0,8.0,30.4,clear
+522,Arhar (Tur/Red Gram),Neemuch,2016-07-14,7000.0,0.5,30.4,clear
+523,Bengal Gram(Gram),Neemuch,2016-07-14,8100.0,16.2,30.4,clear
+524,Black Gram (Urd Beans),Manasa,2016-07-14,8600.0,4.0,30.4,clear
+525,Black Gram (Urd Beans),Neemuch,2016-07-14,9400.0,0.8,30.4,clear
+526,Green Gram (Moong),Neemuch,2016-07-14,5200.0,0.9,30.4,clear
+527,Lentil(Masur),Neemuch,2016-07-14,5780.0,16.9,30.4,clear
+528,Arhar (Tur/Red Gram),Manasa,2016-07-15,7800.0,10.0,28.4,clear
+529,Bengal Gram(Gram),Neemuch,2016-07-15,7800.0,17.5,28.4,clear
+530,Black Gram (Urd Beans),Manasa,2016-07-15,8675.0,10.0,28.4,clear
+531,Black Gram (Urd Beans),Neemuch,2016-07-15,6300.0,2.5,28.4,clear
+532,Green Gram (Moong),Neemuch,2016-07-15,5001.0,0.4,28.4,clear
+533,Lentil(Masur),Manasa,2016-07-15,5556.0,10.0,28.4,clear
+534,Lentil(Masur),Neemuch,2016-07-15,5720.0,8.3,28.4,clear
+535,Arhar (Tur/Red Gram),Manasa,2016-07-16,6850.0,3.0,26.4,clear
+536,Arhar (Tur/Red Gram),Neemuch,2016-07-16,4425.0,1.5,26.4,clear
+537,Bengal Gram(Gram),Neemuch,2016-07-16,7700.0,18.6,26.4,clear
+538,Black Gram (Urd Beans),Manasa,2016-07-16,8300.0,2.0,26.4,clear
+539,Black Gram (Urd Beans),Neemuch,2016-07-16,9300.0,2.4,26.4,clear
+540,Green Gram (Moong),Neemuch,2016-07-16,5200.0,0.3,26.4,clear
+541,Lentil(Masur),Neemuch,2016-07-16,5601.0,3.2,26.4,clear
+542,Arhar (Tur/Red Gram),Manasa,2016-07-18,7153.0,10.0,32.2,clear
+543,Arhar (Tur/Red Gram),Neemuch,2016-07-18,6500.0,0.8,32.2,clear
+544,Bengal Gram(Gram),Neemuch,2016-07-18,7501.0,14.2,32.2,clear
+545,Black Gram (Urd Beans),Manasa,2016-07-18,7500.0,1.0,32.2,clear
+546,Black Gram (Urd Beans),Neemuch,2016-07-18,8400.0,2.3,32.2,clear
+547,Green Gram (Moong),Neemuch,2016-07-18,4961.0,1.7,32.2,clear
+548,Lentil(Masur),Manasa,2016-07-18,5651.0,4.0,32.2,clear
+549,Lentil(Masur),Neemuch,2016-07-18,5151.0,6.6,32.2,clear
+550,Arhar (Tur/Red Gram),Manasa,2016-07-19,7100.0,6.0,33.8,clear
+551,Arhar (Tur/Red Gram),Neemuch,2016-07-19,4425.0,0.4,33.8,clear
+552,Bengal Gram(Gram),Neemuch,2016-07-19,8300.0,4.8,33.8,clear
+553,Black Gram (Urd Beans),Manasa,2016-07-19,7850.0,2.0,33.8,clear
+554,Black Gram (Urd Beans),Neemuch,2016-07-19,7501.0,6.8,33.8,clear
+555,Lentil(Masur),Manasa,2016-07-19,5535.0,3.0,33.8,clear
+556,Lentil(Masur),Neemuch,2016-07-19,5701.0,2.7,33.8,clear
+557,Arhar (Tur/Red Gram),Manasa,2016-07-20,7358.0,8.0,34.0,clear
+558,Bengal Gram(Gram),Neemuch,2016-07-20,6800.0,7.8,34.0,clear
+559,Black Gram (Urd Beans),Neemuch,2016-07-20,9009.0,1.6,34.0,clear
+560,Lentil(Masur),Manasa,2016-07-20,5791.0,4.0,34.0,clear
+561,Lentil(Masur),Neemuch,2016-07-20,4712.0,15.1,34.0,clear
+562,Arhar (Tur/Red Gram),Manasa,2016-07-21,7773.0,6.0,34.4,clear
+563,Arhar (Tur/Red Gram),Neemuch,2016-07-21,6301.0,1.0,34.4,clear
+564,Bengal Gram(Gram),Neemuch,2016-07-21,7200.0,5.7,34.4,clear
+565,Black Gram (Urd Beans),Manasa,2016-07-21,7500.0,1.0,34.4,clear
+566,Black Gram (Urd Beans),Neemuch,2016-07-21,7801.0,2.8,34.4,clear
+567,Green Gram (Moong),Neemuch,2016-07-21,5001.0,0.4,34.4,clear
+568,Lentil(Masur),Manasa,2016-07-21,5741.0,3.0,34.4,clear
+569,Lentil(Masur),Neemuch,2016-07-21,5241.0,4.3,34.4,clear
+570,Arhar (Tur/Red Gram),Manasa,2016-07-22,7827.0,5.0,34.6,clear
+571,Arhar (Tur/Red Gram),Neemuch,2016-07-22,5000.0,0.8,34.6,clear
+572,Bengal Gram(Gram),Neemuch,2016-07-22,7851.0,9.6,34.6,clear
+573,Black Gram (Urd Beans),Neemuch,2016-07-22,9000.0,2.3,34.6,clear
+574,Green Gram (Moong),Neemuch,2016-07-22,5050.0,0.3,34.6,clear
+575,Lentil(Masur),Neemuch,2016-07-22,5201.0,2.1,34.6,clear
+576,Arhar (Tur/Red Gram),Manasa,2016-07-25,7750.0,11.0,28.4,clear
+577,Arhar (Tur/Red Gram),Neemuch,2016-07-25,6851.0,0.4,28.4,clear
+578,Bengal Gram(Gram),Neemuch,2016-07-25,7900.0,8.9,28.4,clear
+579,Black Gram (Urd Beans),Manasa,2016-07-25,6813.0,3.0,28.4,clear
+580,Black Gram (Urd Beans),Neemuch,2016-07-25,7500.0,2.5,28.4,clear
+581,Green Gram (Moong),Neemuch,2016-07-25,4650.0,2.4,28.4,clear
+582,Lentil(Masur),Manasa,2016-07-25,5275.0,4.0,28.4,clear
+583,Lentil(Masur),Neemuch,2016-07-25,5500.0,6.9,28.4,clear
+584,Arhar (Tur/Red Gram),Manasa,2016-07-26,7350.0,5.0,28.8,clear
+585,Arhar (Tur/Red Gram),Neemuch,2016-07-26,6200.0,0.6,28.8,clear
+586,Bengal Gram(Gram),Neemuch,2016-07-26,7700.0,8.0,28.8,clear
+587,Black Gram (Urd Beans),Manasa,2016-07-26,7000.0,2.0,28.8,clear
+588,Black Gram (Urd Beans),Neemuch,2016-07-26,7500.0,6.9,28.8,clear
+589,Green Gram (Moong),Neemuch,2016-07-26,5000.0,0.3,28.8,clear
+590,Lentil(Masur),Manasa,2016-07-26,5125.0,2.0,28.8,clear
+591,Lentil(Masur),Neemuch,2016-07-26,5500.0,19.6,28.8,clear
+592,Arhar (Tur/Red Gram),Manasa,2016-07-28,7601.0,2.0,25.8,rain
+593,Arhar (Tur/Red Gram),Neemuch,2016-07-28,4425.0,0.4,25.8,rain
+594,Bengal Gram(Gram),Neemuch,2016-07-28,7200.0,6.4,25.8,rain
+595,Black Gram (Urd Beans),Manasa,2016-07-28,6500.0,1.0,25.8,rain
+596,Black Gram (Urd Beans),Neemuch,2016-07-28,8100.0,0.5,25.8,rain
+597,Green Gram (Moong),Neemuch,2016-07-28,4650.0,0.5,25.8,rain
+598,Lentil(Masur),Manasa,2016-07-28,5255.0,6.0,25.8,rain
+599,Lentil(Masur),Neemuch,2016-07-28,5371.0,5.7,25.8,rain
+600,Arhar (Tur/Red Gram),Manasa,2016-07-29,7707.0,6.0,25.4,clear
+601,Arhar (Tur/Red Gram),Neemuch,2016-07-29,4750.0,0.6,25.4,clear
+602,Bengal Gram(Gram),Neemuch,2016-07-29,7701.0,6.0,25.4,clear
+603,Black Gram (Urd Beans),Manasa,2016-07-29,6150.0,4.0,25.4,clear
+604,Black Gram (Urd Beans),Neemuch,2016-07-29,7600.0,6.7,25.4,clear
+605,Green Gram (Moong),Neemuch,2016-07-29,4790.0,0.3,25.4,clear
+606,Lentil(Masur),Manasa,2016-07-29,5313.0,12.0,25.4,clear
+607,Lentil(Masur),Neemuch,2016-07-29,5300.0,4.5,25.4,clear
+608,Arhar (Tur/Red Gram),Manasa,2016-07-30,7700.0,2.0,26.2,clear
+609,Arhar (Tur/Red Gram),Neemuch,2016-07-30,4425.0,0.7,26.2,clear
+610,Bengal Gram(Gram),Neemuch,2016-07-30,7300.0,8.5,26.2,clear
+611,Black Gram (Urd Beans),Neemuch,2016-07-30,7200.0,1.8,26.2,clear
+612,Green Gram (Moong),Neemuch,2016-07-30,4800.0,0.1,26.2,clear
+613,Lentil(Masur),Manasa,2016-07-30,5175.0,3.0,26.2,clear
+614,Lentil(Masur),Neemuch,2016-07-30,5260.0,4.8,26.2,clear
+615,Arhar (Tur/Red Gram),Manasa,2016-01-08,7850.0,9.0,26.2,clear
+616,Arhar (Tur/Red Gram),Neemuch,2016-01-08,5500.0,0.7,26.2,clear
+617,Bengal Gram(Gram),Neemuch,2016-01-08,7200.0,14.2,26.2,clear
+618,Black Gram (Urd Beans),Neemuch,2016-01-08,6200.0,1.7,26.2,clear
+619,Green Gram (Moong),Neemuch,2016-01-08,4700.0,0.5,26.2,clear
+620,Lentil(Masur),Manasa,2016-01-08,5485.0,3.0,26.2,clear
+621,Lentil(Masur),Neemuch,2016-01-08,5400.0,7.4,26.2,clear
+622,Arhar (Tur/Red Gram),Manasa,2016-03-08,7900.0,2.0,31.2,clear
+623,Bengal Gram(Gram),Neemuch,2016-03-08,7200.0,10.8,31.2,clear
+624,Black Gram (Urd Beans),Neemuch,2016-03-08,8000.0,5.2,31.2,clear
+625,Green Gram (Moong),Neemuch,2016-03-08,4650.0,0.1,31.2,clear
+626,Lentil(Masur),Neemuch,2016-03-08,5440.0,6.6,31.2,clear
+627,Arhar (Tur/Red Gram),Manasa,2016-04-08,7700.0,1.0,37.4,clear
+628,Arhar (Tur/Red Gram),Neemuch,2016-04-08,5000.0,0.2,37.4,clear
+629,Bengal Gram(Gram),Neemuch,2016-04-08,6800.0,4.1,37.4,clear
+630,Black Gram (Urd Beans),Neemuch,2016-04-08,6950.0,6.8,37.4,clear
+631,Green Gram (Moong),Neemuch,2016-04-08,4650.0,0.7,37.4,clear
+632,Lentil(Masur),Manasa,2016-04-08,5225.0,5.0,37.4,clear
+633,Lentil(Masur),Neemuch,2016-04-08,5300.0,13.6,37.4,clear
+634,Arhar (Tur/Red Gram),Manasa,2016-05-08,7265.0,5.0,32.2,rain
+635,Arhar (Tur/Red Gram),Neemuch,2016-05-08,6476.0,0.2,32.2,rain
+636,Bengal Gram(Gram),Neemuch,2016-05-08,6300.0,4.2,32.2,rain
+637,Black Gram (Urd Beans),Neemuch,2016-05-08,6300.0,2.5,32.2,rain
+638,Green Gram (Moong),Neemuch,2016-05-08,4650.0,0.8,32.2,rain
+639,Lentil(Masur),Manasa,2016-05-08,5300.0,10.0,32.2,rain
+640,Lentil(Masur),Neemuch,2016-05-08,5250.0,7.6,32.2,rain
+641,Arhar (Tur/Red Gram),Manasa,2016-06-08,7575.0,3.0,44.6,clear
+642,Arhar (Tur/Red Gram),Neemuch,2016-06-08,4425.0,1.2,44.6,clear
+643,Bengal Gram(Gram),Neemuch,2016-06-08,6540.0,4.4,44.6,clear
+644,Black Gram (Urd Beans),Manasa,2016-06-08,6455.0,2.0,44.6,clear
+645,Black Gram (Urd Beans),Neemuch,2016-06-08,7800.0,2.9,44.6,clear
+646,Lentil(Masur),Neemuch,2016-06-08,5200.0,13.3,44.6,clear
+647,Arhar (Tur/Red Gram),Manasa,2016-11-08,6950.0,4.0,27.4,clear
+648,Bengal Gram(Gram),Neemuch,2016-11-08,7300.0,3.9,27.4,clear
+649,Black Gram (Urd Beans),Neemuch,2016-11-08,7800.0,1.2,27.4,clear
+650,Green Gram (Moong),Neemuch,2016-11-08,5001.0,1.4,27.4,clear
+651,Lentil(Masur),Manasa,2016-11-08,5223.0,3.0,27.4,clear
+652,Lentil(Masur),Neemuch,2016-11-08,5294.0,5.7,27.4,clear
+653,Arhar (Tur/Red Gram),Manasa,2016-12-08,7239.0,4.0,26.2,clear
+654,Arhar (Tur/Red Gram),Neemuch,2016-12-08,4450.0,0.3,26.2,clear
+655,Bengal Gram(Gram),Neemuch,2016-12-08,7500.0,3.0,26.2,clear
+656,Black Gram (Urd Beans),Neemuch,2016-12-08,9000.0,1.7,26.2,clear
+657,Green Gram (Moong),Neemuch,2016-12-08,4650.0,0.1,26.2,clear
+658,Lentil(Masur),Manasa,2016-12-08,5306.0,6.0,26.2,clear
+659,Lentil(Masur),Neemuch,2016-12-08,5300.0,6.6,26.2,clear
+660,Arhar (Tur/Red Gram),Manasa,2016-08-16,6270.0,3.0,31.0,clear
+661,Bengal Gram(Gram),Neemuch,2016-08-16,6901.0,8.9,31.0,clear
+662,Black Gram (Urd Beans),Neemuch,2016-08-16,7500.0,4.3,31.0,clear
+663,Lentil(Masur),Manasa,2016-08-16,5265.0,6.0,31.0,clear
+664,Lentil(Masur),Neemuch,2016-08-16,5161.0,9.7,31.0,clear
+665,Arhar (Tur/Red Gram),Manasa,2016-08-23,6626.0,4.0,26.0,clear
+666,Bengal Gram(Gram),Neemuch,2016-08-23,6700.0,2.8,26.0,clear
+667,Green Gram (Moong),Neemuch,2016-08-23,4650.0,0.1,26.0,clear
+668,Lentil(Masur),Manasa,2016-08-23,5274.0,5.0,26.0,clear
+669,Lentil(Masur),Neemuch,2016-08-23,5200.0,3.9,26.0,clear
+670,Arhar (Tur/Red Gram),Manasa,2016-08-24,6750.0,4.0,29.0,clear
+671,Black Gram (Urd Beans),Manasa,2016-08-24,6525.0,1.0,29.0,clear
+672,Lentil(Masur),Manasa,2016-08-24,4981.0,5.0,29.0,clear
+673,Arhar (Tur/Red Gram),Manasa,2016-08-26,6170.0,14.0,32.0,clear
+674,Bengal Gram(Gram),Neemuch,2016-08-26,6400.0,15.2,32.0,clear
+675,Black Gram (Urd Beans),Manasa,2016-08-26,7502.0,1.0,32.0,clear
+676,Green Gram (Moong),Neemuch,2016-08-26,4650.0,1.9,32.0,clear
+677,Lentil(Masur),Manasa,2016-08-26,4699.0,4.0,32.0,clear
+678,Lentil(Masur),Neemuch,2016-08-26,4852.0,4.8,32.0,clear
+679,Arhar (Tur/Red Gram),Manasa,2016-08-29,5543.0,6.0,31.6,clear
+680,Arhar (Tur/Red Gram),Neemuch,2016-08-29,4425.0,0.3,31.6,clear
+681,Bengal Gram(Gram),Neemuch,2016-08-29,5600.0,9.4,31.6,clear
+682,Green Gram (Moong),Neemuch,2016-08-29,4650.0,1.3,31.6,clear
+683,Lentil(Masur),Manasa,2016-08-29,4810.0,1.0,31.6,clear
+684,Lentil(Masur),Neemuch,2016-08-29,4350.0,14.3,31.6,clear
+685,Arhar (Tur/Red Gram),Manasa,2016-08-30,5770.0,1.0,31.1,clear
+686,Arhar (Tur/Red Gram),Neemuch,2016-08-30,4425.0,0.3,31.1,clear
+687,Bengal Gram(Gram),Neemuch,2016-08-30,6000.0,4.5,31.1,clear
+688,Black Gram (Urd Beans),Manasa,2016-08-30,5835.0,2.0,31.1,clear
+689,Green Gram (Moong),Neemuch,2016-08-30,4650.0,0.2,31.1,clear
+690,Lentil(Masur),Manasa,2016-08-30,4092.0,4.0,31.1,clear
+691,Lentil(Masur),Neemuch,2016-08-30,4400.0,7.6,31.1,clear
+692,Arhar (Tur/Red Gram),Manasa,2016-08-31,5650.0,4.0,27.0,rain
+693,Bengal Gram(Gram),Neemuch,2016-08-31,5800.0,15.6,27.0,rain
+694,Black Gram (Urd Beans),Manasa,2016-08-31,2850.0,2.0,27.0,rain
+695,Green Gram (Moong),Neemuch,2016-08-31,4650.0,1.7,27.0,rain
+696,Lentil(Masur),Manasa,2016-08-31,4362.0,2.0,27.0,rain
+697,Lentil(Masur),Neemuch,2016-08-31,4440.0,9.7,27.0,rain
+698,Arhar (Tur/Red Gram),Manasa,2016-03-09,7450.0,6.0,31.8,clear
+699,Bengal Gram(Gram),Neemuch,2016-03-09,7200.0,25.6,31.8,clear
+700,Green Gram (Moong),Neemuch,2016-03-09,4800.0,0.8,31.8,clear
+701,Lentil(Masur),Manasa,2016-03-09,4780.0,5.0,31.8,clear
+702,Lentil(Masur),Neemuch,2016-03-09,5050.0,4.6,31.8,clear
+703,Arhar (Tur/Red Gram),Manasa,2016-06-09,7035.0,7.0,41.8,clear
+704,Arhar (Tur/Red Gram),Neemuch,2016-06-09,4625.0,0.1,41.8,clear
+705,Bengal Gram(Gram),Neemuch,2016-06-09,7300.0,24.7,41.8,clear
+706,Green Gram (Moong),Neemuch,2016-06-09,4800.0,1.9,41.8,clear
+707,Lentil(Masur),Manasa,2016-06-09,4834.0,5.0,41.8,clear
+708,Lentil(Masur),Neemuch,2016-06-09,5331.0,6.4,41.8,clear
+709,Arhar (Tur/Red Gram),Manasa,2016-07-09,7298.0,4.0,33.0,clear
+710,Arhar (Tur/Red Gram),Neemuch,2016-07-09,4625.0,0.3,33.0,clear
+711,Bengal Gram(Gram),Neemuch,2016-07-09,6850.0,9.9,33.0,clear
+712,Lentil(Masur),Manasa,2016-07-09,5072.0,7.0,33.0,clear
+713,Lentil(Masur),Neemuch,2016-07-09,5300.0,16.8,33.0,clear
+714,Arhar (Tur/Red Gram),Manasa,2016-09-09,6891.0,5.0,32.8,clear
+715,Arhar (Tur/Red Gram),Neemuch,2016-09-09,5101.0,0.1,32.8,clear
+716,Bengal Gram(Gram),Neemuch,2016-09-09,6800.0,14.0,32.8,clear
+717,Black Gram (Urd Beans),Manasa,2016-09-09,6535.0,2.0,32.8,clear
+718,Green Gram (Moong),Neemuch,2016-09-09,4800.0,0.2,32.8,clear
+719,Lentil(Masur),Manasa,2016-09-09,4950.0,3.0,32.8,clear
+720,Lentil(Masur),Neemuch,2016-09-09,4850.0,24.2,32.8,clear
+721,Arhar (Tur/Red Gram),Manasa,2016-12-09,6956.0,4.0,26.4,clear
+722,Black Gram (Urd Beans),Manasa,2016-12-09,5376.0,9.0,26.4,clear
+723,Lentil(Masur),Manasa,2016-12-09,4850.0,2.0,26.4,clear
+724,Arhar (Tur/Red Gram),Manasa,2016-09-14,7410.0,6.0,32.6,clear
+725,Black Gram (Urd Beans),Manasa,2016-09-14,6465.0,7.0,32.6,clear
+726,Lentil(Masur),Manasa,2016-09-14,4600.0,6.0,32.6,clear
+727,Arhar (Tur/Red Gram),Manasa,2016-09-15,7999.0,3.0,33.4,clear
+728,Bengal Gram(Gram),Neemuch,2016-09-15,8000.0,11.3,33.4,clear
+729,Black Gram (Urd Beans),Manasa,2016-09-15,7095.0,13.0,33.4,clear
+730,Green Gram (Moong),Neemuch,2016-09-15,4800.0,3.0,33.4,clear
+731,Lentil(Masur),Manasa,2016-09-15,4805.0,3.0,33.4,clear
+732,Lentil(Masur),Neemuch,2016-09-15,5400.0,10.1,33.4,clear
+733,Arhar (Tur/Red Gram),Manasa,2016-09-16,7595.0,6.0,33.0,clear
+734,Black Gram (Urd Beans),Manasa,2016-09-16,7421.0,10.0,33.0,clear
+735,Lentil(Masur),Manasa,2016-09-16,4844.0,2.0,33.0,clear
+736,Arhar (Tur/Red Gram),Manasa,2016-09-17,7600.0,10.0,35.2,clear
+737,Bengal Gram(Gram),Neemuch,2016-09-17,7200.0,30.3,35.2,clear
+738,Black Gram (Urd Beans),Manasa,2016-09-17,6898.0,30.0,35.2,clear
+739,Green Gram (Moong),Neemuch,2016-09-17,4850.0,1.2,35.2,clear
+740,Lentil(Masur),Manasa,2016-09-17,4900.0,10.0,35.2,clear
+741,Lentil(Masur),Neemuch,2016-09-17,4500.0,24.2,35.2,clear
+742,Arhar (Tur/Red Gram),Manasa,2016-09-19,7000.0,7.0,36.0,clear
+743,Black Gram (Urd Beans),Manasa,2016-09-19,6055.0,180.0,36.0,clear
+744,Lentil(Masur),Manasa,2016-09-19,4955.0,6.0,36.0,clear
+745,Arhar (Tur/Red Gram),Manasa,2016-09-20,8052.0,3.0,34.2,clear
+746,Bengal Gram(Gram),Neemuch,2016-09-20,7500.0,10.5,34.2,clear
+747,Black Gram (Urd Beans),Manasa,2016-09-20,6200.0,120.0,34.2,clear
+748,Lentil(Masur),Manasa,2016-09-20,4651.0,2.0,34.2,clear
+749,Lentil(Masur),Neemuch,2016-09-20,4700.0,6.7,34.2,clear
+750,Arhar (Tur/Red Gram),Manasa,2016-09-21,7462.0,6.0,35.4,clear
+751,Bengal Gram(Gram),Neemuch,2016-09-21,7500.0,7.3,35.4,clear
+752,Black Gram (Urd Beans),Manasa,2016-09-21,6655.0,168.0,35.4,clear
+753,Green Gram (Moong),Neemuch,2016-09-21,4800.0,1.3,35.4,clear
+754,Lentil(Masur),Manasa,2016-09-21,4380.0,5.0,35.4,clear
+755,Lentil(Masur),Neemuch,2016-09-21,4800.0,8.4,35.4,clear
+756,Arhar (Tur/Red Gram),Manasa,2016-09-26,7250.0,10.0,34.8,clear
+757,Bengal Gram(Gram),Neemuch,2016-09-26,7401.0,11.2,34.8,clear
+758,Black Gram (Urd Beans),Manasa,2016-09-26,6550.0,441.0,34.8,clear
+759,Black Gram (Urd Beans),Neemuch,2016-09-26,6500.0,275.3,34.8,clear
+760,Green Gram (Moong),Neemuch,2016-09-26,5300.0,2.0,34.8,clear
+761,Lentil(Masur),Manasa,2016-09-26,4290.0,3.0,34.8,clear
+762,Lentil(Masur),Neemuch,2016-09-26,4800.0,26.5,34.8,clear
+763,Arhar (Tur/Red Gram),Manasa,2016-09-27,7851.0,1.0,27.4,clear
+764,Bengal Gram(Gram),Neemuch,2016-09-27,7500.0,7.3,27.4,clear
+765,Black Gram (Urd Beans),Manasa,2016-09-27,6750.0,308.0,27.4,clear
+766,Green Gram (Moong),Neemuch,2016-09-27,3601.0,0.5,27.4,clear
+767,Lentil(Masur),Neemuch,2016-09-27,4800.0,4.1,27.4,clear
+768,Arhar (Tur/Red Gram),Manasa,2016-09-30,7450.0,1.0,33.4,clear
+769,Arhar (Tur/Red Gram),Neemuch,2016-09-30,4625.0,1.4,33.4,clear
+770,Bengal Gram(Gram),Neemuch,2016-09-30,8200.0,9.5,33.4,clear
+771,Black Gram (Urd Beans),Manasa,2016-09-30,5243.0,90.0,33.4,clear
+772,Green Gram (Moong),Neemuch,2016-09-30,5000.0,0.5,33.4,clear
+773,Lentil(Masur),Neemuch,2016-09-30,4860.0,8.5,33.4,clear
+774,Arhar (Tur/Red Gram),Manasa,2016-03-10,7755.0,10.0,34.4,clear
+775,Bengal Gram(Gram),Neemuch,2016-03-10,7900.0,5.0,34.4,clear
+776,Black Gram (Urd Beans),Manasa,2016-03-10,6475.0,408.0,34.4,clear
+777,Green Gram (Moong),Neemuch,2016-03-10,5225.0,2.0,34.4,clear
+778,Lentil(Masur),Neemuch,2016-03-10,5100.0,5.8,34.4,clear
+779,Arhar (Tur/Red Gram),Manasa,2016-04-10,8350.0,6.0,24.6,clear
+780,Bengal Gram(Gram),Neemuch,2016-04-10,8500.0,12.3,24.6,clear
+781,Black Gram (Urd Beans),Manasa,2016-04-10,6625.0,488.0,24.6,clear
+782,Black Gram (Urd Beans),Neemuch,2016-04-10,6900.0,252.5,24.6,clear
+783,Lentil(Masur),Manasa,2016-04-10,4869.0,2.0,24.6,clear
+784,Lentil(Masur),Neemuch,2016-04-10,5050.0,19.4,24.6,clear
+785,Arhar (Tur/Red Gram),Manasa,2016-07-10,8124.0,12.0,31.6,clear
+786,Bengal Gram(Gram),Neemuch,2016-07-10,9650.0,19.9,31.6,clear
+787,Black Gram (Urd Beans),Manasa,2016-07-10,6950.0,512.0,31.6,clear
+788,Black Gram (Urd Beans),Neemuch,2016-07-10,6850.0,273.0,31.6,clear
+789,Green Gram (Moong),Neemuch,2016-07-10,4800.0,1.3,31.6,clear
+790,Lentil(Masur),Manasa,2016-07-10,4695.0,4.0,31.6,clear
+791,Lentil(Masur),Neemuch,2016-07-10,5100.0,9.6,31.6,clear
+792,Arhar (Tur/Red Gram),Manasa,2016-10-13,9000.0,8.0,24.0,clear
+793,Bengal Gram(Gram),Neemuch,2016-10-13,9970.0,12.1,24.0,clear
+794,Black Gram (Urd Beans),Manasa,2016-10-13,5760.0,368.0,24.0,clear
+795,Black Gram (Urd Beans),Neemuch,2016-10-13,6651.0,173.5,24.0,clear
+796,Green Gram (Moong),Neemuch,2016-10-13,4400.0,0.2,24.0,clear
+797,Lentil(Masur),Neemuch,2016-10-13,4980.0,7.4,24.0,clear
+798,Arhar (Tur/Red Gram),Manasa,2016-10-15,7850.0,10.0,32.0,clear
+799,Bengal Gram(Gram),Neemuch,2016-10-15,9900.0,19.5,32.0,clear
+800,Black Gram (Urd Beans),Manasa,2016-10-15,5800.0,360.0,32.0,clear
+801,Black Gram (Urd Beans),Neemuch,2016-10-15,6400.0,186.0,32.0,clear
+802,Green Gram (Moong),Neemuch,2016-10-15,4800.0,0.6,32.0,clear
+803,Lentil(Masur),Manasa,2016-10-15,4700.0,5.0,32.0,clear
+804,Lentil(Masur),Neemuch,2016-10-15,4950.0,10.8,32.0,clear
+805,Arhar (Tur/Red Gram),Manasa,2016-10-17,9000.0,18.0,33.0,clear
+806,Arhar (Tur/Red Gram),Neemuch,2016-10-17,4625.0,0.1,33.0,clear
+807,Bengal Gram(Gram),Neemuch,2016-10-17,9500.0,12.0,33.0,clear
+808,Black Gram (Urd Beans),Manasa,2016-10-17,5920.0,220.0,33.0,clear
+809,Black Gram (Urd Beans),Neemuch,2016-10-17,6500.0,130.8,33.0,clear
+810,Green Gram (Moong),Neemuch,2016-10-17,4800.0,0.4,33.0,clear
+811,Lentil(Masur),Manasa,2016-10-17,4500.0,1.0,33.0,clear
+812,Lentil(Masur),Neemuch,2016-10-17,4800.0,10.6,33.0,clear
+813,Arhar (Tur/Red Gram),Manasa,2016-10-19,9001.0,16.0,32.2,clear
+814,Bengal Gram(Gram),Neemuch,2016-10-19,10500.0,11.1,32.2,clear
+815,Black Gram (Urd Beans),Manasa,2016-10-19,6752.0,188.0,32.2,clear
+816,Black Gram (Urd Beans),Neemuch,2016-10-19,6750.0,266.9,32.2,clear
+817,Green Gram (Moong),Neemuch,2016-10-19,4000.0,0.7,32.2,clear
+818,Lentil(Masur),Neemuch,2016-10-19,4800.0,5.9,32.2,clear
+819,Arhar (Tur/Red Gram),Manasa,2016-10-20,9250.0,18.0,32.8,clear
+820,Bengal Gram(Gram),Neemuch,2016-10-20,11500.0,29.1,32.8,clear
+821,Black Gram (Urd Beans),Manasa,2016-10-20,6870.0,163.0,32.8,clear
+822,Black Gram (Urd Beans),Neemuch,2016-10-20,6800.0,210.4,32.8,clear
+823,Green Gram (Moong),Neemuch,2016-10-20,4800.0,0.4,32.8,clear
+824,Lentil(Masur),Neemuch,2016-10-20,4800.0,7.2,32.8,clear
+825,Arhar (Tur/Red Gram),Manasa,2016-10-21,8650.0,15.0,32.4,clear
+826,Arhar (Tur/Red Gram),Neemuch,2016-10-21,4917.0,1.7,32.4,clear
+827,Bengal Gram(Gram),Neemuch,2016-10-21,9000.0,24.4,32.4,clear
+828,Black Gram (Urd Beans),Manasa,2016-10-21,6465.0,208.0,32.4,clear
+829,Black Gram (Urd Beans),Neemuch,2016-10-21,6800.0,294.0,32.4,clear
+830,Green Gram (Moong),Neemuch,2016-10-21,4800.0,1.2,32.4,clear
+831,Lentil(Masur),Neemuch,2016-10-21,4900.0,3.2,32.4,clear
+832,Arhar (Tur/Red Gram),Manasa,2016-10-24,8601.0,16.0,31.2,clear
+833,Arhar (Tur/Red Gram),Neemuch,2016-10-24,4851.0,0.5,31.2,clear
+834,Bengal Gram(Gram),Neemuch,2016-10-24,9800.0,19.0,31.2,clear
+835,Black Gram (Urd Beans),Manasa,2016-10-24,6455.0,280.0,31.2,clear
+836,Black Gram (Urd Beans),Neemuch,2016-10-24,6000.0,280.4,31.2,clear
+837,Green Gram (Moong),Neemuch,2016-10-24,4800.0,3.6,31.2,clear
+838,Lentil(Masur),Manasa,2016-10-24,4655.0,18.0,31.2,clear
+839,Lentil(Masur),Neemuch,2016-10-24,5000.0,18.0,31.2,clear
+840,Arhar (Tur/Red Gram),Manasa,2016-10-26,8500.0,22.0,31.0,clear
+841,Bengal Gram(Gram),Neemuch,2016-10-26,7700.0,29.9,31.0,clear
+842,Black Gram (Urd Beans),Manasa,2016-10-26,6551.0,188.0,31.0,clear
+843,Black Gram (Urd Beans),Neemuch,2016-10-26,6500.0,275.0,31.0,clear
+844,Green Gram (Moong),Neemuch,2016-10-26,4800.0,0.4,31.0,clear
+845,Lentil(Masur),Neemuch,2016-10-26,4800.0,6.0,31.0,clear
+846,Arhar (Tur/Red Gram),Manasa,2016-10-27,7088.0,18.0,31.4,clear
+847,Bengal Gram(Gram),Neemuch,2016-10-27,8500.0,10.6,31.4,clear
+848,Black Gram (Urd Beans),Manasa,2016-10-27,6500.0,108.0,31.4,clear
+849,Black Gram (Urd Beans),Neemuch,2016-10-27,6500.0,323.7,31.4,clear
+850,Lentil(Masur),Neemuch,2016-10-27,4500.0,8.3,31.4,clear
+851,Arhar (Tur/Red Gram),Manasa,2016-02-11,8950.0,3.0,27.8,clear
+852,Black Gram (Urd Beans),Manasa,2016-02-11,6576.0,50.0,27.8,clear
+853,Lentil(Masur),Manasa,2016-02-11,4301.0,2.0,27.8,clear
+854,Arhar (Tur/Red Gram),Manasa,2016-03-11,8400.0,11.0,36.8,clear
+855,Bengal Gram(Gram),Neemuch,2016-03-11,9401.0,10.9,36.8,clear
+856,Black Gram (Urd Beans),Manasa,2016-03-11,6150.0,169.0,36.8,clear
+857,Black Gram (Urd Beans),Neemuch,2016-03-11,6500.0,136.9,36.8,clear
+858,Green Gram (Moong),Neemuch,2016-03-11,4800.0,3.2,36.8,clear
+859,Lentil(Masur),Manasa,2016-03-11,4055.0,5.0,36.8,clear
+860,Lentil(Masur),Neemuch,2016-03-11,5070.0,4.7,36.8,clear
+861,Arhar (Tur/Red Gram),Manasa,2016-04-11,7000.0,10.0,36.2,clear
+862,Arhar (Tur/Red Gram),Neemuch,2016-04-11,4891.0,0.1,36.2,clear
+863,Bengal Gram(Gram),Neemuch,2016-04-11,8600.0,14.3,36.2,clear
+864,Black Gram (Urd Beans),Manasa,2016-04-11,6211.0,233.0,36.2,clear
+865,Black Gram (Urd Beans),Neemuch,2016-04-11,6700.0,213.0,36.2,clear
+866,Green Gram (Moong),Neemuch,2016-04-11,4800.0,0.1,36.2,clear
+867,Lentil(Masur),Manasa,2016-04-11,4205.0,3.0,36.2,clear
+868,Lentil(Masur),Neemuch,2016-04-11,4600.0,3.4,36.2,clear
+869,Arhar (Tur/Red Gram),Manasa,2016-05-11,8926.0,18.0,39.4,clear
+870,Black Gram (Urd Beans),Manasa,2016-05-11,5775.0,298.0,39.4,clear
+871,Lentil(Masur),Manasa,2016-05-11,4275.0,2.0,39.4,clear
+872,Arhar (Tur/Red Gram),Manasa,2016-07-11,9450.0,18.0,28.0,clear
+873,Bengal Gram(Gram),Neemuch,2016-07-11,9300.0,16.0,28.0,clear
+874,Black Gram (Urd Beans),Manasa,2016-07-11,6450.0,136.0,28.0,clear
+875,Black Gram (Urd Beans),Neemuch,2016-07-11,6450.0,386.1,28.0,clear
+876,Lentil(Masur),Manasa,2016-07-11,3862.0,9.0,28.0,clear
+877,Lentil(Masur),Neemuch,2016-07-11,4500.0,8.8,28.0,clear
+878,Arhar (Tur/Red Gram),Manasa,2016-11-22,6050.0,6.0,29.4,clear
+879,Bengal Gram(Gram),Neemuch,2016-11-22,7500.0,2.1,29.4,clear
+880,Black Gram (Urd Beans),Manasa,2016-11-22,5750.0,21.0,29.4,clear
+881,Black Gram (Urd Beans),Neemuch,2016-11-22,6300.0,57.3,29.4,clear
+882,Lentil(Masur),Manasa,2016-11-22,3450.0,3.0,29.4,clear
+883,Lentil(Masur),Neemuch,2016-11-22,4100.0,3.6,29.4,clear
+884,Arhar (Tur/Red Gram),Manasa,2016-11-23,6325.0,4.0,27.6,clear
+885,Bengal Gram(Gram),Neemuch,2016-11-23,8201.0,3.3,27.6,clear
+886,Black Gram (Urd Beans),Manasa,2016-11-23,5900.0,34.0,27.6,clear
+887,Black Gram (Urd Beans),Neemuch,2016-11-23,6500.0,60.6,27.6,clear
+888,Green Gram (Moong),Neemuch,2016-11-23,3600.0,0.2,27.6,clear
+889,Lentil(Masur),Manasa,2016-11-23,3275.0,2.0,27.6,clear
+890,Lentil(Masur),Neemuch,2016-11-23,4498.0,1.9,27.6,clear
+891,Arhar (Tur/Red Gram),Manasa,2016-11-24,5850.0,3.0,26.8,clear
+892,Bengal Gram(Gram),Neemuch,2016-11-24,8501.0,6.7,26.8,clear
+893,Black Gram (Urd Beans),Manasa,2016-11-24,5685.0,48.0,26.8,clear
+894,Black Gram (Urd Beans),Neemuch,2016-11-24,6500.0,148.1,26.8,clear
+895,Green Gram (Moong),Neemuch,2016-11-24,4300.0,0.3,26.8,clear
+896,Lentil(Masur),Neemuch,2016-11-24,4200.0,4.8,26.8,clear
+897,Arhar (Tur/Red Gram),Manasa,2016-11-25,6850.0,7.0,26.8,clear
+898,Arhar (Tur/Red Gram),Neemuch,2016-11-25,1200.0,0.2,26.8,clear
+899,Bengal Gram(Gram),Neemuch,2016-11-25,7100.0,10.2,26.8,clear
+900,Black Gram (Urd Beans),Manasa,2016-11-25,5900.0,96.0,26.8,clear
+901,Black Gram (Urd Beans),Neemuch,2016-11-25,6100.0,144.3,26.8,clear
+902,Green Gram (Moong),Neemuch,2016-11-25,3001.0,0.3,26.8,clear
+903,Lentil(Masur),Manasa,2016-11-25,4314.0,1.0,26.8,clear
+904,Lentil(Masur),Neemuch,2016-11-25,4100.0,10.8,26.8,clear
+905,Arhar (Tur/Red Gram),Manasa,2016-11-28,8250.0,4.0,28.4,clear
+906,Black Gram (Urd Beans),Manasa,2016-11-28,6113.0,11.0,28.4,clear
+907,Lentil(Masur),Manasa,2016-11-28,3995.0,2.0,28.4,clear
+908,Arhar (Tur/Red Gram),Manasa,2016-11-29,7081.0,4.0,27.0,clear
+909,Bengal Gram(Gram),Neemuch,2016-11-29,9100.0,8.6,27.0,clear
+910,Black Gram (Urd Beans),Manasa,2016-11-29,5851.0,49.0,27.0,clear
+911,Black Gram (Urd Beans),Neemuch,2016-11-29,6575.0,151.5,27.0,clear
+912,Lentil(Masur),Manasa,2016-11-29,4201.0,1.0,27.0,clear
+913,Lentil(Masur),Neemuch,2016-11-29,4600.0,9.6,27.0,clear
+914,Arhar (Tur/Red Gram),Manasa,2016-11-30,7700.0,4.0,27.8,clear
+915,Bengal Gram(Gram),Neemuch,2016-11-30,8700.0,6.4,27.8,clear
+916,Black Gram (Urd Beans),Manasa,2016-11-30,5995.0,91.0,27.8,clear
+917,Black Gram (Urd Beans),Neemuch,2016-11-30,6350.0,106.7,27.8,clear
+918,Green Gram (Moong),Neemuch,2016-11-30,3100.0,0.3,27.8,clear
+919,Lentil(Masur),Manasa,2016-11-30,3500.0,1.0,27.8,clear
+920,Lentil(Masur),Neemuch,2016-11-30,4600.0,1.9,27.8,clear
+921,Arhar (Tur/Red Gram),Manasa,2016-01-12,7950.0,8.0,26.4,clear
+922,Bengal Gram(Gram),Neemuch,2016-01-12,8700.0,7.3,26.4,clear
+923,Black Gram (Urd Beans),Manasa,2016-01-12,5400.0,94.0,26.4,clear
+924,Black Gram (Urd Beans),Neemuch,2016-01-12,6375.0,171.3,26.4,clear
+925,Lentil(Masur),Manasa,2016-01-12,3900.0,1.0,26.4,clear
+926,Lentil(Masur),Neemuch,2016-01-12,4600.0,4.0,26.4,clear
+927,Arhar (Tur/Red Gram),Manasa,2016-02-12,7150.0,5.0,26.8,clear
+928,Bengal Gram(Gram),Neemuch,2016-02-12,8400.0,5.0,26.8,clear
+929,Black Gram (Urd Beans),Manasa,2016-02-12,5450.0,66.0,26.8,clear
+930,Black Gram (Urd Beans),Neemuch,2016-02-12,6050.0,153.4,26.8,clear
+931,Lentil(Masur),Manasa,2016-02-12,3950.0,9.0,26.8,clear
+932,Lentil(Masur),Neemuch,2016-02-12,4500.0,8.1,26.8,clear
+933,Arhar (Tur/Red Gram),Manasa,2016-03-12,7480.0,4.0,32.2,clear
+934,Bengal Gram(Gram),Neemuch,2016-03-12,8200.0,6.0,32.2,clear
+935,Black Gram (Urd Beans),Manasa,2016-03-12,4945.0,38.0,32.2,clear
+936,Black Gram (Urd Beans),Neemuch,2016-03-12,6050.0,97.0,32.2,clear
+937,Lentil(Masur),Manasa,2016-03-12,3790.0,3.0,32.2,clear
+938,Lentil(Masur),Neemuch,2016-03-12,11100.0,0.4,32.2,clear
+939,Arhar (Tur/Red Gram),Neemuch,2016-02-01,7760.0,0.3,24.6,clear
+940,Black Gram (Urd Beans),Manasa,2016-02-01,8900.0,4.0,24.6,clear
+941,Black Gram (Urd Beans),Neemuch,2016-02-01,9900.0,5.2,24.6,clear
+942,Lentil(Masur),Neemuch,2016-02-01,5200.0,1.7,24.6,clear
+943,Arhar (Tur/Red Gram),Neemuch,2016-04-01,4500.0,0.1,39.2,clear
+944,Black Gram (Urd Beans),Manasa,2016-04-01,9526.0,4.0,39.2,clear
+945,Black Gram (Urd Beans),Neemuch,2016-04-01,10000.0,12.4,39.2,clear
+946,Lentil(Masur),Neemuch,2016-04-01,4801.0,2.2,39.2,clear
+947,Arhar (Tur/Red Gram),Neemuch,2016-06-01,7550.0,2.2,43.2,clear
+948,Black Gram (Urd Beans),Manasa,2016-06-01,9700.0,1.0,43.2,clear
+949,Black Gram (Urd Beans),Neemuch,2016-06-01,9500.0,18.7,43.2,clear
+950,Lentil(Masur),Neemuch,2016-06-01,5300.0,1.0,43.2,clear
+951,Arhar (Tur/Red Gram),Neemuch,2016-07-01,7500.0,0.4,35.4,clear
+952,Black Gram (Urd Beans),Manasa,2016-07-01,9551.0,5.0,35.4,clear
+953,Black Gram (Urd Beans),Neemuch,2016-07-01,9800.0,24.7,35.4,clear
+954,Lentil(Masur),Neemuch,2016-07-01,5500.0,3.0,35.4,clear
+955,Arhar (Tur/Red Gram),Neemuch,2016-11-01,4600.0,0.7,28.6,clear
+956,Black Gram (Urd Beans),Manasa,2016-11-01,9876.0,4.0,28.6,clear
+957,Black Gram (Urd Beans),Neemuch,2016-11-01,9500.0,12.4,28.6,clear
+958,Lentil(Masur),Neemuch,2016-11-01,5200.0,1.7,28.6,clear
+959,Arhar (Tur/Red Gram),Neemuch,2016-01-20,7500.0,0.8,21.8,clear
+960,Bengal Gram(Gram),Neemuch,2016-01-20,4250.0,4.9,21.8,clear
+961,Black Gram (Urd Beans),Manasa,2016-01-20,10100.0,5.0,21.8,clear
+962,Black Gram (Urd Beans),Neemuch,2016-01-20,9600.0,14.3,21.8,clear
+963,Lentil(Masur),Neemuch,2016-01-20,5200.0,1.1,21.8,clear
+964,Arhar (Tur/Red Gram),Neemuch,2016-01-25,4900.0,0.2,25.4,clear
+965,Bengal Gram(Gram),Neemuch,2016-01-25,4200.0,11.1,25.4,clear
+966,Black Gram (Urd Beans),Neemuch,2016-01-25,8900.0,26.9,25.4,clear
+967,Lentil(Masur),Neemuch,2016-01-25,4300.0,5.6,25.4,clear
+968,Arhar (Tur/Red Gram),Neemuch,2016-02-19,5400.0,0.4,33.0,clear
+969,Bengal Gram(Gram),Neemuch,2016-02-19,4250.0,13.3,33.0,clear
+970,Black Gram (Urd Beans),Neemuch,2016-02-19,8900.0,3.9,33.0,clear
+971,Green Gram (Moong),Neemuch,2016-02-19,4650.0,0.6,33.0,clear
+972,Lentil(Masur),Neemuch,2016-02-19,4850.0,1.9,33.0,clear
+973,Arhar (Tur/Red Gram),Neemuch,2016-03-21,5800.0,0.7,34.8,clear
+974,Bengal Gram(Gram),Neemuch,2016-03-21,4050.0,63.9,34.8,clear
+975,Black Gram (Urd Beans),Neemuch,2016-03-21,9000.0,6.0,34.8,clear
+976,Green Gram (Moong),Neemuch,2016-03-21,4650.0,0.6,34.8,clear
+977,Lentil(Masur),Neemuch,2016-03-21,4240.0,19.7,34.8,clear
+978,Arhar (Tur/Red Gram),Neemuch,2016-04-23,7050.0,0.2,37.8,clear
+979,Bengal Gram(Gram),Neemuch,2016-04-23,5150.0,21.6,37.8,clear
+980,Black Gram (Urd Beans),Neemuch,2016-04-23,10801.0,6.9,37.8,clear
+981,Lentil(Masur),Neemuch,2016-04-23,5550.0,18.4,37.8,clear
+982,Arhar (Tur/Red Gram),Neemuch,2016-06-14,4425.0,0.4,38.0,clear
+983,Bengal Gram(Gram),Neemuch,2016-06-14,6350.0,21.3,38.0,clear
+984,Black Gram (Urd Beans),Neemuch,2016-06-14,11100.0,3.8,38.0,clear
+985,Green Gram (Moong),Neemuch,2016-06-14,5300.0,3.6,38.0,clear
+986,Lentil(Masur),Neemuch,2016-06-14,5600.0,6.3,38.0,clear
+987,Arhar (Tur/Red Gram),Neemuch,2016-06-16,5300.0,0.1,39.0,clear
+988,Bengal Gram(Gram),Neemuch,2016-06-16,6550.0,17.1,39.0,clear
+989,Black Gram (Urd Beans),Neemuch,2016-06-16,11900.0,1.2,39.0,clear
+990,Green Gram (Moong),Neemuch,2016-06-16,5675.0,2.4,39.0,clear
+991,Lentil(Masur),Neemuch,2016-06-16,5300.0,21.7,39.0,clear
+992,Arhar (Tur/Red Gram),Neemuch,2016-06-18,5300.0,0.1,41.0,clear
+993,Bengal Gram(Gram),Neemuch,2016-06-18,6350.0,19.6,41.0,clear
+994,Black Gram (Urd Beans),Neemuch,2016-06-18,11600.0,1.0,41.0,clear
+995,Green Gram (Moong),Neemuch,2016-06-18,5750.0,1.3,41.0,clear
+996,Lentil(Masur),Neemuch,2016-06-18,5700.0,8.4,41.0,clear
+997,Arhar (Tur/Red Gram),Neemuch,2016-06-25,6200.0,0.3,36.0,clear
+998,Bengal Gram(Gram),Neemuch,2016-06-25,5821.0,18.1,36.0,clear
+999,Black Gram (Urd Beans),Neemuch,2016-06-25,9100.0,10.7,36.0,clear
+1000,Green Gram (Moong),Neemuch,2016-06-25,5250.0,1.5,36.0,clear
+1001,Lentil(Masur),Neemuch,2016-06-25,5151.0,8.0,36.0,clear
+1002,Arhar (Tur/Red Gram),Neemuch,2016-12-07,6850.0,0.9,25.4,clear
+1003,Bengal Gram(Gram),Neemuch,2016-12-07,7951.0,26.3,25.4,clear
+1004,Black Gram (Urd Beans),Neemuch,2016-12-07,10401.0,1.1,25.4,clear
+1005,Green Gram (Moong),Neemuch,2016-12-07,5345.0,0.9,25.4,clear
+1006,Lentil(Masur),Neemuch,2016-12-07,5291.0,15.5,25.4,clear
+1007,Arhar (Tur/Red Gram),Neemuch,2016-10-08,4800.0,0.2,32.4,clear
+1008,Bengal Gram(Gram),Neemuch,2016-10-08,6901.0,7.8,32.4,clear
+1009,Black Gram (Urd Beans),Manasa,2016-10-08,6450.0,1.0,32.4,clear
+1010,Black Gram (Urd Beans),Neemuch,2016-10-08,7400.0,4.5,32.4,clear
+1011,Green Gram (Moong),Neemuch,2016-10-08,4650.0,0.3,32.4,clear
+1012,Lentil(Masur),Manasa,2016-10-08,4872.0,8.0,32.4,clear
+1013,Lentil(Masur),Neemuch,2016-10-08,5300.0,13.5,32.4,clear
+1014,Arhar (Tur/Red Gram),Neemuch,2016-08-17,4425.0,1.1,31.4,clear
+1015,Bengal Gram(Gram),Neemuch,2016-08-17,6400.0,8.3,31.4,clear
+1016,Black Gram (Urd Beans),Neemuch,2016-08-17,7400.0,1.2,31.4,clear
+1017,Green Gram (Moong),Neemuch,2016-08-17,5051.0,2.2,31.4,clear
+1018,Lentil(Masur),Neemuch,2016-08-17,4750.0,4.8,31.4,clear
+1019,Arhar (Tur/Red Gram),Neemuch,2016-08-19,4525.0,0.1,28.2,clear
+1020,Bengal Gram(Gram),Neemuch,2016-08-19,5899.0,1.5,28.2,clear
+1021,Black Gram (Urd Beans),Neemuch,2016-08-19,5300.0,0.5,28.2,clear
+1022,Lentil(Masur),Neemuch,2016-08-19,4131.0,0.6,28.2,clear
+1023,Arhar (Tur/Red Gram),Neemuch,2016-08-22,5001.0,0.1,25.0,clear
+1024,Bengal Gram(Gram),Neemuch,2016-08-22,6650.0,4.1,25.0,clear
+1025,Black Gram (Urd Beans),Neemuch,2016-08-22,7600.0,0.1,25.0,clear
+1026,Green Gram (Moong),Neemuch,2016-08-22,3000.0,0.1,25.0,clear
+1027,Lentil(Masur),Neemuch,2016-08-22,5001.0,2.8,25.0,clear
+1028,Arhar (Tur/Red Gram),Neemuch,2016-08-09,5620.0,0.7,25.2,clear
+1029,Bengal Gram(Gram),Neemuch,2016-08-09,6650.0,14.0,25.2,clear
+1030,Lentil(Masur),Neemuch,2016-08-09,5250.0,16.9,25.2,clear
+1031,Arhar (Tur/Red Gram),Neemuch,2016-09-22,4625.0,0.3,35.0,clear
+1032,Bengal Gram(Gram),Neemuch,2016-09-22,7500.0,10.5,35.0,clear
+1033,Black Gram (Urd Beans),Manasa,2016-09-22,7149.0,201.0,35.0,clear
+1034,Green Gram (Moong),Neemuch,2016-09-22,4800.0,0.2,35.0,clear
+1035,Lentil(Masur),Manasa,2016-09-22,4651.0,3.0,35.0,clear
+1036,Lentil(Masur),Neemuch,2016-09-22,3564.0,10.0,35.0,clear
+1037,Arhar (Tur/Red Gram),Neemuch,2016-09-28,4200.0,0.2,35.4,clear
+1038,Bengal Gram(Gram),Neemuch,2016-09-28,8000.0,14.1,35.4,clear
+1039,Black Gram (Urd Beans),Manasa,2016-09-28,6590.0,204.0,35.4,clear
+1040,Green Gram (Moong),Neemuch,2016-09-28,4800.0,1.0,35.4,clear
+1041,Lentil(Masur),Neemuch,2016-09-28,5101.0,7.2,35.4,clear
+1042,Arhar (Tur/Red Gram),Neemuch,2016-05-10,5100.0,0.1,31.0,rain
+1043,Bengal Gram(Gram),Neemuch,2016-05-10,8200.0,10.1,31.0,rain
+1044,Black Gram (Urd Beans),Neemuch,2016-05-10,7000.0,181.5,31.0,rain
+1045,Lentil(Masur),Neemuch,2016-05-10,5160.0,4.0,31.0,rain
+1046,Arhar (Tur/Red Gram),Neemuch,2016-10-25,4625.0,0.4,29.8,clear
+1047,Bengal Gram(Gram),Neemuch,2016-10-25,8500.0,19.9,29.8,clear
+1048,Black Gram (Urd Beans),Neemuch,2016-10-25,6000.0,210.1,29.8,clear
+1049,Green Gram (Moong),Neemuch,2016-10-25,5100.0,0.3,29.8,clear
+1050,Lentil(Masur),Neemuch,2016-10-25,4800.0,6.4,29.8,clear
+1051,Arhar (Tur/Red Gram),Neemuch,2016-11-18,5322.0,0.3,13.0,clear
+1052,Bengal Gram(Gram),Neemuch,2016-11-18,7500.0,2.4,13.0,clear
+1053,Black Gram (Urd Beans),Neemuch,2016-11-18,6800.0,6.7,13.0,clear
+1054,Arhar (Tur/Red Gram),Neemuch,2016-07-12,3000.0,0.6,27.4,rain
+1055,Bengal Gram(Gram),Neemuch,2016-07-12,8700.0,3.2,27.4,rain
+1056,Black Gram (Urd Beans),Manasa,2016-07-12,4930.0,53.0,27.4,rain
+1057,Black Gram (Urd Beans),Neemuch,2016-07-12,5850.0,86.9,27.4,rain
+1058,Lentil(Masur),Manasa,2016-07-12,3990.0,1.0,27.4,rain
+1059,Lentil(Masur),Neemuch,2016-07-12,4400.0,5.2,27.4,rain
+1060,Arhar (Tur/Red Gram),Neemuch,2016-12-16,3101.0,0.1,23.6,clear
+1061,Bengal Gram(Gram),Neemuch,2016-12-16,9000.0,9.3,23.6,clear
+1062,Black Gram (Urd Beans),Manasa,2016-12-16,5433.0,29.0,23.6,clear
+1063,Black Gram (Urd Beans),Neemuch,2016-12-16,5500.0,103.6,23.6,clear
+1064,Green Gram (Moong),Neemuch,2016-12-16,3180.0,0.8,23.6,clear
+1065,Lentil(Masur),Manasa,2016-12-16,3000.0,1.0,23.6,clear
+1066,Lentil(Masur),Neemuch,2016-12-16,4186.0,16.1,23.6,clear
+1067,Arhar (Tur/Red Gram),Neemuch,2016-12-19,3851.0,2.1,23.6,clear
+1068,Bengal Gram(Gram),Neemuch,2016-12-19,8501.0,7.8,23.6,clear
+1069,Black Gram (Urd Beans),Manasa,2016-12-19,5600.0,14.0,23.6,clear
+1070,Black Gram (Urd Beans),Neemuch,2016-12-19,5301.0,104.0,23.6,clear
+1071,Lentil(Masur),Manasa,2016-12-19,3780.0,5.0,23.6,clear
+1072,Lentil(Masur),Neemuch,2016-12-19,3780.0,4.8,23.6,clear
+1073,Arhar (Tur/Red Gram),Neemuch,2016-12-27,4092.0,0.7,24.0,clear
+1074,Bengal Gram(Gram),Neemuch,2016-12-27,6800.0,5.5,24.0,clear
+1075,Black Gram (Urd Beans),Manasa,2016-12-27,6000.0,34.0,24.0,clear
+1076,Black Gram (Urd Beans),Neemuch,2016-12-27,5900.0,94.0,24.0,clear
+1077,Lentil(Masur),Manasa,2016-12-27,3960.0,1.0,24.0,clear
+1078,Lentil(Masur),Neemuch,2016-12-27,3900.0,7.5,24.0,clear
+1079,Arhar (Tur/Red Gram),Neemuch,2016-12-29,4021.0,4.3,26.4,clear
+1080,Bengal Gram(Gram),Neemuch,2016-12-29,7500.0,1.2,26.4,clear
+1081,Black Gram (Urd Beans),Neemuch,2016-12-29,5700.0,31.1,26.4,clear
+1082,Green Gram (Moong),Neemuch,2016-12-29,3100.0,0.4,26.4,clear
+1083,Lentil(Masur),Neemuch,2016-12-29,4301.0,3.7,26.4,clear
+1084,Bengal Gram(Gram),Neemuch,2016-01-19,4100.0,3.1,20.0,clear
+1085,Black Gram (Urd Beans),Neemuch,2016-01-19,9800.0,13.5,20.0,clear
+1086,Green Gram (Moong),Neemuch,2016-01-19,4900.0,0.9,20.0,clear
+1087,Lentil(Masur),Neemuch,2016-01-19,4600.0,0.6,20.0,clear
+1088,Bengal Gram(Gram),Neemuch,2016-01-22,3900.0,12.2,22.8,clear
+1089,Black Gram (Urd Beans),Neemuch,2016-01-22,9700.0,5.4,22.8,clear
+1090,Lentil(Masur),Neemuch,2016-01-22,4100.0,1.1,22.8,clear
+1091,Bengal Gram(Gram),Neemuch,2016-02-20,4450.0,5.6,28.8,clear
+1092,Black Gram (Urd Beans),Neemuch,2016-02-20,8600.0,4.9,28.8,clear
+1093,Lentil(Masur),Neemuch,2016-02-20,4700.0,0.5,28.8,clear
+1094,Bengal Gram(Gram),Neemuch,2016-03-14,4250.0,65.0,31.0,clear
+1095,Black Gram (Urd Beans),Neemuch,2016-03-14,10000.0,2.8,31.0,clear
+1096,Lentil(Masur),Neemuch,2016-03-14,5800.0,72.8,31.0,clear
+1097,Bengal Gram(Gram),Neemuch,2016-03-15,4300.0,58.4,29.6,clear
+1098,Black Gram (Urd Beans),Neemuch,2016-03-15,9800.0,1.7,29.6,clear
+1099,Lentil(Masur),Neemuch,2016-03-15,5650.0,60.0,29.6,clear
+1100,Bengal Gram(Gram),Neemuch,2016-05-04,4770.0,64.6,40.6,clear
+1101,Black Gram (Urd Beans),Neemuch,2016-05-04,9400.0,1.5,40.6,clear
+1102,Lentil(Masur),Neemuch,2016-05-04,5600.0,26.4,40.6,clear
+1103,Bengal Gram(Gram),Neemuch,2016-05-24,5253.0,30.0,41.0,clear
+1104,Black Gram (Urd Beans),Neemuch,2016-05-24,11500.0,4.8,41.0,clear
+1105,Green Gram (Moong),Neemuch,2016-05-24,5491.0,0.1,41.0,clear
+1106,Lentil(Masur),Neemuch,2016-05-24,5000.0,16.7,41.0,clear
+1107,Bengal Gram(Gram),Neemuch,2016-10-06,6200.0,33.5,25.0,rain
+1108,Black Gram (Urd Beans),Neemuch,2016-10-06,10300.0,5.8,25.0,rain
+1109,Green Gram (Moong),Neemuch,2016-10-06,5700.0,5.1,25.0,rain
+1110,Lentil(Masur),Neemuch,2016-10-06,5300.0,15.7,25.0,rain
+1111,Bengal Gram(Gram),Neemuch,2016-11-06,6225.0,24.9,29.6,clear
+1112,Black Gram (Urd Beans),Neemuch,2016-11-06,12100.0,0.9,29.6,clear
+1113,Lentil(Masur),Neemuch,2016-11-06,5410.0,8.2,29.6,clear
+1114,Bengal Gram(Gram),Neemuch,2016-06-17,6200.0,26.7,40.6,clear
+1115,Black Gram (Urd Beans),Neemuch,2016-06-17,9000.0,4.0,40.6,clear
+1116,Green Gram (Moong),Neemuch,2016-06-17,6000.0,1.0,40.6,clear
+1117,Lentil(Masur),Neemuch,2016-06-17,5600.0,6.7,40.6,clear
+1118,Bengal Gram(Gram),Neemuch,2016-09-07,7825.0,3.5,31.8,clear
+1119,Black Gram (Urd Beans),Neemuch,2016-09-07,7000.0,0.9,31.8,clear
+1120,Green Gram (Moong),Neemuch,2016-09-07,5101.0,0.3,31.8,clear
+1121,Lentil(Masur),Neemuch,2016-09-07,5651.0,5.1,31.8,clear
+1122,Bengal Gram(Gram),Neemuch,2016-11-07,8201.0,14.8,29.4,clear
+1123,Black Gram (Urd Beans),Neemuch,2016-11-07,9600.0,0.3,29.4,clear
+1124,Green Gram (Moong),Neemuch,2016-11-07,5500.0,1.3,29.4,clear
+1125,Lentil(Masur),Neemuch,2016-11-07,5701.0,4.6,29.4,clear
+1126,Bengal Gram(Gram),Neemuch,2016-07-13,7500.0,15.0,28.0,clear
+1127,Black Gram (Urd Beans),Neemuch,2016-07-13,9700.0,0.3,28.0,clear
+1128,Green Gram (Moong),Neemuch,2016-07-13,5152.0,0.3,28.0,clear
+1129,Lentil(Masur),Neemuch,2016-07-13,5701.0,0.4,28.0,clear
+1130,Bengal Gram(Gram),Neemuch,2016-07-27,7000.0,4.4,28.2,clear
+1131,Black Gram (Urd Beans),Neemuch,2016-07-27,8000.0,1.7,28.2,clear
+1132,Green Gram (Moong),Neemuch,2016-07-27,4682.0,0.8,28.2,clear
+1133,Lentil(Masur),Manasa,2016-07-27,5100.0,1.0,28.2,clear
+1134,Lentil(Masur),Neemuch,2016-07-27,5000.0,31.4,28.2,clear
+1135,Bengal Gram(Gram),Neemuch,2016-08-20,7200.0,3.4,24.6,clear
+1136,Black Gram (Urd Beans),Neemuch,2016-08-20,7008.0,1.1,24.6,clear
+1137,Green Gram (Moong),Neemuch,2016-08-20,4921.0,0.5,24.6,clear
+1138,Lentil(Masur),Neemuch,2016-08-20,4400.0,1.2,24.6,clear
+1139,Bengal Gram(Gram),Neemuch,2016-01-09,7000.0,4.0,24.6,clear
+1140,Green Gram (Moong),Neemuch,2016-01-09,4800.0,1.1,24.6,clear
+1141,Lentil(Masur),Neemuch,2016-01-09,4300.0,1.7,24.6,clear
+1142,Bengal Gram(Gram),Neemuch,2016-09-29,8501.0,13.6,34.6,clear
+1143,Black Gram (Urd Beans),Manasa,2016-09-29,5900.0,272.0,34.6,clear
+1144,Green Gram (Moong),Neemuch,2016-09-29,4652.0,0.6,34.6,clear
+1145,Lentil(Masur),Manasa,2016-09-29,4501.0,2.0,34.6,clear
+1146,Lentil(Masur),Neemuch,2016-09-29,4701.0,9.3,34.6,clear
+1147,Bengal Gram(Gram),Neemuch,2016-06-10,9250.0,6.9,40.8,clear
+1148,Black Gram (Urd Beans),Neemuch,2016-06-10,7200.0,162.8,40.8,clear
+1149,Lentil(Masur),Neemuch,2016-06-10,5250.0,9.7,40.8,clear
+1150,Bengal Gram(Gram),Neemuch,2016-10-18,9500.0,10.2,32.0,clear
+1151,Black Gram (Urd Beans),Manasa,2016-10-18,6369.0,192.0,32.0,clear
+1152,Black Gram (Urd Beans),Neemuch,2016-10-18,6500.0,169.2,32.0,clear
+1153,Green Gram (Moong),Neemuch,2016-10-18,4500.0,0.2,32.0,clear
+1154,Lentil(Masur),Neemuch,2016-10-18,4500.0,7.1,32.0,clear
+1155,Bengal Gram(Gram),Neemuch,2016-08-11,9900.0,15.4,24.0,rain
+1156,Black Gram (Urd Beans),Neemuch,2016-08-11,6350.0,230.0,24.0,rain
+1157,Lentil(Masur),Neemuch,2016-08-11,4800.0,15.7,24.0,rain
+1158,Bengal Gram(Gram),Neemuch,2016-11-19,7300.0,2.5,27.2,clear
+1159,Black Gram (Urd Beans),Neemuch,2016-11-19,6501.0,36.5,27.2,clear
+1160,Lentil(Masur),Neemuch,2016-11-19,4850.0,1.7,27.2,clear
+1161,Bengal Gram(Gram),Neemuch,2016-11-21,7000.0,13.2,30.0,clear
+1162,Black Gram (Urd Beans),Manasa,2016-11-21,5791.0,15.0,30.0,clear
+1163,Black Gram (Urd Beans),Neemuch,2016-11-21,6400.0,105.0,30.0,clear
+1164,Bengal Gram(Gram),Neemuch,2016-05-12,8500.0,9.0,43.2,clear
+1165,Black Gram (Urd Beans),Manasa,2016-05-12,5725.0,29.0,43.2,clear
+1166,Black Gram (Urd Beans),Neemuch,2016-05-12,6050.0,117.1,43.2,clear
+1167,Lentil(Masur),Neemuch,2016-05-12,4250.0,5.1,43.2,clear
+1168,Bengal Gram(Gram),Neemuch,2016-06-12,8500.0,3.9,40.2,clear
+1169,Black Gram (Urd Beans),Manasa,2016-06-12,5200.0,31.0,40.2,clear
+1170,Black Gram (Urd Beans),Neemuch,2016-06-12,6000.0,100.4,40.2,clear
+1171,Green Gram (Moong),Neemuch,2016-06-12,3401.0,0.2,40.2,clear
+1172,Lentil(Masur),Manasa,2016-06-12,3800.0,1.0,40.2,clear
+1173,Lentil(Masur),Neemuch,2016-06-12,4400.0,1.2,40.2,clear
+1174,Bengal Gram(Gram),Neemuch,2016-08-12,8500.0,6.9,26.4,clear
+1175,Black Gram (Urd Beans),Manasa,2016-08-12,5190.0,102.0,26.4,clear
+1176,Black Gram (Urd Beans),Neemuch,2016-08-12,5800.0,75.6,26.4,clear
+1177,Lentil(Masur),Manasa,2016-08-12,3790.0,2.0,26.4,clear
+1178,Lentil(Masur),Neemuch,2016-08-12,4500.0,1.8,26.4,clear
+1179,Bengal Gram(Gram),Neemuch,2016-09-12,8900.0,4.4,32.8,clear
+1180,Black Gram (Urd Beans),Manasa,2016-09-12,5425.0,55.0,32.8,clear
+1181,Black Gram (Urd Beans),Neemuch,2016-09-12,5950.0,80.3,32.8,clear
+1182,Lentil(Masur),Neemuch,2016-09-12,4400.0,5.9,32.8,clear
+1183,Bengal Gram(Gram),Neemuch,2016-12-13,7000.0,9.6,24.8,clear
+1184,Black Gram (Urd Beans),Manasa,2016-12-13,5226.0,36.0,24.8,clear
+1185,Black Gram (Urd Beans),Neemuch,2016-12-13,5500.0,56.7,24.8,clear
+1186,Green Gram (Moong),Neemuch,2016-12-13,3300.0,1.7,24.8,clear
+1187,Lentil(Masur),Neemuch,2016-12-13,4101.0,5.1,24.8,clear
+1188,Bengal Gram(Gram),Neemuch,2016-12-14,8300.0,4.2,25.2,clear
+1189,Black Gram (Urd Beans),Manasa,2016-12-14,5256.0,26.0,25.2,clear
+1190,Black Gram (Urd Beans),Neemuch,2016-12-14,5500.0,88.5,25.2,clear
+1191,Lentil(Masur),Manasa,2016-12-14,3845.0,3.0,25.2,clear
+1192,Lentil(Masur),Neemuch,2016-12-14,4150.0,1.7,25.2,clear
+1193,Bengal Gram(Gram),Neemuch,2016-12-15,8476.0,8.4,23.8,clear
+1194,Black Gram (Urd Beans),Manasa,2016-12-15,5660.0,42.0,23.8,clear
+1195,Black Gram (Urd Beans),Neemuch,2016-12-15,5500.0,71.2,23.8,clear
+1196,Lentil(Masur),Manasa,2016-12-15,3000.0,1.0,23.8,clear
+1197,Lentil(Masur),Neemuch,2016-12-15,3850.0,4.5,23.8,clear
+1198,Bengal Gram(Gram),Neemuch,2016-12-17,8101.0,12.9,24.4,clear
+1199,Black Gram (Urd Beans),Manasa,2016-12-17,5200.0,42.0,24.4,clear
+1200,Black Gram (Urd Beans),Neemuch,2016-12-17,5500.0,67.9,24.4,clear
+1201,Green Gram (Moong),Neemuch,2016-12-17,2800.0,0.2,24.4,clear
+1202,Lentil(Masur),Manasa,2016-12-17,3665.0,1.0,24.4,clear
+1203,Lentil(Masur),Neemuch,2016-12-17,4000.0,10.9,24.4,clear
+1204,Bengal Gram(Gram),Neemuch,2016-12-20,8201.0,3.6,23.0,clear
+1205,Black Gram (Urd Beans),Manasa,2016-12-20,5750.0,14.0,23.0,clear
+1206,Black Gram (Urd Beans),Neemuch,2016-12-20,5400.0,70.1,23.0,clear
+1207,Lentil(Masur),Manasa,2016-12-20,3150.0,3.0,23.0,clear
+1208,Bengal Gram(Gram),Neemuch,2016-12-21,8101.0,10.6,24.4,clear
+1209,Black Gram (Urd Beans),Manasa,2016-12-21,5325.0,27.0,24.4,clear
+1210,Black Gram (Urd Beans),Neemuch,2016-12-21,5500.0,44.2,24.4,clear
+1211,Lentil(Masur),Manasa,2016-12-21,3980.0,2.0,24.4,clear
+1212,Lentil(Masur),Neemuch,2016-12-21,3900.0,6.1,24.4,clear
+1213,Bengal Gram(Gram),Neemuch,2016-12-22,6300.0,6.0,25.2,clear
+1214,Black Gram (Urd Beans),Manasa,2016-12-22,5200.0,24.0,25.2,clear
+1215,Black Gram (Urd Beans),Neemuch,2016-12-22,5950.0,109.2,25.2,clear
+1216,Lentil(Masur),Manasa,2016-12-22,3550.0,4.0,25.2,clear
+1217,Lentil(Masur),Neemuch,2016-12-22,3601.0,7.3,25.2,clear
+1218,Bengal Gram(Gram),Neemuch,2016-12-23,8600.0,8.8,24.4,clear
+1219,Black Gram (Urd Beans),Manasa,2016-12-23,5940.0,37.0,24.4,clear
+1220,Black Gram (Urd Beans),Neemuch,2016-12-23,5600.0,82.6,24.4,clear
+1221,Green Gram (Moong),Neemuch,2016-12-23,3400.0,0.9,24.4,clear
+1222,Lentil(Masur),Manasa,2016-12-23,3720.0,7.0,24.4,clear
+1223,Lentil(Masur),Neemuch,2016-12-23,4100.0,3.2,24.4,clear
+1224,Bengal Gram(Gram),Neemuch,2016-12-26,7800.0,7.0,21.4,clear
+1225,Black Gram (Urd Beans),Manasa,2016-12-26,5970.0,15.0,21.4,clear
+1226,Black Gram (Urd Beans),Neemuch,2016-12-26,5800.0,88.1,21.4,clear
+1227,Lentil(Masur),Manasa,2016-12-26,3755.0,2.0,21.4,clear
+1228,Lentil(Masur),Neemuch,2016-12-26,3900.0,2.5,21.4,clear
+1229,Bengal Gram(Gram),Neemuch,2016-12-30,7725.0,11.1,26.4,clear
+1230,Black Gram (Urd Beans),Manasa,2016-12-30,6081.0,15.0,26.4,clear
+1231,Black Gram (Urd Beans),Neemuch,2016-12-30,6151.0,84.4,26.4,clear
+1232,Lentil(Masur),Manasa,2016-12-30,3799.0,1.0,26.4,clear
+1233,Lentil(Masur),Neemuch,2016-12-30,4212.0,4.5,26.4,clear
+1234,Bengal Gram(Gram),Neemuch,2016-12-31,7100.0,5.2,26.0,clear
+1235,Black Gram (Urd Beans),Manasa,2016-12-31,5901.0,14.0,26.0,clear
+1236,Black Gram (Urd Beans),Neemuch,2016-12-31,5900.0,40.5,26.0,clear
+1237,Lentil(Masur),Neemuch,2016-12-31,4400.0,1.9,26.0,clear
+1238,Black Gram (Urd Beans),Manasa,2016-01-01,9550.0,2.0,26.0,clear
+1239,Black Gram (Urd Beans),Neemuch,2016-01-01,9650.0,11.4,26.0,clear
+1240,Lentil(Masur),Neemuch,2016-01-01,5000.0,1.4,26.0,clear
+1241,Black Gram (Urd Beans),Manasa,2016-08-01,9551.0,37.0,25.6,clear
+1242,Black Gram (Urd Beans),Neemuch,2016-08-01,9500.0,20.1,25.6,clear
+1243,Lentil(Masur),Neemuch,2016-08-01,5275.0,0.4,25.6,clear
+1244,Black Gram (Urd Beans),Manasa,2016-12-01,9200.0,4.0,27.4,clear
+1245,Black Gram (Urd Beans),Neemuch,2016-12-01,9950.0,6.4,27.4,clear
+1246,Lentil(Masur),Neemuch,2016-12-01,5970.0,1.8,27.4,clear
+1247,Black Gram (Urd Beans),Manasa,2016-01-13,10301.0,1.0,25.0,clear
+1248,Black Gram (Urd Beans),Neemuch,2016-01-13,9900.0,15.6,25.0,clear
+1249,Lentil(Masur),Neemuch,2016-01-13,5500.0,3.1,25.0,clear
+1250,Black Gram (Urd Beans),Manasa,2016-01-14,8650.0,3.0,24.2,clear
+1251,Black Gram (Urd Beans),Neemuch,2016-01-14,9901.0,5.7,24.2,clear
+1252,Lentil(Masur),Neemuch,2016-01-14,5801.0,0.3,24.2,clear
+1253,Black Gram (Urd Beans),Manasa,2016-01-10,6688.0,127.0,25.4,clear
+1254,Black Gram (Urd Beans),Manasa,2016-10-14,6400.0,272.0,32.2,clear
+1255,Black Gram (Urd Beans),Manasa,2016-12-28,5500.0,23.0,24.2,clear
+1256,Lentil(Masur),Manasa,2016-12-28,3699.0,2.0,24.2,clear
+1257,Black Gram (Urd Beans),Neemuch,2016-05-01,9700.0,21.9,42.2,clear
+1258,Lentil(Masur),Neemuch,2016-05-01,5575.0,1.2,42.2,clear
+1259,Lentil(Masur),Neemuch,2016-11-17,4102.0,0.2,26.4,clear
+1260,Arhar (Tur/Red Gram),Neemuch,2017-06-01,5125.0,0.2,37.2,clear
+1261,Bengal Gram(Gram),Neemuch,2017-06-01,6501.0,4.6,37.2,clear
+1262,Black Gram (Urd Beans),Manasa,2017-06-01,5601.0,74.0,37.2,clear
+1263,Black Gram (Urd Beans),Neemuch,2017-06-01,5500.0,150.2,37.2,clear
+1264,Green Gram (Moong),Neemuch,2017-06-01,3200.0,0.9,37.2,clear
+1265,Lentil(Masur),Manasa,2017-06-01,3575.0,4.0,37.2,clear
+1266,Lentil(Masur),Neemuch,2017-06-01,4361.0,7.4,37.2,clear
+1267,Arhar (Tur/Red Gram),Neemuch,2017-09-01,4000.0,1.6,28.8,clear
+1268,Bengal Gram(Gram),Neemuch,2017-09-01,6000.0,3.5,28.8,clear
+1269,Black Gram (Urd Beans),Manasa,2017-09-01,5450.0,50.0,28.8,clear
+1270,Black Gram (Urd Beans),Neemuch,2017-09-01,5600.0,91.6,28.8,clear
+1271,Lentil(Masur),Neemuch,2017-09-01,4250.0,15.1,28.8,clear
+1272,Arhar (Tur/Red Gram),Neemuch,2017-12-01,3900.0,0.2,24.8,clear
+1273,Bengal Gram(Gram),Neemuch,2017-12-01,5800.0,1.4,24.8,clear
+1274,Black Gram (Urd Beans),Manasa,2017-12-01,5250.0,22.0,24.8,clear
+1275,Black Gram (Urd Beans),Neemuch,2017-12-01,5650.0,73.0,24.8,clear
+1276,Lentil(Masur),Manasa,2017-12-01,3550.0,2.0,24.8,clear
+1277,Lentil(Masur),Neemuch,2017-12-01,4175.0,8.7,24.8,clear
+1278,Arhar (Tur/Red Gram),Neemuch,2017-01-18,3401.0,2.4,20.8,clear
+1279,Bengal Gram(Gram),Neemuch,2017-01-18,5510.0,4.1,20.8,clear
+1280,Black Gram (Urd Beans),Manasa,2017-01-18,5635.0,26.0,20.8,clear
+1281,Black Gram (Urd Beans),Neemuch,2017-01-18,5550.0,124.4,20.8,clear
+1282,Green Gram (Moong),Neemuch,2017-01-18,3300.0,0.2,20.8,clear
+1283,Lentil(Masur),Manasa,2017-01-18,3275.0,1.0,20.8,clear
+1284,Lentil(Masur),Neemuch,2017-01-18,3876.0,8.5,20.8,clear
+1285,Arhar (Tur/Red Gram),Neemuch,2017-01-19,4751.0,1.2,19.2,clear
+1286,Bengal Gram(Gram),Neemuch,2017-01-19,5400.0,3.0,19.2,clear
+1287,Black Gram (Urd Beans),Manasa,2017-01-19,5550.0,38.0,19.2,clear
+1288,Black Gram (Urd Beans),Neemuch,2017-01-19,5500.0,95.4,19.2,clear
+1289,Lentil(Masur),Neemuch,2017-01-19,4000.0,1.8,19.2,clear
+1290,Arhar (Tur/Red Gram),Neemuch,2017-01-25,4112.0,2.8,28.8,clear
+1291,Bengal Gram(Gram),Neemuch,2017-01-25,5800.0,2.0,28.8,clear
+1292,Black Gram (Urd Beans),Manasa,2017-01-25,5500.0,22.0,28.8,clear
+1293,Black Gram (Urd Beans),Neemuch,2017-01-25,6050.0,89.2,28.8,clear
+1294,Green Gram (Moong),Neemuch,2017-01-25,3951.0,0.3,28.8,clear
+1295,Lentil(Masur),Manasa,2017-01-25,3150.0,1.0,28.8,clear
+1296,Lentil(Masur),Neemuch,2017-01-25,4300.0,7.0,28.8,clear
+1297,Arhar (Tur/Red Gram),Neemuch,2017-01-30,3500.0,2.3,26.4,clear
+1298,Bengal Gram(Gram),Neemuch,2017-01-30,5500.0,3.0,26.4,clear
+1299,Black Gram (Urd Beans),Manasa,2017-01-30,3834.0,26.0,26.4,clear
+1300,Black Gram (Urd Beans),Neemuch,2017-01-30,5550.0,196.1,26.4,clear
+1301,Green Gram (Moong),Neemuch,2017-01-30,3400.0,0.9,26.4,clear
+1302,Lentil(Masur),Manasa,2017-01-30,3856.0,2.0,26.4,clear
+1303,Lentil(Masur),Neemuch,2017-01-30,3550.0,10.7,26.4,clear
+1304,Arhar (Tur/Red Gram),Neemuch,2017-01-02,3800.0,4.5,21.4,clear
+1305,Bengal Gram(Gram),Neemuch,2017-01-02,4800.0,4.7,21.4,clear
+1306,Black Gram (Urd Beans),Manasa,2017-01-02,5350.0,18.0,21.4,clear
+1307,Black Gram (Urd Beans),Neemuch,2017-01-02,5250.0,50.9,21.4,clear
+1308,Green Gram (Moong),Neemuch,2017-01-02,1111.0,0.2,21.4,clear
+1309,Lentil(Masur),Neemuch,2017-01-02,4000.0,9.8,21.4,clear
+1310,Arhar (Tur/Red Gram),Neemuch,2017-02-02,2901.0,0.1,27.4,clear
+1311,Bengal Gram(Gram),Neemuch,2017-02-02,4050.0,4.3,27.4,clear
+1312,Black Gram (Urd Beans),Manasa,2017-02-02,5433.0,17.0,27.4,clear
+1313,Black Gram (Urd Beans),Neemuch,2017-02-02,5300.0,90.8,27.4,clear
+1314,Green Gram (Moong),Neemuch,2017-02-02,3250.0,0.5,27.4,clear
+1315,Lentil(Masur),Neemuch,2017-02-02,3250.0,3.2,27.4,clear
+1316,Arhar (Tur/Red Gram),Neemuch,2017-03-02,3900.0,2.5,31.6,clear
+1317,Bengal Gram(Gram),Neemuch,2017-03-02,4700.0,2.9,31.6,clear
+1318,Black Gram (Urd Beans),Manasa,2017-03-02,5050.0,21.0,31.6,clear
+1319,Black Gram (Urd Beans),Neemuch,2017-03-02,5300.0,87.0,31.6,clear
+1320,Green Gram (Moong),Neemuch,2017-03-02,2660.0,0.2,31.6,clear
+1321,Lentil(Masur),Manasa,2017-03-02,4000.0,1.0,31.6,clear
+1322,Lentil(Masur),Neemuch,2017-03-02,3800.0,11.8,31.6,clear
+1323,Arhar (Tur/Red Gram),Neemuch,2017-04-02,3300.0,0.8,38.8,clear
+1324,Bengal Gram(Gram),Neemuch,2017-04-02,5300.0,7.9,38.8,clear
+1325,Black Gram (Urd Beans),Manasa,2017-04-02,5050.0,14.0,38.8,clear
+1326,Black Gram (Urd Beans),Neemuch,2017-04-02,5250.0,67.9,38.8,clear
+1327,Green Gram (Moong),Neemuch,2017-04-02,3400.0,1.3,38.8,clear
+1328,Lentil(Masur),Neemuch,2017-04-02,3500.0,2.6,38.8,clear
+1329,Arhar (Tur/Red Gram),Neemuch,2017-06-02,3400.0,1.3,42.2,clear
+1330,Bengal Gram(Gram),Neemuch,2017-06-02,4300.0,6.9,42.2,clear
+1331,Black Gram (Urd Beans),Manasa,2017-06-02,5065.0,14.0,42.2,clear
+1332,Black Gram (Urd Beans),Neemuch,2017-06-02,5100.0,107.6,42.2,clear
+1333,Green Gram (Moong),Neemuch,2017-06-02,3401.0,0.2,42.2,clear
+1334,Lentil(Masur),Neemuch,2017-06-02,3600.0,7.6,42.2,clear
+1335,Arhar (Tur/Red Gram),Neemuch,2017-07-02,3466.0,4.3,27.0,clear
+1336,Bengal Gram(Gram),Neemuch,2017-07-02,4900.0,5.6,27.0,clear
+1337,Black Gram (Urd Beans),Manasa,2017-07-02,4950.0,18.0,27.0,clear
+1338,Black Gram (Urd Beans),Neemuch,2017-07-02,5200.0,91.4,27.0,clear
+1339,Lentil(Masur),Neemuch,2017-07-02,3400.0,2.9,27.0,clear
+1340,Arhar (Tur/Red Gram),Neemuch,2017-08-02,3500.0,5.3,30.2,clear
+1341,Bengal Gram(Gram),Neemuch,2017-08-02,4500.0,6.6,30.2,clear
+1342,Black Gram (Urd Beans),Neemuch,2017-08-02,5200.0,74.3,30.2,clear
+1343,Green Gram (Moong),Neemuch,2017-08-02,3100.0,1.3,30.2,clear
+1344,Lentil(Masur),Neemuch,2017-08-02,3600.0,4.1,30.2,clear
+1345,Arhar (Tur/Red Gram),Neemuch,2017-09-02,3575.0,0.2,26.0,rain
+1346,Bengal Gram(Gram),Neemuch,2017-09-02,4700.0,8.5,26.0,rain
+1347,Black Gram (Urd Beans),Manasa,2017-09-02,5108.0,10.0,26.0,rain
+1348,Black Gram (Urd Beans),Neemuch,2017-09-02,5200.0,51.6,26.0,rain
+1349,Green Gram (Moong),Neemuch,2017-09-02,3750.0,0.8,26.0,rain
+1350,Lentil(Masur),Manasa,2017-09-02,3400.0,2.0,26.0,rain
+1351,Lentil(Masur),Neemuch,2017-09-02,3500.0,8.0,26.0,rain
+1352,Arhar (Tur/Red Gram),Neemuch,2017-02-13,3970.0,4.9,24.8,clear
+1353,Bengal Gram(Gram),Neemuch,2017-02-13,4250.0,15.9,24.8,clear
+1354,Black Gram (Urd Beans),Manasa,2017-02-13,4250.0,19.0,24.8,clear
+1355,Black Gram (Urd Beans),Neemuch,2017-02-13,5050.0,64.5,24.8,clear
+1356,Lentil(Masur),Manasa,2017-02-13,3213.0,11.0,24.8,clear
+1357,Lentil(Masur),Neemuch,2017-02-13,3500.0,5.4,24.8,clear
+1358,Arhar (Tur/Red Gram),Neemuch,2017-02-14,3811.0,1.0,27.6,clear
+1359,Bengal Gram(Gram),Neemuch,2017-02-14,4450.0,17.4,27.6,clear
+1360,Black Gram (Urd Beans),Manasa,2017-02-14,4250.0,19.0,27.6,clear
+1361,Black Gram (Urd Beans),Neemuch,2017-02-14,5300.0,92.1,27.6,clear
+1362,Lentil(Masur),Manasa,2017-02-14,3270.0,12.0,27.6,clear
+1363,Lentil(Masur),Neemuch,2017-02-14,3600.0,19.2,27.6,clear
+1364,Arhar (Tur/Red Gram),Neemuch,2017-02-15,3731.0,3.2,29.0,clear
+1365,Bengal Gram(Gram),Neemuch,2017-02-15,4650.0,36.7,29.0,clear
+1366,Black Gram (Urd Beans),Manasa,2017-02-15,4450.0,18.0,29.0,clear
+1367,Black Gram (Urd Beans),Neemuch,2017-02-15,5100.0,74.0,29.0,clear
+1368,Lentil(Masur),Manasa,2017-02-15,3756.0,1.0,29.0,clear
+1369,Lentil(Masur),Neemuch,2017-02-15,3700.0,6.4,29.0,clear
+1370,Arhar (Tur/Red Gram),Neemuch,2017-02-16,2901.0,0.4,31.0,clear
+1371,Bengal Gram(Gram),Manasa,2017-02-16,4500.0,33.0,31.0,clear
+1372,Bengal Gram(Gram),Neemuch,2017-02-16,4750.0,11.2,31.0,clear
+1373,Black Gram (Urd Beans),Manasa,2017-02-16,4900.0,18.0,31.0,clear
+1374,Black Gram (Urd Beans),Neemuch,2017-02-16,4850.0,82.3,31.0,clear
+1375,Green Gram (Moong),Neemuch,2017-02-16,2800.0,0.4,31.0,clear
+1376,Lentil(Masur),Neemuch,2017-02-16,3750.0,5.1,31.0,clear
+1377,Arhar (Tur/Red Gram),Neemuch,2017-02-17,4000.0,0.9,29.8,clear
+1378,Bengal Gram(Gram),Manasa,2017-02-17,4800.0,32.0,29.8,clear
+1379,Bengal Gram(Gram),Neemuch,2017-02-17,4700.0,19.2,29.8,clear
+1380,Black Gram (Urd Beans),Manasa,2017-02-17,4900.0,20.0,29.8,clear
+1381,Black Gram (Urd Beans),Neemuch,2017-02-17,4900.0,61.7,29.8,clear
+1382,Green Gram (Moong),Neemuch,2017-02-17,3752.0,1.3,29.8,clear
+1383,Lentil(Masur),Manasa,2017-02-17,3662.0,3.0,29.8,clear
+1384,Lentil(Masur),Neemuch,2017-02-17,3900.0,10.1,29.8,clear
+1385,Arhar (Tur/Red Gram),Neemuch,2017-02-18,3905.0,1.1,14.6,clear
+1386,Bengal Gram(Gram),Manasa,2017-02-18,4549.0,74.0,14.6,clear
+1387,Bengal Gram(Gram),Neemuch,2017-02-18,4900.0,27.8,14.6,clear
+1388,Black Gram (Urd Beans),Manasa,2017-02-18,5143.0,20.0,14.6,clear
+1389,Black Gram (Urd Beans),Neemuch,2017-02-18,4900.0,50.1,14.6,clear
+1390,Green Gram (Moong),Neemuch,2017-02-18,3500.0,0.5,14.6,clear
+1391,Lentil(Masur),Manasa,2017-02-18,3736.0,11.0,14.6,clear
+1392,Lentil(Masur),Neemuch,2017-02-18,4800.0,10.1,14.6,clear
+1393,Arhar (Tur/Red Gram),Neemuch,2017-02-22,3450.0,7.8,28.2,clear
+1394,Bengal Gram(Gram),Manasa,2017-02-22,4000.0,53.0,28.2,clear
+1395,Bengal Gram(Gram),Neemuch,2017-02-22,4500.0,36.5,28.2,clear
+1396,Black Gram (Urd Beans),Manasa,2017-02-22,4535.0,19.0,28.2,clear
+1397,Black Gram (Urd Beans),Neemuch,2017-02-22,4825.0,46.3,28.2,clear
+1398,Lentil(Masur),Manasa,2017-02-22,3351.0,9.0,28.2,clear
+1399,Lentil(Masur),Neemuch,2017-02-22,3700.0,18.1,28.2,clear
+1400,Arhar (Tur/Red Gram),Neemuch,2017-02-23,2750.0,1.3,27.4,clear
+1401,Bengal Gram(Gram),Manasa,2017-02-23,4200.0,25.0,27.4,clear
+1402,Bengal Gram(Gram),Neemuch,2017-02-23,4400.0,37.4,27.4,clear
+1403,Black Gram (Urd Beans),Manasa,2017-02-23,4485.0,18.0,27.4,clear
+1404,Black Gram (Urd Beans),Neemuch,2017-02-23,4800.0,59.5,27.4,clear
+1405,Lentil(Masur),Neemuch,2017-02-23,3650.0,22.8,27.4,clear
+1406,Arhar (Tur/Red Gram),Neemuch,2017-02-27,3500.0,1.7,14.8,clear
+1407,Bengal Gram(Gram),Manasa,2017-02-27,3482.0,35.0,14.8,clear
+1408,Bengal Gram(Gram),Neemuch,2017-02-27,4100.0,61.8,14.8,clear
+1409,Black Gram (Urd Beans),Manasa,2017-02-27,4700.0,6.0,14.8,clear
+1410,Black Gram (Urd Beans),Neemuch,2017-02-27,4800.0,43.2,14.8,clear
+1411,Lentil(Masur),Manasa,2017-02-27,3350.0,10.0,14.8,clear
+1412,Lentil(Masur),Neemuch,2017-02-27,3500.0,19.9,14.8,clear
+1413,Arhar (Tur/Red Gram),Neemuch,2017-02-28,3000.0,1.7,33.2,clear
+1414,Bengal Gram(Gram),Manasa,2017-02-28,4136.0,21.0,33.2,clear
+1415,Bengal Gram(Gram),Neemuch,2017-02-28,4000.0,28.7,33.2,clear
+1416,Black Gram (Urd Beans),Manasa,2017-02-28,4510.0,3.0,33.2,clear
+1417,Black Gram (Urd Beans),Neemuch,2017-02-28,4800.0,17.5,33.2,clear
+1418,Lentil(Masur),Manasa,2017-02-28,3404.0,6.0,33.2,clear
+1419,Lentil(Masur),Neemuch,2017-02-28,3500.0,14.3,33.2,clear
+1420,Arhar (Tur/Red Gram),Neemuch,2017-02-03,3200.0,0.7,29.0,clear
+1421,Bengal Gram(Gram),Manasa,2017-02-03,4650.0,18.0,29.0,clear
+1422,Bengal Gram(Gram),Neemuch,2017-02-03,4500.0,28.3,29.0,clear
+1423,Black Gram (Urd Beans),Manasa,2017-02-03,4850.0,7.0,29.0,clear
+1424,Black Gram (Urd Beans),Neemuch,2017-02-03,4800.0,25.1,29.0,clear
+1425,Lentil(Masur),Manasa,2017-02-03,3530.0,12.0,29.0,clear
+1426,Lentil(Masur),Neemuch,2017-02-03,3500.0,18.0,29.0,clear
+1427,Arhar (Tur/Red Gram),Neemuch,2017-03-03,3600.0,2.2,28.4,clear
+1428,Bengal Gram(Gram),Manasa,2017-03-03,4050.0,23.0,28.4,clear
+1429,Bengal Gram(Gram),Neemuch,2017-03-03,4800.0,53.4,28.4,clear
+1430,Black Gram (Urd Beans),Manasa,2017-03-03,5450.0,9.0,28.4,clear
+1431,Black Gram (Urd Beans),Neemuch,2017-03-03,5000.0,34.6,28.4,clear
+1432,Lentil(Masur),Manasa,2017-03-03,3375.0,14.0,28.4,clear
+1433,Lentil(Masur),Neemuch,2017-03-03,3800.0,21.0,28.4,clear
+1434,Arhar (Tur/Red Gram),Neemuch,2017-04-03,3200.0,1.1,39.4,clear
+1435,Bengal Gram(Gram),Neemuch,2017-04-03,4200.0,43.8,39.4,clear
+1436,Black Gram (Urd Beans),Neemuch,2017-04-03,5100.0,59.1,39.4,clear
+1437,Lentil(Masur),Neemuch,2017-04-03,3600.0,11.7,39.4,clear
+1438,Arhar (Tur/Red Gram),Neemuch,2017-06-03,3000.0,0.6,42.8,clear
+1439,Bengal Gram(Gram),Neemuch,2017-06-03,4500.0,60.9,42.8,clear
+1440,Black Gram (Urd Beans),Neemuch,2017-06-03,5000.0,60.8,42.8,clear
+1441,Lentil(Masur),Neemuch,2017-06-03,3800.0,38.0,42.8,clear
+1442,Arhar (Tur/Red Gram),Neemuch,2017-07-03,3600.0,3.5,29.6,clear
+1443,Bengal Gram(Gram),Neemuch,2017-07-03,4200.0,51.5,29.6,clear
+1444,Black Gram (Urd Beans),Neemuch,2017-07-03,5000.0,15.2,29.6,clear
+1445,Lentil(Masur),Neemuch,2017-07-03,4000.0,7.8,29.6,clear
+1446,Arhar (Tur/Red Gram),Neemuch,2017-08-03,3505.0,6.4,29.4,clear
+1447,Bengal Gram(Gram),Neemuch,2017-08-03,4600.0,69.7,29.4,clear
+1448,Black Gram (Urd Beans),Neemuch,2017-08-03,5000.0,50.6,29.4,clear
+1449,Green Gram (Moong),Neemuch,2017-08-03,4200.0,0.1,29.4,clear
+1450,Lentil(Masur),Neemuch,2017-08-03,3900.0,19.4,29.4,clear
+1451,Arhar (Tur/Red Gram),Neemuch,2017-09-03,3200.0,2.9,28.8,clear
+1452,Bengal Gram(Gram),Neemuch,2017-09-03,4700.0,77.6,28.8,clear
+1453,Black Gram (Urd Beans),Neemuch,2017-09-03,5000.0,57.0,28.8,clear
+1454,Lentil(Masur),Neemuch,2017-09-03,4000.0,31.1,28.8,clear
+1455,Arhar (Tur/Red Gram),Neemuch,2017-10-03,3722.0,2.5,34.6,clear
+1456,Bengal Gram(Gram),Neemuch,2017-10-03,4500.0,94.2,34.6,clear
+1457,Black Gram (Urd Beans),Neemuch,2017-10-03,5000.0,89.2,34.6,clear
+1458,Green Gram (Moong),Neemuch,2017-10-03,3450.0,1.0,34.6,clear
+1459,Lentil(Masur),Neemuch,2017-10-03,4000.0,26.6,34.6,clear
+1460,Arhar (Tur/Red Gram),Neemuch,2017-03-14,1499.0,0.4,29.0,clear
+1461,Bengal Gram(Gram),Neemuch,2017-03-14,4500.0,55.0,29.0,clear
+1462,Black Gram (Urd Beans),Neemuch,2017-03-14,5300.0,50.9,29.0,clear
+1463,Lentil(Masur),Neemuch,2017-03-14,4150.0,31.3,29.0,clear
+1464,Arhar (Tur/Red Gram),Neemuch,2017-03-15,1350.0,0.4,31.4,clear
+1465,Bengal Gram(Gram),Neemuch,2017-03-15,4525.0,53.7,31.4,clear
+1466,Black Gram (Urd Beans),Neemuch,2017-03-15,5400.0,58.9,31.4,clear
+1467,Green Gram (Moong),Neemuch,2017-03-15,3100.0,0.4,31.4,clear
+1468,Lentil(Masur),Neemuch,2017-03-15,4000.0,14.8,31.4,clear
+1469,Arhar (Tur/Red Gram),Neemuch,2017-03-16,3500.0,1.9,32.6,clear
+1470,Bengal Gram(Gram),Neemuch,2017-03-16,4500.0,58.0,32.6,clear
+1471,Black Gram (Urd Beans),Neemuch,2017-03-16,5300.0,42.4,32.6,clear
+1472,Lentil(Masur),Neemuch,2017-03-16,4000.0,20.4,32.6,clear
+1473,Arhar (Tur/Red Gram),Neemuch,2017-03-17,3491.0,2.1,31.8,clear
+1474,Bengal Gram(Gram),Neemuch,2017-03-17,4600.0,82.3,31.8,clear
+1475,Black Gram (Urd Beans),Neemuch,2017-03-17,5500.0,50.2,31.8,clear
+1476,Lentil(Masur),Neemuch,2017-03-17,4100.0,18.0,31.8,clear
+1477,Arhar (Tur/Red Gram),Neemuch,2017-03-18,3650.0,0.8,25.0,rain
+1478,Bengal Gram(Gram),Neemuch,2017-03-18,4800.0,92.8,25.0,rain
+1479,Black Gram (Urd Beans),Neemuch,2017-03-18,5600.0,45.1,25.0,rain
+1480,Lentil(Masur),Neemuch,2017-03-18,4100.0,19.4,25.0,rain
+1481,Arhar (Tur/Red Gram),Neemuch,2017-03-21,3595.0,1.7,34.0,clear
+1482,Bengal Gram(Gram),Neemuch,2017-03-21,4650.0,82.4,34.0,clear
+1483,Black Gram (Urd Beans),Neemuch,2017-03-21,5800.0,52.7,34.0,clear
+1484,Lentil(Masur),Neemuch,2017-03-21,4250.0,44.6,34.0,clear
+1485,Arhar (Tur/Red Gram),Neemuch,2017-03-23,2900.0,1.2,36.4,clear
+1486,Bengal Gram(Gram),Neemuch,2017-03-23,5550.0,98.0,36.4,clear
+1487,Black Gram (Urd Beans),Neemuch,2017-03-23,6350.0,59.6,36.4,clear
+1488,Lentil(Masur),Neemuch,2017-03-23,4700.0,33.7,36.4,clear
+1489,Arhar (Tur/Red Gram),Neemuch,2017-03-24,3100.0,3.4,36.8,clear
+1490,Bengal Gram(Gram),Neemuch,2017-03-24,5500.0,70.0,36.8,clear
+1491,Black Gram (Urd Beans),Neemuch,2017-03-24,5400.0,120.4,36.8,clear
+1492,Lentil(Masur),Neemuch,2017-03-24,4600.0,36.4,36.8,clear
+1493,Arhar (Tur/Red Gram),Neemuch,2017-03-28,3788.0,0.1,39.4,clear
+1494,Bengal Gram(Gram),Neemuch,2017-03-28,5200.0,66.6,39.4,clear
+1495,Black Gram (Urd Beans),Neemuch,2017-03-28,5250.0,39.3,39.4,clear
+1496,Lentil(Masur),Neemuch,2017-03-28,4500.0,22.0,39.4,clear
+1497,Arhar (Tur/Red Gram),Neemuch,2017-06-04,3100.0,0.3,38.2,clear
+1498,Bengal Gram(Gram),Manasa,2017-06-04,5660.0,36.0,38.2,clear
+1499,Bengal Gram(Gram),Neemuch,2017-06-04,5400.0,47.3,38.2,clear
+1500,Black Gram (Urd Beans),Manasa,2017-06-04,5200.0,3.0,38.2,clear
+1501,Black Gram (Urd Beans),Neemuch,2017-06-04,5500.0,24.5,38.2,clear
+1502,Lentil(Masur),Manasa,2017-06-04,4200.0,8.0,38.2,clear
+1503,Lentil(Masur),Neemuch,2017-06-04,4200.0,14.4,38.2,clear
+1504,Arhar (Tur/Red Gram),Neemuch,2017-07-04,4000.0,0.6,33.6,clear
+1505,Bengal Gram(Gram),Manasa,2017-07-04,5500.0,56.0,33.6,clear
+1506,Bengal Gram(Gram),Neemuch,2017-07-04,5200.0,84.1,33.6,clear
+1507,Black Gram (Urd Beans),Manasa,2017-07-04,5090.0,10.0,33.6,clear
+1508,Black Gram (Urd Beans),Neemuch,2017-07-04,5600.0,23.6,33.6,clear
+1509,Lentil(Masur),Manasa,2017-07-04,4175.0,14.0,33.6,clear
+1510,Lentil(Masur),Neemuch,2017-07-04,4200.0,11.1,33.6,clear
+1511,Arhar (Tur/Red Gram),Neemuch,2017-10-04,3591.0,1.9,35.4,clear
+1512,Bengal Gram(Gram),Manasa,2017-10-04,5540.0,53.0,35.4,clear
+1513,Bengal Gram(Gram),Neemuch,2017-10-04,5400.0,56.7,35.4,clear
+1514,Black Gram (Urd Beans),Manasa,2017-10-04,4900.0,13.0,35.4,clear
+1515,Black Gram (Urd Beans),Neemuch,2017-10-04,5580.0,82.3,35.4,clear
+1516,Lentil(Masur),Manasa,2017-10-04,3950.0,10.0,35.4,clear
+1517,Lentil(Masur),Neemuch,2017-10-04,4150.0,12.7,35.4,clear
+1518,Arhar (Tur/Red Gram),Neemuch,2017-12-04,3125.0,1.0,22.2,clear
+1519,Bengal Gram(Gram),Manasa,2017-12-04,5870.0,40.0,22.2,clear
+1520,Bengal Gram(Gram),Neemuch,2017-12-04,5151.0,110.7,22.2,clear
+1521,Black Gram (Urd Beans),Manasa,2017-12-04,4850.0,1.0,22.2,clear
+1522,Black Gram (Urd Beans),Neemuch,2017-12-04,5201.0,87.8,22.2,clear
+1523,Lentil(Masur),Manasa,2017-12-04,4130.0,17.0,22.2,clear
+1524,Lentil(Masur),Neemuch,2017-12-04,4110.0,14.3,22.2,clear
+1525,Arhar (Tur/Red Gram),Neemuch,2017-04-13,3600.0,1.0,41.0,clear
+1526,Bengal Gram(Gram),Manasa,2017-04-13,5650.0,50.0,41.0,clear
+1527,Bengal Gram(Gram),Neemuch,2017-04-13,5351.0,59.8,41.0,clear
+1528,Black Gram (Urd Beans),Manasa,2017-04-13,4325.0,12.0,41.0,clear
+1529,Black Gram (Urd Beans),Neemuch,2017-04-13,5000.0,32.0,41.0,clear
+1530,Lentil(Masur),Javad,2017-04-13,4521.0,0.2,41.0,clear
+1531,Lentil(Masur),Manasa,2017-04-13,4000.0,13.0,41.0,clear
+1532,Lentil(Masur),Neemuch,2017-04-13,4150.0,14.5,41.0,clear
+1533,Arhar (Tur/Red Gram),Neemuch,2017-04-15,3430.0,5.4,41.0,clear
+1534,Bengal Gram(Gram),Manasa,2017-04-15,5300.0,77.0,41.0,clear
+1535,Bengal Gram(Gram),Neemuch,2017-04-15,5321.0,161.8,41.0,clear
+1536,Black Gram (Urd Beans),Javad,2017-04-15,4575.0,0.2,41.0,clear
+1537,Black Gram (Urd Beans),Manasa,2017-04-15,4300.0,12.0,41.0,clear
+1538,Black Gram (Urd Beans),Neemuch,2017-04-15,5400.0,40.7,41.0,clear
+1539,Lentil(Masur),Manasa,2017-04-15,3700.0,12.0,41.0,clear
+1540,Lentil(Masur),Neemuch,2017-04-15,4141.0,22.0,41.0,clear
+1541,Arhar (Tur/Red Gram),Neemuch,2017-04-20,3511.0,5.3,42.2,clear
+1542,Bengal Gram(Gram),Manasa,2017-04-20,5025.0,84.0,42.2,clear
+1543,Bengal Gram(Gram),Neemuch,2017-04-20,5200.0,82.6,42.2,clear
+1544,Black Gram (Urd Beans),Manasa,2017-04-20,5100.0,7.0,42.2,clear
+1545,Black Gram (Urd Beans),Neemuch,2017-04-20,5100.0,13.3,42.2,clear
+1546,Lentil(Masur),Javad,2017-04-20,4700.0,0.2,42.2,clear
+1547,Lentil(Masur),Manasa,2017-04-20,3517.0,7.0,42.2,clear
+1548,Lentil(Masur),Neemuch,2017-04-20,4100.0,10.0,42.2,clear
+1549,Arhar (Tur/Red Gram),Neemuch,2017-04-22,3200.0,1.7,39.0,clear
+1550,Bengal Gram(Gram),Neemuch,2017-04-22,5050.0,56.5,39.0,clear
+1551,Black Gram (Urd Beans),Neemuch,2017-04-22,5100.0,12.6,39.0,clear
+1552,Lentil(Masur),Neemuch,2017-04-22,4000.0,14.5,39.0,clear
+1553,Arhar (Tur/Red Gram),Neemuch,2017-04-25,3050.0,3.0,36.4,clear
+1554,Bengal Gram(Gram),Manasa,2017-04-25,4825.0,65.0,36.4,clear
+1555,Bengal Gram(Gram),Neemuch,2017-04-25,5250.0,117.5,36.4,clear
+1556,Black Gram (Urd Beans),Manasa,2017-04-25,4550.0,14.0,36.4,clear
+1557,Black Gram (Urd Beans),Neemuch,2017-04-25,4850.0,40.6,36.4,clear
+1558,Arhar (Tur/Red Gram),Neemuch,2017-04-26,3361.0,0.2,38.4,clear
+1559,Bengal Gram(Gram),Manasa,2017-04-26,5150.0,25.0,38.4,clear
+1560,Bengal Gram(Gram),Neemuch,2017-04-26,5300.0,93.1,38.4,clear
+1561,Black Gram (Urd Beans),Manasa,2017-04-26,4906.0,6.0,38.4,clear
+1562,Black Gram (Urd Beans),Neemuch,2017-04-26,4900.0,14.9,38.4,clear
+1563,Lentil(Masur),Javad,2017-04-26,4405.0,0.1,38.4,clear
+1564,Lentil(Masur),Manasa,2017-04-26,3660.0,16.0,38.4,clear
+1565,Lentil(Masur),Neemuch,2017-04-26,3800.0,8.9,38.4,clear
+1566,Arhar (Tur/Red Gram),Neemuch,2017-04-27,3100.0,2.8,39.8,clear
+1567,Bengal Gram(Gram),Manasa,2017-04-27,4938.0,36.0,39.8,clear
+1568,Bengal Gram(Gram),Neemuch,2017-04-27,5275.0,74.5,39.8,clear
+1569,Black Gram (Urd Beans),Manasa,2017-04-27,4350.0,8.0,39.8,clear
+1570,Black Gram (Urd Beans),Neemuch,2017-04-27,4800.0,13.5,39.8,clear
+1571,Lentil(Masur),Manasa,2017-04-27,3510.0,20.0,39.8,clear
+1572,Lentil(Masur),Neemuch,2017-04-27,4050.0,10.4,39.8,clear
+1573,Arhar (Tur/Red Gram),Neemuch,2017-04-28,3100.0,0.6,39.6,clear
+1574,Bengal Gram(Gram),Manasa,2017-04-28,4650.0,25.0,39.6,clear
+1575,Bengal Gram(Gram),Neemuch,2017-04-28,5200.0,62.2,39.6,clear
+1576,Black Gram (Urd Beans),Manasa,2017-04-28,4252.0,4.0,39.6,clear
+1577,Black Gram (Urd Beans),Neemuch,2017-04-28,4900.0,16.2,39.6,clear
+1578,Lentil(Masur),Manasa,2017-04-28,3455.0,8.0,39.6,clear
+1579,Lentil(Masur),Neemuch,2017-04-28,3800.0,19.7,39.6,clear
+1580,Arhar (Tur/Red Gram),Neemuch,2017-01-05,3100.0,0.8,24.6,clear
+1581,Bengal Gram(Gram),Manasa,2017-01-05,4460.0,11.0,24.6,clear
+1582,Bengal Gram(Gram),Neemuch,2017-01-05,5050.0,40.6,24.6,clear
+1583,Black Gram (Urd Beans),Manasa,2017-01-05,4625.0,4.0,24.6,clear
+1584,Black Gram (Urd Beans),Neemuch,2017-01-05,4900.0,8.8,24.6,clear
+1585,Lentil(Masur),Javad,2017-01-05,3900.0,0.1,24.6,clear
+1586,Lentil(Masur),Manasa,2017-01-05,3711.0,12.0,24.6,clear
+1587,Lentil(Masur),Neemuch,2017-01-05,3791.0,1.6,24.6,clear
+1588,Arhar (Tur/Red Gram),Neemuch,2017-02-05,3200.0,0.1,24.8,clear
+1589,Bengal Gram(Gram),Manasa,2017-02-05,5050.0,13.0,24.8,clear
+1590,Bengal Gram(Gram),Neemuch,2017-02-05,5300.0,39.2,24.8,clear
+1591,Black Gram (Urd Beans),Manasa,2017-02-05,4599.0,4.0,24.8,clear
+1592,Black Gram (Urd Beans),Neemuch,2017-02-05,5100.0,9.4,24.8,clear
+1593,Lentil(Masur),Manasa,2017-02-05,3559.0,8.0,24.8,clear
+1594,Lentil(Masur),Neemuch,2017-02-05,3951.0,6.4,24.8,clear
+1595,Arhar (Tur/Red Gram),Neemuch,2017-04-05,2500.0,0.1,38.8,clear
+1596,Bengal Gram(Gram),Manasa,2017-04-05,4980.0,31.0,38.8,clear
+1597,Bengal Gram(Gram),Neemuch,2017-04-05,5025.0,72.3,38.8,clear
+1598,Black Gram (Urd Beans),Manasa,2017-04-05,4780.0,5.0,38.8,clear
+1599,Black Gram (Urd Beans),Neemuch,2017-04-05,5000.0,13.9,38.8,clear
+1600,Green Gram (Moong),Neemuch,2017-04-05,2501.0,0.2,38.8,clear
+1601,Lentil(Masur),Manasa,2017-04-05,3660.0,17.0,38.8,clear
+1602,Lentil(Masur),Neemuch,2017-04-05,3955.0,3.4,38.8,clear
+1603,Arhar (Tur/Red Gram),Neemuch,2017-05-05,4241.0,0.1,36.4,rain
+1604,Bengal Gram(Gram),Manasa,2017-05-05,4945.0,27.0,36.4,rain
+1605,Bengal Gram(Gram),Neemuch,2017-05-05,5200.0,56.6,36.4,rain
+1606,Black Gram (Urd Beans),Manasa,2017-05-05,4600.0,2.0,36.4,rain
+1607,Black Gram (Urd Beans),Neemuch,2017-05-05,5000.0,10.0,36.4,rain
+1608,Lentil(Masur),Manasa,2017-05-05,3774.0,10.0,36.4,rain
+1609,Lentil(Masur),Neemuch,2017-05-05,4000.0,10.8,36.4,rain
+1610,Arhar (Tur/Red Gram),Neemuch,2017-06-05,2801.0,0.4,41.6,clear
+1611,Bengal Gram(Gram),Manasa,2017-06-05,4840.0,36.0,41.6,clear
+1612,Bengal Gram(Gram),Neemuch,2017-06-05,5000.0,29.5,41.6,clear
+1613,Black Gram (Urd Beans),Manasa,2017-06-05,4441.0,3.0,41.6,clear
+1614,Black Gram (Urd Beans),Neemuch,2017-06-05,5200.0,17.5,41.6,clear
+1615,Lentil(Masur),Manasa,2017-06-05,3774.0,10.0,41.6,clear
+1616,Lentil(Masur),Neemuch,2017-06-05,3952.0,7.2,41.6,clear
+1617,Arhar (Tur/Red Gram),Neemuch,2017-08-05,2471.0,4.1,32.0,clear
+1618,Bengal Gram(Gram),Manasa,2017-08-05,4778.0,39.0,32.0,clear
+1619,Bengal Gram(Gram),Neemuch,2017-08-05,5000.0,37.0,32.0,clear
+1620,Black Gram (Urd Beans),Neemuch,2017-08-05,5200.0,29.9,32.0,clear
+1621,Lentil(Masur),Manasa,2017-08-05,3716.0,4.0,32.0,clear
+1622,Lentil(Masur),Neemuch,2017-08-05,3751.0,11.6,32.0,clear
+1623,Arhar (Tur/Red Gram),Neemuch,2017-09-05,2440.0,0.5,31.0,clear
+1624,Bengal Gram(Gram),Manasa,2017-09-05,5265.0,16.0,31.0,clear
+1625,Bengal Gram(Gram),Neemuch,2017-09-05,5100.0,30.0,31.0,clear
+1626,Black Gram (Urd Beans),Neemuch,2017-09-05,5200.0,12.3,31.0,clear
+1627,Green Gram (Moong),Neemuch,2017-09-05,2400.0,0.4,31.0,clear
+1628,Lentil(Masur),Manasa,2017-09-05,7000.0,41.0,31.0,clear
+1629,Lentil(Masur),Neemuch,2017-09-05,3720.0,9.0,31.0,clear
+1630,Arhar (Tur/Red Gram),Neemuch,2017-11-05,3001.0,1.2,27.6,clear
+1631,Bengal Gram(Gram),Manasa,2017-11-05,5008.0,67.0,27.6,clear
+1632,Black Gram (Urd Beans),Manasa,2017-11-05,5051.0,4.0,27.6,clear
+1633,Black Gram (Urd Beans),Neemuch,2017-11-05,5200.0,26.3,27.6,clear
+1634,Lentil(Masur),Manasa,2017-11-05,3660.0,14.0,27.6,clear
+1635,Lentil(Masur),Neemuch,2017-11-05,3751.0,19.2,27.6,clear
+1636,Arhar (Tur/Red Gram),Neemuch,2017-12-05,2900.0,1.0,17.4,rain
+1637,Bengal Gram(Gram),Manasa,2017-12-05,5185.0,69.0,17.4,rain
+1638,Bengal Gram(Gram),Neemuch,2017-12-05,5300.0,83.7,17.4,rain
+1639,Black Gram (Urd Beans),Manasa,2017-12-05,5265.0,18.0,17.4,rain
+1640,Black Gram (Urd Beans),Neemuch,2017-12-05,5400.0,16.8,17.4,rain
+1641,Green Gram (Moong),Neemuch,2017-12-05,3501.0,0.3,17.4,rain
+1642,Lentil(Masur),Manasa,2017-12-05,3693.0,9.0,17.4,rain
+1643,Lentil(Masur),Neemuch,2017-12-05,3650.0,8.8,17.4,rain
+1644,Arhar (Tur/Red Gram),Neemuch,2017-05-16,3154.0,0.2,41.6,clear
+1645,Bengal Gram(Gram),Neemuch,2017-05-16,5270.0,86.8,41.6,clear
+1646,Black Gram (Urd Beans),Neemuch,2017-05-16,5300.0,58.2,41.6,clear
+1647,Lentil(Masur),Javad,2017-05-16,4188.0,0.15,41.6,clear
+1648,Lentil(Masur),Neemuch,2017-05-16,3841.0,18.7,41.6,clear
+1649,Arhar (Tur/Red Gram),Neemuch,2017-05-17,2381.0,0.5,40.8,clear
+1650,Bengal Gram(Gram),Manasa,2017-05-17,5000.0,35.0,40.8,clear
+1651,Bengal Gram(Gram),Neemuch,2017-05-17,5100.0,82.4,40.8,clear
+1652,Black Gram (Urd Beans),Manasa,2017-05-17,4950.0,4.0,40.8,clear
+1653,Black Gram (Urd Beans),Neemuch,2017-05-17,5100.0,60.8,40.8,clear
+1654,Lentil(Masur),Manasa,2017-05-17,3585.0,24.0,40.8,clear
+1655,Lentil(Masur),Neemuch,2017-05-17,3700.0,15.6,40.8,clear
+1656,Arhar (Tur/Red Gram),Neemuch,2017-05-18,2381.0,0.1,40.4,clear
+1657,Bengal Gram(Gram),Manasa,2017-05-18,4975.0,25.0,40.4,clear
+1658,Bengal Gram(Gram),Neemuch,2017-05-18,5100.0,56.9,40.4,clear
+1659,Black Gram (Urd Beans),Manasa,2017-05-18,5050.0,4.0,40.4,clear
+1660,Black Gram (Urd Beans),Neemuch,2017-05-18,4800.0,29.1,40.4,clear
+1661,Lentil(Masur),Manasa,2017-05-18,3600.0,12.0,40.4,clear
+1662,Lentil(Masur),Neemuch,2017-05-18,3606.0,17.9,40.4,clear
+1663,Arhar (Tur/Red Gram),Neemuch,2017-05-19,3000.0,0.4,42.8,clear
+1664,Bengal Gram(Gram),Manasa,2017-05-19,5000.0,40.0,42.8,clear
+1665,Bengal Gram(Gram),Neemuch,2017-05-19,4900.0,77.0,42.8,clear
+1666,Black Gram (Urd Beans),Manasa,2017-05-19,5050.0,16.0,42.8,clear
+1667,Black Gram (Urd Beans),Neemuch,2017-05-19,4800.0,32.2,42.8,clear
+1668,Lentil(Masur),Manasa,2017-05-19,3625.0,16.0,42.8,clear
+1669,Lentil(Masur),Neemuch,2017-05-19,3399.0,12.9,42.8,clear
+1670,Arhar (Tur/Red Gram),Neemuch,2017-05-20,2380.0,1.0,40.8,clear
+1671,Bengal Gram(Gram),Manasa,2017-05-20,5001.0,21.0,40.8,clear
+1672,Bengal Gram(Gram),Neemuch,2017-05-20,5100.0,53.9,40.8,clear
+1673,Black Gram (Urd Beans),Manasa,2017-05-20,4950.0,4.0,40.8,clear
+1674,Black Gram (Urd Beans),Neemuch,2017-05-20,4801.0,14.3,40.8,clear
+1675,Lentil(Masur),Manasa,2017-05-20,3625.0,12.0,40.8,clear
+1676,Lentil(Masur),Neemuch,2017-05-20,3400.0,13.3,40.8,clear
+1677,Arhar (Tur/Red Gram),Neemuch,2017-05-22,2741.0,1.5,36.6,clear
+1678,Bengal Gram(Gram),Manasa,2017-05-22,4800.0,63.0,36.6,clear
+1679,Bengal Gram(Gram),Neemuch,2017-05-22,4311.0,56.5,36.6,clear
+1680,Black Gram (Urd Beans),Manasa,2017-05-22,5091.0,2.0,36.6,clear
+1681,Black Gram (Urd Beans),Neemuch,2017-05-22,4701.0,34.7,36.6,clear
+1682,Lentil(Masur),Manasa,2017-05-22,3625.0,20.0,36.6,clear
+1683,Lentil(Masur),Neemuch,2017-05-22,3415.0,41.5,36.6,clear
+1684,Arhar (Tur/Red Gram),Neemuch,2017-05-24,2501.0,0.6,43.8,clear
+1685,Bengal Gram(Gram),Manasa,2017-05-24,5105.0,35.0,43.8,clear
+1686,Bengal Gram(Gram),Neemuch,2017-05-24,4551.0,54.9,43.8,clear
+1687,Black Gram (Urd Beans),Manasa,2017-05-24,4775.0,6.0,43.8,clear
+1688,Black Gram (Urd Beans),Neemuch,2017-05-24,4500.0,18.8,43.8,clear
+1689,Green Gram (Moong),Neemuch,2017-05-24,3731.0,0.1,43.8,clear
+1690,Lentil(Masur),Manasa,2017-05-24,3200.0,5.0,43.8,clear
+1691,Lentil(Masur),Neemuch,2017-05-24,3400.0,49.1,43.8,clear
+1692,Arhar (Tur/Red Gram),Neemuch,2017-05-25,3141.0,0.1,42.8,clear
+1693,Bengal Gram(Gram),Neemuch,2017-05-25,4731.0,28.4,42.8,clear
+1694,Black Gram (Urd Beans),Neemuch,2017-05-25,4600.0,31.2,42.8,clear
+1695,Lentil(Masur),Neemuch,2017-05-25,3561.0,46.3,42.8,clear
+1696,Arhar (Tur/Red Gram),Neemuch,2017-05-26,2700.0,2.8,45.8,clear
+1697,Bengal Gram(Gram),Neemuch,2017-05-26,4750.0,32.3,45.8,clear
+1698,Black Gram (Urd Beans),Neemuch,2017-05-26,4801.0,40.9,45.8,clear
+1699,Green Gram (Moong),Neemuch,2017-05-26,4252.0,0.1,45.8,clear
+1700,Lentil(Masur),Neemuch,2017-05-26,3452.0,70.1,45.8,clear
+1701,Arhar (Tur/Red Gram),Neemuch,2017-05-27,2417.0,0.1,44.8,clear
+1702,Bengal Gram(Gram),Neemuch,2017-05-27,4700.0,26.0,44.8,clear
+1703,Black Gram (Urd Beans),Neemuch,2017-05-27,4700.0,19.2,44.8,clear
+1704,Lentil(Masur),Neemuch,2017-05-27,3438.0,68.0,44.8,clear
+1705,Arhar (Tur/Red Gram),Neemuch,2017-05-29,2751.0,2.9,39.0,clear
+1706,Bengal Gram(Gram),Neemuch,2017-05-29,4951.0,35.1,39.0,clear
+1707,Black Gram (Urd Beans),Neemuch,2017-05-29,4900.0,19.1,39.0,clear
+1708,Lentil(Masur),Neemuch,2017-05-29,3425.0,76.1,39.0,clear
+1709,Arhar (Tur/Red Gram),Neemuch,2017-05-30,2510.0,0.1,28.8,clear
+1710,Bengal Gram(Gram),Neemuch,2017-05-30,4811.0,22.3,28.8,clear
+1711,Black Gram (Urd Beans),Neemuch,2017-05-30,4800.0,26.0,28.8,clear
+1712,Green Gram (Moong),Neemuch,2017-05-30,3800.0,0.1,28.8,clear
+1713,Lentil(Masur),Neemuch,2017-05-30,3350.0,5.4,28.8,clear
+1714,Arhar (Tur/Red Gram),Neemuch,2017-06-20,3350.0,1.4,36.2,clear
+1715,Bengal Gram(Gram),Neemuch,2017-06-20,4400.0,25.3,36.2,clear
+1716,Black Gram (Urd Beans),Neemuch,2017-06-20,4600.0,32.6,36.2,clear
+1717,Green Gram (Moong),Neemuch,2017-06-20,4000.0,4.3,36.2,clear
+1718,Lentil(Masur),Neemuch,2017-06-20,3300.0,13.1,36.2,clear
+1719,Arhar (Tur/Red Gram),Neemuch,2017-06-21,2500.0,3.3,38.4,clear
+1720,Bengal Gram(Gram),Neemuch,2017-06-21,4400.0,20.5,38.4,clear
+1721,Black Gram (Urd Beans),Neemuch,2017-06-21,4600.0,45.1,38.4,clear
+1722,Green Gram (Moong),Neemuch,2017-06-21,5225.0,4.1,38.4,clear
+1723,Lentil(Masur),Neemuch,2017-06-21,3300.0,5.2,38.4,clear
+1724,Arhar (Tur/Red Gram),Neemuch,2017-06-22,2650.0,2.6,34.4,clear
+1725,Bengal Gram(Gram),Neemuch,2017-06-22,4500.0,18.1,34.4,clear
+1726,Black Gram (Urd Beans),Neemuch,2017-06-22,4600.0,31.9,34.4,clear
+1727,Green Gram (Moong),Neemuch,2017-06-22,3600.0,6.1,34.4,clear
+1728,Lentil(Masur),Neemuch,2017-06-22,3400.0,7.2,34.4,clear
+1729,Arhar (Tur/Red Gram),Neemuch,2017-06-24,2650.0,0.8,35.0,clear
+1730,Bengal Gram(Gram),Neemuch,2017-06-24,4500.0,18.0,35.0,clear
+1731,Black Gram (Urd Beans),Neemuch,2017-06-24,4400.0,62.8,35.0,clear
+1732,Green Gram (Moong),Neemuch,2017-06-24,3800.0,2.3,35.0,clear
+1733,Lentil(Masur),Neemuch,2017-06-24,3250.0,8.2,35.0,clear
+1734,Arhar (Tur/Red Gram),Neemuch,2017-06-29,2781.0,0.8,33.6,clear
+1735,Bengal Gram(Gram),Manasa,2017-06-29,5000.0,32.0,33.6,clear
+1736,Bengal Gram(Gram),Neemuch,2017-06-29,4400.0,22.8,33.6,clear
+1737,Black Gram (Urd Beans),Manasa,2017-06-29,4449.0,78.0,33.6,clear
+1738,Black Gram (Urd Beans),Neemuch,2017-06-29,4401.0,75.4,33.6,clear
+1739,Green Gram (Moong),Neemuch,2017-06-29,3950.0,3.4,33.6,clear
+1740,Lentil(Masur),Manasa,2017-06-29,3050.0,18.0,33.6,clear
+1741,Lentil(Masur),Neemuch,2017-06-29,3400.0,11.0,33.6,clear
+1742,Arhar (Tur/Red Gram),Neemuch,2017-04-07,2720.0,0.5,34.2,clear
+1743,Bengal Gram(Gram),Manasa,2017-04-07,4250.0,14.0,34.2,clear
+1744,Bengal Gram(Gram),Neemuch,2017-04-07,4350.0,28.5,34.2,clear
+1745,Black Gram (Urd Beans),Manasa,2017-04-07,4150.0,30.0,34.2,clear
+1746,Black Gram (Urd Beans),Neemuch,2017-04-07,3750.0,40.4,34.2,clear
+1747,Green Gram (Moong),Neemuch,2017-04-07,3846.0,1.1,34.2,clear
+1748,Lentil(Masur),Neemuch,2017-04-07,3115.0,7.7,34.2,clear
+1749,Arhar (Tur/Red Gram),Neemuch,2017-05-07,2450.0,1.8,41.0,clear
+1750,Bengal Gram(Gram),Manasa,2017-05-07,4500.0,74.0,41.0,clear
+1751,Bengal Gram(Gram),Neemuch,2017-05-07,4350.0,47.5,41.0,clear
+1752,Black Gram (Urd Beans),Manasa,2017-05-07,3951.0,37.0,41.0,clear
+1753,Black Gram (Urd Beans),Neemuch,2017-05-07,3850.0,73.2,41.0,clear
+1754,Green Gram (Moong),Neemuch,2017-05-07,3550.0,3.5,41.0,clear
+1755,Lentil(Masur),Manasa,2017-05-07,3039.0,16.0,41.0,clear
+1756,Lentil(Masur),Neemuch,2017-05-07,3350.0,19.2,41.0,clear
+1757,Arhar (Tur/Red Gram),Neemuch,2017-06-07,2576.0,0.1,39.8,clear
+1758,Bengal Gram(Gram),Neemuch,2017-06-07,4550.0,22.4,39.8,clear
+1759,Black Gram (Urd Beans),Neemuch,2017-06-07,3857.0,30.7,39.8,clear
+1760,Green Gram (Moong),Neemuch,2017-06-07,4200.0,1.3,39.8,clear
+1761,Lentil(Masur),Neemuch,2017-06-07,3290.0,1.9,39.8,clear
+1762,Arhar (Tur/Red Gram),Neemuch,2017-07-07,2600.0,0.9,29.0,clear
+1763,Bengal Gram(Gram),Manasa,2017-07-07,4475.0,26.0,29.0,clear
+1764,Bengal Gram(Gram),Neemuch,2017-07-07,4400.0,25.6,29.0,clear
+1765,Black Gram (Urd Beans),Manasa,2017-07-07,4173.0,20.0,29.0,clear
+1766,Black Gram (Urd Beans),Neemuch,2017-07-07,3950.0,48.0,29.0,clear
+1767,Green Gram (Moong),Neemuch,2017-07-07,3621.0,3.8,29.0,clear
+1768,Lentil(Masur),Manasa,2017-07-07,2985.0,4.0,29.0,clear
+1769,Lentil(Masur),Neemuch,2017-07-07,3200.0,7.0,29.0,clear
+1770,Arhar (Tur/Red Gram),Neemuch,2017-08-07,2650.0,1.4,27.2,rain
+1771,Bengal Gram(Gram),Neemuch,2017-08-07,4600.0,25.3,27.2,rain
+1772,Black Gram (Urd Beans),Neemuch,2017-08-07,3950.0,21.9,27.2,rain
+1773,Green Gram (Moong),Neemuch,2017-08-07,3551.0,0.5,27.2,rain
+1774,Lentil(Masur),Neemuch,2017-08-07,3050.0,9.8,27.2,rain
+1775,Arhar (Tur/Red Gram),Neemuch,2017-10-07,2650.0,3.6,33.6,clear
+1776,Bengal Gram(Gram),Manasa,2017-10-07,4463.0,14.0,33.6,clear
+1777,Bengal Gram(Gram),Neemuch,2017-10-07,4500.0,21.4,33.6,clear
+1778,Black Gram (Urd Beans),Manasa,2017-10-07,3750.0,18.0,33.6,clear
+1779,Black Gram (Urd Beans),Neemuch,2017-10-07,3850.0,48.8,33.6,clear
+1780,Green Gram (Moong),Neemuch,2017-10-07,3350.0,2.0,33.6,clear
+1781,Lentil(Masur),Manasa,2017-10-07,3140.0,3.0,33.6,clear
+1782,Lentil(Masur),Neemuch,2017-10-07,3320.0,6.6,33.6,clear
+1783,Arhar (Tur/Red Gram),Neemuch,2017-11-07,2380.0,10.6,16.0,clear
+1784,Bengal Gram(Gram),Manasa,2017-11-07,4460.0,36.0,16.0,clear
+1785,Bengal Gram(Gram),Neemuch,2017-11-07,4700.0,14.9,16.0,clear
+1786,Black Gram (Urd Beans),Manasa,2017-11-07,3926.0,22.0,16.0,clear
+1787,Black Gram (Urd Beans),Neemuch,2017-11-07,3500.0,36.0,16.0,clear
+1788,Green Gram (Moong),Neemuch,2017-11-07,3250.0,2.8,16.0,clear
+1789,Arhar (Tur/Red Gram),Neemuch,2017-12-07,2700.0,0.4,21.4,clear
+1790,Bengal Gram(Gram),Manasa,2017-12-07,4291.0,71.0,21.4,clear
+1791,Bengal Gram(Gram),Neemuch,2017-12-07,4450.0,21.9,21.4,clear
+1792,Black Gram (Urd Beans),Manasa,2017-12-07,3062.0,32.0,21.4,clear
+1793,Black Gram (Urd Beans),Neemuch,2017-12-07,3850.0,50.6,21.4,clear
+1794,Green Gram (Moong),Neemuch,2017-12-07,3250.0,0.6,21.4,clear
+1795,Lentil(Masur),Manasa,2017-12-07,2376.0,1.0,21.4,clear
+1796,Lentil(Masur),Neemuch,2017-12-07,3150.0,5.4,21.4,clear
+1797,Arhar (Tur/Red Gram),Neemuch,2017-07-13,2551.0,1.1,24.4,rain
+1798,Bengal Gram(Gram),Manasa,2017-07-13,4845.0,43.0,24.4,rain
+1799,Black Gram (Urd Beans),Manasa,2017-07-13,3650.0,15.0,24.4,rain
+1800,Black Gram (Urd Beans),Neemuch,2017-07-13,3800.0,44.5,24.4,rain
+1801,Green Gram (Moong),Neemuch,2017-07-13,3860.0,3.5,24.4,rain
+1802,Lentil(Masur),Manasa,2017-07-13,2904.0,4.0,24.4,rain
+1803,Lentil(Masur),Neemuch,2017-07-13,2800.0,11.8,24.4,rain
+1804,Arhar (Tur/Red Gram),Neemuch,2017-07-18,3060.0,4.8,27.8,rain
+1805,Bengal Gram(Gram),Manasa,2017-07-18,4526.0,29.0,27.8,rain
+1806,Bengal Gram(Gram),Neemuch,2017-07-18,4500.0,10.5,27.8,rain
+1807,Black Gram (Urd Beans),Manasa,2017-07-18,3475.0,17.0,27.8,rain
+1808,Black Gram (Urd Beans),Neemuch,2017-07-18,3600.0,29.7,27.8,rain
+1809,Green Gram (Moong),Neemuch,2017-07-18,4075.0,0.4,27.8,rain
+1810,Lentil(Masur),Manasa,2017-07-18,2891.0,3.0,27.8,rain
+1811,Lentil(Masur),Neemuch,2017-07-18,3260.0,8.6,27.8,rain
+1812,Arhar (Tur/Red Gram),Neemuch,2017-07-19,2750.0,0.2,34.2,clear
+1813,Bengal Gram(Gram),Manasa,2017-07-19,4527.0,29.0,34.2,clear
+1814,Bengal Gram(Gram),Neemuch,2017-07-19,4771.0,14.6,34.2,clear
+1815,Black Gram (Urd Beans),Manasa,2017-07-19,3500.0,30.0,34.2,clear
+1816,Black Gram (Urd Beans),Neemuch,2017-07-19,3600.0,18.3,34.2,clear
+1817,Green Gram (Moong),Neemuch,2017-07-19,3801.0,4.4,34.2,clear
+1818,Lentil(Masur),Manasa,2017-07-19,3036.0,6.0,34.2,clear
+1819,Lentil(Masur),Neemuch,2017-07-19,3130.0,5.3,34.2,clear
+1820,Arhar (Tur/Red Gram),Neemuch,2017-07-20,2981.0,3.6,27.6,clear
+1821,Bengal Gram(Gram),Manasa,2017-07-20,4649.0,9.0,27.6,clear
+1822,Bengal Gram(Gram),Neemuch,2017-07-20,4500.0,13.6,27.6,clear
+1823,Black Gram (Urd Beans),Manasa,2017-07-20,3500.0,2.0,27.6,clear
+1824,Black Gram (Urd Beans),Neemuch,2017-07-20,3500.0,15.2,27.6,clear
+1825,Green Gram (Moong),Neemuch,2017-07-20,3750.0,3.9,27.6,clear
+1826,Lentil(Masur),Neemuch,2017-07-20,3001.0,7.8,27.6,clear
+1827,Arhar (Tur/Red Gram),Neemuch,2017-07-22,2720.0,0.3,26.2,rain
+1828,Bengal Gram(Gram),Neemuch,2017-07-22,4701.0,23.9,26.2,rain
+1829,Black Gram (Urd Beans),Neemuch,2017-07-22,3600.0,7.8,26.2,rain
+1830,Green Gram (Moong),Neemuch,2017-07-22,3500.0,1.9,26.2,rain
+1831,Lentil(Masur),Neemuch,2017-07-22,3081.0,7.6,26.2,rain
+1832,Arhar (Tur/Red Gram),Neemuch,2017-07-25,2520.0,0.5,24.0,rain
+1833,Bengal Gram(Gram),Neemuch,2017-07-25,4300.0,13.3,24.0,rain
+1834,Black Gram (Urd Beans),Neemuch,2017-07-25,3271.0,36.9,24.0,rain
+1835,Green Gram (Moong),Neemuch,2017-07-25,3450.0,2.0,24.0,rain
+1836,Lentil(Masur),Neemuch,2017-07-25,3080.0,8.3,24.0,rain
+1837,Arhar (Tur/Red Gram),Neemuch,2017-07-28,2050.0,0.2,25.4,rain
+1838,Bengal Gram(Gram),Manasa,2017-07-28,4131.0,15.0,25.4,rain
+1839,Bengal Gram(Gram),Neemuch,2017-07-28,4450.0,24.5,25.4,rain
+1840,Black Gram (Urd Beans),Manasa,2017-07-28,3055.0,11.0,25.4,rain
+1841,Black Gram (Urd Beans),Neemuch,2017-07-28,3101.0,21.2,25.4,rain
+1842,Green Gram (Moong),Neemuch,2017-07-28,3611.0,2.3,25.4,rain
+1843,Lentil(Masur),Neemuch,2017-07-28,2640.0,6.3,25.4,rain
+1844,Arhar (Tur/Red Gram),Neemuch,2017-07-29,2001.0,0.2,28.8,clear
+1845,Bengal Gram(Gram),Neemuch,2017-07-29,4150.0,7.5,28.8,clear
+1846,Black Gram (Urd Beans),Neemuch,2017-07-29,3200.0,4.2,28.8,clear
+1847,Green Gram (Moong),Neemuch,2017-07-29,3400.0,0.5,28.8,clear
+1848,Lentil(Masur),Neemuch,2017-07-29,2700.0,0.7,28.8,clear
+1849,Arhar (Tur/Red Gram),Neemuch,2017-02-08,1700.0,0.3,23.2,clear
+1850,Bengal Gram(Gram),Manasa,2017-02-08,4140.0,75.0,23.2,clear
+1851,Bengal Gram(Gram),Neemuch,2017-02-08,4500.0,35.7,23.2,clear
+1852,Black Gram (Urd Beans),Manasa,2017-02-08,3338.0,18.0,23.2,clear
+1853,Black Gram (Urd Beans),Neemuch,2017-02-08,3700.0,41.4,23.2,clear
+1854,Green Gram (Moong),Neemuch,2017-02-08,4000.0,1.7,23.2,clear
+1855,Lentil(Masur),Neemuch,2017-02-08,3000.0,12.5,23.2,clear
+1856,Arhar (Tur/Red Gram),Neemuch,2017-04-08,3000.0,0.6,34.4,clear
+1857,Bengal Gram(Gram),Manasa,2017-04-08,4684.0,28.0,34.4,clear
+1858,Bengal Gram(Gram),Neemuch,2017-04-08,4475.0,51.0,34.4,clear
+1859,Black Gram (Urd Beans),Manasa,2017-04-08,3006.0,18.0,34.4,clear
+1860,Black Gram (Urd Beans),Neemuch,2017-04-08,3500.0,43.5,34.4,clear
+1861,Green Gram (Moong),Neemuch,2017-04-08,3300.0,1.6,34.4,clear
+1862,Lentil(Masur),Manasa,2017-04-08,3016.0,12.0,34.4,clear
+1863,Lentil(Masur),Neemuch,2017-04-08,3280.0,9.5,34.4,clear
+1864,Arhar (Tur/Red Gram),Neemuch,2017-05-08,2600.0,1.5,41.0,clear
+1865,Bengal Gram(Gram),Manasa,2017-05-08,4621.0,24.0,41.0,clear
+1866,Bengal Gram(Gram),Neemuch,2017-05-08,4550.0,43.7,41.0,clear
+1867,Black Gram (Urd Beans),Manasa,2017-05-08,3066.0,22.0,41.0,clear
+1868,Black Gram (Urd Beans),Neemuch,2017-05-08,3500.0,12.1,41.0,clear
+1869,Green Gram (Moong),Neemuch,2017-05-08,3700.0,1.0,41.0,clear
+1870,Lentil(Masur),Manasa,2017-05-08,3140.0,6.0,41.0,clear
+1871,Lentil(Masur),Neemuch,2017-05-08,2250.0,7.0,41.0,clear
+1872,Arhar (Tur/Red Gram),Neemuch,2017-08-08,2100.0,0.1,25.8,rain
+1873,Bengal Gram(Gram),Neemuch,2017-08-08,4761.0,9.6,25.8,rain
+1874,Black Gram (Urd Beans),Neemuch,2017-08-08,3801.0,7.9,25.8,rain
+1875,Green Gram (Moong),Neemuch,2017-08-08,3620.0,3.8,25.8,rain
+1876,Lentil(Masur),Neemuch,2017-08-08,3186.0,3.5,25.8,rain
+1877,Arhar (Tur/Red Gram),Neemuch,2017-11-08,3070.0,4.3,28.4,clear
+1878,Bengal Gram(Gram),Manasa,2017-11-08,4824.0,11.0,28.4,clear
+1879,Bengal Gram(Gram),Neemuch,2017-11-08,4960.0,33.6,28.4,clear
+1880,Black Gram (Urd Beans),Manasa,2017-11-08,3847.0,15.0,28.4,clear
+1881,Black Gram (Urd Beans),Neemuch,2017-11-08,4700.0,30.0,28.4,clear
+1882,Green Gram (Moong),Neemuch,2017-11-08,4200.0,0.6,28.4,clear
+1883,Lentil(Masur),Manasa,2017-11-08,3353.0,23.0,28.4,clear
+1884,Lentil(Masur),Neemuch,2017-11-08,3351.0,6.0,28.4,clear
+1885,Arhar (Tur/Red Gram),Neemuch,2017-12-08,3000.0,1.5,23.8,clear
+1886,Bengal Gram(Gram),Neemuch,2017-12-08,5154.0,37.8,23.8,clear
+1887,Black Gram (Urd Beans),Neemuch,2017-12-08,4100.0,37.4,23.8,clear
+1888,Green Gram (Moong),Neemuch,2017-12-08,4275.0,1.8,23.8,clear
+1889,Lentil(Masur),Neemuch,2017-12-08,3599.0,3.4,23.8,clear
+1890,Arhar (Tur/Red Gram),Neemuch,2017-08-14,3210.0,1.2,29.8,clear
+1891,Bengal Gram(Gram),Neemuch,2017-08-14,4750.0,35.3,29.8,clear
+1892,Black Gram (Urd Beans),Neemuch,2017-08-14,4350.0,31.7,29.8,clear
+1893,Green Gram (Moong),Neemuch,2017-08-14,4050.0,1.3,29.8,clear
+1894,Lentil(Masur),Neemuch,2017-08-14,3400.0,14.0,29.8,clear
+1895,Arhar (Tur/Red Gram),Neemuch,2017-08-16,3191.0,3.2,32.8,clear
+1896,Bengal Gram(Gram),Manasa,2017-08-16,4976.0,18.0,32.8,clear
+1897,Bengal Gram(Gram),Neemuch,2017-08-16,5150.0,32.2,32.8,clear
+1898,Black Gram (Urd Beans),Manasa,2017-08-16,3900.0,7.0,32.8,clear
+1899,Black Gram (Urd Beans),Neemuch,2017-08-16,3850.0,34.1,32.8,clear
+1900,Green Gram (Moong),Neemuch,2017-08-16,3790.0,0.5,32.8,clear
+1901,Lentil(Masur),Manasa,2017-08-16,3475.0,5.0,32.8,clear
+1902,Lentil(Masur),Neemuch,2017-08-16,3751.0,4.5,32.8,clear
+1903,Arhar (Tur/Red Gram),Neemuch,2017-08-17,3200.0,2.5,32.4,clear
+1904,Bengal Gram(Gram),Manasa,2017-08-17,5100.0,33.0,32.4,clear
+1905,Bengal Gram(Gram),Neemuch,2017-08-17,5150.0,20.8,32.4,clear
+1906,Black Gram (Urd Beans),Manasa,2017-08-17,3825.0,15.0,32.4,clear
+1907,Black Gram (Urd Beans),Neemuch,2017-08-17,4451.0,27.6,32.4,clear
+1908,Green Gram (Moong),Neemuch,2017-08-17,4125.0,3.5,32.4,clear
+1909,Lentil(Masur),Manasa,2017-08-17,3749.0,5.0,32.4,clear
+1910,Lentil(Masur),Neemuch,2017-08-17,3500.0,8.0,32.4,clear
+1911,Arhar (Tur/Red Gram),Neemuch,2017-08-18,3381.0,0.9,33.4,clear
+1912,Bengal Gram(Gram),Manasa,2017-08-18,4955.0,21.0,33.4,clear
+1913,Bengal Gram(Gram),Neemuch,2017-08-18,5150.0,15.0,33.4,clear
+1914,Black Gram (Urd Beans),Manasa,2017-08-18,3555.0,12.0,33.4,clear
+1915,Black Gram (Urd Beans),Neemuch,2017-08-18,4201.0,18.8,33.4,clear
+1916,Green Gram (Moong),Neemuch,2017-08-18,4300.0,0.2,33.4,clear
+1917,Lentil(Masur),Manasa,2017-08-18,3645.0,6.0,33.4,clear
+1918,Lentil(Masur),Neemuch,2017-08-18,3550.0,4.9,33.4,clear
+1919,Arhar (Tur/Red Gram),Neemuch,2017-08-19,3101.0,3.3,32.8,clear
+1920,Bengal Gram(Gram),Neemuch,2017-08-19,4700.0,8.3,32.8,clear
+1921,Black Gram (Urd Beans),Neemuch,2017-08-19,4150.0,21.1,32.8,clear
+1922,Green Gram (Moong),Neemuch,2017-08-19,3611.0,0.1,32.8,clear
+1923,Lentil(Masur),Neemuch,2017-08-19,3500.0,3.0,32.8,clear
+1924,Arhar (Tur/Red Gram),Neemuch,2017-08-21,3500.0,1.0,33.0,clear
+1925,Bengal Gram(Gram),Manasa,2017-08-21,5200.0,1.0,33.0,clear
+1926,Bengal Gram(Gram),Neemuch,2017-08-21,5200.0,35.0,33.0,clear
+1927,Black Gram (Urd Beans),Manasa,2017-08-21,3325.0,9.0,33.0,clear
+1928,Black Gram (Urd Beans),Neemuch,2017-08-21,4000.0,53.0,33.0,clear
+1929,Green Gram (Moong),Neemuch,2017-08-21,4025.0,3.0,33.0,clear
+1930,Lentil(Masur),Manasa,2017-08-21,3500.0,2.0,33.0,clear
+1931,Lentil(Masur),Neemuch,2017-08-21,3600.0,7.5,33.0,clear
+1932,Arhar (Tur/Red Gram),Neemuch,2017-08-22,3390.0,2.7,33.5,clear
+1933,Bengal Gram(Gram),Neemuch,2017-08-22,5200.0,34.8,33.5,clear
+1934,Black Gram (Urd Beans),Manasa,2017-08-22,3924.0,10.0,33.5,clear
+1935,Black Gram (Urd Beans),Neemuch,2017-08-22,4302.0,48.8,33.5,clear
+1936,Green Gram (Moong),Neemuch,2017-08-22,4220.0,2.0,33.5,clear
+1937,Lentil(Masur),Manasa,2017-08-22,9125.0,16.0,33.5,clear
+1938,Lentil(Masur),Neemuch,2017-08-22,3600.0,5.0,33.5,clear
+1939,Arhar (Tur/Red Gram),Neemuch,2017-08-23,3500.0,1.5,31.4,clear
+1940,Bengal Gram(Gram),Manasa,2017-08-23,5156.0,6.0,31.4,clear
+1941,Bengal Gram(Gram),Neemuch,2017-08-23,5100.0,15.7,31.4,clear
+1942,Black Gram (Urd Beans),Manasa,2017-08-23,3574.0,6.0,31.4,clear
+1943,Black Gram (Urd Beans),Neemuch,2017-08-23,4600.0,75.9,31.4,clear
+1944,Green Gram (Moong),Neemuch,2017-08-23,4450.0,3.7,31.4,clear
+1945,Lentil(Masur),Manasa,2017-08-23,3395.0,6.0,31.4,clear
+1946,Lentil(Masur),Neemuch,2017-08-23,3700.0,6.9,31.4,clear
+1947,Arhar (Tur/Red Gram),Neemuch,2017-08-24,3600.0,0.4,26.4,rain
+1948,Bengal Gram(Gram),Manasa,2017-08-24,5265.0,4.0,26.4,rain
+1949,Bengal Gram(Gram),Neemuch,2017-08-24,5500.0,10.0,26.4,rain
+1950,Black Gram (Urd Beans),Manasa,2017-08-24,3812.0,13.0,26.4,rain
+1951,Black Gram (Urd Beans),Neemuch,2017-08-24,4550.0,52.0,26.4,rain
+1952,Green Gram (Moong),Neemuch,2017-08-24,4800.0,0.4,26.4,rain
+1953,Lentil(Masur),Manasa,2017-08-24,3600.0,1.0,26.4,rain
+1954,Lentil(Masur),Neemuch,2017-08-24,3700.0,9.7,26.4,rain
+1955,Arhar (Tur/Red Gram),Neemuch,2017-08-28,3750.0,1.2,27.2,clear
+1956,Bengal Gram(Gram),Manasa,2017-08-28,4900.0,8.0,27.2,clear
+1957,Bengal Gram(Gram),Neemuch,2017-08-28,5520.0,20.0,27.2,clear
+1958,Black Gram (Urd Beans),Manasa,2017-08-28,3985.0,6.0,27.2,clear
+1959,Black Gram (Urd Beans),Neemuch,2017-08-28,4000.0,60.7,27.2,clear
+1960,Green Gram (Moong),Neemuch,2017-08-28,4100.0,2.5,27.2,clear
+1961,Arhar (Tur/Red Gram),Neemuch,2017-08-30,3451.0,0.6,27.2,clear
+1962,Bengal Gram(Gram),Manasa,2017-08-30,5200.0,8.0,27.2,clear
+1963,Bengal Gram(Gram),Neemuch,2017-08-30,4050.0,58.6,27.2,clear
+1964,Black Gram (Urd Beans),Manasa,2017-08-30,4025.0,9.0,27.2,clear
+1965,Black Gram (Urd Beans),Neemuch,2017-08-30,5051.0,8.6,27.2,clear
+1966,Green Gram (Moong),Neemuch,2017-08-30,3900.0,3.4,27.2,clear
+1967,Lentil(Masur),Manasa,2017-08-30,3575.0,6.0,27.2,clear
+1968,Arhar (Tur/Red Gram),Neemuch,2017-08-31,3430.0,3.2,25.4,rain
+1969,Bengal Gram(Gram),Manasa,2017-08-31,5581.0,11.0,25.4,rain
+1970,Bengal Gram(Gram),Neemuch,2017-08-31,5450.0,4.8,25.4,rain
+1971,Black Gram (Urd Beans),Manasa,2017-08-31,3976.0,7.0,25.4,rain
+1972,Black Gram (Urd Beans),Neemuch,2017-08-31,4300.0,77.5,25.4,rain
+1973,Green Gram (Moong),Neemuch,2017-08-31,3751.0,3.3,25.4,rain
+1974,Lentil(Masur),Neemuch,2017-08-31,3340.0,5.2,25.4,rain
+1975,Arhar (Tur/Red Gram),Neemuch,2017-01-09,3050.0,0.6,19.4,clear
+1976,Bengal Gram(Gram),Manasa,2017-01-09,5428.0,8.0,19.4,clear
+1977,Bengal Gram(Gram),Neemuch,2017-01-09,5490.0,19.8,19.4,clear
+1978,Black Gram (Urd Beans),Manasa,2017-01-09,3706.0,6.0,19.4,clear
+1979,Black Gram (Urd Beans),Neemuch,2017-01-09,4000.0,55.0,19.4,clear
+1980,Green Gram (Moong),Neemuch,2017-01-09,4000.0,1.2,19.4,clear
+1981,Lentil(Masur),Manasa,2017-01-09,3216.0,5.0,19.4,clear
+1982,Lentil(Masur),Neemuch,2017-01-09,3426.0,7.8,19.4,clear
+1983,Arhar (Tur/Red Gram),Neemuch,2017-04-09,3090.0,2.6,34.2,clear
+1984,Bengal Gram(Gram),Manasa,2017-04-09,5330.0,3.0,34.2,clear
+1985,Bengal Gram(Gram),Neemuch,2017-04-09,5500.0,27.0,34.2,clear
+1986,Black Gram (Urd Beans),Manasa,2017-04-09,3299.0,9.0,34.2,clear
+1987,Black Gram (Urd Beans),Neemuch,2017-04-09,3500.0,35.2,34.2,clear
+1988,Green Gram (Moong),Neemuch,2017-04-09,3311.0,1.3,34.2,clear
+1989,Lentil(Masur),Manasa,2017-04-09,3418.0,17.0,34.2,clear
+1990,Lentil(Masur),Neemuch,2017-04-09,3099.0,16.7,34.2,clear
+1991,Arhar (Tur/Red Gram),Neemuch,2017-07-09,3200.0,0.4,35.6,clear
+1992,Bengal Gram(Gram),Manasa,2017-07-09,5475.0,22.0,35.6,clear
+1993,Bengal Gram(Gram),Neemuch,2017-07-09,5420.0,23.8,35.6,clear
+1994,Black Gram (Urd Beans),Manasa,2017-07-09,3687.0,77.0,35.6,clear
+1995,Black Gram (Urd Beans),Neemuch,2017-07-09,3800.0,26.9,35.6,clear
+1996,Green Gram (Moong),Neemuch,2017-07-09,2561.0,0.4,35.6,clear
+1997,Lentil(Masur),Manasa,2017-07-09,3270.0,18.0,35.6,clear
+1998,Lentil(Masur),Neemuch,2017-07-09,3350.0,7.5,35.6,clear
+1999,Arhar (Tur/Red Gram),Neemuch,2017-08-09,3390.0,3.0,25.2,clear
+2000,Bengal Gram(Gram),Manasa,2017-08-09,5400.0,24.0,25.2,clear
+2001,Bengal Gram(Gram),Neemuch,2017-08-09,5150.0,26.5,25.2,clear
+2002,Black Gram (Urd Beans),Manasa,2017-08-09,3020.0,46.0,25.2,clear
+2003,Black Gram (Urd Beans),Neemuch,2017-08-09,3351.0,59.2,25.2,clear
+2004,Green Gram (Moong),Neemuch,2017-08-09,4000.0,3.2,25.2,clear
+2005,Lentil(Masur),Manasa,2017-08-09,3216.0,5.0,25.2,clear
+2006,Lentil(Masur),Neemuch,2017-08-09,3000.0,13.0,25.2,clear
+2007,Arhar (Tur/Red Gram),Neemuch,2017-09-09,3100.0,2.3,33.0,clear
+2008,Bengal Gram(Gram),Neemuch,2017-09-09,5501.0,14.4,33.0,clear
+2009,Black Gram (Urd Beans),Neemuch,2017-09-09,4201.0,32.9,33.0,clear
+2010,Green Gram (Moong),Neemuch,2017-09-09,4025.0,1.8,33.0,clear
+2011,Lentil(Masur),Neemuch,2017-09-09,3140.0,0.0,33.0,clear
+2012,Arhar (Tur/Red Gram),Neemuch,2017-11-09,3400.0,1.9,28.0,clear
+2013,Bengal Gram(Gram),Manasa,2017-11-09,5300.0,13.0,28.0,clear
+2014,Bengal Gram(Gram),Neemuch,2017-11-09,5300.0,20.0,28.0,clear
+2015,Black Gram (Urd Beans),Manasa,2017-11-09,3762.0,1480.0,28.0,clear
+2016,Black Gram (Urd Beans),Neemuch,2017-11-09,4200.0,90.0,28.0,clear
+2017,Green Gram (Moong),Neemuch,2017-11-09,3700.0,2.7,28.0,clear
+2018,Lentil(Masur),Manasa,2017-11-09,2952.0,9.0,28.0,clear
+2019,Lentil(Masur),Neemuch,2017-11-09,3300.0,4.7,28.0,clear
+2020,Arhar (Tur/Red Gram),Neemuch,2017-12-09,3240.0,0.4,25.0,clear
+2021,Bengal Gram(Gram),Manasa,2017-12-09,4985.0,9.0,25.0,clear
+2022,Bengal Gram(Gram),Neemuch,2017-12-09,5300.0,21.9,25.0,clear
+2023,Black Gram (Urd Beans),Manasa,2017-12-09,3637.0,548.0,25.0,clear
+2024,Black Gram (Urd Beans),Neemuch,2017-12-09,4100.0,59.3,25.0,clear
+2025,Green Gram (Moong),Neemuch,2017-12-09,3500.0,5.7,25.0,clear
+2026,Lentil(Masur),Manasa,2017-12-09,3883.0,6.0,25.0,clear
+2027,Lentil(Masur),Neemuch,2017-12-09,3200.0,9.5,25.0,clear
+2028,Arhar (Tur/Red Gram),Neemuch,2017-09-14,3191.0,3.0,31.0,clear
+2029,Bengal Gram(Gram),Manasa,2017-09-14,5123.0,6.0,31.0,clear
+2030,Bengal Gram(Gram),Neemuch,2017-09-14,5450.0,13.4,31.0,clear
+2031,Black Gram (Urd Beans),Manasa,2017-09-14,5123.0,6.0,31.0,clear
+2032,Black Gram (Urd Beans),Neemuch,2017-09-14,4200.0,123.3,31.0,clear
+2033,Green Gram (Moong),Neemuch,2017-09-14,3500.0,1.6,31.0,clear
+2034,Lentil(Masur),Neemuch,2017-09-14,3300.0,3.1,31.0,clear
+2035,Arhar (Tur/Red Gram),Neemuch,2017-09-15,2451.0,0.2,27.2,clear
+2036,Bengal Gram(Gram),Manasa,2017-09-15,5281.0,2.0,27.2,clear
+2037,Bengal Gram(Gram),Neemuch,2017-09-15,5500.0,21.6,27.2,clear
+2038,Black Gram (Urd Beans),Manasa,2017-09-15,4015.0,384.0,27.2,clear
+2039,Green Gram (Moong),Neemuch,2017-09-15,3851.0,2.4,27.2,clear
+2040,Lentil(Masur),Manasa,2017-09-15,3279.0,4.0,27.2,clear
+2041,Lentil(Masur),Neemuch,2017-09-15,3300.0,4.6,27.2,clear
+2042,Arhar (Tur/Red Gram),Neemuch,2017-09-16,3500.0,0.1,28.4,clear
+2043,Bengal Gram(Gram),Neemuch,2017-09-16,5500.0,9.5,28.4,clear
+2044,Black Gram (Urd Beans),Neemuch,2017-09-16,5200.0,136.1,28.4,clear
+2045,Green Gram (Moong),Neemuch,2017-09-16,3500.0,2.6,28.4,clear
+2046,Arhar (Tur/Red Gram),Neemuch,2017-09-18,3470.0,0.2,33.4,clear
+2047,Bengal Gram(Gram),Neemuch,2017-09-18,5350.0,11.5,33.4,clear
+2048,Black Gram (Urd Beans),Neemuch,2017-09-18,4350.0,196.0,33.4,clear
+2049,Lentil(Masur),Neemuch,2017-09-18,3250.0,4.5,33.4,clear
+2050,Arhar (Tur/Red Gram),Neemuch,2017-09-19,3320.0,1.7,33.4,clear
+2051,Bengal Gram(Gram),Manasa,2017-09-19,5110.0,8.0,33.4,clear
+2052,Bengal Gram(Gram),Neemuch,2017-09-19,5300.0,13.2,33.4,clear
+2053,Black Gram (Urd Beans),Manasa,2017-09-19,4135.0,488.0,33.4,clear
+2054,Black Gram (Urd Beans),Neemuch,2017-09-19,4150.0,107.9,33.4,clear
+2055,Green Gram (Moong),Neemuch,2017-09-19,3650.0,4.7,33.4,clear
+2056,Lentil(Masur),Manasa,2017-09-19,3175.0,5.0,33.4,clear
+2057,Lentil(Masur),Neemuch,2017-09-19,3151.0,6.3,33.4,clear
+2058,Arhar (Tur/Red Gram),Neemuch,2017-09-20,3250.0,1.5,33.8,clear
+2059,Bengal Gram(Gram),Neemuch,2017-09-20,5350.0,23.0,33.8,clear
+2060,Black Gram (Urd Beans),Neemuch,2017-09-20,3400.0,162.5,33.8,clear
+2061,Lentil(Masur),Neemuch,2017-09-20,3100.0,6.1,33.8,clear
+2062,Arhar (Tur/Red Gram),Neemuch,2017-09-22,3000.0,0.2,30.0,clear
+2063,Bengal Gram(Gram),Manasa,2017-09-22,4100.0,5.0,30.0,clear
+2064,Bengal Gram(Gram),Neemuch,2017-09-22,5080.0,10.7,30.0,clear
+2065,Black Gram (Urd Beans),Manasa,2017-09-22,3925.0,384.0,30.0,clear
+2066,Black Gram (Urd Beans),Neemuch,2017-09-22,3600.0,187.5,30.0,clear
+2067,Green Gram (Moong),Neemuch,2017-09-22,3200.0,1.2,30.0,clear
+2068,Lentil(Masur),Neemuch,2017-09-22,3160.0,6.8,30.0,clear
+2069,Arhar (Tur/Red Gram),Neemuch,2017-09-23,2851.0,2.2,32.4,clear
+2070,Bengal Gram(Gram),Neemuch,2017-09-23,5240.0,12.6,32.4,clear
+2071,Black Gram (Urd Beans),Neemuch,2017-09-23,3738.0,190.9,32.4,clear
+2072,Green Gram (Moong),Neemuch,2017-09-23,3950.0,1.6,32.4,clear
+2073,Lentil(Masur),Neemuch,2017-09-23,3090.0,6.6,32.4,clear
+2074,Arhar (Tur/Red Gram),Neemuch,2017-09-25,3181.0,1.8,33.8,clear
+2075,Bengal Gram(Gram),Manasa,2017-09-25,5100.0,6.0,33.8,clear
+2076,Bengal Gram(Gram),Neemuch,2017-09-25,4700.0,10.3,33.8,clear
+2077,Black Gram (Urd Beans),Manasa,2017-09-25,3700.0,720.0,33.8,clear
+2078,Black Gram (Urd Beans),Neemuch,2017-09-25,3700.0,276.6,33.8,clear
+2079,Green Gram (Moong),Neemuch,2017-09-25,3500.0,4.4,33.8,clear
+2080,Lentil(Masur),Neemuch,2017-09-25,3250.0,4.8,33.8,clear
+2081,Arhar (Tur/Red Gram),Neemuch,2017-09-26,3191.0,0.1,33.2,clear
+2082,Bengal Gram(Gram),Manasa,2017-09-26,5100.0,5.0,33.2,clear
+2083,Bengal Gram(Gram),Neemuch,2017-09-26,5000.0,8.3,33.2,clear
+2084,Black Gram (Urd Beans),Manasa,2017-09-26,3856.0,660.0,33.2,clear
+2085,Black Gram (Urd Beans),Neemuch,2017-09-26,4300.0,180.5,33.2,clear
+2086,Green Gram (Moong),Neemuch,2017-09-26,3500.0,3.0,33.2,clear
+2087,Lentil(Masur),Manasa,2017-09-26,2800.0,3.0,33.2,clear
+2088,Lentil(Masur),Neemuch,2017-09-26,3100.0,4.5,33.2,clear
+2089,Arhar (Tur/Red Gram),Neemuch,2017-09-27,3100.0,0.8,26.2,clear
+2090,Bengal Gram(Gram),Neemuch,2017-09-27,5200.0,9.7,26.2,clear
+2091,Black Gram (Urd Beans),Manasa,2017-09-27,3640.0,464.0,26.2,clear
+2092,Black Gram (Urd Beans),Neemuch,2017-09-27,3900.0,507.5,26.2,clear
+2093,Lentil(Masur),Neemuch,2017-09-27,3100.0,7.5,26.2,clear
+2094,Arhar (Tur/Red Gram),Neemuch,2017-10-10,2000.0,0.1,33.8,clear
+2095,Bengal Gram(Gram),Manasa,2017-10-10,4376.0,25.0,33.8,clear
+2096,Bengal Gram(Gram),Neemuch,2017-10-10,4850.0,33.7,33.8,clear
+2097,Black Gram (Urd Beans),Javad,2017-10-10,5400.0,0.2,33.8,clear
+2098,Black Gram (Urd Beans),Manasa,2017-10-10,3230.0,228.0,33.8,clear
+2099,Black Gram (Urd Beans),Neemuch,2017-10-10,3500.0,286.9,33.8,clear
+2100,Green Gram (Moong),Neemuch,2017-10-10,3200.0,1.5,33.8,clear
+2101,Lentil(Masur),Manasa,2017-10-10,2550.0,4.0,33.8,clear
+2102,Lentil(Masur),Neemuch,2017-10-10,2900.0,7.3,33.8,clear
+2103,Arhar (Tur/Red Gram),Neemuch,2017-12-10,3240.0,1.7,25.2,clear
+2104,Bengal Gram(Gram),Manasa,2017-12-10,4091.0,15.0,25.2,clear
+2105,Bengal Gram(Gram),Neemuch,2017-12-10,3700.0,17.1,25.2,clear
+2106,Black Gram (Urd Beans),Manasa,2017-12-10,3142.0,152.0,25.2,clear
+2107,Black Gram (Urd Beans),Neemuch,2017-12-10,3500.0,259.2,25.2,clear
+2108,Green Gram (Moong),Neemuch,2017-12-10,3325.0,1.2,25.2,clear
+2109,Lentil(Masur),Manasa,2017-12-10,2712.0,10.0,25.2,clear
+2110,Lentil(Masur),Neemuch,2017-12-10,2741.0,6.2,25.2,clear
+2111,Arhar (Tur/Red Gram),Neemuch,2017-10-13,2500.0,2.2,33.8,clear
+2112,Bengal Gram(Gram),Manasa,2017-10-13,4006.0,11.0,33.8,clear
+2113,Bengal Gram(Gram),Neemuch,2017-10-13,4300.0,213.1,33.8,clear
+2114,Black Gram (Urd Beans),Javad,2017-10-13,5400.0,0.3,33.8,clear
+2115,Black Gram (Urd Beans),Manasa,2017-10-13,3140.0,152.0,33.8,clear
+2116,Black Gram (Urd Beans),Neemuch,2017-10-13,3300.0,240.0,33.8,clear
+2117,Green Gram (Moong),Neemuch,2017-10-13,3500.0,0.6,33.8,clear
+2118,Lentil(Masur),Manasa,2017-10-13,2496.0,8.0,33.8,clear
+2119,Lentil(Masur),Neemuch,2017-10-13,2700.0,7.2,33.8,clear
+2120,Arhar (Tur/Red Gram),Neemuch,2017-10-25,3151.0,1.0,31.2,clear
+2121,Bengal Gram(Gram),Manasa,2017-10-25,4260.0,11.0,31.2,clear
+2122,Bengal Gram(Gram),Neemuch,2017-10-25,4350.0,21.6,31.2,clear
+2123,Black Gram (Urd Beans),Manasa,2017-10-25,3186.0,348.0,31.2,clear
+2124,Black Gram (Urd Beans),Neemuch,2017-10-25,3451.0,452.7,31.2,clear
+2125,Green Gram (Moong),Neemuch,2017-10-25,3300.0,0.8,31.2,clear
+2126,Lentil(Masur),Manasa,2017-10-25,2821.0,8.0,31.2,clear
+2127,Lentil(Masur),Neemuch,2017-10-25,3000.0,3.1,31.2,clear
+2128,Arhar (Tur/Red Gram),Neemuch,2017-10-26,2711.0,0.2,30.8,clear
+2129,Bengal Gram(Gram),Manasa,2017-10-26,4250.0,15.0,30.8,clear
+2130,Bengal Gram(Gram),Neemuch,2017-10-26,4350.0,36.6,30.8,clear
+2131,Black Gram (Urd Beans),Manasa,2017-10-26,3150.0,352.0,30.8,clear
+2132,Black Gram (Urd Beans),Neemuch,2017-10-26,3325.0,430.5,30.8,clear
+2133,Green Gram (Moong),Neemuch,2017-10-26,3150.0,0.7,30.8,clear
+2134,Lentil(Masur),Manasa,2017-10-26,3000.0,8.0,30.8,clear
+2135,Lentil(Masur),Neemuch,2017-10-26,3000.0,2.2,30.8,clear
+2136,Arhar (Tur/Red Gram),Neemuch,2017-10-30,2900.0,0.9,31.0,clear
+2137,Bengal Gram(Gram),Manasa,2017-10-30,3768.0,6.0,31.0,clear
+2138,Bengal Gram(Gram),Neemuch,2017-10-30,3860.0,24.4,31.0,clear
+2139,Black Gram (Urd Beans),Javad,2017-10-30,5400.0,1.4,31.0,clear
+2140,Black Gram (Urd Beans),Manasa,2017-10-30,3200.0,391.0,31.0,clear
+2141,Black Gram (Urd Beans),Neemuch,2017-10-30,3800.0,379.2,31.0,clear
+2142,Lentil(Masur),Manasa,2017-10-30,2720.0,5.0,31.0,clear
+2143,Lentil(Masur),Neemuch,2017-10-30,3000.0,3.6,31.0,clear
+2144,Arhar (Tur/Red Gram),Neemuch,2017-10-31,2750.0,3.7,30.0,clear
+2145,Bengal Gram(Gram),Manasa,2017-10-31,3830.0,7.0,30.0,clear
+2146,Bengal Gram(Gram),Neemuch,2017-10-31,3700.0,52.7,30.0,clear
+2147,Black Gram (Urd Beans),Javad,2017-10-31,5400.0,0.2,30.0,clear
+2148,Black Gram (Urd Beans),Manasa,2017-10-31,2900.0,364.0,30.0,clear
+2149,Black Gram (Urd Beans),Neemuch,2017-10-31,3300.0,237.3,30.0,clear
+2150,Green Gram (Moong),Neemuch,2017-10-31,3000.0,0.7,30.0,clear
+2151,Lentil(Masur),Manasa,2017-10-31,2750.0,5.0,30.0,clear
+2152,Lentil(Masur),Neemuch,2017-10-31,3031.0,4.6,30.0,clear
+2153,Arhar (Tur/Red Gram),Neemuch,2017-02-11,1021.0,0.2,23.2,clear
+2154,Bengal Gram(Gram),Manasa,2017-02-11,3600.0,18.0,23.2,clear
+2155,Bengal Gram(Gram),Neemuch,2017-02-11,3800.0,29.8,23.2,clear
+2156,Black Gram (Urd Beans),Manasa,2017-02-11,2715.0,176.0,23.2,clear
+2157,Black Gram (Urd Beans),Neemuch,2017-02-11,3400.0,299.8,23.2,clear
+2158,Green Gram (Moong),Neemuch,2017-02-11,3200.0,0.6,23.2,clear
+2159,Lentil(Masur),Manasa,2017-02-11,2815.0,4.0,23.2,clear
+2160,Lentil(Masur),Neemuch,2017-02-11,3000.0,7.0,23.2,clear
+2161,Arhar (Tur/Red Gram),Neemuch,2017-03-11,2700.0,0.2,25.4,clear
+2162,Bengal Gram(Gram),Neemuch,2017-03-11,3851.0,35.6,25.4,clear
+2163,Black Gram (Urd Beans),Neemuch,2017-03-11,3400.0,332.5,25.4,clear
+2164,Lentil(Masur),Neemuch,2017-03-11,2950.0,17.6,25.4,clear
+2165,Bengal Gram(Gram),Manasa,2017-02-20,4427.0,48.0,32.0,clear
+2166,Bengal Gram(Gram),Neemuch,2017-02-20,4850.0,43.7,32.0,clear
+2167,Black Gram (Urd Beans),Manasa,2017-02-20,4975.0,9.0,32.0,clear
+2168,Black Gram (Urd Beans),Neemuch,2017-02-20,4800.0,77.6,32.0,clear
+2169,Green Gram (Moong),Neemuch,2017-02-20,4300.0,0.1,32.0,clear
+2170,Lentil(Masur),Manasa,2017-02-20,4000.0,5.0,32.0,clear
+2171,Lentil(Masur),Neemuch,2017-02-20,3850.0,24.9,32.0,clear
+2172,Bengal Gram(Gram),Manasa,2017-02-21,4050.0,98.0,27.8,clear
+2173,Bengal Gram(Gram),Neemuch,2017-02-21,4650.0,13.8,27.8,clear
+2174,Black Gram (Urd Beans),Manasa,2017-02-21,4800.0,10.0,27.8,clear
+2175,Black Gram (Urd Beans),Neemuch,2017-02-21,4750.0,65.9,27.8,clear
+2176,Lentil(Masur),Manasa,2017-02-21,3440.0,6.0,27.8,clear
+2177,Lentil(Masur),Neemuch,2017-02-21,3600.0,21.1,27.8,clear
+2178,Bengal Gram(Gram),Manasa,2017-01-03,4166.0,65.0,22.4,clear
+2179,Bengal Gram(Gram),Neemuch,2017-01-03,4000.0,56.8,22.4,clear
+2180,Black Gram (Urd Beans),Manasa,2017-01-03,5126.0,12.0,22.4,clear
+2181,Black Gram (Urd Beans),Neemuch,2017-01-03,4800.0,37.1,22.4,clear
+2182,Green Gram (Moong),Neemuch,2017-01-03,3001.0,0.2,22.4,clear
+2183,Lentil(Masur),Manasa,2017-01-03,3309.0,16.0,22.4,clear
+2184,Lentil(Masur),Neemuch,2017-01-03,3400.0,10.7,22.4,clear
+2185,Bengal Gram(Gram),Manasa,2017-03-04,5000.0,18.0,28.6,clear
+2186,Black Gram (Urd Beans),Javad,2017-03-04,4711.0,0.2,28.6,clear
+2187,Lentil(Masur),Manasa,2017-03-04,4200.0,8.0,28.6,clear
+2188,Bengal Gram(Gram),Manasa,2017-04-04,5491.0,13.0,37.8,clear
+2189,Black Gram (Urd Beans),Manasa,2017-04-04,5160.0,3.0,37.8,clear
+2190,Lentil(Masur),Manasa,2017-04-04,4275.0,4.0,37.8,clear
+2191,Bengal Gram(Gram),Manasa,2017-08-04,5411.0,17.0,26.2,clear
+2192,Bengal Gram(Gram),Neemuch,2017-08-04,5400.0,47.1,26.2,clear
+2193,Black Gram (Urd Beans),Manasa,2017-08-04,5500.0,1.0,26.2,clear
+2194,Black Gram (Urd Beans),Neemuch,2017-08-04,5600.0,40.9,26.2,clear
+2195,Green Gram (Moong),Neemuch,2017-08-04,3700.0,0.2,26.2,clear
+2196,Lentil(Masur),Manasa,2017-08-04,4266.0,2.0,26.2,clear
+2197,Lentil(Masur),Neemuch,2017-08-04,4150.0,10.0,26.2,clear
+2198,Bengal Gram(Gram),Manasa,2017-04-17,4940.0,77.0,42.8,clear
+2199,Bengal Gram(Gram),Neemuch,2017-04-17,5250.0,90.5,42.8,clear
+2200,Black Gram (Urd Beans),Manasa,2017-04-17,5251.0,13.0,42.8,clear
+2201,Black Gram (Urd Beans),Neemuch,2017-04-17,5350.0,23.8,42.8,clear
+2202,Lentil(Masur),Manasa,2017-04-17,3800.0,18.0,42.8,clear
+2203,Lentil(Masur),Neemuch,2017-04-17,4050.0,9.6,42.8,clear
+2204,Bengal Gram(Gram),Manasa,2017-04-18,5300.0,84.0,42.2,clear
+2205,Bengal Gram(Gram),Neemuch,2017-04-18,5250.0,58.0,42.2,clear
+2206,Black Gram (Urd Beans),Manasa,2017-04-18,4825.0,20.0,42.2,clear
+2207,Black Gram (Urd Beans),Neemuch,2017-04-18,5100.0,28.2,42.2,clear
+2208,Lentil(Masur),Manasa,2017-04-18,3825.0,20.0,42.2,clear
+2209,Lentil(Masur),Neemuch,2017-04-18,4020.0,8.4,42.2,clear
+2210,Bengal Gram(Gram),Manasa,2017-04-19,5412.0,74.0,39.4,clear
+2211,Black Gram (Urd Beans),Manasa,2017-04-19,4895.0,4.0,39.4,clear
+2212,Lentil(Masur),Manasa,2017-04-19,3745.0,12.0,39.4,clear
+2213,Bengal Gram(Gram),Manasa,2017-04-21,5175.0,46.0,41.6,clear
+2214,Black Gram (Urd Beans),Manasa,2017-04-21,4855.0,6.0,41.6,clear
+2215,Lentil(Masur),Manasa,2017-04-21,3575.0,8.0,41.6,clear
+2216,Bengal Gram(Gram),Manasa,2017-04-24,4799.0,36.0,36.4,clear
+2217,Black Gram (Urd Beans),Manasa,2017-04-24,4500.0,1.0,36.4,clear
+2218,Lentil(Masur),Manasa,2017-04-24,3740.0,20.0,36.4,clear
+2219,Bengal Gram(Gram),Manasa,2017-03-05,5001.0,20.0,29.0,clear
+2220,Bengal Gram(Gram),Neemuch,2017-03-05,5051.0,47.1,29.0,clear
+2221,Black Gram (Urd Beans),Neemuch,2017-03-05,5100.0,12.7,29.0,clear
+2222,Lentil(Masur),Manasa,2017-03-05,3300.0,8.0,29.0,clear
+2223,Lentil(Masur),Neemuch,2017-03-05,3950.0,12.8,29.0,clear
+2224,Bengal Gram(Gram),Manasa,2017-05-23,4900.0,28.0,40.2,clear
+2225,Bengal Gram(Gram),Neemuch,2017-05-23,4701.0,75.3,40.2,clear
+2226,Black Gram (Urd Beans),Manasa,2017-05-23,4700.0,3.0,40.2,clear
+2227,Black Gram (Urd Beans),Neemuch,2017-05-23,4701.0,18.1,40.2,clear
+2228,Lentil(Masur),Manasa,2017-05-23,3325.0,16.0,40.2,clear
+2229,Lentil(Masur),Neemuch,2017-05-23,3500.0,20.4,40.2,clear
+2230,Bengal Gram(Gram),Manasa,2017-06-17,4290.0,2.0,39.4,clear
+2231,Bengal Gram(Gram),Manasa,2017-06-27,4950.0,32.0,31.8,clear
+2232,Bengal Gram(Gram),Neemuch,2017-06-27,4350.0,13.6,31.8,clear
+2233,Black Gram (Urd Beans),Manasa,2017-06-27,4375.0,52.0,31.8,clear
+2234,Black Gram (Urd Beans),Neemuch,2017-06-27,4501.0,32.0,31.8,clear
+2235,Green Gram (Moong),Neemuch,2017-06-27,3800.0,0.4,31.8,clear
+2236,Lentil(Masur),Neemuch,2017-06-27,3361.0,9.1,31.8,clear
+2237,Bengal Gram(Gram),Manasa,2017-06-28,4925.0,19.0,35.2,clear
+2238,Black Gram (Urd Beans),Manasa,2017-06-28,4012.0,33.0,35.2,clear
+2239,Bengal Gram(Gram),Manasa,2017-03-07,4305.0,15.0,31.0,clear
+2240,Black Gram (Urd Beans),Manasa,2017-03-07,4175.0,40.0,31.0,clear
+2241,Bengal Gram(Gram),Manasa,2017-07-15,4269.0,30.0,27.4,clear
+2242,Bengal Gram(Gram),Neemuch,2017-07-15,4750.0,3.2,27.4,clear
+2243,Black Gram (Urd Beans),Manasa,2017-07-15,3450.0,16.0,27.4,clear
+2244,Black Gram (Urd Beans),Neemuch,2017-07-15,4100.0,5.5,27.4,clear
+2245,Green Gram (Moong),Neemuch,2017-07-15,3750.0,0.5,27.4,clear
+2246,Lentil(Masur),Manasa,2017-07-15,2530.0,3.0,27.4,clear
+2247,Bengal Gram(Gram),Manasa,2017-07-17,4420.0,43.0,31.4,clear
+2248,Black Gram (Urd Beans),Manasa,2017-07-17,3525.0,22.0,31.4,clear
+2249,Lentil(Masur),Manasa,2017-07-17,3055.0,6.0,31.4,clear
+2250,Bengal Gram(Gram),Manasa,2017-07-24,3975.0,10.0,24.2,clear
+2251,Black Gram (Urd Beans),Manasa,2017-07-24,3200.0,7.0,24.2,clear
+2252,Lentil(Masur),Manasa,2017-07-24,2971.0,2.0,24.2,clear
+2253,Bengal Gram(Gram),Manasa,2017-07-26,3676.0,57.0,28.2,clear
+2254,Bengal Gram(Gram),Neemuch,2017-07-26,4805.0,19.7,28.2,clear
+2255,Black Gram (Urd Beans),Manasa,2017-07-26,3125.0,12.0,28.2,clear
+2256,Black Gram (Urd Beans),Neemuch,2017-07-26,3430.0,34.6,28.2,clear
+2257,Green Gram (Moong),Neemuch,2017-07-26,3550.0,1.9,28.2,clear
+2258,Lentil(Masur),Neemuch,2017-07-26,2851.0,9.4,28.2,clear
+2259,Bengal Gram(Gram),Manasa,2017-07-27,4130.0,66.0,26.0,rain
+2260,Bengal Gram(Gram),Neemuch,2017-07-27,4451.0,16.3,26.0,rain
+2261,Black Gram (Urd Beans),Manasa,2017-07-27,3108.0,12.0,26.0,rain
+2262,Black Gram (Urd Beans),Neemuch,2017-07-27,3100.0,10.5,26.0,rain
+2263,Lentil(Masur),Manasa,2017-07-27,2650.0,11.0,26.0,rain
+2264,Lentil(Masur),Neemuch,2017-07-27,2762.0,2.8,26.0,rain
+2265,Bengal Gram(Gram),Manasa,2017-03-08,4245.0,45.0,30.2,clear
+2266,Bengal Gram(Gram),Neemuch,2017-03-08,4650.0,44.2,30.2,clear
+2267,Black Gram (Urd Beans),Manasa,2017-03-08,3300.0,14.0,30.2,clear
+2268,Black Gram (Urd Beans),Neemuch,2017-03-08,3600.0,40.2,30.2,clear
+2269,Green Gram (Moong),Neemuch,2017-03-08,4200.0,1.0,30.2,clear
+2270,Lentil(Masur),Manasa,2017-03-08,2905.0,6.0,30.2,clear
+2271,Lentil(Masur),Neemuch,2017-03-08,3271.0,5.7,30.2,clear
+2272,Bengal Gram(Gram),Manasa,2017-09-08,4798.0,22.0,33.0,clear
+2273,Bengal Gram(Gram),Neemuch,2017-09-08,4852.0,7.3,33.0,clear
+2274,Black Gram (Urd Beans),Manasa,2017-09-08,3300.0,4.0,33.0,clear
+2275,Black Gram (Urd Beans),Neemuch,2017-09-08,4000.0,12.4,33.0,clear
+2276,Green Gram (Moong),Neemuch,2017-09-08,3758.0,1.1,33.0,clear
+2277,Lentil(Masur),Manasa,2017-09-08,2877.0,4.0,33.0,clear
+2278,Lentil(Masur),Neemuch,2017-09-08,3075.0,4.8,33.0,clear
+2279,Bengal Gram(Gram),Manasa,2017-10-08,4775.0,13.0,34.0,clear
+2280,Bengal Gram(Gram),Neemuch,2017-10-08,4800.0,11.8,34.0,clear
+2281,Black Gram (Urd Beans),Manasa,2017-10-08,3847.0,15.0,34.0,clear
+2282,Black Gram (Urd Beans),Neemuch,2017-10-08,4001.0,14.8,34.0,clear
+2283,Green Gram (Moong),Neemuch,2017-10-08,3325.0,0.4,34.0,clear
+2284,Lentil(Masur),Manasa,2017-10-08,3306.0,5.0,34.0,clear
+2285,Lentil(Masur),Neemuch,2017-10-08,3226.0,5.2,34.0,clear
+2286,Bengal Gram(Gram),Manasa,2017-08-29,5135.0,18.0,26.6,clear
+2287,Bengal Gram(Gram),Neemuch,2017-08-29,5261.0,22.1,26.6,clear
+2288,Black Gram (Urd Beans),Manasa,2017-08-29,3485.0,11.0,26.6,clear
+2289,Black Gram (Urd Beans),Neemuch,2017-08-29,4000.0,57.3,26.6,clear
+2290,Green Gram (Moong),Neemuch,2017-08-29,4383.0,0.9,26.6,clear
+2291,Lentil(Masur),Manasa,2017-08-29,3538.0,11.0,26.6,clear
+2292,Bengal Gram(Gram),Manasa,2017-05-09,5287.0,6.0,42.4,clear
+2293,Bengal Gram(Gram),Neemuch,2017-05-09,5291.0,20.9,42.4,clear
+2294,Black Gram (Urd Beans),Manasa,2017-05-09,3535.0,9.0,42.4,clear
+2295,Black Gram (Urd Beans),Neemuch,2017-05-09,4020.0,24.4,42.4,clear
+2296,Green Gram (Moong),Neemuch,2017-05-09,3510.0,1.8,42.4,clear
+2297,Lentil(Masur),Manasa,2017-05-09,3201.0,6.0,42.4,clear
+2298,Lentil(Masur),Neemuch,2017-05-09,3100.0,8.8,42.4,clear
+2299,Bengal Gram(Gram),Manasa,2017-09-13,4460.0,1.0,26.8,rain
+2300,Black Gram (Urd Beans),Manasa,2017-09-13,2270.0,424.0,26.8,rain
+2301,Bengal Gram(Gram),Manasa,2017-09-21,5400.0,7.0,34.2,clear
+2302,Black Gram (Urd Beans),Manasa,2017-09-21,3975.0,552.0,34.2,clear
+2303,Lentil(Masur),Manasa,2017-09-21,2970.0,5.0,34.2,clear
+2304,Bengal Gram(Gram),Manasa,2017-03-10,5259.0,5.0,24.6,clear
+2305,Bengal Gram(Gram),Neemuch,2017-03-10,5100.0,13.1,24.6,clear
+2306,Black Gram (Urd Beans),Manasa,2017-03-10,3737.0,384.0,24.6,clear
+2307,Black Gram (Urd Beans),Neemuch,2017-03-10,3500.0,391.8,24.6,clear
+2308,Green Gram (Moong),Neemuch,2017-03-10,3400.0,1.3,24.6,clear
+2309,Lentil(Masur),Manasa,2017-03-10,3030.0,4.0,24.6,clear
+2310,Lentil(Masur),Neemuch,2017-03-10,3011.0,5.1,24.6,clear
+2311,Bengal Gram(Gram),Manasa,2017-04-10,4912.0,10.0,36.2,clear
+2312,Black Gram (Urd Beans),Manasa,2017-04-10,4912.0,544.0,36.2,clear
+2313,Lentil(Masur),Manasa,2017-04-10,3058.0,4.0,36.2,clear
+2314,Bengal Gram(Gram),Manasa,2017-06-10,4880.0,11.0,37.4,clear
+2315,Bengal Gram(Gram),Neemuch,2017-06-10,4750.0,41.5,37.4,clear
+2316,Black Gram (Urd Beans),Manasa,2017-06-10,3500.0,520.0,37.4,clear
+2317,Black Gram (Urd Beans),Neemuch,2017-06-10,3600.0,389.1,37.4,clear
+2318,Green Gram (Moong),Neemuch,2017-06-10,3521.0,0.1,37.4,clear
+2319,Lentil(Masur),Manasa,2017-06-10,2941.0,4.0,37.4,clear
+2320,Lentil(Masur),Neemuch,2017-06-10,2950.0,6.8,37.4,clear
+2321,Bengal Gram(Gram),Manasa,2017-07-10,4305.0,11.0,35.0,clear
+2322,Bengal Gram(Gram),Neemuch,2017-07-10,4751.0,32.0,35.0,clear
+2323,Black Gram (Urd Beans),Manasa,2017-07-10,3452.0,312.0,35.0,clear
+2324,Black Gram (Urd Beans),Neemuch,2017-07-10,3875.0,370.5,35.0,clear
+2325,Green Gram (Moong),Neemuch,2017-07-10,3350.0,0.9,35.0,clear
+2326,Lentil(Masur),Neemuch,2017-07-10,2850.0,5.3,35.0,clear
+2327,Bengal Gram(Gram),Manasa,2017-09-10,4301.0,32.0,32.4,clear
+2328,Bengal Gram(Gram),Neemuch,2017-09-10,4850.0,27.1,32.4,clear
+2329,Black Gram (Urd Beans),Javad,2017-09-10,5400.0,0.2,32.4,clear
+2330,Black Gram (Urd Beans),Manasa,2017-09-10,3126.0,272.0,32.4,clear
+2331,Black Gram (Urd Beans),Neemuch,2017-09-10,3250.0,324.9,32.4,clear
+2332,Green Gram (Moong),Neemuch,2017-09-10,3100.0,0.2,32.4,clear
+2333,Lentil(Masur),Manasa,2017-09-10,2300.0,3.0,32.4,clear
+2334,Lentil(Masur),Neemuch,2017-09-10,3250.0,18.5,32.4,clear
+2335,Bengal Gram(Gram),Manasa,2017-11-10,4301.0,6.0,27.4,clear
+2336,Bengal Gram(Gram),Neemuch,2017-11-10,4300.0,34.7,27.4,clear
+2337,Black Gram (Urd Beans),Javad,2017-11-10,5400.0,0.3,27.4,clear
+2338,Black Gram (Urd Beans),Manasa,2017-11-10,3158.0,192.0,27.4,clear
+2339,Black Gram (Urd Beans),Neemuch,2017-11-10,3250.0,318.7,27.4,clear
+2340,Green Gram (Moong),Neemuch,2017-11-10,3300.0,1.1,27.4,clear
+2341,Lentil(Masur),Neemuch,2017-11-10,2700.0,9.6,27.4,clear
+2342,Bengal Gram(Gram),Manasa,2017-10-16,4151.0,11.0,36.2,clear
+2343,Bengal Gram(Gram),Neemuch,2017-10-16,4500.0,35.4,36.2,clear
+2344,Black Gram (Urd Beans),Javad,2017-10-16,5400.0,0.2,36.2,clear
+2345,Black Gram (Urd Beans),Manasa,2017-10-16,3200.0,219.0,36.2,clear
+2346,Black Gram (Urd Beans),Neemuch,2017-10-16,3690.0,422.5,36.2,clear
+2347,Green Gram (Moong),Neemuch,2017-10-16,3175.0,0.1,36.2,clear
+2348,Bengal Gram(Gram),Manasa,2017-10-23,4141.0,8.0,32.2,clear
+2349,Bengal Gram(Gram),Neemuch,2017-10-23,4400.0,20.8,32.2,clear
+2350,Black Gram (Urd Beans),Javad,2017-10-23,5400.0,0.2,32.2,clear
+2351,Black Gram (Urd Beans),Manasa,2017-10-23,3050.0,280.0,32.2,clear
+2352,Black Gram (Urd Beans),Neemuch,2017-10-23,3410.0,334.0,32.2,clear
+2353,Green Gram (Moong),Neemuch,2017-10-23,3000.0,1.4,32.2,clear
+2354,Lentil(Masur),Neemuch,2017-10-23,2999.0,2.1,32.2,clear
+2355,Bengal Gram(Gram),Manasa,2017-10-24,3925.0,11.0,31.6,clear
+2356,Bengal Gram(Gram),Neemuch,2017-10-24,4400.0,32.7,31.6,clear
+2357,Black Gram (Urd Beans),Manasa,2017-10-24,3260.0,514.0,31.6,clear
+2358,Black Gram (Urd Beans),Neemuch,2017-10-24,3450.0,288.8,31.6,clear
+2359,Green Gram (Moong),Neemuch,2017-10-24,3100.0,0.2,31.6,clear
+2360,Lentil(Masur),Manasa,2017-10-24,2628.0,10.0,31.6,clear
+2361,Lentil(Masur),Neemuch,2017-10-24,3000.0,6.8,31.6,clear
+2362,Bengal Gram(Gram),Manasa,2017-10-27,4400.0,14.0,31.2,clear
+2363,Bengal Gram(Gram),Neemuch,2017-10-27,4380.0,14.1,31.2,clear
+2364,Black Gram (Urd Beans),Manasa,2017-10-27,3200.0,360.0,31.2,clear
+2365,Black Gram (Urd Beans),Neemuch,2017-10-27,3300.0,389.3,31.2,clear
+2366,Green Gram (Moong),Neemuch,2017-10-27,3600.0,1.3,31.2,clear
+2367,Lentil(Masur),Manasa,2017-10-27,2840.0,4.0,31.2,clear
+2368,Lentil(Masur),Neemuch,2017-10-27,3051.0,7.4,31.2,clear
+2369,Bengal Gram(Gram),Manasa,2017-01-11,3735.0,14.0,18.0,clear
+2370,Bengal Gram(Gram),Neemuch,2017-01-11,3700.0,17.0,18.0,clear
+2371,Black Gram (Urd Beans),Manasa,2017-01-11,2954.0,296.0,18.0,clear
+2372,Black Gram (Urd Beans),Neemuch,2017-01-11,3400.0,357.9,18.0,clear
+2373,Green Gram (Moong),Neemuch,2017-01-11,3315.0,0.6,18.0,clear
+2374,Lentil(Masur),Manasa,2017-01-11,2549.0,3.0,18.0,clear
+2375,Lentil(Masur),Neemuch,2017-01-11,3041.0,7.7,18.0,clear
+2376,Bengal Gram(Gram),Neemuch,2017-02-01,6800.0,5.0,25.6,clear
+2377,Black Gram (Urd Beans),Manasa,2017-02-01,5950.0,25.0,25.6,clear
+2378,Black Gram (Urd Beans),Neemuch,2017-02-01,5901.0,93.5,25.6,clear
+2379,Green Gram (Moong),Neemuch,2017-02-01,3170.0,2.3,25.6,clear
+2380,Lentil(Masur),Manasa,2017-02-01,3620.0,3.0,25.6,clear
+2381,Lentil(Masur),Neemuch,2017-02-01,4301.0,6.2,25.6,clear
+2382,Bengal Gram(Gram),Neemuch,2017-03-01,6800.0,1.8,31.8,clear
+2383,Black Gram (Urd Beans),Manasa,2017-03-01,6013.0,43.0,31.8,clear
+2384,Black Gram (Urd Beans),Neemuch,2017-03-01,5802.0,71.4,31.8,clear
+2385,Green Gram (Moong),Neemuch,2017-03-01,2701.0,0.1,31.8,clear
+2386,Lentil(Masur),Manasa,2017-03-01,3250.0,3.0,31.8,clear
+2387,Lentil(Masur),Neemuch,2017-03-01,4251.0,6.0,31.8,clear
+2388,Bengal Gram(Gram),Neemuch,2017-04-01,6200.0,2.7,39.0,clear
+2389,Black Gram (Urd Beans),Manasa,2017-04-01,5888.0,37.0,39.0,clear
+2390,Black Gram (Urd Beans),Neemuch,2017-04-01,6050.0,67.5,39.0,clear
+2391,Green Gram (Moong),Neemuch,2017-04-01,3370.0,3.7,39.0,clear
+2392,Lentil(Masur),Manasa,2017-04-01,3920.0,3.0,39.0,clear
+2393,Lentil(Masur),Neemuch,2017-04-01,4226.0,7.6,39.0,clear
+2394,Bengal Gram(Gram),Neemuch,2017-10-01,5700.0,2.1,34.8,clear
+2395,Black Gram (Urd Beans),Manasa,2017-10-01,4640.0,18.0,34.8,clear
+2396,Black Gram (Urd Beans),Neemuch,2017-10-01,5750.0,55.3,34.8,clear
+2397,Lentil(Masur),Neemuch,2017-10-01,4150.0,9.7,34.8,clear
+2398,Bengal Gram(Gram),Neemuch,2017-11-01,5850.0,3.8,29.2,clear
+2399,Black Gram (Urd Beans),Manasa,2017-11-01,5225.0,18.0,29.2,clear
+2400,Black Gram (Urd Beans),Neemuch,2017-11-01,5700.0,86.3,29.2,clear
+2401,Green Gram (Moong),Neemuch,2017-11-01,3890.0,0.6,29.2,clear
+2402,Lentil(Masur),Neemuch,2017-11-01,4100.0,3.6,29.2,clear
+2403,Bengal Gram(Gram),Neemuch,2017-01-13,3900.0,9.0,4.0,clear
+2404,Black Gram (Urd Beans),Manasa,2017-01-13,5450.0,33.0,4.0,clear
+2405,Black Gram (Urd Beans),Neemuch,2017-01-13,5700.0,82.2,4.0,clear
+2406,Green Gram (Moong),Neemuch,2017-01-13,3900.0,2.0,4.0,clear
+2407,Lentil(Masur),Neemuch,2017-01-13,4200.0,9.9,4.0,clear
+2408,Bengal Gram(Gram),Neemuch,2017-01-20,6150.0,2.3,19.0,clear
+2409,Black Gram (Urd Beans),Manasa,2017-01-20,5713.0,21.0,19.0,clear
+2410,Black Gram (Urd Beans),Neemuch,2017-01-20,5551.0,158.5,19.0,clear
+2411,Lentil(Masur),Neemuch,2017-01-20,4250.0,1.6,19.0,clear
+2412,Bengal Gram(Gram),Neemuch,2017-01-21,6301.0,0.6,24.6,clear
+2413,Black Gram (Urd Beans),Manasa,2017-01-21,6013.0,23.0,24.6,clear
+2414,Black Gram (Urd Beans),Neemuch,2017-01-21,5450.0,109.3,24.6,clear
+2415,Lentil(Masur),Neemuch,2017-01-21,4201.0,3.4,24.6,clear
+2416,Bengal Gram(Gram),Neemuch,2017-01-23,5600.0,0.9,27.4,clear
+2417,Black Gram (Urd Beans),Manasa,2017-01-23,5380.0,28.0,27.4,clear
+2418,Black Gram (Urd Beans),Neemuch,2017-01-23,6050.0,115.1,27.4,clear
+2419,Green Gram (Moong),Neemuch,2017-01-23,3400.0,0.2,27.4,clear
+2420,Lentil(Masur),Manasa,2017-01-23,3051.0,1.0,27.4,clear
+2421,Lentil(Masur),Neemuch,2017-01-23,4450.0,2.5,27.4,clear
+2422,Bengal Gram(Gram),Neemuch,2017-01-27,5800.0,5.3,20.6,clear
+2423,Black Gram (Urd Beans),Manasa,2017-01-27,5383.0,16.0,20.6,clear
+2424,Black Gram (Urd Beans),Neemuch,2017-01-27,5850.0,164.2,20.6,clear
+2425,Lentil(Masur),Manasa,2017-01-27,3965.0,2.0,20.6,clear
+2426,Lentil(Masur),Neemuch,2017-01-27,4100.0,10.4,20.6,clear
+2427,Bengal Gram(Gram),Neemuch,2017-03-20,4800.0,111.2,30.8,clear
+2428,Black Gram (Urd Beans),Neemuch,2017-03-20,5500.0,54.3,30.8,clear
+2429,Lentil(Masur),Neemuch,2017-03-20,4250.0,46.6,30.8,clear
+2430,Bengal Gram(Gram),Neemuch,2017-03-22,4500.0,47.6,36.2,clear
+2431,Black Gram (Urd Beans),Neemuch,2017-03-22,6000.0,41.5,36.2,clear
+2432,Bengal Gram(Gram),Neemuch,2017-03-27,5000.0,73.5,39.0,clear
+2433,Black Gram (Urd Beans),Neemuch,2017-03-27,5600.0,69.3,39.0,clear
+2434,Green Gram (Moong),Neemuch,2017-03-27,3351.0,0.2,39.0,clear
+2435,Lentil(Masur),Neemuch,2017-03-27,4550.0,22.7,39.0,clear
+2436,Bengal Gram(Gram),Neemuch,2017-05-13,5301.0,20.0,42.0,clear
+2437,Black Gram (Urd Beans),Neemuch,2017-05-13,5400.0,12.5,42.0,clear
+2438,Lentil(Masur),Neemuch,2017-05-13,3751.0,6.1,42.0,clear
+2439,Bengal Gram(Gram),Neemuch,2017-05-15,5202.0,93.5,42.2,clear
+2440,Black Gram (Urd Beans),Neemuch,2017-05-15,5201.0,82.9,42.2,clear
+2441,Lentil(Masur),Javad,2017-05-15,4100.0,0.3,42.2,clear
+2442,Lentil(Masur),Neemuch,2017-05-15,3700.0,25.1,42.2,clear
+2443,Bengal Gram(Gram),Neemuch,2017-12-06,4701.0,0.4,14.4,clear
+2444,Bengal Gram(Gram),Neemuch,2017-06-13,4500.0,2.7,31.0,clear
+2445,Lentil(Masur),Neemuch,2017-06-13,3100.0,0.5,31.0,clear
+2446,Bengal Gram(Gram),Neemuch,2017-06-19,4400.0,13.3,38.8,clear
+2447,Black Gram (Urd Beans),Neemuch,2017-06-19,5050.0,30.4,38.8,clear
+2448,Green Gram (Moong),Neemuch,2017-06-19,5225.0,1.0,38.8,clear
+2449,Lentil(Masur),Neemuch,2017-06-19,3250.0,9.2,38.8,clear
+2450,Bengal Gram(Gram),Neemuch,2017-07-14,4850.0,12.7,26.2,clear
+2451,Black Gram (Urd Beans),Neemuch,2017-07-14,3800.0,10.0,26.2,clear
+2452,Green Gram (Moong),Neemuch,2017-07-14,3650.0,0.7,26.2,clear
+2453,Lentil(Masur),Neemuch,2017-07-14,3100.0,3.0,26.2,clear
+2454,Bengal Gram(Gram),Neemuch,2017-07-21,4575.0,12.1,25.6,rain
+2455,Black Gram (Urd Beans),Neemuch,2017-07-21,3501.0,19.4,25.6,rain
+2456,Lentil(Masur),Neemuch,2017-07-21,3051.0,10.6,25.6,rain
+2457,Bengal Gram(Gram),Neemuch,2017-01-08,4550.0,30.4,21.0,clear
+2458,Black Gram (Urd Beans),Neemuch,2017-01-08,3700.0,18.7,21.0,clear
+2459,Green Gram (Moong),Neemuch,2017-01-08,3600.0,1.3,21.0,clear
+2460,Lentil(Masur),Neemuch,2017-01-08,3100.0,9.1,21.0,clear
+2461,Bengal Gram(Gram),Neemuch,2017-10-14,4100.0,36.5,34.0,clear
+2462,Black Gram (Urd Beans),Neemuch,2017-10-14,3700.0,240.6,34.0,clear
+2463,Green Gram (Moong),Neemuch,2017-10-14,3450.0,0.9,34.0,clear
+2464,Lentil(Masur),Neemuch,2017-10-14,2900.0,5.7,34.0,clear
+2465,Black Gram (Urd Beans),Javad,2017-05-31,4575.0,0.2,39.0,clear
+2466,Black Gram (Urd Beans),Manasa,2017-07-01,5400.0,47.0,29.8,clear
+2467,Black Gram (Urd Beans),Manasa,2017-01-16,5150.0,37.0,22.0,clear
+2468,Lentil(Masur),Manasa,2017-01-16,3126.0,2.0,22.0,clear
+2469,Black Gram (Urd Beans),Manasa,2017-01-17,5150.0,41.0,20.0,clear
+2470,Black Gram (Urd Beans),Manasa,2017-01-24,5605.0,17.0,28.6,clear
+2471,Lentil(Masur),Manasa,2017-01-24,3825.0,8.0,28.6,clear
+2472,Black Gram (Urd Beans),Manasa,2017-01-31,5150.0,20.0,27.0,clear
+2473,Black Gram (Urd Beans),Neemuch,2017-01-07,4400.0,8.4,22.4,clear
+2474,Lentil(Masur),Neemuch,2017-01-07,3200.0,4.8,22.4,clear
+2475,Black Gram (Urd Beans),Neemuch,2017-10-28,3300.0,75.0,31.2,clear
+2476,Green Gram (Moong),Neemuch,2017-06-16,5225.0,0.7,39.4,clear

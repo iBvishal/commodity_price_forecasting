@@ -1,0 +1,2258 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Bengal Gram(Gram),Atarra,2015-12-09,4400.0,3.0,24.4,clear
+1,Lentil(Masur),Atarra,2015-12-09,5600.0,3.0,24.4,clear
+2,Bengal Gram(Gram),Atarra,2015-12-15,4800.0,0.5,19.0,clear
+3,Bengal Gram(Gram),Baberu,2015-12-15,4300.0,20.0,19.0,clear
+4,Lentil(Masur),Atarra,2015-12-15,5800.0,1.5,19.0,clear
+5,Lentil(Masur),Baberu,2015-12-15,4775.0,15.0,19.0,clear
+6,Bengal Gram(Gram),Atarra,2015-12-16,4800.0,0.7,18.4,clear
+7,Bengal Gram(Gram),Banda,2015-12-16,4625.0,25.0,18.4,clear
+8,Lentil(Masur),Atarra,2015-12-16,5800.0,0.5,18.4,clear
+9,Bengal Gram(Gram),Atarra,2015-12-17,4800.0,1.0,18.2,clear
+10,Bengal Gram(Gram),Baberu,2015-12-17,4300.0,25.0,18.2,clear
+11,Lentil(Masur),Atarra,2015-12-17,5800.0,1.0,18.2,clear
+12,Lentil(Masur),Baberu,2015-12-17,4775.0,10.0,18.2,clear
+13,Bengal Gram(Gram),Atarra,2015-12-19,4900.0,1.5,19.6,clear
+14,Bengal Gram(Gram),Baberu,2015-12-19,4200.0,20.0,19.6,clear
+15,Bengal Gram(Gram),Banda,2015-12-19,4650.0,24.0,19.6,clear
+16,Lentil(Masur),Atarra,2015-12-19,5900.0,1.2,19.6,clear
+17,Lentil(Masur),Baberu,2015-12-19,4750.0,10.0,19.6,clear
+18,Lentil(Masur),Banda,2015-12-19,5000.0,10.0,19.6,clear
+19,Bengal Gram(Gram),Atarra,2015-12-20,4900.0,1.0,20.0,clear
+20,Bengal Gram(Gram),Baberu,2015-12-20,4200.0,22.0,20.0,clear
+21,Bengal Gram(Gram),Banda,2015-12-20,4600.0,27.0,20.0,clear
+22,Lentil(Masur),Atarra,2015-12-20,6000.0,0.8,20.0,clear
+23,Lentil(Masur),Baberu,2015-12-20,4750.0,20.0,20.0,clear
+24,Bengal Gram(Gram),Atarra,2015-12-21,4900.0,0.5,19.0,clear
+25,Bengal Gram(Gram),Baberu,2015-12-21,4175.0,25.0,19.0,clear
+26,Bengal Gram(Gram),Banda,2015-12-21,4620.0,25.0,19.0,clear
+27,Lentil(Masur),Atarra,2015-12-21,6000.0,1.0,19.0,clear
+28,Lentil(Masur),Baberu,2015-12-21,4775.0,10.0,19.0,clear
+29,Bengal Gram(Gram),Atarra,2015-12-22,4900.0,0.7,18.6,clear
+30,Bengal Gram(Gram),Baberu,2015-12-22,4175.0,15.0,18.6,clear
+31,Lentil(Masur),Atarra,2015-12-22,6000.0,1.2,18.6,clear
+32,Lentil(Masur),Baberu,2015-12-22,4800.0,9.0,18.6,clear
+33,Bengal Gram(Gram),Atarra,2015-12-26,4900.0,0.7,19.4,clear
+34,Bengal Gram(Gram),Baberu,2015-12-26,4200.0,10.0,19.4,clear
+35,Lentil(Masur),Atarra,2015-12-26,6000.0,0.8,19.4,clear
+36,Lentil(Masur),Baberu,2015-12-26,4900.0,8.0,19.4,clear
+37,Bengal Gram(Gram),Atarra,2015-12-27,5000.0,0.8,22.2,clear
+38,Lentil(Masur),Atarra,2015-12-27,6000.0,0.7,22.2,clear
+39,Bengal Gram(Gram),Atarra,2015-12-28,5000.0,0.6,13.6,clear
+40,Lentil(Masur),Atarra,2015-12-28,6000.0,0.5,13.6,clear
+41,Bengal Gram(Gram),Atarra,2015-12-29,5000.0,0.4,20.8,clear
+42,Lentil(Masur),Atarra,2015-12-29,6000.0,0.4,20.8,clear
+43,Bengal Gram(Gram),Atarra,2015-12-30,5000.0,1.0,22.0,clear
+44,Bengal Gram(Gram),Banda,2015-12-30,4475.0,19.0,22.0,clear
+45,Lentil(Masur),Atarra,2015-12-30,6000.0,0.8,22.0,clear
+46,Bengal Gram(Gram),Atarra,2015-12-31,5000.0,0.5,22.4,clear
+47,Bengal Gram(Gram),Baberu,2015-12-31,4225.0,5.0,22.4,clear
+48,Lentil(Masur),Atarra,2015-12-31,6000.0,0.8,22.4,clear
+49,Lentil(Masur),Baberu,2015-12-31,4925.0,8.0,22.4,clear
+50,Bengal Gram(Gram),Baberu,2015-12-10,4600.0,4.0,18.8,clear
+51,Bengal Gram(Gram),Banda,2015-12-10,4850.0,10.0,18.8,clear
+52,Lentil(Masur),Baberu,2015-12-10,5700.0,5.0,18.8,clear
+53,Bengal Gram(Gram),Baberu,2015-12-12,4350.0,10.0,20.0,clear
+54,Lentil(Masur),Baberu,2015-12-12,4800.0,10.0,20.0,clear
+55,Bengal Gram(Gram),Baberu,2015-12-13,4350.0,13.0,13.4,clear
+56,Lentil(Masur),Baberu,2015-12-13,4800.0,15.0,13.4,clear
+57,Bengal Gram(Gram),Baberu,2015-12-14,4375.0,5.0,19.0,clear
+58,Lentil(Masur),Baberu,2015-12-14,4825.0,10.0,19.0,clear
+59,Bengal Gram(Gram),Baberu,2015-12-18,4200.0,30.0,18.6,clear
+60,Bengal Gram(Gram),Banda,2015-12-18,4500.0,30.0,18.6,clear
+61,Lentil(Masur),Baberu,2015-12-18,4750.0,15.0,18.6,clear
+62,Lentil(Masur),Banda,2015-12-18,4950.0,12.0,18.6,clear
+63,Bengal Gram(Gram),Baberu,2015-12-24,4175.0,18.0,17.4,clear
+64,Lentil(Masur),Baberu,2015-12-24,4800.0,15.0,17.4,clear
+65,Bengal Gram(Gram),Baberu,2015-12-25,4175.0,12.0,18.2,clear
+66,Lentil(Masur),Baberu,2015-12-25,4800.0,10.0,18.2,clear
+67,Bengal Gram(Gram),Atarra,2016-03-01,4900.0,0.7,31.4,clear
+68,Bengal Gram(Gram),Baberu,2016-03-01,4225.0,15.0,31.4,clear
+69,Lentil(Masur),Atarra,2016-03-01,5800.0,1.0,31.4,clear
+70,Lentil(Masur),Baberu,2016-03-01,4925.0,10.0,31.4,clear
+71,Bengal Gram(Gram),Atarra,2016-04-01,4900.0,0.8,38.4,clear
+72,Bengal Gram(Gram),Banda,2016-04-01,4415.0,22.0,38.4,clear
+73,Lentil(Masur),Atarra,2016-04-01,5800.0,0.8,38.4,clear
+74,Bengal Gram(Gram),Atarra,2016-05-01,4900.0,0.5,42.0,clear
+75,Bengal Gram(Gram),Baberu,2016-05-01,4150.0,20.0,42.0,clear
+76,Lentil(Masur),Atarra,2016-05-01,5800.0,0.6,42.0,clear
+77,Lentil(Masur),Baberu,2016-05-01,4875.0,20.0,42.0,clear
+78,Bengal Gram(Gram),Atarra,2016-06-01,4900.0,0.7,42.0,clear
+79,Lentil(Masur),Atarra,2016-06-01,5800.0,0.9,42.0,clear
+80,Bengal Gram(Gram),Atarra,2016-07-01,4900.0,0.5,35.4,rain
+81,Bengal Gram(Gram),Baberu,2016-07-01,4150.0,15.0,35.4,rain
+82,Bengal Gram(Gram),Banda,2016-07-01,4300.0,27.0,35.4,rain
+83,Lentil(Masur),Atarra,2016-07-01,5800.0,1.0,35.4,rain
+84,Lentil(Masur),Baberu,2016-07-01,4850.0,25.0,35.4,rain
+85,Bengal Gram(Gram),Atarra,2016-09-01,4800.0,0.8,32.8,clear
+86,Lentil(Masur),Atarra,2016-09-01,5700.0,0.5,32.8,clear
+87,Bengal Gram(Gram),Atarra,2016-01-18,4800.0,0.8,15.6,clear
+88,Bengal Gram(Gram),Baberu,2016-01-18,4200.0,10.0,15.6,clear
+89,Bengal Gram(Gram),Banda,2016-01-18,4320.0,20.0,15.6,clear
+90,Lentil(Masur),Atarra,2016-01-18,5700.0,1.0,15.6,clear
+91,Lentil(Masur),Baberu,2016-01-18,4775.0,20.0,15.6,clear
+92,Bengal Gram(Gram),Atarra,2016-01-19,4800.0,0.5,13.2,clear
+93,Bengal Gram(Gram),Baberu,2016-01-19,4100.0,20.0,13.2,clear
+94,Lentil(Masur),Atarra,2016-01-19,5700.0,0.5,13.2,clear
+95,Lentil(Masur),Baberu,2016-01-19,4675.0,25.0,13.2,clear
+96,Bengal Gram(Gram),Atarra,2016-01-21,4900.0,0.5,17.0,clear
+97,Bengal Gram(Gram),Baberu,2016-01-21,4050.0,15.0,17.0,clear
+98,Lentil(Masur),Atarra,2016-01-21,5700.0,0.4,17.0,clear
+99,Lentil(Masur),Baberu,2016-01-21,4550.0,30.0,17.0,clear
+100,Bengal Gram(Gram),Atarra,2016-01-23,4900.0,0.7,20.8,clear
+101,Bengal Gram(Gram),Baberu,2016-01-23,4000.0,14.0,20.8,clear
+102,Bengal Gram(Gram),Banda,2016-01-23,4100.0,9.0,20.8,clear
+103,Lentil(Masur),Atarra,2016-01-23,5600.0,0.5,20.8,clear
+104,Lentil(Masur),Baberu,2016-01-23,4425.0,28.0,20.8,clear
+105,Lentil(Masur),Banda,2016-01-23,4450.0,41.0,20.8,clear
+106,Bengal Gram(Gram),Atarra,2016-01-24,4900.0,1.0,22.2,clear
+107,Bengal Gram(Gram),Baberu,2016-01-24,4025.0,12.0,22.2,clear
+108,Bengal Gram(Gram),Banda,2016-01-24,4125.0,7.0,22.2,clear
+109,Lentil(Masur),Atarra,2016-01-24,5600.0,0.6,22.2,clear
+110,Lentil(Masur),Baberu,2016-01-24,4225.0,36.0,22.2,clear
+111,Lentil(Masur),Banda,2016-01-24,4425.0,43.0,22.2,clear
+112,Bengal Gram(Gram),Atarra,2016-01-25,4900.0,0.8,22.0,clear
+113,Bengal Gram(Gram),Baberu,2016-01-25,4000.0,17.0,22.0,clear
+114,Bengal Gram(Gram),Banda,2016-01-25,4120.0,7.5,22.0,clear
+115,Lentil(Masur),Atarra,2016-01-25,5600.0,0.4,22.0,clear
+116,Lentil(Masur),Baberu,2016-01-25,4000.0,40.0,22.0,clear
+117,Lentil(Masur),Banda,2016-01-25,4400.0,45.0,22.0,clear
+118,Bengal Gram(Gram),Atarra,2016-01-02,4800.0,0.5,20.6,clear
+119,Bengal Gram(Gram),Baberu,2016-01-02,3980.0,15.0,20.6,clear
+120,Bengal Gram(Gram),Banda,2016-01-02,4020.0,16.5,20.6,clear
+121,Lentil(Masur),Atarra,2016-01-02,5600.0,0.5,20.6,clear
+122,Lentil(Masur),Baberu,2016-01-02,3980.0,25.0,20.6,clear
+123,Lentil(Masur),Banda,2016-01-02,4460.0,36.0,20.6,clear
+124,Bengal Gram(Gram),Atarra,2016-02-02,4800.0,0.6,23.0,clear
+125,Bengal Gram(Gram),Baberu,2016-02-02,3975.0,12.0,23.0,clear
+126,Lentil(Masur),Atarra,2016-02-02,5100.0,0.7,23.0,clear
+127,Lentil(Masur),Baberu,2016-02-02,4000.0,18.0,23.0,clear
+128,Bengal Gram(Gram),Atarra,2016-03-02,4800.0,0.6,31.0,clear
+129,Bengal Gram(Gram),Banda,2016-03-02,4010.0,17.5,31.0,clear
+130,Lentil(Masur),Atarra,2016-03-02,4800.0,0.5,31.0,clear
+131,Lentil(Masur),Banda,2016-03-02,4450.0,37.0,31.0,clear
+132,Bengal Gram(Gram),Atarra,2016-04-02,4500.0,0.5,39.0,clear
+133,Bengal Gram(Gram),Baberu,2016-04-02,3950.0,15.0,39.0,clear
+134,Bengal Gram(Gram),Banda,2016-04-02,4050.0,16.0,39.0,clear
+135,Lentil(Masur),Atarra,2016-04-02,4900.0,0.7,39.0,clear
+136,Lentil(Masur),Baberu,2016-04-02,4025.0,20.0,39.0,clear
+137,Lentil(Masur),Banda,2016-04-02,4475.0,35.0,39.0,clear
+138,Bengal Gram(Gram),Atarra,2016-06-02,4300.0,0.8,42.4,clear
+139,Bengal Gram(Gram),Baberu,2016-06-02,4000.0,10.0,42.4,clear
+140,Bengal Gram(Gram),Banda,2016-06-02,4050.0,11.0,42.4,clear
+141,Lentil(Masur),Baberu,2016-06-02,3900.0,15.0,42.4,clear
+142,Lentil(Masur),Banda,2016-06-02,4270.0,34.0,42.4,clear
+143,Bengal Gram(Gram),Atarra,2016-07-02,4300.0,0.7,29.6,clear
+144,Bengal Gram(Gram),Baberu,2016-07-02,3975.0,15.0,29.6,clear
+145,Lentil(Masur),Atarra,2016-07-02,5200.0,0.5,29.6,clear
+146,Lentil(Masur),Baberu,2016-07-02,3850.0,25.0,29.6,clear
+147,Bengal Gram(Gram),Atarra,2016-08-02,4300.0,0.7,32.2,clear
+148,Bengal Gram(Gram),Baberu,2016-08-02,3975.0,11.0,32.2,clear
+149,Bengal Gram(Gram),Banda,2016-08-02,4000.0,12.5,32.2,clear
+150,Lentil(Masur),Atarra,2016-08-02,5200.0,0.7,32.2,clear
+151,Bengal Gram(Gram),Atarra,2016-09-02,4300.0,0.5,30.4,clear
+152,Bengal Gram(Gram),Baberu,2016-09-02,3950.0,14.0,30.4,clear
+153,Lentil(Masur),Atarra,2016-09-02,5200.0,0.6,30.4,clear
+154,Lentil(Masur),Baberu,2016-09-02,3875.0,15.0,30.4,clear
+155,Bengal Gram(Gram),Atarra,2016-10-02,4300.0,0.8,33.2,clear
+156,Bengal Gram(Gram),Banda,2016-10-02,4025.0,10.0,33.2,clear
+157,Lentil(Masur),Atarra,2016-10-02,5200.0,0.5,33.2,clear
+158,Bengal Gram(Gram),Atarra,2016-02-13,4200.0,0.2,29.0,clear
+159,Bengal Gram(Gram),Baberu,2016-02-13,3800.0,15.0,29.0,clear
+160,Bengal Gram(Gram),Banda,2016-02-13,4000.0,14.0,29.0,clear
+161,Lentil(Masur),Atarra,2016-02-13,5200.0,0.0,29.0,clear
+162,Bengal Gram(Gram),Atarra,2016-02-14,4200.0,0.6,28.2,clear
+163,Bengal Gram(Gram),Baberu,2016-02-14,3850.0,18.0,28.2,clear
+164,Lentil(Masur),Atarra,2016-02-14,5200.0,0.0,28.2,clear
+165,Bengal Gram(Gram),Atarra,2016-02-15,4200.0,0.5,26.4,clear
+166,Bengal Gram(Gram),Baberu,2016-02-15,3875.0,10.0,26.4,clear
+167,Bengal Gram(Gram),Banda,2016-02-15,4050.0,15.0,26.4,clear
+168,Lentil(Masur),Atarra,2016-02-15,5200.0,0.0,26.4,clear
+169,Lentil(Masur),Baberu,2016-02-15,3600.0,15.0,26.4,clear
+170,Bengal Gram(Gram),Atarra,2016-02-20,4000.0,0.5,28.0,clear
+171,Bengal Gram(Gram),Baberu,2016-02-20,3750.0,10.0,28.0,clear
+172,Lentil(Masur),Atarra,2016-02-20,5200.0,0.6,28.0,clear
+173,Lentil(Masur),Baberu,2016-02-20,3600.0,15.0,28.0,clear
+174,Bengal Gram(Gram),Atarra,2016-02-21,4000.0,0.7,27.2,clear
+175,Bengal Gram(Gram),Baberu,2016-02-21,3725.0,17.0,27.2,clear
+176,Bengal Gram(Gram),Banda,2016-02-21,3960.0,13.5,27.2,clear
+177,Lentil(Masur),Atarra,2016-02-21,5200.0,0.5,27.2,clear
+178,Lentil(Masur),Baberu,2016-02-21,3600.0,9.0,27.2,clear
+179,Bengal Gram(Gram),Atarra,2016-02-22,4000.0,0.5,29.0,clear
+180,Bengal Gram(Gram),Baberu,2016-02-22,3800.0,7.0,29.0,clear
+181,Bengal Gram(Gram),Banda,2016-02-22,4000.0,10.0,29.0,clear
+182,Lentil(Masur),Atarra,2016-02-22,5200.0,1.0,29.0,clear
+183,Lentil(Masur),Baberu,2016-02-22,3580.0,18.0,29.0,clear
+184,Bengal Gram(Gram),Atarra,2016-02-27,4000.0,0.7,28.0,clear
+185,Bengal Gram(Gram),Baberu,2016-02-27,3700.0,7.0,28.0,clear
+186,Lentil(Masur),Atarra,2016-02-27,5200.0,0.7,28.0,clear
+187,Lentil(Masur),Baberu,2016-02-27,3550.0,14.0,28.0,clear
+188,Bengal Gram(Gram),Atarra,2016-02-28,4000.0,0.6,29.8,clear
+189,Bengal Gram(Gram),Baberu,2016-02-28,3710.0,10.0,29.8,clear
+190,Bengal Gram(Gram),Banda,2016-02-28,3950.0,10.0,29.8,clear
+191,Lentil(Masur),Atarra,2016-02-28,5200.0,0.6,29.8,clear
+192,Lentil(Masur),Baberu,2016-02-28,3560.0,10.0,29.8,clear
+193,Bengal Gram(Gram),Atarra,2016-02-29,4000.0,0.5,30.4,clear
+194,Bengal Gram(Gram),Baberu,2016-02-29,3725.0,8.0,30.4,clear
+195,Bengal Gram(Gram),Banda,2016-02-29,3950.0,7.5,30.4,clear
+196,Lentil(Masur),Atarra,2016-02-29,5200.0,0.2,30.4,clear
+197,Lentil(Masur),Baberu,2016-02-29,3575.0,11.0,30.4,clear
+198,Bengal Gram(Gram),Atarra,2016-01-03,4000.0,0.6,12.2,clear
+199,Bengal Gram(Gram),Baberu,2016-01-03,3725.0,7.0,12.2,clear
+200,Lentil(Masur),Atarra,2016-01-03,5100.0,0.5,12.2,clear
+201,Lentil(Masur),Baberu,2016-01-03,3575.0,8.0,12.2,clear
+202,Bengal Gram(Gram),Atarra,2016-02-03,4000.0,0.4,22.6,clear
+203,Lentil(Masur),Atarra,2016-02-03,5100.0,0.6,22.6,clear
+204,Bengal Gram(Gram),Atarra,2016-03-03,4000.0,0.5,33.8,clear
+205,Lentil(Masur),Atarra,2016-03-03,5100.0,0.8,33.8,clear
+206,Bengal Gram(Gram),Atarra,2016-05-03,4000.0,0.7,36.0,clear
+207,Lentil(Masur),Atarra,2016-05-03,5100.0,0.4,36.0,clear
+208,Bengal Gram(Gram),Atarra,2016-06-03,4000.0,0.5,41.0,clear
+209,Bengal Gram(Gram),Baberu,2016-06-03,3725.0,5.0,41.0,clear
+210,Lentil(Masur),Atarra,2016-06-03,5100.0,0.3,41.0,clear
+211,Bengal Gram(Gram),Atarra,2016-07-03,4000.0,0.3,32.6,clear
+212,Bengal Gram(Gram),Baberu,2016-07-03,3650.0,18.0,32.6,clear
+213,Lentil(Masur),Atarra,2016-07-03,5100.0,0.5,32.6,clear
+214,Bengal Gram(Gram),Atarra,2016-08-03,4000.0,0.5,32.0,clear
+215,Bengal Gram(Gram),Baberu,2016-08-03,3750.0,8.0,32.0,clear
+216,Lentil(Masur),Atarra,2016-08-03,5000.0,0.5,32.0,clear
+217,Bengal Gram(Gram),Atarra,2016-09-03,4000.0,0.8,32.8,clear
+218,Bengal Gram(Gram),Banda,2016-09-03,3740.0,16.0,32.8,clear
+219,Lentil(Masur),Atarra,2016-09-03,4500.0,0.6,32.8,clear
+220,Bengal Gram(Gram),Atarra,2016-10-03,3800.0,0.6,34.6,clear
+221,Bengal Gram(Gram),Baberu,2016-10-03,3700.0,4.0,34.6,clear
+222,Bengal Gram(Gram),Banda,2016-10-03,3740.0,13.5,34.6,clear
+223,Lentil(Masur),Atarra,2016-10-03,4500.0,0.8,34.6,clear
+224,Bengal Gram(Gram),Atarra,2016-03-14,3600.0,0.7,29.2,clear
+225,Bengal Gram(Gram),Baberu,2016-03-14,3700.0,7.0,29.2,clear
+226,Lentil(Masur),Atarra,2016-03-14,4200.0,1.0,29.2,clear
+227,Lentil(Masur),Banda,2016-03-14,3900.0,14.0,29.2,clear
+228,Bengal Gram(Gram),Atarra,2016-03-15,3600.0,1.0,26.4,clear
+229,Bengal Gram(Gram),Baberu,2016-03-15,3800.0,6.0,26.4,clear
+230,Lentil(Masur),Atarra,2016-03-15,4200.0,0.5,26.4,clear
+231,Bengal Gram(Gram),Atarra,2016-03-16,3600.0,0.5,30.2,clear
+232,Lentil(Masur),Atarra,2016-03-16,4200.0,1.5,30.2,clear
+233,Bengal Gram(Gram),Atarra,2016-03-17,3600.0,0.8,32.2,clear
+234,Bengal Gram(Gram),Baberu,2016-03-17,3950.0,8.0,32.2,clear
+235,Bengal Gram(Gram),Banda,2016-03-17,3850.0,6.0,32.2,clear
+236,Lentil(Masur),Atarra,2016-03-17,4200.0,1.0,32.2,clear
+237,Bengal Gram(Gram),Atarra,2016-03-24,3600.0,0.0,36.8,clear
+238,Lentil(Masur),Atarra,2016-03-24,4200.0,0.0,36.8,clear
+239,Bengal Gram(Gram),Atarra,2016-03-26,3600.0,1.0,35.4,clear
+240,Bengal Gram(Gram),Baberu,2016-03-26,4100.0,5.0,35.4,clear
+241,Bengal Gram(Gram),Banda,2016-03-26,4150.0,4.0,35.4,clear
+242,Lentil(Masur),Atarra,2016-03-26,4200.0,2.0,35.4,clear
+243,Lentil(Masur),Baberu,2016-03-26,4300.0,2.0,35.4,clear
+244,Lentil(Masur),Banda,2016-03-26,4400.0,15.0,35.4,clear
+245,Bengal Gram(Gram),Atarra,2016-03-27,3600.0,2.0,29.8,clear
+246,Bengal Gram(Gram),Baberu,2016-03-27,4125.0,4.0,29.8,clear
+247,Lentil(Masur),Atarra,2016-03-27,4200.0,2.5,29.8,clear
+248,Lentil(Masur),Baberu,2016-03-27,4320.0,4.0,29.8,clear
+249,Bengal Gram(Gram),Atarra,2016-03-28,3600.0,1.5,35.4,clear
+250,Bengal Gram(Gram),Baberu,2016-03-28,4100.0,7.0,35.4,clear
+251,Bengal Gram(Gram),Banda,2016-03-28,4000.0,6.0,35.4,clear
+252,Lentil(Masur),Atarra,2016-03-28,4200.0,1.0,35.4,clear
+253,Bengal Gram(Gram),Atarra,2016-03-29,3600.0,2.0,26.0,clear
+254,Bengal Gram(Gram),Baberu,2016-03-29,4150.0,4.5,26.0,clear
+255,Lentil(Masur),Atarra,2016-03-29,4200.0,1.5,26.0,clear
+256,Lentil(Masur),Baberu,2016-03-29,4450.0,3.5,26.0,clear
+257,Bengal Gram(Gram),Atarra,2016-03-30,3600.0,1.5,34.0,clear
+258,Lentil(Masur),Atarra,2016-03-30,4200.0,2.0,34.0,clear
+259,Bengal Gram(Gram),Atarra,2016-03-31,3600.0,1.2,38.0,clear
+260,Bengal Gram(Gram),Baberu,2016-03-31,4150.0,8.0,38.0,clear
+261,Lentil(Masur),Atarra,2016-03-31,4200.0,1.8,38.0,clear
+262,Lentil(Masur),Baberu,2016-03-31,4475.0,4.0,38.0,clear
+263,Bengal Gram(Gram),Atarra,2016-04-04,3600.0,3.0,39.4,clear
+264,Bengal Gram(Gram),Baberu,2016-04-04,4250.0,8.0,39.4,clear
+265,Bengal Gram(Gram),Banda,2016-04-04,4315.0,6.5,39.4,clear
+266,Lentil(Masur),Atarra,2016-04-04,5200.0,1.0,39.4,clear
+267,Lentil(Masur),Baberu,2016-04-04,5100.0,5.0,39.4,clear
+268,Bengal Gram(Gram),Atarra,2016-05-04,3600.0,1.5,39.4,clear
+269,Lentil(Masur),Atarra,2016-05-04,5500.0,1.5,39.4,clear
+270,Bengal Gram(Gram),Atarra,2016-06-04,3600.0,1.5,41.4,clear
+271,Lentil(Masur),Atarra,2016-06-04,5500.0,0.5,41.4,clear
+272,Bengal Gram(Gram),Atarra,2016-07-04,3600.0,2.0,28.6,rain
+273,Bengal Gram(Gram),Baberu,2016-07-04,4300.0,8.0,28.6,rain
+274,Bengal Gram(Gram),Banda,2016-07-04,4650.0,4.0,28.6,rain
+275,Lentil(Masur),Atarra,2016-07-04,5700.0,2.0,28.6,rain
+276,Lentil(Masur),Baberu,2016-07-04,5125.0,10.0,28.6,rain
+277,Bengal Gram(Gram),Atarra,2016-09-04,3600.0,2.5,33.0,clear
+278,Lentil(Masur),Atarra,2016-09-04,5700.0,1.3,33.0,clear
+279,Bengal Gram(Gram),Atarra,2016-12-04,4000.0,2.5,21.0,clear
+280,Bengal Gram(Gram),Baberu,2016-12-04,4700.0,5.0,21.0,clear
+281,Lentil(Masur),Atarra,2016-12-04,5500.0,2.0,21.0,clear
+282,Lentil(Masur),Baberu,2016-12-04,5450.0,4.0,21.0,clear
+283,Bengal Gram(Gram),Atarra,2016-04-13,4400.0,1.5,38.4,clear
+284,Lentil(Masur),Atarra,2016-04-13,5700.0,1.5,38.4,clear
+285,Bengal Gram(Gram),Atarra,2016-04-14,4400.0,2.0,32.0,clear
+286,Bengal Gram(Gram),Baberu,2016-04-14,4725.0,8.0,32.0,clear
+287,Bengal Gram(Gram),Banda,2016-04-14,4715.0,4.5,32.0,clear
+288,Lentil(Masur),Atarra,2016-04-14,5700.0,2.5,32.0,clear
+289,Bengal Gram(Gram),Atarra,2016-04-16,4800.0,3.5,42.0,clear
+290,Bengal Gram(Gram),Baberu,2016-04-16,4800.0,3.5,42.0,clear
+291,Bengal Gram(Gram),Banda,2016-04-16,4725.0,4.5,42.0,clear
+292,Lentil(Masur),Atarra,2016-04-16,5700.0,3.0,42.0,clear
+293,Lentil(Masur),Baberu,2016-04-16,5650.0,3.0,42.0,clear
+294,Bengal Gram(Gram),Atarra,2016-04-23,4900.0,1.5,39.0,clear
+295,Bengal Gram(Gram),Baberu,2016-04-23,5350.0,6.0,39.0,clear
+296,Bengal Gram(Gram),Banda,2016-04-23,5200.0,7.5,39.0,clear
+297,Lentil(Masur),Atarra,2016-04-23,5700.0,3.5,39.0,clear
+298,Lentil(Masur),Baberu,2016-04-23,5800.0,10.0,39.0,clear
+299,Lentil(Masur),Banda,2016-04-23,5630.0,11.0,39.0,clear
+300,Bengal Gram(Gram),Atarra,2016-04-24,4900.0,3.0,39.0,clear
+301,Bengal Gram(Gram),Baberu,2016-04-24,5350.0,8.0,39.0,clear
+302,Lentil(Masur),Atarra,2016-04-24,5700.0,2.5,39.0,clear
+303,Lentil(Masur),Baberu,2016-04-24,5800.0,13.0,39.0,clear
+304,Bengal Gram(Gram),Atarra,2016-04-25,5000.0,3.5,40.0,clear
+305,Bengal Gram(Gram),Baberu,2016-04-25,5300.0,10.0,40.0,clear
+306,Bengal Gram(Gram),Banda,2016-04-25,5450.0,5.0,40.0,clear
+307,Lentil(Masur),Atarra,2016-04-25,5700.0,2.0,40.0,clear
+308,Lentil(Masur),Baberu,2016-04-25,5850.0,8.0,40.0,clear
+309,Lentil(Masur),Banda,2016-04-25,5825.0,8.5,40.0,clear
+310,Bengal Gram(Gram),Atarra,2016-04-26,5000.0,2.0,39.6,clear
+311,Bengal Gram(Gram),Baberu,2016-04-26,5300.0,12.0,39.6,clear
+312,Lentil(Masur),Atarra,2016-04-26,5700.0,3.0,39.6,clear
+313,Lentil(Masur),Baberu,2016-04-26,5850.0,10.0,39.6,clear
+314,Bengal Gram(Gram),Atarra,2016-04-27,5000.0,2.5,40.4,clear
+315,Bengal Gram(Gram),Banda,2016-04-27,5470.0,4.5,40.4,clear
+316,Lentil(Masur),Atarra,2016-04-27,5700.0,1.5,40.4,clear
+317,Bengal Gram(Gram),Atarra,2016-04-28,5000.0,3.0,42.0,clear
+318,Bengal Gram(Gram),Baberu,2016-04-28,5400.0,8.0,42.0,clear
+319,Bengal Gram(Gram),Banda,2016-04-28,5475.0,4.0,42.0,clear
+320,Lentil(Masur),Atarra,2016-04-28,5700.0,2.0,42.0,clear
+321,Lentil(Masur),Baberu,2016-04-28,5700.0,25.0,42.0,clear
+322,Lentil(Masur),Banda,2016-04-28,5870.0,9.0,42.0,clear
+323,Bengal Gram(Gram),Atarra,2016-04-30,5000.0,4.0,42.0,clear
+324,Bengal Gram(Gram),Baberu,2016-04-30,5450.0,8.0,42.0,clear
+325,Bengal Gram(Gram),Banda,2016-04-30,5500.0,3.0,42.0,clear
+326,Lentil(Masur),Atarra,2016-04-30,5700.0,1.0,42.0,clear
+327,Lentil(Masur),Baberu,2016-04-30,5700.0,8.0,42.0,clear
+328,Lentil(Masur),Banda,2016-04-30,5700.0,12.0,42.0,clear
+329,Bengal Gram(Gram),Atarra,2016-01-05,5000.0,1.5,23.2,clear
+330,Bengal Gram(Gram),Baberu,2016-01-05,5450.0,15.0,23.2,clear
+331,Bengal Gram(Gram),Banda,2016-01-05,5525.0,2.5,23.2,clear
+332,Lentil(Masur),Atarra,2016-01-05,5700.0,1.5,23.2,clear
+333,Lentil(Masur),Baberu,2016-01-05,5700.0,15.0,23.2,clear
+334,Lentil(Masur),Banda,2016-01-05,5720.0,11.5,23.2,clear
+335,Bengal Gram(Gram),Atarra,2016-02-05,5000.0,1.5,23.8,clear
+336,Bengal Gram(Gram),Baberu,2016-02-05,5450.0,8.0,23.8,clear
+337,Bengal Gram(Gram),Banda,2016-02-05,5510.0,2.5,23.8,clear
+338,Lentil(Masur),Atarra,2016-02-05,5800.0,1.0,23.8,clear
+339,Lentil(Masur),Baberu,2016-02-05,5700.0,10.0,23.8,clear
+340,Lentil(Masur),Banda,2016-02-05,5720.0,11.0,23.8,clear
+341,Bengal Gram(Gram),Atarra,2016-03-05,5200.0,1.0,24.0,clear
+342,Bengal Gram(Gram),Baberu,2016-03-05,5450.0,5.0,24.0,clear
+343,Lentil(Masur),Atarra,2016-03-05,5800.0,0.5,24.0,clear
+344,Lentil(Masur),Baberu,2016-03-05,5700.0,8.0,24.0,clear
+345,Bengal Gram(Gram),Atarra,2016-04-05,5200.0,0.5,40.4,clear
+346,Bengal Gram(Gram),Banda,2016-04-05,5520.0,2.0,40.4,clear
+347,Lentil(Masur),Atarra,2016-04-05,5800.0,1.0,40.4,clear
+348,Lentil(Masur),Banda,2016-04-05,5725.0,10.0,40.4,clear
+349,Bengal Gram(Gram),Atarra,2016-05-05,5200.0,0.7,37.6,clear
+350,Bengal Gram(Gram),Baberu,2016-05-05,5450.0,4.0,37.6,clear
+351,Bengal Gram(Gram),Banda,2016-05-05,5450.0,4.0,37.6,clear
+352,Lentil(Masur),Atarra,2016-05-05,5800.0,1.2,37.6,clear
+353,Lentil(Masur),Baberu,2016-05-05,5700.0,6.0,37.6,clear
+354,Lentil(Masur),Banda,2016-05-05,5600.0,12.5,37.6,clear
+355,Bengal Gram(Gram),Atarra,2016-07-05,5200.0,0.8,31.6,clear
+356,Bengal Gram(Gram),Baberu,2016-07-05,5500.0,7.0,31.6,clear
+357,Bengal Gram(Gram),Banda,2016-07-05,5455.0,3.5,31.6,clear
+358,Lentil(Masur),Atarra,2016-07-05,5800.0,1.0,31.6,clear
+359,Lentil(Masur),Baberu,2016-07-05,5725.0,5.0,31.6,clear
+360,Lentil(Masur),Banda,2016-07-05,5620.0,11.0,31.6,clear
+361,Bengal Gram(Gram),Atarra,2016-08-05,5200.0,0.4,33.4,clear
+362,Bengal Gram(Gram),Baberu,2016-08-05,5500.0,5.0,33.4,clear
+363,Lentil(Masur),Atarra,2016-08-05,5800.0,0.8,33.4,clear
+364,Lentil(Masur),Baberu,2016-08-05,5700.0,4.0,33.4,clear
+365,Bengal Gram(Gram),Atarra,2016-09-05,5200.0,0.6,32.4,clear
+366,Bengal Gram(Gram),Baberu,2016-09-05,5500.0,4.0,32.4,clear
+367,Bengal Gram(Gram),Banda,2016-09-05,5600.0,4.0,32.4,clear
+368,Lentil(Masur),Atarra,2016-09-05,5800.0,0.4,32.4,clear
+369,Lentil(Masur),Baberu,2016-09-05,5700.0,3.5,32.4,clear
+370,Bengal Gram(Gram),Atarra,2016-10-05,5200.0,1.0,34.0,clear
+371,Bengal Gram(Gram),Baberu,2016-10-05,5450.0,10.0,34.0,clear
+372,Lentil(Masur),Atarra,2016-10-05,5800.0,0.5,34.0,clear
+373,Lentil(Masur),Baberu,2016-10-05,5700.0,6.0,34.0,clear
+374,Bengal Gram(Gram),Atarra,2016-11-05,5200.0,0.5,25.0,clear
+375,Bengal Gram(Gram),Banda,2016-11-05,5600.0,3.0,25.0,clear
+376,Lentil(Masur),Atarra,2016-11-05,5800.0,0.7,25.0,clear
+377,Lentil(Masur),Banda,2016-11-05,5675.0,8.0,25.0,clear
+378,Bengal Gram(Gram),Atarra,2016-12-05,5200.0,1.0,21.2,clear
+379,Bengal Gram(Gram),Baberu,2016-12-05,5550.0,6.0,21.2,clear
+380,Lentil(Masur),Atarra,2016-12-05,5800.0,0.4,21.2,clear
+381,Lentil(Masur),Baberu,2016-12-05,5675.0,8.0,21.2,clear
+382,Bengal Gram(Gram),Atarra,2016-05-14,5500.0,0.5,43.8,clear
+383,Bengal Gram(Gram),Baberu,2016-05-14,5600.0,5.0,43.8,clear
+384,Lentil(Masur),Atarra,2016-05-14,5800.0,0.7,43.8,clear
+385,Lentil(Masur),Baberu,2016-05-14,5800.0,3.0,43.8,clear
+386,Lentil(Masur),Banda,2016-05-14,5675.0,14.0,43.8,clear
+387,Bengal Gram(Gram),Atarra,2016-05-15,5500.0,0.8,43.6,clear
+388,Bengal Gram(Gram),Baberu,2016-05-15,5600.0,7.0,43.6,clear
+389,Bengal Gram(Gram),Banda,2016-05-15,5590.0,4.0,43.6,clear
+390,Lentil(Masur),Atarra,2016-05-15,5800.0,0.6,43.6,clear
+391,Lentil(Masur),Baberu,2016-05-15,5800.0,5.0,43.6,clear
+392,Bengal Gram(Gram),Atarra,2016-05-16,5500.0,0.8,44.0,clear
+393,Bengal Gram(Gram),Baberu,2016-05-16,5600.0,5.0,44.0,clear
+394,Bengal Gram(Gram),Banda,2016-05-16,5620.0,5.0,44.0,clear
+395,Lentil(Masur),Atarra,2016-05-16,5800.0,0.8,44.0,clear
+396,Lentil(Masur),Baberu,2016-05-16,5750.0,8.0,44.0,clear
+397,Lentil(Masur),Banda,2016-05-16,5700.0,8.5,44.0,clear
+398,Bengal Gram(Gram),Atarra,2016-05-17,5500.0,0.6,37.6,clear
+399,Bengal Gram(Gram),Baberu,2016-05-17,5600.0,3.5,37.6,clear
+400,Lentil(Masur),Atarra,2016-05-17,5800.0,0.5,37.6,clear
+401,Lentil(Masur),Baberu,2016-05-17,5750.0,4.0,37.6,clear
+402,Bengal Gram(Gram),Atarra,2016-05-18,5500.0,0.8,44.6,clear
+403,Bengal Gram(Gram),Banda,2016-05-18,5600.0,6.0,44.6,clear
+404,Lentil(Masur),Atarra,2016-05-18,5800.0,0.7,44.6,clear
+405,Lentil(Masur),Banda,2016-05-18,5650.0,9.0,44.6,clear
+406,Bengal Gram(Gram),Atarra,2016-05-21,5600.0,0.7,40.0,clear
+407,Bengal Gram(Gram),Baberu,2016-05-21,5625.0,6.0,40.0,clear
+408,Lentil(Masur),Atarra,2016-05-21,5800.0,0.7,40.0,clear
+409,Lentil(Masur),Baberu,2016-05-21,5700.0,7.0,40.0,clear
+410,Bengal Gram(Gram),Atarra,2016-05-22,5600.0,0.7,44.0,clear
+411,Bengal Gram(Gram),Baberu,2016-05-22,5625.0,10.0,44.0,clear
+412,Bengal Gram(Gram),Banda,2016-05-22,5810.0,4.0,44.0,clear
+413,Lentil(Masur),Atarra,2016-05-22,5800.0,0.5,44.0,clear
+414,Lentil(Masur),Baberu,2016-05-22,5700.0,6.0,44.0,clear
+415,Bengal Gram(Gram),Atarra,2016-05-23,5600.0,0.8,35.8,clear
+416,Bengal Gram(Gram),Baberu,2016-05-23,5650.0,8.0,35.8,clear
+417,Bengal Gram(Gram),Banda,2016-05-23,5775.0,4.0,35.8,clear
+418,Lentil(Masur),Atarra,2016-05-23,5800.0,1.0,35.8,clear
+419,Lentil(Masur),Baberu,2016-05-23,5650.0,10.0,35.8,clear
+420,Bengal Gram(Gram),Atarra,2016-05-25,5800.0,1.0,32.0,clear
+421,Lentil(Masur),Atarra,2016-05-25,5800.0,0.8,32.0,clear
+422,Bengal Gram(Gram),Atarra,2016-05-26,5800.0,0.7,39.6,clear
+423,Bengal Gram(Gram),Baberu,2016-05-26,5750.0,3.0,39.6,clear
+424,Bengal Gram(Gram),Banda,2016-05-26,5825.0,3.0,39.6,clear
+425,Lentil(Masur),Atarra,2016-05-26,5800.0,1.0,39.6,clear
+426,Lentil(Masur),Baberu,2016-05-26,5600.0,10.0,39.6,clear
+427,Bengal Gram(Gram),Atarra,2016-05-28,5800.0,0.6,35.6,clear
+428,Bengal Gram(Gram),Baberu,2016-05-28,5775.0,4.0,35.6,clear
+429,Bengal Gram(Gram),Banda,2016-05-28,5820.0,3.0,35.6,clear
+430,Lentil(Masur),Atarra,2016-05-28,5800.0,0.5,35.6,clear
+431,Lentil(Masur),Baberu,2016-05-28,5600.0,10.0,35.6,clear
+432,Lentil(Masur),Banda,2016-05-28,5725.0,5.0,35.6,clear
+433,Bengal Gram(Gram),Atarra,2016-05-29,5800.0,0.8,38.4,clear
+434,Bengal Gram(Gram),Baberu,2016-05-29,5775.0,5.0,38.4,clear
+435,Lentil(Masur),Atarra,2016-05-29,5800.0,0.7,38.4,clear
+436,Lentil(Masur),Baberu,2016-05-29,5600.0,13.0,38.4,clear
+437,Bengal Gram(Gram),Atarra,2016-05-30,5800.0,0.5,36.0,clear
+438,Bengal Gram(Gram),Baberu,2016-05-30,5780.0,6.0,36.0,clear
+439,Bengal Gram(Gram),Banda,2016-05-30,5850.0,2.5,36.0,clear
+440,Lentil(Masur),Atarra,2016-05-30,5800.0,1.0,36.0,clear
+441,Lentil(Masur),Baberu,2016-05-30,5650.0,6.0,36.0,clear
+442,Bengal Gram(Gram),Atarra,2016-05-31,5800.0,1.0,37.0,clear
+443,Bengal Gram(Gram),Baberu,2016-05-31,5700.0,15.0,37.0,clear
+444,Lentil(Masur),Atarra,2016-05-31,5800.0,0.8,37.0,clear
+445,Lentil(Masur),Baberu,2016-05-31,5575.0,12.0,37.0,clear
+446,Bengal Gram(Gram),Atarra,2016-01-06,5800.0,0.8,24.2,clear
+447,Lentil(Masur),Atarra,2016-01-06,5800.0,0.7,24.2,clear
+448,Bengal Gram(Gram),Atarra,2016-02-06,6000.0,0.5,16.4,clear
+449,Bengal Gram(Gram),Baberu,2016-02-06,5700.0,10.0,16.4,clear
+450,Bengal Gram(Gram),Banda,2016-02-06,5780.0,3.5,16.4,clear
+451,Lentil(Masur),Atarra,2016-02-06,5800.0,0.6,16.4,clear
+452,Lentil(Masur),Baberu,2016-02-06,5575.0,10.0,16.4,clear
+453,Lentil(Masur),Banda,2016-02-06,5500.0,7.0,16.4,clear
+454,Bengal Gram(Gram),Atarra,2016-04-06,6200.0,0.7,38.2,clear
+455,Bengal Gram(Gram),Baberu,2016-04-06,5700.0,5.0,38.2,clear
+456,Lentil(Masur),Atarra,2016-04-06,5800.0,0.5,38.2,clear
+457,Lentil(Masur),Baberu,2016-04-06,5550.0,8.0,38.2,clear
+458,Bengal Gram(Gram),Atarra,2016-05-06,6200.0,0.5,37.0,clear
+459,Bengal Gram(Gram),Baberu,2016-05-06,5700.0,4.0,37.0,clear
+460,Lentil(Masur),Atarra,2016-05-06,5800.0,0.4,37.0,clear
+461,Lentil(Masur),Baberu,2016-05-06,5500.0,9.0,37.0,clear
+462,Bengal Gram(Gram),Atarra,2016-06-06,6200.0,0.5,42.6,clear
+463,Bengal Gram(Gram),Baberu,2016-06-06,5720.0,3.0,42.6,clear
+464,Bengal Gram(Gram),Banda,2016-06-06,5900.0,5.0,42.6,clear
+465,Lentil(Masur),Atarra,2016-06-06,5800.0,0.6,42.6,clear
+466,Lentil(Masur),Baberu,2016-06-06,5500.0,7.0,42.6,clear
+467,Bengal Gram(Gram),Atarra,2016-07-06,6200.0,0.6,29.2,clear
+468,Bengal Gram(Gram),Baberu,2016-07-06,5730.0,4.5,29.2,clear
+469,Lentil(Masur),Atarra,2016-07-06,5800.0,0.8,29.2,clear
+470,Lentil(Masur),Baberu,2016-07-06,5500.0,5.0,29.2,clear
+471,Bengal Gram(Gram),Atarra,2016-08-06,6200.0,0.4,33.4,clear
+472,Bengal Gram(Gram),Banda,2016-08-06,5910.0,4.0,33.4,clear
+473,Lentil(Masur),Atarra,2016-08-06,5800.0,0.7,33.4,clear
+474,Lentil(Masur),Banda,2016-08-06,5510.0,5.0,33.4,clear
+475,Bengal Gram(Gram),Atarra,2016-09-06,6200.0,0.5,33.0,clear
+476,Bengal Gram(Gram),Baberu,2016-09-06,5850.0,3.0,33.0,clear
+477,Bengal Gram(Gram),Banda,2016-09-06,5925.0,3.0,33.0,clear
+478,Lentil(Masur),Atarra,2016-09-06,5800.0,0.4,33.0,clear
+479,Lentil(Masur),Baberu,2016-09-06,5500.0,6.0,33.0,clear
+480,Bengal Gram(Gram),Atarra,2016-11-06,6000.0,0.4,24.4,clear
+481,Bengal Gram(Gram),Baberu,2016-11-06,5900.0,4.0,24.4,clear
+482,Lentil(Masur),Atarra,2016-11-06,5800.0,0.5,24.4,clear
+483,Lentil(Masur),Baberu,2016-11-06,5550.0,4.0,24.4,clear
+484,Bengal Gram(Gram),Atarra,2016-12-06,6000.0,0.2,21.6,clear
+485,Bengal Gram(Gram),Baberu,2016-12-06,5900.0,3.5,21.6,clear
+486,Lentil(Masur),Atarra,2016-12-06,5800.0,0.6,21.6,clear
+487,Lentil(Masur),Baberu,2016-12-06,5550.0,5.0,21.6,clear
+488,Bengal Gram(Gram),Atarra,2016-06-13,6000.0,0.8,36.0,clear
+489,Bengal Gram(Gram),Baberu,2016-06-13,5950.0,2.0,36.0,clear
+490,Lentil(Masur),Atarra,2016-06-13,5800.0,0.5,36.0,clear
+491,Lentil(Masur),Baberu,2016-06-13,5550.0,3.5,36.0,clear
+492,Lentil(Masur),Banda,2016-06-13,5575.0,5.0,36.0,clear
+493,Bengal Gram(Gram),Atarra,2016-06-14,6000.0,0.4,39.6,clear
+494,Bengal Gram(Gram),Baberu,2016-06-14,5950.0,5.0,39.6,clear
+495,Lentil(Masur),Atarra,2016-06-14,5800.0,0.3,39.6,clear
+496,Lentil(Masur),Baberu,2016-06-14,5575.0,2.5,39.6,clear
+497,Bengal Gram(Gram),Atarra,2016-06-15,6000.0,0.5,31.0,clear
+498,Bengal Gram(Gram),Banda,2016-06-15,6220.0,3.0,31.0,clear
+499,Lentil(Masur),Atarra,2016-06-15,5800.0,0.6,31.0,clear
+500,Lentil(Masur),Banda,2016-06-15,5650.0,4.5,31.0,clear
+501,Bengal Gram(Gram),Atarra,2016-06-16,6000.0,0.7,34.2,clear
+502,Bengal Gram(Gram),Baberu,2016-06-16,6050.0,4.0,34.2,clear
+503,Bengal Gram(Gram),Banda,2016-06-16,6350.0,2.5,34.2,clear
+504,Lentil(Masur),Atarra,2016-06-16,5700.0,0.7,34.2,clear
+505,Lentil(Masur),Baberu,2016-06-16,5575.0,3.0,34.2,clear
+506,Lentil(Masur),Banda,2016-06-16,5700.0,4.0,34.2,clear
+507,Bengal Gram(Gram),Atarra,2016-06-18,6000.0,0.8,32.0,clear
+508,Bengal Gram(Gram),Baberu,2016-06-18,6250.0,2.0,32.0,clear
+509,Lentil(Masur),Atarra,2016-06-18,5700.0,0.5,32.0,clear
+510,Lentil(Masur),Baberu,2016-06-18,5600.0,2.5,32.0,clear
+511,Bengal Gram(Gram),Atarra,2016-06-19,6000.0,0.5,31.4,clear
+512,Bengal Gram(Gram),Baberu,2016-06-19,6250.0,2.0,31.4,clear
+513,Bengal Gram(Gram),Banda,2016-06-19,6425.0,2.0,31.4,clear
+514,Lentil(Masur),Atarra,2016-06-19,5700.0,0.8,31.4,clear
+515,Lentil(Masur),Baberu,2016-06-19,5600.0,4.0,31.4,clear
+516,Bengal Gram(Gram),Atarra,2016-06-20,6000.0,0.3,33.4,clear
+517,Bengal Gram(Gram),Baberu,2016-06-20,6250.0,3.0,33.4,clear
+518,Bengal Gram(Gram),Banda,2016-06-20,6375.0,3.5,33.4,clear
+519,Lentil(Masur),Atarra,2016-06-20,5700.0,0.5,33.4,clear
+520,Lentil(Masur),Baberu,2016-06-20,5575.0,8.0,33.4,clear
+521,Bengal Gram(Gram),Atarra,2016-06-21,6000.0,0.5,32.4,clear
+522,Bengal Gram(Gram),Baberu,2016-06-21,6250.0,4.0,32.4,clear
+523,Lentil(Masur),Atarra,2016-06-21,5700.0,0.6,32.4,clear
+524,Lentil(Masur),Baberu,2016-06-21,5575.0,6.0,32.4,clear
+525,Bengal Gram(Gram),Atarra,2016-06-22,6000.0,0.3,30.0,clear
+526,Bengal Gram(Gram),Banda,2016-06-22,6375.0,4.0,30.0,clear
+527,Lentil(Masur),Atarra,2016-06-22,5700.0,0.8,30.0,clear
+528,Bengal Gram(Gram),Atarra,2016-06-25,6000.0,0.7,36.8,clear
+529,Bengal Gram(Gram),Baberu,2016-06-25,6220.0,7.0,36.8,clear
+530,Bengal Gram(Gram),Banda,2016-06-25,6200.0,6.0,36.8,clear
+531,Lentil(Masur),Atarra,2016-06-25,5800.0,0.5,36.8,clear
+532,Lentil(Masur),Baberu,2016-06-25,5580.0,5.0,36.8,clear
+533,Bengal Gram(Gram),Atarra,2016-06-26,6000.0,0.6,34.6,clear
+534,Bengal Gram(Gram),Baberu,2016-06-26,6220.0,6.0,34.6,clear
+535,Lentil(Masur),Atarra,2016-06-26,5800.0,0.8,34.6,clear
+536,Lentil(Masur),Baberu,2016-06-26,5580.0,4.5,34.6,clear
+537,Bengal Gram(Gram),Atarra,2016-06-27,6000.0,0.5,37.0,clear
+538,Bengal Gram(Gram),Baberu,2016-06-27,6200.0,8.0,37.0,clear
+539,Bengal Gram(Gram),Banda,2016-06-27,6225.0,5.0,37.0,clear
+540,Lentil(Masur),Atarra,2016-06-27,5800.0,0.6,37.0,clear
+541,Lentil(Masur),Baberu,2016-06-27,5575.0,6.0,37.0,clear
+542,Bengal Gram(Gram),Atarra,2016-06-28,6000.0,0.6,37.2,clear
+543,Bengal Gram(Gram),Baberu,2016-06-28,6200.0,6.0,37.2,clear
+544,Lentil(Masur),Atarra,2016-06-28,5800.0,0.7,37.2,clear
+545,Lentil(Masur),Baberu,2016-06-28,5575.0,7.0,37.2,clear
+546,Bengal Gram(Gram),Atarra,2016-06-29,6100.0,0.4,38.0,clear
+547,Bengal Gram(Gram),Banda,2016-06-29,6550.0,4.0,38.0,clear
+548,Lentil(Masur),Atarra,2016-06-29,5800.0,0.8,38.0,clear
+549,Bengal Gram(Gram),Atarra,2016-06-30,6100.0,0.5,39.6,clear
+550,Bengal Gram(Gram),Baberu,2016-06-30,6300.0,3.5,39.6,clear
+551,Bengal Gram(Gram),Banda,2016-06-30,6675.0,3.5,39.6,clear
+552,Lentil(Masur),Atarra,2016-06-30,5800.0,0.5,39.6,clear
+553,Lentil(Masur),Baberu,2016-06-30,5600.0,4.0,39.6,clear
+554,Bengal Gram(Gram),Atarra,2016-02-07,6200.0,0.5,25.0,clear
+555,Bengal Gram(Gram),Baberu,2016-02-07,6300.0,4.0,25.0,clear
+556,Lentil(Masur),Atarra,2016-02-07,5600.0,0.7,25.0,clear
+557,Lentil(Masur),Baberu,2016-02-07,6350.0,4.0,25.0,clear
+558,Bengal Gram(Gram),Atarra,2016-03-07,6200.0,0.6,30.4,clear
+559,Bengal Gram(Gram),Baberu,2016-03-07,6300.0,4.5,30.4,clear
+560,Lentil(Masur),Atarra,2016-03-07,5800.0,0.8,30.4,clear
+561,Lentil(Masur),Baberu,2016-03-07,5600.0,5.0,30.4,clear
+562,Bengal Gram(Gram),Atarra,2016-04-07,6200.0,0.8,34.6,clear
+563,Bengal Gram(Gram),Baberu,2016-04-07,6300.0,5.0,34.6,clear
+564,Lentil(Masur),Atarra,2016-04-07,5800.0,0.4,34.6,clear
+565,Lentil(Masur),Baberu,2016-04-07,5600.0,7.0,34.6,clear
+566,Bengal Gram(Gram),Atarra,2016-05-07,6200.0,0.6,38.0,clear
+567,Bengal Gram(Gram),Baberu,2016-05-07,6300.0,4.0,38.0,clear
+568,Lentil(Masur),Atarra,2016-05-07,5800.0,0.6,38.0,clear
+569,Lentil(Masur),Baberu,2016-05-07,5600.0,8.0,38.0,clear
+570,Bengal Gram(Gram),Atarra,2016-06-07,6200.0,0.7,35.0,clear
+571,Lentil(Masur),Atarra,2016-06-07,5800.0,0.5,35.0,clear
+572,Bengal Gram(Gram),Atarra,2016-07-07,6200.0,0.5,32.8,clear
+573,Bengal Gram(Gram),Baberu,2016-07-07,6300.0,4.5,32.8,clear
+574,Lentil(Masur),Atarra,2016-07-07,5800.0,0.8,32.8,clear
+575,Lentil(Masur),Baberu,2016-07-07,5600.0,6.0,32.8,clear
+576,Bengal Gram(Gram),Atarra,2016-09-07,6200.0,0.8,33.0,clear
+577,Bengal Gram(Gram),Baberu,2016-09-07,6350.0,4.0,33.0,clear
+578,Lentil(Masur),Atarra,2016-09-07,5700.0,0.3,33.0,clear
+579,Lentil(Masur),Baberu,2016-09-07,5625.0,4.5,33.0,clear
+580,Lentil(Masur),Banda,2016-09-07,5840.0,5.5,33.0,clear
+581,Bengal Gram(Gram),Atarra,2016-10-07,6300.0,0.6,32.0,clear
+582,Bengal Gram(Gram),Baberu,2016-10-07,6350.0,5.0,32.0,clear
+583,Lentil(Masur),Atarra,2016-10-07,5700.0,0.7,32.0,clear
+584,Lentil(Masur),Baberu,2016-10-07,5625.0,5.0,32.0,clear
+585,Lentil(Masur),Banda,2016-10-07,5850.0,4.5,32.0,clear
+586,Bengal Gram(Gram),Atarra,2016-11-07,6300.0,0.6,26.4,clear
+587,Bengal Gram(Gram),Baberu,2016-11-07,6350.0,4.0,26.4,clear
+588,Lentil(Masur),Atarra,2016-11-07,5700.0,0.6,26.4,clear
+589,Lentil(Masur),Baberu,2016-11-07,5625.0,4.0,26.4,clear
+590,Lentil(Masur),Banda,2016-11-07,5900.0,4.5,26.4,clear
+591,Bengal Gram(Gram),Atarra,2016-12-07,6300.0,0.8,15.0,clear
+592,Bengal Gram(Gram),Baberu,2016-12-07,6375.0,2.5,15.0,clear
+593,Lentil(Masur),Atarra,2016-12-07,5700.0,0.8,15.0,clear
+594,Lentil(Masur),Baberu,2016-12-07,5625.0,4.5,15.0,clear
+595,Bengal Gram(Gram),Atarra,2016-07-13,6300.0,0.5,29.0,clear
+596,Lentil(Masur),Atarra,2016-07-13,5700.0,0.5,29.0,clear
+597,Bengal Gram(Gram),Atarra,2016-07-14,6300.0,0.7,31.6,clear
+598,Bengal Gram(Gram),Baberu,2016-07-14,6550.0,2.0,31.6,clear
+599,Lentil(Masur),Atarra,2016-07-14,5700.0,0.4,31.6,clear
+600,Lentil(Masur),Baberu,2016-07-14,5700.0,4.0,31.6,clear
+601,Lentil(Masur),Banda,2016-07-14,5900.0,6.0,31.6,clear
+602,Bengal Gram(Gram),Atarra,2016-07-16,6300.0,1.0,27.6,clear
+603,Bengal Gram(Gram),Baberu,2016-07-16,6800.0,2.0,27.6,clear
+604,Bengal Gram(Gram),Banda,2016-07-16,7400.0,2.0,27.6,clear
+605,Lentil(Masur),Atarra,2016-07-16,5800.0,0.6,27.6,clear
+606,Lentil(Masur),Baberu,2016-07-16,5800.0,5.0,27.6,clear
+607,Bengal Gram(Gram),Atarra,2016-07-17,6500.0,0.4,28.4,clear
+608,Bengal Gram(Gram),Baberu,2016-07-17,6800.0,3.5,28.4,clear
+609,Bengal Gram(Gram),Banda,2016-07-17,7485.0,2.5,28.4,clear
+610,Lentil(Masur),Atarra,2016-07-17,5800.0,0.8,28.4,clear
+611,Lentil(Masur),Baberu,2016-07-17,5800.0,6.0,28.4,clear
+612,Bengal Gram(Gram),Atarra,2016-07-18,6500.0,0.4,28.2,clear
+613,Bengal Gram(Gram),Baberu,2016-07-18,6900.0,3.0,28.2,clear
+614,Bengal Gram(Gram),Banda,2016-07-18,7475.0,3.0,28.2,clear
+615,Lentil(Masur),Atarra,2016-07-18,5800.0,0.6,28.2,clear
+616,Lentil(Masur),Baberu,2016-07-18,5800.0,8.0,28.2,clear
+617,Bengal Gram(Gram),Atarra,2016-07-20,6500.0,0.7,32.4,clear
+618,Bengal Gram(Gram),Banda,2016-07-20,7520.0,2.5,32.4,clear
+619,Lentil(Masur),Atarra,2016-07-20,5800.0,0.7,32.4,clear
+620,Bengal Gram(Gram),Atarra,2016-07-21,6500.0,0.5,34.8,clear
+621,Bengal Gram(Gram),Baberu,2016-07-21,7250.0,2.0,34.8,clear
+622,Bengal Gram(Gram),Banda,2016-07-21,7700.0,2.0,34.8,clear
+623,Lentil(Masur),Atarra,2016-07-21,5800.0,0.5,34.8,clear
+624,Lentil(Masur),Baberu,2016-07-21,5800.0,7.0,34.8,clear
+625,Bengal Gram(Gram),Atarra,2016-07-24,6800.0,0.3,29.4,clear
+626,Lentil(Masur),Atarra,2016-07-24,5800.0,0.6,29.4,clear
+627,Bengal Gram(Gram),Atarra,2016-07-25,6800.0,0.4,28.6,clear
+628,Bengal Gram(Gram),Banda,2016-07-25,7640.0,2.5,28.6,clear
+629,Lentil(Masur),Atarra,2016-07-25,5800.0,0.3,28.6,clear
+630,Bengal Gram(Gram),Atarra,2016-07-26,6800.0,0.7,29.6,rain
+631,Lentil(Masur),Atarra,2016-07-26,5800.0,0.5,29.6,rain
+632,Bengal Gram(Gram),Atarra,2016-07-27,6800.0,0.5,28.4,clear
+633,Bengal Gram(Gram),Banda,2016-07-27,7670.0,2.0,28.4,clear
+634,Lentil(Masur),Atarra,2016-07-27,5800.0,0.7,28.4,clear
+635,Bengal Gram(Gram),Atarra,2016-07-28,6800.0,0.6,32.6,clear
+636,Lentil(Masur),Atarra,2016-07-28,5800.0,0.8,32.6,clear
+637,Bengal Gram(Gram),Atarra,2016-07-30,7000.0,0.5,29.2,clear
+638,Lentil(Masur),Atarra,2016-07-30,6000.0,0.5,29.2,clear
+639,Bengal Gram(Gram),Atarra,2016-01-08,7000.0,0.4,24.6,clear
+640,Lentil(Masur),Atarra,2016-01-08,5800.0,0.5,24.6,clear
+641,Bengal Gram(Gram),Atarra,2016-02-08,7000.0,0.6,23.4,clear
+642,Lentil(Masur),Atarra,2016-02-08,5800.0,0.7,23.4,clear
+643,Bengal Gram(Gram),Atarra,2016-03-08,7000.0,0.4,30.2,clear
+644,Bengal Gram(Gram),Banda,2016-03-08,7250.0,4.5,30.2,clear
+645,Lentil(Masur),Atarra,2016-03-08,5800.0,0.8,30.2,clear
+646,Lentil(Masur),Banda,2016-03-08,5625.0,8.5,30.2,clear
+647,Bengal Gram(Gram),Atarra,2016-04-08,7000.0,0.3,38.4,clear
+648,Lentil(Masur),Atarra,2016-04-08,5800.0,0.6,38.4,clear
+649,Bengal Gram(Gram),Atarra,2016-06-08,7000.0,0.5,39.6,clear
+650,Lentil(Masur),Atarra,2016-06-08,5800.0,0.5,39.6,clear
+651,Lentil(Masur),Banda,2016-06-08,5675.0,7.0,39.6,clear
+652,Bengal Gram(Gram),Atarra,2016-07-08,7000.0,0.7,30.4,clear
+653,Lentil(Masur),Atarra,2016-07-08,5800.0,0.4,30.4,clear
+654,Bengal Gram(Gram),Atarra,2016-08-08,7000.0,0.6,30.6,clear
+655,Bengal Gram(Gram),Banda,2016-08-08,7200.0,4.5,30.6,clear
+656,Lentil(Masur),Atarra,2016-08-08,5800.0,0.6,30.6,clear
+657,Bengal Gram(Gram),Atarra,2016-09-08,7000.0,0.4,31.4,clear
+658,Lentil(Masur),Atarra,2016-09-08,5800.0,0.7,31.4,clear
+659,Bengal Gram(Gram),Atarra,2016-08-13,7000.0,0.5,28.2,rain
+660,Lentil(Masur),Atarra,2016-08-13,5800.0,0.3,28.2,rain
+661,Bengal Gram(Gram),Atarra,2016-08-14,7000.0,0.7,27.4,clear
+662,Lentil(Masur),Atarra,2016-08-14,5800.0,0.5,27.4,clear
+663,Bengal Gram(Gram),Atarra,2016-08-16,7000.0,0.0,26.0,rain
+664,Lentil(Masur),Atarra,2016-08-16,5800.0,0.0,26.0,rain
+665,Bengal Gram(Gram),Atarra,2016-08-17,7000.0,0.5,28.2,clear
+666,Lentil(Masur),Atarra,2016-08-17,5850.0,0.6,28.2,clear
+667,Bengal Gram(Gram),Atarra,2016-08-18,7000.0,0.6,28.0,rain
+668,Lentil(Masur),Atarra,2016-08-18,5850.0,0.3,28.0,rain
+669,Bengal Gram(Gram),Atarra,2016-08-20,7000.0,0.8,29.8,clear
+670,Lentil(Masur),Atarra,2016-08-20,5850.0,0.7,29.8,clear
+671,Bengal Gram(Gram),Atarra,2016-08-21,7000.0,0.7,30.2,clear
+672,Lentil(Masur),Atarra,2016-08-21,5850.0,0.4,30.2,clear
+673,Bengal Gram(Gram),Atarra,2016-08-22,7000.0,0.6,30.0,clear
+674,Bengal Gram(Gram),Banda,2016-08-22,6735.0,8.5,30.0,clear
+675,Lentil(Masur),Atarra,2016-08-22,5850.0,0.8,30.0,clear
+676,Bengal Gram(Gram),Atarra,2016-08-23,6500.0,0.6,28.8,clear
+677,Lentil(Masur),Atarra,2016-08-23,5850.0,0.7,28.8,clear
+678,Bengal Gram(Gram),Atarra,2016-08-24,7000.0,0.8,31.4,clear
+679,Bengal Gram(Gram),Banda,2016-08-24,6740.0,5.0,31.4,clear
+680,Lentil(Masur),Atarra,2016-08-24,5850.0,0.4,31.4,clear
+681,Bengal Gram(Gram),Atarra,2016-08-25,7000.0,0.4,29.0,rain
+682,Bengal Gram(Gram),Banda,2016-08-25,6525.0,6.0,29.0,rain
+683,Lentil(Masur),Atarra,2016-08-25,5850.0,0.6,29.0,rain
+684,Bengal Gram(Gram),Atarra,2016-08-27,7200.0,0.5,33.0,clear
+685,Bengal Gram(Gram),Banda,2016-08-27,6375.0,0.0,33.0,clear
+686,Lentil(Masur),Atarra,2016-08-27,5900.0,0.5,33.0,clear
+687,Lentil(Masur),Banda,2016-08-27,5180.0,13.5,33.0,clear
+688,Bengal Gram(Gram),Atarra,2016-08-28,7200.0,0.6,34.0,clear
+689,Bengal Gram(Gram),Banda,2016-08-28,6385.0,7.5,34.0,clear
+690,Lentil(Masur),Atarra,2016-08-28,5850.0,0.7,34.0,clear
+691,Bengal Gram(Gram),Atarra,2016-08-29,7200.0,0.7,31.0,clear
+692,Bengal Gram(Gram),Banda,2016-08-29,6400.0,6.0,31.0,clear
+693,Lentil(Masur),Atarra,2016-08-29,5900.0,0.6,31.0,clear
+694,Lentil(Masur),Banda,2016-08-29,5150.0,10.0,31.0,clear
+695,Bengal Gram(Gram),Atarra,2016-08-30,7200.0,0.8,30.6,clear
+696,Lentil(Masur),Atarra,2016-08-30,5850.0,0.5,30.6,clear
+697,Bengal Gram(Gram),Atarra,2016-08-31,7200.0,0.6,28.8,clear
+698,Lentil(Masur),Atarra,2016-08-31,5900.0,0.5,28.8,clear
+699,Bengal Gram(Gram),Atarra,2016-01-09,7200.0,0.8,22.6,clear
+700,Bengal Gram(Gram),Baberu,2016-01-09,6500.0,8.0,22.6,clear
+701,Bengal Gram(Gram),Banda,2016-01-09,6050.0,10.0,22.6,clear
+702,Lentil(Masur),Atarra,2016-01-09,5900.0,0.5,22.6,clear
+703,Lentil(Masur),Banda,2016-01-09,5000.0,10.0,22.6,clear
+704,Bengal Gram(Gram),Atarra,2016-03-09,6800.0,0.5,31.4,clear
+705,Bengal Gram(Gram),Baberu,2016-03-09,6500.0,5.0,31.4,clear
+706,Bengal Gram(Gram),Banda,2016-03-09,6300.0,5.0,31.4,clear
+707,Lentil(Masur),Atarra,2016-03-09,5900.0,0.5,31.4,clear
+708,Lentil(Masur),Banda,2016-03-09,5250.0,6.0,31.4,clear
+709,Bengal Gram(Gram),Atarra,2016-04-09,6500.0,0.6,39.4,clear
+710,Bengal Gram(Gram),Banda,2016-04-09,6400.0,4.5,39.4,clear
+711,Lentil(Masur),Atarra,2016-04-09,5900.0,0.8,39.4,clear
+712,Lentil(Masur),Baberu,2016-04-09,5300.0,4.0,39.4,clear
+713,Lentil(Masur),Banda,2016-04-09,5280.0,6.5,39.4,clear
+714,Bengal Gram(Gram),Atarra,2016-05-09,6500.0,0.4,38.0,clear
+715,Bengal Gram(Gram),Baberu,2016-05-09,6400.0,6.0,38.0,clear
+716,Bengal Gram(Gram),Banda,2016-05-09,6500.0,4.0,38.0,clear
+717,Lentil(Masur),Atarra,2016-05-09,5900.0,0.4,38.0,clear
+718,Lentil(Masur),Baberu,2016-05-09,5300.0,5.0,38.0,clear
+719,Lentil(Masur),Banda,2016-05-09,5300.0,5.0,38.0,clear
+720,Bengal Gram(Gram),Atarra,2016-06-09,6500.0,0.3,42.0,clear
+721,Bengal Gram(Gram),Baberu,2016-06-09,6350.0,8.0,42.0,clear
+722,Lentil(Masur),Atarra,2016-06-09,5900.0,0.5,42.0,clear
+723,Lentil(Masur),Baberu,2016-06-09,5300.0,3.5,42.0,clear
+724,Bengal Gram(Gram),Atarra,2016-09-14,6500.0,0.8,30.4,clear
+725,Lentil(Masur),Atarra,2016-09-14,5900.0,0.8,30.4,clear
+726,Bengal Gram(Gram),Atarra,2016-09-15,6500.0,0.5,28.8,rain
+727,Bengal Gram(Gram),Baberu,2016-09-15,6450.0,5.0,28.8,rain
+728,Bengal Gram(Gram),Banda,2016-09-15,7200.0,6.0,28.8,rain
+729,Lentil(Masur),Atarra,2016-09-15,5900.0,0.9,28.8,rain
+730,Bengal Gram(Gram),Atarra,2016-09-17,6500.0,0.6,28.6,clear
+731,Bengal Gram(Gram),Baberu,2016-09-17,6550.0,6.0,28.6,clear
+732,Bengal Gram(Gram),Banda,2016-09-17,7350.0,4.5,28.6,clear
+733,Lentil(Masur),Atarra,2016-09-17,5900.0,0.7,28.6,clear
+734,Lentil(Masur),Banda,2016-09-17,5250.0,8.0,28.6,clear
+735,Bengal Gram(Gram),Atarra,2016-09-18,6500.0,3.0,29.0,clear
+736,Bengal Gram(Gram),Baberu,2016-09-18,6550.0,7.0,29.0,clear
+737,Bengal Gram(Gram),Banda,2016-09-18,7425.0,4.0,29.0,clear
+738,Lentil(Masur),Atarra,2016-09-18,5900.0,0.4,29.0,clear
+739,Lentil(Masur),Baberu,2016-09-18,5250.0,7.0,29.0,clear
+740,Bengal Gram(Gram),Atarra,2016-09-19,6500.0,0.4,28.2,clear
+741,Bengal Gram(Gram),Baberu,2016-09-19,6550.0,6.0,28.2,clear
+742,Bengal Gram(Gram),Banda,2016-09-19,7550.0,3.5,28.2,clear
+743,Lentil(Masur),Atarra,2016-09-19,5900.0,0.5,28.2,clear
+744,Lentil(Masur),Baberu,2016-09-19,5275.0,5.0,28.2,clear
+745,Lentil(Masur),Banda,2016-09-19,5350.0,6.0,28.2,clear
+746,Bengal Gram(Gram),Atarra,2016-09-20,6500.0,0.7,33.6,clear
+747,Bengal Gram(Gram),Baberu,2016-09-20,6850.0,4.0,33.6,clear
+748,Lentil(Masur),Atarra,2016-09-20,5900.0,0.5,33.6,clear
+749,Lentil(Masur),Baberu,2016-09-20,5225.0,10.0,33.6,clear
+750,Bengal Gram(Gram),Atarra,2016-09-21,6500.0,0.6,29.6,clear
+751,Bengal Gram(Gram),Banda,2016-09-21,7525.0,4.5,29.6,clear
+752,Lentil(Masur),Atarra,2016-09-21,5900.0,0.5,29.6,clear
+753,Bengal Gram(Gram),Atarra,2016-09-22,6500.0,0.4,30.8,clear
+754,Bengal Gram(Gram),Baberu,2016-09-22,7150.0,3.0,30.8,clear
+755,Bengal Gram(Gram),Banda,2016-09-22,7620.0,4.0,30.8,clear
+756,Lentil(Masur),Atarra,2016-09-22,5900.0,0.6,30.8,clear
+757,Lentil(Masur),Baberu,2016-09-22,5250.0,7.0,30.8,clear
+758,Bengal Gram(Gram),Atarra,2016-09-24,6400.0,0.5,26.4,clear
+759,Bengal Gram(Gram),Baberu,2016-09-24,7500.0,2.0,26.4,clear
+760,Bengal Gram(Gram),Banda,2016-09-24,8050.0,3.0,26.4,clear
+761,Lentil(Masur),Atarra,2016-09-24,5800.0,0.4,26.4,clear
+762,Lentil(Masur),Baberu,2016-09-24,5250.0,5.0,26.4,clear
+763,Bengal Gram(Gram),Atarra,2016-09-26,6400.0,0.6,30.6,clear
+764,Bengal Gram(Gram),Baberu,2016-09-26,7600.0,3.0,30.6,clear
+765,Bengal Gram(Gram),Banda,2016-09-26,8100.0,3.5,30.6,clear
+766,Lentil(Masur),Baberu,2016-09-26,5200.0,7.0,30.6,clear
+767,Bengal Gram(Gram),Atarra,2016-09-27,6400.0,0.7,31.4,clear
+768,Bengal Gram(Gram),Baberu,2016-09-27,7600.0,4.0,31.4,clear
+769,Lentil(Masur),Atarra,2016-09-27,5800.0,0.5,31.4,clear
+770,Lentil(Masur),Baberu,2016-09-27,5150.0,10.0,31.4,clear
+771,Bengal Gram(Gram),Atarra,2016-09-28,6400.0,0.5,31.4,clear
+772,Bengal Gram(Gram),Banda,2016-09-28,8225.0,3.0,31.4,clear
+773,Lentil(Masur),Atarra,2016-09-28,5800.0,0.6,31.4,clear
+774,Lentil(Masur),Banda,2016-09-28,5350.0,8.0,31.4,clear
+775,Bengal Gram(Gram),Atarra,2016-09-29,6400.0,0.4,27.2,clear
+776,Bengal Gram(Gram),Baberu,2016-09-29,7800.0,2.5,27.2,clear
+777,Bengal Gram(Gram),Banda,2016-09-29,8200.0,3.5,27.2,clear
+778,Lentil(Masur),Atarra,2016-09-29,5800.0,0.7,27.2,clear
+779,Lentil(Masur),Baberu,2016-09-29,5150.0,8.0,27.2,clear
+780,Lentil(Masur),Banda,2016-09-29,5365.0,6.0,27.2,clear
+781,Bengal Gram(Gram),Atarra,2016-01-10,6500.0,1.0,24.0,clear
+782,Bengal Gram(Gram),Baberu,2016-01-10,7950.0,1.5,24.0,clear
+783,Lentil(Masur),Atarra,2016-01-10,5800.0,0.6,24.0,clear
+784,Lentil(Masur),Baberu,2016-01-10,5150.0,5.0,24.0,clear
+785,Bengal Gram(Gram),Atarra,2016-02-10,7000.0,0.5,26.0,clear
+786,Bengal Gram(Gram),Baberu,2016-02-10,7950.0,2.5,26.0,clear
+787,Lentil(Masur),Atarra,2016-02-10,5800.0,0.7,26.0,clear
+788,Lentil(Masur),Baberu,2016-02-10,5150.0,4.0,26.0,clear
+789,Bengal Gram(Gram),Atarra,2016-03-10,7000.0,0.6,32.6,clear
+790,Bengal Gram(Gram),Baberu,2016-03-10,7950.0,3.0,32.6,clear
+791,Bengal Gram(Gram),Banda,2016-03-10,9000.0,2.0,32.6,clear
+792,Lentil(Masur),Atarra,2016-03-10,5800.0,0.7,32.6,clear
+793,Lentil(Masur),Baberu,2016-03-10,5150.0,3.0,32.6,clear
+794,Lentil(Masur),Banda,2016-03-10,5375.0,6.0,32.6,clear
+795,Bengal Gram(Gram),Atarra,2016-04-10,7500.0,0.6,29.6,clear
+796,Bengal Gram(Gram),Baberu,2016-04-10,7950.0,4.0,29.6,clear
+797,Lentil(Masur),Atarra,2016-04-10,5800.0,0.4,29.6,clear
+798,Lentil(Masur),Baberu,2016-04-10,5150.0,5.0,29.6,clear
+799,Bengal Gram(Gram),Atarra,2016-05-10,8000.0,0.5,39.6,clear
+800,Bengal Gram(Gram),Banda,2016-05-10,9000.0,2.8,39.6,clear
+801,Lentil(Masur),Atarra,2016-05-10,5800.0,0.8,39.6,clear
+802,Lentil(Masur),Banda,2016-05-10,5350.0,8.5,39.6,clear
+803,Bengal Gram(Gram),Atarra,2016-06-10,8000.0,0.5,44.2,clear
+804,Bengal Gram(Gram),Baberu,2016-06-10,8000.0,3.0,44.2,clear
+805,Bengal Gram(Gram),Banda,2016-06-10,8850.0,3.5,44.2,clear
+806,Lentil(Masur),Atarra,2016-06-10,5800.0,0.3,44.2,clear
+807,Lentil(Masur),Baberu,2016-06-10,5200.0,7.0,44.2,clear
+808,Bengal Gram(Gram),Atarra,2016-08-10,9000.0,0.8,31.4,clear
+809,Lentil(Masur),Atarra,2016-08-10,6000.0,0.7,31.4,clear
+810,Bengal Gram(Gram),Atarra,2016-09-10,9200.0,0.6,33.0,clear
+811,Lentil(Masur),Atarra,2016-09-10,6000.0,0.6,33.0,clear
+812,Bengal Gram(Gram),Atarra,2016-10-10,9200.0,0.5,30.8,clear
+813,Lentil(Masur),Atarra,2016-10-10,6000.0,0.4,30.8,clear
+814,Bengal Gram(Gram),Atarra,2016-11-10,9200.0,0.7,24.6,clear
+815,Lentil(Masur),Atarra,2016-11-10,6000.0,0.8,24.6,clear
+816,Bengal Gram(Gram),Atarra,2016-12-10,9200.0,0.6,20.2,clear
+817,Lentil(Masur),Atarra,2016-12-10,6000.0,0.6,20.2,clear
+818,Bengal Gram(Gram),Atarra,2016-10-13,9200.0,0.8,31.0,clear
+819,Lentil(Masur),Atarra,2016-10-13,6000.0,0.5,31.0,clear
+820,Lentil(Masur),Banda,2016-10-13,5250.0,14.0,31.0,clear
+821,Bengal Gram(Gram),Atarra,2016-10-15,9200.0,0.6,31.8,clear
+822,Bengal Gram(Gram),Banda,2016-10-15,9100.0,4.0,31.8,clear
+823,Lentil(Masur),Atarra,2016-10-15,5800.0,0.7,31.8,clear
+824,Bengal Gram(Gram),Atarra,2016-10-16,9200.0,0.8,23.6,clear
+825,Bengal Gram(Gram),Banda,2016-10-16,9040.0,5.5,23.6,clear
+826,Lentil(Masur),Atarra,2016-10-16,5800.0,0.5,23.6,clear
+827,Bengal Gram(Gram),Atarra,2016-10-19,9200.0,0.6,30.2,clear
+828,Bengal Gram(Gram),Banda,2016-10-19,8950.0,5.5,30.2,clear
+829,Lentil(Masur),Atarra,2016-10-19,5800.0,0.7,30.2,clear
+830,Lentil(Masur),Banda,2016-10-19,5240.0,11.0,30.2,clear
+831,Bengal Gram(Gram),Atarra,2016-10-20,9200.0,0.8,30.4,clear
+832,Bengal Gram(Gram),Banda,2016-10-20,8900.0,6.5,30.4,clear
+833,Lentil(Masur),Atarra,2016-10-20,5800.0,0.5,30.4,clear
+834,Bengal Gram(Gram),Atarra,2016-10-22,9200.0,0.7,31.8,clear
+835,Bengal Gram(Gram),Banda,2016-10-22,9350.0,4.5,31.8,clear
+836,Lentil(Masur),Atarra,2016-10-22,5800.0,0.6,31.8,clear
+837,Lentil(Masur),Banda,2016-10-22,5300.0,10.0,31.8,clear
+838,Bengal Gram(Gram),Atarra,2016-10-23,9200.0,0.4,31.4,clear
+839,Lentil(Masur),Atarra,2016-10-23,5800.0,0.8,31.4,clear
+840,Bengal Gram(Gram),Atarra,2016-10-24,9200.0,0.5,29.6,clear
+841,Bengal Gram(Gram),Baberu,2016-10-24,9000.0,4.0,29.6,clear
+842,Bengal Gram(Gram),Banda,2016-10-24,9300.0,5.0,29.6,clear
+843,Lentil(Masur),Atarra,2016-10-24,5800.0,0.6,29.6,clear
+844,Lentil(Masur),Baberu,2016-10-24,5150.0,4.0,29.6,clear
+845,Bengal Gram(Gram),Atarra,2016-10-25,9200.0,0.6,30.6,clear
+846,Bengal Gram(Gram),Baberu,2016-10-25,9000.0,6.0,30.6,clear
+847,Lentil(Masur),Atarra,2016-10-25,5800.0,0.5,30.6,clear
+848,Lentil(Masur),Baberu,2016-10-25,5150.0,5.0,30.6,clear
+849,Bengal Gram(Gram),Atarra,2016-10-26,9200.0,0.8,29.0,clear
+850,Bengal Gram(Gram),Banda,2016-10-26,9250.0,6.0,29.0,clear
+851,Lentil(Masur),Atarra,2016-10-26,5800.0,0.5,29.0,clear
+852,Lentil(Masur),Banda,2016-10-26,5300.0,11.0,29.0,clear
+853,Bengal Gram(Gram),Atarra,2016-10-27,9500.0,0.7,28.0,clear
+854,Bengal Gram(Gram),Baberu,2016-10-27,9050.0,4.0,28.0,clear
+855,Bengal Gram(Gram),Banda,2016-10-27,9100.0,6.5,28.0,clear
+856,Lentil(Masur),Atarra,2016-10-27,5800.0,0.6,28.0,clear
+857,Lentil(Masur),Baberu,2016-10-27,5250.0,8.0,28.0,clear
+858,Lentil(Masur),Banda,2016-10-27,5325.0,8.5,28.0,clear
+859,Bengal Gram(Gram),Atarra,2016-10-29,9500.0,0.5,27.6,clear
+860,Bengal Gram(Gram),Banda,2016-10-29,9000.0,5.0,27.6,clear
+861,Lentil(Masur),Atarra,2016-10-29,5800.0,0.7,27.6,clear
+862,Lentil(Masur),Banda,2016-10-29,5350.0,7.5,27.6,clear
+863,Bengal Gram(Gram),Atarra,2016-10-30,9500.0,0.6,28.6,clear
+864,Lentil(Masur),Atarra,2016-10-30,5800.0,0.6,28.6,clear
+865,Bengal Gram(Gram),Atarra,2016-10-31,9500.0,0.0,21.0,clear
+866,Lentil(Masur),Atarra,2016-10-31,5800.0,0.0,21.0,clear
+867,Bengal Gram(Gram),Atarra,2016-01-11,9500.0,0.8,22.4,clear
+868,Lentil(Masur),Atarra,2016-01-11,5800.0,0.5,22.4,clear
+869,Bengal Gram(Gram),Atarra,2016-02-11,9500.0,1.0,17.0,clear
+870,Bengal Gram(Gram),Banda,2016-02-11,8600.0,7.5,17.0,clear
+871,Lentil(Masur),Atarra,2016-02-11,5800.0,0.6,17.0,clear
+872,Lentil(Masur),Banda,2016-02-11,5285.0,9.5,17.0,clear
+873,Bengal Gram(Gram),Atarra,2016-03-11,9500.0,0.8,35.6,clear
+874,Bengal Gram(Gram),Baberu,2016-03-11,9000.0,20.0,35.6,clear
+875,Lentil(Masur),Atarra,2016-03-11,5700.0,0.7,35.6,clear
+876,Lentil(Masur),Baberu,2016-03-11,5200.0,20.0,35.6,clear
+877,Lentil(Masur),Banda,2016-03-11,5250.0,12.0,35.6,clear
+878,Bengal Gram(Gram),Atarra,2016-05-11,9000.0,0.7,40.0,clear
+879,Bengal Gram(Gram),Baberu,2016-05-11,8950.0,5.0,40.0,clear
+880,Bengal Gram(Gram),Banda,2016-05-11,8550.0,5.0,40.0,clear
+881,Lentil(Masur),Atarra,2016-05-11,5600.0,0.4,40.0,clear
+882,Lentil(Masur),Baberu,2016-05-11,5300.0,4.0,40.0,clear
+883,Lentil(Masur),Banda,2016-05-11,5200.0,13.0,40.0,clear
+884,Bengal Gram(Gram),Atarra,2016-06-11,1600.0,12.5,43.8,clear
+885,Bengal Gram(Gram),Baberu,2016-06-11,8950.0,10.0,43.8,clear
+886,Lentil(Masur),Atarra,2016-06-11,5700.0,0.4,43.8,clear
+887,Lentil(Masur),Baberu,2016-06-11,5300.0,5.0,43.8,clear
+888,Bengal Gram(Gram),Atarra,2016-07-11,8500.0,0.5,31.0,clear
+889,Bengal Gram(Gram),Baberu,2016-07-11,8800.0,3.0,31.0,clear
+890,Bengal Gram(Gram),Banda,2016-07-11,8800.0,4.0,31.0,clear
+891,Lentil(Masur),Atarra,2016-07-11,5600.0,0.5,31.0,clear
+892,Lentil(Masur),Baberu,2016-07-11,5250.0,8.0,31.0,clear
+893,Lentil(Masur),Banda,2016-07-11,5250.0,11.0,31.0,clear
+894,Bengal Gram(Gram),Atarra,2016-08-11,8500.0,0.6,33.2,clear
+895,Bengal Gram(Gram),Baberu,2016-08-11,8500.0,8.5,33.2,clear
+896,Lentil(Masur),Atarra,2016-08-11,5600.0,1.0,33.2,clear
+897,Lentil(Masur),Baberu,2016-08-11,5200.0,10.0,33.2,clear
+898,Bengal Gram(Gram),Atarra,2016-09-11,8500.0,0.4,33.4,clear
+899,Bengal Gram(Gram),Banda,2016-09-11,8725.0,5.0,33.4,clear
+900,Lentil(Masur),Atarra,2016-09-11,5600.0,0.9,33.4,clear
+901,Lentil(Masur),Banda,2016-09-11,5225.0,14.0,33.4,clear
+902,Bengal Gram(Gram),Atarra,2016-10-11,8500.0,0.4,26.0,clear
+903,Bengal Gram(Gram),Baberu,2016-10-11,8500.0,6.0,26.0,clear
+904,Bengal Gram(Gram),Banda,2016-10-11,8750.0,4.5,26.0,clear
+905,Lentil(Masur),Atarra,2016-10-11,5700.0,0.5,26.0,clear
+906,Lentil(Masur),Baberu,2016-10-11,5200.0,8.0,26.0,clear
+907,Lentil(Masur),Banda,2016-10-11,5255.0,12.0,26.0,clear
+908,Bengal Gram(Gram),Atarra,2016-11-11,8500.0,0.4,17.0,clear
+909,Bengal Gram(Gram),Baberu,2016-11-11,8500.0,5.0,17.0,clear
+910,Bengal Gram(Gram),Banda,2016-11-11,8900.0,3.0,17.0,clear
+911,Lentil(Masur),Baberu,2016-11-11,5200.0,5.0,17.0,clear
+912,Lentil(Masur),Banda,2016-11-11,5200.0,10.0,17.0,clear
+913,Bengal Gram(Gram),Atarra,2016-12-11,8500.0,0.3,21.6,clear
+914,Bengal Gram(Gram),Baberu,2016-12-11,8500.0,4.0,21.6,clear
+915,Bengal Gram(Gram),Banda,2016-12-11,9000.0,2.5,21.6,clear
+916,Lentil(Masur),Atarra,2016-12-11,5500.0,0.4,21.6,clear
+917,Lentil(Masur),Baberu,2016-12-11,5200.0,6.0,21.6,clear
+918,Lentil(Masur),Banda,2016-12-11,5240.0,7.5,21.6,clear
+919,Bengal Gram(Gram),Atarra,2016-11-14,8500.0,0.7,25.0,clear
+920,Bengal Gram(Gram),Banda,2016-11-14,9000.0,2.2,25.0,clear
+921,Lentil(Masur),Atarra,2016-11-14,5500.0,0.8,25.0,clear
+922,Lentil(Masur),Banda,2016-11-14,5250.0,5.0,25.0,clear
+923,Bengal Gram(Gram),Atarra,2016-11-15,8500.0,0.7,25.2,clear
+924,Bengal Gram(Gram),Baberu,2016-11-15,8600.0,4.0,25.2,clear
+925,Lentil(Masur),Atarra,2016-11-15,5500.0,0.5,25.2,clear
+926,Lentil(Masur),Baberu,2016-11-15,5150.0,8.0,25.2,clear
+927,Bengal Gram(Gram),Atarra,2016-11-16,8500.0,0.5,18.0,clear
+928,Bengal Gram(Gram),Banda,2016-11-16,8700.0,2.5,18.0,clear
+929,Lentil(Masur),Atarra,2016-11-16,5500.0,0.6,18.0,clear
+930,Lentil(Masur),Banda,2016-11-16,5170.0,7.0,18.0,clear
+931,Bengal Gram(Gram),Atarra,2016-11-17,8500.0,0.6,24.0,clear
+932,Bengal Gram(Gram),Baberu,2016-11-17,8200.0,0.5,24.0,clear
+933,Lentil(Masur),Atarra,2016-11-17,5500.0,0.5,24.0,clear
+934,Lentil(Masur),Baberu,2016-11-17,5100.0,1.5,24.0,clear
+935,Bengal Gram(Gram),Atarra,2016-11-19,8500.0,0.4,24.2,clear
+936,Bengal Gram(Gram),Baberu,2016-11-19,8200.0,2.0,24.2,clear
+937,Bengal Gram(Gram),Banda,2016-11-19,8600.0,3.5,24.2,clear
+938,Lentil(Masur),Atarra,2016-11-19,5500.0,0.4,24.2,clear
+939,Lentil(Masur),Baberu,2016-11-19,5100.0,2.5,24.2,clear
+940,Bengal Gram(Gram),Atarra,2016-11-20,8400.0,7.0,23.6,clear
+941,Bengal Gram(Gram),Baberu,2016-11-20,8200.0,3.0,23.6,clear
+942,Bengal Gram(Gram),Banda,2016-11-20,8600.0,3.0,23.6,clear
+943,Lentil(Masur),Atarra,2016-11-20,5500.0,0.5,23.6,clear
+944,Lentil(Masur),Baberu,2016-11-20,5100.0,4.0,23.6,clear
+945,Lentil(Masur),Banda,2016-11-20,5090.0,4.5,23.6,clear
+946,Bengal Gram(Gram),Atarra,2016-11-21,8400.0,0.6,24.4,clear
+947,Bengal Gram(Gram),Baberu,2016-11-21,8000.0,1.0,24.4,clear
+948,Bengal Gram(Gram),Banda,2016-11-21,8500.0,4.0,24.4,clear
+949,Lentil(Masur),Atarra,2016-11-21,5400.0,0.5,24.4,clear
+950,Lentil(Masur),Baberu,2016-11-21,5000.0,1.0,24.4,clear
+951,Lentil(Masur),Banda,2016-11-21,5100.0,5.0,24.4,clear
+952,Bengal Gram(Gram),Atarra,2016-11-22,8400.0,0.6,25.2,clear
+953,Bengal Gram(Gram),Baberu,2016-11-22,8000.0,1.5,25.2,clear
+954,Lentil(Masur),Atarra,2016-11-22,5500.0,0.4,25.2,clear
+955,Lentil(Masur),Baberu,2016-11-22,5000.0,2.5,25.2,clear
+956,Bengal Gram(Gram),Atarra,2016-11-23,8400.0,0.8,25.0,clear
+957,Bengal Gram(Gram),Banda,2016-11-23,8500.0,3.0,25.0,clear
+958,Lentil(Masur),Atarra,2016-11-23,5500.0,0.5,25.0,clear
+959,Bengal Gram(Gram),Atarra,2016-11-24,8400.0,0.7,23.6,clear
+960,Bengal Gram(Gram),Baberu,2016-11-24,8000.0,2.0,23.6,clear
+961,Bengal Gram(Gram),Banda,2016-11-24,8300.0,4.5,23.6,clear
+962,Lentil(Masur),Atarra,2016-11-24,5500.0,0.6,23.6,clear
+963,Lentil(Masur),Baberu,2016-11-24,5050.0,1.5,23.6,clear
+964,Bengal Gram(Gram),Atarra,2016-11-26,8200.0,0.5,26.0,clear
+965,Bengal Gram(Gram),Baberu,2016-11-26,8200.0,2.0,26.0,clear
+966,Lentil(Masur),Atarra,2016-11-26,5500.0,0.7,26.0,clear
+967,Lentil(Masur),Baberu,2016-11-26,5000.0,1.5,26.0,clear
+968,Bengal Gram(Gram),Atarra,2016-11-27,8200.0,0.6,26.2,clear
+969,Bengal Gram(Gram),Baberu,2016-11-27,8200.0,1.0,26.2,clear
+970,Lentil(Masur),Atarra,2016-11-27,5500.0,0.4,26.2,clear
+971,Lentil(Masur),Baberu,2016-11-27,5000.0,2.0,26.2,clear
+972,Bengal Gram(Gram),Atarra,2016-11-28,8200.0,0.6,25.4,clear
+973,Bengal Gram(Gram),Baberu,2016-11-28,8200.0,2.5,25.4,clear
+974,Bengal Gram(Gram),Banda,2016-11-28,8240.0,4.0,25.4,clear
+975,Lentil(Masur),Atarra,2016-11-28,5500.0,0.4,25.4,clear
+976,Lentil(Masur),Baberu,2016-11-28,4950.0,3.0,25.4,clear
+977,Bengal Gram(Gram),Atarra,2016-11-29,8200.0,0.4,16.4,clear
+978,Lentil(Masur),Atarra,2016-11-29,5500.0,0.6,16.4,clear
+979,Bengal Gram(Gram),Atarra,2016-04-12,8200.0,0.5,37.0,clear
+980,Bengal Gram(Gram),Banda,2016-04-12,8150.0,4.0,37.0,clear
+981,Lentil(Masur),Atarra,2016-04-12,5000.0,0.7,37.0,clear
+982,Bengal Gram(Gram),Atarra,2016-05-12,8200.0,0.4,41.6,clear
+983,Bengal Gram(Gram),Banda,2016-05-12,8000.0,3.0,41.6,clear
+984,Lentil(Masur),Atarra,2016-05-12,5000.0,0.5,41.6,clear
+985,Lentil(Masur),Banda,2016-05-12,4600.0,5.0,41.6,clear
+986,Bengal Gram(Gram),Atarra,2016-06-12,8200.0,0.3,42.0,clear
+987,Lentil(Masur),Atarra,2016-06-12,5000.0,0.4,42.0,clear
+988,Bengal Gram(Gram),Atarra,2016-07-12,8200.0,0.8,32.6,clear
+989,Bengal Gram(Gram),Banda,2016-07-12,7900.0,4.5,32.6,clear
+990,Lentil(Masur),Atarra,2016-07-12,5000.0,0.5,32.6,clear
+991,Lentil(Masur),Banda,2016-07-12,4700.0,4.0,32.6,clear
+992,Bengal Gram(Gram),Atarra,2016-08-12,8200.0,0.5,30.6,clear
+993,Bengal Gram(Gram),Banda,2016-08-12,7700.0,5.0,30.6,clear
+994,Lentil(Masur),Atarra,2016-08-12,5000.0,0.4,30.6,clear
+995,Lentil(Masur),Banda,2016-08-12,4650.0,6.0,30.6,clear
+996,Bengal Gram(Gram),Atarra,2016-10-12,8200.0,0.5,29.0,clear
+997,Lentil(Masur),Atarra,2016-10-12,5000.0,0.6,29.0,clear
+998,Bengal Gram(Gram),Atarra,2016-12-17,8000.0,0.6,21.0,clear
+999,Bengal Gram(Gram),Banda,2016-12-17,8000.0,2.5,21.0,clear
+1000,Lentil(Masur),Atarra,2016-12-17,5100.0,0.7,21.0,clear
+1001,Bengal Gram(Gram),Atarra,2016-12-18,8000.0,0.3,20.8,clear
+1002,Bengal Gram(Gram),Banda,2016-12-18,8000.0,3.0,20.8,clear
+1003,Lentil(Masur),Atarra,2016-12-18,5100.0,0.4,20.8,clear
+1004,Lentil(Masur),Banda,2016-12-18,4675.0,4.0,20.8,clear
+1005,Bengal Gram(Gram),Atarra,2016-12-19,8000.0,0.6,19.4,clear
+1006,Bengal Gram(Gram),Banda,2016-12-19,7900.0,3.5,19.4,clear
+1007,Lentil(Masur),Atarra,2016-12-19,5100.0,0.7,19.4,clear
+1008,Lentil(Masur),Banda,2016-12-19,4700.0,5.0,19.4,clear
+1009,Bengal Gram(Gram),Atarra,2016-12-20,2100.0,14.0,21.4,clear
+1010,Lentil(Masur),Atarra,2016-12-20,5100.0,0.5,21.4,clear
+1011,Bengal Gram(Gram),Atarra,2016-12-21,8000.0,0.8,23.0,clear
+1012,Bengal Gram(Gram),Banda,2016-12-21,8000.0,3.0,23.0,clear
+1013,Lentil(Masur),Atarra,2016-12-21,5100.0,0.6,23.0,clear
+1014,Bengal Gram(Gram),Atarra,2016-12-22,8000.0,0.4,20.4,clear
+1015,Bengal Gram(Gram),Banda,2016-12-22,7950.0,3.5,20.4,clear
+1016,Lentil(Masur),Atarra,2016-12-22,5100.0,0.8,20.4,clear
+1017,Lentil(Masur),Banda,2016-12-22,4300.0,8.0,20.4,clear
+1018,Bengal Gram(Gram),Atarra,2016-12-24,8000.0,0.5,21.0,clear
+1019,Bengal Gram(Gram),Banda,2016-12-24,8000.0,2.5,21.0,clear
+1020,Lentil(Masur),Atarra,2016-12-24,5100.0,0.5,21.0,clear
+1021,Lentil(Masur),Banda,2016-12-24,4250.0,6.0,21.0,clear
+1022,Bengal Gram(Gram),Atarra,2016-12-25,8000.0,0.7,23.2,clear
+1023,Bengal Gram(Gram),Banda,2016-12-25,7950.0,3.0,23.2,clear
+1024,Lentil(Masur),Atarra,2016-12-25,5100.0,0.4,23.2,clear
+1025,Lentil(Masur),Banda,2016-12-25,4250.0,9.0,23.2,clear
+1026,Bengal Gram(Gram),Atarra,2016-12-26,8000.0,0.6,18.4,clear
+1027,Bengal Gram(Gram),Banda,2016-12-26,8050.0,2.0,18.4,clear
+1028,Lentil(Masur),Atarra,2016-12-26,5100.0,0.4,18.4,clear
+1029,Lentil(Masur),Banda,2016-12-26,4200.0,7.5,18.4,clear
+1030,Bengal Gram(Gram),Atarra,2016-12-27,8000.0,0.4,20.0,clear
+1031,Lentil(Masur),Atarra,2016-12-27,5100.0,0.5,20.0,clear
+1032,Bengal Gram(Gram),Atarra,2016-12-28,8000.0,0.7,12.4,clear
+1033,Bengal Gram(Gram),Banda,2016-12-28,8000.0,3.0,12.4,clear
+1034,Lentil(Masur),Atarra,2016-12-28,5100.0,0.6,12.4,clear
+1035,Lentil(Masur),Banda,2016-12-28,4225.0,6.0,12.4,clear
+1036,Bengal Gram(Gram),Atarra,2016-12-29,8000.0,0.5,17.0,clear
+1037,Bengal Gram(Gram),Banda,2016-12-29,8000.0,3.5,17.0,clear
+1038,Lentil(Masur),Atarra,2016-12-29,5000.0,0.6,17.0,clear
+1039,Lentil(Masur),Banda,2016-12-29,4200.0,6.5,17.0,clear
+1040,Bengal Gram(Gram),Baberu,2016-01-01,4225.0,8.0,22.2,clear
+1041,Bengal Gram(Gram),Banda,2016-01-01,4450.0,22.0,22.2,clear
+1042,Lentil(Masur),Baberu,2016-01-01,4925.0,6.0,22.2,clear
+1043,Bengal Gram(Gram),Baberu,2016-02-01,4225.0,10.0,25.0,clear
+1044,Bengal Gram(Gram),Banda,2016-02-01,4400.0,25.0,25.0,clear
+1045,Lentil(Masur),Baberu,2016-02-01,4925.0,7.0,25.0,clear
+1046,Bengal Gram(Gram),Baberu,2016-08-01,4150.0,11.0,30.0,clear
+1047,Lentil(Masur),Baberu,2016-08-01,4825.0,30.0,30.0,clear
+1048,Bengal Gram(Gram),Baberu,2016-01-16,4175.0,15.0,19.4,clear
+1049,Bengal Gram(Gram),Banda,2016-01-16,4320.0,21.0,19.4,clear
+1050,Lentil(Masur),Baberu,2016-01-16,4800.0,15.0,19.4,clear
+1051,Bengal Gram(Gram),Baberu,2016-01-17,4175.0,11.0,14.6,clear
+1052,Bengal Gram(Gram),Banda,2016-01-17,4335.0,24.0,14.6,clear
+1053,Lentil(Masur),Baberu,2016-01-17,4800.0,17.0,14.6,clear
+1054,Bengal Gram(Gram),Baberu,2016-01-22,4000.0,20.0,17.6,clear
+1055,Bengal Gram(Gram),Banda,2016-01-22,4075.0,10.0,17.6,clear
+1056,Lentil(Masur),Baberu,2016-01-22,4450.0,27.5,17.6,clear
+1057,Lentil(Masur),Banda,2016-01-22,4500.0,40.0,17.6,clear
+1058,Bengal Gram(Gram),Baberu,2016-01-29,4000.0,20.0,25.4,clear
+1059,Bengal Gram(Gram),Banda,2016-01-29,4025.0,15.0,25.4,clear
+1060,Lentil(Masur),Baberu,2016-01-29,4000.0,30.0,25.4,clear
+1061,Lentil(Masur),Banda,2016-01-29,4450.0,35.0,25.4,clear
+1062,Bengal Gram(Gram),Baberu,2016-01-30,3975.0,25.0,28.0,clear
+1063,Lentil(Masur),Baberu,2016-01-30,3975.0,35.0,28.0,clear
+1064,Bengal Gram(Gram),Baberu,2016-01-31,3975.0,22.0,26.6,clear
+1065,Bengal Gram(Gram),Banda,2016-01-31,4025.0,15.0,26.6,clear
+1066,Lentil(Masur),Baberu,2016-01-31,3975.0,38.0,26.6,clear
+1067,Lentil(Masur),Banda,2016-01-31,4450.0,31.0,26.6,clear
+1068,Bengal Gram(Gram),Baberu,2016-05-02,3950.0,13.0,43.2,clear
+1069,Bengal Gram(Gram),Banda,2016-05-02,4035.0,15.0,43.2,clear
+1070,Lentil(Masur),Baberu,2016-05-02,4025.0,12.0,43.2,clear
+1071,Lentil(Masur),Banda,2016-05-02,4470.0,30.0,43.2,clear
+1072,Bengal Gram(Gram),Baberu,2016-11-02,3950.0,15.0,20.4,clear
+1073,Bengal Gram(Gram),Banda,2016-11-02,4025.0,15.0,20.4,clear
+1074,Lentil(Masur),Baberu,2016-11-02,3700.0,30.0,20.4,clear
+1075,Bengal Gram(Gram),Baberu,2016-12-02,3800.0,25.0,22.4,clear
+1076,Bengal Gram(Gram),Baberu,2016-02-16,3775.0,20.0,20.0,rain
+1077,Lentil(Masur),Baberu,2016-02-16,3600.0,10.0,20.0,rain
+1078,Bengal Gram(Gram),Baberu,2016-02-18,3750.0,25.0,28.6,clear
+1079,Lentil(Masur),Baberu,2016-02-18,3575.0,15.0,28.6,clear
+1080,Bengal Gram(Gram),Baberu,2016-02-23,3725.0,12.0,29.0,clear
+1081,Lentil(Masur),Baberu,2016-02-23,3575.0,12.0,29.0,clear
+1082,Bengal Gram(Gram),Baberu,2016-04-03,3710.0,9.0,39.0,clear
+1083,Lentil(Masur),Baberu,2016-04-03,3600.0,9.0,39.0,clear
+1084,Bengal Gram(Gram),Baberu,2016-11-03,3725.0,5.0,27.8,clear
+1085,Bengal Gram(Gram),Baberu,2016-12-03,3725.0,6.0,19.6,clear
+1086,Bengal Gram(Gram),Banda,2016-12-03,3825.0,10.0,19.6,clear
+1087,Bengal Gram(Gram),Baberu,2016-03-13,3720.0,8.0,30.4,clear
+1088,Bengal Gram(Gram),Baberu,2016-03-18,3950.0,4.0,33.8,clear
+1089,Bengal Gram(Gram),Banda,2016-03-18,3900.0,5.0,33.8,clear
+1090,Lentil(Masur),Baberu,2016-03-18,3900.0,6.0,33.8,clear
+1091,Bengal Gram(Gram),Baberu,2016-03-20,3925.0,12.0,35.4,clear
+1092,Lentil(Masur),Baberu,2016-03-20,3950.0,4.5,35.4,clear
+1093,Bengal Gram(Gram),Baberu,2016-03-21,4075.0,10.0,34.0,clear
+1094,Bengal Gram(Gram),Banda,2016-03-21,4050.0,5.0,34.0,clear
+1095,Lentil(Masur),Baberu,2016-03-21,4100.0,2.0,34.0,clear
+1096,Lentil(Masur),Banda,2016-03-21,4450.0,9.0,34.0,clear
+1097,Bengal Gram(Gram),Baberu,2016-03-25,4100.0,15.0,37.6,clear
+1098,Bengal Gram(Gram),Banda,2016-03-25,4100.0,4.5,37.6,clear
+1099,Bengal Gram(Gram),Baberu,2016-01-04,4150.0,6.0,21.0,clear
+1100,Lentil(Masur),Baberu,2016-01-04,4800.0,1.0,21.0,clear
+1101,Lentil(Masur),Banda,2016-01-04,5220.0,2.5,21.0,clear
+1102,Bengal Gram(Gram),Baberu,2016-02-04,4175.0,8.0,22.6,clear
+1103,Bengal Gram(Gram),Banda,2016-02-04,4275.0,0.8,22.6,clear
+1104,Lentil(Masur),Baberu,2016-02-04,4800.0,4.0,22.6,clear
+1105,Bengal Gram(Gram),Baberu,2016-03-04,4180.0,7.0,34.0,clear
+1106,Lentil(Masur),Baberu,2016-03-04,5000.0,3.0,34.0,clear
+1107,Bengal Gram(Gram),Baberu,2016-10-04,4600.0,9.0,32.0,clear
+1108,Bengal Gram(Gram),Banda,2016-10-04,4620.0,6.0,32.0,clear
+1109,Lentil(Masur),Baberu,2016-10-04,5300.0,4.0,32.0,clear
+1110,Bengal Gram(Gram),Baberu,2016-11-04,4675.0,4.0,26.2,clear
+1111,Bengal Gram(Gram),Banda,2016-11-04,4700.0,3.5,26.2,clear
+1112,Lentil(Masur),Baberu,2016-11-04,5400.0,3.5,26.2,clear
+1113,Bengal Gram(Gram),Baberu,2016-04-15,4750.0,6.0,41.0,clear
+1114,Lentil(Masur),Baberu,2016-04-15,5550.0,5.0,41.0,clear
+1115,Bengal Gram(Gram),Baberu,2016-04-19,5400.0,1.5,41.0,clear
+1116,Lentil(Masur),Baberu,2016-04-19,6050.0,2.0,41.0,clear
+1117,Bengal Gram(Gram),Baberu,2016-04-21,5500.0,2.0,39.8,clear
+1118,Lentil(Masur),Baberu,2016-04-21,6100.0,3.0,39.8,clear
+1119,Bengal Gram(Gram),Baberu,2016-04-22,5450.0,4.0,41.2,clear
+1120,Lentil(Masur),Baberu,2016-04-22,6000.0,5.0,41.2,clear
+1121,Bengal Gram(Gram),Baberu,2016-04-29,5450.0,5.0,32.6,clear
+1122,Bengal Gram(Gram),Banda,2016-04-29,5480.0,3.5,32.6,clear
+1123,Lentil(Masur),Baberu,2016-04-29,5700.0,15.0,32.6,clear
+1124,Bengal Gram(Gram),Baberu,2016-06-05,5450.0,6.0,36.6,clear
+1125,Bengal Gram(Gram),Banda,2016-06-05,5440.0,5.0,36.6,clear
+1126,Lentil(Masur),Baberu,2016-06-05,5700.0,8.0,36.6,clear
+1127,Lentil(Masur),Banda,2016-06-05,5610.0,12.0,36.6,clear
+1128,Bengal Gram(Gram),Baberu,2016-05-13,5600.0,4.0,40.0,clear
+1129,Bengal Gram(Gram),Banda,2016-05-13,5560.0,6.0,40.0,clear
+1130,Lentil(Masur),Baberu,2016-05-13,5750.0,4.0,40.0,clear
+1131,Lentil(Masur),Banda,2016-05-13,5680.0,10.0,40.0,clear
+1132,Bengal Gram(Gram),Baberu,2016-05-19,5575.0,5.0,34.4,clear
+1133,Lentil(Masur),Atarra,2016-05-19,5800.0,0.6,34.4,clear
+1134,Lentil(Masur),Baberu,2016-05-19,5700.0,6.0,34.4,clear
+1135,Bengal Gram(Gram),Baberu,2016-05-20,5625.0,4.0,42.0,clear
+1136,Bengal Gram(Gram),Banda,2016-05-20,5800.0,4.0,42.0,clear
+1137,Lentil(Masur),Baberu,2016-05-20,5700.0,8.0,42.0,clear
+1138,Lentil(Masur),Banda,2016-05-20,5690.0,8.0,42.0,clear
+1139,Bengal Gram(Gram),Baberu,2016-05-27,5775.0,2.5,41.4,clear
+1140,Lentil(Masur),Baberu,2016-05-27,5575.0,15.0,41.4,clear
+1141,Bengal Gram(Gram),Baberu,2016-03-06,5700.0,8.0,30.0,clear
+1142,Bengal Gram(Gram),Banda,2016-03-06,5820.0,3.0,30.0,clear
+1143,Lentil(Masur),Baberu,2016-03-06,5550.0,15.0,30.0,clear
+1144,Bengal Gram(Gram),Baberu,2016-10-06,5900.0,2.5,29.4,clear
+1145,Bengal Gram(Gram),Banda,2016-10-06,5900.0,4.0,29.4,clear
+1146,Lentil(Masur),Baberu,2016-10-06,5550.0,4.0,29.4,clear
+1147,Bengal Gram(Gram),Baberu,2016-06-24,6250.0,4.5,33.4,clear
+1148,Lentil(Masur),Baberu,2016-06-24,5580.0,4.0,33.4,clear
+1149,Bengal Gram(Gram),Baberu,2016-01-07,6300.0,4.0,24.2,clear
+1150,Lentil(Masur),Baberu,2016-01-07,5600.0,5.0,24.2,clear
+1151,Bengal Gram(Gram),Baberu,2016-08-07,6350.0,3.0,29.6,clear
+1152,Lentil(Masur),Baberu,2016-08-07,5625.0,4.0,29.6,clear
+1153,Bengal Gram(Gram),Baberu,2016-07-15,6750.0,1.5,27.2,clear
+1154,Lentil(Masur),Baberu,2016-07-15,5800.0,3.0,27.2,clear
+1155,Bengal Gram(Gram),Baberu,2016-07-22,7300.0,2.0,31.2,clear
+1156,Lentil(Masur),Baberu,2016-07-22,5850.0,5.0,31.2,clear
+1157,Bengal Gram(Gram),Baberu,2016-02-09,6500.0,6.0,24.0,clear
+1158,Bengal Gram(Gram),Banda,2016-02-09,6075.0,7.0,24.0,clear
+1159,Lentil(Masur),Baberu,2016-02-09,5350.0,4.0,24.0,clear
+1160,Lentil(Masur),Banda,2016-02-09,5050.0,7.0,24.0,clear
+1161,Bengal Gram(Gram),Baberu,2016-09-09,6300.0,7.0,33.6,clear
+1162,Bengal Gram(Gram),Banda,2016-09-09,7100.0,4.0,33.6,clear
+1163,Lentil(Masur),Baberu,2016-09-09,5300.0,5.0,33.6,clear
+1164,Lentil(Masur),Banda,2016-09-09,5300.0,8.0,33.6,clear
+1165,Bengal Gram(Gram),Baberu,2016-10-09,6300.0,8.0,30.4,clear
+1166,Bengal Gram(Gram),Banda,2016-10-09,7250.0,3.5,30.4,clear
+1167,Bengal Gram(Gram),Baberu,2016-11-09,6300.0,10.0,25.0,clear
+1168,Bengal Gram(Gram),Banda,2016-11-09,7230.0,4.0,25.0,clear
+1169,Bengal Gram(Gram),Baberu,2016-12-09,6300.0,12.0,15.6,clear
+1170,Bengal Gram(Gram),Banda,2016-12-09,7260.0,4.5,15.6,clear
+1171,Lentil(Masur),Baberu,2016-12-09,5300.0,8.0,15.6,clear
+1172,Lentil(Masur),Banda,2016-12-09,5150.0,10.0,15.6,clear
+1173,Bengal Gram(Gram),Baberu,2016-09-13,6300.0,8.0,28.6,clear
+1174,Lentil(Masur),Baberu,2016-09-13,5300.0,6.0,28.6,clear
+1175,Bengal Gram(Gram),Baberu,2016-09-16,6500.0,4.0,29.4,clear
+1176,Bengal Gram(Gram),Banda,2016-09-16,7220.0,5.0,29.4,clear
+1177,Bengal Gram(Gram),Baberu,2016-09-23,7300.0,2.5,28.0,clear
+1178,Lentil(Masur),Baberu,2016-09-23,5250.0,6.0,28.0,clear
+1179,Bengal Gram(Gram),Baberu,2016-09-25,7600.0,2.0,31.0,clear
+1180,Lentil(Masur),Baberu,2016-09-25,5250.0,4.0,31.0,clear
+1181,Bengal Gram(Gram),Baberu,2016-09-30,7850.0,2.0,32.2,clear
+1182,Bengal Gram(Gram),Banda,2016-09-30,8450.0,2.5,32.2,clear
+1183,Lentil(Masur),Baberu,2016-09-30,5150.0,7.0,32.2,clear
+1184,Lentil(Masur),Banda,2016-09-30,5350.0,8.5,32.2,clear
+1185,Bengal Gram(Gram),Baberu,2016-10-17,8500.0,3.5,30.0,clear
+1186,Bengal Gram(Gram),Banda,2016-10-17,9000.0,5.0,30.0,clear
+1187,Lentil(Masur),Atarra,2016-10-17,5800.0,0.4,30.0,clear
+1188,Lentil(Masur),Baberu,2016-10-17,5100.0,4.0,30.0,clear
+1189,Lentil(Masur),Banda,2016-10-17,5250.0,8.0,30.0,clear
+1190,Bengal Gram(Gram),Baberu,2016-10-18,8800.0,2.5,30.2,clear
+1191,Lentil(Masur),Atarra,2016-10-18,5800.0,0.8,30.2,clear
+1192,Lentil(Masur),Baberu,2016-10-18,5150.0,3.0,30.2,clear
+1193,Bengal Gram(Gram),Baberu,2016-10-21,9000.0,1.5,30.6,clear
+1194,Bengal Gram(Gram),Banda,2016-10-21,9350.0,5.0,30.6,clear
+1195,Lentil(Masur),Baberu,2016-10-21,5150.0,5.0,30.6,clear
+1196,Lentil(Masur),Banda,2016-10-21,5225.0,15.0,30.6,clear
+1197,Bengal Gram(Gram),Baberu,2016-10-28,9050.0,10.0,27.4,clear
+1198,Bengal Gram(Gram),Banda,2016-10-28,9000.0,7.5,27.4,clear
+1199,Lentil(Masur),Baberu,2016-10-28,5250.0,10.0,27.4,clear
+1200,Lentil(Masur),Banda,2016-10-28,5325.0,9.5,27.4,clear
+1201,Bengal Gram(Gram),Baberu,2016-04-11,9100.0,8.0,39.0,clear
+1202,Bengal Gram(Gram),Banda,2016-04-11,8550.0,6.5,39.0,clear
+1203,Lentil(Masur),Baberu,2016-04-11,5300.0,5.0,39.0,clear
+1204,Lentil(Masur),Banda,2016-04-11,5250.0,10.0,39.0,clear
+1205,Bengal Gram(Gram),Baberu,2016-11-18,8200.0,1.5,23.0,clear
+1206,Bengal Gram(Gram),Banda,2016-11-18,8700.0,2.5,23.0,clear
+1207,Lentil(Masur),Baberu,2016-11-18,5100.0,2.0,23.0,clear
+1208,Bengal Gram(Gram),Baberu,2016-11-25,8200.0,1.5,25.8,clear
+1209,Bengal Gram(Gram),Banda,2016-11-25,8300.0,3.5,25.8,clear
+1210,Lentil(Masur),Baberu,2016-11-25,5000.0,2.5,25.8,clear
+1211,Bengal Gram(Gram),Banda,2016-11-01,4300.0,26.0,27.4,clear
+1212,Bengal Gram(Gram),Banda,2016-01-20,4325.0,19.0,16.0,clear
+1213,Lentil(Masur),Banda,2016-01-20,4760.0,27.0,16.0,clear
+1214,Bengal Gram(Gram),Banda,2016-01-27,4100.0,8.5,22.6,clear
+1215,Lentil(Masur),Banda,2016-01-27,4450.0,37.5,22.6,clear
+1216,Bengal Gram(Gram),Banda,2016-02-17,4000.0,16.0,26.8,clear
+1217,Bengal Gram(Gram),Banda,2016-04-17,5030.0,4.0,37.6,clear
+1218,Bengal Gram(Gram),Banda,2016-04-18,5250.0,3.5,40.6,clear
+1219,Lentil(Masur),Banda,2016-04-18,5625.0,14.0,40.6,clear
+1220,Bengal Gram(Gram),Banda,2016-04-20,5600.0,3.0,40.8,clear
+1221,Bengal Gram(Gram),Banda,2016-06-23,6370.0,4.5,30.2,clear
+1222,Bengal Gram(Gram),Banda,2016-08-26,6450.0,8.5,32.0,clear
+1223,Bengal Gram(Gram),Banda,2016-08-09,6600.0,5.5,33.2,clear
+1224,Lentil(Masur),Banda,2016-08-09,5400.0,6.5,33.2,clear
+1225,Bengal Gram(Gram),Banda,2016-07-10,9000.0,2.5,31.0,clear
+1226,Lentil(Masur),Banda,2016-07-10,5300.0,7.5,31.0,clear
+1227,Bengal Gram(Gram),Banda,2016-11-30,8250.0,3.0,24.4,clear
+1228,Lentil(Masur),Banda,2016-11-30,4950.0,9.5,24.4,clear
+1229,Bengal Gram(Gram),Banda,2016-01-12,8375.0,2.5,22.6,clear
+1230,Lentil(Masur),Banda,2016-01-12,5000.0,7.5,22.6,clear
+1231,Bengal Gram(Gram),Banda,2016-02-12,8500.0,2.0,27.4,clear
+1232,Lentil(Masur),Banda,2016-02-12,3900.0,8.5,27.4,clear
+1233,Bengal Gram(Gram),Banda,2016-03-12,8300.0,3.0,26.8,clear
+1234,Lentil(Masur),Banda,2016-03-12,3950.0,7.5,26.8,clear
+1235,Bengal Gram(Gram),Banda,2016-09-12,7500.0,6.0,34.0,clear
+1236,Lentil(Masur),Banda,2016-09-12,4600.0,650.0,34.0,clear
+1237,Bengal Gram(Gram),Banda,2016-12-12,7250.0,5.5,24.4,clear
+1238,Lentil(Masur),Banda,2016-12-12,4650.0,4.5,24.4,clear
+1239,Bengal Gram(Gram),Banda,2016-12-14,7700.0,4.0,23.0,clear
+1240,Lentil(Masur),Banda,2016-12-14,4650.0,5.0,23.0,clear
+1241,Bengal Gram(Gram),Banda,2016-12-15,7850.0,3.5,21.6,clear
+1242,Lentil(Masur),Banda,2016-12-15,4600.0,6.0,21.6,clear
+1243,Bengal Gram(Gram),Banda,2016-12-16,8000.0,3.0,21.4,clear
+1244,Lentil(Masur),Banda,2016-12-16,4600.0,8.0,21.4,clear
+1245,Bengal Gram(Gram),Banda,2016-12-23,7900.0,4.0,21.2,clear
+1246,Lentil(Masur),Atarra,2016-07-23,5800.0,0.4,33.4,clear
+1247,Lentil(Masur),Baberu,2016-03-19,3925.0,5.0,35.0,clear
+1248,Arhar (Tur/Red Gram),Atarra,2017-09-07,3650.0,12.0,31.4,clear
+1249,Bengal Gram(Gram),Atarra,2017-09-07,4900.0,6.0,31.4,clear
+1250,Bengal Gram(Gram),Banda,2017-09-07,5100.0,11.0,31.4,clear
+1251,Lentil(Masur),Atarra,2017-09-07,3400.0,2.5,31.4,clear
+1252,Lentil(Masur),Baberu,2017-09-07,4650.0,14.0,31.4,clear
+1253,Lentil(Masur),Banda,2017-09-07,3400.0,18.0,31.4,clear
+1254,Arhar (Tur/Red Gram),Atarra,2017-10-07,3675.0,3.5,34.0,clear
+1255,Bengal Gram(Gram),Banda,2017-10-07,5000.0,14.0,34.0,clear
+1256,Lentil(Masur),Atarra,2017-10-07,3300.0,3.5,34.0,clear
+1257,Lentil(Masur),Banda,2017-10-07,3450.0,16.0,34.0,clear
+1258,Arhar (Tur/Red Gram),Banda,2017-06-03,4500.0,4.5,44.4,clear
+1259,Bengal Gram(Gram),Atarra,2017-06-03,5500.0,1.0,44.4,clear
+1260,Bengal Gram(Gram),Banda,2017-06-03,4900.0,6.0,44.4,clear
+1261,Lentil(Masur),Atarra,2017-06-03,3700.0,1.0,44.4,clear
+1262,Lentil(Masur),Banda,2017-06-03,3850.0,9.5,44.4,clear
+1263,Arhar (Tur/Red Gram),Banda,2017-08-03,4550.0,3.5,30.8,clear
+1264,Bengal Gram(Gram),Atarra,2017-08-03,5000.0,0.5,30.8,clear
+1265,Bengal Gram(Gram),Banda,2017-08-03,4950.0,4.5,30.8,clear
+1266,Lentil(Masur),Atarra,2017-08-03,3700.0,0.5,30.8,clear
+1267,Lentil(Masur),Banda,2017-08-03,3900.0,8.0,30.8,clear
+1268,Arhar (Tur/Red Gram),Banda,2017-09-03,4600.0,3.0,33.2,clear
+1269,Bengal Gram(Gram),Atarra,2017-09-03,5000.0,0.8,33.2,clear
+1270,Bengal Gram(Gram),Banda,2017-09-03,4950.0,4.0,33.2,clear
+1271,Lentil(Masur),Atarra,2017-09-03,3700.0,2.5,33.2,clear
+1272,Lentil(Masur),Banda,2017-09-03,3925.0,6.5,33.2,clear
+1273,Arhar (Tur/Red Gram),Banda,2017-10-03,4600.0,3.5,34.0,clear
+1274,Bengal Gram(Gram),Banda,2017-10-03,4930.0,5.0,34.0,clear
+1275,Lentil(Masur),Banda,2017-10-03,3885.0,7.0,34.0,clear
+1276,Arhar (Tur/Red Gram),Banda,2017-03-15,4500.0,4.5,30.0,clear
+1277,Bengal Gram(Gram),Atarra,2017-03-15,5000.0,1.0,30.0,clear
+1278,Bengal Gram(Gram),Banda,2017-03-15,4900.0,5.5,30.0,clear
+1279,Lentil(Masur),Atarra,2017-03-15,4000.0,3.0,30.0,clear
+1280,Lentil(Masur),Banda,2017-03-15,4100.0,6.0,30.0,clear
+1281,Arhar (Tur/Red Gram),Banda,2017-03-16,4500.0,5.0,32.6,clear
+1282,Bengal Gram(Gram),Atarra,2017-03-16,5000.0,1.5,32.6,clear
+1283,Bengal Gram(Gram),Banda,2017-03-16,4900.0,4.0,32.6,clear
+1284,Lentil(Masur),Atarra,2017-03-16,4000.0,2.0,32.6,clear
+1285,Lentil(Masur),Banda,2017-03-16,4100.0,8.0,32.6,clear
+1286,Arhar (Tur/Red Gram),Banda,2017-03-17,4400.0,5.0,31.8,clear
+1287,Bengal Gram(Gram),Banda,2017-03-17,4925.0,3.5,31.8,clear
+1288,Lentil(Masur),Banda,2017-03-17,4125.0,7.5,31.8,clear
+1289,Arhar (Tur/Red Gram),Banda,2017-03-19,4450.0,4.5,25.4,rain
+1290,Bengal Gram(Gram),Atarra,2017-03-19,5000.0,2.5,25.4,rain
+1291,Bengal Gram(Gram),Banda,2017-03-19,4950.0,3.5,25.4,rain
+1292,Lentil(Masur),Atarra,2017-03-19,4000.0,1.5,25.4,rain
+1293,Lentil(Masur),Banda,2017-03-19,4125.0,8.5,25.4,rain
+1294,Arhar (Tur/Red Gram),Banda,2017-03-20,4450.0,5.0,32.0,clear
+1295,Bengal Gram(Gram),Banda,2017-03-20,4950.0,4.0,32.0,clear
+1296,Lentil(Masur),Atarra,2017-03-20,4000.0,2.0,32.0,clear
+1297,Lentil(Masur),Banda,2017-03-20,4125.0,9.5,32.0,clear
+1298,Arhar (Tur/Red Gram),Banda,2017-03-22,4450.0,4.0,36.6,clear
+1299,Bengal Gram(Gram),Atarra,2017-03-22,5000.0,3.0,36.6,clear
+1300,Bengal Gram(Gram),Banda,2017-03-22,5100.0,3.5,36.6,clear
+1301,Lentil(Masur),Atarra,2017-03-22,4000.0,5.0,36.6,clear
+1302,Lentil(Masur),Banda,2017-03-22,4200.0,12.5,36.6,clear
+1303,Arhar (Tur/Red Gram),Banda,2017-03-23,4350.0,4.5,36.4,clear
+1304,Bengal Gram(Gram),Atarra,2017-03-23,5000.0,4.0,36.4,clear
+1305,Bengal Gram(Gram),Banda,2017-03-23,5400.0,3.0,36.4,clear
+1306,Lentil(Masur),Atarra,2017-03-23,4000.0,6.0,36.4,clear
+1307,Lentil(Masur),Banda,2017-03-23,4400.0,10.0,36.4,clear
+1308,Arhar (Tur/Red Gram),Banda,2017-03-24,4300.0,4.0,37.4,clear
+1309,Bengal Gram(Gram),Banda,2017-03-24,5600.0,4.0,37.4,clear
+1310,Lentil(Masur),Banda,2017-03-24,4600.0,12.0,37.4,clear
+1311,Arhar (Tur/Red Gram),Banda,2017-03-25,4300.0,3.5,27.0,clear
+1312,Bengal Gram(Gram),Atarra,2017-03-25,5500.0,5.0,27.0,clear
+1313,Bengal Gram(Gram),Banda,2017-03-25,5600.0,5.0,27.0,clear
+1314,Lentil(Masur),Atarra,2017-03-25,4400.0,4.0,27.0,clear
+1315,Lentil(Masur),Banda,2017-03-25,4500.0,15.0,27.0,clear
+1316,Arhar (Tur/Red Gram),Banda,2017-03-26,4300.0,3.0,36.0,clear
+1317,Bengal Gram(Gram),Atarra,2017-03-26,5500.0,8.0,36.0,clear
+1318,Bengal Gram(Gram),Banda,2017-03-26,5580.0,4.0,36.0,clear
+1319,Lentil(Masur),Atarra,2017-03-26,4300.0,9.0,36.0,clear
+1320,Lentil(Masur),Banda,2017-03-26,4475.0,20.0,36.0,clear
+1321,Arhar (Tur/Red Gram),Banda,2017-03-27,4400.0,2.5,37.6,clear
+1322,Bengal Gram(Gram),Atarra,2017-03-27,5500.0,6.0,37.6,clear
+1323,Bengal Gram(Gram),Banda,2017-03-27,5600.0,3.5,37.6,clear
+1324,Lentil(Masur),Atarra,2017-03-27,4300.0,6.0,37.6,clear
+1325,Lentil(Masur),Banda,2017-03-27,4450.0,24.0,37.6,clear
+1326,Arhar (Tur/Red Gram),Banda,2017-03-30,4200.0,4.0,38.6,clear
+1327,Bengal Gram(Gram),Atarra,2017-03-30,5500.0,9.0,38.6,clear
+1328,Bengal Gram(Gram),Banda,2017-03-30,5550.0,5.0,38.6,clear
+1329,Lentil(Masur),Atarra,2017-03-30,4300.0,9.0,38.6,clear
+1330,Lentil(Masur),Banda,2017-03-30,4350.0,33.0,38.6,clear
+1331,Arhar (Tur/Red Gram),Banda,2017-03-31,4200.0,4.5,41.0,clear
+1332,Bengal Gram(Gram),Banda,2017-03-31,5550.0,7.0,41.0,clear
+1333,Lentil(Masur),Banda,2017-03-31,4350.0,37.0,41.0,clear
+1334,Arhar (Tur/Red Gram),Banda,2017-01-04,4225.0,3.5,20.4,clear
+1335,Bengal Gram(Gram),Atarra,2017-01-04,5500.0,7.5,20.4,clear
+1336,Bengal Gram(Gram),Banda,2017-01-04,5500.0,8.5,20.4,clear
+1337,Lentil(Masur),Atarra,2017-01-04,4300.0,7.0,20.4,clear
+1338,Lentil(Masur),Banda,2017-01-04,4350.0,40.0,20.4,clear
+1339,Bengal Gram(Gram),Atarra,2017-01-01,8000.0,0.5,16.2,clear
+1340,Bengal Gram(Gram),Banda,2017-01-01,8200.0,2.0,16.2,clear
+1341,Lentil(Masur),Atarra,2017-01-01,5000.0,0.6,16.2,clear
+1342,Bengal Gram(Gram),Atarra,2017-02-01,8000.0,1.0,24.0,clear
+1343,Bengal Gram(Gram),Banda,2017-02-01,8400.0,2.5,24.0,clear
+1344,Lentil(Masur),Atarra,2017-02-01,5000.0,0.5,24.0,clear
+1345,Bengal Gram(Gram),Atarra,2017-03-01,8400.0,1.0,32.0,clear
+1346,Lentil(Masur),Atarra,2017-03-01,5000.0,0.7,32.0,clear
+1347,Bengal Gram(Gram),Atarra,2017-04-01,8400.0,0.5,40.0,clear
+1348,Bengal Gram(Gram),Banda,2017-04-01,7900.0,4.5,40.0,clear
+1349,Lentil(Masur),Atarra,2017-04-01,5000.0,0.4,40.0,clear
+1350,Lentil(Masur),Banda,2017-04-01,4100.0,8.0,40.0,clear
+1351,Bengal Gram(Gram),Atarra,2017-05-01,8400.0,0.7,30.8,clear
+1352,Bengal Gram(Gram),Banda,2017-05-01,7475.0,5.0,30.8,clear
+1353,Lentil(Masur),Atarra,2017-05-01,5000.0,0.5,30.8,clear
+1354,Bengal Gram(Gram),Atarra,2017-07-01,8400.0,0.8,35.4,clear
+1355,Bengal Gram(Gram),Banda,2017-07-01,6800.0,4.0,35.4,clear
+1356,Lentil(Masur),Atarra,2017-07-01,5000.0,0.8,35.4,clear
+1357,Lentil(Masur),Banda,2017-07-01,4100.0,8.0,35.4,clear
+1358,Bengal Gram(Gram),Atarra,2017-08-01,8400.0,0.3,31.2,clear
+1359,Lentil(Masur),Atarra,2017-08-01,5000.0,0.3,31.2,clear
+1360,Bengal Gram(Gram),Atarra,2017-09-01,8400.0,0.6,32.4,clear
+1361,Lentil(Masur),Atarra,2017-09-01,5000.0,0.6,32.4,clear
+1362,Bengal Gram(Gram),Atarra,2017-10-01,8400.0,0.5,32.6,clear
+1363,Lentil(Masur),Atarra,2017-10-01,5000.0,0.5,32.6,clear
+1364,Bengal Gram(Gram),Atarra,2017-11-01,8400.0,0.4,27.8,clear
+1365,Lentil(Masur),Atarra,2017-11-01,5000.0,0.7,27.8,clear
+1366,Bengal Gram(Gram),Atarra,2017-12-01,8500.0,0.6,21.6,clear
+1367,Bengal Gram(Gram),Banda,2017-12-01,6850.0,2.5,21.6,clear
+1368,Lentil(Masur),Atarra,2017-12-01,5000.0,0.8,21.6,clear
+1369,Lentil(Masur),Banda,2017-12-01,3950.0,7.0,21.6,clear
+1370,Bengal Gram(Gram),Atarra,2017-01-14,8500.0,0.8,17.6,clear
+1371,Bengal Gram(Gram),Banda,2017-01-14,6500.0,4.5,17.6,clear
+1372,Lentil(Masur),Atarra,2017-01-14,4800.0,0.6,17.6,clear
+1373,Lentil(Masur),Banda,2017-01-14,3900.0,7.5,17.6,clear
+1374,Bengal Gram(Gram),Atarra,2017-01-15,8500.0,0.6,19.0,clear
+1375,Lentil(Masur),Atarra,2017-01-15,4800.0,0.5,19.0,clear
+1376,Bengal Gram(Gram),Atarra,2017-01-16,8500.0,0.7,21.4,clear
+1377,Bengal Gram(Gram),Banda,2017-01-16,6500.0,4.0,21.4,clear
+1378,Lentil(Masur),Atarra,2017-01-16,4800.0,0.7,21.4,clear
+1379,Lentil(Masur),Banda,2017-01-16,3800.0,8.0,21.4,clear
+1380,Bengal Gram(Gram),Atarra,2017-01-17,8500.0,0.8,19.6,clear
+1381,Lentil(Masur),Atarra,2017-01-17,4800.0,0.4,19.6,clear
+1382,Bengal Gram(Gram),Atarra,2017-01-18,8500.0,0.6,18.2,clear
+1383,Bengal Gram(Gram),Banda,2017-01-18,6500.0,3.5,18.2,clear
+1384,Lentil(Masur),Atarra,2017-01-18,4800.0,0.6,18.2,clear
+1385,Lentil(Masur),Banda,2017-01-18,3900.0,5.0,18.2,clear
+1386,Bengal Gram(Gram),Atarra,2017-01-19,8500.0,0.5,19.4,clear
+1387,Bengal Gram(Gram),Banda,2017-01-19,6400.0,4.5,19.4,clear
+1388,Lentil(Masur),Atarra,2017-01-19,4800.0,0.5,19.4,clear
+1389,Lentil(Masur),Banda,2017-01-19,3850.0,7.5,19.4,clear
+1390,Bengal Gram(Gram),Atarra,2017-01-21,8200.0,0.5,20.4,clear
+1391,Bengal Gram(Gram),Banda,2017-01-21,6475.0,3.5,20.4,clear
+1392,Lentil(Masur),Atarra,2017-01-21,4800.0,0.7,20.4,clear
+1393,Bengal Gram(Gram),Atarra,2017-01-22,8200.0,0.8,22.2,clear
+1394,Bengal Gram(Gram),Banda,2017-01-22,6450.0,4.0,22.2,clear
+1395,Lentil(Masur),Atarra,2017-01-22,4800.0,0.4,22.2,clear
+1396,Bengal Gram(Gram),Atarra,2017-01-23,8200.0,0.6,24.6,clear
+1397,Bengal Gram(Gram),Banda,2017-01-23,6400.0,5.0,24.6,clear
+1398,Lentil(Masur),Atarra,2017-01-23,4800.0,0.6,24.6,clear
+1399,Lentil(Masur),Banda,2017-01-23,3900.0,6.0,24.6,clear
+1400,Bengal Gram(Gram),Atarra,2017-01-24,8200.0,0.5,24.6,clear
+1401,Lentil(Masur),Atarra,2017-01-24,4800.0,0.7,24.6,clear
+1402,Bengal Gram(Gram),Atarra,2017-01-25,8200.0,0.8,24.8,clear
+1403,Bengal Gram(Gram),Banda,2017-01-25,6440.0,3.0,24.8,clear
+1404,Lentil(Masur),Atarra,2017-01-25,4800.0,0.5,24.8,clear
+1405,Lentil(Masur),Banda,2017-01-25,3750.0,7.5,24.8,clear
+1406,Bengal Gram(Gram),Atarra,2017-01-28,8000.0,0.6,20.0,clear
+1407,Bengal Gram(Gram),Baberu,2017-01-28,6200.0,98.0,20.0,clear
+1408,Bengal Gram(Gram),Banda,2017-01-28,6200.0,5.0,20.0,clear
+1409,Lentil(Masur),Atarra,2017-01-28,4800.0,0.4,20.0,clear
+1410,Lentil(Masur),Baberu,2017-01-28,5400.0,90.0,20.0,clear
+1411,Lentil(Masur),Banda,2017-01-28,3850.0,6.0,20.0,clear
+1412,Bengal Gram(Gram),Atarra,2017-01-29,8000.0,0.4,22.0,clear
+1413,Bengal Gram(Gram),Banda,2017-01-29,6250.0,3.5,22.0,clear
+1414,Lentil(Masur),Atarra,2017-01-29,4800.0,0.3,22.0,clear
+1415,Bengal Gram(Gram),Atarra,2017-01-30,8000.0,0.7,21.8,clear
+1416,Bengal Gram(Gram),Banda,2017-01-30,6150.0,4.0,21.8,clear
+1417,Lentil(Masur),Atarra,2017-01-30,4800.0,0.6,21.8,clear
+1418,Lentil(Masur),Banda,2017-01-30,3900.0,8.0,21.8,clear
+1419,Bengal Gram(Gram),Atarra,2017-01-31,8000.0,0.5,23.4,clear
+1420,Lentil(Masur),Atarra,2017-01-31,4800.0,0.7,23.4,clear
+1421,Bengal Gram(Gram),Atarra,2017-01-02,8000.0,0.6,15.4,clear
+1422,Bengal Gram(Gram),Banda,2017-01-02,6200.0,3.0,15.4,clear
+1423,Lentil(Masur),Atarra,2017-01-02,4800.0,0.4,15.4,clear
+1424,Bengal Gram(Gram),Atarra,2017-02-02,8000.0,0.6,23.4,clear
+1425,Bengal Gram(Gram),Banda,2017-02-02,6250.0,2.5,23.4,clear
+1426,Lentil(Masur),Atarra,2017-02-02,4800.0,0.3,23.4,clear
+1427,Lentil(Masur),Banda,2017-02-02,3900.0,7.5,23.4,clear
+1428,Bengal Gram(Gram),Atarra,2017-04-02,8000.0,0.6,40.0,clear
+1429,Bengal Gram(Gram),Banda,2017-04-02,6200.0,5.0,40.0,clear
+1430,Lentil(Masur),Atarra,2017-04-02,4800.0,0.7,40.0,clear
+1431,Lentil(Masur),Banda,2017-04-02,3900.0,8.0,40.0,clear
+1432,Bengal Gram(Gram),Atarra,2017-05-02,8000.0,0.4,39.4,clear
+1433,Bengal Gram(Gram),Banda,2017-05-02,6250.0,4.0,39.4,clear
+1434,Lentil(Masur),Atarra,2017-05-02,4800.0,0.5,39.4,clear
+1435,Bengal Gram(Gram),Atarra,2017-06-02,7800.0,0.7,41.6,clear
+1436,Bengal Gram(Gram),Banda,2017-06-02,6275.0,4.0,41.6,clear
+1437,Lentil(Masur),Atarra,2017-06-02,4800.0,0.5,41.6,clear
+1438,Bengal Gram(Gram),Atarra,2017-07-02,7800.0,0.4,30.0,clear
+1439,Lentil(Masur),Atarra,2017-07-02,4800.0,0.4,30.0,clear
+1440,Bengal Gram(Gram),Atarra,2017-08-02,7800.0,0.5,32.4,clear
+1441,Bengal Gram(Gram),Banda,2017-08-02,6250.0,4.5,32.4,clear
+1442,Lentil(Masur),Atarra,2017-08-02,4800.0,0.7,32.4,clear
+1443,Lentil(Masur),Banda,2017-08-02,4000.0,5.5,32.4,clear
+1444,Bengal Gram(Gram),Atarra,2017-09-02,7800.0,0.5,32.0,clear
+1445,Bengal Gram(Gram),Banda,2017-09-02,6150.0,5.5,32.0,clear
+1446,Lentil(Masur),Atarra,2017-09-02,4800.0,0.4,32.0,clear
+1447,Lentil(Masur),Banda,2017-09-02,4000.0,6.5,32.0,clear
+1448,Bengal Gram(Gram),Atarra,2017-11-02,7500.0,0.8,27.6,clear
+1449,Bengal Gram(Gram),Banda,2017-11-02,6300.0,4.5,27.6,clear
+1450,Lentil(Masur),Atarra,2017-11-02,4600.0,0.5,27.6,clear
+1451,Bengal Gram(Gram),Atarra,2017-12-02,7500.0,0.4,22.0,clear
+1452,Bengal Gram(Gram),Banda,2017-12-02,6000.0,5.0,22.0,clear
+1453,Lentil(Masur),Atarra,2017-12-02,4600.0,0.6,22.0,clear
+1454,Lentil(Masur),Banda,2017-12-02,3700.0,10.0,22.0,clear
+1455,Bengal Gram(Gram),Atarra,2017-02-13,7500.0,0.8,25.4,clear
+1456,Bengal Gram(Gram),Banda,2017-02-13,5850.0,6.0,25.4,clear
+1457,Lentil(Masur),Atarra,2017-02-13,4600.0,0.7,25.4,clear
+1458,Lentil(Masur),Banda,2017-02-13,3700.0,8.0,25.4,clear
+1459,Bengal Gram(Gram),Atarra,2017-02-14,7000.0,0.7,15.0,clear
+1460,Lentil(Masur),Atarra,2017-02-14,4600.0,0.5,15.0,clear
+1461,Bengal Gram(Gram),Atarra,2017-02-15,7000.0,0.5,25.4,clear
+1462,Bengal Gram(Gram),Banda,2017-02-15,5875.0,4.5,25.4,clear
+1463,Lentil(Masur),Atarra,2017-02-15,4600.0,0.5,25.4,clear
+1464,Lentil(Masur),Banda,2017-02-15,3750.0,6.0,25.4,clear
+1465,Bengal Gram(Gram),Atarra,2017-02-16,7000.0,0.4,27.4,clear
+1466,Bengal Gram(Gram),Banda,2017-02-16,5750.0,5.0,27.4,clear
+1467,Lentil(Masur),Atarra,2017-02-16,4600.0,0.6,27.4,clear
+1468,Lentil(Masur),Banda,2017-02-16,3775.0,4.5,27.4,clear
+1469,Bengal Gram(Gram),Atarra,2017-02-18,7000.0,0.3,28.8,clear
+1470,Bengal Gram(Gram),Banda,2017-02-18,5750.0,4.5,28.8,clear
+1471,Lentil(Masur),Atarra,2017-02-18,4500.0,0.5,28.8,clear
+1472,Lentil(Masur),Banda,2017-02-18,3700.0,8.5,28.8,clear
+1473,Bengal Gram(Gram),Atarra,2017-02-19,7000.0,0.7,30.2,clear
+1474,Lentil(Masur),Atarra,2017-02-19,4600.0,0.4,30.2,clear
+1475,Bengal Gram(Gram),Atarra,2017-02-20,7000.0,0.4,31.4,clear
+1476,Bengal Gram(Gram),Banda,2017-02-20,5800.0,4.0,31.4,clear
+1477,Lentil(Masur),Atarra,2017-02-20,4600.0,0.3,31.4,clear
+1478,Lentil(Masur),Banda,2017-02-20,3700.0,9.0,31.4,clear
+1479,Bengal Gram(Gram),Atarra,2017-02-21,7000.0,0.6,28.8,clear
+1480,Lentil(Masur),Atarra,2017-02-21,4600.0,0.6,28.8,clear
+1481,Bengal Gram(Gram),Atarra,2017-02-22,7000.0,0.5,28.0,clear
+1482,Bengal Gram(Gram),Banda,2017-02-22,5800.0,3.0,28.0,clear
+1483,Lentil(Masur),Atarra,2017-02-22,4600.0,0.5,28.0,clear
+1484,Lentil(Masur),Banda,2017-02-22,3700.0,7.5,28.0,clear
+1485,Bengal Gram(Gram),Atarra,2017-02-25,6800.0,0.6,28.6,clear
+1486,Bengal Gram(Gram),Baberu,2017-02-25,5750.0,135.0,28.6,clear
+1487,Bengal Gram(Gram),Banda,2017-02-25,5800.0,3.5,28.6,clear
+1488,Lentil(Masur),Atarra,2017-02-25,4400.0,0.6,28.6,clear
+1489,Lentil(Masur),Baberu,2017-02-25,3600.0,185.0,28.6,clear
+1490,Lentil(Masur),Banda,2017-02-25,3650.0,9.0,28.6,clear
+1491,Bengal Gram(Gram),Atarra,2017-02-26,6500.0,0.7,26.6,clear
+1492,Bengal Gram(Gram),Banda,2017-02-26,5800.0,4.0,26.6,clear
+1493,Lentil(Masur),Atarra,2017-02-26,4400.0,0.7,26.6,clear
+1494,Lentil(Masur),Banda,2017-02-26,3800.0,8.0,26.6,clear
+1495,Bengal Gram(Gram),Atarra,2017-01-03,6200.0,0.6,18.0,clear
+1496,Bengal Gram(Gram),Banda,2017-01-03,5500.0,4.0,18.0,clear
+1497,Lentil(Masur),Atarra,2017-01-03,4200.0,0.8,18.0,clear
+1498,Bengal Gram(Gram),Atarra,2017-02-03,6200.0,0.7,22.8,clear
+1499,Bengal Gram(Gram),Banda,2017-02-03,5350.0,5.0,22.8,clear
+1500,Lentil(Masur),Atarra,2017-02-03,4100.0,1.0,22.8,clear
+1501,Lentil(Masur),Banda,2017-02-03,3800.0,7.5,22.8,clear
+1502,Bengal Gram(Gram),Atarra,2017-04-03,5800.0,0.8,40.0,clear
+1503,Bengal Gram(Gram),Banda,2017-04-03,5100.0,5.0,40.0,clear
+1504,Lentil(Masur),Atarra,2017-04-03,3700.0,1.0,40.0,clear
+1505,Lentil(Masur),Banda,2017-04-03,3750.0,7.0,40.0,clear
+1506,Bengal Gram(Gram),Atarra,2017-05-03,6000.0,1.0,41.2,clear
+1507,Bengal Gram(Gram),Banda,2017-05-03,5000.0,6.5,41.2,clear
+1508,Lentil(Masur),Atarra,2017-05-03,3700.0,1.2,41.2,clear
+1509,Lentil(Masur),Banda,2017-05-03,3800.0,8.5,41.2,clear
+1510,Bengal Gram(Gram),Atarra,2017-07-03,5200.0,0.6,30.6,clear
+1511,Lentil(Masur),Atarra,2017-07-03,3700.0,0.8,30.6,clear
+1512,Bengal Gram(Gram),Atarra,2017-11-03,5000.0,0.7,28.0,clear
+1513,Bengal Gram(Gram),Banda,2017-11-03,4950.0,4.0,28.0,clear
+1514,Lentil(Masur),Atarra,2017-11-03,3700.0,3.0,28.0,clear
+1515,Bengal Gram(Gram),Atarra,2017-12-03,5000.0,0.5,13.0,clear
+1516,Lentil(Masur),Atarra,2017-12-03,3700.0,2.5,13.0,clear
+1517,Bengal Gram(Gram),Atarra,2017-03-21,5000.0,2.5,34.0,clear
+1518,Lentil(Masur),Atarra,2017-03-21,4000.0,4.0,34.0,clear
+1519,Bengal Gram(Gram),Atarra,2017-03-28,5500.0,7.0,39.2,clear
+1520,Lentil(Masur),Atarra,2017-03-28,4300.0,7.0,39.2,clear
+1521,Bengal Gram(Gram),Atarra,2017-03-29,5500.0,8.0,41.0,clear
+1522,Bengal Gram(Gram),Banda,2017-03-29,5550.0,6.5,41.0,clear
+1523,Lentil(Masur),Atarra,2017-03-29,4300.0,8.0,41.0,clear
+1524,Lentil(Masur),Banda,2017-03-29,4350.0,30.0,41.0,clear
+1525,Bengal Gram(Gram),Atarra,2017-02-04,5500.0,9.0,23.4,clear
+1526,Bengal Gram(Gram),Banda,2017-02-04,5650.0,6.0,23.4,clear
+1527,Lentil(Masur),Atarra,2017-02-04,4300.0,8.0,23.4,clear
+1528,Bengal Gram(Gram),Atarra,2017-03-04,5500.0,8.0,29.0,clear
+1529,Bengal Gram(Gram),Banda,2017-03-04,5650.0,5.0,29.0,clear
+1530,Lentil(Masur),Atarra,2017-03-04,4300.0,5.0,29.0,clear
+1531,Lentil(Masur),Banda,2017-03-04,4400.0,45.0,29.0,clear
+1532,Bengal Gram(Gram),Atarra,2017-04-04,5500.0,7.0,30.0,clear
+1533,Lentil(Masur),Atarra,2017-04-04,4300.0,4.0,30.0,clear
+1534,Bengal Gram(Gram),Atarra,2017-05-04,5500.0,6.0,40.2,clear
+1535,Bengal Gram(Gram),Banda,2017-05-04,5700.0,4.5,40.2,clear
+1536,Lentil(Masur),Atarra,2017-05-04,4300.0,7.0,40.2,clear
+1537,Lentil(Masur),Banda,2017-05-04,4300.0,50.0,40.2,clear
+1538,Bengal Gram(Gram),Atarra,2017-06-04,5500.0,7.0,45.0,clear
+1539,Bengal Gram(Gram),Banda,2017-06-04,5650.0,6.0,45.0,clear
+1540,Lentil(Masur),Atarra,2017-06-04,4300.0,8.0,45.0,clear
+1541,Lentil(Masur),Banda,2017-06-04,4300.0,44.0,45.0,clear
+1542,Bengal Gram(Gram),Atarra,2017-08-04,5600.0,7.5,30.0,clear
+1543,Lentil(Masur),Atarra,2017-08-04,4300.0,9.0,30.0,clear
+1544,Lentil(Masur),Banda,2017-08-04,4200.0,55.0,30.0,clear
+1545,Bengal Gram(Gram),Atarra,2017-09-04,5600.0,8.0,28.4,clear
+1546,Bengal Gram(Gram),Banda,2017-09-04,5550.0,12.0,28.4,clear
+1547,Lentil(Masur),Atarra,2017-09-04,4200.0,13.0,28.4,clear
+1548,Bengal Gram(Gram),Atarra,2017-10-04,5600.0,6.0,27.0,clear
+1549,Bengal Gram(Gram),Banda,2017-10-04,5500.0,10.0,27.0,clear
+1550,Lentil(Masur),Atarra,2017-10-04,4200.0,14.0,27.0,clear
+1551,Bengal Gram(Gram),Atarra,2017-11-04,5600.0,9.0,27.4,clear
+1552,Lentil(Masur),Atarra,2017-11-04,4200.0,15.0,27.4,clear
+1553,Bengal Gram(Gram),Atarra,2017-12-04,5600.0,12.0,21.4,clear
+1554,Bengal Gram(Gram),Banda,2017-12-04,5480.0,11.0,21.4,clear
+1555,Lentil(Masur),Atarra,2017-12-04,4200.0,15.0,21.4,clear
+1556,Lentil(Masur),Banda,2017-12-04,4130.0,47.5,21.4,clear
+1557,Bengal Gram(Gram),Atarra,2017-04-13,5600.0,9.0,40.4,clear
+1558,Bengal Gram(Gram),Banda,2017-04-13,5470.0,9.0,40.4,clear
+1559,Lentil(Masur),Atarra,2017-04-13,4200.0,12.0,40.4,clear
+1560,Lentil(Masur),Banda,2017-04-13,4150.0,45.0,40.4,clear
+1561,Bengal Gram(Gram),Atarra,2017-04-15,5600.0,9.0,41.4,clear
+1562,Bengal Gram(Gram),Banda,2017-04-15,5650.0,5.0,41.4,clear
+1563,Lentil(Masur),Atarra,2017-04-15,4200.0,12.5,41.4,clear
+1564,Lentil(Masur),Banda,2017-04-15,4200.0,47.5,41.4,clear
+1565,Bengal Gram(Gram),Atarra,2017-04-16,5600.0,8.0,39.0,clear
+1566,Bengal Gram(Gram),Banda,2017-04-16,5500.0,7.5,39.0,clear
+1567,Lentil(Masur),Atarra,2017-04-16,4200.0,14.0,39.0,clear
+1568,Lentil(Masur),Banda,2017-04-16,4100.0,50.0,39.0,clear
+1569,Bengal Gram(Gram),Atarra,2017-04-17,5600.0,13.0,40.0,clear
+1570,Bengal Gram(Gram),Banda,2017-04-17,5450.0,9.0,40.0,clear
+1571,Lentil(Masur),Atarra,2017-04-17,4200.0,15.0,40.0,clear
+1572,Lentil(Masur),Banda,2017-04-17,4125.0,45.0,40.0,clear
+1573,Bengal Gram(Gram),Atarra,2017-04-18,5600.0,6.0,41.4,clear
+1574,Lentil(Masur),Atarra,2017-04-18,4200.0,17.0,41.4,clear
+1575,Bengal Gram(Gram),Atarra,2017-04-19,5600.0,7.0,42.4,clear
+1576,Bengal Gram(Gram),Banda,2017-04-19,5400.0,12.0,42.4,clear
+1577,Lentil(Masur),Atarra,2017-04-19,3400.0,5.0,42.4,clear
+1578,Lentil(Masur),Banda,2017-04-19,4000.0,52.5,42.4,clear
+1579,Bengal Gram(Gram),Atarra,2017-04-20,5600.0,12.0,42.0,clear
+1580,Bengal Gram(Gram),Banda,2017-04-20,5425.0,10.0,42.0,clear
+1581,Lentil(Masur),Atarra,2017-04-20,4200.0,16.0,42.0,clear
+1582,Lentil(Masur),Banda,2017-04-20,4000.0,62.5,42.0,clear
+1583,Bengal Gram(Gram),Atarra,2017-04-22,5600.0,12.5,41.8,clear
+1584,Bengal Gram(Gram),Banda,2017-04-22,5400.0,13.0,41.8,clear
+1585,Lentil(Masur),Atarra,2017-04-22,4200.0,13.0,41.8,clear
+1586,Lentil(Masur),Banda,2017-04-22,3975.0,55.0,41.8,clear
+1587,Bengal Gram(Gram),Atarra,2017-04-23,5600.0,8.0,36.6,clear
+1588,Lentil(Masur),Atarra,2017-04-23,4200.0,11.0,36.6,clear
+1589,Bengal Gram(Gram),Atarra,2017-04-24,5600.0,7.0,39.8,clear
+1590,Bengal Gram(Gram),Banda,2017-04-24,5350.0,12.5,39.8,clear
+1591,Lentil(Masur),Atarra,2017-04-24,4200.0,8.0,39.8,clear
+1592,Bengal Gram(Gram),Atarra,2017-04-25,5600.0,10.0,39.2,clear
+1593,Lentil(Masur),Atarra,2017-04-25,4200.0,12.0,39.2,clear
+1594,Bengal Gram(Gram),Atarra,2017-04-26,5600.0,8.0,34.0,clear
+1595,Bengal Gram(Gram),Banda,2017-04-26,5300.0,14.0,34.0,clear
+1596,Lentil(Masur),Atarra,2017-04-26,4200.0,7.0,34.0,clear
+1597,Lentil(Masur),Banda,2017-04-26,3950.0,58.0,34.0,clear
+1598,Bengal Gram(Gram),Atarra,2017-04-27,5600.0,7.0,39.2,clear
+1599,Bengal Gram(Gram),Banda,2017-04-27,5300.0,10.0,39.2,clear
+1600,Lentil(Masur),Atarra,2017-04-27,4200.0,8.0,39.2,clear
+1601,Lentil(Masur),Banda,2017-04-27,3900.0,55.0,39.2,clear
+1602,Bengal Gram(Gram),Atarra,2017-04-30,5500.0,8.0,40.8,clear
+1603,Bengal Gram(Gram),Banda,2017-04-30,5400.0,15.0,40.8,clear
+1604,Lentil(Masur),Atarra,2017-04-30,4100.0,6.0,40.8,clear
+1605,Lentil(Masur),Banda,2017-04-30,3875.0,40.0,40.8,clear
+1606,Bengal Gram(Gram),Atarra,2017-01-05,5500.0,6.0,20.2,clear
+1607,Bengal Gram(Gram),Banda,2017-01-05,5450.0,11.0,20.2,clear
+1608,Lentil(Masur),Atarra,2017-01-05,4100.0,7.5,20.2,clear
+1609,Lentil(Masur),Banda,2017-01-05,3875.0,45.0,20.2,clear
+1610,Bengal Gram(Gram),Atarra,2017-02-05,5400.0,7.0,26.2,clear
+1611,Lentil(Masur),Atarra,2017-02-05,3900.0,12.0,26.2,clear
+1612,Bengal Gram(Gram),Atarra,2017-03-05,5400.0,5.0,27.6,clear
+1613,Lentil(Masur),Atarra,2017-03-05,3900.0,12.0,27.6,clear
+1614,Bengal Gram(Gram),Atarra,2017-04-05,5400.0,6.0,39.0,clear
+1615,Bengal Gram(Gram),Banda,2017-04-05,5500.0,11.0,39.0,clear
+1616,Lentil(Masur),Atarra,2017-04-05,3900.0,8.0,39.0,clear
+1617,Lentil(Masur),Banda,2017-04-05,3850.0,52.5,39.0,clear
+1618,Bengal Gram(Gram),Atarra,2017-06-05,5400.0,7.0,44.0,clear
+1619,Bengal Gram(Gram),Banda,2017-06-05,5350.0,14.0,44.0,clear
+1620,Lentil(Masur),Atarra,2017-06-05,3800.0,8.0,44.0,clear
+1621,Lentil(Masur),Banda,2017-06-05,3800.0,50.0,44.0,clear
+1622,Bengal Gram(Gram),Atarra,2017-07-05,5400.0,8.0,31.6,clear
+1623,Bengal Gram(Gram),Banda,2017-07-05,5350.0,11.5,31.6,clear
+1624,Lentil(Masur),Atarra,2017-07-05,3900.0,6.0,31.6,clear
+1625,Bengal Gram(Gram),Atarra,2017-08-05,5400.0,5.0,33.0,clear
+1626,Bengal Gram(Gram),Banda,2017-08-05,5360.0,8.0,33.0,clear
+1627,Lentil(Masur),Atarra,2017-08-05,3900.0,7.5,33.0,clear
+1628,Lentil(Masur),Banda,2017-08-05,3750.0,43.5,33.0,clear
+1629,Bengal Gram(Gram),Atarra,2017-09-05,5400.0,6.0,31.2,clear
+1630,Lentil(Masur),Atarra,2017-09-05,3900.0,8.0,31.2,clear
+1631,Bengal Gram(Gram),Atarra,2017-05-13,5400.0,7.0,41.6,clear
+1632,Bengal Gram(Gram),Banda,2017-05-13,5400.0,12.0,41.6,clear
+1633,Lentil(Masur),Atarra,2017-05-13,3900.0,5.0,41.6,clear
+1634,Lentil(Masur),Banda,2017-05-13,3900.0,40.0,41.6,clear
+1635,Bengal Gram(Gram),Atarra,2017-05-14,5400.0,4.0,43.6,clear
+1636,Bengal Gram(Gram),Banda,2017-05-14,5500.0,10.0,43.6,clear
+1637,Lentil(Masur),Atarra,2017-05-14,3800.0,7.0,43.6,clear
+1638,Lentil(Masur),Banda,2017-05-14,3880.0,38.5,43.6,clear
+1639,Bengal Gram(Gram),Atarra,2017-05-15,5400.0,5.0,43.4,clear
+1640,Bengal Gram(Gram),Banda,2017-05-15,5500.0,13.5,43.4,clear
+1641,Lentil(Masur),Atarra,2017-05-15,3800.0,5.0,43.4,clear
+1642,Lentil(Masur),Banda,2017-05-15,3880.0,34.0,43.4,clear
+1643,Bengal Gram(Gram),Atarra,2017-05-16,5300.0,6.0,43.0,clear
+1644,Lentil(Masur),Atarra,2017-05-16,3800.0,9.0,43.0,clear
+1645,Bengal Gram(Gram),Atarra,2017-05-17,5300.0,7.0,30.2,clear
+1646,Bengal Gram(Gram),Banda,2017-05-17,5650.0,11.5,30.2,clear
+1647,Lentil(Masur),Atarra,2017-05-17,3800.0,9.0,30.2,clear
+1648,Bengal Gram(Gram),Atarra,2017-05-18,5300.0,5.0,31.2,clear
+1649,Lentil(Masur),Atarra,2017-05-18,3800.0,12.0,31.2,clear
+1650,Bengal Gram(Gram),Atarra,2017-05-20,5300.0,4.0,42.0,clear
+1651,Lentil(Masur),Atarra,2017-05-20,3800.0,6.0,42.0,clear
+1652,Lentil(Masur),Banda,2017-05-20,3770.0,34.0,42.0,clear
+1653,Bengal Gram(Gram),Atarra,2017-05-21,5300.0,5.0,39.8,clear
+1654,Bengal Gram(Gram),Banda,2017-05-21,5400.0,11.0,39.8,clear
+1655,Lentil(Masur),Atarra,2017-05-21,3800.0,4.0,39.8,clear
+1656,Bengal Gram(Gram),Atarra,2017-05-22,5300.0,6.0,40.4,clear
+1657,Bengal Gram(Gram),Banda,2017-05-22,5375.0,12.5,40.4,clear
+1658,Lentil(Masur),Atarra,2017-05-22,3800.0,5.0,40.4,clear
+1659,Lentil(Masur),Banda,2017-05-22,3750.0,40.0,40.4,clear
+1660,Bengal Gram(Gram),Atarra,2017-05-23,5300.0,7.0,40.2,clear
+1661,Lentil(Masur),Atarra,2017-05-23,3800.0,6.0,40.2,clear
+1662,Bengal Gram(Gram),Atarra,2017-05-24,5300.0,6.0,41.6,clear
+1663,Bengal Gram(Gram),Banda,2017-05-24,5350.0,14.5,41.6,clear
+1664,Lentil(Masur),Atarra,2017-05-24,3800.0,8.0,41.6,clear
+1665,Lentil(Masur),Banda,2017-05-24,3700.0,47.0,41.6,clear
+1666,Bengal Gram(Gram),Atarra,2017-05-25,5300.0,5.0,42.6,clear
+1667,Bengal Gram(Gram),Banda,2017-05-25,5350.0,17.0,42.6,clear
+1668,Lentil(Masur),Atarra,2017-05-25,3800.0,7.0,42.6,clear
+1669,Lentil(Masur),Banda,2017-05-25,3700.0,44.0,42.6,clear
+1670,Bengal Gram(Gram),Atarra,2017-05-27,5300.0,7.0,38.4,clear
+1671,Bengal Gram(Gram),Banda,2017-05-27,5300.0,25.0,38.4,clear
+1672,Lentil(Masur),Atarra,2017-05-27,3800.0,10.0,38.4,clear
+1673,Lentil(Masur),Banda,2017-05-27,3710.0,42.5,38.4,clear
+1674,Bengal Gram(Gram),Atarra,2017-05-28,5300.0,4.0,40.8,clear
+1675,Bengal Gram(Gram),Banda,2017-05-28,5300.0,27.0,40.8,clear
+1676,Lentil(Masur),Atarra,2017-05-28,3800.0,8.0,40.8,clear
+1677,Lentil(Masur),Banda,2017-05-28,3685.0,46.0,40.8,clear
+1678,Bengal Gram(Gram),Atarra,2017-05-29,5300.0,5.0,34.0,clear
+1679,Bengal Gram(Gram),Banda,2017-05-29,5200.0,32.0,34.0,clear
+1680,Lentil(Masur),Atarra,2017-05-29,3800.0,7.0,34.0,clear
+1681,Lentil(Masur),Banda,2017-05-29,3550.0,53.0,34.0,clear
+1682,Bengal Gram(Gram),Atarra,2017-05-30,5300.0,6.0,35.4,clear
+1683,Lentil(Masur),Atarra,2017-05-30,3800.0,6.0,35.4,clear
+1684,Bengal Gram(Gram),Atarra,2017-05-31,5200.0,5.0,40.2,clear
+1685,Bengal Gram(Gram),Banda,2017-05-31,5100.0,34.0,40.2,clear
+1686,Lentil(Masur),Atarra,2017-05-31,3800.0,8.0,40.2,clear
+1687,Lentil(Masur),Banda,2017-05-31,3550.0,50.0,40.2,clear
+1688,Bengal Gram(Gram),Atarra,2017-01-06,5200.0,5.0,16.0,clear
+1689,Bengal Gram(Gram),Banda,2017-01-06,5100.0,30.0,16.0,clear
+1690,Lentil(Masur),Atarra,2017-01-06,3800.0,8.0,16.0,clear
+1691,Bengal Gram(Gram),Atarra,2017-03-06,5200.0,6.0,29.2,clear
+1692,Bengal Gram(Gram),Banda,2017-03-06,5150.0,28.0,29.2,clear
+1693,Lentil(Masur),Atarra,2017-03-06,3500.0,6.0,29.2,clear
+1694,Lentil(Masur),Banda,2017-03-06,3700.0,43.0,29.2,clear
+1695,Bengal Gram(Gram),Atarra,2017-04-06,5200.0,6.0,38.0,clear
+1696,Bengal Gram(Gram),Banda,2017-04-06,5100.0,32.5,38.0,clear
+1697,Lentil(Masur),Atarra,2017-04-06,3500.0,7.0,38.0,clear
+1698,Lentil(Masur),Banda,2017-04-06,3700.0,45.0,38.0,clear
+1699,Bengal Gram(Gram),Atarra,2017-05-06,5200.0,6.0,43.2,clear
+1700,Bengal Gram(Gram),Banda,2017-05-06,5000.0,35.0,43.2,clear
+1701,Lentil(Masur),Atarra,2017-05-06,3500.0,4.0,43.2,clear
+1702,Lentil(Masur),Banda,2017-05-06,3650.0,48.5,43.2,clear
+1703,Bengal Gram(Gram),Atarra,2017-06-06,5100.0,4.0,37.6,clear
+1704,Lentil(Masur),Atarra,2017-06-06,3500.0,5.0,37.6,clear
+1705,Bengal Gram(Gram),Atarra,2017-07-06,5100.0,6.0,28.0,clear
+1706,Bengal Gram(Gram),Banda,2017-07-06,4900.0,37.0,28.0,clear
+1707,Lentil(Masur),Atarra,2017-07-06,3500.0,3.0,28.0,clear
+1708,Lentil(Masur),Banda,2017-07-06,3600.0,50.0,28.0,clear
+1709,Bengal Gram(Gram),Atarra,2017-08-06,5100.0,3.0,29.0,clear
+1710,Bengal Gram(Gram),Banda,2017-08-06,4900.0,30.0,29.0,clear
+1711,Lentil(Masur),Atarra,2017-08-06,3500.0,6.0,29.0,clear
+1712,Lentil(Masur),Banda,2017-08-06,3600.0,46.0,29.0,clear
+1713,Bengal Gram(Gram),Atarra,2017-10-06,5100.0,5.0,34.0,clear
+1714,Bengal Gram(Gram),Banda,2017-10-06,5100.0,29.0,34.0,clear
+1715,Lentil(Masur),Atarra,2017-10-06,3500.0,7.0,34.0,clear
+1716,Bengal Gram(Gram),Atarra,2017-11-06,5100.0,4.0,27.0,clear
+1717,Bengal Gram(Gram),Banda,2017-11-06,5100.0,26.5,27.0,clear
+1718,Lentil(Masur),Atarra,2017-11-06,3500.0,4.0,27.0,clear
+1719,Lentil(Masur),Banda,2017-11-06,3625.0,40.0,27.0,clear
+1720,Bengal Gram(Gram),Atarra,2017-12-06,5100.0,2.5,21.0,clear
+1721,Bengal Gram(Gram),Banda,2017-12-06,5120.0,25.0,21.0,clear
+1722,Lentil(Masur),Atarra,2017-12-06,3500.0,6.0,21.0,clear
+1723,Lentil(Masur),Banda,2017-12-06,3625.0,37.5,21.0,clear
+1724,Bengal Gram(Gram),Atarra,2017-06-13,5100.0,4.0,42.0,clear
+1725,Lentil(Masur),Atarra,2017-06-13,3500.0,3.0,42.0,clear
+1726,Bengal Gram(Gram),Atarra,2017-06-14,5100.0,3.0,41.4,clear
+1727,Bengal Gram(Gram),Banda,2017-06-14,5075.0,28.5,41.4,clear
+1728,Lentil(Masur),Atarra,2017-06-14,3500.0,5.0,41.4,clear
+1729,Lentil(Masur),Banda,2017-06-14,3600.0,40.0,41.4,clear
+1730,Bengal Gram(Gram),Atarra,2017-06-15,5000.0,6.0,41.6,clear
+1731,Bengal Gram(Gram),Banda,2017-06-15,5075.0,30.0,41.6,clear
+1732,Lentil(Masur),Atarra,2017-06-15,3600.0,6.0,41.6,clear
+1733,Lentil(Masur),Banda,2017-06-15,3600.0,36.0,41.6,clear
+1734,Bengal Gram(Gram),Atarra,2017-06-17,5100.0,5.0,39.4,clear
+1735,Bengal Gram(Gram),Banda,2017-06-17,5050.0,25.0,39.4,clear
+1736,Lentil(Masur),Atarra,2017-06-17,3600.0,4.0,39.4,clear
+1737,Lentil(Masur),Banda,2017-06-17,3650.0,30.0,39.4,clear
+1738,Bengal Gram(Gram),Atarra,2017-06-18,5100.0,2.5,36.6,clear
+1739,Bengal Gram(Gram),Banda,2017-06-18,5050.0,22.0,36.6,clear
+1740,Lentil(Masur),Atarra,2017-06-18,3600.0,4.0,36.6,clear
+1741,Bengal Gram(Gram),Atarra,2017-06-19,5100.0,4.0,37.0,clear
+1742,Bengal Gram(Gram),Banda,2017-06-19,5065.0,20.0,37.0,clear
+1743,Lentil(Masur),Atarra,2017-06-19,3600.0,3.0,37.0,clear
+1744,Lentil(Masur),Banda,2017-06-19,3500.0,36.0,37.0,clear
+1745,Bengal Gram(Gram),Atarra,2017-06-20,5000.0,3.0,38.6,clear
+1746,Lentil(Masur),Atarra,2017-06-20,3600.0,4.0,38.6,clear
+1747,Bengal Gram(Gram),Atarra,2017-06-21,5000.0,2.0,32.8,clear
+1748,Bengal Gram(Gram),Banda,2017-06-21,5100.0,17.5,32.8,clear
+1749,Lentil(Masur),Atarra,2017-06-21,3600.0,2.5,32.8,clear
+1750,Lentil(Masur),Banda,2017-06-21,3500.0,30.0,32.8,clear
+1751,Bengal Gram(Gram),Atarra,2017-06-22,5000.0,4.0,33.0,rain
+1752,Bengal Gram(Gram),Banda,2017-06-22,4975.0,20.0,33.0,rain
+1753,Lentil(Masur),Atarra,2017-06-22,3600.0,3.0,33.0,rain
+1754,Lentil(Masur),Banda,2017-06-22,3450.0,31.5,33.0,rain
+1755,Bengal Gram(Gram),Atarra,2017-06-24,5000.0,2.5,39.2,clear
+1756,Bengal Gram(Gram),Banda,2017-06-24,4850.0,24.0,39.2,clear
+1757,Lentil(Masur),Atarra,2017-06-24,3600.0,5.0,39.2,clear
+1758,Lentil(Masur),Banda,2017-06-24,3400.0,27.5,39.2,clear
+1759,Bengal Gram(Gram),Atarra,2017-06-25,5000.0,3.0,34.4,clear
+1760,Bengal Gram(Gram),Banda,2017-06-25,4850.0,23.0,34.4,clear
+1761,Lentil(Masur),Atarra,2017-06-25,3600.0,4.0,34.4,clear
+1762,Lentil(Masur),Banda,2017-06-25,3400.0,24.5,34.4,clear
+1763,Bengal Gram(Gram),Atarra,2017-06-26,5000.0,2.5,39.4,clear
+1764,Bengal Gram(Gram),Banda,2017-06-26,4800.0,24.0,39.4,clear
+1765,Lentil(Masur),Atarra,2017-06-26,3600.0,2.5,39.4,clear
+1766,Bengal Gram(Gram),Atarra,2017-06-27,5000.0,5.0,39.4,clear
+1767,Lentil(Masur),Atarra,2017-06-27,3600.0,3.0,39.4,clear
+1768,Bengal Gram(Gram),Atarra,2017-06-28,4900.0,3.0,32.8,clear
+1769,Bengal Gram(Gram),Banda,2017-06-28,5000.0,19.0,32.8,clear
+1770,Lentil(Masur),Atarra,2017-06-28,3300.0,4.0,32.8,clear
+1771,Bengal Gram(Gram),Atarra,2017-06-29,4900.0,4.0,33.4,clear
+1772,Bengal Gram(Gram),Banda,2017-06-29,5075.0,16.0,33.4,clear
+1773,Lentil(Masur),Atarra,2017-06-29,3300.0,2.0,33.4,clear
+1774,Lentil(Masur),Banda,2017-06-29,3500.0,18.0,33.4,clear
+1775,Bengal Gram(Gram),Atarra,2017-01-07,4900.0,3.0,14.4,clear
+1776,Bengal Gram(Gram),Banda,2017-01-07,5050.0,11.0,14.4,clear
+1777,Lentil(Masur),Atarra,2017-01-07,3300.0,5.0,14.4,clear
+1778,Lentil(Masur),Banda,2017-01-07,3550.0,12.0,14.4,clear
+1779,Bengal Gram(Gram),Atarra,2017-02-07,4900.0,5.0,23.6,clear
+1780,Lentil(Masur),Atarra,2017-02-07,3300.0,6.0,23.6,clear
+1781,Bengal Gram(Gram),Atarra,2017-03-07,4900.0,4.0,31.4,clear
+1782,Lentil(Masur),Atarra,2017-03-07,3300.0,7.0,31.4,clear
+1783,Bengal Gram(Gram),Atarra,2017-04-07,5000.0,5.0,37.8,clear
+1784,Lentil(Masur),Atarra,2017-04-07,3400.0,4.0,37.8,clear
+1785,Bengal Gram(Gram),Atarra,2017-05-07,5000.0,8.0,44.0,clear
+1786,Bengal Gram(Gram),Banda,2017-05-07,5025.0,12.5,44.0,clear
+1787,Lentil(Masur),Atarra,2017-05-07,3400.0,5.0,44.0,clear
+1788,Lentil(Masur),Banda,2017-05-07,3550.0,20.0,44.0,clear
+1789,Bengal Gram(Gram),Atarra,2017-06-07,4900.0,5.0,37.4,clear
+1790,Bengal Gram(Gram),Banda,2017-06-07,5100.0,10.0,37.4,clear
+1791,Lentil(Masur),Atarra,2017-06-07,3400.0,3.0,37.4,clear
+1792,Lentil(Masur),Banda,2017-06-07,3500.0,22.0,37.4,clear
+1793,Bengal Gram(Gram),Atarra,2017-11-07,5000.0,3.0,28.0,clear
+1794,Lentil(Masur),Atarra,2017-11-07,3400.0,3.0,28.0,clear
+1795,Lentil(Masur),Baberu,2017-11-07,3700.0,21.0,28.0,clear
+1796,Bengal Gram(Gram),Atarra,2017-12-07,5000.0,2.5,24.0,clear
+1797,Bengal Gram(Gram),Baberu,2017-12-07,4900.0,0.4,24.0,clear
+1798,Bengal Gram(Gram),Banda,2017-12-07,5020.0,12.5,24.0,clear
+1799,Lentil(Masur),Atarra,2017-12-07,3400.0,2.5,24.0,clear
+1800,Lentil(Masur),Baberu,2017-12-07,3500.0,26.8,24.0,clear
+1801,Lentil(Masur),Banda,2017-12-07,3420.0,20.0,24.0,clear
+1802,Bengal Gram(Gram),Atarra,2017-07-13,5000.0,4.0,29.4,clear
+1803,Lentil(Masur),Atarra,2017-07-13,3400.0,2.0,29.4,clear
+1804,Bengal Gram(Gram),Atarra,2017-07-15,5000.0,3.0,31.6,clear
+1805,Bengal Gram(Gram),Banda,2017-07-15,5000.0,16.0,31.6,clear
+1806,Lentil(Masur),Atarra,2017-07-15,3400.0,1.5,31.6,clear
+1807,Lentil(Masur),Baberu,2017-07-15,3500.0,21.0,31.6,clear
+1808,Lentil(Masur),Banda,2017-07-15,3430.0,19.5,31.6,clear
+1809,Bengal Gram(Gram),Atarra,2017-07-18,5000.0,2.0,35.2,clear
+1810,Bengal Gram(Gram),Baberu,2017-07-18,5150.0,0.8,35.2,clear
+1811,Lentil(Masur),Baberu,2017-07-18,3625.0,24.6,35.2,clear
+1812,Bengal Gram(Gram),Atarra,2017-07-19,5000.0,1.0,32.0,clear
+1813,Bengal Gram(Gram),Baberu,2017-07-19,5050.0,1.0,32.0,clear
+1814,Bengal Gram(Gram),Banda,2017-07-19,5000.0,13.0,32.0,clear
+1815,Lentil(Masur),Atarra,2017-07-19,3400.0,2.0,32.0,clear
+1816,Lentil(Masur),Baberu,2017-07-19,3525.0,14.6,32.0,clear
+1817,Bengal Gram(Gram),Atarra,2017-07-20,5000.0,1.5,32.6,clear
+1818,Bengal Gram(Gram),Banda,2017-07-20,4970.0,14.5,32.6,clear
+1819,Lentil(Masur),Atarra,2017-07-20,3400.0,4.0,32.6,clear
+1820,Lentil(Masur),Baberu,2017-07-20,3525.0,20.0,32.6,clear
+1821,Lentil(Masur),Banda,2017-07-20,3250.0,24.0,32.6,clear
+1822,Bengal Gram(Gram),Atarra,2017-07-22,5000.0,2.0,29.0,clear
+1823,Bengal Gram(Gram),Baberu,2017-07-22,5150.0,2.0,29.0,clear
+1824,Bengal Gram(Gram),Banda,2017-07-22,4930.0,20.0,29.0,clear
+1825,Lentil(Masur),Atarra,2017-07-22,3400.0,2.0,29.0,clear
+1826,Lentil(Masur),Baberu,2017-07-22,3525.0,20.0,29.0,clear
+1827,Lentil(Masur),Banda,2017-07-22,3300.0,20.0,29.0,clear
+1828,Bengal Gram(Gram),Atarra,2017-07-23,5000.0,1.0,29.0,clear
+1829,Bengal Gram(Gram),Banda,2017-07-23,4950.0,16.0,29.0,clear
+1830,Lentil(Masur),Atarra,2017-07-23,3400.0,3.0,29.0,clear
+1831,Lentil(Masur),Banda,2017-07-23,3200.0,23.0,29.0,clear
+1832,Bengal Gram(Gram),Atarra,2017-07-24,5000.0,3.0,27.0,clear
+1833,Bengal Gram(Gram),Baberu,2017-07-24,5150.0,2.7,27.0,clear
+1834,Bengal Gram(Gram),Banda,2017-07-24,4900.0,17.0,27.0,clear
+1835,Lentil(Masur),Atarra,2017-07-24,3400.0,1.5,27.0,clear
+1836,Lentil(Masur),Baberu,2017-07-24,3150.0,19.6,27.0,clear
+1837,Lentil(Masur),Banda,2017-07-24,3200.0,20.0,27.0,clear
+1838,Bengal Gram(Gram),Atarra,2017-07-25,5000.0,2.5,27.4,clear
+1839,Lentil(Masur),Atarra,2017-07-25,3400.0,2.5,27.4,clear
+1840,Lentil(Masur),Baberu,2017-07-25,3150.0,13.1,27.4,clear
+1841,Bengal Gram(Gram),Atarra,2017-07-26,5000.0,1.5,31.0,clear
+1842,Bengal Gram(Gram),Banda,2017-07-26,4800.0,20.0,31.0,clear
+1843,Lentil(Masur),Atarra,2017-07-26,3400.0,1.0,31.0,clear
+1844,Lentil(Masur),Baberu,2017-07-26,3125.0,12.5,31.0,clear
+1845,Lentil(Masur),Banda,2017-07-26,3200.0,22.5,31.0,clear
+1846,Bengal Gram(Gram),Atarra,2017-07-27,5000.0,1.5,27.0,clear
+1847,Lentil(Masur),Atarra,2017-07-27,3400.0,1.0,27.0,clear
+1848,Lentil(Masur),Banda,2017-07-27,3125.0,26.0,27.0,clear
+1849,Bengal Gram(Gram),Atarra,2017-07-29,5000.0,0.8,33.0,clear
+1850,Bengal Gram(Gram),Banda,2017-07-29,4600.0,27.5,33.0,clear
+1851,Lentil(Masur),Atarra,2017-07-29,3400.0,1.5,33.0,clear
+1852,Lentil(Masur),Baberu,2017-07-29,3150.0,13.6,33.0,clear
+1853,Lentil(Masur),Banda,2017-07-29,3100.0,23.0,33.0,clear
+1854,Bengal Gram(Gram),Atarra,2017-07-30,5000.0,0.8,32.0,clear
+1855,Bengal Gram(Gram),Banda,2017-07-30,4600.0,20.0,32.0,clear
+1856,Lentil(Masur),Atarra,2017-07-30,3400.0,2.5,32.0,clear
+1857,Bengal Gram(Gram),Atarra,2017-07-31,5100.0,0.7,33.6,clear
+1858,Bengal Gram(Gram),Banda,2017-07-31,4625.0,16.0,33.6,clear
+1859,Lentil(Masur),Atarra,2017-07-31,3400.0,3.0,33.6,clear
+1860,Lentil(Masur),Baberu,2017-07-31,3150.0,13.1,33.6,clear
+1861,Lentil(Masur),Banda,2017-07-31,3150.0,22.0,33.6,clear
+1862,Bengal Gram(Gram),Atarra,2017-02-08,4700.0,1.0,23.6,clear
+1863,Bengal Gram(Gram),Banda,2017-02-08,4650.0,18.0,23.6,clear
+1864,Lentil(Masur),Atarra,2017-02-08,3200.0,3.0,23.6,clear
+1865,Lentil(Masur),Baberu,2017-02-08,3150.0,13.1,23.6,clear
+1866,Lentil(Masur),Banda,2017-02-08,3250.0,20.0,23.6,clear
+1867,Bengal Gram(Gram),Atarra,2017-03-08,4700.0,1.5,30.0,clear
+1868,Bengal Gram(Gram),Banda,2017-03-08,4600.0,20.0,30.0,clear
+1869,Lentil(Masur),Atarra,2017-03-08,3200.0,2.5,30.0,clear
+1870,Lentil(Masur),Banda,2017-03-08,3240.0,25.0,30.0,clear
+1871,Bengal Gram(Gram),Atarra,2017-05-08,4700.0,2.0,41.4,clear
+1872,Bengal Gram(Gram),Baberu,2017-05-08,4850.0,2.0,41.4,clear
+1873,Bengal Gram(Gram),Banda,2017-05-08,4700.0,18.0,41.4,clear
+1874,Lentil(Masur),Atarra,2017-05-08,3200.0,3.5,41.4,clear
+1875,Lentil(Masur),Baberu,2017-05-08,3150.0,20.2,41.4,clear
+1876,Lentil(Masur),Banda,2017-05-08,3250.0,25.0,41.4,clear
+1877,Bengal Gram(Gram),Atarra,2017-06-08,4700.0,1.0,38.0,clear
+1878,Lentil(Masur),Atarra,2017-06-08,3200.0,2.0,38.0,clear
+1879,Bengal Gram(Gram),Atarra,2017-07-08,4700.0,2.0,28.4,clear
+1880,Bengal Gram(Gram),Banda,2017-07-08,4750.0,10.0,28.4,clear
+1881,Lentil(Masur),Atarra,2017-07-08,3200.0,1.0,28.4,clear
+1882,Lentil(Masur),Baberu,2017-07-08,3150.0,6.5,28.4,clear
+1883,Bengal Gram(Gram),Atarra,2017-08-08,4700.0,2.5,32.2,clear
+1884,Lentil(Masur),Atarra,2017-08-08,3200.0,1.5,32.2,clear
+1885,Lentil(Masur),Baberu,2017-08-08,3150.0,1.0,32.2,clear
+1886,Bengal Gram(Gram),Atarra,2017-09-08,4700.0,2.0,33.6,clear
+1887,Bengal Gram(Gram),Banda,2017-09-08,4765.0,8.0,33.6,clear
+1888,Lentil(Masur),Atarra,2017-09-08,3200.0,2.5,33.6,clear
+1889,Lentil(Masur),Baberu,2017-09-08,3150.0,0.9,33.6,clear
+1890,Lentil(Masur),Banda,2017-09-08,3350.0,20.0,33.6,clear
+1891,Bengal Gram(Gram),Atarra,2017-10-08,4700.0,2.0,34.0,clear
+1892,Bengal Gram(Gram),Banda,2017-10-08,5065.0,7.5,34.0,clear
+1893,Lentil(Masur),Atarra,2017-10-08,3200.0,2.5,34.0,clear
+1894,Lentil(Masur),Banda,2017-10-08,3440.0,18.0,34.0,clear
+1895,Bengal Gram(Gram),Atarra,2017-12-08,4700.0,3.0,23.2,clear
+1896,Bengal Gram(Gram),Baberu,2017-12-08,4850.0,10.0,23.2,clear
+1897,Bengal Gram(Gram),Banda,2017-12-08,5100.0,7.5,23.2,clear
+1898,Lentil(Masur),Atarra,2017-12-08,3200.0,2.0,23.2,clear
+1899,Lentil(Masur),Baberu,2017-12-08,3175.0,5.0,23.2,clear
+1900,Bengal Gram(Gram),Atarra,2017-08-13,4700.0,1.5,31.8,clear
+1901,Lentil(Masur),Atarra,2017-08-13,3200.0,3.0,31.8,clear
+1902,Lentil(Masur),Baberu,2017-08-13,3200.0,1.3,31.8,clear
+1903,Bengal Gram(Gram),Atarra,2017-08-14,4700.0,2.5,32.0,clear
+1904,Bengal Gram(Gram),Baberu,2017-08-14,5150.0,2.1,32.0,clear
+1905,Bengal Gram(Gram),Banda,2017-08-14,5225.0,6.0,32.0,clear
+1906,Lentil(Masur),Atarra,2017-08-14,3200.0,1.5,32.0,clear
+1907,Lentil(Masur),Baberu,2017-08-14,3200.0,20.0,32.0,clear
+1908,Lentil(Masur),Banda,2017-08-14,3650.0,14.0,32.0,clear
+1909,Bengal Gram(Gram),Atarra,2017-08-16,4700.0,1.5,31.0,clear
+1910,Bengal Gram(Gram),Banda,2017-08-16,5350.0,5.0,31.0,clear
+1911,Lentil(Masur),Atarra,2017-08-16,3200.0,30.0,31.0,clear
+1912,Lentil(Masur),Banda,2017-08-16,3720.0,11.0,31.0,clear
+1913,Bengal Gram(Gram),Atarra,2017-08-17,4600.0,2.0,31.4,clear
+1914,Bengal Gram(Gram),Banda,2017-08-17,5300.0,7.5,31.4,clear
+1915,Lentil(Masur),Atarra,2017-08-17,3200.0,2.0,31.4,clear
+1916,Lentil(Masur),Baberu,2017-08-17,3150.0,0.9,31.4,clear
+1917,Lentil(Masur),Banda,2017-08-17,3600.0,15.0,31.4,clear
+1918,Bengal Gram(Gram),Atarra,2017-08-19,4700.0,2.5,33.0,clear
+1919,Bengal Gram(Gram),Baberu,2017-08-19,4550.0,3.0,33.0,clear
+1920,Bengal Gram(Gram),Banda,2017-08-19,5275.0,10.0,33.0,clear
+1921,Lentil(Masur),Baberu,2017-08-19,3250.0,10.0,33.0,clear
+1922,Lentil(Masur),Banda,2017-08-19,3620.0,18.0,33.0,clear
+1923,Bengal Gram(Gram),Atarra,2017-08-20,4600.0,3.0,33.4,clear
+1924,Bengal Gram(Gram),Baberu,2017-08-20,5150.0,1.9,33.4,clear
+1925,Bengal Gram(Gram),Banda,2017-08-20,5275.0,13.0,33.4,clear
+1926,Lentil(Masur),Atarra,2017-08-20,3200.0,4.0,33.4,clear
+1927,Lentil(Masur),Baberu,2017-08-20,3200.0,18.0,33.4,clear
+1928,Lentil(Masur),Banda,2017-08-20,3650.0,16.0,33.4,clear
+1929,Bengal Gram(Gram),Atarra,2017-08-21,4600.0,4.0,34.4,clear
+1930,Bengal Gram(Gram),Banda,2017-08-21,5325.0,11.0,34.4,clear
+1931,Lentil(Masur),Atarra,2017-08-21,3200.0,3.0,34.4,clear
+1932,Lentil(Masur),Baberu,2017-08-21,3350.0,5.0,34.4,clear
+1933,Lentil(Masur),Banda,2017-08-21,3650.0,15.0,34.4,clear
+1934,Bengal Gram(Gram),Atarra,2017-08-22,4600.0,2.0,34.2,clear
+1935,Bengal Gram(Gram),Baberu,2017-08-22,4750.0,1.5,34.2,clear
+1936,Lentil(Masur),Atarra,2017-08-22,3200.0,2.5,34.2,clear
+1937,Lentil(Masur),Baberu,2017-08-22,3350.0,5.2,34.2,clear
+1938,Bengal Gram(Gram),Atarra,2017-08-23,4600.0,3.0,30.6,clear
+1939,Bengal Gram(Gram),Banda,2017-08-23,5350.0,10.0,30.6,clear
+1940,Lentil(Masur),Atarra,2017-08-23,3200.0,2.0,30.6,clear
+1941,Lentil(Masur),Baberu,2017-08-23,3150.0,2.1,30.6,clear
+1942,Lentil(Masur),Banda,2017-08-23,3600.0,20.0,30.6,clear
+1943,Bengal Gram(Gram),Atarra,2017-08-24,4600.0,2.5,32.2,clear
+1944,Bengal Gram(Gram),Banda,2017-08-24,5425.0,8.0,32.2,clear
+1945,Lentil(Masur),Atarra,2017-08-24,3200.0,3.0,32.2,clear
+1946,Lentil(Masur),Banda,2017-08-24,3600.0,17.0,32.2,clear
+1947,Bengal Gram(Gram),Atarra,2017-08-26,5200.0,2.0,29.6,clear
+1948,Bengal Gram(Gram),Banda,2017-08-26,5600.0,6.0,29.6,clear
+1949,Lentil(Masur),Atarra,2017-08-26,3500.0,3.5,29.6,clear
+1950,Lentil(Masur),Banda,2017-08-26,3680.0,15.0,29.6,clear
+1951,Bengal Gram(Gram),Atarra,2017-08-27,5200.0,1.0,28.0,rain
+1952,Bengal Gram(Gram),Banda,2017-08-27,5600.0,8.0,28.0,rain
+1953,Lentil(Masur),Atarra,2017-08-27,3600.0,2.0,28.0,rain
+1954,Lentil(Masur),Banda,2017-08-27,3675.0,21.0,28.0,rain
+1955,Bengal Gram(Gram),Atarra,2017-08-28,5400.0,0.5,31.0,clear
+1956,Bengal Gram(Gram),Banda,2017-08-28,5600.0,7.0,31.0,clear
+1957,Lentil(Masur),Banda,2017-08-28,3650.0,25.0,31.0,clear
+1958,Bengal Gram(Gram),Atarra,2017-08-29,5500.0,2.0,29.0,clear
+1959,Lentil(Masur),Atarra,2017-08-29,3600.0,1.5,29.0,clear
+1960,Lentil(Masur),Baberu,2017-08-29,3350.0,8.0,29.0,clear
+1961,Bengal Gram(Gram),Atarra,2017-08-30,5500.0,2.5,30.4,clear
+1962,Bengal Gram(Gram),Banda,2017-08-30,5730.0,6.0,30.4,clear
+1963,Lentil(Masur),Atarra,2017-08-30,3600.0,1.0,30.4,clear
+1964,Lentil(Masur),Baberu,2017-08-30,3350.0,2.5,30.4,clear
+1965,Lentil(Masur),Banda,2017-08-30,3700.0,20.0,30.4,clear
+1966,Bengal Gram(Gram),Atarra,2017-02-09,5500.0,2.5,24.2,clear
+1967,Bengal Gram(Gram),Banda,2017-02-09,5700.0,8.5,24.2,clear
+1968,Lentil(Masur),Atarra,2017-02-09,3600.0,1.0,24.2,clear
+1969,Lentil(Masur),Banda,2017-02-09,3625.0,17.5,24.2,clear
+1970,Bengal Gram(Gram),Atarra,2017-03-09,5600.0,1.5,29.6,clear
+1971,Lentil(Masur),Atarra,2017-03-09,3600.0,2.5,29.6,clear
+1972,Lentil(Masur),Baberu,2017-03-09,3350.0,1.9,29.6,clear
+1973,Bengal Gram(Gram),Atarra,2017-04-09,5500.0,1.5,36.0,clear
+1974,Bengal Gram(Gram),Banda,2017-04-09,5680.0,12.5,36.0,clear
+1975,Lentil(Masur),Atarra,2017-04-09,3600.0,2.5,36.0,clear
+1976,Lentil(Masur),Baberu,2017-04-09,3350.0,3.1,36.0,clear
+1977,Lentil(Masur),Banda,2017-04-09,3600.0,19.0,36.0,clear
+1978,Bengal Gram(Gram),Atarra,2017-05-09,5500.0,1.5,40.0,clear
+1979,Lentil(Masur),Atarra,2017-05-09,3500.0,2.0,40.0,clear
+1980,Bengal Gram(Gram),Atarra,2017-06-09,5500.0,1.0,39.8,clear
+1981,Bengal Gram(Gram),Banda,2017-06-09,5720.0,10.0,39.8,clear
+1982,Lentil(Masur),Atarra,2017-06-09,3600.0,1.0,39.8,clear
+1983,Lentil(Masur),Baberu,2017-06-09,3350.0,7.0,39.8,clear
+1984,Lentil(Masur),Banda,2017-06-09,3550.0,24.0,39.8,clear
+1985,Bengal Gram(Gram),Atarra,2017-07-09,5500.0,1.0,31.6,clear
+1986,Bengal Gram(Gram),Banda,2017-07-09,5720.0,12.0,31.6,clear
+1987,Lentil(Masur),Atarra,2017-07-09,3600.0,1.5,31.6,clear
+1988,Lentil(Masur),Banda,2017-07-09,3550.0,22.5,31.6,clear
+1989,Bengal Gram(Gram),Atarra,2017-09-09,5500.0,1.0,34.6,clear
+1990,Bengal Gram(Gram),Banda,2017-09-09,5650.0,17.5,34.6,clear
+1991,Lentil(Masur),Atarra,2017-09-09,3600.0,2.0,34.6,clear
+1992,Lentil(Masur),Banda,2017-09-09,3520.0,22.0,34.6,clear
+1993,Bengal Gram(Gram),Atarra,2017-10-09,5600.0,2.0,33.6,clear
+1994,Bengal Gram(Gram),Banda,2017-10-09,5650.0,20.0,33.6,clear
+1995,Lentil(Masur),Atarra,2017-10-09,3600.0,1.0,33.6,clear
+1996,Lentil(Masur),Banda,2017-10-09,3520.0,24.0,33.6,clear
+1997,Bengal Gram(Gram),Atarra,2017-12-09,5600.0,1.0,22.0,clear
+1998,Lentil(Masur),Atarra,2017-12-09,3600.0,2.0,22.0,clear
+1999,Bengal Gram(Gram),Atarra,2017-09-13,5600.0,2.0,34.0,clear
+2000,Bengal Gram(Gram),Banda,2017-09-13,5630.0,24.0,34.0,clear
+2001,Lentil(Masur),Atarra,2017-09-13,3600.0,2.5,34.0,clear
+2002,Lentil(Masur),Baberu,2017-09-13,3350.0,3.1,34.0,clear
+2003,Lentil(Masur),Banda,2017-09-13,3540.0,16.0,34.0,clear
+2004,Bengal Gram(Gram),Atarra,2017-09-14,5600.0,2.5,31.6,clear
+2005,Bengal Gram(Gram),Banda,2017-09-14,5765.0,16.0,31.6,clear
+2006,Lentil(Masur),Atarra,2017-09-14,3600.0,0.5,31.6,clear
+2007,Lentil(Masur),Banda,2017-09-14,3500.0,17.5,31.6,clear
+2008,Bengal Gram(Gram),Atarra,2017-09-16,6000.0,2.0,32.6,clear
+2009,Bengal Gram(Gram),Baberu,2017-09-16,4900.0,3.0,32.6,clear
+2010,Bengal Gram(Gram),Banda,2017-09-16,5700.0,15.0,32.6,clear
+2011,Lentil(Masur),Baberu,2017-09-16,3400.0,8.0,32.6,clear
+2012,Lentil(Masur),Banda,2017-09-16,3500.0,20.0,32.6,clear
+2013,Bengal Gram(Gram),Atarra,2017-09-17,6000.0,1.5,30.8,clear
+2014,Bengal Gram(Gram),Baberu,2017-09-17,5050.0,2.0,30.8,clear
+2015,Bengal Gram(Gram),Banda,2017-09-17,5680.0,16.0,30.8,clear
+2016,Lentil(Masur),Atarra,2017-09-17,3600.0,1.5,30.8,clear
+2017,Lentil(Masur),Baberu,2017-09-17,3400.0,3.5,30.8,clear
+2018,Lentil(Masur),Banda,2017-09-17,3520.0,16.0,30.8,clear
+2019,Bengal Gram(Gram),Atarra,2017-09-18,6000.0,1.0,29.6,clear
+2020,Bengal Gram(Gram),Baberu,2017-09-18,5050.0,3.0,29.6,clear
+2021,Bengal Gram(Gram),Banda,2017-09-18,5700.0,12.0,29.6,clear
+2022,Lentil(Masur),Atarra,2017-09-18,3600.0,2.0,29.6,clear
+2023,Lentil(Masur),Baberu,2017-09-18,3400.0,4.0,29.6,clear
+2024,Lentil(Masur),Banda,2017-09-18,3550.0,15.0,29.6,clear
+2025,Bengal Gram(Gram),Atarra,2017-09-19,6000.0,1.5,33.0,clear
+2026,Bengal Gram(Gram),Baberu,2017-09-19,5050.0,2.5,33.0,clear
+2027,Lentil(Masur),Atarra,2017-09-19,3600.0,2.5,33.0,clear
+2028,Bengal Gram(Gram),Atarra,2017-09-20,6000.0,1.0,30.0,clear
+2029,Bengal Gram(Gram),Banda,2017-09-20,5650.0,13.0,30.0,clear
+2030,Lentil(Masur),Atarra,2017-09-20,3600.0,1.5,30.0,clear
+2031,Lentil(Masur),Banda,2017-09-20,3425.0,17.5,30.0,clear
+2032,Bengal Gram(Gram),Atarra,2017-09-21,6000.0,1.0,28.4,clear
+2033,Bengal Gram(Gram),Banda,2017-09-21,5600.0,11.0,28.4,clear
+2034,Lentil(Masur),Atarra,2017-09-21,3600.0,1.0,28.4,clear
+2035,Lentil(Masur),Banda,2017-09-21,3400.0,15.0,28.4,clear
+2036,Bengal Gram(Gram),Atarra,2017-09-23,6000.0,1.5,31.6,clear
+2037,Bengal Gram(Gram),Baberu,2017-09-23,5100.0,3.0,31.6,clear
+2038,Bengal Gram(Gram),Banda,2017-09-23,5660.0,8.0,31.6,clear
+2039,Lentil(Masur),Atarra,2017-09-23,3600.0,2.0,31.6,clear
+2040,Lentil(Masur),Banda,2017-09-23,3445.0,12.0,31.6,clear
+2041,Bengal Gram(Gram),Atarra,2017-09-24,6000.0,2.0,28.4,clear
+2042,Bengal Gram(Gram),Banda,2017-09-24,5635.0,10.5,28.4,clear
+2043,Lentil(Masur),Atarra,2017-09-24,3600.0,2.5,28.4,clear
+2044,Lentil(Masur),Banda,2017-09-24,3455.0,11.0,28.4,clear
+2045,Bengal Gram(Gram),Atarra,2017-09-25,6000.0,1.2,32.4,clear
+2046,Bengal Gram(Gram),Banda,2017-09-25,5650.0,9.0,32.4,clear
+2047,Lentil(Masur),Atarra,2017-09-25,3400.0,1.5,32.4,clear
+2048,Lentil(Masur),Banda,2017-09-25,3440.0,14.0,32.4,clear
+2049,Bengal Gram(Gram),Atarra,2017-09-26,6000.0,1.0,33.2,clear
+2050,Lentil(Masur),Atarra,2017-09-26,3600.0,0.5,33.2,clear
+2051,Bengal Gram(Gram),Atarra,2017-09-27,6000.0,2.0,33.8,clear
+2052,Bengal Gram(Gram),Banda,2017-09-27,5665.0,8.5,33.8,clear
+2053,Lentil(Masur),Atarra,2017-09-27,3600.0,0.5,33.8,clear
+2054,Lentil(Masur),Banda,2017-09-27,3460.0,12.0,33.8,clear
+2055,Bengal Gram(Gram),Atarra,2017-09-28,6000.0,0.8,34.0,clear
+2056,Bengal Gram(Gram),Baberu,2017-09-28,5200.0,4.0,34.0,clear
+2057,Bengal Gram(Gram),Banda,2017-09-28,5650.0,10.0,34.0,clear
+2058,Lentil(Masur),Atarra,2017-09-28,3600.0,0.8,34.0,clear
+2059,Lentil(Masur),Banda,2017-09-28,3350.0,15.5,34.0,clear
+2060,Bengal Gram(Gram),Atarra,2017-09-30,6000.0,0.8,33.2,clear
+2061,Lentil(Masur),Atarra,2017-09-30,3600.0,0.7,33.2,clear
+2062,Lentil(Masur),Banda,2017-09-30,3400.0,16.0,33.2,clear
+2063,Bengal Gram(Gram),Atarra,2017-01-10,6000.0,1.0,13.0,clear
+2064,Bengal Gram(Gram),Banda,2017-01-10,5650.0,7.5,13.0,clear
+2065,Lentil(Masur),Atarra,2017-01-10,3600.0,2.0,13.0,clear
+2066,Lentil(Masur),Banda,2017-01-10,3400.0,0.0,13.0,clear
+2067,Bengal Gram(Gram),Atarra,2017-02-10,6000.0,1.2,23.6,clear
+2068,Bengal Gram(Gram),Banda,2017-02-10,5630.0,9.5,23.6,clear
+2069,Lentil(Masur),Atarra,2017-02-10,3600.0,2.5,23.6,clear
+2070,Lentil(Masur),Banda,2017-02-10,3350.0,15.0,23.6,clear
+2071,Bengal Gram(Gram),Atarra,2017-03-10,6000.0,1.5,23.6,clear
+2072,Lentil(Masur),Atarra,2017-03-10,3600.0,4.0,23.6,clear
+2073,Bengal Gram(Gram),Atarra,2017-04-10,5800.0,1.0,35.2,clear
+2074,Bengal Gram(Gram),Banda,2017-04-10,5600.0,12.0,35.2,clear
+2075,Lentil(Masur),Banda,2017-04-10,3300.0,16.0,35.2,clear
+2076,Bengal Gram(Gram),Atarra,2017-05-10,5600.0,0.5,40.6,clear
+2077,Bengal Gram(Gram),Banda,2017-05-10,5400.0,14.5,40.6,clear
+2078,Lentil(Masur),Atarra,2017-05-10,3400.0,1.5,40.6,clear
+2079,Lentil(Masur),Banda,2017-05-10,3320.0,14.0,40.6,clear
+2080,Bengal Gram(Gram),Atarra,2017-07-10,5600.0,2.5,29.0,clear
+2081,Bengal Gram(Gram),Banda,2017-07-10,5450.0,17.0,29.0,clear
+2082,Lentil(Masur),Atarra,2017-07-10,3400.0,3.0,29.0,clear
+2083,Lentil(Masur),Banda,2017-07-10,3200.0,25.0,29.0,clear
+2084,Bengal Gram(Gram),Atarra,2017-08-10,5600.0,1.5,29.0,clear
+2085,Bengal Gram(Gram),Banda,2017-08-10,5400.0,20.0,29.0,clear
+2086,Lentil(Masur),Atarra,2017-08-10,3400.0,2.0,29.0,clear
+2087,Lentil(Masur),Banda,2017-08-10,3200.0,22.0,29.0,clear
+2088,Bengal Gram(Gram),Atarra,2017-09-10,5600.0,0.5,33.0,clear
+2089,Bengal Gram(Gram),Banda,2017-09-10,5525.0,16.0,33.0,clear
+2090,Lentil(Masur),Atarra,2017-09-10,3400.0,2.5,33.0,clear
+2091,Lentil(Masur),Banda,2017-09-10,3150.0,25.0,33.0,clear
+2092,Bengal Gram(Gram),Atarra,2017-10-10,5600.0,0.8,32.8,clear
+2093,Lentil(Masur),Atarra,2017-10-10,3400.0,1.0,32.8,clear
+2094,Bengal Gram(Gram),Atarra,2017-11-10,5200.0,1.0,25.8,clear
+2095,Bengal Gram(Gram),Banda,2017-11-10,5350.0,14.0,25.8,clear
+2096,Lentil(Masur),Atarra,2017-11-10,3200.0,2.0,25.8,clear
+2097,Lentil(Masur),Banda,2017-11-10,3100.0,27.0,25.8,clear
+2098,Bengal Gram(Gram),Atarra,2017-12-10,5000.0,1.5,20.4,clear
+2099,Bengal Gram(Gram),Banda,2017-12-10,5300.0,17.0,20.4,clear
+2100,Lentil(Masur),Atarra,2017-12-10,3100.0,2.5,20.4,clear
+2101,Lentil(Masur),Banda,2017-12-10,3100.0,25.0,20.4,clear
+2102,Bengal Gram(Gram),Atarra,2017-10-14,5000.0,2.0,28.6,clear
+2103,Bengal Gram(Gram),Banda,2017-10-14,5250.0,17.0,28.6,clear
+2104,Lentil(Masur),Atarra,2017-10-14,3000.0,2.0,28.6,clear
+2105,Bengal Gram(Gram),Atarra,2017-10-15,5000.0,1.0,24.6,clear
+2106,Bengal Gram(Gram),Banda,2017-10-15,5250.0,15.0,24.6,clear
+2107,Lentil(Masur),Atarra,2017-10-15,3000.0,1.5,24.6,clear
+2108,Lentil(Masur),Banda,2017-10-15,3100.0,24.0,24.6,clear
+2109,Bengal Gram(Gram),Atarra,2017-10-16,5000.0,1.5,33.4,clear
+2110,Bengal Gram(Gram),Banda,2017-10-16,5200.0,16.0,33.4,clear
+2111,Lentil(Masur),Banda,2017-10-16,3100.0,27.0,33.4,clear
+2112,Bengal Gram(Gram),Atarra,2017-10-17,5000.0,2.0,32.0,clear
+2113,Lentil(Masur),Atarra,2017-10-17,3000.0,3.0,32.0,clear
+2114,Bengal Gram(Gram),Atarra,2017-10-18,5000.0,1.0,32.0,clear
+2115,Bengal Gram(Gram),Banda,2017-10-18,5200.0,14.0,32.0,clear
+2116,Lentil(Masur),Atarra,2017-10-18,3000.0,4.0,32.0,clear
+2117,Lentil(Masur),Banda,2017-10-18,3120.0,24.0,32.0,clear
+2118,Bengal Gram(Gram),Atarra,2017-10-19,4800.0,1.5,33.4,clear
+2119,Bengal Gram(Gram),Banda,2017-10-19,5150.0,17.5,33.4,clear
+2120,Lentil(Masur),Atarra,2017-10-19,3000.0,2.0,33.4,clear
+2121,Lentil(Masur),Banda,2017-10-19,3050.0,27.0,33.4,clear
+2122,Bengal Gram(Gram),Atarra,2017-10-21,4800.0,6.0,32.4,clear
+2123,Bengal Gram(Gram),Banda,2017-10-21,5100.0,20.0,32.4,clear
+2124,Lentil(Masur),Atarra,2017-10-21,3000.0,20.0,32.4,clear
+2125,Lentil(Masur),Banda,2017-10-21,3000.0,30.0,32.4,clear
+2126,Bengal Gram(Gram),Atarra,2017-10-22,4800.0,3.0,34.0,clear
+2127,Bengal Gram(Gram),Banda,2017-10-22,5000.0,23.0,34.0,clear
+2128,Lentil(Masur),Atarra,2017-10-22,3000.0,3.0,34.0,clear
+2129,Lentil(Masur),Banda,2017-10-22,3025.0,25.0,34.0,clear
+2130,Bengal Gram(Gram),Atarra,2017-10-23,4800.0,2.0,25.0,clear
+2131,Bengal Gram(Gram),Banda,2017-10-23,5050.0,20.0,25.0,clear
+2132,Lentil(Masur),Atarra,2017-10-23,3000.0,2.0,25.0,clear
+2133,Lentil(Masur),Banda,2017-10-23,3000.0,27.0,25.0,clear
+2134,Bengal Gram(Gram),Atarra,2017-10-24,4800.0,1.5,31.0,clear
+2135,Lentil(Masur),Atarra,2017-10-24,3000.0,2.5,31.0,clear
+2136,Bengal Gram(Gram),Atarra,2017-10-26,4800.0,1.0,29.0,clear
+2137,Bengal Gram(Gram),Banda,2017-10-26,5020.0,19.0,29.0,clear
+2138,Lentil(Masur),Atarra,2017-10-26,3000.0,1.5,29.0,clear
+2139,Lentil(Masur),Banda,2017-10-26,2980.0,27.5,29.0,clear
+2140,Bengal Gram(Gram),Atarra,2017-10-28,4800.0,1.5,29.0,clear
+2141,Bengal Gram(Gram),Banda,2017-10-28,4850.0,25.0,29.0,clear
+2142,Lentil(Masur),Atarra,2017-10-28,2700.0,1.0,29.0,clear
+2143,Lentil(Masur),Banda,2017-10-28,3000.0,28.0,29.0,clear
+2144,Bengal Gram(Gram),Atarra,2017-10-29,4700.0,2.0,29.2,clear
+2145,Bengal Gram(Gram),Banda,2017-10-29,4800.0,27.0,29.2,clear
+2146,Lentil(Masur),Atarra,2017-10-29,2700.0,2.0,29.2,clear
+2147,Lentil(Masur),Banda,2017-10-29,3050.0,26.0,29.2,clear
+2148,Bengal Gram(Gram),Atarra,2017-10-30,4500.0,3.0,27.6,clear
+2149,Bengal Gram(Gram),Banda,2017-10-30,4800.0,15.0,27.6,clear
+2150,Lentil(Masur),Atarra,2017-10-30,2700.0,1.5,27.6,clear
+2151,Lentil(Masur),Banda,2017-10-30,3040.0,20.0,27.6,clear
+2152,Bengal Gram(Gram),Atarra,2017-10-31,4500.0,2.0,28.0,clear
+2153,Lentil(Masur),Atarra,2017-10-31,2800.0,2.5,28.0,clear
+2154,Bengal Gram(Gram),Atarra,2017-02-11,4500.0,3.0,22.2,clear
+2155,Bengal Gram(Gram),Banda,2017-02-11,4600.0,24.0,22.2,clear
+2156,Lentil(Masur),Atarra,2017-02-11,2700.0,2.0,22.2,clear
+2157,Bengal Gram(Gram),Atarra,2017-03-11,4500.0,4.0,25.4,clear
+2158,Bengal Gram(Gram),Banda,2017-03-11,4600.0,17.0,25.4,clear
+2159,Lentil(Masur),Atarra,2017-03-11,2700.0,1.5,25.4,clear
+2160,Lentil(Masur),Banda,2017-03-11,2900.0,40.0,25.4,clear
+2161,Bengal Gram(Gram),Baberu,2017-05-26,5250.0,540.0,44.4,clear
+2162,Bengal Gram(Gram),Banda,2017-05-26,5325.0,22.0,44.4,clear
+2163,Lentil(Masur),Banda,2017-05-26,3725.0,40.0,44.4,clear
+2164,Bengal Gram(Gram),Baberu,2017-07-21,3950.0,2.5,29.4,clear
+2165,Bengal Gram(Gram),Banda,2017-07-21,4950.0,18.0,29.4,clear
+2166,Lentil(Masur),Baberu,2017-07-21,3525.0,20.0,29.4,clear
+2167,Lentil(Masur),Banda,2017-07-21,3300.0,21.5,29.4,clear
+2168,Bengal Gram(Gram),Baberu,2017-08-15,5150.0,1.9,34.0,clear
+2169,Lentil(Masur),Baberu,2017-08-15,3200.0,21.0,34.0,clear
+2170,Bengal Gram(Gram),Baberu,2017-08-25,4350.0,2.0,29.6,clear
+2171,Bengal Gram(Gram),Banda,2017-08-25,5525.0,6.5,29.6,clear
+2172,Lentil(Masur),Baberu,2017-08-25,3350.0,10.0,29.6,clear
+2173,Lentil(Masur),Banda,2017-08-25,3650.0,16.0,29.6,clear
+2174,Bengal Gram(Gram),Banda,2017-06-01,7050.0,3.0,39.0,clear
+2175,Lentil(Masur),Banda,2017-06-01,4120.0,6.5,39.0,clear
+2176,Bengal Gram(Gram),Banda,2017-01-13,6800.0,3.5,15.6,clear
+2177,Lentil(Masur),Banda,2017-01-13,3800.0,8.5,15.6,clear
+2178,Bengal Gram(Gram),Banda,2017-01-20,6460.0,4.0,20.6,clear
+2179,Lentil(Masur),Banda,2017-01-20,3800.0,9.0,20.6,clear
+2180,Bengal Gram(Gram),Banda,2017-03-02,6200.0,3.5,30.0,clear
+2181,Lentil(Masur),Banda,2017-03-02,3925.0,5.0,30.0,clear
+2182,Bengal Gram(Gram),Banda,2017-10-02,6300.0,4.0,33.6,clear
+2183,Lentil(Masur),Banda,2017-10-02,3900.0,8.5,33.6,clear
+2184,Bengal Gram(Gram),Banda,2017-02-17,5700.0,6.5,28.0,clear
+2185,Lentil(Masur),Banda,2017-02-17,3750.0,7.5,28.0,clear
+2186,Bengal Gram(Gram),Banda,2017-02-24,5850.0,2.5,26.6,clear
+2187,Bengal Gram(Gram),Banda,2017-02-27,5860.0,3.0,27.0,clear
+2188,Lentil(Masur),Banda,2017-02-27,3825.0,7.5,27.0,clear
+2189,Bengal Gram(Gram),Banda,2017-03-03,5050.0,6.5,30.6,clear
+2190,Lentil(Masur),Banda,2017-03-03,3750.0,9.0,30.6,clear
+2191,Bengal Gram(Gram),Banda,2017-07-04,5600.0,8.5,26.0,clear
+2192,Lentil(Masur),Banda,2017-07-04,4250.0,50.0,26.0,clear
+2193,Bengal Gram(Gram),Banda,2017-04-14,5600.0,7.0,40.0,clear
+2194,Lentil(Masur),Banda,2017-04-14,4200.0,40.0,40.0,clear
+2195,Bengal Gram(Gram),Banda,2017-04-21,5430.0,9.0,42.0,clear
+2196,Lentil(Masur),Banda,2017-04-21,3950.0,60.0,42.0,clear
+2197,Bengal Gram(Gram),Banda,2017-05-05,5500.0,9.0,41.0,clear
+2198,Lentil(Masur),Banda,2017-05-05,3800.0,55.0,41.0,clear
+2199,Bengal Gram(Gram),Banda,2017-11-05,5375.0,8.5,27.0,clear
+2200,Lentil(Masur),Banda,2017-11-05,3825.0,38.0,27.0,clear
+2201,Bengal Gram(Gram),Banda,2017-05-19,5450.0,16.0,38.8,clear
+2202,Bengal Gram(Gram),Banda,2017-02-06,5100.0,33.0,25.6,clear
+2203,Bengal Gram(Gram),Banda,2017-09-06,5125.0,25.0,32.4,clear
+2204,Lentil(Masur),Banda,2017-09-06,3600.0,40.0,32.4,clear
+2205,Bengal Gram(Gram),Banda,2017-06-16,5075.0,24.0,39.4,clear
+2206,Lentil(Masur),Banda,2017-06-16,3625.0,33.0,39.4,clear
+2207,Bengal Gram(Gram),Banda,2017-06-23,4900.0,23.0,36.4,clear
+2208,Lentil(Masur),Banda,2017-06-23,3400.0,30.0,36.4,clear
+2209,Bengal Gram(Gram),Banda,2017-06-30,5050.0,18.0,29.4,clear
+2210,Lentil(Masur),Banda,2017-06-30,3500.0,16.0,29.4,clear
+2211,Bengal Gram(Gram),Banda,2017-07-07,5050.0,14.0,32.6,clear
+2212,Lentil(Masur),Banda,2017-07-07,3500.0,18.0,32.6,clear
+2213,Bengal Gram(Gram),Banda,2017-08-07,5100.0,12.0,28.0,clear
+2214,Bengal Gram(Gram),Banda,2017-07-17,5000.0,16.0,30.4,clear
+2215,Lentil(Masur),Atarra,2017-07-17,3400.0,0.4,30.4,clear
+2216,Lentil(Masur),Baberu,2017-07-17,3450.0,14.0,30.4,clear
+2217,Lentil(Masur),Banda,2017-07-17,3350.0,20.0,30.4,clear
+2218,Bengal Gram(Gram),Banda,2017-07-28,4625.0,24.0,32.0,clear
+2219,Lentil(Masur),Baberu,2017-07-28,3150.0,15.2,32.0,clear
+2220,Lentil(Masur),Banda,2017-07-28,3100.0,22.0,32.0,clear
+2221,Bengal Gram(Gram),Banda,2017-04-08,4700.0,16.5,37.6,clear
+2222,Lentil(Masur),Baberu,2017-04-08,3150.0,13.1,37.6,clear
+2223,Lentil(Masur),Banda,2017-04-08,3220.0,30.0,37.6,clear
+2224,Bengal Gram(Gram),Banda,2017-11-08,5050.0,8.5,19.2,clear
+2225,Lentil(Masur),Baberu,2017-11-08,2900.0,18.0,19.2,clear
+2226,Lentil(Masur),Banda,2017-11-08,3400.0,20.0,19.2,clear
+2227,Bengal Gram(Gram),Banda,2017-08-18,5330.0,7.0,30.4,clear
+2228,Lentil(Masur),Baberu,2017-08-18,3150.0,1.0,30.4,clear
+2229,Lentil(Masur),Banda,2017-08-18,3600.0,20.0,30.4,clear
+2230,Bengal Gram(Gram),Banda,2017-01-09,5740.0,6.5,12.6,clear
+2231,Lentil(Masur),Baberu,2017-01-09,3350.0,9.9,12.6,clear
+2232,Lentil(Masur),Banda,2017-01-09,3600.0,20.0,12.6,clear
+2233,Bengal Gram(Gram),Banda,2017-08-09,5685.0,14.5,32.4,clear
+2234,Lentil(Masur),Baberu,2017-08-09,3350.0,2.3,32.4,clear
+2235,Lentil(Masur),Banda,2017-08-09,3500.0,26.0,32.4,clear
+2236,Bengal Gram(Gram),Banda,2017-09-15,5700.0,17.5,33.2,clear
+2237,Lentil(Masur),Baberu,2017-09-15,3375.0,10.0,33.2,clear
+2238,Lentil(Masur),Banda,2017-09-15,3500.0,22.0,33.2,clear
+2239,Bengal Gram(Gram),Banda,2017-09-22,5640.0,10.0,29.2,clear
+2240,Lentil(Masur),Banda,2017-09-22,3425.0,14.0,29.2,clear
+2241,Bengal Gram(Gram),Banda,2017-09-29,5660.0,8.5,33.8,clear
+2242,Bengal Gram(Gram),Banda,2017-06-10,5600.0,14.0,40.4,clear
+2243,Lentil(Masur),Banda,2017-06-10,3250.0,20.0,40.4,clear
+2244,Bengal Gram(Gram),Banda,2017-10-13,5200.0,20.0,33.2,clear
+2245,Lentil(Masur),Banda,2017-10-13,3100.0,20.0,33.2,clear
+2246,Bengal Gram(Gram),Banda,2017-10-25,5000.0,23.5,29.4,clear
+2247,Lentil(Masur),Atarra,2017-10-25,3000.0,2.0,29.4,clear
+2248,Lentil(Masur),Banda,2017-10-25,3000.0,25.0,29.4,clear
+2249,Bengal Gram(Gram),Banda,2017-10-27,5000.0,20.0,29.0,clear
+2250,Lentil(Masur),Banda,2017-10-27,3000.0,24.0,29.0,clear
+2251,Bengal Gram(Gram),Banda,2017-04-11,4500.0,20.0,37.2,clear
+2252,Lentil(Masur),Banda,2017-04-11,2900.0,35.0,37.2,clear
+2253,Bengal Gram(Gram),Banda,2017-05-11,4500.0,23.0,40.4,clear
+2254,Lentil(Masur),Baberu,2017-07-14,3425.0,20.0,33.2,clear
+2255,Lentil(Masur),Banda,2017-07-14,3450.0,18.5,33.2,clear
+2256,Lentil(Masur),Banda,2017-01-27,3700.0,8.5,16.6,clear

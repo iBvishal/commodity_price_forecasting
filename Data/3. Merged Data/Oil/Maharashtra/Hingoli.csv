@@ -1,0 +1,1699 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Soyabean,Hingoli,2013-05-28,3563.0,105.0,40.0,clear
+1,Soyabean,Sengoan,2013-05-28,3600.0,14.6,40.0,clear
+2,Soyabean,Basmat,2014-08-03,3900.0,4.1,31.8,clear
+3,Soyabean,Basmat,2014-08-10,3150.0,7.5,29.8,clear
+4,Soyabean,Hingoli,2014-08-10,3043.0,5.6,29.8,clear
+5,Soyabean,Akhadabalapur,2015-12-10,3350.0,13.0,30.8,clear
+6,Soyabean,Basmat,2015-12-10,3550.0,65.0,30.8,clear
+7,Soyabean,Kalamnuri,2015-12-10,3400.0,49.0,30.8,clear
+8,Soyabean,Sengoan,2015-12-10,3550.0,150.0,30.8,clear
+9,Soyabean,Akhadabalapur,2015-12-15,3350.0,5.0,31.0,clear
+10,Soyabean,Hingoli,2015-12-15,3725.0,146.0,31.0,clear
+11,Soyabean,Jawala-Bajar,2015-12-15,3700.0,10.0,31.0,clear
+12,Soyabean,Kalamnuri,2015-12-15,3500.0,11.0,31.0,clear
+13,Soyabean,Sengoan,2015-12-15,3600.0,50.0,31.0,clear
+14,Soyabean,Akhadabalapur,2015-12-17,3350.0,12.0,31.2,clear
+15,Soyabean,Hingoli,2015-12-17,3705.0,113.0,31.2,clear
+16,Soyabean,Jawala-Bajar,2015-12-17,3600.0,10.0,31.2,clear
+17,Soyabean,Kalamnuri,2015-12-17,3500.0,5.0,31.2,clear
+18,Soyabean,Sengoan,2015-12-17,3550.0,37.0,31.2,clear
+19,Soyabean,Akhadabalapur,2015-12-21,3325.0,6.0,29.4,clear
+20,Soyabean,Hingoli,2015-12-21,3750.0,105.0,29.4,clear
+21,Soyabean,Jawala-Bajar,2015-12-21,3600.0,8.0,29.4,clear
+22,Soyabean,Kalamnuri,2015-12-21,3500.0,2.0,29.4,clear
+23,Soyabean,Sengoan,2015-12-21,3675.0,12.0,29.4,clear
+24,Soyabean,Akhadabalapur,2015-12-23,3350.0,4.0,27.6,clear
+25,Soyabean,Jawala-Bajar,2015-12-23,3630.0,10.0,27.6,clear
+26,Soyabean,Kalamnuri,2015-12-23,3500.0,18.0,27.6,clear
+27,Soyabean,Sengoan,2015-12-23,3625.0,27.0,27.6,clear
+28,Soyabean,Akhadabalapur,2015-12-28,3400.0,4.0,29.4,clear
+29,Soyabean,Jawala-Bajar,2015-12-28,3540.0,4.0,29.4,clear
+30,Soyabean,Kalamnuri,2015-12-28,3500.0,3.0,29.4,clear
+31,Soyabean,Sengoan,2015-12-28,3525.0,12.0,29.4,clear
+32,Soyabean,Akhadabalapur,2015-12-29,3300.0,6.0,29.8,clear
+33,Soyabean,Basmat,2015-12-29,3615.0,4.0,29.8,clear
+34,Soyabean,Hingoli,2015-12-29,3671.0,100.0,29.8,clear
+35,Soyabean,Jawala-Bajar,2015-12-29,3550.0,9.0,29.8,clear
+36,Soyabean,Kalamnuri,2015-12-29,3500.0,8.0,29.8,clear
+37,Soyabean,Sengoan,2015-12-29,3575.0,36.0,29.8,clear
+38,Soyabean,Akhadabalapur,2015-12-30,3400.0,9.0,30.8,clear
+39,Soyabean,Hingoli,2015-12-30,3725.0,60.0,30.8,clear
+40,Soyabean,Jawala-Bajar,2015-12-30,3650.0,11.0,30.8,clear
+41,Soyabean,Kalamnuri,2015-12-30,3500.0,8.0,30.8,clear
+42,Soyabean,Sengoan,2015-12-30,3575.0,11.0,30.8,clear
+43,Soyabean,Akhadabalapur,2015-12-31,3400.0,28.0,31.0,clear
+44,Soyabean,Hingoli,2015-12-31,3757.0,73.0,31.0,clear
+45,Soyabean,Jawala-Bajar,2015-12-31,3660.0,8.0,31.0,clear
+46,Soyabean,Sengoan,2015-12-31,3550.0,10.0,31.0,clear
+47,Soyabean,Hingoli,2015-12-08,3289.0,49.0,28.6,clear
+48,Soyabean,Jawala-Bajar,2015-12-08,3250.0,1.0,28.6,clear
+49,Soyabean,Sengoan,2015-12-08,3275.0,6.0,28.6,clear
+50,Soyabean,Hingoli,2015-12-16,3671.0,155.0,31.2,clear
+51,Soyabean,Jawala-Bajar,2015-12-16,3660.0,13.0,31.2,clear
+52,Soyabean,Sengoan,2015-12-16,3575.0,26.0,31.2,clear
+53,Soyabean,Hingoli,2015-12-18,3700.0,90.0,28.8,clear
+54,Soyabean,Jawala-Bajar,2015-12-18,3670.0,9.0,28.8,clear
+55,Soyabean,Kalamnuri,2015-12-18,3500.0,1.0,28.8,clear
+56,Soyabean,Sengoan,2015-12-18,3575.0,33.0,28.8,clear
+57,Soyabean,Hingoli,2015-12-19,3750.0,4.0,30.8,clear
+58,Soyabean,Kalamnuri,2015-12-19,3500.0,12.0,30.8,clear
+59,Soyabean,Sengoan,2015-12-19,3625.0,21.0,30.8,clear
+60,Soyabean,Hingoli,2015-12-22,3810.0,105.0,29.8,clear
+61,Soyabean,Jawala-Bajar,2015-12-22,3660.0,9.0,29.8,clear
+62,Soyabean,Kalamnuri,2015-12-22,3500.0,20.0,29.8,clear
+63,Soyabean,Sengoan,2015-12-22,3650.0,36.0,29.8,clear
+64,Soyabean,Jawala-Bajar,2015-12-07,3500.0,7.0,28.0,clear
+65,Soyabean,Jawala-Bajar,2015-12-11,3680.0,21.0,31.2,clear
+66,Soyabean,Jawala-Bajar,2015-12-13,3680.0,19.0,30.4,clear
+67,Soyabean,Jawala-Bajar,2015-12-14,3650.0,11.0,31.4,clear
+68,Soyabean,Kalamnuri,2015-12-14,3500.0,9.0,31.4,clear
+69,Soyabean,Sengoan,2015-12-14,3600.0,46.0,31.4,clear
+70,Soyabean,Jawala-Bajar,2015-12-20,3690.0,15.0,30.8,clear
+71,Soyabean,Kalamnuri,2015-12-20,3500.0,11.0,30.8,clear
+72,Soyabean,Jawala-Bajar,2015-12-27,3540.0,13.0,26.2,clear
+73,Soyabean,Kalamnuri,2015-12-27,3500.0,5.0,26.2,clear
+74,Soyabean,Kalamnuri,2015-12-12,3500.0,4.0,31.0,clear
+75,Soyabean,Sengoan,2015-12-12,3575.0,47.0,31.0,clear
+76,Soyabean,Kalamnuri,2015-12-24,3500.0,11.0,25.2,clear
+77,Soyabean,Sengoan,2015-12-24,3600.0,9.0,25.2,clear
+78,Soyabean,Kalamnuri,2015-12-25,3500.0,12.0,22.6,clear
+79,Soyabean,Sengoan,2015-12-25,3550.0,4.0,22.6,clear
+80,Soyabean,Sengoan,2015-12-26,3600.0,13.0,25.0,clear
+81,Soyabean,Akhadabalapur,2016-06-01,3350.0,5.0,42.2,clear
+82,Soyabean,Basmat,2016-06-01,3545.0,1.0,42.2,clear
+83,Soyabean,Jawala-Bajar,2016-06-01,3675.0,4.0,42.2,clear
+84,Soyabean,Kalamnuri,2016-06-01,3500.0,4.0,42.2,clear
+85,Soyabean,Sengoan,2016-06-01,3600.0,21.0,42.2,clear
+86,Soyabean,Akhadabalapur,2016-08-01,3400.0,5.0,27.8,clear
+87,Soyabean,Jawala-Bajar,2016-08-01,3640.0,8.0,27.8,clear
+88,Soyabean,Kalamnuri,2016-08-01,3500.0,15.0,27.8,clear
+89,Soyabean,Akhadabalapur,2016-11-01,3400.0,4.0,29.6,clear
+90,Soyabean,Jawala-Bajar,2016-11-01,3650.0,8.0,29.6,clear
+91,Soyabean,Kalamnuri,2016-11-01,3640.0,5.0,29.6,clear
+92,Soyabean,Akhadabalapur,2016-01-15,3500.0,4.0,29.2,clear
+93,Soyabean,Jawala-Bajar,2016-01-15,3580.0,5.0,29.2,clear
+94,Soyabean,Kalamnuri,2016-01-15,3600.0,3.0,29.2,clear
+95,Soyabean,Akhadabalapur,2016-01-20,3560.0,11.0,26.2,clear
+96,Soyabean,Jawala-Bajar,2016-01-20,3640.0,7.0,26.2,clear
+97,Soyabean,Kalamnuri,2016-01-20,3700.0,8.0,26.2,clear
+98,Soyabean,Sengoan,2016-01-20,3575.0,13.0,26.2,clear
+99,Soyabean,Akhadabalapur,2016-01-29,3500.0,7.0,31.2,clear
+100,Soyabean,Jawala-Bajar,2016-01-29,3640.0,6.0,31.2,clear
+101,Soyabean,Kalamnuri,2016-01-29,3750.0,8.0,31.2,clear
+102,Soyabean,Sengoan,2016-01-29,3650.0,24.0,31.2,clear
+103,Soyabean,Akhadabalapur,2016-01-02,3550.0,7.0,31.0,clear
+104,Soyabean,Hingoli,2016-01-02,3775.0,115.0,31.0,clear
+105,Soyabean,Jawala-Bajar,2016-01-02,3660.0,9.0,31.0,clear
+106,Soyabean,Kalamnuri,2016-01-02,3750.0,5.0,31.0,clear
+107,Soyabean,Sengoan,2016-01-02,3650.0,15.0,31.0,clear
+108,Soyabean,Akhadabalapur,2016-02-02,3500.0,10.0,32.2,clear
+109,Soyabean,Basmat,2016-02-02,3500.0,9.0,32.2,clear
+110,Soyabean,Hingoli,2016-02-02,3780.0,109.0,32.2,clear
+111,Soyabean,Jawala-Bajar,2016-02-02,3680.0,10.0,32.2,clear
+112,Soyabean,Kalamnuri,2016-02-02,3750.0,6.0,32.2,clear
+113,Soyabean,Sengoan,2016-02-02,3650.0,10.0,32.2,clear
+114,Soyabean,Akhadabalapur,2016-04-02,3590.0,12.0,40.2,clear
+115,Soyabean,Hingoli,2016-04-02,3825.0,65.0,40.2,clear
+116,Soyabean,Kalamnuri,2016-04-02,3760.0,3.0,40.2,clear
+117,Soyabean,Sengoan,2016-04-02,3650.0,9.0,40.2,clear
+118,Soyabean,Akhadabalapur,2016-05-02,3590.0,8.0,42.0,clear
+119,Soyabean,Basmat,2016-05-02,3640.0,4.0,42.0,clear
+120,Soyabean,Hingoli,2016-05-02,3820.0,65.0,42.0,clear
+121,Soyabean,Kalamnuri,2016-05-02,3775.0,3.0,42.0,clear
+122,Soyabean,Sengoan,2016-05-02,3650.0,20.0,42.0,clear
+123,Soyabean,Akhadabalapur,2016-11-02,3400.0,9.0,29.0,clear
+124,Soyabean,Basmat,2016-11-02,3600.0,2.0,29.0,clear
+125,Soyabean,Hingoli,2016-11-02,3800.0,65.0,29.0,clear
+126,Soyabean,Kalamnuri,2016-11-02,3675.0,4.0,29.0,clear
+127,Soyabean,Sengoan,2016-11-02,3600.0,21.0,29.0,clear
+128,Soyabean,Akhadabalapur,2016-02-17,3475.0,4.0,33.2,clear
+129,Soyabean,Hingoli,2016-02-17,3735.0,40.0,33.2,clear
+130,Soyabean,Sengoan,2016-02-17,3600.0,15.0,33.2,clear
+131,Soyabean,Akhadabalapur,2016-02-22,3400.0,6.0,36.2,clear
+132,Soyabean,Hingoli,2016-02-22,3735.0,45.0,36.2,clear
+133,Soyabean,Sengoan,2016-02-22,3550.0,25.0,36.2,clear
+134,Soyabean,Akhadabalapur,2016-02-25,3400.0,4.0,35.2,clear
+135,Soyabean,Hingoli,2016-02-25,3586.0,69.0,35.2,clear
+136,Soyabean,Jawala-Bajar,2016-02-25,3630.0,10.0,35.2,clear
+137,Soyabean,Kalamnuri,2016-02-25,3650.0,8.0,35.2,clear
+138,Soyabean,Sengoan,2016-02-25,3525.0,10.0,35.2,clear
+139,Soyabean,Akhadabalapur,2016-02-03,3600.0,7.0,32.2,clear
+140,Soyabean,Hingoli,2016-02-03,3600.0,40.0,32.2,clear
+141,Soyabean,Jawala-Bajar,2016-02-03,3650.0,9.0,32.2,clear
+142,Soyabean,Kalamnuri,2016-02-03,3625.0,3.0,32.2,clear
+143,Soyabean,Sengoan,2016-02-03,3500.0,9.0,32.2,clear
+144,Soyabean,Akhadabalapur,2016-05-03,3500.0,8.0,42.8,clear
+145,Soyabean,Sengoan,2016-05-03,3475.0,5.0,42.8,clear
+146,Soyabean,Akhadabalapur,2016-10-03,3500.0,12.0,27.2,clear
+147,Soyabean,Sengoan,2016-10-03,3600.0,11.0,27.2,clear
+148,Soyabean,Akhadabalapur,2016-12-03,3500.0,9.0,27.6,clear
+149,Soyabean,Sengoan,2016-12-03,3600.0,15.0,27.6,clear
+150,Soyabean,Akhadabalapur,2016-03-17,3550.0,5.0,38.4,clear
+151,Soyabean,Basmat,2016-03-17,3640.0,2.0,38.4,clear
+152,Soyabean,Hingoli,2016-03-17,3680.0,30.0,38.4,clear
+153,Soyabean,Jawala-Bajar,2016-03-17,3650.0,3.0,38.4,clear
+154,Soyabean,Kalamnuri,2016-03-17,3750.0,1.0,38.4,clear
+155,Soyabean,Sengoan,2016-03-17,3550.0,6.0,38.4,clear
+156,Soyabean,Akhadabalapur,2016-03-18,3500.0,12.0,38.2,clear
+157,Soyabean,Hingoli,2016-03-18,3700.0,28.0,38.2,clear
+158,Soyabean,Kalamnuri,2016-03-18,3750.0,6.0,38.2,clear
+159,Soyabean,Sengoan,2016-03-18,3600.0,2.0,38.2,clear
+160,Soyabean,Akhadabalapur,2016-03-21,3400.0,4.0,36.6,clear
+161,Soyabean,Hingoli,2016-03-21,3825.0,20.0,36.6,clear
+162,Soyabean,Sengoan,2016-03-21,3600.0,4.0,36.6,clear
+163,Soyabean,Akhadabalapur,2016-03-22,3500.0,11.0,37.2,clear
+164,Soyabean,Sengoan,2016-03-22,3650.0,11.0,37.2,clear
+165,Soyabean,Akhadabalapur,2016-03-30,3500.0,10.0,38.8,clear
+166,Soyabean,Jawala-Bajar,2016-03-30,3880.0,8.0,38.8,clear
+167,Soyabean,Sengoan,2016-03-30,3750.0,14.0,38.8,clear
+168,Soyabean,Akhadabalapur,2016-03-31,3500.0,17.0,39.0,clear
+169,Soyabean,Jawala-Bajar,2016-03-31,3840.0,9.0,39.0,clear
+170,Soyabean,Sengoan,2016-03-31,3775.0,2.0,39.0,clear
+171,Soyabean,Akhadabalapur,2016-06-04,3650.0,3.0,35.6,clear
+172,Soyabean,Hingoli,2016-06-04,3975.0,120.0,35.6,clear
+173,Soyabean,Jawala-Bajar,2016-06-04,3890.0,5.0,35.6,clear
+174,Soyabean,Sengoan,2016-06-04,3775.0,47.0,35.6,clear
+175,Soyabean,Akhadabalapur,2016-04-26,3650.0,3.0,42.8,clear
+176,Soyabean,Hingoli,2016-04-26,3951.0,51.0,42.8,clear
+177,Soyabean,Jawala-Bajar,2016-04-26,4000.0,1.0,42.8,clear
+178,Soyabean,Akhadabalapur,2016-04-28,3600.0,5.0,40.8,clear
+179,Soyabean,Hingoli,2016-04-28,3838.0,36.0,40.8,clear
+180,Soyabean,Jawala-Bajar,2016-04-28,3990.0,5.0,40.8,clear
+181,Soyabean,Akhadabalapur,2016-07-05,3650.0,8.0,28.4,clear
+182,Soyabean,Sengoan,2016-07-05,3800.0,7.0,28.4,clear
+183,Soyabean,Akhadabalapur,2016-12-05,3550.0,5.0,26.4,clear
+184,Soyabean,Akhadabalapur,2016-05-20,3750.0,5.0,43.0,clear
+185,Soyabean,Jawala-Bajar,2016-05-20,3790.0,5.0,43.0,clear
+186,Soyabean,Sengoan,2016-05-20,3700.0,4.0,43.0,clear
+187,Soyabean,Akhadabalapur,2016-05-21,3550.0,6.0,42.4,clear
+188,Soyabean,Sengoan,2016-05-21,3725.0,4.0,42.4,clear
+189,Soyabean,Akhadabalapur,2016-05-25,3675.0,5.0,41.2,clear
+190,Soyabean,Hingoli,2016-05-25,3802.0,69.0,41.2,clear
+191,Soyabean,Jawala-Bajar,2016-05-25,3740.0,6.0,41.2,clear
+192,Soyabean,Sengoan,2016-05-25,3775.0,9.0,41.2,clear
+193,Soyabean,Akhadabalapur,2016-05-28,3750.0,10.0,41.4,clear
+194,Soyabean,Sengoan,2016-05-28,3825.0,19.0,41.4,clear
+195,Soyabean,Akhadabalapur,2016-05-31,3725.0,8.0,41.8,clear
+196,Soyabean,Hingoli,2016-05-31,3750.0,20.0,41.8,clear
+197,Soyabean,Jawala-Bajar,2016-05-31,3820.0,5.0,41.8,clear
+198,Soyabean,Sengoan,2016-05-31,3650.0,4.0,41.8,clear
+199,Soyabean,Akhadabalapur,2016-04-06,3700.0,3.0,37.2,clear
+200,Soyabean,Hingoli,2016-04-06,3839.0,33.0,37.2,clear
+201,Soyabean,Sengoan,2016-04-06,3725.0,10.0,37.2,clear
+202,Soyabean,Akhadabalapur,2016-09-06,3650.0,3.0,29.2,clear
+203,Soyabean,Hingoli,2016-09-06,3809.0,31.0,29.2,clear
+204,Soyabean,Jawala-Bajar,2016-09-06,3740.0,9.0,29.2,clear
+205,Soyabean,Sengoan,2016-09-06,3700.0,14.0,29.2,clear
+206,Soyabean,Akhadabalapur,2016-06-17,3650.0,5.0,37.8,clear
+207,Soyabean,Jawala-Bajar,2016-06-17,3740.0,6.0,37.8,clear
+208,Soyabean,Sengoan,2016-06-17,3710.0,3.0,37.8,clear
+209,Soyabean,Akhadabalapur,2016-01-07,3650.0,5.0,29.4,clear
+210,Soyabean,Hingoli,2016-01-07,3776.0,24.0,29.4,clear
+211,Soyabean,Jawala-Bajar,2016-01-07,3700.0,4.0,29.4,clear
+212,Soyabean,Sengoan,2016-01-07,3650.0,1.0,29.4,clear
+213,Soyabean,Akhadabalapur,2016-04-07,3650.0,7.0,36.8,clear
+214,Soyabean,Sengoan,2016-04-07,3700.0,3.0,36.8,clear
+215,Soyabean,Akhadabalapur,2016-12-07,3600.0,2.0,26.2,clear
+216,Soyabean,Akhadabalapur,2016-07-18,3700.0,2.0,28.2,clear
+217,Soyabean,Akhadabalapur,2016-07-20,3700.0,2.0,29.6,clear
+218,Soyabean,Akhadabalapur,2016-07-22,3550.0,3.0,27.2,clear
+219,Soyabean,Akhadabalapur,2016-07-25,3650.0,4.0,29.2,clear
+220,Soyabean,Akhadabalapur,2016-07-29,3625.0,6.0,29.8,clear
+221,Soyabean,Sengoan,2016-07-29,3550.0,8.0,29.8,clear
+222,Soyabean,Akhadabalapur,2016-02-08,3650.0,3.0,31.4,clear
+223,Soyabean,Sengoan,2016-02-08,3500.0,10.0,31.4,clear
+224,Soyabean,Akhadabalapur,2016-09-08,3550.0,5.0,28.4,clear
+225,Soyabean,Hingoli,2016-09-08,3599.0,15.0,28.4,clear
+226,Soyabean,Sengoan,2016-09-08,3600.0,4.0,28.4,clear
+227,Soyabean,Akhadabalapur,2016-12-08,3600.0,2.0,27.8,clear
+228,Soyabean,Hingoli,2016-12-08,3600.0,78.0,27.8,clear
+229,Soyabean,Sengoan,2016-12-08,3450.0,13.0,27.8,clear
+230,Soyabean,Akhadabalapur,2016-08-19,3550.0,2.0,29.2,clear
+231,Soyabean,Akhadabalapur,2016-08-22,3550.0,3.0,32.2,clear
+232,Soyabean,Akhadabalapur,2016-08-26,3550.0,6.0,31.4,clear
+233,Soyabean,Sengoan,2016-08-26,3400.0,2.0,31.4,clear
+234,Soyabean,Akhadabalapur,2016-08-29,3750.0,2.0,28.8,clear
+235,Soyabean,Sengoan,2016-08-29,3100.0,2.0,28.8,clear
+236,Soyabean,Akhadabalapur,2016-08-31,3550.0,6.0,28.8,clear
+237,Soyabean,Sengoan,2016-08-31,3300.0,1.0,28.8,clear
+238,Soyabean,Akhadabalapur,2016-05-09,3650.0,2.0,36.2,clear
+239,Soyabean,Akhadabalapur,2016-08-09,3650.0,6.0,29.4,clear
+240,Soyabean,Hingoli,2016-08-09,3260.0,7.0,29.4,clear
+241,Soyabean,Akhadabalapur,2016-09-19,3625.0,5.0,28.2,clear
+242,Soyabean,Hingoli,2016-09-19,3360.0,21.0,28.2,clear
+243,Soyabean,Akhadabalapur,2016-09-22,3050.0,3.0,27.2,rain
+244,Soyabean,Hingoli,2016-09-22,3380.0,29.0,27.2,rain
+245,Soyabean,Sengoan,2016-09-22,3275.0,1.0,27.2,rain
+246,Soyabean,Akhadabalapur,2016-09-28,2800.0,5.0,30.6,clear
+247,Soyabean,Basmat,2016-09-28,2850.0,8.0,30.6,clear
+248,Soyabean,Basmat(Kurunda),2016-09-28,2850.0,6.0,30.6,clear
+249,Soyabean,Sengoan,2016-09-28,3200.0,4.0,30.6,clear
+250,Soyabean,Akhadabalapur,2016-06-10,2850.0,6.0,36.2,clear
+251,Soyabean,Hingoli,2016-06-10,3050.0,24.0,36.2,clear
+252,Soyabean,Hingoli(Kanegoan Naka),2016-06-10,3150.0,11.0,36.2,clear
+253,Soyabean,Jawala-Bajar,2016-06-10,2900.0,11.0,36.2,clear
+254,Soyabean,Kalamnuri,2016-06-10,3500.0,5.0,36.2,clear
+255,Soyabean,Akhadabalapur,2016-07-10,2900.0,9.0,25.2,clear
+256,Soyabean,Basmat,2016-07-10,2800.0,40.0,25.2,clear
+257,Soyabean,Hingoli,2016-07-10,2850.0,40.0,25.2,clear
+258,Soyabean,Jawala-Bajar,2016-07-10,3050.0,15.0,25.2,clear
+259,Soyabean,Akhadabalapur,2016-08-10,2850.0,9.0,30.0,clear
+260,Soyabean,Hingoli,2016-08-10,3080.0,61.0,30.0,clear
+261,Soyabean,Hingoli(Kanegoan Naka),2016-08-10,3050.0,19.0,30.0,clear
+262,Soyabean,Kalamnuri,2016-08-10,3000.0,5.0,30.0,clear
+263,Soyabean,Sengoan,2016-08-10,2800.0,6.0,30.0,clear
+264,Soyabean,Akhadabalapur,2016-10-10,2850.0,12.0,31.2,clear
+265,Soyabean,Basmat,2016-10-10,2825.0,24.0,31.2,clear
+266,Soyabean,Basmat(Kurunda),2016-10-10,2825.0,25.0,31.2,clear
+267,Soyabean,Sengoan,2016-10-10,3050.0,12.0,31.2,clear
+268,Soyabean,Akhadabalapur,2016-10-13,2825.0,15.0,30.2,clear
+269,Soyabean,Basmat,2016-10-13,2850.0,85.0,30.2,clear
+270,Soyabean,Basmat(Kurunda),2016-10-13,2850.0,44.0,30.2,clear
+271,Soyabean,Hingoli,2016-10-13,2920.0,100.0,30.2,clear
+272,Soyabean,Hingoli(Kanegoan Naka),2016-10-13,3085.0,19.0,30.2,clear
+273,Soyabean,Sengoan,2016-10-13,3050.0,33.0,30.2,clear
+274,Soyabean,Akhadabalapur,2016-10-14,2825.0,21.0,30.6,clear
+275,Soyabean,Basmat,2016-10-14,2825.0,146.0,30.6,clear
+276,Soyabean,Basmat(Kurunda),2016-10-14,2850.0,29.0,30.6,clear
+277,Soyabean,Jawala-Bajar,2016-10-14,3000.0,41.0,30.6,clear
+278,Soyabean,Kalamnuri,2016-10-14,2800.0,20.0,30.6,clear
+279,Soyabean,Sengoan,2016-10-14,2900.0,18.0,30.6,clear
+280,Soyabean,Akhadabalapur,2016-10-15,2825.0,10.0,31.2,clear
+281,Soyabean,Basmat,2016-10-15,2830.0,85.0,31.2,clear
+282,Soyabean,Basmat(Kurunda),2016-10-15,2840.0,34.0,31.2,clear
+283,Soyabean,Hingoli,2016-10-15,2900.0,110.0,31.2,clear
+284,Soyabean,Jawala-Bajar,2016-10-15,3100.0,32.0,31.2,clear
+285,Soyabean,Kalamnuri,2016-10-15,2800.0,6.0,31.2,clear
+286,Soyabean,Sengoan,2016-10-15,2900.0,29.0,31.2,clear
+287,Soyabean,Akhadabalapur,2016-10-17,2860.0,23.0,29.8,clear
+288,Soyabean,Basmat,2016-10-17,2850.0,146.0,29.8,clear
+289,Soyabean,Basmat(Kurunda),2016-10-17,2800.0,33.0,29.8,clear
+290,Soyabean,Kalamnuri,2016-10-17,2800.0,20.0,29.8,clear
+291,Soyabean,Sengoan,2016-10-17,2950.0,65.0,29.8,clear
+292,Soyabean,Akhadabalapur,2016-10-18,2825.0,18.0,31.2,clear
+293,Soyabean,Hingoli,2016-10-18,2800.0,144.0,31.2,clear
+294,Soyabean,Jawala-Bajar,2016-10-18,2800.0,100.0,31.2,clear
+295,Soyabean,Kalamnuri,2016-10-18,2800.0,22.0,31.2,clear
+296,Soyabean,Sengoan,2016-10-18,2900.0,61.0,31.2,clear
+297,Soyabean,Akhadabalapur,2016-10-19,2825.0,24.0,31.4,clear
+298,Soyabean,Hingoli,2016-10-19,2730.0,140.0,31.4,clear
+299,Soyabean,Jawala-Bajar,2016-10-19,2850.0,145.0,31.4,clear
+300,Soyabean,Kalamnuri,2016-10-19,2800.0,20.0,31.4,clear
+301,Soyabean,Sengoan,2016-10-19,2900.0,50.0,31.4,clear
+302,Soyabean,Akhadabalapur,2016-10-20,2825.0,40.0,31.4,clear
+303,Soyabean,Basmat,2016-10-20,2600.0,76.0,31.4,clear
+304,Soyabean,Basmat(Kurunda),2016-10-20,2500.0,60.0,31.4,clear
+305,Soyabean,Hingoli,2016-10-20,2900.0,150.0,31.4,clear
+306,Soyabean,Jawala-Bajar,2016-10-20,2800.0,90.0,31.4,clear
+307,Soyabean,Kalamnuri,2016-10-20,2800.0,40.0,31.4,clear
+308,Soyabean,Sengoan,2016-10-20,2900.0,55.0,31.4,clear
+309,Soyabean,Akhadabalapur,2016-10-21,2820.0,29.0,30.8,clear
+310,Soyabean,Basmat,2016-10-21,2600.0,118.0,30.8,clear
+311,Soyabean,Basmat(Kurunda),2016-10-21,2550.0,62.0,30.8,clear
+312,Soyabean,Hingoli,2016-10-21,2850.0,200.0,30.8,clear
+313,Soyabean,Jawala-Bajar,2016-10-21,2900.0,135.0,30.8,clear
+314,Soyabean,Kalamnuri,2016-10-21,2800.0,40.0,30.8,clear
+315,Soyabean,Sengoan,2016-10-21,2750.0,60.0,30.8,clear
+316,Soyabean,Akhadabalapur,2016-10-22,2835.0,31.0,28.4,clear
+317,Soyabean,Basmat,2016-10-22,2600.0,116.0,28.4,clear
+318,Soyabean,Hingoli,2016-10-22,2800.0,280.0,28.4,clear
+319,Soyabean,Jawala-Bajar,2016-10-22,2900.0,165.0,28.4,clear
+320,Soyabean,Kalamnuri,2016-10-22,2800.0,39.0,28.4,clear
+321,Soyabean,Sengoan,2016-10-22,2701.0,85.0,28.4,clear
+322,Soyabean,Akhadabalapur,2016-10-24,2750.0,50.0,30.2,clear
+323,Soyabean,Hingoli,2016-10-24,2800.0,340.0,30.2,clear
+324,Soyabean,Jawala-Bajar,2016-10-24,2800.0,220.0,30.2,clear
+325,Soyabean,Kalamnuri,2016-10-24,2800.0,50.0,30.2,clear
+326,Soyabean,Sengoan,2016-10-24,2700.0,130.0,30.2,clear
+327,Soyabean,Akhadabalapur,2016-10-27,2825.0,22.0,31.2,clear
+328,Soyabean,Basmat(Kurunda),2016-10-27,2700.0,72.0,31.2,clear
+329,Soyabean,Jawala-Bajar,2016-10-27,2650.0,150.0,31.2,clear
+330,Soyabean,Kalamnuri,2016-10-27,2600.0,65.0,31.2,clear
+331,Soyabean,Sengoan,2016-10-27,2825.0,85.0,31.2,clear
+332,Soyabean,Akhadabalapur,2016-10-28,2785.0,12.0,29.6,clear
+333,Soyabean,Jawala-Bajar,2016-10-28,2650.0,115.0,29.6,clear
+334,Soyabean,Kalamnuri,2016-10-28,2600.0,45.0,29.6,clear
+335,Soyabean,Sengoan,2016-10-28,2825.0,64.0,29.6,clear
+336,Soyabean,Akhadabalapur,2016-10-29,2775.0,15.0,29.8,clear
+337,Soyabean,Kalamnuri,2016-10-29,2700.0,14.0,29.8,clear
+338,Soyabean,Akhadabalapur,2016-02-11,2825.0,30.0,31.6,clear
+339,Soyabean,Basmat,2016-02-11,2700.0,71.0,31.6,clear
+340,Soyabean,Hingoli,2016-02-11,2930.0,63.0,31.6,clear
+341,Soyabean,Jawala-Bajar,2016-02-11,2650.0,90.0,31.6,clear
+342,Soyabean,Kalamnuri,2016-02-11,2600.0,40.0,31.6,clear
+343,Soyabean,Sengoan,2016-02-11,2825.0,75.0,31.6,clear
+344,Soyabean,Akhadabalapur,2016-03-11,2825.0,24.0,36.7,clear
+345,Soyabean,Basmat,2016-03-11,2850.0,138.0,36.7,clear
+346,Soyabean,Basmat(Kurunda),2016-03-11,2790.0,34.0,36.7,clear
+347,Soyabean,Hingoli,2016-03-11,2910.0,88.0,36.7,clear
+348,Soyabean,Jawala-Bajar,2016-03-11,2650.0,75.0,36.7,clear
+349,Soyabean,Kalamnuri,2016-03-11,2700.0,22.0,36.7,clear
+350,Soyabean,Sengoan,2016-03-11,2815.0,109.0,36.7,clear
+351,Soyabean,Akhadabalapur,2016-04-11,2813.0,48.0,40.4,clear
+352,Soyabean,Basmat,2016-04-11,2790.0,51.0,40.4,clear
+353,Soyabean,Basmat(Kurunda),2016-04-11,2700.0,39.0,40.4,clear
+354,Soyabean,Hingoli,2016-04-11,2900.0,237.0,40.4,clear
+355,Soyabean,Hingoli(Kanegoan Naka),2016-04-11,2865.0,4.0,40.4,clear
+356,Soyabean,Jawala-Bajar,2016-04-11,2750.0,110.0,40.4,clear
+357,Soyabean,Kalamnuri,2016-04-11,2650.0,50.0,40.4,clear
+358,Soyabean,Sengoan,2016-04-11,2810.0,170.0,40.4,clear
+359,Soyabean,Akhadabalapur,2016-05-11,2825.0,36.0,39.6,clear
+360,Soyabean,Basmat,2016-05-11,2800.0,138.0,39.6,clear
+361,Soyabean,Basmat(Kurunda),2016-05-11,2790.0,44.0,39.6,clear
+362,Soyabean,Hingoli,2016-05-11,2800.0,230.0,39.6,clear
+363,Soyabean,Hingoli(Kanegoan Naka),2016-05-11,2865.0,10.0,39.6,clear
+364,Soyabean,Jawala-Bajar,2016-05-11,2800.0,130.0,39.6,clear
+365,Soyabean,Kalamnuri,2016-05-11,2700.0,33.0,39.6,clear
+366,Soyabean,Sengoan,2016-05-11,2800.0,172.0,39.6,clear
+367,Soyabean,Akhadabalapur,2016-07-11,2825.0,15.0,24.4,clear
+368,Soyabean,Basmat,2016-07-11,2730.0,74.0,24.4,clear
+369,Soyabean,Hingoli,2016-07-11,2790.0,380.0,24.4,clear
+370,Soyabean,Hingoli(Kanegoan Naka),2016-07-11,2790.0,10.0,24.4,clear
+371,Soyabean,Jawala-Bajar,2016-07-11,2850.0,153.0,24.4,clear
+372,Soyabean,Kalamnuri,2016-07-11,2600.0,34.0,24.4,clear
+373,Soyabean,Sengoan,2016-07-11,2800.0,220.0,24.4,clear
+374,Soyabean,Akhadabalapur,2016-08-11,2825.0,16.0,30.2,clear
+375,Soyabean,Hingoli,2016-08-11,2740.0,400.0,30.2,clear
+376,Soyabean,Hingoli(Kanegoan Naka),2016-08-11,2780.0,1.0,30.2,clear
+377,Soyabean,Jawala-Bajar,2016-08-11,2750.0,135.0,30.2,clear
+378,Soyabean,Kalamnuri,2016-08-11,2600.0,59.0,30.2,clear
+379,Soyabean,Sengoan,2016-08-11,2776.0,18.0,30.2,clear
+380,Soyabean,Akhadabalapur,2016-11-17,2800.0,1.0,28.2,clear
+381,Soyabean,Basmat,2016-11-17,2800.0,22.0,28.2,clear
+382,Soyabean,Sengoan,2016-11-17,2800.0,20.0,28.2,clear
+383,Soyabean,Akhadabalapur,2016-11-18,2825.0,4.0,27.6,clear
+384,Soyabean,Basmat,2016-11-18,2820.0,35.0,27.6,clear
+385,Soyabean,Jawala-Bajar,2016-11-18,2800.0,5.0,27.6,clear
+386,Soyabean,Sengoan,2016-11-18,2800.0,23.0,27.6,clear
+387,Soyabean,Akhadabalapur,2016-11-19,2800.0,4.0,28.2,clear
+388,Soyabean,Sengoan,2016-11-19,2800.0,48.0,28.2,clear
+389,Soyabean,Akhadabalapur,2016-11-21,2800.0,4.0,29.2,clear
+390,Soyabean,Basmat,2016-11-21,2850.0,25.0,29.2,clear
+391,Soyabean,Jawala-Bajar,2016-11-21,2775.0,9.0,29.2,clear
+392,Soyabean,Sengoan,2016-11-21,2745.0,71.0,29.2,clear
+393,Soyabean,Akhadabalapur,2016-11-22,2800.0,3.0,27.8,clear
+394,Soyabean,Basmat,2016-11-22,2800.0,29.0,27.8,clear
+395,Soyabean,Hingoli,2016-11-22,2920.0,64.0,27.8,clear
+396,Soyabean,Jawala-Bajar,2016-11-22,2800.0,17.0,27.8,clear
+397,Soyabean,Sengoan,2016-11-22,2795.0,18.0,27.8,clear
+398,Soyabean,Akhadabalapur,2016-11-23,2800.0,9.0,28.8,clear
+399,Soyabean,Hingoli,2016-11-23,3000.0,270.0,28.8,clear
+400,Soyabean,Hingoli(Kanegoan Naka),2016-11-23,2981.0,12.0,28.8,clear
+401,Soyabean,Jawala-Bajar,2016-11-23,2800.0,16.0,28.8,clear
+402,Soyabean,Sengoan,2016-11-23,2800.0,60.0,28.8,clear
+403,Soyabean,Akhadabalapur,2016-11-24,2820.0,11.0,28.8,clear
+404,Soyabean,Basmat,2016-11-24,2850.0,21.0,28.8,clear
+405,Soyabean,Hingoli,2016-11-24,2990.0,240.0,28.8,clear
+406,Soyabean,Hingoli(Kanegoan Naka),2016-11-24,2990.0,2.0,28.8,clear
+407,Soyabean,Jawala-Bajar,2016-11-24,2775.0,65.0,28.8,clear
+408,Soyabean,Sengoan,2016-11-24,2825.0,60.0,28.8,clear
+409,Soyabean,Akhadabalapur,2016-11-25,2825.0,9.0,27.6,clear
+410,Soyabean,Basmat,2016-11-25,2860.0,74.0,27.6,clear
+411,Soyabean,Hingoli,2016-11-25,2960.0,299.0,27.6,clear
+412,Soyabean,Hingoli(Kanegoan Naka),2016-11-25,2973.0,12.0,27.6,clear
+413,Soyabean,Jawala-Bajar,2016-11-25,2800.0,29.0,27.6,clear
+414,Soyabean,Sengoan,2016-11-25,2850.0,53.0,27.6,clear
+415,Soyabean,Akhadabalapur,2016-11-26,2810.0,8.0,29.2,clear
+416,Soyabean,Sengoan,2016-11-26,2825.0,69.0,29.2,clear
+417,Soyabean,Akhadabalapur,2016-11-29,2825.0,17.0,28.8,clear
+418,Soyabean,Basmat,2016-11-29,2838.0,46.0,28.8,clear
+419,Soyabean,Jawala-Bajar,2016-11-29,2775.0,31.0,28.8,clear
+420,Soyabean,Sengoan,2016-11-29,2840.0,144.0,28.8,clear
+421,Soyabean,Akhadabalapur,2016-11-30,2800.0,12.0,29.6,clear
+422,Soyabean,Basmat,2016-11-30,2790.0,60.0,29.6,clear
+423,Soyabean,Hingoli,2016-11-30,2960.0,500.0,29.6,clear
+424,Soyabean,Jawala-Bajar,2016-11-30,2750.0,48.0,29.6,clear
+425,Soyabean,Kalamnuri,2016-11-30,2700.0,5.0,29.6,clear
+426,Soyabean,Sengoan,2016-11-30,2790.0,54.0,29.6,clear
+427,Soyabean,Akhadabalapur,2016-06-12,2785.0,4.0,34.0,clear
+428,Soyabean,Basmat,2016-06-12,2820.0,45.0,34.0,clear
+429,Soyabean,Hingoli,2016-06-12,2922.0,415.0,34.0,clear
+430,Soyabean,Hingoli(Kanegoan Naka),2016-06-12,2875.0,224.0,34.0,clear
+431,Soyabean,Jawala-Bajar,2016-06-12,2775.0,19.0,34.0,clear
+432,Soyabean,Sengoan,2016-06-12,2825.0,128.0,34.0,clear
+433,Soyabean,Akhadabalapur,2016-07-12,2780.0,6.0,26.4,rain
+434,Soyabean,Basmat,2016-07-12,2840.0,70.0,26.4,rain
+435,Soyabean,Hingoli,2016-07-12,2850.0,455.0,26.4,rain
+436,Soyabean,Hingoli(Kanegoan Naka),2016-07-12,2750.0,189.0,26.4,rain
+437,Soyabean,Jawala-Bajar,2016-07-12,2775.0,25.0,26.4,rain
+438,Soyabean,Kalamnuri,2016-07-12,2700.0,12.0,26.4,rain
+439,Soyabean,Sengoan,2016-07-12,2801.0,107.0,26.4,rain
+440,Soyabean,Akhadabalapur,2016-09-12,2775.0,11.0,27.8,clear
+441,Soyabean,Basmat,2016-09-12,2800.0,31.0,27.8,clear
+442,Soyabean,Hingoli,2016-09-12,2826.0,405.0,27.8,clear
+443,Soyabean,Hingoli(Kanegoan Naka),2016-09-12,2730.0,164.0,27.8,clear
+444,Soyabean,Jawala-Bajar,2016-09-12,2700.0,28.0,27.8,clear
+445,Soyabean,Kalamnuri,2016-09-12,2700.0,50.0,27.8,clear
+446,Soyabean,Sengoan,2016-09-12,2820.0,121.0,27.8,clear
+447,Soyabean,Akhadabalapur,2016-12-17,2785.0,22.0,28.6,clear
+448,Soyabean,Hingoli,2016-12-17,2905.0,325.0,28.6,clear
+449,Soyabean,Hingoli(Kanegoan Naka),2016-12-17,2820.0,193.0,28.6,clear
+450,Soyabean,Sengoan,2016-12-17,2802.0,103.0,28.6,clear
+451,Soyabean,Akhadabalapur,2016-12-19,2785.0,5.0,26.8,clear
+452,Soyabean,Hingoli,2016-12-19,2885.0,506.0,26.8,clear
+453,Soyabean,Hingoli(Kanegoan Naka),2016-12-19,2825.0,147.0,26.8,clear
+454,Soyabean,Jawala-Bajar,2016-12-19,2700.0,35.0,26.8,clear
+455,Soyabean,Kalamnuri,2016-12-19,2700.0,15.0,26.8,clear
+456,Soyabean,Sengoan,2016-12-19,2801.0,96.0,26.8,clear
+457,Soyabean,Akhadabalapur,2016-12-20,2785.0,13.0,25.8,clear
+458,Soyabean,Hingoli,2016-12-20,2855.0,306.0,25.8,clear
+459,Soyabean,Hingoli(Kanegoan Naka),2016-12-20,2825.0,54.0,25.8,clear
+460,Soyabean,Jawala-Bajar,2016-12-20,2750.0,32.0,25.8,clear
+461,Soyabean,Kalamnuri,2016-12-20,2700.0,20.0,25.8,clear
+462,Soyabean,Sengoan,2016-12-20,2825.0,62.0,25.8,clear
+463,Soyabean,Akhadabalapur,2016-12-23,2785.0,9.0,25.4,clear
+464,Soyabean,Hingoli,2016-12-23,2860.0,151.0,25.4,clear
+465,Soyabean,Hingoli(Kanegoan Naka),2016-12-23,2850.0,14.0,25.4,clear
+466,Soyabean,Jawala-Bajar,2016-12-23,2800.0,35.0,25.4,clear
+467,Soyabean,Kalamnuri,2016-12-23,2750.0,10.0,25.4,clear
+468,Soyabean,Sengoan,2016-12-23,2810.0,61.0,25.4,clear
+469,Soyabean,Akhadabalapur,2016-12-24,2785.0,7.0,27.2,clear
+470,Soyabean,Hingoli(Kanegoan Naka),2016-12-24,2815.0,18.0,27.2,clear
+471,Soyabean,Jawala-Bajar,2016-12-24,2850.0,23.0,27.2,clear
+472,Soyabean,Sengoan,2016-12-24,2800.0,48.0,27.2,clear
+473,Soyabean,Akhadabalapur,2016-12-26,2785.0,4.0,25.6,clear
+474,Soyabean,Hingoli,2016-12-26,2852.0,206.0,25.6,clear
+475,Soyabean,Hingoli(Kanegoan Naka),2016-12-26,2855.0,21.0,25.6,clear
+476,Soyabean,Jawala-Bajar,2016-12-26,2800.0,33.0,25.6,clear
+477,Soyabean,Kalamnuri,2016-12-26,2600.0,15.0,25.6,clear
+478,Soyabean,Sengoan,2016-12-26,2800.0,78.0,25.6,clear
+479,Soyabean,Akhadabalapur,2016-12-30,2790.0,3.0,26.0,clear
+480,Soyabean,Basmat,2016-12-30,2850.0,48.0,26.0,clear
+481,Soyabean,Hingoli,2016-12-30,2860.0,151.0,26.0,clear
+482,Soyabean,Hingoli(Kanegoan Naka),2016-12-30,2820.0,79.0,26.0,clear
+483,Soyabean,Jawala-Bajar,2016-12-30,2800.0,24.0,26.0,clear
+484,Soyabean,Kalamnuri,2016-12-30,2700.0,20.0,26.0,clear
+485,Soyabean,Sengoan,2016-12-30,2810.0,54.0,26.0,clear
+486,Soyabean,Basmat,2016-02-01,3660.0,4.0,33.2,clear
+487,Soyabean,Hingoli,2016-02-01,3733.0,50.0,33.2,clear
+488,Soyabean,Kalamnuri,2016-02-01,3500.0,10.0,33.2,clear
+489,Soyabean,Sengoan,2016-02-01,3575.0,18.0,33.2,clear
+490,Soyabean,Basmat,2016-01-18,3540.0,4.0,29.2,clear
+491,Soyabean,Jawala-Bajar,2016-01-18,3640.0,6.0,29.2,clear
+492,Soyabean,Kalamnuri,2016-01-18,3650.0,2.0,29.2,clear
+493,Soyabean,Sengoan,2016-01-18,3650.0,17.0,29.2,clear
+494,Soyabean,Basmat,2016-01-21,3575.0,4.0,24.8,clear
+495,Soyabean,Jawala-Bajar,2016-01-21,3540.0,4.0,24.8,clear
+496,Soyabean,Kalamnuri,2016-01-21,3700.0,8.0,24.8,clear
+497,Soyabean,Sengoan,2016-01-21,3600.0,26.0,24.8,clear
+498,Soyabean,Basmat,2016-02-16,3650.0,4.0,33.8,clear
+499,Soyabean,Hingoli,2016-02-16,3770.0,69.0,33.8,clear
+500,Soyabean,Kalamnuri,2016-02-16,3700.0,6.0,33.8,clear
+501,Soyabean,Sengoan,2016-02-16,3650.0,18.0,33.8,clear
+502,Soyabean,Basmat,2016-02-18,3635.0,0.0,34.2,clear
+503,Soyabean,Hingoli,2016-02-18,3750.0,45.0,34.2,clear
+504,Soyabean,Sengoan,2016-02-18,3550.0,28.0,34.2,clear
+505,Soyabean,Basmat,2016-02-24,3610.0,2.0,36.2,clear
+506,Soyabean,Hingoli,2016-02-24,3625.0,70.0,36.2,clear
+507,Soyabean,Kalamnuri,2016-02-24,3600.0,4.0,36.2,clear
+508,Soyabean,Sengoan,2016-02-24,3550.0,10.0,36.2,clear
+509,Soyabean,Basmat,2016-02-29,3575.0,1.0,33.2,rain
+510,Soyabean,Hingoli,2016-02-29,3650.0,40.0,33.2,rain
+511,Soyabean,Kalamnuri,2016-02-29,3650.0,3.0,33.2,rain
+512,Soyabean,Sengoan,2016-02-29,3500.0,12.0,33.2,rain
+513,Soyabean,Basmat,2016-03-03,3400.0,6.0,33.2,clear
+514,Soyabean,Kalamnuri,2016-03-03,3640.0,1.0,33.2,clear
+515,Soyabean,Sengoan,2016-03-03,3475.0,7.0,33.2,clear
+516,Soyabean,Basmat,2016-03-14,3700.0,3.0,34.2,clear
+517,Soyabean,Hingoli,2016-03-14,3750.0,55.0,34.2,clear
+518,Soyabean,Sengoan,2016-03-14,3625.0,12.0,34.2,clear
+519,Soyabean,Basmat,2016-03-29,3825.0,3.0,39.2,clear
+520,Soyabean,Jawala-Bajar,2016-03-29,3850.0,1.0,39.2,clear
+521,Soyabean,Sengoan,2016-03-29,3775.0,16.0,39.2,clear
+522,Soyabean,Basmat,2016-05-30,3530.0,3.0,41.0,clear
+523,Soyabean,Hingoli,2016-05-30,3700.0,98.0,41.0,clear
+524,Soyabean,Jawala-Bajar,2016-05-30,3800.0,0.0,41.0,clear
+525,Soyabean,Sengoan,2016-05-30,3640.0,9.0,41.0,clear
+526,Soyabean,Basmat,2016-01-06,3680.0,2.0,29.0,clear
+527,Soyabean,Hingoli,2016-01-06,3800.0,73.0,29.0,clear
+528,Soyabean,Jawala-Bajar,2016-01-06,3790.0,7.0,29.0,clear
+529,Soyabean,Sengoan,2016-01-06,3700.0,4.0,29.0,clear
+530,Soyabean,Basmat,2016-06-06,3780.0,4.0,34.2,clear
+531,Soyabean,Hingoli,2016-06-06,3820.0,64.0,34.2,clear
+532,Soyabean,Jawala-Bajar,2016-06-06,3690.0,6.0,34.2,clear
+533,Soyabean,Sengoan,2016-06-06,3750.0,11.0,34.2,clear
+534,Soyabean,Basmat,2016-10-25,2500.0,143.0,30.8,clear
+535,Soyabean,Basmat(Kurunda),2016-10-25,2550.0,80.0,30.8,clear
+536,Soyabean,Hingoli,2016-10-25,2800.0,300.0,30.8,clear
+537,Soyabean,Jawala-Bajar,2016-10-25,2775.0,181.0,30.8,clear
+538,Soyabean,Kalamnuri,2016-10-25,2500.0,42.0,30.8,clear
+539,Soyabean,Sengoan,2016-10-25,2900.0,140.0,30.8,clear
+540,Soyabean,Basmat,2016-10-31,2700.0,154.0,29.8,clear
+541,Soyabean,Kalamnuri,2016-10-31,2600.0,43.0,29.8,clear
+542,Soyabean,Basmat,2016-01-11,2700.0,138.0,29.2,clear
+543,Soyabean,Basmat(Kurunda),2016-01-11,2700.0,45.0,29.2,clear
+544,Soyabean,Jawala-Bajar,2016-01-11,2650.0,125.0,29.2,clear
+545,Soyabean,Kalamnuri,2016-01-11,2700.0,40.0,29.2,clear
+546,Soyabean,Basmat,2016-11-28,2870.0,33.0,29.6,clear
+547,Soyabean,Jawala-Bajar,2016-11-28,2750.0,122.0,29.6,clear
+548,Soyabean,Sengoan,2016-11-28,2850.0,91.0,29.6,clear
+549,Soyabean,Basmat,2016-02-12,2800.0,51.0,32.8,clear
+550,Soyabean,Hingoli,2016-02-12,2870.0,300.0,32.8,clear
+551,Soyabean,Hingoli(Kanegoan Naka),2016-02-12,2815.0,213.0,32.8,clear
+552,Soyabean,Jawala-Bajar,2016-02-12,2700.0,43.0,32.8,clear
+553,Soyabean,Sengoan,2016-02-12,2800.0,158.0,32.8,clear
+554,Soyabean,Basmat,2016-03-12,2800.0,76.0,38.2,clear
+555,Soyabean,Hingoli,2016-03-12,2870.0,320.0,38.2,clear
+556,Soyabean,Hingoli(Kanegoan Naka),2016-03-12,2825.0,220.0,38.2,clear
+557,Soyabean,Jawala-Bajar,2016-03-12,2775.0,30.0,38.2,clear
+558,Soyabean,Sengoan,2016-03-12,2803.0,114.0,38.2,clear
+559,Soyabean,Basmat,2016-05-12,2800.0,31.0,41.2,clear
+560,Soyabean,Hingoli(Kanegoan Naka),2016-05-12,2875.0,194.0,41.2,clear
+561,Soyabean,Jawala-Bajar,2016-05-12,2775.0,31.0,41.2,clear
+562,Soyabean,Sengoan,2016-05-12,2800.0,5.0,41.2,clear
+563,Soyabean,Basmat,2016-08-12,2810.0,39.0,31.0,clear
+564,Soyabean,Hingoli,2016-08-12,2805.0,467.0,31.0,clear
+565,Soyabean,Hingoli(Kanegoan Naka),2016-08-12,2725.0,198.0,31.0,clear
+566,Soyabean,Jawala-Bajar,2016-08-12,2750.0,26.0,31.0,clear
+567,Soyabean,Kalamnuri,2016-08-12,2700.0,10.0,31.0,clear
+568,Soyabean,Sengoan,2016-08-12,2780.0,55.0,31.0,clear
+569,Soyabean,Basmat,2016-12-12,2825.0,6.0,28.2,clear
+570,Soyabean,Hingoli(Kanegoan Naka),2016-12-12,2810.0,42.0,28.2,clear
+571,Soyabean,Basmat,2016-12-13,2830.0,46.0,28.0,clear
+572,Soyabean,Hingoli,2016-12-13,2805.0,256.0,28.0,clear
+573,Soyabean,Hingoli(Kanegoan Naka),2016-12-13,2790.0,164.0,28.0,clear
+574,Soyabean,Kalamnuri,2016-12-13,2700.0,15.0,28.0,clear
+575,Soyabean,Sengoan,2016-12-13,2810.0,77.0,28.0,clear
+576,Soyabean,Basmat,2016-12-15,2830.0,46.0,28.4,clear
+577,Soyabean,Hingoli,2016-12-15,2850.0,345.0,28.4,clear
+578,Soyabean,Hingoli(Kanegoan Naka),2016-12-15,2815.0,187.0,28.4,clear
+579,Soyabean,Jawala-Bajar,2016-12-15,2700.0,30.0,28.4,clear
+580,Soyabean,Kalamnuri,2016-12-15,2700.0,20.0,28.4,clear
+581,Soyabean,Sengoan,2016-12-15,2825.0,72.0,28.4,clear
+582,Soyabean,Basmat,2016-12-16,2820.0,61.0,28.2,clear
+583,Soyabean,Hingoli,2016-12-16,2835.0,306.0,28.2,clear
+584,Soyabean,Hingoli(Kanegoan Naka),2016-12-16,2810.0,208.0,28.2,clear
+585,Soyabean,Jawala-Bajar,2016-12-16,2700.0,33.0,28.2,clear
+586,Soyabean,Kalamnuri,2016-12-16,2700.0,15.0,28.2,clear
+587,Soyabean,Sengoan,2016-12-16,2830.0,105.0,28.2,clear
+588,Soyabean,Basmat,2016-12-22,2815.0,6.0,27.2,clear
+589,Soyabean,Hingoli,2016-12-22,2785.0,219.0,27.2,clear
+590,Soyabean,Hingoli(Kanegoan Naka),2016-12-22,2850.0,16.0,27.2,clear
+591,Soyabean,Jawala-Bajar,2016-12-22,2775.0,39.0,27.2,clear
+592,Soyabean,Kalamnuri,2016-12-22,2700.0,10.0,27.2,clear
+593,Soyabean,Sengoan,2016-12-22,2825.0,55.0,27.2,clear
+594,Soyabean,Basmat,2016-12-28,2820.0,63.0,24.6,clear
+595,Soyabean,Hingoli,2016-12-28,2905.0,247.0,24.6,clear
+596,Soyabean,Hingoli(Kanegoan Naka),2016-12-28,2867.0,98.0,24.6,clear
+597,Soyabean,Jawala-Bajar,2016-12-28,2800.0,20.0,24.6,clear
+598,Soyabean,Kalamnuri,2016-12-28,2700.0,5.0,24.6,clear
+599,Soyabean,Sengoan,2016-12-28,2830.0,73.0,24.6,clear
+600,Soyabean,Basmat(Kurunda),2016-09-11,2680.0,22.0,29.8,clear
+601,Soyabean,Hingoli,2016-09-11,2740.0,280.0,29.8,clear
+602,Soyabean,Hingoli(Kanegoan Naka),2016-09-11,2785.0,10.0,29.8,clear
+603,Soyabean,Jawala-Bajar,2016-09-11,2750.0,131.0,29.8,clear
+604,Soyabean,Kalamnuri,2016-09-11,2500.0,39.0,29.8,clear
+605,Soyabean,Sengoan,2016-09-11,2800.0,45.0,29.8,clear
+606,Soyabean,Hingoli,2016-01-01,3772.0,82.0,30.6,clear
+607,Soyabean,Jawala-Bajar,2016-01-01,3640.0,10.0,30.6,clear
+608,Soyabean,Sengoan,2016-01-01,3550.0,14.0,30.6,clear
+609,Soyabean,Hingoli,2016-01-27,3740.0,105.0,31.2,clear
+610,Soyabean,Jawala-Bajar,2016-01-27,3600.0,8.0,31.2,clear
+611,Soyabean,Kalamnuri,2016-01-27,3700.0,5.0,31.2,clear
+612,Soyabean,Sengoan,2016-01-27,3650.0,10.0,31.2,clear
+613,Soyabean,Hingoli,2016-01-28,3765.0,65.0,28.2,clear
+614,Soyabean,Jawala-Bajar,2016-01-28,3640.0,7.0,28.2,clear
+615,Soyabean,Kalamnuri,2016-01-28,3750.0,10.0,28.2,clear
+616,Soyabean,Sengoan,2016-01-28,3675.0,11.0,28.2,clear
+617,Soyabean,Hingoli,2016-03-02,3840.0,85.0,32.8,clear
+618,Soyabean,Jawala-Bajar,2016-03-02,3680.0,5.0,32.8,clear
+619,Soyabean,Sengoan,2016-03-02,3650.0,4.0,32.8,clear
+620,Soyabean,Hingoli,2016-09-02,3751.0,100.0,29.6,clear
+621,Soyabean,Kalamnuri,2016-09-02,3700.0,3.0,29.6,clear
+622,Soyabean,Sengoan,2016-09-02,3650.0,21.0,29.6,clear
+623,Soyabean,Hingoli,2016-10-02,3700.0,97.0,27.2,clear
+624,Soyabean,Kalamnuri,2016-10-02,3710.0,4.0,27.2,clear
+625,Soyabean,Sengoan,2016-10-02,3650.0,20.0,27.2,clear
+626,Soyabean,Hingoli,2016-12-02,3815.0,65.0,27.2,clear
+627,Soyabean,Kalamnuri,2016-12-02,3700.0,1.0,27.2,clear
+628,Soyabean,Sengoan,2016-12-02,3600.0,17.0,27.2,clear
+629,Soyabean,Hingoli,2016-02-13,3750.0,78.0,30.2,clear
+630,Soyabean,Sengoan,2016-02-13,3600.0,21.0,30.2,clear
+631,Soyabean,Hingoli,2016-02-15,3815.0,87.0,33.6,clear
+632,Soyabean,Sengoan,2016-02-15,3550.0,19.0,33.6,clear
+633,Soyabean,Hingoli,2016-02-20,3770.0,80.0,33.8,clear
+634,Soyabean,Sengoan,2016-02-20,3550.0,36.0,33.8,clear
+635,Soyabean,Hingoli,2016-02-23,3715.0,67.0,37.2,clear
+636,Soyabean,Kalamnuri,2016-02-23,3640.0,6.0,37.2,clear
+637,Soyabean,Sengoan,2016-02-23,3550.0,23.0,37.2,clear
+638,Soyabean,Hingoli,2016-02-26,3640.0,43.0,35.2,clear
+639,Soyabean,Jawala-Bajar,2016-02-26,3650.0,0.0,35.2,clear
+640,Soyabean,Sengoan,2016-02-26,3520.0,11.0,35.2,clear
+641,Soyabean,Hingoli,2016-02-27,3625.0,30.0,35.2,clear
+642,Soyabean,Sengoan,2016-02-27,3500.0,5.0,35.2,clear
+643,Soyabean,Hingoli,2016-01-03,3600.0,73.0,28.6,clear
+644,Soyabean,Kalamnuri,2016-01-03,3660.0,2.0,28.6,clear
+645,Soyabean,Sengoan,2016-01-03,3500.0,4.0,28.6,clear
+646,Soyabean,Hingoli,2016-11-03,3700.0,48.0,29.2,clear
+647,Soyabean,Sengoan,2016-11-03,3550.0,13.0,29.2,clear
+648,Soyabean,Hingoli,2016-03-16,3680.0,70.0,36.2,clear
+649,Soyabean,Sengoan,2016-03-16,3575.0,4.0,36.2,clear
+650,Soyabean,Hingoli,2016-01-04,4039.0,55.0,28.6,clear
+651,Soyabean,Jawala-Bajar,2016-01-04,3920.0,8.0,28.6,clear
+652,Soyabean,Sengoan,2016-01-04,3775.0,2.0,28.6,clear
+653,Soyabean,Hingoli,2016-05-04,4061.0,182.0,42.2,clear
+654,Soyabean,Sengoan,2016-05-04,3850.0,38.0,42.2,clear
+655,Soyabean,Hingoli,2016-09-04,4001.0,133.0,29.2,clear
+656,Soyabean,Sengoan,2016-09-04,3850.0,32.0,29.2,clear
+657,Soyabean,Hingoli,2016-11-04,4085.0,153.0,30.2,clear
+658,Soyabean,Jawala-Bajar,2016-11-04,4000.0,1.0,30.2,clear
+659,Soyabean,Sengoan,2016-11-04,3850.0,40.0,30.2,clear
+660,Soyabean,Hingoli,2016-12-04,4025.0,146.0,28.8,clear
+661,Soyabean,Jawala-Bajar,2016-12-04,3990.0,5.0,28.8,clear
+662,Soyabean,Sengoan,2016-12-04,3875.0,50.0,28.8,clear
+663,Soyabean,Hingoli,2016-04-29,3871.0,25.0,41.8,clear
+664,Soyabean,Hingoli,2016-04-30,3940.0,25.0,42.4,clear
+665,Soyabean,Hingoli,2016-02-05,3971.0,47.0,30.6,clear
+666,Soyabean,Jawala-Bajar,2016-02-05,3670.0,5.0,30.6,clear
+667,Soyabean,Hingoli,2016-03-05,3980.0,58.0,34.2,clear
+668,Soyabean,Hingoli,2016-04-05,4036.0,40.0,38.4,clear
+669,Soyabean,Jawala-Bajar,2016-04-05,3760.0,5.0,38.4,clear
+670,Soyabean,Sengoan,2016-04-05,3850.0,1.0,38.4,clear
+671,Soyabean,Hingoli,2016-05-05,3909.0,48.0,40.8,clear
+672,Soyabean,Jawala-Bajar,2016-05-05,3890.0,6.0,40.8,clear
+673,Soyabean,Sengoan,2016-05-05,3850.0,3.0,40.8,clear
+674,Soyabean,Hingoli,2016-10-05,3963.0,70.0,29.2,clear
+675,Soyabean,Jawala-Bajar,2016-10-05,3800.0,0.0,29.2,clear
+676,Soyabean,Hingoli,2016-05-23,3922.0,50.0,41.2,clear
+677,Soyabean,Jawala-Bajar,2016-05-23,3880.0,5.0,41.2,clear
+678,Soyabean,Sengoan,2016-05-23,3750.0,8.0,41.2,clear
+679,Soyabean,Hingoli,2016-05-24,3862.0,47.0,39.0,clear
+680,Soyabean,Jawala-Bajar,2016-05-24,3850.0,0.0,39.0,clear
+681,Soyabean,Sengoan,2016-05-24,3750.0,16.0,39.0,clear
+682,Soyabean,Hingoli,2016-05-27,3809.0,87.0,41.4,clear
+683,Soyabean,Jawala-Bajar,2016-05-27,3790.0,7.0,41.4,clear
+684,Soyabean,Sengoan,2016-05-27,3750.0,14.0,41.4,clear
+685,Soyabean,Hingoli,2016-02-06,3805.0,24.0,32.8,clear
+686,Soyabean,Jawala-Bajar,2016-02-06,3700.0,5.0,32.8,clear
+687,Soyabean,Sengoan,2016-02-06,3600.0,1.0,32.8,clear
+688,Soyabean,Hingoli,2016-03-06,3802.0,63.0,34.6,clear
+689,Soyabean,Jawala-Bajar,2016-03-06,3720.0,5.0,34.6,clear
+690,Soyabean,Sengoan,2016-03-06,3675.0,10.0,34.6,clear
+691,Soyabean,Hingoli,2016-07-06,3771.0,34.0,28.6,clear
+692,Soyabean,Jawala-Bajar,2016-07-06,3740.0,4.0,28.6,clear
+693,Soyabean,Sengoan,2016-07-06,3700.0,13.0,28.6,clear
+694,Soyabean,Hingoli,2016-08-06,3791.0,29.0,28.4,clear
+695,Soyabean,Jawala-Bajar,2016-08-06,3750.0,0.0,28.4,clear
+696,Soyabean,Sengoan,2016-08-06,3700.0,16.0,28.4,clear
+697,Soyabean,Hingoli,2016-10-06,3861.0,31.0,30.2,clear
+698,Soyabean,Jawala-Bajar,2016-10-06,3690.0,5.0,30.2,clear
+699,Soyabean,Sengoan,2016-10-06,3700.0,19.0,30.2,clear
+700,Soyabean,Hingoli,2016-11-06,3950.0,39.0,29.8,clear
+701,Soyabean,Sengoan,2016-11-06,3750.0,19.0,29.8,clear
+702,Soyabean,Hingoli,2016-06-14,3837.0,41.0,39.0,clear
+703,Soyabean,Jawala-Bajar,2016-06-14,3840.0,5.0,39.0,clear
+704,Soyabean,Sengoan,2016-06-14,3721.0,7.0,39.0,clear
+705,Soyabean,Hingoli,2016-06-15,3821.0,24.0,38.8,clear
+706,Soyabean,Sengoan,2016-06-15,3700.0,14.0,38.8,clear
+707,Soyabean,Hingoli,2016-06-22,3741.0,18.0,28.8,clear
+708,Soyabean,Jawala-Bajar,2016-06-22,3750.0,0.0,28.8,clear
+709,Soyabean,Sengoan,2016-06-22,3700.0,10.0,28.8,clear
+710,Soyabean,Hingoli,2016-06-23,3747.0,20.0,33.8,clear
+711,Soyabean,Jawala-Bajar,2016-06-23,3740.0,7.0,33.8,clear
+712,Soyabean,Sengoan,2016-06-23,3650.0,9.0,33.8,clear
+713,Soyabean,Hingoli,2016-06-24,3700.0,21.0,33.2,clear
+714,Soyabean,Jawala-Bajar,2016-06-24,3690.0,5.0,33.2,clear
+715,Soyabean,Sengoan,2016-06-24,3600.0,6.0,33.2,clear
+716,Soyabean,Hingoli,2016-06-25,3725.0,30.0,34.4,clear
+717,Soyabean,Sengoan,2016-06-25,3675.0,5.0,34.4,clear
+718,Soyabean,Hingoli,2016-06-27,3820.0,32.0,33.4,clear
+719,Soyabean,Jawala-Bajar,2016-06-27,3750.0,0.0,33.4,clear
+720,Soyabean,Sengoan,2016-06-27,3700.0,1.0,33.4,clear
+721,Soyabean,Hingoli,2016-06-28,3835.0,38.0,31.8,clear
+722,Soyabean,Jawala-Bajar,2016-06-28,3740.0,7.0,31.8,clear
+723,Soyabean,Sengoan,2016-06-28,3700.0,2.0,31.8,clear
+724,Soyabean,Hingoli,2016-06-29,3850.0,35.0,27.6,clear
+725,Soyabean,Jawala-Bajar,2016-06-29,3660.0,4.0,27.6,clear
+726,Soyabean,Sengoan,2016-06-29,3700.0,1.0,27.6,clear
+727,Soyabean,Hingoli,2016-06-30,3750.0,12.0,27.8,clear
+728,Soyabean,Jawala-Bajar,2016-06-30,3740.0,4.0,27.8,clear
+729,Soyabean,Sengoan,2016-06-30,3750.0,8.0,27.8,clear
+730,Soyabean,Hingoli,2016-05-07,3860.0,160.0,38.2,clear
+731,Soyabean,Sengoan,2016-05-07,3700.0,4.0,38.2,clear
+732,Soyabean,Hingoli,2016-08-07,3672.0,40.0,29.6,clear
+733,Soyabean,Jawala-Bajar,2016-08-07,3670.0,4.0,29.6,clear
+734,Soyabean,Sengoan,2016-08-07,3575.0,8.0,29.6,clear
+735,Soyabean,Hingoli,2016-09-07,3644.0,51.0,29.2,clear
+736,Soyabean,Sengoan,2016-09-07,3650.0,3.0,29.2,clear
+737,Soyabean,Hingoli,2016-10-08,3611.0,47.0,30.6,clear
+738,Soyabean,Sengoan,2016-10-08,3500.0,6.0,30.6,clear
+739,Soyabean,Hingoli,2016-11-08,3605.0,77.0,29.2,clear
+740,Soyabean,Hingoli,2016-08-13,3437.0,100.0,29.4,clear
+741,Soyabean,Sengoan,2016-08-13,3450.0,12.0,29.4,clear
+742,Soyabean,Hingoli,2016-08-30,3271.0,35.0,29.2,clear
+743,Soyabean,Sengoan,2016-08-30,3100.0,1.0,29.2,clear
+744,Soyabean,Hingoli,2016-03-09,3350.0,22.0,35.2,clear
+745,Soyabean,Sengoan,2016-03-09,3100.0,4.0,35.2,clear
+746,Soyabean,Hingoli,2016-07-09,3260.0,62.0,25.4,clear
+747,Soyabean,Sengoan,2016-07-09,3100.0,4.0,25.4,clear
+748,Soyabean,Hingoli,2016-09-20,3406.0,29.0,27.0,clear
+749,Soyabean,Hingoli,2016-09-21,3380.0,17.0,29.4,clear
+750,Soyabean,Hingoli,2016-09-23,3380.0,29.0,27.0,rain
+751,Soyabean,Sengoan,2016-09-23,3200.0,1.0,27.0,rain
+752,Soyabean,Hingoli,2016-09-26,3280.0,48.0,29.8,clear
+753,Soyabean,Sengoan,2016-09-26,3100.0,5.0,29.8,clear
+754,Soyabean,Hingoli,2016-09-29,3325.0,40.0,30.4,clear
+755,Soyabean,Sengoan,2016-09-29,3100.0,3.0,30.4,clear
+756,Soyabean,Hingoli,2016-03-10,3325.0,44.0,36.4,clear
+757,Soyabean,Hingoli(Kanegoan Naka),2016-03-10,3250.0,12.0,36.4,clear
+758,Soyabean,Hingoli,2016-04-10,3350.0,41.0,40.6,clear
+759,Soyabean,Hingoli,2016-05-10,3340.0,15.0,39.4,clear
+760,Soyabean,Hingoli(Kanegoan Naka),2016-05-10,3000.0,13.0,39.4,clear
+761,Soyabean,Jawala-Bajar,2016-05-10,2900.0,14.0,39.4,clear
+762,Soyabean,Hingoli,2016-01-12,2950.0,405.0,29.2,clear
+763,Soyabean,Hingoli(Kanegoan Naka),2016-01-12,2850.0,178.0,29.2,clear
+764,Soyabean,Jawala-Bajar,2016-01-12,2700.0,29.0,29.2,clear
+765,Soyabean,Sengoan,2016-01-12,2825.0,145.0,29.2,clear
+766,Soyabean,Hingoli,2016-10-12,2775.0,410.0,28.8,clear
+767,Soyabean,Hingoli(Kanegoan Naka),2016-10-12,2800.0,177.0,28.8,clear
+768,Soyabean,Sengoan,2016-10-12,2780.0,61.0,28.8,clear
+769,Soyabean,Hingoli,2016-12-14,2850.0,159.0,26.2,clear
+770,Soyabean,Jawala-Bajar,2016-12-14,2750.0,20.0,26.2,clear
+771,Soyabean,Kalamnuri,2016-12-14,2700.0,5.0,26.2,clear
+772,Soyabean,Sengoan,2016-12-14,2810.0,77.0,26.2,clear
+773,Soyabean,Hingoli,2016-12-21,2826.0,366.0,26.2,clear
+774,Soyabean,Hingoli(Kanegoan Naka),2016-12-21,2800.0,65.0,26.2,clear
+775,Soyabean,Jawala-Bajar,2016-12-21,2800.0,39.0,26.2,clear
+776,Soyabean,Kalamnuri,2016-12-21,2750.0,15.0,26.2,clear
+777,Soyabean,Sengoan,2016-12-21,2825.0,56.0,26.2,clear
+778,Soyabean,Hingoli,2016-12-27,2890.0,246.0,24.6,clear
+779,Soyabean,Hingoli(Kanegoan Naka),2016-12-27,2890.0,15.0,24.6,clear
+780,Soyabean,Jawala-Bajar,2016-12-27,2820.0,29.0,24.6,clear
+781,Soyabean,Kalamnuri,2016-12-27,2600.0,5.0,24.6,clear
+782,Soyabean,Sengoan,2016-12-27,2810.0,58.0,24.6,clear
+783,Soyabean,Hingoli,2016-12-31,2880.0,143.0,27.6,clear
+784,Soyabean,Hingoli(Kanegoan Naka),2016-12-31,2880.0,42.0,27.6,clear
+785,Soyabean,Jawala-Bajar,2016-12-31,2800.0,37.0,27.6,clear
+786,Soyabean,Kalamnuri,2016-12-31,2700.0,40.0,27.6,clear
+787,Soyabean,Sengoan,2016-12-31,2800.0,26.0,27.6,clear
+788,Soyabean,Jawala-Bajar,2016-03-01,3650.0,12.0,32.8,clear
+789,Soyabean,Kalamnuri,2016-03-01,3500.0,11.0,32.8,clear
+790,Soyabean,Jawala-Bajar,2016-04-01,3650.0,1.0,39.8,clear
+791,Soyabean,Kalamnuri,2016-04-01,3500.0,7.0,39.8,clear
+792,Soyabean,Sengoan,2016-04-01,3575.0,15.0,39.8,clear
+793,Soyabean,Jawala-Bajar,2016-05-01,3620.0,4.0,41.0,clear
+794,Soyabean,Sengoan,2016-05-01,3600.0,31.0,41.0,clear
+795,Soyabean,Jawala-Bajar,2016-07-01,3500.0,9.0,30.0,clear
+796,Soyabean,Kalamnuri,2016-07-01,3500.0,21.0,30.0,clear
+797,Soyabean,Sengoan,2016-07-01,3600.0,13.0,30.0,clear
+798,Soyabean,Jawala-Bajar,2016-10-01,3640.0,10.0,25.8,rain
+799,Soyabean,Jawala-Bajar,2016-12-01,3580.0,9.0,27.2,clear
+800,Soyabean,Kalamnuri,2016-12-01,3600.0,3.0,27.2,clear
+801,Soyabean,Sengoan,2016-12-01,3575.0,31.0,27.2,clear
+802,Soyabean,Jawala-Bajar,2016-01-13,3640.0,5.0,29.2,clear
+803,Soyabean,Kalamnuri,2016-01-13,3650.0,6.0,29.2,clear
+804,Soyabean,Sengoan,2016-01-13,3575.0,12.0,29.2,clear
+805,Soyabean,Jawala-Bajar,2016-01-14,3650.0,1.0,28.8,clear
+806,Soyabean,Kalamnuri,2016-01-14,3600.0,5.0,28.8,clear
+807,Soyabean,Sengoan,2016-01-14,3625.0,12.0,28.8,clear
+808,Soyabean,Jawala-Bajar,2016-01-17,3640.0,12.0,29.2,clear
+809,Soyabean,Kalamnuri,2016-01-17,3650.0,10.0,29.2,clear
+810,Soyabean,Jawala-Bajar,2016-01-19,3640.0,5.0,27.2,clear
+811,Soyabean,Kalamnuri,2016-01-19,3730.0,6.0,27.2,clear
+812,Soyabean,Sengoan,2016-01-19,3675.0,21.0,27.2,clear
+813,Soyabean,Jawala-Bajar,2016-01-22,3580.0,4.0,26.2,clear
+814,Soyabean,Kalamnuri,2016-01-22,3700.0,9.0,26.2,clear
+815,Soyabean,Sengoan,2016-01-22,3675.0,31.0,26.2,clear
+816,Soyabean,Jawala-Bajar,2016-01-24,3640.0,12.0,28.4,clear
+817,Soyabean,Kalamnuri,2016-01-24,3700.0,9.0,28.4,clear
+818,Soyabean,Jawala-Bajar,2016-01-25,3640.0,5.0,29.6,clear
+819,Soyabean,Kalamnuri,2016-01-25,3700.0,4.0,29.6,clear
+820,Soyabean,Sengoan,2016-01-25,3650.0,20.0,29.6,clear
+821,Soyabean,Jawala-Bajar,2016-01-31,3640.0,11.0,33.2,clear
+822,Soyabean,Kalamnuri,2016-01-31,3750.0,9.0,33.2,clear
+823,Soyabean,Jawala-Bajar,2016-07-02,3640.0,7.0,31.8,clear
+824,Soyabean,Kalamnuri,2016-07-02,3750.0,5.0,31.8,clear
+825,Soyabean,Jawala-Bajar,2016-02-28,3640.0,8.0,35.0,clear
+826,Soyabean,Jawala-Bajar,2016-08-03,3580.0,9.0,26.8,clear
+827,Soyabean,Sengoan,2016-08-03,3550.0,14.0,26.8,clear
+828,Soyabean,Jawala-Bajar,2016-03-13,3580.0,9.0,35.2,clear
+829,Soyabean,Jawala-Bajar,2016-03-27,3840.0,8.0,39.2,clear
+830,Soyabean,Jawala-Bajar,2016-03-04,3880.0,9.0,33.8,clear
+831,Soyabean,Jawala-Bajar,2016-04-04,3840.0,6.0,40.2,clear
+832,Soyabean,Sengoan,2016-04-04,3800.0,30.0,40.2,clear
+833,Soyabean,Jawala-Bajar,2016-07-04,4010.0,7.0,29.0,clear
+834,Soyabean,Sengoan,2016-07-04,3800.0,28.0,29.0,clear
+835,Soyabean,Jawala-Bajar,2016-10-04,3980.0,5.0,30.0,clear
+836,Soyabean,Jawala-Bajar,2016-04-13,3990.0,8.0,40.2,clear
+837,Soyabean,Sengoan,2016-04-13,3850.0,23.0,40.2,clear
+838,Soyabean,Jawala-Bajar,2016-04-17,3990.0,5.0,41.6,clear
+839,Soyabean,Jawala-Bajar,2016-04-21,3990.0,4.0,43.2,clear
+840,Soyabean,Sengoan,2016-04-21,3950.0,10.0,43.2,clear
+841,Soyabean,Jawala-Bajar,2016-01-05,3790.0,10.0,28.6,clear
+842,Soyabean,Jawala-Bajar,2016-06-05,3890.0,5.0,34.0,clear
+843,Soyabean,Sengoan,2016-06-05,3800.0,12.0,34.0,clear
+844,Soyabean,Jawala-Bajar,2016-08-05,3940.0,10.0,29.0,clear
+845,Soyabean,Jawala-Bajar,2016-11-05,3840.0,2.0,30.4,clear
+846,Soyabean,Jawala-Bajar,2016-05-13,3790.0,3.0,42.0,clear
+847,Soyabean,Jawala-Bajar,2016-05-15,3690.0,7.0,43.2,clear
+848,Soyabean,Jawala-Bajar,2016-05-16,3850.0,0.0,43.0,clear
+849,Soyabean,Sengoan,2016-05-16,3750.0,4.0,43.0,clear
+850,Soyabean,Jawala-Bajar,2016-05-17,3790.0,8.0,42.2,clear
+851,Soyabean,Sengoan,2016-05-17,3760.0,11.0,42.2,clear
+852,Soyabean,Jawala-Bajar,2016-05-18,3740.0,6.0,43.2,clear
+853,Soyabean,Jawala-Bajar,2016-05-19,3640.0,7.0,41.6,clear
+854,Soyabean,Jawala-Bajar,2016-05-22,3840.0,9.0,42.0,clear
+855,Soyabean,Jawala-Bajar,2016-05-26,3740.0,7.0,42.0,clear
+856,Soyabean,Sengoan,2016-05-26,3650.0,6.0,42.0,clear
+857,Soyabean,Jawala-Bajar,2016-05-29,3740.0,5.0,40.4,clear
+858,Soyabean,Jawala-Bajar,2016-05-06,3700.0,9.0,35.2,clear
+859,Soyabean,Jawala-Bajar,2016-12-06,3840.0,8.0,26.2,clear
+860,Soyabean,Jawala-Bajar,2016-06-13,3740.0,7.0,37.8,clear
+861,Soyabean,Sengoan,2016-06-13,3750.0,7.0,37.8,clear
+862,Soyabean,Jawala-Bajar,2016-06-16,3740.0,6.0,38.8,clear
+863,Soyabean,Sengoan,2016-06-16,3761.0,10.0,38.8,clear
+864,Soyabean,Jawala-Bajar,2016-06-19,3690.0,8.0,28.8,clear
+865,Soyabean,Jawala-Bajar,2016-06-20,3640.0,7.0,31.8,clear
+866,Soyabean,Jawala-Bajar,2016-06-21,3700.0,4.0,34.4,clear
+867,Soyabean,Jawala-Bajar,2016-06-26,3740.0,5.0,33.8,clear
+868,Soyabean,Jawala-Bajar,2016-10-07,3740.0,6.0,29.2,clear
+869,Soyabean,Jawala-Bajar,2016-01-10,2950.0,355.0,29.6,clear
+870,Soyabean,Jawala-Bajar,2016-02-10,3000.0,7.0,33.8,clear
+871,Soyabean,Jawala-Bajar,2016-10-23,2775.0,190.0,30.8,clear
+872,Soyabean,Kalamnuri,2016-10-23,2800.0,15.0,30.8,clear
+873,Soyabean,Jawala-Bajar,2016-06-11,2750.0,130.0,31.8,clear
+874,Soyabean,Kalamnuri,2016-06-11,2700.0,19.0,31.8,clear
+875,Soyabean,Jawala-Bajar,2016-10-11,2700.0,17.0,30.4,clear
+876,Soyabean,Kalamnuri,2016-10-11,2600.0,15.0,30.4,clear
+877,Soyabean,Jawala-Bajar,2016-11-16,2800.0,10.0,29.4,clear
+878,Soyabean,Sengoan,2016-11-16,2800.0,16.0,29.4,clear
+879,Soyabean,Jawala-Bajar,2016-11-20,2775.0,7.0,27.6,clear
+880,Soyabean,Jawala-Bajar,2016-11-27,2750.0,29.0,29.6,clear
+881,Soyabean,Jawala-Bajar,2016-04-12,2750.0,24.0,40.8,clear
+882,Soyabean,Jawala-Bajar,2016-11-12,2700.0,28.0,27.8,clear
+883,Soyabean,Kalamnuri,2016-11-12,2700.0,20.0,27.8,clear
+884,Soyabean,Jawala-Bajar,2016-12-18,2750.0,39.0,25.0,clear
+885,Soyabean,Kalamnuri,2016-12-18,2700.0,10.0,25.0,clear
+886,Soyabean,Jawala-Bajar,2016-12-29,2800.0,29.0,25.6,clear
+887,Soyabean,Kalamnuri,2016-12-29,2600.0,10.0,25.6,clear
+888,Soyabean,Sengoan,2016-12-29,2800.0,19.0,25.6,clear
+889,Soyabean,Kalamnuri,2016-01-23,3700.0,7.0,27.2,clear
+890,Soyabean,Sengoan,2016-01-23,3650.0,14.0,27.2,clear
+891,Soyabean,Kalamnuri,2016-08-02,3700.0,6.0,26.4,rain
+892,Soyabean,Sengoan,2016-08-02,3650.0,14.0,26.4,rain
+893,Soyabean,Kalamnuri,2016-02-14,3700.0,7.0,32.4,clear
+894,Soyabean,Kalamnuri,2016-02-21,3600.0,4.0,35.2,clear
+895,Soyabean,Kalamnuri,2016-07-03,3650.0,2.0,30.0,clear
+896,Soyabean,Kalamnuri,2016-09-10,2800.0,4.0,29.2,clear
+897,Soyabean,Kalamnuri,2016-10-26,2600.0,48.0,29.8,clear
+898,Soyabean,Sengoan,2016-10-26,2780.0,81.0,29.8,clear
+899,Soyabean,Kalamnuri,2016-10-30,2600.0,22.0,30.2,clear
+900,Soyabean,Kalamnuri,2016-11-15,2700.0,5.0,29.0,clear
+901,Soyabean,Sengoan,2016-11-15,2776.0,18.0,29.0,clear
+902,Soyabean,Kalamnuri,2016-12-25,2700.0,10.0,26.8,clear
+903,Soyabean,Sengoan,2016-01-16,3650.0,11.0,29.6,clear
+904,Soyabean,Sengoan,2016-01-26,3650.0,7.0,31.2,clear
+905,Soyabean,Sengoan,2016-01-30,3600.0,18.0,32.0,clear
+906,Soyabean,Sengoan,2016-06-02,3650.0,16.0,38.6,clear
+907,Soyabean,Sengoan,2016-02-19,3550.0,12.0,35.2,clear
+908,Soyabean,Sengoan,2016-04-03,4100.0,5.0,41.4,clear
+909,Soyabean,Sengoan,2016-09-03,3600.0,4.0,28.8,clear
+910,Soyabean,Sengoan,2016-03-15,3592.0,9.0,36.2,clear
+911,Soyabean,Sengoan,2016-03-19,3600.0,8.0,37.8,clear
+912,Soyabean,Sengoan,2016-03-23,3550.0,2.0,38.2,clear
+913,Soyabean,Sengoan,2016-03-28,3750.0,14.0,37.8,clear
+914,Soyabean,Sengoan,2016-04-14,3900.0,1.0,41.6,clear
+915,Soyabean,Sengoan,2016-04-18,3875.0,33.0,41.6,clear
+916,Soyabean,Sengoan,2016-04-19,3850.0,4.0,42.2,clear
+917,Soyabean,Sengoan,2016-04-20,3940.0,22.0,42.8,clear
+918,Soyabean,Sengoan,2016-04-22,3950.0,6.0,41.2,clear
+919,Soyabean,Sengoan,2016-09-05,3850.0,8.0,28.4,clear
+920,Soyabean,Sengoan,2016-06-18,3700.0,14.0,31.8,clear
+921,Soyabean,Sengoan,2016-02-07,3610.0,2.0,20.6,clear
+922,Soyabean,Sengoan,2016-06-07,3650.0,3.0,38.8,clear
+923,Soyabean,Sengoan,2016-07-07,3600.0,1.0,27.0,clear
+924,Soyabean,Sengoan,2016-11-07,3600.0,1.0,31.2,clear
+925,Soyabean,Sengoan,2016-07-16,3450.0,9.0,32.4,clear
+926,Soyabean,Sengoan,2016-07-27,3500.0,5.0,30.0,clear
+927,Soyabean,Sengoan,2016-07-28,3550.0,6.0,30.4,clear
+928,Soyabean,Sengoan,2016-01-08,3510.0,12.0,29.2,clear
+929,Soyabean,Sengoan,2016-03-08,3550.0,6.0,36.2,clear
+930,Soyabean,Sengoan,2016-04-08,3500.0,5.0,39.2,clear
+931,Soyabean,Sengoan,2016-05-08,3500.0,4.0,39.2,clear
+932,Soyabean,Sengoan,2016-06-08,3500.0,10.0,36.8,clear
+933,Soyabean,Sengoan,2016-08-08,3500.0,5.0,29.6,clear
+934,Soyabean,Sengoan,2016-08-16,3450.0,9.0,30.6,clear
+935,Soyabean,Sengoan,2016-08-17,3450.0,2.0,30.6,clear
+936,Soyabean,Sengoan,2016-08-18,3550.0,4.0,30.2,clear
+937,Soyabean,Sengoan,2016-08-20,3300.0,6.0,30.6,clear
+938,Soyabean,Sengoan,2016-06-09,3100.0,8.0,35.8,clear
+939,Soyabean,Sengoan,2016-10-09,3300.0,1.0,29.2,clear
+940,Soyabean,Sengoan,2016-12-09,3100.0,1.0,25.6,clear
+941,Soyabean,Sengoan,2016-09-13,3300.0,0.0,26.8,rain
+942,Soyabean,Sengoan,2016-09-14,3200.0,1.0,27.4,rain
+943,Soyabean,Sengoan,2016-09-16,3200.0,1.0,27.2,rain
+944,Soyabean,Sengoan,2016-09-27,3100.0,6.0,26.0,rain
+945,Soyabean,Sengoan,2016-11-14,2795.0,20.0,28.8,clear
+946,Safflower,Kalamnuri,2017-12-06,3000.0,3.0,28.2,clear
+947,Soyabean,Akhadabalapur,2017-12-06,2550.0,3.0,28.2,clear
+948,Soyabean,Akhadabalapur,2017-05-01,2800.0,8.0,37.8,clear
+949,Soyabean,Basmat,2017-05-01,2810.0,29.0,37.8,clear
+950,Soyabean,Hingoli,2017-05-01,2874.0,456.0,37.8,clear
+951,Soyabean,Hingoli(Kanegoan Naka),2017-05-01,2800.0,144.0,37.8,clear
+952,Soyabean,Jawala-Bajar,2017-05-01,2850.0,45.0,37.8,clear
+953,Soyabean,Kalamnuri,2017-05-01,2700.0,25.0,37.8,clear
+954,Soyabean,Sengoan,2017-05-01,2810.0,53.0,37.8,clear
+955,Soyabean,Akhadabalapur,2017-06-01,2795.0,7.0,40.8,clear
+956,Soyabean,Basmat,2017-06-01,2810.0,27.0,40.8,clear
+957,Soyabean,Hingoli,2017-06-01,2875.0,499.0,40.8,clear
+958,Soyabean,Hingoli(Kanegoan Naka),2017-06-01,2825.0,112.0,40.8,clear
+959,Soyabean,Jawala-Bajar,2017-06-01,2850.0,40.0,40.8,clear
+960,Soyabean,Kalamnuri,2017-06-01,2700.0,25.0,40.8,clear
+961,Soyabean,Sengoan,2017-06-01,2800.0,60.0,40.8,clear
+962,Soyabean,Akhadabalapur,2017-11-01,2825.0,9.0,30.8,clear
+963,Soyabean,Hingoli,2017-11-01,2811.0,236.0,30.8,clear
+964,Soyabean,Hingoli(Kanegoan Naka),2017-11-01,2805.0,48.0,30.8,clear
+965,Soyabean,Jawala-Bajar,2017-11-01,2850.0,364.0,30.8,clear
+966,Soyabean,Kalamnuri,2017-11-01,2700.0,25.0,30.8,clear
+967,Soyabean,Sengoan,2017-11-01,2810.0,29.0,30.8,clear
+968,Soyabean,Akhadabalapur,2017-01-17,2825.0,6.0,27.8,clear
+969,Soyabean,Basmat,2017-01-17,2830.0,26.0,27.8,clear
+970,Soyabean,Hingoli,2017-01-17,2835.0,294.0,27.8,clear
+971,Soyabean,Hingoli(Kanegoan Naka),2017-01-17,2805.0,98.0,27.8,clear
+972,Soyabean,Jawala-Bajar,2017-01-17,2850.0,46.0,27.8,clear
+973,Soyabean,Kalamnuri,2017-01-17,2700.0,25.0,27.8,clear
+974,Soyabean,Sengoan,2017-01-17,2780.0,70.0,27.8,clear
+975,Soyabean,Akhadabalapur,2017-01-18,2785.0,4.0,27.8,clear
+976,Soyabean,Basmat,2017-01-18,2830.0,46.0,27.8,clear
+977,Soyabean,Hingoli,2017-01-18,2885.0,288.0,27.8,clear
+978,Soyabean,Hingoli(Kanegoan Naka),2017-01-18,2830.0,74.0,27.8,clear
+979,Soyabean,Kalamnuri,2017-01-18,2700.0,35.0,27.8,clear
+980,Soyabean,Sengoan,2017-01-18,2800.0,32.0,27.8,clear
+981,Soyabean,Akhadabalapur,2017-02-02,2785.0,7.0,31.0,clear
+982,Soyabean,Hingoli,2017-02-02,2750.0,126.0,31.0,clear
+983,Soyabean,Hingoli(Kanegoan Naka),2017-02-02,2775.0,106.0,31.0,clear
+984,Soyabean,Jawala-Bajar,2017-02-02,2800.0,41.0,31.0,clear
+985,Soyabean,Kalamnuri,2017-02-02,2700.0,25.0,31.0,clear
+986,Soyabean,Sengoan,2017-02-02,2650.0,37.0,31.0,clear
+987,Soyabean,Akhadabalapur,2017-03-02,2785.0,7.0,33.4,clear
+988,Soyabean,Basmat,2017-03-02,2780.0,16.0,33.4,clear
+989,Soyabean,Hingoli,2017-03-02,2775.0,166.0,33.4,clear
+990,Soyabean,Hingoli(Kanegoan Naka),2017-03-02,2780.0,148.0,33.4,clear
+991,Soyabean,Kalamnuri,2017-03-02,2700.0,20.0,33.4,clear
+992,Soyabean,Sengoan,2017-03-02,2700.0,55.0,33.4,clear
+993,Soyabean,Akhadabalapur,2017-07-02,2750.0,6.0,30.2,clear
+994,Soyabean,Hingoli(Kanegoan Naka),2017-07-02,2775.0,156.0,30.2,clear
+995,Soyabean,Sengoan,2017-07-02,2700.0,42.0,30.2,clear
+996,Soyabean,Akhadabalapur,2017-08-02,2785.0,8.0,32.8,clear
+997,Soyabean,Hingoli,2017-08-02,2775.0,127.0,32.8,clear
+998,Soyabean,Kalamnuri,2017-08-02,2700.0,35.0,32.8,clear
+999,Soyabean,Sengoan,2017-08-02,2660.0,25.0,32.8,clear
+1000,Soyabean,Akhadabalapur,2017-10-02,2810.0,14.0,28.6,clear
+1001,Soyabean,Hingoli,2017-10-02,2780.0,106.0,28.6,clear
+1002,Soyabean,Hingoli(Kanegoan Naka),2017-10-02,2775.0,99.0,28.6,clear
+1003,Soyabean,Sengoan,2017-10-02,2675.0,40.0,28.6,clear
+1004,Soyabean,Akhadabalapur,2017-02-27,2750.0,11.0,33.2,clear
+1005,Soyabean,Hingoli,2017-02-27,2775.0,126.0,33.2,clear
+1006,Soyabean,Hingoli(Kanegoan Naka),2017-02-27,2775.0,17.0,33.2,clear
+1007,Soyabean,Jawala-Bajar,2017-02-27,2800.0,66.0,33.2,clear
+1008,Soyabean,Kalamnuri,2017-02-27,2600.0,20.0,33.2,clear
+1009,Soyabean,Sengoan,2017-02-27,2650.0,34.0,33.2,clear
+1010,Soyabean,Akhadabalapur,2017-08-03,2785.0,20.0,31.2,clear
+1011,Soyabean,Hingoli,2017-08-03,2775.0,56.0,31.2,clear
+1012,Soyabean,Hingoli(Kanegoan Naka),2017-08-03,2780.0,145.0,31.2,clear
+1013,Soyabean,Kalamnuri,2017-08-03,2600.0,10.0,31.2,clear
+1014,Soyabean,Sengoan,2017-08-03,2675.0,25.0,31.2,clear
+1015,Soyabean,Akhadabalapur,2017-03-14,2650.0,16.0,33.8,clear
+1016,Soyabean,Hingoli,2017-03-14,2775.0,69.0,33.8,clear
+1017,Soyabean,Hingoli(Kanegoan Naka),2017-03-14,2775.0,104.0,33.8,clear
+1018,Soyabean,Kalamnuri,2017-03-14,2650.0,20.0,33.8,clear
+1019,Soyabean,Sengoan,2017-03-14,2625.0,7.0,33.8,clear
+1020,Soyabean,Akhadabalapur,2017-03-20,2750.0,18.0,33.8,clear
+1021,Soyabean,Hingoli,2017-03-20,2800.0,100.0,33.8,clear
+1022,Soyabean,Hingoli(Kanegoan Naka),2017-03-20,2775.0,120.0,33.8,clear
+1023,Soyabean,Jawala-Bajar,2017-03-20,2800.0,37.0,33.8,clear
+1024,Soyabean,Kalamnuri,2017-03-20,2600.0,10.0,33.8,clear
+1025,Soyabean,Sengoan,2017-03-20,2675.0,41.0,33.8,clear
+1026,Soyabean,Akhadabalapur,2017-03-27,2785.0,11.0,38.0,clear
+1027,Soyabean,Hingoli(Kanegoan Naka),2017-03-27,2775.0,110.0,38.0,clear
+1028,Soyabean,Kalamnuri,2017-03-27,2600.0,10.0,38.0,clear
+1029,Soyabean,Akhadabalapur,2017-04-13,2650.0,10.0,39.8,clear
+1030,Soyabean,Hingoli,2017-04-13,2835.0,76.0,39.8,clear
+1031,Soyabean,Sengoan,2017-04-13,2750.0,73.0,39.8,clear
+1032,Soyabean,Akhadabalapur,2017-04-18,2650.0,5.0,42.0,clear
+1033,Soyabean,Hingoli(Kanegoan Naka),2017-04-18,2775.0,115.0,42.0,clear
+1034,Soyabean,Sengoan,2017-04-18,2750.0,26.0,42.0,clear
+1035,Soyabean,Akhadabalapur,2017-04-24,2750.0,7.0,38.6,clear
+1036,Soyabean,Hingoli(Kanegoan Naka),2017-04-24,2775.0,47.0,38.6,clear
+1037,Soyabean,Kalamnuri,2017-04-24,2800.0,5.0,38.6,clear
+1038,Soyabean,Sengoan,2017-04-24,2800.0,15.0,38.6,clear
+1039,Soyabean,Akhadabalapur,2017-05-05,2825.0,11.0,41.8,clear
+1040,Soyabean,Hingoli,2017-05-05,2775.0,138.0,41.8,clear
+1041,Soyabean,Kalamnuri,2017-05-05,2700.0,10.0,41.8,clear
+1042,Soyabean,Akhadabalapur,2017-05-22,2825.0,5.0,40.4,clear
+1043,Soyabean,Sengoan,2017-05-22,2710.0,14.0,40.4,clear
+1044,Soyabean,Akhadabalapur,2017-07-06,2700.0,3.0,27.8,clear
+1045,Soyabean,Akhadabalapur,2017-08-06,2750.0,7.0,30.6,clear
+1046,Soyabean,Sengoan,2017-08-06,2675.0,1.0,30.6,clear
+1047,Soyabean,Akhadabalapur,2017-09-06,2770.0,3.0,32.2,clear
+1048,Soyabean,Akhadabalapur,2017-10-06,2600.0,6.0,30.2,clear
+1049,Soyabean,Akhadabalapur,2017-06-19,2750.0,2.0,36.2,clear
+1050,Soyabean,Kalamnuri,2017-06-19,2700.0,7.0,36.2,clear
+1051,Soyabean,Sengoan,2017-06-19,2675.0,14.0,36.2,clear
+1052,Soyabean,Akhadabalapur,2017-06-28,2650.0,4.0,31.2,clear
+1053,Soyabean,Hingoli,2017-06-28,2800.0,99.0,31.2,clear
+1054,Soyabean,Sengoan,2017-06-28,2750.0,9.0,31.2,clear
+1055,Soyabean,Akhadabalapur,2017-12-07,2650.0,2.0,27.2,clear
+1056,Soyabean,Hingoli,2017-12-07,2866.0,84.0,27.2,clear
+1057,Soyabean,Hingoli(Kanegoan Naka),2017-12-07,2825.0,15.0,27.2,clear
+1058,Soyabean,Kalamnuri,2017-12-07,2800.0,5.0,27.2,clear
+1059,Soyabean,Sengoan,2017-12-07,2700.0,2.0,27.2,clear
+1060,Soyabean,Akhadabalapur,2017-07-25,2775.0,4.0,32.0,clear
+1061,Soyabean,Hingoli,2017-07-25,2878.0,77.0,32.0,clear
+1062,Soyabean,Hingoli(Kanegoan Naka),2017-07-25,2810.0,10.0,32.0,clear
+1063,Soyabean,Kalamnuri,2017-07-25,2800.0,25.0,32.0,clear
+1064,Soyabean,Sengoan,2017-07-25,2800.0,2.0,32.0,clear
+1065,Soyabean,Akhadabalapur,2017-08-23,2825.0,7.0,30.2,clear
+1066,Soyabean,Hingoli,2017-08-23,3050.0,42.0,30.2,clear
+1067,Soyabean,Hingoli(Kanegoan Naka),2017-08-23,3060.0,12.0,30.2,clear
+1068,Soyabean,Jawala-Bajar,2017-08-23,2800.0,14.0,30.2,clear
+1069,Soyabean,Kalamnuri,2017-08-23,2700.0,7.0,30.2,clear
+1070,Soyabean,Sengoan,2017-08-23,3000.0,1.0,30.2,clear
+1071,Soyabean,Akhadabalapur,2017-04-09,2875.0,7.0,39.8,clear
+1072,Soyabean,Hingoli(Kanegoan Naka),2017-04-09,2925.0,14.0,39.8,clear
+1073,Soyabean,Jawala-Bajar,2017-04-09,2850.0,13.0,39.8,clear
+1074,Soyabean,Akhadabalapur,2017-09-15,3075.0,5.0,26.0,rain
+1075,Soyabean,Hingoli(Kanegoan Naka),2017-09-15,3000.0,5.0,26.0,rain
+1076,Soyabean,Sengoan,2017-09-15,2911.0,2.0,26.0,rain
+1077,Soyabean,Akhadabalapur,2017-09-18,2950.0,9.0,29.2,clear
+1078,Soyabean,Hingoli,2017-09-18,3005.0,61.0,29.2,clear
+1079,Soyabean,Hingoli(Kanegoan Naka),2017-09-18,3000.0,14.0,29.2,clear
+1080,Soyabean,Kalamnuri,2017-09-18,2800.0,5.0,29.2,clear
+1081,Soyabean,Sengoan,2017-09-18,2926.0,1.0,29.2,clear
+1082,Soyabean,Akhadabalapur,2017-09-19,2950.0,5.0,30.0,clear
+1083,Soyabean,Hingoli,2017-09-19,3055.0,65.0,30.0,clear
+1084,Soyabean,Hingoli(Kanegoan Naka),2017-09-19,2950.0,8.0,30.0,clear
+1085,Soyabean,Sengoan,2017-09-19,2800.0,3.0,30.0,clear
+1086,Soyabean,Akhadabalapur,2017-09-20,2950.0,9.0,29.2,clear
+1087,Soyabean,Hingoli(Kanegoan Naka),2017-09-20,2900.0,6.0,29.2,clear
+1088,Soyabean,Jawala-Bajar,2017-09-20,2900.0,12.0,29.2,clear
+1089,Soyabean,Kalamnuri,2017-09-20,2700.0,2.0,29.2,clear
+1090,Soyabean,Sengoan,2017-09-20,2920.0,6.0,29.2,clear
+1091,Soyabean,Akhadabalapur,2017-09-21,3050.0,8.0,26.6,clear
+1092,Soyabean,Basmat,2017-09-21,2815.0,9.0,26.6,clear
+1093,Soyabean,Hingoli(Kanegoan Naka),2017-09-21,2900.0,5.0,26.6,clear
+1094,Soyabean,Jawala-Bajar,2017-09-21,2900.0,16.0,26.6,clear
+1095,Soyabean,Sengoan,2017-09-21,2875.0,1.0,26.6,clear
+1096,Soyabean,Akhadabalapur,2017-09-22,3000.0,7.0,29.2,clear
+1097,Soyabean,Hingoli,2017-09-22,2960.0,48.0,29.2,clear
+1098,Soyabean,Hingoli(Kanegoan Naka),2017-09-22,2900.0,5.0,29.2,clear
+1099,Soyabean,Jawala-Bajar,2017-09-22,2850.0,11.0,29.2,clear
+1100,Soyabean,Sengoan,2017-09-22,2900.0,3.0,29.2,clear
+1101,Soyabean,Akhadabalapur,2017-09-23,2900.0,7.0,30.6,clear
+1102,Soyabean,Basmat,2017-09-23,2980.0,3.0,30.6,clear
+1103,Soyabean,Hingoli,2017-09-23,3041.0,45.0,30.6,clear
+1104,Soyabean,Hingoli(Kanegoan Naka),2017-09-23,2950.0,11.0,30.6,clear
+1105,Soyabean,Sengoan,2017-09-23,2900.0,1.0,30.6,clear
+1106,Soyabean,Akhadabalapur,2017-09-25,3075.0,7.0,32.2,clear
+1107,Soyabean,Basmat,2017-09-25,2800.0,21.0,32.2,clear
+1108,Soyabean,Hingoli,2017-09-25,2951.0,53.0,32.2,clear
+1109,Soyabean,Hingoli(Kanegoan Naka),2017-09-25,2900.0,7.0,32.2,clear
+1110,Soyabean,Jawala-Bajar,2017-09-25,2850.0,10.0,32.2,clear
+1111,Soyabean,Sengoan,2017-09-25,2910.0,6.0,32.2,clear
+1112,Soyabean,Akhadabalapur,2017-09-26,3000.0,6.0,32.6,clear
+1113,Soyabean,Basmat,2017-09-26,2825.0,35.0,32.6,clear
+1114,Soyabean,Hingoli,2017-09-26,2951.0,55.0,32.6,clear
+1115,Soyabean,Hingoli(Kanegoan Naka),2017-09-26,2925.0,6.0,32.6,clear
+1116,Soyabean,Jawala-Bajar,2017-09-26,2950.0,9.0,32.6,clear
+1117,Soyabean,Kalamnuri,2017-09-26,2700.0,10.0,32.6,clear
+1118,Soyabean,Akhadabalapur,2017-09-27,2900.0,11.0,33.8,clear
+1119,Soyabean,Basmat,2017-09-27,2750.0,30.0,33.8,clear
+1120,Soyabean,Hingoli(Kanegoan Naka),2017-09-27,2900.0,7.0,33.8,clear
+1121,Soyabean,Kalamnuri,2017-09-27,2600.0,2.0,33.8,clear
+1122,Soyabean,Akhadabalapur,2017-09-28,3075.0,6.0,33.2,clear
+1123,Soyabean,Hingoli(Kanegoan Naka),2017-09-28,2910.0,6.0,33.2,clear
+1124,Soyabean,Akhadabalapur,2017-09-29,2900.0,21.0,31.8,clear
+1125,Soyabean,Basmat,2017-09-29,2700.0,28.0,31.8,clear
+1126,Soyabean,Akhadabalapur,2017-09-30,2775.0,36.0,33.2,clear
+1127,Soyabean,Basmat,2017-09-30,2700.0,16.0,33.2,clear
+1128,Soyabean,Basmat(Kurunda),2017-09-30,2720.0,32.0,33.2,clear
+1129,Soyabean,Akhadabalapur,2017-02-10,2750.0,34.0,31.2,clear
+1130,Soyabean,Jawala-Bajar,2017-02-10,2710.0,75.0,31.2,clear
+1131,Soyabean,Sengoan,2017-02-10,2770.0,15.0,31.2,clear
+1132,Soyabean,Akhadabalapur,2017-03-10,2700.0,35.0,30.6,clear
+1133,Soyabean,Hingoli,2017-03-10,2775.0,355.0,30.6,clear
+1134,Soyabean,Hingoli(Kanegoan Naka),2017-03-10,2850.0,27.0,30.6,clear
+1135,Soyabean,Jawala-Bajar,2017-03-10,2700.0,90.0,30.6,clear
+1136,Soyabean,Kalamnuri,2017-03-10,2700.0,57.0,30.6,clear
+1137,Soyabean,Sengoan,2017-03-10,2800.0,42.0,30.6,clear
+1138,Soyabean,Akhadabalapur,2017-04-10,2725.0,75.0,38.8,clear
+1139,Soyabean,Basmat,2017-04-10,2700.0,41.0,38.8,clear
+1140,Soyabean,Basmat(Kurunda),2017-04-10,2700.0,35.0,38.8,clear
+1141,Soyabean,Hingoli,2017-04-10,3050.0,161.0,38.8,clear
+1142,Soyabean,Hingoli(Kanegoan Naka),2017-04-10,2850.0,36.0,38.8,clear
+1143,Soyabean,Jawala-Bajar,2017-04-10,2746.0,77.0,38.8,clear
+1144,Soyabean,Kalamnuri,2017-04-10,2700.0,45.0,38.8,clear
+1145,Soyabean,Sengoan,2017-04-10,2750.0,32.0,38.8,clear
+1146,Soyabean,Akhadabalapur,2017-05-10,2650.0,55.0,40.0,clear
+1147,Soyabean,Basmat,2017-05-10,2720.0,32.0,40.0,clear
+1148,Soyabean,Hingoli,2017-05-10,3050.0,144.0,40.0,clear
+1149,Soyabean,Hingoli(Kanegoan Naka),2017-05-10,2750.0,23.0,40.0,clear
+1150,Soyabean,Kalamnuri,2017-05-10,2700.0,61.0,40.0,clear
+1151,Soyabean,Sengoan,2017-05-10,2650.0,36.0,40.0,clear
+1152,Soyabean,Akhadabalapur,2017-06-10,2725.0,47.0,35.0,clear
+1153,Soyabean,Basmat,2017-06-10,2730.0,34.0,35.0,clear
+1154,Soyabean,Hingoli(Kanegoan Naka),2017-06-10,2740.0,36.0,35.0,clear
+1155,Soyabean,Kalamnuri,2017-06-10,2700.0,60.0,35.0,clear
+1156,Soyabean,Sengoan,2017-06-10,2650.0,33.0,35.0,clear
+1157,Soyabean,Akhadabalapur,2017-11-10,2650.0,27.0,28.4,clear
+1158,Soyabean,Hingoli,2017-11-10,3050.0,195.0,28.4,clear
+1159,Soyabean,Hingoli(Kanegoan Naka),2017-11-10,2700.0,113.0,28.4,clear
+1160,Soyabean,Kalamnuri,2017-11-10,2700.0,50.0,28.4,clear
+1161,Soyabean,Sengoan,2017-11-10,2725.0,50.0,28.4,clear
+1162,Soyabean,Akhadabalapur,2017-12-10,2650.0,83.0,27.2,clear
+1163,Soyabean,Hingoli,2017-12-10,3050.0,236.0,27.2,clear
+1164,Soyabean,Kalamnuri,2017-12-10,2700.0,30.0,27.2,clear
+1165,Soyabean,Sengoan,2017-12-10,2670.0,55.0,27.2,clear
+1166,Soyabean,Akhadabalapur,2017-10-13,2700.0,104.0,30.8,clear
+1167,Soyabean,Basmat,2017-10-13,2700.0,32.0,30.8,clear
+1168,Soyabean,Hingoli,2017-10-13,3050.0,172.0,30.8,clear
+1169,Soyabean,Hingoli(Kanegoan Naka),2017-10-13,2710.0,128.0,30.8,clear
+1170,Soyabean,Kalamnuri,2017-10-13,2600.0,40.0,30.8,clear
+1171,Soyabean,Sengoan,2017-10-13,2650.0,80.0,30.8,clear
+1172,Soyabean,Akhadabalapur,2017-10-14,2675.0,113.0,30.6,clear
+1173,Soyabean,Basmat,2017-10-14,2720.0,35.0,30.6,clear
+1174,Soyabean,Hingoli,2017-10-14,3050.0,197.0,30.6,clear
+1175,Soyabean,Hingoli(Kanegoan Naka),2017-10-14,2710.0,128.0,30.6,clear
+1176,Soyabean,Kalamnuri,2017-10-14,2700.0,70.0,30.6,clear
+1177,Soyabean,Sengoan,2017-10-14,2600.0,75.0,30.6,clear
+1178,Soyabean,Akhadabalapur,2017-10-16,2687.0,114.0,32.0,clear
+1179,Soyabean,Hingoli(Kanegoan Naka),2017-10-16,2725.0,143.0,32.0,clear
+1180,Soyabean,Jawala-Bajar,2017-10-16,2745.0,24.0,32.0,clear
+1181,Soyabean,Kalamnuri,2017-10-16,2700.0,50.0,32.0,clear
+1182,Soyabean,Sengoan,2017-10-16,2600.0,122.0,32.0,clear
+1183,Soyabean,Akhadabalapur,2017-10-17,2700.0,96.0,31.6,clear
+1184,Soyabean,Jawala-Bajar,2017-10-17,2750.0,72.0,31.6,clear
+1185,Soyabean,Sengoan,2017-10-17,2650.0,62.0,31.6,clear
+1186,Soyabean,Akhadabalapur,2017-10-18,2700.0,78.0,29.6,clear
+1187,Soyabean,Hingoli(Kanegoan Naka),2017-10-18,2725.0,74.0,29.6,clear
+1188,Soyabean,Sengoan,2017-10-18,2675.0,37.0,29.6,clear
+1189,Soyabean,Akhadabalapur,2017-10-19,2625.0,42.0,27.0,clear
+1190,Soyabean,Akhadabalapur,2017-10-21,2688.0,82.0,30.2,clear
+1191,Soyabean,Basmat,2017-10-21,2650.0,31.0,30.2,clear
+1192,Soyabean,Hingoli(Kanegoan Naka),2017-10-21,2710.0,33.0,30.2,clear
+1193,Soyabean,Jawala-Bajar,2017-10-21,2745.0,53.0,30.2,clear
+1194,Soyabean,Akhadabalapur,2017-10-23,2675.0,117.0,31.4,clear
+1195,Soyabean,Hingoli,2017-10-23,3050.0,259.0,31.4,clear
+1196,Soyabean,Hingoli(Kanegoan Naka),2017-10-23,2690.0,141.0,31.4,clear
+1197,Soyabean,Kalamnuri,2017-10-23,2600.0,40.0,31.4,clear
+1198,Soyabean,Sengoan,2017-10-23,2575.0,142.0,31.4,clear
+1199,Soyabean,Basmat,2017-02-01,2825.0,69.0,30.6,clear
+1200,Soyabean,Hingoli,2017-02-01,2915.0,389.0,30.6,clear
+1201,Soyabean,Hingoli(Kanegoan Naka),2017-02-01,2847.0,98.0,30.6,clear
+1202,Soyabean,Jawala-Bajar,2017-02-01,2850.0,34.0,30.6,clear
+1203,Soyabean,Kalamnuri,2017-02-01,2700.0,10.0,30.6,clear
+1204,Soyabean,Sengoan,2017-02-01,2801.0,77.0,30.6,clear
+1205,Soyabean,Basmat,2017-03-01,2800.0,32.0,33.8,clear
+1206,Soyabean,Hingoli,2017-03-01,2940.0,356.0,33.8,clear
+1207,Soyabean,Hingoli(Kanegoan Naka),2017-03-01,2810.0,109.0,33.8,clear
+1208,Soyabean,Jawala-Bajar,2017-03-01,2800.0,34.0,33.8,clear
+1209,Soyabean,Kalamnuri,2017-03-01,2700.0,5.0,33.8,clear
+1210,Soyabean,Sengoan,2017-03-01,2801.0,87.0,33.8,clear
+1211,Soyabean,Basmat,2017-04-01,2800.0,29.0,38.8,clear
+1212,Soyabean,Hingoli,2017-04-01,2935.0,688.0,38.8,clear
+1213,Soyabean,Hingoli(Kanegoan Naka),2017-04-01,2800.0,138.0,38.8,clear
+1214,Soyabean,Jawala-Bajar,2017-04-01,2800.0,31.0,38.8,clear
+1215,Soyabean,Kalamnuri,2017-04-01,2700.0,35.0,38.8,clear
+1216,Soyabean,Sengoan,2017-04-01,2802.0,46.0,38.8,clear
+1217,Soyabean,Basmat,2017-09-01,2800.0,15.0,30.2,clear
+1218,Soyabean,Hingoli,2017-09-01,2815.0,278.0,30.2,clear
+1219,Soyabean,Hingoli(Kanegoan Naka),2017-09-01,2790.0,126.0,30.2,clear
+1220,Soyabean,Jawala-Bajar,2017-09-01,2890.0,39.0,30.2,clear
+1221,Soyabean,Kalamnuri,2017-09-01,2700.0,30.0,30.2,clear
+1222,Soyabean,Sengoan,2017-09-01,2780.0,70.0,30.2,clear
+1223,Soyabean,Basmat,2017-12-01,2800.0,8.0,28.6,clear
+1224,Soyabean,Hingoli,2017-12-01,2995.0,278.0,28.6,clear
+1225,Soyabean,Hingoli(Kanegoan Naka),2017-12-01,2875.0,140.0,28.6,clear
+1226,Soyabean,Jawala-Bajar,2017-12-01,2850.0,40.0,28.6,clear
+1227,Soyabean,Kalamnuri,2017-12-01,2700.0,15.0,28.6,clear
+1228,Soyabean,Sengoan,2017-12-01,2780.0,27.0,28.6,clear
+1229,Soyabean,Basmat,2017-01-24,2800.0,27.0,29.2,clear
+1230,Soyabean,Hingoli,2017-01-24,2785.0,356.0,29.2,clear
+1231,Soyabean,Hingoli(Kanegoan Naka),2017-01-24,2775.0,106.0,29.2,clear
+1232,Soyabean,Jawala-Bajar,2017-01-24,2850.0,29.0,29.2,clear
+1233,Soyabean,Kalamnuri,2017-01-24,2700.0,30.0,29.2,clear
+1234,Soyabean,Sengoan,2017-01-24,2700.0,79.0,29.2,clear
+1235,Soyabean,Basmat,2017-01-25,2830.0,52.0,28.2,clear
+1236,Soyabean,Hingoli,2017-01-25,2784.0,169.0,28.2,clear
+1237,Soyabean,Hingoli(Kanegoan Naka),2017-01-25,2780.0,134.0,28.2,clear
+1238,Soyabean,Kalamnuri,2017-01-25,2700.0,20.0,28.2,clear
+1239,Soyabean,Sengoan,2017-01-25,2700.0,35.0,28.2,clear
+1240,Soyabean,Basmat,2017-01-27,2830.0,27.0,29.6,clear
+1241,Soyabean,Basmat,2017-01-30,2825.0,28.0,29.2,clear
+1242,Soyabean,Kalamnuri,2017-01-30,2750.0,60.0,29.2,clear
+1243,Soyabean,Basmat,2017-07-10,2740.0,39.0,32.0,clear
+1244,Soyabean,Basmat(Kurunda),2017-07-10,2740.0,34.0,32.0,clear
+1245,Soyabean,Hingoli,2017-07-10,3050.0,166.0,32.0,clear
+1246,Soyabean,Hingoli(Kanegoan Naka),2017-07-10,2725.0,48.0,32.0,clear
+1247,Soyabean,Jawala-Bajar,2017-07-10,2750.0,82.0,32.0,clear
+1248,Soyabean,Kalamnuri,2017-07-10,2600.0,40.0,32.0,clear
+1249,Soyabean,Sengoan,2017-07-10,2751.0,43.0,32.0,clear
+1250,Soyabean,Basmat,2017-10-10,2725.0,26.0,28.0,rain
+1251,Soyabean,Hingoli,2017-10-10,3050.0,176.0,28.0,rain
+1252,Soyabean,Hingoli(Kanegoan Naka),2017-10-10,2750.0,90.0,28.0,rain
+1253,Soyabean,Jawala-Bajar,2017-10-10,2700.0,55.0,28.0,rain
+1254,Soyabean,Kalamnuri,2017-10-10,2700.0,70.0,28.0,rain
+1255,Soyabean,Sengoan,2017-10-10,2725.0,63.0,28.0,rain
+1256,Soyabean,Basmat,2017-10-25,2650.0,21.0,32.2,clear
+1257,Soyabean,Hingoli,2017-10-25,3050.0,226.0,32.2,clear
+1258,Soyabean,Hingoli(Kanegoan Naka),2017-10-25,2640.0,110.0,32.2,clear
+1259,Soyabean,Basmat(Kurunda),2017-09-10,2700.0,30.0,31.2,clear
+1260,Soyabean,Hingoli,2017-09-10,3050.0,206.0,31.2,clear
+1261,Soyabean,Hingoli(Kanegoan Naka),2017-09-10,2750.0,93.0,31.2,clear
+1262,Soyabean,Jawala-Bajar,2017-09-10,2750.0,76.0,31.2,clear
+1263,Soyabean,Kalamnuri,2017-09-10,2700.0,80.0,31.2,clear
+1264,Soyabean,Sengoan,2017-09-10,2775.0,94.0,31.2,clear
+1265,Soyabean,Basmat(Kurunda),2017-10-20,2400.0,14.0,30.8,clear
+1266,Soyabean,Jawala-Bajar,2017-10-20,2740.0,83.0,30.8,clear
+1267,Soyabean,Hingoli,2017-07-01,2910.0,359.0,29.8,clear
+1268,Soyabean,Hingoli(Kanegoan Naka),2017-07-01,2845.0,45.0,29.8,clear
+1269,Soyabean,Hingoli,2017-10-01,2805.0,288.0,32.6,clear
+1270,Soyabean,Hingoli(Kanegoan Naka),2017-10-01,2793.0,75.0,32.6,clear
+1271,Soyabean,Jawala-Bajar,2017-10-01,2800.0,387.0,32.6,clear
+1272,Soyabean,Kalamnuri,2017-10-01,2700.0,40.0,32.6,clear
+1273,Soyabean,Sengoan,2017-10-01,2815.0,54.0,32.6,clear
+1274,Soyabean,Hingoli,2017-01-13,2810.0,86.0,24.4,clear
+1275,Soyabean,Hingoli(Kanegoan Naka),2017-01-13,2812.0,112.0,24.4,clear
+1276,Soyabean,Jawala-Bajar,2017-01-13,2830.0,75.0,24.4,clear
+1277,Soyabean,Kalamnuri,2017-01-13,2700.0,25.0,24.4,clear
+1278,Soyabean,Sengoan,2017-01-13,2780.0,28.0,24.4,clear
+1279,Soyabean,Hingoli,2017-01-16,2865.0,327.0,27.6,clear
+1280,Soyabean,Hingoli(Kanegoan Naka),2017-01-16,2820.0,69.0,27.6,clear
+1281,Soyabean,Jawala-Bajar,2017-01-16,2830.0,482.0,27.6,clear
+1282,Soyabean,Kalamnuri,2017-01-16,2700.0,20.0,27.6,clear
+1283,Soyabean,Hingoli,2017-01-19,2855.0,290.0,27.2,clear
+1284,Soyabean,Hingoli(Kanegoan Naka),2017-01-19,2815.0,69.0,27.2,clear
+1285,Soyabean,Kalamnuri,2017-01-19,2700.0,45.0,27.2,clear
+1286,Soyabean,Sengoan,2017-01-19,2810.0,40.0,27.2,clear
+1287,Soyabean,Hingoli,2017-01-23,2785.0,257.0,29.4,clear
+1288,Soyabean,Hingoli(Kanegoan Naka),2017-01-23,2775.0,84.0,29.4,clear
+1289,Soyabean,Jawala-Bajar,2017-01-23,2820.0,27.0,29.4,clear
+1290,Soyabean,Kalamnuri,2017-01-23,2700.0,30.0,29.4,clear
+1291,Soyabean,Sengoan,2017-01-23,2800.0,54.0,29.4,clear
+1292,Soyabean,Hingoli,2017-01-31,2755.0,36.0,29.8,clear
+1293,Soyabean,Jawala-Bajar,2017-01-31,2800.0,29.0,29.8,clear
+1294,Soyabean,Kalamnuri,2017-01-31,2700.0,20.0,29.8,clear
+1295,Soyabean,Hingoli,2017-01-02,2775.0,186.0,27.4,clear
+1296,Soyabean,Hingoli(Kanegoan Naka),2017-01-02,2775.0,95.0,27.4,clear
+1297,Soyabean,Jawala-Bajar,2017-01-02,2800.0,26.0,27.4,clear
+1298,Soyabean,Kalamnuri,2017-01-02,2700.0,30.0,27.4,clear
+1299,Soyabean,Hingoli,2017-04-02,2815.0,106.0,39.0,clear
+1300,Soyabean,Sengoan,2017-04-02,2650.0,46.0,39.0,clear
+1301,Soyabean,Hingoli,2017-06-02,2775.0,126.0,38.2,clear
+1302,Soyabean,Hingoli(Kanegoan Naka),2017-06-02,2775.0,140.0,38.2,clear
+1303,Soyabean,Kalamnuri,2017-06-02,2700.0,15.0,38.2,clear
+1304,Soyabean,Hingoli,2017-09-02,2775.0,137.0,30.2,clear
+1305,Soyabean,Hingoli(Kanegoan Naka),2017-09-02,2780.0,338.0,30.2,clear
+1306,Soyabean,Kalamnuri,2017-09-02,2700.0,32.0,30.2,clear
+1307,Soyabean,Sengoan,2017-09-02,2725.0,62.0,30.2,clear
+1308,Soyabean,Hingoli,2017-11-02,2775.0,79.0,29.2,clear
+1309,Soyabean,Hingoli(Kanegoan Naka),2017-11-02,2775.0,126.0,29.2,clear
+1310,Soyabean,Sengoan,2017-11-02,2675.0,21.0,29.2,clear
+1311,Soyabean,Hingoli,2017-02-13,2775.0,66.0,30.0,clear
+1312,Soyabean,Hingoli(Kanegoan Naka),2017-02-13,2775.0,162.0,30.0,clear
+1313,Soyabean,Jawala-Bajar,2017-02-13,2800.0,34.0,30.0,clear
+1314,Soyabean,Kalamnuri,2017-02-13,2700.0,20.0,30.0,clear
+1315,Soyabean,Sengoan,2017-02-13,2650.0,30.0,30.0,clear
+1316,Soyabean,Hingoli,2017-02-14,2775.0,66.0,30.6,clear
+1317,Soyabean,Hingoli(Kanegoan Naka),2017-02-14,2775.0,76.0,30.6,clear
+1318,Soyabean,Kalamnuri,2017-02-14,2700.0,30.0,30.6,clear
+1319,Soyabean,Sengoan,2017-02-14,2750.0,34.0,30.6,clear
+1320,Soyabean,Hingoli,2017-02-15,2775.0,45.0,31.2,clear
+1321,Soyabean,Sengoan,2017-02-15,2725.0,25.0,31.2,clear
+1322,Soyabean,Hingoli,2017-02-17,2775.0,66.0,32.2,clear
+1323,Soyabean,Kalamnuri,2017-02-17,2700.0,25.0,32.2,clear
+1324,Soyabean,Hingoli,2017-02-18,2775.0,66.0,32.0,clear
+1325,Soyabean,Hingoli,2017-02-21,2775.0,126.0,34.2,clear
+1326,Soyabean,Sengoan,2017-02-21,2600.0,26.0,34.2,clear
+1327,Soyabean,Hingoli,2017-03-03,2775.0,136.0,34.2,clear
+1328,Soyabean,Hingoli(Kanegoan Naka),2017-03-03,2775.0,32.0,34.2,clear
+1329,Soyabean,Jawala-Bajar,2017-03-03,2850.0,47.0,34.2,clear
+1330,Soyabean,Kalamnuri,2017-03-03,2700.0,15.0,34.2,clear
+1331,Soyabean,Sengoan,2017-03-03,2720.0,29.0,34.2,clear
+1332,Soyabean,Hingoli,2017-04-03,2775.0,86.0,38.6,clear
+1333,Soyabean,Hingoli(Kanegoan Naka),2017-04-03,2775.0,46.0,38.6,clear
+1334,Soyabean,Sengoan,2017-04-03,2650.0,26.0,38.6,clear
+1335,Soyabean,Hingoli,2017-06-03,2775.0,56.0,38.8,clear
+1336,Soyabean,Hingoli(Kanegoan Naka),2017-06-03,2775.0,12.0,38.8,clear
+1337,Soyabean,Kalamnuri,2017-06-03,2700.0,10.0,38.8,clear
+1338,Soyabean,Sengoan,2017-06-03,2710.0,39.0,38.8,clear
+1339,Soyabean,Hingoli,2017-07-03,2775.0,61.0,32.0,clear
+1340,Soyabean,Hingoli(Kanegoan Naka),2017-07-03,2775.0,116.0,32.0,clear
+1341,Soyabean,Kalamnuri,2017-07-03,2700.0,30.0,32.0,clear
+1342,Soyabean,Sengoan,2017-07-03,2600.0,37.0,32.0,clear
+1343,Soyabean,Hingoli,2017-09-03,2775.0,47.0,32.6,clear
+1344,Soyabean,Hingoli(Kanegoan Naka),2017-09-03,2725.0,220.0,32.6,clear
+1345,Soyabean,Sengoan,2017-09-03,2650.0,22.0,32.6,clear
+1346,Soyabean,Hingoli,2017-03-15,2775.0,76.0,32.2,clear
+1347,Soyabean,Hingoli(Kanegoan Naka),2017-03-15,2757.0,110.0,32.2,clear
+1348,Soyabean,Jawala-Bajar,2017-03-15,2800.0,33.0,32.2,clear
+1349,Soyabean,Sengoan,2017-03-15,2625.0,16.0,32.2,clear
+1350,Soyabean,Hingoli,2017-03-16,2775.0,76.0,33.0,clear
+1351,Soyabean,Jawala-Bajar,2017-03-16,2820.0,33.0,33.0,clear
+1352,Soyabean,Sengoan,2017-03-16,2600.0,9.0,33.0,clear
+1353,Soyabean,Hingoli,2017-03-17,2775.0,55.0,34.0,clear
+1354,Soyabean,Jawala-Bajar,2017-03-17,2800.0,35.0,34.0,clear
+1355,Soyabean,Sengoan,2017-03-17,2650.0,35.0,34.0,clear
+1356,Soyabean,Hingoli,2017-03-18,2775.0,63.0,34.2,clear
+1357,Soyabean,Hingoli(Kanegoan Naka),2017-03-18,2775.0,140.0,34.2,clear
+1358,Soyabean,Sengoan,2017-03-18,2600.0,16.0,34.2,clear
+1359,Soyabean,Hingoli,2017-03-21,2800.0,55.0,34.2,clear
+1360,Soyabean,Hingoli(Kanegoan Naka),2017-03-21,2775.0,99.0,34.2,clear
+1361,Soyabean,Jawala-Bajar,2017-03-21,2800.0,44.0,34.2,clear
+1362,Soyabean,Sengoan,2017-03-21,2625.0,32.0,34.2,clear
+1363,Soyabean,Hingoli,2017-03-22,2775.0,57.0,35.8,clear
+1364,Soyabean,Hingoli(Kanegoan Naka),2017-03-22,2775.0,64.0,35.8,clear
+1365,Soyabean,Kalamnuri,2017-03-22,2600.0,20.0,35.8,clear
+1366,Soyabean,Sengoan,2017-03-22,2625.0,11.0,35.8,clear
+1367,Soyabean,Hingoli,2017-03-23,2775.0,69.0,36.8,clear
+1368,Soyabean,Hingoli(Kanegoan Naka),2017-03-23,2775.0,106.0,36.8,clear
+1369,Soyabean,Sengoan,2017-03-23,2700.0,25.0,36.8,clear
+1370,Soyabean,Hingoli,2017-03-24,2775.0,69.0,37.8,clear
+1371,Soyabean,Jawala-Bajar,2017-03-24,2800.0,41.0,37.8,clear
+1372,Soyabean,Hingoli,2017-03-26,2775.0,85.0,38.8,clear
+1373,Soyabean,Jawala-Bajar,2017-03-26,2820.0,40.0,38.8,clear
+1374,Soyabean,Kalamnuri,2017-03-26,2600.0,12.0,38.8,clear
+1375,Soyabean,Hingoli,2017-05-04,2775.0,75.0,40.2,clear
+1376,Soyabean,Hingoli(Kanegoan Naka),2017-05-04,2775.0,88.0,40.2,clear
+1377,Soyabean,Jawala-Bajar,2017-05-04,2860.0,61.0,40.2,clear
+1378,Soyabean,Kalamnuri,2017-05-04,2700.0,9.0,40.2,clear
+1379,Soyabean,Sengoan,2017-05-04,2650.0,28.0,40.2,clear
+1380,Soyabean,Hingoli,2017-06-04,2775.0,76.0,36.0,clear
+1381,Soyabean,Hingoli(Kanegoan Naka),2017-06-04,2775.0,25.0,36.0,clear
+1382,Soyabean,Kalamnuri,2017-06-04,2800.0,10.0,36.0,clear
+1383,Soyabean,Sengoan,2017-06-04,2725.0,16.0,36.0,clear
+1384,Soyabean,Hingoli,2017-08-04,2775.0,56.0,32.0,clear
+1385,Soyabean,Hingoli(Kanegoan Naka),2017-08-04,2775.0,12.0,32.0,clear
+1386,Soyabean,Sengoan,2017-08-04,2700.0,32.0,32.0,clear
+1387,Soyabean,Hingoli,2017-10-04,2835.0,144.0,33.2,clear
+1388,Soyabean,Hingoli(Kanegoan Naka),2017-10-04,2775.0,120.0,33.2,clear
+1389,Soyabean,Kalamnuri,2017-10-04,2600.0,10.0,33.2,clear
+1390,Soyabean,Sengoan,2017-10-04,2700.0,35.0,33.2,clear
+1391,Soyabean,Hingoli,2017-04-17,2860.0,166.0,42.0,clear
+1392,Soyabean,Hingoli(Kanegoan Naka),2017-04-17,2775.0,94.0,42.0,clear
+1393,Soyabean,Sengoan,2017-04-17,2700.0,18.0,42.0,clear
+1394,Soyabean,Hingoli,2017-04-19,2866.0,214.0,38.8,clear
+1395,Soyabean,Hingoli(Kanegoan Naka),2017-04-19,2775.0,14.0,38.8,clear
+1396,Soyabean,Sengoan,2017-04-19,2730.0,7.0,38.8,clear
+1397,Soyabean,Hingoli,2017-02-05,2810.0,116.0,30.2,clear
+1398,Soyabean,Hingoli(Kanegoan Naka),2017-02-05,2775.0,85.0,30.2,clear
+1399,Soyabean,Kalamnuri,2017-02-05,2650.0,10.0,30.2,clear
+1400,Soyabean,Sengoan,2017-02-05,2725.0,23.0,30.2,clear
+1401,Soyabean,Hingoli,2017-03-05,2795.0,160.0,33.6,clear
+1402,Soyabean,Hingoli(Kanegoan Naka),2017-03-05,2775.0,109.0,33.6,clear
+1403,Soyabean,Sengoan,2017-03-05,2725.0,19.0,33.6,clear
+1404,Soyabean,Hingoli,2017-04-05,2775.0,98.0,38.0,clear
+1405,Soyabean,Hingoli(Kanegoan Naka),2017-04-05,2775.0,145.0,38.0,clear
+1406,Soyabean,Kalamnuri,2017-04-05,2700.0,10.0,38.0,clear
+1407,Soyabean,Hingoli,2017-08-05,2791.0,95.0,30.4,clear
+1408,Soyabean,Hingoli,2017-09-05,2817.0,91.0,31.8,clear
+1409,Soyabean,Hingoli,2017-11-05,2840.0,120.0,29.2,clear
+1410,Soyabean,Kalamnuri,2017-11-05,2700.0,10.0,29.2,clear
+1411,Soyabean,Sengoan,2017-11-05,2750.0,20.0,29.2,clear
+1412,Soyabean,Hingoli,2017-12-05,2830.0,119.0,29.2,clear
+1413,Soyabean,Sengoan,2017-12-05,2725.0,30.0,29.2,clear
+1414,Soyabean,Hingoli,2017-05-13,2775.0,140.0,40.4,clear
+1415,Soyabean,Hingoli,2017-05-15,2780.0,143.0,42.0,clear
+1416,Soyabean,Hingoli(Kanegoan Naka),2017-05-15,2775.0,16.0,42.0,clear
+1417,Soyabean,Kalamnuri,2017-05-15,2700.0,12.0,42.0,clear
+1418,Soyabean,Sengoan,2017-05-15,2700.0,14.0,42.0,clear
+1419,Soyabean,Hingoli,2017-05-16,2780.0,49.0,41.0,clear
+1420,Soyabean,Hingoli(Kanegoan Naka),2017-05-16,2775.0,29.0,41.0,clear
+1421,Soyabean,Sengoan,2017-05-16,2650.0,12.0,41.0,clear
+1422,Soyabean,Hingoli,2017-05-17,2782.0,90.0,40.2,clear
+1423,Soyabean,Sengoan,2017-05-17,2700.0,14.0,40.2,clear
+1424,Soyabean,Hingoli,2017-05-18,2780.0,100.0,41.4,clear
+1425,Soyabean,Sengoan,2017-05-18,2650.0,2.0,41.4,clear
+1426,Soyabean,Hingoli,2017-05-19,2775.0,80.0,42.0,clear
+1427,Soyabean,Hingoli,2017-05-20,2775.0,86.0,41.2,clear
+1428,Soyabean,Hingoli,2017-05-24,2790.0,123.0,42.8,clear
+1429,Soyabean,Sengoan,2017-05-24,2725.0,13.0,42.8,clear
+1430,Soyabean,Hingoli,2017-05-26,2775.0,155.0,40.0,clear
+1431,Soyabean,Hingoli,2017-05-27,2775.0,72.0,41.8,clear
+1432,Soyabean,Hingoli,2017-05-29,2775.0,133.0,39.6,clear
+1433,Soyabean,Hingoli,2017-05-30,2775.0,96.0,37.8,clear
+1434,Soyabean,Hingoli,2017-05-31,2775.0,92.0,39.0,clear
+1435,Soyabean,Kalamnuri,2017-05-31,2700.0,6.0,39.0,clear
+1436,Soyabean,Hingoli,2017-01-06,2775.0,11.0,28.2,clear
+1437,Soyabean,Kalamnuri,2017-01-06,2700.0,9.0,28.2,clear
+1438,Soyabean,Hingoli,2017-02-06,2775.0,41.0,30.0,clear
+1439,Soyabean,Hingoli,2017-06-27,2810.0,73.0,29.8,clear
+1440,Soyabean,Kalamnuri,2017-06-27,2700.0,10.0,29.8,clear
+1441,Soyabean,Sengoan,2017-06-27,2750.0,13.0,29.8,clear
+1442,Soyabean,Hingoli,2017-07-07,2800.0,35.0,30.6,clear
+1443,Soyabean,Sengoan,2017-07-07,2800.0,12.0,30.6,clear
+1444,Soyabean,Hingoli,2017-08-07,2825.0,44.0,30.4,clear
+1445,Soyabean,Sengoan,2017-08-07,2800.0,2.0,30.4,clear
+1446,Soyabean,Hingoli,2017-10-07,2900.0,60.0,33.6,clear
+1447,Soyabean,Kalamnuri,2017-10-07,2800.0,15.0,33.6,clear
+1448,Soyabean,Sengoan,2017-10-07,2750.0,8.0,33.6,clear
+1449,Soyabean,Hingoli,2017-11-07,2900.0,62.0,29.6,clear
+1450,Soyabean,Kalamnuri,2017-11-07,2800.0,8.0,29.6,clear
+1451,Soyabean,Sengoan,2017-11-07,2800.0,6.0,29.6,clear
+1452,Soyabean,Hingoli,2017-07-13,2880.0,21.0,27.8,clear
+1453,Soyabean,Kalamnuri,2017-07-13,2700.0,4.0,27.8,clear
+1454,Soyabean,Sengoan,2017-07-13,2800.0,11.0,27.8,clear
+1455,Soyabean,Hingoli,2017-07-14,2855.0,37.0,27.8,clear
+1456,Soyabean,Hingoli(Kanegoan Naka),2017-07-14,2800.0,14.0,27.8,clear
+1457,Soyabean,Sengoan,2017-07-14,2800.0,6.0,27.8,clear
+1458,Soyabean,Hingoli,2017-07-19,2860.0,87.0,27.8,clear
+1459,Soyabean,Hingoli(Kanegoan Naka),2017-07-19,2850.0,17.0,27.8,clear
+1460,Soyabean,Hingoli,2017-07-20,2900.0,71.0,28.6,rain
+1461,Soyabean,Hingoli(Kanegoan Naka),2017-07-20,2825.0,10.0,28.6,rain
+1462,Soyabean,Kalamnuri,2017-07-20,2700.0,5.0,28.6,rain
+1463,Soyabean,Hingoli,2017-07-21,2902.0,67.0,29.8,clear
+1464,Soyabean,Hingoli(Kanegoan Naka),2017-07-21,2825.0,10.0,29.8,clear
+1465,Soyabean,Kalamnuri,2017-07-21,2800.0,4.0,29.8,clear
+1466,Soyabean,Hingoli,2017-07-22,2870.0,50.0,30.0,clear
+1467,Soyabean,Hingoli(Kanegoan Naka),2017-07-22,2825.0,11.0,30.0,clear
+1468,Soyabean,Sengoan,2017-07-22,2810.0,2.0,30.0,clear
+1469,Soyabean,Hingoli,2017-07-24,2880.0,80.0,29.2,clear
+1470,Soyabean,Hingoli(Kanegoan Naka),2017-07-24,2780.0,17.0,29.2,clear
+1471,Soyabean,Sengoan,2017-07-24,2795.0,3.0,29.2,clear
+1472,Soyabean,Hingoli,2017-07-26,2880.0,81.0,29.8,clear
+1473,Soyabean,Kalamnuri,2017-07-26,2800.0,10.0,29.8,clear
+1474,Soyabean,Sengoan,2017-07-26,2750.0,15.0,29.8,clear
+1475,Soyabean,Hingoli,2017-07-29,2851.0,53.0,31.4,clear
+1476,Soyabean,Hingoli(Kanegoan Naka),2017-07-29,2825.0,5.0,31.4,clear
+1477,Soyabean,Sengoan,2017-07-29,2850.0,19.0,31.4,clear
+1478,Soyabean,Hingoli,2017-07-31,2902.0,64.0,33.6,clear
+1479,Soyabean,Hingoli(Kanegoan Naka),2017-07-31,2850.0,7.0,33.6,clear
+1480,Soyabean,Sengoan,2017-07-31,2825.0,6.0,33.6,clear
+1481,Soyabean,Hingoli,2017-02-08,2860.0,104.0,31.4,clear
+1482,Soyabean,Hingoli(Kanegoan Naka),2017-02-08,2810.0,10.0,31.4,clear
+1483,Soyabean,Sengoan,2017-02-08,2825.0,2.0,31.4,clear
+1484,Soyabean,Hingoli,2017-03-08,2875.0,46.0,32.8,clear
+1485,Soyabean,Hingoli(Kanegoan Naka),2017-03-08,2800.0,10.0,32.8,clear
+1486,Soyabean,Jawala-Bajar,2017-03-08,2650.0,6.0,32.8,clear
+1487,Soyabean,Sengoan,2017-03-08,2800.0,3.0,32.8,clear
+1488,Soyabean,Hingoli,2017-11-08,2840.0,21.0,28.8,clear
+1489,Soyabean,Hingoli(Kanegoan Naka),2017-11-08,2840.0,8.0,28.8,clear
+1490,Soyabean,Sengoan,2017-11-08,2900.0,1.0,28.8,clear
+1491,Soyabean,Hingoli,2017-12-08,2880.0,30.0,28.4,clear
+1492,Soyabean,Hingoli(Kanegoan Naka),2017-12-08,2840.0,11.0,28.4,clear
+1493,Soyabean,Kalamnuri,2017-12-08,3050.0,1.0,28.4,clear
+1494,Soyabean,Hingoli,2017-08-14,2850.0,28.0,26.6,clear
+1495,Soyabean,Hingoli(Kanegoan Naka),2017-08-14,2900.0,12.0,26.6,clear
+1496,Soyabean,Sengoan,2017-08-14,2825.0,1.0,26.6,clear
+1497,Soyabean,Hingoli,2017-08-16,2870.0,28.0,29.2,rain
+1498,Soyabean,Hingoli(Kanegoan Naka),2017-08-16,2900.0,10.0,29.2,rain
+1499,Soyabean,Kalamnuri,2017-08-16,2800.0,7.0,29.2,rain
+1500,Soyabean,Sengoan,2017-08-16,2700.0,8.0,29.2,rain
+1501,Soyabean,Hingoli,2017-08-18,3018.0,33.0,27.8,clear
+1502,Soyabean,Hingoli(Kanegoan Naka),2017-08-18,2900.0,11.0,27.8,clear
+1503,Soyabean,Hingoli,2017-08-30,3060.0,49.0,31.0,clear
+1504,Soyabean,Hingoli,2017-08-31,3000.0,13.0,30.4,clear
+1505,Soyabean,Hingoli(Kanegoan Naka),2017-08-31,3100.0,3.0,30.4,clear
+1506,Soyabean,Hingoli,2017-01-09,2977.0,56.0,27.0,clear
+1507,Soyabean,Hingoli(Kanegoan Naka),2017-01-09,3025.0,10.0,27.0,clear
+1508,Soyabean,Jawala-Bajar,2017-01-09,2850.0,6.0,27.0,clear
+1509,Soyabean,Hingoli,2017-10-24,3050.0,185.0,31.2,clear
+1510,Soyabean,Hingoli(Kanegoan Naka),2017-10-24,2700.0,108.0,31.2,clear
+1511,Soyabean,Kalamnuri,2017-10-24,2600.0,30.0,31.2,clear
+1512,Soyabean,Sengoan,2017-10-24,2550.0,164.0,31.2,clear
+1513,Soyabean,Hingoli,2017-10-26,3050.0,216.0,32.4,clear
+1514,Soyabean,Hingoli(Kanegoan Naka),2017-10-26,2670.0,186.0,32.4,clear
+1515,Soyabean,Sengoan,2017-10-26,2611.0,94.0,32.4,clear
+1516,Soyabean,Hingoli,2017-10-27,3050.0,235.0,30.6,clear
+1517,Soyabean,Sengoan,2017-10-27,2450.0,153.0,30.6,clear
+1518,Soyabean,Hingoli,2017-02-11,3050.0,226.0,31.4,clear
+1519,Soyabean,Jawala-Bajar,2017-02-11,2530.0,104.0,31.4,clear
+1520,Soyabean,Kalamnuri,2017-02-11,2500.0,30.0,31.4,clear
+1521,Soyabean,Sengoan,2017-02-11,2525.0,62.0,31.4,clear
+1522,Soyabean,Hingoli,2017-03-11,3050.0,263.0,29.2,clear
+1523,Soyabean,Kalamnuri,2017-03-11,2500.0,120.0,29.2,clear
+1524,Soyabean,Sengoan,2017-03-11,2550.0,83.0,29.2,clear
+1525,Soyabean,Hingoli(Kanegoan Naka),2017-02-03,2775.0,41.0,30.8,clear
+1526,Soyabean,Jawala-Bajar,2017-02-03,2850.0,33.0,30.8,clear
+1527,Soyabean,Kalamnuri,2017-02-03,2700.0,10.0,30.8,clear
+1528,Soyabean,Sengoan,2017-02-03,2720.0,18.0,30.8,clear
+1529,Soyabean,Hingoli(Kanegoan Naka),2017-03-29,2775.0,198.0,39.8,clear
+1530,Soyabean,Jawala-Bajar,2017-03-29,2840.0,59.0,39.8,clear
+1531,Soyabean,Kalamnuri,2017-03-29,2550.0,12.0,39.8,clear
+1532,Soyabean,Sengoan,2017-03-29,2675.0,20.0,39.8,clear
+1533,Soyabean,Hingoli(Kanegoan Naka),2017-01-04,2775.0,140.0,25.2,clear
+1534,Soyabean,Jawala-Bajar,2017-01-04,2840.0,52.0,25.2,clear
+1535,Soyabean,Sengoan,2017-01-04,2675.0,10.0,25.2,clear
+1536,Soyabean,Hingoli(Kanegoan Naka),2017-03-04,2775.0,15.0,33.8,clear
+1537,Soyabean,Jawala-Bajar,2017-03-04,2890.0,57.0,33.8,clear
+1538,Soyabean,Kalamnuri,2017-03-04,2700.0,10.0,33.8,clear
+1539,Soyabean,Sengoan,2017-03-04,2700.0,3.0,33.8,clear
+1540,Soyabean,Hingoli(Kanegoan Naka),2017-07-04,2775.0,65.0,32.2,clear
+1541,Soyabean,Jawala-Bajar,2017-07-04,2800.0,21.0,32.2,clear
+1542,Soyabean,Sengoan,2017-07-04,2650.0,40.0,32.2,clear
+1543,Soyabean,Hingoli(Kanegoan Naka),2017-04-20,2775.0,19.0,40.4,clear
+1544,Soyabean,Kalamnuri,2017-04-20,2700.0,9.0,40.4,clear
+1545,Soyabean,Sengoan,2017-04-20,2700.0,12.0,40.4,clear
+1546,Soyabean,Hingoli(Kanegoan Naka),2017-04-21,2775.0,42.0,41.2,clear
+1547,Soyabean,Jawala-Bajar,2017-04-21,2800.0,21.0,41.2,clear
+1548,Soyabean,Kalamnuri,2017-04-21,2700.0,5.0,41.2,clear
+1549,Soyabean,Hingoli(Kanegoan Naka),2017-04-22,2788.0,79.0,38.4,clear
+1550,Soyabean,Sengoan,2017-04-22,2850.0,26.0,38.4,clear
+1551,Soyabean,Hingoli(Kanegoan Naka),2017-06-23,2775.0,1.0,31.6,clear
+1552,Soyabean,Hingoli(Kanegoan Naka),2017-07-15,2825.0,19.0,29.4,clear
+1553,Soyabean,Kalamnuri,2017-07-15,2700.0,13.0,29.4,clear
+1554,Soyabean,Hingoli(Kanegoan Naka),2017-07-17,2825.0,14.0,27.8,clear
+1555,Soyabean,Sengoan,2017-07-17,2750.0,8.0,27.8,clear
+1556,Soyabean,Hingoli(Kanegoan Naka),2017-07-18,2820.0,14.0,28.2,clear
+1557,Soyabean,Jawala-Bajar,2017-07-18,2600.0,5.0,28.2,clear
+1558,Soyabean,Sengoan,2017-07-18,2825.0,6.0,28.2,clear
+1559,Soyabean,Hingoli(Kanegoan Naka),2017-01-08,2825.0,9.0,26.0,clear
+1560,Soyabean,Sengoan,2017-01-08,2850.0,3.0,26.0,clear
+1561,Soyabean,Hingoli(Kanegoan Naka),2017-04-08,2810.0,11.0,38.4,clear
+1562,Soyabean,Hingoli(Kanegoan Naka),2017-05-08,2820.0,11.0,40.2,clear
+1563,Soyabean,Hingoli(Kanegoan Naka),2017-07-08,2820.0,9.0,33.0,clear
+1564,Soyabean,Hingoli(Kanegoan Naka),2017-08-08,2840.0,14.0,30.4,clear
+1565,Soyabean,Jawala-Bajar,2017-08-08,2700.0,5.0,30.4,clear
+1566,Soyabean,Kalamnuri,2017-08-08,2850.0,1.0,30.4,clear
+1567,Soyabean,Sengoan,2017-08-08,2800.0,1.0,30.4,clear
+1568,Soyabean,Hingoli(Kanegoan Naka),2017-09-08,2841.0,14.0,30.2,clear
+1569,Soyabean,Jawala-Bajar,2017-09-08,2675.0,4.0,30.2,clear
+1570,Soyabean,Sengoan,2017-09-08,2750.0,4.0,30.2,clear
+1571,Soyabean,Hingoli(Kanegoan Naka),2017-10-08,2850.0,12.0,29.4,clear
+1572,Soyabean,Jawala-Bajar,2017-10-08,2650.0,5.0,29.4,clear
+1573,Soyabean,Sengoan,2017-10-08,2790.0,3.0,29.4,clear
+1574,Soyabean,Hingoli(Kanegoan Naka),2017-08-24,3070.0,16.0,28.2,clear
+1575,Soyabean,Hingoli(Kanegoan Naka),2017-08-26,3100.0,11.0,28.2,clear
+1576,Soyabean,Sengoan,2017-08-26,3050.0,10.0,28.2,clear
+1577,Soyabean,Hingoli(Kanegoan Naka),2017-08-28,3100.0,8.0,27.2,clear
+1578,Soyabean,Jawala-Bajar,2017-08-28,2750.0,8.0,27.2,clear
+1579,Soyabean,Sengoan,2017-08-28,2900.0,2.0,27.2,clear
+1580,Soyabean,Hingoli(Kanegoan Naka),2017-08-29,3070.0,7.0,28.0,clear
+1581,Soyabean,Jawala-Bajar,2017-08-29,2750.0,5.0,28.0,clear
+1582,Soyabean,Hingoli(Kanegoan Naka),2017-06-09,3050.0,12.0,32.2,clear
+1583,Soyabean,Jawala-Bajar,2017-06-09,2900.0,17.0,32.2,clear
+1584,Soyabean,Sengoan,2017-06-09,2925.0,0.0,32.2,clear
+1585,Soyabean,Hingoli(Kanegoan Naka),2017-07-09,3070.0,14.0,35.8,clear
+1586,Soyabean,Jawala-Bajar,2017-07-09,2900.0,11.0,35.8,clear
+1587,Soyabean,Kalamnuri,2017-07-09,2800.0,5.0,35.8,clear
+1588,Soyabean,Sengoan,2017-07-09,2900.0,1.0,35.8,clear
+1589,Soyabean,Hingoli(Kanegoan Naka),2017-08-09,3000.0,17.0,28.0,clear
+1590,Soyabean,Sengoan,2017-08-09,2900.0,7.0,28.0,clear
+1591,Soyabean,Hingoli(Kanegoan Naka),2017-09-09,3050.0,14.0,29.6,clear
+1592,Soyabean,Sengoan,2017-09-09,2940.0,5.0,29.6,clear
+1593,Soyabean,Hingoli(Kanegoan Naka),2017-11-09,3050.0,18.0,29.4,clear
+1594,Soyabean,Sengoan,2017-11-09,2900.0,0.0,29.4,clear
+1595,Soyabean,Hingoli(Kanegoan Naka),2017-12-09,3000.0,8.0,26.6,clear
+1596,Soyabean,Jawala-Bajar,2017-12-09,2850.0,5.0,26.6,clear
+1597,Soyabean,Hingoli(Kanegoan Naka),2017-09-13,3050.0,11.0,29.8,clear
+1598,Soyabean,Jawala-Bajar,2017-09-13,2900.0,13.0,29.8,clear
+1599,Soyabean,Sengoan,2017-09-13,2920.0,5.0,29.8,clear
+1600,Soyabean,Hingoli(Kanegoan Naka),2017-09-14,3000.0,9.0,28.0,clear
+1601,Soyabean,Sengoan,2017-09-14,2911.0,1.0,28.0,clear
+1602,Soyabean,Hingoli(Kanegoan Naka),2017-09-16,3000.0,11.0,29.4,clear
+1603,Soyabean,Sengoan,2017-09-16,2915.0,2.0,29.4,clear
+1604,Soyabean,Jawala-Bajar,2017-01-01,2810.0,37.0,26.8,clear
+1605,Soyabean,Kalamnuri,2017-01-01,2600.0,20.0,26.8,clear
+1606,Soyabean,Jawala-Bajar,2017-08-01,2840.0,44.0,32.6,clear
+1607,Soyabean,Kalamnuri,2017-08-01,2700.0,10.0,32.6,clear
+1608,Soyabean,Sengoan,2017-08-01,2810.0,93.0,32.6,clear
+1609,Soyabean,Jawala-Bajar,2017-01-15,2850.0,59.0,27.0,clear
+1610,Soyabean,Kalamnuri,2017-01-15,2700.0,20.0,27.0,clear
+1611,Soyabean,Jawala-Bajar,2017-01-22,2900.0,46.0,29.4,clear
+1612,Soyabean,Jawala-Bajar,2017-12-02,2800.0,35.0,27.8,clear
+1613,Soyabean,Kalamnuri,2017-12-02,2700.0,30.0,27.8,clear
+1614,Soyabean,Jawala-Bajar,2017-02-26,2800.0,63.0,32.6,clear
+1615,Soyabean,Jawala-Bajar,2017-02-28,2820.0,56.0,33.4,clear
+1616,Soyabean,Kalamnuri,2017-02-28,2700.0,20.0,33.4,clear
+1617,Soyabean,Sengoan,2017-02-28,2725.0,35.0,33.4,clear
+1618,Soyabean,Jawala-Bajar,2017-01-03,2840.0,40.0,24.2,clear
+1619,Soyabean,Kalamnuri,2017-01-03,2700.0,15.0,24.2,clear
+1620,Soyabean,Sengoan,2017-01-03,2710.0,18.0,24.2,clear
+1621,Soyabean,Jawala-Bajar,2017-05-03,2840.0,49.0,40.0,clear
+1622,Soyabean,Kalamnuri,2017-05-03,2700.0,10.0,40.0,clear
+1623,Soyabean,Jawala-Bajar,2017-10-03,2800.0,39.0,31.6,clear
+1624,Soyabean,Sengoan,2017-10-03,2675.0,40.0,31.6,clear
+1625,Soyabean,Jawala-Bajar,2017-03-19,2800.0,39.0,34.6,clear
+1626,Soyabean,Jawala-Bajar,2017-03-25,2800.0,44.0,37.2,clear
+1627,Soyabean,Jawala-Bajar,2017-03-28,2850.0,48.0,38.8,clear
+1628,Soyabean,Jawala-Bajar,2017-09-04,2800.0,42.0,30.8,clear
+1629,Soyabean,Kalamnuri,2017-09-04,2600.0,20.0,30.8,clear
+1630,Soyabean,Jawala-Bajar,2017-10-05,2800.0,29.0,33.2,clear
+1631,Soyabean,Sengoan,2017-10-05,2750.0,16.0,33.2,clear
+1632,Soyabean,Jawala-Bajar,2017-09-07,2650.0,6.0,32.0,clear
+1633,Soyabean,Jawala-Bajar,2017-08-22,2800.0,13.0,28.6,clear
+1634,Soyabean,Kalamnuri,2017-08-22,2700.0,7.0,28.6,clear
+1635,Soyabean,Jawala-Bajar,2017-03-09,2850.0,10.0,32.6,clear
+1636,Soyabean,Jawala-Bajar,2017-10-09,2850.0,14.0,29.0,clear
+1637,Soyabean,Jawala-Bajar,2017-09-24,2850.0,7.0,30.6,clear
+1638,Soyabean,Jawala-Bajar,2017-08-10,2740.0,69.0,30.4,clear
+1639,Soyabean,Jawala-Bajar,2017-10-15,2740.0,60.0,30.6,clear
+1640,Soyabean,Kalamnuri,2017-10-15,2700.0,80.0,30.6,clear
+1641,Soyabean,Jawala-Bajar,2017-10-22,2746.0,57.0,30.4,clear
+1642,Soyabean,Jawala-Bajar,2017-10-31,2600.0,86.0,30.4,clear
+1643,Soyabean,Kalamnuri,2017-10-31,2500.0,66.0,30.4,clear
+1644,Soyabean,Sengoan,2017-10-31,2450.0,211.0,30.4,clear
+1645,Soyabean,Jawala-Bajar,2017-01-11,2600.0,73.0,23.4,clear
+1646,Soyabean,Kalamnuri,2017-01-11,2500.0,65.0,23.4,clear
+1647,Soyabean,Sengoan,2017-01-11,2450.0,66.0,23.4,clear
+1648,Soyabean,Kalamnuri,2017-01-14,2700.0,45.0,24.6,clear
+1649,Soyabean,Sengoan,2017-01-14,2780.0,5.0,24.6,clear
+1650,Soyabean,Kalamnuri,2017-03-30,2600.0,48.0,39.6,clear
+1651,Soyabean,Sengoan,2017-03-30,2625.0,4.0,39.6,clear
+1652,Soyabean,Kalamnuri,2017-04-04,2700.0,10.0,39.2,clear
+1653,Soyabean,Kalamnuri,2017-04-23,2700.0,5.0,38.2,clear
+1654,Soyabean,Kalamnuri,2017-04-30,2700.0,12.0,37.2,clear
+1655,Soyabean,Kalamnuri,2017-01-05,2700.0,5.0,26.6,clear
+1656,Soyabean,Kalamnuri,2017-05-14,2700.0,10.0,42.0,clear
+1657,Soyabean,Kalamnuri,2017-05-21,2825.0,35.0,40.0,clear
+1658,Soyabean,Kalamnuri,2017-05-25,2800.0,5.0,41.4,clear
+1659,Soyabean,Kalamnuri,2017-05-28,2700.0,5.0,40.8,clear
+1660,Soyabean,Kalamnuri,2017-04-06,2700.0,10.0,38.6,clear
+1661,Soyabean,Kalamnuri,2017-11-06,2800.0,9.0,29.6,clear
+1662,Soyabean,Kalamnuri,2017-06-13,2700.0,7.0,31.2,clear
+1663,Soyabean,Kalamnuri,2017-06-16,2800.0,8.0,29.8,clear
+1664,Soyabean,Sengoan,2017-06-16,2600.0,3.0,29.8,clear
+1665,Soyabean,Kalamnuri,2017-06-18,2700.0,10.0,34.8,clear
+1666,Soyabean,Kalamnuri,2017-06-22,2700.0,5.0,35.2,clear
+1667,Soyabean,Sengoan,2017-06-22,2500.0,1.0,35.2,clear
+1668,Soyabean,Kalamnuri,2017-02-07,2800.0,10.0,30.2,clear
+1669,Soyabean,Kalamnuri,2017-07-28,2700.0,6.0,29.4,clear
+1670,Soyabean,Sengoan,2017-07-28,2750.0,2.0,29.4,clear
+1671,Soyabean,Kalamnuri,2017-10-29,2500.0,50.0,29.8,clear
+1672,Soyabean,Kalamnuri,2017-10-30,2500.0,47.0,30.8,clear
+1673,Soyabean,Sengoan,2017-10-30,2450.0,222.0,30.8,clear
+1674,Soyabean,Sengoan,2017-02-22,2650.0,11.0,33.6,clear
+1675,Soyabean,Sengoan,2017-11-03,2675.0,15.0,29.2,clear
+1676,Soyabean,Sengoan,2017-11-04,2700.0,35.0,25.2,clear
+1677,Soyabean,Sengoan,2017-12-04,2725.0,19.0,26.8,clear
+1678,Soyabean,Sengoan,2017-04-15,2760.0,25.0,40.6,clear
+1679,Soyabean,Sengoan,2017-04-25,2780.0,44.0,38.8,clear
+1680,Soyabean,Sengoan,2017-04-27,2750.0,17.0,40.2,clear
+1681,Soyabean,Sengoan,2017-04-28,2775.0,16.0,39.8,clear
+1682,Soyabean,Sengoan,2017-04-29,2750.0,34.0,39.4,clear
+1683,Soyabean,Sengoan,2017-06-05,2700.0,6.0,35.2,clear
+1684,Soyabean,Sengoan,2017-06-14,2550.0,4.0,33.4,clear
+1685,Soyabean,Sengoan,2017-06-20,2700.0,3.0,34.2,clear
+1686,Soyabean,Sengoan,2017-06-21,2650.0,2.0,35.0,clear
+1687,Soyabean,Sengoan,2017-06-24,2700.0,7.0,33.6,clear
+1688,Soyabean,Sengoan,2017-06-26,2650.0,1.0,31.6,clear
+1689,Soyabean,Sengoan,2017-06-29,2750.0,6.0,32.4,clear
+1690,Soyabean,Sengoan,2017-06-30,2600.0,9.0,33.0,clear
+1691,Soyabean,Sengoan,2017-01-07,2625.0,2.0,25.4,clear
+1692,Soyabean,Sengoan,2017-03-07,2825.0,11.0,35.0,clear
+1693,Soyabean,Sengoan,2017-04-07,2800.0,1.0,38.2,clear
+1694,Soyabean,Sengoan,2017-05-07,2800.0,7.0,41.6,clear
+1695,Soyabean,Sengoan,2017-06-07,2800.0,2.0,33.2,clear
+1696,Soyabean,Sengoan,2017-05-09,2900.0,4.0,38.6,clear
+1697,Soyabean,Sengoan,2017-10-28,2400.0,144.0,31.8,clear

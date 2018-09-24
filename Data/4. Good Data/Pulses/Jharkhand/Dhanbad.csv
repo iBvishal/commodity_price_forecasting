@@ -1,0 +1,412 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Dhanbad,2015-12-11,14325.0,0.0,23.0,clear
+1,Lentil(Masur),Dhanbad,2015-12-11,9065.0,0.0,23.0,clear
+2,Arhar (Tur/Red Gram),Dhanbad,2015-12-18,14325.0,0.0,22.2,clear
+3,Bengal Gram(Gram),Dhanbad,2015-12-18,6850.0,0.0,22.2,clear
+4,Lentil(Masur),Dhanbad,2015-12-18,9875.0,0.0,22.2,clear
+5,Arhar (Tur/Red Gram),Dhanbad,2015-12-19,14310.0,0.0,22.0,clear
+6,Arhar (Tur/Red Gram),Dhanbad,2015-12-20,14310.0,0.0,20.4,clear
+7,Bengal Gram(Gram),Dhanbad,2015-12-20,6850.0,0.0,20.4,clear
+8,Lentil(Masur),Dhanbad,2015-12-20,9880.0,0.0,20.4,clear
+9,Arhar (Tur/Red Gram),Dhanbad,2015-12-21,14325.0,0.0,20.6,clear
+10,Arhar (Tur/Red Gram),Dhanbad,2015-12-22,14325.0,0.0,19.6,clear
+11,Bengal Gram(Gram),Dhanbad,2015-12-22,6850.0,0.0,19.6,clear
+12,Lentil(Masur),Dhanbad,2015-12-22,9985.0,0.0,19.6,clear
+13,Arhar (Tur/Red Gram),Dhanbad,2015-12-23,14320.0,0.0,22.4,clear
+14,Arhar (Tur/Red Gram),Dhanbad,2015-12-24,14325.0,0.0,21.8,clear
+15,Bengal Gram(Gram),Dhanbad,2015-12-24,6880.0,0.0,21.8,clear
+16,Lentil(Masur),Dhanbad,2015-12-24,9930.0,0.0,21.8,clear
+17,Arhar (Tur/Red Gram),Dhanbad,2015-12-25,14325.0,0.0,19.8,clear
+18,Lentil(Masur),Dhanbad,2015-12-25,9960.0,0.0,19.8,clear
+19,Arhar (Tur/Red Gram),Dhanbad,2015-12-26,14325.0,0.0,22.4,clear
+20,Bengal Gram(Gram),Dhanbad,2015-12-26,6850.0,0.0,22.4,clear
+21,Lentil(Masur),Dhanbad,2015-12-26,9870.0,0.0,22.4,clear
+22,Arhar (Tur/Red Gram),Dhanbad,2015-12-27,14320.0,0.0,22.4,clear
+23,Arhar (Tur/Red Gram),Dhanbad,2015-12-28,14320.0,0.0,23.8,clear
+24,Bengal Gram(Gram),Dhanbad,2015-12-28,6870.0,0.0,23.8,clear
+25,Lentil(Masur),Dhanbad,2015-12-28,9960.0,0.0,23.8,clear
+26,Arhar (Tur/Red Gram),Dhanbad,2015-12-30,13870.0,0.0,25.0,clear
+27,Bengal Gram(Gram),Dhanbad,2015-12-30,6850.0,0.0,25.0,clear
+28,Lentil(Masur),Dhanbad,2015-12-30,7380.0,0.0,25.0,clear
+29,Arhar (Tur/Red Gram),Dhanbad,2015-12-31,13870.0,0.0,23.6,clear
+30,Bengal Gram(Gram),Dhanbad,2015-12-31,6870.0,0.0,23.6,clear
+31,Lentil(Masur),Dhanbad,2015-12-31,7345.0,0.0,23.6,clear
+32,Lentil(Masur),Dhanbad,2015-12-07,8265.0,0.0,25.6,clear
+33,Lentil(Masur),Dhanbad,2015-12-09,9385.0,0.0,26.4,clear
+34,Lentil(Masur),Dhanbad,2015-12-10,9385.0,0.0,27.2,clear
+35,Lentil(Masur),Dhanbad,2015-12-12,9965.0,0.0,27.6,clear
+36,Lentil(Masur),Dhanbad,2015-12-15,10875.0,0.0,23.0,clear
+37,Arhar (Tur/Red Gram),Dhanbad,2016-01-01,13860.0,0.0,25.2,clear
+38,Bengal Gram(Gram),Dhanbad,2016-01-01,6850.0,0.0,25.2,clear
+39,Lentil(Masur),Dhanbad,2016-01-01,7350.0,0.0,25.2,clear
+40,Arhar (Tur/Red Gram),Dhanbad,2016-02-01,13830.0,0.0,29.0,clear
+41,Bengal Gram(Gram),Dhanbad,2016-02-01,6840.0,0.0,29.0,clear
+42,Lentil(Masur),Dhanbad,2016-02-01,7360.0,0.0,29.0,clear
+43,Arhar (Tur/Red Gram),Dhanbad,2016-03-01,13825.0,0.0,32.0,clear
+44,Lentil(Masur),Dhanbad,2016-03-01,7380.0,0.0,32.0,clear
+45,Arhar (Tur/Red Gram),Dhanbad,2016-04-01,13750.0,0.0,33.4,clear
+46,Bengal Gram(Gram),Dhanbad,2016-04-01,6870.0,0.0,33.4,clear
+47,Lentil(Masur),Dhanbad,2016-04-01,7360.0,0.0,33.4,clear
+48,Arhar (Tur/Red Gram),Dhanbad,2016-05-01,13810.0,0.0,40.0,clear
+49,Lentil(Masur),Dhanbad,2016-05-01,7360.0,0.0,40.0,clear
+50,Arhar (Tur/Red Gram),Dhanbad,2016-06-01,13810.0,0.0,26.1,clear
+51,Lentil(Masur),Dhanbad,2016-06-01,7340.0,0.0,26.1,clear
+52,Arhar (Tur/Red Gram),Dhanbad,2016-07-01,13810.0,0.0,27.4,clear
+53,Lentil(Masur),Dhanbad,2016-07-01,7360.0,0.0,27.4,clear
+54,Arhar (Tur/Red Gram),Dhanbad,2016-08-01,13710.0,0.0,29.8,clear
+55,Lentil(Masur),Dhanbad,2016-08-01,7340.0,0.0,29.8,clear
+56,Arhar (Tur/Red Gram),Dhanbad,2016-09-01,13810.0,0.0,33.0,clear
+57,Lentil(Masur),Dhanbad,2016-09-01,7360.0,0.0,33.0,clear
+58,Arhar (Tur/Red Gram),Dhanbad,2016-10-01,13750.0,0.0,31.2,clear
+59,Bengal Gram(Gram),Dhanbad,2016-10-01,6680.0,0.0,31.2,clear
+60,Arhar (Tur/Red Gram),Dhanbad,2016-12-01,13825.0,0.0,26.0,clear
+61,Lentil(Masur),Dhanbad,2016-12-01,7340.0,0.0,26.0,clear
+62,Arhar (Tur/Red Gram),Dhanbad,2016-01-13,13825.0,0.0,24.2,clear
+63,Bengal Gram(Gram),Dhanbad,2016-01-13,6890.0,0.0,24.2,clear
+64,Arhar (Tur/Red Gram),Dhanbad,2016-01-14,13825.0,0.0,12.0,clear
+65,Bengal Gram(Gram),Dhanbad,2016-01-14,6875.0,0.0,12.0,clear
+66,Lentil(Masur),Dhanbad,2016-01-14,7350.0,0.0,12.0,clear
+67,Arhar (Tur/Red Gram),Dhanbad,2016-01-19,13810.0,0.0,22.0,clear
+68,Arhar (Tur/Red Gram),Dhanbad,2016-01-20,12725.0,0.0,18.2,clear
+69,Arhar (Tur/Red Gram),Dhanbad,2016-01-21,12625.0,0.0,20.2,clear
+70,Bengal Gram(Gram),Dhanbad,2016-01-21,6840.0,0.0,20.2,clear
+71,Arhar (Tur/Red Gram),Dhanbad,2016-01-22,12870.0,0.0,20.6,clear
+72,Lentil(Masur),Dhanbad,2016-01-22,6680.0,0.0,20.6,clear
+73,Arhar (Tur/Red Gram),Dhanbad,2016-01-24,12750.0,0.0,21.9,clear
+74,Arhar (Tur/Red Gram),Dhanbad,2016-01-30,12825.0,0.0,28.8,clear
+75,Lentil(Masur),Dhanbad,2016-01-30,6670.0,0.0,28.8,clear
+76,Arhar (Tur/Red Gram),Dhanbad,2016-02-02,11625.0,0.0,29.4,clear
+77,Arhar (Tur/Red Gram),Dhanbad,2016-03-02,11525.0,0.0,33.0,clear
+78,Bengal Gram(Gram),Dhanbad,2016-03-02,6780.0,0.0,33.0,clear
+79,Lentil(Masur),Dhanbad,2016-03-02,6625.0,0.0,33.0,clear
+80,Arhar (Tur/Red Gram),Dhanbad,2016-04-02,11645.0,0.0,37.0,clear
+81,Lentil(Masur),Dhanbad,2016-04-02,6670.0,0.0,37.0,clear
+82,Arhar (Tur/Red Gram),Dhanbad,2016-05-02,11625.0,0.0,38.2,clear
+83,Lentil(Masur),Dhanbad,2016-05-02,6680.0,0.0,38.2,clear
+84,Arhar (Tur/Red Gram),Dhanbad,2016-06-02,11625.0,0.0,34.0,clear
+85,Lentil(Masur),Dhanbad,2016-06-02,6740.0,0.0,34.0,clear
+86,Arhar (Tur/Red Gram),Dhanbad,2016-07-02,11625.0,0.0,28.0,clear
+87,Bengal Gram(Gram),Dhanbad,2016-07-02,6840.0,0.0,28.0,clear
+88,Lentil(Masur),Dhanbad,2016-07-02,6685.0,0.0,28.0,clear
+89,Arhar (Tur/Red Gram),Dhanbad,2016-08-02,11645.0,0.0,26.0,clear
+90,Lentil(Masur),Dhanbad,2016-08-02,6650.0,0.0,26.0,clear
+91,Arhar (Tur/Red Gram),Dhanbad,2016-09-02,11825.0,0.0,28.0,clear
+92,Lentil(Masur),Dhanbad,2016-09-02,6680.0,0.0,28.0,clear
+93,Arhar (Tur/Red Gram),Dhanbad,2016-11-02,11625.0,0.0,31.0,clear
+94,Lentil(Masur),Dhanbad,2016-11-02,6630.0,0.0,31.0,clear
+95,Arhar (Tur/Red Gram),Dhanbad,2016-12-02,11625.0,0.0,26.6,clear
+96,Arhar (Tur/Red Gram),Dhanbad,2016-02-13,11625.0,0.0,27.6,clear
+97,Bengal Gram(Gram),Dhanbad,2016-02-13,6850.0,0.0,27.6,clear
+98,Lentil(Masur),Dhanbad,2016-02-13,6645.0,0.0,27.6,clear
+99,Arhar (Tur/Red Gram),Dhanbad,2016-02-14,11635.0,0.0,31.6,clear
+100,Lentil(Masur),Dhanbad,2016-02-14,6680.0,0.0,31.6,clear
+101,Arhar (Tur/Red Gram),Dhanbad,2016-02-15,11625.0,0.0,28.8,clear
+102,Lentil(Masur),Dhanbad,2016-02-15,6680.0,0.0,28.8,clear
+103,Arhar (Tur/Red Gram),Dhanbad,2016-02-16,11625.0,0.0,31.6,clear
+104,Lentil(Masur),Dhanbad,2016-02-16,6680.0,0.0,31.6,clear
+105,Arhar (Tur/Red Gram),Dhanbad,2016-02-17,11625.0,0.0,32.0,clear
+106,Lentil(Masur),Dhanbad,2016-02-17,6685.0,0.0,32.0,clear
+107,Arhar (Tur/Red Gram),Dhanbad,2016-02-18,11625.0,0.0,34.0,clear
+108,Lentil(Masur),Dhanbad,2016-02-18,6680.0,0.0,34.0,clear
+109,Arhar (Tur/Red Gram),Dhanbad,2016-02-19,11825.0,0.0,35.4,clear
+110,Lentil(Masur),Dhanbad,2016-02-19,6665.0,0.0,35.4,clear
+111,Arhar (Tur/Red Gram),Dhanbad,2016-02-24,11625.0,0.0,28.8,clear
+112,Lentil(Masur),Dhanbad,2016-02-24,6650.0,0.0,28.8,clear
+113,Arhar (Tur/Red Gram),Dhanbad,2016-02-26,11625.0,0.0,26.4,clear
+114,Lentil(Masur),Dhanbad,2016-02-26,6680.0,0.0,26.4,clear
+115,Arhar (Tur/Red Gram),Dhanbad,2016-01-03,11625.0,0.0,24.6,clear
+116,Lentil(Masur),Dhanbad,2016-01-03,6680.0,0.0,24.6,clear
+117,Arhar (Tur/Red Gram),Dhanbad,2016-03-03,11625.0,0.0,33.4,clear
+118,Lentil(Masur),Dhanbad,2016-03-03,6690.0,0.0,33.4,clear
+119,Arhar (Tur/Red Gram),Dhanbad,2016-05-03,11625.0,0.0,37.4,clear
+120,Bengal Gram(Gram),Dhanbad,2016-05-03,6785.0,0.0,37.4,clear
+121,Lentil(Masur),Dhanbad,2016-05-03,6690.0,0.0,37.4,clear
+122,Arhar (Tur/Red Gram),Dhanbad,2016-08-03,11625.0,0.0,26.0,clear
+123,Lentil(Masur),Dhanbad,2016-08-03,6680.0,0.0,26.0,clear
+124,Arhar (Tur/Red Gram),Dhanbad,2016-03-15,11625.0,0.0,32.0,clear
+125,Bengal Gram(Gram),Dhanbad,2016-03-15,6870.0,0.0,32.0,clear
+126,Lentil(Masur),Dhanbad,2016-03-15,6650.0,0.0,32.0,clear
+127,Arhar (Tur/Red Gram),Dhanbad,2016-03-16,11635.0,0.0,32.2,clear
+128,Lentil(Masur),Dhanbad,2016-03-16,6650.0,0.0,32.2,clear
+129,Arhar (Tur/Red Gram),Dhanbad,2016-03-18,11635.0,0.0,35.0,clear
+130,Lentil(Masur),Dhanbad,2016-03-18,6670.0,0.0,35.0,clear
+131,Arhar (Tur/Red Gram),Dhanbad,2016-03-19,11645.0,0.0,35.6,clear
+132,Bengal Gram(Gram),Dhanbad,2016-03-19,6690.0,0.0,35.6,clear
+133,Lentil(Masur),Dhanbad,2016-03-19,6670.0,0.0,35.6,clear
+134,Arhar (Tur/Red Gram),Dhanbad,2016-03-20,11635.0,0.0,35.2,clear
+135,Lentil(Masur),Dhanbad,2016-03-20,6645.0,0.0,35.2,clear
+136,Arhar (Tur/Red Gram),Dhanbad,2016-03-21,11625.0,0.0,36.0,clear
+137,Lentil(Masur),Dhanbad,2016-03-21,6635.0,0.0,36.0,clear
+138,Arhar (Tur/Red Gram),Dhanbad,2016-03-22,11635.0,0.0,34.6,clear
+139,Lentil(Masur),Dhanbad,2016-03-22,6635.0,0.0,34.6,clear
+140,Arhar (Tur/Red Gram),Dhanbad,2016-03-23,11625.0,0.0,34.2,clear
+141,Bengal Gram(Gram),Dhanbad,2016-03-23,6870.0,0.0,34.2,clear
+142,Lentil(Masur),Dhanbad,2016-03-23,6680.0,0.0,34.2,clear
+143,Arhar (Tur/Red Gram),Dhanbad,2016-03-24,11625.0,0.0,35.4,clear
+144,Lentil(Masur),Dhanbad,2016-03-24,6680.0,0.0,35.4,clear
+145,Arhar (Tur/Red Gram),Dhanbad,2016-03-28,11825.0,0.0,36.2,clear
+146,Lentil(Masur),Dhanbad,2016-03-28,6635.0,0.0,36.2,clear
+147,Arhar (Tur/Red Gram),Dhanbad,2016-03-29,11625.0,0.0,37.0,clear
+148,Lentil(Masur),Dhanbad,2016-03-29,6680.0,0.0,37.0,clear
+149,Arhar (Tur/Red Gram),Dhanbad,2016-03-30,11825.0,0.0,36.2,clear
+150,Lentil(Masur),Dhanbad,2016-03-30,6740.0,0.0,36.2,clear
+151,Arhar (Tur/Red Gram),Dhanbad,2016-03-31,11630.0,0.0,37.0,clear
+152,Lentil(Masur),Dhanbad,2016-03-31,6650.0,0.0,37.0,clear
+153,Arhar (Tur/Red Gram),Dhanbad,2016-02-04,11685.0,0.0,25.6,clear
+154,Lentil(Masur),Dhanbad,2016-02-04,6690.0,0.0,25.6,clear
+155,Arhar (Tur/Red Gram),Dhanbad,2016-03-04,11685.0,0.0,35.0,clear
+156,Lentil(Masur),Dhanbad,2016-03-04,6690.0,0.0,35.0,clear
+157,Arhar (Tur/Red Gram),Dhanbad,2016-04-04,11625.0,0.0,40.0,clear
+158,Lentil(Masur),Dhanbad,2016-04-04,6680.0,0.0,40.0,clear
+159,Arhar (Tur/Red Gram),Dhanbad,2016-05-04,11875.0,0.0,34.0,clear
+160,Lentil(Masur),Dhanbad,2016-05-04,6680.0,0.0,34.0,clear
+161,Arhar (Tur/Red Gram),Dhanbad,2016-06-04,11635.0,0.0,35.6,clear
+162,Lentil(Masur),Dhanbad,2016-06-04,6660.0,0.0,35.6,clear
+163,Arhar (Tur/Red Gram),Dhanbad,2016-07-04,11625.0,0.0,29.0,clear
+164,Lentil(Masur),Dhanbad,2016-07-04,6650.0,0.0,29.0,clear
+165,Arhar (Tur/Red Gram),Dhanbad,2016-08-04,11630.0,0.0,28.4,clear
+166,Lentil(Masur),Dhanbad,2016-08-04,6690.0,0.0,28.4,clear
+167,Arhar (Tur/Red Gram),Dhanbad,2016-10-04,11840.0,0.0,33.0,clear
+168,Lentil(Masur),Dhanbad,2016-10-04,6690.0,0.0,33.0,clear
+169,Arhar (Tur/Red Gram),Dhanbad,2016-04-15,11625.0,0.0,41.0,clear
+170,Arhar (Tur/Red Gram),Dhanbad,2016-04-16,11625.0,0.0,42.2,clear
+171,Lentil(Masur),Dhanbad,2016-04-16,6680.0,0.0,42.2,clear
+172,Arhar (Tur/Red Gram),Dhanbad,2016-04-17,11725.0,0.0,42.0,clear
+173,Lentil(Masur),Dhanbad,2016-04-17,6680.0,0.0,42.0,clear
+174,Arhar (Tur/Red Gram),Dhanbad,2016-04-18,11625.0,0.0,34.0,clear
+175,Lentil(Masur),Dhanbad,2016-04-18,6690.0,0.0,34.0,clear
+176,Arhar (Tur/Red Gram),Dhanbad,2016-04-19,11625.0,0.0,42.2,clear
+177,Arhar (Tur/Red Gram),Dhanbad,2016-04-20,11625.0,0.0,42.2,clear
+178,Lentil(Masur),Dhanbad,2016-04-20,6685.0,0.0,42.2,clear
+179,Arhar (Tur/Red Gram),Dhanbad,2016-04-22,11625.0,0.0,42.0,clear
+180,Lentil(Masur),Dhanbad,2016-04-22,6680.0,0.0,42.0,clear
+181,Arhar (Tur/Red Gram),Dhanbad,2016-04-23,13680.0,0.0,42.4,clear
+182,Lentil(Masur),Dhanbad,2016-04-23,9875.0,0.0,42.4,clear
+183,Arhar (Tur/Red Gram),Dhanbad,2016-04-24,13525.0,0.0,31.0,clear
+184,Lentil(Masur),Dhanbad,2016-04-24,9875.0,0.0,31.0,clear
+185,Arhar (Tur/Red Gram),Dhanbad,2016-04-25,13825.0,0.0,41.0,clear
+186,Lentil(Masur),Dhanbad,2016-04-25,9875.0,0.0,41.0,clear
+187,Arhar (Tur/Red Gram),Dhanbad,2016-04-26,13860.0,0.0,41.4,clear
+188,Lentil(Masur),Dhanbad,2016-04-26,9870.0,0.0,41.4,clear
+189,Arhar (Tur/Red Gram),Dhanbad,2016-04-27,13625.0,0.0,42.2,clear
+190,Lentil(Masur),Dhanbad,2016-04-27,9875.0,0.0,42.2,clear
+191,Arhar (Tur/Red Gram),Dhanbad,2016-04-28,13780.0,0.0,41.0,clear
+192,Lentil(Masur),Dhanbad,2016-04-28,9870.0,0.0,41.0,clear
+193,Arhar (Tur/Red Gram),Dhanbad,2016-01-05,13825.0,0.0,12.0,clear
+194,Arhar (Tur/Red Gram),Dhanbad,2016-02-05,13825.0,0.0,26.0,clear
+195,Lentil(Masur),Dhanbad,2016-02-05,9850.0,0.0,26.0,clear
+196,Arhar (Tur/Red Gram),Dhanbad,2016-05-05,13625.0,0.0,31.0,clear
+197,Lentil(Masur),Dhanbad,2016-05-05,9865.0,0.0,31.0,clear
+198,Arhar (Tur/Red Gram),Dhanbad,2016-06-05,13630.0,0.0,32.4,clear
+199,Lentil(Masur),Dhanbad,2016-06-05,9870.0,0.0,32.4,clear
+200,Arhar (Tur/Red Gram),Dhanbad,2016-07-05,13610.0,0.0,29.4,clear
+201,Lentil(Masur),Dhanbad,2016-07-05,9875.0,0.0,29.4,clear
+202,Arhar (Tur/Red Gram),Dhanbad,2016-08-05,13625.0,0.0,29.0,clear
+203,Bengal Gram(Gram),Dhanbad,2016-08-05,7760.0,0.0,29.0,clear
+204,Lentil(Masur),Dhanbad,2016-08-05,9875.0,0.0,29.0,clear
+205,Arhar (Tur/Red Gram),Dhanbad,2016-09-05,13425.0,0.0,26.8,clear
+206,Bengal Gram(Gram),Dhanbad,2016-09-05,7685.0,0.0,26.8,clear
+207,Lentil(Masur),Dhanbad,2016-09-05,9935.0,0.0,26.8,clear
+208,Arhar (Tur/Red Gram),Dhanbad,2016-11-05,13325.0,0.0,28.8,clear
+209,Lentil(Masur),Dhanbad,2016-11-05,7685.0,0.0,28.8,clear
+210,Arhar (Tur/Red Gram),Dhanbad,2016-12-05,13325.0,0.0,26.4,clear
+211,Lentil(Masur),Dhanbad,2016-12-05,9960.0,0.0,26.4,clear
+212,Arhar (Tur/Red Gram),Dhanbad,2016-05-13,13380.0,0.0,41.0,clear
+213,Lentil(Masur),Dhanbad,2016-05-13,9960.0,0.0,41.0,clear
+214,Arhar (Tur/Red Gram),Dhanbad,2016-05-14,13325.0,0.0,33.2,clear
+215,Lentil(Masur),Dhanbad,2016-05-14,9965.0,0.0,33.2,clear
+216,Arhar (Tur/Red Gram),Dhanbad,2016-05-15,13330.0,0.0,30.2,clear
+217,Bengal Gram(Gram),Dhanbad,2016-05-15,7750.0,0.0,30.2,clear
+218,Lentil(Masur),Dhanbad,2016-05-15,9960.0,0.0,30.2,clear
+219,Arhar (Tur/Red Gram),Dhanbad,2016-05-16,13330.0,0.0,36.6,clear
+220,Lentil(Masur),Dhanbad,2016-05-16,9960.0,0.0,36.6,clear
+221,Arhar (Tur/Red Gram),Dhanbad,2016-05-19,13380.0,0.0,36.0,clear
+222,Lentil(Masur),Dhanbad,2016-05-19,9980.0,0.0,36.0,clear
+223,Arhar (Tur/Red Gram),Dhanbad,2016-05-20,13360.0,0.0,32.0,clear
+224,Bengal Gram(Gram),Dhanbad,2016-05-20,7650.0,0.0,32.0,clear
+225,Lentil(Masur),Dhanbad,2016-05-20,9980.0,0.0,32.0,clear
+226,Arhar (Tur/Red Gram),Dhanbad,2016-05-21,13380.0,0.0,28.2,clear
+227,Bengal Gram(Gram),Dhanbad,2016-05-21,8355.0,0.0,28.2,clear
+228,Lentil(Masur),Dhanbad,2016-05-21,9870.0,0.0,28.2,clear
+229,Arhar (Tur/Red Gram),Dhanbad,2016-05-22,13420.0,0.0,37.0,clear
+230,Bengal Gram(Gram),Dhanbad,2016-05-22,8270.0,0.0,37.0,clear
+231,Lentil(Masur),Dhanbad,2016-05-22,9980.0,0.0,37.0,clear
+232,Arhar (Tur/Red Gram),Dhanbad,2016-05-23,13360.0,0.0,37.0,clear
+233,Lentil(Masur),Dhanbad,2016-05-23,9960.0,0.0,37.0,clear
+234,Arhar (Tur/Red Gram),Dhanbad,2016-05-24,13380.0,0.0,34.0,clear
+235,Lentil(Masur),Dhanbad,2016-05-24,9980.0,0.0,34.0,clear
+236,Arhar (Tur/Red Gram),Dhanbad,2016-05-26,13360.0,0.0,37.8,clear
+237,Lentil(Masur),Dhanbad,2016-05-26,9960.0,0.0,37.8,clear
+238,Arhar (Tur/Red Gram),Dhanbad,2016-05-27,13260.0,0.0,29.8,clear
+239,Bengal Gram(Gram),Dhanbad,2016-05-27,8260.0,0.0,29.8,clear
+240,Arhar (Tur/Red Gram),Dhanbad,2016-05-28,13340.0,0.0,37.4,clear
+241,Lentil(Masur),Dhanbad,2016-05-28,9870.0,0.0,37.4,clear
+242,Arhar (Tur/Red Gram),Dhanbad,2016-05-29,13360.0,0.0,27.2,clear
+243,Lentil(Masur),Dhanbad,2016-05-29,9960.0,0.0,27.2,clear
+244,Arhar (Tur/Red Gram),Dhanbad,2016-05-30,13450.0,0.0,27.0,clear
+245,Bengal Gram(Gram),Dhanbad,2016-05-30,8270.0,0.0,27.0,clear
+246,Arhar (Tur/Red Gram),Dhanbad,2016-08-06,13640.0,0.0,26.8,clear
+247,Bengal Gram(Gram),Dhanbad,2016-08-06,8970.0,0.0,26.8,clear
+248,Lentil(Masur),Dhanbad,2016-08-06,10600.0,0.0,26.8,clear
+249,Arhar (Tur/Red Gram),Dhanbad,2016-09-06,13625.0,0.0,27.2,clear
+250,Lentil(Masur),Dhanbad,2016-09-06,10825.0,0.0,27.2,clear
+251,Arhar (Tur/Red Gram),Dhanbad,2016-10-06,13620.0,0.0,26.0,clear
+252,Bengal Gram(Gram),Dhanbad,2016-10-06,8950.0,0.0,26.0,clear
+253,Lentil(Masur),Dhanbad,2016-10-06,10500.0,0.0,26.0,clear
+254,Arhar (Tur/Red Gram),Dhanbad,2016-06-18,13670.0,0.0,28.6,clear
+255,Lentil(Masur),Dhanbad,2016-06-18,10870.0,0.0,28.6,clear
+256,Arhar (Tur/Red Gram),Dhanbad,2016-06-19,13650.0,0.0,30.0,clear
+257,Bengal Gram(Gram),Dhanbad,2016-06-19,8970.0,0.0,30.0,clear
+258,Lentil(Masur),Dhanbad,2016-06-19,10850.0,0.0,30.0,clear
+259,Arhar (Tur/Red Gram),Dhanbad,2016-06-20,13665.0,0.0,26.0,clear
+260,Bengal Gram(Gram),Dhanbad,2016-06-20,8970.0,0.0,26.0,clear
+261,Lentil(Masur),Dhanbad,2016-06-20,10850.0,0.0,26.0,clear
+262,Arhar (Tur/Red Gram),Dhanbad,2016-06-21,13650.0,0.0,34.6,clear
+263,Bengal Gram(Gram),Dhanbad,2016-06-21,9065.0,0.0,34.6,clear
+264,Lentil(Masur),Dhanbad,2016-06-21,10810.0,0.0,34.6,clear
+265,Arhar (Tur/Red Gram),Dhanbad,2016-06-22,13725.0,0.0,30.0,clear
+266,Lentil(Masur),Dhanbad,2016-06-22,10825.0,0.0,30.0,clear
+267,Arhar (Tur/Red Gram),Dhanbad,2016-06-23,13680.0,0.0,27.6,clear
+268,Bengal Gram(Gram),Dhanbad,2016-06-23,8970.0,0.0,27.6,clear
+269,Arhar (Tur/Red Gram),Dhanbad,2016-06-24,13670.0,0.0,31.4,clear
+270,Bengal Gram(Gram),Dhanbad,2016-06-24,9080.0,0.0,31.4,clear
+271,Arhar (Tur/Red Gram),Dhanbad,2016-06-25,13680.0,0.0,34.0,clear
+272,Lentil(Masur),Dhanbad,2016-06-25,10825.0,0.0,34.0,clear
+273,Arhar (Tur/Red Gram),Dhanbad,2016-06-26,13625.0,0.0,35.0,clear
+274,Lentil(Masur),Dhanbad,2016-06-26,10860.0,0.0,35.0,clear
+275,Arhar (Tur/Red Gram),Dhanbad,2016-06-27,13650.0,0.0,32.2,clear
+276,Bengal Gram(Gram),Dhanbad,2016-06-27,8960.0,0.0,32.2,clear
+277,Lentil(Masur),Dhanbad,2016-06-27,10870.0,0.0,32.2,clear
+278,Arhar (Tur/Red Gram),Dhanbad,2016-06-28,13670.0,0.0,29.4,clear
+279,Arhar (Tur/Red Gram),Dhanbad,2016-03-07,13680.0,0.0,34.0,clear
+280,Bengal Gram(Gram),Dhanbad,2016-03-07,9050.0,0.0,34.0,clear
+281,Lentil(Masur),Dhanbad,2016-03-07,9910.0,0.0,34.0,clear
+282,Arhar (Tur/Red Gram),Dhanbad,2016-04-07,13740.0,0.0,40.0,clear
+283,Bengal Gram(Gram),Dhanbad,2016-04-07,8970.0,0.0,40.0,clear
+284,Lentil(Masur),Dhanbad,2016-04-07,9980.0,0.0,40.0,clear
+285,Arhar (Tur/Red Gram),Dhanbad,2016-05-07,13680.0,0.0,31.4,clear
+286,Bengal Gram(Gram),Dhanbad,2016-05-07,8960.0,0.0,31.4,clear
+287,Lentil(Masur),Dhanbad,2016-05-07,9080.0,0.0,31.4,clear
+288,Arhar (Tur/Red Gram),Dhanbad,2016-06-07,13640.0,0.0,36.0,clear
+289,Lentil(Masur),Dhanbad,2016-06-07,10825.0,0.0,36.0,clear
+290,Arhar (Tur/Red Gram),Dhanbad,2016-07-07,13680.0,0.0,32.8,clear
+291,Bengal Gram(Gram),Dhanbad,2016-07-07,8970.0,0.0,32.8,clear
+292,Lentil(Masur),Dhanbad,2016-07-07,10870.0,0.0,32.8,clear
+293,Arhar (Tur/Red Gram),Dhanbad,2016-08-07,13725.0,0.0,29.0,clear
+294,Bengal Gram(Gram),Dhanbad,2016-08-07,8970.0,0.0,29.0,clear
+295,Lentil(Masur),Dhanbad,2016-08-07,10890.0,0.0,29.0,clear
+296,Arhar (Tur/Red Gram),Dhanbad,2016-09-07,13680.0,0.0,25.8,clear
+297,Bengal Gram(Gram),Dhanbad,2016-09-07,8970.0,0.0,25.8,clear
+298,Lentil(Masur),Dhanbad,2016-09-07,10875.0,0.0,25.8,clear
+299,Arhar (Tur/Red Gram),Dhanbad,2016-10-07,13680.0,0.0,31.0,clear
+300,Bengal Gram(Gram),Dhanbad,2016-10-07,8970.0,0.0,31.0,clear
+301,Lentil(Masur),Dhanbad,2016-10-07,10870.0,0.0,31.0,clear
+302,Arhar (Tur/Red Gram),Dhanbad,2016-11-07,13740.0,0.0,27.6,clear
+303,Bengal Gram(Gram),Dhanbad,2016-11-07,8970.0,0.0,27.6,clear
+304,Lentil(Masur),Dhanbad,2016-11-07,10940.0,0.0,27.6,clear
+305,Arhar (Tur/Red Gram),Dhanbad,2016-07-13,13740.0,0.0,31.2,clear
+306,Lentil(Masur),Dhanbad,2016-07-13,10840.0,0.0,31.2,clear
+307,Arhar (Tur/Red Gram),Dhanbad,2016-07-14,13680.0,0.0,31.4,clear
+308,Bengal Gram(Gram),Dhanbad,2016-07-14,8970.0,0.0,31.4,clear
+309,Lentil(Masur),Dhanbad,2016-07-14,10870.0,0.0,31.4,clear
+310,Arhar (Tur/Red Gram),Dhanbad,2016-07-15,13750.0,0.0,27.8,clear
+311,Lentil(Masur),Dhanbad,2016-07-15,10750.0,0.0,27.8,clear
+312,Arhar (Tur/Red Gram),Dhanbad,2016-07-16,13680.0,0.0,28.0,clear
+313,Bengal Gram(Gram),Dhanbad,2016-07-16,8970.0,0.0,28.0,clear
+314,Lentil(Masur),Dhanbad,2016-07-16,10810.0,0.0,28.0,clear
+315,Arhar (Tur/Red Gram),Dhanbad,2016-07-18,13670.0,0.0,27.4,clear
+316,Lentil(Masur),Dhanbad,2016-07-18,10830.0,0.0,27.4,clear
+317,Arhar (Tur/Red Gram),Dhanbad,2016-07-19,13680.0,0.0,28.4,clear
+318,Bengal Gram(Gram),Dhanbad,2016-07-19,8970.0,0.0,28.4,clear
+319,Lentil(Masur),Dhanbad,2016-07-19,10780.0,0.0,28.4,clear
+320,Arhar (Tur/Red Gram),Dhanbad,2016-07-20,13680.0,0.0,26.6,clear
+321,Lentil(Masur),Dhanbad,2016-07-20,10870.0,0.0,26.6,clear
+322,Arhar (Tur/Red Gram),Dhanbad,2016-07-21,13745.0,0.0,30.0,clear
+323,Bengal Gram(Gram),Dhanbad,2016-07-21,8975.0,0.0,30.0,clear
+324,Arhar (Tur/Red Gram),Dhanbad,2016-07-22,13640.0,0.0,27.2,clear
+325,Bengal Gram(Gram),Dhanbad,2016-07-22,8970.0,0.0,27.2,clear
+326,Lentil(Masur),Dhanbad,2016-07-22,10810.0,0.0,27.2,clear
+327,Arhar (Tur/Red Gram),Dhanbad,2016-07-23,13625.0,0.0,28.0,clear
+328,Lentil(Masur),Dhanbad,2016-07-23,10725.0,0.0,28.0,clear
+329,Arhar (Tur/Red Gram),Dhanbad,2016-07-24,13625.0,0.0,31.2,clear
+330,Bengal Gram(Gram),Dhanbad,2016-07-24,8970.0,0.0,31.2,clear
+331,Lentil(Masur),Dhanbad,2016-07-24,10740.0,0.0,31.2,clear
+332,Arhar (Tur/Red Gram),Dhanbad,2016-07-25,13620.0,0.0,28.8,clear
+333,Bengal Gram(Gram),Dhanbad,2016-07-25,8970.0,0.0,28.8,clear
+334,Arhar (Tur/Red Gram),Dhanbad,2016-07-26,13680.0,0.0,27.4,clear
+335,Bengal Gram(Gram),Dhanbad,2016-07-26,8970.0,0.0,27.4,clear
+336,Lentil(Masur),Dhanbad,2016-07-26,10750.0,0.0,27.4,clear
+337,Arhar (Tur/Red Gram),Dhanbad,2016-07-27,13740.0,0.0,31.0,clear
+338,Lentil(Masur),Dhanbad,2016-07-27,10745.0,0.0,31.0,clear
+339,Arhar (Tur/Red Gram),Dhanbad,2016-07-28,13625.0,0.0,32.8,clear
+340,Bengal Gram(Gram),Dhanbad,2016-07-28,8970.0,0.0,32.8,clear
+341,Lentil(Masur),Dhanbad,2016-07-28,10825.0,0.0,32.8,clear
+342,Arhar (Tur/Red Gram),Dhanbad,2016-07-29,13680.0,0.0,27.8,clear
+343,Lentil(Masur),Dhanbad,2016-07-29,10825.0,0.0,27.8,clear
+344,Arhar (Tur/Red Gram),Dhanbad,2016-07-30,13680.0,0.0,26.0,clear
+345,Lentil(Masur),Dhanbad,2016-07-30,10830.0,0.0,26.0,clear
+346,Arhar (Tur/Red Gram),Dhanbad,2016-01-08,13680.0,0.0,28.0,clear
+347,Bengal Gram(Gram),Dhanbad,2016-01-08,8970.0,0.0,28.0,clear
+348,Lentil(Masur),Dhanbad,2016-01-08,10825.0,0.0,28.0,clear
+349,Arhar (Tur/Red Gram),Dhanbad,2016-02-08,13680.0,0.0,22.0,rain
+350,Bengal Gram(Gram),Dhanbad,2016-02-08,8970.0,0.0,22.0,rain
+351,Arhar (Tur/Red Gram),Dhanbad,2016-03-08,14850.0,0.0,31.8,clear
+352,Lentil(Masur),Dhanbad,2016-03-08,10680.0,0.0,31.8,clear
+353,Arhar (Tur/Red Gram),Dhanbad,2016-03-09,9140.0,0.0,30.8,clear
+354,Arhar (Tur/Red Gram),Dhanbad,2016-08-10,10225.0,0.0,30.4,clear
+355,Bengal Gram(Gram),Dhanbad,2016-01-18,6870.0,0.0,25.0,clear
+356,Lentil(Masur),Dhanbad,2016-01-18,6670.0,0.0,25.0,clear
+357,Bengal Gram(Gram),Dhanbad,2016-01-23,6840.0,0.0,20.0,clear
+358,Lentil(Masur),Dhanbad,2016-01-23,6630.0,0.0,20.0,clear
+359,Bengal Gram(Gram),Dhanbad,2016-01-25,6850.0,0.0,23.0,clear
+360,Lentil(Masur),Dhanbad,2016-01-25,6620.0,0.0,23.0,clear
+361,Bengal Gram(Gram),Dhanbad,2016-01-26,6830.0,0.0,23.4,clear
+362,Lentil(Masur),Dhanbad,2016-01-26,6725.0,0.0,23.4,clear
+363,Bengal Gram(Gram),Dhanbad,2016-01-29,6870.0,0.0,25.2,clear
+364,Lentil(Masur),Dhanbad,2016-01-29,6685.0,0.0,25.2,clear
+365,Bengal Gram(Gram),Dhanbad,2016-01-02,6840.0,0.0,25.2,clear
+366,Lentil(Masur),Dhanbad,2016-01-02,6640.0,0.0,25.2,clear
+367,Bengal Gram(Gram),Dhanbad,2016-10-02,6850.0,0.0,30.2,clear
+368,Lentil(Masur),Dhanbad,2016-10-02,6675.0,0.0,30.2,clear
+369,Bengal Gram(Gram),Dhanbad,2016-02-25,6780.0,0.0,30.6,clear
+370,Lentil(Masur),Dhanbad,2016-02-25,6650.0,0.0,30.6,clear
+371,Bengal Gram(Gram),Dhanbad,2016-06-03,6840.0,0.0,33.0,clear
+372,Lentil(Masur),Dhanbad,2016-06-03,6690.0,0.0,33.0,clear
+373,Bengal Gram(Gram),Dhanbad,2016-03-17,6870.0,0.0,33.0,clear
+374,Lentil(Masur),Dhanbad,2016-03-17,6650.0,0.0,33.0,clear
+375,Bengal Gram(Gram),Dhanbad,2016-01-04,6870.0,0.0,24.0,clear
+376,Lentil(Masur),Dhanbad,2016-01-04,6690.0,0.0,24.0,clear
+377,Bengal Gram(Gram),Dhanbad,2016-11-04,6850.0,0.0,26.8,clear
+378,Lentil(Masur),Dhanbad,2016-11-04,6675.0,0.0,26.8,clear
+379,Bengal Gram(Gram),Dhanbad,2016-10-05,7685.0,0.0,30.0,clear
+380,Lentil(Masur),Dhanbad,2016-10-05,9935.0,0.0,30.0,clear
+381,Bengal Gram(Gram),Dhanbad,2016-07-31,9135.0,0.0,32.0,clear
+382,Lentil(Masur),Dhanbad,2016-07-31,10745.0,0.0,32.0,clear
+383,Bengal Gram(Gram),Dhanbad,2016-04-08,8970.0,0.0,39.0,clear
+384,Bengal Gram(Gram),Dhanbad,2016-05-08,8970.0,0.0,26.0,clear
+385,Bengal Gram(Gram),Dhanbad,2016-08-08,8970.0,0.0,29.0,clear
+386,Bengal Gram(Gram),Dhanbad,2016-09-08,8870.0,0.0,27.3,clear
+387,Bengal Gram(Gram),Dhanbad,2016-10-08,8850.0,0.0,30.0,clear
+388,Bengal Gram(Gram),Dhanbad,2016-11-08,8380.0,0.0,28.0,clear
+389,Bengal Gram(Gram),Dhanbad,2016-12-08,8360.0,0.0,26.4,clear
+390,Bengal Gram(Gram),Dhanbad,2016-08-13,8365.0,0.0,30.4,clear
+391,Bengal Gram(Gram),Dhanbad,2016-08-14,8340.0,0.0,26.6,clear
+392,Bengal Gram(Gram),Dhanbad,2016-08-15,8325.0,0.0,30.0,clear
+393,Bengal Gram(Gram),Dhanbad,2016-08-16,8360.0,0.0,32.4,clear
+394,Bengal Gram(Gram),Dhanbad,2016-08-17,7365.0,0.0,27.0,clear
+395,Bengal Gram(Gram),Dhanbad,2016-08-18,8450.0,0.0,25.0,clear
+396,Bengal Gram(Gram),Dhanbad,2016-09-11,11825.0,0.0,31.4,clear
+397,Lentil(Masur),Dhanbad,2016-01-17,6890.0,0.0,14.6,clear
+398,Lentil(Masur),Dhanbad,2016-01-27,6695.0,0.0,24.6,clear
+399,Lentil(Masur),Dhanbad,2016-01-28,6690.0,0.0,24.8,clear
+400,Lentil(Masur),Dhanbad,2016-01-31,6680.0,0.0,29.0,clear
+401,Lentil(Masur),Dhanbad,2016-02-20,6650.0,0.0,35.8,clear
+402,Lentil(Masur),Dhanbad,2016-09-04,6680.0,0.0,25.4,clear
+403,Lentil(Masur),Dhanbad,2016-04-21,6680.0,0.0,42.4,clear
+404,Lentil(Masur),Dhanbad,2016-03-05,9870.0,0.0,35.2,clear
+405,Lentil(Masur),Dhanbad,2016-04-05,9875.0,0.0,41.0,clear
+406,Arhar (Tur/Red Gram),Dhanbad,2017-08-03,6655.0,0.0,30.0,clear
+407,Arhar (Tur/Red Gram),Dhanbad,2017-05-22,6875.0,0.0,35.0,clear
+408,Bengal Gram(Gram),Dhanbad,2017-04-20,7280.0,0.0,35.0,clear
+409,Bengal Gram(Gram),Dhanbad,2017-04-21,7265.0,0.0,35.0,clear
+410,Bengal Gram(Gram),Dhanbad,2017-01-09,6670.0,0.0,28.4,clear

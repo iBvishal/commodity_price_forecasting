@@ -1,0 +1,965 @@
+,Unnamed: 0,comm_name,state_name,district_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity
+31090,31091,Arhar (Tur/Red Gram),Rajasthan,Udaipur,Udaipur,2012-07-14,3600.0,5.1
+31091,31092,Arhar (Tur/Red Gram),Rajasthan,Udaipur,Udaipur,2012-07-16,3500.0,29.3
+31092,31093,Arhar (Tur/Red Gram),Rajasthan,Udaipur,Udaipur,2012-07-17,3300.0,32.8
+31093,31094,Arhar (Tur/Red Gram),Rajasthan,Udaipur,Udaipur,2012-07-18,3800.0,15.6
+31094,31095,Arhar (Tur/Red Gram),Rajasthan,Udaipur,Udaipur,2012-07-20,4100.0,17.3
+31095,31096,Arhar (Tur/Red Gram),Rajasthan,Udaipur,Udaipur,2012-07-21,3480.0,5.4
+31096,31097,Arhar (Tur/Red Gram),Rajasthan,Udaipur,Udaipur,2012-07-23,3395.0,8.8
+31097,31098,Arhar (Tur/Red Gram),Rajasthan,Udaipur,Udaipur,2012-07-24,3900.0,16.0
+31098,31099,Arhar (Tur/Red Gram),Rajasthan,Udaipur,Udaipur,2012-07-25,3745.0,9.0
+117773,117774,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-02-01,3120.0,5.4
+117774,117775,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-03-01,3400.0,1.0
+117775,117776,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-04-01,3400.0,1.8
+117776,117777,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-05-01,3350.0,4.3
+117777,117778,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-09-01,3400.0,4.0
+117778,117779,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-10-01,3400.0,2.6
+117779,117780,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-11-01,2400.0,0.2
+117780,117781,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-01-13,3300.0,0.4
+117781,117782,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-01-14,3300.0,0.4
+117782,117783,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-01-17,3300.0,0.8
+117783,117784,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-01-18,3300.0,6.0
+117784,117785,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-01-19,3200.0,3.3
+117785,117786,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-01-21,3100.0,0.1
+117786,117787,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-01-23,3000.0,0.8
+117787,117788,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-01-24,3070.0,2.0
+117788,117789,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-01-25,3070.0,13.3
+117789,117790,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-01-27,3075.0,0.4
+117790,117791,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-01-31,3070.0,13.2
+117791,117792,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-01-02,3070.0,0.1
+117792,117793,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-02-02,3070.0,0.2
+117793,117794,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-06-02,3070.0,4.1
+117794,117795,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-07-02,3060.0,0.4
+117795,117796,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-09-02,3040.0,0.3
+117796,117797,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-11-02,3000.0,0.3
+117797,117798,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-02-13,3000.0,1.2
+117798,117799,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-02-14,3000.0,0.1
+117799,117800,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-02-23,3000.0,0.2
+117800,117801,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-02-24,3000.0,0.8
+117801,117802,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-02-28,2900.0,0.5
+117802,117803,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-07-03,2700.0,0.2
+117803,117804,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-03-13,2800.0,1.0
+117804,117805,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-03-05,3000.0,0.1
+117805,117806,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-08-05,2900.0,0.1
+117806,117807,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-11-05,2700.0,0.2
+117807,117808,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-05-17,2900.0,2.5
+117808,117809,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-06-23,3000.0,0.9
+117809,117810,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-06-25,3000.0,1.7
+117810,117811,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-11-07,3100.0,0.3
+117811,117812,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-07-25,3500.0,0.1
+117812,117813,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-07-30,3400.0,0.1
+117813,117814,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-06-08,3400.0,0.1
+117814,117815,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-07-08,3400.0,0.2
+117815,117816,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-08-17,3300.0,0.3
+117816,117817,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-08-21,3300.0,0.1
+117817,117818,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-08-24,3300.0,0.3
+117818,117819,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-08-25,3400.0,0.1
+117819,117820,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-09-28,2800.0,0.1
+117820,117821,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-10-26,3300.0,3.2
+117821,117822,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-03-11,3500.0,2.5
+117822,117823,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-05-11,3500.0,1.6
+117823,117824,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-06-11,3500.0,1.5
+117824,117825,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-12-11,3400.0,0.8
+117825,117826,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-11-16,3000.0,0.6
+117826,117827,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-11-17,3000.0,0.2
+117827,117828,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-11-19,3000.0,1.1
+117828,117829,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-11-21,3400.0,0.5
+117829,117830,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-11-23,3400.0,0.4
+117830,117831,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-11-24,3400.0,1.0
+117831,117832,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-11-28,3500.0,2.0
+117832,117833,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-11-29,3500.0,0.2
+117833,117834,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-11-30,3600.0,2.3
+117834,117835,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-04-12,3600.0,3.3
+117835,117836,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-05-12,3600.0,0.3
+117836,117837,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-06-12,3600.0,1.2
+117837,117838,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-10-12,3600.0,1.9
+117838,117839,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-11-12,3200.0,0.2
+117839,117840,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-12-12,3300.0,0.1
+117840,117841,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-12-13,3300.0,0.1
+117841,117842,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-12-14,3300.0,4.0
+117842,117843,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-12-17,3300.0,10.8
+117843,117844,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-12-19,3200.0,0.1
+117844,117845,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-12-21,3200.0,1.8
+117845,117846,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-12-22,3100.0,1.6
+117846,117847,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-12-25,3200.0,0.4
+117847,117848,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-12-26,3200.0,5.4
+117848,117849,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-12-27,3200.0,0.1
+117849,117850,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-12-29,3000.0,0.1
+117850,117851,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2012-12-31,3000.0,10.0
+152533,152534,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-04-01,4200.0,3.1
+152534,152535,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-07-01,4400.0,1.0
+152535,152536,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-09-01,4400.0,1.0
+152536,152537,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-10-01,4450.0,2.9
+152537,152538,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-01-14,4500.0,2.1
+152538,152539,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-01-17,4500.0,2.9
+152539,152540,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-01-24,4300.0,2.1
+152540,152541,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-03-02,4450.0,1.7
+152541,152542,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-06-02,4450.0,30.0
+152542,152543,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-07-02,4450.0,2.3
+152543,152544,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-08-02,4450.0,4.1
+152544,152545,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-02-13,4000.0,1.0
+152545,152546,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-02-15,4100.0,19.0
+152546,152547,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-02-18,4000.0,3.6
+152547,152548,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-02-22,4100.0,4.1
+152548,152549,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-02-23,4100.0,4.8
+152549,152550,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-02-24,4100.0,8.9
+152550,152551,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-02-25,4100.0,4.6
+152551,152552,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-02-27,4100.0,12.5
+152552,152553,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-02-29,4100.0,4.2
+152553,152554,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-01-03,4100.0,2.5
+152554,152555,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-02-03,4000.0,9.7
+152555,152556,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-06-03,4100.0,1.5
+152556,152557,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-07-03,4100.0,9.0
+152557,152558,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-12-03,4100.0,4.9
+152558,152559,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-03-15,4300.0,10.3
+152559,152560,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-03-16,4400.0,2.5
+152560,152561,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-03-17,4400.0,4.5
+152561,152562,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-03-21,4200.0,9.2
+152562,152563,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-03-22,4100.0,5.8
+152563,152564,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-03-24,4000.0,12.7
+152564,152565,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-03-28,4000.0,10.1
+152565,152566,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-03-29,4000.0,4.0
+152566,152567,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-11-05,4000.0,3.2
+152567,152568,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-05-29,4100.0,2.2
+152568,152569,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-04-06,4000.0,0.1
+152569,152570,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-06-06,4000.0,0.5
+152570,152571,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-07-06,3800.0,0.1
+152571,152572,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-09-06,3800.0,0.2
+152572,152573,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-11-06,3800.0,1.0
+152573,152574,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-06-13,3800.0,0.5
+152574,152575,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-06-14,3650.0,1.1
+152575,152576,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-06-18,3660.0,0.5
+152576,152577,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-06-19,3675.0,0.1
+152577,152578,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-06-20,3700.0,0.7
+152578,152579,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-06-21,3800.0,0.5
+152579,152580,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-06-22,3800.0,0.4
+152580,152581,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-06-26,4000.0,0.2
+152581,152582,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-06-27,4100.0,1.4
+152582,152583,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-06-28,4200.0,1.3
+152583,152584,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-06-29,4200.0,1.1
+152584,152585,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-06-30,4200.0,1.6
+152585,152586,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-02-07,4200.0,0.5
+152586,152587,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-03-07,4200.0,4.4
+152587,152588,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-04-07,4200.0,1.1
+152588,152589,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-05-07,4200.0,1.2
+152589,152590,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-06-07,4200.0,0.7
+152590,152591,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-07-07,4100.0,1.1
+152591,152592,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-09-07,4100.0,1.3
+152592,152593,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-11-07,4200.0,0.8
+152593,152594,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-12-07,4200.0,3.4
+152594,152595,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-07-16,4200.0,0.2
+152595,152596,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-07-17,4400.0,1.8
+152596,152597,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-07-19,4500.0,5.1
+152597,152598,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-07-20,4500.0,1.5
+152598,152599,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-07-21,5000.0,3.1
+152599,152600,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-07-23,5000.0,0.3
+152600,152601,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-07-24,5200.0,0.6
+152601,152602,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-07-25,5200.0,0.3
+152602,152603,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-07-28,5200.0,0.3
+152603,152604,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-07-30,5200.0,0.2
+152604,152605,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-07-31,5000.0,1.4
+152605,152606,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-02-08,5000.0,0.2
+152606,152607,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-06-08,5200.0,3.4
+152607,152608,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-07-08,5200.0,0.5
+152608,152609,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-09-08,5100.0,0.8
+152609,152610,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-10-08,5300.0,0.9
+152610,152611,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-11-08,5300.0,3.1
+152611,152612,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-08-13,5300.0,0.2
+152612,152613,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-08-14,5000.0,0.2
+152613,152614,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-08-16,5000.0,0.1
+152614,152615,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-08-17,4600.0,0.1
+152615,152616,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-08-21,4600.0,1.2
+152616,152617,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-08-23,4700.0,1.1
+152617,152618,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-08-24,4800.0,3.4
+152618,152619,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-08-28,4900.0,1.5
+152619,152620,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-04-09,4450.0,0.1
+152620,152621,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-08-09,4300.0,0.1
+152621,152622,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-09-15,4250.0,3.3
+152622,152623,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-09-20,4300.0,0.2
+152623,152624,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-09-22,4400.0,0.3
+152624,152625,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-10-13,4500.0,1.0
+152625,152626,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-10-20,5000.0,6.2
+152626,152627,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-10-23,5000.0,1.5
+152627,152628,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-10-29,5100.0,1.8
+152628,152629,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-10-31,5000.0,2.0
+152629,152630,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-10-11,5100.0,1.0
+152630,152631,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-12-11,5100.0,2.1
+152631,152632,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-11-21,5000.0,0.5
+152632,152633,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-11-22,5000.0,7.6
+152633,152634,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-11-24,5100.0,3.4
+152634,152635,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-11-26,5200.0,3.0
+152635,152636,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-07-12,5300.0,6.1
+152636,152637,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-12-17,5000.0,6.9
+152637,152638,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-12-18,5000.0,12.9
+152638,152639,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-12-20,5000.0,3.5
+152639,152640,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-12-21,5100.0,4.7
+152640,152641,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-12-22,5000.0,4.5
+152641,152642,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-12-25,5200.0,1.4
+152642,152643,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-12-26,5200.0,7.1
+152643,152644,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2012-12-31,5000.0,1.6
+164184,164185,Lentil(Masur),Rajasthan,Udaipur,Udaipur,2012-07-14,2950.0,14.7
+164185,164186,Lentil(Masur),Rajasthan,Udaipur,Udaipur,2012-07-16,2900.0,20.2
+164186,164187,Lentil(Masur),Rajasthan,Udaipur,Udaipur,2012-07-17,3150.0,32.2
+164187,164188,Lentil(Masur),Rajasthan,Udaipur,Udaipur,2012-07-18,3160.0,26.1
+164188,164189,Lentil(Masur),Rajasthan,Udaipur,Udaipur,2012-07-20,3105.0,29.7
+164189,164190,Lentil(Masur),Rajasthan,Udaipur,Udaipur,2012-07-21,3400.0,10.7
+164190,164191,Lentil(Masur),Rajasthan,Udaipur,Udaipur,2012-07-23,3255.0,11.1
+164191,164192,Lentil(Masur),Rajasthan,Udaipur,Udaipur,2012-07-24,3300.0,41.9
+164192,164193,Lentil(Masur),Rajasthan,Udaipur,Udaipur,2012-07-25,3300.0,6.7
+277543,277544,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-01-01,3000.0,0.1
+277544,277545,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-02-01,3000.0,4.6
+277545,277546,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-04-01,3000.0,12.8
+277546,277547,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-05-01,3100.0,4.3
+277547,277548,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-07-01,3100.0,1.1
+277548,277549,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-08-01,3000.0,28.1
+277549,277550,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-10-01,3000.0,0.1
+277550,277551,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-01-14,3100.0,0.1
+277551,277552,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-01-15,3100.0,3.2
+277552,277553,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-01-19,3100.0,0.1
+277553,277554,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-01-29,3100.0,0.3
+277554,277555,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-01-02,3000.0,0.1
+277555,277556,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-05-02,2900.0,0.1
+277556,277557,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-02-18,2800.0,0.3
+277557,277558,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-02-19,2800.0,0.2
+277558,277559,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-03-13,2900.0,0.3
+277559,277560,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-12-06,3000.0,1.6
+277560,277561,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-06-21,3100.0,0.1
+277561,277562,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-06-22,3100.0,0.2
+277562,277563,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-06-24,3100.0,4.7
+277563,277564,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-06-25,3100.0,1.2
+277564,277565,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-01-07,2875.0,0.1
+277565,277566,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-12-07,2800.0,1.0
+277566,277567,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-07-15,2800.0,1.3
+277567,277568,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-07-19,2900.0,0.6
+277568,277569,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-01-08,2875.0,0.1
+277569,277570,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-05-08,2880.0,0.2
+277570,277571,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-08-19,2850.0,0.3
+277571,277572,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-09-26,3100.0,1.0
+277572,277573,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-10-18,3175.0,4.4
+277573,277574,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-10-22,3175.0,0.1
+277574,277575,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-10-23,3170.0,0.2
+277575,277576,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-10-24,3170.0,1.2
+277576,277577,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-10-25,3170.0,2.0
+277577,277578,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-06-11,3100.0,3.5
+277578,277579,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-08-11,3125.0,2.4
+277579,277580,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-11-18,3100.0,3.1
+277580,277581,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-11-19,3125.0,5.1
+277581,277582,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-11-20,3125.0,3.0
+277582,277583,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-11-21,3135.0,2.1
+277583,277584,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-11-25,3135.0,0.7
+277584,277585,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-11-26,3135.0,2.9
+277585,277586,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-11-29,3125.0,7.0
+277586,277587,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-05-12,3125.0,5.5
+277587,277588,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-09-12,3125.0,0.7
+277588,277589,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2013-10-12,3125.0,4.8
+308370,308371,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-01-01,5000.0,1.3
+308371,308372,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-02-01,5000.0,1.1
+308372,308373,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-08-01,4900.0,1.0
+308373,308374,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-01-21,4900.0,1.3
+308374,308375,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-08-02,5500.0,1.5
+308375,308376,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-12-02,5300.0,4.0
+308376,308377,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-02-16,5300.0,1.9
+308377,308378,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-02-20,5400.0,2.7
+308378,308379,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-02-25,5500.0,3.0
+308379,308380,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-02-26,5500.0,4.9
+308380,308381,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-01-03,5500.0,2.7
+308381,308382,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-02-03,5400.0,5.0
+308382,308383,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-04-03,5300.0,0.9
+308383,308384,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-08-03,5000.0,6.5
+308384,308385,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-09-03,5000.0,5.1
+308385,308386,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-03-15,5000.0,1.0
+308386,308387,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-03-16,5000.0,3.7
+308387,308388,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-03-18,5100.0,1.2
+308388,308389,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-03-19,5100.0,1.0
+308389,308390,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-03-20,5200.0,3.5
+308390,308391,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-03-23,5200.0,10.1
+308391,308392,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-04-04,5000.0,4.0
+308392,308393,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-06-04,5000.0,4.2
+308393,308394,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-09-04,5000.0,7.0
+308394,308395,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-04-24,5500.0,0.9
+308395,308396,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-05-24,4500.0,2.0
+308396,308397,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-05-27,4500.0,5.0
+308397,308398,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-12-06,5200.0,1.8
+308398,308399,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-06-13,5300.0,0.8
+308399,308400,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-06-14,5300.0,1.1
+308400,308401,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-06-15,5400.0,0.7
+308401,308402,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-06-17,5400.0,1.0
+308402,308403,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-06-18,5300.0,2.1
+308403,308404,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-06-19,5200.0,0.5
+308404,308405,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-06-20,5100.0,1.0
+308405,308406,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-06-21,5000.0,0.4
+308406,308407,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-06-22,5200.0,1.2
+308407,308408,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-06-24,5200.0,2.5
+308408,308409,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-06-25,5000.0,7.2
+308409,308410,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-06-26,4800.0,0.8
+308410,308411,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-06-27,4700.0,1.9
+308411,308412,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-06-28,4700.0,10.1
+308412,308413,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-06-29,4700.0,16.3
+308413,308414,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-01-07,4040.0,19.0
+308414,308415,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-02-07,4700.0,15.2
+308415,308416,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-03-07,4700.0,12.8
+308416,308417,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-04-07,4700.0,7.2
+308417,308418,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-05-07,4400.0,0.9
+308418,308419,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-06-07,4400.0,8.2
+308419,308420,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-08-07,4400.0,10.0
+308420,308421,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-09-07,4000.0,6.3
+308421,308422,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-10-07,4700.0,1.4
+308422,308423,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-11-07,4600.0,1.5
+308423,308424,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-12-07,4400.0,2.9
+308424,308425,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-07-13,4500.0,3.1
+308425,308426,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-07-15,4500.0,3.0
+308426,308427,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-07-16,4300.0,1.4
+308427,308428,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-07-17,4300.0,4.1
+308428,308429,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-07-22,4000.0,1.7
+308429,308430,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-07-24,4015.0,6.9
+308430,308431,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-07-25,4050.0,7.2
+308431,308432,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-07-26,4050.0,0.8
+308432,308433,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-07-29,4045.0,1.3
+308433,308434,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-07-30,4050.0,0.8
+308434,308435,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-12-08,4040.0,1.0
+308435,308436,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-10-22,4000.0,2.4
+308436,308437,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-10-23,4000.0,1.0
+308437,308438,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-10-24,4000.0,1.3
+308438,308439,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-11-13,3975.0,3.0
+308439,308440,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-11-14,3970.0,2.0
+308440,308441,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-11-21,4000.0,3.1
+308441,308442,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-11-25,4000.0,2.3
+308442,308443,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-11-27,4000.0,3.3
+308443,308444,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2013-09-12,4000.0,2.2
+423250,423251,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-01-01,3250.0,7.4
+423251,423252,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-03-01,3280.0,2.6
+423252,423253,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-01-17,3350.0,3.5
+423253,423254,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-01-21,3350.0,0.8
+423254,423255,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-01-22,3350.0,0.1
+423255,423256,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-01-24,3290.0,0.2
+423256,423257,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-01-27,3290.0,0.2
+423257,423258,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-01-30,3300.0,0.2
+423258,423259,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-12-02,2950.0,4.0
+423259,423260,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-04-03,3200.0,3.7
+423260,423261,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-10-03,3200.0,0.2
+423261,423262,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-04-28,3510.0,0.2
+423262,423263,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-06-23,3100.0,1.4
+423263,423264,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-07-16,3115.0,0.7
+423264,423265,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-07-21,3110.0,8.5
+423265,423266,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-07-23,3110.0,1.3
+423266,423267,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-07-24,3115.0,1.5
+423267,423268,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-08-08,3120.0,0.5
+423268,423269,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-09-18,3175.0,0.5
+423269,423270,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-10-13,2995.0,3.2
+423270,423271,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-10-15,2995.0,8.8
+423271,423272,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-10-17,2995.0,0.8
+423272,423273,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-10-20,2995.0,5.8
+423273,423274,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-10-21,2995.0,0.5
+423274,423275,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-10-27,2990.0,4.2
+423275,423276,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-10-29,2990.0,0.2
+423276,423277,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-10-31,2990.0,3.0
+423277,423278,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-03-11,2990.0,2.9
+423278,423279,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-05-11,2990.0,0.1
+423279,423280,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-10-11,2990.0,3.3
+423280,423281,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-11-11,2990.0,6.5
+423281,423282,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-12-11,3010.0,0.1
+423282,423283,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-11-13,3005.0,0.6
+423283,423284,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-11-14,3010.0,2.5
+423284,423285,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-11-17,3010.0,2.6
+423285,423286,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-11-20,4120.0,0.4
+423286,423287,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-11-21,4120.0,0.5
+423287,423288,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-11-25,4300.0,0.2
+423288,423289,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-11-26,4300.0,0.4
+423289,423290,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-11-27,4300.0,0.2
+423290,423291,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-01-12,4300.0,36.8
+423291,423292,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-04-12,4300.0,0.1
+423292,423293,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-09-12,4450.0,1.9
+423293,423294,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-12-12,4450.0,0.1
+423294,423295,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-12-15,4450.0,9.2
+423295,423296,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-12-16,4450.0,5.3
+423296,423297,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-12-23,2700.0,3.4
+423297,423298,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-12-26,5000.0,0.2
+423298,423299,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-12-29,5000.0,0.2
+423299,423300,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2014-12-30,5200.0,3.0
+454857,454858,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-01-24,4000.0,5.7
+454858,454859,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-01-27,4000.0,5.7
+454859,454860,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-01-29,4100.0,2.9
+454860,454861,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-03-14,5500.0,2.1
+454861,454862,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-03-24,5500.0,2.1
+454862,454863,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-04-04,5500.0,1.5
+454863,454864,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-06-18,5440.0,14.0
+454864,454865,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-06-19,5430.0,22.9
+454865,454866,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-06-20,5430.0,16.0
+454866,454867,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-06-23,5425.0,17.1
+454867,454868,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-06-24,5425.0,29.7
+454868,454869,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-06-25,5400.0,6.5
+454869,454870,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-06-27,5390.0,16.5
+454870,454871,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-06-30,5390.0,23.2
+454871,454872,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-01-07,5383.0,9.8
+454872,454873,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-08-07,0.0,5.4
+454873,454874,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-09-07,5390.0,1.0
+454874,454875,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-10-07,5600.0,4.5
+454875,454876,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-11-07,5600.0,0.9
+454876,454877,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-07-14,5500.0,4.9
+454877,454878,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-07-15,5500.0,0.6
+454878,454879,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-07-16,5500.0,1.1
+454879,454880,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-07-17,5500.0,0.8
+454880,454881,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-07-21,6300.0,3.4
+454881,454882,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-07-23,6300.0,2.1
+454882,454883,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-07-24,6300.0,4.5
+454883,454884,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-01-08,6300.0,5.2
+454884,454885,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2014-10-20,5100.0,35.6
+606211,606212,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-01-01,5300.0,0.1
+606212,606213,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-02-01,5300.0,2.5
+606213,606214,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-06-01,5300.0,0.1
+606214,606215,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-12-01,5500.0,3.8
+606215,606216,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-01-13,5500.0,1.1
+606216,606217,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-03-02,5500.0,0.9
+606217,606218,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-06-02,5500.0,0.1
+606218,606219,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-02-19,5150.0,0.1
+606219,606220,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-02-26,5150.0,0.1
+606220,606221,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-03-03,5200.0,0.8
+606221,606222,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-03-18,2810.0,66.5
+606222,606223,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-03-20,5150.0,0.3
+606223,606224,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-04-22,5200.0,0.0
+606224,606225,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-04-23,5200.0,0.0
+606225,606226,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-04-24,5200.0,0.0
+606226,606227,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-04-27,5200.0,0.0
+606227,606228,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-04-28,5200.0,0.0
+606228,606229,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-04-29,5200.0,0.0
+606229,606230,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-04-30,5200.0,0.0
+606230,606231,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-04-05,5200.0,0.0
+606231,606232,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-06-05,5200.0,0.0
+606232,606233,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-07-05,5500.0,0.0
+606233,606234,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-08-05,5200.0,0.0
+606234,606235,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-11-05,5200.0,0.0
+606235,606236,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-12-05,5235.0,0.0
+606236,606237,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-05-13,5235.0,0.0
+606237,606238,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-05-15,5240.0,0.0
+606238,606239,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-05-18,5240.0,0.0
+606239,606240,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-05-21,7500.0,0.0
+606240,606241,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-05-22,7500.0,0.0
+606241,606242,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-05-26,7500.0,0.0
+606242,606243,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-05-27,7500.0,0.0
+606243,606244,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-05-29,7500.0,0.0
+606244,606245,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-02-06,7500.0,0.0
+606245,606246,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-03-06,7500.0,0.0
+606246,606247,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-04-06,7500.0,0.0
+606247,606248,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-10-06,7500.0,0.0
+606248,606249,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-11-06,7500.0,0.0
+606249,606250,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-12-06,7500.0,0.0
+606250,606251,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-06-15,7500.0,0.0
+606251,606252,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-06-16,7500.0,0.0
+606252,606253,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-06-17,7500.0,1.4
+606253,606254,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-06-19,7500.0,0.0
+606254,606255,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-06-23,7500.0,0.0
+606255,606256,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-06-24,7500.0,0.0
+606256,606257,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-06-25,7500.0,0.0
+606257,606258,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-06-29,7500.0,0.0
+606258,606259,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-06-30,7500.0,0.0
+606259,606260,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-01-07,7450.0,0.0
+606260,606261,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-02-07,7450.0,0.0
+606261,606262,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-03-07,7400.0,0.0
+606262,606263,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-06-07,7400.0,0.3
+606263,606264,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-07-07,7400.0,0.0
+606264,606265,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-08-07,7350.0,0.0
+606265,606266,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-09-07,7400.0,0.0
+606266,606267,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-10-07,7350.0,0.0
+606267,606268,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-11-07,6500.0,0.0
+606268,606269,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-07-13,6490.0,0.0
+606269,606270,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-07-14,2450.0,0.0
+606270,606271,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-07-15,6490.0,0.0
+606271,606272,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-07-17,6490.0,0.0
+606272,606273,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-07-18,6075.0,0.0
+606273,606274,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-07-20,6080.0,0.0
+606274,606275,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-07-21,6075.0,0.0
+606275,606276,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-07-23,6075.0,0.0
+606276,606277,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-07-27,6000.0,0.0
+606277,606278,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-07-28,5850.0,0.0
+606278,606279,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-07-29,5850.0,0.0
+606279,606280,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-07-30,5850.0,0.0
+606280,606281,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-07-31,5850.0,0.0
+606281,606282,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-01-08,5850.0,0.0
+606282,606283,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-03-08,5850.0,0.0
+606283,606284,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-04-08,5850.0,0.0
+606284,606285,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-05-08,5850.0,0.0
+606285,606286,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-06-08,5850.0,0.0
+606286,606287,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-07-08,5850.0,0.0
+606287,606288,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-08-08,5850.0,0.0
+606288,606289,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-10-08,5850.0,0.0
+606289,606290,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-11-08,5850.0,0.1
+606290,606291,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-12-08,5850.0,0.0
+606291,606292,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-08-17,5850.0,0.0
+606292,606293,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-08-18,5850.0,0.0
+606293,606294,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-08-19,5850.0,0.0
+606294,606295,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-08-20,5850.0,0.0
+606295,606296,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-08-21,5850.0,0.0
+606296,606297,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-08-24,5850.0,0.0
+606297,606298,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-08-25,5850.0,0.0
+606298,606299,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-08-28,5850.0,0.0
+606299,606300,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-01-09,5850.0,0.0
+606300,606301,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-04-09,5850.0,0.0
+606301,606302,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-08-09,5850.0,0.0
+606302,606303,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-10-09,7900.0,0.0
+606303,606304,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-11-09,5860.0,0.0
+606304,606305,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-09-14,5860.0,0.0
+606305,606306,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-09-15,5870.0,0.0
+606306,606307,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-09-19,7500.0,0.0
+606307,606308,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-09-21,7500.0,0.0
+606308,606309,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-09-22,7500.0,0.0
+606309,606310,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-09-23,7500.0,0.0
+606310,606311,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-09-28,7500.0,0.0
+606311,606312,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-09-29,7500.0,0.0
+606312,606313,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-03-11,9150.0,0.3
+606313,606314,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-05-11,9150.0,0.1
+606314,606315,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-09-11,9225.0,0.3
+606315,606316,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-11-19,9225.0,1.3
+606316,606317,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-11-24,9225.0,1.8
+606317,606318,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-01-12,9225.0,1.5
+606318,606319,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-02-12,9225.0,0.0
+606319,606320,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-03-12,9225.0,1.3
+606320,606321,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-04-12,9225.0,0.0
+606321,606322,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-07-12,9225.0,2.5
+606322,606323,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-08-12,9225.0,5.2
+606323,606324,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-12-16,9510.0,1.3
+606324,606325,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-12-17,9900.0,0.0
+606325,606326,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-12-18,9900.0,0.0
+606326,606327,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-12-21,9900.0,2.4
+606327,606328,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-12-22,9900.0,1.2
+606328,606329,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-12-23,10000.0,0.0
+606329,606330,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-12-28,10000.0,8.0
+606330,606331,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-12-29,9550.0,1.0
+606331,606332,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-12-30,9550.0,0.0
+606332,606333,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2015-12-31,9550.0,0.3
+650160,650161,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-05-15,6200.0,0.0
+650161,650162,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-05-18,6200.0,0.0
+650162,650163,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-05-21,7500.0,0.0
+650163,650164,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-05-22,7500.0,0.1
+650164,650165,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-05-26,7500.0,0.0
+650165,650166,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-05-27,7500.0,0.0
+650166,650167,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-05-29,7500.0,0.0
+650167,650168,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-02-06,7500.0,0.0
+650168,650169,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-03-06,7500.0,0.0
+650169,650170,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-04-06,7500.0,0.0
+650170,650171,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-08-06,7500.0,0.0
+650171,650172,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-10-06,7500.0,10.4
+650172,650173,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-11-06,7500.0,0.4
+650173,650174,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-12-06,7500.0,0.0
+650174,650175,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-06-15,7500.0,0.0
+650175,650176,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-06-16,7500.0,0.0
+650176,650177,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-06-17,7500.0,0.0
+650177,650178,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-06-19,7500.0,0.0
+650178,650179,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-06-24,4400.0,0.5
+650179,650180,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-07-07,6500.0,3.0
+650180,650181,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-08-07,6500.0,1.8
+650181,650182,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-09-07,6500.0,1.2
+650182,650183,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-10-07,6500.0,0.0
+650183,650184,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-11-07,5900.0,0.0
+650184,650185,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-07-13,5890.0,0.0
+650185,650186,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-07-15,5890.0,0.0
+650186,650187,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-07-17,5890.0,0.0
+650187,650188,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-07-20,6390.0,0.0
+650188,650189,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-07-21,6395.0,0.0
+650189,650190,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-07-22,6395.0,0.0
+650190,650191,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-07-23,6390.0,0.0
+650191,650192,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-07-27,6400.0,0.0
+650192,650193,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-07-28,6300.0,0.1
+650193,650194,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-07-29,6300.0,0.0
+650194,650195,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-07-30,6300.0,0.0
+650195,650196,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-07-31,6300.0,0.0
+650196,650197,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-01-08,6300.0,0.0
+650197,650198,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-03-08,6300.0,0.0
+650198,650199,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-04-08,6200.0,0.0
+650199,650200,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-05-08,6200.0,0.0
+650200,650201,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-06-08,6200.0,0.0
+650201,650202,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-07-08,6200.0,0.0
+650202,650203,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-08-08,6200.0,0.0
+650203,650204,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-10-08,6200.0,0.0
+650204,650205,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-11-08,6200.0,0.0
+650205,650206,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-12-08,6200.0,0.0
+650206,650207,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-08-17,6200.0,0.0
+650207,650208,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-08-18,6200.0,0.0
+650208,650209,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-08-19,5990.0,0.0
+650209,650210,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-08-20,5990.0,0.0
+650210,650211,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-08-21,5990.0,0.0
+650211,650212,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-08-24,5990.0,0.0
+650212,650213,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-08-28,5600.0,0.0
+650213,650214,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-01-09,5600.0,0.0
+650214,650215,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-04-09,5600.0,0.2
+650215,650216,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-08-09,5600.0,0.0
+650216,650217,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-10-09,5610.0,0.0
+650217,650218,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-11-09,5610.0,5.1
+650218,650219,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-09-14,5610.0,1.9
+650219,650220,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-09-15,5620.0,0.0
+650220,650221,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-09-19,5700.0,0.0
+650221,650222,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-09-21,5700.0,0.0
+650222,650223,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-09-22,5700.0,0.0
+650223,650224,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-09-23,5700.0,0.0
+650224,650225,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-09-28,5700.0,0.0
+650225,650226,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-09-29,5700.0,0.0
+650226,650227,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-06-10,5700.0,0.0
+650227,650228,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-08-10,5700.0,1.5
+650228,650229,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-10-16,6100.0,2.0
+650229,650230,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-10-27,6100.0,0.0
+650230,650231,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-10-30,6100.0,0.0
+650231,650232,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-03-11,6100.0,0.0
+650232,650233,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-05-11,6250.0,0.0
+650233,650234,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-09-11,6300.0,4.0
+650234,650235,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-11-19,6300.0,0.0
+650235,650236,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-11-24,6500.0,0.0
+650236,650237,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-01-12,7000.0,3.1
+650237,650238,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-02-12,7000.0,0.0
+650238,650239,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-03-12,7000.0,0.0
+650239,650240,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-04-12,9000.0,0.0
+650240,650241,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-07-12,7000.0,8.7
+650241,650242,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-08-12,7000.0,0.0
+650242,650243,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-12-16,9600.0,0.0
+650243,650244,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-12-17,9600.0,0.0
+650244,650245,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-12-21,9500.0,1.5
+650245,650246,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-12-22,9500.0,0.0
+650246,650247,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-12-23,9000.0,0.0
+650247,650248,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-12-28,9000.0,0.0
+650248,650249,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-12-29,9000.0,0.0
+650249,650250,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-12-30,9000.0,0.0
+650250,650251,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2015-12-31,10000.0,0.0
+793920,793921,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2016-03-10,7000.0,5.0
+793921,793922,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2016-07-10,7000.0,15.0
+793922,793923,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2016-10-13,7000.0,76.0
+793923,793924,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2016-10-18,7000.0,16.0
+793924,793925,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2016-10-24,11000.0,10.0
+793925,793926,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2016-10-27,11000.0,4.0
+793926,793927,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2016-10-28,9000.0,9.0
+793927,793928,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2016-01-11,8550.0,2.0
+793928,793929,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2016-10-11,11000.0,6.0
+793929,793930,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2016-11-11,10800.0,52.0
+793930,793931,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2016-11-16,10000.0,17.0
+793931,793932,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2016-11-21,8400.0,1.8
+793932,793933,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2016-11-22,6350.0,0.4
+793933,793934,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2016-11-25,8400.0,0.1
+793934,793935,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2016-11-28,8400.0,0.1
+793935,793936,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2016-01-12,8530.0,1.0
+793936,793937,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2016-02-12,8550.0,0.6
+793937,793938,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2016-07-12,8550.0,0.3
+793938,793939,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2016-09-12,8550.0,1.3
+793939,793940,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2016-12-26,8550.0,0.9
+793940,793941,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2016-12-30,8525.0,0.3
+853618,853619,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-01-01,9500.0,1.5
+853619,853620,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-04-01,9550.0,0.3
+853620,853621,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-05-01,9550.0,0.0
+853621,853622,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-06-01,10000.0,0.0
+853622,853623,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-11-01,9250.0,2.2
+853623,853624,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-12-01,9500.0,2.2
+853624,853625,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-01-19,9250.0,0.0
+853625,853626,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-01-20,9250.0,0.0
+853626,853627,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-01-25,9200.0,0.0
+853627,853628,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-01-27,9200.0,1.0
+853628,853629,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-01-29,9225.0,0.0
+853629,853630,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-01-02,9250.0,0.0
+853630,853631,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-04-02,9250.0,162.0
+853631,853632,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-05-02,9300.0,5.2
+853632,853633,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-09-02,9240.0,0.0
+853633,853634,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-02-23,9500.0,0.0
+853634,853635,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-02-24,9500.0,4.3
+853635,853636,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-02-29,9500.0,0.0
+853636,853637,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-03-03,9300.0,1.5
+853637,853638,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-04-03,9200.0,0.0
+853638,853639,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-08-03,9200.0,3.0
+853639,853640,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-10-03,9200.0,0.0
+853640,853641,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-03-15,9200.0,0.0
+853641,853642,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-03-16,9200.0,0.0
+853642,853643,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-03-17,9200.0,0.1
+853643,853644,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-03-18,9200.0,0.0
+853644,853645,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-03-22,9300.0,0.0
+853645,853646,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-05-04,9200.0,0.0
+853646,853647,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-07-04,9200.0,0.0
+853647,853648,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-12-04,9200.0,0.0
+853648,853649,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-04-18,9200.0,0.0
+853649,853650,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-04-20,9200.0,0.0
+853650,853651,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-04-26,9200.0,0.0
+853651,853652,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-02-05,9200.0,0.0
+853652,853653,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-03-05,9200.0,0.0
+853653,853654,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-04-05,9200.0,0.0
+853654,853655,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-06-05,9200.0,0.0
+853655,853656,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-10-05,9200.0,0.0
+853656,853657,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-11-05,9200.0,0.0
+853657,853658,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-05-13,9200.0,0.0
+853658,853659,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-05-25,9200.0,0.0
+853659,853660,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-05-26,9200.0,0.0
+853660,853661,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-05-27,9200.0,0.0
+853661,853662,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-05-31,8400.0,0.0
+853662,853663,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-01-06,9200.0,0.0
+853663,853664,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-06-27,9500.0,2.4
+853664,853665,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-11-07,9550.0,0.1
+853665,853666,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-08-30,9450.0,0.1
+853666,853667,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-09-27,9450.0,0.1
+853667,853668,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-03-10,8775.0,0.2
+853668,853669,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-10-10,8775.0,3.5
+853669,853670,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-10-17,8775.0,3.3
+853670,853671,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-10-18,8725.0,5.4
+853671,853672,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-10-19,8725.0,2.8
+853672,853673,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-10-20,6200.0,2.8
+853673,853674,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-10-24,6200.0,4.1
+853674,853675,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-10-25,6200.0,1.0
+853675,853676,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-10-27,6200.0,0.3
+853676,853677,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-10-28,6200.0,0.8
+853677,853678,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-01-11,6200.0,3.0
+853678,853679,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-07-11,6200.0,1.8
+853679,853680,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-08-11,6200.0,2.8
+853680,853681,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-10-11,6200.0,9.2
+853681,853682,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-11-11,6000.0,1.7
+853682,853683,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-11-15,6000.0,11.0
+853683,853684,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-11-16,6000.0,0.1
+853684,853685,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-11-18,6000.0,2.3
+853685,853686,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-11-21,5850.0,7.5
+853686,853687,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-11-22,5850.0,6.2
+853687,853688,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-11-23,5850.0,0.6
+853688,853689,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-11-24,5600.0,0.2
+853689,853690,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-11-25,5700.0,7.8
+853690,853691,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-11-28,6050.0,21.7
+853691,853692,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-11-29,6050.0,9.0
+853692,853693,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-01-12,6200.0,2.4
+853693,853694,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-02-12,6200.0,1.3
+853694,853695,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-06-12,6200.0,2.7
+853695,853696,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-09-12,6200.0,1.5
+853696,853697,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-12-13,6200.0,4.2
+853697,853698,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-12-14,6200.0,5.2
+853698,853699,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-12-15,5100.0,0.9
+853699,853700,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-12-19,5100.0,6.7
+853700,853701,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-12-20,5200.0,5.2
+853701,853702,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-12-23,5200.0,3.0
+853702,853703,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-12-26,5200.0,9.5
+853703,853704,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-12-27,5200.0,16.8
+853704,853705,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-12-28,5200.0,0.1
+853705,853706,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-12-29,5225.0,3.5
+853706,853707,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2016-12-30,5225.0,8.7
+899979,899980,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-01-01,9500.0,0.0
+899980,899981,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-04-01,9500.0,0.0
+899981,899982,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-05-01,9500.0,0.0
+899982,899983,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-08-01,6500.0,0.0
+899983,899984,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-11-01,3160.0,0.0
+899984,899985,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-12-01,6560.0,0.0
+899985,899986,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-01-19,6650.0,0.0
+899986,899987,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-01-20,6645.0,0.0
+899987,899988,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-01-25,6500.0,0.0
+899988,899989,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-01-27,6750.0,0.0
+899989,899990,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-01-29,6740.0,0.0
+899990,899991,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-04-02,6725.0,0.0
+899991,899992,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-05-02,6725.0,0.0
+899992,899993,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-09-02,6725.0,0.0
+899993,899994,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-02-29,8300.0,0.0
+899994,899995,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-02-03,8300.0,0.0
+899995,899996,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-03-03,6600.0,5.5
+899996,899997,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-04-03,6600.0,0.0
+899997,899998,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-08-03,6575.0,0.0
+899998,899999,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-03-15,6550.0,0.0
+899999,900000,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-03-16,6550.0,0.0
+900000,900001,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-03-17,6550.0,0.0
+900001,900002,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-03-18,6550.0,0.0
+900002,900003,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-03-22,5900.0,0.0
+900003,900004,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-05-04,6000.0,2.5
+900004,900005,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-07-04,5800.0,2.5
+900005,900006,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-12-04,5800.0,0.0
+900006,900007,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-04-18,6600.0,1.0
+900007,900008,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-04-20,6000.0,10.8
+900008,900009,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-04-26,6000.0,0.0
+900009,900010,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-02-05,6000.0,0.0
+900010,900011,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-03-05,6000.0,0.0
+900011,900012,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-06-05,4800.0,0.0
+900012,900013,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-10-05,6000.0,0.5
+900013,900014,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-11-05,6000.0,0.0
+900014,900015,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-05-13,6000.0,0.0
+900015,900016,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-05-25,6000.0,0.0
+900016,900017,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-05-26,6000.0,0.0
+900017,900018,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-05-27,6000.0,0.0
+900018,900019,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-05-31,6000.0,0.6
+900019,900020,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-01-06,6000.0,0.5
+900020,900021,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-10-06,6100.0,7.0
+900021,900022,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-06-13,6100.0,11.4
+900022,900023,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-06-14,6100.0,4.8
+900023,900024,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-06-15,6200.0,13.9
+900024,900025,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-06-16,6200.0,10.5
+900025,900026,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-06-20,6200.0,13.4
+900026,900027,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-06-22,6200.0,2.3
+900027,900028,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-06-23,6200.0,4.2
+900028,900029,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-06-27,6250.0,7.8
+900029,900030,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-06-28,6300.0,0.7
+900030,900031,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-06-30,6300.0,0.8
+900031,900032,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-01-07,6300.0,0.5
+900032,900033,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-06-07,6300.0,0.8
+900033,900034,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-12-07,5450.0,0.4
+900034,900035,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-07-13,5450.0,0.1
+900035,900036,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-07-15,5600.0,0.3
+900036,900037,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-07-18,5600.0,1.9
+900037,900038,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-07-19,5650.0,0.4
+900038,900039,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-07-20,5650.0,0.3
+900039,900040,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-07-27,5650.0,1.7
+900040,900041,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-07-28,5650.0,0.6
+900041,900042,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-03-08,5490.0,0.5
+900042,900043,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-05-08,5550.0,0.1
+900043,900044,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-08-30,5250.0,0.1
+900044,900045,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-06-09,3950.0,3.0
+900045,900046,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-09-19,3950.0,9.4
+900046,900047,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-10-10,3950.0,2.1
+900047,900048,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-10-17,3960.0,1.0
+900048,900049,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-01-11,4100.0,0.5
+900049,900050,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-10-11,4100.0,6.4
+900050,900051,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-11-22,4100.0,7.1
+900051,900052,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-11-25,4100.0,2.6
+900052,900053,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-11-28,4250.0,1.1
+900053,900054,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-11-29,4250.0,2.2
+900054,900055,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-01-12,3950.0,2.3
+900055,900056,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-07-12,3950.0,0.3
+900056,900057,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-09-12,3950.0,0.8
+900057,900058,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-12-26,4000.0,2.0
+900058,900059,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-12-27,4000.0,1.5
+900059,900060,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2016-12-30,4000.0,1.1
+1047112,1047113,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-02-01,8400.0,0.3
+1047113,1047114,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-01-25,5900.0,0.1
+1047114,1047115,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-03-03,4600.0,1.3
+1047115,1047116,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-06-03,4600.0,2.9
+1047116,1047117,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-08-03,4600.0,1.0
+1047117,1047118,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-09-03,4600.0,0.5
+1047118,1047119,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-03-16,4600.0,1.4
+1047119,1047120,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-03-20,4600.0,5.2
+1047120,1047121,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-03-21,4600.0,4.1
+1047121,1047122,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-03-22,4600.0,8.5
+1047122,1047123,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-03-23,4600.0,9.0
+1047123,1047124,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-03-24,4600.0,14.2
+1047124,1047125,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-03-27,4600.0,14.6
+1047125,1047126,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-05-04,4650.0,25.1
+1047126,1047127,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-06-04,4650.0,3.8
+1047127,1047128,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-07-04,4650.0,3.5
+1047128,1047129,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-10-04,5200.0,23.8
+1047129,1047130,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-11-04,4660.0,3.2
+1047130,1047131,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-04-13,5200.0,2.9
+1047131,1047132,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-04-17,5200.0,17.4
+1047132,1047133,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-04-18,5200.0,6.5
+1047133,1047134,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-04-27,5200.0,1.2
+1047134,1047135,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-01-05,5200.0,10.5
+1047135,1047136,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-02-05,5200.0,0.6
+1047136,1047137,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-04-05,5200.0,1.2
+1047137,1047138,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-12-05,5200.0,2.3
+1047138,1047139,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-05-15,5200.0,7.8
+1047139,1047140,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-05-16,5200.0,4.7
+1047140,1047141,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-05-17,5200.0,2.5
+1047141,1047142,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-05-18,5200.0,1.2
+1047142,1047143,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-05-19,5200.0,2.3
+1047143,1047144,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-05-25,5150.0,1.1
+1047144,1047145,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-05-29,5150.0,1.4
+1047145,1047146,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-05-30,5150.0,0.5
+1047146,1047147,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-05-31,5150.0,1.5
+1047147,1047148,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-01-06,5150.0,1.2
+1047148,1047149,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-08-06,5150.0,0.2
+1047149,1047150,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-06-19,4875.0,1.1
+1047150,1047151,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-06-20,4875.0,1.3
+1047151,1047152,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-06-21,4775.0,0.3
+1047152,1047153,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-06-22,4775.0,0.1
+1047153,1047154,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-06-27,4700.0,3.7
+1047154,1047155,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-06-28,4700.0,0.1
+1047155,1047156,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-06-30,4700.0,0.3
+1047156,1047157,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-07-07,4700.0,6.9
+1047157,1047158,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-07-17,4700.0,7.1
+1047158,1047159,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-07-18,4700.0,1.2
+1047159,1047160,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-07-24,4700.0,10.6
+1047160,1047161,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-07-25,4700.0,3.3
+1047161,1047162,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-07-27,4700.0,0.3
+1047162,1047163,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-07-31,4500.0,0.2
+1047163,1047164,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-01-08,4400.0,1.9
+1047164,1047165,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-03-08,4400.0,0.9
+1047165,1047166,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-04-08,4400.0,0.2
+1047166,1047167,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-10-08,4500.0,11.0
+1047167,1047168,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-11-08,4500.0,2.9
+1047168,1047169,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-08-14,4500.0,64.7
+1047169,1047170,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-08-16,4500.0,7.5
+1047170,1047171,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-08-18,4600.0,1.5
+1047171,1047172,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-08-21,4700.0,6.1
+1047172,1047173,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-08-28,4900.0,6.1
+1047173,1047174,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-08-29,4900.0,0.2
+1047174,1047175,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-09-14,5150.0,1.4
+1047175,1047176,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-09-15,5150.0,1.2
+1047176,1047177,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-09-18,5200.0,0.4
+1047177,1047178,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-09-19,5200.0,0.5
+1047178,1047179,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-09-26,5200.0,0.2
+1047179,1047180,Bengal Gram(Gram),Rajasthan,Udaipur,Udaipur,2017-03-10,5200.0,6.5
+1105643,1105644,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-02-01,5300.0,22.6
+1105644,1105645,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-03-01,5300.0,4.0
+1105645,1105646,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-06-01,5300.0,20.5
+1105646,1105647,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-11-01,5500.0,0.7
+1105647,1105648,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-01-13,5400.0,6.4
+1105648,1105649,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-01-17,5500.0,1.2
+1105649,1105650,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-01-19,5500.0,10.4
+1105650,1105651,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-01-20,5500.0,1.2
+1105651,1105652,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-01-25,5600.0,1.4
+1105652,1105653,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-01-02,5600.0,6.4
+1105653,1105654,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-02-02,5600.0,1.0
+1105654,1105655,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-06-02,5600.0,6.0
+1105655,1105656,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-07-02,5500.0,8.8
+1105656,1105657,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-08-02,5200.0,3.4
+1105657,1105658,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-02-13,5100.0,1.5
+1105658,1105659,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-02-14,5000.0,7.6
+1105659,1105660,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-02-15,5000.0,5.9
+1105660,1105661,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-02-20,4900.0,1.1
+1105661,1105662,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-02-23,4900.0,0.5
+1105662,1105663,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-02-28,4800.0,1.3
+1105663,1105664,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-06-03,4775.0,6.4
+1105664,1105665,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-07-03,4775.0,10.9
+1105665,1105666,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-03-14,4770.0,2.8
+1105666,1105667,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-03-15,4780.0,0.6
+1105667,1105668,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-03-16,4770.0,5.0
+1105668,1105669,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-03-17,4800.0,6.4
+1105669,1105670,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-03-21,4800.0,4.8
+1105670,1105671,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-03-22,4800.0,3.5
+1105671,1105672,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-03-27,4750.0,1.3
+1105672,1105673,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-03-28,4750.0,4.6
+1105673,1105674,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-03-31,4750.0,0.1
+1105674,1105675,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-03-04,4750.0,0.3
+1105675,1105676,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-05-04,4750.0,1.0
+1105676,1105677,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-06-04,4750.0,0.7
+1105677,1105678,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-10-04,5300.0,9.2
+1105678,1105679,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-11-04,4760.0,0.2
+1105679,1105680,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-04-17,5300.0,0.8
+1105680,1105681,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-04-27,5275.0,0.1
+1105681,1105682,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-04-05,5275.0,2.0
+1105682,1105683,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-05-16,5270.0,4.5
+1105683,1105684,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-05-18,5270.0,0.2
+1105684,1105685,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-05-29,5280.0,2.0
+1105685,1105686,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-07-17,4400.0,0.1
+1105686,1105687,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-07-24,4400.0,0.1
+1105687,1105688,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-07-25,4400.0,0.3
+1105688,1105689,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-11-08,4000.0,0.6
+1105689,1105690,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-08-16,4000.0,0.3
+1105690,1105691,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-08-18,3700.0,0.1
+1105691,1105692,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-03-10,4050.0,0.5
+1105692,1105693,Black Gram (Urd Beans),Rajasthan,Udaipur,Udaipur,2017-10-25,4050.0,2.2
+1148200,1148201,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-02-01,4000.0,2.0
+1148201,1148202,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-02-14,4300.0,3.2
+1148202,1148203,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-02-23,4350.0,3.8
+1148203,1148204,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-02-27,4350.0,2.5
+1148204,1148205,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-02-28,4250.0,5.0
+1148205,1148206,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-06-03,4300.0,3.6
+1148206,1148207,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-07-03,4300.0,2.7
+1148207,1148208,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-09-03,4300.0,0.3
+1148208,1148209,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-03-17,4300.0,4.0
+1148209,1148210,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-03-22,4300.0,1.5
+1148210,1148211,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-03-24,4300.0,1.0
+1148211,1148212,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-03-27,4300.0,3.9
+1148212,1148213,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-03-04,4300.0,0.8
+1148213,1148214,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-10-04,4200.0,0.5
+1148214,1148215,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-12-04,4200.0,2.0
+1148215,1148216,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-04-17,4200.0,2.3
+1148216,1148217,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-05-31,4250.0,1.0
+1148217,1148218,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-01-06,4250.0,0.5
+1148218,1148219,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-08-06,4250.0,0.4
+1148219,1148220,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-06-16,4050.0,6.4
+1148220,1148221,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-06-19,4200.0,5.2
+1148221,1148222,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-06-20,4200.0,10.0
+1148222,1148223,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-06-21,4200.0,1.4
+1148223,1148224,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-06-22,4200.0,1.5
+1148224,1148225,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-06-23,4200.0,1.5
+1148225,1148226,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-06-27,4200.0,8.8
+1148226,1148227,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-06-28,4200.0,2.9
+1148227,1148228,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-06-30,4200.0,1.3
+1148228,1148229,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-07-07,4200.0,2.7
+1148229,1148230,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-07-13,4200.0,0.5
+1148230,1148231,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-07-19,4200.0,0.4
+1148231,1148232,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-07-27,4200.0,0.2
+1148232,1148233,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-08-08,4200.0,0.1
+1148233,1148234,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-08-18,4175.0,0.2
+1148234,1148235,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-08-21,4175.0,0.9
+1148235,1148236,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-08-28,4175.0,1.6
+1148236,1148237,Green Gram (Moong),Rajasthan,Udaipur,Udaipur,2017-08-29,4175.0,0.3

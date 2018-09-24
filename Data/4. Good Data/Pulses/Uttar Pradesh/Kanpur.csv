@@ -1,0 +1,2342 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Kanpur(Grain),2015-12-01,6150.0,65.0,18.2,clear
+1,Arhar (Tur/Red Gram),Kanpur(Grain),2015-12-02,4450.0,460.0,24.0,clear
+2,Arhar (Tur/Red Gram),Kanpur(Grain),2015-12-05,6015.0,50.0,22.4,clear
+3,Arhar (Tur/Red Gram),Kanpur(Grain),2015-12-06,6275.0,30.0,22.4,clear
+4,Arhar (Tur/Red Gram),Kanpur(Grain),2015-12-08,6625.0,45.0,21.6,clear
+5,Arhar (Tur/Red Gram),Kanpur(Grain),2015-12-09,6870.0,45.0,21.4,clear
+6,Arhar (Tur/Red Gram),Kanpur(Grain),2015-12-10,7225.0,40.0,17.6,clear
+7,Arhar (Tur/Red Gram),Kanpur(Grain),2015-11-18,7450.0,40.0,25.0,clear
+8,Arhar (Tur/Red Gram),Kanpur(Grain),2015-11-19,7480.0,38.0,25.0,clear
+9,Arhar (Tur/Red Gram),Kanpur(Grain),2015-11-20,7400.0,50.0,26.4,clear
+10,Arhar (Tur/Red Gram),Kanpur(Grain),2015-11-21,7425.0,48.0,25.0,clear
+11,Arhar (Tur/Red Gram),Kanpur(Grain),2015-11-23,7415.0,45.0,26.6,clear
+12,Arhar (Tur/Red Gram),Kanpur(Grain),2015-11-24,7500.0,40.0,25.4,clear
+13,Arhar (Tur/Red Gram),Kanpur(Grain),2015-11-25,7440.0,40.0,25.0,clear
+14,Arhar (Tur/Red Gram),Kanpur(Grain),2015-11-27,7475.0,35.0,25.4,clear
+15,Arhar (Tur/Red Gram),Kanpur(Grain),2015-11-30,7425.0,42.0,28.8,clear
+16,Arhar (Tur/Red Gram),Kanpur(Grain),2015-12-12,7725.0,35.0,14.6,clear
+17,Arhar (Tur/Red Gram),Kanpur(Grain),2015-12-14,7780.0,30.0,18.4,clear
+18,Arhar (Tur/Red Gram),Kanpur(Grain),2015-12-15,7800.0,25.0,18.6,clear
+19,Arhar (Tur/Red Gram),Kanpur(Grain),2015-12-16,7825.0,22.0,18.8,clear
+20,Arhar (Tur/Red Gram),Kanpur(Grain),2015-12-17,7850.0,20.0,19.0,clear
+21,Arhar (Tur/Red Gram),Kanpur(Grain),2015-12-18,7825.0,40.0,19.0,clear
+22,Arhar (Tur/Red Gram),Kanpur(Grain),2015-12-19,7850.0,35.0,19.4,clear
+23,Arhar (Tur/Red Gram),Kanpur(Grain),2015-12-21,7865.0,32.0,18.4,clear
+24,Arhar (Tur/Red Gram),Kanpur(Grain),2015-12-22,7840.0,40.0,18.8,clear
+25,Arhar (Tur/Red Gram),Kanpur(Grain),2015-12-23,7825.0,45.0,19.0,clear
+26,Arhar (Tur/Red Gram),Kanpur(Grain),2015-12-24,7800.0,46.0,18.6,clear
+27,Arhar (Tur/Red Gram),Kanpur(Grain),2015-12-25,7800.0,50.0,18.6,clear
+28,Arhar (Tur/Red Gram),Kanpur(Grain),2015-12-26,7815.0,42.0,20.2,clear
+29,Arhar (Tur/Red Gram),Kanpur(Grain),2015-12-29,7680.0,48.0,23.0,clear
+30,Arhar (Tur/Red Gram),Kanpur(Grain),2015-12-30,7750.0,50.0,23.2,clear
+31,Arhar (Tur/Red Gram),Kanpur(Grain),2015-12-31,7740.0,55.0,21.8,clear
+32,Arhar (Tur/Red Gram),Choubepur,2016-01-06,8300.0,15.0,23.2,clear
+33,Arhar (Tur/Red Gram),Kanpur(Grain),2016-01-06,8380.0,60.0,23.2,clear
+34,Arhar (Tur/Red Gram),Varipaal,2016-01-06,8300.0,30.0,23.2,clear
+35,Bengal Gram(Gram),Choubepur,2016-01-06,5500.0,20.0,23.2,clear
+36,Bengal Gram(Gram),Kanpur(Grain),2016-01-06,5800.0,50.0,23.2,clear
+37,Bengal Gram(Gram),Pukhrayan,2016-01-06,5130.0,1.0,23.2,clear
+38,Bengal Gram(Gram),Rura,2016-01-06,4980.0,2.2,23.2,clear
+39,Bengal Gram(Gram),Varipaal,2016-01-06,5600.0,30.0,23.2,clear
+40,Arhar (Tur/Red Gram),Choubepur,2016-06-30,8400.0,10.0,37.6,clear
+41,Arhar (Tur/Red Gram),Kanpur(Grain),2016-06-30,8425.0,55.0,37.6,clear
+42,Bengal Gram(Gram),Choubepur,2016-06-30,5650.0,10.0,37.6,clear
+43,Bengal Gram(Gram),Kanpur(Grain),2016-06-30,5875.0,60.0,37.6,clear
+44,Bengal Gram(Gram),Pukhrayan,2016-06-30,5420.0,1.5,37.6,clear
+45,Arhar (Tur/Red Gram),Choubepur,2016-08-26,8100.0,5.5,31.4,clear
+46,Arhar (Tur/Red Gram),Kanpur(Grain),2016-08-26,8050.0,60.0,31.4,clear
+47,Arhar (Tur/Red Gram),Uttaripura,2016-08-26,8200.0,15.0,31.4,clear
+48,Arhar (Tur/Red Gram),Varipaal,2016-08-26,8200.0,10.0,31.4,clear
+49,Bengal Gram(Gram),Choubepur,2016-08-26,7210.0,3.5,31.4,clear
+50,Bengal Gram(Gram),Kanpur(Grain),2016-08-26,7300.0,50.0,31.4,clear
+51,Bengal Gram(Gram),Pukhrayan,2016-08-26,7500.0,1.5,31.4,clear
+52,Bengal Gram(Gram),Rura,2016-08-26,7530.0,2.0,31.4,clear
+53,Bengal Gram(Gram),Uttaripura,2016-08-26,6600.0,12.0,31.4,clear
+54,Bengal Gram(Gram),Varipaal,2016-08-26,7100.0,15.0,31.4,clear
+55,Arhar (Tur/Red Gram),Choubepur,2016-10-14,6450.0,3.5,30.0,clear
+56,Arhar (Tur/Red Gram),Kanpur(Grain),2016-10-14,6500.0,70.0,30.0,clear
+57,Bengal Gram(Gram),Choubepur,2016-10-14,7700.0,2.5,30.0,clear
+58,Bengal Gram(Gram),Kanpur(Grain),2016-10-14,7800.0,45.0,30.0,clear
+59,Bengal Gram(Gram),Pukhrayan,2016-10-14,7400.0,1.0,30.0,clear
+60,Arhar (Tur/Red Gram),Choubepur,2016-10-15,6425.0,1.5,31.4,clear
+61,Arhar (Tur/Red Gram),Kanpur(Grain),2016-10-15,6475.0,80.0,31.4,clear
+62,Bengal Gram(Gram),Choubepur,2016-10-15,7725.0,1.5,31.4,clear
+63,Bengal Gram(Gram),Kanpur(Grain),2016-10-15,7850.0,80.0,31.4,clear
+64,Bengal Gram(Gram),Pukhrayan,2016-10-15,7350.0,1.5,31.4,clear
+65,Arhar (Tur/Red Gram),Choubepur,2016-10-17,6415.0,2.0,30.6,clear
+66,Arhar (Tur/Red Gram),Kanpur(Grain),2016-10-17,6450.0,85.0,30.6,clear
+67,Bengal Gram(Gram),Choubepur,2016-10-17,7750.0,2.0,30.6,clear
+68,Bengal Gram(Gram),Kanpur(Grain),2016-10-17,8070.0,35.0,30.6,clear
+69,Bengal Gram(Gram),Pukhrayan,2016-10-17,7380.0,1.0,30.6,clear
+70,Arhar (Tur/Red Gram),Choubepur,2016-10-18,6410.0,3.0,29.6,clear
+71,Arhar (Tur/Red Gram),Kanpur(Grain),2016-10-18,6400.0,90.0,29.6,clear
+72,Bengal Gram(Gram),Choubepur,2016-10-18,7760.0,1.5,29.6,clear
+73,Bengal Gram(Gram),Kanpur(Grain),2016-10-18,8250.0,40.0,29.6,clear
+74,Bengal Gram(Gram),Pukhrayan,2016-10-18,7400.0,1.0,29.6,clear
+75,Arhar (Tur/Red Gram),Choubepur,2016-10-19,6420.0,2.5,30.8,clear
+76,Arhar (Tur/Red Gram),Kanpur(Grain),2016-10-19,6350.0,80.0,30.8,clear
+77,Bengal Gram(Gram),Choubepur,2016-10-19,7750.0,2.5,30.8,clear
+78,Bengal Gram(Gram),Kanpur(Grain),2016-10-19,8300.0,35.0,30.8,clear
+79,Bengal Gram(Gram),Pukhrayan,2016-10-19,7500.0,1.0,30.8,clear
+80,Arhar (Tur/Red Gram),Choubepur,2016-10-20,6425.0,1.5,30.6,clear
+81,Arhar (Tur/Red Gram),Kanpur(Grain),2016-10-20,6375.0,75.0,30.6,clear
+82,Bengal Gram(Gram),Choubepur,2016-10-20,7775.0,3.0,30.6,clear
+83,Bengal Gram(Gram),Kanpur(Grain),2016-10-20,8325.0,40.0,30.6,clear
+84,Bengal Gram(Gram),Pukhrayan,2016-10-20,7700.0,1.0,30.6,clear
+85,Arhar (Tur/Red Gram),Choubepur,2016-10-21,10140.0,5.0,31.6,clear
+86,Arhar (Tur/Red Gram),Kanpur(Grain),2016-10-21,6300.0,85.0,31.6,clear
+87,Bengal Gram(Gram),Choubepur,2016-10-21,7750.0,3.5,31.6,clear
+88,Bengal Gram(Gram),Kanpur(Grain),2016-10-21,8400.0,30.0,31.6,clear
+89,Bengal Gram(Gram),Pukhrayan,2016-10-21,7800.0,1.0,31.6,clear
+90,Arhar (Tur/Red Gram),Choubepur,2016-10-22,6450.0,1.5,32.0,clear
+91,Arhar (Tur/Red Gram),Kanpur(Grain),2016-10-22,6325.0,90.0,32.0,clear
+92,Bengal Gram(Gram),Choubepur,2016-10-22,7725.0,2.5,32.0,clear
+93,Bengal Gram(Gram),Kanpur(Grain),2016-10-22,8375.0,50.0,32.0,clear
+94,Bengal Gram(Gram),Pukhrayan,2016-10-22,7900.0,1.0,32.0,clear
+95,Arhar (Tur/Red Gram),Choubepur,2016-10-24,6460.0,3.5,30.2,clear
+96,Arhar (Tur/Red Gram),Kanpur(Grain),2016-10-24,6300.0,95.0,30.2,clear
+97,Bengal Gram(Gram),Choubepur,2016-10-24,7750.0,3.5,30.2,clear
+98,Bengal Gram(Gram),Kanpur(Grain),2016-10-24,8450.0,40.0,30.2,clear
+99,Arhar (Tur/Red Gram),Choubepur,2016-10-25,6425.0,2.0,30.8,clear
+100,Arhar (Tur/Red Gram),Kanpur(Grain),2016-10-25,6325.0,90.0,30.8,clear
+101,Bengal Gram(Gram),Choubepur,2016-10-25,8000.0,4.0,30.8,clear
+102,Bengal Gram(Gram),Kanpur(Grain),2016-10-25,8465.0,35.0,30.8,clear
+103,Bengal Gram(Gram),Pukhrayan,2016-10-25,7900.0,1.5,30.8,clear
+104,Arhar (Tur/Red Gram),Choubepur,2016-10-26,6400.0,2.5,30.0,clear
+105,Arhar (Tur/Red Gram),Kanpur(Grain),2016-10-26,6350.0,75.0,30.0,clear
+106,Bengal Gram(Gram),Choubepur,2016-10-26,8100.0,3.0,30.0,clear
+107,Bengal Gram(Gram),Kanpur(Grain),2016-10-26,8500.0,30.0,30.0,clear
+108,Bengal Gram(Gram),Pukhrayan,2016-10-26,8000.0,1.0,30.0,clear
+109,Arhar (Tur/Red Gram),Choubepur,2016-10-27,6375.0,3.0,31.2,clear
+110,Arhar (Tur/Red Gram),Kanpur(Grain),2016-10-27,6325.0,85.0,31.2,clear
+111,Bengal Gram(Gram),Choubepur,2016-10-27,8200.0,2.0,31.2,clear
+112,Bengal Gram(Gram),Kanpur(Grain),2016-10-27,8530.0,35.0,31.2,clear
+113,Bengal Gram(Gram),Pukhrayan,2016-10-27,8100.0,1.0,31.2,clear
+114,Arhar (Tur/Red Gram),Choubepur,2016-10-28,6325.0,2.0,31.4,clear
+115,Arhar (Tur/Red Gram),Kanpur(Grain),2016-10-28,6275.0,100.0,31.4,clear
+116,Bengal Gram(Gram),Choubepur,2016-10-28,8250.0,3.5,31.4,clear
+117,Bengal Gram(Gram),Kanpur(Grain),2016-10-28,8550.0,30.0,31.4,clear
+118,Bengal Gram(Gram),Rura,2016-10-28,7220.0,11.0,31.4,clear
+119,Arhar (Tur/Red Gram),Choubepur,2016-10-29,6350.0,1.0,31.0,clear
+120,Arhar (Tur/Red Gram),Kanpur(Grain),2016-10-29,6250.0,110.0,31.0,clear
+121,Bengal Gram(Gram),Choubepur,2016-10-29,8300.0,3.5,31.0,clear
+122,Bengal Gram(Gram),Kanpur(Grain),2016-10-29,8540.0,35.0,31.0,clear
+123,Bengal Gram(Gram),Pukhrayan,2016-10-29,8050.0,1.5,31.0,clear
+124,Arhar (Tur/Red Gram),Choubepur,2016-01-11,6250.0,1.5,22.0,clear
+125,Bengal Gram(Gram),Choubepur,2016-01-11,8400.0,2.0,22.0,clear
+126,Bengal Gram(Gram),Pukhrayan,2016-01-11,8100.0,1.5,22.0,clear
+127,Arhar (Tur/Red Gram),Choubepur,2016-02-11,6225.0,2.0,24.0,clear
+128,Arhar (Tur/Red Gram),Kanpur(Grain),2016-02-11,6300.0,75.0,24.0,clear
+129,Bengal Gram(Gram),Choubepur,2016-02-11,8400.0,2.5,24.0,clear
+130,Bengal Gram(Gram),Kanpur(Grain),2016-02-11,8600.0,30.0,24.0,clear
+131,Bengal Gram(Gram),Pukhrayan,2016-02-11,8200.0,1.0,24.0,clear
+132,Arhar (Tur/Red Gram),Choubepur,2016-03-11,6220.0,3.0,31.2,clear
+133,Arhar (Tur/Red Gram),Kanpur(Grain),2016-03-11,6275.0,80.0,31.2,clear
+134,Bengal Gram(Gram),Choubepur,2016-03-11,8425.0,3.5,31.2,clear
+135,Bengal Gram(Gram),Kanpur(Grain),2016-03-11,8625.0,35.0,31.2,clear
+136,Bengal Gram(Gram),Pukhrayan,2016-03-11,8300.0,1.0,31.2,clear
+137,Arhar (Tur/Red Gram),Choubepur,2016-04-11,6225.0,2.5,38.0,clear
+138,Arhar (Tur/Red Gram),Kanpur(Grain),2016-04-11,6250.0,90.0,38.0,clear
+139,Bengal Gram(Gram),Choubepur,2016-04-11,8450.0,4.0,38.0,clear
+140,Bengal Gram(Gram),Kanpur(Grain),2016-04-11,8850.0,30.0,38.0,clear
+141,Bengal Gram(Gram),Pukhrayan,2016-04-11,8200.0,1.5,38.0,clear
+142,Arhar (Tur/Red Gram),Choubepur,2016-05-11,6235.0,1.5,35.4,clear
+143,Arhar (Tur/Red Gram),Kanpur(Grain),2016-05-11,6200.0,95.0,35.4,clear
+144,Bengal Gram(Gram),Choubepur,2016-05-11,8500.0,2.5,35.4,clear
+145,Bengal Gram(Gram),Kanpur(Grain),2016-05-11,9150.0,35.0,35.4,clear
+146,Bengal Gram(Gram),Pukhrayan,2016-05-11,8250.0,1.0,35.4,clear
+147,Arhar (Tur/Red Gram),Choubepur,2016-07-11,6230.0,2.0,30.4,clear
+148,Arhar (Tur/Red Gram),Kanpur(Grain),2016-07-11,6225.0,85.0,30.4,clear
+149,Bengal Gram(Gram),Choubepur,2016-07-11,8525.0,3.5,30.4,clear
+150,Bengal Gram(Gram),Kanpur(Grain),2016-07-11,9500.0,50.0,30.4,clear
+151,Arhar (Tur/Red Gram),Choubepur,2016-08-11,6225.0,2.5,32.0,clear
+152,Arhar (Tur/Red Gram),Kanpur(Grain),2016-08-11,6200.0,80.0,32.0,clear
+153,Bengal Gram(Gram),Choubepur,2016-08-11,8550.0,3.0,32.0,clear
+154,Bengal Gram(Gram),Kanpur(Grain),2016-08-11,9550.0,45.0,32.0,clear
+155,Bengal Gram(Gram),Pukhrayan,2016-08-11,8300.0,1.0,32.0,clear
+156,Arhar (Tur/Red Gram),Choubepur,2016-09-11,6250.0,1.0,32.4,clear
+157,Arhar (Tur/Red Gram),Kanpur(Grain),2016-09-11,6250.0,75.0,32.4,clear
+158,Bengal Gram(Gram),Choubepur,2016-09-11,8575.0,2.0,32.4,clear
+159,Bengal Gram(Gram),Kanpur(Grain),2016-09-11,9600.0,40.0,32.4,clear
+160,Bengal Gram(Gram),Pukhrayan,2016-09-11,8400.0,1.0,32.4,clear
+161,Arhar (Tur/Red Gram),Choubepur,2016-10-11,6250.0,2.0,26.4,clear
+162,Arhar (Tur/Red Gram),Kanpur(Grain),2016-10-11,6300.0,70.0,26.4,clear
+163,Bengal Gram(Gram),Choubepur,2016-10-11,1690.0,12.0,26.4,clear
+164,Bengal Gram(Gram),Kanpur(Grain),2016-10-11,9680.0,35.0,26.4,clear
+165,Bengal Gram(Gram),Pukhrayan,2016-10-11,8400.0,1.5,26.4,clear
+166,Arhar (Tur/Red Gram),Choubepur,2016-11-11,6275.0,3.0,26.8,clear
+167,Arhar (Tur/Red Gram),Kanpur(Grain),2016-11-11,6280.0,80.0,26.8,clear
+168,Bengal Gram(Gram),Choubepur,2016-11-11,8600.0,2.5,26.8,clear
+169,Bengal Gram(Gram),Kanpur(Grain),2016-11-11,9790.0,30.0,26.8,clear
+170,Bengal Gram(Gram),Pukhrayan,2016-11-11,8500.0,1.0,26.8,clear
+171,Arhar (Tur/Red Gram),Choubepur,2016-12-11,6250.0,2.5,24.2,clear
+172,Arhar (Tur/Red Gram),Kanpur(Grain),2016-12-11,6200.0,75.0,24.2,clear
+173,Bengal Gram(Gram),Choubepur,2016-12-11,8700.0,1.5,24.2,clear
+174,Bengal Gram(Gram),Kanpur(Grain),2016-12-11,9685.0,25.0,24.2,clear
+175,Bengal Gram(Gram),Pukhrayan,2016-12-11,8400.0,1.5,24.2,clear
+176,Arhar (Tur/Red Gram),Choubepur,2016-11-14,6225.0,1.5,26.8,clear
+177,Arhar (Tur/Red Gram),Kanpur(Grain),2016-11-14,6100.0,70.0,26.8,clear
+178,Bengal Gram(Gram),Choubepur,2016-11-14,8800.0,2.5,26.8,clear
+179,Bengal Gram(Gram),Kanpur(Grain),2016-11-14,9670.0,30.0,26.8,clear
+180,Arhar (Tur/Red Gram),Choubepur,2016-11-15,6225.0,2.0,26.0,clear
+181,Arhar (Tur/Red Gram),Kanpur(Grain),2016-11-15,6050.0,65.0,26.0,clear
+182,Bengal Gram(Gram),Choubepur,2016-11-15,8900.0,1.5,26.0,clear
+183,Bengal Gram(Gram),Kanpur(Grain),2016-11-15,9800.0,35.0,26.0,clear
+184,Bengal Gram(Gram),Pukhrayan,2016-11-15,8600.0,1.0,26.0,clear
+185,Arhar (Tur/Red Gram),Choubepur,2016-11-16,6200.0,2.5,18.6,clear
+186,Arhar (Tur/Red Gram),Kanpur(Grain),2016-11-16,5850.0,50.0,18.6,clear
+187,Bengal Gram(Gram),Choubepur,2016-11-16,8875.0,2.0,18.6,clear
+188,Bengal Gram(Gram),Kanpur(Grain),2016-11-16,9550.0,30.0,18.6,clear
+189,Bengal Gram(Gram),Pukhrayan,2016-11-16,8500.0,1.0,18.6,clear
+190,Arhar (Tur/Red Gram),Choubepur,2016-11-17,6220.0,1.5,25.4,clear
+191,Arhar (Tur/Red Gram),Kanpur(Grain),2016-11-17,5800.0,40.0,25.4,clear
+192,Bengal Gram(Gram),Choubepur,2016-11-17,8850.0,2.5,25.4,clear
+193,Bengal Gram(Gram),Kanpur(Grain),2016-11-17,9400.0,35.0,25.4,clear
+194,Bengal Gram(Gram),Pukhrayan,2016-11-17,8500.0,1.5,25.4,clear
+195,Arhar (Tur/Red Gram),Choubepur,2016-11-18,6200.0,3.0,24.6,clear
+196,Bengal Gram(Gram),Choubepur,2016-11-18,9000.0,3.0,24.6,clear
+197,Arhar (Tur/Red Gram),Choubepur,2016-11-19,6225.0,1.0,25.0,clear
+198,Arhar (Tur/Red Gram),Kanpur(Grain),2016-11-19,5750.0,20.0,25.0,clear
+199,Bengal Gram(Gram),Choubepur,2016-11-19,9100.0,1.5,25.0,clear
+200,Bengal Gram(Gram),Kanpur(Grain),2016-11-19,8950.0,15.0,25.0,clear
+201,Bengal Gram(Gram),Pukhrayan,2016-11-19,8600.0,1.0,25.0,clear
+202,Arhar (Tur/Red Gram),Choubepur,2016-11-21,6200.0,2.5,25.2,clear
+203,Arhar (Tur/Red Gram),Kanpur(Grain),2016-11-21,5885.0,35.0,25.2,clear
+204,Bengal Gram(Gram),Choubepur,2016-11-21,9200.0,2.0,25.2,clear
+205,Bengal Gram(Gram),Kanpur(Grain),2016-11-21,8925.0,25.0,25.2,clear
+206,Arhar (Tur/Red Gram),Choubepur,2016-11-22,6220.0,1.5,26.4,clear
+207,Arhar (Tur/Red Gram),Kanpur(Grain),2016-11-22,5950.0,30.0,26.4,clear
+208,Bengal Gram(Gram),Choubepur,2016-11-22,9250.0,2.5,26.4,clear
+209,Bengal Gram(Gram),Kanpur(Grain),2016-11-22,8900.0,20.0,26.4,clear
+210,Bengal Gram(Gram),Pukhrayan,2016-11-22,8800.0,1.0,26.4,clear
+211,Arhar (Tur/Red Gram),Choubepur,2016-11-23,6175.0,2.0,26.0,clear
+212,Arhar (Tur/Red Gram),Kanpur(Grain),2016-11-23,5975.0,40.0,26.0,clear
+213,Bengal Gram(Gram),Choubepur,2016-11-23,9300.0,2.5,26.0,clear
+214,Bengal Gram(Gram),Kanpur(Grain),2016-11-23,8950.0,30.0,26.0,clear
+215,Bengal Gram(Gram),Pukhrayan,2016-11-23,8700.0,1.5,26.0,clear
+216,Arhar (Tur/Red Gram),Choubepur,2016-11-24,6100.0,1.5,25.2,clear
+217,Arhar (Tur/Red Gram),Kanpur(Grain),2016-11-24,5900.0,45.0,25.2,clear
+218,Bengal Gram(Gram),Choubepur,2016-11-24,9200.0,2.5,25.2,clear
+219,Bengal Gram(Gram),Kanpur(Grain),2016-11-24,8900.0,40.0,25.2,clear
+220,Bengal Gram(Gram),Pukhrayan,2016-11-24,8750.0,1.0,25.2,clear
+221,Arhar (Tur/Red Gram),Choubepur,2016-11-25,6000.0,2.5,25.4,clear
+222,Arhar (Tur/Red Gram),Kanpur(Grain),2016-11-25,5800.0,40.0,25.4,clear
+223,Bengal Gram(Gram),Choubepur,2016-11-25,9150.0,1.5,25.4,clear
+224,Bengal Gram(Gram),Kanpur(Grain),2016-11-25,8865.0,30.0,25.4,clear
+225,Bengal Gram(Gram),Pukhrayan,2016-11-25,8800.0,1.0,25.4,clear
+226,Arhar (Tur/Red Gram),Choubepur,2016-11-26,6025.0,1.5,23.2,clear
+227,Arhar (Tur/Red Gram),Kanpur(Grain),2016-11-26,5950.0,30.0,23.2,clear
+228,Bengal Gram(Gram),Choubepur,2016-11-26,9100.0,1.0,23.2,clear
+229,Bengal Gram(Gram),Kanpur(Grain),2016-11-26,8800.0,20.0,23.2,clear
+230,Bengal Gram(Gram),Pukhrayan,2016-11-26,8700.0,1.5,23.2,clear
+231,Arhar (Tur/Red Gram),Choubepur,2016-11-28,6050.0,2.5,25.0,clear
+232,Arhar (Tur/Red Gram),Kanpur(Grain),2016-11-28,5900.0,25.0,25.0,clear
+233,Bengal Gram(Gram),Choubepur,2016-11-28,9000.0,1.5,25.0,clear
+234,Bengal Gram(Gram),Kanpur(Grain),2016-11-28,8900.0,15.0,25.0,clear
+235,Arhar (Tur/Red Gram),Choubepur,2016-11-29,6075.0,2.0,28.0,clear
+236,Arhar (Tur/Red Gram),Kanpur(Grain),2016-11-29,6000.0,20.0,28.0,clear
+237,Bengal Gram(Gram),Choubepur,2016-11-29,9025.0,1.0,28.0,clear
+238,Bengal Gram(Gram),Kanpur(Grain),2016-11-29,8850.0,30.0,28.0,clear
+239,Bengal Gram(Gram),Pukhrayan,2016-11-29,8750.0,1.0,28.0,clear
+240,Arhar (Tur/Red Gram),Choubepur,2016-11-30,6050.0,1.5,22.6,clear
+241,Arhar (Tur/Red Gram),Kanpur(Grain),2016-11-30,5960.0,20.0,22.6,clear
+242,Bengal Gram(Gram),Choubepur,2016-11-30,9050.0,0.5,22.6,clear
+243,Bengal Gram(Gram),Kanpur(Grain),2016-11-30,8800.0,35.0,22.6,clear
+244,Bengal Gram(Gram),Pukhrayan,2016-11-30,8750.0,1.5,22.6,clear
+245,Arhar (Tur/Red Gram),Choubepur,2016-01-12,6025.0,0.5,22.8,clear
+246,Arhar (Tur/Red Gram),Kanpur(Grain),2016-01-12,5950.0,25.0,22.8,clear
+247,Bengal Gram(Gram),Choubepur,2016-01-12,9075.0,1.0,22.8,clear
+248,Bengal Gram(Gram),Kanpur(Grain),2016-01-12,8850.0,40.0,22.8,clear
+249,Bengal Gram(Gram),Pukhrayan,2016-01-12,8800.0,1.0,22.8,clear
+250,Arhar (Tur/Red Gram),Choubepur,2016-02-12,6050.0,1.0,25.0,clear
+251,Arhar (Tur/Red Gram),Kanpur(Grain),2016-02-12,6000.0,40.0,25.0,clear
+252,Bengal Gram(Gram),Choubepur,2016-02-12,9050.0,1.5,25.0,clear
+253,Bengal Gram(Gram),Kanpur(Grain),2016-02-12,8920.0,35.0,25.0,clear
+254,Bengal Gram(Gram),Pukhrayan,2016-02-12,8900.0,1.0,25.0,clear
+255,Arhar (Tur/Red Gram),Choubepur,2016-03-12,6075.0,1.5,28.0,clear
+256,Arhar (Tur/Red Gram),Kanpur(Grain),2016-03-12,6050.0,35.0,28.0,clear
+257,Bengal Gram(Gram),Choubepur,2016-03-12,9025.0,2.0,28.0,clear
+258,Bengal Gram(Gram),Kanpur(Grain),2016-03-12,8950.0,30.0,28.0,clear
+259,Bengal Gram(Gram),Pukhrayan,2016-03-12,8900.0,1.0,28.0,clear
+260,Arhar (Tur/Red Gram),Choubepur,2016-05-12,6050.0,1.6,38.8,clear
+261,Arhar (Tur/Red Gram),Kanpur(Grain),2016-05-12,6100.0,30.0,38.8,clear
+262,Bengal Gram(Gram),Choubepur,2016-05-12,9020.0,1.8,38.8,clear
+263,Bengal Gram(Gram),Kanpur(Grain),2016-05-12,8900.0,40.0,38.8,clear
+264,Arhar (Tur/Red Gram),Choubepur,2016-06-12,6025.0,1.4,40.4,clear
+265,Arhar (Tur/Red Gram),Kanpur(Grain),2016-06-12,6075.0,45.0,40.4,clear
+266,Bengal Gram(Gram),Choubepur,2016-06-12,9000.0,1.2,40.4,clear
+267,Bengal Gram(Gram),Kanpur(Grain),2016-06-12,8965.0,35.0,40.4,clear
+268,Bengal Gram(Gram),Pukhrayan,2016-06-12,9100.0,1.0,40.4,clear
+269,Arhar (Tur/Red Gram),Choubepur,2016-07-12,6000.0,2.0,30.4,clear
+270,Arhar (Tur/Red Gram),Kanpur(Grain),2016-07-12,6000.0,28.0,30.4,clear
+271,Bengal Gram(Gram),Choubepur,2016-07-12,8975.0,1.5,30.4,clear
+272,Bengal Gram(Gram),Kanpur(Grain),2016-07-12,9000.0,25.0,30.4,clear
+273,Bengal Gram(Gram),Pukhrayan,2016-07-12,9200.0,1.0,30.4,clear
+274,Arhar (Tur/Red Gram),Choubepur,2016-08-12,6025.0,1.8,31.0,clear
+275,Bengal Gram(Gram),Choubepur,2016-08-12,8950.0,2.0,31.0,clear
+276,Arhar (Tur/Red Gram),Choubepur,2016-09-12,6020.0,1.7,33.2,clear
+277,Arhar (Tur/Red Gram),Kanpur(Grain),2016-09-12,5965.0,45.0,33.2,clear
+278,Bengal Gram(Gram),Choubepur,2016-09-12,8975.0,2.5,33.2,clear
+279,Bengal Gram(Gram),Kanpur(Grain),2016-09-12,8850.0,45.0,33.2,clear
+280,Bengal Gram(Gram),Pukhrayan,2016-09-12,9300.0,1.5,33.2,clear
+281,Arhar (Tur/Red Gram),Choubepur,2016-10-12,6010.0,1.4,31.4,clear
+282,Arhar (Tur/Red Gram),Kanpur(Grain),2016-10-12,6000.0,30.0,31.4,clear
+283,Bengal Gram(Gram),Choubepur,2016-10-12,8970.0,1.2,31.4,clear
+284,Bengal Gram(Gram),Kanpur(Grain),2016-10-12,8825.0,50.0,31.4,clear
+285,Bengal Gram(Gram),Pukhrayan,2016-10-12,9400.0,1.0,31.4,clear
+286,Arhar (Tur/Red Gram),Choubepur,2016-12-12,6015.0,1.6,22.0,clear
+287,Arhar (Tur/Red Gram),Kanpur(Grain),2016-12-12,6050.0,40.0,22.0,clear
+288,Bengal Gram(Gram),Choubepur,2016-12-12,8960.0,1.3,22.0,clear
+289,Bengal Gram(Gram),Kanpur(Grain),2016-12-12,8800.0,40.0,22.0,clear
+290,Arhar (Tur/Red Gram),Choubepur,2016-12-13,6000.0,1.5,25.2,clear
+291,Arhar (Tur/Red Gram),Kanpur(Grain),2016-12-13,6100.0,35.0,25.2,clear
+292,Bengal Gram(Gram),Choubepur,2016-12-13,8950.0,1.5,25.2,clear
+293,Bengal Gram(Gram),Kanpur(Grain),2016-12-13,8865.0,30.0,25.2,clear
+294,Bengal Gram(Gram),Pukhrayan,2016-12-13,9400.0,1.0,25.2,clear
+295,Arhar (Tur/Red Gram),Choubepur,2016-12-14,6025.0,2.0,25.8,clear
+296,Arhar (Tur/Red Gram),Kanpur(Grain),2016-12-14,6025.0,40.0,25.8,clear
+297,Bengal Gram(Gram),Choubepur,2016-12-14,8925.0,1.0,25.8,clear
+298,Bengal Gram(Gram),Kanpur(Grain),2016-12-14,8800.0,25.0,25.8,clear
+299,Bengal Gram(Gram),Pukhrayan,2016-12-14,9500.0,1.0,25.8,clear
+300,Arhar (Tur/Red Gram),Choubepur,2016-12-15,6020.0,0.8,23.2,clear
+301,Arhar (Tur/Red Gram),Kanpur(Grain),2016-12-15,6000.0,45.0,23.2,clear
+302,Bengal Gram(Gram),Choubepur,2016-12-15,8950.0,1.5,23.2,clear
+303,Bengal Gram(Gram),Kanpur(Grain),2016-12-15,8825.0,30.0,23.2,clear
+304,Bengal Gram(Gram),Pukhrayan,2016-12-15,9400.0,1.5,23.2,clear
+305,Arhar (Tur/Red Gram),Choubepur,2016-12-17,6000.0,1.5,23.0,clear
+306,Arhar (Tur/Red Gram),Kanpur(Grain),2016-12-17,6025.0,50.0,23.0,clear
+307,Bengal Gram(Gram),Choubepur,2016-12-17,8900.0,1.0,23.0,clear
+308,Bengal Gram(Gram),Kanpur(Grain),2016-12-17,8800.0,40.0,23.0,clear
+309,Bengal Gram(Gram),Pukhrayan,2016-12-17,9300.0,1.5,23.0,clear
+310,Arhar (Tur/Red Gram),Choubepur,2016-12-19,6015.0,2.0,13.2,clear
+311,Arhar (Tur/Red Gram),Kanpur(Grain),2016-12-19,6000.0,40.0,13.2,clear
+312,Bengal Gram(Gram),Choubepur,2016-12-19,8925.0,1.5,13.2,clear
+313,Bengal Gram(Gram),Kanpur(Grain),2016-12-19,8825.0,35.0,13.2,clear
+314,Arhar (Tur/Red Gram),Choubepur,2016-12-20,6010.0,1.8,22.0,clear
+315,Arhar (Tur/Red Gram),Kanpur(Grain),2016-12-20,6050.0,35.0,22.0,clear
+316,Bengal Gram(Gram),Choubepur,2016-12-20,8950.0,1.2,22.0,clear
+317,Bengal Gram(Gram),Kanpur(Grain),2016-12-20,8850.0,30.0,22.0,clear
+318,Bengal Gram(Gram),Pukhrayan,2016-12-20,9400.0,1.0,22.0,clear
+319,Arhar (Tur/Red Gram),Choubepur,2016-12-21,6000.0,1.7,22.0,clear
+320,Arhar (Tur/Red Gram),Kanpur(Grain),2016-12-21,6000.0,45.0,22.0,clear
+321,Bengal Gram(Gram),Choubepur,2016-12-21,8925.0,1.3,22.0,clear
+322,Bengal Gram(Gram),Kanpur(Grain),2016-12-21,8840.0,40.0,22.0,clear
+323,Bengal Gram(Gram),Pukhrayan,2016-12-21,9500.0,1.0,22.0,clear
+324,Arhar (Tur/Red Gram),Choubepur,2016-12-22,5975.0,2.5,20.0,clear
+325,Arhar (Tur/Red Gram),Kanpur(Grain),2016-12-22,5900.0,55.0,20.0,clear
+326,Bengal Gram(Gram),Choubepur,2016-12-22,8900.0,1.0,20.0,clear
+327,Bengal Gram(Gram),Kanpur(Grain),2016-12-22,8800.0,50.0,20.0,clear
+328,Bengal Gram(Gram),Pukhrayan,2016-12-22,9550.0,1.0,20.0,clear
+329,Arhar (Tur/Red Gram),Choubepur,2016-12-23,5950.0,0.3,21.0,clear
+330,Bengal Gram(Gram),Choubepur,2016-12-23,8750.0,2.0,21.0,clear
+331,Bengal Gram(Gram),Pukhrayan,2016-12-23,9500.0,1.5,21.0,clear
+332,Arhar (Tur/Red Gram),Choubepur,2016-12-24,5950.0,2.0,21.0,clear
+333,Bengal Gram(Gram),Choubepur,2016-12-24,8700.0,1.5,21.0,clear
+334,Bengal Gram(Gram),Pukhrayan,2016-12-24,9550.0,1.0,21.0,clear
+335,Arhar (Tur/Red Gram),Choubepur,2016-12-26,9775.0,2.5,17.0,clear
+336,Arhar (Tur/Red Gram),Kanpur(Grain),2016-12-26,5950.0,65.0,17.0,clear
+337,Bengal Gram(Gram),Choubepur,2016-12-26,8710.0,1.0,17.0,clear
+338,Bengal Gram(Gram),Kanpur(Grain),2016-12-26,8725.0,60.0,17.0,clear
+339,Arhar (Tur/Red Gram),Choubepur,2016-12-27,5920.0,2.2,20.6,clear
+340,Arhar (Tur/Red Gram),Kanpur(Grain),2016-12-27,6000.0,60.0,20.6,clear
+341,Bengal Gram(Gram),Choubepur,2016-12-27,8715.0,2.0,20.6,clear
+342,Bengal Gram(Gram),Kanpur(Grain),2016-12-27,8750.0,50.0,20.6,clear
+343,Bengal Gram(Gram),Pukhrayan,2016-12-27,9600.0,1.5,20.6,clear
+344,Arhar (Tur/Red Gram),Choubepur,2016-12-28,5900.0,1.5,12.0,clear
+345,Arhar (Tur/Red Gram),Kanpur(Grain),2016-12-28,5900.0,50.0,12.0,clear
+346,Bengal Gram(Gram),Choubepur,2016-12-28,8700.0,1.3,12.0,clear
+347,Bengal Gram(Gram),Kanpur(Grain),2016-12-28,8700.0,45.0,12.0,clear
+348,Bengal Gram(Gram),Pukhrayan,2016-12-28,9700.0,1.0,12.0,clear
+349,Arhar (Tur/Red Gram),Choubepur,2016-12-29,5910.0,1.8,14.0,clear
+350,Arhar (Tur/Red Gram),Kanpur(Grain),2016-12-29,5925.0,40.0,14.0,clear
+351,Bengal Gram(Gram),Choubepur,2016-12-29,8710.0,1.2,14.0,clear
+352,Bengal Gram(Gram),Kanpur(Grain),2016-12-29,8765.0,60.0,14.0,clear
+353,Bengal Gram(Gram),Pukhrayan,2016-12-29,9750.0,1.0,14.0,clear
+354,Arhar (Tur/Red Gram),Kanpur(Grain),2016-01-01,7725.0,50.0,22.2,clear
+355,Arhar (Tur/Red Gram),Kanpur(Grain),2016-02-01,7730.0,45.0,21.8,clear
+356,Arhar (Tur/Red Gram),Kanpur(Grain),2016-05-01,7780.0,38.0,39.4,clear
+357,Arhar (Tur/Red Gram),Kanpur(Grain),2016-06-01,7740.0,45.0,40.0,clear
+358,Arhar (Tur/Red Gram),Kanpur(Grain),2016-07-01,7800.0,42.0,33.4,clear
+359,Arhar (Tur/Red Gram),Kanpur(Grain),2016-08-01,7850.0,40.0,30.6,clear
+360,Arhar (Tur/Red Gram),Kanpur(Grain),2016-09-01,7865.0,38.0,33.0,clear
+361,Arhar (Tur/Red Gram),Kanpur(Grain),2016-11-01,7900.0,35.0,28.0,clear
+362,Arhar (Tur/Red Gram),Kanpur(Grain),2016-12-01,7950.0,32.0,22.0,clear
+363,Arhar (Tur/Red Gram),Kanpur(Grain),2016-01-13,7925.0,40.0,22.6,clear
+364,Arhar (Tur/Red Gram),Kanpur(Grain),2016-01-14,7950.0,35.0,23.4,clear
+365,Arhar (Tur/Red Gram),Kanpur(Grain),2016-01-15,7965.0,30.0,19.4,clear
+366,Arhar (Tur/Red Gram),Kanpur(Grain),2016-01-16,7920.0,40.0,17.4,clear
+367,Arhar (Tur/Red Gram),Kanpur(Grain),2016-01-18,7820.0,50.0,17.4,clear
+368,Arhar (Tur/Red Gram),Kanpur(Grain),2016-01-19,7800.0,55.0,12.0,clear
+369,Arhar (Tur/Red Gram),Kanpur(Grain),2016-01-20,7840.0,52.0,14.8,clear
+370,Arhar (Tur/Red Gram),Kanpur(Grain),2016-01-21,7865.0,50.0,11.0,clear
+371,Arhar (Tur/Red Gram),Kanpur(Grain),2016-01-22,7885.0,48.0,15.0,clear
+372,Arhar (Tur/Red Gram),Kanpur(Grain),2016-01-25,7820.0,60.0,20.0,clear
+373,Arhar (Tur/Red Gram),Kanpur(Grain),2016-01-27,7700.0,65.0,22.0,clear
+374,Arhar (Tur/Red Gram),Kanpur(Grain),2016-01-29,7725.0,70.0,22.0,clear
+375,Arhar (Tur/Red Gram),Kanpur(Grain),2016-01-30,7765.0,55.0,25.2,clear
+376,Arhar (Tur/Red Gram),Kanpur(Grain),2016-02-02,7825.0,48.0,20.8,clear
+377,Arhar (Tur/Red Gram),Kanpur(Grain),2016-03-02,7850.0,45.0,29.4,clear
+378,Arhar (Tur/Red Gram),Kanpur(Grain),2016-04-02,7800.0,52.0,37.2,clear
+379,Arhar (Tur/Red Gram),Kanpur(Grain),2016-05-02,7865.0,50.0,42.4,clear
+380,Arhar (Tur/Red Gram),Kanpur(Grain),2016-06-02,7840.0,58.0,40.4,clear
+381,Arhar (Tur/Red Gram),Kanpur(Grain),2016-08-02,7825.0,60.0,29.6,clear
+382,Arhar (Tur/Red Gram),Kanpur(Grain),2016-09-02,7840.0,55.0,32.6,clear
+383,Arhar (Tur/Red Gram),Kanpur(Grain),2016-10-02,7800.0,65.0,33.4,clear
+384,Arhar (Tur/Red Gram),Kanpur(Grain),2016-02-16,7800.0,55.0,23.0,clear
+385,Arhar (Tur/Red Gram),Kanpur(Grain),2016-02-17,7825.0,50.0,25.0,clear
+386,Arhar (Tur/Red Gram),Kanpur(Grain),2016-02-18,7815.0,45.0,27.8,clear
+387,Arhar (Tur/Red Gram),Kanpur(Grain),2016-02-19,7840.0,40.0,28.4,clear
+388,Arhar (Tur/Red Gram),Kanpur(Grain),2016-02-20,7815.0,55.0,25.6,clear
+389,Arhar (Tur/Red Gram),Kanpur(Grain),2016-02-22,7850.0,50.0,25.2,clear
+390,Arhar (Tur/Red Gram),Kanpur(Grain),2016-02-23,7800.0,60.0,25.0,clear
+391,Arhar (Tur/Red Gram),Kanpur(Grain),2016-02-24,7825.0,55.0,26.8,clear
+392,Arhar (Tur/Red Gram),Kanpur(Grain),2016-02-25,7860.0,45.0,25.2,clear
+393,Arhar (Tur/Red Gram),Kanpur(Grain),2016-02-27,7750.0,60.0,27.4,clear
+394,Arhar (Tur/Red Gram),Kanpur(Grain),2016-02-29,7760.0,55.0,28.4,clear
+395,Arhar (Tur/Red Gram),Kanpur(Grain),2016-01-03,7800.0,40.0,12.6,clear
+396,Arhar (Tur/Red Gram),Kanpur(Grain),2016-02-03,7780.0,45.0,19.4,clear
+397,Arhar (Tur/Red Gram),Kanpur(Grain),2016-04-03,7700.0,60.0,38.0,clear
+398,Arhar (Tur/Red Gram),Kanpur(Grain),2016-07-03,7725.0,58.0,30.4,clear
+399,Arhar (Tur/Red Gram),Kanpur(Grain),2016-08-03,7740.0,50.0,32.2,clear
+400,Arhar (Tur/Red Gram),Kanpur(Grain),2016-09-03,7700.0,60.0,32.4,clear
+401,Arhar (Tur/Red Gram),Kanpur(Grain),2016-10-03,7730.0,50.0,34.6,clear
+402,Arhar (Tur/Red Gram),Kanpur(Grain),2016-11-03,7720.0,65.0,28.6,clear
+403,Arhar (Tur/Red Gram),Kanpur(Grain),2016-12-03,7725.0,60.0,18.6,clear
+404,Arhar (Tur/Red Gram),Kanpur(Grain),2016-03-14,7750.0,60.0,26.6,clear
+405,Arhar (Tur/Red Gram),Kanpur(Grain),2016-03-15,7760.0,70.0,25.2,clear
+406,Arhar (Tur/Red Gram),Kanpur(Grain),2016-03-16,7750.0,70.0,28.6,clear
+407,Arhar (Tur/Red Gram),Kanpur(Grain),2016-03-17,7775.0,65.0,30.4,clear
+408,Arhar (Tur/Red Gram),Kanpur(Grain),2016-03-19,7750.0,50.0,32.8,clear
+409,Arhar (Tur/Red Gram),Kanpur(Grain),2016-03-21,7700.0,55.0,31.2,clear
+410,Arhar (Tur/Red Gram),Kanpur(Grain),2016-03-23,7650.0,65.0,30.0,clear
+411,Arhar (Tur/Red Gram),Kanpur(Grain),2016-03-29,7800.0,50.0,32.0,clear
+412,Arhar (Tur/Red Gram),Kanpur(Grain),2016-03-30,7750.0,55.0,33.0,clear
+413,Arhar (Tur/Red Gram),Kanpur(Grain),2016-03-31,7700.0,65.0,35.2,clear
+414,Arhar (Tur/Red Gram),Kanpur(Grain),2016-01-04,7725.0,60.0,21.4,clear
+415,Arhar (Tur/Red Gram),Kanpur(Grain),2016-02-04,7700.0,65.0,21.6,clear
+416,Arhar (Tur/Red Gram),Kanpur(Grain),2016-04-04,7740.0,55.0,37.0,clear
+417,Arhar (Tur/Red Gram),Kanpur(Grain),2016-05-04,7715.0,60.0,37.0,clear
+418,Arhar (Tur/Red Gram),Kanpur(Grain),2016-06-04,7750.0,50.0,36.8,clear
+419,Arhar (Tur/Red Gram),Kanpur(Grain),2016-07-04,7725.0,45.0,31.0,clear
+420,Arhar (Tur/Red Gram),Kanpur(Grain),2016-08-04,7740.0,50.0,33.6,clear
+421,Arhar (Tur/Red Gram),Kanpur(Grain),2016-09-04,7700.0,55.0,33.2,clear
+422,Arhar (Tur/Red Gram),Kanpur(Grain),2016-11-04,7725.0,60.0,31.0,clear
+423,Arhar (Tur/Red Gram),Kanpur(Grain),2016-12-04,7750.0,55.0,21.0,clear
+424,Arhar (Tur/Red Gram),Kanpur(Grain),2016-04-13,7760.0,60.0,30.4,clear
+425,Arhar (Tur/Red Gram),Kanpur(Grain),2016-04-18,7800.0,45.0,39.2,clear
+426,Arhar (Tur/Red Gram),Kanpur(Grain),2016-04-19,7825.0,40.0,33.0,clear
+427,Arhar (Tur/Red Gram),Kanpur(Grain),2016-04-20,7825.0,40.0,39.0,clear
+428,Arhar (Tur/Red Gram),Kanpur(Grain),2016-04-21,7815.0,45.0,38.2,clear
+429,Arhar (Tur/Red Gram),Kanpur(Grain),2016-04-22,7850.0,50.0,40.2,clear
+430,Arhar (Tur/Red Gram),Kanpur(Grain),2016-04-23,7850.0,60.0,37.4,clear
+431,Arhar (Tur/Red Gram),Kanpur(Grain),2016-04-25,7900.0,55.0,38.0,clear
+432,Arhar (Tur/Red Gram),Kanpur(Grain),2016-04-26,7875.0,60.0,39.0,clear
+433,Arhar (Tur/Red Gram),Kanpur(Grain),2016-04-27,7950.0,50.0,41.0,clear
+434,Arhar (Tur/Red Gram),Kanpur(Grain),2016-04-28,7925.0,60.0,39.4,clear
+435,Arhar (Tur/Red Gram),Kanpur(Grain),2016-04-29,8000.0,60.0,40.2,clear
+436,Arhar (Tur/Red Gram),Uttaripura,2016-04-29,7950.0,8.0,40.2,clear
+437,Bengal Gram(Gram),Uttaripura,2016-04-29,5200.0,12.0,40.2,clear
+438,Arhar (Tur/Red Gram),Kanpur(Grain),2016-04-30,8160.0,55.0,39.8,clear
+439,Arhar (Tur/Red Gram),Kanpur(Grain),2016-02-05,8200.0,50.0,14.4,clear
+440,Arhar (Tur/Red Gram),Kanpur(Grain),2016-03-05,8225.0,60.0,22.6,clear
+441,Arhar (Tur/Red Gram),Kanpur(Grain),2016-05-05,8265.0,50.0,36.0,clear
+442,Arhar (Tur/Red Gram),Kanpur(Grain),2016-06-05,8250.0,65.0,33.6,clear
+443,Arhar (Tur/Red Gram),Kanpur(Grain),2016-07-05,8300.0,60.0,33.0,clear
+444,Arhar (Tur/Red Gram),Kanpur(Grain),2016-09-05,8325.0,55.0,32.8,clear
+445,Arhar (Tur/Red Gram),Kanpur(Grain),2016-10-05,8350.0,50.0,33.0,clear
+446,Arhar (Tur/Red Gram),Kanpur(Grain),2016-11-05,8400.0,45.0,26.0,clear
+447,Arhar (Tur/Red Gram),Kanpur(Grain),2016-12-05,8375.0,50.0,23.6,clear
+448,Arhar (Tur/Red Gram),Kanpur(Grain),2016-05-13,8360.0,60.0,40.6,clear
+449,Arhar (Tur/Red Gram),Kanpur(Grain),2016-05-14,8350.0,65.0,41.8,clear
+450,Arhar (Tur/Red Gram),Kanpur(Grain),2016-05-16,8340.0,70.0,42.0,clear
+451,Arhar (Tur/Red Gram),Kanpur(Grain),2016-05-17,8400.0,55.0,36.2,clear
+452,Arhar (Tur/Red Gram),Kanpur(Grain),2016-05-20,8300.0,70.0,38.4,clear
+453,Arhar (Tur/Red Gram),Kanpur(Grain),2016-05-21,8300.0,60.0,37.8,clear
+454,Arhar (Tur/Red Gram),Kanpur(Grain),2016-05-23,8325.0,55.0,33.6,clear
+455,Arhar (Tur/Red Gram),Kanpur(Grain),2016-05-25,8340.0,45.0,33.0,clear
+456,Arhar (Tur/Red Gram),Kanpur(Grain),2016-05-26,8360.0,40.0,36.2,clear
+457,Arhar (Tur/Red Gram),Kanpur(Grain),2016-05-27,8325.0,65.0,39.6,clear
+458,Arhar (Tur/Red Gram),Uttaripura,2016-05-27,8300.0,15.0,39.6,clear
+459,Bengal Gram(Gram),Uttaripura,2016-05-27,5500.0,15.0,39.6,clear
+460,Arhar (Tur/Red Gram),Kanpur(Grain),2016-05-28,8350.0,60.0,30.8,clear
+461,Bengal Gram(Gram),Pukhrayan,2016-05-28,5100.0,1.0,30.8,clear
+462,Bengal Gram(Gram),Rura,2016-05-28,4990.0,2.0,30.8,clear
+463,Arhar (Tur/Red Gram),Kanpur(Grain),2016-05-30,8500.0,50.0,35.4,clear
+464,Bengal Gram(Gram),Kanpur(Grain),2016-05-30,5840.0,60.0,35.4,clear
+465,Bengal Gram(Gram),Pukhrayan,2016-05-30,5120.0,1.0,35.4,clear
+466,Bengal Gram(Gram),Rura,2016-05-30,5000.0,2.5,35.4,clear
+467,Arhar (Tur/Red Gram),Kanpur(Grain),2016-05-31,8450.0,55.0,34.2,clear
+468,Bengal Gram(Gram),Kanpur(Grain),2016-05-31,5865.0,55.0,34.2,clear
+469,Bengal Gram(Gram),Pukhrayan,2016-05-31,5125.0,1.0,34.2,clear
+470,Arhar (Tur/Red Gram),Kanpur(Grain),2016-02-06,8350.0,65.0,14.0,clear
+471,Bengal Gram(Gram),Kanpur(Grain),2016-02-06,5780.0,60.0,14.0,clear
+472,Bengal Gram(Gram),Pukhrayan,2016-02-06,5250.0,1.0,14.0,clear
+473,Bengal Gram(Gram),Rura,2016-02-06,5000.0,2.0,14.0,clear
+474,Arhar (Tur/Red Gram),Kanpur(Grain),2016-03-06,8300.0,55.0,28.2,clear
+475,Bengal Gram(Gram),Kanpur(Grain),2016-03-06,5750.0,70.0,28.2,clear
+476,Bengal Gram(Gram),Pukhrayan,2016-03-06,5240.0,3.0,28.2,clear
+477,Bengal Gram(Gram),Rura,2016-03-06,5040.0,1.8,28.2,clear
+478,Arhar (Tur/Red Gram),Kanpur(Grain),2016-04-06,8340.0,50.0,36.6,clear
+479,Bengal Gram(Gram),Kanpur(Grain),2016-04-06,5600.0,65.0,36.6,clear
+480,Bengal Gram(Gram),Pukhrayan,2016-04-06,5250.0,2.5,36.6,clear
+481,Bengal Gram(Gram),Rura,2016-04-06,5060.0,1.5,36.6,clear
+482,Arhar (Tur/Red Gram),Kanpur(Grain),2016-06-06,8250.0,60.0,34.2,clear
+483,Bengal Gram(Gram),Kanpur(Grain),2016-06-06,5575.0,55.0,34.2,clear
+484,Bengal Gram(Gram),Rura,2016-06-06,5080.0,2.0,34.2,clear
+485,Arhar (Tur/Red Gram),Kanpur(Grain),2016-07-06,8200.0,65.0,32.4,clear
+486,Bengal Gram(Gram),Kanpur(Grain),2016-07-06,5500.0,65.0,32.4,clear
+487,Bengal Gram(Gram),Pukhrayan,2016-07-06,5350.0,1.5,32.4,clear
+488,Bengal Gram(Gram),Rura,2016-07-06,5100.0,1.8,32.4,clear
+489,Arhar (Tur/Red Gram),Kanpur(Grain),2016-08-06,8235.0,55.0,33.8,clear
+490,Bengal Gram(Gram),Kanpur(Grain),2016-08-06,5550.0,65.0,33.8,clear
+491,Bengal Gram(Gram),Pukhrayan,2016-08-06,5320.0,2.5,33.8,clear
+492,Bengal Gram(Gram),Rura,2016-08-06,5110.0,1.6,33.8,clear
+493,Arhar (Tur/Red Gram),Kanpur(Grain),2016-09-06,8250.0,70.0,32.0,clear
+494,Bengal Gram(Gram),Kanpur(Grain),2016-09-06,5600.0,50.0,32.0,clear
+495,Bengal Gram(Gram),Pukhrayan,2016-09-06,5300.0,3.5,32.0,clear
+496,Bengal Gram(Gram),Rura,2016-09-06,5100.0,2.0,32.0,clear
+497,Arhar (Tur/Red Gram),Kanpur(Grain),2016-11-06,8200.0,85.0,25.0,clear
+498,Bengal Gram(Gram),Kanpur(Grain),2016-11-06,5625.0,45.0,25.0,clear
+499,Bengal Gram(Gram),Pukhrayan,2016-11-06,5325.0,1.5,25.0,clear
+500,Bengal Gram(Gram),Rura,2016-11-06,5130.0,1.6,25.0,clear
+501,Arhar (Tur/Red Gram),Kanpur(Grain),2016-06-13,8265.0,65.0,35.6,clear
+502,Bengal Gram(Gram),Kanpur(Grain),2016-06-13,5650.0,40.0,35.6,clear
+503,Bengal Gram(Gram),Rura,2016-06-13,5140.0,1.5,35.6,clear
+504,Arhar (Tur/Red Gram),Kanpur(Grain),2016-06-14,8300.0,55.0,39.0,clear
+505,Bengal Gram(Gram),Kanpur(Grain),2016-06-14,5600.0,50.0,39.0,clear
+506,Bengal Gram(Gram),Pukhrayan,2016-06-14,5350.0,1.0,39.0,clear
+507,Arhar (Tur/Red Gram),Kanpur(Grain),2016-06-15,8275.0,65.0,30.8,clear
+508,Bengal Gram(Gram),Kanpur(Grain),2016-06-15,5625.0,60.0,30.8,clear
+509,Bengal Gram(Gram),Pukhrayan,2016-06-15,5340.0,2.5,30.8,clear
+510,Arhar (Tur/Red Gram),Kanpur(Grain),2016-06-16,8250.0,70.0,34.2,clear
+511,Bengal Gram(Gram),Kanpur(Grain),2016-06-16,5700.0,55.0,34.2,clear
+512,Bengal Gram(Gram),Pukhrayan,2016-06-16,5350.0,2.0,34.2,clear
+513,Arhar (Tur/Red Gram),Kanpur(Grain),2016-06-17,8165.0,60.0,33.0,clear
+514,Bengal Gram(Gram),Kanpur(Grain),2016-06-17,5750.0,50.0,33.0,clear
+515,Bengal Gram(Gram),Pukhrayan,2016-06-17,5350.0,2.0,33.0,clear
+516,Arhar (Tur/Red Gram),Kanpur(Grain),2016-06-18,8190.0,65.0,31.2,clear
+517,Bengal Gram(Gram),Kanpur(Grain),2016-06-18,5800.0,45.0,31.2,clear
+518,Bengal Gram(Gram),Pukhrayan,2016-06-18,5360.0,1.5,31.2,clear
+519,Bengal Gram(Gram),Rura,2016-06-18,5500.0,1.8,31.2,clear
+520,Arhar (Tur/Red Gram),Kanpur(Grain),2016-06-20,8275.0,55.0,32.6,clear
+521,Bengal Gram(Gram),Kanpur(Grain),2016-06-20,5775.0,50.0,32.6,clear
+522,Bengal Gram(Gram),Rura,2016-06-20,5490.0,2.0,32.6,clear
+523,Arhar (Tur/Red Gram),Kanpur(Grain),2016-06-21,8300.0,50.0,30.0,clear
+524,Bengal Gram(Gram),Kanpur(Grain),2016-06-21,5825.0,40.0,30.0,clear
+525,Bengal Gram(Gram),Pukhrayan,2016-06-21,5350.0,2.0,30.0,clear
+526,Bengal Gram(Gram),Rura,2016-06-21,5500.0,2.5,30.0,clear
+527,Arhar (Tur/Red Gram),Kanpur(Grain),2016-06-22,8350.0,45.0,26.8,clear
+528,Bengal Gram(Gram),Kanpur(Grain),2016-06-22,5850.0,35.0,26.8,clear
+529,Bengal Gram(Gram),Pukhrayan,2016-06-22,5350.0,2.5,26.8,clear
+530,Bengal Gram(Gram),Rura,2016-06-22,5510.0,1.8,26.8,clear
+531,Arhar (Tur/Red Gram),Kanpur(Grain),2016-06-23,8400.0,50.0,34.4,clear
+532,Bengal Gram(Gram),Kanpur(Grain),2016-06-23,6000.0,50.0,34.4,clear
+533,Bengal Gram(Gram),Pukhrayan,2016-06-23,5300.0,2.0,34.4,clear
+534,Bengal Gram(Gram),Rura,2016-06-23,5520.0,1.6,34.4,clear
+535,Arhar (Tur/Red Gram),Kanpur(Grain),2016-06-24,8425.0,60.0,33.0,clear
+536,Arhar (Tur/Red Gram),Uttaripura,2016-06-24,8400.0,15.0,33.0,clear
+537,Arhar (Tur/Red Gram),Varipaal,2016-06-24,8400.0,15.0,33.0,clear
+538,Bengal Gram(Gram),Kanpur(Grain),2016-06-24,5890.0,60.0,33.0,clear
+539,Bengal Gram(Gram),Pukhrayan,2016-06-24,5400.0,1.5,33.0,clear
+540,Bengal Gram(Gram),Rura,2016-06-24,5550.0,2.0,33.0,clear
+541,Bengal Gram(Gram),Uttaripura,2016-06-24,5800.0,15.0,33.0,clear
+542,Bengal Gram(Gram),Varipaal,2016-06-24,5800.0,15.0,33.0,clear
+543,Arhar (Tur/Red Gram),Kanpur(Grain),2016-06-25,8475.0,55.0,35.2,clear
+544,Bengal Gram(Gram),Kanpur(Grain),2016-06-25,5900.0,55.0,35.2,clear
+545,Bengal Gram(Gram),Pukhrayan,2016-06-25,5410.0,1.0,35.2,clear
+546,Bengal Gram(Gram),Rura,2016-06-25,5560.0,1.8,35.2,clear
+547,Arhar (Tur/Red Gram),Kanpur(Grain),2016-06-27,8450.0,65.0,34.6,clear
+548,Bengal Gram(Gram),Kanpur(Grain),2016-06-27,5950.0,60.0,34.6,clear
+549,Bengal Gram(Gram),Rura,2016-06-27,5600.0,1.6,34.6,clear
+550,Arhar (Tur/Red Gram),Kanpur(Grain),2016-06-29,8440.0,60.0,37.4,clear
+551,Bengal Gram(Gram),Kanpur(Grain),2016-06-29,5850.0,65.0,37.4,clear
+552,Bengal Gram(Gram),Pukhrayan,2016-06-29,5410.0,2.0,37.4,clear
+553,Bengal Gram(Gram),Rura,2016-06-29,5590.0,1.8,37.4,clear
+554,Arhar (Tur/Red Gram),Kanpur(Grain),2016-01-07,8350.0,60.0,24.2,clear
+555,Bengal Gram(Gram),Kanpur(Grain),2016-01-07,5800.0,60.0,24.2,clear
+556,Bengal Gram(Gram),Pukhrayan,2016-01-07,5425.0,1.0,24.2,clear
+557,Bengal Gram(Gram),Rura,2016-01-07,5580.0,2.0,24.2,clear
+558,Arhar (Tur/Red Gram),Kanpur(Grain),2016-02-07,8400.0,55.0,22.4,clear
+559,Bengal Gram(Gram),Kanpur(Grain),2016-02-07,5825.0,50.0,22.4,clear
+560,Bengal Gram(Gram),Pukhrayan,2016-02-07,5410.0,2.5,22.4,clear
+561,Bengal Gram(Gram),Rura,2016-02-07,5580.0,2.0,22.4,clear
+562,Arhar (Tur/Red Gram),Kanpur(Grain),2016-04-07,8460.0,60.0,36.0,clear
+563,Bengal Gram(Gram),Kanpur(Grain),2016-04-07,5850.0,65.0,36.0,clear
+564,Bengal Gram(Gram),Rura,2016-04-07,5590.0,1.8,36.0,clear
+565,Arhar (Tur/Red Gram),Kanpur(Grain),2016-05-07,8400.0,50.0,35.6,clear
+566,Bengal Gram(Gram),Kanpur(Grain),2016-05-07,5970.0,50.0,35.6,clear
+567,Bengal Gram(Gram),Pukhrayan,2016-05-07,5440.0,1.0,35.6,clear
+568,Bengal Gram(Gram),Rura,2016-05-07,5600.0,1.6,35.6,clear
+569,Arhar (Tur/Red Gram),Kanpur(Grain),2016-06-07,8425.0,45.0,33.0,clear
+570,Bengal Gram(Gram),Kanpur(Grain),2016-06-07,6000.0,45.0,33.0,clear
+571,Bengal Gram(Gram),Pukhrayan,2016-06-07,5420.0,2.5,33.0,clear
+572,Bengal Gram(Gram),Rura,2016-06-07,5590.0,1.8,33.0,clear
+573,Arhar (Tur/Red Gram),Kanpur(Grain),2016-07-07,8450.0,40.0,29.0,clear
+574,Bengal Gram(Gram),Kanpur(Grain),2016-07-07,5950.0,40.0,29.0,clear
+575,Bengal Gram(Gram),Pukhrayan,2016-07-07,5450.0,3.0,29.0,clear
+576,Bengal Gram(Gram),Rura,2016-07-07,5580.0,1.6,29.0,clear
+577,Arhar (Tur/Red Gram),Kanpur(Grain),2016-08-07,8440.0,40.0,29.4,clear
+578,Bengal Gram(Gram),Kanpur(Grain),2016-08-07,6000.0,40.0,29.4,clear
+579,Bengal Gram(Gram),Pukhrayan,2016-08-07,5600.0,1.0,29.4,clear
+580,Bengal Gram(Gram),Rura,2016-08-07,5590.0,2.2,29.4,clear
+581,Arhar (Tur/Red Gram),Kanpur(Grain),2016-09-07,8450.0,50.0,33.0,clear
+582,Bengal Gram(Gram),Kanpur(Grain),2016-09-07,6000.0,50.0,33.0,clear
+583,Bengal Gram(Gram),Pukhrayan,2016-09-07,5640.0,1.0,33.0,clear
+584,Bengal Gram(Gram),Rura,2016-09-07,5600.0,2.0,33.0,clear
+585,Arhar (Tur/Red Gram),Kanpur(Grain),2016-11-07,8475.0,45.0,26.2,clear
+586,Bengal Gram(Gram),Kanpur(Grain),2016-11-07,6050.0,50.0,26.2,clear
+587,Bengal Gram(Gram),Rura,2016-11-07,5580.0,1.8,26.2,clear
+588,Arhar (Tur/Red Gram),Kanpur(Grain),2016-12-07,8500.0,40.0,19.0,clear
+589,Bengal Gram(Gram),Kanpur(Grain),2016-12-07,6200.0,45.0,19.0,clear
+590,Bengal Gram(Gram),Pukhrayan,2016-12-07,5650.0,1.5,19.0,clear
+591,Bengal Gram(Gram),Rura,2016-12-07,5590.0,1.6,19.0,clear
+592,Arhar (Tur/Red Gram),Kanpur(Grain),2016-07-13,8450.0,45.0,29.0,clear
+593,Bengal Gram(Gram),Kanpur(Grain),2016-07-13,6350.0,50.0,29.0,clear
+594,Bengal Gram(Gram),Pukhrayan,2016-07-13,5660.0,1.5,29.0,clear
+595,Bengal Gram(Gram),Rura,2016-07-13,5595.0,1.5,29.0,clear
+596,Arhar (Tur/Red Gram),Kanpur(Grain),2016-07-14,8425.0,55.0,30.0,clear
+597,Bengal Gram(Gram),Kanpur(Grain),2016-07-14,6400.0,40.0,30.0,clear
+598,Bengal Gram(Gram),Pukhrayan,2016-07-14,5680.0,1.0,30.0,clear
+599,Bengal Gram(Gram),Rura,2016-07-14,5580.0,1.8,30.0,clear
+600,Arhar (Tur/Red Gram),Kanpur(Grain),2016-07-15,8450.0,45.0,29.2,clear
+601,Bengal Gram(Gram),Kanpur(Grain),2016-07-15,6425.0,45.0,29.2,clear
+602,Bengal Gram(Gram),Pukhrayan,2016-07-15,5800.0,1.0,29.2,clear
+603,Bengal Gram(Gram),Rura,2016-07-15,5590.0,2.0,29.2,clear
+604,Arhar (Tur/Red Gram),Kanpur(Grain),2016-07-16,8400.0,55.0,29.0,clear
+605,Bengal Gram(Gram),Kanpur(Grain),2016-07-16,6550.0,40.0,29.0,clear
+606,Bengal Gram(Gram),Pukhrayan,2016-07-16,6000.0,1.0,29.0,clear
+607,Bengal Gram(Gram),Rura,2016-07-16,5610.0,1.8,29.0,clear
+608,Arhar (Tur/Red Gram),Kanpur(Grain),2016-07-18,8450.0,60.0,27.8,clear
+609,Bengal Gram(Gram),Kanpur(Grain),2016-07-18,6600.0,35.0,27.8,clear
+610,Bengal Gram(Gram),Rura,2016-07-18,5650.0,1.6,27.8,clear
+611,Arhar (Tur/Red Gram),Kanpur(Grain),2016-07-20,8475.0,55.0,33.2,clear
+612,Bengal Gram(Gram),Kanpur(Grain),2016-07-20,6800.0,45.0,33.2,clear
+613,Bengal Gram(Gram),Pukhrayan,2016-07-20,6150.0,1.0,33.2,clear
+614,Bengal Gram(Gram),Rura,2016-07-20,5750.0,1.8,33.2,clear
+615,Arhar (Tur/Red Gram),Kanpur(Grain),2016-07-21,8460.0,60.0,33.4,clear
+616,Bengal Gram(Gram),Kanpur(Grain),2016-07-21,6850.0,40.0,33.4,clear
+617,Bengal Gram(Gram),Pukhrayan,2016-07-21,6140.0,2.5,33.4,clear
+618,Bengal Gram(Gram),Rura,2016-07-21,5800.0,1.6,33.4,clear
+619,Arhar (Tur/Red Gram),Kanpur(Grain),2016-07-22,8500.0,40.0,29.0,clear
+620,Bengal Gram(Gram),Kanpur(Grain),2016-07-22,7000.0,35.0,29.0,clear
+621,Bengal Gram(Gram),Pukhrayan,2016-07-22,6150.0,2.0,29.0,clear
+622,Bengal Gram(Gram),Rura,2016-07-22,5840.0,2.0,29.0,clear
+623,Arhar (Tur/Red Gram),Kanpur(Grain),2016-07-23,8480.0,55.0,30.0,clear
+624,Bengal Gram(Gram),Kanpur(Grain),2016-07-23,7050.0,45.0,30.0,clear
+625,Bengal Gram(Gram),Pukhrayan,2016-07-23,6300.0,1.5,30.0,clear
+626,Bengal Gram(Gram),Rura,2016-07-23,5900.0,1.8,30.0,clear
+627,Arhar (Tur/Red Gram),Kanpur(Grain),2016-07-25,8500.0,50.0,30.2,clear
+628,Bengal Gram(Gram),Kanpur(Grain),2016-07-25,7100.0,40.0,30.2,clear
+629,Bengal Gram(Gram),Pukhrayan,2016-07-25,6600.0,1.5,30.2,clear
+630,Bengal Gram(Gram),Rura,2016-07-25,6000.0,2.2,30.2,clear
+631,Arhar (Tur/Red Gram),Kanpur(Grain),2016-07-26,8475.0,55.0,30.2,clear
+632,Bengal Gram(Gram),Kanpur(Grain),2016-07-26,7140.0,35.0,30.2,clear
+633,Bengal Gram(Gram),Pukhrayan,2016-07-26,7000.0,1.0,30.2,clear
+634,Bengal Gram(Gram),Rura,2016-07-26,6190.0,2.0,30.2,clear
+635,Arhar (Tur/Red Gram),Kanpur(Grain),2016-07-27,8450.0,60.0,28.4,clear
+636,Bengal Gram(Gram),Kanpur(Grain),2016-07-27,7150.0,30.0,28.4,clear
+637,Bengal Gram(Gram),Pukhrayan,2016-07-27,7200.0,1.0,28.4,clear
+638,Bengal Gram(Gram),Rura,2016-07-27,6280.0,1.8,28.4,clear
+639,Arhar (Tur/Red Gram),Kanpur(Grain),2016-07-28,8475.0,50.0,29.4,clear
+640,Bengal Gram(Gram),Kanpur(Grain),2016-07-28,7125.0,35.0,29.4,clear
+641,Bengal Gram(Gram),Pukhrayan,2016-07-28,7500.0,1.0,29.4,clear
+642,Bengal Gram(Gram),Rura,2016-07-28,7000.0,1.5,29.4,clear
+643,Arhar (Tur/Red Gram),Kanpur(Grain),2016-07-29,8480.0,55.0,29.0,clear
+644,Arhar (Tur/Red Gram),Varipaal,2016-07-29,8500.0,16.0,29.0,clear
+645,Bengal Gram(Gram),Choubepur,2016-07-29,5900.0,15.0,29.0,clear
+646,Bengal Gram(Gram),Kanpur(Grain),2016-07-29,7120.0,50.0,29.0,clear
+647,Bengal Gram(Gram),Pukhrayan,2016-07-29,7600.0,1.0,29.0,clear
+648,Bengal Gram(Gram),Rura,2016-07-29,6510.0,1.6,29.0,clear
+649,Bengal Gram(Gram),Varipaal,2016-07-29,6500.0,30.0,29.0,clear
+650,Arhar (Tur/Red Gram),Kanpur(Grain),2016-01-08,8450.0,50.0,24.4,clear
+651,Bengal Gram(Gram),Kanpur(Grain),2016-01-08,7150.0,50.0,24.4,clear
+652,Bengal Gram(Gram),Rura,2016-01-08,7580.0,1.5,24.4,clear
+653,Arhar (Tur/Red Gram),Kanpur(Grain),2016-02-08,8400.0,55.0,21.8,clear
+654,Bengal Gram(Gram),Kanpur(Grain),2016-02-08,7125.0,60.0,21.8,clear
+655,Bengal Gram(Gram),Pukhrayan,2016-02-08,7650.0,1.0,21.8,clear
+656,Bengal Gram(Gram),Rura,2016-02-08,7570.0,2.5,21.8,clear
+657,Arhar (Tur/Red Gram),Kanpur(Grain),2016-03-08,8380.0,60.0,28.6,clear
+658,Bengal Gram(Gram),Kanpur(Grain),2016-03-08,7350.0,50.0,28.6,clear
+659,Bengal Gram(Gram),Pukhrayan,2016-03-08,7610.0,2.0,28.6,clear
+660,Bengal Gram(Gram),Rura,2016-03-08,7580.0,2.0,28.6,clear
+661,Arhar (Tur/Red Gram),Kanpur(Grain),2016-04-08,8360.0,65.0,37.2,clear
+662,Bengal Gram(Gram),Kanpur(Grain),2016-04-08,7360.0,45.0,37.2,clear
+663,Bengal Gram(Gram),Pukhrayan,2016-04-08,7600.0,2.5,37.2,clear
+664,Bengal Gram(Gram),Rura,2016-04-08,7570.0,1.6,37.2,clear
+665,Arhar (Tur/Red Gram),Kanpur(Grain),2016-05-08,8300.0,70.0,38.0,clear
+666,Bengal Gram(Gram),Kanpur(Grain),2016-05-08,7290.0,50.0,38.0,clear
+667,Bengal Gram(Gram),Pukhrayan,2016-05-08,7600.0,2.0,38.0,clear
+668,Bengal Gram(Gram),Rura,2016-05-08,7550.0,2.2,38.0,clear
+669,Arhar (Tur/Red Gram),Kanpur(Grain),2016-06-08,8275.0,60.0,37.4,clear
+670,Bengal Gram(Gram),Kanpur(Grain),2016-06-08,7300.0,40.0,37.4,clear
+671,Bengal Gram(Gram),Pukhrayan,2016-06-08,7500.0,2.5,37.4,clear
+672,Bengal Gram(Gram),Rura,2016-06-08,7510.0,2.0,37.4,clear
+673,Arhar (Tur/Red Gram),Kanpur(Grain),2016-08-08,8250.0,65.0,30.4,clear
+674,Bengal Gram(Gram),Kanpur(Grain),2016-08-08,7350.0,50.0,30.4,clear
+675,Bengal Gram(Gram),Rura,2016-08-08,7500.0,1.8,30.4,clear
+676,Arhar (Tur/Red Gram),Kanpur(Grain),2016-09-08,8225.0,70.0,33.0,clear
+677,Bengal Gram(Gram),Kanpur(Grain),2016-09-08,7275.0,45.0,33.0,clear
+678,Bengal Gram(Gram),Pukhrayan,2016-09-08,7575.0,1.5,33.0,clear
+679,Bengal Gram(Gram),Rura,2016-09-08,7510.0,1.6,33.0,clear
+680,Arhar (Tur/Red Gram),Kanpur(Grain),2016-10-08,8250.0,65.0,29.0,clear
+681,Bengal Gram(Gram),Kanpur(Grain),2016-10-08,7250.0,55.0,29.0,clear
+682,Bengal Gram(Gram),Pukhrayan,2016-10-08,7580.0,1.0,29.0,clear
+683,Bengal Gram(Gram),Rura,2016-10-08,7500.0,2.0,29.0,clear
+684,Arhar (Tur/Red Gram),Kanpur(Grain),2016-11-08,8275.0,60.0,28.0,clear
+685,Bengal Gram(Gram),Kanpur(Grain),2016-11-08,7300.0,50.0,28.0,clear
+686,Bengal Gram(Gram),Pukhrayan,2016-11-08,7600.0,1.0,28.0,clear
+687,Bengal Gram(Gram),Rura,2016-11-08,7510.0,1.5,28.0,clear
+688,Arhar (Tur/Red Gram),Kanpur(Grain),2016-12-08,8315.0,50.0,17.4,clear
+689,Bengal Gram(Gram),Kanpur(Grain),2016-12-08,7285.0,70.0,17.4,clear
+690,Bengal Gram(Gram),Pukhrayan,2016-12-08,7610.0,1.5,17.4,clear
+691,Bengal Gram(Gram),Rura,2016-12-08,7500.0,1.8,17.4,clear
+692,Arhar (Tur/Red Gram),Kanpur(Grain),2016-08-13,8300.0,55.0,32.8,clear
+693,Bengal Gram(Gram),Kanpur(Grain),2016-08-13,7260.0,75.0,32.8,clear
+694,Bengal Gram(Gram),Pukhrayan,2016-08-13,7620.0,1.0,32.8,clear
+695,Bengal Gram(Gram),Rura,2016-08-13,7510.0,1.6,32.8,clear
+696,Arhar (Tur/Red Gram),Kanpur(Grain),2016-08-16,8265.0,60.0,30.4,clear
+697,Bengal Gram(Gram),Kanpur(Grain),2016-08-16,7300.0,60.0,30.4,clear
+698,Bengal Gram(Gram),Pukhrayan,2016-08-16,7600.0,2.0,30.4,clear
+699,Bengal Gram(Gram),Rura,2016-08-16,7500.0,1.8,30.4,clear
+700,Arhar (Tur/Red Gram),Kanpur(Grain),2016-08-17,8250.0,65.0,30.2,clear
+701,Bengal Gram(Gram),Kanpur(Grain),2016-08-17,7350.0,50.0,30.2,clear
+702,Bengal Gram(Gram),Pukhrayan,2016-08-17,7650.0,1.5,30.2,clear
+703,Bengal Gram(Gram),Rura,2016-08-17,7510.0,2.2,30.2,clear
+704,Arhar (Tur/Red Gram),Kanpur(Grain),2016-08-18,8225.0,60.0,31.4,clear
+705,Bengal Gram(Gram),Kanpur(Grain),2016-08-18,7325.0,55.0,31.4,clear
+706,Bengal Gram(Gram),Pukhrayan,2016-08-18,7310.0,1.0,31.4,clear
+707,Bengal Gram(Gram),Rura,2016-08-18,7520.0,1.2,31.4,clear
+708,Arhar (Tur/Red Gram),Kanpur(Grain),2016-08-19,8155.0,70.0,30.6,clear
+709,Bengal Gram(Gram),Kanpur(Grain),2016-08-19,7370.0,40.0,30.6,clear
+710,Bengal Gram(Gram),Pukhrayan,2016-08-19,7315.0,2.0,30.6,clear
+711,Bengal Gram(Gram),Rura,2016-08-19,7500.0,1.8,30.6,clear
+712,Arhar (Tur/Red Gram),Kanpur(Grain),2016-08-20,8200.0,60.0,31.8,clear
+713,Bengal Gram(Gram),Kanpur(Grain),2016-08-20,7400.0,35.0,31.8,clear
+714,Bengal Gram(Gram),Pukhrayan,2016-08-20,7340.0,1.5,31.8,clear
+715,Bengal Gram(Gram),Rura,2016-08-20,7490.0,2.0,31.8,clear
+716,Arhar (Tur/Red Gram),Kanpur(Grain),2016-08-22,8225.0,55.0,28.8,clear
+717,Bengal Gram(Gram),Kanpur(Grain),2016-08-22,7380.0,40.0,28.8,clear
+718,Bengal Gram(Gram),Rura,2016-08-22,7510.0,1.8,28.8,clear
+719,Arhar (Tur/Red Gram),Kanpur(Grain),2016-08-25,8050.0,65.0,34.0,clear
+720,Bengal Gram(Gram),Kanpur(Grain),2016-08-25,7325.0,60.0,34.0,clear
+721,Bengal Gram(Gram),Pukhrayan,2016-08-25,7530.0,1.0,34.0,clear
+722,Bengal Gram(Gram),Rura,2016-08-25,7540.0,1.4,34.0,clear
+723,Arhar (Tur/Red Gram),Kanpur(Grain),2016-08-27,8000.0,65.0,33.4,clear
+724,Bengal Gram(Gram),Kanpur(Grain),2016-08-27,7250.0,60.0,33.4,clear
+725,Bengal Gram(Gram),Pukhrayan,2016-08-27,7510.0,1.0,33.4,clear
+726,Bengal Gram(Gram),Rura,2016-08-27,7550.0,1.8,33.4,clear
+727,Arhar (Tur/Red Gram),Kanpur(Grain),2016-08-29,8025.0,70.0,33.2,clear
+728,Bengal Gram(Gram),Kanpur(Grain),2016-08-29,7260.0,55.0,33.2,clear
+729,Bengal Gram(Gram),Rura,2016-08-29,7580.0,1.6,33.2,clear
+730,Arhar (Tur/Red Gram),Kanpur(Grain),2016-08-30,8060.0,55.0,32.0,clear
+731,Bengal Gram(Gram),Kanpur(Grain),2016-08-30,7250.0,60.0,32.0,clear
+732,Bengal Gram(Gram),Pukhrayan,2016-08-30,7500.0,1.5,32.0,clear
+733,Bengal Gram(Gram),Rura,2016-08-30,7360.0,1.8,32.0,clear
+734,Arhar (Tur/Red Gram),Kanpur(Grain),2016-08-31,8030.0,60.0,27.4,clear
+735,Bengal Gram(Gram),Kanpur(Grain),2016-08-31,7275.0,50.0,27.4,clear
+736,Bengal Gram(Gram),Pukhrayan,2016-08-31,7510.0,1.0,27.4,clear
+737,Bengal Gram(Gram),Rura,2016-08-31,7190.0,2.0,27.4,clear
+738,Arhar (Tur/Red Gram),Kanpur(Grain),2016-02-09,8000.0,70.0,22.0,clear
+739,Bengal Gram(Gram),Kanpur(Grain),2016-02-09,7170.0,85.0,22.0,clear
+740,Bengal Gram(Gram),Pukhrayan,2016-02-09,7400.0,2.5,22.0,clear
+741,Bengal Gram(Gram),Rura,2016-02-09,7000.0,1.8,22.0,clear
+742,Arhar (Tur/Red Gram),Kanpur(Grain),2016-03-09,7725.0,75.0,28.4,clear
+743,Bengal Gram(Gram),Kanpur(Grain),2016-03-09,7180.0,75.0,28.4,clear
+744,Bengal Gram(Gram),Pukhrayan,2016-03-09,7410.0,2.0,28.4,clear
+745,Bengal Gram(Gram),Rura,2016-03-09,6980.0,2.0,28.4,clear
+746,Arhar (Tur/Red Gram),Kanpur(Grain),2016-05-09,7500.0,80.0,36.6,clear
+747,Bengal Gram(Gram),Kanpur(Grain),2016-05-09,6990.0,85.0,36.6,clear
+748,Bengal Gram(Gram),Rura,2016-05-09,6850.0,2.2,36.6,clear
+749,Arhar (Tur/Red Gram),Kanpur(Grain),2016-06-09,7210.0,85.0,39.8,clear
+750,Bengal Gram(Gram),Kanpur(Grain),2016-06-09,6800.0,90.0,39.8,clear
+751,Bengal Gram(Gram),Pukhrayan,2016-06-09,7410.0,2.0,39.8,clear
+752,Bengal Gram(Gram),Rura,2016-06-09,6790.0,2.5,39.8,clear
+753,Arhar (Tur/Red Gram),Kanpur(Grain),2016-07-09,7175.0,90.0,34.0,clear
+754,Bengal Gram(Gram),Kanpur(Grain),2016-07-09,6775.0,95.0,34.0,clear
+755,Arhar (Tur/Red Gram),Kanpur(Grain),2016-08-09,7150.0,95.0,32.6,clear
+756,Bengal Gram(Gram),Kanpur(Grain),2016-08-09,6800.0,80.0,32.6,clear
+757,Bengal Gram(Gram),Pukhrayan,2016-08-09,7350.0,2.5,32.6,clear
+758,Bengal Gram(Gram),Rura,2016-08-09,6640.0,2.0,32.6,clear
+759,Arhar (Tur/Red Gram),Kanpur(Grain),2016-09-09,7000.0,100.0,34.0,clear
+760,Bengal Gram(Gram),Kanpur(Grain),2016-09-09,7000.0,75.0,34.0,clear
+761,Bengal Gram(Gram),Pukhrayan,2016-09-09,7380.0,1.5,34.0,clear
+762,Bengal Gram(Gram),Rura,2016-09-09,6550.0,2.2,34.0,clear
+763,Arhar (Tur/Red Gram),Kanpur(Grain),2016-10-09,7050.0,90.0,31.0,clear
+764,Bengal Gram(Gram),Kanpur(Grain),2016-10-09,7050.0,65.0,31.0,clear
+765,Bengal Gram(Gram),Pukhrayan,2016-10-09,7650.0,2.0,31.0,clear
+766,Bengal Gram(Gram),Rura,2016-10-09,6560.0,1.6,31.0,clear
+767,Arhar (Tur/Red Gram),Kanpur(Grain),2016-12-09,7080.0,75.0,19.0,clear
+768,Bengal Gram(Gram),Kanpur(Grain),2016-12-09,7065.0,70.0,19.0,clear
+769,Bengal Gram(Gram),Rura,2016-12-09,6540.0,1.8,19.0,clear
+770,Arhar (Tur/Red Gram),Kanpur(Grain),2016-09-13,7060.0,80.0,29.0,clear
+771,Bengal Gram(Gram),Kanpur(Grain),2016-09-13,7075.0,60.0,29.0,clear
+772,Bengal Gram(Gram),Pukhrayan,2016-09-13,7350.0,1.5,29.0,clear
+773,Bengal Gram(Gram),Rura,2016-09-13,6550.0,1.6,29.0,clear
+774,Arhar (Tur/Red Gram),Kanpur(Grain),2016-09-14,7050.0,60.0,29.8,clear
+775,Bengal Gram(Gram),Kanpur(Grain),2016-09-14,7080.0,65.0,29.8,clear
+776,Bengal Gram(Gram),Pukhrayan,2016-09-14,7350.0,1.0,29.8,clear
+777,Bengal Gram(Gram),Rura,2016-09-14,2210.0,4.0,29.8,clear
+778,Arhar (Tur/Red Gram),Kanpur(Grain),2016-09-15,7065.0,55.0,31.6,clear
+779,Bengal Gram(Gram),Kanpur(Grain),2016-09-15,7060.0,70.0,31.6,clear
+780,Bengal Gram(Gram),Pukhrayan,2016-09-15,7300.0,1.5,31.6,clear
+781,Bengal Gram(Gram),Rura,2016-09-15,2200.0,5.0,31.6,clear
+782,Arhar (Tur/Red Gram),Kanpur(Grain),2016-09-16,6875.0,115.0,30.0,clear
+783,Bengal Gram(Gram),Kanpur(Grain),2016-09-16,7080.0,60.0,30.0,clear
+784,Bengal Gram(Gram),Pukhrayan,2016-09-16,7350.0,1.0,30.0,clear
+785,Bengal Gram(Gram),Rura,2016-09-16,6900.0,2.0,30.0,clear
+786,Arhar (Tur/Red Gram),Kanpur(Grain),2016-09-17,6900.0,95.0,30.4,clear
+787,Bengal Gram(Gram),Kanpur(Grain),2016-09-17,7100.0,55.0,30.4,clear
+788,Bengal Gram(Gram),Pukhrayan,2016-09-17,7340.0,1.5,30.4,clear
+789,Bengal Gram(Gram),Rura,2016-09-17,6940.0,1.6,30.4,clear
+790,Arhar (Tur/Red Gram),Kanpur(Grain),2016-09-19,6850.0,100.0,32.0,clear
+791,Bengal Gram(Gram),Kanpur(Grain),2016-09-19,7150.0,50.0,32.0,clear
+792,Bengal Gram(Gram),Rura,2016-09-19,6950.0,1.5,32.0,clear
+793,Arhar (Tur/Red Gram),Kanpur(Grain),2016-09-20,6875.0,85.0,34.0,clear
+794,Bengal Gram(Gram),Kanpur(Grain),2016-09-20,7180.0,45.0,34.0,clear
+795,Bengal Gram(Gram),Pukhrayan,2016-09-20,7300.0,1.5,34.0,clear
+796,Bengal Gram(Gram),Rura,2016-09-20,6940.0,1.8,34.0,clear
+797,Arhar (Tur/Red Gram),Kanpur(Grain),2016-09-22,6850.0,65.0,30.0,clear
+798,Bengal Gram(Gram),Kanpur(Grain),2016-09-22,7175.0,45.0,30.0,clear
+799,Bengal Gram(Gram),Pukhrayan,2016-09-22,7315.0,1.5,30.0,clear
+800,Bengal Gram(Gram),Rura,2016-09-22,6940.0,1.8,30.0,clear
+801,Arhar (Tur/Red Gram),Kanpur(Grain),2016-09-23,6700.0,120.0,30.0,clear
+802,Bengal Gram(Gram),Kanpur(Grain),2016-09-23,7165.0,40.0,30.0,clear
+803,Bengal Gram(Gram),Pukhrayan,2016-09-23,7340.0,1.0,30.0,clear
+804,Bengal Gram(Gram),Rura,2016-09-23,6930.0,2.0,30.0,clear
+805,Arhar (Tur/Red Gram),Kanpur(Grain),2016-09-27,6750.0,85.0,31.6,clear
+806,Bengal Gram(Gram),Kanpur(Grain),2016-09-27,7250.0,35.0,31.6,clear
+807,Bengal Gram(Gram),Pukhrayan,2016-09-27,7310.0,1.5,31.6,clear
+808,Bengal Gram(Gram),Rura,2016-09-27,6940.0,1.5,31.6,clear
+809,Arhar (Tur/Red Gram),Kanpur(Grain),2016-09-28,6765.0,75.0,32.6,clear
+810,Bengal Gram(Gram),Kanpur(Grain),2016-09-28,7300.0,50.0,32.6,clear
+811,Bengal Gram(Gram),Pukhrayan,2016-09-28,7300.0,1.5,32.6,clear
+812,Bengal Gram(Gram),Rura,2016-09-28,6990.0,2.0,32.6,clear
+813,Arhar (Tur/Red Gram),Kanpur(Grain),2016-09-29,6740.0,60.0,27.4,clear
+814,Bengal Gram(Gram),Kanpur(Grain),2016-09-29,7350.0,40.0,27.4,clear
+815,Bengal Gram(Gram),Pukhrayan,2016-09-29,7350.0,1.0,27.4,clear
+816,Bengal Gram(Gram),Rura,2016-09-29,7000.0,1.4,27.4,clear
+817,Arhar (Tur/Red Gram),Kanpur(Grain),2016-09-30,6760.0,50.0,32.4,clear
+818,Bengal Gram(Gram),Kanpur(Grain),2016-09-30,7375.0,35.0,32.4,clear
+819,Bengal Gram(Gram),Pukhrayan,2016-09-30,7380.0,1.0,32.4,clear
+820,Arhar (Tur/Red Gram),Kanpur(Grain),2016-01-10,6600.0,80.0,21.8,clear
+821,Bengal Gram(Gram),Kanpur(Grain),2016-01-10,7400.0,35.0,21.8,clear
+822,Arhar (Tur/Red Gram),Kanpur(Grain),2016-03-10,6575.0,85.0,28.8,clear
+823,Bengal Gram(Gram),Kanpur(Grain),2016-03-10,7480.0,45.0,28.8,clear
+824,Arhar (Tur/Red Gram),Kanpur(Grain),2016-04-10,6550.0,90.0,38.6,clear
+825,Bengal Gram(Gram),Kanpur(Grain),2016-04-10,7500.0,40.0,38.6,clear
+826,Bengal Gram(Gram),Pukhrayan,2016-04-10,7300.0,1.5,38.6,clear
+827,Arhar (Tur/Red Gram),Kanpur(Grain),2016-05-10,6465.0,95.0,38.0,clear
+828,Bengal Gram(Gram),Kanpur(Grain),2016-05-10,7550.0,35.0,38.0,clear
+829,Bengal Gram(Gram),Pukhrayan,2016-05-10,7400.0,1.0,38.0,clear
+830,Arhar (Tur/Red Gram),Kanpur(Grain),2016-06-10,6500.0,90.0,42.0,clear
+831,Bengal Gram(Gram),Kanpur(Grain),2016-06-10,7650.0,30.0,42.0,clear
+832,Bengal Gram(Gram),Pukhrayan,2016-06-10,7350.0,1.5,42.0,clear
+833,Arhar (Tur/Red Gram),Kanpur(Grain),2016-07-10,6450.0,95.0,34.0,clear
+834,Bengal Gram(Gram),Kanpur(Grain),2016-07-10,7700.0,35.0,34.0,clear
+835,Bengal Gram(Gram),Pukhrayan,2016-07-10,7400.0,1.0,34.0,clear
+836,Arhar (Tur/Red Gram),Kanpur(Grain),2016-08-10,6460.0,90.0,28.4,clear
+837,Bengal Gram(Gram),Kanpur(Grain),2016-08-10,7750.0,30.0,28.4,clear
+838,Bengal Gram(Gram),Pukhrayan,2016-08-10,7300.0,1.5,28.4,clear
+839,Arhar (Tur/Red Gram),Kanpur(Grain),2016-10-10,6440.0,95.0,30.0,clear
+840,Bengal Gram(Gram),Kanpur(Grain),2016-10-10,7780.0,40.0,30.0,clear
+841,Arhar (Tur/Red Gram),Kanpur(Grain),2016-11-10,6500.0,80.0,25.2,clear
+842,Bengal Gram(Gram),Kanpur(Grain),2016-11-10,7800.0,45.0,25.2,clear
+843,Bengal Gram(Gram),Pukhrayan,2016-11-10,7400.0,1.0,25.2,clear
+844,Arhar (Tur/Red Gram),Kanpur(Grain),2016-12-10,6480.0,85.0,18.0,clear
+845,Bengal Gram(Gram),Kanpur(Grain),2016-12-10,7825.0,35.0,18.0,clear
+846,Bengal Gram(Gram),Pukhrayan,2016-12-10,7300.0,1.5,18.0,clear
+847,Arhar (Tur/Red Gram),Kanpur(Grain),2016-10-13,6540.0,75.0,31.6,clear
+848,Bengal Gram(Gram),Kanpur(Grain),2016-10-13,7780.0,50.0,31.6,clear
+849,Bengal Gram(Gram),Pukhrayan,2016-10-13,7300.0,1.5,31.6,clear
+850,Arhar (Tur/Red Gram),Uttaripura,2016-07-31,8500.0,15.0,29.4,clear
+851,Bengal Gram(Gram),Pukhrayan,2016-07-31,7600.0,1.0,29.4,clear
+852,Bengal Gram(Gram),Uttaripura,2016-07-31,6150.0,12.0,29.4,clear
+853,Bengal Gram(Gram),Pukhrayan,2016-12-06,5330.0,1.0,16.0,clear
+854,Bengal Gram(Gram),Pukhrayan,2016-06-19,5370.0,1.0,32.0,clear
+855,Bengal Gram(Gram),Pukhrayan,2016-06-26,5400.0,2.0,36.2,clear
+856,Bengal Gram(Gram),Pukhrayan,2016-06-28,5410.0,1.5,34.2,clear
+857,Bengal Gram(Gram),Rura,2016-06-28,5580.0,2.0,34.2,clear
+858,Bengal Gram(Gram),Pukhrayan,2016-03-07,5420.0,2.0,29.8,clear
+859,Bengal Gram(Gram),Pukhrayan,2016-10-07,5625.0,2.0,31.4,clear
+860,Bengal Gram(Gram),Pukhrayan,2016-07-17,5880.0,2.5,27.8,clear
+861,Bengal Gram(Gram),Pukhrayan,2016-07-30,7600.0,1.5,28.2,clear
+862,Bengal Gram(Gram),Rura,2016-07-30,7410.0,1.8,28.2,clear
+863,Bengal Gram(Gram),Pukhrayan,2016-07-08,7550.0,2.0,29.4,clear
+864,Bengal Gram(Gram),Pukhrayan,2016-08-14,7610.0,10.0,28.8,clear
+865,Bengal Gram(Gram),Pukhrayan,2016-08-28,7500.0,2.0,32.0,clear
+866,Bengal Gram(Gram),Pukhrayan,2016-01-09,7500.0,2.0,21.4,clear
+867,Bengal Gram(Gram),Rura,2016-01-09,7010.0,2.2,21.4,clear
+868,Bengal Gram(Gram),Pukhrayan,2016-04-09,7400.0,2.5,37.8,clear
+869,Bengal Gram(Gram),Pukhrayan,2016-11-09,7380.0,1.5,26.0,clear
+870,Bengal Gram(Gram),Pukhrayan,2016-09-18,2150.0,12.0,26.2,clear
+871,Bengal Gram(Gram),Pukhrayan,2016-09-10,7380.0,1.0,32.8,clear
+872,Bengal Gram(Gram),Pukhrayan,2016-10-16,7380.0,1.0,25.2,clear
+873,Bengal Gram(Gram),Pukhrayan,2016-10-23,8000.0,1.0,30.6,clear
+874,Bengal Gram(Gram),Pukhrayan,2016-10-30,8100.0,1.0,31.0,clear
+875,Bengal Gram(Gram),Pukhrayan,2016-06-11,8200.0,1.5,41.2,clear
+876,Bengal Gram(Gram),Pukhrayan,2016-11-13,8550.0,1.0,26.2,clear
+877,Bengal Gram(Gram),Pukhrayan,2016-11-20,8700.0,1.0,25.2,clear
+878,Bengal Gram(Gram),Pukhrayan,2016-11-27,8800.0,1.0,25.8,clear
+879,Bengal Gram(Gram),Pukhrayan,2016-04-12,9000.0,1.0,35.6,clear
+880,Bengal Gram(Gram),Pukhrayan,2016-11-12,9400.0,1.5,26.8,clear
+881,Bengal Gram(Gram),Pukhrayan,2016-12-18,9350.0,1.0,13.8,clear
+882,Bengal Gram(Gram),Pukhrayan,2016-12-25,9800.0,1.0,24.0,clear
+883,Bengal Gram(Gram),Rura,2016-08-23,7520.0,1.6,29.0,clear
+884,Bengal Gram(Gram),Rura,2016-08-24,7530.0,1.5,32.0,clear
+885,Arhar (Tur/Red Gram),Choubepur,2017-02-01,5910.0,1.5,22.0,clear
+886,Arhar (Tur/Red Gram),Kanpur(Grain),2017-02-01,5900.0,55.0,22.0,clear
+887,Bengal Gram(Gram),Choubepur,2017-02-01,8715.0,1.2,22.0,clear
+888,Bengal Gram(Gram),Kanpur(Grain),2017-02-01,8825.0,45.0,22.0,clear
+889,Arhar (Tur/Red Gram),Choubepur,2017-03-01,5900.0,2.0,29.4,clear
+890,Arhar (Tur/Red Gram),Kanpur(Grain),2017-03-01,5865.0,65.0,29.4,clear
+891,Bengal Gram(Gram),Choubepur,2017-03-01,8700.0,1.0,29.4,clear
+892,Bengal Gram(Gram),Kanpur(Grain),2017-03-01,8750.0,55.0,29.4,clear
+893,Bengal Gram(Gram),Pukhrayan,2017-03-01,9750.0,1.0,29.4,clear
+894,Arhar (Tur/Red Gram),Choubepur,2017-04-01,5880.0,1.8,38.8,clear
+895,Bengal Gram(Gram),Choubepur,2017-04-01,8720.0,1.5,38.8,clear
+896,Bengal Gram(Gram),Pukhrayan,2017-04-01,9600.0,1.5,38.8,clear
+897,Arhar (Tur/Red Gram),Choubepur,2017-05-01,5870.0,2.0,28.4,clear
+898,Arhar (Tur/Red Gram),Kanpur(Grain),2017-05-01,5900.0,50.0,28.4,clear
+899,Bengal Gram(Gram),Choubepur,2017-05-01,8710.0,2.0,28.4,clear
+900,Bengal Gram(Gram),Kanpur(Grain),2017-05-01,8725.0,65.0,28.4,clear
+901,Bengal Gram(Gram),Pukhrayan,2017-05-01,9500.0,1.5,28.4,clear
+902,Arhar (Tur/Red Gram),Choubepur,2017-06-01,5875.0,2.5,37.0,clear
+903,Bengal Gram(Gram),Choubepur,2017-06-01,8715.0,1.0,37.0,clear
+904,Bengal Gram(Gram),Pukhrayan,2017-06-01,9500.0,1.0,37.0,clear
+905,Arhar (Tur/Red Gram),Choubepur,2017-07-01,5870.0,1.6,31.0,clear
+906,Bengal Gram(Gram),Choubepur,2017-07-01,8700.0,1.5,31.0,clear
+907,Bengal Gram(Gram),Pukhrayan,2017-07-01,9400.0,1.5,31.0,clear
+908,Arhar (Tur/Red Gram),Choubepur,2017-09-01,5865.0,1.4,33.0,clear
+909,Bengal Gram(Gram),Choubepur,2017-09-01,8625.0,1.8,33.0,clear
+910,Bengal Gram(Gram),Pukhrayan,2017-09-01,8650.0,6.5,33.0,clear
+911,Arhar (Tur/Red Gram),Choubepur,2017-10-01,5850.0,1.5,34.6,clear
+912,Arhar (Tur/Red Gram),Kanpur(Grain),2017-10-01,5850.0,75.0,34.6,clear
+913,Bengal Gram(Gram),Choubepur,2017-10-01,8600.0,1.7,34.6,clear
+914,Bengal Gram(Gram),Kanpur(Grain),2017-10-01,8500.0,70.0,34.6,clear
+915,Bengal Gram(Gram),Pukhrayan,2017-10-01,9400.0,1.5,34.6,clear
+916,Arhar (Tur/Red Gram),Choubepur,2017-11-01,5825.0,2.0,30.0,clear
+917,Arhar (Tur/Red Gram),Kanpur(Grain),2017-11-01,5860.0,55.0,30.0,clear
+918,Bengal Gram(Gram),Choubepur,2017-11-01,8575.0,1.5,30.0,clear
+919,Bengal Gram(Gram),Kanpur(Grain),2017-11-01,8450.0,75.0,30.0,clear
+920,Bengal Gram(Gram),Pukhrayan,2017-11-01,9400.0,1.0,30.0,clear
+921,Arhar (Tur/Red Gram),Choubepur,2017-12-01,5800.0,2.2,26.0,clear
+922,Arhar (Tur/Red Gram),Kanpur(Grain),2017-12-01,5825.0,65.0,26.0,clear
+923,Bengal Gram(Gram),Choubepur,2017-12-01,8550.0,1.0,26.0,clear
+924,Bengal Gram(Gram),Kanpur(Grain),2017-12-01,8425.0,80.0,26.0,clear
+925,Bengal Gram(Gram),Pukhrayan,2017-12-01,9300.0,1.0,26.0,clear
+926,Arhar (Tur/Red Gram),Choubepur,2017-01-13,5775.0,1.8,16.2,clear
+927,Arhar (Tur/Red Gram),Kanpur(Grain),2017-01-13,5840.0,50.0,16.2,clear
+928,Bengal Gram(Gram),Choubepur,2017-01-13,8525.0,1.3,16.2,clear
+929,Bengal Gram(Gram),Kanpur(Grain),2017-01-13,8500.0,60.0,16.2,clear
+930,Arhar (Tur/Red Gram),Choubepur,2017-01-14,5770.0,1.7,18.2,clear
+931,Arhar (Tur/Red Gram),Kanpur(Grain),2017-01-14,5850.0,60.0,18.2,clear
+932,Bengal Gram(Gram),Choubepur,2017-01-14,8510.0,1.2,18.2,clear
+933,Bengal Gram(Gram),Kanpur(Grain),2017-01-14,8525.0,55.0,18.2,clear
+934,Bengal Gram(Gram),Pukhrayan,2017-01-14,9000.0,2.0,18.2,clear
+935,Arhar (Tur/Red Gram),Choubepur,2017-01-16,5750.0,1.5,22.6,clear
+936,Arhar (Tur/Red Gram),Kanpur(Grain),2017-01-16,5875.0,45.0,22.6,clear
+937,Bengal Gram(Gram),Choubepur,2017-01-16,8500.0,1.5,22.6,clear
+938,Bengal Gram(Gram),Kanpur(Grain),2017-01-16,8550.0,50.0,22.6,clear
+939,Arhar (Tur/Red Gram),Choubepur,2017-01-17,5725.0,2.0,16.6,clear
+940,Arhar (Tur/Red Gram),Kanpur(Grain),2017-01-17,5865.0,55.0,16.6,clear
+941,Bengal Gram(Gram),Choubepur,2017-01-17,8475.0,1.0,16.6,clear
+942,Bengal Gram(Gram),Kanpur(Grain),2017-01-17,8575.0,40.0,16.6,clear
+943,Bengal Gram(Gram),Pukhrayan,2017-01-17,8600.0,2.0,16.6,clear
+944,Arhar (Tur/Red Gram),Choubepur,2017-01-18,5720.0,2.5,17.0,clear
+945,Arhar (Tur/Red Gram),Kanpur(Grain),2017-01-18,5870.0,65.0,17.0,clear
+946,Bengal Gram(Gram),Choubepur,2017-01-18,8450.0,1.5,17.0,clear
+947,Bengal Gram(Gram),Kanpur(Grain),2017-01-18,8565.0,65.0,17.0,clear
+948,Bengal Gram(Gram),Pukhrayan,2017-01-18,8700.0,1.0,17.0,clear
+949,Arhar (Tur/Red Gram),Choubepur,2017-01-19,5715.0,1.8,20.2,clear
+950,Arhar (Tur/Red Gram),Kanpur(Grain),2017-01-19,5800.0,70.0,20.2,clear
+951,Bengal Gram(Gram),Choubepur,2017-01-19,8425.0,1.6,20.2,clear
+952,Bengal Gram(Gram),Kanpur(Grain),2017-01-19,8450.0,75.0,20.2,clear
+953,Bengal Gram(Gram),Pukhrayan,2017-01-19,8500.0,1.5,20.2,clear
+954,Arhar (Tur/Red Gram),Choubepur,2017-01-20,5700.0,1.7,19.0,clear
+955,Arhar (Tur/Red Gram),Kanpur(Grain),2017-01-20,5825.0,55.0,19.0,clear
+956,Bengal Gram(Gram),Choubepur,2017-01-20,8420.0,1.4,19.0,clear
+957,Bengal Gram(Gram),Kanpur(Grain),2017-01-20,8465.0,60.0,19.0,clear
+958,Arhar (Tur/Red Gram),Choubepur,2017-01-21,5725.0,1.5,19.4,clear
+959,Arhar (Tur/Red Gram),Kanpur(Grain),2017-01-21,5775.0,60.0,19.4,clear
+960,Bengal Gram(Gram),Choubepur,2017-01-21,8410.0,1.5,19.4,clear
+961,Bengal Gram(Gram),Kanpur(Grain),2017-01-21,8400.0,65.0,19.4,clear
+962,Arhar (Tur/Red Gram),Choubepur,2017-01-23,5720.0,1.7,23.0,clear
+963,Arhar (Tur/Red Gram),Kanpur(Grain),2017-01-23,5750.0,75.0,23.0,clear
+964,Bengal Gram(Gram),Choubepur,2017-01-23,8425.0,2.0,23.0,clear
+965,Bengal Gram(Gram),Kanpur(Grain),2017-01-23,8450.0,55.0,23.0,clear
+966,Arhar (Tur/Red Gram),Choubepur,2017-01-24,5710.0,1.3,23.8,clear
+967,Arhar (Tur/Red Gram),Kanpur(Grain),2017-01-24,5725.0,60.0,23.8,clear
+968,Bengal Gram(Gram),Choubepur,2017-01-24,8415.0,1.7,23.8,clear
+969,Bengal Gram(Gram),Kanpur(Grain),2017-01-24,8425.0,60.0,23.8,clear
+970,Bengal Gram(Gram),Pukhrayan,2017-01-24,8600.0,1.0,23.8,clear
+971,Arhar (Tur/Red Gram),Choubepur,2017-01-25,5715.0,1.6,24.4,clear
+972,Arhar (Tur/Red Gram),Kanpur(Grain),2017-01-25,5700.0,70.0,24.4,clear
+973,Bengal Gram(Gram),Choubepur,2017-01-25,8420.0,1.8,24.4,clear
+974,Bengal Gram(Gram),Kanpur(Grain),2017-01-25,8400.0,50.0,24.4,clear
+975,Bengal Gram(Gram),Pukhrayan,2017-01-25,8500.0,1.5,24.4,clear
+976,Arhar (Tur/Red Gram),Choubepur,2017-01-27,5640.0,1.4,19.0,clear
+977,Arhar (Tur/Red Gram),Kanpur(Grain),2017-01-27,5750.0,50.0,19.0,clear
+978,Bengal Gram(Gram),Choubepur,2017-01-27,8340.0,2.0,19.0,clear
+979,Bengal Gram(Gram),Kanpur(Grain),2017-01-27,8430.0,55.0,19.0,clear
+980,Bengal Gram(Gram),Pukhrayan,2017-01-27,8500.0,1.0,19.0,clear
+981,Bengal Gram(Gram),Rura,2017-01-27,8600.0,2.0,19.0,clear
+982,Arhar (Tur/Red Gram),Choubepur,2017-01-28,5625.0,1.5,19.4,clear
+983,Arhar (Tur/Red Gram),Kanpur(Grain),2017-01-28,5725.0,55.0,19.4,clear
+984,Bengal Gram(Gram),Choubepur,2017-01-28,8300.0,1.5,19.4,clear
+985,Bengal Gram(Gram),Kanpur(Grain),2017-01-28,8410.0,60.0,19.4,clear
+986,Bengal Gram(Gram),Pukhrayan,2017-01-28,8400.0,1.5,19.4,clear
+987,Arhar (Tur/Red Gram),Choubepur,2017-01-30,5610.0,1.0,19.4,clear
+988,Arhar (Tur/Red Gram),Kanpur(Grain),2017-01-30,5700.0,60.0,19.4,clear
+989,Bengal Gram(Gram),Choubepur,2017-01-30,8280.0,1.7,19.4,clear
+990,Bengal Gram(Gram),Kanpur(Grain),2017-01-30,8425.0,50.0,19.4,clear
+991,Arhar (Tur/Red Gram),Choubepur,2017-01-31,5600.0,2.0,20.6,clear
+992,Arhar (Tur/Red Gram),Kanpur(Grain),2017-01-31,5685.0,70.0,20.6,clear
+993,Bengal Gram(Gram),Choubepur,2017-01-31,8275.0,1.8,20.6,clear
+994,Bengal Gram(Gram),Kanpur(Grain),2017-01-31,8400.0,75.0,20.6,clear
+995,Bengal Gram(Gram),Pukhrayan,2017-01-31,8400.0,1.0,20.6,clear
+996,Arhar (Tur/Red Gram),Choubepur,2017-01-04,4925.0,1.5,20.0,clear
+997,Arhar (Tur/Red Gram),Kanpur(Grain),2017-01-04,4325.0,75.0,20.0,clear
+998,Bengal Gram(Gram),Choubepur,2017-01-04,5500.0,2.0,20.0,clear
+999,Bengal Gram(Gram),Kanpur(Grain),2017-01-04,5620.0,70.0,20.0,clear
+1000,Bengal Gram(Gram),Pukhrayan,2017-01-04,6700.0,1.0,20.0,clear
+1001,Arhar (Tur/Red Gram),Choubepur,2017-03-04,4875.0,2.0,27.2,clear
+1002,Arhar (Tur/Red Gram),Kanpur(Grain),2017-03-04,4350.0,70.0,27.2,clear
+1003,Bengal Gram(Gram),Choubepur,2017-03-04,5475.0,2.5,27.2,clear
+1004,Bengal Gram(Gram),Kanpur(Grain),2017-03-04,5600.0,75.0,27.2,clear
+1005,Arhar (Tur/Red Gram),Choubepur,2017-04-04,4850.0,1.6,32.0,clear
+1006,Arhar (Tur/Red Gram),Kanpur(Grain),2017-04-04,4365.0,85.0,32.0,clear
+1007,Bengal Gram(Gram),Choubepur,2017-04-04,5480.0,1.8,32.0,clear
+1008,Bengal Gram(Gram),Kanpur(Grain),2017-04-04,5650.0,50.0,32.0,clear
+1009,Arhar (Tur/Red Gram),Choubepur,2017-05-04,4825.0,1.4,38.6,clear
+1010,Arhar (Tur/Red Gram),Kanpur(Grain),2017-05-04,4375.0,60.0,38.6,clear
+1011,Bengal Gram(Gram),Choubepur,2017-05-04,5500.0,1.7,38.6,clear
+1012,Bengal Gram(Gram),Kanpur(Grain),2017-05-04,5625.0,80.0,38.6,clear
+1013,Arhar (Tur/Red Gram),Choubepur,2017-06-04,4800.0,1.5,43.6,clear
+1014,Arhar (Tur/Red Gram),Kanpur(Grain),2017-06-04,4400.0,95.0,43.6,clear
+1015,Bengal Gram(Gram),Choubepur,2017-06-04,5525.0,1.2,43.6,clear
+1016,Bengal Gram(Gram),Kanpur(Grain),2017-06-04,5585.0,65.0,43.6,clear
+1017,Arhar (Tur/Red Gram),Choubepur,2017-07-04,4800.0,2.5,25.8,clear
+1018,Arhar (Tur/Red Gram),Kanpur(Grain),2017-07-04,4425.0,85.0,25.8,clear
+1019,Bengal Gram(Gram),Choubepur,2017-07-04,1670.0,1.5,25.8,clear
+1020,Bengal Gram(Gram),Kanpur(Grain),2017-07-04,5600.0,60.0,25.8,clear
+1021,Bengal Gram(Gram),Pukhrayan,2017-07-04,6600.0,2.0,25.8,clear
+1022,Arhar (Tur/Red Gram),Choubepur,2017-08-04,4725.0,1.0,32.0,clear
+1023,Arhar (Tur/Red Gram),Kanpur(Grain),2017-08-04,4400.0,90.0,32.0,clear
+1024,Bengal Gram(Gram),Choubepur,2017-08-04,5525.0,1.0,32.0,clear
+1025,Bengal Gram(Gram),Kanpur(Grain),2017-08-04,5575.0,65.0,32.0,clear
+1026,Bengal Gram(Gram),Pukhrayan,2017-08-04,6700.0,1.0,32.0,clear
+1027,Arhar (Tur/Red Gram),Choubepur,2017-10-04,4750.0,2.0,33.0,clear
+1028,Arhar (Tur/Red Gram),Kanpur(Grain),2017-10-04,4450.0,80.0,33.0,clear
+1029,Bengal Gram(Gram),Choubepur,2017-10-04,5525.0,1.5,33.0,clear
+1030,Bengal Gram(Gram),Kanpur(Grain),2017-10-04,5650.0,85.0,33.0,clear
+1031,Arhar (Tur/Red Gram),Choubepur,2017-11-04,4725.0,1.5,29.4,clear
+1032,Arhar (Tur/Red Gram),Kanpur(Grain),2017-11-04,4475.0,85.0,29.4,clear
+1033,Bengal Gram(Gram),Choubepur,2017-11-04,5540.0,2.0,29.4,clear
+1034,Bengal Gram(Gram),Kanpur(Grain),2017-11-04,5680.0,80.0,29.4,clear
+1035,Bengal Gram(Gram),Pukhrayan,2017-11-04,6700.0,1.0,29.4,clear
+1036,Arhar (Tur/Red Gram),Choubepur,2017-12-04,4700.0,1.8,23.8,clear
+1037,Arhar (Tur/Red Gram),Kanpur(Grain),2017-12-04,4425.0,95.0,23.8,clear
+1038,Bengal Gram(Gram),Choubepur,2017-12-04,5550.0,1.6,23.8,clear
+1039,Bengal Gram(Gram),Kanpur(Grain),2017-12-04,5625.0,90.0,23.8,clear
+1040,Bengal Gram(Gram),Pukhrayan,2017-12-04,6600.0,1.0,23.8,clear
+1041,Arhar (Tur/Red Gram),Choubepur,2017-04-13,4725.0,1.7,38.8,clear
+1042,Arhar (Tur/Red Gram),Kanpur(Grain),2017-04-13,4400.0,115.0,38.8,clear
+1043,Bengal Gram(Gram),Choubepur,2017-04-13,5575.0,1.4,38.8,clear
+1044,Bengal Gram(Gram),Kanpur(Grain),2017-04-13,5675.0,80.0,38.8,clear
+1045,Bengal Gram(Gram),Pukhrayan,2017-04-13,6500.0,1.5,38.8,clear
+1046,Arhar (Tur/Red Gram),Choubepur,2017-04-14,4720.0,2.0,38.2,clear
+1047,Arhar (Tur/Red Gram),Kanpur(Grain),2017-04-14,4550.0,70.0,38.2,clear
+1048,Bengal Gram(Gram),Choubepur,2017-04-14,5580.0,1.5,38.2,clear
+1049,Bengal Gram(Gram),Kanpur(Grain),2017-04-14,5520.0,90.0,38.2,clear
+1050,Bengal Gram(Gram),Pukhrayan,2017-04-14,6300.0,2.5,38.2,clear
+1051,Arhar (Tur/Red Gram),Choubepur,2017-04-15,4700.0,1.5,39.0,clear
+1052,Arhar (Tur/Red Gram),Kanpur(Grain),2017-04-15,4525.0,75.0,39.0,clear
+1053,Bengal Gram(Gram),Choubepur,2017-04-15,5600.0,2.0,39.0,clear
+1054,Bengal Gram(Gram),Kanpur(Grain),2017-04-15,5525.0,115.0,39.0,clear
+1055,Bengal Gram(Gram),Pukhrayan,2017-04-15,6200.0,2.0,39.0,clear
+1056,Arhar (Tur/Red Gram),Choubepur,2017-04-17,4710.0,0.5,37.2,clear
+1057,Arhar (Tur/Red Gram),Kanpur(Grain),2017-04-17,4550.0,70.0,37.2,clear
+1058,Bengal Gram(Gram),Choubepur,2017-04-17,5580.0,1.5,37.2,clear
+1059,Bengal Gram(Gram),Kanpur(Grain),2017-04-17,5525.0,100.0,37.2,clear
+1060,Arhar (Tur/Red Gram),Choubepur,2017-04-18,4720.0,1.4,41.0,clear
+1061,Arhar (Tur/Red Gram),Kanpur(Grain),2017-04-18,4500.0,65.0,41.0,clear
+1062,Bengal Gram(Gram),Choubepur,2017-04-18,5575.0,2.5,41.0,clear
+1063,Bengal Gram(Gram),Kanpur(Grain),2017-04-18,5600.0,90.0,41.0,clear
+1064,Bengal Gram(Gram),Pukhrayan,2017-04-18,6200.0,2.5,41.0,clear
+1065,Arhar (Tur/Red Gram),Choubepur,2017-04-19,4710.0,1.6,41.0,clear
+1066,Arhar (Tur/Red Gram),Kanpur(Grain),2017-04-19,4525.0,60.0,41.0,clear
+1067,Bengal Gram(Gram),Choubepur,2017-04-19,5600.0,2.0,41.0,clear
+1068,Bengal Gram(Gram),Kanpur(Grain),2017-04-19,5625.0,85.0,41.0,clear
+1069,Bengal Gram(Gram),Pukhrayan,2017-04-19,6250.0,2.0,41.0,clear
+1070,Arhar (Tur/Red Gram),Choubepur,2017-04-20,4700.0,2.0,40.4,clear
+1071,Arhar (Tur/Red Gram),Kanpur(Grain),2017-04-20,4600.0,90.0,40.4,clear
+1072,Bengal Gram(Gram),Choubepur,2017-04-20,5625.0,2.4,40.4,clear
+1073,Bengal Gram(Gram),Kanpur(Grain),2017-04-20,5650.0,120.0,40.4,clear
+1074,Bengal Gram(Gram),Pukhrayan,2017-04-20,6100.0,2.5,40.4,clear
+1075,Arhar (Tur/Red Gram),Choubepur,2017-04-21,4675.0,2.5,37.2,clear
+1076,Arhar (Tur/Red Gram),Kanpur(Grain),2017-04-21,4575.0,95.0,37.2,clear
+1077,Bengal Gram(Gram),Choubepur,2017-04-21,5600.0,2.6,37.2,clear
+1078,Bengal Gram(Gram),Kanpur(Grain),2017-04-21,5680.0,110.0,37.2,clear
+1079,Bengal Gram(Gram),Pukhrayan,2017-04-21,6000.0,3.0,37.2,clear
+1080,Arhar (Tur/Red Gram),Choubepur,2017-04-22,4670.0,1.5,38.0,clear
+1081,Arhar (Tur/Red Gram),Kanpur(Grain),2017-04-22,4565.0,120.0,38.0,clear
+1082,Bengal Gram(Gram),Choubepur,2017-04-22,5650.0,1.5,38.0,clear
+1083,Bengal Gram(Gram),Kanpur(Grain),2017-04-22,5640.0,150.0,38.0,clear
+1084,Bengal Gram(Gram),Pukhrayan,2017-04-22,6000.0,2.0,38.0,clear
+1085,Arhar (Tur/Red Gram),Choubepur,2017-04-24,4650.0,2.4,38.0,clear
+1086,Arhar (Tur/Red Gram),Kanpur(Grain),2017-04-24,4550.0,110.0,38.0,clear
+1087,Bengal Gram(Gram),Choubepur,2017-04-24,5675.0,2.4,38.0,clear
+1088,Bengal Gram(Gram),Kanpur(Grain),2017-04-24,5675.0,725.0,38.0,clear
+1089,Arhar (Tur/Red Gram),Choubepur,2017-04-25,4640.0,2.6,38.2,clear
+1090,Arhar (Tur/Red Gram),Kanpur(Grain),2017-04-25,4525.0,100.0,38.2,clear
+1091,Bengal Gram(Gram),Choubepur,2017-04-25,5675.0,2.6,38.2,clear
+1092,Bengal Gram(Gram),Kanpur(Grain),2017-04-25,5650.0,135.0,38.2,clear
+1093,Bengal Gram(Gram),Pukhrayan,2017-04-25,5800.0,3.5,38.2,clear
+1094,Arhar (Tur/Red Gram),Choubepur,2017-04-26,4635.0,2.5,37.8,clear
+1095,Arhar (Tur/Red Gram),Kanpur(Grain),2017-04-26,4560.0,85.0,37.8,clear
+1096,Bengal Gram(Gram),Choubepur,2017-04-26,5800.0,2.0,37.8,clear
+1097,Bengal Gram(Gram),Kanpur(Grain),2017-04-26,5600.0,140.0,37.8,clear
+1098,Bengal Gram(Gram),Pukhrayan,2017-04-26,5700.0,4.0,37.8,clear
+1099,Arhar (Tur/Red Gram),Choubepur,2017-04-27,4625.0,2.0,37.4,clear
+1100,Arhar (Tur/Red Gram),Kanpur(Grain),2017-04-27,4575.0,80.0,37.4,clear
+1101,Bengal Gram(Gram),Choubepur,2017-04-27,5685.0,2.5,37.4,clear
+1102,Bengal Gram(Gram),Kanpur(Grain),2017-04-27,5625.0,125.0,37.4,clear
+1103,Bengal Gram(Gram),Pukhrayan,2017-04-27,5600.0,4.0,37.4,clear
+1104,Arhar (Tur/Red Gram),Choubepur,2017-04-28,4625.0,1.5,38.4,clear
+1105,Arhar (Tur/Red Gram),Jhijhank,2017-04-28,4000.0,5.0,38.4,clear
+1106,Bengal Gram(Gram),Choubepur,2017-04-28,5680.0,2.8,38.4,clear
+1107,Bengal Gram(Gram),Pukhrayan,2017-04-28,5800.0,2.5,38.4,clear
+1108,Bengal Gram(Gram),Rura,2017-04-28,5800.0,14.0,38.4,clear
+1109,Arhar (Tur/Red Gram),Choubepur,2017-04-29,4640.0,2.5,39.2,clear
+1110,Arhar (Tur/Red Gram),Kanpur(Grain),2017-04-29,4550.0,85.0,39.2,clear
+1111,Bengal Gram(Gram),Choubepur,2017-04-29,5675.0,2.7,39.2,clear
+1112,Bengal Gram(Gram),Kanpur(Grain),2017-04-29,5625.0,100.0,39.2,clear
+1113,Bengal Gram(Gram),Pukhrayan,2017-04-29,5700.0,3.0,39.2,clear
+1114,Bengal Gram(Gram),Rura,2017-04-29,5950.0,37.0,39.2,clear
+1115,Arhar (Tur/Red Gram),Choubepur,2017-01-05,4650.0,1.5,19.6,clear
+1116,Arhar (Tur/Red Gram),Kanpur(Grain),2017-01-05,4575.0,90.0,19.6,clear
+1117,Bengal Gram(Gram),Choubepur,2017-01-05,5650.0,2.0,19.6,clear
+1118,Bengal Gram(Gram),Kanpur(Grain),2017-01-05,5675.0,85.0,19.6,clear
+1119,Arhar (Tur/Red Gram),Choubepur,2017-02-05,4660.0,2.2,24.8,clear
+1120,Arhar (Tur/Red Gram),Kanpur(Grain),2017-02-05,4600.0,80.0,24.8,clear
+1121,Bengal Gram(Gram),Choubepur,2017-02-05,5660.0,1.0,24.8,clear
+1122,Bengal Gram(Gram),Kanpur(Grain),2017-02-05,5675.0,110.0,24.8,clear
+1123,Bengal Gram(Gram),Pukhrayan,2017-02-05,5700.0,2.5,24.8,clear
+1124,Arhar (Tur/Red Gram),Choubepur,2017-03-05,4670.0,2.8,25.4,clear
+1125,Arhar (Tur/Red Gram),Kanpur(Grain),2017-03-05,4775.0,85.0,25.4,clear
+1126,Bengal Gram(Gram),Choubepur,2017-03-05,5665.0,1.2,25.4,clear
+1127,Bengal Gram(Gram),Kanpur(Grain),2017-03-05,3450.0,125.0,25.4,clear
+1128,Bengal Gram(Gram),Pukhrayan,2017-03-05,5800.0,2.0,25.4,clear
+1129,Arhar (Tur/Red Gram),Choubepur,2017-04-05,4655.0,2.0,35.4,clear
+1130,Arhar (Tur/Red Gram),Kanpur(Grain),2017-04-05,4550.0,90.0,35.4,clear
+1131,Bengal Gram(Gram),Choubepur,2017-04-05,5670.0,1.3,35.4,clear
+1132,Bengal Gram(Gram),Kanpur(Grain),2017-04-05,5425.0,115.0,35.4,clear
+1133,Bengal Gram(Gram),Pukhrayan,2017-04-05,5600.0,3.5,35.4,clear
+1134,Arhar (Tur/Red Gram),Choubepur,2017-05-05,4650.0,2.5,39.4,clear
+1135,Arhar (Tur/Red Gram),Kanpur(Grain),2017-05-05,4500.0,95.0,39.4,clear
+1136,Bengal Gram(Gram),Choubepur,2017-05-05,5675.0,2.0,39.4,clear
+1137,Bengal Gram(Gram),Kanpur(Grain),2017-05-05,5400.0,120.0,39.4,clear
+1138,Bengal Gram(Gram),Pukhrayan,2017-05-05,5700.0,2.5,39.4,clear
+1139,Arhar (Tur/Red Gram),Choubepur,2017-06-05,4640.0,1.5,42.6,clear
+1140,Arhar (Tur/Red Gram),Kanpur(Grain),2017-06-05,4400.0,115.0,42.6,clear
+1141,Bengal Gram(Gram),Choubepur,2017-06-05,5650.0,2.5,42.6,clear
+1142,Bengal Gram(Gram),Kanpur(Grain),2017-06-05,5380.0,80.0,42.6,clear
+1143,Bengal Gram(Gram),Pukhrayan,2017-06-05,5600.0,5.0,42.6,clear
+1144,Arhar (Tur/Red Gram),Choubepur,2017-08-05,4680.0,2.2,34.2,clear
+1145,Arhar (Tur/Red Gram),Kanpur(Grain),2017-08-05,4350.0,115.0,34.2,clear
+1146,Bengal Gram(Gram),Choubepur,2017-08-05,5625.0,1.6,34.2,clear
+1147,Bengal Gram(Gram),Pukhrayan,2017-08-05,5800.0,2.0,34.2,clear
+1148,Arhar (Tur/Red Gram),Choubepur,2017-09-05,4680.0,2.3,33.6,clear
+1149,Arhar (Tur/Red Gram),Kanpur(Grain),2017-09-05,4180.0,85.0,33.6,clear
+1150,Bengal Gram(Gram),Choubepur,2017-09-05,5650.0,2.4,33.6,clear
+1151,Bengal Gram(Gram),Kanpur(Grain),2017-09-05,5375.0,85.0,33.6,clear
+1152,Bengal Gram(Gram),Pukhrayan,2017-09-05,5700.0,2.5,33.6,clear
+1153,Arhar (Tur/Red Gram),Choubepur,2017-10-05,4675.0,2.0,34.0,clear
+1154,Bengal Gram(Gram),Choubepur,2017-10-05,5660.0,1.5,34.0,clear
+1155,Arhar (Tur/Red Gram),Choubepur,2017-11-05,4680.0,1.5,30.0,clear
+1156,Arhar (Tur/Red Gram),Kanpur(Grain),2017-11-05,4100.0,100.0,30.0,clear
+1157,Bengal Gram(Gram),Choubepur,2017-11-05,5675.0,2.0,30.0,clear
+1158,Bengal Gram(Gram),Kanpur(Grain),2017-11-05,5320.0,90.0,30.0,clear
+1159,Arhar (Tur/Red Gram),Choubepur,2017-05-13,4700.0,2.0,40.6,clear
+1160,Arhar (Tur/Red Gram),Kanpur(Grain),2017-05-13,4000.0,90.0,40.6,clear
+1161,Bengal Gram(Gram),Choubepur,2017-05-13,5675.0,1.5,40.6,clear
+1162,Bengal Gram(Gram),Kanpur(Grain),2017-05-13,5325.0,95.0,40.6,clear
+1163,Bengal Gram(Gram),Pukhrayan,2017-05-13,5650.0,3.0,40.6,clear
+1164,Arhar (Tur/Red Gram),Choubepur,2017-05-15,4725.0,2.5,40.8,clear
+1165,Arhar (Tur/Red Gram),Kanpur(Grain),2017-05-15,4050.0,80.0,40.8,clear
+1166,Bengal Gram(Gram),Choubepur,2017-05-15,5650.0,2.8,40.8,clear
+1167,Bengal Gram(Gram),Kanpur(Grain),2017-05-15,5325.0,80.0,40.8,clear
+1168,Arhar (Tur/Red Gram),Choubepur,2017-05-16,4720.0,2.4,42.2,clear
+1169,Arhar (Tur/Red Gram),Kanpur(Grain),2017-05-16,4100.0,125.0,42.2,clear
+1170,Bengal Gram(Gram),Choubepur,2017-05-16,5675.0,2.7,42.2,clear
+1171,Bengal Gram(Gram),Kanpur(Grain),2017-05-16,5350.0,120.0,42.2,clear
+1172,Bengal Gram(Gram),Pukhrayan,2017-05-16,5800.0,1.5,42.2,clear
+1173,Arhar (Tur/Red Gram),Choubepur,2017-05-17,4725.0,2.6,33.6,clear
+1174,Arhar (Tur/Red Gram),Kanpur(Grain),2017-05-17,4125.0,110.0,33.6,clear
+1175,Bengal Gram(Gram),Choubepur,2017-05-17,5680.0,2.6,33.6,clear
+1176,Bengal Gram(Gram),Kanpur(Grain),2017-05-17,5300.0,135.0,33.6,clear
+1177,Bengal Gram(Gram),Pukhrayan,2017-05-17,5600.0,2.5,33.6,clear
+1178,Arhar (Tur/Red Gram),Choubepur,2017-05-18,4730.0,3.0,38.6,clear
+1179,Bengal Gram(Gram),Choubepur,2017-05-18,5685.0,2.4,38.6,clear
+1180,Bengal Gram(Gram),Pukhrayan,2017-05-18,5500.0,3.0,38.6,clear
+1181,Arhar (Tur/Red Gram),Choubepur,2017-05-19,4725.0,3.5,38.6,clear
+1182,Arhar (Tur/Red Gram),Kanpur(Grain),2017-05-19,3900.0,120.0,38.6,clear
+1183,Bengal Gram(Gram),Choubepur,2017-05-19,5680.0,2.5,38.6,clear
+1184,Bengal Gram(Gram),Kanpur(Grain),2017-05-19,5400.0,125.0,38.6,clear
+1185,Bengal Gram(Gram),Pukhrayan,2017-05-19,5500.0,4.0,38.6,clear
+1186,Arhar (Tur/Red Gram),Choubepur,2017-05-20,4720.0,2.5,39.6,clear
+1187,Arhar (Tur/Red Gram),Kanpur(Grain),2017-05-20,3950.0,85.0,39.6,clear
+1188,Bengal Gram(Gram),Choubepur,2017-05-20,5675.0,2.0,39.6,clear
+1189,Bengal Gram(Gram),Kanpur(Grain),2017-05-20,5430.0,115.0,39.6,clear
+1190,Bengal Gram(Gram),Pukhrayan,2017-05-20,5400.0,5.0,39.6,clear
+1191,Arhar (Tur/Red Gram),Choubepur,2017-05-22,4700.0,3.0,37.6,clear
+1192,Arhar (Tur/Red Gram),Kanpur(Grain),2017-05-22,3975.0,90.0,37.6,clear
+1193,Bengal Gram(Gram),Choubepur,2017-05-22,5650.0,2.8,37.6,clear
+1194,Bengal Gram(Gram),Kanpur(Grain),2017-05-22,5410.0,95.0,37.6,clear
+1195,Arhar (Tur/Red Gram),Choubepur,2017-05-23,4710.0,2.0,38.6,clear
+1196,Arhar (Tur/Red Gram),Kanpur(Grain),2017-05-23,4000.0,120.0,38.6,clear
+1197,Bengal Gram(Gram),Choubepur,2017-05-23,5680.0,2.7,38.6,clear
+1198,Bengal Gram(Gram),Kanpur(Grain),2017-05-23,5400.0,120.0,38.6,clear
+1199,Bengal Gram(Gram),Pukhrayan,2017-05-23,5400.0,3.5,38.6,clear
+1200,Arhar (Tur/Red Gram),Choubepur,2017-05-24,4725.0,2.8,40.0,clear
+1201,Arhar (Tur/Red Gram),Kanpur(Grain),2017-05-24,4100.0,150.0,40.0,clear
+1202,Bengal Gram(Gram),Choubepur,2017-05-24,5700.0,2.5,40.0,clear
+1203,Bengal Gram(Gram),Kanpur(Grain),2017-05-24,5450.0,100.0,40.0,clear
+1204,Bengal Gram(Gram),Pukhrayan,2017-05-24,5300.0,4.0,40.0,clear
+1205,Arhar (Tur/Red Gram),Choubepur,2017-05-25,4700.0,2.5,41.6,clear
+1206,Arhar (Tur/Red Gram),Kanpur(Grain),2017-05-25,4075.0,140.0,41.6,clear
+1207,Bengal Gram(Gram),Choubepur,2017-05-25,5725.0,2.0,41.6,clear
+1208,Bengal Gram(Gram),Kanpur(Grain),2017-05-25,5450.0,85.0,41.6,clear
+1209,Bengal Gram(Gram),Pukhrayan,2017-05-25,5400.0,2.5,41.6,clear
+1210,Arhar (Tur/Red Gram),Choubepur,2017-05-26,4710.0,2.7,42.2,clear
+1211,Arhar (Tur/Red Gram),Kanpur(Grain),2017-05-26,4000.0,125.0,42.2,clear
+1212,Bengal Gram(Gram),Choubepur,2017-05-26,5745.0,3.0,42.2,clear
+1213,Bengal Gram(Gram),Kanpur(Grain),2017-05-26,5475.0,80.0,42.2,clear
+1214,Bengal Gram(Gram),Pukhrayan,2017-05-26,5400.0,3.0,42.2,clear
+1215,Arhar (Tur/Red Gram),Choubepur,2017-05-27,4725.0,2.0,36.4,clear
+1216,Arhar (Tur/Red Gram),Kanpur(Grain),2017-05-27,4050.0,110.0,36.4,clear
+1217,Bengal Gram(Gram),Choubepur,2017-05-27,5750.0,3.5,36.4,clear
+1218,Bengal Gram(Gram),Kanpur(Grain),2017-05-27,5500.0,70.0,36.4,clear
+1219,Bengal Gram(Gram),Pukhrayan,2017-05-27,5500.0,2.0,36.4,clear
+1220,Arhar (Tur/Red Gram),Choubepur,2017-05-29,4720.0,3.0,33.4,clear
+1221,Arhar (Tur/Red Gram),Kanpur(Grain),2017-05-29,4100.0,95.0,33.4,clear
+1222,Bengal Gram(Gram),Choubepur,2017-05-29,5775.0,2.5,33.4,clear
+1223,Bengal Gram(Gram),Kanpur(Grain),2017-05-29,5530.0,65.0,33.4,clear
+1224,Arhar (Tur/Red Gram),Choubepur,2017-05-30,4710.0,2.7,28.6,clear
+1225,Arhar (Tur/Red Gram),Kanpur(Grain),2017-05-30,4200.0,120.0,28.6,clear
+1226,Bengal Gram(Gram),Choubepur,2017-05-30,5780.0,2.8,28.6,clear
+1227,Bengal Gram(Gram),Kanpur(Grain),2017-05-30,5565.0,85.0,28.6,clear
+1228,Bengal Gram(Gram),Pukhrayan,2017-05-30,5500.0,2.0,28.6,clear
+1229,Arhar (Tur/Red Gram),Choubepur,2017-05-31,4700.0,2.8,36.2,clear
+1230,Arhar (Tur/Red Gram),Kanpur(Grain),2017-05-31,4300.0,110.0,36.2,clear
+1231,Bengal Gram(Gram),Choubepur,2017-05-31,5800.0,2.7,36.2,clear
+1232,Bengal Gram(Gram),Kanpur(Grain),2017-05-31,5580.0,90.0,36.2,clear
+1233,Bengal Gram(Gram),Pukhrayan,2017-05-31,5450.0,4.5,36.2,clear
+1234,Bengal Gram(Gram),Rura,2017-05-31,5400.0,15.0,36.2,clear
+1235,Arhar (Tur/Red Gram),Choubepur,2017-01-06,4720.0,2.5,18.2,clear
+1236,Arhar (Tur/Red Gram),Kanpur(Grain),2017-01-06,4400.0,130.0,18.2,clear
+1237,Bengal Gram(Gram),Choubepur,2017-01-06,5825.0,3.5,18.2,clear
+1238,Bengal Gram(Gram),Kanpur(Grain),2017-01-06,5650.0,110.0,18.2,clear
+1239,Bengal Gram(Gram),Pukhrayan,2017-01-06,5400.0,2.5,18.2,clear
+1240,Arhar (Tur/Red Gram),Choubepur,2017-02-06,4725.0,2.0,16.2,clear
+1241,Arhar (Tur/Red Gram),Kanpur(Grain),2017-02-06,4450.0,115.0,16.2,clear
+1242,Bengal Gram(Gram),Choubepur,2017-02-06,5840.0,2.5,16.2,clear
+1243,Bengal Gram(Gram),Kanpur(Grain),2017-02-06,5675.0,90.0,16.2,clear
+1244,Bengal Gram(Gram),Pukhrayan,2017-02-06,5300.0,3.0,16.2,clear
+1245,Arhar (Tur/Red Gram),Choubepur,2017-03-06,4720.0,1.5,26.8,clear
+1246,Arhar (Tur/Red Gram),Kanpur(Grain),2017-03-06,4500.0,95.0,26.8,clear
+1247,Bengal Gram(Gram),Choubepur,2017-03-06,5850.0,3.0,26.8,clear
+1248,Bengal Gram(Gram),Kanpur(Grain),2017-03-06,5700.0,80.0,26.8,clear
+1249,Bengal Gram(Gram),Pukhrayan,2017-03-06,5400.0,2.0,26.8,clear
+1250,Arhar (Tur/Red Gram),Choubepur,2017-05-06,6325.0,5.5,42.0,clear
+1251,Arhar (Tur/Red Gram),Kanpur(Grain),2017-05-06,4550.0,85.0,42.0,clear
+1252,Bengal Gram(Gram),Choubepur,2017-05-06,5860.0,3.5,42.0,clear
+1253,Bengal Gram(Gram),Kanpur(Grain),2017-05-06,5650.0,120.0,42.0,clear
+1254,Bengal Gram(Gram),Pukhrayan,2017-05-06,5300.0,2.5,42.0,clear
+1255,Arhar (Tur/Red Gram),Choubepur,2017-06-06,4725.0,2.2,36.0,clear
+1256,Arhar (Tur/Red Gram),Kanpur(Grain),2017-06-06,4575.0,80.0,36.0,clear
+1257,Bengal Gram(Gram),Choubepur,2017-06-06,5865.0,4.0,36.0,clear
+1258,Bengal Gram(Gram),Kanpur(Grain),2017-06-06,5675.0,115.0,36.0,clear
+1259,Bengal Gram(Gram),Pukhrayan,2017-06-06,5300.0,3.0,36.0,clear
+1260,Arhar (Tur/Red Gram),Choubepur,2017-07-06,4735.0,2.8,25.4,clear
+1261,Arhar (Tur/Red Gram),Kanpur(Grain),2017-07-06,4600.0,75.0,25.4,clear
+1262,Arhar (Tur/Red Gram),Varipaal,2017-07-06,4625.0,0.2,25.4,clear
+1263,Bengal Gram(Gram),Choubepur,2017-07-06,5870.0,3.2,25.4,clear
+1264,Bengal Gram(Gram),Kanpur(Grain),2017-07-06,5660.0,105.0,25.4,clear
+1265,Bengal Gram(Gram),Pukhrayan,2017-07-06,5200.0,4.0,25.4,clear
+1266,Green Gram (Moong),Varipaal,2017-07-06,4800.0,0.3,25.4,clear
+1267,Arhar (Tur/Red Gram),Choubepur,2017-08-06,4740.0,2.0,29.6,clear
+1268,Arhar (Tur/Red Gram),Kanpur(Grain),2017-08-06,4625.0,90.0,29.6,clear
+1269,Bengal Gram(Gram),Choubepur,2017-08-06,5875.0,2.8,29.6,clear
+1270,Bengal Gram(Gram),Kanpur(Grain),2017-08-06,5600.0,95.0,29.6,clear
+1271,Bengal Gram(Gram),Pukhrayan,2017-08-06,5300.0,2.5,29.6,clear
+1272,Arhar (Tur/Red Gram),Choubepur,2017-09-06,4750.0,2.5,34.0,clear
+1273,Arhar (Tur/Red Gram),Kanpur(Grain),2017-09-06,4615.0,105.0,34.0,clear
+1274,Bengal Gram(Gram),Choubepur,2017-09-06,5880.0,3.5,34.0,clear
+1275,Bengal Gram(Gram),Kanpur(Grain),2017-09-06,5625.0,120.0,34.0,clear
+1276,Bengal Gram(Gram),Pukhrayan,2017-09-06,5400.0,2.0,34.0,clear
+1277,Arhar (Tur/Red Gram),Choubepur,2017-10-06,4740.0,2.0,35.0,clear
+1278,Arhar (Tur/Red Gram),Kanpur(Grain),2017-10-06,4600.0,85.0,35.0,clear
+1279,Bengal Gram(Gram),Choubepur,2017-10-06,5870.0,3.0,35.0,clear
+1280,Bengal Gram(Gram),Kanpur(Grain),2017-10-06,5650.0,95.0,35.0,clear
+1281,Bengal Gram(Gram),Pukhrayan,2017-10-06,5500.0,1.0,35.0,clear
+1282,Arhar (Tur/Red Gram),Choubepur,2017-12-06,4725.0,3.5,23.2,clear
+1283,Arhar (Tur/Red Gram),Kanpur(Grain),2017-12-06,4625.0,75.0,23.2,clear
+1284,Arhar (Tur/Red Gram),Varipaal,2017-12-06,5000.0,0.2,23.2,clear
+1285,Bengal Gram(Gram),Choubepur,2017-12-06,5875.0,2.5,23.2,clear
+1286,Bengal Gram(Gram),Kanpur(Grain),2017-12-06,5650.0,110.0,23.2,clear
+1287,Arhar (Tur/Red Gram),Choubepur,2017-06-13,4720.0,2.5,41.0,clear
+1288,Arhar (Tur/Red Gram),Kanpur(Grain),2017-06-13,4650.0,65.0,41.0,clear
+1289,Bengal Gram(Gram),Choubepur,2017-06-13,5880.0,3.0,41.0,clear
+1290,Bengal Gram(Gram),Kanpur(Grain),2017-06-13,5700.0,90.0,41.0,clear
+1291,Bengal Gram(Gram),Pukhrayan,2017-06-13,5400.0,1.0,41.0,clear
+1292,Arhar (Tur/Red Gram),Choubepur,2017-06-14,4725.0,3.0,43.0,clear
+1293,Arhar (Tur/Red Gram),Kanpur(Grain),2017-06-14,4600.0,70.0,43.0,clear
+1294,Bengal Gram(Gram),Choubepur,2017-06-14,5885.0,3.5,43.0,clear
+1295,Bengal Gram(Gram),Kanpur(Grain),2017-06-14,5680.0,120.0,43.0,clear
+1296,Bengal Gram(Gram),Pukhrayan,2017-06-14,5300.0,2.0,43.0,clear
+1297,Bengal Gram(Gram),Varipaal,2017-06-14,5500.0,0.1,43.0,clear
+1298,Green Gram (Moong),Varipaal,2017-06-14,3400.0,0.5,43.0,clear
+1299,Arhar (Tur/Red Gram),Choubepur,2017-06-15,4750.0,2.6,40.0,clear
+1300,Arhar (Tur/Red Gram),Kanpur(Grain),2017-06-15,4580.0,80.0,40.0,clear
+1301,Bengal Gram(Gram),Choubepur,2017-06-15,5900.0,2.6,40.0,clear
+1302,Bengal Gram(Gram),Kanpur(Grain),2017-06-15,5600.0,135.0,40.0,clear
+1303,Bengal Gram(Gram),Pukhrayan,2017-06-15,5300.0,1.5,40.0,clear
+1304,Arhar (Tur/Red Gram),Choubepur,2017-06-16,4775.0,3.4,35.0,clear
+1305,Arhar (Tur/Red Gram),Kanpur(Grain),2017-06-16,4550.0,85.0,35.0,clear
+1306,Bengal Gram(Gram),Choubepur,2017-06-16,5925.0,2.4,35.0,clear
+1307,Bengal Gram(Gram),Kanpur(Grain),2017-06-16,5650.0,115.0,35.0,clear
+1308,Bengal Gram(Gram),Pukhrayan,2017-06-16,5300.0,1.0,35.0,clear
+1309,Green Gram (Moong),Varipaal,2017-06-16,4000.0,0.1,35.0,clear
+1310,Arhar (Tur/Red Gram),Choubepur,2017-06-17,4760.0,2.5,36.0,clear
+1311,Arhar (Tur/Red Gram),Kanpur(Grain),2017-06-17,4500.0,95.0,36.0,clear
+1312,Bengal Gram(Gram),Choubepur,2017-06-17,5950.0,3.5,36.0,clear
+1313,Bengal Gram(Gram),Kanpur(Grain),2017-06-17,5675.0,100.0,36.0,clear
+1314,Bengal Gram(Gram),Pukhrayan,2017-06-17,5200.0,2.0,36.0,clear
+1315,Green Gram (Moong),Rura,2017-06-17,4000.0,10.0,36.0,clear
+1316,Arhar (Tur/Red Gram),Choubepur,2017-06-19,4750.0,3.5,37.0,clear
+1317,Arhar (Tur/Red Gram),Kanpur(Grain),2017-06-19,4300.0,120.0,37.0,clear
+1318,Bengal Gram(Gram),Choubepur,2017-06-19,5970.0,3.5,37.0,clear
+1319,Bengal Gram(Gram),Kanpur(Grain),2017-06-19,5685.0,85.0,37.0,clear
+1320,Green Gram (Moong),Jhijhank,2017-06-19,4060.0,3.0,37.0,clear
+1321,Green Gram (Moong),Uttaripura,2017-06-19,3700.0,16.0,37.0,clear
+1322,Green Gram (Moong),Varipaal,2017-06-19,4000.0,0.7,37.0,clear
+1323,Arhar (Tur/Red Gram),Choubepur,2017-06-20,4725.0,3.8,34.6,clear
+1324,Arhar (Tur/Red Gram),Kanpur(Grain),2017-06-20,4300.0,100.0,34.6,clear
+1325,Bengal Gram(Gram),Choubepur,2017-06-20,5975.0,2.8,34.6,clear
+1326,Bengal Gram(Gram),Kanpur(Grain),2017-06-20,5665.0,95.0,34.6,clear
+1327,Bengal Gram(Gram),Pukhrayan,2017-06-20,5400.0,1.0,34.6,clear
+1328,Green Gram (Moong),Jhijhank,2017-06-20,4010.0,7.0,34.6,clear
+1329,Arhar (Tur/Red Gram),Choubepur,2017-06-21,4730.0,3.7,30.0,clear
+1330,Arhar (Tur/Red Gram),Kanpur(Grain),2017-06-21,4250.0,90.0,30.0,clear
+1331,Arhar (Tur/Red Gram),Varipaal,2017-06-21,5000.0,0.1,30.0,clear
+1332,Bengal Gram(Gram),Choubepur,2017-06-21,5980.0,2.7,30.0,clear
+1333,Bengal Gram(Gram),Kanpur(Grain),2017-06-21,5700.0,85.0,30.0,clear
+1334,Bengal Gram(Gram),Pukhrayan,2017-06-21,5300.0,2.5,30.0,clear
+1335,Bengal Gram(Gram),Varipaal,2017-06-21,5600.0,0.1,30.0,clear
+1336,Green Gram (Moong),Rura,2017-06-21,4000.0,15.0,30.0,clear
+1337,Green Gram (Moong),Varipaal,2017-06-21,3800.0,1.9,30.0,clear
+1338,Arhar (Tur/Red Gram),Choubepur,2017-06-22,4735.0,2.5,35.8,clear
+1339,Arhar (Tur/Red Gram),Kanpur(Grain),2017-06-22,4200.0,110.0,35.8,clear
+1340,Bengal Gram(Gram),Choubepur,2017-06-22,5985.0,3.0,35.8,clear
+1341,Bengal Gram(Gram),Kanpur(Grain),2017-06-22,5680.0,115.0,35.8,clear
+1342,Bengal Gram(Gram),Pukhrayan,2017-06-22,5350.0,2.0,35.8,clear
+1343,Black Gram (Urd Beans),Rura,2017-06-22,4200.0,1.5,35.8,clear
+1344,Green Gram (Moong),Jhijhank,2017-06-22,4080.0,10.0,35.8,clear
+1345,Green Gram (Moong),Rura,2017-06-22,4000.0,10.0,35.8,clear
+1346,Green Gram (Moong),Varipaal,2017-06-22,4000.0,2.6,35.8,clear
+1347,Arhar (Tur/Red Gram),Choubepur,2017-06-23,4740.0,3.0,33.8,clear
+1348,Arhar (Tur/Red Gram),Kanpur(Grain),2017-06-23,4125.0,95.0,33.8,clear
+1349,Bengal Gram(Gram),Choubepur,2017-06-23,5975.0,3.5,33.8,clear
+1350,Bengal Gram(Gram),Kanpur(Grain),2017-06-23,5650.0,125.0,33.8,clear
+1351,Bengal Gram(Gram),Pukhrayan,2017-06-23,5400.0,1.0,33.8,clear
+1352,Black Gram (Urd Beans),Rura,2017-06-23,4200.0,3.0,33.8,clear
+1353,Arhar (Tur/Red Gram),Choubepur,2017-06-24,4750.0,3.5,36.2,clear
+1354,Arhar (Tur/Red Gram),Kanpur(Grain),2017-06-24,4100.0,90.0,36.2,clear
+1355,Bengal Gram(Gram),Choubepur,2017-06-24,5980.0,3.0,36.2,clear
+1356,Bengal Gram(Gram),Kanpur(Grain),2017-06-24,5600.0,110.0,36.2,clear
+1357,Bengal Gram(Gram),Pukhrayan,2017-06-24,5300.0,1.5,36.2,clear
+1358,Green Gram (Moong),Jhijhank,2017-06-24,4000.0,8.0,36.2,clear
+1359,Arhar (Tur/Red Gram),Choubepur,2017-06-26,4760.0,3.2,38.6,clear
+1360,Arhar (Tur/Red Gram),Kanpur(Grain),2017-06-26,4050.0,95.0,38.6,clear
+1361,Bengal Gram(Gram),Choubepur,2017-06-26,6000.0,3.5,38.6,clear
+1362,Bengal Gram(Gram),Kanpur(Grain),2017-06-26,5625.0,125.0,38.6,clear
+1363,Green Gram (Moong),Uttaripura,2017-06-26,3500.0,15.6,38.6,clear
+1364,Arhar (Tur/Red Gram),Choubepur,2017-06-27,4765.0,3.3,37.6,clear
+1365,Arhar (Tur/Red Gram),Kanpur(Grain),2017-06-27,4125.0,85.0,37.6,clear
+1366,Bengal Gram(Gram),Choubepur,2017-06-27,6015.0,3.7,37.6,clear
+1367,Bengal Gram(Gram),Kanpur(Grain),2017-06-27,5650.0,100.0,37.6,clear
+1368,Bengal Gram(Gram),Pukhrayan,2017-06-27,5400.0,1.0,37.6,clear
+1369,Arhar (Tur/Red Gram),Choubepur,2017-06-28,4775.0,4.0,39.0,clear
+1370,Arhar (Tur/Red Gram),Kanpur(Grain),2017-06-28,4000.0,95.0,39.0,clear
+1371,Arhar (Tur/Red Gram),Varipaal,2017-06-28,5000.0,0.3,39.0,clear
+1372,Bengal Gram(Gram),Choubepur,2017-06-28,6025.0,3.8,39.0,clear
+1373,Bengal Gram(Gram),Kanpur(Grain),2017-06-28,5650.0,95.0,39.0,clear
+1374,Bengal Gram(Gram),Pukhrayan,2017-06-28,5500.0,1.0,39.0,clear
+1375,Green Gram (Moong),Jhijhank,2017-06-28,4085.0,10.0,39.0,clear
+1376,Green Gram (Moong),Rura,2017-06-28,4000.0,5.0,39.0,clear
+1377,Arhar (Tur/Red Gram),Choubepur,2017-06-29,4750.0,3.5,27.6,clear
+1378,Arhar (Tur/Red Gram),Kanpur(Grain),2017-06-29,4150.0,80.0,27.6,clear
+1379,Bengal Gram(Gram),Choubepur,2017-06-29,6020.0,3.5,27.6,clear
+1380,Bengal Gram(Gram),Kanpur(Grain),2017-06-29,5700.0,85.0,27.6,clear
+1381,Bengal Gram(Gram),Pukhrayan,2017-06-29,5300.0,2.0,27.6,clear
+1382,Green Gram (Moong),Jhijhank,2017-06-29,4095.0,5.0,27.6,clear
+1383,Arhar (Tur/Red Gram),Choubepur,2017-06-30,4765.0,2.0,33.0,clear
+1384,Arhar (Tur/Red Gram),Kanpur(Grain),2017-06-30,4160.0,125.0,33.0,clear
+1385,Bengal Gram(Gram),Choubepur,2017-06-30,6025.0,2.0,33.0,clear
+1386,Bengal Gram(Gram),Kanpur(Grain),2017-06-30,5750.0,90.0,33.0,clear
+1387,Bengal Gram(Gram),Pukhrayan,2017-06-30,5300.0,1.5,33.0,clear
+1388,Green Gram (Moong),Rura,2017-06-30,4100.0,5.0,33.0,clear
+1389,Green Gram (Moong),Varipaal,2017-06-30,3800.0,0.8,33.0,clear
+1390,Arhar (Tur/Red Gram),Choubepur,2017-01-07,4765.0,3.5,13.2,clear
+1391,Arhar (Tur/Red Gram),Kanpur(Grain),2017-01-07,4160.0,125.0,13.2,clear
+1392,Bengal Gram(Gram),Choubepur,2017-01-07,6025.0,2.0,13.2,clear
+1393,Bengal Gram(Gram),Kanpur(Grain),2017-01-07,5750.0,90.0,13.2,clear
+1394,Bengal Gram(Gram),Pukhrayan,2017-01-07,5400.0,1.5,13.2,clear
+1395,Green Gram (Moong),Jhijhank,2017-01-07,4090.0,2.0,13.2,clear
+1396,Green Gram (Moong),Rura,2017-01-07,4000.0,5.0,13.2,clear
+1397,Green Gram (Moong),Varipaal,2017-01-07,3800.0,1.0,13.2,clear
+1398,Arhar (Tur/Red Gram),Choubepur,2017-04-07,4780.0,4.5,36.4,clear
+1399,Arhar (Tur/Red Gram),Kanpur(Grain),2017-04-07,4150.0,95.0,36.4,clear
+1400,Bengal Gram(Gram),Choubepur,2017-04-07,6075.0,2.7,36.4,clear
+1401,Bengal Gram(Gram),Kanpur(Grain),2017-04-07,5700.0,95.0,36.4,clear
+1402,Bengal Gram(Gram),Pukhrayan,2017-04-07,5600.0,1.0,36.4,clear
+1403,Green Gram (Moong),Jhijhank,2017-04-07,4095.0,6.0,36.4,clear
+1404,Arhar (Tur/Red Gram),Choubepur,2017-05-07,4750.0,3.5,41.6,clear
+1405,Arhar (Tur/Red Gram),Kanpur(Grain),2017-05-07,4125.0,110.0,41.6,clear
+1406,Bengal Gram(Gram),Choubepur,2017-05-07,5800.0,3.0,41.6,clear
+1407,Bengal Gram(Gram),Kanpur(Grain),2017-05-07,5725.0,850.0,41.6,clear
+1408,Bengal Gram(Gram),Pukhrayan,2017-05-07,5500.0,2.0,41.6,clear
+1409,Black Gram (Urd Beans),Uttaripura,2017-05-07,3500.0,3.1,41.6,clear
+1410,Arhar (Tur/Red Gram),Choubepur,2017-06-07,4725.0,3.8,31.6,clear
+1411,Arhar (Tur/Red Gram),Kanpur(Grain),2017-06-07,4000.0,150.0,31.6,clear
+1412,Bengal Gram(Gram),Choubepur,2017-06-07,5700.0,2.8,31.6,clear
+1413,Bengal Gram(Gram),Kanpur(Grain),2017-06-07,5650.0,120.0,31.6,clear
+1414,Bengal Gram(Gram),Pukhrayan,2017-06-07,5400.0,2.0,31.6,clear
+1415,Green Gram (Moong),Jhijhank,2017-06-07,4100.0,6.0,31.6,clear
+1416,Arhar (Tur/Red Gram),Choubepur,2017-07-07,4700.0,3.7,30.0,clear
+1417,Bengal Gram(Gram),Choubepur,2017-07-07,5675.0,2.7,30.0,clear
+1418,Bengal Gram(Gram),Kanpur(Grain),2017-07-07,5440.0,125.0,30.0,clear
+1419,Bengal Gram(Gram),Pukhrayan,2017-07-07,5400.0,1.5,30.0,clear
+1420,Arhar (Tur/Red Gram),Choubepur,2017-08-07,4720.0,3.5,30.2,clear
+1421,Arhar (Tur/Red Gram),Kanpur(Grain),2017-08-07,3900.0,115.0,30.2,clear
+1422,Bengal Gram(Gram),Choubepur,2017-08-07,5650.0,3.5,30.2,clear
+1423,Bengal Gram(Gram),Kanpur(Grain),2017-08-07,5200.0,135.0,30.2,clear
+1424,Arhar (Tur/Red Gram),Choubepur,2017-10-07,4710.0,2.5,35.0,clear
+1425,Arhar (Tur/Red Gram),Kanpur(Grain),2017-10-07,3750.0,950.0,35.0,clear
+1426,Bengal Gram(Gram),Choubepur,2017-10-07,5625.0,4.0,35.0,clear
+1427,Bengal Gram(Gram),Kanpur(Grain),2017-10-07,5150.0,150.0,35.0,clear
+1428,Green Gram (Moong),Jhijhank,2017-10-07,4900.0,6.0,35.0,clear
+1429,Green Gram (Moong),Rura,2017-10-07,3700.0,19.0,35.0,clear
+1430,Arhar (Tur/Red Gram),Choubepur,2017-11-07,4700.0,2.2,28.2,clear
+1431,Arhar (Tur/Red Gram),Kanpur(Grain),2017-11-07,3725.0,90.0,28.2,clear
+1432,Bengal Gram(Gram),Choubepur,2017-11-07,5650.0,2.8,28.2,clear
+1433,Bengal Gram(Gram),Kanpur(Grain),2017-11-07,5175.0,130.0,28.2,clear
+1434,Bengal Gram(Gram),Pukhrayan,2017-11-07,5400.0,1.0,28.2,clear
+1435,Green Gram (Moong),Rura,2017-11-07,3700.0,9.0,28.2,clear
+1436,Arhar (Tur/Red Gram),Choubepur,2017-12-07,4725.0,2.3,18.6,clear
+1437,Arhar (Tur/Red Gram),Kanpur(Grain),2017-12-07,3900.0,85.0,18.6,clear
+1438,Bengal Gram(Gram),Choubepur,2017-12-07,5700.0,2.7,18.6,clear
+1439,Bengal Gram(Gram),Kanpur(Grain),2017-12-07,5200.0,105.0,18.6,clear
+1440,Bengal Gram(Gram),Pukhrayan,2017-12-07,5400.0,1.0,18.6,clear
+1441,Green Gram (Moong),Jhijhank,2017-12-07,4090.0,6.0,18.6,clear
+1442,Green Gram (Moong),Rura,2017-12-07,3700.0,5.0,18.6,clear
+1443,Arhar (Tur/Red Gram),Choubepur,2017-07-13,4720.0,2.0,30.8,clear
+1444,Arhar (Tur/Red Gram),Kanpur(Grain),2017-07-13,3980.0,80.0,30.8,clear
+1445,Bengal Gram(Gram),Choubepur,2017-07-13,5725.0,2.5,30.8,clear
+1446,Bengal Gram(Gram),Kanpur(Grain),2017-07-13,5225.0,95.0,30.8,clear
+1447,Bengal Gram(Gram),Pukhrayan,2017-07-13,5200.0,2.5,30.8,clear
+1448,Green Gram (Moong),Rura,2017-07-13,3700.0,8.0,30.8,clear
+1449,Arhar (Tur/Red Gram),Choubepur,2017-07-14,4725.0,2.5,32.2,clear
+1450,Arhar (Tur/Red Gram),Kanpur(Grain),2017-07-14,4000.0,75.0,32.2,clear
+1451,Bengal Gram(Gram),Choubepur,2017-07-14,5700.0,3.0,32.2,clear
+1452,Bengal Gram(Gram),Kanpur(Grain),2017-07-14,5250.0,80.0,32.2,clear
+1453,Bengal Gram(Gram),Pukhrayan,2017-07-14,5300.0,1.5,32.2,clear
+1454,Black Gram (Urd Beans),Uttaripura,2017-07-14,4800.0,3.0,32.2,clear
+1455,Green Gram (Moong),Jhijhank,2017-07-14,4095.0,3.0,32.2,clear
+1456,Green Gram (Moong),Rura,2017-07-14,3700.0,5.0,32.2,clear
+1457,Green Gram (Moong),Varipaal,2017-07-14,4000.0,0.8,32.2,clear
+1458,Arhar (Tur/Red Gram),Choubepur,2017-07-15,4700.0,3.0,30.2,clear
+1459,Arhar (Tur/Red Gram),Kanpur(Grain),2017-07-15,4200.0,85.0,30.2,clear
+1460,Bengal Gram(Gram),Choubepur,2017-07-15,5725.0,1.5,30.2,clear
+1461,Bengal Gram(Gram),Kanpur(Grain),2017-07-15,5225.0,75.0,30.2,clear
+1462,Green Gram (Moong),Rura,2017-07-15,3700.0,6.0,30.2,clear
+1463,Arhar (Tur/Red Gram),Choubepur,2017-07-17,4720.0,2.2,32.0,clear
+1464,Arhar (Tur/Red Gram),Kanpur(Grain),2017-07-17,4150.0,90.0,32.0,clear
+1465,Bengal Gram(Gram),Choubepur,2017-07-17,5700.0,3.5,32.0,clear
+1466,Bengal Gram(Gram),Kanpur(Grain),2017-07-17,5260.0,70.0,32.0,clear
+1467,Arhar (Tur/Red Gram),Choubepur,2017-07-18,4725.0,2.3,32.6,clear
+1468,Arhar (Tur/Red Gram),Kanpur(Grain),2017-07-18,4175.0,80.0,32.6,clear
+1469,Bengal Gram(Gram),Choubepur,2017-07-18,5720.0,3.2,32.6,clear
+1470,Bengal Gram(Gram),Kanpur(Grain),2017-07-18,5300.0,95.0,32.6,clear
+1471,Bengal Gram(Gram),Pukhrayan,2017-07-18,5200.0,1.5,32.6,clear
+1472,Green Gram (Moong),Rura,2017-07-18,3700.0,36.0,32.6,clear
+1473,Green Gram (Moong),Varipaal,2017-07-18,4000.0,0.3,32.6,clear
+1474,Arhar (Tur/Red Gram),Choubepur,2017-07-19,4700.0,2.7,33.0,clear
+1475,Arhar (Tur/Red Gram),Kanpur(Grain),2017-07-19,4150.0,90.0,33.0,clear
+1476,Bengal Gram(Gram),Choubepur,2017-07-19,5725.0,2.8,33.0,clear
+1477,Bengal Gram(Gram),Kanpur(Grain),2017-07-19,5325.0,110.0,33.0,clear
+1478,Bengal Gram(Gram),Pukhrayan,2017-07-19,5100.0,1.5,33.0,clear
+1479,Green Gram (Moong),Rura,2017-07-19,3700.0,5.0,33.0,clear
+1480,Green Gram (Moong),Varipaal,2017-07-19,3750.0,1.4,33.0,clear
+1481,Arhar (Tur/Red Gram),Choubepur,2017-07-20,4720.0,2.5,33.2,clear
+1482,Arhar (Tur/Red Gram),Kanpur(Grain),2017-07-20,4100.0,100.0,33.2,clear
+1483,Bengal Gram(Gram),Choubepur,2017-07-20,5700.0,2.7,33.2,clear
+1484,Bengal Gram(Gram),Kanpur(Grain),2017-07-20,5350.0,100.0,33.2,clear
+1485,Bengal Gram(Gram),Pukhrayan,2017-07-20,5200.0,1.0,33.2,clear
+1486,Green Gram (Moong),Rura,2017-07-20,3700.0,5.0,33.2,clear
+1487,Arhar (Tur/Red Gram),Choubepur,2017-07-21,4740.0,2.8,28.4,clear
+1488,Arhar (Tur/Red Gram),Kanpur(Grain),2017-07-21,3950.0,115.0,28.4,clear
+1489,Bengal Gram(Gram),Choubepur,2017-07-21,5725.0,3.8,28.4,clear
+1490,Bengal Gram(Gram),Kanpur(Grain),2017-07-21,5160.0,145.0,28.4,clear
+1491,Bengal Gram(Gram),Pukhrayan,2017-07-21,5100.0,2.0,28.4,clear
+1492,Green Gram (Moong),Rura,2017-07-21,3700.0,3.0,28.4,clear
+1493,Arhar (Tur/Red Gram),Choubepur,2017-07-22,4725.0,2.0,29.0,clear
+1494,Arhar (Tur/Red Gram),Kanpur(Grain),2017-07-22,3900.0,120.0,29.0,clear
+1495,Bengal Gram(Gram),Choubepur,2017-07-22,5720.0,1.5,29.0,clear
+1496,Bengal Gram(Gram),Kanpur(Grain),2017-07-22,5125.0,125.0,29.0,clear
+1497,Bengal Gram(Gram),Pukhrayan,2017-07-22,5200.0,1.0,29.0,clear
+1498,Green Gram (Moong),Rura,2017-07-22,3700.0,4.0,29.0,clear
+1499,Arhar (Tur/Red Gram),Choubepur,2017-07-24,4700.0,2.5,32.2,clear
+1500,Arhar (Tur/Red Gram),Kanpur(Grain),2017-07-24,3925.0,110.0,32.2,clear
+1501,Bengal Gram(Gram),Choubepur,2017-07-24,5700.0,2.5,32.2,clear
+1502,Bengal Gram(Gram),Kanpur(Grain),2017-07-24,5100.0,150.0,32.2,clear
+1503,Green Gram (Moong),Rura,2017-07-24,3700.0,3.0,32.2,clear
+1504,Arhar (Tur/Red Gram),Choubepur,2017-07-25,4720.0,1.8,30.0,clear
+1505,Arhar (Tur/Red Gram),Kanpur(Grain),2017-07-25,3940.0,105.0,30.0,clear
+1506,Bengal Gram(Gram),Choubepur,2017-07-25,5725.0,2.0,30.0,clear
+1507,Bengal Gram(Gram),Kanpur(Grain),2017-07-25,5120.0,120.0,30.0,clear
+1508,Bengal Gram(Gram),Pukhrayan,2017-07-25,5200.0,1.0,30.0,clear
+1509,Green Gram (Moong),Jhijhank,2017-07-25,4095.0,10.0,30.0,clear
+1510,Green Gram (Moong),Rura,2017-07-25,3700.0,2.0,30.0,clear
+1511,Arhar (Tur/Red Gram),Choubepur,2017-07-26,4725.0,1.7,31.2,clear
+1512,Arhar (Tur/Red Gram),Kanpur(Grain),2017-07-26,3900.0,125.0,31.2,clear
+1513,Arhar (Tur/Red Gram),Varipaal,2017-07-26,3200.0,2.0,31.2,clear
+1514,Bengal Gram(Gram),Choubepur,2017-07-26,5750.0,1.8,31.2,clear
+1515,Bengal Gram(Gram),Kanpur(Grain),2017-07-26,5150.0,110.0,31.2,clear
+1516,Bengal Gram(Gram),Pukhrayan,2017-07-26,5100.0,1.5,31.2,clear
+1517,Green Gram (Moong),Jhijhank,2017-07-26,4095.0,0.7,31.2,clear
+1518,Green Gram (Moong),Rura,2017-07-26,3700.0,5.0,31.2,clear
+1519,Green Gram (Moong),Varipaal,2017-07-26,3500.0,2.5,31.2,clear
+1520,Arhar (Tur/Red Gram),Choubepur,2017-07-27,4715.0,2.2,28.6,clear
+1521,Arhar (Tur/Red Gram),Kanpur(Grain),2017-07-27,3875.0,150.0,28.6,clear
+1522,Bengal Gram(Gram),Choubepur,2017-07-27,5775.0,1.7,28.6,clear
+1523,Bengal Gram(Gram),Kanpur(Grain),2017-07-27,5200.0,90.0,28.6,clear
+1524,Arhar (Tur/Red Gram),Choubepur,2017-07-28,4735.0,1.8,28.4,clear
+1525,Arhar (Tur/Red Gram),Kanpur(Grain),2017-07-28,3810.0,155.0,28.4,clear
+1526,Bengal Gram(Gram),Choubepur,2017-07-28,5700.0,2.5,28.4,clear
+1527,Bengal Gram(Gram),Kanpur(Grain),2017-07-28,5160.0,115.0,28.4,clear
+1528,Bengal Gram(Gram),Pukhrayan,2017-07-28,5200.0,1.5,28.4,clear
+1529,Green Gram (Moong),Rura,2017-07-28,3700.0,3.0,28.4,clear
+1530,Green Gram (Moong),Varipaal,2017-07-28,3600.0,2.0,28.4,clear
+1531,Arhar (Tur/Red Gram),Choubepur,2017-07-29,4725.0,2.0,32.6,clear
+1532,Arhar (Tur/Red Gram),Kanpur(Grain),2017-07-29,3700.0,120.0,32.6,clear
+1533,Bengal Gram(Gram),Choubepur,2017-07-29,5725.0,1.5,32.6,clear
+1534,Bengal Gram(Gram),Kanpur(Grain),2017-07-29,4850.0,120.0,32.6,clear
+1535,Bengal Gram(Gram),Pukhrayan,2017-07-29,5100.0,2.0,32.6,clear
+1536,Arhar (Tur/Red Gram),Choubepur,2017-07-31,4730.0,2.5,31.8,clear
+1537,Arhar (Tur/Red Gram),Kanpur(Grain),2017-07-31,3650.0,150.0,31.8,clear
+1538,Bengal Gram(Gram),Choubepur,2017-07-31,5720.0,2.5,31.8,clear
+1539,Bengal Gram(Gram),Kanpur(Grain),2017-07-31,4800.0,125.0,31.8,clear
+1540,Green Gram (Moong),Jhijhank,2017-07-31,4000.0,34.0,31.8,clear
+1541,Green Gram (Moong),Rura,2017-07-31,3700.0,5.0,31.8,clear
+1542,Arhar (Tur/Red Gram),Choubepur,2017-02-08,4725.0,1.8,21.4,clear
+1543,Arhar (Tur/Red Gram),Kanpur(Grain),2017-02-08,3600.0,150.0,21.4,clear
+1544,Bengal Gram(Gram),Choubepur,2017-02-08,5750.0,4.0,21.4,clear
+1545,Bengal Gram(Gram),Kanpur(Grain),2017-02-08,4700.0,120.0,21.4,clear
+1546,Bengal Gram(Gram),Pukhrayan,2017-02-08,5000.0,2.0,21.4,clear
+1547,Green Gram (Moong),Rura,2017-02-08,3700.0,2.0,21.4,clear
+1548,Arhar (Tur/Red Gram),Choubepur,2017-03-08,4720.0,1.7,28.0,clear
+1549,Arhar (Tur/Red Gram),Kanpur(Grain),2017-03-08,3625.0,130.0,28.0,clear
+1550,Bengal Gram(Gram),Choubepur,2017-03-08,5500.0,5.0,28.0,clear
+1551,Bengal Gram(Gram),Kanpur(Grain),2017-03-08,4725.0,100.0,28.0,clear
+1552,Bengal Gram(Gram),Pukhrayan,2017-03-08,4800.0,2.0,28.0,clear
+1553,Green Gram (Moong),Rura,2017-03-08,3700.0,3.0,28.0,clear
+1554,Arhar (Tur/Red Gram),Choubepur,2017-04-08,4700.0,2.5,34.8,clear
+1555,Arhar (Tur/Red Gram),Kanpur(Grain),2017-04-08,3500.0,145.0,34.8,clear
+1556,Bengal Gram(Gram),Choubepur,2017-04-08,5200.0,3.5,34.8,clear
+1557,Bengal Gram(Gram),Kanpur(Grain),2017-04-08,4800.0,85.0,34.8,clear
+1558,Bengal Gram(Gram),Pukhrayan,2017-04-08,4800.0,2.5,34.8,clear
+1559,Green Gram (Moong),Rura,2017-04-08,3700.0,1.0,34.8,clear
+1560,Arhar (Tur/Red Gram),Choubepur,2017-05-08,4600.0,2.0,38.2,clear
+1561,Arhar (Tur/Red Gram),Kanpur(Grain),2017-05-08,3525.0,125.0,38.2,clear
+1562,Bengal Gram(Gram),Choubepur,2017-05-08,5000.0,4.5,38.2,clear
+1563,Bengal Gram(Gram),Kanpur(Grain),2017-05-08,4750.0,95.0,38.2,clear
+1564,Bengal Gram(Gram),Pukhrayan,2017-05-08,4900.0,1.0,38.2,clear
+1565,Green Gram (Moong),Jhijhank,2017-05-08,4000.0,18.0,38.2,clear
+1566,Green Gram (Moong),Rura,2017-05-08,3700.0,2.0,38.2,clear
+1567,Arhar (Tur/Red Gram),Choubepur,2017-07-08,4575.0,2.2,28.6,clear
+1568,Bengal Gram(Gram),Choubepur,2017-07-08,4800.0,4.0,28.6,clear
+1569,Green Gram (Moong),Jhijhank,2017-07-08,4000.0,5.0,28.6,clear
+1570,Green Gram (Moong),Rura,2017-07-08,3700.0,6.0,28.6,clear
+1571,Green Gram (Moong),Uttaripura,2017-07-08,3500.0,91.0,28.6,clear
+1572,Green Gram (Moong),Varipaal,2017-07-08,3550.0,0.1,28.6,clear
+1573,Arhar (Tur/Red Gram),Choubepur,2017-08-08,4550.0,2.3,28.4,clear
+1574,Arhar (Tur/Red Gram),Kanpur(Grain),2017-08-08,3575.0,100.0,28.4,clear
+1575,Bengal Gram(Gram),Choubepur,2017-08-08,4700.0,3.5,28.4,clear
+1576,Bengal Gram(Gram),Kanpur(Grain),2017-08-08,4800.0,75.0,28.4,clear
+1577,Bengal Gram(Gram),Pukhrayan,2017-08-08,4900.0,1.0,28.4,clear
+1578,Green Gram (Moong),Jhijhank,2017-08-08,4000.0,28.0,28.4,clear
+1579,Green Gram (Moong),Rura,2017-08-08,3700.0,5.0,28.4,clear
+1580,Arhar (Tur/Red Gram),Choubepur,2017-09-08,4525.0,2.5,34.0,clear
+1581,Arhar (Tur/Red Gram),Kanpur(Grain),2017-09-08,3600.0,90.0,34.0,clear
+1582,Bengal Gram(Gram),Choubepur,2017-09-08,4600.0,2.8,34.0,clear
+1583,Bengal Gram(Gram),Kanpur(Grain),2017-09-08,4825.0,65.0,34.0,clear
+1584,Bengal Gram(Gram),Pukhrayan,2017-09-08,4800.0,2.0,34.0,clear
+1585,Green Gram (Moong),Jhijhank,2017-09-08,4000.0,0.5,34.0,clear
+1586,Green Gram (Moong),Rura,2017-09-08,3700.0,8.0,34.0,clear
+1587,Arhar (Tur/Red Gram),Choubepur,2017-10-08,4550.0,2.6,35.0,clear
+1588,Arhar (Tur/Red Gram),Kanpur(Grain),2017-10-08,3675.0,80.0,35.0,clear
+1589,Bengal Gram(Gram),Choubepur,2017-10-08,4575.0,2.7,35.0,clear
+1590,Bengal Gram(Gram),Kanpur(Grain),2017-10-08,4835.0,60.0,35.0,clear
+1591,Bengal Gram(Gram),Pukhrayan,2017-10-08,4700.0,2.0,35.0,clear
+1592,Green Gram (Moong),Jhijhank,2017-10-08,4005.0,5.0,35.0,clear
+1593,Green Gram (Moong),Rura,2017-10-08,3700.0,5.0,35.0,clear
+1594,Green Gram (Moong),Uttaripura,2017-10-08,3500.0,20.0,35.0,clear
+1595,Arhar (Tur/Red Gram),Choubepur,2017-11-08,4525.0,2.4,28.2,clear
+1596,Arhar (Tur/Red Gram),Kanpur(Grain),2017-11-08,3700.0,65.0,28.2,clear
+1597,Bengal Gram(Gram),Choubepur,2017-11-08,4550.0,2.5,28.2,clear
+1598,Bengal Gram(Gram),Kanpur(Grain),2017-11-08,4850.0,70.0,28.2,clear
+1599,Bengal Gram(Gram),Pukhrayan,2017-11-08,4700.0,2.5,28.2,clear
+1600,Green Gram (Moong),Rura,2017-11-08,3800.0,4.0,28.2,clear
+1601,Green Gram (Moong),Uttaripura,2017-11-08,3500.0,7.3,28.2,clear
+1602,Arhar (Tur/Red Gram),Choubepur,2017-12-08,4500.0,2.0,24.8,clear
+1603,Arhar (Tur/Red Gram),Kanpur(Grain),2017-12-08,3725.0,60.0,24.8,clear
+1604,Bengal Gram(Gram),Choubepur,2017-12-08,4575.0,1.5,24.8,clear
+1605,Bengal Gram(Gram),Kanpur(Grain),2017-12-08,4830.0,85.0,24.8,clear
+1606,Bengal Gram(Gram),Pukhrayan,2017-12-08,4800.0,1.5,24.8,clear
+1607,Green Gram (Moong),Jhijhank,2017-12-08,4000.0,8.0,24.8,clear
+1608,Green Gram (Moong),Rura,2017-12-08,3700.0,4.0,24.8,clear
+1609,Green Gram (Moong),Varipaal,2017-12-08,4000.0,2.5,24.8,clear
+1610,Arhar (Tur/Red Gram),Choubepur,2017-08-14,4520.0,2.5,32.2,clear
+1611,Arhar (Tur/Red Gram),Kanpur(Grain),2017-08-14,3700.0,70.0,32.2,clear
+1612,Bengal Gram(Gram),Choubepur,2017-08-14,4550.0,1.7,32.2,clear
+1613,Bengal Gram(Gram),Kanpur(Grain),2017-08-14,4860.0,80.0,32.2,clear
+1614,Green Gram (Moong),Jhijhank,2017-08-14,4000.0,5.0,32.2,clear
+1615,Green Gram (Moong),Rura,2017-08-14,3800.0,5.0,32.2,clear
+1616,Arhar (Tur/Red Gram),Choubepur,2017-08-16,4500.0,2.4,33.6,clear
+1617,Arhar (Tur/Red Gram),Kanpur(Grain),2017-08-16,3800.0,80.0,33.6,clear
+1618,Bengal Gram(Gram),Choubepur,2017-08-16,4525.0,1.8,33.6,clear
+1619,Bengal Gram(Gram),Kanpur(Grain),2017-08-16,4820.0,95.0,33.6,clear
+1620,Bengal Gram(Gram),Pukhrayan,2017-08-16,4600.0,1.5,33.6,clear
+1621,Green Gram (Moong),Rura,2017-08-16,3700.0,4.0,33.6,clear
+1622,Arhar (Tur/Red Gram),Choubepur,2017-08-17,4525.0,2.6,34.0,clear
+1623,Arhar (Tur/Red Gram),Kanpur(Grain),2017-08-17,3825.0,60.0,34.0,clear
+1624,Bengal Gram(Gram),Choubepur,2017-08-17,4550.0,2.0,34.0,clear
+1625,Bengal Gram(Gram),Kanpur(Grain),2017-08-17,4850.0,90.0,34.0,clear
+1626,Bengal Gram(Gram),Pukhrayan,2017-08-17,4700.0,2.0,34.0,clear
+1627,Green Gram (Moong),Jhijhank,2017-08-17,4000.0,7.2,34.0,clear
+1628,Green Gram (Moong),Rura,2017-08-17,3700.0,5.0,34.0,clear
+1629,Green Gram (Moong),Varipaal,2017-08-17,4000.0,2.7,34.0,clear
+1630,Arhar (Tur/Red Gram),Choubepur,2017-08-18,4550.0,1.5,36.2,clear
+1631,Arhar (Tur/Red Gram),Kanpur(Grain),2017-08-18,3850.0,70.0,36.2,clear
+1632,Bengal Gram(Gram),Choubepur,2017-08-18,4500.0,2.5,36.2,clear
+1633,Bengal Gram(Gram),Kanpur(Grain),2017-08-18,4840.0,115.0,36.2,clear
+1634,Bengal Gram(Gram),Pukhrayan,2017-08-18,4800.0,1.0,36.2,clear
+1635,Arhar (Tur/Red Gram),Choubepur,2017-08-19,4525.0,2.5,29.4,clear
+1636,Arhar (Tur/Red Gram),Kanpur(Grain),2017-08-19,3900.0,60.0,29.4,clear
+1637,Bengal Gram(Gram),Choubepur,2017-08-19,4550.0,2.0,29.4,clear
+1638,Bengal Gram(Gram),Kanpur(Grain),2017-08-19,4880.0,100.0,29.4,clear
+1639,Bengal Gram(Gram),Pukhrayan,2017-08-19,4700.0,1.5,29.4,clear
+1640,Green Gram (Moong),Rura,2017-08-19,3700.0,5.0,29.4,clear
+1641,Arhar (Tur/Red Gram),Choubepur,2017-08-21,4550.0,3.5,33.8,clear
+1642,Arhar (Tur/Red Gram),Kanpur(Grain),2017-08-21,3925.0,55.0,33.8,clear
+1643,Bengal Gram(Gram),Choubepur,2017-08-21,4575.0,2.4,33.8,clear
+1644,Bengal Gram(Gram),Kanpur(Grain),2017-08-21,4875.0,85.0,33.8,clear
+1645,Bengal Gram(Gram),Pukhrayan,2017-08-21,4800.0,1.0,33.8,clear
+1646,Green Gram (Moong),Rura,2017-08-21,3700.0,3.0,33.8,clear
+1647,Arhar (Tur/Red Gram),Choubepur,2017-08-22,4520.0,3.0,31.2,clear
+1648,Arhar (Tur/Red Gram),Kanpur(Grain),2017-08-22,3950.0,50.0,31.2,clear
+1649,Bengal Gram(Gram),Choubepur,2017-08-22,4600.0,2.6,31.2,clear
+1650,Bengal Gram(Gram),Kanpur(Grain),2017-08-22,4920.0,70.0,31.2,clear
+1651,Bengal Gram(Gram),Pukhrayan,2017-08-22,4900.0,1.0,31.2,clear
+1652,Green Gram (Moong),Rura,2017-08-22,3700.0,3.0,31.2,clear
+1653,Arhar (Tur/Red Gram),Choubepur,2017-08-23,4500.0,2.7,29.0,clear
+1654,Arhar (Tur/Red Gram),Kanpur(Grain),2017-08-23,3975.0,40.0,29.0,clear
+1655,Arhar (Tur/Red Gram),Varipaal,2017-08-23,3000.0,0.2,29.0,clear
+1656,Bengal Gram(Gram),Choubepur,2017-08-23,4575.0,2.5,29.0,clear
+1657,Bengal Gram(Gram),Kanpur(Grain),2017-08-23,4950.0,60.0,29.0,clear
+1658,Bengal Gram(Gram),Pukhrayan,2017-08-23,4800.0,1.5,29.0,clear
+1659,Green Gram (Moong),Rura,2017-08-23,3700.0,4.0,29.0,clear
+1660,Green Gram (Moong),Varipaal,2017-08-23,4000.0,4.1,29.0,clear
+1661,Arhar (Tur/Red Gram),Choubepur,2017-08-24,4525.0,1.8,33.6,clear
+1662,Arhar (Tur/Red Gram),Kanpur(Grain),2017-08-24,4000.0,55.0,33.6,clear
+1663,Arhar (Tur/Red Gram),Varipaal,2017-08-24,3000.0,0.9,33.6,clear
+1664,Bengal Gram(Gram),Choubepur,2017-08-24,4600.0,2.2,33.6,clear
+1665,Bengal Gram(Gram),Kanpur(Grain),2017-08-24,5000.0,75.0,33.6,clear
+1666,Bengal Gram(Gram),Pukhrayan,2017-08-24,4900.0,1.0,33.6,clear
+1667,Arhar (Tur/Red Gram),Choubepur,2017-08-25,4525.0,2.0,31.2,clear
+1668,Arhar (Tur/Red Gram),Kanpur(Grain),2017-08-25,3980.0,60.0,31.2,clear
+1669,Bengal Gram(Gram),Choubepur,2017-08-25,4550.0,1.8,31.2,clear
+1670,Bengal Gram(Gram),Kanpur(Grain),2017-08-25,4870.0,90.0,31.2,clear
+1671,Bengal Gram(Gram),Pukhrayan,2017-08-25,5000.0,1.0,31.2,clear
+1672,Green Gram (Moong),Rura,2017-08-25,3700.0,5.0,31.2,clear
+1673,Arhar (Tur/Red Gram),Choubepur,2017-08-26,4500.0,2.5,30.0,clear
+1674,Arhar (Tur/Red Gram),Kanpur(Grain),2017-08-26,4025.0,50.0,30.0,clear
+1675,Bengal Gram(Gram),Choubepur,2017-08-26,4525.0,2.0,30.0,clear
+1676,Bengal Gram(Gram),Kanpur(Grain),2017-08-26,4890.0,85.0,30.0,clear
+1677,Bengal Gram(Gram),Pukhrayan,2017-08-26,5100.0,1.0,30.0,clear
+1678,Arhar (Tur/Red Gram),Choubepur,2017-08-28,4550.0,2.3,31.0,clear
+1679,Arhar (Tur/Red Gram),Kanpur(Grain),2017-08-28,3990.0,50.0,31.0,clear
+1680,Bengal Gram(Gram),Choubepur,2017-08-28,4500.0,2.5,31.0,clear
+1681,Bengal Gram(Gram),Kanpur(Grain),2017-08-28,4925.0,75.0,31.0,clear
+1682,Arhar (Tur/Red Gram),Choubepur,2017-08-29,4525.0,2.2,28.6,clear
+1683,Arhar (Tur/Red Gram),Kanpur(Grain),2017-08-29,4000.0,55.0,28.6,clear
+1684,Bengal Gram(Gram),Choubepur,2017-08-29,4550.0,2.4,28.6,clear
+1685,Bengal Gram(Gram),Kanpur(Grain),2017-08-29,4950.0,65.0,28.6,clear
+1686,Bengal Gram(Gram),Pukhrayan,2017-08-29,5200.0,1.0,28.6,clear
+1687,Green Gram (Moong),Rura,2017-08-29,3700.0,2.0,28.6,clear
+1688,Arhar (Tur/Red Gram),Choubepur,2017-08-30,4600.0,1.5,31.8,clear
+1689,Arhar (Tur/Red Gram),Kanpur(Grain),2017-08-30,4050.0,60.0,31.8,clear
+1690,Bengal Gram(Gram),Choubepur,2017-08-30,4500.0,2.6,31.8,clear
+1691,Bengal Gram(Gram),Kanpur(Grain),2017-08-30,4985.0,60.0,31.8,clear
+1692,Bengal Gram(Gram),Pukhrayan,2017-08-30,5100.0,1.5,31.8,clear
+1693,Green Gram (Moong),Rura,2017-08-30,3700.0,2.0,31.8,clear
+1694,Arhar (Tur/Red Gram),Choubepur,2017-01-09,4550.0,1.5,13.2,clear
+1695,Arhar (Tur/Red Gram),Kanpur(Grain),2017-01-09,4150.0,60.0,13.2,clear
+1696,Bengal Gram(Gram),Choubepur,2017-01-09,4500.0,3.2,13.2,clear
+1697,Bengal Gram(Gram),Kanpur(Grain),2017-01-09,5280.0,50.0,13.2,clear
+1698,Bengal Gram(Gram),Pukhrayan,2017-01-09,5300.0,1.0,13.2,clear
+1699,Arhar (Tur/Red Gram),Choubepur,2017-02-09,4525.0,3.0,23.0,clear
+1700,Arhar (Tur/Red Gram),Kanpur(Grain),2017-02-09,4140.0,65.0,23.0,clear
+1701,Bengal Gram(Gram),Choubepur,2017-02-09,4475.0,2.5,23.0,clear
+1702,Bengal Gram(Gram),Kanpur(Grain),2017-02-09,5300.0,45.0,23.0,clear
+1703,Bengal Gram(Gram),Pukhrayan,2017-02-09,5200.0,1.5,23.0,clear
+1704,Arhar (Tur/Red Gram),Choubepur,2017-04-09,4500.0,1.8,34.8,clear
+1705,Arhar (Tur/Red Gram),Kanpur(Grain),2017-04-09,4125.0,70.0,34.8,clear
+1706,Bengal Gram(Gram),Choubepur,2017-04-09,4525.0,2.8,34.8,clear
+1707,Bengal Gram(Gram),Kanpur(Grain),2017-04-09,5290.0,55.0,34.8,clear
+1708,Bengal Gram(Gram),Varipaal,2017-04-09,5000.0,0.3,34.8,clear
+1709,Arhar (Tur/Red Gram),Choubepur,2017-05-09,4550.0,1.7,37.6,clear
+1710,Arhar (Tur/Red Gram),Kanpur(Grain),2017-05-09,4300.0,75.0,37.6,clear
+1711,Bengal Gram(Gram),Choubepur,2017-05-09,4500.0,2.7,37.6,clear
+1712,Bengal Gram(Gram),Kanpur(Grain),2017-05-09,5450.0,45.0,37.6,clear
+1713,Bengal Gram(Gram),Pukhrayan,2017-05-09,5200.0,1.0,37.6,clear
+1714,Arhar (Tur/Red Gram),Choubepur,2017-06-09,4575.0,2.5,38.8,clear
+1715,Arhar (Tur/Red Gram),Kanpur(Grain),2017-06-09,4250.0,80.0,38.8,clear
+1716,Arhar (Tur/Red Gram),Varipaal,2017-06-09,3000.0,2.3,38.8,clear
+1717,Bengal Gram(Gram),Choubepur,2017-06-09,4600.0,2.4,38.8,clear
+1718,Bengal Gram(Gram),Kanpur(Grain),2017-06-09,5500.0,40.0,38.8,clear
+1719,Bengal Gram(Gram),Pukhrayan,2017-06-09,5300.0,1.0,38.8,clear
+1720,Green Gram (Moong),Rura,2017-06-09,3700.0,4.0,38.8,clear
+1721,Arhar (Tur/Red Gram),Choubepur,2017-07-09,4600.0,1.6,30.2,clear
+1722,Arhar (Tur/Red Gram),Kanpur(Grain),2017-07-09,4275.0,70.0,30.2,clear
+1723,Bengal Gram(Gram),Choubepur,2017-07-09,4650.0,2.6,30.2,clear
+1724,Bengal Gram(Gram),Kanpur(Grain),2017-07-09,5460.0,50.0,30.2,clear
+1725,Bengal Gram(Gram),Pukhrayan,2017-07-09,5400.0,1.0,30.2,clear
+1726,Arhar (Tur/Red Gram),Choubepur,2017-08-09,4625.0,1.4,28.0,clear
+1727,Arhar (Tur/Red Gram),Kanpur(Grain),2017-08-09,4320.0,65.0,28.0,clear
+1728,Bengal Gram(Gram),Choubepur,2017-08-09,4700.0,3.5,28.0,clear
+1729,Bengal Gram(Gram),Kanpur(Grain),2017-08-09,5480.0,45.0,28.0,clear
+1730,Bengal Gram(Gram),Pukhrayan,2017-08-09,5500.0,1.0,28.0,clear
+1731,Green Gram (Moong),Rura,2017-08-09,3700.0,1.0,28.0,clear
+1732,Arhar (Tur/Red Gram),Choubepur,2017-09-09,4600.0,1.5,33.6,clear
+1733,Arhar (Tur/Red Gram),Kanpur(Grain),2017-09-09,4300.0,75.0,33.6,clear
+1734,Bengal Gram(Gram),Choubepur,2017-09-09,4750.0,2.5,33.6,clear
+1735,Bengal Gram(Gram),Kanpur(Grain),2017-09-09,5460.0,50.0,33.6,clear
+1736,Bengal Gram(Gram),Pukhrayan,2017-09-09,5400.0,1.5,33.6,clear
+1737,Green Gram (Moong),Rura,2017-09-09,3700.0,5.0,33.6,clear
+1738,Arhar (Tur/Red Gram),Choubepur,2017-11-09,4625.0,1.8,29.0,clear
+1739,Arhar (Tur/Red Gram),Kanpur(Grain),2017-11-09,4325.0,60.0,29.0,clear
+1740,Bengal Gram(Gram),Choubepur,2017-11-09,4800.0,2.2,29.0,clear
+1741,Bengal Gram(Gram),Kanpur(Grain),2017-11-09,5520.0,60.0,29.0,clear
+1742,Green Gram (Moong),Rura,2017-11-09,3700.0,5.0,29.0,clear
+1743,Arhar (Tur/Red Gram),Choubepur,2017-12-09,4650.0,1.7,25.0,clear
+1744,Arhar (Tur/Red Gram),Kanpur(Grain),2017-12-09,4200.0,65.0,25.0,clear
+1745,Bengal Gram(Gram),Choubepur,2017-12-09,4850.0,2.3,25.0,clear
+1746,Bengal Gram(Gram),Kanpur(Grain),2017-12-09,5620.0,40.0,25.0,clear
+1747,Bengal Gram(Gram),Pukhrayan,2017-12-09,5400.0,1.0,25.0,clear
+1748,Green Gram (Moong),Rura,2017-12-09,3500.0,5.0,25.0,clear
+1749,Arhar (Tur/Red Gram),Choubepur,2017-09-13,4675.0,2.3,35.0,clear
+1750,Arhar (Tur/Red Gram),Kanpur(Grain),2017-09-13,4225.0,60.0,35.0,clear
+1751,Bengal Gram(Gram),Choubepur,2017-09-13,4900.0,1.8,35.0,clear
+1752,Bengal Gram(Gram),Kanpur(Grain),2017-09-13,5640.0,45.0,35.0,clear
+1753,Bengal Gram(Gram),Pukhrayan,2017-09-13,5300.0,1.5,35.0,clear
+1754,Green Gram (Moong),Rura,2017-09-13,3500.0,5.0,35.0,clear
+1755,Arhar (Tur/Red Gram),Choubepur,2017-09-14,4680.0,1.7,29.6,clear
+1756,Arhar (Tur/Red Gram),Kanpur(Grain),2017-09-14,4240.0,70.0,29.6,clear
+1757,Bengal Gram(Gram),Choubepur,2017-09-14,5000.0,1.2,29.6,clear
+1758,Bengal Gram(Gram),Kanpur(Grain),2017-09-14,5650.0,40.0,29.6,clear
+1759,Bengal Gram(Gram),Pukhrayan,2017-09-14,5400.0,1.0,29.6,clear
+1760,Green Gram (Moong),Rura,2017-09-14,3500.0,5.0,29.6,clear
+1761,Arhar (Tur/Red Gram),Choubepur,2017-09-15,4675.0,1.0,33.0,clear
+1762,Arhar (Tur/Red Gram),Kanpur(Grain),2017-09-15,4275.0,55.0,33.0,clear
+1763,Bengal Gram(Gram),Choubepur,2017-09-15,5025.0,1.5,33.0,clear
+1764,Bengal Gram(Gram),Kanpur(Grain),2017-09-15,5600.0,60.0,33.0,clear
+1765,Bengal Gram(Gram),Pukhrayan,2017-09-15,5450.0,1.5,33.0,clear
+1766,Black Gram (Urd Beans),Kanpur(Grain),2017-09-15,4600.0,65.0,33.0,clear
+1767,Green Gram (Moong),Kanpur(Grain),2017-09-15,4385.0,70.0,33.0,clear
+1768,Green Gram (Moong),Rura,2017-09-15,3500.0,5.0,33.0,clear
+1769,Lentil(Masur),Kanpur(Grain),2017-09-15,4250.0,70.0,33.0,clear
+1770,Arhar (Tur/Red Gram),Choubepur,2017-09-16,4650.0,1.5,35.0,clear
+1771,Arhar (Tur/Red Gram),Kanpur(Grain),2017-09-16,4250.0,65.0,35.0,clear
+1772,Bengal Gram(Gram),Choubepur,2017-09-16,5050.0,1.0,35.0,clear
+1773,Bengal Gram(Gram),Kanpur(Grain),2017-09-16,5625.0,70.0,35.0,clear
+1774,Bengal Gram(Gram),Pukhrayan,2017-09-16,5500.0,1.0,35.0,clear
+1775,Black Gram (Urd Beans),Kanpur(Grain),2017-09-16,4640.0,55.0,35.0,clear
+1776,Green Gram (Moong),Kanpur(Grain),2017-09-16,4350.0,80.0,35.0,clear
+1777,Green Gram (Moong),Rura,2017-09-16,3500.0,5.0,35.0,clear
+1778,Lentil(Masur),Kanpur(Grain),2017-09-16,4300.0,60.0,35.0,clear
+1779,Arhar (Tur/Red Gram),Choubepur,2017-09-18,4625.0,2.5,31.4,clear
+1780,Arhar (Tur/Red Gram),Kanpur(Grain),2017-09-18,4275.0,60.0,31.4,clear
+1781,Bengal Gram(Gram),Choubepur,2017-09-18,5075.0,1.6,31.4,clear
+1782,Bengal Gram(Gram),Kanpur(Grain),2017-09-18,5650.0,65.0,31.4,clear
+1783,Black Gram (Urd Beans),Kanpur(Grain),2017-09-18,4675.0,50.0,31.4,clear
+1784,Green Gram (Moong),Kanpur(Grain),2017-09-18,4365.0,75.0,31.4,clear
+1785,Green Gram (Moong),Rura,2017-09-18,3500.0,5.0,31.4,clear
+1786,Green Gram (Moong),Uttaripura,2017-09-18,4500.0,15.0,31.4,clear
+1787,Lentil(Masur),Kanpur(Grain),2017-09-18,4275.0,55.0,31.4,clear
+1788,Arhar (Tur/Red Gram),Choubepur,2017-09-19,4600.0,2.6,34.2,clear
+1789,Arhar (Tur/Red Gram),Kanpur(Grain),2017-09-19,4260.0,70.0,34.2,clear
+1790,Arhar (Tur/Red Gram),Varipaal,2017-09-19,3250.0,1.8,34.2,clear
+1791,Bengal Gram(Gram),Choubepur,2017-09-19,5100.0,2.4,34.2,clear
+1792,Bengal Gram(Gram),Kanpur(Grain),2017-09-19,5640.0,75.0,34.2,clear
+1793,Bengal Gram(Gram),Pukhrayan,2017-09-19,5450.0,1.0,34.2,clear
+1794,Black Gram (Urd Beans),Kanpur(Grain),2017-09-19,4150.0,50.0,34.2,clear
+1795,Green Gram (Moong),Kanpur(Grain),2017-09-19,4375.0,70.0,34.2,clear
+1796,Green Gram (Moong),Rura,2017-09-19,3500.0,5.0,34.2,clear
+1797,Lentil(Masur),Kanpur(Grain),2017-09-19,4260.0,60.0,34.2,clear
+1798,Arhar (Tur/Red Gram),Choubepur,2017-09-20,4625.0,2.4,31.4,clear
+1799,Arhar (Tur/Red Gram),Kanpur(Grain),2017-09-20,4000.0,75.0,31.4,clear
+1800,Bengal Gram(Gram),Choubepur,2017-09-20,5125.0,1.5,31.4,clear
+1801,Bengal Gram(Gram),Kanpur(Grain),2017-09-20,5750.0,65.0,31.4,clear
+1802,Bengal Gram(Gram),Pukhrayan,2017-09-20,5500.0,1.0,31.4,clear
+1803,Black Gram (Urd Beans),Kanpur(Grain),2017-09-20,4100.0,55.0,31.4,clear
+1804,Green Gram (Moong),Kanpur(Grain),2017-09-20,4450.0,60.0,31.4,clear
+1805,Green Gram (Moong),Rura,2017-09-20,3500.0,5.0,31.4,clear
+1806,Lentil(Masur),Kanpur(Grain),2017-09-20,4150.0,70.0,31.4,clear
+1807,Arhar (Tur/Red Gram),Choubepur,2017-09-21,4600.0,1.4,29.2,clear
+1808,Arhar (Tur/Red Gram),Kanpur(Grain),2017-09-21,5950.0,80.0,29.2,clear
+1809,Bengal Gram(Gram),Choubepur,2017-09-21,5150.0,1.8,29.2,clear
+1810,Bengal Gram(Gram),Kanpur(Grain),2017-09-21,5800.0,60.0,29.2,clear
+1811,Bengal Gram(Gram),Pukhrayan,2017-09-21,5500.0,1.5,29.2,clear
+1812,Black Gram (Urd Beans),Kanpur(Grain),2017-09-21,4000.0,60.0,29.2,clear
+1813,Green Gram (Moong),Kanpur(Grain),2017-09-21,4500.0,55.0,29.2,clear
+1814,Green Gram (Moong),Rura,2017-09-21,3500.0,5.0,29.2,clear
+1815,Lentil(Masur),Kanpur(Grain),2017-09-21,4100.0,75.0,29.2,clear
+1816,Arhar (Tur/Red Gram),Choubepur,2017-09-22,4650.0,1.6,27.6,clear
+1817,Arhar (Tur/Red Gram),Kanpur(Grain),2017-09-22,3850.0,85.0,27.6,clear
+1818,Bengal Gram(Gram),Choubepur,2017-09-22,5200.0,1.7,27.6,clear
+1819,Bengal Gram(Gram),Kanpur(Grain),2017-09-22,5825.0,65.0,27.6,clear
+1820,Bengal Gram(Gram),Pukhrayan,2017-09-22,5500.0,1.0,27.6,clear
+1821,Black Gram (Urd Beans),Kanpur(Grain),2017-09-22,3950.0,70.0,27.6,clear
+1822,Green Gram (Moong),Kanpur(Grain),2017-09-22,4550.0,80.0,27.6,clear
+1823,Green Gram (Moong),Rura,2017-09-22,3500.0,5.0,27.6,clear
+1824,Lentil(Masur),Kanpur(Grain),2017-09-22,4000.0,70.0,27.6,clear
+1825,Arhar (Tur/Red Gram),Choubepur,2017-09-23,4625.0,1.0,30.6,clear
+1826,Arhar (Tur/Red Gram),Kanpur(Grain),2017-09-23,3765.0,75.0,30.6,clear
+1827,Bengal Gram(Gram),Choubepur,2017-09-23,5300.0,1.5,30.6,clear
+1828,Bengal Gram(Gram),Kanpur(Grain),2017-09-23,5825.0,75.0,30.6,clear
+1829,Bengal Gram(Gram),Pukhrayan,2017-09-23,5450.0,1.5,30.6,clear
+1830,Black Gram (Urd Beans),Kanpur(Grain),2017-09-23,3900.0,75.0,30.6,clear
+1831,Green Gram (Moong),Kanpur(Grain),2017-09-23,4525.0,85.0,30.6,clear
+1832,Green Gram (Moong),Rura,2017-09-23,3500.0,5.0,30.6,clear
+1833,Lentil(Masur),Kanpur(Grain),2017-09-23,3950.0,90.0,30.6,clear
+1834,Arhar (Tur/Red Gram),Choubepur,2017-09-25,4600.0,1.5,32.0,clear
+1835,Arhar (Tur/Red Gram),Kanpur(Grain),2017-09-25,3790.0,80.0,32.0,clear
+1836,Bengal Gram(Gram),Choubepur,2017-09-25,5400.0,1.3,32.0,clear
+1837,Bengal Gram(Gram),Kanpur(Grain),2017-09-25,5850.0,80.0,32.0,clear
+1838,Black Gram (Urd Beans),Kanpur(Grain),2017-09-25,3875.0,90.0,32.0,clear
+1839,Green Gram (Moong),Kanpur(Grain),2017-09-25,4575.0,75.0,32.0,clear
+1840,Lentil(Masur),Kanpur(Grain),2017-09-25,3800.0,95.0,32.0,clear
+1841,Arhar (Tur/Red Gram),Choubepur,2017-09-26,4650.0,1.8,33.2,clear
+1842,Arhar (Tur/Red Gram),Kanpur(Grain),2017-09-26,3800.0,70.0,33.2,clear
+1843,Bengal Gram(Gram),Choubepur,2017-09-26,5450.0,1.2,33.2,clear
+1844,Bengal Gram(Gram),Kanpur(Grain),2017-09-26,5840.0,60.0,33.2,clear
+1845,Bengal Gram(Gram),Pukhrayan,2017-09-26,5500.0,1.0,33.2,clear
+1846,Black Gram (Urd Beans),Kanpur(Grain),2017-09-26,3850.0,65.0,33.2,clear
+1847,Green Gram (Moong),Kanpur(Grain),2017-09-26,4500.0,85.0,33.2,clear
+1848,Green Gram (Moong),Rura,2017-09-26,3500.0,1.0,33.2,clear
+1849,Lentil(Masur),Kanpur(Grain),2017-09-26,3850.0,80.0,33.2,clear
+1850,Arhar (Tur/Red Gram),Choubepur,2017-09-27,4625.0,1.7,32.0,clear
+1851,Arhar (Tur/Red Gram),Kanpur(Grain),2017-09-27,3775.0,75.0,32.0,clear
+1852,Bengal Gram(Gram),Choubepur,2017-09-27,5500.0,1.6,32.0,clear
+1853,Bengal Gram(Gram),Kanpur(Grain),2017-09-27,5860.0,55.0,32.0,clear
+1854,Bengal Gram(Gram),Pukhrayan,2017-09-27,5600.0,1.0,32.0,clear
+1855,Bengal Gram(Gram),Varipaal,2017-09-27,6000.0,0.1,32.0,clear
+1856,Black Gram (Urd Beans),Kanpur(Grain),2017-09-27,3825.0,70.0,32.0,clear
+1857,Green Gram (Moong),Kanpur(Grain),2017-09-27,4530.0,80.0,32.0,clear
+1858,Lentil(Masur),Kanpur(Grain),2017-09-27,3875.0,75.0,32.0,clear
+1859,Arhar (Tur/Red Gram),Choubepur,2017-09-28,4650.0,1.5,32.0,clear
+1860,Arhar (Tur/Red Gram),Kanpur(Grain),2017-09-28,3790.0,70.0,32.0,clear
+1861,Bengal Gram(Gram),Choubepur,2017-09-28,5525.0,1.4,32.0,clear
+1862,Bengal Gram(Gram),Kanpur(Grain),2017-09-28,5900.0,50.0,32.0,clear
+1863,Bengal Gram(Gram),Pukhrayan,2017-09-28,5600.0,1.0,32.0,clear
+1864,Black Gram (Urd Beans),Kanpur(Grain),2017-09-28,3840.0,60.0,32.0,clear
+1865,Green Gram (Moong),Kanpur(Grain),2017-09-28,4350.0,75.0,32.0,clear
+1866,Green Gram (Moong),Rura,2017-09-28,3500.0,3.0,32.0,clear
+1867,Lentil(Masur),Kanpur(Grain),2017-09-28,3840.0,80.0,32.0,clear
+1868,Arhar (Tur/Red Gram),Choubepur,2017-09-29,4600.0,2.0,34.6,clear
+1869,Arhar (Tur/Red Gram),Kanpur(Grain),2017-09-29,3800.0,65.0,34.6,clear
+1870,Bengal Gram(Gram),Choubepur,2017-09-29,5575.0,1.5,34.6,clear
+1871,Bengal Gram(Gram),Kanpur(Grain),2017-09-29,5860.0,75.0,34.6,clear
+1872,Bengal Gram(Gram),Pukhrayan,2017-09-29,5600.0,1.0,34.6,clear
+1873,Black Gram (Urd Beans),Kanpur(Grain),2017-09-29,3850.0,65.0,34.6,clear
+1874,Green Gram (Moong),Kanpur(Grain),2017-09-29,4420.0,60.0,34.6,clear
+1875,Green Gram (Moong),Rura,2017-09-29,3500.0,3.0,34.6,clear
+1876,Lentil(Masur),Kanpur(Grain),2017-09-29,3775.0,120.0,34.6,clear
+1877,Arhar (Tur/Red Gram),Choubepur,2017-09-30,4625.0,1.5,34.0,clear
+1878,Arhar (Tur/Red Gram),Kanpur(Grain),2017-09-30,3775.0,70.0,34.0,clear
+1879,Bengal Gram(Gram),Choubepur,2017-09-30,5600.0,1.0,34.0,clear
+1880,Bengal Gram(Gram),Kanpur(Grain),2017-09-30,5885.0,70.0,34.0,clear
+1881,Bengal Gram(Gram),Pukhrayan,2017-09-30,5600.0,1.5,34.0,clear
+1882,Black Gram (Urd Beans),Kanpur(Grain),2017-09-30,3875.0,60.0,34.0,clear
+1883,Green Gram (Moong),Kanpur(Grain),2017-09-30,4425.0,55.0,34.0,clear
+1884,Lentil(Masur),Kanpur(Grain),2017-09-30,3760.0,115.0,34.0,clear
+1885,Arhar (Tur/Red Gram),Choubepur,2017-02-10,4650.0,1.2,20.8,clear
+1886,Bengal Gram(Gram),Choubepur,2017-02-10,5625.0,1.3,20.8,clear
+1887,Green Gram (Moong),Rura,2017-02-10,3500.0,3.0,20.8,clear
+1888,Arhar (Tur/Red Gram),Choubepur,2017-03-10,4625.0,1.3,19.0,clear
+1889,Arhar (Tur/Red Gram),Kanpur(Grain),2017-03-10,3650.0,55.0,19.0,clear
+1890,Bengal Gram(Gram),Choubepur,2017-03-10,5600.0,1.7,19.0,clear
+1891,Bengal Gram(Gram),Kanpur(Grain),2017-03-10,5850.0,75.0,19.0,clear
+1892,Bengal Gram(Gram),Pukhrayan,2017-03-10,5700.0,1.0,19.0,clear
+1893,Black Gram (Urd Beans),Kanpur(Grain),2017-03-10,3800.0,50.0,19.0,clear
+1894,Green Gram (Moong),Kanpur(Grain),2017-03-10,4375.0,50.0,19.0,clear
+1895,Green Gram (Moong),Rura,2017-03-10,3500.0,3.0,19.0,clear
+1896,Lentil(Masur),Kanpur(Grain),2017-03-10,3700.0,105.0,19.0,clear
+1897,Arhar (Tur/Red Gram),Choubepur,2017-04-10,4600.0,1.4,34.2,clear
+1898,Arhar (Tur/Red Gram),Kanpur(Grain),2017-04-10,3675.0,50.0,34.2,clear
+1899,Bengal Gram(Gram),Choubepur,2017-04-10,5625.0,1.5,34.2,clear
+1900,Bengal Gram(Gram),Kanpur(Grain),2017-04-10,5875.0,65.0,34.2,clear
+1901,Bengal Gram(Gram),Pukhrayan,2017-04-10,5600.0,1.5,34.2,clear
+1902,Bengal Gram(Gram),Varipaal,2017-04-10,5800.0,0.2,34.2,clear
+1903,Black Gram (Urd Beans),Kanpur(Grain),2017-04-10,3825.0,45.0,34.2,clear
+1904,Green Gram (Moong),Kanpur(Grain),2017-04-10,4350.0,60.0,34.2,clear
+1905,Green Gram (Moong),Rura,2017-04-10,3500.0,3.0,34.2,clear
+1906,Lentil(Masur),Kanpur(Grain),2017-04-10,3650.0,115.0,34.2,clear
+1907,Arhar (Tur/Red Gram),Choubepur,2017-05-10,4625.0,1.6,34.6,clear
+1908,Arhar (Tur/Red Gram),Kanpur(Grain),2017-05-10,3685.0,45.0,34.6,clear
+1909,Bengal Gram(Gram),Choubepur,2017-05-10,5650.0,1.8,34.6,clear
+1910,Bengal Gram(Gram),Kanpur(Grain),2017-05-10,5860.0,70.0,34.6,clear
+1911,Bengal Gram(Gram),Pukhrayan,2017-05-10,5700.0,1.0,34.6,clear
+1912,Bengal Gram(Gram),Varipaal,2017-05-10,5800.0,0.2,34.6,clear
+1913,Black Gram (Urd Beans),Kanpur(Grain),2017-05-10,3815.0,55.0,34.6,clear
+1914,Green Gram (Moong),Kanpur(Grain),2017-05-10,4340.0,65.0,34.6,clear
+1915,Green Gram (Moong),Rura,2017-05-10,3500.0,3.0,34.6,clear
+1916,Lentil(Masur),Kanpur(Grain),2017-05-10,3625.0,105.0,34.6,clear
+1917,Arhar (Tur/Red Gram),Choubepur,2017-06-10,4650.0,1.5,39.4,clear
+1918,Arhar (Tur/Red Gram),Kanpur(Grain),2017-06-10,3700.0,50.0,39.4,clear
+1919,Bengal Gram(Gram),Choubepur,2017-06-10,5675.0,1.7,39.4,clear
+1920,Bengal Gram(Gram),Kanpur(Grain),2017-06-10,5870.0,65.0,39.4,clear
+1921,Bengal Gram(Gram),Pukhrayan,2017-06-10,5700.0,1.5,39.4,clear
+1922,Black Gram (Urd Beans),Kanpur(Grain),2017-06-10,3830.0,50.0,39.4,clear
+1923,Green Gram (Moong),Kanpur(Grain),2017-06-10,4360.0,60.0,39.4,clear
+1924,Green Gram (Moong),Rura,2017-06-10,3500.0,3.0,39.4,clear
+1925,Lentil(Masur),Kanpur(Grain),2017-06-10,3640.0,100.0,39.4,clear
+1926,Arhar (Tur/Red Gram),Choubepur,2017-07-10,4600.0,2.0,29.4,clear
+1927,Arhar (Tur/Red Gram),Kanpur(Grain),2017-07-10,3650.0,55.0,29.4,clear
+1928,Bengal Gram(Gram),Choubepur,2017-07-10,5700.0,1.2,29.4,clear
+1929,Bengal Gram(Gram),Kanpur(Grain),2017-07-10,5850.0,70.0,29.4,clear
+1930,Bengal Gram(Gram),Pukhrayan,2017-07-10,5600.0,1.5,29.4,clear
+1931,Black Gram (Urd Beans),Kanpur(Grain),2017-07-10,3800.0,60.0,29.4,clear
+1932,Green Gram (Moong),Kanpur(Grain),2017-07-10,4350.0,55.0,29.4,clear
+1933,Green Gram (Moong),Rura,2017-07-10,3500.0,5.0,29.4,clear
+1934,Lentil(Masur),Kanpur(Grain),2017-07-10,3660.0,95.0,29.4,clear
+1935,Arhar (Tur/Red Gram),Choubepur,2017-09-10,4625.0,1.4,35.4,clear
+1936,Arhar (Tur/Red Gram),Kanpur(Grain),2017-09-10,3675.0,45.0,35.4,clear
+1937,Bengal Gram(Gram),Choubepur,2017-09-10,5725.0,1.3,35.4,clear
+1938,Bengal Gram(Gram),Kanpur(Grain),2017-09-10,5900.0,60.0,35.4,clear
+1939,Black Gram (Urd Beans),Kanpur(Grain),2017-09-10,3840.0,45.0,35.4,clear
+1940,Green Gram (Moong),Kanpur(Grain),2017-09-10,4375.0,50.0,35.4,clear
+1941,Green Gram (Moong),Rura,2017-09-10,3500.0,3.0,35.4,clear
+1942,Lentil(Masur),Kanpur(Grain),2017-09-10,3675.0,85.0,35.4,clear
+1943,Arhar (Tur/Red Gram),Choubepur,2017-10-10,4650.0,1.2,34.8,clear
+1944,Arhar (Tur/Red Gram),Kanpur(Grain),2017-10-10,3700.0,60.0,34.8,clear
+1945,Bengal Gram(Gram),Choubepur,2017-10-10,5750.0,1.6,34.8,clear
+1946,Bengal Gram(Gram),Kanpur(Grain),2017-10-10,5875.0,65.0,34.8,clear
+1947,Bengal Gram(Gram),Pukhrayan,2017-10-10,5550.0,1.0,34.8,clear
+1948,Black Gram (Urd Beans),Kanpur(Grain),2017-10-10,3850.0,40.0,34.8,clear
+1949,Green Gram (Moong),Kanpur(Grain),2017-10-10,4360.0,60.0,34.8,clear
+1950,Green Gram (Moong),Rura,2017-10-10,3500.0,3.0,34.8,clear
+1951,Lentil(Masur),Kanpur(Grain),2017-10-10,3650.0,80.0,34.8,clear
+1952,Arhar (Tur/Red Gram),Choubepur,2017-11-10,4675.0,1.3,27.0,clear
+1953,Arhar (Tur/Red Gram),Kanpur(Grain),2017-11-10,3640.0,70.0,27.0,clear
+1954,Bengal Gram(Gram),Choubepur,2017-11-10,5775.0,1.4,27.0,clear
+1955,Bengal Gram(Gram),Kanpur(Grain),2017-11-10,5865.0,75.0,27.0,clear
+1956,Bengal Gram(Gram),Pukhrayan,2017-11-10,5600.0,1.5,27.0,clear
+1957,Bengal Gram(Gram),Varipaal,2017-11-10,5000.0,0.1,27.0,clear
+1958,Black Gram (Urd Beans),Kanpur(Grain),2017-11-10,3825.0,50.0,27.0,clear
+1959,Green Gram (Moong),Kanpur(Grain),2017-11-10,4350.0,65.0,27.0,clear
+1960,Green Gram (Moong),Rura,2017-11-10,3500.0,3.0,27.0,clear
+1961,Green Gram (Moong),Uttaripura,2017-11-10,4500.0,15.0,27.0,clear
+1962,Lentil(Masur),Kanpur(Grain),2017-11-10,3625.0,90.0,27.0,clear
+1963,Arhar (Tur/Red Gram),Choubepur,2017-12-10,4650.0,1.6,24.6,clear
+1964,Arhar (Tur/Red Gram),Kanpur(Grain),2017-12-10,3850.0,85.0,24.6,clear
+1965,Bengal Gram(Gram),Choubepur,2017-12-10,5800.0,1.5,24.6,clear
+1966,Bengal Gram(Gram),Kanpur(Grain),2017-12-10,5875.0,70.0,24.6,clear
+1967,Bengal Gram(Gram),Pukhrayan,2017-12-10,5600.0,3.0,24.6,clear
+1968,Black Gram (Urd Beans),Kanpur(Grain),2017-12-10,3840.0,60.0,24.6,clear
+1969,Green Gram (Moong),Kanpur(Grain),2017-12-10,4375.0,60.0,24.6,clear
+1970,Lentil(Masur),Kanpur(Grain),2017-12-10,3600.0,95.0,24.6,clear
+1971,Arhar (Tur/Red Gram),Choubepur,2017-10-13,4625.0,1.5,35.0,clear
+1972,Arhar (Tur/Red Gram),Kanpur(Grain),2017-10-13,3900.0,75.0,35.0,clear
+1973,Bengal Gram(Gram),Choubepur,2017-10-13,5800.0,1.8,35.0,clear
+1974,Bengal Gram(Gram),Kanpur(Grain),2017-10-13,5860.0,115.0,35.0,clear
+1975,Bengal Gram(Gram),Pukhrayan,2017-10-13,5600.0,1.0,35.0,clear
+1976,Black Gram (Urd Beans),Kanpur(Grain),2017-10-13,3800.0,70.0,35.0,clear
+1977,Green Gram (Moong),Kanpur(Grain),2017-10-13,4425.0,55.0,35.0,clear
+1978,Lentil(Masur),Kanpur(Grain),2017-10-13,3720.0,80.0,35.0,clear
+1979,Arhar (Tur/Red Gram),Choubepur,2017-10-14,4600.0,2.0,35.6,clear
+1980,Arhar (Tur/Red Gram),Kanpur(Grain),2017-10-14,3975.0,80.0,35.6,clear
+1981,Bengal Gram(Gram),Choubepur,2017-10-14,5825.0,1.7,35.6,clear
+1982,Bengal Gram(Gram),Kanpur(Grain),2017-10-14,5850.0,100.0,35.6,clear
+1983,Bengal Gram(Gram),Pukhrayan,2017-10-14,5650.0,12.0,35.6,clear
+1984,Black Gram (Urd Beans),Kanpur(Grain),2017-10-14,3825.0,65.0,35.6,clear
+1985,Green Gram (Moong),Kanpur(Grain),2017-10-14,4400.0,60.0,35.6,clear
+1986,Lentil(Masur),Kanpur(Grain),2017-10-14,3700.0,85.0,35.6,clear
+1987,Arhar (Tur/Red Gram),Choubepur,2017-10-16,4625.0,2.5,36.0,clear
+1988,Arhar (Tur/Red Gram),Kanpur(Grain),2017-10-16,3950.0,85.0,36.0,clear
+1989,Bengal Gram(Gram),Choubepur,2017-10-16,5850.0,2.0,36.0,clear
+1990,Bengal Gram(Gram),Kanpur(Grain),2017-10-16,5840.0,110.0,36.0,clear
+1991,Black Gram (Urd Beans),Kanpur(Grain),2017-10-16,3840.0,60.0,36.0,clear
+1992,Green Gram (Moong),Kanpur(Grain),2017-10-16,4435.0,50.0,36.0,clear
+1993,Lentil(Masur),Kanpur(Grain),2017-10-16,3725.0,75.0,36.0,clear
+1994,Arhar (Tur/Red Gram),Choubepur,2017-10-17,4650.0,1.8,31.8,clear
+1995,Arhar (Tur/Red Gram),Kanpur(Grain),2017-10-17,3850.0,90.0,31.8,clear
+1996,Bengal Gram(Gram),Choubepur,2017-10-17,5835.0,1.5,31.8,clear
+1997,Bengal Gram(Gram),Kanpur(Grain),2017-10-17,5700.0,85.0,31.8,clear
+1998,Bengal Gram(Gram),Pukhrayan,2017-10-17,5650.0,15.0,31.8,clear
+1999,Black Gram (Urd Beans),Kanpur(Grain),2017-10-17,3800.0,65.0,31.8,clear
+2000,Green Gram (Moong),Kanpur(Grain),2017-10-17,4400.0,60.0,31.8,clear
+2001,Lentil(Masur),Kanpur(Grain),2017-10-17,3650.0,85.0,31.8,clear
+2002,Arhar (Tur/Red Gram),Choubepur,2017-10-23,6000.0,1.0,24.6,clear
+2003,Arhar (Tur/Red Gram),Kanpur(Grain),2017-10-23,3760.0,75.0,24.6,clear
+2004,Bengal Gram(Gram),Choubepur,2017-10-23,5800.0,1.5,24.6,clear
+2005,Bengal Gram(Gram),Kanpur(Grain),2017-10-23,5725.0,75.0,24.6,clear
+2006,Black Gram (Urd Beans),Kanpur(Grain),2017-10-23,3865.0,40.0,24.6,clear
+2007,Green Gram (Moong),Kanpur(Grain),2017-10-23,4425.0,55.0,24.6,clear
+2008,Lentil(Masur),Kanpur(Grain),2017-10-23,3660.0,80.0,24.6,clear
+2009,Arhar (Tur/Red Gram),Choubepur,2017-10-24,4620.0,1.5,35.2,clear
+2010,Arhar (Tur/Red Gram),Kanpur(Grain),2017-10-24,3750.0,80.0,35.2,clear
+2011,Bengal Gram(Gram),Choubepur,2017-10-24,5775.0,1.4,35.2,clear
+2012,Bengal Gram(Gram),Kanpur(Grain),2017-10-24,5750.0,70.0,35.2,clear
+2013,Bengal Gram(Gram),Pukhrayan,2017-10-24,5800.0,1.0,35.2,clear
+2014,Black Gram (Urd Beans),Kanpur(Grain),2017-10-24,3875.0,50.0,35.2,clear
+2015,Green Gram (Moong),Kanpur(Grain),2017-10-24,4450.0,45.0,35.2,clear
+2016,Lentil(Masur),Kanpur(Grain),2017-10-24,3700.0,75.0,35.2,clear
+2017,Arhar (Tur/Red Gram),Choubepur,2017-10-25,4575.0,1.4,29.6,clear
+2018,Arhar (Tur/Red Gram),Kanpur(Grain),2017-10-25,3700.0,85.0,29.6,clear
+2019,Bengal Gram(Gram),Choubepur,2017-10-25,5750.0,1.6,29.6,clear
+2020,Bengal Gram(Gram),Kanpur(Grain),2017-10-25,5760.0,60.0,29.6,clear
+2021,Bengal Gram(Gram),Pukhrayan,2017-10-25,5800.0,1.5,29.6,clear
+2022,Black Gram (Urd Beans),Kanpur(Grain),2017-10-25,3800.0,35.0,29.6,clear
+2023,Green Gram (Moong),Kanpur(Grain),2017-10-25,4500.0,40.0,29.6,clear
+2024,Green Gram (Moong),Uttaripura,2017-10-25,4100.0,15.0,29.6,clear
+2025,Lentil(Masur),Kanpur(Grain),2017-10-25,3620.0,80.0,29.6,clear
+2026,Arhar (Tur/Red Gram),Choubepur,2017-10-26,4600.0,1.3,30.2,clear
+2027,Arhar (Tur/Red Gram),Kanpur(Grain),2017-10-26,3650.0,90.0,30.2,clear
+2028,Arhar (Tur/Red Gram),Varipaal,2017-10-26,3000.0,3.0,30.2,clear
+2029,Bengal Gram(Gram),Choubepur,2017-10-26,5775.0,1.4,30.2,clear
+2030,Bengal Gram(Gram),Kanpur(Grain),2017-10-26,5600.0,75.0,30.2,clear
+2031,Bengal Gram(Gram),Pukhrayan,2017-10-26,5800.0,14.0,30.2,clear
+2032,Bengal Gram(Gram),Varipaal,2017-10-26,4000.0,2.1,30.2,clear
+2033,Black Gram (Urd Beans),Kanpur(Grain),2017-10-26,3750.0,40.0,30.2,clear
+2034,Green Gram (Moong),Kanpur(Grain),2017-10-26,4450.0,45.0,30.2,clear
+2035,Green Gram (Moong),Varipaal,2017-10-26,3500.0,0.7,30.2,clear
+2036,Lentil(Masur),Kanpur(Grain),2017-10-26,3500.0,75.0,30.2,clear
+2037,Arhar (Tur/Red Gram),Choubepur,2017-10-27,4550.0,1.0,31.6,clear
+2038,Arhar (Tur/Red Gram),Kanpur(Grain),2017-10-27,3720.0,120.0,31.6,clear
+2039,Bengal Gram(Gram),Choubepur,2017-10-27,5775.0,1.4,31.6,clear
+2040,Bengal Gram(Gram),Kanpur(Grain),2017-10-27,5610.0,115.0,31.6,clear
+2041,Bengal Gram(Gram),Pukhrayan,2017-10-27,5880.0,6.0,31.6,clear
+2042,Black Gram (Urd Beans),Kanpur(Grain),2017-10-27,3800.0,95.0,31.6,clear
+2043,Green Gram (Moong),Kanpur(Grain),2017-10-27,4500.0,80.0,31.6,clear
+2044,Lentil(Masur),Kanpur(Grain),2017-10-27,3450.0,100.0,31.6,clear
+2045,Arhar (Tur/Red Gram),Choubepur,2017-10-28,4575.0,1.2,21.0,clear
+2046,Arhar (Tur/Red Gram),Kanpur(Grain),2017-10-28,3700.0,145.0,21.0,clear
+2047,Bengal Gram(Gram),Choubepur,2017-10-28,5800.0,1.6,21.0,clear
+2048,Bengal Gram(Gram),Kanpur(Grain),2017-10-28,5580.0,125.0,21.0,clear
+2049,Bengal Gram(Gram),Pukhrayan,2017-10-28,5880.0,4.0,21.0,clear
+2050,Black Gram (Urd Beans),Kanpur(Grain),2017-10-28,3850.0,65.0,21.0,clear
+2051,Green Gram (Moong),Kanpur(Grain),2017-10-28,4460.0,95.0,21.0,clear
+2052,Lentil(Masur),Kanpur(Grain),2017-10-28,3430.0,180.0,21.0,clear
+2053,Arhar (Tur/Red Gram),Choubepur,2017-10-30,4600.0,1.8,29.0,clear
+2054,Arhar (Tur/Red Gram),Kanpur(Grain),2017-10-30,3675.0,125.0,29.0,clear
+2055,Bengal Gram(Gram),Choubepur,2017-10-30,5825.0,2.0,29.0,clear
+2056,Bengal Gram(Gram),Kanpur(Grain),2017-10-30,5550.0,130.0,29.0,clear
+2057,Black Gram (Urd Beans),Kanpur(Grain),2017-10-30,3825.0,75.0,29.0,clear
+2058,Green Gram (Moong),Kanpur(Grain),2017-10-30,4475.0,85.0,29.0,clear
+2059,Lentil(Masur),Kanpur(Grain),2017-10-30,3400.0,200.0,29.0,clear
+2060,Arhar (Tur/Red Gram),Choubepur,2017-10-31,4625.0,1.7,29.2,clear
+2061,Arhar (Tur/Red Gram),Kanpur(Grain),2017-10-31,3715.0,95.0,29.2,clear
+2062,Bengal Gram(Gram),Choubepur,2017-10-31,5850.0,1.7,29.2,clear
+2063,Bengal Gram(Gram),Kanpur(Grain),2017-10-31,5550.0,130.0,29.2,clear
+2064,Bengal Gram(Gram),Pukhrayan,2017-10-31,5860.0,5.0,29.2,clear
+2065,Black Gram (Urd Beans),Kanpur(Grain),2017-10-31,3860.0,60.0,29.2,clear
+2066,Green Gram (Moong),Kanpur(Grain),2017-10-31,4450.0,90.0,29.2,clear
+2067,Lentil(Masur),Kanpur(Grain),2017-10-31,3450.0,185.0,29.2,clear
+2068,Arhar (Tur/Red Gram),Choubepur,2017-02-11,4575.0,1.8,22.4,clear
+2069,Arhar (Tur/Red Gram),Kanpur(Grain),2017-02-11,3625.0,80.0,22.4,clear
+2070,Arhar (Tur/Red Gram),Pukhrayan,2017-02-11,3560.0,4.0,22.4,clear
+2071,Bengal Gram(Gram),Choubepur,2017-02-11,5900.0,2.2,22.4,clear
+2072,Bengal Gram(Gram),Kanpur(Grain),2017-02-11,5650.0,80.0,22.4,clear
+2073,Bengal Gram(Gram),Pukhrayan,2017-02-11,5860.0,2.5,22.4,clear
+2074,Black Gram (Urd Beans),Kanpur(Grain),2017-02-11,3800.0,60.0,22.4,clear
+2075,Green Gram (Moong),Kanpur(Grain),2017-02-11,4450.0,85.0,22.4,clear
+2076,Lentil(Masur),Kanpur(Grain),2017-02-11,3560.0,90.0,22.4,clear
+2077,Arhar (Tur/Red Gram),Choubepur,2017-03-11,4550.0,1.7,25.0,clear
+2078,Arhar (Tur/Red Gram),Kanpur(Grain),2017-03-11,3650.0,90.0,25.0,clear
+2079,Arhar (Tur/Red Gram),Pukhrayan,2017-03-11,3540.0,5.0,25.0,clear
+2080,Bengal Gram(Gram),Choubepur,2017-03-11,5850.0,1.5,25.0,clear
+2081,Bengal Gram(Gram),Kanpur(Grain),2017-03-11,5600.0,85.0,25.0,clear
+2082,Bengal Gram(Gram),Pukhrayan,2017-03-11,5800.0,4.0,25.0,clear
+2083,Black Gram (Urd Beans),Kanpur(Grain),2017-03-11,3750.0,65.0,25.0,clear
+2084,Green Gram (Moong),Kanpur(Grain),2017-03-11,4475.0,70.0,25.0,clear
+2085,Green Gram (Moong),Pukhrayan,2017-03-11,4420.0,2.5,25.0,clear
+2086,Lentil(Masur),Kanpur(Grain),2017-03-11,3550.0,95.0,25.0,clear
+2087,Arhar (Tur/Red Gram),Kanpur(Grain),2017-01-02,5900.0,65.0,17.0,clear
+2088,Bengal Gram(Gram),Choubepur,2017-01-02,8250.0,1.0,17.0,clear
+2089,Bengal Gram(Gram),Kanpur(Grain),2017-01-02,8450.0,65.0,17.0,clear
+2090,Arhar (Tur/Red Gram),Kanpur(Grain),2017-02-02,5885.0,60.0,22.0,clear
+2091,Bengal Gram(Gram),Choubepur,2017-02-02,8225.0,1.5,22.0,clear
+2092,Bengal Gram(Gram),Kanpur(Grain),2017-02-02,8475.0,55.0,22.0,clear
+2093,Bengal Gram(Gram),Pukhrayan,2017-02-02,8500.0,1.5,22.0,clear
+2094,Arhar (Tur/Red Gram),Kanpur(Grain),2017-03-02,5850.0,75.0,27.8,clear
+2095,Bengal Gram(Gram),Choubepur,2017-03-02,8325.0,1.2,27.8,clear
+2096,Bengal Gram(Gram),Kanpur(Grain),2017-03-02,8460.0,70.0,27.8,clear
+2097,Bengal Gram(Gram),Pukhrayan,2017-03-02,8200.0,2.0,27.8,clear
+2098,Arhar (Tur/Red Gram),Kanpur(Grain),2017-04-02,5825.0,85.0,31.0,clear
+2099,Bengal Gram(Gram),Choubepur,2017-04-02,8300.0,1.3,31.0,clear
+2100,Bengal Gram(Gram),Kanpur(Grain),2017-04-02,8425.0,80.0,31.0,clear
+2101,Bengal Gram(Gram),Pukhrayan,2017-04-02,8100.0,2.0,31.0,clear
+2102,Arhar (Tur/Red Gram),Kanpur(Grain),2017-06-02,5800.0,90.0,40.0,clear
+2103,Bengal Gram(Gram),Choubepur,2017-06-02,8320.0,1.0,40.0,clear
+2104,Bengal Gram(Gram),Kanpur(Grain),2017-06-02,8400.0,60.0,40.0,clear
+2105,Arhar (Tur/Red Gram),Kanpur(Grain),2017-07-02,5815.0,80.0,28.2,clear
+2106,Bengal Gram(Gram),Choubepur,2017-07-02,8325.0,1.5,28.2,clear
+2107,Bengal Gram(Gram),Kanpur(Grain),2017-07-02,8450.0,70.0,28.2,clear
+2108,Bengal Gram(Gram),Pukhrayan,2017-07-02,2130.0,12.0,28.2,clear
+2109,Arhar (Tur/Red Gram),Kanpur(Grain),2017-08-02,5830.0,70.0,30.0,clear
+2110,Bengal Gram(Gram),Choubepur,2017-08-02,8350.0,1.8,30.0,clear
+2111,Bengal Gram(Gram),Kanpur(Grain),2017-08-02,8425.0,75.0,30.0,clear
+2112,Bengal Gram(Gram),Pukhrayan,2017-08-02,8200.0,1.0,30.0,clear
+2113,Arhar (Tur/Red Gram),Kanpur(Grain),2017-09-02,5800.0,65.0,32.2,clear
+2114,Bengal Gram(Gram),Choubepur,2017-09-02,8375.0,1.2,32.2,clear
+2115,Bengal Gram(Gram),Kanpur(Grain),2017-09-02,8400.0,50.0,32.2,clear
+2116,Bengal Gram(Gram),Pukhrayan,2017-09-02,8000.0,1.5,32.2,clear
+2117,Arhar (Tur/Red Gram),Kanpur(Grain),2017-10-02,5750.0,50.0,34.0,clear
+2118,Bengal Gram(Gram),Choubepur,2017-10-02,8350.0,1.0,34.0,clear
+2119,Bengal Gram(Gram),Kanpur(Grain),2017-10-02,8300.0,40.0,34.0,clear
+2120,Bengal Gram(Gram),Pukhrayan,2017-10-02,8100.0,1.5,34.0,clear
+2121,Arhar (Tur/Red Gram),Kanpur(Grain),2017-11-02,5700.0,55.0,29.6,clear
+2122,Bengal Gram(Gram),Choubepur,2017-11-02,8340.0,0.5,29.6,clear
+2123,Bengal Gram(Gram),Kanpur(Grain),2017-11-02,8275.0,45.0,29.6,clear
+2124,Bengal Gram(Gram),Pukhrayan,2017-11-02,8000.0,1.5,29.6,clear
+2125,Arhar (Tur/Red Gram),Kanpur(Grain),2017-02-13,5650.0,60.0,23.8,clear
+2126,Bengal Gram(Gram),Choubepur,2017-02-13,8325.0,1.5,23.8,clear
+2127,Bengal Gram(Gram),Kanpur(Grain),2017-02-13,8250.0,35.0,23.8,clear
+2128,Arhar (Tur/Red Gram),Kanpur(Grain),2017-02-14,5600.0,65.0,23.0,clear
+2129,Bengal Gram(Gram),Choubepur,2017-02-14,8300.0,1.6,23.0,clear
+2130,Bengal Gram(Gram),Kanpur(Grain),2017-02-14,8200.0,45.0,23.0,clear
+2131,Bengal Gram(Gram),Pukhrayan,2017-02-14,8000.0,1.5,23.0,clear
+2132,Arhar (Tur/Red Gram),Kanpur(Grain),2017-02-15,5500.0,70.0,23.8,clear
+2133,Bengal Gram(Gram),Choubepur,2017-02-15,8275.0,1.4,23.8,clear
+2134,Bengal Gram(Gram),Kanpur(Grain),2017-02-15,8000.0,40.0,23.8,clear
+2135,Bengal Gram(Gram),Pukhrayan,2017-02-15,8100.0,1.0,23.8,clear
+2136,Arhar (Tur/Red Gram),Kanpur(Grain),2017-02-16,5450.0,50.0,24.0,clear
+2137,Bengal Gram(Gram),Choubepur,2017-02-16,8250.0,1.2,24.0,clear
+2138,Bengal Gram(Gram),Kanpur(Grain),2017-02-16,7900.0,50.0,24.0,clear
+2139,Bengal Gram(Gram),Pukhrayan,2017-02-16,8000.0,1.5,24.0,clear
+2140,Arhar (Tur/Red Gram),Kanpur(Grain),2017-02-20,5400.0,20.0,29.6,clear
+2141,Bengal Gram(Gram),Choubepur,2017-02-20,8250.0,1.5,29.6,clear
+2142,Bengal Gram(Gram),Kanpur(Grain),2017-02-20,7850.0,25.0,29.6,clear
+2143,Arhar (Tur/Red Gram),Kanpur(Grain),2017-02-21,5425.0,25.0,25.8,clear
+2144,Bengal Gram(Gram),Choubepur,2017-02-21,8200.0,1.0,25.8,clear
+2145,Bengal Gram(Gram),Kanpur(Grain),2017-02-21,7875.0,20.0,25.8,clear
+2146,Bengal Gram(Gram),Pukhrayan,2017-02-21,8100.0,1.0,25.8,clear
+2147,Arhar (Tur/Red Gram),Kanpur(Grain),2017-02-22,5380.0,30.0,25.8,clear
+2148,Bengal Gram(Gram),Choubepur,2017-02-22,8000.0,1.8,25.8,clear
+2149,Bengal Gram(Gram),Kanpur(Grain),2017-02-22,7825.0,25.0,25.8,clear
+2150,Bengal Gram(Gram),Pukhrayan,2017-02-22,8100.0,1.5,25.8,clear
+2151,Arhar (Tur/Red Gram),Kanpur(Grain),2017-02-23,5350.0,50.0,24.0,clear
+2152,Bengal Gram(Gram),Choubepur,2017-02-23,7900.0,1.7,24.0,clear
+2153,Bengal Gram(Gram),Kanpur(Grain),2017-02-23,7800.0,50.0,24.0,clear
+2154,Bengal Gram(Gram),Pukhrayan,2017-02-23,8200.0,1.0,24.0,clear
+2155,Arhar (Tur/Red Gram),Kanpur(Grain),2017-02-24,5325.0,35.0,23.4,clear
+2156,Bengal Gram(Gram),Choubepur,2017-02-24,7825.0,1.5,23.4,clear
+2157,Bengal Gram(Gram),Kanpur(Grain),2017-02-24,7825.0,45.0,23.4,clear
+2158,Bengal Gram(Gram),Pukhrayan,2017-02-24,8200.0,1.5,23.4,clear
+2159,Bengal Gram(Gram),Rura,2017-02-24,8000.0,4.0,23.4,clear
+2160,Arhar (Tur/Red Gram),Kanpur(Grain),2017-02-25,5375.0,45.0,26.0,clear
+2161,Bengal Gram(Gram),Choubepur,2017-02-25,7700.0,1.2,26.0,clear
+2162,Bengal Gram(Gram),Kanpur(Grain),2017-02-25,7800.0,40.0,26.0,clear
+2163,Bengal Gram(Gram),Pukhrayan,2017-02-25,8100.0,1.5,26.0,clear
+2164,Arhar (Tur/Red Gram),Kanpur(Grain),2017-02-27,5100.0,45.0,27.2,clear
+2165,Bengal Gram(Gram),Choubepur,2017-02-27,7650.0,1.3,27.2,clear
+2166,Bengal Gram(Gram),Kanpur(Grain),2017-02-27,7500.0,40.0,27.2,clear
+2167,Arhar (Tur/Red Gram),Kanpur(Grain),2017-02-28,5150.0,40.0,29.0,clear
+2168,Bengal Gram(Gram),Choubepur,2017-02-28,7600.0,1.0,29.0,clear
+2169,Bengal Gram(Gram),Kanpur(Grain),2017-02-28,7600.0,55.0,29.0,clear
+2170,Bengal Gram(Gram),Pukhrayan,2017-02-28,8100.0,1.0,29.0,clear
+2171,Arhar (Tur/Red Gram),Kanpur(Grain),2017-01-03,5200.0,50.0,18.2,clear
+2172,Bengal Gram(Gram),Choubepur,2017-01-03,7550.0,1.5,18.2,clear
+2173,Bengal Gram(Gram),Kanpur(Grain),2017-01-03,7625.0,45.0,18.2,clear
+2174,Bengal Gram(Gram),Pukhrayan,2017-01-03,8000.0,1.5,18.2,clear
+2175,Arhar (Tur/Red Gram),Kanpur(Grain),2017-02-03,5180.0,60.0,13.6,clear
+2176,Bengal Gram(Gram),Choubepur,2017-02-03,7525.0,1.3,13.6,clear
+2177,Bengal Gram(Gram),Kanpur(Grain),2017-02-03,7650.0,50.0,13.6,clear
+2178,Bengal Gram(Gram),Pukhrayan,2017-02-03,7800.0,1.5,13.6,clear
+2179,Arhar (Tur/Red Gram),Kanpur(Grain),2017-03-03,5150.0,65.0,26.0,clear
+2180,Bengal Gram(Gram),Choubepur,2017-03-03,7500.0,1.2,26.0,clear
+2181,Bengal Gram(Gram),Kanpur(Grain),2017-03-03,7625.0,55.0,26.0,clear
+2182,Bengal Gram(Gram),Pukhrayan,2017-03-03,7700.0,1.5,26.0,clear
+2183,Arhar (Tur/Red Gram),Kanpur(Grain),2017-04-03,5100.0,75.0,39.0,clear
+2184,Bengal Gram(Gram),Choubepur,2017-04-03,7475.0,1.5,39.0,clear
+2185,Bengal Gram(Gram),Kanpur(Grain),2017-04-03,7500.0,65.0,39.0,clear
+2186,Bengal Gram(Gram),Pukhrayan,2017-04-03,7500.0,1.5,39.0,clear
+2187,Arhar (Tur/Red Gram),Kanpur(Grain),2017-06-03,5125.0,65.0,43.8,clear
+2188,Bengal Gram(Gram),Choubepur,2017-06-03,7480.0,1.0,43.8,clear
+2189,Bengal Gram(Gram),Kanpur(Grain),2017-06-03,7450.0,50.0,43.8,clear
+2190,Arhar (Tur/Red Gram),Kanpur(Grain),2017-07-03,5000.0,70.0,29.2,clear
+2191,Bengal Gram(Gram),Choubepur,2017-07-03,7500.0,1.2,29.2,clear
+2192,Bengal Gram(Gram),Kanpur(Grain),2017-07-03,7300.0,45.0,29.2,clear
+2193,Bengal Gram(Gram),Pukhrayan,2017-07-03,7300.0,1.5,29.2,clear
+2194,Arhar (Tur/Red Gram),Kanpur(Grain),2017-08-03,4925.0,65.0,31.8,clear
+2195,Bengal Gram(Gram),Choubepur,2017-08-03,7525.0,1.3,31.8,clear
+2196,Bengal Gram(Gram),Kanpur(Grain),2017-08-03,7000.0,50.0,31.8,clear
+2197,Bengal Gram(Gram),Pukhrayan,2017-08-03,7400.0,1.0,31.8,clear
+2198,Arhar (Tur/Red Gram),Kanpur(Grain),2017-09-03,4900.0,50.0,32.2,clear
+2199,Bengal Gram(Gram),Choubepur,2017-09-03,7550.0,1.5,32.2,clear
+2200,Bengal Gram(Gram),Kanpur(Grain),2017-09-03,6850.0,40.0,32.2,clear
+2201,Bengal Gram(Gram),Pukhrayan,2017-09-03,7300.0,1.0,32.2,clear
+2202,Arhar (Tur/Red Gram),Kanpur(Grain),2017-10-03,4850.0,60.0,34.0,clear
+2203,Bengal Gram(Gram),Choubepur,2017-10-03,7550.0,1.0,34.0,clear
+2204,Bengal Gram(Gram),Kanpur(Grain),2017-10-03,6800.0,45.0,34.0,clear
+2205,Bengal Gram(Gram),Pukhrayan,2017-10-03,7200.0,1.0,34.0,clear
+2206,Arhar (Tur/Red Gram),Kanpur(Grain),2017-03-20,4800.0,45.0,30.2,clear
+2207,Bengal Gram(Gram),Choubepur,2017-03-20,7350.0,1.5,30.2,clear
+2208,Bengal Gram(Gram),Kanpur(Grain),2017-03-20,6200.0,35.0,30.2,clear
+2209,Arhar (Tur/Red Gram),Kanpur(Grain),2017-03-21,4500.0,50.0,21.6,clear
+2210,Bengal Gram(Gram),Choubepur,2017-03-21,7325.0,1.8,21.6,clear
+2211,Bengal Gram(Gram),Kanpur(Grain),2017-03-21,6000.0,40.0,21.6,clear
+2212,Bengal Gram(Gram),Pukhrayan,2017-03-21,6600.0,1.5,21.6,clear
+2213,Arhar (Tur/Red Gram),Kanpur(Grain),2017-03-22,4450.0,70.0,34.0,clear
+2214,Bengal Gram(Gram),Choubepur,2017-03-22,7300.0,1.7,34.0,clear
+2215,Bengal Gram(Gram),Kanpur(Grain),2017-03-22,5950.0,45.0,34.0,clear
+2216,Bengal Gram(Gram),Pukhrayan,2017-03-22,6700.0,1.0,34.0,clear
+2217,Arhar (Tur/Red Gram),Kanpur(Grain),2017-03-23,4350.0,75.0,34.2,clear
+2218,Bengal Gram(Gram),Choubepur,2017-03-23,7250.0,1.5,34.2,clear
+2219,Bengal Gram(Gram),Kanpur(Grain),2017-03-23,5850.0,50.0,34.2,clear
+2220,Bengal Gram(Gram),Pukhrayan,2017-03-23,6800.0,1.0,34.2,clear
+2221,Arhar (Tur/Red Gram),Kanpur(Grain),2017-03-24,4375.0,60.0,27.6,clear
+2222,Bengal Gram(Gram),Choubepur,2017-03-24,6800.0,2.5,27.6,clear
+2223,Bengal Gram(Gram),Kanpur(Grain),2017-03-24,5660.0,70.0,27.6,clear
+2224,Bengal Gram(Gram),Pukhrayan,2017-03-24,6800.0,1.5,27.6,clear
+2225,Arhar (Tur/Red Gram),Kanpur(Grain),2017-03-25,4300.0,65.0,34.6,clear
+2226,Bengal Gram(Gram),Choubepur,2017-03-25,6400.0,2.0,34.6,clear
+2227,Bengal Gram(Gram),Kanpur(Grain),2017-03-25,5675.0,90.0,34.6,clear
+2228,Bengal Gram(Gram),Pukhrayan,2017-03-25,6700.0,1.5,34.6,clear
+2229,Arhar (Tur/Red Gram),Kanpur(Grain),2017-03-27,4340.0,60.0,36.4,clear
+2230,Bengal Gram(Gram),Choubepur,2017-03-27,5800.0,2.5,36.4,clear
+2231,Bengal Gram(Gram),Kanpur(Grain),2017-03-27,5650.0,80.0,36.4,clear
+2232,Arhar (Tur/Red Gram),Kanpur(Grain),2017-03-28,4300.0,70.0,28.2,clear
+2233,Bengal Gram(Gram),Choubepur,2017-03-28,5700.0,2.0,28.2,clear
+2234,Bengal Gram(Gram),Kanpur(Grain),2017-03-28,5675.0,65.0,28.2,clear
+2235,Bengal Gram(Gram),Pukhrayan,2017-03-28,6650.0,2.0,28.2,clear
+2236,Arhar (Tur/Red Gram),Kanpur(Grain),2017-03-31,4275.0,80.0,39.0,clear
+2237,Bengal Gram(Gram),Choubepur,2017-03-31,5500.0,1.8,39.0,clear
+2238,Bengal Gram(Gram),Kanpur(Grain),2017-03-31,5600.0,75.0,39.0,clear
+2239,Bengal Gram(Gram),Pukhrayan,2017-03-31,6800.0,1.0,39.0,clear
+2240,Bengal Gram(Gram),Rura,2017-03-31,7040.0,17.0,39.0,clear
+2241,Arhar (Tur/Red Gram),Kanpur(Grain),2017-03-07,4100.0,120.0,29.0,clear
+2242,Bengal Gram(Gram),Kanpur(Grain),2017-03-07,5675.0,110.0,29.0,clear
+2243,Arhar (Tur/Red Gram),Kanpur(Grain),2017-10-18,3825.0,80.0,34.0,clear
+2244,Bengal Gram(Gram),Kanpur(Grain),2017-10-18,5675.0,75.0,34.0,clear
+2245,Bengal Gram(Gram),Pukhrayan,2017-10-18,5650.0,15.0,34.0,clear
+2246,Bengal Gram(Gram),Varipaal,2017-10-18,4000.0,0.2,34.0,clear
+2247,Black Gram (Urd Beans),Kanpur(Grain),2017-10-18,3825.0,55.0,34.0,clear
+2248,Green Gram (Moong),Kanpur(Grain),2017-10-18,4425.0,50.0,34.0,clear
+2249,Lentil(Masur),Kanpur(Grain),2017-10-18,3625.0,80.0,34.0,clear
+2250,Arhar (Tur/Red Gram),Kanpur(Grain),2017-10-19,3800.0,70.0,32.4,clear
+2251,Bengal Gram(Gram),Kanpur(Grain),2017-10-19,5650.0,70.0,32.4,clear
+2252,Bengal Gram(Gram),Pukhrayan,2017-10-19,5800.0,5.0,32.4,clear
+2253,Black Gram (Urd Beans),Kanpur(Grain),2017-10-19,3850.0,45.0,32.4,clear
+2254,Green Gram (Moong),Kanpur(Grain),2017-10-19,4450.0,70.0,32.4,clear
+2255,Lentil(Masur),Kanpur(Grain),2017-10-19,3600.0,70.0,32.4,clear
+2256,Arhar (Tur/Red Gram),Varipaal,2017-06-18,5500.0,0.1,37.4,clear
+2257,Bengal Gram(Gram),Pukhrayan,2017-06-18,5300.0,1.5,37.4,clear
+2258,Black Gram (Urd Beans),Varipaal,2017-06-18,5000.0,0.2,37.4,clear
+2259,Green Gram (Moong),Jhijhank,2017-06-18,4060.0,10.0,37.4,clear
+2260,Green Gram (Moong),Uttaripura,2017-06-18,3700.0,16.0,37.4,clear
+2261,Green Gram (Moong),Varipaal,2017-06-18,4000.0,2.3,37.4,clear
+2262,Arhar (Tur/Red Gram),Varipaal,2017-09-07,5000.0,0.1,34.2,clear
+2263,Black Gram (Urd Beans),Uttaripura,2017-09-07,4500.0,3.5,34.2,clear
+2264,Green Gram (Moong),Varipaal,2017-09-07,3800.0,2.5,34.2,clear
+2265,Arhar (Tur/Red Gram),Varipaal,2017-03-09,3000.0,0.2,28.0,clear
+2266,Bengal Gram(Gram),Pukhrayan,2017-03-09,5100.0,1.5,28.0,clear
+2267,Bengal Gram(Gram),Choubepur,2017-02-17,8200.0,1.3,25.0,clear
+2268,Bengal Gram(Gram),Pukhrayan,2017-02-17,8000.0,2.0,25.0,clear
+2269,Bengal Gram(Gram),Choubepur,2017-02-18,8225.0,1.2,25.2,clear
+2270,Bengal Gram(Gram),Choubepur,2017-11-03,7525.0,1.5,28.2,clear
+2271,Bengal Gram(Gram),Pukhrayan,2017-11-03,7100.0,1.5,28.2,clear
+2272,Bengal Gram(Gram),Choubepur,2017-03-14,7500.0,0.5,17.6,clear
+2273,Bengal Gram(Gram),Pukhrayan,2017-03-14,7100.0,1.5,17.6,clear
+2274,Bengal Gram(Gram),Choubepur,2017-03-15,7475.0,0.8,27.2,clear
+2275,Bengal Gram(Gram),Pukhrayan,2017-03-15,7000.0,1.5,27.2,clear
+2276,Bengal Gram(Gram),Choubepur,2017-03-16,7400.0,1.2,30.0,clear
+2277,Bengal Gram(Gram),Pukhrayan,2017-03-16,7000.0,1.0,30.0,clear
+2278,Bengal Gram(Gram),Choubepur,2017-03-17,7375.0,1.0,29.4,clear
+2279,Bengal Gram(Gram),Pukhrayan,2017-03-17,7100.0,1.0,29.4,clear
+2280,Bengal Gram(Gram),Choubepur,2017-03-18,7350.0,2.0,28.2,clear
+2281,Bengal Gram(Gram),Pukhrayan,2017-03-18,6800.0,1.5,28.2,clear
+2282,Bengal Gram(Gram),Choubepur,2017-03-30,5600.0,1.7,38.2,clear
+2283,Bengal Gram(Gram),Kanpur(Grain),2017-03-30,5660.0,70.0,38.2,clear
+2284,Bengal Gram(Gram),Pukhrayan,2017-03-30,6700.0,1.5,38.2,clear
+2285,Bengal Gram(Gram),Pukhrayan,2017-08-01,9500.0,1.0,31.6,clear
+2286,Bengal Gram(Gram),Pukhrayan,2017-01-15,8800.0,15.0,19.2,clear
+2287,Bengal Gram(Gram),Pukhrayan,2017-01-29,8300.0,1.5,19.0,clear
+2288,Bengal Gram(Gram),Pukhrayan,2017-05-02,8000.0,2.5,38.6,clear
+2289,Bengal Gram(Gram),Pukhrayan,2017-12-02,8100.0,1.0,23.2,clear
+2290,Bengal Gram(Gram),Pukhrayan,2017-02-26,8000.0,1.5,25.4,clear
+2291,Bengal Gram(Gram),Pukhrayan,2017-05-03,7400.0,1.0,36.6,clear
+2292,Bengal Gram(Gram),Pukhrayan,2017-12-03,2130.0,11.0,21.2,clear
+2293,Bengal Gram(Gram),Pukhrayan,2017-03-19,6700.0,1.5,28.0,clear
+2294,Bengal Gram(Gram),Pukhrayan,2017-03-26,6600.0,1.5,34.8,clear
+2295,Bengal Gram(Gram),Pukhrayan,2017-02-04,6800.0,1.0,22.0,clear
+2296,Bengal Gram(Gram),Pukhrayan,2017-09-04,6500.0,1.5,29.0,clear
+2297,Bengal Gram(Gram),Pukhrayan,2017-04-16,6250.0,1.5,36.0,clear
+2298,Bengal Gram(Gram),Pukhrayan,2017-04-23,5800.0,3.0,32.0,clear
+2299,Bengal Gram(Gram),Pukhrayan,2017-04-30,5800.0,1.5,37.2,clear
+2300,Bengal Gram(Gram),Pukhrayan,2017-05-14,5700.0,2.5,43.0,clear
+2301,Bengal Gram(Gram),Pukhrayan,2017-05-21,5500.0,3.0,40.4,clear
+2302,Bengal Gram(Gram),Pukhrayan,2017-05-28,5550.0,2.0,34.0,clear
+2303,Bengal Gram(Gram),Pukhrayan,2017-11-06,5400.0,1.5,28.0,clear
+2304,Green Gram (Moong),Jhijhank,2017-11-06,3900.0,1.0,28.0,clear
+2305,Bengal Gram(Gram),Pukhrayan,2017-06-25,5350.0,1.0,33.6,clear
+2306,Green Gram (Moong),Uttaripura,2017-06-25,3500.0,21.0,33.6,clear
+2307,Bengal Gram(Gram),Pukhrayan,2017-02-07,5500.0,1.0,21.0,clear
+2308,Bengal Gram(Gram),Pukhrayan,2017-07-16,5300.0,1.0,35.0,clear
+2309,Green Gram (Moong),Varipaal,2017-07-16,3750.0,1.8,35.0,clear
+2310,Bengal Gram(Gram),Pukhrayan,2017-07-23,5100.0,1.5,29.2,clear
+2311,Green Gram (Moong),Jhijhank,2017-07-23,4095.0,8.0,29.2,clear
+2312,Green Gram (Moong),Rura,2017-07-23,3700.0,3.0,29.2,clear
+2313,Green Gram (Moong),Varipaal,2017-07-23,3600.0,1.4,29.2,clear
+2314,Bengal Gram(Gram),Pukhrayan,2017-07-30,5100.0,2.5,33.0,clear
+2315,Green Gram (Moong),Rura,2017-07-30,3700.0,2.0,33.0,clear
+2316,Green Gram (Moong),Varipaal,2017-07-30,3400.0,1.4,33.0,clear
+2317,Bengal Gram(Gram),Pukhrayan,2017-06-08,4800.0,1.5,38.0,clear
+2318,Green Gram (Moong),Rura,2017-06-08,3700.0,5.0,38.0,clear
+2319,Bengal Gram(Gram),Pukhrayan,2017-08-13,4700.0,1.5,32.0,clear
+2320,Green Gram (Moong),Rura,2017-08-13,3700.0,5.0,32.0,clear
+2321,Bengal Gram(Gram),Pukhrayan,2017-08-20,4800.0,1.0,33.0,clear
+2322,Green Gram (Moong),Rura,2017-08-20,3700.0,5.0,33.0,clear
+2323,Bengal Gram(Gram),Pukhrayan,2017-08-27,5000.0,1.5,29.0,clear
+2324,Bengal Gram(Gram),Pukhrayan,2017-10-09,5300.0,1.5,35.6,clear
+2325,Green Gram (Moong),Rura,2017-10-09,3700.0,3.0,35.6,clear
+2326,Bengal Gram(Gram),Pukhrayan,2017-09-17,5400.0,1.5,31.2,clear
+2327,Green Gram (Moong),Rura,2017-09-17,3500.0,5.0,31.2,clear
+2328,Bengal Gram(Gram),Pukhrayan,2017-09-24,5480.0,1.0,31.0,clear
+2329,Green Gram (Moong),Rura,2017-09-24,3500.0,5.0,31.0,clear
+2330,Bengal Gram(Gram),Pukhrayan,2017-01-10,5700.0,1.0,12.4,clear
+2331,Green Gram (Moong),Rura,2017-01-10,3500.0,3.0,12.4,clear
+2332,Bengal Gram(Gram),Pukhrayan,2017-08-10,5500.0,1.5,29.0,clear
+2333,Black Gram (Urd Beans),Varipaal,2017-08-10,6000.0,0.1,29.0,clear
+2334,Bengal Gram(Gram),Pukhrayan,2017-10-15,5660.0,14.0,33.8,clear
+2335,Bengal Gram(Gram),Varipaal,2017-10-15,4000.0,0.2,33.8,clear
+2336,Bengal Gram(Gram),Pukhrayan,2017-10-21,5700.0,2.0,35.4,clear
+2337,Bengal Gram(Gram),Pukhrayan,2017-10-22,5800.0,4.0,30.0,clear
+2338,Bengal Gram(Gram),Pukhrayan,2017-10-29,5880.0,6.0,31.6,clear
+2339,Green Gram (Moong),Jhijhank,2017-08-15,4000.0,7.0,34.0,clear
+2340,Green Gram (Moong),Rura,2017-08-15,3700.0,2.0,34.0,clear

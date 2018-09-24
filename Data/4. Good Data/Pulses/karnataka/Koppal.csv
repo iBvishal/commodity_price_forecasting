@@ -1,0 +1,1920 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Gangavathi,2012-02-11,3850.0,0.0,33.2,clear
+1,Arhar (Tur/Red Gram),Koppal,2012-02-01,2090.0,2.0,28.2,clear
+2,Arhar (Tur/Red Gram),Koppal,2012-05-01,1509.0,0.0,36.6,clear
+3,Black Gram (Urd Beans),Koppal,2012-05-01,2009.0,0.0,36.6,clear
+4,Arhar (Tur/Red Gram),Koppal,2012-09-01,2579.0,0.0,28.2,clear
+5,Arhar (Tur/Red Gram),Koppal,2012-01-16,2200.0,2.0,29.6,clear
+6,Arhar (Tur/Red Gram),Koppal,2012-01-19,2240.0,1.0,29.8,clear
+7,Arhar (Tur/Red Gram),Koppal,2012-01-23,2200.0,1.0,29.2,clear
+8,Bengal Gram(Gram),Koppal,2012-01-23,3010.0,1.0,29.2,clear
+9,Arhar (Tur/Red Gram),Koppal,2012-01-27,2936.0,2.0,30.0,clear
+10,Bengal Gram(Gram),Koppal,2012-01-27,2688.0,0.0,30.0,clear
+11,Arhar (Tur/Red Gram),Koppal,2012-01-28,2936.0,0.0,29.2,clear
+12,Bengal Gram(Gram),Koppal,2012-01-28,2688.0,0.0,29.2,clear
+13,Arhar (Tur/Red Gram),Koppal,2012-01-30,1929.0,2.0,29.6,clear
+14,Arhar (Tur/Red Gram),Koppal,2012-02-02,1890.0,0.0,29.4,clear
+15,Bengal Gram(Gram),Koppal,2012-02-02,3009.0,0.0,29.4,clear
+16,Green Gram (Moong),Koppal,2012-02-02,3750.0,0.0,29.4,clear
+17,Arhar (Tur/Red Gram),Koppal,2012-06-02,1980.0,0.0,35.6,clear
+18,Bengal Gram(Gram),Koppal,2012-06-02,2930.0,0.0,35.6,clear
+19,Arhar (Tur/Red Gram),Koppal,2012-09-02,2396.0,0.0,29.6,clear
+20,Arhar (Tur/Red Gram),Koppal,2012-10-02,2396.0,0.0,26.6,clear
+21,Arhar (Tur/Red Gram),Koppal,2012-02-16,2308.0,0.0,32.0,clear
+22,Bengal Gram(Gram),Koppal,2012-02-16,1669.0,0.0,32.0,clear
+23,Green Gram (Moong),Koppal,2012-02-16,3829.0,0.0,32.0,clear
+24,Arhar (Tur/Red Gram),Koppal,2012-02-21,2352.0,0.0,34.0,clear
+25,Black Gram (Urd Beans),Koppal,2012-02-21,3610.0,0.0,34.0,clear
+26,Arhar (Tur/Red Gram),Koppal,2012-02-22,2352.0,0.0,34.4,clear
+27,Black Gram (Urd Beans),Koppal,2012-02-22,3610.0,0.0,34.4,clear
+28,Arhar (Tur/Red Gram),Koppal,2012-02-23,2045.0,0.0,33.2,clear
+29,Bengal Gram(Gram),Koppal,2012-02-23,2930.0,0.0,33.2,clear
+30,Green Gram (Moong),Koppal,2012-02-23,3109.0,0.0,33.2,clear
+31,Arhar (Tur/Red Gram),Koppal,2012-02-27,1710.0,0.0,35.2,clear
+32,Bengal Gram(Gram),Koppal,2012-02-27,3180.0,0.0,35.2,clear
+33,Black Gram (Urd Beans),Koppal,2012-02-27,3859.0,0.0,35.2,clear
+34,Green Gram (Moong),Koppal,2012-02-27,3186.0,0.0,35.2,clear
+35,Arhar (Tur/Red Gram),Koppal,2012-01-03,1609.0,0.0,30.6,clear
+36,Black Gram (Urd Beans),Koppal,2012-01-03,3860.0,0.0,30.6,clear
+37,Green Gram (Moong),Koppal,2012-01-03,3833.0,0.0,30.6,clear
+38,Arhar (Tur/Red Gram),Koppal,2012-05-03,2810.0,0.0,37.0,clear
+39,Bengal Gram(Gram),Koppal,2012-05-03,3229.0,4.0,37.0,clear
+40,Black Gram (Urd Beans),Koppal,2012-05-03,3175.0,0.0,37.0,clear
+41,Green Gram (Moong),Koppal,2012-05-03,4248.0,0.0,37.0,clear
+42,Arhar (Tur/Red Gram),Koppal,2012-12-03,1609.0,0.0,29.6,clear
+43,Bengal Gram(Gram),Koppal,2012-12-03,3293.0,2.0,29.6,clear
+44,Green Gram (Moong),Koppal,2012-12-03,2735.0,1.0,29.6,clear
+45,Arhar (Tur/Red Gram),Koppal,2012-02-04,2160.0,0.0,29.8,clear
+46,Bengal Gram(Gram),Koppal,2012-02-04,3456.0,2.0,29.8,clear
+47,Black Gram (Urd Beans),Koppal,2012-02-04,3415.0,0.0,29.8,clear
+48,Green Gram (Moong),Koppal,2012-02-04,4142.0,2.0,29.8,clear
+49,Arhar (Tur/Red Gram),Koppal,2012-09-04,2002.0,0.0,26.6,clear
+50,Bengal Gram(Gram),Koppal,2012-09-04,3404.0,2.0,26.6,clear
+51,Black Gram (Urd Beans),Koppal,2012-09-04,3155.0,1.0,26.6,clear
+52,Green Gram (Moong),Koppal,2012-09-04,3160.0,1.0,26.6,clear
+53,Arhar (Tur/Red Gram),Koppal,2012-07-05,1502.0,0.0,29.6,clear
+54,Bengal Gram(Gram),Koppal,2012-07-05,3361.0,1.0,29.6,clear
+55,Black Gram (Urd Beans),Koppal,2012-07-05,3070.0,4.0,29.6,clear
+56,Green Gram (Moong),Koppal,2012-07-05,4501.0,0.0,29.6,clear
+57,Arhar (Tur/Red Gram),Koppal,2012-05-24,1601.0,0.0,37.0,clear
+58,Bengal Gram(Gram),Koppal,2012-05-24,3729.0,0.0,37.0,clear
+59,Black Gram (Urd Beans),Koppal,2012-05-24,3164.0,16.0,37.0,clear
+60,Green Gram (Moong),Koppal,2012-05-24,5245.0,0.0,37.0,clear
+61,Arhar (Tur/Red Gram),Koppal,2012-06-21,1509.0,0.0,30.6,clear
+62,Black Gram (Urd Beans),Koppal,2012-06-21,3136.0,25.0,30.6,clear
+63,Green Gram (Moong),Koppal,2012-06-21,3130.0,1.0,30.6,clear
+64,Arhar (Tur/Red Gram),Koppal,2012-05-11,1611.0,0.0,33.8,clear
+65,Arhar (Tur/Red Gram),Koppal,2012-12-31,2245.0,0.0,31.0,clear
+66,Bengal Gram(Gram),Koppal,2012-02-13,2950.0,0.0,32.4,clear
+67,Black Gram (Urd Beans),Koppal,2012-02-13,3758.0,0.0,32.4,clear
+68,Bengal Gram(Gram),Koppal,2012-08-03,3070.0,3.0,25.2,clear
+69,Black Gram (Urd Beans),Koppal,2012-08-03,3559.0,0.0,25.2,clear
+70,Green Gram (Moong),Koppal,2012-08-03,3260.0,0.0,25.2,clear
+71,Bengal Gram(Gram),Koppal,2012-03-15,3231.0,8.0,34.6,clear
+72,Green Gram (Moong),Koppal,2012-03-15,3169.0,0.0,34.6,clear
+73,Bengal Gram(Gram),Koppal,2012-03-19,3514.0,2.0,36.8,clear
+74,Black Gram (Urd Beans),Koppal,2012-03-19,3281.0,0.0,36.8,clear
+75,Green Gram (Moong),Koppal,2012-03-19,3141.0,0.0,36.8,clear
+76,Bengal Gram(Gram),Koppal,2012-03-22,3450.0,0.0,37.2,clear
+77,Black Gram (Urd Beans),Koppal,2012-03-22,3520.0,0.0,37.2,clear
+78,Green Gram (Moong),Koppal,2012-03-22,1800.0,0.0,37.2,clear
+79,Bengal Gram(Gram),Koppal,2012-03-27,3532.0,3.0,37.2,clear
+80,Black Gram (Urd Beans),Koppal,2012-03-27,3669.0,0.0,37.2,clear
+81,Green Gram (Moong),Koppal,2012-03-27,2719.0,1.0,37.2,clear
+82,Bengal Gram(Gram),Koppal,2012-03-28,3532.0,0.0,37.0,clear
+83,Black Gram (Urd Beans),Koppal,2012-03-28,3669.0,0.0,37.0,clear
+84,Green Gram (Moong),Koppal,2012-03-28,2719.0,0.0,37.0,clear
+85,Bengal Gram(Gram),Koppal,2012-03-29,3181.0,2.0,36.4,clear
+86,Black Gram (Urd Beans),Koppal,2012-03-29,2955.0,0.0,36.4,clear
+87,Bengal Gram(Gram),Koppal,2012-05-04,3336.0,1.0,36.0,clear
+88,Black Gram (Urd Beans),Koppal,2012-05-04,3266.0,0.0,36.0,clear
+89,Green Gram (Moong),Koppal,2012-05-04,3002.0,0.0,36.0,clear
+90,Bengal Gram(Gram),Koppal,2012-12-04,3375.0,1.0,29.6,clear
+91,Black Gram (Urd Beans),Koppal,2012-12-04,3310.0,0.0,29.6,clear
+92,Green Gram (Moong),Koppal,2012-12-04,5356.0,0.0,29.6,clear
+93,Bengal Gram(Gram),Koppal,2012-04-16,3333.0,0.0,33.2,clear
+94,Black Gram (Urd Beans),Koppal,2012-04-16,3156.0,0.0,33.2,clear
+95,Green Gram (Moong),Koppal,2012-04-16,4320.0,0.0,33.2,clear
+96,Bengal Gram(Gram),Koppal,2012-04-19,3469.0,1.0,34.0,clear
+97,Black Gram (Urd Beans),Koppal,2012-04-19,3290.0,0.0,34.0,clear
+98,Green Gram (Moong),Koppal,2012-04-19,5303.0,0.0,34.0,clear
+99,Bengal Gram(Gram),Koppal,2012-04-23,3250.0,0.0,36.4,rain
+100,Black Gram (Urd Beans),Koppal,2012-04-23,3200.0,1.0,36.4,rain
+101,Green Gram (Moong),Koppal,2012-04-23,3371.0,0.0,36.4,rain
+102,Bengal Gram(Gram),Koppal,2012-04-26,3668.0,0.0,32.6,clear
+103,Black Gram (Urd Beans),Koppal,2012-04-26,3156.0,2.0,32.6,clear
+104,Green Gram (Moong),Koppal,2012-04-26,3356.0,0.0,32.6,clear
+105,Bengal Gram(Gram),Koppal,2012-04-30,3534.0,0.0,36.0,clear
+106,Black Gram (Urd Beans),Koppal,2012-04-30,2913.0,1.0,36.0,clear
+107,Green Gram (Moong),Koppal,2012-04-30,3467.0,0.0,36.0,clear
+108,Bengal Gram(Gram),Koppal,2012-03-05,3502.0,0.0,35.6,clear
+109,Black Gram (Urd Beans),Koppal,2012-03-05,2689.0,2.0,35.6,clear
+110,Green Gram (Moong),Koppal,2012-03-05,4298.0,0.0,35.6,clear
+111,Bengal Gram(Gram),Koppal,2012-10-05,3584.0,0.0,27.6,clear
+112,Black Gram (Urd Beans),Koppal,2012-10-05,3405.0,2.0,27.6,clear
+113,Bengal Gram(Gram),Koppal,2012-05-15,3860.0,0.0,36.6,clear
+114,Black Gram (Urd Beans),Koppal,2012-05-15,3701.0,4.0,36.6,clear
+115,Green Gram (Moong),Koppal,2012-05-15,4320.0,0.0,36.6,clear
+116,Bengal Gram(Gram),Koppal,2012-05-16,3860.0,0.0,34.6,rain
+117,Black Gram (Urd Beans),Koppal,2012-05-16,3701.0,0.0,34.6,rain
+118,Green Gram (Moong),Koppal,2012-05-16,4320.0,0.0,34.6,rain
+119,Bengal Gram(Gram),Koppal,2012-05-21,3735.0,0.0,35.2,rain
+120,Black Gram (Urd Beans),Koppal,2012-05-21,3279.0,12.0,35.2,rain
+121,Green Gram (Moong),Koppal,2012-05-21,5311.0,0.0,35.2,rain
+122,Bengal Gram(Gram),Koppal,2012-05-28,4050.0,0.0,33.0,clear
+123,Black Gram (Urd Beans),Koppal,2012-05-28,3490.0,28.0,33.0,clear
+124,Green Gram (Moong),Koppal,2012-05-28,3255.0,0.0,33.0,clear
+125,Bengal Gram(Gram),Koppal,2012-05-06,2869.0,0.0,35.4,clear
+126,Black Gram (Urd Beans),Koppal,2012-05-06,3038.0,112.0,35.4,clear
+127,Green Gram (Moong),Koppal,2012-05-06,3143.0,0.0,35.4,clear
+128,Bengal Gram(Gram),Koppal,2012-06-06,2869.0,0.0,30.0,clear
+129,Black Gram (Urd Beans),Koppal,2012-06-06,3038.0,0.0,30.0,clear
+130,Green Gram (Moong),Koppal,2012-06-06,3143.0,0.0,30.0,clear
+131,Bengal Gram(Gram),Koppal,2012-07-06,3850.0,0.0,29.6,clear
+132,Black Gram (Urd Beans),Koppal,2012-07-06,2939.0,88.0,29.6,clear
+133,Green Gram (Moong),Koppal,2012-07-06,4009.0,0.0,29.6,clear
+134,Bengal Gram(Gram),Koppal,2012-11-06,3801.0,0.0,29.0,clear
+135,Black Gram (Urd Beans),Koppal,2012-11-06,3201.0,91.0,29.0,clear
+136,Green Gram (Moong),Koppal,2012-11-06,3089.0,1.0,29.0,clear
+137,Bengal Gram(Gram),Koppal,2012-06-25,4668.0,0.0,28.6,clear
+138,Black Gram (Urd Beans),Koppal,2012-06-25,3710.0,12.0,28.6,clear
+139,Bengal Gram(Gram),Koppal,2012-02-07,2010.0,0.0,33.2,clear
+140,Black Gram (Urd Beans),Koppal,2012-02-07,3547.0,20.0,33.2,clear
+141,Bengal Gram(Gram),Koppal,2012-05-07,4582.0,1.0,36.6,clear
+142,Black Gram (Urd Beans),Koppal,2012-05-07,3778.0,16.0,36.6,clear
+143,Bengal Gram(Gram),Koppal,2012-09-07,3533.0,0.0,27.4,rain
+144,Black Gram (Urd Beans),Koppal,2012-09-07,4338.0,4.0,27.4,rain
+145,Green Gram (Moong),Koppal,2012-09-07,4360.0,0.0,27.4,rain
+146,Bengal Gram(Gram),Koppal,2012-07-16,4252.0,0.0,28.2,clear
+147,Black Gram (Urd Beans),Koppal,2012-07-16,3771.0,8.0,28.2,clear
+148,Bengal Gram(Gram),Koppal,2012-07-19,4339.0,0.0,28.0,clear
+149,Black Gram (Urd Beans),Koppal,2012-07-19,4243.0,2.0,28.0,clear
+150,Bengal Gram(Gram),Koppal,2012-07-26,4510.0,0.0,26.8,clear
+151,Black Gram (Urd Beans),Koppal,2012-07-26,4639.0,0.0,26.8,clear
+152,Bengal Gram(Gram),Koppal,2012-07-30,4225.0,0.0,30.0,clear
+153,Black Gram (Urd Beans),Koppal,2012-07-30,4325.0,0.0,30.0,clear
+154,Green Gram (Moong),Koppal,2012-07-30,3409.0,0.0,30.0,clear
+155,Bengal Gram(Gram),Kustagi,2012-01-29,3070.0,10.0,29.6,clear
+156,Bengal Gram(Gram),Kustagi,2012-05-02,3930.0,10.0,35.6,clear
+157,Bengal Gram(Gram),Kustagi,2012-07-02,3250.0,11.0,28.0,rain
+158,Bengal Gram(Gram),Kustagi,2012-12-02,3315.0,5.0,28.4,clear
+159,Bengal Gram(Gram),Kustagi,2012-02-19,3315.0,6.0,34.0,clear
+160,Bengal Gram(Gram),Kustagi,2012-11-03,3401.0,2.0,27.2,clear
+161,Bengal Gram(Gram),Kustagi,2012-03-18,3500.0,10.0,35.6,clear
+162,Bengal Gram(Gram),Kustagi,2012-03-25,0.0,2.0,36.8,clear
+163,Bengal Gram(Gram),Kustagi,2012-01-04,3651.0,6.0,31.8,clear
+164,Bengal Gram(Gram),Kustagi,2012-08-04,3650.0,10.0,26.6,rain
+165,Bengal Gram(Gram),Kustagi,2012-05-20,3800.0,2.0,38.2,clear
+166,Bengal Gram(Gram),Kustagi,2012-05-27,3800.0,0.0,36.0,clear
+167,Bengal Gram(Gram),Kustagi,2012-07-15,4500.0,1.0,26.0,rain
+168,Bengal Gram(Gram),Kustagi,2012-07-22,4000.0,0.0,29.2,clear
+169,Black Gram (Urd Beans),Koppal,2012-05-17,3157.0,4.0,36.0,clear
+170,Black Gram (Urd Beans),Koppal,2012-01-06,3474.0,52.0,32.0,clear
+171,Green Gram (Moong),Koppal,2012-01-06,3330.0,0.0,32.0,clear
+172,Black Gram (Urd Beans),Koppal,2012-02-06,3474.0,0.0,32.0,clear
+173,Green Gram (Moong),Koppal,2012-02-06,3330.0,0.0,32.0,clear
+174,Black Gram (Urd Beans),Koppal,2012-06-14,2932.0,107.0,32.6,clear
+175,Green Gram (Moong),Koppal,2012-06-14,2959.0,0.0,32.6,clear
+176,Black Gram (Urd Beans),Koppal,2012-06-18,3566.0,52.0,25.0,clear
+177,Black Gram (Urd Beans),Koppal,2012-06-28,3615.0,24.0,30.2,clear
+178,Black Gram (Urd Beans),Koppal,2012-12-07,4240.0,6.0,29.6,clear
+179,Black Gram (Urd Beans),Koppal,2012-07-24,3786.0,2.0,28.2,clear
+180,Black Gram (Urd Beans),Koppal,2012-07-25,3786.0,0.0,28.0,clear
+181,Black Gram (Urd Beans),Koppal,2012-02-08,4272.0,1.0,33.6,clear
+182,Green Gram (Moong),Koppal,2012-02-08,5365.0,0.0,33.6,clear
+183,Black Gram (Urd Beans),Koppal,2012-06-08,3306.0,3.0,32.0,clear
+184,Black Gram (Urd Beans),Koppal,2012-09-08,3360.0,1.0,28.2,clear
+185,Black Gram (Urd Beans),Koppal,2012-08-14,4069.0,0.0,30.2,clear
+186,Black Gram (Urd Beans),Koppal,2012-08-16,4079.0,0.0,30.6,clear
+187,Black Gram (Urd Beans),Koppal,2012-08-21,2767.0,0.0,28.2,clear
+188,Green Gram (Moong),Koppal,2012-08-21,6009.0,0.0,28.2,clear
+189,Black Gram (Urd Beans),Koppal,2012-08-22,2767.0,0.0,30.0,clear
+190,Green Gram (Moong),Koppal,2012-08-22,6009.0,0.0,30.0,clear
+191,Black Gram (Urd Beans),Koppal,2012-08-23,3629.0,0.0,32.0,clear
+192,Black Gram (Urd Beans),Koppal,2012-08-30,2629.0,0.0,27.6,clear
+193,Black Gram (Urd Beans),Koppal,2012-03-09,2356.0,0.0,33.2,clear
+194,Black Gram (Urd Beans),Koppal,2012-09-17,3110.0,0.0,29.0,clear
+195,Black Gram (Urd Beans),Koppal,2012-12-24,3031.0,0.0,29.0,clear
+196,Green Gram (Moong),Koppal,2012-06-09,3502.0,0.0,31.6,clear
+197,Green Gram (Moong),Koppal,2012-09-27,2211.0,0.0,29.6,clear
+198,Green Gram (Moong),Kustagi,2012-03-21,3200.0,12.0,37.2,clear
+199,Green Gram (Moong),Kustagi,2012-08-19,4800.0,0.0,30.0,clear
+200,Green Gram (Moong),Kustagi,2012-09-09,4500.0,0.0,28.0,clear
+201,Arhar (Tur/Red Gram),Koppal,2013-07-01,2755.0,0.0,27.6,clear
+202,Arhar (Tur/Red Gram),Koppal,2013-01-15,3050.0,0.0,32.4,clear
+203,Bengal Gram(Gram),Koppal,2013-01-15,3301.0,0.0,32.4,clear
+204,Black Gram (Urd Beans),Koppal,2013-01-15,3501.0,0.0,32.4,clear
+205,Arhar (Tur/Red Gram),Koppal,2013-01-16,3050.0,0.0,30.0,clear
+206,Bengal Gram(Gram),Koppal,2013-01-16,3301.0,0.0,30.0,clear
+207,Black Gram (Urd Beans),Koppal,2013-01-16,3501.0,0.0,30.0,clear
+208,Green Gram (Moong),Koppal,2013-01-16,4010.0,0.0,30.0,clear
+209,Arhar (Tur/Red Gram),Koppal,2013-01-17,2744.0,1.0,30.0,clear
+210,Bengal Gram(Gram),Koppal,2013-01-17,3259.0,1.0,30.0,clear
+211,Arhar (Tur/Red Gram),Koppal,2013-01-21,2630.0,2.0,30.8,clear
+212,Bengal Gram(Gram),Koppal,2013-01-21,3401.0,0.0,30.8,clear
+213,Arhar (Tur/Red Gram),Koppal,2013-01-28,2419.0,0.0,32.0,clear
+214,Bengal Gram(Gram),Koppal,2013-01-28,3406.0,3.0,32.0,clear
+215,Arhar (Tur/Red Gram),Koppal,2013-01-31,2659.0,1.0,30.0,clear
+216,Bengal Gram(Gram),Koppal,2013-01-31,3445.0,0.0,30.0,clear
+217,Green Gram (Moong),Koppal,2013-01-31,5009.0,0.0,30.0,clear
+218,Arhar (Tur/Red Gram),Koppal,2013-04-02,2309.0,0.0,37.0,clear
+219,Bengal Gram(Gram),Koppal,2013-04-02,3411.0,0.0,37.0,clear
+220,Green Gram (Moong),Koppal,2013-04-02,4109.0,0.0,37.0,clear
+221,Arhar (Tur/Red Gram),Koppal,2013-07-02,2860.0,1.0,27.4,clear
+222,Bengal Gram(Gram),Koppal,2013-07-02,3263.0,0.0,27.4,clear
+223,Green Gram (Moong),Koppal,2013-07-02,3376.0,0.0,27.4,clear
+224,Arhar (Tur/Red Gram),Koppal,2013-11-02,2710.0,0.0,29.0,clear
+225,Bengal Gram(Gram),Koppal,2013-11-02,2919.0,1.0,29.0,clear
+226,Arhar (Tur/Red Gram),Koppal,2013-02-18,2728.0,2.0,31.4,clear
+227,Bengal Gram(Gram),Koppal,2013-02-18,3280.0,2.0,31.4,clear
+228,Bengal Gram(Gram),Kustagi,2013-02-18,3311.0,3.0,31.4,clear
+229,Black Gram (Urd Beans),Koppal,2013-02-18,2509.0,0.0,31.4,clear
+230,Green Gram (Moong),Koppal,2013-02-18,4409.0,0.0,31.4,clear
+231,Green Gram (Moong),Kustagi,2013-02-18,5300.0,0.0,31.4,clear
+232,Arhar (Tur/Red Gram),Koppal,2013-02-22,2710.0,0.0,33.0,clear
+233,Bengal Gram(Gram),Koppal,2013-02-22,3368.0,0.0,33.0,clear
+234,Green Gram (Moong),Koppal,2013-02-22,4259.0,0.0,33.0,clear
+235,Arhar (Tur/Red Gram),Koppal,2013-02-23,2710.0,0.0,33.6,clear
+236,Bengal Gram(Gram),Koppal,2013-02-23,3368.0,0.0,33.6,clear
+237,Green Gram (Moong),Koppal,2013-02-23,4259.0,0.0,33.6,clear
+238,Arhar (Tur/Red Gram),Koppal,2013-02-25,2634.0,0.0,33.6,clear
+239,Bengal Gram(Gram),Koppal,2013-02-25,3356.0,1.0,33.6,clear
+240,Black Gram (Urd Beans),Koppal,2013-02-25,3859.0,0.0,33.6,clear
+241,Green Gram (Moong),Koppal,2013-02-25,4515.0,0.0,33.6,clear
+242,Arhar (Tur/Red Gram),Koppal,2013-04-03,3002.0,0.0,37.8,clear
+243,Bengal Gram(Gram),Koppal,2013-04-03,3570.0,1.0,37.8,clear
+244,Black Gram (Urd Beans),Koppal,2013-04-03,3509.0,0.0,37.8,clear
+245,Green Gram (Moong),Koppal,2013-04-03,4139.0,0.0,37.8,clear
+246,Arhar (Tur/Red Gram),Koppal,2013-08-03,3174.0,0.0,25.4,clear
+247,Bengal Gram(Gram),Koppal,2013-08-03,3021.0,0.0,25.4,clear
+248,Black Gram (Urd Beans),Koppal,2013-08-03,2909.0,0.0,25.4,clear
+249,Green Gram (Moong),Koppal,2013-08-03,3989.0,1.0,25.4,clear
+250,Arhar (Tur/Red Gram),Koppal,2013-11-03,3353.0,0.0,29.4,clear
+251,Bengal Gram(Gram),Koppal,2013-11-03,3267.0,1.0,29.4,clear
+252,Black Gram (Urd Beans),Koppal,2013-11-03,2510.0,0.0,29.4,clear
+253,Green Gram (Moong),Koppal,2013-11-03,3841.0,0.0,29.4,clear
+254,Arhar (Tur/Red Gram),Koppal,2013-03-14,3135.0,0.0,33.6,clear
+255,Bengal Gram(Gram),Koppal,2013-03-14,3356.0,1.0,33.6,clear
+256,Black Gram (Urd Beans),Koppal,2013-03-14,3915.0,0.0,33.6,clear
+257,Green Gram (Moong),Koppal,2013-03-14,4119.0,1.0,33.6,clear
+258,Arhar (Tur/Red Gram),Koppal,2013-03-18,3229.0,0.0,34.2,clear
+259,Bengal Gram(Gram),Koppal,2013-03-18,3057.0,5.0,34.2,clear
+260,Black Gram (Urd Beans),Koppal,2013-03-18,3936.0,0.0,34.2,clear
+261,Green Gram (Moong),Koppal,2013-03-18,4134.0,0.0,34.2,clear
+262,Arhar (Tur/Red Gram),Koppal,2013-03-21,2384.0,0.0,35.2,clear
+263,Bengal Gram(Gram),Koppal,2013-03-21,3167.0,3.0,35.2,clear
+264,Black Gram (Urd Beans),Koppal,2013-03-21,3489.0,0.0,35.2,clear
+265,Green Gram (Moong),Koppal,2013-03-21,4197.0,0.0,35.2,clear
+266,Arhar (Tur/Red Gram),Koppal,2013-03-25,2860.0,0.0,36.6,clear
+267,Bengal Gram(Gram),Koppal,2013-03-25,3097.0,1.0,36.6,clear
+268,Black Gram (Urd Beans),Koppal,2013-03-25,3684.0,0.0,36.6,clear
+269,Green Gram (Moong),Koppal,2013-03-25,4145.0,0.0,36.6,clear
+270,Arhar (Tur/Red Gram),Koppal,2013-03-28,2301.0,0.0,36.6,clear
+271,Bengal Gram(Gram),Koppal,2013-03-28,2925.0,0.0,36.6,clear
+272,Black Gram (Urd Beans),Koppal,2013-03-28,3484.0,0.0,36.6,clear
+273,Green Gram (Moong),Koppal,2013-03-28,4194.0,0.0,36.6,clear
+274,Arhar (Tur/Red Gram),Koppal,2013-01-04,1811.0,0.0,32.0,clear
+275,Bengal Gram(Gram),Koppal,2013-01-04,3273.0,3.0,32.0,clear
+276,Black Gram (Urd Beans),Koppal,2013-01-04,3315.0,0.0,32.0,clear
+277,Green Gram (Moong),Koppal,2013-01-04,4298.0,1.0,32.0,clear
+278,Arhar (Tur/Red Gram),Koppal,2013-05-04,3509.0,0.0,38.8,clear
+279,Bengal Gram(Gram),Koppal,2013-05-04,3144.0,2.0,38.8,clear
+280,Black Gram (Urd Beans),Koppal,2013-05-04,3145.0,0.0,38.8,clear
+281,Green Gram (Moong),Koppal,2013-05-04,4304.0,0.0,38.8,clear
+282,Arhar (Tur/Red Gram),Koppal,2013-08-04,3330.0,0.0,28.6,clear
+283,Bengal Gram(Gram),Koppal,2013-08-04,3185.0,2.0,28.6,clear
+284,Black Gram (Urd Beans),Koppal,2013-08-04,3104.0,0.0,28.6,clear
+285,Green Gram (Moong),Koppal,2013-08-04,4369.0,2.0,28.6,clear
+286,Arhar (Tur/Red Gram),Koppal,2013-04-18,3151.0,0.0,36.0,clear
+287,Bengal Gram(Gram),Koppal,2013-04-18,3143.0,0.0,36.0,clear
+288,Green Gram (Moong),Koppal,2013-04-18,4380.0,0.0,36.0,clear
+289,Arhar (Tur/Red Gram),Koppal,2013-02-05,3289.0,0.0,31.0,clear
+290,Bengal Gram(Gram),Koppal,2013-02-05,2844.0,0.0,31.0,clear
+291,Black Gram (Urd Beans),Koppal,2013-02-05,2991.0,1.0,31.0,clear
+292,Green Gram (Moong),Koppal,2013-02-05,4869.0,0.0,31.0,clear
+293,Arhar (Tur/Red Gram),Koppal,2013-06-05,3359.0,0.0,32.2,rain
+294,Bengal Gram(Gram),Koppal,2013-06-05,2865.0,0.0,32.2,rain
+295,Black Gram (Urd Beans),Koppal,2013-06-05,3344.0,0.0,32.2,rain
+296,Green Gram (Moong),Koppal,2013-06-05,4649.0,0.0,32.2,rain
+297,Arhar (Tur/Red Gram),Koppal,2013-09-05,3555.0,0.0,28.6,clear
+298,Bengal Gram(Gram),Koppal,2013-09-05,3015.0,0.0,28.6,clear
+299,Black Gram (Urd Beans),Koppal,2013-09-05,3550.0,1.0,28.6,clear
+300,Green Gram (Moong),Koppal,2013-09-05,4164.0,0.0,28.6,clear
+301,Arhar (Tur/Red Gram),Koppal,2013-06-06,3529.0,0.0,30.8,rain
+302,Bengal Gram(Gram),Koppal,2013-06-06,2945.0,1.0,30.8,rain
+303,Black Gram (Urd Beans),Koppal,2013-06-06,4102.0,11.0,30.8,rain
+304,Arhar (Tur/Red Gram),Koppal,2013-10-06,1510.0,0.0,28.6,clear
+305,Bengal Gram(Gram),Koppal,2013-10-06,2910.0,0.0,28.6,clear
+306,Black Gram (Urd Beans),Koppal,2013-10-06,3786.0,37.0,28.6,clear
+307,Arhar (Tur/Red Gram),Koppal,2013-01-08,1806.0,0.0,30.2,clear
+308,Black Gram (Urd Beans),Koppal,2013-01-08,3324.0,0.0,30.2,clear
+309,Bengal Gram(Gram),Koppal,2013-02-14,3326.0,0.0,32.8,clear
+310,Bengal Gram(Gram),Koppal,2013-02-28,3266.0,0.0,35.0,clear
+311,Green Gram (Moong),Koppal,2013-02-28,3994.0,0.0,35.0,clear
+312,Bengal Gram(Gram),Koppal,2013-10-04,3202.0,0.0,27.4,clear
+313,Black Gram (Urd Beans),Koppal,2013-10-04,2509.0,0.0,27.4,clear
+314,Green Gram (Moong),Koppal,2013-10-04,4404.0,0.0,27.4,clear
+315,Bengal Gram(Gram),Koppal,2013-12-04,3202.0,0.0,28.8,clear
+316,Black Gram (Urd Beans),Koppal,2013-12-04,2509.0,0.0,28.8,clear
+317,Green Gram (Moong),Koppal,2013-12-04,4404.0,0.0,28.8,clear
+318,Bengal Gram(Gram),Koppal,2013-04-15,2992.0,0.0,37.6,clear
+319,Bengal Gram(Gram),Kustagi,2013-04-15,3200.0,0.0,37.6,clear
+320,Black Gram (Urd Beans),Koppal,2013-04-15,2069.0,0.0,37.6,clear
+321,Green Gram (Moong),Koppal,2013-04-15,4280.0,1.0,37.6,clear
+322,Bengal Gram(Gram),Koppal,2013-04-22,3055.0,0.0,35.4,clear
+323,Black Gram (Urd Beans),Koppal,2013-04-22,3316.0,0.0,35.4,clear
+324,Green Gram (Moong),Koppal,2013-04-22,4420.0,2.0,35.4,clear
+325,Bengal Gram(Gram),Koppal,2013-04-25,3251.0,1.0,35.8,rain
+326,Black Gram (Urd Beans),Koppal,2013-04-25,2682.0,0.0,35.8,rain
+327,Green Gram (Moong),Koppal,2013-04-25,4431.0,0.0,35.8,rain
+328,Bengal Gram(Gram),Koppal,2013-04-29,3026.0,1.0,35.6,clear
+329,Black Gram (Urd Beans),Koppal,2013-04-29,3259.0,0.0,35.6,clear
+330,Green Gram (Moong),Koppal,2013-04-29,4711.0,0.0,35.6,clear
+331,Bengal Gram(Gram),Koppal,2013-05-14,3102.0,0.0,37.0,clear
+332,Black Gram (Urd Beans),Koppal,2013-05-14,3541.0,2.0,37.0,clear
+333,Green Gram (Moong),Koppal,2013-05-14,4689.0,0.0,37.0,clear
+334,Bengal Gram(Gram),Koppal,2013-05-16,2902.0,1.0,33.4,clear
+335,Black Gram (Urd Beans),Koppal,2013-05-16,3602.0,1.0,33.4,clear
+336,Green Gram (Moong),Koppal,2013-05-16,4539.0,0.0,33.4,clear
+337,Bengal Gram(Gram),Koppal,2013-05-20,2927.0,0.0,38.0,rain
+338,Black Gram (Urd Beans),Koppal,2013-05-20,3209.0,1.0,38.0,rain
+339,Green Gram (Moong),Koppal,2013-05-20,4629.0,0.0,38.0,rain
+340,Bengal Gram(Gram),Koppal,2013-05-27,3074.0,8.0,29.2,clear
+341,Black Gram (Urd Beans),Koppal,2013-05-27,3910.0,7.0,29.2,clear
+342,Green Gram (Moong),Koppal,2013-05-27,4194.0,0.0,29.2,clear
+343,Bengal Gram(Gram),Koppal,2013-05-30,2933.0,2.0,30.2,clear
+344,Black Gram (Urd Beans),Koppal,2013-05-30,3745.0,10.0,30.2,clear
+345,Green Gram (Moong),Koppal,2013-05-30,4140.0,0.0,30.2,clear
+346,Bengal Gram(Gram),Koppal,2013-04-06,3003.0,2.0,37.2,clear
+347,Black Gram (Urd Beans),Koppal,2013-04-06,3817.0,24.0,37.2,clear
+348,Green Gram (Moong),Koppal,2013-04-06,4414.0,0.0,37.2,clear
+349,Bengal Gram(Gram),Koppal,2013-05-06,3003.0,0.0,37.6,clear
+350,Black Gram (Urd Beans),Koppal,2013-05-06,3817.0,0.0,37.6,clear
+351,Green Gram (Moong),Koppal,2013-05-06,4414.0,0.0,37.6,clear
+352,Bengal Gram(Gram),Koppal,2013-06-13,2738.0,0.0,26.6,clear
+353,Black Gram (Urd Beans),Koppal,2013-06-13,3891.0,29.0,26.6,clear
+354,Green Gram (Moong),Koppal,2013-06-13,4010.0,0.0,26.6,clear
+355,Bengal Gram(Gram),Koppal,2013-06-17,2658.0,1.0,28.2,rain
+356,Black Gram (Urd Beans),Koppal,2013-06-17,3929.0,53.0,28.2,rain
+357,Green Gram (Moong),Koppal,2013-06-17,4021.0,0.0,28.2,rain
+358,Bengal Gram(Gram),Koppal,2013-06-24,2793.0,0.0,27.6,clear
+359,Bengal Gram(Gram),Kustagi,2013-06-24,2600.0,2.0,27.6,clear
+360,Black Gram (Urd Beans),Koppal,2013-06-24,3477.0,58.0,27.6,clear
+361,Bengal Gram(Gram),Koppal,2013-06-27,2901.0,0.0,30.6,clear
+362,Black Gram (Urd Beans),Koppal,2013-06-27,3389.0,39.0,30.6,clear
+363,Green Gram (Moong),Koppal,2013-06-27,4115.0,0.0,30.6,clear
+364,Bengal Gram(Gram),Koppal,2013-07-15,2891.0,0.0,28.2,clear
+365,Black Gram (Urd Beans),Koppal,2013-07-15,3412.0,10.0,28.2,clear
+366,Green Gram (Moong),Koppal,2013-07-15,3865.0,0.0,28.2,clear
+367,Bengal Gram(Gram),Koppal,2013-07-18,2708.0,0.0,27.6,clear
+368,Black Gram (Urd Beans),Koppal,2013-07-18,3140.0,9.0,27.6,clear
+369,Green Gram (Moong),Koppal,2013-07-18,3882.0,0.0,27.6,clear
+370,Bengal Gram(Gram),Koppal,2013-07-22,2628.0,0.0,24.8,clear
+371,Black Gram (Urd Beans),Koppal,2013-07-22,3030.0,1.0,24.8,clear
+372,Bengal Gram(Gram),Koppal,2013-07-29,2808.0,0.0,27.0,clear
+373,Black Gram (Urd Beans),Koppal,2013-07-29,2822.0,3.0,27.0,clear
+374,Green Gram (Moong),Koppal,2013-07-29,3085.0,0.0,27.0,clear
+375,Bengal Gram(Gram),Koppal,2013-09-19,2861.0,0.0,28.0,rain
+376,Black Gram (Urd Beans),Koppal,2013-09-19,3056.0,0.0,28.0,rain
+377,Bengal Gram(Gram),Koppal,2013-03-10,2609.0,0.0,35.2,rain
+378,Bengal Gram(Gram),Koppal,2013-05-10,2609.0,0.0,37.4,clear
+379,Bengal Gram(Gram),Koppal,2013-10-24,2811.0,0.0,26.0,clear
+380,Bengal Gram(Gram),Kustagi,2013-01-13,3510.0,2.0,31.4,clear
+381,Green Gram (Moong),Kustagi,2013-01-13,5000.0,1.0,31.4,clear
+382,Bengal Gram(Gram),Kustagi,2013-03-02,3400.0,5.0,33.6,clear
+383,Bengal Gram(Gram),Kustagi,2013-02-17,3311.0,5.0,31.6,clear
+384,Bengal Gram(Gram),Kustagi,2013-03-17,3000.0,1.0,33.6,clear
+385,Bengal Gram(Gram),Kustagi,2013-03-31,3111.0,0.0,38.4,clear
+386,Bengal Gram(Gram),Kustagi,2013-04-28,3200.0,1.0,36.0,clear
+387,Bengal Gram(Gram),Kustagi,2013-12-05,3010.0,1.0,28.4,clear
+388,Bengal Gram(Gram),Kustagi,2013-05-19,3000.0,0.0,35.0,clear
+389,Bengal Gram(Gram),Kustagi,2013-05-26,2910.0,1.0,36.6,clear
+390,Bengal Gram(Gram),Kustagi,2013-02-06,2851.0,0.0,31.4,clear
+391,Bengal Gram(Gram),Kustagi,2013-09-06,2500.0,2.0,29.4,clear
+392,Bengal Gram(Gram),Kustagi,2013-06-30,2600.0,1.0,27.0,rain
+393,Black Gram (Urd Beans),Koppal,2013-05-23,3780.0,2.0,36.6,clear
+394,Green Gram (Moong),Koppal,2013-05-23,4450.0,0.0,36.6,clear
+395,Black Gram (Urd Beans),Koppal,2013-06-20,3642.0,49.0,27.6,clear
+396,Green Gram (Moong),Koppal,2013-06-20,4055.0,0.0,27.6,clear
+397,Black Gram (Urd Beans),Koppal,2013-01-07,3152.0,38.0,30.8,clear
+398,Black Gram (Urd Beans),Koppal,2013-08-07,3404.0,33.0,28.0,clear
+399,Black Gram (Urd Beans),Koppal,2013-11-07,3230.0,5.0,29.2,clear
+400,Green Gram (Moong),Koppal,2013-11-07,3209.0,0.0,29.2,clear
+401,Black Gram (Urd Beans),Koppal,2013-07-25,3319.0,2.0,25.6,clear
+402,Black Gram (Urd Beans),Koppal,2013-05-08,3234.0,0.0,37.8,rain
+403,Black Gram (Urd Beans),Koppal,2013-08-22,3629.0,0.0,26.6,clear
+404,Green Gram (Moong),Koppal,2013-08-22,4851.0,0.0,26.6,clear
+405,Black Gram (Urd Beans),Koppal,2013-03-09,2832.0,10.0,35.2,clear
+406,Green Gram (Moong),Koppal,2013-03-09,4002.0,0.0,35.2,clear
+407,Green Gram (Moong),Kustagi,2013-03-09,4225.0,5.0,35.2,clear
+408,Black Gram (Urd Beans),Koppal,2013-09-16,3269.0,0.0,29.0,clear
+409,Green Gram (Moong),Koppal,2013-09-16,4319.0,0.0,29.0,clear
+410,Black Gram (Urd Beans),Koppal,2013-09-23,3520.0,1.0,29.0,clear
+411,Black Gram (Urd Beans),Koppal,2013-09-26,3029.0,0.0,29.0,clear
+412,Green Gram (Moong),Koppal,2013-09-26,5505.0,0.0,29.0,clear
+413,Black Gram (Urd Beans),Koppal,2013-09-30,2809.0,0.0,27.6,clear
+414,Green Gram (Moong),Koppal,2013-10-01,4010.0,0.0,30.6,rain
+415,Green Gram (Moong),Koppal,2013-04-07,4015.0,0.0,37.6,clear
+416,Green Gram (Moong),Koppal,2013-08-19,4929.0,0.0,27.6,clear
+417,Green Gram (Moong),Kustagi,2013-07-07,4100.0,0.0,28.0,rain
+418,Green Gram (Moong),Kustagi,2013-08-31,4500.0,0.0,31.6,rain
+419,Green Gram (Moong),Kustagi,2013-01-09,4225.0,10.0,30.0,clear
+420,Green Gram (Moong),Kustagi,2013-09-17,4400.0,0.0,29.4,rain
+421,Green Gram (Moong),Kustagi,2013-09-18,4400.0,0.0,26.2,clear
+422,Green Gram (Moong),Kustagi,2013-09-22,4450.0,0.0,27.0,clear
+423,Green Gram (Moong),Kustagi,2013-09-28,4450.0,0.0,28.6,clear
+424,Green Gram (Moong),Kustagi,2013-09-29,4700.0,0.0,29.0,clear
+425,Arhar (Tur/Red Gram),Koppal,2014-06-01,2875.0,6.0,37.0,clear
+426,Green Gram (Moong),Koppal,2014-06-01,3210.0,0.0,37.0,clear
+427,Arhar (Tur/Red Gram),Koppal,2014-09-01,3057.0,9.0,26.6,clear
+428,Black Gram (Urd Beans),Koppal,2014-09-01,3260.0,0.0,26.6,clear
+429,Arhar (Tur/Red Gram),Koppal,2014-01-13,3345.0,8.0,29.2,clear
+430,Bengal Gram(Gram),Koppal,2014-01-13,2712.0,0.0,29.2,clear
+431,Black Gram (Urd Beans),Koppal,2014-01-13,1857.0,0.0,29.2,clear
+432,Arhar (Tur/Red Gram),Koppal,2014-01-16,3279.0,9.0,29.6,clear
+433,Bengal Gram(Gram),Koppal,2014-01-16,2608.0,0.0,29.6,clear
+434,Arhar (Tur/Red Gram),Koppal,2014-01-20,3053.0,13.0,29.0,clear
+435,Bengal Gram(Gram),Koppal,2014-01-20,2570.0,0.0,29.0,clear
+436,Arhar (Tur/Red Gram),Koppal,2014-01-23,2783.0,8.0,28.4,clear
+437,Bengal Gram(Gram),Koppal,2014-01-23,2735.0,0.0,28.4,clear
+438,Arhar (Tur/Red Gram),Koppal,2014-01-27,2853.0,14.0,27.0,clear
+439,Bengal Gram(Gram),Koppal,2014-01-27,2632.0,0.0,27.0,clear
+440,Green Gram (Moong),Koppal,2014-01-27,5210.0,0.0,27.0,clear
+441,Arhar (Tur/Red Gram),Koppal,2014-01-30,2843.0,15.0,27.4,clear
+442,Bengal Gram(Gram),Koppal,2014-01-30,2802.0,4.0,27.4,clear
+443,Bengal Gram(Gram),Kustagi,2014-01-30,2740.0,1.0,27.4,clear
+444,Arhar (Tur/Red Gram),Koppal,2014-03-02,2787.0,12.0,32.6,clear
+445,Bengal Gram(Gram),Koppal,2014-03-02,2506.0,2.0,32.6,clear
+446,Green Gram (Moong),Koppal,2014-03-02,4530.0,0.0,32.6,clear
+447,Arhar (Tur/Red Gram),Koppal,2014-06-02,3162.0,9.0,34.6,clear
+448,Bengal Gram(Gram),Koppal,2014-06-02,2514.0,3.0,34.6,clear
+449,Arhar (Tur/Red Gram),Koppal,2014-10-02,2875.0,14.0,31.6,clear
+450,Bengal Gram(Gram),Koppal,2014-10-02,2563.0,0.0,31.6,clear
+451,Bengal Gram(Gram),Kustagi,2014-10-02,2651.0,0.0,31.6,clear
+452,Black Gram (Urd Beans),Koppal,2014-10-02,4059.0,0.0,31.6,clear
+453,Green Gram (Moong),Koppal,2014-10-02,5373.0,0.0,31.6,clear
+454,Green Gram (Moong),Kustagi,2014-10-02,4000.0,0.0,31.6,clear
+455,Arhar (Tur/Red Gram),Koppal,2014-02-13,2829.0,3.0,28.2,clear
+456,Bengal Gram(Gram),Koppal,2014-02-13,2540.0,1.0,28.2,clear
+457,Bengal Gram(Gram),Kustagi,2014-02-13,2651.0,0.0,28.2,clear
+458,Black Gram (Urd Beans),Koppal,2014-02-13,3850.0,0.0,28.2,clear
+459,Green Gram (Moong),Koppal,2014-02-13,6505.0,0.0,28.2,clear
+460,Green Gram (Moong),Kustagi,2014-02-13,4000.0,0.0,28.2,clear
+461,Arhar (Tur/Red Gram),Koppal,2014-02-17,2648.0,4.0,28.6,clear
+462,Bengal Gram(Gram),Koppal,2014-02-17,2192.0,0.0,28.6,clear
+463,Black Gram (Urd Beans),Koppal,2014-02-17,3643.0,0.0,28.6,clear
+464,Arhar (Tur/Red Gram),Koppal,2014-02-20,3193.0,4.0,30.4,clear
+465,Bengal Gram(Gram),Koppal,2014-02-20,2320.0,1.0,30.4,clear
+466,Green Gram (Moong),Koppal,2014-02-20,4811.0,0.0,30.4,clear
+467,Arhar (Tur/Red Gram),Koppal,2014-02-24,2893.0,3.0,31.6,clear
+468,Bengal Gram(Gram),Kustagi,2014-02-24,2630.0,1.0,31.6,clear
+469,Black Gram (Urd Beans),Koppal,2014-02-24,4020.0,0.0,31.6,clear
+470,Arhar (Tur/Red Gram),Koppal,2014-02-28,2950.0,2.0,30.6,clear
+471,Arhar (Tur/Red Gram),Koppal,2014-01-03,2950.0,0.0,28.0,clear
+472,Arhar (Tur/Red Gram),Koppal,2014-03-03,2920.0,8.0,32.2,clear
+473,Bengal Gram(Gram),Koppal,2014-03-03,2478.0,4.0,32.2,clear
+474,Black Gram (Urd Beans),Koppal,2014-03-03,4209.0,0.0,32.2,clear
+475,Green Gram (Moong),Koppal,2014-03-03,4620.0,0.0,32.2,clear
+476,Arhar (Tur/Red Gram),Koppal,2014-06-03,2787.0,4.0,32.6,clear
+477,Bengal Gram(Gram),Koppal,2014-06-03,2626.0,0.0,32.6,clear
+478,Black Gram (Urd Beans),Koppal,2014-06-03,4225.0,0.0,32.6,clear
+479,Green Gram (Moong),Koppal,2014-06-03,4509.0,0.0,32.6,clear
+480,Arhar (Tur/Red Gram),Koppal,2014-10-03,2742.0,3.0,30.4,rain
+481,Bengal Gram(Gram),Koppal,2014-10-03,3145.0,2.0,30.4,rain
+482,Bengal Gram(Gram),Kustagi,2014-10-03,2780.0,0.0,30.4,rain
+483,Black Gram (Urd Beans),Koppal,2014-10-03,3752.0,0.0,30.4,rain
+484,Green Gram (Moong),Koppal,2014-10-03,4756.0,0.0,30.4,rain
+485,Green Gram (Moong),Kustagi,2014-10-03,4200.0,0.0,30.4,rain
+486,Arhar (Tur/Red Gram),Koppal,2014-03-13,2951.0,3.0,33.6,clear
+487,Bengal Gram(Gram),Koppal,2014-03-13,2483.0,2.0,33.6,clear
+488,Bengal Gram(Gram),Kustagi,2014-03-13,2780.0,0.0,33.6,clear
+489,Green Gram (Moong),Koppal,2014-03-13,4427.0,0.0,33.6,clear
+490,Arhar (Tur/Red Gram),Koppal,2014-03-17,2812.0,2.0,34.8,clear
+491,Bengal Gram(Gram),Koppal,2014-03-17,2582.0,2.0,34.8,clear
+492,Green Gram (Moong),Koppal,2014-03-17,5415.0,0.0,34.8,clear
+493,Arhar (Tur/Red Gram),Koppal,2014-03-20,2928.0,2.0,35.8,clear
+494,Bengal Gram(Gram),Koppal,2014-03-20,2380.0,2.0,35.8,clear
+495,Bengal Gram(Gram),Kustagi,2014-03-20,2725.0,0.0,35.8,clear
+496,Green Gram (Moong),Koppal,2014-03-20,4832.0,0.0,35.8,clear
+497,Green Gram (Moong),Kustagi,2014-03-20,4500.0,0.0,35.8,clear
+498,Arhar (Tur/Red Gram),Koppal,2014-03-24,2714.0,2.0,35.6,clear
+499,Bengal Gram(Gram),Koppal,2014-03-24,2484.0,3.0,35.6,clear
+500,Bengal Gram(Gram),Kustagi,2014-03-24,2710.0,0.0,35.6,clear
+501,Arhar (Tur/Red Gram),Koppal,2014-03-27,2688.0,1.0,36.2,clear
+502,Bengal Gram(Gram),Koppal,2014-03-27,2490.0,2.0,36.2,clear
+503,Black Gram (Urd Beans),Koppal,2014-03-27,3038.0,0.0,36.2,clear
+504,Green Gram (Moong),Koppal,2014-03-27,4800.0,0.0,36.2,clear
+505,Arhar (Tur/Red Gram),Koppal,2014-01-04,2800.0,2.0,29.2,clear
+506,Bengal Gram(Gram),Koppal,2014-01-04,2430.0,1.0,29.2,clear
+507,Bengal Gram(Gram),Kustagi,2014-01-04,2750.0,0.0,29.2,clear
+508,Green Gram (Moong),Koppal,2014-01-04,4412.0,0.0,29.2,clear
+509,Green Gram (Moong),Kustagi,2014-01-04,4500.0,0.0,29.2,clear
+510,Arhar (Tur/Red Gram),Koppal,2014-03-04,2905.0,0.0,31.0,clear
+511,Bengal Gram(Gram),Koppal,2014-03-04,2432.0,4.0,31.0,clear
+512,Black Gram (Urd Beans),Koppal,2014-03-04,3954.0,0.0,31.0,clear
+513,Green Gram (Moong),Koppal,2014-03-04,4705.0,1.0,31.0,clear
+514,Arhar (Tur/Red Gram),Koppal,2014-07-04,2803.0,1.0,28.0,clear
+515,Bengal Gram(Gram),Koppal,2014-07-04,2406.0,3.0,28.0,clear
+516,Bengal Gram(Gram),Kustagi,2014-07-04,2710.0,0.0,28.0,clear
+517,Black Gram (Urd Beans),Koppal,2014-07-04,4010.0,0.0,28.0,clear
+518,Green Gram (Moong),Koppal,2014-07-04,5260.0,1.0,28.0,clear
+519,Arhar (Tur/Red Gram),Koppal,2014-10-04,2712.0,0.0,31.6,clear
+520,Bengal Gram(Gram),Koppal,2014-10-04,2410.0,1.0,31.6,clear
+521,Black Gram (Urd Beans),Koppal,2014-10-04,4276.0,0.0,31.6,clear
+522,Green Gram (Moong),Koppal,2014-10-04,5015.0,1.0,31.6,clear
+523,Arhar (Tur/Red Gram),Koppal,2014-04-15,2655.0,1.0,33.2,clear
+524,Bengal Gram(Gram),Koppal,2014-04-15,2232.0,0.0,33.2,clear
+525,Bengal Gram(Gram),Kustagi,2014-04-15,2650.0,0.0,33.2,clear
+526,Black Gram (Urd Beans),Koppal,2014-04-15,4206.0,0.0,33.2,clear
+527,Green Gram (Moong),Koppal,2014-04-15,5657.0,0.0,33.2,clear
+528,Arhar (Tur/Red Gram),Koppal,2014-04-16,2655.0,0.0,36.0,clear
+529,Bengal Gram(Gram),Koppal,2014-04-16,2232.0,0.0,36.0,clear
+530,Black Gram (Urd Beans),Koppal,2014-04-16,4206.0,0.0,36.0,clear
+531,Green Gram (Moong),Koppal,2014-04-16,5657.0,0.0,36.0,clear
+532,Arhar (Tur/Red Gram),Koppal,2014-04-21,2870.0,0.0,36.2,clear
+533,Bengal Gram(Gram),Koppal,2014-04-21,2440.0,3.0,36.2,clear
+534,Black Gram (Urd Beans),Koppal,2014-04-21,4457.0,3.0,36.2,clear
+535,Green Gram (Moong),Koppal,2014-04-21,5937.0,2.0,36.2,clear
+536,Arhar (Tur/Red Gram),Koppal,2014-04-24,2655.0,0.0,36.6,clear
+537,Bengal Gram(Gram),Koppal,2014-04-24,2422.0,1.0,36.6,clear
+538,Bengal Gram(Gram),Kustagi,2014-04-24,2550.0,0.0,36.6,clear
+539,Black Gram (Urd Beans),Koppal,2014-04-24,4673.0,0.0,36.6,clear
+540,Green Gram (Moong),Koppal,2014-04-24,6149.0,2.0,36.6,clear
+541,Arhar (Tur/Red Gram),Koppal,2014-04-28,2507.0,0.0,35.0,clear
+542,Bengal Gram(Gram),Koppal,2014-04-28,2659.0,3.0,35.0,clear
+543,Bengal Gram(Gram),Kustagi,2014-04-28,2660.0,0.0,35.0,clear
+544,Black Gram (Urd Beans),Koppal,2014-04-28,4242.0,2.0,35.0,clear
+545,Green Gram (Moong),Koppal,2014-04-28,5505.0,3.0,35.0,clear
+546,Arhar (Tur/Red Gram),Koppal,2014-05-05,2732.0,0.0,33.2,clear
+547,Bengal Gram(Gram),Koppal,2014-05-05,2530.0,1.0,33.2,clear
+548,Black Gram (Urd Beans),Koppal,2014-05-05,5196.0,6.0,33.2,clear
+549,Green Gram (Moong),Koppal,2014-05-05,5567.0,1.0,33.2,clear
+550,Arhar (Tur/Red Gram),Koppal,2014-08-05,2409.0,1.0,25.6,clear
+551,Bengal Gram(Gram),Koppal,2014-08-05,2308.0,0.0,25.6,clear
+552,Bengal Gram(Gram),Kustagi,2014-08-05,2600.0,0.0,25.6,clear
+553,Black Gram (Urd Beans),Koppal,2014-08-05,5721.0,5.0,25.6,clear
+554,Green Gram (Moong),Koppal,2014-08-05,6150.0,1.0,25.6,clear
+555,Arhar (Tur/Red Gram),Koppal,2014-05-15,2687.0,0.0,34.4,clear
+556,Bengal Gram(Gram),Koppal,2014-05-15,2462.0,1.0,34.4,clear
+557,Black Gram (Urd Beans),Koppal,2014-05-15,6061.0,5.0,34.4,clear
+558,Green Gram (Moong),Koppal,2014-05-15,5585.0,0.0,34.4,clear
+559,Arhar (Tur/Red Gram),Koppal,2014-05-19,2615.0,0.0,35.2,rain
+560,Bengal Gram(Gram),Koppal,2014-05-19,2433.0,3.0,35.2,rain
+561,Black Gram (Urd Beans),Koppal,2014-05-19,5027.0,9.0,35.2,rain
+562,Green Gram (Moong),Koppal,2014-05-19,5674.0,0.0,35.2,rain
+563,Arhar (Tur/Red Gram),Koppal,2014-05-23,2182.0,0.0,36.4,clear
+564,Bengal Gram(Gram),Koppal,2014-05-23,2285.0,0.0,36.4,clear
+565,Black Gram (Urd Beans),Koppal,2014-05-23,5643.0,9.0,36.4,clear
+566,Green Gram (Moong),Koppal,2014-05-23,6017.0,0.0,36.4,clear
+567,Arhar (Tur/Red Gram),Koppal,2014-05-26,2593.0,0.0,34.6,rain
+568,Bengal Gram(Gram),Koppal,2014-05-26,2665.0,0.0,34.6,rain
+569,Bengal Gram(Gram),Kustagi,2014-05-26,2600.0,0.0,34.6,rain
+570,Black Gram (Urd Beans),Koppal,2014-05-26,5911.0,15.0,34.6,rain
+571,Green Gram (Moong),Koppal,2014-05-26,5609.0,0.0,34.6,rain
+572,Arhar (Tur/Red Gram),Koppal,2014-05-06,2685.0,0.0,34.0,clear
+573,Bengal Gram(Gram),Koppal,2014-05-06,2065.0,0.0,34.0,clear
+574,Bengal Gram(Gram),Kustagi,2014-05-06,2600.0,0.0,34.0,clear
+575,Black Gram (Urd Beans),Koppal,2014-05-06,5485.0,17.0,34.0,clear
+576,Green Gram (Moong),Koppal,2014-05-06,4409.0,0.0,34.0,clear
+577,Arhar (Tur/Red Gram),Koppal,2014-12-06,2005.0,0.0,27.4,clear
+578,Bengal Gram(Gram),Koppal,2014-12-06,2363.0,0.0,27.4,clear
+579,Bengal Gram(Gram),Kustagi,2014-12-06,1900.0,0.0,27.4,clear
+580,Black Gram (Urd Beans),Koppal,2014-12-06,5399.0,22.0,27.4,clear
+581,Green Gram (Moong),Koppal,2014-12-06,2857.0,0.0,27.4,clear
+582,Arhar (Tur/Red Gram),Koppal,2014-10-07,2210.0,0.0,30.6,rain
+583,Black Gram (Urd Beans),Koppal,2014-10-07,6519.0,1.0,30.6,rain
+584,Green Gram (Moong),Koppal,2014-10-07,4351.0,0.0,30.6,rain
+585,Arhar (Tur/Red Gram),Koppal,2014-07-24,3120.0,0.0,27.0,clear
+586,Black Gram (Urd Beans),Koppal,2014-07-24,6856.0,0.0,27.0,clear
+587,Green Gram (Moong),Koppal,2014-07-24,4361.0,0.0,27.0,clear
+588,Green Gram (Moong),Kustagi,2014-07-24,7000.0,0.0,27.0,clear
+589,Arhar (Tur/Red Gram),Koppal,2014-07-28,3506.0,0.0,27.8,clear
+590,Bengal Gram(Gram),Koppal,2014-07-28,1901.0,0.0,27.8,clear
+591,Black Gram (Urd Beans),Koppal,2014-07-28,6156.0,0.0,27.8,clear
+592,Green Gram (Moong),Koppal,2014-07-28,4098.0,0.0,27.8,clear
+593,Green Gram (Moong),Kustagi,2014-07-28,6500.0,0.0,27.8,clear
+594,Arhar (Tur/Red Gram),Koppal,2014-07-31,3325.0,0.0,25.0,clear
+595,Black Gram (Urd Beans),Koppal,2014-07-31,4859.0,0.0,25.0,clear
+596,Green Gram (Moong),Koppal,2014-07-31,3511.0,0.0,25.0,clear
+597,Green Gram (Moong),Kustagi,2014-07-31,6500.0,0.0,25.0,clear
+598,Arhar (Tur/Red Gram),Koppal,2014-11-08,3705.0,0.0,29.2,clear
+599,Black Gram (Urd Beans),Koppal,2014-11-08,5302.0,0.0,29.2,clear
+600,Green Gram (Moong),Koppal,2014-11-08,5431.0,0.0,29.2,clear
+601,Green Gram (Moong),Kustagi,2014-11-08,6411.0,0.0,29.2,clear
+602,Arhar (Tur/Red Gram),Koppal,2014-08-14,3740.0,0.0,28.8,clear
+603,Black Gram (Urd Beans),Koppal,2014-08-14,4946.0,0.0,28.8,clear
+604,Green Gram (Moong),Koppal,2014-08-14,6430.0,0.0,28.8,clear
+605,Green Gram (Moong),Kustagi,2014-08-14,6411.0,0.0,28.8,clear
+606,Arhar (Tur/Red Gram),Koppal,2014-04-09,4105.0,0.0,34.6,rain
+607,Black Gram (Urd Beans),Koppal,2014-04-09,3466.0,0.0,34.6,rain
+608,Green Gram (Moong),Kustagi,2014-04-09,6100.0,0.0,34.6,rain
+609,Arhar (Tur/Red Gram),Koppal,2014-09-09,3930.0,0.0,28.4,clear
+610,Green Gram (Moong),Kustagi,2014-09-09,6100.0,0.0,28.4,clear
+611,Arhar (Tur/Red Gram),Koppal,2014-09-18,3285.0,0.0,23.8,clear
+612,Green Gram (Moong),Kustagi,2014-09-18,6150.0,0.0,23.8,clear
+613,Arhar (Tur/Red Gram),Koppal,2014-10-20,3015.0,0.0,28.6,clear
+614,Bengal Gram(Gram),Koppal,2014-10-20,1052.0,0.0,28.6,clear
+615,Arhar (Tur/Red Gram),Koppal,2014-10-27,2309.0,0.0,26.0,clear
+616,Bengal Gram(Gram),Koppal,2014-10-27,1505.0,0.0,26.0,clear
+617,Arhar (Tur/Red Gram),Koppal,2014-12-18,3471.0,0.0,26.6,clear
+618,Arhar (Tur/Red Gram),Koppal,2014-12-23,3501.0,0.0,27.0,clear
+619,Arhar (Tur/Red Gram),Koppal,2014-12-26,3681.0,0.0,24.8,clear
+620,Arhar (Tur/Red Gram),Koppal,2014-12-29,3911.0,1.0,28.8,clear
+621,Bengal Gram(Gram),Koppal,2014-12-05,2217.0,1.0,28.6,clear
+622,Black Gram (Urd Beans),Koppal,2014-12-05,5784.0,5.0,28.6,clear
+623,Green Gram (Moong),Koppal,2014-12-05,6010.0,1.0,28.6,clear
+624,Bengal Gram(Gram),Koppal,2014-05-29,2345.0,0.0,34.6,clear
+625,Bengal Gram(Gram),Kustagi,2014-05-29,2600.0,0.0,34.6,clear
+626,Black Gram (Urd Beans),Koppal,2014-05-29,6096.0,11.0,34.6,clear
+627,Green Gram (Moong),Koppal,2014-05-29,5035.0,0.0,34.6,clear
+628,Bengal Gram(Gram),Koppal,2014-02-06,2162.0,9.0,32.2,clear
+629,Bengal Gram(Gram),Kustagi,2014-02-06,2600.0,0.0,32.2,clear
+630,Black Gram (Urd Beans),Koppal,2014-02-06,5995.0,27.0,32.2,clear
+631,Green Gram (Moong),Koppal,2014-02-06,4870.0,0.0,32.2,clear
+632,Bengal Gram(Gram),Koppal,2014-09-06,2262.0,1.0,25.8,clear
+633,Bengal Gram(Gram),Kustagi,2014-09-06,1900.0,0.0,25.8,clear
+634,Black Gram (Urd Beans),Koppal,2014-09-06,5582.0,31.0,25.8,clear
+635,Green Gram (Moong),Koppal,2014-09-06,4057.0,1.0,25.8,clear
+636,Bengal Gram(Gram),Koppal,2014-06-16,2425.0,0.0,31.0,clear
+637,Bengal Gram(Gram),Kustagi,2014-06-16,1900.0,0.0,31.0,clear
+638,Black Gram (Urd Beans),Koppal,2014-06-16,5700.0,34.0,31.0,clear
+639,Green Gram (Moong),Koppal,2014-06-16,4100.0,0.0,31.0,clear
+640,Bengal Gram(Gram),Koppal,2014-07-07,2726.0,0.0,30.6,clear
+641,Bengal Gram(Gram),Kustagi,2014-07-07,2500.0,0.0,30.6,clear
+642,Black Gram (Urd Beans),Koppal,2014-07-07,6160.0,4.0,30.6,clear
+643,Green Gram (Moong),Koppal,2014-07-07,3820.0,0.0,30.6,clear
+644,Green Gram (Moong),Kustagi,2014-07-07,5200.0,0.0,30.6,clear
+645,Bengal Gram(Gram),Koppal,2014-07-21,1805.0,1.0,26.8,clear
+646,Black Gram (Urd Beans),Koppal,2014-07-21,6703.0,2.0,26.8,clear
+647,Green Gram (Moong),Koppal,2014-07-21,5332.0,0.0,26.8,clear
+648,Green Gram (Moong),Kustagi,2014-07-21,7000.0,0.0,26.8,clear
+649,Bengal Gram(Gram),Koppal,2014-07-08,1901.0,0.0,28.2,rain
+650,Black Gram (Urd Beans),Koppal,2014-07-08,4729.0,0.0,28.2,rain
+651,Green Gram (Moong),Koppal,2014-07-08,4208.0,0.0,28.2,rain
+652,Green Gram (Moong),Kustagi,2014-07-08,6250.0,0.0,28.2,rain
+653,Bengal Gram(Gram),Koppal,2014-08-21,2855.0,0.0,30.0,clear
+654,Green Gram (Moong),Koppal,2014-08-21,5248.0,0.0,30.0,clear
+655,Green Gram (Moong),Kustagi,2014-08-21,6300.0,0.0,30.0,clear
+656,Bengal Gram(Gram),Koppal,2014-08-28,2166.0,0.0,22.6,rain
+657,Green Gram (Moong),Koppal,2014-08-28,4412.0,0.0,22.6,rain
+658,Green Gram (Moong),Kustagi,2014-08-28,6200.0,0.0,22.6,rain
+659,Bengal Gram(Gram),Koppal,2014-09-22,1605.0,0.0,29.6,clear
+660,Green Gram (Moong),Kustagi,2014-09-22,6110.0,0.0,29.6,clear
+661,Bengal Gram(Gram),Koppal,2014-09-10,2247.0,0.0,28.6,clear
+662,Green Gram (Moong),Kustagi,2014-09-10,5800.0,0.0,28.6,clear
+663,Bengal Gram(Gram),Koppal,2014-10-30,2425.0,0.0,29.0,clear
+664,Bengal Gram(Gram),Koppal,2014-07-11,1100.0,0.0,26.0,rain
+665,Bengal Gram(Gram),Koppal,2014-11-13,2100.0,0.0,25.8,clear
+666,Bengal Gram(Gram),Koppal,2014-11-17,1501.0,0.0,29.0,clear
+667,Bengal Gram(Gram),Koppal,2014-11-20,1611.0,0.0,27.6,clear
+668,Bengal Gram(Gram),Kustagi,2014-12-01,2740.0,0.0,28.2,clear
+669,Bengal Gram(Gram),Kustagi,2014-01-19,2800.0,1.0,29.2,clear
+670,Green Gram (Moong),Kustagi,2014-01-19,4100.0,0.0,29.2,clear
+671,Bengal Gram(Gram),Kustagi,2014-01-26,2740.0,1.0,28.6,clear
+672,Green Gram (Moong),Kustagi,2014-01-26,4000.0,0.0,28.6,clear
+673,Bengal Gram(Gram),Kustagi,2014-04-02,2600.0,0.0,36.2,rain
+674,Bengal Gram(Gram),Kustagi,2014-05-02,2600.0,0.0,37.0,rain
+675,Bengal Gram(Gram),Kustagi,2014-09-02,2651.0,1.0,26.4,clear
+676,Green Gram (Moong),Kustagi,2014-09-02,4000.0,0.0,26.4,clear
+677,Bengal Gram(Gram),Kustagi,2014-11-02,2651.0,0.0,29.6,clear
+678,Green Gram (Moong),Kustagi,2014-11-02,4000.0,0.0,29.6,clear
+679,Bengal Gram(Gram),Kustagi,2014-12-02,2651.0,0.0,28.6,clear
+680,Green Gram (Moong),Kustagi,2014-12-02,4000.0,0.0,28.6,clear
+681,Bengal Gram(Gram),Kustagi,2014-02-15,2651.0,0.0,29.6,clear
+682,Green Gram (Moong),Kustagi,2014-02-15,4000.0,0.0,29.6,clear
+683,Bengal Gram(Gram),Kustagi,2014-02-16,2751.0,0.0,28.2,clear
+684,Green Gram (Moong),Kustagi,2014-02-16,4200.0,1.0,28.2,clear
+685,Bengal Gram(Gram),Kustagi,2014-02-18,2751.0,0.0,29.0,clear
+686,Green Gram (Moong),Kustagi,2014-02-18,4200.0,1.0,29.0,clear
+687,Bengal Gram(Gram),Kustagi,2014-02-23,2630.0,1.0,32.0,clear
+688,Bengal Gram(Gram),Kustagi,2014-02-25,2630.0,1.0,31.2,clear
+689,Bengal Gram(Gram),Kustagi,2014-02-26,2630.0,1.0,33.0,rain
+690,Bengal Gram(Gram),Kustagi,2014-02-03,2750.0,0.0,30.6,clear
+691,Bengal Gram(Gram),Kustagi,2014-04-03,2750.0,0.0,36.6,rain
+692,Bengal Gram(Gram),Kustagi,2014-05-03,2750.0,0.0,34.6,rain
+693,Bengal Gram(Gram),Kustagi,2014-09-03,2780.0,0.0,26.0,clear
+694,Green Gram (Moong),Kustagi,2014-09-03,4200.0,0.0,26.0,clear
+695,Bengal Gram(Gram),Kustagi,2014-11-03,2780.0,0.0,30.2,clear
+696,Green Gram (Moong),Kustagi,2014-11-03,4200.0,0.0,30.2,clear
+697,Bengal Gram(Gram),Kustagi,2014-12-03,2780.0,0.0,29.6,rain
+698,Bengal Gram(Gram),Kustagi,2014-03-15,2780.0,0.0,34.6,clear
+699,Bengal Gram(Gram),Kustagi,2014-03-16,2725.0,0.0,35.6,clear
+700,Green Gram (Moong),Kustagi,2014-03-16,4500.0,0.0,35.6,clear
+701,Bengal Gram(Gram),Kustagi,2014-03-18,2725.0,0.0,34.8,clear
+702,Bengal Gram(Gram),Kustagi,2014-03-19,2725.0,0.0,35.0,clear
+703,Green Gram (Moong),Kustagi,2014-03-19,4500.0,0.0,35.0,clear
+704,Bengal Gram(Gram),Kustagi,2014-03-22,2725.0,0.0,35.0,clear
+705,Green Gram (Moong),Kustagi,2014-03-22,4500.0,0.0,35.0,clear
+706,Bengal Gram(Gram),Kustagi,2014-03-23,2710.0,0.0,36.6,clear
+707,Bengal Gram(Gram),Kustagi,2014-03-25,2710.0,0.0,36.2,clear
+708,Bengal Gram(Gram),Kustagi,2014-03-26,2710.0,0.0,36.8,clear
+709,Bengal Gram(Gram),Kustagi,2014-03-29,2710.0,0.0,37.6,clear
+710,Bengal Gram(Gram),Kustagi,2014-03-30,2750.0,0.0,37.6,clear
+711,Green Gram (Moong),Kustagi,2014-03-30,4500.0,0.0,37.6,clear
+712,Bengal Gram(Gram),Kustagi,2014-02-04,2750.0,0.0,31.0,clear
+713,Green Gram (Moong),Kustagi,2014-02-04,4500.0,0.0,31.0,clear
+714,Bengal Gram(Gram),Kustagi,2014-06-04,2710.0,0.0,33.6,rain
+715,Bengal Gram(Gram),Kustagi,2014-08-04,2710.0,0.0,25.2,rain
+716,Bengal Gram(Gram),Kustagi,2014-09-04,2710.0,0.0,26.2,rain
+717,Bengal Gram(Gram),Kustagi,2014-04-13,2650.0,0.0,36.6,clear
+718,Bengal Gram(Gram),Kustagi,2014-04-23,2550.0,0.0,37.2,clear
+719,Bengal Gram(Gram),Kustagi,2014-04-26,2550.0,0.0,35.6,clear
+720,Bengal Gram(Gram),Kustagi,2014-04-27,2660.0,0.0,35.0,rain
+721,Bengal Gram(Gram),Kustagi,2014-04-05,2600.0,0.0,36.6,clear
+722,Bengal Gram(Gram),Kustagi,2014-06-05,2600.0,0.0,33.4,rain
+723,Bengal Gram(Gram),Kustagi,2014-07-05,2600.0,0.0,29.0,clear
+724,Bengal Gram(Gram),Kustagi,2014-11-05,2600.0,0.0,30.2,clear
+725,Bengal Gram(Gram),Kustagi,2014-05-13,2600.0,0.0,36.0,clear
+726,Bengal Gram(Gram),Kustagi,2014-05-18,2600.0,0.0,35.8,clear
+727,Bengal Gram(Gram),Kustagi,2014-05-21,2600.0,0.0,34.6,clear
+728,Bengal Gram(Gram),Kustagi,2014-05-22,2600.0,0.0,33.2,clear
+729,Bengal Gram(Gram),Kustagi,2014-05-25,2600.0,0.0,35.6,clear
+730,Bengal Gram(Gram),Kustagi,2014-05-27,2600.0,0.0,31.0,rain
+731,Bengal Gram(Gram),Kustagi,2014-05-28,2600.0,0.0,35.0,rain
+732,Bengal Gram(Gram),Kustagi,2014-05-31,2600.0,0.0,35.4,clear
+733,Bengal Gram(Gram),Kustagi,2014-01-06,2600.0,0.0,30.6,clear
+734,Bengal Gram(Gram),Kustagi,2014-03-06,2600.0,0.0,30.2,clear
+735,Bengal Gram(Gram),Kustagi,2014-04-06,2600.0,0.0,36.4,clear
+736,Bengal Gram(Gram),Kustagi,2014-08-06,1900.0,0.0,27.0,clear
+737,Bengal Gram(Gram),Kustagi,2014-10-06,1900.0,0.0,31.2,clear
+738,Bengal Gram(Gram),Kustagi,2014-11-06,1900.0,0.0,30.2,clear
+739,Bengal Gram(Gram),Kustagi,2014-06-15,1900.0,0.0,29.6,clear
+740,Bengal Gram(Gram),Kustagi,2014-06-17,1900.0,0.0,29.6,clear
+741,Bengal Gram(Gram),Kustagi,2014-06-18,1900.0,0.0,28.0,clear
+742,Bengal Gram(Gram),Kustagi,2014-06-19,1900.0,0.0,28.0,clear
+743,Black Gram (Urd Beans),Koppal,2014-06-19,6007.0,21.0,28.0,clear
+744,Green Gram (Moong),Koppal,2014-06-19,3968.0,0.0,28.0,clear
+745,Bengal Gram(Gram),Kustagi,2014-06-21,1900.0,0.0,30.6,clear
+746,Bengal Gram(Gram),Kustagi,2014-06-22,2510.0,0.0,31.6,clear
+747,Bengal Gram(Gram),Kustagi,2014-06-25,2510.0,0.0,32.0,clear
+748,Green Gram (Moong),Kustagi,2014-06-25,4110.0,0.0,32.0,clear
+749,Bengal Gram(Gram),Kustagi,2014-06-26,2510.0,0.0,33.0,clear
+750,Black Gram (Urd Beans),Koppal,2014-06-26,5759.0,11.0,33.0,clear
+751,Green Gram (Moong),Koppal,2014-06-26,3795.0,0.0,33.0,clear
+752,Green Gram (Moong),Kustagi,2014-06-26,4110.0,0.0,33.0,clear
+753,Bengal Gram(Gram),Kustagi,2014-06-28,2510.0,0.0,34.0,clear
+754,Green Gram (Moong),Kustagi,2014-06-28,4110.0,0.0,34.0,clear
+755,Bengal Gram(Gram),Kustagi,2014-06-07,2500.0,0.0,32.6,clear
+756,Green Gram (Moong),Kustagi,2014-06-07,5200.0,0.0,32.6,clear
+757,Bengal Gram(Gram),Kustagi,2014-09-07,2500.0,0.0,26.0,clear
+758,Green Gram (Moong),Kustagi,2014-09-07,5200.0,0.0,26.0,clear
+759,Black Gram (Urd Beans),Koppal,2014-06-23,5370.0,13.0,32.0,clear
+760,Green Gram (Moong),Koppal,2014-06-23,3731.0,0.0,32.0,clear
+761,Green Gram (Moong),Kustagi,2014-06-23,4110.0,0.0,32.0,clear
+762,Black Gram (Urd Beans),Koppal,2014-06-30,6024.0,9.0,33.2,clear
+763,Green Gram (Moong),Koppal,2014-06-30,3665.0,0.0,33.2,clear
+764,Black Gram (Urd Beans),Koppal,2014-03-07,5590.0,1.0,31.8,clear
+765,Black Gram (Urd Beans),Koppal,2014-07-14,6778.0,0.0,27.0,clear
+766,Green Gram (Moong),Koppal,2014-07-14,4055.0,0.0,27.0,clear
+767,Green Gram (Moong),Kustagi,2014-07-14,5800.0,0.0,27.0,clear
+768,Black Gram (Urd Beans),Koppal,2014-07-17,6695.0,1.0,26.2,rain
+769,Green Gram (Moong),Koppal,2014-07-17,4545.0,0.0,26.2,rain
+770,Green Gram (Moong),Kustagi,2014-07-17,6600.0,0.0,26.2,rain
+771,Black Gram (Urd Beans),Koppal,2014-04-08,6096.0,1.0,37.2,clear
+772,Green Gram (Moong),Koppal,2014-04-08,5310.0,0.0,37.2,clear
+773,Green Gram (Moong),Kustagi,2014-04-08,5000.0,0.0,37.2,clear
+774,Black Gram (Urd Beans),Koppal,2014-08-18,4003.0,0.0,30.8,rain
+775,Green Gram (Moong),Koppal,2014-08-18,5170.0,0.0,30.8,rain
+776,Green Gram (Moong),Kustagi,2014-08-18,6300.0,0.0,30.8,rain
+777,Black Gram (Urd Beans),Koppal,2014-11-27,3609.0,0.0,28.4,clear
+778,Green Gram (Moong),Kustagi,2014-06-24,4110.0,0.0,32.4,clear
+779,Green Gram (Moong),Kustagi,2014-02-07,5000.0,0.0,32.0,clear
+780,Green Gram (Moong),Kustagi,2014-05-07,5000.0,0.0,33.2,rain
+781,Green Gram (Moong),Kustagi,2014-08-07,5200.0,0.0,26.2,clear
+782,Green Gram (Moong),Kustagi,2014-07-16,6600.0,0.0,25.0,clear
+783,Green Gram (Moong),Kustagi,2014-07-19,6600.0,0.0,26.6,rain
+784,Green Gram (Moong),Kustagi,2014-07-20,7000.0,0.0,25.4,clear
+785,Green Gram (Moong),Kustagi,2014-07-22,7000.0,0.0,25.8,rain
+786,Green Gram (Moong),Kustagi,2014-07-23,7000.0,0.0,24.0,rain
+787,Green Gram (Moong),Kustagi,2014-07-27,6500.0,0.0,28.0,clear
+788,Green Gram (Moong),Kustagi,2014-07-30,6500.0,0.0,24.2,rain
+789,Green Gram (Moong),Kustagi,2014-02-08,6500.0,0.0,32.6,clear
+790,Green Gram (Moong),Kustagi,2014-03-08,6250.0,0.0,32.0,rain
+791,Green Gram (Moong),Kustagi,2014-05-08,6250.0,0.0,30.0,rain
+792,Green Gram (Moong),Kustagi,2014-06-08,6250.0,0.0,32.2,clear
+793,Green Gram (Moong),Kustagi,2014-10-08,6411.0,0.0,30.0,rain
+794,Green Gram (Moong),Kustagi,2014-12-08,6411.0,0.0,29.6,clear
+795,Green Gram (Moong),Kustagi,2014-08-13,6411.0,0.0,28.8,clear
+796,Green Gram (Moong),Kustagi,2014-08-16,6411.0,0.0,28.6,clear
+797,Green Gram (Moong),Kustagi,2014-08-17,6300.0,0.0,30.0,clear
+798,Green Gram (Moong),Kustagi,2014-08-19,6300.0,0.0,29.6,clear
+799,Green Gram (Moong),Kustagi,2014-08-20,6300.0,0.0,31.2,rain
+800,Green Gram (Moong),Kustagi,2014-08-24,6200.0,1.0,27.6,clear
+801,Green Gram (Moong),Kustagi,2014-08-26,6200.0,0.0,25.4,clear
+802,Green Gram (Moong),Kustagi,2014-08-27,6200.0,0.0,24.4,clear
+803,Green Gram (Moong),Kustagi,2014-08-30,6200.0,0.0,26.0,clear
+804,Green Gram (Moong),Kustagi,2014-08-31,6100.0,0.0,24.8,clear
+805,Green Gram (Moong),Kustagi,2014-01-09,6100.0,0.0,29.4,clear
+806,Green Gram (Moong),Kustagi,2014-02-09,6100.0,0.0,32.0,clear
+807,Green Gram (Moong),Kustagi,2014-03-09,6100.0,0.0,29.8,clear
+808,Green Gram (Moong),Kustagi,2014-06-09,6100.0,0.0,32.4,clear
+809,Green Gram (Moong),Kustagi,2014-07-09,6100.0,0.0,26.2,rain
+810,Green Gram (Moong),Kustagi,2014-08-09,6100.0,0.0,27.2,clear
+811,Green Gram (Moong),Kustagi,2014-10-09,6100.0,0.0,30.6,clear
+812,Green Gram (Moong),Kustagi,2014-09-14,6150.0,0.0,30.2,rain
+813,Green Gram (Moong),Kustagi,2014-09-20,6150.0,0.0,26.0,clear
+814,Green Gram (Moong),Kustagi,2014-09-21,6110.0,0.0,27.6,clear
+815,Green Gram (Moong),Kustagi,2014-09-25,6110.0,0.0,30.2,clear
+816,Green Gram (Moong),Kustagi,2014-09-27,6110.0,0.0,31.6,clear
+817,Green Gram (Moong),Kustagi,2014-09-28,5800.0,0.0,31.0,clear
+818,Green Gram (Moong),Kustagi,2014-09-29,5800.0,0.0,31.6,clear
+819,Green Gram (Moong),Kustagi,2014-07-10,5800.0,0.0,26.8,clear
+820,Green Gram (Moong),Kustagi,2014-12-10,5800.0,0.0,29.8,clear
+821,Arhar (Tur/Red Gram),Koppal,2015-01-01,3838.0,23.0,28.6,clear
+822,Arhar (Tur/Red Gram),Koppal,2015-05-01,4088.0,63.0,38.4,clear
+823,Black Gram (Urd Beans),Koppal,2015-05-01,5639.0,1.0,38.4,clear
+824,Arhar (Tur/Red Gram),Koppal,2015-09-01,4111.0,33.0,30.4,clear
+825,Arhar (Tur/Red Gram),Koppal,2015-12-01,4180.0,125.0,29.2,clear
+826,Bengal Gram(Gram),Koppal,2015-12-01,2805.0,3.0,29.2,clear
+827,Black Gram (Urd Beans),Koppal,2015-12-01,5789.0,1.0,29.2,clear
+828,Green Gram (Moong),Koppal,2015-12-01,6551.0,2.0,29.2,clear
+829,Arhar (Tur/Red Gram),Koppal,2015-01-16,4111.0,139.0,27.6,clear
+830,Arhar (Tur/Red Gram),Koppal,2015-01-19,4141.0,213.0,29.2,clear
+831,Bengal Gram(Gram),Koppal,2015-01-19,2801.0,9.0,29.2,clear
+832,Green Gram (Moong),Koppal,2015-01-19,5909.0,1.0,29.2,clear
+833,Arhar (Tur/Red Gram),Koppal,2015-01-22,4066.0,206.0,29.2,clear
+834,Bengal Gram(Gram),Koppal,2015-01-22,2628.0,6.0,29.2,clear
+835,Green Gram (Moong),Koppal,2015-01-22,6057.0,1.0,29.2,clear
+836,Arhar (Tur/Red Gram),Koppal,2015-01-27,4092.0,28.0,29.0,clear
+837,Bengal Gram(Gram),Koppal,2015-01-27,3176.0,2.0,29.0,clear
+838,Green Gram (Moong),Koppal,2015-01-27,6104.0,0.0,29.0,clear
+839,Arhar (Tur/Red Gram),Koppal,2015-01-29,4099.0,237.0,30.0,clear
+840,Bengal Gram(Gram),Koppal,2015-01-29,2830.0,5.0,30.0,clear
+841,Black Gram (Urd Beans),Koppal,2015-01-29,4809.0,1.0,30.0,clear
+842,Green Gram (Moong),Koppal,2015-01-29,5810.0,10.0,30.0,clear
+843,Arhar (Tur/Red Gram),Koppal,2015-02-02,4028.0,237.0,29.6,clear
+844,Bengal Gram(Gram),Koppal,2015-02-02,3477.0,14.0,29.6,clear
+845,Green Gram (Moong),Koppal,2015-02-02,5557.0,5.0,29.6,clear
+846,Arhar (Tur/Red Gram),Koppal,2015-05-02,4182.0,152.0,37.8,clear
+847,Bengal Gram(Gram),Koppal,2015-05-02,3120.0,13.0,37.8,clear
+848,Black Gram (Urd Beans),Koppal,2015-05-02,5819.0,1.0,37.8,clear
+849,Green Gram (Moong),Koppal,2015-05-02,6083.0,3.0,37.8,clear
+850,Arhar (Tur/Red Gram),Koppal,2015-09-02,4170.0,198.0,29.8,clear
+851,Bengal Gram(Gram),Koppal,2015-09-02,3346.0,11.0,29.8,clear
+852,Bengal Gram(Gram),Kustagi,2015-09-02,3511.0,5.0,29.8,clear
+853,Black Gram (Urd Beans),Koppal,2015-09-02,5605.0,2.0,29.8,clear
+854,Green Gram (Moong),Koppal,2015-09-02,5568.0,7.0,29.8,clear
+855,Arhar (Tur/Red Gram),Koppal,2015-12-02,4281.0,9.0,28.4,clear
+856,Bengal Gram(Gram),Koppal,2015-12-02,3329.0,1.0,28.4,clear
+857,Black Gram (Urd Beans),Koppal,2015-12-02,5382.0,1.0,28.4,clear
+858,Green Gram (Moong),Koppal,2015-12-02,5810.0,1.0,28.4,clear
+859,Arhar (Tur/Red Gram),Koppal,2015-02-16,4417.0,11.0,33.4,clear
+860,Bengal Gram(Gram),Koppal,2015-02-16,2946.0,1.0,33.4,clear
+861,Black Gram (Urd Beans),Koppal,2015-02-16,4238.0,1.0,33.4,clear
+862,Green Gram (Moong),Koppal,2015-02-16,5940.0,3.0,33.4,clear
+863,Arhar (Tur/Red Gram),Koppal,2015-02-19,4718.0,7.0,32.6,clear
+864,Bengal Gram(Gram),Koppal,2015-02-19,2011.0,1.0,32.6,clear
+865,Black Gram (Urd Beans),Koppal,2015-02-19,5144.0,0.0,32.6,clear
+866,Green Gram (Moong),Koppal,2015-02-19,6111.0,4.0,32.6,clear
+867,Arhar (Tur/Red Gram),Koppal,2015-02-23,4641.0,13.0,32.0,clear
+868,Bengal Gram(Gram),Koppal,2015-02-23,3420.0,2.0,32.0,clear
+869,Bengal Gram(Gram),Kustagi,2015-02-23,3711.0,0.0,32.0,clear
+870,Green Gram (Moong),Koppal,2015-02-23,6317.0,3.0,32.0,clear
+871,Arhar (Tur/Red Gram),Koppal,2015-02-26,4472.0,10.0,33.2,clear
+872,Bengal Gram(Gram),Koppal,2015-02-26,3380.0,2.0,33.2,clear
+873,Black Gram (Urd Beans),Koppal,2015-02-26,5609.0,0.0,33.2,clear
+874,Green Gram (Moong),Koppal,2015-02-26,6242.0,3.0,33.2,clear
+875,Arhar (Tur/Red Gram),Koppal,2015-02-03,4601.0,12.0,29.2,clear
+876,Bengal Gram(Gram),Koppal,2015-02-03,3430.0,4.0,29.2,clear
+877,Black Gram (Urd Beans),Koppal,2015-02-03,6070.0,0.0,29.2,clear
+878,Green Gram (Moong),Koppal,2015-02-03,6187.0,4.0,29.2,clear
+879,Arhar (Tur/Red Gram),Koppal,2015-05-03,4363.0,7.0,36.8,clear
+880,Bengal Gram(Gram),Koppal,2015-05-03,3424.0,2.0,36.8,clear
+881,Black Gram (Urd Beans),Koppal,2015-05-03,6191.0,0.0,36.8,clear
+882,Green Gram (Moong),Koppal,2015-05-03,6066.0,2.0,36.8,clear
+883,Arhar (Tur/Red Gram),Koppal,2015-09-03,4611.0,5.0,31.0,clear
+884,Bengal Gram(Gram),Koppal,2015-09-03,3317.0,2.0,31.0,clear
+885,Black Gram (Urd Beans),Koppal,2015-09-03,5955.0,1.0,31.0,clear
+886,Green Gram (Moong),Koppal,2015-09-03,6291.0,4.0,31.0,clear
+887,Arhar (Tur/Red Gram),Koppal,2015-12-03,4721.0,5.0,28.8,clear
+888,Bengal Gram(Gram),Koppal,2015-12-03,3296.0,3.0,28.8,clear
+889,Black Gram (Urd Beans),Koppal,2015-12-03,5811.0,0.0,28.8,clear
+890,Green Gram (Moong),Koppal,2015-12-03,6605.0,2.0,28.8,clear
+891,Arhar (Tur/Red Gram),Koppal,2015-03-16,4053.0,4.0,33.8,clear
+892,Bengal Gram(Gram),Koppal,2015-03-16,3214.0,3.0,33.8,clear
+893,Black Gram (Urd Beans),Koppal,2015-03-16,6017.0,0.0,33.8,clear
+894,Green Gram (Moong),Koppal,2015-03-16,6194.0,2.0,33.8,clear
+895,Arhar (Tur/Red Gram),Koppal,2015-03-19,4605.0,5.0,35.0,clear
+896,Bengal Gram(Gram),Koppal,2015-03-19,3248.0,1.0,35.0,clear
+897,Bengal Gram(Gram),Kustagi,2015-03-19,4500.0,0.0,35.0,clear
+898,Green Gram (Moong),Koppal,2015-03-19,6332.0,2.0,35.0,clear
+899,Arhar (Tur/Red Gram),Koppal,2015-03-23,4518.0,3.0,35.4,clear
+900,Bengal Gram(Gram),Koppal,2015-03-23,3012.0,2.0,35.4,clear
+901,Black Gram (Urd Beans),Koppal,2015-03-23,6167.0,0.0,35.4,clear
+902,Green Gram (Moong),Koppal,2015-03-23,6115.0,2.0,35.4,clear
+903,Arhar (Tur/Red Gram),Koppal,2015-03-26,4604.0,1.0,35.6,clear
+904,Bengal Gram(Gram),Koppal,2015-03-26,3077.0,1.0,35.6,clear
+905,Green Gram (Moong),Koppal,2015-03-26,6195.0,1.0,35.6,clear
+906,Arhar (Tur/Red Gram),Koppal,2015-03-30,4574.0,2.0,35.6,clear
+907,Bengal Gram(Gram),Koppal,2015-03-30,3217.0,2.0,35.6,clear
+908,Green Gram (Moong),Koppal,2015-03-30,6421.0,2.0,35.6,clear
+909,Arhar (Tur/Red Gram),Koppal,2015-06-04,4615.0,2.0,33.4,rain
+910,Bengal Gram(Gram),Koppal,2015-06-04,3277.0,4.0,33.4,rain
+911,Black Gram (Urd Beans),Koppal,2015-06-04,5801.0,0.0,33.4,rain
+912,Green Gram (Moong),Koppal,2015-06-04,6389.0,6.0,33.4,rain
+913,Arhar (Tur/Red Gram),Koppal,2015-09-04,4910.0,1.0,32.0,clear
+914,Bengal Gram(Gram),Koppal,2015-09-04,3330.0,1.0,32.0,clear
+915,Black Gram (Urd Beans),Koppal,2015-09-04,4520.0,0.0,32.0,clear
+916,Green Gram (Moong),Koppal,2015-09-04,6581.0,2.0,32.0,clear
+917,Arhar (Tur/Red Gram),Koppal,2015-04-13,4557.0,1.0,31.8,clear
+918,Bengal Gram(Gram),Koppal,2015-04-13,3495.0,1.0,31.8,clear
+919,Black Gram (Urd Beans),Koppal,2015-04-13,6103.0,1.0,31.8,clear
+920,Green Gram (Moong),Koppal,2015-04-13,6568.0,2.0,31.8,clear
+921,Arhar (Tur/Red Gram),Koppal,2015-04-16,5247.0,0.0,33.0,clear
+922,Bengal Gram(Gram),Koppal,2015-04-16,3581.0,1.0,33.0,clear
+923,Black Gram (Urd Beans),Koppal,2015-04-16,6176.0,0.0,33.0,clear
+924,Green Gram (Moong),Koppal,2015-04-16,6272.0,2.0,33.0,clear
+925,Arhar (Tur/Red Gram),Koppal,2015-04-20,5123.0,1.0,37.2,clear
+926,Bengal Gram(Gram),Koppal,2015-04-20,3722.0,1.0,37.2,clear
+927,Black Gram (Urd Beans),Koppal,2015-04-20,6378.0,2.0,37.2,clear
+928,Green Gram (Moong),Koppal,2015-04-20,6639.0,4.0,37.2,clear
+929,Arhar (Tur/Red Gram),Koppal,2015-04-23,5354.0,0.0,34.2,clear
+930,Bengal Gram(Gram),Koppal,2015-04-23,3701.0,0.0,34.2,clear
+931,Black Gram (Urd Beans),Koppal,2015-04-23,6772.0,2.0,34.2,clear
+932,Green Gram (Moong),Koppal,2015-04-23,6687.0,2.0,34.2,clear
+933,Arhar (Tur/Red Gram),Koppal,2015-04-27,5298.0,0.0,35.2,clear
+934,Bengal Gram(Gram),Koppal,2015-04-27,3761.0,0.0,35.2,clear
+935,Black Gram (Urd Beans),Koppal,2015-04-27,6850.0,2.0,35.2,clear
+936,Green Gram (Moong),Koppal,2015-04-27,6587.0,6.0,35.2,clear
+937,Arhar (Tur/Red Gram),Koppal,2015-07-05,5619.0,0.0,31.6,clear
+938,Bengal Gram(Gram),Koppal,2015-07-05,4197.0,1.0,31.6,clear
+939,Black Gram (Urd Beans),Koppal,2015-07-05,8312.0,6.0,31.6,clear
+940,Green Gram (Moong),Koppal,2015-07-05,6903.0,3.0,31.6,clear
+941,Arhar (Tur/Red Gram),Koppal,2015-11-05,5809.0,0.0,30.6,clear
+942,Bengal Gram(Gram),Koppal,2015-11-05,4009.0,0.0,30.6,clear
+943,Bengal Gram(Gram),Kustagi,2015-11-05,4000.0,0.0,30.6,clear
+944,Black Gram (Urd Beans),Koppal,2015-11-05,8330.0,6.0,30.6,clear
+945,Green Gram (Moong),Koppal,2015-11-05,6878.0,6.0,30.6,clear
+946,Arhar (Tur/Red Gram),Koppal,2015-05-14,5142.0,0.0,33.4,clear
+947,Bengal Gram(Gram),Koppal,2015-05-14,4008.0,0.0,33.4,clear
+948,Black Gram (Urd Beans),Koppal,2015-05-14,8178.0,8.0,33.4,clear
+949,Green Gram (Moong),Koppal,2015-05-14,6476.0,5.0,33.4,clear
+950,Arhar (Tur/Red Gram),Koppal,2015-05-18,5731.0,0.0,35.0,clear
+951,Bengal Gram(Gram),Koppal,2015-05-18,4076.0,0.0,35.0,clear
+952,Black Gram (Urd Beans),Koppal,2015-05-18,8309.0,13.0,35.0,clear
+953,Green Gram (Moong),Koppal,2015-05-18,6232.0,6.0,35.0,clear
+954,Arhar (Tur/Red Gram),Koppal,2015-05-21,5691.0,0.0,35.8,clear
+955,Black Gram (Urd Beans),Koppal,2015-05-21,8420.0,8.0,35.8,clear
+956,Green Gram (Moong),Koppal,2015-05-21,6757.0,3.0,35.8,clear
+957,Arhar (Tur/Red Gram),Koppal,2015-05-25,5411.0,0.0,36.4,clear
+958,Bengal Gram(Gram),Koppal,2015-05-25,4250.0,0.0,36.4,clear
+959,Black Gram (Urd Beans),Koppal,2015-05-25,8436.0,29.0,36.4,clear
+960,Green Gram (Moong),Koppal,2015-05-25,6595.0,4.0,36.4,clear
+961,Arhar (Tur/Red Gram),Koppal,2015-05-28,5328.0,0.0,35.0,clear
+962,Bengal Gram(Gram),Koppal,2015-05-28,4219.0,0.0,35.0,clear
+963,Bengal Gram(Gram),Yalburga,2015-05-28,4200.0,11.0,35.0,clear
+964,Black Gram (Urd Beans),Koppal,2015-05-28,8369.0,22.0,35.0,clear
+965,Green Gram (Moong),Koppal,2015-05-28,6848.0,3.0,35.0,clear
+966,Arhar (Tur/Red Gram),Koppal,2015-01-06,5705.0,0.0,26.6,clear
+967,Black Gram (Urd Beans),Koppal,2015-01-06,8426.0,14.0,26.6,clear
+968,Green Gram (Moong),Koppal,2015-01-06,6713.0,2.0,26.6,clear
+969,Arhar (Tur/Red Gram),Koppal,2015-04-06,5080.0,0.0,37.0,clear
+970,Bengal Gram(Gram),Koppal,2015-04-06,3999.0,0.0,37.0,clear
+971,Black Gram (Urd Beans),Koppal,2015-04-06,8559.0,9.0,37.0,clear
+972,Green Gram (Moong),Koppal,2015-04-06,6703.0,1.0,37.0,clear
+973,Arhar (Tur/Red Gram),Koppal,2015-11-06,4900.0,0.0,31.6,clear
+974,Bengal Gram(Gram),Kustagi,2015-11-06,4000.0,0.0,31.6,clear
+975,Black Gram (Urd Beans),Koppal,2015-11-06,8355.0,26.0,31.6,clear
+976,Green Gram (Moong),Koppal,2015-11-06,5811.0,3.0,31.6,clear
+977,Arhar (Tur/Red Gram),Koppal,2015-06-15,5238.0,0.0,30.0,clear
+978,Bengal Gram(Gram),Koppal,2015-06-15,3001.0,0.0,30.0,clear
+979,Bengal Gram(Gram),Kustagi,2015-06-15,4000.0,0.0,30.0,clear
+980,Black Gram (Urd Beans),Koppal,2015-06-15,7891.0,35.0,30.0,clear
+981,Green Gram (Moong),Koppal,2015-06-15,5466.0,4.0,30.0,clear
+982,Arhar (Tur/Red Gram),Koppal,2015-06-17,5100.0,0.0,29.0,clear
+983,Bengal Gram(Gram),Kustagi,2015-06-17,4000.0,0.0,29.0,clear
+984,Black Gram (Urd Beans),Koppal,2015-06-17,7443.0,28.0,29.0,clear
+985,Green Gram (Moong),Koppal,2015-06-17,5302.0,1.0,29.0,clear
+986,Arhar (Tur/Red Gram),Koppal,2015-06-18,5100.0,0.0,27.6,clear
+987,Bengal Gram(Gram),Kustagi,2015-06-18,4250.0,0.0,27.6,clear
+988,Black Gram (Urd Beans),Koppal,2015-06-18,7443.0,28.0,27.6,clear
+989,Green Gram (Moong),Koppal,2015-06-18,5302.0,1.0,27.6,clear
+990,Arhar (Tur/Red Gram),Koppal,2015-06-25,5409.0,0.0,28.0,clear
+991,Bengal Gram(Gram),Koppal,2015-06-25,2100.0,0.0,28.0,clear
+992,Bengal Gram(Gram),Kustagi,2015-06-25,4000.0,0.0,28.0,clear
+993,Black Gram (Urd Beans),Koppal,2015-06-25,6052.0,10.0,28.0,clear
+994,Green Gram (Moong),Koppal,2015-06-25,4440.0,2.0,28.0,clear
+995,Arhar (Tur/Red Gram),Koppal,2015-02-07,5029.0,0.0,31.8,clear
+996,Bengal Gram(Gram),Koppal,2015-02-07,2903.0,0.0,31.8,clear
+997,Black Gram (Urd Beans),Koppal,2015-02-07,5949.0,6.0,31.8,clear
+998,Green Gram (Moong),Koppal,2015-02-07,3085.0,1.0,31.8,clear
+999,Arhar (Tur/Red Gram),Koppal,2015-07-16,4809.0,0.0,29.4,clear
+1000,Black Gram (Urd Beans),Koppal,2015-07-16,6665.0,1.0,29.4,clear
+1001,Green Gram (Moong),Koppal,2015-07-16,4017.0,0.0,29.4,clear
+1002,Arhar (Tur/Red Gram),Koppal,2015-10-08,6115.0,0.0,29.4,clear
+1003,Black Gram (Urd Beans),Koppal,2015-10-08,4435.0,0.0,29.4,clear
+1004,Arhar (Tur/Red Gram),Koppal,2015-08-31,6555.0,0.0,29.4,clear
+1005,Green Gram (Moong),Koppal,2015-08-31,6805.0,0.0,29.4,clear
+1006,Arhar (Tur/Red Gram),Koppal,2015-05-09,4011.0,0.0,30.4,clear
+1007,Green Gram (Moong),Koppal,2015-05-09,6217.0,0.0,30.4,clear
+1008,Arhar (Tur/Red Gram),Koppal,2015-05-10,4011.0,0.0,37.6,clear
+1009,Green Gram (Moong),Koppal,2015-05-10,6217.0,0.0,37.6,clear
+1010,Arhar (Tur/Red Gram),Koppal,2015-11-26,4309.0,0.0,30.6,clear
+1011,Arhar (Tur/Red Gram),Koppal,2015-07-12,7624.0,1.0,31.0,clear
+1012,Arhar (Tur/Red Gram),Koppal,2015-10-12,8107.0,2.0,30.2,clear
+1013,Arhar (Tur/Red Gram),Koppal,2015-12-14,7996.0,1.0,32.6,clear
+1014,Arhar (Tur/Red Gram),Koppal,2015-12-17,8259.0,4.0,32.0,clear
+1015,Black Gram (Urd Beans),Koppal,2015-12-17,8102.0,0.0,32.0,clear
+1016,Green Gram (Moong),Koppal,2015-12-17,1000.0,0.0,32.0,clear
+1017,Arhar (Tur/Red Gram),Koppal,2015-12-21,8384.0,2.0,31.6,clear
+1018,Black Gram (Urd Beans),Koppal,2015-12-21,8525.0,0.0,31.6,clear
+1019,Arhar (Tur/Red Gram),Koppal,2015-12-28,6952.0,12.0,28.6,clear
+1020,Bengal Gram(Gram),Koppal,2015-12-28,4543.0,1.0,28.6,clear
+1021,Bengal Gram(Gram),Kustagi,2015-12-28,4650.0,0.0,28.6,clear
+1022,Black Gram (Urd Beans),Koppal,2015-12-28,7803.0,0.0,28.6,clear
+1023,Green Gram (Moong),Koppal,2015-12-28,5019.0,0.0,28.6,clear
+1024,Green Gram (Moong),Yalburga,2015-12-28,8200.0,3.0,28.6,clear
+1025,Arhar (Tur/Red Gram),Koppal,2015-12-31,5392.0,10.0,30.8,clear
+1026,Bengal Gram(Gram),Koppal,2015-12-31,4121.0,0.0,30.8,clear
+1027,Black Gram (Urd Beans),Koppal,2015-12-31,8899.0,0.0,30.8,clear
+1028,Green Gram (Moong),Koppal,2015-12-31,5019.0,0.0,30.8,clear
+1029,Bengal Gram(Gram),Koppal,2015-04-30,3793.0,0.0,37.2,clear
+1030,Bengal Gram(Gram),Kustagi,2015-04-30,3900.0,0.0,37.2,clear
+1031,Black Gram (Urd Beans),Koppal,2015-04-30,7205.0,1.0,37.2,clear
+1032,Green Gram (Moong),Koppal,2015-04-30,6459.0,3.0,37.2,clear
+1033,Bengal Gram(Gram),Koppal,2015-08-06,3084.0,0.0,29.6,clear
+1034,Black Gram (Urd Beans),Koppal,2015-08-06,8219.0,26.0,29.6,clear
+1035,Green Gram (Moong),Koppal,2015-08-06,6089.0,2.0,29.6,clear
+1036,Bengal Gram(Gram),Koppal,2015-06-07,3232.0,0.0,33.8,clear
+1037,Bengal Gram(Gram),Yalburga,2015-06-07,4200.0,15.0,33.8,clear
+1038,Black Gram (Urd Beans),Koppal,2015-06-07,6032.0,8.0,33.8,clear
+1039,Green Gram (Moong),Koppal,2015-06-07,3203.0,2.0,33.8,clear
+1040,Bengal Gram(Gram),Koppal,2015-07-23,3050.0,0.0,30.6,clear
+1041,Black Gram (Urd Beans),Koppal,2015-07-23,4753.0,1.0,30.6,clear
+1042,Green Gram (Moong),Koppal,2015-07-23,3891.0,1.0,30.6,clear
+1043,Bengal Gram(Gram),Koppal,2015-11-23,4611.0,0.0,28.0,clear
+1044,Bengal Gram(Gram),Kustagi,2015-11-01,3160.0,1.0,30.0,clear
+1045,Bengal Gram(Gram),Kustagi,2015-01-18,3075.0,1.0,29.0,clear
+1046,Bengal Gram(Gram),Kustagi,2015-01-24,3075.0,1.0,30.0,clear
+1047,Bengal Gram(Gram),Kustagi,2015-01-25,3311.0,1.0,30.0,clear
+1048,Green Gram (Moong),Kustagi,2015-01-25,5000.0,1.0,30.0,clear
+1049,Bengal Gram(Gram),Kustagi,2015-01-28,3311.0,1.0,29.6,clear
+1050,Bengal Gram(Gram),Kustagi,2015-01-02,3660.0,4.0,27.8,clear
+1051,Bengal Gram(Gram),Kustagi,2015-10-02,3511.0,1.0,29.0,clear
+1052,Bengal Gram(Gram),Kustagi,2015-02-15,3651.0,0.0,32.8,clear
+1053,Bengal Gram(Gram),Kustagi,2015-02-22,3711.0,0.0,32.0,clear
+1054,Bengal Gram(Gram),Kustagi,2015-01-03,3511.0,0.0,27.4,clear
+1055,Bengal Gram(Gram),Kustagi,2015-08-03,3525.0,0.0,30.6,clear
+1056,Bengal Gram(Gram),Kustagi,2015-03-15,3500.0,0.0,32.6,clear
+1057,Bengal Gram(Gram),Kustagi,2015-03-17,3500.0,0.0,33.8,clear
+1058,Bengal Gram(Gram),Kustagi,2015-03-22,3515.0,0.0,36.0,clear
+1059,Bengal Gram(Gram),Kustagi,2015-01-04,3580.0,0.0,27.2,clear
+1060,Bengal Gram(Gram),Kustagi,2015-04-04,3580.0,0.0,35.6,clear
+1061,Bengal Gram(Gram),Yalburga,2015-04-04,3600.0,1.0,35.6,clear
+1062,Bengal Gram(Gram),Kustagi,2015-12-04,3300.0,0.0,29.6,clear
+1063,Bengal Gram(Gram),Kustagi,2015-04-26,3900.0,0.0,35.2,clear
+1064,Bengal Gram(Gram),Kustagi,2015-04-28,3900.0,0.0,36.6,rain
+1065,Bengal Gram(Gram),Kustagi,2015-02-05,3900.0,0.0,30.2,clear
+1066,Bengal Gram(Gram),Kustagi,2015-10-05,4000.0,0.0,27.6,rain
+1067,Bengal Gram(Gram),Kustagi,2015-12-05,4000.0,0.0,29.6,clear
+1068,Bengal Gram(Gram),Kustagi,2015-05-13,4000.0,0.0,30.2,rain
+1069,Bengal Gram(Gram),Kustagi,2015-05-17,4250.0,0.0,36.0,clear
+1070,Bengal Gram(Gram),Kustagi,2015-05-23,4300.0,0.0,36.6,clear
+1071,Bengal Gram(Gram),Kustagi,2015-05-24,4300.0,0.0,37.0,clear
+1072,Bengal Gram(Gram),Kustagi,2015-05-30,4300.0,0.0,34.6,clear
+1073,Bengal Gram(Gram),Kustagi,2015-05-31,4100.0,0.0,35.6,rain
+1074,Bengal Gram(Gram),Kustagi,2015-07-06,4000.0,0.0,31.2,clear
+1075,Bengal Gram(Gram),Kustagi,2015-06-14,4000.0,0.0,27.2,clear
+1076,Bengal Gram(Gram),Kustagi,2015-06-21,4000.0,0.0,25.0,clear
+1077,Bengal Gram(Gram),Kustagi,2015-06-22,4000.0,0.0,27.0,clear
+1078,Black Gram (Urd Beans),Koppal,2015-06-22,6737.0,18.0,27.0,clear
+1079,Green Gram (Moong),Koppal,2015-06-22,4907.0,3.0,27.0,clear
+1080,Bengal Gram(Gram),Kustagi,2015-06-23,4000.0,0.0,28.4,clear
+1081,Bengal Gram(Gram),Kustagi,2015-06-24,4000.0,0.0,27.0,clear
+1082,Bengal Gram(Gram),Kustagi,2015-06-28,3800.0,0.0,30.8,clear
+1083,Bengal Gram(Gram),Kustagi,2015-06-29,3800.0,0.0,31.4,clear
+1084,Bengal Gram(Gram),Kustagi,2015-07-14,3800.0,0.0,32.4,clear
+1085,Bengal Gram(Gram),Kustagi,2015-07-25,3800.0,0.0,27.8,clear
+1086,Green Gram (Moong),Kustagi,2015-07-25,6750.0,0.0,27.8,clear
+1087,Bengal Gram(Gram),Kustagi,2015-07-26,3800.0,0.0,30.0,clear
+1088,Green Gram (Moong),Kustagi,2015-07-26,6050.0,0.0,30.0,clear
+1089,Bengal Gram(Gram),Kustagi,2015-07-27,3800.0,0.0,27.0,clear
+1090,Black Gram (Urd Beans),Koppal,2015-07-27,5987.0,1.0,27.0,clear
+1091,Green Gram (Moong),Koppal,2015-07-27,4030.0,0.0,27.0,clear
+1092,Green Gram (Moong),Kustagi,2015-07-27,6050.0,0.0,27.0,clear
+1093,Bengal Gram(Gram),Yalburga,2015-10-04,3850.0,43.0,27.0,rain
+1094,Bengal Gram(Gram),Yalburga,2015-06-05,4300.0,6.0,32.2,clear
+1095,Bengal Gram(Gram),Yalburga,2015-10-17,4800.0,7.0,30.0,clear
+1096,Black Gram (Urd Beans),Koppal,2015-06-30,6628.0,7.0,30.2,clear
+1097,Green Gram (Moong),Koppal,2015-06-30,3494.0,2.0,30.2,clear
+1098,Black Gram (Urd Beans),Koppal,2015-09-07,5974.0,3.0,28.4,clear
+1099,Green Gram (Moong),Koppal,2015-09-07,1385.0,1.0,28.4,clear
+1100,Black Gram (Urd Beans),Koppal,2015-07-30,5005.0,1.0,29.6,clear
+1101,Green Gram (Moong),Koppal,2015-07-30,3913.0,0.0,29.6,clear
+1102,Black Gram (Urd Beans),Koppal,2015-03-08,5586.0,1.0,32.0,rain
+1103,Green Gram (Moong),Koppal,2015-03-08,4358.0,0.0,32.0,rain
+1104,Black Gram (Urd Beans),Koppal,2015-06-08,5066.0,0.0,31.0,clear
+1105,Black Gram (Urd Beans),Koppal,2015-08-13,5913.0,1.0,29.4,clear
+1106,Green Gram (Moong),Koppal,2015-08-13,4887.0,0.0,29.4,clear
+1107,Green Gram (Moong),Kustagi,2015-08-13,6250.0,0.0,29.4,clear
+1108,Black Gram (Urd Beans),Koppal,2015-08-17,6007.0,0.0,31.6,rain
+1109,Green Gram (Moong),Koppal,2015-08-17,6404.0,0.0,31.6,rain
+1110,Green Gram (Moong),Yalburga,2015-08-17,6500.0,10.0,31.6,rain
+1111,Black Gram (Urd Beans),Koppal,2015-08-24,6005.0,0.0,26.6,clear
+1112,Green Gram (Moong),Kustagi,2015-08-24,6600.0,0.0,26.6,clear
+1113,Green Gram (Moong),Yalburga,2015-08-24,7500.0,1.0,26.6,clear
+1114,Black Gram (Urd Beans),Koppal,2015-08-09,4501.0,0.0,28.4,clear
+1115,Green Gram (Moong),Koppal,2015-08-09,6365.0,0.0,28.4,clear
+1116,Black Gram (Urd Beans),Koppal,2015-10-09,6100.0,0.0,31.2,rain
+1117,Black Gram (Urd Beans),Koppal,2015-10-13,7111.0,0.0,31.0,clear
+1118,Black Gram (Urd Beans),Koppal,2015-10-15,3111.0,0.0,33.0,clear
+1119,Black Gram (Urd Beans),Koppal,2015-10-19,9511.0,0.0,31.4,clear
+1120,Black Gram (Urd Beans),Koppal,2015-10-26,4049.0,0.0,30.6,clear
+1121,Green Gram (Moong),Yalburga,2015-10-26,7700.0,66.0,30.6,clear
+1122,Black Gram (Urd Beans),Koppal,2015-05-11,9611.0,0.0,35.4,clear
+1123,Green Gram (Moong),Koppal,2015-08-27,3600.0,0.0,28.4,clear
+1124,Green Gram (Moong),Koppal,2015-03-09,6079.0,0.0,28.6,rain
+1125,Green Gram (Moong),Kustagi,2015-03-09,6400.0,0.0,28.6,rain
+1126,Green Gram (Moong),Yalburga,2015-03-09,8250.0,9.0,28.6,rain
+1127,Green Gram (Moong),Koppal,2015-09-22,4005.0,0.0,30.6,clear
+1128,Green Gram (Moong),Koppal,2015-09-24,3811.0,0.0,33.4,rain
+1129,Green Gram (Moong),Koppal,2015-08-10,4934.0,0.0,27.4,clear
+1130,Green Gram (Moong),Kustagi,2015-05-07,5975.5,0.0,36.0,clear
+1131,Green Gram (Moong),Kustagi,2015-07-15,5750.0,0.0,29.4,clear
+1132,Green Gram (Moong),Kustagi,2015-01-08,6750.0,0.0,29.0,clear
+1133,Green Gram (Moong),Kustagi,2015-02-08,6250.0,0.0,32.0,clear
+1134,Green Gram (Moong),Kustagi,2015-09-08,6250.0,0.0,28.6,clear
+1135,Green Gram (Moong),Kustagi,2015-08-16,6600.0,0.0,29.6,clear
+1136,Green Gram (Moong),Kustagi,2015-08-23,6600.0,0.0,27.4,clear
+1137,Green Gram (Moong),Kustagi,2015-08-25,6600.0,0.0,30.0,clear
+1138,Green Gram (Moong),Kustagi,2015-08-26,6400.0,0.0,26.4,rain
+1139,Green Gram (Moong),Yalburga,2015-08-26,7600.0,16.0,26.4,rain
+1140,Green Gram (Moong),Kustagi,2015-08-29,6400.0,0.0,27.6,clear
+1141,Green Gram (Moong),Kustagi,2015-08-30,6400.0,0.0,27.4,clear
+1142,Green Gram (Moong),Kustagi,2015-01-09,6400.0,0.0,27.6,clear
+1143,Green Gram (Moong),Kustagi,2015-06-09,6625.0,0.0,29.6,clear
+1144,Green Gram (Moong),Kustagi,2015-09-13,6750.0,0.0,30.0,clear
+1145,Green Gram (Moong),Kustagi,2015-09-14,6750.0,0.0,27.0,rain
+1146,Green Gram (Moong),Kustagi,2015-09-20,7051.0,0.0,28.4,clear
+1147,Green Gram (Moong),Kustagi,2015-09-21,7051.0,0.0,29.2,clear
+1148,Green Gram (Moong),Kustagi,2015-09-26,6975.5,0.0,30.6,clear
+1149,Green Gram (Moong),Kustagi,2015-09-27,6975.5,0.0,32.0,clear
+1150,Green Gram (Moong),Kustagi,2015-11-10,7500.0,0.0,29.6,clear
+1151,Green Gram (Moong),Yalburga,2015-07-10,8000.0,10.0,28.6,clear
+1152,Green Gram (Moong),Yalburga,2015-10-16,8800.0,20.0,32.0,clear
+1153,Green Gram (Moong),Yalburga,2015-10-21,8275.0,10.0,31.8,clear
+1154,Green Gram (Moong),Yalburga,2015-10-28,7800.0,20.0,30.8,clear
+1155,Green Gram (Moong),Yalburga,2015-10-30,8150.0,4.0,32.0,clear
+1156,Green Gram (Moong),Yalburga,2015-11-16,8000.0,2.0,26.2,clear
+1157,Green Gram (Moong),Yalburga,2015-01-12,8450.0,5.0,26.6,clear
+1158,Green Gram (Moong),Yalburga,2015-12-30,8500.0,4.0,31.6,clear
+1159,Arhar (Tur/Red Gram),Gangavathi,2016-04-04,7000.0,9.0,37.6,clear
+1160,Arhar (Tur/Red Gram),Koppal,2016-04-04,5997.0,1.0,37.6,clear
+1161,Bengal Gram(Gram),Koppal,2016-04-04,4210.0,0.0,37.6,clear
+1162,Bengal Gram(Gram),Yalburga,2016-04-04,4300.0,9.0,37.6,clear
+1163,Black Gram (Urd Beans),Koppal,2016-04-04,10508.0,19.0,37.6,clear
+1164,Green Gram (Moong),Koppal,2016-04-04,5753.0,3.0,37.6,clear
+1165,Arhar (Tur/Red Gram),Gangavathi,2016-09-14,6600.0,20.0,24.4,rain
+1166,Arhar (Tur/Red Gram),Koppal,2016-04-01,7197.0,10.0,37.6,clear
+1167,Bengal Gram(Gram),Koppal,2016-04-01,4409.0,0.0,37.6,clear
+1168,Black Gram (Urd Beans),Koppal,2016-04-01,8061.0,1.0,37.6,clear
+1169,Green Gram (Moong),Koppal,2016-04-01,6533.0,0.0,37.6,clear
+1170,Arhar (Tur/Red Gram),Koppal,2016-11-01,7263.0,8.0,30.0,clear
+1171,Bengal Gram(Gram),Koppal,2016-11-01,4151.0,1.0,30.0,clear
+1172,Bengal Gram(Gram),Kustagi,2016-11-01,4501.0,0.0,30.0,clear
+1173,Black Gram (Urd Beans),Koppal,2016-11-01,11011.0,0.0,30.0,clear
+1174,Green Gram (Moong),Koppal,2016-11-01,6108.0,0.0,30.0,clear
+1175,Arhar (Tur/Red Gram),Koppal,2016-01-14,7300.0,8.0,29.2,clear
+1176,Bengal Gram(Gram),Koppal,2016-01-14,4257.0,3.0,29.2,clear
+1177,Black Gram (Urd Beans),Koppal,2016-01-14,11000.0,0.0,29.2,clear
+1178,Green Gram (Moong),Koppal,2016-01-14,5313.0,1.0,29.2,clear
+1179,Arhar (Tur/Red Gram),Koppal,2016-01-18,7299.0,13.0,27.8,clear
+1180,Bengal Gram(Gram),Koppal,2016-01-18,4294.0,1.0,27.8,clear
+1181,Bengal Gram(Gram),Yalburga,2016-01-18,4425.0,10.0,27.8,clear
+1182,Black Gram (Urd Beans),Koppal,2016-01-18,10094.0,1.0,27.8,clear
+1183,Green Gram (Moong),Koppal,2016-01-18,5797.0,1.0,27.8,clear
+1184,Arhar (Tur/Red Gram),Koppal,2016-01-21,6991.0,9.0,29.0,clear
+1185,Bengal Gram(Gram),Koppal,2016-01-21,4323.0,0.0,29.0,clear
+1186,Bengal Gram(Gram),Yalburga,2016-01-21,4300.0,16.0,29.0,clear
+1187,Black Gram (Urd Beans),Koppal,2016-01-21,10263.0,0.0,29.0,clear
+1188,Green Gram (Moong),Koppal,2016-01-21,6008.0,1.0,29.0,clear
+1189,Arhar (Tur/Red Gram),Koppal,2016-01-25,6719.0,13.0,31.6,clear
+1190,Bengal Gram(Gram),Koppal,2016-01-25,4264.0,1.0,31.6,clear
+1191,Black Gram (Urd Beans),Koppal,2016-01-25,10406.0,1.0,31.6,clear
+1192,Green Gram (Moong),Koppal,2016-01-25,6287.0,1.0,31.6,clear
+1193,Arhar (Tur/Red Gram),Koppal,2016-08-02,5214.0,5.0,27.6,clear
+1194,Bengal Gram(Gram),Koppal,2016-08-02,4285.0,0.0,27.6,clear
+1195,Black Gram (Urd Beans),Koppal,2016-08-02,8172.0,1.0,27.6,clear
+1196,Green Gram (Moong),Koppal,2016-08-02,6253.0,1.0,27.6,clear
+1197,Arhar (Tur/Red Gram),Koppal,2016-02-15,5139.0,4.0,32.0,clear
+1198,Bengal Gram(Gram),Koppal,2016-02-15,4304.0,0.0,32.0,clear
+1199,Bengal Gram(Gram),Yalburga,2016-02-15,3950.0,15.0,32.0,clear
+1200,Black Gram (Urd Beans),Koppal,2016-02-15,9455.0,2.0,32.0,clear
+1201,Green Gram (Moong),Koppal,2016-02-15,6190.0,4.0,32.0,clear
+1202,Arhar (Tur/Red Gram),Koppal,2016-02-18,5283.0,6.0,32.0,clear
+1203,Bengal Gram(Gram),Koppal,2016-02-18,4250.0,1.0,32.0,clear
+1204,Black Gram (Urd Beans),Koppal,2016-02-18,9587.0,11.0,32.0,clear
+1205,Green Gram (Moong),Koppal,2016-02-18,6226.0,7.0,32.0,clear
+1206,Arhar (Tur/Red Gram),Koppal,2016-02-22,4932.0,3.0,36.2,clear
+1207,Bengal Gram(Gram),Koppal,2016-02-22,4386.0,1.0,36.2,clear
+1208,Black Gram (Urd Beans),Koppal,2016-02-22,9516.0,11.0,36.2,clear
+1209,Green Gram (Moong),Koppal,2016-02-22,5821.0,3.0,36.2,clear
+1210,Arhar (Tur/Red Gram),Koppal,2016-02-25,5197.0,2.0,34.2,clear
+1211,Bengal Gram(Gram),Koppal,2016-02-25,4129.0,1.0,34.2,clear
+1212,Black Gram (Urd Beans),Koppal,2016-02-25,9610.0,3.0,34.2,clear
+1213,Green Gram (Moong),Koppal,2016-02-25,6238.0,2.0,34.2,clear
+1214,Arhar (Tur/Red Gram),Koppal,2016-02-29,4752.0,1.0,33.6,clear
+1215,Bengal Gram(Gram),Koppal,2016-02-29,4097.0,1.0,33.6,clear
+1216,Black Gram (Urd Beans),Koppal,2016-02-29,9642.0,12.0,33.6,clear
+1217,Green Gram (Moong),Koppal,2016-02-29,5840.0,5.0,33.6,clear
+1218,Arhar (Tur/Red Gram),Koppal,2016-03-03,3883.0,1.0,32.0,clear
+1219,Bengal Gram(Gram),Koppal,2016-03-03,3331.0,2.0,32.0,clear
+1220,Black Gram (Urd Beans),Koppal,2016-03-03,9403.0,5.0,32.0,clear
+1221,Green Gram (Moong),Koppal,2016-03-03,5924.0,3.0,32.0,clear
+1222,Arhar (Tur/Red Gram),Koppal,2016-08-03,4797.0,2.0,24.6,clear
+1223,Bengal Gram(Gram),Koppal,2016-08-03,4295.0,2.0,24.6,clear
+1224,Black Gram (Urd Beans),Koppal,2016-08-03,9421.0,10.0,24.6,clear
+1225,Green Gram (Moong),Koppal,2016-08-03,5571.0,5.0,24.6,clear
+1226,Green Gram (Moong),Yalburga,2016-08-03,4300.0,26.0,24.6,clear
+1227,Arhar (Tur/Red Gram),Koppal,2016-10-03,4990.0,1.0,28.0,clear
+1228,Bengal Gram(Gram),Koppal,2016-10-03,4253.0,1.0,28.0,clear
+1229,Black Gram (Urd Beans),Koppal,2016-10-03,9440.0,4.0,28.0,clear
+1230,Green Gram (Moong),Koppal,2016-10-03,5446.0,2.0,28.0,clear
+1231,Arhar (Tur/Red Gram),Koppal,2016-03-14,5272.0,1.0,34.6,clear
+1232,Bengal Gram(Gram),Koppal,2016-03-14,4161.0,1.0,34.6,clear
+1233,Black Gram (Urd Beans),Koppal,2016-03-14,9573.0,14.0,34.6,clear
+1234,Green Gram (Moong),Koppal,2016-03-14,5746.0,4.0,34.6,clear
+1235,Green Gram (Moong),Yalburga,2016-03-14,4700.0,17.0,34.6,clear
+1236,Arhar (Tur/Red Gram),Koppal,2016-03-17,5097.0,1.0,36.2,clear
+1237,Bengal Gram(Gram),Koppal,2016-03-17,4358.0,2.0,36.2,clear
+1238,Black Gram (Urd Beans),Koppal,2016-03-17,9761.0,11.0,36.2,clear
+1239,Green Gram (Moong),Koppal,2016-03-17,5740.0,6.0,36.2,clear
+1240,Arhar (Tur/Red Gram),Koppal,2016-03-21,5630.0,1.0,38.0,clear
+1241,Bengal Gram(Gram),Koppal,2016-03-21,3782.0,1.0,38.0,clear
+1242,Black Gram (Urd Beans),Koppal,2016-03-21,9625.0,15.0,38.0,clear
+1243,Green Gram (Moong),Koppal,2016-03-21,5986.0,9.0,38.0,clear
+1244,Arhar (Tur/Red Gram),Koppal,2016-03-24,6192.0,1.0,37.0,clear
+1245,Bengal Gram(Gram),Koppal,2016-03-24,4005.0,1.0,37.0,clear
+1246,Black Gram (Urd Beans),Koppal,2016-03-24,9575.0,9.0,37.0,clear
+1247,Green Gram (Moong),Koppal,2016-03-24,5587.0,3.0,37.0,clear
+1248,Arhar (Tur/Red Gram),Koppal,2016-03-28,5201.0,0.0,36.6,clear
+1249,Bengal Gram(Gram),Koppal,2016-03-28,4050.0,1.0,36.6,clear
+1250,Black Gram (Urd Beans),Koppal,2016-03-28,9573.0,18.0,36.6,clear
+1251,Green Gram (Moong),Koppal,2016-03-28,5393.0,5.0,36.6,clear
+1252,Arhar (Tur/Red Gram),Koppal,2016-01-04,5558.0,0.0,30.0,clear
+1253,Bengal Gram(Gram),Koppal,2016-01-04,4321.0,1.0,30.0,clear
+1254,Bengal Gram(Gram),Yalburga,2016-01-04,4500.0,4.0,30.0,clear
+1255,Black Gram (Urd Beans),Koppal,2016-01-04,10033.0,17.0,30.0,clear
+1256,Green Gram (Moong),Koppal,2016-01-04,5926.0,2.0,30.0,clear
+1257,Arhar (Tur/Red Gram),Koppal,2016-07-04,6494.0,0.0,27.0,clear
+1258,Bengal Gram(Gram),Koppal,2016-07-04,4231.0,0.0,27.0,clear
+1259,Black Gram (Urd Beans),Koppal,2016-07-04,10970.0,20.0,27.0,clear
+1260,Green Gram (Moong),Koppal,2016-07-04,6075.0,3.0,27.0,clear
+1261,Arhar (Tur/Red Gram),Koppal,2016-11-04,5812.0,0.0,31.8,clear
+1262,Bengal Gram(Gram),Koppal,2016-11-04,4671.0,0.0,31.8,clear
+1263,Black Gram (Urd Beans),Koppal,2016-11-04,11324.0,21.0,31.8,clear
+1264,Green Gram (Moong),Koppal,2016-11-04,5863.0,2.0,31.8,clear
+1265,Arhar (Tur/Red Gram),Koppal,2016-04-15,6609.0,0.0,39.0,clear
+1266,Bengal Gram(Gram),Koppal,2016-04-15,4577.0,0.0,39.0,clear
+1267,Black Gram (Urd Beans),Koppal,2016-04-15,11063.0,10.0,39.0,clear
+1268,Green Gram (Moong),Koppal,2016-04-15,5864.0,1.0,39.0,clear
+1269,Arhar (Tur/Red Gram),Koppal,2016-04-18,6816.0,1.0,38.0,clear
+1270,Bengal Gram(Gram),Koppal,2016-04-18,4811.0,0.0,38.0,clear
+1271,Black Gram (Urd Beans),Koppal,2016-04-18,13360.0,20.0,38.0,clear
+1272,Green Gram (Moong),Koppal,2016-04-18,5651.0,2.0,38.0,clear
+1273,Arhar (Tur/Red Gram),Koppal,2016-04-22,5251.0,0.0,37.8,clear
+1274,Bengal Gram(Gram),Koppal,2016-04-22,3605.0,0.0,37.8,clear
+1275,Black Gram (Urd Beans),Koppal,2016-04-22,11300.0,20.0,37.8,clear
+1276,Green Gram (Moong),Koppal,2016-04-22,6155.0,11.0,37.8,clear
+1277,Arhar (Tur/Red Gram),Koppal,2016-04-25,5211.0,0.0,39.0,clear
+1278,Black Gram (Urd Beans),Koppal,2016-04-25,11633.0,20.0,39.0,clear
+1279,Green Gram (Moong),Koppal,2016-04-25,5838.0,1.0,39.0,clear
+1280,Arhar (Tur/Red Gram),Koppal,2016-04-28,6310.0,0.0,38.2,clear
+1281,Bengal Gram(Gram),Koppal,2016-04-28,4767.0,0.0,38.2,clear
+1282,Black Gram (Urd Beans),Koppal,2016-04-28,11529.0,13.0,38.2,clear
+1283,Green Gram (Moong),Koppal,2016-04-28,5788.0,1.0,38.2,clear
+1284,Arhar (Tur/Red Gram),Koppal,2016-02-05,5875.0,0.0,31.4,clear
+1285,Bengal Gram(Gram),Koppal,2016-02-05,3875.0,0.0,31.4,clear
+1286,Black Gram (Urd Beans),Koppal,2016-02-05,11308.0,19.0,31.4,clear
+1287,Green Gram (Moong),Koppal,2016-02-05,5693.0,1.0,31.4,clear
+1288,Arhar (Tur/Red Gram),Koppal,2016-05-05,6381.0,0.0,37.4,clear
+1289,Bengal Gram(Gram),Koppal,2016-05-05,5038.0,1.0,37.4,clear
+1290,Black Gram (Urd Beans),Koppal,2016-05-05,10254.0,8.0,37.4,clear
+1291,Green Gram (Moong),Koppal,2016-05-05,5587.0,1.0,37.4,clear
+1292,Arhar (Tur/Red Gram),Koppal,2016-10-05,6008.0,0.0,29.4,clear
+1293,Bengal Gram(Gram),Koppal,2016-10-05,4884.0,0.0,29.4,clear
+1294,Black Gram (Urd Beans),Koppal,2016-10-05,11511.0,16.0,29.4,clear
+1295,Green Gram (Moong),Koppal,2016-10-05,5660.0,1.0,29.4,clear
+1296,Arhar (Tur/Red Gram),Koppal,2016-12-05,5595.0,0.0,29.4,clear
+1297,Bengal Gram(Gram),Koppal,2016-12-05,4901.0,0.0,29.4,clear
+1298,Black Gram (Urd Beans),Koppal,2016-12-05,11525.0,12.0,29.4,clear
+1299,Green Gram (Moong),Koppal,2016-12-05,5295.0,0.0,29.4,clear
+1300,Arhar (Tur/Red Gram),Koppal,2016-05-16,6259.0,0.0,37.0,clear
+1301,Bengal Gram(Gram),Koppal,2016-05-16,3601.0,0.0,37.0,clear
+1302,Black Gram (Urd Beans),Koppal,2016-05-16,11595.0,3.0,37.0,clear
+1303,Green Gram (Moong),Koppal,2016-05-16,5192.0,0.0,37.0,clear
+1304,Arhar (Tur/Red Gram),Koppal,2016-05-19,6306.0,0.0,31.4,rain
+1305,Bengal Gram(Gram),Koppal,2016-05-19,4655.0,0.0,31.4,rain
+1306,Bengal Gram(Gram),Yalburga,2016-05-19,5000.0,3.0,31.4,rain
+1307,Black Gram (Urd Beans),Koppal,2016-05-19,11561.0,9.0,31.4,rain
+1308,Green Gram (Moong),Koppal,2016-05-19,4912.0,0.0,31.4,rain
+1309,Arhar (Tur/Red Gram),Koppal,2016-05-26,6801.0,0.0,34.6,clear
+1310,Bengal Gram(Gram),Kustagi,2016-05-26,5000.0,0.0,34.6,clear
+1311,Black Gram (Urd Beans),Koppal,2016-05-26,11345.0,6.0,34.6,clear
+1312,Green Gram (Moong),Koppal,2016-05-26,4804.0,0.0,34.6,clear
+1313,Arhar (Tur/Red Gram),Koppal,2016-05-31,6211.0,0.0,33.5,clear
+1314,Black Gram (Urd Beans),Koppal,2016-05-31,10729.0,8.0,33.5,clear
+1315,Green Gram (Moong),Koppal,2016-05-31,4839.0,0.0,33.5,clear
+1316,Green Gram (Moong),Yalburga,2016-05-31,8200.0,20.0,33.5,clear
+1317,Arhar (Tur/Red Gram),Koppal,2016-02-06,6111.0,0.0,31.4,clear
+1318,Bengal Gram(Gram),Koppal,2016-02-06,5100.0,0.0,31.4,clear
+1319,Black Gram (Urd Beans),Koppal,2016-02-06,9871.0,5.0,31.4,clear
+1320,Green Gram (Moong),Koppal,2016-02-06,4309.0,0.0,31.4,clear
+1321,Arhar (Tur/Red Gram),Koppal,2016-06-06,4851.0,0.0,32.4,clear
+1322,Bengal Gram(Gram),Koppal,2016-06-06,4809.0,0.0,32.4,clear
+1323,Black Gram (Urd Beans),Koppal,2016-06-06,10288.0,5.0,32.4,clear
+1324,Green Gram (Moong),Koppal,2016-06-06,4795.0,1.0,32.4,clear
+1325,Arhar (Tur/Red Gram),Koppal,2016-09-06,6076.0,0.0,26.4,clear
+1326,Bengal Gram(Gram),Koppal,2016-09-06,5015.0,0.0,26.4,clear
+1327,Bengal Gram(Gram),Kustagi,2016-09-06,4500.0,0.0,26.4,clear
+1328,Black Gram (Urd Beans),Koppal,2016-09-06,9960.0,8.0,26.4,clear
+1329,Green Gram (Moong),Koppal,2016-09-06,3600.0,0.0,26.4,clear
+1330,Arhar (Tur/Red Gram),Koppal,2016-06-13,5903.0,0.0,27.0,clear
+1331,Bengal Gram(Gram),Koppal,2016-06-13,4050.0,0.0,27.0,clear
+1332,Bengal Gram(Gram),Yalburga,2016-06-13,6000.0,5.0,27.0,clear
+1333,Black Gram (Urd Beans),Koppal,2016-06-13,11059.0,7.0,27.0,clear
+1334,Green Gram (Moong),Koppal,2016-06-13,4100.0,0.0,27.0,clear
+1335,Arhar (Tur/Red Gram),Koppal,2016-06-16,6311.0,0.0,31.2,clear
+1336,Black Gram (Urd Beans),Koppal,2016-06-16,10837.0,1.0,31.2,clear
+1337,Green Gram (Moong),Koppal,2016-06-16,2800.0,0.0,31.2,clear
+1338,Arhar (Tur/Red Gram),Koppal,2016-06-21,6041.0,0.0,29.2,clear
+1339,Black Gram (Urd Beans),Koppal,2016-06-21,10672.0,29.0,29.2,clear
+1340,Green Gram (Moong),Koppal,2016-06-21,4396.0,0.0,29.2,clear
+1341,Arhar (Tur/Red Gram),Koppal,2016-06-23,6401.0,0.0,27.0,clear
+1342,Black Gram (Urd Beans),Koppal,2016-06-23,10024.0,9.0,27.0,clear
+1343,Green Gram (Moong),Koppal,2016-06-23,4881.0,0.0,27.0,clear
+1344,Arhar (Tur/Red Gram),Koppal,2016-06-27,6801.0,0.0,28.2,clear
+1345,Black Gram (Urd Beans),Koppal,2016-06-27,10152.0,14.0,28.2,clear
+1346,Green Gram (Moong),Koppal,2016-06-27,3201.0,0.0,28.2,clear
+1347,Arhar (Tur/Red Gram),Koppal,2016-06-30,7005.0,0.0,26.0,clear
+1348,Black Gram (Urd Beans),Koppal,2016-06-30,10049.0,8.0,26.0,clear
+1349,Green Gram (Moong),Koppal,2016-06-30,4112.0,0.0,26.0,clear
+1350,Arhar (Tur/Red Gram),Koppal,2016-04-07,6015.0,0.0,37.0,clear
+1351,Black Gram (Urd Beans),Koppal,2016-04-07,8778.0,6.0,37.0,clear
+1352,Green Gram (Moong),Koppal,2016-04-07,6000.0,0.0,37.0,clear
+1353,Arhar (Tur/Red Gram),Koppal,2016-07-14,5500.0,0.0,29.0,clear
+1354,Black Gram (Urd Beans),Koppal,2016-07-14,7096.0,7.0,29.0,clear
+1355,Arhar (Tur/Red Gram),Koppal,2016-07-25,6111.0,0.0,28.0,clear
+1356,Black Gram (Urd Beans),Koppal,2016-07-25,6988.0,2.0,28.0,clear
+1357,Green Gram (Moong),Koppal,2016-07-25,6405.0,0.0,28.0,clear
+1358,Arhar (Tur/Red Gram),Koppal,2016-07-28,5619.0,0.0,26.6,clear
+1359,Black Gram (Urd Beans),Koppal,2016-07-28,6404.0,0.0,26.6,clear
+1360,Arhar (Tur/Red Gram),Koppal,2016-01-08,5415.0,0.0,29.0,clear
+1361,Bengal Gram(Gram),Koppal,2016-01-08,4301.0,0.0,29.0,clear
+1362,Black Gram (Urd Beans),Koppal,2016-01-08,6022.0,1.0,29.0,clear
+1363,Arhar (Tur/Red Gram),Koppal,2016-08-08,5003.0,0.0,27.6,clear
+1364,Arhar (Tur/Red Gram),Koppal,2016-08-18,4025.0,0.0,29.6,clear
+1365,Black Gram (Urd Beans),Koppal,2016-08-18,3981.0,0.0,29.6,clear
+1366,Green Gram (Moong),Koppal,2016-08-18,4911.0,0.0,29.6,clear
+1367,Green Gram (Moong),Yalburga,2016-08-18,4534.0,5.0,29.6,clear
+1368,Arhar (Tur/Red Gram),Koppal,2016-09-26,5205.0,0.0,27.2,rain
+1369,Black Gram (Urd Beans),Koppal,2016-09-26,6015.0,0.0,27.2,rain
+1370,Green Gram (Moong),Koppal,2016-09-26,3801.0,0.0,27.2,rain
+1371,Green Gram (Moong),Kustagi,2016-09-26,4800.0,0.0,27.2,rain
+1372,Green Gram (Moong),Yalburga,2016-09-26,4300.0,10.0,27.2,rain
+1373,Arhar (Tur/Red Gram),Koppal,2016-10-20,4511.0,0.0,31.4,clear
+1374,Black Gram (Urd Beans),Koppal,2016-10-20,2005.0,1.0,31.4,clear
+1375,Arhar (Tur/Red Gram),Koppal,2016-11-14,4504.0,0.0,32.0,clear
+1376,Green Gram (Moong),Yalburga,2016-11-14,4700.0,2.0,32.0,clear
+1377,Arhar (Tur/Red Gram),Koppal,2016-11-21,5338.0,2.0,31.2,clear
+1378,Bengal Gram(Gram),Yalburga,2016-11-21,8900.0,1.0,31.2,clear
+1379,Green Gram (Moong),Yalburga,2016-11-21,4344.0,0.0,31.2,clear
+1380,Arhar (Tur/Red Gram),Koppal,2016-11-24,4674.0,2.0,30.0,clear
+1381,Bengal Gram(Gram),Koppal,2016-11-24,4001.0,0.0,30.0,clear
+1382,Green Gram (Moong),Yalburga,2016-11-24,4400.0,10.0,30.0,clear
+1383,Arhar (Tur/Red Gram),Koppal,2016-11-28,4995.0,3.0,33.0,clear
+1384,Arhar (Tur/Red Gram),Koppal,2016-01-12,5152.0,2.0,28.2,clear
+1385,Black Gram (Urd Beans),Koppal,2016-01-12,5019.0,0.0,28.2,clear
+1386,Arhar (Tur/Red Gram),Koppal,2016-05-12,5164.0,8.0,37.6,clear
+1387,Black Gram (Urd Beans),Koppal,2016-05-12,5450.0,1.0,37.6,clear
+1388,Arhar (Tur/Red Gram),Koppal,2016-08-12,4375.0,14.0,25.8,clear
+1389,Bengal Gram(Gram),Koppal,2016-08-12,2671.0,0.0,25.8,clear
+1390,Black Gram (Urd Beans),Koppal,2016-08-12,5408.0,0.0,25.8,clear
+1391,Arhar (Tur/Red Gram),Koppal,2016-12-12,4549.0,22.0,29.8,clear
+1392,Black Gram (Urd Beans),Koppal,2016-12-12,5322.0,1.0,29.8,clear
+1393,Arhar (Tur/Red Gram),Koppal,2016-12-15,4354.0,22.0,29.0,clear
+1394,Black Gram (Urd Beans),Koppal,2016-12-15,5488.0,2.0,29.0,clear
+1395,Arhar (Tur/Red Gram),Koppal,2016-12-19,4020.0,23.0,30.0,clear
+1396,Black Gram (Urd Beans),Koppal,2016-12-19,5597.0,3.0,30.0,clear
+1397,Arhar (Tur/Red Gram),Koppal,2016-12-22,3975.0,16.0,31.4,clear
+1398,Black Gram (Urd Beans),Koppal,2016-12-22,6243.0,2.0,31.4,clear
+1399,Arhar (Tur/Red Gram),Koppal,2016-12-26,2634.0,23.0,31.2,clear
+1400,Bengal Gram(Gram),Yalburga,2016-12-26,9500.0,8.0,31.2,clear
+1401,Black Gram (Urd Beans),Koppal,2016-12-26,5899.0,2.0,31.2,clear
+1402,Green Gram (Moong),Koppal,2016-12-26,4058.0,0.0,31.2,clear
+1403,Green Gram (Moong),Yalburga,2016-12-26,4425.0,3.0,31.2,clear
+1404,Arhar (Tur/Red Gram),Koppal,2016-12-30,3960.0,28.0,28.6,clear
+1405,Black Gram (Urd Beans),Koppal,2016-12-30,5700.0,14.0,28.6,clear
+1406,Green Gram (Moong),Koppal,2016-12-30,5305.0,0.0,28.6,clear
+1407,Green Gram (Moong),Yalburga,2016-12-30,4600.0,2.0,28.6,clear
+1408,Bengal Gram(Gram),Koppal,2016-05-23,4761.0,0.0,35.0,clear
+1409,Bengal Gram(Gram),Yalburga,2016-05-23,5200.0,22.0,35.0,clear
+1410,Black Gram (Urd Beans),Koppal,2016-05-23,11253.0,8.0,35.0,clear
+1411,Green Gram (Moong),Koppal,2016-05-23,5074.0,0.0,35.0,clear
+1412,Bengal Gram(Gram),Koppal,2016-07-18,5555.0,0.0,26.6,clear
+1413,Black Gram (Urd Beans),Koppal,2016-07-18,7044.0,4.0,26.6,clear
+1414,Green Gram (Moong),Kustagi,2016-07-18,6150.0,0.0,26.6,clear
+1415,Bengal Gram(Gram),Koppal,2016-11-08,4000.0,0.0,29.4,clear
+1416,Black Gram (Urd Beans),Koppal,2016-11-08,6434.0,0.0,29.4,clear
+1417,Green Gram (Moong),Koppal,2016-11-08,3609.0,0.0,29.4,clear
+1418,Green Gram (Moong),Kustagi,2016-11-08,4580.5,0.0,29.4,clear
+1419,Bengal Gram(Gram),Koppal,2016-08-25,4415.0,0.0,28.8,clear
+1420,Black Gram (Urd Beans),Koppal,2016-08-25,3985.0,0.0,28.8,clear
+1421,Green Gram (Moong),Koppal,2016-08-25,3765.0,1.0,28.8,clear
+1422,Bengal Gram(Gram),Koppal,2016-12-09,6701.0,0.0,29.4,clear
+1423,Black Gram (Urd Beans),Koppal,2016-12-09,2511.0,0.0,29.4,clear
+1424,Green Gram (Moong),Yalburga,2016-12-09,4545.0,10.0,29.4,clear
+1425,Bengal Gram(Gram),Koppal,2016-09-15,4555.0,0.0,24.6,rain
+1426,Black Gram (Urd Beans),Koppal,2016-09-15,5056.0,0.0,24.6,rain
+1427,Green Gram (Moong),Koppal,2016-09-15,3436.0,0.0,24.6,rain
+1428,Bengal Gram(Gram),Kustagi,2016-03-01,4600.0,0.0,31.4,clear
+1429,Bengal Gram(Gram),Kustagi,2016-10-01,4501.0,0.0,28.8,clear
+1430,Bengal Gram(Gram),Kustagi,2016-07-02,4525.0,0.0,27.6,clear
+1431,Bengal Gram(Gram),Kustagi,2016-02-14,4425.0,0.0,32.0,clear
+1432,Bengal Gram(Gram),Kustagi,2016-02-21,4500.0,0.0,34.0,clear
+1433,Bengal Gram(Gram),Kustagi,2016-02-23,4500.0,0.0,36.6,clear
+1434,Bengal Gram(Gram),Kustagi,2016-02-28,4311.0,0.0,34.0,clear
+1435,Bengal Gram(Gram),Kustagi,2016-01-03,4311.0,0.0,30.2,clear
+1436,Bengal Gram(Gram),Kustagi,2016-06-03,4310.0,0.0,34.2,clear
+1437,Bengal Gram(Gram),Kustagi,2016-03-13,4400.0,0.0,35.0,clear
+1438,Bengal Gram(Gram),Kustagi,2016-03-16,4400.0,0.0,35.0,clear
+1439,Bengal Gram(Gram),Kustagi,2016-03-20,4500.0,0.0,39.2,clear
+1440,Bengal Gram(Gram),Kustagi,2016-03-27,4561.0,0.0,37.6,clear
+1441,Bengal Gram(Gram),Kustagi,2016-03-29,4561.0,0.0,35.8,clear
+1442,Bengal Gram(Gram),Kustagi,2016-02-04,4725.0,0.0,34.0,clear
+1443,Bengal Gram(Gram),Kustagi,2016-03-04,4725.0,0.0,34.0,clear
+1444,Bengal Gram(Gram),Kustagi,2016-05-04,4725.0,0.0,38.2,clear
+1445,Bengal Gram(Gram),Yalburga,2016-05-04,4800.0,25.0,38.2,clear
+1446,Bengal Gram(Gram),Kustagi,2016-10-04,5050.0,0.0,30.0,clear
+1447,Bengal Gram(Gram),Kustagi,2016-12-04,5050.0,0.0,28.6,clear
+1448,Bengal Gram(Gram),Kustagi,2016-04-17,5100.0,0.0,38.8,clear
+1449,Bengal Gram(Gram),Kustagi,2016-04-24,4911.0,0.0,39.0,clear
+1450,Bengal Gram(Gram),Kustagi,2016-05-29,5000.0,0.0,33.8,clear
+1451,Bengal Gram(Gram),Kustagi,2016-01-06,5000.0,0.0,28.0,clear
+1452,Bengal Gram(Gram),Kustagi,2016-05-06,5000.0,0.0,38.0,clear
+1453,Bengal Gram(Gram),Kustagi,2016-08-06,5000.0,0.0,25.0,clear
+1454,Bengal Gram(Gram),Kustagi,2016-12-06,4500.0,0.0,29.4,clear
+1455,Bengal Gram(Gram),Kustagi,2016-06-14,4500.0,0.0,30.6,clear
+1456,Bengal Gram(Gram),Kustagi,2016-03-07,4500.0,0.0,35.0,clear
+1457,Bengal Gram(Gram),Yalburga,2016-06-01,4625.0,5.0,34.6,clear
+1458,Bengal Gram(Gram),Yalburga,2016-07-01,4200.0,5.0,29.6,clear
+1459,Bengal Gram(Gram),Yalburga,2016-12-01,4350.0,29.0,31.2,clear
+1460,Bengal Gram(Gram),Yalburga,2016-01-13,4405.0,21.0,29.6,clear
+1461,Bengal Gram(Gram),Yalburga,2016-01-16,4600.0,3.0,27.6,clear
+1462,Bengal Gram(Gram),Yalburga,2016-01-23,4400.0,10.0,26.6,clear
+1463,Bengal Gram(Gram),Yalburga,2016-01-28,3610.0,8.0,33.6,clear
+1464,Bengal Gram(Gram),Yalburga,2016-01-29,4512.0,10.0,33.0,clear
+1465,Bengal Gram(Gram),Yalburga,2016-01-30,4550.0,6.0,33.0,clear
+1466,Bengal Gram(Gram),Yalburga,2016-01-02,4500.0,4.0,29.6,clear
+1467,Bengal Gram(Gram),Yalburga,2016-06-02,4537.0,7.0,28.6,clear
+1468,Bengal Gram(Gram),Yalburga,2016-10-02,4300.0,4.0,29.6,clear
+1469,Bengal Gram(Gram),Yalburga,2016-11-02,4100.0,8.0,30.8,clear
+1470,Bengal Gram(Gram),Yalburga,2016-12-02,4325.0,5.0,29.6,clear
+1471,Bengal Gram(Gram),Yalburga,2016-02-16,4400.0,5.0,31.4,clear
+1472,Bengal Gram(Gram),Yalburga,2016-02-17,4350.0,5.0,32.0,clear
+1473,Bengal Gram(Gram),Yalburga,2016-02-24,4450.0,29.0,34.6,clear
+1474,Bengal Gram(Gram),Yalburga,2016-02-26,4350.0,11.0,35.0,clear
+1475,Bengal Gram(Gram),Yalburga,2016-04-03,4300.0,2.0,37.2,rain
+1476,Bengal Gram(Gram),Yalburga,2016-03-15,4500.0,17.0,35.4,clear
+1477,Bengal Gram(Gram),Yalburga,2016-06-29,5997.0,13.0,24.4,clear
+1478,Bengal Gram(Gram),Yalburga,2016-02-07,6500.0,6.0,31.8,clear
+1479,Bengal Gram(Gram),Yalburga,2016-07-16,7492.0,11.0,30.4,clear
+1480,Bengal Gram(Gram),Yalburga,2016-10-26,6100.0,1.0,30.2,clear
+1481,Bengal Gram(Gram),Yalburga,2016-09-11,5500.0,2.0,27.8,clear
+1482,Bengal Gram(Gram),Yalburga,2016-12-24,10000.0,1.0,30.2,clear
+1483,Bengal Gram(Gram),Yalburga,2016-12-27,9200.0,3.0,29.6,clear
+1484,Bengal Gram(Gram),Yalburga,2016-12-28,9300.0,4.0,29.2,clear
+1485,Green Gram (Moong),Yalburga,2016-12-28,4600.0,6.0,29.2,clear
+1486,Black Gram (Urd Beans),Koppal,2016-08-07,8094.0,6.0,28.2,clear
+1487,Green Gram (Moong),Koppal,2016-08-07,4609.0,0.0,28.2,clear
+1488,Black Gram (Urd Beans),Koppal,2016-11-07,7999.0,6.0,30.4,clear
+1489,Green Gram (Moong),Koppal,2016-11-07,4615.0,0.0,30.4,clear
+1490,Black Gram (Urd Beans),Koppal,2016-07-21,6138.0,2.0,28.0,rain
+1491,Black Gram (Urd Beans),Koppal,2016-04-08,7029.0,0.0,37.2,clear
+1492,Green Gram (Moong),Koppal,2016-04-08,5521.0,0.0,37.2,clear
+1493,Green Gram (Moong),Kustagi,2016-04-08,5511.0,0.0,37.2,clear
+1494,Black Gram (Urd Beans),Koppal,2016-08-16,5811.0,1.0,28.4,rain
+1495,Green Gram (Moong),Koppal,2016-08-16,4742.0,0.0,28.4,rain
+1496,Green Gram (Moong),Yalburga,2016-08-16,4932.0,5.0,28.4,rain
+1497,Black Gram (Urd Beans),Koppal,2016-08-22,2892.0,1.0,28.8,clear
+1498,Green Gram (Moong),Koppal,2016-08-22,4501.0,0.0,28.8,clear
+1499,Green Gram (Moong),Kustagi,2016-08-22,4105.5,0.0,28.8,clear
+1500,Green Gram (Moong),Yalburga,2016-08-22,4520.0,2.0,28.8,clear
+1501,Black Gram (Urd Beans),Koppal,2016-08-09,4513.0,0.0,29.6,clear
+1502,Green Gram (Moong),Koppal,2016-08-09,3987.0,1.0,29.6,clear
+1503,Black Gram (Urd Beans),Koppal,2016-09-22,3609.0,0.0,25.2,clear
+1504,Green Gram (Moong),Koppal,2016-09-22,4550.0,0.0,25.2,clear
+1505,Green Gram (Moong),Kustagi,2016-09-22,4500.0,0.0,25.2,clear
+1506,Black Gram (Urd Beans),Koppal,2016-03-10,3411.0,0.0,36.6,clear
+1507,Black Gram (Urd Beans),Koppal,2016-10-17,3912.0,0.0,31.0,clear
+1508,Black Gram (Urd Beans),Koppal,2016-10-11,6009.0,0.0,31.6,clear
+1509,Green Gram (Moong),Koppal,2016-08-30,4218.0,0.0,27.4,clear
+1510,Green Gram (Moong),Koppal,2016-01-09,4500.0,0.0,29.6,clear
+1511,Green Gram (Moong),Kustagi,2016-01-09,3550.0,0.0,29.6,clear
+1512,Green Gram (Moong),Koppal,2016-06-09,3693.0,0.0,27.4,clear
+1513,Green Gram (Moong),Koppal,2016-09-19,3567.0,0.0,28.2,clear
+1514,Green Gram (Moong),Yalburga,2016-09-19,4810.0,29.0,28.2,clear
+1515,Green Gram (Moong),Koppal,2016-09-29,3505.0,1.0,30.0,rain
+1516,Green Gram (Moong),Yalburga,2016-09-29,4900.0,9.0,30.0,rain
+1517,Green Gram (Moong),Kustagi,2016-07-24,5825.0,0.0,26.2,clear
+1518,Green Gram (Moong),Kustagi,2016-07-31,5255.5,0.0,26.8,rain
+1519,Green Gram (Moong),Kustagi,2016-03-08,5511.0,0.0,35.2,clear
+1520,Green Gram (Moong),Kustagi,2016-07-08,5005.5,0.0,27.6,clear
+1521,Green Gram (Moong),Kustagi,2016-09-08,5005.5,0.0,30.0,clear
+1522,Green Gram (Moong),Yalburga,2016-09-08,6500.0,3.0,30.0,clear
+1523,Green Gram (Moong),Kustagi,2016-10-08,5005.5,0.0,29.8,clear
+1524,Green Gram (Moong),Kustagi,2016-08-14,4600.5,0.0,25.6,clear
+1525,Green Gram (Moong),Kustagi,2016-08-17,5201.0,0.0,29.6,clear
+1526,Green Gram (Moong),Kustagi,2016-08-20,4600.5,0.0,30.0,clear
+1527,Green Gram (Moong),Yalburga,2016-08-20,4627.0,8.0,30.0,clear
+1528,Green Gram (Moong),Kustagi,2016-08-21,4105.5,0.0,28.0,clear
+1529,Green Gram (Moong),Kustagi,2016-08-23,4500.0,0.0,28.0,clear
+1530,Green Gram (Moong),Kustagi,2016-08-28,3550.0,0.0,26.4,rain
+1531,Green Gram (Moong),Kustagi,2016-08-31,3550.0,0.0,25.4,rain
+1532,Green Gram (Moong),Kustagi,2016-04-09,4175.0,0.0,37.0,rain
+1533,Green Gram (Moong),Kustagi,2016-11-09,4325.0,0.0,28.8,clear
+1534,Green Gram (Moong),Kustagi,2016-09-18,4050.0,0.0,29.0,clear
+1535,Green Gram (Moong),Kustagi,2016-09-20,4500.0,0.0,27.8,clear
+1536,Green Gram (Moong),Kustagi,2016-09-21,4500.0,0.0,25.0,rain
+1537,Green Gram (Moong),Kustagi,2016-09-25,4150.0,0.0,27.4,rain
+1538,Green Gram (Moong),Kustagi,2016-09-27,4150.0,0.0,28.2,clear
+1539,Green Gram (Moong),Kustagi,2016-09-28,4800.0,0.0,30.4,clear
+1540,Green Gram (Moong),Kustagi,2016-01-10,4100.0,0.0,29.2,clear
+1541,Green Gram (Moong),Yalburga,2016-01-10,4000.0,6.0,29.2,clear
+1542,Green Gram (Moong),Kustagi,2016-10-16,4000.0,0.0,31.6,clear
+1543,Green Gram (Moong),Yalburga,2016-08-19,4553.0,3.0,30.4,clear
+1544,Green Gram (Moong),Yalburga,2016-08-24,5000.0,4.0,29.0,clear
+1545,Green Gram (Moong),Yalburga,2016-08-26,4500.0,2.0,29.4,clear
+1546,Green Gram (Moong),Yalburga,2016-08-27,4197.0,2.0,28.4,clear
+1547,Green Gram (Moong),Yalburga,2016-09-09,4500.0,3.0,30.4,clear
+1548,Green Gram (Moong),Yalburga,2016-09-17,4750.0,3.0,26.0,clear
+1549,Green Gram (Moong),Yalburga,2016-10-24,4500.0,1.0,30.8,clear
+1550,Green Gram (Moong),Yalburga,2016-03-12,4300.0,11.0,36.2,clear
+1551,Green Gram (Moong),Yalburga,2016-07-12,4600.0,2.0,26.8,clear
+1552,Green Gram (Moong),Yalburga,2016-12-17,4450.0,7.0,29.8,clear
+1553,Green Gram (Moong),Yalburga,2016-12-20,4410.0,4.0,29.2,clear
+1554,Green Gram (Moong),Yalburga,2016-12-21,4455.0,7.0,30.2,clear
+1555,Green Gram (Moong),Yalburga,2016-12-23,4600.0,13.0,32.0,clear
+1556,Green Gram (Moong),Yalburga,2016-12-31,4600.0,1.0,28.6,clear
+1557,Arhar (Tur/Red Gram),Koppal,2017-02-01,3881.0,19.0,31.8,clear
+1558,Bengal Gram(Gram),Yalburga,2017-02-01,8500.0,1.0,31.8,clear
+1559,Black Gram (Urd Beans),Koppal,2017-02-01,6461.0,2.0,31.8,clear
+1560,Green Gram (Moong),Koppal,2017-02-01,4490.0,8.0,31.8,clear
+1561,Arhar (Tur/Red Gram),Koppal,2017-05-01,3443.0,18.0,36.0,clear
+1562,Bengal Gram(Gram),Koppal,2017-05-01,6079.0,0.0,36.0,clear
+1563,Bengal Gram(Gram),Yalburga,2017-05-01,7800.0,1.0,36.0,clear
+1564,Black Gram (Urd Beans),Koppal,2017-05-01,6366.0,1.0,36.0,clear
+1565,Green Gram (Moong),Koppal,2017-05-01,3818.0,1.0,36.0,clear
+1566,Arhar (Tur/Red Gram),Koppal,2017-09-01,3333.0,15.0,30.6,clear
+1567,Bengal Gram(Gram),Koppal,2017-09-01,5156.0,0.0,30.6,clear
+1568,Bengal Gram(Gram),Yalburga,2017-09-01,6375.0,3.0,30.6,clear
+1569,Black Gram (Urd Beans),Koppal,2017-09-01,6129.0,3.0,30.6,clear
+1570,Green Gram (Moong),Koppal,2017-09-01,3983.0,1.0,30.6,clear
+1571,Green Gram (Moong),Yalburga,2017-09-01,4400.0,5.0,30.6,clear
+1572,Arhar (Tur/Red Gram),Koppal,2017-01-13,3018.0,3.0,29.6,clear
+1573,Bengal Gram(Gram),Yalburga,2017-01-13,6550.0,6.0,29.6,clear
+1574,Green Gram (Moong),Yalburga,2017-01-13,4515.0,14.0,29.6,clear
+1575,Arhar (Tur/Red Gram),Koppal,2017-01-16,3276.0,20.0,29.0,clear
+1576,Bengal Gram(Gram),Koppal,2017-01-16,6035.0,3.0,29.0,clear
+1577,Bengal Gram(Gram),Yalburga,2017-01-16,6950.0,3.0,29.0,clear
+1578,Black Gram (Urd Beans),Koppal,2017-01-16,6335.0,3.0,29.0,clear
+1579,Green Gram (Moong),Koppal,2017-01-16,5699.0,1.0,29.0,clear
+1580,Green Gram (Moong),Yalburga,2017-01-16,4600.0,4.0,29.0,clear
+1581,Arhar (Tur/Red Gram),Koppal,2017-01-19,3476.0,18.0,27.0,clear
+1582,Bengal Gram(Gram),Koppal,2017-01-19,6262.0,1.0,27.0,clear
+1583,Bengal Gram(Gram),Yalburga,2017-01-19,6500.0,0.0,27.0,clear
+1584,Black Gram (Urd Beans),Koppal,2017-01-19,6417.0,2.0,27.0,clear
+1585,Green Gram (Moong),Koppal,2017-01-19,5114.0,0.0,27.0,clear
+1586,Green Gram (Moong),Yalburga,2017-01-19,4700.0,7.0,27.0,clear
+1587,Arhar (Tur/Red Gram),Koppal,2017-01-28,3634.0,17.0,29.4,clear
+1588,Bengal Gram(Gram),Koppal,2017-01-28,6377.0,2.0,29.4,clear
+1589,Bengal Gram(Gram),Yalburga,2017-01-28,6600.0,3.0,29.4,clear
+1590,Black Gram (Urd Beans),Koppal,2017-01-28,6044.0,6.0,29.4,clear
+1591,Green Gram (Moong),Koppal,2017-01-28,5374.0,1.0,29.4,clear
+1592,Green Gram (Moong),Yalburga,2017-01-28,4250.0,12.0,29.4,clear
+1593,Arhar (Tur/Red Gram),Koppal,2017-01-30,4500.0,17.0,31.0,clear
+1594,Bengal Gram(Gram),Koppal,2017-01-30,6377.0,2.0,31.0,clear
+1595,Bengal Gram(Gram),Yalburga,2017-01-30,6445.0,16.0,31.0,clear
+1596,Black Gram (Urd Beans),Koppal,2017-01-30,6044.0,6.0,31.0,clear
+1597,Green Gram (Moong),Koppal,2017-01-30,5374.0,1.0,31.0,clear
+1598,Green Gram (Moong),Yalburga,2017-01-30,4475.0,11.0,31.0,clear
+1599,Arhar (Tur/Red Gram),Koppal,2017-02-02,3800.0,1.0,31.8,clear
+1600,Bengal Gram(Gram),Koppal,2017-02-02,6142.0,2.0,31.8,clear
+1601,Bengal Gram(Gram),Yalburga,2017-02-02,6150.0,2.0,31.8,clear
+1602,Black Gram (Urd Beans),Koppal,2017-02-02,5405.0,7.0,31.8,clear
+1603,Green Gram (Moong),Koppal,2017-02-02,4832.0,1.0,31.8,clear
+1604,Green Gram (Moong),Yalburga,2017-02-02,4400.0,10.0,31.8,clear
+1605,Arhar (Tur/Red Gram),Koppal,2017-06-02,3430.0,5.0,33.6,clear
+1606,Bengal Gram(Gram),Koppal,2017-06-02,5776.0,4.0,33.6,clear
+1607,Bengal Gram(Gram),Yalburga,2017-06-02,6400.0,1.0,33.6,clear
+1608,Black Gram (Urd Beans),Koppal,2017-06-02,6079.0,13.0,33.6,clear
+1609,Green Gram (Moong),Koppal,2017-06-02,4490.0,1.0,33.6,clear
+1610,Green Gram (Moong),Yalburga,2017-06-02,4525.0,8.0,33.6,clear
+1611,Arhar (Tur/Red Gram),Koppal,2017-09-02,3155.0,3.0,32.0,clear
+1612,Bengal Gram(Gram),Koppal,2017-09-02,4932.0,5.0,32.0,clear
+1613,Bengal Gram(Gram),Yalburga,2017-09-02,4283.0,2.0,32.0,clear
+1614,Black Gram (Urd Beans),Koppal,2017-09-02,4645.0,9.0,32.0,clear
+1615,Green Gram (Moong),Koppal,2017-09-02,4726.0,1.0,32.0,clear
+1616,Green Gram (Moong),Yalburga,2017-09-02,4283.0,2.0,32.0,clear
+1617,Arhar (Tur/Red Gram),Koppal,2017-02-13,3450.0,5.0,30.0,clear
+1618,Bengal Gram(Gram),Koppal,2017-02-13,4990.0,4.0,30.0,clear
+1619,Black Gram (Urd Beans),Koppal,2017-02-13,5935.0,1.0,30.0,clear
+1620,Green Gram (Moong),Koppal,2017-02-13,5775.0,1.0,30.0,clear
+1621,Green Gram (Moong),Yalburga,2017-02-13,4550.0,27.0,30.0,clear
+1622,Arhar (Tur/Red Gram),Koppal,2017-02-16,3382.0,3.0,30.4,clear
+1623,Bengal Gram(Gram),Koppal,2017-02-16,5147.0,1.0,30.4,clear
+1624,Bengal Gram(Gram),Yalburga,2017-02-16,5400.0,3.0,30.4,clear
+1625,Black Gram (Urd Beans),Koppal,2017-02-16,5864.0,3.0,30.4,clear
+1626,Green Gram (Moong),Koppal,2017-02-16,5093.0,2.0,30.4,clear
+1627,Arhar (Tur/Red Gram),Koppal,2017-02-23,3048.0,3.0,35.6,clear
+1628,Bengal Gram(Gram),Koppal,2017-02-23,5024.0,2.0,35.6,clear
+1629,Black Gram (Urd Beans),Koppal,2017-02-23,5463.0,1.0,35.6,clear
+1630,Green Gram (Moong),Koppal,2017-02-23,5286.0,1.0,35.6,clear
+1631,Arhar (Tur/Red Gram),Koppal,2017-02-27,2885.0,2.0,33.4,clear
+1632,Bengal Gram(Gram),Koppal,2017-02-27,4801.0,6.0,33.4,clear
+1633,Black Gram (Urd Beans),Koppal,2017-02-27,4942.0,20.0,33.4,clear
+1634,Green Gram (Moong),Koppal,2017-02-27,5303.0,1.0,33.4,clear
+1635,Arhar (Tur/Red Gram),Koppal,2017-02-03,3241.0,1.0,30.0,clear
+1636,Bengal Gram(Gram),Koppal,2017-02-03,4739.0,5.0,30.0,clear
+1637,Black Gram (Urd Beans),Koppal,2017-02-03,5923.0,20.0,30.0,clear
+1638,Green Gram (Moong),Koppal,2017-02-03,4282.0,1.0,30.0,clear
+1639,Arhar (Tur/Red Gram),Koppal,2017-06-03,3041.0,2.0,31.8,clear
+1640,Bengal Gram(Gram),Koppal,2017-06-03,4964.0,4.0,31.8,clear
+1641,Black Gram (Urd Beans),Koppal,2017-06-03,5930.0,17.0,31.8,clear
+1642,Green Gram (Moong),Koppal,2017-06-03,4607.0,2.0,31.8,clear
+1643,Arhar (Tur/Red Gram),Koppal,2017-03-14,3284.0,7.0,35.4,clear
+1644,Bengal Gram(Gram),Koppal,2017-03-14,5005.0,2.0,35.4,clear
+1645,Black Gram (Urd Beans),Koppal,2017-03-14,6379.0,11.0,35.4,clear
+1646,Green Gram (Moong),Koppal,2017-03-14,4699.0,1.0,35.4,clear
+1647,Green Gram (Moong),Yalburga,2017-03-14,4400.0,31.0,35.4,clear
+1648,Arhar (Tur/Red Gram),Koppal,2017-03-16,3630.0,2.0,31.2,clear
+1649,Arhar (Tur/Red Gram),Yalburga,2017-03-16,3500.0,1.0,31.2,clear
+1650,Bengal Gram(Gram),Koppal,2017-03-16,5074.0,5.0,31.2,clear
+1651,Black Gram (Urd Beans),Koppal,2017-03-16,6396.0,9.0,31.2,clear
+1652,Green Gram (Moong),Koppal,2017-03-16,4791.0,1.0,31.2,clear
+1653,Arhar (Tur/Red Gram),Koppal,2017-03-20,3293.0,1.0,35.0,clear
+1654,Bengal Gram(Gram),Koppal,2017-03-20,5196.0,2.0,35.0,clear
+1655,Black Gram (Urd Beans),Koppal,2017-03-20,6527.0,16.0,35.0,clear
+1656,Green Gram (Moong),Koppal,2017-03-20,4600.0,1.0,35.0,clear
+1657,Arhar (Tur/Red Gram),Koppal,2017-03-23,3676.0,2.0,36.4,clear
+1658,Bengal Gram(Gram),Koppal,2017-03-23,5524.0,0.0,36.4,clear
+1659,Black Gram (Urd Beans),Koppal,2017-03-23,6775.0,12.0,36.4,clear
+1660,Green Gram (Moong),Koppal,2017-03-23,4780.0,2.0,36.4,clear
+1661,Green Gram (Moong),Yalburga,2017-03-23,4300.0,19.0,36.4,clear
+1662,Arhar (Tur/Red Gram),Koppal,2017-03-27,3500.0,4.0,37.6,clear
+1663,Bengal Gram(Gram),Koppal,2017-03-27,5535.0,1.0,37.6,clear
+1664,Black Gram (Urd Beans),Koppal,2017-03-27,6772.0,11.0,37.6,clear
+1665,Green Gram (Moong),Koppal,2017-03-27,4765.0,1.0,37.6,clear
+1666,Arhar (Tur/Red Gram),Koppal,2017-03-30,3152.0,2.0,36.4,clear
+1667,Bengal Gram(Gram),Koppal,2017-03-30,5741.0,2.0,36.4,clear
+1668,Black Gram (Urd Beans),Koppal,2017-03-30,6323.0,3.0,36.4,clear
+1669,Green Gram (Moong),Koppal,2017-03-30,4700.0,3.0,36.4,clear
+1670,Green Gram (Moong),Yalburga,2017-03-30,4650.0,10.0,36.4,clear
+1671,Arhar (Tur/Red Gram),Koppal,2017-03-04,3604.0,2.0,34.8,clear
+1672,Bengal Gram(Gram),Koppal,2017-03-04,5728.0,2.0,34.8,clear
+1673,Black Gram (Urd Beans),Koppal,2017-03-04,6701.0,14.0,34.8,clear
+1674,Green Gram (Moong),Koppal,2017-03-04,4869.0,1.0,34.8,clear
+1675,Green Gram (Moong),Yalburga,2017-03-04,4600.0,5.0,34.8,clear
+1676,Arhar (Tur/Red Gram),Koppal,2017-06-04,3631.0,1.0,32.2,clear
+1677,Bengal Gram(Gram),Koppal,2017-06-04,5580.0,2.0,32.2,clear
+1678,Black Gram (Urd Beans),Koppal,2017-06-04,6587.0,3.0,32.2,clear
+1679,Green Gram (Moong),Koppal,2017-06-04,4565.0,1.0,32.2,clear
+1680,Green Gram (Moong),Yalburga,2017-06-04,5000.0,1.0,32.2,clear
+1681,Arhar (Tur/Red Gram),Koppal,2017-10-04,3105.0,0.0,28.6,rain
+1682,Bengal Gram(Gram),Koppal,2017-10-04,5800.0,0.0,28.6,rain
+1683,Black Gram (Urd Beans),Koppal,2017-10-04,6462.0,8.0,28.6,rain
+1684,Green Gram (Moong),Koppal,2017-10-04,4416.0,1.0,28.6,rain
+1685,Arhar (Tur/Red Gram),Koppal,2017-04-13,3396.0,1.0,38.8,clear
+1686,Bengal Gram(Gram),Koppal,2017-04-13,5811.0,2.0,38.8,clear
+1687,Black Gram (Urd Beans),Koppal,2017-04-13,4820.0,4.0,38.8,clear
+1688,Green Gram (Moong),Koppal,2017-04-13,4579.0,0.0,38.8,clear
+1689,Arhar (Tur/Red Gram),Koppal,2017-04-17,3500.0,1.0,38.0,clear
+1690,Bengal Gram(Gram),Koppal,2017-04-17,5965.0,0.0,38.0,clear
+1691,Black Gram (Urd Beans),Koppal,2017-04-17,6374.0,11.0,38.0,clear
+1692,Green Gram (Moong),Koppal,2017-04-17,4616.0,0.0,38.0,clear
+1693,Green Gram (Moong),Yalburga,2017-04-17,5125.0,20.0,38.0,clear
+1694,Arhar (Tur/Red Gram),Koppal,2017-04-20,3178.0,1.0,38.2,clear
+1695,Bengal Gram(Gram),Koppal,2017-04-20,5435.0,1.0,38.2,clear
+1696,Black Gram (Urd Beans),Koppal,2017-04-20,5242.0,12.0,38.2,clear
+1697,Green Gram (Moong),Koppal,2017-04-20,4289.0,0.0,38.2,clear
+1698,Green Gram (Moong),Yalburga,2017-04-20,5000.0,28.0,38.2,clear
+1699,Arhar (Tur/Red Gram),Koppal,2017-04-24,3196.0,3.0,38.0,clear
+1700,Bengal Gram(Gram),Koppal,2017-04-24,5490.0,3.0,38.0,clear
+1701,Black Gram (Urd Beans),Koppal,2017-04-24,5846.0,10.0,38.0,clear
+1702,Green Gram (Moong),Koppal,2017-04-24,4024.0,1.0,38.0,clear
+1703,Green Gram (Moong),Yalburga,2017-04-24,5250.0,10.0,38.0,clear
+1704,Arhar (Tur/Red Gram),Koppal,2017-04-27,3280.0,1.0,39.0,clear
+1705,Bengal Gram(Gram),Koppal,2017-04-27,5468.0,0.0,39.0,clear
+1706,Black Gram (Urd Beans),Koppal,2017-04-27,5565.0,15.0,39.0,clear
+1707,Green Gram (Moong),Koppal,2017-04-27,4651.0,1.0,39.0,clear
+1708,Arhar (Tur/Red Gram),Koppal,2017-02-05,3411.0,0.0,31.0,clear
+1709,Bengal Gram(Gram),Koppal,2017-02-05,5500.0,2.0,31.0,clear
+1710,Black Gram (Urd Beans),Koppal,2017-02-05,5600.0,14.0,31.0,clear
+1711,Green Gram (Moong),Koppal,2017-02-05,4488.0,0.0,31.0,clear
+1712,Green Gram (Moong),Yalburga,2017-02-05,5000.0,5.0,31.0,clear
+1713,Arhar (Tur/Red Gram),Koppal,2017-04-05,3173.0,1.0,36.8,clear
+1714,Bengal Gram(Gram),Koppal,2017-04-05,4926.0,1.0,36.8,clear
+1715,Black Gram (Urd Beans),Koppal,2017-04-05,5115.0,19.0,36.8,clear
+1716,Green Gram (Moong),Koppal,2017-04-05,4480.0,0.0,36.8,clear
+1717,Arhar (Tur/Red Gram),Koppal,2017-08-05,2933.0,7.0,29.6,clear
+1718,Bengal Gram(Gram),Koppal,2017-08-05,5281.0,3.0,29.6,clear
+1719,Black Gram (Urd Beans),Koppal,2017-08-05,5587.0,20.0,29.6,clear
+1720,Green Gram (Moong),Koppal,2017-08-05,4367.0,2.0,29.6,clear
+1721,Green Gram (Moong),Yalburga,2017-08-05,5000.0,6.0,29.6,clear
+1722,Arhar (Tur/Red Gram),Koppal,2017-11-05,3269.0,0.0,27.0,clear
+1723,Bengal Gram(Gram),Koppal,2017-11-05,5411.0,0.0,27.0,clear
+1724,Black Gram (Urd Beans),Koppal,2017-11-05,5787.0,6.0,27.0,clear
+1725,Green Gram (Moong),Yalburga,2017-11-05,4761.0,9.0,27.0,clear
+1726,Arhar (Tur/Red Gram),Koppal,2017-05-15,2772.0,1.0,30.2,clear
+1727,Bengal Gram(Gram),Koppal,2017-05-15,5676.0,0.0,30.2,clear
+1728,Black Gram (Urd Beans),Koppal,2017-05-15,6042.0,5.0,30.2,clear
+1729,Green Gram (Moong),Koppal,2017-05-15,3798.0,0.0,30.2,clear
+1730,Arhar (Tur/Red Gram),Koppal,2017-05-18,2888.0,1.0,37.0,clear
+1731,Bengal Gram(Gram),Koppal,2017-05-18,5410.0,0.0,37.0,clear
+1732,Black Gram (Urd Beans),Koppal,2017-05-18,5843.0,3.0,37.0,clear
+1733,Green Gram (Moong),Koppal,2017-05-18,4329.0,0.0,37.0,clear
+1734,Green Gram (Moong),Yalburga,2017-05-18,4692.0,9.0,37.0,clear
+1735,Arhar (Tur/Red Gram),Koppal,2017-05-22,2856.0,0.0,37.6,clear
+1736,Bengal Gram(Gram),Koppal,2017-05-22,5405.0,0.0,37.6,clear
+1737,Black Gram (Urd Beans),Koppal,2017-05-22,5731.0,4.0,37.6,clear
+1738,Green Gram (Moong),Koppal,2017-05-22,3819.0,0.0,37.6,clear
+1739,Green Gram (Moong),Yalburga,2017-05-22,4875.0,3.0,37.6,clear
+1740,Arhar (Tur/Red Gram),Koppal,2017-05-25,2777.0,0.0,38.0,clear
+1741,Black Gram (Urd Beans),Koppal,2017-05-25,5438.0,5.0,38.0,clear
+1742,Green Gram (Moong),Koppal,2017-05-25,3707.0,0.0,38.0,clear
+1743,Arhar (Tur/Red Gram),Koppal,2017-05-29,2703.0,1.0,33.8,clear
+1744,Bengal Gram(Gram),Koppal,2017-05-29,5180.0,1.0,33.8,clear
+1745,Black Gram (Urd Beans),Koppal,2017-05-29,5557.0,4.0,33.8,clear
+1746,Green Gram (Moong),Koppal,2017-05-29,3817.0,0.0,33.8,clear
+1747,Arhar (Tur/Red Gram),Koppal,2017-05-06,2889.0,0.0,37.6,rain
+1748,Bengal Gram(Gram),Koppal,2017-05-06,5051.0,0.0,37.6,rain
+1749,Bengal Gram(Gram),Kustagi,2017-05-06,4000.0,0.0,37.6,rain
+1750,Black Gram (Urd Beans),Koppal,2017-05-06,5066.0,2.0,37.6,rain
+1751,Green Gram (Moong),Koppal,2017-05-06,3709.0,0.0,37.6,rain
+1752,Arhar (Tur/Red Gram),Koppal,2017-12-06,2605.0,0.0,29.0,clear
+1753,Bengal Gram(Gram),Koppal,2017-12-06,4051.0,0.0,29.0,clear
+1754,Black Gram (Urd Beans),Koppal,2017-12-06,4964.0,3.0,29.0,clear
+1755,Arhar (Tur/Red Gram),Koppal,2017-06-15,1807.0,0.0,31.4,clear
+1756,Bengal Gram(Gram),Koppal,2017-06-15,5000.0,0.0,31.4,clear
+1757,Black Gram (Urd Beans),Koppal,2017-06-15,5496.0,8.0,31.4,clear
+1758,Green Gram (Moong),Koppal,2017-06-15,3205.0,0.0,31.4,clear
+1759,Arhar (Tur/Red Gram),Koppal,2017-06-19,2501.0,0.0,27.6,clear
+1760,Black Gram (Urd Beans),Koppal,2017-06-19,5346.0,8.0,27.6,clear
+1761,Green Gram (Moong),Yalburga,2017-06-19,4400.0,11.0,27.6,clear
+1762,Arhar (Tur/Red Gram),Koppal,2017-06-22,2276.0,0.0,31.6,clear
+1763,Black Gram (Urd Beans),Koppal,2017-06-22,4271.0,0.0,31.6,clear
+1764,Green Gram (Moong),Koppal,2017-06-22,2109.0,0.0,31.6,clear
+1765,Green Gram (Moong),Yalburga,2017-06-22,4900.0,12.0,31.6,clear
+1766,Arhar (Tur/Red Gram),Koppal,2017-06-27,2223.0,0.0,30.0,clear
+1767,Bengal Gram(Gram),Koppal,2017-06-27,3305.0,0.0,30.0,clear
+1768,Black Gram (Urd Beans),Koppal,2017-06-27,4961.0,1.0,30.0,clear
+1769,Arhar (Tur/Red Gram),Koppal,2017-03-07,2500.0,0.0,34.0,clear
+1770,Bengal Gram(Gram),Koppal,2017-03-07,3205.0,0.0,34.0,clear
+1771,Black Gram (Urd Beans),Koppal,2017-03-07,1523.0,13.0,34.0,clear
+1772,Arhar (Tur/Red Gram),Koppal,2017-07-13,3000.0,0.0,27.4,clear
+1773,Bengal Gram(Gram),Yalburga,2017-07-13,3050.0,12.0,27.4,clear
+1774,Black Gram (Urd Beans),Koppal,2017-07-13,3965.0,1.0,27.4,clear
+1775,Green Gram (Moong),Yalburga,2017-07-13,4300.0,5.0,27.4,clear
+1776,Arhar (Tur/Red Gram),Koppal,2017-07-24,2251.0,0.0,28.2,clear
+1777,Black Gram (Urd Beans),Koppal,2017-07-24,3081.0,1.0,28.2,clear
+1778,Arhar (Tur/Red Gram),Koppal,2017-03-08,2099.0,0.0,33.6,clear
+1779,Black Gram (Urd Beans),Koppal,2017-03-08,3243.0,1.0,33.6,clear
+1780,Green Gram (Moong),Koppal,2017-03-08,3210.0,0.0,33.6,clear
+1781,Arhar (Tur/Red Gram),Koppal,2017-08-31,2771.0,0.0,28.2,clear
+1782,Black Gram (Urd Beans),Koppal,2017-08-31,4216.0,7.0,28.2,clear
+1783,Green Gram (Moong),Koppal,2017-08-31,4839.0,1.0,28.2,clear
+1784,Arhar (Tur/Red Gram),Koppal,2017-04-09,3000.0,0.0,37.6,clear
+1785,Black Gram (Urd Beans),Koppal,2017-04-09,3765.0,2.0,37.6,clear
+1786,Green Gram (Moong),Koppal,2017-04-09,4000.0,0.0,37.6,clear
+1787,Arhar (Tur/Red Gram),Koppal,2017-07-09,3005.0,0.0,31.0,clear
+1788,Black Gram (Urd Beans),Koppal,2017-07-09,4059.0,2.0,31.0,clear
+1789,Green Gram (Moong),Koppal,2017-07-09,3000.0,0.0,31.0,clear
+1790,Arhar (Tur/Red Gram),Koppal,2017-11-09,3005.0,0.0,29.6,clear
+1791,Black Gram (Urd Beans),Koppal,2017-11-09,2634.0,1.0,29.6,clear
+1792,Green Gram (Moong),Koppal,2017-11-09,3281.0,1.0,29.6,clear
+1793,Arhar (Tur/Red Gram),Koppal,2017-09-14,2415.0,0.0,29.0,rain
+1794,Black Gram (Urd Beans),Koppal,2017-09-14,3518.0,1.0,29.0,rain
+1795,Green Gram (Moong),Koppal,2017-09-14,2509.0,0.0,29.0,rain
+1796,Arhar (Tur/Red Gram),Koppal,2017-09-25,2777.0,0.0,29.8,rain
+1797,Black Gram (Urd Beans),Koppal,2017-09-25,2711.0,0.0,29.8,rain
+1798,Arhar (Tur/Red Gram),Koppal,2017-09-28,2819.0,0.0,30.0,rain
+1799,Black Gram (Urd Beans),Koppal,2017-09-28,2368.0,1.0,30.0,rain
+1800,Arhar (Tur/Red Gram),Koppal,2017-06-10,2009.0,0.0,28.8,clear
+1801,Black Gram (Urd Beans),Koppal,2017-06-10,2219.0,1.0,28.8,clear
+1802,Green Gram (Moong),Gangavathi,2017-06-10,8000.0,4.0,28.8,clear
+1803,Green Gram (Moong),Koppal,2017-06-10,4507.0,0.0,28.8,clear
+1804,Arhar (Tur/Red Gram),Koppal,2017-10-26,2061.0,1.0,29.0,clear
+1805,Arhar (Tur/Red Gram),Koppal,2017-10-30,2451.0,0.0,29.4,clear
+1806,Arhar (Tur/Red Gram),Koppal,2017-02-11,2059.0,0.0,31.2,clear
+1807,Arhar (Tur/Red Gram),Yalburga,2017-01-31,4500.0,6.0,32.0,clear
+1808,Bengal Gram(Gram),Yalburga,2017-01-31,6650.0,13.0,32.0,clear
+1809,Arhar (Tur/Red Gram),Yalburga,2017-02-17,4000.0,15.0,30.8,clear
+1810,Green Gram (Moong),Yalburga,2017-02-17,4750.0,8.0,30.8,clear
+1811,Bengal Gram(Gram),Koppal,2017-09-03,4864.0,2.0,32.6,clear
+1812,Black Gram (Urd Beans),Koppal,2017-09-03,6174.0,13.0,32.6,clear
+1813,Green Gram (Moong),Koppal,2017-09-03,4810.0,1.0,32.6,clear
+1814,Bengal Gram(Gram),Koppal,2017-01-06,4500.0,0.0,30.0,clear
+1815,Black Gram (Urd Beans),Koppal,2017-01-06,5499.0,10.0,30.0,clear
+1816,Bengal Gram(Gram),Koppal,2017-06-29,3951.0,0.0,29.2,clear
+1817,Black Gram (Urd Beans),Koppal,2017-06-29,5174.0,2.0,29.2,clear
+1818,Green Gram (Moong),Koppal,2017-06-29,2060.0,0.0,29.2,clear
+1819,Bengal Gram(Gram),Kustagi,2017-07-02,5700.0,0.0,30.2,clear
+1820,Bengal Gram(Gram),Kustagi,2017-11-06,4500.0,0.0,28.0,clear
+1821,Bengal Gram(Gram),Yalburga,2017-04-01,8100.0,8.0,36.4,clear
+1822,Green Gram (Moong),Yalburga,2017-04-01,4460.0,2.0,36.4,clear
+1823,Bengal Gram(Gram),Yalburga,2017-06-01,6650.0,5.0,32.8,clear
+1824,Green Gram (Moong),Yalburga,2017-06-01,4750.0,14.0,32.8,clear
+1825,Bengal Gram(Gram),Yalburga,2017-11-01,6900.0,55.0,29.4,clear
+1826,Green Gram (Moong),Yalburga,2017-11-01,4534.0,10.0,29.4,clear
+1827,Bengal Gram(Gram),Yalburga,2017-01-17,6450.0,5.0,29.6,clear
+1828,Green Gram (Moong),Yalburga,2017-01-17,4600.0,3.0,29.6,clear
+1829,Bengal Gram(Gram),Yalburga,2017-01-18,6800.0,3.0,29.0,clear
+1830,Green Gram (Moong),Yalburga,2017-01-18,4688.0,10.0,29.0,clear
+1831,Bengal Gram(Gram),Yalburga,2017-01-20,6800.0,4.0,28.4,clear
+1832,Green Gram (Moong),Yalburga,2017-01-20,4725.0,16.0,28.4,clear
+1833,Bengal Gram(Gram),Yalburga,2017-01-21,6800.0,2.0,31.0,clear
+1834,Green Gram (Moong),Yalburga,2017-01-21,4627.0,5.0,31.0,clear
+1835,Bengal Gram(Gram),Yalburga,2017-01-23,6826.0,14.0,31.0,clear
+1836,Green Gram (Moong),Yalburga,2017-01-23,4500.0,1.0,31.0,clear
+1837,Bengal Gram(Gram),Yalburga,2017-01-24,6600.0,8.0,30.0,clear
+1838,Green Gram (Moong),Yalburga,2017-01-24,4665.0,4.0,30.0,clear
+1839,Bengal Gram(Gram),Yalburga,2017-01-25,6750.0,4.0,29.6,rain
+1840,Bengal Gram(Gram),Yalburga,2017-01-27,6462.0,8.0,29.8,clear
+1841,Green Gram (Moong),Yalburga,2017-01-27,4328.0,21.0,29.8,clear
+1842,Bengal Gram(Gram),Yalburga,2017-01-02,6150.0,2.0,29.4,clear
+1843,Green Gram (Moong),Yalburga,2017-01-02,4650.0,5.0,29.4,clear
+1844,Bengal Gram(Gram),Yalburga,2017-03-02,6300.0,3.0,33.8,clear
+1845,Green Gram (Moong),Yalburga,2017-03-02,4450.0,5.0,33.8,clear
+1846,Black Gram (Urd Beans),Koppal,2017-08-06,5175.0,6.0,29.8,clear
+1847,Green Gram (Moong),Koppal,2017-08-06,3309.0,0.0,29.8,clear
+1848,Green Gram (Moong),Yalburga,2017-08-06,4227.0,10.0,29.8,clear
+1849,Black Gram (Urd Beans),Koppal,2017-06-07,5405.0,2.0,27.4,clear
+1850,Green Gram (Moong),Koppal,2017-06-07,4005.0,0.0,27.4,clear
+1851,Black Gram (Urd Beans),Koppal,2017-10-07,4820.0,1.0,27.2,clear
+1852,Black Gram (Urd Beans),Koppal,2017-07-17,3690.0,1.0,27.4,clear
+1853,Black Gram (Urd Beans),Koppal,2017-07-20,4239.0,1.0,26.0,rain
+1854,Green Gram (Moong),Yalburga,2017-07-20,4350.0,16.0,26.0,rain
+1855,Black Gram (Urd Beans),Koppal,2017-07-27,4034.0,1.0,29.2,clear
+1856,Black Gram (Urd Beans),Koppal,2017-07-31,3210.0,0.0,31.4,clear
+1857,Green Gram (Moong),Kustagi,2017-07-31,4350.0,0.0,31.4,clear
+1858,Green Gram (Moong),Yalburga,2017-07-31,4225.0,15.0,31.4,clear
+1859,Black Gram (Urd Beans),Koppal,2017-09-18,4249.0,1.0,28.6,clear
+1860,Green Gram (Moong),Kustagi,2017-09-18,4200.0,0.0,28.6,clear
+1861,Black Gram (Urd Beans),Koppal,2017-09-21,2262.0,1.0,27.0,clear
+1862,Green Gram (Moong),Kustagi,2017-09-21,4200.0,0.0,27.0,clear
+1863,Black Gram (Urd Beans),Koppal,2017-03-10,2209.0,0.0,33.6,clear
+1864,Green Gram (Moong),Kustagi,2017-03-10,4000.0,0.0,33.6,clear
+1865,Black Gram (Urd Beans),Koppal,2017-12-10,2209.0,0.0,28.2,clear
+1866,Green Gram (Moong),Gangavathi,2017-07-15,4000.0,1.0,26.6,clear
+1867,Green Gram (Moong),Yalburga,2017-07-15,4300.0,3.0,26.6,clear
+1868,Green Gram (Moong),Kustagi,2017-10-08,4100.0,0.0,28.6,clear
+1869,Green Gram (Moong),Kustagi,2017-08-23,3900.0,0.0,30.6,clear
+1870,Green Gram (Moong),Kustagi,2017-08-28,4900.0,0.0,25.4,rain
+1871,Green Gram (Moong),Kustagi,2017-08-29,4655.5,1.0,26.4,clear
+1872,Green Gram (Moong),Kustagi,2017-03-09,4000.0,0.0,34.6,clear
+1873,Green Gram (Moong),Kustagi,2017-10-09,4500.0,0.0,27.6,clear
+1874,Green Gram (Moong),Kustagi,2017-09-24,4200.0,0.0,28.6,rain
+1875,Green Gram (Moong),Yalburga,2017-07-01,4498.0,5.0,26.2,clear
+1876,Green Gram (Moong),Yalburga,2017-10-01,4461.0,13.0,28.4,rain
+1877,Green Gram (Moong),Yalburga,2017-04-02,4386.0,1.0,37.0,clear
+1878,Green Gram (Moong),Yalburga,2017-02-18,4600.0,27.0,32.0,clear
+1879,Green Gram (Moong),Yalburga,2017-02-20,4500.0,8.0,35.4,clear
+1880,Green Gram (Moong),Yalburga,2017-02-21,4500.0,1.0,34.8,clear
+1881,Green Gram (Moong),Yalburga,2017-02-22,4600.0,8.0,35.4,clear
+1882,Green Gram (Moong),Yalburga,2017-03-03,4500.0,4.0,34.2,clear
+1883,Green Gram (Moong),Yalburga,2017-04-03,5200.0,4.0,36.8,clear
+1884,Green Gram (Moong),Yalburga,2017-07-03,4500.0,3.0,30.0,clear
+1885,Green Gram (Moong),Yalburga,2017-08-03,5000.0,12.0,28.2,clear
+1886,Green Gram (Moong),Yalburga,2017-10-03,4500.0,1.0,29.6,rain
+1887,Green Gram (Moong),Yalburga,2017-03-15,4500.0,9.0,34.8,rain
+1888,Green Gram (Moong),Yalburga,2017-03-17,4100.0,2.0,33.4,clear
+1889,Green Gram (Moong),Yalburga,2017-03-18,4100.0,1.0,34.8,clear
+1890,Green Gram (Moong),Yalburga,2017-03-24,4325.0,13.0,36.0,clear
+1891,Green Gram (Moong),Yalburga,2017-03-28,4475.0,8.0,36.2,clear
+1892,Green Gram (Moong),Yalburga,2017-04-04,4500.0,4.0,37.4,clear
+1893,Green Gram (Moong),Yalburga,2017-05-04,4505.0,22.0,37.4,rain
+1894,Green Gram (Moong),Yalburga,2017-07-04,6000.0,8.0,30.2,clear
+1895,Green Gram (Moong),Yalburga,2017-11-04,5400.0,27.0,28.0,clear
+1896,Green Gram (Moong),Yalburga,2017-12-04,4800.0,51.0,28.0,clear
+1897,Green Gram (Moong),Yalburga,2017-04-15,5000.0,3.0,38.4,clear
+1898,Green Gram (Moong),Yalburga,2017-04-18,5000.0,2.0,38.8,clear
+1899,Green Gram (Moong),Yalburga,2017-04-19,5000.0,5.0,39.0,clear
+1900,Green Gram (Moong),Yalburga,2017-04-22,5000.0,3.0,36.8,clear
+1901,Green Gram (Moong),Yalburga,2017-04-28,5000.0,14.0,37.4,rain
+1902,Green Gram (Moong),Yalburga,2017-03-05,5000.0,6.0,33.6,clear
+1903,Green Gram (Moong),Yalburga,2017-09-05,4950.0,8.0,26.2,clear
+1904,Green Gram (Moong),Yalburga,2017-10-05,4887.0,8.0,30.0,clear
+1905,Green Gram (Moong),Yalburga,2017-12-05,5000.0,4.0,31.0,clear
+1906,Green Gram (Moong),Yalburga,2017-05-24,4675.0,1.0,34.6,clear
+1907,Green Gram (Moong),Yalburga,2017-07-06,4010.0,12.0,30.2,clear
+1908,Green Gram (Moong),Yalburga,2017-09-06,4500.0,6.0,27.6,clear
+1909,Green Gram (Moong),Yalburga,2017-06-21,4240.0,5.0,31.0,clear
+1910,Green Gram (Moong),Yalburga,2017-06-28,4200.0,11.0,28.4,clear
+1911,Green Gram (Moong),Yalburga,2017-06-30,4200.0,3.0,28.0,clear
+1912,Green Gram (Moong),Yalburga,2017-04-07,4225.0,6.0,37.0,clear
+1913,Green Gram (Moong),Yalburga,2017-12-07,4225.0,7.0,28.0,clear
+1914,Green Gram (Moong),Yalburga,2017-07-28,4624.0,13.0,31.0,clear
+1915,Green Gram (Moong),Yalburga,2017-07-29,4375.0,3.0,31.4,clear
+1916,Green Gram (Moong),Yalburga,2017-01-08,4640.0,13.0,31.0,clear
+1917,Green Gram (Moong),Yalburga,2017-04-08,4572.0,11.0,38.6,clear
+1918,Green Gram (Moong),Yalburga,2017-05-08,4665.0,34.0,36.8,clear

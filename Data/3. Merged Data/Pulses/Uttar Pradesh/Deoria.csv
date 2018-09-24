@@ -1,0 +1,992 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Bengal Gram(Gram),Devariya,2014-09-16,3425.0,3.5,31.4,clear
+1,Bengal Gram(Gram),Devariya,2014-09-18,3430.0,2.0,34.6,clear
+2,Bengal Gram(Gram),Devariya,2014-09-19,3440.0,2.0,33.2,rain
+3,Bengal Gram(Gram),Devariya,2014-09-22,3460.0,3.5,31.2,clear
+4,Bengal Gram(Gram),Devariya,2014-09-23,3465.0,3.0,31.4,clear
+5,Bengal Gram(Gram),Devariya,2014-09-24,3465.0,3.0,34.0,rain
+6,Bengal Gram(Gram),Devariya,2014-09-25,3480.0,3.5,30.0,clear
+7,Bengal Gram(Gram),Devariya,2014-09-26,3485.0,3.0,33.2,clear
+8,Bengal Gram(Gram),Devariya,2014-09-27,3480.0,3.5,33.4,clear
+9,Bengal Gram(Gram),Devariya,2014-09-29,3490.0,4.0,32.8,rain
+10,Bengal Gram(Gram),Devariya,2014-11-24,3515.0,2.0,26.8,clear
+11,Bengal Gram(Gram),Devariya,2014-11-25,3515.0,2.5,26.4,clear
+12,Bengal Gram(Gram),Devariya,2014-09-12,3460.0,3.0,31.2,rain
+13,Bengal Gram(Gram),Devariya,2014-10-12,3475.0,2.5,31.2,clear
+14,Bengal Gram(Gram),Devariya,2014-11-12,3470.0,20.0,29.8,clear
+15,Bengal Gram(Gram),Devariya,2014-12-12,3470.0,2.0,30.0,clear
+16,Bengal Gram(Gram),Devariya,2014-12-13,3470.0,2.0,21.4,clear
+17,Bengal Gram(Gram),Devariya,2014-12-15,3465.0,2.5,32.6,rain
+18,Bengal Gram(Gram),Devariya,2014-12-16,3475.0,2.0,25.2,clear
+19,Bengal Gram(Gram),Devariya,2014-12-17,3480.0,15.0,21.8,clear
+20,Bengal Gram(Gram),Devariya,2014-12-18,3490.0,1.0,21.4,clear
+21,Bengal Gram(Gram),Devariya,2014-12-19,3475.0,1.5,21.6,clear
+22,Bengal Gram(Gram),Devariya,2014-12-20,3480.0,1.5,19.2,clear
+23,Bengal Gram(Gram),Devariya,2014-12-22,3475.0,2.0,15.0,clear
+24,Bengal Gram(Gram),Devariya,2014-12-23,3475.0,3.0,16.4,clear
+25,Bengal Gram(Gram),Devariya,2014-12-24,3480.0,2.5,13.0,clear
+26,Bengal Gram(Gram),Devariya,2014-12-25,3485.0,2.0,16.8,clear
+27,Bengal Gram(Gram),Devariya,2015-07-01,3525.0,2.0,34.2,clear
+28,Bengal Gram(Gram),Devariya,2015-12-01,3525.0,2.0,28.6,clear
+29,Bengal Gram(Gram),Devariya,2015-01-13,3535.0,3.5,14.6,clear
+30,Bengal Gram(Gram),Devariya,2015-01-14,3535.0,4.5,17.8,clear
+31,Bengal Gram(Gram),Devariya,2015-02-02,3615.0,2.0,22.6,clear
+32,Bengal Gram(Gram),Devariya,2015-07-02,3625.0,2.0,33.8,clear
+33,Bengal Gram(Gram),Devariya,2015-09-02,3475.0,3.5,34.8,clear
+34,Bengal Gram(Gram),Devariya,2015-10-02,3625.0,3.0,35.0,clear
+35,Bengal Gram(Gram),Devariya,2015-11-02,3620.0,2.5,31.4,clear
+36,Bengal Gram(Gram),Devariya,2015-12-02,3625.0,2.0,24.8,clear
+37,Bengal Gram(Gram),Devariya,2015-02-13,3625.0,2.0,23.8,clear
+38,Bengal Gram(Gram),Devariya,2015-02-14,3620.0,3.0,24.4,clear
+39,Bengal Gram(Gram),Devariya,2015-02-16,3625.0,2.5,25.2,clear
+40,Bengal Gram(Gram),Devariya,2015-02-17,3620.0,2.5,25.6,clear
+41,Bengal Gram(Gram),Devariya,2015-02-20,3630.0,2.0,27.2,clear
+42,Bengal Gram(Gram),Devariya,2015-02-25,3635.0,2.5,28.4,clear
+43,Bengal Gram(Gram),Devariya,2015-02-26,3247.5,0.0,24.4,rain
+44,Bengal Gram(Gram),Devariya,2015-02-27,3645.0,5.5,28.4,clear
+45,Bengal Gram(Gram),Devariya,2015-02-28,3635.0,3.0,27.8,clear
+46,Bengal Gram(Gram),Devariya,2015-02-03,3650.0,3.0,25.6,rain
+47,Bengal Gram(Gram),Devariya,2015-03-03,3640.0,2.5,25.2,clear
+48,Bengal Gram(Gram),Devariya,2015-04-03,3660.0,2.5,35.0,clear
+49,Bengal Gram(Gram),Devariya,2015-05-03,3645.0,3.0,37.0,clear
+50,Bengal Gram(Gram),Devariya,2015-07-03,3645.0,3.0,36.0,clear
+51,Bengal Gram(Gram),Devariya,2015-09-03,3640.0,2.0,33.4,clear
+52,Bengal Gram(Gram),Devariya,2015-10-03,3635.0,2.5,35.0,clear
+53,Bengal Gram(Gram),Devariya,2015-11-03,3625.0,3.0,32.0,clear
+54,Bengal Gram(Gram),Devariya,2015-12-03,3620.0,3.0,27.4,clear
+55,Bengal Gram(Gram),Devariya,2015-03-13,3625.0,3.0,31.2,clear
+56,Bengal Gram(Gram),Devariya,2015-03-14,3625.0,2.0,28.0,clear
+57,Bengal Gram(Gram),Devariya,2015-03-16,3620.0,3.0,28.0,clear
+58,Bengal Gram(Gram),Devariya,2015-03-17,3600.0,3.5,30.6,clear
+59,Bengal Gram(Gram),Devariya,2015-03-18,3610.0,3.0,29.0,clear
+60,Bengal Gram(Gram),Devariya,2015-03-19,3600.0,3.5,29.2,clear
+61,Bengal Gram(Gram),Devariya,2015-03-20,3590.0,3.5,31.0,clear
+62,Bengal Gram(Gram),Devariya,2015-03-21,3615.0,3.0,32.0,clear
+63,Bengal Gram(Gram),Devariya,2015-03-23,3590.0,3.5,33.8,clear
+64,Bengal Gram(Gram),Devariya,2015-03-24,3595.0,3.0,34.0,clear
+65,Bengal Gram(Gram),Devariya,2015-03-25,3590.0,3.5,35.2,clear
+66,Bengal Gram(Gram),Devariya,2015-03-26,3585.0,3.0,36.4,clear
+67,Bengal Gram(Gram),Devariya,2015-03-27,3580.0,3.5,33.4,rain
+68,Bengal Gram(Gram),Devariya,2015-03-30,3580.0,2.5,25.2,clear
+69,Bengal Gram(Gram),Devariya,2015-01-04,4300.0,2.5,21.0,clear
+70,Bengal Gram(Gram),Devariya,2015-02-04,3575.0,20.0,24.6,clear
+71,Bengal Gram(Gram),Devariya,2015-04-04,3570.0,2.5,32.6,clear
+72,Bengal Gram(Gram),Devariya,2015-06-04,3575.0,3.5,36.4,clear
+73,Bengal Gram(Gram),Devariya,2015-07-04,3575.0,3.5,37.0,clear
+74,Bengal Gram(Gram),Devariya,2015-08-04,3570.0,4.0,33.6,clear
+75,Bengal Gram(Gram),Devariya,2015-09-04,3575.0,4.5,35.0,clear
+76,Bengal Gram(Gram),Devariya,2015-10-04,3570.0,4.0,34.6,clear
+77,Bengal Gram(Gram),Devariya,2015-04-13,3575.0,4.5,31.6,clear
+78,Bengal Gram(Gram),Devariya,2015-04-14,3575.0,4.0,32.6,clear
+79,Bengal Gram(Gram),Devariya,2015-04-15,3570.0,4.5,33.0,clear
+80,Bengal Gram(Gram),Devariya,2015-04-16,3575.0,4.0,34.6,clear
+81,Bengal Gram(Gram),Devariya,2015-04-17,3580.0,3.5,32.8,clear
+82,Bengal Gram(Gram),Devariya,2015-04-18,3575.0,4.0,34.6,clear
+83,Bengal Gram(Gram),Devariya,2015-04-21,3580.0,3.5,37.8,clear
+84,Bengal Gram(Gram),Devariya,2015-04-22,3585.0,4.0,39.2,clear
+85,Bengal Gram(Gram),Devariya,2015-04-23,3580.0,4.5,36.2,clear
+86,Bengal Gram(Gram),Devariya,2015-04-25,3585.0,4.5,22.6,clear
+87,Bengal Gram(Gram),Devariya,2015-04-27,3590.0,5.0,31.4,clear
+88,Bengal Gram(Gram),Devariya,2015-04-28,3650.0,4.0,28.2,clear
+89,Bengal Gram(Gram),Devariya,2015-01-05,3730.0,4.0,16.2,clear
+90,Bengal Gram(Gram),Devariya,2015-02-05,3735.0,4.5,18.2,clear
+91,Bengal Gram(Gram),Devariya,2015-04-05,1455.0,180.0,32.6,clear
+92,Bengal Gram(Gram),Devariya,2015-05-05,3735.0,5.0,39.4,clear
+93,Bengal Gram(Gram),Devariya,2015-06-05,3750.0,4.5,40.4,clear
+94,Bengal Gram(Gram),Devariya,2015-08-05,3910.0,3.5,34.4,clear
+95,Bengal Gram(Gram),Devariya,2015-09-05,3925.0,2.0,34.8,clear
+96,Bengal Gram(Gram),Devariya,2015-11-05,3950.0,3.0,31.2,clear
+97,Bengal Gram(Gram),Devariya,2015-12-05,4000.0,3.5,26.0,clear
+98,Bengal Gram(Gram),Devariya,2015-05-14,4100.0,3.0,37.8,clear
+99,Bengal Gram(Gram),Devariya,2015-05-15,4250.0,1.5,36.4,clear
+100,Bengal Gram(Gram),Devariya,2015-05-16,4285.0,2.0,32.6,clear
+101,Bengal Gram(Gram),Devariya,2015-05-18,4275.0,2.5,36.4,clear
+102,Bengal Gram(Gram),Devariya,2015-05-19,4280.0,2.0,36.6,clear
+103,Bengal Gram(Gram),Devariya,2015-05-20,4285.0,2.5,35.4,clear
+104,Bengal Gram(Gram),Devariya,2015-05-21,4280.0,2.0,40.6,clear
+105,Bengal Gram(Gram),Devariya,2015-05-22,4350.0,3.0,40.6,clear
+106,Bengal Gram(Gram),Devariya,2015-05-23,4380.0,3.5,40.6,clear
+107,Bengal Gram(Gram),Devariya,2015-05-25,4450.0,3.0,37.4,clear
+108,Bengal Gram(Gram),Devariya,2015-05-26,4490.0,3.5,37.8,clear
+109,Bengal Gram(Gram),Devariya,2015-05-27,4500.0,3.0,37.6,clear
+110,Bengal Gram(Gram),Devariya,2015-05-28,4515.0,3.5,38.2,clear
+111,Bengal Gram(Gram),Devariya,2015-05-29,4525.0,3.0,39.8,clear
+112,Bengal Gram(Gram),Devariya,2015-01-06,3665.0,4.5,19.0,clear
+113,Bengal Gram(Gram),Devariya,2015-02-06,4745.0,3.0,22.2,clear
+114,Bengal Gram(Gram),Devariya,2015-03-06,4760.0,3.5,27.0,clear
+115,Bengal Gram(Gram),Devariya,2015-04-06,4770.0,3.0,33.6,clear
+116,Bengal Gram(Gram),Devariya,2015-05-06,4800.0,2.5,39.2,clear
+117,Bengal Gram(Gram),Devariya,2015-06-06,4825.0,2.5,42.6,clear
+118,Bengal Gram(Gram),Devariya,2015-08-06,4835.0,3.0,32.2,clear
+119,Bengal Gram(Gram),Devariya,2015-09-06,4850.0,2.5,34.8,clear
+120,Bengal Gram(Gram),Devariya,2015-10-06,4875.0,3.5,34.0,clear
+121,Bengal Gram(Gram),Devariya,2015-11-06,4880.0,3.0,30.4,clear
+122,Bengal Gram(Gram),Devariya,2015-12-06,4885.0,3.5,23.4,clear
+123,Bengal Gram(Gram),Devariya,2015-06-13,4895.0,4.0,35.6,clear
+124,Bengal Gram(Gram),Devariya,2015-06-15,4900.0,35.0,32.8,clear
+125,Bengal Gram(Gram),Devariya,2015-06-16,4910.0,3.0,34.8,clear
+126,Bengal Gram(Gram),Devariya,2015-06-17,4915.0,3.5,36.2,clear
+127,Bengal Gram(Gram),Devariya,2015-06-18,4925.0,3.0,36.4,clear
+128,Bengal Gram(Gram),Devariya,2015-06-19,4930.0,4.0,36.4,clear
+129,Bengal Gram(Gram),Devariya,2015-06-20,4950.0,3.0,38.2,clear
+130,Bengal Gram(Gram),Devariya,2015-06-22,4900.0,4.0,36.4,clear
+131,Bengal Gram(Gram),Devariya,2015-06-23,4920.0,3.5,36.2,clear
+132,Bengal Gram(Gram),Devariya,2015-06-24,4985.0,3.5,34.6,clear
+133,Bengal Gram(Gram),Devariya,2015-06-25,4980.0,3.5,38.4,clear
+134,Bengal Gram(Gram),Devariya,2015-06-26,5010.0,3.5,28.0,clear
+135,Bengal Gram(Gram),Devariya,2015-06-27,5020.0,3.0,32.6,clear
+136,Bengal Gram(Gram),Devariya,2015-06-29,5025.0,3.5,32.0,clear
+137,Bengal Gram(Gram),Devariya,2015-01-07,5040.0,3.0,20.4,clear
+138,Bengal Gram(Gram),Devariya,2015-02-07,5045.0,3.5,22.6,clear
+139,Bengal Gram(Gram),Devariya,2015-03-07,5030.0,3.0,28.0,clear
+140,Bengal Gram(Gram),Devariya,2015-04-07,5050.0,3.5,32.2,clear
+141,Bengal Gram(Gram),Devariya,2015-06-07,5720.0,2.5,42.2,clear
+142,Bengal Gram(Gram),Devariya,2015-07-07,5710.0,2.0,29.6,clear
+143,Bengal Gram(Gram),Devariya,2015-08-07,5020.0,3.0,31.6,clear
+144,Bengal Gram(Gram),Devariya,2015-09-07,502.5,3.0,34.8,clear
+145,Bengal Gram(Gram),Devariya,2015-10-07,5000.0,4.0,34.0,clear
+146,Bengal Gram(Gram),Devariya,2015-11-07,5010.0,3.0,30.4,clear
+147,Bengal Gram(Gram),Devariya,2015-07-13,5015.0,3.5,33.0,clear
+148,Bengal Gram(Gram),Devariya,2015-07-14,5020.0,30.0,35.0,clear
+149,Bengal Gram(Gram),Devariya,2015-07-15,5025.0,3.5,34.6,rain
+150,Bengal Gram(Gram),Devariya,2015-07-16,5030.0,2.5,27.4,clear
+151,Bengal Gram(Gram),Devariya,2015-07-20,5025.0,3.5,33.2,clear
+152,Bengal Gram(Gram),Devariya,2015-07-21,5030.0,4.0,33.2,clear
+153,Bengal Gram(Gram),Devariya,2015-07-22,5035.0,3.0,32.2,clear
+154,Bengal Gram(Gram),Devariya,2015-07-23,5040.0,3.5,31.6,clear
+155,Bengal Gram(Gram),Devariya,2015-07-24,5045.0,3.0,32.2,clear
+156,Bengal Gram(Gram),Devariya,2015-07-25,5040.0,2.5,32.8,clear
+157,Bengal Gram(Gram),Devariya,2015-07-27,5045.0,2.0,34.4,clear
+158,Bengal Gram(Gram),Devariya,2015-07-28,5050.0,2.5,38.4,clear
+159,Bengal Gram(Gram),Devariya,2015-07-30,5010.0,3.0,34.4,clear
+160,Bengal Gram(Gram),Devariya,2015-07-31,5010.0,3.0,28.8,rain
+161,Bengal Gram(Gram),Devariya,2015-01-08,5015.0,3.5,20.0,clear
+162,Bengal Gram(Gram),Devariya,2015-03-08,5020.0,3.0,29.0,clear
+163,Bengal Gram(Gram),Devariya,2015-04-08,5025.0,3.5,34.8,clear
+164,Bengal Gram(Gram),Devariya,2015-05-08,5020.0,3.0,35.0,clear
+165,Bengal Gram(Gram),Devariya,2015-07-08,5035.0,3.0,33.6,clear
+166,Bengal Gram(Gram),Devariya,2015-10-08,5040.0,3.5,34.6,clear
+167,Bengal Gram(Gram),Devariya,2015-11-08,5045.0,3.0,29.8,clear
+168,Bengal Gram(Gram),Devariya,2015-12-08,5035.0,4.0,22.8,clear
+169,Bengal Gram(Gram),Devariya,2015-08-13,5030.0,3.0,33.4,clear
+170,Bengal Gram(Gram),Devariya,2015-08-17,5035.0,3.0,29.2,clear
+171,Bengal Gram(Gram),Devariya,2015-08-18,5030.0,0.0,29.4,clear
+172,Bengal Gram(Gram),Devariya,2015-08-19,5035.0,3.0,31.8,clear
+173,Bengal Gram(Gram),Devariya,2015-08-20,5040.0,3.5,32.4,clear
+174,Bengal Gram(Gram),Devariya,2015-08-21,5045.0,3.0,29.8,clear
+175,Bengal Gram(Gram),Devariya,2015-08-24,5040.0,3.0,33.0,clear
+176,Bengal Gram(Gram),Devariya,2015-08-25,5045.0,3.5,32.6,clear
+177,Bengal Gram(Gram),Devariya,2015-08-26,5040.0,3.0,32.6,clear
+178,Bengal Gram(Gram),Devariya,2015-08-27,5050.0,3.5,30.6,clear
+179,Bengal Gram(Gram),Devariya,2015-08-28,5040.0,3.0,32.8,clear
+180,Bengal Gram(Gram),Devariya,2015-08-29,5050.0,35.0,33.0,clear
+181,Bengal Gram(Gram),Devariya,2015-08-31,5040.0,3.0,33.6,rain
+182,Bengal Gram(Gram),Devariya,2015-02-09,5710.0,3.5,24.0,clear
+183,Bengal Gram(Gram),Devariya,2015-03-09,5060.0,4.5,31.2,clear
+184,Bengal Gram(Gram),Devariya,2015-04-09,5100.0,3.0,34.6,clear
+185,Bengal Gram(Gram),Devariya,2015-05-09,5070.0,3.5,36.2,clear
+186,Bengal Gram(Gram),Devariya,2015-07-09,5075.0,3.0,33.2,clear
+187,Bengal Gram(Gram),Devariya,2015-08-09,5070.0,3.5,34.2,clear
+188,Bengal Gram(Gram),Devariya,2015-09-09,5075.0,3.0,34.2,clear
+189,Bengal Gram(Gram),Devariya,2015-10-09,5080.0,2.5,34.8,clear
+190,Bengal Gram(Gram),Devariya,2015-11-09,5085.0,2.0,31.0,clear
+191,Bengal Gram(Gram),Devariya,2015-12-09,5070.0,2.0,20.0,clear
+192,Bengal Gram(Gram),Devariya,2015-09-14,5080.0,2.5,32.8,clear
+193,Bengal Gram(Gram),Devariya,2015-09-15,5085.0,2.0,32.4,clear
+194,Bengal Gram(Gram),Devariya,2015-09-16,5080.0,2.5,31.8,clear
+195,Bengal Gram(Gram),Devariya,2015-09-17,5085.0,2.0,32.8,clear
+196,Bengal Gram(Gram),Devariya,2015-09-18,5085.0,2.5,35.0,clear
+197,Bengal Gram(Gram),Devariya,2015-09-19,5085.0,3.0,35.4,clear
+198,Bengal Gram(Gram),Devariya,2015-09-21,5080.0,3.0,31.8,clear
+199,Bengal Gram(Gram),Devariya,2015-09-22,5085.0,3.0,32.8,clear
+200,Bengal Gram(Gram),Devariya,2015-09-23,5080.0,3.5,34.0,clear
+201,Bengal Gram(Gram),Devariya,2015-09-24,5085.0,3.0,33.2,clear
+202,Bengal Gram(Gram),Devariya,2015-09-26,5090.0,3.5,33.2,clear
+203,Bengal Gram(Gram),Devariya,2015-09-28,5095.0,3.0,33.6,clear
+204,Bengal Gram(Gram),Devariya,2015-09-29,5090.0,3.5,34.0,clear
+205,Bengal Gram(Gram),Devariya,2015-01-10,5080.0,4.0,11.8,clear
+206,Bengal Gram(Gram),Devariya,2015-03-10,5085.0,4.0,29.2,clear
+207,Bengal Gram(Gram),Devariya,2015-05-10,5080.0,4.5,37.4,clear
+208,Bengal Gram(Gram),Devariya,2015-06-10,5085.0,4.0,41.0,clear
+209,Bengal Gram(Gram),Devariya,2015-08-10,5150.0,3.5,35.4,clear
+210,Bengal Gram(Gram),Devariya,2015-10-15,5185.0,3.0,32.0,clear
+211,Bengal Gram(Gram),Devariya,2015-10-16,5250.0,3.0,32.4,clear
+212,Bengal Gram(Gram),Devariya,2015-10-17,5260.0,3.5,31.8,clear
+213,Bengal Gram(Gram),Devariya,2015-10-18,5260.0,3.0,32.0,clear
+214,Bengal Gram(Gram),Devariya,2015-10-19,5265.0,3.0,33.8,clear
+215,Bengal Gram(Gram),Devariya,2015-10-20,5300.0,3.0,32.2,clear
+216,Bengal Gram(Gram),Devariya,2015-10-21,5320.0,2.5,32.2,clear
+217,Bengal Gram(Gram),Devariya,2015-10-22,5340.0,3.0,33.4,clear
+218,Bengal Gram(Gram),Devariya,2015-10-23,5220.0,2.5,32.2,clear
+219,Bengal Gram(Gram),Devariya,2015-10-24,5320.0,3.0,31.8,clear
+220,Bengal Gram(Gram),Devariya,2015-10-25,5350.0,3.5,31.2,clear
+221,Bengal Gram(Gram),Devariya,2015-10-26,5330.0,3.5,31.8,clear
+222,Bengal Gram(Gram),Devariya,2015-10-28,5335.0,3.0,31.0,clear
+223,Bengal Gram(Gram),Devariya,2015-10-29,5330.0,4.0,22.2,clear
+224,Bengal Gram(Gram),Devariya,2015-10-30,5335.0,4.5,29.8,clear
+225,Bengal Gram(Gram),Devariya,2015-10-31,5340.0,3.0,31.0,clear
+226,Bengal Gram(Gram),Devariya,2015-02-11,5340.0,3.5,21.6,clear
+227,Bengal Gram(Gram),Devariya,2015-03-11,5345.0,3.0,27.8,clear
+228,Bengal Gram(Gram),Devariya,2015-04-11,5350.0,3.5,36.4,clear
+229,Bengal Gram(Gram),Devariya,2015-05-11,5350.0,3.5,37.6,clear
+230,Bengal Gram(Gram),Devariya,2015-06-11,5370.0,3.0,36.4,clear
+231,Bengal Gram(Gram),Devariya,2015-07-11,5375.0,3.5,29.8,clear
+232,Bengal Gram(Gram),Devariya,2015-09-11,5390.0,4.5,33.2,clear
+233,Bengal Gram(Gram),Devariya,2015-10-11,5395.0,4.0,33.4,clear
+234,Bengal Gram(Gram),Devariya,2015-11-11,5390.0,3.5,30.2,clear
+235,Bengal Gram(Gram),Devariya,2015-12-11,5390.0,4.0,21.0,clear
+236,Bengal Gram(Gram),Devariya,2015-11-17,5390.0,3.0,28.4,clear
+237,Bengal Gram(Gram),Devariya,2015-11-18,5395.0,4.0,26.2,clear
+238,Bengal Gram(Gram),Devariya,2015-11-19,5390.0,3.0,26.8,clear
+239,Bengal Gram(Gram),Devariya,2015-11-20,5390.0,3.5,28.2,clear
+240,Bengal Gram(Gram),Devariya,2015-11-21,5395.0,0.0,29.0,clear
+241,Bengal Gram(Gram),Devariya,2015-11-22,5390.0,4.0,27.6,clear
+242,Bengal Gram(Gram),Devariya,2015-11-26,5395.0,3.5,27.8,clear
+243,Bengal Gram(Gram),Devariya,2015-11-27,5390.0,3.0,26.6,clear
+244,Bengal Gram(Gram),Devariya,2015-11-28,5395.0,3.5,26.4,clear
+245,Bengal Gram(Gram),Devariya,2015-11-29,5390.0,3.0,28.0,clear
+246,Bengal Gram(Gram),Devariya,2015-11-30,5395.0,3.5,28.2,clear
+247,Bengal Gram(Gram),Devariya,2015-02-12,5410.0,3.5,24.0,clear
+248,Bengal Gram(Gram),Devariya,2015-03-12,5420.0,3.0,28.0,clear
+249,Bengal Gram(Gram),Devariya,2015-04-12,5425.0,0.0,29.8,clear
+250,Bengal Gram(Gram),Devariya,2015-06-12,5420.0,3.0,37.0,clear
+251,Bengal Gram(Gram),Devariya,2015-07-12,5435.0,4.5,33.0,clear
+252,Bengal Gram(Gram),Devariya,2015-08-12,5430.0,4.0,33.8,rain
+253,Bengal Gram(Gram),Devariya,2015-09-12,5435.0,4.0,30.4,clear
+254,Bengal Gram(Gram),Devariya,2015-10-12,5430.0,4.5,26.8,clear
+255,Bengal Gram(Gram),Devariya,2015-11-12,5440.0,3.0,30.0,clear
+256,Bengal Gram(Gram),Devariya,2015-12-12,5430.0,3.5,23.8,clear
+257,Bengal Gram(Gram),Devariya,2015-12-13,5450.0,2.5,21.4,clear
+258,Bengal Gram(Gram),Devariya,2015-12-14,5445.0,3.5,21.0,clear
+259,Bengal Gram(Gram),Devariya,2015-12-15,5450.0,3.0,17.8,clear
+260,Bengal Gram(Gram),Devariya,2015-12-16,5450.0,3.5,21.2,clear
+261,Bengal Gram(Gram),Devariya,2015-12-21,5470.0,3.0,21.8,clear
+262,Bengal Gram(Gram),Devariya,2015-12-22,5460.0,3.0,22.4,clear
+263,Bengal Gram(Gram),Devariya,2015-12-23,5465.0,3.5,21.8,clear
+264,Bengal Gram(Gram),Devariya,2015-12-24,5470.0,3.5,21.6,clear
+265,Bengal Gram(Gram),Devariya,2015-12-25,5465.0,3.5,22.2,clear
+266,Bengal Gram(Gram),Devariya,2015-12-26,5460.0,4.0,21.6,clear
+267,Bengal Gram(Gram),Devariya,2015-12-27,5450.0,3.5,23.0,clear
+268,Bengal Gram(Gram),Devariya,2015-12-28,5470.0,4.5,24.0,clear
+269,Bengal Gram(Gram),Devariya,2015-12-29,5460.0,4.0,22.0,clear
+270,Arhar (Tur/Red Gram),Devariya,2016-08-01,13900.0,4.5,31.6,clear
+271,Bengal Gram(Gram),Devariya,2016-08-01,5475.0,4.0,31.6,clear
+272,Arhar (Tur/Red Gram),Devariya,2016-09-01,13800.0,4.0,34.0,clear
+273,Arhar (Tur/Red Gram),Devariya,2016-11-01,13400.0,3.5,31.2,clear
+274,Bengal Gram(Gram),Devariya,2016-11-01,5470.0,4.5,31.2,clear
+275,Arhar (Tur/Red Gram),Devariya,2016-12-01,13300.0,3.0,27.4,clear
+276,Bengal Gram(Gram),Devariya,2016-12-01,5475.0,3.5,27.4,clear
+277,Arhar (Tur/Red Gram),Devariya,2016-01-13,13400.0,3.5,23.0,clear
+278,Bengal Gram(Gram),Devariya,2016-01-13,5470.0,4.0,23.0,clear
+279,Arhar (Tur/Red Gram),Devariya,2016-01-14,13300.0,3.0,24.0,clear
+280,Bengal Gram(Gram),Devariya,2016-01-14,5475.0,3.5,24.0,clear
+281,Arhar (Tur/Red Gram),Devariya,2016-01-15,13400.0,4.5,24.0,clear
+282,Bengal Gram(Gram),Devariya,2016-01-15,5470.0,4.5,24.0,clear
+283,Arhar (Tur/Red Gram),Devariya,2016-01-16,13200.0,3.5,20.4,clear
+284,Bengal Gram(Gram),Devariya,2016-01-16,5460.0,4.0,20.4,clear
+285,Arhar (Tur/Red Gram),Devariya,2016-01-17,13200.0,2.5,20.2,clear
+286,Bengal Gram(Gram),Devariya,2016-01-17,5470.0,3.0,20.2,clear
+287,Arhar (Tur/Red Gram),Devariya,2016-01-20,13500.0,4.5,16.4,clear
+288,Bengal Gram(Gram),Devariya,2016-01-20,5480.0,3.0,16.4,clear
+289,Arhar (Tur/Red Gram),Devariya,2016-01-21,13450.0,4.0,13.4,clear
+290,Bengal Gram(Gram),Devariya,2016-01-21,5485.0,3.5,13.4,clear
+291,Arhar (Tur/Red Gram),Devariya,2016-01-22,13300.0,55.0,13.0,clear
+292,Bengal Gram(Gram),Devariya,2016-01-22,5475.0,4.0,13.0,clear
+293,Arhar (Tur/Red Gram),Devariya,2016-01-23,13400.0,5.0,16.0,clear
+294,Bengal Gram(Gram),Devariya,2016-01-23,5480.0,4.5,16.0,clear
+295,Arhar (Tur/Red Gram),Devariya,2016-01-27,13400.0,4.0,21.4,clear
+296,Arhar (Tur/Red Gram),Devariya,2016-01-28,13100.0,4.5,20.8,clear
+297,Bengal Gram(Gram),Devariya,2016-01-28,5480.0,5.0,20.8,clear
+298,Arhar (Tur/Red Gram),Devariya,2016-01-29,13000.0,4.0,21.0,clear
+299,Bengal Gram(Gram),Devariya,2016-01-29,5470.0,4.0,21.0,clear
+300,Arhar (Tur/Red Gram),Devariya,2016-01-30,12700.0,4.5,23.6,clear
+301,Bengal Gram(Gram),Devariya,2016-01-30,5475.0,3.5,23.6,clear
+302,Arhar (Tur/Red Gram),Devariya,2016-01-02,12800.0,4.0,23.4,clear
+303,Bengal Gram(Gram),Devariya,2016-01-02,5470.0,4.0,23.4,clear
+304,Arhar (Tur/Red Gram),Devariya,2016-02-02,12700.0,4.5,24.8,clear
+305,Bengal Gram(Gram),Devariya,2016-02-02,5475.0,4.5,24.8,clear
+306,Arhar (Tur/Red Gram),Devariya,2016-03-02,12600.0,3.0,31.4,clear
+307,Bengal Gram(Gram),Devariya,2016-03-02,5480.0,4.0,31.4,clear
+308,Arhar (Tur/Red Gram),Devariya,2016-04-02,12500.0,4.0,33.4,clear
+309,Arhar (Tur/Red Gram),Devariya,2016-05-02,12500.0,4.0,36.2,clear
+310,Bengal Gram(Gram),Devariya,2016-05-02,5470.0,4.0,36.2,clear
+311,Arhar (Tur/Red Gram),Devariya,2016-06-02,12350.0,4.0,34.4,clear
+312,Bengal Gram(Gram),Devariya,2016-06-02,5475.0,4.5,34.4,clear
+313,Arhar (Tur/Red Gram),Devariya,2016-08-02,12400.0,3.0,33.4,clear
+314,Bengal Gram(Gram),Devariya,2016-08-02,5480.0,4.0,33.4,clear
+315,Arhar (Tur/Red Gram),Devariya,2016-09-02,5380.0,3.5,33.6,clear
+316,Bengal Gram(Gram),Devariya,2016-09-02,5380.0,3.5,33.6,clear
+317,Arhar (Tur/Red Gram),Devariya,2016-02-13,11400.0,3.5,28.2,clear
+318,Bengal Gram(Gram),Devariya,2016-02-13,5185.0,4.0,28.2,clear
+319,Arhar (Tur/Red Gram),Devariya,2016-02-15,11500.0,4.0,28.6,clear
+320,Bengal Gram(Gram),Devariya,2016-02-15,5185.0,5.0,28.6,clear
+321,Arhar (Tur/Red Gram),Devariya,2016-02-16,11400.0,4.5,27.0,clear
+322,Bengal Gram(Gram),Devariya,2016-02-16,5190.0,4.5,27.0,clear
+323,Arhar (Tur/Red Gram),Devariya,2016-02-17,11350.0,4.5,29.4,clear
+324,Bengal Gram(Gram),Devariya,2016-02-17,6340.0,4.0,29.4,clear
+325,Arhar (Tur/Red Gram),Devariya,2016-02-18,11300.0,3.0,30.4,clear
+326,Bengal Gram(Gram),Devariya,2016-02-18,5170.0,3.5,30.4,clear
+327,Arhar (Tur/Red Gram),Devariya,2016-02-19,11200.0,2.5,30.6,clear
+328,Bengal Gram(Gram),Devariya,2016-02-19,5165.0,4.0,30.6,clear
+329,Arhar (Tur/Red Gram),Devariya,2016-02-20,11225.0,2.0,26.0,clear
+330,Bengal Gram(Gram),Devariya,2016-02-20,5140.0,4.5,26.0,clear
+331,Arhar (Tur/Red Gram),Devariya,2016-02-22,11125.0,3.5,27.0,clear
+332,Bengal Gram(Gram),Devariya,2016-02-22,5075.0,4.0,27.0,clear
+333,Arhar (Tur/Red Gram),Devariya,2016-02-23,11100.0,3.5,27.6,clear
+334,Bengal Gram(Gram),Devariya,2016-02-23,5050.0,4.5,27.6,clear
+335,Arhar (Tur/Red Gram),Devariya,2016-02-24,11000.0,3.0,28.0,clear
+336,Bengal Gram(Gram),Devariya,2016-02-24,5045.0,4.0,28.0,clear
+337,Arhar (Tur/Red Gram),Devariya,2016-02-25,11100.0,3.5,28.0,clear
+338,Bengal Gram(Gram),Devariya,2016-02-25,5030.0,4.5,28.0,clear
+339,Arhar (Tur/Red Gram),Devariya,2016-02-26,11200.0,3.0,27.8,clear
+340,Bengal Gram(Gram),Devariya,2016-02-26,5020.0,4.0,27.8,clear
+341,Arhar (Tur/Red Gram),Devariya,2016-02-27,11000.0,2.5,28.6,clear
+342,Bengal Gram(Gram),Devariya,2016-02-27,5045.0,3.5,28.6,clear
+343,Arhar (Tur/Red Gram),Devariya,2016-02-29,11200.0,2.0,30.4,clear
+344,Bengal Gram(Gram),Devariya,2016-02-29,5035.0,4.0,30.4,clear
+345,Arhar (Tur/Red Gram),Devariya,2016-01-03,10950.0,4.0,24.8,clear
+346,Bengal Gram(Gram),Devariya,2016-01-03,5025.0,4.0,24.8,clear
+347,Arhar (Tur/Red Gram),Devariya,2016-02-03,10900.0,3.0,22.4,clear
+348,Bengal Gram(Gram),Devariya,2016-02-03,5030.0,0.0,22.4,clear
+349,Arhar (Tur/Red Gram),Devariya,2016-06-03,10400.0,2.0,36.4,clear
+350,Arhar (Tur/Red Gram),Devariya,2016-07-03,10400.0,2.5,33.6,rain
+351,Arhar (Tur/Red Gram),Devariya,2016-08-03,10400.0,3.0,33.0,clear
+352,Bengal Gram(Gram),Devariya,2016-08-03,5020.0,4.5,33.0,clear
+353,Arhar (Tur/Red Gram),Devariya,2016-09-03,10300.0,3.5,32.8,clear
+354,Bengal Gram(Gram),Devariya,2016-09-03,5025.0,5.0,32.8,clear
+355,Arhar (Tur/Red Gram),Devariya,2016-10-03,10200.0,3.0,34.6,clear
+356,Bengal Gram(Gram),Devariya,2016-10-03,5015.0,5.5,34.6,clear
+357,Arhar (Tur/Red Gram),Devariya,2016-11-03,10100.0,4.0,32.0,clear
+358,Bengal Gram(Gram),Devariya,2016-11-03,5000.0,6.0,32.0,clear
+359,Arhar (Tur/Red Gram),Devariya,2016-12-03,10100.0,3.5,20.4,clear
+360,Bengal Gram(Gram),Devariya,2016-12-03,5020.0,5.0,20.4,clear
+361,Arhar (Tur/Red Gram),Devariya,2016-03-14,10000.0,4.5,29.0,rain
+362,Bengal Gram(Gram),Devariya,2016-03-14,5010.0,6.5,29.0,rain
+363,Arhar (Tur/Red Gram),Devariya,2016-03-15,10000.0,4.0,29.0,clear
+364,Bengal Gram(Gram),Devariya,2016-03-15,5015.0,6.0,29.0,clear
+365,Arhar (Tur/Red Gram),Devariya,2016-03-16,9950.0,5.5,30.8,clear
+366,Arhar (Tur/Red Gram),Devariya,2016-03-17,9940.0,5.0,31.2,clear
+367,Bengal Gram(Gram),Devariya,2016-03-17,4910.0,5.5,31.2,clear
+368,Arhar (Tur/Red Gram),Devariya,2016-03-18,9910.0,4.0,33.0,clear
+369,Bengal Gram(Gram),Devariya,2016-03-18,4915.0,5.0,33.0,clear
+370,Arhar (Tur/Red Gram),Devariya,2016-03-19,9900.0,3.5,35.2,clear
+371,Bengal Gram(Gram),Devariya,2016-03-19,4920.0,5.5,35.2,clear
+372,Arhar (Tur/Red Gram),Devariya,2016-03-21,9910.0,3.0,34.8,clear
+373,Bengal Gram(Gram),Devariya,2016-03-21,4900.0,5.0,34.8,clear
+374,Arhar (Tur/Red Gram),Devariya,2016-03-22,9915.0,3.5,31.2,clear
+375,Bengal Gram(Gram),Devariya,2016-03-22,4910.0,4.5,31.2,clear
+376,Arhar (Tur/Red Gram),Devariya,2016-03-25,4925.0,3.5,34.0,clear
+377,Bengal Gram(Gram),Devariya,2016-03-25,4925.0,3.5,34.0,clear
+378,Arhar (Tur/Red Gram),Devariya,2016-03-26,9985.0,3.5,36.0,clear
+379,Bengal Gram(Gram),Devariya,2016-03-26,4920.0,3.0,36.0,clear
+380,Arhar (Tur/Red Gram),Devariya,2016-03-27,9980.0,3.0,34.0,clear
+381,Arhar (Tur/Red Gram),Devariya,2016-03-29,9980.0,3.0,34.0,clear
+382,Bengal Gram(Gram),Devariya,2016-03-29,4925.0,3.5,34.0,clear
+383,Arhar (Tur/Red Gram),Devariya,2016-01-04,9875.0,3.5,23.8,clear
+384,Bengal Gram(Gram),Devariya,2016-01-04,4900.0,5.0,23.8,clear
+385,Arhar (Tur/Red Gram),Devariya,2016-02-04,4910.0,4.5,22.8,clear
+386,Bengal Gram(Gram),Devariya,2016-02-04,4910.0,4.5,22.8,clear
+387,Arhar (Tur/Red Gram),Devariya,2016-07-04,10250.0,3.5,32.2,clear
+388,Bengal Gram(Gram),Devariya,2016-07-04,4910.0,3.5,32.2,clear
+389,Arhar (Tur/Red Gram),Devariya,2016-08-04,10400.0,4.0,34.2,clear
+390,Bengal Gram(Gram),Devariya,2016-08-04,4910.0,3.0,34.2,clear
+391,Arhar (Tur/Red Gram),Devariya,2016-09-04,10320.0,3.5,32.6,clear
+392,Bengal Gram(Gram),Devariya,2016-09-04,4945.0,3.5,32.6,clear
+393,Arhar (Tur/Red Gram),Devariya,2016-10-04,10200.0,3.5,33.2,clear
+394,Arhar (Tur/Red Gram),Devariya,2016-11-04,10320.0,3.5,31.0,clear
+395,Bengal Gram(Gram),Devariya,2016-11-04,4945.0,3.5,31.0,clear
+396,Arhar (Tur/Red Gram),Devariya,2016-12-04,10400.0,4.5,20.0,clear
+397,Bengal Gram(Gram),Devariya,2016-12-04,5200.0,4.0,20.0,clear
+398,Arhar (Tur/Red Gram),Devariya,2016-04-13,10500.0,3.5,38.0,clear
+399,Bengal Gram(Gram),Devariya,2016-04-13,5220.0,4.5,38.0,clear
+400,Arhar (Tur/Red Gram),Devariya,2016-04-14,10450.0,3.0,40.2,clear
+401,Bengal Gram(Gram),Devariya,2016-04-14,5225.0,4.5,40.2,clear
+402,Arhar (Tur/Red Gram),Devariya,2016-04-19,11000.0,4.0,41.0,clear
+403,Bengal Gram(Gram),Devariya,2016-04-19,5270.0,5.0,41.0,clear
+404,Arhar (Tur/Red Gram),Devariya,2016-04-20,11200.0,4.4,41.4,clear
+405,Arhar (Tur/Red Gram),Devariya,2016-04-25,13000.0,8.0,40.2,clear
+406,Arhar (Tur/Red Gram),Devariya,2016-04-26,13000.0,9.0,41.8,clear
+407,Arhar (Tur/Red Gram),Devariya,2016-02-05,12700.0,70.0,22.0,clear
+408,Bengal Gram(Gram),Devariya,2016-02-05,5300.0,50.0,22.0,clear
+409,Arhar (Tur/Red Gram),Devariya,2016-03-05,12500.0,75.0,32.6,clear
+410,Bengal Gram(Gram),Devariya,2016-03-05,5450.0,60.0,32.6,clear
+411,Arhar (Tur/Red Gram),Devariya,2016-04-05,12500.0,70.0,39.4,clear
+412,Bengal Gram(Gram),Devariya,2016-04-05,5500.0,55.0,39.4,clear
+413,Arhar (Tur/Red Gram),Devariya,2016-05-05,12500.0,65.0,35.6,clear
+414,Bengal Gram(Gram),Devariya,2016-05-05,5510.0,50.0,35.6,clear
+415,Arhar (Tur/Red Gram),Devariya,2016-06-05,12300.0,5.0,35.8,clear
+416,Bengal Gram(Gram),Devariya,2016-06-05,5500.0,4.5,35.8,clear
+417,Arhar (Tur/Red Gram),Devariya,2016-07-05,12400.0,4.5,30.0,clear
+418,Bengal Gram(Gram),Devariya,2016-07-05,5510.0,4.0,30.0,clear
+419,Arhar (Tur/Red Gram),Devariya,2016-09-05,12380.0,40.0,34.4,clear
+420,Bengal Gram(Gram),Devariya,2016-09-05,5500.0,35.0,34.4,clear
+421,Arhar (Tur/Red Gram),Devariya,2016-11-05,12450.0,3.5,30.0,clear
+422,Bengal Gram(Gram),Devariya,2016-11-05,5530.0,4.5,30.0,clear
+423,Arhar (Tur/Red Gram),Devariya,2016-12-05,12400.0,3.0,20.2,clear
+424,Bengal Gram(Gram),Devariya,2016-12-05,5535.0,4.0,20.2,clear
+425,Arhar (Tur/Red Gram),Devariya,2016-05-13,12480.0,4.0,34.8,clear
+426,Bengal Gram(Gram),Devariya,2016-05-13,5530.0,3.5,34.8,clear
+427,Arhar (Tur/Red Gram),Devariya,2016-05-16,11900.0,4.5,40.4,clear
+428,Bengal Gram(Gram),Devariya,2016-05-16,5535.0,4.5,40.4,clear
+429,Arhar (Tur/Red Gram),Devariya,2016-05-17,11950.0,6.0,41.0,clear
+430,Bengal Gram(Gram),Devariya,2016-05-17,5540.0,5.0,41.0,clear
+431,Arhar (Tur/Red Gram),Devariya,2016-05-18,11930.0,4.0,37.0,clear
+432,Bengal Gram(Gram),Devariya,2016-05-18,5540.0,5.0,37.0,clear
+433,Arhar (Tur/Red Gram),Devariya,2016-05-19,11900.0,4.5,36.4,clear
+434,Bengal Gram(Gram),Devariya,2016-05-19,5550.0,6.0,36.4,clear
+435,Arhar (Tur/Red Gram),Devariya,2016-05-20,11850.0,4.0,34.2,clear
+436,Bengal Gram(Gram),Devariya,2016-05-20,5540.0,5.0,34.2,clear
+437,Arhar (Tur/Red Gram),Devariya,2016-05-23,11890.0,5.0,33.2,clear
+438,Bengal Gram(Gram),Devariya,2016-05-23,5550.0,4.5,33.2,clear
+439,Arhar (Tur/Red Gram),Devariya,2016-05-24,11880.0,4.5,36.4,clear
+440,Bengal Gram(Gram),Devariya,2016-05-24,5560.0,4.0,36.4,clear
+441,Arhar (Tur/Red Gram),Devariya,2016-05-28,11880.0,3.0,30.6,clear
+442,Bengal Gram(Gram),Devariya,2016-05-28,5580.0,4.0,30.6,clear
+443,Arhar (Tur/Red Gram),Devariya,2016-05-30,11875.0,6.0,33.0,clear
+444,Bengal Gram(Gram),Devariya,2016-05-30,6500.0,5.0,33.0,clear
+445,Arhar (Tur/Red Gram),Devariya,2016-01-06,11850.0,5.0,24.0,clear
+446,Bengal Gram(Gram),Devariya,2016-01-06,5650.0,6.0,24.0,clear
+447,Arhar (Tur/Red Gram),Devariya,2016-02-06,11860.0,5.5,21.8,clear
+448,Bengal Gram(Gram),Devariya,2016-02-06,5655.0,6.5,21.8,clear
+449,Arhar (Tur/Red Gram),Devariya,2016-03-06,11800.0,5.0,30.0,clear
+450,Bengal Gram(Gram),Devariya,2016-03-06,5660.0,5.5,30.0,clear
+451,Arhar (Tur/Red Gram),Devariya,2016-04-06,11850.0,5.5,39.6,clear
+452,Bengal Gram(Gram),Devariya,2016-04-06,6520.0,4.0,39.6,clear
+453,Arhar (Tur/Red Gram),Devariya,2016-06-06,11900.0,6.0,37.0,rain
+454,Bengal Gram(Gram),Devariya,2016-06-06,5670.0,4.0,37.0,rain
+455,Arhar (Tur/Red Gram),Devariya,2016-07-06,11850.0,5.0,32.4,clear
+456,Bengal Gram(Gram),Devariya,2016-07-06,6610.0,5.5,32.4,clear
+457,Arhar (Tur/Red Gram),Devariya,2016-08-06,11845.0,5.5,33.4,clear
+458,Bengal Gram(Gram),Devariya,2016-08-06,5680.0,4.0,33.4,clear
+459,Arhar (Tur/Red Gram),Devariya,2016-09-06,11850.0,40.0,30.6,clear
+460,Bengal Gram(Gram),Devariya,2016-09-06,5685.0,4.5,30.6,clear
+461,Arhar (Tur/Red Gram),Devariya,2016-10-06,11855.0,4.5,31.4,clear
+462,Bengal Gram(Gram),Devariya,2016-10-06,5680.0,4.0,31.4,clear
+463,Arhar (Tur/Red Gram),Devariya,2016-11-06,11855.0,4.5,29.8,clear
+464,Bengal Gram(Gram),Devariya,2016-11-06,5755.0,4.0,29.8,clear
+465,Arhar (Tur/Red Gram),Devariya,2016-06-13,11850.0,4.0,36.4,clear
+466,Bengal Gram(Gram),Devariya,2016-06-13,5750.0,4.5,36.4,clear
+467,Arhar (Tur/Red Gram),Devariya,2016-06-14,11855.0,3.5,36.6,clear
+468,Bengal Gram(Gram),Devariya,2016-06-14,5755.0,5.0,36.6,clear
+469,Arhar (Tur/Red Gram),Devariya,2016-06-15,11850.0,4.0,36.2,rain
+470,Bengal Gram(Gram),Devariya,2016-06-15,5750.0,4.5,36.2,rain
+471,Arhar (Tur/Red Gram),Devariya,2016-06-16,11870.0,4.5,32.8,clear
+472,Bengal Gram(Gram),Devariya,2016-06-16,5795.0,4.0,32.8,clear
+473,Arhar (Tur/Red Gram),Devariya,2016-06-17,11880.0,4.0,33.4,clear
+474,Bengal Gram(Gram),Devariya,2016-06-17,5800.0,4.5,33.4,clear
+475,Arhar (Tur/Red Gram),Devariya,2016-06-18,11890.0,4.5,34.6,clear
+476,Bengal Gram(Gram),Devariya,2016-06-18,5820.0,4.0,34.6,clear
+477,Arhar (Tur/Red Gram),Devariya,2016-06-20,11900.0,6.0,35.8,rain
+478,Bengal Gram(Gram),Devariya,2016-06-20,5840.0,5.0,35.8,rain
+479,Arhar (Tur/Red Gram),Devariya,2016-06-21,11910.0,5.0,30.4,clear
+480,Bengal Gram(Gram),Devariya,2016-06-21,5845.0,4.0,30.4,clear
+481,Arhar (Tur/Red Gram),Devariya,2016-06-22,12000.0,3.5,31.2,clear
+482,Arhar (Tur/Red Gram),Devariya,2016-06-23,12000.0,3.0,35.4,clear
+483,Bengal Gram(Gram),Devariya,2016-06-23,6020.0,4.0,35.4,clear
+484,Arhar (Tur/Red Gram),Devariya,2016-06-27,11980.0,4.5,34.6,clear
+485,Bengal Gram(Gram),Devariya,2016-06-27,6065.0,4.5,34.6,clear
+486,Arhar (Tur/Red Gram),Devariya,2016-06-28,11985.0,3.5,37.0,clear
+487,Bengal Gram(Gram),Devariya,2016-06-28,6060.0,4.0,37.0,clear
+488,Arhar (Tur/Red Gram),Devariya,2016-06-29,11900.0,5.0,37.2,clear
+489,Bengal Gram(Gram),Devariya,2016-06-29,6050.0,4.5,37.2,clear
+490,Arhar (Tur/Red Gram),Devariya,2016-01-07,11980.0,5.5,24.4,clear
+491,Bengal Gram(Gram),Devariya,2016-01-07,7145.0,4.0,24.4,clear
+492,Arhar (Tur/Red Gram),Devariya,2016-02-07,12200.0,5.0,26.6,rain
+493,Bengal Gram(Gram),Devariya,2016-02-07,6060.0,4.5,26.6,rain
+494,Arhar (Tur/Red Gram),Devariya,2016-04-07,12250.0,4.5,38.0,clear
+495,Bengal Gram(Gram),Devariya,2016-04-07,6065.0,4.0,38.0,clear
+496,Arhar (Tur/Red Gram),Devariya,2016-05-07,12300.0,4.0,36.8,rain
+497,Bengal Gram(Gram),Devariya,2016-05-07,6200.0,3.0,36.8,rain
+498,Arhar (Tur/Red Gram),Devariya,2016-06-07,12350.0,5.0,36.2,clear
+499,Bengal Gram(Gram),Devariya,2016-06-07,6250.0,3.5,36.2,clear
+500,Arhar (Tur/Red Gram),Devariya,2016-07-07,11980.0,5.5,34.2,clear
+501,Bengal Gram(Gram),Devariya,2016-07-07,6065.0,4.0,34.2,clear
+502,Arhar (Tur/Red Gram),Devariya,2016-08-07,12450.0,4.5,33.6,clear
+503,Bengal Gram(Gram),Devariya,2016-08-07,6265.0,4.0,33.6,clear
+504,Arhar (Tur/Red Gram),Devariya,2016-12-07,12500.0,3.5,16.0,clear
+505,Bengal Gram(Gram),Devariya,2016-12-07,6265.0,4.0,16.0,clear
+506,Arhar (Tur/Red Gram),Devariya,2016-07-13,12400.0,3.0,35.0,clear
+507,Bengal Gram(Gram),Devariya,2016-07-13,6270.0,3.0,35.0,clear
+508,Arhar (Tur/Red Gram),Devariya,2016-07-14,12550.0,3.5,35.8,clear
+509,Bengal Gram(Gram),Devariya,2016-07-14,6275.0,3.5,35.8,clear
+510,Arhar (Tur/Red Gram),Devariya,2016-07-15,12600.0,3.5,32.0,rain
+511,Bengal Gram(Gram),Devariya,2016-07-15,6500.0,3.0,32.0,rain
+512,Arhar (Tur/Red Gram),Devariya,2016-07-16,12695.0,4.0,29.8,rain
+513,Bengal Gram(Gram),Devariya,2016-07-16,6725.0,4.0,29.8,rain
+514,Arhar (Tur/Red Gram),Devariya,2016-07-18,12700.0,3.5,28.6,clear
+515,Bengal Gram(Gram),Devariya,2016-07-18,6220.0,3.5,28.6,clear
+516,Arhar (Tur/Red Gram),Devariya,2016-07-22,12975.0,4.5,28.8,clear
+517,Bengal Gram(Gram),Devariya,2016-07-22,7225.0,4.0,28.8,clear
+518,Arhar (Tur/Red Gram),Devariya,2016-07-25,12850.0,5.0,29.6,clear
+519,Bengal Gram(Gram),Devariya,2016-07-25,7260.0,4.0,29.6,clear
+520,Arhar (Tur/Red Gram),Devariya,2016-07-26,12900.0,4.0,31.0,clear
+521,Arhar (Tur/Red Gram),Devariya,2016-07-27,12950.0,3.5,32.2,clear
+522,Bengal Gram(Gram),Devariya,2016-07-27,7520.0,5.0,32.2,clear
+523,Arhar (Tur/Red Gram),Devariya,2016-07-28,12960.0,3.0,28.4,clear
+524,Bengal Gram(Gram),Devariya,2016-07-28,7525.0,5.5,28.4,clear
+525,Arhar (Tur/Red Gram),Devariya,2016-07-29,12980.0,4.0,30.4,clear
+526,Arhar (Tur/Red Gram),Devariya,2016-07-30,13000.0,4.5,29.4,clear
+527,Bengal Gram(Gram),Devariya,2016-07-30,7540.0,5.5,29.4,clear
+528,Arhar (Tur/Red Gram),Devariya,2016-01-08,13100.0,3.5,24.4,clear
+529,Bengal Gram(Gram),Devariya,2016-01-08,7700.0,4.0,24.4,clear
+530,Arhar (Tur/Red Gram),Devariya,2016-02-08,13150.0,5.5,25.2,clear
+531,Arhar (Tur/Red Gram),Devariya,2016-03-08,13200.0,4.5,31.6,clear
+532,Arhar (Tur/Red Gram),Devariya,2016-04-08,13225.0,4.0,39.6,clear
+533,Bengal Gram(Gram),Devariya,2016-04-08,7725.0,4.5,39.6,clear
+534,Arhar (Tur/Red Gram),Devariya,2016-05-08,13230.0,3.0,34.8,clear
+535,Bengal Gram(Gram),Devariya,2016-05-08,7730.0,3.5,34.8,clear
+536,Arhar (Tur/Red Gram),Devariya,2016-06-08,13000.0,4.5,34.0,clear
+537,Bengal Gram(Gram),Devariya,2016-06-08,7800.0,2.5,34.0,clear
+538,Arhar (Tur/Red Gram),Devariya,2016-08-08,13150.0,5.0,32.2,clear
+539,Bengal Gram(Gram),Devariya,2016-08-08,7810.0,3.0,32.2,clear
+540,Arhar (Tur/Red Gram),Devariya,2016-09-08,13200.0,3.5,32.8,clear
+541,Bengal Gram(Gram),Devariya,2016-09-08,7815.0,3.0,32.8,clear
+542,Arhar (Tur/Red Gram),Devariya,2016-10-08,13220.0,4.0,29.0,clear
+543,Bengal Gram(Gram),Devariya,2016-10-08,7825.0,3.0,29.0,clear
+544,Arhar (Tur/Red Gram),Devariya,2016-11-08,13200.0,4.5,30.0,clear
+545,Bengal Gram(Gram),Devariya,2016-11-08,7830.0,3.5,30.0,clear
+546,Arhar (Tur/Red Gram),Devariya,2016-12-08,13200.0,4.5,15.4,clear
+547,Bengal Gram(Gram),Devariya,2016-12-08,7840.0,4.5,15.4,clear
+548,Arhar (Tur/Red Gram),Devariya,2016-08-13,13400.0,3.5,32.0,clear
+549,Arhar (Tur/Red Gram),Devariya,2016-08-16,13400.0,3.0,33.0,clear
+550,Arhar (Tur/Red Gram),Devariya,2016-08-19,13400.0,0.0,32.6,clear
+551,Bengal Gram(Gram),Devariya,2016-08-19,7860.0,4.5,32.6,clear
+552,Arhar (Tur/Red Gram),Devariya,2016-08-24,11800.0,3.5,34.0,clear
+553,Bengal Gram(Gram),Devariya,2016-08-24,7880.0,5.5,34.0,clear
+554,Arhar (Tur/Red Gram),Devariya,2016-08-26,11000.0,3.5,33.6,clear
+555,Bengal Gram(Gram),Devariya,2016-08-26,7880.0,4.0,33.6,clear
+556,Arhar (Tur/Red Gram),Devariya,2016-08-27,10500.0,3.0,35.0,clear
+557,Bengal Gram(Gram),Devariya,2016-08-27,7885.0,4.0,35.0,clear
+558,Arhar (Tur/Red Gram),Devariya,2016-08-29,10000.0,3.5,33.0,clear
+559,Bengal Gram(Gram),Devariya,2016-08-29,7890.0,4.5,33.0,clear
+560,Arhar (Tur/Red Gram),Devariya,2016-08-30,9400.0,3.0,32.4,clear
+561,Arhar (Tur/Red Gram),Devariya,2016-08-31,9400.0,3.5,33.2,rain
+562,Bengal Gram(Gram),Devariya,2016-08-31,7895.0,3.0,33.2,rain
+563,Arhar (Tur/Red Gram),Devariya,2016-01-09,9200.0,3.5,23.2,clear
+564,Bengal Gram(Gram),Devariya,2016-01-09,7890.0,3.5,23.2,clear
+565,Arhar (Tur/Red Gram),Devariya,2016-02-09,9220.0,3.0,25.4,clear
+566,Bengal Gram(Gram),Devariya,2016-02-09,7895.0,4.0,25.4,clear
+567,Arhar (Tur/Red Gram),Devariya,2016-03-09,9710.0,4.0,32.6,clear
+568,Bengal Gram(Gram),Devariya,2016-03-09,8000.0,3.5,32.6,clear
+569,Arhar (Tur/Red Gram),Devariya,2016-05-09,9740.0,4.5,39.0,clear
+570,Bengal Gram(Gram),Devariya,2016-05-09,8010.0,3.0,39.0,clear
+571,Arhar (Tur/Red Gram),Devariya,2016-06-09,9750.0,4.0,32.6,clear
+572,Bengal Gram(Gram),Devariya,2016-06-09,8020.0,3.5,32.6,clear
+573,Arhar (Tur/Red Gram),Devariya,2016-07-09,9765.0,3.0,35.6,clear
+574,Bengal Gram(Gram),Devariya,2016-07-09,8030.0,4.0,35.6,clear
+575,Arhar (Tur/Red Gram),Devariya,2016-08-09,9780.0,3.5,32.6,clear
+576,Bengal Gram(Gram),Devariya,2016-08-09,8025.0,4.5,32.6,clear
+577,Arhar (Tur/Red Gram),Devariya,2016-09-09,9770.0,4.0,33.4,clear
+578,Bengal Gram(Gram),Devariya,2016-09-09,8030.0,3.0,33.4,clear
+579,Arhar (Tur/Red Gram),Devariya,2016-10-09,9760.0,4.5,29.8,clear
+580,Arhar (Tur/Red Gram),Devariya,2016-12-09,9775.0,3.5,14.6,clear
+581,Bengal Gram(Gram),Devariya,2016-12-09,8035.0,4.5,14.6,clear
+582,Arhar (Tur/Red Gram),Devariya,2016-09-13,9770.0,3.0,32.4,clear
+583,Bengal Gram(Gram),Devariya,2016-09-13,8030.0,4.0,32.4,clear
+584,Arhar (Tur/Red Gram),Devariya,2016-09-14,9765.0,4.0,32.4,clear
+585,Arhar (Tur/Red Gram),Devariya,2016-09-15,9760.0,3.5,33.4,clear
+586,Bengal Gram(Gram),Devariya,2016-09-15,8040.0,3.0,33.4,clear
+587,Arhar (Tur/Red Gram),Devariya,2016-09-16,9750.0,5.0,32.4,clear
+588,Bengal Gram(Gram),Devariya,2016-09-16,8200.0,3.5,32.4,clear
+589,Arhar (Tur/Red Gram),Devariya,2016-09-17,9755.0,5.0,31.2,clear
+590,Bengal Gram(Gram),Devariya,2016-09-17,8215.0,3.0,31.2,clear
+591,Arhar (Tur/Red Gram),Devariya,2016-09-19,9760.0,4.0,33.4,clear
+592,Arhar (Tur/Red Gram),Devariya,2016-09-22,9760.0,3.5,30.4,clear
+593,Bengal Gram(Gram),Devariya,2016-09-22,8235.0,4.5,30.4,clear
+594,Arhar (Tur/Red Gram),Devariya,2016-09-23,9760.0,4.0,33.0,clear
+595,Bengal Gram(Gram),Devariya,2016-09-23,8210.0,4.0,33.0,clear
+596,Arhar (Tur/Red Gram),Devariya,2016-09-24,9765.0,4.5,26.4,clear
+597,Bengal Gram(Gram),Devariya,2016-09-24,8215.0,3.5,26.4,clear
+598,Arhar (Tur/Red Gram),Devariya,2016-09-26,9760.0,4.0,26.6,clear
+599,Bengal Gram(Gram),Devariya,2016-09-26,8220.0,3.0,26.6,clear
+600,Arhar (Tur/Red Gram),Devariya,2016-09-27,9780.0,4.5,32.0,clear
+601,Bengal Gram(Gram),Devariya,2016-09-27,8225.0,3.5,32.0,clear
+602,Arhar (Tur/Red Gram),Devariya,2016-09-28,9760.0,4.0,30.8,rain
+603,Bengal Gram(Gram),Devariya,2016-09-28,8230.0,4.5,30.8,rain
+604,Arhar (Tur/Red Gram),Devariya,2016-09-29,9755.0,4.5,30.4,clear
+605,Arhar (Tur/Red Gram),Devariya,2016-03-10,9760.0,4.0,31.4,clear
+606,Arhar (Tur/Red Gram),Devariya,2016-04-10,9765.0,3.5,40.4,clear
+607,Bengal Gram(Gram),Devariya,2016-04-10,8235.0,4.5,40.4,clear
+608,Arhar (Tur/Red Gram),Devariya,2016-05-10,9770.0,3.0,38.8,rain
+609,Bengal Gram(Gram),Devariya,2016-05-10,8245.0,4.5,38.8,rain
+610,Arhar (Tur/Red Gram),Devariya,2016-06-10,9780.0,2.5,35.6,clear
+611,Bengal Gram(Gram),Devariya,2016-06-10,8440.0,3.5,35.6,clear
+612,Arhar (Tur/Red Gram),Devariya,2016-07-10,9940.0,1.0,31.4,clear
+613,Bengal Gram(Gram),Devariya,2016-07-10,8820.0,3.5,31.4,clear
+614,Arhar (Tur/Red Gram),Devariya,2016-10-13,9950.0,3.5,32.8,clear
+615,Bengal Gram(Gram),Devariya,2016-10-13,8160.0,3.8,32.8,clear
+616,Arhar (Tur/Red Gram),Devariya,2016-10-14,10020.0,2.5,32.4,clear
+617,Bengal Gram(Gram),Devariya,2016-10-14,8100.0,3.0,32.4,clear
+618,Arhar (Tur/Red Gram),Devariya,2016-10-15,9840.0,4.0,31.8,clear
+619,Bengal Gram(Gram),Devariya,2016-10-15,8090.0,3.5,31.8,clear
+620,Arhar (Tur/Red Gram),Devariya,2016-10-17,9845.0,3.5,32.6,clear
+621,Bengal Gram(Gram),Devariya,2016-10-17,8095.0,2.5,32.6,clear
+622,Arhar (Tur/Red Gram),Devariya,2016-10-18,9850.0,3.0,31.8,clear
+623,Bengal Gram(Gram),Devariya,2016-10-18,8090.0,2.0,31.8,clear
+624,Arhar (Tur/Red Gram),Devariya,2016-10-19,9995.0,2.5,32.8,clear
+625,Bengal Gram(Gram),Devariya,2016-10-19,8095.0,3.0,32.8,clear
+626,Arhar (Tur/Red Gram),Devariya,2016-10-20,10000.0,2.4,32.0,clear
+627,Bengal Gram(Gram),Devariya,2016-10-20,8500.0,3.5,32.0,clear
+628,Arhar (Tur/Red Gram),Devariya,2016-10-21,9860.0,3.0,31.4,clear
+629,Bengal Gram(Gram),Devariya,2016-10-21,8095.0,3.0,31.4,clear
+630,Arhar (Tur/Red Gram),Devariya,2016-10-22,9055.0,3.0,31.2,clear
+631,Bengal Gram(Gram),Devariya,2016-10-22,9055.0,3.0,31.2,clear
+632,Arhar (Tur/Red Gram),Devariya,2016-10-24,9900.0,35.0,31.4,clear
+633,Bengal Gram(Gram),Devariya,2016-10-24,8210.0,5.5,31.4,clear
+634,Arhar (Tur/Red Gram),Devariya,2016-10-25,9980.0,1.5,32.2,clear
+635,Bengal Gram(Gram),Devariya,2016-10-25,8320.0,1.5,32.2,clear
+636,Arhar (Tur/Red Gram),Devariya,2016-10-26,9985.0,1.5,32.0,clear
+637,Bengal Gram(Gram),Devariya,2016-10-26,8395.0,1.75,32.0,clear
+638,Arhar (Tur/Red Gram),Devariya,2016-10-27,9950.0,4.5,32.4,clear
+639,Arhar (Tur/Red Gram),Devariya,2016-10-28,9985.0,2.0,32.0,clear
+640,Bengal Gram(Gram),Devariya,2016-10-28,10000.0,3.0,32.0,clear
+641,Arhar (Tur/Red Gram),Devariya,2016-02-11,10000.0,3.5,25.6,clear
+642,Bengal Gram(Gram),Devariya,2016-02-11,9400.0,3.5,25.6,clear
+643,Arhar (Tur/Red Gram),Devariya,2016-07-11,9980.0,4.0,33.2,clear
+644,Arhar (Tur/Red Gram),Devariya,2016-08-11,9995.0,4.5,33.2,clear
+645,Bengal Gram(Gram),Devariya,2016-08-11,9430.0,3.5,33.2,clear
+646,Arhar (Tur/Red Gram),Devariya,2016-09-11,10000.0,4.1,32.2,clear
+647,Bengal Gram(Gram),Devariya,2016-09-11,9475.0,3.5,32.2,clear
+648,Arhar (Tur/Red Gram),Devariya,2016-10-11,9995.0,4.5,32.8,clear
+649,Bengal Gram(Gram),Devariya,2016-10-11,9450.0,3.5,32.8,clear
+650,Arhar (Tur/Red Gram),Devariya,2016-11-11,9990.0,3.5,30.6,clear
+651,Bengal Gram(Gram),Devariya,2016-11-11,9460.0,3.0,30.6,clear
+652,Arhar (Tur/Red Gram),Devariya,2016-12-11,10000.0,2.4,15.2,clear
+653,Arhar (Tur/Red Gram),Devariya,2016-11-13,9980.0,5.0,30.0,clear
+654,Arhar (Tur/Red Gram),Devariya,2016-11-14,10000.0,4.3,29.4,clear
+655,Bengal Gram(Gram),Devariya,2016-11-14,9700.0,4.8,29.4,clear
+656,Arhar (Tur/Red Gram),Devariya,2016-11-16,9975.0,3.0,28.0,clear
+657,Bengal Gram(Gram),Devariya,2016-11-16,9525.0,3.5,28.0,clear
+658,Arhar (Tur/Red Gram),Devariya,2016-11-17,9985.0,3.5,27.4,clear
+659,Bengal Gram(Gram),Devariya,2016-11-17,9530.0,3.0,27.4,clear
+660,Arhar (Tur/Red Gram),Devariya,2016-11-18,9990.0,4.0,28.0,clear
+661,Bengal Gram(Gram),Devariya,2016-11-18,9540.0,3.5,28.0,clear
+662,Arhar (Tur/Red Gram),Devariya,2016-11-19,9995.0,4.5,28.0,clear
+663,Bengal Gram(Gram),Devariya,2016-11-19,9550.0,3.0,28.0,clear
+664,Arhar (Tur/Red Gram),Devariya,2016-11-21,9990.0,4.0,28.0,clear
+665,Arhar (Tur/Red Gram),Devariya,2016-11-22,9995.0,3.5,27.0,clear
+666,Bengal Gram(Gram),Devariya,2016-11-22,9560.0,3.0,27.0,clear
+667,Arhar (Tur/Red Gram),Devariya,2016-11-23,9995.0,4.5,27.0,clear
+668,Arhar (Tur/Red Gram),Devariya,2016-11-24,9990.0,4.0,26.2,clear
+669,Arhar (Tur/Red Gram),Devariya,2016-11-25,9975.0,3.5,26.4,clear
+670,Bengal Gram(Gram),Devariya,2016-11-25,9565.0,4.5,26.4,clear
+671,Arhar (Tur/Red Gram),Devariya,2016-11-26,9980.0,3.0,26.2,clear
+672,Bengal Gram(Gram),Devariya,2016-11-26,9970.0,3.5,26.2,clear
+673,Arhar (Tur/Red Gram),Devariya,2016-11-28,9985.0,4.0,25.8,clear
+674,Bengal Gram(Gram),Devariya,2016-11-28,9600.0,2.5,25.8,clear
+675,Arhar (Tur/Red Gram),Devariya,2016-11-29,9985.0,4.0,27.0,clear
+676,Arhar (Tur/Red Gram),Devariya,2016-11-30,9985.0,4.0,26.4,clear
+677,Arhar (Tur/Red Gram),Devariya,2016-01-12,9980.0,4.5,22.6,clear
+678,Bengal Gram(Gram),Devariya,2016-01-12,9620.0,4.0,22.6,clear
+679,Arhar (Tur/Red Gram),Devariya,2016-02-12,9685.0,4.5,26.8,clear
+680,Arhar (Tur/Red Gram),Devariya,2016-03-12,9900.0,3.5,29.2,clear
+681,Bengal Gram(Gram),Devariya,2016-03-12,9630.0,4.0,29.2,clear
+682,Arhar (Tur/Red Gram),Devariya,2016-05-12,9880.0,3.0,36.2,rain
+683,Bengal Gram(Gram),Devariya,2016-05-12,9620.0,4.5,36.2,rain
+684,Arhar (Tur/Red Gram),Devariya,2016-07-12,9090.0,2.5,33.4,clear
+685,Bengal Gram(Gram),Devariya,2016-07-12,9610.0,4.0,33.4,clear
+686,Arhar (Tur/Red Gram),Devariya,2016-08-12,9870.0,4.0,33.4,clear
+687,Bengal Gram(Gram),Devariya,2016-08-12,9600.0,3.5,33.4,clear
+688,Arhar (Tur/Red Gram),Devariya,2016-09-12,9585.0,3.0,29.6,clear
+689,Bengal Gram(Gram),Devariya,2016-09-12,9085.0,3.0,29.6,clear
+690,Arhar (Tur/Red Gram),Devariya,2016-12-12,9990.0,3.0,15.4,clear
+691,Bengal Gram(Gram),Devariya,2016-12-12,9510.0,2.8,15.4,clear
+692,Arhar (Tur/Red Gram),Devariya,2016-12-13,9585.0,3.5,20.0,clear
+693,Arhar (Tur/Red Gram),Devariya,2016-12-14,9580.0,3.5,15.2,clear
+694,Bengal Gram(Gram),Devariya,2016-12-14,9570.0,3.0,15.2,clear
+695,Arhar (Tur/Red Gram),Devariya,2016-12-16,9570.0,3.0,16.6,clear
+696,Bengal Gram(Gram),Devariya,2016-12-16,9575.0,4.5,16.6,clear
+697,Arhar (Tur/Red Gram),Devariya,2016-12-17,9575.0,3.5,19.4,clear
+698,Bengal Gram(Gram),Devariya,2016-12-17,9570.0,4.0,19.4,clear
+699,Arhar (Tur/Red Gram),Devariya,2016-12-19,9575.0,3.0,24.4,clear
+700,Bengal Gram(Gram),Devariya,2016-12-19,9600.0,4.0,24.4,clear
+701,Arhar (Tur/Red Gram),Devariya,2016-12-21,9580.0,3.5,22.4,clear
+702,Arhar (Tur/Red Gram),Devariya,2016-12-22,9585.0,3.5,24.0,clear
+703,Arhar (Tur/Red Gram),Devariya,2016-12-23,9585.0,3.0,25.4,clear
+704,Bengal Gram(Gram),Devariya,2016-12-23,9800.0,3.5,25.4,clear
+705,Arhar (Tur/Red Gram),Devariya,2016-12-24,9580.0,3.5,23.6,clear
+706,Bengal Gram(Gram),Devariya,2016-12-24,9825.0,3.0,23.6,clear
+707,Arhar (Tur/Red Gram),Devariya,2016-12-26,9585.0,3.0,25.0,clear
+708,Bengal Gram(Gram),Devariya,2016-12-26,9840.0,2.5,25.0,clear
+709,Arhar (Tur/Red Gram),Devariya,2016-12-27,9570.0,3.0,19.6,clear
+710,Bengal Gram(Gram),Devariya,2016-12-27,9790.0,3.0,19.6,clear
+711,Arhar (Tur/Red Gram),Devariya,2016-12-28,9550.0,3.5,15.8,clear
+712,Bengal Gram(Gram),Devariya,2016-12-28,9570.0,3.5,15.8,clear
+713,Arhar (Tur/Red Gram),Devariya,2016-12-29,9560.0,3.5,15.0,clear
+714,Bengal Gram(Gram),Devariya,2016-12-29,9575.0,3.5,15.0,clear
+715,Arhar (Tur/Red Gram),Devariya,2016-12-30,9540.0,3.0,14.6,clear
+716,Bengal Gram(Gram),Devariya,2016-12-30,9540.0,3.5,14.6,clear
+717,Bengal Gram(Gram),Devariya,2016-01-01,5470.0,4.0,23.8,clear
+718,Bengal Gram(Gram),Devariya,2016-02-01,5470.0,3.5,23.6,clear
+719,Bengal Gram(Gram),Devariya,2016-03-01,5470.0,3.0,30.4,clear
+720,Bengal Gram(Gram),Devariya,2016-04-01,5480.0,4.0,33.8,clear
+721,Bengal Gram(Gram),Devariya,2016-05-01,5485.0,4.5,39.0,clear
+722,Bengal Gram(Gram),Devariya,2016-06-01,5485.0,4.0,33.4,clear
+723,Bengal Gram(Gram),Devariya,2016-07-01,5470.0,4.5,32.4,clear
+724,Bengal Gram(Gram),Devariya,2016-10-01,5480.0,3.5,34.0,clear
+725,Bengal Gram(Gram),Devariya,2016-01-24,5485.0,4.0,18.8,clear
+726,Bengal Gram(Gram),Devariya,2016-02-21,5160.0,3.5,28.4,clear
+727,Bengal Gram(Gram),Devariya,2016-03-03,5030.0,4.0,31.4,clear
+728,Bengal Gram(Gram),Devariya,2016-04-03,5000.0,3.5,34.2,clear
+729,Bengal Gram(Gram),Devariya,2016-05-03,5010.0,4.0,36.2,clear
+730,Bengal Gram(Gram),Devariya,2016-03-30,4930.0,4.0,34.6,clear
+731,Bengal Gram(Gram),Devariya,2016-04-16,5230.0,3.0,39.4,clear
+732,Bengal Gram(Gram),Devariya,2016-04-17,5235.0,3.0,34.0,clear
+733,Bengal Gram(Gram),Devariya,2016-04-28,5290.0,5.0,42.0,clear
+734,Bengal Gram(Gram),Devariya,2016-10-05,5525.0,4.0,33.0,clear
+735,Bengal Gram(Gram),Devariya,2016-05-27,5575.0,3.5,35.6,rain
+736,Bengal Gram(Gram),Devariya,2016-07-31,7560.0,5.0,32.0,clear
+737,Arhar (Tur/Red Gram),Devariya,2017-02-01,9530.0,3.5,17.0,clear
+738,Bengal Gram(Gram),Devariya,2017-02-01,9540.0,3.5,17.0,clear
+739,Arhar (Tur/Red Gram),Devariya,2017-03-01,9515.0,3.5,29.8,clear
+740,Bengal Gram(Gram),Devariya,2017-03-01,9550.0,4.0,29.8,clear
+741,Arhar (Tur/Red Gram),Devariya,2017-04-01,9500.0,3.0,37.0,clear
+742,Bengal Gram(Gram),Devariya,2017-04-01,9540.0,3.5,37.0,clear
+743,Arhar (Tur/Red Gram),Devariya,2017-06-01,9490.0,3.0,38.4,clear
+744,Bengal Gram(Gram),Devariya,2017-06-01,9515.0,4.5,38.4,clear
+745,Arhar (Tur/Red Gram),Devariya,2017-07-01,9495.0,4.5,34.8,clear
+746,Bengal Gram(Gram),Devariya,2017-07-01,9510.0,4.0,34.8,clear
+747,Arhar (Tur/Red Gram),Devariya,2017-09-01,9480.0,4.5,29.0,clear
+748,Bengal Gram(Gram),Devariya,2017-09-01,9500.0,3.5,29.0,clear
+749,Arhar (Tur/Red Gram),Devariya,2017-10-01,9585.0,4.0,32.2,clear
+750,Bengal Gram(Gram),Devariya,2017-10-01,9515.0,4.0,32.2,clear
+751,Arhar (Tur/Red Gram),Devariya,2017-11-01,9490.0,4.0,28.8,clear
+752,Bengal Gram(Gram),Devariya,2017-11-01,9510.0,3.5,28.8,clear
+753,Arhar (Tur/Red Gram),Devariya,2017-12-01,9495.0,3.5,26.0,clear
+754,Bengal Gram(Gram),Devariya,2017-12-01,9500.0,3.0,26.0,clear
+755,Arhar (Tur/Red Gram),Devariya,2017-01-13,9525.0,3.0,18.0,clear
+756,Bengal Gram(Gram),Devariya,2017-01-13,9510.0,3.5,18.0,clear
+757,Arhar (Tur/Red Gram),Devariya,2017-01-14,9530.0,4.0,20.0,clear
+758,Bengal Gram(Gram),Devariya,2017-01-14,9515.0,3.5,20.0,clear
+759,Arhar (Tur/Red Gram),Devariya,2017-01-16,9530.0,3.5,23.0,clear
+760,Bengal Gram(Gram),Devariya,2017-01-16,9525.0,3.0,23.0,clear
+761,Arhar (Tur/Red Gram),Devariya,2017-01-17,9520.0,3.0,24.4,clear
+762,Bengal Gram(Gram),Devariya,2017-01-17,9520.0,3.5,24.4,clear
+763,Arhar (Tur/Red Gram),Devariya,2017-01-18,9535.0,4.5,22.6,clear
+764,Bengal Gram(Gram),Devariya,2017-01-18,9530.0,4.0,22.6,clear
+765,Arhar (Tur/Red Gram),Devariya,2017-01-19,9570.0,4.0,20.8,clear
+766,Bengal Gram(Gram),Devariya,2017-01-19,9540.0,3.0,20.8,clear
+767,Arhar (Tur/Red Gram),Devariya,2017-01-20,9400.0,3.5,24.6,clear
+768,Bengal Gram(Gram),Devariya,2017-01-20,9515.0,3.5,24.6,clear
+769,Arhar (Tur/Red Gram),Devariya,2017-01-21,9350.0,4.0,22.4,clear
+770,Arhar (Tur/Red Gram),Devariya,2017-01-23,9050.0,4.5,24.8,clear
+771,Bengal Gram(Gram),Devariya,2017-01-23,9000.0,3.5,24.8,clear
+772,Arhar (Tur/Red Gram),Devariya,2017-01-24,9020.0,4.5,24.0,clear
+773,Bengal Gram(Gram),Devariya,2017-01-24,8800.0,4.0,24.0,clear
+774,Arhar (Tur/Red Gram),Devariya,2017-01-25,9035.0,4.0,26.2,clear
+775,Bengal Gram(Gram),Devariya,2017-01-25,9800.0,3.0,26.2,clear
+776,Arhar (Tur/Red Gram),Devariya,2017-01-27,9010.0,4.5,22.0,rain
+777,Bengal Gram(Gram),Devariya,2017-01-27,8500.0,3.5,22.0,rain
+778,Arhar (Tur/Red Gram),Devariya,2017-01-28,9015.0,4.0,21.4,clear
+779,Arhar (Tur/Red Gram),Devariya,2017-01-30,9000.0,4.5,17.0,clear
+780,Arhar (Tur/Red Gram),Devariya,2017-01-02,9060.0,3.0,23.2,clear
+781,Arhar (Tur/Red Gram),Devariya,2017-02-02,9075.0,3.5,22.6,clear
+782,Bengal Gram(Gram),Devariya,2017-02-02,8455.0,4.0,22.6,clear
+783,Arhar (Tur/Red Gram),Devariya,2017-03-02,9070.0,4.0,31.4,clear
+784,Bengal Gram(Gram),Devariya,2017-03-02,8440.0,3.5,31.4,clear
+785,Arhar (Tur/Red Gram),Devariya,2017-04-02,9060.0,3.5,36.3,clear
+786,Bengal Gram(Gram),Devariya,2017-04-02,8450.0,3.5,36.3,clear
+787,Arhar (Tur/Red Gram),Devariya,2017-06-02,9050.0,4.0,37.4,clear
+788,Bengal Gram(Gram),Devariya,2017-06-02,8450.0,3.5,37.4,clear
+789,Arhar (Tur/Red Gram),Devariya,2017-07-02,9065.0,4.5,32.6,clear
+790,Bengal Gram(Gram),Devariya,2017-07-02,8440.0,3.0,32.6,clear
+791,Arhar (Tur/Red Gram),Devariya,2017-08-02,9080.0,4.0,33.0,clear
+792,Bengal Gram(Gram),Devariya,2017-08-02,8450.0,3.5,33.0,clear
+793,Arhar (Tur/Red Gram),Devariya,2017-09-02,8700.0,4.5,32.0,clear
+794,Bengal Gram(Gram),Devariya,2017-09-02,8000.0,4.0,32.0,clear
+795,Arhar (Tur/Red Gram),Devariya,2017-11-02,8500.0,4.5,29.2,clear
+796,Bengal Gram(Gram),Devariya,2017-11-02,7900.0,2.5,29.2,clear
+797,Arhar (Tur/Red Gram),Devariya,2017-02-13,8400.0,4.0,26.6,clear
+798,Bengal Gram(Gram),Devariya,2017-02-13,8000.0,3.5,26.6,clear
+799,Arhar (Tur/Red Gram),Devariya,2017-02-14,8300.0,4.0,27.0,clear
+800,Bengal Gram(Gram),Devariya,2017-02-14,7500.0,2.0,27.0,clear
+801,Bengal Gram(Gram),Devariya,2017-10-02,8100.0,10.0,32.2,clear
+802,Bengal Gram(Gram),Devariya,2017-02-15,7450.0,3.0,25.4,clear
+803,Bengal Gram(Gram),Devariya,2017-02-16,7460.0,3.5,27.0,clear
+804,Bengal Gram(Gram),Devariya,2017-02-17,8000.0,3.5,27.2,clear
+805,Bengal Gram(Gram),Devariya,2017-02-18,7445.0,3.0,28.0,clear
+806,Bengal Gram(Gram),Devariya,2017-02-20,7500.0,2.5,29.2,clear
+807,Bengal Gram(Gram),Devariya,2017-02-21,7435.0,3.0,31.2,clear
+808,Bengal Gram(Gram),Devariya,2017-02-22,7800.0,3.5,28.0,clear
+809,Bengal Gram(Gram),Devariya,2017-02-23,7450.0,3.5,26.6,clear
+810,Bengal Gram(Gram),Devariya,2017-02-24,7745.0,4.0,25.6,clear
+811,Bengal Gram(Gram),Devariya,2017-02-25,7465.0,3.5,25.6,clear
+812,Bengal Gram(Gram),Devariya,2017-02-27,7800.0,3.2,28.4,clear
+813,Bengal Gram(Gram),Devariya,2017-01-03,7500.0,3.5,22.2,clear
+814,Bengal Gram(Gram),Devariya,2017-02-03,7465.0,3.0,22.0,clear
+815,Bengal Gram(Gram),Devariya,2017-03-03,7450.0,3.5,31.2,clear
+816,Bengal Gram(Gram),Devariya,2017-06-03,7450.0,3.2,40.0,clear
+817,Bengal Gram(Gram),Devariya,2017-07-03,7440.0,3.0,32.0,clear
+818,Bengal Gram(Gram),Devariya,2017-08-03,7455.0,3.5,30.2,clear
+819,Bengal Gram(Gram),Devariya,2017-09-03,7460.0,3.0,30.6,clear
+820,Bengal Gram(Gram),Devariya,2017-11-03,7400.0,3.0,30.4,clear
+821,Bengal Gram(Gram),Devariya,2017-03-15,6100.0,3.0,28.4,clear
+822,Bengal Gram(Gram),Devariya,2017-03-16,7010.0,3.0,29.6,clear
+823,Bengal Gram(Gram),Devariya,2017-03-17,6120.0,3.0,31.2,clear
+824,Bengal Gram(Gram),Devariya,2017-03-18,6100.0,3.5,29.4,clear
+825,Bengal Gram(Gram),Devariya,2017-03-20,6000.0,3.5,29.0,clear
+826,Bengal Gram(Gram),Devariya,2017-03-21,6100.0,3.0,28.6,clear
+827,Bengal Gram(Gram),Devariya,2017-03-22,6110.0,3.5,30.6,clear
+828,Bengal Gram(Gram),Devariya,2017-03-24,6125.0,3.5,33.6,clear
+829,Bengal Gram(Gram),Devariya,2017-03-25,6020.0,3.5,35.8,clear
+830,Bengal Gram(Gram),Devariya,2017-03-27,6040.0,3.5,33.0,clear
+831,Bengal Gram(Gram),Devariya,2017-03-28,6050.0,3.2,33.4,clear
+832,Bengal Gram(Gram),Devariya,2017-03-29,6055.0,3.0,33.4,clear
+833,Bengal Gram(Gram),Devariya,2017-03-30,6060.0,3.5,35.0,clear
+834,Bengal Gram(Gram),Devariya,2017-01-04,6070.0,4.0,16.8,clear
+835,Bengal Gram(Gram),Devariya,2017-03-04,6070.0,4.5,31.4,clear
+836,Bengal Gram(Gram),Devariya,2017-04-04,6050.0,5.0,34.8,clear
+837,Bengal Gram(Gram),Devariya,2017-05-04,6060.0,10.0,39.0,clear
+838,Bengal Gram(Gram),Devariya,2017-06-04,6080.0,4.0,40.6,clear
+839,Bengal Gram(Gram),Devariya,2017-07-04,6030.0,3.5,37.4,rain
+840,Bengal Gram(Gram),Devariya,2017-08-04,5900.0,3.8,32.0,clear
+841,Bengal Gram(Gram),Devariya,2017-10-04,5800.0,4.0,33.6,clear
+842,Bengal Gram(Gram),Devariya,2017-11-04,5755.0,4.2,31.0,clear
+843,Bengal Gram(Gram),Devariya,2017-12-04,6055.0,4.0,25.4,clear
+844,Bengal Gram(Gram),Devariya,2017-04-13,6060.0,3.5,36.4,clear
+845,Bengal Gram(Gram),Devariya,2017-04-14,6064.0,4.0,37.0,clear
+846,Bengal Gram(Gram),Devariya,2017-04-15,6070.0,4.5,33.4,clear
+847,Bengal Gram(Gram),Devariya,2017-04-17,6080.0,4.0,35.6,clear
+848,Bengal Gram(Gram),Devariya,2017-04-18,6075.0,3.5,36.6,clear
+849,Bengal Gram(Gram),Devariya,2017-04-19,6200.0,4.0,34.6,clear
+850,Bengal Gram(Gram),Devariya,2017-04-20,6225.0,4.5,33.0,clear
+851,Bengal Gram(Gram),Devariya,2017-04-21,6220.0,4.0,32.0,clear
+852,Bengal Gram(Gram),Devariya,2017-04-22,6225.0,3.5,33.2,clear
+853,Bengal Gram(Gram),Devariya,2017-04-24,6235.0,3.0,35.2,clear
+854,Bengal Gram(Gram),Devariya,2017-04-25,6230.0,4.5,39.4,clear
+855,Bengal Gram(Gram),Devariya,2017-04-26,6240.0,3.0,38.4,clear
+856,Bengal Gram(Gram),Devariya,2017-04-27,6250.0,3.0,40.0,clear
+857,Bengal Gram(Gram),Devariya,2017-04-29,6265.0,4.0,40.8,clear
+858,Bengal Gram(Gram),Devariya,2017-01-05,6260.0,4.5,19.0,clear
+859,Bengal Gram(Gram),Devariya,2017-02-05,6265.0,3.5,25.4,clear
+860,Bengal Gram(Gram),Devariya,2017-03-05,6260.0,4.0,28.2,clear
+861,Bengal Gram(Gram),Devariya,2017-04-05,6265.0,4.7,34.0,clear
+862,Bengal Gram(Gram),Devariya,2017-05-05,6260.0,4.0,39.0,clear
+863,Bengal Gram(Gram),Devariya,2017-08-05,6265.0,4.0,34.8,rain
+864,Bengal Gram(Gram),Devariya,2017-09-05,6260.0,4.5,34.4,clear
+865,Bengal Gram(Gram),Devariya,2017-10-05,6250.0,5.0,33.8,clear
+866,Bengal Gram(Gram),Devariya,2017-11-05,6255.0,4.0,30.8,clear
+867,Bengal Gram(Gram),Devariya,2017-05-16,6125.0,3.5,37.0,clear
+868,Bengal Gram(Gram),Devariya,2017-05-17,6135.0,3.0,31.8,clear
+869,Bengal Gram(Gram),Devariya,2017-05-18,6145.0,4.0,36.4,clear
+870,Bengal Gram(Gram),Devariya,2017-05-19,6150.0,4.5,39.6,clear
+871,Bengal Gram(Gram),Devariya,2017-05-20,6180.0,5.0,39.4,clear
+872,Bengal Gram(Gram),Devariya,2017-05-22,6160.0,4.0,41.2,clear
+873,Bengal Gram(Gram),Devariya,2017-05-23,6185.0,4.5,40.0,clear
+874,Bengal Gram(Gram),Devariya,2017-05-24,6180.0,4.5,40.0,clear
+875,Bengal Gram(Gram),Devariya,2017-05-25,6195.0,4.0,42.0,rain
+876,Bengal Gram(Gram),Devariya,2017-05-26,6185.0,4.0,37.8,clear
+877,Bengal Gram(Gram),Devariya,2017-05-27,6180.0,4.5,31.4,clear
+878,Bengal Gram(Gram),Devariya,2017-05-29,6185.0,40.0,35.2,clear
+879,Bengal Gram(Gram),Devariya,2017-05-30,6210.0,3.5,30.4,clear
+880,Bengal Gram(Gram),Devariya,2017-01-06,6300.0,4.0,18.0,clear
+881,Bengal Gram(Gram),Devariya,2017-03-06,6325.0,3.5,29.8,clear
+882,Bengal Gram(Gram),Devariya,2017-05-06,6340.0,3.2,40.6,clear
+883,Bengal Gram(Gram),Devariya,2017-06-06,6350.0,3.5,27.6,clear
+884,Bengal Gram(Gram),Devariya,2017-07-06,6355.0,3.2,31.6,clear
+885,Bengal Gram(Gram),Devariya,2017-08-06,6360.0,3.0,35.0,rain
+886,Bengal Gram(Gram),Devariya,2017-09-06,6365.0,3.2,34.4,clear
+887,Bengal Gram(Gram),Devariya,2017-10-06,6360.0,2.0,35.4,clear
+888,Bengal Gram(Gram),Devariya,2017-12-06,6365.0,2.5,27.8,clear
+889,Bengal Gram(Gram),Devariya,2017-06-13,6360.0,3.5,37.6,clear
+890,Bengal Gram(Gram),Devariya,2017-06-14,6365.0,3.0,38.8,clear
+891,Bengal Gram(Gram),Devariya,2017-06-15,6360.0,3.2,35.0,clear
+892,Bengal Gram(Gram),Devariya,2017-06-16,6370.0,3.5,35.6,clear
+893,Bengal Gram(Gram),Devariya,2017-06-17,6500.0,3.5,35.4,clear
+894,Bengal Gram(Gram),Devariya,2017-06-19,6440.0,30.0,36.8,clear
+895,Bengal Gram(Gram),Devariya,2017-06-20,6400.0,3.2,36.8,clear
+896,Bengal Gram(Gram),Devariya,2017-06-21,6480.0,3.0,31.8,clear
+897,Bengal Gram(Gram),Devariya,2017-06-22,6500.0,2.8,35.4,clear
+898,Bengal Gram(Gram),Devariya,2017-06-23,6500.0,2.0,35.8,clear
+899,Bengal Gram(Gram),Devariya,2017-06-24,6520.0,2.5,35.0,clear
+900,Bengal Gram(Gram),Devariya,2017-06-27,6520.0,22.0,36.8,clear
+901,Bengal Gram(Gram),Devariya,2017-06-28,6540.0,2.0,36.0,clear
+902,Bengal Gram(Gram),Devariya,2017-06-29,6550.0,1.8,36.2,clear
+903,Bengal Gram(Gram),Devariya,2017-01-07,6550.0,2.0,18.6,clear
+904,Bengal Gram(Gram),Devariya,2017-03-07,6480.0,2.5,28.6,clear
+905,Bengal Gram(Gram),Devariya,2017-04-07,6420.0,2.0,36.8,clear
+906,Bengal Gram(Gram),Devariya,2017-05-07,6460.0,1.8,37.6,clear
+907,Bengal Gram(Gram),Devariya,2017-06-07,6470.0,2.0,33.2,clear
+908,Bengal Gram(Gram),Devariya,2017-07-07,6400.0,2.5,33.2,clear
+909,Bengal Gram(Gram),Devariya,2017-10-07,6425.0,3.0,35.0,clear
+910,Bengal Gram(Gram),Devariya,2017-11-07,6380.0,3.2,30.6,clear
+911,Bengal Gram(Gram),Devariya,2017-12-07,6375.0,3.0,27.4,clear
+912,Bengal Gram(Gram),Devariya,2017-07-13,6350.0,2.2,32.0,clear
+913,Bengal Gram(Gram),Devariya,2017-07-14,6300.0,2.5,34.4,clear
+914,Bengal Gram(Gram),Devariya,2017-07-15,6305.0,2.0,34.8,clear
+915,Bengal Gram(Gram),Devariya,2017-07-17,6280.0,2.0,35.6,clear
+916,Bengal Gram(Gram),Devariya,2017-07-18,6270.0,22.0,36.8,clear
+917,Bengal Gram(Gram),Devariya,2017-07-19,6255.0,2.3,35.6,clear
+918,Bengal Gram(Gram),Devariya,2017-07-20,6270.0,1.1,34.4,clear
+919,Bengal Gram(Gram),Devariya,2017-07-22,6300.0,1.2,33.0,clear
+920,Bengal Gram(Gram),Devariya,2017-07-24,6290.0,1.5,33.0,rain
+921,Bengal Gram(Gram),Devariya,2017-07-25,6260.0,1.6,33.0,clear
+922,Bengal Gram(Gram),Devariya,2017-07-26,6250.0,2.0,31.6,clear
+923,Bengal Gram(Gram),Devariya,2017-07-28,6250.0,2.0,35.4,clear
+924,Bengal Gram(Gram),Devariya,2017-07-29,6265.0,2.0,32.0,clear
+925,Bengal Gram(Gram),Devariya,2017-01-08,6260.0,1.5,23.4,clear
+926,Bengal Gram(Gram),Devariya,2017-02-08,6250.0,2.0,24.6,clear
+927,Bengal Gram(Gram),Devariya,2017-03-08,6260.0,1.8,30.2,clear
+928,Bengal Gram(Gram),Devariya,2017-04-08,6250.0,2.0,37.8,clear
+929,Bengal Gram(Gram),Devariya,2017-05-08,6240.0,2.0,36.2,clear
+930,Bengal Gram(Gram),Devariya,2017-07-08,6220.0,2.4,34.8,clear
+931,Bengal Gram(Gram),Devariya,2017-08-08,6220.0,2.1,35.2,clear
+932,Bengal Gram(Gram),Devariya,2017-09-08,6900.0,2.5,34.0,clear
+933,Bengal Gram(Gram),Devariya,2017-10-08,6000.0,2.3,34.0,clear
+934,Bengal Gram(Gram),Devariya,2017-11-08,5900.0,2.0,30.2,clear
+935,Bengal Gram(Gram),Devariya,2017-12-08,5880.0,2.5,27.4,clear
+936,Bengal Gram(Gram),Devariya,2017-08-14,5790.0,2.5,29.2,rain
+937,Bengal Gram(Gram),Devariya,2017-08-16,5795.0,2.0,31.5,clear
+938,Bengal Gram(Gram),Devariya,2017-08-17,5780.0,2.0,32.6,clear
+939,Bengal Gram(Gram),Devariya,2017-08-18,5780.0,2.2,33.0,clear
+940,Bengal Gram(Gram),Devariya,2017-08-19,5775.0,2.0,30.0,clear
+941,Bengal Gram(Gram),Devariya,2017-08-21,5770.0,2.5,33.4,clear
+942,Bengal Gram(Gram),Devariya,2017-08-22,5780.0,3.0,33.0,clear
+943,Bengal Gram(Gram),Devariya,2017-08-23,5770.0,2.5,31.4,clear
+944,Bengal Gram(Gram),Devariya,2017-08-24,5780.0,3.0,34.0,clear
+945,Bengal Gram(Gram),Devariya,2017-08-25,5815.0,2.5,32.2,clear
+946,Bengal Gram(Gram),Devariya,2017-08-26,5820.0,3.0,34.4,clear
+947,Bengal Gram(Gram),Devariya,2017-08-28,5830.0,3.5,33.0,clear
+948,Bengal Gram(Gram),Devariya,2017-08-29,5840.0,3.0,33.4,clear
+949,Bengal Gram(Gram),Devariya,2017-08-30,5850.0,2.2,34.2,clear
+950,Bengal Gram(Gram),Devariya,2017-01-09,5850.0,3.0,24.6,clear
+951,Bengal Gram(Gram),Devariya,2017-04-09,5945.0,3.5,36.8,clear
+952,Bengal Gram(Gram),Devariya,2017-05-09,6000.0,2.5,32.6,clear
+953,Bengal Gram(Gram),Devariya,2017-06-09,6045.0,2.0,37.0,clear
+954,Bengal Gram(Gram),Devariya,2017-07-09,6070.0,2.5,32.0,rain
+955,Bengal Gram(Gram),Devariya,2017-08-09,6200.0,2.2,33.6,clear
+956,Bengal Gram(Gram),Devariya,2017-09-09,6215.0,2.5,34.4,clear
+957,Bengal Gram(Gram),Devariya,2017-10-09,6220.0,2.5,33.8,clear
+958,Bengal Gram(Gram),Devariya,2017-11-09,6225.0,2.0,30.0,clear
+959,Bengal Gram(Gram),Devariya,2017-12-09,6235.0,2.5,28.0,clear
+960,Bengal Gram(Gram),Devariya,2017-09-13,6240.0,3.0,34.0,clear
+961,Bengal Gram(Gram),Devariya,2017-09-14,6235.0,2.5,34.4,clear
+962,Bengal Gram(Gram),Devariya,2017-09-15,6245.0,2.0,34.4,clear
+963,Bengal Gram(Gram),Devariya,2017-09-18,6255.0,2.0,37.2,clear
+964,Bengal Gram(Gram),Devariya,2017-09-19,6250.0,2.2,34.2,clear
+965,Bengal Gram(Gram),Devariya,2017-09-21,6260.0,1.6,30.6,rain
+966,Bengal Gram(Gram),Devariya,2017-09-22,6265.0,2.5,32.2,clear
+967,Bengal Gram(Gram),Devariya,2017-09-25,6280.0,2.2,33.6,clear
+968,Bengal Gram(Gram),Devariya,2017-09-26,6285.0,2.0,34.0,clear
+969,Bengal Gram(Gram),Devariya,2017-09-27,6280.0,3.0,34.2,clear
+970,Bengal Gram(Gram),Devariya,2017-03-10,6320.0,3.0,27.2,clear
+971,Bengal Gram(Gram),Devariya,2017-04-10,6330.0,2.2,34.8,clear
+972,Bengal Gram(Gram),Devariya,2017-05-10,6325.0,3.5,33.2,clear
+973,Bengal Gram(Gram),Devariya,2017-06-10,6340.0,3.0,36.0,clear
+974,Bengal Gram(Gram),Devariya,2017-07-10,6345.0,3.5,26.4,clear
+975,Bengal Gram(Gram),Devariya,2017-10-10,6355.0,3.0,33.8,clear
+976,Bengal Gram(Gram),Devariya,2017-11-10,6345.0,2.5,28.0,clear
+977,Bengal Gram(Gram),Devariya,2017-10-13,6380.0,2.2,34.0,clear
+978,Bengal Gram(Gram),Devariya,2017-10-14,8380.0,20.0,34.8,clear
+979,Bengal Gram(Gram),Devariya,2017-10-16,6380.0,25.0,32.4,clear
+980,Bengal Gram(Gram),Devariya,2017-10-17,6385.0,2.0,33.6,clear
+981,Bengal Gram(Gram),Devariya,2017-10-18,6390.0,2.5,33.6,clear
+982,Bengal Gram(Gram),Devariya,2017-10-20,6380.0,10.0,34.0,clear
+983,Bengal Gram(Gram),Devariya,2017-10-23,6390.0,2.5,32.2,clear
+984,Bengal Gram(Gram),Devariya,2017-10-24,6395.0,3.0,32.0,clear
+985,Bengal Gram(Gram),Devariya,2017-10-25,2860.0,2.5,31.6,clear
+986,Bengal Gram(Gram),Devariya,2017-10-26,6395.0,3.0,29.2,clear
+987,Bengal Gram(Gram),Devariya,2017-10-27,6390.0,3.5,30.4,clear
+988,Bengal Gram(Gram),Devariya,2017-10-28,6385.0,4.0,30.6,clear
+989,Bengal Gram(Gram),Devariya,2017-10-30,6385.0,3.0,30.4,clear
+990,Bengal Gram(Gram),Devariya,2017-03-11,7130.0,3.5,25.8,clear

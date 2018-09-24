@@ -1,0 +1,2669 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Bengal Gram(Gram),Chandausi,2013-05-29,3930.0,1.5,34.2,clear
+1,Bengal Gram(Gram),Muradabad,2013-05-29,3950.0,4.0,34.2,clear
+2,Bengal Gram(Gram),Sambhal,2013-05-29,3930.0,0.0,34.2,clear
+3,Black Gram (Urd Beans),Muradabad,2013-05-29,3750.0,2.0,34.2,clear
+4,Green Gram (Moong),Muradabad,2013-05-29,5030.0,0.5,34.2,clear
+5,Bengal Gram(Gram),Muradabad,2015-12-07,4540.0,6.0,19.4,clear
+6,Bengal Gram(Gram),Sambhal,2015-12-07,4745.0,1.5,19.4,clear
+7,Black Gram (Urd Beans),Muradabad,2015-12-07,7225.0,2.0,19.4,clear
+8,Green Gram (Moong),Muradabad,2015-12-07,8175.0,3.2,19.4,clear
+9,Lentil(Masur),Muradabad,2015-12-07,6860.0,4.5,19.4,clear
+10,Bengal Gram(Gram),Muradabad,2015-12-08,4575.0,5.0,20.0,clear
+11,Black Gram (Urd Beans),Muradabad,2015-12-08,7300.0,2.0,20.0,clear
+12,Green Gram (Moong),Muradabad,2015-12-08,8175.0,3.0,20.0,clear
+13,Lentil(Masur),Muradabad,2015-12-08,6850.0,4.1,20.0,clear
+14,Bengal Gram(Gram),Muradabad,2015-12-09,5020.0,4.2,21.0,clear
+15,Bengal Gram(Gram),Sambhal,2015-12-09,5050.0,0.8,21.0,clear
+16,Black Gram (Urd Beans),Muradabad,2015-12-09,8120.0,2.1,21.0,clear
+17,Green Gram (Moong),Muradabad,2015-12-09,8530.0,3.2,21.0,clear
+18,Lentil(Masur),Muradabad,2015-12-09,6925.0,3.0,21.0,clear
+19,Bengal Gram(Gram),Muradabad,2015-12-12,5525.0,8.0,18.0,clear
+20,Bengal Gram(Gram),Sambhal,2015-12-12,5250.0,0.6,18.0,clear
+21,Black Gram (Urd Beans),Muradabad,2015-12-12,8960.0,6.0,18.0,clear
+22,Green Gram (Moong),Muradabad,2015-12-12,8860.0,5.0,18.0,clear
+23,Lentil(Masur),Muradabad,2015-12-12,7025.0,5.0,18.0,clear
+24,Bengal Gram(Gram),Muradabad,2015-12-13,5520.0,6.0,17.8,clear
+25,Bengal Gram(Gram),Sambhal,2015-12-13,5250.0,0.5,17.8,clear
+26,Black Gram (Urd Beans),Muradabad,2015-12-13,9000.0,5.0,17.8,clear
+27,Green Gram (Moong),Muradabad,2015-12-13,8850.0,2.0,17.8,clear
+28,Lentil(Masur),Muradabad,2015-12-13,7010.0,4.0,17.8,clear
+29,Bengal Gram(Gram),Muradabad,2015-12-14,5500.0,7.0,16.6,clear
+30,Black Gram (Urd Beans),Muradabad,2015-12-14,9000.0,6.0,16.6,clear
+31,Green Gram (Moong),Muradabad,2015-12-14,8875.0,1.8,16.6,clear
+32,Lentil(Masur),Muradabad,2015-12-14,7000.0,5.0,16.6,clear
+33,Bengal Gram(Gram),Muradabad,2015-12-16,5520.0,4.0,16.0,clear
+34,Black Gram (Urd Beans),Muradabad,2015-12-16,9050.0,4.0,16.0,clear
+35,Green Gram (Moong),Muradabad,2015-12-16,8850.0,3.0,16.0,clear
+36,Lentil(Masur),Muradabad,2015-12-16,7025.0,4.5,16.0,clear
+37,Bengal Gram(Gram),Muradabad,2015-12-17,5550.0,3.0,17.0,clear
+38,Black Gram (Urd Beans),Muradabad,2015-12-17,9020.0,5.0,17.0,clear
+39,Green Gram (Moong),Muradabad,2015-12-17,8875.0,2.5,17.0,clear
+40,Lentil(Masur),Muradabad,2015-12-17,7050.0,4.0,17.0,clear
+41,Bengal Gram(Gram),Muradabad,2015-12-18,5540.0,8.0,17.6,clear
+42,Black Gram (Urd Beans),Muradabad,2015-12-18,9000.0,4.0,17.6,clear
+43,Green Gram (Moong),Muradabad,2015-12-18,8860.0,4.0,17.6,clear
+44,Lentil(Masur),Muradabad,2015-12-18,7020.0,6.0,17.6,clear
+45,Bengal Gram(Gram),Muradabad,2015-12-19,5560.0,6.0,16.4,clear
+46,Bengal Gram(Gram),Sambhal,2015-12-19,5275.0,0.6,16.4,clear
+47,Black Gram (Urd Beans),Muradabad,2015-12-19,9025.0,3.0,16.4,clear
+48,Green Gram (Moong),Muradabad,2015-12-19,8875.0,3.0,16.4,clear
+49,Lentil(Masur),Muradabad,2015-12-19,7050.0,4.0,16.4,clear
+50,Bengal Gram(Gram),Muradabad,2015-12-20,5570.0,5.0,17.6,clear
+51,Bengal Gram(Gram),Sambhal,2015-12-20,5275.0,0.5,17.6,clear
+52,Black Gram (Urd Beans),Muradabad,2015-12-20,9050.0,4.2,17.6,clear
+53,Green Gram (Moong),Muradabad,2015-12-20,8880.0,2.5,17.6,clear
+54,Lentil(Masur),Muradabad,2015-12-20,7060.0,3.5,17.6,clear
+55,Bengal Gram(Gram),Muradabad,2015-12-21,5580.0,4.0,17.0,clear
+56,Black Gram (Urd Beans),Muradabad,2015-12-21,9050.0,5.0,17.0,clear
+57,Green Gram (Moong),Muradabad,2015-12-21,8850.0,3.2,17.0,clear
+58,Lentil(Masur),Muradabad,2015-12-21,7050.0,5.0,17.0,clear
+59,Bengal Gram(Gram),Muradabad,2015-12-26,5600.0,6.0,16.4,clear
+60,Bengal Gram(Gram),Sambhal,2015-12-26,5460.0,1.5,16.4,clear
+61,Black Gram (Urd Beans),Muradabad,2015-12-26,9100.0,5.0,16.4,clear
+62,Green Gram (Moong),Muradabad,2015-12-26,7100.0,4.2,16.4,clear
+63,Lentil(Masur),Muradabad,2015-12-26,7100.0,4.2,16.4,clear
+64,Bengal Gram(Gram),Sambhal,2015-12-11,5200.0,0.8,19.8,clear
+65,Bengal Gram(Gram),Sambhal,2015-12-15,5250.0,1.0,14.6,clear
+66,Bengal Gram(Gram),Sambhal,2015-12-22,5300.0,0.8,18.4,clear
+67,Bengal Gram(Gram),Sambhal,2015-12-23,5350.0,0.6,16.6,clear
+68,Bengal Gram(Gram),Sambhal,2015-12-24,5400.0,1.0,16.0,clear
+69,Bengal Gram(Gram),Sambhal,2015-12-25,5400.0,2.0,15.8,clear
+70,Bengal Gram(Gram),Sambhal,2015-12-29,5500.0,0.6,16.4,clear
+71,Bengal Gram(Gram),Sambhal,2015-12-30,5500.0,0.5,20.6,clear
+72,Bengal Gram(Gram),Sambhal,2015-12-31,5500.0,1.0,19.8,clear
+73,Bengal Gram(Gram),Bhehjoi,2016-01-28,5150.0,11.0,18.2,clear
+74,Bengal Gram(Gram),Muradabad,2016-01-28,5280.0,7.6,18.2,clear
+75,Black Gram (Urd Beans),Bhehjoi,2016-01-28,9650.0,12.0,18.2,clear
+76,Black Gram (Urd Beans),Muradabad,2016-01-28,9575.0,2.5,18.2,clear
+77,Green Gram (Moong),Muradabad,2016-01-28,9050.0,2.8,18.2,clear
+78,Lentil(Masur),Muradabad,2016-01-28,7000.0,4.5,18.2,clear
+79,Bengal Gram(Gram),Bhehjoi,2016-02-26,5100.0,5.0,25.4,clear
+80,Bengal Gram(Gram),Sambhal,2016-02-26,5150.0,1.5,25.4,clear
+81,Bengal Gram(Gram),Bhehjoi,2016-03-29,5050.0,8.0,29.4,clear
+82,Black Gram (Urd Beans),Bhehjoi,2016-03-29,9450.0,17.0,29.4,clear
+83,Bengal Gram(Gram),Bhehjoi,2016-05-28,5680.0,8.0,34.0,clear
+84,Bengal Gram(Gram),Muradabad,2016-05-28,5700.0,4.0,34.0,clear
+85,Black Gram (Urd Beans),Muradabad,2016-05-28,10400.0,3.0,34.0,clear
+86,Green Gram (Moong),Muradabad,2016-05-28,9250.0,4.0,34.0,clear
+87,Lentil(Masur),Muradabad,2016-05-28,7100.0,3.5,34.0,clear
+88,Bengal Gram(Gram),Bhehjoi,2016-06-25,6200.0,7.0,31.8,clear
+89,Bengal Gram(Gram),Muradabad,2016-06-25,6200.0,5.0,31.8,clear
+90,Black Gram (Urd Beans),Bhehjoi,2016-06-25,10600.0,18.0,31.8,clear
+91,Black Gram (Urd Beans),Muradabad,2016-06-25,11000.0,5.0,31.8,clear
+92,Green Gram (Moong),Muradabad,2016-06-25,8860.0,2.4,31.8,clear
+93,Lentil(Masur),Muradabad,2016-06-25,7340.0,4.0,31.8,clear
+94,Bengal Gram(Gram),Bhehjoi,2016-08-26,8550.0,3.0,34.8,clear
+95,Black Gram (Urd Beans),Bhehjoi,2016-08-26,10650.0,15.0,34.8,clear
+96,Bengal Gram(Gram),Bhehjoi,2016-12-28,9970.0,1.4,18.0,clear
+97,Black Gram (Urd Beans),Bhehjoi,2016-12-28,6050.0,8.5,18.0,clear
+98,Black Gram (Urd Beans),Muradabad,2016-12-28,7600.0,5.0,18.0,clear
+99,Green Gram (Moong),Muradabad,2016-12-28,7740.0,4.5,18.0,clear
+100,Lentil(Masur),Muradabad,2016-12-28,6800.0,5.0,18.0,clear
+101,Bengal Gram(Gram),Muradabad,2016-01-01,5580.0,5.5,20.8,clear
+102,Bengal Gram(Gram),Sambhal,2016-01-01,5500.0,2.0,20.8,clear
+103,Black Gram (Urd Beans),Muradabad,2016-01-01,8825.0,6.5,20.8,clear
+104,Green Gram (Moong),Muradabad,2016-01-01,8875.0,5.5,20.8,clear
+105,Lentil(Masur),Muradabad,2016-01-01,7050.0,4.5,20.8,clear
+106,Bengal Gram(Gram),Muradabad,2016-03-01,5580.0,6.5,26.4,clear
+107,Bengal Gram(Gram),Sambhal,2016-03-01,5525.0,0.6,26.4,clear
+108,Black Gram (Urd Beans),Muradabad,2016-03-01,8800.0,4.0,26.4,clear
+109,Green Gram (Moong),Muradabad,2016-03-01,8800.0,4.8,26.4,clear
+110,Lentil(Masur),Muradabad,2016-03-01,7050.0,3.5,26.4,clear
+111,Bengal Gram(Gram),Muradabad,2016-04-01,5500.0,7.5,30.6,clear
+112,Black Gram (Urd Beans),Muradabad,2016-04-01,8800.0,4.5,30.6,clear
+113,Green Gram (Moong),Muradabad,2016-04-01,8900.0,3.8,30.6,clear
+114,Lentil(Masur),Muradabad,2016-04-01,7080.0,3.0,30.6,clear
+115,Bengal Gram(Gram),Muradabad,2016-06-01,5560.0,4.5,34.0,clear
+116,Bengal Gram(Gram),Sambhal,2016-06-01,5550.0,1.0,34.0,clear
+117,Black Gram (Urd Beans),Muradabad,2016-06-01,9000.0,2.5,34.0,clear
+118,Green Gram (Moong),Muradabad,2016-06-01,8950.0,4.2,34.0,clear
+119,Lentil(Masur),Muradabad,2016-06-01,7100.0,4.2,34.0,clear
+120,Bengal Gram(Gram),Muradabad,2016-08-01,5550.0,4.0,30.0,clear
+121,Bengal Gram(Gram),Sambhal,2016-08-01,5600.0,0.8,30.0,clear
+122,Black Gram (Urd Beans),Muradabad,2016-08-01,9020.0,2.5,30.0,clear
+123,Green Gram (Moong),Muradabad,2016-08-01,9040.0,2.8,30.0,clear
+124,Lentil(Masur),Muradabad,2016-08-01,7020.0,4.5,30.0,clear
+125,Bengal Gram(Gram),Muradabad,2016-09-01,5600.0,3.0,30.4,clear
+126,Bengal Gram(Gram),Sambhal,2016-09-01,5600.0,1.0,30.4,clear
+127,Black Gram (Urd Beans),Muradabad,2016-09-01,9000.0,3.2,30.4,clear
+128,Green Gram (Moong),Muradabad,2016-09-01,9050.0,2.5,30.4,clear
+129,Lentil(Masur),Muradabad,2016-09-01,7025.0,6.0,30.4,clear
+130,Bengal Gram(Gram),Muradabad,2016-10-01,5580.0,5.0,32.0,clear
+131,Bengal Gram(Gram),Sambhal,2016-10-01,5600.0,1.2,32.0,clear
+132,Black Gram (Urd Beans),Muradabad,2016-10-01,9010.0,4.0,32.0,clear
+133,Green Gram (Moong),Muradabad,2016-10-01,9030.0,4.0,32.0,clear
+134,Lentil(Masur),Muradabad,2016-10-01,7000.0,6.0,32.0,clear
+135,Bengal Gram(Gram),Muradabad,2016-11-01,5575.0,6.0,26.4,clear
+136,Black Gram (Urd Beans),Muradabad,2016-11-01,9020.0,3.0,26.4,clear
+137,Green Gram (Moong),Muradabad,2016-11-01,9025.0,5.0,26.4,clear
+138,Lentil(Masur),Muradabad,2016-11-01,7010.0,5.4,26.4,clear
+139,Bengal Gram(Gram),Muradabad,2016-01-13,5590.0,5.0,19.4,clear
+140,Bengal Gram(Gram),Sambhal,2016-01-13,5575.0,0.8,19.4,clear
+141,Black Gram (Urd Beans),Muradabad,2016-01-13,9450.0,2.2,19.4,clear
+142,Green Gram (Moong),Muradabad,2016-01-13,9050.0,4.0,19.4,clear
+143,Lentil(Masur),Muradabad,2016-01-13,7025.0,4.0,19.4,clear
+144,Bengal Gram(Gram),Muradabad,2016-01-14,5575.0,6.2,18.4,clear
+145,Bengal Gram(Gram),Sambhal,2016-01-14,5575.0,1.5,18.4,clear
+146,Black Gram (Urd Beans),Muradabad,2016-01-14,9500.0,2.0,18.4,clear
+147,Green Gram (Moong),Muradabad,2016-01-14,9060.0,3.0,18.4,clear
+148,Lentil(Masur),Muradabad,2016-01-14,7050.0,4.8,18.4,clear
+149,Bengal Gram(Gram),Muradabad,2016-01-15,5580.0,7.0,12.4,clear
+150,Bengal Gram(Gram),Sambhal,2016-01-15,5575.0,1.0,12.4,clear
+151,Black Gram (Urd Beans),Muradabad,2016-01-15,9550.0,2.4,12.4,clear
+152,Green Gram (Moong),Muradabad,2016-01-15,9075.0,2.0,12.4,clear
+153,Lentil(Masur),Muradabad,2016-01-15,7025.0,5.6,12.4,clear
+154,Bengal Gram(Gram),Muradabad,2016-01-16,5560.0,8.0,11.2,clear
+155,Bengal Gram(Gram),Sambhal,2016-01-16,5575.0,0.8,11.2,clear
+156,Black Gram (Urd Beans),Muradabad,2016-01-16,9570.0,3.0,11.2,clear
+157,Green Gram (Moong),Muradabad,2016-01-16,9080.0,3.0,11.2,clear
+158,Lentil(Masur),Muradabad,2016-01-16,7050.0,4.0,11.2,clear
+159,Bengal Gram(Gram),Muradabad,2016-01-17,5570.0,4.8,16.2,clear
+160,Black Gram (Urd Beans),Muradabad,2016-01-17,9505.0,4.3,16.2,clear
+161,Green Gram (Moong),Muradabad,2016-01-17,9050.0,4.2,16.2,clear
+162,Lentil(Masur),Muradabad,2016-01-17,7075.0,3.0,16.2,clear
+163,Bengal Gram(Gram),Muradabad,2016-01-18,5560.0,6.0,17.4,clear
+164,Black Gram (Urd Beans),Muradabad,2016-01-18,9500.0,5.0,17.4,clear
+165,Green Gram (Moong),Muradabad,2016-01-18,9040.0,5.0,17.4,clear
+166,Lentil(Masur),Muradabad,2016-01-18,7080.0,4.0,17.4,clear
+167,Bengal Gram(Gram),Muradabad,2016-01-20,5540.0,8.0,16.4,clear
+168,Bengal Gram(Gram),Sambhal,2016-01-20,5600.0,0.5,16.4,clear
+169,Black Gram (Urd Beans),Muradabad,2016-01-20,9520.0,3.5,16.4,clear
+170,Green Gram (Moong),Muradabad,2016-01-20,9000.0,6.0,16.4,clear
+171,Lentil(Masur),Muradabad,2016-01-20,7080.0,5.0,16.4,clear
+172,Bengal Gram(Gram),Muradabad,2016-01-21,5575.0,7.0,11.0,clear
+173,Black Gram (Urd Beans),Muradabad,2016-01-21,9500.0,4.0,11.0,clear
+174,Green Gram (Moong),Muradabad,2016-01-21,9000.0,5.0,11.0,clear
+175,Lentil(Masur),Muradabad,2016-01-21,7100.0,4.0,11.0,clear
+176,Bengal Gram(Gram),Muradabad,2016-01-22,5600.0,4.0,11.6,clear
+177,Bengal Gram(Gram),Sambhal,2016-01-22,5600.0,1.0,11.6,clear
+178,Black Gram (Urd Beans),Muradabad,2016-01-22,9520.0,2.8,11.6,clear
+179,Green Gram (Moong),Muradabad,2016-01-22,9025.0,2.5,11.6,clear
+180,Lentil(Masur),Muradabad,2016-01-22,7060.0,5.0,11.6,clear
+181,Bengal Gram(Gram),Muradabad,2016-01-23,5300.0,6.8,15.6,clear
+182,Bengal Gram(Gram),Sambhal,2016-01-23,5275.0,3.0,15.6,clear
+183,Black Gram (Urd Beans),Muradabad,2016-01-23,9500.0,2.5,15.6,clear
+184,Green Gram (Moong),Muradabad,2016-01-23,9000.0,3.0,15.6,clear
+185,Lentil(Masur),Muradabad,2016-01-23,7025.0,5.0,15.6,clear
+186,Bengal Gram(Gram),Muradabad,2016-01-24,5300.0,6.0,16.8,clear
+187,Bengal Gram(Gram),Sambhal,2016-01-24,5200.0,2.5,16.8,clear
+188,Black Gram (Urd Beans),Muradabad,2016-01-24,9500.0,3.5,16.8,clear
+189,Green Gram (Moong),Muradabad,2016-01-24,9020.0,3.8,16.8,clear
+190,Lentil(Masur),Muradabad,2016-01-24,7010.0,6.0,16.8,clear
+191,Bengal Gram(Gram),Muradabad,2016-01-25,5350.0,6.5,16.4,clear
+192,Black Gram (Urd Beans),Muradabad,2016-01-25,9550.0,2.0,16.4,clear
+193,Green Gram (Moong),Muradabad,2016-01-25,9050.0,2.5,16.4,clear
+194,Lentil(Masur),Muradabad,2016-01-25,7050.0,4.5,16.4,clear
+195,Bengal Gram(Gram),Muradabad,2016-01-27,5300.0,7.0,19.0,clear
+196,Black Gram (Urd Beans),Muradabad,2016-01-27,9560.0,4.0,19.0,clear
+197,Green Gram (Moong),Muradabad,2016-01-27,9025.0,3.2,19.0,clear
+198,Lentil(Masur),Muradabad,2016-01-27,7000.0,6.0,19.0,clear
+199,Bengal Gram(Gram),Muradabad,2016-01-29,5300.0,7.5,17.8,clear
+200,Black Gram (Urd Beans),Muradabad,2016-01-29,9550.0,3.0,17.8,clear
+201,Green Gram (Moong),Muradabad,2016-01-29,9060.0,2.5,17.8,clear
+202,Lentil(Masur),Muradabad,2016-01-29,7020.0,4.0,17.8,clear
+203,Bengal Gram(Gram),Muradabad,2016-01-30,5200.0,8.0,23.4,clear
+204,Black Gram (Urd Beans),Muradabad,2016-01-30,9540.0,3.5,23.4,clear
+205,Green Gram (Moong),Muradabad,2016-01-30,9050.0,3.0,23.4,clear
+206,Lentil(Masur),Muradabad,2016-01-30,7000.0,4.5,23.4,clear
+207,Bengal Gram(Gram),Muradabad,2016-03-02,5275.0,8.0,27.8,clear
+208,Bengal Gram(Gram),Sambhal,2016-03-02,5200.0,1.0,27.8,clear
+209,Black Gram (Urd Beans),Muradabad,2016-03-02,11800.0,5.0,27.8,clear
+210,Green Gram (Moong),Muradabad,2016-03-02,9020.0,5.6,27.8,clear
+211,Lentil(Masur),Muradabad,2016-03-02,7050.0,6.0,27.8,clear
+212,Bengal Gram(Gram),Muradabad,2016-04-02,5250.0,6.0,32.0,clear
+213,Bengal Gram(Gram),Sambhal,2016-04-02,5200.0,0.6,32.0,clear
+214,Black Gram (Urd Beans),Muradabad,2016-04-02,9500.0,4.5,32.0,clear
+215,Green Gram (Moong),Muradabad,2016-04-02,9000.0,6.0,32.0,clear
+216,Lentil(Masur),Muradabad,2016-04-02,7060.0,3.5,32.0,clear
+217,Bengal Gram(Gram),Muradabad,2016-05-02,5250.0,7.0,35.8,clear
+218,Bengal Gram(Gram),Sambhal,2016-05-02,5210.0,0.5,35.8,clear
+219,Black Gram (Urd Beans),Muradabad,2016-05-02,5520.0,3.0,35.8,clear
+220,Green Gram (Moong),Muradabad,2016-05-02,9010.0,3.0,35.8,clear
+221,Lentil(Masur),Muradabad,2016-05-02,7050.0,4.0,35.8,clear
+222,Bengal Gram(Gram),Muradabad,2016-06-02,5240.0,8.0,33.5,clear
+223,Bengal Gram(Gram),Sambhal,2016-06-02,5200.0,1.0,33.5,clear
+224,Black Gram (Urd Beans),Muradabad,2016-06-02,9500.0,4.0,33.5,clear
+225,Green Gram (Moong),Muradabad,2016-06-02,9000.0,3.4,33.5,clear
+226,Lentil(Masur),Muradabad,2016-06-02,7060.0,3.0,33.5,clear
+227,Bengal Gram(Gram),Muradabad,2016-07-02,5250.0,6.0,26.6,clear
+228,Bengal Gram(Gram),Sambhal,2016-07-02,5175.0,3.0,26.6,clear
+229,Black Gram (Urd Beans),Muradabad,2016-07-02,9450.0,5.0,26.6,clear
+230,Green Gram (Moong),Muradabad,2016-07-02,9020.0,2.5,26.6,clear
+231,Lentil(Masur),Muradabad,2016-07-02,7050.0,4.2,26.6,clear
+232,Bengal Gram(Gram),Muradabad,2016-08-02,5240.0,7.0,33.4,clear
+233,Black Gram (Urd Beans),Muradabad,2016-08-02,9400.0,6.0,33.4,clear
+234,Green Gram (Moong),Muradabad,2016-08-02,9025.0,4.0,33.4,clear
+235,Lentil(Masur),Muradabad,2016-08-02,7045.0,5.0,33.4,clear
+236,Bengal Gram(Gram),Muradabad,2016-10-02,5250.0,7.5,31.8,clear
+237,Bengal Gram(Gram),Sambhal,2016-10-02,5175.0,0.5,31.8,clear
+238,Black Gram (Urd Beans),Muradabad,2016-10-02,9375.0,4.8,31.8,clear
+239,Green Gram (Moong),Muradabad,2016-10-02,8950.0,3.2,31.8,clear
+240,Lentil(Masur),Muradabad,2016-10-02,7000.0,6.0,31.8,clear
+241,Bengal Gram(Gram),Muradabad,2016-11-02,5240.0,8.0,26.4,clear
+242,Bengal Gram(Gram),Sambhal,2016-11-02,5200.0,0.6,26.4,clear
+243,Black Gram (Urd Beans),Muradabad,2016-11-02,9350.0,5.4,26.4,clear
+244,Green Gram (Moong),Muradabad,2016-11-02,8925.0,4.2,26.4,clear
+245,Lentil(Masur),Muradabad,2016-11-02,7025.0,4.0,26.4,clear
+246,Bengal Gram(Gram),Muradabad,2016-12-02,5250.0,6.8,23.6,clear
+247,Bengal Gram(Gram),Sambhal,2016-12-02,5200.0,0.8,23.6,clear
+248,Black Gram (Urd Beans),Muradabad,2016-12-02,9375.0,3.6,23.6,clear
+249,Green Gram (Moong),Muradabad,2016-12-02,8900.0,5.0,23.6,clear
+250,Lentil(Masur),Muradabad,2016-12-02,7010.0,4.6,23.6,clear
+251,Bengal Gram(Gram),Muradabad,2016-02-13,5270.0,6.0,23.2,clear
+252,Bengal Gram(Gram),Sambhal,2016-02-13,5175.0,2.0,23.2,clear
+253,Black Gram (Urd Beans),Muradabad,2016-02-13,9450.0,2.5,23.2,clear
+254,Green Gram (Moong),Muradabad,2016-02-13,8950.0,3.0,23.2,clear
+255,Lentil(Masur),Muradabad,2016-02-13,7020.0,5.0,23.2,clear
+256,Bengal Gram(Gram),Muradabad,2016-02-14,5250.0,8.0,23.6,clear
+257,Bengal Gram(Gram),Sambhal,2016-02-14,5160.0,1.5,23.6,clear
+258,Black Gram (Urd Beans),Muradabad,2016-02-14,9500.0,4.2,23.6,clear
+259,Green Gram (Moong),Muradabad,2016-02-14,8950.0,4.0,23.6,clear
+260,Lentil(Masur),Muradabad,2016-02-14,7030.0,4.1,23.6,clear
+261,Bengal Gram(Gram),Muradabad,2016-02-15,5240.0,7.0,24.0,clear
+262,Black Gram (Urd Beans),Muradabad,2016-02-15,9500.0,3.5,24.0,clear
+263,Green Gram (Moong),Muradabad,2016-02-15,9000.0,3.8,24.0,clear
+264,Lentil(Masur),Muradabad,2016-02-15,7040.0,2.5,24.0,clear
+265,Bengal Gram(Gram),Muradabad,2016-02-17,5250.0,8.0,25.6,clear
+266,Bengal Gram(Gram),Sambhal,2016-02-17,5225.0,1.0,25.6,clear
+267,Black Gram (Urd Beans),Muradabad,2016-02-17,9550.0,2.2,25.6,clear
+268,Green Gram (Moong),Muradabad,2016-02-17,9025.0,3.1,25.6,clear
+269,Lentil(Masur),Muradabad,2016-02-17,7050.0,3.0,25.6,clear
+270,Bengal Gram(Gram),Muradabad,2016-02-18,5250.0,6.5,25.2,clear
+271,Bengal Gram(Gram),Sambhal,2016-02-18,5210.0,1.2,25.2,clear
+272,Black Gram (Urd Beans),Muradabad,2016-02-18,9600.0,3.0,25.2,clear
+273,Green Gram (Moong),Muradabad,2016-02-18,9200.0,3.5,25.2,clear
+274,Lentil(Masur),Muradabad,2016-02-18,7050.0,2.0,25.2,clear
+275,Bengal Gram(Gram),Muradabad,2016-02-19,5300.0,6.0,25.0,clear
+276,Bengal Gram(Gram),Sambhal,2016-02-19,5210.0,0.8,25.0,clear
+277,Black Gram (Urd Beans),Muradabad,2016-02-19,9700.0,4.0,25.0,clear
+278,Green Gram (Moong),Muradabad,2016-02-19,9300.0,3.0,25.0,clear
+279,Lentil(Masur),Muradabad,2016-02-19,7040.0,2.5,25.0,clear
+280,Bengal Gram(Gram),Muradabad,2016-02-20,5290.0,7.0,22.0,clear
+281,Black Gram (Urd Beans),Muradabad,2016-02-20,9600.0,4.5,22.0,clear
+282,Green Gram (Moong),Muradabad,2016-02-20,9280.0,4.0,22.0,clear
+283,Lentil(Masur),Muradabad,2016-02-20,7060.0,2.4,22.0,clear
+284,Bengal Gram(Gram),Muradabad,2016-02-21,5280.0,5.5,23.2,clear
+285,Bengal Gram(Gram),Sambhal,2016-02-21,5225.0,1.2,23.2,clear
+286,Black Gram (Urd Beans),Muradabad,2016-02-21,9575.0,5.0,23.2,clear
+287,Green Gram (Moong),Muradabad,2016-02-21,9280.0,4.0,23.2,clear
+288,Lentil(Masur),Muradabad,2016-02-21,7100.0,2.1,23.2,clear
+289,Bengal Gram(Gram),Muradabad,2016-02-22,5250.0,7.0,24.6,clear
+290,Black Gram (Urd Beans),Muradabad,2016-02-22,9550.0,6.0,24.6,clear
+291,Green Gram (Moong),Muradabad,2016-02-22,9200.0,4.0,24.6,clear
+292,Lentil(Masur),Muradabad,2016-02-22,7050.0,5.0,24.6,clear
+293,Bengal Gram(Gram),Muradabad,2016-02-24,5300.0,8.0,24.6,clear
+294,Bengal Gram(Gram),Sambhal,2016-02-24,5200.0,0.6,24.6,clear
+295,Black Gram (Urd Beans),Muradabad,2016-02-24,9540.0,5.0,24.6,clear
+296,Green Gram (Moong),Muradabad,2016-02-24,9100.0,5.0,24.6,clear
+297,Lentil(Masur),Muradabad,2016-02-24,7060.0,4.5,24.6,clear
+298,Bengal Gram(Gram),Muradabad,2016-02-25,5280.0,9.0,25.0,clear
+299,Bengal Gram(Gram),Sambhal,2016-02-25,5190.0,0.1,25.0,clear
+300,Black Gram (Urd Beans),Muradabad,2016-02-25,9500.0,4.5,25.0,clear
+301,Green Gram (Moong),Muradabad,2016-02-25,9075.0,6.0,25.0,clear
+302,Lentil(Masur),Muradabad,2016-02-25,7050.0,3.0,25.0,clear
+303,Bengal Gram(Gram),Muradabad,2016-02-27,5200.0,9.0,25.4,clear
+304,Bengal Gram(Gram),Sambhal,2016-02-27,5100.0,2.0,25.4,clear
+305,Black Gram (Urd Beans),Muradabad,2016-02-27,9500.0,5.0,25.4,clear
+306,Green Gram (Moong),Muradabad,2016-02-27,9200.0,5.0,25.4,clear
+307,Lentil(Masur),Muradabad,2016-02-27,7000.0,4.0,25.4,clear
+308,Bengal Gram(Gram),Muradabad,2016-02-28,5250.0,4.0,25.8,clear
+309,Bengal Gram(Gram),Sambhal,2016-02-28,5100.0,3.0,25.8,clear
+310,Black Gram (Urd Beans),Muradabad,2016-02-28,9520.0,3.6,25.8,clear
+311,Green Gram (Moong),Muradabad,2016-02-28,9100.0,6.0,25.8,clear
+312,Lentil(Masur),Muradabad,2016-02-28,7000.0,5.0,25.8,clear
+313,Bengal Gram(Gram),Muradabad,2016-02-29,5270.0,3.6,26.4,clear
+314,Black Gram (Urd Beans),Muradabad,2016-02-29,9500.0,4.0,26.4,clear
+315,Green Gram (Moong),Muradabad,2016-02-29,9125.0,4.8,26.4,clear
+316,Lentil(Masur),Muradabad,2016-02-29,7000.0,4.4,26.4,clear
+317,Bengal Gram(Gram),Muradabad,2016-02-03,5200.0,5.0,19.8,clear
+318,Black Gram (Urd Beans),Muradabad,2016-02-03,9400.0,4.5,19.8,clear
+319,Green Gram (Moong),Muradabad,2016-02-03,9150.0,3.0,19.8,clear
+320,Lentil(Masur),Muradabad,2016-02-03,7000.0,3.5,19.8,clear
+321,Bengal Gram(Gram),Muradabad,2016-03-03,5230.0,3.0,28.0,clear
+322,Bengal Gram(Gram),Sambhal,2016-03-03,5175.0,1.0,28.0,clear
+323,Black Gram (Urd Beans),Muradabad,2016-03-03,9525.0,3.0,28.0,clear
+324,Green Gram (Moong),Muradabad,2016-03-03,9100.0,3.2,28.0,clear
+325,Lentil(Masur),Muradabad,2016-03-03,6990.0,5.0,28.0,clear
+326,Bengal Gram(Gram),Muradabad,2016-05-03,5275.0,5.0,35.4,clear
+327,Black Gram (Urd Beans),Muradabad,2016-05-03,9400.0,3.1,35.4,clear
+328,Green Gram (Moong),Muradabad,2016-05-03,9050.0,4.0,35.4,clear
+329,Lentil(Masur),Muradabad,2016-05-03,6950.0,6.2,35.4,clear
+330,Bengal Gram(Gram),Muradabad,2016-07-03,5250.0,5.2,31.2,clear
+331,Bengal Gram(Gram),Sambhal,2016-07-03,5175.0,0.7,31.2,clear
+332,Black Gram (Urd Beans),Muradabad,2016-07-03,9500.0,3.0,31.2,clear
+333,Green Gram (Moong),Muradabad,2016-07-03,9040.0,4.1,31.2,clear
+334,Lentil(Masur),Muradabad,2016-07-03,6900.0,6.3,31.2,clear
+335,Bengal Gram(Gram),Muradabad,2016-09-03,5250.0,4.5,31.6,clear
+336,Bengal Gram(Gram),Sambhal,2016-09-03,5190.0,1.0,31.6,clear
+337,Black Gram (Urd Beans),Muradabad,2016-09-03,9450.0,3.0,31.6,clear
+338,Green Gram (Moong),Muradabad,2016-09-03,9050.0,4.0,31.6,clear
+339,Lentil(Masur),Muradabad,2016-09-03,6900.0,5.5,31.6,clear
+340,Bengal Gram(Gram),Muradabad,2016-10-03,5260.0,5.0,31.6,clear
+341,Bengal Gram(Gram),Sambhal,2016-10-03,5190.0,0.5,31.6,clear
+342,Black Gram (Urd Beans),Muradabad,2016-10-03,9475.0,2.0,31.6,clear
+343,Green Gram (Moong),Muradabad,2016-10-03,9000.0,5.0,31.6,clear
+344,Lentil(Masur),Muradabad,2016-10-03,6950.0,4.0,31.6,clear
+345,Bengal Gram(Gram),Muradabad,2016-11-03,5275.0,4.0,26.2,clear
+346,Bengal Gram(Gram),Sambhal,2016-11-03,5180.0,0.8,26.2,clear
+347,Black Gram (Urd Beans),Muradabad,2016-11-03,9500.0,3.0,26.2,clear
+348,Green Gram (Moong),Muradabad,2016-11-03,9000.0,4.0,26.2,clear
+349,Lentil(Masur),Muradabad,2016-11-03,7000.0,3.0,26.2,clear
+350,Bengal Gram(Gram),Muradabad,2016-12-03,5300.0,7.5,21.6,clear
+351,Bengal Gram(Gram),Sambhal,2016-12-03,5180.0,0.4,21.6,clear
+352,Black Gram (Urd Beans),Muradabad,2016-12-03,9475.0,4.0,21.6,clear
+353,Green Gram (Moong),Muradabad,2016-12-03,9050.0,2.5,21.6,clear
+354,Lentil(Masur),Muradabad,2016-12-03,6950.0,5.0,21.6,clear
+355,Bengal Gram(Gram),Muradabad,2016-03-13,5320.0,5.0,26.0,clear
+356,Bengal Gram(Gram),Sambhal,2016-03-13,5180.0,0.6,26.0,clear
+357,Black Gram (Urd Beans),Muradabad,2016-03-13,9450.0,5.0,26.0,clear
+358,Green Gram (Moong),Muradabad,2016-03-13,9060.0,5.0,26.0,clear
+359,Lentil(Masur),Muradabad,2016-03-13,6950.0,4.5,26.0,clear
+360,Bengal Gram(Gram),Muradabad,2016-03-14,5325.0,4.0,25.6,clear
+361,Black Gram (Urd Beans),Muradabad,2016-03-14,9400.0,6.0,25.6,clear
+362,Green Gram (Moong),Muradabad,2016-03-14,9075.0,2.0,25.6,clear
+363,Lentil(Masur),Muradabad,2016-03-14,6975.0,3.0,25.6,clear
+364,Bengal Gram(Gram),Muradabad,2016-03-16,5300.0,8.0,25.4,clear
+365,Bengal Gram(Gram),Sambhal,2016-03-16,5250.0,0.5,25.4,clear
+366,Black Gram (Urd Beans),Muradabad,2016-03-16,9430.0,3.6,25.4,clear
+367,Green Gram (Moong),Muradabad,2016-03-16,9060.0,3.0,25.4,clear
+368,Lentil(Masur),Muradabad,2016-03-16,6850.0,4.0,25.4,clear
+369,Bengal Gram(Gram),Muradabad,2016-03-17,5280.0,9.0,26.0,clear
+370,Bengal Gram(Gram),Sambhal,2016-03-17,5250.0,0.8,26.0,clear
+371,Black Gram (Urd Beans),Muradabad,2016-03-17,9400.0,4.5,26.0,clear
+372,Green Gram (Moong),Muradabad,2016-03-17,9025.0,4.2,26.0,clear
+373,Lentil(Masur),Muradabad,2016-03-17,6800.0,5.0,26.0,clear
+374,Bengal Gram(Gram),Muradabad,2016-03-19,5280.0,9.0,30.6,clear
+375,Bengal Gram(Gram),Sambhal,2016-03-19,5250.0,0.5,30.6,clear
+376,Black Gram (Urd Beans),Muradabad,2016-03-19,9450.0,2.0,30.6,clear
+377,Green Gram (Moong),Muradabad,2016-03-19,9050.0,4.0,30.6,clear
+378,Lentil(Masur),Muradabad,2016-03-19,6750.0,7.0,30.6,clear
+379,Bengal Gram(Gram),Muradabad,2016-03-20,5300.0,6.0,30.4,clear
+380,Black Gram (Urd Beans),Muradabad,2016-03-20,9430.0,3.2,30.4,clear
+381,Green Gram (Moong),Muradabad,2016-03-20,9080.0,2.5,30.4,clear
+382,Lentil(Masur),Muradabad,2016-03-20,6725.0,4.5,30.4,clear
+383,Bengal Gram(Gram),Muradabad,2016-03-21,5300.0,5.0,28.6,clear
+384,Black Gram (Urd Beans),Muradabad,2016-03-21,9400.0,5.0,28.6,clear
+385,Green Gram (Moong),Muradabad,2016-03-21,9075.0,3.0,28.6,clear
+386,Lentil(Masur),Muradabad,2016-03-21,6700.0,5.0,28.6,clear
+387,Bengal Gram(Gram),Muradabad,2016-03-23,5310.0,6.0,27.2,clear
+388,Bengal Gram(Gram),Sambhal,2016-03-23,5250.0,0.5,27.2,clear
+389,Black Gram (Urd Beans),Muradabad,2016-03-23,9420.0,4.2,27.2,clear
+390,Green Gram (Moong),Muradabad,2016-03-23,9050.0,4.2,27.2,clear
+391,Lentil(Masur),Muradabad,2016-03-23,6720.0,4.8,27.2,clear
+392,Bengal Gram(Gram),Muradabad,2016-03-25,5300.0,5.0,30.4,clear
+393,Bengal Gram(Gram),Sambhal,2016-03-25,5250.0,1.5,30.4,clear
+394,Black Gram (Urd Beans),Muradabad,2016-03-25,9425.0,5.0,30.4,clear
+395,Green Gram (Moong),Muradabad,2016-03-25,9070.0,3.6,30.4,clear
+396,Lentil(Masur),Muradabad,2016-03-25,6700.0,5.0,30.4,clear
+397,Bengal Gram(Gram),Muradabad,2016-03-26,5350.0,4.0,29.6,clear
+398,Bengal Gram(Gram),Sambhal,2016-03-26,5250.0,1.0,29.6,clear
+399,Black Gram (Urd Beans),Muradabad,2016-03-26,9430.0,4.5,29.6,clear
+400,Green Gram (Moong),Muradabad,2016-03-26,9075.0,3.4,29.6,clear
+401,Lentil(Masur),Muradabad,2016-03-26,6700.0,6.0,29.6,clear
+402,Bengal Gram(Gram),Muradabad,2016-03-27,5300.0,4.5,30.0,clear
+403,Bengal Gram(Gram),Sambhal,2016-03-27,5250.0,0.5,30.0,clear
+404,Black Gram (Urd Beans),Muradabad,2016-03-27,9440.0,4.0,30.0,clear
+405,Green Gram (Moong),Muradabad,2016-03-27,9100.0,3.0,30.0,clear
+406,Lentil(Masur),Muradabad,2016-03-27,6720.0,5.0,30.0,clear
+407,Bengal Gram(Gram),Muradabad,2016-03-28,5320.0,4.2,29.8,clear
+408,Black Gram (Urd Beans),Muradabad,2016-03-28,9450.0,3.5,29.8,clear
+409,Green Gram (Moong),Muradabad,2016-03-28,9150.0,3.5,29.8,clear
+410,Lentil(Masur),Muradabad,2016-03-28,6730.0,5.5,29.8,clear
+411,Bengal Gram(Gram),Muradabad,2016-03-30,5300.0,5.0,30.0,clear
+412,Black Gram (Urd Beans),Muradabad,2016-03-30,9475.0,2.5,30.0,clear
+413,Green Gram (Moong),Muradabad,2016-03-30,9125.0,4.0,30.0,clear
+414,Lentil(Masur),Muradabad,2016-03-30,6750.0,6.0,30.0,clear
+415,Bengal Gram(Gram),Muradabad,2016-03-31,5350.0,3.0,31.2,clear
+416,Bengal Gram(Gram),Sambhal,2016-03-31,5100.0,1.0,31.2,clear
+417,Black Gram (Urd Beans),Muradabad,2016-03-31,9450.0,4.0,31.2,clear
+418,Lentil(Masur),Muradabad,2016-03-31,6700.0,7.0,31.2,clear
+419,Bengal Gram(Gram),Muradabad,2016-01-04,5400.0,4.0,20.0,clear
+420,Bengal Gram(Gram),Sambhal,2016-01-04,5100.0,1.0,20.0,clear
+421,Black Gram (Urd Beans),Muradabad,2016-01-04,9440.0,4.5,20.0,clear
+422,Green Gram (Moong),Muradabad,2016-01-04,9125.0,3.5,20.0,clear
+423,Lentil(Masur),Muradabad,2016-01-04,6700.0,6.0,20.0,clear
+424,Bengal Gram(Gram),Muradabad,2016-02-04,5425.0,3.5,19.0,clear
+425,Bengal Gram(Gram),Sambhal,2016-02-04,5100.0,4.0,19.0,clear
+426,Black Gram (Urd Beans),Muradabad,2016-02-04,9400.0,6.0,19.0,clear
+427,Green Gram (Moong),Muradabad,2016-02-04,9130.0,2.2,19.0,clear
+428,Lentil(Masur),Muradabad,2016-02-04,6675.0,7.0,19.0,clear
+429,Bengal Gram(Gram),Muradabad,2016-04-04,5380.0,3.8,33.4,clear
+430,Black Gram (Urd Beans),Muradabad,2016-04-04,9420.0,4.0,33.4,clear
+431,Green Gram (Moong),Muradabad,2016-04-04,9150.0,2.0,33.4,clear
+432,Lentil(Masur),Muradabad,2016-04-04,6660.0,7.5,33.4,clear
+433,Bengal Gram(Gram),Muradabad,2016-06-04,5400.0,3.0,34.0,clear
+434,Bengal Gram(Gram),Sambhal,2016-06-04,5170.0,2.0,34.0,clear
+435,Black Gram (Urd Beans),Muradabad,2016-06-04,9400.0,5.0,34.0,clear
+436,Green Gram (Moong),Muradabad,2016-06-04,9160.0,4.0,34.0,clear
+437,Lentil(Masur),Muradabad,2016-06-04,6650.0,8.0,34.0,clear
+438,Bengal Gram(Gram),Muradabad,2016-04-13,5500.0,2.6,33.2,clear
+439,Bengal Gram(Gram),Sambhal,2016-04-13,5100.0,0.5,33.2,clear
+440,Black Gram (Urd Beans),Muradabad,2016-04-13,9800.0,1.5,33.2,clear
+441,Green Gram (Moong),Muradabad,2016-04-13,9150.0,2.8,33.2,clear
+442,Lentil(Masur),Muradabad,2016-04-13,6700.0,3.0,33.2,clear
+443,Bengal Gram(Gram),Muradabad,2016-04-14,5520.0,4.0,34.0,clear
+444,Black Gram (Urd Beans),Muradabad,2016-04-14,9850.0,2.0,34.0,clear
+445,Green Gram (Moong),Muradabad,2016-04-14,9160.0,2.5,34.0,clear
+446,Lentil(Masur),Muradabad,2016-04-14,6690.0,5.0,34.0,clear
+447,Bengal Gram(Gram),Muradabad,2016-04-15,5525.0,3.0,34.6,clear
+448,Black Gram (Urd Beans),Muradabad,2016-04-15,9875.0,1.6,34.6,clear
+449,Green Gram (Moong),Muradabad,2016-04-15,9170.0,2.2,34.6,clear
+450,Lentil(Masur),Muradabad,2016-04-15,6680.0,6.0,34.6,clear
+451,Bengal Gram(Gram),Muradabad,2016-04-16,5550.0,4.0,34.2,clear
+452,Black Gram (Urd Beans),Muradabad,2016-04-16,9870.0,2.1,34.2,clear
+453,Green Gram (Moong),Muradabad,2016-04-16,9175.0,2.0,34.2,clear
+454,Lentil(Masur),Muradabad,2016-04-16,6700.0,7.0,34.2,clear
+455,Bengal Gram(Gram),Muradabad,2016-04-17,5525.0,6.0,34.0,clear
+456,Black Gram (Urd Beans),Muradabad,2016-04-17,9880.0,2.0,34.0,clear
+457,Green Gram (Moong),Muradabad,2016-04-17,9150.0,4.0,34.0,clear
+458,Lentil(Masur),Muradabad,2016-04-17,6720.0,3.2,34.0,clear
+459,Bengal Gram(Gram),Muradabad,2016-04-18,5530.0,7.0,34.4,clear
+460,Black Gram (Urd Beans),Muradabad,2016-04-18,9860.0,3.0,34.4,clear
+461,Green Gram (Moong),Muradabad,2016-04-18,9160.0,3.6,34.4,clear
+462,Lentil(Masur),Muradabad,2016-04-18,6725.0,4.0,34.4,clear
+463,Bengal Gram(Gram),Muradabad,2016-04-20,5600.0,6.2,36.2,clear
+464,Bengal Gram(Gram),Sambhal,2016-04-20,5250.0,1.0,36.2,clear
+465,Black Gram (Urd Beans),Muradabad,2016-04-20,10500.0,2.5,36.2,clear
+466,Green Gram (Moong),Muradabad,2016-04-20,9250.0,2.0,36.2,clear
+467,Lentil(Masur),Muradabad,2016-04-20,6800.0,3.0,36.2,clear
+468,Bengal Gram(Gram),Muradabad,2016-04-21,5750.0,5.0,34.2,clear
+469,Black Gram (Urd Beans),Muradabad,2016-04-21,10800.0,2.2,34.2,clear
+470,Green Gram (Moong),Muradabad,2016-04-21,9300.0,2.4,34.2,clear
+471,Lentil(Masur),Muradabad,2016-04-21,7000.0,2.5,34.2,clear
+472,Bengal Gram(Gram),Muradabad,2016-04-22,5700.0,6.0,35.8,clear
+473,Bengal Gram(Gram),Sambhal,2016-04-22,5350.0,2.5,35.8,clear
+474,Black Gram (Urd Beans),Muradabad,2016-04-22,10700.0,4.0,35.8,clear
+475,Green Gram (Moong),Muradabad,2016-04-22,9350.0,3.0,35.8,clear
+476,Lentil(Masur),Muradabad,2016-04-22,7000.0,5.0,35.8,clear
+477,Bengal Gram(Gram),Muradabad,2016-04-24,5680.0,5.0,33.0,clear
+478,Bengal Gram(Gram),Sambhal,2016-04-24,5350.0,0.5,33.0,clear
+479,Black Gram (Urd Beans),Muradabad,2016-04-24,10200.0,6.0,33.0,clear
+480,Green Gram (Moong),Muradabad,2016-04-24,9300.0,4.0,33.0,clear
+481,Lentil(Masur),Muradabad,2016-04-24,7100.0,4.0,33.0,clear
+482,Bengal Gram(Gram),Muradabad,2016-04-25,5700.0,4.5,35.0,clear
+483,Black Gram (Urd Beans),Muradabad,2016-04-25,10100.0,7.0,35.0,clear
+484,Green Gram (Moong),Muradabad,2016-04-25,9325.0,3.0,35.0,clear
+485,Lentil(Masur),Muradabad,2016-04-25,7200.0,3.0,35.0,clear
+486,Bengal Gram(Gram),Muradabad,2016-04-27,5690.0,6.0,36.4,clear
+487,Bengal Gram(Gram),Sambhal,2016-04-27,5350.0,0.5,36.4,clear
+488,Black Gram (Urd Beans),Muradabad,2016-04-27,10200.0,4.0,36.4,clear
+489,Green Gram (Moong),Muradabad,2016-04-27,9350.0,4.0,36.4,clear
+490,Lentil(Masur),Muradabad,2016-04-27,7225.0,4.0,36.4,clear
+491,Bengal Gram(Gram),Muradabad,2016-04-28,5675.0,8.0,36.0,clear
+492,Black Gram (Urd Beans),Muradabad,2016-04-28,10100.0,3.0,36.0,clear
+493,Green Gram (Moong),Muradabad,2016-04-28,9275.0,5.0,36.0,clear
+494,Lentil(Masur),Muradabad,2016-04-28,7200.0,5.0,36.0,clear
+495,Bengal Gram(Gram),Muradabad,2016-04-29,5690.0,9.0,35.4,clear
+496,Bengal Gram(Gram),Sambhal,2016-04-29,5400.0,0.6,35.4,clear
+497,Black Gram (Urd Beans),Muradabad,2016-04-29,10200.0,2.5,35.4,clear
+498,Green Gram (Moong),Muradabad,2016-04-29,9280.0,4.5,35.4,clear
+499,Lentil(Masur),Muradabad,2016-04-29,7250.0,4.5,35.4,clear
+500,Bengal Gram(Gram),Muradabad,2016-04-30,5680.0,8.0,35.6,clear
+501,Black Gram (Urd Beans),Muradabad,2016-04-30,10800.0,3.0,35.6,clear
+502,Green Gram (Moong),Muradabad,2016-04-30,9270.0,4.0,35.6,clear
+503,Lentil(Masur),Muradabad,2016-04-30,7260.0,4.0,35.6,clear
+504,Bengal Gram(Gram),Muradabad,2016-01-05,5700.0,6.0,21.0,clear
+505,Black Gram (Urd Beans),Muradabad,2016-01-05,10850.0,3.5,21.0,clear
+506,Green Gram (Moong),Muradabad,2016-01-05,9280.0,3.5,21.0,clear
+507,Lentil(Masur),Muradabad,2016-01-05,7200.0,4.5,21.0,clear
+508,Bengal Gram(Gram),Muradabad,2016-02-05,5690.0,8.0,20.2,clear
+509,Bengal Gram(Gram),Sambhal,2016-02-05,5350.0,0.6,20.2,clear
+510,Black Gram (Urd Beans),Muradabad,2016-02-05,10900.0,2.0,20.2,clear
+511,Green Gram (Moong),Muradabad,2016-02-05,9300.0,3.0,20.2,clear
+512,Lentil(Masur),Muradabad,2016-02-05,7220.0,5.0,20.2,clear
+513,Bengal Gram(Gram),Muradabad,2016-05-05,5700.0,4.5,31.6,clear
+514,Bengal Gram(Gram),Sambhal,2016-05-05,5400.0,0.6,31.6,clear
+515,Black Gram (Urd Beans),Muradabad,2016-05-05,10700.0,5.0,31.6,clear
+516,Green Gram (Moong),Muradabad,2016-05-05,9275.0,3.0,31.6,clear
+517,Lentil(Masur),Muradabad,2016-05-05,7250.0,4.8,31.6,clear
+518,Bengal Gram(Gram),Muradabad,2016-06-05,5685.0,6.0,34.0,clear
+519,Bengal Gram(Gram),Sambhal,2016-06-05,5400.0,0.8,34.0,clear
+520,Black Gram (Urd Beans),Muradabad,2016-06-05,10600.0,4.5,34.0,clear
+521,Green Gram (Moong),Muradabad,2016-06-05,9250.0,4.0,34.0,clear
+522,Lentil(Masur),Muradabad,2016-06-05,7200.0,6.0,34.0,clear
+523,Bengal Gram(Gram),Muradabad,2016-07-05,5700.0,4.5,29.6,clear
+524,Bengal Gram(Gram),Sambhal,2016-07-05,5400.0,0.5,29.6,clear
+525,Black Gram (Urd Beans),Muradabad,2016-07-05,10700.0,3.0,29.6,clear
+526,Green Gram (Moong),Muradabad,2016-07-05,9300.0,2.4,29.6,clear
+527,Lentil(Masur),Muradabad,2016-07-05,7250.0,4.2,29.6,clear
+528,Bengal Gram(Gram),Muradabad,2016-08-05,5720.0,6.0,34.0,clear
+529,Bengal Gram(Gram),Sambhal,2016-08-05,5450.0,1.0,34.0,clear
+530,Black Gram (Urd Beans),Muradabad,2016-08-05,10800.0,4.0,34.0,clear
+531,Green Gram (Moong),Muradabad,2016-08-05,9320.0,4.0,34.0,clear
+532,Lentil(Masur),Muradabad,2016-08-05,7230.0,8.0,34.0,clear
+533,Bengal Gram(Gram),Muradabad,2016-09-05,5725.0,5.0,31.0,clear
+534,Bengal Gram(Gram),Sambhal,2016-09-05,5480.0,0.0,31.0,clear
+535,Black Gram (Urd Beans),Muradabad,2016-09-05,10900.0,3.6,31.0,clear
+536,Green Gram (Moong),Muradabad,2016-09-05,9325.0,3.5,31.0,clear
+537,Lentil(Masur),Muradabad,2016-09-05,7220.0,7.0,31.0,clear
+538,Bengal Gram(Gram),Muradabad,2016-11-05,5700.0,5.0,26.0,clear
+539,Black Gram (Urd Beans),Muradabad,2016-11-05,10700.0,5.0,26.0,clear
+540,Green Gram (Moong),Muradabad,2016-11-05,9350.0,3.0,26.0,clear
+541,Lentil(Masur),Muradabad,2016-11-05,7250.0,4.5,26.0,clear
+542,Bengal Gram(Gram),Muradabad,2016-12-05,5700.0,6.0,16.4,clear
+543,Black Gram (Urd Beans),Muradabad,2016-12-05,10500.0,3.0,16.4,clear
+544,Green Gram (Moong),Muradabad,2016-12-05,9225.0,6.0,16.4,clear
+545,Lentil(Masur),Muradabad,2016-12-05,7230.0,5.0,16.4,clear
+546,Bengal Gram(Gram),Muradabad,2016-05-13,5680.0,6.7,34.4,clear
+547,Bengal Gram(Gram),Sambhal,2016-05-13,5550.0,0.8,34.4,clear
+548,Black Gram (Urd Beans),Muradabad,2016-05-13,10400.0,4.5,34.4,clear
+549,Green Gram (Moong),Muradabad,2016-05-13,9150.0,7.0,34.4,clear
+550,Lentil(Masur),Muradabad,2016-05-13,7200.0,6.2,34.4,clear
+551,Bengal Gram(Gram),Muradabad,2016-05-15,5690.0,4.5,36.2,clear
+552,Bengal Gram(Gram),Sambhal,2016-05-15,5600.0,1.5,36.2,clear
+553,Black Gram (Urd Beans),Muradabad,2016-05-15,10300.0,5.0,36.2,clear
+554,Green Gram (Moong),Muradabad,2016-05-15,9150.0,4.6,36.2,clear
+555,Lentil(Masur),Muradabad,2016-05-15,7150.0,6.0,36.2,clear
+556,Bengal Gram(Gram),Muradabad,2016-05-16,5700.0,4.0,37.8,clear
+557,Black Gram (Urd Beans),Muradabad,2016-05-16,10400.0,4.0,37.8,clear
+558,Green Gram (Moong),Muradabad,2016-05-16,9125.0,4.0,37.8,clear
+559,Lentil(Masur),Muradabad,2016-05-16,7140.0,5.0,37.8,clear
+560,Bengal Gram(Gram),Muradabad,2016-05-18,5700.0,5.0,36.4,clear
+561,Bengal Gram(Gram),Sambhal,2016-05-18,5650.0,0.8,36.4,clear
+562,Black Gram (Urd Beans),Muradabad,2016-05-18,10300.0,3.0,36.4,clear
+563,Green Gram (Moong),Muradabad,2016-05-18,9100.0,4.0,36.4,clear
+564,Lentil(Masur),Muradabad,2016-05-18,7100.0,6.0,36.4,clear
+565,Bengal Gram(Gram),Muradabad,2016-05-19,5750.0,4.5,37.0,clear
+566,Bengal Gram(Gram),Sambhal,2016-05-19,5660.0,0.6,37.0,clear
+567,Black Gram (Urd Beans),Muradabad,2016-05-19,10300.0,4.0,37.0,clear
+568,Green Gram (Moong),Muradabad,2016-05-19,9150.0,4.5,37.0,clear
+569,Lentil(Masur),Muradabad,2016-05-19,7150.0,5.0,37.0,clear
+570,Bengal Gram(Gram),Muradabad,2016-05-20,5725.0,5.0,35.8,clear
+571,Bengal Gram(Gram),Sambhal,2016-05-20,5600.0,1.0,35.8,clear
+572,Black Gram (Urd Beans),Muradabad,2016-05-20,10400.0,3.0,35.8,clear
+573,Green Gram (Moong),Muradabad,2016-05-20,9145.0,5.0,35.8,clear
+574,Lentil(Masur),Muradabad,2016-05-20,7140.0,6.0,35.8,clear
+575,Bengal Gram(Gram),Muradabad,2016-05-21,5720.0,6.0,32.2,clear
+576,Black Gram (Urd Beans),Muradabad,2016-05-21,10300.0,5.0,32.2,clear
+577,Green Gram (Moong),Muradabad,2016-05-21,9150.0,4.0,32.2,clear
+578,Lentil(Masur),Muradabad,2016-05-21,7150.0,4.0,32.2,clear
+579,Bengal Gram(Gram),Muradabad,2016-05-22,5730.0,8.0,33.8,clear
+580,Black Gram (Urd Beans),Muradabad,2016-05-22,10250.0,6.0,33.8,clear
+581,Green Gram (Moong),Muradabad,2016-05-22,9160.0,3.6,33.8,clear
+582,Lentil(Masur),Muradabad,2016-05-22,7150.0,3.0,33.8,clear
+583,Bengal Gram(Gram),Muradabad,2016-05-23,5700.0,9.0,29.4,clear
+584,Black Gram (Urd Beans),Muradabad,2016-05-23,10350.0,3.0,29.4,clear
+585,Green Gram (Moong),Muradabad,2016-05-23,9170.0,2.9,29.4,clear
+586,Lentil(Masur),Muradabad,2016-05-23,7125.0,4.5,29.4,clear
+587,Bengal Gram(Gram),Muradabad,2016-05-25,5725.0,5.0,33.2,clear
+588,Black Gram (Urd Beans),Muradabad,2016-05-25,10300.0,4.0,33.2,clear
+589,Green Gram (Moong),Muradabad,2016-05-25,9175.0,4.0,33.2,clear
+590,Lentil(Masur),Muradabad,2016-05-25,7100.0,5.0,33.2,clear
+591,Bengal Gram(Gram),Muradabad,2016-05-26,5730.0,4.0,34.0,clear
+592,Bengal Gram(Gram),Sambhal,2016-05-26,5660.0,0.8,34.0,clear
+593,Black Gram (Urd Beans),Muradabad,2016-05-26,10400.0,2.8,34.0,clear
+594,Green Gram (Moong),Muradabad,2016-05-26,9180.0,5.0,34.0,clear
+595,Lentil(Masur),Muradabad,2016-05-26,7120.0,4.5,34.0,clear
+596,Bengal Gram(Gram),Muradabad,2016-05-27,5750.0,3.5,34.1,clear
+597,Black Gram (Urd Beans),Muradabad,2016-05-27,10500.0,2.5,34.1,clear
+598,Green Gram (Moong),Muradabad,2016-05-27,9200.0,4.5,34.1,clear
+599,Lentil(Masur),Muradabad,2016-05-27,7150.0,4.0,34.1,clear
+600,Bengal Gram(Gram),Muradabad,2016-05-29,5800.0,3.5,27.8,clear
+601,Black Gram (Urd Beans),Muradabad,2016-05-29,10500.0,3.5,27.8,clear
+602,Green Gram (Moong),Muradabad,2016-05-29,9300.0,3.5,27.8,clear
+603,Lentil(Masur),Muradabad,2016-05-29,7150.0,3.0,27.8,clear
+604,Bengal Gram(Gram),Muradabad,2016-05-30,5800.0,4.2,29.8,clear
+605,Black Gram (Urd Beans),Muradabad,2016-05-30,10500.0,4.0,29.8,clear
+606,Green Gram (Moong),Muradabad,2016-05-30,9250.0,4.0,29.8,clear
+607,Lentil(Masur),Muradabad,2016-05-30,7200.0,2.5,29.8,clear
+608,Bengal Gram(Gram),Muradabad,2016-01-06,5780.0,4.5,19.8,clear
+609,Bengal Gram(Gram),Sambhal,2016-01-06,5700.0,0.6,19.8,clear
+610,Black Gram (Urd Beans),Muradabad,2016-01-06,10550.0,4.5,19.8,clear
+611,Green Gram (Moong),Muradabad,2016-01-06,9260.0,4.5,19.8,clear
+612,Lentil(Masur),Muradabad,2016-01-06,7250.0,3.0,19.8,clear
+613,Bengal Gram(Gram),Muradabad,2016-02-06,5775.0,5.0,21.0,clear
+614,Bengal Gram(Gram),Sambhal,2016-02-06,5700.0,0.5,21.0,clear
+615,Black Gram (Urd Beans),Muradabad,2016-02-06,10600.0,3.5,21.0,clear
+616,Green Gram (Moong),Muradabad,2016-02-06,9250.0,6.2,21.0,clear
+617,Lentil(Masur),Muradabad,2016-02-06,7250.0,5.0,21.0,clear
+618,Bengal Gram(Gram),Muradabad,2016-03-06,5780.0,4.5,28.2,clear
+619,Bengal Gram(Gram),Sambhal,2016-03-06,5700.0,0.8,28.2,clear
+620,Black Gram (Urd Beans),Muradabad,2016-03-06,10600.0,5.0,28.2,clear
+621,Green Gram (Moong),Muradabad,2016-03-06,9270.0,5.0,28.2,clear
+622,Lentil(Masur),Muradabad,2016-03-06,7275.0,4.0,28.2,clear
+623,Bengal Gram(Gram),Muradabad,2016-04-06,5785.0,5.0,31.4,clear
+624,Black Gram (Urd Beans),Muradabad,2016-04-06,10700.0,4.0,31.4,clear
+625,Green Gram (Moong),Muradabad,2016-04-06,9275.0,4.8,31.4,clear
+626,Lentil(Masur),Muradabad,2016-04-06,7280.0,5.0,31.4,clear
+627,Bengal Gram(Gram),Muradabad,2016-05-06,5770.0,5.0,31.8,clear
+628,Black Gram (Urd Beans),Muradabad,2016-05-06,10700.0,4.5,31.8,clear
+629,Green Gram (Moong),Muradabad,2016-05-06,9280.0,4.5,31.8,clear
+630,Lentil(Masur),Muradabad,2016-05-06,7280.0,3.5,31.8,clear
+631,Bengal Gram(Gram),Muradabad,2016-06-06,5775.0,4.0,33.8,clear
+632,Black Gram (Urd Beans),Muradabad,2016-06-06,10850.0,5.0,33.8,clear
+633,Green Gram (Moong),Muradabad,2016-06-06,9270.0,3.0,33.8,clear
+634,Lentil(Masur),Muradabad,2016-06-06,7310.0,4.0,33.8,clear
+635,Bengal Gram(Gram),Muradabad,2016-08-06,5770.0,4.0,31.4,clear
+636,Bengal Gram(Gram),Sambhal,2016-08-06,5750.0,0.8,31.4,clear
+637,Black Gram (Urd Beans),Muradabad,2016-08-06,10825.0,8.0,31.4,clear
+638,Green Gram (Moong),Muradabad,2016-08-06,9300.0,4.0,31.4,clear
+639,Lentil(Masur),Muradabad,2016-08-06,7320.0,3.0,31.4,clear
+640,Bengal Gram(Gram),Muradabad,2016-09-06,5775.0,6.0,31.6,clear
+641,Bengal Gram(Gram),Sambhal,2016-09-06,5850.0,0.5,31.6,clear
+642,Black Gram (Urd Beans),Muradabad,2016-09-06,10850.0,3.5,31.6,clear
+643,Green Gram (Moong),Muradabad,2016-09-06,9300.0,3.2,31.6,clear
+644,Lentil(Masur),Muradabad,2016-09-06,7325.0,4.0,31.6,clear
+645,Bengal Gram(Gram),Muradabad,2016-10-06,5780.0,5.5,28.8,clear
+646,Bengal Gram(Gram),Sambhal,2016-10-06,5850.0,1.0,28.8,clear
+647,Black Gram (Urd Beans),Muradabad,2016-10-06,10800.0,4.0,28.8,clear
+648,Green Gram (Moong),Muradabad,2016-10-06,9350.0,3.0,28.8,clear
+649,Lentil(Masur),Muradabad,2016-10-06,7350.0,3.5,28.8,clear
+650,Bengal Gram(Gram),Muradabad,2016-06-16,5850.0,4.0,30.0,clear
+651,Bengal Gram(Gram),Sambhal,2016-06-16,6000.0,0.5,30.0,clear
+652,Black Gram (Urd Beans),Muradabad,2016-06-16,11050.0,6.0,30.0,clear
+653,Green Gram (Moong),Muradabad,2016-06-16,9000.0,5.0,30.0,clear
+654,Lentil(Masur),Muradabad,2016-06-16,7350.0,4.6,30.0,clear
+655,Bengal Gram(Gram),Muradabad,2016-06-17,5900.0,3.5,32.4,clear
+656,Bengal Gram(Gram),Sambhal,2016-06-17,6000.0,1.0,32.4,clear
+657,Black Gram (Urd Beans),Muradabad,2016-06-17,11050.0,5.0,32.4,clear
+658,Green Gram (Moong),Muradabad,2016-06-17,9020.0,4.5,32.4,clear
+659,Lentil(Masur),Muradabad,2016-06-17,7325.0,4.0,32.4,clear
+660,Bengal Gram(Gram),Muradabad,2016-06-18,6100.0,3.0,33.0,clear
+661,Bengal Gram(Gram),Sambhal,2016-06-18,6000.0,0.6,33.0,clear
+662,Black Gram (Urd Beans),Muradabad,2016-06-18,11200.0,4.0,33.0,clear
+663,Green Gram (Moong),Muradabad,2016-06-18,8825.0,3.6,33.0,clear
+664,Lentil(Masur),Muradabad,2016-06-18,7330.0,3.6,33.0,clear
+665,Bengal Gram(Gram),Muradabad,2016-06-19,6100.0,3.5,34.0,clear
+666,Bengal Gram(Gram),Sambhal,2016-06-19,6000.0,0.6,34.0,clear
+667,Black Gram (Urd Beans),Muradabad,2016-06-19,11200.0,4.5,34.0,clear
+668,Green Gram (Moong),Muradabad,2016-06-19,8800.0,3.8,34.0,clear
+669,Lentil(Masur),Muradabad,2016-06-19,7300.0,3.7,34.0,clear
+670,Bengal Gram(Gram),Muradabad,2016-06-20,6150.0,3.4,32.0,clear
+671,Black Gram (Urd Beans),Muradabad,2016-06-20,11200.0,3.5,32.0,clear
+672,Green Gram (Moong),Muradabad,2016-06-20,8775.0,4.0,32.0,clear
+673,Lentil(Masur),Muradabad,2016-06-20,7310.0,3.8,32.0,clear
+674,Bengal Gram(Gram),Muradabad,2016-06-22,6150.0,5.5,31.4,rain
+675,Bengal Gram(Gram),Sambhal,2016-06-22,6025.0,0.5,31.4,rain
+676,Black Gram (Urd Beans),Muradabad,2016-06-22,11200.0,5.0,31.4,rain
+677,Green Gram (Moong),Muradabad,2016-06-22,8800.0,3.0,31.4,rain
+678,Lentil(Masur),Muradabad,2016-06-22,7320.0,4.0,31.4,rain
+679,Bengal Gram(Gram),Muradabad,2016-06-23,6175.0,5.0,34.0,clear
+680,Bengal Gram(Gram),Sambhal,2016-06-23,6025.0,0.6,34.0,clear
+681,Black Gram (Urd Beans),Muradabad,2016-06-23,11100.0,4.0,34.0,clear
+682,Green Gram (Moong),Muradabad,2016-06-23,8825.0,2.5,34.0,clear
+683,Lentil(Masur),Muradabad,2016-06-23,7325.0,3.0,34.0,clear
+684,Bengal Gram(Gram),Muradabad,2016-06-24,6175.0,6.0,33.0,clear
+685,Bengal Gram(Gram),Sambhal,2016-06-24,6150.0,0.4,33.0,clear
+686,Black Gram (Urd Beans),Muradabad,2016-06-24,11100.0,4.5,33.0,clear
+687,Green Gram (Moong),Muradabad,2016-06-24,8850.0,2.0,33.0,clear
+688,Lentil(Masur),Muradabad,2016-06-24,7350.0,2.5,33.0,clear
+689,Bengal Gram(Gram),Muradabad,2016-06-26,6220.0,4.0,32.6,clear
+690,Bengal Gram(Gram),Sambhal,2016-06-26,6200.0,2.5,32.6,clear
+691,Black Gram (Urd Beans),Muradabad,2016-06-26,11000.0,4.0,32.6,clear
+692,Green Gram (Moong),Muradabad,2016-06-26,8850.0,3.2,32.6,clear
+693,Lentil(Masur),Muradabad,2016-06-26,7300.0,5.0,32.6,clear
+694,Bengal Gram(Gram),Muradabad,2016-06-27,6250.0,5.0,33.4,clear
+695,Black Gram (Urd Beans),Muradabad,2016-06-27,10800.0,4.6,33.4,clear
+696,Green Gram (Moong),Muradabad,2016-06-27,8825.0,4.0,33.4,clear
+697,Lentil(Masur),Muradabad,2016-06-27,7325.0,4.0,33.4,clear
+698,Bengal Gram(Gram),Muradabad,2016-06-29,6300.0,4.5,33.4,clear
+699,Bengal Gram(Gram),Sambhal,2016-06-29,6200.0,2.0,33.4,clear
+700,Black Gram (Urd Beans),Muradabad,2016-06-29,10750.0,5.0,33.4,clear
+701,Green Gram (Moong),Muradabad,2016-06-29,8850.0,3.0,33.4,clear
+702,Lentil(Masur),Muradabad,2016-06-29,7350.0,4.5,33.4,clear
+703,Bengal Gram(Gram),Muradabad,2016-06-30,6350.0,6.0,31.4,clear
+704,Bengal Gram(Gram),Sambhal,2016-06-30,6350.0,1.0,31.4,clear
+705,Black Gram (Urd Beans),Muradabad,2016-06-30,10700.0,6.0,31.4,clear
+706,Green Gram (Moong),Muradabad,2016-06-30,8830.0,4.2,31.4,clear
+707,Lentil(Masur),Muradabad,2016-06-30,7400.0,3.0,31.4,clear
+708,Bengal Gram(Gram),Muradabad,2016-01-07,6400.0,5.0,19.6,clear
+709,Bengal Gram(Gram),Sambhal,2016-01-07,6500.0,1.0,19.6,clear
+710,Black Gram (Urd Beans),Muradabad,2016-01-07,10650.0,6.5,19.6,clear
+711,Green Gram (Moong),Muradabad,2016-01-07,8840.0,4.5,19.6,clear
+712,Lentil(Masur),Muradabad,2016-01-07,7400.0,3.5,19.6,clear
+713,Bengal Gram(Gram),Muradabad,2016-02-07,6400.0,8.0,19.6,rain
+714,Bengal Gram(Gram),Sambhal,2016-02-07,6500.0,1.0,19.6,rain
+715,Black Gram (Urd Beans),Muradabad,2016-02-07,10600.0,5.0,19.6,rain
+716,Green Gram (Moong),Muradabad,2016-02-07,8845.0,3.6,19.6,rain
+717,Lentil(Masur),Muradabad,2016-02-07,7375.0,4.8,19.6,rain
+718,Bengal Gram(Gram),Muradabad,2016-03-07,6420.0,7.0,29.0,clear
+719,Bengal Gram(Gram),Sambhal,2016-03-07,6500.0,0.8,29.0,clear
+720,Black Gram (Urd Beans),Muradabad,2016-03-07,10700.0,2.5,29.0,clear
+721,Green Gram (Moong),Muradabad,2016-03-07,8830.0,4.1,29.0,clear
+722,Lentil(Masur),Muradabad,2016-03-07,7200.0,6.0,29.0,clear
+723,Bengal Gram(Gram),Muradabad,2016-04-07,6425.0,5.0,32.8,clear
+724,Green Gram (Moong),Muradabad,2016-04-07,8840.0,3.6,32.8,clear
+725,Lentil(Masur),Muradabad,2016-04-07,7150.0,7.0,32.8,clear
+726,Bengal Gram(Gram),Muradabad,2016-06-07,6450.0,7.0,32.2,clear
+727,Bengal Gram(Gram),Sambhal,2016-06-07,6550.0,0.4,32.2,clear
+728,Black Gram (Urd Beans),Muradabad,2016-06-07,10700.0,5.0,32.2,clear
+729,Green Gram (Moong),Muradabad,2016-06-07,8825.0,5.0,32.2,clear
+730,Lentil(Masur),Muradabad,2016-06-07,7100.0,8.0,32.2,clear
+731,Bengal Gram(Gram),Muradabad,2016-09-07,6600.0,3.6,31.4,clear
+732,Black Gram (Urd Beans),Muradabad,2016-09-07,10750.0,5.0,31.4,clear
+733,Green Gram (Moong),Muradabad,2016-09-07,8830.0,5.0,31.4,clear
+734,Lentil(Masur),Muradabad,2016-09-07,7175.0,6.0,31.4,clear
+735,Bengal Gram(Gram),Muradabad,2016-10-07,6650.0,5.0,30.0,clear
+736,Black Gram (Urd Beans),Muradabad,2016-10-07,10700.0,4.2,30.0,clear
+737,Green Gram (Moong),Muradabad,2016-10-07,8820.0,6.0,30.0,clear
+738,Lentil(Masur),Muradabad,2016-10-07,7200.0,4.8,30.0,clear
+739,Bengal Gram(Gram),Muradabad,2016-11-07,6700.0,4.0,24.8,clear
+740,Black Gram (Urd Beans),Muradabad,2016-11-07,10600.0,3.2,24.8,clear
+741,Green Gram (Moong),Muradabad,2016-11-07,8815.0,4.0,24.8,clear
+742,Lentil(Masur),Muradabad,2016-11-07,7200.0,3.0,24.8,clear
+743,Bengal Gram(Gram),Muradabad,2016-07-13,6740.0,5.0,32.6,clear
+744,Bengal Gram(Gram),Sambhal,2016-07-13,6600.0,0.8,32.6,clear
+745,Black Gram (Urd Beans),Muradabad,2016-07-13,10700.0,2.8,32.6,clear
+746,Green Gram (Moong),Muradabad,2016-07-13,8840.0,2.0,32.6,clear
+747,Lentil(Masur),Muradabad,2016-07-13,7180.0,8.0,32.6,clear
+748,Bengal Gram(Gram),Muradabad,2016-07-14,6775.0,4.0,30.6,clear
+749,Bengal Gram(Gram),Sambhal,2016-07-14,6600.0,1.5,30.6,clear
+750,Black Gram (Urd Beans),Muradabad,2016-07-14,10750.0,2.0,30.6,clear
+751,Green Gram (Moong),Muradabad,2016-07-14,8850.0,4.0,30.6,clear
+752,Lentil(Masur),Muradabad,2016-07-14,7175.0,4.5,30.6,clear
+753,Bengal Gram(Gram),Muradabad,2016-07-15,6780.0,3.5,31.0,clear
+754,Bengal Gram(Gram),Sambhal,2016-07-15,7000.0,0.4,31.0,clear
+755,Black Gram (Urd Beans),Muradabad,2016-07-15,10700.0,2.5,31.0,clear
+756,Green Gram (Moong),Muradabad,2016-07-15,8860.0,3.5,31.0,clear
+757,Lentil(Masur),Muradabad,2016-07-15,7170.0,4.0,31.0,clear
+758,Bengal Gram(Gram),Muradabad,2016-07-16,7000.0,2.5,27.6,clear
+759,Bengal Gram(Gram),Sambhal,2016-07-16,7000.0,0.8,27.6,clear
+760,Black Gram (Urd Beans),Muradabad,2016-07-16,10600.0,4.2,27.6,clear
+761,Green Gram (Moong),Muradabad,2016-07-16,8850.0,3.0,27.6,clear
+762,Lentil(Masur),Muradabad,2016-07-16,7200.0,3.0,27.6,clear
+763,Bengal Gram(Gram),Muradabad,2016-07-17,7050.0,4.1,28.6,clear
+764,Bengal Gram(Gram),Sambhal,2016-07-17,7000.0,0.6,28.6,clear
+765,Black Gram (Urd Beans),Muradabad,2016-07-17,10800.0,3.4,28.6,clear
+766,Green Gram (Moong),Muradabad,2016-07-17,8860.0,4.1,28.6,clear
+767,Lentil(Masur),Muradabad,2016-07-17,7200.0,5.0,28.6,clear
+768,Bengal Gram(Gram),Muradabad,2016-07-18,7060.0,3.0,28.8,clear
+769,Black Gram (Urd Beans),Muradabad,2016-07-18,10700.0,3.2,28.8,clear
+770,Green Gram (Moong),Muradabad,2016-07-18,8875.0,2.5,28.8,clear
+771,Lentil(Masur),Muradabad,2016-07-18,7180.0,6.5,28.8,clear
+772,Bengal Gram(Gram),Muradabad,2016-07-20,7680.0,4.0,33.0,clear
+773,Bengal Gram(Gram),Sambhal,2016-07-20,7600.0,0.7,33.0,clear
+774,Black Gram (Urd Beans),Muradabad,2016-07-20,10800.0,2.5,33.0,clear
+775,Green Gram (Moong),Muradabad,2016-07-20,8870.0,6.0,33.0,clear
+776,Lentil(Masur),Muradabad,2016-07-20,7175.0,5.0,33.0,clear
+777,Bengal Gram(Gram),Muradabad,2016-07-21,8000.0,2.5,31.0,clear
+778,Bengal Gram(Gram),Sambhal,2016-07-21,7850.0,0.4,31.0,clear
+779,Black Gram (Urd Beans),Muradabad,2016-07-21,10600.0,4.2,31.0,clear
+780,Green Gram (Moong),Muradabad,2016-07-21,8875.0,3.5,31.0,clear
+781,Lentil(Masur),Muradabad,2016-07-21,7200.0,4.2,31.0,clear
+782,Bengal Gram(Gram),Muradabad,2016-07-23,8200.0,2.5,29.0,clear
+783,Bengal Gram(Gram),Sambhal,2016-07-23,7900.0,0.8,29.0,clear
+784,Green Gram (Moong),Muradabad,2016-07-23,8700.0,3.0,29.0,clear
+785,Lentil(Masur),Muradabad,2016-07-23,7250.0,2.5,29.0,clear
+786,Bengal Gram(Gram),Muradabad,2016-07-24,8250.0,2.6,33.6,clear
+787,Bengal Gram(Gram),Sambhal,2016-07-24,7950.0,0.4,33.6,clear
+788,Black Gram (Urd Beans),Muradabad,2016-07-24,10800.0,1.8,33.6,clear
+789,Green Gram (Moong),Muradabad,2016-07-24,8650.0,3.2,33.6,clear
+790,Lentil(Masur),Muradabad,2016-07-24,7250.0,3.6,33.6,clear
+791,Bengal Gram(Gram),Muradabad,2016-07-25,8300.0,2.0,31.8,clear
+792,Black Gram (Urd Beans),Muradabad,2016-07-25,10800.0,1.5,31.8,clear
+793,Green Gram (Moong),Muradabad,2016-07-25,8600.0,3.5,31.8,clear
+794,Lentil(Masur),Muradabad,2016-07-25,7240.0,3.0,31.8,clear
+795,Bengal Gram(Gram),Muradabad,2016-07-27,8350.0,4.0,31.8,clear
+796,Bengal Gram(Gram),Sambhal,2016-07-27,8200.0,0.2,31.8,clear
+797,Black Gram (Urd Beans),Muradabad,2016-07-27,10850.0,2.0,31.8,clear
+798,Green Gram (Moong),Muradabad,2016-07-27,8580.0,4.5,31.8,clear
+799,Lentil(Masur),Muradabad,2016-07-27,7230.0,5.0,31.8,clear
+800,Bengal Gram(Gram),Muradabad,2016-07-28,8400.0,3.0,31.6,clear
+801,Black Gram (Urd Beans),Bhehjoi,2016-07-28,10700.0,11.0,31.6,clear
+802,Black Gram (Urd Beans),Muradabad,2016-07-28,10800.0,4.5,31.6,clear
+803,Green Gram (Moong),Muradabad,2016-07-28,8550.0,6.0,31.6,clear
+804,Lentil(Masur),Muradabad,2016-07-28,7225.0,4.5,31.6,clear
+805,Bengal Gram(Gram),Muradabad,2016-07-30,8400.0,3.5,31.2,clear
+806,Bengal Gram(Gram),Sambhal,2016-07-30,8250.0,0.4,31.2,clear
+807,Black Gram (Urd Beans),Muradabad,2016-07-30,10800.0,5.0,31.2,clear
+808,Bengal Gram(Gram),Muradabad,2016-05-08,8650.0,5.0,30.4,clear
+809,Bengal Gram(Gram),Sambhal,2016-05-08,8300.0,0.4,30.4,clear
+810,Black Gram (Urd Beans),Muradabad,2016-05-08,10950.0,5.0,30.4,clear
+811,Green Gram (Moong),Muradabad,2016-05-08,8600.0,5.0,30.4,clear
+812,Lentil(Masur),Muradabad,2016-05-08,7250.0,5.0,30.4,clear
+813,Bengal Gram(Gram),Muradabad,2016-06-08,8700.0,3.0,33.6,clear
+814,Bengal Gram(Gram),Sambhal,2016-06-08,8300.0,0.8,33.6,clear
+815,Black Gram (Urd Beans),Muradabad,2016-06-08,10900.0,3.0,33.6,clear
+816,Green Gram (Moong),Muradabad,2016-06-08,8550.0,4.2,33.6,clear
+817,Lentil(Masur),Muradabad,2016-06-08,7260.0,4.8,33.6,clear
+818,Bengal Gram(Gram),Muradabad,2016-07-08,8700.0,8.0,30.4,clear
+819,Bengal Gram(Gram),Sambhal,2016-07-08,8300.0,0.5,30.4,clear
+820,Black Gram (Urd Beans),Muradabad,2016-07-08,10950.0,2.5,30.4,clear
+821,Green Gram (Moong),Muradabad,2016-07-08,8520.0,6.0,30.4,clear
+822,Lentil(Masur),Muradabad,2016-07-08,7250.0,6.0,30.4,clear
+823,Bengal Gram(Gram),Muradabad,2016-08-08,8710.0,5.0,32.4,clear
+824,Black Gram (Urd Beans),Muradabad,2016-08-08,10900.0,5.0,32.4,clear
+825,Green Gram (Moong),Muradabad,2016-08-08,8525.0,5.0,32.4,clear
+826,Lentil(Masur),Muradabad,2016-08-08,7250.0,4.0,32.4,clear
+827,Bengal Gram(Gram),Muradabad,2016-10-08,8680.0,6.5,29.6,clear
+828,Bengal Gram(Gram),Sambhal,2016-10-08,8350.0,0.7,29.6,clear
+829,Black Gram (Urd Beans),Muradabad,2016-10-08,10880.0,7.0,29.6,clear
+830,Bengal Gram(Gram),Muradabad,2016-08-20,8820.0,4.0,32.4,clear
+831,Bengal Gram(Gram),Sambhal,2016-08-20,8500.0,0.4,32.4,clear
+832,Black Gram (Urd Beans),Muradabad,2016-08-20,12400.0,6.0,32.4,clear
+833,Green Gram (Moong),Muradabad,2016-08-20,8540.0,5.0,32.4,clear
+834,Lentil(Masur),Muradabad,2016-08-20,7260.0,3.0,32.4,clear
+835,Bengal Gram(Gram),Muradabad,2016-08-22,8850.0,4.0,32.4,rain
+836,Black Gram (Urd Beans),Muradabad,2016-08-22,9900.0,5.0,32.4,rain
+837,Green Gram (Moong),Muradabad,2016-08-22,8530.0,5.0,32.4,rain
+838,Lentil(Masur),Muradabad,2016-08-22,7250.0,6.0,32.4,rain
+839,Bengal Gram(Gram),Muradabad,2016-08-24,8860.0,6.0,32.0,clear
+840,Black Gram (Urd Beans),Muradabad,2016-08-24,9875.0,6.0,32.0,clear
+841,Green Gram (Moong),Muradabad,2016-08-24,8540.0,3.0,32.0,clear
+842,Lentil(Masur),Muradabad,2016-08-24,7240.0,8.0,32.0,clear
+843,Bengal Gram(Gram),Muradabad,2016-08-27,8850.0,6.0,34.4,clear
+844,Black Gram (Urd Beans),Muradabad,2016-08-27,10650.0,6.0,34.4,clear
+845,Green Gram (Moong),Muradabad,2016-08-27,8550.0,5.0,34.4,clear
+846,Lentil(Masur),Muradabad,2016-08-27,7200.0,8.5,34.4,clear
+847,Bengal Gram(Gram),Muradabad,2016-08-31,8860.0,5.0,29.0,clear
+848,Black Gram (Urd Beans),Muradabad,2016-08-31,10750.0,4.0,29.0,clear
+849,Green Gram (Moong),Muradabad,2016-08-31,8580.0,4.5,29.0,clear
+850,Lentil(Masur),Muradabad,2016-08-31,7250.0,7.0,29.0,clear
+851,Bengal Gram(Gram),Muradabad,2016-01-09,8900.0,6.0,19.6,clear
+852,Bengal Gram(Gram),Sambhal,2016-01-09,8500.0,0.6,19.6,clear
+853,Green Gram (Moong),Muradabad,2016-01-09,8500.0,6.0,19.6,clear
+854,Lentil(Masur),Muradabad,2016-01-09,7300.0,6.0,19.6,clear
+855,Bengal Gram(Gram),Muradabad,2016-03-09,8900.0,6.0,26.8,clear
+856,Bengal Gram(Gram),Sambhal,2016-03-09,8500.0,0.4,26.8,clear
+857,Black Gram (Urd Beans),Muradabad,2016-03-09,10200.0,5.0,26.8,clear
+858,Green Gram (Moong),Muradabad,2016-03-09,8520.0,4.0,26.8,clear
+859,Lentil(Masur),Muradabad,2016-03-09,7370.0,4.5,26.8,clear
+860,Bengal Gram(Gram),Muradabad,2016-05-09,9000.0,6.0,33.8,clear
+861,Black Gram (Urd Beans),Muradabad,2016-05-09,10000.0,3.0,33.8,clear
+862,Green Gram (Moong),Muradabad,2016-05-09,8550.0,3.0,33.8,clear
+863,Lentil(Masur),Muradabad,2016-05-09,7340.0,7.0,33.8,clear
+864,Bengal Gram(Gram),Muradabad,2016-09-09,8700.0,6.5,31.2,clear
+865,Black Gram (Urd Beans),Muradabad,2016-09-09,9800.0,5.0,31.2,clear
+866,Green Gram (Moong),Muradabad,2016-09-09,8550.0,4.0,31.2,clear
+867,Lentil(Masur),Muradabad,2016-09-09,7280.0,7.5,31.2,clear
+868,Bengal Gram(Gram),Muradabad,2016-10-09,8800.0,5.0,29.4,clear
+869,Black Gram (Urd Beans),Muradabad,2016-10-09,9750.0,6.0,29.4,clear
+870,Green Gram (Moong),Muradabad,2016-10-09,8560.0,3.0,29.4,clear
+871,Lentil(Masur),Muradabad,2016-10-09,7275.0,6.0,29.4,clear
+872,Bengal Gram(Gram),Muradabad,2016-12-09,8830.0,3.6,15.2,clear
+873,Black Gram (Urd Beans),Muradabad,2016-12-09,9825.0,3.0,15.2,clear
+874,Green Gram (Moong),Muradabad,2016-12-09,8545.0,4.0,15.2,clear
+875,Lentil(Masur),Muradabad,2016-12-09,7240.0,6.5,15.2,clear
+876,Bengal Gram(Gram),Muradabad,2016-09-15,8700.0,6.0,30.0,rain
+877,Black Gram (Urd Beans),Muradabad,2016-09-15,9825.0,3.2,30.0,rain
+878,Green Gram (Moong),Muradabad,2016-09-15,8520.0,4.8,30.0,rain
+879,Lentil(Masur),Muradabad,2016-09-15,7240.0,6.0,30.0,rain
+880,Bengal Gram(Gram),Muradabad,2016-09-16,8600.0,6.5,31.8,clear
+881,Black Gram (Urd Beans),Muradabad,2016-09-16,9800.0,4.0,31.8,clear
+882,Green Gram (Moong),Muradabad,2016-09-16,8500.0,5.0,31.8,clear
+883,Lentil(Masur),Muradabad,2016-09-16,7200.0,6.5,31.8,clear
+884,Bengal Gram(Gram),Muradabad,2016-09-17,8450.0,8.0,32.2,clear
+885,Black Gram (Urd Beans),Muradabad,2016-09-17,9500.0,6.0,32.2,clear
+886,Green Gram (Moong),Muradabad,2016-09-17,8500.0,4.0,32.2,clear
+887,Lentil(Masur),Muradabad,2016-09-17,7000.0,8.0,32.2,clear
+888,Bengal Gram(Gram),Muradabad,2016-09-18,8400.0,6.0,31.2,clear
+889,Black Gram (Urd Beans),Muradabad,2016-09-18,9510.0,4.2,31.2,clear
+890,Green Gram (Moong),Muradabad,2016-09-18,8520.0,3.0,31.2,clear
+891,Lentil(Masur),Muradabad,2016-09-18,6950.0,5.0,31.2,clear
+892,Bengal Gram(Gram),Muradabad,2016-09-19,8375.0,7.0,31.4,clear
+893,Black Gram (Urd Beans),Muradabad,2016-09-19,9500.0,3.0,31.4,clear
+894,Green Gram (Moong),Muradabad,2016-09-19,8510.0,4.0,31.4,clear
+895,Lentil(Masur),Muradabad,2016-09-19,6925.0,6.0,31.4,clear
+896,Bengal Gram(Gram),Muradabad,2016-09-22,8400.0,5.0,27.6,clear
+897,Black Gram (Urd Beans),Muradabad,2016-09-22,9550.0,4.2,27.6,clear
+898,Green Gram (Moong),Muradabad,2016-09-22,8525.0,3.2,27.6,clear
+899,Lentil(Masur),Muradabad,2016-09-22,7050.0,4.0,27.6,clear
+900,Bengal Gram(Gram),Muradabad,2016-09-24,8500.0,4.5,30.2,clear
+901,Black Gram (Urd Beans),Muradabad,2016-09-24,9550.0,4.5,30.2,clear
+902,Green Gram (Moong),Muradabad,2016-09-24,8540.0,2.1,30.2,clear
+903,Lentil(Masur),Muradabad,2016-09-24,7075.0,5.0,30.2,clear
+904,Bengal Gram(Gram),Muradabad,2016-09-26,8000.0,5.0,30.2,clear
+905,Black Gram (Urd Beans),Muradabad,2016-09-26,9500.0,3.0,30.2,clear
+906,Green Gram (Moong),Muradabad,2016-09-26,8475.0,2.5,30.2,clear
+907,Lentil(Masur),Muradabad,2016-09-26,7000.0,3.0,30.2,clear
+908,Bengal Gram(Gram),Muradabad,2016-09-28,8000.0,5.5,30.2,clear
+909,Black Gram (Urd Beans),Muradabad,2016-09-28,9550.0,3.5,30.2,clear
+910,Green Gram (Moong),Muradabad,2016-09-28,8450.0,3.0,30.2,clear
+911,Lentil(Masur),Muradabad,2016-09-28,7000.0,3.5,30.2,clear
+912,Bengal Gram(Gram),Muradabad,2016-09-29,8050.0,5.0,31.0,clear
+913,Black Gram (Urd Beans),Muradabad,2016-09-29,9560.0,4.0,31.0,clear
+914,Green Gram (Moong),Muradabad,2016-09-29,8460.0,3.5,31.0,clear
+915,Lentil(Masur),Muradabad,2016-09-29,7000.0,4.0,31.0,clear
+916,Bengal Gram(Gram),Muradabad,2016-09-30,8000.0,6.0,31.2,clear
+917,Black Gram (Urd Beans),Muradabad,2016-09-30,9550.0,4.5,31.2,clear
+918,Green Gram (Moong),Muradabad,2016-09-30,8450.0,4.0,31.2,clear
+919,Lentil(Masur),Muradabad,2016-09-30,7020.0,3.5,31.2,clear
+920,Bengal Gram(Gram),Muradabad,2016-01-10,8025.0,5.0,19.2,clear
+921,Black Gram (Urd Beans),Muradabad,2016-01-10,9580.0,4.0,19.2,clear
+922,Green Gram (Moong),Muradabad,2016-01-10,8500.0,3.5,19.2,clear
+923,Lentil(Masur),Chandausi,2016-01-10,7050.0,1.0,19.2,clear
+924,Lentil(Masur),Muradabad,2016-01-10,7050.0,3.0,19.2,clear
+925,Bengal Gram(Gram),Muradabad,2016-03-10,8050.0,4.5,27.8,clear
+926,Black Gram (Urd Beans),Muradabad,2016-03-10,9600.0,5.0,27.8,clear
+927,Green Gram (Moong),Muradabad,2016-03-10,8475.0,6.0,27.8,clear
+928,Lentil(Masur),Muradabad,2016-03-10,7000.0,7.2,27.8,clear
+929,Bengal Gram(Gram),Muradabad,2016-05-10,8000.0,5.0,31.4,clear
+930,Black Gram (Urd Beans),Muradabad,2016-05-10,9700.0,4.0,31.4,clear
+931,Green Gram (Moong),Muradabad,2016-05-10,8450.0,6.5,31.4,clear
+932,Lentil(Masur),Muradabad,2016-05-10,7025.0,7.0,31.4,clear
+933,Bengal Gram(Gram),Muradabad,2016-06-10,8050.0,4.5,34.4,clear
+934,Black Gram (Urd Beans),Muradabad,2016-06-10,9600.0,4.5,34.4,clear
+935,Green Gram (Moong),Muradabad,2016-06-10,8500.0,6.0,34.4,clear
+936,Lentil(Masur),Chandausi,2016-06-10,7045.0,0.8,34.4,clear
+937,Lentil(Masur),Muradabad,2016-06-10,7000.0,7.5,34.4,clear
+938,Bengal Gram(Gram),Muradabad,2016-07-10,8050.0,4.5,31.2,clear
+939,Black Gram (Urd Beans),Muradabad,2016-07-10,9600.0,4.5,31.2,clear
+940,Green Gram (Moong),Muradabad,2016-07-10,8500.0,6.0,31.2,clear
+941,Lentil(Masur),Muradabad,2016-07-10,7000.0,6.5,31.2,clear
+942,Bengal Gram(Gram),Muradabad,2016-08-10,8000.0,5.4,29.8,clear
+943,Black Gram (Urd Beans),Muradabad,2016-08-10,9625.0,4.2,29.8,clear
+944,Green Gram (Moong),Muradabad,2016-08-10,8480.0,4.8,29.8,clear
+945,Lentil(Masur),Muradabad,2016-08-10,6975.0,8.0,29.8,clear
+946,Bengal Gram(Gram),Muradabad,2016-10-10,7940.0,6.0,30.2,clear
+947,Black Gram (Urd Beans),Muradabad,2016-10-10,9600.0,4.0,30.2,clear
+948,Green Gram (Moong),Muradabad,2016-10-10,8450.0,6.0,30.2,clear
+949,Lentil(Masur),Muradabad,2016-10-10,6925.0,4.8,30.2,clear
+950,Bengal Gram(Gram),Muradabad,2016-12-10,7950.0,6.5,17.6,clear
+951,Black Gram (Urd Beans),Muradabad,2016-12-10,9620.0,3.0,17.6,clear
+952,Green Gram (Moong),Muradabad,2016-12-10,8500.0,4.8,17.6,clear
+953,Lentil(Masur),Muradabad,2016-12-10,6900.0,6.0,17.6,clear
+954,Bengal Gram(Gram),Muradabad,2016-10-13,7975.0,6.0,28.8,clear
+955,Black Gram (Urd Beans),Muradabad,2016-10-13,9600.0,4.0,28.8,clear
+956,Green Gram (Moong),Muradabad,2016-10-13,8480.0,4.2,28.8,clear
+957,Lentil(Masur),Muradabad,2016-10-13,6950.0,4.5,28.8,clear
+958,Bengal Gram(Gram),Muradabad,2016-10-14,7950.0,6.5,30.0,clear
+959,Black Gram (Urd Beans),Muradabad,2016-10-14,9500.0,4.5,30.0,clear
+960,Green Gram (Moong),Muradabad,2016-10-14,8470.0,4.5,30.0,clear
+961,Lentil(Masur),Muradabad,2016-10-14,6900.0,5.0,30.0,clear
+962,Bengal Gram(Gram),Muradabad,2016-10-15,8000.0,4.0,29.4,clear
+963,Black Gram (Urd Beans),Muradabad,2016-10-15,9550.0,4.0,29.4,clear
+964,Green Gram (Moong),Muradabad,2016-10-15,8475.0,3.0,29.4,clear
+965,Lentil(Masur),Muradabad,2016-10-15,6950.0,3.5,29.4,clear
+966,Bengal Gram(Gram),Muradabad,2016-10-16,7950.0,6.5,29.2,clear
+967,Black Gram (Urd Beans),Muradabad,2016-10-16,9600.0,3.0,29.2,clear
+968,Green Gram (Moong),Muradabad,2016-10-16,8450.0,4.0,29.2,clear
+969,Lentil(Masur),Muradabad,2016-10-16,6900.0,8.0,29.2,clear
+970,Bengal Gram(Gram),Muradabad,2016-10-17,7960.0,7.0,29.0,clear
+971,Black Gram (Urd Beans),Muradabad,2016-10-17,9600.0,4.0,29.0,clear
+972,Green Gram (Moong),Muradabad,2016-10-17,8475.0,3.0,29.0,clear
+973,Lentil(Masur),Muradabad,2016-10-17,6900.0,4.0,29.0,clear
+974,Bengal Gram(Gram),Muradabad,2016-10-19,7950.0,8.0,29.0,clear
+975,Black Gram (Urd Beans),Muradabad,2016-10-19,9520.0,3.5,29.0,clear
+976,Green Gram (Moong),Muradabad,2016-10-19,8100.0,6.0,29.0,clear
+977,Lentil(Masur),Muradabad,2016-10-19,6875.0,6.0,29.0,clear
+978,Bengal Gram(Gram),Muradabad,2016-10-20,7900.0,6.0,27.6,clear
+979,Black Gram (Urd Beans),Muradabad,2016-10-20,9500.0,4.2,27.6,clear
+980,Green Gram (Moong),Muradabad,2016-10-20,8000.0,4.0,27.6,clear
+981,Lentil(Masur),Muradabad,2016-10-20,6850.0,4.0,27.6,clear
+982,Bengal Gram(Gram),Muradabad,2016-10-21,7900.0,6.5,27.0,clear
+983,Black Gram (Urd Beans),Muradabad,2016-10-21,9400.0,6.0,27.0,clear
+984,Green Gram (Moong),Muradabad,2016-10-21,8100.0,4.0,27.0,clear
+985,Lentil(Masur),Muradabad,2016-10-21,6900.0,3.5,27.0,clear
+986,Bengal Gram(Gram),Muradabad,2016-10-22,7800.0,7.0,26.0,clear
+987,Black Gram (Urd Beans),Muradabad,2016-10-22,9400.0,5.0,26.0,clear
+988,Green Gram (Moong),Muradabad,2016-10-22,8050.0,5.0,26.0,clear
+989,Lentil(Masur),Muradabad,2016-10-22,6850.0,4.0,26.0,clear
+990,Bengal Gram(Gram),Muradabad,2016-10-23,7850.0,6.5,27.0,clear
+991,Black Gram (Urd Beans),Muradabad,2016-10-23,9450.0,4.5,27.0,clear
+992,Green Gram (Moong),Muradabad,2016-10-23,8000.0,4.5,27.0,clear
+993,Lentil(Masur),Muradabad,2016-10-23,6800.0,4.5,27.0,clear
+994,Bengal Gram(Gram),Muradabad,2016-10-24,7900.0,6.5,26.4,clear
+995,Black Gram (Urd Beans),Muradabad,2016-10-24,9450.0,4.5,26.4,clear
+996,Green Gram (Moong),Muradabad,2016-10-24,8100.0,4.5,26.4,clear
+997,Lentil(Masur),Muradabad,2016-10-24,6800.0,5.0,26.4,clear
+998,Bengal Gram(Gram),Muradabad,2016-10-26,8100.0,4.0,27.8,clear
+999,Black Gram (Urd Beans),Muradabad,2016-10-26,9500.0,4.2,27.8,clear
+1000,Green Gram (Moong),Muradabad,2016-10-26,8150.0,3.0,27.8,clear
+1001,Lentil(Masur),Muradabad,2016-10-26,6850.0,6.0,27.8,clear
+1002,Bengal Gram(Gram),Muradabad,2016-10-27,8300.0,2.8,27.0,clear
+1003,Black Gram (Urd Beans),Muradabad,2016-10-27,9540.0,3.0,27.0,clear
+1004,Green Gram (Moong),Muradabad,2016-10-27,8100.0,5.0,27.0,clear
+1005,Lentil(Masur),Muradabad,2016-10-27,6825.0,8.4,27.0,clear
+1006,Bengal Gram(Gram),Muradabad,2016-10-28,8400.0,2.6,25.8,clear
+1007,Black Gram (Urd Beans),Muradabad,2016-10-28,9500.0,4.0,25.8,clear
+1008,Green Gram (Moong),Muradabad,2016-10-28,8150.0,6.0,25.8,clear
+1009,Lentil(Masur),Muradabad,2016-10-28,6850.0,8.0,25.8,clear
+1010,Bengal Gram(Gram),Muradabad,2016-10-29,8500.0,2.5,26.8,clear
+1011,Black Gram (Urd Beans),Muradabad,2016-10-29,9550.0,4.5,26.8,clear
+1012,Green Gram (Moong),Muradabad,2016-10-29,8160.0,6.0,26.8,clear
+1013,Lentil(Masur),Muradabad,2016-10-29,6900.0,7.0,26.8,clear
+1014,Bengal Gram(Gram),Muradabad,2016-10-30,8650.0,4.5,26.6,clear
+1015,Black Gram (Urd Beans),Muradabad,2016-10-30,9520.0,6.0,26.6,clear
+1016,Green Gram (Moong),Muradabad,2016-10-30,8140.0,4.8,26.6,clear
+1017,Lentil(Masur),Muradabad,2016-10-30,6925.0,6.5,26.6,clear
+1018,Bengal Gram(Gram),Muradabad,2016-10-31,8800.0,3.0,25.6,clear
+1019,Black Gram (Urd Beans),Muradabad,2016-10-31,9500.0,6.8,25.6,clear
+1020,Green Gram (Moong),Muradabad,2016-10-31,8100.0,5.0,25.6,clear
+1021,Lentil(Masur),Muradabad,2016-10-31,6900.0,7.0,25.6,clear
+1022,Bengal Gram(Gram),Muradabad,2016-02-11,8850.0,6.0,22.8,clear
+1023,Black Gram (Urd Beans),Muradabad,2016-02-11,9530.0,4.0,22.8,clear
+1024,Green Gram (Moong),Muradabad,2016-02-11,8140.0,3.0,22.8,clear
+1025,Lentil(Masur),Chandausi,2016-02-11,6665.0,0.8,22.8,clear
+1026,Lentil(Masur),Muradabad,2016-02-11,6880.0,5.0,22.8,clear
+1027,Bengal Gram(Gram),Muradabad,2016-03-11,8950.0,5.0,27.6,clear
+1028,Black Gram (Urd Beans),Muradabad,2016-03-11,9650.0,3.5,27.6,clear
+1029,Green Gram (Moong),Muradabad,2016-03-11,8000.0,4.0,27.6,clear
+1030,Lentil(Masur),Chandausi,2016-03-11,6650.0,1.2,27.6,clear
+1031,Lentil(Masur),Muradabad,2016-03-11,6850.0,6.0,27.6,clear
+1032,Bengal Gram(Gram),Muradabad,2016-04-11,9100.0,4.5,33.8,clear
+1033,Black Gram (Urd Beans),Muradabad,2016-04-11,9600.0,4.0,33.8,clear
+1034,Green Gram (Moong),Muradabad,2016-04-11,7900.0,4.5,33.8,clear
+1035,Lentil(Masur),Chandausi,2016-04-11,6630.0,1.8,33.8,clear
+1036,Lentil(Masur),Muradabad,2016-04-11,6800.0,5.0,33.8,clear
+1037,Bengal Gram(Gram),Muradabad,2016-05-11,9300.0,4.0,30.2,clear
+1038,Black Gram (Urd Beans),Muradabad,2016-05-11,9700.0,3.5,30.2,clear
+1039,Green Gram (Moong),Muradabad,2016-05-11,8000.0,6.0,30.2,clear
+1040,Lentil(Masur),Chandausi,2016-05-11,6610.0,1.6,30.2,clear
+1041,Lentil(Masur),Muradabad,2016-05-11,7000.0,4.5,30.2,clear
+1042,Bengal Gram(Gram),Muradabad,2016-06-11,9400.0,3.6,35.4,clear
+1043,Black Gram (Urd Beans),Muradabad,2016-06-11,9700.0,5.0,35.4,clear
+1044,Green Gram (Moong),Muradabad,2016-06-11,8000.0,5.0,35.4,clear
+1045,Lentil(Masur),Muradabad,2016-06-11,6950.0,6.0,35.4,clear
+1046,Bengal Gram(Gram),Muradabad,2016-07-11,9500.0,4.0,31.4,clear
+1047,Black Gram (Urd Beans),Muradabad,2016-07-11,9725.0,4.4,31.4,clear
+1048,Green Gram (Moong),Muradabad,2016-07-11,8020.0,6.0,31.4,clear
+1049,Lentil(Masur),Chandausi,2016-07-11,6575.0,1.8,31.4,clear
+1050,Lentil(Masur),Muradabad,2016-07-11,6900.0,7.0,31.4,clear
+1051,Bengal Gram(Gram),Muradabad,2016-09-11,9650.0,5.2,31.6,clear
+1052,Black Gram (Urd Beans),Muradabad,2016-09-11,9700.0,4.8,31.6,clear
+1053,Green Gram (Moong),Muradabad,2016-09-11,8025.0,4.2,31.6,clear
+1054,Lentil(Masur),Chandausi,2016-09-11,6525.0,1.8,31.6,clear
+1055,Lentil(Masur),Muradabad,2016-09-11,7000.0,5.0,31.6,clear
+1056,Bengal Gram(Gram),Muradabad,2016-10-11,9800.0,4.0,30.0,clear
+1057,Black Gram (Urd Beans),Muradabad,2016-10-11,9675.0,6.0,30.0,clear
+1058,Green Gram (Moong),Muradabad,2016-10-11,8050.0,3.0,30.0,clear
+1059,Lentil(Masur),Chandausi,2016-10-11,6535.0,1.5,30.0,clear
+1060,Lentil(Masur),Muradabad,2016-10-11,7025.0,6.0,30.0,clear
+1061,Bengal Gram(Gram),Muradabad,2016-11-11,9850.0,5.0,24.8,clear
+1062,Black Gram (Urd Beans),Muradabad,2016-11-11,9650.0,4.5,24.8,clear
+1063,Green Gram (Moong),Muradabad,2016-11-11,8000.0,4.2,24.8,clear
+1064,Lentil(Masur),Chandausi,2016-11-11,6540.0,1.0,24.8,clear
+1065,Lentil(Masur),Muradabad,2016-11-11,7000.0,4.5,24.8,clear
+1066,Bengal Gram(Gram),Muradabad,2016-12-11,9900.0,3.6,19.2,clear
+1067,Black Gram (Urd Beans),Muradabad,2016-12-11,9625.0,5.0,19.2,clear
+1068,Green Gram (Moong),Muradabad,2016-12-11,8025.0,2.4,19.2,clear
+1069,Lentil(Masur),Chandausi,2016-12-11,6525.0,1.6,19.2,clear
+1070,Lentil(Masur),Muradabad,2016-12-11,6950.0,2.0,19.2,clear
+1071,Bengal Gram(Gram),Muradabad,2016-11-13,9950.0,3.5,26.8,clear
+1072,Black Gram (Urd Beans),Muradabad,2016-11-13,9630.0,4.5,26.8,clear
+1073,Green Gram (Moong),Muradabad,2016-11-13,8030.0,2.6,26.8,clear
+1074,Lentil(Masur),Muradabad,2016-11-13,6900.0,3.0,26.8,clear
+1075,Bengal Gram(Gram),Muradabad,2016-11-14,9950.0,3.0,25.0,clear
+1076,Black Gram (Urd Beans),Muradabad,2016-11-14,9600.0,4.0,25.0,clear
+1077,Green Gram (Moong),Muradabad,2016-11-14,8050.0,2.0,25.0,clear
+1078,Lentil(Masur),Chandausi,2016-11-14,6515.0,1.4,25.0,clear
+1079,Lentil(Masur),Muradabad,2016-11-14,6900.0,2.5,25.0,clear
+1080,Bengal Gram(Gram),Muradabad,2016-11-16,9970.0,2.2,22.4,clear
+1081,Black Gram (Urd Beans),Muradabad,2016-11-16,9650.0,2.0,22.4,clear
+1082,Green Gram (Moong),Muradabad,2016-11-16,8020.0,2.4,22.4,clear
+1083,Lentil(Masur),Chandausi,2016-11-16,6500.0,2.4,22.4,clear
+1084,Lentil(Masur),Muradabad,2016-11-16,6950.0,3.0,22.4,clear
+1085,Bengal Gram(Gram),Muradabad,2016-11-17,9925.0,4.2,22.6,clear
+1086,Black Gram (Urd Beans),Muradabad,2016-11-17,9625.0,2.5,22.6,clear
+1087,Green Gram (Moong),Muradabad,2016-11-17,8000.0,1.2,22.6,clear
+1088,Lentil(Masur),Chandausi,2016-11-17,6480.0,0.0,22.6,clear
+1089,Lentil(Masur),Muradabad,2016-11-17,6950.0,2.1,22.6,clear
+1090,Bengal Gram(Gram),Muradabad,2016-11-18,9900.0,2.5,23.0,clear
+1091,Black Gram (Urd Beans),Muradabad,2016-11-18,9700.0,1.5,23.0,clear
+1092,Green Gram (Moong),Muradabad,2016-11-18,8050.0,1.0,23.0,clear
+1093,Lentil(Masur),Chandausi,2016-11-18,6465.0,1.0,23.0,clear
+1094,Lentil(Masur),Muradabad,2016-11-18,6900.0,3.0,23.0,clear
+1095,Bengal Gram(Gram),Muradabad,2016-11-19,9925.0,5.0,24.8,clear
+1096,Black Gram (Urd Beans),Muradabad,2016-11-19,9675.0,2.5,24.8,clear
+1097,Green Gram (Moong),Muradabad,2016-11-19,8025.0,2.1,24.8,clear
+1098,Lentil(Masur),Chandausi,2016-11-19,6445.0,0.8,24.8,clear
+1099,Lentil(Masur),Muradabad,2016-11-19,6950.0,2.8,24.8,clear
+1100,Bengal Gram(Gram),Muradabad,2016-11-20,8850.0,4.5,23.8,clear
+1101,Black Gram (Urd Beans),Muradabad,2016-11-20,9650.0,4.0,23.8,clear
+1102,Green Gram (Moong),Muradabad,2016-11-20,8010.0,2.4,23.8,clear
+1103,Lentil(Masur),Muradabad,2016-11-20,6900.0,4.8,23.8,clear
+1104,Bengal Gram(Gram),Muradabad,2016-11-21,9960.0,5.0,24.0,clear
+1105,Black Gram (Urd Beans),Muradabad,2016-11-21,9600.0,2.6,24.0,clear
+1106,Green Gram (Moong),Muradabad,2016-11-21,8000.0,1.9,24.0,clear
+1107,Lentil(Masur),Muradabad,2016-11-21,6900.0,3.0,24.0,clear
+1108,Bengal Gram(Gram),Muradabad,2016-11-23,9975.0,4.5,24.0,clear
+1109,Black Gram (Urd Beans),Muradabad,2016-11-23,9650.0,2.0,24.0,clear
+1110,Green Gram (Moong),Muradabad,2016-11-23,8050.0,1.2,24.0,clear
+1111,Lentil(Masur),Muradabad,2016-11-23,6940.0,4.2,24.0,clear
+1112,Bengal Gram(Gram),Muradabad,2016-11-24,9980.0,5.0,21.4,clear
+1113,Black Gram (Urd Beans),Muradabad,2016-11-24,9700.0,2.5,21.4,clear
+1114,Green Gram (Moong),Muradabad,2016-11-24,8070.0,1.5,21.4,clear
+1115,Lentil(Masur),Muradabad,2016-11-24,6900.0,5.0,21.4,clear
+1116,Bengal Gram(Gram),Muradabad,2016-11-25,10000.0,4.5,21.4,clear
+1117,Black Gram (Urd Beans),Muradabad,2016-11-25,9600.0,3.0,21.4,clear
+1118,Green Gram (Moong),Muradabad,2016-11-25,7960.0,2.2,21.4,clear
+1119,Lentil(Masur),Muradabad,2016-11-25,6900.0,6.0,21.4,clear
+1120,Bengal Gram(Gram),Muradabad,2016-11-26,10050.0,4.2,23.6,clear
+1121,Black Gram (Urd Beans),Muradabad,2016-11-26,9650.0,4.0,23.6,clear
+1122,Green Gram (Moong),Muradabad,2016-11-26,7950.0,2.4,23.6,clear
+1123,Lentil(Masur),Muradabad,2016-11-26,6850.0,6.5,23.6,clear
+1124,Bengal Gram(Gram),Muradabad,2016-11-27,10000.0,3.5,22.6,clear
+1125,Black Gram (Urd Beans),Muradabad,2016-11-27,9500.0,3.6,22.6,clear
+1126,Green Gram (Moong),Muradabad,2016-11-27,7975.0,2.0,22.6,clear
+1127,Lentil(Masur),Muradabad,2016-11-27,6900.0,4.8,22.6,clear
+1128,Bengal Gram(Gram),Muradabad,2016-11-28,10000.0,5.0,22.4,clear
+1129,Black Gram (Urd Beans),Muradabad,2016-11-28,9500.0,4.2,22.4,clear
+1130,Green Gram (Moong),Muradabad,2016-11-28,7980.0,1.5,22.4,clear
+1131,Lentil(Masur),Muradabad,2016-11-28,6920.0,3.0,22.4,clear
+1132,Bengal Gram(Gram),Muradabad,2016-11-30,10000.0,4.2,24.0,clear
+1133,Black Gram (Urd Beans),Muradabad,2016-11-30,9520.0,3.0,24.0,clear
+1134,Green Gram (Moong),Muradabad,2016-11-30,7950.0,2.1,24.0,clear
+1135,Lentil(Masur),Muradabad,2016-11-30,6900.0,3.5,24.0,clear
+1136,Bengal Gram(Gram),Muradabad,2016-01-12,10100.0,4.0,19.4,clear
+1137,Black Gram (Urd Beans),Muradabad,2016-01-12,9450.0,4.0,19.4,clear
+1138,Green Gram (Moong),Muradabad,2016-01-12,7900.0,2.5,19.4,clear
+1139,Lentil(Masur),Muradabad,2016-01-12,6880.0,3.8,19.4,clear
+1140,Bengal Gram(Gram),Muradabad,2016-02-12,10000.0,8.0,22.4,clear
+1141,Black Gram (Urd Beans),Muradabad,2016-02-12,9000.0,6.0,22.4,clear
+1142,Green Gram (Moong),Muradabad,2016-02-12,7850.0,3.2,22.4,clear
+1143,Lentil(Masur),Chandausi,2016-02-12,6535.0,1.6,22.4,clear
+1144,Lentil(Masur),Muradabad,2016-02-12,6850.0,4.2,22.4,clear
+1145,Bengal Gram(Gram),Muradabad,2016-03-12,9975.0,6.0,27.6,clear
+1146,Black Gram (Urd Beans),Muradabad,2016-03-12,8800.0,6.4,27.6,clear
+1147,Green Gram (Moong),Muradabad,2016-03-12,7800.0,4.0,27.6,clear
+1148,Lentil(Masur),Chandausi,2016-03-12,6545.0,1.8,27.6,clear
+1149,Lentil(Masur),Muradabad,2016-03-12,6830.0,4.0,27.6,clear
+1150,Bengal Gram(Gram),Muradabad,2016-04-12,9950.0,4.0,33.8,clear
+1151,Black Gram (Urd Beans),Muradabad,2016-04-12,8600.0,5.0,33.8,clear
+1152,Green Gram (Moong),Muradabad,2016-04-12,7750.0,3.0,33.8,clear
+1153,Lentil(Masur),Muradabad,2016-04-12,6820.0,4.5,33.8,clear
+1154,Bengal Gram(Gram),Muradabad,2016-05-12,9940.0,5.0,34.6,clear
+1155,Black Gram (Urd Beans),Muradabad,2016-05-12,8300.0,6.0,34.6,clear
+1156,Green Gram (Moong),Muradabad,2016-05-12,7725.0,2.0,34.6,clear
+1157,Lentil(Masur),Chandausi,2016-05-12,6550.0,2.0,34.6,clear
+1158,Lentil(Masur),Muradabad,2016-05-12,6800.0,5.0,34.6,clear
+1159,Bengal Gram(Gram),Muradabad,2016-07-12,9950.0,4.0,33.2,clear
+1160,Black Gram (Urd Beans),Muradabad,2016-07-12,8240.0,5.0,33.2,clear
+1161,Green Gram (Moong),Muradabad,2016-07-12,7700.0,2.4,33.2,clear
+1162,Lentil(Masur),Chandausi,2016-07-12,6545.0,2.2,33.2,clear
+1163,Lentil(Masur),Muradabad,2016-07-12,6850.0,4.0,33.2,clear
+1164,Bengal Gram(Gram),Muradabad,2016-08-12,9900.0,4.5,31.0,clear
+1165,Black Gram (Urd Beans),Muradabad,2016-08-12,8150.0,3.5,31.0,clear
+1166,Green Gram (Moong),Muradabad,2016-08-12,7800.0,1.5,31.0,clear
+1167,Lentil(Masur),Chandausi,2016-08-12,6540.0,1.5,31.0,clear
+1168,Lentil(Masur),Muradabad,2016-08-12,6840.0,3.0,31.0,clear
+1169,Bengal Gram(Gram),Muradabad,2016-09-12,9950.0,5.0,29.2,rain
+1170,Black Gram (Urd Beans),Muradabad,2016-09-12,8300.0,5.0,29.2,rain
+1171,Green Gram (Moong),Muradabad,2016-09-12,7750.0,2.5,29.2,rain
+1172,Lentil(Masur),Chandausi,2016-09-12,6545.0,1.4,29.2,rain
+1173,Lentil(Masur),Muradabad,2016-09-12,6820.0,5.5,29.2,rain
+1174,Bengal Gram(Gram),Muradabad,2016-10-12,9900.0,4.0,28.6,clear
+1175,Black Gram (Urd Beans),Muradabad,2016-10-12,8275.0,2.0,28.6,clear
+1176,Green Gram (Moong),Muradabad,2016-10-12,7725.0,2.0,28.6,clear
+1177,Lentil(Masur),Chandausi,2016-10-12,6560.0,1.6,28.6,clear
+1178,Lentil(Masur),Muradabad,2016-10-12,6800.0,5.0,28.6,clear
+1179,Bengal Gram(Gram),Muradabad,2016-11-12,9950.0,5.0,25.6,clear
+1180,Black Gram (Urd Beans),Muradabad,2016-11-12,8050.0,4.0,25.6,clear
+1181,Green Gram (Moong),Muradabad,2016-11-12,7700.0,3.2,25.6,clear
+1182,Lentil(Masur),Muradabad,2016-11-12,6820.0,3.0,25.6,clear
+1183,Bengal Gram(Gram),Muradabad,2016-12-12,9900.0,6.0,18.2,clear
+1184,Black Gram (Urd Beans),Muradabad,2016-12-12,8000.0,4.4,18.2,clear
+1185,Green Gram (Moong),Muradabad,2016-12-12,7700.0,4.0,18.2,clear
+1186,Lentil(Masur),Chandausi,2016-12-12,6575.0,1.0,18.2,clear
+1187,Lentil(Masur),Muradabad,2016-12-12,6825.0,2.8,18.2,clear
+1188,Bengal Gram(Gram),Muradabad,2016-12-14,9950.0,5.5,16.0,clear
+1189,Black Gram (Urd Beans),Muradabad,2016-12-14,8050.0,4.0,16.0,clear
+1190,Green Gram (Moong),Muradabad,2016-12-14,7750.0,3.5,16.0,clear
+1191,Lentil(Masur),Muradabad,2016-12-14,6800.0,3.0,16.0,clear
+1192,Bengal Gram(Gram),Muradabad,2016-12-15,9900.0,6.0,15.4,clear
+1193,Black Gram (Urd Beans),Muradabad,2016-12-15,8000.0,5.0,15.4,clear
+1194,Green Gram (Moong),Muradabad,2016-12-15,7700.0,4.0,15.4,clear
+1195,Lentil(Masur),Muradabad,2016-12-15,6850.0,2.5,15.4,clear
+1196,Bengal Gram(Gram),Muradabad,2016-12-16,9950.0,4.5,17.8,clear
+1197,Black Gram (Urd Beans),Muradabad,2016-12-16,7950.0,4.0,17.8,clear
+1198,Green Gram (Moong),Muradabad,2016-12-16,7600.0,2.2,17.8,clear
+1199,Lentil(Masur),Muradabad,2016-12-16,6800.0,3.6,17.8,clear
+1200,Bengal Gram(Gram),Muradabad,2016-12-17,9975.0,4.0,21.0,clear
+1201,Black Gram (Urd Beans),Muradabad,2016-12-17,7900.0,3.0,21.0,clear
+1202,Green Gram (Moong),Muradabad,2016-12-17,7700.0,1.2,21.0,clear
+1203,Lentil(Masur),Chandausi,2016-12-17,6480.0,1.8,21.0,clear
+1204,Lentil(Masur),Muradabad,2016-12-17,6700.0,2.0,21.0,clear
+1205,Bengal Gram(Gram),Muradabad,2016-12-18,9950.0,6.0,22.6,clear
+1206,Black Gram (Urd Beans),Muradabad,2016-12-18,7800.0,5.0,22.6,clear
+1207,Green Gram (Moong),Muradabad,2016-12-18,7720.0,2.0,22.6,clear
+1208,Lentil(Masur),Muradabad,2016-12-18,6750.0,3.0,22.6,clear
+1209,Bengal Gram(Gram),Muradabad,2016-12-19,9975.0,5.0,20.2,clear
+1210,Black Gram (Urd Beans),Muradabad,2016-12-19,7750.0,6.0,20.2,clear
+1211,Green Gram (Moong),Muradabad,2016-12-19,7700.0,3.2,20.2,clear
+1212,Lentil(Masur),Chandausi,2016-12-19,6485.0,1.5,20.2,clear
+1213,Lentil(Masur),Muradabad,2016-12-19,6800.0,2.4,20.2,clear
+1214,Bengal Gram(Gram),Muradabad,2016-12-21,10000.0,6.0,18.2,clear
+1215,Black Gram (Urd Beans),Muradabad,2016-12-21,7725.0,4.0,18.2,clear
+1216,Green Gram (Moong),Muradabad,2016-12-21,7650.0,4.0,18.2,clear
+1217,Lentil(Masur),Chandausi,2016-12-21,6455.0,1.5,18.2,clear
+1218,Lentil(Masur),Muradabad,2016-12-21,6825.0,2.5,18.2,clear
+1219,Bengal Gram(Gram),Muradabad,2016-12-22,9950.0,8.0,18.6,clear
+1220,Black Gram (Urd Beans),Muradabad,2016-12-22,7700.0,6.0,18.6,clear
+1221,Green Gram (Moong),Muradabad,2016-12-22,7675.0,3.0,18.6,clear
+1222,Lentil(Masur),Chandausi,2016-12-22,6440.0,1.6,18.6,clear
+1223,Lentil(Masur),Muradabad,2016-12-22,6850.0,2.4,18.6,clear
+1224,Bengal Gram(Gram),Muradabad,2016-12-25,10100.0,5.0,20.6,clear
+1225,Black Gram (Urd Beans),Muradabad,2016-12-25,7575.0,5.0,20.6,clear
+1226,Green Gram (Moong),Muradabad,2016-12-25,7750.0,3.0,20.6,clear
+1227,Lentil(Masur),Muradabad,2016-12-25,6850.0,4.0,20.6,clear
+1228,Bengal Gram(Gram),Muradabad,2016-12-26,10200.0,4.5,18.6,clear
+1229,Black Gram (Urd Beans),Muradabad,2016-12-26,7500.0,6.0,18.6,clear
+1230,Green Gram (Moong),Muradabad,2016-12-26,7730.0,4.0,18.6,clear
+1231,Lentil(Masur),Chandausi,2016-12-26,6435.0,1.2,18.6,clear
+1232,Lentil(Masur),Muradabad,2016-12-26,6825.0,6.0,18.6,clear
+1233,Bengal Gram(Gram),Muradabad,2016-12-29,10500.0,6.0,17.2,clear
+1234,Bengal Gram(Gram),Sambhal,2016-12-29,9985.0,1.8,17.2,clear
+1235,Black Gram (Urd Beans),Muradabad,2016-12-29,7550.0,6.0,17.2,clear
+1236,Green Gram (Moong),Muradabad,2016-12-29,7600.0,5.2,17.2,clear
+1237,Lentil(Masur),Muradabad,2016-12-29,7000.0,3.0,17.2,clear
+1238,Bengal Gram(Gram),Muradabad,2016-12-30,10600.0,5.5,18.4,clear
+1239,Black Gram (Urd Beans),Muradabad,2016-12-30,7500.0,6.5,18.4,clear
+1240,Green Gram (Moong),Muradabad,2016-12-30,7500.0,5.5,18.4,clear
+1241,Lentil(Masur),Chandausi,2016-12-30,6455.0,1.6,18.4,clear
+1242,Lentil(Masur),Muradabad,2016-12-30,7000.0,3.5,18.4,clear
+1243,Bengal Gram(Gram),Muradabad,2016-12-31,10700.0,4.7,19.8,clear
+1244,Black Gram (Urd Beans),Muradabad,2016-12-31,7600.0,6.0,19.8,clear
+1245,Green Gram (Moong),Muradabad,2016-12-31,7650.0,4.5,19.8,clear
+1246,Lentil(Masur),Muradabad,2016-12-31,7050.0,3.0,19.8,clear
+1247,Bengal Gram(Gram),Sambhal,2016-02-01,5500.0,1.2,20.4,clear
+1248,Bengal Gram(Gram),Sambhal,2016-05-01,5540.0,0.5,37.2,clear
+1249,Bengal Gram(Gram),Sambhal,2016-07-01,5600.0,0.5,27.6,rain
+1250,Bengal Gram(Gram),Sambhal,2016-12-01,5580.0,1.0,23.0,clear
+1251,Bengal Gram(Gram),Sambhal,2016-01-19,5580.0,1.5,14.6,clear
+1252,Bengal Gram(Gram),Sambhal,2016-01-02,5175.0,1.5,22.4,clear
+1253,Bengal Gram(Gram),Sambhal,2016-02-02,5200.0,0.8,20.0,clear
+1254,Bengal Gram(Gram),Sambhal,2016-09-02,5175.0,1.0,31.8,clear
+1255,Bengal Gram(Gram),Sambhal,2016-02-16,5210.0,0.5,24.0,clear
+1256,Bengal Gram(Gram),Sambhal,2016-02-23,5200.0,1.0,24.4,clear
+1257,Bengal Gram(Gram),Sambhal,2016-04-03,5175.0,0.8,32.8,clear
+1258,Bengal Gram(Gram),Sambhal,2016-06-03,5175.0,0.8,34.2,clear
+1259,Bengal Gram(Gram),Sambhal,2016-08-03,5175.0,1.2,32.4,clear
+1260,Bengal Gram(Gram),Sambhal,2016-03-15,5225.0,1.0,26.6,clear
+1261,Bengal Gram(Gram),Sambhal,2016-03-22,5200.0,1.0,27.4,clear
+1262,Bengal Gram(Gram),Sambhal,2016-08-04,5150.0,1.0,34.4,clear
+1263,Bengal Gram(Gram),Sambhal,2016-04-19,5200.0,1.0,34.4,clear
+1264,Bengal Gram(Gram),Sambhal,2016-04-23,5350.0,1.0,33.8,clear
+1265,Bengal Gram(Gram),Sambhal,2016-04-26,5350.0,1.0,35.4,clear
+1266,Bengal Gram(Gram),Sambhal,2016-03-05,5350.0,0.5,26.4,clear
+1267,Bengal Gram(Gram),Sambhal,2016-04-05,5350.0,1.0,32.6,clear
+1268,Bengal Gram(Gram),Sambhal,2016-10-05,5550.0,0.6,29.4,clear
+1269,Bengal Gram(Gram),Sambhal,2016-05-17,5650.0,1.0,38.0,clear
+1270,Bengal Gram(Gram),Sambhal,2016-05-24,5650.0,1.0,30.8,clear
+1271,Bengal Gram(Gram),Sambhal,2016-05-31,5675.0,1.2,33.6,clear
+1272,Bengal Gram(Gram),Sambhal,2016-07-06,5750.0,1.5,31.2,clear
+1273,Bengal Gram(Gram),Sambhal,2016-06-14,5950.0,1.5,33.8,clear
+1274,Bengal Gram(Gram),Sambhal,2016-06-15,5950.0,0.5,28.0,clear
+1275,Bengal Gram(Gram),Sambhal,2016-06-21,6025.0,1.0,27.6,clear
+1276,Bengal Gram(Gram),Sambhal,2016-05-07,6500.0,0.5,31.4,clear
+1277,Bengal Gram(Gram),Sambhal,2016-07-07,6550.0,0.6,33.2,clear
+1278,Bengal Gram(Gram),Sambhal,2016-08-07,6550.0,0.5,32.8,clear
+1279,Bengal Gram(Gram),Sambhal,2016-12-07,6600.0,0.5,18.0,clear
+1280,Bengal Gram(Gram),Sambhal,2016-07-19,7000.0,0.5,32.6,clear
+1281,Bengal Gram(Gram),Sambhal,2016-07-26,8200.0,0.5,27.4,rain
+1282,Bengal Gram(Gram),Sambhal,2016-07-29,8250.0,0.6,28.4,clear
+1283,Bengal Gram(Gram),Sambhal,2016-03-08,8250.0,0.5,27.4,clear
+1284,Bengal Gram(Gram),Sambhal,2016-04-08,8250.0,0.6,32.6,clear
+1285,Bengal Gram(Gram),Sambhal,2016-09-08,8350.0,0.4,30.8,clear
+1286,Bengal Gram(Gram),Sambhal,2016-11-08,8350.0,0.5,24.4,clear
+1287,Bengal Gram(Gram),Sambhal,2016-12-08,8400.0,0.4,17.6,clear
+1288,Bengal Gram(Gram),Sambhal,2016-08-13,8400.0,0.6,31.8,rain
+1289,Bengal Gram(Gram),Sambhal,2016-08-14,8400.0,0.5,32.0,clear
+1290,Bengal Gram(Gram),Sambhal,2016-08-16,8460.0,0.7,30.4,clear
+1291,Bengal Gram(Gram),Sambhal,2016-08-17,8500.0,0.8,31.4,clear
+1292,Bengal Gram(Gram),Sambhal,2016-08-19,8500.0,0.6,32.4,clear
+1293,Bengal Gram(Gram),Sambhal,2016-08-30,8500.0,0.6,31.2,clear
+1294,Bengal Gram(Gram),Sambhal,2016-02-09,8500.0,0.5,22.0,clear
+1295,Bengal Gram(Gram),Sambhal,2016-04-09,8560.0,0.6,34.6,clear
+1296,Bengal Gram(Gram),Sambhal,2016-07-09,8560.0,0.8,32.2,clear
+1297,Lentil(Masur),Chandausi,2016-01-11,6680.0,0.0,19.8,clear
+1298,Lentil(Masur),Chandausi,2016-08-11,6550.0,2.5,31.0,clear
+1299,Lentil(Masur),Chandausi,2016-11-15,6505.0,1.8,23.4,clear
+1300,Lentil(Masur),Chandausi,2016-06-12,6555.0,1.8,35.4,clear
+1301,Lentil(Masur),Chandausi,2016-12-13,6570.0,1.4,17.8,clear
+1302,Lentil(Masur),Chandausi,2016-12-20,6470.0,1.4,16.8,clear
+1303,Lentil(Masur),Chandausi,2016-12-23,6420.0,1.5,22.6,clear
+1304,Lentil(Masur),Chandausi,2016-12-24,6400.0,1.2,22.6,clear
+1305,Lentil(Masur),Chandausi,2016-12-27,6460.0,1.2,18.8,clear
+1306,Bengal Gram(Gram),Bhehjoi,2017-01-28,9710.0,0.08,17.6,clear
+1307,Bengal Gram(Gram),Muradabad,2017-01-28,9600.0,4.2,17.6,clear
+1308,Black Gram (Urd Beans),Bhehjoi,2017-01-28,5850.0,0.55,17.6,clear
+1309,Black Gram (Urd Beans),Muradabad,2017-01-28,7100.0,6.5,17.6,clear
+1310,Green Gram (Moong),Muradabad,2017-01-28,7450.0,3.0,17.6,clear
+1311,Lentil(Masur),Muradabad,2017-01-28,7000.0,4.1,17.6,clear
+1312,Bengal Gram(Gram),Bhehjoi,2017-02-25,8500.0,1.2,23.0,clear
+1313,Bengal Gram(Gram),Muradabad,2017-02-25,8500.0,8.0,23.0,clear
+1314,Black Gram (Urd Beans),Bhehjoi,2017-02-25,5050.0,3.2,23.0,clear
+1315,Black Gram (Urd Beans),Muradabad,2017-02-25,7500.0,5.0,23.0,clear
+1316,Green Gram (Moong),Muradabad,2017-02-25,7300.0,6.0,23.0,clear
+1317,Lentil(Masur),Chandausi,2017-02-25,6520.0,1.2,23.0,clear
+1318,Lentil(Masur),Muradabad,2017-02-25,6600.0,8.0,23.0,clear
+1319,Bengal Gram(Gram),Bhehjoi,2017-03-28,7120.0,0.8,33.0,clear
+1320,Black Gram (Urd Beans),Bhehjoi,2017-03-28,5500.0,2.6,33.0,clear
+1321,Lentil(Masur),Chandausi,2017-03-28,6110.0,0.8,33.0,clear
+1322,Bengal Gram(Gram),Bhehjoi,2017-05-30,6350.0,0.8,32.6,clear
+1323,Lentil(Masur),Chandausi,2017-05-30,5245.0,1.8,32.6,clear
+1324,Bengal Gram(Gram),Muradabad,2017-02-01,10800.0,5.0,19.0,clear
+1325,Black Gram (Urd Beans),Muradabad,2017-02-01,7560.0,4.0,19.0,clear
+1326,Green Gram (Moong),Muradabad,2017-02-01,7600.0,5.0,19.0,clear
+1327,Lentil(Masur),Chandausi,2017-02-01,6475.0,1.2,19.0,clear
+1328,Lentil(Masur),Muradabad,2017-02-01,6950.0,6.0,19.0,clear
+1329,Bengal Gram(Gram),Muradabad,2017-04-01,10900.0,4.0,34.8,clear
+1330,Black Gram (Urd Beans),Muradabad,2017-04-01,7550.0,6.0,34.8,clear
+1331,Green Gram (Moong),Muradabad,2017-04-01,7610.0,3.0,34.8,clear
+1332,Lentil(Masur),Chandausi,2017-04-01,6515.0,1.6,34.8,clear
+1333,Lentil(Masur),Muradabad,2017-04-01,7000.0,5.0,34.8,clear
+1334,Bengal Gram(Gram),Muradabad,2017-05-01,10800.0,5.0,33.4,clear
+1335,Black Gram (Urd Beans),Muradabad,2017-05-01,7500.0,5.0,33.4,clear
+1336,Green Gram (Moong),Muradabad,2017-05-01,7600.0,2.1,33.4,clear
+1337,Lentil(Masur),Chandausi,2017-05-01,6525.0,1.0,33.4,clear
+1338,Lentil(Masur),Muradabad,2017-05-01,7025.0,4.0,33.4,clear
+1339,Bengal Gram(Gram),Muradabad,2017-06-01,10700.0,6.0,35.4,clear
+1340,Black Gram (Urd Beans),Muradabad,2017-06-01,7400.0,6.0,35.4,clear
+1341,Green Gram (Moong),Muradabad,2017-06-01,7500.0,2.5,35.4,clear
+1342,Lentil(Masur),Chandausi,2017-06-01,6535.0,1.5,35.4,clear
+1343,Lentil(Masur),Muradabad,2017-06-01,7000.0,4.5,35.4,clear
+1344,Bengal Gram(Gram),Muradabad,2017-07-01,10600.0,6.5,34.0,clear
+1345,Green Gram (Moong),Muradabad,2017-07-01,7600.0,2.6,34.0,clear
+1346,Lentil(Masur),Chandausi,2017-07-01,6545.0,0.1,34.0,clear
+1347,Lentil(Masur),Muradabad,2017-07-01,7050.0,4.0,34.0,clear
+1348,Bengal Gram(Gram),Muradabad,2017-08-01,10500.0,5.0,31.4,clear
+1349,Black Gram (Urd Beans),Muradabad,2017-08-01,7520.0,2.0,31.4,clear
+1350,Green Gram (Moong),Muradabad,2017-08-01,7550.0,4.0,31.4,clear
+1351,Lentil(Masur),Muradabad,2017-08-01,7050.0,6.0,31.4,clear
+1352,Bengal Gram(Gram),Muradabad,2017-09-01,10800.0,4.5,27.2,rain
+1353,Black Gram (Urd Beans),Muradabad,2017-09-01,7530.0,4.0,27.2,rain
+1354,Green Gram (Moong),Muradabad,2017-09-01,7600.0,3.0,27.2,rain
+1355,Lentil(Masur),Chandausi,2017-09-01,6540.0,1.2,27.2,rain
+1356,Lentil(Masur),Muradabad,2017-09-01,7050.0,6.8,27.2,rain
+1357,Bengal Gram(Gram),Muradabad,2017-11-01,9850.0,6.0,25.0,clear
+1358,Black Gram (Urd Beans),Muradabad,2017-11-01,7475.0,5.0,25.0,clear
+1359,Green Gram (Moong),Muradabad,2017-11-01,7620.0,2.5,25.0,clear
+1360,Lentil(Masur),Chandausi,2017-11-01,6560.0,1.2,25.0,clear
+1361,Lentil(Masur),Muradabad,2017-11-01,7000.0,7.0,25.0,clear
+1362,Bengal Gram(Gram),Muradabad,2017-12-01,9760.0,7.0,21.0,clear
+1363,Black Gram (Urd Beans),Muradabad,2017-12-01,7400.0,6.0,21.0,clear
+1364,Green Gram (Moong),Muradabad,2017-12-01,7625.0,2.1,21.0,clear
+1365,Lentil(Masur),Chandausi,2017-12-01,6575.0,1.6,21.0,clear
+1366,Lentil(Masur),Muradabad,2017-12-01,7000.0,6.0,21.0,clear
+1367,Bengal Gram(Gram),Muradabad,2017-01-13,9700.0,7.5,14.4,clear
+1368,Black Gram (Urd Beans),Muradabad,2017-01-13,7350.0,6.5,14.4,clear
+1369,Green Gram (Moong),Muradabad,2017-01-13,7600.0,2.5,14.4,clear
+1370,Lentil(Masur),Chandausi,2017-01-13,6585.0,1.0,14.4,clear
+1371,Lentil(Masur),Muradabad,2017-01-13,6900.0,6.5,14.4,clear
+1372,Bengal Gram(Gram),Muradabad,2017-01-14,9625.0,8.0,17.0,clear
+1373,Black Gram (Urd Beans),Muradabad,2017-01-14,7325.0,5.0,17.0,clear
+1374,Green Gram (Moong),Muradabad,2017-01-14,7550.0,2.1,17.0,clear
+1375,Lentil(Masur),Chandausi,2017-01-14,6600.0,0.8,17.0,clear
+1376,Lentil(Masur),Muradabad,2017-01-14,6950.0,5.5,17.0,clear
+1377,Bengal Gram(Gram),Muradabad,2017-01-15,9650.0,6.0,18.0,clear
+1378,Black Gram (Urd Beans),Muradabad,2017-01-15,7300.0,6.0,18.0,clear
+1379,Green Gram (Moong),Muradabad,2017-01-15,7570.0,3.0,18.0,clear
+1380,Lentil(Masur),Muradabad,2017-01-15,6925.0,6.0,18.0,clear
+1381,Bengal Gram(Gram),Muradabad,2017-01-16,9625.0,8.0,18.6,clear
+1382,Black Gram (Urd Beans),Muradabad,2017-01-16,7310.0,4.5,18.6,clear
+1383,Green Gram (Moong),Muradabad,2017-01-16,7550.0,4.2,18.6,clear
+1384,Lentil(Masur),Chandausi,2017-01-16,6620.0,1.2,18.6,clear
+1385,Lentil(Masur),Muradabad,2017-01-16,6900.0,5.0,18.6,clear
+1386,Bengal Gram(Gram),Muradabad,2017-01-18,9600.0,6.5,13.8,clear
+1387,Black Gram (Urd Beans),Muradabad,2017-01-18,7300.0,5.0,13.8,clear
+1388,Green Gram (Moong),Muradabad,2017-01-18,7500.0,4.8,13.8,clear
+1389,Lentil(Masur),Chandausi,2017-01-18,6650.0,1.2,13.8,clear
+1390,Lentil(Masur),Muradabad,2017-01-18,6950.0,6.5,13.8,clear
+1391,Bengal Gram(Gram),Muradabad,2017-01-19,9550.0,7.0,18.6,clear
+1392,Black Gram (Urd Beans),Muradabad,2017-01-19,7280.0,6.0,18.6,clear
+1393,Green Gram (Moong),Muradabad,2017-01-19,7525.0,3.0,18.6,clear
+1394,Lentil(Masur),Chandausi,2017-01-19,6630.0,1.5,18.6,clear
+1395,Lentil(Masur),Muradabad,2017-01-19,7000.0,4.0,18.6,clear
+1396,Bengal Gram(Gram),Muradabad,2017-01-20,9500.0,8.0,17.8,clear
+1397,Black Gram (Urd Beans),Muradabad,2017-01-20,7275.0,5.0,17.8,clear
+1398,Green Gram (Moong),Muradabad,2017-01-20,7530.0,2.4,17.8,clear
+1399,Lentil(Masur),Chandausi,2017-01-20,6640.0,1.0,17.8,clear
+1400,Lentil(Masur),Muradabad,2017-01-20,7000.0,5.4,17.8,clear
+1401,Bengal Gram(Gram),Muradabad,2017-01-21,9500.0,4.5,16.4,clear
+1402,Black Gram (Urd Beans),Muradabad,2017-01-21,7270.0,6.0,16.4,clear
+1403,Green Gram (Moong),Muradabad,2017-01-21,7525.0,3.0,16.4,clear
+1404,Lentil(Masur),Chandausi,2017-01-21,6635.0,1.4,16.4,clear
+1405,Lentil(Masur),Muradabad,2017-01-21,6975.0,5.0,16.4,clear
+1406,Bengal Gram(Gram),Muradabad,2017-01-22,9500.0,6.0,19.0,clear
+1407,Black Gram (Urd Beans),Muradabad,2017-01-22,7250.0,4.5,19.0,clear
+1408,Green Gram (Moong),Muradabad,2017-01-22,7520.0,4.0,19.0,clear
+1409,Lentil(Masur),Muradabad,2017-01-22,5950.0,6.0,19.0,clear
+1410,Bengal Gram(Gram),Muradabad,2017-01-23,9530.0,4.8,20.2,clear
+1411,Black Gram (Urd Beans),Muradabad,2017-01-23,7230.0,6.0,20.2,clear
+1412,Green Gram (Moong),Muradabad,2017-01-23,7480.0,5.0,20.2,clear
+1413,Lentil(Masur),Chandausi,2017-01-23,6625.0,1.2,20.2,clear
+1414,Lentil(Masur),Muradabad,2017-01-23,6975.0,3.0,20.2,clear
+1415,Bengal Gram(Gram),Muradabad,2017-01-25,9500.0,5.0,21.6,clear
+1416,Black Gram (Urd Beans),Muradabad,2017-01-25,7200.0,5.0,21.6,clear
+1417,Green Gram (Moong),Muradabad,2017-01-25,7450.0,3.0,21.6,clear
+1418,Lentil(Masur),Chandausi,2017-01-25,6620.0,1.4,21.6,clear
+1419,Lentil(Masur),Muradabad,2017-01-25,6950.0,4.0,21.6,clear
+1420,Bengal Gram(Gram),Muradabad,2017-01-27,9525.0,4.5,15.6,clear
+1421,Black Gram (Urd Beans),Muradabad,2017-01-27,7150.0,6.0,15.6,clear
+1422,Green Gram (Moong),Muradabad,2017-01-27,7450.0,4.0,15.6,clear
+1423,Lentil(Masur),Chandausi,2017-01-27,6650.0,1.2,15.6,clear
+1424,Lentil(Masur),Muradabad,2017-01-27,6975.0,5.0,15.6,clear
+1425,Bengal Gram(Gram),Muradabad,2017-01-29,9650.0,5.0,16.0,clear
+1426,Black Gram (Urd Beans),Muradabad,2017-01-29,7080.0,5.0,16.0,clear
+1427,Green Gram (Moong),Muradabad,2017-01-29,7400.0,2.5,16.0,clear
+1428,Lentil(Masur),Muradabad,2017-01-29,7000.0,5.0,16.0,clear
+1429,Bengal Gram(Gram),Muradabad,2017-01-30,9600.0,5.5,18.0,clear
+1430,Bengal Gram(Gram),Sambhal,2017-01-30,9750.0,0.12,18.0,clear
+1431,Black Gram (Urd Beans),Muradabad,2017-01-30,7070.0,5.5,18.0,clear
+1432,Green Gram (Moong),Muradabad,2017-01-30,7300.0,3.0,18.0,clear
+1433,Lentil(Masur),Muradabad,2017-01-30,6950.0,6.0,18.0,clear
+1434,Bengal Gram(Gram),Muradabad,2017-01-02,9700.0,4.5,22.4,clear
+1435,Black Gram (Urd Beans),Muradabad,2017-01-02,7200.0,5.0,22.4,clear
+1436,Green Gram (Moong),Muradabad,2017-01-02,7300.0,2.5,22.4,clear
+1437,Lentil(Masur),Chandausi,2017-01-02,6675.0,1.0,22.4,clear
+1438,Lentil(Masur),Muradabad,2017-01-02,7000.0,4.0,22.4,clear
+1439,Bengal Gram(Gram),Muradabad,2017-02-02,9750.0,5.0,19.0,clear
+1440,Black Gram (Urd Beans),Muradabad,2017-02-02,7300.0,4.5,19.0,clear
+1441,Green Gram (Moong),Muradabad,2017-02-02,7350.0,3.0,19.0,clear
+1442,Lentil(Masur),Chandausi,2017-02-02,6655.0,1.2,19.0,clear
+1443,Lentil(Masur),Muradabad,2017-02-02,7050.0,3.0,19.0,clear
+1444,Bengal Gram(Gram),Muradabad,2017-03-02,9700.0,5.5,25.4,clear
+1445,Black Gram (Urd Beans),Muradabad,2017-03-02,7400.0,4.0,25.4,clear
+1446,Green Gram (Moong),Muradabad,2017-03-02,7300.0,4.0,25.4,clear
+1447,Lentil(Masur),Chandausi,2017-03-02,6645.0,1.4,25.4,clear
+1448,Lentil(Masur),Muradabad,2017-03-02,7040.0,3.5,25.4,clear
+1449,Bengal Gram(Gram),Muradabad,2017-04-02,8550.0,6.0,34.0,clear
+1450,Black Gram (Urd Beans),Muradabad,2017-04-02,7450.0,3.4,34.0,clear
+1451,Green Gram (Moong),Muradabad,2017-04-02,7320.0,3.0,34.0,clear
+1452,Lentil(Masur),Chandausi,2017-04-02,6650.0,1.0,34.0,clear
+1453,Lentil(Masur),Muradabad,2017-04-02,7050.0,6.0,34.0,clear
+1454,Bengal Gram(Gram),Muradabad,2017-05-02,9800.0,7.0,34.8,clear
+1455,Black Gram (Urd Beans),Muradabad,2017-05-02,7460.0,3.0,34.8,clear
+1456,Green Gram (Moong),Muradabad,2017-05-02,7325.0,4.0,34.8,clear
+1457,Lentil(Masur),Muradabad,2017-05-02,7100.0,4.0,34.8,clear
+1458,Bengal Gram(Gram),Muradabad,2017-06-02,9650.0,6.0,36.2,clear
+1459,Black Gram (Urd Beans),Muradabad,2017-06-02,7450.0,5.0,36.2,clear
+1460,Green Gram (Moong),Muradabad,2017-06-02,7400.0,4.5,36.2,clear
+1461,Lentil(Masur),Chandausi,2017-06-02,6640.0,1.2,36.2,clear
+1462,Lentil(Masur),Muradabad,2017-06-02,7000.0,4.0,36.2,clear
+1463,Bengal Gram(Gram),Muradabad,2017-08-02,9700.0,7.0,29.6,clear
+1464,Black Gram (Urd Beans),Muradabad,2017-08-02,7475.0,4.0,29.6,clear
+1465,Green Gram (Moong),Muradabad,2017-08-02,7380.0,5.0,29.6,clear
+1466,Lentil(Masur),Chandausi,2017-08-02,6650.0,0.8,29.6,clear
+1467,Lentil(Masur),Muradabad,2017-08-02,7000.0,5.0,29.6,clear
+1468,Bengal Gram(Gram),Muradabad,2017-09-02,9800.0,6.0,26.4,clear
+1469,Black Gram (Urd Beans),Muradabad,2017-09-02,7480.0,4.5,26.4,clear
+1470,Green Gram (Moong),Muradabad,2017-09-02,7400.0,6.0,26.4,clear
+1471,Lentil(Masur),Chandausi,2017-09-02,6660.0,1.4,26.4,clear
+1472,Lentil(Masur),Muradabad,2017-09-02,7050.0,4.0,26.4,clear
+1473,Bengal Gram(Gram),Muradabad,2017-10-02,9700.0,6.5,31.2,clear
+1474,Black Gram (Urd Beans),Muradabad,2017-10-02,7500.0,4.0,31.2,clear
+1475,Green Gram (Moong),Muradabad,2017-10-02,7450.0,6.2,31.2,clear
+1476,Lentil(Masur),Muradabad,2017-10-02,7060.0,3.8,31.2,clear
+1477,Bengal Gram(Gram),Muradabad,2017-11-02,9725.0,7.0,24.8,clear
+1478,Black Gram (Urd Beans),Muradabad,2017-11-02,7520.0,3.0,24.8,clear
+1479,Green Gram (Moong),Muradabad,2017-11-02,7460.0,3.6,24.8,clear
+1480,Lentil(Masur),Chandausi,2017-11-02,6675.0,1.2,24.8,clear
+1481,Lentil(Masur),Muradabad,2017-11-02,7050.0,5.0,24.8,clear
+1482,Bengal Gram(Gram),Muradabad,2017-12-02,9750.0,6.0,21.8,clear
+1483,Black Gram (Urd Beans),Muradabad,2017-12-02,7540.0,2.5,21.8,clear
+1484,Green Gram (Moong),Muradabad,2017-12-02,7450.0,4.5,21.8,clear
+1485,Lentil(Masur),Muradabad,2017-12-02,7080.0,4.0,21.8,clear
+1486,Bengal Gram(Gram),Muradabad,2017-02-13,9700.0,5.0,22.4,clear
+1487,Black Gram (Urd Beans),Muradabad,2017-02-13,7550.0,3.0,22.4,clear
+1488,Green Gram (Moong),Muradabad,2017-02-13,7405.0,3.0,22.4,clear
+1489,Lentil(Masur),Chandausi,2017-02-13,6700.0,1.0,22.4,clear
+1490,Lentil(Masur),Muradabad,2017-02-13,7025.0,5.0,22.4,clear
+1491,Bengal Gram(Gram),Muradabad,2017-02-16,9675.0,6.0,23.6,clear
+1492,Black Gram (Urd Beans),Muradabad,2017-02-16,7570.0,2.5,23.6,clear
+1493,Green Gram (Moong),Muradabad,2017-02-16,7450.0,2.6,23.6,clear
+1494,Lentil(Masur),Chandausi,2017-02-16,6680.0,0.8,23.6,clear
+1495,Lentil(Masur),Muradabad,2017-02-16,7050.0,4.0,23.6,clear
+1496,Bengal Gram(Gram),Muradabad,2017-02-17,9700.0,5.0,23.6,clear
+1497,Black Gram (Urd Beans),Muradabad,2017-02-17,7550.0,4.0,23.6,clear
+1498,Green Gram (Moong),Muradabad,2017-02-17,7460.0,3.5,23.6,clear
+1499,Lentil(Masur),Chandausi,2017-02-17,6665.0,1.0,23.6,clear
+1500,Lentil(Masur),Muradabad,2017-02-17,7080.0,5.0,23.6,clear
+1501,Bengal Gram(Gram),Muradabad,2017-02-18,9500.0,8.0,26.0,clear
+1502,Black Gram (Urd Beans),Muradabad,2017-02-18,7560.0,3.0,26.0,clear
+1503,Green Gram (Moong),Muradabad,2017-02-18,7500.0,2.4,26.0,clear
+1504,Lentil(Masur),Chandausi,2017-02-18,6650.0,0.8,26.0,clear
+1505,Lentil(Masur),Muradabad,2017-02-18,7000.0,6.0,26.0,clear
+1506,Bengal Gram(Gram),Muradabad,2017-02-19,9400.0,6.0,25.4,clear
+1507,Black Gram (Urd Beans),Muradabad,2017-02-19,7570.0,2.5,25.4,clear
+1508,Green Gram (Moong),Muradabad,2017-02-19,7480.0,4.2,25.4,clear
+1509,Lentil(Masur),Muradabad,2017-02-19,6950.0,7.0,25.4,clear
+1510,Bengal Gram(Gram),Muradabad,2017-02-20,9350.0,5.0,26.6,clear
+1511,Black Gram (Urd Beans),Muradabad,2017-02-20,7580.0,30.0,26.6,clear
+1512,Green Gram (Moong),Muradabad,2017-02-20,7490.0,3.5,26.6,clear
+1513,Lentil(Masur),Chandausi,2017-02-20,6640.0,1.0,26.6,clear
+1514,Lentil(Masur),Muradabad,2017-02-20,6970.0,5.0,26.6,clear
+1515,Bengal Gram(Gram),Muradabad,2017-02-22,8900.0,8.0,24.4,clear
+1516,Black Gram (Urd Beans),Muradabad,2017-02-22,7425.0,5.0,24.4,clear
+1517,Green Gram (Moong),Muradabad,2017-02-22,7450.0,4.0,24.4,clear
+1518,Lentil(Masur),Muradabad,2017-02-22,6800.0,6.2,24.4,clear
+1519,Bengal Gram(Gram),Muradabad,2017-02-23,8750.0,9.0,23.0,clear
+1520,Black Gram (Urd Beans),Muradabad,2017-02-23,7400.0,6.0,23.0,clear
+1521,Green Gram (Moong),Muradabad,2017-02-23,7425.0,4.5,23.0,clear
+1522,Lentil(Masur),Chandausi,2017-02-23,6615.0,1.4,23.0,clear
+1523,Lentil(Masur),Muradabad,2017-02-23,6750.0,5.0,23.0,clear
+1524,Bengal Gram(Gram),Muradabad,2017-02-24,8600.0,9.5,23.0,clear
+1525,Black Gram (Urd Beans),Muradabad,2017-02-24,7450.0,6.5,23.0,clear
+1526,Green Gram (Moong),Muradabad,2017-02-24,7350.0,5.0,23.0,clear
+1527,Lentil(Masur),Chandausi,2017-02-24,6570.0,1.0,23.0,clear
+1528,Lentil(Masur),Muradabad,2017-02-24,6700.0,6.0,23.0,clear
+1529,Bengal Gram(Gram),Muradabad,2017-02-26,8475.0,8.4,23.4,clear
+1530,Black Gram (Urd Beans),Muradabad,2017-02-26,7475.0,6.0,23.4,clear
+1531,Green Gram (Moong),Muradabad,2017-02-26,7250.0,5.2,23.4,clear
+1532,Lentil(Masur),Muradabad,2017-02-26,6650.0,6.5,23.4,clear
+1533,Bengal Gram(Gram),Muradabad,2017-02-27,8400.0,8.5,24.8,clear
+1534,Bengal Gram(Gram),Sambhal,2017-02-27,8525.0,1.2,24.8,clear
+1535,Black Gram (Urd Beans),Muradabad,2017-02-27,7450.0,6.5,24.8,clear
+1536,Green Gram (Moong),Muradabad,2017-02-27,7200.0,5.0,24.8,clear
+1537,Lentil(Masur),Chandausi,2017-02-27,6465.0,1.4,24.8,clear
+1538,Lentil(Masur),Muradabad,2017-02-27,6600.0,7.0,24.8,clear
+1539,Bengal Gram(Gram),Muradabad,2017-01-03,8300.0,8.0,21.2,clear
+1540,Black Gram (Urd Beans),Muradabad,2017-01-03,7470.0,6.0,21.2,clear
+1541,Green Gram (Moong),Muradabad,2017-01-03,7150.0,4.5,21.2,clear
+1542,Lentil(Masur),Chandausi,2017-01-03,6400.0,0.6,21.2,clear
+1543,Lentil(Masur),Muradabad,2017-01-03,6550.0,6.0,21.2,clear
+1544,Bengal Gram(Gram),Muradabad,2017-02-03,8275.0,6.0,19.6,clear
+1545,Black Gram (Urd Beans),Muradabad,2017-02-03,7450.0,4.5,19.6,clear
+1546,Green Gram (Moong),Muradabad,2017-02-03,7160.0,2.8,19.6,clear
+1547,Lentil(Masur),Chandausi,2017-02-03,6350.0,0.5,19.6,clear
+1548,Lentil(Masur),Muradabad,2017-02-03,6600.0,4.0,19.6,clear
+1549,Bengal Gram(Gram),Muradabad,2017-03-03,8200.0,7.5,27.0,clear
+1550,Black Gram (Urd Beans),Muradabad,2017-03-03,7440.0,5.5,27.0,clear
+1551,Green Gram (Moong),Muradabad,2017-03-03,7100.0,3.0,27.0,clear
+1552,Lentil(Masur),Chandausi,2017-03-03,6310.0,0.8,27.0,clear
+1553,Lentil(Masur),Muradabad,2017-03-03,6550.0,4.5,27.0,clear
+1554,Bengal Gram(Gram),Muradabad,2017-04-03,8000.0,8.0,34.4,clear
+1555,Black Gram (Urd Beans),Muradabad,2017-04-03,7400.0,6.0,34.4,clear
+1556,Green Gram (Moong),Muradabad,2017-04-03,7050.0,4.2,34.4,clear
+1557,Lentil(Masur),Chandausi,2017-04-03,6325.0,1.0,34.4,clear
+1558,Lentil(Masur),Muradabad,2017-04-03,6600.0,5.0,34.4,clear
+1559,Bengal Gram(Gram),Muradabad,2017-05-03,7800.0,7.0,34.8,clear
+1560,Black Gram (Urd Beans),Muradabad,2017-05-03,7350.0,5.0,34.8,clear
+1561,Green Gram (Moong),Muradabad,2017-05-03,7040.0,3.0,34.8,clear
+1562,Bengal Gram(Gram),Muradabad,2017-06-03,7700.0,7.5,37.4,clear
+1563,Black Gram (Urd Beans),Muradabad,2017-06-03,7360.0,4.5,37.4,clear
+1564,Green Gram (Moong),Muradabad,2017-06-03,7020.0,3.5,37.4,clear
+1565,Lentil(Masur),Chandausi,2017-06-03,6315.0,0.8,37.4,clear
+1566,Lentil(Masur),Muradabad,2017-06-03,6450.0,7.5,37.4,clear
+1567,Bengal Gram(Gram),Muradabad,2017-08-03,7000.0,8.6,31.6,clear
+1568,Black Gram (Urd Beans),Muradabad,2017-08-03,7200.0,5.0,31.6,clear
+1569,Green Gram (Moong),Muradabad,2017-08-03,6750.0,4.0,31.6,clear
+1570,Lentil(Masur),Chandausi,2017-08-03,6290.0,0.7,31.6,clear
+1571,Lentil(Masur),Muradabad,2017-08-03,6300.0,6.5,31.6,clear
+1572,Bengal Gram(Gram),Muradabad,2017-09-03,6900.0,9.0,31.4,clear
+1573,Black Gram (Urd Beans),Muradabad,2017-09-03,7230.0,4.0,31.4,clear
+1574,Green Gram (Moong),Muradabad,2017-09-03,6700.0,5.4,31.4,clear
+1575,Lentil(Masur),Muradabad,2017-09-03,6250.0,5.0,31.4,clear
+1576,Bengal Gram(Gram),Muradabad,2017-10-03,6500.0,9.5,30.0,clear
+1577,Black Gram (Urd Beans),Muradabad,2017-10-03,7200.0,5.5,30.0,clear
+1578,Green Gram (Moong),Muradabad,2017-10-03,6500.0,6.0,30.0,clear
+1579,Lentil(Masur),Chandausi,2017-10-03,6300.0,1.0,30.0,clear
+1580,Lentil(Masur),Muradabad,2017-10-03,6200.0,6.0,30.0,clear
+1581,Bengal Gram(Gram),Muradabad,2017-11-03,6350.0,9.0,25.4,clear
+1582,Black Gram (Urd Beans),Muradabad,2017-11-03,7200.0,6.0,25.4,clear
+1583,Green Gram (Moong),Muradabad,2017-11-03,6475.0,4.0,25.4,clear
+1584,Lentil(Masur),Chandausi,2017-11-03,6285.0,0.4,25.4,clear
+1585,Lentil(Masur),Muradabad,2017-11-03,6150.0,8.0,25.4,clear
+1586,Bengal Gram(Gram),Muradabad,2017-12-03,6250.0,8.0,20.4,clear
+1587,Black Gram (Urd Beans),Muradabad,2017-12-03,7180.0,5.0,20.4,clear
+1588,Green Gram (Moong),Muradabad,2017-12-03,6400.0,5.0,20.4,clear
+1589,Lentil(Masur),Muradabad,2017-12-03,6100.0,5.0,20.4,clear
+1590,Bengal Gram(Gram),Muradabad,2017-03-15,6180.0,7.6,26.2,clear
+1591,Black Gram (Urd Beans),Muradabad,2017-03-15,7150.0,6.0,26.2,clear
+1592,Green Gram (Moong),Muradabad,2017-03-15,6300.0,4.5,26.2,clear
+1593,Lentil(Masur),Chandausi,2017-03-15,6260.0,0.8,26.2,clear
+1594,Lentil(Masur),Muradabad,2017-03-15,6075.0,6.0,26.2,clear
+1595,Bengal Gram(Gram),Muradabad,2017-03-16,6175.0,8.0,26.6,clear
+1596,Black Gram (Urd Beans),Muradabad,2017-03-16,7140.0,5.0,26.6,clear
+1597,Green Gram (Moong),Muradabad,2017-03-16,6250.0,4.8,26.6,clear
+1598,Lentil(Masur),Chandausi,2017-03-16,6245.0,1.2,26.6,clear
+1599,Lentil(Masur),Muradabad,2017-03-16,6100.0,5.0,26.6,clear
+1600,Bengal Gram(Gram),Muradabad,2017-03-17,6150.0,8.5,25.4,clear
+1601,Black Gram (Urd Beans),Muradabad,2017-03-17,7100.0,6.0,25.4,clear
+1602,Green Gram (Moong),Muradabad,2017-03-17,6200.0,5.0,25.4,clear
+1603,Lentil(Masur),Chandausi,2017-03-17,6235.0,1.0,25.4,clear
+1604,Lentil(Masur),Muradabad,2017-03-17,6150.0,4.5,25.4,clear
+1605,Bengal Gram(Gram),Muradabad,2017-03-18,6000.0,9.0,26.0,clear
+1606,Black Gram (Urd Beans),Muradabad,2017-03-18,6950.0,4.0,26.0,clear
+1607,Green Gram (Moong),Muradabad,2017-03-18,6100.0,6.0,26.0,clear
+1608,Lentil(Masur),Chandausi,2017-03-18,6220.0,1.2,26.0,clear
+1609,Lentil(Masur),Muradabad,2017-03-18,6100.0,5.0,26.0,clear
+1610,Bengal Gram(Gram),Muradabad,2017-03-19,5850.0,8.5,26.8,clear
+1611,Black Gram (Urd Beans),Muradabad,2017-03-19,6925.0,5.0,26.8,clear
+1612,Green Gram (Moong),Muradabad,2017-03-19,6050.0,8.0,26.8,clear
+1613,Lentil(Masur),Muradabad,2017-03-19,6150.0,4.0,26.8,clear
+1614,Bengal Gram(Gram),Muradabad,2017-03-20,5800.0,9.0,26.4,clear
+1615,Black Gram (Urd Beans),Muradabad,2017-03-20,6900.0,7.0,26.4,clear
+1616,Green Gram (Moong),Muradabad,2017-03-20,6025.0,5.0,26.4,clear
+1617,Lentil(Masur),Chandausi,2017-03-20,6210.0,0.8,26.4,clear
+1618,Lentil(Masur),Muradabad,2017-03-20,6140.0,5.0,26.4,clear
+1619,Bengal Gram(Gram),Muradabad,2017-03-22,5800.0,6.5,29.6,clear
+1620,Black Gram (Urd Beans),Muradabad,2017-03-22,6875.0,5.0,29.6,clear
+1621,Green Gram (Moong),Muradabad,2017-03-22,6000.0,6.0,29.6,clear
+1622,Lentil(Masur),Chandausi,2017-03-22,6180.0,0.7,29.6,clear
+1623,Lentil(Masur),Muradabad,2017-03-22,6150.0,4.0,29.6,clear
+1624,Bengal Gram(Gram),Muradabad,2017-03-23,5750.0,7.0,30.0,clear
+1625,Black Gram (Urd Beans),Muradabad,2017-03-23,6870.0,4.5,30.0,clear
+1626,Green Gram (Moong),Muradabad,2017-03-23,6020.0,4.8,30.0,clear
+1627,Lentil(Masur),Chandausi,2017-03-23,6150.0,0.8,30.0,clear
+1628,Lentil(Masur),Muradabad,2017-03-23,6125.0,5.0,30.0,clear
+1629,Bengal Gram(Gram),Muradabad,2017-03-24,5700.0,8.0,31.4,clear
+1630,Black Gram (Urd Beans),Muradabad,2017-03-24,6900.0,3.0,31.4,clear
+1631,Green Gram (Moong),Muradabad,2017-03-24,6050.0,4.0,31.4,clear
+1632,Lentil(Masur),Chandausi,2017-03-24,6145.0,1.0,31.4,clear
+1633,Lentil(Masur),Muradabad,2017-03-24,6150.0,4.0,31.4,clear
+1634,Bengal Gram(Gram),Muradabad,2017-03-25,5650.0,7.0,31.6,clear
+1635,Black Gram (Urd Beans),Muradabad,2017-03-25,6950.0,4.0,31.6,clear
+1636,Green Gram (Moong),Muradabad,2017-03-25,6020.0,3.0,31.6,clear
+1637,Lentil(Masur),Chandausi,2017-03-25,6130.0,1.2,31.6,clear
+1638,Lentil(Masur),Muradabad,2017-03-25,6100.0,6.2,31.6,clear
+1639,Bengal Gram(Gram),Muradabad,2017-03-26,5600.0,6.0,31.2,clear
+1640,Black Gram (Urd Beans),Muradabad,2017-03-26,6970.0,3.0,31.2,clear
+1641,Green Gram (Moong),Muradabad,2017-03-26,6025.0,2.4,31.2,clear
+1642,Lentil(Masur),Muradabad,2017-03-26,6125.0,4.5,31.2,clear
+1643,Bengal Gram(Gram),Muradabad,2017-03-27,5560.0,7.0,31.6,clear
+1644,Black Gram (Urd Beans),Muradabad,2017-03-27,7000.0,4.0,31.6,clear
+1645,Green Gram (Moong),Muradabad,2017-03-27,6100.0,2.0,31.6,clear
+1646,Lentil(Masur),Chandausi,2017-03-27,6125.0,1.1,31.6,clear
+1647,Lentil(Masur),Muradabad,2017-03-27,6100.0,5.0,31.6,clear
+1648,Bengal Gram(Gram),Muradabad,2017-03-29,5500.0,5.0,33.8,clear
+1649,Black Gram (Urd Beans),Muradabad,2017-03-29,6975.0,5.0,33.8,clear
+1650,Green Gram (Moong),Muradabad,2017-03-29,6125.0,2.4,33.8,clear
+1651,Lentil(Masur),Chandausi,2017-03-29,6090.0,1.2,33.8,clear
+1652,Lentil(Masur),Muradabad,2017-03-29,6050.0,6.0,33.8,clear
+1653,Bengal Gram(Gram),Muradabad,2017-03-30,5400.0,7.0,34.4,clear
+1654,Bengal Gram(Gram),Sambhal,2017-03-30,7080.0,0.6,34.4,clear
+1655,Black Gram (Urd Beans),Muradabad,2017-03-30,6980.0,2.8,34.4,clear
+1656,Green Gram (Moong),Muradabad,2017-03-30,6100.0,4.0,34.4,clear
+1657,Lentil(Masur),Chandausi,2017-03-30,6050.0,1.1,34.4,clear
+1658,Lentil(Masur),Muradabad,2017-03-30,6040.0,4.5,34.4,clear
+1659,Bengal Gram(Gram),Muradabad,2017-03-31,5650.0,4.0,33.0,clear
+1660,Black Gram (Urd Beans),Muradabad,2017-03-31,7000.0,4.2,33.0,clear
+1661,Green Gram (Moong),Muradabad,2017-03-31,6200.0,3.6,33.0,clear
+1662,Lentil(Masur),Chandausi,2017-03-31,6030.0,1.2,33.0,clear
+1663,Lentil(Masur),Muradabad,2017-03-31,6100.0,5.0,33.0,clear
+1664,Bengal Gram(Gram),Muradabad,2017-01-04,5600.0,5.0,19.8,clear
+1665,Black Gram (Urd Beans),Muradabad,2017-01-04,7020.0,4.5,19.8,clear
+1666,Green Gram (Moong),Muradabad,2017-01-04,6225.0,4.0,19.8,clear
+1667,Lentil(Masur),Chandausi,2017-01-04,6000.0,1.6,19.8,clear
+1668,Lentil(Masur),Muradabad,2017-01-04,6130.0,4.5,19.8,clear
+1669,Bengal Gram(Gram),Muradabad,2017-02-04,5575.0,6.0,20.4,clear
+1670,Black Gram (Urd Beans),Muradabad,2017-02-04,7050.0,2.6,20.4,clear
+1671,Green Gram (Moong),Muradabad,2017-02-04,6200.0,5.0,20.4,clear
+1672,Lentil(Masur),Muradabad,2017-02-04,6100.0,5.0,20.4,clear
+1673,Bengal Gram(Gram),Muradabad,2017-03-04,5540.0,8.0,25.2,clear
+1674,Black Gram (Urd Beans),Muradabad,2017-03-04,7060.0,2.4,25.2,clear
+1675,Green Gram (Moong),Muradabad,2017-03-04,6175.0,5.4,25.2,clear
+1676,Lentil(Masur),Chandausi,2017-03-04,5975.0,2.2,25.2,clear
+1677,Lentil(Masur),Muradabad,2017-03-04,6050.0,6.2,25.2,clear
+1678,Bengal Gram(Gram),Muradabad,2017-05-04,5500.0,5.0,35.4,clear
+1679,Black Gram (Urd Beans),Muradabad,2017-05-04,7000.0,2.1,35.4,clear
+1680,Green Gram (Moong),Muradabad,2017-05-04,6150.0,6.0,35.4,clear
+1681,Lentil(Masur),Chandausi,2017-05-04,5910.0,2.0,35.4,clear
+1682,Lentil(Masur),Muradabad,2017-05-04,6000.0,8.0,35.4,clear
+1683,Bengal Gram(Gram),Muradabad,2017-06-04,5550.0,6.5,38.8,clear
+1684,Black Gram (Urd Beans),Muradabad,2017-06-04,7150.0,2.0,38.8,clear
+1685,Green Gram (Moong),Muradabad,2017-06-04,6200.0,5.0,38.8,clear
+1686,Lentil(Masur),Chandausi,2017-06-04,5860.0,1.5,38.8,clear
+1687,Lentil(Masur),Muradabad,2017-06-04,6050.0,7.5,38.8,clear
+1688,Bengal Gram(Gram),Muradabad,2017-07-04,5500.0,7.5,31.2,clear
+1689,Black Gram (Urd Beans),Muradabad,2017-07-04,7100.0,3.0,31.2,clear
+1690,Green Gram (Moong),Muradabad,2017-07-04,6100.0,6.0,31.2,clear
+1691,Lentil(Masur),Chandausi,2017-07-04,5835.0,1.4,31.2,clear
+1692,Lentil(Masur),Muradabad,2017-07-04,6000.0,8.0,31.2,clear
+1693,Bengal Gram(Gram),Muradabad,2017-08-04,5450.0,8.0,28.4,clear
+1694,Black Gram (Urd Beans),Muradabad,2017-08-04,7125.0,5.0,28.4,clear
+1695,Green Gram (Moong),Muradabad,2017-08-04,6150.0,3.0,28.4,clear
+1696,Lentil(Masur),Chandausi,2017-08-04,5830.0,1.8,28.4,clear
+1697,Lentil(Masur),Muradabad,2017-08-04,6040.0,5.0,28.4,clear
+1698,Bengal Gram(Gram),Muradabad,2017-09-04,5400.0,7.0,31.8,clear
+1699,Black Gram (Urd Beans),Muradabad,2017-09-04,7150.0,3.0,31.8,clear
+1700,Green Gram (Moong),Muradabad,2017-09-04,6200.0,2.0,31.8,clear
+1701,Lentil(Masur),Muradabad,2017-09-04,6050.0,6.0,31.8,clear
+1702,Bengal Gram(Gram),Muradabad,2017-10-04,5425.0,4.8,30.6,clear
+1703,Black Gram (Urd Beans),Muradabad,2017-10-04,7175.0,4.0,30.6,clear
+1704,Green Gram (Moong),Muradabad,2017-10-04,6150.0,4.2,30.6,clear
+1705,Lentil(Masur),Muradabad,2017-10-04,6020.0,5.5,30.6,clear
+1706,Bengal Gram(Gram),Muradabad,2017-12-04,5550.0,40.0,18.0,clear
+1707,Black Gram (Urd Beans),Muradabad,2017-12-04,7100.0,5.0,18.0,clear
+1708,Green Gram (Moong),Muradabad,2017-12-04,6100.0,5.0,18.0,clear
+1709,Lentil(Masur),Chandausi,2017-12-04,5755.0,2.0,18.0,clear
+1710,Lentil(Masur),Muradabad,2017-12-04,6050.0,6.0,18.0,clear
+1711,Bengal Gram(Gram),Muradabad,2017-04-13,5600.0,5.0,31.8,clear
+1712,Black Gram (Urd Beans),Muradabad,2017-04-13,7120.0,6.0,31.8,clear
+1713,Green Gram (Moong),Muradabad,2017-04-13,6100.0,6.0,31.8,clear
+1714,Lentil(Masur),Chandausi,2017-04-13,5725.0,2.4,31.8,clear
+1715,Lentil(Masur),Muradabad,2017-04-13,6075.0,7.6,31.8,clear
+1716,Bengal Gram(Gram),Muradabad,2017-04-14,5775.0,4.0,34.0,clear
+1717,Black Gram (Urd Beans),Muradabad,2017-04-14,7025.0,4.0,34.0,clear
+1718,Green Gram (Moong),Muradabad,2017-04-14,6150.0,4.5,34.0,clear
+1719,Lentil(Masur),Chandausi,2017-04-14,5740.0,2.6,34.0,clear
+1720,Lentil(Masur),Muradabad,2017-04-14,6100.0,5.0,34.0,clear
+1721,Bengal Gram(Gram),Muradabad,2017-04-15,5800.0,3.0,34.4,clear
+1722,Black Gram (Urd Beans),Muradabad,2017-04-15,7050.0,3.0,34.4,clear
+1723,Green Gram (Moong),Muradabad,2017-04-15,6130.0,4.0,34.4,clear
+1724,Lentil(Masur),Chandausi,2017-04-15,5755.0,2.0,34.4,clear
+1725,Lentil(Masur),Muradabad,2017-04-15,6080.0,6.0,34.4,clear
+1726,Bengal Gram(Gram),Muradabad,2017-04-16,5800.0,4.0,33.6,clear
+1727,Black Gram (Urd Beans),Muradabad,2017-04-16,7060.0,4.0,33.6,clear
+1728,Green Gram (Moong),Muradabad,2017-04-16,6150.0,2.5,33.6,clear
+1729,Lentil(Masur),Muradabad,2017-04-16,6075.0,4.5,33.6,clear
+1730,Bengal Gram(Gram),Muradabad,2017-04-17,5900.0,3.0,34.2,clear
+1731,Black Gram (Urd Beans),Muradabad,2017-04-17,7025.0,5.0,34.2,clear
+1732,Green Gram (Moong),Muradabad,2017-04-17,6100.0,4.2,34.2,clear
+1733,Lentil(Masur),Chandausi,2017-04-17,5775.0,2.2,34.2,clear
+1734,Lentil(Masur),Muradabad,2017-04-17,6100.0,4.0,34.2,clear
+1735,Bengal Gram(Gram),Muradabad,2017-04-19,5900.0,3.5,35.4,clear
+1736,Black Gram (Urd Beans),Muradabad,2017-04-19,7060.0,4.5,35.4,clear
+1737,Green Gram (Moong),Muradabad,2017-04-19,6150.0,3.0,35.4,clear
+1738,Lentil(Masur),Chandausi,2017-04-19,5740.0,1.8,35.4,clear
+1739,Lentil(Masur),Muradabad,2017-04-19,6080.0,4.5,35.4,clear
+1740,Bengal Gram(Gram),Muradabad,2017-04-20,5950.0,4.5,35.2,clear
+1741,Green Gram (Moong),Muradabad,2017-04-20,6100.0,5.0,35.2,clear
+1742,Lentil(Masur),Chandausi,2017-04-20,5715.0,1.6,35.2,clear
+1743,Lentil(Masur),Muradabad,2017-04-20,6100.0,4.0,35.2,clear
+1744,Bengal Gram(Gram),Muradabad,2017-04-21,5970.0,3.0,33.4,clear
+1745,Black Gram (Urd Beans),Muradabad,2017-04-21,6900.0,3.6,33.4,clear
+1746,Green Gram (Moong),Muradabad,2017-04-21,6180.0,4.0,33.4,clear
+1747,Lentil(Masur),Chandausi,2017-04-21,5685.0,1.8,33.4,clear
+1748,Lentil(Masur),Muradabad,2017-04-21,6090.0,5.0,33.4,clear
+1749,Bengal Gram(Gram),Muradabad,2017-04-22,5980.0,4.0,33.4,clear
+1750,Black Gram (Urd Beans),Muradabad,2017-04-22,7000.0,3.0,33.4,clear
+1751,Green Gram (Moong),Muradabad,2017-04-22,6175.0,3.5,33.4,clear
+1752,Lentil(Masur),Chandausi,2017-04-22,5650.0,2.0,33.4,clear
+1753,Lentil(Masur),Muradabad,2017-04-22,6075.0,6.5,33.4,clear
+1754,Bengal Gram(Gram),Muradabad,2017-04-23,6000.0,3.0,34.8,clear
+1755,Black Gram (Urd Beans),Muradabad,2017-04-23,7025.0,4.8,34.8,clear
+1756,Green Gram (Moong),Muradabad,2017-04-23,6150.0,4.0,34.8,clear
+1757,Lentil(Masur),Muradabad,2017-04-23,6050.0,4.0,34.8,clear
+1758,Bengal Gram(Gram),Muradabad,2017-04-24,6025.0,4.0,35.0,clear
+1759,Black Gram (Urd Beans),Muradabad,2017-04-24,7030.0,4.2,35.0,clear
+1760,Green Gram (Moong),Muradabad,2017-04-24,6200.0,3.0,35.0,clear
+1761,Lentil(Masur),Chandausi,2017-04-24,5600.0,3.5,35.0,clear
+1762,Lentil(Masur),Muradabad,2017-04-24,6080.0,4.5,35.0,clear
+1763,Bengal Gram(Gram),Muradabad,2017-04-26,6000.0,5.0,34.2,clear
+1764,Black Gram (Urd Beans),Muradabad,2017-04-26,6800.0,5.0,34.2,clear
+1765,Green Gram (Moong),Muradabad,2017-04-26,6210.0,4.0,34.2,clear
+1766,Lentil(Masur),Chandausi,2017-04-26,5510.0,3.0,34.2,clear
+1767,Lentil(Masur),Muradabad,2017-04-26,6050.0,6.0,34.2,clear
+1768,Bengal Gram(Gram),Muradabad,2017-04-27,6040.0,4.5,34.0,clear
+1769,Black Gram (Urd Beans),Muradabad,2017-04-27,6900.0,4.0,34.0,clear
+1770,Green Gram (Moong),Muradabad,2017-04-27,6250.0,3.0,34.0,clear
+1771,Lentil(Masur),Muradabad,2017-04-27,6075.0,4.8,34.0,clear
+1772,Bengal Gram(Gram),Muradabad,2017-04-28,6100.0,4.4,35.0,clear
+1773,Black Gram (Urd Beans),Muradabad,2017-04-28,7100.0,3.6,35.0,clear
+1774,Green Gram (Moong),Muradabad,2017-04-28,6300.0,2.9,35.0,clear
+1775,Lentil(Masur),Muradabad,2017-04-28,6050.0,6.0,35.0,clear
+1776,Bengal Gram(Gram),Muradabad,2017-04-29,6075.0,6.0,33.6,clear
+1777,Black Gram (Urd Beans),Bhehjoi,2017-04-29,5270.0,2.4,33.6,clear
+1778,Black Gram (Urd Beans),Muradabad,2017-04-29,7120.0,3.5,33.6,clear
+1779,Green Gram (Moong),Muradabad,2017-04-29,6200.0,4.0,33.6,clear
+1780,Lentil(Masur),Muradabad,2017-04-29,6100.0,5.0,33.6,clear
+1781,Bengal Gram(Gram),Muradabad,2017-01-05,6200.0,3.5,18.0,clear
+1782,Black Gram (Urd Beans),Muradabad,2017-01-05,7130.0,5.0,18.0,clear
+1783,Green Gram (Moong),Muradabad,2017-01-05,6270.0,3.0,18.0,clear
+1784,Lentil(Masur),Chandausi,2017-01-05,5375.0,2.2,18.0,clear
+1785,Lentil(Masur),Muradabad,2017-01-05,6080.0,5.0,18.0,clear
+1786,Bengal Gram(Gram),Muradabad,2017-03-05,6240.0,5.0,25.0,clear
+1787,Black Gram (Urd Beans),Muradabad,2017-03-05,7150.0,4.0,25.0,clear
+1788,Green Gram (Moong),Muradabad,2017-03-05,6275.0,4.0,25.0,clear
+1789,Lentil(Masur),Chandausi,2017-03-05,5300.0,2.6,25.0,clear
+1790,Lentil(Masur),Muradabad,2017-03-05,6075.0,4.0,25.0,clear
+1791,Bengal Gram(Gram),Muradabad,2017-04-05,6275.0,4.5,28.6,clear
+1792,Black Gram (Urd Beans),Muradabad,2017-04-05,7200.0,3.5,28.6,clear
+1793,Green Gram (Moong),Muradabad,2017-04-05,6300.0,3.5,28.6,clear
+1794,Lentil(Masur),Chandausi,2017-04-05,5260.0,2.6,28.6,clear
+1795,Lentil(Masur),Muradabad,2017-04-05,6100.0,3.5,28.6,clear
+1796,Bengal Gram(Gram),Muradabad,2017-05-05,6600.0,4.0,35.2,clear
+1797,Black Gram (Urd Beans),Muradabad,2017-05-05,7300.0,4.5,35.2,clear
+1798,Green Gram (Moong),Muradabad,2017-05-05,6350.0,4.0,35.2,clear
+1799,Lentil(Masur),Chandausi,2017-05-05,5220.0,2.5,35.2,clear
+1800,Lentil(Masur),Muradabad,2017-05-05,6150.0,3.0,35.2,clear
+1801,Bengal Gram(Gram),Muradabad,2017-06-05,6600.0,5.4,38.4,clear
+1802,Black Gram (Urd Beans),Muradabad,2017-06-05,7250.0,5.0,38.4,clear
+1803,Green Gram (Moong),Muradabad,2017-06-05,6300.0,4.8,38.4,clear
+1804,Lentil(Masur),Chandausi,2017-06-05,5175.0,3.2,38.4,clear
+1805,Lentil(Masur),Muradabad,2017-06-05,6200.0,4.0,38.4,clear
+1806,Bengal Gram(Gram),Muradabad,2017-07-05,6600.0,4.0,28.2,clear
+1807,Black Gram (Urd Beans),Muradabad,2017-07-05,7225.0,4.0,28.2,clear
+1808,Green Gram (Moong),Muradabad,2017-07-05,6275.0,2.5,28.2,clear
+1809,Lentil(Masur),Muradabad,2017-07-05,6210.0,3.5,28.2,clear
+1810,Bengal Gram(Gram),Muradabad,2017-08-05,6620.0,6.0,32.0,clear
+1811,Black Gram (Urd Beans),Muradabad,2017-08-05,7200.0,5.0,32.0,clear
+1812,Green Gram (Moong),Muradabad,2017-08-05,6270.0,4.0,32.0,clear
+1813,Lentil(Masur),Chandausi,2017-08-05,5160.0,2.5,32.0,clear
+1814,Lentil(Masur),Muradabad,2017-08-05,6220.0,4.0,32.0,clear
+1815,Bengal Gram(Gram),Muradabad,2017-10-05,6600.0,7.0,30.8,clear
+1816,Black Gram (Urd Beans),Muradabad,2017-10-05,7100.0,6.0,30.8,clear
+1817,Green Gram (Moong),Muradabad,2017-10-05,6240.0,5.0,30.8,clear
+1818,Lentil(Masur),Chandausi,2017-10-05,5165.0,2.2,30.8,clear
+1819,Lentil(Masur),Muradabad,2017-10-05,6175.0,6.0,30.8,clear
+1820,Bengal Gram(Gram),Muradabad,2017-11-05,6625.0,5.4,26.6,clear
+1821,Black Gram (Urd Beans),Muradabad,2017-11-05,7050.0,7.0,26.6,clear
+1822,Green Gram (Moong),Muradabad,2017-11-05,6220.0,4.8,26.6,clear
+1823,Lentil(Masur),Chandausi,2017-11-05,5160.0,2.6,26.6,clear
+1824,Lentil(Masur),Muradabad,2017-11-05,6100.0,8.0,26.6,clear
+1825,Bengal Gram(Gram),Muradabad,2017-05-13,6700.0,4.0,36.2,clear
+1826,Black Gram (Urd Beans),Muradabad,2017-05-13,7075.0,4.0,36.2,clear
+1827,Lentil(Masur),Chandausi,2017-05-13,5175.0,2.0,36.2,clear
+1828,Lentil(Masur),Muradabad,2017-05-13,6080.0,5.4,36.2,clear
+1829,Bengal Gram(Gram),Muradabad,2017-05-14,6650.0,6.5,38.2,clear
+1830,Black Gram (Urd Beans),Muradabad,2017-05-14,7060.0,5.0,38.2,clear
+1831,Green Gram (Moong),Muradabad,2017-05-14,6200.0,5.0,38.2,clear
+1832,Lentil(Masur),Muradabad,2017-05-14,6100.0,6.0,38.2,clear
+1833,Bengal Gram(Gram),Muradabad,2017-05-15,6620.0,7.0,38.4,clear
+1834,Black Gram (Urd Beans),Muradabad,2017-05-15,7000.0,6.0,38.4,clear
+1835,Green Gram (Moong),Muradabad,2017-05-15,6180.0,3.5,38.4,clear
+1836,Lentil(Masur),Chandausi,2017-05-15,5160.0,2.4,38.4,clear
+1837,Lentil(Masur),Muradabad,2017-05-15,6075.0,4.0,38.4,clear
+1838,Bengal Gram(Gram),Muradabad,2017-05-17,6600.0,6.0,31.0,clear
+1839,Black Gram (Urd Beans),Muradabad,2017-05-17,7020.0,4.5,31.0,clear
+1840,Green Gram (Moong),Muradabad,2017-05-17,6190.0,2.4,31.0,clear
+1841,Lentil(Masur),Chandausi,2017-05-17,5135.0,2.5,31.0,clear
+1842,Lentil(Masur),Muradabad,2017-05-17,6050.0,4.5,31.0,clear
+1843,Bengal Gram(Gram),Muradabad,2017-05-18,6625.0,5.0,35.8,clear
+1844,Black Gram (Urd Beans),Muradabad,2017-05-18,7025.0,3.2,35.8,clear
+1845,Green Gram (Moong),Muradabad,2017-05-18,6185.0,2.8,35.8,clear
+1846,Lentil(Masur),Chandausi,2017-05-18,5140.0,2.4,35.8,clear
+1847,Lentil(Masur),Muradabad,2017-05-18,6075.0,5.0,35.8,clear
+1848,Bengal Gram(Gram),Muradabad,2017-05-20,6675.0,3.0,33.4,clear
+1849,Black Gram (Urd Beans),Muradabad,2017-05-20,7075.0,3.2,33.4,clear
+1850,Green Gram (Moong),Muradabad,2017-05-20,6175.0,4.2,33.4,clear
+1851,Lentil(Masur),Chandausi,2017-05-20,5145.0,1.4,33.4,clear
+1852,Lentil(Masur),Muradabad,2017-05-20,6075.0,5.0,33.4,clear
+1853,Bengal Gram(Gram),Muradabad,2017-05-21,6650.0,5.0,37.6,clear
+1854,Black Gram (Urd Beans),Muradabad,2017-05-21,7080.0,2.5,37.6,clear
+1855,Green Gram (Moong),Muradabad,2017-05-21,6150.0,4.0,37.6,clear
+1856,Lentil(Masur),Muradabad,2017-05-21,6080.0,4.5,37.6,clear
+1857,Bengal Gram(Gram),Muradabad,2017-05-22,6670.0,4.0,35.0,clear
+1858,Black Gram (Urd Beans),Muradabad,2017-05-22,7050.0,3.4,35.0,clear
+1859,Green Gram (Moong),Muradabad,2017-05-22,6170.0,3.0,35.0,clear
+1860,Lentil(Masur),Chandausi,2017-05-22,5160.0,1.6,35.0,clear
+1861,Lentil(Masur),Muradabad,2017-05-22,6100.0,3.0,35.0,clear
+1862,Bengal Gram(Gram),Muradabad,2017-05-24,6675.0,5.0,37.8,clear
+1863,Black Gram (Urd Beans),Muradabad,2017-05-24,7000.0,4.0,37.8,clear
+1864,Green Gram (Moong),Muradabad,2017-05-24,6150.0,4.1,37.8,clear
+1865,Lentil(Masur),Chandausi,2017-05-24,5180.0,1.8,37.8,clear
+1866,Lentil(Masur),Muradabad,2017-05-24,6050.0,4.5,37.8,clear
+1867,Bengal Gram(Gram),Muradabad,2017-05-25,6700.0,4.5,38.4,clear
+1868,Black Gram (Urd Beans),Muradabad,2017-05-25,7020.0,3.0,38.4,clear
+1869,Green Gram (Moong),Muradabad,2017-05-25,6125.0,4.5,38.4,clear
+1870,Lentil(Masur),Chandausi,2017-05-25,5200.0,1.5,38.4,clear
+1871,Lentil(Masur),Muradabad,2017-05-25,6030.0,5.2,38.4,clear
+1872,Bengal Gram(Gram),Muradabad,2017-05-26,6700.0,7.0,35.0,clear
+1873,Black Gram (Urd Beans),Muradabad,2017-05-26,7025.0,4.0,35.0,clear
+1874,Green Gram (Moong),Muradabad,2017-05-26,6150.0,4.0,35.0,clear
+1875,Lentil(Masur),Chandausi,2017-05-26,5210.0,1.6,35.0,clear
+1876,Lentil(Masur),Muradabad,2017-05-26,6025.0,6.0,35.0,clear
+1877,Bengal Gram(Gram),Muradabad,2017-05-27,6750.0,6.5,32.0,clear
+1878,Black Gram (Urd Beans),Muradabad,2017-05-27,7040.0,5.0,32.0,clear
+1879,Green Gram (Moong),Muradabad,2017-05-27,6180.0,3.5,32.0,clear
+1880,Lentil(Masur),Chandausi,2017-05-27,5225.0,1.5,32.0,clear
+1881,Lentil(Masur),Muradabad,2017-05-27,6050.0,7.0,32.0,clear
+1882,Bengal Gram(Gram),Muradabad,2017-05-28,6740.0,8.0,32.8,clear
+1883,Black Gram (Urd Beans),Muradabad,2017-05-28,7050.0,8.0,32.8,clear
+1884,Green Gram (Moong),Muradabad,2017-05-28,6175.0,4.0,32.8,clear
+1885,Lentil(Masur),Muradabad,2017-05-28,6040.0,4.5,32.8,clear
+1886,Bengal Gram(Gram),Muradabad,2017-05-29,6750.0,6.0,31.2,clear
+1887,Bengal Gram(Gram),Sambhal,2017-05-29,6375.0,1.0,31.2,clear
+1888,Black Gram (Urd Beans),Muradabad,2017-05-29,7025.0,2.0,31.2,clear
+1889,Green Gram (Moong),Muradabad,2017-05-29,6150.0,4.5,31.2,clear
+1890,Lentil(Masur),Chandausi,2017-05-29,5235.0,1.4,31.2,clear
+1891,Lentil(Masur),Muradabad,2017-05-29,6050.0,4.0,31.2,clear
+1892,Bengal Gram(Gram),Muradabad,2017-05-31,6760.0,5.0,33.4,clear
+1893,Black Gram (Urd Beans),Muradabad,2017-05-31,7060.0,3.2,33.4,clear
+1894,Green Gram (Moong),Muradabad,2017-05-31,6160.0,5.0,33.4,clear
+1895,Lentil(Masur),Chandausi,2017-05-31,5260.0,1.5,33.4,clear
+1896,Lentil(Masur),Muradabad,2017-05-31,6040.0,5.0,33.4,clear
+1897,Bengal Gram(Gram),Muradabad,2017-01-06,6775.0,6.0,14.6,clear
+1898,Black Gram (Urd Beans),Muradabad,2017-01-06,7075.0,3.5,14.6,clear
+1899,Green Gram (Moong),Muradabad,2017-01-06,6150.0,4.5,14.6,clear
+1900,Lentil(Masur),Chandausi,2017-01-06,5275.0,1.5,14.6,clear
+1901,Lentil(Masur),Muradabad,2017-01-06,6100.0,4.5,14.6,clear
+1902,Bengal Gram(Gram),Muradabad,2017-02-06,6800.0,3.0,22.4,clear
+1903,Black Gram (Urd Beans),Muradabad,2017-02-06,7080.0,3.0,22.4,clear
+1904,Green Gram (Moong),Muradabad,2017-02-06,6160.0,4.21,22.4,clear
+1905,Lentil(Masur),Chandausi,2017-02-06,5285.0,1.2,22.4,clear
+1906,Lentil(Masur),Muradabad,2017-02-06,6080.0,5.0,22.4,clear
+1907,Bengal Gram(Gram),Muradabad,2017-03-06,6825.0,4.0,25.2,clear
+1908,Black Gram (Urd Beans),Muradabad,2017-03-06,7075.0,4.5,25.2,clear
+1909,Green Gram (Moong),Muradabad,2017-03-06,6170.0,3.0,25.2,clear
+1910,Lentil(Masur),Chandausi,2017-03-06,5300.0,1.4,25.2,clear
+1911,Lentil(Masur),Muradabad,2017-03-06,6075.0,6.0,25.2,clear
+1912,Bengal Gram(Gram),Muradabad,2017-04-06,6875.0,3.5,32.0,clear
+1913,Black Gram (Urd Beans),Muradabad,2017-04-06,7080.0,6.0,32.0,clear
+1914,Green Gram (Moong),Muradabad,2017-04-06,6200.0,4.0,32.0,clear
+1915,Lentil(Masur),Muradabad,2017-04-06,6100.0,5.0,32.0,clear
+1916,Bengal Gram(Gram),Muradabad,2017-05-06,6850.0,5.0,37.0,clear
+1917,Black Gram (Urd Beans),Muradabad,2017-05-06,7085.0,5.5,37.0,clear
+1918,Green Gram (Moong),Muradabad,2017-05-06,6250.0,3.5,37.0,clear
+1919,Lentil(Masur),Muradabad,2017-05-06,6150.0,4.5,37.0,clear
+1920,Bengal Gram(Gram),Muradabad,2017-07-06,6800.0,6.0,25.6,clear
+1921,Black Gram (Urd Beans),Muradabad,2017-07-06,7075.0,6.0,25.6,clear
+1922,Green Gram (Moong),Muradabad,2017-07-06,6200.0,4.5,25.6,clear
+1923,Lentil(Masur),Chandausi,2017-07-06,5365.0,1.4,25.6,clear
+1924,Lentil(Masur),Muradabad,2017-07-06,6125.0,5.0,25.6,clear
+1925,Bengal Gram(Gram),Muradabad,2017-08-06,6650.0,6.5,32.4,rain
+1926,Black Gram (Urd Beans),Muradabad,2017-08-06,7060.0,6.5,32.4,rain
+1927,Green Gram (Moong),Muradabad,2017-08-06,6150.0,7.0,32.4,rain
+1928,Lentil(Masur),Chandausi,2017-08-06,5375.0,1.8,32.4,rain
+1929,Lentil(Masur),Muradabad,2017-08-06,6150.0,4.5,32.4,rain
+1930,Bengal Gram(Gram),Muradabad,2017-09-06,6850.0,5.0,32.4,clear
+1931,Black Gram (Urd Beans),Bhehjoi,2017-09-06,4600.0,12.0,32.4,clear
+1932,Black Gram (Urd Beans),Muradabad,2017-09-06,7075.0,4.2,32.4,clear
+1933,Green Gram (Moong),Muradabad,2017-09-06,6170.0,4.0,32.4,clear
+1934,Lentil(Masur),Bhehjoi,2017-09-06,4150.0,10.0,32.4,clear
+1935,Lentil(Masur),Chandausi,2017-09-06,5380.0,1.6,32.4,clear
+1936,Lentil(Masur),Muradabad,2017-09-06,6200.0,4.1,32.4,clear
+1937,Bengal Gram(Gram),Muradabad,2017-10-06,6900.0,4.0,31.4,clear
+1938,Black Gram (Urd Beans),Bhehjoi,2017-10-06,4460.0,200.0,31.4,clear
+1939,Black Gram (Urd Beans),Muradabad,2017-10-06,7075.0,6.0,31.4,clear
+1940,Green Gram (Moong),Muradabad,2017-10-06,6200.0,2.5,31.4,clear
+1941,Lentil(Masur),Chandausi,2017-10-06,5400.0,1.5,31.4,clear
+1942,Lentil(Masur),Muradabad,2017-10-06,6200.0,6.0,31.4,clear
+1943,Bengal Gram(Gram),Muradabad,2017-11-06,6850.0,5.0,23.0,clear
+1944,Black Gram (Urd Beans),Bhehjoi,2017-11-06,4420.0,50.0,23.0,clear
+1945,Black Gram (Urd Beans),Muradabad,2017-11-06,7080.0,3.0,23.0,clear
+1946,Green Gram (Moong),Muradabad,2017-11-06,6180.0,3.5,23.0,clear
+1947,Lentil(Masur),Muradabad,2017-11-06,6200.0,4.2,23.0,clear
+1948,Bengal Gram(Gram),Muradabad,2017-12-06,6800.0,6.5,21.2,clear
+1949,Black Gram (Urd Beans),Bhehjoi,2017-12-06,4320.0,100.0,21.2,clear
+1950,Black Gram (Urd Beans),Muradabad,2017-12-06,7100.0,2.5,21.2,clear
+1951,Green Gram (Moong),Muradabad,2017-12-06,6175.0,5.0,21.2,clear
+1952,Lentil(Masur),Chandausi,2017-12-06,5415.0,1.6,21.2,clear
+1953,Lentil(Masur),Muradabad,2017-12-06,6150.0,5.5,21.2,clear
+1954,Bengal Gram(Gram),Muradabad,2017-06-14,6825.0,4.0,38.4,clear
+1955,Black Gram (Urd Beans),Bhehjoi,2017-06-14,4450.0,50.0,38.4,clear
+1956,Black Gram (Urd Beans),Muradabad,2017-06-14,7075.0,3.0,38.4,clear
+1957,Green Gram (Moong),Muradabad,2017-06-14,6180.0,4.6,38.4,clear
+1958,Lentil(Masur),Chandausi,2017-06-14,5450.0,1.4,38.4,clear
+1959,Lentil(Masur),Muradabad,2017-06-14,6100.0,6.0,38.4,clear
+1960,Bengal Gram(Gram),Muradabad,2017-06-15,6800.0,6.0,34.6,clear
+1961,Black Gram (Urd Beans),Bhehjoi,2017-06-15,4510.0,40.0,34.6,clear
+1962,Black Gram (Urd Beans),Muradabad,2017-06-15,7050.0,4.5,34.6,clear
+1963,Green Gram (Moong),Muradabad,2017-06-15,6125.0,6.5,34.6,clear
+1964,Lentil(Masur),Chandausi,2017-06-15,5435.0,1.5,34.6,clear
+1965,Lentil(Masur),Muradabad,2017-06-15,6050.0,7.6,34.6,clear
+1966,Bengal Gram(Gram),Muradabad,2017-06-16,6800.0,8.0,30.4,clear
+1967,Black Gram (Urd Beans),Bhehjoi,2017-06-16,4430.0,22.0,30.4,clear
+1968,Black Gram (Urd Beans),Muradabad,2017-06-16,7025.0,6.0,30.4,clear
+1969,Green Gram (Moong),Muradabad,2017-06-16,6100.0,4.5,30.4,clear
+1970,Lentil(Masur),Chandausi,2017-06-16,5450.0,1.8,30.4,clear
+1971,Lentil(Masur),Muradabad,2017-06-16,6025.0,8.0,30.4,clear
+1972,Bengal Gram(Gram),Muradabad,2017-06-17,6800.0,6.0,34.0,clear
+1973,Black Gram (Urd Beans),Muradabad,2017-06-17,7000.0,4.5,34.0,clear
+1974,Green Gram (Moong),Muradabad,2017-06-17,6050.0,6.0,34.0,clear
+1975,Lentil(Masur),Chandausi,2017-06-17,5440.0,1.5,34.0,clear
+1976,Lentil(Masur),Muradabad,2017-06-17,6020.0,4.2,34.0,clear
+1977,Bengal Gram(Gram),Muradabad,2017-06-18,6800.0,6.5,35.2,clear
+1978,Black Gram (Urd Beans),Bhehjoi,2017-06-18,4610.0,30.0,35.2,clear
+1979,Black Gram (Urd Beans),Muradabad,2017-06-18,7000.0,5.0,35.2,clear
+1980,Green Gram (Moong),Muradabad,2017-06-18,6040.0,6.5,35.2,clear
+1981,Lentil(Masur),Muradabad,2017-06-18,6000.0,4.5,35.2,clear
+1982,Bengal Gram(Gram),Muradabad,2017-06-19,6850.0,6.0,33.8,clear
+1983,Black Gram (Urd Beans),Muradabad,2017-06-19,7025.0,4.5,33.8,clear
+1984,Green Gram (Moong),Muradabad,2017-06-19,6050.0,6.0,33.8,clear
+1985,Lentil(Masur),Chandausi,2017-06-19,5425.0,1.6,33.8,clear
+1986,Lentil(Masur),Muradabad,2017-06-19,6050.0,5.0,33.8,clear
+1987,Bengal Gram(Gram),Muradabad,2017-06-21,6800.0,7.0,33.2,clear
+1988,Black Gram (Urd Beans),Bhehjoi,2017-06-21,4610.0,22.0,33.2,clear
+1989,Black Gram (Urd Beans),Muradabad,2017-06-21,6950.0,5.2,33.2,clear
+1990,Green Gram (Moong),Muradabad,2017-06-21,6100.0,4.0,33.2,clear
+1991,Lentil(Masur),Chandausi,2017-06-21,5435.0,1.4,33.2,clear
+1992,Lentil(Masur),Muradabad,2017-06-21,6050.0,4.0,33.2,clear
+1993,Bengal Gram(Gram),Muradabad,2017-06-22,6775.0,6.0,33.0,clear
+1994,Black Gram (Urd Beans),Bhehjoi,2017-06-22,4550.0,22.0,33.0,clear
+1995,Black Gram (Urd Beans),Muradabad,2017-06-22,6960.0,4.0,33.0,clear
+1996,Green Gram (Moong),Muradabad,2017-06-22,6120.0,3.5,33.0,clear
+1997,Lentil(Masur),Bhehjoi,2017-06-22,4160.0,80.0,33.0,clear
+1998,Lentil(Masur),Chandausi,2017-06-22,5425.0,1.5,33.0,clear
+1999,Lentil(Masur),Muradabad,2017-06-22,6070.0,5.0,33.0,clear
+2000,Bengal Gram(Gram),Muradabad,2017-06-23,6750.0,5.0,34.6,clear
+2001,Black Gram (Urd Beans),Muradabad,2017-06-23,6950.0,3.6,34.6,clear
+2002,Green Gram (Moong),Muradabad,2017-06-23,6100.0,4.0,34.6,clear
+2003,Lentil(Masur),Bhehjoi,2017-06-23,4180.0,20.0,34.6,clear
+2004,Lentil(Masur),Chandausi,2017-06-23,5410.0,1.3,34.6,clear
+2005,Lentil(Masur),Muradabad,2017-06-23,6075.0,4.5,34.6,clear
+2006,Bengal Gram(Gram),Muradabad,2017-06-24,6600.0,7.0,36.8,clear
+2007,Black Gram (Urd Beans),Bhehjoi,2017-06-24,4550.0,30.0,36.8,clear
+2008,Black Gram (Urd Beans),Muradabad,2017-06-24,6650.0,5.0,36.8,clear
+2009,Green Gram (Moong),Muradabad,2017-06-24,5850.0,4.8,36.8,clear
+2010,Lentil(Masur),Chandausi,2017-06-24,5400.0,1.6,36.8,clear
+2011,Lentil(Masur),Muradabad,2017-06-24,5600.0,5.0,36.8,clear
+2012,Bengal Gram(Gram),Muradabad,2017-06-25,6650.0,4.0,34.0,clear
+2013,Black Gram (Urd Beans),Bhehjoi,2017-06-25,4540.0,34.0,34.0,clear
+2014,Black Gram (Urd Beans),Muradabad,2017-06-25,6600.0,6.0,34.0,clear
+2015,Green Gram (Moong),Muradabad,2017-06-25,5800.0,5.0,34.0,clear
+2016,Lentil(Masur),Muradabad,2017-06-25,5575.0,6.0,34.0,clear
+2017,Bengal Gram(Gram),Muradabad,2017-06-26,6670.0,2.5,36.0,clear
+2018,Black Gram (Urd Beans),Muradabad,2017-06-26,6590.0,2.5,36.0,clear
+2019,Green Gram (Moong),Muradabad,2017-06-26,5780.0,3.0,36.0,clear
+2020,Lentil(Masur),Chandausi,2017-06-26,5350.0,1.4,36.0,clear
+2021,Lentil(Masur),Muradabad,2017-06-26,5550.0,4.0,36.0,clear
+2022,Bengal Gram(Gram),Muradabad,2017-06-28,6100.0,5.0,32.6,clear
+2023,Black Gram (Urd Beans),Muradabad,2017-06-28,6150.0,3.0,32.6,clear
+2024,Lentil(Masur),Muradabad,2017-06-28,6000.0,5.0,32.6,clear
+2025,Bengal Gram(Gram),Muradabad,2017-06-29,6075.0,6.0,31.6,clear
+2026,Bengal Gram(Gram),Sambhal,2017-06-29,6455.0,0.7,31.6,clear
+2027,Black Gram (Urd Beans),Muradabad,2017-06-29,6100.0,4.5,31.6,clear
+2028,Green Gram (Moong),Muradabad,2017-06-29,5350.0,2.0,31.6,clear
+2029,Lentil(Masur),Muradabad,2017-06-29,4850.0,4.0,31.6,clear
+2030,Bengal Gram(Gram),Muradabad,2017-06-30,6070.0,5.6,32.0,clear
+2031,Black Gram (Urd Beans),Bhehjoi,2017-06-30,4540.0,20.0,32.0,clear
+2032,Black Gram (Urd Beans),Muradabad,2017-06-30,6050.0,5.0,32.0,clear
+2033,Green Gram (Moong),Muradabad,2017-06-30,5300.0,3.0,32.0,clear
+2034,Lentil(Masur),Muradabad,2017-06-30,4800.0,4.5,32.0,clear
+2035,Bengal Gram(Gram),Muradabad,2017-01-07,6025.0,5.0,12.6,rain
+2036,Black Gram (Urd Beans),Bhehjoi,2017-01-07,4520.0,40.0,12.6,rain
+2037,Black Gram (Urd Beans),Muradabad,2017-01-07,6000.0,3.0,12.6,rain
+2038,Lentil(Masur),Chandausi,2017-01-07,4950.0,1.5,12.6,rain
+2039,Lentil(Masur),Muradabad,2017-01-07,4675.0,4.0,12.6,rain
+2040,Bengal Gram(Gram),Muradabad,2017-05-07,6000.0,5.0,36.6,clear
+2041,Black Gram (Urd Beans),Bhehjoi,2017-05-07,4520.0,24.0,36.6,clear
+2042,Black Gram (Urd Beans),Muradabad,2017-05-07,5950.0,6.5,36.6,clear
+2043,Green Gram (Moong),Muradabad,2017-05-07,4960.0,4.0,36.6,clear
+2044,Lentil(Masur),Chandausi,2017-05-07,4755.0,1.8,36.6,clear
+2045,Lentil(Masur),Muradabad,2017-05-07,4525.0,2.7,36.6,clear
+2046,Bengal Gram(Gram),Muradabad,2017-06-07,6050.0,3.0,30.8,clear
+2047,Black Gram (Urd Beans),Bhehjoi,2017-06-07,4510.0,100.0,30.8,clear
+2048,Black Gram (Urd Beans),Muradabad,2017-06-07,6200.0,3.0,30.8,clear
+2049,Lentil(Masur),Chandausi,2017-06-07,4700.0,1.4,30.8,clear
+2050,Lentil(Masur),Muradabad,2017-06-07,4800.0,5.0,30.8,clear
+2051,Bengal Gram(Gram),Muradabad,2017-07-07,6100.0,4.0,26.8,clear
+2052,Black Gram (Urd Beans),Bhehjoi,2017-07-07,4650.0,150.0,26.8,clear
+2053,Black Gram (Urd Beans),Muradabad,2017-07-07,6200.0,2.5,26.8,clear
+2054,Lentil(Masur),Chandausi,2017-07-07,4655.0,1.2,26.8,clear
+2055,Lentil(Masur),Muradabad,2017-07-07,4850.0,4.5,26.8,clear
+2056,Bengal Gram(Gram),Muradabad,2017-08-07,6200.0,4.5,28.8,clear
+2057,Black Gram (Urd Beans),Bhehjoi,2017-08-07,4570.0,100.0,28.8,clear
+2058,Black Gram (Urd Beans),Muradabad,2017-08-07,6175.0,4.0,28.8,clear
+2059,Green Gram (Moong),Muradabad,2017-08-07,5300.0,4.0,28.8,clear
+2060,Lentil(Masur),Chandausi,2017-08-07,4630.0,1.6,28.8,clear
+2061,Lentil(Masur),Muradabad,2017-08-07,4950.0,3.0,28.8,clear
+2062,Bengal Gram(Gram),Muradabad,2017-09-07,6250.0,4.0,29.6,clear
+2063,Black Gram (Urd Beans),Muradabad,2017-09-07,6150.0,3.0,29.6,clear
+2064,Green Gram (Moong),Muradabad,2017-09-07,5400.0,2.0,29.6,clear
+2065,Lentil(Masur),Muradabad,2017-09-07,5000.0,4.0,29.6,clear
+2066,Bengal Gram(Gram),Muradabad,2017-10-07,6300.0,3.0,32.6,clear
+2067,Black Gram (Urd Beans),Bhehjoi,2017-10-07,4750.0,35.0,32.6,clear
+2068,Black Gram (Urd Beans),Muradabad,2017-10-07,6100.0,4.5,32.6,clear
+2069,Green Gram (Moong),Muradabad,2017-10-07,5450.0,1.5,32.6,clear
+2070,Lentil(Masur),Chandausi,2017-10-07,4600.0,1.5,32.6,clear
+2071,Lentil(Masur),Muradabad,2017-10-07,5000.0,3.0,32.6,clear
+2072,Bengal Gram(Gram),Muradabad,2017-12-07,6280.0,4.0,21.0,clear
+2073,Black Gram (Urd Beans),Bhehjoi,2017-12-07,4625.0,200.0,21.0,clear
+2074,Black Gram (Urd Beans),Muradabad,2017-12-07,6125.0,3.0,21.0,clear
+2075,Green Gram (Moong),Muradabad,2017-12-07,5470.0,1.0,21.0,clear
+2076,Lentil(Masur),Chandausi,2017-12-07,4550.0,2.2,21.0,clear
+2077,Lentil(Masur),Muradabad,2017-12-07,5000.0,4.0,21.0,clear
+2078,Bengal Gram(Gram),Muradabad,2017-07-13,6100.0,5.0,33.6,clear
+2079,Black Gram (Urd Beans),Bhehjoi,2017-07-13,4750.0,70.0,33.6,clear
+2080,Black Gram (Urd Beans),Muradabad,2017-07-13,6050.0,4.0,33.6,clear
+2081,Green Gram (Moong),Muradabad,2017-07-13,5380.0,6.5,33.6,clear
+2082,Lentil(Masur),Chandausi,2017-07-13,4520.0,2.4,33.6,clear
+2083,Lentil(Masur),Muradabad,2017-07-13,4900.0,6.5,33.6,clear
+2084,Bengal Gram(Gram),Muradabad,2017-07-14,6050.0,6.0,33.0,clear
+2085,Black Gram (Urd Beans),Bhehjoi,2017-07-14,4620.0,25.0,33.0,clear
+2086,Black Gram (Urd Beans),Muradabad,2017-07-14,6025.0,3.5,33.0,clear
+2087,Lentil(Masur),Chandausi,2017-07-14,4500.0,1.8,33.0,clear
+2088,Lentil(Masur),Muradabad,2017-07-14,4950.0,2.5,33.0,clear
+2089,Bengal Gram(Gram),Muradabad,2017-07-15,6200.0,4.0,31.0,clear
+2090,Black Gram (Urd Beans),Bhehjoi,2017-07-15,4570.0,150.0,31.0,clear
+2091,Black Gram (Urd Beans),Muradabad,2017-07-15,6050.0,4.0,31.0,clear
+2092,Green Gram (Moong),Muradabad,2017-07-15,5300.0,2.5,31.0,clear
+2093,Lentil(Masur),Chandausi,2017-07-15,4480.0,1.6,31.0,clear
+2094,Lentil(Masur),Muradabad,2017-07-15,4900.0,6.0,31.0,clear
+2095,Bengal Gram(Gram),Muradabad,2017-07-16,6300.0,2.5,33.4,clear
+2096,Black Gram (Urd Beans),Bhehjoi,2017-07-16,4525.0,45.0,33.4,clear
+2097,Black Gram (Urd Beans),Muradabad,2017-07-16,6075.0,2.0,33.4,clear
+2098,Lentil(Masur),Muradabad,2017-07-16,4850.0,4.0,33.4,clear
+2099,Bengal Gram(Gram),Muradabad,2017-07-17,6350.0,3.0,30.0,clear
+2100,Black Gram (Urd Beans),Bhehjoi,2017-07-17,4570.0,20.0,30.0,clear
+2101,Black Gram (Urd Beans),Muradabad,2017-07-17,6100.0,1.5,30.0,clear
+2102,Lentil(Masur),Chandausi,2017-07-17,4450.0,1.5,30.0,clear
+2103,Lentil(Masur),Muradabad,2017-07-17,4900.0,3.0,30.0,clear
+2104,Bengal Gram(Gram),Muradabad,2017-07-19,6300.0,4.5,36.2,clear
+2105,Black Gram (Urd Beans),Bhehjoi,2017-07-19,4525.0,20.0,36.2,clear
+2106,Black Gram (Urd Beans),Muradabad,2017-07-19,6075.0,5.0,36.2,clear
+2107,Lentil(Masur),Bhehjoi,2017-07-19,3810.0,15.0,36.2,clear
+2108,Lentil(Masur),Chandausi,2017-07-19,4435.0,1.6,36.2,clear
+2109,Lentil(Masur),Muradabad,2017-07-19,4950.0,4.0,36.2,clear
+2110,Bengal Gram(Gram),Muradabad,2017-07-20,6200.0,5.4,34.0,clear
+2111,Black Gram (Urd Beans),Bhehjoi,2017-07-20,4250.0,40.0,34.0,clear
+2112,Black Gram (Urd Beans),Muradabad,2017-07-20,6100.0,2.0,34.0,clear
+2113,Lentil(Masur),Chandausi,2017-07-20,4440.0,2.2,34.0,clear
+2114,Lentil(Masur),Muradabad,2017-07-20,4900.0,5.0,34.0,clear
+2115,Bengal Gram(Gram),Muradabad,2017-07-21,6100.0,6.0,32.2,clear
+2116,Black Gram (Urd Beans),Bhehjoi,2017-07-21,4250.0,25.0,32.2,clear
+2117,Black Gram (Urd Beans),Muradabad,2017-07-21,6075.0,7.0,32.2,clear
+2118,Green Gram (Moong),Muradabad,2017-07-21,5400.0,3.0,32.2,clear
+2119,Lentil(Masur),Chandausi,2017-07-21,4450.0,1.8,32.2,clear
+2120,Lentil(Masur),Muradabad,2017-07-21,4850.0,4.5,32.2,clear
+2121,Bengal Gram(Gram),Muradabad,2017-07-22,5970.0,8.0,31.4,clear
+2122,Black Gram (Urd Beans),Bhehjoi,2017-07-22,4170.0,120.0,31.4,clear
+2123,Black Gram (Urd Beans),Muradabad,2017-07-22,6050.0,5.0,31.4,clear
+2124,Green Gram (Moong),Muradabad,2017-07-22,5450.0,2.0,31.4,clear
+2125,Lentil(Masur),Chandausi,2017-07-22,4445.0,2.0,31.4,clear
+2126,Lentil(Masur),Muradabad,2017-07-22,4800.0,5.4,31.4,clear
+2127,Bengal Gram(Gram),Muradabad,2017-07-23,5950.0,7.6,32.8,clear
+2128,Black Gram (Urd Beans),Bhehjoi,2017-07-23,4210.0,200.0,32.8,clear
+2129,Black Gram (Urd Beans),Muradabad,2017-07-23,6000.0,6.0,32.8,clear
+2130,Green Gram (Moong),Muradabad,2017-07-23,5430.0,3.2,32.8,clear
+2131,Lentil(Masur),Muradabad,2017-07-23,4875.0,6.8,32.8,clear
+2132,Bengal Gram(Gram),Muradabad,2017-07-24,6025.0,4.0,30.0,clear
+2133,Black Gram (Urd Beans),Bhehjoi,2017-07-24,4225.0,35.0,30.0,clear
+2134,Black Gram (Urd Beans),Muradabad,2017-07-24,5950.0,4.0,30.0,clear
+2135,Green Gram (Moong),Muradabad,2017-07-24,5440.0,4.2,30.0,clear
+2136,Lentil(Masur),Chandausi,2017-07-24,4460.0,1.5,30.0,clear
+2137,Lentil(Masur),Muradabad,2017-07-24,4900.0,3.0,30.0,clear
+2138,Bengal Gram(Gram),Muradabad,2017-07-26,5900.0,4.0,31.0,clear
+2139,Black Gram (Urd Beans),Bhehjoi,2017-07-26,4225.0,30.0,31.0,clear
+2140,Black Gram (Urd Beans),Muradabad,2017-07-26,5940.0,5.0,31.0,clear
+2141,Green Gram (Moong),Muradabad,2017-07-26,5450.0,2.0,31.0,clear
+2142,Lentil(Masur),Chandausi,2017-07-26,4460.0,2.0,31.0,clear
+2143,Lentil(Masur),Muradabad,2017-07-26,4900.0,2.5,31.0,clear
+2144,Bengal Gram(Gram),Muradabad,2017-07-27,6050.0,3.5,31.8,clear
+2145,Black Gram (Urd Beans),Muradabad,2017-07-27,6000.0,3.0,31.8,clear
+2146,Green Gram (Moong),Muradabad,2017-07-27,5470.0,2.5,31.8,clear
+2147,Lentil(Masur),Chandausi,2017-07-27,4450.0,1.6,31.8,clear
+2148,Lentil(Masur),Muradabad,2017-07-27,4875.0,4.0,31.8,clear
+2149,Bengal Gram(Gram),Muradabad,2017-07-28,6000.0,3.4,33.0,clear
+2150,Black Gram (Urd Beans),Muradabad,2017-07-28,6020.0,2.8,33.0,clear
+2151,Green Gram (Moong),Muradabad,2017-07-28,5500.0,2.6,33.0,clear
+2152,Lentil(Masur),Chandausi,2017-07-28,4455.0,1.5,33.0,clear
+2153,Lentil(Masur),Muradabad,2017-07-28,4880.0,3.8,33.0,clear
+2154,Bengal Gram(Gram),Muradabad,2017-07-29,6100.0,4.0,32.2,rain
+2155,Black Gram (Urd Beans),Bhehjoi,2017-07-29,4225.0,120.0,32.2,rain
+2156,Black Gram (Urd Beans),Muradabad,2017-07-29,6050.0,2.1,32.2,rain
+2157,Green Gram (Moong),Muradabad,2017-07-29,5500.0,3.0,32.2,rain
+2158,Lentil(Masur),Chandausi,2017-07-29,4460.0,2.0,32.2,rain
+2159,Lentil(Masur),Muradabad,2017-07-29,4900.0,4.5,32.2,rain
+2160,Bengal Gram(Gram),Muradabad,2017-07-30,6150.0,4.0,30.6,clear
+2161,Black Gram (Urd Beans),Bhehjoi,2017-07-30,4225.0,120.0,30.6,clear
+2162,Black Gram (Urd Beans),Muradabad,2017-07-30,6070.0,1.0,30.6,clear
+2163,Green Gram (Moong),Muradabad,2017-07-30,5520.0,1.5,30.6,clear
+2164,Lentil(Masur),Muradabad,2017-07-30,4950.0,3.0,30.6,clear
+2165,Bengal Gram(Gram),Muradabad,2017-07-31,6150.0,4.5,30.2,clear
+2166,Black Gram (Urd Beans),Bhehjoi,2017-07-31,4225.0,60.0,30.2,clear
+2167,Black Gram (Urd Beans),Muradabad,2017-07-31,6075.0,1.2,30.2,clear
+2168,Green Gram (Moong),Muradabad,2017-07-31,5500.0,2.8,30.2,clear
+2169,Lentil(Masur),Chandausi,2017-07-31,4450.0,1.8,30.2,clear
+2170,Lentil(Masur),Muradabad,2017-07-31,4960.0,4.0,30.2,clear
+2171,Bengal Gram(Gram),Muradabad,2017-02-08,6200.0,3.5,21.0,clear
+2172,Black Gram (Urd Beans),Bhehjoi,2017-02-08,4175.0,100.0,21.0,clear
+2173,Black Gram (Urd Beans),Muradabad,2017-02-08,6050.0,1.5,21.0,clear
+2174,Green Gram (Moong),Muradabad,2017-02-08,5530.0,2.5,21.0,clear
+2175,Lentil(Masur),Chandausi,2017-02-08,4450.0,1.6,21.0,clear
+2176,Lentil(Masur),Muradabad,2017-02-08,4950.0,2.0,21.0,clear
+2177,Bengal Gram(Gram),Muradabad,2017-03-08,6250.0,3.0,24.4,clear
+2178,Black Gram (Urd Beans),Muradabad,2017-03-08,6070.0,1.8,24.4,clear
+2179,Green Gram (Moong),Muradabad,2017-03-08,5550.0,2.0,24.4,clear
+2180,Lentil(Masur),Chandausi,2017-03-08,4440.0,1.8,24.4,clear
+2181,Lentil(Masur),Muradabad,2017-03-08,4900.0,2.5,24.4,clear
+2182,Bengal Gram(Gram),Muradabad,2017-04-08,6260.0,3.5,31.4,clear
+2183,Black Gram (Urd Beans),Muradabad,2017-04-08,6080.0,2.0,31.4,clear
+2184,Green Gram (Moong),Muradabad,2017-04-08,5560.0,2.2,31.4,clear
+2185,Lentil(Masur),Chandausi,2017-04-08,4445.0,1.6,31.4,clear
+2186,Lentil(Masur),Muradabad,2017-04-08,4850.0,3.0,31.4,clear
+2187,Bengal Gram(Gram),Muradabad,2017-05-08,6300.0,4.0,35.6,clear
+2188,Black Gram (Urd Beans),Bhehjoi,2017-05-08,4170.0,25.0,35.6,clear
+2189,Black Gram (Urd Beans),Muradabad,2017-05-08,6100.0,3.0,35.6,clear
+2190,Green Gram (Moong),Muradabad,2017-05-08,5575.0,1.0,35.6,clear
+2191,Lentil(Masur),Chandausi,2017-05-08,4450.0,1.8,35.6,clear
+2192,Lentil(Masur),Muradabad,2017-05-08,4900.0,2.0,35.6,clear
+2193,Bengal Gram(Gram),Muradabad,2017-06-08,6400.0,3.0,34.4,clear
+2194,Black Gram (Urd Beans),Bhehjoi,2017-06-08,4170.0,22.0,34.4,clear
+2195,Black Gram (Urd Beans),Muradabad,2017-06-08,6075.0,5.0,34.4,clear
+2196,Green Gram (Moong),Muradabad,2017-06-08,5575.0,8.0,34.4,clear
+2197,Lentil(Masur),Muradabad,2017-06-08,4900.0,4.0,34.4,clear
+2198,Bengal Gram(Gram),Muradabad,2017-07-08,6350.0,2.5,33.4,clear
+2199,Black Gram (Urd Beans),Muradabad,2017-07-08,6080.0,2.0,33.4,clear
+2200,Green Gram (Moong),Muradabad,2017-07-08,5575.0,1.0,33.4,clear
+2201,Lentil(Masur),Chandausi,2017-07-08,4440.0,1.5,33.4,clear
+2202,Lentil(Masur),Muradabad,2017-07-08,4950.0,2.0,33.4,clear
+2203,Bengal Gram(Gram),Muradabad,2017-08-08,6400.0,3.0,31.0,clear
+2204,Black Gram (Urd Beans),Bhehjoi,2017-08-08,4250.0,12.0,31.0,clear
+2205,Black Gram (Urd Beans),Muradabad,2017-08-08,6075.0,5.0,31.0,clear
+2206,Green Gram (Moong),Muradabad,2017-08-08,5575.0,8.0,31.0,clear
+2207,Lentil(Masur),Chandausi,2017-08-08,4455.0,1.8,31.0,clear
+2208,Lentil(Masur),Muradabad,2017-08-08,4900.0,4.0,31.0,clear
+2209,Bengal Gram(Gram),Muradabad,2017-09-08,6300.0,3.0,32.0,clear
+2210,Black Gram (Urd Beans),Bhehjoi,2017-09-08,4250.0,20.0,32.0,clear
+2211,Black Gram (Urd Beans),Muradabad,2017-09-08,6075.0,2.4,32.0,clear
+2212,Green Gram (Moong),Muradabad,2017-09-08,5575.0,1.6,32.0,clear
+2213,Lentil(Masur),Chandausi,2017-09-08,4460.0,1.6,32.0,clear
+2214,Lentil(Masur),Muradabad,2017-09-08,4950.0,3.5,32.0,clear
+2215,Bengal Gram(Gram),Muradabad,2017-10-08,6350.0,4.0,31.2,clear
+2216,Black Gram (Urd Beans),Muradabad,2017-10-08,6100.0,2.0,31.2,clear
+2217,Green Gram (Moong),Muradabad,2017-10-08,5575.0,1.2,31.2,clear
+2218,Lentil(Masur),Chandausi,2017-10-08,4450.0,1.8,31.2,clear
+2219,Lentil(Masur),Muradabad,2017-10-08,4930.0,4.2,31.2,clear
+2220,Bengal Gram(Gram),Muradabad,2017-11-08,6400.0,3.0,23.4,clear
+2221,Black Gram (Urd Beans),Muradabad,2017-11-08,6075.0,4.0,23.4,clear
+2222,Green Gram (Moong),Muradabad,2017-11-08,5580.0,1.0,23.4,clear
+2223,Lentil(Masur),Chandausi,2017-11-08,4455.0,1.4,23.4,clear
+2224,Lentil(Masur),Muradabad,2017-11-08,4950.0,3.0,23.4,clear
+2225,Bengal Gram(Gram),Muradabad,2017-12-08,6410.0,2.5,20.4,clear
+2226,Black Gram (Urd Beans),Muradabad,2017-12-08,6080.0,2.0,20.4,clear
+2227,Green Gram (Moong),Muradabad,2017-12-08,5575.0,1.2,20.4,clear
+2228,Lentil(Masur),Chandausi,2017-12-08,4465.0,1.6,20.4,clear
+2229,Lentil(Masur),Muradabad,2017-12-08,4960.0,4.5,20.4,clear
+2230,Bengal Gram(Gram),Muradabad,2017-08-13,6420.0,4.0,31.0,clear
+2231,Black Gram (Urd Beans),Bhehjoi,2017-08-13,4250.0,100.0,31.0,clear
+2232,Black Gram (Urd Beans),Muradabad,2017-08-13,6070.0,4.0,31.0,clear
+2233,Green Gram (Moong),Muradabad,2017-08-13,5575.0,2.0,31.0,clear
+2234,Lentil(Masur),Muradabad,2017-08-13,4970.0,3.0,31.0,clear
+2235,Bengal Gram(Gram),Muradabad,2017-08-14,6425.0,5.0,29.0,clear
+2236,Black Gram (Urd Beans),Muradabad,2017-08-14,6075.0,3.0,29.0,clear
+2237,Green Gram (Moong),Muradabad,2017-08-14,5580.0,2.0,29.0,clear
+2238,Lentil(Masur),Bhehjoi,2017-08-14,3820.0,45.0,29.0,clear
+2239,Lentil(Masur),Chandausi,2017-08-14,4475.0,1.5,29.0,clear
+2240,Lentil(Masur),Muradabad,2017-08-14,4980.0,6.0,29.0,clear
+2241,Bengal Gram(Gram),Muradabad,2017-08-16,6450.0,6.0,32.0,clear
+2242,Black Gram (Urd Beans),Bhehjoi,2017-08-16,4250.0,100.0,32.0,clear
+2243,Black Gram (Urd Beans),Muradabad,2017-08-16,6080.0,2.5,32.0,clear
+2244,Green Gram (Moong),Muradabad,2017-08-16,5575.0,1.2,32.0,clear
+2245,Lentil(Masur),Chandausi,2017-08-16,4460.0,1.0,32.0,clear
+2246,Lentil(Masur),Muradabad,2017-08-16,4950.0,4.5,32.0,clear
+2247,Bengal Gram(Gram),Muradabad,2017-08-17,6425.0,3.0,32.4,clear
+2248,Black Gram (Urd Beans),Bhehjoi,2017-08-17,4250.0,28.0,32.4,clear
+2249,Black Gram (Urd Beans),Muradabad,2017-08-17,6075.0,4.2,32.4,clear
+2250,Green Gram (Moong),Muradabad,2017-08-17,5580.0,1.0,32.4,clear
+2251,Lentil(Masur),Chandausi,2017-08-17,4465.0,1.5,32.4,clear
+2252,Lentil(Masur),Muradabad,2017-08-17,4970.0,6.0,32.4,clear
+2253,Bengal Gram(Gram),Muradabad,2017-08-18,6450.0,4.0,33.2,clear
+2254,Black Gram (Urd Beans),Muradabad,2017-08-18,6100.0,4.0,33.2,clear
+2255,Green Gram (Moong),Muradabad,2017-08-18,5575.0,2.1,33.2,clear
+2256,Lentil(Masur),Chandausi,2017-08-18,4455.0,1.8,33.2,clear
+2257,Lentil(Masur),Muradabad,2017-08-18,4975.0,6.0,33.2,clear
+2258,Bengal Gram(Gram),Muradabad,2017-08-19,6470.0,3.5,30.8,clear
+2259,Black Gram (Urd Beans),Muradabad,2017-08-19,6075.0,3.0,30.8,clear
+2260,Green Gram (Moong),Muradabad,2017-08-19,5580.0,3.0,30.8,clear
+2261,Lentil(Masur),Chandausi,2017-08-19,4450.0,2.0,30.8,clear
+2262,Lentil(Masur),Muradabad,2017-08-19,4950.0,5.4,30.8,clear
+2263,Bengal Gram(Gram),Muradabad,2017-08-20,6450.0,6.0,33.0,clear
+2264,Black Gram (Urd Beans),Muradabad,2017-08-20,6050.0,2.0,33.0,clear
+2265,Green Gram (Moong),Muradabad,2017-08-20,5575.0,1.5,33.0,clear
+2266,Lentil(Masur),Muradabad,2017-08-20,4970.0,6.0,33.0,clear
+2267,Bengal Gram(Gram),Muradabad,2017-08-21,6400.0,8.0,32.0,clear
+2268,Black Gram (Urd Beans),Muradabad,2017-08-21,6020.0,4.0,32.0,clear
+2269,Green Gram (Moong),Muradabad,2017-08-21,5580.0,3.0,32.0,clear
+2270,Lentil(Masur),Chandausi,2017-08-21,4460.0,1.8,32.0,clear
+2271,Lentil(Masur),Muradabad,2017-08-21,4980.0,5.0,32.0,clear
+2272,Bengal Gram(Gram),Muradabad,2017-08-23,6430.0,5.0,26.6,rain
+2273,Black Gram (Urd Beans),Bhehjoi,2017-08-23,4250.0,17.0,26.6,rain
+2274,Black Gram (Urd Beans),Muradabad,2017-08-23,6080.0,5.0,26.6,rain
+2275,Green Gram (Moong),Muradabad,2017-08-23,5580.0,4.0,26.6,rain
+2276,Lentil(Masur),Chandausi,2017-08-23,4465.0,1.8,26.6,rain
+2277,Lentil(Masur),Muradabad,2017-08-23,4950.0,3.0,26.6,rain
+2278,Bengal Gram(Gram),Muradabad,2017-08-24,6450.0,6.0,32.0,clear
+2279,Black Gram (Urd Beans),Muradabad,2017-08-24,6100.0,4.0,32.0,clear
+2280,Green Gram (Moong),Muradabad,2017-08-24,5575.0,3.0,32.0,clear
+2281,Lentil(Masur),Chandausi,2017-08-24,4485.0,1.6,32.0,clear
+2282,Lentil(Masur),Muradabad,2017-08-24,4960.0,2.0,32.0,clear
+2283,Bengal Gram(Gram),Muradabad,2017-08-25,6470.0,4.1,29.0,clear
+2284,Black Gram (Urd Beans),Bhehjoi,2017-08-25,4250.0,160.0,29.0,clear
+2285,Black Gram (Urd Beans),Muradabad,2017-08-25,6125.0,3.5,29.0,clear
+2286,Green Gram (Moong),Muradabad,2017-08-25,5580.0,3.6,29.0,clear
+2287,Lentil(Masur),Chandausi,2017-08-25,4550.0,1.5,29.0,clear
+2288,Lentil(Masur),Muradabad,2017-08-25,4975.0,3.5,29.0,clear
+2289,Bengal Gram(Gram),Muradabad,2017-08-26,6475.0,4.5,31.8,clear
+2290,Black Gram (Urd Beans),Bhehjoi,2017-08-26,4350.0,100.0,31.8,clear
+2291,Black Gram (Urd Beans),Muradabad,2017-08-26,6150.0,3.0,31.8,clear
+2292,Green Gram (Moong),Muradabad,2017-08-26,5575.0,2.0,31.8,clear
+2293,Lentil(Masur),Chandausi,2017-08-26,4625.0,1.8,31.8,clear
+2294,Lentil(Masur),Muradabad,2017-08-26,4950.0,5.0,31.8,clear
+2295,Bengal Gram(Gram),Muradabad,2017-08-27,6500.0,4.0,33.4,clear
+2296,Black Gram (Urd Beans),Bhehjoi,2017-08-27,4350.0,45.0,33.4,clear
+2297,Black Gram (Urd Beans),Muradabad,2017-08-27,6140.0,4.0,33.4,clear
+2298,Green Gram (Moong),Muradabad,2017-08-27,5580.0,4.0,33.4,clear
+2299,Lentil(Masur),Muradabad,2017-08-27,4970.0,4.5,33.4,clear
+2300,Bengal Gram(Gram),Muradabad,2017-08-28,6500.0,6.0,30.0,clear
+2301,Black Gram (Urd Beans),Muradabad,2017-08-28,6170.0,3.6,30.0,clear
+2302,Green Gram (Moong),Muradabad,2017-08-28,5580.0,5.0,30.0,clear
+2303,Lentil(Masur),Chandausi,2017-08-28,4675.0,1.6,30.0,clear
+2304,Lentil(Masur),Muradabad,2017-08-28,4975.0,6.0,30.0,clear
+2305,Bengal Gram(Gram),Muradabad,2017-08-30,6400.0,7.6,32.4,clear
+2306,Black Gram (Urd Beans),Muradabad,2017-08-30,6150.0,3.0,32.4,clear
+2307,Green Gram (Moong),Muradabad,2017-08-30,5590.0,4.0,32.4,clear
+2308,Lentil(Masur),Chandausi,2017-08-30,4680.0,1.5,32.4,clear
+2309,Lentil(Masur),Muradabad,2017-08-30,4950.0,5.0,32.4,clear
+2310,Bengal Gram(Gram),Muradabad,2017-08-31,6400.0,6.0,30.4,clear
+2311,Black Gram (Urd Beans),Muradabad,2017-08-31,6200.0,2.4,30.4,clear
+2312,Green Gram (Moong),Muradabad,2017-08-31,5600.0,3.0,30.4,clear
+2313,Lentil(Masur),Bhehjoi,2017-08-31,3700.0,150.0,30.4,clear
+2314,Lentil(Masur),Chandausi,2017-08-31,4700.0,1.6,30.4,clear
+2315,Lentil(Masur),Muradabad,2017-08-31,4940.0,6.2,30.4,clear
+2316,Bengal Gram(Gram),Muradabad,2017-02-09,6400.0,3.0,20.8,clear
+2317,Black Gram (Urd Beans),Muradabad,2017-02-09,6175.0,1.5,20.8,clear
+2318,Green Gram (Moong),Muradabad,2017-02-09,5580.0,2.8,20.8,clear
+2319,Lentil(Masur),Chandausi,2017-02-09,4730.0,2.4,20.8,clear
+2320,Lentil(Masur),Muradabad,2017-02-09,4975.0,4.0,20.8,clear
+2321,Bengal Gram(Gram),Muradabad,2017-03-09,6450.0,6.0,25.2,clear
+2322,Black Gram (Urd Beans),Bhehjoi,2017-03-09,4250.0,12.0,25.2,clear
+2323,Black Gram (Urd Beans),Muradabad,2017-03-09,6190.0,3.0,25.2,clear
+2324,Green Gram (Moong),Muradabad,2017-03-09,5590.0,2.5,25.2,clear
+2325,Lentil(Masur),Muradabad,2017-03-09,5000.0,3.5,25.2,clear
+2326,Bengal Gram(Gram),Muradabad,2017-04-09,6460.0,5.0,31.0,clear
+2327,Black Gram (Urd Beans),Bhehjoi,2017-04-09,4270.0,25.0,31.0,clear
+2328,Black Gram (Urd Beans),Muradabad,2017-04-09,6175.0,4.0,31.0,clear
+2329,Green Gram (Moong),Muradabad,2017-04-09,5600.0,2.0,31.0,clear
+2330,Lentil(Masur),Chandausi,2017-04-09,4730.0,1.2,31.0,clear
+2331,Lentil(Masur),Muradabad,2017-04-09,5000.0,4.0,31.0,clear
+2332,Bengal Gram(Gram),Muradabad,2017-06-09,6450.0,5.8,32.2,clear
+2333,Black Gram (Urd Beans),Muradabad,2017-06-09,6200.0,6.0,32.2,clear
+2334,Green Gram (Moong),Muradabad,2017-06-09,5580.0,3.0,32.2,clear
+2335,Lentil(Masur),Chandausi,2017-06-09,4735.0,1.8,32.2,clear
+2336,Lentil(Masur),Muradabad,2017-06-09,4980.0,6.0,32.2,clear
+2337,Bengal Gram(Gram),Muradabad,2017-07-09,6470.0,4.5,30.6,clear
+2338,Black Gram (Urd Beans),Muradabad,2017-07-09,6225.0,4.2,30.6,clear
+2339,Green Gram (Moong),Muradabad,2017-07-09,5600.0,2.1,30.6,clear
+2340,Lentil(Masur),Chandausi,2017-07-09,4750.0,1.6,30.6,clear
+2341,Lentil(Masur),Muradabad,2017-07-09,4975.0,5.0,30.6,clear
+2342,Bengal Gram(Gram),Muradabad,2017-08-09,6500.0,6.0,30.8,clear
+2343,Black Gram (Urd Beans),Muradabad,2017-08-09,6250.0,2.8,30.8,clear
+2344,Green Gram (Moong),Muradabad,2017-08-09,5580.0,3.0,30.8,clear
+2345,Lentil(Masur),Chandausi,2017-08-09,4740.0,1.5,30.8,clear
+2346,Lentil(Masur),Muradabad,2017-08-09,4900.0,4.0,30.8,clear
+2347,Bengal Gram(Gram),Muradabad,2017-09-09,6450.0,7.6,32.0,clear
+2348,Black Gram (Urd Beans),Bhehjoi,2017-09-09,4250.0,100.0,32.0,clear
+2349,Black Gram (Urd Beans),Muradabad,2017-09-09,6230.0,4.0,32.0,clear
+2350,Green Gram (Moong),Muradabad,2017-09-09,5575.0,3.2,32.0,clear
+2351,Lentil(Masur),Chandausi,2017-09-09,4730.0,2.0,32.0,clear
+2352,Lentil(Masur),Muradabad,2017-09-09,4800.0,5.2,32.0,clear
+2353,Bengal Gram(Gram),Muradabad,2017-10-09,6460.0,5.0,30.4,clear
+2354,Black Gram (Urd Beans),Muradabad,2017-10-09,6200.0,3.0,30.4,clear
+2355,Green Gram (Moong),Muradabad,2017-10-09,5580.0,3.0,30.4,clear
+2356,Lentil(Masur),Muradabad,2017-10-09,4830.0,4.0,30.4,clear
+2357,Bengal Gram(Gram),Muradabad,2017-11-09,6450.0,6.0,26.2,clear
+2358,Black Gram (Urd Beans),Muradabad,2017-11-09,6180.0,4.2,26.2,clear
+2359,Green Gram (Moong),Muradabad,2017-11-09,5575.0,2.2,26.2,clear
+2360,Lentil(Masur),Chandausi,2017-11-09,4735.0,1.8,26.2,clear
+2361,Lentil(Masur),Muradabad,2017-11-09,4825.0,3.5,26.2,clear
+2362,Bengal Gram(Gram),Muradabad,2017-09-13,6470.0,3.0,32.4,clear
+2363,Black Gram (Urd Beans),Muradabad,2017-09-13,6175.0,3.0,32.4,clear
+2364,Green Gram (Moong),Muradabad,2017-09-13,5580.0,1.6,32.4,clear
+2365,Lentil(Masur),Chandausi,2017-09-13,4730.0,1.6,32.4,clear
+2366,Lentil(Masur),Muradabad,2017-09-13,4850.0,2.5,32.4,clear
+2367,Bengal Gram(Gram),Muradabad,2017-09-14,6475.0,5.0,32.2,clear
+2368,Black Gram (Urd Beans),Bhehjoi,2017-09-14,4350.0,260.0,32.2,clear
+2369,Black Gram (Urd Beans),Muradabad,2017-09-14,6180.0,2.4,32.2,clear
+2370,Green Gram (Moong),Muradabad,2017-09-14,5590.0,1.2,32.2,clear
+2371,Lentil(Masur),Chandausi,2017-09-14,4735.0,1.8,32.2,clear
+2372,Lentil(Masur),Muradabad,2017-09-14,4870.0,4.2,32.2,clear
+2373,Bengal Gram(Gram),Muradabad,2017-09-15,6450.0,6.0,32.2,clear
+2374,Black Gram (Urd Beans),Bhehjoi,2017-09-15,4350.0,120.0,32.2,clear
+2375,Black Gram (Urd Beans),Muradabad,2017-09-15,6170.0,3.6,32.2,clear
+2376,Green Gram (Moong),Muradabad,2017-09-15,5580.0,2.1,32.2,clear
+2377,Lentil(Masur),Chandausi,2017-09-15,4745.0,1.6,32.2,clear
+2378,Lentil(Masur),Muradabad,2017-09-15,4875.0,4.0,32.2,clear
+2379,Bengal Gram(Gram),Muradabad,2017-09-16,6470.0,3.5,31.6,clear
+2380,Black Gram (Urd Beans),Bhehjoi,2017-09-16,4350.0,100.0,31.6,clear
+2381,Black Gram (Urd Beans),Muradabad,2017-09-16,6180.0,2.4,31.6,clear
+2382,Green Gram (Moong),Muradabad,2017-09-16,5600.0,1.2,31.6,clear
+2383,Lentil(Masur),Chandausi,2017-09-16,4750.0,1.7,31.6,clear
+2384,Lentil(Masur),Muradabad,2017-09-16,4880.0,5.0,31.6,clear
+2385,Bengal Gram(Gram),Muradabad,2017-09-17,6475.0,6.0,33.0,clear
+2386,Black Gram (Urd Beans),Bhehjoi,2017-09-17,4350.0,150.0,33.0,clear
+2387,Black Gram (Urd Beans),Muradabad,2017-09-17,6200.0,2.0,33.0,clear
+2388,Green Gram (Moong),Muradabad,2017-09-17,5580.0,1.5,33.0,clear
+2389,Lentil(Masur),Muradabad,2017-09-17,4850.0,6.0,33.0,clear
+2390,Bengal Gram(Gram),Muradabad,2017-09-18,6450.0,4.5,33.0,clear
+2391,Black Gram (Urd Beans),Bhehjoi,2017-09-18,4350.0,50.0,33.0,clear
+2392,Black Gram (Urd Beans),Muradabad,2017-09-18,6200.0,3.0,33.0,clear
+2393,Green Gram (Moong),Muradabad,2017-09-18,5575.0,3.0,33.0,clear
+2394,Lentil(Masur),Chandausi,2017-09-18,4745.0,1.5,33.0,clear
+2395,Lentil(Masur),Muradabad,2017-09-18,4860.0,4.5,33.0,clear
+2396,Bengal Gram(Gram),Muradabad,2017-09-20,6430.0,5.0,32.6,clear
+2397,Black Gram (Urd Beans),Bhehjoi,2017-09-20,4400.0,140.0,32.6,clear
+2398,Black Gram (Urd Beans),Muradabad,2017-09-20,6220.0,2.0,32.6,clear
+2399,Green Gram (Moong),Muradabad,2017-09-20,5580.0,1.8,32.6,clear
+2400,Lentil(Masur),Chandausi,2017-09-20,4735.0,1.5,32.6,clear
+2401,Lentil(Masur),Muradabad,2017-09-20,4850.0,3.0,32.6,clear
+2402,Bengal Gram(Gram),Muradabad,2017-09-21,6400.0,6.0,32.0,clear
+2403,Black Gram (Urd Beans),Bhehjoi,2017-09-21,4400.0,150.0,32.0,clear
+2404,Black Gram (Urd Beans),Muradabad,2017-09-21,6225.0,2.4,32.0,clear
+2405,Green Gram (Moong),Muradabad,2017-09-21,5585.0,2.1,32.0,clear
+2406,Lentil(Masur),Chandausi,2017-09-21,4750.0,1.1,32.0,clear
+2407,Lentil(Masur),Muradabad,2017-09-21,4830.0,4.1,32.0,clear
+2408,Bengal Gram(Gram),Muradabad,2017-09-22,6425.0,3.0,25.6,rain
+2409,Black Gram (Urd Beans),Bhehjoi,2017-09-22,4400.0,35.0,25.6,rain
+2410,Black Gram (Urd Beans),Muradabad,2017-09-22,6200.0,2.1,25.6,rain
+2411,Green Gram (Moong),Muradabad,2017-09-22,5575.0,2.8,25.6,rain
+2412,Lentil(Masur),Chandausi,2017-09-22,4745.0,1.4,25.6,rain
+2413,Lentil(Masur),Muradabad,2017-09-22,4850.0,2.2,25.6,rain
+2414,Bengal Gram(Gram),Muradabad,2017-09-23,6450.0,2.5,27.2,clear
+2415,Black Gram (Urd Beans),Muradabad,2017-09-23,6175.0,2.4,27.2,clear
+2416,Green Gram (Moong),Muradabad,2017-09-23,5590.0,2.2,27.2,clear
+2417,Lentil(Masur),Chandausi,2017-09-23,4755.0,1.3,27.2,clear
+2418,Lentil(Masur),Muradabad,2017-09-23,4870.0,3.0,27.2,clear
+2419,Bengal Gram(Gram),Muradabad,2017-09-24,6430.0,2.4,29.6,clear
+2420,Black Gram (Urd Beans),Muradabad,2017-09-24,6180.0,2.0,29.6,clear
+2421,Green Gram (Moong),Muradabad,2017-09-24,5600.0,2.0,29.6,clear
+2422,Lentil(Masur),Muradabad,2017-09-24,4875.0,2.5,29.6,clear
+2423,Bengal Gram(Gram),Muradabad,2017-09-25,6400.0,4.0,30.6,clear
+2424,Black Gram (Urd Beans),Bhehjoi,2017-09-25,4350.0,12.0,30.6,clear
+2425,Black Gram (Urd Beans),Muradabad,2017-09-25,6175.0,2.8,30.6,clear
+2426,Green Gram (Moong),Muradabad,2017-09-25,5580.0,3.0,30.6,clear
+2427,Lentil(Masur),Chandausi,2017-09-25,4760.0,1.1,30.6,clear
+2428,Lentil(Masur),Muradabad,2017-09-25,4870.0,3.0,30.6,clear
+2429,Bengal Gram(Gram),Muradabad,2017-09-27,6425.0,3.0,31.8,clear
+2430,Black Gram (Urd Beans),Muradabad,2017-09-27,6150.0,3.0,31.8,clear
+2431,Green Gram (Moong),Muradabad,2017-09-27,5575.0,2.8,31.8,clear
+2432,Lentil(Masur),Chandausi,2017-09-27,4735.0,1.0,31.8,clear
+2433,Lentil(Masur),Muradabad,2017-09-27,4875.0,4.0,31.8,clear
+2434,Bengal Gram(Gram),Muradabad,2017-09-28,6450.0,2.5,31.2,clear
+2435,Black Gram (Urd Beans),Bhehjoi,2017-09-28,4350.0,40.0,31.2,clear
+2436,Black Gram (Urd Beans),Muradabad,2017-09-28,6175.0,4.0,31.2,clear
+2437,Green Gram (Moong),Muradabad,2017-09-28,5580.0,2.6,31.2,clear
+2438,Lentil(Masur),Chandausi,2017-09-28,4730.0,1.2,31.2,clear
+2439,Lentil(Masur),Muradabad,2017-09-28,4880.0,3.5,31.2,clear
+2440,Bengal Gram(Gram),Muradabad,2017-09-29,6460.0,2.8,31.4,clear
+2441,Black Gram (Urd Beans),Bhehjoi,2017-09-29,4350.0,28.0,31.4,clear
+2442,Black Gram (Urd Beans),Muradabad,2017-09-29,6200.0,3.5,31.4,clear
+2443,Green Gram (Moong),Muradabad,2017-09-29,5570.0,3.0,31.4,clear
+2444,Lentil(Masur),Chandausi,2017-09-29,4725.0,1.3,31.4,clear
+2445,Lentil(Masur),Muradabad,2017-09-29,4870.0,4.0,31.4,clear
+2446,Bengal Gram(Gram),Muradabad,2017-09-30,6500.0,3.0,32.2,clear
+2447,Black Gram (Urd Beans),Bhehjoi,2017-09-30,1570.0,100.0,32.2,clear
+2448,Black Gram (Urd Beans),Muradabad,2017-09-30,6180.0,4.0,32.2,clear
+2449,Green Gram (Moong),Muradabad,2017-09-30,5575.0,2.8,32.2,clear
+2450,Lentil(Masur),Chandausi,2017-09-30,4740.0,1.1,32.2,clear
+2451,Lentil(Masur),Muradabad,2017-09-30,4875.0,3.0,32.2,clear
+2452,Bengal Gram(Gram),Muradabad,2017-01-10,6450.0,4.5,15.6,clear
+2453,Black Gram (Urd Beans),Bhehjoi,2017-01-10,4350.0,120.0,15.6,clear
+2454,Black Gram (Urd Beans),Muradabad,2017-01-10,6170.0,3.0,15.6,clear
+2455,Green Gram (Moong),Muradabad,2017-01-10,5580.0,4.0,15.6,clear
+2456,Lentil(Masur),Muradabad,2017-01-10,4850.0,5.0,15.6,clear
+2457,Bengal Gram(Gram),Muradabad,2017-02-10,6460.0,5.0,20.6,clear
+2458,Black Gram (Urd Beans),Bhehjoi,2017-02-10,4350.0,85.0,20.6,clear
+2459,Black Gram (Urd Beans),Muradabad,2017-02-10,6165.0,4.0,20.6,clear
+2460,Green Gram (Moong),Muradabad,2017-02-10,5575.0,5.0,20.6,clear
+2461,Lentil(Masur),Chandausi,2017-02-10,4750.0,0.8,20.6,clear
+2462,Lentil(Masur),Muradabad,2017-02-10,4860.0,4.5,20.6,clear
+2463,Bengal Gram(Gram),Muradabad,2017-04-10,6470.0,4.5,31.4,clear
+2464,Black Gram (Urd Beans),Bhehjoi,2017-04-10,4250.0,28.0,31.4,clear
+2465,Black Gram (Urd Beans),Muradabad,2017-04-10,6170.0,3.5,31.4,clear
+2466,Green Gram (Moong),Muradabad,2017-04-10,5580.0,4.5,31.4,clear
+2467,Lentil(Masur),Chandausi,2017-04-10,4775.0,0.8,31.4,clear
+2468,Lentil(Masur),Muradabad,2017-04-10,4870.0,4.0,31.4,clear
+2469,Bengal Gram(Gram),Muradabad,2017-05-10,6460.0,5.0,33.2,clear
+2470,Black Gram (Urd Beans),Bhehjoi,2017-05-10,4250.0,120.0,33.2,clear
+2471,Black Gram (Urd Beans),Muradabad,2017-05-10,6150.0,5.0,33.2,clear
+2472,Green Gram (Moong),Muradabad,2017-05-10,5570.0,6.0,33.2,clear
+2473,Lentil(Masur),Chandausi,2017-05-10,4770.0,1.0,33.2,clear
+2474,Lentil(Masur),Muradabad,2017-05-10,4860.0,5.0,33.2,clear
+2475,Bengal Gram(Gram),Muradabad,2017-06-10,6450.0,6.0,36.2,clear
+2476,Black Gram (Urd Beans),Bhehjoi,2017-06-10,4250.0,250.0,36.2,clear
+2477,Black Gram (Urd Beans),Muradabad,2017-06-10,6140.0,6.0,36.2,clear
+2478,Green Gram (Moong),Muradabad,2017-06-10,5560.0,5.5,36.2,clear
+2479,Lentil(Masur),Chandausi,2017-06-10,4780.0,1.2,36.2,clear
+2480,Lentil(Masur),Muradabad,2017-06-10,4840.0,5.5,36.2,clear
+2481,Bengal Gram(Gram),Muradabad,2017-07-10,6470.0,4.5,28.8,rain
+2482,Black Gram (Urd Beans),Muradabad,2017-07-10,6150.0,5.0,28.8,rain
+2483,Green Gram (Moong),Muradabad,2017-07-10,5550.0,6.5,28.8,rain
+2484,Lentil(Masur),Chandausi,2017-07-10,4775.0,1.0,28.8,rain
+2485,Lentil(Masur),Muradabad,2017-07-10,4850.0,5.0,28.8,rain
+2486,Bengal Gram(Gram),Muradabad,2017-08-10,6450.0,6.0,27.6,clear
+2487,Black Gram (Urd Beans),Bhehjoi,2017-08-10,4250.0,150.0,27.6,clear
+2488,Black Gram (Urd Beans),Muradabad,2017-08-10,6200.0,4.2,27.6,clear
+2489,Green Gram (Moong),Muradabad,2017-08-10,5560.0,3.0,27.6,clear
+2490,Lentil(Masur),Muradabad,2017-08-10,4900.0,4.0,27.6,clear
+2491,Bengal Gram(Gram),Muradabad,2017-09-10,6470.0,5.4,32.8,clear
+2492,Black Gram (Urd Beans),Bhehjoi,2017-09-10,3400.0,70.0,32.8,clear
+2493,Black Gram (Urd Beans),Muradabad,2017-09-10,6175.0,5.0,32.8,clear
+2494,Green Gram (Moong),Muradabad,2017-09-10,5580.0,5.0,32.8,clear
+2495,Lentil(Masur),Chandausi,2017-09-10,4785.0,1.3,32.8,clear
+2496,Lentil(Masur),Muradabad,2017-09-10,4860.0,5.2,32.8,clear
+2497,Bengal Gram(Gram),Muradabad,2017-11-10,6460.0,6.0,24.8,clear
+2498,Black Gram (Urd Beans),Bhehjoi,2017-11-10,3350.0,300.0,24.8,clear
+2499,Black Gram (Urd Beans),Muradabad,2017-11-10,6170.0,5.5,24.8,clear
+2500,Green Gram (Moong),Muradabad,2017-11-10,5575.0,5.2,24.8,clear
+2501,Lentil(Masur),Chandausi,2017-11-10,4810.0,1.1,24.8,clear
+2502,Lentil(Masur),Muradabad,2017-11-10,4850.0,6.5,24.8,clear
+2503,Bengal Gram(Gram),Muradabad,2017-12-10,6450.0,5.4,23.8,clear
+2504,Black Gram (Urd Beans),Bhehjoi,2017-12-10,3350.0,150.0,23.8,clear
+2505,Black Gram (Urd Beans),Muradabad,2017-12-10,6200.0,4.0,23.8,clear
+2506,Green Gram (Moong),Muradabad,2017-12-10,5600.0,3.0,23.8,clear
+2507,Lentil(Masur),Chandausi,2017-12-10,4820.0,1.1,23.8,clear
+2508,Lentil(Masur),Muradabad,2017-12-10,4870.0,5.5,23.8,clear
+2509,Bengal Gram(Gram),Muradabad,2017-10-13,6300.0,8.0,29.8,clear
+2510,Black Gram (Urd Beans),Muradabad,2017-10-13,6175.0,5.0,29.8,clear
+2511,Green Gram (Moong),Muradabad,2017-10-13,5580.0,4.2,29.8,clear
+2512,Lentil(Masur),Chandausi,2017-10-13,4825.0,1.2,29.8,clear
+2513,Lentil(Masur),Muradabad,2017-10-13,4875.0,4.5,29.8,clear
+2514,Bengal Gram(Gram),Muradabad,2017-10-14,6250.0,9.0,29.0,clear
+2515,Black Gram (Urd Beans),Muradabad,2017-10-14,6160.0,6.0,29.0,clear
+2516,Green Gram (Moong),Muradabad,2017-10-14,5560.0,5.0,29.0,clear
+2517,Lentil(Masur),Chandausi,2017-10-14,4815.0,1.5,29.0,clear
+2518,Lentil(Masur),Muradabad,2017-10-14,4870.0,5.0,29.0,clear
+2519,Bengal Gram(Gram),Muradabad,2017-10-15,6100.0,10.0,29.6,clear
+2520,Black Gram (Urd Beans),Bhehjoi,2017-10-15,3350.0,120.0,29.6,clear
+2521,Black Gram (Urd Beans),Muradabad,2017-10-15,6000.0,5.0,29.6,clear
+2522,Green Gram (Moong),Muradabad,2017-10-15,5570.0,4.5,29.6,clear
+2523,Lentil(Masur),Muradabad,2017-10-15,4875.0,4.5,29.6,clear
+2524,Bengal Gram(Gram),Muradabad,2017-10-16,6000.0,8.0,29.0,clear
+2525,Black Gram (Urd Beans),Bhehjoi,2017-10-16,3350.0,100.0,29.0,clear
+2526,Black Gram (Urd Beans),Muradabad,2017-10-16,5700.0,6.0,29.0,clear
+2527,Green Gram (Moong),Muradabad,2017-10-16,5580.0,3.0,29.0,clear
+2528,Lentil(Masur),Muradabad,2017-10-16,4850.0,3.6,29.0,clear
+2529,Bengal Gram(Gram),Muradabad,2017-10-18,6050.0,4.5,29.6,clear
+2530,Black Gram (Urd Beans),Bhehjoi,2017-10-18,3350.0,200.0,29.6,clear
+2531,Black Gram (Urd Beans),Muradabad,2017-10-18,5500.0,8.0,29.6,clear
+2532,Green Gram (Moong),Muradabad,2017-10-18,5575.0,4.0,29.6,clear
+2533,Lentil(Masur),Chandausi,2017-10-18,3675.0,9.0,29.6,clear
+2534,Lentil(Masur),Muradabad,2017-10-18,4870.0,3.5,29.6,clear
+2535,Bengal Gram(Gram),Muradabad,2017-10-19,6025.0,8.0,31.0,clear
+2536,Black Gram (Urd Beans),Bhehjoi,2017-10-19,3350.0,150.0,31.0,clear
+2537,Black Gram (Urd Beans),Muradabad,2017-10-19,5350.0,6.8,31.0,clear
+2538,Green Gram (Moong),Muradabad,2017-10-19,5580.0,2.5,31.0,clear
+2539,Lentil(Masur),Chandausi,2017-10-19,4835.0,1.1,31.0,clear
+2540,Lentil(Masur),Muradabad,2017-10-19,4900.0,6.0,31.0,clear
+2541,Bengal Gram(Gram),Muradabad,2017-10-21,6050.0,6.0,30.2,clear
+2542,Black Gram (Urd Beans),Muradabad,2017-10-21,5200.0,4.5,30.2,clear
+2543,Green Gram (Moong),Muradabad,2017-10-21,5575.0,3.0,30.2,clear
+2544,Lentil(Masur),Chandausi,2017-10-21,4840.0,0.5,30.2,clear
+2545,Lentil(Masur),Muradabad,2017-10-21,4880.0,7.0,30.2,clear
+2546,Bengal Gram(Gram),Muradabad,2017-10-22,5950.0,8.0,20.4,clear
+2547,Black Gram (Urd Beans),Muradabad,2017-10-22,5175.0,6.0,20.4,clear
+2548,Green Gram (Moong),Muradabad,2017-10-22,5580.0,2.8,20.4,clear
+2549,Lentil(Masur),Muradabad,2017-10-22,4875.0,4.0,20.4,clear
+2550,Bengal Gram(Gram),Muradabad,2017-10-23,5900.0,5.0,27.0,clear
+2551,Black Gram (Urd Beans),Muradabad,2017-10-23,5150.0,4.0,27.0,clear
+2552,Green Gram (Moong),Muradabad,2017-10-23,5580.0,2.4,27.0,clear
+2553,Lentil(Masur),Chandausi,2017-10-23,4845.0,1.2,27.0,clear
+2554,Lentil(Masur),Muradabad,2017-10-23,4850.0,6.0,27.0,clear
+2555,Bengal Gram(Gram),Muradabad,2017-10-25,5850.0,6.0,27.0,clear
+2556,Black Gram (Urd Beans),Muradabad,2017-10-25,5140.0,4.5,27.0,clear
+2557,Green Gram (Moong),Muradabad,2017-10-25,5590.0,2.2,27.0,clear
+2558,Lentil(Masur),Chandausi,2017-10-25,4850.0,1.2,27.0,clear
+2559,Lentil(Masur),Muradabad,2017-10-25,4830.0,6.5,27.0,clear
+2560,Bengal Gram(Gram),Muradabad,2017-10-26,5925.0,4.2,26.6,clear
+2561,Black Gram (Urd Beans),Bhehjoi,2017-10-26,3350.0,180.0,26.6,clear
+2562,Green Gram (Moong),Muradabad,2017-10-26,5575.0,2.6,26.6,clear
+2563,Lentil(Masur),Chandausi,2017-10-26,4835.0,1.1,26.6,clear
+2564,Lentil(Masur),Muradabad,2017-10-26,4900.0,5.0,26.6,clear
+2565,Bengal Gram(Gram),Muradabad,2017-10-27,6000.0,5.0,26.2,clear
+2566,Black Gram (Urd Beans),Bhehjoi,2017-10-27,3350.0,220.0,26.2,clear
+2567,Black Gram (Urd Beans),Muradabad,2017-10-27,5300.0,2.8,26.2,clear
+2568,Green Gram (Moong),Muradabad,2017-10-27,5580.0,2.0,26.2,clear
+2569,Lentil(Masur),Chandausi,2017-10-27,4840.0,1.2,26.2,clear
+2570,Lentil(Masur),Muradabad,2017-10-27,4900.0,4.2,26.2,clear
+2571,Bengal Gram(Gram),Muradabad,2017-10-28,5800.0,5.0,26.0,clear
+2572,Black Gram (Urd Beans),Bhehjoi,2017-10-28,3350.0,150.0,26.0,clear
+2573,Black Gram (Urd Beans),Muradabad,2017-10-28,5200.0,4.0,26.0,clear
+2574,Green Gram (Moong),Muradabad,2017-10-28,5550.0,3.0,26.0,clear
+2575,Lentil(Masur),Chandausi,2017-10-28,4850.0,1.0,26.0,clear
+2576,Lentil(Masur),Muradabad,2017-10-28,4850.0,5.5,26.0,clear
+2577,Bengal Gram(Gram),Muradabad,2017-10-29,5800.0,6.0,26.0,clear
+2578,Black Gram (Urd Beans),Bhehjoi,2017-10-29,3350.0,40.0,26.0,clear
+2579,Black Gram (Urd Beans),Muradabad,2017-10-29,5200.0,5.0,26.0,clear
+2580,Green Gram (Moong),Muradabad,2017-10-29,5575.0,2.0,26.0,clear
+2581,Lentil(Masur),Muradabad,2017-10-29,4825.0,6.0,26.0,clear
+2582,Bengal Gram(Gram),Muradabad,2017-10-30,5850.0,7.0,26.0,clear
+2583,Black Gram (Urd Beans),Muradabad,2017-10-30,5000.0,6.0,26.0,clear
+2584,Green Gram (Moong),Muradabad,2017-10-30,5500.0,3.0,26.0,clear
+2585,Lentil(Masur),Chandausi,2017-10-30,4835.0,1.2,26.0,clear
+2586,Lentil(Masur),Muradabad,2017-10-30,4800.0,4.0,26.0,clear
+2587,Bengal Gram(Gram),Muradabad,2017-02-11,6075.0,4.5,21.4,clear
+2588,Black Gram (Urd Beans),Bhehjoi,2017-02-11,3350.0,100.0,21.4,clear
+2589,Lentil(Masur),Chandausi,2017-02-11,4825.0,1.0,21.4,clear
+2590,Lentil(Masur),Muradabad,2017-02-11,4850.0,4.5,21.4,clear
+2591,Bengal Gram(Gram),Muradabad,2017-03-11,6100.0,4.0,20.6,clear
+2592,Black Gram (Urd Beans),Bhehjoi,2017-03-11,3350.0,42.0,20.6,clear
+2593,Green Gram (Moong),Muradabad,2017-03-11,5400.0,5.0,20.6,clear
+2594,Lentil(Masur),Chandausi,2017-03-11,4815.0,1.2,20.6,clear
+2595,Lentil(Masur),Muradabad,2017-03-11,4840.0,5.0,20.6,clear
+2596,Bengal Gram(Gram),Muradabad,2017-04-11,6150.0,2.0,31.8,clear
+2597,Black Gram (Urd Beans),Muradabad,2017-04-11,4800.0,3.0,31.8,clear
+2598,Green Gram (Moong),Muradabad,2017-04-11,5300.0,2.4,31.8,clear
+2599,Lentil(Masur),Muradabad,2017-04-11,4800.0,2.0,31.8,clear
+2600,Bengal Gram(Gram),Muradabad,2017-05-11,6100.0,5.0,32.8,clear
+2601,Black Gram (Urd Beans),Muradabad,2017-05-11,4750.0,6.0,32.8,clear
+2602,Green Gram (Moong),Muradabad,2017-05-11,5300.0,4.0,32.8,clear
+2603,Lentil(Masur),Muradabad,2017-05-11,4825.0,5.0,32.8,clear
+2604,Black Gram (Urd Beans),Bhehjoi,2017-06-13,4450.0,100.0,37.8,clear
+2605,Lentil(Masur),Chandausi,2017-06-13,5425.0,1.8,37.8,clear
+2606,Black Gram (Urd Beans),Bhehjoi,2017-06-20,4640.0,25.0,32.0,clear
+2607,Lentil(Masur),Chandausi,2017-06-20,5430.0,1.5,32.0,clear
+2608,Black Gram (Urd Beans),Bhehjoi,2017-02-07,4510.0,27.0,20.0,clear
+2609,Black Gram (Urd Beans),Bhehjoi,2017-03-07,4520.0,140.0,25.0,clear
+2610,Lentil(Masur),Chandausi,2017-03-07,4850.0,1.5,25.0,clear
+2611,Black Gram (Urd Beans),Bhehjoi,2017-11-07,4750.0,30.0,24.6,clear
+2612,Lentil(Masur),Chandausi,2017-11-07,4580.0,1.8,24.6,clear
+2613,Black Gram (Urd Beans),Bhehjoi,2017-07-18,4570.0,18.0,36.0,clear
+2614,Lentil(Masur),Chandausi,2017-07-18,4455.0,2.0,36.0,clear
+2615,Black Gram (Urd Beans),Bhehjoi,2017-07-25,4225.0,12.0,31.2,clear
+2616,Lentil(Masur),Chandausi,2017-07-25,4455.0,1.8,31.2,clear
+2617,Black Gram (Urd Beans),Bhehjoi,2017-08-22,4250.0,22.0,32.0,clear
+2618,Lentil(Masur),Chandausi,2017-08-22,4475.0,1.6,32.0,clear
+2619,Black Gram (Urd Beans),Bhehjoi,2017-08-29,4350.0,12.0,32.4,clear
+2620,Lentil(Masur),Chandausi,2017-08-29,4690.0,1.8,32.4,clear
+2621,Black Gram (Urd Beans),Bhehjoi,2017-01-09,4250.0,35.0,18.0,clear
+2622,Lentil(Masur),Chandausi,2017-01-09,4720.0,1.5,18.0,clear
+2623,Black Gram (Urd Beans),Bhehjoi,2017-12-09,4250.0,40.0,23.6,clear
+2624,Lentil(Masur),Chandausi,2017-12-09,4725.0,2.0,23.6,clear
+2625,Black Gram (Urd Beans),Bhehjoi,2017-03-10,4350.0,42.0,20.2,clear
+2626,Lentil(Masur),Chandausi,2017-03-10,4760.0,0.5,20.2,clear
+2627,Black Gram (Urd Beans),Bhehjoi,2017-10-10,3350.0,200.0,30.2,clear
+2628,Lentil(Masur),Chandausi,2017-10-10,4800.0,1.2,30.2,clear
+2629,Black Gram (Urd Beans),Bhehjoi,2017-10-20,1090.0,1150.0,31.6,clear
+2630,Black Gram (Urd Beans),Bhehjoi,2017-01-11,3350.0,150.0,14.4,clear
+2631,Lentil(Masur),Chandausi,2017-01-11,4810.0,1.2,14.4,clear
+2632,Black Gram (Urd Beans),Muradabad,2017-05-19,6650.0,4.2,35.4,clear
+2633,Green Gram (Moong),Muradabad,2017-05-19,6200.0,2.5,35.4,clear
+2634,Lentil(Masur),Chandausi,2017-05-19,5150.0,1.8,35.4,clear
+2635,Lentil(Masur),Muradabad,2017-05-19,6080.0,3.0,35.4,clear
+2636,Lentil(Masur),Chandausi,2017-03-01,6490.0,1.4,28.8,clear
+2637,Lentil(Masur),Chandausi,2017-10-01,6550.0,1.4,31.2,clear
+2638,Lentil(Masur),Chandausi,2017-01-17,6635.0,1.4,12.6,clear
+2639,Lentil(Masur),Chandausi,2017-01-24,6615.0,1.0,21.8,clear
+2640,Lentil(Masur),Chandausi,2017-01-26,6635.0,1.0,22.0,clear
+2641,Lentil(Masur),Chandausi,2017-07-02,6655.0,1.1,28.2,clear
+2642,Lentil(Masur),Chandausi,2017-02-14,6710.0,1.1,20.8,clear
+2643,Lentil(Masur),Chandausi,2017-02-21,6650.0,1.2,23.8,clear
+2644,Lentil(Masur),Chandausi,2017-02-28,6420.0,1.1,26.6,clear
+2645,Lentil(Masur),Chandausi,2017-07-03,6305.0,1.0,30.4,clear
+2646,Lentil(Masur),Chandausi,2017-03-14,6270.0,0.6,24.0,clear
+2647,Lentil(Masur),Chandausi,2017-03-21,6175.0,1.1,29.0,clear
+2648,Lentil(Masur),Chandausi,2017-04-04,5945.0,1.6,32.2,clear
+2649,Lentil(Masur),Chandausi,2017-11-04,5780.0,2.5,26.0,clear
+2650,Lentil(Masur),Chandausi,2017-04-18,5785.0,2.5,34.2,clear
+2651,Lentil(Masur),Chandausi,2017-04-25,5550.0,3.8,34.8,clear
+2652,Lentil(Masur),Chandausi,2017-02-05,5335.0,2.0,20.0,clear
+2653,Lentil(Masur),Chandausi,2017-09-05,5150.0,2.4,32.0,clear
+2654,Lentil(Masur),Chandausi,2017-12-05,5170.0,2.4,18.8,clear
+2655,Lentil(Masur),Chandausi,2017-05-16,5145.0,2.6,35.8,clear
+2656,Lentil(Masur),Chandausi,2017-05-23,5175.0,1.5,33.6,clear
+2657,Lentil(Masur),Chandausi,2017-06-06,5350.0,1.6,31.2,clear
+2658,Lentil(Masur),Chandausi,2017-06-27,5300.0,1.5,36.4,clear
+2659,Lentil(Masur),Chandausi,2017-04-07,4800.0,1.4,31.0,clear
+2660,Lentil(Masur),Chandausi,2017-01-08,4460.0,1.6,18.0,clear
+2661,Lentil(Masur),Chandausi,2017-08-15,4470.0,1.7,32.4,clear
+2662,Lentil(Masur),Chandausi,2017-05-09,4725.0,1.5,33.0,clear
+2663,Lentil(Masur),Chandausi,2017-09-19,4740.0,1.4,32.0,clear
+2664,Lentil(Masur),Chandausi,2017-09-26,4750.0,1.2,31.6,clear
+2665,Lentil(Masur),Chandausi,2017-10-17,4830.0,1.0,29.0,clear
+2666,Lentil(Masur),Chandausi,2017-10-24,4840.0,1.4,26.6,clear
+2667,Lentil(Masur),Chandausi,2017-10-31,4840.0,1.4,25.6,clear

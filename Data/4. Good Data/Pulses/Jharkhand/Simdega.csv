@@ -1,0 +1,948 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Simdega,2015-12-07,9500.0,2.0,25.0,clear
+1,Lentil(Masur),Simdega,2015-12-07,8200.0,0.0,25.0,clear
+2,Arhar (Tur/Red Gram),Simdega,2015-12-09,11500.0,3.0,24.0,clear
+3,Lentil(Masur),Simdega,2015-12-09,8500.0,2.0,24.0,clear
+4,Arhar (Tur/Red Gram),Simdega,2015-12-10,13000.0,0.0,25.0,clear
+5,Lentil(Masur),Simdega,2015-12-10,8300.0,1.0,25.0,clear
+6,Arhar (Tur/Red Gram),Simdega,2015-12-12,15000.0,0.0,25.0,clear
+7,Lentil(Masur),Simdega,2015-12-12,8300.0,0.0,25.0,clear
+8,Arhar (Tur/Red Gram),Simdega,2015-12-13,15000.0,0.0,25.2,clear
+9,Lentil(Masur),Simdega,2015-12-13,8300.0,0.0,25.2,clear
+10,Arhar (Tur/Red Gram),Simdega,2015-12-14,15000.0,0.0,25.0,clear
+11,Lentil(Masur),Simdega,2015-12-14,8300.0,0.0,25.0,clear
+12,Arhar (Tur/Red Gram),Simdega,2015-12-16,15000.0,1.0,23.0,clear
+13,Lentil(Masur),Simdega,2015-12-16,8300.0,0.0,23.0,clear
+14,Arhar (Tur/Red Gram),Simdega,2015-12-17,15000.0,0.0,23.6,clear
+15,Lentil(Masur),Simdega,2015-12-17,8300.0,0.0,23.6,clear
+16,Arhar (Tur/Red Gram),Simdega,2015-12-18,15000.0,0.0,24.0,clear
+17,Lentil(Masur),Simdega,2015-12-18,8300.0,0.0,24.0,clear
+18,Arhar (Tur/Red Gram),Simdega,2015-12-20,15000.0,0.0,12.0,clear
+19,Lentil(Masur),Simdega,2015-12-20,8300.0,0.0,12.0,clear
+20,Arhar (Tur/Red Gram),Simdega,2015-12-25,15000.0,0.0,18.0,clear
+21,Lentil(Masur),Simdega,2015-12-25,8400.0,0.0,18.0,clear
+22,Arhar (Tur/Red Gram),Simdega,2015-12-31,15000.0,4.0,25.0,clear
+23,Lentil(Masur),Simdega,2015-12-31,8400.0,2.0,25.0,clear
+24,Lentil(Masur),Simdega,2015-12-19,8300.0,0.0,22.0,clear
+25,Lentil(Masur),Simdega,2015-12-21,8300.0,0.0,20.2,clear
+26,Lentil(Masur),Simdega,2015-12-27,8400.0,0.0,10.2,clear
+27,Lentil(Masur),Simdega,2015-12-30,8400.0,2.0,25.2,clear
+28,Arhar (Tur/Red Gram),Simdega,2016-01-01,15000.0,2.0,25.2,clear
+29,Lentil(Masur),Simdega,2016-01-01,8400.0,2.0,25.2,clear
+30,Arhar (Tur/Red Gram),Simdega,2016-02-01,15000.0,1.0,30.6,clear
+31,Lentil(Masur),Simdega,2016-02-01,8400.0,1.5,30.6,clear
+32,Arhar (Tur/Red Gram),Simdega,2016-03-01,15000.0,2.0,25.8,clear
+33,Lentil(Masur),Simdega,2016-03-01,8400.0,1.5,25.8,clear
+34,Arhar (Tur/Red Gram),Simdega,2016-04-01,15000.0,1.0,34.2,clear
+35,Lentil(Masur),Simdega,2016-04-01,8400.0,1.5,34.2,clear
+36,Arhar (Tur/Red Gram),Simdega,2016-07-01,15000.0,2.0,35.0,clear
+37,Lentil(Masur),Simdega,2016-07-01,8400.0,1.0,35.0,clear
+38,Arhar (Tur/Red Gram),Simdega,2016-08-01,15000.0,0.0,30.0,clear
+39,Lentil(Masur),Simdega,2016-08-01,8400.0,0.0,30.0,clear
+40,Arhar (Tur/Red Gram),Simdega,2016-10-01,15000.0,0.0,30.0,clear
+41,Lentil(Masur),Simdega,2016-10-01,8400.0,0.0,30.0,clear
+42,Arhar (Tur/Red Gram),Simdega,2016-11-01,15000.0,0.0,29.4,clear
+43,Lentil(Masur),Simdega,2016-11-01,8400.0,0.0,29.4,clear
+44,Arhar (Tur/Red Gram),Simdega,2016-01-13,15000.0,2.0,25.0,clear
+45,Lentil(Masur),Simdega,2016-01-13,8400.0,4.0,25.0,clear
+46,Arhar (Tur/Red Gram),Simdega,2016-01-16,13000.0,0.0,25.4,clear
+47,Lentil(Masur),Simdega,2016-01-16,6200.0,0.0,25.4,clear
+48,Arhar (Tur/Red Gram),Simdega,2016-01-20,13000.0,0.0,24.0,clear
+49,Lentil(Masur),Simdega,2016-01-20,6200.0,0.0,24.0,clear
+50,Arhar (Tur/Red Gram),Simdega,2016-01-21,13000.0,1.0,20.2,clear
+51,Lentil(Masur),Simdega,2016-01-21,6200.0,2.0,20.2,clear
+52,Arhar (Tur/Red Gram),Simdega,2016-01-22,13000.0,2.0,22.0,clear
+53,Lentil(Masur),Simdega,2016-01-22,6200.0,1.5,22.0,clear
+54,Arhar (Tur/Red Gram),Simdega,2016-01-23,13000.0,0.0,20.2,clear
+55,Lentil(Masur),Simdega,2016-01-23,6200.0,0.0,20.2,clear
+56,Arhar (Tur/Red Gram),Simdega,2016-01-31,13000.0,0.0,30.4,clear
+57,Lentil(Masur),Simdega,2016-01-31,6200.0,0.0,30.4,clear
+58,Arhar (Tur/Red Gram),Simdega,2016-01-02,13000.0,2.0,25.0,clear
+59,Lentil(Masur),Simdega,2016-01-02,6200.0,3.0,25.0,clear
+60,Arhar (Tur/Red Gram),Simdega,2016-03-02,13000.0,1.0,30.0,clear
+61,Lentil(Masur),Simdega,2016-03-02,6200.0,2.0,30.0,clear
+62,Arhar (Tur/Red Gram),Simdega,2016-04-02,13000.0,0.0,35.2,clear
+63,Lentil(Masur),Simdega,2016-04-02,6200.0,3.0,35.2,clear
+64,Arhar (Tur/Red Gram),Simdega,2016-05-02,13000.0,2.0,40.0,clear
+65,Lentil(Masur),Simdega,2016-05-02,6200.0,0.0,40.0,clear
+66,Arhar (Tur/Red Gram),Simdega,2016-06-02,13000.0,0.0,36.0,clear
+67,Arhar (Tur/Red Gram),Simdega,2016-12-02,13000.0,2.0,29.0,clear
+68,Lentil(Masur),Simdega,2016-12-02,6200.0,1.0,29.0,clear
+69,Arhar (Tur/Red Gram),Simdega,2016-02-13,13000.0,0.0,30.0,clear
+70,Lentil(Masur),Simdega,2016-02-13,6200.0,0.0,30.0,clear
+71,Arhar (Tur/Red Gram),Simdega,2016-02-14,13000.0,0.0,30.2,clear
+72,Lentil(Masur),Simdega,2016-02-14,6200.0,0.0,30.2,clear
+73,Arhar (Tur/Red Gram),Simdega,2016-02-15,13000.0,4.0,30.4,clear
+74,Lentil(Masur),Simdega,2016-02-15,6200.0,2.0,30.4,clear
+75,Arhar (Tur/Red Gram),Simdega,2016-02-21,13000.0,0.0,32.0,clear
+76,Lentil(Masur),Simdega,2016-02-21,6200.0,3.0,32.0,clear
+77,Arhar (Tur/Red Gram),Simdega,2016-02-22,13000.0,0.0,32.2,clear
+78,Lentil(Masur),Simdega,2016-02-22,6200.0,0.0,32.2,clear
+79,Arhar (Tur/Red Gram),Simdega,2016-02-24,13000.0,3.0,28.0,clear
+80,Lentil(Masur),Simdega,2016-02-24,6200.0,2.0,28.0,clear
+81,Arhar (Tur/Red Gram),Simdega,2016-02-25,13000.0,0.0,29.0,clear
+82,Lentil(Masur),Simdega,2016-02-25,6200.0,0.0,29.0,clear
+83,Arhar (Tur/Red Gram),Simdega,2016-02-27,13000.0,2.0,20.0,clear
+84,Lentil(Masur),Simdega,2016-02-27,6200.0,1.5,20.0,clear
+85,Arhar (Tur/Red Gram),Simdega,2016-02-28,13000.0,0.0,25.2,clear
+86,Lentil(Masur),Simdega,2016-02-28,6200.0,0.0,25.2,clear
+87,Arhar (Tur/Red Gram),Simdega,2016-05-03,13000.0,0.0,40.2,clear
+88,Lentil(Masur),Simdega,2016-05-03,6300.0,0.0,40.2,clear
+89,Arhar (Tur/Red Gram),Simdega,2016-06-03,13000.0,2.0,32.0,clear
+90,Lentil(Masur),Simdega,2016-06-03,6300.0,1.5,32.0,clear
+91,Arhar (Tur/Red Gram),Simdega,2016-07-03,13000.0,0.0,26.0,clear
+92,Lentil(Masur),Simdega,2016-07-03,6300.0,0.0,26.0,clear
+93,Arhar (Tur/Red Gram),Simdega,2016-09-03,13000.0,1.5,26.4,clear
+94,Lentil(Masur),Simdega,2016-09-03,6300.0,1.0,26.4,clear
+95,Arhar (Tur/Red Gram),Simdega,2016-10-03,13000.0,0.0,30.2,clear
+96,Lentil(Masur),Simdega,2016-10-03,6300.0,0.0,30.2,clear
+97,Arhar (Tur/Red Gram),Simdega,2016-03-13,13000.0,2.0,27.0,clear
+98,Lentil(Masur),Simdega,2016-03-13,6300.0,1.0,27.0,clear
+99,Arhar (Tur/Red Gram),Simdega,2016-03-14,13000.0,0.0,25.0,clear
+100,Lentil(Masur),Simdega,2016-03-14,6300.0,0.0,25.0,clear
+101,Arhar (Tur/Red Gram),Simdega,2016-03-21,13000.0,1.5,34.0,clear
+102,Lentil(Masur),Simdega,2016-03-21,6300.0,0.0,34.0,clear
+103,Arhar (Tur/Red Gram),Simdega,2016-03-23,13000.0,2.0,34.0,clear
+104,Lentil(Masur),Simdega,2016-03-23,6300.0,1.5,34.0,clear
+105,Arhar (Tur/Red Gram),Simdega,2016-03-28,13000.0,3.0,34.0,clear
+106,Lentil(Masur),Simdega,2016-03-28,6300.0,2.0,34.0,clear
+107,Arhar (Tur/Red Gram),Simdega,2016-03-30,13000.0,0.0,35.2,clear
+108,Lentil(Masur),Simdega,2016-03-30,6300.0,0.0,35.2,clear
+109,Arhar (Tur/Red Gram),Simdega,2016-03-04,13000.0,4.0,30.0,clear
+110,Lentil(Masur),Simdega,2016-03-04,6300.0,2.0,30.0,clear
+111,Arhar (Tur/Red Gram),Simdega,2016-04-04,13000.0,0.0,35.4,clear
+112,Lentil(Masur),Simdega,2016-04-04,6300.0,0.0,35.4,clear
+113,Arhar (Tur/Red Gram),Simdega,2016-06-04,13000.0,2.0,32.4,clear
+114,Lentil(Masur),Simdega,2016-06-04,6300.0,1.5,32.4,clear
+115,Arhar (Tur/Red Gram),Simdega,2016-07-04,13000.0,0.0,27.0,clear
+116,Lentil(Masur),Simdega,2016-07-04,6300.0,0.0,27.0,clear
+117,Arhar (Tur/Red Gram),Simdega,2016-09-04,13000.0,0.0,27.0,clear
+118,Lentil(Masur),Simdega,2016-09-04,6300.0,0.0,27.0,clear
+119,Arhar (Tur/Red Gram),Simdega,2016-10-04,13000.0,1.5,30.4,clear
+120,Lentil(Masur),Simdega,2016-10-04,6300.0,2.0,30.4,clear
+121,Arhar (Tur/Red Gram),Simdega,2016-11-04,13000.0,2.0,30.2,clear
+122,Lentil(Masur),Simdega,2016-11-04,6300.0,1.5,30.2,clear
+123,Arhar (Tur/Red Gram),Simdega,2016-04-13,13000.0,0.0,38.0,clear
+124,Lentil(Masur),Simdega,2016-04-13,6300.0,0.0,38.0,clear
+125,Arhar (Tur/Red Gram),Simdega,2016-04-18,13000.0,1.0,40.0,clear
+126,Lentil(Masur),Simdega,2016-04-18,6500.0,2.0,40.0,clear
+127,Arhar (Tur/Red Gram),Simdega,2016-04-20,13000.0,0.0,40.2,clear
+128,Lentil(Masur),Simdega,2016-04-20,6800.0,0.0,40.2,clear
+129,Arhar (Tur/Red Gram),Simdega,2016-04-21,13000.0,1.0,40.4,clear
+130,Lentil(Masur),Simdega,2016-04-21,6800.0,2.0,40.4,clear
+131,Arhar (Tur/Red Gram),Simdega,2016-04-22,13000.0,0.0,42.0,clear
+132,Lentil(Masur),Simdega,2016-04-22,6800.0,0.0,42.0,clear
+133,Arhar (Tur/Red Gram),Simdega,2016-04-23,13000.0,1.5,40.0,clear
+134,Lentil(Masur),Simdega,2016-04-23,6800.0,2.0,40.0,clear
+135,Arhar (Tur/Red Gram),Simdega,2016-04-24,13000.0,1.0,40.0,clear
+136,Lentil(Masur),Simdega,2016-04-24,7000.0,1.5,40.0,clear
+137,Arhar (Tur/Red Gram),Simdega,2016-04-25,13000.0,0.0,39.0,clear
+138,Lentil(Masur),Simdega,2016-04-25,7000.0,0.0,39.0,clear
+139,Arhar (Tur/Red Gram),Simdega,2016-04-27,13000.0,2.0,42.0,clear
+140,Lentil(Masur),Simdega,2016-04-27,7000.0,3.0,42.0,clear
+141,Arhar (Tur/Red Gram),Simdega,2016-04-28,13000.0,1.0,35.0,clear
+142,Lentil(Masur),Simdega,2016-04-28,7000.0,0.0,35.0,clear
+143,Arhar (Tur/Red Gram),Simdega,2016-04-29,13000.0,2.0,40.0,clear
+144,Lentil(Masur),Simdega,2016-04-29,7000.0,1.5,40.0,clear
+145,Arhar (Tur/Red Gram),Simdega,2016-04-30,13000.0,0.0,35.2,clear
+146,Lentil(Masur),Simdega,2016-04-30,7000.0,0.0,35.2,clear
+147,Arhar (Tur/Red Gram),Simdega,2016-01-05,13000.0,0.0,24.0,clear
+148,Lentil(Masur),Simdega,2016-01-05,7000.0,0.0,24.0,clear
+149,Arhar (Tur/Red Gram),Simdega,2016-02-05,13000.0,2.0,19.2,clear
+150,Lentil(Masur),Simdega,2016-02-05,7000.0,4.0,19.2,clear
+151,Arhar (Tur/Red Gram),Simdega,2016-04-05,13000.0,0.0,35.2,clear
+152,Lentil(Masur),Simdega,2016-04-05,7000.0,0.0,35.2,clear
+153,Arhar (Tur/Red Gram),Simdega,2016-05-05,13000.0,2.0,37.0,clear
+154,Lentil(Masur),Simdega,2016-05-05,7000.0,3.0,37.0,clear
+155,Arhar (Tur/Red Gram),Simdega,2016-06-05,13000.0,0.0,32.6,clear
+156,Lentil(Masur),Simdega,2016-06-05,7000.0,0.0,32.6,clear
+157,Arhar (Tur/Red Gram),Simdega,2016-07-05,13000.0,2.0,25.0,clear
+158,Lentil(Masur),Simdega,2016-07-05,7000.0,3.0,25.0,clear
+159,Arhar (Tur/Red Gram),Simdega,2016-08-05,13000.0,0.0,28.0,clear
+160,Lentil(Masur),Simdega,2016-08-05,7000.0,0.0,28.0,clear
+161,Arhar (Tur/Red Gram),Simdega,2016-09-05,13000.0,4.0,27.4,clear
+162,Lentil(Masur),Simdega,2016-09-05,7000.0,3.0,27.4,clear
+163,Arhar (Tur/Red Gram),Simdega,2016-05-18,13000.0,2.0,37.2,clear
+164,Lentil(Masur),Simdega,2016-05-18,7000.0,2.5,37.2,clear
+165,Arhar (Tur/Red Gram),Simdega,2016-05-19,13000.0,0.0,35.0,clear
+166,Lentil(Masur),Simdega,2016-05-19,7000.0,0.0,35.0,clear
+167,Arhar (Tur/Red Gram),Simdega,2016-05-25,13000.0,0.0,32.0,clear
+168,Lentil(Masur),Simdega,2016-05-25,7000.0,0.0,32.0,clear
+169,Arhar (Tur/Red Gram),Simdega,2016-05-26,13000.0,3.0,40.0,clear
+170,Lentil(Masur),Simdega,2016-05-26,7000.0,2.0,40.0,clear
+171,Arhar (Tur/Red Gram),Simdega,2016-05-27,13000.0,2.0,38.0,clear
+172,Lentil(Masur),Simdega,2016-05-27,7000.0,2.5,38.0,clear
+173,Arhar (Tur/Red Gram),Simdega,2016-05-28,13000.0,0.0,38.2,clear
+174,Lentil(Masur),Simdega,2016-05-28,7000.0,2.0,38.2,clear
+175,Arhar (Tur/Red Gram),Simdega,2016-05-29,13000.0,2.5,37.4,clear
+176,Lentil(Masur),Simdega,2016-05-29,7000.0,0.0,37.4,clear
+177,Arhar (Tur/Red Gram),Simdega,2016-05-30,13000.0,0.0,35.0,clear
+178,Lentil(Masur),Simdega,2016-05-30,7000.0,0.0,35.0,clear
+179,Arhar (Tur/Red Gram),Simdega,2016-01-06,13000.0,0.0,25.0,clear
+180,Lentil(Masur),Simdega,2016-01-06,7100.0,0.0,25.0,clear
+181,Arhar (Tur/Red Gram),Simdega,2016-02-06,13000.0,3.0,18.0,clear
+182,Lentil(Masur),Simdega,2016-02-06,7100.0,2.0,18.0,clear
+183,Arhar (Tur/Red Gram),Simdega,2016-03-06,13000.0,2.0,30.0,clear
+184,Lentil(Masur),Simdega,2016-03-06,7100.0,1.0,30.0,clear
+185,Arhar (Tur/Red Gram),Simdega,2016-04-06,13000.0,1.0,35.6,clear
+186,Lentil(Masur),Simdega,2016-04-06,7100.0,2.0,35.6,clear
+187,Arhar (Tur/Red Gram),Simdega,2016-05-06,13000.0,3.0,37.2,clear
+188,Lentil(Masur),Simdega,2016-05-06,7100.0,4.0,37.2,clear
+189,Arhar (Tur/Red Gram),Simdega,2016-06-06,13000.0,0.0,32.8,clear
+190,Lentil(Masur),Simdega,2016-06-06,7100.0,2.5,32.8,clear
+191,Arhar (Tur/Red Gram),Simdega,2016-08-06,13000.0,4.0,27.4,clear
+192,Lentil(Masur),Simdega,2016-08-06,7100.0,2.0,27.4,clear
+193,Arhar (Tur/Red Gram),Simdega,2016-09-06,13000.0,0.0,26.4,clear
+194,Lentil(Masur),Simdega,2016-09-06,7100.0,0.0,26.4,clear
+195,Arhar (Tur/Red Gram),Simdega,2016-10-06,13000.0,0.0,27.0,clear
+196,Lentil(Masur),Simdega,2016-10-06,7100.0,0.0,27.0,clear
+197,Arhar (Tur/Red Gram),Simdega,2016-11-06,13000.0,0.0,29.0,clear
+198,Lentil(Masur),Simdega,2016-11-06,7100.0,0.0,29.0,clear
+199,Arhar (Tur/Red Gram),Simdega,2016-06-15,13000.0,0.0,37.0,clear
+200,Lentil(Masur),Simdega,2016-06-15,7100.0,0.0,37.0,clear
+201,Arhar (Tur/Red Gram),Simdega,2016-06-16,13000.0,0.0,28.0,clear
+202,Lentil(Masur),Simdega,2016-06-16,7100.0,0.0,28.0,clear
+203,Arhar (Tur/Red Gram),Simdega,2016-06-17,13000.0,0.0,30.0,clear
+204,Lentil(Masur),Simdega,2016-06-17,7100.0,0.0,30.0,clear
+205,Arhar (Tur/Red Gram),Simdega,2016-06-18,13000.0,0.0,27.0,clear
+206,Lentil(Masur),Simdega,2016-06-18,7100.0,0.0,27.0,clear
+207,Arhar (Tur/Red Gram),Simdega,2016-06-19,13000.0,0.0,27.4,clear
+208,Lentil(Masur),Simdega,2016-06-19,7100.0,0.0,27.4,clear
+209,Arhar (Tur/Red Gram),Simdega,2016-06-20,13000.0,0.0,34.0,clear
+210,Lentil(Masur),Simdega,2016-06-20,7100.0,0.0,34.0,clear
+211,Arhar (Tur/Red Gram),Simdega,2016-06-24,13000.0,0.0,31.0,clear
+212,Arhar (Tur/Red Gram),Simdega,2016-06-25,13000.0,0.0,32.0,clear
+213,Lentil(Masur),Simdega,2016-06-25,7100.0,0.0,32.0,clear
+214,Arhar (Tur/Red Gram),Simdega,2016-06-26,13000.0,0.0,30.0,clear
+215,Lentil(Masur),Simdega,2016-06-26,7100.0,0.0,30.0,clear
+216,Arhar (Tur/Red Gram),Simdega,2016-06-27,13000.0,0.0,30.2,clear
+217,Lentil(Masur),Simdega,2016-06-27,7100.0,0.0,30.2,clear
+218,Arhar (Tur/Red Gram),Simdega,2016-06-29,13000.0,0.0,29.0,clear
+219,Lentil(Masur),Simdega,2016-06-29,7100.0,0.0,29.0,clear
+220,Arhar (Tur/Red Gram),Simdega,2016-06-30,13500.0,0.0,31.2,clear
+221,Lentil(Masur),Simdega,2016-06-30,7100.0,0.0,31.2,clear
+222,Arhar (Tur/Red Gram),Simdega,2016-01-07,13500.0,0.0,25.2,clear
+223,Lentil(Masur),Simdega,2016-01-07,7100.0,0.0,25.2,clear
+224,Arhar (Tur/Red Gram),Simdega,2016-06-07,13500.0,0.0,34.0,clear
+225,Lentil(Masur),Simdega,2016-06-07,8000.0,0.0,34.0,clear
+226,Arhar (Tur/Red Gram),Simdega,2016-07-07,13500.0,0.0,28.0,clear
+227,Lentil(Masur),Simdega,2016-07-07,8000.0,0.0,28.0,clear
+228,Arhar (Tur/Red Gram),Simdega,2016-08-07,13500.0,0.0,28.0,clear
+229,Lentil(Masur),Simdega,2016-08-07,8000.0,0.0,28.0,clear
+230,Arhar (Tur/Red Gram),Simdega,2016-09-07,13500.0,0.0,24.4,clear
+231,Lentil(Masur),Simdega,2016-09-07,8000.0,0.0,24.4,clear
+232,Arhar (Tur/Red Gram),Simdega,2016-10-07,13500.0,0.0,27.4,clear
+233,Lentil(Masur),Simdega,2016-10-07,8000.0,0.0,27.4,clear
+234,Arhar (Tur/Red Gram),Simdega,2016-11-07,13500.0,0.0,29.2,clear
+235,Lentil(Masur),Simdega,2016-11-07,8000.0,0.0,29.2,clear
+236,Arhar (Tur/Red Gram),Simdega,2016-07-13,13500.0,0.0,29.0,clear
+237,Lentil(Masur),Simdega,2016-07-13,8000.0,0.0,29.0,clear
+238,Arhar (Tur/Red Gram),Simdega,2016-07-14,13500.0,0.0,28.0,clear
+239,Lentil(Masur),Simdega,2016-07-14,7800.0,0.0,28.0,clear
+240,Arhar (Tur/Red Gram),Simdega,2016-07-15,13500.0,0.0,29.0,clear
+241,Lentil(Masur),Simdega,2016-07-15,7800.0,0.0,29.0,clear
+242,Arhar (Tur/Red Gram),Simdega,2016-07-16,13500.0,0.0,28.2,clear
+243,Lentil(Masur),Simdega,2016-07-16,7800.0,0.0,28.2,clear
+244,Arhar (Tur/Red Gram),Simdega,2016-07-17,13500.0,0.0,27.0,clear
+245,Lentil(Masur),Simdega,2016-07-17,7800.0,0.0,27.0,clear
+246,Arhar (Tur/Red Gram),Simdega,2016-07-18,13500.0,0.0,27.2,clear
+247,Lentil(Masur),Simdega,2016-07-18,7800.0,0.0,27.2,clear
+248,Arhar (Tur/Red Gram),Simdega,2016-07-20,13500.0,0.0,28.0,clear
+249,Lentil(Masur),Simdega,2016-07-20,7800.0,0.0,28.0,clear
+250,Arhar (Tur/Red Gram),Simdega,2016-07-21,13500.0,0.0,30.0,clear
+251,Lentil(Masur),Simdega,2016-07-21,7800.0,0.0,30.0,clear
+252,Arhar (Tur/Red Gram),Simdega,2016-07-22,13500.0,0.0,30.2,clear
+253,Lentil(Masur),Simdega,2016-07-22,7800.0,0.0,30.2,clear
+254,Arhar (Tur/Red Gram),Simdega,2016-07-23,13500.0,0.0,32.0,clear
+255,Lentil(Masur),Simdega,2016-07-23,7800.0,0.0,32.0,clear
+256,Arhar (Tur/Red Gram),Simdega,2016-07-24,13500.0,0.0,32.2,clear
+257,Arhar (Tur/Red Gram),Simdega,2016-07-28,13000.0,0.0,30.2,clear
+258,Lentil(Masur),Simdega,2016-07-28,7500.0,0.0,30.2,clear
+259,Arhar (Tur/Red Gram),Simdega,2016-07-29,13000.0,0.0,32.2,clear
+260,Lentil(Masur),Simdega,2016-07-29,7500.0,0.0,32.2,clear
+261,Arhar (Tur/Red Gram),Simdega,2016-07-30,13000.0,0.0,32.4,clear
+262,Lentil(Masur),Simdega,2016-07-30,7500.0,0.0,32.4,clear
+263,Arhar (Tur/Red Gram),Simdega,2016-07-31,13000.0,0.0,32.0,clear
+264,Lentil(Masur),Simdega,2016-07-31,7500.0,0.0,32.0,clear
+265,Arhar (Tur/Red Gram),Simdega,2016-01-08,13000.0,0.0,25.4,clear
+266,Lentil(Masur),Simdega,2016-01-08,7500.0,0.0,25.4,clear
+267,Arhar (Tur/Red Gram),Simdega,2016-03-08,13000.0,0.0,28.2,clear
+268,Lentil(Masur),Simdega,2016-03-08,7500.0,0.0,28.2,clear
+269,Arhar (Tur/Red Gram),Simdega,2016-04-08,13000.0,0.0,35.4,clear
+270,Lentil(Masur),Simdega,2016-04-08,7500.0,0.0,35.4,clear
+271,Arhar (Tur/Red Gram),Simdega,2016-05-08,13000.0,0.0,37.0,clear
+272,Lentil(Masur),Simdega,2016-05-08,7500.0,0.0,37.0,clear
+273,Arhar (Tur/Red Gram),Simdega,2016-06-08,13000.0,0.0,32.4,clear
+274,Lentil(Masur),Simdega,2016-06-08,7500.0,0.0,32.4,clear
+275,Arhar (Tur/Red Gram),Simdega,2016-07-08,13000.0,0.0,28.2,clear
+276,Lentil(Masur),Simdega,2016-07-08,7500.0,0.0,28.2,clear
+277,Arhar (Tur/Red Gram),Simdega,2016-08-08,13000.0,0.0,29.0,clear
+278,Lentil(Masur),Simdega,2016-08-08,7500.0,0.0,29.0,clear
+279,Arhar (Tur/Red Gram),Simdega,2016-08-15,13000.0,0.0,29.0,clear
+280,Lentil(Masur),Simdega,2016-08-15,7500.0,0.0,29.0,clear
+281,Arhar (Tur/Red Gram),Simdega,2016-08-23,13000.0,0.0,26.0,clear
+282,Arhar (Tur/Red Gram),Simdega,2016-08-24,13000.0,0.0,27.2,clear
+283,Lentil(Masur),Simdega,2016-08-24,7500.0,0.0,27.2,clear
+284,Arhar (Tur/Red Gram),Simdega,2016-08-25,13000.0,0.0,28.0,clear
+285,Lentil(Masur),Simdega,2016-08-25,7500.0,0.0,28.0,clear
+286,Arhar (Tur/Red Gram),Simdega,2016-08-26,13000.0,0.0,29.0,clear
+287,Lentil(Masur),Simdega,2016-08-26,7500.0,0.0,29.0,clear
+288,Arhar (Tur/Red Gram),Simdega,2016-08-27,13000.0,0.0,29.2,clear
+289,Lentil(Masur),Simdega,2016-08-27,7500.0,0.0,29.2,clear
+290,Arhar (Tur/Red Gram),Simdega,2016-08-28,13000.0,0.0,30.0,clear
+291,Lentil(Masur),Simdega,2016-08-28,7500.0,0.0,30.0,clear
+292,Arhar (Tur/Red Gram),Simdega,2016-08-31,13000.0,0.0,31.0,clear
+293,Lentil(Masur),Simdega,2016-08-31,7500.0,0.0,31.0,clear
+294,Arhar (Tur/Red Gram),Simdega,2016-01-09,13000.0,0.0,25.2,clear
+295,Lentil(Masur),Simdega,2016-01-09,7500.0,0.0,25.2,clear
+296,Arhar (Tur/Red Gram),Simdega,2016-02-09,13000.0,0.0,25.0,clear
+297,Lentil(Masur),Simdega,2016-02-09,7500.0,0.0,25.0,clear
+298,Arhar (Tur/Red Gram),Simdega,2016-03-09,13000.0,0.0,30.0,clear
+299,Lentil(Masur),Simdega,2016-03-09,7500.0,0.0,30.0,clear
+300,Arhar (Tur/Red Gram),Simdega,2016-08-09,13000.0,0.0,29.2,clear
+301,Lentil(Masur),Simdega,2016-08-09,7500.0,0.0,29.2,clear
+302,Arhar (Tur/Red Gram),Simdega,2016-09-09,13000.0,0.0,29.0,clear
+303,Lentil(Masur),Simdega,2016-09-09,7500.0,0.0,29.0,clear
+304,Arhar (Tur/Red Gram),Simdega,2016-10-09,10000.0,0.0,28.4,clear
+305,Lentil(Masur),Simdega,2016-10-09,7200.0,0.0,28.4,clear
+306,Arhar (Tur/Red Gram),Simdega,2016-11-09,10000.0,0.0,26.0,clear
+307,Lentil(Masur),Simdega,2016-11-09,7200.0,0.0,26.0,clear
+308,Arhar (Tur/Red Gram),Simdega,2016-12-09,10000.0,0.0,27.0,clear
+309,Lentil(Masur),Simdega,2016-12-09,7200.0,0.0,27.0,clear
+310,Arhar (Tur/Red Gram),Simdega,2016-09-14,10000.0,0.0,29.0,clear
+311,Lentil(Masur),Simdega,2016-09-14,7200.0,0.0,29.0,clear
+312,Arhar (Tur/Red Gram),Simdega,2016-09-19,10000.0,0.0,32.0,clear
+313,Lentil(Masur),Simdega,2016-09-19,7200.0,0.0,32.0,clear
+314,Arhar (Tur/Red Gram),Simdega,2016-09-21,10000.0,0.0,31.0,clear
+315,Lentil(Masur),Simdega,2016-09-21,7200.0,0.0,31.0,clear
+316,Arhar (Tur/Red Gram),Simdega,2016-09-22,10000.0,0.0,27.0,clear
+317,Lentil(Masur),Simdega,2016-09-22,7200.0,0.0,27.0,clear
+318,Arhar (Tur/Red Gram),Simdega,2016-09-23,10000.0,0.0,29.0,clear
+319,Lentil(Masur),Simdega,2016-09-23,7200.0,0.0,29.0,clear
+320,Arhar (Tur/Red Gram),Simdega,2016-09-24,10000.0,0.0,30.0,clear
+321,Lentil(Masur),Simdega,2016-09-24,7200.0,0.0,30.0,clear
+322,Arhar (Tur/Red Gram),Simdega,2016-09-25,10000.0,0.0,28.4,clear
+323,Lentil(Masur),Simdega,2016-09-25,7200.0,0.0,28.4,clear
+324,Arhar (Tur/Red Gram),Simdega,2016-09-26,10000.0,0.0,31.0,clear
+325,Lentil(Masur),Simdega,2016-09-26,7200.0,0.0,31.0,clear
+326,Arhar (Tur/Red Gram),Simdega,2016-09-28,10000.0,0.0,30.2,clear
+327,Arhar (Tur/Red Gram),Simdega,2016-02-10,10000.0,0.0,25.2,clear
+328,Lentil(Masur),Simdega,2016-02-10,7200.0,0.0,25.2,clear
+329,Arhar (Tur/Red Gram),Simdega,2016-03-10,10000.0,0.0,32.0,clear
+330,Lentil(Masur),Simdega,2016-03-10,7200.0,0.0,32.0,clear
+331,Arhar (Tur/Red Gram),Simdega,2016-05-10,10000.0,0.0,35.0,clear
+332,Lentil(Masur),Simdega,2016-05-10,7200.0,0.0,35.0,clear
+333,Arhar (Tur/Red Gram),Simdega,2016-06-10,10000.0,0.0,37.0,clear
+334,Lentil(Masur),Simdega,2016-06-10,7200.0,0.0,37.0,clear
+335,Arhar (Tur/Red Gram),Simdega,2016-07-10,10000.0,0.0,29.9,clear
+336,Lentil(Masur),Simdega,2016-07-10,7200.0,0.0,29.9,clear
+337,Arhar (Tur/Red Gram),Simdega,2016-08-10,10000.0,0.0,28.2,clear
+338,Lentil(Masur),Simdega,2016-08-10,7200.0,0.0,28.2,clear
+339,Arhar (Tur/Red Gram),Simdega,2016-09-10,10000.0,0.0,29.2,clear
+340,Lentil(Masur),Simdega,2016-09-10,7200.0,0.0,29.2,clear
+341,Arhar (Tur/Red Gram),Simdega,2016-10-10,10000.0,0.0,29.0,clear
+342,Lentil(Masur),Simdega,2016-10-10,7200.0,0.0,29.0,clear
+343,Arhar (Tur/Red Gram),Simdega,2016-12-10,10000.0,0.0,26.0,clear
+344,Lentil(Masur),Simdega,2016-12-10,7200.0,0.0,26.0,clear
+345,Arhar (Tur/Red Gram),Simdega,2016-10-13,10000.0,0.0,30.2,clear
+346,Lentil(Masur),Simdega,2016-10-13,7200.0,0.0,30.2,clear
+347,Arhar (Tur/Red Gram),Simdega,2016-10-14,10000.0,0.0,26.0,clear
+348,Lentil(Masur),Simdega,2016-10-14,7200.0,0.0,26.0,clear
+349,Arhar (Tur/Red Gram),Simdega,2016-10-15,10000.0,0.0,27.0,clear
+350,Lentil(Masur),Simdega,2016-10-15,7200.0,0.0,27.0,clear
+351,Arhar (Tur/Red Gram),Simdega,2016-10-16,10000.0,0.0,26.2,clear
+352,Lentil(Masur),Simdega,2016-10-16,7200.0,0.0,26.2,clear
+353,Arhar (Tur/Red Gram),Simdega,2016-10-17,10000.0,0.0,28.0,clear
+354,Lentil(Masur),Simdega,2016-10-17,7200.0,0.0,28.0,clear
+355,Arhar (Tur/Red Gram),Simdega,2016-10-19,10000.0,0.0,30.0,clear
+356,Lentil(Masur),Simdega,2016-10-19,7200.0,0.0,30.0,clear
+357,Arhar (Tur/Red Gram),Simdega,2016-10-20,10000.0,0.0,29.2,clear
+358,Lentil(Masur),Simdega,2016-10-20,7200.0,0.0,29.2,clear
+359,Arhar (Tur/Red Gram),Simdega,2016-10-21,10000.0,0.0,28.0,clear
+360,Lentil(Masur),Simdega,2016-10-21,7200.0,0.0,28.0,clear
+361,Arhar (Tur/Red Gram),Simdega,2016-10-22,10000.0,0.0,22.0,clear
+362,Lentil(Masur),Simdega,2016-10-22,7200.0,0.0,22.0,clear
+363,Arhar (Tur/Red Gram),Simdega,2016-10-23,10000.0,0.0,29.4,clear
+364,Lentil(Masur),Simdega,2016-10-23,7200.0,0.0,29.4,clear
+365,Arhar (Tur/Red Gram),Simdega,2016-10-24,10000.0,0.0,30.0,clear
+366,Lentil(Masur),Simdega,2016-10-24,7200.0,0.0,30.0,clear
+367,Arhar (Tur/Red Gram),Simdega,2016-10-26,10000.0,0.0,28.0,clear
+368,Lentil(Masur),Simdega,2016-10-26,7200.0,0.0,28.0,clear
+369,Arhar (Tur/Red Gram),Simdega,2016-10-27,10000.0,0.0,30.0,clear
+370,Lentil(Masur),Simdega,2016-10-27,7200.0,0.0,30.0,clear
+371,Arhar (Tur/Red Gram),Simdega,2016-10-28,10000.0,0.0,29.0,clear
+372,Lentil(Masur),Simdega,2016-10-28,7200.0,0.0,29.0,clear
+373,Arhar (Tur/Red Gram),Simdega,2016-10-29,10000.0,0.0,29.4,clear
+374,Lentil(Masur),Simdega,2016-10-29,7200.0,0.0,29.4,clear
+375,Arhar (Tur/Red Gram),Simdega,2016-10-30,10000.0,0.0,22.0,clear
+376,Lentil(Masur),Simdega,2016-10-30,7200.0,0.0,22.0,clear
+377,Arhar (Tur/Red Gram),Simdega,2016-10-31,10000.0,0.0,27.2,clear
+378,Lentil(Masur),Simdega,2016-10-31,7200.0,0.0,27.2,clear
+379,Arhar (Tur/Red Gram),Simdega,2016-02-11,10000.0,0.0,25.4,clear
+380,Lentil(Masur),Simdega,2016-02-11,7200.0,0.0,25.4,clear
+381,Arhar (Tur/Red Gram),Simdega,2016-03-11,10000.0,0.0,30.0,clear
+382,Lentil(Masur),Simdega,2016-03-11,7200.0,0.0,30.0,clear
+383,Arhar (Tur/Red Gram),Simdega,2016-04-11,10000.0,0.0,35.4,clear
+384,Lentil(Masur),Simdega,2016-04-11,7200.0,0.0,35.4,clear
+385,Arhar (Tur/Red Gram),Simdega,2016-05-11,10000.0,0.0,37.2,clear
+386,Lentil(Masur),Simdega,2016-05-11,7200.0,0.0,37.2,clear
+387,Arhar (Tur/Red Gram),Simdega,2016-06-11,10000.0,0.0,37.2,clear
+388,Lentil(Masur),Simdega,2016-06-11,7200.0,0.0,37.2,clear
+389,Arhar (Tur/Red Gram),Simdega,2016-07-11,10000.0,0.0,28.0,clear
+390,Lentil(Masur),Simdega,2016-07-11,7200.0,0.0,28.0,clear
+391,Arhar (Tur/Red Gram),Simdega,2016-09-11,10000.0,0.0,27.0,clear
+392,Lentil(Masur),Simdega,2016-09-11,7200.0,0.0,27.0,clear
+393,Arhar (Tur/Red Gram),Simdega,2016-10-11,10000.0,0.0,29.2,clear
+394,Lentil(Masur),Simdega,2016-10-11,7200.0,0.0,29.2,clear
+395,Arhar (Tur/Red Gram),Simdega,2016-11-11,10000.0,0.0,25.2,clear
+396,Lentil(Masur),Simdega,2016-11-11,7200.0,0.0,25.2,clear
+397,Arhar (Tur/Red Gram),Simdega,2016-12-11,10000.0,0.0,25.0,clear
+398,Lentil(Masur),Simdega,2016-12-11,7200.0,0.0,25.0,clear
+399,Arhar (Tur/Red Gram),Simdega,2016-11-13,10000.0,0.0,27.0,clear
+400,Lentil(Masur),Simdega,2016-11-13,7200.0,0.0,27.0,clear
+401,Arhar (Tur/Red Gram),Simdega,2016-11-14,10000.0,0.0,27.2,clear
+402,Lentil(Masur),Simdega,2016-11-14,7200.0,0.0,27.2,clear
+403,Arhar (Tur/Red Gram),Simdega,2016-11-16,10000.0,0.0,26.2,clear
+404,Lentil(Masur),Simdega,2016-11-16,7200.0,0.0,26.2,clear
+405,Arhar (Tur/Red Gram),Simdega,2016-11-17,10000.0,0.0,25.0,clear
+406,Lentil(Masur),Simdega,2016-11-17,7200.0,0.0,25.0,clear
+407,Arhar (Tur/Red Gram),Simdega,2016-11-18,11500.0,0.0,25.2,clear
+408,Lentil(Masur),Simdega,2016-11-18,7000.0,0.0,25.2,clear
+409,Arhar (Tur/Red Gram),Simdega,2016-11-19,11500.0,0.0,26.0,clear
+410,Lentil(Masur),Simdega,2016-11-19,7000.0,0.0,26.0,clear
+411,Arhar (Tur/Red Gram),Simdega,2016-11-20,11500.0,0.0,27.0,clear
+412,Lentil(Masur),Simdega,2016-11-20,7000.0,0.0,27.0,clear
+413,Arhar (Tur/Red Gram),Simdega,2016-11-21,11500.0,0.0,26.4,clear
+414,Lentil(Masur),Simdega,2016-11-21,7000.0,0.0,26.4,clear
+415,Arhar (Tur/Red Gram),Simdega,2016-11-23,11500.0,0.0,27.2,clear
+416,Lentil(Masur),Simdega,2016-11-23,7000.0,0.0,27.2,clear
+417,Arhar (Tur/Red Gram),Simdega,2016-11-24,11500.0,0.0,26.4,clear
+418,Lentil(Masur),Simdega,2016-11-24,7000.0,0.0,26.4,clear
+419,Arhar (Tur/Red Gram),Simdega,2016-11-25,11500.0,0.0,27.0,clear
+420,Lentil(Masur),Simdega,2016-11-25,7000.0,0.0,27.0,clear
+421,Arhar (Tur/Red Gram),Simdega,2016-11-27,11500.0,0.0,27.2,clear
+422,Lentil(Masur),Simdega,2016-11-27,7000.0,0.0,27.2,clear
+423,Arhar (Tur/Red Gram),Simdega,2016-11-28,11500.0,0.0,27.4,clear
+424,Lentil(Masur),Simdega,2016-11-28,7000.0,0.0,27.4,clear
+425,Arhar (Tur/Red Gram),Simdega,2016-11-30,11500.0,0.0,27.2,clear
+426,Lentil(Masur),Simdega,2016-11-30,7000.0,0.0,27.2,clear
+427,Arhar (Tur/Red Gram),Simdega,2016-01-12,11500.0,0.0,24.0,clear
+428,Lentil(Masur),Simdega,2016-01-12,7000.0,0.0,24.0,clear
+429,Arhar (Tur/Red Gram),Simdega,2016-02-12,11500.0,0.0,25.2,clear
+430,Lentil(Masur),Simdega,2016-02-12,7000.0,0.0,25.2,clear
+431,Arhar (Tur/Red Gram),Simdega,2016-03-12,11500.0,0.0,30.6,clear
+432,Lentil(Masur),Simdega,2016-03-12,7000.0,0.0,30.6,clear
+433,Arhar (Tur/Red Gram),Simdega,2016-04-12,11500.0,0.0,39.0,clear
+434,Lentil(Masur),Simdega,2016-04-12,7000.0,0.0,39.0,clear
+435,Arhar (Tur/Red Gram),Simdega,2016-05-12,11500.0,0.0,37.4,clear
+436,Lentil(Masur),Simdega,2016-05-12,7000.0,0.0,37.4,clear
+437,Arhar (Tur/Red Gram),Simdega,2016-07-12,11500.0,0.0,28.4,clear
+438,Lentil(Masur),Simdega,2016-07-12,7000.0,0.0,28.4,clear
+439,Arhar (Tur/Red Gram),Simdega,2016-08-12,11500.0,0.0,29.0,clear
+440,Lentil(Masur),Simdega,2016-08-12,7000.0,0.0,29.0,clear
+441,Arhar (Tur/Red Gram),Simdega,2016-09-12,11500.0,0.0,28.0,clear
+442,Lentil(Masur),Simdega,2016-09-12,7000.0,0.0,28.0,clear
+443,Arhar (Tur/Red Gram),Simdega,2016-10-12,11500.0,0.0,30.0,clear
+444,Lentil(Masur),Simdega,2016-10-12,7000.0,0.0,30.0,clear
+445,Arhar (Tur/Red Gram),Simdega,2016-11-12,11500.0,0.0,26.0,clear
+446,Lentil(Masur),Simdega,2016-11-12,7000.0,0.0,26.0,clear
+447,Arhar (Tur/Red Gram),Simdega,2016-12-12,11500.0,0.0,26.4,clear
+448,Lentil(Masur),Simdega,2016-12-12,7000.0,0.0,26.4,clear
+449,Arhar (Tur/Red Gram),Simdega,2016-12-14,11500.0,0.0,24.8,clear
+450,Lentil(Masur),Simdega,2016-12-14,7000.0,0.0,24.8,clear
+451,Arhar (Tur/Red Gram),Simdega,2016-12-15,11500.0,0.0,25.0,clear
+452,Lentil(Masur),Simdega,2016-12-15,7000.0,0.0,25.0,clear
+453,Arhar (Tur/Red Gram),Simdega,2016-12-16,11500.0,0.0,24.6,clear
+454,Lentil(Masur),Simdega,2016-12-16,7000.0,0.0,24.6,clear
+455,Arhar (Tur/Red Gram),Simdega,2016-12-17,11500.0,0.0,24.0,clear
+456,Lentil(Masur),Simdega,2016-12-17,7000.0,0.0,24.0,clear
+457,Arhar (Tur/Red Gram),Simdega,2016-12-18,11500.0,0.0,12.0,clear
+458,Lentil(Masur),Simdega,2016-12-18,7000.0,0.0,12.0,clear
+459,Arhar (Tur/Red Gram),Simdega,2016-12-19,11500.0,0.0,23.4,clear
+460,Lentil(Masur),Simdega,2016-12-19,7000.0,0.0,23.4,clear
+461,Arhar (Tur/Red Gram),Simdega,2016-12-21,12000.0,0.0,24.0,clear
+462,Lentil(Masur),Simdega,2016-12-21,7000.0,0.0,24.0,clear
+463,Arhar (Tur/Red Gram),Simdega,2016-12-22,12000.0,0.0,24.8,clear
+464,Lentil(Masur),Simdega,2016-12-22,7000.0,0.0,24.8,clear
+465,Arhar (Tur/Red Gram),Simdega,2016-12-23,12000.0,0.0,22.0,clear
+466,Lentil(Masur),Simdega,2016-12-23,7050.0,0.0,22.0,clear
+467,Arhar (Tur/Red Gram),Simdega,2016-12-24,12500.0,0.0,24.0,clear
+468,Lentil(Masur),Simdega,2016-12-24,7100.0,0.0,24.0,clear
+469,Arhar (Tur/Red Gram),Simdega,2016-12-26,12600.0,0.0,23.2,clear
+470,Lentil(Masur),Simdega,2016-12-26,7200.0,0.0,23.2,clear
+471,Arhar (Tur/Red Gram),Simdega,2016-12-28,12000.0,0.0,24.0,clear
+472,Lentil(Masur),Simdega,2016-12-28,7100.0,0.0,24.0,clear
+473,Arhar (Tur/Red Gram),Simdega,2016-12-29,12000.0,0.0,23.0,clear
+474,Lentil(Masur),Simdega,2016-12-29,7100.0,0.0,23.0,clear
+475,Arhar (Tur/Red Gram),Simdega,2016-12-30,12000.0,0.0,23.2,clear
+476,Lentil(Masur),Simdega,2016-12-30,7100.0,0.0,23.2,clear
+477,Arhar (Tur/Red Gram),Simdega,2016-12-31,12000.0,0.0,24.0,clear
+478,Lentil(Masur),Simdega,2016-12-31,7100.0,0.0,24.0,clear
+479,Lentil(Masur),Simdega,2016-09-01,8400.0,0.0,28.0,clear
+480,Lentil(Masur),Simdega,2016-01-30,6200.0,0.0,30.0,clear
+481,Lentil(Masur),Simdega,2016-11-03,6300.0,0.0,30.0,clear
+482,Lentil(Masur),Simdega,2016-03-19,6300.0,0.0,31.0,clear
+483,Lentil(Masur),Simdega,2016-04-14,6300.0,1.5,37.0,clear
+484,Lentil(Masur),Simdega,2016-05-16,7000.0,2.0,40.0,clear
+485,Lentil(Masur),Simdega,2016-05-23,7000.0,0.0,37.2,clear
+486,Lentil(Masur),Simdega,2016-01-10,7200.0,0.0,25.0,clear
+487,Arhar (Tur/Red Gram),Simdega,2017-01-01,12000.0,0.0,24.2,clear
+488,Lentil(Masur),Simdega,2017-01-01,9850.0,0.0,24.2,clear
+489,Arhar (Tur/Red Gram),Simdega,2017-02-01,12000.0,0.0,26.0,clear
+490,Lentil(Masur),Simdega,2017-02-01,7100.0,0.0,26.0,clear
+491,Arhar (Tur/Red Gram),Simdega,2017-04-01,12000.0,0.0,37.0,clear
+492,Lentil(Masur),Simdega,2017-04-01,7100.0,0.0,37.0,clear
+493,Arhar (Tur/Red Gram),Simdega,2017-05-01,12000.0,0.0,35.0,clear
+494,Lentil(Masur),Simdega,2017-05-01,7100.0,0.0,35.0,clear
+495,Arhar (Tur/Red Gram),Simdega,2017-06-01,12000.0,0.0,37.0,clear
+496,Lentil(Masur),Simdega,2017-06-01,7100.0,0.0,37.0,clear
+497,Arhar (Tur/Red Gram),Simdega,2017-07-01,12000.0,0.0,28.0,clear
+498,Lentil(Masur),Simdega,2017-07-01,7100.0,0.0,28.0,clear
+499,Arhar (Tur/Red Gram),Simdega,2017-08-01,12000.0,0.0,29.0,clear
+500,Lentil(Masur),Simdega,2017-08-01,7100.0,0.0,29.0,clear
+501,Arhar (Tur/Red Gram),Simdega,2017-09-01,12000.0,0.0,29.0,clear
+502,Arhar (Tur/Red Gram),Simdega,2017-11-01,12000.0,0.0,27.2,clear
+503,Lentil(Masur),Simdega,2017-11-01,7100.0,0.0,27.2,clear
+504,Arhar (Tur/Red Gram),Simdega,2017-12-01,12000.0,0.0,26.0,clear
+505,Lentil(Masur),Simdega,2017-12-01,7100.0,0.0,26.0,clear
+506,Arhar (Tur/Red Gram),Simdega,2017-01-13,12000.0,0.0,25.0,clear
+507,Lentil(Masur),Simdega,2017-01-13,7100.0,0.0,25.0,clear
+508,Arhar (Tur/Red Gram),Simdega,2017-01-14,12000.0,0.0,24.2,clear
+509,Lentil(Masur),Simdega,2017-01-14,7100.0,0.0,24.2,clear
+510,Arhar (Tur/Red Gram),Simdega,2017-01-15,12000.0,0.0,24.8,clear
+511,Lentil(Masur),Simdega,2017-01-15,7100.0,0.0,24.8,clear
+512,Arhar (Tur/Red Gram),Simdega,2017-01-16,12000.0,0.0,25.0,clear
+513,Lentil(Masur),Simdega,2017-01-16,7100.0,0.0,25.0,clear
+514,Arhar (Tur/Red Gram),Simdega,2017-01-18,12000.0,0.0,25.4,clear
+515,Lentil(Masur),Simdega,2017-01-18,7100.0,0.0,25.4,clear
+516,Arhar (Tur/Red Gram),Simdega,2017-01-19,12000.0,0.0,15.0,clear
+517,Lentil(Masur),Simdega,2017-01-19,7100.0,0.0,15.0,clear
+518,Arhar (Tur/Red Gram),Simdega,2017-01-20,12000.0,0.0,25.0,clear
+519,Lentil(Masur),Simdega,2017-01-20,7100.0,0.0,25.0,clear
+520,Arhar (Tur/Red Gram),Simdega,2017-01-21,12000.0,0.0,25.4,clear
+521,Lentil(Masur),Simdega,2017-01-21,7100.0,0.0,25.4,clear
+522,Arhar (Tur/Red Gram),Simdega,2017-01-22,12000.0,0.0,16.0,clear
+523,Lentil(Masur),Simdega,2017-01-22,7100.0,0.0,16.0,clear
+524,Arhar (Tur/Red Gram),Simdega,2017-01-23,12000.0,0.0,25.0,clear
+525,Lentil(Masur),Simdega,2017-01-23,7100.0,0.0,25.0,clear
+526,Arhar (Tur/Red Gram),Simdega,2017-01-25,12000.0,0.0,25.4,clear
+527,Lentil(Masur),Simdega,2017-01-25,7100.0,0.0,25.4,clear
+528,Arhar (Tur/Red Gram),Simdega,2017-01-26,12000.0,0.0,24.0,clear
+529,Lentil(Masur),Simdega,2017-01-26,7100.0,0.0,24.0,clear
+530,Arhar (Tur/Red Gram),Simdega,2017-01-27,12000.0,0.0,25.0,clear
+531,Lentil(Masur),Simdega,2017-01-27,7100.0,0.0,25.0,clear
+532,Arhar (Tur/Red Gram),Simdega,2017-01-28,12000.0,0.0,26.0,clear
+533,Lentil(Masur),Simdega,2017-01-28,7100.0,0.0,26.0,clear
+534,Arhar (Tur/Red Gram),Simdega,2017-01-29,12000.0,0.0,26.2,clear
+535,Lentil(Masur),Simdega,2017-01-29,7100.0,0.0,26.2,clear
+536,Arhar (Tur/Red Gram),Simdega,2017-01-30,12000.0,0.0,24.0,clear
+537,Lentil(Masur),Simdega,2017-01-30,7100.0,0.0,24.0,clear
+538,Arhar (Tur/Red Gram),Simdega,2017-01-02,12000.0,0.0,23.0,clear
+539,Lentil(Masur),Simdega,2017-01-02,7100.0,0.0,23.0,clear
+540,Arhar (Tur/Red Gram),Simdega,2017-02-02,12000.0,0.0,26.2,clear
+541,Lentil(Masur),Simdega,2017-02-02,7100.0,0.0,26.2,clear
+542,Arhar (Tur/Red Gram),Simdega,2017-03-02,12000.0,0.0,28.8,clear
+543,Lentil(Masur),Simdega,2017-03-02,7100.0,0.0,28.8,clear
+544,Arhar (Tur/Red Gram),Simdega,2017-04-02,12000.0,0.0,37.2,clear
+545,Lentil(Masur),Simdega,2017-04-02,7100.0,0.0,37.2,clear
+546,Arhar (Tur/Red Gram),Simdega,2017-05-02,12000.0,0.0,37.0,clear
+547,Lentil(Masur),Simdega,2017-05-02,7100.0,0.0,37.0,clear
+548,Arhar (Tur/Red Gram),Simdega,2017-06-02,12000.0,0.0,37.2,clear
+549,Lentil(Masur),Simdega,2017-06-02,7100.0,0.0,37.2,clear
+550,Arhar (Tur/Red Gram),Simdega,2017-08-02,12000.0,0.0,30.0,clear
+551,Lentil(Masur),Simdega,2017-08-02,7100.0,0.0,30.0,clear
+552,Arhar (Tur/Red Gram),Simdega,2017-10-02,12000.0,0.0,27.6,clear
+553,Lentil(Masur),Simdega,2017-10-02,7100.0,0.0,27.6,clear
+554,Arhar (Tur/Red Gram),Simdega,2017-11-02,12000.0,0.0,27.0,clear
+555,Lentil(Masur),Simdega,2017-11-02,7100.0,0.0,27.0,clear
+556,Arhar (Tur/Red Gram),Simdega,2017-12-02,12000.0,0.0,25.0,clear
+557,Lentil(Masur),Simdega,2017-12-02,7100.0,0.0,25.0,clear
+558,Arhar (Tur/Red Gram),Simdega,2017-02-13,12000.0,0.0,27.8,clear
+559,Lentil(Masur),Simdega,2017-02-13,7100.0,0.0,27.8,clear
+560,Arhar (Tur/Red Gram),Simdega,2017-02-15,12000.0,0.0,28.2,clear
+561,Lentil(Masur),Simdega,2017-02-15,7100.0,0.0,28.2,clear
+562,Arhar (Tur/Red Gram),Simdega,2017-02-16,12000.0,0.0,28.6,clear
+563,Lentil(Masur),Simdega,2017-02-16,7100.0,0.0,28.6,clear
+564,Arhar (Tur/Red Gram),Simdega,2017-02-17,12000.0,0.0,28.0,clear
+565,Lentil(Masur),Simdega,2017-02-17,7100.0,0.0,28.0,clear
+566,Arhar (Tur/Red Gram),Simdega,2017-02-18,12000.0,0.0,28.4,clear
+567,Lentil(Masur),Simdega,2017-02-18,7100.0,0.0,28.4,clear
+568,Arhar (Tur/Red Gram),Simdega,2017-02-19,12000.0,0.0,28.2,clear
+569,Lentil(Masur),Simdega,2017-02-19,7100.0,0.0,28.2,clear
+570,Arhar (Tur/Red Gram),Simdega,2017-02-20,12000.0,0.0,28.0,clear
+571,Lentil(Masur),Simdega,2017-02-20,7100.0,0.0,28.0,clear
+572,Arhar (Tur/Red Gram),Simdega,2017-02-22,12000.0,0.0,17.4,clear
+573,Lentil(Masur),Simdega,2017-02-22,7100.0,0.0,17.4,clear
+574,Arhar (Tur/Red Gram),Simdega,2017-02-23,12000.0,0.0,17.0,clear
+575,Lentil(Masur),Simdega,2017-02-23,7100.0,0.0,17.0,clear
+576,Arhar (Tur/Red Gram),Simdega,2017-02-24,12000.0,0.0,28.6,clear
+577,Lentil(Masur),Simdega,2017-02-24,7100.0,0.0,28.6,clear
+578,Arhar (Tur/Red Gram),Simdega,2017-02-25,12000.0,0.0,27.0,clear
+579,Lentil(Masur),Simdega,2017-02-25,7100.0,0.0,27.0,clear
+580,Arhar (Tur/Red Gram),Simdega,2017-02-27,12000.0,0.0,28.0,clear
+581,Lentil(Masur),Simdega,2017-02-27,7100.0,0.0,28.0,clear
+582,Arhar (Tur/Red Gram),Simdega,2017-01-03,12000.0,0.0,24.0,clear
+583,Lentil(Masur),Simdega,2017-01-03,7100.0,0.0,24.0,clear
+584,Arhar (Tur/Red Gram),Simdega,2017-04-03,12000.0,0.0,37.0,clear
+585,Lentil(Masur),Simdega,2017-04-03,7100.0,0.0,37.0,clear
+586,Arhar (Tur/Red Gram),Simdega,2017-05-03,12000.0,0.0,36.0,clear
+587,Arhar (Tur/Red Gram),Simdega,2017-08-03,12000.0,0.0,29.0,clear
+588,Lentil(Masur),Simdega,2017-08-03,7100.0,0.0,29.0,clear
+589,Arhar (Tur/Red Gram),Simdega,2017-09-03,12000.0,0.0,27.0,clear
+590,Lentil(Masur),Simdega,2017-09-03,7100.0,0.0,27.0,clear
+591,Arhar (Tur/Red Gram),Simdega,2017-10-03,12000.0,0.0,28.0,clear
+592,Lentil(Masur),Simdega,2017-10-03,7100.0,0.0,28.0,clear
+593,Arhar (Tur/Red Gram),Simdega,2017-11-03,12000.0,0.0,26.0,clear
+594,Lentil(Masur),Simdega,2017-11-03,7100.0,0.0,26.0,clear
+595,Arhar (Tur/Red Gram),Simdega,2017-12-03,12000.0,0.0,26.4,clear
+596,Lentil(Masur),Simdega,2017-12-03,7100.0,0.0,26.4,clear
+597,Arhar (Tur/Red Gram),Simdega,2017-03-13,12000.0,0.0,28.4,clear
+598,Lentil(Masur),Simdega,2017-03-13,7100.0,0.0,28.4,clear
+599,Arhar (Tur/Red Gram),Simdega,2017-03-15,12000.0,0.0,30.0,clear
+600,Lentil(Masur),Simdega,2017-03-15,7100.0,0.0,30.0,clear
+601,Arhar (Tur/Red Gram),Simdega,2017-03-16,9500.0,0.0,29.4,clear
+602,Lentil(Masur),Simdega,2017-03-16,6700.0,0.0,29.4,clear
+603,Arhar (Tur/Red Gram),Simdega,2017-03-17,9500.0,0.0,30.0,clear
+604,Lentil(Masur),Simdega,2017-03-17,6700.0,0.0,30.0,clear
+605,Arhar (Tur/Red Gram),Simdega,2017-03-18,9500.0,0.0,29.0,clear
+606,Lentil(Masur),Simdega,2017-03-18,6700.0,0.0,29.0,clear
+607,Arhar (Tur/Red Gram),Simdega,2017-03-19,9500.0,0.0,30.0,clear
+608,Lentil(Masur),Simdega,2017-03-19,6700.0,0.0,30.0,clear
+609,Arhar (Tur/Red Gram),Simdega,2017-03-20,9500.0,0.0,30.2,clear
+610,Lentil(Masur),Simdega,2017-03-20,6700.0,0.0,30.2,clear
+611,Arhar (Tur/Red Gram),Simdega,2017-03-22,9500.0,0.0,30.6,clear
+612,Lentil(Masur),Simdega,2017-03-22,6700.0,0.0,30.6,clear
+613,Arhar (Tur/Red Gram),Simdega,2017-03-23,9500.0,0.0,32.0,clear
+614,Lentil(Masur),Simdega,2017-03-23,6700.0,0.0,32.0,clear
+615,Arhar (Tur/Red Gram),Simdega,2017-03-24,9500.0,0.0,32.2,clear
+616,Lentil(Masur),Simdega,2017-03-24,6700.0,0.0,32.2,clear
+617,Arhar (Tur/Red Gram),Simdega,2017-03-25,9500.0,0.0,35.0,clear
+618,Lentil(Masur),Simdega,2017-03-25,6700.0,0.0,35.0,clear
+619,Arhar (Tur/Red Gram),Simdega,2017-03-26,9500.0,0.0,35.2,clear
+620,Lentil(Masur),Simdega,2017-03-26,6700.0,0.0,35.2,clear
+621,Arhar (Tur/Red Gram),Simdega,2017-03-27,12000.0,0.0,35.0,clear
+622,Lentil(Masur),Simdega,2017-03-27,7100.0,0.0,35.0,clear
+623,Arhar (Tur/Red Gram),Simdega,2017-03-29,9500.0,0.0,36.0,clear
+624,Lentil(Masur),Simdega,2017-03-29,6700.0,0.0,36.0,clear
+625,Arhar (Tur/Red Gram),Simdega,2017-03-30,9500.0,0.0,37.0,clear
+626,Lentil(Masur),Simdega,2017-03-30,6700.0,0.0,37.0,clear
+627,Arhar (Tur/Red Gram),Simdega,2017-03-31,9500.0,0.0,36.0,clear
+628,Lentil(Masur),Simdega,2017-03-31,6700.0,0.0,36.0,clear
+629,Arhar (Tur/Red Gram),Simdega,2017-01-04,9500.0,0.0,24.4,clear
+630,Lentil(Masur),Simdega,2017-01-04,6700.0,0.0,24.4,clear
+631,Arhar (Tur/Red Gram),Simdega,2017-02-04,9500.0,0.0,25.0,clear
+632,Lentil(Masur),Simdega,2017-02-04,6700.0,0.0,25.0,clear
+633,Arhar (Tur/Red Gram),Simdega,2017-03-04,9500.0,0.0,28.2,clear
+634,Lentil(Masur),Simdega,2017-03-04,6700.0,0.0,28.2,clear
+635,Arhar (Tur/Red Gram),Simdega,2017-05-04,9500.0,0.0,37.0,clear
+636,Lentil(Masur),Simdega,2017-05-04,6700.0,0.0,37.0,clear
+637,Arhar (Tur/Red Gram),Simdega,2017-06-04,9500.0,0.0,37.0,clear
+638,Lentil(Masur),Simdega,2017-06-04,6700.0,0.0,37.0,clear
+639,Arhar (Tur/Red Gram),Simdega,2017-07-04,9500.0,0.0,28.0,clear
+640,Lentil(Masur),Simdega,2017-07-04,6700.0,0.0,28.0,clear
+641,Arhar (Tur/Red Gram),Simdega,2017-08-04,9500.0,0.0,25.0,clear
+642,Lentil(Masur),Simdega,2017-08-04,6700.0,0.0,25.0,clear
+643,Arhar (Tur/Red Gram),Simdega,2017-09-04,9500.0,0.0,28.0,clear
+644,Lentil(Masur),Simdega,2017-09-04,6700.0,0.0,28.0,clear
+645,Arhar (Tur/Red Gram),Simdega,2017-10-04,9500.0,0.0,27.0,clear
+646,Lentil(Masur),Simdega,2017-10-04,6700.0,0.0,27.0,clear
+647,Arhar (Tur/Red Gram),Simdega,2017-12-04,9500.0,0.0,27.0,clear
+648,Lentil(Masur),Simdega,2017-12-04,6700.0,0.0,27.0,clear
+649,Arhar (Tur/Red Gram),Simdega,2017-04-13,9520.0,0.0,34.4,clear
+650,Lentil(Masur),Simdega,2017-04-13,6750.0,0.0,34.4,clear
+651,Arhar (Tur/Red Gram),Simdega,2017-04-15,9530.0,0.0,34.6,clear
+652,Lentil(Masur),Simdega,2017-04-15,6780.0,0.0,34.6,clear
+653,Arhar (Tur/Red Gram),Simdega,2017-04-17,9540.0,0.0,36.0,clear
+654,Lentil(Masur),Simdega,2017-04-17,6800.0,0.0,36.0,clear
+655,Arhar (Tur/Red Gram),Simdega,2017-04-19,9545.0,0.0,33.0,clear
+656,Lentil(Masur),Simdega,2017-04-19,6800.0,0.0,33.0,clear
+657,Arhar (Tur/Red Gram),Simdega,2017-04-20,9550.0,0.0,33.4,clear
+658,Lentil(Masur),Simdega,2017-04-20,6800.0,0.0,33.4,clear
+659,Arhar (Tur/Red Gram),Simdega,2017-04-21,9545.0,0.0,34.0,clear
+660,Lentil(Masur),Simdega,2017-04-21,6800.0,0.0,34.0,clear
+661,Arhar (Tur/Red Gram),Simdega,2017-04-22,9540.0,0.0,35.0,clear
+662,Lentil(Masur),Simdega,2017-04-22,6800.0,0.0,35.0,clear
+663,Arhar (Tur/Red Gram),Simdega,2017-04-23,9535.0,0.0,37.0,clear
+664,Lentil(Masur),Simdega,2017-04-23,6800.0,0.0,37.0,clear
+665,Arhar (Tur/Red Gram),Simdega,2017-04-24,9500.0,0.0,38.0,clear
+666,Lentil(Masur),Simdega,2017-04-24,6800.0,0.0,38.0,clear
+667,Arhar (Tur/Red Gram),Simdega,2017-04-26,9500.0,0.0,38.0,clear
+668,Lentil(Masur),Simdega,2017-04-26,6800.0,0.0,38.0,clear
+669,Arhar (Tur/Red Gram),Simdega,2017-04-27,9500.0,0.0,38.2,clear
+670,Lentil(Masur),Simdega,2017-04-27,6800.0,0.0,38.2,clear
+671,Arhar (Tur/Red Gram),Simdega,2017-04-28,9500.0,0.0,37.0,clear
+672,Lentil(Masur),Simdega,2017-04-28,6800.0,0.0,37.0,clear
+673,Arhar (Tur/Red Gram),Simdega,2017-04-29,9500.0,0.0,38.0,clear
+674,Lentil(Masur),Simdega,2017-04-29,6800.0,0.0,38.0,clear
+675,Arhar (Tur/Red Gram),Simdega,2017-04-30,9500.0,0.0,36.0,clear
+676,Lentil(Masur),Simdega,2017-04-30,6800.0,0.0,36.0,clear
+677,Arhar (Tur/Red Gram),Simdega,2017-01-05,9500.0,0.0,24.2,clear
+678,Lentil(Masur),Simdega,2017-01-05,6800.0,0.0,24.2,clear
+679,Arhar (Tur/Red Gram),Simdega,2017-03-05,8300.0,0.0,29.0,clear
+680,Lentil(Masur),Simdega,2017-03-05,6800.0,0.0,29.0,clear
+681,Arhar (Tur/Red Gram),Simdega,2017-04-05,8300.0,0.0,36.4,clear
+682,Lentil(Masur),Simdega,2017-04-05,6800.0,0.0,36.4,clear
+683,Arhar (Tur/Red Gram),Simdega,2017-05-05,8300.0,0.0,33.0,clear
+684,Lentil(Masur),Simdega,2017-05-05,6800.0,0.0,33.0,clear
+685,Arhar (Tur/Red Gram),Simdega,2017-06-05,8300.0,0.0,37.2,clear
+686,Lentil(Masur),Simdega,2017-06-05,6800.0,0.0,37.2,clear
+687,Arhar (Tur/Red Gram),Simdega,2017-07-05,8300.0,0.0,27.0,clear
+688,Lentil(Masur),Simdega,2017-07-05,6800.0,0.0,27.0,clear
+689,Arhar (Tur/Red Gram),Simdega,2017-08-05,8300.0,0.0,28.4,clear
+690,Lentil(Masur),Simdega,2017-08-05,6800.0,0.0,28.4,clear
+691,Arhar (Tur/Red Gram),Simdega,2017-10-05,8300.0,0.0,26.0,clear
+692,Lentil(Masur),Simdega,2017-10-05,6800.0,0.0,26.0,clear
+693,Arhar (Tur/Red Gram),Simdega,2017-11-05,8300.0,0.0,28.0,clear
+694,Lentil(Masur),Simdega,2017-11-05,6800.0,0.0,28.0,clear
+695,Arhar (Tur/Red Gram),Simdega,2017-12-05,8300.0,0.0,26.0,clear
+696,Lentil(Masur),Simdega,2017-12-05,6800.0,0.0,26.0,clear
+697,Arhar (Tur/Red Gram),Simdega,2017-05-13,8300.0,0.0,38.4,clear
+698,Lentil(Masur),Simdega,2017-05-13,6800.0,0.0,38.4,clear
+699,Arhar (Tur/Red Gram),Simdega,2017-05-15,8300.0,0.0,40.0,clear
+700,Lentil(Masur),Simdega,2017-05-15,6850.0,0.0,40.0,clear
+701,Arhar (Tur/Red Gram),Simdega,2017-05-17,8300.0,0.0,39.8,clear
+702,Lentil(Masur),Simdega,2017-05-17,6850.0,0.0,39.8,clear
+703,Arhar (Tur/Red Gram),Simdega,2017-05-18,8315.0,0.0,38.0,clear
+704,Lentil(Masur),Simdega,2017-05-18,6850.0,0.0,38.0,clear
+705,Arhar (Tur/Red Gram),Simdega,2017-05-19,8310.0,0.0,37.0,clear
+706,Lentil(Masur),Simdega,2017-05-19,6850.0,0.0,37.0,clear
+707,Arhar (Tur/Red Gram),Simdega,2017-05-20,8310.0,0.0,36.0,clear
+708,Lentil(Masur),Simdega,2017-05-20,6880.0,0.0,36.0,clear
+709,Arhar (Tur/Red Gram),Simdega,2017-05-22,8300.0,0.0,38.0,clear
+710,Lentil(Masur),Simdega,2017-05-22,6850.0,0.0,38.0,clear
+711,Arhar (Tur/Red Gram),Simdega,2017-05-24,8300.0,0.0,39.0,clear
+712,Lentil(Masur),Simdega,2017-05-24,6800.0,0.0,39.0,clear
+713,Arhar (Tur/Red Gram),Simdega,2017-05-25,8300.0,0.0,39.4,clear
+714,Lentil(Masur),Simdega,2017-05-25,6850.0,0.0,39.4,clear
+715,Arhar (Tur/Red Gram),Simdega,2017-05-27,8200.0,0.0,35.0,clear
+716,Lentil(Masur),Simdega,2017-05-27,6800.0,0.0,35.0,clear
+717,Arhar (Tur/Red Gram),Simdega,2017-05-28,8100.0,0.0,36.0,clear
+718,Lentil(Masur),Simdega,2017-05-28,6800.0,0.0,36.0,clear
+719,Arhar (Tur/Red Gram),Simdega,2017-05-29,8100.0,0.0,36.2,clear
+720,Lentil(Masur),Simdega,2017-05-29,6800.0,0.0,36.2,clear
+721,Arhar (Tur/Red Gram),Simdega,2017-05-31,8100.0,0.0,36.0,clear
+722,Lentil(Masur),Simdega,2017-05-31,6800.0,0.0,36.0,clear
+723,Arhar (Tur/Red Gram),Simdega,2017-01-06,8100.0,0.0,25.0,clear
+724,Lentil(Masur),Simdega,2017-01-06,6800.0,0.0,25.0,clear
+725,Arhar (Tur/Red Gram),Simdega,2017-02-06,8100.0,0.0,26.4,clear
+726,Lentil(Masur),Simdega,2017-02-06,6800.0,0.0,26.4,clear
+727,Arhar (Tur/Red Gram),Simdega,2017-03-06,8100.0,0.0,29.2,clear
+728,Lentil(Masur),Simdega,2017-03-06,6800.0,0.0,29.2,clear
+729,Arhar (Tur/Red Gram),Simdega,2017-04-06,8000.0,0.0,36.0,clear
+730,Lentil(Masur),Simdega,2017-04-06,6800.0,0.0,36.0,clear
+731,Arhar (Tur/Red Gram),Simdega,2017-05-06,7800.0,0.0,35.0,clear
+732,Lentil(Masur),Simdega,2017-05-06,6800.0,0.0,35.0,clear
+733,Arhar (Tur/Red Gram),Simdega,2017-07-06,7700.0,0.0,27.2,clear
+734,Lentil(Masur),Simdega,2017-07-06,6800.0,0.0,27.2,clear
+735,Arhar (Tur/Red Gram),Simdega,2017-08-06,7700.0,0.0,27.0,clear
+736,Lentil(Masur),Simdega,2017-08-06,6800.0,0.0,27.0,clear
+737,Arhar (Tur/Red Gram),Simdega,2017-09-06,7700.0,0.0,30.0,clear
+738,Lentil(Masur),Simdega,2017-09-06,6800.0,0.0,30.0,clear
+739,Arhar (Tur/Red Gram),Simdega,2017-10-06,7700.0,0.0,27.0,clear
+740,Lentil(Masur),Simdega,2017-10-06,6800.0,0.0,27.0,clear
+741,Arhar (Tur/Red Gram),Simdega,2017-11-06,7700.0,0.0,28.4,clear
+742,Lentil(Masur),Simdega,2017-11-06,6800.0,0.0,28.4,clear
+743,Arhar (Tur/Red Gram),Simdega,2017-12-06,7700.0,0.0,25.0,clear
+744,Lentil(Masur),Simdega,2017-12-06,6800.0,0.0,25.0,clear
+745,Arhar (Tur/Red Gram),Simdega,2017-06-14,7600.0,0.0,34.6,clear
+746,Lentil(Masur),Simdega,2017-06-14,6800.0,0.0,34.6,clear
+747,Arhar (Tur/Red Gram),Simdega,2017-06-15,7600.0,0.0,34.0,clear
+748,Lentil(Masur),Simdega,2017-06-15,6800.0,0.0,34.0,clear
+749,Arhar (Tur/Red Gram),Simdega,2017-06-16,7500.0,0.0,34.2,clear
+750,Lentil(Masur),Simdega,2017-06-16,6800.0,0.0,34.2,clear
+751,Arhar (Tur/Red Gram),Simdega,2017-06-17,7500.0,0.0,35.0,clear
+752,Lentil(Masur),Simdega,2017-06-17,6800.0,0.0,35.0,clear
+753,Arhar (Tur/Red Gram),Simdega,2017-06-18,7500.0,0.0,35.4,clear
+754,Lentil(Masur),Simdega,2017-06-18,6800.0,0.0,35.4,clear
+755,Arhar (Tur/Red Gram),Simdega,2017-06-19,7500.0,0.0,35.8,clear
+756,Lentil(Masur),Simdega,2017-06-19,6800.0,0.0,35.8,clear
+757,Arhar (Tur/Red Gram),Simdega,2017-06-21,7500.0,0.0,35.0,clear
+758,Lentil(Masur),Simdega,2017-06-21,6800.0,0.0,35.0,clear
+759,Arhar (Tur/Red Gram),Simdega,2017-06-22,7500.0,0.0,35.4,clear
+760,Lentil(Masur),Simdega,2017-06-22,6800.0,0.0,35.4,clear
+761,Arhar (Tur/Red Gram),Simdega,2017-06-24,7500.0,0.0,35.8,clear
+762,Lentil(Masur),Simdega,2017-06-24,6800.0,0.0,35.8,clear
+763,Arhar (Tur/Red Gram),Simdega,2017-06-25,7500.0,0.0,25.2,clear
+764,Lentil(Masur),Simdega,2017-06-25,6800.0,0.0,25.2,clear
+765,Arhar (Tur/Red Gram),Simdega,2017-06-26,7500.0,0.0,35.4,clear
+766,Lentil(Masur),Simdega,2017-06-26,6800.0,0.0,35.4,clear
+767,Arhar (Tur/Red Gram),Simdega,2017-06-28,7500.0,0.0,26.4,clear
+768,Lentil(Masur),Simdega,2017-06-28,6800.0,0.0,26.4,clear
+769,Arhar (Tur/Red Gram),Simdega,2017-06-29,7500.0,0.0,35.4,clear
+770,Lentil(Masur),Simdega,2017-06-29,6800.0,0.0,35.4,clear
+771,Arhar (Tur/Red Gram),Simdega,2017-06-30,7500.0,0.0,36.0,clear
+772,Lentil(Masur),Simdega,2017-06-30,6800.0,0.0,36.0,clear
+773,Arhar (Tur/Red Gram),Simdega,2017-01-07,7500.0,0.0,24.8,clear
+774,Lentil(Masur),Simdega,2017-01-07,6800.0,0.0,24.8,clear
+775,Arhar (Tur/Red Gram),Simdega,2017-02-07,7500.0,0.0,27.0,clear
+776,Lentil(Masur),Simdega,2017-02-07,6800.0,0.0,27.0,clear
+777,Arhar (Tur/Red Gram),Simdega,2017-03-07,7500.0,0.0,28.0,clear
+778,Lentil(Masur),Simdega,2017-03-07,6800.0,0.0,28.0,clear
+779,Arhar (Tur/Red Gram),Simdega,2017-05-07,7500.0,0.0,36.0,clear
+780,Lentil(Masur),Simdega,2017-05-07,6800.0,0.0,36.0,clear
+781,Arhar (Tur/Red Gram),Simdega,2017-06-07,7500.0,0.0,36.2,clear
+782,Lentil(Masur),Simdega,2017-06-07,6800.0,0.0,36.2,clear
+783,Arhar (Tur/Red Gram),Simdega,2017-07-07,7500.0,0.0,26.0,clear
+784,Lentil(Masur),Simdega,2017-07-07,6800.0,0.0,26.0,clear
+785,Arhar (Tur/Red Gram),Simdega,2017-08-07,7500.0,0.0,28.0,clear
+786,Lentil(Masur),Simdega,2017-08-07,6800.0,0.0,28.0,clear
+787,Arhar (Tur/Red Gram),Simdega,2017-09-07,7500.0,0.0,26.2,clear
+788,Lentil(Masur),Simdega,2017-09-07,6800.0,0.0,26.2,clear
+789,Arhar (Tur/Red Gram),Simdega,2017-10-07,7500.0,0.0,27.6,clear
+790,Lentil(Masur),Simdega,2017-10-07,6800.0,0.0,27.6,clear
+791,Arhar (Tur/Red Gram),Simdega,2017-12-07,7500.0,0.0,25.4,clear
+792,Lentil(Masur),Simdega,2017-12-07,6800.0,0.0,25.4,clear
+793,Arhar (Tur/Red Gram),Simdega,2017-07-13,7500.0,0.0,28.2,clear
+794,Lentil(Masur),Simdega,2017-07-13,6800.0,0.0,28.2,clear
+795,Arhar (Tur/Red Gram),Simdega,2017-07-14,7500.0,0.0,28.0,clear
+796,Lentil(Masur),Simdega,2017-07-14,6800.0,0.0,28.0,clear
+797,Arhar (Tur/Red Gram),Simdega,2017-07-15,7500.0,0.0,29.6,clear
+798,Lentil(Masur),Simdega,2017-07-15,6800.0,0.0,29.6,clear
+799,Arhar (Tur/Red Gram),Simdega,2017-07-16,7500.0,0.0,28.0,clear
+800,Lentil(Masur),Simdega,2017-07-16,6800.0,0.0,28.0,clear
+801,Arhar (Tur/Red Gram),Simdega,2017-07-17,7500.0,0.0,29.0,clear
+802,Lentil(Masur),Simdega,2017-07-17,6800.0,0.0,29.0,clear
+803,Arhar (Tur/Red Gram),Simdega,2017-07-19,7500.0,0.0,30.0,clear
+804,Lentil(Masur),Simdega,2017-07-19,6800.0,0.0,30.0,clear
+805,Arhar (Tur/Red Gram),Simdega,2017-07-20,7500.0,0.0,29.0,clear
+806,Lentil(Masur),Simdega,2017-07-20,6800.0,0.0,29.0,clear
+807,Arhar (Tur/Red Gram),Simdega,2017-07-21,7500.0,0.0,28.0,clear
+808,Lentil(Masur),Simdega,2017-07-21,6800.0,0.0,28.0,clear
+809,Arhar (Tur/Red Gram),Simdega,2017-07-22,7500.0,0.0,27.0,clear
+810,Lentil(Masur),Simdega,2017-07-22,6800.0,0.0,27.0,clear
+811,Arhar (Tur/Red Gram),Simdega,2017-07-23,7500.0,0.0,28.0,clear
+812,Arhar (Tur/Red Gram),Simdega,2017-07-27,7500.0,0.0,27.0,clear
+813,Lentil(Masur),Simdega,2017-07-27,6800.0,0.0,27.0,clear
+814,Arhar (Tur/Red Gram),Simdega,2017-07-28,7500.0,0.0,28.0,clear
+815,Lentil(Masur),Simdega,2017-07-28,6800.0,0.0,28.0,clear
+816,Arhar (Tur/Red Gram),Simdega,2017-07-29,7400.0,0.0,29.0,clear
+817,Lentil(Masur),Simdega,2017-07-29,6700.0,0.0,29.0,clear
+818,Arhar (Tur/Red Gram),Simdega,2017-07-30,7400.0,0.0,28.0,clear
+819,Lentil(Masur),Simdega,2017-07-30,6700.0,0.0,28.0,clear
+820,Arhar (Tur/Red Gram),Simdega,2017-02-08,7400.0,0.0,16.0,clear
+821,Lentil(Masur),Simdega,2017-02-08,6700.0,0.0,16.0,clear
+822,Arhar (Tur/Red Gram),Simdega,2017-03-08,7400.0,0.0,29.0,clear
+823,Lentil(Masur),Simdega,2017-03-08,6700.0,0.0,29.0,clear
+824,Arhar (Tur/Red Gram),Simdega,2017-04-08,7400.0,0.0,35.0,clear
+825,Lentil(Masur),Simdega,2017-04-08,6700.0,0.0,35.0,clear
+826,Arhar (Tur/Red Gram),Simdega,2017-08-14,7300.0,0.0,28.8,clear
+827,Lentil(Masur),Simdega,2017-08-14,6700.0,0.0,28.8,clear
+828,Arhar (Tur/Red Gram),Simdega,2017-08-16,7300.0,0.0,28.0,clear
+829,Lentil(Masur),Simdega,2017-08-16,6700.0,0.0,28.0,clear
+830,Arhar (Tur/Red Gram),Simdega,2017-08-17,7300.0,0.0,28.6,clear
+831,Lentil(Masur),Simdega,2017-08-17,6700.0,0.0,28.6,clear
+832,Arhar (Tur/Red Gram),Simdega,2017-08-18,7300.0,0.0,29.0,clear
+833,Lentil(Masur),Simdega,2017-08-18,6700.0,0.0,29.0,clear
+834,Arhar (Tur/Red Gram),Simdega,2017-08-19,7300.0,0.0,30.0,clear
+835,Lentil(Masur),Simdega,2017-08-19,6700.0,0.0,30.0,clear
+836,Arhar (Tur/Red Gram),Simdega,2017-08-20,7300.0,0.0,29.0,clear
+837,Lentil(Masur),Simdega,2017-08-20,6700.0,0.0,29.0,clear
+838,Arhar (Tur/Red Gram),Simdega,2017-08-21,7300.0,0.0,30.0,clear
+839,Lentil(Masur),Simdega,2017-08-21,6700.0,0.0,30.0,clear
+840,Arhar (Tur/Red Gram),Simdega,2017-08-23,7300.0,0.0,28.0,clear
+841,Lentil(Masur),Simdega,2017-08-23,6700.0,0.0,28.0,clear
+842,Arhar (Tur/Red Gram),Simdega,2017-08-24,7300.0,0.0,30.0,clear
+843,Lentil(Masur),Simdega,2017-08-24,6700.0,0.0,30.0,clear
+844,Arhar (Tur/Red Gram),Simdega,2017-08-25,7300.0,0.0,29.0,clear
+845,Lentil(Masur),Simdega,2017-08-25,6700.0,0.0,29.0,clear
+846,Arhar (Tur/Red Gram),Simdega,2017-08-26,7300.0,0.0,29.4,clear
+847,Lentil(Masur),Simdega,2017-08-26,6700.0,0.0,29.4,clear
+848,Arhar (Tur/Red Gram),Simdega,2017-08-27,7300.0,0.0,29.0,clear
+849,Lentil(Masur),Simdega,2017-08-27,6700.0,0.0,29.0,clear
+850,Arhar (Tur/Red Gram),Simdega,2017-08-28,7300.0,0.0,28.0,clear
+851,Lentil(Masur),Simdega,2017-08-28,6700.0,0.0,28.0,clear
+852,Arhar (Tur/Red Gram),Simdega,2017-08-30,7300.0,0.0,30.0,clear
+853,Lentil(Masur),Simdega,2017-08-30,6700.0,0.0,30.0,clear
+854,Arhar (Tur/Red Gram),Simdega,2017-08-31,7300.0,0.0,30.6,clear
+855,Lentil(Masur),Simdega,2017-08-31,6700.0,0.0,30.6,clear
+856,Arhar (Tur/Red Gram),Simdega,2017-01-09,6800.0,0.0,25.0,clear
+857,Lentil(Masur),Simdega,2017-01-09,6500.0,0.0,25.0,clear
+858,Arhar (Tur/Red Gram),Simdega,2017-02-09,6800.0,0.0,27.0,clear
+859,Lentil(Masur),Simdega,2017-02-09,6500.0,0.0,27.0,clear
+860,Arhar (Tur/Red Gram),Simdega,2017-03-09,6800.0,0.0,28.4,clear
+861,Lentil(Masur),Simdega,2017-03-09,6500.0,0.0,28.4,clear
+862,Arhar (Tur/Red Gram),Simdega,2017-04-09,6800.0,0.0,34.6,clear
+863,Lentil(Masur),Simdega,2017-04-09,6500.0,0.0,34.6,clear
+864,Arhar (Tur/Red Gram),Simdega,2017-06-09,6800.0,0.0,36.0,clear
+865,Lentil(Masur),Simdega,2017-06-09,6500.0,0.0,36.0,clear
+866,Arhar (Tur/Red Gram),Simdega,2017-07-09,6800.0,0.0,27.0,clear
+867,Lentil(Masur),Simdega,2017-07-09,6500.0,0.0,27.0,clear
+868,Arhar (Tur/Red Gram),Simdega,2017-08-09,6800.0,0.0,30.0,clear
+869,Lentil(Masur),Simdega,2017-08-09,6500.0,0.0,30.0,clear
+870,Arhar (Tur/Red Gram),Simdega,2017-10-09,6800.0,0.0,29.0,clear
+871,Lentil(Masur),Simdega,2017-10-09,6500.0,0.0,29.0,clear
+872,Arhar (Tur/Red Gram),Simdega,2017-11-09,6800.0,0.0,29.0,clear
+873,Lentil(Masur),Simdega,2017-11-09,6500.0,0.0,29.0,clear
+874,Arhar (Tur/Red Gram),Simdega,2017-09-13,6800.0,0.0,29.4,clear
+875,Lentil(Masur),Simdega,2017-09-13,6500.0,0.0,29.4,clear
+876,Arhar (Tur/Red Gram),Simdega,2017-09-14,6800.0,0.0,30.0,clear
+877,Lentil(Masur),Simdega,2017-09-14,6500.0,0.0,30.0,clear
+878,Arhar (Tur/Red Gram),Simdega,2017-09-15,6800.0,0.0,26.2,clear
+879,Lentil(Masur),Simdega,2017-09-15,6500.0,0.0,26.2,clear
+880,Arhar (Tur/Red Gram),Simdega,2017-09-16,6800.0,0.0,29.0,clear
+881,Lentil(Masur),Simdega,2017-09-16,6500.0,0.0,29.0,clear
+882,Arhar (Tur/Red Gram),Simdega,2017-09-17,6800.0,0.0,28.0,clear
+883,Lentil(Masur),Simdega,2017-09-17,6500.0,0.0,28.0,clear
+884,Arhar (Tur/Red Gram),Simdega,2017-09-18,6800.0,0.0,27.0,clear
+885,Lentil(Masur),Simdega,2017-09-18,6500.0,0.0,27.0,clear
+886,Arhar (Tur/Red Gram),Simdega,2017-09-20,6800.0,0.0,25.0,clear
+887,Lentil(Masur),Simdega,2017-09-20,6500.0,0.0,25.0,clear
+888,Arhar (Tur/Red Gram),Simdega,2017-09-21,6800.0,0.0,26.0,clear
+889,Lentil(Masur),Simdega,2017-09-21,6500.0,0.0,26.0,clear
+890,Arhar (Tur/Red Gram),Simdega,2017-09-22,6800.0,0.0,27.0,clear
+891,Lentil(Masur),Simdega,2017-09-22,6500.0,0.0,27.0,clear
+892,Arhar (Tur/Red Gram),Simdega,2017-09-23,6800.0,0.0,28.0,clear
+893,Lentil(Masur),Simdega,2017-09-23,6500.0,0.0,28.0,clear
+894,Arhar (Tur/Red Gram),Simdega,2017-09-24,6800.0,0.0,29.0,clear
+895,Lentil(Masur),Simdega,2017-09-24,6500.0,0.0,29.0,clear
+896,Arhar (Tur/Red Gram),Simdega,2017-09-25,6800.0,0.0,30.0,clear
+897,Lentil(Masur),Simdega,2017-09-25,6500.0,0.0,30.0,clear
+898,Arhar (Tur/Red Gram),Simdega,2017-01-10,6600.0,0.0,24.0,clear
+899,Lentil(Masur),Simdega,2017-01-10,6300.0,0.0,24.0,clear
+900,Arhar (Tur/Red Gram),Simdega,2017-02-10,6600.0,0.0,26.8,clear
+901,Lentil(Masur),Simdega,2017-02-10,6300.0,0.0,26.8,clear
+902,Arhar (Tur/Red Gram),Simdega,2017-04-10,6600.0,0.0,34.0,clear
+903,Lentil(Masur),Simdega,2017-04-10,6300.0,0.0,34.0,clear
+904,Arhar (Tur/Red Gram),Simdega,2017-05-10,6600.0,0.0,36.4,clear
+905,Lentil(Masur),Simdega,2017-05-10,6300.0,0.0,36.4,clear
+906,Arhar (Tur/Red Gram),Simdega,2017-06-10,6600.0,0.0,36.2,clear
+907,Lentil(Masur),Simdega,2017-06-10,6300.0,0.0,36.2,clear
+908,Arhar (Tur/Red Gram),Simdega,2017-07-10,6600.0,0.0,27.2,clear
+909,Lentil(Masur),Simdega,2017-07-10,6300.0,0.0,27.2,clear
+910,Arhar (Tur/Red Gram),Simdega,2017-08-10,6600.0,0.0,29.2,clear
+911,Lentil(Masur),Simdega,2017-08-10,6300.0,0.0,29.2,clear
+912,Arhar (Tur/Red Gram),Simdega,2017-09-10,6600.0,0.0,29.4,clear
+913,Lentil(Masur),Simdega,2017-09-10,6300.0,0.0,29.4,clear
+914,Arhar (Tur/Red Gram),Simdega,2017-11-10,6600.0,0.0,26.0,clear
+915,Lentil(Masur),Simdega,2017-11-10,6300.0,0.0,26.0,clear
+916,Arhar (Tur/Red Gram),Simdega,2017-12-10,6600.0,0.0,25.4,clear
+917,Lentil(Masur),Simdega,2017-12-10,6300.0,0.0,25.4,clear
+918,Arhar (Tur/Red Gram),Simdega,2017-10-13,6600.0,0.0,29.0,clear
+919,Lentil(Masur),Simdega,2017-10-13,6300.0,0.0,29.0,clear
+920,Arhar (Tur/Red Gram),Simdega,2017-10-14,6600.0,0.0,29.2,clear
+921,Lentil(Masur),Simdega,2017-10-14,6300.0,0.0,29.2,clear
+922,Arhar (Tur/Red Gram),Simdega,2017-10-15,6600.0,0.0,30.0,clear
+923,Lentil(Masur),Simdega,2017-10-15,6300.0,0.0,30.0,clear
+924,Arhar (Tur/Red Gram),Simdega,2017-10-16,6600.0,0.0,31.0,clear
+925,Lentil(Masur),Simdega,2017-10-16,6300.0,0.0,31.0,clear
+926,Arhar (Tur/Red Gram),Simdega,2017-10-18,6600.0,0.0,23.0,clear
+927,Lentil(Masur),Simdega,2017-10-18,6300.0,0.0,23.0,clear
+928,Arhar (Tur/Red Gram),Simdega,2017-10-19,6600.0,0.0,28.0,clear
+929,Lentil(Masur),Simdega,2017-10-19,6300.0,0.0,28.0,clear
+930,Arhar (Tur/Red Gram),Simdega,2017-10-20,6600.0,0.0,29.0,clear
+931,Lentil(Masur),Simdega,2017-10-20,6300.0,0.0,29.0,clear
+932,Arhar (Tur/Red Gram),Simdega,2017-10-21,6600.0,0.0,30.0,clear
+933,Lentil(Masur),Simdega,2017-10-21,6300.0,0.0,30.0,clear
+934,Arhar (Tur/Red Gram),Simdega,2017-10-22,6600.0,0.0,29.2,clear
+935,Lentil(Masur),Simdega,2017-10-22,6300.0,0.0,29.2,clear
+936,Arhar (Tur/Red Gram),Simdega,2017-10-23,6600.0,0.0,30.0,clear
+937,Lentil(Masur),Simdega,2017-10-23,6300.0,0.0,30.0,clear
+938,Arhar (Tur/Red Gram),Simdega,2017-10-25,6600.0,0.0,29.2,clear
+939,Lentil(Masur),Simdega,2017-10-25,6300.0,0.0,29.2,clear
+940,Arhar (Tur/Red Gram),Simdega,2017-10-30,6600.0,0.0,27.0,clear
+941,Lentil(Masur),Simdega,2017-10-30,6300.0,0.0,27.0,clear
+942,Arhar (Tur/Red Gram),Simdega,2017-01-11,6600.0,0.0,24.2,clear
+943,Lentil(Masur),Simdega,2017-01-11,6300.0,0.0,24.2,clear
+944,Arhar (Tur/Red Gram),Simdega,2017-02-11,6600.0,0.0,27.2,clear
+945,Lentil(Masur),Simdega,2017-02-11,6300.0,0.0,27.2,clear
+946,Lentil(Masur),Simdega,2017-05-21,6850.0,0.0,37.2,clear

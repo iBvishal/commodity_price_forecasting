@@ -1,0 +1,1641 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Bengal Gram(Gram),Orai,2015-12-08,4100.0,250.0,24.0,clear
+1,Lentil(Masur),Orai,2015-12-08,6054.0,40.0,24.0,clear
+2,Lentil(Masur),Jalaun,2015-12-12,4780.0,3.9,21.0,clear
+3,Lentil(Masur),Orai,2015-12-12,5100.0,60.0,21.0,clear
+4,Lentil(Masur),Jalaun,2015-12-26,4473.0,0.8,19.5,clear
+5,Lentil(Masur),Orai,2015-12-26,5099.0,45.0,19.5,clear
+6,Lentil(Masur),Orai,2015-12-09,5550.0,20.0,24.0,clear
+7,Lentil(Masur),Orai,2015-12-10,5521.0,30.0,16.5,clear
+8,Lentil(Masur),Orai,2015-12-13,4975.0,75.0,20.5,clear
+9,Lentil(Masur),Orai,2015-12-14,5031.0,45.0,20.0,clear
+10,Lentil(Masur),Orai,2015-12-20,5000.0,40.0,20.0,clear
+11,Lentil(Masur),Orai,2015-12-21,5249.0,25.0,18.5,clear
+12,Lentil(Masur),Orai,2015-12-23,5324.0,30.0,19.0,clear
+13,Lentil(Masur),Orai,2015-12-24,5300.0,40.0,19.0,clear
+14,Lentil(Masur),Orai,2015-12-25,4850.0,30.0,19.0,clear
+15,Lentil(Masur),Orai,2015-12-27,5000.0,50.0,19.0,clear
+16,Lentil(Masur),Orai,2015-12-28,5024.0,75.0,10.5,clear
+17,Lentil(Masur),Orai,2015-12-30,5025.0,75.0,22.0,clear
+18,Lentil(Masur),Orai,2015-12-31,5000.0,50.0,23.5,clear
+19,Arhar (Tur/Red Gram),Orai,2016-07-04,8000.0,0.5,31.5,clear
+20,Bengal Gram(Gram),Orai,2016-07-04,5000.0,175.0,31.5,clear
+21,Lentil(Masur),Jalaun,2016-07-04,5311.0,3.0,31.5,clear
+22,Lentil(Masur),Orai,2016-07-04,5416.0,45.0,31.5,clear
+23,Arhar (Tur/Red Gram),Orai,2016-04-23,9500.0,7.5,39.0,clear
+24,Bengal Gram(Gram),Orai,2016-04-23,5800.0,350.0,39.0,clear
+25,Lentil(Masur),Jalaun,2016-04-23,5661.0,7.5,39.0,clear
+26,Lentil(Masur),Orai,2016-04-23,5575.0,45.0,39.0,clear
+27,Arhar (Tur/Red Gram),Orai,2016-04-24,10300.0,8.0,39.5,clear
+28,Bengal Gram(Gram),Orai,2016-04-24,5700.0,525.0,39.5,clear
+29,Lentil(Masur),Jalaun,2016-04-24,5671.0,8.0,39.5,clear
+30,Lentil(Masur),Konch,2016-04-24,5605.0,700.0,39.5,clear
+31,Lentil(Masur),Orai,2016-04-24,5700.0,50.0,39.5,clear
+32,Arhar (Tur/Red Gram),Orai,2016-04-25,10180.0,4.5,39.0,clear
+33,Bengal Gram(Gram),Orai,2016-04-25,5506.0,165.0,39.0,clear
+34,Lentil(Masur),Konch,2016-04-25,5605.0,600.0,39.0,clear
+35,Lentil(Masur),Orai,2016-04-25,5782.0,60.0,39.0,clear
+36,Arhar (Tur/Red Gram),Orai,2016-04-27,9175.0,8.5,41.0,clear
+37,Bengal Gram(Gram),Orai,2016-04-27,5600.0,275.0,41.0,clear
+38,Lentil(Masur),Jalaun,2016-04-27,5432.0,10.0,41.0,clear
+39,Lentil(Masur),Orai,2016-04-27,5710.0,65.0,41.0,clear
+40,Arhar (Tur/Red Gram),Orai,2016-04-28,9500.0,8.5,39.5,clear
+41,Bengal Gram(Gram),Orai,2016-04-28,5530.0,250.0,39.5,clear
+42,Lentil(Masur),Jalaun,2016-04-28,5431.0,6.0,39.5,clear
+43,Lentil(Masur),Konch,2016-04-28,5500.0,625.0,39.5,clear
+44,Lentil(Masur),Orai,2016-04-28,5530.0,65.0,39.5,clear
+45,Arhar (Tur/Red Gram),Orai,2016-04-29,10550.0,6.0,40.5,clear
+46,Bengal Gram(Gram),Orai,2016-04-29,5800.0,160.0,40.5,clear
+47,Lentil(Masur),Jalaun,2016-04-29,5437.0,4.0,40.5,clear
+48,Lentil(Masur),Konch,2016-04-29,5475.0,600.0,40.5,clear
+49,Lentil(Masur),Orai,2016-04-29,5601.0,50.0,40.5,clear
+50,Arhar (Tur/Red Gram),Orai,2016-04-30,10950.0,7.5,41.0,clear
+51,Bengal Gram(Gram),Orai,2016-04-30,5700.0,180.0,41.0,clear
+52,Lentil(Masur),Jalaun,2016-04-30,5451.0,4.5,41.0,clear
+53,Lentil(Masur),Orai,2016-04-30,5560.0,60.0,41.0,clear
+54,Arhar (Tur/Red Gram),Orai,2016-04-05,9100.0,25.0,37.0,clear
+55,Bengal Gram(Gram),Orai,2016-04-05,5800.0,550.0,37.0,clear
+56,Lentil(Masur),Jalaun,2016-04-05,5291.0,9.0,37.0,clear
+57,Lentil(Masur),Orai,2016-04-05,5501.0,60.0,37.0,clear
+58,Arhar (Tur/Red Gram),Orai,2016-05-05,9200.0,45.0,37.5,clear
+59,Bengal Gram(Gram),Orai,2016-05-05,5511.0,700.0,37.5,clear
+60,Lentil(Masur),Jalaun,2016-05-05,5452.0,10.0,37.5,clear
+61,Lentil(Masur),Konch,2016-05-05,5361.0,670.0,37.5,clear
+62,Lentil(Masur),Orai,2016-05-05,5501.0,150.0,37.5,clear
+63,Arhar (Tur/Red Gram),Orai,2016-06-05,9350.0,57.5,33.5,clear
+64,Bengal Gram(Gram),Jalaun,2016-06-05,5760.0,0.0,33.5,clear
+65,Bengal Gram(Gram),Orai,2016-06-05,5520.0,600.0,33.5,clear
+66,Lentil(Masur),Jalaun,2016-06-05,5360.0,10.0,33.5,clear
+67,Lentil(Masur),Konch,2016-06-05,5300.0,620.0,33.5,clear
+68,Lentil(Masur),Orai,2016-06-05,5550.0,170.0,33.5,clear
+69,Arhar (Tur/Red Gram),Orai,2016-07-05,9200.0,60.0,28.5,clear
+70,Bengal Gram(Gram),Orai,2016-07-05,5600.0,240.0,28.5,clear
+71,Lentil(Masur),Jalaun,2016-07-05,5451.0,4.5,28.5,clear
+72,Lentil(Masur),Konch,2016-07-05,5400.0,700.0,28.5,clear
+73,Lentil(Masur),Orai,2016-07-05,5550.0,130.0,28.5,clear
+74,Arhar (Tur/Red Gram),Orai,2016-08-05,9350.0,7.5,32.5,clear
+75,Bengal Gram(Gram),Orai,2016-08-05,5750.0,875.0,32.5,clear
+76,Lentil(Masur),Jalaun,2016-08-05,5551.0,6.0,32.5,clear
+77,Lentil(Masur),Konch,2016-08-05,5500.0,650.0,32.5,clear
+78,Lentil(Masur),Orai,2016-08-05,5645.0,145.0,32.5,clear
+79,Arhar (Tur/Red Gram),Orai,2016-09-05,10000.0,18.0,32.0,clear
+80,Bengal Gram(Gram),Orai,2016-09-05,5800.0,975.0,32.0,clear
+81,Lentil(Masur),Konch,2016-09-05,5600.0,600.0,32.0,clear
+82,Lentil(Masur),Orai,2016-09-05,5756.0,120.0,32.0,clear
+83,Arhar (Tur/Red Gram),Orai,2016-12-05,9600.0,18.0,22.0,clear
+84,Bengal Gram(Gram),Orai,2016-12-05,5755.0,800.0,22.0,clear
+85,Lentil(Masur),Jalaun,2016-12-05,5480.0,6.5,22.0,clear
+86,Lentil(Masur),Orai,2016-12-05,5500.0,52.0,22.0,clear
+87,Arhar (Tur/Red Gram),Orai,2016-05-19,10600.0,15.0,33.5,clear
+88,Bengal Gram(Gram),Orai,2016-05-19,6050.0,250.0,33.5,clear
+89,Lentil(Masur),Jalaun,2016-05-19,5501.0,3.5,33.5,clear
+90,Lentil(Masur),Konch,2016-05-19,5502.0,550.0,33.5,clear
+91,Lentil(Masur),Orai,2016-05-19,5586.0,65.0,33.5,clear
+92,Arhar (Tur/Red Gram),Orai,2016-05-21,10200.0,35.0,39.5,clear
+93,Bengal Gram(Gram),Orai,2016-05-21,5900.0,80.0,39.5,clear
+94,Lentil(Masur),Jalaun,2016-05-21,5446.0,4.0,39.5,clear
+95,Lentil(Masur),Konch,2016-05-21,5450.0,550.0,39.5,clear
+96,Lentil(Masur),Orai,2016-05-21,5475.0,45.0,39.5,clear
+97,Arhar (Tur/Red Gram),Orai,2016-05-22,10130.0,17.5,43.5,clear
+98,Bengal Gram(Gram),Orai,2016-05-22,5900.0,800.0,43.5,clear
+99,Lentil(Masur),Jalaun,2016-05-22,5478.0,2.0,43.5,clear
+100,Lentil(Masur),Konch,2016-05-22,5411.0,600.0,43.5,clear
+101,Lentil(Masur),Orai,2016-05-22,5481.0,50.0,43.5,clear
+102,Arhar (Tur/Red Gram),Orai,2016-05-25,8050.0,25.0,34.5,clear
+103,Lentil(Masur),Jalaun,2016-05-25,5326.0,3.7,34.5,clear
+104,Lentil(Masur),Orai,2016-05-25,5356.0,65.0,34.5,clear
+105,Arhar (Tur/Red Gram),Orai,2016-02-06,8500.0,60.0,12.0,clear
+106,Bengal Gram(Gram),Orai,2016-02-06,6000.0,280.0,12.0,clear
+107,Lentil(Masur),Jalaun,2016-02-06,5236.0,2.0,12.0,clear
+108,Lentil(Masur),Konch,2016-02-06,5201.0,500.0,12.0,clear
+109,Lentil(Masur),Orai,2016-02-06,5300.0,50.0,12.0,clear
+110,Arhar (Tur/Red Gram),Orai,2016-03-06,9000.0,2.5,29.5,clear
+111,Bengal Gram(Gram),Orai,2016-03-06,6000.0,520.0,29.5,clear
+112,Black Gram (Urd Beans),Orai,2016-03-06,9800.0,25.0,29.5,clear
+113,Lentil(Masur),Konch,2016-03-06,5210.0,600.0,29.5,clear
+114,Lentil(Masur),Orai,2016-03-06,5300.0,40.0,29.5,clear
+115,Arhar (Tur/Red Gram),Orai,2016-09-06,9000.0,7.5,31.5,clear
+116,Bengal Gram(Gram),Orai,2016-09-06,6300.0,350.0,31.5,clear
+117,Green Gram (Moong),Jalaun,2016-09-06,5901.0,12.0,31.5,clear
+118,Lentil(Masur),Jalaun,2016-09-06,5271.0,2.4,31.5,clear
+119,Lentil(Masur),Konch,2016-09-06,5378.0,340.0,31.5,clear
+120,Lentil(Masur),Orai,2016-09-06,5384.0,30.0,31.5,clear
+121,Arhar (Tur/Red Gram),Orai,2016-06-20,9900.0,4.0,36.5,clear
+122,Lentil(Masur),Konch,2016-06-20,5321.0,140.0,36.5,clear
+123,Lentil(Masur),Orai,2016-06-20,5431.0,40.0,36.5,clear
+124,Bengal Gram(Gram),Jalaun,2016-05-29,5500.0,5.0,39.5,clear
+125,Lentil(Masur),Jalaun,2016-05-29,5276.0,2.0,39.5,clear
+126,Bengal Gram(Gram),Orai,2016-06-01,4400.0,200.0,38.5,clear
+127,Black Gram (Urd Beans),Orai,2016-06-01,9350.0,125.0,38.5,clear
+128,Lentil(Masur),Orai,2016-06-01,5000.0,30.0,38.5,clear
+129,Bengal Gram(Gram),Orai,2016-07-01,4305.0,250.0,36.0,clear
+130,Black Gram (Urd Beans),Orai,2016-07-01,9450.0,150.0,36.0,clear
+131,Lentil(Masur),Orai,2016-07-01,4950.0,25.0,36.0,clear
+132,Bengal Gram(Gram),Orai,2016-08-01,4350.0,150.0,28.5,clear
+133,Black Gram (Urd Beans),Orai,2016-08-01,9300.0,200.0,28.5,clear
+134,Bengal Gram(Gram),Orai,2016-01-16,4400.0,300.0,18.0,clear
+135,Lentil(Masur),Orai,2016-01-16,4400.0,50.0,18.0,clear
+136,Bengal Gram(Gram),Orai,2016-01-28,4000.0,150.0,22.5,clear
+137,Black Gram (Urd Beans),Orai,2016-01-28,9000.0,200.0,22.5,clear
+138,Lentil(Masur),Orai,2016-01-28,4100.0,25.0,22.5,clear
+139,Bengal Gram(Gram),Orai,2016-01-29,4100.0,250.0,23.5,clear
+140,Black Gram (Urd Beans),Orai,2016-01-29,9200.0,125.0,23.5,clear
+141,Bengal Gram(Gram),Orai,2016-03-02,4000.0,75.0,29.5,clear
+142,Lentil(Masur),Orai,2016-03-02,3720.0,50.0,29.5,clear
+143,Bengal Gram(Gram),Orai,2016-05-02,4050.0,30.0,42.5,clear
+144,Black Gram (Urd Beans),Orai,2016-05-02,8850.0,60.0,42.5,clear
+145,Bengal Gram(Gram),Orai,2016-07-02,3862.0,30.0,30.5,clear
+146,Bengal Gram(Gram),Orai,2016-02-18,4000.0,0.0,27.0,clear
+147,Lentil(Masur),Orai,2016-02-18,4000.0,7.5,27.0,clear
+148,Bengal Gram(Gram),Orai,2016-02-21,4000.0,20.0,26.0,clear
+149,Lentil(Masur),Orai,2016-02-21,3775.0,7.5,26.0,clear
+150,Bengal Gram(Gram),Orai,2016-02-22,4000.0,15.0,28.0,clear
+151,Lentil(Masur),Orai,2016-02-22,3750.0,7.5,28.0,clear
+152,Bengal Gram(Gram),Orai,2016-02-24,4000.0,25.0,28.0,clear
+153,Bengal Gram(Gram),Orai,2016-02-28,4100.0,25.0,28.5,clear
+154,Bengal Gram(Gram),Orai,2016-02-29,4075.0,15.0,29.0,clear
+155,Bengal Gram(Gram),Orai,2016-06-03,4100.0,25.0,42.0,clear
+156,Bengal Gram(Gram),Orai,2016-07-03,4100.0,25.0,32.5,clear
+157,Bengal Gram(Gram),Orai,2016-09-03,4000.0,40.0,30.5,clear
+158,Lentil(Masur),Orai,2016-09-03,4800.0,6.5,30.5,clear
+159,Bengal Gram(Gram),Orai,2016-10-03,4050.0,10.0,33.0,clear
+160,Lentil(Masur),Orai,2016-10-03,4800.0,14.0,33.0,clear
+161,Bengal Gram(Gram),Orai,2016-11-03,4036.0,13.0,27.5,clear
+162,Black Gram (Urd Beans),Orai,2016-11-03,8350.0,5.0,27.5,clear
+163,Lentil(Masur),Orai,2016-11-03,4967.0,8.0,27.5,clear
+164,Bengal Gram(Gram),Orai,2016-12-03,4025.0,25.0,21.0,clear
+165,Lentil(Masur),Orai,2016-12-03,5000.0,7.5,21.0,clear
+166,Bengal Gram(Gram),Orai,2016-03-14,4200.0,25.0,28.0,clear
+167,Lentil(Masur),Orai,2016-03-14,5178.0,8.5,28.0,clear
+168,Bengal Gram(Gram),Orai,2016-03-16,4200.0,65.0,30.0,clear
+169,Lentil(Masur),Orai,2016-03-16,4760.0,28.0,30.0,clear
+170,Bengal Gram(Gram),Orai,2016-03-17,4200.0,25.0,31.2,clear
+171,Lentil(Masur),Orai,2016-03-17,5000.0,70.0,31.2,clear
+172,Bengal Gram(Gram),Orai,2016-03-18,4200.0,60.0,33.0,clear
+173,Black Gram (Urd Beans),Orai,2016-03-18,8500.0,15.0,33.0,clear
+174,Lentil(Masur),Jalaun,2016-03-18,4375.0,10.0,33.0,clear
+175,Lentil(Masur),Orai,2016-03-18,4900.0,125.0,33.0,clear
+176,Bengal Gram(Gram),Orai,2016-03-21,4200.0,15.0,32.5,clear
+177,Lentil(Masur),Orai,2016-03-21,4613.0,200.0,32.5,clear
+178,Bengal Gram(Gram),Orai,2016-03-23,4300.0,75.0,32.5,clear
+179,Lentil(Masur),Jalaun,2016-03-23,4571.0,3.6,32.5,clear
+180,Lentil(Masur),Orai,2016-03-23,4750.0,120.0,32.5,clear
+181,Bengal Gram(Gram),Orai,2016-03-26,4400.0,175.0,35.4,clear
+182,Lentil(Masur),Jalaun,2016-03-26,4711.0,1.8,35.4,clear
+183,Lentil(Masur),Orai,2016-03-26,4836.0,22.0,35.4,clear
+184,Bengal Gram(Gram),Orai,2016-03-27,4400.0,250.0,31.0,clear
+185,Lentil(Masur),Jalaun,2016-03-27,4900.0,2.6,31.0,clear
+186,Lentil(Masur),Orai,2016-03-27,5070.0,80.0,31.0,clear
+187,Bengal Gram(Gram),Orai,2016-03-28,4400.0,350.0,34.5,clear
+188,Lentil(Masur),Orai,2016-03-28,5130.0,80.0,34.5,clear
+189,Bengal Gram(Gram),Orai,2016-03-30,4600.0,200.0,33.0,clear
+190,Lentil(Masur),Jalaun,2016-03-30,5000.0,6.0,33.0,clear
+191,Lentil(Masur),Orai,2016-03-30,5130.0,75.0,33.0,clear
+192,Bengal Gram(Gram),Orai,2016-03-31,4500.0,380.0,36.0,clear
+193,Lentil(Masur),Jalaun,2016-03-31,5100.0,15.0,36.0,clear
+194,Lentil(Masur),Orai,2016-03-31,5200.0,95.0,36.0,clear
+195,Bengal Gram(Gram),Orai,2016-01-04,4426.0,450.0,22.5,clear
+196,Lentil(Masur),Jalaun,2016-01-04,5330.0,6.0,22.5,clear
+197,Lentil(Masur),Orai,2016-01-04,5375.0,60.0,22.5,clear
+198,Bengal Gram(Gram),Orai,2016-02-04,4650.0,325.0,21.0,clear
+199,Lentil(Masur),Jalaun,2016-02-04,5300.0,4.0,21.0,clear
+200,Lentil(Masur),Orai,2016-02-04,5506.0,50.0,21.0,clear
+201,Bengal Gram(Gram),Orai,2016-03-04,4750.0,150.0,31.5,clear
+202,Lentil(Masur),Jalaun,2016-03-04,5400.0,14.0,31.5,clear
+203,Lentil(Masur),Orai,2016-03-04,5600.0,65.0,31.5,clear
+204,Bengal Gram(Gram),Orai,2016-06-04,5075.0,170.0,41.5,clear
+205,Lentil(Masur),Jalaun,2016-06-04,5300.0,20.0,41.5,clear
+206,Lentil(Masur),Orai,2016-06-04,5461.0,40.0,41.5,clear
+207,Bengal Gram(Gram),Orai,2016-09-04,4900.0,165.0,31.0,clear
+208,Lentil(Masur),Orai,2016-09-04,5701.0,60.0,31.0,clear
+209,Bengal Gram(Gram),Orai,2016-11-04,5301.0,200.0,26.2,clear
+210,Lentil(Masur),Orai,2016-11-04,5426.0,80.0,26.2,clear
+211,Bengal Gram(Gram),Orai,2016-04-14,5400.0,275.0,27.3,clear
+212,Lentil(Masur),Orai,2016-04-14,5642.0,60.0,27.3,clear
+213,Bengal Gram(Gram),Orai,2016-04-15,5400.0,400.0,40.0,clear
+214,Lentil(Masur),Orai,2016-04-15,5760.0,75.0,40.0,clear
+215,Bengal Gram(Gram),Orai,2016-04-16,5600.0,500.0,41.5,clear
+216,Bengal Gram(Gram),Orai,2016-04-17,5614.0,600.0,38.0,clear
+217,Lentil(Masur),Orai,2016-04-17,5911.0,150.0,38.0,clear
+218,Bengal Gram(Gram),Orai,2016-04-18,5300.0,350.0,40.0,clear
+219,Lentil(Masur),Orai,2016-04-18,6210.0,120.0,40.0,clear
+220,Bengal Gram(Gram),Orai,2016-04-20,5500.0,125.0,40.5,clear
+221,Lentil(Masur),Jalaun,2016-04-20,5500.0,14.0,40.5,clear
+222,Lentil(Masur),Orai,2016-04-20,5801.0,80.0,40.5,clear
+223,Bengal Gram(Gram),Orai,2016-04-21,5380.0,80.0,39.5,clear
+224,Lentil(Masur),Jalaun,2016-04-21,5350.0,7.0,39.5,clear
+225,Lentil(Masur),Orai,2016-04-21,5456.0,60.0,39.5,clear
+226,Bengal Gram(Gram),Orai,2016-02-05,5800.0,450.0,22.5,clear
+227,Lentil(Masur),Orai,2016-02-05,5450.0,80.0,22.5,clear
+228,Bengal Gram(Gram),Orai,2016-05-13,5700.0,800.0,41.5,clear
+229,Lentil(Masur),Jalaun,2016-05-13,5441.0,10.0,41.5,clear
+230,Lentil(Masur),Orai,2016-05-13,5400.0,55.0,41.5,clear
+231,Bengal Gram(Gram),Orai,2016-05-14,5725.0,700.0,41.0,clear
+232,Lentil(Masur),Jalaun,2016-05-14,5524.0,7.5,41.0,clear
+233,Lentil(Masur),Konch,2016-05-14,5500.0,600.0,41.0,clear
+234,Lentil(Masur),Orai,2016-05-14,5475.0,65.0,41.0,clear
+235,Bengal Gram(Gram),Orai,2016-05-15,5740.0,600.0,41.5,clear
+236,Lentil(Masur),Konch,2016-05-15,5500.0,670.0,41.5,clear
+237,Lentil(Masur),Orai,2016-05-15,5550.0,70.0,41.5,clear
+238,Bengal Gram(Gram),Orai,2016-05-16,5850.0,400.0,32.0,clear
+239,Lentil(Masur),Konch,2016-05-16,5510.0,500.0,32.0,clear
+240,Lentil(Masur),Orai,2016-05-16,5601.0,85.0,32.0,clear
+241,Bengal Gram(Gram),Orai,2016-05-18,6000.0,550.0,45.5,clear
+242,Lentil(Masur),Jalaun,2016-05-18,5499.0,10.0,45.5,clear
+243,Lentil(Masur),Orai,2016-05-18,5600.0,97.5,45.5,clear
+244,Bengal Gram(Gram),Orai,2016-05-23,5800.0,450.0,34.0,clear
+245,Lentil(Masur),Konch,2016-05-23,5400.0,500.0,34.0,clear
+246,Bengal Gram(Gram),Orai,2016-05-30,6000.0,200.0,35.0,clear
+247,Lentil(Masur),Konch,2016-05-30,5255.0,400.0,35.0,clear
+248,Lentil(Masur),Orai,2016-05-30,5350.0,35.0,35.0,clear
+249,Bengal Gram(Gram),Orai,2016-01-06,5900.0,200.0,21.5,clear
+250,Lentil(Masur),Jalaun,2016-01-06,5251.0,2.5,21.5,clear
+251,Lentil(Masur),Orai,2016-01-06,5311.0,60.0,21.5,clear
+252,Bengal Gram(Gram),Orai,2016-04-06,6105.0,550.0,38.5,clear
+253,Lentil(Masur),Jalaun,2016-04-06,5291.0,3.0,38.5,clear
+254,Lentil(Masur),Konch,2016-04-06,5296.0,430.0,38.5,clear
+255,Lentil(Masur),Orai,2016-04-06,5425.0,50.0,38.5,clear
+256,Bengal Gram(Gram),Orai,2016-06-06,6200.0,200.0,42.5,clear
+257,Black Gram (Urd Beans),Orai,2016-06-06,9650.0,35.0,42.5,clear
+258,Lentil(Masur),Konch,2016-06-06,5330.0,400.0,42.5,clear
+259,Lentil(Masur),Orai,2016-06-06,5391.0,40.0,42.5,clear
+260,Bengal Gram(Gram),Orai,2016-08-06,6300.0,220.0,31.5,clear
+261,Green Gram (Moong),Jalaun,2016-08-06,5467.0,10.0,31.5,clear
+262,Lentil(Masur),Jalaun,2016-08-06,5150.0,2.0,31.5,clear
+263,Lentil(Masur),Konch,2016-08-06,5378.0,140.0,31.5,clear
+264,Lentil(Masur),Orai,2016-08-06,5455.0,25.0,31.5,clear
+265,Bengal Gram(Gram),Orai,2016-10-06,6501.0,40.0,28.5,clear
+266,Green Gram (Moong),Jalaun,2016-10-06,5881.0,10.0,28.5,clear
+267,Lentil(Masur),Jalaun,2016-10-06,5361.0,3.5,28.5,clear
+268,Lentil(Masur),Konch,2016-10-06,5470.0,280.0,28.5,clear
+269,Lentil(Masur),Orai,2016-10-06,5515.0,40.0,28.5,clear
+270,Bengal Gram(Gram),Orai,2016-11-06,6500.0,120.0,26.0,clear
+271,Green Gram (Moong),Jalaun,2016-11-06,6040.0,15.0,26.0,clear
+272,Lentil(Masur),Jalaun,2016-11-06,5371.0,3.2,26.0,clear
+273,Lentil(Masur),Konch,2016-11-06,5600.0,250.0,26.0,clear
+274,Lentil(Masur),Orai,2016-11-06,5700.0,20.0,26.0,clear
+275,Bengal Gram(Gram),Orai,2016-06-13,6400.0,50.0,31.0,clear
+276,Lentil(Masur),Konch,2016-06-13,5500.0,200.0,31.0,clear
+277,Lentil(Masur),Orai,2016-06-13,5555.0,40.0,31.0,clear
+278,Bengal Gram(Gram),Orai,2016-06-16,6600.0,180.0,36.5,clear
+279,Lentil(Masur),Jalaun,2016-06-16,5470.0,2.6,36.5,clear
+280,Lentil(Masur),Konch,2016-06-16,5461.0,220.0,36.5,clear
+281,Lentil(Masur),Orai,2016-06-16,5600.0,20.0,36.5,clear
+282,Bengal Gram(Gram),Orai,2016-06-23,6500.0,50.0,33.5,clear
+283,Lentil(Masur),Orai,2016-06-23,5491.0,20.0,33.5,clear
+284,Bengal Gram(Gram),Orai,2016-06-25,6600.0,200.0,37.5,clear
+285,Green Gram (Moong),Jalaun,2016-06-25,5312.0,14.0,37.5,clear
+286,Lentil(Masur),Jalaun,2016-06-25,5460.0,2.4,37.5,clear
+287,Lentil(Masur),Orai,2016-06-25,5571.0,50.0,37.5,clear
+288,Bengal Gram(Gram),Orai,2016-06-29,7100.0,150.0,37.5,clear
+289,Green Gram (Moong),Jalaun,2016-06-29,5662.0,6.0,37.5,clear
+290,Lentil(Masur),Jalaun,2016-06-29,5541.0,2.0,37.5,clear
+291,Lentil(Masur),Orai,2016-06-29,5633.0,20.0,37.5,clear
+292,Bengal Gram(Gram),Orai,2016-01-07,7100.0,45.0,22.5,clear
+293,Lentil(Masur),Jalaun,2016-01-07,5641.0,1.0,22.5,clear
+294,Lentil(Masur),Orai,2016-01-07,5630.0,30.0,22.5,clear
+295,Bengal Gram(Gram),Orai,2016-02-07,7002.0,75.0,24.0,clear
+296,Green Gram (Moong),Jalaun,2016-02-07,5001.0,6.0,24.0,clear
+297,Lentil(Masur),Jalaun,2016-02-07,5531.0,1.8,24.0,clear
+298,Lentil(Masur),Orai,2016-02-07,5551.0,20.0,24.0,clear
+299,Bengal Gram(Gram),Orai,2016-03-07,7100.0,35.0,29.5,clear
+300,Lentil(Masur),Jalaun,2016-03-07,5522.0,1.4,29.5,clear
+301,Lentil(Masur),Orai,2016-03-07,5551.0,25.0,29.5,clear
+302,Bengal Gram(Gram),Orai,2016-08-07,7050.0,20.0,29.0,clear
+303,Lentil(Masur),Jalaun,2016-08-07,5592.0,1.0,29.0,clear
+304,Lentil(Masur),Orai,2016-08-07,5650.0,5.0,29.0,clear
+305,Bengal Gram(Gram),Orai,2016-09-07,7800.0,50.0,32.0,clear
+306,Lentil(Masur),Jalaun,2016-09-07,5651.0,1.5,32.0,clear
+307,Lentil(Masur),Orai,2016-09-07,5776.0,15.0,32.0,clear
+308,Bengal Gram(Gram),Orai,2016-10-07,8000.0,75.0,30.5,clear
+309,Lentil(Masur),Orai,2016-10-07,5835.0,20.0,30.5,clear
+310,Bengal Gram(Gram),Orai,2016-11-07,8200.0,60.0,30.0,clear
+311,Lentil(Masur),Orai,2016-11-07,5901.0,15.0,30.0,clear
+312,Bengal Gram(Gram),Orai,2016-07-13,8000.0,40.0,31.0,clear
+313,Lentil(Masur),Orai,2016-07-13,5750.0,25.0,31.0,clear
+314,Bengal Gram(Gram),Orai,2016-07-21,7800.0,20.0,34.5,clear
+315,Lentil(Masur),Orai,2016-07-21,5950.0,20.0,34.5,clear
+316,Bengal Gram(Gram),Orai,2016-07-23,7800.0,25.0,32.0,clear
+317,Lentil(Masur),Jalaun,2016-07-23,5500.0,1.2,32.0,clear
+318,Lentil(Masur),Konch,2016-07-23,5483.0,5.0,32.0,clear
+319,Lentil(Masur),Orai,2016-07-23,5672.0,15.0,32.0,clear
+320,Bengal Gram(Gram),Orai,2016-07-24,7500.0,40.0,30.5,clear
+321,Lentil(Masur),Jalaun,2016-07-24,5560.0,0.8,30.5,clear
+322,Lentil(Masur),Konch,2016-07-24,5485.0,3.5,30.5,clear
+323,Lentil(Masur),Orai,2016-07-24,5650.0,20.0,30.5,clear
+324,Bengal Gram(Gram),Orai,2016-07-25,7800.0,20.0,27.5,clear
+325,Lentil(Masur),Konch,2016-07-25,5460.0,3.2,27.5,clear
+326,Lentil(Masur),Orai,2016-07-25,5704.0,15.0,27.5,clear
+327,Bengal Gram(Gram),Orai,2016-07-27,7500.0,25.0,28.0,clear
+328,Lentil(Masur),Jalaun,2016-07-27,5496.0,0.5,28.0,clear
+329,Lentil(Masur),Orai,2016-07-27,5626.0,10.0,28.0,clear
+330,Bengal Gram(Gram),Orai,2016-07-28,7300.0,40.0,30.5,clear
+331,Lentil(Masur),Orai,2016-07-28,5600.0,15.0,30.5,clear
+332,Bengal Gram(Gram),Orai,2016-07-29,7500.0,50.0,30.5,clear
+333,Lentil(Masur),Jalaun,2016-07-29,5551.0,1.0,30.5,clear
+334,Lentil(Masur),Orai,2016-07-29,5651.0,20.0,30.5,clear
+335,Bengal Gram(Gram),Orai,2016-07-08,7000.0,50.0,30.5,clear
+336,Lentil(Masur),Orai,2016-07-08,5400.0,25.0,30.5,clear
+337,Bengal Gram(Gram),Orai,2016-12-08,7000.0,30.0,17.5,clear
+338,Lentil(Masur),Jalaun,2016-12-08,5421.0,1.8,17.5,clear
+339,Lentil(Masur),Konch,2016-12-08,5280.0,2.5,17.5,clear
+340,Lentil(Masur),Orai,2016-12-08,5301.0,15.0,17.5,clear
+341,Bengal Gram(Gram),Orai,2016-08-13,7000.0,20.0,28.5,clear
+342,Lentil(Masur),Jalaun,2016-08-13,5300.0,1.0,28.5,clear
+343,Lentil(Masur),Konch,2016-08-13,5300.0,3.0,28.5,clear
+344,Lentil(Masur),Orai,2016-08-13,5300.0,10.0,28.5,clear
+345,Bengal Gram(Gram),Orai,2016-08-14,7200.0,25.0,28.0,clear
+346,Lentil(Masur),Konch,2016-08-14,5301.0,3.5,28.0,clear
+347,Lentil(Masur),Orai,2016-08-14,5350.0,16.0,28.0,clear
+348,Bengal Gram(Gram),Orai,2016-02-09,6400.0,0.0,22.0,clear
+349,Lentil(Masur),Jalaun,2016-02-09,5011.0,1.5,22.0,clear
+350,Lentil(Masur),Orai,2016-02-09,5000.0,10.0,22.0,clear
+351,Bengal Gram(Gram),Orai,2016-03-09,6150.0,50.0,31.0,clear
+352,Lentil(Masur),Jalaun,2016-03-09,4951.0,1.0,31.0,clear
+353,Lentil(Masur),Orai,2016-03-09,5405.0,15.0,31.0,clear
+354,Bengal Gram(Gram),Orai,2016-09-09,7010.0,0.0,33.0,clear
+355,Lentil(Masur),Jalaun,2016-09-09,4800.0,1.0,33.0,clear
+356,Lentil(Masur),Orai,2016-09-09,5160.0,10.0,33.0,clear
+357,Bengal Gram(Gram),Orai,2016-12-10,9000.0,25.0,17.0,clear
+358,Black Gram (Urd Beans),Jalaun,2016-12-10,6021.0,25.0,17.0,clear
+359,Black Gram (Urd Beans),Orai,2016-12-10,6400.0,500.0,17.0,clear
+360,Lentil(Masur),Jalaun,2016-12-10,5001.0,2.5,17.0,clear
+361,Lentil(Masur),Orai,2016-12-10,5200.0,6.0,17.0,clear
+362,Bengal Gram(Gram),Orai,2016-12-19,8500.0,100.0,12.5,clear
+363,Black Gram (Urd Beans),Orai,2016-12-19,5000.0,200.0,12.5,clear
+364,Lentil(Masur),Orai,2016-12-19,4411.0,7.5,12.5,clear
+365,Bengal Gram(Gram),Orai,2016-12-21,8550.0,75.0,22.0,clear
+366,Black Gram (Urd Beans),Orai,2016-12-21,4900.0,250.0,22.0,clear
+367,Lentil(Masur),Orai,2016-12-21,4300.0,10.0,22.0,clear
+368,Bengal Gram(Gram),Orai,2016-12-25,8500.0,25.0,23.0,clear
+369,Black Gram (Urd Beans),Orai,2016-12-25,5200.0,75.0,23.0,clear
+370,Lentil(Masur),Konch,2016-12-25,4000.0,2.0,23.0,clear
+371,Lentil(Masur),Orai,2016-12-25,4500.0,12.0,23.0,clear
+372,Bengal Gram(Gram),Orai,2016-12-26,8500.0,20.0,20.0,clear
+373,Black Gram (Urd Beans),Orai,2016-12-26,5400.0,80.0,20.0,clear
+374,Lentil(Masur),Orai,2016-12-26,4500.0,10.0,20.0,clear
+375,Black Gram (Urd Beans),Jalaun,2016-09-27,6431.0,5.0,31.0,clear
+376,Lentil(Masur),Jalaun,2016-09-27,4550.0,2.0,31.0,clear
+377,Black Gram (Urd Beans),Jalaun,2016-07-10,6351.0,10.0,29.5,clear
+378,Black Gram (Urd Beans),Orai,2016-07-10,6511.0,550.0,29.5,clear
+379,Lentil(Masur),Jalaun,2016-07-10,4800.0,1.0,29.5,clear
+380,Lentil(Masur),Orai,2016-07-10,5000.0,6.0,29.5,clear
+381,Black Gram (Urd Beans),Jalaun,2016-08-10,6300.0,10.0,30.5,clear
+382,Black Gram (Urd Beans),Orai,2016-08-10,6500.0,750.0,30.5,clear
+383,Lentil(Masur),Jalaun,2016-08-10,4991.0,2.5,30.5,clear
+384,Lentil(Masur),Orai,2016-08-10,5050.0,5.0,30.5,clear
+385,Black Gram (Urd Beans),Jalaun,2016-09-10,6300.0,8.0,32.5,clear
+386,Black Gram (Urd Beans),Orai,2016-09-10,6500.0,800.0,32.5,clear
+387,Lentil(Masur),Jalaun,2016-09-10,5091.0,2.0,32.5,clear
+388,Lentil(Masur),Orai,2016-09-10,5100.0,7.5,32.5,clear
+389,Black Gram (Urd Beans),Jalaun,2016-10-13,5622.0,20.0,31.5,clear
+390,Black Gram (Urd Beans),Orai,2016-10-13,6000.0,800.0,31.5,clear
+391,Lentil(Masur),Jalaun,2016-10-13,4800.0,2.0,31.5,clear
+392,Lentil(Masur),Konch,2016-10-13,4900.0,1.5,31.5,clear
+393,Lentil(Masur),Orai,2016-10-13,5300.0,7.5,31.5,clear
+394,Black Gram (Urd Beans),Jalaun,2016-10-15,5200.0,10.0,31.5,clear
+395,Black Gram (Urd Beans),Orai,2016-10-15,5500.0,850.0,31.5,clear
+396,Lentil(Masur),Jalaun,2016-10-15,4850.0,2.0,31.5,clear
+397,Black Gram (Urd Beans),Jalaun,2016-10-16,5311.0,20.0,24.0,clear
+398,Black Gram (Urd Beans),Orai,2016-10-16,5760.0,900.0,24.0,clear
+399,Black Gram (Urd Beans),Jalaun,2016-10-19,6001.0,20.0,31.0,clear
+400,Black Gram (Urd Beans),Orai,2016-10-19,6075.0,800.0,31.0,clear
+401,Lentil(Masur),Jalaun,2016-10-19,4800.0,2.5,31.0,clear
+402,Lentil(Masur),Orai,2016-10-19,5326.0,20.0,31.0,clear
+403,Black Gram (Urd Beans),Jalaun,2016-10-21,5806.0,25.0,30.5,clear
+404,Black Gram (Urd Beans),Orai,2016-10-21,6100.0,850.0,30.5,clear
+405,Lentil(Masur),Jalaun,2016-10-21,5101.0,3.0,30.5,clear
+406,Black Gram (Urd Beans),Jalaun,2016-10-22,5701.0,20.0,30.5,clear
+407,Lentil(Masur),Jalaun,2016-10-22,5201.0,2.5,30.5,clear
+408,Lentil(Masur),Konch,2016-10-22,5040.0,1.5,30.5,clear
+409,Black Gram (Urd Beans),Jalaun,2016-10-23,5600.0,24.0,31.0,clear
+410,Lentil(Masur),Jalaun,2016-10-23,4921.0,2.0,31.0,clear
+411,Black Gram (Urd Beans),Jalaun,2016-10-25,5400.0,25.0,32.5,clear
+412,Lentil(Masur),Jalaun,2016-10-25,4951.0,2.0,32.5,clear
+413,Lentil(Masur),Konch,2016-10-25,4900.0,1.5,32.5,clear
+414,Black Gram (Urd Beans),Jalaun,2016-02-11,5500.0,5.0,21.5,clear
+415,Black Gram (Urd Beans),Orai,2016-02-11,5900.0,0.0,21.5,clear
+416,Lentil(Masur),Jalaun,2016-02-11,4950.0,3.0,21.5,clear
+417,Lentil(Masur),Orai,2016-02-11,5016.0,0.0,21.5,clear
+418,Black Gram (Urd Beans),Jalaun,2016-03-11,5501.0,10.0,33.0,clear
+419,Black Gram (Urd Beans),Orai,2016-03-11,5781.0,650.0,33.0,clear
+420,Lentil(Masur),Jalaun,2016-03-11,4800.0,1.5,33.0,clear
+421,Lentil(Masur),Konch,2016-03-11,4950.0,1.0,33.0,clear
+422,Lentil(Masur),Orai,2016-03-11,5300.0,20.0,33.0,clear
+423,Black Gram (Urd Beans),Jalaun,2016-04-11,5501.0,15.0,38.0,clear
+424,Black Gram (Urd Beans),Orai,2016-04-11,5615.0,400.0,38.0,clear
+425,Lentil(Masur),Jalaun,2016-04-11,5052.0,2.0,38.0,clear
+426,Lentil(Masur),Orai,2016-04-11,5400.0,15.0,38.0,clear
+427,Black Gram (Urd Beans),Jalaun,2016-05-11,5300.0,14.0,38.0,clear
+428,Black Gram (Urd Beans),Orai,2016-05-11,5565.0,250.0,38.0,clear
+429,Lentil(Masur),Jalaun,2016-05-11,5001.0,1.8,38.0,clear
+430,Lentil(Masur),Konch,2016-05-11,4970.0,1.5,38.0,clear
+431,Black Gram (Urd Beans),Jalaun,2016-06-11,5400.0,22.0,42.5,clear
+432,Black Gram (Urd Beans),Orai,2016-06-11,5675.0,175.0,42.5,clear
+433,Lentil(Masur),Jalaun,2016-06-11,4951.0,2.0,42.5,clear
+434,Lentil(Masur),Konch,2016-06-11,4900.0,2.0,42.5,clear
+435,Black Gram (Urd Beans),Jalaun,2016-08-11,5460.0,25.0,30.0,clear
+436,Lentil(Masur),Konch,2016-08-11,4800.0,1.0,30.0,clear
+437,Black Gram (Urd Beans),Jalaun,2016-09-11,5201.0,20.0,33.0,clear
+438,Black Gram (Urd Beans),Orai,2016-09-11,5400.0,150.0,33.0,clear
+439,Black Gram (Urd Beans),Jalaun,2016-11-11,5101.0,15.0,17.5,clear
+440,Black Gram (Urd Beans),Orai,2016-11-11,5400.0,250.0,17.5,clear
+441,Lentil(Masur),Jalaun,2016-11-11,4352.0,1.0,17.5,clear
+442,Black Gram (Urd Beans),Jalaun,2016-11-29,5300.0,5.0,26.0,clear
+443,Black Gram (Urd Beans),Konch,2016-09-26,6071.0,2.0,31.5,clear
+444,Black Gram (Urd Beans),Orai,2016-09-26,6950.0,50.0,31.5,clear
+445,Lentil(Masur),Konch,2016-09-26,5060.0,2.0,31.5,clear
+446,Lentil(Masur),Orai,2016-09-26,5031.0,10.0,31.5,clear
+447,Black Gram (Urd Beans),Konch,2016-10-14,5500.0,1.5,24.5,clear
+448,Lentil(Masur),Jalaun,2016-10-14,4871.0,3.0,24.5,clear
+449,Lentil(Masur),Konch,2016-10-14,4950.0,2.0,24.5,clear
+450,Lentil(Masur),Orai,2016-10-14,5100.0,6.0,24.5,clear
+451,Black Gram (Urd Beans),Orai,2016-01-17,9300.0,250.0,17.0,clear
+452,Lentil(Masur),Orai,2016-01-17,4400.0,60.0,17.0,clear
+453,Black Gram (Urd Beans),Orai,2016-01-23,9410.0,200.0,18.5,clear
+454,Black Gram (Urd Beans),Orai,2016-09-25,6800.0,75.0,30.5,clear
+455,Lentil(Masur),Orai,2016-09-25,5050.0,5.0,30.5,clear
+456,Black Gram (Urd Beans),Orai,2016-09-30,6150.0,150.0,30.5,clear
+457,Lentil(Masur),Jalaun,2016-09-30,5041.0,1.5,30.5,clear
+458,Lentil(Masur),Orai,2016-09-30,5205.0,7.5,30.5,clear
+459,Black Gram (Urd Beans),Orai,2016-01-10,6200.0,250.0,22.0,clear
+460,Lentil(Masur),Jalaun,2016-01-10,5051.0,2.0,22.0,clear
+461,Lentil(Masur),Orai,2016-01-10,4950.0,12.5,22.0,clear
+462,Black Gram (Urd Beans),Orai,2016-02-10,6475.0,200.0,22.0,clear
+463,Lentil(Masur),Jalaun,2016-02-10,5041.0,1.5,22.0,clear
+464,Lentil(Masur),Orai,2016-02-10,5055.0,10.0,22.0,clear
+465,Black Gram (Urd Beans),Orai,2016-03-10,6401.0,250.0,30.5,clear
+466,Lentil(Masur),Orai,2016-03-10,5050.0,20.0,30.5,clear
+467,Black Gram (Urd Beans),Orai,2016-05-10,6500.0,350.0,38.0,clear
+468,Lentil(Masur),Jalaun,2016-05-10,4851.0,1.0,38.0,clear
+469,Lentil(Masur),Orai,2016-05-10,5115.0,20.0,38.0,clear
+470,Black Gram (Urd Beans),Orai,2016-06-10,6480.0,250.0,41.5,clear
+471,Lentil(Masur),Orai,2016-06-10,4900.0,7.5,41.5,clear
+472,Black Gram (Urd Beans),Orai,2016-10-10,6430.0,600.0,30.0,clear
+473,Lentil(Masur),Orai,2016-10-10,5200.0,8.0,30.0,clear
+474,Black Gram (Urd Beans),Orai,2016-10-17,5600.0,750.0,31.0,clear
+475,Lentil(Masur),Orai,2016-10-17,5411.0,17.5,31.0,clear
+476,Black Gram (Urd Beans),Orai,2016-10-20,5911.0,700.0,30.0,clear
+477,Lentil(Masur),Jalaun,2016-10-20,4850.0,2.0,30.0,clear
+478,Lentil(Masur),Konch,2016-10-20,5050.0,1.5,30.0,clear
+479,Lentil(Masur),Orai,2016-10-20,5355.0,15.0,30.0,clear
+480,Black Gram (Urd Beans),Orai,2016-10-26,5601.0,650.0,33.5,clear
+481,Lentil(Masur),Jalaun,2016-10-26,4922.0,1.5,33.5,clear
+482,Black Gram (Urd Beans),Orai,2016-10-27,5900.0,550.0,32.0,clear
+483,Lentil(Masur),Konch,2016-10-27,4900.0,1.0,32.0,clear
+484,Black Gram (Urd Beans),Orai,2016-10-28,5875.0,600.0,32.5,clear
+485,Lentil(Masur),Jalaun,2016-10-28,5092.0,2.5,32.5,clear
+486,Lentil(Masur),Konch,2016-10-28,4802.0,2.0,32.5,clear
+487,Lentil(Masur),Orai,2016-10-28,4950.0,0.0,32.5,clear
+488,Black Gram (Urd Beans),Orai,2016-07-11,5550.0,180.0,29.5,clear
+489,Lentil(Masur),Konch,2016-07-11,4900.0,2.0,29.5,clear
+490,Black Gram (Urd Beans),Orai,2016-10-11,5400.0,200.0,31.0,clear
+491,Black Gram (Urd Beans),Orai,2016-12-11,5211.0,350.0,17.0,clear
+492,Lentil(Masur),Orai,2016-12-11,4600.0,20.0,17.0,clear
+493,Black Gram (Urd Beans),Orai,2016-11-13,5225.0,200.0,26.5,clear
+494,Black Gram (Urd Beans),Orai,2016-11-16,5100.0,0.0,17.5,clear
+495,Black Gram (Urd Beans),Orai,2016-11-27,5400.0,60.0,25.0,clear
+496,Lentil(Masur),Jalaun,2016-11-27,4000.0,1.0,25.0,clear
+497,Black Gram (Urd Beans),Orai,2016-11-28,5700.0,75.0,26.5,clear
+498,Lentil(Masur),Orai,2016-11-28,4700.0,0.0,26.5,clear
+499,Black Gram (Urd Beans),Orai,2016-11-30,5500.0,50.0,23.0,clear
+500,Lentil(Masur),Orai,2016-11-30,4600.0,5.0,23.0,clear
+501,Black Gram (Urd Beans),Orai,2016-01-12,5551.0,60.0,23.5,clear
+502,Black Gram (Urd Beans),Orai,2016-02-12,5550.0,75.0,24.0,clear
+503,Lentil(Masur),Orai,2016-02-12,4650.0,0.0,24.0,clear
+504,Black Gram (Urd Beans),Orai,2016-03-12,5565.0,60.0,27.4,clear
+505,Lentil(Masur),Orai,2016-03-12,4680.0,5.0,27.4,clear
+506,Black Gram (Urd Beans),Orai,2016-04-12,5200.0,80.0,36.0,clear
+507,Black Gram (Urd Beans),Orai,2016-05-12,5121.0,75.0,40.5,clear
+508,Lentil(Masur),Orai,2016-05-12,4675.0,0.0,40.5,clear
+509,Black Gram (Urd Beans),Orai,2016-07-12,4800.0,100.0,29.0,clear
+510,Lentil(Masur),Orai,2016-07-12,4650.0,10.0,29.0,clear
+511,Black Gram (Urd Beans),Orai,2016-08-12,5051.0,125.0,30.5,clear
+512,Lentil(Masur),Orai,2016-08-12,4531.0,15.0,30.5,clear
+513,Black Gram (Urd Beans),Orai,2016-09-12,5025.0,100.0,32.5,clear
+514,Lentil(Masur),Orai,2016-09-12,4550.0,7.5,32.5,clear
+515,Green Gram (Moong),Jalaun,2016-07-06,5467.0,10.0,27.5,clear
+516,Lentil(Masur),Jalaun,2016-07-06,5150.0,2.5,27.5,clear
+517,Lentil(Masur),Konch,2016-07-06,5300.0,320.0,27.5,clear
+518,Green Gram (Moong),Jalaun,2016-06-14,5801.0,8.0,38.5,clear
+519,Lentil(Masur),Jalaun,2016-06-14,5541.0,2.5,38.5,clear
+520,Lentil(Masur),Konch,2016-06-14,5500.0,180.0,38.5,clear
+521,Green Gram (Moong),Jalaun,2016-06-15,5685.0,8.0,34.5,clear
+522,Lentil(Masur),Jalaun,2016-06-15,5485.0,2.2,34.5,clear
+523,Green Gram (Moong),Jalaun,2016-06-21,5251.0,8.0,32.5,clear
+524,Green Gram (Moong),Jalaun,2016-06-24,5381.0,12.0,35.5,clear
+525,Lentil(Masur),Jalaun,2016-06-24,5440.0,2.5,35.5,clear
+526,Lentil(Masur),Orai,2016-06-24,5562.0,40.0,35.5,clear
+527,Green Gram (Moong),Jalaun,2016-06-30,5061.0,5.0,31.5,clear
+528,Lentil(Masur),Jalaun,2016-06-30,5600.0,2.0,31.5,clear
+529,Lentil(Masur),Konch,2016-06-30,5550.0,110.0,31.5,clear
+530,Lentil(Masur),Orai,2016-06-30,5700.0,40.0,31.5,clear
+531,Lentil(Masur),Jalaun,2016-01-01,4500.0,1.6,22.5,clear
+532,Lentil(Masur),Orai,2016-01-01,5000.0,55.0,22.5,clear
+533,Lentil(Masur),Jalaun,2016-03-01,4562.0,0.6,29.0,clear
+534,Lentil(Masur),Jalaun,2016-03-15,4900.0,5.0,26.4,clear
+535,Lentil(Masur),Jalaun,2016-03-20,4380.0,6.0,33.0,clear
+536,Lentil(Masur),Orai,2016-03-20,4577.0,180.0,33.0,clear
+537,Lentil(Masur),Jalaun,2016-03-22,4538.0,5.5,31.0,clear
+538,Lentil(Masur),Jalaun,2016-03-25,4521.0,3.5,35.5,clear
+539,Lentil(Masur),Jalaun,2016-03-29,5000.0,5.0,23.0,clear
+540,Lentil(Masur),Jalaun,2016-05-04,5400.0,12.0,39.5,clear
+541,Lentil(Masur),Jalaun,2016-10-04,5397.0,5.0,34.5,clear
+542,Lentil(Masur),Orai,2016-10-04,5500.0,70.0,34.5,clear
+543,Lentil(Masur),Jalaun,2016-12-04,5350.0,10.0,21.5,clear
+544,Lentil(Masur),Jalaun,2016-04-13,5404.0,8.0,38.0,clear
+545,Lentil(Masur),Jalaun,2016-04-19,5600.0,8.0,40.5,clear
+546,Lentil(Masur),Jalaun,2016-04-22,5350.0,8.0,40.6,clear
+547,Lentil(Masur),Jalaun,2016-04-26,5500.0,6.0,40.0,clear
+548,Lentil(Masur),Jalaun,2016-01-05,5401.0,6.0,21.5,clear
+549,Lentil(Masur),Jalaun,2016-10-05,5601.0,9.5,32.0,clear
+550,Lentil(Masur),Konch,2016-10-05,5560.0,550.0,32.0,clear
+551,Lentil(Masur),Jalaun,2016-11-05,5500.0,8.0,26.0,clear
+552,Lentil(Masur),Jalaun,2016-05-20,5460.0,2.5,45.0,clear
+553,Lentil(Masur),Orai,2016-05-20,5501.0,50.0,45.0,clear
+554,Lentil(Masur),Jalaun,2016-05-26,5350.0,3.0,37.5,clear
+555,Lentil(Masur),Konch,2016-05-26,5316.0,550.0,37.5,clear
+556,Lentil(Masur),Orai,2016-05-26,5351.0,70.0,37.5,clear
+557,Lentil(Masur),Jalaun,2016-05-27,5226.0,3.0,40.5,clear
+558,Lentil(Masur),Konch,2016-05-27,5300.0,480.0,40.5,clear
+559,Lentil(Masur),Orai,2016-05-27,5300.0,50.0,40.5,clear
+560,Lentil(Masur),Jalaun,2016-05-28,5243.0,3.5,32.5,clear
+561,Lentil(Masur),Konch,2016-05-28,5265.0,450.0,32.5,clear
+562,Lentil(Masur),Orai,2016-05-28,5250.0,70.0,32.5,clear
+563,Lentil(Masur),Jalaun,2016-05-31,5251.0,2.5,36.5,clear
+564,Lentil(Masur),Konch,2016-05-31,5200.0,400.0,36.5,clear
+565,Lentil(Masur),Jalaun,2016-05-06,5251.0,3.0,34.0,clear
+566,Lentil(Masur),Konch,2016-05-06,5350.0,450.0,34.0,clear
+567,Lentil(Masur),Orai,2016-05-06,5316.0,36.0,34.0,clear
+568,Lentil(Masur),Jalaun,2016-12-06,5451.0,2.6,21.5,clear
+569,Lentil(Masur),Konch,2016-12-06,5556.0,255.0,21.5,clear
+570,Lentil(Masur),Orai,2016-12-06,5650.0,50.0,21.5,clear
+571,Lentil(Masur),Jalaun,2016-06-18,5408.0,2.0,36.5,clear
+572,Lentil(Masur),Konch,2016-06-18,5400.0,160.0,36.5,clear
+573,Lentil(Masur),Orai,2016-06-18,5600.0,60.0,36.5,clear
+574,Lentil(Masur),Jalaun,2016-06-19,5411.0,2.0,31.0,clear
+575,Lentil(Masur),Konch,2016-06-19,5380.0,150.0,31.0,clear
+576,Lentil(Masur),Jalaun,2016-06-26,5501.0,2.8,37.0,clear
+577,Lentil(Masur),Orai,2016-06-26,5575.0,20.0,37.0,clear
+578,Lentil(Masur),Jalaun,2016-06-28,5551.0,3.0,36.5,clear
+579,Lentil(Masur),Jalaun,2016-12-07,5751.0,1.4,15.0,clear
+580,Lentil(Masur),Jalaun,2016-07-17,5531.0,1.0,25.5,clear
+581,Lentil(Masur),Jalaun,2016-07-20,5651.0,1.0,33.5,clear
+582,Lentil(Masur),Jalaun,2016-07-22,5616.0,2.0,31.0,clear
+583,Lentil(Masur),Jalaun,2016-07-26,5540.0,1.0,30.5,clear
+584,Lentil(Masur),Konch,2016-07-26,5470.0,2.5,30.5,clear
+585,Lentil(Masur),Jalaun,2016-07-30,5500.0,6.0,28.5,clear
+586,Lentil(Masur),Jalaun,2016-07-31,5522.0,5.0,27.0,clear
+587,Lentil(Masur),Jalaun,2016-02-08,5551.0,3.0,23.5,clear
+588,Lentil(Masur),Jalaun,2016-03-08,5500.0,2.0,30.5,clear
+589,Lentil(Masur),Orai,2016-03-08,5525.0,7.5,30.5,clear
+590,Lentil(Masur),Jalaun,2016-04-08,5451.0,1.5,37.5,clear
+591,Lentil(Masur),Orai,2016-04-08,5551.0,8.0,37.5,clear
+592,Lentil(Masur),Jalaun,2016-05-08,5431.0,1.7,25.5,clear
+593,Lentil(Masur),Orai,2016-05-08,5450.0,15.0,25.5,clear
+594,Lentil(Masur),Jalaun,2016-06-08,5301.0,1.0,41.5,clear
+595,Lentil(Masur),Jalaun,2016-09-08,5103.0,3.0,32.5,clear
+596,Lentil(Masur),Konch,2016-09-08,5300.0,3.0,32.5,clear
+597,Lentil(Masur),Jalaun,2016-10-08,5351.0,1.0,30.6,clear
+598,Lentil(Masur),Orai,2016-10-08,5275.0,7.5,30.6,clear
+599,Lentil(Masur),Jalaun,2016-11-08,5397.0,2.0,24.0,clear
+600,Lentil(Masur),Konch,2016-11-08,5231.0,3.2,24.0,clear
+601,Lentil(Masur),Jalaun,2016-08-16,5321.0,1.5,28.0,clear
+602,Lentil(Masur),Konch,2016-08-16,5300.0,3.0,28.0,clear
+603,Lentil(Masur),Jalaun,2016-08-17,5298.0,1.0,26.5,clear
+604,Lentil(Masur),Jalaun,2016-08-21,5240.0,1.0,30.0,clear
+605,Lentil(Masur),Jalaun,2016-08-23,5101.0,1.0,27.0,clear
+606,Lentil(Masur),Konch,2016-08-23,5191.0,2.0,27.0,clear
+607,Lentil(Masur),Jalaun,2016-08-24,4833.0,1.0,29.5,clear
+608,Lentil(Masur),Jalaun,2016-08-25,4820.0,2.5,30.0,clear
+609,Lentil(Masur),Konch,2016-08-25,5000.0,3.5,30.0,clear
+610,Lentil(Masur),Jalaun,2016-08-26,4800.0,2.0,29.0,clear
+611,Lentil(Masur),Konch,2016-08-26,5001.0,2.0,29.0,clear
+612,Lentil(Masur),Jalaun,2016-08-27,4891.0,1.5,28.5,clear
+613,Lentil(Masur),Konch,2016-08-27,4891.0,3.0,28.5,clear
+614,Lentil(Masur),Jalaun,2016-08-30,4700.0,2.0,33.0,clear
+615,Lentil(Masur),Konch,2016-08-30,4695.0,5.0,33.0,clear
+616,Lentil(Masur),Jalaun,2016-08-31,4701.0,2.5,30.5,clear
+617,Lentil(Masur),Orai,2016-08-31,4651.0,20.0,30.5,clear
+618,Lentil(Masur),Jalaun,2016-04-09,5071.0,1.5,37.5,clear
+619,Lentil(Masur),Orai,2016-04-09,5000.0,12.0,37.5,clear
+620,Lentil(Masur),Jalaun,2016-06-09,5090.0,1.0,42.5,clear
+621,Lentil(Masur),Jalaun,2016-07-09,5027.0,1.5,29.5,clear
+622,Lentil(Masur),Jalaun,2016-08-09,4600.0,1.0,31.0,clear
+623,Lentil(Masur),Konch,2016-08-09,4900.0,4.2,31.0,clear
+624,Lentil(Masur),Orai,2016-08-09,5026.0,15.0,31.0,clear
+625,Lentil(Masur),Jalaun,2016-10-09,4871.0,2.5,30.5,clear
+626,Lentil(Masur),Konch,2016-10-09,5020.0,1.8,30.5,clear
+627,Lentil(Masur),Jalaun,2016-11-09,4862.0,1.5,24.0,clear
+628,Lentil(Masur),Konch,2016-11-09,5020.0,1.8,24.0,clear
+629,Lentil(Masur),Jalaun,2016-09-13,5221.0,1.0,29.5,clear
+630,Lentil(Masur),Jalaun,2016-09-15,5888.0,1.0,30.5,clear
+631,Lentil(Masur),Konch,2016-09-15,5100.0,2.5,30.5,clear
+632,Lentil(Masur),Orai,2016-09-15,5500.0,12.0,30.5,clear
+633,Lentil(Masur),Jalaun,2016-09-16,5151.0,1.0,31.5,clear
+634,Lentil(Masur),Konch,2016-09-16,5150.0,1.5,31.5,clear
+635,Lentil(Masur),Orai,2016-09-16,4900.0,12.5,31.5,clear
+636,Lentil(Masur),Jalaun,2016-09-17,5051.0,2.0,30.5,clear
+637,Lentil(Masur),Orai,2016-09-17,5100.0,15.0,30.5,clear
+638,Lentil(Masur),Jalaun,2016-09-18,5131.0,1.5,31.0,clear
+639,Lentil(Masur),Orai,2016-09-18,5300.0,7.5,31.0,clear
+640,Lentil(Masur),Jalaun,2016-09-20,5051.0,1.5,33.5,clear
+641,Lentil(Masur),Konch,2016-09-20,5151.0,2.0,33.5,clear
+642,Lentil(Masur),Jalaun,2016-09-21,5051.0,1.0,28.0,clear
+643,Lentil(Masur),Jalaun,2016-09-22,5111.0,1.5,29.5,clear
+644,Lentil(Masur),Konch,2016-09-22,5100.0,3.0,29.5,clear
+645,Lentil(Masur),Jalaun,2016-09-23,5070.0,1.0,30.5,clear
+646,Lentil(Masur),Konch,2016-09-23,5070.0,2.8,30.5,clear
+647,Lentil(Masur),Orai,2016-09-23,5121.0,7.5,30.5,clear
+648,Lentil(Masur),Jalaun,2016-09-24,5122.0,1.0,31.0,clear
+649,Lentil(Masur),Konch,2016-09-24,5051.0,3.5,31.0,clear
+650,Lentil(Masur),Orai,2016-09-24,5000.0,3.5,31.0,clear
+651,Lentil(Masur),Jalaun,2016-09-28,4550.0,1.0,30.5,clear
+652,Lentil(Masur),Jalaun,2016-04-10,5021.0,1.8,39.0,clear
+653,Lentil(Masur),Jalaun,2016-11-10,5002.0,1.5,23.5,clear
+654,Lentil(Masur),Jalaun,2016-10-18,4800.0,2.5,30.0,clear
+655,Lentil(Masur),Jalaun,2016-11-24,4000.0,1.0,25.0,clear
+656,Lentil(Masur),Jalaun,2016-11-25,4200.0,1.0,24.5,clear
+657,Lentil(Masur),Jalaun,2016-12-17,4000.0,0.5,22.0,clear
+658,Lentil(Masur),Konch,2016-12-17,4375.0,4.0,22.0,clear
+659,Lentil(Masur),Orai,2016-12-17,4500.0,15.0,22.0,clear
+660,Lentil(Masur),Jalaun,2016-12-18,4000.0,0.3,22.5,clear
+661,Lentil(Masur),Orai,2016-12-18,4500.0,10.0,22.5,clear
+662,Lentil(Masur),Konch,2016-06-17,5440.0,190.0,31.0,clear
+663,Lentil(Masur),Konch,2016-06-27,5513.0,140.0,36.5,clear
+664,Lentil(Masur),Orai,2016-06-27,5706.0,15.0,36.5,clear
+665,Lentil(Masur),Konch,2016-07-14,5450.0,65.0,28.5,clear
+666,Lentil(Masur),Konch,2016-07-18,5555.0,3.5,30.5,clear
+667,Lentil(Masur),Konch,2016-08-08,5300.0,2.4,27.0,clear
+668,Lentil(Masur),Orai,2016-08-08,5351.0,5.0,27.0,clear
+669,Lentil(Masur),Konch,2016-08-15,5300.0,4.0,26.5,clear
+670,Lentil(Masur),Konch,2016-08-20,5300.0,2.0,29.5,clear
+671,Lentil(Masur),Konch,2016-08-28,4525.0,4.0,31.0,clear
+672,Lentil(Masur),Konch,2016-08-29,4655.0,2.0,29.5,clear
+673,Lentil(Masur),Konch,2016-01-09,4910.0,3.0,22.5,clear
+674,Lentil(Masur),Orai,2016-01-09,4925.0,15.0,22.5,clear
+675,Lentil(Masur),Konch,2016-12-09,5021.0,2.0,17.5,clear
+676,Lentil(Masur),Orai,2016-12-09,5200.0,7.5,17.5,clear
+677,Lentil(Masur),Konch,2016-09-19,5100.0,1.8,32.5,clear
+678,Lentil(Masur),Orai,2016-09-19,5000.0,4.0,32.5,clear
+679,Lentil(Masur),Konch,2016-11-12,4400.0,3.0,26.0,clear
+680,Lentil(Masur),Orai,2016-11-12,4311.0,8.0,26.0,clear
+681,Lentil(Masur),Konch,2016-12-13,4300.0,0.0,19.5,clear
+682,Lentil(Masur),Konch,2016-12-15,4300.0,2.5,21.0,clear
+683,Lentil(Masur),Konch,2016-12-29,4100.0,4.5,16.0,clear
+684,Lentil(Masur),Orai,2016-12-29,4400.0,10.0,16.0,clear
+685,Lentil(Masur),Orai,2016-02-01,4930.0,60.0,24.5,clear
+686,Lentil(Masur),Orai,2016-09-01,4950.0,60.0,29.5,clear
+687,Lentil(Masur),Orai,2016-10-01,4975.0,50.0,29.5,clear
+688,Lentil(Masur),Orai,2016-01-14,4452.0,50.0,22.5,clear
+689,Lentil(Masur),Orai,2016-02-27,3751.0,6.5,28.5,clear
+690,Lentil(Masur),Orai,2016-04-03,4601.0,8.0,38.0,clear
+691,Lentil(Masur),Orai,2016-03-13,4950.0,10.0,30.0,clear
+692,Lentil(Masur),Orai,2016-06-22,5560.0,50.0,31.0,clear
+693,Lentil(Masur),Orai,2016-07-15,5750.0,5.0,28.5,clear
+694,Lentil(Masur),Orai,2016-07-16,5611.0,7.5,27.5,clear
+695,Lentil(Masur),Orai,2016-01-08,5651.0,10.0,23.5,clear
+696,Lentil(Masur),Orai,2016-05-09,5100.0,15.0,33.0,clear
+697,Lentil(Masur),Orai,2016-09-14,5292.0,10.0,30.0,clear
+698,Lentil(Masur),Orai,2016-09-29,5200.0,10.0,26.5,clear
+699,Lentil(Masur),Orai,2016-10-12,4500.0,20.0,31.5,clear
+700,Lentil(Masur),Orai,2016-12-28,4500.0,25.0,12.5,clear
+701,Arhar (Tur/Red Gram),Kalpi,2017-09-16,3340.0,100.0,30.0,clear
+702,Bengal Gram(Gram),Orai,2017-09-16,5500.0,75.0,30.0,clear
+703,Lentil(Masur),Jalaun,2017-09-16,3300.0,5.0,30.0,clear
+704,Lentil(Masur),Konch,2017-09-16,3400.0,16.0,30.0,clear
+705,Lentil(Masur),Madhogarh,2017-09-16,3200.0,5.7,30.0,clear
+706,Lentil(Masur),Orai,2017-09-16,3416.0,15.0,30.0,clear
+707,Arhar (Tur/Red Gram),Kalpi,2017-09-20,3240.0,50.0,29.8,clear
+708,Bengal Gram(Gram),Orai,2017-09-20,5400.0,60.0,29.8,clear
+709,Lentil(Masur),Ait,2017-09-20,3270.0,1.1,29.8,clear
+710,Lentil(Masur),Jalaun,2017-09-20,3240.0,8.6,29.8,clear
+711,Lentil(Masur),Madhogarh,2017-09-20,3238.0,0.8,29.8,clear
+712,Lentil(Masur),Orai,2017-09-20,3222.0,15.0,29.8,clear
+713,Bengal Gram(Gram),Ait,2017-07-07,1436.0,1.0,33.5,clear
+714,Bengal Gram(Gram),Orai,2017-07-07,4750.0,40.0,33.5,clear
+715,Lentil(Masur),Jalaun,2017-07-07,3200.0,0.5,33.5,clear
+716,Lentil(Masur),Konch,2017-07-07,3285.0,10.0,33.5,clear
+717,Lentil(Masur),Orai,2017-07-07,3327.0,12.0,33.5,clear
+718,Bengal Gram(Gram),Jalaun,2017-03-22,4782.0,0.0,20.0,clear
+719,Lentil(Masur),Jalaun,2017-03-22,4063.0,48.0,20.0,clear
+720,Lentil(Masur),Orai,2017-03-22,4175.0,150.0,20.0,clear
+721,Bengal Gram(Gram),Jalaun,2017-04-19,6052.0,0.0,44.5,clear
+722,Bengal Gram(Gram),Orai,2017-04-19,5500.0,200.0,44.5,clear
+723,Lentil(Masur),Jalaun,2017-04-19,3852.0,15.0,44.5,clear
+724,Lentil(Masur),Orai,2017-04-19,3787.0,35.0,44.5,clear
+725,Bengal Gram(Gram),Jalaun,2017-04-20,5600.0,1.0,44.5,clear
+726,Bengal Gram(Gram),Orai,2017-04-20,5702.0,250.0,44.5,clear
+727,Lentil(Masur),Jalaun,2017-04-20,3816.0,14.7,44.5,clear
+728,Lentil(Masur),Konch,2017-04-20,3700.0,18.0,44.5,clear
+729,Lentil(Masur),Orai,2017-04-20,3777.0,50.0,44.5,clear
+730,Bengal Gram(Gram),Jalaun,2017-04-23,5352.0,6.0,42.5,clear
+731,Bengal Gram(Gram),Orai,2017-04-23,5350.0,250.0,42.5,clear
+732,Lentil(Masur),Jalaun,2017-04-23,3762.0,12.9,42.5,clear
+733,Lentil(Masur),Konch,2017-04-23,3710.0,35.0,42.5,clear
+734,Lentil(Masur),Orai,2017-04-23,3850.0,75.0,42.5,clear
+735,Bengal Gram(Gram),Jalaun,2017-12-09,5740.0,0.0,26.5,clear
+736,Lentil(Masur),Jalaun,2017-12-09,3300.0,16.6,26.5,clear
+737,Lentil(Masur),Madhogarh,2017-12-09,3300.0,3.8,26.5,clear
+738,Bengal Gram(Gram),Konch,2017-03-18,4600.0,0.0,30.5,clear
+739,Bengal Gram(Gram),Orai,2017-03-18,4600.0,50.0,30.5,clear
+740,Lentil(Masur),Jalaun,2017-03-18,3990.0,31.0,30.5,clear
+741,Lentil(Masur),Konch,2017-03-18,3851.0,30.0,30.5,clear
+742,Lentil(Masur),Orai,2017-03-18,4000.0,150.0,30.5,clear
+743,Bengal Gram(Gram),Konch,2017-03-19,4600.0,1.0,30.0,clear
+744,Bengal Gram(Gram),Orai,2017-03-19,4600.0,100.0,30.0,clear
+745,Lentil(Masur),Jalaun,2017-03-19,4180.0,38.0,30.0,clear
+746,Lentil(Masur),Konch,2017-03-19,4076.0,21.0,30.0,clear
+747,Lentil(Masur),Orai,2017-03-19,4100.0,120.0,30.0,clear
+748,Bengal Gram(Gram),Konch,2017-04-15,5570.0,0.0,43.0,clear
+749,Bengal Gram(Gram),Orai,2017-04-15,5700.0,250.0,43.0,clear
+750,Lentil(Masur),Jalaun,2017-04-15,3991.0,24.5,43.0,clear
+751,Lentil(Masur),Konch,2017-04-15,3871.0,47.0,43.0,clear
+752,Lentil(Masur),Orai,2017-04-15,4082.0,50.0,43.0,clear
+753,Bengal Gram(Gram),Konch,2017-04-25,5740.0,0.0,39.5,clear
+754,Lentil(Masur),Jalaun,2017-04-25,3722.0,23.0,39.5,clear
+755,Lentil(Masur),Konch,2017-04-25,3600.0,41.0,39.5,clear
+756,Bengal Gram(Gram),Konch,2017-08-13,4622.0,0.0,32.0,clear
+757,Lentil(Masur),Ait,2017-08-13,3580.0,2.2,32.0,clear
+758,Lentil(Masur),Jalaun,2017-08-13,3570.0,4.5,32.0,clear
+759,Lentil(Masur),Konch,2017-08-13,3541.0,25.0,32.0,clear
+760,Lentil(Masur),Madhogarh,2017-08-13,3550.0,11.0,32.0,clear
+761,Bengal Gram(Gram),Orai,2017-03-20,5025.0,75.0,30.5,clear
+762,Lentil(Masur),Orai,2017-03-20,4171.0,150.0,30.5,clear
+763,Bengal Gram(Gram),Orai,2017-03-24,5551.0,75.0,35.0,clear
+764,Lentil(Masur),Jalaun,2017-03-24,4251.0,42.0,35.0,clear
+765,Lentil(Masur),Konch,2017-03-24,4161.0,58.0,35.0,clear
+766,Lentil(Masur),Orai,2017-03-24,4375.0,125.0,35.0,clear
+767,Bengal Gram(Gram),Orai,2017-03-25,5600.0,125.0,36.0,clear
+768,Lentil(Masur),Jalaun,2017-03-25,4300.0,38.7,36.0,clear
+769,Lentil(Masur),Konch,2017-03-25,4300.0,50.0,36.0,clear
+770,Lentil(Masur),Orai,2017-03-25,4401.0,200.0,36.0,clear
+771,Bengal Gram(Gram),Orai,2017-03-26,5500.0,150.0,36.5,clear
+772,Lentil(Masur),Jalaun,2017-03-26,4209.0,45.0,36.5,clear
+773,Lentil(Masur),Konch,2017-03-26,4265.0,37.0,36.5,clear
+774,Lentil(Masur),Orai,2017-03-26,4370.0,250.0,36.5,clear
+775,Bengal Gram(Gram),Orai,2017-03-27,5400.0,175.0,37.0,clear
+776,Lentil(Masur),Orai,2017-03-27,4276.0,200.0,37.0,clear
+777,Bengal Gram(Gram),Orai,2017-03-29,5500.0,120.0,38.0,clear
+778,Lentil(Masur),Jalaun,2017-03-29,4250.0,41.5,38.0,clear
+779,Lentil(Masur),Orai,2017-03-29,4315.0,175.0,38.0,clear
+780,Bengal Gram(Gram),Orai,2017-03-30,5600.0,150.0,40.0,clear
+781,Lentil(Masur),Jalaun,2017-03-30,4195.0,46.0,40.0,clear
+782,Lentil(Masur),Konch,2017-03-30,4150.0,64.0,40.0,clear
+783,Lentil(Masur),Orai,2017-03-30,4275.0,200.0,40.0,clear
+784,Bengal Gram(Gram),Orai,2017-03-31,5700.0,250.0,40.0,clear
+785,Lentil(Masur),Jalaun,2017-03-31,4331.0,29.0,40.0,clear
+786,Lentil(Masur),Orai,2017-03-31,4311.0,165.0,40.0,clear
+787,Bengal Gram(Gram),Orai,2017-01-04,5800.0,400.0,19.0,clear
+788,Lentil(Masur),Jalaun,2017-01-04,4182.0,20.0,19.0,clear
+789,Lentil(Masur),Orai,2017-01-04,4300.0,170.0,19.0,clear
+790,Bengal Gram(Gram),Orai,2017-02-04,5750.0,350.0,23.0,clear
+791,Lentil(Masur),Jalaun,2017-02-04,4224.0,21.0,23.0,clear
+792,Lentil(Masur),Konch,2017-02-04,4091.0,32.0,23.0,clear
+793,Lentil(Masur),Orai,2017-02-04,4256.0,150.0,23.0,clear
+794,Bengal Gram(Gram),Orai,2017-03-04,5685.0,250.0,31.5,clear
+795,Lentil(Masur),Konch,2017-03-04,4071.0,30.0,31.5,clear
+796,Lentil(Masur),Orai,2017-03-04,4213.0,140.0,31.5,clear
+797,Bengal Gram(Gram),Orai,2017-05-04,5650.0,350.0,40.5,clear
+798,Lentil(Masur),Jalaun,2017-05-04,4055.0,32.0,40.5,clear
+799,Lentil(Masur),Orai,2017-05-04,4200.0,160.0,40.5,clear
+800,Bengal Gram(Gram),Orai,2017-06-04,5400.0,160.0,45.5,clear
+801,Lentil(Masur),Konch,2017-06-04,4101.0,18.0,45.5,clear
+802,Lentil(Masur),Orai,2017-06-04,4127.0,140.0,45.5,clear
+803,Bengal Gram(Gram),Orai,2017-08-04,5500.0,200.0,33.0,clear
+804,Lentil(Masur),Jalaun,2017-08-04,3871.0,8.4,33.0,clear
+805,Lentil(Masur),Orai,2017-08-04,4001.0,60.0,33.0,clear
+806,Bengal Gram(Gram),Orai,2017-09-04,5400.0,375.0,27.5,clear
+807,Lentil(Masur),Jalaun,2017-09-04,3982.0,15.5,27.5,clear
+808,Lentil(Masur),Konch,2017-09-04,3950.0,26.0,27.5,clear
+809,Lentil(Masur),Orai,2017-09-04,4002.0,60.0,27.5,clear
+810,Bengal Gram(Gram),Orai,2017-10-04,5600.0,150.0,35.5,clear
+811,Lentil(Masur),Konch,2017-10-04,3902.0,30.0,35.5,clear
+812,Lentil(Masur),Orai,2017-10-04,4100.0,35.0,35.5,clear
+813,Bengal Gram(Gram),Orai,2017-12-04,5500.0,300.0,25.5,clear
+814,Lentil(Masur),Jalaun,2017-12-04,4022.0,14.5,25.5,clear
+815,Lentil(Masur),Orai,2017-12-04,4150.0,65.0,25.5,clear
+816,Bengal Gram(Gram),Orai,2017-04-13,5751.0,250.0,41.5,clear
+817,Lentil(Masur),Jalaun,2017-04-13,4061.0,8.0,41.5,clear
+818,Lentil(Masur),Konch,2017-04-13,3910.0,20.0,41.5,clear
+819,Lentil(Masur),Orai,2017-04-13,4051.0,75.0,41.5,clear
+820,Bengal Gram(Gram),Orai,2017-04-14,5750.0,300.0,42.0,clear
+821,Lentil(Masur),Jalaun,2017-04-14,3981.0,27.2,42.0,clear
+822,Lentil(Masur),Konch,2017-04-14,3811.0,19.0,42.0,clear
+823,Lentil(Masur),Orai,2017-04-14,4000.0,60.0,42.0,clear
+824,Bengal Gram(Gram),Orai,2017-04-16,5600.0,275.0,43.0,clear
+825,Lentil(Masur),Jalaun,2017-04-16,3901.0,19.0,43.0,clear
+826,Lentil(Masur),Orai,2017-04-16,3900.0,52.5,43.0,clear
+827,Bengal Gram(Gram),Orai,2017-04-17,5600.0,300.0,42.0,clear
+828,Lentil(Masur),Konch,2017-04-17,3705.0,28.0,42.0,clear
+829,Lentil(Masur),Orai,2017-04-17,3860.0,30.0,42.0,clear
+830,Bengal Gram(Gram),Orai,2017-04-21,5300.0,150.0,43.5,clear
+831,Lentil(Masur),Jalaun,2017-04-21,3823.0,13.4,43.5,clear
+832,Lentil(Masur),Konch,2017-04-21,3751.0,17.0,43.5,clear
+833,Lentil(Masur),Orai,2017-04-21,3781.0,40.0,43.5,clear
+834,Bengal Gram(Gram),Orai,2017-04-22,5305.0,140.0,43.5,clear
+835,Lentil(Masur),Jalaun,2017-04-22,3791.0,26.7,43.5,clear
+836,Lentil(Masur),Konch,2017-04-22,3700.0,24.0,43.5,clear
+837,Lentil(Masur),Orai,2017-04-22,3785.0,50.0,43.5,clear
+838,Bengal Gram(Gram),Orai,2017-04-24,5300.0,350.0,39.5,clear
+839,Lentil(Masur),Konch,2017-04-24,3702.0,32.0,39.5,clear
+840,Lentil(Masur),Orai,2017-04-24,3800.0,40.0,39.5,clear
+841,Bengal Gram(Gram),Orai,2017-04-26,5310.0,400.0,39.0,clear
+842,Lentil(Masur),Jalaun,2017-04-26,3791.0,33.7,39.0,clear
+843,Lentil(Masur),Orai,2017-04-26,3790.0,50.0,39.0,clear
+844,Bengal Gram(Gram),Orai,2017-04-27,5500.0,350.0,39.0,clear
+845,Lentil(Masur),Jalaun,2017-04-27,3771.0,6.0,39.0,clear
+846,Lentil(Masur),Konch,2017-04-27,3701.0,31.0,39.0,clear
+847,Lentil(Masur),Orai,2017-04-27,3900.0,80.0,39.0,clear
+848,Bengal Gram(Gram),Orai,2017-04-28,5300.0,150.0,39.5,clear
+849,Lentil(Masur),Jalaun,2017-04-28,3776.0,10.7,39.5,clear
+850,Lentil(Masur),Konch,2017-04-28,3700.0,29.0,39.5,clear
+851,Lentil(Masur),Orai,2017-04-28,3820.0,37.5,39.5,clear
+852,Bengal Gram(Gram),Orai,2017-04-29,5200.0,175.0,29.5,clear
+853,Lentil(Masur),Jalaun,2017-04-29,3800.0,10.1,29.5,clear
+854,Lentil(Masur),Konch,2017-04-29,3702.0,35.0,29.5,clear
+855,Lentil(Masur),Orai,2017-04-29,3821.0,40.0,29.5,clear
+856,Bengal Gram(Gram),Orai,2017-04-30,5250.0,250.0,40.0,clear
+857,Lentil(Masur),Jalaun,2017-04-30,3790.0,7.7,40.0,clear
+858,Lentil(Masur),Orai,2017-04-30,3825.0,35.0,40.0,clear
+859,Bengal Gram(Gram),Orai,2017-01-05,5250.0,100.0,20.0,clear
+860,Lentil(Masur),Konch,2017-01-05,3700.0,35.0,20.0,clear
+861,Lentil(Masur),Orai,2017-01-05,3750.0,40.0,20.0,clear
+862,Bengal Gram(Gram),Orai,2017-03-05,5600.0,150.0,27.0,clear
+863,Lentil(Masur),Jalaun,2017-03-05,3700.0,8.9,27.0,clear
+864,Lentil(Masur),Orai,2017-03-05,3750.0,25.0,27.0,clear
+865,Bengal Gram(Gram),Orai,2017-04-05,5350.0,100.0,28.5,clear
+866,Lentil(Masur),Jalaun,2017-04-05,3642.0,7.0,28.5,clear
+867,Lentil(Masur),Konch,2017-04-05,3625.0,25.0,28.5,clear
+868,Lentil(Masur),Orai,2017-04-05,3675.0,25.0,28.5,clear
+869,Bengal Gram(Gram),Orai,2017-05-05,5200.0,150.0,41.0,clear
+870,Lentil(Masur),Jalaun,2017-05-05,3641.0,2.1,41.0,clear
+871,Lentil(Masur),Konch,2017-05-05,3617.0,19.0,41.0,clear
+872,Lentil(Masur),Orai,2017-05-05,3677.0,25.0,41.0,clear
+873,Bengal Gram(Gram),Orai,2017-06-05,5100.0,200.0,45.0,clear
+874,Lentil(Masur),Jalaun,2017-06-05,3662.0,5.0,45.0,clear
+875,Lentil(Masur),Konch,2017-06-05,3625.0,12.0,45.0,clear
+876,Lentil(Masur),Orai,2017-06-05,3702.0,30.0,45.0,clear
+877,Bengal Gram(Gram),Orai,2017-07-05,5150.0,250.0,36.0,clear
+878,Lentil(Masur),Jalaun,2017-07-05,3691.0,7.1,36.0,clear
+879,Lentil(Masur),Konch,2017-07-05,3575.0,24.0,36.0,clear
+880,Lentil(Masur),Orai,2017-07-05,3705.0,50.0,36.0,clear
+881,Bengal Gram(Gram),Orai,2017-08-05,5050.0,200.0,33.0,clear
+882,Lentil(Masur),Konch,2017-08-05,3590.0,18.5,33.0,clear
+883,Lentil(Masur),Orai,2017-08-05,3690.0,20.0,33.0,clear
+884,Bengal Gram(Gram),Orai,2017-10-05,5400.0,200.0,35.0,clear
+885,Lentil(Masur),Jalaun,2017-10-05,3645.0,9.5,35.0,clear
+886,Lentil(Masur),Orai,2017-10-05,3815.0,17.5,35.0,clear
+887,Bengal Gram(Gram),Orai,2017-11-05,5300.0,150.0,31.5,clear
+888,Lentil(Masur),Jalaun,2017-11-05,3700.0,12.0,31.5,clear
+889,Lentil(Masur),Konch,2017-11-05,3705.0,12.0,31.5,clear
+890,Lentil(Masur),Orai,2017-11-05,3750.0,40.0,31.5,clear
+891,Bengal Gram(Gram),Orai,2017-05-13,5400.0,300.0,41.0,clear
+892,Lentil(Masur),Jalaun,2017-05-13,3755.0,7.5,41.0,clear
+893,Lentil(Masur),Konch,2017-05-13,3730.0,26.0,41.0,clear
+894,Lentil(Masur),Orai,2017-05-13,3775.0,50.0,41.0,clear
+895,Bengal Gram(Gram),Orai,2017-05-14,5300.0,100.0,43.5,clear
+896,Lentil(Masur),Jalaun,2017-05-14,3750.0,8.0,43.5,clear
+897,Lentil(Masur),Konch,2017-05-14,3730.0,24.0,43.5,clear
+898,Lentil(Masur),Orai,2017-05-14,3780.0,35.0,43.5,clear
+899,Bengal Gram(Gram),Orai,2017-05-15,5300.0,100.0,45.0,clear
+900,Lentil(Masur),Konch,2017-05-15,3740.0,30.0,45.0,clear
+901,Lentil(Masur),Orai,2017-05-15,3750.0,20.0,45.0,clear
+902,Bengal Gram(Gram),Orai,2017-05-17,5300.0,100.0,31.0,clear
+903,Lentil(Masur),Jalaun,2017-05-17,3700.0,6.0,31.0,clear
+904,Lentil(Masur),Orai,2017-05-17,3640.0,30.0,31.0,clear
+905,Bengal Gram(Gram),Orai,2017-05-18,5300.0,150.0,34.0,clear
+906,Lentil(Masur),Jalaun,2017-05-18,3700.0,6.5,34.0,clear
+907,Lentil(Masur),Orai,2017-05-18,3575.0,35.0,34.0,clear
+908,Bengal Gram(Gram),Orai,2017-05-19,5375.0,200.0,42.5,clear
+909,Lentil(Masur),Jalaun,2017-05-19,3760.0,10.0,42.5,clear
+910,Lentil(Masur),Konch,2017-05-19,3501.0,18.0,42.5,clear
+911,Lentil(Masur),Orai,2017-05-19,3570.0,30.0,42.5,clear
+912,Bengal Gram(Gram),Orai,2017-05-20,5425.0,140.0,32.0,clear
+913,Lentil(Masur),Jalaun,2017-05-20,3600.0,4.5,32.0,clear
+914,Lentil(Masur),Konch,2017-05-20,3511.0,9.0,32.0,clear
+915,Lentil(Masur),Orai,2017-05-20,3540.0,25.0,32.0,clear
+916,Bengal Gram(Gram),Orai,2017-05-21,5350.0,150.0,43.5,clear
+917,Lentil(Masur),Jalaun,2017-05-21,3600.0,2.0,43.5,clear
+918,Lentil(Masur),Orai,2017-05-21,3550.0,30.0,43.5,clear
+919,Bengal Gram(Gram),Orai,2017-05-22,5430.0,200.0,43.0,clear
+920,Lentil(Masur),Konch,2017-05-22,3551.0,14.0,43.0,clear
+921,Lentil(Masur),Orai,2017-05-22,3625.0,25.0,43.0,clear
+922,Bengal Gram(Gram),Orai,2017-05-24,5425.0,175.0,41.5,clear
+923,Lentil(Masur),Jalaun,2017-05-24,3350.0,4.0,41.5,clear
+924,Lentil(Masur),Orai,2017-05-24,3610.0,20.0,41.5,clear
+925,Bengal Gram(Gram),Orai,2017-05-25,5300.0,100.0,40.5,clear
+926,Lentil(Masur),Jalaun,2017-05-25,3540.0,7.4,40.5,clear
+927,Lentil(Masur),Konch,2017-05-25,3450.0,10.0,40.5,clear
+928,Lentil(Masur),Orai,2017-05-25,3590.0,25.0,40.5,clear
+929,Bengal Gram(Gram),Orai,2017-05-26,5075.0,140.0,44.5,clear
+930,Lentil(Masur),Jalaun,2017-05-26,3450.0,11.0,44.5,clear
+931,Lentil(Masur),Orai,2017-05-26,3435.0,25.0,44.5,clear
+932,Bengal Gram(Gram),Orai,2017-05-27,5150.0,150.0,43.5,clear
+933,Lentil(Masur),Jalaun,2017-05-27,3320.0,3.5,43.5,clear
+934,Lentil(Masur),Konch,2017-05-27,3300.0,15.0,43.5,clear
+935,Lentil(Masur),Orai,2017-05-27,3450.0,40.0,43.5,clear
+936,Bengal Gram(Gram),Orai,2017-05-28,5150.0,200.0,41.5,clear
+937,Lentil(Masur),Jalaun,2017-05-28,3360.0,1.5,41.5,clear
+938,Lentil(Masur),Orai,2017-05-28,3425.0,15.0,41.5,clear
+939,Bengal Gram(Gram),Orai,2017-05-29,5150.0,250.0,40.0,clear
+940,Lentil(Masur),Konch,2017-05-29,3250.0,13.5,40.0,clear
+941,Lentil(Masur),Orai,2017-05-29,3330.0,25.0,40.0,clear
+942,Bengal Gram(Gram),Orai,2017-05-31,5050.0,200.0,38.5,clear
+943,Lentil(Masur),Jalaun,2017-05-31,3350.0,5.0,38.5,clear
+944,Lentil(Masur),Orai,2017-05-31,3380.0,18.0,38.5,clear
+945,Bengal Gram(Gram),Orai,2017-01-06,4910.0,250.0,22.5,clear
+946,Green Gram (Moong),Jalaun,2017-01-06,3650.0,12.0,22.5,clear
+947,Lentil(Masur),Jalaun,2017-01-06,3350.0,3.2,22.5,clear
+948,Lentil(Masur),Orai,2017-01-06,3425.0,20.0,22.5,clear
+949,Bengal Gram(Gram),Orai,2017-02-06,4950.0,175.0,16.5,clear
+950,Green Gram (Moong),Jalaun,2017-02-06,3780.0,7.0,16.5,clear
+951,Lentil(Masur),Jalaun,2017-02-06,3400.0,3.5,16.5,clear
+952,Lentil(Masur),Orai,2017-02-06,3425.0,25.0,16.5,clear
+953,Bengal Gram(Gram),Orai,2017-03-06,5050.0,160.0,28.5,clear
+954,Lentil(Masur),Jalaun,2017-03-06,3450.0,4.0,28.5,clear
+955,Lentil(Masur),Orai,2017-03-06,3450.0,20.0,28.5,clear
+956,Bengal Gram(Gram),Orai,2017-04-06,5025.0,200.0,39.5,clear
+957,Green Gram (Moong),Jalaun,2017-04-06,3750.0,10.0,39.5,clear
+958,Lentil(Masur),Jalaun,2017-04-06,3350.0,1.5,39.5,clear
+959,Lentil(Masur),Orai,2017-04-06,3425.0,17.5,39.5,clear
+960,Bengal Gram(Gram),Orai,2017-05-06,5050.0,120.0,43.0,clear
+961,Lentil(Masur),Orai,2017-05-06,3450.0,25.0,43.0,clear
+962,Bengal Gram(Gram),Orai,2017-07-06,4950.0,250.0,27.5,clear
+963,Green Gram (Moong),Jalaun,2017-07-06,3750.0,7.0,27.5,clear
+964,Lentil(Masur),Jalaun,2017-07-06,3350.0,3.0,27.5,clear
+965,Lentil(Masur),Orai,2017-07-06,3425.0,30.0,27.5,clear
+966,Bengal Gram(Gram),Orai,2017-08-06,5050.0,350.0,29.6,clear
+967,Lentil(Masur),Orai,2017-08-06,3425.0,40.0,29.6,clear
+968,Bengal Gram(Gram),Orai,2017-09-06,4950.0,150.0,32.5,clear
+969,Green Gram (Moong),Jalaun,2017-09-06,3850.0,27.0,32.5,clear
+970,Lentil(Masur),Jalaun,2017-09-06,3400.0,4.5,32.5,clear
+971,Lentil(Masur),Orai,2017-09-06,3410.0,17.5,32.5,clear
+972,Bengal Gram(Gram),Orai,2017-10-06,4950.0,250.0,33.5,clear
+973,Green Gram (Moong),Jalaun,2017-10-06,3850.0,30.0,33.5,clear
+974,Lentil(Masur),Jalaun,2017-10-06,3450.0,4.5,33.5,clear
+975,Lentil(Masur),Orai,2017-10-06,3410.0,16.0,33.5,clear
+976,Bengal Gram(Gram),Orai,2017-11-06,4950.0,150.0,31.5,clear
+977,Green Gram (Moong),Jalaun,2017-11-06,3800.0,8.0,31.5,clear
+978,Lentil(Masur),Jalaun,2017-11-06,3400.0,3.0,31.5,clear
+979,Lentil(Masur),Orai,2017-11-06,3425.0,40.0,31.5,clear
+980,Bengal Gram(Gram),Orai,2017-12-06,5050.0,125.0,22.5,clear
+981,Lentil(Masur),Konch,2017-12-06,3326.0,4.0,22.5,clear
+982,Lentil(Masur),Orai,2017-12-06,3330.0,30.0,22.5,clear
+983,Bengal Gram(Gram),Orai,2017-06-14,5050.0,200.0,42.5,clear
+984,Green Gram (Moong),Jalaun,2017-06-14,3850.0,12.0,42.5,clear
+985,Lentil(Masur),Jalaun,2017-06-14,3400.0,3.0,42.5,clear
+986,Lentil(Masur),Orai,2017-06-14,3340.0,22.5,42.5,clear
+987,Bengal Gram(Gram),Orai,2017-06-15,4950.0,150.0,39.5,clear
+988,Green Gram (Moong),Jalaun,2017-06-15,3930.0,12.0,39.5,clear
+989,Lentil(Masur),Jalaun,2017-06-15,3410.0,3.5,39.5,clear
+990,Lentil(Masur),Konch,2017-06-15,3318.0,5.0,39.5,clear
+991,Lentil(Masur),Orai,2017-06-15,3340.0,15.0,39.5,clear
+992,Bengal Gram(Gram),Orai,2017-06-16,4950.0,150.0,38.5,clear
+993,Green Gram (Moong),Jalaun,2017-06-16,3980.0,15.0,38.5,clear
+994,Lentil(Masur),Jalaun,2017-06-16,3400.0,2.5,38.5,clear
+995,Lentil(Masur),Konch,2017-06-16,3300.0,4.0,38.5,clear
+996,Lentil(Masur),Orai,2017-06-16,3340.0,30.0,38.5,clear
+997,Bengal Gram(Gram),Orai,2017-06-18,4950.0,150.0,37.5,clear
+998,Green Gram (Moong),Jalaun,2017-06-18,4150.0,10.0,37.5,clear
+999,Lentil(Masur),Jalaun,2017-06-18,3300.0,0.8,37.5,clear
+1000,Lentil(Masur),Orai,2017-06-18,3350.0,35.0,37.5,clear
+1001,Bengal Gram(Gram),Orai,2017-06-19,4950.0,150.0,38.0,clear
+1002,Lentil(Masur),Konch,2017-06-19,3300.0,6.0,38.0,clear
+1003,Lentil(Masur),Orai,2017-06-19,3285.0,30.0,38.0,clear
+1004,Bengal Gram(Gram),Orai,2017-06-21,4950.0,60.0,36.5,clear
+1005,Lentil(Masur),Jalaun,2017-06-21,3310.0,1.5,36.5,clear
+1006,Lentil(Masur),Orai,2017-06-21,3280.0,22.0,36.5,clear
+1007,Bengal Gram(Gram),Orai,2017-06-22,4650.0,50.0,38.5,clear
+1008,Green Gram (Moong),Jalaun,2017-06-22,3800.0,5.0,38.5,clear
+1009,Lentil(Masur),Jalaun,2017-06-22,3250.0,2.0,38.5,clear
+1010,Lentil(Masur),Konch,2017-06-22,3175.0,9.0,38.5,clear
+1011,Lentil(Masur),Orai,2017-06-22,3238.0,15.0,38.5,clear
+1012,Bengal Gram(Gram),Orai,2017-06-23,4650.0,80.0,37.5,clear
+1013,Green Gram (Moong),Jalaun,2017-06-23,3700.0,7.0,37.5,clear
+1014,Lentil(Masur),Jalaun,2017-06-23,3230.0,2.5,37.5,clear
+1015,Lentil(Masur),Konch,2017-06-23,3161.0,24.0,37.5,clear
+1016,Lentil(Masur),Orai,2017-06-23,3220.0,14.0,37.5,clear
+1017,Bengal Gram(Gram),Orai,2017-06-24,4550.0,150.0,37.5,clear
+1018,Lentil(Masur),Jalaun,2017-06-24,3300.0,3.0,37.5,clear
+1019,Lentil(Masur),Konch,2017-06-24,3200.0,20.0,37.5,clear
+1020,Lentil(Masur),Orai,2017-06-24,3245.0,15.0,37.5,clear
+1021,Bengal Gram(Gram),Orai,2017-06-25,4750.0,75.0,30.0,clear
+1022,Green Gram (Moong),Jalaun,2017-06-25,3700.0,8.0,30.0,clear
+1023,Lentil(Masur),Jalaun,2017-06-25,3250.0,3.0,30.0,clear
+1024,Lentil(Masur),Konch,2017-06-25,3210.0,15.0,30.0,clear
+1025,Lentil(Masur),Orai,2017-06-25,3335.0,20.0,30.0,clear
+1026,Bengal Gram(Gram),Orai,2017-06-26,4650.0,125.0,38.0,clear
+1027,Lentil(Masur),Orai,2017-06-26,3335.0,25.0,38.0,clear
+1028,Bengal Gram(Gram),Orai,2017-06-28,4950.0,100.0,33.5,clear
+1029,Green Gram (Moong),Jalaun,2017-06-28,3750.0,10.0,33.5,clear
+1030,Lentil(Masur),Jalaun,2017-06-28,3350.0,2.0,33.5,clear
+1031,Lentil(Masur),Orai,2017-06-28,3417.0,14.0,33.5,clear
+1032,Bengal Gram(Gram),Orai,2017-06-29,4950.0,75.0,33.5,clear
+1033,Lentil(Masur),Jalaun,2017-06-29,3400.0,4.0,33.5,clear
+1034,Lentil(Masur),Konch,2017-06-29,3361.0,8.5,33.5,clear
+1035,Lentil(Masur),Orai,2017-06-29,3425.0,15.0,33.5,clear
+1036,Bengal Gram(Gram),Orai,2017-06-30,4950.0,60.0,33.5,clear
+1037,Lentil(Masur),Orai,2017-06-30,3425.0,18.0,33.5,clear
+1038,Bengal Gram(Gram),Orai,2017-01-07,4950.0,50.0,14.0,clear
+1039,Lentil(Masur),Jalaun,2017-01-07,3400.0,2.0,14.0,clear
+1040,Lentil(Masur),Konch,2017-01-07,3400.0,8.0,14.0,clear
+1041,Lentil(Masur),Orai,2017-01-07,3430.0,6.0,14.0,clear
+1042,Bengal Gram(Gram),Orai,2017-02-07,4850.0,150.0,21.0,clear
+1043,Lentil(Masur),Jalaun,2017-02-07,3380.0,2.0,21.0,clear
+1044,Lentil(Masur),Konch,2017-02-07,3352.0,11.0,21.0,clear
+1045,Lentil(Masur),Orai,2017-02-07,3406.0,25.0,21.0,clear
+1046,Bengal Gram(Gram),Orai,2017-05-07,4950.0,50.0,45.0,clear
+1047,Lentil(Masur),Jalaun,2017-05-07,3350.0,2.5,45.0,clear
+1048,Lentil(Masur),Orai,2017-05-07,3408.0,20.0,45.0,clear
+1049,Bengal Gram(Gram),Orai,2017-06-07,4950.0,60.0,37.5,clear
+1050,Lentil(Masur),Ait,2017-06-07,3425.0,1.0,37.5,clear
+1051,Lentil(Masur),Jalaun,2017-06-07,3330.0,1.5,37.5,clear
+1052,Lentil(Masur),Konch,2017-06-07,3337.0,4.5,37.5,clear
+1053,Lentil(Masur),Orai,2017-06-07,3410.0,15.0,37.5,clear
+1054,Bengal Gram(Gram),Orai,2017-08-07,4750.0,50.0,29.0,clear
+1055,Lentil(Masur),Kalpi,2017-08-07,3250.0,10.0,29.0,clear
+1056,Lentil(Masur),Konch,2017-08-07,3305.0,317.0,29.0,clear
+1057,Lentil(Masur),Madhogarh,2017-08-07,3275.0,6.0,29.0,clear
+1058,Lentil(Masur),Orai,2017-08-07,3225.0,15.0,29.0,clear
+1059,Bengal Gram(Gram),Orai,2017-09-07,4750.0,60.0,32.5,clear
+1060,Lentil(Masur),Konch,2017-09-07,3200.0,13.0,32.5,clear
+1061,Lentil(Masur),Madhogarh,2017-09-07,3325.0,9.0,32.5,clear
+1062,Lentil(Masur),Orai,2017-09-07,3308.0,16.0,32.5,clear
+1063,Bengal Gram(Gram),Orai,2017-10-07,4750.0,75.0,35.0,clear
+1064,Lentil(Masur),Madhogarh,2017-10-07,3345.0,4.0,35.0,clear
+1065,Lentil(Masur),Orai,2017-10-07,3275.0,15.0,35.0,clear
+1066,Bengal Gram(Gram),Orai,2017-12-07,4750.0,50.0,24.5,clear
+1067,Lentil(Masur),Ait,2017-12-07,3412.0,1.0,24.5,clear
+1068,Lentil(Masur),Jalaun,2017-12-07,3180.0,2.5,24.5,clear
+1069,Lentil(Masur),Madhogarh,2017-12-07,3190.0,5.0,24.5,clear
+1070,Lentil(Masur),Orai,2017-12-07,3250.0,15.0,24.5,clear
+1071,Bengal Gram(Gram),Orai,2017-07-13,4750.0,40.0,30.0,clear
+1072,Lentil(Masur),Ait,2017-07-13,3326.0,1.0,30.0,clear
+1073,Lentil(Masur),Jalaun,2017-07-13,3230.0,3.1,30.0,clear
+1074,Lentil(Masur),Konch,2017-07-13,3200.0,14.5,30.0,clear
+1075,Lentil(Masur),Orai,2017-07-13,3250.0,12.0,30.0,clear
+1076,Bengal Gram(Gram),Orai,2017-07-14,4750.0,35.0,31.5,clear
+1077,Lentil(Masur),Ait,2017-07-14,3254.0,1.0,31.5,clear
+1078,Lentil(Masur),Jalaun,2017-07-14,3230.0,3.0,31.5,clear
+1079,Lentil(Masur),Konch,2017-07-14,3226.0,8.5,31.5,clear
+1080,Lentil(Masur),Orai,2017-07-14,3313.0,11.0,31.5,clear
+1081,Bengal Gram(Gram),Orai,2017-07-15,4850.0,20.0,30.5,clear
+1082,Lentil(Masur),Jalaun,2017-07-15,3210.0,4.0,30.5,clear
+1083,Lentil(Masur),Orai,2017-07-15,3238.0,12.0,30.5,clear
+1084,Bengal Gram(Gram),Orai,2017-07-16,4825.0,100.0,35.0,clear
+1085,Lentil(Masur),Jalaun,2017-07-16,3170.0,6.3,35.0,clear
+1086,Lentil(Masur),Konch,2017-07-16,3216.0,9.0,35.0,clear
+1087,Lentil(Masur),Orai,2017-07-16,3250.0,35.0,35.0,clear
+1088,Bengal Gram(Gram),Orai,2017-07-17,4750.0,50.0,32.5,clear
+1089,Lentil(Masur),Madhogarh,2017-07-17,3190.0,15.6,32.5,clear
+1090,Lentil(Masur),Orai,2017-07-17,3230.0,20.0,32.5,clear
+1091,Bengal Gram(Gram),Orai,2017-07-19,4650.0,25.0,30.0,clear
+1092,Lentil(Masur),Jalaun,2017-07-19,3150.0,4.6,30.0,clear
+1093,Lentil(Masur),Madhogarh,2017-07-19,3140.0,6.0,30.0,clear
+1094,Lentil(Masur),Orai,2017-07-19,3205.0,20.0,30.0,clear
+1095,Bengal Gram(Gram),Orai,2017-07-20,4750.0,125.0,31.5,clear
+1096,Lentil(Masur),Jalaun,2017-07-20,3200.0,13.1,31.5,clear
+1097,Lentil(Masur),Konch,2017-07-20,3300.0,11.0,31.5,clear
+1098,Lentil(Masur),Madhogarh,2017-07-20,3145.0,3.6,31.5,clear
+1099,Lentil(Masur),Orai,2017-07-20,3145.0,21.0,31.5,clear
+1100,Bengal Gram(Gram),Orai,2017-07-21,4750.0,25.0,30.5,clear
+1101,Lentil(Masur),Jalaun,2017-07-21,3130.0,13.8,30.5,clear
+1102,Lentil(Masur),Konch,2017-07-21,3101.0,0.5,30.5,clear
+1103,Lentil(Masur),Orai,2017-07-21,3150.0,15.0,30.5,clear
+1104,Bengal Gram(Gram),Orai,2017-07-22,4800.0,50.0,30.5,clear
+1105,Lentil(Masur),Jalaun,2017-07-22,3150.0,5.3,30.5,clear
+1106,Lentil(Masur),Orai,2017-07-22,3172.0,15.0,30.5,clear
+1107,Bengal Gram(Gram),Orai,2017-07-23,4650.0,75.0,27.0,clear
+1108,Lentil(Masur),Jalaun,2017-07-23,3120.0,12.0,27.0,clear
+1109,Lentil(Masur),Konch,2017-07-23,3050.0,7.0,27.0,clear
+1110,Lentil(Masur),Madhogarh,2017-07-23,3040.0,12.0,27.0,clear
+1111,Lentil(Masur),Orai,2017-07-23,3125.0,12.0,27.0,clear
+1112,Bengal Gram(Gram),Orai,2017-07-24,4550.0,60.0,28.5,clear
+1113,Lentil(Masur),Konch,2017-07-24,3100.0,8.0,28.5,clear
+1114,Lentil(Masur),Madhogarh,2017-07-24,3040.0,1.5,28.5,clear
+1115,Lentil(Masur),Orai,2017-07-24,3035.0,15.0,28.5,clear
+1116,Bengal Gram(Gram),Orai,2017-07-26,4450.0,75.0,31.5,clear
+1117,Lentil(Masur),Ait,2017-07-26,3109.0,1.0,31.5,clear
+1118,Lentil(Masur),Jalaun,2017-07-26,3000.0,5.6,31.5,clear
+1119,Lentil(Masur),Madhogarh,2017-07-26,3040.0,3.8,31.5,clear
+1120,Lentil(Masur),Orai,2017-07-26,2950.0,14.0,31.5,clear
+1121,Bengal Gram(Gram),Orai,2017-07-28,4150.0,100.0,31.5,clear
+1122,Lentil(Masur),Jalaun,2017-07-28,3000.0,8.0,31.5,clear
+1123,Lentil(Masur),Konch,2017-07-28,3050.0,7.0,31.5,clear
+1124,Lentil(Masur),Orai,2017-07-28,3021.0,10.0,31.5,clear
+1125,Bengal Gram(Gram),Orai,2017-07-29,4150.0,75.0,32.0,clear
+1126,Lentil(Masur),Jalaun,2017-07-29,3100.0,7.0,32.0,clear
+1127,Lentil(Masur),Konch,2017-07-29,3011.0,20.0,32.0,clear
+1128,Lentil(Masur),Orai,2017-07-29,3025.0,12.5,32.0,clear
+1129,Bengal Gram(Gram),Orai,2017-07-30,4150.0,40.0,32.0,clear
+1130,Lentil(Masur),Jalaun,2017-07-30,3250.0,9.2,32.0,clear
+1131,Lentil(Masur),Konch,2017-07-30,3100.0,15.0,32.0,clear
+1132,Lentil(Masur),Madhogarh,2017-07-30,3040.0,2.0,32.0,clear
+1133,Lentil(Masur),Orai,2017-07-30,3075.0,10.0,32.0,clear
+1134,Bengal Gram(Gram),Orai,2017-07-31,4350.0,50.0,34.0,clear
+1135,Lentil(Masur),Madhogarh,2017-07-31,2990.0,4.0,34.0,clear
+1136,Lentil(Masur),Orai,2017-07-31,3272.0,7.5,34.0,clear
+1137,Bengal Gram(Gram),Orai,2017-02-08,4550.0,60.0,24.5,clear
+1138,Lentil(Masur),Jalaun,2017-02-08,3150.0,2.0,24.5,clear
+1139,Lentil(Masur),Madhogarh,2017-02-08,3140.0,2.0,24.5,clear
+1140,Lentil(Masur),Orai,2017-02-08,3225.0,16.0,24.5,clear
+1141,Bengal Gram(Gram),Orai,2017-04-08,4650.0,0.0,39.5,clear
+1142,Green Gram (Moong),Jalaun,2017-04-08,3650.0,0.0,39.5,clear
+1143,Lentil(Masur),Ait,2017-04-08,3240.0,1.0,39.5,clear
+1144,Lentil(Masur),Jalaun,2017-04-08,3240.0,10.0,39.5,clear
+1145,Lentil(Masur),Konch,2017-04-08,3200.0,12.5,39.5,clear
+1146,Lentil(Masur),Orai,2017-04-08,3230.0,0.0,39.5,clear
+1147,Bengal Gram(Gram),Orai,2017-05-08,4650.0,50.0,42.5,clear
+1148,Green Gram (Moong),Jalaun,2017-05-08,4050.0,5.0,42.5,clear
+1149,Lentil(Masur),Jalaun,2017-05-08,3250.0,15.4,42.5,clear
+1150,Lentil(Masur),Madhogarh,2017-05-08,3150.0,2.4,42.5,clear
+1151,Lentil(Masur),Orai,2017-05-08,3312.0,10.0,42.5,clear
+1152,Bengal Gram(Gram),Orai,2017-06-08,4550.0,60.0,37.5,clear
+1153,Lentil(Masur),Jalaun,2017-06-08,3450.0,4.3,37.5,clear
+1154,Lentil(Masur),Madhogarh,2017-06-08,3100.0,11.2,37.5,clear
+1155,Lentil(Masur),Orai,2017-06-08,3450.0,12.0,37.5,clear
+1156,Bengal Gram(Gram),Orai,2017-09-08,4450.0,50.0,33.0,clear
+1157,Lentil(Masur),Jalaun,2017-09-08,3325.0,5.0,33.0,clear
+1158,Lentil(Masur),Madhogarh,2017-09-08,3105.0,11.0,33.0,clear
+1159,Lentil(Masur),Orai,2017-09-08,3330.0,21.0,33.0,clear
+1160,Bengal Gram(Gram),Orai,2017-10-08,4725.0,20.0,35.5,clear
+1161,Lentil(Masur),Ait,2017-10-08,3400.0,1.0,35.5,clear
+1162,Lentil(Masur),Jalaun,2017-10-08,3370.0,5.0,35.5,clear
+1163,Lentil(Masur),Konch,2017-10-08,3100.0,6.0,35.5,clear
+1164,Lentil(Masur),Madhogarh,2017-10-08,3313.0,66.0,35.5,clear
+1165,Lentil(Masur),Orai,2017-10-08,3370.0,5.0,35.5,clear
+1166,Bengal Gram(Gram),Orai,2017-11-08,4800.0,40.0,31.5,clear
+1167,Lentil(Masur),Jalaun,2017-11-08,3435.0,6.0,31.5,clear
+1168,Lentil(Masur),Konch,2017-11-08,3100.0,35.0,31.5,clear
+1169,Lentil(Masur),Orai,2017-11-08,3475.0,6.0,31.5,clear
+1170,Bengal Gram(Gram),Orai,2017-12-08,4800.0,25.0,25.0,clear
+1171,Lentil(Masur),Ait,2017-12-08,3400.0,1.0,25.0,clear
+1172,Lentil(Masur),Jalaun,2017-12-08,3460.0,5.0,25.0,clear
+1173,Lentil(Masur),Konch,2017-12-08,3511.0,18.0,25.0,clear
+1174,Lentil(Masur),Madhogarh,2017-12-08,3300.0,11.3,25.0,clear
+1175,Lentil(Masur),Orai,2017-12-08,3450.0,5.0,25.0,clear
+1176,Bengal Gram(Gram),Orai,2017-08-14,4700.0,25.0,32.5,clear
+1177,Lentil(Masur),Madhogarh,2017-08-14,3567.0,6.6,32.5,clear
+1178,Lentil(Masur),Orai,2017-08-14,3628.0,15.0,32.5,clear
+1179,Bengal Gram(Gram),Orai,2017-08-16,4900.0,40.0,34.0,clear
+1180,Lentil(Masur),Madhogarh,2017-08-16,3350.0,3.5,34.0,clear
+1181,Lentil(Masur),Orai,2017-08-16,3480.0,12.5,34.0,clear
+1182,Bengal Gram(Gram),Orai,2017-08-17,4800.0,50.0,34.5,clear
+1183,Lentil(Masur),Jalaun,2017-08-17,3380.0,7.7,34.5,clear
+1184,Lentil(Masur),Konch,2017-08-17,3490.0,35.0,34.5,clear
+1185,Lentil(Masur),Madhogarh,2017-08-17,3350.0,2.8,34.5,clear
+1186,Lentil(Masur),Orai,2017-08-17,3430.0,20.0,34.5,clear
+1187,Bengal Gram(Gram),Orai,2017-08-18,4800.0,60.0,30.0,clear
+1188,Lentil(Masur),Jalaun,2017-08-18,3350.0,8.2,30.0,clear
+1189,Lentil(Masur),Konch,2017-08-18,3440.0,11.0,30.0,clear
+1190,Lentil(Masur),Orai,2017-08-18,3375.0,21.0,30.0,clear
+1191,Bengal Gram(Gram),Orai,2017-08-19,4700.0,75.0,31.5,clear
+1192,Green Gram (Moong),Jalaun,2017-08-19,4150.0,0.0,31.5,clear
+1193,Lentil(Masur),Ait,2017-08-19,3470.0,1.5,31.5,clear
+1194,Lentil(Masur),Jalaun,2017-08-19,3250.0,5.3,31.5,clear
+1195,Lentil(Masur),Madhogarh,2017-08-19,3442.0,1.5,31.5,clear
+1196,Lentil(Masur),Orai,2017-08-19,3340.0,20.0,31.5,clear
+1197,Bengal Gram(Gram),Orai,2017-08-20,4700.0,60.0,33.5,clear
+1198,Lentil(Masur),Jalaun,2017-08-20,3350.0,8.0,33.5,clear
+1199,Lentil(Masur),Konch,2017-08-20,3305.0,18.0,33.5,clear
+1200,Lentil(Masur),Madhogarh,2017-08-20,3350.0,8.5,33.5,clear
+1201,Lentil(Masur),Orai,2017-08-20,3431.0,15.0,33.5,clear
+1202,Bengal Gram(Gram),Orai,2017-08-21,4700.0,50.0,32.5,clear
+1203,Lentil(Masur),Kadaura,2017-08-21,3325.0,8.0,32.5,clear
+1204,Lentil(Masur),Madhogarh,2017-08-21,3395.0,1.8,32.5,clear
+1205,Lentil(Masur),Orai,2017-08-21,3425.0,15.0,32.5,clear
+1206,Bengal Gram(Gram),Orai,2017-08-23,4900.0,65.0,34.5,clear
+1207,Lentil(Masur),Jalaun,2017-08-23,3500.0,7.3,34.5,clear
+1208,Lentil(Masur),Madhogarh,2017-08-23,3563.0,14.0,34.5,clear
+1209,Lentil(Masur),Orai,2017-08-23,3550.0,17.5,34.5,clear
+1210,Bengal Gram(Gram),Orai,2017-08-25,5100.0,75.0,30.5,clear
+1211,Lentil(Masur),Ait,2017-08-25,3532.0,1.1,30.5,clear
+1212,Lentil(Masur),Jalaun,2017-08-25,3500.0,18.5,30.5,clear
+1213,Lentil(Masur),Konch,2017-08-25,3532.0,21.0,30.5,clear
+1214,Lentil(Masur),Orai,2017-08-25,3612.0,12.0,30.5,clear
+1215,Bengal Gram(Gram),Orai,2017-08-26,4900.0,75.0,29.5,clear
+1216,Lentil(Masur),Ait,2017-08-26,3636.0,1.3,29.5,clear
+1217,Lentil(Masur),Jalaun,2017-08-26,3450.0,3.3,29.5,clear
+1218,Lentil(Masur),Madhogarh,2017-08-26,3550.0,1.0,29.5,clear
+1219,Lentil(Masur),Orai,2017-08-26,3540.0,20.0,29.5,clear
+1220,Bengal Gram(Gram),Orai,2017-08-27,5400.0,60.0,29.0,clear
+1221,Lentil(Masur),Ait,2017-08-27,3610.0,1.0,29.0,clear
+1222,Lentil(Masur),Madhogarh,2017-08-27,3550.0,4.4,29.0,clear
+1223,Lentil(Masur),Orai,2017-08-27,3500.0,20.0,29.0,clear
+1224,Bengal Gram(Gram),Orai,2017-08-28,5550.0,25.0,29.0,clear
+1225,Lentil(Masur),Orai,2017-08-28,3615.0,20.0,29.0,clear
+1226,Bengal Gram(Gram),Orai,2017-08-30,5500.0,60.0,31.0,clear
+1227,Lentil(Masur),Madhogarh,2017-08-30,3557.0,4.0,31.0,clear
+1228,Lentil(Masur),Orai,2017-08-30,3507.0,18.0,31.0,clear
+1229,Bengal Gram(Gram),Orai,2017-02-09,5400.0,25.0,25.0,clear
+1230,Lentil(Masur),Jalaun,2017-02-09,3350.0,8.4,25.0,clear
+1231,Lentil(Masur),Konch,2017-02-09,3300.0,11.0,25.0,clear
+1232,Lentil(Masur),Madhogarh,2017-02-09,3450.0,16.5,25.0,clear
+1233,Lentil(Masur),Orai,2017-02-09,3350.0,13.0,25.0,clear
+1234,Bengal Gram(Gram),Orai,2017-03-09,5400.0,20.0,29.0,clear
+1235,Lentil(Masur),Jalaun,2017-03-09,3320.0,16.2,29.0,clear
+1236,Lentil(Masur),Madhogarh,2017-03-09,3332.0,1.5,29.0,clear
+1237,Lentil(Masur),Orai,2017-03-09,3425.0,6.0,29.0,clear
+1238,Bengal Gram(Gram),Orai,2017-04-09,5400.0,60.0,38.5,clear
+1239,Lentil(Masur),Madhogarh,2017-04-09,3370.0,7.0,38.5,clear
+1240,Lentil(Masur),Orai,2017-04-09,3430.0,13.0,38.5,clear
+1241,Bengal Gram(Gram),Orai,2017-06-09,5400.0,25.0,36.5,clear
+1242,Lentil(Masur),Ait,2017-06-09,3431.0,1.1,36.5,clear
+1243,Lentil(Masur),Jalaun,2017-06-09,3320.0,2.9,36.5,clear
+1244,Lentil(Masur),Madhogarh,2017-06-09,3370.0,2.0,36.5,clear
+1245,Lentil(Masur),Orai,2017-06-09,3350.0,15.0,36.5,clear
+1246,Bengal Gram(Gram),Orai,2017-07-09,5500.0,60.0,34.0,clear
+1247,Lentil(Masur),Jalaun,2017-07-09,3350.0,2.7,34.0,clear
+1248,Lentil(Masur),Konch,2017-07-09,3330.0,0.8,34.0,clear
+1249,Lentil(Masur),Madhogarh,2017-07-09,3300.0,2.0,34.0,clear
+1250,Lentil(Masur),Orai,2017-07-09,3413.0,20.0,34.0,clear
+1251,Bengal Gram(Gram),Orai,2017-08-09,5550.0,75.0,30.5,clear
+1252,Lentil(Masur),Jalaun,2017-08-09,3300.0,6.7,30.5,clear
+1253,Lentil(Masur),Konch,2017-08-09,3250.0,23.0,30.5,clear
+1254,Lentil(Masur),Orai,2017-08-09,3313.0,25.0,30.5,clear
+1255,Bengal Gram(Gram),Orai,2017-09-09,5500.0,65.0,34.5,clear
+1256,Lentil(Masur),Jalaun,2017-09-09,3250.0,5.4,34.5,clear
+1257,Lentil(Masur),Madhogarh,2017-09-09,3200.0,2.0,34.5,clear
+1258,Lentil(Masur),Orai,2017-09-09,3325.0,10.0,34.5,clear
+1259,Bengal Gram(Gram),Orai,2017-10-09,5575.0,75.0,36.0,clear
+1260,Lentil(Masur),Ait,2017-10-09,3410.0,1.2,36.0,clear
+1261,Lentil(Masur),Jalaun,2017-10-09,3300.0,13.3,36.0,clear
+1262,Lentil(Masur),Madhogarh,2017-10-09,3283.0,3.5,36.0,clear
+1263,Lentil(Masur),Orai,2017-10-09,3338.0,12.0,36.0,clear
+1264,Bengal Gram(Gram),Orai,2017-11-09,5750.0,25.0,29.0,clear
+1265,Lentil(Masur),Ait,2017-11-09,3465.0,1.3,29.0,clear
+1266,Lentil(Masur),Konch,2017-11-09,3311.0,5.0,29.0,clear
+1267,Lentil(Masur),Madhogarh,2017-11-09,3262.0,5.0,29.0,clear
+1268,Lentil(Masur),Orai,2017-11-09,3430.0,15.0,29.0,clear
+1269,Bengal Gram(Gram),Orai,2017-09-13,5700.0,40.0,34.0,clear
+1270,Lentil(Masur),Jalaun,2017-09-13,3300.0,5.1,34.0,clear
+1271,Lentil(Masur),Kadaura,2017-09-13,3363.0,2.78,34.0,clear
+1272,Lentil(Masur),Madhogarh,2017-09-13,3305.0,4.0,34.0,clear
+1273,Lentil(Masur),Orai,2017-09-13,3275.0,20.0,34.0,clear
+1274,Bengal Gram(Gram),Orai,2017-09-14,5400.0,60.0,33.5,clear
+1275,Lentil(Masur),Jalaun,2017-09-14,3250.0,12.8,33.5,clear
+1276,Lentil(Masur),Konch,2017-09-14,3271.0,8.5,33.5,clear
+1277,Lentil(Masur),Madhogarh,2017-09-14,3305.0,2.0,33.5,clear
+1278,Lentil(Masur),Orai,2017-09-14,3325.0,15.0,33.5,clear
+1279,Bengal Gram(Gram),Orai,2017-09-15,5500.0,50.0,30.5,clear
+1280,Lentil(Masur),Ait,2017-09-15,3322.0,1.9,30.5,clear
+1281,Lentil(Masur),Jalaun,2017-09-15,3250.0,10.3,30.5,clear
+1282,Lentil(Masur),Kadaura,2017-09-15,3275.0,7.0,30.5,clear
+1283,Lentil(Masur),Konch,2017-09-15,3155.0,7.0,30.5,clear
+1284,Lentil(Masur),Orai,2017-09-15,3275.0,14.0,30.5,clear
+1285,Bengal Gram(Gram),Orai,2017-09-17,5515.0,60.0,27.5,clear
+1286,Lentil(Masur),Jalaun,2017-09-17,3260.0,7.7,27.5,clear
+1287,Lentil(Masur),Madhogarh,2017-09-17,3322.0,1.5,27.5,clear
+1288,Lentil(Masur),Orai,2017-09-17,3275.0,7.5,27.5,clear
+1289,Bengal Gram(Gram),Orai,2017-09-18,5400.0,150.0,28.0,clear
+1290,Lentil(Masur),Konch,2017-09-18,3170.0,6.0,28.0,clear
+1291,Lentil(Masur),Madhogarh,2017-09-18,3250.0,7.0,28.0,clear
+1292,Lentil(Masur),Orai,2017-09-18,3250.0,20.0,28.0,clear
+1293,Bengal Gram(Gram),Orai,2017-09-21,5400.0,50.0,28.0,clear
+1294,Lentil(Masur),Jalaun,2017-09-21,3200.0,5.0,28.0,clear
+1295,Lentil(Masur),Konch,2017-09-21,3100.0,9.0,28.0,clear
+1296,Lentil(Masur),Madhogarh,2017-09-21,3150.0,3.5,28.0,clear
+1297,Lentil(Masur),Orai,2017-09-21,3225.0,15.0,28.0,clear
+1298,Bengal Gram(Gram),Orai,2017-09-22,5300.0,40.0,27.5,clear
+1299,Lentil(Masur),Jalaun,2017-09-22,3200.0,1.0,27.5,clear
+1300,Lentil(Masur),Konch,2017-09-22,3166.0,16.0,27.5,clear
+1301,Lentil(Masur),Orai,2017-09-22,3312.0,16.0,27.5,clear
+1302,Bengal Gram(Gram),Orai,2017-09-23,5300.0,60.0,31.0,clear
+1303,Lentil(Masur),Jalaun,2017-09-23,3150.0,1.5,31.0,clear
+1304,Lentil(Masur),Kadaura,2017-09-23,3305.0,7.7,31.0,clear
+1305,Lentil(Masur),Konch,2017-09-23,3150.0,30.0,31.0,clear
+1306,Lentil(Masur),Orai,2017-09-23,3175.0,15.0,31.0,clear
+1307,Bengal Gram(Gram),Orai,2017-09-24,5500.0,25.0,26.0,clear
+1308,Lentil(Masur),Jalaun,2017-09-24,3100.0,3.3,26.0,clear
+1309,Lentil(Masur),Madhogarh,2017-09-24,3100.0,4.0,26.0,clear
+1310,Lentil(Masur),Orai,2017-09-24,3125.0,20.0,26.0,clear
+1311,Bengal Gram(Gram),Orai,2017-09-27,5400.0,40.0,34.0,clear
+1312,Lentil(Masur),Ait,2017-09-27,3160.0,1.3,34.0,clear
+1313,Lentil(Masur),Jalaun,2017-09-27,3080.0,3.9,34.0,clear
+1314,Lentil(Masur),Madhogarh,2017-09-27,3085.0,3.3,34.0,clear
+1315,Lentil(Masur),Orai,2017-09-27,3175.0,25.0,34.0,clear
+1316,Bengal Gram(Gram),Orai,2017-09-28,5515.0,150.0,34.5,clear
+1317,Lentil(Masur),Jalaun,2017-09-28,3050.0,6.9,34.5,clear
+1318,Lentil(Masur),Konch,2017-09-28,3025.0,26.0,34.5,clear
+1319,Lentil(Masur),Madhogarh,2017-09-28,3070.0,6.5,34.5,clear
+1320,Lentil(Masur),Orai,2017-09-28,3125.0,30.0,34.5,clear
+1321,Bengal Gram(Gram),Orai,2017-01-10,5400.0,200.0,10.5,clear
+1322,Lentil(Masur),Jalaun,2017-01-10,3100.0,2.0,10.5,clear
+1323,Lentil(Masur),Madhogarh,2017-01-10,2903.0,3.0,10.5,clear
+1324,Lentil(Masur),Orai,2017-01-10,3210.0,25.0,10.5,clear
+1325,Bengal Gram(Gram),Orai,2017-02-10,5300.0,100.0,23.5,clear
+1326,Lentil(Masur),Konch,2017-02-10,3000.0,200.0,23.5,clear
+1327,Lentil(Masur),Madhogarh,2017-02-10,3125.0,2.6,23.5,clear
+1328,Lentil(Masur),Orai,2017-02-10,3212.0,7.5,23.5,clear
+1329,Bengal Gram(Gram),Orai,2017-04-10,5300.0,75.0,35.0,clear
+1330,Lentil(Masur),Jalaun,2017-04-10,2990.0,20.7,35.0,clear
+1331,Lentil(Masur),Madhogarh,2017-04-10,3071.0,1.0,35.0,clear
+1332,Lentil(Masur),Orai,2017-04-10,3075.0,35.0,35.0,clear
+1333,Bengal Gram(Gram),Orai,2017-05-10,5300.0,50.0,42.0,clear
+1334,Lentil(Masur),Jalaun,2017-05-10,2950.0,16.5,42.0,clear
+1335,Lentil(Masur),Konch,2017-05-10,3100.0,200.0,42.0,clear
+1336,Lentil(Masur),Madhogarh,2017-05-10,2995.0,1.1,42.0,clear
+1337,Lentil(Masur),Orai,2017-05-10,3075.0,30.0,42.0,clear
+1338,Bengal Gram(Gram),Orai,2017-06-10,5300.0,75.0,39.5,clear
+1339,Lentil(Masur),Ait,2017-06-10,3062.0,1.5,39.5,clear
+1340,Lentil(Masur),Jalaun,2017-06-10,2900.0,13.2,39.5,clear
+1341,Lentil(Masur),Konch,2017-06-10,2950.0,100.0,39.5,clear
+1342,Lentil(Masur),Orai,2017-06-10,2930.0,25.0,39.5,clear
+1343,Bengal Gram(Gram),Orai,2017-08-10,5050.0,50.0,29.5,clear
+1344,Lentil(Masur),Jalaun,2017-08-10,2840.0,7.4,29.5,clear
+1345,Lentil(Masur),Konch,2017-08-10,2850.0,15.0,29.5,clear
+1346,Lentil(Masur),Madhogarh,2017-08-10,2787.0,4.0,29.5,clear
+1347,Lentil(Masur),Orai,2017-08-10,2950.0,18.0,29.5,clear
+1348,Bengal Gram(Gram),Orai,2017-09-10,4950.0,50.0,35.0,clear
+1349,Lentil(Masur),Madhogarh,2017-09-10,2850.0,2.8,35.0,clear
+1350,Lentil(Masur),Orai,2017-09-10,2925.0,17.5,35.0,clear
+1351,Bengal Gram(Gram),Orai,2017-11-10,5000.0,75.0,29.0,clear
+1352,Lentil(Masur),Ait,2017-11-10,2828.0,1.6,29.0,clear
+1353,Lentil(Masur),Jalaun,2017-11-10,2800.0,27.5,29.0,clear
+1354,Lentil(Masur),Kadaura,2017-11-10,2890.0,1.0,29.0,clear
+1355,Lentil(Masur),Madhogarh,2017-11-10,2800.0,2.0,29.0,clear
+1356,Lentil(Masur),Orai,2017-11-10,2950.0,14.0,29.0,clear
+1357,Bengal Gram(Gram),Orai,2017-12-10,4900.0,150.0,26.5,clear
+1358,Lentil(Masur),Ait,2017-12-10,2810.0,1.6,26.5,clear
+1359,Lentil(Masur),Jalaun,2017-12-10,2750.0,20.9,26.5,clear
+1360,Lentil(Masur),Kadaura,2017-12-10,2990.0,12.8,26.5,clear
+1361,Lentil(Masur),Konch,2017-12-10,2800.0,30.0,26.5,clear
+1362,Lentil(Masur),Madhogarh,2017-12-10,2700.0,2.0,26.5,clear
+1363,Lentil(Masur),Orai,2017-12-10,2940.0,22.5,26.5,clear
+1364,Bengal Gram(Gram),Orai,2017-10-13,4900.0,120.0,35.5,clear
+1365,Lentil(Masur),Konch,2017-10-13,2750.0,24.0,35.5,clear
+1366,Lentil(Masur),Orai,2017-10-13,3013.0,24.0,35.5,clear
+1367,Bengal Gram(Gram),Orai,2017-10-14,4900.0,60.0,36.5,clear
+1368,Lentil(Masur),Jalaun,2017-10-14,2800.0,5.3,36.5,clear
+1369,Lentil(Masur),Madhogarh,2017-10-14,2750.0,6.0,36.5,clear
+1370,Lentil(Masur),Orai,2017-10-14,3033.0,25.0,36.5,clear
+1371,Bengal Gram(Gram),Orai,2017-10-15,4900.0,50.0,37.0,clear
+1372,Lentil(Masur),Jalaun,2017-10-15,2800.0,5.3,37.0,clear
+1373,Lentil(Masur),Madhogarh,2017-10-15,2820.0,0.8,37.0,clear
+1374,Lentil(Masur),Orai,2017-10-15,2950.0,25.0,37.0,clear
+1375,Bengal Gram(Gram),Orai,2017-10-16,4900.0,40.0,34.5,clear
+1376,Black Gram (Urd Beans),Kadaura,2017-10-16,3103.0,3.6,34.5,clear
+1377,Lentil(Masur),Konch,2017-10-16,2850.0,15.0,34.5,clear
+1378,Lentil(Masur),Madhogarh,2017-10-16,2850.0,6.5,34.5,clear
+1379,Lentil(Masur),Orai,2017-10-16,2950.0,20.0,34.5,clear
+1380,Bengal Gram(Gram),Orai,2017-10-18,4900.0,25.0,36.0,clear
+1381,Lentil(Masur),Jalaun,2017-10-18,3000.0,20.0,36.0,clear
+1382,Lentil(Masur),Madhogarh,2017-10-18,2800.0,2.0,36.0,clear
+1383,Lentil(Masur),Orai,2017-10-18,3030.0,25.0,36.0,clear
+1384,Bengal Gram(Gram),Orai,2017-10-22,5013.0,40.0,35.5,clear
+1385,Lentil(Masur),Jalaun,2017-10-22,2970.0,2.4,35.5,clear
+1386,Lentil(Masur),Konch,2017-10-22,2894.0,18.0,35.5,clear
+1387,Lentil(Masur),Madhogarh,2017-10-22,2950.0,3.0,35.5,clear
+1388,Lentil(Masur),Orai,2017-10-22,2940.0,20.0,35.5,clear
+1389,Bengal Gram(Gram),Orai,2017-10-23,4900.0,50.0,26.5,clear
+1390,Lentil(Masur),Konch,2017-10-23,2901.0,0.0,26.5,clear
+1391,Lentil(Masur),Orai,2017-10-23,2950.0,25.0,26.5,clear
+1392,Bengal Gram(Gram),Orai,2017-10-25,4700.0,25.0,35.5,clear
+1393,Lentil(Masur),Jalaun,2017-10-25,2830.0,17.1,35.5,clear
+1394,Lentil(Masur),Madhogarh,2017-10-25,2830.0,4.1,35.5,clear
+1395,Lentil(Masur),Orai,2017-10-25,2875.0,15.0,35.5,clear
+1396,Bengal Gram(Gram),Orai,2017-10-26,4500.0,40.0,34.5,clear
+1397,Lentil(Masur),Jalaun,2017-10-26,2850.0,8.6,34.5,clear
+1398,Lentil(Masur),Konch,2017-10-26,2851.0,24.0,34.5,clear
+1399,Lentil(Masur),Madhogarh,2017-10-26,2830.0,3.0,34.5,clear
+1400,Lentil(Masur),Orai,2017-10-26,2875.0,30.0,34.5,clear
+1401,Bengal Gram(Gram),Orai,2017-10-27,4700.0,50.0,33.5,clear
+1402,Lentil(Masur),Jalaun,2017-10-27,2750.0,23.8,33.5,clear
+1403,Lentil(Masur),Orai,2017-10-27,2810.0,25.0,33.5,clear
+1404,Bengal Gram(Gram),Orai,2017-10-28,4300.0,75.0,33.0,clear
+1405,Black Gram (Urd Beans),Kadaura,2017-10-28,3790.0,1.5,33.0,clear
+1406,Lentil(Masur),Jalaun,2017-10-28,2730.0,7.4,33.0,clear
+1407,Lentil(Masur),Kadaura,2017-10-28,2790.0,3.0,33.0,clear
+1408,Lentil(Masur),Konch,2017-10-28,2750.0,28.0,33.0,clear
+1409,Lentil(Masur),Orai,2017-10-28,2825.0,35.0,33.0,clear
+1410,Bengal Gram(Gram),Orai,2017-10-29,4300.0,150.0,32.5,clear
+1411,Lentil(Masur),Jalaun,2017-10-29,2750.0,9.4,32.5,clear
+1412,Lentil(Masur),Konch,2017-10-29,2736.0,30.0,32.5,clear
+1413,Lentil(Masur),Madhogarh,2017-10-29,2800.0,3.0,32.5,clear
+1414,Lentil(Masur),Orai,2017-10-29,2850.0,35.0,32.5,clear
+1415,Bengal Gram(Gram),Orai,2017-10-30,4000.0,100.0,22.0,clear
+1416,Lentil(Masur),Kadaura,2017-10-30,2713.0,9.5,22.0,clear
+1417,Lentil(Masur),Madhogarh,2017-10-30,2750.0,1.8,22.0,clear
+1418,Lentil(Masur),Orai,2017-10-30,2825.0,30.0,22.0,clear
+1419,Bengal Gram(Gram),Orai,2017-02-11,4100.0,100.0,23.0,clear
+1420,Lentil(Masur),Jalaun,2017-02-11,2680.0,11.3,23.0,clear
+1421,Lentil(Masur),Konch,2017-02-11,2756.0,0.0,23.0,clear
+1422,Lentil(Masur),Madhogarh,2017-02-11,2663.0,2.2,23.0,clear
+1423,Lentil(Masur),Orai,2017-02-11,2850.0,20.0,23.0,clear
+1424,Bengal Gram(Gram),Orai,2017-03-11,4100.0,75.0,20.5,clear
+1425,Black Gram (Urd Beans),Kadaura,2017-03-11,3490.0,0.6,20.5,clear
+1426,Lentil(Masur),Jalaun,2017-03-11,2650.0,5.5,20.5,clear
+1427,Lentil(Masur),Kalpi,2017-03-11,2810.0,290.0,20.5,clear
+1428,Lentil(Masur),Orai,2017-03-11,2815.0,25.0,20.5,clear
+1429,Black Gram (Urd Beans),Orai,2017-04-01,5700.0,150.0,40.5,clear
+1430,Lentil(Masur),Orai,2017-04-01,4400.0,10.0,40.5,clear
+1431,Black Gram (Urd Beans),Orai,2017-05-01,5650.0,200.0,26.5,clear
+1432,Lentil(Masur),Jalaun,2017-05-01,3790.0,0.4,26.5,clear
+1433,Lentil(Masur),Konch,2017-05-01,4165.0,4.5,26.5,clear
+1434,Lentil(Masur),Orai,2017-05-01,4400.0,15.0,26.5,clear
+1435,Black Gram (Urd Beans),Orai,2017-06-01,5051.0,150.0,39.5,clear
+1436,Lentil(Masur),Konch,2017-06-01,4100.0,4.0,39.5,clear
+1437,Lentil(Masur),Orai,2017-06-01,4101.0,10.0,39.5,clear
+1438,Black Gram (Urd Beans),Orai,2017-07-01,5200.0,200.0,34.0,clear
+1439,Lentil(Masur),Konch,2017-07-01,4140.0,2.0,34.0,clear
+1440,Black Gram (Urd Beans),Orai,2017-08-01,4900.0,150.0,31.0,clear
+1441,Lentil(Masur),Konch,2017-08-01,4000.0,3.0,31.0,clear
+1442,Black Gram (Urd Beans),Orai,2017-09-01,4926.0,175.0,31.0,clear
+1443,Lentil(Masur),Konch,2017-09-01,3950.0,4.0,31.0,clear
+1444,Black Gram (Urd Beans),Orai,2017-11-01,4875.0,200.0,31.0,clear
+1445,Black Gram (Urd Beans),Orai,2017-12-01,4911.0,250.0,26.0,clear
+1446,Lentil(Masur),Konch,2017-12-01,3800.0,2.5,26.0,clear
+1447,Black Gram (Urd Beans),Orai,2017-01-13,4950.0,350.0,16.0,clear
+1448,Black Gram (Urd Beans),Orai,2017-01-15,4900.0,300.0,19.5,clear
+1449,Lentil(Masur),Konch,2017-01-15,3750.0,2.5,19.5,clear
+1450,Black Gram (Urd Beans),Orai,2017-01-16,5025.0,250.0,12.0,clear
+1451,Lentil(Masur),Konch,2017-01-16,3800.0,2.5,12.0,clear
+1452,Black Gram (Urd Beans),Orai,2017-01-18,5200.0,200.0,21.0,clear
+1453,Lentil(Masur),Jalaun,2017-01-18,3500.0,0.3,21.0,clear
+1454,Black Gram (Urd Beans),Orai,2017-01-19,4905.0,250.0,21.5,clear
+1455,Lentil(Masur),Konch,2017-01-19,3800.0,0.0,21.5,clear
+1456,Black Gram (Urd Beans),Orai,2017-01-20,5311.0,350.0,10.5,clear
+1457,Lentil(Masur),Orai,2017-01-20,4100.0,20.0,10.5,clear
+1458,Black Gram (Urd Beans),Orai,2017-01-21,5100.0,200.0,20.5,clear
+1459,Lentil(Masur),Konch,2017-01-21,3900.0,2.5,20.5,clear
+1460,Black Gram (Urd Beans),Orai,2017-01-22,5100.0,150.0,21.5,clear
+1461,Lentil(Masur),Konch,2017-01-22,3900.0,2.0,21.5,clear
+1462,Black Gram (Urd Beans),Orai,2017-01-25,4800.0,150.0,24.5,clear
+1463,Black Gram (Urd Beans),Orai,2017-01-28,4801.0,75.0,20.5,clear
+1464,Lentil(Masur),Konch,2017-01-28,3500.0,2.5,20.5,clear
+1465,Black Gram (Urd Beans),Orai,2017-01-29,4800.0,100.0,20.0,clear
+1466,Lentil(Masur),Konch,2017-01-29,3500.0,0.0,20.0,clear
+1467,Black Gram (Urd Beans),Orai,2017-01-30,4811.0,200.0,23.5,clear
+1468,Lentil(Masur),Konch,2017-01-30,3510.0,4.5,23.5,clear
+1469,Black Gram (Urd Beans),Orai,2017-01-02,4805.0,100.0,17.0,clear
+1470,Lentil(Masur),Orai,2017-01-02,3925.0,15.0,17.0,clear
+1471,Black Gram (Urd Beans),Orai,2017-04-02,4500.0,100.0,41.0,clear
+1472,Lentil(Masur),Orai,2017-04-02,3950.0,10.0,41.0,clear
+1473,Black Gram (Urd Beans),Orai,2017-05-02,4550.0,150.0,40.0,clear
+1474,Black Gram (Urd Beans),Orai,2017-12-02,4500.0,80.0,26.5,clear
+1475,Black Gram (Urd Beans),Orai,2017-02-13,4600.0,75.0,25.5,clear
+1476,Black Gram (Urd Beans),Orai,2017-02-16,4400.0,200.0,26.0,clear
+1477,Black Gram (Urd Beans),Orai,2017-02-17,4700.0,250.0,29.5,clear
+1478,Black Gram (Urd Beans),Orai,2017-02-18,4700.0,250.0,17.0,clear
+1479,Lentil(Masur),Orai,2017-02-18,4200.0,20.0,17.0,clear
+1480,Black Gram (Urd Beans),Orai,2017-02-19,4600.0,375.0,30.5,clear
+1481,Lentil(Masur),Orai,2017-02-19,4100.0,10.0,30.5,clear
+1482,Black Gram (Urd Beans),Orai,2017-02-03,4200.0,150.0,12.5,clear
+1483,Lentil(Masur),Jalaun,2017-02-03,3852.0,3.9,12.5,clear
+1484,Lentil(Masur),Konch,2017-02-03,3700.0,17.0,12.5,clear
+1485,Lentil(Masur),Orai,2017-02-03,3850.0,50.0,12.5,clear
+1486,Black Gram (Urd Beans),Orai,2017-03-03,4200.0,200.0,31.0,clear
+1487,Lentil(Masur),Jalaun,2017-03-03,3891.0,4.2,31.0,clear
+1488,Lentil(Masur),Konch,2017-03-03,3700.0,21.0,31.0,clear
+1489,Lentil(Masur),Orai,2017-03-03,3880.0,60.0,31.0,clear
+1490,Black Gram (Urd Beans),Orai,2017-03-17,4500.0,50.0,30.5,clear
+1491,Lentil(Masur),Jalaun,2017-03-17,3836.0,40.0,30.5,clear
+1492,Lentil(Masur),Konch,2017-03-17,3821.0,25.0,30.5,clear
+1493,Lentil(Masur),Orai,2017-03-17,4000.0,125.0,30.5,clear
+1494,Green Gram (Moong),Jalaun,2017-06-06,3580.0,10.0,42.0,clear
+1495,Lentil(Masur),Jalaun,2017-06-06,3300.0,1.0,42.0,clear
+1496,Green Gram (Moong),Jalaun,2017-06-13,3850.0,20.0,42.0,clear
+1497,Lentil(Masur),Jalaun,2017-06-13,3400.0,4.6,42.0,clear
+1498,Lentil(Masur),Konch,2017-06-13,3300.0,6.0,42.0,clear
+1499,Green Gram (Moong),Jalaun,2017-06-17,4150.0,15.0,37.5,clear
+1500,Lentil(Masur),Jalaun,2017-06-17,3350.0,1.7,37.5,clear
+1501,Lentil(Masur),Konch,2017-06-17,3301.0,13.0,37.5,clear
+1502,Green Gram (Moong),Jalaun,2017-06-20,4000.0,7.0,39.5,clear
+1503,Lentil(Masur),Jalaun,2017-06-20,3300.0,1.5,39.5,clear
+1504,Lentil(Masur),Ait,2017-03-07,3462.0,1.0,19.0,clear
+1505,Lentil(Masur),Konch,2017-03-07,3300.0,6.0,19.0,clear
+1506,Lentil(Masur),Ait,2017-07-27,3040.0,1.5,30.5,clear
+1507,Lentil(Masur),Jalaun,2017-07-27,2950.0,7.5,30.5,clear
+1508,Lentil(Masur),Konch,2017-07-27,2950.0,4.5,30.5,clear
+1509,Lentil(Masur),Madhogarh,2017-07-27,3040.0,2.2,30.5,clear
+1510,Lentil(Masur),Orai,2017-07-27,3006.0,14.5,30.5,clear
+1511,Lentil(Masur),Ait,2017-07-08,3250.0,3.5,24.0,clear
+1512,Lentil(Masur),Ait,2017-08-15,3698.0,1.5,33.5,clear
+1513,Lentil(Masur),Jalaun,2017-08-15,3325.0,9.0,33.5,clear
+1514,Lentil(Masur),Madhogarh,2017-08-15,3665.0,3.5,33.5,clear
+1515,Lentil(Masur),Ait,2017-08-24,3532.0,1.6,34.4,clear
+1516,Lentil(Masur),Jalaun,2017-08-24,3450.0,3.8,34.4,clear
+1517,Lentil(Masur),Madhogarh,2017-08-24,3550.0,1.8,34.4,clear
+1518,Lentil(Masur),Ait,2017-08-29,3656.0,1.4,28.0,clear
+1519,Lentil(Masur),Jalaun,2017-08-29,3400.0,6.5,28.0,clear
+1520,Lentil(Masur),Madhogarh,2017-08-29,3550.0,6.0,28.0,clear
+1521,Lentil(Masur),Ait,2017-09-19,3379.0,1.2,32.5,clear
+1522,Lentil(Masur),Jalaun,2017-09-19,3200.0,23.3,32.5,clear
+1523,Lentil(Masur),Kadaura,2017-09-19,3325.0,5.0,32.5,clear
+1524,Lentil(Masur),Konch,2017-09-19,3161.0,20.0,32.5,clear
+1525,Lentil(Masur),Madhogarh,2017-09-19,3178.0,3.5,32.5,clear
+1526,Lentil(Masur),Ait,2017-09-26,3312.0,1.5,34.0,clear
+1527,Lentil(Masur),Jalaun,2017-09-26,3100.0,6.6,34.0,clear
+1528,Lentil(Masur),Konch,2017-09-26,3040.0,48.0,34.0,clear
+1529,Lentil(Masur),Madhogarh,2017-09-26,3050.0,3.5,34.0,clear
+1530,Lentil(Masur),Ait,2017-09-30,3332.0,1.3,35.0,clear
+1531,Lentil(Masur),Jalaun,2017-09-30,3080.0,1.0,35.0,clear
+1532,Lentil(Masur),Kadaura,2017-09-30,3105.0,5.3,35.0,clear
+1533,Lentil(Masur),Ait,2017-03-10,3322.0,1.5,19.5,clear
+1534,Lentil(Masur),Jalaun,2017-03-10,3050.0,6.2,19.5,clear
+1535,Lentil(Masur),Kadaura,2017-03-10,3105.0,1.0,19.5,clear
+1536,Lentil(Masur),Konch,2017-03-10,3005.0,250.0,19.5,clear
+1537,Lentil(Masur),Madhogarh,2017-03-10,3130.0,1.4,19.5,clear
+1538,Lentil(Masur),Ait,2017-07-10,2840.0,1.8,32.5,clear
+1539,Lentil(Masur),Jalaun,2017-07-10,2850.0,8.5,32.5,clear
+1540,Lentil(Masur),Kadaura,2017-07-10,2995.0,5.0,32.5,clear
+1541,Lentil(Masur),Jalaun,2017-02-28,3351.0,0.0,32.0,clear
+1542,Lentil(Masur),Jalaun,2017-01-03,3755.0,0.5,18.0,clear
+1543,Lentil(Masur),Orai,2017-01-03,3691.0,70.0,18.0,clear
+1544,Lentil(Masur),Jalaun,2017-04-03,3801.0,4.8,40.0,clear
+1545,Lentil(Masur),Konch,2017-04-03,3750.0,19.0,40.0,clear
+1546,Lentil(Masur),Orai,2017-04-03,3707.0,50.0,40.0,clear
+1547,Lentil(Masur),Jalaun,2017-05-03,3721.0,2.6,40.5,clear
+1548,Lentil(Masur),Orai,2017-05-03,3750.0,40.0,40.5,clear
+1549,Lentil(Masur),Jalaun,2017-07-03,3853.0,6.9,29.5,clear
+1550,Lentil(Masur),Konch,2017-07-03,3800.0,30.0,29.5,clear
+1551,Lentil(Masur),Jalaun,2017-08-03,3951.0,12.0,33.0,clear
+1552,Lentil(Masur),Orai,2017-08-03,3975.0,65.0,33.0,clear
+1553,Lentil(Masur),Jalaun,2017-09-03,3802.0,32.0,31.0,clear
+1554,Lentil(Masur),Konch,2017-09-03,3850.0,45.0,31.0,clear
+1555,Lentil(Masur),Orai,2017-09-03,3950.0,90.0,31.0,clear
+1556,Lentil(Masur),Jalaun,2017-11-03,3100.0,30.0,31.5,clear
+1557,Lentil(Masur),Orai,2017-11-03,3955.0,65.0,31.5,clear
+1558,Lentil(Masur),Jalaun,2017-12-03,3000.0,29.0,26.0,clear
+1559,Lentil(Masur),Jalaun,2017-03-14,3851.0,23.5,25.0,clear
+1560,Lentil(Masur),Konch,2017-03-14,3851.0,15.0,25.0,clear
+1561,Lentil(Masur),Jalaun,2017-03-15,3800.0,28.0,28.5,clear
+1562,Lentil(Masur),Orai,2017-03-15,3877.0,50.0,28.5,clear
+1563,Lentil(Masur),Jalaun,2017-03-16,3820.0,40.5,30.5,clear
+1564,Lentil(Masur),Konch,2017-03-16,3800.0,21.0,30.5,clear
+1565,Lentil(Masur),Orai,2017-03-16,3880.0,95.0,30.5,clear
+1566,Lentil(Masur),Jalaun,2017-03-21,4281.0,49.7,32.0,clear
+1567,Lentil(Masur),Konch,2017-03-21,4151.0,35.0,32.0,clear
+1568,Lentil(Masur),Jalaun,2017-03-23,4538.0,50.0,35.0,clear
+1569,Lentil(Masur),Konch,2017-03-23,4350.0,75.0,35.0,clear
+1570,Lentil(Masur),Orai,2017-03-23,4522.0,160.0,35.0,clear
+1571,Lentil(Masur),Jalaun,2017-03-28,4200.0,50.0,37.0,clear
+1572,Lentil(Masur),Konch,2017-03-28,4000.0,38.0,37.0,clear
+1573,Lentil(Masur),Jalaun,2017-04-04,4112.0,12.0,30.0,clear
+1574,Lentil(Masur),Jalaun,2017-11-04,3977.0,10.5,31.0,clear
+1575,Lentil(Masur),Konch,2017-11-04,3700.0,35.0,31.0,clear
+1576,Lentil(Masur),Jalaun,2017-04-18,3871.0,27.0,43.0,clear
+1577,Lentil(Masur),Konch,2017-04-18,3735.0,31.0,43.0,clear
+1578,Lentil(Masur),Jalaun,2017-02-05,3781.0,7.0,24.0,clear
+1579,Lentil(Masur),Jalaun,2017-05-16,3700.0,7.0,42.5,clear
+1580,Lentil(Masur),Konch,2017-05-16,3700.0,27.0,42.5,clear
+1581,Lentil(Masur),Jalaun,2017-05-23,3600.0,3.5,40.5,clear
+1582,Lentil(Masur),Konch,2017-05-23,3540.0,14.5,40.5,clear
+1583,Lentil(Masur),Jalaun,2017-05-30,3230.0,3.5,38.5,clear
+1584,Lentil(Masur),Konch,2017-05-30,3200.0,19.0,38.5,clear
+1585,Lentil(Masur),Jalaun,2017-06-27,3390.0,3.0,37.5,clear
+1586,Lentil(Masur),Jalaun,2017-04-07,3320.0,1.0,37.0,clear
+1587,Lentil(Masur),Konch,2017-04-07,3300.0,12.0,37.0,clear
+1588,Lentil(Masur),Jalaun,2017-11-07,3250.0,2.5,30.5,clear
+1589,Lentil(Masur),Konch,2017-11-07,3275.0,24.0,30.5,clear
+1590,Lentil(Masur),Madhogarh,2017-11-07,3345.0,4.0,30.5,clear
+1591,Lentil(Masur),Jalaun,2017-07-18,3162.0,7.6,33.5,clear
+1592,Lentil(Masur),Konch,2017-07-18,3156.0,18.0,33.5,clear
+1593,Lentil(Masur),Jalaun,2017-07-25,3000.0,4.4,31.0,clear
+1594,Lentil(Masur),Konch,2017-07-25,3005.0,9.0,31.0,clear
+1595,Lentil(Masur),Jalaun,2017-03-08,3250.0,8.6,31.5,clear
+1596,Lentil(Masur),Madhogarh,2017-03-08,3160.0,1.4,31.5,clear
+1597,Lentil(Masur),Jalaun,2017-08-22,3600.0,10.3,33.5,clear
+1598,Lentil(Masur),Konch,2017-08-22,3501.0,150.0,33.5,clear
+1599,Lentil(Masur),Madhogarh,2017-08-22,3513.0,3.4,33.5,clear
+1600,Lentil(Masur),Jalaun,2017-05-09,3350.0,18.0,38.0,clear
+1601,Lentil(Masur),Madhogarh,2017-05-09,3360.0,7.0,38.0,clear
+1602,Lentil(Masur),Jalaun,2017-09-29,3050.0,3.6,34.3,clear
+1603,Lentil(Masur),Jalaun,2017-10-10,2850.0,8.5,36.0,clear
+1604,Lentil(Masur),Konch,2017-10-10,2850.0,36.0,36.0,clear
+1605,Lentil(Masur),Jalaun,2017-10-17,2900.0,4.2,36.5,clear
+1606,Lentil(Masur),Kadaura,2017-10-17,2895.0,2.5,36.5,clear
+1607,Lentil(Masur),Madhogarh,2017-10-17,2850.0,1.8,36.5,clear
+1608,Lentil(Masur),Jalaun,2017-10-21,2940.0,2.2,36.0,clear
+1609,Lentil(Masur),Konch,2017-10-21,2901.0,17.0,36.0,clear
+1610,Lentil(Masur),Jalaun,2017-10-24,2850.0,19.7,36.5,clear
+1611,Lentil(Masur),Kadaura,2017-10-24,2895.0,17.0,36.5,clear
+1612,Lentil(Masur),Konch,2017-10-24,2810.0,0.0,36.5,clear
+1613,Lentil(Masur),Madhogarh,2017-10-24,2850.0,17.6,36.5,clear
+1614,Lentil(Masur),Jalaun,2017-10-31,2650.0,16.0,31.5,clear
+1615,Lentil(Masur),Kadaura,2017-10-31,2710.0,5.0,31.5,clear
+1616,Lentil(Masur),Konch,2017-10-31,2650.0,25.0,31.5,clear
+1617,Lentil(Masur),Kadaura,2017-04-11,2690.0,16.1,38.5,clear
+1618,Lentil(Masur),Madhogarh,2017-04-11,2750.0,6.5,38.5,clear
+1619,Lentil(Masur),Konch,2017-01-01,4400.0,2.5,16.5,clear
+1620,Lentil(Masur),Konch,2017-02-01,4310.0,4.0,24.0,clear
+1621,Lentil(Masur),Konch,2017-10-01,3800.0,3.5,34.5,clear
+1622,Lentil(Masur),Konch,2017-01-17,3800.0,3.0,20.5,clear
+1623,Lentil(Masur),Konch,2017-01-27,3500.0,0.0,21.5,clear
+1624,Lentil(Masur),Konch,2017-01-31,3510.0,3.5,24.0,clear
+1625,Lentil(Masur),Konch,2017-02-26,3710.0,6.0,29.5,clear
+1626,Lentil(Masur),Orai,2017-02-26,3700.0,20.0,29.5,clear
+1627,Lentil(Masur),Konch,2017-02-27,3567.0,12.0,31.0,clear
+1628,Lentil(Masur),Orai,2017-02-27,3700.0,40.0,31.0,clear
+1629,Lentil(Masur),Konch,2017-06-03,3721.0,25.0,44.0,clear
+1630,Lentil(Masur),Orai,2017-06-03,3751.0,50.0,44.0,clear
+1631,Lentil(Masur),Konch,2017-07-04,3891.0,38.0,31.5,clear
+1632,Lentil(Masur),Konch,2017-09-05,3600.0,16.0,31.5,clear
+1633,Lentil(Masur),Konch,2017-12-05,3700.0,20.0,23.5,clear
+1634,Lentil(Masur),Konch,2017-09-25,3090.0,6.5,34.0,clear
+1635,Lentil(Masur),Madhogarh,2017-09-25,3062.0,2.8,34.0,clear
+1636,Lentil(Masur),Madhogarh,2017-05-11,2767.0,5.6,41.0,clear
+1637,Lentil(Masur),Orai,2017-02-24,3750.0,20.0,30.0,clear
+1638,Lentil(Masur),Orai,2017-02-25,3781.0,15.0,21.0,clear
+1639,Lentil(Masur),Orai,2017-10-03,3922.0,75.0,35.5,clear

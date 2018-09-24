@@ -1,0 +1,460 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Green Gram (Moong),Goalpara,2015-12-07,9500.0,7.5,25.2,clear
+1,Lentil(Masur),Goalpara,2015-12-07,8000.0,6.0,25.2,clear
+2,Green Gram (Moong),Goalpara,2015-12-08,10000.0,7.5,25.0,clear
+3,Lentil(Masur),Goalpara,2015-12-08,8000.0,8.0,25.0,clear
+4,Green Gram (Moong),Goalpara,2015-12-10,10000.0,5.0,22.8,clear
+5,Lentil(Masur),Goalpara,2015-12-10,9700.0,5.5,22.8,clear
+6,Green Gram (Moong),Goalpara,2015-12-11,10000.0,6.6,13.6,clear
+7,Lentil(Masur),Goalpara,2015-12-11,9700.0,5.0,13.6,clear
+8,Green Gram (Moong),Goalpara,2015-12-15,11500.0,5.5,22.6,clear
+9,Lentil(Masur),Goalpara,2015-12-15,9800.0,4.6,22.6,clear
+10,Green Gram (Moong),Goalpara,2015-12-16,11500.0,5.2,13.6,clear
+11,Lentil(Masur),Goalpara,2015-12-16,9800.0,5.0,13.6,clear
+12,Green Gram (Moong),Goalpara,2015-12-17,11500.0,6.0,22.2,clear
+13,Lentil(Masur),Goalpara,2015-12-17,9800.0,6.2,22.2,clear
+14,Green Gram (Moong),Goalpara,2015-12-19,11500.0,6.5,20.8,clear
+15,Lentil(Masur),Goalpara,2015-12-19,9800.0,5.0,20.8,clear
+16,Green Gram (Moong),Goalpara,2015-12-20,11500.0,5.0,21.0,clear
+17,Lentil(Masur),Goalpara,2015-12-20,9800.0,5.2,21.0,clear
+18,Green Gram (Moong),Goalpara,2015-12-21,11500.0,5.6,21.6,clear
+19,Lentil(Masur),Goalpara,2015-12-21,9800.0,4.0,21.6,clear
+20,Green Gram (Moong),Goalpara,2015-12-22,11500.0,4.0,21.8,clear
+21,Lentil(Masur),Goalpara,2015-12-22,9800.0,4.6,21.8,clear
+22,Green Gram (Moong),Goalpara,2015-12-23,11500.0,5.5,22.8,clear
+23,Lentil(Masur),Goalpara,2015-12-23,9800.0,5.0,22.8,clear
+24,Green Gram (Moong),Goalpara,2015-12-25,11500.0,3.4,22.6,clear
+25,Lentil(Masur),Goalpara,2015-12-25,9800.0,5.0,22.6,clear
+26,Green Gram (Moong),Goalpara,2015-12-26,11500.0,4.6,22.8,clear
+27,Lentil(Masur),Goalpara,2015-12-26,9800.0,6.0,22.8,clear
+28,Green Gram (Moong),Goalpara,2015-12-27,11500.0,3.2,23.0,clear
+29,Lentil(Masur),Goalpara,2015-12-27,9800.0,5.2,23.0,clear
+30,Green Gram (Moong),Goalpara,2015-12-28,11500.0,14.5,23.0,clear
+31,Lentil(Masur),Goalpara,2015-12-28,9800.0,16.2,23.0,clear
+32,Green Gram (Moong),Goalpara,2015-12-29,11500.0,9.8,24.2,clear
+33,Lentil(Masur),Goalpara,2015-12-29,9800.0,11.0,24.2,clear
+34,Green Gram (Moong),Goalpara,2015-12-30,11500.0,9.0,24.2,clear
+35,Lentil(Masur),Goalpara,2015-12-30,9800.0,9.5,24.2,clear
+36,Green Gram (Moong),Goalpara,2015-12-31,11500.0,9.0,24.6,clear
+37,Lentil(Masur),Goalpara,2015-12-31,9800.0,9.5,24.6,clear
+38,Arhar (Tur/Red Gram),Goalpara,2016-03-03,14900.0,5.0,30.0,clear
+39,Green Gram (Moong),Goalpara,2016-03-03,11000.0,6.0,30.0,clear
+40,Lentil(Masur),Goalpara,2016-03-03,9500.0,9.0,30.0,clear
+41,Arhar (Tur/Red Gram),Goalpara,2016-04-03,14900.0,0.0,28.6,clear
+42,Green Gram (Moong),Goalpara,2016-04-03,11000.0,6.4,28.6,clear
+43,Lentil(Masur),Goalpara,2016-04-03,9500.0,8.5,28.6,clear
+44,Arhar (Tur/Red Gram),Goalpara,2016-06-03,14900.0,4.2,35.2,clear
+45,Green Gram (Moong),Goalpara,2016-06-03,11000.0,6.0,35.2,clear
+46,Lentil(Masur),Goalpara,2016-06-03,9500.0,8.2,35.2,clear
+47,Arhar (Tur/Red Gram),Goalpara,2016-09-03,14900.0,5.2,27.6,clear
+48,Green Gram (Moong),Goalpara,2016-09-03,11000.0,6.2,27.6,clear
+49,Lentil(Masur),Goalpara,2016-09-03,9500.0,9.0,27.6,clear
+50,Arhar (Tur/Red Gram),Goalpara,2016-10-03,14900.0,5.0,34.0,clear
+51,Green Gram (Moong),Goalpara,2016-10-03,11000.0,6.0,34.0,clear
+52,Lentil(Masur),Goalpara,2016-10-03,9500.0,12.0,34.0,clear
+53,Arhar (Tur/Red Gram),Goalpara,2016-11-03,14900.0,5.6,32.6,clear
+54,Green Gram (Moong),Goalpara,2016-11-03,11000.0,5.4,32.6,clear
+55,Lentil(Masur),Goalpara,2016-11-03,9500.0,11.5,32.6,clear
+56,Arhar (Tur/Red Gram),Goalpara,2016-12-03,14900.0,5.0,19.6,clear
+57,Green Gram (Moong),Goalpara,2016-12-03,11000.0,7.2,19.6,clear
+58,Lentil(Masur),Goalpara,2016-12-03,9500.0,11.0,19.6,clear
+59,Arhar (Tur/Red Gram),Goalpara,2016-03-13,14900.0,4.6,32.6,clear
+60,Green Gram (Moong),Goalpara,2016-03-13,11000.0,6.0,32.6,clear
+61,Lentil(Masur),Goalpara,2016-03-13,9500.0,9.5,32.6,clear
+62,Arhar (Tur/Red Gram),Goalpara,2016-03-14,14900.0,5.2,23.0,clear
+63,Green Gram (Moong),Goalpara,2016-03-14,11000.0,6.5,23.0,clear
+64,Lentil(Masur),Goalpara,2016-03-14,9500.0,9.2,23.0,clear
+65,Arhar (Tur/Red Gram),Goalpara,2016-03-18,14900.0,6.0,31.0,clear
+66,Green Gram (Moong),Goalpara,2016-03-18,11000.0,5.0,31.0,clear
+67,Lentil(Masur),Goalpara,2016-03-18,9400.0,9.2,31.0,clear
+68,Arhar (Tur/Red Gram),Goalpara,2016-03-22,14900.0,4.0,32.8,clear
+69,Green Gram (Moong),Goalpara,2016-03-22,11000.0,4.5,32.8,clear
+70,Lentil(Masur),Goalpara,2016-03-22,9400.0,6.4,32.8,clear
+71,Arhar (Tur/Red Gram),Goalpara,2016-03-28,14900.0,4.0,23.0,clear
+72,Green Gram (Moong),Goalpara,2016-03-28,11000.0,4.5,23.0,clear
+73,Lentil(Masur),Goalpara,2016-03-28,9400.0,8.2,23.0,clear
+74,Arhar (Tur/Red Gram),Goalpara,2016-03-29,14900.0,3.6,24.6,clear
+75,Green Gram (Moong),Goalpara,2016-03-29,11000.0,4.0,24.6,clear
+76,Lentil(Masur),Goalpara,2016-03-29,9400.0,8.0,24.6,clear
+77,Arhar (Tur/Red Gram),Goalpara,2016-03-30,14900.0,4.5,22.6,clear
+78,Green Gram (Moong),Goalpara,2016-03-30,11000.0,4.6,22.6,clear
+79,Lentil(Masur),Goalpara,2016-03-30,9400.0,7.0,22.6,clear
+80,Arhar (Tur/Red Gram),Goalpara,2016-03-31,14900.0,4.0,21.4,clear
+81,Green Gram (Moong),Goalpara,2016-03-31,11000.0,4.8,21.4,clear
+82,Lentil(Masur),Goalpara,2016-03-31,9400.0,6.5,21.4,clear
+83,Arhar (Tur/Red Gram),Goalpara,2016-03-05,14000.0,4.0,20.6,clear
+84,Green Gram (Moong),Goalpara,2016-03-05,9750.0,5.6,20.6,clear
+85,Lentil(Masur),Goalpara,2016-03-05,9000.0,9.0,20.6,clear
+86,Arhar (Tur/Red Gram),Goalpara,2016-05-30,14000.0,5.2,32.4,clear
+87,Green Gram (Moong),Goalpara,2016-05-30,9400.0,7.0,32.4,clear
+88,Lentil(Masur),Goalpara,2016-05-30,9200.0,10.5,32.4,clear
+89,Arhar (Tur/Red Gram),Goalpara,2016-06-06,14000.0,0.9,32.4,clear
+90,Green Gram (Moong),Goalpara,2016-06-06,9400.0,5.2,32.4,clear
+91,Lentil(Masur),Goalpara,2016-06-06,9200.0,7.0,32.4,clear
+92,Arhar (Tur/Red Gram),Goalpara,2016-07-06,14000.0,0.8,29.8,clear
+93,Green Gram (Moong),Goalpara,2016-07-06,9400.0,5.0,29.8,clear
+94,Lentil(Masur),Goalpara,2016-07-06,9200.0,6.4,29.8,clear
+95,Arhar (Tur/Red Gram),Goalpara,2016-06-14,14000.0,1.0,30.2,clear
+96,Green Gram (Moong),Goalpara,2016-06-14,9400.0,5.0,30.2,clear
+97,Lentil(Masur),Goalpara,2016-06-14,9200.0,7.0,30.2,clear
+98,Arhar (Tur/Red Gram),Goalpara,2016-06-18,14000.0,0.8,32.6,clear
+99,Green Gram (Moong),Goalpara,2016-06-18,9250.0,5.5,32.6,clear
+100,Lentil(Masur),Goalpara,2016-06-18,8000.0,24.1,32.6,clear
+101,Arhar (Tur/Red Gram),Goalpara,2016-01-09,11000.0,3.2,22.4,clear
+102,Bengal Gram(Gram),Goalpara,2016-01-09,9300.0,17.0,22.4,clear
+103,Green Gram (Moong),Goalpara,2016-01-09,8000.0,9.0,22.4,clear
+104,Lentil(Masur),Goalpara,2016-01-09,8200.0,13.6,22.4,clear
+105,Arhar (Tur/Red Gram),Goalpara,2016-02-09,11000.0,1.8,12.0,clear
+106,Bengal Gram(Gram),Goalpara,2016-02-09,9300.0,8.7,12.0,clear
+107,Green Gram (Moong),Goalpara,2016-02-09,8000.0,4.7,12.0,clear
+108,Lentil(Masur),Goalpara,2016-02-09,8200.0,7.2,12.0,clear
+109,Arhar (Tur/Red Gram),Goalpara,2016-05-09,11000.0,2.0,31.4,clear
+110,Bengal Gram(Gram),Goalpara,2016-05-09,9300.0,8.7,31.4,clear
+111,Green Gram (Moong),Goalpara,2016-05-09,8000.0,7.0,31.4,clear
+112,Lentil(Masur),Goalpara,2016-05-09,8200.0,11.0,31.4,clear
+113,Arhar (Tur/Red Gram),Goalpara,2016-09-13,11000.0,1.4,32.2,clear
+114,Lentil(Masur),Goalpara,2016-09-13,8200.0,7.5,32.2,clear
+115,Arhar (Tur/Red Gram),Goalpara,2016-09-18,11000.0,1.8,27.8,clear
+116,Lentil(Masur),Goalpara,2016-09-18,8700.0,6.8,27.8,clear
+117,Arhar (Tur/Red Gram),Goalpara,2016-09-19,11000.0,1.0,29.0,clear
+118,Lentil(Masur),Goalpara,2016-09-19,8700.0,6.0,29.0,clear
+119,Arhar (Tur/Red Gram),Goalpara,2016-09-20,11000.0,0.8,29.2,clear
+120,Lentil(Masur),Goalpara,2016-09-20,8700.0,5.5,29.2,clear
+121,Arhar (Tur/Red Gram),Goalpara,2016-03-10,10500.0,1.2,32.2,clear
+122,Arhar (Tur/Red Gram),Goalpara,2016-05-10,10400.0,1.2,33.4,clear
+123,Arhar (Tur/Red Gram),Goalpara,2016-07-10,10400.0,1.3,29.6,clear
+124,Arhar (Tur/Red Gram),Goalpara,2016-12-10,10400.0,1.4,19.6,clear
+125,Arhar (Tur/Red Gram),Goalpara,2016-10-13,10400.0,1.8,29.0,clear
+126,Arhar (Tur/Red Gram),Goalpara,2016-10-15,10400.0,1.5,30.2,clear
+127,Arhar (Tur/Red Gram),Goalpara,2016-10-17,10400.0,1.0,32.0,clear
+128,Arhar (Tur/Red Gram),Goalpara,2016-10-18,10400.0,1.2,31.6,clear
+129,Arhar (Tur/Red Gram),Goalpara,2016-10-23,10400.0,2.0,27.4,clear
+130,Arhar (Tur/Red Gram),Goalpara,2016-10-25,10400.0,1.6,27.6,clear
+131,Arhar (Tur/Red Gram),Goalpara,2016-10-27,10400.0,1.8,29.2,clear
+132,Arhar (Tur/Red Gram),Goalpara,2016-10-28,10400.0,1.5,26.2,clear
+133,Arhar (Tur/Red Gram),Goalpara,2016-10-30,10400.0,1.8,29.8,clear
+134,Arhar (Tur/Red Gram),Goalpara,2016-10-31,10400.0,1.4,27.8,clear
+135,Arhar (Tur/Red Gram),Goalpara,2016-01-11,10400.0,5.3,23.6,clear
+136,Arhar (Tur/Red Gram),Goalpara,2016-02-11,10400.0,5.0,23.4,clear
+137,Arhar (Tur/Red Gram),Goalpara,2016-03-11,10400.0,4.2,23.2,clear
+138,Arhar (Tur/Red Gram),Goalpara,2016-05-11,10400.0,3.6,32.0,clear
+139,Arhar (Tur/Red Gram),Goalpara,2016-06-11,10400.0,3.8,28.4,clear
+140,Arhar (Tur/Red Gram),Goalpara,2016-07-11,10400.0,4.6,30.2,clear
+141,Arhar (Tur/Red Gram),Goalpara,2016-09-11,10400.0,4.4,30.2,clear
+142,Arhar (Tur/Red Gram),Goalpara,2016-11-18,10300.0,1.0,27.6,clear
+143,Arhar (Tur/Red Gram),Goalpara,2016-11-21,10300.0,1.2,27.6,clear
+144,Arhar (Tur/Red Gram),Goalpara,2016-02-12,11000.0,1.0,24.2,clear
+145,Arhar (Tur/Red Gram),Goalpara,2016-06-12,11000.0,1.4,32.4,clear
+146,Arhar (Tur/Red Gram),Goalpara,2016-12-13,11000.0,1.8,26.8,clear
+147,Arhar (Tur/Red Gram),Goalpara,2016-12-16,11000.0,1.5,27.0,clear
+148,Arhar (Tur/Red Gram),Goalpara,2016-12-17,11000.0,1.2,27.0,clear
+149,Arhar (Tur/Red Gram),Goalpara,2016-12-18,11000.0,1.0,17.8,clear
+150,Arhar (Tur/Red Gram),Goalpara,2016-12-20,11000.0,1.8,26.6,clear
+151,Arhar (Tur/Red Gram),Goalpara,2016-12-30,9200.0,6.5,25.2,clear
+152,Bengal Gram(Gram),Goalpara,2016-10-06,7425.0,8.0,32.2,clear
+153,Green Gram (Moong),Goalpara,2016-10-06,9400.0,5.0,32.2,clear
+154,Lentil(Masur),Goalpara,2016-10-06,9200.0,9.8,32.2,clear
+155,Bengal Gram(Gram),Goalpara,2016-06-15,7400.0,18.8,28.0,clear
+156,Green Gram (Moong),Goalpara,2016-06-15,9250.0,4.6,28.0,clear
+157,Lentil(Masur),Goalpara,2016-06-15,8000.0,26.6,28.0,clear
+158,Bengal Gram(Gram),Goalpara,2016-06-16,7450.0,16.6,32.6,clear
+159,Green Gram (Moong),Goalpara,2016-06-16,9250.0,4.0,32.6,clear
+160,Lentil(Masur),Goalpara,2016-06-16,8000.0,16.0,32.6,clear
+161,Bengal Gram(Gram),Goalpara,2016-06-17,7450.0,18.0,28.6,clear
+162,Lentil(Masur),Goalpara,2016-06-17,8000.0,25.0,28.6,clear
+163,Bengal Gram(Gram),Goalpara,2016-06-22,7450.0,13.4,29.0,clear
+164,Green Gram (Moong),Goalpara,2016-06-22,9250.0,4.2,29.0,clear
+165,Lentil(Masur),Goalpara,2016-06-22,8000.0,18.2,29.0,clear
+166,Bengal Gram(Gram),Goalpara,2016-06-24,7450.0,9.9,26.2,clear
+167,Green Gram (Moong),Goalpara,2016-06-24,9250.0,5.0,26.2,clear
+168,Lentil(Masur),Goalpara,2016-06-24,8000.0,10.5,26.2,clear
+169,Bengal Gram(Gram),Goalpara,2016-06-26,7450.0,9.2,29.8,clear
+170,Green Gram (Moong),Goalpara,2016-06-26,9250.0,4.4,29.8,clear
+171,Lentil(Masur),Goalpara,2016-06-26,8000.0,10.5,29.8,clear
+172,Bengal Gram(Gram),Goalpara,2016-06-27,7450.0,10.5,29.6,clear
+173,Green Gram (Moong),Goalpara,2016-06-27,9250.0,4.2,29.6,clear
+174,Lentil(Masur),Goalpara,2016-06-27,8000.0,10.0,29.6,clear
+175,Bengal Gram(Gram),Goalpara,2016-06-28,7450.0,13.0,28.6,clear
+176,Green Gram (Moong),Goalpara,2016-06-28,9250.0,4.0,28.6,clear
+177,Lentil(Masur),Goalpara,2016-06-28,8000.0,14.0,28.6,clear
+178,Bengal Gram(Gram),Goalpara,2016-05-07,7450.0,10.5,21.6,clear
+179,Green Gram (Moong),Goalpara,2016-05-07,8890.0,4.0,21.6,clear
+180,Lentil(Masur),Goalpara,2016-05-07,9200.0,8.2,21.6,clear
+181,Bengal Gram(Gram),Goalpara,2016-08-07,7450.0,8.0,28.6,clear
+182,Green Gram (Moong),Goalpara,2016-08-07,8890.0,7.0,28.6,clear
+183,Lentil(Masur),Goalpara,2016-08-07,9200.0,11.0,28.6,clear
+184,Bengal Gram(Gram),Goalpara,2016-10-07,7450.0,6.8,28.0,clear
+185,Green Gram (Moong),Goalpara,2016-10-07,8890.0,5.4,28.0,clear
+186,Lentil(Masur),Goalpara,2016-10-07,9200.0,10.0,28.0,clear
+187,Bengal Gram(Gram),Goalpara,2016-11-07,7450.0,7.4,28.0,clear
+188,Green Gram (Moong),Goalpara,2016-11-07,8890.0,5.2,28.0,clear
+189,Lentil(Masur),Goalpara,2016-11-07,9200.0,9.6,28.0,clear
+190,Bengal Gram(Gram),Goalpara,2016-12-07,7450.0,6.8,27.8,clear
+191,Green Gram (Moong),Goalpara,2016-12-07,8890.0,5.0,27.8,clear
+192,Lentil(Masur),Goalpara,2016-12-07,9200.0,9.4,27.8,clear
+193,Bengal Gram(Gram),Goalpara,2016-07-13,7450.0,6.1,32.2,clear
+194,Green Gram (Moong),Goalpara,2016-07-13,8890.0,4.6,32.2,clear
+195,Lentil(Masur),Goalpara,2016-07-13,9200.0,8.0,32.2,clear
+196,Bengal Gram(Gram),Goalpara,2016-07-15,7450.0,5.5,31.6,clear
+197,Green Gram (Moong),Goalpara,2016-07-15,8890.0,4.0,31.6,clear
+198,Lentil(Masur),Goalpara,2016-07-15,9200.0,7.2,31.6,clear
+199,Bengal Gram(Gram),Goalpara,2016-07-20,7450.0,6.2,28.4,clear
+200,Green Gram (Moong),Goalpara,2016-07-20,8890.0,3.6,28.4,clear
+201,Lentil(Masur),Goalpara,2016-07-20,9200.0,6.0,28.4,clear
+202,Bengal Gram(Gram),Goalpara,2016-07-22,7450.0,7.6,26.6,clear
+203,Green Gram (Moong),Goalpara,2016-07-22,8890.0,5.0,26.6,clear
+204,Lentil(Masur),Goalpara,2016-07-22,9200.0,7.2,26.6,clear
+205,Bengal Gram(Gram),Goalpara,2016-07-25,7450.0,6.2,27.4,rain
+206,Green Gram (Moong),Goalpara,2016-07-25,8890.0,4.2,27.4,rain
+207,Lentil(Masur),Goalpara,2016-07-25,9200.0,6.4,27.4,rain
+208,Bengal Gram(Gram),Goalpara,2016-07-26,7450.0,5.7,28.0,clear
+209,Green Gram (Moong),Goalpara,2016-07-26,8890.0,4.0,28.0,clear
+210,Lentil(Masur),Goalpara,2016-07-26,9200.0,6.2,28.0,clear
+211,Bengal Gram(Gram),Goalpara,2016-07-27,7450.0,5.2,29.8,clear
+212,Green Gram (Moong),Goalpara,2016-07-27,8890.0,4.3,29.8,clear
+213,Lentil(Masur),Goalpara,2016-07-27,9200.0,6.0,29.8,clear
+214,Bengal Gram(Gram),Goalpara,2016-07-28,7450.0,5.6,27.0,clear
+215,Green Gram (Moong),Goalpara,2016-07-28,8890.0,4.0,27.0,clear
+216,Lentil(Masur),Goalpara,2016-07-28,9200.0,5.8,27.0,clear
+217,Bengal Gram(Gram),Goalpara,2016-07-29,7450.0,7.6,27.8,clear
+218,Green Gram (Moong),Goalpara,2016-07-29,8890.0,4.5,27.8,clear
+219,Lentil(Masur),Goalpara,2016-07-29,9200.0,7.5,27.8,clear
+220,Bengal Gram(Gram),Goalpara,2016-07-30,7450.0,6.8,32.0,clear
+221,Green Gram (Moong),Goalpara,2016-07-30,8890.0,4.4,32.0,clear
+222,Lentil(Masur),Goalpara,2016-07-30,9200.0,7.2,32.0,clear
+223,Bengal Gram(Gram),Goalpara,2016-09-09,9300.0,9.4,30.2,clear
+224,Green Gram (Moong),Goalpara,2016-09-09,8000.0,7.0,30.2,clear
+225,Lentil(Masur),Goalpara,2016-09-09,8200.0,8.4,30.2,clear
+226,Bengal Gram(Gram),Goalpara,2016-12-09,9300.0,10.6,27.6,clear
+227,Green Gram (Moong),Goalpara,2016-12-09,8000.0,5.2,27.6,clear
+228,Lentil(Masur),Goalpara,2016-12-09,8200.0,8.5,27.6,clear
+229,Black Gram (Urd Beans),Goalpara,2016-05-01,5750.0,250.0,30.2,clear
+230,Green Gram (Moong),Goalpara,2016-05-01,11500.0,7.0,30.2,clear
+231,Lentil(Masur),Goalpara,2016-05-01,9800.0,7.0,30.2,clear
+232,Black Gram (Urd Beans),Goalpara,2016-05-15,9025.0,1.0,27.4,clear
+233,Green Gram (Moong),Goalpara,2016-05-15,9400.0,5.2,27.4,clear
+234,Lentil(Masur),Goalpara,2016-05-15,9200.0,7.0,27.4,clear
+235,Green Gram (Moong),Goalpara,2016-01-01,11500.0,7.5,12.6,clear
+236,Lentil(Masur),Goalpara,2016-01-01,9800.0,8.0,12.6,clear
+237,Green Gram (Moong),Goalpara,2016-02-01,11500.0,5.5,18.6,clear
+238,Lentil(Masur),Goalpara,2016-02-01,9800.0,6.2,18.6,clear
+239,Green Gram (Moong),Goalpara,2016-03-01,11500.0,5.0,30.0,clear
+240,Lentil(Masur),Goalpara,2016-03-01,9800.0,9.0,30.0,clear
+241,Green Gram (Moong),Goalpara,2016-04-01,11500.0,6.0,26.2,clear
+242,Lentil(Masur),Goalpara,2016-04-01,9800.0,8.0,26.2,clear
+243,Green Gram (Moong),Goalpara,2016-09-01,11500.0,6.4,32.2,clear
+244,Lentil(Masur),Goalpara,2016-09-01,9800.0,7.5,32.2,clear
+245,Green Gram (Moong),Goalpara,2016-10-01,11500.0,6.0,31.6,clear
+246,Lentil(Masur),Goalpara,2016-10-01,9800.0,6.6,31.6,clear
+247,Green Gram (Moong),Goalpara,2016-11-01,11000.0,8.0,33.0,clear
+248,Lentil(Masur),Goalpara,2016-11-01,9600.0,5.6,33.0,clear
+249,Green Gram (Moong),Goalpara,2016-12-01,11000.0,6.5,27.8,clear
+250,Lentil(Masur),Goalpara,2016-12-01,9600.0,7.0,27.8,clear
+251,Green Gram (Moong),Goalpara,2016-01-13,11000.0,7.6,23.8,clear
+252,Lentil(Masur),Goalpara,2016-01-13,9600.0,6.2,23.8,clear
+253,Green Gram (Moong),Goalpara,2016-01-16,11000.0,7.5,23.2,clear
+254,Lentil(Masur),Goalpara,2016-01-16,9600.0,6.0,23.2,clear
+255,Green Gram (Moong),Goalpara,2016-01-17,11000.0,5.0,22.6,clear
+256,Lentil(Masur),Goalpara,2016-01-17,9600.0,5.6,22.6,clear
+257,Green Gram (Moong),Goalpara,2016-01-18,11000.0,6.0,21.8,clear
+258,Lentil(Masur),Goalpara,2016-01-18,9600.0,6.4,21.8,clear
+259,Green Gram (Moong),Goalpara,2016-01-19,11000.0,5.4,11.6,clear
+260,Lentil(Masur),Goalpara,2016-01-19,9600.0,7.0,11.6,clear
+261,Green Gram (Moong),Goalpara,2016-01-20,11000.0,6.0,18.0,clear
+262,Lentil(Masur),Goalpara,2016-01-20,9600.0,5.5,18.0,clear
+263,Green Gram (Moong),Goalpara,2016-01-23,11000.0,6.5,18.2,clear
+264,Lentil(Masur),Goalpara,2016-01-23,9600.0,6.0,18.2,clear
+265,Green Gram (Moong),Goalpara,2016-01-24,11000.0,6.0,16.6,clear
+266,Lentil(Masur),Goalpara,2016-01-24,9600.0,4.8,16.6,clear
+267,Green Gram (Moong),Goalpara,2016-01-25,11000.0,5.2,20.2,clear
+268,Lentil(Masur),Goalpara,2016-01-25,9600.0,5.5,20.2,clear
+269,Green Gram (Moong),Goalpara,2016-01-27,11000.0,5.6,21.2,clear
+270,Lentil(Masur),Goalpara,2016-01-27,9600.0,5.8,21.2,clear
+271,Green Gram (Moong),Goalpara,2016-01-28,11000.0,7.4,22.2,clear
+272,Lentil(Masur),Goalpara,2016-01-28,9600.0,6.2,22.2,clear
+273,Green Gram (Moong),Goalpara,2016-01-29,11000.0,7.0,12.8,clear
+274,Lentil(Masur),Goalpara,2016-01-29,9600.0,6.5,12.8,clear
+275,Green Gram (Moong),Goalpara,2016-01-30,11000.0,6.2,23.0,clear
+276,Lentil(Masur),Goalpara,2016-01-30,9600.0,6.0,23.0,clear
+277,Green Gram (Moong),Goalpara,2016-01-31,11000.0,7.0,22.6,clear
+278,Lentil(Masur),Goalpara,2016-01-31,9600.0,6.5,22.6,clear
+279,Green Gram (Moong),Goalpara,2016-01-02,11000.0,6.0,13.2,clear
+280,Lentil(Masur),Goalpara,2016-01-02,9600.0,6.2,13.2,clear
+281,Green Gram (Moong),Goalpara,2016-02-02,11000.0,6.5,18.8,clear
+282,Lentil(Masur),Goalpara,2016-02-02,9600.0,7.2,18.8,clear
+283,Green Gram (Moong),Goalpara,2016-03-02,11000.0,6.0,29.8,clear
+284,Lentil(Masur),Goalpara,2016-03-02,9600.0,6.0,29.8,clear
+285,Green Gram (Moong),Goalpara,2016-04-02,11000.0,6.4,29.4,clear
+286,Lentil(Masur),Goalpara,2016-04-02,9600.0,5.8,29.4,clear
+287,Green Gram (Moong),Goalpara,2016-05-02,11000.0,7.0,27.0,clear
+288,Lentil(Masur),Goalpara,2016-05-02,9600.0,6.2,27.0,clear
+289,Green Gram (Moong),Goalpara,2016-06-02,11000.0,7.5,34.8,clear
+290,Lentil(Masur),Goalpara,2016-06-02,9600.0,6.0,34.8,clear
+291,Green Gram (Moong),Goalpara,2016-07-02,11000.0,5.0,28.0,clear
+292,Lentil(Masur),Goalpara,2016-07-02,9600.0,7.2,28.0,clear
+293,Green Gram (Moong),Goalpara,2016-08-02,11000.0,5.4,32.6,clear
+294,Lentil(Masur),Goalpara,2016-08-02,9600.0,8.5,32.6,clear
+295,Green Gram (Moong),Goalpara,2016-09-02,11000.0,5.0,31.0,clear
+296,Lentil(Masur),Goalpara,2016-09-02,9600.0,8.0,31.0,clear
+297,Green Gram (Moong),Goalpara,2016-11-02,11000.0,4.0,27.6,clear
+298,Lentil(Masur),Goalpara,2016-11-02,9600.0,9.0,27.6,clear
+299,Green Gram (Moong),Goalpara,2016-02-13,11000.0,4.0,25.2,clear
+300,Lentil(Masur),Goalpara,2016-02-13,9600.0,8.0,25.2,clear
+301,Green Gram (Moong),Goalpara,2016-02-14,11000.0,6.0,25.0,clear
+302,Lentil(Masur),Goalpara,2016-02-14,9600.0,9.5,25.0,clear
+303,Green Gram (Moong),Goalpara,2016-02-15,11000.0,6.5,25.4,clear
+304,Lentil(Masur),Goalpara,2016-02-15,9600.0,11.0,25.4,clear
+305,Green Gram (Moong),Goalpara,2016-02-16,11000.0,6.0,25.8,clear
+306,Lentil(Masur),Goalpara,2016-02-16,9600.0,10.0,25.8,clear
+307,Green Gram (Moong),Goalpara,2016-02-17,11000.0,6.2,27.2,clear
+308,Lentil(Masur),Goalpara,2016-02-17,9600.0,9.4,27.2,clear
+309,Green Gram (Moong),Goalpara,2016-02-19,11000.0,5.0,27.8,clear
+310,Lentil(Masur),Goalpara,2016-02-19,9600.0,6.8,27.8,clear
+311,Green Gram (Moong),Goalpara,2016-02-20,11000.0,5.2,28.0,clear
+312,Lentil(Masur),Goalpara,2016-02-20,9500.0,6.5,28.0,clear
+313,Green Gram (Moong),Goalpara,2016-02-21,11000.0,4.8,28.8,clear
+314,Lentil(Masur),Goalpara,2016-02-21,9500.0,6.2,28.8,clear
+315,Green Gram (Moong),Goalpara,2016-02-22,11000.0,5.6,29.6,clear
+316,Lentil(Masur),Goalpara,2016-02-22,9500.0,7.0,29.6,clear
+317,Green Gram (Moong),Goalpara,2016-02-23,11000.0,5.2,21.8,clear
+318,Lentil(Masur),Goalpara,2016-02-23,9500.0,6.8,21.8,clear
+319,Green Gram (Moong),Goalpara,2016-02-24,11000.0,5.5,28.2,clear
+320,Lentil(Masur),Goalpara,2016-02-24,9500.0,7.0,28.2,clear
+321,Green Gram (Moong),Goalpara,2016-02-27,11000.0,3.8,20.4,clear
+322,Lentil(Masur),Goalpara,2016-02-27,9500.0,5.5,20.4,clear
+323,Green Gram (Moong),Goalpara,2016-02-28,11000.0,6.8,29.4,clear
+324,Lentil(Masur),Goalpara,2016-02-28,9500.0,11.5,29.4,clear
+325,Green Gram (Moong),Goalpara,2016-02-29,11000.0,8.5,20.0,clear
+326,Lentil(Masur),Goalpara,2016-02-29,9500.0,13.0,20.0,clear
+327,Green Gram (Moong),Goalpara,2016-02-03,11000.0,7.2,18.8,clear
+328,Lentil(Masur),Goalpara,2016-02-03,9500.0,10.0,18.8,clear
+329,Green Gram (Moong),Goalpara,2016-07-03,11000.0,5.2,28.8,clear
+330,Lentil(Masur),Goalpara,2016-07-03,9500.0,9.0,28.8,clear
+331,Green Gram (Moong),Goalpara,2016-08-03,11000.0,5.0,33.0,clear
+332,Lentil(Masur),Goalpara,2016-08-03,9500.0,9.2,33.0,clear
+333,Green Gram (Moong),Goalpara,2016-03-27,11000.0,5.0,21.8,clear
+334,Lentil(Masur),Goalpara,2016-03-27,9400.0,9.0,21.8,clear
+335,Green Gram (Moong),Goalpara,2016-01-04,11000.0,4.2,23.2,clear
+336,Lentil(Masur),Goalpara,2016-01-04,9400.0,6.0,23.2,clear
+337,Green Gram (Moong),Goalpara,2016-02-04,11000.0,4.0,20.0,clear
+338,Lentil(Masur),Goalpara,2016-02-04,9400.0,5.2,20.0,clear
+339,Green Gram (Moong),Goalpara,2016-03-04,11000.0,4.4,29.6,clear
+340,Lentil(Masur),Goalpara,2016-03-04,9400.0,6.0,29.6,clear
+341,Green Gram (Moong),Goalpara,2016-04-04,11000.0,5.2,28.2,clear
+342,Lentil(Masur),Goalpara,2016-04-04,9400.0,8.0,28.2,clear
+343,Green Gram (Moong),Goalpara,2016-05-04,11000.0,4.8,28.4,clear
+344,Lentil(Masur),Goalpara,2016-05-04,9400.0,7.5,28.4,clear
+345,Green Gram (Moong),Goalpara,2016-06-04,11000.0,4.0,34.0,clear
+346,Lentil(Masur),Goalpara,2016-06-04,9400.0,9.0,34.0,clear
+347,Green Gram (Moong),Goalpara,2016-07-04,11000.0,5.0,28.2,clear
+348,Lentil(Masur),Goalpara,2016-07-04,9400.0,8.0,28.2,clear
+349,Green Gram (Moong),Goalpara,2016-08-04,11000.0,5.8,27.4,clear
+350,Lentil(Masur),Goalpara,2016-08-04,9400.0,7.5,27.4,clear
+351,Green Gram (Moong),Goalpara,2016-11-04,11000.0,4.5,30.2,clear
+352,Lentil(Masur),Goalpara,2016-11-04,9400.0,6.5,30.2,clear
+353,Green Gram (Moong),Goalpara,2016-12-04,11000.0,5.2,21.0,clear
+354,Lentil(Masur),Goalpara,2016-12-04,9400.0,8.6,21.0,clear
+355,Green Gram (Moong),Goalpara,2016-04-20,11000.0,6.0,24.0,clear
+356,Lentil(Masur),Goalpara,2016-04-20,9600.0,9.0,24.0,clear
+357,Green Gram (Moong),Goalpara,2016-04-21,11000.0,5.2,26.8,clear
+358,Lentil(Masur),Goalpara,2016-04-21,9600.0,8.2,26.8,clear
+359,Green Gram (Moong),Goalpara,2016-04-22,11000.0,5.0,27.6,clear
+360,Lentil(Masur),Goalpara,2016-04-22,9600.0,8.0,27.6,clear
+361,Green Gram (Moong),Goalpara,2016-04-23,9750.0,6.4,29.6,clear
+362,Lentil(Masur),Goalpara,2016-04-23,9600.0,10.0,29.6,clear
+363,Green Gram (Moong),Goalpara,2016-04-24,9750.0,6.0,29.8,clear
+364,Lentil(Masur),Goalpara,2016-04-24,9000.0,18.5,29.8,clear
+365,Green Gram (Moong),Goalpara,2016-04-25,9750.0,9.0,34.8,clear
+366,Lentil(Masur),Goalpara,2016-04-25,9000.0,17.0,34.8,clear
+367,Green Gram (Moong),Goalpara,2016-04-26,9750.0,8.6,30.8,clear
+368,Lentil(Masur),Goalpara,2016-04-26,9000.0,16.2,30.8,clear
+369,Green Gram (Moong),Goalpara,2016-04-28,9750.0,7.0,32.0,clear
+370,Lentil(Masur),Goalpara,2016-04-28,9000.0,11.0,32.0,clear
+371,Green Gram (Moong),Goalpara,2016-04-29,9700.0,6.0,33.0,clear
+372,Lentil(Masur),Goalpara,2016-04-29,9000.0,12.0,33.0,clear
+373,Green Gram (Moong),Goalpara,2016-04-30,9750.0,7.6,29.8,clear
+374,Lentil(Masur),Goalpara,2016-04-30,9000.0,11.5,29.8,clear
+375,Green Gram (Moong),Goalpara,2016-05-05,9750.0,4.6,22.8,clear
+376,Lentil(Masur),Goalpara,2016-05-05,9000.0,7.8,22.8,clear
+377,Green Gram (Moong),Goalpara,2016-06-05,9750.0,4.2,33.6,clear
+378,Lentil(Masur),Goalpara,2016-06-05,9000.0,7.0,33.6,clear
+379,Green Gram (Moong),Goalpara,2016-07-05,9750.0,5.5,29.6,clear
+380,Lentil(Masur),Goalpara,2016-07-05,9000.0,11.5,29.6,clear
+381,Green Gram (Moong),Goalpara,2016-08-05,9750.0,5.0,32.6,clear
+382,Lentil(Masur),Goalpara,2016-08-05,9000.0,6.4,32.6,clear
+383,Green Gram (Moong),Goalpara,2016-09-05,9750.0,5.4,32.4,clear
+384,Lentil(Masur),Goalpara,2016-09-05,9000.0,9.5,32.4,clear
+385,Green Gram (Moong),Goalpara,2016-10-05,9750.0,5.0,32.8,clear
+386,Lentil(Masur),Goalpara,2016-10-05,9000.0,9.2,32.8,clear
+387,Green Gram (Moong),Goalpara,2016-11-05,9750.0,5.6,27.0,clear
+388,Lentil(Masur),Goalpara,2016-11-05,9000.0,11.5,27.0,clear
+389,Green Gram (Moong),Goalpara,2016-12-05,9400.0,5.2,27.2,clear
+390,Lentil(Masur),Goalpara,2016-12-05,9200.0,11.0,27.2,clear
+391,Green Gram (Moong),Goalpara,2016-05-13,9400.0,5.0,29.6,clear
+392,Lentil(Masur),Goalpara,2016-05-13,9200.0,9.6,29.6,clear
+393,Green Gram (Moong),Goalpara,2016-05-14,9400.0,6.0,27.8,clear
+394,Lentil(Masur),Goalpara,2016-05-14,9200.0,9.0,27.8,clear
+395,Green Gram (Moong),Goalpara,2016-05-16,9400.0,7.5,22.4,clear
+396,Lentil(Masur),Goalpara,2016-05-16,9200.0,13.5,22.4,clear
+397,Green Gram (Moong),Goalpara,2016-05-17,9400.0,7.2,21.4,clear
+398,Lentil(Masur),Goalpara,2016-05-17,9200.0,13.0,21.4,clear
+399,Green Gram (Moong),Goalpara,2016-05-18,9400.0,6.2,20.6,clear
+400,Lentil(Masur),Goalpara,2016-05-18,9200.0,12.2,20.6,clear
+401,Green Gram (Moong),Goalpara,2016-05-20,9400.0,5.6,31.0,clear
+402,Lentil(Masur),Goalpara,2016-05-20,9200.0,11.2,31.0,clear
+403,Green Gram (Moong),Goalpara,2016-05-21,9400.0,5.2,29.6,clear
+404,Lentil(Masur),Goalpara,2016-05-21,9200.0,10.2,29.6,clear
+405,Green Gram (Moong),Goalpara,2016-05-22,9400.0,5.0,32.0,clear
+406,Lentil(Masur),Goalpara,2016-05-22,9200.0,9.6,32.0,clear
+407,Green Gram (Moong),Goalpara,2016-05-23,9400.0,5.2,33.6,clear
+408,Lentil(Masur),Goalpara,2016-05-23,9200.0,12.5,33.6,clear
+409,Green Gram (Moong),Goalpara,2016-05-24,9400.0,5.0,32.0,clear
+410,Lentil(Masur),Goalpara,2016-05-24,9200.0,11.5,32.0,clear
+411,Green Gram (Moong),Goalpara,2016-05-31,9400.0,6.5,30.2,clear
+412,Lentil(Masur),Goalpara,2016-05-31,9200.0,10.0,30.2,clear
+413,Green Gram (Moong),Goalpara,2016-03-06,9400.0,6.5,29.8,clear
+414,Lentil(Masur),Goalpara,2016-03-06,9200.0,8.2,29.8,clear
+415,Green Gram (Moong),Goalpara,2016-09-06,9400.0,4.0,32.0,clear
+416,Lentil(Masur),Goalpara,2016-09-06,9200.0,5.0,32.0,clear
+417,Green Gram (Moong),Goalpara,2016-06-29,8890.0,8.5,32.6,clear
+418,Lentil(Masur),Goalpara,2016-06-29,9200.0,12.0,32.6,clear
+419,Green Gram (Moong),Goalpara,2016-03-07,8890.0,5.0,30.0,clear
+420,Lentil(Masur),Goalpara,2016-03-07,9200.0,9.5,30.0,clear
+421,Green Gram (Moong),Goalpara,2016-04-07,8890.0,6.2,33.2,clear
+422,Lentil(Masur),Goalpara,2016-04-07,9200.0,9.0,33.2,clear
+423,Green Gram (Moong),Goalpara,2016-07-07,8890.0,2.5,27.8,clear
+424,Lentil(Masur),Goalpara,2016-07-07,9200.0,6.0,27.8,clear
+425,Lentil(Masur),Goalpara,2016-04-18,9600.0,10.0,27.0,clear
+426,Lentil(Masur),Goalpara,2016-04-27,9000.0,15.4,31.2,clear
+427,Lentil(Masur),Goalpara,2016-05-25,9200.0,10.5,29.8,clear
+428,Lentil(Masur),Goalpara,2016-01-06,9200.0,9.0,24.6,clear
+429,Lentil(Masur),Goalpara,2016-02-06,9200.0,8.5,13.0,clear
+430,Lentil(Masur),Goalpara,2016-09-14,8200.0,7.8,27.6,clear
+431,Lentil(Masur),Goalpara,2016-09-15,8700.0,6.5,33.2,clear
+432,Lentil(Masur),Goalpara,2016-09-16,8700.0,6.0,28.2,clear
+433,Lentil(Masur),Goalpara,2016-09-21,8700.0,6.0,29.6,clear
+434,Lentil(Masur),Goalpara,2016-09-22,8700.0,4.8,28.2,clear
+435,Arhar (Tur/Red Gram),Goalpara,2017-01-01,9200.0,4.2,17.0,clear
+436,Arhar (Tur/Red Gram),Goalpara,2017-03-01,9200.0,6.0,27.6,clear
+437,Arhar (Tur/Red Gram),Goalpara,2017-04-01,9200.0,5.5,24.2,clear
+438,Arhar (Tur/Red Gram),Goalpara,2017-06-01,9200.0,5.2,30.2,clear
+439,Arhar (Tur/Red Gram),Goalpara,2017-09-01,9200.0,2.5,28.4,clear
+440,Arhar (Tur/Red Gram),Goalpara,2017-12-01,9200.0,2.2,25.0,clear
+441,Arhar (Tur/Red Gram),Goalpara,2017-01-13,9200.0,3.6,18.8,clear
+442,Arhar (Tur/Red Gram),Goalpara,2017-01-15,9200.0,3.7,10.6,clear
+443,Arhar (Tur/Red Gram),Goalpara,2017-01-16,9200.0,3.6,20.0,clear
+444,Arhar (Tur/Red Gram),Goalpara,2017-01-17,9200.0,3.2,19.6,clear
+445,Arhar (Tur/Red Gram),Goalpara,2017-01-18,9200.0,2.6,10.4,rain
+446,Arhar (Tur/Red Gram),Goalpara,2017-01-21,9200.0,2.8,21.0,clear
+447,Arhar (Tur/Red Gram),Goalpara,2017-01-22,9200.0,2.2,21.8,clear
+448,Lentil(Masur),Goalpara,2017-01-22,8200.0,7.5,21.8,clear
+449,Arhar (Tur/Red Gram),Goalpara,2017-01-24,9200.0,2.0,27.8,clear
+450,Arhar (Tur/Red Gram),Goalpara,2017-01-27,9200.0,2.5,27.6,clear
+451,Arhar (Tur/Red Gram),Goalpara,2017-06-13,7500.0,3.0,27.0,clear
+452,Arhar (Tur/Red Gram),Goalpara,2017-06-15,7500.0,4.0,30.2,clear
+453,Arhar (Tur/Red Gram),Goalpara,2017-06-16,7500.0,3.6,20.2,clear
+454,Arhar (Tur/Red Gram),Goalpara,2017-06-18,7500.0,2.8,29.2,clear
+455,Arhar (Tur/Red Gram),Goalpara,2017-06-22,7500.0,3.4,29.6,clear
+456,Arhar (Tur/Red Gram),Goalpara,2017-06-23,7500.0,2.2,30.0,clear
+457,Arhar (Tur/Red Gram),Goalpara,2017-10-09,7800.0,2.6,27.2,clear
+458,Arhar (Tur/Red Gram),Goalpara,2017-11-09,7800.0,2.6,29.6,clear

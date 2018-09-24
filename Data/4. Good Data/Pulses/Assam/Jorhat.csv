@@ -1,0 +1,916 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Jorhat,2015-12-08,10400.0,1.5,23.2,clear
+1,Green Gram (Moong),Jorhat,2015-12-08,8500.0,10.0,23.2,clear
+2,Lentil(Masur),Jorhat,2015-12-08,9600.0,12.0,23.2,clear
+3,Arhar (Tur/Red Gram),Jorhat,2015-12-10,15500.0,2.5,23.4,clear
+4,Arhar (Tur/Red Gram),Jorhat,2015-12-11,17500.0,4.0,23.0,clear
+5,Green Gram (Moong),Jorhat,2015-12-11,9800.0,14.0,23.0,clear
+6,Lentil(Masur),Jorhat,2015-12-11,10200.0,14.0,23.0,clear
+7,Arhar (Tur/Red Gram),Jorhat,2015-12-14,14000.0,2.5,21.4,clear
+8,Green Gram (Moong),Jorhat,2015-12-14,9700.0,7.5,21.4,clear
+9,Lentil(Masur),Jorhat,2015-12-14,10200.0,8.0,21.4,clear
+10,Arhar (Tur/Red Gram),Jorhat,2015-12-15,14000.0,5.0,19.2,clear
+11,Green Gram (Moong),Jorhat,2015-12-15,9600.0,7.0,19.2,clear
+12,Lentil(Masur),Jorhat,2015-12-15,10300.0,15.0,19.2,clear
+13,Arhar (Tur/Red Gram),Jorhat,2015-12-16,14000.0,4.0,20.8,clear
+14,Green Gram (Moong),Jorhat,2015-12-16,9700.0,12.0,20.8,clear
+15,Lentil(Masur),Jorhat,2015-12-16,10500.0,15.0,20.8,clear
+16,Arhar (Tur/Red Gram),Jorhat,2015-12-18,14000.0,2.0,22.0,clear
+17,Green Gram (Moong),Jorhat,2015-12-18,9600.0,9.0,22.0,clear
+18,Lentil(Masur),Jorhat,2015-12-18,10300.0,10.0,22.0,clear
+19,Arhar (Tur/Red Gram),Jorhat,2015-12-19,14000.0,4.0,21.6,clear
+20,Green Gram (Moong),Jorhat,2015-12-19,9600.0,7.0,21.6,clear
+21,Lentil(Masur),Jorhat,2015-12-19,10300.0,12.0,21.6,clear
+22,Arhar (Tur/Red Gram),Jorhat,2015-12-21,14000.0,3.0,21.8,clear
+23,Green Gram (Moong),Jorhat,2015-12-21,9600.0,15.0,21.8,clear
+24,Lentil(Masur),Jorhat,2015-12-21,10400.0,18.0,21.8,clear
+25,Arhar (Tur/Red Gram),Jorhat,2015-12-22,14000.0,9.0,17.6,clear
+26,Green Gram (Moong),Jorhat,2015-12-22,9600.0,28.0,17.6,clear
+27,Lentil(Masur),Jorhat,2015-12-22,10600.0,45.0,17.6,clear
+28,Arhar (Tur/Red Gram),Jorhat,2015-12-23,14000.0,5.0,21.8,clear
+29,Green Gram (Moong),Jorhat,2015-12-23,9600.0,16.0,21.8,clear
+30,Lentil(Masur),Jorhat,2015-12-23,10300.0,18.0,21.8,clear
+31,Arhar (Tur/Red Gram),Jorhat,2015-12-24,14000.0,5.0,19.4,clear
+32,Green Gram (Moong),Jorhat,2015-12-24,9700.0,16.0,19.4,clear
+33,Lentil(Masur),Jorhat,2015-12-24,10300.0,15.0,19.4,clear
+34,Arhar (Tur/Red Gram),Jorhat,2015-12-28,14000.0,4.0,23.4,clear
+35,Green Gram (Moong),Jorhat,2015-12-28,9200.0,16.0,23.4,clear
+36,Lentil(Masur),Jorhat,2015-12-28,9800.0,18.0,23.4,clear
+37,Arhar (Tur/Red Gram),Jorhat,2015-12-29,14000.0,6.0,23.4,clear
+38,Green Gram (Moong),Jorhat,2015-12-29,9200.0,17.5,23.4,clear
+39,Lentil(Masur),Jorhat,2015-12-29,9800.0,16.0,23.4,clear
+40,Arhar (Tur/Red Gram),Jorhat,2015-12-30,15000.0,4.0,23.8,clear
+41,Green Gram (Moong),Jorhat,2015-12-30,9600.0,10.0,23.8,clear
+42,Lentil(Masur),Jorhat,2015-12-30,10300.0,15.0,23.8,clear
+43,Arhar (Tur/Red Gram),Jorhat,2015-12-31,15000.0,6.5,23.8,clear
+44,Green Gram (Moong),Jorhat,2015-12-31,9600.0,9.0,23.8,clear
+45,Lentil(Masur),Jorhat,2015-12-31,10300.0,16.0,23.8,clear
+46,Green Gram (Moong),Jorhat,2015-12-17,9700.0,9.0,21.8,clear
+47,Lentil(Masur),Jorhat,2015-12-17,10300.0,8.0,21.8,clear
+48,Arhar (Tur/Red Gram),Jorhat,2016-01-01,15000.0,5.0,25.2,clear
+49,Green Gram (Moong),Jorhat,2016-01-01,9600.0,18.0,25.2,clear
+50,Lentil(Masur),Jorhat,2016-01-01,10300.0,16.0,25.2,clear
+51,Arhar (Tur/Red Gram),Jorhat,2016-05-01,15500.0,5.0,26.8,clear
+52,Green Gram (Moong),Jorhat,2016-05-01,9500.0,20.0,26.8,clear
+53,Lentil(Masur),Jorhat,2016-05-01,10400.0,18.0,26.8,clear
+54,Arhar (Tur/Red Gram),Jorhat,2016-08-01,15500.0,5.0,34.8,clear
+55,Black Gram (Urd Beans),Jorhat,2016-08-01,8000.0,3.0,34.8,clear
+56,Green Gram (Moong),Jorhat,2016-08-01,9600.0,11.0,34.8,clear
+57,Lentil(Masur),Jorhat,2016-08-01,10400.0,10.0,34.8,clear
+58,Arhar (Tur/Red Gram),Jorhat,2016-11-01,15500.0,6.0,30.6,clear
+59,Black Gram (Urd Beans),Jorhat,2016-11-01,8000.0,3.5,30.6,clear
+60,Green Gram (Moong),Jorhat,2016-11-01,9600.0,9.0,30.6,clear
+61,Lentil(Masur),Jorhat,2016-11-01,10400.0,14.0,30.6,clear
+62,Arhar (Tur/Red Gram),Jorhat,2016-12-01,15500.0,7.0,26.8,clear
+63,Black Gram (Urd Beans),Jorhat,2016-12-01,8000.0,9.0,26.8,clear
+64,Green Gram (Moong),Jorhat,2016-12-01,9500.0,16.0,26.8,clear
+65,Lentil(Masur),Jorhat,2016-12-01,10400.0,18.0,26.8,clear
+66,Arhar (Tur/Red Gram),Jorhat,2016-01-13,15500.0,9.0,22.4,clear
+67,Green Gram (Moong),Jorhat,2016-01-13,9500.0,14.0,22.4,clear
+68,Lentil(Masur),Jorhat,2016-01-13,10400.0,16.0,22.4,clear
+69,Arhar (Tur/Red Gram),Jorhat,2016-01-18,15000.0,8.0,21.4,clear
+70,Black Gram (Urd Beans),Jorhat,2016-01-18,7800.0,9.0,21.4,clear
+71,Green Gram (Moong),Jorhat,2016-01-18,9500.0,16.0,21.4,clear
+72,Lentil(Masur),Jorhat,2016-01-18,10500.0,18.0,21.4,clear
+73,Arhar (Tur/Red Gram),Jorhat,2016-01-19,15000.0,9.0,12.2,clear
+74,Black Gram (Urd Beans),Jorhat,2016-01-19,7800.0,7.0,12.2,clear
+75,Green Gram (Moong),Jorhat,2016-01-19,9500.0,13.0,12.2,clear
+76,Lentil(Masur),Jorhat,2016-01-19,10500.0,16.0,12.2,clear
+77,Arhar (Tur/Red Gram),Jorhat,2016-01-22,15000.0,8.0,21.0,clear
+78,Black Gram (Urd Beans),Jorhat,2016-01-22,7800.0,6.0,21.0,clear
+79,Green Gram (Moong),Jorhat,2016-01-22,9500.0,13.5,21.0,clear
+80,Lentil(Masur),Jorhat,2016-01-22,10400.0,12.0,21.0,clear
+81,Arhar (Tur/Red Gram),Jorhat,2016-03-05,13000.0,5.0,20.0,clear
+82,Green Gram (Moong),Jorhat,2016-03-05,9000.0,9.0,20.0,clear
+83,Lentil(Masur),Jorhat,2016-03-05,10000.0,14.0,20.0,clear
+84,Arhar (Tur/Red Gram),Jorhat,2016-05-05,14000.0,5.0,30.2,clear
+85,Green Gram (Moong),Jorhat,2016-05-05,9000.0,7.5,30.2,clear
+86,Lentil(Masur),Jorhat,2016-05-05,10300.0,12.0,30.2,clear
+87,Arhar (Tur/Red Gram),Jorhat,2016-06-05,15000.0,4.0,31.0,clear
+88,Black Gram (Urd Beans),Jorhat,2016-06-05,10500.0,2.5,31.0,clear
+89,Green Gram (Moong),Jorhat,2016-06-05,9000.0,8.0,31.0,clear
+90,Lentil(Masur),Jorhat,2016-06-05,9800.0,10.0,31.0,clear
+91,Arhar (Tur/Red Gram),Jorhat,2016-09-05,15000.0,5.0,30.6,clear
+92,Black Gram (Urd Beans),Jorhat,2016-09-05,10500.0,2.0,30.6,clear
+93,Green Gram (Moong),Jorhat,2016-09-05,9000.0,9.0,30.6,clear
+94,Lentil(Masur),Jorhat,2016-09-05,10000.0,18.0,30.6,clear
+95,Arhar (Tur/Red Gram),Jorhat,2016-10-05,15000.0,5.0,33.0,clear
+96,Black Gram (Urd Beans),Jorhat,2016-10-05,10000.0,2.0,33.0,clear
+97,Green Gram (Moong),Jorhat,2016-10-05,9000.0,8.0,33.0,clear
+98,Lentil(Masur),Jorhat,2016-10-05,10000.0,15.0,33.0,clear
+99,Arhar (Tur/Red Gram),Jorhat,2016-11-05,15000.0,7.0,27.4,clear
+100,Black Gram (Urd Beans),Jorhat,2016-11-05,10000.0,3.2,27.4,clear
+101,Green Gram (Moong),Jorhat,2016-11-05,9000.0,9.0,27.4,clear
+102,Lentil(Masur),Jorhat,2016-11-05,10000.0,17.0,27.4,clear
+103,Arhar (Tur/Red Gram),Jorhat,2016-12-05,15000.0,2.5,27.0,clear
+104,Black Gram (Urd Beans),Jorhat,2016-12-05,10500.0,1.5,27.0,clear
+105,Green Gram (Moong),Jorhat,2016-12-05,9000.0,8.0,27.0,clear
+106,Lentil(Masur),Jorhat,2016-12-05,9800.0,15.0,27.0,clear
+107,Arhar (Tur/Red Gram),Jorhat,2016-05-13,15000.0,6.0,25.2,clear
+108,Black Gram (Urd Beans),Jorhat,2016-05-13,10500.0,2.0,25.2,clear
+109,Green Gram (Moong),Jorhat,2016-05-13,9000.0,9.0,25.2,clear
+110,Lentil(Masur),Jorhat,2016-05-13,9800.0,17.0,25.2,clear
+111,Arhar (Tur/Red Gram),Jorhat,2016-05-16,14500.0,5.0,23.0,clear
+112,Black Gram (Urd Beans),Jorhat,2016-05-16,10500.0,1.5,23.0,clear
+113,Green Gram (Moong),Jorhat,2016-05-16,9000.0,9.0,23.0,clear
+114,Lentil(Masur),Jorhat,2016-05-16,10000.0,16.0,23.0,clear
+115,Arhar (Tur/Red Gram),Jorhat,2016-05-17,14500.0,7.0,25.0,clear
+116,Black Gram (Urd Beans),Jorhat,2016-05-17,10500.0,2.5,25.0,clear
+117,Green Gram (Moong),Jorhat,2016-05-17,9000.0,7.5,25.0,clear
+118,Lentil(Masur),Jorhat,2016-05-17,10500.0,13.0,25.0,clear
+119,Arhar (Tur/Red Gram),Jorhat,2016-05-19,14500.0,9.0,28.0,clear
+120,Black Gram (Urd Beans),Jorhat,2016-05-19,10500.0,3.2,28.0,clear
+121,Green Gram (Moong),Jorhat,2016-05-19,9000.0,8.0,28.0,clear
+122,Lentil(Masur),Jorhat,2016-05-19,10500.0,12.0,28.0,clear
+123,Arhar (Tur/Red Gram),Jorhat,2016-05-20,14500.0,6.0,30.6,clear
+124,Black Gram (Urd Beans),Jorhat,2016-05-20,10500.0,3.0,30.6,clear
+125,Green Gram (Moong),Jorhat,2016-05-20,9000.0,10.0,30.6,clear
+126,Lentil(Masur),Jorhat,2016-05-20,10500.0,14.5,30.6,clear
+127,Arhar (Tur/Red Gram),Jorhat,2016-05-23,13500.0,9.0,31.8,clear
+128,Black Gram (Urd Beans),Jorhat,2016-05-23,10500.0,2.0,31.8,clear
+129,Green Gram (Moong),Jorhat,2016-05-23,9000.0,17.0,31.8,clear
+130,Lentil(Masur),Jorhat,2016-05-23,10000.0,12.0,31.8,clear
+131,Arhar (Tur/Red Gram),Jorhat,2016-05-24,13500.0,5.0,32.8,clear
+132,Black Gram (Urd Beans),Jorhat,2016-05-24,10500.0,1.5,32.8,clear
+133,Green Gram (Moong),Jorhat,2016-05-24,9000.0,15.0,32.8,clear
+134,Lentil(Masur),Jorhat,2016-05-24,10500.0,18.0,32.8,clear
+135,Arhar (Tur/Red Gram),Jorhat,2016-05-25,13500.0,7.0,27.6,rain
+136,Black Gram (Urd Beans),Jorhat,2016-05-25,10500.0,2.0,27.6,rain
+137,Green Gram (Moong),Jorhat,2016-05-25,9000.0,12.0,27.6,rain
+138,Lentil(Masur),Jorhat,2016-05-25,10500.0,19.0,27.6,rain
+139,Arhar (Tur/Red Gram),Jorhat,2016-05-26,13500.0,9.0,31.4,clear
+140,Black Gram (Urd Beans),Jorhat,2016-05-26,10500.0,3.0,31.4,clear
+141,Green Gram (Moong),Jorhat,2016-05-26,9000.0,9.0,31.4,clear
+142,Lentil(Masur),Jorhat,2016-05-26,10500.0,12.0,31.4,clear
+143,Arhar (Tur/Red Gram),Jorhat,2016-05-27,13500.0,12.0,28.8,clear
+144,Black Gram (Urd Beans),Jorhat,2016-05-27,10500.0,2.0,28.8,clear
+145,Green Gram (Moong),Jorhat,2016-05-27,9000.0,12.0,28.8,clear
+146,Lentil(Masur),Jorhat,2016-05-27,10500.0,16.0,28.8,clear
+147,Arhar (Tur/Red Gram),Jorhat,2016-05-30,14500.0,6.0,32.2,rain
+148,Black Gram (Urd Beans),Jorhat,2016-05-30,11000.0,1.5,32.2,rain
+149,Green Gram (Moong),Jorhat,2016-05-30,9000.0,10.0,32.2,rain
+150,Lentil(Masur),Jorhat,2016-05-30,10000.0,17.0,32.2,rain
+151,Arhar (Tur/Red Gram),Jorhat,2016-05-31,14500.0,9.0,29.0,clear
+152,Black Gram (Urd Beans),Jorhat,2016-05-31,11000.0,2.5,29.0,clear
+153,Green Gram (Moong),Jorhat,2016-05-31,9000.0,13.0,29.0,clear
+154,Lentil(Masur),Jorhat,2016-05-31,10200.0,16.0,29.0,clear
+155,Arhar (Tur/Red Gram),Jorhat,2016-01-06,14500.0,5.0,24.4,clear
+156,Green Gram (Moong),Jorhat,2016-01-06,9000.0,9.0,24.4,clear
+157,Lentil(Masur),Jorhat,2016-01-06,10500.0,15.0,24.4,clear
+158,Arhar (Tur/Red Gram),Jorhat,2016-03-06,14500.0,6.0,26.0,clear
+159,Green Gram (Moong),Jorhat,2016-03-06,9000.0,12.0,26.0,clear
+160,Lentil(Masur),Jorhat,2016-03-06,10200.0,14.5,26.0,clear
+161,Arhar (Tur/Red Gram),Jorhat,2016-06-06,14000.0,7.0,29.4,clear
+162,Green Gram (Moong),Jorhat,2016-06-06,9000.0,11.0,29.4,clear
+163,Lentil(Masur),Jorhat,2016-06-06,10200.0,14.0,29.4,clear
+164,Arhar (Tur/Red Gram),Jorhat,2016-07-06,14500.0,5.0,34.4,clear
+165,Black Gram (Urd Beans),Jorhat,2016-07-06,11000.0,1.5,34.4,clear
+166,Green Gram (Moong),Jorhat,2016-07-06,9000.0,9.0,34.4,clear
+167,Lentil(Masur),Jorhat,2016-07-06,10200.0,10.0,34.4,clear
+168,Arhar (Tur/Red Gram),Jorhat,2016-08-06,14500.0,7.5,31.2,clear
+169,Black Gram (Urd Beans),Jorhat,2016-08-06,10500.0,1.5,31.2,clear
+170,Green Gram (Moong),Jorhat,2016-08-06,9000.0,9.0,31.2,clear
+171,Lentil(Masur),Jorhat,2016-08-06,10200.0,15.0,31.2,clear
+172,Arhar (Tur/Red Gram),Jorhat,2016-10-06,14000.0,5.0,33.6,clear
+173,Black Gram (Urd Beans),Jorhat,2016-10-06,11000.0,2.0,33.6,clear
+174,Green Gram (Moong),Jorhat,2016-10-06,8800.0,10.0,33.6,clear
+175,Lentil(Masur),Jorhat,2016-10-06,9900.0,14.0,33.6,clear
+176,Arhar (Tur/Red Gram),Jorhat,2016-06-13,14500.0,5.0,32.6,clear
+177,Black Gram (Urd Beans),Jorhat,2016-06-13,11000.0,1.5,32.6,clear
+178,Green Gram (Moong),Jorhat,2016-06-13,8800.0,10.0,32.6,clear
+179,Lentil(Masur),Jorhat,2016-06-13,10200.0,16.0,32.6,clear
+180,Arhar (Tur/Red Gram),Jorhat,2016-06-14,14000.0,5.0,31.0,clear
+181,Black Gram (Urd Beans),Jorhat,2016-06-14,11000.0,1.5,31.0,clear
+182,Green Gram (Moong),Jorhat,2016-06-14,9000.0,10.0,31.0,clear
+183,Lentil(Masur),Jorhat,2016-06-14,10200.0,13.0,31.0,clear
+184,Arhar (Tur/Red Gram),Jorhat,2016-06-15,14000.0,9.0,33.0,clear
+185,Black Gram (Urd Beans),Jorhat,2016-06-15,11000.0,2.0,33.0,clear
+186,Green Gram (Moong),Jorhat,2016-06-15,9000.0,7.0,33.0,clear
+187,Lentil(Masur),Jorhat,2016-06-15,10200.0,14.5,33.0,clear
+188,Arhar (Tur/Red Gram),Jorhat,2016-06-16,14000.0,6.0,33.8,clear
+189,Black Gram (Urd Beans),Jorhat,2016-06-16,11000.0,2.0,33.8,clear
+190,Green Gram (Moong),Jorhat,2016-06-16,8800.0,7.5,33.8,clear
+191,Lentil(Masur),Jorhat,2016-06-16,10000.0,12.0,33.8,clear
+192,Arhar (Tur/Red Gram),Jorhat,2016-06-17,14000.0,7.0,29.4,clear
+193,Black Gram (Urd Beans),Jorhat,2016-06-17,11000.0,2.5,29.4,clear
+194,Green Gram (Moong),Jorhat,2016-06-17,8800.0,10.0,29.4,clear
+195,Lentil(Masur),Jorhat,2016-06-17,10000.0,9.0,29.4,clear
+196,Arhar (Tur/Red Gram),Jorhat,2016-06-18,14000.0,9.0,30.0,clear
+197,Black Gram (Urd Beans),Jorhat,2016-06-18,11000.0,3.0,30.0,clear
+198,Green Gram (Moong),Jorhat,2016-06-18,8800.0,12.0,30.0,clear
+199,Lentil(Masur),Jorhat,2016-06-18,10000.0,13.2,30.0,clear
+200,Arhar (Tur/Red Gram),Jorhat,2016-06-20,13500.0,9.0,29.0,clear
+201,Black Gram (Urd Beans),Jorhat,2016-06-20,11000.0,3.5,29.0,clear
+202,Green Gram (Moong),Jorhat,2016-06-20,8500.0,12.0,29.0,clear
+203,Lentil(Masur),Jorhat,2016-06-20,10200.0,14.5,29.0,clear
+204,Arhar (Tur/Red Gram),Jorhat,2016-06-21,13500.0,7.5,31.0,clear
+205,Black Gram (Urd Beans),Jorhat,2016-06-21,11000.0,4.0,31.0,clear
+206,Green Gram (Moong),Jorhat,2016-06-21,8500.0,15.0,31.0,clear
+207,Lentil(Masur),Jorhat,2016-06-21,10200.0,18.0,31.0,clear
+208,Arhar (Tur/Red Gram),Jorhat,2016-06-22,13500.0,9.0,31.0,clear
+209,Black Gram (Urd Beans),Jorhat,2016-06-22,11000.0,2.5,31.0,clear
+210,Green Gram (Moong),Jorhat,2016-06-22,8500.0,10.0,31.0,clear
+211,Lentil(Masur),Jorhat,2016-06-22,10200.0,12.0,31.0,clear
+212,Arhar (Tur/Red Gram),Jorhat,2016-06-24,13500.0,7.5,32.2,clear
+213,Black Gram (Urd Beans),Jorhat,2016-06-24,11000.0,2.0,32.2,clear
+214,Green Gram (Moong),Jorhat,2016-06-24,8800.0,8.0,32.2,clear
+215,Lentil(Masur),Jorhat,2016-06-24,9800.0,15.0,32.2,clear
+216,Arhar (Tur/Red Gram),Jorhat,2016-06-29,13500.0,7.0,33.8,clear
+217,Black Gram (Urd Beans),Jorhat,2016-06-29,10200.0,1.5,33.8,clear
+218,Lentil(Masur),Jorhat,2016-06-29,10200.0,12.0,33.8,clear
+219,Arhar (Tur/Red Gram),Jorhat,2016-06-30,13500.0,5.0,31.2,clear
+220,Black Gram (Urd Beans),Jorhat,2016-06-30,10000.0,2.0,31.2,clear
+221,Green Gram (Moong),Jorhat,2016-06-30,8000.0,9.0,31.2,clear
+222,Lentil(Masur),Jorhat,2016-06-30,9800.0,15.0,31.2,clear
+223,Arhar (Tur/Red Gram),Jorhat,2016-01-07,13500.0,7.0,24.4,clear
+224,Green Gram (Moong),Jorhat,2016-01-07,8000.0,11.0,24.4,clear
+225,Lentil(Masur),Jorhat,2016-01-07,9800.0,17.0,24.4,clear
+226,Arhar (Tur/Red Gram),Jorhat,2016-04-07,12500.0,9.0,28.8,clear
+227,Green Gram (Moong),Jorhat,2016-04-07,8000.0,9.0,28.8,clear
+228,Lentil(Masur),Jorhat,2016-04-07,9800.0,12.0,28.8,clear
+229,Arhar (Tur/Red Gram),Jorhat,2016-05-07,12500.0,11.0,24.8,clear
+230,Green Gram (Moong),Jorhat,2016-05-07,8000.0,10.0,24.8,clear
+231,Lentil(Masur),Jorhat,2016-05-07,9800.0,15.0,24.8,clear
+232,Arhar (Tur/Red Gram),Jorhat,2016-06-07,12500.0,6.0,31.0,clear
+233,Green Gram (Moong),Jorhat,2016-06-07,8000.0,10.0,31.0,clear
+234,Lentil(Masur),Jorhat,2016-06-07,9800.0,15.0,31.0,clear
+235,Arhar (Tur/Red Gram),Jorhat,2016-08-07,13000.0,7.0,31.2,clear
+236,Green Gram (Moong),Jorhat,2016-08-07,8000.0,14.0,31.2,clear
+237,Lentil(Masur),Jorhat,2016-08-07,9800.0,16.0,31.2,clear
+238,Arhar (Tur/Red Gram),Jorhat,2016-11-07,13000.0,9.0,23.8,clear
+239,Green Gram (Moong),Jorhat,2016-11-07,8000.0,7.5,23.8,clear
+240,Lentil(Masur),Jorhat,2016-11-07,9800.0,14.0,23.8,clear
+241,Arhar (Tur/Red Gram),Jorhat,2016-12-07,13000.0,7.0,26.2,clear
+242,Green Gram (Moong),Jorhat,2016-12-07,8000.0,10.0,26.2,clear
+243,Lentil(Masur),Jorhat,2016-12-07,9800.0,12.0,26.2,clear
+244,Arhar (Tur/Red Gram),Jorhat,2016-07-13,13000.0,9.0,32.8,clear
+245,Green Gram (Moong),Jorhat,2016-07-13,8000.0,9.0,32.8,clear
+246,Lentil(Masur),Jorhat,2016-07-13,9800.0,15.0,32.8,clear
+247,Arhar (Tur/Red Gram),Jorhat,2016-07-14,13000.0,7.5,30.8,rain
+248,Green Gram (Moong),Jorhat,2016-07-14,8000.0,10.0,30.8,rain
+249,Lentil(Masur),Jorhat,2016-07-14,10100.0,16.0,30.8,rain
+250,Arhar (Tur/Red Gram),Jorhat,2016-07-16,13000.0,10.0,30.0,clear
+251,Green Gram (Moong),Jorhat,2016-07-16,8000.0,12.0,30.0,clear
+252,Lentil(Masur),Jorhat,2016-07-16,9800.0,13.0,30.0,clear
+253,Arhar (Tur/Red Gram),Jorhat,2016-07-18,13000.0,7.5,29.2,clear
+254,Green Gram (Moong),Jorhat,2016-07-18,8000.0,10.0,29.2,clear
+255,Lentil(Masur),Jorhat,2016-07-18,9800.0,12.0,29.2,clear
+256,Arhar (Tur/Red Gram),Jorhat,2016-07-19,13500.0,9.0,29.6,clear
+257,Green Gram (Moong),Jorhat,2016-07-19,8000.0,7.0,29.6,clear
+258,Lentil(Masur),Jorhat,2016-07-19,9800.0,11.0,29.6,clear
+259,Arhar (Tur/Red Gram),Jorhat,2016-07-20,13500.0,7.5,32.0,clear
+260,Green Gram (Moong),Jorhat,2016-07-20,8000.0,10.0,32.0,clear
+261,Lentil(Masur),Jorhat,2016-07-20,9800.0,15.0,32.0,clear
+262,Arhar (Tur/Red Gram),Jorhat,2016-07-25,12500.0,7.5,25.6,rain
+263,Arhar (Tur/Red Gram),Jorhat,2016-07-26,12500.0,9.0,29.8,clear
+264,Green Gram (Moong),Jorhat,2016-07-26,7800.0,12.0,29.8,clear
+265,Lentil(Masur),Jorhat,2016-07-26,10000.0,17.0,29.8,clear
+266,Arhar (Tur/Red Gram),Jorhat,2016-07-27,12500.0,7.5,29.4,clear
+267,Green Gram (Moong),Jorhat,2016-07-27,7800.0,10.5,29.4,clear
+268,Lentil(Masur),Jorhat,2016-07-27,10000.0,12.0,29.4,clear
+269,Arhar (Tur/Red Gram),Jorhat,2016-07-28,13500.0,9.0,31.2,clear
+270,Green Gram (Moong),Jorhat,2016-07-28,8000.0,7.5,31.2,clear
+271,Lentil(Masur),Jorhat,2016-07-28,10000.0,16.0,31.2,clear
+272,Arhar (Tur/Red Gram),Jorhat,2016-07-29,13500.0,6.0,30.2,clear
+273,Green Gram (Moong),Jorhat,2016-07-29,8000.0,10.0,30.2,clear
+274,Lentil(Masur),Jorhat,2016-07-29,10000.0,17.0,30.2,clear
+275,Arhar (Tur/Red Gram),Jorhat,2016-07-30,13500.0,9.0,33.4,clear
+276,Green Gram (Moong),Jorhat,2016-07-30,8000.0,12.0,33.4,clear
+277,Lentil(Masur),Jorhat,2016-07-30,10000.0,13.0,33.4,clear
+278,Arhar (Tur/Red Gram),Jorhat,2016-01-08,13500.0,7.5,18.0,clear
+279,Green Gram (Moong),Jorhat,2016-01-08,8000.0,14.0,18.0,clear
+280,Lentil(Masur),Jorhat,2016-01-08,9800.0,16.0,18.0,clear
+281,Arhar (Tur/Red Gram),Jorhat,2016-03-08,13000.0,8.0,25.0,clear
+282,Green Gram (Moong),Jorhat,2016-03-08,8000.0,12.0,25.0,clear
+283,Lentil(Masur),Jorhat,2016-03-08,10000.0,16.0,25.0,clear
+284,Arhar (Tur/Red Gram),Jorhat,2016-04-08,13000.0,9.0,28.8,clear
+285,Green Gram (Moong),Jorhat,2016-04-08,8000.0,11.0,28.8,clear
+286,Lentil(Masur),Jorhat,2016-04-08,10000.0,14.5,28.8,clear
+287,Arhar (Tur/Red Gram),Jorhat,2016-05-08,13000.0,11.0,28.8,clear
+288,Green Gram (Moong),Jorhat,2016-05-08,8000.0,12.5,28.8,clear
+289,Lentil(Masur),Jorhat,2016-05-08,10000.0,16.0,28.8,clear
+290,Arhar (Tur/Red Gram),Jorhat,2016-06-08,13000.0,7.0,31.0,clear
+291,Green Gram (Moong),Jorhat,2016-06-08,7800.0,10.0,31.0,clear
+292,Lentil(Masur),Jorhat,2016-06-08,9800.0,20.0,31.0,clear
+293,Arhar (Tur/Red Gram),Jorhat,2016-08-08,12500.0,7.0,34.4,clear
+294,Green Gram (Moong),Jorhat,2016-08-08,8000.0,9.0,34.4,clear
+295,Lentil(Masur),Jorhat,2016-08-08,10000.0,15.0,34.4,clear
+296,Arhar (Tur/Red Gram),Jorhat,2016-09-08,12500.0,9.0,31.8,clear
+297,Green Gram (Moong),Jorhat,2016-09-08,8000.0,12.0,31.8,clear
+298,Lentil(Masur),Jorhat,2016-09-08,10000.0,16.0,31.8,clear
+299,Arhar (Tur/Red Gram),Jorhat,2016-10-08,12500.0,7.5,33.6,clear
+300,Green Gram (Moong),Jorhat,2016-10-08,8000.0,10.0,33.6,clear
+301,Lentil(Masur),Jorhat,2016-10-08,10000.0,14.0,33.6,clear
+302,Arhar (Tur/Red Gram),Jorhat,2016-12-08,13000.0,9.0,26.2,clear
+303,Green Gram (Moong),Jorhat,2016-12-08,7800.0,12.0,26.2,clear
+304,Lentil(Masur),Jorhat,2016-12-08,9800.0,16.0,26.2,clear
+305,Arhar (Tur/Red Gram),Jorhat,2016-08-16,13000.0,9.0,33.2,clear
+306,Green Gram (Moong),Jorhat,2016-08-16,8000.0,12.0,33.2,clear
+307,Lentil(Masur),Jorhat,2016-08-16,9800.0,15.0,33.2,clear
+308,Arhar (Tur/Red Gram),Jorhat,2016-08-18,13000.0,8.0,33.8,clear
+309,Green Gram (Moong),Jorhat,2016-08-18,8000.0,10.0,33.8,clear
+310,Lentil(Masur),Jorhat,2016-08-18,9800.0,13.5,33.8,clear
+311,Arhar (Tur/Red Gram),Jorhat,2016-08-19,13000.0,9.0,33.2,clear
+312,Green Gram (Moong),Jorhat,2016-08-19,8000.0,12.0,33.2,clear
+313,Lentil(Masur),Jorhat,2016-08-19,9800.0,14.5,33.2,clear
+314,Arhar (Tur/Red Gram),Jorhat,2016-08-20,12500.0,7.0,33.8,clear
+315,Green Gram (Moong),Jorhat,2016-08-20,7800.0,12.0,33.8,clear
+316,Lentil(Masur),Jorhat,2016-08-20,10000.0,18.0,33.8,clear
+317,Arhar (Tur/Red Gram),Jorhat,2016-08-29,11000.0,8.0,33.2,clear
+318,Green Gram (Moong),Jorhat,2016-08-29,7800.0,16.0,33.2,clear
+319,Lentil(Masur),Jorhat,2016-08-29,9600.0,20.0,33.2,clear
+320,Arhar (Tur/Red Gram),Jorhat,2016-08-30,11500.0,7.5,30.2,clear
+321,Green Gram (Moong),Jorhat,2016-08-30,7500.0,20.0,30.2,clear
+322,Lentil(Masur),Jorhat,2016-08-30,9700.0,18.0,30.2,clear
+323,Arhar (Tur/Red Gram),Jorhat,2016-01-09,11500.0,12.0,18.0,clear
+324,Green Gram (Moong),Jorhat,2016-01-09,7500.0,15.0,18.0,clear
+325,Lentil(Masur),Jorhat,2016-01-09,9700.0,17.0,18.0,clear
+326,Arhar (Tur/Red Gram),Jorhat,2016-05-09,10800.0,7.0,32.2,clear
+327,Green Gram (Moong),Jorhat,2016-05-09,6500.0,15.0,32.2,clear
+328,Lentil(Masur),Jorhat,2016-05-09,9500.0,17.0,32.2,clear
+329,Arhar (Tur/Red Gram),Jorhat,2016-06-09,10800.0,9.0,31.8,clear
+330,Green Gram (Moong),Jorhat,2016-06-09,6500.0,18.0,31.8,clear
+331,Lentil(Masur),Jorhat,2016-06-09,9500.0,20.0,31.8,clear
+332,Arhar (Tur/Red Gram),Jorhat,2016-07-09,10800.0,8.0,33.0,clear
+333,Arhar (Tur/Red Gram),Jorhat,2016-08-09,11000.0,7.0,32.2,clear
+334,Green Gram (Moong),Jorhat,2016-08-09,7000.0,25.0,32.2,clear
+335,Lentil(Masur),Jorhat,2016-08-09,9500.0,20.0,32.2,clear
+336,Arhar (Tur/Red Gram),Jorhat,2016-09-09,11000.0,9.0,29.0,clear
+337,Green Gram (Moong),Jorhat,2016-09-09,7000.0,17.5,29.0,clear
+338,Lentil(Masur),Jorhat,2016-09-09,9500.0,22.0,29.0,clear
+339,Arhar (Tur/Red Gram),Jorhat,2016-12-09,11000.0,7.5,26.2,clear
+340,Green Gram (Moong),Jorhat,2016-12-09,11000.0,18.0,26.2,clear
+341,Lentil(Masur),Jorhat,2016-12-09,9500.0,20.0,26.2,clear
+342,Arhar (Tur/Red Gram),Jorhat,2016-09-15,11500.0,9.0,32.8,clear
+343,Green Gram (Moong),Jorhat,2016-09-15,7000.0,17.0,32.8,clear
+344,Lentil(Masur),Jorhat,2016-09-15,9700.0,20.0,32.8,clear
+345,Arhar (Tur/Red Gram),Jorhat,2016-09-16,11500.0,8.0,32.2,clear
+346,Green Gram (Moong),Jorhat,2016-09-16,7000.0,20.0,32.2,clear
+347,Lentil(Masur),Jorhat,2016-09-16,9700.0,25.0,32.2,clear
+348,Arhar (Tur/Red Gram),Jorhat,2016-09-19,11500.0,9.0,32.0,clear
+349,Green Gram (Moong),Jorhat,2016-09-19,6500.0,15.0,32.0,clear
+350,Lentil(Masur),Jorhat,2016-09-19,9500.0,18.0,32.0,clear
+351,Arhar (Tur/Red Gram),Jorhat,2016-09-20,11500.0,12.0,29.8,clear
+352,Green Gram (Moong),Jorhat,2016-09-20,6500.0,17.0,29.8,clear
+353,Lentil(Masur),Jorhat,2016-09-20,9500.0,11.0,29.8,clear
+354,Arhar (Tur/Red Gram),Jorhat,2016-09-23,11000.0,9.0,32.2,clear
+355,Green Gram (Moong),Jorhat,2016-09-23,7000.0,10.0,32.2,clear
+356,Lentil(Masur),Jorhat,2016-09-23,9500.0,14.0,32.2,clear
+357,Arhar (Tur/Red Gram),Jorhat,2016-09-26,11000.0,12.0,30.8,clear
+358,Green Gram (Moong),Jorhat,2016-09-26,7000.0,12.0,30.8,clear
+359,Lentil(Masur),Jorhat,2016-09-26,9500.0,20.0,30.8,clear
+360,Arhar (Tur/Red Gram),Jorhat,2016-09-27,11000.0,4.0,30.4,clear
+361,Green Gram (Moong),Jorhat,2016-09-27,6600.0,15.0,30.4,clear
+362,Lentil(Masur),Jorhat,2016-09-27,9500.0,20.0,30.4,clear
+363,Arhar (Tur/Red Gram),Jorhat,2016-09-28,11000.0,2.5,33.0,clear
+364,Green Gram (Moong),Jorhat,2016-09-28,6600.0,10.0,33.0,clear
+365,Lentil(Masur),Jorhat,2016-09-28,9800.0,12.0,33.0,clear
+366,Arhar (Tur/Red Gram),Jorhat,2016-09-29,11000.0,7.5,33.0,clear
+367,Green Gram (Moong),Jorhat,2016-09-29,7000.0,9.0,33.0,clear
+368,Lentil(Masur),Jorhat,2016-09-29,9500.0,18.0,33.0,clear
+369,Arhar (Tur/Red Gram),Jorhat,2016-09-30,11000.0,12.0,32.0,clear
+370,Green Gram (Moong),Jorhat,2016-09-30,6600.0,25.0,32.0,clear
+371,Lentil(Masur),Jorhat,2016-09-30,9500.0,25.0,32.0,clear
+372,Arhar (Tur/Red Gram),Jorhat,2016-01-10,11000.0,10.0,20.2,clear
+373,Green Gram (Moong),Jorhat,2016-01-10,6600.0,27.0,20.2,clear
+374,Lentil(Masur),Jorhat,2016-01-10,9500.0,18.0,20.2,clear
+375,Arhar (Tur/Red Gram),Jorhat,2016-03-10,11000.0,7.5,24.8,clear
+376,Green Gram (Moong),Jorhat,2016-03-10,6600.0,10.0,24.8,clear
+377,Lentil(Masur),Jorhat,2016-03-10,9500.0,14.0,24.8,clear
+378,Arhar (Tur/Red Gram),Jorhat,2016-04-10,11000.0,9.0,26.6,clear
+379,Green Gram (Moong),Jorhat,2016-04-10,6600.0,15.0,26.6,clear
+380,Lentil(Masur),Jorhat,2016-04-10,9500.0,25.0,26.6,clear
+381,Arhar (Tur/Red Gram),Jorhat,2016-05-10,11000.0,7.5,33.8,clear
+382,Green Gram (Moong),Jorhat,2016-05-10,7000.0,10.0,33.8,clear
+383,Lentil(Masur),Jorhat,2016-05-10,9400.0,22.0,33.8,clear
+384,Arhar (Tur/Red Gram),Jorhat,2016-06-10,11000.0,9.0,34.0,clear
+385,Green Gram (Moong),Jorhat,2016-06-10,7000.0,10.0,34.0,clear
+386,Lentil(Masur),Jorhat,2016-06-10,9500.0,18.0,34.0,clear
+387,Arhar (Tur/Red Gram),Jorhat,2016-07-10,11000.0,10.5,32.8,clear
+388,Green Gram (Moong),Jorhat,2016-07-10,7000.0,12.0,32.8,clear
+389,Lentil(Masur),Jorhat,2016-07-10,9500.0,20.0,32.8,clear
+390,Arhar (Tur/Red Gram),Jorhat,2016-10-13,11500.0,7.5,26.8,clear
+391,Green Gram (Moong),Jorhat,2016-10-13,6600.0,12.0,26.8,clear
+392,Lentil(Masur),Jorhat,2016-10-13,9500.0,20.0,26.8,clear
+393,Arhar (Tur/Red Gram),Jorhat,2016-10-14,11500.0,7.5,31.0,clear
+394,Green Gram (Moong),Jorhat,2016-10-14,6500.0,10.0,31.0,clear
+395,Lentil(Masur),Jorhat,2016-10-14,9500.0,15.0,31.0,clear
+396,Arhar (Tur/Red Gram),Jorhat,2016-10-15,11500.0,9.0,31.4,clear
+397,Green Gram (Moong),Jorhat,2016-10-15,6500.0,12.0,31.4,clear
+398,Lentil(Masur),Jorhat,2016-10-15,9500.0,17.0,31.4,clear
+399,Arhar (Tur/Red Gram),Jorhat,2016-10-18,11000.0,7.5,32.0,clear
+400,Green Gram (Moong),Jorhat,2016-10-18,6500.0,16.0,32.0,clear
+401,Lentil(Masur),Jorhat,2016-10-18,9400.0,15.0,32.0,clear
+402,Arhar (Tur/Red Gram),Jorhat,2016-10-21,11000.0,7.0,31.0,clear
+403,Green Gram (Moong),Jorhat,2016-10-21,6600.0,12.0,31.0,clear
+404,Lentil(Masur),Jorhat,2016-10-21,9500.0,18.0,31.0,clear
+405,Arhar (Tur/Red Gram),Jorhat,2016-10-24,11500.0,7.0,31.0,clear
+406,Green Gram (Moong),Jorhat,2016-10-24,6600.0,10.0,31.0,clear
+407,Lentil(Masur),Jorhat,2016-10-24,9500.0,18.0,31.0,clear
+408,Arhar (Tur/Red Gram),Jorhat,2016-10-25,11500.0,9.0,32.8,clear
+409,Green Gram (Moong),Jorhat,2016-10-25,6600.0,12.0,32.8,clear
+410,Lentil(Masur),Jorhat,2016-10-25,9500.0,10.5,32.8,clear
+411,Arhar (Tur/Red Gram),Jorhat,2016-10-26,11500.0,11.0,28.6,clear
+412,Green Gram (Moong),Jorhat,2016-10-26,6600.0,9.0,28.6,clear
+413,Lentil(Masur),Jorhat,2016-10-26,9500.0,12.0,28.6,clear
+414,Arhar (Tur/Red Gram),Jorhat,2016-10-27,11500.0,9.0,27.0,clear
+415,Green Gram (Moong),Jorhat,2016-10-27,6600.0,11.0,27.0,clear
+416,Lentil(Masur),Jorhat,2016-10-27,9500.0,13.5,27.0,clear
+417,Arhar (Tur/Red Gram),Jorhat,2016-03-11,11500.0,7.0,25.2,clear
+418,Green Gram (Moong),Jorhat,2016-03-11,6500.0,12.0,25.2,clear
+419,Lentil(Masur),Jorhat,2016-03-11,9200.0,16.0,25.2,clear
+420,Arhar (Tur/Red Gram),Jorhat,2016-04-11,11800.0,7.5,25.4,clear
+421,Green Gram (Moong),Jorhat,2016-04-11,6500.0,10.0,25.4,clear
+422,Lentil(Masur),Jorhat,2016-04-11,9200.0,15.0,25.4,clear
+423,Arhar (Tur/Red Gram),Jorhat,2016-05-11,11800.0,8.0,34.4,clear
+424,Green Gram (Moong),Jorhat,2016-05-11,6500.0,7.5,34.4,clear
+425,Lentil(Masur),Jorhat,2016-05-11,9200.0,14.5,34.4,clear
+426,Arhar (Tur/Red Gram),Jorhat,2016-07-11,11800.0,9.0,32.2,clear
+427,Green Gram (Moong),Jorhat,2016-07-11,6500.0,7.0,32.2,clear
+428,Lentil(Masur),Jorhat,2016-07-11,9200.0,17.0,32.2,clear
+429,Arhar (Tur/Red Gram),Jorhat,2016-08-11,11800.0,11.0,33.4,clear
+430,Green Gram (Moong),Jorhat,2016-08-11,6500.0,9.0,33.4,clear
+431,Lentil(Masur),Jorhat,2016-08-11,9200.0,15.0,33.4,clear
+432,Arhar (Tur/Red Gram),Jorhat,2016-09-11,11800.0,9.0,31.0,clear
+433,Green Gram (Moong),Jorhat,2016-09-11,6500.0,10.0,31.0,clear
+434,Lentil(Masur),Jorhat,2016-09-11,9200.0,12.0,31.0,clear
+435,Arhar (Tur/Red Gram),Jorhat,2016-11-15,11500.0,5.0,29.2,clear
+436,Green Gram (Moong),Jorhat,2016-11-15,6500.0,12.0,29.2,clear
+437,Lentil(Masur),Jorhat,2016-11-15,9500.0,18.0,29.2,clear
+438,Arhar (Tur/Red Gram),Jorhat,2016-11-16,11500.0,7.5,29.0,clear
+439,Green Gram (Moong),Jorhat,2016-11-16,6500.0,12.0,29.0,clear
+440,Lentil(Masur),Jorhat,2016-11-16,9200.0,16.0,29.0,clear
+441,Arhar (Tur/Red Gram),Jorhat,2016-11-17,11500.0,10.5,27.8,clear
+442,Green Gram (Moong),Jorhat,2016-11-17,6500.0,10.0,27.8,clear
+443,Lentil(Masur),Jorhat,2016-11-17,9200.0,17.0,27.8,clear
+444,Arhar (Tur/Red Gram),Jorhat,2016-11-18,11500.0,5.0,26.8,clear
+445,Green Gram (Moong),Jorhat,2016-11-18,6500.0,10.0,26.8,clear
+446,Lentil(Masur),Jorhat,2016-11-18,9200.0,15.0,26.8,clear
+447,Arhar (Tur/Red Gram),Jorhat,2016-11-19,11500.0,9.0,27.0,clear
+448,Green Gram (Moong),Jorhat,2016-11-19,6500.0,15.0,27.0,clear
+449,Lentil(Masur),Jorhat,2016-11-19,9200.0,18.0,27.0,clear
+450,Arhar (Tur/Red Gram),Jorhat,2016-11-21,11000.0,7.0,26.4,clear
+451,Green Gram (Moong),Jorhat,2016-11-21,6500.0,9.0,26.4,clear
+452,Lentil(Masur),Jorhat,2016-11-21,9200.0,12.0,26.4,clear
+453,Arhar (Tur/Red Gram),Jorhat,2016-11-22,11000.0,4.0,26.0,clear
+454,Green Gram (Moong),Jorhat,2016-11-22,6500.0,7.5,26.0,clear
+455,Lentil(Masur),Jorhat,2016-11-22,9200.0,15.0,26.0,clear
+456,Arhar (Tur/Red Gram),Jorhat,2016-11-23,11000.0,4.0,26.4,clear
+457,Green Gram (Moong),Jorhat,2016-11-23,6500.0,9.0,26.4,clear
+458,Lentil(Masur),Jorhat,2016-11-23,9200.0,12.0,26.4,clear
+459,Arhar (Tur/Red Gram),Jorhat,2016-11-25,11000.0,4.0,26.4,clear
+460,Green Gram (Moong),Jorhat,2016-11-25,6000.0,10.0,26.4,clear
+461,Lentil(Masur),Jorhat,2016-11-25,9200.0,12.0,26.4,clear
+462,Arhar (Tur/Red Gram),Jorhat,2016-11-28,10500.0,5.0,27.4,clear
+463,Green Gram (Moong),Jorhat,2016-11-28,6400.0,18.0,27.4,clear
+464,Lentil(Masur),Jorhat,2016-11-28,9200.0,15.0,27.4,clear
+465,Arhar (Tur/Red Gram),Jorhat,2016-11-29,10500.0,5.0,26.8,clear
+466,Green Gram (Moong),Jorhat,2016-11-29,6400.0,16.5,26.8,clear
+467,Lentil(Masur),Jorhat,2016-11-29,9200.0,12.0,26.8,clear
+468,Arhar (Tur/Red Gram),Jorhat,2016-11-30,11000.0,6.0,26.4,clear
+469,Green Gram (Moong),Jorhat,2016-11-30,6400.0,15.0,26.4,clear
+470,Lentil(Masur),Jorhat,2016-11-30,9200.0,20.0,26.4,clear
+471,Arhar (Tur/Red Gram),Jorhat,2016-01-12,11000.0,7.0,22.2,clear
+472,Black Gram (Urd Beans),Jorhat,2016-01-12,9200.0,2.0,22.2,clear
+473,Green Gram (Moong),Jorhat,2016-01-12,6400.0,18.0,22.2,clear
+474,Lentil(Masur),Jorhat,2016-01-12,9200.0,16.0,22.2,clear
+475,Arhar (Tur/Red Gram),Jorhat,2016-05-12,11000.0,9.0,34.4,clear
+476,Black Gram (Urd Beans),Jorhat,2016-05-12,9000.0,2.5,34.4,clear
+477,Green Gram (Moong),Jorhat,2016-05-12,6500.0,15.0,34.4,clear
+478,Lentil(Masur),Jorhat,2016-05-12,9200.0,20.0,34.4,clear
+479,Arhar (Tur/Red Gram),Jorhat,2016-06-12,11000.0,7.5,28.2,clear
+480,Black Gram (Urd Beans),Jorhat,2016-06-12,9000.0,1.5,28.2,clear
+481,Green Gram (Moong),Jorhat,2016-06-12,6500.0,15.0,28.2,clear
+482,Lentil(Masur),Jorhat,2016-06-12,9200.0,18.0,28.2,clear
+483,Arhar (Tur/Red Gram),Jorhat,2016-07-12,11000.0,5.0,33.4,clear
+484,Black Gram (Urd Beans),Jorhat,2016-07-12,9500.0,2.0,33.4,clear
+485,Green Gram (Moong),Jorhat,2016-07-12,6500.0,15.0,33.4,clear
+486,Lentil(Masur),Jorhat,2016-07-12,9200.0,20.0,33.4,clear
+487,Arhar (Tur/Red Gram),Jorhat,2016-08-12,10500.0,7.5,34.4,clear
+488,Black Gram (Urd Beans),Jorhat,2016-08-12,9000.0,2.5,34.4,clear
+489,Green Gram (Moong),Jorhat,2016-08-12,6400.0,12.0,34.4,clear
+490,Lentil(Masur),Jorhat,2016-08-12,9200.0,20.0,34.4,clear
+491,Arhar (Tur/Red Gram),Jorhat,2016-12-21,10500.0,20.0,24.8,clear
+492,Black Gram (Urd Beans),Jorhat,2016-12-21,9000.0,5.0,24.8,clear
+493,Green Gram (Moong),Jorhat,2016-12-21,6400.0,25.0,24.8,clear
+494,Lentil(Masur),Jorhat,2016-12-21,9000.0,30.0,24.8,clear
+495,Arhar (Tur/Red Gram),Jorhat,2016-12-22,10800.0,5.0,24.8,clear
+496,Black Gram (Urd Beans),Jorhat,2016-12-22,8500.0,1.5,24.8,clear
+497,Green Gram (Moong),Jorhat,2016-12-22,6400.0,15.0,24.8,clear
+498,Lentil(Masur),Jorhat,2016-12-22,9000.0,18.0,24.8,clear
+499,Arhar (Tur/Red Gram),Jorhat,2016-12-26,10500.0,7.0,24.0,clear
+500,Black Gram (Urd Beans),Jorhat,2016-12-26,9000.0,2.0,24.0,clear
+501,Green Gram (Moong),Jorhat,2016-12-26,6500.0,12.0,24.0,clear
+502,Lentil(Masur),Jorhat,2016-12-26,9000.0,15.0,24.0,clear
+503,Arhar (Tur/Red Gram),Jorhat,2016-12-27,9500.0,7.0,22.2,clear
+504,Black Gram (Urd Beans),Jorhat,2016-12-27,9000.0,2.0,22.2,clear
+505,Green Gram (Moong),Jorhat,2016-12-27,6200.0,15.0,22.2,clear
+506,Lentil(Masur),Jorhat,2016-12-27,9000.0,18.0,22.2,clear
+507,Black Gram (Urd Beans),Jorhat,2016-05-02,7800.0,8.0,27.4,clear
+508,Green Gram (Moong),Jorhat,2016-05-02,9200.0,12.0,27.4,clear
+509,Lentil(Masur),Jorhat,2016-05-02,10300.0,16.0,27.4,clear
+510,Black Gram (Urd Beans),Jorhat,2016-06-02,7800.0,6.0,34.2,clear
+511,Green Gram (Moong),Jorhat,2016-06-02,9200.0,15.0,34.2,clear
+512,Lentil(Masur),Jorhat,2016-06-02,10300.0,14.5,34.2,clear
+513,Black Gram (Urd Beans),Jorhat,2016-08-02,7800.0,6.0,35.4,clear
+514,Green Gram (Moong),Jorhat,2016-08-02,9200.0,20.0,35.4,clear
+515,Lentil(Masur),Jorhat,2016-08-02,10300.0,18.0,35.4,clear
+516,Black Gram (Urd Beans),Jorhat,2016-09-02,7800.0,4.0,32.4,rain
+517,Green Gram (Moong),Jorhat,2016-09-02,9200.0,12.0,32.4,rain
+518,Lentil(Masur),Jorhat,2016-09-02,9800.0,16.0,32.4,rain
+519,Black Gram (Urd Beans),Jorhat,2016-10-02,7800.0,3.0,34.4,clear
+520,Green Gram (Moong),Jorhat,2016-10-02,9200.0,12.0,34.4,clear
+521,Lentil(Masur),Jorhat,2016-10-02,9700.0,9.0,34.4,clear
+522,Black Gram (Urd Beans),Jorhat,2016-11-02,7800.0,2.0,31.0,clear
+523,Green Gram (Moong),Jorhat,2016-11-02,9200.0,10.0,31.0,clear
+524,Lentil(Masur),Jorhat,2016-11-02,9700.0,12.0,31.0,clear
+525,Black Gram (Urd Beans),Jorhat,2016-12-02,7800.0,3.0,27.2,clear
+526,Green Gram (Moong),Jorhat,2016-12-02,9200.0,13.0,27.2,clear
+527,Lentil(Masur),Jorhat,2016-12-02,9700.0,15.0,27.2,clear
+528,Black Gram (Urd Beans),Jorhat,2016-04-03,7800.0,1.5,30.2,clear
+529,Green Gram (Moong),Jorhat,2016-04-03,9000.0,12.0,30.2,clear
+530,Lentil(Masur),Jorhat,2016-04-03,10000.0,14.0,30.2,clear
+531,Black Gram (Urd Beans),Jorhat,2016-07-03,7800.0,2.0,31.4,clear
+532,Green Gram (Moong),Jorhat,2016-07-03,9000.0,12.0,31.4,clear
+533,Lentil(Masur),Jorhat,2016-07-03,9800.0,13.2,31.4,clear
+534,Black Gram (Urd Beans),Jorhat,2016-08-03,8000.0,2.5,36.0,clear
+535,Green Gram (Moong),Jorhat,2016-08-03,9000.0,9.0,36.0,clear
+536,Lentil(Masur),Jorhat,2016-08-03,9800.0,15.0,36.0,clear
+537,Black Gram (Urd Beans),Jorhat,2016-09-03,8000.0,3.0,33.0,clear
+538,Green Gram (Moong),Jorhat,2016-09-03,9000.0,10.0,33.0,clear
+539,Lentil(Masur),Jorhat,2016-09-03,9800.0,13.2,33.0,clear
+540,Black Gram (Urd Beans),Jorhat,2016-10-03,8000.0,2.0,34.2,clear
+541,Green Gram (Moong),Jorhat,2016-10-03,9000.0,7.5,34.2,clear
+542,Lentil(Masur),Jorhat,2016-10-03,9800.0,11.0,34.2,clear
+543,Black Gram (Urd Beans),Jorhat,2016-11-03,8000.0,1.5,31.0,clear
+544,Green Gram (Moong),Jorhat,2016-11-03,9000.0,9.0,31.0,clear
+545,Lentil(Masur),Jorhat,2016-11-03,9800.0,15.0,31.0,clear
+546,Black Gram (Urd Beans),Jorhat,2016-03-14,8000.0,2.0,27.8,clear
+547,Green Gram (Moong),Jorhat,2016-03-14,9000.0,10.0,27.8,clear
+548,Lentil(Masur),Jorhat,2016-03-14,9800.0,18.0,27.8,clear
+549,Black Gram (Urd Beans),Jorhat,2016-03-16,8000.0,2.0,31.8,clear
+550,Green Gram (Moong),Jorhat,2016-03-16,9000.0,9.0,31.8,clear
+551,Lentil(Masur),Jorhat,2016-03-16,9800.0,15.0,31.8,clear
+552,Black Gram (Urd Beans),Jorhat,2016-03-17,8000.0,2.5,27.0,clear
+553,Green Gram (Moong),Jorhat,2016-03-17,9000.0,9.0,27.0,clear
+554,Lentil(Masur),Jorhat,2016-03-17,9800.0,10.0,27.0,clear
+555,Black Gram (Urd Beans),Jorhat,2016-03-18,8000.0,2.0,26.4,clear
+556,Green Gram (Moong),Jorhat,2016-03-18,9000.0,11.0,26.4,clear
+557,Lentil(Masur),Jorhat,2016-03-18,9800.0,13.2,26.4,clear
+558,Black Gram (Urd Beans),Jorhat,2016-03-28,8000.0,1.5,22.6,rain
+559,Green Gram (Moong),Jorhat,2016-03-28,9000.0,9.0,22.6,rain
+560,Lentil(Masur),Jorhat,2016-03-28,9800.0,15.0,22.6,rain
+561,Black Gram (Urd Beans),Jorhat,2016-03-29,8000.0,2.5,22.6,clear
+562,Green Gram (Moong),Jorhat,2016-03-29,9000.0,11.0,22.6,clear
+563,Lentil(Masur),Jorhat,2016-03-29,9800.0,17.0,22.6,clear
+564,Black Gram (Urd Beans),Jorhat,2016-03-31,7900.0,2.5,27.6,clear
+565,Green Gram (Moong),Jorhat,2016-03-31,9000.0,9.0,27.6,clear
+566,Lentil(Masur),Jorhat,2016-03-31,10000.0,16.0,27.6,clear
+567,Black Gram (Urd Beans),Jorhat,2016-08-04,8000.0,2.0,34.4,clear
+568,Green Gram (Moong),Jorhat,2016-08-04,9200.0,10.0,34.4,clear
+569,Lentil(Masur),Jorhat,2016-08-04,10000.0,18.0,34.4,clear
+570,Black Gram (Urd Beans),Jorhat,2016-11-04,8200.0,6.0,27.8,clear
+571,Green Gram (Moong),Jorhat,2016-11-04,9200.0,15.0,27.8,clear
+572,Lentil(Masur),Jorhat,2016-11-04,10200.0,18.0,27.8,clear
+573,Black Gram (Urd Beans),Jorhat,2016-04-18,8000.0,2.0,23.8,clear
+574,Green Gram (Moong),Jorhat,2016-04-18,9200.0,12.0,23.8,clear
+575,Lentil(Masur),Jorhat,2016-04-18,10000.0,18.0,23.8,clear
+576,Black Gram (Urd Beans),Jorhat,2016-04-22,11000.0,5.0,21.8,rain
+577,Green Gram (Moong),Jorhat,2016-04-22,9000.0,15.0,21.8,rain
+578,Lentil(Masur),Jorhat,2016-04-22,10000.0,18.0,21.8,rain
+579,Black Gram (Urd Beans),Jorhat,2016-04-25,11000.0,7.5,29.0,clear
+580,Green Gram (Moong),Jorhat,2016-04-25,9000.0,18.0,29.0,clear
+581,Lentil(Masur),Jorhat,2016-04-25,10200.0,20.0,29.0,clear
+582,Black Gram (Urd Beans),Jorhat,2016-04-26,11000.0,5.0,28.8,clear
+583,Green Gram (Moong),Jorhat,2016-04-26,9000.0,7.5,28.8,clear
+584,Lentil(Masur),Jorhat,2016-04-26,11000.0,9.0,28.8,clear
+585,Black Gram (Urd Beans),Jorhat,2016-04-27,11000.0,7.5,27.0,clear
+586,Green Gram (Moong),Jorhat,2016-04-27,9000.0,10.0,27.0,clear
+587,Lentil(Masur),Jorhat,2016-04-27,10000.0,20.0,27.0,clear
+588,Black Gram (Urd Beans),Jorhat,2016-04-28,11000.0,3.0,27.8,clear
+589,Green Gram (Moong),Jorhat,2016-04-28,9000.0,10.0,27.8,clear
+590,Lentil(Masur),Jorhat,2016-04-28,10000.0,17.0,27.8,clear
+591,Black Gram (Urd Beans),Jorhat,2016-04-29,11000.0,4.0,29.2,clear
+592,Green Gram (Moong),Jorhat,2016-04-29,9000.0,9.0,29.2,clear
+593,Lentil(Masur),Jorhat,2016-04-29,10000.0,15.0,29.2,clear
+594,Black Gram (Urd Beans),Jorhat,2016-09-06,11000.0,1.0,33.0,clear
+595,Green Gram (Moong),Jorhat,2016-09-06,8800.0,7.5,33.0,clear
+596,Lentil(Masur),Jorhat,2016-09-06,10000.0,15.0,33.0,clear
+597,Green Gram (Moong),Jorhat,2016-01-02,9500.0,10.0,24.4,clear
+598,Lentil(Masur),Jorhat,2016-01-02,10300.0,18.0,24.4,clear
+599,Green Gram (Moong),Jorhat,2016-03-02,9200.0,10.0,27.6,clear
+600,Lentil(Masur),Jorhat,2016-03-02,10300.0,18.0,27.6,clear
+601,Green Gram (Moong),Jorhat,2016-04-02,9200.0,10.0,29.0,clear
+602,Lentil(Masur),Jorhat,2016-04-02,10300.0,15.0,29.0,clear
+603,Green Gram (Moong),Jorhat,2016-01-03,9000.0,9.0,25.0,clear
+604,Lentil(Masur),Jorhat,2016-01-03,9800.0,15.0,25.0,clear
+605,Green Gram (Moong),Jorhat,2016-03-03,9000.0,6.0,27.6,clear
+606,Lentil(Masur),Jorhat,2016-03-03,9800.0,10.5,27.6,clear
+607,Green Gram (Moong),Jorhat,2016-05-04,9000.0,9.0,25.6,rain
+608,Lentil(Masur),Jorhat,2016-05-04,9800.0,10.0,25.6,rain
+609,Green Gram (Moong),Jorhat,2016-06-04,9000.0,12.0,33.6,clear
+610,Lentil(Masur),Jorhat,2016-06-04,9800.0,15.0,33.6,clear
+611,Lentil(Masur),Jorhat,2016-08-26,9800.0,2.5,35.6,clear
+612,Lentil(Masur),Jorhat,2016-09-22,9500.0,16.0,29.0,clear
+613,Lentil(Masur),Jorhat,2016-01-11,9500.0,0.2,21.2,clear
+614,Arhar (Tur/Red Gram),Jorhat,2017-02-01,10500.0,9.0,24.4,clear
+615,Green Gram (Moong),Jorhat,2017-02-01,6200.0,0.2,24.4,clear
+616,Arhar (Tur/Red Gram),Jorhat,2017-04-01,9500.0,8.0,24.2,rain
+617,Green Gram (Moong),Jorhat,2017-04-01,6200.0,20.0,24.2,rain
+618,Lentil(Masur),Jorhat,2017-04-01,9000.0,22.0,24.2,rain
+619,Arhar (Tur/Red Gram),Jorhat,2017-05-01,10000.0,7.5,29.4,clear
+620,Green Gram (Moong),Jorhat,2017-05-01,6200.0,12.0,29.4,clear
+621,Lentil(Masur),Jorhat,2017-05-01,9000.0,15.0,29.4,clear
+622,Arhar (Tur/Red Gram),Jorhat,2017-07-01,9500.0,7.0,28.4,clear
+623,Green Gram (Moong),Jorhat,2017-07-01,6200.0,15.0,28.4,clear
+624,Lentil(Masur),Jorhat,2017-07-01,9000.0,18.0,28.4,clear
+625,Arhar (Tur/Red Gram),Jorhat,2017-01-17,9000.0,6.0,23.6,clear
+626,Arhar (Tur/Red Gram),Jorhat,2017-03-05,7000.0,8.0,23.4,clear
+627,Black Gram (Urd Beans),Jorhat,2017-03-05,5200.0,2.0,23.4,clear
+628,Green Gram (Moong),Jorhat,2017-03-05,6500.0,15.0,23.4,clear
+629,Lentil(Masur),Jorhat,2017-03-05,8200.0,16.0,23.4,clear
+630,Arhar (Tur/Red Gram),Jorhat,2017-04-05,7000.0,9.0,28.2,clear
+631,Black Gram (Urd Beans),Jorhat,2017-04-05,5200.0,3.0,28.2,clear
+632,Green Gram (Moong),Jorhat,2017-04-05,6500.0,16.0,28.2,clear
+633,Lentil(Masur),Jorhat,2017-04-05,8200.0,14.5,28.2,clear
+634,Arhar (Tur/Red Gram),Jorhat,2017-05-16,7700.0,8.0,28.6,rain
+635,Black Gram (Urd Beans),Jorhat,2017-05-16,5300.0,4.5,28.6,rain
+636,Green Gram (Moong),Jorhat,2017-05-16,6500.0,9.0,28.6,rain
+637,Lentil(Masur),Jorhat,2017-05-16,7000.0,16.0,28.6,rain
+638,Arhar (Tur/Red Gram),Jorhat,2017-05-17,7700.0,7.0,32.2,clear
+639,Black Gram (Urd Beans),Jorhat,2017-05-17,5300.0,4.0,32.2,clear
+640,Green Gram (Moong),Jorhat,2017-05-17,6500.0,8.0,32.2,clear
+641,Lentil(Masur),Jorhat,2017-05-17,6800.0,16.0,32.2,clear
+642,Arhar (Tur/Red Gram),Jorhat,2017-05-18,7000.0,8.0,33.0,clear
+643,Black Gram (Urd Beans),Jorhat,2017-05-18,5300.0,5.0,33.0,clear
+644,Green Gram (Moong),Jorhat,2017-05-18,6400.0,7.0,33.0,clear
+645,Lentil(Masur),Jorhat,2017-05-18,6800.0,16.0,33.0,clear
+646,Arhar (Tur/Red Gram),Jorhat,2017-05-19,7700.0,9.0,28.8,clear
+647,Black Gram (Urd Beans),Jorhat,2017-05-19,5300.0,5.0,28.8,clear
+648,Green Gram (Moong),Jorhat,2017-05-19,6400.0,14.0,28.8,clear
+649,Lentil(Masur),Jorhat,2017-05-19,6800.0,18.0,28.8,clear
+650,Arhar (Tur/Red Gram),Jorhat,2017-05-20,7700.0,7.0,29.0,clear
+651,Green Gram (Moong),Jorhat,2017-05-20,6300.0,12.0,29.0,clear
+652,Lentil(Masur),Jorhat,2017-05-20,6700.0,15.0,29.0,clear
+653,Arhar (Tur/Red Gram),Jorhat,2017-05-23,7800.0,9.0,28.2,clear
+654,Arhar (Tur/Red Gram),Jorhat,2017-05-24,7000.0,7.0,28.2,clear
+655,Black Gram (Urd Beans),Jorhat,2017-05-24,5200.0,4.0,28.2,clear
+656,Green Gram (Moong),Jorhat,2017-05-24,6400.0,8.0,28.2,clear
+657,Lentil(Masur),Jorhat,2017-05-24,6600.0,16.0,28.2,clear
+658,Arhar (Tur/Red Gram),Jorhat,2017-05-27,7700.0,8.0,31.4,clear
+659,Black Gram (Urd Beans),Jorhat,2017-05-27,5200.0,4.0,31.4,clear
+660,Green Gram (Moong),Jorhat,2017-05-27,6400.0,10.0,31.4,clear
+661,Lentil(Masur),Jorhat,2017-05-27,6700.0,15.0,31.4,clear
+662,Arhar (Tur/Red Gram),Jorhat,2017-05-29,7600.0,6.0,30.6,clear
+663,Black Gram (Urd Beans),Jorhat,2017-05-29,5200.0,5.0,30.6,clear
+664,Green Gram (Moong),Jorhat,2017-05-29,6400.0,8.0,30.6,clear
+665,Lentil(Masur),Jorhat,2017-05-29,6500.0,17.0,30.6,clear
+666,Arhar (Tur/Red Gram),Jorhat,2017-05-30,7000.0,8.0,26.8,rain
+667,Black Gram (Urd Beans),Jorhat,2017-05-30,5100.0,4.0,26.8,rain
+668,Green Gram (Moong),Jorhat,2017-05-30,6300.0,8.0,26.8,rain
+669,Lentil(Masur),Jorhat,2017-05-30,7000.0,16.0,26.8,rain
+670,Arhar (Tur/Red Gram),Jorhat,2017-06-06,7300.0,18.0,34.4,clear
+671,Black Gram (Urd Beans),Jorhat,2017-06-06,5100.0,4.0,34.4,clear
+672,Green Gram (Moong),Jorhat,2017-06-06,6200.0,20.0,34.4,clear
+673,Lentil(Masur),Jorhat,2017-06-06,7000.0,20.0,34.4,clear
+674,Arhar (Tur/Red Gram),Jorhat,2017-07-06,7000.0,9.0,33.2,clear
+675,Black Gram (Urd Beans),Jorhat,2017-07-06,5100.0,2.0,33.2,clear
+676,Green Gram (Moong),Jorhat,2017-07-06,6300.0,16.0,33.2,clear
+677,Lentil(Masur),Jorhat,2017-07-06,7500.0,20.0,33.2,clear
+678,Arhar (Tur/Red Gram),Jorhat,2017-08-06,7300.0,10.0,33.0,rain
+679,Arhar (Tur/Red Gram),Jorhat,2017-09-06,7300.0,10.0,30.2,clear
+680,Green Gram (Moong),Jorhat,2017-09-06,6400.0,15.0,30.2,clear
+681,Arhar (Tur/Red Gram),Jorhat,2017-12-06,7000.0,9.0,25.2,clear
+682,Black Gram (Urd Beans),Jorhat,2017-12-06,5100.0,2.0,25.2,clear
+683,Green Gram (Moong),Jorhat,2017-12-06,6300.0,16.0,25.2,clear
+684,Lentil(Masur),Jorhat,2017-12-06,7400.0,18.0,25.2,clear
+685,Arhar (Tur/Red Gram),Jorhat,2017-06-13,7000.0,8.0,29.4,clear
+686,Black Gram (Urd Beans),Jorhat,2017-06-13,5100.0,2.0,29.4,clear
+687,Green Gram (Moong),Jorhat,2017-06-13,6200.0,12.0,29.4,clear
+688,Lentil(Masur),Jorhat,2017-06-13,7500.0,15.0,29.4,clear
+689,Arhar (Tur/Red Gram),Jorhat,2017-06-14,7200.0,8.0,31.2,clear
+690,Black Gram (Urd Beans),Jorhat,2017-06-14,5000.0,2.0,31.2,clear
+691,Green Gram (Moong),Jorhat,2017-06-14,6200.0,12.0,31.2,clear
+692,Lentil(Masur),Jorhat,2017-06-14,7000.0,15.0,31.2,clear
+693,Arhar (Tur/Red Gram),Jorhat,2017-06-16,7200.0,8.0,30.6,clear
+694,Black Gram (Urd Beans),Jorhat,2017-06-16,5000.0,2.0,30.6,clear
+695,Green Gram (Moong),Jorhat,2017-06-16,6300.0,15.0,30.6,clear
+696,Lentil(Masur),Jorhat,2017-06-16,7200.0,18.0,30.6,clear
+697,Arhar (Tur/Red Gram),Jorhat,2017-06-17,7000.0,8.0,28.2,clear
+698,Black Gram (Urd Beans),Jorhat,2017-06-17,5000.0,2.0,28.2,clear
+699,Green Gram (Moong),Jorhat,2017-06-17,6200.0,10.0,28.2,clear
+700,Lentil(Masur),Jorhat,2017-06-17,7400.0,15.0,28.2,clear
+701,Arhar (Tur/Red Gram),Jorhat,2017-06-19,7000.0,8.0,29.4,clear
+702,Black Gram (Urd Beans),Jorhat,2017-06-19,5000.0,2.0,29.4,clear
+703,Green Gram (Moong),Jorhat,2017-06-19,6300.0,13.0,29.4,clear
+704,Lentil(Masur),Jorhat,2017-06-19,7200.0,15.0,29.4,clear
+705,Arhar (Tur/Red Gram),Jorhat,2017-06-20,7000.0,7.5,31.6,clear
+706,Black Gram (Urd Beans),Jorhat,2017-06-20,5000.0,2.0,31.6,clear
+707,Green Gram (Moong),Jorhat,2017-06-20,6200.0,16.0,31.6,clear
+708,Lentil(Masur),Jorhat,2017-06-20,7200.0,16.0,31.6,clear
+709,Arhar (Tur/Red Gram),Jorhat,2017-06-21,7000.0,8.0,32.2,clear
+710,Black Gram (Urd Beans),Jorhat,2017-06-21,5000.0,2.0,32.2,clear
+711,Green Gram (Moong),Jorhat,2017-06-21,6200.0,15.0,32.2,clear
+712,Lentil(Masur),Jorhat,2017-06-21,7200.0,17.0,32.2,clear
+713,Arhar (Tur/Red Gram),Jorhat,2017-06-22,7000.0,7.5,32.2,rain
+714,Black Gram (Urd Beans),Jorhat,2017-06-22,5000.0,1.5,32.2,rain
+715,Green Gram (Moong),Jorhat,2017-06-22,6300.0,12.0,32.2,rain
+716,Lentil(Masur),Jorhat,2017-06-22,7200.0,14.0,32.2,rain
+717,Arhar (Tur/Red Gram),Jorhat,2017-06-23,7000.0,9.0,32.8,clear
+718,Black Gram (Urd Beans),Jorhat,2017-06-23,5000.0,1.5,32.8,clear
+719,Green Gram (Moong),Jorhat,2017-06-23,6300.0,15.0,32.8,clear
+720,Lentil(Masur),Jorhat,2017-06-23,7200.0,16.0,32.8,clear
+721,Arhar (Tur/Red Gram),Jorhat,2017-06-27,7000.0,9.0,30.6,clear
+722,Black Gram (Urd Beans),Jorhat,2017-06-27,5100.0,2.0,30.6,clear
+723,Green Gram (Moong),Jorhat,2017-06-27,6200.0,16.0,30.6,clear
+724,Lentil(Masur),Jorhat,2017-06-27,6800.0,16.0,30.6,clear
+725,Arhar (Tur/Red Gram),Jorhat,2017-06-28,6800.0,8.0,34.2,clear
+726,Black Gram (Urd Beans),Jorhat,2017-06-28,5000.0,3.0,34.2,clear
+727,Green Gram (Moong),Jorhat,2017-06-28,6200.0,15.0,34.2,clear
+728,Lentil(Masur),Jorhat,2017-06-28,7000.0,12.0,34.2,clear
+729,Arhar (Tur/Red Gram),Jorhat,2017-06-29,6800.0,9.0,31.2,clear
+730,Black Gram (Urd Beans),Jorhat,2017-06-29,5000.0,2.0,31.2,clear
+731,Green Gram (Moong),Jorhat,2017-06-29,6000.0,16.0,31.2,clear
+732,Lentil(Masur),Jorhat,2017-06-29,6900.0,18.0,31.2,clear
+733,Arhar (Tur/Red Gram),Jorhat,2017-06-30,6800.0,9.0,31.8,clear
+734,Black Gram (Urd Beans),Jorhat,2017-06-30,5000.0,2.0,31.8,clear
+735,Green Gram (Moong),Jorhat,2017-06-30,6000.0,16.0,31.8,clear
+736,Lentil(Masur),Jorhat,2017-06-30,6800.0,15.0,31.8,clear
+737,Arhar (Tur/Red Gram),Jorhat,2017-01-07,6800.0,12.0,24.0,clear
+738,Green Gram (Moong),Jorhat,2017-01-07,6000.0,20.0,24.0,clear
+739,Lentil(Masur),Jorhat,2017-01-07,6700.0,20.0,24.0,clear
+740,Arhar (Tur/Red Gram),Jorhat,2017-04-07,6700.0,9.0,29.8,clear
+741,Green Gram (Moong),Jorhat,2017-04-07,6000.0,16.0,29.8,clear
+742,Lentil(Masur),Jorhat,2017-04-07,6800.0,17.0,29.8,clear
+743,Arhar (Tur/Red Gram),Jorhat,2017-05-07,6800.0,8.0,31.0,clear
+744,Green Gram (Moong),Jorhat,2017-05-07,6000.0,15.0,31.0,clear
+745,Lentil(Masur),Jorhat,2017-05-07,6500.0,18.0,31.0,clear
+746,Arhar (Tur/Red Gram),Jorhat,2017-07-07,6800.0,7.5,31.4,clear
+747,Green Gram (Moong),Jorhat,2017-07-07,6000.0,15.0,31.4,clear
+748,Lentil(Masur),Jorhat,2017-07-07,6700.0,18.0,31.4,clear
+749,Arhar (Tur/Red Gram),Jorhat,2017-10-07,6800.0,9.0,33.6,clear
+750,Green Gram (Moong),Jorhat,2017-10-07,6000.0,16.0,33.6,clear
+751,Lentil(Masur),Jorhat,2017-10-07,6700.0,15.0,33.6,clear
+752,Arhar (Tur/Red Gram),Jorhat,2017-11-07,6800.0,8.0,29.0,clear
+753,Green Gram (Moong),Jorhat,2017-11-07,6000.0,13.0,29.0,clear
+754,Lentil(Masur),Jorhat,2017-11-07,6700.0,18.0,29.0,clear
+755,Arhar (Tur/Red Gram),Jorhat,2017-12-07,6700.0,9.0,25.4,clear
+756,Green Gram (Moong),Jorhat,2017-12-07,6000.0,16.0,25.4,clear
+757,Lentil(Masur),Jorhat,2017-12-07,6800.0,15.0,25.4,clear
+758,Arhar (Tur/Red Gram),Jorhat,2017-07-14,6500.0,9.0,33.4,clear
+759,Green Gram (Moong),Jorhat,2017-07-14,6000.0,15.0,33.4,clear
+760,Lentil(Masur),Jorhat,2017-07-14,6700.0,15.0,33.4,clear
+761,Arhar (Tur/Red Gram),Jorhat,2017-07-15,6600.0,8.0,34.0,clear
+762,Green Gram (Moong),Jorhat,2017-07-15,6000.0,12.0,34.0,clear
+763,Lentil(Masur),Jorhat,2017-07-15,6700.0,15.0,34.0,clear
+764,Arhar (Tur/Red Gram),Jorhat,2017-07-17,6500.0,9.0,32.6,clear
+765,Green Gram (Moong),Jorhat,2017-07-17,6000.0,15.0,32.6,clear
+766,Lentil(Masur),Jorhat,2017-07-17,6700.0,18.0,32.6,clear
+767,Arhar (Tur/Red Gram),Jorhat,2017-07-18,6500.0,8.0,37.2,clear
+768,Green Gram (Moong),Jorhat,2017-07-18,6000.0,16.0,37.2,clear
+769,Lentil(Masur),Jorhat,2017-07-18,5300.0,20.0,37.2,clear
+770,Arhar (Tur/Red Gram),Jorhat,2017-07-19,6500.0,8.0,29.4,clear
+771,Green Gram (Moong),Jorhat,2017-07-19,6000.0,15.0,29.4,clear
+772,Lentil(Masur),Jorhat,2017-07-19,6500.0,18.0,29.4,clear
+773,Arhar (Tur/Red Gram),Jorhat,2017-07-20,6500.0,9.0,34.6,clear
+774,Green Gram (Moong),Jorhat,2017-07-20,6000.0,12.0,34.6,clear
+775,Lentil(Masur),Jorhat,2017-07-20,6200.0,20.0,34.6,clear
+776,Arhar (Tur/Red Gram),Jorhat,2017-07-24,6800.0,12.0,32.0,clear
+777,Green Gram (Moong),Jorhat,2017-07-24,6000.0,20.0,32.0,clear
+778,Lentil(Masur),Jorhat,2017-07-24,6500.0,25.0,32.0,clear
+779,Arhar (Tur/Red Gram),Jorhat,2017-07-25,6800.0,10.0,32.6,clear
+780,Green Gram (Moong),Jorhat,2017-07-25,5800.0,16.0,32.6,clear
+781,Lentil(Masur),Jorhat,2017-07-25,6500.0,18.0,32.6,clear
+782,Arhar (Tur/Red Gram),Jorhat,2017-07-26,6500.0,10.0,34.6,clear
+783,Green Gram (Moong),Jorhat,2017-07-26,6000.0,20.0,34.6,clear
+784,Lentil(Masur),Jorhat,2017-07-26,6700.0,20.0,34.6,clear
+785,Arhar (Tur/Red Gram),Jorhat,2017-07-27,6500.0,10.0,32.8,clear
+786,Green Gram (Moong),Jorhat,2017-07-27,6000.0,18.0,32.8,clear
+787,Lentil(Masur),Jorhat,2017-07-27,6700.0,20.0,32.8,clear
+788,Arhar (Tur/Red Gram),Jorhat,2017-07-28,6500.0,10.0,30.4,clear
+789,Green Gram (Moong),Jorhat,2017-07-28,6000.0,18.0,30.4,clear
+790,Lentil(Masur),Jorhat,2017-07-28,6500.0,17.5,30.4,clear
+791,Arhar (Tur/Red Gram),Jorhat,2017-07-29,6500.0,8.0,33.6,clear
+792,Green Gram (Moong),Jorhat,2017-07-29,6000.0,12.0,33.6,clear
+793,Lentil(Masur),Jorhat,2017-07-29,6400.0,15.0,33.6,clear
+794,Arhar (Tur/Red Gram),Jorhat,2017-07-31,6200.0,9.0,32.6,clear
+795,Green Gram (Moong),Jorhat,2017-07-31,5800.0,15.0,32.6,clear
+796,Lentil(Masur),Jorhat,2017-07-31,6700.0,18.0,32.6,clear
+797,Arhar (Tur/Red Gram),Jorhat,2017-02-08,6500.0,9.0,25.8,clear
+798,Green Gram (Moong),Jorhat,2017-02-08,5800.0,12.0,25.8,clear
+799,Lentil(Masur),Jorhat,2017-02-08,5500.0,15.0,25.8,clear
+800,Arhar (Tur/Red Gram),Jorhat,2017-03-08,6500.0,10.0,27.2,clear
+801,Green Gram (Moong),Jorhat,2017-03-08,6000.0,15.0,27.2,clear
+802,Lentil(Masur),Jorhat,2017-03-08,6400.0,17.0,27.2,clear
+803,Arhar (Tur/Red Gram),Jorhat,2017-04-08,6500.0,10.0,29.2,clear
+804,Green Gram (Moong),Jorhat,2017-04-08,6000.0,15.0,29.2,clear
+805,Lentil(Masur),Jorhat,2017-04-08,6400.0,16.0,29.2,clear
+806,Arhar (Tur/Red Gram),Jorhat,2017-07-08,6500.0,10.0,33.6,clear
+807,Green Gram (Moong),Jorhat,2017-07-08,5800.0,18.0,33.6,clear
+808,Lentil(Masur),Jorhat,2017-07-08,6300.0,20.0,33.6,clear
+809,Arhar (Tur/Red Gram),Jorhat,2017-09-08,6500.0,10.0,33.0,clear
+810,Green Gram (Moong),Jorhat,2017-09-08,6000.0,20.0,33.0,clear
+811,Lentil(Masur),Jorhat,2017-09-08,6400.0,25.0,33.0,clear
+812,Arhar (Tur/Red Gram),Jorhat,2017-10-08,6500.0,10.0,33.2,clear
+813,Green Gram (Moong),Jorhat,2017-10-08,6000.0,16.0,33.2,clear
+814,Lentil(Masur),Jorhat,2017-10-08,6400.0,18.0,33.2,clear
+815,Arhar (Tur/Red Gram),Jorhat,2017-08-16,7000.0,9.0,32.6,clear
+816,Green Gram (Moong),Jorhat,2017-08-16,6100.0,16.0,32.6,clear
+817,Lentil(Masur),Jorhat,2017-08-16,6800.0,18.0,32.6,clear
+818,Arhar (Tur/Red Gram),Jorhat,2017-08-17,7000.0,9.0,34.4,clear
+819,Green Gram (Moong),Jorhat,2017-08-17,6100.0,16.0,34.4,clear
+820,Lentil(Masur),Jorhat,2017-08-17,6900.0,18.0,34.4,clear
+821,Arhar (Tur/Red Gram),Jorhat,2017-08-28,7000.0,15.0,33.0,clear
+822,Green Gram (Moong),Jorhat,2017-08-28,6200.0,20.0,33.0,clear
+823,Lentil(Masur),Jorhat,2017-08-28,6700.0,22.0,33.0,clear
+824,Arhar (Tur/Red Gram),Jorhat,2017-08-30,7000.0,10.0,32.6,clear
+825,Green Gram (Moong),Jorhat,2017-08-30,6200.0,21.0,32.6,clear
+826,Lentil(Masur),Jorhat,2017-08-30,6700.0,20.0,32.6,clear
+827,Arhar (Tur/Red Gram),Jorhat,2017-07-09,7100.0,21.0,26.2,rain
+828,Green Gram (Moong),Jorhat,2017-07-09,6400.0,55.0,26.2,rain
+829,Lentil(Masur),Jorhat,2017-07-09,6700.0,45.0,26.2,rain
+830,Arhar (Tur/Red Gram),Jorhat,2017-09-15,7200.0,16.0,34.2,clear
+831,Green Gram (Moong),Jorhat,2017-09-15,6200.0,41.0,34.2,clear
+832,Lentil(Masur),Jorhat,2017-09-15,6700.0,29.0,34.2,clear
+833,Arhar (Tur/Red Gram),Jorhat,2017-09-21,7000.0,20.0,31.8,clear
+834,Green Gram (Moong),Jorhat,2017-09-21,6000.0,25.0,31.8,clear
+835,Lentil(Masur),Jorhat,2017-09-21,6700.0,41.0,31.8,clear
+836,Arhar (Tur/Red Gram),Jorhat,2017-09-22,7000.0,15.0,33.2,clear
+837,Green Gram (Moong),Jorhat,2017-09-22,6000.0,25.0,33.2,clear
+838,Lentil(Masur),Jorhat,2017-09-22,6600.0,21.0,33.2,clear
+839,Arhar (Tur/Red Gram),Jorhat,2017-09-26,7200.0,16.0,33.0,clear
+840,Lentil(Masur),Jorhat,2017-09-26,6600.0,29.0,33.0,clear
+841,Arhar (Tur/Red Gram),Jorhat,2017-09-10,7000.0,25.0,30.0,clear
+842,Green Gram (Moong),Jorhat,2017-09-10,6200.0,45.0,30.0,clear
+843,Lentil(Masur),Jorhat,2017-09-10,6700.0,50.0,30.0,clear
+844,Arhar (Tur/Red Gram),Jorhat,2017-10-28,6800.0,25.0,29.0,clear
+845,Lentil(Masur),Jorhat,2017-10-28,6700.0,50.0,29.0,clear
+846,Arhar (Tur/Red Gram),Jorhat,2017-10-30,6900.0,21.0,23.0,rain
+847,Lentil(Masur),Jorhat,2017-10-30,6700.0,45.0,23.0,rain
+848,Black Gram (Urd Beans),Jorhat,2017-03-01,5800.0,5.0,27.2,clear
+849,Lentil(Masur),Jorhat,2017-03-01,9000.0,18.0,27.2,clear
+850,Black Gram (Urd Beans),Jorhat,2017-02-02,5200.0,2.5,25.2,clear
+851,Black Gram (Urd Beans),Jorhat,2017-04-02,5200.0,2.0,23.0,rain
+852,Lentil(Masur),Jorhat,2017-04-02,8800.0,14.0,23.0,rain
+853,Black Gram (Urd Beans),Jorhat,2017-09-02,5200.0,2.0,33.6,clear
+854,Green Gram (Moong),Jorhat,2017-09-02,6200.0,16.0,33.6,clear
+855,Lentil(Masur),Jorhat,2017-09-02,8800.0,18.0,33.6,clear
+856,Black Gram (Urd Beans),Jorhat,2017-02-14,5100.0,2.5,27.8,clear
+857,Black Gram (Urd Beans),Jorhat,2017-02-18,5200.0,2.0,29.2,clear
+858,Green Gram (Moong),Jorhat,2017-02-18,6000.0,16.0,29.2,clear
+859,Lentil(Masur),Jorhat,2017-02-18,8700.0,18.0,29.2,clear
+860,Black Gram (Urd Beans),Jorhat,2017-10-04,5150.0,2.5,33.0,clear
+861,Black Gram (Urd Beans),Jorhat,2017-04-19,5100.0,2.5,25.6,clear
+862,Green Gram (Moong),Jorhat,2017-04-19,6500.0,15.0,25.6,clear
+863,Lentil(Masur),Jorhat,2017-04-19,8200.0,20.0,25.6,clear
+864,Black Gram (Urd Beans),Jorhat,2017-04-20,5200.0,2.5,26.2,clear
+865,Green Gram (Moong),Jorhat,2017-04-20,6500.0,12.0,26.2,clear
+866,Lentil(Masur),Jorhat,2017-04-20,6100.0,18.0,26.2,clear
+867,Green Gram (Moong),Jorhat,2017-06-01,6200.0,15.0,28.6,clear
+868,Lentil(Masur),Jorhat,2017-06-01,9000.0,20.0,28.6,clear
+869,Green Gram (Moong),Jorhat,2017-09-01,6200.0,16.0,32.6,clear
+870,Green Gram (Moong),Jorhat,2017-01-18,6000.0,35.0,24.2,clear
+871,Lentil(Masur),Jorhat,2017-01-18,8800.0,30.0,24.2,clear
+872,Green Gram (Moong),Jorhat,2017-01-02,6400.0,1.5,26.0,clear
+873,Green Gram (Moong),Jorhat,2017-03-20,6000.0,15.0,24.4,clear
+874,Lentil(Masur),Jorhat,2017-03-20,8000.0,17.0,24.4,clear
+875,Green Gram (Moong),Jorhat,2017-03-04,6500.0,18.0,28.8,clear
+876,Lentil(Masur),Jorhat,2017-03-04,8200.0,0.2,28.8,clear
+877,Green Gram (Moong),Jorhat,2017-08-04,6500.0,15.0,32.8,clear
+878,Lentil(Masur),Jorhat,2017-08-04,8100.0,20.0,32.8,clear
+879,Green Gram (Moong),Jorhat,2017-05-15,6300.0,5.0,31.8,clear
+880,Green Gram (Moong),Jorhat,2017-06-15,6300.0,20.0,31.4,clear
+881,Green Gram (Moong),Jorhat,2017-06-07,6000.0,12.0,35.8,clear
+882,Lentil(Masur),Jorhat,2017-06-07,6800.0,15.0,35.8,clear
+883,Green Gram (Moong),Jorhat,2017-07-13,6000.0,16.0,34.0,clear
+884,Lentil(Masur),Jorhat,2017-07-13,6700.0,17.0,34.0,clear
+885,Green Gram (Moong),Jorhat,2017-08-21,2500.0,20.0,34.6,clear
+886,Lentil(Masur),Jorhat,2017-08-21,6800.0,22.0,34.6,clear
+887,Green Gram (Moong),Jorhat,2017-08-24,6200.0,20.0,32.6,clear
+888,Lentil(Masur),Jorhat,2017-08-24,6800.0,40.0,32.6,clear
+889,Green Gram (Moong),Jorhat,2017-08-31,6200.0,18.0,31.0,clear
+890,Lentil(Masur),Jorhat,2017-08-31,6700.0,22.0,31.0,clear
+891,Green Gram (Moong),Jorhat,2017-01-09,6100.0,25.0,25.4,clear
+892,Lentil(Masur),Jorhat,2017-01-09,6700.0,45.0,25.4,clear
+893,Green Gram (Moong),Jorhat,2017-08-09,6400.0,22.0,29.2,clear
+894,Lentil(Masur),Jorhat,2017-08-09,6700.0,21.0,29.2,clear
+895,Green Gram (Moong),Jorhat,2017-09-13,6400.0,20.0,31.4,clear
+896,Lentil(Masur),Jorhat,2017-09-13,6700.0,21.0,31.4,clear
+897,Green Gram (Moong),Jorhat,2017-09-19,6200.0,25.0,34.2,clear
+898,Lentil(Masur),Jorhat,2017-09-19,6700.0,10.0,34.2,clear
+899,Green Gram (Moong),Jorhat,2017-10-16,6000.0,22.0,30.4,clear
+900,Lentil(Masur),Jorhat,2017-10-01,8800.0,20.0,31.6,clear
+901,Lentil(Masur),Jorhat,2017-03-03,8500.0,17.0,23.4,clear
+902,Lentil(Masur),Jorhat,2017-06-03,8200.0,17.0,28.2,clear
+903,Lentil(Masur),Jorhat,2017-03-14,8200.0,16.0,27.8,clear
+904,Lentil(Masur),Jorhat,2017-03-16,8000.0,15.0,28.2,clear
+905,Lentil(Masur),Jorhat,2017-05-22,7200.0,15.0,30.0,clear
+906,Lentil(Masur),Jorhat,2017-05-25,7000.0,16.0,25.2,clear
+907,Lentil(Masur),Jorhat,2017-05-26,5600.0,18.0,29.0,clear
+908,Lentil(Masur),Jorhat,2017-04-09,6800.0,29.0,32.0,clear
+909,Lentil(Masur),Jorhat,2017-11-09,6700.0,21.0,29.6,clear
+910,Lentil(Masur),Jorhat,2017-04-10,6700.0,21.0,29.8,clear
+911,Lentil(Masur),Jorhat,2017-06-10,6700.0,22.0,34.8,clear
+912,Lentil(Masur),Jorhat,2017-10-21,6700.0,62.0,24.0,rain
+913,Lentil(Masur),Jorhat,2017-10-25,6700.0,22.0,27.6,clear
+914,Lentil(Masur),Jorhat,2017-10-27,6700.0,22.0,28.2,clear

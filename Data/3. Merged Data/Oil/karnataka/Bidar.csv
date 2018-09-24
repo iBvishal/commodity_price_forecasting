@@ -1,0 +1,1587 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Safflower,Basava Kalayana,2014-08-03,2700.0,0.0,30.4,clear
+1,Safflower,Bidar,2014-08-03,2996.0,1.0,30.4,clear
+2,Soyabean,Basava Kalayana,2014-08-03,3900.0,9.0,30.4,clear
+3,Soyabean,Bhalki,2014-08-03,3704.0,24.0,30.4,clear
+4,Soyabean,Bidar,2014-08-03,3806.0,19.0,30.4,clear
+5,Sunflower,Basava Kalayana,2014-08-03,3200.0,0.0,30.4,clear
+6,Safflower,Basava Kalayana,2015-12-12,2400.0,0.0,30.0,clear
+7,Soyabean,Basava Kalayana,2015-12-12,3550.0,5.0,30.0,clear
+8,Soyabean,Bhalki,2015-12-12,3550.0,3.0,30.0,clear
+9,Soyabean,Humanabad,2015-12-12,3500.0,3.0,30.0,clear
+10,Sunflower,Basava Kalayana,2015-12-12,3550.0,2.0,30.0,clear
+11,Safflower,Basava Kalayana,2015-12-19,2200.0,0.0,30.2,clear
+12,Soyabean,Basava Kalayana,2015-12-19,3500.0,5.0,30.2,clear
+13,Soyabean,Bhalki,2015-12-19,3550.0,4.0,30.2,clear
+14,Sunflower,Basava Kalayana,2015-12-19,3500.0,1.0,30.2,clear
+15,Safflower,Basava Kalayana,2015-12-31,2300.0,0.0,29.8,clear
+16,Soyabean,Basava Kalayana,2015-12-31,3600.0,3.0,29.8,clear
+17,Soyabean,Bhalki,2015-12-31,3505.0,3.0,29.8,clear
+18,Sunflower,Basava Kalayana,2015-12-31,3400.0,0.0,29.8,clear
+19,Soyabean,Basava Kalayana,2015-12-08,3225.0,2.0,27.8,clear
+20,Soyabean,Bhalki,2015-12-08,3150.0,1.0,27.8,clear
+21,Soyabean,Basava Kalayana,2015-12-18,3550.0,4.0,32.4,clear
+22,Soyabean,Bidar,2015-12-18,3490.0,7.0,32.4,clear
+23,Sunflower,Basava Kalayana,2015-12-18,3550.0,1.0,32.4,clear
+24,Soyabean,Basava Kalayana,2015-12-21,3650.0,5.0,28.8,clear
+25,Sunflower,Basava Kalayana,2015-12-21,3500.0,1.0,28.8,clear
+26,Soyabean,Basava Kalayana,2015-12-22,3650.0,4.0,29.0,clear
+27,Sunflower,Basava Kalayana,2015-12-22,3550.0,0.0,29.0,clear
+28,Soyabean,Basava Kalayana,2015-12-23,3500.0,4.0,27.8,clear
+29,Soyabean,Bhalki,2015-12-23,3601.0,3.0,27.8,clear
+30,Sunflower,Basava Kalayana,2015-12-23,3500.0,1.0,27.8,clear
+31,Soyabean,Basava Kalayana,2015-12-26,3500.0,4.0,24.6,clear
+32,Sunflower,Basava Kalayana,2015-12-26,3550.0,1.0,24.6,clear
+33,Soyabean,Basava Kalayana,2015-12-28,3550.0,4.0,28.4,clear
+34,Soyabean,Bhalki,2015-12-28,3550.0,5.0,28.4,clear
+35,Sunflower,Basava Kalayana,2015-12-28,3500.0,2.0,28.4,clear
+36,Soyabean,Basava Kalayana,2015-12-29,3550.0,3.0,31.0,clear
+37,Sunflower,Basava Kalayana,2015-12-29,3500.0,1.0,31.0,clear
+38,Soyabean,Basava Kalayana,2015-12-30,3500.0,3.0,29.8,clear
+39,Soyabean,Bhalki,2015-12-30,3501.0,3.0,29.8,clear
+40,Sunflower,Basava Kalayana,2015-12-30,3450.0,1.0,29.8,clear
+41,Soyabean,Bhalki,2015-12-11,3850.0,5.0,30.0,clear
+42,Soyabean,Bhalki,2015-12-14,3504.0,3.0,31.2,clear
+43,Soyabean,Bhalki,2015-12-15,3510.0,2.0,31.0,clear
+44,Soyabean,Bhalki,2015-12-16,3550.0,3.0,32.6,clear
+45,Soyabean,Bhalki,2015-12-17,3550.0,3.0,32.8,clear
+46,Groundnut,Basava Kalayana,2016-01-02,5300.0,0.0,31.0,clear
+47,Safflower,Basava Kalayana,2016-01-02,2400.0,0.0,31.0,clear
+48,Soyabean,Basava Kalayana,2016-01-02,3650.0,3.0,31.0,clear
+49,Sunflower,Basava Kalayana,2016-01-02,3350.0,0.0,31.0,clear
+50,Groundnut,Basava Kalayana,2016-09-21,5700.0,0.0,27.4,clear
+51,Soyabean,Basava Kalayana,2016-09-21,3150.0,4.0,27.4,clear
+52,Soyabean,Humanabad,2016-09-21,2650.0,8.0,27.4,clear
+53,Groundnut,Basava Kalayana,2016-09-29,5901.0,0.0,28.8,clear
+54,Soyabean,Basava Kalayana,2016-09-29,2800.0,6.0,28.8,clear
+55,Soyabean,Humanabad,2016-09-29,2000.0,5.0,28.8,clear
+56,Groundnut,Basava Kalayana,2016-05-11,6500.0,0.0,35.0,clear
+57,Soyabean,Aurad,2016-05-11,2500.0,10.0,35.0,clear
+58,Soyabean,Basava Kalayana,2016-05-11,2500.0,103.0,35.0,clear
+59,Soyabean,Bhalki,2016-05-11,2681.0,6.0,35.0,clear
+60,Soyabean,Bidar,2016-05-11,2550.0,151.0,35.0,clear
+61,Soyabean,Humanabad,2016-05-11,2200.0,31.0,35.0,clear
+62,Safflower,Basava Kalayana,2016-02-01,2300.0,0.0,34.2,clear
+63,Soyabean,Basava Kalayana,2016-02-01,3500.0,3.0,34.2,clear
+64,Soyabean,Bhalki,2016-02-01,3504.0,3.0,34.2,clear
+65,Sunflower,Basava Kalayana,2016-02-01,3500.0,1.0,34.2,clear
+66,Safflower,Basava Kalayana,2016-04-01,2140.0,0.0,37.8,clear
+67,Soyabean,Basava Kalayana,2016-04-01,3500.0,2.0,37.8,clear
+68,Soyabean,Bhalki,2016-04-01,3501.0,5.0,37.8,clear
+69,Sunflower,Basava Kalayana,2016-04-01,3500.0,1.0,37.8,clear
+70,Safflower,Basava Kalayana,2016-07-01,2251.0,0.0,28.0,clear
+71,Soyabean,Basava Kalayana,2016-07-01,3500.0,2.0,28.0,clear
+72,Soyabean,Bhalki,2016-07-01,3405.0,8.0,28.0,clear
+73,Sunflower,Basava Kalayana,2016-07-01,3400.0,0.0,28.0,clear
+74,Safflower,Basava Kalayana,2016-12-01,2350.0,0.0,25.0,clear
+75,Soyabean,Basava Kalayana,2016-12-01,3500.0,3.0,25.0,clear
+76,Soyabean,Bhalki,2016-12-01,3601.0,5.0,25.0,clear
+77,Sunflower,Basava Kalayana,2016-12-01,3400.0,0.0,25.0,clear
+78,Safflower,Basava Kalayana,2016-01-18,2300.0,0.0,27.2,clear
+79,Soyabean,Basava Kalayana,2016-01-18,3500.0,4.0,27.2,clear
+80,Soyabean,Bhalki,2016-01-18,3701.0,5.0,27.2,clear
+81,Sunflower,Basava Kalayana,2016-01-18,3300.0,0.0,27.2,clear
+82,Safflower,Basava Kalayana,2016-01-19,2000.0,0.0,27.4,clear
+83,Soyabean,Basava Kalayana,2016-01-19,3650.0,3.0,27.4,clear
+84,Soyabean,Bhalki,2016-01-19,3701.0,5.0,27.4,clear
+85,Sunflower,Basava Kalayana,2016-01-19,3300.0,0.0,27.4,clear
+86,Safflower,Basava Kalayana,2016-01-20,2450.0,0.0,25.8,clear
+87,Soyabean,Basava Kalayana,2016-01-20,3675.0,4.0,25.8,clear
+88,Sunflower,Basava Kalayana,2016-01-20,3400.0,0.0,25.8,clear
+89,Safflower,Basava Kalayana,2016-01-21,2300.0,0.0,24.8,clear
+90,Soyabean,Basava Kalayana,2016-01-21,3650.0,2.0,24.8,clear
+91,Soyabean,Bhalki,2016-01-21,3701.0,7.0,24.8,clear
+92,Sunflower,Basava Kalayana,2016-01-21,3400.0,0.0,24.8,clear
+93,Safflower,Basava Kalayana,2016-01-22,2451.0,0.0,29.8,clear
+94,Soyabean,Basava Kalayana,2016-01-22,3665.0,2.0,29.8,clear
+95,Sunflower,Basava Kalayana,2016-01-22,3400.0,0.0,29.8,clear
+96,Safflower,Basava Kalayana,2016-01-23,2100.0,0.0,25.6,clear
+97,Soyabean,Basava Kalayana,2016-01-23,3600.0,2.0,25.6,clear
+98,Soyabean,Bhalki,2016-01-23,3605.0,5.0,25.6,clear
+99,Sunflower,Basava Kalayana,2016-01-23,3361.0,0.0,25.6,clear
+100,Safflower,Basava Kalayana,2016-01-27,2325.0,0.0,30.8,clear
+101,Soyabean,Basava Kalayana,2016-01-27,3650.0,3.0,30.8,clear
+102,Sunflower,Basava Kalayana,2016-01-27,3350.0,0.0,30.8,clear
+103,Safflower,Basava Kalayana,2016-01-28,2450.0,0.0,31.4,clear
+104,Soyabean,Basava Kalayana,2016-01-28,3600.0,3.0,31.4,clear
+105,Sunflower,Basava Kalayana,2016-01-28,3300.0,0.0,31.4,clear
+106,Safflower,Basava Kalayana,2016-01-29,2490.0,0.0,31.4,clear
+107,Soyabean,Basava Kalayana,2016-01-29,3690.0,2.0,31.4,clear
+108,Sunflower,Basava Kalayana,2016-01-29,3450.0,0.0,31.4,clear
+109,Safflower,Basava Kalayana,2016-01-30,2200.0,0.0,31.0,clear
+110,Soyabean,Basava Kalayana,2016-01-30,3650.0,3.0,31.0,clear
+111,Sunflower,Basava Kalayana,2016-01-30,2490.0,0.0,31.0,clear
+112,Safflower,Basava Kalayana,2016-02-02,2400.0,0.0,31.8,clear
+113,Soyabean,Basava Kalayana,2016-02-02,3600.0,2.0,31.8,clear
+114,Sunflower,Basava Kalayana,2016-02-02,3400.0,0.0,31.8,clear
+115,Safflower,Basava Kalayana,2016-03-02,2550.0,0.0,22.4,rain
+116,Soyabean,Basava Kalayana,2016-03-02,3650.0,2.0,22.4,rain
+117,Sunflower,Basava Kalayana,2016-03-02,3400.0,0.0,22.4,rain
+118,Safflower,Basava Kalayana,2016-04-02,2500.0,0.0,38.4,clear
+119,Soyabean,Basava Kalayana,2016-04-02,3500.0,2.0,38.4,clear
+120,Sunflower,Basava Kalayana,2016-04-02,3400.0,0.0,38.4,clear
+121,Safflower,Basava Kalayana,2016-05-02,2250.0,0.0,39.0,clear
+122,Soyabean,Basava Kalayana,2016-05-02,3650.0,2.0,39.0,clear
+123,Sunflower,Basava Kalayana,2016-05-02,3450.0,0.0,39.0,clear
+124,Safflower,Basava Kalayana,2016-06-02,2300.0,0.0,32.0,clear
+125,Soyabean,Basava Kalayana,2016-06-02,3650.0,2.0,32.0,clear
+126,Safflower,Basava Kalayana,2016-09-02,2400.0,0.0,28.0,clear
+127,Soyabean,Basava Kalayana,2016-09-02,3500.0,2.0,28.0,clear
+128,Sunflower,Basava Kalayana,2016-09-02,3590.0,0.0,28.0,clear
+129,Safflower,Basava Kalayana,2016-10-02,2400.0,0.0,24.0,clear
+130,Soyabean,Basava Kalayana,2016-10-02,3600.0,1.0,24.0,clear
+131,Sunflower,Basava Kalayana,2016-10-02,3511.0,0.0,24.0,clear
+132,Safflower,Basava Kalayana,2016-11-02,2400.0,0.0,27.6,clear
+133,Safflower,Bidar,2016-11-02,2590.0,0.0,27.6,clear
+134,Soyabean,Basava Kalayana,2016-11-02,3500.0,2.0,27.6,clear
+135,Safflower,Basava Kalayana,2016-12-02,2350.0,0.0,27.4,clear
+136,Soyabean,Basava Kalayana,2016-12-02,3500.0,2.0,27.4,clear
+137,Soyabean,Bhalki,2016-12-02,3601.0,5.0,27.4,clear
+138,Sunflower,Basava Kalayana,2016-12-02,3400.0,0.0,27.4,clear
+139,Safflower,Basava Kalayana,2016-02-13,2450.0,0.0,32.4,clear
+140,Soyabean,Basava Kalayana,2016-02-13,3600.0,2.0,32.4,clear
+141,Soyabean,Bhalki,2016-02-13,3605.0,5.0,32.4,clear
+142,Sunflower,Basava Kalayana,2016-02-13,3550.0,0.0,32.4,clear
+143,Safflower,Basava Kalayana,2016-02-15,2450.0,0.0,25.6,clear
+144,Safflower,Bidar,2016-02-15,2647.0,0.0,25.6,clear
+145,Soyabean,Basava Kalayana,2016-02-15,3650.0,2.0,25.6,clear
+146,Soyabean,Bhalki,2016-02-15,3620.0,7.0,25.6,clear
+147,Safflower,Basava Kalayana,2016-02-16,2400.0,0.0,31.8,clear
+148,Soyabean,Basava Kalayana,2016-02-16,3600.0,1.0,31.8,clear
+149,Sunflower,Basava Kalayana,2016-02-16,3651.0,0.0,31.8,clear
+150,Safflower,Basava Kalayana,2016-02-17,2451.0,0.0,32.0,clear
+151,Safflower,Bidar,2016-02-17,2620.0,0.0,32.0,clear
+152,Soyabean,Basava Kalayana,2016-02-17,3651.0,1.0,32.0,clear
+153,Soyabean,Bhalki,2016-02-17,3601.0,4.0,32.0,clear
+154,Sunflower,Basava Kalayana,2016-02-17,3651.0,0.0,32.0,clear
+155,Safflower,Basava Kalayana,2016-02-18,2500.0,0.0,33.0,clear
+156,Safflower,Bidar,2016-02-18,2610.0,0.0,33.0,clear
+157,Soyabean,Basava Kalayana,2016-02-18,3650.0,1.0,33.0,clear
+158,Sunflower,Basava Kalayana,2016-02-18,3600.0,0.0,33.0,clear
+159,Safflower,Basava Kalayana,2016-02-22,2400.0,0.0,36.8,clear
+160,Soyabean,Basava Kalayana,2016-02-22,3550.0,1.0,36.8,clear
+161,Sunflower,Basava Kalayana,2016-02-22,3500.0,0.0,36.8,clear
+162,Safflower,Basava Kalayana,2016-02-23,2380.0,0.0,29.0,clear
+163,Soyabean,Basava Kalayana,2016-02-23,3500.0,2.0,29.0,clear
+164,Sunflower,Basava Kalayana,2016-02-23,3551.0,0.0,29.0,clear
+165,Safflower,Basava Kalayana,2016-02-24,2200.0,0.0,27.4,clear
+166,Soyabean,Basava Kalayana,2016-02-24,3500.0,1.0,27.4,clear
+167,Soyabean,Bhalki,2016-02-24,3650.0,5.0,27.4,clear
+168,Sunflower,Basava Kalayana,2016-02-24,3500.0,0.0,27.4,clear
+169,Safflower,Basava Kalayana,2016-02-25,1900.0,0.0,35.0,clear
+170,Soyabean,Basava Kalayana,2016-02-25,3550.0,2.0,35.0,clear
+171,Soyabean,Bhalki,2016-02-25,3550.0,5.0,35.0,clear
+172,Sunflower,Basava Kalayana,2016-02-25,3550.0,0.0,35.0,clear
+173,Safflower,Basava Kalayana,2016-02-26,2450.0,0.0,34.0,clear
+174,Soyabean,Basava Kalayana,2016-02-26,3600.0,2.0,34.0,clear
+175,Sunflower,Basava Kalayana,2016-02-26,3500.0,0.0,34.0,clear
+176,Safflower,Basava Kalayana,2016-02-27,2551.0,0.0,31.2,clear
+177,Soyabean,Basava Kalayana,2016-02-27,3681.0,2.0,31.2,clear
+178,Soyabean,Bhalki,2016-02-27,3601.0,4.0,31.2,clear
+179,Sunflower,Basava Kalayana,2016-02-27,3500.0,0.0,31.2,clear
+180,Safflower,Basava Kalayana,2016-02-29,2550.0,0.0,32.2,clear
+181,Soyabean,Basava Kalayana,2016-02-29,3650.0,2.0,32.2,clear
+182,Soyabean,Bhalki,2016-02-29,3550.0,4.0,32.2,clear
+183,Sunflower,Basava Kalayana,2016-02-29,3551.0,1.0,32.2,clear
+184,Safflower,Basava Kalayana,2016-01-03,2400.0,0.0,27.6,clear
+185,Soyabean,Basava Kalayana,2016-01-03,3500.0,2.0,27.6,clear
+186,Soyabean,Bhalki,2016-01-03,3601.0,4.0,27.6,clear
+187,Sunflower,Basava Kalayana,2016-01-03,3500.0,0.0,27.6,clear
+188,Safflower,Basava Kalayana,2016-02-03,2300.0,0.0,32.0,clear
+189,Safflower,Bidar,2016-02-03,2548.0,3.0,32.0,clear
+190,Soyabean,Basava Kalayana,2016-02-03,3550.0,2.0,32.0,clear
+191,Soyabean,Bhalki,2016-02-03,3601.0,5.0,32.0,clear
+192,Sunflower,Basava Kalayana,2016-02-03,3500.0,0.0,32.0,clear
+193,Safflower,Basava Kalayana,2016-03-03,2400.0,0.0,30.2,clear
+194,Safflower,Bidar,2016-03-03,2556.0,2.0,30.2,clear
+195,Soyabean,Basava Kalayana,2016-03-03,3550.0,1.0,30.2,clear
+196,Soyabean,Bhalki,2016-03-03,3501.0,4.0,30.2,clear
+197,Sunflower,Basava Kalayana,2016-03-03,3550.0,0.0,30.2,clear
+198,Safflower,Basava Kalayana,2016-04-03,2550.0,0.0,37.2,clear
+199,Soyabean,Basava Kalayana,2016-04-03,3575.0,1.0,37.2,clear
+200,Safflower,Basava Kalayana,2016-05-03,2400.0,0.0,40.0,clear
+201,Safflower,Bidar,2016-05-03,2626.0,3.0,40.0,clear
+202,Soyabean,Basava Kalayana,2016-05-03,3500.0,1.0,40.0,clear
+203,Sunflower,Basava Kalayana,2016-05-03,3450.0,0.0,40.0,clear
+204,Safflower,Basava Kalayana,2016-10-03,2450.0,0.0,26.6,clear
+205,Safflower,Bidar,2016-10-03,2498.0,1.0,26.6,clear
+206,Soyabean,Basava Kalayana,2016-10-03,3600.0,2.0,26.6,clear
+207,Soyabean,Bhalki,2016-10-03,3625.0,4.0,26.6,clear
+208,Sunflower,Basava Kalayana,2016-10-03,3550.0,0.0,26.6,clear
+209,Safflower,Basava Kalayana,2016-11-03,2451.0,0.0,27.4,clear
+210,Safflower,Bidar,2016-11-03,2556.0,0.0,27.4,clear
+211,Soyabean,Basava Kalayana,2016-11-03,3651.0,1.0,27.4,clear
+212,Soyabean,Bhalki,2016-11-03,3601.0,5.0,27.4,clear
+213,Sunflower,Basava Kalayana,2016-11-03,3551.0,0.0,27.4,clear
+214,Safflower,Basava Kalayana,2016-12-03,2450.0,0.0,25.8,clear
+215,Safflower,Bidar,2016-12-03,2600.0,2.0,25.8,clear
+216,Soyabean,Basava Kalayana,2016-12-03,3680.0,1.0,25.8,clear
+217,Sunflower,Basava Kalayana,2016-12-03,3500.0,0.0,25.8,clear
+218,Safflower,Basava Kalayana,2016-03-14,2450.0,0.0,32.8,clear
+219,Safflower,Bidar,2016-03-14,2600.0,3.0,32.8,clear
+220,Soyabean,Basava Kalayana,2016-03-14,3650.0,1.0,32.8,clear
+221,Sunflower,Basava Kalayana,2016-03-14,3502.0,0.0,32.8,clear
+222,Safflower,Basava Kalayana,2016-03-15,2550.0,0.0,35.0,clear
+223,Safflower,Bidar,2016-03-15,2600.0,11.0,35.0,clear
+224,Soyabean,Basava Kalayana,2016-03-15,3650.0,2.0,35.0,clear
+225,Sunflower,Basava Kalayana,2016-03-15,3400.0,0.0,35.0,clear
+226,Safflower,Basava Kalayana,2016-03-16,2550.0,0.0,36.0,clear
+227,Soyabean,Basava Kalayana,2016-03-16,3651.0,2.0,36.0,clear
+228,Safflower,Basava Kalayana,2016-03-17,2650.0,0.0,36.2,clear
+229,Soyabean,Basava Kalayana,2016-03-17,3650.0,1.0,36.2,clear
+230,Sunflower,Basava Kalayana,2016-03-17,3250.0,0.0,36.2,clear
+231,Safflower,Basava Kalayana,2016-03-18,2480.0,0.0,36.0,clear
+232,Soyabean,Basava Kalayana,2016-03-18,3650.0,1.0,36.0,clear
+233,Sunflower,Basava Kalayana,2016-03-18,3550.0,0.0,36.0,clear
+234,Safflower,Basava Kalayana,2016-03-19,2551.0,1.0,36.0,clear
+235,Soyabean,Basava Kalayana,2016-03-19,3650.0,2.0,36.0,clear
+236,Sunflower,Basava Kalayana,2016-03-19,3400.0,0.0,36.0,clear
+237,Safflower,Basava Kalayana,2016-03-21,2550.0,0.0,35.1,clear
+238,Soyabean,Basava Kalayana,2016-03-21,3650.0,2.0,35.1,clear
+239,Sunflower,Basava Kalayana,2016-03-21,3750.0,0.0,35.1,clear
+240,Safflower,Basava Kalayana,2016-03-22,2551.0,0.0,35.0,clear
+241,Soyabean,Basava Kalayana,2016-03-22,3750.0,1.0,35.0,clear
+242,Safflower,Basava Kalayana,2016-03-26,2450.0,0.0,37.0,clear
+243,Soyabean,Basava Kalayana,2016-03-26,3750.0,3.0,37.0,clear
+244,Sunflower,Basava Kalayana,2016-03-26,3400.0,0.0,37.0,clear
+245,Safflower,Basava Kalayana,2016-03-28,2550.0,0.0,35.2,clear
+246,Soyabean,Basava Kalayana,2016-03-28,3850.0,2.0,35.2,clear
+247,Sunflower,Basava Kalayana,2016-03-28,3400.0,0.0,35.2,clear
+248,Safflower,Basava Kalayana,2016-03-29,2550.0,0.0,36.8,clear
+249,Soyabean,Basava Kalayana,2016-03-29,3660.0,3.0,36.8,clear
+250,Safflower,Basava Kalayana,2016-03-30,2500.0,0.0,37.4,clear
+251,Soyabean,Basava Kalayana,2016-03-30,3700.0,3.0,37.4,clear
+252,Sunflower,Basava Kalayana,2016-03-30,3500.0,0.0,37.4,clear
+253,Safflower,Basava Kalayana,2016-03-31,2500.0,0.0,37.4,clear
+254,Soyabean,Basava Kalayana,2016-03-31,3750.0,2.0,37.4,clear
+255,Soyabean,Bhalki,2016-03-31,3801.0,5.0,37.4,clear
+256,Sunflower,Basava Kalayana,2016-03-31,3411.0,0.0,37.4,clear
+257,Safflower,Basava Kalayana,2016-04-04,2500.0,0.0,32.6,rain
+258,Soyabean,Basava Kalayana,2016-04-04,4050.0,4.0,32.6,rain
+259,Soyabean,Bhalki,2016-04-04,3900.0,7.0,32.6,rain
+260,Sunflower,Basava Kalayana,2016-04-04,3300.0,0.0,32.6,rain
+261,Safflower,Basava Kalayana,2016-05-04,2500.0,0.0,31.6,rain
+262,Soyabean,Basava Kalayana,2016-05-04,3900.0,2.0,31.6,rain
+263,Sunflower,Basava Kalayana,2016-05-04,3400.0,0.0,31.6,rain
+264,Safflower,Basava Kalayana,2016-06-04,2551.0,0.0,29.0,clear
+265,Soyabean,Basava Kalayana,2016-06-04,3980.0,3.0,29.0,clear
+266,Sunflower,Basava Kalayana,2016-06-04,3350.0,0.0,29.0,clear
+267,Safflower,Basava Kalayana,2016-09-04,2450.0,0.0,26.6,clear
+268,Soyabean,Basava Kalayana,2016-09-04,3850.0,2.0,26.6,clear
+269,Sunflower,Basava Kalayana,2016-09-04,3450.0,0.0,26.6,clear
+270,Safflower,Basava Kalayana,2016-11-04,2500.0,0.0,27.2,clear
+271,Soyabean,Basava Kalayana,2016-11-04,4000.0,3.0,27.2,clear
+272,Soyabean,Bhalki,2016-11-04,3850.0,5.0,27.2,clear
+273,Sunflower,Basava Kalayana,2016-11-04,3451.0,0.0,27.2,clear
+274,Safflower,Basava Kalayana,2016-04-27,2530.0,0.0,36.0,rain
+275,Soyabean,Basava Kalayana,2016-04-27,3880.0,1.0,36.0,rain
+276,Soyabean,Bhalki,2016-04-27,3850.0,5.0,36.0,rain
+277,Sunflower,Basava Kalayana,2016-04-27,3000.0,0.0,36.0,rain
+278,Safflower,Basava Kalayana,2016-02-05,2650.0,0.0,31.6,clear
+279,Soyabean,Basava Kalayana,2016-02-05,3800.0,1.0,31.6,clear
+280,Safflower,Basava Kalayana,2016-03-05,2676.0,0.0,32.2,clear
+281,Soyabean,Basava Kalayana,2016-03-05,3800.0,1.0,32.2,clear
+282,Soyabean,Bhalki,2016-03-05,3850.0,5.0,32.2,clear
+283,Safflower,Basava Kalayana,2016-04-05,2600.0,0.0,33.2,clear
+284,Soyabean,Basava Kalayana,2016-04-05,3850.0,1.0,33.2,clear
+285,Soyabean,Bhalki,2016-04-05,3900.0,4.0,33.2,clear
+286,Safflower,Basava Kalayana,2016-07-05,2650.0,0.0,24.8,clear
+287,Soyabean,Basava Kalayana,2016-07-05,3850.0,2.0,24.8,clear
+288,Soyabean,Bhalki,2016-07-05,3850.0,5.0,24.8,clear
+289,Safflower,Basava Kalayana,2016-12-05,2650.0,0.0,26.4,clear
+290,Soyabean,Basava Kalayana,2016-12-05,3800.0,3.0,26.4,clear
+291,Soyabean,Bhalki,2016-12-05,3801.0,2.0,26.4,clear
+292,Safflower,Basava Kalayana,2016-05-13,2600.0,0.0,39.0,clear
+293,Soyabean,Basava Kalayana,2016-05-13,3750.0,2.0,39.0,clear
+294,Soyabean,Bhalki,2016-05-13,3850.0,3.0,39.0,clear
+295,Safflower,Basava Kalayana,2016-05-14,2550.0,0.0,40.4,clear
+296,Soyabean,Basava Kalayana,2016-05-14,3750.0,2.0,40.4,clear
+297,Sunflower,Basava Kalayana,2016-05-14,2800.0,0.0,40.4,clear
+298,Safflower,Basava Kalayana,2016-05-16,2500.0,0.0,38.8,clear
+299,Soyabean,Basava Kalayana,2016-05-16,3700.0,0.0,38.8,clear
+300,Soyabean,Bhalki,2016-05-16,3800.0,3.0,38.8,clear
+301,Safflower,Basava Kalayana,2016-05-17,2750.0,0.0,39.4,clear
+302,Soyabean,Basava Kalayana,2016-05-17,3700.0,2.0,39.4,clear
+303,Soyabean,Bhalki,2016-05-17,3800.0,4.0,39.4,clear
+304,Safflower,Basava Kalayana,2016-05-18,2675.0,0.0,32.6,rain
+305,Soyabean,Basava Kalayana,2016-05-18,3750.0,1.0,32.6,rain
+306,Soyabean,Bhalki,2016-05-18,3801.0,4.0,32.6,rain
+307,Safflower,Basava Kalayana,2016-05-19,2600.0,0.0,36.4,clear
+308,Safflower,Bidar,2016-05-19,2795.0,2.0,36.4,clear
+309,Soyabean,Basava Kalayana,2016-05-19,3751.0,1.0,36.4,clear
+310,Soyabean,Bhalki,2016-05-19,3750.0,3.0,36.4,clear
+311,Sunflower,Basava Kalayana,2016-05-19,3000.0,0.0,36.4,clear
+312,Safflower,Basava Kalayana,2016-05-23,2550.0,0.0,39.4,clear
+313,Soyabean,Basava Kalayana,2016-05-23,3850.0,1.0,39.4,clear
+314,Soyabean,Bhalki,2016-05-23,3825.0,4.0,39.4,clear
+315,Safflower,Basava Kalayana,2016-05-24,2651.0,0.0,39.6,clear
+316,Soyabean,Basava Kalayana,2016-05-24,3650.0,2.0,39.6,clear
+317,Soyabean,Bhalki,2016-05-24,3801.0,4.0,39.6,clear
+318,Safflower,Basava Kalayana,2016-05-25,2701.0,0.0,35.4,clear
+319,Soyabean,Basava Kalayana,2016-05-25,3700.0,2.0,35.4,clear
+320,Soyabean,Bhalki,2016-05-25,3750.0,5.0,35.4,clear
+321,Safflower,Basava Kalayana,2016-05-26,2641.0,0.0,39.2,clear
+322,Soyabean,Basava Kalayana,2016-05-26,3750.0,1.0,39.2,clear
+323,Safflower,Basava Kalayana,2016-05-28,2550.0,0.0,38.6,clear
+324,Soyabean,Basava Kalayana,2016-05-28,3750.0,2.0,38.6,clear
+325,Safflower,Basava Kalayana,2016-05-30,2551.0,0.0,33.0,clear
+326,Soyabean,Basava Kalayana,2016-05-30,3750.0,1.0,33.0,clear
+327,Soyabean,Bhalki,2016-05-30,3701.0,3.0,33.0,clear
+328,Sunflower,Basava Kalayana,2016-05-30,3200.0,0.0,33.0,clear
+329,Safflower,Basava Kalayana,2016-05-31,2501.0,0.0,30.0,clear
+330,Soyabean,Basava Kalayana,2016-05-31,3750.0,2.0,30.0,clear
+331,Soyabean,Bhalki,2016-05-31,3700.0,4.0,30.0,clear
+332,Sunflower,Basava Kalayana,2016-05-31,3200.0,0.0,30.0,clear
+333,Safflower,Basava Kalayana,2016-01-06,2500.0,0.0,28.8,clear
+334,Soyabean,Basava Kalayana,2016-01-06,3700.0,2.0,28.8,clear
+335,Soyabean,Bhalki,2016-01-06,3750.0,4.0,28.8,clear
+336,Sunflower,Basava Kalayana,2016-01-06,3000.0,0.0,28.8,clear
+337,Safflower,Basava Kalayana,2016-04-06,2700.0,0.0,35.6,clear
+338,Soyabean,Basava Kalayana,2016-04-06,3750.0,4.0,35.6,clear
+339,Soyabean,Bhalki,2016-04-06,3750.0,4.0,35.6,clear
+340,Safflower,Basava Kalayana,2016-07-06,2451.0,0.0,28.4,clear
+341,Soyabean,Basava Kalayana,2016-07-06,3600.0,5.0,28.4,clear
+342,Soyabean,Bhalki,2016-07-06,3750.0,4.0,28.4,clear
+343,Safflower,Basava Kalayana,2016-08-06,2600.0,0.0,24.2,clear
+344,Soyabean,Basava Kalayana,2016-08-06,3700.0,4.0,24.2,clear
+345,Soyabean,Bhalki,2016-08-06,3701.0,3.0,24.2,clear
+346,Sunflower,Basava Kalayana,2016-08-06,3201.0,0.0,24.2,clear
+347,Safflower,Basava Kalayana,2016-09-06,2560.0,0.0,27.4,clear
+348,Soyabean,Basava Kalayana,2016-09-06,3650.0,3.0,27.4,clear
+349,Soyabean,Bhalki,2016-09-06,3701.0,4.0,27.4,clear
+350,Sunflower,Basava Kalayana,2016-09-06,3000.0,0.0,27.4,clear
+351,Safflower,Basava Kalayana,2016-10-06,2550.0,0.0,25.0,clear
+352,Soyabean,Basava Kalayana,2016-10-06,3650.0,3.0,25.0,clear
+353,Safflower,Basava Kalayana,2016-06-13,2651.0,0.0,25.6,clear
+354,Soyabean,Basava Kalayana,2016-06-13,3750.0,2.0,25.6,clear
+355,Sunflower,Basava Kalayana,2016-06-13,3200.0,0.0,25.6,clear
+356,Safflower,Basava Kalayana,2016-06-15,2550.0,0.0,35.2,clear
+357,Soyabean,Basava Kalayana,2016-06-15,3711.0,2.0,35.2,clear
+358,Soyabean,Bhalki,2016-06-15,3300.0,5.0,35.2,clear
+359,Safflower,Basava Kalayana,2016-06-16,2610.0,0.0,36.0,clear
+360,Soyabean,Basava Kalayana,2016-06-16,3750.0,2.0,36.0,clear
+361,Soyabean,Bhalki,2016-06-16,3701.0,5.0,36.0,clear
+362,Safflower,Basava Kalayana,2016-06-22,2550.0,1.0,29.0,clear
+363,Soyabean,Basava Kalayana,2016-06-22,3600.0,5.0,29.0,clear
+364,Soyabean,Bhalki,2016-06-22,3470.0,3.0,29.0,clear
+365,Safflower,Basava Kalayana,2016-06-23,2400.0,0.0,30.0,clear
+366,Soyabean,Basava Kalayana,2016-06-23,3650.0,3.0,30.0,clear
+367,Soyabean,Bhalki,2016-06-23,3480.0,2.0,30.0,clear
+368,Safflower,Basava Kalayana,2016-06-24,2640.0,0.0,31.4,clear
+369,Soyabean,Basava Kalayana,2016-06-24,3700.0,2.0,31.4,clear
+370,Soyabean,Bhalki,2016-06-24,3520.0,3.0,31.4,clear
+371,Safflower,Basava Kalayana,2016-06-25,2550.0,0.0,32.0,clear
+372,Soyabean,Basava Kalayana,2016-06-25,3650.0,3.0,32.0,clear
+373,Safflower,Basava Kalayana,2016-06-27,2650.0,0.0,32.0,clear
+374,Soyabean,Basava Kalayana,2016-06-27,3700.0,2.0,32.0,clear
+375,Soyabean,Bhalki,2016-06-27,3470.0,2.0,32.0,clear
+376,Safflower,Basava Kalayana,2016-06-29,2401.0,0.0,25.2,clear
+377,Soyabean,Basava Kalayana,2016-06-29,3650.0,4.0,25.2,clear
+378,Soyabean,Bhalki,2016-06-29,3701.0,2.0,25.2,clear
+379,Sunflower,Basava Kalayana,2016-06-29,3000.0,0.0,25.2,clear
+380,Safflower,Basava Kalayana,2016-06-30,2600.0,0.0,24.2,clear
+381,Soyabean,Basava Kalayana,2016-06-30,3711.0,3.0,24.2,clear
+382,Safflower,Basava Kalayana,2016-01-07,2591.0,0.0,28.4,clear
+383,Soyabean,Basava Kalayana,2016-01-07,3681.0,3.0,28.4,clear
+384,Soyabean,Bhalki,2016-01-07,3650.0,2.0,28.4,clear
+385,Safflower,Basava Kalayana,2016-02-07,2600.0,0.0,24.6,clear
+386,Soyabean,Basava Kalayana,2016-02-07,3750.0,2.0,24.6,clear
+387,Safflower,Basava Kalayana,2016-05-07,2550.0,0.0,32.5,clear
+388,Soyabean,Basava Kalayana,2016-05-07,3680.0,4.0,32.5,clear
+389,Soyabean,Bhalki,2016-05-07,3601.0,2.0,32.5,clear
+390,Safflower,Basava Kalayana,2016-06-07,2600.0,0.0,34.4,clear
+391,Soyabean,Basava Kalayana,2016-06-07,3600.0,0.0,34.4,clear
+392,Safflower,Basava Kalayana,2016-08-07,2640.0,0.0,28.0,clear
+393,Soyabean,Basava Kalayana,2016-08-07,3650.0,4.0,28.0,clear
+394,Soyabean,Bhalki,2016-08-07,3550.0,4.0,28.0,clear
+395,Safflower,Basava Kalayana,2016-09-07,2450.0,0.0,28.2,clear
+396,Soyabean,Basava Kalayana,2016-09-07,3650.0,2.0,28.2,clear
+397,Soyabean,Bhalki,2016-09-07,3501.0,3.0,28.2,clear
+398,Sunflower,Basava Kalayana,2016-09-07,2701.0,0.0,28.2,clear
+399,Safflower,Basava Kalayana,2016-11-07,2550.0,0.0,27.6,clear
+400,Soyabean,Basava Kalayana,2016-11-07,3650.0,3.0,27.6,clear
+401,Soyabean,Bhalki,2016-11-07,3550.0,2.0,27.6,clear
+402,Safflower,Basava Kalayana,2016-12-07,2680.0,0.0,26.0,clear
+403,Soyabean,Basava Kalayana,2016-12-07,3450.0,2.0,26.0,clear
+404,Soyabean,Bhalki,2016-12-07,3550.0,4.0,26.0,clear
+405,Safflower,Basava Kalayana,2016-07-13,2501.0,0.0,30.4,clear
+406,Soyabean,Basava Kalayana,2016-07-13,3500.0,2.0,30.4,clear
+407,Soyabean,Bhalki,2016-07-13,3506.0,5.0,30.4,clear
+408,Safflower,Basava Kalayana,2016-07-15,2500.0,0.0,28.2,clear
+409,Soyabean,Basava Kalayana,2016-07-15,3550.0,1.0,28.2,clear
+410,Soyabean,Bhalki,2016-07-15,3475.0,1.0,28.2,clear
+411,Safflower,Basava Kalayana,2016-07-16,2650.0,0.0,30.4,clear
+412,Soyabean,Basava Kalayana,2016-07-16,3600.0,2.0,30.4,clear
+413,Safflower,Basava Kalayana,2016-07-21,2645.0,0.0,27.6,clear
+414,Soyabean,Basava Kalayana,2016-07-21,3550.0,3.0,27.6,clear
+415,Soyabean,Bhalki,2016-07-21,3450.0,3.0,27.6,clear
+416,Safflower,Basava Kalayana,2016-07-22,2671.0,0.0,23.2,clear
+417,Soyabean,Basava Kalayana,2016-07-22,3660.0,2.0,23.2,clear
+418,Soyabean,Bhalki,2016-07-22,3500.0,3.0,23.2,clear
+419,Safflower,Basava Kalayana,2016-07-23,2661.0,0.0,24.8,clear
+420,Soyabean,Basava Kalayana,2016-07-23,3661.0,3.0,24.8,clear
+421,Soyabean,Bhalki,2016-07-23,3500.0,2.0,24.8,clear
+422,Safflower,Basava Kalayana,2016-07-26,2700.0,0.0,27.2,clear
+423,Soyabean,Basava Kalayana,2016-07-26,3650.0,1.0,27.2,clear
+424,Soyabean,Bhalki,2016-07-26,3505.0,3.0,27.2,clear
+425,Safflower,Basava Kalayana,2016-07-28,2450.0,0.0,28.2,clear
+426,Soyabean,Basava Kalayana,2016-07-28,3581.0,6.0,28.2,clear
+427,Soyabean,Bhalki,2016-07-28,3550.0,2.0,28.2,clear
+428,Safflower,Basava Kalayana,2016-07-29,2400.0,0.0,25.2,clear
+429,Soyabean,Basava Kalayana,2016-07-29,3590.0,1.0,25.2,clear
+430,Soyabean,Bhalki,2016-07-29,3501.0,1.0,25.2,clear
+431,Safflower,Basava Kalayana,2016-07-30,2500.0,0.0,24.4,clear
+432,Soyabean,Basava Kalayana,2016-07-30,3500.0,2.0,24.4,clear
+433,Safflower,Basava Kalayana,2016-01-08,2500.0,0.0,28.2,clear
+434,Soyabean,Basava Kalayana,2016-01-08,3650.0,2.0,28.2,clear
+435,Sunflower,Basava Kalayana,2016-01-08,3001.0,0.0,28.2,clear
+436,Safflower,Basava Kalayana,2016-04-08,2580.0,0.0,37.6,clear
+437,Soyabean,Basava Kalayana,2016-04-08,3500.0,1.0,37.6,clear
+438,Soyabean,Bhalki,2016-04-08,3501.0,2.0,37.6,clear
+439,Safflower,Basava Kalayana,2016-05-08,2480.0,0.0,36.6,clear
+440,Soyabean,Basava Kalayana,2016-05-08,3590.0,3.0,36.6,clear
+441,Soyabean,Bhalki,2016-05-08,3505.0,2.0,36.6,clear
+442,Safflower,Basava Kalayana,2016-10-08,2261.0,0.0,25.0,clear
+443,Soyabean,Basava Kalayana,2016-10-08,3550.0,1.0,25.0,clear
+444,Soyabean,Bhalki,2016-10-08,3550.0,2.0,25.0,clear
+445,Safflower,Basava Kalayana,2016-12-08,2500.0,0.0,25.2,clear
+446,Soyabean,Basava Kalayana,2016-12-08,3600.0,1.0,25.2,clear
+447,Soyabean,Bhalki,2016-12-08,3550.0,1.0,25.2,clear
+448,Safflower,Basava Kalayana,2016-08-13,2510.0,0.0,26.2,clear
+449,Soyabean,Basava Kalayana,2016-08-13,3550.0,5.0,26.2,clear
+450,Soyabean,Bhalki,2016-08-13,3550.0,2.0,26.2,clear
+451,Sunflower,Basava Kalayana,2016-08-13,3161.0,0.0,26.2,clear
+452,Safflower,Basava Kalayana,2016-08-16,2611.0,0.0,29.2,clear
+453,Soyabean,Basava Kalayana,2016-08-16,3550.0,3.0,29.2,clear
+454,Safflower,Basava Kalayana,2016-08-23,2500.0,0.0,29.0,clear
+455,Soyabean,Basava Kalayana,2016-08-23,3500.0,2.0,29.0,clear
+456,Soyabean,Bhalki,2016-08-23,3350.0,2.0,29.0,clear
+457,Safflower,Basava Kalayana,2016-08-27,2490.0,0.0,30.0,clear
+458,Soyabean,Basava Kalayana,2016-08-27,3450.0,3.0,30.0,clear
+459,Safflower,Basava Kalayana,2016-08-09,2550.0,0.0,29.0,clear
+460,Soyabean,Basava Kalayana,2016-08-09,3339.0,1.0,29.0,clear
+461,Soyabean,Bhalki,2016-08-09,3250.0,3.0,29.0,clear
+462,Safflower,Basava Kalayana,2016-12-09,3300.0,0.0,23.8,clear
+463,Soyabean,Basava Kalayana,2016-12-09,3280.0,15.0,23.8,clear
+464,Soyabean,Bhalki,2016-12-09,3300.0,2.0,23.8,clear
+465,Safflower,Basava Kalayana,2016-09-16,2501.0,0.0,23.8,clear
+466,Soyabean,Basava Kalayana,2016-09-16,3300.0,12.0,23.8,clear
+467,Safflower,Basava Kalayana,2016-09-20,2451.0,0.0,24.4,clear
+468,Soyabean,Basava Kalayana,2016-09-20,3100.0,7.0,24.4,clear
+469,Soyabean,Bhalki,2016-09-20,3104.0,3.0,24.4,clear
+470,Soyabean,Humanabad,2016-09-20,2750.0,5.0,24.4,clear
+471,Safflower,Basava Kalayana,2016-09-24,2420.0,0.0,23.0,clear
+472,Soyabean,Basava Kalayana,2016-09-24,3200.0,4.0,23.0,clear
+473,Safflower,Basava Kalayana,2016-09-26,2400.0,0.0,27.4,clear
+474,Soyabean,Basava Kalayana,2016-09-26,2150.0,3.0,27.4,clear
+475,Safflower,Basava Kalayana,2016-09-27,2400.0,0.0,25.8,clear
+476,Soyabean,Basava Kalayana,2016-09-27,3000.0,3.0,25.8,clear
+477,Soyabean,Humanabad,2016-09-27,2100.0,2.0,25.8,clear
+478,Safflower,Basava Kalayana,2016-09-28,2400.0,0.0,28.4,clear
+479,Soyabean,Basava Kalayana,2016-09-28,2880.0,4.0,28.4,clear
+480,Safflower,Basava Kalayana,2016-07-10,2500.0,0.0,24.4,clear
+481,Soyabean,Basava Kalayana,2016-07-10,2650.0,34.0,24.4,clear
+482,Soyabean,Bhalki,2016-07-10,2100.0,5.0,24.4,clear
+483,Soyabean,Bidar,2016-07-10,2225.0,105.0,24.4,clear
+484,Soyabean,Humanabad,2016-07-10,2800.0,49.0,24.4,clear
+485,Safflower,Basava Kalayana,2016-10-13,2800.0,0.0,28.6,clear
+486,Soyabean,Basava Kalayana,2016-10-13,2600.0,49.0,28.6,clear
+487,Soyabean,Bhalki,2016-10-13,2305.0,5.0,28.6,clear
+488,Soyabean,Bidar,2016-10-13,2200.0,3.0,28.6,clear
+489,Sunflower,Basava Kalayana,2016-10-13,2901.0,0.0,28.6,clear
+490,Safflower,Basava Kalayana,2016-10-14,2501.0,0.0,28.0,clear
+491,Soyabean,Basava Kalayana,2016-10-14,2450.0,67.0,28.0,clear
+492,Soyabean,Bhalki,2016-10-14,2000.0,5.0,28.0,clear
+493,Soyabean,Bidar,2016-10-14,2200.0,3.0,28.0,clear
+494,Soyabean,Humanabad,2016-10-14,2500.0,70.0,28.0,clear
+495,Safflower,Basava Kalayana,2016-10-17,2400.0,0.0,27.2,clear
+496,Soyabean,Basava Kalayana,2016-10-17,2400.0,142.0,27.2,clear
+497,Soyabean,Bhalki,2016-10-17,2501.0,5.0,27.2,clear
+498,Safflower,Basava Kalayana,2016-10-19,2500.0,0.0,28.2,clear
+499,Soyabean,Basava Kalayana,2016-10-19,2400.0,74.0,28.2,clear
+500,Soyabean,Bidar,2016-10-19,2350.0,31.0,28.2,clear
+501,Soyabean,Humanabad,2016-10-19,2200.0,85.0,28.2,clear
+502,Safflower,Basava Kalayana,2016-10-22,2400.0,0.0,28.8,clear
+503,Soyabean,Basava Kalayana,2016-10-22,2450.0,123.0,28.8,clear
+504,Soyabean,Bhalki,2016-10-22,2610.0,5.0,28.8,clear
+505,Soyabean,Bidar,2016-10-22,2315.0,45.0,28.8,clear
+506,Soyabean,Humanabad,2016-10-22,2200.0,101.0,28.8,clear
+507,Safflower,Basava Kalayana,2016-10-31,2601.0,0.0,28.2,clear
+508,Soyabean,Basava Kalayana,2016-10-31,2500.0,146.0,28.2,clear
+509,Soyabean,Bhalki,2016-10-31,2501.0,21.0,28.2,clear
+510,Safflower,Basava Kalayana,2016-02-11,2600.0,0.0,30.2,clear
+511,Soyabean,Basava Kalayana,2016-02-11,2550.0,131.0,30.2,clear
+512,Soyabean,Bhalki,2016-02-11,2601.0,8.0,30.2,clear
+513,Soyabean,Bidar,2016-02-11,2500.0,61.0,30.2,clear
+514,Soyabean,Humanabad,2016-02-11,2000.0,114.0,30.2,clear
+515,Safflower,Basava Kalayana,2016-03-11,2600.0,0.0,35.4,clear
+516,Soyabean,Aurad,2016-03-11,2350.0,59.0,35.4,clear
+517,Soyabean,Basava Kalayana,2016-03-11,2550.0,111.0,35.4,clear
+518,Soyabean,Bhalki,2016-03-11,2605.0,6.0,35.4,clear
+519,Soyabean,Bidar,2016-03-11,2550.0,45.0,35.4,clear
+520,Safflower,Basava Kalayana,2016-07-11,2500.0,0.0,24.4,clear
+521,Soyabean,Basava Kalayana,2016-07-11,2500.0,109.0,24.4,clear
+522,Soyabean,Bhalki,2016-07-11,2500.0,10.0,24.4,clear
+523,Soyabean,Bidar,2016-07-11,2605.0,205.0,24.4,clear
+524,Safflower,Basava Kalayana,2016-08-11,2481.0,0.0,27.8,clear
+525,Soyabean,Aurad,2016-08-11,2500.0,22.0,27.8,clear
+526,Soyabean,Basava Kalayana,2016-08-11,2500.0,100.0,27.8,clear
+527,Soyabean,Bhalki,2016-08-11,2501.0,7.0,27.8,clear
+528,Soyabean,Bidar,2016-08-11,2501.0,151.0,27.8,clear
+529,Soyabean,Humanabad,2016-08-11,2200.0,40.0,27.8,clear
+530,Safflower,Basava Kalayana,2016-11-30,2300.0,0.0,27.0,clear
+531,Soyabean,Basava Kalayana,2016-11-30,2450.0,49.0,27.0,clear
+532,Soyabean,Bhalki,2016-11-30,2504.0,60.0,27.0,clear
+533,Soyabean,Bidar,2016-11-30,2690.0,215.0,27.0,clear
+534,Sunflower,Basava Kalayana,2016-11-30,2300.0,0.0,27.0,clear
+535,Safflower,Basava Kalayana,2016-05-12,2225.0,0.0,37.2,clear
+536,Soyabean,Basava Kalayana,2016-05-12,2350.0,27.0,37.2,clear
+537,Soyabean,Bhalki,2016-05-12,2701.0,50.0,37.2,clear
+538,Soyabean,Bidar,2016-05-12,2650.0,180.0,37.2,clear
+539,Sunflower,Basava Kalayana,2016-05-12,2500.0,0.0,37.2,clear
+540,Safflower,Basava Kalayana,2016-12-15,2500.0,0.0,22.6,clear
+541,Soyabean,Basava Kalayana,2016-12-15,2350.0,30.0,22.6,clear
+542,Soyabean,Bhalki,2016-12-15,2504.0,40.0,22.6,clear
+543,Soyabean,Bidar,2016-12-15,2520.0,135.0,22.6,clear
+544,Soyabean,Humanabad,2016-12-15,2250.0,42.0,22.6,clear
+545,Soyabean,Aurad,2016-09-11,2500.0,15.0,26.2,clear
+546,Soyabean,Aurad,2016-10-11,2500.0,7.0,29.6,clear
+547,Soyabean,Aurad,2016-11-22,2500.0,14.0,26.6,clear
+548,Soyabean,Bhalki,2016-11-22,2505.0,10.0,26.6,clear
+549,Soyabean,Bidar,2016-11-22,2680.0,155.0,26.6,clear
+550,Soyabean,Basava Kalayana,2016-01-01,3550.0,2.0,30.2,clear
+551,Soyabean,Bhalki,2016-01-01,3501.0,3.0,30.2,clear
+552,Sunflower,Basava Kalayana,2016-01-01,3500.0,1.0,30.2,clear
+553,Soyabean,Basava Kalayana,2016-05-01,3550.0,5.0,38.5,clear
+554,Soyabean,Bhalki,2016-05-01,3510.0,5.0,38.5,clear
+555,Sunflower,Basava Kalayana,2016-05-01,3500.0,1.0,38.5,clear
+556,Soyabean,Basava Kalayana,2016-06-01,3500.0,3.0,37.8,clear
+557,Soyabean,Bhalki,2016-06-01,3605.0,8.0,37.8,clear
+558,Sunflower,Basava Kalayana,2016-06-01,3500.0,1.0,37.8,clear
+559,Soyabean,Basava Kalayana,2016-08-01,3500.0,3.0,25.4,clear
+560,Soyabean,Bhalki,2016-08-01,3501.0,5.0,25.4,clear
+561,Sunflower,Basava Kalayana,2016-08-01,3450.0,0.0,25.4,clear
+562,Soyabean,Basava Kalayana,2016-11-01,3500.0,4.0,26.4,clear
+563,Soyabean,Bhalki,2016-11-01,3602.0,5.0,26.4,clear
+564,Sunflower,Basava Kalayana,2016-11-01,3450.0,1.0,26.4,clear
+565,Soyabean,Basava Kalayana,2016-01-13,3600.0,3.0,28.2,clear
+566,Soyabean,Bhalki,2016-01-13,3501.0,5.0,28.2,clear
+567,Sunflower,Basava Kalayana,2016-01-13,3400.0,0.0,28.2,clear
+568,Soyabean,Basava Kalayana,2016-01-14,3550.0,1.0,28.8,clear
+569,Soyabean,Basava Kalayana,2016-01-25,3600.0,2.0,29.4,clear
+570,Sunflower,Basava Kalayana,2016-01-25,3350.0,0.0,29.4,clear
+571,Soyabean,Basava Kalayana,2016-02-19,3650.0,1.0,33.2,clear
+572,Sunflower,Basava Kalayana,2016-02-19,3700.0,0.0,33.2,clear
+573,Soyabean,Basava Kalayana,2016-05-05,3800.0,1.0,35.4,clear
+574,Soyabean,Basava Kalayana,2016-05-20,3700.0,1.0,39.2,clear
+575,Sunflower,Basava Kalayana,2016-05-20,3150.0,0.0,39.2,clear
+576,Soyabean,Basava Kalayana,2016-05-21,3700.0,2.0,39.4,clear
+577,Soyabean,Basava Kalayana,2016-05-27,3750.0,1.0,38.4,clear
+578,Sunflower,Basava Kalayana,2016-05-27,3150.0,0.0,38.4,clear
+579,Soyabean,Basava Kalayana,2016-03-06,3750.0,1.0,32.4,clear
+580,Soyabean,Bhalki,2016-03-06,3701.0,4.0,32.4,clear
+581,Soyabean,Basava Kalayana,2016-11-06,3700.0,3.0,26.0,clear
+582,Sunflower,Basava Kalayana,2016-11-06,3001.0,0.0,26.0,clear
+583,Soyabean,Basava Kalayana,2016-06-14,3750.0,2.0,35.2,clear
+584,Soyabean,Bhalki,2016-06-14,3701.0,3.0,35.2,clear
+585,Soyabean,Basava Kalayana,2016-06-17,3690.0,2.0,36.2,clear
+586,Soyabean,Bhalki,2016-06-17,3701.0,4.0,36.2,clear
+587,Soyabean,Basava Kalayana,2016-06-18,3700.0,2.0,25.4,clear
+588,Soyabean,Bhalki,2016-06-18,3500.0,3.0,25.4,clear
+589,Soyabean,Basava Kalayana,2016-06-28,3700.0,2.0,25.0,clear
+590,Soyabean,Bhalki,2016-06-28,3520.0,2.0,25.0,clear
+591,Soyabean,Basava Kalayana,2016-07-14,3500.0,2.0,30.0,clear
+592,Soyabean,Bhalki,2016-07-14,3540.0,1.0,30.0,clear
+593,Soyabean,Basava Kalayana,2016-07-18,3590.0,3.0,27.6,clear
+594,Soyabean,Bhalki,2016-07-18,3500.0,2.0,27.6,clear
+595,Soyabean,Basava Kalayana,2016-07-19,3550.0,1.0,24.2,clear
+596,Soyabean,Basava Kalayana,2016-07-25,3650.0,2.0,28.4,clear
+597,Soyabean,Bhalki,2016-07-25,3550.0,2.0,28.4,clear
+598,Soyabean,Basava Kalayana,2016-03-08,3550.0,2.0,33.4,clear
+599,Soyabean,Bhalki,2016-03-08,3401.0,2.0,33.4,clear
+600,Sunflower,Basava Kalayana,2016-03-08,2901.0,0.0,33.4,clear
+601,Soyabean,Basava Kalayana,2016-06-08,3550.0,2.0,38.6,clear
+602,Soyabean,Bhalki,2016-06-08,3505.0,2.0,38.6,clear
+603,Soyabean,Basava Kalayana,2016-09-08,3590.0,1.0,28.4,clear
+604,Soyabean,Bhalki,2016-09-08,3550.0,3.0,28.4,clear
+605,Sunflower,Basava Kalayana,2016-09-08,2881.0,0.0,28.4,clear
+606,Soyabean,Basava Kalayana,2016-11-08,3550.0,7.0,27.8,clear
+607,Soyabean,Bhalki,2016-11-08,3500.0,1.0,27.8,clear
+608,Soyabean,Basava Kalayana,2016-08-17,3450.0,3.0,29.4,clear
+609,Soyabean,Bhalki,2016-08-17,3401.0,2.0,29.4,clear
+610,Sunflower,Basava Kalayana,2016-08-17,2901.0,0.0,29.4,clear
+611,Soyabean,Basava Kalayana,2016-08-19,3400.0,4.0,28.2,clear
+612,Soyabean,Bhalki,2016-08-19,3450.0,2.0,28.2,clear
+613,Soyabean,Basava Kalayana,2016-08-20,3500.0,3.0,29.2,clear
+614,Soyabean,Bhalki,2016-08-20,3450.0,2.0,29.2,clear
+615,Soyabean,Basava Kalayana,2016-08-24,3500.0,2.0,28.6,clear
+616,Soyabean,Bhalki,2016-08-24,3450.0,2.0,28.6,clear
+617,Soyabean,Basava Kalayana,2016-08-25,2500.0,0.0,29.6,clear
+618,Soyabean,Basava Kalayana,2016-08-26,3400.0,3.0,31.2,clear
+619,Soyabean,Bhalki,2016-08-26,3450.0,3.0,31.2,clear
+620,Soyabean,Basava Kalayana,2016-08-30,3200.0,2.0,27.2,clear
+621,Soyabean,Basava Kalayana,2016-02-09,3150.0,1.0,32.2,clear
+622,Soyabean,Basava Kalayana,2016-03-09,3250.0,2.0,33.6,clear
+623,Soyabean,Basava Kalayana,2016-06-09,3300.0,2.0,21.4,clear
+624,Soyabean,Basava Kalayana,2016-07-09,3300.0,1.0,23.2,clear
+625,Sunflower,Basava Kalayana,2016-07-09,2800.0,1.0,23.2,clear
+626,Soyabean,Basava Kalayana,2016-09-09,3280.0,1.0,24.8,clear
+627,Soyabean,Basava Kalayana,2016-10-09,3341.0,6.0,27.2,clear
+628,Soyabean,Basava Kalayana,2016-09-19,3250.0,11.0,24.8,clear
+629,Soyabean,Basava Kalayana,2016-09-22,3200.0,5.0,24.2,clear
+630,Soyabean,Bhalki,2016-09-22,3150.0,5.0,24.2,clear
+631,Soyabean,Humanabad,2016-09-22,2700.0,5.0,24.2,clear
+632,Soyabean,Basava Kalayana,2016-03-10,2650.0,41.0,35.2,clear
+633,Soyabean,Basava Kalayana,2016-04-10,2750.0,18.0,38.4,clear
+634,Soyabean,Bhalki,2016-04-10,3201.0,5.0,38.4,clear
+635,Soyabean,Humanabad,2016-04-10,2500.0,23.0,38.4,clear
+636,Sunflower,Basava Kalayana,2016-04-10,2800.0,0.0,38.4,clear
+637,Soyabean,Basava Kalayana,2016-05-10,2800.0,30.0,34.4,clear
+638,Soyabean,Humanabad,2016-05-10,2500.0,36.0,34.4,clear
+639,Sunflower,Basava Kalayana,2016-05-10,2150.0,0.0,34.4,clear
+640,Soyabean,Basava Kalayana,2016-06-10,2550.0,33.0,28.8,clear
+641,Soyabean,Humanabad,2016-06-10,2700.0,30.0,28.8,clear
+642,Soyabean,Basava Kalayana,2016-08-10,2650.0,66.0,25.2,clear
+643,Soyabean,Bhalki,2016-08-10,2505.0,5.0,25.2,clear
+644,Soyabean,Bidar,2016-08-10,2325.0,25.0,25.2,clear
+645,Soyabean,Basava Kalayana,2016-10-18,2500.0,103.0,27.4,clear
+646,Soyabean,Bhalki,2016-10-18,2402.0,5.0,27.4,clear
+647,Soyabean,Bidar,2016-10-18,2250.0,25.0,27.4,clear
+648,Soyabean,Humanabad,2016-10-18,2200.0,100.0,27.4,clear
+649,Soyabean,Basava Kalayana,2016-10-20,2500.0,89.0,28.2,clear
+650,Soyabean,Bhalki,2016-10-20,2501.0,5.0,28.2,clear
+651,Soyabean,Bidar,2016-10-20,2316.0,41.0,28.2,clear
+652,Soyabean,Humanabad,2016-10-20,2000.0,65.0,28.2,clear
+653,Soyabean,Basava Kalayana,2016-10-21,2500.0,98.0,28.6,clear
+654,Soyabean,Bhalki,2016-10-21,2701.0,5.0,28.6,clear
+655,Soyabean,Bidar,2016-10-21,2500.0,35.0,28.6,clear
+656,Soyabean,Basava Kalayana,2016-10-24,2500.0,131.0,26.2,clear
+657,Soyabean,Bhalki,2016-10-24,2605.0,7.0,26.2,clear
+658,Soyabean,Bidar,2016-10-24,2500.0,35.0,26.2,clear
+659,Soyabean,Basava Kalayana,2016-10-25,2500.0,122.0,27.6,clear
+660,Soyabean,Bidar,2016-10-25,2500.0,25.0,27.6,clear
+661,Soyabean,Humanabad,2016-10-25,2300.0,70.0,27.6,clear
+662,Soyabean,Basava Kalayana,2016-04-11,2450.0,91.0,38.0,clear
+663,Soyabean,Bhalki,2016-04-11,2601.0,8.0,38.0,clear
+664,Soyabean,Bidar,2016-04-11,2550.0,133.0,38.0,clear
+665,Soyabean,Humanabad,2016-04-11,2000.0,72.0,38.0,clear
+666,Sunflower,Basava Kalayana,2016-04-11,2600.0,0.0,38.0,clear
+667,Soyabean,Basava Kalayana,2016-11-26,2450.0,13.0,27.4,clear
+668,Soyabean,Bhalki,2016-11-26,2605.0,90.0,27.4,clear
+669,Soyabean,Bidar,2016-11-26,2700.0,205.0,27.4,clear
+670,Soyabean,Basava Kalayana,2016-11-28,2550.0,6.0,27.4,clear
+671,Soyabean,Basava Kalayana,2016-01-12,2500.0,38.0,28.4,clear
+672,Soyabean,Bhalki,2016-01-12,2604.0,150.0,28.4,clear
+673,Soyabean,Bidar,2016-01-12,2750.0,225.0,28.4,clear
+674,Sunflower,Basava Kalayana,2016-01-12,2250.0,0.0,28.4,clear
+675,Soyabean,Basava Kalayana,2016-02-12,2450.0,31.0,24.6,clear
+676,Soyabean,Bhalki,2016-02-12,2610.0,90.0,24.6,clear
+677,Soyabean,Bidar,2016-02-12,2725.0,280.0,24.6,clear
+678,Soyabean,Basava Kalayana,2016-03-12,2450.0,37.0,35.2,clear
+679,Soyabean,Bhalki,2016-03-12,2701.0,80.0,35.2,clear
+680,Soyabean,Bidar,2016-03-12,2650.0,250.0,35.2,clear
+681,Soyabean,Basava Kalayana,2016-06-12,2400.0,28.0,28.2,clear
+682,Soyabean,Bhalki,2016-06-12,2601.0,30.0,28.2,clear
+683,Soyabean,Bidar,2016-06-12,2550.0,150.0,28.2,clear
+684,Soyabean,Basava Kalayana,2016-07-12,2350.0,31.0,26.4,clear
+685,Soyabean,Bhalki,2016-07-12,2601.0,35.0,26.4,clear
+686,Soyabean,Bidar,2016-07-12,2625.0,151.0,26.4,clear
+687,Soyabean,Basava Kalayana,2016-08-12,2350.0,24.0,29.8,clear
+688,Soyabean,Bhalki,2016-08-12,2501.0,55.0,29.8,clear
+689,Soyabean,Bidar,2016-08-12,2500.0,153.0,29.8,clear
+690,Soyabean,Humanabad,2016-08-12,2100.0,13.0,29.8,clear
+691,Soyabean,Basava Kalayana,2016-09-12,2350.0,28.0,24.6,clear
+692,Soyabean,Bhalki,2016-09-12,2501.0,49.0,24.6,clear
+693,Soyabean,Bidar,2016-09-12,2500.0,105.0,24.6,clear
+694,Sunflower,Basava Kalayana,2016-09-12,2500.0,0.0,24.6,clear
+695,Soyabean,Basava Kalayana,2016-10-12,2300.0,25.0,28.4,clear
+696,Soyabean,Bidar,2016-10-12,2550.0,95.0,28.4,clear
+697,Soyabean,Basava Kalayana,2016-12-12,2350.0,3.0,26.6,clear
+698,Soyabean,Bhalki,2016-12-12,2600.0,50.0,26.6,clear
+699,Soyabean,Basava Kalayana,2016-12-14,2300.0,30.0,21.2,clear
+700,Soyabean,Bhalki,2016-12-14,2601.0,30.0,21.2,clear
+701,Soyabean,Bidar,2016-12-14,2525.0,135.0,21.2,clear
+702,Soyabean,Basava Kalayana,2016-12-16,2350.0,25.0,27.8,clear
+703,Soyabean,Bhalki,2016-12-16,2602.0,50.0,27.8,clear
+704,Soyabean,Bidar,2016-12-16,2550.0,125.0,27.8,clear
+705,Soyabean,Basava Kalayana,2016-12-17,2350.0,25.0,28.4,clear
+706,Soyabean,Bhalki,2016-12-17,2605.0,40.0,28.4,clear
+707,Soyabean,Bidar,2016-12-17,2520.0,150.0,28.4,clear
+708,Sunflower,Basava Kalayana,2016-12-17,2291.0,0.0,28.4,clear
+709,Soyabean,Basava Kalayana,2016-12-19,2300.0,17.0,24.6,clear
+710,Soyabean,Bhalki,2016-12-19,2500.0,40.0,24.6,clear
+711,Soyabean,Bidar,2016-12-19,2520.0,115.0,24.6,clear
+712,Sunflower,Basava Kalayana,2016-12-19,2050.0,0.0,24.6,clear
+713,Soyabean,Basava Kalayana,2016-12-20,2400.0,30.0,24.4,clear
+714,Soyabean,Bhalki,2016-12-20,2501.0,30.0,24.4,clear
+715,Soyabean,Bidar,2016-12-20,2500.0,78.0,24.4,clear
+716,Sunflower,Basava Kalayana,2016-12-20,2250.0,0.0,24.4,clear
+717,Soyabean,Basava Kalayana,2016-12-21,2400.0,26.0,26.0,clear
+718,Soyabean,Bhalki,2016-12-21,2501.0,28.0,26.0,clear
+719,Soyabean,Bidar,2016-12-21,2525.0,123.0,26.0,clear
+720,Soyabean,Humanabad,2016-12-21,2200.0,26.0,26.0,clear
+721,Soyabean,Basava Kalayana,2016-12-23,2500.0,15.0,26.4,clear
+722,Soyabean,Bhalki,2016-12-23,2601.0,40.0,26.4,clear
+723,Soyabean,Bidar,2016-12-23,2515.0,43.0,26.4,clear
+724,Sunflower,Basava Kalayana,2016-12-23,2500.0,0.0,26.4,clear
+725,Soyabean,Basava Kalayana,2016-12-24,2450.0,17.0,26.8,clear
+726,Soyabean,Bhalki,2016-12-24,2505.0,34.0,26.8,clear
+727,Soyabean,Bidar,2016-12-24,2450.0,76.0,26.8,clear
+728,Soyabean,Humanabad,2016-12-24,2250.0,15.0,26.8,clear
+729,Sunflower,Basava Kalayana,2016-12-24,2500.0,0.0,26.8,clear
+730,Soyabean,Basava Kalayana,2016-12-26,2400.0,18.0,25.2,clear
+731,Soyabean,Bhalki,2016-12-26,2600.0,30.0,25.2,clear
+732,Soyabean,Bidar,2016-12-26,2550.0,43.0,25.2,clear
+733,Sunflower,Basava Kalayana,2016-12-26,2631.0,1.0,25.2,clear
+734,Soyabean,Basava Kalayana,2016-12-27,2500.0,15.0,24.2,clear
+735,Soyabean,Bhalki,2016-12-27,2601.0,50.0,24.2,clear
+736,Soyabean,Bidar,2016-12-27,2420.0,28.0,24.2,clear
+737,Soyabean,Basava Kalayana,2016-12-30,2450.0,10.0,26.4,clear
+738,Soyabean,Bidar,2016-12-30,2550.0,53.0,26.4,clear
+739,Soyabean,Bhalki,2016-02-04,3900.0,6.0,33.0,clear
+740,Soyabean,Bhalki,2016-12-04,3901.0,5.0,29.2,clear
+741,Soyabean,Bhalki,2016-04-13,3901.0,5.0,38.4,clear
+742,Soyabean,Bhalki,2016-04-16,3900.0,7.0,39.0,clear
+743,Soyabean,Bhalki,2016-04-25,3850.0,5.0,40.4,clear
+744,Soyabean,Bhalki,2016-04-26,3900.0,5.0,41.0,clear
+745,Soyabean,Bhalki,2016-04-28,3805.0,5.0,31.0,rain
+746,Soyabean,Bhalki,2016-10-05,3850.0,4.0,27.0,clear
+747,Soyabean,Bhalki,2016-06-20,3450.0,2.0,27.0,clear
+748,Soyabean,Bhalki,2016-06-21,3430.0,2.0,32.4,clear
+749,Soyabean,Bhalki,2016-10-23,2605.0,7.0,27.2,clear
+750,Soyabean,Humanabad,2016-10-23,2300.0,70.0,27.2,clear
+751,Soyabean,Bhalki,2016-01-11,2601.0,10.0,27.6,clear
+752,Soyabean,Bhalki,2016-11-19,2500.0,8.0,25.2,clear
+753,Soyabean,Bidar,2016-11-19,2550.0,220.0,25.2,clear
+754,Soyabean,Bhalki,2016-11-21,2401.0,12.0,27.6,clear
+755,Soyabean,Bidar,2016-11-21,2580.0,125.0,27.6,clear
+756,Soyabean,Bhalki,2016-11-23,2601.0,15.0,22.2,clear
+757,Soyabean,Bidar,2016-11-23,2605.0,155.0,22.2,clear
+758,Soyabean,Bhalki,2016-11-24,2601.0,130.0,25.2,clear
+759,Soyabean,Bidar,2016-11-24,2650.0,126.0,25.2,clear
+760,Soyabean,Bhalki,2016-11-25,2601.0,10.0,25.2,clear
+761,Soyabean,Bidar,2016-11-25,2705.0,165.0,25.2,clear
+762,Soyabean,Bhalki,2016-12-31,2620.0,35.0,27.8,clear
+763,Soyabean,Bidar,2016-12-31,2550.0,85.0,27.8,clear
+764,Soyabean,Bidar,2016-11-11,2450.0,57.0,25.8,clear
+765,Soyabean,Bidar,2016-12-11,2650.0,75.0,27.8,clear
+766,Soyabean,Bidar,2016-11-15,2450.0,166.0,28.0,clear
+767,Soyabean,Bidar,2016-11-16,2450.0,150.0,24.0,clear
+768,Soyabean,Bidar,2016-11-18,2650.0,121.0,25.2,clear
+769,Soyabean,Bidar,2016-12-22,2500.0,55.0,26.6,clear
+770,Soyabean,Bidar,2016-12-28,2550.0,35.0,25.0,clear
+771,Soyabean,Humanabad,2016-09-14,2900.0,5.0,24.6,clear
+772,Soyabean,Humanabad,2016-09-18,2800.0,4.0,27.6,clear
+773,Soyabean,Humanabad,2016-09-10,2250.0,91.0,27.2,clear
+774,Soyabean,Humanabad,2016-10-16,2500.0,120.0,27.0,clear
+775,Soyabean,Humanabad,2016-10-26,2000.0,78.0,28.0,clear
+776,Soyabean,Humanabad,2016-06-11,2000.0,76.0,29.8,clear
+777,Soyabean,Humanabad,2016-11-12,2200.0,22.0,25.2,clear
+778,Soyabean,Humanabad,2016-12-18,2300.0,30.0,25.2,clear
+779,Groundnut,Basava Kalayana,2017-04-05,4200.0,0.0,36.8,clear
+780,Safflower,Basava Kalayana,2017-04-05,2650.0,0.0,36.8,clear
+781,Safflower,Bidar,2017-04-05,2925.0,11.0,36.8,clear
+782,Soyabean,Basava Kalayana,2017-04-05,2650.0,4.0,36.8,clear
+783,Soyabean,Bhalki,2017-04-05,2750.0,14.0,36.8,clear
+784,Soyabean,Bidar,2017-04-05,2750.0,4.0,36.8,clear
+785,Sunflower,Basava Kalayana,2017-04-05,2760.0,0.0,36.8,clear
+786,Groundnut,Basava Kalayana,2017-09-05,4350.0,0.0,29.8,clear
+787,Safflower,Basava Kalayana,2017-09-05,2500.0,0.0,29.8,clear
+788,Safflower,Bidar,2017-09-05,2925.0,15.0,29.8,clear
+789,Soyabean,Basava Kalayana,2017-09-05,2650.0,4.0,29.8,clear
+790,Soyabean,Bhalki,2017-09-05,2770.0,8.0,29.8,clear
+791,Soyabean,Bidar,2017-09-05,2770.0,3.0,29.8,clear
+792,Groundnut,Basava Kalayana,2017-05-22,4400.0,0.0,38.8,clear
+793,Safflower,Basava Kalayana,2017-05-22,2700.0,0.0,38.8,clear
+794,Safflower,Bidar,2017-05-22,2919.0,9.0,38.8,clear
+795,Soyabean,Basava Kalayana,2017-05-22,2650.0,2.0,38.8,clear
+796,Groundnut,Basava Kalayana,2017-05-31,2750.0,0.0,36.8,clear
+797,Safflower,Basava Kalayana,2017-05-31,2750.0,0.0,36.8,clear
+798,Safflower,Bidar,2017-05-31,2960.0,4.0,36.8,clear
+799,Soyabean,Basava Kalayana,2017-05-31,2550.0,2.0,36.8,clear
+800,Soyabean,Bhalki,2017-05-31,2500.0,8.0,36.8,clear
+801,Soyabean,Bidar,2017-05-31,2510.0,1.0,36.8,clear
+802,Sunflower,Basava Kalayana,2017-05-31,2600.0,0.0,36.8,clear
+803,Groundnut,Basava Kalayana,2017-02-06,3800.0,0.0,30.2,clear
+804,Safflower,Bidar,2017-02-06,2975.0,9.0,30.2,clear
+805,Soyabean,Basava Kalayana,2017-02-06,2550.0,2.0,30.2,clear
+806,Soyabean,Bidar,2017-02-06,2554.0,1.0,30.2,clear
+807,Groundnut,Basava Kalayana,2017-06-06,3100.0,1.0,36.8,clear
+808,Safflower,Basava Kalayana,2017-06-06,2651.0,0.0,36.8,clear
+809,Safflower,Bidar,2017-06-06,2965.0,5.0,36.8,clear
+810,Soyabean,Basava Kalayana,2017-06-06,2550.0,3.0,36.8,clear
+811,Soyabean,Bidar,2017-06-06,2560.0,6.0,36.8,clear
+812,Sunflower,Basava Kalayana,2017-06-06,2500.0,0.0,36.8,clear
+813,Groundnut,Basava Kalayana,2017-07-06,3000.0,1.0,30.8,clear
+814,Safflower,Basava Kalayana,2017-07-06,2750.0,1.0,30.8,clear
+815,Safflower,Bidar,2017-07-06,2970.0,11.0,30.8,clear
+816,Soyabean,Basava Kalayana,2017-07-06,2600.0,7.0,30.8,clear
+817,Soyabean,Bhalki,2017-07-06,2350.0,10.0,30.8,clear
+818,Soyabean,Bidar,2017-07-06,2550.0,12.0,30.8,clear
+819,Sunflower,Basava Kalayana,2017-07-06,2500.0,0.0,30.8,clear
+820,Groundnut,Basava Kalayana,2017-08-06,3100.0,0.0,29.2,clear
+821,Safflower,Basava Kalayana,2017-08-06,2750.0,0.0,29.2,clear
+822,Soyabean,Basava Kalayana,2017-08-06,2550.0,4.0,29.2,clear
+823,Soyabean,Bhalki,2017-08-06,2550.0,5.0,29.2,clear
+824,Soyabean,Bidar,2017-08-06,2550.0,14.0,29.2,clear
+825,Groundnut,Basava Kalayana,2017-06-16,3001.0,0.0,25.2,clear
+826,Safflower,Bidar,2017-06-16,2850.0,4.0,25.2,clear
+827,Soyabean,Basava Kalayana,2017-06-16,2450.0,3.0,25.2,clear
+828,Soyabean,Bhalki,2017-06-16,2400.0,18.0,25.2,clear
+829,Soyabean,Bidar,2017-06-16,2580.0,16.0,25.2,clear
+830,Groundnut,Basava Kalayana,2017-06-22,3200.0,0.0,32.4,clear
+831,Safflower,Basava Kalayana,2017-06-22,3023.0,0.0,32.4,clear
+832,Safflower,Bidar,2017-06-22,2975.0,2.0,32.4,clear
+833,Soyabean,Basava Kalayana,2017-06-22,2500.0,3.0,32.4,clear
+834,Soyabean,Bidar,2017-06-22,2600.0,15.0,32.4,clear
+835,Groundnut,Basava Kalayana,2017-07-20,3500.0,0.0,26.8,clear
+836,Safflower,Basava Kalayana,2017-07-20,3000.0,0.0,26.8,clear
+837,Safflower,Bidar,2017-07-20,3420.0,4.0,26.8,clear
+838,Soyabean,Basava Kalayana,2017-07-20,2600.0,2.0,26.8,clear
+839,Soyabean,Bidar,2017-07-20,2750.0,23.0,26.8,clear
+840,Groundnut,Basava Kalayana,2017-06-10,3501.0,0.0,26.8,clear
+841,Safflower,Basava Kalayana,2017-06-10,3001.0,0.0,26.8,clear
+842,Soyabean,Bhalki,2017-06-10,2500.0,30.0,26.8,clear
+843,Soyabean,Bidar,2017-06-10,2345.0,315.0,26.8,clear
+844,Soyabean,Humanabad,2017-06-10,2220.0,68.0,26.8,clear
+845,Safflower,Basava Kalayana,2017-05-01,2401.0,0.0,36.8,clear
+846,Soyabean,Basava Kalayana,2017-05-01,2450.0,12.0,36.8,clear
+847,Soyabean,Bhalki,2017-05-01,2600.0,29.0,36.8,clear
+848,Soyabean,Bidar,2017-05-01,2515.0,75.0,36.8,clear
+849,Safflower,Basava Kalayana,2017-01-17,2380.0,0.0,26.6,clear
+850,Soyabean,Basava Kalayana,2017-01-17,2450.0,15.0,26.6,clear
+851,Soyabean,Bhalki,2017-01-17,2501.0,48.0,26.6,clear
+852,Soyabean,Bidar,2017-01-17,2600.0,83.0,26.6,clear
+853,Sunflower,Basava Kalayana,2017-01-17,2880.0,0.0,26.6,clear
+854,Safflower,Basava Kalayana,2017-01-25,2300.0,0.0,28.0,clear
+855,Soyabean,Basava Kalayana,2017-01-25,2450.0,5.0,28.0,clear
+856,Soyabean,Bhalki,2017-01-25,2550.0,40.0,28.0,clear
+857,Soyabean,Bidar,2017-01-25,2550.0,30.0,28.0,clear
+858,Safflower,Basava Kalayana,2017-03-02,2651.0,0.0,33.6,clear
+859,Safflower,Bidar,2017-03-02,2700.0,1.0,33.6,clear
+860,Soyabean,Basava Kalayana,2017-03-02,2450.0,8.0,33.6,clear
+861,Soyabean,Bhalki,2017-03-02,2600.0,40.0,33.6,clear
+862,Soyabean,Bidar,2017-03-02,2600.0,33.0,33.6,clear
+863,Soyabean,Humanabad,2017-03-02,2500.0,1.0,33.6,clear
+864,Safflower,Basava Kalayana,2017-02-15,2650.0,0.0,29.2,clear
+865,Soyabean,Basava Kalayana,2017-02-15,2500.0,6.0,29.2,clear
+866,Soyabean,Bhalki,2017-02-15,2505.0,39.0,29.2,clear
+867,Soyabean,Bidar,2017-02-15,2600.0,12.0,29.2,clear
+868,Safflower,Basava Kalayana,2017-02-27,2601.0,0.0,32.2,clear
+869,Safflower,Bidar,2017-02-27,2786.0,1.0,32.2,clear
+870,Soyabean,Basava Kalayana,2017-02-27,2500.0,6.0,32.2,clear
+871,Soyabean,Bhalki,2017-02-27,2601.0,28.0,32.2,clear
+872,Soyabean,Bidar,2017-02-27,2625.0,21.0,32.2,clear
+873,Sunflower,Basava Kalayana,2017-02-27,2601.0,0.0,32.2,clear
+874,Safflower,Basava Kalayana,2017-03-03,2401.0,0.0,33.6,clear
+875,Soyabean,Basava Kalayana,2017-03-03,2450.0,4.0,33.6,clear
+876,Soyabean,Bhalki,2017-03-03,2600.0,20.0,33.6,clear
+877,Soyabean,Bidar,2017-03-03,2625.0,23.0,33.6,clear
+878,Sunflower,Basava Kalayana,2017-03-03,2701.0,0.0,33.6,clear
+879,Safflower,Basava Kalayana,2017-04-03,2450.0,0.0,37.4,clear
+880,Safflower,Bidar,2017-04-03,2800.0,1.0,37.4,clear
+881,Soyabean,Basava Kalayana,2017-04-03,2500.0,6.0,37.4,clear
+882,Soyabean,Bhalki,2017-04-03,2600.0,30.0,37.4,clear
+883,Soyabean,Bidar,2017-04-03,2640.0,21.0,37.4,clear
+884,Sunflower,Basava Kalayana,2017-04-03,2700.0,0.0,37.4,clear
+885,Safflower,Basava Kalayana,2017-06-03,2550.0,0.0,32.8,clear
+886,Safflower,Bidar,2017-06-03,2815.0,2.0,32.8,clear
+887,Soyabean,Bhalki,2017-06-03,2650.0,30.0,32.8,clear
+888,Soyabean,Bidar,2017-06-03,2600.0,15.0,32.8,clear
+889,Sunflower,Basava Kalayana,2017-06-03,2500.0,0.0,32.8,clear
+890,Safflower,Basava Kalayana,2017-07-03,2450.0,0.0,25.4,clear
+891,Soyabean,Basava Kalayana,2017-07-03,2600.0,4.0,25.4,clear
+892,Soyabean,Bhalki,2017-07-03,2550.0,28.0,25.4,clear
+893,Soyabean,Bidar,2017-07-03,2605.0,18.0,25.4,clear
+894,Sunflower,Basava Kalayana,2017-07-03,2801.0,0.0,25.4,clear
+895,Safflower,Basava Kalayana,2017-08-03,2500.0,0.0,31.4,clear
+896,Soyabean,Basava Kalayana,2017-08-03,2500.0,4.0,31.4,clear
+897,Soyabean,Bhalki,2017-08-03,2600.0,31.0,31.4,clear
+898,Soyabean,Bidar,2017-08-03,2600.0,31.0,31.4,clear
+899,Safflower,Basava Kalayana,2017-10-03,2551.0,0.0,29.0,clear
+900,Safflower,Bidar,2017-10-03,2810.0,3.0,29.0,clear
+901,Soyabean,Basava Kalayana,2017-10-03,2451.0,5.0,29.0,clear
+902,Soyabean,Bhalki,2017-10-03,2605.0,35.0,29.0,clear
+903,Soyabean,Bidar,2017-10-03,2600.0,22.0,29.0,clear
+904,Safflower,Basava Kalayana,2017-03-14,2500.0,1.0,33.2,clear
+905,Safflower,Bidar,2017-03-14,2820.0,4.0,33.2,clear
+906,Soyabean,Basava Kalayana,2017-03-14,2500.0,2.0,33.2,clear
+907,Soyabean,Bidar,2017-03-14,2600.0,6.0,33.2,clear
+908,Safflower,Basava Kalayana,2017-03-15,2600.0,0.0,29.8,clear
+909,Safflower,Bidar,2017-03-15,2825.0,10.0,29.8,clear
+910,Soyabean,Basava Kalayana,2017-03-15,2550.0,5.0,29.8,clear
+911,Soyabean,Bhalki,2017-03-15,2650.0,29.0,29.8,clear
+912,Soyabean,Bidar,2017-03-15,2605.0,8.0,29.8,clear
+913,Safflower,Basava Kalayana,2017-03-16,2661.0,0.0,33.0,clear
+914,Safflower,Bidar,2017-03-16,2820.0,1.0,33.0,clear
+915,Soyabean,Basava Kalayana,2017-03-16,2500.0,4.0,33.0,clear
+916,Soyabean,Bhalki,2017-03-16,2600.0,28.0,33.0,clear
+917,Soyabean,Bidar,2017-03-16,2605.0,8.0,33.0,clear
+918,Safflower,Basava Kalayana,2017-03-17,2600.0,0.0,31.8,clear
+919,Safflower,Bidar,2017-03-17,2840.0,4.0,31.8,clear
+920,Soyabean,Basava Kalayana,2017-03-17,2650.0,4.0,31.8,clear
+921,Soyabean,Bhalki,2017-03-17,2650.0,29.0,31.8,clear
+922,Safflower,Basava Kalayana,2017-03-18,2600.0,0.0,32.6,clear
+923,Safflower,Bidar,2017-03-18,2850.0,6.0,32.6,clear
+924,Soyabean,Basava Kalayana,2017-03-18,2550.0,4.0,32.6,clear
+925,Soyabean,Bhalki,2017-03-18,2600.0,25.0,32.6,clear
+926,Soyabean,Bidar,2017-03-18,2615.0,13.0,32.6,clear
+927,Sunflower,Basava Kalayana,2017-03-18,2500.0,0.0,32.6,clear
+928,Safflower,Basava Kalayana,2017-03-20,2560.0,0.0,33.8,clear
+929,Safflower,Bhalki,2017-03-20,2705.0,2.0,33.8,clear
+930,Soyabean,Basava Kalayana,2017-03-20,2550.0,3.0,33.8,clear
+931,Soyabean,Bidar,2017-03-20,2620.0,15.0,33.8,clear
+932,Sunflower,Basava Kalayana,2017-03-20,2801.0,0.0,33.8,clear
+933,Safflower,Basava Kalayana,2017-03-21,2700.0,0.0,28.8,clear
+934,Safflower,Bidar,2017-03-21,2840.0,5.0,28.8,clear
+935,Soyabean,Basava Kalayana,2017-03-21,2561.0,5.0,28.8,clear
+936,Soyabean,Bhalki,2017-03-21,2520.0,25.0,28.8,clear
+937,Soyabean,Bidar,2017-03-21,2610.0,11.0,28.8,clear
+938,Safflower,Basava Kalayana,2017-03-22,2601.0,0.0,33.6,clear
+939,Safflower,Bidar,2017-03-22,2850.0,3.0,33.6,clear
+940,Soyabean,Basava Kalayana,2017-03-22,2500.0,3.0,33.6,clear
+941,Soyabean,Bhalki,2017-03-22,2700.0,30.0,33.6,clear
+942,Soyabean,Bidar,2017-03-22,2650.0,21.0,33.6,clear
+943,Safflower,Basava Kalayana,2017-03-23,2690.0,1.0,35.4,clear
+944,Safflower,Bidar,2017-03-23,2830.0,2.0,35.4,clear
+945,Soyabean,Basava Kalayana,2017-03-23,2650.0,4.0,35.4,clear
+946,Soyabean,Bhalki,2017-03-23,2700.0,32.0,35.4,clear
+947,Soyabean,Bidar,2017-03-23,2615.0,11.0,35.4,clear
+948,Safflower,Basava Kalayana,2017-03-24,2650.0,1.0,35.8,clear
+949,Soyabean,Basava Kalayana,2017-03-24,2550.0,2.0,35.8,clear
+950,Soyabean,Bhalki,2017-03-24,2700.0,35.0,35.8,clear
+951,Soyabean,Bidar,2017-03-24,2656.0,2.0,35.8,clear
+952,Sunflower,Bidar,2017-03-24,2810.0,9.0,35.8,clear
+953,Safflower,Basava Kalayana,2017-03-25,2651.0,1.0,36.0,clear
+954,Safflower,Bidar,2017-03-25,2825.0,13.0,36.0,clear
+955,Soyabean,Basava Kalayana,2017-03-25,2600.0,4.0,36.0,clear
+956,Soyabean,Bhalki,2017-03-25,2740.0,32.0,36.0,clear
+957,Soyabean,Bidar,2017-03-25,2650.0,10.0,36.0,clear
+958,Safflower,Basava Kalayana,2017-03-30,2650.0,1.0,37.8,clear
+959,Soyabean,Basava Kalayana,2017-03-30,2550.0,4.0,37.8,clear
+960,Sunflower,Basava Kalayana,2017-03-30,2700.0,0.0,37.8,clear
+961,Safflower,Basava Kalayana,2017-03-31,2650.0,1.0,38.6,clear
+962,Soyabean,Basava Kalayana,2017-03-31,2601.0,3.0,38.6,clear
+963,Soyabean,Bhalki,2017-03-31,2650.0,30.0,38.6,clear
+964,Safflower,Basava Kalayana,2017-01-04,2650.0,0.0,24.8,clear
+965,Soyabean,Basava Kalayana,2017-01-04,2550.0,3.0,24.8,clear
+966,Sunflower,Basava Kalayana,2017-01-04,2800.0,0.0,24.8,clear
+967,Safflower,Basava Kalayana,2017-03-04,2650.0,1.0,33.8,clear
+968,Safflower,Bidar,2017-03-04,2890.0,45.0,33.8,clear
+969,Soyabean,Basava Kalayana,2017-03-04,2600.0,5.0,33.8,clear
+970,Soyabean,Bhalki,2017-03-04,2700.0,28.0,33.8,clear
+971,Soyabean,Bidar,2017-03-04,2660.0,28.0,33.8,clear
+972,Sunflower,Basava Kalayana,2017-03-04,3000.0,0.0,33.8,clear
+973,Safflower,Basava Kalayana,2017-04-04,2650.0,1.0,37.8,clear
+974,Safflower,Bidar,2017-04-04,2870.0,15.0,37.8,clear
+975,Soyabean,Basava Kalayana,2017-04-04,2550.0,3.0,37.8,clear
+976,Soyabean,Bidar,2017-04-04,2650.0,19.0,37.8,clear
+977,Safflower,Basava Kalayana,2017-06-04,2651.0,1.0,33.2,clear
+978,Safflower,Bidar,2017-06-04,2850.0,15.0,33.2,clear
+979,Soyabean,Basava Kalayana,2017-06-04,2650.0,6.0,33.2,clear
+980,Soyabean,Bhalki,2017-06-04,2705.0,35.0,33.2,clear
+981,Soyabean,Bidar,2017-06-04,2681.0,8.0,33.2,clear
+982,Sunflower,Basava Kalayana,2017-06-04,3250.0,0.0,33.2,clear
+983,Safflower,Basava Kalayana,2017-07-04,2650.0,0.0,28.8,clear
+984,Soyabean,Basava Kalayana,2017-07-04,2700.0,4.0,28.8,clear
+985,Safflower,Basava Kalayana,2017-08-04,2700.0,1.0,29.8,clear
+986,Soyabean,Basava Kalayana,2017-08-04,2600.0,4.0,29.8,clear
+987,Safflower,Basava Kalayana,2017-10-04,2750.0,1.0,30.0,clear
+988,Safflower,Bidar,2017-10-04,2860.0,15.0,30.0,clear
+989,Soyabean,Basava Kalayana,2017-10-04,2750.0,4.0,30.0,clear
+990,Soyabean,Bhalki,2017-10-04,2701.0,20.0,30.0,clear
+991,Soyabean,Bidar,2017-10-04,2650.0,25.0,30.0,clear
+992,Sunflower,Basava Kalayana,2017-10-04,2700.0,0.0,30.0,clear
+993,Safflower,Basava Kalayana,2017-12-04,2650.0,1.0,20.8,clear
+994,Safflower,Bidar,2017-12-04,2880.0,21.0,20.8,clear
+995,Soyabean,Basava Kalayana,2017-12-04,2600.0,3.0,20.8,clear
+996,Soyabean,Bidar,2017-12-04,2680.0,23.0,20.8,clear
+997,Safflower,Basava Kalayana,2017-04-15,2600.0,1.0,39.2,clear
+998,Safflower,Bidar,2017-04-15,2940.0,15.0,39.2,clear
+999,Soyabean,Basava Kalayana,2017-04-15,2700.0,6.0,39.2,clear
+1000,Soyabean,Bhalki,2017-04-15,2701.0,30.0,39.2,clear
+1001,Soyabean,Bidar,2017-04-15,2700.0,23.0,39.2,clear
+1002,Safflower,Basava Kalayana,2017-04-17,2600.0,0.0,39.2,clear
+1003,Safflower,Bidar,2017-04-17,2950.0,15.0,39.2,clear
+1004,Soyabean,Basava Kalayana,2017-04-17,2600.0,4.0,39.2,clear
+1005,Soyabean,Bidar,2017-04-17,2750.0,25.0,39.2,clear
+1006,Safflower,Basava Kalayana,2017-04-18,2600.0,0.0,39.4,clear
+1007,Safflower,Bidar,2017-04-18,2960.0,23.0,39.4,clear
+1008,Soyabean,Basava Kalayana,2017-04-18,2650.0,3.0,39.4,clear
+1009,Soyabean,Bhalki,2017-04-18,2800.0,20.0,39.4,clear
+1010,Soyabean,Bidar,2017-04-18,2770.0,31.0,39.4,clear
+1011,Sunflower,Basava Kalayana,2017-04-18,3000.0,0.0,39.4,clear
+1012,Safflower,Basava Kalayana,2017-04-19,2700.0,1.0,39.0,clear
+1013,Safflower,Bidar,2017-04-19,2950.0,18.0,39.0,clear
+1014,Soyabean,Basava Kalayana,2017-04-19,2700.0,3.0,39.0,clear
+1015,Soyabean,Bhalki,2017-04-19,2705.0,32.0,39.0,clear
+1016,Soyabean,Bidar,2017-04-19,2750.0,11.0,39.0,clear
+1017,Safflower,Basava Kalayana,2017-04-20,2700.0,1.0,39.2,clear
+1018,Safflower,Bidar,2017-04-20,2950.0,51.0,39.2,clear
+1019,Soyabean,Basava Kalayana,2017-04-20,2661.0,3.0,39.2,clear
+1020,Soyabean,Bhalki,2017-04-20,2700.0,15.0,39.2,clear
+1021,Soyabean,Bidar,2017-04-20,2650.0,10.0,39.2,clear
+1022,Safflower,Basava Kalayana,2017-04-21,2750.0,0.0,38.0,clear
+1023,Safflower,Bidar,2017-04-21,2940.0,12.0,38.0,clear
+1024,Soyabean,Basava Kalayana,2017-04-21,2750.0,1.0,38.0,clear
+1025,Soyabean,Bidar,2017-04-21,2850.0,3.0,38.0,clear
+1026,Safflower,Basava Kalayana,2017-04-22,2750.0,1.0,38.4,clear
+1027,Safflower,Bidar,2017-04-22,2910.0,17.0,38.4,clear
+1028,Soyabean,Basava Kalayana,2017-04-22,2750.0,4.0,38.4,clear
+1029,Soyabean,Bidar,2017-04-22,2850.0,21.0,38.4,clear
+1030,Safflower,Basava Kalayana,2017-04-24,2650.0,0.0,36.6,clear
+1031,Safflower,Bidar,2017-04-24,2945.0,26.0,36.6,clear
+1032,Soyabean,Basava Kalayana,2017-04-24,2750.0,3.0,36.6,clear
+1033,Soyabean,Bhalki,2017-04-24,2800.0,25.0,36.6,clear
+1034,Soyabean,Bidar,2017-04-24,2850.0,18.0,36.6,clear
+1035,Safflower,Basava Kalayana,2017-04-25,2600.0,0.0,37.2,clear
+1036,Safflower,Bidar,2017-04-25,2970.0,8.0,37.2,clear
+1037,Soyabean,Basava Kalayana,2017-04-25,2750.0,3.0,37.2,clear
+1038,Soyabean,Bhalki,2017-04-25,2800.0,28.0,37.2,clear
+1039,Soyabean,Bidar,2017-04-25,2850.0,33.0,37.2,clear
+1040,Safflower,Basava Kalayana,2017-04-27,2500.0,0.0,37.6,clear
+1041,Safflower,Bidar,2017-04-27,2950.0,9.0,37.6,clear
+1042,Soyabean,Basava Kalayana,2017-04-27,2600.0,4.0,37.6,clear
+1043,Soyabean,Bidar,2017-04-27,2807.0,10.0,37.6,clear
+1044,Sunflower,Basava Kalayana,2017-04-27,2500.0,0.0,37.6,clear
+1045,Safflower,Basava Kalayana,2017-04-28,2700.0,0.0,38.0,clear
+1046,Safflower,Bidar,2017-04-28,2925.0,16.0,38.0,clear
+1047,Soyabean,Basava Kalayana,2017-04-28,2600.0,2.0,38.0,clear
+1048,Soyabean,Bhalki,2017-04-28,2800.0,21.0,38.0,clear
+1049,Soyabean,Bidar,2017-04-28,2800.0,7.0,38.0,clear
+1050,Safflower,Basava Kalayana,2017-02-05,2750.0,1.0,31.2,clear
+1051,Safflower,Bidar,2017-02-05,2920.0,15.0,31.2,clear
+1052,Soyabean,Basava Kalayana,2017-02-05,2700.0,3.0,31.2,clear
+1053,Soyabean,Bhalki,2017-02-05,2801.0,18.0,31.2,clear
+1054,Soyabean,Bidar,2017-02-05,2800.0,10.0,31.2,clear
+1055,Sunflower,Basava Kalayana,2017-02-05,2600.0,0.0,31.2,clear
+1056,Safflower,Basava Kalayana,2017-03-05,2700.0,1.0,33.2,clear
+1057,Safflower,Bidar,2017-03-05,2900.0,25.0,33.2,clear
+1058,Soyabean,Basava Kalayana,2017-03-05,2750.0,5.0,33.2,clear
+1059,Soyabean,Bhalki,2017-03-05,2800.0,16.0,33.2,clear
+1060,Soyabean,Bidar,2017-03-05,2750.0,10.0,33.2,clear
+1061,Safflower,Basava Kalayana,2017-05-05,2775.0,0.0,38.2,clear
+1062,Safflower,Bidar,2017-05-05,2875.0,9.0,38.2,clear
+1063,Soyabean,Basava Kalayana,2017-05-05,2600.0,3.0,38.2,clear
+1064,Soyabean,Bidar,2017-05-05,2750.0,20.0,38.2,clear
+1065,Sunflower,Basava Kalayana,2017-05-05,2751.0,0.0,38.2,clear
+1066,Safflower,Basava Kalayana,2017-06-05,2750.0,1.0,33.8,clear
+1067,Safflower,Bidar,2017-06-05,2910.0,15.0,33.8,clear
+1068,Soyabean,Basava Kalayana,2017-06-05,2750.0,3.0,33.8,clear
+1069,Soyabean,Bidar,2017-06-05,2750.0,20.0,33.8,clear
+1070,Safflower,Basava Kalayana,2017-11-05,2650.0,0.0,27.6,clear
+1071,Safflower,Bidar,2017-11-05,2925.0,11.0,27.6,clear
+1072,Soyabean,Basava Kalayana,2017-11-05,2600.0,5.0,27.6,clear
+1073,Soyabean,Bhalki,2017-11-05,2801.0,20.0,27.6,clear
+1074,Soyabean,Bidar,2017-11-05,2750.0,3.0,27.6,clear
+1075,Sunflower,Basava Kalayana,2017-11-05,2700.0,0.0,27.6,clear
+1076,Safflower,Basava Kalayana,2017-12-05,2690.0,0.0,27.2,clear
+1077,Safflower,Bidar,2017-12-05,2915.0,16.0,27.2,clear
+1078,Soyabean,Basava Kalayana,2017-12-05,2550.0,2.0,27.2,clear
+1079,Soyabean,Bhalki,2017-12-05,2750.0,22.0,27.2,clear
+1080,Soyabean,Bidar,2017-12-05,2750.0,5.0,27.2,clear
+1081,Safflower,Basava Kalayana,2017-05-13,2650.0,0.0,38.6,clear
+1082,Safflower,Bidar,2017-05-13,2925.0,12.0,38.6,clear
+1083,Soyabean,Basava Kalayana,2017-05-13,2650.0,3.0,38.6,clear
+1084,Soyabean,Bhalki,2017-05-13,2725.0,18.0,38.6,clear
+1085,Soyabean,Bidar,2017-05-13,2750.0,3.0,38.6,clear
+1086,Sunflower,Basava Kalayana,2017-05-13,2600.0,0.0,38.6,clear
+1087,Safflower,Basava Kalayana,2017-05-15,2700.0,0.0,37.8,clear
+1088,Safflower,Bidar,2017-05-15,2925.0,7.0,37.8,clear
+1089,Soyabean,Basava Kalayana,2017-05-15,2500.0,4.0,37.8,clear
+1090,Soyabean,Bidar,2017-05-15,2720.0,9.0,37.8,clear
+1091,Sunflower,Basava Kalayana,2017-05-15,2801.0,0.0,37.8,clear
+1092,Safflower,Basava Kalayana,2017-05-16,2750.0,1.0,39.2,clear
+1093,Safflower,Bidar,2017-05-16,2950.0,5.0,39.2,clear
+1094,Soyabean,Basava Kalayana,2017-05-16,2650.0,3.0,39.2,clear
+1095,Soyabean,Bhalki,2017-05-16,2600.0,15.0,39.2,clear
+1096,Soyabean,Bidar,2017-05-16,2680.0,1.0,39.2,clear
+1097,Sunflower,Basava Kalayana,2017-05-16,2650.0,0.0,39.2,clear
+1098,Safflower,Basava Kalayana,2017-05-17,2700.0,0.0,32.0,clear
+1099,Safflower,Bidar,2017-05-17,2856.0,4.0,32.0,clear
+1100,Soyabean,Basava Kalayana,2017-05-17,2600.0,2.0,32.0,clear
+1101,Soyabean,Bidar,2017-05-17,2670.0,1.0,32.0,clear
+1102,Safflower,Basava Kalayana,2017-05-19,2700.0,0.0,35.2,clear
+1103,Safflower,Bidar,2017-05-19,2930.0,8.0,35.2,clear
+1104,Soyabean,Basava Kalayana,2017-05-19,2600.0,0.0,35.2,clear
+1105,Soyabean,Bidar,2017-05-19,2620.0,5.0,35.2,clear
+1106,Sunflower,Basava Kalayana,2017-05-19,2500.0,0.0,35.2,clear
+1107,Safflower,Basava Kalayana,2017-05-20,2700.0,0.0,38.8,clear
+1108,Safflower,Bidar,2017-05-20,2920.0,8.0,38.8,clear
+1109,Soyabean,Basava Kalayana,2017-05-20,2500.0,3.0,38.8,clear
+1110,Soyabean,Bidar,2017-05-20,2645.0,5.0,38.8,clear
+1111,Sunflower,Basava Kalayana,2017-05-20,2400.0,0.0,38.8,clear
+1112,Safflower,Basava Kalayana,2017-05-23,2650.0,0.0,38.6,clear
+1113,Safflower,Bidar,2017-05-23,2915.0,5.0,38.6,clear
+1114,Soyabean,Basava Kalayana,2017-05-23,2650.0,2.0,38.6,clear
+1115,Soyabean,Bhalki,2017-05-23,2600.0,10.0,38.6,clear
+1116,Safflower,Basava Kalayana,2017-05-24,2700.0,0.0,38.0,clear
+1117,Safflower,Bidar,2017-05-24,2940.0,11.0,38.0,clear
+1118,Soyabean,Basava Kalayana,2017-05-24,2550.0,1.0,38.0,clear
+1119,Soyabean,Bidar,2017-05-24,2650.0,5.0,38.0,clear
+1120,Sunflower,Basava Kalayana,2017-05-24,2750.0,0.0,38.0,clear
+1121,Safflower,Basava Kalayana,2017-05-26,2750.0,0.0,34.8,clear
+1122,Safflower,Bidar,2017-05-26,2925.0,10.0,34.8,clear
+1123,Soyabean,Basava Kalayana,2017-05-26,2500.0,3.0,34.8,clear
+1124,Soyabean,Bidar,2017-05-26,2594.0,1.0,34.8,clear
+1125,Sunflower,Basava Kalayana,2017-05-26,2100.0,0.0,34.8,clear
+1126,Safflower,Basava Kalayana,2017-05-27,2750.0,0.0,38.2,clear
+1127,Safflower,Bidar,2017-05-27,2890.0,11.0,38.2,clear
+1128,Soyabean,Basava Kalayana,2017-05-27,2500.0,2.0,38.2,clear
+1129,Soyabean,Bidar,2017-05-27,2550.0,12.0,38.2,clear
+1130,Safflower,Basava Kalayana,2017-05-29,2700.0,0.0,37.8,clear
+1131,Safflower,Bidar,2017-05-29,2940.0,4.0,37.8,clear
+1132,Soyabean,Basava Kalayana,2017-05-29,2450.0,3.0,37.8,clear
+1133,Soyabean,Bhalki,2017-05-29,2500.0,14.0,37.8,clear
+1134,Soyabean,Bidar,2017-05-29,2548.0,2.0,37.8,clear
+1135,Safflower,Basava Kalayana,2017-05-30,2750.0,0.0,35.2,clear
+1136,Safflower,Bidar,2017-05-30,2950.0,7.0,35.2,clear
+1137,Soyabean,Basava Kalayana,2017-05-30,2500.0,3.0,35.2,clear
+1138,Soyabean,Bhalki,2017-05-30,2500.0,10.0,35.2,clear
+1139,Soyabean,Bidar,2017-05-30,2515.0,1.0,35.2,clear
+1140,Safflower,Basava Kalayana,2017-01-06,2800.0,0.0,25.0,clear
+1141,Safflower,Bidar,2017-01-06,2950.0,4.0,25.0,clear
+1142,Soyabean,Basava Kalayana,2017-01-06,2450.0,2.0,25.0,clear
+1143,Soyabean,Bhalki,2017-01-06,2500.0,12.0,25.0,clear
+1144,Soyabean,Bidar,2017-01-06,2472.0,1.0,25.0,clear
+1145,Safflower,Basava Kalayana,2017-03-06,2750.0,0.0,33.8,clear
+1146,Safflower,Bidar,2017-03-06,2970.0,5.0,33.8,clear
+1147,Soyabean,Basava Kalayana,2017-03-06,2500.0,2.0,33.8,clear
+1148,Soyabean,Bidar,2017-03-06,2530.0,1.0,33.8,clear
+1149,Safflower,Basava Kalayana,2017-05-06,2650.0,0.0,39.8,clear
+1150,Safflower,Bidar,2017-05-06,2970.0,15.0,39.8,clear
+1151,Soyabean,Basava Kalayana,2017-05-06,2500.0,2.0,39.8,clear
+1152,Soyabean,Bhalki,2017-05-06,2500.0,5.0,39.8,clear
+1153,Soyabean,Bidar,2017-05-06,2559.0,1.0,39.8,clear
+1154,Sunflower,Basava Kalayana,2017-05-06,2500.0,0.0,39.8,clear
+1155,Safflower,Basava Kalayana,2017-12-06,2650.0,0.0,27.4,clear
+1156,Safflower,Bidar,2017-12-06,2970.0,11.0,27.4,clear
+1157,Soyabean,Basava Kalayana,2017-12-06,2550.0,7.0,27.4,clear
+1158,Soyabean,Bidar,2017-12-06,2570.0,66.0,27.4,clear
+1159,Safflower,Basava Kalayana,2017-06-13,2750.0,1.0,27.2,clear
+1160,Safflower,Bidar,2017-06-13,2960.0,8.0,27.2,clear
+1161,Soyabean,Basava Kalayana,2017-06-13,2500.0,6.0,27.2,clear
+1162,Soyabean,Bhalki,2017-06-13,2305.0,3.0,27.2,clear
+1163,Soyabean,Bidar,2017-06-13,2575.0,35.0,27.2,clear
+1164,Safflower,Basava Kalayana,2017-06-14,2750.0,0.0,31.0,clear
+1165,Safflower,Bidar,2017-06-14,2870.0,4.0,31.0,clear
+1166,Soyabean,Basava Kalayana,2017-06-14,2500.0,5.0,31.0,clear
+1167,Soyabean,Bhalki,2017-06-14,2525.0,30.0,31.0,clear
+1168,Soyabean,Bidar,2017-06-14,2560.0,25.0,31.0,clear
+1169,Safflower,Basava Kalayana,2017-06-15,2800.0,0.0,26.2,clear
+1170,Safflower,Bidar,2017-06-15,2860.0,5.0,26.2,clear
+1171,Soyabean,Basava Kalayana,2017-06-15,2500.0,4.0,26.2,clear
+1172,Soyabean,Bhalki,2017-06-15,2525.0,30.0,26.2,clear
+1173,Soyabean,Bidar,2017-06-15,2570.0,21.0,26.2,clear
+1174,Safflower,Basava Kalayana,2017-06-17,2750.0,0.0,25.4,clear
+1175,Safflower,Bidar,2017-06-17,2950.0,4.0,25.4,clear
+1176,Soyabean,Basava Kalayana,2017-06-17,2500.0,3.0,25.4,clear
+1177,Soyabean,Bhalki,2017-06-17,2500.0,5.0,25.4,clear
+1178,Soyabean,Bidar,2017-06-17,2610.0,28.0,25.4,clear
+1179,Safflower,Basava Kalayana,2017-06-19,2700.0,0.0,29.0,clear
+1180,Soyabean,Basava Kalayana,2017-06-19,2550.0,3.0,29.0,clear
+1181,Soyabean,Bidar,2017-06-19,2660.0,4.0,29.0,clear
+1182,Safflower,Basava Kalayana,2017-06-20,2700.0,0.0,30.4,clear
+1183,Safflower,Bidar,2017-06-20,2950.0,2.0,30.4,clear
+1184,Soyabean,Basava Kalayana,2017-06-20,2500.0,3.0,30.4,clear
+1185,Soyabean,Bhalki,2017-06-20,2450.0,12.0,30.4,clear
+1186,Soyabean,Bidar,2017-06-20,2650.0,18.0,30.4,clear
+1187,Safflower,Basava Kalayana,2017-06-21,2730.0,0.0,32.8,clear
+1188,Safflower,Bidar,2017-06-21,2980.0,4.0,32.8,clear
+1189,Soyabean,Basava Kalayana,2017-06-21,2550.0,3.0,32.8,clear
+1190,Soyabean,Bhalki,2017-06-21,2505.0,21.0,32.8,clear
+1191,Soyabean,Bidar,2017-06-21,2610.0,29.0,32.8,clear
+1192,Safflower,Basava Kalayana,2017-06-23,2790.0,0.0,26.4,clear
+1193,Soyabean,Basava Kalayana,2017-06-23,2500.0,3.0,26.4,clear
+1194,Soyabean,Bhalki,2017-06-23,2450.0,4.0,26.4,clear
+1195,Safflower,Basava Kalayana,2017-06-27,3152.0,0.0,28.0,clear
+1196,Safflower,Bidar,2017-06-27,3000.0,2.0,28.0,clear
+1197,Soyabean,Basava Kalayana,2017-06-27,2550.0,3.0,28.0,clear
+1198,Soyabean,Bidar,2017-06-27,2600.0,25.0,28.0,clear
+1199,Sunflower,Basava Kalayana,2017-06-27,2640.0,0.0,28.0,clear
+1200,Safflower,Basava Kalayana,2017-06-28,3001.0,0.0,29.4,clear
+1201,Safflower,Bidar,2017-06-28,3020.0,2.0,29.4,clear
+1202,Soyabean,Basava Kalayana,2017-06-28,2550.0,3.0,29.4,clear
+1203,Soyabean,Bhalki,2017-06-28,2400.0,5.0,29.4,clear
+1204,Soyabean,Bidar,2017-06-28,2610.0,13.0,29.4,clear
+1205,Safflower,Basava Kalayana,2017-06-29,2802.0,0.0,29.8,clear
+1206,Safflower,Bidar,2017-06-29,3100.0,2.0,29.8,clear
+1207,Soyabean,Basava Kalayana,2017-06-29,2500.0,3.0,29.8,clear
+1208,Soyabean,Bhalki,2017-06-29,2550.0,5.0,29.8,clear
+1209,Soyabean,Bidar,2017-06-29,2610.0,16.0,29.8,clear
+1210,Safflower,Basava Kalayana,2017-06-30,3300.0,0.0,31.4,clear
+1211,Safflower,Bidar,2017-06-30,3050.0,2.0,31.4,clear
+1212,Soyabean,Basava Kalayana,2017-06-30,2500.0,2.0,31.4,clear
+1213,Soyabean,Bhalki,2017-06-30,2505.0,10.0,31.4,clear
+1214,Soyabean,Bidar,2017-06-30,2600.0,5.0,31.4,clear
+1215,Safflower,Basava Kalayana,2017-01-07,3000.0,0.0,27.4,clear
+1216,Safflower,Bidar,2017-01-07,3050.0,4.0,27.4,clear
+1217,Soyabean,Basava Kalayana,2017-01-07,2500.0,2.0,27.4,clear
+1218,Soyabean,Bidar,2017-01-07,2600.0,8.0,27.4,clear
+1219,Safflower,Basava Kalayana,2017-03-07,3200.0,0.0,33.0,clear
+1220,Safflower,Bidar,2017-03-07,2990.0,1.0,33.0,clear
+1221,Soyabean,Basava Kalayana,2017-03-07,2400.0,3.0,33.0,clear
+1222,Soyabean,Bhalki,2017-03-07,2500.0,5.0,33.0,clear
+1223,Soyabean,Bidar,2017-03-07,2636.0,2.0,33.0,clear
+1224,Safflower,Basava Kalayana,2017-07-07,3323.0,0.0,29.4,clear
+1225,Safflower,Bidar,2017-07-07,3225.0,5.0,29.4,clear
+1226,Soyabean,Basava Kalayana,2017-07-07,2500.0,1.0,29.4,clear
+1227,Soyabean,Bhalki,2017-07-07,2550.0,12.0,29.4,clear
+1228,Soyabean,Bidar,2017-07-07,2700.0,18.0,29.4,clear
+1229,Safflower,Basava Kalayana,2017-07-13,3350.0,0.0,27.0,clear
+1230,Safflower,Bidar,2017-07-13,3475.0,3.0,27.0,clear
+1231,Soyabean,Basava Kalayana,2017-07-13,2500.0,2.0,27.0,clear
+1232,Soyabean,Bhalki,2017-07-13,2700.0,25.0,27.0,clear
+1233,Soyabean,Bidar,2017-07-13,2700.0,1.0,27.0,clear
+1234,Safflower,Basava Kalayana,2017-07-14,3540.0,0.0,27.2,clear
+1235,Soyabean,Basava Kalayana,2017-07-14,2600.0,2.0,27.2,clear
+1236,Soyabean,Bhalki,2017-07-14,2550.0,25.0,27.2,clear
+1237,Safflower,Basava Kalayana,2017-07-15,3450.0,0.0,28.0,clear
+1238,Safflower,Bidar,2017-07-15,3450.0,3.0,28.0,clear
+1239,Soyabean,Basava Kalayana,2017-07-15,2600.0,1.0,28.0,clear
+1240,Soyabean,Bhalki,2017-07-15,2500.0,8.0,28.0,clear
+1241,Soyabean,Bidar,2017-07-15,2750.0,13.0,28.0,clear
+1242,Safflower,Basava Kalayana,2017-07-17,3251.0,0.0,25.8,clear
+1243,Soyabean,Basava Kalayana,2017-07-17,2600.0,2.0,25.8,clear
+1244,Safflower,Basava Kalayana,2017-07-22,3250.0,0.0,30.0,clear
+1245,Safflower,Bidar,2017-07-22,3350.0,2.0,30.0,clear
+1246,Soyabean,Basava Kalayana,2017-07-22,2550.0,1.0,30.0,clear
+1247,Soyabean,Bidar,2017-07-22,2750.0,12.0,30.0,clear
+1248,Safflower,Basava Kalayana,2017-01-08,3250.0,0.0,27.6,clear
+1249,Safflower,Bidar,2017-01-08,3240.0,1.0,27.6,clear
+1250,Soyabean,Basava Kalayana,2017-01-08,2551.0,2.0,27.6,clear
+1251,Soyabean,Bidar,2017-01-08,2750.0,29.0,27.6,clear
+1252,Safflower,Basava Kalayana,2017-02-08,3250.0,0.0,31.2,clear
+1253,Soyabean,Basava Kalayana,2017-02-08,2600.0,2.0,31.2,clear
+1254,Soyabean,Bidar,2017-02-08,2776.0,12.0,31.2,clear
+1255,Safflower,Basava Kalayana,2017-03-08,3200.0,0.0,25.0,clear
+1256,Safflower,Bidar,2017-03-08,3245.0,1.0,25.0,clear
+1257,Soyabean,Basava Kalayana,2017-03-08,2550.0,1.0,25.0,clear
+1258,Soyabean,Bhalki,2017-03-08,2750.0,18.0,25.0,clear
+1259,Soyabean,Bidar,2017-03-08,2720.0,9.0,25.0,clear
+1260,Safflower,Basava Kalayana,2017-08-17,3200.0,0.0,28.0,clear
+1261,Soyabean,Basava Kalayana,2017-08-17,2500.0,1.0,28.0,clear
+1262,Soyabean,Bidar,2017-08-17,2800.0,17.0,28.0,clear
+1263,Safflower,Basava Kalayana,2017-08-18,3300.0,0.0,28.2,clear
+1264,Soyabean,Basava Kalayana,2017-08-18,2800.0,1.0,28.2,clear
+1265,Soyabean,Bidar,2017-08-18,2825.0,5.0,28.2,clear
+1266,Safflower,Basava Kalayana,2017-08-19,3141.0,0.0,23.6,clear
+1267,Soyabean,Basava Kalayana,2017-08-19,2800.0,2.0,23.6,clear
+1268,Soyabean,Bidar,2017-08-19,2950.0,20.0,23.6,clear
+1269,Safflower,Basava Kalayana,2017-08-23,3200.0,0.0,28.2,clear
+1270,Soyabean,Basava Kalayana,2017-08-23,2700.0,1.0,28.2,clear
+1271,Safflower,Basava Kalayana,2017-01-09,2900.0,0.0,26.2,clear
+1272,Soyabean,Basava Kalayana,2017-01-09,2700.0,1.0,26.2,clear
+1273,Soyabean,Bhalki,2017-01-09,2950.0,18.0,26.2,clear
+1274,Safflower,Basava Kalayana,2017-04-09,3000.0,0.0,37.4,clear
+1275,Soyabean,Basava Kalayana,2017-04-09,2800.0,0.0,37.4,clear
+1276,Safflower,Basava Kalayana,2017-08-09,3151.0,0.0,24.8,clear
+1277,Soyabean,Basava Kalayana,2017-08-09,2850.0,1.0,24.8,clear
+1278,Soyabean,Bhalki,2017-08-09,2900.0,25.0,24.8,clear
+1279,Safflower,Basava Kalayana,2017-11-09,3000.0,0.0,26.6,clear
+1280,Soyabean,Basava Kalayana,2017-11-09,2800.0,2.0,26.6,clear
+1281,Soyabean,Bhalki,2017-11-09,2701.0,28.0,26.6,clear
+1282,Soyabean,Bidar,2017-11-09,2850.0,5.0,26.6,clear
+1283,Safflower,Basava Kalayana,2017-12-09,3000.0,1.0,25.8,clear
+1284,Soyabean,Basava Kalayana,2017-12-09,2700.0,1.0,25.8,clear
+1285,Soyabean,Bhalki,2017-12-09,2800.0,15.0,25.8,clear
+1286,Soyabean,Bidar,2017-12-09,2850.0,14.0,25.8,clear
+1287,Safflower,Basava Kalayana,2017-09-16,3100.0,0.0,25.0,clear
+1288,Soyabean,Basava Kalayana,2017-09-16,2700.0,1.0,25.0,clear
+1289,Safflower,Basava Kalayana,2017-09-19,3150.0,0.0,26.8,clear
+1290,Soyabean,Basava Kalayana,2017-09-19,2750.0,1.0,26.8,clear
+1291,Safflower,Basava Kalayana,2017-09-22,3000.0,0.0,25.2,clear
+1292,Soyabean,Basava Kalayana,2017-09-22,2600.0,1.0,25.2,clear
+1293,Soyabean,Bidar,2017-09-22,2750.0,2.0,25.2,clear
+1294,Safflower,Basava Kalayana,2017-09-23,3101.0,0.0,27.8,clear
+1295,Soyabean,Basava Kalayana,2017-09-23,2600.0,2.0,27.8,clear
+1296,Safflower,Basava Kalayana,2017-09-25,3000.0,0.0,29.6,clear
+1297,Soyabean,Basava Kalayana,2017-09-25,2500.0,1.0,29.6,clear
+1298,Soyabean,Bhalki,2017-09-25,2850.0,15.0,29.6,clear
+1299,Soyabean,Bidar,2017-09-25,2525.0,3.0,29.6,clear
+1300,Safflower,Basava Kalayana,2017-09-27,2925.0,0.0,30.2,clear
+1301,Soyabean,Basava Kalayana,2017-09-27,2400.0,2.0,30.2,clear
+1302,Soyabean,Bidar,2017-09-27,2612.0,27.0,30.2,clear
+1303,Safflower,Basava Kalayana,2017-09-28,3050.0,0.0,30.2,clear
+1304,Soyabean,Basava Kalayana,2017-09-28,2500.0,4.0,30.2,clear
+1305,Soyabean,Bidar,2017-09-28,2660.0,50.0,30.2,clear
+1306,Safflower,Basava Kalayana,2017-03-10,3180.0,0.0,31.0,clear
+1307,Soyabean,Bhalki,2017-03-10,2850.0,10.0,31.0,clear
+1308,Soyabean,Bidar,2017-03-10,2446.0,95.0,31.0,clear
+1309,Safflower,Basava Kalayana,2017-04-10,3001.0,0.0,38.2,clear
+1310,Soyabean,Bhalki,2017-04-10,2550.0,40.0,38.2,clear
+1311,Soyabean,Humanabad,2017-04-10,2300.0,56.0,38.2,clear
+1312,Safflower,Basava Kalayana,2017-07-10,3000.0,0.0,31.6,clear
+1313,Soyabean,Bidar,2017-07-10,2390.0,325.0,31.6,clear
+1314,Soyabean,Humanabad,2017-07-10,2500.0,45.0,31.6,clear
+1315,Safflower,Basava Kalayana,2017-09-10,3100.0,0.0,30.2,clear
+1316,Soyabean,Bidar,2017-09-10,2390.0,366.0,30.2,clear
+1317,Safflower,Basava Kalayana,2017-10-10,3000.0,0.0,26.0,clear
+1318,Soyabean,Bhalki,2017-10-10,2400.0,30.0,26.0,clear
+1319,Soyabean,Bidar,2017-10-10,2270.0,295.0,26.0,clear
+1320,Soyabean,Humanabad,2017-10-10,2300.0,25.0,26.0,clear
+1321,Safflower,Basava Kalayana,2017-11-10,3000.0,0.0,26.8,clear
+1322,Soyabean,Bhalki,2017-11-10,2300.0,27.0,26.8,clear
+1323,Soyabean,Bidar,2017-11-10,2280.0,249.0,26.8,clear
+1324,Soyabean,Humanabad,2017-11-10,2200.0,13.0,26.8,clear
+1325,Safflower,Basava Kalayana,2017-10-13,3000.0,0.0,25.2,clear
+1326,Soyabean,Bidar,2017-10-13,2390.0,379.0,25.2,clear
+1327,Soyabean,Humanabad,2017-10-13,2200.0,36.0,25.2,clear
+1328,Safflower,Basava Kalayana,2017-10-20,3200.0,1.0,30.8,clear
+1329,Soyabean,Bhalki,2017-10-20,2501.0,50.0,30.8,clear
+1330,Safflower,Basava Kalayana,2017-10-21,3200.0,0.0,30.6,clear
+1331,Soyabean,Bhalki,2017-10-21,2505.0,60.0,30.6,clear
+1332,Safflower,Basava Kalayana,2017-10-25,3080.0,0.0,27.6,clear
+1333,Soyabean,Bhalki,2017-10-25,2350.0,80.0,27.6,clear
+1334,Soyabean,Bidar,2017-10-25,2300.0,935.0,27.6,clear
+1335,Soyabean,Humanabad,2017-10-25,2300.0,45.0,27.6,clear
+1336,Safflower,Basava Kalayana,2017-10-26,3100.0,0.0,29.0,clear
+1337,Soyabean,Bhalki,2017-10-26,2450.0,120.0,29.0,clear
+1338,Soyabean,Bidar,2017-10-26,2280.0,750.0,29.0,clear
+1339,Soyabean,Humanabad,2017-10-26,2400.0,32.0,29.0,clear
+1340,Safflower,Basava Kalayana,2017-10-27,3100.0,0.0,25.2,clear
+1341,Soyabean,Bhalki,2017-10-27,2300.0,130.0,25.2,clear
+1342,Soyabean,Bidar,2017-10-27,2355.0,845.0,25.2,clear
+1343,Safflower,Basava Kalayana,2017-10-28,3300.0,0.0,26.4,clear
+1344,Soyabean,Bhalki,2017-10-28,2300.0,85.0,26.4,clear
+1345,Soyabean,Bidar,2017-10-28,2335.0,768.0,26.4,clear
+1346,Safflower,Bidar,2017-09-03,2840.0,2.0,30.4,clear
+1347,Soyabean,Basava Kalayana,2017-09-03,2500.0,2.0,30.4,clear
+1348,Soyabean,Bhalki,2017-09-03,2550.0,30.0,30.4,clear
+1349,Soyabean,Bidar,2017-09-03,2600.0,13.0,30.4,clear
+1350,Safflower,Bidar,2017-11-03,2810.0,8.0,25.6,clear
+1351,Soyabean,Basava Kalayana,2017-11-03,2401.0,4.0,25.6,clear
+1352,Soyabean,Bhalki,2017-11-03,2605.0,20.0,25.6,clear
+1353,Soyabean,Bidar,2017-11-03,2600.0,15.0,25.6,clear
+1354,Safflower,Bidar,2017-08-05,2920.0,15.0,29.6,clear
+1355,Soyabean,Bhalki,2017-08-05,2750.0,11.0,29.6,clear
+1356,Soyabean,Bidar,2017-08-05,2775.0,5.0,29.6,clear
+1357,Safflower,Bidar,2017-10-05,2911.0,9.0,27.2,clear
+1358,Soyabean,Bidar,2017-10-05,2730.0,6.0,27.2,clear
+1359,Safflower,Bidar,2017-05-18,2900.0,5.0,39.0,clear
+1360,Soyabean,Basava Kalayana,2017-05-18,2500.0,2.0,39.0,clear
+1361,Safflower,Bidar,2017-04-07,3121.0,1.0,37.6,clear
+1362,Soyabean,Basava Kalayana,2017-04-07,2600.0,3.0,37.6,clear
+1363,Soyabean,Bidar,2017-04-07,2676.0,11.0,37.6,clear
+1364,Safflower,Bidar,2017-05-07,3170.0,4.0,39.3,clear
+1365,Soyabean,Basava Kalayana,2017-05-07,2600.0,3.0,39.3,clear
+1366,Soyabean,Bidar,2017-05-07,2645.0,3.0,39.3,clear
+1367,Safflower,Bidar,2017-06-07,3209.0,2.0,29.6,clear
+1368,Soyabean,Basava Kalayana,2017-06-07,2500.0,1.0,29.6,clear
+1369,Soyabean,Bhalki,2017-06-07,2604.0,15.0,29.6,clear
+1370,Soyabean,Bidar,2017-06-07,2621.0,16.0,29.6,clear
+1371,Safflower,Bidar,2017-08-07,3375.0,2.0,29.2,clear
+1372,Soyabean,Basava Kalayana,2017-08-07,2550.0,2.0,29.2,clear
+1373,Soyabean,Bidar,2017-08-07,2700.0,18.0,29.2,clear
+1374,Safflower,Bidar,2017-11-07,3550.0,5.0,27.2,clear
+1375,Soyabean,Basava Kalayana,2017-11-07,2600.0,4.0,27.2,clear
+1376,Soyabean,Bidar,2017-11-07,2750.0,13.0,27.2,clear
+1377,Safflower,Bidar,2017-12-07,3450.0,2.0,24.2,clear
+1378,Soyabean,Basava Kalayana,2017-12-07,2600.0,2.0,24.2,clear
+1379,Soyabean,Bhalki,2017-12-07,2600.0,21.0,24.2,clear
+1380,Soyabean,Bidar,2017-12-07,2760.0,8.0,24.2,clear
+1381,Safflower,Bidar,2017-07-21,3370.0,4.0,30.6,clear
+1382,Soyabean,Basava Kalayana,2017-07-21,2570.0,1.0,30.6,clear
+1383,Soyabean,Bidar,2017-07-21,2750.0,11.0,30.6,clear
+1384,Safflower,Bidar,2017-07-24,3225.0,1.0,26.8,clear
+1385,Soyabean,Bidar,2017-07-24,2715.0,2.0,26.8,clear
+1386,Safflower,Bidar,2017-07-25,3220.0,1.0,27.0,clear
+1387,Soyabean,Basava Kalayana,2017-07-25,2551.0,2.0,27.0,clear
+1388,Soyabean,Bidar,2017-07-25,2750.0,6.0,27.0,clear
+1389,Safflower,Bidar,2017-07-29,3225.0,1.0,29.8,clear
+1390,Soyabean,Basava Kalayana,2017-07-29,2500.0,2.0,29.8,clear
+1391,Soyabean,Bidar,2017-07-29,2740.0,11.0,29.8,clear
+1392,Safflower,Bidar,2017-08-08,3300.0,1.0,28.8,clear
+1393,Soyabean,Basava Kalayana,2017-08-08,2650.0,1.0,28.8,clear
+1394,Soyabean,Bidar,2017-08-08,2750.0,5.0,28.8,clear
+1395,Safflower,Bidar,2017-09-08,3270.0,1.0,29.2,clear
+1396,Soyabean,Basava Kalayana,2017-09-08,2600.0,1.0,29.2,clear
+1397,Soyabean,Bidar,2017-09-08,2750.0,4.0,29.2,clear
+1398,Safflower,Bidar,2017-10-08,3236.0,2.0,25.4,clear
+1399,Soyabean,Basava Kalayana,2017-10-08,2601.0,1.0,25.4,clear
+1400,Soyabean,Bidar,2017-10-08,2750.0,7.0,25.4,clear
+1401,Soyabean,Basava Kalayana,2017-02-01,2200.0,32.0,30.4,clear
+1402,Soyabean,Bhalki,2017-02-01,2601.0,30.0,30.4,clear
+1403,Soyabean,Bidar,2017-02-01,2500.0,95.0,30.4,clear
+1404,Sunflower,Basava Kalayana,2017-02-01,2700.0,0.0,30.4,clear
+1405,Soyabean,Basava Kalayana,2017-03-01,2500.0,3.0,33.4,clear
+1406,Soyabean,Bidar,2017-03-01,2525.0,85.0,33.4,clear
+1407,Sunflower,Basava Kalayana,2017-03-01,2600.0,0.0,33.4,clear
+1408,Soyabean,Basava Kalayana,2017-04-01,2480.0,17.0,37.6,clear
+1409,Soyabean,Bhalki,2017-04-01,2401.0,30.0,37.6,clear
+1410,Soyabean,Bidar,2017-04-01,2550.0,105.0,37.6,clear
+1411,Soyabean,Humanabad,2017-04-01,2300.0,7.0,37.6,clear
+1412,Sunflower,Basava Kalayana,2017-04-01,2500.0,0.0,37.6,clear
+1413,Soyabean,Basava Kalayana,2017-06-01,2450.0,22.0,38.2,clear
+1414,Soyabean,Bhalki,2017-06-01,2601.0,28.0,38.2,clear
+1415,Soyabean,Bidar,2017-06-01,2500.0,85.0,38.2,clear
+1416,Soyabean,Basava Kalayana,2017-07-01,2350.0,16.0,30.4,clear
+1417,Soyabean,Bhalki,2017-07-01,2601.0,30.0,30.4,clear
+1418,Soyabean,Bidar,2017-07-01,2500.0,126.0,30.4,clear
+1419,Soyabean,Basava Kalayana,2017-09-01,2400.0,18.0,29.8,clear
+1420,Soyabean,Bhalki,2017-09-01,2601.0,25.0,29.8,clear
+1421,Soyabean,Bidar,2017-09-01,2450.0,85.0,29.8,clear
+1422,Soyabean,Basava Kalayana,2017-10-01,2400.0,16.0,27.4,clear
+1423,Soyabean,Bidar,2017-10-01,2425.0,95.0,27.4,clear
+1424,Sunflower,Basava Kalayana,2017-10-01,2550.0,0.0,27.4,clear
+1425,Soyabean,Basava Kalayana,2017-01-13,2450.0,9.0,25.0,clear
+1426,Soyabean,Bidar,2017-01-13,2505.0,33.0,25.0,clear
+1427,Soyabean,Basava Kalayana,2017-01-18,2500.0,12.0,25.8,clear
+1428,Soyabean,Bhalki,2017-01-18,2501.0,40.0,25.8,clear
+1429,Soyabean,Bidar,2017-01-18,2605.0,75.0,25.8,clear
+1430,Soyabean,Humanabad,2017-01-18,2200.0,13.0,25.8,clear
+1431,Sunflower,Basava Kalayana,2017-01-18,2600.0,0.0,25.8,clear
+1432,Soyabean,Basava Kalayana,2017-01-23,2450.0,6.0,27.8,clear
+1433,Sunflower,Basava Kalayana,2017-01-23,2651.0,0.0,27.8,clear
+1434,Soyabean,Basava Kalayana,2017-01-24,2450.0,7.0,28.2,clear
+1435,Soyabean,Bhalki,2017-01-24,2500.0,30.0,28.2,clear
+1436,Soyabean,Bidar,2017-01-24,2580.0,35.0,28.2,clear
+1437,Sunflower,Basava Kalayana,2017-01-24,2600.0,0.0,28.2,clear
+1438,Soyabean,Basava Kalayana,2017-01-28,2400.0,9.0,28.0,clear
+1439,Soyabean,Bhalki,2017-01-28,2550.0,35.0,28.0,clear
+1440,Soyabean,Bidar,2017-01-28,2550.0,35.0,28.0,clear
+1441,Sunflower,Basava Kalayana,2017-01-28,2780.0,0.0,28.0,clear
+1442,Soyabean,Basava Kalayana,2017-01-30,2400.0,8.0,30.0,clear
+1443,Soyabean,Bhalki,2017-01-30,2501.0,45.0,30.0,clear
+1444,Soyabean,Bidar,2017-01-30,2525.0,25.0,30.0,clear
+1445,Soyabean,Basava Kalayana,2017-01-31,2400.0,9.0,31.4,clear
+1446,Soyabean,Bhalki,2017-01-31,2550.0,45.0,31.4,clear
+1447,Soyabean,Bidar,2017-01-31,2550.0,33.0,31.4,clear
+1448,Soyabean,Humanabad,2017-01-31,2400.0,2.0,31.4,clear
+1449,Soyabean,Basava Kalayana,2017-01-02,2450.0,8.0,25.2,clear
+1450,Soyabean,Bhalki,2017-01-02,2510.0,40.0,25.2,clear
+1451,Soyabean,Bidar,2017-01-02,2525.0,25.0,25.2,clear
+1452,Soyabean,Humanabad,2017-01-02,2400.0,3.0,25.2,clear
+1453,Soyabean,Basava Kalayana,2017-02-02,2450.0,4.0,30.0,clear
+1454,Soyabean,Bhalki,2017-02-02,3301.0,40.0,30.0,clear
+1455,Soyabean,Bidar,2017-02-02,2575.0,25.0,30.0,clear
+1456,Soyabean,Basava Kalayana,2017-04-02,2450.0,9.0,37.0,clear
+1457,Soyabean,Bidar,2017-04-02,2560.0,41.0,37.0,clear
+1458,Soyabean,Basava Kalayana,2017-06-02,2450.0,6.0,33.8,clear
+1459,Soyabean,Bidar,2017-06-02,2580.0,45.0,33.8,clear
+1460,Soyabean,Basava Kalayana,2017-07-02,2551.0,4.0,32.4,clear
+1461,Soyabean,Bhalki,2017-07-02,2605.0,45.0,32.4,clear
+1462,Soyabean,Bidar,2017-07-02,2600.0,33.0,32.4,clear
+1463,Soyabean,Basava Kalayana,2017-08-02,2450.0,5.0,30.4,clear
+1464,Soyabean,Bhalki,2017-08-02,2505.0,38.0,30.4,clear
+1465,Soyabean,Bidar,2017-08-02,2625.0,35.0,30.4,clear
+1466,Soyabean,Humanabad,2017-08-02,2400.0,3.0,30.4,clear
+1467,Soyabean,Basava Kalayana,2017-09-02,2450.0,8.0,30.2,clear
+1468,Soyabean,Bhalki,2017-09-02,2600.0,45.0,30.2,clear
+1469,Soyabean,Bidar,2017-09-02,2625.0,33.0,30.2,clear
+1470,Soyabean,Basava Kalayana,2017-10-02,2550.0,2.0,26.2,clear
+1471,Soyabean,Basava Kalayana,2017-11-02,2400.0,8.0,26.2,clear
+1472,Soyabean,Bhalki,2017-11-02,2601.0,40.0,26.2,clear
+1473,Soyabean,Bidar,2017-11-02,2625.0,35.0,26.2,clear
+1474,Soyabean,Basava Kalayana,2017-02-13,2450.0,5.0,28.0,clear
+1475,Soyabean,Bhalki,2017-02-13,2501.0,30.0,28.0,clear
+1476,Soyabean,Bidar,2017-02-13,2600.0,23.0,28.0,clear
+1477,Sunflower,Basava Kalayana,2017-02-13,2401.0,0.0,28.0,clear
+1478,Soyabean,Basava Kalayana,2017-02-14,2500.0,3.0,28.2,clear
+1479,Soyabean,Bhalki,2017-02-14,2501.0,40.0,28.2,clear
+1480,Soyabean,Bidar,2017-02-14,2630.0,23.0,28.2,clear
+1481,Soyabean,Basava Kalayana,2017-02-16,2500.0,4.0,29.8,clear
+1482,Soyabean,Bhalki,2017-02-16,2650.0,40.0,29.8,clear
+1483,Soyabean,Bidar,2017-02-16,2600.0,22.0,29.8,clear
+1484,Soyabean,Basava Kalayana,2017-02-17,2500.0,2.0,33.0,clear
+1485,Soyabean,Bhalki,2017-02-17,2600.0,32.0,33.0,clear
+1486,Soyabean,Bidar,2017-02-17,2600.0,16.0,33.0,clear
+1487,Soyabean,Basava Kalayana,2017-02-20,2550.0,6.0,33.4,clear
+1488,Soyabean,Bhalki,2017-02-20,2450.0,18.0,33.4,clear
+1489,Sunflower,Basava Kalayana,2017-02-20,2890.0,0.0,33.4,clear
+1490,Soyabean,Basava Kalayana,2017-02-21,2500.0,5.0,35.0,clear
+1491,Soyabean,Bhalki,2017-02-21,2550.0,30.0,35.0,clear
+1492,Soyabean,Bidar,2017-02-21,2600.0,21.0,35.0,clear
+1493,Soyabean,Basava Kalayana,2017-02-28,2450.0,4.0,32.6,clear
+1494,Soyabean,Bhalki,2017-02-28,2601.0,30.0,32.6,clear
+1495,Soyabean,Bidar,2017-02-28,2625.0,53.0,32.6,clear
+1496,Soyabean,Basava Kalayana,2017-01-03,2571.0,3.0,24.8,clear
+1497,Soyabean,Bhalki,2017-01-03,2550.0,28.0,24.8,clear
+1498,Soyabean,Bidar,2017-01-03,2650.0,18.0,24.8,clear
+1499,Soyabean,Basava Kalayana,2017-02-03,2500.0,4.0,30.2,clear
+1500,Soyabean,Bhalki,2017-02-03,2600.0,30.0,30.2,clear
+1501,Soyabean,Bidar,2017-02-03,2650.0,7.0,30.2,clear
+1502,Soyabean,Basava Kalayana,2017-07-18,2600.0,2.0,24.0,clear
+1503,Soyabean,Basava Kalayana,2017-07-26,2550.0,2.0,28.8,clear
+1504,Soyabean,Bidar,2017-07-26,2750.0,19.0,28.8,clear
+1505,Soyabean,Basava Kalayana,2017-04-08,2500.0,1.0,37.4,clear
+1506,Soyabean,Basava Kalayana,2017-05-08,2600.0,1.0,34.4,clear
+1507,Soyabean,Basava Kalayana,2017-11-08,2700.0,1.0,27.0,clear
+1508,Soyabean,Bidar,2017-11-08,2750.0,21.0,27.0,clear
+1509,Soyabean,Basava Kalayana,2017-12-08,2800.0,0.0,28.6,clear
+1510,Soyabean,Bhalki,2017-12-08,2700.0,16.0,28.6,clear
+1511,Soyabean,Bidar,2017-12-08,2805.0,27.0,28.6,clear
+1512,Soyabean,Basava Kalayana,2017-08-16,2701.0,1.0,24.6,clear
+1513,Soyabean,Bidar,2017-08-16,2770.0,9.0,24.6,clear
+1514,Soyabean,Basava Kalayana,2017-08-26,2950.0,1.0,26.0,clear
+1515,Soyabean,Bhalki,2017-08-26,3000.0,45.0,26.0,clear
+1516,Soyabean,Basava Kalayana,2017-08-28,2900.0,1.0,26.8,clear
+1517,Soyabean,Bhalki,2017-08-28,2950.0,13.0,26.8,clear
+1518,Soyabean,Basava Kalayana,2017-08-29,2800.0,1.0,26.2,clear
+1519,Soyabean,Bhalki,2017-08-29,2950.0,12.0,26.2,clear
+1520,Soyabean,Basava Kalayana,2017-08-30,2551.0,1.0,29.4,clear
+1521,Soyabean,Basava Kalayana,2017-08-31,2550.0,0.0,29.8,clear
+1522,Soyabean,Bidar,2017-08-31,2900.0,10.0,29.8,clear
+1523,Soyabean,Basava Kalayana,2017-06-09,2700.0,1.0,27.6,clear
+1524,Soyabean,Basava Kalayana,2017-07-09,2780.0,1.0,31.4,clear
+1525,Soyabean,Bhalki,2017-07-09,2900.0,82.0,31.4,clear
+1526,Soyabean,Basava Kalayana,2017-09-09,2751.0,1.0,27.4,clear
+1527,Soyabean,Bhalki,2017-09-09,2900.0,50.0,27.4,clear
+1528,Soyabean,Bidar,2017-09-09,2840.0,4.0,27.4,clear
+1529,Soyabean,Basava Kalayana,2017-09-13,2700.0,1.0,22.6,clear
+1530,Soyabean,Bhalki,2017-09-13,2850.0,35.0,22.6,clear
+1531,Soyabean,Bidar,2017-09-13,2875.0,3.0,22.6,clear
+1532,Soyabean,Basava Kalayana,2017-09-14,2700.0,0.0,27.4,clear
+1533,Soyabean,Bhalki,2017-09-14,2900.0,18.0,27.4,clear
+1534,Soyabean,Bidar,2017-09-14,2875.0,3.0,27.4,clear
+1535,Soyabean,Basava Kalayana,2017-09-15,2700.0,1.0,26.8,clear
+1536,Soyabean,Bhalki,2017-09-15,2850.0,16.0,26.8,clear
+1537,Soyabean,Bidar,2017-09-15,2800.0,3.0,26.8,clear
+1538,Soyabean,Basava Kalayana,2017-09-18,2450.0,0.0,25.6,clear
+1539,Soyabean,Basava Kalayana,2017-09-26,2600.0,1.0,30.0,clear
+1540,Soyabean,Bhalki,2017-09-26,2900.0,25.0,30.0,clear
+1541,Soyabean,Bidar,2017-09-26,2646.0,8.0,30.0,clear
+1542,Soyabean,Bhalki,2017-11-01,2601.0,50.0,27.4,clear
+1543,Soyabean,Bidar,2017-11-01,2550.0,65.0,27.4,clear
+1544,Sunflower,Basava Kalayana,2017-11-01,2400.0,0.0,27.4,clear
+1545,Soyabean,Bhalki,2017-01-16,2501.0,20.0,26.4,clear
+1546,Soyabean,Bidar,2017-01-16,2550.0,63.0,26.4,clear
+1547,Soyabean,Bhalki,2017-02-18,2601.0,31.0,31.2,clear
+1548,Soyabean,Bhalki,2017-02-22,2550.0,20.0,33.4,clear
+1549,Soyabean,Bidar,2017-02-22,2610.0,43.0,33.4,clear
+1550,Soyabean,Bhalki,2017-02-23,2501.0,30.0,33.2,clear
+1551,Soyabean,Bidar,2017-02-23,2600.0,21.0,33.2,clear
+1552,Soyabean,Bhalki,2017-02-25,2600.0,20.0,30.8,clear
+1553,Soyabean,Bhalki,2017-03-27,2605.0,22.0,37.8,clear
+1554,Soyabean,Bhalki,2017-05-04,2701.0,25.0,37.4,clear
+1555,Soyabean,Bhalki,2017-04-13,2801.0,25.0,38.0,clear
+1556,Soyabean,Bidar,2017-04-13,2700.0,31.0,38.0,clear
+1557,Sunflower,Bidar,2017-04-13,2900.0,14.0,38.0,clear
+1558,Soyabean,Bhalki,2017-10-23,2500.0,51.0,27.0,clear
+1559,Soyabean,Bhalki,2017-10-24,2500.0,48.0,30.0,clear
+1560,Soyabean,Bidar,2017-10-24,2231.0,785.0,30.0,clear
+1561,Soyabean,Humanabad,2017-10-24,2400.0,45.0,30.0,clear
+1562,Soyabean,Bhalki,2017-10-30,2375.0,100.0,27.6,clear
+1563,Soyabean,Bidar,2017-10-30,2237.0,658.0,27.6,clear
+1564,Soyabean,Bhalki,2017-10-31,2300.0,65.0,27.4,clear
+1565,Soyabean,Bidar,2017-10-31,2235.0,765.0,27.4,clear
+1566,Soyabean,Humanabad,2017-10-31,2300.0,23.0,27.4,clear
+1567,Soyabean,Bhalki,2017-02-11,2505.0,65.0,30.0,clear
+1568,Soyabean,Bidar,2017-02-11,2375.0,865.0,30.0,clear
+1569,Soyabean,Bhalki,2017-03-11,2401.0,80.0,30.0,clear
+1570,Soyabean,Bidar,2017-03-11,2336.0,765.0,30.0,clear
+1571,Soyabean,Bidar,2017-01-19,2600.0,85.0,26.0,clear
+1572,Soyabean,Bidar,2017-08-22,2950.0,11.0,28.8,clear
+1573,Soyabean,Bidar,2017-05-09,2835.0,9.0,36.8,clear
+1574,Soyabean,Bidar,2017-04-11,2430.0,685.0,36.6,clear
+1575,Soyabean,Humanabad,2017-01-01,2300.0,11.0,27.4,clear
+1576,Soyabean,Humanabad,2017-08-01,2200.0,2.0,25.8,clear
+1577,Soyabean,Humanabad,2017-01-20,2300.0,1.0,25.4,clear
+1578,Soyabean,Humanabad,2017-01-22,2300.0,4.0,27.4,clear
+1579,Soyabean,Humanabad,2017-05-02,2400.0,9.0,38.0,clear
+1580,Soyabean,Humanabad,2017-05-03,2500.0,3.0,36.2,clear
+1581,Soyabean,Humanabad,2017-08-10,2265.0,50.0,29.6,clear
+1582,Soyabean,Humanabad,2017-10-14,2400.0,36.0,26.4,clear
+1583,Soyabean,Humanabad,2017-10-15,2350.0,39.0,30.8,clear
+1584,Soyabean,Humanabad,2017-10-22,2300.0,75.0,29.0,clear
+1585,Soyabean,Humanabad,2017-10-29,2300.0,25.0,29.2,clear

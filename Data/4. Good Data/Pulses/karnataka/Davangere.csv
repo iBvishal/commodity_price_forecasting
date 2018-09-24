@@ -1,0 +1,471 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Davangere,2012-02-01,2600.0,1.0,28.0,clear
+1,Arhar (Tur/Red Gram),Davangere,2012-03-01,2690.0,0.0,35.2,clear
+2,Arhar (Tur/Red Gram),Davangere,2012-04-01,2626.0,0.0,35.6,clear
+3,Arhar (Tur/Red Gram),Davangere,2012-05-01,2633.0,0.0,32.2,clear
+4,Arhar (Tur/Red Gram),Davangere,2012-06-01,2640.0,0.0,32.4,clear
+5,Arhar (Tur/Red Gram),Davangere,2012-07-01,2670.0,0.0,27.4,rain
+6,Arhar (Tur/Red Gram),Davangere,2012-09-01,2626.0,0.0,27.4,clear
+7,Arhar (Tur/Red Gram),Davangere,2012-10-01,2630.0,0.0,27.8,clear
+8,Arhar (Tur/Red Gram),Davangere,2012-11-01,2500.0,0.0,20.6,rain
+9,Arhar (Tur/Red Gram),Davangere,2012-01-13,2701.0,0.0,26.6,clear
+10,Arhar (Tur/Red Gram),Davangere,2012-01-16,2666.0,1.0,28.4,clear
+11,Arhar (Tur/Red Gram),Davangere,2012-01-17,2670.0,0.0,30.4,clear
+12,Arhar (Tur/Red Gram),Davangere,2012-01-19,2656.0,0.0,29.4,clear
+13,Arhar (Tur/Red Gram),Davangere,2012-01-21,2450.0,0.0,30.0,clear
+14,Arhar (Tur/Red Gram),Harappana Halli,2012-01-21,2900.0,4.0,30.0,clear
+15,Arhar (Tur/Red Gram),Davangere,2012-01-24,2670.0,0.0,29.0,clear
+16,Arhar (Tur/Red Gram),Davangere,2012-01-25,2426.0,0.0,28.6,clear
+17,Arhar (Tur/Red Gram),Davangere,2012-01-27,2700.0,0.0,29.6,clear
+18,Arhar (Tur/Red Gram),Davangere,2012-01-28,2551.0,0.0,28.8,clear
+19,Arhar (Tur/Red Gram),Davangere,2012-01-31,2706.0,1.0,29.4,clear
+20,Arhar (Tur/Red Gram),Davangere,2012-03-02,2666.0,0.0,35.4,clear
+21,Arhar (Tur/Red Gram),Davangere,2012-04-02,2150.0,0.0,35.6,clear
+22,Arhar (Tur/Red Gram),Davangere,2012-08-02,2530.0,0.0,25.0,clear
+23,Arhar (Tur/Red Gram),Davangere,2012-02-14,2300.0,0.0,33.0,clear
+24,Arhar (Tur/Red Gram),Harappana Halli,2012-09-02,2400.0,16.0,27.2,rain
+25,Bengal Gram(Gram),Davangere,2012-12-03,5000.0,2.0,28.2,clear
+26,Black Gram (Urd Beans),Davangere,2012-12-03,6100.0,40.0,28.2,clear
+27,Green Gram (Moong),Davangere,2012-12-03,5100.0,6.0,28.2,clear
+28,Bengal Gram(Gram),Davangere,2012-04-13,3600.0,5.0,33.6,clear
+29,Black Gram (Urd Beans),Davangere,2012-04-13,5300.0,8.0,33.6,clear
+30,Green Gram (Moong),Davangere,2012-04-13,5300.0,0.0,33.6,clear
+31,Bengal Gram(Gram),Davangere,2012-04-20,4700.0,10.0,34.0,clear
+32,Black Gram (Urd Beans),Davangere,2012-04-20,5300.0,14.0,34.0,clear
+33,Bengal Gram(Gram),Davangere,2012-04-27,4500.0,35.0,31.6,rain
+34,Black Gram (Urd Beans),Davangere,2012-04-27,5900.0,6.0,31.6,rain
+35,Bengal Gram(Gram),Davangere,2012-04-05,4900.0,17.0,36.4,rain
+36,Black Gram (Urd Beans),Davangere,2012-04-05,6900.0,45.0,36.4,rain
+37,Bengal Gram(Gram),Davangere,2012-11-05,5300.0,3.0,28.8,clear
+38,Black Gram (Urd Beans),Davangere,2012-11-05,6900.0,8.0,28.8,clear
+39,Bengal Gram(Gram),Davangere,2012-05-18,5300.0,22.0,36.4,clear
+40,Black Gram (Urd Beans),Davangere,2012-05-18,6900.0,23.0,36.4,clear
+41,Black Gram (Urd Beans),Davangere,2012-05-04,5800.0,2.0,32.2,clear
+42,Green Gram (Moong),Davangere,2012-05-04,5200.0,1.0,32.2,clear
+43,Black Gram (Urd Beans),Davangere,2012-05-25,6900.0,15.0,34.2,clear
+44,Green Gram (Moong),Davangere,2012-05-25,5300.0,1.0,34.2,clear
+45,Green Gram (Moong),Harappana Halli,2012-07-14,4500.0,10.0,29.4,clear
+46,Arhar (Tur/Red Gram),Davangere,2013-07-01,2202.0,0.0,26.2,clear
+47,Arhar (Tur/Red Gram),Davangere,2013-10-01,2585.0,0.0,29.0,clear
+48,Arhar (Tur/Red Gram),Davangere,2013-01-15,2350.0,0.0,31.4,clear
+49,Arhar (Tur/Red Gram),Davangere,2013-01-16,2765.0,0.0,30.4,clear
+50,Arhar (Tur/Red Gram),Davangere,2013-01-21,3045.0,0.0,30.0,clear
+51,Arhar (Tur/Red Gram),Davangere,2013-01-22,3050.0,0.0,29.6,clear
+52,Arhar (Tur/Red Gram),Davangere,2013-01-23,3050.0,2.0,29.8,clear
+53,Arhar (Tur/Red Gram),Davangere,2013-01-24,2685.0,1.0,30.2,clear
+54,Arhar (Tur/Red Gram),Davangere,2013-01-28,2920.0,1.0,31.0,clear
+55,Arhar (Tur/Red Gram),Davangere,2013-01-29,3006.0,0.0,31.4,clear
+56,Arhar (Tur/Red Gram),Davangere,2013-01-30,3206.0,0.0,29.6,clear
+57,Arhar (Tur/Red Gram),Davangere,2013-01-31,2200.0,0.0,29.4,clear
+58,Arhar (Tur/Red Gram),Davangere,2013-01-02,2253.0,0.0,32.0,clear
+59,Arhar (Tur/Red Gram),Davangere,2013-04-02,2959.0,1.0,35.6,clear
+60,Arhar (Tur/Red Gram),Davangere,2013-06-02,3100.0,0.0,28.4,clear
+61,Arhar (Tur/Red Gram),Davangere,2013-08-02,3060.0,1.0,25.4,rain
+62,Arhar (Tur/Red Gram),Davangere,2013-02-14,2647.0,0.0,33.4,clear
+63,Arhar (Tur/Red Gram),Davangere,2013-08-03,2401.0,0.0,25.2,clear
+64,Arhar (Tur/Red Gram),Davangere,2013-03-23,3426.0,0.0,35.4,clear
+65,Green Gram (Moong),Harappana Halli,2013-12-08,4000.0,2.0,28.0,clear
+66,Green Gram (Moong),Harappana Halli,2013-08-19,4892.0,2.0,24.8,clear
+67,Green Gram (Moong),Harappana Halli,2013-08-21,4000.0,1.0,25.2,clear
+68,Green Gram (Moong),Harappana Halli,2013-08-22,5000.0,5.0,27.8,clear
+69,Green Gram (Moong),Harappana Halli,2013-08-23,4000.0,2.0,25.0,clear
+70,Green Gram (Moong),Harappana Halli,2013-08-29,4705.0,5.0,28.4,clear
+71,Green Gram (Moong),Harappana Halli,2013-08-30,4800.0,2.0,29.8,clear
+72,Green Gram (Moong),Harappana Halli,2013-08-31,5600.0,24.0,30.4,rain
+73,Green Gram (Moong),Harappana Halli,2013-05-10,5600.0,6.0,34.4,clear
+74,Arhar (Tur/Red Gram),Davangere,2014-03-01,3089.0,0.0,31.6,clear
+75,Arhar (Tur/Red Gram),Davangere,2014-04-01,3025.0,0.0,36.4,rain
+76,Arhar (Tur/Red Gram),Davangere,2014-06-01,3161.0,0.0,29.0,clear
+77,Arhar (Tur/Red Gram),Davangere,2014-07-01,3100.0,0.0,31.0,clear
+78,Arhar (Tur/Red Gram),Davangere,2014-09-01,3150.0,0.0,26.8,clear
+79,Arhar (Tur/Red Gram),Davangere,2014-01-13,3251.0,3.0,29.6,clear
+80,Arhar (Tur/Red Gram),Davangere,2014-01-16,3300.0,0.0,30.2,clear
+81,Arhar (Tur/Red Gram),Davangere,2014-01-17,3385.0,27.0,28.4,clear
+82,Arhar (Tur/Red Gram),Davangere,2014-01-18,3400.0,1.0,30.0,clear
+83,Arhar (Tur/Red Gram),Davangere,2014-01-20,3440.0,0.0,29.0,clear
+84,Arhar (Tur/Red Gram),Davangere,2014-01-21,3356.0,0.0,27.8,clear
+85,Arhar (Tur/Red Gram),Davangere,2014-01-22,3440.0,0.0,29.2,clear
+86,Arhar (Tur/Red Gram),Davangere,2014-01-23,3350.0,0.0,29.0,clear
+87,Arhar (Tur/Red Gram),Davangere,2014-01-24,3250.0,1.0,29.0,clear
+88,Arhar (Tur/Red Gram),Davangere,2014-01-27,3465.0,1.0,27.6,clear
+89,Arhar (Tur/Red Gram),Davangere,2014-01-28,3356.0,0.0,28.4,clear
+90,Arhar (Tur/Red Gram),Davangere,2014-01-29,3250.0,1.0,29.0,clear
+91,Arhar (Tur/Red Gram),Davangere,2014-01-02,3200.0,0.0,26.2,clear
+92,Arhar (Tur/Red Gram),Davangere,2014-03-02,3341.0,3.0,32.4,clear
+93,Arhar (Tur/Red Gram),Davangere,2014-04-02,3185.0,1.0,36.0,clear
+94,Arhar (Tur/Red Gram),Davangere,2014-05-02,2966.0,0.0,34.0,clear
+95,Arhar (Tur/Red Gram),Davangere,2014-12-02,3055.0,0.0,28.4,clear
+96,Arhar (Tur/Red Gram),Davangere,2014-02-18,2400.0,0.0,29.8,clear
+97,Arhar (Tur/Red Gram),Davangere,2014-02-26,2000.0,0.0,31.8,clear
+98,Arhar (Tur/Red Gram),Davangere,2014-12-30,3975.0,1.0,28.4,clear
+99,Arhar (Tur/Red Gram),Harappana Halli,2014-07-15,3615.0,16.0,23.0,clear
+100,Arhar (Tur/Red Gram),Harappana Halli,2014-04-09,4160.0,19.0,35.0,rain
+101,Green Gram (Moong),Harappana Halli,2014-08-19,5800.0,2.0,28.0,rain
+102,Green Gram (Moong),Harappana Halli,2014-09-16,6520.0,2.0,28.4,clear
+103,Green Gram (Moong),Harappana Halli,2014-09-23,6400.0,9.0,30.0,clear
+104,Arhar (Tur/Red Gram),Davangere,2015-01-01,6525.0,7.0,28.8,clear
+105,Arhar (Tur/Red Gram),Davangere,2015-05-01,4300.0,1.0,36.0,clear
+106,Arhar (Tur/Red Gram),Davangere,2015-06-01,4440.0,6.0,29.8,clear
+107,Arhar (Tur/Red Gram),Harappana Halli,2015-06-01,4487.0,130.0,29.8,clear
+108,Arhar (Tur/Red Gram),Davangere,2015-07-01,4300.0,21.0,29.4,clear
+109,Arhar (Tur/Red Gram),Harappana Halli,2015-07-01,4998.0,210.0,29.4,clear
+110,Arhar (Tur/Red Gram),Davangere,2015-08-01,4400.0,59.0,29.2,clear
+111,Arhar (Tur/Red Gram),Davangere,2015-09-01,4452.0,20.0,29.4,clear
+112,Arhar (Tur/Red Gram),Davangere,2015-12-01,3940.0,98.0,25.6,clear
+113,Arhar (Tur/Red Gram),Harappana Halli,2015-12-01,4356.0,162.0,25.6,clear
+114,Arhar (Tur/Red Gram),Davangere,2015-01-13,4300.0,39.0,27.2,clear
+115,Arhar (Tur/Red Gram),Davangere,2015-01-14,3900.0,15.0,27.4,clear
+116,Arhar (Tur/Red Gram),Davangere,2015-01-16,4165.0,86.0,28.0,clear
+117,Arhar (Tur/Red Gram),Harappana Halli,2015-01-16,5011.0,210.0,28.0,clear
+118,Arhar (Tur/Red Gram),Davangere,2015-01-17,4150.0,44.0,28.0,clear
+119,Arhar (Tur/Red Gram),Harappana Halli,2015-01-17,4410.0,160.0,28.0,clear
+120,Arhar (Tur/Red Gram),Davangere,2015-01-19,4100.0,113.0,29.4,clear
+121,Arhar (Tur/Red Gram),Davangere,2015-01-20,4050.0,38.0,27.6,clear
+122,Arhar (Tur/Red Gram),Davangere,2015-01-21,4186.0,9.0,28.2,clear
+123,Arhar (Tur/Red Gram),Davangere,2015-01-22,4060.0,12.0,29.6,clear
+124,Arhar (Tur/Red Gram),Harappana Halli,2015-01-22,4425.0,170.0,29.6,clear
+125,Arhar (Tur/Red Gram),Davangere,2015-01-23,4102.0,16.0,29.6,clear
+126,Arhar (Tur/Red Gram),Harappana Halli,2015-01-23,5000.0,140.0,29.6,clear
+127,Arhar (Tur/Red Gram),Davangere,2015-01-24,4240.0,10.0,28.0,clear
+128,Arhar (Tur/Red Gram),Harappana Halli,2015-01-24,5000.0,160.0,28.0,clear
+129,Arhar (Tur/Red Gram),Davangere,2015-01-27,4100.0,3.0,29.4,clear
+130,Arhar (Tur/Red Gram),Harappana Halli,2015-01-27,4703.0,33.0,29.4,clear
+131,Arhar (Tur/Red Gram),Davangere,2015-01-28,4161.0,1.0,29.0,clear
+132,Arhar (Tur/Red Gram),Davangere,2015-01-29,4106.0,14.0,29.0,clear
+133,Arhar (Tur/Red Gram),Davangere,2015-01-30,4160.0,11.0,29.4,clear
+134,Arhar (Tur/Red Gram),Davangere,2015-02-02,4186.0,9.0,29.4,clear
+135,Arhar (Tur/Red Gram),Harappana Halli,2015-02-02,4400.0,212.0,29.4,clear
+136,Arhar (Tur/Red Gram),Davangere,2015-04-02,4099.0,12.0,35.4,clear
+137,Arhar (Tur/Red Gram),Davangere,2015-05-02,4052.0,8.0,35.4,rain
+138,Arhar (Tur/Red Gram),Harappana Halli,2015-05-02,4329.0,210.0,35.4,rain
+139,Arhar (Tur/Red Gram),Davangere,2015-06-02,4112.0,10.0,30.6,clear
+140,Arhar (Tur/Red Gram),Davangere,2015-10-02,4230.0,1.0,29.0,clear
+141,Arhar (Tur/Red Gram),Davangere,2015-02-21,4630.0,0.0,32.0,clear
+142,Arhar (Tur/Red Gram),Harappana Halli,2015-02-21,4800.0,21.0,32.0,clear
+143,Arhar (Tur/Red Gram),Davangere,2015-02-23,4711.0,1.0,32.0,clear
+144,Arhar (Tur/Red Gram),Harappana Halli,2015-02-23,3382.0,28.0,32.0,clear
+145,Arhar (Tur/Red Gram),Davangere,2015-05-03,4550.0,10.0,33.0,clear
+146,Arhar (Tur/Red Gram),Harappana Halli,2015-05-03,4350.0,1.0,33.0,clear
+147,Arhar (Tur/Red Gram),Davangere,2015-10-04,4550.0,12.0,27.4,clear
+148,Black Gram (Urd Beans),Davangere,2015-10-04,4150.0,2.0,27.4,clear
+149,Green Gram (Moong),Davangere,2015-10-04,8950.0,2.0,27.4,clear
+150,Arhar (Tur/Red Gram),Davangere,2015-11-12,6809.0,0.0,26.2,clear
+151,Bengal Gram(Gram),Davangere,2015-11-12,7050.0,2.0,26.2,clear
+152,Arhar (Tur/Red Gram),Davangere,2015-12-17,8300.0,2.0,32.0,clear
+153,Arhar (Tur/Red Gram),Davangere,2015-12-18,8050.0,0.0,30.6,clear
+154,Green Gram (Moong),Davangere,2015-12-18,10050.0,2.0,30.6,clear
+155,Arhar (Tur/Red Gram),Davangere,2015-12-19,8350.0,0.0,31.4,clear
+156,Arhar (Tur/Red Gram),Davangere,2015-12-21,8325.0,3.0,30.4,clear
+157,Arhar (Tur/Red Gram),Davangere,2015-12-22,7850.0,0.0,31.4,clear
+158,Arhar (Tur/Red Gram),Davangere,2015-12-23,8012.0,1.0,30.4,clear
+159,Green Gram (Moong),Davangere,2015-12-23,8900.0,1.0,30.4,clear
+160,Arhar (Tur/Red Gram),Davangere,2015-12-26,7016.0,0.0,29.4,clear
+161,Arhar (Tur/Red Gram),Davangere,2015-12-28,6309.0,6.0,28.4,clear
+162,Arhar (Tur/Red Gram),Davangere,2015-12-29,6800.0,9.0,30.4,clear
+163,Arhar (Tur/Red Gram),Davangere,2015-12-30,6821.0,5.0,30.8,clear
+164,Arhar (Tur/Red Gram),Harappana Halli,2015-12-30,5750.0,10.0,30.8,clear
+165,Arhar (Tur/Red Gram),Davangere,2015-12-31,6550.0,10.0,29.4,clear
+166,Arhar (Tur/Red Gram),Harappana Halli,2015-01-31,5000.0,230.0,30.0,clear
+167,Arhar (Tur/Red Gram),Harappana Halli,2015-11-02,4601.0,48.0,29.6,clear
+168,Arhar (Tur/Red Gram),Harappana Halli,2015-02-14,3977.0,17.0,32.6,clear
+169,Arhar (Tur/Red Gram),Harappana Halli,2015-04-20,5123.0,42.0,34.4,clear
+170,Arhar (Tur/Red Gram),Harappana Halli,2015-05-05,5980.0,21.0,33.4,clear
+171,Arhar (Tur/Red Gram),Harappana Halli,2015-05-20,6005.0,17.0,33.4,clear
+172,Bengal Gram(Gram),Davangere,2015-04-04,2850.0,5.0,36.0,clear
+173,Green Gram (Moong),Davangere,2015-04-04,8850.0,10.0,36.0,clear
+174,Bengal Gram(Gram),Davangere,2015-08-05,5250.0,1.0,28.4,clear
+175,Green Gram (Moong),Davangere,2015-08-05,9550.0,3.0,28.4,clear
+176,Bengal Gram(Gram),Davangere,2015-10-21,7050.0,1.0,32.4,clear
+177,Green Gram (Moong),Davangere,2015-10-21,10250.0,12.0,32.4,clear
+178,Bengal Gram(Gram),Davangere,2015-06-11,4450.0,1.0,32.4,rain
+179,Green Gram (Moong),Davangere,2015-06-11,10150.0,3.0,32.4,rain
+180,Green Gram (Moong),Davangere,2015-04-17,8950.0,2.0,32.2,clear
+181,Green Gram (Moong),Davangere,2015-05-22,9450.0,1.0,33.6,clear
+182,Green Gram (Moong),Davangere,2015-12-06,9550.0,3.0,28.4,clear
+183,Green Gram (Moong),Davangere,2015-10-07,6750.0,8.0,31.4,clear
+184,Green Gram (Moong),Davangere,2015-07-17,6850.0,6.0,28.4,clear
+185,Green Gram (Moong),Davangere,2015-08-14,8050.0,2.0,28.4,clear
+186,Green Gram (Moong),Davangere,2015-08-28,8050.0,2.0,27.4,clear
+187,Green Gram (Moong),Davangere,2015-04-09,8050.0,3.0,35.0,clear
+188,Green Gram (Moong),Davangere,2015-11-09,7950.0,1.0,25.8,clear
+189,Green Gram (Moong),Davangere,2015-09-23,8650.0,1.0,31.4,clear
+190,Green Gram (Moong),Davangere,2015-01-10,8650.0,1.0,27.4,clear
+191,Green Gram (Moong),Davangere,2015-09-10,8650.0,2.0,28.4,rain
+192,Green Gram (Moong),Davangere,2015-10-16,9100.0,1.0,31.4,clear
+193,Green Gram (Moong),Davangere,2015-10-30,10150.0,14.0,31.4,clear
+194,Green Gram (Moong),Davangere,2015-11-27,10100.0,1.0,30.0,clear
+195,Green Gram (Moong),Harappana Halli,2015-09-30,8398.0,13.0,29.0,clear
+196,Arhar (Tur/Red Gram),Davangere,2016-01-01,6525.0,7.0,28.8,clear
+197,Arhar (Tur/Red Gram),Harappana Halli,2016-01-01,4781.0,10.0,28.8,clear
+198,Green Gram (Moong),Davangere,2016-01-01,8650.0,2.0,28.8,clear
+199,Arhar (Tur/Red Gram),Davangere,2016-02-01,6250.0,1.0,33.6,clear
+200,Arhar (Tur/Red Gram),Davangere,2016-04-01,6763.0,13.0,37.4,clear
+201,Arhar (Tur/Red Gram),Davangere,2016-06-01,6953.0,5.0,34.4,clear
+202,Arhar (Tur/Red Gram),Harappana Halli,2016-06-01,6757.0,13.0,34.4,clear
+203,Arhar (Tur/Red Gram),Davangere,2016-08-01,7108.0,6.0,25.0,clear
+204,Green Gram (Moong),Davangere,2016-08-01,8650.0,3.0,25.0,clear
+205,Arhar (Tur/Red Gram),Davangere,2016-11-01,6950.0,6.0,29.6,clear
+206,Arhar (Tur/Red Gram),Davangere,2016-12-01,7191.0,4.0,28.0,clear
+207,Arhar (Tur/Red Gram),Davangere,2016-01-13,7277.0,5.0,29.8,clear
+208,Arhar (Tur/Red Gram),Davangere,2016-01-14,6965.0,2.0,30.2,clear
+209,Arhar (Tur/Red Gram),Harappana Halli,2016-01-14,7500.0,16.0,30.2,clear
+210,Green Gram (Moong),Davangere,2016-01-14,10150.0,3.0,30.2,clear
+211,Arhar (Tur/Red Gram),Davangere,2016-01-16,6887.0,1.0,28.0,clear
+212,Arhar (Tur/Red Gram),Davangere,2016-01-18,6952.0,3.0,26.6,clear
+213,Arhar (Tur/Red Gram),Davangere,2016-01-19,6252.0,3.0,26.4,clear
+214,Arhar (Tur/Red Gram),Davangere,2016-01-20,6930.0,4.0,26.4,clear
+215,Arhar (Tur/Red Gram),Davangere,2016-01-21,6966.0,2.0,29.0,clear
+216,Arhar (Tur/Red Gram),Davangere,2016-01-23,6600.0,1.0,25.4,clear
+217,Arhar (Tur/Red Gram),Davangere,2016-01-30,12950.0,9.0,31.4,clear
+218,Bengal Gram(Gram),Davangere,2016-01-30,5550.0,17.0,31.4,clear
+219,Black Gram (Urd Beans),Davangere,2016-01-30,14650.0,12.0,31.4,clear
+220,Green Gram (Moong),Davangere,2016-01-30,8850.0,1.0,31.4,clear
+221,Arhar (Tur/Red Gram),Davangere,2016-06-02,5950.0,1.0,30.8,clear
+222,Arhar (Tur/Red Gram),Davangere,2016-09-02,6000.0,0.0,28.4,clear
+223,Arhar (Tur/Red Gram),Davangere,2016-02-15,5349.0,0.0,32.2,clear
+224,Arhar (Tur/Red Gram),Davangere,2016-02-19,5149.0,0.0,34.2,clear
+225,Arhar (Tur/Red Gram),Davangere,2016-02-25,4500.0,0.0,34.0,clear
+226,Arhar (Tur/Red Gram),Davangere,2016-02-29,4340.0,1.0,34.4,clear
+227,Arhar (Tur/Red Gram),Davangere,2016-01-03,4901.0,1.0,30.4,clear
+228,Arhar (Tur/Red Gram),Davangere,2016-02-03,4452.0,0.0,33.2,clear
+229,Arhar (Tur/Red Gram),Davangere,2016-03-21,5015.0,0.0,38.6,clear
+230,Arhar (Tur/Red Gram),Davangere,2016-03-06,14500.0,2.0,36.0,clear
+231,Bengal Gram(Gram),Davangere,2016-03-06,6650.0,5.0,36.0,clear
+232,Black Gram (Urd Beans),Davangere,2016-03-06,16500.0,28.0,36.0,clear
+233,Green Gram (Moong),Davangere,2016-03-06,9750.0,1.0,36.0,clear
+234,Arhar (Tur/Red Gram),Davangere,2016-10-14,12500.0,3.0,30.8,clear
+235,Bengal Gram(Gram),Davangere,2016-10-14,8250.0,11.0,30.8,clear
+236,Black Gram (Urd Beans),Davangere,2016-10-14,14500.0,13.0,30.8,clear
+237,Green Gram (Moong),Davangere,2016-10-14,9500.0,4.0,30.8,clear
+238,Arhar (Tur/Red Gram),Davangere,2016-02-12,12750.0,5.0,31.8,clear
+239,Bengal Gram(Gram),Davangere,2016-02-12,9500.0,36.0,31.8,clear
+240,Black Gram (Urd Beans),Davangere,2016-02-12,14500.0,21.0,31.8,clear
+241,Arhar (Tur/Red Gram),Davangere,2016-09-12,12500.0,10.0,27.6,clear
+242,Bengal Gram(Gram),Davangere,2016-09-12,12100.0,10.0,27.6,clear
+243,Black Gram (Urd Beans),Davangere,2016-09-12,13500.0,39.0,27.6,clear
+244,Arhar (Tur/Red Gram),Davangere,2016-12-12,3921.0,0.0,30.0,clear
+245,Arhar (Tur/Red Gram),Davangere,2016-12-14,4326.0,2.0,24.6,clear
+246,Arhar (Tur/Red Gram),Davangere,2016-12-15,4125.0,0.0,28.6,clear
+247,Arhar (Tur/Red Gram),Davangere,2016-12-16,4139.0,3.0,28.4,clear
+248,Bengal Gram(Gram),Davangere,2016-12-16,9500.0,9.0,28.4,clear
+249,Black Gram (Urd Beans),Davangere,2016-12-16,12500.0,8.0,28.4,clear
+250,Arhar (Tur/Red Gram),Davangere,2016-12-19,4127.0,1.0,31.4,clear
+251,Arhar (Tur/Red Gram),Davangere,2016-12-21,4200.0,0.0,31.4,clear
+252,Arhar (Tur/Red Gram),Davangere,2016-12-22,3325.0,0.0,31.4,clear
+253,Arhar (Tur/Red Gram),Harappana Halli,2016-12-22,4007.0,15.0,31.4,clear
+254,Arhar (Tur/Red Gram),Davangere,2016-12-23,9500.0,2.0,30.8,clear
+255,Bengal Gram(Gram),Davangere,2016-12-23,6625.0,4.0,30.8,clear
+256,Black Gram (Urd Beans),Davangere,2016-12-23,11500.0,19.0,30.8,clear
+257,Arhar (Tur/Red Gram),Davangere,2016-12-24,4100.0,0.0,30.0,clear
+258,Arhar (Tur/Red Gram),Davangere,2016-12-26,4012.0,3.0,30.0,clear
+259,Arhar (Tur/Red Gram),Davangere,2016-12-27,4045.0,2.0,29.6,clear
+260,Arhar (Tur/Red Gram),Davangere,2016-12-28,4166.0,1.0,29.6,clear
+261,Arhar (Tur/Red Gram),Davangere,2016-12-29,3791.0,2.0,29.4,clear
+262,Arhar (Tur/Red Gram),Davangere,2016-12-30,3971.0,2.0,28.6,clear
+263,Bengal Gram(Gram),Davangere,2016-12-30,11500.0,12.0,28.6,clear
+264,Black Gram (Urd Beans),Davangere,2016-12-30,10000.0,2.0,28.6,clear
+265,Arhar (Tur/Red Gram),Davangere,2016-12-31,3965.0,4.0,28.6,clear
+266,Arhar (Tur/Red Gram),Harappana Halli,2016-07-01,7150.0,17.0,26.6,clear
+267,Arhar (Tur/Red Gram),Harappana Halli,2016-02-09,4000.0,5.0,33.4,clear
+268,Arhar (Tur/Red Gram),Harappana Halli,2016-03-09,4000.0,5.0,36.8,clear
+269,Arhar (Tur/Red Gram),Harappana Halli,2016-09-16,4057.0,22.0,27.0,clear
+270,Bengal Gram(Gram),Davangere,2016-09-16,8950.0,26.0,27.0,clear
+271,Black Gram (Urd Beans),Davangere,2016-09-16,14500.0,8.0,27.0,clear
+272,Green Gram (Moong),Davangere,2016-09-16,10750.0,6.0,27.0,clear
+273,Arhar (Tur/Red Gram),Harappana Halli,2016-09-28,5548.0,19.0,28.4,clear
+274,Arhar (Tur/Red Gram),Harappana Halli,2016-09-29,5488.0,19.0,30.4,clear
+275,Bengal Gram(Gram),Davangere,2016-09-29,7500.0,4.0,30.4,clear
+276,Black Gram (Urd Beans),Davangere,2016-09-29,14500.0,32.0,30.4,clear
+277,Green Gram (Moong),Davangere,2016-09-29,10750.0,1.0,30.4,clear
+278,Bengal Gram(Gram),Davangere,2016-04-29,6250.0,54.0,39.0,clear
+279,Black Gram (Urd Beans),Davangere,2016-04-29,15500.0,8.0,39.0,clear
+280,Green Gram (Moong),Davangere,2016-04-29,7750.0,2.0,39.0,clear
+281,Bengal Gram(Gram),Davangere,2016-06-05,6150.0,35.0,32.6,clear
+282,Black Gram (Urd Beans),Davangere,2016-06-05,16500.0,27.0,32.6,clear
+283,Green Gram (Moong),Davangere,2016-06-05,10500.0,2.0,32.6,clear
+284,Bengal Gram(Gram),Davangere,2016-05-13,5650.0,20.0,37.0,clear
+285,Black Gram (Urd Beans),Davangere,2016-05-13,16500.0,18.0,37.0,clear
+286,Green Gram (Moong),Davangere,2016-05-13,7500.0,3.0,37.0,clear
+287,Bengal Gram(Gram),Davangere,2016-10-06,6650.0,12.0,29.0,clear
+288,Black Gram (Urd Beans),Davangere,2016-10-06,15500.0,10.0,29.0,clear
+289,Green Gram (Moong),Davangere,2016-10-06,9500.0,2.0,29.0,clear
+290,Bengal Gram(Gram),Davangere,2016-06-17,6600.0,13.0,30.4,clear
+291,Black Gram (Urd Beans),Davangere,2016-06-17,15500.0,15.0,30.4,clear
+292,Green Gram (Moong),Davangere,2016-06-17,9500.0,2.0,30.4,clear
+293,Bengal Gram(Gram),Davangere,2016-06-24,6650.0,79.0,27.4,clear
+294,Black Gram (Urd Beans),Davangere,2016-06-24,15500.0,21.0,27.4,clear
+295,Green Gram (Moong),Davangere,2016-06-24,9500.0,1.0,27.4,clear
+296,Bengal Gram(Gram),Davangere,2016-01-07,8250.0,23.0,29.0,clear
+297,Black Gram (Urd Beans),Davangere,2016-01-07,15500.0,29.0,29.0,clear
+298,Green Gram (Moong),Davangere,2016-01-07,9500.0,3.0,29.0,clear
+299,Bengal Gram(Gram),Davangere,2016-08-07,8250.0,37.0,28.0,clear
+300,Black Gram (Urd Beans),Davangere,2016-08-07,16500.0,29.0,28.0,clear
+301,Green Gram (Moong),Davangere,2016-08-07,9500.0,3.0,28.0,clear
+302,Bengal Gram(Gram),Davangere,2016-07-15,9500.0,32.0,31.0,clear
+303,Black Gram (Urd Beans),Davangere,2016-07-15,16500.0,22.0,31.0,clear
+304,Bengal Gram(Gram),Davangere,2016-07-22,9450.0,3.0,25.0,rain
+305,Black Gram (Urd Beans),Davangere,2016-07-22,15500.0,8.0,25.0,rain
+306,Green Gram (Moong),Davangere,2016-07-22,6950.0,2.0,25.0,rain
+307,Bengal Gram(Gram),Davangere,2016-07-29,11800.0,1.0,23.6,clear
+308,Black Gram (Urd Beans),Davangere,2016-07-29,16500.0,15.0,23.6,clear
+309,Bengal Gram(Gram),Davangere,2016-05-08,10350.0,15.0,35.8,clear
+310,Black Gram (Urd Beans),Davangere,2016-05-08,15500.0,16.0,35.8,clear
+311,Bengal Gram(Gram),Davangere,2016-12-08,8650.0,27.0,29.4,clear
+312,Black Gram (Urd Beans),Davangere,2016-12-08,16500.0,19.0,29.4,clear
+313,Green Gram (Moong),Davangere,2016-12-08,6750.0,3.0,29.4,clear
+314,Bengal Gram(Gram),Davangere,2016-08-19,9500.0,4.0,29.8,clear
+315,Black Gram (Urd Beans),Davangere,2016-08-19,16500.0,10.0,29.8,clear
+316,Green Gram (Moong),Davangere,2016-08-19,6650.0,3.0,29.8,clear
+317,Bengal Gram(Gram),Davangere,2016-08-26,8750.0,25.0,30.0,clear
+318,Black Gram (Urd Beans),Davangere,2016-08-26,15500.0,15.0,30.0,clear
+319,Bengal Gram(Gram),Davangere,2016-01-09,9450.0,3.0,29.0,clear
+320,Black Gram (Urd Beans),Davangere,2016-01-09,15500.0,6.0,29.0,clear
+321,Bengal Gram(Gram),Davangere,2016-08-09,8950.0,24.0,28.6,clear
+322,Black Gram (Urd Beans),Davangere,2016-08-09,14500.0,38.0,28.6,clear
+323,Bengal Gram(Gram),Davangere,2016-09-23,7500.0,5.0,23.0,clear
+324,Black Gram (Urd Beans),Davangere,2016-09-23,15500.0,13.0,23.0,clear
+325,Green Gram (Moong),Davangere,2016-09-23,10750.0,6.0,23.0,clear
+326,Bengal Gram(Gram),Davangere,2016-07-10,6750.0,13.0,25.0,clear
+327,Black Gram (Urd Beans),Davangere,2016-07-10,14500.0,31.0,25.0,clear
+328,Bengal Gram(Gram),Davangere,2016-10-21,9250.0,21.0,32.0,clear
+329,Black Gram (Urd Beans),Davangere,2016-10-21,15500.0,29.0,32.0,clear
+330,Bengal Gram(Gram),Davangere,2016-10-28,11500.0,3.0,31.4,clear
+331,Black Gram (Urd Beans),Davangere,2016-10-28,14500.0,10.0,31.4,clear
+332,Bengal Gram(Gram),Davangere,2016-11-11,10500.0,16.0,30.4,clear
+333,Black Gram (Urd Beans),Davangere,2016-11-11,15500.0,30.0,30.4,clear
+334,Bengal Gram(Gram),Davangere,2016-11-18,10050.0,18.0,29.4,clear
+335,Black Gram (Urd Beans),Davangere,2016-11-18,15500.0,30.0,29.4,clear
+336,Bengal Gram(Gram),Davangere,2016-11-25,12500.0,5.0,30.2,clear
+337,Black Gram (Urd Beans),Davangere,2016-11-25,14500.0,14.0,30.2,clear
+338,Green Gram (Moong),Davangere,2016-11-25,8500.0,1.0,30.2,clear
+339,Black Gram (Urd Beans),Davangere,2016-05-28,16500.0,3.0,34.4,clear
+340,Arhar (Tur/Red Gram),Davangere,2017-02-01,3882.0,7.0,31.6,clear
+341,Arhar (Tur/Red Gram),Davangere,2017-04-01,3894.0,1.0,37.4,clear
+342,Arhar (Tur/Red Gram),Harappana Halli,2017-04-01,4000.0,3.0,37.4,clear
+343,Arhar (Tur/Red Gram),Davangere,2017-05-01,500.0,50.0,36.2,clear
+344,Arhar (Tur/Red Gram),Davangere,2017-06-01,7500.0,1.0,33.2,clear
+345,Arhar (Tur/Red Gram),Harappana Halli,2017-06-01,3800.0,1.0,33.2,clear
+346,Bengal Gram(Gram),Davangere,2017-06-01,10500.0,41.0,33.2,clear
+347,Black Gram (Urd Beans),Davangere,2017-06-01,10500.0,39.0,33.2,clear
+348,Green Gram (Moong),Davangere,2017-06-01,5500.0,1.0,33.2,clear
+349,Arhar (Tur/Red Gram),Davangere,2017-07-01,3409.0,5.0,28.0,clear
+350,Arhar (Tur/Red Gram),Davangere,2017-09-01,3357.0,6.0,30.4,clear
+351,Arhar (Tur/Red Gram),Davangere,2017-10-01,3153.0,4.0,29.4,rain
+352,Arhar (Tur/Red Gram),Harappana Halli,2017-10-01,3837.0,4.0,29.4,rain
+353,Arhar (Tur/Red Gram),Davangere,2017-11-01,3434.0,4.0,28.6,clear
+354,Arhar (Tur/Red Gram),Davangere,2017-01-13,3364.0,8.0,29.2,clear
+355,Bengal Gram(Gram),Davangere,2017-01-13,8250.0,5.0,29.2,clear
+356,Black Gram (Urd Beans),Davangere,2017-01-13,9750.0,42.0,29.2,clear
+357,Arhar (Tur/Red Gram),Davangere,2017-01-16,3386.0,6.0,28.6,clear
+358,Arhar (Tur/Red Gram),Harappana Halli,2017-01-16,3600.0,2.0,28.6,clear
+359,Arhar (Tur/Red Gram),Davangere,2017-01-17,3750.0,1.0,29.4,clear
+360,Arhar (Tur/Red Gram),Davangere,2017-01-18,3595.0,1.0,28.6,clear
+361,Arhar (Tur/Red Gram),Davangere,2017-01-19,3785.0,2.0,27.2,clear
+362,Arhar (Tur/Red Gram),Davangere,2017-01-20,6500.0,4.0,28.2,clear
+363,Bengal Gram(Gram),Davangere,2017-01-20,8350.0,3.0,28.2,clear
+364,Black Gram (Urd Beans),Davangere,2017-01-20,13500.0,21.0,28.2,clear
+365,Green Gram (Moong),Davangere,2017-01-20,5650.0,2.0,28.2,clear
+366,Arhar (Tur/Red Gram),Davangere,2017-01-24,3733.0,0.0,30.0,clear
+367,Arhar (Tur/Red Gram),Davangere,2017-01-25,3873.0,3.0,30.6,clear
+368,Arhar (Tur/Red Gram),Davangere,2017-01-27,3846.0,5.0,29.6,clear
+369,Bengal Gram(Gram),Davangere,2017-01-27,7600.0,2.0,29.6,clear
+370,Black Gram (Urd Beans),Davangere,2017-01-27,11500.0,11.0,29.6,clear
+371,Arhar (Tur/Red Gram),Davangere,2017-01-28,3956.0,1.0,29.4,clear
+372,Arhar (Tur/Red Gram),Davangere,2017-01-30,3369.0,2.0,32.0,clear
+373,Arhar (Tur/Red Gram),Davangere,2017-01-31,4062.0,1.0,32.4,clear
+374,Arhar (Tur/Red Gram),Davangere,2017-01-02,4000.0,0.0,30.0,clear
+375,Arhar (Tur/Red Gram),Davangere,2017-02-02,2801.0,0.0,31.6,clear
+376,Arhar (Tur/Red Gram),Davangere,2017-03-02,3785.0,1.0,32.6,clear
+377,Bengal Gram(Gram),Davangere,2017-03-02,8750.0,13.0,32.6,clear
+378,Black Gram (Urd Beans),Davangere,2017-03-02,13500.0,15.0,32.6,clear
+379,Arhar (Tur/Red Gram),Davangere,2017-04-02,3963.0,0.0,37.2,clear
+380,Arhar (Tur/Red Gram),Davangere,2017-06-02,3227.0,1.0,33.6,clear
+381,Arhar (Tur/Red Gram),Davangere,2017-08-02,3750.0,1.0,30.0,clear
+382,Arhar (Tur/Red Gram),Davangere,2017-09-02,3880.0,1.0,30.8,clear
+383,Arhar (Tur/Red Gram),Davangere,2017-10-02,7250.0,4.0,28.4,rain
+384,Bengal Gram(Gram),Davangere,2017-10-02,8250.0,19.0,28.4,rain
+385,Black Gram (Urd Beans),Davangere,2017-10-02,12500.0,18.0,28.4,rain
+386,Arhar (Tur/Red Gram),Davangere,2017-02-13,3783.0,0.0,31.0,clear
+387,Arhar (Tur/Red Gram),Davangere,2017-02-14,3891.0,1.0,32.2,clear
+388,Arhar (Tur/Red Gram),Davangere,2017-02-15,3683.0,1.0,31.8,clear
+389,Arhar (Tur/Red Gram),Davangere,2017-02-16,3800.0,0.0,30.2,clear
+390,Arhar (Tur/Red Gram),Davangere,2017-02-17,3685.0,2.0,31.0,clear
+391,Bengal Gram(Gram),Davangere,2017-02-17,8500.0,15.0,31.0,clear
+392,Black Gram (Urd Beans),Davangere,2017-02-17,14500.0,21.0,31.0,clear
+393,Green Gram (Moong),Davangere,2017-02-17,2950.0,16.0,31.0,clear
+394,Arhar (Tur/Red Gram),Davangere,2017-02-28,3041.0,0.0,33.4,clear
+395,Arhar (Tur/Red Gram),Davangere,2017-12-05,7250.0,2.0,29.4,clear
+396,Bengal Gram(Gram),Davangere,2017-12-05,7800.0,27.0,29.4,clear
+397,Black Gram (Urd Beans),Davangere,2017-12-05,13500.0,19.0,29.4,clear
+398,Arhar (Tur/Red Gram),Davangere,2017-09-06,5750.0,20.0,27.6,clear
+399,Bengal Gram(Gram),Davangere,2017-09-06,7250.0,45.0,27.6,clear
+400,Black Gram (Urd Beans),Davangere,2017-09-06,10500.0,55.0,27.6,clear
+401,Green Gram (Moong),Davangere,2017-09-06,4250.0,2.0,27.6,clear
+402,Arhar (Tur/Red Gram),Davangere,2017-07-07,5750.0,1.0,30.4,clear
+403,Bengal Gram(Gram),Davangere,2017-07-07,7750.0,11.0,30.4,clear
+404,Black Gram (Urd Beans),Davangere,2017-07-07,9500.0,34.0,30.4,clear
+405,Arhar (Tur/Red Gram),Davangere,2017-08-18,6750.0,2.0,29.0,clear
+406,Bengal Gram(Gram),Davangere,2017-08-18,7750.0,35.0,29.0,clear
+407,Black Gram (Urd Beans),Davangere,2017-08-18,12500.0,8.0,29.0,clear
+408,Arhar (Tur/Red Gram),Davangere,2017-08-30,2950.0,1.0,28.6,clear
+409,Arhar (Tur/Red Gram),Davangere,2017-09-15,6750.0,3.0,30.4,rain
+410,Bengal Gram(Gram),Davangere,2017-09-15,6900.0,75.0,30.4,rain
+411,Black Gram (Urd Beans),Davangere,2017-09-15,7750.0,36.0,30.4,rain
+412,Arhar (Tur/Red Gram),Harappana Halli,2017-12-01,3850.0,9.0,22.6,clear
+413,Bengal Gram(Gram),Davangere,2017-02-23,8250.0,5.0,35.2,clear
+414,Black Gram (Urd Beans),Davangere,2017-02-23,12500.0,13.0,35.2,clear
+415,Bengal Gram(Gram),Davangere,2017-03-03,7500.0,6.0,34.0,clear
+416,Black Gram (Urd Beans),Davangere,2017-03-03,14500.0,8.0,34.0,clear
+417,Bengal Gram(Gram),Davangere,2017-10-03,5750.0,70.0,29.8,rain
+418,Black Gram (Urd Beans),Davangere,2017-10-03,10500.0,42.0,29.8,rain
+419,Bengal Gram(Gram),Davangere,2017-03-17,6050.0,33.0,33.8,clear
+420,Black Gram (Urd Beans),Davangere,2017-03-17,15500.0,6.0,33.8,clear
+421,Bengal Gram(Gram),Davangere,2017-03-24,5750.0,44.0,36.4,clear
+422,Black Gram (Urd Beans),Davangere,2017-03-24,14500.0,29.0,36.4,clear
+423,Bengal Gram(Gram),Davangere,2017-03-31,7500.0,8.0,38.6,clear
+424,Black Gram (Urd Beans),Davangere,2017-03-31,14500.0,12.0,38.6,clear
+425,Bengal Gram(Gram),Davangere,2017-07-04,8500.0,17.0,29.0,clear
+426,Black Gram (Urd Beans),Davangere,2017-07-04,11500.0,36.0,29.0,clear
+427,Bengal Gram(Gram),Davangere,2017-04-13,7500.0,5.0,38.0,clear
+428,Black Gram (Urd Beans),Davangere,2017-04-13,13500.0,3.0,38.0,clear
+429,Bengal Gram(Gram),Davangere,2017-04-21,7200.0,19.0,36.2,clear
+430,Black Gram (Urd Beans),Davangere,2017-04-21,13500.0,41.0,36.2,clear
+431,Green Gram (Moong),Davangere,2017-04-21,4050.0,1.0,36.2,clear
+432,Bengal Gram(Gram),Davangere,2017-04-28,7750.0,6.0,36.4,clear
+433,Black Gram (Urd Beans),Davangere,2017-04-28,13500.0,12.0,36.4,clear
+434,Bengal Gram(Gram),Davangere,2017-05-05,6750.0,10.0,38.4,clear
+435,Black Gram (Urd Beans),Davangere,2017-05-05,15500.0,15.0,38.4,clear
+436,Bengal Gram(Gram),Davangere,2017-05-19,7750.0,28.0,34.4,clear
+437,Black Gram (Urd Beans),Davangere,2017-05-19,13500.0,21.0,34.4,clear
+438,Bengal Gram(Gram),Davangere,2017-05-26,7750.0,10.0,35.4,clear
+439,Black Gram (Urd Beans),Davangere,2017-05-26,13500.0,7.0,35.4,clear
+440,Bengal Gram(Gram),Davangere,2017-02-06,7500.0,13.0,31.4,clear
+441,Black Gram (Urd Beans),Davangere,2017-02-06,9500.0,10.0,31.4,clear
+442,Bengal Gram(Gram),Davangere,2017-06-16,7250.0,12.0,27.4,clear
+443,Black Gram (Urd Beans),Davangere,2017-06-16,9500.0,25.0,27.4,clear
+444,Bengal Gram(Gram),Davangere,2017-06-23,7750.0,8.0,31.4,clear
+445,Black Gram (Urd Beans),Davangere,2017-06-23,9500.0,9.0,31.4,clear
+446,Bengal Gram(Gram),Davangere,2017-06-30,7250.0,14.0,29.6,clear
+447,Black Gram (Urd Beans),Davangere,2017-06-30,9500.0,29.0,29.6,clear
+448,Bengal Gram(Gram),Davangere,2017-07-14,7750.0,19.0,24.4,clear
+449,Black Gram (Urd Beans),Davangere,2017-07-14,9500.0,49.0,24.4,clear
+450,Bengal Gram(Gram),Davangere,2017-07-21,8750.0,34.0,27.4,clear
+451,Black Gram (Urd Beans),Davangere,2017-07-21,10500.0,17.0,27.4,clear
+452,Bengal Gram(Gram),Davangere,2017-07-28,8250.0,29.0,29.4,clear
+453,Black Gram (Urd Beans),Davangere,2017-07-28,12500.0,21.0,29.4,clear
+454,Bengal Gram(Gram),Davangere,2017-04-08,7500.0,10.0,37.4,clear
+455,Black Gram (Urd Beans),Davangere,2017-04-08,13500.0,39.0,37.4,clear
+456,Bengal Gram(Gram),Davangere,2017-11-08,8750.0,27.0,29.0,clear
+457,Black Gram (Urd Beans),Davangere,2017-11-08,10500.0,18.0,29.0,clear
+458,Bengal Gram(Gram),Davangere,2017-08-24,8250.0,10.0,29.0,clear
+459,Black Gram (Urd Beans),Davangere,2017-08-24,12500.0,21.0,29.0,clear
+460,Green Gram (Moong),Davangere,2017-08-24,7250.0,26.0,29.0,clear
+461,Bengal Gram(Gram),Davangere,2017-01-09,7750.0,12.0,29.8,clear
+462,Black Gram (Urd Beans),Davangere,2017-01-09,10500.0,36.0,29.8,clear
+463,Bengal Gram(Gram),Davangere,2017-08-09,6250.0,42.0,29.8,rain
+464,Black Gram (Urd Beans),Davangere,2017-08-09,8750.0,35.0,29.8,rain
+465,Bengal Gram(Gram),Davangere,2017-06-10,6750.0,14.0,26.0,clear
+466,Black Gram (Urd Beans),Davangere,2017-06-10,7500.0,4.0,26.0,clear
+467,Bengal Gram(Gram),Davangere,2017-10-13,6250.0,34.0,29.4,rain
+468,Black Gram (Urd Beans),Davangere,2017-10-13,7500.0,55.0,29.4,rain
+469,Green Gram (Moong),Honnali,2017-06-03,3600.0,18.0,34.4,rain

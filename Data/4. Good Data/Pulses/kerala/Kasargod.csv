@@ -1,0 +1,745 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Neeleswaram,2016-01-23,14500.0,5.0,33.0,clear
+1,Black Gram (Urd Beans),Neeleswaram,2016-01-23,16000.0,3.0,33.0,clear
+2,Arhar (Tur/Red Gram),Neeleswaram,2016-01-25,14400.0,2.0,32.4,clear
+3,Black Gram (Urd Beans),Neeleswaram,2016-01-25,15900.0,2.0,32.4,clear
+4,Arhar (Tur/Red Gram),Neeleswaram,2016-01-27,14000.0,2.0,31.0,clear
+5,Black Gram (Urd Beans),Neeleswaram,2016-01-27,15500.0,2.0,31.0,clear
+6,Arhar (Tur/Red Gram),Neeleswaram,2016-01-28,14000.0,2.0,31.4,clear
+7,Black Gram (Urd Beans),Neeleswaram,2016-01-28,15500.0,2.0,31.4,clear
+8,Arhar (Tur/Red Gram),Neeleswaram,2016-01-29,14500.0,2.0,31.6,clear
+9,Black Gram (Urd Beans),Neeleswaram,2016-01-29,15500.0,2.0,31.6,clear
+10,Arhar (Tur/Red Gram),Neeleswaram,2016-04-02,14500.0,2.0,34.6,clear
+11,Black Gram (Urd Beans),Neeleswaram,2016-04-02,15500.0,2.0,34.6,clear
+12,Arhar (Tur/Red Gram),Neeleswaram,2016-05-02,14500.0,2.0,34.4,clear
+13,Black Gram (Urd Beans),Neeleswaram,2016-05-02,15000.0,2.0,34.4,clear
+14,Arhar (Tur/Red Gram),Neeleswaram,2016-06-02,14500.0,2.0,32.2,rain
+15,Black Gram (Urd Beans),Neeleswaram,2016-06-02,15500.0,2.0,32.2,rain
+16,Arhar (Tur/Red Gram),Neeleswaram,2016-08-02,14000.0,2.0,29.4,clear
+17,Black Gram (Urd Beans),Neeleswaram,2016-08-02,15500.0,2.0,29.4,clear
+18,Arhar (Tur/Red Gram),Neeleswaram,2016-09-02,14000.0,1.0,26.6,clear
+19,Black Gram (Urd Beans),Neeleswaram,2016-09-02,15000.0,1.0,26.6,clear
+20,Arhar (Tur/Red Gram),Neeleswaram,2016-10-02,14500.0,1.0,29.8,clear
+21,Black Gram (Urd Beans),Neeleswaram,2016-10-02,15000.0,2.0,29.8,clear
+22,Arhar (Tur/Red Gram),Neeleswaram,2016-11-02,14000.0,2.0,31.6,clear
+23,Black Gram (Urd Beans),Neeleswaram,2016-11-02,15000.0,2.0,31.6,clear
+24,Arhar (Tur/Red Gram),Neeleswaram,2016-12-02,14000.0,2.0,31.6,clear
+25,Black Gram (Urd Beans),Neeleswaram,2016-12-02,15500.0,2.0,31.6,clear
+26,Arhar (Tur/Red Gram),Neeleswaram,2016-02-15,14000.0,2.0,32.8,clear
+27,Black Gram (Urd Beans),Neeleswaram,2016-02-15,15500.0,2.0,32.8,clear
+28,Arhar (Tur/Red Gram),Neeleswaram,2016-02-16,14000.0,2.0,31.8,clear
+29,Black Gram (Urd Beans),Neeleswaram,2016-02-16,15000.0,2.0,31.8,clear
+30,Arhar (Tur/Red Gram),Neeleswaram,2016-02-17,13500.0,2.0,34.4,clear
+31,Black Gram (Urd Beans),Neeleswaram,2016-02-17,15000.0,2.0,34.4,clear
+32,Arhar (Tur/Red Gram),Neeleswaram,2016-02-18,14500.0,1.0,36.8,clear
+33,Black Gram (Urd Beans),Neeleswaram,2016-02-18,15500.0,1.0,36.8,clear
+34,Arhar (Tur/Red Gram),Neeleswaram,2016-02-19,13000.0,2.0,34.4,clear
+35,Black Gram (Urd Beans),Neeleswaram,2016-02-19,15000.0,2.0,34.4,clear
+36,Arhar (Tur/Red Gram),Neeleswaram,2016-02-20,14500.0,2.0,33.6,clear
+37,Black Gram (Urd Beans),Neeleswaram,2016-02-20,15000.0,2.0,33.6,clear
+38,Arhar (Tur/Red Gram),Neeleswaram,2016-02-22,14000.0,2.0,31.8,clear
+39,Black Gram (Urd Beans),Neeleswaram,2016-02-22,15500.0,2.0,31.8,clear
+40,Arhar (Tur/Red Gram),Neeleswaram,2016-02-23,14500.0,1.0,32.8,clear
+41,Black Gram (Urd Beans),Neeleswaram,2016-02-23,15500.0,2.0,32.8,clear
+42,Arhar (Tur/Red Gram),Neeleswaram,2016-02-24,14000.0,2.0,32.0,clear
+43,Black Gram (Urd Beans),Neeleswaram,2016-02-24,15000.0,2.0,32.0,clear
+44,Arhar (Tur/Red Gram),Neeleswaram,2016-02-25,14000.0,2.0,33.0,clear
+45,Black Gram (Urd Beans),Neeleswaram,2016-02-25,15000.0,2.0,33.0,clear
+46,Arhar (Tur/Red Gram),Neeleswaram,2016-02-26,14000.0,2.0,33.8,clear
+47,Black Gram (Urd Beans),Neeleswaram,2016-02-26,15000.0,2.0,33.8,clear
+48,Arhar (Tur/Red Gram),Neeleswaram,2016-02-29,14000.0,2.0,32.6,clear
+49,Black Gram (Urd Beans),Neeleswaram,2016-02-29,15000.0,2.0,32.6,clear
+50,Arhar (Tur/Red Gram),Neeleswaram,2016-04-03,13000.0,2.0,36.4,clear
+51,Black Gram (Urd Beans),Neeleswaram,2016-04-03,14500.0,2.0,36.4,clear
+52,Arhar (Tur/Red Gram),Neeleswaram,2016-05-03,13500.0,2.0,34.6,clear
+53,Black Gram (Urd Beans),Neeleswaram,2016-05-03,15000.0,2.0,34.6,clear
+54,Arhar (Tur/Red Gram),Neeleswaram,2016-08-03,14000.0,2.0,28.8,rain
+55,Black Gram (Urd Beans),Neeleswaram,2016-08-03,15000.0,2.0,28.8,rain
+56,Arhar (Tur/Red Gram),Neeleswaram,2016-10-03,14000.0,2.0,30.0,clear
+57,Black Gram (Urd Beans),Neeleswaram,2016-10-03,15000.0,2.0,30.0,clear
+58,Arhar (Tur/Red Gram),Neeleswaram,2016-11-03,14000.0,1.0,32.0,clear
+59,Black Gram (Urd Beans),Neeleswaram,2016-11-03,15500.0,1.0,32.0,clear
+60,Arhar (Tur/Red Gram),Neeleswaram,2016-03-16,13500.0,1.0,33.2,clear
+61,Black Gram (Urd Beans),Neeleswaram,2016-03-16,15000.0,1.0,33.2,clear
+62,Arhar (Tur/Red Gram),Neeleswaram,2016-03-17,13000.0,1.0,34.2,clear
+63,Black Gram (Urd Beans),Neeleswaram,2016-03-17,15000.0,1.0,34.2,clear
+64,Arhar (Tur/Red Gram),Neeleswaram,2016-03-18,14000.0,2.0,33.6,clear
+65,Black Gram (Urd Beans),Neeleswaram,2016-03-18,15000.0,2.0,33.6,clear
+66,Arhar (Tur/Red Gram),Neeleswaram,2016-03-19,13500.0,2.0,33.2,clear
+67,Black Gram (Urd Beans),Neeleswaram,2016-03-19,14000.0,2.0,33.2,clear
+68,Arhar (Tur/Red Gram),Neeleswaram,2016-03-21,13500.0,2.0,34.6,clear
+69,Black Gram (Urd Beans),Neeleswaram,2016-03-21,15000.0,2.0,34.6,clear
+70,Arhar (Tur/Red Gram),Neeleswaram,2016-03-23,13000.0,2.0,33.8,clear
+71,Black Gram (Urd Beans),Neeleswaram,2016-03-23,15000.0,2.0,33.8,clear
+72,Arhar (Tur/Red Gram),Neeleswaram,2016-03-28,13000.0,2.0,34.6,clear
+73,Black Gram (Urd Beans),Neeleswaram,2016-03-28,15000.0,2.0,34.6,clear
+74,Arhar (Tur/Red Gram),Neeleswaram,2016-03-30,13000.0,1.0,34.6,clear
+75,Black Gram (Urd Beans),Neeleswaram,2016-03-30,14500.0,1.0,34.6,clear
+76,Arhar (Tur/Red Gram),Neeleswaram,2016-05-04,12500.0,1.0,34.6,clear
+77,Black Gram (Urd Beans),Neeleswaram,2016-05-04,14000.0,1.0,34.6,clear
+78,Arhar (Tur/Red Gram),Neeleswaram,2016-08-04,12000.0,1.0,28.4,clear
+79,Black Gram (Urd Beans),Neeleswaram,2016-08-04,15000.0,1.0,28.4,clear
+80,Arhar (Tur/Red Gram),Neeleswaram,2016-12-04,14000.0,2.0,33.4,clear
+81,Black Gram (Urd Beans),Neeleswaram,2016-12-04,15000.0,2.0,33.4,clear
+82,Arhar (Tur/Red Gram),Neeleswaram,2016-04-18,13000.0,2.0,34.2,clear
+83,Black Gram (Urd Beans),Neeleswaram,2016-04-18,17000.0,2.0,34.2,clear
+84,Arhar (Tur/Red Gram),Neeleswaram,2016-04-19,13500.0,2.0,34.6,clear
+85,Black Gram (Urd Beans),Neeleswaram,2016-04-19,17000.0,2.0,34.6,clear
+86,Arhar (Tur/Red Gram),Neeleswaram,2016-04-21,13000.0,2.0,34.2,clear
+87,Black Gram (Urd Beans),Neeleswaram,2016-04-21,17000.0,2.0,34.2,clear
+88,Arhar (Tur/Red Gram),Neeleswaram,2016-04-22,13000.0,2.0,34.2,clear
+89,Black Gram (Urd Beans),Neeleswaram,2016-04-22,17000.0,2.0,34.2,clear
+90,Arhar (Tur/Red Gram),Neeleswaram,2016-04-25,13000.0,2.0,34.2,clear
+91,Black Gram (Urd Beans),Neeleswaram,2016-04-25,17000.0,2.0,34.2,clear
+92,Arhar (Tur/Red Gram),Neeleswaram,2016-04-26,13000.0,1.0,34.4,clear
+93,Black Gram (Urd Beans),Neeleswaram,2016-04-26,17000.0,1.0,34.4,clear
+94,Arhar (Tur/Red Gram),Neeleswaram,2016-04-27,13000.0,2.0,34.6,clear
+95,Black Gram (Urd Beans),Neeleswaram,2016-04-27,17000.0,2.0,34.6,clear
+96,Arhar (Tur/Red Gram),Neeleswaram,2016-04-30,14000.0,2.0,35.6,clear
+97,Black Gram (Urd Beans),Neeleswaram,2016-04-30,17000.0,2.0,35.6,clear
+98,Arhar (Tur/Red Gram),Neeleswaram,2016-05-05,13000.0,2.0,34.8,clear
+99,Black Gram (Urd Beans),Neeleswaram,2016-05-05,17000.0,1.0,34.8,clear
+100,Arhar (Tur/Red Gram),Neeleswaram,2016-09-05,13000.0,1.0,29.0,rain
+101,Black Gram (Urd Beans),Neeleswaram,2016-09-05,17000.0,1.0,29.0,rain
+102,Arhar (Tur/Red Gram),Neeleswaram,2016-10-05,13000.0,1.0,29.4,clear
+103,Black Gram (Urd Beans),Neeleswaram,2016-10-05,16500.0,1.0,29.4,clear
+104,Arhar (Tur/Red Gram),Neeleswaram,2016-11-05,12500.0,1.0,31.6,clear
+105,Black Gram (Urd Beans),Neeleswaram,2016-11-05,18000.0,1.0,31.6,clear
+106,Arhar (Tur/Red Gram),Neeleswaram,2016-05-13,16500.0,1.0,33.6,clear
+107,Black Gram (Urd Beans),Neeleswaram,2016-05-13,17000.0,1.0,33.6,clear
+108,Arhar (Tur/Red Gram),Neeleswaram,2016-05-17,12000.0,1.0,31.8,rain
+109,Black Gram (Urd Beans),Neeleswaram,2016-05-17,16000.0,1.0,31.8,rain
+110,Arhar (Tur/Red Gram),Neeleswaram,2016-05-18,13000.0,1.0,32.0,clear
+111,Black Gram (Urd Beans),Neeleswaram,2016-05-18,16000.0,1.0,32.0,clear
+112,Arhar (Tur/Red Gram),Neeleswaram,2016-05-19,14000.0,2.0,33.4,clear
+113,Black Gram (Urd Beans),Neeleswaram,2016-05-19,17000.0,2.0,33.4,clear
+114,Arhar (Tur/Red Gram),Neeleswaram,2016-05-21,13000.0,1.0,34.4,clear
+115,Black Gram (Urd Beans),Neeleswaram,2016-05-21,17000.0,1.0,34.4,clear
+116,Arhar (Tur/Red Gram),Neeleswaram,2016-05-23,13000.0,1.0,34.4,clear
+117,Black Gram (Urd Beans),Neeleswaram,2016-05-23,17000.0,1.0,34.4,clear
+118,Arhar (Tur/Red Gram),Neeleswaram,2016-05-25,13000.0,1.0,33.8,clear
+119,Black Gram (Urd Beans),Neeleswaram,2016-05-25,17000.0,1.0,33.8,clear
+120,Arhar (Tur/Red Gram),Neeleswaram,2016-05-27,12000.0,1.0,33.6,rain
+121,Black Gram (Urd Beans),Neeleswaram,2016-05-27,16000.0,1.0,33.6,rain
+122,Arhar (Tur/Red Gram),Neeleswaram,2016-05-31,12000.0,1.0,33.2,rain
+123,Black Gram (Urd Beans),Neeleswaram,2016-05-31,16000.0,1.0,33.2,rain
+124,Arhar (Tur/Red Gram),Neeleswaram,2016-04-06,12000.0,1.0,34.2,clear
+125,Black Gram (Urd Beans),Neeleswaram,2016-04-06,17000.0,1.0,34.2,clear
+126,Arhar (Tur/Red Gram),Neeleswaram,2016-06-06,13000.0,1.0,30.0,clear
+127,Black Gram (Urd Beans),Neeleswaram,2016-06-06,17000.0,1.0,30.0,clear
+128,Arhar (Tur/Red Gram),Neeleswaram,2016-07-06,12000.0,1.0,27.6,rain
+129,Black Gram (Urd Beans),Neeleswaram,2016-07-06,16000.0,1.0,27.6,rain
+130,Arhar (Tur/Red Gram),Neeleswaram,2016-09-06,12000.0,1.0,27.4,clear
+131,Black Gram (Urd Beans),Neeleswaram,2016-09-06,17000.0,1.0,27.4,clear
+132,Arhar (Tur/Red Gram),Neeleswaram,2016-06-13,12000.0,1.0,29.6,rain
+133,Black Gram (Urd Beans),Neeleswaram,2016-06-13,16000.0,1.0,29.6,rain
+134,Arhar (Tur/Red Gram),Neeleswaram,2016-06-14,11000.0,1.0,30.6,clear
+135,Black Gram (Urd Beans),Neeleswaram,2016-06-14,17000.0,1.0,30.6,clear
+136,Arhar (Tur/Red Gram),Neeleswaram,2016-06-15,11000.0,1.0,31.0,rain
+137,Black Gram (Urd Beans),Neeleswaram,2016-06-15,16000.0,1.0,31.0,rain
+138,Arhar (Tur/Red Gram),Neeleswaram,2016-06-16,12000.0,1.0,28.4,clear
+139,Black Gram (Urd Beans),Neeleswaram,2016-06-16,15000.0,1.0,28.4,clear
+140,Arhar (Tur/Red Gram),Neeleswaram,2016-06-17,14000.0,1.0,29.4,rain
+141,Black Gram (Urd Beans),Neeleswaram,2016-06-17,18000.0,1.0,29.4,rain
+142,Arhar (Tur/Red Gram),Neeleswaram,2016-06-20,16000.0,1.0,27.4,rain
+143,Black Gram (Urd Beans),Neeleswaram,2016-06-20,17000.0,1.0,27.4,rain
+144,Arhar (Tur/Red Gram),Neeleswaram,2016-06-21,13000.0,0.5,25.2,clear
+145,Black Gram (Urd Beans),Neeleswaram,2016-06-21,17000.0,1.0,25.2,clear
+146,Arhar (Tur/Red Gram),Neeleswaram,2016-06-22,13500.0,1.0,26.4,clear
+147,Black Gram (Urd Beans),Neeleswaram,2016-06-22,17000.0,1.0,26.4,clear
+148,Arhar (Tur/Red Gram),Neeleswaram,2016-06-23,13000.0,1.0,24.6,clear
+149,Black Gram (Urd Beans),Neeleswaram,2016-06-23,17000.0,1.0,24.6,clear
+150,Arhar (Tur/Red Gram),Neeleswaram,2016-06-28,13000.0,1.0,27.0,rain
+151,Black Gram (Urd Beans),Neeleswaram,2016-06-28,17000.0,1.0,27.0,rain
+152,Arhar (Tur/Red Gram),Neeleswaram,2016-06-29,13000.0,1.0,25.4,clear
+153,Black Gram (Urd Beans),Neeleswaram,2016-06-29,17000.0,1.0,25.4,clear
+154,Arhar (Tur/Red Gram),Neeleswaram,2016-06-30,13000.0,1.0,27.4,clear
+155,Black Gram (Urd Beans),Neeleswaram,2016-06-30,17000.0,1.0,27.4,clear
+156,Arhar (Tur/Red Gram),Neeleswaram,2016-01-07,13000.0,1.0,33.4,clear
+157,Black Gram (Urd Beans),Neeleswaram,2016-01-07,17000.0,1.0,33.4,clear
+158,Arhar (Tur/Red Gram),Neeleswaram,2016-02-07,16000.0,2.0,31.6,clear
+159,Arhar (Tur/Red Gram),Neeleswaram,2016-04-07,12000.0,1.0,35.4,clear
+160,Black Gram (Urd Beans),Neeleswaram,2016-04-07,17000.0,1.0,35.4,clear
+161,Arhar (Tur/Red Gram),Neeleswaram,2016-07-07,13000.0,1.0,28.8,clear
+162,Black Gram (Urd Beans),Neeleswaram,2016-07-07,17000.0,1.0,28.8,clear
+163,Arhar (Tur/Red Gram),Neeleswaram,2016-11-07,13000.0,1.0,32.2,clear
+164,Black Gram (Urd Beans),Neeleswaram,2016-11-07,17000.0,1.0,32.2,clear
+165,Arhar (Tur/Red Gram),Neeleswaram,2016-07-13,12000.0,1.0,27.2,rain
+166,Black Gram (Urd Beans),Neeleswaram,2016-07-13,17000.0,1.0,27.2,rain
+167,Arhar (Tur/Red Gram),Neeleswaram,2016-07-14,13000.0,2.0,29.4,clear
+168,Black Gram (Urd Beans),Neeleswaram,2016-07-14,17000.0,2.0,29.4,clear
+169,Arhar (Tur/Red Gram),Neeleswaram,2016-07-15,11000.0,1.0,29.6,rain
+170,Black Gram (Urd Beans),Neeleswaram,2016-07-15,17000.0,1.0,29.6,rain
+171,Arhar (Tur/Red Gram),Neeleswaram,2016-07-16,13000.0,1.0,30.4,clear
+172,Black Gram (Urd Beans),Neeleswaram,2016-07-16,17000.0,1.0,30.4,clear
+173,Arhar (Tur/Red Gram),Neeleswaram,2016-07-18,13000.0,1.0,28.0,rain
+174,Black Gram (Urd Beans),Neeleswaram,2016-07-18,17000.0,1.0,28.0,rain
+175,Arhar (Tur/Red Gram),Neeleswaram,2016-07-19,12000.0,2.0,29.4,clear
+176,Black Gram (Urd Beans),Neeleswaram,2016-07-19,17000.0,1.0,29.4,clear
+177,Arhar (Tur/Red Gram),Neeleswaram,2016-07-20,12000.0,1.0,25.6,rain
+178,Black Gram (Urd Beans),Neeleswaram,2016-07-20,16000.0,1.0,25.6,rain
+179,Arhar (Tur/Red Gram),Neeleswaram,2016-07-21,12000.0,1.0,28.0,clear
+180,Black Gram (Urd Beans),Neeleswaram,2016-07-21,14000.0,1.0,28.0,clear
+181,Arhar (Tur/Red Gram),Neeleswaram,2016-07-25,12000.0,1.0,28.0,clear
+182,Black Gram (Urd Beans),Neeleswaram,2016-07-25,17000.0,1.0,28.0,clear
+183,Arhar (Tur/Red Gram),Neeleswaram,2016-07-26,13000.0,1.0,28.8,clear
+184,Black Gram (Urd Beans),Neeleswaram,2016-07-26,17000.0,1.0,28.8,clear
+185,Arhar (Tur/Red Gram),Neeleswaram,2016-07-28,13000.0,1.0,29.0,rain
+186,Black Gram (Urd Beans),Neeleswaram,2016-07-28,17000.0,1.0,29.0,rain
+187,Arhar (Tur/Red Gram),Neeleswaram,2016-01-08,12000.0,1.0,31.0,clear
+188,Black Gram (Urd Beans),Neeleswaram,2016-01-08,17000.0,2.0,31.0,clear
+189,Arhar (Tur/Red Gram),Neeleswaram,2016-04-08,13000.0,1.0,34.6,clear
+190,Black Gram (Urd Beans),Neeleswaram,2016-04-08,16000.0,2.0,34.6,clear
+191,Arhar (Tur/Red Gram),Neeleswaram,2016-05-08,12000.0,1.0,35.0,clear
+192,Black Gram (Urd Beans),Neeleswaram,2016-05-08,16000.0,1.0,35.0,clear
+193,Arhar (Tur/Red Gram),Neeleswaram,2016-09-08,13000.0,1.0,27.4,clear
+194,Black Gram (Urd Beans),Neeleswaram,2016-09-08,17000.0,2.0,27.4,clear
+195,Arhar (Tur/Red Gram),Neeleswaram,2016-10-08,12000.0,1.0,29.4,clear
+196,Black Gram (Urd Beans),Neeleswaram,2016-10-08,17000.0,1.0,29.4,clear
+197,Arhar (Tur/Red Gram),Neeleswaram,2016-11-08,13000.0,1.0,31.2,clear
+198,Arhar (Tur/Red Gram),Neeleswaram,2016-12-08,13000.0,1.0,31.8,clear
+199,Black Gram (Urd Beans),Neeleswaram,2016-12-08,17000.0,2.0,31.8,clear
+200,Arhar (Tur/Red Gram),Neeleswaram,2016-08-16,12000.0,2.0,28.4,clear
+201,Black Gram (Urd Beans),Neeleswaram,2016-08-16,17000.0,2.0,28.4,clear
+202,Arhar (Tur/Red Gram),Neeleswaram,2016-08-17,12000.0,1.0,28.0,clear
+203,Black Gram (Urd Beans),Neeleswaram,2016-08-17,16000.0,2.0,28.0,clear
+204,Arhar (Tur/Red Gram),Neeleswaram,2016-08-19,13000.0,2.0,29.0,clear
+205,Black Gram (Urd Beans),Neeleswaram,2016-08-19,17000.0,2.0,29.0,clear
+206,Arhar (Tur/Red Gram),Neeleswaram,2016-08-22,13000.0,2.0,29.2,clear
+207,Black Gram (Urd Beans),Neeleswaram,2016-08-22,17000.0,2.0,29.2,clear
+208,Arhar (Tur/Red Gram),Neeleswaram,2016-08-25,13000.0,2.0,27.2,clear
+209,Arhar (Tur/Red Gram),Neeleswaram,2016-08-26,13000.0,1.0,28.2,rain
+210,Black Gram (Urd Beans),Neeleswaram,2016-08-26,17000.0,2.0,28.2,rain
+211,Arhar (Tur/Red Gram),Neeleswaram,2016-08-29,13000.0,2.0,26.6,rain
+212,Black Gram (Urd Beans),Neeleswaram,2016-08-29,16000.0,2.0,26.6,rain
+213,Arhar (Tur/Red Gram),Neeleswaram,2016-08-30,12000.0,2.0,25.4,clear
+214,Black Gram (Urd Beans),Neeleswaram,2016-08-30,17000.0,2.0,25.4,clear
+215,Arhar (Tur/Red Gram),Neeleswaram,2016-08-31,13000.0,2.0,27.6,clear
+216,Black Gram (Urd Beans),Neeleswaram,2016-08-31,17000.0,2.0,27.6,clear
+217,Arhar (Tur/Red Gram),Neeleswaram,2016-01-09,12000.0,1.0,33.4,clear
+218,Black Gram (Urd Beans),Neeleswaram,2016-01-09,17000.0,1.0,33.4,clear
+219,Arhar (Tur/Red Gram),Neeleswaram,2016-06-09,12000.0,1.0,30.0,rain
+220,Black Gram (Urd Beans),Neeleswaram,2016-06-09,16000.0,1.0,30.0,rain
+221,Arhar (Tur/Red Gram),Neeleswaram,2016-08-09,12000.0,1.0,29.4,clear
+222,Black Gram (Urd Beans),Neeleswaram,2016-08-09,16000.0,2.0,29.4,clear
+223,Arhar (Tur/Red Gram),Neeleswaram,2016-09-09,12000.0,2.0,29.6,clear
+224,Arhar (Tur/Red Gram),Neeleswaram,2016-09-17,12000.0,1.0,29.4,clear
+225,Black Gram (Urd Beans),Neeleswaram,2016-09-17,16000.0,1.0,29.4,clear
+226,Arhar (Tur/Red Gram),Neeleswaram,2016-09-20,12000.0,2.0,29.0,clear
+227,Black Gram (Urd Beans),Neeleswaram,2016-09-20,16000.0,2.0,29.0,clear
+228,Arhar (Tur/Red Gram),Neeleswaram,2016-09-22,11000.0,1.0,27.6,clear
+229,Black Gram (Urd Beans),Neeleswaram,2016-09-22,16000.0,1.0,27.6,clear
+230,Arhar (Tur/Red Gram),Neeleswaram,2016-09-23,12000.0,2.0,28.4,rain
+231,Black Gram (Urd Beans),Neeleswaram,2016-09-23,16000.0,2.0,28.4,rain
+232,Arhar (Tur/Red Gram),Neeleswaram,2016-09-26,12000.0,2.0,28.2,clear
+233,Black Gram (Urd Beans),Neeleswaram,2016-09-26,17000.0,2.0,28.2,clear
+234,Arhar (Tur/Red Gram),Neeleswaram,2016-09-27,13000.0,1.0,28.8,clear
+235,Black Gram (Urd Beans),Neeleswaram,2016-09-27,17000.0,2.0,28.8,clear
+236,Arhar (Tur/Red Gram),Neeleswaram,2016-09-28,12000.0,2.0,28.6,clear
+237,Black Gram (Urd Beans),Neeleswaram,2016-09-28,16000.0,2.0,28.6,clear
+238,Arhar (Tur/Red Gram),Neeleswaram,2016-09-29,12000.0,2.0,28.8,clear
+239,Black Gram (Urd Beans),Neeleswaram,2016-09-29,16000.0,2.0,28.8,clear
+240,Arhar (Tur/Red Gram),Neeleswaram,2016-09-30,13000.0,1.0,29.6,clear
+241,Black Gram (Urd Beans),Neeleswaram,2016-09-30,16000.0,1.0,29.6,clear
+242,Arhar (Tur/Red Gram),Neeleswaram,2016-05-10,12000.0,1.0,35.2,clear
+243,Black Gram (Urd Beans),Neeleswaram,2016-05-10,16500.0,1.0,35.2,clear
+244,Arhar (Tur/Red Gram),Neeleswaram,2016-06-10,13000.0,2.0,30.8,rain
+245,Black Gram (Urd Beans),Neeleswaram,2016-06-10,17000.0,1.0,30.8,rain
+246,Arhar (Tur/Red Gram),Neeleswaram,2016-10-20,13000.0,2.0,30.8,clear
+247,Black Gram (Urd Beans),Neeleswaram,2016-10-20,17000.0,2.0,30.8,clear
+248,Arhar (Tur/Red Gram),Neeleswaram,2016-10-21,13000.0,1.0,31.0,clear
+249,Black Gram (Urd Beans),Neeleswaram,2016-10-21,16000.0,1.0,31.0,clear
+250,Arhar (Tur/Red Gram),Neeleswaram,2016-10-24,13000.0,1.0,29.6,clear
+251,Black Gram (Urd Beans),Neeleswaram,2016-10-24,16000.0,1.0,29.6,clear
+252,Arhar (Tur/Red Gram),Neeleswaram,2016-10-25,12200.0,2.0,31.2,clear
+253,Black Gram (Urd Beans),Neeleswaram,2016-10-25,16500.0,2.0,31.2,clear
+254,Arhar (Tur/Red Gram),Neeleswaram,2016-10-26,12400.0,1.0,31.6,clear
+255,Black Gram (Urd Beans),Neeleswaram,2016-10-26,17000.0,2.0,31.6,clear
+256,Arhar (Tur/Red Gram),Neeleswaram,2016-10-27,12200.0,1.0,31.6,clear
+257,Black Gram (Urd Beans),Neeleswaram,2016-10-27,16500.0,2.0,31.6,clear
+258,Arhar (Tur/Red Gram),Neeleswaram,2016-10-28,12200.0,1.0,31.4,clear
+259,Black Gram (Urd Beans),Neeleswaram,2016-10-28,16500.0,2.0,31.4,clear
+260,Arhar (Tur/Red Gram),Neeleswaram,2016-10-31,12200.0,2.0,30.8,clear
+261,Black Gram (Urd Beans),Neeleswaram,2016-10-31,16500.0,2.0,30.8,clear
+262,Arhar (Tur/Red Gram),Neeleswaram,2016-03-11,12200.0,2.0,33.6,clear
+263,Black Gram (Urd Beans),Neeleswaram,2016-03-11,13000.0,2.0,33.6,clear
+264,Arhar (Tur/Red Gram),Neeleswaram,2016-04-11,12600.0,2.0,33.8,clear
+265,Black Gram (Urd Beans),Neeleswaram,2016-04-11,13000.0,2.0,33.8,clear
+266,Arhar (Tur/Red Gram),Neeleswaram,2016-05-11,12200.0,1.0,33.4,rain
+267,Black Gram (Urd Beans),Neeleswaram,2016-05-11,13000.0,2.0,33.4,rain
+268,Arhar (Tur/Red Gram),Neeleswaram,2016-08-11,12400.0,2.0,29.0,clear
+269,Black Gram (Urd Beans),Neeleswaram,2016-08-11,13000.0,2.0,29.0,clear
+270,Arhar (Tur/Red Gram),Neeleswaram,2016-09-11,12600.0,2.0,30.0,clear
+271,Black Gram (Urd Beans),Neeleswaram,2016-09-11,13000.0,2.0,30.0,clear
+272,Arhar (Tur/Red Gram),Neeleswaram,2016-10-11,12200.0,2.0,29.0,clear
+273,Black Gram (Urd Beans),Neeleswaram,2016-10-11,13000.0,2.0,29.0,clear
+274,Arhar (Tur/Red Gram),Neeleswaram,2016-11-11,11400.0,2.0,31.8,clear
+275,Black Gram (Urd Beans),Neeleswaram,2016-11-11,12400.0,2.0,31.8,clear
+276,Arhar (Tur/Red Gram),Neeleswaram,2016-11-14,11400.0,2.0,32.6,rain
+277,Black Gram (Urd Beans),Neeleswaram,2016-11-14,12400.0,2.0,32.6,rain
+278,Arhar (Tur/Red Gram),Neeleswaram,2016-11-15,11400.0,2.0,32.8,clear
+279,Black Gram (Urd Beans),Neeleswaram,2016-11-15,12400.0,2.0,32.8,clear
+280,Arhar (Tur/Red Gram),Neeleswaram,2016-11-17,12400.0,2.0,33.4,clear
+281,Black Gram (Urd Beans),Neeleswaram,2016-11-17,11400.0,2.0,33.4,clear
+282,Arhar (Tur/Red Gram),Neeleswaram,2016-11-19,12600.0,2.0,34.4,clear
+283,Black Gram (Urd Beans),Neeleswaram,2016-11-19,11400.0,2.0,34.4,clear
+284,Arhar (Tur/Red Gram),Neeleswaram,2016-11-21,12400.0,2.0,33.2,clear
+285,Black Gram (Urd Beans),Neeleswaram,2016-11-21,11400.0,2.0,33.2,clear
+286,Arhar (Tur/Red Gram),Neeleswaram,2016-11-23,12400.0,2.0,33.0,clear
+287,Black Gram (Urd Beans),Neeleswaram,2016-11-23,11400.0,2.0,33.0,clear
+288,Arhar (Tur/Red Gram),Neeleswaram,2016-11-24,12200.0,2.0,35.0,clear
+289,Black Gram (Urd Beans),Neeleswaram,2016-11-24,11400.0,2.0,35.0,clear
+290,Arhar (Tur/Red Gram),Neeleswaram,2016-11-25,12400.0,2.0,34.4,clear
+291,Black Gram (Urd Beans),Neeleswaram,2016-11-25,11400.0,2.0,34.4,clear
+292,Arhar (Tur/Red Gram),Neeleswaram,2016-11-26,12400.0,2.0,32.0,clear
+293,Black Gram (Urd Beans),Neeleswaram,2016-11-26,11400.0,2.0,32.0,clear
+294,Arhar (Tur/Red Gram),Neeleswaram,2016-11-29,11600.0,2.0,32.2,clear
+295,Black Gram (Urd Beans),Neeleswaram,2016-11-29,11600.0,2.0,32.2,clear
+296,Arhar (Tur/Red Gram),Neeleswaram,2016-11-30,11600.0,2.0,30.0,clear
+297,Black Gram (Urd Beans),Neeleswaram,2016-11-30,11800.0,2.0,30.0,clear
+298,Arhar (Tur/Red Gram),Neeleswaram,2016-01-12,11800.0,2.0,32.2,clear
+299,Black Gram (Urd Beans),Neeleswaram,2016-01-12,11500.0,2.0,32.2,clear
+300,Arhar (Tur/Red Gram),Neeleswaram,2016-02-12,11600.0,2.0,30.8,clear
+301,Black Gram (Urd Beans),Neeleswaram,2016-02-12,11400.0,2.0,30.8,clear
+302,Arhar (Tur/Red Gram),Neeleswaram,2016-03-12,11600.0,2.0,34.4,clear
+303,Black Gram (Urd Beans),Neeleswaram,2016-03-12,11400.0,2.0,34.4,clear
+304,Arhar (Tur/Red Gram),Neeleswaram,2016-05-12,11600.0,2.0,32.8,rain
+305,Black Gram (Urd Beans),Neeleswaram,2016-05-12,11400.0,2.0,32.8,rain
+306,Arhar (Tur/Red Gram),Neeleswaram,2016-07-12,11600.0,2.0,28.2,rain
+307,Black Gram (Urd Beans),Neeleswaram,2016-07-12,11400.0,2.0,28.2,rain
+308,Arhar (Tur/Red Gram),Neeleswaram,2016-09-12,11600.0,2.0,30.0,rain
+309,Black Gram (Urd Beans),Neeleswaram,2016-09-12,11400.0,2.0,30.0,rain
+310,Arhar (Tur/Red Gram),Neeleswaram,2016-12-13,11600.0,2.0,27.6,clear
+311,Black Gram (Urd Beans),Neeleswaram,2016-12-13,11400.0,2.0,27.6,clear
+312,Arhar (Tur/Red Gram),Neeleswaram,2016-12-14,11600.0,2.0,28.0,clear
+313,Black Gram (Urd Beans),Neeleswaram,2016-12-14,11400.0,2.0,28.0,clear
+314,Arhar (Tur/Red Gram),Neeleswaram,2016-12-15,11300.0,2.0,33.4,clear
+315,Black Gram (Urd Beans),Neeleswaram,2016-12-15,11600.0,2.0,33.4,clear
+316,Arhar (Tur/Red Gram),Neeleswaram,2016-12-16,11400.0,2.0,32.2,clear
+317,Black Gram (Urd Beans),Neeleswaram,2016-12-16,11600.0,2.0,32.2,clear
+318,Arhar (Tur/Red Gram),Neeleswaram,2016-12-17,11000.0,2.0,32.4,clear
+319,Black Gram (Urd Beans),Neeleswaram,2016-12-17,11400.0,2.0,32.4,clear
+320,Arhar (Tur/Red Gram),Neeleswaram,2016-12-19,10000.0,2.0,33.2,clear
+321,Black Gram (Urd Beans),Neeleswaram,2016-12-19,11600.0,2.0,33.2,clear
+322,Arhar (Tur/Red Gram),Neeleswaram,2016-12-20,10000.0,2.0,35.0,clear
+323,Black Gram (Urd Beans),Neeleswaram,2016-12-20,11400.0,2.0,35.0,clear
+324,Arhar (Tur/Red Gram),Neeleswaram,2016-12-21,10000.0,2.0,34.2,clear
+325,Black Gram (Urd Beans),Neeleswaram,2016-12-21,11400.0,2.0,34.2,clear
+326,Arhar (Tur/Red Gram),Neeleswaram,2016-12-23,9900.0,2.0,32.6,clear
+327,Black Gram (Urd Beans),Neeleswaram,2016-12-23,11400.0,2.0,32.6,clear
+328,Arhar (Tur/Red Gram),Neeleswaram,2016-12-24,10000.0,2.0,32.4,clear
+329,Black Gram (Urd Beans),Neeleswaram,2016-12-24,11400.0,2.0,32.4,clear
+330,Arhar (Tur/Red Gram),Neeleswaram,2016-12-26,10000.0,2.0,30.6,clear
+331,Black Gram (Urd Beans),Neeleswaram,2016-12-26,11400.0,2.0,30.6,clear
+332,Arhar (Tur/Red Gram),Neeleswaram,2016-12-27,10000.0,2.0,33.0,clear
+333,Black Gram (Urd Beans),Neeleswaram,2016-12-27,11400.0,2.0,33.0,clear
+334,Arhar (Tur/Red Gram),Neeleswaram,2016-12-28,10000.0,2.0,35.0,clear
+335,Black Gram (Urd Beans),Neeleswaram,2016-12-28,11400.0,2.0,35.0,clear
+336,Arhar (Tur/Red Gram),Neeleswaram,2016-12-29,10000.0,2.0,33.8,clear
+337,Black Gram (Urd Beans),Neeleswaram,2016-12-29,11400.0,2.0,33.8,clear
+338,Black Gram (Urd Beans),Neeleswaram,2016-01-03,15500.0,2.0,33.8,clear
+339,Black Gram (Urd Beans),Neeleswaram,2016-03-03,15500.0,2.0,34.8,clear
+340,Black Gram (Urd Beans),Neeleswaram,2016-09-03,15000.0,2.0,29.4,rain
+341,Black Gram (Urd Beans),Neeleswaram,2016-02-04,14500.0,2.0,31.2,clear
+342,Black Gram (Urd Beans),Neeleswaram,2016-02-05,17000.0,2.0,32.0,clear
+343,Black Gram (Urd Beans),Neeleswaram,2016-03-05,17000.0,2.0,33.8,clear
+344,Black Gram (Urd Beans),Neeleswaram,2016-04-05,17000.0,1.0,34.2,clear
+345,Black Gram (Urd Beans),Neeleswaram,2016-01-06,17000.0,1.0,34.0,clear
+346,Black Gram (Urd Beans),Neeleswaram,2016-02-06,17000.0,1.0,30.6,clear
+347,Black Gram (Urd Beans),Neeleswaram,2016-03-06,17000.0,1.0,34.2,clear
+348,Black Gram (Urd Beans),Neeleswaram,2016-12-22,11400.0,2.0,34.2,clear
+349,Arhar (Tur/Red Gram),Neeleswaram,2017-04-01,11400.0,2.0,33.8,clear
+350,Black Gram (Urd Beans),Neeleswaram,2017-04-01,11600.0,2.0,33.8,clear
+351,Arhar (Tur/Red Gram),Neeleswaram,2017-05-01,11400.0,2.0,33.6,clear
+352,Black Gram (Urd Beans),Neeleswaram,2017-05-01,11600.0,2.0,33.6,clear
+353,Arhar (Tur/Red Gram),Neeleswaram,2017-06-01,11400.0,2.0,27.4,clear
+354,Black Gram (Urd Beans),Neeleswaram,2017-06-01,11600.0,2.0,27.4,clear
+355,Arhar (Tur/Red Gram),Neeleswaram,2017-07-01,11400.0,2.0,29.8,clear
+356,Black Gram (Urd Beans),Neeleswaram,2017-07-01,11600.0,2.0,29.8,clear
+357,Arhar (Tur/Red Gram),Neeleswaram,2017-09-01,11400.0,2.0,30.0,clear
+358,Black Gram (Urd Beans),Neeleswaram,2017-09-01,11600.0,2.0,30.0,clear
+359,Arhar (Tur/Red Gram),Neeleswaram,2017-12-01,11500.0,2.0,33.0,clear
+360,Black Gram (Urd Beans),Neeleswaram,2017-12-01,11700.0,2.0,33.0,clear
+361,Arhar (Tur/Red Gram),Neeleswaram,2017-01-13,11500.0,2.0,32.0,clear
+362,Black Gram (Urd Beans),Neeleswaram,2017-01-13,11700.0,2.0,32.0,clear
+363,Arhar (Tur/Red Gram),Neeleswaram,2017-01-17,11500.0,2.0,31.4,clear
+364,Black Gram (Urd Beans),Neeleswaram,2017-01-17,11700.0,2.0,31.4,clear
+365,Arhar (Tur/Red Gram),Neeleswaram,2017-01-18,11500.0,2.0,34.2,clear
+366,Black Gram (Urd Beans),Neeleswaram,2017-01-18,11700.0,2.0,34.2,clear
+367,Arhar (Tur/Red Gram),Neeleswaram,2017-01-19,11500.0,2.0,33.2,clear
+368,Black Gram (Urd Beans),Neeleswaram,2017-01-19,11700.0,2.0,33.2,clear
+369,Arhar (Tur/Red Gram),Neeleswaram,2017-01-20,11500.0,2.0,32.6,clear
+370,Black Gram (Urd Beans),Neeleswaram,2017-01-20,11800.0,2.0,32.6,clear
+371,Arhar (Tur/Red Gram),Neeleswaram,2017-01-21,11500.0,2.0,36.2,clear
+372,Black Gram (Urd Beans),Neeleswaram,2017-01-21,11700.0,2.0,36.2,clear
+373,Arhar (Tur/Red Gram),Neeleswaram,2017-01-23,11500.0,2.0,36.0,clear
+374,Black Gram (Urd Beans),Neeleswaram,2017-01-23,11800.0,2.0,36.0,clear
+375,Arhar (Tur/Red Gram),Neeleswaram,2017-01-24,8000.0,2.0,33.8,clear
+376,Black Gram (Urd Beans),Neeleswaram,2017-01-24,10200.0,2.0,33.8,clear
+377,Arhar (Tur/Red Gram),Neeleswaram,2017-01-25,8000.0,2.0,34.0,clear
+378,Black Gram (Urd Beans),Neeleswaram,2017-01-25,10200.0,2.0,34.0,clear
+379,Arhar (Tur/Red Gram),Neeleswaram,2017-01-27,8000.0,2.0,32.8,clear
+380,Black Gram (Urd Beans),Neeleswaram,2017-01-27,10200.0,2.0,32.8,clear
+381,Arhar (Tur/Red Gram),Neeleswaram,2017-01-28,8000.0,2.0,33.0,clear
+382,Black Gram (Urd Beans),Neeleswaram,2017-01-28,10200.0,2.0,33.0,clear
+383,Arhar (Tur/Red Gram),Neeleswaram,2017-01-30,8000.0,2.0,33.2,clear
+384,Black Gram (Urd Beans),Neeleswaram,2017-01-30,10200.0,2.0,33.2,clear
+385,Arhar (Tur/Red Gram),Neeleswaram,2017-01-31,7600.0,2.0,33.0,clear
+386,Black Gram (Urd Beans),Neeleswaram,2017-01-31,9600.0,2.0,33.0,clear
+387,Arhar (Tur/Red Gram),Neeleswaram,2017-01-02,7600.0,2.0,31.6,clear
+388,Black Gram (Urd Beans),Neeleswaram,2017-01-02,9600.0,2.0,31.6,clear
+389,Arhar (Tur/Red Gram),Neeleswaram,2017-02-02,7600.0,2.0,32.6,clear
+390,Black Gram (Urd Beans),Neeleswaram,2017-02-02,9600.0,2.0,32.6,clear
+391,Arhar (Tur/Red Gram),Neeleswaram,2017-03-02,7600.0,2.0,34.0,clear
+392,Black Gram (Urd Beans),Neeleswaram,2017-03-02,9600.0,2.0,34.0,clear
+393,Arhar (Tur/Red Gram),Neeleswaram,2017-04-02,7800.0,2.0,33.4,clear
+394,Black Gram (Urd Beans),Neeleswaram,2017-04-02,9800.0,2.0,33.4,clear
+395,Arhar (Tur/Red Gram),Neeleswaram,2017-06-02,7800.0,2.0,30.6,rain
+396,Black Gram (Urd Beans),Neeleswaram,2017-06-02,9800.0,2.0,30.6,rain
+397,Arhar (Tur/Red Gram),Neeleswaram,2017-07-02,7800.0,2.0,28.6,rain
+398,Black Gram (Urd Beans),Neeleswaram,2017-07-02,9800.0,2.0,28.6,rain
+399,Arhar (Tur/Red Gram),Neeleswaram,2017-08-02,7800.0,2.0,29.4,rain
+400,Black Gram (Urd Beans),Neeleswaram,2017-08-02,9800.0,2.0,29.4,rain
+401,Arhar (Tur/Red Gram),Neeleswaram,2017-09-02,7800.0,2.0,30.6,clear
+402,Black Gram (Urd Beans),Neeleswaram,2017-09-02,9600.0,2.0,30.6,clear
+403,Arhar (Tur/Red Gram),Neeleswaram,2017-10-02,7800.0,2.0,28.8,rain
+404,Black Gram (Urd Beans),Neeleswaram,2017-10-02,9800.0,2.0,28.8,rain
+405,Arhar (Tur/Red Gram),Neeleswaram,2017-02-13,7800.0,2.0,34.6,clear
+406,Arhar (Tur/Red Gram),Neeleswaram,2017-02-14,7800.0,2.0,34.6,clear
+407,Black Gram (Urd Beans),Neeleswaram,2017-02-14,9800.0,2.0,34.6,clear
+408,Arhar (Tur/Red Gram),Neeleswaram,2017-02-15,7800.0,2.0,37.0,clear
+409,Black Gram (Urd Beans),Neeleswaram,2017-02-15,9800.0,2.0,37.0,clear
+410,Arhar (Tur/Red Gram),Neeleswaram,2017-02-16,7800.0,2.0,36.0,clear
+411,Black Gram (Urd Beans),Neeleswaram,2017-02-16,9800.0,2.0,36.0,clear
+412,Arhar (Tur/Red Gram),Neeleswaram,2017-02-17,7800.0,2.0,34.4,clear
+413,Black Gram (Urd Beans),Neeleswaram,2017-02-17,9800.0,2.0,34.4,clear
+414,Arhar (Tur/Red Gram),Neeleswaram,2017-02-18,7800.0,2.0,36.4,clear
+415,Black Gram (Urd Beans),Neeleswaram,2017-02-18,9800.0,2.0,36.4,clear
+416,Arhar (Tur/Red Gram),Neeleswaram,2017-02-20,8000.0,2.0,32.4,clear
+417,Black Gram (Urd Beans),Neeleswaram,2017-02-20,10000.0,2.0,32.4,clear
+418,Arhar (Tur/Red Gram),Neeleswaram,2017-02-21,8000.0,2.0,31.6,clear
+419,Black Gram (Urd Beans),Neeleswaram,2017-02-21,10000.0,2.0,31.6,clear
+420,Arhar (Tur/Red Gram),Neeleswaram,2017-02-22,8000.0,2.0,33.0,clear
+421,Black Gram (Urd Beans),Neeleswaram,2017-02-22,10000.0,2.0,33.0,clear
+422,Arhar (Tur/Red Gram),Neeleswaram,2017-02-23,8000.0,2.0,33.6,clear
+423,Black Gram (Urd Beans),Neeleswaram,2017-02-23,10000.0,2.0,33.6,clear
+424,Arhar (Tur/Red Gram),Neeleswaram,2017-02-25,8000.0,2.0,33.0,clear
+425,Black Gram (Urd Beans),Neeleswaram,2017-02-25,10000.0,2.0,33.0,clear
+426,Arhar (Tur/Red Gram),Neeleswaram,2017-02-27,8000.0,2.0,33.8,clear
+427,Black Gram (Urd Beans),Neeleswaram,2017-02-27,10000.0,2.0,33.8,clear
+428,Arhar (Tur/Red Gram),Neeleswaram,2017-02-28,8000.0,2.0,35.0,clear
+429,Black Gram (Urd Beans),Neeleswaram,2017-02-28,10000.0,2.0,35.0,clear
+430,Arhar (Tur/Red Gram),Neeleswaram,2017-01-03,8000.0,2.0,33.8,clear
+431,Black Gram (Urd Beans),Neeleswaram,2017-01-03,10000.0,2.0,33.8,clear
+432,Arhar (Tur/Red Gram),Neeleswaram,2017-02-03,8000.0,2.0,32.4,clear
+433,Black Gram (Urd Beans),Neeleswaram,2017-02-03,10000.0,2.0,32.4,clear
+434,Arhar (Tur/Red Gram),Neeleswaram,2017-03-03,8400.0,2.0,34.2,clear
+435,Black Gram (Urd Beans),Neeleswaram,2017-03-03,10200.0,2.0,34.2,clear
+436,Arhar (Tur/Red Gram),Neeleswaram,2017-04-03,8200.0,2.0,33.0,clear
+437,Black Gram (Urd Beans),Neeleswaram,2017-04-03,10000.0,2.0,33.0,clear
+438,Arhar (Tur/Red Gram),Neeleswaram,2017-06-03,7600.0,2.0,30.4,rain
+439,Black Gram (Urd Beans),Neeleswaram,2017-06-03,8600.0,2.0,30.4,rain
+440,Arhar (Tur/Red Gram),Neeleswaram,2017-08-03,7600.0,2.0,27.8,rain
+441,Black Gram (Urd Beans),Neeleswaram,2017-08-03,8600.0,2.0,27.8,rain
+442,Arhar (Tur/Red Gram),Neeleswaram,2017-09-03,7400.0,2.0,30.2,clear
+443,Black Gram (Urd Beans),Neeleswaram,2017-09-03,8600.0,2.0,30.2,clear
+444,Arhar (Tur/Red Gram),Neeleswaram,2017-03-13,7600.0,2.0,33.0,clear
+445,Black Gram (Urd Beans),Neeleswaram,2017-03-13,8600.0,2.0,33.0,clear
+446,Arhar (Tur/Red Gram),Neeleswaram,2017-03-14,7600.0,2.0,32.6,clear
+447,Black Gram (Urd Beans),Neeleswaram,2017-03-14,8600.0,2.0,32.6,clear
+448,Arhar (Tur/Red Gram),Neeleswaram,2017-03-15,7600.0,2.0,33.4,clear
+449,Black Gram (Urd Beans),Neeleswaram,2017-03-15,8600.0,2.0,33.4,clear
+450,Arhar (Tur/Red Gram),Neeleswaram,2017-03-16,7600.0,2.0,30.8,clear
+451,Black Gram (Urd Beans),Neeleswaram,2017-03-16,8600.0,2.0,30.8,clear
+452,Arhar (Tur/Red Gram),Neeleswaram,2017-03-17,7600.0,2.0,33.0,clear
+453,Black Gram (Urd Beans),Neeleswaram,2017-03-17,8600.0,2.0,33.0,clear
+454,Arhar (Tur/Red Gram),Neeleswaram,2017-03-20,7600.0,2.0,32.2,clear
+455,Black Gram (Urd Beans),Neeleswaram,2017-03-20,8600.0,2.0,32.2,clear
+456,Arhar (Tur/Red Gram),Neeleswaram,2017-03-21,7600.0,2.0,33.2,clear
+457,Black Gram (Urd Beans),Neeleswaram,2017-03-21,8600.0,2.0,33.2,clear
+458,Arhar (Tur/Red Gram),Neeleswaram,2017-03-22,7600.0,2.0,34.0,clear
+459,Black Gram (Urd Beans),Neeleswaram,2017-03-22,8600.0,2.0,34.0,clear
+460,Arhar (Tur/Red Gram),Neeleswaram,2017-03-23,7600.0,2.0,34.6,clear
+461,Black Gram (Urd Beans),Neeleswaram,2017-03-23,8600.0,2.0,34.6,clear
+462,Arhar (Tur/Red Gram),Neeleswaram,2017-03-24,7800.0,2.0,34.6,clear
+463,Black Gram (Urd Beans),Neeleswaram,2017-03-24,8600.0,2.0,34.6,clear
+464,Arhar (Tur/Red Gram),Neeleswaram,2017-03-25,7800.0,2.0,33.6,clear
+465,Black Gram (Urd Beans),Neeleswaram,2017-03-25,8600.0,2.0,33.6,clear
+466,Arhar (Tur/Red Gram),Neeleswaram,2017-03-27,7600.0,2.0,32.8,clear
+467,Black Gram (Urd Beans),Neeleswaram,2017-03-27,9000.0,2.0,32.8,clear
+468,Arhar (Tur/Red Gram),Neeleswaram,2017-03-28,7600.0,2.0,33.6,clear
+469,Black Gram (Urd Beans),Neeleswaram,2017-03-28,9000.0,2.0,33.6,clear
+470,Arhar (Tur/Red Gram),Neeleswaram,2017-03-29,7600.0,2.0,33.6,clear
+471,Black Gram (Urd Beans),Neeleswaram,2017-03-29,9200.0,2.0,33.6,clear
+472,Arhar (Tur/Red Gram),Neeleswaram,2017-03-30,7600.0,2.0,33.6,clear
+473,Black Gram (Urd Beans),Neeleswaram,2017-03-30,9200.0,2.0,33.6,clear
+474,Arhar (Tur/Red Gram),Neeleswaram,2017-03-04,7600.0,2.0,33.6,clear
+475,Black Gram (Urd Beans),Neeleswaram,2017-03-04,9200.0,2.0,33.6,clear
+476,Arhar (Tur/Red Gram),Neeleswaram,2017-04-04,7600.0,2.0,33.6,clear
+477,Black Gram (Urd Beans),Neeleswaram,2017-04-04,9200.0,2.0,33.6,clear
+478,Arhar (Tur/Red Gram),Neeleswaram,2017-05-04,7600.0,2.0,33.6,clear
+479,Black Gram (Urd Beans),Neeleswaram,2017-05-04,9200.0,2.0,33.6,clear
+480,Arhar (Tur/Red Gram),Neeleswaram,2017-10-04,7600.0,2.0,30.6,clear
+481,Black Gram (Urd Beans),Neeleswaram,2017-10-04,9200.0,2.0,30.6,clear
+482,Arhar (Tur/Red Gram),Neeleswaram,2017-11-04,7600.0,2.0,33.2,clear
+483,Black Gram (Urd Beans),Neeleswaram,2017-11-04,9200.0,2.0,33.2,clear
+484,Arhar (Tur/Red Gram),Neeleswaram,2017-12-04,7600.0,2.0,31.6,clear
+485,Black Gram (Urd Beans),Neeleswaram,2017-12-04,9200.0,2.0,31.6,clear
+486,Arhar (Tur/Red Gram),Neeleswaram,2017-04-13,7600.0,2.0,34.0,clear
+487,Black Gram (Urd Beans),Neeleswaram,2017-04-13,9200.0,2.0,34.0,clear
+488,Arhar (Tur/Red Gram),Neeleswaram,2017-04-15,7600.0,2.0,34.0,clear
+489,Black Gram (Urd Beans),Neeleswaram,2017-04-15,9200.0,2.0,34.0,clear
+490,Arhar (Tur/Red Gram),Neeleswaram,2017-04-17,7600.0,2.0,33.6,clear
+491,Black Gram (Urd Beans),Neeleswaram,2017-04-17,9200.0,2.0,33.6,clear
+492,Arhar (Tur/Red Gram),Neeleswaram,2017-04-18,7600.0,2.0,33.6,clear
+493,Black Gram (Urd Beans),Neeleswaram,2017-04-18,9200.0,2.0,33.6,clear
+494,Arhar (Tur/Red Gram),Neeleswaram,2017-04-19,7600.0,2.0,33.8,clear
+495,Black Gram (Urd Beans),Neeleswaram,2017-04-19,9200.0,2.0,33.8,clear
+496,Arhar (Tur/Red Gram),Neeleswaram,2017-04-20,7600.0,2.0,32.8,clear
+497,Black Gram (Urd Beans),Neeleswaram,2017-04-20,9200.0,2.0,32.8,clear
+498,Arhar (Tur/Red Gram),Neeleswaram,2017-04-21,7600.0,2.0,33.8,clear
+499,Black Gram (Urd Beans),Neeleswaram,2017-04-21,9200.0,2.0,33.8,clear
+500,Arhar (Tur/Red Gram),Neeleswaram,2017-04-22,7600.0,2.0,33.2,clear
+501,Black Gram (Urd Beans),Neeleswaram,2017-04-22,9200.0,2.0,33.2,clear
+502,Arhar (Tur/Red Gram),Neeleswaram,2017-04-24,7600.0,2.0,33.2,clear
+503,Black Gram (Urd Beans),Neeleswaram,2017-04-24,9200.0,2.0,33.2,clear
+504,Arhar (Tur/Red Gram),Neeleswaram,2017-04-25,7600.0,2.0,33.6,clear
+505,Black Gram (Urd Beans),Neeleswaram,2017-04-25,9200.0,2.0,33.6,clear
+506,Arhar (Tur/Red Gram),Neeleswaram,2017-04-26,7800.0,2.0,34.0,clear
+507,Black Gram (Urd Beans),Neeleswaram,2017-04-26,9800.0,2.0,34.0,clear
+508,Arhar (Tur/Red Gram),Neeleswaram,2017-04-27,7800.0,2.0,33.0,clear
+509,Black Gram (Urd Beans),Neeleswaram,2017-04-27,9800.0,2.0,33.0,clear
+510,Arhar (Tur/Red Gram),Neeleswaram,2017-04-28,7800.0,2.0,32.8,clear
+511,Black Gram (Urd Beans),Neeleswaram,2017-04-28,9800.0,2.0,32.8,clear
+512,Arhar (Tur/Red Gram),Neeleswaram,2017-02-05,7800.0,2.0,32.4,clear
+513,Black Gram (Urd Beans),Neeleswaram,2017-02-05,10000.0,2.0,32.4,clear
+514,Arhar (Tur/Red Gram),Neeleswaram,2017-03-05,7800.0,2.0,32.8,clear
+515,Black Gram (Urd Beans),Neeleswaram,2017-03-05,9800.0,2.0,32.8,clear
+516,Arhar (Tur/Red Gram),Neeleswaram,2017-04-05,7800.0,2.0,33.4,clear
+517,Black Gram (Urd Beans),Neeleswaram,2017-04-05,9800.0,2.0,33.4,clear
+518,Arhar (Tur/Red Gram),Neeleswaram,2017-05-05,7800.0,2.0,33.4,clear
+519,Black Gram (Urd Beans),Neeleswaram,2017-05-05,9800.0,2.0,33.4,clear
+520,Arhar (Tur/Red Gram),Neeleswaram,2017-06-05,7800.0,2.0,31.0,rain
+521,Black Gram (Urd Beans),Neeleswaram,2017-06-05,9800.0,2.0,31.0,rain
+522,Arhar (Tur/Red Gram),Neeleswaram,2017-08-05,7800.0,2.0,27.8,clear
+523,Black Gram (Urd Beans),Neeleswaram,2017-08-05,9800.0,2.0,27.8,clear
+524,Arhar (Tur/Red Gram),Neeleswaram,2017-09-05,7800.0,2.0,30.6,clear
+525,Black Gram (Urd Beans),Neeleswaram,2017-09-05,9800.0,2.0,30.6,clear
+526,Arhar (Tur/Red Gram),Neeleswaram,2017-10-05,7800.0,2.0,29.6,rain
+527,Black Gram (Urd Beans),Neeleswaram,2017-10-05,9800.0,2.0,29.6,rain
+528,Arhar (Tur/Red Gram),Neeleswaram,2017-11-05,7600.0,2.0,33.4,clear
+529,Black Gram (Urd Beans),Neeleswaram,2017-11-05,9800.0,2.0,33.4,clear
+530,Arhar (Tur/Red Gram),Neeleswaram,2017-05-15,7800.0,2.0,32.0,clear
+531,Black Gram (Urd Beans),Neeleswaram,2017-05-15,9800.0,2.0,32.0,clear
+532,Arhar (Tur/Red Gram),Neeleswaram,2017-05-16,9800.0,2.0,34.2,clear
+533,Black Gram (Urd Beans),Neeleswaram,2017-05-16,9800.0,2.0,34.2,clear
+534,Arhar (Tur/Red Gram),Neeleswaram,2017-05-17,7800.0,2.0,33.8,clear
+535,Black Gram (Urd Beans),Neeleswaram,2017-05-17,9800.0,2.0,33.8,clear
+536,Arhar (Tur/Red Gram),Neeleswaram,2017-05-18,7800.0,2.0,34.2,clear
+537,Black Gram (Urd Beans),Neeleswaram,2017-05-18,9800.0,2.0,34.2,clear
+538,Arhar (Tur/Red Gram),Neeleswaram,2017-05-22,7800.0,2.0,32.6,clear
+539,Black Gram (Urd Beans),Neeleswaram,2017-05-22,9800.0,2.0,32.6,clear
+540,Arhar (Tur/Red Gram),Neeleswaram,2017-05-23,7800.0,2.0,33.4,rain
+541,Black Gram (Urd Beans),Neeleswaram,2017-05-23,9800.0,2.0,33.4,rain
+542,Arhar (Tur/Red Gram),Neeleswaram,2017-05-24,7800.0,2.0,29.8,clear
+543,Black Gram (Urd Beans),Neeleswaram,2017-05-24,9800.0,2.0,29.8,clear
+544,Arhar (Tur/Red Gram),Neeleswaram,2017-05-25,7600.0,2.0,33.2,clear
+545,Black Gram (Urd Beans),Neeleswaram,2017-05-25,9800.0,2.0,33.2,clear
+546,Arhar (Tur/Red Gram),Neeleswaram,2017-05-26,7600.0,2.0,32.0,clear
+547,Black Gram (Urd Beans),Neeleswaram,2017-05-26,9800.0,2.0,32.0,clear
+548,Arhar (Tur/Red Gram),Neeleswaram,2017-05-29,7600.0,2.0,30.6,clear
+549,Black Gram (Urd Beans),Neeleswaram,2017-05-29,9800.0,2.0,30.6,clear
+550,Arhar (Tur/Red Gram),Neeleswaram,2017-05-30,7600.0,2.0,31.4,rain
+551,Black Gram (Urd Beans),Neeleswaram,2017-05-30,9800.0,2.0,31.4,rain
+552,Arhar (Tur/Red Gram),Neeleswaram,2017-05-31,7600.0,2.0,29.8,clear
+553,Black Gram (Urd Beans),Neeleswaram,2017-05-31,9700.0,2.0,29.8,clear
+554,Arhar (Tur/Red Gram),Neeleswaram,2017-01-06,7800.0,2.0,31.8,clear
+555,Black Gram (Urd Beans),Neeleswaram,2017-01-06,9800.0,2.0,31.8,clear
+556,Arhar (Tur/Red Gram),Neeleswaram,2017-02-06,7600.0,2.0,32.4,clear
+557,Black Gram (Urd Beans),Neeleswaram,2017-02-06,9800.0,2.0,32.4,clear
+558,Arhar (Tur/Red Gram),Neeleswaram,2017-05-06,7800.0,2.0,34.8,clear
+559,Black Gram (Urd Beans),Neeleswaram,2017-05-06,9800.0,2.0,34.8,clear
+560,Arhar (Tur/Red Gram),Neeleswaram,2017-06-06,7800.0,2.0,31.6,clear
+561,Black Gram (Urd Beans),Neeleswaram,2017-06-06,9800.0,2.0,31.6,clear
+562,Arhar (Tur/Red Gram),Neeleswaram,2017-08-06,7800.0,2.0,29.4,clear
+563,Black Gram (Urd Beans),Neeleswaram,2017-08-06,9800.0,2.0,29.4,clear
+564,Arhar (Tur/Red Gram),Neeleswaram,2017-09-06,7800.0,2.0,30.4,clear
+565,Black Gram (Urd Beans),Neeleswaram,2017-09-06,9800.0,2.0,30.4,clear
+566,Arhar (Tur/Red Gram),Neeleswaram,2017-12-06,7800.0,2.0,29.6,clear
+567,Black Gram (Urd Beans),Neeleswaram,2017-12-06,9800.0,2.0,29.6,clear
+568,Arhar (Tur/Red Gram),Neeleswaram,2017-06-13,7800.0,2.0,28.8,clear
+569,Black Gram (Urd Beans),Neeleswaram,2017-06-13,9800.0,2.0,28.8,clear
+570,Arhar (Tur/Red Gram),Neeleswaram,2017-06-14,7800.0,2.0,31.2,clear
+571,Black Gram (Urd Beans),Neeleswaram,2017-06-14,9800.0,2.0,31.2,clear
+572,Arhar (Tur/Red Gram),Neeleswaram,2017-06-15,7800.0,2.0,29.6,clear
+573,Black Gram (Urd Beans),Neeleswaram,2017-06-15,9800.0,2.0,29.6,clear
+574,Arhar (Tur/Red Gram),Neeleswaram,2017-06-16,7600.0,2.0,28.6,clear
+575,Black Gram (Urd Beans),Neeleswaram,2017-06-16,9600.0,2.0,28.6,clear
+576,Arhar (Tur/Red Gram),Neeleswaram,2017-06-17,7600.0,2.0,28.6,clear
+577,Black Gram (Urd Beans),Neeleswaram,2017-06-17,9600.0,2.0,28.6,clear
+578,Arhar (Tur/Red Gram),Neeleswaram,2017-06-19,7000.0,2.0,30.6,clear
+579,Black Gram (Urd Beans),Neeleswaram,2017-06-19,9000.0,2.0,30.6,clear
+580,Arhar (Tur/Red Gram),Neeleswaram,2017-06-20,7000.0,2.0,30.2,clear
+581,Black Gram (Urd Beans),Neeleswaram,2017-06-20,8800.0,2.0,30.2,clear
+582,Arhar (Tur/Red Gram),Neeleswaram,2017-06-21,6900.0,2.0,28.0,clear
+583,Black Gram (Urd Beans),Neeleswaram,2017-06-21,8800.0,2.0,28.0,clear
+584,Arhar (Tur/Red Gram),Neeleswaram,2017-06-22,6900.0,2.0,30.6,clear
+585,Black Gram (Urd Beans),Neeleswaram,2017-06-22,8800.0,2.0,30.6,clear
+586,Arhar (Tur/Red Gram),Neeleswaram,2017-06-23,6900.0,2.0,30.4,rain
+587,Black Gram (Urd Beans),Neeleswaram,2017-06-23,8800.0,2.0,30.4,rain
+588,Arhar (Tur/Red Gram),Neeleswaram,2017-06-24,6900.0,2.0,26.8,clear
+589,Black Gram (Urd Beans),Neeleswaram,2017-06-24,8800.0,2.0,26.8,clear
+590,Arhar (Tur/Red Gram),Neeleswaram,2017-06-28,6900.0,2.0,27.4,clear
+591,Black Gram (Urd Beans),Neeleswaram,2017-06-28,8800.0,2.0,27.4,clear
+592,Arhar (Tur/Red Gram),Neeleswaram,2017-06-29,6900.0,2.0,28.4,clear
+593,Black Gram (Urd Beans),Neeleswaram,2017-06-29,8800.0,2.0,28.4,clear
+594,Arhar (Tur/Red Gram),Neeleswaram,2017-03-07,6900.0,2.0,33.2,clear
+595,Black Gram (Urd Beans),Neeleswaram,2017-03-07,8800.0,2.0,33.2,clear
+596,Arhar (Tur/Red Gram),Neeleswaram,2017-04-07,6900.0,2.0,31.6,clear
+597,Black Gram (Urd Beans),Neeleswaram,2017-04-07,8800.0,2.0,31.6,clear
+598,Arhar (Tur/Red Gram),Neeleswaram,2017-05-07,6900.0,2.0,34.2,clear
+599,Black Gram (Urd Beans),Neeleswaram,2017-05-07,8800.0,2.0,34.2,clear
+600,Arhar (Tur/Red Gram),Neeleswaram,2017-06-07,6900.0,2.0,28.2,clear
+601,Black Gram (Urd Beans),Neeleswaram,2017-06-07,8800.0,2.0,28.2,clear
+602,Arhar (Tur/Red Gram),Neeleswaram,2017-07-07,6900.0,2.0,28.2,clear
+603,Black Gram (Urd Beans),Neeleswaram,2017-07-07,8800.0,2.0,28.2,clear
+604,Arhar (Tur/Red Gram),Neeleswaram,2017-12-07,6900.0,2.0,30.0,clear
+605,Black Gram (Urd Beans),Neeleswaram,2017-12-07,8800.0,2.0,30.0,clear
+606,Arhar (Tur/Red Gram),Neeleswaram,2017-07-13,6600.0,2.0,25.4,rain
+607,Black Gram (Urd Beans),Neeleswaram,2017-07-13,8600.0,2.0,25.4,rain
+608,Arhar (Tur/Red Gram),Neeleswaram,2017-07-17,6600.0,2.0,29.6,rain
+609,Black Gram (Urd Beans),Neeleswaram,2017-07-17,8600.0,2.0,29.6,rain
+610,Arhar (Tur/Red Gram),Neeleswaram,2017-07-18,6600.0,2.0,28.2,rain
+611,Black Gram (Urd Beans),Neeleswaram,2017-07-18,8600.0,2.0,28.2,rain
+612,Arhar (Tur/Red Gram),Neeleswaram,2017-07-19,6600.0,2.0,28.8,clear
+613,Black Gram (Urd Beans),Neeleswaram,2017-07-19,8600.0,2.0,28.8,clear
+614,Arhar (Tur/Red Gram),Neeleswaram,2017-07-20,6600.0,2.0,30.4,clear
+615,Black Gram (Urd Beans),Neeleswaram,2017-07-20,8600.0,2.0,30.4,clear
+616,Arhar (Tur/Red Gram),Neeleswaram,2017-07-22,6600.0,2.0,29.6,clear
+617,Black Gram (Urd Beans),Neeleswaram,2017-07-22,8600.0,2.0,29.6,clear
+618,Arhar (Tur/Red Gram),Neeleswaram,2017-07-24,6600.0,2.0,29.4,clear
+619,Black Gram (Urd Beans),Neeleswaram,2017-07-24,8600.0,2.0,29.4,clear
+620,Arhar (Tur/Red Gram),Neeleswaram,2017-07-25,6600.0,2.0,29.2,clear
+621,Black Gram (Urd Beans),Neeleswaram,2017-07-25,8600.0,2.0,29.2,clear
+622,Arhar (Tur/Red Gram),Neeleswaram,2017-07-26,6600.0,2.0,29.4,clear
+623,Black Gram (Urd Beans),Neeleswaram,2017-07-26,8600.0,2.0,29.4,clear
+624,Arhar (Tur/Red Gram),Neeleswaram,2017-07-27,6600.0,2.0,28.8,rain
+625,Black Gram (Urd Beans),Neeleswaram,2017-07-27,8600.0,2.0,28.8,rain
+626,Arhar (Tur/Red Gram),Neeleswaram,2017-07-28,6600.0,2.0,29.4,clear
+627,Black Gram (Urd Beans),Neeleswaram,2017-07-28,8600.0,2.0,29.4,clear
+628,Arhar (Tur/Red Gram),Neeleswaram,2017-07-29,6600.0,2.0,29.0,clear
+629,Black Gram (Urd Beans),Neeleswaram,2017-07-29,8600.0,2.0,29.0,clear
+630,Arhar (Tur/Red Gram),Neeleswaram,2017-07-31,6600.0,2.0,29.4,rain
+631,Black Gram (Urd Beans),Neeleswaram,2017-07-31,8600.0,2.0,29.4,rain
+632,Arhar (Tur/Red Gram),Neeleswaram,2017-01-08,6600.0,2.0,31.0,clear
+633,Black Gram (Urd Beans),Neeleswaram,2017-01-08,8600.0,2.0,31.0,clear
+634,Arhar (Tur/Red Gram),Neeleswaram,2017-02-08,6600.0,2.0,32.0,clear
+635,Black Gram (Urd Beans),Neeleswaram,2017-02-08,8600.0,2.0,32.0,clear
+636,Arhar (Tur/Red Gram),Neeleswaram,2017-03-08,6400.0,2.0,33.6,clear
+637,Black Gram (Urd Beans),Neeleswaram,2017-03-08,8600.0,2.0,33.6,clear
+638,Arhar (Tur/Red Gram),Neeleswaram,2017-04-08,6600.0,2.0,33.4,rain
+639,Black Gram (Urd Beans),Neeleswaram,2017-04-08,8600.0,2.0,33.4,rain
+640,Arhar (Tur/Red Gram),Neeleswaram,2017-07-08,6600.0,2.0,27.8,clear
+641,Black Gram (Urd Beans),Neeleswaram,2017-07-08,8600.0,2.0,27.8,clear
+642,Arhar (Tur/Red Gram),Neeleswaram,2017-08-08,6600.0,2.0,30.2,clear
+643,Black Gram (Urd Beans),Neeleswaram,2017-08-08,8600.0,2.0,30.2,clear
+644,Arhar (Tur/Red Gram),Neeleswaram,2017-09-08,6600.0,2.0,30.2,clear
+645,Black Gram (Urd Beans),Neeleswaram,2017-09-08,8600.0,2.0,30.2,clear
+646,Arhar (Tur/Red Gram),Neeleswaram,2017-10-08,6600.0,2.0,31.2,clear
+647,Black Gram (Urd Beans),Neeleswaram,2017-10-08,8600.0,2.0,31.2,clear
+648,Arhar (Tur/Red Gram),Neeleswaram,2017-11-08,6400.0,2.0,34.2,clear
+649,Black Gram (Urd Beans),Neeleswaram,2017-11-08,8400.0,2.0,34.2,clear
+650,Arhar (Tur/Red Gram),Neeleswaram,2017-08-14,6600.0,2.0,29.4,clear
+651,Black Gram (Urd Beans),Neeleswaram,2017-08-14,8200.0,2.0,29.4,clear
+652,Arhar (Tur/Red Gram),Neeleswaram,2017-08-16,6600.0,2.0,29.0,rain
+653,Black Gram (Urd Beans),Neeleswaram,2017-08-16,8600.0,2.0,29.0,rain
+654,Arhar (Tur/Red Gram),Neeleswaram,2017-08-18,6600.0,2.0,29.2,rain
+655,Black Gram (Urd Beans),Neeleswaram,2017-08-18,8600.0,2.0,29.2,rain
+656,Arhar (Tur/Red Gram),Neeleswaram,2017-08-21,6600.0,2.0,29.4,rain
+657,Black Gram (Urd Beans),Neeleswaram,2017-08-21,8600.0,2.0,29.4,rain
+658,Arhar (Tur/Red Gram),Neeleswaram,2017-08-22,6600.0,2.0,29.0,rain
+659,Black Gram (Urd Beans),Neeleswaram,2017-08-22,8600.0,2.0,29.0,rain
+660,Arhar (Tur/Red Gram),Neeleswaram,2017-08-30,6600.0,2.0,29.4,clear
+661,Black Gram (Urd Beans),Neeleswaram,2017-08-30,8600.0,2.0,29.4,clear
+662,Arhar (Tur/Red Gram),Neeleswaram,2017-08-31,6600.0,2.0,29.6,clear
+663,Black Gram (Urd Beans),Neeleswaram,2017-08-31,8600.0,2.0,29.6,clear
+664,Arhar (Tur/Red Gram),Neeleswaram,2017-01-09,6600.0,2.0,30.8,clear
+665,Black Gram (Urd Beans),Neeleswaram,2017-01-09,8600.0,2.0,30.8,clear
+666,Arhar (Tur/Red Gram),Neeleswaram,2017-02-09,6600.0,2.0,33.0,clear
+667,Black Gram (Urd Beans),Neeleswaram,2017-02-09,8600.0,2.0,33.0,clear
+668,Arhar (Tur/Red Gram),Neeleswaram,2017-03-09,6600.0,2.0,32.6,clear
+669,Black Gram (Urd Beans),Neeleswaram,2017-03-09,8600.0,2.0,32.6,clear
+670,Arhar (Tur/Red Gram),Neeleswaram,2017-07-09,6800.0,2.0,29.4,clear
+671,Black Gram (Urd Beans),Neeleswaram,2017-07-09,8800.0,2.0,29.4,clear
+672,Arhar (Tur/Red Gram),Neeleswaram,2017-08-09,6800.0,2.0,30.4,clear
+673,Black Gram (Urd Beans),Neeleswaram,2017-08-09,8800.0,2.0,30.4,clear
+674,Arhar (Tur/Red Gram),Neeleswaram,2017-09-13,6900.0,2.0,32.6,clear
+675,Black Gram (Urd Beans),Neeleswaram,2017-09-13,7500.0,2.0,32.6,clear
+676,Arhar (Tur/Red Gram),Neeleswaram,2017-09-14,6900.0,2.0,31.0,clear
+677,Black Gram (Urd Beans),Neeleswaram,2017-09-14,7500.0,2.0,31.0,clear
+678,Arhar (Tur/Red Gram),Neeleswaram,2017-09-15,6900.0,2.0,29.0,clear
+679,Black Gram (Urd Beans),Neeleswaram,2017-09-15,7500.0,2.0,29.0,clear
+680,Arhar (Tur/Red Gram),Neeleswaram,2017-09-19,6900.0,2.0,29.4,clear
+681,Black Gram (Urd Beans),Neeleswaram,2017-09-19,7500.0,2.0,29.4,clear
+682,Arhar (Tur/Red Gram),Neeleswaram,2017-09-20,6900.0,2.0,29.4,clear
+683,Black Gram (Urd Beans),Neeleswaram,2017-09-20,7500.0,2.0,29.4,clear
+684,Arhar (Tur/Red Gram),Neeleswaram,2017-09-22,6900.0,2.0,30.4,clear
+685,Black Gram (Urd Beans),Neeleswaram,2017-09-22,7500.0,2.0,30.4,clear
+686,Arhar (Tur/Red Gram),Neeleswaram,2017-09-23,6900.0,2.0,30.4,clear
+687,Black Gram (Urd Beans),Neeleswaram,2017-09-23,7500.0,2.0,30.4,clear
+688,Arhar (Tur/Red Gram),Neeleswaram,2017-09-25,6900.0,2.0,27.4,clear
+689,Black Gram (Urd Beans),Neeleswaram,2017-09-25,7500.0,2.0,27.4,clear
+690,Arhar (Tur/Red Gram),Neeleswaram,2017-09-26,6900.0,2.0,29.8,clear
+691,Black Gram (Urd Beans),Neeleswaram,2017-09-26,7500.0,2.0,29.8,clear
+692,Arhar (Tur/Red Gram),Neeleswaram,2017-09-27,6900.0,2.0,27.6,rain
+693,Black Gram (Urd Beans),Neeleswaram,2017-09-27,7500.0,2.0,27.6,rain
+694,Arhar (Tur/Red Gram),Neeleswaram,2017-09-28,6900.0,2.0,27.6,clear
+695,Black Gram (Urd Beans),Neeleswaram,2017-09-28,7500.0,2.0,27.6,clear
+696,Arhar (Tur/Red Gram),Neeleswaram,2017-03-10,7100.0,2.0,33.6,clear
+697,Black Gram (Urd Beans),Neeleswaram,2017-03-10,7500.0,2.0,33.6,clear
+698,Arhar (Tur/Red Gram),Neeleswaram,2017-04-10,7100.0,2.0,33.2,clear
+699,Black Gram (Urd Beans),Neeleswaram,2017-04-10,7500.0,2.0,33.2,clear
+700,Arhar (Tur/Red Gram),Neeleswaram,2017-05-10,7100.0,2.0,34.0,clear
+701,Black Gram (Urd Beans),Neeleswaram,2017-05-10,7500.0,2.0,34.0,clear
+702,Arhar (Tur/Red Gram),Neeleswaram,2017-06-10,7100.0,2.0,26.4,rain
+703,Black Gram (Urd Beans),Neeleswaram,2017-06-10,7500.0,2.0,26.4,rain
+704,Arhar (Tur/Red Gram),Neeleswaram,2017-07-10,7100.0,2.0,30.0,rain
+705,Black Gram (Urd Beans),Neeleswaram,2017-07-10,7500.0,2.0,30.0,rain
+706,Arhar (Tur/Red Gram),Neeleswaram,2017-09-10,7100.0,2.0,28.4,clear
+707,Black Gram (Urd Beans),Neeleswaram,2017-09-10,7500.0,2.0,28.4,clear
+708,Arhar (Tur/Red Gram),Neeleswaram,2017-10-10,7100.0,2.0,30.0,clear
+709,Black Gram (Urd Beans),Neeleswaram,2017-10-10,7500.0,2.0,30.0,clear
+710,Arhar (Tur/Red Gram),Neeleswaram,2017-11-10,7100.0,2.0,33.4,clear
+711,Black Gram (Urd Beans),Neeleswaram,2017-11-10,7500.0,2.0,33.4,clear
+712,Arhar (Tur/Red Gram),Neeleswaram,2017-10-17,7100.0,2.0,30.2,clear
+713,Black Gram (Urd Beans),Neeleswaram,2017-10-17,7500.0,2.0,30.2,clear
+714,Arhar (Tur/Red Gram),Neeleswaram,2017-10-19,7100.0,2.0,30.4,clear
+715,Black Gram (Urd Beans),Neeleswaram,2017-10-19,7500.0,2.0,30.4,clear
+716,Arhar (Tur/Red Gram),Neeleswaram,2017-10-20,7100.0,2.0,31.4,clear
+717,Black Gram (Urd Beans),Neeleswaram,2017-10-20,7500.0,2.0,31.4,clear
+718,Arhar (Tur/Red Gram),Neeleswaram,2017-10-21,7100.0,2.0,30.6,clear
+719,Black Gram (Urd Beans),Neeleswaram,2017-10-21,7500.0,2.0,30.6,clear
+720,Arhar (Tur/Red Gram),Neeleswaram,2017-10-23,6900.0,2.0,31.0,clear
+721,Black Gram (Urd Beans),Neeleswaram,2017-10-23,7500.0,2.0,31.0,clear
+722,Arhar (Tur/Red Gram),Neeleswaram,2017-10-24,7100.0,2.0,31.0,clear
+723,Black Gram (Urd Beans),Neeleswaram,2017-10-24,7500.0,2.0,31.0,clear
+724,Arhar (Tur/Red Gram),Neeleswaram,2017-10-25,7100.0,2.0,31.4,clear
+725,Black Gram (Urd Beans),Neeleswaram,2017-10-25,7000.0,2.0,31.4,clear
+726,Arhar (Tur/Red Gram),Neeleswaram,2017-10-26,7100.0,2.0,31.4,clear
+727,Black Gram (Urd Beans),Neeleswaram,2017-10-26,6900.0,2.0,31.4,clear
+728,Arhar (Tur/Red Gram),Neeleswaram,2017-10-27,7100.0,2.0,30.8,clear
+729,Black Gram (Urd Beans),Neeleswaram,2017-10-27,6900.0,2.0,30.8,clear
+730,Arhar (Tur/Red Gram),Neeleswaram,2017-10-28,7100.0,2.0,32.0,clear
+731,Black Gram (Urd Beans),Neeleswaram,2017-10-28,6900.0,2.0,32.0,clear
+732,Arhar (Tur/Red Gram),Neeleswaram,2017-10-30,7100.0,2.0,33.0,clear
+733,Black Gram (Urd Beans),Neeleswaram,2017-10-30,6900.0,2.0,33.0,clear
+734,Arhar (Tur/Red Gram),Neeleswaram,2017-10-31,7100.0,2.0,33.4,clear
+735,Black Gram (Urd Beans),Neeleswaram,2017-10-31,6900.0,2.0,33.4,clear
+736,Arhar (Tur/Red Gram),Neeleswaram,2017-01-11,6900.0,2.0,31.6,clear
+737,Black Gram (Urd Beans),Neeleswaram,2017-01-11,7500.0,2.0,31.6,clear
+738,Arhar (Tur/Red Gram),Neeleswaram,2017-02-11,6900.0,2.0,32.2,clear
+739,Black Gram (Urd Beans),Neeleswaram,2017-02-11,7500.0,2.0,32.2,clear
+740,Arhar (Tur/Red Gram),Neeleswaram,2017-03-11,6900.0,2.0,32.6,clear
+741,Black Gram (Urd Beans),Neeleswaram,2017-03-11,7500.0,2.0,32.6,clear
+742,Arhar (Tur/Red Gram),Neeleswaram,2017-04-11,6900.0,2.0,32.6,clear
+743,Black Gram (Urd Beans),Neeleswaram,2017-04-11,7500.0,2.0,32.6,clear

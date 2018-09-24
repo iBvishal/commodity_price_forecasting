@@ -1,0 +1,409 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Black Gram (Urd Beans),Koradacheri,2016-05-17,12500.0,0.0,27.8,clear
+1,Black Gram (Urd Beans),Kudavasal,2016-05-17,12500.0,0.0,27.8,clear
+2,Black Gram (Urd Beans),Mannargudi,2016-05-17,12500.0,0.0,27.8,clear
+3,Black Gram (Urd Beans),Poonthottam,2016-05-17,12500.0,0.0,27.8,clear
+4,Black Gram (Urd Beans),Thiruvarur,2016-05-17,12500.0,0.0,27.8,clear
+5,Black Gram (Urd Beans),Tiruthuraipoondi,2016-05-17,12500.0,0.0,27.8,clear
+6,Black Gram (Urd Beans),Vaduvur,2016-05-17,12500.0,0.0,27.8,clear
+7,Black Gram (Urd Beans),Valangaiman,2016-05-17,12500.0,0.0,27.8,clear
+8,Green Gram (Moong),Koradacheri,2016-05-17,6000.0,0.0,27.8,clear
+9,Green Gram (Moong),Kudavasal,2016-05-17,7000.0,0.0,27.8,clear
+10,Green Gram (Moong),Mannargudi,2016-05-17,6000.0,0.0,27.8,clear
+11,Green Gram (Moong),Poonthottam,2016-05-17,6000.0,0.0,27.8,clear
+12,Green Gram (Moong),Thiruvarur,2016-05-17,6000.0,0.0,27.8,clear
+13,Green Gram (Moong),Tiruthuraipoondi,2016-05-17,6000.0,0.0,27.8,clear
+14,Green Gram (Moong),Vaduvur,2016-05-17,6000.0,0.0,27.8,clear
+15,Green Gram (Moong),Valangaiman,2016-05-17,6000.0,0.0,27.8,clear
+16,Black Gram (Urd Beans),Koradacheri,2016-05-18,12500.0,0.0,31.6,clear
+17,Black Gram (Urd Beans),Kudavasal,2016-05-18,12500.0,0.0,31.6,clear
+18,Black Gram (Urd Beans),Mannargudi,2016-05-18,12500.0,0.0,31.6,clear
+19,Black Gram (Urd Beans),Poonthottam,2016-05-18,12500.0,0.0,31.6,clear
+20,Black Gram (Urd Beans),Thiruvarur,2016-05-18,12500.0,0.0,31.6,clear
+21,Black Gram (Urd Beans),Tiruthuraipoondi,2016-05-18,12500.0,0.0,31.6,clear
+22,Black Gram (Urd Beans),Vaduvur,2016-05-18,12500.0,0.0,31.6,clear
+23,Black Gram (Urd Beans),Valangaiman,2016-05-18,12500.0,0.0,31.6,clear
+24,Green Gram (Moong),Koradacheri,2016-05-18,6000.0,0.0,31.6,clear
+25,Green Gram (Moong),Kudavasal,2016-05-18,6000.0,0.0,31.6,clear
+26,Green Gram (Moong),Mannargudi,2016-05-18,6000.0,0.0,31.6,clear
+27,Green Gram (Moong),Poonthottam,2016-05-18,6000.0,0.0,31.6,clear
+28,Green Gram (Moong),Thiruvarur,2016-05-18,6000.0,0.0,31.6,clear
+29,Green Gram (Moong),Tiruthuraipoondi,2016-05-18,6000.0,0.0,31.6,clear
+30,Green Gram (Moong),Vaduvur,2016-05-18,6000.0,0.0,31.6,clear
+31,Green Gram (Moong),Valangaiman,2016-05-18,6000.0,0.0,31.6,clear
+32,Black Gram (Urd Beans),Koradacheri,2016-05-19,12500.0,0.0,33.8,rain
+33,Black Gram (Urd Beans),Kudavasal,2016-05-19,12500.0,0.0,33.8,rain
+34,Black Gram (Urd Beans),Mannargudi,2016-05-19,12500.0,0.0,33.8,rain
+35,Black Gram (Urd Beans),Poonthottam,2016-05-19,12500.0,0.0,33.8,rain
+36,Black Gram (Urd Beans),Thiruvarur,2016-05-19,12500.0,0.0,33.8,rain
+37,Black Gram (Urd Beans),Tiruthuraipoondi,2016-05-19,12500.0,0.0,33.8,rain
+38,Black Gram (Urd Beans),Vaduvur,2016-05-19,12500.0,0.0,33.8,rain
+39,Black Gram (Urd Beans),Valangaiman,2016-05-19,12500.0,0.0,33.8,rain
+40,Green Gram (Moong),Koradacheri,2016-05-19,6000.0,0.0,33.8,rain
+41,Green Gram (Moong),Kudavasal,2016-05-19,6000.0,0.0,33.8,rain
+42,Green Gram (Moong),Mannargudi,2016-05-19,6000.0,0.0,33.8,rain
+43,Green Gram (Moong),Poonthottam,2016-05-19,6000.0,0.0,33.8,rain
+44,Green Gram (Moong),Thiruvarur,2016-05-19,6000.0,0.0,33.8,rain
+45,Green Gram (Moong),Tiruthuraipoondi,2016-05-19,6000.0,0.0,33.8,rain
+46,Green Gram (Moong),Vaduvur,2016-05-19,6000.0,0.0,33.8,rain
+47,Green Gram (Moong),Valangaiman,2016-05-19,6000.0,0.0,33.8,rain
+48,Black Gram (Urd Beans),Koradacheri,2016-05-20,12500.0,0.0,31.8,clear
+49,Black Gram (Urd Beans),Kudavasal,2016-05-20,12500.0,0.0,31.8,clear
+50,Black Gram (Urd Beans),Mannargudi,2016-05-20,12500.0,0.0,31.8,clear
+51,Black Gram (Urd Beans),Poonthottam,2016-05-20,12500.0,0.0,31.8,clear
+52,Black Gram (Urd Beans),Thiruvarur,2016-05-20,12500.0,0.0,31.8,clear
+53,Black Gram (Urd Beans),Tiruthuraipoondi,2016-05-20,12500.0,0.0,31.8,clear
+54,Black Gram (Urd Beans),Vaduvur,2016-05-20,12500.0,0.0,31.8,clear
+55,Black Gram (Urd Beans),Valangaiman,2016-05-20,12500.0,0.0,31.8,clear
+56,Green Gram (Moong),Koradacheri,2016-05-20,6000.0,0.0,31.8,clear
+57,Green Gram (Moong),Kudavasal,2016-05-20,6000.0,0.0,31.8,clear
+58,Green Gram (Moong),Mannargudi,2016-05-20,6000.0,0.0,31.8,clear
+59,Green Gram (Moong),Poonthottam,2016-05-20,6000.0,0.0,31.8,clear
+60,Green Gram (Moong),Thiruvarur,2016-05-20,6000.0,0.0,31.8,clear
+61,Green Gram (Moong),Tiruthuraipoondi,2016-05-20,2050.0,0.0,31.8,clear
+62,Green Gram (Moong),Vaduvur,2016-05-20,6000.0,0.0,31.8,clear
+63,Green Gram (Moong),Valangaiman,2016-05-20,6000.0,0.0,31.8,clear
+64,Black Gram (Urd Beans),Koradacheri,2016-05-21,12500.0,0.0,35.0,clear
+65,Black Gram (Urd Beans),Kudavasal,2016-05-21,12500.0,0.0,35.0,clear
+66,Black Gram (Urd Beans),Poonthottam,2016-05-21,12500.0,0.0,35.0,clear
+67,Black Gram (Urd Beans),Thiruvarur,2016-05-21,12500.0,0.0,35.0,clear
+68,Black Gram (Urd Beans),Tiruthuraipoondi,2016-05-21,12500.0,0.0,35.0,clear
+69,Black Gram (Urd Beans),Vaduvur,2016-05-21,12500.0,0.0,35.0,clear
+70,Black Gram (Urd Beans),Valangaiman,2016-05-21,12500.0,0.0,35.0,clear
+71,Green Gram (Moong),Koradacheri,2016-05-21,6000.0,0.0,35.0,clear
+72,Green Gram (Moong),Kudavasal,2016-05-21,6000.0,0.0,35.0,clear
+73,Green Gram (Moong),Poonthottam,2016-05-21,6000.0,0.0,35.0,clear
+74,Green Gram (Moong),Thiruvarur,2016-05-21,6000.0,0.0,35.0,clear
+75,Green Gram (Moong),Tiruthuraipoondi,2016-05-21,6000.0,0.0,35.0,clear
+76,Green Gram (Moong),Vaduvur,2016-05-21,6000.0,0.0,35.0,clear
+77,Green Gram (Moong),Valangaiman,2016-05-21,6000.0,0.0,35.0,clear
+78,Black Gram (Urd Beans),Koradacheri,2016-05-23,13000.0,0.0,37.4,clear
+79,Black Gram (Urd Beans),Kudavasal,2016-05-23,13000.0,0.0,37.4,clear
+80,Black Gram (Urd Beans),Mannargudi,2016-05-23,13000.0,0.0,37.4,clear
+81,Black Gram (Urd Beans),Poonthottam,2016-05-23,13000.0,0.0,37.4,clear
+82,Black Gram (Urd Beans),Thiruvarur,2016-05-23,13000.0,0.0,37.4,clear
+83,Black Gram (Urd Beans),Tiruthuraipoondi,2016-05-23,13000.0,0.0,37.4,clear
+84,Black Gram (Urd Beans),Vaduvur,2016-05-23,13000.0,0.0,37.4,clear
+85,Black Gram (Urd Beans),Valangaiman,2016-05-23,13000.0,0.0,37.4,clear
+86,Green Gram (Moong),Koradacheri,2016-05-23,6500.0,0.0,37.4,clear
+87,Green Gram (Moong),Kudavasal,2016-05-23,6500.0,0.0,37.4,clear
+88,Green Gram (Moong),Mannargudi,2016-05-23,6500.0,0.0,37.4,clear
+89,Green Gram (Moong),Poonthottam,2016-05-23,6500.0,0.0,37.4,clear
+90,Green Gram (Moong),Thiruvarur,2016-05-23,6500.0,0.0,37.4,clear
+91,Green Gram (Moong),Tiruthuraipoondi,2016-05-23,6500.0,0.0,37.4,clear
+92,Green Gram (Moong),Vaduvur,2016-05-23,6500.0,0.0,37.4,clear
+93,Green Gram (Moong),Valangaiman,2016-05-23,6500.0,0.0,37.4,clear
+94,Black Gram (Urd Beans),Koradacheri,2016-05-24,13000.0,0.0,38.4,clear
+95,Black Gram (Urd Beans),Kudavasal,2016-05-24,13000.0,0.0,38.4,clear
+96,Black Gram (Urd Beans),Mannargudi,2016-05-24,13000.0,0.0,38.4,clear
+97,Black Gram (Urd Beans),Poonthottam,2016-05-24,13000.0,0.0,38.4,clear
+98,Black Gram (Urd Beans),Thiruvarur,2016-05-24,13000.0,0.0,38.4,clear
+99,Black Gram (Urd Beans),Tiruthuraipoondi,2016-05-24,13000.0,0.0,38.4,clear
+100,Black Gram (Urd Beans),Vaduvur,2016-05-24,13000.0,0.0,38.4,clear
+101,Black Gram (Urd Beans),Valangaiman,2016-05-24,13000.0,0.0,38.4,clear
+102,Green Gram (Moong),Koradacheri,2016-05-24,6500.0,0.0,38.4,clear
+103,Green Gram (Moong),Kudavasal,2016-05-24,6500.0,0.0,38.4,clear
+104,Green Gram (Moong),Mannargudi,2016-05-24,6500.0,0.0,38.4,clear
+105,Green Gram (Moong),Poonthottam,2016-05-24,6500.0,0.0,38.4,clear
+106,Green Gram (Moong),Thiruvarur,2016-05-24,6500.0,0.0,38.4,clear
+107,Green Gram (Moong),Tiruthuraipoondi,2016-05-24,6500.0,0.0,38.4,clear
+108,Green Gram (Moong),Vaduvur,2016-05-24,6500.0,0.0,38.4,clear
+109,Green Gram (Moong),Valangaiman,2016-05-24,6500.0,0.0,38.4,clear
+110,Black Gram (Urd Beans),Koradacheri,2016-05-25,13000.0,0.0,37.6,clear
+111,Black Gram (Urd Beans),Kudavasal,2016-05-25,13000.0,0.0,37.6,clear
+112,Black Gram (Urd Beans),Mannargudi,2016-05-25,13000.0,0.0,37.6,clear
+113,Black Gram (Urd Beans),Poonthottam,2016-05-25,13000.0,0.0,37.6,clear
+114,Black Gram (Urd Beans),Thiruvarur,2016-05-25,13000.0,0.0,37.6,clear
+115,Black Gram (Urd Beans),Tiruthuraipoondi,2016-05-25,13000.0,0.0,37.6,clear
+116,Black Gram (Urd Beans),Valangaiman,2016-05-25,13000.0,0.0,37.6,clear
+117,Green Gram (Moong),Koradacheri,2016-05-25,6500.0,0.0,37.6,clear
+118,Green Gram (Moong),Kudavasal,2016-05-25,6500.0,0.0,37.6,clear
+119,Green Gram (Moong),Mannargudi,2016-05-25,6500.0,0.0,37.6,clear
+120,Green Gram (Moong),Poonthottam,2016-05-25,6500.0,0.0,37.6,clear
+121,Green Gram (Moong),Thiruvarur,2016-05-25,6500.0,0.0,37.6,clear
+122,Green Gram (Moong),Tiruthuraipoondi,2016-05-25,6500.0,0.0,37.6,clear
+123,Green Gram (Moong),Vaduvur,2016-05-25,6500.0,0.0,37.6,clear
+124,Green Gram (Moong),Valangaiman,2016-05-25,6500.0,0.0,37.6,clear
+125,Black Gram (Urd Beans),Koradacheri,2016-05-26,13000.0,0.0,38.8,clear
+126,Black Gram (Urd Beans),Kudavasal,2016-05-26,13000.0,0.0,38.8,clear
+127,Black Gram (Urd Beans),Mannargudi,2016-05-26,13000.0,0.0,38.8,clear
+128,Black Gram (Urd Beans),Poonthottam,2016-05-26,13000.0,0.0,38.8,clear
+129,Black Gram (Urd Beans),Thiruvarur,2016-05-26,13000.0,0.0,38.8,clear
+130,Black Gram (Urd Beans),Tiruthuraipoondi,2016-05-26,13000.0,0.0,38.8,clear
+131,Black Gram (Urd Beans),Vaduvur,2016-05-26,13000.0,0.0,38.8,clear
+132,Black Gram (Urd Beans),Valangaiman,2016-05-26,13000.0,0.0,38.8,clear
+133,Green Gram (Moong),Koradacheri,2016-05-26,6500.0,0.0,38.8,clear
+134,Green Gram (Moong),Kudavasal,2016-05-26,6500.0,0.0,38.8,clear
+135,Green Gram (Moong),Mannargudi,2016-05-26,6500.0,0.0,38.8,clear
+136,Green Gram (Moong),Poonthottam,2016-05-26,6500.0,0.0,38.8,clear
+137,Green Gram (Moong),Thiruvarur,2016-05-26,6500.0,0.0,38.8,clear
+138,Green Gram (Moong),Tiruthuraipoondi,2016-05-26,6500.0,0.0,38.8,clear
+139,Green Gram (Moong),Vaduvur,2016-05-26,6500.0,0.0,38.8,clear
+140,Green Gram (Moong),Valangaiman,2016-05-26,6500.0,0.0,38.8,clear
+141,Black Gram (Urd Beans),Koradacheri,2016-05-27,13000.0,0.0,37.0,clear
+142,Black Gram (Urd Beans),Kudavasal,2016-05-27,13000.0,0.0,37.0,clear
+143,Black Gram (Urd Beans),Mannargudi,2016-05-27,13000.0,0.0,37.0,clear
+144,Black Gram (Urd Beans),Poonthottam,2016-05-27,13000.0,0.0,37.0,clear
+145,Black Gram (Urd Beans),Thiruvarur,2016-05-27,13000.0,0.0,37.0,clear
+146,Black Gram (Urd Beans),Tiruthuraipoondi,2016-05-27,13000.0,0.0,37.0,clear
+147,Black Gram (Urd Beans),Vaduvur,2016-05-27,13000.0,0.0,37.0,clear
+148,Black Gram (Urd Beans),Valangaiman,2016-05-27,13000.0,0.0,37.0,clear
+149,Green Gram (Moong),Koradacheri,2016-05-27,6500.0,0.0,37.0,clear
+150,Green Gram (Moong),Kudavasal,2016-05-27,6500.0,0.0,37.0,clear
+151,Green Gram (Moong),Mannargudi,2016-05-27,6500.0,0.0,37.0,clear
+152,Green Gram (Moong),Poonthottam,2016-05-27,6500.0,0.0,37.0,clear
+153,Green Gram (Moong),Thiruvarur,2016-05-27,6500.0,0.0,37.0,clear
+154,Green Gram (Moong),Tiruthuraipoondi,2016-05-27,6500.0,0.0,37.0,clear
+155,Green Gram (Moong),Vaduvur,2016-05-27,6500.0,0.0,37.0,clear
+156,Green Gram (Moong),Valangaiman,2016-05-27,6500.0,0.0,37.0,clear
+157,Black Gram (Urd Beans),Koradacheri,2016-05-28,13000.0,0.0,37.4,clear
+158,Black Gram (Urd Beans),Kudavasal,2016-05-28,13000.0,0.0,37.4,clear
+159,Black Gram (Urd Beans),Mannargudi,2016-05-28,13000.0,0.0,37.4,clear
+160,Black Gram (Urd Beans),Poonthottam,2016-05-28,13000.0,0.0,37.4,clear
+161,Black Gram (Urd Beans),Thiruvarur,2016-05-28,13000.0,0.0,37.4,clear
+162,Black Gram (Urd Beans),Tiruthuraipoondi,2016-05-28,13000.0,0.0,37.4,clear
+163,Black Gram (Urd Beans),Vaduvur,2016-05-28,13000.0,0.0,37.4,clear
+164,Black Gram (Urd Beans),Valangaiman,2016-05-28,13000.0,0.0,37.4,clear
+165,Green Gram (Moong),Koradacheri,2016-05-28,6500.0,0.0,37.4,clear
+166,Green Gram (Moong),Kudavasal,2016-05-28,6500.0,0.0,37.4,clear
+167,Green Gram (Moong),Mannargudi,2016-05-28,6500.0,0.0,37.4,clear
+168,Green Gram (Moong),Poonthottam,2016-05-28,6500.0,0.0,37.4,clear
+169,Green Gram (Moong),Thiruvarur,2016-05-28,6500.0,0.0,37.4,clear
+170,Green Gram (Moong),Tiruthuraipoondi,2016-05-28,6500.0,0.0,37.4,clear
+171,Green Gram (Moong),Vaduvur,2016-05-28,6500.0,0.0,37.4,clear
+172,Green Gram (Moong),Valangaiman,2016-05-28,6500.0,0.0,37.4,clear
+173,Black Gram (Urd Beans),Koradacheri,2016-05-30,13000.0,0.0,38.0,clear
+174,Black Gram (Urd Beans),Kudavasal,2016-05-30,13000.0,0.0,38.0,clear
+175,Black Gram (Urd Beans),Mannargudi,2016-05-30,13000.0,0.0,38.0,clear
+176,Black Gram (Urd Beans),Poonthottam,2016-05-30,13000.0,0.0,38.0,clear
+177,Black Gram (Urd Beans),Thiruvarur,2016-05-30,13000.0,0.0,38.0,clear
+178,Black Gram (Urd Beans),Tiruthuraipoondi,2016-05-30,13000.0,0.0,38.0,clear
+179,Black Gram (Urd Beans),Vaduvur,2016-05-30,13000.0,0.0,38.0,clear
+180,Black Gram (Urd Beans),Valangaiman,2016-05-30,13000.0,0.0,38.0,clear
+181,Green Gram (Moong),Koradacheri,2016-05-30,6500.0,0.0,38.0,clear
+182,Green Gram (Moong),Kudavasal,2016-05-30,6500.0,0.0,38.0,clear
+183,Green Gram (Moong),Mannargudi,2016-05-30,6500.0,0.0,38.0,clear
+184,Green Gram (Moong),Poonthottam,2016-05-30,6500.0,0.0,38.0,clear
+185,Green Gram (Moong),Thiruvarur,2016-05-30,6500.0,0.0,38.0,clear
+186,Green Gram (Moong),Tiruthuraipoondi,2016-05-30,6500.0,0.0,38.0,clear
+187,Green Gram (Moong),Vaduvur,2016-05-30,6500.0,0.0,38.0,clear
+188,Green Gram (Moong),Valangaiman,2016-05-30,6500.0,0.0,38.0,clear
+189,Black Gram (Urd Beans),Koradacheri,2016-05-31,13000.0,0.0,37.8,clear
+190,Black Gram (Urd Beans),Kudavasal,2016-05-31,13000.0,0.0,37.8,clear
+191,Black Gram (Urd Beans),Mannargudi,2016-05-31,13000.0,0.0,37.8,clear
+192,Black Gram (Urd Beans),Poonthottam,2016-05-31,13000.0,0.0,37.8,clear
+193,Black Gram (Urd Beans),Thiruvarur,2016-05-31,13000.0,0.0,37.8,clear
+194,Black Gram (Urd Beans),Tiruthuraipoondi,2016-05-31,13000.0,0.0,37.8,clear
+195,Black Gram (Urd Beans),Vaduvur,2016-05-31,13000.0,0.0,37.8,clear
+196,Black Gram (Urd Beans),Valangaiman,2016-05-31,13000.0,0.0,37.8,clear
+197,Green Gram (Moong),Koradacheri,2016-05-31,6500.0,0.0,37.8,clear
+198,Green Gram (Moong),Kudavasal,2016-05-31,6500.0,0.0,37.8,clear
+199,Green Gram (Moong),Mannargudi,2016-05-31,6500.0,0.0,37.8,clear
+200,Green Gram (Moong),Poonthottam,2016-05-31,6500.0,0.0,37.8,clear
+201,Green Gram (Moong),Thiruvarur,2016-05-31,6500.0,0.0,37.8,clear
+202,Green Gram (Moong),Tiruthuraipoondi,2016-05-31,6500.0,0.0,37.8,clear
+203,Green Gram (Moong),Vaduvur,2016-05-31,6500.0,0.0,37.8,clear
+204,Green Gram (Moong),Valangaiman,2016-05-31,6500.0,0.0,37.8,clear
+205,Black Gram (Urd Beans),Koradacheri,2016-01-06,13000.0,0.0,29.4,clear
+206,Black Gram (Urd Beans),Kudavasal,2016-01-06,13000.0,0.0,29.4,clear
+207,Black Gram (Urd Beans),Mannargudi,2016-01-06,13000.0,0.0,29.4,clear
+208,Black Gram (Urd Beans),Poonthottam,2016-01-06,13000.0,0.0,29.4,clear
+209,Black Gram (Urd Beans),Thiruvarur,2016-01-06,13000.0,0.0,29.4,clear
+210,Black Gram (Urd Beans),Tiruthuraipoondi,2016-01-06,13000.0,0.0,29.4,clear
+211,Black Gram (Urd Beans),Vaduvur,2016-01-06,13000.0,0.0,29.4,clear
+212,Black Gram (Urd Beans),Valangaiman,2016-01-06,13000.0,0.0,29.4,clear
+213,Green Gram (Moong),Koradacheri,2016-01-06,6500.0,0.0,29.4,clear
+214,Green Gram (Moong),Kudavasal,2016-01-06,6500.0,0.0,29.4,clear
+215,Green Gram (Moong),Mannargudi,2016-01-06,6500.0,0.0,29.4,clear
+216,Green Gram (Moong),Poonthottam,2016-01-06,6500.0,0.0,29.4,clear
+217,Green Gram (Moong),Thiruvarur,2016-01-06,6500.0,0.0,29.4,clear
+218,Green Gram (Moong),Tiruthuraipoondi,2016-01-06,6500.0,0.0,29.4,clear
+219,Green Gram (Moong),Vaduvur,2016-01-06,6500.0,0.0,29.4,clear
+220,Green Gram (Moong),Valangaiman,2016-01-06,6500.0,0.0,29.4,clear
+221,Black Gram (Urd Beans),Koradacheri,2016-02-06,13000.0,0.0,30.6,clear
+222,Black Gram (Urd Beans),Kudavasal,2016-02-06,13000.0,0.0,30.6,clear
+223,Black Gram (Urd Beans),Mannargudi,2016-02-06,13000.0,0.0,30.6,clear
+224,Black Gram (Urd Beans),Poonthottam,2016-02-06,13000.0,0.0,30.6,clear
+225,Black Gram (Urd Beans),Thiruvarur,2016-02-06,13000.0,0.0,30.6,clear
+226,Black Gram (Urd Beans),Tiruthuraipoondi,2016-02-06,13000.0,0.0,30.6,clear
+227,Black Gram (Urd Beans),Vaduvur,2016-02-06,13000.0,0.0,30.6,clear
+228,Black Gram (Urd Beans),Valangaiman,2016-02-06,13000.0,0.0,30.6,clear
+229,Green Gram (Moong),Koradacheri,2016-02-06,6500.0,0.0,30.6,clear
+230,Green Gram (Moong),Kudavasal,2016-02-06,6500.0,0.0,30.6,clear
+231,Green Gram (Moong),Mannargudi,2016-02-06,6500.0,0.0,30.6,clear
+232,Green Gram (Moong),Poonthottam,2016-02-06,6500.0,0.0,30.6,clear
+233,Green Gram (Moong),Thiruvarur,2016-02-06,6500.0,0.0,30.6,clear
+234,Green Gram (Moong),Tiruthuraipoondi,2016-02-06,6500.0,0.0,30.6,clear
+235,Green Gram (Moong),Vaduvur,2016-02-06,6500.0,0.0,30.6,clear
+236,Green Gram (Moong),Valangaiman,2016-02-06,6500.0,0.0,30.6,clear
+237,Black Gram (Urd Beans),Koradacheri,2016-03-06,13000.0,0.0,32.0,clear
+238,Black Gram (Urd Beans),Kudavasal,2016-03-06,13000.0,0.0,32.0,clear
+239,Black Gram (Urd Beans),Mannargudi,2016-03-06,13000.0,0.0,32.0,clear
+240,Black Gram (Urd Beans),Poonthottam,2016-03-06,13000.0,0.0,32.0,clear
+241,Black Gram (Urd Beans),Thiruvarur,2016-03-06,13000.0,0.0,32.0,clear
+242,Black Gram (Urd Beans),Tiruthuraipoondi,2016-03-06,13000.0,0.0,32.0,clear
+243,Black Gram (Urd Beans),Vaduvur,2016-03-06,13000.0,0.0,32.0,clear
+244,Black Gram (Urd Beans),Valangaiman,2016-03-06,13000.0,0.0,32.0,clear
+245,Green Gram (Moong),Koradacheri,2016-03-06,6500.0,0.0,32.0,clear
+246,Green Gram (Moong),Kudavasal,2016-03-06,6500.0,0.0,32.0,clear
+247,Green Gram (Moong),Mannargudi,2016-03-06,6500.0,0.0,32.0,clear
+248,Green Gram (Moong),Poonthottam,2016-03-06,6500.0,0.0,32.0,clear
+249,Green Gram (Moong),Thiruvarur,2016-03-06,6500.0,0.0,32.0,clear
+250,Green Gram (Moong),Tiruthuraipoondi,2016-03-06,6500.0,0.0,32.0,clear
+251,Green Gram (Moong),Vaduvur,2016-03-06,6500.0,0.0,32.0,clear
+252,Green Gram (Moong),Valangaiman,2016-03-06,6500.0,0.0,32.0,clear
+253,Black Gram (Urd Beans),Koradacheri,2016-04-06,13000.0,0.0,34.2,clear
+254,Black Gram (Urd Beans),Kudavasal,2016-04-06,13000.0,0.0,34.2,clear
+255,Black Gram (Urd Beans),Mannargudi,2016-04-06,13000.0,0.0,34.2,clear
+256,Black Gram (Urd Beans),Poonthottam,2016-04-06,13000.0,0.0,34.2,clear
+257,Black Gram (Urd Beans),Thiruvarur,2016-04-06,13000.0,0.0,34.2,clear
+258,Black Gram (Urd Beans),Tiruthuraipoondi,2016-04-06,13000.0,0.0,34.2,clear
+259,Black Gram (Urd Beans),Vaduvur,2016-04-06,13000.0,0.0,34.2,clear
+260,Black Gram (Urd Beans),Valangaiman,2016-04-06,13000.0,0.0,34.2,clear
+261,Green Gram (Moong),Koradacheri,2016-04-06,6500.0,0.0,34.2,clear
+262,Green Gram (Moong),Kudavasal,2016-04-06,6500.0,0.0,34.2,clear
+263,Green Gram (Moong),Mannargudi,2016-04-06,6500.0,0.0,34.2,clear
+264,Green Gram (Moong),Poonthottam,2016-04-06,6500.0,0.0,34.2,clear
+265,Green Gram (Moong),Thiruvarur,2016-04-06,6500.0,0.0,34.2,clear
+266,Green Gram (Moong),Tiruthuraipoondi,2016-04-06,6500.0,0.0,34.2,clear
+267,Green Gram (Moong),Vaduvur,2016-04-06,6500.0,0.0,34.2,clear
+268,Green Gram (Moong),Valangaiman,2016-04-06,6500.0,0.0,34.2,clear
+269,Black Gram (Urd Beans),Koradacheri,2016-06-06,13000.0,0.0,34.0,clear
+270,Black Gram (Urd Beans),Kudavasal,2016-06-06,13000.0,0.0,34.0,clear
+271,Black Gram (Urd Beans),Mannargudi,2016-06-06,13000.0,0.0,34.0,clear
+272,Black Gram (Urd Beans),Poonthottam,2016-06-06,13000.0,0.0,34.0,clear
+273,Black Gram (Urd Beans),Thiruvarur,2016-06-06,13000.0,0.0,34.0,clear
+274,Black Gram (Urd Beans),Tiruthuraipoondi,2016-06-06,13000.0,0.0,34.0,clear
+275,Black Gram (Urd Beans),Vaduvur,2016-06-06,13000.0,0.0,34.0,clear
+276,Black Gram (Urd Beans),Valangaiman,2016-06-06,13000.0,0.0,34.0,clear
+277,Green Gram (Moong),Koradacheri,2016-06-06,6500.0,0.0,34.0,clear
+278,Green Gram (Moong),Kudavasal,2016-06-06,6500.0,0.0,34.0,clear
+279,Green Gram (Moong),Mannargudi,2016-06-06,6500.0,0.0,34.0,clear
+280,Green Gram (Moong),Poonthottam,2016-06-06,6500.0,0.0,34.0,clear
+281,Green Gram (Moong),Thiruvarur,2016-06-06,6500.0,0.0,34.0,clear
+282,Green Gram (Moong),Tiruthuraipoondi,2016-06-06,6500.0,0.0,34.0,clear
+283,Green Gram (Moong),Vaduvur,2016-06-06,6500.0,0.0,34.0,clear
+284,Green Gram (Moong),Valangaiman,2016-06-06,6500.0,0.0,34.0,clear
+285,Black Gram (Urd Beans),Koradacheri,2016-07-06,13000.0,0.0,35.2,rain
+286,Black Gram (Urd Beans),Kudavasal,2016-07-06,13000.0,0.0,35.2,rain
+287,Black Gram (Urd Beans),Mannargudi,2016-07-06,13000.0,0.0,35.2,rain
+288,Black Gram (Urd Beans),Poonthottam,2016-07-06,13000.0,0.0,35.2,rain
+289,Black Gram (Urd Beans),Thiruvarur,2016-07-06,13000.0,0.0,35.2,rain
+290,Black Gram (Urd Beans),Tiruthuraipoondi,2016-07-06,13000.0,0.0,35.2,rain
+291,Black Gram (Urd Beans),Vaduvur,2016-07-06,13000.0,0.0,35.2,rain
+292,Black Gram (Urd Beans),Valangaiman,2016-07-06,13000.0,0.0,35.2,rain
+293,Green Gram (Moong),Koradacheri,2016-07-06,6500.0,0.0,35.2,rain
+294,Green Gram (Moong),Mannargudi,2016-07-06,6500.0,0.0,35.2,rain
+295,Green Gram (Moong),Poonthottam,2016-07-06,6500.0,0.0,35.2,rain
+296,Green Gram (Moong),Thiruvarur,2016-07-06,6500.0,0.0,35.2,rain
+297,Green Gram (Moong),Tiruthuraipoondi,2016-07-06,6500.0,0.0,35.2,rain
+298,Green Gram (Moong),Vaduvur,2016-07-06,6500.0,0.0,35.2,rain
+299,Green Gram (Moong),Valangaiman,2016-07-06,6500.0,0.0,35.2,rain
+300,Black Gram (Urd Beans),Koradacheri,2016-08-06,13000.0,0.0,38.2,clear
+301,Black Gram (Urd Beans),Kudavasal,2016-08-06,13000.0,0.0,38.2,clear
+302,Black Gram (Urd Beans),Mannargudi,2016-08-06,13000.0,0.0,38.2,clear
+303,Black Gram (Urd Beans),Poonthottam,2016-08-06,13000.0,0.0,38.2,clear
+304,Black Gram (Urd Beans),Thiruvarur,2016-08-06,13000.0,0.0,38.2,clear
+305,Black Gram (Urd Beans),Tiruthuraipoondi,2016-08-06,13000.0,0.0,38.2,clear
+306,Black Gram (Urd Beans),Vaduvur,2016-08-06,13000.0,0.0,38.2,clear
+307,Black Gram (Urd Beans),Valangaiman,2016-08-06,13000.0,0.0,38.2,clear
+308,Green Gram (Moong),Koradacheri,2016-08-06,6500.0,0.0,38.2,clear
+309,Green Gram (Moong),Kudavasal,2016-08-06,6500.0,0.0,38.2,clear
+310,Green Gram (Moong),Mannargudi,2016-08-06,6500.0,0.0,38.2,clear
+311,Green Gram (Moong),Poonthottam,2016-08-06,6500.0,0.0,38.2,clear
+312,Green Gram (Moong),Thiruvarur,2016-08-06,6500.0,0.0,38.2,clear
+313,Green Gram (Moong),Tiruthuraipoondi,2016-08-06,6500.0,0.0,38.2,clear
+314,Green Gram (Moong),Vaduvur,2016-08-06,6500.0,0.0,38.2,clear
+315,Green Gram (Moong),Valangaiman,2016-08-06,6500.0,0.0,38.2,clear
+316,Black Gram (Urd Beans),Koradacheri,2016-09-06,13000.0,0.0,34.6,clear
+317,Black Gram (Urd Beans),Kudavasal,2016-09-06,13000.0,0.0,34.6,clear
+318,Black Gram (Urd Beans),Mannargudi,2016-09-06,13000.0,0.0,34.6,clear
+319,Black Gram (Urd Beans),Poonthottam,2016-09-06,13000.0,0.0,34.6,clear
+320,Black Gram (Urd Beans),Thiruvarur,2016-09-06,13000.0,0.0,34.6,clear
+321,Black Gram (Urd Beans),Tiruthuraipoondi,2016-09-06,13000.0,0.0,34.6,clear
+322,Black Gram (Urd Beans),Vaduvur,2016-09-06,13000.0,0.0,34.6,clear
+323,Black Gram (Urd Beans),Valangaiman,2016-09-06,13000.0,0.0,34.6,clear
+324,Green Gram (Moong),Koradacheri,2016-09-06,6500.0,0.0,34.6,clear
+325,Green Gram (Moong),Kudavasal,2016-09-06,6500.0,0.0,34.6,clear
+326,Green Gram (Moong),Mannargudi,2016-09-06,6500.0,0.0,34.6,clear
+327,Green Gram (Moong),Poonthottam,2016-09-06,6500.0,0.0,34.6,clear
+328,Green Gram (Moong),Thiruvarur,2016-09-06,6500.0,0.0,34.6,clear
+329,Green Gram (Moong),Tiruthuraipoondi,2016-09-06,6500.0,0.0,34.6,clear
+330,Green Gram (Moong),Vaduvur,2016-09-06,6500.0,0.0,34.6,clear
+331,Green Gram (Moong),Valangaiman,2016-09-06,6500.0,0.0,34.6,clear
+332,Black Gram (Urd Beans),Koradacheri,2016-10-06,13000.0,0.0,35.4,clear
+333,Black Gram (Urd Beans),Kudavasal,2016-10-06,13000.0,0.0,35.4,clear
+334,Black Gram (Urd Beans),Mannargudi,2016-10-06,13000.0,0.0,35.4,clear
+335,Black Gram (Urd Beans),Poonthottam,2016-10-06,13000.0,0.0,35.4,clear
+336,Black Gram (Urd Beans),Thiruvarur,2016-10-06,13000.0,0.0,35.4,clear
+337,Black Gram (Urd Beans),Tiruthuraipoondi,2016-10-06,13000.0,0.0,35.4,clear
+338,Black Gram (Urd Beans),Vaduvur,2016-10-06,13000.0,0.0,35.4,clear
+339,Black Gram (Urd Beans),Valangaiman,2016-10-06,13000.0,0.0,35.4,clear
+340,Green Gram (Moong),Koradacheri,2016-10-06,6500.0,0.0,35.4,clear
+341,Green Gram (Moong),Kudavasal,2016-10-06,6500.0,0.0,35.4,clear
+342,Green Gram (Moong),Mannargudi,2016-10-06,6500.0,0.0,35.4,clear
+343,Green Gram (Moong),Poonthottam,2016-10-06,6500.0,0.0,35.4,clear
+344,Green Gram (Moong),Thiruvarur,2016-10-06,6500.0,0.0,35.4,clear
+345,Green Gram (Moong),Tiruthuraipoondi,2016-10-06,6500.0,0.0,35.4,clear
+346,Green Gram (Moong),Vaduvur,2016-10-06,6500.0,0.0,35.4,clear
+347,Green Gram (Moong),Valangaiman,2016-10-06,6500.0,0.0,35.4,clear
+348,Black Gram (Urd Beans),Koradacheri,2016-11-06,13000.0,0.0,32.8,clear
+349,Black Gram (Urd Beans),Mannargudi,2016-11-06,13000.0,0.0,32.8,clear
+350,Black Gram (Urd Beans),Tiruthuraipoondi,2016-11-06,13000.0,0.0,32.8,clear
+351,Black Gram (Urd Beans),Vaduvur,2016-11-06,13000.0,0.0,32.8,clear
+352,Black Gram (Urd Beans),Valangaiman,2016-11-06,13000.0,0.0,32.8,clear
+353,Green Gram (Moong),Koradacheri,2016-11-06,6500.0,0.0,32.8,clear
+354,Green Gram (Moong),Mannargudi,2016-11-06,6500.0,0.0,32.8,clear
+355,Green Gram (Moong),Tiruthuraipoondi,2016-11-06,6500.0,0.0,32.8,clear
+356,Green Gram (Moong),Vaduvur,2016-11-06,6500.0,0.0,32.8,clear
+357,Black Gram (Urd Beans),Koradacheri,2016-06-13,13000.0,0.0,37.2,clear
+358,Black Gram (Urd Beans),Mannargudi,2016-06-13,13000.0,0.0,37.2,clear
+359,Black Gram (Urd Beans),Thiruvarur,2016-06-13,13000.0,0.0,37.2,clear
+360,Black Gram (Urd Beans),Tiruthuraipoondi,2016-06-13,13000.0,0.0,37.2,clear
+361,Black Gram (Urd Beans),Vaduvur,2016-06-13,13000.0,0.0,37.2,clear
+362,Green Gram (Moong),Koradacheri,2016-06-13,6500.0,0.0,37.2,clear
+363,Green Gram (Moong),Mannargudi,2016-06-13,6500.0,0.0,37.2,clear
+364,Green Gram (Moong),Thiruvarur,2016-06-13,6500.0,0.0,37.2,clear
+365,Green Gram (Moong),Tiruthuraipoondi,2016-06-13,6500.0,0.0,37.2,clear
+366,Green Gram (Moong),Vaduvur,2016-06-13,6500.0,0.0,37.2,clear
+367,Black Gram (Urd Beans),Koradacheri,2016-06-14,13000.0,0.0,37.8,clear
+368,Black Gram (Urd Beans),Kudavasal,2016-06-14,13000.0,0.0,37.8,clear
+369,Black Gram (Urd Beans),Mannargudi,2016-06-14,13000.0,0.0,37.8,clear
+370,Black Gram (Urd Beans),Tiruthuraipoondi,2016-06-14,13000.0,0.0,37.8,clear
+371,Black Gram (Urd Beans),Vaduvur,2016-06-14,13000.0,0.0,37.8,clear
+372,Green Gram (Moong),Koradacheri,2016-06-14,6500.0,0.0,37.8,clear
+373,Green Gram (Moong),Kudavasal,2016-06-14,6500.0,0.0,37.8,clear
+374,Green Gram (Moong),Mannargudi,2016-06-14,6500.0,0.0,37.8,clear
+375,Green Gram (Moong),Tiruthuraipoondi,2016-06-14,6500.0,0.0,37.8,clear
+376,Green Gram (Moong),Vaduvur,2016-06-14,6500.0,0.0,37.8,clear
+377,Black Gram (Urd Beans),Koradacheri,2016-06-15,13000.0,0.0,37.4,clear
+378,Black Gram (Urd Beans),Kudavasal,2016-06-15,13000.0,0.0,37.4,clear
+379,Black Gram (Urd Beans),Mannargudi,2016-06-15,13000.0,0.0,37.4,clear
+380,Black Gram (Urd Beans),Tiruthuraipoondi,2016-06-15,13000.0,0.0,37.4,clear
+381,Black Gram (Urd Beans),Vaduvur,2016-06-15,13000.0,0.0,37.4,clear
+382,Green Gram (Moong),Koradacheri,2016-06-15,6500.0,0.0,37.4,clear
+383,Green Gram (Moong),Kudavasal,2016-06-15,6500.0,0.0,37.4,clear
+384,Green Gram (Moong),Mannargudi,2016-06-15,6500.0,0.0,37.4,clear
+385,Green Gram (Moong),Tiruthuraipoondi,2016-06-15,6500.0,0.0,37.4,clear
+386,Green Gram (Moong),Vaduvur,2016-06-15,6500.0,0.0,37.4,clear
+387,Black Gram (Urd Beans),Kudavasal,2016-06-27,5229.0,0.0,35.2,clear
+388,Black Gram (Urd Beans),Kudavasal,2016-05-08,5567.0,0.0,35.0,clear
+389,Black Gram (Urd Beans),Mannargudi,2016-06-16,13000.0,0.0,36.2,clear
+390,Black Gram (Urd Beans),Tiruthuraipoondi,2016-06-16,13000.0,0.0,36.2,clear
+391,Black Gram (Urd Beans),Vaduvur,2016-06-16,13000.0,0.0,36.2,clear
+392,Green Gram (Moong),Mannargudi,2016-06-16,6500.0,0.0,36.2,clear
+393,Green Gram (Moong),Tiruthuraipoondi,2016-06-16,6500.0,0.0,36.2,clear
+394,Green Gram (Moong),Vaduvur,2016-06-16,6500.0,0.0,36.2,clear
+395,Black Gram (Urd Beans),Mannargudi,2016-06-18,13000.0,0.0,34.6,rain
+396,Black Gram (Urd Beans),Tiruthuraipoondi,2016-06-18,13000.0,0.0,34.6,rain
+397,Green Gram (Moong),Mannargudi,2016-06-18,6500.0,0.0,34.6,rain
+398,Green Gram (Moong),Tiruthuraipoondi,2016-06-18,6500.0,0.0,34.6,rain
+399,Black Gram (Urd Beans),Poonthottam,2016-07-13,5864.0,0.0,38.2,clear
+400,Black Gram (Urd Beans),Poonthottam,2016-01-10,6319.0,0.0,29.4,clear
+401,Black Gram (Urd Beans),Thiruvarur,2016-08-30,5637.0,0.0,34.8,rain
+402,Black Gram (Urd Beans),Tiruthuraipoondi,2016-06-17,13000.0,0.0,36.2,clear
+403,Black Gram (Urd Beans),Vaduvur,2016-06-17,13000.0,0.0,36.2,clear
+404,Green Gram (Moong),Tiruthuraipoondi,2016-06-17,6500.0,0.0,36.2,clear
+405,Green Gram (Moong),Vaduvur,2016-06-17,6500.0,0.0,36.2,clear
+406,Black Gram (Urd Beans),Valangaiman,2016-09-08,6000.0,0.0,36.4,clear
+407,Black Gram (Urd Beans),Thiruvarur,2017-06-13,4723.0,0.0,36.8,clear

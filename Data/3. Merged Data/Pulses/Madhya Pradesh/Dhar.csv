@@ -1,0 +1,1499 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Dhamnod,2012-06-08,3000.0,1.0,35.6,clear
+1,Black Gram (Urd Beans),Dhamnod,2012-10-12,3000.0,8.0,32.6,clear
+2,Black Gram (Urd Beans),Dhamnod,2012-12-21,2500.0,2.3,24.6,clear
+3,Black Gram (Urd Beans),Gandhwani,2012-09-24,3500.0,16.8,29.8,clear
+4,Black Gram (Urd Beans),Gandhwani,2012-11-19,3100.0,2.0,27.6,clear
+5,Green Gram (Moong),Gandhwani,2012-11-19,4100.0,2.7,27.6,clear
+6,Green Gram (Moong),Gandhwani,2012-10-26,4200.0,24.7,30.0,clear
+7,Green Gram (Moong),Manawar,2012-01-31,3600.0,5.0,22.6,clear
+8,Green Gram (Moong),Manawar,2012-09-14,4000.0,3.0,26.8,clear
+9,Green Gram (Moong),Manawar,2012-09-15,3900.0,4.0,26.0,clear
+10,Green Gram (Moong),Manawar,2012-09-20,3800.0,11.0,31.0,clear
+11,Green Gram (Moong),Manawar,2012-09-23,3500.0,16.1,30.2,clear
+12,Green Gram (Moong),Manawar,2012-09-27,3000.0,8.0,30.4,clear
+13,Green Gram (Moong),Manawar,2012-09-28,3400.0,5.0,31.6,clear
+14,Green Gram (Moong),Manawar,2012-09-29,3000.0,2.3,31.8,clear
+15,Green Gram (Moong),Manawar,2012-09-30,3000.0,1.9,33.2,clear
+16,Green Gram (Moong),Manawar,2012-04-10,3500.0,5.0,38.8,clear
+17,Green Gram (Moong),Manawar,2012-05-10,3450.0,6.8,38.0,clear
+18,Green Gram (Moong),Manawar,2012-06-10,3450.0,11.7,34.0,clear
+19,Green Gram (Moong),Manawar,2012-08-10,3450.0,6.0,23.4,clear
+20,Green Gram (Moong),Manawar,2012-09-10,3500.0,4.0,30.2,rain
+21,Green Gram (Moong),Manawar,2012-12-10,4000.0,10.2,27.6,clear
+22,Green Gram (Moong),Manawar,2012-10-18,3800.0,4.4,32.8,clear
+23,Green Gram (Moong),Manawar,2012-10-19,3800.0,5.8,32.8,clear
+24,Green Gram (Moong),Manawar,2012-01-11,3500.0,4.0,20.4,clear
+25,Green Gram (Moong),Manawar,2012-09-11,4401.0,0.3,29.4,clear
+26,Green Gram (Moong),Manawar,2012-11-16,4100.0,8.0,27.4,clear
+27,Green Gram (Moong),Manawar,2012-11-17,3500.0,2.7,27.0,clear
+28,Green Gram (Moong),Manawar,2012-08-12,4000.0,4.5,23.4,rain
+29,Green Gram (Moong),Manawar,2012-12-15,3500.0,1.7,26.8,clear
+30,Arhar (Tur/Red Gram),Dhamnod,2013-03-25,3500.0,1.4,34.8,clear
+31,Black Gram (Urd Beans),Dhamnod,2013-03-25,4300.0,0.6,34.8,clear
+32,Arhar (Tur/Red Gram),Dhamnod,2013-05-15,3500.0,1.1,39.6,clear
+33,Arhar (Tur/Red Gram),Dhamnod,2013-06-15,3500.0,2.5,30.4,clear
+34,Arhar (Tur/Red Gram),Dhamnod,2013-10-19,3000.0,1.6,33.4,clear
+35,Arhar (Tur/Red Gram),Manawar,2013-05-26,3300.0,0.8,37.4,clear
+36,Black Gram (Urd Beans),Dhamnod,2013-02-21,4200.0,6.0,28.6,clear
+37,Black Gram (Urd Beans),Manawar,2013-07-19,3025.0,0.5,26.8,clear
+38,Green Gram (Moong),Manawar,2013-07-19,3200.0,0.6,26.8,clear
+39,Green Gram (Moong),Manawar,2013-10-06,4800.0,4.0,27.8,clear
+40,Green Gram (Moong),Manawar,2013-12-06,3500.0,1.57,24.6,clear
+41,Green Gram (Moong),Manawar,2013-06-22,4800.0,20.0,29.2,clear
+42,Green Gram (Moong),Manawar,2013-06-24,4780.0,9.5,28.4,clear
+43,Green Gram (Moong),Manawar,2013-08-30,4000.0,0.05,28.4,clear
+44,Green Gram (Moong),Manawar,2013-02-09,3000.0,0.25,24.0,clear
+45,Green Gram (Moong),Manawar,2013-06-09,3600.0,0.1,32.2,clear
+46,Green Gram (Moong),Manawar,2013-09-09,3500.0,0.1,32.8,clear
+47,Green Gram (Moong),Manawar,2013-09-13,3800.0,0.1,33.8,clear
+48,Green Gram (Moong),Manawar,2013-09-18,3600.0,0.9,34.0,clear
+49,Green Gram (Moong),Manawar,2013-09-20,3650.0,0.55,32.6,clear
+50,Green Gram (Moong),Manawar,2013-09-26,3450.0,0.5,30.0,clear
+51,Green Gram (Moong),Manawar,2013-07-10,3550.0,0.5,29.0,clear
+52,Arhar (Tur/Red Gram),Dhamnod,2014-07-05,3000.0,1.8,36.2,clear
+53,Arhar (Tur/Red Gram),Dhamnod,2014-05-22,3200.0,1.0,40.0,clear
+54,Black Gram (Urd Beans),Dhamnod,2014-05-22,2200.0,3.0,40.0,clear
+55,Arhar (Tur/Red Gram),Dhamnod,2014-06-24,3500.0,2.3,36.2,clear
+56,Black Gram (Urd Beans),Dhamnod,2014-06-24,2000.0,2.2,36.2,clear
+57,Arhar (Tur/Red Gram),Dhamnod,2014-08-27,3300.0,0.6,30.4,clear
+58,Black Gram (Urd Beans),Dhamnod,2014-08-27,3000.0,0.1,30.4,clear
+59,Green Gram (Moong),Dhamnod,2014-08-27,5500.0,0.4,30.4,clear
+60,Arhar (Tur/Red Gram),Gandhwani,2014-06-11,4000.0,30.4,39.4,rain
+61,Arhar (Tur/Red Gram),Gandhwani,2014-08-11,4009.0,80.4,27.8,clear
+62,Arhar (Tur/Red Gram),Manawar,2014-03-29,3000.0,0.8,36.2,clear
+63,Arhar (Tur/Red Gram),Manawar,2014-05-21,3000.0,2.0,40.2,clear
+64,Green Gram (Moong),Manawar,2014-05-21,7000.0,2.0,40.2,clear
+65,Green Gram (Moong),Manawar,2014-08-10,5350.0,5.0,29.4,clear
+66,Green Gram (Moong),Manawar,2014-11-17,6210.0,2.0,29.0,clear
+67,Green Gram (Moong),Manawar,2014-11-18,6210.0,2.0,29.4,clear
+68,Arhar (Tur/Red Gram),Dhamnod,2015-12-02,4000.0,1.2,30.2,clear
+69,Arhar (Tur/Red Gram),Gandhwani,2015-02-03,1410.0,20.0,27.2,clear
+70,Arhar (Tur/Red Gram),Manawar,2015-02-15,1235.0,2.5,30.0,clear
+71,Black Gram (Urd Beans),Dhamnod,2015-03-24,4420.0,1.3,36.4,clear
+72,Lentil(Masur),Dhar,2015-03-24,3200.0,0.3,36.4,clear
+73,Green Gram (Moong),Dhamnod,2015-11-05,6250.0,0.5,32.6,clear
+74,Green Gram (Moong),Dhamnod,2015-05-13,6700.0,0.1,39.0,rain
+75,Lentil(Masur),Dhar,2015-05-13,5700.0,0.8,39.0,rain
+76,Green Gram (Moong),Dhamnod,2015-05-16,6805.0,0.3,40.8,clear
+77,Green Gram (Moong),Dhamnod,2015-05-19,5700.0,0.5,42.6,clear
+78,Green Gram (Moong),Dhamnod,2015-05-23,5910.0,0.5,39.6,clear
+79,Green Gram (Moong),Dhamnod,2015-05-25,6451.0,0.4,40.0,clear
+80,Green Gram (Moong),Dhamnod,2015-05-26,6701.0,0.4,40.0,clear
+81,Lentil(Masur),Dhar,2015-05-26,4500.0,0.4,40.0,clear
+82,Green Gram (Moong),Dhamnod,2015-05-30,6355.0,0.4,41.6,clear
+83,Green Gram (Moong),Dhamnod,2015-02-06,5825.0,0.1,29.2,clear
+84,Lentil(Masur),Dhar,2015-02-06,5800.0,4.0,29.2,clear
+85,Green Gram (Moong),Dhamnod,2015-03-06,5710.0,0.3,28.4,clear
+86,Lentil(Masur),Dhar,2015-03-06,5500.0,0.3,28.4,clear
+87,Green Gram (Moong),Dhamnod,2015-06-06,5605.0,0.3,36.4,clear
+88,Green Gram (Moong),Dhamnod,2015-11-06,6000.0,0.1,31.6,clear
+89,Green Gram (Moong),Dhamnod,2015-06-27,6116.0,0.3,32.4,clear
+90,Green Gram (Moong),Dhamnod,2015-01-07,5270.0,0.3,24.0,clear
+91,Green Gram (Moong),Dhamnod,2015-02-07,5300.0,0.1,28.6,clear
+92,Green Gram (Moong),Dhamnod,2015-07-23,3000.0,0.3,29.2,rain
+93,Green Gram (Moong),Dhamnod,2015-06-08,6000.0,0.1,35.4,clear
+94,Green Gram (Moong),Dhamnod,2015-08-21,2900.0,0.1,29.2,clear
+95,Green Gram (Moong),Gandhwani,2015-08-25,2500.0,1.0,30.6,clear
+96,Green Gram (Moong),Gandhwani,2015-12-17,6500.0,4.35,23.6,clear
+97,Green Gram (Moong),Manawar,2015-12-05,7000.0,3.0,29.0,clear
+98,Lentil(Masur),Dhar,2015-12-05,5600.0,2.2,29.0,clear
+99,Green Gram (Moong),Manawar,2015-05-20,6175.0,5.0,42.4,clear
+100,Green Gram (Moong),Manawar,2015-05-29,6525.0,2.5,41.2,clear
+101,Green Gram (Moong),Manawar,2015-11-07,5975.0,11.0,31.4,clear
+102,Green Gram (Moong),Manawar,2015-08-17,6000.0,4.5,26.6,clear
+103,Green Gram (Moong),Manawar,2015-08-18,5900.0,4.5,26.0,clear
+104,Green Gram (Moong),Manawar,2015-11-09,7000.0,3.0,31.0,clear
+105,Lentil(Masur),Dhar,2015-02-16,5000.0,16.0,33.2,clear
+106,Lentil(Masur),Dhar,2015-02-18,4950.0,97.0,29.6,clear
+107,Lentil(Masur),Dhar,2015-02-19,4950.0,115.0,30.2,clear
+108,Lentil(Masur),Dhar,2015-02-20,4700.0,186.0,32.4,clear
+109,Lentil(Masur),Dhar,2015-02-21,4700.0,17.8,31.0,clear
+110,Lentil(Masur),Dhar,2015-02-23,4640.0,9.5,32.4,clear
+111,Lentil(Masur),Dhar,2015-02-24,4560.0,6.7,33.6,clear
+112,Lentil(Masur),Dhar,2015-02-25,4470.0,17.4,31.8,clear
+113,Lentil(Masur),Dhar,2015-02-26,4450.0,20.5,29.0,clear
+114,Lentil(Masur),Dhar,2015-02-27,4500.0,11.3,27.2,clear
+115,Lentil(Masur),Dhar,2015-02-28,4390.0,3.9,29.0,clear
+116,Lentil(Masur),Dhar,2015-03-03,4380.0,6.8,24.0,clear
+117,Lentil(Masur),Dhar,2015-04-03,4370.0,6.1,36.4,clear
+118,Lentil(Masur),Dhar,2015-05-03,4300.0,6.3,39.4,clear
+119,Lentil(Masur),Dhar,2015-09-03,4000.0,7.8,31.0,clear
+120,Lentil(Masur),Dhar,2015-11-03,4180.0,1.2,31.8,clear
+121,Lentil(Masur),Dhar,2015-12-03,4130.0,3.0,26.6,clear
+122,Lentil(Masur),Dhar,2015-03-13,4100.0,1.5,21.2,rain
+123,Lentil(Masur),Dhar,2015-03-17,4200.0,0.4,28.0,clear
+124,Lentil(Masur),Dhar,2015-03-19,4420.0,7.0,30.0,clear
+125,Lentil(Masur),Dhar,2015-03-20,4000.0,1.0,32.2,clear
+126,Lentil(Masur),Dhar,2015-03-23,3600.0,0.4,36.8,clear
+127,Lentil(Masur),Dhar,2015-03-27,4300.0,0.6,37.0,clear
+128,Lentil(Masur),Dhar,2015-06-04,2800.0,0.3,38.0,clear
+129,Lentil(Masur),Dhar,2015-08-04,4500.0,0.1,25.6,rain
+130,Lentil(Masur),Dhar,2015-09-04,5000.0,0.4,31.8,clear
+131,Lentil(Masur),Dhar,2015-10-04,5000.0,0.8,34.6,clear
+132,Lentil(Masur),Dhar,2015-04-13,5000.0,0.4,26.0,clear
+133,Lentil(Masur),Dhar,2015-04-15,4860.0,0.7,30.2,clear
+134,Lentil(Masur),Dhar,2015-04-16,5100.0,1.4,33.4,clear
+135,Lentil(Masur),Dhar,2015-01-06,5500.0,3.0,23.4,clear
+136,Lentil(Masur),Dhar,2015-07-14,6000.0,3.5,33.4,clear
+137,Lentil(Masur),Dhar,2015-10-08,5000.0,0.3,34.8,clear
+138,Lentil(Masur),Dhar,2015-12-08,5500.0,0.6,31.0,clear
+139,Arhar (Tur/Red Gram),Dhamnod,2016-05-23,800.0,0.0,38.6,clear
+140,Bengal Gram(Gram),Badnawar,2016-05-23,5375.0,6.0,38.6,clear
+141,Bengal Gram(Gram),Dhar,2016-05-23,5540.0,10.4,38.6,clear
+142,Green Gram (Moong),Dhamnod,2016-05-23,5600.0,0.2,38.6,clear
+143,Lentil(Masur),Badnawar,2016-05-23,5100.0,0.6,38.6,clear
+144,Lentil(Masur),Dhar,2016-05-23,5300.0,1.4,38.6,clear
+145,Arhar (Tur/Red Gram),Dhamnod,2016-05-28,5650.0,0.0,37.0,clear
+146,Bengal Gram(Gram),Dhar,2016-05-28,5590.0,4.2,37.0,clear
+147,Green Gram (Moong),Dhamnod,2016-05-28,5650.0,1.2,37.0,clear
+148,Lentil(Masur),Dhar,2016-05-28,5100.0,6.0,37.0,clear
+149,Arhar (Tur/Red Gram),Dhamnod,2016-05-29,1500.0,0.0,36.4,clear
+150,Arhar (Tur/Red Gram),Dhamnod,2016-09-20,4105.0,21.5,29.8,rain
+151,Arhar (Tur/Red Gram),Gandhwani,2016-03-20,1450.0,41.0,35.2,clear
+152,Arhar (Tur/Red Gram),Gandhwani,2016-04-04,1500.0,105.0,38.2,clear
+153,Bengal Gram(Gram),Dhar,2016-04-04,4650.0,15.7,38.2,clear
+154,Lentil(Masur),Dhar,2016-04-04,8500.0,137.3,38.2,clear
+155,Arhar (Tur/Red Gram),Gandhwani,2016-04-07,1550.0,10.0,34.4,clear
+156,Bengal Gram(Gram),Dhar,2016-04-07,7150.0,1.7,34.4,clear
+157,Lentil(Masur),Dhar,2016-04-07,5000.0,1.0,34.4,clear
+158,Arhar (Tur/Red Gram),Gandhwani,2016-05-07,1550.0,5.0,36.2,clear
+159,Bengal Gram(Gram),Badnawar,2016-05-07,7005.0,0.8,36.2,clear
+160,Bengal Gram(Gram),Dhar,2016-05-07,7275.0,0.5,36.2,clear
+161,Lentil(Masur),Dhar,2016-05-07,5200.0,1.3,36.2,clear
+162,Arhar (Tur/Red Gram),Gandhwani,2016-07-10,1650.0,1.0,25.2,clear
+163,Bengal Gram(Gram),Dhar,2016-07-10,9400.0,1.5,25.2,clear
+164,Arhar (Tur/Red Gram),Manawar,2016-06-30,6050.0,0.3,31.0,clear
+165,Bengal Gram(Gram),Badnawar,2016-06-30,6800.0,3.8,31.0,clear
+166,Bengal Gram(Gram),Dhar,2016-06-30,7175.0,1.1,31.0,clear
+167,Green Gram (Moong),Dhamnod,2016-06-30,5405.0,2.3,31.0,clear
+168,Bengal Gram(Gram),Badnawar,2016-01-18,6090.0,2.6,25.6,clear
+169,Bengal Gram(Gram),Badnawar,2016-01-19,6140.0,1.9,21.6,clear
+170,Bengal Gram(Gram),Badnawar,2016-01-20,6150.0,20.0,20.4,clear
+171,Bengal Gram(Gram),Badnawar,2016-01-21,5995.0,0.9,20.8,clear
+172,Bengal Gram(Gram),Badnawar,2016-01-22,5775.0,1.5,23.4,clear
+173,Bengal Gram(Gram),Badnawar,2016-01-25,6050.0,3.5,28.0,clear
+174,Lentil(Masur),Dhar,2016-01-25,4650.0,1.5,28.0,clear
+175,Bengal Gram(Gram),Badnawar,2016-01-28,6100.0,7.0,26.8,clear
+176,Lentil(Masur),Dhar,2016-01-28,4500.0,4.4,26.8,clear
+177,Bengal Gram(Gram),Badnawar,2016-01-30,6050.0,10.0,31.6,clear
+178,Lentil(Masur),Dhar,2016-01-30,4250.0,14.8,31.6,clear
+179,Bengal Gram(Gram),Badnawar,2016-01-02,6080.0,20.0,27.6,clear
+180,Lentil(Masur),Dhar,2016-01-02,4080.0,4.9,27.6,clear
+181,Bengal Gram(Gram),Badnawar,2016-02-02,6000.0,18.0,27.0,clear
+182,Lentil(Masur),Dhar,2016-02-02,4000.0,10.9,27.0,clear
+183,Bengal Gram(Gram),Badnawar,2016-04-02,6000.0,24.0,39.2,clear
+184,Lentil(Masur),Dhar,2016-04-02,4150.0,4.2,39.2,clear
+185,Bengal Gram(Gram),Badnawar,2016-05-02,6050.0,43.0,38.6,clear
+186,Lentil(Masur),Dhar,2016-05-02,4300.0,13.0,38.6,clear
+187,Bengal Gram(Gram),Badnawar,2016-09-02,5800.0,80.0,26.4,clear
+188,Lentil(Masur),Dhar,2016-09-02,4550.0,4.4,26.4,clear
+189,Bengal Gram(Gram),Badnawar,2016-10-02,5940.0,74.0,31.2,clear
+190,Lentil(Masur),Dhar,2016-10-02,4400.0,2.5,31.2,clear
+191,Bengal Gram(Gram),Badnawar,2016-11-02,5950.0,50.0,29.2,clear
+192,Bengal Gram(Gram),Badnawar,2016-02-15,6000.0,50.0,27.4,clear
+193,Lentil(Masur),Dhar,2016-02-15,4500.0,5.3,27.4,clear
+194,Bengal Gram(Gram),Badnawar,2016-02-16,6000.0,90.0,27.6,clear
+195,Lentil(Masur),Dhar,2016-02-16,4600.0,0.9,27.6,clear
+196,Bengal Gram(Gram),Badnawar,2016-02-17,6150.0,60.0,31.8,clear
+197,Bengal Gram(Gram),Badnawar,2016-02-19,6250.0,60.0,33.8,clear
+198,Lentil(Masur),Dhar,2016-02-19,4550.0,5.3,33.8,clear
+199,Bengal Gram(Gram),Badnawar,2016-02-20,6145.0,80.0,31.0,clear
+200,Lentil(Masur),Dhar,2016-02-20,4400.0,4.7,31.0,clear
+201,Bengal Gram(Gram),Badnawar,2016-02-23,6060.0,80.0,29.4,clear
+202,Lentil(Masur),Badnawar,2016-02-23,4275.0,1.5,29.4,clear
+203,Lentil(Masur),Dhar,2016-02-23,4400.0,4.4,29.4,clear
+204,Bengal Gram(Gram),Badnawar,2016-02-24,6060.0,95.0,29.6,clear
+205,Lentil(Masur),Badnawar,2016-02-24,4300.0,1.5,29.6,clear
+206,Lentil(Masur),Dhar,2016-02-24,4450.0,8.3,29.6,clear
+207,Bengal Gram(Gram),Badnawar,2016-02-25,6075.0,78.0,30.6,clear
+208,Lentil(Masur),Badnawar,2016-02-25,4200.0,1.4,30.6,clear
+209,Lentil(Masur),Dhar,2016-02-25,4300.0,3.7,30.6,clear
+210,Bengal Gram(Gram),Badnawar,2016-02-26,6060.0,100.0,31.0,clear
+211,Black Gram (Urd Beans),Badnawar,2016-02-26,3750.0,26.0,31.0,clear
+212,Lentil(Masur),Badnawar,2016-02-26,4250.0,14.0,31.0,clear
+213,Bengal Gram(Gram),Badnawar,2016-02-29,5700.0,80.0,32.2,clear
+214,Lentil(Masur),Badnawar,2016-02-29,4400.0,0.3,32.2,clear
+215,Bengal Gram(Gram),Badnawar,2016-01-03,5800.0,110.0,25.6,clear
+216,Black Gram (Urd Beans),Badnawar,2016-01-03,3800.0,30.0,25.6,clear
+217,Lentil(Masur),Badnawar,2016-01-03,4400.0,1.8,25.6,clear
+218,Bengal Gram(Gram),Badnawar,2016-02-03,5900.0,65.0,24.0,clear
+219,Lentil(Masur),Badnawar,2016-02-03,4340.0,2.5,24.0,clear
+220,Lentil(Masur),Dhar,2016-02-03,4450.0,4.5,24.0,clear
+221,Bengal Gram(Gram),Badnawar,2016-03-03,3990.0,10.0,32.4,clear
+222,Black Gram (Urd Beans),Badnawar,2016-03-03,5800.0,60.0,32.4,clear
+223,Lentil(Masur),Badnawar,2016-03-03,4395.0,2.4,32.4,clear
+224,Bengal Gram(Gram),Badnawar,2016-04-03,4100.0,22.0,39.4,clear
+225,Lentil(Masur),Badnawar,2016-04-03,4275.0,2.0,39.4,clear
+226,Bengal Gram(Gram),Badnawar,2016-05-03,4090.0,20.0,39.8,clear
+227,Lentil(Masur),Badnawar,2016-05-03,4375.0,0.3,39.8,clear
+228,Lentil(Masur),Dhar,2016-05-03,4400.0,8.7,39.8,clear
+229,Bengal Gram(Gram),Badnawar,2016-08-03,4110.0,35.0,25.2,clear
+230,Lentil(Masur),Dhar,2016-08-03,4200.0,1.6,25.2,clear
+231,Bengal Gram(Gram),Badnawar,2016-10-03,4050.0,32.0,30.4,clear
+232,Lentil(Masur),Badnawar,2016-10-03,4475.0,0.7,30.4,clear
+233,Lentil(Masur),Dhar,2016-10-03,4650.0,3.7,30.4,clear
+234,Bengal Gram(Gram),Badnawar,2016-11-03,4240.0,30.0,28.4,clear
+235,Lentil(Masur),Badnawar,2016-11-03,4325.0,0.7,28.4,clear
+236,Lentil(Masur),Dhar,2016-11-03,4800.0,9.8,28.4,clear
+237,Bengal Gram(Gram),Badnawar,2016-03-14,4350.0,20.0,30.4,clear
+238,Lentil(Masur),Dhar,2016-03-14,5050.0,1.8,30.4,clear
+239,Bengal Gram(Gram),Badnawar,2016-03-15,4380.0,25.0,30.8,clear
+240,Lentil(Masur),Badnawar,2016-03-15,5065.0,3.0,30.8,clear
+241,Lentil(Masur),Dhar,2016-03-15,5000.0,2.1,30.8,clear
+242,Bengal Gram(Gram),Badnawar,2016-03-16,4220.0,18.0,31.4,clear
+243,Lentil(Masur),Badnawar,2016-03-16,4910.0,6.0,31.4,clear
+244,Lentil(Masur),Dhar,2016-03-16,5000.0,1.2,31.4,clear
+245,Bengal Gram(Gram),Badnawar,2016-03-17,4275.0,17.0,35.0,clear
+246,Lentil(Masur),Badnawar,2016-03-17,4805.0,0.5,35.0,clear
+247,Lentil(Masur),Dhar,2016-03-17,5070.0,2.5,35.0,clear
+248,Bengal Gram(Gram),Badnawar,2016-03-19,4300.0,15.0,34.2,clear
+249,Lentil(Masur),Badnawar,2016-03-19,4605.0,0.2,34.2,clear
+250,Lentil(Masur),Dhar,2016-03-19,4800.0,2.0,34.2,clear
+251,Bengal Gram(Gram),Badnawar,2016-03-21,4300.0,17.0,34.2,clear
+252,Lentil(Masur),Dhar,2016-03-21,5050.0,6.5,34.2,clear
+253,Bengal Gram(Gram),Badnawar,2016-03-22,4300.0,7.0,34.0,clear
+254,Lentil(Masur),Badnawar,2016-03-22,4320.0,0.2,34.0,clear
+255,Lentil(Masur),Dhar,2016-03-22,4850.0,2.0,34.0,clear
+256,Bengal Gram(Gram),Badnawar,2016-03-29,4400.0,16.0,36.2,clear
+257,Bengal Gram(Gram),Dhar,2016-03-29,4450.0,1.4,36.2,clear
+258,Lentil(Masur),Badnawar,2016-03-29,4715.0,0.3,36.2,clear
+259,Lentil(Masur),Dhar,2016-03-29,4950.0,0.9,36.2,clear
+260,Bengal Gram(Gram),Badnawar,2016-02-04,4300.0,8.0,24.8,clear
+261,Bengal Gram(Gram),Dhar,2016-02-04,4550.0,9.6,24.8,clear
+262,Lentil(Masur),Dhar,2016-02-04,5300.0,1.2,24.8,clear
+263,Bengal Gram(Gram),Badnawar,2016-05-04,4375.0,250.0,39.0,clear
+264,Bengal Gram(Gram),Dhar,2016-05-04,4690.0,31.0,39.0,clear
+265,Lentil(Masur),Badnawar,2016-05-04,5275.0,3.2,39.0,clear
+266,Lentil(Masur),Dhar,2016-05-04,5500.0,5.0,39.0,clear
+267,Bengal Gram(Gram),Badnawar,2016-06-04,4750.0,20.0,42.4,clear
+268,Bengal Gram(Gram),Dhar,2016-06-04,4750.0,21.3,42.4,clear
+269,Lentil(Masur),Badnawar,2016-06-04,5215.0,0.6,42.4,clear
+270,Lentil(Masur),Dhar,2016-06-04,5390.0,2.5,42.4,clear
+271,Bengal Gram(Gram),Badnawar,2016-11-04,3805.0,7.0,28.8,clear
+272,Bengal Gram(Gram),Dhar,2016-11-04,4850.0,16.7,28.8,clear
+273,Lentil(Masur),Badnawar,2016-11-04,5190.0,0.5,28.8,clear
+274,Lentil(Masur),Dhar,2016-11-04,5390.0,0.5,28.8,clear
+275,Bengal Gram(Gram),Badnawar,2016-12-04,4810.0,17.0,27.0,clear
+276,Bengal Gram(Gram),Badnawar,2016-04-16,5120.0,4.0,39.4,clear
+277,Bengal Gram(Gram),Dhar,2016-04-16,4800.0,5.3,39.4,clear
+278,Lentil(Masur),Dhar,2016-04-16,5150.0,1.0,39.4,clear
+279,Bengal Gram(Gram),Badnawar,2016-04-18,5300.0,7.5,36.6,clear
+280,Bengal Gram(Gram),Dhar,2016-04-18,5500.0,10.4,36.6,clear
+281,Lentil(Masur),Badnawar,2016-04-18,5545.0,0.9,36.6,clear
+282,Lentil(Masur),Dhar,2016-04-18,5590.0,1.9,36.6,clear
+283,Bengal Gram(Gram),Badnawar,2016-04-20,5150.0,11.0,39.4,clear
+284,Bengal Gram(Gram),Dhar,2016-04-20,5450.0,14.0,39.4,clear
+285,Lentil(Masur),Dhar,2016-04-20,5600.0,0.5,39.4,clear
+286,Bengal Gram(Gram),Badnawar,2016-04-21,5205.0,7.0,40.0,clear
+287,Bengal Gram(Gram),Dhar,2016-04-21,5400.0,7.6,40.0,clear
+288,Lentil(Masur),Badnawar,2016-04-21,5300.0,0.2,40.0,clear
+289,Lentil(Masur),Dhar,2016-04-21,5450.0,2.4,40.0,clear
+290,Bengal Gram(Gram),Badnawar,2016-04-25,5100.0,15.0,37.0,clear
+291,Bengal Gram(Gram),Dhar,2016-04-25,5350.0,16.2,37.0,clear
+292,Lentil(Masur),Dhar,2016-04-25,5250.0,1.8,37.0,clear
+293,Bengal Gram(Gram),Badnawar,2016-04-26,5105.0,11.0,37.4,clear
+294,Bengal Gram(Gram),Dhar,2016-04-26,5350.0,13.0,37.4,clear
+295,Lentil(Masur),Dhar,2016-04-26,5200.0,1.9,37.4,clear
+296,Bengal Gram(Gram),Badnawar,2016-04-27,5150.0,11.0,36.6,clear
+297,Bengal Gram(Gram),Dhar,2016-04-27,5300.0,13.1,36.6,clear
+298,Lentil(Masur),Badnawar,2016-04-27,5000.0,0.6,36.6,clear
+299,Lentil(Masur),Dhar,2016-04-27,5250.0,8.2,36.6,clear
+300,Bengal Gram(Gram),Badnawar,2016-04-28,5150.0,10.0,39.4,clear
+301,Bengal Gram(Gram),Dhar,2016-04-28,5150.0,16.4,39.4,clear
+302,Lentil(Masur),Dhar,2016-04-28,5250.0,4.8,39.4,clear
+303,Bengal Gram(Gram),Badnawar,2016-04-29,5150.0,9.0,40.4,clear
+304,Bengal Gram(Gram),Dhar,2016-04-29,5150.0,16.2,40.4,clear
+305,Lentil(Masur),Badnawar,2016-04-29,5185.0,0.2,40.4,clear
+306,Lentil(Masur),Dhar,2016-04-29,5050.0,2.7,40.4,clear
+307,Bengal Gram(Gram),Badnawar,2016-04-30,5165.0,6.0,41.0,clear
+308,Bengal Gram(Gram),Dhar,2016-04-30,5350.0,16.6,41.0,clear
+309,Lentil(Masur),Dhar,2016-04-30,5300.0,3.1,41.0,clear
+310,Bengal Gram(Gram),Badnawar,2016-02-05,5150.0,4.5,29.6,clear
+311,Bengal Gram(Gram),Dhar,2016-02-05,5350.0,12.1,29.6,clear
+312,Lentil(Masur),Dhar,2016-02-05,5200.0,2.1,29.6,clear
+313,Bengal Gram(Gram),Badnawar,2016-03-05,5220.0,5.0,33.0,clear
+314,Bengal Gram(Gram),Dhar,2016-03-05,5250.0,9.0,33.0,clear
+315,Lentil(Masur),Dhar,2016-03-05,4500.0,0.8,33.0,clear
+316,Bengal Gram(Gram),Badnawar,2016-04-05,5225.0,9.0,37.2,clear
+317,Bengal Gram(Gram),Dhar,2016-04-05,5350.0,16.1,37.2,clear
+318,Lentil(Masur),Dhar,2016-04-05,5000.0,3.6,37.2,clear
+319,Bengal Gram(Gram),Badnawar,2016-05-05,5155.0,3.4,38.4,clear
+320,Bengal Gram(Gram),Dhar,2016-05-05,5250.0,12.5,38.4,clear
+321,Lentil(Masur),Dhar,2016-05-05,5250.0,6.6,38.4,clear
+322,Bengal Gram(Gram),Badnawar,2016-07-05,5155.0,4.5,29.8,clear
+323,Bengal Gram(Gram),Dhar,2016-07-05,5200.0,58.0,29.8,clear
+324,Lentil(Masur),Dhar,2016-07-05,5200.0,0.6,29.8,clear
+325,Bengal Gram(Gram),Badnawar,2016-10-05,5290.0,3.2,27.0,clear
+326,Bengal Gram(Gram),Dhar,2016-10-05,5350.0,9.8,27.0,clear
+327,Lentil(Masur),Badnawar,2016-10-05,5265.0,0.6,27.0,clear
+328,Lentil(Masur),Dhar,2016-10-05,5300.0,3.6,27.0,clear
+329,Bengal Gram(Gram),Badnawar,2016-11-05,5300.0,3.5,28.4,clear
+330,Bengal Gram(Gram),Dhar,2016-11-05,5350.0,12.8,28.4,clear
+331,Lentil(Masur),Dhar,2016-11-05,5200.0,0.3,28.4,clear
+332,Bengal Gram(Gram),Badnawar,2016-12-05,5325.0,5.6,25.6,clear
+333,Bengal Gram(Gram),Dhar,2016-12-05,5450.0,14.0,25.6,clear
+334,Lentil(Masur),Badnawar,2016-12-05,5000.0,0.1,25.6,clear
+335,Lentil(Masur),Dhar,2016-12-05,5350.0,2.9,25.6,clear
+336,Bengal Gram(Gram),Badnawar,2016-05-13,5345.0,8.6,41.4,clear
+337,Bengal Gram(Gram),Dhar,2016-05-13,5350.0,14.6,41.4,clear
+338,Green Gram (Moong),Dhamnod,2016-05-13,6010.0,0.2,41.4,clear
+339,Lentil(Masur),Dhar,2016-05-13,5450.0,3.4,41.4,clear
+340,Bengal Gram(Gram),Badnawar,2016-05-16,5500.0,6.0,41.6,clear
+341,Bengal Gram(Gram),Dhar,2016-05-16,5450.0,6.5,41.6,clear
+342,Green Gram (Moong),Dhamnod,2016-05-16,5675.0,1.2,41.6,clear
+343,Green Gram (Moong),Manawar,2016-05-16,6000.0,9.0,41.6,clear
+344,Lentil(Masur),Dhar,2016-05-16,5000.0,0.9,41.6,clear
+345,Bengal Gram(Gram),Badnawar,2016-05-17,5600.0,7.5,41.6,clear
+346,Bengal Gram(Gram),Dhar,2016-05-17,5500.0,8.8,41.6,clear
+347,Green Gram (Moong),Dhamnod,2016-05-17,5655.0,1.0,41.6,clear
+348,Lentil(Masur),Dhar,2016-05-17,5350.0,4.2,41.6,clear
+349,Bengal Gram(Gram),Badnawar,2016-05-18,5510.0,1.6,43.4,clear
+350,Bengal Gram(Gram),Dhar,2016-05-18,5850.0,9.9,43.4,clear
+351,Green Gram (Moong),Dhamnod,2016-05-18,5865.0,2.3,43.4,clear
+352,Lentil(Masur),Dhar,2016-05-18,5540.0,4.1,43.4,clear
+353,Bengal Gram(Gram),Badnawar,2016-05-19,5600.0,3.5,43.4,clear
+354,Bengal Gram(Gram),Dhar,2016-05-19,5770.0,15.0,43.4,clear
+355,Green Gram (Moong),Dhamnod,2016-05-19,5700.0,0.8,43.4,clear
+356,Lentil(Masur),Dhar,2016-05-19,5350.0,10.7,43.4,clear
+357,Bengal Gram(Gram),Badnawar,2016-05-20,5315.0,8.0,42.8,clear
+358,Bengal Gram(Gram),Dhar,2016-05-20,5700.0,6.8,42.8,clear
+359,Green Gram (Moong),Dhamnod,2016-05-20,5650.0,0.5,42.8,clear
+360,Lentil(Masur),Badnawar,2016-05-20,5200.0,1.4,42.8,clear
+361,Lentil(Masur),Dhar,2016-05-20,5200.0,5.7,42.8,clear
+362,Bengal Gram(Gram),Badnawar,2016-05-24,5600.0,7.1,39.0,clear
+363,Bengal Gram(Gram),Dhar,2016-05-24,5500.0,5.0,39.0,clear
+364,Green Gram (Moong),Dhamnod,2016-05-24,5615.0,0.4,39.0,clear
+365,Lentil(Masur),Dhar,2016-05-24,5200.0,3.9,39.0,clear
+366,Bengal Gram(Gram),Badnawar,2016-05-25,5660.0,1.9,37.4,clear
+367,Bengal Gram(Gram),Dhar,2016-05-25,5500.0,6.3,37.4,clear
+368,Green Gram (Moong),Dhamnod,2016-05-25,5560.0,0.3,37.4,clear
+369,Lentil(Masur),Dhar,2016-05-25,3450.0,0.6,37.4,clear
+370,Bengal Gram(Gram),Badnawar,2016-05-26,5700.0,4.0,37.6,clear
+371,Bengal Gram(Gram),Dhar,2016-05-26,5700.0,6.7,37.6,clear
+372,Green Gram (Moong),Dhamnod,2016-05-26,5565.0,0.9,37.6,clear
+373,Lentil(Masur),Badnawar,2016-05-26,5105.0,0.2,37.6,clear
+374,Lentil(Masur),Dhar,2016-05-26,5150.0,4.0,37.6,clear
+375,Bengal Gram(Gram),Badnawar,2016-05-27,5675.0,3.7,38.0,clear
+376,Bengal Gram(Gram),Dhar,2016-05-27,5750.0,2.7,38.0,clear
+377,Green Gram (Moong),Dhamnod,2016-05-27,5400.0,2.4,38.0,clear
+378,Lentil(Masur),Dhar,2016-05-27,4950.0,3.8,38.0,clear
+379,Bengal Gram(Gram),Badnawar,2016-05-30,5600.0,4.2,37.4,clear
+380,Bengal Gram(Gram),Dhar,2016-05-30,5700.0,3.7,37.4,clear
+381,Green Gram (Moong),Dhamnod,2016-05-30,5455.0,2.5,37.4,clear
+382,Lentil(Masur),Dhar,2016-05-30,5050.0,4.1,37.4,clear
+383,Bengal Gram(Gram),Badnawar,2016-05-31,5570.0,1.6,37.0,clear
+384,Bengal Gram(Gram),Dhar,2016-05-31,5680.0,2.8,37.0,clear
+385,Green Gram (Moong),Dhamnod,2016-05-31,5540.0,1.9,37.0,clear
+386,Lentil(Masur),Badnawar,2016-05-31,4805.0,0.5,37.0,clear
+387,Bengal Gram(Gram),Badnawar,2016-01-06,5525.0,0.7,28.4,clear
+388,Bengal Gram(Gram),Dhar,2016-01-06,5650.0,4.9,28.4,clear
+389,Green Gram (Moong),Dhamnod,2016-01-06,5005.0,1.9,28.4,clear
+390,Green Gram (Moong),Manawar,2016-01-06,5500.0,32.0,28.4,clear
+391,Lentil(Masur),Dhar,2016-01-06,4500.0,0.9,28.4,clear
+392,Bengal Gram(Gram),Badnawar,2016-02-06,5495.0,0.4,30.0,clear
+393,Bengal Gram(Gram),Dhar,2016-02-06,5450.0,2.7,30.0,clear
+394,Green Gram (Moong),Dhamnod,2016-02-06,5255.0,1.3,30.0,clear
+395,Lentil(Masur),Badnawar,2016-02-06,5170.0,0.7,30.0,clear
+396,Lentil(Masur),Dhar,2016-02-06,5000.0,4.2,30.0,clear
+397,Bengal Gram(Gram),Badnawar,2016-03-06,5570.0,4.8,33.4,clear
+398,Bengal Gram(Gram),Dhar,2016-03-06,5680.0,3.4,33.4,clear
+399,Green Gram (Moong),Dhamnod,2016-03-06,5505.0,2.1,33.4,clear
+400,Lentil(Masur),Dhar,2016-03-06,5050.0,3.5,33.4,clear
+401,Bengal Gram(Gram),Badnawar,2016-06-06,5755.0,2.0,43.0,clear
+402,Bengal Gram(Gram),Dhar,2016-06-06,5950.0,8.7,43.0,clear
+403,Green Gram (Moong),Dhamnod,2016-06-06,5600.0,1.2,43.0,clear
+404,Lentil(Masur),Dhar,2016-06-06,5100.0,1.7,43.0,clear
+405,Bengal Gram(Gram),Badnawar,2016-07-06,5900.0,4.4,29.6,clear
+406,Bengal Gram(Gram),Dhar,2016-07-06,5950.0,3.9,29.6,clear
+407,Green Gram (Moong),Dhamnod,2016-07-06,5600.0,0.6,29.6,clear
+408,Lentil(Masur),Badnawar,2016-07-06,5105.0,0.1,29.6,clear
+409,Lentil(Masur),Dhar,2016-07-06,5000.0,0.4,29.6,clear
+410,Bengal Gram(Gram),Badnawar,2016-08-06,5975.0,6.6,28.0,rain
+411,Bengal Gram(Gram),Dhar,2016-08-06,6000.0,6.1,28.0,rain
+412,Green Gram (Moong),Dhamnod,2016-08-06,5655.0,0.6,28.0,rain
+413,Lentil(Masur),Badnawar,2016-08-06,5000.0,0.2,28.0,rain
+414,Lentil(Masur),Dhar,2016-08-06,5100.0,1.7,28.0,rain
+415,Bengal Gram(Gram),Badnawar,2016-09-06,9305.0,4.5,28.4,clear
+416,Bengal Gram(Gram),Dhar,2016-09-06,5800.0,8.9,28.4,clear
+417,Green Gram (Moong),Dhamnod,2016-09-06,5705.0,0.4,28.4,clear
+418,Lentil(Masur),Dhar,2016-09-06,5000.0,2.2,28.4,clear
+419,Bengal Gram(Gram),Badnawar,2016-10-06,6200.0,2.8,28.6,clear
+420,Bengal Gram(Gram),Dhar,2016-10-06,6000.0,2.4,28.6,clear
+421,Green Gram (Moong),Dhamnod,2016-10-06,5880.0,1.0,28.6,clear
+422,Lentil(Masur),Dhar,2016-10-06,4900.0,3.2,28.6,clear
+423,Bengal Gram(Gram),Badnawar,2016-06-13,6200.0,1.7,36.6,clear
+424,Bengal Gram(Gram),Dhar,2016-06-13,6200.0,7.8,36.6,clear
+425,Green Gram (Moong),Dhamnod,2016-06-13,5675.0,0.8,36.6,clear
+426,Lentil(Masur),Badnawar,2016-06-13,5100.0,0.6,36.6,clear
+427,Lentil(Masur),Dhar,2016-06-13,5000.0,1.8,36.6,clear
+428,Bengal Gram(Gram),Badnawar,2016-06-14,6255.0,0.8,35.8,clear
+429,Bengal Gram(Gram),Dhar,2016-06-14,5000.0,3.8,35.8,clear
+430,Green Gram (Moong),Dhamnod,2016-06-14,5650.0,0.9,35.8,clear
+431,Lentil(Masur),Dhar,2016-06-14,4500.0,3.2,35.8,clear
+432,Bengal Gram(Gram),Badnawar,2016-06-15,6300.0,0.9,36.0,clear
+433,Bengal Gram(Gram),Dhar,2016-06-15,6225.0,1.2,36.0,clear
+434,Green Gram (Moong),Dhamnod,2016-06-15,5660.0,0.9,36.0,clear
+435,Lentil(Masur),Badnawar,2016-06-15,5045.0,0.1,36.0,clear
+436,Lentil(Masur),Dhar,2016-06-15,5250.0,4.2,36.0,clear
+437,Bengal Gram(Gram),Badnawar,2016-06-16,6200.0,1.4,34.4,clear
+438,Bengal Gram(Gram),Dhar,2016-06-16,6220.0,1.8,34.4,clear
+439,Green Gram (Moong),Dhamnod,2016-06-16,5660.0,0.5,34.4,clear
+440,Lentil(Masur),Dhar,2016-06-16,5125.0,0.9,34.4,clear
+441,Bengal Gram(Gram),Badnawar,2016-06-17,6200.0,5.6,37.4,clear
+442,Bengal Gram(Gram),Dhar,2016-06-17,6050.0,5.8,37.4,clear
+443,Green Gram (Moong),Dhamnod,2016-06-17,5600.0,0.1,37.4,clear
+444,Lentil(Masur),Dhar,2016-06-17,5000.0,0.4,37.4,clear
+445,Bengal Gram(Gram),Badnawar,2016-06-18,6200.0,0.8,34.6,clear
+446,Bengal Gram(Gram),Dhar,2016-06-18,6100.0,4.1,34.6,clear
+447,Green Gram (Moong),Dhamnod,2016-06-18,5585.0,1.4,34.6,clear
+448,Lentil(Masur),Dhar,2016-06-18,5100.0,3.6,34.6,clear
+449,Bengal Gram(Gram),Badnawar,2016-06-20,5850.0,0.1,35.0,rain
+450,Bengal Gram(Gram),Dhar,2016-06-20,6225.0,4.6,35.0,rain
+451,Green Gram (Moong),Dhamnod,2016-06-20,5585.0,0.4,35.0,rain
+452,Bengal Gram(Gram),Badnawar,2016-06-21,6055.0,0.3,33.0,rain
+453,Bengal Gram(Gram),Dhar,2016-06-21,6170.0,2.5,33.0,rain
+454,Green Gram (Moong),Dhamnod,2016-06-21,5495.0,0.4,33.0,rain
+455,Bengal Gram(Gram),Badnawar,2016-06-22,5935.0,1.3,32.8,clear
+456,Bengal Gram(Gram),Dhar,2016-06-22,6250.0,1.1,32.8,clear
+457,Green Gram (Moong),Dhamnod,2016-06-22,5400.0,2.1,32.8,clear
+458,Bengal Gram(Gram),Badnawar,2016-06-23,5605.0,0.1,32.4,clear
+459,Bengal Gram(Gram),Dhar,2016-06-23,6125.0,0.8,32.4,clear
+460,Bengal Gram(Gram),Badnawar,2016-06-24,6755.0,1.2,33.4,clear
+461,Bengal Gram(Gram),Dhar,2016-06-24,6125.0,3.5,33.4,clear
+462,Bengal Gram(Gram),Badnawar,2016-06-27,6800.0,1.8,33.6,clear
+463,Bengal Gram(Gram),Dhar,2016-06-27,6260.0,0.5,33.6,clear
+464,Green Gram (Moong),Dhamnod,2016-06-27,5685.0,0.6,33.6,clear
+465,Bengal Gram(Gram),Badnawar,2016-06-29,7000.0,0.2,31.4,clear
+466,Bengal Gram(Gram),Dhar,2016-06-29,6900.0,0.4,31.4,clear
+467,Bengal Gram(Gram),Badnawar,2016-01-07,6970.0,5.2,28.0,clear
+468,Bengal Gram(Gram),Dhar,2016-01-07,7100.0,2.8,28.0,clear
+469,Green Gram (Moong),Dhamnod,2016-01-07,5460.0,0.2,28.0,clear
+470,Bengal Gram(Gram),Badnawar,2016-02-07,6910.0,2.0,26.0,clear
+471,Bengal Gram(Gram),Dhar,2016-02-07,6995.0,3.4,26.0,clear
+472,Green Gram (Moong),Dhamnod,2016-02-07,5250.0,4.7,26.0,clear
+473,Lentil(Masur),Dhar,2016-02-07,4950.0,0.3,26.0,clear
+474,Bengal Gram(Gram),Badnawar,2016-06-07,6745.0,0.6,42.4,clear
+475,Bengal Gram(Gram),Dhar,2016-06-07,6500.0,0.2,42.4,clear
+476,Green Gram (Moong),Dhamnod,2016-06-07,1625.0,3.5,42.4,clear
+477,Bengal Gram(Gram),Badnawar,2016-08-07,7475.0,0.8,24.6,rain
+478,Bengal Gram(Gram),Dhar,2016-08-07,7200.0,2.4,24.6,rain
+479,Lentil(Masur),Dhar,2016-08-07,5200.0,3.2,24.6,rain
+480,Bengal Gram(Gram),Badnawar,2016-11-07,8000.0,0.1,30.0,clear
+481,Bengal Gram(Gram),Dhar,2016-11-07,7800.0,0.9,30.0,clear
+482,Bengal Gram(Gram),Badnawar,2016-07-14,7900.0,3.7,30.2,clear
+483,Bengal Gram(Gram),Dhar,2016-07-14,7900.0,1.3,30.2,clear
+484,Green Gram (Moong),Dhamnod,2016-07-14,5320.0,1.1,30.2,clear
+485,Lentil(Masur),Badnawar,2016-07-14,5292.0,0.2,30.2,clear
+486,Lentil(Masur),Dhar,2016-07-14,5100.0,0.7,30.2,clear
+487,Bengal Gram(Gram),Badnawar,2016-07-15,8155.0,0.6,29.4,clear
+488,Bengal Gram(Gram),Dhar,2016-07-15,8000.0,2.9,29.4,clear
+489,Green Gram (Moong),Dhamnod,2016-07-15,5300.0,0.2,29.4,clear
+490,Bengal Gram(Gram),Badnawar,2016-07-16,7500.0,0.8,26.4,clear
+491,Bengal Gram(Gram),Dhar,2016-07-16,7800.0,0.6,26.4,clear
+492,Green Gram (Moong),Dhamnod,2016-07-16,5290.0,0.7,26.4,clear
+493,Bengal Gram(Gram),Badnawar,2016-07-18,7805.0,0.6,28.4,clear
+494,Bengal Gram(Gram),Dhar,2016-07-18,7600.0,1.4,28.4,clear
+495,Lentil(Masur),Badnawar,2016-07-18,5305.0,0.2,28.4,clear
+496,Lentil(Masur),Dhar,2016-07-18,5100.0,3.3,28.4,clear
+497,Bengal Gram(Gram),Badnawar,2016-07-19,7303.0,0.2,28.0,clear
+498,Bengal Gram(Gram),Dhar,2016-07-19,7785.0,0.3,28.0,clear
+499,Bengal Gram(Gram),Badnawar,2016-07-20,7720.0,0.9,30.0,clear
+500,Bengal Gram(Gram),Dhar,2016-07-20,7900.0,1.2,30.0,clear
+501,Lentil(Masur),Dhar,2016-07-20,5300.0,2.6,30.0,clear
+502,Bengal Gram(Gram),Badnawar,2016-07-21,7780.0,1.2,30.4,clear
+503,Bengal Gram(Gram),Dhar,2016-07-21,7790.0,0.6,30.4,clear
+504,Lentil(Masur),Badnawar,2016-07-21,5220.0,0.1,30.4,clear
+505,Bengal Gram(Gram),Badnawar,2016-07-22,7900.0,0.6,28.4,clear
+506,Bengal Gram(Gram),Dhar,2016-07-22,7700.0,0.8,28.4,clear
+507,Lentil(Masur),Dhar,2016-07-22,4300.0,0.5,28.4,clear
+508,Bengal Gram(Gram),Badnawar,2016-07-25,5100.0,0.1,29.0,clear
+509,Bengal Gram(Gram),Dhar,2016-07-25,7000.0,0.7,29.0,clear
+510,Bengal Gram(Gram),Badnawar,2016-07-26,6810.0,0.5,30.0,rain
+511,Bengal Gram(Gram),Dhar,2016-07-26,7000.0,1.8,30.0,rain
+512,Green Gram (Moong),Dhamnod,2016-07-26,4405.0,0.3,30.0,rain
+513,Bengal Gram(Gram),Badnawar,2016-07-27,7070.0,0.2,25.8,rain
+514,Bengal Gram(Gram),Dhar,2016-07-27,7590.0,0.5,25.8,rain
+515,Lentil(Masur),Dhar,2016-07-27,5360.0,0.8,25.8,rain
+516,Bengal Gram(Gram),Badnawar,2016-07-29,7855.0,0.1,29.4,clear
+517,Bengal Gram(Gram),Dhar,2016-07-29,7825.0,0.6,29.4,clear
+518,Lentil(Masur),Dhar,2016-07-29,5000.0,0.4,29.4,clear
+519,Bengal Gram(Gram),Badnawar,2016-01-08,5800.0,0.1,27.2,clear
+520,Bengal Gram(Gram),Dhar,2016-01-08,7290.0,0.3,27.2,clear
+521,Lentil(Masur),Dhar,2016-01-08,5285.0,0.2,27.2,clear
+522,Bengal Gram(Gram),Badnawar,2016-05-08,6700.0,0.3,36.6,rain
+523,Bengal Gram(Gram),Dhar,2016-05-08,7280.0,0.4,36.6,rain
+524,Green Gram (Moong),Dhamnod,2016-05-08,4360.0,0.1,36.6,rain
+525,Lentil(Masur),Badnawar,2016-05-08,5295.0,0.2,36.6,rain
+526,Bengal Gram(Gram),Badnawar,2016-06-08,7140.0,0.7,41.4,clear
+527,Bengal Gram(Gram),Dhar,2016-06-08,7000.0,3.5,41.4,clear
+528,Bengal Gram(Gram),Badnawar,2016-10-08,9825.0,0.4,30.2,clear
+529,Bengal Gram(Gram),Dhar,2016-10-08,7175.0,1.1,30.2,clear
+530,Lentil(Masur),Dhar,2016-10-08,5095.0,0.2,30.2,clear
+531,Bengal Gram(Gram),Badnawar,2016-11-08,7155.0,0.7,29.8,clear
+532,Bengal Gram(Gram),Dhar,2016-11-08,7380.0,0.7,29.8,clear
+533,Bengal Gram(Gram),Badnawar,2016-08-16,6785.0,0.2,28.2,clear
+534,Bengal Gram(Gram),Dhar,2016-08-16,7040.0,0.1,28.2,clear
+535,Lentil(Masur),Badnawar,2016-08-16,5005.0,0.1,28.2,clear
+536,Bengal Gram(Gram),Badnawar,2016-08-17,6880.0,0.8,27.6,clear
+537,Bengal Gram(Gram),Dhar,2016-08-17,6700.0,0.4,27.6,clear
+538,Lentil(Masur),Badnawar,2016-08-17,4930.0,0.5,27.6,clear
+539,Lentil(Masur),Dhar,2016-08-17,4820.0,1.8,27.6,clear
+540,Bengal Gram(Gram),Badnawar,2016-08-26,5475.0,0.2,30.8,clear
+541,Lentil(Masur),Badnawar,2016-08-26,4845.0,0.2,30.8,clear
+542,Bengal Gram(Gram),Badnawar,2016-08-29,4500.0,0.8,29.6,clear
+543,Bengal Gram(Gram),Dhar,2016-08-29,5475.0,0.1,29.6,clear
+544,Bengal Gram(Gram),Badnawar,2016-08-31,5900.0,0.1,27.8,clear
+545,Bengal Gram(Gram),Dhar,2016-08-31,5900.0,0.6,27.8,clear
+546,Bengal Gram(Gram),Badnawar,2016-03-09,5600.0,0.9,33.0,clear
+547,Bengal Gram(Gram),Dhar,2016-03-09,7500.0,0.1,33.0,clear
+548,Lentil(Masur),Dhar,2016-03-09,5010.0,2.0,33.0,clear
+549,Bengal Gram(Gram),Badnawar,2016-07-09,6050.0,0.4,25.0,rain
+550,Bengal Gram(Gram),Dhar,2016-07-09,6420.0,1.4,25.0,rain
+551,Lentil(Masur),Badnawar,2016-07-09,4750.0,0.2,25.0,rain
+552,Lentil(Masur),Dhar,2016-07-09,4860.0,1.7,25.0,rain
+553,Bengal Gram(Gram),Badnawar,2016-08-09,6190.0,0.3,27.0,clear
+554,Bengal Gram(Gram),Dhar,2016-08-09,6980.0,0.2,27.0,clear
+555,Bengal Gram(Gram),Badnawar,2016-09-14,6125.0,0.1,31.6,clear
+556,Lentil(Masur),Badnawar,2016-09-14,4505.0,0.1,31.6,clear
+557,Lentil(Masur),Dhar,2016-09-14,4788.0,0.4,31.6,clear
+558,Bengal Gram(Gram),Badnawar,2016-09-15,6100.0,0.6,32.0,clear
+559,Bengal Gram(Gram),Dhar,2016-09-15,7450.0,0.7,32.0,clear
+560,Bengal Gram(Gram),Badnawar,2016-09-17,5905.0,0.3,30.4,clear
+561,Bengal Gram(Gram),Badnawar,2016-09-22,8000.0,0.1,31.2,clear
+562,Bengal Gram(Gram),Badnawar,2016-09-26,7985.0,0.2,31.8,clear
+563,Lentil(Masur),Badnawar,2016-09-26,3800.0,0.4,31.8,clear
+564,Bengal Gram(Gram),Badnawar,2016-09-27,6335.0,1.2,32.2,clear
+565,Lentil(Masur),Badnawar,2016-09-27,4570.0,0.7,32.2,clear
+566,Bengal Gram(Gram),Badnawar,2016-01-10,6300.0,0.2,28.0,clear
+567,Green Gram (Moong),Manawar,2016-01-10,4500.0,7.5,28.0,clear
+568,Bengal Gram(Gram),Badnawar,2016-10-10,9100.0,0.4,30.8,clear
+569,Bengal Gram(Gram),Badnawar,2016-10-13,9315.0,0.1,30.2,clear
+570,Bengal Gram(Gram),Dhar,2016-10-13,9200.0,1.7,30.2,clear
+571,Lentil(Masur),Badnawar,2016-10-13,5000.0,0.1,30.2,clear
+572,Bengal Gram(Gram),Badnawar,2016-10-14,8875.0,0.1,31.0,clear
+573,Bengal Gram(Gram),Dhar,2016-10-14,8850.0,1.0,31.0,clear
+574,Bengal Gram(Gram),Badnawar,2016-10-17,9200.0,2.1,31.8,clear
+575,Bengal Gram(Gram),Dhar,2016-10-17,9490.0,1.3,31.8,clear
+576,Lentil(Masur),Badnawar,2016-10-17,4800.0,0.1,31.8,clear
+577,Lentil(Masur),Dhar,2016-10-17,4570.0,2.8,31.8,clear
+578,Bengal Gram(Gram),Badnawar,2016-10-18,9520.0,1.2,32.0,clear
+579,Bengal Gram(Gram),Dhar,2016-10-18,9700.0,1.5,32.0,clear
+580,Green Gram (Moong),Gandhwani,2016-10-18,4800.0,2.5,32.0,clear
+581,Lentil(Masur),Badnawar,2016-10-18,4600.0,0.6,32.0,clear
+582,Lentil(Masur),Dhar,2016-10-18,4700.0,4.0,32.0,clear
+583,Bengal Gram(Gram),Badnawar,2016-10-19,9800.0,2.1,32.0,clear
+584,Bengal Gram(Gram),Dhar,2016-10-19,9200.0,2.4,32.0,clear
+585,Black Gram (Urd Beans),Dhamnod,2016-10-19,875.0,1.0,32.0,clear
+586,Green Gram (Moong),Gandhwani,2016-10-19,4900.0,3.5,32.0,clear
+587,Lentil(Masur),Badnawar,2016-10-19,4650.0,1.0,32.0,clear
+588,Lentil(Masur),Dhar,2016-10-19,4700.0,5.6,32.0,clear
+589,Bengal Gram(Gram),Badnawar,2016-10-20,10000.0,4.3,32.4,clear
+590,Bengal Gram(Gram),Dhar,2016-10-20,9900.0,0.6,32.4,clear
+591,Lentil(Masur),Badnawar,2016-10-20,4705.0,0.8,32.4,clear
+592,Lentil(Masur),Dhar,2016-10-20,4700.0,7.5,32.4,clear
+593,Bengal Gram(Gram),Badnawar,2016-10-21,9800.0,4.5,31.6,clear
+594,Bengal Gram(Gram),Dhar,2016-10-21,10000.0,0.7,31.6,clear
+595,Lentil(Masur),Badnawar,2016-10-21,4900.0,0.1,31.6,clear
+596,Lentil(Masur),Dhar,2016-10-21,4900.0,3.3,31.6,clear
+597,Bengal Gram(Gram),Badnawar,2016-10-24,8500.0,1.7,30.0,clear
+598,Bengal Gram(Gram),Dhar,2016-10-24,8700.0,4.5,30.0,clear
+599,Lentil(Masur),Badnawar,2016-10-24,4505.0,1.1,30.0,clear
+600,Lentil(Masur),Dhar,2016-10-24,4800.0,4.1,30.0,clear
+601,Bengal Gram(Gram),Badnawar,2016-10-25,9000.0,3.8,29.4,clear
+602,Bengal Gram(Gram),Dhar,2016-10-25,9400.0,1.4,29.4,clear
+603,Lentil(Masur),Badnawar,2016-10-25,4600.0,0.7,29.4,clear
+604,Lentil(Masur),Dhar,2016-10-25,4700.0,6.7,29.4,clear
+605,Bengal Gram(Gram),Badnawar,2016-10-26,9000.0,2.8,30.8,clear
+606,Bengal Gram(Gram),Dhar,2016-10-26,9300.0,3.0,30.8,clear
+607,Black Gram (Urd Beans),Manawar,2016-10-26,4850.0,40.0,30.8,clear
+608,Lentil(Masur),Badnawar,2016-10-26,4605.0,0.1,30.8,clear
+609,Lentil(Masur),Dhar,2016-10-26,4700.0,3.5,30.8,clear
+610,Bengal Gram(Gram),Badnawar,2016-10-27,9000.0,1.7,31.4,clear
+611,Bengal Gram(Gram),Dhar,2016-10-27,9000.0,2.8,31.4,clear
+612,Lentil(Masur),Badnawar,2016-10-27,4500.0,0.2,31.4,clear
+613,Lentil(Masur),Dhar,2016-10-27,4700.0,2.6,31.4,clear
+614,Bengal Gram(Gram),Badnawar,2016-02-11,9000.0,1.6,27.6,clear
+615,Bengal Gram(Gram),Dhar,2016-02-11,9100.0,0.3,27.6,clear
+616,Lentil(Masur),Dhar,2016-02-11,4700.0,2.9,27.6,clear
+617,Bengal Gram(Gram),Badnawar,2016-03-11,8800.0,2.4,36.2,clear
+618,Bengal Gram(Gram),Dhar,2016-03-11,9100.0,0.6,36.2,clear
+619,Lentil(Masur),Badnawar,2016-03-11,4300.0,0.7,36.2,clear
+620,Lentil(Masur),Dhar,2016-03-11,4770.0,3.5,36.2,clear
+621,Bengal Gram(Gram),Badnawar,2016-04-11,8900.0,0.7,36.4,clear
+622,Bengal Gram(Gram),Dhar,2016-04-11,9040.0,1.4,36.4,clear
+623,Lentil(Masur),Badnawar,2016-04-11,4550.0,0.7,36.4,clear
+624,Lentil(Masur),Dhar,2016-04-11,4700.0,4.3,36.4,clear
+625,Bengal Gram(Gram),Badnawar,2016-05-11,9000.0,0.9,38.6,clear
+626,Bengal Gram(Gram),Dhar,2016-05-11,8950.0,1.1,38.6,clear
+627,Lentil(Masur),Dhar,2016-05-11,4700.0,5.2,38.6,clear
+628,Bengal Gram(Gram),Badnawar,2016-07-11,8805.0,1.2,25.0,rain
+629,Bengal Gram(Gram),Dhar,2016-07-11,9500.0,1.2,25.0,rain
+630,Lentil(Masur),Badnawar,2016-07-11,4555.0,1.5,25.0,rain
+631,Lentil(Masur),Dhar,2016-07-11,4700.0,2.1,25.0,rain
+632,Bengal Gram(Gram),Badnawar,2016-08-11,9000.0,0.6,25.4,clear
+633,Bengal Gram(Gram),Dhar,2016-08-11,9500.0,1.7,25.4,clear
+634,Lentil(Masur),Badnawar,2016-08-11,4145.0,1.2,25.4,clear
+635,Lentil(Masur),Dhar,2016-08-11,4300.0,2.2,25.4,clear
+636,Bengal Gram(Gram),Badnawar,2016-11-19,8600.0,0.4,28.4,clear
+637,Bengal Gram(Gram),Dhar,2016-11-19,9090.0,0.5,28.4,clear
+638,Lentil(Masur),Badnawar,2016-11-19,4005.0,0.1,28.4,clear
+639,Lentil(Masur),Dhar,2016-11-19,4000.0,0.3,28.4,clear
+640,Bengal Gram(Gram),Badnawar,2016-11-21,7700.0,0.4,29.6,clear
+641,Bengal Gram(Gram),Dhar,2016-11-21,7190.0,2.1,29.6,clear
+642,Lentil(Masur),Badnawar,2016-11-21,3795.0,0.2,29.6,clear
+643,Lentil(Masur),Dhar,2016-11-21,4200.0,1.8,29.6,clear
+644,Bengal Gram(Gram),Badnawar,2016-11-22,7555.0,1.4,28.8,clear
+645,Bengal Gram(Gram),Dhar,2016-11-22,7850.0,2.8,28.8,clear
+646,Lentil(Masur),Dhar,2016-11-22,4390.0,1.4,28.8,clear
+647,Bengal Gram(Gram),Badnawar,2016-11-23,8285.0,1.0,28.6,clear
+648,Bengal Gram(Gram),Dhar,2016-11-23,8350.0,2.7,28.6,clear
+649,Lentil(Masur),Badnawar,2016-11-23,4105.0,0.5,28.6,clear
+650,Lentil(Masur),Dhar,2016-11-23,4500.0,4.4,28.6,clear
+651,Bengal Gram(Gram),Badnawar,2016-11-24,7945.0,1.2,28.6,clear
+652,Bengal Gram(Gram),Dhar,2016-11-24,8750.0,2.1,28.6,clear
+653,Green Gram (Moong),Manawar,2016-11-24,3500.0,0.8,28.6,clear
+654,Lentil(Masur),Badnawar,2016-11-24,4400.0,1.0,28.6,clear
+655,Lentil(Masur),Dhar,2016-11-24,4500.0,4.9,28.6,clear
+656,Bengal Gram(Gram),Badnawar,2016-11-25,8205.0,1.4,29.2,clear
+657,Bengal Gram(Gram),Dhar,2016-11-25,8000.0,1.6,29.2,clear
+658,Lentil(Masur),Badnawar,2016-11-25,4450.0,1.7,29.2,clear
+659,Lentil(Masur),Dhar,2016-11-25,4300.0,1.3,29.2,clear
+660,Bengal Gram(Gram),Badnawar,2016-11-30,9000.0,2.2,30.6,clear
+661,Bengal Gram(Gram),Dhar,2016-11-30,9250.0,1.5,30.6,clear
+662,Green Gram (Moong),Manawar,2016-11-30,3195.0,0.5,30.6,clear
+663,Lentil(Masur),Badnawar,2016-11-30,4180.0,0.2,30.6,clear
+664,Lentil(Masur),Dhar,2016-11-30,4350.0,2.4,30.6,clear
+665,Bengal Gram(Gram),Badnawar,2016-01-12,9000.0,1.6,29.0,clear
+666,Bengal Gram(Gram),Dhar,2016-01-12,8500.0,1.0,29.0,clear
+667,Lentil(Masur),Badnawar,2016-01-12,4080.0,0.1,29.0,clear
+668,Lentil(Masur),Dhar,2016-01-12,4350.0,5.1,29.0,clear
+669,Bengal Gram(Gram),Badnawar,2016-02-12,8775.0,1.2,28.6,clear
+670,Bengal Gram(Gram),Dhar,2016-02-12,8500.0,1.4,28.6,clear
+671,Lentil(Masur),Badnawar,2016-02-12,4000.0,0.4,28.6,clear
+672,Lentil(Masur),Dhar,2016-02-12,4350.0,2.0,28.6,clear
+673,Bengal Gram(Gram),Badnawar,2016-03-12,8005.0,0.3,33.2,rain
+674,Bengal Gram(Gram),Dhar,2016-03-12,8000.0,1.4,33.2,rain
+675,Lentil(Masur),Badnawar,2016-03-12,4000.0,0.1,33.2,rain
+676,Lentil(Masur),Dhar,2016-03-12,4200.0,1.8,33.2,rain
+677,Bengal Gram(Gram),Badnawar,2016-05-12,7900.0,0.2,41.4,clear
+678,Bengal Gram(Gram),Dhar,2016-05-12,7800.0,0.3,41.4,clear
+679,Black Gram (Urd Beans),Manawar,2016-05-12,3550.0,14.0,41.4,clear
+680,Lentil(Masur),Dhar,2016-05-12,4300.0,2.1,41.4,clear
+681,Bengal Gram(Gram),Badnawar,2016-06-12,8300.0,0.2,38.2,clear
+682,Bengal Gram(Gram),Dhar,2016-06-12,8000.0,2.1,38.2,clear
+683,Black Gram (Urd Beans),Manawar,2016-06-12,3495.0,12.0,38.2,clear
+684,Lentil(Masur),Badnawar,2016-06-12,4050.0,0.2,38.2,clear
+685,Lentil(Masur),Dhar,2016-06-12,3950.0,2.6,38.2,clear
+686,Bengal Gram(Gram),Badnawar,2016-07-12,8400.0,0.7,24.2,clear
+687,Bengal Gram(Gram),Dhar,2016-07-12,8350.0,0.7,24.2,clear
+688,Green Gram (Moong),Manawar,2016-07-12,2500.0,1.0,24.2,clear
+689,Lentil(Masur),Badnawar,2016-07-12,4300.0,1.9,24.2,clear
+690,Lentil(Masur),Dhar,2016-07-12,4080.0,0.4,24.2,clear
+691,Bengal Gram(Gram),Badnawar,2016-08-12,8460.0,0.7,26.2,clear
+692,Bengal Gram(Gram),Dhar,2016-08-12,8350.0,0.9,26.2,clear
+693,Lentil(Masur),Badnawar,2016-08-12,4000.0,0.2,26.2,clear
+694,Lentil(Masur),Dhar,2016-08-12,3950.0,0.8,26.2,clear
+695,Bengal Gram(Gram),Badnawar,2016-09-12,7805.0,0.2,30.4,clear
+696,Bengal Gram(Gram),Dhar,2016-09-12,8200.0,0.4,30.4,clear
+697,Lentil(Masur),Dhar,2016-09-12,4055.0,0.3,30.4,clear
+698,Bengal Gram(Gram),Badnawar,2016-12-13,9005.0,0.1,28.2,clear
+699,Bengal Gram(Gram),Dhar,2016-12-13,9500.0,0.6,28.2,clear
+700,Lentil(Masur),Dhar,2016-12-13,4105.0,0.5,28.2,clear
+701,Bengal Gram(Gram),Badnawar,2016-12-14,8500.0,0.3,26.8,clear
+702,Bengal Gram(Gram),Dhar,2016-12-14,8850.0,0.9,26.8,clear
+703,Lentil(Masur),Badnawar,2016-12-14,4205.0,0.1,26.8,clear
+704,Lentil(Masur),Dhar,2016-12-14,4090.0,1.2,26.8,clear
+705,Bengal Gram(Gram),Badnawar,2016-12-15,7805.0,1.0,28.6,clear
+706,Bengal Gram(Gram),Dhar,2016-12-15,8700.0,1.0,28.6,clear
+707,Lentil(Masur),Badnawar,2016-12-15,4200.0,0.1,28.6,clear
+708,Lentil(Masur),Dhar,2016-12-15,3950.0,1.2,28.6,clear
+709,Bengal Gram(Gram),Badnawar,2016-12-16,9200.0,0.4,28.4,clear
+710,Bengal Gram(Gram),Dhar,2016-12-16,8900.0,2.9,28.4,clear
+711,Lentil(Masur),Dhar,2016-12-16,4290.0,1.3,28.4,clear
+712,Bengal Gram(Gram),Badnawar,2016-12-17,9000.0,0.1,24.8,clear
+713,Bengal Gram(Gram),Dhar,2016-12-17,9300.0,0.2,24.8,clear
+714,Lentil(Masur),Dhar,2016-12-17,4100.0,2.5,24.8,clear
+715,Bengal Gram(Gram),Badnawar,2016-12-19,8745.0,0.1,24.2,clear
+716,Bengal Gram(Gram),Dhar,2016-12-19,9250.0,1.1,24.2,clear
+717,Green Gram (Moong),Manawar,2016-12-19,1995.0,0.1,24.2,clear
+718,Lentil(Masur),Badnawar,2016-12-19,4000.0,0.2,24.2,clear
+719,Lentil(Masur),Dhar,2016-12-19,3850.0,0.8,24.2,clear
+720,Bengal Gram(Gram),Badnawar,2016-12-20,8705.0,0.7,25.2,clear
+721,Bengal Gram(Gram),Dhar,2016-12-20,8500.0,8.0,25.2,clear
+722,Lentil(Masur),Badnawar,2016-12-20,4250.0,0.4,25.2,clear
+723,Lentil(Masur),Dhar,2016-12-20,4090.0,0.6,25.2,clear
+724,Bengal Gram(Gram),Badnawar,2016-12-21,8350.0,0.6,26.2,clear
+725,Bengal Gram(Gram),Dhar,2016-12-21,7800.0,0.7,26.2,clear
+726,Lentil(Masur),Dhar,2016-12-21,4000.0,2.0,26.2,clear
+727,Bengal Gram(Gram),Badnawar,2016-12-23,8805.0,0.4,28.0,clear
+728,Bengal Gram(Gram),Dhar,2016-12-23,8400.0,1.1,28.0,clear
+729,Lentil(Masur),Badnawar,2016-12-23,3900.0,0.2,28.0,clear
+730,Lentil(Masur),Dhar,2016-12-23,3800.0,0.8,28.0,clear
+731,Bengal Gram(Gram),Badnawar,2016-12-28,7500.0,1.0,26.6,clear
+732,Lentil(Masur),Badnawar,2016-12-28,3950.0,0.1,26.6,clear
+733,Lentil(Masur),Dhar,2016-12-28,4100.0,1.9,26.6,clear
+734,Bengal Gram(Gram),Dhar,2016-03-30,4200.0,34.0,36.6,clear
+735,Lentil(Masur),Dhar,2016-03-30,5050.0,5.8,36.6,clear
+736,Bengal Gram(Gram),Dhar,2016-03-31,4450.0,26.0,36.8,clear
+737,Lentil(Masur),Dhar,2016-03-31,4900.0,3.4,36.8,clear
+738,Bengal Gram(Gram),Dhar,2016-01-04,4450.0,32.0,29.0,clear
+739,Lentil(Masur),Dhar,2016-01-04,5190.0,2.1,29.0,clear
+740,Bengal Gram(Gram),Dhar,2016-07-04,4750.0,16.6,29.4,clear
+741,Lentil(Masur),Dhar,2016-07-04,5450.0,4.8,29.4,clear
+742,Bengal Gram(Gram),Dhar,2016-09-04,4800.0,6.2,27.4,clear
+743,Bengal Gram(Gram),Dhar,2016-04-23,5450.0,9.4,36.4,clear
+744,Lentil(Masur),Dhar,2016-04-23,5200.0,0.7,36.4,clear
+745,Bengal Gram(Gram),Dhar,2016-01-05,3200.0,0.5,29.0,clear
+746,Bengal Gram(Gram),Dhar,2016-06-05,5270.0,61.0,43.0,clear
+747,Lentil(Masur),Dhar,2016-06-05,5140.0,2.2,43.0,clear
+748,Bengal Gram(Gram),Dhar,2016-05-14,5450.0,5.5,41.0,clear
+749,Green Gram (Moong),Dhamnod,2016-05-14,5435.0,0.8,41.0,clear
+750,Bengal Gram(Gram),Dhar,2016-04-06,5750.0,6.2,37.0,clear
+751,Green Gram (Moong),Dhamnod,2016-04-06,5400.0,2.4,37.0,clear
+752,Lentil(Masur),Dhar,2016-04-06,5050.0,5.6,37.0,clear
+753,Bengal Gram(Gram),Dhar,2016-11-06,6200.0,4.6,29.0,clear
+754,Lentil(Masur),Dhar,2016-11-06,5000.0,2.4,29.0,clear
+755,Bengal Gram(Gram),Dhar,2016-06-25,6135.0,0.5,29.0,clear
+756,Bengal Gram(Gram),Dhar,2016-06-28,6985.0,1.4,31.2,clear
+757,Green Gram (Moong),Dhamnod,2016-06-28,5390.0,0.9,31.2,clear
+758,Bengal Gram(Gram),Dhar,2016-09-07,6005.0,0.1,29.0,clear
+759,Green Gram (Moong),Dhamnod,2016-09-07,4930.0,0.7,29.0,clear
+760,Lentil(Masur),Dhar,2016-09-07,4800.0,2.0,29.0,clear
+761,Bengal Gram(Gram),Dhar,2016-12-07,8000.0,0.1,27.0,clear
+762,Bengal Gram(Gram),Dhar,2016-07-13,8000.0,1.1,28.4,clear
+763,Green Gram (Moong),Dhamnod,2016-07-13,5430.0,0.4,28.4,clear
+764,Lentil(Masur),Dhar,2016-07-13,5200.0,0.5,28.4,clear
+765,Bengal Gram(Gram),Dhar,2016-07-23,7500.0,4.0,30.6,rain
+766,Lentil(Masur),Dhar,2016-07-23,5250.0,4.5,30.6,rain
+767,Bengal Gram(Gram),Dhar,2016-07-28,7695.0,0.1,27.6,clear
+768,Bengal Gram(Gram),Dhar,2016-07-30,7000.0,2.3,29.4,clear
+769,Green Gram (Moong),Dhamnod,2016-07-30,5105.0,0.5,29.4,clear
+770,Lentil(Masur),Dhar,2016-07-30,5200.0,0.6,29.4,clear
+771,Bengal Gram(Gram),Dhar,2016-02-08,7290.0,0.4,26.2,clear
+772,Bengal Gram(Gram),Dhar,2016-04-08,7300.0,0.9,37.0,clear
+773,Bengal Gram(Gram),Dhar,2016-08-08,6380.0,2.7,25.4,clear
+774,Green Gram (Moong),Dhamnod,2016-08-08,4810.0,0.4,25.4,clear
+775,Lentil(Masur),Dhar,2016-08-08,5155.0,0.8,25.4,clear
+776,Bengal Gram(Gram),Dhar,2016-12-08,7150.0,1.0,27.0,clear
+777,Lentil(Masur),Dhar,2016-12-08,5220.0,0.8,27.0,clear
+778,Bengal Gram(Gram),Dhar,2016-08-13,7190.0,0.2,25.8,clear
+779,Bengal Gram(Gram),Dhar,2016-08-24,6000.0,0.6,28.2,clear
+780,Bengal Gram(Gram),Dhar,2016-08-30,5250.0,0.2,30.4,clear
+781,Lentil(Masur),Dhar,2016-08-30,4390.0,1.0,30.4,clear
+782,Bengal Gram(Gram),Dhar,2016-05-09,7260.0,0.1,37.0,rain
+783,Lentil(Masur),Dhar,2016-05-09,5080.0,0.7,37.0,rain
+784,Bengal Gram(Gram),Dhar,2016-06-09,7250.0,0.8,39.6,clear
+785,Lentil(Masur),Dhar,2016-06-09,4920.0,1.6,39.6,clear
+786,Bengal Gram(Gram),Dhar,2016-09-16,7450.0,2.6,29.4,clear
+787,Lentil(Masur),Dhar,2016-09-16,4250.0,0.5,29.4,clear
+788,Bengal Gram(Gram),Dhar,2016-09-19,8000.0,3.3,28.2,clear
+789,Lentil(Masur),Dhar,2016-09-19,4850.0,0.8,28.2,clear
+790,Bengal Gram(Gram),Dhar,2016-10-15,9070.0,0.4,31.2,clear
+791,Bengal Gram(Gram),Dhar,2016-10-22,10500.0,1.3,31.0,clear
+792,Lentil(Masur),Dhar,2016-10-22,4850.0,4.2,31.0,clear
+793,Bengal Gram(Gram),Dhar,2016-10-28,9500.0,1.2,30.6,clear
+794,Lentil(Masur),Dhar,2016-10-28,4550.0,0.4,30.6,clear
+795,Bengal Gram(Gram),Dhar,2016-10-29,9030.0,0.1,29.6,clear
+796,Lentil(Masur),Dhar,2016-10-29,4500.0,0.2,29.6,clear
+797,Bengal Gram(Gram),Dhar,2016-11-18,9000.0,0.8,28.4,clear
+798,Lentil(Masur),Dhar,2016-11-18,4000.0,1.0,28.4,clear
+799,Bengal Gram(Gram),Dhar,2016-11-26,8500.0,1.5,29.2,clear
+800,Lentil(Masur),Dhar,2016-11-26,4500.0,6.6,29.2,clear
+801,Bengal Gram(Gram),Dhar,2016-11-28,9275.0,0.1,28.8,clear
+802,Lentil(Masur),Dhar,2016-11-28,3850.0,0.4,28.8,clear
+803,Bengal Gram(Gram),Dhar,2016-11-29,9250.0,3.0,29.8,clear
+804,Black Gram (Urd Beans),Manawar,2016-11-29,4000.0,3.0,29.8,clear
+805,Green Gram (Moong),Manawar,2016-11-29,3200.0,93.5,29.8,clear
+806,Lentil(Masur),Dhar,2016-11-29,4500.0,5.0,29.8,clear
+807,Bengal Gram(Gram),Dhar,2016-10-12,8405.0,0.1,30.4,clear
+808,Green Gram (Moong),Manawar,2016-10-12,3000.0,0.1,30.4,clear
+809,Lentil(Masur),Dhar,2016-10-12,4100.0,1.3,30.4,clear
+810,Bengal Gram(Gram),Dhar,2016-12-22,8200.0,0.4,26.2,clear
+811,Lentil(Masur),Badnawar,2016-12-22,4055.0,0.8,26.2,clear
+812,Lentil(Masur),Dhar,2016-12-22,4000.0,2.3,26.2,clear
+813,Bengal Gram(Gram),Dhar,2016-12-24,8900.0,0.4,28.8,clear
+814,Bengal Gram(Gram),Dhar,2016-12-29,8370.0,0.3,29.0,clear
+815,Lentil(Masur),Dhar,2016-12-29,3910.0,0.2,29.0,clear
+816,Bengal Gram(Gram),Dhar,2016-12-30,5450.0,0.3,30.2,clear
+817,Green Gram (Moong),Manawar,2016-12-30,3000.0,0.1,30.2,clear
+818,Black Gram (Urd Beans),Manawar,2016-12-25,2500.0,3.0,26.8,clear
+819,Green Gram (Moong),Dhamnod,2016-05-21,5700.0,0.3,40.4,clear
+820,Green Gram (Moong),Dhamnod,2016-07-07,5175.0,0.4,28.0,clear
+821,Green Gram (Moong),Manawar,2016-09-24,4870.0,20.7,32.6,clear
+822,Lentil(Masur),Dhar,2016-01-13,3500.0,0.7,26.6,clear
+823,Lentil(Masur),Dhar,2016-01-29,4385.0,11.9,30.2,clear
+824,Lentil(Masur),Dhar,2016-03-02,4070.0,9.8,34.4,clear
+825,Lentil(Masur),Dhar,2016-06-02,4200.0,6.4,40.0,clear
+826,Lentil(Masur),Dhar,2016-08-02,4450.0,6.9,24.2,rain
+827,Lentil(Masur),Dhar,2016-02-13,4000.0,0.5,26.0,clear
+828,Lentil(Masur),Dhar,2016-02-27,4400.0,1.9,31.2,clear
+829,Lentil(Masur),Dhar,2016-09-03,4600.0,2.7,28.2,clear
+830,Lentil(Masur),Dhar,2016-12-03,4680.0,1.2,26.4,clear
+831,Lentil(Masur),Dhar,2016-03-18,4200.0,0.2,35.0,clear
+832,Lentil(Masur),Dhar,2016-03-24,4900.0,1.3,38.4,clear
+833,Lentil(Masur),Dhar,2016-08-27,3902.0,0.7,27.8,clear
+834,Lentil(Masur),Dhar,2016-08-10,4800.0,0.6,26.8,clear
+835,Lentil(Masur),Dhar,2016-12-27,4030.0,1.3,23.6,clear
+836,Arhar (Tur/Red Gram),Dhamnod,2017-02-17,1200.0,1.1,31.8,clear
+837,Bengal Gram(Gram),Badnawar,2017-02-17,5155.0,23.0,31.8,clear
+838,Bengal Gram(Gram),Dhar,2017-02-17,4750.0,23.8,31.8,clear
+839,Green Gram (Moong),Manawar,2017-02-17,3245.0,0.5,31.8,clear
+840,Lentil(Masur),Badnawar,2017-02-17,3660.0,1.1,31.8,clear
+841,Lentil(Masur),Dhar,2017-02-17,3850.0,13.9,31.8,clear
+842,Arhar (Tur/Red Gram),Dhamnod,2017-12-07,1585.0,19.0,22.4,clear
+843,Bengal Gram(Gram),Dhar,2017-12-07,4950.0,8.8,22.4,clear
+844,Arhar (Tur/Red Gram),Dhamnod,2017-07-24,1650.0,25.0,24.8,rain
+845,Bengal Gram(Gram),Badnawar,2017-07-24,4990.0,1.8,24.8,rain
+846,Arhar (Tur/Red Gram),Dhamnod,2017-07-30,450.0,1.6,27.8,clear
+847,Black Gram (Urd Beans),Gandhwani,2017-07-30,4300.0,0.9,27.8,clear
+848,Arhar (Tur/Red Gram),Dhamnod,2017-02-10,1600.0,5.0,23.6,clear
+849,Arhar (Tur/Red Gram),Gandhwani,2017-07-31,4400.0,1.2,28.0,clear
+850,Bengal Gram(Gram),Dhar,2017-07-31,4650.0,5.8,28.0,clear
+851,Arhar (Tur/Red Gram),Gandhwani,2017-09-21,5300.0,6.7,25.0,clear
+852,Bengal Gram(Gram),Badnawar,2017-09-21,4800.0,1.0,25.0,clear
+853,Green Gram (Moong),Gandhwani,2017-09-21,4800.0,6.0,25.0,clear
+854,Arhar (Tur/Red Gram),Kukshi,2017-03-23,5050.0,34.29,37.0,clear
+855,Arhar (Tur/Red Gram),Manawar,2017-03-23,5050.0,12.05,37.0,clear
+856,Bengal Gram(Gram),Badnawar,2017-03-23,5555.0,14.0,37.0,clear
+857,Bengal Gram(Gram),Dhar,2017-03-23,5670.0,19.9,37.0,clear
+858,Lentil(Masur),Dhar,2017-03-23,4430.0,2.0,37.0,clear
+859,Arhar (Tur/Red Gram),Kukshi,2017-03-24,5050.0,28.17,37.0,clear
+860,Arhar (Tur/Red Gram),Manawar,2017-03-24,5050.0,8.55,37.0,clear
+861,Bengal Gram(Gram),Badnawar,2017-03-24,5700.0,20.0,37.0,clear
+862,Bengal Gram(Gram),Dhar,2017-03-24,5800.0,27.3,37.0,clear
+863,Lentil(Masur),Badnawar,2017-03-24,4680.0,2.3,37.0,clear
+864,Lentil(Masur),Dhar,2017-03-24,4775.0,0.8,37.0,clear
+865,Arhar (Tur/Red Gram),Kukshi,2017-06-30,5450.0,16.3,32.0,clear
+866,Green Gram (Moong),Manawar,2017-06-30,4000.0,4.1,32.0,clear
+867,Arhar (Tur/Red Gram),Kukshi,2017-08-13,5450.0,2.3,28.0,clear
+868,Arhar (Tur/Red Gram),Kukshi,2017-08-16,5450.0,10.5,30.2,clear
+869,Bengal Gram(Gram),Dhar,2017-08-16,5000.0,0.1,30.2,clear
+870,Arhar (Tur/Red Gram),Kukshi,2017-03-11,1625.0,50.0,27.4,clear
+871,Bengal Gram(Gram),Badnawar,2017-03-11,4000.0,14.0,27.4,clear
+872,Bengal Gram(Gram),Dhar,2017-03-11,4150.0,7.8,27.4,clear
+873,Green Gram (Moong),Kukshi,2017-03-11,3600.0,3.5,27.4,clear
+874,Lentil(Masur),Dhar,2017-03-11,2650.0,0.9,27.4,clear
+875,Arhar (Tur/Red Gram),Manawar,2017-02-18,3550.0,3.2,31.6,clear
+876,Bengal Gram(Gram),Badnawar,2017-02-18,4880.0,19.0,31.6,clear
+877,Bengal Gram(Gram),Dhar,2017-02-18,4750.0,22.5,31.6,clear
+878,Green Gram (Moong),Manawar,2017-02-18,3050.0,0.4,31.6,clear
+879,Lentil(Masur),Badnawar,2017-02-18,3710.0,0.9,31.6,clear
+880,Lentil(Masur),Dhar,2017-02-18,3850.0,2.7,31.6,clear
+881,Arhar (Tur/Red Gram),Manawar,2017-02-20,3395.0,5.4,32.4,clear
+882,Bengal Gram(Gram),Badnawar,2017-02-20,4625.0,17.0,32.4,clear
+883,Bengal Gram(Gram),Dhar,2017-02-20,4875.0,33.0,32.4,clear
+884,Lentil(Masur),Badnawar,2017-02-20,3825.0,2.2,32.4,clear
+885,Lentil(Masur),Dhar,2017-02-20,3800.0,16.3,32.4,clear
+886,Arhar (Tur/Red Gram),Manawar,2017-02-21,3395.0,1.8,29.0,clear
+887,Bengal Gram(Gram),Badnawar,2017-02-21,4500.0,24.0,29.0,clear
+888,Bengal Gram(Gram),Dhar,2017-02-21,4550.0,57.0,29.0,clear
+889,Lentil(Masur),Badnawar,2017-02-21,3600.0,0.4,29.0,clear
+890,Lentil(Masur),Dhar,2017-02-21,3575.0,18.5,29.0,clear
+891,Arhar (Tur/Red Gram),Manawar,2017-02-22,3185.0,1.5,30.0,clear
+892,Bengal Gram(Gram),Badnawar,2017-02-22,4300.0,44.0,30.0,clear
+893,Bengal Gram(Gram),Dhar,2017-02-22,4450.0,55.5,30.0,clear
+894,Lentil(Masur),Dhar,2017-02-22,3650.0,20.4,30.0,clear
+895,Arhar (Tur/Red Gram),Manawar,2017-02-25,3460.0,6.9,29.6,clear
+896,Bengal Gram(Gram),Dhar,2017-02-25,4450.0,25.5,29.6,clear
+897,Black Gram (Urd Beans),Manawar,2017-02-25,3995.0,2.0,29.6,clear
+898,Green Gram (Moong),Manawar,2017-02-25,3800.0,5.1,29.6,clear
+899,Lentil(Masur),Dhar,2017-02-25,3650.0,16.5,29.6,clear
+900,Arhar (Tur/Red Gram),Manawar,2017-03-20,5050.0,2.85,31.2,clear
+901,Bengal Gram(Gram),Badnawar,2017-03-20,4970.0,10.0,31.2,clear
+902,Bengal Gram(Gram),Dhar,2017-03-20,5150.0,25.2,31.2,clear
+903,Lentil(Masur),Badnawar,2017-03-20,4190.0,0.1,31.2,clear
+904,Lentil(Masur),Dhar,2017-03-20,3900.0,2.8,31.2,clear
+905,Arhar (Tur/Red Gram),Manawar,2017-03-22,5050.0,10.15,36.4,clear
+906,Bengal Gram(Gram),Dhar,2017-03-22,5450.0,33.4,36.4,clear
+907,Lentil(Masur),Dhar,2017-03-22,4200.0,4.0,36.4,clear
+908,Arhar (Tur/Red Gram),Manawar,2017-03-25,5050.0,3.95,37.4,clear
+909,Bengal Gram(Gram),Dhar,2017-03-25,5770.0,20.7,37.4,clear
+910,Lentil(Masur),Dhar,2017-03-25,4550.0,1.8,37.4,clear
+911,Arhar (Tur/Red Gram),Manawar,2017-03-27,5050.0,11.1,38.6,clear
+912,Bengal Gram(Gram),Badnawar,2017-03-27,5700.0,11.0,38.6,clear
+913,Bengal Gram(Gram),Dhar,2017-03-27,5750.0,16.4,38.6,clear
+914,Lentil(Masur),Badnawar,2017-03-27,4580.0,0.4,38.6,clear
+915,Lentil(Masur),Dhar,2017-03-27,3900.0,6.5,38.6,clear
+916,Arhar (Tur/Red Gram),Manawar,2017-03-28,5050.0,4.15,40.0,clear
+917,Bengal Gram(Gram),Dhar,2017-03-28,5650.0,14.3,40.0,clear
+918,Lentil(Masur),Dhar,2017-03-28,1500.0,2.0,40.0,clear
+919,Arhar (Tur/Red Gram),Manawar,2017-03-29,5050.0,7.85,40.2,clear
+920,Arhar (Tur/Red Gram),Manawar,2017-03-31,5050.0,9.3,39.4,clear
+921,Green Gram (Moong),Manawar,2017-03-31,5295.0,10.2,39.4,clear
+922,Arhar (Tur/Red Gram),Manawar,2017-01-04,5050.0,1.75,25.6,clear
+923,Bengal Gram(Gram),Dhar,2017-01-04,5750.0,10.8,25.6,clear
+924,Lentil(Masur),Dhar,2017-01-04,4370.0,0.6,25.6,clear
+925,Arhar (Tur/Red Gram),Manawar,2017-04-04,5050.0,14.0,37.2,clear
+926,Bengal Gram(Gram),Badnawar,2017-04-04,5700.0,27.0,37.2,clear
+927,Bengal Gram(Gram),Dhar,2017-04-04,5750.0,15.6,37.2,clear
+928,Lentil(Masur),Badnawar,2017-04-04,4365.0,5.5,37.2,clear
+929,Lentil(Masur),Dhar,2017-04-04,4430.0,3.1,37.2,clear
+930,Arhar (Tur/Red Gram),Manawar,2017-07-04,5050.0,8.45,28.4,clear
+931,Bengal Gram(Gram),Badnawar,2017-07-04,5250.0,16.0,28.4,clear
+932,Bengal Gram(Gram),Dhar,2017-07-04,5950.0,25.1,28.4,clear
+933,Lentil(Masur),Badnawar,2017-07-04,4120.0,0.4,28.4,clear
+934,Lentil(Masur),Dhar,2017-07-04,4100.0,1.4,28.4,clear
+935,Arhar (Tur/Red Gram),Manawar,2017-08-04,5050.0,16.7,29.0,clear
+936,Bengal Gram(Gram),Dhar,2017-08-04,5700.0,26.4,29.0,clear
+937,Lentil(Masur),Dhar,2017-08-04,4080.0,7.0,29.0,clear
+938,Arhar (Tur/Red Gram),Manawar,2017-10-04,5050.0,22.05,35.0,clear
+939,Bengal Gram(Gram),Badnawar,2017-10-04,5630.0,15.0,35.0,clear
+940,Bengal Gram(Gram),Dhar,2017-10-04,5750.0,24.5,35.0,clear
+941,Lentil(Masur),Badnawar,2017-10-04,3815.0,2.1,35.0,clear
+942,Lentil(Masur),Dhar,2017-10-04,4040.0,3.2,35.0,clear
+943,Arhar (Tur/Red Gram),Manawar,2017-11-04,3000.0,15.2,29.6,clear
+944,Arhar (Tur/Red Gram),Manawar,2017-12-04,5050.0,50.6,26.0,clear
+945,Bengal Gram(Gram),Badnawar,2017-12-04,5730.0,18.0,26.0,clear
+946,Bengal Gram(Gram),Dhar,2017-12-04,5600.0,6.8,26.0,clear
+947,Arhar (Tur/Red Gram),Manawar,2017-04-13,5050.0,12.7,40.6,clear
+948,Bengal Gram(Gram),Badnawar,2017-04-13,5500.0,25.0,40.6,clear
+949,Bengal Gram(Gram),Dhar,2017-04-13,5750.0,17.8,40.6,clear
+950,Lentil(Masur),Dhar,2017-04-13,4100.0,4.3,40.6,clear
+951,Arhar (Tur/Red Gram),Manawar,2017-04-14,5050.0,24.0,41.2,clear
+952,Arhar (Tur/Red Gram),Manawar,2017-04-15,5050.0,26.7,41.0,clear
+953,Bengal Gram(Gram),Badnawar,2017-04-15,5750.0,20.0,41.0,clear
+954,Bengal Gram(Gram),Dhar,2017-04-15,5950.0,26.7,41.0,clear
+955,Lentil(Masur),Badnawar,2017-04-15,3840.0,2.8,41.0,clear
+956,Lentil(Masur),Dhar,2017-04-15,3990.0,2.1,41.0,clear
+957,Arhar (Tur/Red Gram),Manawar,2017-04-16,3000.0,2.8,40.6,clear
+958,Arhar (Tur/Red Gram),Manawar,2017-04-17,3300.0,3.5,41.0,clear
+959,Bengal Gram(Gram),Badnawar,2017-04-17,5400.0,20.0,41.0,clear
+960,Bengal Gram(Gram),Dhar,2017-04-17,5750.0,23.8,41.0,clear
+961,Lentil(Masur),Dhar,2017-04-17,3900.0,6.7,41.0,clear
+962,Arhar (Tur/Red Gram),Manawar,2017-05-13,2685.0,6.2,41.4,clear
+963,Bengal Gram(Gram),Dhar,2017-05-13,5450.0,10.0,41.4,clear
+964,Lentil(Masur),Dhar,2017-05-13,3500.0,0.7,41.4,clear
+965,Arhar (Tur/Red Gram),Manawar,2017-05-15,2900.0,7.1,40.0,clear
+966,Bengal Gram(Gram),Badnawar,2017-05-15,5400.0,15.0,40.0,clear
+967,Bengal Gram(Gram),Dhar,2017-05-15,5650.0,40.2,40.0,clear
+968,Lentil(Masur),Dhar,2017-05-15,3550.0,2.3,40.0,clear
+969,Arhar (Tur/Red Gram),Manawar,2017-05-16,2995.0,0.2,39.6,clear
+970,Bengal Gram(Gram),Badnawar,2017-05-16,5700.0,10.0,39.6,clear
+971,Bengal Gram(Gram),Dhar,2017-05-16,5650.0,30.7,39.6,clear
+972,Lentil(Masur),Badnawar,2017-05-16,3655.0,2.0,39.6,clear
+973,Lentil(Masur),Dhar,2017-05-16,3700.0,9.9,39.6,clear
+974,Arhar (Tur/Red Gram),Manawar,2017-05-18,2800.0,3.2,39.6,clear
+975,Bengal Gram(Gram),Badnawar,2017-05-18,5300.0,9.4,39.6,clear
+976,Bengal Gram(Gram),Dhar,2017-05-18,5450.0,26.1,39.6,clear
+977,Lentil(Masur),Badnawar,2017-05-18,3640.0,1.7,39.6,clear
+978,Arhar (Tur/Red Gram),Manawar,2017-05-19,2500.0,0.7,40.6,clear
+979,Bengal Gram(Gram),Badnawar,2017-05-19,5535.0,8.3,40.6,clear
+980,Bengal Gram(Gram),Dhar,2017-05-19,5450.0,36.3,40.6,clear
+981,Lentil(Masur),Dhar,2017-05-19,3200.0,10.6,40.6,clear
+982,Arhar (Tur/Red Gram),Manawar,2017-05-25,2995.0,0.6,41.4,rain
+983,Bengal Gram(Gram),Dhar,2017-05-25,5150.0,18.3,41.4,rain
+984,Black Gram (Urd Beans),Gandhwani,2017-05-25,3800.0,7.8,41.4,rain
+985,Green Gram (Moong),Manawar,2017-05-25,3595.0,3.1,41.4,rain
+986,Lentil(Masur),Dhar,2017-05-25,3200.0,0.7,41.4,rain
+987,Arhar (Tur/Red Gram),Manawar,2017-05-26,2995.0,0.45,41.0,clear
+988,Bengal Gram(Gram),Badnawar,2017-05-26,5285.0,13.0,41.0,clear
+989,Bengal Gram(Gram),Dhar,2017-05-26,5150.0,22.5,41.0,clear
+990,Green Gram (Moong),Manawar,2017-05-26,4490.0,4.33,41.0,clear
+991,Lentil(Masur),Dhar,2017-05-26,3300.0,2.5,41.0,clear
+992,Arhar (Tur/Red Gram),Manawar,2017-01-06,3190.0,5.0,24.6,clear
+993,Bengal Gram(Gram),Dhar,2017-01-06,4500.0,0.3,24.6,clear
+994,Green Gram (Moong),Manawar,2017-01-06,3905.0,6.0,24.6,clear
+995,Arhar (Tur/Red Gram),Manawar,2017-02-06,3195.0,5.5,23.6,clear
+996,Green Gram (Moong),Manawar,2017-02-06,3900.0,5.5,23.6,clear
+997,Arhar (Tur/Red Gram),Manawar,2017-06-24,4625.0,0.6,32.4,clear
+998,Bengal Gram(Gram),Badnawar,2017-06-24,4700.0,9.5,32.4,clear
+999,Bengal Gram(Gram),Dhar,2017-06-24,4750.0,6.2,32.4,clear
+1000,Green Gram (Moong),Manawar,2017-06-24,4800.0,0.6,32.4,clear
+1001,Arhar (Tur/Red Gram),Manawar,2017-06-26,4615.0,0.3,28.6,clear
+1002,Arhar (Tur/Red Gram),Manawar,2017-06-27,4615.0,0.6,31.0,clear
+1003,Bengal Gram(Gram),Badnawar,2017-06-27,4725.0,6.0,31.0,clear
+1004,Bengal Gram(Gram),Dhar,2017-06-27,4750.0,9.5,31.0,clear
+1005,Green Gram (Moong),Manawar,2017-06-27,4500.0,3.7,31.0,clear
+1006,Arhar (Tur/Red Gram),Manawar,2017-06-28,4625.0,1.4,33.0,clear
+1007,Bengal Gram(Gram),Badnawar,2017-06-28,4775.0,8.3,33.0,clear
+1008,Bengal Gram(Gram),Dhar,2017-06-28,4950.0,20.8,33.0,clear
+1009,Green Gram (Moong),Manawar,2017-06-28,4500.0,1.6,33.0,clear
+1010,Lentil(Masur),Dhar,2017-06-28,3040.0,2.3,33.0,clear
+1011,Arhar (Tur/Red Gram),Manawar,2017-06-07,3500.0,11.6,35.4,rain
+1012,Bengal Gram(Gram),Dhar,2017-06-07,4950.0,16.9,35.4,rain
+1013,Lentil(Masur),Dhar,2017-06-07,3100.0,0.6,35.4,rain
+1014,Arhar (Tur/Red Gram),Manawar,2017-07-07,2995.0,0.5,32.2,clear
+1015,Bengal Gram(Gram),Dhar,2017-07-07,5070.0,27.4,32.2,clear
+1016,Green Gram (Moong),Manawar,2017-07-07,3895.0,0.8,32.2,clear
+1017,Lentil(Masur),Dhar,2017-07-07,3070.0,4.6,32.2,clear
+1018,Arhar (Tur/Red Gram),Manawar,2017-07-13,3505.0,1.0,24.4,clear
+1019,Bengal Gram(Gram),Badnawar,2017-07-13,4850.0,1.6,24.4,clear
+1020,Bengal Gram(Gram),Dhar,2017-07-13,5000.0,1.4,24.4,clear
+1021,Arhar (Tur/Red Gram),Manawar,2017-07-17,4225.0,3.2,27.2,clear
+1022,Bengal Gram(Gram),Dhar,2017-07-17,4750.0,2.4,27.2,clear
+1023,Green Gram (Moong),Manawar,2017-07-17,4800.0,0.6,27.2,clear
+1024,Lentil(Masur),Dhar,2017-07-17,2900.0,1.7,27.2,clear
+1025,Arhar (Tur/Red Gram),Manawar,2017-07-25,3500.0,2.2,23.4,clear
+1026,Bengal Gram(Gram),Badnawar,2017-07-25,4900.0,3.3,23.4,clear
+1027,Bengal Gram(Gram),Dhar,2017-07-25,4890.0,1.0,23.4,clear
+1028,Green Gram (Moong),Manawar,2017-07-25,4000.0,2.5,23.4,clear
+1029,Lentil(Masur),Dhar,2017-07-25,1840.0,0.1,23.4,clear
+1030,Arhar (Tur/Red Gram),Manawar,2017-11-08,3503.0,4.3,29.4,clear
+1031,Bengal Gram(Gram),Badnawar,2017-11-08,4575.0,0.6,29.4,clear
+1032,Arhar (Tur/Red Gram),Manawar,2017-08-19,3500.0,1.7,27.6,clear
+1033,Bengal Gram(Gram),Badnawar,2017-08-19,4400.0,0.4,27.6,clear
+1034,Green Gram (Moong),Manawar,2017-08-19,4400.0,0.7,27.6,clear
+1035,Lentil(Masur),Dhar,2017-08-19,3200.0,0.1,27.6,clear
+1036,Arhar (Tur/Red Gram),Manawar,2017-08-24,3500.0,1.0,28.4,clear
+1037,Bengal Gram(Gram),Badnawar,2017-08-24,4405.0,5.4,28.4,clear
+1038,Bengal Gram(Gram),Dhar,2017-08-24,5000.0,0.9,28.4,clear
+1039,Black Gram (Urd Beans),Manawar,2017-08-24,3200.0,1.2,28.4,clear
+1040,Green Gram (Moong),Manawar,2017-08-24,4550.0,1.8,28.4,clear
+1041,Arhar (Tur/Red Gram),Manawar,2017-08-25,3500.0,0.1,27.4,clear
+1042,Bengal Gram(Gram),Dhar,2017-08-25,5455.0,0.6,27.4,clear
+1043,Black Gram (Urd Beans),Manawar,2017-08-25,2500.0,0.4,27.4,clear
+1044,Green Gram (Moong),Manawar,2017-08-25,4650.0,1.1,27.4,clear
+1045,Arhar (Tur/Red Gram),Manawar,2017-09-14,1101.0,0.8,30.2,clear
+1046,Bengal Gram(Gram),Dhar,2017-09-14,5160.0,0.1,30.2,clear
+1047,Lentil(Masur),Dhar,2017-09-14,3150.0,0.1,30.2,clear
+1048,Arhar (Tur/Red Gram),Manawar,2017-09-19,4625.0,2.4,32.4,clear
+1049,Bengal Gram(Gram),Dhar,2017-09-19,5600.0,3.8,32.4,clear
+1050,Green Gram (Moong),Manawar,2017-09-19,4800.0,1.8,32.4,clear
+1051,Bengal Gram(Gram),Badnawar,2017-06-01,6500.0,0.3,36.6,clear
+1052,Bengal Gram(Gram),Dhar,2017-06-01,6500.0,0.3,36.6,clear
+1053,Lentil(Masur),Dhar,2017-06-01,4030.0,3.7,36.6,clear
+1054,Bengal Gram(Gram),Badnawar,2017-12-01,5000.0,0.4,26.4,clear
+1055,Bengal Gram(Gram),Dhar,2017-12-01,6000.0,0.3,26.4,clear
+1056,Lentil(Masur),Badnawar,2017-12-01,4000.0,0.1,26.4,clear
+1057,Lentil(Masur),Dhar,2017-12-01,4100.0,3.7,26.4,clear
+1058,Bengal Gram(Gram),Badnawar,2017-01-13,6100.0,0.6,20.2,clear
+1059,Bengal Gram(Gram),Dhar,2017-01-13,5500.0,0.8,20.2,clear
+1060,Lentil(Masur),Badnawar,2017-01-13,4245.0,0.3,20.2,clear
+1061,Lentil(Masur),Dhar,2017-01-13,4050.0,1.2,20.2,clear
+1062,Bengal Gram(Gram),Badnawar,2017-01-17,7830.0,0.4,23.8,clear
+1063,Green Gram (Moong),Manawar,2017-01-17,3820.0,5.0,23.8,clear
+1064,Lentil(Masur),Dhar,2017-01-17,4075.0,0.1,23.8,clear
+1065,Bengal Gram(Gram),Badnawar,2017-01-18,6325.0,2.0,24.0,clear
+1066,Bengal Gram(Gram),Dhar,2017-01-18,5692.0,0.1,24.0,clear
+1067,Lentil(Masur),Badnawar,2017-01-18,4000.0,0.2,24.0,clear
+1068,Lentil(Masur),Dhar,2017-01-18,4200.0,3.1,24.0,clear
+1069,Bengal Gram(Gram),Badnawar,2017-01-19,5300.0,1.0,21.6,clear
+1070,Bengal Gram(Gram),Badnawar,2017-01-20,5680.0,1.0,25.0,clear
+1071,Bengal Gram(Gram),Dhar,2017-01-20,5700.0,1.2,25.0,clear
+1072,Lentil(Masur),Dhar,2017-01-20,4100.0,0.3,25.0,clear
+1073,Bengal Gram(Gram),Badnawar,2017-01-23,6151.0,1.0,30.4,clear
+1074,Bengal Gram(Gram),Dhar,2017-01-23,6745.0,0.1,30.4,clear
+1075,Lentil(Masur),Dhar,2017-01-23,4100.0,1.9,30.4,clear
+1076,Bengal Gram(Gram),Badnawar,2017-01-24,6005.0,2.5,30.0,clear
+1077,Bengal Gram(Gram),Dhar,2017-01-24,7010.0,0.1,30.0,clear
+1078,Lentil(Masur),Badnawar,2017-01-24,4130.0,0.4,30.0,clear
+1079,Lentil(Masur),Dhar,2017-01-24,3900.0,0.3,30.0,clear
+1080,Bengal Gram(Gram),Badnawar,2017-01-25,5950.0,2.4,30.6,clear
+1081,Bengal Gram(Gram),Dhar,2017-01-25,5000.0,0.3,30.6,clear
+1082,Bengal Gram(Gram),Badnawar,2017-01-30,6000.0,7.6,28.0,clear
+1083,Bengal Gram(Gram),Dhar,2017-01-30,6150.0,13.6,28.0,clear
+1084,Bengal Gram(Gram),Badnawar,2017-01-31,5600.0,5.1,28.4,clear
+1085,Bengal Gram(Gram),Dhar,2017-01-31,5700.0,6.8,28.4,clear
+1086,Lentil(Masur),Dhar,2017-01-31,4002.0,0.2,28.4,clear
+1087,Bengal Gram(Gram),Badnawar,2017-01-02,4805.0,0.4,23.8,clear
+1088,Bengal Gram(Gram),Badnawar,2017-02-02,5600.0,3.1,30.0,clear
+1089,Bengal Gram(Gram),Dhar,2017-02-02,5700.0,14.1,30.0,clear
+1090,Lentil(Masur),Dhar,2017-02-02,3500.0,0.4,30.0,clear
+1091,Bengal Gram(Gram),Badnawar,2017-03-02,5690.0,12.0,33.2,clear
+1092,Bengal Gram(Gram),Dhar,2017-03-02,5700.0,17.9,33.2,clear
+1093,Lentil(Masur),Dhar,2017-03-02,3700.0,9.2,33.2,clear
+1094,Bengal Gram(Gram),Badnawar,2017-04-02,5400.0,13.0,37.8,clear
+1095,Bengal Gram(Gram),Dhar,2017-04-02,5450.0,9.5,37.8,clear
+1096,Lentil(Masur),Dhar,2017-04-02,3700.0,16.9,37.8,clear
+1097,Bengal Gram(Gram),Badnawar,2017-06-02,4900.0,29.0,38.6,clear
+1098,Bengal Gram(Gram),Dhar,2017-06-02,5450.0,51.2,38.6,clear
+1099,Lentil(Masur),Dhar,2017-06-02,3750.0,16.5,38.6,clear
+1100,Bengal Gram(Gram),Badnawar,2017-07-02,4575.0,22.0,27.6,clear
+1101,Bengal Gram(Gram),Dhar,2017-07-02,4450.0,34.2,27.6,clear
+1102,Lentil(Masur),Dhar,2017-07-02,3700.0,16.4,27.6,clear
+1103,Bengal Gram(Gram),Badnawar,2017-08-02,4700.0,38.0,29.4,clear
+1104,Bengal Gram(Gram),Dhar,2017-08-02,4450.0,277.0,29.4,clear
+1105,Lentil(Masur),Badnawar,2017-08-02,3490.0,0.8,29.4,clear
+1106,Lentil(Masur),Dhar,2017-08-02,3700.0,20.2,29.4,clear
+1107,Bengal Gram(Gram),Badnawar,2017-09-02,4550.0,33.0,30.0,clear
+1108,Bengal Gram(Gram),Dhar,2017-09-02,4450.0,15.4,30.0,clear
+1109,Lentil(Masur),Badnawar,2017-09-02,3685.0,0.5,30.0,clear
+1110,Lentil(Masur),Dhar,2017-09-02,3850.0,21.7,30.0,clear
+1111,Bengal Gram(Gram),Badnawar,2017-02-13,4300.0,43.0,27.8,clear
+1112,Bengal Gram(Gram),Dhar,2017-02-13,4750.0,51.6,27.8,clear
+1113,Lentil(Masur),Badnawar,2017-02-13,3500.0,3.2,27.8,clear
+1114,Lentil(Masur),Dhar,2017-02-13,1600.0,11.3,27.8,clear
+1115,Bengal Gram(Gram),Badnawar,2017-02-14,4280.0,56.0,29.2,clear
+1116,Bengal Gram(Gram),Dhar,2017-02-14,4550.0,59.5,29.2,clear
+1117,Lentil(Masur),Badnawar,2017-02-14,3595.0,1.9,29.2,clear
+1118,Lentil(Masur),Dhar,2017-02-14,3850.0,26.6,29.2,clear
+1119,Bengal Gram(Gram),Badnawar,2017-02-15,4700.0,17.0,29.6,clear
+1120,Bengal Gram(Gram),Dhar,2017-02-15,4750.0,37.3,29.6,clear
+1121,Lentil(Masur),Dhar,2017-02-15,3900.0,6.6,29.6,clear
+1122,Bengal Gram(Gram),Badnawar,2017-02-16,4500.0,29.0,29.8,clear
+1123,Bengal Gram(Gram),Dhar,2017-02-16,4500.0,68.1,29.8,clear
+1124,Lentil(Masur),Dhar,2017-02-16,3550.0,17.8,29.8,clear
+1125,Bengal Gram(Gram),Badnawar,2017-02-23,4300.0,16.0,29.0,clear
+1126,Bengal Gram(Gram),Dhar,2017-02-23,4450.0,40.0,29.0,clear
+1127,Lentil(Masur),Dhar,2017-02-23,3450.0,11.1,29.0,clear
+1128,Bengal Gram(Gram),Badnawar,2017-02-27,4230.0,26.0,32.8,clear
+1129,Bengal Gram(Gram),Dhar,2017-02-27,4450.0,55.8,32.8,clear
+1130,Lentil(Masur),Dhar,2017-02-27,3500.0,17.4,32.8,clear
+1131,Bengal Gram(Gram),Badnawar,2017-03-03,4750.0,17.0,34.1,clear
+1132,Bengal Gram(Gram),Dhar,2017-03-03,4750.0,25.6,34.1,clear
+1133,Lentil(Masur),Badnawar,2017-03-03,3925.0,2.5,34.1,clear
+1134,Lentil(Masur),Dhar,2017-03-03,3750.0,13.0,34.1,clear
+1135,Bengal Gram(Gram),Badnawar,2017-04-03,4550.0,20.0,38.0,clear
+1136,Bengal Gram(Gram),Dhar,2017-04-03,4750.0,23.2,38.0,clear
+1137,Lentil(Masur),Badnawar,2017-04-03,3740.0,0.6,38.0,clear
+1138,Lentil(Masur),Dhar,2017-04-03,3900.0,7.7,38.0,clear
+1139,Bengal Gram(Gram),Badnawar,2017-07-03,4650.0,20.0,29.0,clear
+1140,Bengal Gram(Gram),Dhar,2017-07-03,4750.0,31.5,29.0,clear
+1141,Lentil(Masur),Badnawar,2017-07-03,3825.0,2.1,29.0,clear
+1142,Lentil(Masur),Dhar,2017-07-03,3850.0,7.6,29.0,clear
+1143,Bengal Gram(Gram),Badnawar,2017-08-03,4850.0,19.0,27.0,clear
+1144,Bengal Gram(Gram),Dhar,2017-08-03,4750.0,23.3,27.0,clear
+1145,Lentil(Masur),Badnawar,2017-08-03,3725.0,8.4,27.0,clear
+1146,Lentil(Masur),Dhar,2017-08-03,3950.0,4.2,27.0,clear
+1147,Bengal Gram(Gram),Badnawar,2017-09-03,4910.0,16.0,28.4,clear
+1148,Lentil(Masur),Badnawar,2017-09-03,3840.0,1.0,28.4,clear
+1149,Bengal Gram(Gram),Badnawar,2017-03-15,4605.0,9.0,31.0,clear
+1150,Bengal Gram(Gram),Dhar,2017-03-15,4750.0,10.2,31.0,clear
+1151,Lentil(Masur),Dhar,2017-03-15,3965.0,0.2,31.0,clear
+1152,Bengal Gram(Gram),Badnawar,2017-03-16,4660.0,17.0,34.0,clear
+1153,Bengal Gram(Gram),Dhar,2017-03-16,4750.0,12.3,34.0,clear
+1154,Lentil(Masur),Dhar,2017-03-16,4000.0,1.2,34.0,clear
+1155,Bengal Gram(Gram),Badnawar,2017-03-18,4885.0,4.4,32.6,clear
+1156,Bengal Gram(Gram),Dhar,2017-03-18,4950.0,9.3,32.6,clear
+1157,Lentil(Masur),Dhar,2017-03-18,4150.0,4.4,32.6,clear
+1158,Bengal Gram(Gram),Badnawar,2017-03-21,4850.0,19.0,33.6,clear
+1159,Bengal Gram(Gram),Dhar,2017-03-21,5350.0,22.0,33.6,clear
+1160,Lentil(Masur),Dhar,2017-03-21,3600.0,2.3,33.6,clear
+1161,Bengal Gram(Gram),Badnawar,2017-03-04,5750.0,11.0,29.6,clear
+1162,Bengal Gram(Gram),Dhar,2017-03-04,5750.0,27.2,29.6,clear
+1163,Lentil(Masur),Badnawar,2017-03-04,4500.0,0.5,29.6,clear
+1164,Lentil(Masur),Dhar,2017-03-04,4300.0,0.9,29.6,clear
+1165,Bengal Gram(Gram),Badnawar,2017-06-04,5625.0,14.0,37.0,clear
+1166,Bengal Gram(Gram),Dhar,2017-06-04,5850.0,19.5,37.0,clear
+1167,Lentil(Masur),Badnawar,2017-06-04,4255.0,1.0,37.0,clear
+1168,Lentil(Masur),Dhar,2017-06-04,4300.0,1.8,37.0,clear
+1169,Bengal Gram(Gram),Badnawar,2017-04-18,5490.0,18.0,41.0,clear
+1170,Bengal Gram(Gram),Dhar,2017-04-18,5650.0,37.7,41.0,clear
+1171,Lentil(Masur),Badnawar,2017-04-18,3685.0,1.0,41.0,clear
+1172,Lentil(Masur),Dhar,2017-04-18,3900.0,9.3,41.0,clear
+1173,Bengal Gram(Gram),Badnawar,2017-04-19,5440.0,28.0,40.0,clear
+1174,Bengal Gram(Gram),Dhar,2017-04-19,5700.0,32.8,40.0,clear
+1175,Lentil(Masur),Dhar,2017-04-19,3750.0,1.4,40.0,clear
+1176,Bengal Gram(Gram),Badnawar,2017-04-20,5545.0,27.0,39.8,clear
+1177,Bengal Gram(Gram),Dhar,2017-04-20,5450.0,23.0,39.8,clear
+1178,Lentil(Masur),Badnawar,2017-04-20,3585.0,1.4,39.8,clear
+1179,Lentil(Masur),Dhar,2017-04-20,3650.0,6.0,39.8,clear
+1180,Bengal Gram(Gram),Badnawar,2017-04-21,5400.0,15.7,39.6,clear
+1181,Bengal Gram(Gram),Dhar,2017-04-21,5650.0,41.2,39.6,clear
+1182,Lentil(Masur),Badnawar,2017-04-21,3360.0,0.7,39.6,clear
+1183,Lentil(Masur),Dhar,2017-04-21,3500.0,1.2,39.6,clear
+1184,Bengal Gram(Gram),Badnawar,2017-04-24,5275.0,14.0,35.4,clear
+1185,Bengal Gram(Gram),Dhar,2017-04-24,5450.0,16.6,35.4,clear
+1186,Lentil(Masur),Dhar,2017-04-24,2500.0,0.7,35.4,clear
+1187,Bengal Gram(Gram),Badnawar,2017-04-25,5100.0,20.0,35.4,clear
+1188,Bengal Gram(Gram),Dhar,2017-04-25,5450.0,20.8,35.4,clear
+1189,Lentil(Masur),Badnawar,2017-04-25,3530.0,0.2,35.4,clear
+1190,Lentil(Masur),Dhar,2017-04-25,3600.0,5.3,35.4,clear
+1191,Bengal Gram(Gram),Badnawar,2017-04-27,5345.0,18.0,37.6,clear
+1192,Bengal Gram(Gram),Dhar,2017-04-27,5275.0,5.4,37.6,clear
+1193,Lentil(Masur),Badnawar,2017-04-27,3610.0,1.1,37.6,clear
+1194,Lentil(Masur),Dhar,2017-04-27,3250.0,2.1,37.6,clear
+1195,Bengal Gram(Gram),Badnawar,2017-04-28,5155.0,8.7,39.0,clear
+1196,Bengal Gram(Gram),Dhar,2017-04-28,5380.0,2.1,39.0,clear
+1197,Bengal Gram(Gram),Badnawar,2017-02-05,5255.0,16.0,26.8,clear
+1198,Bengal Gram(Gram),Dhar,2017-02-05,5500.0,19.2,26.8,clear
+1199,Lentil(Masur),Badnawar,2017-02-05,3500.0,0.3,26.8,clear
+1200,Lentil(Masur),Dhar,2017-02-05,3370.0,1.4,26.8,clear
+1201,Bengal Gram(Gram),Badnawar,2017-03-05,5240.0,13.0,29.2,clear
+1202,Bengal Gram(Gram),Dhar,2017-03-05,5400.0,21.5,29.2,clear
+1203,Lentil(Masur),Badnawar,2017-03-05,3495.0,0.3,29.2,clear
+1204,Lentil(Masur),Dhar,2017-03-05,3300.0,1.2,29.2,clear
+1205,Bengal Gram(Gram),Badnawar,2017-04-05,5170.0,7.5,36.6,clear
+1206,Bengal Gram(Gram),Dhar,2017-04-05,5450.0,12.5,36.6,clear
+1207,Lentil(Masur),Dhar,2017-04-05,3350.0,2.6,36.6,clear
+1208,Bengal Gram(Gram),Badnawar,2017-05-05,5055.0,4.8,41.0,clear
+1209,Bengal Gram(Gram),Dhar,2017-05-05,5350.0,12.8,41.0,clear
+1210,Lentil(Masur),Dhar,2017-05-05,3500.0,0.7,41.0,clear
+1211,Bengal Gram(Gram),Badnawar,2017-06-05,5255.0,4.6,38.2,clear
+1212,Bengal Gram(Gram),Dhar,2017-06-05,5400.0,5.4,38.2,clear
+1213,Lentil(Masur),Dhar,2017-06-05,3500.0,0.9,38.2,clear
+1214,Bengal Gram(Gram),Badnawar,2017-08-05,5175.0,5.8,30.2,clear
+1215,Bengal Gram(Gram),Dhar,2017-08-05,5450.0,7.9,30.2,clear
+1216,Lentil(Masur),Dhar,2017-08-05,3000.0,1.4,30.2,clear
+1217,Bengal Gram(Gram),Badnawar,2017-11-05,5150.0,17.0,29.4,clear
+1218,Lentil(Masur),Badnawar,2017-11-05,3470.0,0.3,29.4,clear
+1219,Bengal Gram(Gram),Badnawar,2017-12-05,5345.0,13.0,22.0,clear
+1220,Bengal Gram(Gram),Dhar,2017-12-05,5450.0,33.3,22.0,clear
+1221,Bengal Gram(Gram),Badnawar,2017-05-17,5390.0,8.5,39.8,clear
+1222,Bengal Gram(Gram),Dhar,2017-05-17,5450.0,25.9,39.8,clear
+1223,Lentil(Masur),Badnawar,2017-05-17,3705.0,2.0,39.8,clear
+1224,Lentil(Masur),Dhar,2017-05-17,3470.0,3.2,39.8,clear
+1225,Bengal Gram(Gram),Badnawar,2017-05-20,5335.0,7.4,40.0,clear
+1226,Bengal Gram(Gram),Dhar,2017-05-20,5450.0,19.2,40.0,clear
+1227,Lentil(Masur),Dhar,2017-05-20,3040.0,3.4,40.0,clear
+1228,Bengal Gram(Gram),Badnawar,2017-05-22,5255.0,12.0,39.0,clear
+1229,Bengal Gram(Gram),Dhar,2017-05-22,5150.0,34.2,39.0,clear
+1230,Lentil(Masur),Dhar,2017-05-22,3240.0,6.5,39.0,clear
+1231,Bengal Gram(Gram),Badnawar,2017-05-23,5300.0,13.0,39.0,clear
+1232,Bengal Gram(Gram),Dhar,2017-05-23,5150.0,18.0,39.0,clear
+1233,Bengal Gram(Gram),Badnawar,2017-05-24,5150.0,15.0,40.6,clear
+1234,Bengal Gram(Gram),Dhar,2017-05-24,5150.0,20.5,40.6,clear
+1235,Lentil(Masur),Dhar,2017-05-24,3400.0,1.6,40.6,clear
+1236,Bengal Gram(Gram),Badnawar,2017-05-29,4700.0,15.0,36.8,clear
+1237,Bengal Gram(Gram),Dhar,2017-05-29,4950.0,25.1,36.8,clear
+1238,Green Gram (Moong),Manawar,2017-05-29,3895.0,0.6,36.8,clear
+1239,Lentil(Masur),Dhar,2017-05-29,3100.0,6.8,36.8,clear
+1240,Bengal Gram(Gram),Badnawar,2017-05-30,4730.0,6.4,35.6,clear
+1241,Bengal Gram(Gram),Dhar,2017-05-30,4950.0,16.6,35.6,clear
+1242,Lentil(Masur),Dhar,2017-05-30,2800.0,1.5,35.6,clear
+1243,Bengal Gram(Gram),Badnawar,2017-05-31,4800.0,4.6,38.6,clear
+1244,Bengal Gram(Gram),Dhar,2017-05-31,4750.0,13.0,38.6,clear
+1245,Lentil(Masur),Dhar,2017-05-31,2900.0,2.9,38.6,clear
+1246,Bengal Gram(Gram),Badnawar,2017-06-19,4825.0,4.0,35.0,clear
+1247,Bengal Gram(Gram),Dhar,2017-06-19,4750.0,3.6,35.0,clear
+1248,Lentil(Masur),Dhar,2017-06-19,3000.0,1.7,35.0,clear
+1249,Bengal Gram(Gram),Badnawar,2017-06-20,4880.0,7.3,34.4,clear
+1250,Bengal Gram(Gram),Dhar,2017-06-20,4750.0,2.7,34.4,clear
+1251,Bengal Gram(Gram),Badnawar,2017-06-21,4825.0,7.5,34.6,clear
+1252,Bengal Gram(Gram),Dhar,2017-06-21,4750.0,21.1,34.6,clear
+1253,Bengal Gram(Gram),Badnawar,2017-06-22,4780.0,11.0,30.4,clear
+1254,Bengal Gram(Gram),Dhar,2017-06-22,4750.0,15.5,30.4,clear
+1255,Lentil(Masur),Dhar,2017-06-22,3000.0,4.7,30.4,clear
+1256,Bengal Gram(Gram),Badnawar,2017-06-29,4730.0,6.2,33.0,clear
+1257,Bengal Gram(Gram),Dhar,2017-06-29,4950.0,14.6,33.0,clear
+1258,Bengal Gram(Gram),Badnawar,2017-10-07,4910.0,4.7,34.6,clear
+1259,Bengal Gram(Gram),Dhar,2017-10-07,4950.0,12.1,34.6,clear
+1260,Lentil(Masur),Dhar,2017-10-07,3150.0,3.4,34.6,clear
+1261,Bengal Gram(Gram),Badnawar,2017-11-07,4795.0,2.7,30.0,clear
+1262,Bengal Gram(Gram),Dhar,2017-11-07,4750.0,7.1,30.0,clear
+1263,Lentil(Masur),Dhar,2017-11-07,3016.0,0.3,30.0,clear
+1264,Bengal Gram(Gram),Badnawar,2017-07-15,4775.0,2.8,27.8,clear
+1265,Bengal Gram(Gram),Dhar,2017-07-15,5000.0,6.2,27.8,clear
+1266,Bengal Gram(Gram),Badnawar,2017-07-18,4705.0,3.4,30.4,clear
+1267,Bengal Gram(Gram),Dhar,2017-07-18,5000.0,6.8,30.4,clear
+1268,Bengal Gram(Gram),Badnawar,2017-07-19,4900.0,4.0,28.0,clear
+1269,Bengal Gram(Gram),Dhar,2017-07-19,4750.0,9.2,28.0,clear
+1270,Green Gram (Moong),Manawar,2017-07-19,3495.0,0.5,28.0,clear
+1271,Bengal Gram(Gram),Badnawar,2017-07-21,4650.0,2.5,29.6,clear
+1272,Bengal Gram(Gram),Dhar,2017-07-21,4970.0,4.0,29.6,clear
+1273,Lentil(Masur),Dhar,2017-07-21,2992.0,1.0,29.6,clear
+1274,Bengal Gram(Gram),Badnawar,2017-07-26,4455.0,0.9,23.2,clear
+1275,Bengal Gram(Gram),Dhar,2017-07-26,4600.0,0.7,23.2,clear
+1276,Bengal Gram(Gram),Badnawar,2017-07-27,4500.0,0.2,24.8,rain
+1277,Bengal Gram(Gram),Dhar,2017-07-27,4550.0,1.9,24.8,rain
+1278,Lentil(Masur),Dhar,2017-07-27,2760.0,0.4,24.8,rain
+1279,Bengal Gram(Gram),Badnawar,2017-07-28,5200.0,1.3,24.4,rain
+1280,Bengal Gram(Gram),Dhar,2017-07-28,4750.0,1.5,24.4,rain
+1281,Bengal Gram(Gram),Badnawar,2017-07-29,4705.0,3.0,28.2,clear
+1282,Bengal Gram(Gram),Dhar,2017-07-29,4570.0,3.3,28.2,clear
+1283,Green Gram (Moong),Gandhwani,2017-07-29,5000.0,1.9,28.2,clear
+1284,Bengal Gram(Gram),Badnawar,2017-01-08,4750.0,0.9,24.4,clear
+1285,Bengal Gram(Gram),Dhar,2017-01-08,5000.0,2.5,24.4,clear
+1286,Bengal Gram(Gram),Badnawar,2017-02-08,4605.0,2.9,31.0,clear
+1287,Bengal Gram(Gram),Dhar,2017-02-08,4950.0,2.7,31.0,clear
+1288,Lentil(Masur),Dhar,2017-02-08,2948.0,0.1,31.0,clear
+1289,Bengal Gram(Gram),Badnawar,2017-03-08,4815.0,1.4,31.6,clear
+1290,Bengal Gram(Gram),Dhar,2017-03-08,4850.0,2.3,31.6,clear
+1291,Lentil(Masur),Dhar,2017-03-08,2900.0,0.4,31.6,clear
+1292,Bengal Gram(Gram),Badnawar,2017-04-08,4655.0,0.8,35.0,clear
+1293,Bengal Gram(Gram),Dhar,2017-04-08,4750.0,5.4,35.0,clear
+1294,Lentil(Masur),Dhar,2017-04-08,2910.0,1.0,35.0,clear
+1295,Bengal Gram(Gram),Badnawar,2017-05-08,5065.0,0.6,40.4,clear
+1296,Bengal Gram(Gram),Dhar,2017-05-08,4900.0,4.3,40.4,clear
+1297,Bengal Gram(Gram),Badnawar,2017-09-08,4775.0,0.9,31.8,rain
+1298,Bengal Gram(Gram),Badnawar,2017-10-08,4005.0,0.3,34.4,clear
+1299,Bengal Gram(Gram),Dhar,2017-10-08,4950.0,2.0,34.4,clear
+1300,Black Gram (Urd Beans),Gandhwani,2017-10-08,4800.0,0.56,34.4,clear
+1301,Green Gram (Moong),Gandhwani,2017-10-08,4900.0,4.6,34.4,clear
+1302,Bengal Gram(Gram),Badnawar,2017-08-14,5300.0,0.1,30.2,clear
+1303,Bengal Gram(Gram),Badnawar,2017-08-17,4615.0,0.3,29.4,clear
+1304,Bengal Gram(Gram),Badnawar,2017-08-18,4665.0,1.2,30.0,clear
+1305,Bengal Gram(Gram),Badnawar,2017-08-23,4955.0,0.4,27.4,clear
+1306,Bengal Gram(Gram),Dhar,2017-08-23,5500.0,0.7,27.4,clear
+1307,Lentil(Masur),Dhar,2017-08-23,3000.0,0.2,27.4,clear
+1308,Bengal Gram(Gram),Badnawar,2017-08-28,5500.0,1.2,29.6,clear
+1309,Bengal Gram(Gram),Dhar,2017-08-28,3500.0,0.6,29.6,clear
+1310,Bengal Gram(Gram),Badnawar,2017-08-29,5405.0,0.3,26.4,clear
+1311,Green Gram (Moong),Manawar,2017-08-29,4800.0,0.6,26.4,clear
+1312,Lentil(Masur),Dhar,2017-08-29,3000.0,0.1,26.4,clear
+1313,Bengal Gram(Gram),Badnawar,2017-08-30,5615.0,0.4,28.0,clear
+1314,Bengal Gram(Gram),Dhar,2017-08-30,5390.0,1.3,28.0,clear
+1315,Bengal Gram(Gram),Badnawar,2017-01-09,5700.0,0.8,24.4,clear
+1316,Bengal Gram(Gram),Dhar,2017-01-09,5400.0,0.3,24.4,clear
+1317,Bengal Gram(Gram),Badnawar,2017-04-09,5500.0,1.5,36.2,clear
+1318,Bengal Gram(Gram),Dhar,2017-04-09,5302.0,1.4,36.2,clear
+1319,Green Gram (Moong),Manawar,2017-04-09,4800.0,1.1,36.2,clear
+1320,Bengal Gram(Gram),Badnawar,2017-07-09,4600.0,3.2,32.6,clear
+1321,Bengal Gram(Gram),Dhar,2017-07-09,5500.0,3.7,32.6,clear
+1322,Bengal Gram(Gram),Badnawar,2017-08-09,5300.0,1.5,29.4,clear
+1323,Bengal Gram(Gram),Dhar,2017-08-09,5750.0,6.6,29.4,clear
+1324,Lentil(Masur),Dhar,2017-08-09,2200.0,0.1,29.4,clear
+1325,Bengal Gram(Gram),Badnawar,2017-11-09,5500.0,2.2,29.2,clear
+1326,Bengal Gram(Gram),Dhar,2017-11-09,5750.0,2.0,29.2,clear
+1327,Bengal Gram(Gram),Badnawar,2017-12-09,5360.0,1.3,26.8,clear
+1328,Bengal Gram(Gram),Dhar,2017-12-09,5730.0,1.8,26.8,clear
+1329,Bengal Gram(Gram),Badnawar,2017-09-15,5595.0,1.3,27.4,clear
+1330,Bengal Gram(Gram),Dhar,2017-09-15,5940.0,0.5,27.4,clear
+1331,Lentil(Masur),Dhar,2017-09-15,3220.0,0.1,27.4,clear
+1332,Bengal Gram(Gram),Badnawar,2017-09-16,5850.0,0.4,27.0,clear
+1333,Bengal Gram(Gram),Dhar,2017-09-16,5500.0,3.0,27.0,clear
+1334,Lentil(Masur),Dhar,2017-09-16,3120.0,0.4,27.0,clear
+1335,Bengal Gram(Gram),Badnawar,2017-09-18,5425.0,1.4,28.4,clear
+1336,Bengal Gram(Gram),Dhar,2017-09-18,5800.0,2.1,28.4,clear
+1337,Lentil(Masur),Dhar,2017-09-18,3200.0,0.3,28.4,clear
+1338,Bengal Gram(Gram),Badnawar,2017-09-25,5000.0,5.4,31.6,clear
+1339,Bengal Gram(Gram),Dhar,2017-09-25,5450.0,2.5,31.6,clear
+1340,Bengal Gram(Gram),Badnawar,2017-09-26,5000.0,3.0,32.6,clear
+1341,Bengal Gram(Gram),Dhar,2017-09-26,5350.0,1.8,32.6,clear
+1342,Bengal Gram(Gram),Badnawar,2017-09-27,4485.0,3.0,33.0,clear
+1343,Bengal Gram(Gram),Dhar,2017-09-27,5670.0,2.1,33.0,clear
+1344,Lentil(Masur),Dhar,2017-09-27,3000.0,0.4,33.0,clear
+1345,Bengal Gram(Gram),Badnawar,2017-03-10,5075.0,2.2,27.2,clear
+1346,Bengal Gram(Gram),Dhar,2017-03-10,5500.0,2.2,27.2,clear
+1347,Lentil(Masur),Dhar,2017-03-10,2800.0,2.1,27.2,clear
+1348,Bengal Gram(Gram),Badnawar,2017-04-10,5065.0,4.6,35.6,clear
+1349,Bengal Gram(Gram),Dhar,2017-04-10,5300.0,1.3,35.6,clear
+1350,Lentil(Masur),Dhar,2017-04-10,2804.0,0.1,35.6,clear
+1351,Bengal Gram(Gram),Badnawar,2017-09-10,4500.0,17.0,31.6,clear
+1352,Bengal Gram(Gram),Dhar,2017-09-10,5000.0,17.9,31.6,clear
+1353,Lentil(Masur),Dhar,2017-09-10,2896.0,0.6,31.6,clear
+1354,Bengal Gram(Gram),Badnawar,2017-10-10,4700.0,10.0,30.0,clear
+1355,Bengal Gram(Gram),Dhar,2017-10-10,4900.0,8.0,30.0,clear
+1356,Lentil(Masur),Dhar,2017-10-10,2830.0,3.5,30.0,clear
+1357,Bengal Gram(Gram),Badnawar,2017-11-10,4480.0,8.9,28.8,clear
+1358,Bengal Gram(Gram),Dhar,2017-11-10,4750.0,16.5,28.8,clear
+1359,Lentil(Masur),Dhar,2017-11-10,2850.0,2.1,28.8,clear
+1360,Bengal Gram(Gram),Badnawar,2017-12-10,4500.0,10.0,27.0,clear
+1361,Bengal Gram(Gram),Dhar,2017-12-10,4750.0,7.5,27.0,clear
+1362,Lentil(Masur),Dhar,2017-12-10,2850.0,1.4,27.0,clear
+1363,Bengal Gram(Gram),Badnawar,2017-10-13,4405.0,9.3,31.4,clear
+1364,Bengal Gram(Gram),Dhar,2017-10-13,4750.0,14.6,31.4,clear
+1365,Lentil(Masur),Dhar,2017-10-13,2870.0,1.0,31.4,clear
+1366,Bengal Gram(Gram),Badnawar,2017-10-16,4550.0,14.0,34.4,clear
+1367,Bengal Gram(Gram),Dhar,2017-10-16,4500.0,12.4,34.4,clear
+1368,Lentil(Masur),Dhar,2017-10-16,2900.0,1.2,34.4,clear
+1369,Bengal Gram(Gram),Badnawar,2017-10-23,4610.0,6.1,32.2,clear
+1370,Bengal Gram(Gram),Dhar,2017-10-23,4650.0,4.8,32.2,clear
+1371,Lentil(Masur),Dhar,2017-10-23,2750.0,1.5,32.2,clear
+1372,Bengal Gram(Gram),Badnawar,2017-10-24,4320.0,5.7,32.2,clear
+1373,Bengal Gram(Gram),Dhar,2017-10-24,4450.0,9.0,32.2,clear
+1374,Black Gram (Urd Beans),Kukshi,2017-10-24,3311.0,0.15,32.2,clear
+1375,Lentil(Masur),Dhar,2017-10-24,2870.0,3.9,32.2,clear
+1376,Bengal Gram(Gram),Badnawar,2017-10-25,4500.0,11.0,32.4,clear
+1377,Bengal Gram(Gram),Dhar,2017-10-25,4450.0,11.5,32.4,clear
+1378,Black Gram (Urd Beans),Kukshi,2017-10-25,3292.0,0.5,32.4,clear
+1379,Lentil(Masur),Dhar,2017-10-25,2800.0,0.6,32.4,clear
+1380,Bengal Gram(Gram),Badnawar,2017-10-26,4500.0,10.0,33.0,clear
+1381,Bengal Gram(Gram),Dhar,2017-10-26,4350.0,5.8,33.0,clear
+1382,Lentil(Masur),Dhar,2017-10-26,2750.0,0.8,33.0,clear
+1383,Bengal Gram(Gram),Badnawar,2017-10-27,4450.0,8.1,32.6,clear
+1384,Bengal Gram(Gram),Dhar,2017-10-27,4350.0,16.4,32.6,clear
+1385,Black Gram (Urd Beans),Dhar,2017-10-27,1930.0,8.0,32.6,clear
+1386,Lentil(Masur),Dhar,2017-10-27,2850.0,2.9,32.6,clear
+1387,Bengal Gram(Gram),Badnawar,2017-10-30,3800.0,12.0,31.8,clear
+1388,Bengal Gram(Gram),Dhar,2017-10-30,3900.0,11.1,31.8,clear
+1389,Black Gram (Urd Beans),Kukshi,2017-10-30,3362.0,0.4,31.8,clear
+1390,Black Gram (Urd Beans),Manawar,2017-10-30,2100.0,0.6,31.8,clear
+1391,Lentil(Masur),Dhar,2017-10-30,2750.0,3.3,31.8,clear
+1392,Bengal Gram(Gram),Badnawar,2017-01-11,3945.0,5.7,19.4,clear
+1393,Black Gram (Urd Beans),Kukshi,2017-01-11,3301.0,0.2,19.4,clear
+1394,Green Gram (Moong),Kukshi,2017-01-11,3550.0,2.5,19.4,clear
+1395,Lentil(Masur),Dhar,2017-01-11,2800.0,1.8,19.4,clear
+1396,Bengal Gram(Gram),Dhar,2017-02-01,5605.0,0.1,29.0,clear
+1397,Lentil(Masur),Badnawar,2017-02-01,3955.0,0.1,29.0,clear
+1398,Lentil(Masur),Dhar,2017-02-01,4010.0,0.4,29.0,clear
+1399,Bengal Gram(Gram),Dhar,2017-03-01,7090.0,0.4,34.0,clear
+1400,Bengal Gram(Gram),Dhar,2017-04-01,6770.0,0.8,38.6,clear
+1401,Lentil(Masur),Badnawar,2017-04-01,4015.0,0.1,38.6,clear
+1402,Lentil(Masur),Dhar,2017-04-01,3500.0,0.7,38.6,clear
+1403,Bengal Gram(Gram),Dhar,2017-07-01,6405.0,0.3,30.2,clear
+1404,Lentil(Masur),Dhar,2017-07-01,3985.0,0.3,30.2,clear
+1405,Bengal Gram(Gram),Dhar,2017-09-01,5995.0,0.1,28.6,clear
+1406,Lentil(Masur),Dhar,2017-09-01,4000.0,1.6,28.6,clear
+1407,Bengal Gram(Gram),Dhar,2017-10-01,5255.0,0.3,35.4,clear
+1408,Lentil(Masur),Dhar,2017-10-01,4000.0,1.8,35.4,clear
+1409,Bengal Gram(Gram),Dhar,2017-11-01,5900.0,0.5,30.4,clear
+1410,Lentil(Masur),Badnawar,2017-11-01,4000.0,0.2,30.4,clear
+1411,Lentil(Masur),Dhar,2017-11-01,4050.0,0.4,30.4,clear
+1412,Bengal Gram(Gram),Dhar,2017-01-16,6000.0,0.2,25.6,clear
+1413,Lentil(Masur),Dhar,2017-01-16,4272.0,1.2,25.6,clear
+1414,Bengal Gram(Gram),Dhar,2017-01-27,5990.0,4.8,21.2,clear
+1415,Bengal Gram(Gram),Dhar,2017-01-28,5700.0,3.4,23.0,clear
+1416,Black Gram (Urd Beans),Manawar,2017-01-28,3500.0,2.0,23.0,clear
+1417,Bengal Gram(Gram),Dhar,2017-11-02,4450.0,54.0,31.0,clear
+1418,Black Gram (Urd Beans),Manawar,2017-11-02,3200.0,15.0,31.0,clear
+1419,Lentil(Masur),Dhar,2017-11-02,3750.0,18.3,31.0,clear
+1420,Bengal Gram(Gram),Dhar,2017-02-28,4300.0,38.8,33.6,clear
+1421,Lentil(Masur),Dhar,2017-02-28,3500.0,16.2,33.6,clear
+1422,Bengal Gram(Gram),Dhar,2017-01-03,4550.0,38.4,23.0,clear
+1423,Lentil(Masur),Dhar,2017-01-03,3450.0,4.4,23.0,clear
+1424,Bengal Gram(Gram),Dhar,2017-02-03,4550.0,25.7,31.4,clear
+1425,Lentil(Masur),Dhar,2017-02-03,3850.0,10.3,31.4,clear
+1426,Bengal Gram(Gram),Dhar,2017-06-03,4750.0,22.2,41.0,clear
+1427,Lentil(Masur),Badnawar,2017-06-03,3660.0,2.4,41.0,clear
+1428,Lentil(Masur),Dhar,2017-06-03,3900.0,13.2,41.0,clear
+1429,Bengal Gram(Gram),Dhar,2017-10-03,4950.0,28.1,35.2,clear
+1430,Lentil(Masur),Dhar,2017-10-03,4000.0,5.4,35.2,clear
+1431,Bengal Gram(Gram),Dhar,2017-11-03,4750.0,13.3,31.0,clear
+1432,Lentil(Masur),Dhar,2017-11-03,4080.0,3.7,31.0,clear
+1433,Bengal Gram(Gram),Dhar,2017-03-14,4850.0,3.9,30.2,clear
+1434,Lentil(Masur),Dhar,2017-03-14,4175.0,0.5,30.2,clear
+1435,Bengal Gram(Gram),Dhar,2017-04-22,5450.0,13.5,37.2,clear
+1436,Lentil(Masur),Dhar,2017-04-22,3000.0,1.1,37.2,clear
+1437,Bengal Gram(Gram),Dhar,2017-04-26,5270.0,14.8,36.4,clear
+1438,Lentil(Masur),Dhar,2017-04-26,3400.0,0.6,36.4,clear
+1439,Bengal Gram(Gram),Dhar,2017-09-05,5400.0,11.5,30.0,clear
+1440,Lentil(Masur),Dhar,2017-09-05,3450.0,0.8,30.0,clear
+1441,Bengal Gram(Gram),Dhar,2017-05-27,5150.0,15.2,41.2,clear
+1442,Green Gram (Moong),Manawar,2017-05-27,3995.0,3.0,41.2,clear
+1443,Lentil(Masur),Dhar,2017-05-27,3200.0,1.4,41.2,clear
+1444,Bengal Gram(Gram),Dhar,2017-06-16,5185.0,0.2,34.6,clear
+1445,Bengal Gram(Gram),Dhar,2017-06-17,4900.0,0.2,35.0,clear
+1446,Bengal Gram(Gram),Dhar,2017-06-23,4750.0,12.5,33.0,clear
+1447,Green Gram (Moong),Manawar,2017-06-23,4805.0,10.2,33.0,clear
+1448,Lentil(Masur),Dhar,2017-06-23,2690.0,1.0,33.0,clear
+1449,Bengal Gram(Gram),Dhar,2017-01-07,5270.0,4.8,24.4,clear
+1450,Bengal Gram(Gram),Dhar,2017-03-07,4750.0,7.0,32.8,clear
+1451,Bengal Gram(Gram),Dhar,2017-04-07,4950.0,3.2,35.0,clear
+1452,Green Gram (Moong),Manawar,2017-04-07,4350.0,11.5,35.0,clear
+1453,Lentil(Masur),Dhar,2017-04-07,3105.0,0.4,35.0,clear
+1454,Bengal Gram(Gram),Dhar,2017-05-07,4950.0,19.1,40.2,clear
+1455,Bengal Gram(Gram),Dhar,2017-08-07,4500.0,5.8,28.4,clear
+1456,Lentil(Masur),Dhar,2017-08-07,3252.0,4.0,28.4,clear
+1457,Bengal Gram(Gram),Dhar,2017-07-20,4700.0,4.1,30.4,rain
+1458,Lentil(Masur),Dhar,2017-07-20,2950.0,5.1,30.4,rain
+1459,Bengal Gram(Gram),Dhar,2017-07-22,5000.0,2.2,26.4,clear
+1460,Bengal Gram(Gram),Dhar,2017-08-08,5050.0,1.2,28.0,clear
+1461,Bengal Gram(Gram),Dhar,2017-12-08,5350.0,3.5,25.2,clear
+1462,Bengal Gram(Gram),Dhar,2017-08-21,5100.0,1.1,30.4,clear
+1463,Lentil(Masur),Dhar,2017-08-21,1850.0,0.1,30.4,clear
+1464,Bengal Gram(Gram),Dhar,2017-08-22,5560.0,0.4,28.0,clear
+1465,Black Gram (Urd Beans),Manawar,2017-08-22,4625.0,0.9,28.0,clear
+1466,Bengal Gram(Gram),Dhar,2017-08-26,5700.0,0.8,28.0,clear
+1467,Bengal Gram(Gram),Dhar,2017-08-31,5626.0,0.2,29.8,clear
+1468,Bengal Gram(Gram),Dhar,2017-09-09,5050.0,2.0,30.8,clear
+1469,Lentil(Masur),Dhar,2017-09-09,3100.0,1.1,30.8,clear
+1470,Bengal Gram(Gram),Dhar,2017-09-13,5700.0,1.5,28.6,clear
+1471,Lentil(Masur),Dhar,2017-09-13,3166.0,0.01,28.6,clear
+1472,Bengal Gram(Gram),Dhar,2017-09-20,5570.0,2.4,33.2,rain
+1473,Bengal Gram(Gram),Dhar,2017-09-22,5450.0,1.7,26.4,clear
+1474,Green Gram (Moong),Manawar,2017-09-22,4810.0,4.9,26.4,clear
+1475,Bengal Gram(Gram),Dhar,2017-09-23,5450.0,1.7,29.8,clear
+1476,Green Gram (Moong),Manawar,2017-09-23,3000.0,23.2,29.8,clear
+1477,Bengal Gram(Gram),Dhar,2017-06-10,5350.0,10.0,32.6,clear
+1478,Bengal Gram(Gram),Dhar,2017-10-14,4550.0,17.1,33.6,clear
+1479,Bengal Gram(Gram),Dhar,2017-10-17,4750.0,6.8,35.2,clear
+1480,Lentil(Masur),Dhar,2017-10-17,2700.0,0.7,35.2,clear
+1481,Bengal Gram(Gram),Dhar,2017-10-18,4700.0,2.6,34.4,clear
+1482,Lentil(Masur),Dhar,2017-10-18,2780.0,0.1,34.4,clear
+1483,Bengal Gram(Gram),Dhar,2017-10-28,4050.0,8.1,32.4,clear
+1484,Black Gram (Urd Beans),Kukshi,2017-10-28,3410.0,0.8,32.4,clear
+1485,Lentil(Masur),Dhar,2017-10-28,2750.0,1.4,32.4,clear
+1486,Bengal Gram(Gram),Dhar,2017-10-31,3950.0,6.2,31.2,clear
+1487,Black Gram (Urd Beans),Manawar,2017-10-31,1500.0,1.5,31.2,clear
+1488,Lentil(Masur),Dhar,2017-10-31,2726.0,0.3,31.2,clear
+1489,Bengal Gram(Gram),Dhar,2017-02-11,4030.0,10.0,25.4,clear
+1490,Lentil(Masur),Dhar,2017-02-11,2750.0,2.5,25.4,clear
+1491,Green Gram (Moong),Manawar,2017-01-21,3795.0,0.3,27.2,clear
+1492,Lentil(Masur),Badnawar,2017-01-21,4125.0,0.1,27.2,clear
+1493,Green Gram (Moong),Manawar,2017-04-29,4000.0,17.8,38.4,clear
+1494,Green Gram (Moong),Manawar,2017-04-30,4195.0,1.8,35.6,clear
+1495,Green Gram (Moong),Manawar,2017-03-06,3895.0,4.9,29.8,clear
+1496,Green Gram (Moong),Manawar,2017-07-08,4102.0,8.5,32.0,clear
+1497,Green Gram (Moong),Manawar,2017-03-09,4775.0,0.8,31.0,clear

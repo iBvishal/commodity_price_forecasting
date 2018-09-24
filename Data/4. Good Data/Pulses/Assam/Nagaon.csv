@@ -1,0 +1,972 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Lentil(Masur),Lanka,2014-01-08,7000.0,10.0,21.2,clear
+1,Lentil(Masur),Lanka,2014-02-08,6900.0,10.0,23.8,clear
+2,Lentil(Masur),Lanka,2014-03-08,6900.0,15.0,28.6,clear
+3,Lentil(Masur),Lanka,2014-04-08,6900.0,10.0,28.8,rain
+4,Lentil(Masur),Lanka,2014-07-08,6900.0,10.0,31.0,clear
+5,Lentil(Masur),Lanka,2014-08-08,6900.0,15.0,32.6,clear
+6,Lentil(Masur),Lanka,2014-11-08,6900.0,10.0,31.6,clear
+7,Lentil(Masur),Lanka,2014-08-13,6900.0,15.0,30.4,clear
+8,Lentil(Masur),Lanka,2014-08-18,6900.0,10.0,31.6,clear
+9,Lentil(Masur),Lanka,2014-08-19,6900.0,15.0,31.6,clear
+10,Lentil(Masur),Lanka,2014-08-20,6900.0,10.0,32.8,clear
+11,Lentil(Masur),Lanka,2014-04-09,6900.0,10.0,28.6,clear
+12,Lentil(Masur),Lanka,2014-05-09,6900.0,15.0,27.0,rain
+13,Lentil(Masur),Lanka,2014-06-09,6900.0,15.0,31.2,clear
+14,Lentil(Masur),Lanka,2014-12-09,6900.0,10.0,30.4,clear
+15,Lentil(Masur),Lanka,2014-09-14,6900.0,15.0,31.8,clear
+16,Lentil(Masur),Lanka,2014-09-15,6900.0,10.0,32.0,clear
+17,Lentil(Masur),Lanka,2014-09-16,6900.0,12.5,32.6,clear
+18,Lentil(Masur),Lanka,2014-09-18,7100.0,15.0,34.8,clear
+19,Lentil(Masur),Lanka,2014-09-19,7100.0,10.0,28.4,clear
+20,Lentil(Masur),Lanka,2014-09-20,7100.0,10.0,28.8,clear
+21,Lentil(Masur),Lanka,2014-09-21,7100.0,16.0,26.8,rain
+22,Lentil(Masur),Lanka,2014-09-22,7100.0,10.0,24.8,rain
+23,Lentil(Masur),Lanka,2014-09-23,7100.0,15.0,25.4,rain
+24,Lentil(Masur),Lanka,2014-09-24,7100.0,12.5,28.6,clear
+25,Lentil(Masur),Lanka,2014-09-25,7100.0,10.0,29.6,clear
+26,Lentil(Masur),Lanka,2014-09-26,7100.0,15.0,28.6,clear
+27,Lentil(Masur),Lanka,2014-09-27,7100.0,10.0,31.2,clear
+28,Lentil(Masur),Lanka,2014-09-28,7100.0,15.0,28.8,clear
+29,Lentil(Masur),Lanka,2014-09-29,7100.0,15.0,31.4,clear
+30,Lentil(Masur),Lanka,2014-09-30,7100.0,10.0,32.0,clear
+31,Lentil(Masur),Lanka,2014-08-10,7100.0,10.0,32.0,clear
+32,Lentil(Masur),Lanka,2014-09-10,7100.0,10.0,32.0,rain
+33,Lentil(Masur),Lanka,2014-10-10,7100.0,10.0,34.2,clear
+34,Lentil(Masur),Lanka,2014-11-10,7100.0,10.0,31.8,clear
+35,Lentil(Masur),Lanka,2014-12-10,7100.0,15.0,29.4,clear
+36,Lentil(Masur),Lanka,2014-10-13,7100.0,15.0,32.4,clear
+37,Lentil(Masur),Lanka,2014-10-14,7100.0,12.5,33.0,clear
+38,Lentil(Masur),Lanka,2014-10-15,7100.0,10.0,31.4,clear
+39,Lentil(Masur),Lanka,2014-10-16,7100.0,10.0,32.8,clear
+40,Lentil(Masur),Lanka,2014-10-17,7100.0,12.5,32.0,clear
+41,Lentil(Masur),Lanka,2014-10-19,7100.0,15.0,29.4,clear
+42,Lentil(Masur),Lanka,2014-10-20,7100.0,10.0,30.6,clear
+43,Lentil(Masur),Lanka,2014-10-21,7100.0,15.0,31.0,clear
+44,Lentil(Masur),Lanka,2014-10-22,7100.0,15.0,31.8,clear
+45,Lentil(Masur),Lanka,2014-10-24,7100.0,10.0,29.6,clear
+46,Lentil(Masur),Lanka,2014-10-27,7100.0,10.0,27.2,clear
+47,Lentil(Masur),Lanka,2014-10-29,7600.0,15.0,29.8,clear
+48,Lentil(Masur),Lanka,2014-10-30,7600.0,10.0,30.2,clear
+49,Lentil(Masur),Lanka,2014-10-31,7600.0,10.0,30.0,clear
+50,Lentil(Masur),Lanka,2014-03-11,7600.0,10.0,31.2,clear
+51,Lentil(Masur),Lanka,2014-04-11,7600.0,15.0,33.0,clear
+52,Lentil(Masur),Lanka,2014-05-11,7600.0,12.5,33.2,clear
+53,Lentil(Masur),Lanka,2014-06-11,7600.0,15.0,29.2,clear
+54,Lentil(Masur),Lanka,2014-07-11,7600.0,12.5,33.0,clear
+55,Lentil(Masur),Lanka,2014-08-11,7600.0,10.0,32.2,clear
+56,Lentil(Masur),Lanka,2014-10-11,7600.0,12.5,32.8,clear
+57,Lentil(Masur),Lanka,2014-11-11,7600.0,10.0,30.8,clear
+58,Lentil(Masur),Lanka,2014-12-11,7600.0,5.0,32.6,clear
+59,Lentil(Masur),Lanka,2014-11-13,7600.0,10.0,27.0,clear
+60,Lentil(Masur),Lanka,2014-11-14,7600.0,12.5,28.2,clear
+61,Lentil(Masur),Lanka,2014-11-15,7600.0,15.0,28.2,clear
+62,Lentil(Masur),Lanka,2014-11-17,7600.0,15.0,29.0,clear
+63,Lentil(Masur),Lanka,2014-11-18,7600.0,15.0,28.8,clear
+64,Lentil(Masur),Lanka,2014-11-21,7600.0,10.0,28.8,clear
+65,Lentil(Masur),Lanka,2014-11-23,7600.0,15.0,25.0,clear
+66,Lentil(Masur),Lanka,2014-11-24,7600.0,15.0,24.4,clear
+67,Lentil(Masur),Lanka,2014-11-25,7600.0,10.0,26.0,clear
+68,Lentil(Masur),Lanka,2014-11-26,7600.0,15.0,26.4,clear
+69,Lentil(Masur),Lanka,2014-11-27,7600.0,10.0,25.8,clear
+70,Lentil(Masur),Lanka,2014-11-28,7600.0,15.0,25.6,clear
+71,Lentil(Masur),Lanka,2014-11-29,7600.0,10.0,25.6,clear
+72,Lentil(Masur),Lanka,2014-11-30,7600.0,10.0,25.8,clear
+73,Lentil(Masur),Lanka,2014-02-12,7600.0,10.0,25.6,clear
+74,Lentil(Masur),Lanka,2014-03-12,7600.0,15.0,31.4,clear
+75,Lentil(Masur),Lanka,2014-04-12,7600.0,20.0,35.0,rain
+76,Lentil(Masur),Lanka,2014-05-12,7600.0,15.0,31.8,clear
+77,Lentil(Masur),Lanka,2014-08-12,7600.0,15.0,32.6,clear
+78,Lentil(Masur),Lanka,2014-10-12,7600.0,15.0,30.6,clear
+79,Lentil(Masur),Lanka,2014-11-12,7600.0,15.0,28.6,clear
+80,Lentil(Masur),Lanka,2014-12-12,7600.0,15.0,29.6,clear
+81,Lentil(Masur),Lanka,2014-12-13,7600.0,15.0,25.2,clear
+82,Lentil(Masur),Lanka,2014-12-14,7600.0,10.0,30.2,clear
+83,Lentil(Masur),Lanka,2014-12-15,7600.0,15.0,26.8,clear
+84,Lentil(Masur),Lanka,2014-12-16,7600.0,10.0,31.4,clear
+85,Lentil(Masur),Lanka,2014-12-17,7600.0,15.0,22.6,clear
+86,Lentil(Masur),Lanka,2014-12-18,7600.0,15.0,22.2,clear
+87,Lentil(Masur),Lanka,2014-12-19,7600.0,15.0,24.0,clear
+88,Lentil(Masur),Lanka,2014-12-20,7600.0,10.0,24.2,clear
+89,Lentil(Masur),Lanka,2014-12-21,7600.0,15.0,22.4,clear
+90,Lentil(Masur),Lanka,2014-12-22,7600.0,15.0,23.2,clear
+91,Lentil(Masur),Lanka,2014-12-23,7600.0,15.0,25.0,clear
+92,Lentil(Masur),Lanka,2014-12-24,7600.0,15.0,25.2,clear
+93,Lentil(Masur),Lanka,2014-12-25,7600.0,15.0,25.0,clear
+94,Lentil(Masur),Lanka,2014-12-26,7600.0,15.0,24.8,clear
+95,Lentil(Masur),Lanka,2014-12-30,7600.0,15.0,26.0,clear
+96,Lentil(Masur),Lanka,2014-12-31,7600.0,15.0,24.4,clear
+97,Lentil(Masur),Dhing,2015-07-09,9950.0,24.0,34.6,clear
+98,Lentil(Masur),Lanka,2015-07-09,7900.0,10.0,34.6,clear
+99,Lentil(Masur),Dhing,2015-08-09,9700.0,18.2,33.2,clear
+100,Lentil(Masur),Lanka,2015-08-09,7900.0,8.0,33.2,clear
+101,Lentil(Masur),Dhing,2015-09-09,9900.0,18.0,33.6,clear
+102,Lentil(Masur),Lanka,2015-09-09,7900.0,6.0,33.6,clear
+103,Lentil(Masur),Dhing,2015-10-09,9700.0,16.0,32.6,clear
+104,Lentil(Masur),Lanka,2015-10-09,7900.0,7.0,32.6,clear
+105,Lentil(Masur),Dhing,2015-11-09,9800.0,15.0,28.4,clear
+106,Lentil(Masur),Dhing,2015-09-13,9950.0,32.0,32.4,clear
+107,Lentil(Masur),Dhing,2015-09-14,9980.0,26.0,30.2,clear
+108,Lentil(Masur),Lanka,2015-09-14,7900.0,7.0,30.2,clear
+109,Lentil(Masur),Dhing,2015-09-16,9940.0,15.0,33.6,clear
+110,Lentil(Masur),Lanka,2015-09-16,7900.0,10.0,33.6,clear
+111,Lentil(Masur),Dhing,2015-09-18,9500.0,17.0,35.0,clear
+112,Lentil(Masur),Lanka,2015-09-18,7900.0,10.0,35.0,clear
+113,Lentil(Masur),Dhing,2015-09-22,9700.0,15.0,32.0,clear
+114,Lentil(Masur),Lanka,2015-09-22,7900.0,8.0,32.0,clear
+115,Lentil(Masur),Dhing,2015-09-23,9900.0,16.0,27.0,clear
+116,Lentil(Masur),Lanka,2015-09-23,7900.0,10.0,27.0,clear
+117,Lentil(Masur),Dhing,2015-09-27,9840.0,16.0,33.4,clear
+118,Lentil(Masur),Lanka,2015-09-27,7900.0,7.0,33.4,clear
+119,Lentil(Masur),Dhing,2015-02-10,9800.0,32.0,26.2,clear
+120,Lentil(Masur),Lanka,2015-02-10,7900.0,8.0,26.2,clear
+121,Lentil(Masur),Dhing,2015-04-10,9800.0,16.0,27.2,clear
+122,Lentil(Masur),Lanka,2015-04-10,7900.0,7.0,27.2,clear
+123,Lentil(Masur),Dhing,2015-05-10,9700.0,9.5,32.2,clear
+124,Lentil(Masur),Lanka,2015-05-10,7900.0,10.0,32.2,clear
+125,Lentil(Masur),Dhing,2015-06-10,9800.0,23.0,25.4,clear
+126,Lentil(Masur),Lanka,2015-06-10,7900.0,8.0,25.4,clear
+127,Lentil(Masur),Dhing,2015-08-10,9800.0,8.9,33.0,clear
+128,Lentil(Masur),Lanka,2015-08-10,7900.0,8.0,33.0,clear
+129,Lentil(Masur),Dhing,2015-11-10,9700.0,9.0,27.2,clear
+130,Lentil(Masur),Dhing,2015-10-13,9700.0,8.7,31.4,clear
+131,Lentil(Masur),Lanka,2015-10-13,7900.0,7.0,31.4,clear
+132,Lentil(Masur),Dhing,2015-10-15,8700.0,12.0,29.0,clear
+133,Lentil(Masur),Lanka,2015-10-15,7900.0,7.0,29.0,clear
+134,Lentil(Masur),Dhing,2015-10-16,9700.0,14.0,31.2,clear
+135,Lentil(Masur),Lanka,2015-10-16,7900.0,8.0,31.2,clear
+136,Lentil(Masur),Dhing,2015-10-19,9600.0,12.0,32.8,clear
+137,Lentil(Masur),Dhing,2015-10-21,9800.0,8.0,33.0,clear
+138,Lentil(Masur),Dhing,2015-10-26,9700.0,6.7,30.8,clear
+139,Lentil(Masur),Lanka,2015-10-26,7900.0,8.0,30.8,clear
+140,Lentil(Masur),Dhing,2015-10-28,9500.0,8.2,30.4,clear
+141,Lentil(Masur),Lanka,2015-10-28,7900.0,7.0,30.4,clear
+142,Lentil(Masur),Dhing,2015-10-29,9500.0,7.1,30.4,clear
+143,Lentil(Masur),Lanka,2015-10-29,7900.0,8.0,30.4,clear
+144,Lentil(Masur),Dhing,2015-04-11,9700.0,6.5,28.4,clear
+145,Lentil(Masur),Lanka,2015-04-11,7800.0,6.0,28.4,clear
+146,Lentil(Masur),Dhing,2015-05-11,9700.0,12.0,32.2,clear
+147,Lentil(Masur),Lanka,2015-05-11,7800.0,8.0,32.2,clear
+148,Lentil(Masur),Dhing,2015-07-11,9700.0,7.1,33.4,clear
+149,Lentil(Masur),Lanka,2015-07-11,7800.0,7.0,33.4,clear
+150,Lentil(Masur),Dhing,2015-09-11,9800.0,8.0,30.8,clear
+151,Lentil(Masur),Lanka,2015-09-11,7800.0,7.0,30.8,clear
+152,Lentil(Masur),Dhing,2015-11-11,9700.0,6.5,28.2,clear
+153,Lentil(Masur),Dhing,2015-11-13,9800.0,7.0,28.0,clear
+154,Lentil(Masur),Lanka,2015-11-13,8100.0,7.0,28.0,clear
+155,Lentil(Masur),Dhing,2015-11-15,9900.0,7.5,28.0,clear
+156,Lentil(Masur),Lanka,2015-11-15,8100.0,6.0,28.0,clear
+157,Lentil(Masur),Dhing,2015-11-16,9900.0,7.1,26.8,clear
+158,Lentil(Masur),Lanka,2015-11-16,8100.0,8.0,26.8,clear
+159,Lentil(Masur),Dhing,2015-11-17,9900.0,6.2,25.0,clear
+160,Lentil(Masur),Lanka,2015-11-17,8100.0,8.0,25.0,clear
+161,Lentil(Masur),Dhing,2015-11-18,9900.0,7.8,25.0,clear
+162,Lentil(Masur),Lanka,2015-11-18,8100.0,8.0,25.0,clear
+163,Lentil(Masur),Dhing,2015-11-21,9800.0,12.0,27.8,clear
+164,Lentil(Masur),Lanka,2015-11-21,8300.0,7.0,27.8,clear
+165,Lentil(Masur),Dhing,2015-11-23,9700.0,6.2,27.4,clear
+166,Lentil(Masur),Lanka,2015-11-23,8400.0,7.0,27.4,clear
+167,Lentil(Masur),Dhing,2015-06-12,9800.0,8.3,26.0,clear
+168,Lentil(Masur),Dhing,2015-07-12,9800.0,13.0,34.2,clear
+169,Lentil(Masur),Lanka,2015-07-12,8400.0,9.0,34.2,clear
+170,Lentil(Masur),Dhing,2015-08-12,9900.0,8.2,29.4,clear
+171,Lentil(Masur),Lanka,2015-08-12,8400.0,7.0,29.4,clear
+172,Lentil(Masur),Dhing,2015-09-12,9800.0,13.0,34.2,clear
+173,Lentil(Masur),Lanka,2015-09-12,8400.0,7.0,34.2,clear
+174,Lentil(Masur),Dhing,2015-10-12,9700.0,8.5,31.4,clear
+175,Lentil(Masur),Lanka,2015-10-12,8400.0,6.0,31.4,clear
+176,Lentil(Masur),Dhing,2015-12-13,9800.0,8.7,22.2,clear
+177,Lentil(Masur),Dhing,2015-12-15,9800.0,15.0,20.0,clear
+178,Lentil(Masur),Lanka,2015-12-15,8400.0,8.0,20.0,clear
+179,Lentil(Masur),Dhing,2015-12-16,9900.0,8.6,21.4,clear
+180,Lentil(Masur),Lanka,2015-12-16,8400.0,8.0,21.4,clear
+181,Lentil(Masur),Dhing,2015-12-21,9900.0,8.2,22.0,clear
+182,Lentil(Masur),Lanka,2015-12-21,8400.0,8.0,22.0,clear
+183,Lentil(Masur),Dhing,2015-12-24,9900.0,7.2,22.2,clear
+184,Lentil(Masur),Lanka,2015-12-24,8500.0,8.0,22.2,clear
+185,Lentil(Masur),Dhing,2015-12-27,10100.0,7.2,23.0,clear
+186,Lentil(Masur),Lanka,2015-12-27,8500.0,6.0,23.0,clear
+187,Lentil(Masur),Dhing,2015-12-28,10100.0,8.2,23.2,clear
+188,Lentil(Masur),Lanka,2015-12-28,8500.0,8.0,23.2,clear
+189,Lentil(Masur),Dhing,2015-12-31,10100.0,7.1,24.4,clear
+190,Lentil(Masur),Lanka,2015-12-31,8500.0,10.0,24.4,clear
+191,Lentil(Masur),Lanka,2015-02-01,7600.0,15.0,24.0,clear
+192,Lentil(Masur),Lanka,2015-05-01,7600.0,15.0,31.8,clear
+193,Lentil(Masur),Lanka,2015-06-01,7600.0,15.0,30.2,rain
+194,Lentil(Masur),Lanka,2015-07-01,7600.0,10.0,33.8,clear
+195,Lentil(Masur),Lanka,2015-09-01,7600.0,15.0,29.0,clear
+196,Lentil(Masur),Lanka,2015-12-01,7600.0,15.0,26.8,clear
+197,Lentil(Masur),Lanka,2015-01-13,7600.0,15.0,25.4,clear
+198,Lentil(Masur),Lanka,2015-01-17,7600.0,15.0,26.4,clear
+199,Lentil(Masur),Lanka,2015-01-19,7600.0,10.0,24.2,clear
+200,Lentil(Masur),Lanka,2015-01-28,7600.0,10.0,26.0,clear
+201,Lentil(Masur),Lanka,2015-01-29,7600.0,15.0,25.8,clear
+202,Lentil(Masur),Lanka,2015-04-02,7600.0,15.0,20.2,rain
+203,Lentil(Masur),Lanka,2015-05-02,7600.0,15.0,30.6,clear
+204,Lentil(Masur),Lanka,2015-06-02,7600.0,10.0,27.8,rain
+205,Lentil(Masur),Lanka,2015-07-02,7600.0,10.0,33.6,clear
+206,Lentil(Masur),Lanka,2015-10-02,7600.0,15.0,34.8,clear
+207,Lentil(Masur),Lanka,2015-11-02,7600.0,15.0,30.0,clear
+208,Lentil(Masur),Lanka,2015-12-02,7600.0,10.0,27.0,clear
+209,Lentil(Masur),Lanka,2015-02-13,7600.0,15.0,25.8,clear
+210,Lentil(Masur),Lanka,2015-02-14,7600.0,15.0,25.0,clear
+211,Lentil(Masur),Lanka,2015-02-16,7600.0,15.0,28.4,clear
+212,Lentil(Masur),Lanka,2015-02-17,7600.0,15.0,28.6,rain
+213,Lentil(Masur),Lanka,2015-02-18,7700.0,15.0,29.4,clear
+214,Lentil(Masur),Lanka,2015-02-19,7700.0,12.5,23.0,clear
+215,Lentil(Masur),Lanka,2015-02-20,7700.0,15.0,27.4,clear
+216,Lentil(Masur),Lanka,2015-02-21,7700.0,15.0,29.2,clear
+217,Lentil(Masur),Lanka,2015-02-24,7700.0,20.0,30.4,clear
+218,Lentil(Masur),Lanka,2015-02-25,7700.0,15.0,32.0,clear
+219,Lentil(Masur),Lanka,2015-02-27,7700.0,15.0,30.0,clear
+220,Lentil(Masur),Lanka,2015-01-03,7700.0,15.0,22.6,clear
+221,Lentil(Masur),Lanka,2015-02-03,7900.0,15.0,27.0,clear
+222,Lentil(Masur),Lanka,2015-03-03,7900.0,15.0,30.6,clear
+223,Lentil(Masur),Lanka,2015-04-03,7900.0,15.0,24.0,clear
+224,Lentil(Masur),Lanka,2015-06-03,7900.0,10.0,29.2,clear
+225,Lentil(Masur),Lanka,2015-07-03,7900.0,10.0,33.6,clear
+226,Lentil(Masur),Lanka,2015-08-03,7900.0,10.0,33.2,clear
+227,Lentil(Masur),Lanka,2015-09-03,7900.0,15.0,30.0,clear
+228,Lentil(Masur),Lanka,2015-11-03,7900.0,15.0,29.6,clear
+229,Lentil(Masur),Lanka,2015-12-03,7900.0,10.0,25.4,rain
+230,Lentil(Masur),Lanka,2015-03-15,7900.0,15.0,33.4,clear
+231,Lentil(Masur),Lanka,2015-03-16,7900.0,15.0,30.4,clear
+232,Lentil(Masur),Lanka,2015-03-17,7900.0,15.0,31.6,clear
+233,Lentil(Masur),Lanka,2015-03-18,7900.0,10.0,33.8,clear
+234,Lentil(Masur),Lanka,2015-03-19,7900.0,15.0,32.2,clear
+235,Lentil(Masur),Lanka,2015-03-20,7900.0,15.0,31.2,clear
+236,Lentil(Masur),Lanka,2015-03-21,7900.0,10.0,33.6,clear
+237,Lentil(Masur),Lanka,2015-03-22,7900.0,10.0,33.0,clear
+238,Lentil(Masur),Lanka,2015-03-23,7900.0,15.0,33.6,clear
+239,Lentil(Masur),Lanka,2015-03-24,7900.0,15.0,31.8,clear
+240,Lentil(Masur),Lanka,2015-03-25,7900.0,15.0,34.4,clear
+241,Lentil(Masur),Lanka,2015-03-26,7900.0,15.0,33.8,clear
+242,Lentil(Masur),Lanka,2015-03-27,7900.0,15.0,31.4,clear
+243,Lentil(Masur),Lanka,2015-03-31,7900.0,15.0,28.6,clear
+244,Lentil(Masur),Lanka,2015-04-04,7900.0,10.0,29.8,rain
+245,Lentil(Masur),Lanka,2015-05-04,7900.0,15.0,29.6,clear
+246,Lentil(Masur),Lanka,2015-07-04,7900.0,10.0,30.6,rain
+247,Lentil(Masur),Lanka,2015-08-04,7900.0,10.0,32.4,clear
+248,Lentil(Masur),Lanka,2015-09-04,7900.0,10.0,29.4,clear
+249,Lentil(Masur),Lanka,2015-10-04,7900.0,8.0,32.4,clear
+250,Lentil(Masur),Lanka,2015-12-04,7900.0,15.0,21.6,clear
+251,Lentil(Masur),Lanka,2015-04-13,7900.0,10.0,28.8,clear
+252,Lentil(Masur),Lanka,2015-04-15,7900.0,8.0,35.2,clear
+253,Lentil(Masur),Lanka,2015-04-17,7900.0,7.0,34.2,clear
+254,Lentil(Masur),Lanka,2015-04-18,7900.0,7.0,26.0,clear
+255,Lentil(Masur),Lanka,2015-04-22,7900.0,10.0,25.0,rain
+256,Lentil(Masur),Lanka,2015-04-23,7900.0,15.0,25.6,clear
+257,Lentil(Masur),Lanka,2015-04-25,7900.0,15.0,25.6,clear
+258,Lentil(Masur),Lanka,2015-04-26,7900.0,7.0,28.6,clear
+259,Lentil(Masur),Lanka,2015-04-27,7900.0,5.0,30.6,clear
+260,Lentil(Masur),Lanka,2015-04-28,7900.0,6.0,31.0,clear
+261,Lentil(Masur),Lanka,2015-04-29,7900.0,10.0,26.0,clear
+262,Lentil(Masur),Lanka,2015-04-30,7900.0,8.0,30.0,clear
+263,Lentil(Masur),Lanka,2015-02-05,7900.0,15.0,26.2,clear
+264,Lentil(Masur),Lanka,2015-03-05,7900.0,10.0,30.6,clear
+265,Lentil(Masur),Lanka,2015-05-05,7900.0,15.0,29.4,clear
+266,Lentil(Masur),Lanka,2015-06-05,7900.0,15.0,31.0,clear
+267,Lentil(Masur),Lanka,2015-07-05,7900.0,10.0,27.6,clear
+268,Lentil(Masur),Lanka,2015-08-05,7900.0,10.0,31.8,clear
+269,Lentil(Masur),Lanka,2015-10-05,7900.0,15.0,32.8,clear
+270,Lentil(Masur),Lanka,2015-12-05,7900.0,10.0,22.8,clear
+271,Lentil(Masur),Lanka,2015-05-13,7900.0,10.0,31.6,clear
+272,Lentil(Masur),Lanka,2015-05-14,7900.0,10.0,30.6,clear
+273,Lentil(Masur),Lanka,2015-05-15,7900.0,10.0,28.0,rain
+274,Lentil(Masur),Lanka,2015-05-17,7900.0,15.0,27.8,clear
+275,Lentil(Masur),Lanka,2015-05-18,7900.0,10.0,30.0,clear
+276,Lentil(Masur),Lanka,2015-05-20,7900.0,10.0,34.4,clear
+277,Lentil(Masur),Lanka,2015-05-21,7900.0,10.0,34.0,clear
+278,Lentil(Masur),Lanka,2015-05-22,7900.0,9.0,31.8,rain
+279,Lentil(Masur),Lanka,2015-05-24,7900.0,10.0,28.6,rain
+280,Lentil(Masur),Lanka,2015-05-25,7900.0,15.0,27.2,rain
+281,Lentil(Masur),Lanka,2015-05-27,7900.0,10.0,29.0,clear
+282,Lentil(Masur),Lanka,2015-05-28,7900.0,10.0,27.4,clear
+283,Lentil(Masur),Lanka,2015-05-29,7900.0,10.0,28.0,clear
+284,Lentil(Masur),Lanka,2015-05-30,7900.0,8.0,28.6,clear
+285,Lentil(Masur),Lanka,2015-05-31,7900.0,8.0,27.2,clear
+286,Lentil(Masur),Lanka,2015-03-06,7900.0,10.0,30.0,clear
+287,Lentil(Masur),Lanka,2015-05-06,7900.0,7.0,31.8,clear
+288,Lentil(Masur),Lanka,2015-06-06,7900.0,10.0,28.2,clear
+289,Lentil(Masur),Lanka,2015-07-06,7900.0,8.0,33.4,clear
+290,Lentil(Masur),Lanka,2015-08-06,7900.0,6.0,32.6,clear
+291,Lentil(Masur),Lanka,2015-09-06,7900.0,8.0,30.6,clear
+292,Lentil(Masur),Lanka,2015-10-06,7900.0,8.0,34.0,clear
+293,Lentil(Masur),Lanka,2015-11-06,7900.0,8.0,25.8,clear
+294,Lentil(Masur),Lanka,2015-12-06,7900.0,8.0,24.4,clear
+295,Lentil(Masur),Lanka,2015-06-13,7900.0,7.0,29.8,clear
+296,Lentil(Masur),Lanka,2015-06-14,7900.0,6.0,29.4,clear
+297,Lentil(Masur),Lanka,2015-06-15,7900.0,7.0,29.0,clear
+298,Lentil(Masur),Lanka,2015-06-16,7900.0,8.0,29.8,clear
+299,Lentil(Masur),Lanka,2015-06-17,7900.0,7.0,32.2,rain
+300,Lentil(Masur),Lanka,2015-06-18,7900.0,8.0,33.4,rain
+301,Lentil(Masur),Lanka,2015-06-19,7900.0,8.0,32.6,clear
+302,Lentil(Masur),Lanka,2015-06-20,7900.0,7.0,33.8,rain
+303,Lentil(Masur),Lanka,2015-06-21,7900.0,8.0,32.0,clear
+304,Lentil(Masur),Lanka,2015-06-22,7900.0,10.0,32.8,rain
+305,Lentil(Masur),Lanka,2015-06-24,7900.0,8.0,31.8,rain
+306,Lentil(Masur),Lanka,2015-06-25,7900.0,10.0,35.0,clear
+307,Lentil(Masur),Lanka,2015-07-24,7900.0,8.0,31.6,rain
+308,Lentil(Masur),Lanka,2015-07-25,7900.0,7.0,33.2,clear
+309,Lentil(Masur),Lanka,2015-07-26,7900.0,8.0,34.4,clear
+310,Lentil(Masur),Lanka,2015-07-27,7900.0,8.0,34.6,clear
+311,Lentil(Masur),Lanka,2015-07-28,7900.0,8.0,35.0,clear
+312,Lentil(Masur),Lanka,2015-07-30,7900.0,8.0,34.6,clear
+313,Lentil(Masur),Lanka,2015-07-31,7900.0,8.0,30.2,clear
+314,Lentil(Masur),Lanka,2015-01-08,7900.0,9.0,25.8,clear
+315,Lentil(Masur),Lanka,2015-02-08,7900.0,7.0,26.6,clear
+316,Lentil(Masur),Lanka,2015-03-08,7900.0,10.0,29.8,clear
+317,Lentil(Masur),Lanka,2015-04-08,7900.0,8.0,28.2,clear
+318,Lentil(Masur),Lanka,2015-08-14,7900.0,8.0,33.2,clear
+319,Lentil(Masur),Lanka,2015-08-16,7900.0,8.0,30.6,clear
+320,Lentil(Masur),Lanka,2015-08-17,7900.0,8.0,32.4,rain
+321,Lentil(Masur),Lanka,2015-08-18,7900.0,8.0,28.2,clear
+322,Lentil(Masur),Lanka,2015-08-19,7900.0,10.0,28.4,clear
+323,Lentil(Masur),Lanka,2015-08-20,7900.0,10.0,26.2,clear
+324,Lentil(Masur),Lanka,2015-08-21,7900.0,8.0,29.4,clear
+325,Lentil(Masur),Lanka,2015-08-22,7900.0,8.0,32.6,clear
+326,Lentil(Masur),Lanka,2015-08-23,7900.0,10.0,29.2,clear
+327,Lentil(Masur),Lanka,2015-08-25,7900.0,8.0,31.0,clear
+328,Lentil(Masur),Lanka,2015-08-28,7900.0,10.0,32.2,clear
+329,Lentil(Masur),Lanka,2015-08-29,7900.0,8.0,27.6,clear
+330,Lentil(Masur),Lanka,2015-08-31,7900.0,8.0,29.0,rain
+331,Lentil(Masur),Lanka,2015-01-09,7900.0,10.0,26.0,clear
+332,Lentil(Masur),Lanka,2015-02-09,7900.0,7.0,26.4,clear
+333,Lentil(Masur),Lanka,2015-03-09,7900.0,6.0,32.0,clear
+334,Lentil(Masur),Lanka,2015-04-09,7900.0,6.0,31.0,clear
+335,Lentil(Masur),Lanka,2015-05-09,7900.0,8.0,32.6,clear
+336,Lentil(Masur),Lanka,2015-09-17,7900.0,7.0,34.6,clear
+337,Lentil(Masur),Lanka,2015-09-19,7900.0,10.0,35.0,rain
+338,Lentil(Masur),Lanka,2015-09-20,7900.0,10.0,30.4,clear
+339,Lentil(Masur),Lanka,2015-09-21,7900.0,10.0,31.6,clear
+340,Lentil(Masur),Lanka,2015-09-24,7900.0,10.0,29.8,clear
+341,Lentil(Masur),Lanka,2015-09-26,7900.0,7.0,32.2,clear
+342,Lentil(Masur),Lanka,2015-09-28,7900.0,7.0,33.4,clear
+343,Lentil(Masur),Lanka,2015-09-29,7900.0,7.0,34.0,clear
+344,Lentil(Masur),Lanka,2015-09-30,7900.0,8.0,35.0,clear
+345,Lentil(Masur),Lanka,2015-03-10,7900.0,7.0,32.2,clear
+346,Lentil(Masur),Lanka,2015-07-10,7900.0,10.0,32.0,clear
+347,Lentil(Masur),Lanka,2015-10-10,7900.0,10.0,32.6,rain
+348,Lentil(Masur),Lanka,2015-12-10,7900.0,10.0,25.4,clear
+349,Lentil(Masur),Lanka,2015-10-14,7900.0,8.0,25.4,clear
+350,Lentil(Masur),Lanka,2015-10-24,7900.0,8.0,28.8,clear
+351,Lentil(Masur),Lanka,2015-10-27,7900.0,8.0,30.2,clear
+352,Lentil(Masur),Lanka,2015-10-30,7900.0,7.0,30.0,clear
+353,Lentil(Masur),Lanka,2015-10-31,7900.0,7.0,29.2,clear
+354,Lentil(Masur),Lanka,2015-01-11,7900.0,8.0,23.0,clear
+355,Lentil(Masur),Lanka,2015-02-11,7900.0,7.0,26.8,clear
+356,Lentil(Masur),Lanka,2015-03-11,8000.0,7.0,32.6,clear
+357,Lentil(Masur),Lanka,2015-08-11,7800.0,8.0,34.6,clear
+358,Lentil(Masur),Lanka,2015-11-14,8100.0,7.0,28.2,clear
+359,Lentil(Masur),Lanka,2015-11-19,8300.0,8.0,27.2,clear
+360,Lentil(Masur),Lanka,2015-11-20,8300.0,7.0,27.6,clear
+361,Lentil(Masur),Lanka,2015-11-26,8400.0,7.0,27.0,clear
+362,Lentil(Masur),Lanka,2015-11-27,8400.0,8.0,27.2,clear
+363,Lentil(Masur),Lanka,2015-11-30,8400.0,6.0,26.8,clear
+364,Lentil(Masur),Lanka,2015-01-12,8400.0,10.0,24.2,clear
+365,Lentil(Masur),Lanka,2015-03-12,8400.0,8.0,32.4,clear
+366,Lentil(Masur),Lanka,2015-04-12,8400.0,10.0,31.6,clear
+367,Lentil(Masur),Lanka,2015-05-12,8400.0,7.0,31.8,clear
+368,Lentil(Masur),Lanka,2015-11-12,8400.0,8.0,28.5,clear
+369,Lentil(Masur),Lanka,2015-12-12,8400.0,7.0,20.0,clear
+370,Lentil(Masur),Lanka,2015-12-14,8400.0,8.0,23.0,clear
+371,Lentil(Masur),Lanka,2015-12-17,8400.0,10.0,21.8,clear
+372,Lentil(Masur),Lanka,2015-12-18,8400.0,8.0,21.6,clear
+373,Lentil(Masur),Lanka,2015-12-19,8400.0,8.0,20.6,clear
+374,Lentil(Masur),Lanka,2015-12-20,8400.0,8.0,21.4,clear
+375,Lentil(Masur),Lanka,2015-12-22,8400.0,10.0,22.2,clear
+376,Lentil(Masur),Lanka,2015-12-23,8400.0,7.0,21.8,clear
+377,Lentil(Masur),Lanka,2015-12-26,8500.0,7.0,22.0,clear
+378,Lentil(Masur),Lanka,2015-12-29,8500.0,8.0,24.0,clear
+379,Lentil(Masur),Lanka,2015-12-30,8500.0,7.0,24.2,clear
+380,Arhar (Tur/Red Gram),Dhing,2016-12-19,8200.0,14.0,25.8,clear
+381,Arhar (Tur/Red Gram),Dhing,2016-12-20,8200.0,20.0,25.6,clear
+382,Lentil(Masur),Dhing,2016-12-20,8500.0,21.0,25.6,clear
+383,Arhar (Tur/Red Gram),Dhing,2016-12-22,8200.0,21.0,26.6,clear
+384,Lentil(Masur),Dhing,2016-12-22,8500.0,18.5,26.6,clear
+385,Arhar (Tur/Red Gram),Dhing,2016-12-25,8200.0,35.0,25.4,clear
+386,Arhar (Tur/Red Gram),Dhing,2016-12-26,8250.0,36.5,25.0,rain
+387,Arhar (Tur/Red Gram),Dhing,2016-12-27,8500.0,32.0,23.2,clear
+388,Lentil(Masur),Dhing,2016-12-27,8500.0,29.0,23.2,clear
+389,Arhar (Tur/Red Gram),Dhing,2016-12-29,8500.0,23.0,25.2,clear
+390,Green Gram (Moong),Dhing,2016-12-29,8000.0,9.0,25.2,clear
+391,Lentil(Masur),Dhing,2016-12-29,8500.0,20.0,25.2,clear
+392,Arhar (Tur/Red Gram),Dhing,2016-12-31,8500.0,30.0,24.8,clear
+393,Green Gram (Moong),Dhing,2016-12-31,8000.0,45.0,24.8,clear
+394,Lentil(Masur),Dhing,2016-12-31,8500.0,36.0,24.8,clear
+395,Green Gram (Moong),Dhing,2016-12-16,8200.0,10.0,26.0,clear
+396,Lentil(Masur),Dhing,2016-12-16,9000.0,13.0,26.0,clear
+397,Lentil(Masur),Dhing,2016-07-01,9800.0,6.5,28.0,clear
+398,Lentil(Masur),Dhing,2016-11-01,10000.0,7.2,30.8,clear
+399,Lentil(Masur),Lanka,2016-11-01,8500.0,7.0,30.8,clear
+400,Lentil(Masur),Dhing,2016-12-01,10000.0,12.0,27.4,clear
+401,Lentil(Masur),Lanka,2016-12-01,8500.0,6.0,27.4,clear
+402,Lentil(Masur),Dhing,2016-01-13,10000.0,7.3,22.6,clear
+403,Lentil(Masur),Lanka,2016-01-13,8500.0,7.0,22.6,clear
+404,Lentil(Masur),Dhing,2016-01-16,10000.0,8.6,17.8,clear
+405,Lentil(Masur),Dhing,2016-01-18,10000.0,8.7,22.0,clear
+406,Lentil(Masur),Lanka,2016-01-18,8500.0,7.0,22.0,clear
+407,Lentil(Masur),Dhing,2016-01-19,10100.0,8.4,22.2,clear
+408,Lentil(Masur),Dhing,2016-01-22,9300.0,8.0,23.2,clear
+409,Lentil(Masur),Dhing,2016-01-23,9200.0,6.2,19.0,clear
+410,Lentil(Masur),Dhing,2016-04-02,8700.0,8.2,29.8,clear
+411,Lentil(Masur),Lanka,2016-04-02,8500.0,6.0,29.8,clear
+412,Lentil(Masur),Dhing,2016-05-02,8900.0,8.0,28.2,clear
+413,Lentil(Masur),Lanka,2016-05-02,8500.0,8.0,28.2,clear
+414,Lentil(Masur),Dhing,2016-12-02,8900.0,8.5,27.8,clear
+415,Lentil(Masur),Lanka,2016-12-02,8500.0,6.0,27.8,clear
+416,Lentil(Masur),Dhing,2016-02-15,9500.0,7.0,26.0,clear
+417,Lentil(Masur),Lanka,2016-02-15,8500.0,6.5,26.0,clear
+418,Lentil(Masur),Dhing,2016-02-18,9300.0,8.1,27.0,clear
+419,Lentil(Masur),Lanka,2016-02-18,8500.0,6.0,27.0,clear
+420,Lentil(Masur),Dhing,2016-02-19,9200.0,8.2,27.2,clear
+421,Lentil(Masur),Dhing,2016-02-29,9300.0,5.8,29.8,clear
+422,Lentil(Masur),Dhing,2016-03-03,9400.0,8.6,28.6,clear
+423,Lentil(Masur),Lanka,2016-03-03,8500.0,7.5,28.6,clear
+424,Lentil(Masur),Dhing,2016-04-03,9000.0,7.2,31.4,clear
+425,Lentil(Masur),Dhing,2016-05-03,9000.0,7.3,30.6,clear
+426,Lentil(Masur),Lanka,2016-05-03,8500.0,7.0,30.6,clear
+427,Lentil(Masur),Dhing,2016-08-03,9200.0,6.3,36.4,rain
+428,Lentil(Masur),Dhing,2016-10-03,9700.0,6.2,34.0,clear
+429,Lentil(Masur),Lanka,2016-10-03,8500.0,4.5,34.0,clear
+430,Lentil(Masur),Dhing,2016-03-14,9000.0,8.5,29.8,clear
+431,Lentil(Masur),Lanka,2016-03-14,8500.0,6.0,29.8,clear
+432,Lentil(Masur),Dhing,2016-03-17,9600.0,8.6,29.8,clear
+433,Lentil(Masur),Lanka,2016-03-17,8500.0,6.0,29.8,clear
+434,Lentil(Masur),Dhing,2016-03-19,9500.0,6.0,25.6,clear
+435,Lentil(Masur),Lanka,2016-03-19,8500.0,7.0,25.6,clear
+436,Lentil(Masur),Dhing,2016-03-26,8700.0,8.0,32.8,clear
+437,Lentil(Masur),Dhing,2016-03-04,9500.0,10.0,21.8,clear
+438,Lentil(Masur),Dhing,2016-05-04,9300.0,8.4,28.0,clear
+439,Lentil(Masur),Dhing,2016-04-17,9200.0,7.6,26.4,rain
+440,Lentil(Masur),Dhing,2016-04-20,9000.0,7.0,24.4,rain
+441,Lentil(Masur),Lanka,2016-04-20,8400.0,8.0,24.4,rain
+442,Lentil(Masur),Dhing,2016-04-24,9700.0,12.0,28.4,clear
+443,Lentil(Masur),Lanka,2016-04-24,8600.0,7.0,28.4,clear
+444,Lentil(Masur),Dhing,2016-04-25,9600.0,6.8,31.2,rain
+445,Lentil(Masur),Lanka,2016-04-25,8600.0,7.0,31.2,rain
+446,Lentil(Masur),Dhing,2016-04-27,9000.0,12.0,29.0,rain
+447,Lentil(Masur),Lanka,2016-04-27,8600.0,8.0,29.0,rain
+448,Lentil(Masur),Dhing,2016-01-05,9500.0,11.0,24.0,clear
+449,Lentil(Masur),Lanka,2016-01-05,8600.0,8.0,24.0,clear
+450,Lentil(Masur),Dhing,2016-02-05,9500.0,15.0,24.4,clear
+451,Lentil(Masur),Lanka,2016-02-05,8600.0,7.0,24.4,clear
+452,Lentil(Masur),Dhing,2016-04-05,9500.0,10.0,27.4,rain
+453,Lentil(Masur),Lanka,2016-04-05,8900.0,8.0,27.4,rain
+454,Lentil(Masur),Dhing,2016-05-05,9600.0,13.2,30.4,clear
+455,Lentil(Masur),Lanka,2016-05-05,8900.0,7.0,30.4,clear
+456,Lentil(Masur),Dhing,2016-08-05,9300.0,14.0,31.8,clear
+457,Lentil(Masur),Lanka,2016-08-05,8900.0,6.0,31.8,clear
+458,Lentil(Masur),Dhing,2016-05-14,9600.0,12.0,26.8,clear
+459,Lentil(Masur),Lanka,2016-05-14,8900.0,6.0,26.8,clear
+460,Lentil(Masur),Dhing,2016-05-17,9700.0,13.0,25.4,rain
+461,Lentil(Masur),Lanka,2016-05-17,8900.0,7.0,25.4,rain
+462,Lentil(Masur),Dhing,2016-05-18,9200.0,8.2,26.6,clear
+463,Lentil(Masur),Lanka,2016-05-18,8900.0,7.0,26.6,clear
+464,Lentil(Masur),Dhing,2016-05-22,8900.0,8.6,28.0,clear
+465,Lentil(Masur),Lanka,2016-05-22,8900.0,6.0,28.0,clear
+466,Lentil(Masur),Dhing,2016-05-24,9600.0,13.0,34.0,clear
+467,Lentil(Masur),Lanka,2016-05-24,8900.0,5.0,34.0,clear
+468,Lentil(Masur),Dhing,2016-05-25,9700.0,12.0,31.2,clear
+469,Lentil(Masur),Lanka,2016-05-25,8900.0,7.0,31.2,clear
+470,Lentil(Masur),Dhing,2016-05-28,9300.0,11.0,30.8,clear
+471,Lentil(Masur),Lanka,2016-05-28,8900.0,7.0,30.8,clear
+472,Lentil(Masur),Dhing,2016-05-31,9600.0,11.0,28.2,clear
+473,Lentil(Masur),Lanka,2016-05-31,8900.0,6.0,28.2,clear
+474,Lentil(Masur),Dhing,2016-01-06,9600.0,14.0,24.2,clear
+475,Lentil(Masur),Lanka,2016-01-06,8900.0,5.0,24.2,clear
+476,Lentil(Masur),Dhing,2016-02-06,9600.0,8.3,25.4,clear
+477,Lentil(Masur),Lanka,2016-02-06,8900.0,7.0,25.4,clear
+478,Lentil(Masur),Dhing,2016-08-06,9600.0,13.0,32.0,rain
+479,Lentil(Masur),Dhing,2016-11-06,9700.0,12.0,24.6,clear
+480,Lentil(Masur),Lanka,2016-11-06,8900.0,6.0,24.6,clear
+481,Lentil(Masur),Dhing,2016-06-13,9800.0,13.0,30.6,clear
+482,Lentil(Masur),Lanka,2016-06-13,8900.0,5.0,30.6,clear
+483,Lentil(Masur),Dhing,2016-06-14,8700.0,15.0,29.8,clear
+484,Lentil(Masur),Dhing,2016-06-15,8700.0,11.0,32.8,clear
+485,Lentil(Masur),Dhing,2016-06-16,9000.0,8.0,32.6,clear
+486,Lentil(Masur),Dhing,2016-06-17,9200.0,11.0,30.6,clear
+487,Lentil(Masur),Lanka,2016-06-17,8900.0,6.0,30.6,clear
+488,Lentil(Masur),Dhing,2016-06-18,8900.0,9.0,31.0,clear
+489,Lentil(Masur),Lanka,2016-06-18,8900.0,6.0,31.0,clear
+490,Lentil(Masur),Dhing,2016-06-21,8900.0,10.0,30.0,clear
+491,Lentil(Masur),Lanka,2016-06-21,8900.0,6.0,30.0,clear
+492,Lentil(Masur),Dhing,2016-06-22,8900.0,8.2,29.4,clear
+493,Lentil(Masur),Lanka,2016-06-22,8900.0,6.0,29.4,clear
+494,Lentil(Masur),Dhing,2016-05-07,8200.0,13.0,28.6,clear
+495,Lentil(Masur),Lanka,2016-05-07,8900.0,7.0,28.6,clear
+496,Lentil(Masur),Dhing,2016-08-07,8200.0,9.0,31.2,clear
+497,Lentil(Masur),Dhing,2016-11-07,8500.0,11.0,37.0,clear
+498,Lentil(Masur),Lanka,2016-11-07,8900.0,6.0,37.0,clear
+499,Lentil(Masur),Dhing,2016-12-07,8500.0,10.0,26.8,clear
+500,Lentil(Masur),Lanka,2016-12-07,8900.0,5.0,26.8,clear
+501,Lentil(Masur),Dhing,2016-07-13,8300.0,12.0,32.6,clear
+502,Lentil(Masur),Lanka,2016-07-13,8400.0,4.0,32.6,clear
+503,Lentil(Masur),Dhing,2016-07-14,8200.0,13.5,32.8,clear
+504,Lentil(Masur),Dhing,2016-07-16,8200.0,10.0,29.2,clear
+505,Lentil(Masur),Lanka,2016-07-16,8400.0,5.0,29.2,clear
+506,Lentil(Masur),Dhing,2016-07-19,8200.0,15.0,29.0,clear
+507,Lentil(Masur),Dhing,2016-07-20,8300.0,14.2,30.5,clear
+508,Lentil(Masur),Dhing,2016-07-21,8300.0,14.0,28.2,clear
+509,Lentil(Masur),Dhing,2016-07-26,8300.0,14.0,29.2,clear
+510,Lentil(Masur),Dhing,2016-07-27,8500.0,12.0,28.0,clear
+511,Lentil(Masur),Dhing,2016-07-28,8600.0,15.0,31.6,clear
+512,Lentil(Masur),Dhing,2016-07-30,8600.0,15.0,33.2,clear
+513,Lentil(Masur),Dhing,2016-07-31,8600.0,13.5,33.8,clear
+514,Lentil(Masur),Dhing,2016-01-08,8700.0,9.0,24.0,clear
+515,Lentil(Masur),Dhing,2016-02-08,8700.0,13.5,27.8,rain
+516,Lentil(Masur),Dhing,2016-03-08,8500.0,14.0,25.8,rain
+517,Lentil(Masur),Lanka,2016-03-08,9500.0,7.0,25.8,rain
+518,Lentil(Masur),Dhing,2016-05-08,8700.0,0.0,31.2,clear
+519,Lentil(Masur),Dhing,2016-09-29,9600.0,16.0,32.4,clear
+520,Lentil(Masur),Dhing,2016-09-30,9600.0,16.5,31.4,clear
+521,Lentil(Masur),Dhing,2016-01-10,9600.0,17.0,20.0,clear
+522,Lentil(Masur),Dhing,2016-05-11,8000.0,10.0,32.8,clear
+523,Lentil(Masur),Dhing,2016-12-12,8500.0,16.0,26.0,clear
+524,Lentil(Masur),Lanka,2016-01-01,8500.0,8.0,25.4,clear
+525,Lentil(Masur),Lanka,2016-02-01,8500.0,8.0,22.0,clear
+526,Lentil(Masur),Lanka,2016-03-01,8500.0,8.0,29.8,clear
+527,Lentil(Masur),Lanka,2016-04-01,8500.0,7.0,23.2,clear
+528,Lentil(Masur),Lanka,2016-05-01,8500.0,8.0,27.6,clear
+529,Lentil(Masur),Lanka,2016-06-01,8500.0,8.0,32.0,clear
+530,Lentil(Masur),Lanka,2016-08-01,8500.0,8.0,33.8,clear
+531,Lentil(Masur),Lanka,2016-09-01,8500.0,7.0,32.6,clear
+532,Lentil(Masur),Lanka,2016-10-01,8500.0,8.0,32.8,clear
+533,Lentil(Masur),Lanka,2016-01-14,8500.0,8.0,22.4,clear
+534,Lentil(Masur),Lanka,2016-01-17,8500.0,7.0,21.0,clear
+535,Lentil(Masur),Lanka,2016-01-02,8500.0,8.0,24.8,clear
+536,Lentil(Masur),Lanka,2016-02-02,8500.0,7.0,22.6,clear
+537,Lentil(Masur),Lanka,2016-03-02,8500.0,8.0,28.8,clear
+538,Lentil(Masur),Lanka,2016-06-02,8500.0,8.0,33.4,clear
+539,Lentil(Masur),Lanka,2016-07-02,8500.0,6.5,29.4,clear
+540,Lentil(Masur),Lanka,2016-08-02,8500.0,7.0,35.8,clear
+541,Lentil(Masur),Lanka,2016-10-02,8500.0,6.0,33.8,clear
+542,Lentil(Masur),Lanka,2016-11-02,8500.0,7.0,30.8,clear
+543,Lentil(Masur),Lanka,2016-02-13,8500.0,7.0,24.4,clear
+544,Lentil(Masur),Lanka,2016-02-14,8500.0,6.0,25.2,clear
+545,Lentil(Masur),Lanka,2016-02-16,8500.0,6.0,26.8,clear
+546,Lentil(Masur),Lanka,2016-02-17,8500.0,7.0,26.2,clear
+547,Lentil(Masur),Lanka,2016-02-25,8500.0,6.0,26.8,clear
+548,Lentil(Masur),Lanka,2016-02-26,8500.0,6.0,27.8,clear
+549,Lentil(Masur),Lanka,2016-02-03,8500.0,7.0,23.0,clear
+550,Lentil(Masur),Lanka,2016-06-03,8500.0,7.0,34.6,clear
+551,Lentil(Masur),Lanka,2016-07-03,8500.0,6.0,31.4,clear
+552,Lentil(Masur),Lanka,2016-09-03,8500.0,7.0,33.6,clear
+553,Lentil(Masur),Lanka,2016-11-03,8500.0,8.0,30.8,clear
+554,Lentil(Masur),Lanka,2016-03-13,8500.0,6.0,28.4,clear
+555,Lentil(Masur),Lanka,2016-03-15,8500.0,7.0,32.0,clear
+556,Lentil(Masur),Lanka,2016-03-16,8500.0,7.0,31.2,clear
+557,Lentil(Masur),Lanka,2016-03-20,8500.0,6.0,28.2,rain
+558,Lentil(Masur),Lanka,2016-03-21,8500.0,6.0,25.0,clear
+559,Lentil(Masur),Lanka,2016-03-22,8500.0,6.0,28.0,clear
+560,Lentil(Masur),Lanka,2016-04-19,8400.0,8.0,25.0,clear
+561,Lentil(Masur),Lanka,2016-04-21,8400.0,8.0,22.8,clear
+562,Lentil(Masur),Lanka,2016-04-22,8600.0,8.0,22.2,clear
+563,Lentil(Masur),Lanka,2016-04-23,8600.0,8.0,27.0,rain
+564,Lentil(Masur),Lanka,2016-04-26,8600.0,8.0,30.0,clear
+565,Lentil(Masur),Lanka,2016-04-28,8600.0,8.0,29.4,rain
+566,Lentil(Masur),Lanka,2016-04-29,8600.0,7.0,29.2,clear
+567,Lentil(Masur),Lanka,2016-04-30,8600.0,7.0,28.6,rain
+568,Lentil(Masur),Lanka,2016-03-05,8900.0,7.0,28.4,clear
+569,Lentil(Masur),Lanka,2016-06-05,8900.0,7.0,34.4,clear
+570,Lentil(Masur),Lanka,2016-07-05,8900.0,7.0,32.6,clear
+571,Lentil(Masur),Lanka,2016-09-05,8900.0,7.0,31.6,rain
+572,Lentil(Masur),Lanka,2016-10-05,8900.0,7.0,33.8,clear
+573,Lentil(Masur),Lanka,2016-11-05,8900.0,7.0,28.0,clear
+574,Lentil(Masur),Lanka,2016-12-05,8900.0,8.0,26.8,clear
+575,Lentil(Masur),Lanka,2016-05-13,8900.0,7.0,29.4,clear
+576,Lentil(Masur),Lanka,2016-05-15,8900.0,6.0,24.4,rain
+577,Lentil(Masur),Lanka,2016-05-16,8900.0,6.0,23.0,rain
+578,Lentil(Masur),Lanka,2016-05-19,8900.0,7.0,26.6,clear
+579,Lentil(Masur),Lanka,2016-05-20,8900.0,7.0,29.8,clear
+580,Lentil(Masur),Lanka,2016-05-21,8900.0,7.0,25.2,clear
+581,Lentil(Masur),Lanka,2016-05-23,8900.0,5.0,31.4,clear
+582,Lentil(Masur),Lanka,2016-05-26,8900.0,6.0,31.2,clear
+583,Lentil(Masur),Lanka,2016-05-27,8900.0,7.0,29.0,clear
+584,Lentil(Masur),Lanka,2016-05-29,8900.0,6.0,32.2,rain
+585,Lentil(Masur),Lanka,2016-05-30,8900.0,6.5,30.6,clear
+586,Lentil(Masur),Lanka,2016-03-06,8900.0,7.0,28.6,clear
+587,Lentil(Masur),Lanka,2016-04-06,8900.0,6.0,28.8,clear
+588,Lentil(Masur),Lanka,2016-05-06,8900.0,6.0,28.4,clear
+589,Lentil(Masur),Lanka,2016-06-06,8900.0,6.0,31.6,clear
+590,Lentil(Masur),Lanka,2016-07-06,8900.0,5.0,34.6,clear
+591,Lentil(Masur),Lanka,2016-09-06,8900.0,7.0,32.0,clear
+592,Lentil(Masur),Lanka,2016-10-06,8900.0,6.0,34.6,clear
+593,Lentil(Masur),Lanka,2016-12-06,8900.0,6.0,26.6,clear
+594,Lentil(Masur),Lanka,2016-06-19,8900.0,6.0,31.4,clear
+595,Lentil(Masur),Lanka,2016-06-20,8900.0,6.0,30.0,clear
+596,Lentil(Masur),Lanka,2016-06-23,8900.0,5.0,28.6,clear
+597,Lentil(Masur),Lanka,2016-06-28,8900.0,5.0,32.2,clear
+598,Lentil(Masur),Lanka,2016-06-29,8900.0,6.0,33.0,clear
+599,Lentil(Masur),Lanka,2016-06-30,8900.0,6.0,32.4,clear
+600,Lentil(Masur),Lanka,2016-04-07,8900.0,5.0,33.0,rain
+601,Lentil(Masur),Lanka,2016-06-07,8900.0,6.0,31.2,clear
+602,Arhar (Tur/Red Gram),Dhing,2017-03-01,8200.0,30.0,29.4,clear
+603,Green Gram (Moong),Dhing,2017-03-01,8000.0,35.0,29.4,clear
+604,Lentil(Masur),Dhing,2017-03-01,8300.0,41.0,29.4,clear
+605,Arhar (Tur/Red Gram),Dhing,2017-04-01,8200.0,34.0,22.0,rain
+606,Green Gram (Moong),Dhing,2017-04-01,7500.0,40.0,22.0,rain
+607,Lentil(Masur),Dhing,2017-04-01,8300.0,28.0,22.0,rain
+608,Arhar (Tur/Red Gram),Dhing,2017-05-01,8200.0,20.0,28.8,clear
+609,Green Gram (Moong),Dhing,2017-05-01,7500.0,34.0,28.8,clear
+610,Lentil(Masur),Dhing,2017-05-01,7000.0,21.0,28.8,clear
+611,Arhar (Tur/Red Gram),Dhing,2017-06-01,8200.0,25.0,30.6,rain
+612,Green Gram (Moong),Dhing,2017-06-01,7500.0,29.0,30.6,rain
+613,Lentil(Masur),Dhing,2017-06-01,7000.0,18.5,30.6,rain
+614,Arhar (Tur/Red Gram),Dhing,2017-07-01,8200.0,26.5,29.2,rain
+615,Green Gram (Moong),Dhing,2017-07-01,8000.0,35.0,29.2,rain
+616,Lentil(Masur),Dhing,2017-07-01,7000.0,32.0,29.2,rain
+617,Arhar (Tur/Red Gram),Dhing,2017-09-01,8200.0,17.5,30.4,rain
+618,Green Gram (Moong),Dhing,2017-09-01,7500.0,36.0,30.4,rain
+619,Lentil(Masur),Dhing,2017-09-01,7200.0,21.0,30.4,rain
+620,Arhar (Tur/Red Gram),Dhing,2017-12-01,8200.0,20.0,25.4,clear
+621,Green Gram (Moong),Dhing,2017-12-01,7500.0,0.0,25.4,clear
+622,Lentil(Masur),Dhing,2017-12-01,6800.0,25.0,25.4,clear
+623,Arhar (Tur/Red Gram),Dhing,2017-01-15,8200.0,20.0,23.8,clear
+624,Green Gram (Moong),Dhing,2017-01-15,7500.0,35.0,23.8,clear
+625,Lentil(Masur),Dhing,2017-01-15,8500.0,26.0,23.8,clear
+626,Arhar (Tur/Red Gram),Dhing,2017-01-18,8200.0,18.0,24.8,clear
+627,Green Gram (Moong),Dhing,2017-01-18,7500.0,35.0,24.8,clear
+628,Lentil(Masur),Dhing,2017-01-18,8500.0,24.0,24.8,clear
+629,Arhar (Tur/Red Gram),Dhing,2017-01-19,8800.0,30.0,25.6,clear
+630,Green Gram (Moong),Dhing,2017-01-19,7000.0,43.0,25.6,clear
+631,Lentil(Masur),Dhing,2017-01-19,9000.0,10.0,25.6,clear
+632,Arhar (Tur/Red Gram),Dhing,2017-01-20,8800.0,15.2,25.2,clear
+633,Green Gram (Moong),Dhing,2017-01-20,7000.0,20.0,25.2,clear
+634,Lentil(Masur),Dhing,2017-01-20,9000.0,9.5,25.2,clear
+635,Arhar (Tur/Red Gram),Dhing,2017-01-23,8800.0,15.0,26.8,clear
+636,Green Gram (Moong),Dhing,2017-01-23,7000.0,32.0,26.8,clear
+637,Arhar (Tur/Red Gram),Dhing,2017-01-24,8800.0,13.5,26.6,clear
+638,Green Gram (Moong),Dhing,2017-01-24,7000.0,45.0,26.6,clear
+639,Lentil(Masur),Dhing,2017-01-24,7000.0,16.0,26.6,clear
+640,Arhar (Tur/Red Gram),Dhing,2017-01-25,7800.0,20.0,28.0,clear
+641,Green Gram (Moong),Dhing,2017-01-25,7200.0,0.0,28.0,clear
+642,Arhar (Tur/Red Gram),Dhing,2017-01-30,7800.0,24.0,25.6,clear
+643,Green Gram (Moong),Dhing,2017-01-30,7200.0,45.0,25.6,clear
+644,Lentil(Masur),Dhing,2017-01-30,8000.0,21.0,25.6,clear
+645,Arhar (Tur/Red Gram),Dhing,2017-01-31,7800.0,20.0,27.6,clear
+646,Green Gram (Moong),Dhing,2017-01-31,7200.0,50.0,27.6,clear
+647,Lentil(Masur),Dhing,2017-01-31,8000.0,25.0,27.6,clear
+648,Arhar (Tur/Red Gram),Dhing,2017-02-05,7650.0,30.0,29.4,clear
+649,Green Gram (Moong),Dhing,2017-02-05,7500.0,46.5,29.4,clear
+650,Lentil(Masur),Dhing,2017-02-05,7400.0,41.0,29.4,clear
+651,Arhar (Tur/Red Gram),Dhing,2017-04-05,7650.0,29.0,26.8,clear
+652,Green Gram (Moong),Dhing,2017-04-05,7500.0,40.0,26.8,clear
+653,Lentil(Masur),Dhing,2017-04-05,7400.0,30.0,26.8,clear
+654,Arhar (Tur/Red Gram),Dhing,2017-05-05,7100.0,30.0,24.8,clear
+655,Green Gram (Moong),Dhing,2017-05-05,7600.0,45.0,24.8,clear
+656,Lentil(Masur),Dhing,2017-05-05,7500.0,36.0,24.8,clear
+657,Arhar (Tur/Red Gram),Dhing,2017-06-05,7100.0,32.0,29.6,clear
+658,Green Gram (Moong),Dhing,2017-06-05,7600.0,50.0,29.6,clear
+659,Lentil(Masur),Dhing,2017-06-05,7500.0,38.0,29.6,clear
+660,Arhar (Tur/Red Gram),Dhing,2017-08-05,7100.0,30.0,33.6,rain
+661,Green Gram (Moong),Dhing,2017-08-05,7600.0,38.0,33.6,rain
+662,Lentil(Masur),Dhing,2017-08-05,7500.0,30.0,33.6,rain
+663,Arhar (Tur/Red Gram),Dhing,2017-09-05,7100.0,25.0,33.2,clear
+664,Green Gram (Moong),Dhing,2017-09-05,7600.0,41.0,33.2,clear
+665,Lentil(Masur),Dhing,2017-09-05,7500.0,30.0,33.2,clear
+666,Arhar (Tur/Red Gram),Dhing,2017-11-05,7100.0,30.0,29.2,clear
+667,Green Gram (Moong),Dhing,2017-11-05,7600.0,27.0,29.2,clear
+668,Lentil(Masur),Dhing,2017-11-05,6725.0,40.0,29.2,clear
+669,Arhar (Tur/Red Gram),Dhing,2017-05-15,7100.0,20.0,32.2,clear
+670,Green Gram (Moong),Dhing,2017-05-15,7600.0,43.0,32.2,clear
+671,Lentil(Masur),Dhing,2017-05-15,7600.0,32.0,32.2,clear
+672,Arhar (Tur/Red Gram),Dhing,2017-05-16,7100.0,25.0,28.2,clear
+673,Green Gram (Moong),Dhing,2017-05-16,7600.0,40.0,28.2,clear
+674,Lentil(Masur),Dhing,2017-05-16,7600.0,30.0,28.2,clear
+675,Arhar (Tur/Red Gram),Dhing,2017-05-17,7100.0,24.0,33.0,clear
+676,Green Gram (Moong),Dhing,2017-05-17,7600.0,25.0,33.0,clear
+677,Lentil(Masur),Dhing,2017-05-17,7600.0,30.0,33.0,clear
+678,Arhar (Tur/Red Gram),Dhing,2017-05-18,7000.0,30.0,32.2,clear
+679,Green Gram (Moong),Dhing,2017-05-18,7500.0,34.0,32.2,clear
+680,Arhar (Tur/Red Gram),Dhing,2017-05-19,7000.0,35.0,31.8,clear
+681,Green Gram (Moong),Dhing,2017-05-19,7500.0,42.0,31.8,clear
+682,Lentil(Masur),Dhing,2017-05-19,7700.0,35.0,31.8,clear
+683,Arhar (Tur/Red Gram),Dhing,2017-05-20,7100.0,36.0,32.8,clear
+684,Green Gram (Moong),Dhing,2017-05-20,7500.0,38.0,32.8,clear
+685,Lentil(Masur),Dhing,2017-05-20,7600.0,29.0,32.8,clear
+686,Arhar (Tur/Red Gram),Dhing,2017-05-22,7000.0,32.0,30.8,clear
+687,Green Gram (Moong),Dhing,2017-05-22,7500.0,43.0,30.8,clear
+688,Arhar (Tur/Red Gram),Dhing,2017-05-23,6800.0,25.0,30.0,clear
+689,Green Gram (Moong),Dhing,2017-05-23,7200.0,36.0,30.0,clear
+690,Lentil(Masur),Dhing,2017-05-23,6400.0,30.0,30.0,clear
+691,Arhar (Tur/Red Gram),Dhing,2017-05-24,6800.0,30.0,28.4,rain
+692,Green Gram (Moong),Dhing,2017-05-24,7200.0,34.0,28.4,rain
+693,Lentil(Masur),Dhing,2017-05-24,7000.0,30.0,28.4,rain
+694,Arhar (Tur/Red Gram),Dhing,2017-05-25,6800.0,25.0,28.2,clear
+695,Lentil(Masur),Dhing,2017-05-25,7000.0,36.0,28.2,clear
+696,Arhar (Tur/Red Gram),Dhing,2017-05-30,6800.0,25.0,26.8,rain
+697,Arhar (Tur/Red Gram),Dhing,2017-05-31,6900.0,40.0,29.4,clear
+698,Green Gram (Moong),Dhing,2017-05-31,7200.0,27.0,29.4,clear
+699,Lentil(Masur),Dhing,2017-05-31,6400.0,35.0,29.4,clear
+700,Arhar (Tur/Red Gram),Dhing,2017-01-06,6800.0,35.0,25.0,clear
+701,Green Gram (Moong),Dhing,2017-01-06,6950.0,35.0,25.0,clear
+702,Lentil(Masur),Dhing,2017-01-06,6300.0,36.0,25.0,clear
+703,Arhar (Tur/Red Gram),Dhing,2017-02-06,6800.0,28.0,29.6,clear
+704,Green Gram (Moong),Dhing,2017-02-06,6950.0,35.0,29.6,clear
+705,Lentil(Masur),Dhing,2017-02-06,6900.0,40.0,29.6,clear
+706,Arhar (Tur/Red Gram),Dhing,2017-06-06,6750.0,26.0,33.8,clear
+707,Green Gram (Moong),Dhing,2017-06-06,7150.0,34.0,33.8,clear
+708,Arhar (Tur/Red Gram),Dhing,2017-07-06,6750.0,30.0,33.0,clear
+709,Green Gram (Moong),Dhing,2017-07-06,7000.0,25.0,33.0,clear
+710,Lentil(Masur),Dhing,2017-07-06,7200.0,30.0,33.0,clear
+711,Arhar (Tur/Red Gram),Dhing,2017-08-06,6750.0,26.0,33.2,clear
+712,Green Gram (Moong),Dhing,2017-08-06,7150.0,35.0,33.2,clear
+713,Lentil(Masur),Dhing,2017-08-06,7200.0,38.0,33.2,clear
+714,Arhar (Tur/Red Gram),Dhing,2017-09-06,6750.0,32.0,30.2,clear
+715,Green Gram (Moong),Dhing,2017-09-06,7150.0,37.0,30.2,clear
+716,Lentil(Masur),Dhing,2017-09-06,7200.0,43.0,30.2,clear
+717,Arhar (Tur/Red Gram),Dhing,2017-06-13,6750.0,30.0,26.6,rain
+718,Green Gram (Moong),Dhing,2017-06-13,7150.0,28.0,26.6,rain
+719,Lentil(Masur),Dhing,2017-06-13,7200.0,36.0,26.6,rain
+720,Arhar (Tur/Red Gram),Dhing,2017-06-16,6775.0,30.0,29.0,rain
+721,Green Gram (Moong),Dhing,2017-06-16,7162.5,38.0,29.0,rain
+722,Lentil(Masur),Dhing,2017-06-16,7275.0,30.0,29.0,rain
+723,Arhar (Tur/Red Gram),Dhing,2017-06-17,6775.0,38.0,25.2,clear
+724,Green Gram (Moong),Dhing,2017-06-17,7162.5,50.0,25.2,clear
+725,Lentil(Masur),Dhing,2017-06-17,7275.0,35.0,25.2,clear
+726,Arhar (Tur/Red Gram),Dhing,2017-06-19,6775.0,29.0,28.0,clear
+727,Green Gram (Moong),Dhing,2017-06-19,7162.5,28.5,28.0,clear
+728,Lentil(Masur),Dhing,2017-06-19,7275.0,30.0,28.0,clear
+729,Arhar (Tur/Red Gram),Dhing,2017-06-20,6775.0,35.0,31.8,clear
+730,Green Gram (Moong),Dhing,2017-06-20,7162.5,35.0,31.8,clear
+731,Lentil(Masur),Dhing,2017-06-20,7275.0,50.0,31.8,clear
+732,Arhar (Tur/Red Gram),Dhing,2017-06-22,6780.0,35.0,30.4,rain
+733,Green Gram (Moong),Dhing,2017-06-22,7150.0,32.6,30.4,rain
+734,Arhar (Tur/Red Gram),Dhing,2017-06-23,6780.0,30.0,32.0,clear
+735,Green Gram (Moong),Dhing,2017-06-23,7150.0,50.0,32.0,clear
+736,Lentil(Masur),Dhing,2017-06-23,7300.0,40.0,32.0,clear
+737,Arhar (Tur/Red Gram),Dhing,2017-06-28,6780.0,28.0,31.4,clear
+738,Arhar (Tur/Red Gram),Dhing,2017-06-29,6780.0,36.0,32.2,clear
+739,Green Gram (Moong),Dhing,2017-06-29,7150.0,43.0,32.2,clear
+740,Lentil(Masur),Dhing,2017-06-29,6562.5,38.0,32.2,clear
+741,Arhar (Tur/Red Gram),Dhing,2017-06-30,6800.0,25.0,31.6,clear
+742,Green Gram (Moong),Dhing,2017-06-30,7180.0,36.0,31.6,clear
+743,Lentil(Masur),Dhing,2017-06-30,6575.0,43.0,31.6,clear
+744,Arhar (Tur/Red Gram),Dhing,2017-01-07,6800.0,30.0,24.8,clear
+745,Arhar (Tur/Red Gram),Dhing,2017-04-07,6750.0,35.0,30.2,clear
+746,Green Gram (Moong),Dhing,2017-04-07,7420.0,30.0,30.2,clear
+747,Lentil(Masur),Dhing,2017-04-07,7500.0,32.0,30.2,clear
+748,Arhar (Tur/Red Gram),Dhing,2017-05-07,6750.0,38.0,28.6,clear
+749,Green Gram (Moong),Dhing,2017-05-07,7420.0,50.0,28.6,clear
+750,Lentil(Masur),Dhing,2017-05-07,7500.0,38.0,28.6,clear
+751,Arhar (Tur/Red Gram),Dhing,2017-11-07,6740.0,38.0,28.8,clear
+752,Green Gram (Moong),Dhing,2017-11-07,7500.0,36.0,28.8,clear
+753,Lentil(Masur),Dhing,2017-11-07,7510.0,50.0,28.8,clear
+754,Arhar (Tur/Red Gram),Dhing,2017-12-07,6750.0,40.0,25.4,clear
+755,Green Gram (Moong),Dhing,2017-12-07,7490.0,50.0,25.4,clear
+756,Lentil(Masur),Dhing,2017-12-07,7550.0,38.0,25.4,clear
+757,Arhar (Tur/Red Gram),Dhing,2017-07-13,6750.0,40.0,32.4,clear
+758,Green Gram (Moong),Dhing,2017-07-13,7490.0,50.0,32.4,clear
+759,Lentil(Masur),Dhing,2017-07-13,7550.0,43.0,32.4,clear
+760,Arhar (Tur/Red Gram),Dhing,2017-07-14,6750.0,45.0,33.0,clear
+761,Arhar (Tur/Red Gram),Dhing,2017-07-15,6750.0,48.0,33.6,clear
+762,Green Gram (Moong),Dhing,2017-07-15,7490.0,50.0,33.6,clear
+763,Arhar (Tur/Red Gram),Dhing,2017-07-17,6750.0,38.0,32.6,clear
+764,Green Gram (Moong),Dhing,2017-07-17,7490.0,46.0,32.6,clear
+765,Lentil(Masur),Dhing,2017-07-17,7550.0,40.0,32.6,clear
+766,Arhar (Tur/Red Gram),Dhing,2017-07-18,6800.0,350.0,36.4,clear
+767,Green Gram (Moong),Dhing,2017-07-18,7000.0,45.0,36.4,clear
+768,Lentil(Masur),Dhing,2017-07-18,7600.0,50.0,36.4,clear
+769,Arhar (Tur/Red Gram),Dhing,2017-07-19,6800.0,38.0,30.0,clear
+770,Green Gram (Moong),Dhing,2017-07-19,7000.0,46.0,30.0,clear
+771,Lentil(Masur),Dhing,2017-07-19,7600.0,38.0,30.0,clear
+772,Arhar (Tur/Red Gram),Dhing,2017-07-24,6800.0,30.0,31.0,clear
+773,Green Gram (Moong),Dhing,2017-07-24,7000.0,50.0,31.0,clear
+774,Lentil(Masur),Dhing,2017-07-24,6410.0,40.0,31.0,clear
+775,Arhar (Tur/Red Gram),Dhing,2017-07-25,6810.0,40.0,33.0,clear
+776,Green Gram (Moong),Dhing,2017-07-25,7000.0,50.0,33.0,clear
+777,Lentil(Masur),Dhing,2017-07-25,6410.0,43.0,33.0,clear
+778,Arhar (Tur/Red Gram),Dhing,2017-07-26,6810.0,41.0,34.2,clear
+779,Green Gram (Moong),Dhing,2017-07-26,7000.0,45.0,34.2,clear
+780,Lentil(Masur),Dhing,2017-07-26,6410.0,40.0,34.2,clear
+781,Arhar (Tur/Red Gram),Dhing,2017-07-31,6850.0,52.0,33.0,clear
+782,Green Gram (Moong),Dhing,2017-07-31,6500.0,41.0,33.0,clear
+783,Arhar (Tur/Red Gram),Dhing,2017-01-08,6800.0,40.0,25.4,clear
+784,Green Gram (Moong),Dhing,2017-01-08,6600.0,40.0,25.4,clear
+785,Lentil(Masur),Dhing,2017-01-08,6440.0,43.0,25.4,clear
+786,Arhar (Tur/Red Gram),Dhing,2017-02-08,6800.0,38.0,27.4,clear
+787,Green Gram (Moong),Dhing,2017-02-08,6600.0,40.0,27.4,clear
+788,Lentil(Masur),Dhing,2017-02-08,7700.0,45.0,27.4,clear
+789,Arhar (Tur/Red Gram),Dhing,2017-03-08,6800.0,40.0,28.0,clear
+790,Green Gram (Moong),Dhing,2017-03-08,6600.0,20.0,28.0,clear
+791,Lentil(Masur),Dhing,2017-03-08,6440.0,38.0,28.0,clear
+792,Arhar (Tur/Red Gram),Dhing,2017-04-08,6820.0,35.0,30.8,clear
+793,Green Gram (Moong),Dhing,2017-04-08,6600.0,38.0,30.8,clear
+794,Lentil(Masur),Dhing,2017-04-08,7700.0,40.0,30.8,clear
+795,Arhar (Tur/Red Gram),Dhing,2017-06-08,6800.0,43.0,35.0,clear
+796,Arhar (Tur/Red Gram),Dhing,2017-07-08,6800.0,40.0,30.8,clear
+797,Green Gram (Moong),Dhing,2017-07-08,6600.0,37.0,30.8,clear
+798,Lentil(Masur),Dhing,2017-07-08,6440.0,40.0,30.8,clear
+799,Arhar (Tur/Red Gram),Dhing,2017-08-08,6800.0,40.0,30.8,clear
+800,Green Gram (Moong),Dhing,2017-08-08,6600.0,38.0,30.8,clear
+801,Lentil(Masur),Dhing,2017-08-08,7700.0,40.0,30.8,clear
+802,Arhar (Tur/Red Gram),Dhing,2017-09-08,6800.0,45.0,31.8,clear
+803,Green Gram (Moong),Dhing,2017-09-08,6600.0,50.0,31.8,clear
+804,Lentil(Masur),Dhing,2017-09-08,6440.0,39.0,31.8,clear
+805,Arhar (Tur/Red Gram),Dhing,2017-11-08,6800.0,45.0,28.8,clear
+806,Green Gram (Moong),Dhing,2017-11-08,6600.0,45.0,28.8,clear
+807,Lentil(Masur),Dhing,2017-11-08,6440.0,40.0,28.8,clear
+808,Green Gram (Moong),Dhing,2017-10-01,7500.0,29.0,28.2,clear
+809,Lentil(Masur),Dhing,2017-10-01,8300.0,30.0,28.2,clear
+810,Green Gram (Moong),Dhing,2017-11-01,8000.0,43.0,27.8,clear
+811,Lentil(Masur),Dhing,2017-11-01,6800.0,26.0,27.8,clear
+812,Green Gram (Moong),Dhing,2017-01-16,7500.0,24.0,24.2,clear
+813,Lentil(Masur),Dhing,2017-01-16,7000.0,8.0,24.2,clear
+814,Green Gram (Moong),Dhing,2017-01-29,7200.0,29.0,24.6,clear
+815,Green Gram (Moong),Dhing,2017-01-02,7200.0,45.0,26.4,clear
+816,Lentil(Masur),Dhing,2017-01-02,8000.0,30.0,26.4,clear
+817,Green Gram (Moong),Dhing,2017-02-02,7200.0,34.0,26.6,clear
+818,Lentil(Masur),Dhing,2017-02-02,8000.0,30.0,26.6,clear
+819,Green Gram (Moong),Dhing,2017-03-02,7600.0,50.0,24.6,clear
+820,Lentil(Masur),Dhing,2017-03-02,9700.0,25.0,24.6,clear
+821,Green Gram (Moong),Dhing,2017-04-02,7600.0,36.0,24.2,rain
+822,Lentil(Masur),Dhing,2017-04-02,9700.0,30.0,24.2,rain
+823,Green Gram (Moong),Dhing,2017-06-02,7600.0,43.0,27.2,clear
+824,Lentil(Masur),Dhing,2017-06-02,9700.0,25.0,27.2,clear
+825,Green Gram (Moong),Dhing,2017-07-02,7600.0,41.0,30.2,rain
+826,Lentil(Masur),Dhing,2017-07-02,9700.0,30.0,30.2,rain
+827,Green Gram (Moong),Dhing,2017-02-13,7600.0,42.0,27.8,clear
+828,Lentil(Masur),Dhing,2017-02-13,9500.0,35.0,27.8,clear
+829,Green Gram (Moong),Dhing,2017-02-14,7600.0,35.0,28.8,clear
+830,Lentil(Masur),Dhing,2017-02-14,9500.0,38.0,28.8,clear
+831,Green Gram (Moong),Dhing,2017-02-15,7600.0,58.0,29.8,clear
+832,Lentil(Masur),Dhing,2017-02-15,9500.0,36.0,29.8,clear
+833,Green Gram (Moong),Dhing,2017-02-16,7500.0,54.0,29.6,clear
+834,Lentil(Masur),Dhing,2017-02-16,9500.0,24.0,29.6,clear
+835,Green Gram (Moong),Dhing,2017-02-17,6700.0,43.0,31.0,clear
+836,Lentil(Masur),Dhing,2017-02-17,8700.0,25.0,31.0,clear
+837,Green Gram (Moong),Dhing,2017-02-18,6700.0,35.2,31.0,clear
+838,Lentil(Masur),Dhing,2017-02-18,8700.0,30.0,31.0,clear
+839,Green Gram (Moong),Dhing,2017-02-20,6700.0,54.0,26.0,rain
+840,Lentil(Masur),Dhing,2017-02-20,8700.0,36.0,26.0,rain
+841,Green Gram (Moong),Dhing,2017-02-21,6700.0,32.0,21.2,rain
+842,Lentil(Masur),Dhing,2017-02-21,8700.0,20.0,21.2,rain
+843,Green Gram (Moong),Dhing,2017-02-22,6700.0,43.0,26.6,rain
+844,Lentil(Masur),Dhing,2017-02-22,8700.0,30.0,26.6,rain
+845,Green Gram (Moong),Dhing,2017-02-24,6700.0,55.0,27.8,clear
+846,Green Gram (Moong),Dhing,2017-02-25,6700.0,50.0,26.6,clear
+847,Lentil(Masur),Dhing,2017-02-25,6450.0,30.0,26.6,clear
+848,Green Gram (Moong),Dhing,2017-02-27,6500.0,40.0,25.2,clear
+849,Green Gram (Moong),Dhing,2017-02-28,6700.0,45.0,27.0,clear
+850,Lentil(Masur),Dhing,2017-02-28,6450.0,21.0,27.0,clear
+851,Green Gram (Moong),Dhing,2017-01-03,7650.0,35.0,26.2,clear
+852,Lentil(Masur),Dhing,2017-01-03,7500.0,30.0,26.2,clear
+853,Green Gram (Moong),Dhing,2017-02-03,7650.0,60.0,27.8,clear
+854,Lentil(Masur),Dhing,2017-02-03,7500.0,28.0,27.8,clear
+855,Green Gram (Moong),Dhing,2017-03-03,7650.0,45.0,28.2,clear
+856,Lentil(Masur),Dhing,2017-03-03,7500.0,35.0,28.2,clear
+857,Green Gram (Moong),Dhing,2017-04-03,7550.0,43.0,23.2,rain
+858,Lentil(Masur),Dhing,2017-04-03,7500.0,32.0,23.2,rain
+859,Green Gram (Moong),Dhing,2017-06-03,7550.0,55.0,25.2,rain
+860,Lentil(Masur),Dhing,2017-06-03,7500.0,30.0,25.2,rain
+861,Green Gram (Moong),Dhing,2017-07-03,7550.0,34.0,30.8,rain
+862,Lentil(Masur),Dhing,2017-07-03,7500.0,35.0,30.8,rain
+863,Green Gram (Moong),Dhing,2017-08-03,7550.0,34.5,33.2,clear
+864,Lentil(Masur),Dhing,2017-08-03,7500.0,30.0,33.2,clear
+865,Green Gram (Moong),Dhing,2017-09-03,7600.0,45.0,30.6,clear
+866,Lentil(Masur),Dhing,2017-09-03,7400.0,38.0,30.6,clear
+867,Green Gram (Moong),Dhing,2017-10-03,7600.0,35.0,32.2,clear
+868,Lentil(Masur),Dhing,2017-10-03,7400.0,40.0,32.2,clear
+869,Green Gram (Moong),Dhing,2017-03-14,7600.0,38.0,29.2,clear
+870,Lentil(Masur),Dhing,2017-03-14,7400.0,20.0,29.2,clear
+871,Green Gram (Moong),Dhing,2017-03-15,7600.0,41.0,29.6,clear
+872,Lentil(Masur),Dhing,2017-03-15,7400.0,28.0,29.6,clear
+873,Green Gram (Moong),Dhing,2017-03-16,7600.0,45.0,29.8,clear
+874,Green Gram (Moong),Dhing,2017-03-17,7500.0,38.0,30.2,clear
+875,Lentil(Masur),Dhing,2017-03-17,7200.0,30.0,30.2,clear
+876,Green Gram (Moong),Dhing,2017-03-20,7600.0,32.0,22.8,clear
+877,Lentil(Masur),Dhing,2017-03-20,7400.0,18.0,22.8,clear
+878,Green Gram (Moong),Dhing,2017-03-21,7300.0,52.0,26.8,clear
+879,Lentil(Masur),Dhing,2017-03-21,7200.0,18.0,26.8,clear
+880,Green Gram (Moong),Dhing,2017-03-22,7300.0,30.0,30.2,clear
+881,Green Gram (Moong),Dhing,2017-03-23,7300.0,0.0,31.2,clear
+882,Lentil(Masur),Dhing,2017-03-23,7200.0,35.0,31.2,clear
+883,Green Gram (Moong),Dhing,2017-03-24,7300.0,32.0,31.8,clear
+884,Green Gram (Moong),Dhing,2017-03-27,7300.0,41.0,28.0,clear
+885,Green Gram (Moong),Dhing,2017-03-30,7600.0,46.0,22.2,clear
+886,Lentil(Masur),Dhing,2017-03-30,6750.0,30.0,22.2,clear
+887,Green Gram (Moong),Dhing,2017-03-31,7600.0,36.0,29.4,rain
+888,Lentil(Masur),Dhing,2017-03-31,6775.0,40.0,29.4,rain
+889,Green Gram (Moong),Dhing,2017-01-04,6500.0,27.0,25.8,clear
+890,Lentil(Masur),Dhing,2017-01-04,6775.0,32.0,25.8,clear
+891,Green Gram (Moong),Dhing,2017-03-04,7400.0,45.0,28.2,clear
+892,Lentil(Masur),Dhing,2017-03-04,7400.0,30.0,28.2,clear
+893,Green Gram (Moong),Dhing,2017-04-04,7400.0,30.0,24.0,clear
+894,Lentil(Masur),Dhing,2017-04-04,7400.0,29.0,24.0,clear
+895,Green Gram (Moong),Dhing,2017-06-04,7400.0,50.0,27.4,clear
+896,Lentil(Masur),Dhing,2017-06-04,7400.0,32.0,27.4,clear
+897,Green Gram (Moong),Dhing,2017-07-04,7400.0,35.0,31.8,rain
+898,Lentil(Masur),Dhing,2017-07-04,7400.0,25.0,31.8,rain
+899,Green Gram (Moong),Dhing,2017-10-04,7400.0,36.0,33.2,clear
+900,Green Gram (Moong),Dhing,2017-11-04,7400.0,38.0,28.8,clear
+901,Lentil(Masur),Dhing,2017-11-04,7400.0,30.0,28.8,clear
+902,Green Gram (Moong),Dhing,2017-12-04,7400.0,47.0,24.8,clear
+903,Lentil(Masur),Dhing,2017-12-04,7400.0,42.0,24.8,clear
+904,Green Gram (Moong),Dhing,2017-04-13,7450.0,40.0,32.6,clear
+905,Lentil(Masur),Dhing,2017-04-13,7400.0,28.0,32.6,clear
+906,Green Gram (Moong),Dhing,2017-04-17,7450.0,52.0,30.4,clear
+907,Lentil(Masur),Dhing,2017-04-17,7400.0,30.0,30.4,clear
+908,Green Gram (Moong),Dhing,2017-04-18,7450.0,40.0,33.2,clear
+909,Lentil(Masur),Dhing,2017-04-18,7400.0,36.0,33.2,clear
+910,Green Gram (Moong),Dhing,2017-04-19,7450.0,56.0,24.2,clear
+911,Green Gram (Moong),Dhing,2017-04-20,7500.0,0.0,28.8,clear
+912,Lentil(Masur),Dhing,2017-04-20,7400.0,30.0,28.8,clear
+913,Green Gram (Moong),Dhing,2017-04-21,7500.0,58.0,29.0,clear
+914,Lentil(Masur),Dhing,2017-04-21,7400.0,40.0,29.0,clear
+915,Green Gram (Moong),Dhing,2017-04-23,7500.0,50.0,26.4,clear
+916,Lentil(Masur),Dhing,2017-04-23,7400.0,30.0,26.4,clear
+917,Green Gram (Moong),Dhing,2017-04-25,7500.0,40.0,26.4,rain
+918,Green Gram (Moong),Dhing,2017-04-27,7500.0,54.0,31.4,clear
+919,Green Gram (Moong),Dhing,2017-04-28,7500.0,57.0,29.0,clear
+920,Lentil(Masur),Dhing,2017-04-28,6600.0,41.0,29.0,clear
+921,Green Gram (Moong),Dhing,2017-04-29,7500.0,45.0,27.6,rain
+922,Green Gram (Moong),Dhing,2017-03-05,7500.0,50.0,29.6,clear
+923,Lentil(Masur),Dhing,2017-03-05,7400.0,32.0,29.6,clear
+924,Green Gram (Moong),Dhing,2017-05-26,7200.0,28.0,31.2,clear
+925,Green Gram (Moong),Dhing,2017-06-14,7150.0,36.0,29.4,clear
+926,Lentil(Masur),Dhing,2017-06-14,7200.0,35.0,29.4,clear
+927,Green Gram (Moong),Dhing,2017-10-07,7500.0,35.0,33.2,clear
+928,Green Gram (Moong),Dhing,2017-07-30,6500.0,40.0,32.8,clear
+929,Lentil(Masur),Dhing,2017-07-30,6375.0,45.0,32.8,clear
+930,Green Gram (Moong),Dhing,2017-08-14,6600.0,30.0,29.6,clear
+931,Green Gram (Moong),Dhing,2017-08-21,6600.0,30.0,32.4,clear
+932,Green Gram (Moong),Dhing,2017-08-22,7350.0,35.0,33.8,clear
+933,Green Gram (Moong),Dhing,2017-08-24,7350.0,39.0,33.0,clear
+934,Green Gram (Moong),Dhing,2017-08-28,7350.0,28.0,31.0,clear
+935,Lentil(Masur),Dhing,2017-08-28,6400.0,35.0,31.0,clear
+936,Green Gram (Moong),Dhing,2017-08-29,7350.0,35.0,33.0,clear
+937,Green Gram (Moong),Dhing,2017-08-30,7350.0,28.0,34.0,clear
+938,Green Gram (Moong),Dhing,2017-08-09,7350.0,20.0,30.0,clear
+939,Green Gram (Moong),Dhing,2017-11-09,6900.0,35.0,29.2,clear
+940,Green Gram (Moong),Dhing,2017-12-09,6900.0,38.0,24.8,clear
+941,Green Gram (Moong),Dhing,2017-09-14,6900.0,32.0,32.8,clear
+942,Green Gram (Moong),Dhing,2017-09-16,6550.0,36.0,34.8,clear
+943,Green Gram (Moong),Dhing,2017-09-17,6550.0,42.0,34.4,clear
+944,Green Gram (Moong),Dhing,2017-09-18,6550.0,40.0,31.6,clear
+945,Green Gram (Moong),Dhing,2017-09-19,6550.0,29.0,33.0,clear
+946,Green Gram (Moong),Dhing,2017-09-20,6550.0,38.0,28.2,clear
+947,Green Gram (Moong),Dhing,2017-09-21,6550.0,37.0,32.2,clear
+948,Green Gram (Moong),Dhing,2017-09-22,7850.0,30.0,33.2,clear
+949,Green Gram (Moong),Dhing,2017-09-25,7850.0,43.0,33.0,clear
+950,Green Gram (Moong),Dhing,2017-09-26,7850.0,38.0,33.6,clear
+951,Green Gram (Moong),Dhing,2017-03-10,7900.0,43.0,25.8,rain
+952,Green Gram (Moong),Dhing,2017-04-10,7900.0,30.0,32.2,clear
+953,Green Gram (Moong),Dhing,2017-06-10,7600.0,38.0,34.8,clear
+954,Green Gram (Moong),Dhing,2017-09-10,7600.0,35.0,28.4,clear
+955,Green Gram (Moong),Dhing,2017-10-10,7650.0,37.0,32.6,clear
+956,Green Gram (Moong),Dhing,2017-11-10,7650.0,43.0,29.2,clear
+957,Green Gram (Moong),Dhing,2017-10-13,7650.0,42.0,31.8,clear
+958,Green Gram (Moong),Dhing,2017-10-16,7650.0,38.0,31.0,clear
+959,Green Gram (Moong),Dhing,2017-10-17,7650.0,32.0,32.2,clear
+960,Green Gram (Moong),Dhing,2017-10-20,7650.0,30.0,28.0,clear
+961,Green Gram (Moong),Dhing,2017-10-21,7650.0,26.0,23.4,rain
+962,Green Gram (Moong),Dhing,2017-10-25,7650.0,29.0,27.4,clear
+963,Green Gram (Moong),Dhing,2017-10-27,7650.0,38.0,29.0,clear
+964,Green Gram (Moong),Dhing,2017-10-30,7550.0,42.0,22.8,clear
+965,Green Gram (Moong),Dhing,2017-10-31,7550.0,43.0,26.0,clear
+966,Green Gram (Moong),Dhing,2017-01-11,7550.0,40.0,23.2,clear
+967,Green Gram (Moong),Dhing,2017-02-11,6800.0,42.0,26.2,clear
+968,Green Gram (Moong),Dhing,2017-03-11,6800.0,43.0,22.0,clear
+969,Lentil(Masur),Dhing,2017-01-17,8300.0,25.0,24.0,clear
+970,Lentil(Masur),Dhing,2017-04-16,7400.0,27.0,26.0,clear

@@ -1,0 +1,1331 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Groundnut,Chhatarpur,2015-12-21,2610.0,10.5,19.8,clear
+1,Mustard,LavKush Nagar(Laundi),2015-12-21,3683.0,8.5,19.8,clear
+2,Soyabean,Chhatarpur,2015-12-21,3297.0,7.7,19.8,clear
+3,Groundnut,Chhatarpur,2015-12-29,3625.0,8.2,26.4,clear
+4,Mustard,LavKush Nagar(Laundi),2015-12-29,3875.0,13.0,26.4,clear
+5,Soyabean,Chhatarpur,2015-12-29,3260.0,10.0,26.4,clear
+6,Groundnut,LavKush Nagar(Laundi),2015-12-23,4000.0,5.0,20.8,clear
+7,Mustard,Chhatarpur,2015-12-23,3837.0,11.8,20.8,clear
+8,Soyabean,Badamalhera,2015-12-23,3100.0,30.2,20.8,clear
+9,Soyabean,Chhatarpur,2015-12-23,3365.0,5.2,20.8,clear
+10,Groundnut,LavKush Nagar(Laundi),2015-12-26,3963.0,11.0,22.6,clear
+11,Mustard,LavKush Nagar(Laundi),2015-12-26,3925.0,14.1,22.6,clear
+12,Soyabean,Badamalhera,2015-12-26,3100.0,26.0,22.6,clear
+13,Soyabean,Chhatarpur,2015-12-26,3425.0,6.3,22.6,clear
+14,Mustard,Badamalhera,2015-12-07,3200.0,21.2,26.2,clear
+15,Soyabean,Badamalhera,2015-12-07,2900.0,25.0,26.2,clear
+16,Mustard,Chhatarpur,2015-12-10,4155.0,0.5,26.4,clear
+17,Mustard,LavKush Nagar(Laundi),2015-12-10,4195.0,18.8,26.4,clear
+18,Mustard,Rajnagar,2015-12-10,4000.0,20.0,26.4,clear
+19,Soyabean,Chhatarpur,2015-12-10,3700.0,1.2,26.4,clear
+20,Mustard,Chhatarpur,2015-12-14,3453.0,37.0,21.6,clear
+21,Soyabean,Chhatarpur,2015-12-14,3350.0,8.1,21.6,clear
+22,Mustard,Chhatarpur,2015-12-30,3382.0,16.0,24.0,clear
+23,Mustard,Harpalpur,2015-12-30,3700.0,20.0,24.0,clear
+24,Mustard,LavKush Nagar(Laundi),2015-12-30,3988.0,36.6,24.0,clear
+25,Soyabean,Chhatarpur,2015-12-30,3325.0,1.3,24.0,clear
+26,Mustard,Harpalpur,2015-12-28,3750.0,40.0,25.6,clear
+27,Mustard,LavKush Nagar(Laundi),2015-12-28,3843.0,15.0,25.6,clear
+28,Mustard,Rajnagar,2015-12-28,4100.0,16.0,25.6,clear
+29,Soyabean,Badamalhera,2015-12-28,3100.0,24.85,25.6,clear
+30,Soyabean,Chhatarpur,2015-12-28,3327.0,3.4,25.6,clear
+31,Mustard,LavKush Nagar(Laundi),2015-12-08,3575.0,43.0,24.0,clear
+32,Mustard,LavKush Nagar(Laundi),2015-12-09,3700.0,2.5,24.8,clear
+33,Soyabean,Chhatarpur,2015-12-09,3095.0,0.9,24.8,clear
+34,Mustard,LavKush Nagar(Laundi),2015-12-12,4025.0,8.0,21.6,clear
+35,Mustard,Rajnagar,2015-12-12,4200.0,15.8,21.6,clear
+36,Soyabean,Chhatarpur,2015-12-12,3100.0,3.7,21.6,clear
+37,Mustard,LavKush Nagar(Laundi),2015-12-22,3783.0,16.3,20.8,clear
+38,Soyabean,Chhatarpur,2015-12-22,3327.0,7.7,20.8,clear
+39,Mustard,LavKush Nagar(Laundi),2015-12-31,3900.0,11.3,26.0,clear
+40,Soyabean,Chhatarpur,2015-12-31,3217.0,4.8,26.0,clear
+41,Soyabean,Badamalhera,2015-12-20,3100.0,7.0,20.8,clear
+42,Soyabean,Badamalhera,2015-12-27,3100.0,41.78,25.0,clear
+43,Soyabean,Chhatarpur,2015-12-17,3295.0,3.7,22.0,clear
+44,Soyabean,Chhatarpur,2015-12-18,3245.0,13.5,20.6,clear
+45,Soyabean,Chhatarpur,2015-12-19,3290.0,5.5,21.0,clear
+46,Groundnut,Chhatarpur,2016-01-01,2880.0,8.5,24.2,clear
+47,Mustard,Chhatarpur,2016-01-01,3915.0,18.0,24.2,clear
+48,Groundnut,Chhatarpur,2016-01-30,2755.0,8.9,27.8,clear
+49,Groundnut,Chhatarpur,2016-02-02,2900.0,12.0,25.8,clear
+50,Mustard,LavKush Nagar(Laundi),2016-02-02,3510.0,6.0,25.8,clear
+51,Soyabean,Badamalhera,2016-02-02,3200.0,29.88,25.8,clear
+52,Soyabean,Chhatarpur,2016-02-02,3250.0,1.1,25.8,clear
+53,Groundnut,Chhatarpur,2016-02-13,2907.0,8.6,29.2,clear
+54,Mustard,Chhatarpur,2016-02-13,3518.0,20.0,29.2,clear
+55,Soyabean,Badamalhera,2016-02-13,3200.0,24.66,29.2,clear
+56,Soyabean,Chhatarpur,2016-02-13,3305.0,0.5,29.2,clear
+57,Groundnut,Chhatarpur,2016-02-16,3000.0,0.8,21.8,clear
+58,Soyabean,Chhatarpur,2016-02-16,3247.0,4.2,21.8,clear
+59,Groundnut,Chhatarpur,2016-03-30,2875.0,8.8,36.0,clear
+60,Mustard,Chhatarpur,2016-03-30,3687.0,5.5,36.0,clear
+61,Soyabean,Chhatarpur,2016-03-30,3445.0,3.5,36.0,clear
+62,Groundnut,Chhatarpur,2016-06-24,3130.0,4.2,37.8,clear
+63,Mustard,Chhatarpur,2016-06-24,3750.0,0.5,37.8,clear
+64,Groundnut,Chhatarpur,2016-09-07,3010.0,13.8,31.6,clear
+65,Mustard,Badamalhera,2016-09-07,3700.0,3.2,31.6,clear
+66,Groundnut,Chhatarpur,2016-02-09,3038.0,4.5,24.4,clear
+67,Mustard,Chhatarpur,2016-02-09,3945.0,1.1,24.4,clear
+68,Mustard,Harpalpur,2016-02-09,3729.0,19.6,24.4,clear
+69,Mustard,Rajnagar,2016-02-09,4000.0,16.0,24.4,clear
+70,Mustard,Badamalhera,2016-06-19,3600.0,,37.8,clear
+71,Mustard,Badamalhera,2016-06-25,3500.0,,32.8,clear
+72,Mustard,Badamalhera,2016-07-26,3600.0,7.0,31.0,clear
+73,Mustard,Chhatarpur,2016-07-26,4040.0,3.5,31.0,clear
+74,Soyabean,Badamalhera,2016-07-26,3300.0,17.01,31.0,clear
+75,Soyabean,Chhatarpur,2016-07-26,3200.0,1.8,31.0,clear
+76,Mustard,Badamalhera,2016-03-09,3600.0,20.14,31.0,clear
+77,Mustard,Chhatarpur,2016-03-09,3925.0,20.0,31.0,clear
+78,Mustard,LavKush Nagar(Laundi),2016-03-09,3650.0,5.5,31.0,clear
+79,Mustard,Rajnagar,2016-03-09,4000.0,15.0,31.0,clear
+80,Mustard,Badamalhera,2016-05-09,4000.0,19.6,36.4,clear
+81,Mustard,Harpalpur,2016-05-09,4027.0,15.8,36.4,clear
+82,Mustard,Badamalhera,2016-12-09,3700.0,19.6,22.8,clear
+83,Mustard,LavKush Nagar(Laundi),2016-12-09,3690.0,6.0,22.8,clear
+84,Mustard,Badamalhera,2016-09-14,3900.0,19.7,30.0,clear
+85,Mustard,Chhatarpur,2016-09-14,3953.0,20.0,30.0,clear
+86,Mustard,LavKush Nagar(Laundi),2016-09-14,3760.0,4.5,30.0,clear
+87,Mustard,Badamalhera,2016-09-24,3900.0,,30.2,clear
+88,Mustard,Chhatarpur,2016-09-24,3850.0,40.3,30.2,clear
+89,Mustard,Harpalpur,2016-09-24,4080.0,19.8,30.2,clear
+90,Mustard,Rajnagar,2016-09-24,3800.0,16.0,30.2,clear
+91,Mustard,Badamalhera,2016-01-10,3900.0,19.82,12.0,clear
+92,Mustard,Chhatarpur,2016-01-10,3812.0,40.0,12.0,clear
+93,Mustard,Badamalhera,2016-05-11,3900.0,19.8,40.4,clear
+94,Mustard,LavKush Nagar(Laundi),2016-05-11,3650.0,11.0,40.4,clear
+95,Soyabean,Badamalhera,2016-05-11,2900.0,28.4,40.4,clear
+96,Soyabean,Chhatarpur,2016-05-11,2912.0,8.5,40.4,clear
+97,Mustard,Badamalhera,2016-11-29,3900.0,50.0,27.4,clear
+98,Mustard,Chhatarpur,2016-11-29,3700.0,7.2,27.4,clear
+99,Mustard,Harpalpur,2016-11-29,3777.0,0.4,27.4,clear
+100,Mustard,LavKush Nagar(Laundi),2016-11-29,3650.0,2.0,27.4,clear
+101,Mustard,Badamalhera,2016-11-30,3900.0,5.07,16.8,clear
+102,Mustard,Chhatarpur,2016-11-30,3750.0,5.2,16.8,clear
+103,Mustard,Badamalhera,2016-03-12,3900.0,19.6,27.4,clear
+104,Mustard,LavKush Nagar(Laundi),2016-03-12,3703.0,13.6,27.4,clear
+105,Soyabean,Badamalhera,2016-03-12,2800.0,3.0,27.4,clear
+106,Soyabean,Chhatarpur,2016-03-12,2800.0,3.2,27.4,clear
+107,Mustard,Badamalhera,2016-12-25,3500.0,15.0,25.2,clear
+108,Mustard,Chhatarpur,2016-05-01,4185.0,16.5,34.8,clear
+109,Soyabean,Chhatarpur,2016-05-01,3265.0,1.3,34.8,clear
+110,Mustard,Chhatarpur,2016-06-01,4150.0,0.6,42.0,clear
+111,Mustard,Rajnagar,2016-06-01,4100.0,18.0,42.0,clear
+112,Soyabean,Chhatarpur,2016-06-01,3245.0,6.1,42.0,clear
+113,Mustard,Chhatarpur,2016-07-01,4185.0,21.0,32.8,clear
+114,Mustard,Harpalpur,2016-07-01,3750.0,18.8,32.8,clear
+115,Soyabean,Chhatarpur,2016-07-01,3277.0,1.0,32.8,clear
+116,Mustard,Chhatarpur,2016-01-28,3500.0,2.3,26.8,clear
+117,Mustard,LavKush Nagar(Laundi),2016-01-28,3683.0,10.6,26.8,clear
+118,Soyabean,Badamalhera,2016-01-28,3200.0,,26.8,clear
+119,Soyabean,Chhatarpur,2016-01-28,3362.0,6.0,26.8,clear
+120,Mustard,Chhatarpur,2016-09-02,3555.0,15.9,30.4,clear
+121,Mustard,Rajnagar,2016-09-02,3800.0,,30.4,clear
+122,Soyabean,Chhatarpur,2016-09-02,3280.0,1.8,30.4,clear
+123,Mustard,Chhatarpur,2016-02-23,3525.0,20.0,29.8,clear
+124,Soyabean,Badamalhera,2016-02-23,3200.0,19.8,29.8,clear
+125,Soyabean,Chhatarpur,2016-02-23,3230.0,2.8,29.8,clear
+126,Mustard,Chhatarpur,2016-05-03,3540.0,20.8,39.0,clear
+127,Mustard,Chhatarpur,2016-08-03,3272.0,4.2,30.0,clear
+128,Mustard,LavKush Nagar(Laundi),2016-08-03,3400.0,4.0,30.0,clear
+129,Soyabean,Chhatarpur,2016-08-03,3100.0,0.7,30.0,clear
+130,Mustard,Chhatarpur,2016-09-03,3195.0,1.1,30.0,clear
+131,Mustard,Harpalpur,2016-09-03,3500.0,19.8,30.0,clear
+132,Mustard,LavKush Nagar(Laundi),2016-09-03,3410.0,4.0,30.0,clear
+133,Mustard,Chhatarpur,2016-10-03,3340.0,20.8,34.4,clear
+134,Mustard,LavKush Nagar(Laundi),2016-10-03,3405.0,4.0,34.4,clear
+135,Soyabean,Chhatarpur,2016-10-03,3155.0,1.8,34.4,clear
+136,Mustard,Chhatarpur,2016-11-03,3390.0,4.3,28.8,clear
+137,Mustard,LavKush Nagar(Laundi),2016-11-03,3400.0,4.0,28.8,clear
+138,Soyabean,Chhatarpur,2016-11-03,3095.0,0.8,28.8,clear
+139,Mustard,Chhatarpur,2016-12-03,3455.0,3.5,21.2,clear
+140,Mustard,Chhatarpur,2016-03-14,3250.0,4.4,21.0,clear
+141,Soyabean,Badamalhera,2016-03-14,3200.0,25.2,21.0,clear
+142,Mustard,Chhatarpur,2016-03-15,3300.0,4.7,27.2,clear
+143,Mustard,Rajnagar,2016-03-15,3650.0,16.0,27.2,clear
+144,Soyabean,Chhatarpur,2016-03-15,3165.0,0.8,27.2,clear
+145,Mustard,Chhatarpur,2016-03-16,3337.0,4.8,29.8,clear
+146,Soyabean,Chhatarpur,2016-03-16,3230.0,2.1,29.8,clear
+147,Mustard,Chhatarpur,2016-03-17,3213.0,2.3,33.4,clear
+148,Soyabean,Badamalhera,2016-03-17,3200.0,60.3,33.4,clear
+149,Soyabean,Chhatarpur,2016-03-17,3292.0,21.3,33.4,clear
+150,Mustard,Chhatarpur,2016-03-22,3400.0,4.1,33.4,clear
+151,Mustard,Rajnagar,2016-03-22,3500.0,15.9,33.4,clear
+152,Soyabean,Chhatarpur,2016-03-22,3375.0,0.6,33.4,clear
+153,Mustard,Chhatarpur,2016-03-26,3492.0,3.0,37.2,clear
+154,Soyabean,Chhatarpur,2016-03-26,3375.0,3.7,37.2,clear
+155,Mustard,Chhatarpur,2016-03-28,3590.0,8.8,35.2,clear
+156,Soyabean,Chhatarpur,2016-03-28,3555.0,1.0,35.2,clear
+157,Mustard,Chhatarpur,2016-03-29,3680.0,6.0,35.2,clear
+158,Soyabean,Chhatarpur,2016-03-29,3500.0,4.1,35.2,clear
+159,Mustard,Chhatarpur,2016-01-04,3630.0,4.7,24.8,clear
+160,Soyabean,Chhatarpur,2016-01-04,3520.0,7.7,24.8,clear
+161,Mustard,Chhatarpur,2016-02-04,3680.0,0.4,22.6,clear
+162,Soyabean,Chhatarpur,2016-02-04,3635.0,2.9,22.6,clear
+163,Mustard,Chhatarpur,2016-04-04,3818.0,23.6,39.2,clear
+164,Soyabean,Chhatarpur,2016-04-04,3680.0,3.9,39.2,clear
+165,Mustard,Chhatarpur,2016-05-04,3895.0,4.6,40.8,clear
+166,Soyabean,Chhatarpur,2016-05-04,3522.0,3.4,40.8,clear
+167,Mustard,Chhatarpur,2016-06-04,3815.0,4.9,42.4,clear
+168,Mustard,Rajnagar,2016-06-04,3700.0,15.9,42.4,clear
+169,Soyabean,Badamalhera,2016-06-04,3200.0,44.7,42.4,clear
+170,Soyabean,Chhatarpur,2016-06-04,3610.0,4.8,42.4,clear
+171,Mustard,Chhatarpur,2016-07-04,3887.0,11.1,27.8,clear
+172,Mustard,LavKush Nagar(Laundi),2016-07-04,4100.0,1.0,27.8,clear
+173,Soyabean,Chhatarpur,2016-07-04,3462.0,15.0,27.8,clear
+174,Mustard,Chhatarpur,2016-09-04,3905.0,9.4,32.4,clear
+175,Soyabean,Chhatarpur,2016-09-04,3530.0,3.5,32.4,clear
+176,Mustard,Chhatarpur,2016-11-04,3882.0,10.7,29.0,clear
+177,Soyabean,Chhatarpur,2016-11-04,3592.0,4.1,29.0,clear
+178,Mustard,Chhatarpur,2016-04-18,3982.0,7.7,40.4,clear
+179,Soyabean,Chhatarpur,2016-04-18,3674.0,8.3,40.4,clear
+180,Mustard,Chhatarpur,2016-04-20,3972.0,9.3,32.2,clear
+181,Soyabean,Chhatarpur,2016-04-20,3650.0,23.2,32.2,clear
+182,Mustard,Chhatarpur,2016-04-21,3910.0,7.6,40.4,clear
+183,Soyabean,Chhatarpur,2016-04-21,3647.0,9.4,40.4,clear
+184,Mustard,Chhatarpur,2016-04-22,3925.0,1.2,41.2,clear
+185,Soyabean,Badamalhera,2016-04-22,3200.0,48.0,41.2,clear
+186,Soyabean,Chhatarpur,2016-04-22,3662.0,29.3,41.2,clear
+187,Mustard,Chhatarpur,2016-04-23,3993.0,3.0,39.4,clear
+188,Soyabean,Badamalhera,2016-04-23,3200.0,49.9,39.4,clear
+189,Soyabean,Chhatarpur,2016-04-23,3717.0,14.1,39.4,clear
+190,Mustard,Chhatarpur,2016-04-25,3920.0,3.6,40.4,clear
+191,Soyabean,Chhatarpur,2016-04-25,3570.0,4.2,40.4,clear
+192,Mustard,Chhatarpur,2016-04-27,3750.0,4.3,41.2,clear
+193,Soyabean,Chhatarpur,2016-04-27,3575.0,2.9,41.2,clear
+194,Mustard,Chhatarpur,2016-04-28,3875.0,2.8,41.4,clear
+195,Mustard,Chhatarpur,2016-04-29,3900.0,0.7,41.0,clear
+196,Soyabean,Chhatarpur,2016-04-29,3375.0,1.2,41.0,clear
+197,Mustard,Chhatarpur,2016-04-30,3925.0,3.9,42.2,clear
+198,Soyabean,Badamalhera,2016-04-30,3700.0,6.79,42.2,clear
+199,Mustard,Chhatarpur,2016-02-05,3917.0,27.3,25.2,clear
+200,Mustard,Chhatarpur,2016-03-05,3867.0,5.4,34.2,clear
+201,Soyabean,Chhatarpur,2016-03-05,3415.0,2.5,34.2,clear
+202,Mustard,Chhatarpur,2016-04-05,3865.0,9.8,39.4,clear
+203,Soyabean,Chhatarpur,2016-04-05,3520.0,1.8,39.4,clear
+204,Mustard,Chhatarpur,2016-05-05,3847.0,6.7,40.8,clear
+205,Mustard,LavKush Nagar(Laundi),2016-05-05,3900.0,8.0,40.8,clear
+206,Soyabean,Badamalhera,2016-05-05,3600.0,33.9,40.8,clear
+207,Soyabean,Chhatarpur,2016-05-05,3332.0,5.4,40.8,clear
+208,Mustard,Chhatarpur,2016-06-05,3825.0,1.4,42.0,clear
+209,Soyabean,Chhatarpur,2016-06-05,3300.0,0.8,42.0,clear
+210,Mustard,Chhatarpur,2016-07-05,3900.0,0.8,28.0,clear
+211,Mustard,Chhatarpur,2016-10-05,3850.0,6.5,34.4,clear
+212,Soyabean,Badamalhera,2016-10-05,3500.0,23.1,34.4,clear
+213,Soyabean,Chhatarpur,2016-10-05,3522.0,1.6,34.4,clear
+214,Mustard,Chhatarpur,2016-11-05,3900.0,1.2,28.8,clear
+215,Soyabean,Chhatarpur,2016-11-05,3475.0,9.0,28.8,clear
+216,Mustard,Chhatarpur,2016-05-13,3900.0,1.4,42.6,clear
+217,Soyabean,Chhatarpur,2016-05-13,3400.0,1.5,42.6,clear
+218,Mustard,Chhatarpur,2016-05-14,3910.0,2.3,44.6,clear
+219,Soyabean,Badamalhera,2016-05-14,3500.0,2.5,44.6,clear
+220,Soyabean,Chhatarpur,2016-05-14,3450.0,2.2,44.6,clear
+221,Mustard,Chhatarpur,2016-05-16,3825.0,3.2,44.6,clear
+222,Mustard,Chhatarpur,2016-05-17,3797.0,4.5,44.4,clear
+223,Soyabean,Chhatarpur,2016-05-17,3485.0,0.3,44.4,clear
+224,Mustard,Chhatarpur,2016-05-18,3825.0,2.5,45.2,clear
+225,Soyabean,Chhatarpur,2016-05-18,3527.0,4.4,45.2,clear
+226,Mustard,Chhatarpur,2016-05-19,3662.0,1.7,44.4,clear
+227,Soyabean,Badamalhera,2016-05-19,3250.0,18.9,44.4,clear
+228,Soyabean,Chhatarpur,2016-05-19,3505.0,17.0,44.4,clear
+229,Mustard,Chhatarpur,2016-05-20,3710.0,0.8,45.2,clear
+230,Soyabean,Chhatarpur,2016-05-20,3345.0,0.6,45.2,clear
+231,Mustard,Chhatarpur,2016-05-23,3860.0,3.9,42.6,clear
+232,Mustard,Chhatarpur,2016-05-24,3835.0,3.8,40.4,clear
+233,Soyabean,Chhatarpur,2016-05-24,3450.0,0.8,40.4,clear
+234,Mustard,Chhatarpur,2016-05-26,3882.0,1.3,41.2,clear
+235,Soyabean,Chhatarpur,2016-05-26,3497.0,2.0,41.2,clear
+236,Mustard,Chhatarpur,2016-05-27,3812.0,4.5,41.8,clear
+237,Soyabean,Chhatarpur,2016-05-27,3475.0,0.7,41.8,clear
+238,Mustard,Chhatarpur,2016-05-28,3650.0,3.3,41.6,clear
+239,Mustard,Chhatarpur,2016-05-30,3742.0,3.5,29.4,clear
+240,Mustard,LavKush Nagar(Laundi),2016-05-30,3593.0,4.0,29.4,clear
+241,Soyabean,Chhatarpur,2016-05-30,3470.0,2.7,29.4,clear
+242,Mustard,Chhatarpur,2016-05-31,3880.0,0.9,40.8,clear
+243,Mustard,LavKush Nagar(Laundi),2016-05-31,3628.0,10.5,40.8,clear
+244,Soyabean,Chhatarpur,2016-05-31,3470.0,28.5,40.8,clear
+245,Mustard,Chhatarpur,2016-01-06,3860.0,2.6,27.2,clear
+246,Soyabean,Chhatarpur,2016-01-06,3460.0,1.6,27.2,clear
+247,Mustard,Chhatarpur,2016-02-06,3768.0,3.2,26.0,clear
+248,Mustard,Chhatarpur,2016-04-06,3740.0,0.6,38.8,clear
+249,Soyabean,Badamalhera,2016-04-06,3300.0,,38.8,clear
+250,Soyabean,Chhatarpur,2016-04-06,3349.0,54.3,38.8,clear
+251,Mustard,Chhatarpur,2016-06-06,3600.0,0.3,42.4,clear
+252,Soyabean,Badamalhera,2016-06-06,3400.0,,42.4,clear
+253,Soyabean,Chhatarpur,2016-06-06,3300.0,3.8,42.4,clear
+254,Mustard,Chhatarpur,2016-07-06,3825.0,1.1,27.2,clear
+255,Soyabean,Chhatarpur,2016-07-06,3425.0,0.9,27.2,clear
+256,Mustard,Chhatarpur,2016-08-06,3850.0,1.1,32.2,clear
+257,Mustard,LavKush Nagar(Laundi),2016-08-06,3860.0,3.8,32.2,clear
+258,Soyabean,Badamalhera,2016-08-06,3300.0,,32.2,clear
+259,Soyabean,Chhatarpur,2016-08-06,3487.0,3.3,32.2,clear
+260,Mustard,Chhatarpur,2016-09-06,3830.0,0.6,31.8,clear
+261,Soyabean,Badamalhera,2016-09-06,3300.0,27.75,31.8,clear
+262,Soyabean,Chhatarpur,2016-09-06,3462.0,3.5,31.8,clear
+263,Mustard,Chhatarpur,2016-10-06,3842.0,2.2,30.8,clear
+264,Soyabean,Chhatarpur,2016-10-06,3488.0,7.2,30.8,clear
+265,Mustard,Chhatarpur,2016-06-13,3807.0,3.2,40.4,clear
+266,Mustard,Chhatarpur,2016-06-21,3807.0,5.0,35.4,clear
+267,Soyabean,Chhatarpur,2016-06-21,3417.0,7.5,35.4,clear
+268,Mustard,Chhatarpur,2016-06-22,3892.0,3.5,27.0,clear
+269,Mustard,Chhatarpur,2016-06-23,3838.0,2.2,33.4,clear
+270,Soyabean,Chhatarpur,2016-06-23,3305.0,0.7,33.4,clear
+271,Mustard,Chhatarpur,2016-06-27,3757.0,1.7,30.8,clear
+272,Mustard,Harpalpur,2016-06-27,3783.0,19.8,30.8,clear
+273,Soyabean,Chhatarpur,2016-06-27,3200.0,2.8,30.8,clear
+274,Mustard,Chhatarpur,2016-06-28,3827.0,1.2,36.2,clear
+275,Soyabean,Chhatarpur,2016-06-28,3267.0,3.9,36.2,clear
+276,Mustard,Chhatarpur,2016-06-30,3800.0,1.8,40.4,clear
+277,Soyabean,Chhatarpur,2016-06-30,3360.0,1.1,40.4,clear
+278,Mustard,Chhatarpur,2016-01-07,3800.0,3.5,28.2,clear
+279,Mustard,LavKush Nagar(Laundi),2016-01-07,3740.0,4.0,28.2,clear
+280,Mustard,Rajnagar,2016-01-07,3700.0,13.4,28.2,clear
+281,Soyabean,Chhatarpur,2016-01-07,3295.0,0.4,28.2,clear
+282,Mustard,Chhatarpur,2016-02-07,3760.0,1.3,28.8,clear
+283,Mustard,LavKush Nagar(Laundi),2016-02-07,3610.0,6.0,28.8,clear
+284,Soyabean,Badamalhera,2016-02-07,3300.0,18.0,28.8,clear
+285,Soyabean,Chhatarpur,2016-02-07,3400.0,3.0,28.8,clear
+286,Mustard,Chhatarpur,2016-05-07,4002.0,1.9,36.8,clear
+287,Soyabean,Badamalhera,2016-05-07,3400.0,,36.8,clear
+288,Soyabean,Chhatarpur,2016-05-07,3275.0,1.7,36.8,clear
+289,Mustard,Chhatarpur,2016-11-07,3995.0,0.4,30.8,clear
+290,Mustard,Harpalpur,2016-11-07,3995.0,39.9,30.8,clear
+291,Soyabean,Chhatarpur,2016-11-07,3292.0,1.8,30.8,clear
+292,Mustard,Chhatarpur,2016-12-07,4098.0,0.4,16.2,clear
+293,Soyabean,Chhatarpur,2016-12-07,3311.0,2.2,16.2,clear
+294,Mustard,Chhatarpur,2016-07-18,4137.0,2.0,27.2,clear
+295,Soyabean,Badamalhera,2016-07-18,3300.0,35.95,27.2,clear
+296,Soyabean,Chhatarpur,2016-07-18,3290.0,2.3,27.2,clear
+297,Mustard,Chhatarpur,2016-07-19,4150.0,0.5,32.0,clear
+298,Mustard,Chhatarpur,2016-07-20,4132.0,1.3,33.0,clear
+299,Mustard,Rajnagar,2016-07-20,3800.0,14.8,33.0,clear
+300,Soyabean,Chhatarpur,2016-07-20,3315.0,1.8,33.0,clear
+301,Mustard,Chhatarpur,2016-07-23,4155.0,0.7,31.0,clear
+302,Soyabean,Chhatarpur,2016-07-23,3175.0,3.3,31.0,clear
+303,Mustard,Chhatarpur,2016-07-25,4005.0,3.9,28.8,clear
+304,Mustard,Rajnagar,2016-07-25,4000.0,16.0,28.8,clear
+305,Soyabean,Chhatarpur,2016-07-25,3082.0,31.5,28.8,clear
+306,Mustard,Chhatarpur,2016-07-27,4127.0,3.7,28.4,clear
+307,Soyabean,Badamalhera,2016-07-27,3300.0,16.09,28.4,clear
+308,Soyabean,Chhatarpur,2016-07-27,3190.0,3.0,28.4,clear
+309,Mustard,Chhatarpur,2016-01-08,3925.0,0.7,26.4,clear
+310,Soyabean,Badamalhera,2016-01-08,3300.0,,26.4,clear
+311,Soyabean,Chhatarpur,2016-01-08,3235.0,1.5,26.4,clear
+312,Mustard,Chhatarpur,2016-03-08,4127.0,2.0,30.6,clear
+313,Mustard,Rajnagar,2016-03-08,4000.0,14.8,30.6,clear
+314,Soyabean,Chhatarpur,2016-03-08,3400.0,1.2,30.6,clear
+315,Mustard,Chhatarpur,2016-04-08,4200.0,0.9,38.4,clear
+316,Mustard,Rajnagar,2016-04-08,4000.0,16.0,38.4,clear
+317,Soyabean,Badamalhera,2016-04-08,3300.0,0.0,38.4,clear
+318,Soyabean,Chhatarpur,2016-04-08,3362.0,2.4,38.4,clear
+319,Mustard,Chhatarpur,2016-05-08,4195.0,1.5,40.0,clear
+320,Soyabean,Chhatarpur,2016-05-08,3195.0,1.0,40.0,clear
+321,Mustard,Chhatarpur,2016-08-08,4065.0,3.0,30.0,clear
+322,Mustard,Rajnagar,2016-08-08,4000.0,14.8,30.0,clear
+323,Soyabean,Badamalhera,2016-08-08,3300.0,25.5,30.0,clear
+324,Soyabean,Chhatarpur,2016-08-08,3315.0,1.5,30.0,clear
+325,Mustard,Chhatarpur,2016-09-08,4025.0,0.9,29.8,clear
+326,Soyabean,Chhatarpur,2016-09-08,3342.0,2.2,29.8,clear
+327,Mustard,Chhatarpur,2016-10-08,3972.0,20.5,30.2,clear
+328,Soyabean,Badamalhera,2016-10-08,3300.0,13.4,30.2,clear
+329,Soyabean,Chhatarpur,2016-10-08,3395.0,13.1,30.2,clear
+330,Mustard,Chhatarpur,2016-11-08,4010.0,0.9,27.0,clear
+331,Soyabean,Chhatarpur,2016-11-08,3255.0,1.1,27.0,clear
+332,Mustard,Chhatarpur,2016-08-13,3950.0,40.8,30.6,clear
+333,Mustard,Chhatarpur,2016-08-22,3900.0,0.4,29.0,clear
+334,Mustard,Harpalpur,2016-08-22,4201.0,20.0,29.0,clear
+335,Mustard,Chhatarpur,2016-08-26,3870.0,19.8,28.8,clear
+336,Mustard,Harpalpur,2016-08-26,3489.0,20.1,28.8,clear
+337,Mustard,Chhatarpur,2016-08-27,3880.0,20.0,30.8,clear
+338,Mustard,Harpalpur,2016-08-27,3958.0,15.8,30.8,clear
+339,Soyabean,Chhatarpur,2016-08-27,3135.0,1.2,30.8,clear
+340,Mustard,Chhatarpur,2016-08-09,3752.0,0.8,31.8,clear
+341,Mustard,Harpalpur,2016-08-09,4085.0,15.8,31.8,clear
+342,Mustard,LavKush Nagar(Laundi),2016-08-09,3720.0,4.5,31.8,clear
+343,Mustard,Chhatarpur,2016-09-09,3800.0,0.7,32.4,clear
+344,Mustard,Rajnagar,2016-09-09,4000.0,15.0,32.4,clear
+345,Mustard,Chhatarpur,2016-09-15,3940.0,1.2,31.2,clear
+346,Mustard,LavKush Nagar(Laundi),2016-09-15,3540.0,8.0,31.2,clear
+347,Mustard,Chhatarpur,2016-09-16,3709.0,2.0,33.6,clear
+348,Mustard,Rajnagar,2016-09-16,3900.0,15.0,33.6,clear
+349,Mustard,Chhatarpur,2016-09-17,3842.0,1.1,31.4,clear
+350,Mustard,Harpalpur,2016-09-17,3993.0,19.6,31.4,clear
+351,Mustard,Chhatarpur,2016-09-21,3862.0,20.0,28.4,clear
+352,Mustard,Chhatarpur,2016-09-22,3780.0,0.6,30.4,clear
+353,Mustard,Chhatarpur,2016-09-27,3215.0,0.9,31.4,clear
+354,Mustard,Chhatarpur,2016-09-28,3770.0,5.5,30.2,clear
+355,Mustard,Chhatarpur,2016-04-10,3737.0,20.0,39.8,clear
+356,Mustard,Harpalpur,2016-04-10,3730.0,19.8,39.8,clear
+357,Mustard,Chhatarpur,2016-05-10,3700.0,20.0,39.4,clear
+358,Mustard,Chhatarpur,2016-06-10,3790.0,21.5,34.4,clear
+359,Mustard,Chhatarpur,2016-08-10,3850.0,22.2,31.4,clear
+360,Mustard,LavKush Nagar(Laundi),2016-08-10,3610.0,5.6,31.4,clear
+361,Mustard,Rajnagar,2016-08-10,3800.0,51.5,31.4,clear
+362,Mustard,Chhatarpur,2016-10-10,3655.0,20.0,33.4,clear
+363,Mustard,Chhatarpur,2016-10-13,3660.0,20.0,32.8,clear
+364,Mustard,LavKush Nagar(Laundi),2016-10-13,3780.0,20.0,32.8,clear
+365,Mustard,Chhatarpur,2016-10-14,3675.0,42.5,32.2,clear
+366,Mustard,LavKush Nagar(Laundi),2016-10-14,3720.0,12.5,32.2,clear
+367,Mustard,Chhatarpur,2016-10-15,3685.0,20.7,33.2,clear
+368,Mustard,Chhatarpur,2016-10-18,3680.0,1.0,32.6,clear
+369,Mustard,Chhatarpur,2016-10-19,3677.0,12.6,32.4,clear
+370,Mustard,LavKush Nagar(Laundi),2016-10-19,3555.0,31.9,32.4,clear
+371,Mustard,Chhatarpur,2016-10-20,3600.0,2.5,32.0,clear
+372,Mustard,Harpalpur,2016-10-20,3700.0,20.1,32.0,clear
+373,Mustard,LavKush Nagar(Laundi),2016-10-20,3680.0,2.5,32.0,clear
+374,Mustard,Chhatarpur,2016-10-21,3680.0,20.0,33.6,clear
+375,Mustard,LavKush Nagar(Laundi),2016-10-21,3640.0,3.5,33.6,clear
+376,Mustard,Chhatarpur,2016-10-22,3555.0,23.3,32.8,clear
+377,Mustard,LavKush Nagar(Laundi),2016-10-22,3510.0,4.0,32.8,clear
+378,Mustard,Chhatarpur,2016-10-28,3607.0,20.0,30.4,clear
+379,Mustard,LavKush Nagar(Laundi),2016-10-28,3670.0,15.0,30.4,clear
+380,Soyabean,Chhatarpur,2016-10-28,2800.0,0.9,30.4,clear
+381,Mustard,Chhatarpur,2016-11-17,3900.0,2.0,27.6,clear
+382,Mustard,Chhatarpur,2016-11-22,3600.0,1.4,29.4,clear
+383,Mustard,Chhatarpur,2016-11-23,3550.0,5.7,29.2,clear
+384,Soyabean,Chhatarpur,2016-11-23,2790.0,1.7,29.2,clear
+385,Mustard,Chhatarpur,2016-11-24,3600.0,1.6,27.8,clear
+386,Soyabean,Chhatarpur,2016-11-24,2900.0,1.9,27.8,clear
+387,Mustard,Chhatarpur,2016-11-25,3650.0,1.3,28.0,clear
+388,Mustard,Chhatarpur,2016-11-26,3650.0,14.6,28.8,clear
+389,Mustard,Chhatarpur,2016-11-28,3700.0,14.0,27.8,clear
+390,Soyabean,Chhatarpur,2016-11-28,2850.0,2.0,27.8,clear
+391,Mustard,Chhatarpur,2016-02-12,3650.0,1.0,29.6,clear
+392,Mustard,LavKush Nagar(Laundi),2016-02-12,3678.0,10.8,29.6,clear
+393,Soyabean,Chhatarpur,2016-02-12,2900.0,6.3,29.6,clear
+394,Mustard,Chhatarpur,2016-05-12,3750.0,14.1,42.8,clear
+395,Soyabean,Chhatarpur,2016-05-12,2700.0,5.0,42.8,clear
+396,Mustard,Chhatarpur,2016-06-12,3700.0,24.4,36.4,clear
+397,Soyabean,Chhatarpur,2016-06-12,2700.0,0.3,36.4,clear
+398,Mustard,Chhatarpur,2016-08-12,3850.0,4.7,29.4,clear
+399,Mustard,LavKush Nagar(Laundi),2016-08-12,3630.0,7.2,29.4,clear
+400,Soyabean,Chhatarpur,2016-08-12,2750.0,0.3,29.4,clear
+401,Mustard,Chhatarpur,2016-09-12,3850.0,16.2,33.4,clear
+402,Mustard,LavKush Nagar(Laundi),2016-09-12,3655.0,16.9,33.4,clear
+403,Mustard,Chhatarpur,2016-10-12,3800.0,10.5,32.4,clear
+404,Mustard,Chhatarpur,2016-12-13,3800.0,16.2,25.6,clear
+405,Mustard,LavKush Nagar(Laundi),2016-12-13,3587.0,12.4,25.6,clear
+406,Soyabean,Badamalhera,2016-12-13,2800.0,20.0,25.6,clear
+407,Soyabean,Chhatarpur,2016-12-13,2700.0,2.4,25.6,clear
+408,Mustard,Chhatarpur,2016-12-15,3750.0,2.6,23.6,clear
+409,Mustard,Chhatarpur,2016-12-22,3750.0,0.4,24.6,clear
+410,Mustard,LavKush Nagar(Laundi),2016-12-22,3625.0,5.0,24.6,clear
+411,Soyabean,Chhatarpur,2016-12-22,2650.0,1.6,24.6,clear
+412,Mustard,Chhatarpur,2016-12-23,3400.0,6.2,22.6,clear
+413,Mustard,LavKush Nagar(Laundi),2016-12-23,3600.0,4.3,22.6,clear
+414,Mustard,Rajnagar,2016-12-23,3800.0,15.8,22.6,clear
+415,Soyabean,Badamalhera,2016-12-23,2800.0,3.6,22.6,clear
+416,Mustard,Chhatarpur,2016-12-26,3450.0,21.1,16.0,clear
+417,Mustard,LavKush Nagar(Laundi),2016-12-26,3350.0,8.8,16.0,clear
+418,Soyabean,Chhatarpur,2016-12-26,2600.0,1.2,16.0,clear
+419,Mustard,Chhatarpur,2016-12-28,3450.0,8.5,22.4,clear
+420,Soyabean,Badamalhera,2016-12-28,2800.0,3.4,22.4,clear
+421,Soyabean,Chhatarpur,2016-12-28,2650.0,0.9,22.4,clear
+422,Mustard,Harpalpur,2016-01-18,3700.0,20.0,18.2,clear
+423,Mustard,Rajnagar,2016-01-18,4100.0,16.0,18.2,clear
+424,Soyabean,Chhatarpur,2016-01-18,3155.0,1.1,18.2,clear
+425,Mustard,Harpalpur,2016-01-23,3700.0,20.0,23.0,clear
+426,Mustard,LavKush Nagar(Laundi),2016-01-23,3925.0,3.5,23.0,clear
+427,Soyabean,Badamalhera,2016-01-23,3100.0,23.76,23.0,clear
+428,Soyabean,Chhatarpur,2016-01-23,3400.0,6.9,23.0,clear
+429,Mustard,Harpalpur,2016-04-02,3400.0,19.8,40.8,clear
+430,Mustard,LavKush Nagar(Laundi),2016-04-02,3600.0,4.0,40.8,clear
+431,Soyabean,Badamalhera,2016-04-02,3200.0,,40.8,clear
+432,Soyabean,Chhatarpur,2016-04-02,3275.0,2.8,40.8,clear
+433,Mustard,Harpalpur,2016-11-02,3500.0,18.0,29.0,clear
+434,Mustard,Harpalpur,2016-02-15,3500.0,19.7,25.6,clear
+435,Soyabean,Chhatarpur,2016-02-15,3205.0,0.9,25.6,clear
+436,Mustard,Harpalpur,2016-02-03,3700.0,15.8,22.6,clear
+437,Mustard,Harpalpur,2016-06-07,3829.0,20.2,42.0,clear
+438,Soyabean,Badamalhera,2016-06-07,3375.0,19.82,42.0,clear
+439,Mustard,Harpalpur,2016-07-15,4138.0,15.7,27.0,clear
+440,Mustard,Harpalpur,2016-07-09,3364.0,20.1,31.4,clear
+441,Mustard,Harpalpur,2016-09-13,3792.0,15.8,30.0,clear
+442,Mustard,Rajnagar,2016-09-13,3900.0,15.6,30.0,clear
+443,Mustard,Harpalpur,2016-09-29,3500.0,20.1,27.8,clear
+444,Mustard,Rajnagar,2016-09-29,3800.0,16.0,27.8,clear
+445,Mustard,Harpalpur,2016-10-29,3850.0,15.8,30.2,clear
+446,Mustard,LavKush Nagar(Laundi),2016-10-29,3720.0,1.0,30.2,clear
+447,Mustard,Harpalpur,2016-04-11,3890.0,15.8,39.4,clear
+448,Mustard,LavKush Nagar(Laundi),2016-04-11,3655.0,8.0,39.4,clear
+449,Soyabean,Chhatarpur,2016-04-11,3035.0,2.5,39.4,clear
+450,Mustard,Harpalpur,2016-08-11,3850.0,19.8,31.0,clear
+451,Soyabean,Chhatarpur,2016-08-11,2850.0,1.8,31.0,clear
+452,Mustard,Harpalpur,2016-11-18,3792.0,15.8,27.8,clear
+453,Mustard,LavKush Nagar(Laundi),2016-12-01,3850.0,3.0,22.8,clear
+454,Soyabean,Chhatarpur,2016-12-01,3250.0,0.3,22.8,clear
+455,Mustard,LavKush Nagar(Laundi),2016-01-29,3675.0,7.0,28.0,clear
+456,Mustard,LavKush Nagar(Laundi),2016-01-02,3600.0,5.0,24.8,clear
+457,Soyabean,Badamalhera,2016-01-02,3200.0,,24.8,clear
+458,Mustard,LavKush Nagar(Laundi),2016-03-02,3600.0,10.0,31.6,clear
+459,Soyabean,Badamalhera,2016-03-02,3200.0,27.0,31.6,clear
+460,Soyabean,Chhatarpur,2016-03-02,3250.0,2.8,31.6,clear
+461,Mustard,LavKush Nagar(Laundi),2016-02-18,3500.0,17.5,29.2,clear
+462,Soyabean,Badamalhera,2016-02-18,3200.0,,29.2,clear
+463,Mustard,LavKush Nagar(Laundi),2016-02-19,3665.0,6.3,35.0,clear
+464,Mustard,Rajnagar,2016-02-19,3600.0,22.7,35.0,clear
+465,Soyabean,Badamalhera,2016-02-19,3150.0,27.7,35.0,clear
+466,Soyabean,Chhatarpur,2016-02-19,3337.0,4.2,35.0,clear
+467,Mustard,LavKush Nagar(Laundi),2016-02-20,3413.0,9.8,28.4,clear
+468,Soyabean,Badamalhera,2016-02-20,3200.0,4.07,28.4,clear
+469,Mustard,LavKush Nagar(Laundi),2016-02-29,3405.0,11.3,31.4,clear
+470,Soyabean,Chhatarpur,2016-02-29,3157.0,1.2,31.4,clear
+471,Mustard,LavKush Nagar(Laundi),2016-06-16,3805.0,13.0,32.4,clear
+472,Mustard,LavKush Nagar(Laundi),2016-06-17,3790.0,3.0,31.8,clear
+473,Soyabean,Chhatarpur,2016-06-17,3360.0,4.6,31.8,clear
+474,Mustard,LavKush Nagar(Laundi),2016-04-07,3580.0,6.8,35.8,clear
+475,Mustard,LavKush Nagar(Laundi),2016-07-21,3970.0,7.5,29.4,clear
+476,Soyabean,Chhatarpur,2016-07-21,3272.0,2.3,29.4,clear
+477,Mustard,LavKush Nagar(Laundi),2016-04-09,3610.0,10.0,39.4,clear
+478,Mustard,LavKush Nagar(Laundi),2016-06-09,3710.0,6.3,42.8,clear
+479,Mustard,Rajnagar,2016-06-09,4000.0,15.0,42.8,clear
+480,Mustard,LavKush Nagar(Laundi),2016-11-09,3740.0,15.0,27.0,clear
+481,Mustard,LavKush Nagar(Laundi),2016-09-20,3580.0,5.0,34.2,clear
+482,Mustard,LavKush Nagar(Laundi),2016-10-17,3610.0,7.0,32.6,clear
+483,Mustard,LavKush Nagar(Laundi),2016-10-25,3560.0,4.5,31.6,clear
+484,Soyabean,Chhatarpur,2016-10-25,2842.0,2.5,31.6,clear
+485,Mustard,LavKush Nagar(Laundi),2016-10-27,3695.0,15.9,30.2,clear
+486,Mustard,Rajnagar,2016-10-27,3900.0,25.0,30.2,clear
+487,Soyabean,Chhatarpur,2016-10-27,2940.0,1.0,30.2,clear
+488,Mustard,LavKush Nagar(Laundi),2016-03-11,3720.0,10.8,36.2,clear
+489,Soyabean,Chhatarpur,2016-03-11,2985.0,2.0,36.2,clear
+490,Mustard,LavKush Nagar(Laundi),2016-06-11,3720.0,47.5,36.8,clear
+491,Mustard,LavKush Nagar(Laundi),2016-07-11,3720.0,15.9,32.4,clear
+492,Soyabean,Chhatarpur,2016-07-11,2917.0,4.0,32.4,clear
+493,Mustard,LavKush Nagar(Laundi),2016-11-27,3645.0,1.0,27.0,clear
+494,Mustard,LavKush Nagar(Laundi),2016-01-12,3675.0,1.1,26.0,clear
+495,Soyabean,Badamalhera,2016-01-12,2800.0,20.6,26.0,clear
+496,Soyabean,Chhatarpur,2016-01-12,2825.0,0.8,26.0,clear
+497,Mustard,LavKush Nagar(Laundi),2016-07-12,3703.0,7.3,33.8,clear
+498,Soyabean,Badamalhera,2016-07-12,2800.0,,33.8,clear
+499,Mustard,LavKush Nagar(Laundi),2016-12-21,3450.0,0.5,25.4,clear
+500,Soyabean,Badamalhera,2016-12-21,2800.0,2.8,25.4,clear
+501,Soyabean,Chhatarpur,2016-12-21,2650.0,1.4,25.4,clear
+502,Mustard,LavKush Nagar(Laundi),2016-12-24,3500.0,3.3,26.2,clear
+503,Mustard,LavKush Nagar(Laundi),2016-12-29,3700.0,3.0,23.6,clear
+504,Soyabean,Badamalhera,2016-12-29,2800.0,3.6,23.6,clear
+505,Soyabean,Chhatarpur,2016-12-29,2550.0,2.0,23.6,clear
+506,Mustard,LavKush Nagar(Laundi),2016-12-31,3650.0,1.6,20.0,clear
+507,Soyabean,Badamalhera,2016-12-31,2800.0,20.7,20.0,clear
+508,Soyabean,Chhatarpur,2016-12-31,2650.0,0.3,20.0,clear
+509,Mustard,Rajnagar,2016-08-01,4100.0,15.0,29.6,clear
+510,Soyabean,Chhatarpur,2016-08-01,3299.0,1.6,29.6,clear
+511,Mustard,Rajnagar,2016-02-22,3700.0,20.0,28.2,clear
+512,Mustard,Rajnagar,2016-04-03,3700.0,15.8,41.8,clear
+513,Mustard,Rajnagar,2016-03-18,3500.0,15.9,34.8,clear
+514,Mustard,Rajnagar,2016-06-20,3650.0,19.7,39.4,clear
+515,Mustard,Rajnagar,2016-02-08,4000.0,22.5,23.4,clear
+516,Soyabean,Badamalhera,2016-02-08,3300.0,19.6,23.4,clear
+517,Soyabean,Chhatarpur,2016-02-08,3250.0,0.5,23.4,clear
+518,Mustard,Rajnagar,2016-12-08,3900.0,16.0,21.4,clear
+519,Mustard,Rajnagar,2016-08-28,3900.0,16.0,32.4,clear
+520,Mustard,Rajnagar,2016-08-29,3900.0,16.1,34.0,clear
+521,Mustard,Rajnagar,2016-08-30,3900.0,16.0,29.6,clear
+522,Mustard,Rajnagar,2016-01-09,6500.0,16.0,22.8,clear
+523,Mustard,Rajnagar,2016-10-16,3700.0,15.9,32.0,clear
+524,Mustard,Rajnagar,2016-11-19,3750.0,19.9,27.2,clear
+525,Soyabean,Badamalhera,2016-10-01,3100.0,,31.8,clear
+526,Soyabean,Badamalhera,2016-01-16,3100.0,24.66,20.2,clear
+527,Soyabean,Badamalhera,2016-01-19,3100.0,24.6,13.4,clear
+528,Soyabean,Badamalhera,2016-01-21,3100.0,,16.4,clear
+529,Soyabean,Badamalhera,2016-01-22,3100.0,,5.2,clear
+530,Soyabean,Chhatarpur,2016-01-22,3410.0,2.2,5.2,clear
+531,Soyabean,Badamalhera,2016-01-24,3200.0,30.51,24.8,clear
+532,Soyabean,Badamalhera,2016-01-27,3200.0,49.23,26.0,clear
+533,Soyabean,Badamalhera,2016-05-02,3200.0,24.5,44.0,clear
+534,Soyabean,Badamalhera,2016-06-02,3200.0,27.5,43.2,clear
+535,Soyabean,Badamalhera,2016-07-02,3200.0,0.0,30.8,clear
+536,Soyabean,Badamalhera,2016-10-02,3200.0,,31.6,clear
+537,Soyabean,Badamalhera,2016-02-17,3200.0,,26.2,clear
+538,Soyabean,Chhatarpur,2016-02-17,3270.0,0.9,26.2,clear
+539,Soyabean,Badamalhera,2016-02-21,3200.0,,27.6,clear
+540,Soyabean,Badamalhera,2016-02-24,3200.0,14.41,30.0,clear
+541,Soyabean,Chhatarpur,2016-02-24,3220.0,4.0,30.0,clear
+542,Soyabean,Badamalhera,2016-07-03,3200.0,21.7,28.8,clear
+543,Soyabean,Badamalhera,2016-03-19,3200.0,67.3,34.8,clear
+544,Soyabean,Badamalhera,2016-03-23,3200.0,25.2,34.6,clear
+545,Soyabean,Badamalhera,2016-04-19,3200.0,30.5,40.8,clear
+546,Soyabean,Badamalhera,2016-04-24,3200.0,24.6,39.2,clear
+547,Soyabean,Badamalhera,2016-04-26,3200.0,28.8,39.2,clear
+548,Soyabean,Chhatarpur,2016-04-26,3550.0,2.1,39.2,clear
+549,Soyabean,Badamalhera,2016-09-05,3500.0,,26.6,clear
+550,Soyabean,Badamalhera,2016-12-05,3500.0,58.1,24.6,clear
+551,Soyabean,Badamalhera,2016-05-25,3300.0,19.76,32.0,clear
+552,Soyabean,Badamalhera,2016-11-06,3300.0,3.0,28.6,clear
+553,Soyabean,Badamalhera,2016-07-29,3300.0,12.04,30.8,clear
+554,Soyabean,Badamalhera,2016-07-30,3300.0,,27.2,clear
+555,Soyabean,Badamalhera,2016-06-08,3300.0,14.3,36.4,clear
+556,Soyabean,Chhatarpur,2016-06-08,3325.0,0.5,36.4,clear
+557,Soyabean,Badamalhera,2016-08-15,3300.0,36.12,25.4,clear
+558,Soyabean,Badamalhera,2016-08-19,3300.0,17.01,25.6,clear
+559,Soyabean,Badamalhera,2016-07-10,3100.0,10.62,32.4,clear
+560,Soyabean,Badamalhera,2016-12-14,2700.0,2.5,25.6,clear
+561,Soyabean,Badamalhera,2016-12-17,2800.0,15.1,23.4,clear
+562,Soyabean,Chhatarpur,2016-12-17,2800.0,9.0,23.4,clear
+563,Soyabean,Badamalhera,2016-12-19,2800.0,4.6,21.6,clear
+564,Soyabean,Chhatarpur,2016-12-19,2650.0,0.2,21.6,clear
+565,Soyabean,Chhatarpur,2016-04-01,3327.0,3.8,38.8,clear
+566,Soyabean,Chhatarpur,2016-09-01,3005.0,0.6,30.8,clear
+567,Soyabean,Chhatarpur,2016-11-01,3250.0,0.3,28.8,clear
+568,Soyabean,Chhatarpur,2016-01-25,3345.0,2.8,24.8,clear
+569,Soyabean,Chhatarpur,2016-08-02,3422.0,12.0,29.0,clear
+570,Soyabean,Chhatarpur,2016-02-25,3340.0,0.7,30.8,clear
+571,Soyabean,Chhatarpur,2016-02-27,3200.0,3.5,30.0,clear
+572,Soyabean,Chhatarpur,2016-03-03,3155.0,0.9,34.4,clear
+573,Soyabean,Chhatarpur,2016-07-14,3327.0,2.7,30.0,clear
+574,Soyabean,Chhatarpur,2016-07-22,3270.0,3.0,28.6,clear
+575,Soyabean,Chhatarpur,2016-08-24,3150.0,0.5,32.4,clear
+576,Soyabean,Chhatarpur,2016-09-23,3025.0,0.2,31.2,clear
+577,Soyabean,Chhatarpur,2016-10-24,2812.0,2.7,28.8,clear
+578,Soyabean,Chhatarpur,2016-10-26,2860.0,3.4,32.6,clear
+579,Soyabean,Chhatarpur,2016-02-11,2937.0,2.5,29.0,clear
+580,Soyabean,Chhatarpur,2016-11-21,2917.0,1.3,29.2,clear
+581,Soyabean,Chhatarpur,2016-12-30,2600.0,1.3,20.0,clear
+582,Groundnut,Chhatarpur,2017-10-30,2750.0,0.8,30.0,clear
+583,Mustard,Badamalhera,2017-10-30,3200.0,1.0,30.0,clear
+584,Mustard,Harpalpur,2017-10-30,3205.0,0.4,30.0,clear
+585,Mustard,LavKush Nagar(Laundi),2017-10-30,3445.0,21.7,30.0,clear
+586,Soyabean,Badamalhera,2017-10-30,2400.0,21.8,30.0,clear
+587,Soyabean,Chhatarpur,2017-10-30,2450.0,4.1,30.0,clear
+588,Mustard,Badamalhera,2017-03-22,3100.0,19.6,21.2,clear
+589,Mustard,Chhatarpur,2017-03-22,3200.0,49.1,21.2,clear
+590,Mustard,LavKush Nagar(Laundi),2017-03-22,3250.0,52.8,21.2,clear
+591,Mustard,Badamalhera,2017-07-22,3150.0,19.6,28.4,clear
+592,Mustard,Chhatarpur,2017-07-22,3087.0,14.8,28.4,clear
+593,Mustard,LavKush Nagar(Laundi),2017-07-22,3315.0,17.9,28.4,clear
+594,Mustard,Rajnagar,2017-07-22,3200.0,0.0,28.4,clear
+595,Soyabean,Badamalhera,2017-07-22,2500.0,77.4,28.4,clear
+596,Soyabean,Chhatarpur,2017-07-22,2537.0,5.8,28.4,clear
+597,Mustard,Badamalhera,2017-07-26,3200.0,19.6,29.4,clear
+598,Mustard,LavKush Nagar(Laundi),2017-07-26,3310.0,10.5,29.4,clear
+599,Soyabean,Badamalhera,2017-07-26,2500.0,107.8,29.4,clear
+600,Mustard,Badamalhera,2017-03-08,3000.0,19.6,30.2,clear
+601,Mustard,LavKush Nagar(Laundi),2017-03-08,3275.0,37.7,30.2,clear
+602,Soyabean,Badamalhera,2017-03-08,2500.0,7.7,30.2,clear
+603,Mustard,Badamalhera,2017-08-23,3000.0,15.7,32.6,clear
+604,Mustard,Chhatarpur,2017-08-23,3415.0,11.7,32.6,clear
+605,Mustard,LavKush Nagar(Laundi),2017-08-23,3460.0,11.8,32.6,clear
+606,Soyabean,Chhatarpur,2017-08-23,2730.0,20.1,32.6,clear
+607,Mustard,Badamalhera,2017-08-25,3100.0,5.7,26.8,clear
+608,Mustard,LavKush Nagar(Laundi),2017-08-25,3428.0,35.7,26.8,clear
+609,Mustard,Badamalhera,2017-08-27,3100.0,19.8,27.0,clear
+610,Mustard,LavKush Nagar(Laundi),2017-08-27,3380.0,34.6,27.0,clear
+611,Soyabean,Badamalhera,2017-08-27,2500.0,24.9,27.0,clear
+612,Mustard,Badamalhera,2017-05-09,3100.0,15.7,41.4,clear
+613,Mustard,LavKush Nagar(Laundi),2017-05-09,3500.0,20.5,41.4,clear
+614,Mustard,Rajnagar,2017-05-09,3300.0,15.9,41.4,clear
+615,Soyabean,Badamalhera,2017-05-09,2500.0,25.2,41.4,clear
+616,Soyabean,Chhatarpur,2017-05-09,2722.0,9.8,41.4,clear
+617,Mustard,Badamalhera,2017-08-09,3000.0,62.3,30.4,clear
+618,Mustard,Chhatarpur,2017-08-09,3365.0,1.0,30.4,clear
+619,Mustard,LavKush Nagar(Laundi),2017-08-09,3543.0,34.5,30.4,clear
+620,Mustard,Rajnagar,2017-08-09,3300.0,16.0,30.4,clear
+621,Soyabean,Chhatarpur,2017-08-09,2760.0,23.1,30.4,clear
+622,Mustard,Badamalhera,2017-09-16,3400.0,20.8,33.8,clear
+623,Mustard,Rajnagar,2017-09-16,3300.0,16.0,33.8,clear
+624,Soyabean,Chhatarpur,2017-09-16,2828.0,3.3,33.8,clear
+625,Mustard,Badamalhera,2017-09-19,3400.0,7.0,30.4,clear
+626,Mustard,LavKush Nagar(Laundi),2017-09-19,3493.0,12.5,30.4,clear
+627,Mustard,Rajnagar,2017-09-19,3300.0,16.3,30.4,clear
+628,Mustard,Badamalhera,2017-10-26,3100.0,15.0,32.6,clear
+629,Mustard,LavKush Nagar(Laundi),2017-10-26,3493.0,8.4,32.6,clear
+630,Soyabean,Badamalhera,2017-10-26,2625.0,7.13,32.6,clear
+631,Soyabean,Chhatarpur,2017-10-26,2500.0,43.5,32.6,clear
+632,Mustard,Chhatarpur,2017-04-01,3250.0,5.7,40.4,clear
+633,Mustard,LavKush Nagar(Laundi),2017-04-01,3358.0,14.5,40.4,clear
+634,Soyabean,Badamalhera,2017-04-01,2800.0,14.7,40.4,clear
+635,Soyabean,Chhatarpur,2017-04-01,2775.0,3.6,40.4,clear
+636,Mustard,Chhatarpur,2017-06-01,3400.0,11.0,37.8,clear
+637,Mustard,Harpalpur,2017-06-01,3550.0,3.5,37.8,clear
+638,Soyabean,Badamalhera,2017-06-01,2800.0,5.5,37.8,clear
+639,Soyabean,Chhatarpur,2017-06-01,2650.0,1.4,37.8,clear
+640,Mustard,Chhatarpur,2017-07-01,3400.0,9.2,35.4,clear
+641,Mustard,Rajnagar,2017-07-01,3600.0,15.9,35.4,clear
+642,Soyabean,Badamalhera,2017-07-01,2800.0,15.1,35.4,clear
+643,Soyabean,Chhatarpur,2017-07-01,2750.0,3.9,35.4,clear
+644,Mustard,Chhatarpur,2017-10-01,3450.0,2.5,33.2,clear
+645,Mustard,LavKush Nagar(Laundi),2017-10-01,3350.0,3.6,33.2,clear
+646,Soyabean,Chhatarpur,2017-10-01,2650.0,3.1,33.2,clear
+647,Mustard,Chhatarpur,2017-11-01,3450.0,1.5,27.8,clear
+648,Mustard,LavKush Nagar(Laundi),2017-11-01,3463.0,15.3,27.8,clear
+649,Soyabean,Chhatarpur,2017-11-01,2650.0,1.3,27.8,clear
+650,Mustard,Chhatarpur,2017-01-16,3400.0,31.8,24.8,clear
+651,Mustard,Harpalpur,2017-01-16,3500.0,14.4,24.8,clear
+652,Mustard,LavKush Nagar(Laundi),2017-01-16,3395.0,5.5,24.8,clear
+653,Soyabean,Badamalhera,2017-01-16,2800.0,5.2,24.8,clear
+654,Mustard,Chhatarpur,2017-01-17,3200.0,5.7,19.2,clear
+655,Mustard,LavKush Nagar(Laundi),2017-01-17,3385.0,15.3,19.2,clear
+656,Soyabean,Chhatarpur,2017-01-17,2785.0,0.5,19.2,clear
+657,Mustard,Chhatarpur,2017-01-19,3450.0,3.5,7.8,clear
+658,Soyabean,Chhatarpur,2017-01-19,2800.0,18.4,7.8,clear
+659,Mustard,Chhatarpur,2017-01-20,3450.0,3.4,20.2,clear
+660,Mustard,Harpalpur,2017-01-20,3600.0,1.3,20.2,clear
+661,Soyabean,Chhatarpur,2017-01-20,2800.0,0.8,20.2,clear
+662,Mustard,Chhatarpur,2017-01-21,3300.0,20.5,22.4,clear
+663,Mustard,LavKush Nagar(Laundi),2017-01-21,3420.0,4.5,22.4,clear
+664,Soyabean,Chhatarpur,2017-01-21,2800.0,2.1,22.4,clear
+665,Mustard,Chhatarpur,2017-01-23,3200.0,16.0,16.6,clear
+666,Mustard,LavKush Nagar(Laundi),2017-01-23,3360.0,3.0,16.6,clear
+667,Soyabean,Chhatarpur,2017-01-23,2650.0,2.1,16.6,clear
+668,Mustard,Chhatarpur,2017-01-27,3000.0,0.3,20.8,clear
+669,Mustard,LavKush Nagar(Laundi),2017-01-27,3455.0,4.0,20.8,clear
+670,Soyabean,Badamalhera,2017-01-27,2800.0,25.7,20.8,clear
+671,Soyabean,Chhatarpur,2017-01-27,2700.0,2.4,20.8,clear
+672,Mustard,Chhatarpur,2017-03-02,2950.0,1.0,29.8,clear
+673,Mustard,LavKush Nagar(Laundi),2017-03-02,3398.0,7.2,29.8,clear
+674,Mustard,Rajnagar,2017-03-02,3500.0,15.0,29.8,clear
+675,Soyabean,Badamalhera,2017-03-02,2800.0,16.7,29.8,clear
+676,Soyabean,Chhatarpur,2017-03-02,2750.0,2.1,29.8,clear
+677,Mustard,Chhatarpur,2017-09-02,3100.0,20.2,32.6,clear
+678,Mustard,LavKush Nagar(Laundi),2017-09-02,3197.0,15.0,32.6,clear
+679,Soyabean,Badamalhera,2017-09-02,2800.0,17.8,32.6,clear
+680,Soyabean,Chhatarpur,2017-09-02,2750.0,3.9,32.6,clear
+681,Mustard,Chhatarpur,2017-11-02,3100.0,10.0,27.8,clear
+682,Mustard,LavKush Nagar(Laundi),2017-11-02,3350.0,3.0,27.8,clear
+683,Soyabean,Badamalhera,2017-11-02,2800.0,16.9,27.8,clear
+684,Mustard,Chhatarpur,2017-02-13,2900.0,0.5,24.8,clear
+685,Mustard,LavKush Nagar(Laundi),2017-02-13,3350.0,15.0,24.8,clear
+686,Soyabean,Chhatarpur,2017-02-13,2700.0,2.8,24.8,clear
+687,Mustard,Chhatarpur,2017-02-14,3150.0,30.3,26.0,clear
+688,Mustard,LavKush Nagar(Laundi),2017-02-14,3375.0,6.0,26.0,clear
+689,Soyabean,Chhatarpur,2017-02-14,2700.0,5.1,26.0,clear
+690,Mustard,Chhatarpur,2017-02-15,3100.0,27.0,26.4,clear
+691,Mustard,LavKush Nagar(Laundi),2017-02-15,3350.0,15.0,26.4,clear
+692,Soyabean,Chhatarpur,2017-02-15,2700.0,1.3,26.4,clear
+693,Soyabean,Rajnagar,2017-02-15,2700.0,15.0,26.4,clear
+694,Mustard,Chhatarpur,2017-02-16,2900.0,0.3,28.8,clear
+695,Mustard,LavKush Nagar(Laundi),2017-02-16,3350.0,12.5,28.8,clear
+696,Soyabean,Chhatarpur,2017-02-16,2770.0,12.1,28.8,clear
+697,Mustard,Chhatarpur,2017-02-18,3150.0,0.4,30.8,clear
+698,Soyabean,Chhatarpur,2017-02-18,2550.0,0.9,30.8,clear
+699,Mustard,Chhatarpur,2017-02-20,2600.0,0.4,31.8,clear
+700,Mustard,LavKush Nagar(Laundi),2017-02-20,3180.0,7.9,31.8,clear
+701,Soyabean,Chhatarpur,2017-02-20,2600.0,3.3,31.8,clear
+702,Mustard,Chhatarpur,2017-02-21,2975.0,0.7,29.4,clear
+703,Mustard,LavKush Nagar(Laundi),2017-02-21,3250.0,13.5,29.4,clear
+704,Soyabean,Chhatarpur,2017-02-21,2710.0,12.3,29.4,clear
+705,Mustard,Chhatarpur,2017-02-22,2948.0,0.9,28.0,clear
+706,Mustard,LavKush Nagar(Laundi),2017-02-22,3350.0,3.0,28.0,clear
+707,Soyabean,Chhatarpur,2017-02-22,2300.0,0.8,28.0,clear
+708,Mustard,Chhatarpur,2017-02-27,3150.0,23.1,29.8,clear
+709,Mustard,LavKush Nagar(Laundi),2017-02-27,3050.0,13.5,29.8,clear
+710,Soyabean,Chhatarpur,2017-02-27,2600.0,16.6,29.8,clear
+711,Mustard,Chhatarpur,2017-02-28,3150.0,12.5,32.6,clear
+712,Soyabean,Chhatarpur,2017-02-28,2550.0,1.5,32.6,clear
+713,Mustard,Chhatarpur,2017-01-03,3050.0,0.2,16.0,clear
+714,Mustard,LavKush Nagar(Laundi),2017-01-03,3050.0,13.2,16.0,clear
+715,Soyabean,Chhatarpur,2017-01-03,2600.0,0.5,16.0,clear
+716,Mustard,Chhatarpur,2017-03-03,3050.0,0.6,29.4,clear
+717,Mustard,LavKush Nagar(Laundi),2017-03-03,3050.0,11.4,29.4,clear
+718,Soyabean,Badamalhera,2017-03-03,2750.0,11.2,29.4,clear
+719,Soyabean,Chhatarpur,2017-03-03,2500.0,0.5,29.4,clear
+720,Mustard,Chhatarpur,2017-04-03,3065.0,10.5,40.8,clear
+721,Mustard,LavKush Nagar(Laundi),2017-04-03,3080.0,4.4,40.8,clear
+722,Soyabean,Badamalhera,2017-04-03,2750.0,16.8,40.8,clear
+723,Soyabean,Chhatarpur,2017-04-03,2622.0,2.6,40.8,clear
+724,Mustard,Chhatarpur,2017-06-03,3150.0,10.1,44.2,clear
+725,Mustard,LavKush Nagar(Laundi),2017-06-03,3110.0,7.5,44.2,clear
+726,Soyabean,Chhatarpur,2017-06-03,2527.0,1.7,44.2,clear
+727,Mustard,Chhatarpur,2017-07-03,3027.0,12.5,29.2,clear
+728,Soyabean,Chhatarpur,2017-07-03,2445.0,1.5,29.2,clear
+729,Mustard,Chhatarpur,2017-08-03,3150.0,11.7,30.4,clear
+730,Mustard,LavKush Nagar(Laundi),2017-08-03,3010.0,12.3,30.4,clear
+731,Soyabean,Badamalhera,2017-08-03,2700.0,17.0,30.4,clear
+732,Mustard,Chhatarpur,2017-09-03,3075.0,45.9,26.8,clear
+733,Mustard,LavKush Nagar(Laundi),2017-09-03,3063.0,10.6,26.8,clear
+734,Soyabean,Chhatarpur,2017-09-03,2527.0,6.6,26.8,clear
+735,Mustard,Chhatarpur,2017-10-03,3120.0,13.6,34.6,clear
+736,Soyabean,Chhatarpur,2017-10-03,2487.0,1.0,34.6,clear
+737,Mustard,Chhatarpur,2017-11-03,3143.0,26.0,28.6,clear
+738,Mustard,LavKush Nagar(Laundi),2017-11-03,3100.0,15.0,28.6,clear
+739,Mustard,Chhatarpur,2017-03-15,3125.0,31.1,30.0,clear
+740,Mustard,Harpalpur,2017-03-15,3100.0,5.0,30.0,clear
+741,Mustard,LavKush Nagar(Laundi),2017-03-15,3100.0,24.5,30.0,clear
+742,Soyabean,Badamalhera,2017-03-15,2700.0,17.8,30.0,clear
+743,Soyabean,Chhatarpur,2017-03-15,2575.0,1.0,30.0,clear
+744,Mustard,Chhatarpur,2017-03-16,3142.0,57.6,33.0,clear
+745,Mustard,Harpalpur,2017-03-16,3050.0,23.0,33.0,clear
+746,Mustard,LavKush Nagar(Laundi),2017-03-16,3150.0,58.5,33.0,clear
+747,Soyabean,Chhatarpur,2017-03-16,2575.0,0.5,33.0,clear
+748,Mustard,Chhatarpur,2017-03-17,3100.0,50.8,31.4,clear
+749,Mustard,LavKush Nagar(Laundi),2017-03-17,3120.0,21.0,31.4,clear
+750,Soyabean,Chhatarpur,2017-03-17,2582.0,2.6,31.4,clear
+751,Mustard,Chhatarpur,2017-03-18,3103.0,48.9,31.8,clear
+752,Mustard,LavKush Nagar(Laundi),2017-03-18,3250.0,5.4,31.8,clear
+753,Soyabean,Chhatarpur,2017-03-18,2625.0,1.1,31.8,clear
+754,Mustard,Chhatarpur,2017-03-20,3152.0,29.3,32.6,clear
+755,Mustard,Chhatarpur,2017-03-21,3175.0,22.1,34.6,clear
+756,Mustard,LavKush Nagar(Laundi),2017-03-21,3148.0,83.8,34.6,clear
+757,Soyabean,Chhatarpur,2017-03-21,2540.0,1.0,34.6,clear
+758,Mustard,Chhatarpur,2017-03-23,3160.0,39.5,36.6,clear
+759,Mustard,LavKush Nagar(Laundi),2017-03-23,3235.0,110.1,36.6,clear
+760,Mustard,Chhatarpur,2017-03-24,3235.0,23.6,37.0,clear
+761,Mustard,LavKush Nagar(Laundi),2017-03-24,3250.0,100.5,37.0,clear
+762,Mustard,Rajnagar,2017-03-24,3200.0,35.0,37.0,clear
+763,Soyabean,Chhatarpur,2017-03-24,2545.0,0.7,37.0,clear
+764,Soyabean,Rajnagar,2017-03-24,2550.0,25.0,37.0,clear
+765,Mustard,Chhatarpur,2017-03-25,3165.0,0.9,36.4,clear
+766,Soyabean,Chhatarpur,2017-03-25,7505.0,0.6,36.4,clear
+767,Mustard,Chhatarpur,2017-03-27,3300.0,4.0,37.6,clear
+768,Mustard,LavKush Nagar(Laundi),2017-03-27,3250.0,62.0,37.6,clear
+769,Mustard,Rajnagar,2017-03-27,3200.0,15.9,37.6,clear
+770,Mustard,Chhatarpur,2017-03-28,3240.0,7.9,39.4,clear
+771,Mustard,LavKush Nagar(Laundi),2017-03-28,3208.0,33.1,39.4,clear
+772,Mustard,Chhatarpur,2017-03-30,3245.0,10.0,40.4,clear
+773,Mustard,Chhatarpur,2017-01-04,3220.0,32.9,21.4,clear
+774,Mustard,LavKush Nagar(Laundi),2017-01-04,3050.0,34.5,21.4,clear
+775,Soyabean,Badamalhera,2017-01-04,2675.0,17.0,21.4,clear
+776,Soyabean,Chhatarpur,2017-01-04,2700.0,0.7,21.4,clear
+777,Mustard,Chhatarpur,2017-03-04,3267.0,30.5,28.4,clear
+778,Mustard,LavKush Nagar(Laundi),2017-03-04,3275.0,83.9,28.4,clear
+779,Soyabean,Badamalhera,2017-03-04,2700.0,25.9,28.4,clear
+780,Soyabean,Chhatarpur,2017-03-04,2585.0,4.0,28.4,clear
+781,Mustard,Chhatarpur,2017-04-04,3250.0,50.3,40.6,clear
+782,Mustard,LavKush Nagar(Laundi),2017-04-04,3210.0,95.0,40.6,clear
+783,Soyabean,Chhatarpur,2017-04-04,2705.0,14.4,40.6,clear
+784,Mustard,Chhatarpur,2017-06-04,3300.0,1.9,36.4,clear
+785,Mustard,LavKush Nagar(Laundi),2017-06-04,3285.0,93.7,36.4,clear
+786,Mustard,Rajnagar,2017-06-04,3350.0,37.0,36.4,clear
+787,Soyabean,Badamalhera,2017-06-04,2750.0,27.5,36.4,clear
+788,Mustard,Chhatarpur,2017-07-04,3202.0,14.2,32.6,clear
+789,Mustard,LavKush Nagar(Laundi),2017-07-04,3143.0,157.8,32.6,clear
+790,Soyabean,Badamalhera,2017-07-04,2750.0,7.8,32.6,clear
+791,Mustard,Chhatarpur,2017-08-04,3200.0,10.5,31.2,clear
+792,Mustard,LavKush Nagar(Laundi),2017-08-04,3205.0,74.7,31.2,clear
+793,Soyabean,Badamalhera,2017-08-04,2750.0,13.8,31.2,clear
+794,Soyabean,Chhatarpur,2017-08-04,2625.0,0.6,31.2,clear
+795,Mustard,Chhatarpur,2017-10-04,3225.0,14.9,33.0,clear
+796,Mustard,LavKush Nagar(Laundi),2017-10-04,3180.0,94.3,33.0,clear
+797,Mustard,Chhatarpur,2017-11-04,3185.0,8.5,29.0,clear
+798,Mustard,LavKush Nagar(Laundi),2017-11-04,3145.0,98.5,29.0,clear
+799,Mustard,Chhatarpur,2017-12-04,3152.0,11.4,23.8,clear
+800,Mustard,LavKush Nagar(Laundi),2017-12-04,3190.0,103.4,23.8,clear
+801,Mustard,Chhatarpur,2017-04-13,3115.0,1.4,41.2,clear
+802,Mustard,LavKush Nagar(Laundi),2017-04-13,3250.0,94.5,41.2,clear
+803,Soyabean,Badamalhera,2017-04-13,2700.0,17.8,41.2,clear
+804,Soyabean,Chhatarpur,2017-04-13,2390.0,5.7,41.2,clear
+805,Mustard,Chhatarpur,2017-04-15,3210.0,2.2,41.4,clear
+806,Mustard,LavKush Nagar(Laundi),2017-04-15,3290.0,64.5,41.4,clear
+807,Soyabean,Chhatarpur,2017-04-15,2600.0,0.6,41.4,clear
+808,Mustard,Chhatarpur,2017-04-17,3125.0,11.7,41.6,clear
+809,Mustard,LavKush Nagar(Laundi),2017-04-17,3250.0,57.6,41.6,clear
+810,Soyabean,Chhatarpur,2017-04-17,2575.0,8.7,41.6,clear
+811,Mustard,Chhatarpur,2017-04-18,3112.0,4.9,42.6,clear
+812,Mustard,LavKush Nagar(Laundi),2017-04-18,3080.0,56.4,42.6,clear
+813,Soyabean,Badamalhera,2017-04-18,2700.0,17.0,42.6,clear
+814,Mustard,Chhatarpur,2017-04-19,3070.0,5.1,43.4,clear
+815,Mustard,LavKush Nagar(Laundi),2017-04-19,3150.0,49.0,43.4,clear
+816,Mustard,Rajnagar,2017-04-19,3400.0,56.2,43.4,clear
+817,Soyabean,Badamalhera,2017-04-19,2700.0,96.3,43.4,clear
+818,Mustard,Chhatarpur,2017-04-20,3087.0,4.9,42.8,clear
+819,Mustard,LavKush Nagar(Laundi),2017-04-20,3210.0,65.5,42.8,clear
+820,Soyabean,Badamalhera,2017-04-20,2700.0,55.2,42.8,clear
+821,Soyabean,Chhatarpur,2017-04-20,2662.0,18.2,42.8,clear
+822,Mustard,Chhatarpur,2017-04-21,3087.0,10.9,43.6,clear
+823,Mustard,LavKush Nagar(Laundi),2017-04-21,3050.0,78.9,43.6,clear
+824,Soyabean,Badamalhera,2017-04-21,2700.0,17.0,43.6,clear
+825,Soyabean,Chhatarpur,2017-04-21,2425.0,3.8,43.6,clear
+826,Mustard,Chhatarpur,2017-04-22,3075.0,1.0,42.2,clear
+827,Mustard,LavKush Nagar(Laundi),2017-04-22,3160.0,82.5,42.2,clear
+828,Soyabean,Badamalhera,2017-04-22,2700.0,109.2,42.2,clear
+829,Mustard,Chhatarpur,2017-04-24,3067.0,14.0,40.2,clear
+830,Mustard,LavKush Nagar(Laundi),2017-04-24,3250.0,56.3,40.2,clear
+831,Soyabean,Badamalhera,2017-04-24,2700.0,44.8,40.2,clear
+832,Soyabean,Chhatarpur,2017-04-24,2575.0,1.7,40.2,clear
+833,Mustard,Chhatarpur,2017-04-25,3105.0,17.1,39.2,clear
+834,Mustard,LavKush Nagar(Laundi),2017-04-25,3120.0,68.5,39.2,clear
+835,Soyabean,Badamalhera,2017-04-25,2700.0,7.5,39.2,clear
+836,Soyabean,Chhatarpur,2017-04-25,2675.0,0.6,39.2,clear
+837,Mustard,Chhatarpur,2017-04-26,3058.0,9.6,39.4,clear
+838,Mustard,LavKush Nagar(Laundi),2017-04-26,3090.0,34.6,39.4,clear
+839,Soyabean,Badamalhera,2017-04-26,2700.0,38.1,39.4,clear
+840,Mustard,Chhatarpur,2017-04-27,3040.0,1.2,40.0,clear
+841,Mustard,LavKush Nagar(Laundi),2017-04-27,3050.0,15.3,40.0,clear
+842,Soyabean,Badamalhera,2017-04-27,2700.0,13.2,40.0,clear
+843,Mustard,Chhatarpur,2017-04-28,2980.0,0.7,40.0,clear
+844,Mustard,LavKush Nagar(Laundi),2017-04-28,3160.0,22.5,40.0,clear
+845,Soyabean,Badamalhera,2017-04-28,2700.0,4.6,40.0,clear
+846,Soyabean,Chhatarpur,2017-04-28,2645.0,10.8,40.0,clear
+847,Mustard,Chhatarpur,2017-05-05,2995.0,19.8,41.4,clear
+848,Mustard,LavKush Nagar(Laundi),2017-05-05,3085.0,34.8,41.4,clear
+849,Soyabean,Chhatarpur,2017-05-05,2565.0,14.4,41.4,clear
+850,Mustard,Chhatarpur,2017-09-05,3015.0,20.3,32.2,clear
+851,Mustard,LavKush Nagar(Laundi),2017-09-05,3250.0,44.5,32.2,clear
+852,Soyabean,Badamalhera,2017-09-05,2700.0,31.6,32.2,clear
+853,Soyabean,Chhatarpur,2017-09-05,2595.0,21.7,32.2,clear
+854,Mustard,Chhatarpur,2017-12-05,3060.0,16.2,22.6,clear
+855,Mustard,LavKush Nagar(Laundi),2017-12-05,3245.0,36.5,22.6,clear
+856,Mustard,Chhatarpur,2017-05-13,3055.0,20.4,42.4,clear
+857,Mustard,LavKush Nagar(Laundi),2017-05-13,3260.0,24.8,42.4,clear
+858,Mustard,Chhatarpur,2017-05-17,2980.0,20.0,37.0,clear
+859,Mustard,LavKush Nagar(Laundi),2017-05-17,3350.0,32.2,37.0,clear
+860,Soyabean,Chhatarpur,2017-05-17,2585.0,23.0,37.0,clear
+861,Mustard,Chhatarpur,2017-05-19,3072.0,9.0,37.4,clear
+862,Mustard,Chhatarpur,2017-05-20,3050.0,9.0,36.8,clear
+863,Soyabean,Chhatarpur,2017-05-20,2505.0,7.0,36.8,clear
+864,Mustard,Chhatarpur,2017-05-23,3075.0,6.1,40.8,clear
+865,Mustard,LavKush Nagar(Laundi),2017-05-23,3360.0,16.5,40.8,clear
+866,Mustard,Chhatarpur,2017-05-24,3545.0,39.5,42.8,clear
+867,Mustard,LavKush Nagar(Laundi),2017-05-24,3285.0,16.3,42.8,clear
+868,Soyabean,Badamalhera,2017-05-24,2700.0,15.8,42.8,clear
+869,Mustard,Chhatarpur,2017-05-25,3075.0,11.6,43.4,clear
+870,Mustard,LavKush Nagar(Laundi),2017-05-25,3250.0,18.5,43.4,clear
+871,Mustard,Chhatarpur,2017-05-26,3090.0,13.9,45.2,clear
+872,Mustard,LavKush Nagar(Laundi),2017-05-26,3165.0,15.6,45.2,clear
+873,Mustard,Chhatarpur,2017-05-31,3125.0,7.2,32.0,clear
+874,Mustard,LavKush Nagar(Laundi),2017-05-31,3215.0,36.4,32.0,clear
+875,Mustard,Chhatarpur,2017-01-06,3065.0,2.4,27.8,clear
+876,Mustard,Harpalpur,2017-01-06,3115.0,0.4,27.8,clear
+877,Mustard,LavKush Nagar(Laundi),2017-01-06,3165.0,24.9,27.8,clear
+878,Mustard,Chhatarpur,2017-02-06,3118.0,3.0,26.8,clear
+879,Mustard,Harpalpur,2017-02-06,3168.0,2.4,26.8,clear
+880,Mustard,Chhatarpur,2017-03-06,3108.0,22.3,29.4,clear
+881,Mustard,Harpalpur,2017-03-06,3150.0,5.1,29.4,clear
+882,Mustard,LavKush Nagar(Laundi),2017-03-06,3168.0,50.4,29.4,clear
+883,Mustard,Chhatarpur,2017-06-06,3103.0,15.4,35.4,clear
+884,Mustard,Harpalpur,2017-06-06,3170.0,3.3,35.4,clear
+885,Mustard,LavKush Nagar(Laundi),2017-06-06,3280.0,26.8,35.4,clear
+886,Mustard,Chhatarpur,2017-08-06,3112.0,34.0,27.8,clear
+887,Mustard,Harpalpur,2017-08-06,3185.0,3.1,27.8,clear
+888,Mustard,LavKush Nagar(Laundi),2017-08-06,3235.0,69.1,27.8,clear
+889,Soyabean,Badamalhera,2017-08-06,2400.0,25.3,27.8,clear
+890,Mustard,Chhatarpur,2017-09-06,3155.0,7.1,29.8,clear
+891,Mustard,Harpalpur,2017-09-06,3150.0,2.8,29.8,clear
+892,Mustard,Chhatarpur,2017-10-06,3137.0,5.0,34.0,clear
+893,Mustard,Harpalpur,2017-10-06,3200.0,19.5,34.0,clear
+894,Mustard,LavKush Nagar(Laundi),2017-10-06,3170.0,20.2,34.0,clear
+895,Soyabean,Badamalhera,2017-10-06,2500.0,51.7,34.0,clear
+896,Mustard,Chhatarpur,2017-12-06,3080.0,2.0,21.6,clear
+897,Mustard,Harpalpur,2017-12-06,3149.0,0.3,21.6,clear
+898,Mustard,LavKush Nagar(Laundi),2017-12-06,3265.0,109.1,21.6,clear
+899,Mustard,Chhatarpur,2017-06-13,3131.0,15.0,41.8,clear
+900,Mustard,LavKush Nagar(Laundi),2017-06-13,3260.0,8.6,41.8,clear
+901,Mustard,Chhatarpur,2017-06-14,3700.0,9.5,36.4,clear
+902,Mustard,LavKush Nagar(Laundi),2017-06-14,3235.0,31.6,36.4,clear
+903,Mustard,Chhatarpur,2017-06-15,3172.0,2.6,36.4,clear
+904,Mustard,LavKush Nagar(Laundi),2017-06-15,3175.0,61.3,36.4,clear
+905,Mustard,Chhatarpur,2017-06-16,3140.0,1.1,38.8,clear
+906,Mustard,LavKush Nagar(Laundi),2017-06-16,3250.0,28.2,38.8,clear
+907,Soyabean,Badamalhera,2017-06-16,2475.0,18.5,38.8,clear
+908,Mustard,Chhatarpur,2017-06-17,3447.0,10.1,32.6,clear
+909,Mustard,LavKush Nagar(Laundi),2017-06-17,3230.0,6.3,32.6,clear
+910,Soyabean,Badamalhera,2017-06-17,2550.0,3.3,32.6,clear
+911,Mustard,Chhatarpur,2017-06-19,3440.0,1.8,32.4,clear
+912,Mustard,LavKush Nagar(Laundi),2017-06-19,3230.0,22.4,32.4,clear
+913,Mustard,Chhatarpur,2017-06-20,3430.0,4.1,32.2,clear
+914,Mustard,LavKush Nagar(Laundi),2017-06-20,3200.0,42.1,32.2,clear
+915,Soyabean,Chhatarpur,2017-06-20,2670.0,2.5,32.2,clear
+916,Mustard,Chhatarpur,2017-06-21,3350.0,17.5,39.0,clear
+917,Mustard,LavKush Nagar(Laundi),2017-06-21,3200.0,45.4,39.0,clear
+918,Soyabean,Chhatarpur,2017-06-21,2645.0,4.4,39.0,clear
+919,Mustard,Chhatarpur,2017-06-24,3050.0,19.8,38.2,clear
+920,Mustard,Chhatarpur,2017-06-29,3400.0,4.8,34.6,clear
+921,Mustard,Harpalpur,2017-06-29,3123.0,0.8,34.6,clear
+922,Mustard,LavKush Nagar(Laundi),2017-06-29,3118.0,12.0,34.6,clear
+923,Mustard,Chhatarpur,2017-06-07,3250.0,23.0,32.0,clear
+924,Mustard,LavKush Nagar(Laundi),2017-06-07,3200.0,32.6,32.0,clear
+925,Soyabean,Chhatarpur,2017-06-07,2662.0,7.5,32.0,clear
+926,Soyabean,Rajnagar,2017-06-07,2300.0,21.0,32.0,clear
+927,Mustard,Chhatarpur,2017-07-07,3330.0,21.0,34.6,clear
+928,Mustard,LavKush Nagar(Laundi),2017-07-07,3250.0,32.2,34.6,clear
+929,Soyabean,Chhatarpur,2017-07-07,2662.0,9.2,34.6,clear
+930,Mustard,Chhatarpur,2017-12-07,3200.0,3.0,24.4,clear
+931,Mustard,LavKush Nagar(Laundi),2017-12-07,3200.0,37.9,24.4,clear
+932,Soyabean,Badamalhera,2017-12-07,2450.0,9.0,24.4,clear
+933,Mustard,Chhatarpur,2017-07-14,3225.0,1.2,31.6,clear
+934,Mustard,LavKush Nagar(Laundi),2017-07-14,3250.0,53.6,31.6,clear
+935,Mustard,Rajnagar,2017-07-14,3150.0,15.9,31.6,clear
+936,Soyabean,Badamalhera,2017-07-14,2550.0,46.8,31.6,clear
+937,Soyabean,Chhatarpur,2017-07-14,2603.0,2.5,31.6,clear
+938,Mustard,Chhatarpur,2017-07-15,3300.0,1.6,32.0,clear
+939,Soyabean,Rajnagar,2017-07-15,2200.0,15.3,32.0,clear
+940,Mustard,Chhatarpur,2017-07-17,3262.0,10.9,29.8,clear
+941,Mustard,LavKush Nagar(Laundi),2017-07-17,3260.0,49.3,29.8,clear
+942,Mustard,Rajnagar,2017-07-17,3200.0,15.0,29.8,clear
+943,Soyabean,Badamalhera,2017-07-17,2450.0,8.5,29.8,clear
+944,Soyabean,Chhatarpur,2017-07-17,2637.0,23.1,29.8,clear
+945,Mustard,Chhatarpur,2017-07-19,3107.0,43.7,29.8,clear
+946,Mustard,LavKush Nagar(Laundi),2017-07-19,3370.0,72.3,29.8,clear
+947,Soyabean,Badamalhera,2017-07-19,2450.0,9.4,29.8,clear
+948,Soyabean,Chhatarpur,2017-07-19,2562.0,24.7,29.8,clear
+949,Mustard,Chhatarpur,2017-07-20,3245.0,2.4,28.4,clear
+950,Mustard,LavKush Nagar(Laundi),2017-07-20,3373.0,58.3,28.4,clear
+951,Soyabean,Badamalhera,2017-07-20,2450.0,31.3,28.4,clear
+952,Soyabean,Chhatarpur,2017-07-20,2579.0,34.4,28.4,clear
+953,Mustard,Chhatarpur,2017-07-24,3165.0,9.8,30.0,clear
+954,Mustard,LavKush Nagar(Laundi),2017-07-24,3293.0,36.8,30.0,clear
+955,Soyabean,Badamalhera,2017-07-24,2550.0,48.7,30.0,clear
+956,Soyabean,Chhatarpur,2017-07-24,2625.0,10.5,30.0,clear
+957,Mustard,Chhatarpur,2017-07-25,3187.0,8.1,30.0,clear
+958,Mustard,LavKush Nagar(Laundi),2017-07-25,3263.0,37.4,30.0,clear
+959,Mustard,Chhatarpur,2017-07-27,3270.0,1.1,26.0,clear
+960,Mustard,LavKush Nagar(Laundi),2017-07-27,3313.0,33.2,26.0,clear
+961,Soyabean,Badamalhera,2017-07-27,2500.0,19.8,26.0,clear
+962,Mustard,Chhatarpur,2017-07-28,3212.0,31.3,32.2,clear
+963,Mustard,LavKush Nagar(Laundi),2017-07-28,3295.0,73.6,32.2,clear
+964,Soyabean,Chhatarpur,2017-07-28,2570.0,21.4,32.2,clear
+965,Mustard,Chhatarpur,2017-07-29,3212.0,11.7,30.4,clear
+966,Mustard,LavKush Nagar(Laundi),2017-07-29,3265.0,75.8,30.4,clear
+967,Soyabean,Badamalhera,2017-07-29,2500.0,75.6,30.4,clear
+968,Soyabean,Chhatarpur,2017-07-29,2527.0,16.8,30.4,clear
+969,Mustard,Chhatarpur,2017-09-08,3200.0,1.5,34.8,clear
+970,Mustard,LavKush Nagar(Laundi),2017-09-08,3250.0,20.8,34.8,clear
+971,Soyabean,Chhatarpur,2017-09-08,2625.0,38.1,34.8,clear
+972,Mustard,Chhatarpur,2017-10-08,3275.0,5.6,33.4,clear
+973,Mustard,LavKush Nagar(Laundi),2017-10-08,3305.0,40.5,33.4,clear
+974,Soyabean,Chhatarpur,2017-10-08,2667.0,8.7,33.4,clear
+975,Mustard,Chhatarpur,2017-11-08,3250.0,14.8,28.8,clear
+976,Mustard,LavKush Nagar(Laundi),2017-11-08,3375.0,28.3,28.8,clear
+977,Mustard,Chhatarpur,2017-12-08,3267.0,23.5,25.4,clear
+978,Mustard,Harpalpur,2017-12-08,3170.0,6.0,25.4,clear
+979,Mustard,LavKush Nagar(Laundi),2017-12-08,3405.0,18.9,25.4,clear
+980,Soyabean,Badamalhera,2017-12-08,2500.0,31.1,25.4,clear
+981,Soyabean,Chhatarpur,2017-12-08,2662.0,7.2,25.4,clear
+982,Soyabean,Rajnagar,2017-12-08,2500.0,31.7,25.4,clear
+983,Mustard,Chhatarpur,2017-08-14,3285.0,8.3,30.4,clear
+984,Mustard,LavKush Nagar(Laundi),2017-08-14,3310.0,26.5,30.4,clear
+985,Soyabean,Chhatarpur,2017-08-14,2710.0,5.5,30.4,clear
+986,Mustard,Chhatarpur,2017-08-16,3250.0,1.5,31.4,clear
+987,Soyabean,Badamalhera,2017-08-16,2550.0,27.1,31.4,clear
+988,Mustard,Chhatarpur,2017-08-17,3332.0,2.1,28.2,clear
+989,Soyabean,Badamalhera,2017-08-17,2550.0,15.5,28.2,clear
+990,Soyabean,Chhatarpur,2017-08-17,2732.0,1.7,28.2,clear
+991,Mustard,Chhatarpur,2017-08-19,3280.0,44.1,32.4,clear
+992,Mustard,LavKush Nagar(Laundi),2017-08-19,3445.0,45.3,32.4,clear
+993,Soyabean,Chhatarpur,2017-08-19,2780.0,9.0,32.4,clear
+994,Mustard,Chhatarpur,2017-08-21,3425.0,0.7,32.0,clear
+995,Mustard,LavKush Nagar(Laundi),2017-08-21,3445.0,15.8,32.0,clear
+996,Soyabean,Badamalhera,2017-08-21,2550.0,25.9,32.0,clear
+997,Soyabean,Chhatarpur,2017-08-21,2715.0,21.2,32.0,clear
+998,Mustard,Chhatarpur,2017-08-22,3487.0,5.0,33.0,clear
+999,Mustard,Harpalpur,2017-08-22,3380.0,3.5,33.0,clear
+1000,Mustard,LavKush Nagar(Laundi),2017-08-22,3425.0,6.0,33.0,clear
+1001,Soyabean,Badamalhera,2017-08-22,2550.0,25.6,33.0,clear
+1002,Soyabean,Chhatarpur,2017-08-22,2762.0,45.0,33.0,clear
+1003,Mustard,Chhatarpur,2017-08-24,3450.0,13.5,27.2,clear
+1004,Mustard,Harpalpur,2017-08-24,3511.0,0.8,27.2,clear
+1005,Mustard,LavKush Nagar(Laundi),2017-08-24,3358.0,36.8,27.2,clear
+1006,Soyabean,Badamalhera,2017-08-24,2500.0,40.9,27.2,clear
+1007,Soyabean,Chhatarpur,2017-08-24,2877.0,51.7,27.2,clear
+1008,Mustard,Chhatarpur,2017-08-26,3450.0,38.1,28.4,clear
+1009,Mustard,Harpalpur,2017-08-26,3220.0,12.5,28.4,clear
+1010,Mustard,LavKush Nagar(Laundi),2017-08-26,3595.0,18.8,28.4,clear
+1011,Soyabean,Chhatarpur,2017-08-26,2855.0,14.9,28.4,clear
+1012,Mustard,Chhatarpur,2017-08-28,3512.0,2.9,29.2,clear
+1013,Mustard,LavKush Nagar(Laundi),2017-08-28,3350.0,28.0,29.2,clear
+1014,Soyabean,Badamalhera,2017-08-28,2500.0,52.5,29.2,clear
+1015,Soyabean,Chhatarpur,2017-08-28,2862.0,28.2,29.2,clear
+1016,Mustard,Chhatarpur,2017-08-29,3495.0,2.5,28.6,clear
+1017,Mustard,Harpalpur,2017-08-29,3150.0,4.2,28.6,clear
+1018,Mustard,LavKush Nagar(Laundi),2017-08-29,3400.0,6.0,28.6,clear
+1019,Soyabean,Badamalhera,2017-08-29,2500.0,25.9,28.6,clear
+1020,Soyabean,Chhatarpur,2017-08-29,2875.0,0.7,28.6,clear
+1021,Mustard,Chhatarpur,2017-08-31,3418.0,6.5,32.4,clear
+1022,Mustard,Harpalpur,2017-08-31,3500.0,3.3,32.4,clear
+1023,Mustard,LavKush Nagar(Laundi),2017-08-31,3538.0,9.0,32.4,clear
+1024,Soyabean,Badamalhera,2017-08-31,2500.0,25.6,32.4,clear
+1025,Soyabean,Chhatarpur,2017-08-31,2803.0,4.0,32.4,clear
+1026,Mustard,Chhatarpur,2017-01-09,3335.0,3.6,19.6,clear
+1027,Mustard,Rajnagar,2017-01-09,3300.0,15.4,19.6,clear
+1028,Soyabean,Chhatarpur,2017-01-09,2825.0,20.9,19.6,clear
+1029,Mustard,Chhatarpur,2017-07-09,3427.0,4.7,29.8,clear
+1030,Mustard,Harpalpur,2017-07-09,3470.0,0.7,29.8,clear
+1031,Mustard,LavKush Nagar(Laundi),2017-07-09,3540.0,35.0,29.8,clear
+1032,Soyabean,Chhatarpur,2017-07-09,2727.0,27.7,29.8,clear
+1033,Soyabean,Rajnagar,2017-07-09,2500.0,14.8,29.8,clear
+1034,Mustard,Chhatarpur,2017-09-09,3412.0,23.0,35.8,clear
+1035,Mustard,LavKush Nagar(Laundi),2017-09-09,3500.0,20.8,35.8,clear
+1036,Soyabean,Chhatarpur,2017-09-09,2840.0,14.3,35.8,clear
+1037,Mustard,Chhatarpur,2017-11-09,3382.0,19.2,18.0,clear
+1038,Mustard,LavKush Nagar(Laundi),2017-11-09,3480.0,29.5,18.0,clear
+1039,Soyabean,Rajnagar,2017-11-09,2600.0,16.0,18.0,clear
+1040,Mustard,Chhatarpur,2017-12-09,3160.0,13.0,26.4,clear
+1041,Soyabean,Badamalhera,2017-12-09,2500.0,50.0,26.4,clear
+1042,Soyabean,Chhatarpur,2017-12-09,2857.0,27.4,26.4,clear
+1043,Mustard,Chhatarpur,2017-09-14,3440.0,20.5,27.8,clear
+1044,Mustard,LavKush Nagar(Laundi),2017-09-14,3425.0,9.4,27.8,clear
+1045,Mustard,Chhatarpur,2017-09-15,3362.0,4.9,33.4,clear
+1046,Mustard,Harpalpur,2017-09-15,3500.0,0.6,33.4,clear
+1047,Mustard,LavKush Nagar(Laundi),2017-09-15,3458.0,30.4,33.4,clear
+1048,Soyabean,Badamalhera,2017-09-15,2500.0,25.9,33.4,clear
+1049,Soyabean,Chhatarpur,2017-09-15,2787.0,16.5,33.4,clear
+1050,Mustard,Chhatarpur,2017-09-18,3395.0,1.9,26.8,clear
+1051,Mustard,LavKush Nagar(Laundi),2017-09-18,3508.0,15.0,26.8,clear
+1052,Soyabean,Badamalhera,2017-09-18,2500.0,25.9,26.8,clear
+1053,Soyabean,Chhatarpur,2017-09-18,2765.0,0.5,26.8,clear
+1054,Mustard,Chhatarpur,2017-09-20,3300.0,1.1,30.0,clear
+1055,Mustard,Harpalpur,2017-09-20,3510.0,0.9,30.0,clear
+1056,Mustard,LavKush Nagar(Laundi),2017-09-20,3553.0,17.0,30.0,clear
+1057,Soyabean,Chhatarpur,2017-09-20,2775.0,0.3,30.0,clear
+1058,Mustard,Chhatarpur,2017-09-25,3390.0,2.9,33.4,clear
+1059,Mustard,LavKush Nagar(Laundi),2017-09-25,3480.0,18.5,33.4,clear
+1060,Soyabean,Chhatarpur,2017-09-25,2755.0,1.3,33.4,clear
+1061,Mustard,Chhatarpur,2017-09-27,3275.0,7.0,28.4,clear
+1062,Mustard,LavKush Nagar(Laundi),2017-09-27,3485.0,32.5,28.4,clear
+1063,Soyabean,Chhatarpur,2017-09-27,2735.0,60.8,28.4,clear
+1064,Mustard,Chhatarpur,2017-03-10,3410.0,2.5,23.2,clear
+1065,Mustard,Harpalpur,2017-03-10,3160.0,0.1,23.2,clear
+1066,Mustard,LavKush Nagar(Laundi),2017-03-10,3465.0,25.5,23.2,clear
+1067,Soyabean,Badamalhera,2017-03-10,2550.0,25.9,23.2,clear
+1068,Soyabean,Chhatarpur,2017-03-10,2715.0,0.8,23.2,clear
+1069,Mustard,Chhatarpur,2017-04-10,3362.0,22.7,34.6,clear
+1070,Mustard,Harpalpur,2017-04-10,3320.0,2.5,34.6,clear
+1071,Mustard,LavKush Nagar(Laundi),2017-04-10,3480.0,23.6,34.6,clear
+1072,Soyabean,Chhatarpur,2017-04-10,2685.0,2.5,34.6,clear
+1073,Mustard,Chhatarpur,2017-05-10,3325.0,2.0,42.6,clear
+1074,Mustard,Harpalpur,2017-05-10,3150.0,0.2,42.6,clear
+1075,Mustard,LavKush Nagar(Laundi),2017-05-10,3410.0,18.7,42.6,clear
+1076,Mustard,Rajnagar,2017-05-10,3350.0,16.0,42.6,clear
+1077,Mustard,Chhatarpur,2017-06-10,3325.0,2.0,35.4,clear
+1078,Mustard,Harpalpur,2017-06-10,3225.0,8.4,35.4,clear
+1079,Mustard,LavKush Nagar(Laundi),2017-06-10,3345.0,23.8,35.4,clear
+1080,Soyabean,Badamalhera,2017-06-10,2600.0,25.9,35.4,clear
+1081,Soyabean,Chhatarpur,2017-06-10,2562.0,6.4,35.4,clear
+1082,Mustard,Chhatarpur,2017-10-10,3345.0,45.3,33.0,clear
+1083,Mustard,Harpalpur,2017-10-10,3100.0,1.2,33.0,clear
+1084,Mustard,LavKush Nagar(Laundi),2017-10-10,3395.0,16.0,33.0,clear
+1085,Soyabean,Chhatarpur,2017-10-10,2457.0,19.8,33.0,clear
+1086,Mustard,Chhatarpur,2017-11-10,3235.0,8.6,27.0,clear
+1087,Mustard,Harpalpur,2017-11-10,3120.0,6.6,27.0,clear
+1088,Mustard,LavKush Nagar(Laundi),2017-11-10,3340.0,13.6,27.0,clear
+1089,Mustard,Rajnagar,2017-11-10,3400.0,36.5,27.0,clear
+1090,Soyabean,Badamalhera,2017-11-10,2600.0,20.8,27.0,clear
+1091,Soyabean,Chhatarpur,2017-11-10,2457.0,24.2,27.0,clear
+1092,Mustard,Chhatarpur,2017-12-10,3250.0,2.2,23.4,clear
+1093,Mustard,LavKush Nagar(Laundi),2017-12-10,3315.0,23.3,23.4,clear
+1094,Soyabean,Chhatarpur,2017-12-10,2425.0,31.3,23.4,clear
+1095,Soyabean,Rajnagar,2017-12-10,2500.0,15.7,23.4,clear
+1096,Mustard,Chhatarpur,2017-10-24,3250.0,1.2,33.4,clear
+1097,Mustard,Harpalpur,2017-10-24,3050.0,15.1,33.4,clear
+1098,Mustard,LavKush Nagar(Laundi),2017-10-24,3308.0,37.5,33.4,clear
+1099,Soyabean,Badamalhera,2017-10-24,2600.0,4.8,33.4,clear
+1100,Soyabean,Chhatarpur,2017-10-24,2550.0,10.2,33.4,clear
+1101,Mustard,Chhatarpur,2017-10-27,3250.0,12.4,32.4,clear
+1102,Mustard,LavKush Nagar(Laundi),2017-10-27,3513.0,1.8,32.4,clear
+1103,Mustard,Rajnagar,2017-10-27,3350.0,42.0,32.4,clear
+1104,Soyabean,Badamalhera,2017-10-27,2550.0,16.32,32.4,clear
+1105,Soyabean,Chhatarpur,2017-10-27,2475.0,15.8,32.4,clear
+1106,Soyabean,LavKush Nagar(Laundi),2017-10-27,2150.0,1.0,32.4,clear
+1107,Soyabean,Rajnagar,2017-10-27,2400.0,16.6,32.4,clear
+1108,Mustard,Chhatarpur,2017-10-28,3250.0,30.0,31.8,clear
+1109,Mustard,Harpalpur,2017-10-28,3300.0,0.2,31.8,clear
+1110,Mustard,LavKush Nagar(Laundi),2017-10-28,3450.0,10.1,31.8,clear
+1111,Mustard,Rajnagar,2017-10-28,3400.0,21.0,31.8,clear
+1112,Soyabean,Badamalhera,2017-10-28,2701.0,10.42,31.8,clear
+1113,Soyabean,Chhatarpur,2017-10-28,2450.0,3.6,31.8,clear
+1114,Soyabean,Rajnagar,2017-10-28,2400.0,1.5,31.8,clear
+1115,Mustard,Chhatarpur,2017-10-31,3250.0,20.5,30.0,clear
+1116,Mustard,Harpalpur,2017-10-31,3200.0,0.1,30.0,clear
+1117,Soyabean,Badamalhera,2017-10-31,2240.0,23.1,30.0,clear
+1118,Soyabean,Chhatarpur,2017-10-31,2400.0,6.0,30.0,clear
+1119,Soyabean,Rajnagar,2017-10-31,2400.0,17.3,30.0,clear
+1120,Mustard,Chhatarpur,2017-02-11,3250.0,2.5,22.4,clear
+1121,Mustard,Rajnagar,2017-02-11,3200.0,37.0,22.4,clear
+1122,Soyabean,Chhatarpur,2017-02-11,2425.0,13.8,22.4,clear
+1123,Soyabean,Rajnagar,2017-02-11,2430.0,17.3,22.4,clear
+1124,Mustard,Chhatarpur,2017-03-11,3250.0,20.5,27.4,clear
+1125,Soyabean,Chhatarpur,2017-03-11,2425.0,2.1,27.4,clear
+1126,Mustard,Harpalpur,2017-02-01,3600.0,1.4,24.4,clear
+1127,Mustard,LavKush Nagar(Laundi),2017-02-01,3378.0,5.5,24.4,clear
+1128,Soyabean,Badamalhera,2017-02-01,2800.0,3.2,24.4,clear
+1129,Mustard,Harpalpur,2017-01-30,3400.0,20.5,25.0,clear
+1130,Mustard,Rajnagar,2017-01-30,3400.0,38.0,25.0,clear
+1131,Soyabean,Badamalhera,2017-01-30,2800.0,9.8,25.0,clear
+1132,Soyabean,Chhatarpur,2017-01-30,2650.0,7.2,25.0,clear
+1133,Mustard,Harpalpur,2017-07-06,3185.0,3.1,35.8,clear
+1134,Mustard,LavKush Nagar(Laundi),2017-07-06,3350.0,52.6,35.8,clear
+1135,Mustard,Rajnagar,2017-07-06,3150.0,15.9,35.8,clear
+1136,Mustard,Harpalpur,2017-06-26,3175.0,2.2,40.4,clear
+1137,Mustard,Harpalpur,2017-06-27,3121.0,2.1,38.6,clear
+1138,Mustard,LavKush Nagar(Laundi),2017-06-27,3175.0,36.6,38.6,clear
+1139,Mustard,Harpalpur,2017-04-09,3456.0,1.8,36.0,clear
+1140,Soyabean,Badamalhera,2017-04-09,2500.0,25.6,36.0,clear
+1141,Mustard,Harpalpur,2017-09-23,3175.0,0.1,32.4,clear
+1142,Mustard,LavKush Nagar(Laundi),2017-09-23,3460.0,22.5,32.4,clear
+1143,Mustard,Rajnagar,2017-09-23,3320.0,19.1,32.4,clear
+1144,Soyabean,Chhatarpur,2017-09-23,2725.0,2.3,32.4,clear
+1145,Mustard,Harpalpur,2017-07-10,3180.0,1.5,27.8,clear
+1146,Mustard,Rajnagar,2017-07-10,3300.0,16.0,27.8,clear
+1147,Soyabean,Badamalhera,2017-07-10,2600.0,25.9,27.8,clear
+1148,Soyabean,Chhatarpur,2017-07-10,2515.0,2.8,27.8,clear
+1149,Mustard,Harpalpur,2017-09-10,3000.0,6.0,30.4,clear
+1150,Mustard,LavKush Nagar(Laundi),2017-09-10,3385.0,17.0,30.4,clear
+1151,Mustard,Rajnagar,2017-09-10,3400.0,21.0,30.4,clear
+1152,Soyabean,Chhatarpur,2017-09-10,2515.0,30.6,30.4,clear
+1153,Mustard,Harpalpur,2017-10-13,3315.0,1.2,33.4,clear
+1154,Mustard,LavKush Nagar(Laundi),2017-10-13,3385.0,26.8,33.4,clear
+1155,Soyabean,Badamalhera,2017-10-13,2600.0,40.6,33.4,clear
+1156,Soyabean,Chhatarpur,2017-10-13,2547.0,16.5,33.4,clear
+1157,Mustard,Harpalpur,2017-10-14,3000.0,7.3,34.4,clear
+1158,Mustard,LavKush Nagar(Laundi),2017-10-14,3355.0,25.5,34.4,clear
+1159,Soyabean,Badamalhera,2017-10-14,2600.0,20.1,34.4,clear
+1160,Soyabean,Chhatarpur,2017-10-14,2475.0,23.7,34.4,clear
+1161,Mustard,Harpalpur,2017-10-16,3250.0,2.3,34.4,clear
+1162,Soyabean,Badamalhera,2017-10-16,2600.0,22.2,34.4,clear
+1163,Soyabean,Chhatarpur,2017-10-16,2450.0,1.0,34.4,clear
+1164,Mustard,LavKush Nagar(Laundi),2017-03-01,3390.0,4.5,33.6,clear
+1165,Soyabean,Badamalhera,2017-03-01,2800.0,9.0,33.6,clear
+1166,Soyabean,Chhatarpur,2017-03-01,2650.0,0.8,33.6,clear
+1167,Mustard,LavKush Nagar(Laundi),2017-12-01,3413.0,10.8,24.4,clear
+1168,Soyabean,Chhatarpur,2017-12-01,2700.0,1.2,24.4,clear
+1169,Mustard,LavKush Nagar(Laundi),2017-01-13,3403.0,1.8,17.6,clear
+1170,Soyabean,Badamalhera,2017-01-13,2800.0,4.9,17.6,clear
+1171,Mustard,LavKush Nagar(Laundi),2017-01-18,3408.0,6.8,19.8,clear
+1172,Mustard,Rajnagar,2017-01-18,3500.0,15.9,19.8,clear
+1173,Soyabean,Chhatarpur,2017-01-18,2775.0,2.8,19.8,clear
+1174,Mustard,LavKush Nagar(Laundi),2017-01-24,3405.0,3.8,27.0,clear
+1175,Soyabean,Chhatarpur,2017-01-24,2700.0,3.1,27.0,clear
+1176,Mustard,LavKush Nagar(Laundi),2017-01-25,3375.0,5.0,27.8,clear
+1177,Soyabean,Chhatarpur,2017-01-25,2750.0,4.4,27.8,clear
+1178,Mustard,LavKush Nagar(Laundi),2017-01-28,3410.0,6.8,22.0,clear
+1179,Mustard,Rajnagar,2017-01-28,3300.0,15.8,22.0,clear
+1180,Soyabean,Chhatarpur,2017-01-28,2750.0,3.1,22.0,clear
+1181,Mustard,LavKush Nagar(Laundi),2017-01-02,3303.0,19.0,14.2,clear
+1182,Mustard,Rajnagar,2017-01-02,3480.0,54.0,14.2,clear
+1183,Soyabean,Badamalhera,2017-01-02,2800.0,3.4,14.2,clear
+1184,Soyabean,Chhatarpur,2017-01-02,2750.0,1.6,14.2,clear
+1185,Mustard,LavKush Nagar(Laundi),2017-02-02,3360.0,6.0,25.0,clear
+1186,Mustard,Rajnagar,2017-02-02,3300.0,14.9,25.0,clear
+1187,Soyabean,Chhatarpur,2017-02-02,2750.0,3.3,25.0,clear
+1188,Mustard,LavKush Nagar(Laundi),2017-04-02,3300.0,14.6,40.8,clear
+1189,Soyabean,Badamalhera,2017-04-02,2800.0,9.9,40.8,clear
+1190,Soyabean,Chhatarpur,2017-04-02,2750.0,19.3,40.8,clear
+1191,Mustard,LavKush Nagar(Laundi),2017-06-02,3340.0,1.9,41.4,clear
+1192,Mustard,Rajnagar,2017-06-02,3400.0,16.0,41.4,clear
+1193,Soyabean,Badamalhera,2017-06-02,2800.0,13.5,41.4,clear
+1194,Soyabean,Chhatarpur,2017-06-02,2710.0,5.7,41.4,clear
+1195,Mustard,LavKush Nagar(Laundi),2017-07-02,3355.0,4.6,32.6,clear
+1196,Soyabean,Chhatarpur,2017-07-02,2750.0,3.4,32.6,clear
+1197,Mustard,LavKush Nagar(Laundi),2017-08-02,3355.0,7.4,27.6,clear
+1198,Soyabean,Badamalhera,2017-08-02,2800.0,4.2,27.6,clear
+1199,Soyabean,Chhatarpur,2017-08-02,2700.0,8.3,27.6,clear
+1200,Mustard,LavKush Nagar(Laundi),2017-02-17,3280.0,3.0,30.0,clear
+1201,Soyabean,Chhatarpur,2017-02-17,2750.0,1.6,30.0,clear
+1202,Mustard,LavKush Nagar(Laundi),2017-02-23,3275.0,32.0,27.6,clear
+1203,Mustard,LavKush Nagar(Laundi),2017-02-24,3303.0,9.3,27.6,clear
+1204,Mustard,LavKush Nagar(Laundi),2017-02-25,3290.0,0.8,28.8,clear
+1205,Mustard,LavKush Nagar(Laundi),2017-02-03,3050.0,19.8,25.2,clear
+1206,Soyabean,Chhatarpur,2017-02-03,2550.0,0.4,25.2,clear
+1207,Mustard,LavKush Nagar(Laundi),2017-05-04,3205.0,7.4,41.0,clear
+1208,Mustard,LavKush Nagar(Laundi),2017-04-29,3090.0,28.6,41.8,clear
+1209,Soyabean,Badamalhera,2017-04-29,2700.0,27.5,41.8,clear
+1210,Mustard,LavKush Nagar(Laundi),2017-01-05,3125.0,54.6,25.2,clear
+1211,Soyabean,Chhatarpur,2017-01-05,2620.0,0.6,25.2,clear
+1212,Mustard,LavKush Nagar(Laundi),2017-02-05,3140.0,23.4,30.4,clear
+1213,Soyabean,Badamalhera,2017-02-05,2700.0,14.6,30.4,clear
+1214,Soyabean,Chhatarpur,2017-02-05,2662.0,18.3,30.4,clear
+1215,Mustard,LavKush Nagar(Laundi),2017-03-05,3155.0,26.5,28.8,clear
+1216,Soyabean,Chhatarpur,2017-03-05,2577.0,2.2,28.8,clear
+1217,Mustard,LavKush Nagar(Laundi),2017-04-05,3150.0,18.8,40.4,clear
+1218,Mustard,LavKush Nagar(Laundi),2017-06-05,3075.0,24.5,40.0,clear
+1219,Mustard,LavKush Nagar(Laundi),2017-08-05,3250.0,32.5,31.4,clear
+1220,Mustard,LavKush Nagar(Laundi),2017-11-05,3300.0,25.0,29.4,clear
+1221,Mustard,LavKush Nagar(Laundi),2017-05-14,3260.0,16.6,44.6,clear
+1222,Mustard,LavKush Nagar(Laundi),2017-05-15,3350.0,23.8,44.2,clear
+1223,Mustard,LavKush Nagar(Laundi),2017-05-16,3350.0,32.2,42.8,clear
+1224,Soyabean,Badamalhera,2017-05-16,2700.0,17.7,42.8,clear
+1225,Mustard,LavKush Nagar(Laundi),2017-05-18,3350.0,23.5,33.6,clear
+1226,Mustard,LavKush Nagar(Laundi),2017-05-21,3350.0,31.5,36.8,clear
+1227,Mustard,LavKush Nagar(Laundi),2017-05-22,3280.0,16.0,40.8,clear
+1228,Soyabean,Chhatarpur,2017-05-22,2520.0,6.8,40.8,clear
+1229,Mustard,LavKush Nagar(Laundi),2017-05-27,3240.0,24.0,42.0,clear
+1230,Mustard,LavKush Nagar(Laundi),2017-05-28,3245.0,13.5,40.2,clear
+1231,Mustard,LavKush Nagar(Laundi),2017-05-29,3185.0,43.5,35.6,clear
+1232,Mustard,LavKush Nagar(Laundi),2017-05-30,3195.0,33.6,37.2,clear
+1233,Mustard,LavKush Nagar(Laundi),2017-05-06,3198.0,33.4,43.6,clear
+1234,Mustard,LavKush Nagar(Laundi),2017-06-22,3195.0,42.1,36.8,clear
+1235,Soyabean,Badamalhera,2017-06-22,2500.0,20.6,36.8,clear
+1236,Mustard,LavKush Nagar(Laundi),2017-06-23,3170.0,35.3,38.8,clear
+1237,Soyabean,Chhatarpur,2017-06-23,2640.0,15.1,38.8,clear
+1238,Mustard,LavKush Nagar(Laundi),2017-06-28,3145.0,11.5,29.6,clear
+1239,Soyabean,Badamalhera,2017-06-28,2450.0,25.9,29.6,clear
+1240,Mustard,LavKush Nagar(Laundi),2017-01-07,3145.0,12.5,23.4,clear
+1241,Mustard,LavKush Nagar(Laundi),2017-04-07,3250.0,32.1,38.0,clear
+1242,Soyabean,Chhatarpur,2017-04-07,2675.0,0.9,38.0,clear
+1243,Mustard,LavKush Nagar(Laundi),2017-05-07,3260.0,15.6,44.6,clear
+1244,Soyabean,Chhatarpur,2017-05-07,2665.0,3.0,44.6,clear
+1245,Mustard,LavKush Nagar(Laundi),2017-10-07,3208.0,8.4,35.0,clear
+1246,Soyabean,Chhatarpur,2017-10-07,2675.0,10.0,35.0,clear
+1247,Mustard,LavKush Nagar(Laundi),2017-11-07,3168.0,48.6,28.4,clear
+1248,Soyabean,Chhatarpur,2017-11-07,2400.0,1.0,28.4,clear
+1249,Mustard,LavKush Nagar(Laundi),2017-07-13,3178.0,30.5,27.4,clear
+1250,Soyabean,Chhatarpur,2017-07-13,2675.0,12.0,27.4,clear
+1251,Mustard,LavKush Nagar(Laundi),2017-07-18,3250.0,113.8,32.2,clear
+1252,Soyabean,Badamalhera,2017-07-18,2450.0,18.9,32.2,clear
+1253,Soyabean,Chhatarpur,2017-07-18,2540.0,0.9,32.2,clear
+1254,Mustard,LavKush Nagar(Laundi),2017-07-21,3300.0,25.4,29.4,clear
+1255,Soyabean,Chhatarpur,2017-07-21,2637.0,47.6,29.4,clear
+1256,Mustard,LavKush Nagar(Laundi),2017-07-23,3350.0,8.8,27.8,clear
+1257,Soyabean,Badamalhera,2017-07-23,2550.0,40.3,27.8,clear
+1258,Mustard,LavKush Nagar(Laundi),2017-07-30,3340.0,39.5,31.0,clear
+1259,Mustard,LavKush Nagar(Laundi),2017-07-31,3418.0,34.1,32.4,clear
+1260,Mustard,LavKush Nagar(Laundi),2017-01-08,3350.0,35.4,20.4,clear
+1261,Mustard,Rajnagar,2017-01-08,3200.0,20.9,20.4,clear
+1262,Mustard,LavKush Nagar(Laundi),2017-02-08,3360.0,4.0,24.8,clear
+1263,Soyabean,Badamalhera,2017-02-08,2500.0,37.7,24.8,clear
+1264,Mustard,LavKush Nagar(Laundi),2017-04-08,3250.0,8.2,28.8,clear
+1265,Soyabean,Badamalhera,2017-04-08,2500.0,36.6,28.8,clear
+1266,Mustard,LavKush Nagar(Laundi),2017-05-08,3250.0,21.0,43.4,clear
+1267,Mustard,LavKush Nagar(Laundi),2017-08-08,3375.0,33.7,31.0,clear
+1268,Mustard,LavKush Nagar(Laundi),2017-08-13,3350.0,16.5,30.8,clear
+1269,Soyabean,Badamalhera,2017-08-13,2550.0,28.0,30.8,clear
+1270,Mustard,LavKush Nagar(Laundi),2017-08-20,3460.0,16.0,32.2,clear
+1271,Soyabean,Badamalhera,2017-08-20,2500.0,25.9,32.2,clear
+1272,Mustard,LavKush Nagar(Laundi),2017-08-30,3615.0,2.0,28.8,clear
+1273,Soyabean,Chhatarpur,2017-08-30,2852.0,26.6,28.8,clear
+1274,Mustard,LavKush Nagar(Laundi),2017-06-09,3513.0,32.5,39.4,clear
+1275,Soyabean,Badamalhera,2017-06-09,2500.0,24.9,39.4,clear
+1276,Soyabean,Chhatarpur,2017-06-09,2697.0,15.9,39.4,clear
+1277,Mustard,LavKush Nagar(Laundi),2017-10-09,3490.0,17.7,33.4,clear
+1278,Mustard,LavKush Nagar(Laundi),2017-09-17,3633.0,13.7,33.6,clear
+1279,Mustard,LavKush Nagar(Laundi),2017-09-21,3500.0,30.5,27.0,clear
+1280,Soyabean,Badamalhera,2017-09-21,2500.0,25.9,27.0,clear
+1281,Mustard,LavKush Nagar(Laundi),2017-09-22,3510.0,35.6,25.8,clear
+1282,Mustard,Rajnagar,2017-09-22,3300.0,16.0,25.8,clear
+1283,Mustard,LavKush Nagar(Laundi),2017-09-24,3495.0,16.5,33.0,clear
+1284,Soyabean,Badamalhera,2017-09-24,2600.0,25.9,33.0,clear
+1285,Mustard,LavKush Nagar(Laundi),2017-09-26,3465.0,13.5,34.0,clear
+1286,Soyabean,Badamalhera,2017-09-26,2600.0,25.6,34.0,clear
+1287,Soyabean,Chhatarpur,2017-09-26,2720.0,22.4,34.0,clear
+1288,Mustard,LavKush Nagar(Laundi),2017-09-28,3455.0,31.9,33.4,clear
+1289,Mustard,LavKush Nagar(Laundi),2017-02-10,3570.0,4.8,23.4,clear
+1290,Mustard,LavKush Nagar(Laundi),2017-10-15,3335.0,17.5,35.4,clear
+1291,Mustard,LavKush Nagar(Laundi),2017-10-25,3415.0,3.5,34.4,clear
+1292,Soyabean,Badamalhera,2017-10-25,2550.0,12.4,34.4,clear
+1293,Soyabean,Chhatarpur,2017-10-25,2550.0,3.3,34.4,clear
+1294,Soyabean,Rajnagar,2017-10-25,2400.0,1.0,34.4,clear
+1295,Mustard,Rajnagar,2017-05-01,3600.0,15.9,38.2,clear
+1296,Mustard,Rajnagar,2017-10-02,3400.0,15.0,35.4,clear
+1297,Mustard,Rajnagar,2017-03-29,3350.0,25.0,40.2,clear
+1298,Mustard,Rajnagar,2017-07-16,3100.0,159.0,29.8,clear
+1299,Mustard,Rajnagar,2017-09-13,3400.0,20.9,29.4,clear
+1300,Mustard,Rajnagar,2017-01-10,3400.0,16.0,19.8,clear
+1301,Soyabean,Badamalhera,2017-01-10,2600.0,25.9,19.8,clear
+1302,Mustard,Rajnagar,2017-01-11,3200.0,21.0,18.0,clear
+1303,Soyabean,Badamalhera,2017-01-11,2300.0,15.91,18.0,clear
+1304,Soyabean,Chhatarpur,2017-01-11,2425.0,19.2,18.0,clear
+1305,Soyabean,Rajnagar,2017-01-11,2400.0,16.3,18.0,clear
+1306,Soyabean,Badamalhera,2017-09-01,2800.0,3.1,32.0,clear
+1307,Soyabean,Chhatarpur,2017-09-01,2775.0,8.7,32.0,clear
+1308,Soyabean,Badamalhera,2017-04-14,2700.0,11.8,41.8,clear
+1309,Soyabean,Badamalhera,2017-04-16,2700.0,46.7,41.4,clear
+1310,Soyabean,Badamalhera,2017-04-23,2700.0,16.8,40.8,clear
+1311,Soyabean,Badamalhera,2017-04-30,2700.0,35.8,38.8,clear
+1312,Soyabean,Badamalhera,2017-10-05,2700.0,49.6,33.0,clear
+1313,Soyabean,Badamalhera,2017-11-06,2600.0,45.8,29.0,clear
+1314,Soyabean,Badamalhera,2017-08-07,2500.0,41.3,31.4,clear
+1315,Soyabean,Chhatarpur,2017-08-07,2637.0,27.7,31.4,clear
+1316,Soyabean,Badamalhera,2017-08-15,2500.0,25.9,31.4,clear
+1317,Soyabean,Badamalhera,2017-08-18,2550.0,35.9,30.4,clear
+1318,Soyabean,Chhatarpur,2017-08-18,2775.0,0.5,30.4,clear
+1319,Soyabean,Badamalhera,2017-02-09,2500.0,25.6,25.4,clear
+1320,Soyabean,Badamalhera,2017-09-30,2600.0,25.9,33.4,clear
+1321,Soyabean,Badamalhera,2017-08-10,2600.0,25.9,28.0,clear
+1322,Soyabean,Badamalhera,2017-10-17,2600.0,0.4,33.8,clear
+1323,Soyabean,Chhatarpur,2017-10-17,2450.0,3.0,33.8,clear
+1324,Soyabean,Badamalhera,2017-10-18,2500.0,0.5,33.8,clear
+1325,Soyabean,Badamalhera,2017-10-21,2600.0,9.3,34.8,clear
+1326,Soyabean,Badamalhera,2017-10-23,2550.0,19.9,34.8,clear
+1327,Soyabean,Chhatarpur,2017-10-23,2600.0,5.7,34.8,clear
+1328,Soyabean,Chhatarpur,2017-01-31,2775.0,2.8,11.0,clear
+1329,Soyabean,Chhatarpur,2017-03-07,2575.0,1.1,31.6,clear

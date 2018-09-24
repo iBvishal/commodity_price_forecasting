@@ -1,0 +1,2279 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Arhar (Tur/Red Gram),Dhenkanal,2014-07-24,6200.0,1.96,41.8,clear
+1,Arhar (Tur/Red Gram),Mottagaon,2014-07-24,6500.0,0.14,41.8,clear
+2,Black Gram (Urd Beans),Dhenkanal,2014-07-24,4500.0,0.48,41.8,clear
+3,Black Gram (Urd Beans),Mottagaon,2014-07-24,4200.0,0.37,41.8,clear
+4,Green Gram (Moong),Dhenkanal,2014-07-24,6500.0,0.22,41.8,clear
+5,Green Gram (Moong),Mottagaon,2014-07-24,6500.0,0.17,41.8,clear
+6,Black Gram (Urd Beans),Dhenkanal,2015-12-08,4350.0,0.34,24.6,clear
+7,Black Gram (Urd Beans),Mottagaon,2015-12-08,4350.0,0.41,24.6,clear
+8,Green Gram (Moong),Dhenkanal,2015-12-08,4600.0,0.3,24.6,clear
+9,Green Gram (Moong),Mottagaon,2015-12-08,4600.0,0.33,24.6,clear
+10,Black Gram (Urd Beans),Dhenkanal,2015-12-09,4425.0,0.33,24.0,clear
+11,Black Gram (Urd Beans),Mottagaon,2015-12-09,4425.0,0.3,24.0,clear
+12,Green Gram (Moong),Dhenkanal,2015-12-09,4650.0,0.33,24.0,clear
+13,Black Gram (Urd Beans),Dhenkanal,2015-12-10,4425.0,0.3,24.4,clear
+14,Black Gram (Urd Beans),Mottagaon,2015-12-10,4425.0,0.3,24.4,clear
+15,Green Gram (Moong),Dhenkanal,2015-12-10,4650.0,0.29,24.4,clear
+16,Green Gram (Moong),Mottagaon,2015-12-10,4650.0,0.27,24.4,clear
+17,Black Gram (Urd Beans),Dhenkanal,2015-12-11,4425.0,0.33,25.4,clear
+18,Black Gram (Urd Beans),Mottagaon,2015-12-11,4425.0,0.35,25.4,clear
+19,Green Gram (Moong),Dhenkanal,2015-12-11,4650.0,0.22,25.4,clear
+20,Green Gram (Moong),Mottagaon,2015-12-11,4650.0,0.26,25.4,clear
+21,Black Gram (Urd Beans),Dhenkanal,2015-12-12,4425.0,0.41,28.4,clear
+22,Black Gram (Urd Beans),Mottagaon,2015-12-12,4425.0,0.3,28.4,clear
+23,Green Gram (Moong),Dhenkanal,2015-12-12,4650.0,0.22,28.4,clear
+24,Green Gram (Moong),Mottagaon,2015-12-12,4650.0,0.2,28.4,clear
+25,Black Gram (Urd Beans),Dhenkanal,2015-12-13,4425.0,0.39,26.6,clear
+26,Black Gram (Urd Beans),Mottagaon,2015-12-13,4425.0,0.25,26.6,clear
+27,Green Gram (Moong),Dhenkanal,2015-12-13,4650.0,0.26,26.6,clear
+28,Green Gram (Moong),Mottagaon,2015-12-13,4650.0,0.19,26.6,clear
+29,Black Gram (Urd Beans),Dhenkanal,2015-12-14,4425.0,0.36,27.0,clear
+30,Black Gram (Urd Beans),Mottagaon,2015-12-14,4425.0,0.3,27.0,clear
+31,Green Gram (Moong),Dhenkanal,2015-12-14,4650.0,0.26,27.0,clear
+32,Black Gram (Urd Beans),Dhenkanal,2015-12-15,4425.0,0.36,23.0,clear
+33,Green Gram (Moong),Dhenkanal,2015-12-15,4650.0,0.32,23.0,clear
+34,Black Gram (Urd Beans),Dhenkanal,2015-12-19,4425.0,0.43,22.4,clear
+35,Black Gram (Urd Beans),Mottagaon,2015-12-19,4425.0,0.32,22.4,clear
+36,Green Gram (Moong),Dhenkanal,2015-12-19,4650.0,0.31,22.4,clear
+37,Green Gram (Moong),Mottagaon,2015-12-19,4650.0,0.22,22.4,clear
+38,Black Gram (Urd Beans),Dhenkanal,2015-12-20,4425.0,0.46,19.0,clear
+39,Black Gram (Urd Beans),Mottagaon,2015-12-20,4425.0,0.3,19.0,clear
+40,Green Gram (Moong),Dhenkanal,2015-12-20,4650.0,0.32,19.0,clear
+41,Green Gram (Moong),Mottagaon,2015-12-20,4650.0,0.3,19.0,clear
+42,Black Gram (Urd Beans),Dhenkanal,2015-12-21,4425.0,0.4,22.4,clear
+43,Black Gram (Urd Beans),Mottagaon,2015-12-21,4425.0,0.38,22.4,clear
+44,Green Gram (Moong),Dhenkanal,2015-12-21,4650.0,0.32,22.4,clear
+45,Green Gram (Moong),Mottagaon,2015-12-21,4650.0,0.22,22.4,clear
+46,Black Gram (Urd Beans),Dhenkanal,2015-12-22,4425.0,0.3,21.4,clear
+47,Black Gram (Urd Beans),Mottagaon,2015-12-22,4425.0,0.33,21.4,clear
+48,Green Gram (Moong),Dhenkanal,2015-12-22,4650.0,0.34,21.4,clear
+49,Green Gram (Moong),Mottagaon,2015-12-22,4650.0,0.02,21.4,clear
+50,Black Gram (Urd Beans),Dhenkanal,2015-12-23,4425.0,0.42,23.6,clear
+51,Green Gram (Moong),Dhenkanal,2015-12-23,4650.0,0.32,23.6,clear
+52,Black Gram (Urd Beans),Dhenkanal,2015-12-24,4425.0,0.41,24.0,clear
+53,Green Gram (Moong),Dhenkanal,2015-12-24,4650.0,0.33,24.0,clear
+54,Black Gram (Urd Beans),Dhenkanal,2015-12-25,4425.0,0.42,22.6,clear
+55,Black Gram (Urd Beans),Mottagaon,2015-12-25,4425.0,0.35,22.6,clear
+56,Green Gram (Moong),Dhenkanal,2015-12-25,4650.0,0.31,22.6,clear
+57,Green Gram (Moong),Mottagaon,2015-12-25,4650.0,0.32,22.6,clear
+58,Black Gram (Urd Beans),Dhenkanal,2015-12-26,4425.0,0.43,21.6,clear
+59,Black Gram (Urd Beans),Mottagaon,2015-12-26,4425.0,0.33,21.6,clear
+60,Green Gram (Moong),Dhenkanal,2015-12-26,4650.0,0.29,21.6,clear
+61,Green Gram (Moong),Mottagaon,2015-12-26,4650.0,0.25,21.6,clear
+62,Black Gram (Urd Beans),Dhenkanal,2015-12-28,4425.0,0.33,23.0,clear
+63,Black Gram (Urd Beans),Mottagaon,2015-12-28,4425.0,0.29,23.0,clear
+64,Green Gram (Moong),Dhenkanal,2015-12-28,4650.0,0.32,23.0,clear
+65,Green Gram (Moong),Mottagaon,2015-12-28,4650.0,0.27,23.0,clear
+66,Black Gram (Urd Beans),Dhenkanal,2015-12-29,4425.0,0.35,24.6,clear
+67,Black Gram (Urd Beans),Mottagaon,2015-12-29,4425.0,0.31,24.6,clear
+68,Green Gram (Moong),Dhenkanal,2015-12-29,4650.0,0.33,24.6,clear
+69,Green Gram (Moong),Mottagaon,2015-12-29,4650.0,0.26,24.6,clear
+70,Black Gram (Urd Beans),Dhenkanal,2015-12-30,4425.0,0.32,24.6,clear
+71,Black Gram (Urd Beans),Mottagaon,2015-12-30,4425.0,0.31,24.6,clear
+72,Green Gram (Moong),Dhenkanal,2015-12-30,4650.0,0.43,24.6,clear
+73,Green Gram (Moong),Mottagaon,2015-12-30,4650.0,0.26,24.6,clear
+74,Black Gram (Urd Beans),Dhenkanal,2015-12-31,4425.0,0.61,24.4,clear
+75,Black Gram (Urd Beans),Mottagaon,2015-12-31,4425.0,0.24,24.4,clear
+76,Green Gram (Moong),Dhenkanal,2015-12-31,4650.0,0.51,24.4,clear
+77,Green Gram (Moong),Mottagaon,2015-12-31,4650.0,0.29,24.4,clear
+78,Black Gram (Urd Beans),Mottagaon,2015-12-17,4425.0,0.33,23.6,clear
+79,Green Gram (Moong),Mottagaon,2015-12-17,4650.0,0.22,23.6,clear
+80,Black Gram (Urd Beans),Mottagaon,2015-12-18,4425.0,0.3,26.0,clear
+81,Green Gram (Moong),Mottagaon,2015-12-18,4650.0,0.18,26.0,clear
+82,Black Gram (Urd Beans),Mottagaon,2015-12-27,4425.0,0.3,17.6,clear
+83,Green Gram (Moong),Mottagaon,2015-12-27,4650.0,0.29,17.6,clear
+84,Black Gram (Urd Beans),Dhenkanal,2016-01-01,4425.0,0.51,24.2,clear
+85,Black Gram (Urd Beans),Mottagaon,2016-01-01,4425.0,0.52,24.2,clear
+86,Green Gram (Moong),Dhenkanal,2016-01-01,4650.0,0.45,24.2,clear
+87,Green Gram (Moong),Mottagaon,2016-01-01,4650.0,0.32,24.2,clear
+88,Black Gram (Urd Beans),Dhenkanal,2016-02-01,4425.0,0.54,28.6,clear
+89,Black Gram (Urd Beans),Mottagaon,2016-02-01,4425.0,0.53,28.6,clear
+90,Green Gram (Moong),Dhenkanal,2016-02-01,4650.0,0.44,28.6,clear
+91,Green Gram (Moong),Mottagaon,2016-02-01,4650.0,0.51,28.6,clear
+92,Black Gram (Urd Beans),Dhenkanal,2016-03-01,4425.0,0.58,31.4,clear
+93,Green Gram (Moong),Dhenkanal,2016-03-01,5500.0,0.42,31.4,clear
+94,Black Gram (Urd Beans),Dhenkanal,2016-04-01,4425.0,0.63,33.0,clear
+95,Black Gram (Urd Beans),Mottagaon,2016-04-01,4425.0,0.52,33.0,clear
+96,Green Gram (Moong),Dhenkanal,2016-04-01,4650.0,0.51,33.0,clear
+97,Green Gram (Moong),Mottagaon,2016-04-01,4650.0,0.42,33.0,clear
+98,Black Gram (Urd Beans),Dhenkanal,2016-05-01,4425.0,0.68,34.0,clear
+99,Black Gram (Urd Beans),Mottagaon,2016-05-01,4425.0,0.63,34.0,clear
+100,Green Gram (Moong),Dhenkanal,2016-05-01,4650.0,0.47,34.0,clear
+101,Black Gram (Urd Beans),Dhenkanal,2016-08-01,4425.0,0.68,30.2,clear
+102,Black Gram (Urd Beans),Mottagaon,2016-08-01,4425.0,0.52,30.2,clear
+103,Green Gram (Moong),Dhenkanal,2016-08-01,4650.0,0.48,30.2,clear
+104,Green Gram (Moong),Mottagaon,2016-08-01,4650.0,0.52,30.2,clear
+105,Black Gram (Urd Beans),Dhenkanal,2016-09-01,4425.0,0.59,30.2,clear
+106,Black Gram (Urd Beans),Mottagaon,2016-09-01,4425.0,0.61,30.2,clear
+107,Green Gram (Moong),Dhenkanal,2016-09-01,4650.0,0.64,30.2,clear
+108,Green Gram (Moong),Mottagaon,2016-09-01,4650.0,0.53,30.2,clear
+109,Black Gram (Urd Beans),Dhenkanal,2016-10-01,4425.0,0.61,28.6,clear
+110,Black Gram (Urd Beans),Mottagaon,2016-10-01,4425.0,0.52,28.6,clear
+111,Green Gram (Moong),Dhenkanal,2016-10-01,4650.0,0.54,28.6,clear
+112,Green Gram (Moong),Mottagaon,2016-10-01,4650.0,0.33,28.6,clear
+113,Black Gram (Urd Beans),Dhenkanal,2016-11-01,4425.0,0.72,29.0,clear
+114,Black Gram (Urd Beans),Mottagaon,2016-11-01,4425.0,0.63,29.0,clear
+115,Green Gram (Moong),Dhenkanal,2016-11-01,4650.0,0.53,29.0,clear
+116,Green Gram (Moong),Mottagaon,2016-11-01,4650.0,0.48,29.0,clear
+117,Black Gram (Urd Beans),Dhenkanal,2016-12-01,4425.0,0.63,25.6,clear
+118,Black Gram (Urd Beans),Mottagaon,2016-12-01,4425.0,0.72,25.6,clear
+119,Green Gram (Moong),Dhenkanal,2016-12-01,4650.0,0.07,25.6,clear
+120,Green Gram (Moong),Mottagaon,2016-12-01,4650.0,0.52,25.6,clear
+121,Black Gram (Urd Beans),Dhenkanal,2016-01-13,4425.0,0.63,25.0,clear
+122,Green Gram (Moong),Dhenkanal,2016-01-13,4650.0,0.58,25.0,clear
+123,Black Gram (Urd Beans),Dhenkanal,2016-01-14,4425.0,0.63,24.0,clear
+124,Green Gram (Moong),Dhenkanal,2016-01-14,4650.0,0.52,24.0,clear
+125,Black Gram (Urd Beans),Dhenkanal,2016-01-16,4425.0,0.67,25.2,clear
+126,Green Gram (Moong),Dhenkanal,2016-01-16,4650.0,0.61,25.2,clear
+127,Black Gram (Urd Beans),Dhenkanal,2016-01-17,4425.0,0.78,25.4,clear
+128,Green Gram (Moong),Dhenkanal,2016-01-17,4650.0,0.61,25.4,clear
+129,Black Gram (Urd Beans),Dhenkanal,2016-01-18,4425.0,0.72,26.0,clear
+130,Black Gram (Urd Beans),Mottagaon,2016-01-18,4425.0,0.53,26.0,clear
+131,Green Gram (Moong),Dhenkanal,2016-01-18,4650.0,0.63,26.0,clear
+132,Green Gram (Moong),Mottagaon,2016-01-18,4650.0,0.62,26.0,clear
+133,Black Gram (Urd Beans),Dhenkanal,2016-01-19,4425.0,0.71,26.4,clear
+134,Green Gram (Moong),Dhenkanal,2016-01-19,4650.0,0.52,26.4,clear
+135,Black Gram (Urd Beans),Dhenkanal,2016-01-20,4425.0,0.71,27.2,clear
+136,Green Gram (Moong),Dhenkanal,2016-01-20,4650.0,0.53,27.2,clear
+137,Black Gram (Urd Beans),Dhenkanal,2016-01-21,4425.0,0.61,23.6,clear
+138,Black Gram (Urd Beans),Mottagaon,2016-01-21,4425.0,0.72,23.6,clear
+139,Green Gram (Moong),Dhenkanal,2016-01-21,4650.0,0.64,23.6,clear
+140,Green Gram (Moong),Mottagaon,2016-01-21,4650.0,0.52,23.6,clear
+141,Black Gram (Urd Beans),Dhenkanal,2016-01-22,4425.0,0.82,23.4,clear
+142,Black Gram (Urd Beans),Mottagaon,2016-01-22,4425.0,0.74,23.4,clear
+143,Green Gram (Moong),Dhenkanal,2016-01-22,4650.0,0.64,23.4,clear
+144,Green Gram (Moong),Mottagaon,2016-01-22,4650.0,0.62,23.4,clear
+145,Black Gram (Urd Beans),Dhenkanal,2016-01-23,4425.0,0.71,23.4,clear
+146,Black Gram (Urd Beans),Mottagaon,2016-01-23,4425.0,0.72,23.4,clear
+147,Green Gram (Moong),Dhenkanal,2016-01-23,4650.0,0.58,23.4,clear
+148,Green Gram (Moong),Mottagaon,2016-01-23,4650.0,0.63,23.4,clear
+149,Black Gram (Urd Beans),Dhenkanal,2016-01-24,4425.0,0.92,23.0,clear
+150,Black Gram (Urd Beans),Mottagaon,2016-01-24,4425.0,0.82,23.0,clear
+151,Green Gram (Moong),Dhenkanal,2016-01-24,4650.0,0.07,23.0,clear
+152,Green Gram (Moong),Mottagaon,2016-01-24,4650.0,0.53,23.0,clear
+153,Black Gram (Urd Beans),Dhenkanal,2016-01-26,4425.0,0.68,26.4,clear
+154,Black Gram (Urd Beans),Mottagaon,2016-01-26,4425.0,0.72,26.4,clear
+155,Green Gram (Moong),Dhenkanal,2016-01-26,4650.0,0.51,26.4,clear
+156,Green Gram (Moong),Mottagaon,2016-01-26,4650.0,0.46,26.4,clear
+157,Black Gram (Urd Beans),Dhenkanal,2016-01-27,4425.0,0.53,26.0,clear
+158,Black Gram (Urd Beans),Mottagaon,2016-01-27,4425.0,0.63,26.0,clear
+159,Green Gram (Moong),Dhenkanal,2016-01-27,4650.0,0.63,26.0,clear
+160,Green Gram (Moong),Mottagaon,2016-01-27,4650.0,0.06,26.0,clear
+161,Black Gram (Urd Beans),Dhenkanal,2016-01-28,4425.0,0.72,27.6,clear
+162,Black Gram (Urd Beans),Mottagaon,2016-01-28,4425.0,0.62,27.6,clear
+163,Green Gram (Moong),Dhenkanal,2016-01-28,4650.0,0.46,27.6,clear
+164,Green Gram (Moong),Mottagaon,2016-01-28,4650.0,0.53,27.6,clear
+165,Black Gram (Urd Beans),Dhenkanal,2016-01-31,4425.0,0.72,29.0,clear
+166,Black Gram (Urd Beans),Mottagaon,2016-01-31,4425.0,0.63,29.0,clear
+167,Green Gram (Moong),Mottagaon,2016-01-31,4650.0,0.52,29.0,clear
+168,Black Gram (Urd Beans),Dhenkanal,2016-01-02,4425.0,0.63,24.2,clear
+169,Black Gram (Urd Beans),Mottagaon,2016-01-02,4425.0,0.73,24.2,clear
+170,Green Gram (Moong),Dhenkanal,2016-01-02,4650.0,0.63,24.2,clear
+171,Green Gram (Moong),Mottagaon,2016-01-02,4650.0,0.53,24.2,clear
+172,Black Gram (Urd Beans),Dhenkanal,2016-02-02,4425.0,0.53,30.4,clear
+173,Black Gram (Urd Beans),Mottagaon,2016-02-02,4425.0,0.59,30.4,clear
+174,Green Gram (Moong),Dhenkanal,2016-02-02,4650.0,0.53,30.4,clear
+175,Green Gram (Moong),Mottagaon,2016-02-02,4650.0,0.46,30.4,clear
+176,Black Gram (Urd Beans),Dhenkanal,2016-03-02,4425.0,0.76,31.6,clear
+177,Black Gram (Urd Beans),Mottagaon,2016-03-02,4425.0,0.63,31.6,clear
+178,Green Gram (Moong),Dhenkanal,2016-03-02,4650.0,0.74,31.6,clear
+179,Green Gram (Moong),Mottagaon,2016-03-02,4650.0,0.51,31.6,clear
+180,Black Gram (Urd Beans),Dhenkanal,2016-04-02,4425.0,0.62,32.6,clear
+181,Black Gram (Urd Beans),Mottagaon,2016-04-02,4425.0,0.66,32.6,clear
+182,Green Gram (Moong),Dhenkanal,2016-04-02,4650.0,0.53,32.6,clear
+183,Green Gram (Moong),Mottagaon,2016-04-02,4650.0,0.49,32.6,clear
+184,Black Gram (Urd Beans),Dhenkanal,2016-05-02,4425.0,0.56,34.4,clear
+185,Black Gram (Urd Beans),Mottagaon,2016-05-02,4425.0,0.51,34.4,clear
+186,Green Gram (Moong),Dhenkanal,2016-05-02,4650.0,0.43,34.4,clear
+187,Green Gram (Moong),Mottagaon,2016-05-02,4650.0,0.42,34.4,clear
+188,Black Gram (Urd Beans),Dhenkanal,2016-06-02,4425.0,0.61,31.0,clear
+189,Black Gram (Urd Beans),Mottagaon,2016-06-02,4425.0,0.63,31.0,clear
+190,Green Gram (Moong),Dhenkanal,2016-06-02,4650.0,0.44,31.0,clear
+191,Green Gram (Moong),Mottagaon,2016-06-02,4650.0,0.41,31.0,clear
+192,Black Gram (Urd Beans),Dhenkanal,2016-12-02,4425.0,0.41,26.6,clear
+193,Black Gram (Urd Beans),Mottagaon,2016-12-02,4425.0,0.35,26.6,clear
+194,Green Gram (Moong),Dhenkanal,2016-12-02,4650.0,0.33,26.6,clear
+195,Green Gram (Moong),Mottagaon,2016-12-02,4650.0,0.32,26.6,clear
+196,Black Gram (Urd Beans),Dhenkanal,2016-02-13,4425.0,0.45,30.4,clear
+197,Black Gram (Urd Beans),Mottagaon,2016-02-13,4425.0,0.41,30.4,clear
+198,Green Gram (Moong),Dhenkanal,2016-02-13,4650.0,0.41,30.4,clear
+199,Green Gram (Moong),Mottagaon,2016-02-13,4650.0,0.3,30.4,clear
+200,Black Gram (Urd Beans),Dhenkanal,2016-02-14,4425.0,0.36,29.4,clear
+201,Black Gram (Urd Beans),Mottagaon,2016-02-14,4425.0,0.36,29.4,clear
+202,Green Gram (Moong),Dhenkanal,2016-02-14,4650.0,0.31,29.4,clear
+203,Green Gram (Moong),Mottagaon,2016-02-14,4650.0,0.22,29.4,clear
+204,Black Gram (Urd Beans),Dhenkanal,2016-02-15,4425.0,0.51,32.0,clear
+205,Black Gram (Urd Beans),Mottagaon,2016-02-15,4425.0,0.31,32.0,clear
+206,Green Gram (Moong),Dhenkanal,2016-02-15,4650.0,0.35,32.0,clear
+207,Green Gram (Moong),Mottagaon,2016-02-15,4650.0,0.28,32.0,clear
+208,Black Gram (Urd Beans),Dhenkanal,2016-02-16,4425.0,0.42,23.4,clear
+209,Black Gram (Urd Beans),Mottagaon,2016-02-16,4425.0,0.42,23.4,clear
+210,Green Gram (Moong),Dhenkanal,2016-02-16,4650.0,0.32,23.4,clear
+211,Green Gram (Moong),Mottagaon,2016-02-16,4650.0,0.29,23.4,clear
+212,Black Gram (Urd Beans),Dhenkanal,2016-02-18,4425.0,0.35,33.4,clear
+213,Black Gram (Urd Beans),Mottagaon,2016-02-18,4425.0,0.42,33.4,clear
+214,Green Gram (Moong),Dhenkanal,2016-02-18,4650.0,0.35,33.4,clear
+215,Green Gram (Moong),Mottagaon,2016-02-18,4650.0,0.31,33.4,clear
+216,Black Gram (Urd Beans),Dhenkanal,2016-02-19,4425.0,0.51,33.4,clear
+217,Black Gram (Urd Beans),Mottagaon,2016-02-19,4425.0,0.31,33.4,clear
+218,Green Gram (Moong),Dhenkanal,2016-02-19,4650.0,0.29,33.4,clear
+219,Green Gram (Moong),Mottagaon,2016-02-19,4650.0,0.29,33.4,clear
+220,Black Gram (Urd Beans),Dhenkanal,2016-02-20,4425.0,0.42,34.0,clear
+221,Black Gram (Urd Beans),Mottagaon,2016-02-20,4425.0,0.26,34.0,clear
+222,Green Gram (Moong),Dhenkanal,2016-02-20,4650.0,0.22,34.0,clear
+223,Green Gram (Moong),Mottagaon,2016-02-20,4650.0,0.29,34.0,clear
+224,Black Gram (Urd Beans),Dhenkanal,2016-02-21,4425.0,0.33,31.6,clear
+225,Black Gram (Urd Beans),Mottagaon,2016-02-21,4425.0,0.21,31.6,clear
+226,Green Gram (Moong),Dhenkanal,2016-02-21,4650.0,0.29,31.6,clear
+227,Green Gram (Moong),Mottagaon,2016-02-21,4650.0,0.21,31.6,clear
+228,Black Gram (Urd Beans),Dhenkanal,2016-02-22,4425.0,0.42,31.6,clear
+229,Black Gram (Urd Beans),Mottagaon,2016-02-22,4425.0,0.33,31.6,clear
+230,Green Gram (Moong),Dhenkanal,2016-02-22,4650.0,0.25,31.6,clear
+231,Green Gram (Moong),Mottagaon,2016-02-22,4650.0,0.24,31.6,clear
+232,Black Gram (Urd Beans),Dhenkanal,2016-02-23,4425.0,0.44,30.0,clear
+233,Black Gram (Urd Beans),Mottagaon,2016-02-23,4425.0,0.33,30.0,clear
+234,Green Gram (Moong),Dhenkanal,2016-02-23,4650.0,0.31,30.0,clear
+235,Green Gram (Moong),Mottagaon,2016-02-23,4650.0,0.3,30.0,clear
+236,Black Gram (Urd Beans),Dhenkanal,2016-02-24,4425.0,0.41,29.0,clear
+237,Black Gram (Urd Beans),Mottagaon,2016-02-24,4425.0,0.41,29.0,clear
+238,Green Gram (Moong),Dhenkanal,2016-02-24,4650.0,0.32,29.0,clear
+239,Green Gram (Moong),Mottagaon,2016-02-24,4650.0,0.3,29.0,clear
+240,Black Gram (Urd Beans),Dhenkanal,2016-02-25,4425.0,0.41,28.8,clear
+241,Black Gram (Urd Beans),Mottagaon,2016-02-25,4425.0,0.42,28.8,clear
+242,Green Gram (Moong),Dhenkanal,2016-02-25,4650.0,0.34,28.8,clear
+243,Green Gram (Moong),Mottagaon,2016-02-25,4650.0,0.31,28.8,clear
+244,Black Gram (Urd Beans),Dhenkanal,2016-02-26,4425.0,0.43,29.0,clear
+245,Black Gram (Urd Beans),Mottagaon,2016-02-26,4425.0,0.43,29.0,clear
+246,Green Gram (Moong),Dhenkanal,2016-02-26,4650.0,0.31,29.0,clear
+247,Green Gram (Moong),Mottagaon,2016-02-26,4650.0,0.32,29.0,clear
+248,Black Gram (Urd Beans),Dhenkanal,2016-02-27,4425.0,0.51,28.2,clear
+249,Black Gram (Urd Beans),Mottagaon,2016-02-27,4425.0,0.52,28.2,clear
+250,Green Gram (Moong),Dhenkanal,2016-02-27,4650.0,0.32,28.2,clear
+251,Green Gram (Moong),Mottagaon,2016-02-27,4650.0,0.31,28.2,clear
+252,Black Gram (Urd Beans),Dhenkanal,2016-01-03,4425.0,0.41,25.0,clear
+253,Black Gram (Urd Beans),Mottagaon,2016-01-03,4425.0,0.46,25.0,clear
+254,Green Gram (Moong),Dhenkanal,2016-01-03,4650.0,0.32,25.0,clear
+255,Green Gram (Moong),Mottagaon,2016-01-03,4650.0,0.34,25.0,clear
+256,Black Gram (Urd Beans),Dhenkanal,2016-02-03,4425.0,0.42,29.0,clear
+257,Black Gram (Urd Beans),Mottagaon,2016-02-03,4425.0,0.41,29.0,clear
+258,Green Gram (Moong),Dhenkanal,2016-02-03,4650.0,0.32,29.0,clear
+259,Green Gram (Moong),Mottagaon,2016-02-03,4650.0,0.32,29.0,clear
+260,Black Gram (Urd Beans),Dhenkanal,2016-03-03,4425.0,0.39,32.4,clear
+261,Black Gram (Urd Beans),Mottagaon,2016-03-03,4425.0,0.42,32.4,clear
+262,Green Gram (Moong),Dhenkanal,2016-03-03,4650.0,0.37,32.4,clear
+263,Green Gram (Moong),Mottagaon,2016-03-03,4650.0,0.29,32.4,clear
+264,Black Gram (Urd Beans),Dhenkanal,2016-04-03,4425.0,0.33,32.2,clear
+265,Black Gram (Urd Beans),Mottagaon,2016-04-03,4425.0,0.41,32.2,clear
+266,Green Gram (Moong),Dhenkanal,2016-04-03,4650.0,0.3,32.2,clear
+267,Green Gram (Moong),Mottagaon,2016-04-03,4650.0,0.34,32.2,clear
+268,Black Gram (Urd Beans),Dhenkanal,2016-05-03,4425.0,0.42,32.4,clear
+269,Black Gram (Urd Beans),Mottagaon,2016-05-03,4425.0,0.41,32.4,clear
+270,Green Gram (Moong),Dhenkanal,2016-05-03,4650.0,0.31,32.4,clear
+271,Green Gram (Moong),Mottagaon,2016-05-03,4650.0,0.28,32.4,clear
+272,Black Gram (Urd Beans),Dhenkanal,2016-06-03,4425.0,0.42,29.4,clear
+273,Black Gram (Urd Beans),Mottagaon,2016-06-03,4425.0,0.31,29.4,clear
+274,Green Gram (Moong),Dhenkanal,2016-06-03,4650.0,0.33,29.4,clear
+275,Green Gram (Moong),Mottagaon,2016-06-03,4650.0,0.28,29.4,clear
+276,Black Gram (Urd Beans),Dhenkanal,2016-07-03,4425.0,0.42,28.6,clear
+277,Black Gram (Urd Beans),Mottagaon,2016-07-03,4425.0,0.34,28.6,clear
+278,Green Gram (Moong),Dhenkanal,2016-07-03,4650.0,0.31,28.6,clear
+279,Green Gram (Moong),Mottagaon,2016-07-03,4650.0,0.06,28.6,clear
+280,Black Gram (Urd Beans),Dhenkanal,2016-08-03,4425.0,0.33,28.0,clear
+281,Black Gram (Urd Beans),Mottagaon,2016-08-03,4425.0,0.33,28.0,clear
+282,Green Gram (Moong),Dhenkanal,2016-08-03,4650.0,0.29,28.0,clear
+283,Green Gram (Moong),Mottagaon,2016-08-03,4650.0,0.29,28.0,clear
+284,Black Gram (Urd Beans),Dhenkanal,2016-09-03,4425.0,0.33,30.0,clear
+285,Black Gram (Urd Beans),Mottagaon,2016-09-03,4425.0,0.31,30.0,clear
+286,Green Gram (Moong),Dhenkanal,2016-09-03,4650.0,0.22,30.0,clear
+287,Green Gram (Moong),Mottagaon,2016-09-03,6500.0,0.25,30.0,clear
+288,Black Gram (Urd Beans),Dhenkanal,2016-10-03,4425.0,0.42,30.2,clear
+289,Black Gram (Urd Beans),Mottagaon,2016-10-03,4425.0,0.33,30.2,clear
+290,Green Gram (Moong),Dhenkanal,2016-10-03,4650.0,0.22,30.2,clear
+291,Green Gram (Moong),Mottagaon,2016-10-03,4650.0,0.21,30.2,clear
+292,Black Gram (Urd Beans),Dhenkanal,2016-11-03,4425.0,0.32,27.0,clear
+293,Green Gram (Moong),Dhenkanal,2016-11-03,4650.0,0.24,27.0,clear
+294,Black Gram (Urd Beans),Dhenkanal,2016-03-14,4425.0,0.31,31.0,clear
+295,Black Gram (Urd Beans),Mottagaon,2016-03-14,4425.0,0.41,31.0,clear
+296,Green Gram (Moong),Dhenkanal,2016-03-14,4650.0,0.31,31.0,clear
+297,Green Gram (Moong),Mottagaon,2016-03-14,4650.0,0.17,31.0,clear
+298,Black Gram (Urd Beans),Dhenkanal,2016-03-15,4425.0,0.33,32.0,clear
+299,Black Gram (Urd Beans),Mottagaon,2016-03-15,4425.0,0.22,32.0,clear
+300,Green Gram (Moong),Dhenkanal,2016-03-15,4650.0,0.22,32.0,clear
+301,Green Gram (Moong),Mottagaon,2016-03-15,4650.0,0.21,32.0,clear
+302,Black Gram (Urd Beans),Dhenkanal,2016-03-16,4425.0,0.41,32.6,clear
+303,Black Gram (Urd Beans),Mottagaon,2016-03-16,4425.0,0.31,32.6,clear
+304,Green Gram (Moong),Dhenkanal,2016-03-16,4650.0,0.22,32.6,clear
+305,Green Gram (Moong),Mottagaon,2016-03-16,4650.0,0.2,32.6,clear
+306,Black Gram (Urd Beans),Dhenkanal,2016-03-17,4425.0,0.33,27.6,clear
+307,Black Gram (Urd Beans),Mottagaon,2016-03-17,4425.0,0.33,27.6,clear
+308,Green Gram (Moong),Dhenkanal,2016-03-17,4650.0,0.22,27.6,clear
+309,Green Gram (Moong),Mottagaon,2016-03-17,4650.0,0.22,27.6,clear
+310,Black Gram (Urd Beans),Dhenkanal,2016-03-19,4425.0,0.31,32.0,clear
+311,Black Gram (Urd Beans),Mottagaon,2016-03-19,4425.0,0.36,32.0,clear
+312,Green Gram (Moong),Dhenkanal,2016-03-19,4650.0,0.32,32.0,clear
+313,Green Gram (Moong),Mottagaon,2016-03-19,4650.0,0.22,32.0,clear
+314,Black Gram (Urd Beans),Dhenkanal,2016-03-20,4425.0,0.42,34.0,clear
+315,Black Gram (Urd Beans),Mottagaon,2016-03-20,4425.0,0.35,34.0,clear
+316,Green Gram (Moong),Dhenkanal,2016-03-20,4650.0,0.31,34.0,clear
+317,Green Gram (Moong),Mottagaon,2016-03-20,4650.0,0.26,34.0,clear
+318,Black Gram (Urd Beans),Dhenkanal,2016-03-21,4425.0,0.45,35.4,clear
+319,Black Gram (Urd Beans),Mottagaon,2016-03-21,4425.0,0.31,35.4,clear
+320,Green Gram (Moong),Dhenkanal,2016-03-21,4650.0,0.22,35.4,clear
+321,Green Gram (Moong),Mottagaon,2016-03-21,4650.0,0.28,35.4,clear
+322,Black Gram (Urd Beans),Dhenkanal,2016-03-22,4425.0,0.36,33.0,clear
+323,Black Gram (Urd Beans),Mottagaon,2016-03-22,4425.0,0.31,33.0,clear
+324,Green Gram (Moong),Dhenkanal,2016-03-22,4650.0,0.24,33.0,clear
+325,Green Gram (Moong),Mottagaon,2016-03-22,4650.0,0.21,33.0,clear
+326,Black Gram (Urd Beans),Dhenkanal,2016-03-23,4425.0,0.33,34.0,clear
+327,Black Gram (Urd Beans),Mottagaon,2016-03-23,4425.0,0.32,34.0,clear
+328,Green Gram (Moong),Dhenkanal,2016-03-23,4650.0,0.31,34.0,clear
+329,Green Gram (Moong),Mottagaon,2016-03-23,4650.0,0.22,34.0,clear
+330,Black Gram (Urd Beans),Dhenkanal,2016-03-24,4425.0,0.42,33.6,clear
+331,Green Gram (Moong),Dhenkanal,2016-03-24,4650.0,0.26,33.6,clear
+332,Black Gram (Urd Beans),Dhenkanal,2016-03-25,4425.0,0.4,32.6,clear
+333,Black Gram (Urd Beans),Mottagaon,2016-03-25,4425.0,0.32,32.6,clear
+334,Green Gram (Moong),Dhenkanal,2016-03-25,4650.0,0.42,32.6,clear
+335,Green Gram (Moong),Mottagaon,2016-03-25,4650.0,0.26,32.6,clear
+336,Black Gram (Urd Beans),Dhenkanal,2016-03-26,4425.0,0.41,32.4,clear
+337,Black Gram (Urd Beans),Mottagaon,2016-03-26,4425.0,0.33,32.4,clear
+338,Green Gram (Moong),Dhenkanal,2016-03-26,4650.0,0.41,32.4,clear
+339,Green Gram (Moong),Mottagaon,2016-03-26,4650.0,0.25,32.4,clear
+340,Black Gram (Urd Beans),Dhenkanal,2016-03-27,4425.0,0.41,30.6,clear
+341,Green Gram (Moong),Dhenkanal,2016-03-27,4650.0,0.32,30.6,clear
+342,Black Gram (Urd Beans),Dhenkanal,2016-03-28,4425.0,0.41,32.4,clear
+343,Green Gram (Moong),Dhenkanal,2016-03-28,4650.0,0.39,32.4,clear
+344,Black Gram (Urd Beans),Dhenkanal,2016-03-29,4425.0,0.42,31.4,clear
+345,Green Gram (Moong),Dhenkanal,2016-03-29,4650.0,0.41,31.4,clear
+346,Black Gram (Urd Beans),Dhenkanal,2016-03-30,4425.0,0.41,29.4,clear
+347,Black Gram (Urd Beans),Mottagaon,2016-03-30,4425.0,0.33,29.4,clear
+348,Green Gram (Moong),Dhenkanal,2016-03-30,4650.0,0.33,29.4,clear
+349,Green Gram (Moong),Mottagaon,2016-03-30,4650.0,0.29,29.4,clear
+350,Black Gram (Urd Beans),Dhenkanal,2016-03-31,4425.0,0.42,31.6,clear
+351,Green Gram (Moong),Dhenkanal,2016-03-31,4650.0,0.33,31.6,clear
+352,Black Gram (Urd Beans),Dhenkanal,2016-01-04,4425.0,0.33,24.4,clear
+353,Green Gram (Moong),Dhenkanal,2016-01-04,4650.0,0.23,24.4,clear
+354,Black Gram (Urd Beans),Dhenkanal,2016-02-04,4425.0,0.41,26.8,clear
+355,Green Gram (Moong),Dhenkanal,2016-02-04,4650.0,0.32,26.8,clear
+356,Black Gram (Urd Beans),Dhenkanal,2016-03-04,4425.0,0.37,32.4,clear
+357,Green Gram (Moong),Dhenkanal,2016-03-04,4650.0,0.32,32.4,clear
+358,Black Gram (Urd Beans),Dhenkanal,2016-04-04,4425.0,0.41,32.6,clear
+359,Green Gram (Moong),Dhenkanal,2016-04-04,4650.0,0.31,32.6,clear
+360,Black Gram (Urd Beans),Dhenkanal,2016-05-04,4425.0,0.43,34.0,clear
+361,Green Gram (Moong),Dhenkanal,2016-05-04,4650.0,0.32,34.0,clear
+362,Black Gram (Urd Beans),Dhenkanal,2016-06-04,4425.0,0.36,30.6,clear
+363,Green Gram (Moong),Dhenkanal,2016-06-04,4650.0,0.31,30.6,clear
+364,Black Gram (Urd Beans),Dhenkanal,2016-07-04,4425.0,0.42,30.4,clear
+365,Black Gram (Urd Beans),Dhenkanal,2016-09-04,4425.0,0.42,26.8,clear
+366,Green Gram (Moong),Dhenkanal,2016-09-04,4650.0,0.39,26.8,clear
+367,Black Gram (Urd Beans),Dhenkanal,2016-10-04,4425.0,0.43,30.2,clear
+368,Black Gram (Urd Beans),Mottagaon,2016-10-04,4425.0,0.41,30.2,clear
+369,Green Gram (Moong),Dhenkanal,2016-10-04,4650.0,0.32,30.2,clear
+370,Green Gram (Moong),Mottagaon,2016-10-04,4650.0,0.29,30.2,clear
+371,Black Gram (Urd Beans),Dhenkanal,2016-11-04,4425.0,0.42,24.4,clear
+372,Black Gram (Urd Beans),Mottagaon,2016-11-04,4425.0,0.35,24.4,clear
+373,Green Gram (Moong),Dhenkanal,2016-11-04,4650.0,0.33,24.4,clear
+374,Green Gram (Moong),Mottagaon,2016-11-04,4650.0,0.29,24.4,clear
+375,Black Gram (Urd Beans),Dhenkanal,2016-04-13,4425.0,0.41,34.6,clear
+376,Black Gram (Urd Beans),Mottagaon,2016-04-13,4425.0,0.36,34.6,clear
+377,Green Gram (Moong),Dhenkanal,2016-04-13,4650.0,0.31,34.6,clear
+378,Green Gram (Moong),Mottagaon,2016-04-13,4650.0,0.22,34.6,clear
+379,Black Gram (Urd Beans),Dhenkanal,2016-04-14,4425.0,0.39,34.2,clear
+380,Black Gram (Urd Beans),Mottagaon,2016-04-14,4425.0,0.33,34.2,clear
+381,Green Gram (Moong),Dhenkanal,2016-04-14,4650.0,0.25,34.2,clear
+382,Green Gram (Moong),Mottagaon,2016-04-14,5500.0,0.06,34.2,clear
+383,Black Gram (Urd Beans),Dhenkanal,2016-04-15,4425.0,0.42,34.4,clear
+384,Black Gram (Urd Beans),Mottagaon,2016-04-15,4425.0,0.32,34.4,clear
+385,Green Gram (Moong),Dhenkanal,2016-04-15,4650.0,0.22,34.4,clear
+386,Green Gram (Moong),Mottagaon,2016-04-15,4650.0,0.21,34.4,clear
+387,Black Gram (Urd Beans),Dhenkanal,2016-04-16,4425.0,0.42,33.2,clear
+388,Black Gram (Urd Beans),Mottagaon,2016-04-16,4425.0,0.32,33.2,clear
+389,Green Gram (Moong),Dhenkanal,2016-04-16,4650.0,0.25,33.2,clear
+390,Green Gram (Moong),Mottagaon,2016-04-16,4650.0,0.26,33.2,clear
+391,Black Gram (Urd Beans),Dhenkanal,2016-04-18,4425.0,0.41,31.4,clear
+392,Black Gram (Urd Beans),Mottagaon,2016-04-18,4425.0,0.29,31.4,clear
+393,Green Gram (Moong),Dhenkanal,2016-04-18,4650.0,0.36,31.4,clear
+394,Green Gram (Moong),Mottagaon,2016-04-18,4650.0,0.21,31.4,clear
+395,Black Gram (Urd Beans),Dhenkanal,2016-04-19,4425.0,0.41,33.4,clear
+396,Black Gram (Urd Beans),Mottagaon,2016-04-19,4425.0,0.33,33.4,clear
+397,Green Gram (Moong),Dhenkanal,2016-04-19,4650.0,0.21,33.4,clear
+398,Green Gram (Moong),Mottagaon,2016-04-19,4650.0,0.2,33.4,clear
+399,Black Gram (Urd Beans),Dhenkanal,2016-04-20,4425.0,0.31,30.6,clear
+400,Black Gram (Urd Beans),Mottagaon,2016-04-20,4425.0,0.29,30.6,clear
+401,Green Gram (Moong),Dhenkanal,2016-04-20,4650.0,0.28,30.6,clear
+402,Green Gram (Moong),Mottagaon,2016-04-20,4650.0,0.22,30.6,clear
+403,Black Gram (Urd Beans),Dhenkanal,2016-04-21,4425.0,0.36,33.0,clear
+404,Black Gram (Urd Beans),Mottagaon,2016-04-21,4425.0,0.26,33.0,clear
+405,Green Gram (Moong),Dhenkanal,2016-04-21,4650.0,0.22,33.0,clear
+406,Green Gram (Moong),Mottagaon,2016-04-21,4650.0,0.22,33.0,clear
+407,Black Gram (Urd Beans),Dhenkanal,2016-04-22,4425.0,0.41,33.0,clear
+408,Black Gram (Urd Beans),Mottagaon,2016-04-22,4425.0,0.32,33.0,clear
+409,Green Gram (Moong),Dhenkanal,2016-04-22,4650.0,0.25,33.0,clear
+410,Green Gram (Moong),Mottagaon,2016-04-22,4650.0,0.22,33.0,clear
+411,Black Gram (Urd Beans),Dhenkanal,2016-04-23,4425.0,0.32,33.6,clear
+412,Black Gram (Urd Beans),Mottagaon,2016-04-23,4425.0,0.31,33.6,clear
+413,Green Gram (Moong),Dhenkanal,2016-04-23,4650.0,0.22,33.6,clear
+414,Black Gram (Urd Beans),Dhenkanal,2016-04-24,4425.0,0.24,35.0,clear
+415,Black Gram (Urd Beans),Mottagaon,2016-04-24,4425.0,0.33,35.0,clear
+416,Green Gram (Moong),Dhenkanal,2016-04-24,4650.0,0.21,35.0,clear
+417,Green Gram (Moong),Mottagaon,2016-04-24,4650.0,0.24,35.0,clear
+418,Black Gram (Urd Beans),Dhenkanal,2016-04-25,4425.0,0.31,32.0,clear
+419,Black Gram (Urd Beans),Mottagaon,2016-04-25,4425.0,0.21,32.0,clear
+420,Green Gram (Moong),Dhenkanal,2016-04-25,4650.0,0.22,32.0,clear
+421,Green Gram (Moong),Mottagaon,2016-04-25,4650.0,0.25,32.0,clear
+422,Black Gram (Urd Beans),Dhenkanal,2016-04-26,4425.0,0.36,31.6,clear
+423,Black Gram (Urd Beans),Mottagaon,2016-04-26,4425.0,0.32,31.6,clear
+424,Green Gram (Moong),Dhenkanal,2016-04-26,4650.0,0.22,31.6,clear
+425,Green Gram (Moong),Mottagaon,2016-04-26,4650.0,0.19,31.6,clear
+426,Black Gram (Urd Beans),Dhenkanal,2016-04-27,4425.0,0.32,35.6,clear
+427,Black Gram (Urd Beans),Mottagaon,2016-04-27,4425.0,0.22,35.6,clear
+428,Green Gram (Moong),Dhenkanal,2016-04-27,4650.0,0.26,35.6,clear
+429,Green Gram (Moong),Mottagaon,2016-04-27,4650.0,0.22,35.6,clear
+430,Black Gram (Urd Beans),Dhenkanal,2016-04-28,4425.0,0.42,31.0,clear
+431,Black Gram (Urd Beans),Mottagaon,2016-04-28,4425.0,0.28,31.0,clear
+432,Green Gram (Moong),Dhenkanal,2016-04-28,4650.0,0.32,31.0,clear
+433,Green Gram (Moong),Mottagaon,2016-04-28,4650.0,0.22,31.0,clear
+434,Black Gram (Urd Beans),Dhenkanal,2016-04-29,4425.0,0.41,33.2,clear
+435,Black Gram (Urd Beans),Mottagaon,2016-04-29,4425.0,0.22,33.2,clear
+436,Green Gram (Moong),Dhenkanal,2016-04-29,4650.0,0.31,33.2,clear
+437,Green Gram (Moong),Mottagaon,2016-04-29,4650.0,0.23,33.2,clear
+438,Black Gram (Urd Beans),Dhenkanal,2016-04-30,4425.0,0.38,35.8,clear
+439,Black Gram (Urd Beans),Mottagaon,2016-04-30,4425.0,0.31,35.8,clear
+440,Green Gram (Moong),Dhenkanal,2016-04-30,4650.0,0.21,35.8,clear
+441,Green Gram (Moong),Mottagaon,2016-04-30,4650.0,0.22,35.8,clear
+442,Black Gram (Urd Beans),Dhenkanal,2016-01-05,4425.0,0.31,23.0,clear
+443,Black Gram (Urd Beans),Mottagaon,2016-01-05,4425.0,0.35,23.0,clear
+444,Green Gram (Moong),Dhenkanal,2016-01-05,4650.0,0.22,23.0,clear
+445,Green Gram (Moong),Mottagaon,2016-01-05,4650.0,0.2,23.0,clear
+446,Black Gram (Urd Beans),Dhenkanal,2016-02-05,4425.0,0.31,27.4,clear
+447,Black Gram (Urd Beans),Mottagaon,2016-02-05,4425.0,0.32,27.4,clear
+448,Green Gram (Moong),Dhenkanal,2016-02-05,4650.0,0.21,27.4,clear
+449,Green Gram (Moong),Mottagaon,2016-02-05,4650.0,0.22,27.4,clear
+450,Black Gram (Urd Beans),Dhenkanal,2016-03-05,4425.0,0.42,33.0,clear
+451,Black Gram (Urd Beans),Mottagaon,2016-03-05,4425.0,0.21,33.0,clear
+452,Green Gram (Moong),Dhenkanal,2016-03-05,4650.0,0.27,33.0,clear
+453,Green Gram (Moong),Mottagaon,2016-03-05,4650.0,0.22,33.0,clear
+454,Black Gram (Urd Beans),Dhenkanal,2016-04-05,4425.0,0.31,34.0,clear
+455,Black Gram (Urd Beans),Mottagaon,2016-04-05,4425.0,0.33,34.0,clear
+456,Green Gram (Moong),Dhenkanal,2016-04-05,4650.0,0.28,34.0,clear
+457,Green Gram (Moong),Mottagaon,2016-04-05,4650.0,0.21,34.0,clear
+458,Black Gram (Urd Beans),Dhenkanal,2016-05-05,4425.0,0.34,34.0,clear
+459,Black Gram (Urd Beans),Mottagaon,2016-05-05,4425.0,0.24,34.0,clear
+460,Green Gram (Moong),Dhenkanal,2016-05-05,4650.0,0.21,34.0,clear
+461,Green Gram (Moong),Mottagaon,2016-05-05,4650.0,0.21,34.0,clear
+462,Black Gram (Urd Beans),Dhenkanal,2016-06-05,4425.0,0.31,32.0,clear
+463,Black Gram (Urd Beans),Mottagaon,2016-06-05,4425.0,0.36,32.0,clear
+464,Green Gram (Moong),Dhenkanal,2016-06-05,4650.0,0.22,32.0,clear
+465,Green Gram (Moong),Mottagaon,2016-06-05,4650.0,0.2,32.0,clear
+466,Black Gram (Urd Beans),Dhenkanal,2016-07-05,4425.0,0.33,30.2,clear
+467,Green Gram (Moong),Dhenkanal,2016-07-05,4650.0,0.24,30.2,clear
+468,Black Gram (Urd Beans),Dhenkanal,2016-08-05,4425.0,0.41,26.4,clear
+469,Green Gram (Moong),Dhenkanal,2016-08-05,4650.0,0.22,26.4,clear
+470,Black Gram (Urd Beans),Dhenkanal,2016-09-05,4425.0,0.4,27.6,clear
+471,Black Gram (Urd Beans),Mottagaon,2016-09-05,4425.0,0.29,27.6,clear
+472,Green Gram (Moong),Dhenkanal,2016-09-05,4650.0,0.21,27.6,clear
+473,Green Gram (Moong),Mottagaon,2016-09-05,4650.0,0.21,27.6,clear
+474,Black Gram (Urd Beans),Dhenkanal,2016-10-05,4425.0,0.4,29.4,clear
+475,Black Gram (Urd Beans),Mottagaon,2016-10-05,4425.0,0.25,29.4,clear
+476,Green Gram (Moong),Dhenkanal,2016-10-05,4650.0,0.21,29.4,clear
+477,Green Gram (Moong),Mottagaon,2016-10-05,4650.0,0.2,29.4,clear
+478,Black Gram (Urd Beans),Dhenkanal,2016-11-05,4425.0,0.42,25.0,clear
+479,Black Gram (Urd Beans),Mottagaon,2016-11-05,4425.0,0.31,25.0,clear
+480,Green Gram (Moong),Dhenkanal,2016-11-05,4650.0,0.21,25.0,clear
+481,Green Gram (Moong),Mottagaon,2016-11-05,4650.0,0.22,25.0,clear
+482,Black Gram (Urd Beans),Dhenkanal,2016-12-05,4425.0,0.32,24.0,clear
+483,Black Gram (Urd Beans),Mottagaon,2016-12-05,4425.0,0.31,24.0,clear
+484,Green Gram (Moong),Dhenkanal,2016-12-05,4650.0,0.22,24.0,clear
+485,Green Gram (Moong),Mottagaon,2016-12-05,4650.0,0.22,24.0,clear
+486,Black Gram (Urd Beans),Dhenkanal,2016-05-13,4425.0,0.33,35.4,clear
+487,Black Gram (Urd Beans),Mottagaon,2016-05-13,4425.0,0.25,35.4,clear
+488,Green Gram (Moong),Dhenkanal,2016-05-13,4650.0,0.22,35.4,clear
+489,Green Gram (Moong),Mottagaon,2016-05-13,4650.0,0.22,35.4,clear
+490,Black Gram (Urd Beans),Dhenkanal,2016-05-14,4425.0,0.39,32.0,clear
+491,Black Gram (Urd Beans),Mottagaon,2016-05-14,4425.0,0.35,32.0,clear
+492,Green Gram (Moong),Dhenkanal,2016-05-14,4650.0,0.28,32.0,clear
+493,Green Gram (Moong),Mottagaon,2016-05-14,4650.0,0.22,32.0,clear
+494,Black Gram (Urd Beans),Dhenkanal,2016-05-15,4425.0,0.42,34.2,clear
+495,Black Gram (Urd Beans),Mottagaon,2016-05-15,4425.0,0.21,34.2,clear
+496,Green Gram (Moong),Dhenkanal,2016-05-15,4650.0,0.3,34.2,clear
+497,Green Gram (Moong),Mottagaon,2016-05-15,4650.0,0.21,34.2,clear
+498,Black Gram (Urd Beans),Dhenkanal,2016-05-16,4425.0,0.33,33.4,clear
+499,Black Gram (Urd Beans),Mottagaon,2016-05-16,4425.0,0.2,33.4,clear
+500,Green Gram (Moong),Dhenkanal,2016-05-16,4650.0,0.31,33.4,clear
+501,Green Gram (Moong),Mottagaon,2016-05-16,4650.0,0.2,33.4,clear
+502,Black Gram (Urd Beans),Dhenkanal,2016-05-17,4425.0,0.41,33.4,clear
+503,Black Gram (Urd Beans),Mottagaon,2016-05-17,4425.0,0.43,33.4,clear
+504,Green Gram (Moong),Dhenkanal,2016-05-17,4650.0,0.29,33.4,clear
+505,Green Gram (Moong),Mottagaon,2016-05-17,4650.0,0.21,33.4,clear
+506,Black Gram (Urd Beans),Dhenkanal,2016-05-18,4425.0,0.42,31.8,clear
+507,Black Gram (Urd Beans),Mottagaon,2016-05-18,4425.0,0.35,31.8,clear
+508,Green Gram (Moong),Dhenkanal,2016-05-18,4650.0,0.29,31.8,clear
+509,Green Gram (Moong),Mottagaon,2016-05-18,4650.0,0.21,31.8,clear
+510,Black Gram (Urd Beans),Dhenkanal,2016-05-19,4425.0,0.37,30.0,clear
+511,Black Gram (Urd Beans),Mottagaon,2016-05-19,4425.0,0.33,30.0,clear
+512,Green Gram (Moong),Dhenkanal,2016-05-19,4650.0,0.26,30.0,clear
+513,Green Gram (Moong),Mottagaon,2016-05-19,4650.0,0.22,30.0,clear
+514,Black Gram (Urd Beans),Dhenkanal,2016-05-20,4425.0,0.31,36.0,clear
+515,Black Gram (Urd Beans),Mottagaon,2016-05-20,4425.0,0.31,36.0,clear
+516,Green Gram (Moong),Dhenkanal,2016-05-20,4650.0,0.27,36.0,clear
+517,Green Gram (Moong),Mottagaon,2016-05-20,4650.0,0.25,36.0,clear
+518,Black Gram (Urd Beans),Dhenkanal,2016-05-21,4425.0,0.42,33.4,clear
+519,Black Gram (Urd Beans),Mottagaon,2016-05-21,4425.0,0.22,33.4,clear
+520,Green Gram (Moong),Dhenkanal,2016-05-21,4650.0,0.3,33.4,clear
+521,Green Gram (Moong),Mottagaon,2016-05-21,4650.0,0.21,33.4,clear
+522,Black Gram (Urd Beans),Dhenkanal,2016-05-22,4425.0,0.32,34.0,clear
+523,Green Gram (Moong),Dhenkanal,2016-05-22,4650.0,0.28,34.0,clear
+524,Black Gram (Urd Beans),Dhenkanal,2016-05-26,4425.0,0.36,34.0,clear
+525,Black Gram (Urd Beans),Mottagaon,2016-05-26,4425.0,0.37,34.0,clear
+526,Green Gram (Moong),Dhenkanal,2016-05-26,4650.0,0.22,34.0,clear
+527,Green Gram (Moong),Mottagaon,2016-05-26,4650.0,0.21,34.0,clear
+528,Black Gram (Urd Beans),Dhenkanal,2016-05-27,4425.0,0.3,34.4,clear
+529,Black Gram (Urd Beans),Mottagaon,2016-05-27,4425.0,0.32,34.4,clear
+530,Green Gram (Moong),Dhenkanal,2016-05-27,4650.0,0.22,34.4,clear
+531,Green Gram (Moong),Mottagaon,2016-05-27,4650.0,0.21,34.4,clear
+532,Black Gram (Urd Beans),Dhenkanal,2016-05-28,4425.0,0.39,35.4,clear
+533,Black Gram (Urd Beans),Mottagaon,2016-05-28,4425.0,0.28,35.4,clear
+534,Green Gram (Moong),Dhenkanal,2016-05-28,4650.0,0.25,35.4,clear
+535,Green Gram (Moong),Mottagaon,2016-05-28,4650.0,0.22,35.4,clear
+536,Black Gram (Urd Beans),Dhenkanal,2016-05-29,4425.0,0.42,33.6,clear
+537,Black Gram (Urd Beans),Mottagaon,2016-05-29,4425.0,0.22,33.6,clear
+538,Green Gram (Moong),Dhenkanal,2016-05-29,4650.0,0.22,33.6,clear
+539,Green Gram (Moong),Mottagaon,2016-05-29,4650.0,0.18,33.6,clear
+540,Black Gram (Urd Beans),Dhenkanal,2016-01-06,4425.0,0.42,24.2,clear
+541,Green Gram (Moong),Dhenkanal,2016-01-06,4650.0,0.23,24.2,clear
+542,Black Gram (Urd Beans),Dhenkanal,2016-02-06,4425.0,0.32,22.8,clear
+543,Black Gram (Urd Beans),Mottagaon,2016-02-06,4425.0,0.36,22.8,clear
+544,Green Gram (Moong),Dhenkanal,2016-02-06,4650.0,0.21,22.8,clear
+545,Green Gram (Moong),Mottagaon,2016-02-06,4650.0,0.22,22.8,clear
+546,Black Gram (Urd Beans),Dhenkanal,2016-03-06,4425.0,0.34,33.6,clear
+547,Black Gram (Urd Beans),Mottagaon,2016-03-06,4425.0,0.27,33.6,clear
+548,Green Gram (Moong),Dhenkanal,2016-03-06,4650.0,0.31,33.6,clear
+549,Green Gram (Moong),Mottagaon,2016-03-06,4650.0,0.24,33.6,clear
+550,Black Gram (Urd Beans),Dhenkanal,2016-04-06,4425.0,0.33,36.2,clear
+551,Black Gram (Urd Beans),Mottagaon,2016-04-06,4425.0,0.28,36.2,clear
+552,Green Gram (Moong),Dhenkanal,2016-04-06,6500.0,0.06,36.2,clear
+553,Green Gram (Moong),Mottagaon,2016-04-06,4650.0,0.27,36.2,clear
+554,Black Gram (Urd Beans),Dhenkanal,2016-05-06,4425.0,0.41,32.2,clear
+555,Black Gram (Urd Beans),Mottagaon,2016-05-06,4425.0,0.31,32.2,clear
+556,Green Gram (Moong),Dhenkanal,2016-05-06,4650.0,0.23,32.2,clear
+557,Green Gram (Moong),Mottagaon,2016-05-06,4650.0,0.23,32.2,clear
+558,Black Gram (Urd Beans),Dhenkanal,2016-06-06,4425.0,0.41,32.0,clear
+559,Black Gram (Urd Beans),Mottagaon,2016-06-06,4425.0,0.42,32.0,clear
+560,Green Gram (Moong),Dhenkanal,2016-06-06,4650.0,0.33,32.0,clear
+561,Green Gram (Moong),Mottagaon,2016-06-06,4650.0,0.21,32.0,clear
+562,Black Gram (Urd Beans),Dhenkanal,2016-07-06,4425.0,0.31,31.6,clear
+563,Black Gram (Urd Beans),Mottagaon,2016-07-06,4425.0,0.31,31.6,clear
+564,Green Gram (Moong),Dhenkanal,2016-07-06,4650.0,0.22,31.6,clear
+565,Green Gram (Moong),Mottagaon,2016-07-06,4650.0,0.25,31.6,clear
+566,Black Gram (Urd Beans),Dhenkanal,2016-08-06,4425.0,0.43,27.6,clear
+567,Black Gram (Urd Beans),Mottagaon,2016-08-06,4425.0,0.31,27.6,clear
+568,Green Gram (Moong),Dhenkanal,2016-08-06,4650.0,0.22,27.6,clear
+569,Green Gram (Moong),Mottagaon,2016-08-06,4650.0,0.22,27.6,clear
+570,Black Gram (Urd Beans),Dhenkanal,2016-09-06,4425.0,0.44,26.4,clear
+571,Black Gram (Urd Beans),Mottagaon,2016-09-06,4425.0,0.39,26.4,clear
+572,Green Gram (Moong),Dhenkanal,2016-09-06,4650.0,0.21,26.4,clear
+573,Green Gram (Moong),Mottagaon,2016-09-06,4650.0,0.23,26.4,clear
+574,Black Gram (Urd Beans),Dhenkanal,2016-10-06,4425.0,0.43,27.0,clear
+575,Black Gram (Urd Beans),Mottagaon,2016-10-06,4425.0,0.31,27.0,clear
+576,Green Gram (Moong),Dhenkanal,2016-10-06,4650.0,0.22,27.0,clear
+577,Green Gram (Moong),Mottagaon,2016-10-06,4650.0,0.22,27.0,clear
+578,Black Gram (Urd Beans),Dhenkanal,2016-11-06,4425.0,0.45,28.0,clear
+579,Black Gram (Urd Beans),Mottagaon,2016-11-06,4425.0,0.32,28.0,clear
+580,Green Gram (Moong),Dhenkanal,2016-11-06,4650.0,0.25,28.0,clear
+581,Green Gram (Moong),Mottagaon,2016-11-06,4650.0,0.21,28.0,clear
+582,Black Gram (Urd Beans),Dhenkanal,2016-12-06,4425.0,0.39,24.4,clear
+583,Black Gram (Urd Beans),Mottagaon,2016-12-06,4425.0,0.3,24.4,clear
+584,Green Gram (Moong),Dhenkanal,2016-12-06,4650.0,0.23,24.4,clear
+585,Green Gram (Moong),Mottagaon,2016-12-06,4650.0,0.21,24.4,clear
+586,Black Gram (Urd Beans),Dhenkanal,2016-06-13,4425.0,0.42,36.4,clear
+587,Black Gram (Urd Beans),Mottagaon,2016-06-13,4425.0,0.32,36.4,clear
+588,Green Gram (Moong),Dhenkanal,2016-06-13,4650.0,0.26,36.4,clear
+589,Green Gram (Moong),Mottagaon,2016-06-13,4650.0,0.21,36.4,clear
+590,Black Gram (Urd Beans),Dhenkanal,2016-06-14,4425.0,0.41,34.2,clear
+591,Black Gram (Urd Beans),Mottagaon,2016-06-14,4425.0,0.31,34.2,clear
+592,Green Gram (Moong),Dhenkanal,2016-06-14,4650.0,0.22,34.2,clear
+593,Green Gram (Moong),Mottagaon,2016-06-14,4650.0,0.2,34.2,clear
+594,Black Gram (Urd Beans),Dhenkanal,2016-06-15,4425.0,0.42,30.4,clear
+595,Black Gram (Urd Beans),Mottagaon,2016-06-15,4425.0,0.32,30.4,clear
+596,Green Gram (Moong),Dhenkanal,2016-06-15,4650.0,0.23,30.4,clear
+597,Green Gram (Moong),Mottagaon,2016-06-15,4650.0,0.22,30.4,clear
+598,Black Gram (Urd Beans),Dhenkanal,2016-06-16,4425.0,0.45,30.4,clear
+599,Black Gram (Urd Beans),Mottagaon,2016-06-16,4425.0,0.33,30.4,clear
+600,Green Gram (Moong),Dhenkanal,2016-06-16,4650.0,0.21,30.4,clear
+601,Green Gram (Moong),Mottagaon,2016-06-16,4650.0,0.24,30.4,clear
+602,Black Gram (Urd Beans),Dhenkanal,2016-06-17,4425.0,0.34,29.6,clear
+603,Black Gram (Urd Beans),Mottagaon,2016-06-17,4425.0,0.35,29.6,clear
+604,Green Gram (Moong),Dhenkanal,2016-06-17,4650.0,0.29,29.6,clear
+605,Green Gram (Moong),Mottagaon,2016-06-17,4650.0,0.21,29.6,clear
+606,Black Gram (Urd Beans),Dhenkanal,2016-06-18,4425.0,0.46,29.0,clear
+607,Black Gram (Urd Beans),Mottagaon,2016-06-18,4425.0,0.32,29.0,clear
+608,Green Gram (Moong),Dhenkanal,2016-06-18,4650.0,0.2,29.0,clear
+609,Green Gram (Moong),Mottagaon,2016-06-18,4650.0,0.22,29.0,clear
+610,Black Gram (Urd Beans),Dhenkanal,2016-06-19,4425.0,0.39,29.2,clear
+611,Black Gram (Urd Beans),Mottagaon,2016-06-19,4425.0,0.21,29.2,clear
+612,Green Gram (Moong),Dhenkanal,2016-06-19,4650.0,0.31,29.2,clear
+613,Green Gram (Moong),Mottagaon,2016-06-19,4650.0,0.21,29.2,clear
+614,Black Gram (Urd Beans),Dhenkanal,2016-06-20,4425.0,0.38,30.6,clear
+615,Black Gram (Urd Beans),Mottagaon,2016-06-20,4425.0,0.31,30.6,clear
+616,Green Gram (Moong),Dhenkanal,2016-06-20,4650.0,0.32,30.6,clear
+617,Green Gram (Moong),Mottagaon,2016-06-20,4650.0,0.21,30.6,clear
+618,Black Gram (Urd Beans),Dhenkanal,2016-06-21,4425.0,0.36,31.6,clear
+619,Black Gram (Urd Beans),Mottagaon,2016-06-21,4425.0,0.31,31.6,clear
+620,Green Gram (Moong),Dhenkanal,2016-06-21,4650.0,0.26,31.6,clear
+621,Green Gram (Moong),Mottagaon,2016-06-21,4650.0,0.22,31.6,clear
+622,Black Gram (Urd Beans),Dhenkanal,2016-06-22,4425.0,0.43,32.4,clear
+623,Black Gram (Urd Beans),Mottagaon,2016-06-22,4425.0,0.33,32.4,clear
+624,Green Gram (Moong),Dhenkanal,2016-06-22,4650.0,0.24,32.4,clear
+625,Green Gram (Moong),Mottagaon,2016-06-22,4650.0,0.23,32.4,clear
+626,Black Gram (Urd Beans),Dhenkanal,2016-06-23,4425.0,0.38,32.4,clear
+627,Black Gram (Urd Beans),Mottagaon,2016-06-23,4425.0,0.31,32.4,clear
+628,Green Gram (Moong),Dhenkanal,2016-06-23,4650.0,0.31,32.4,clear
+629,Black Gram (Urd Beans),Dhenkanal,2016-06-24,4425.0,0.32,33.6,clear
+630,Green Gram (Moong),Dhenkanal,2016-06-24,4650.0,0.19,33.6,clear
+631,Black Gram (Urd Beans),Dhenkanal,2016-06-25,4425.0,0.42,33.0,clear
+632,Green Gram (Moong),Dhenkanal,2016-06-25,4650.0,0.33,33.0,clear
+633,Black Gram (Urd Beans),Dhenkanal,2016-06-26,4425.0,0.41,32.0,clear
+634,Black Gram (Urd Beans),Mottagaon,2016-06-26,4425.0,0.46,32.0,clear
+635,Green Gram (Moong),Dhenkanal,2016-06-26,4650.0,0.24,32.0,clear
+636,Green Gram (Moong),Mottagaon,2016-06-26,4650.0,0.2,32.0,clear
+637,Black Gram (Urd Beans),Dhenkanal,2016-06-27,4425.0,0.31,27.4,clear
+638,Black Gram (Urd Beans),Mottagaon,2016-06-27,4425.0,0.33,27.4,clear
+639,Green Gram (Moong),Dhenkanal,2016-06-27,4650.0,0.28,27.4,clear
+640,Green Gram (Moong),Mottagaon,2016-06-27,4650.0,0.25,27.4,clear
+641,Black Gram (Urd Beans),Dhenkanal,2016-06-28,4425.0,0.44,29.0,clear
+642,Black Gram (Urd Beans),Mottagaon,2016-06-28,4425.0,0.39,29.0,clear
+643,Green Gram (Moong),Dhenkanal,2016-06-28,4650.0,0.33,29.0,clear
+644,Green Gram (Moong),Mottagaon,2016-06-28,4650.0,0.21,29.0,clear
+645,Black Gram (Urd Beans),Dhenkanal,2016-06-29,4425.0,0.32,31.0,clear
+646,Black Gram (Urd Beans),Mottagaon,2016-06-29,4425.0,0.42,31.0,clear
+647,Green Gram (Moong),Dhenkanal,2016-06-29,4650.0,0.29,31.0,clear
+648,Green Gram (Moong),Mottagaon,2016-06-29,4650.0,0.19,31.0,clear
+649,Black Gram (Urd Beans),Dhenkanal,2016-06-30,4425.0,0.42,31.2,clear
+650,Black Gram (Urd Beans),Mottagaon,2016-06-30,4425.0,0.33,31.2,clear
+651,Green Gram (Moong),Dhenkanal,2016-06-30,4650.0,0.29,31.2,clear
+652,Green Gram (Moong),Mottagaon,2016-06-30,4650.0,0.21,31.2,clear
+653,Black Gram (Urd Beans),Dhenkanal,2016-01-07,4425.0,0.41,24.4,clear
+654,Black Gram (Urd Beans),Mottagaon,2016-01-07,4425.0,0.31,24.4,clear
+655,Green Gram (Moong),Dhenkanal,2016-01-07,4650.0,0.24,24.4,clear
+656,Green Gram (Moong),Mottagaon,2016-01-07,4650.0,0.19,24.4,clear
+657,Black Gram (Urd Beans),Dhenkanal,2016-02-07,4425.0,0.31,29.0,clear
+658,Black Gram (Urd Beans),Mottagaon,2016-02-07,4425.0,0.33,29.0,clear
+659,Green Gram (Moong),Dhenkanal,2016-02-07,4650.0,0.22,29.0,clear
+660,Green Gram (Moong),Mottagaon,2016-02-07,4650.0,0.2,29.0,clear
+661,Black Gram (Urd Beans),Dhenkanal,2016-03-07,4425.0,0.31,32.0,clear
+662,Black Gram (Urd Beans),Mottagaon,2016-03-07,4425.0,0.31,32.0,clear
+663,Green Gram (Moong),Dhenkanal,2016-03-07,4650.0,0.21,32.0,clear
+664,Green Gram (Moong),Mottagaon,2016-03-07,4650.0,0.21,32.0,clear
+665,Black Gram (Urd Beans),Dhenkanal,2016-04-07,4425.0,0.42,35.0,clear
+666,Black Gram (Urd Beans),Mottagaon,2016-04-07,4425.0,0.32,35.0,clear
+667,Green Gram (Moong),Dhenkanal,2016-04-07,4650.0,0.23,35.0,clear
+668,Green Gram (Moong),Mottagaon,2016-04-07,4650.0,0.21,35.0,clear
+669,Black Gram (Urd Beans),Dhenkanal,2016-05-07,4425.0,0.43,34.0,clear
+670,Green Gram (Moong),Dhenkanal,2016-05-07,4650.0,0.22,34.0,clear
+671,Black Gram (Urd Beans),Dhenkanal,2016-07-07,4425.0,0.39,31.4,clear
+672,Black Gram (Urd Beans),Mottagaon,2016-07-07,4425.0,0.33,31.4,clear
+673,Green Gram (Moong),Dhenkanal,2016-07-07,4650.0,0.29,31.4,clear
+674,Green Gram (Moong),Mottagaon,2016-07-07,4650.0,0.21,31.4,clear
+675,Black Gram (Urd Beans),Dhenkanal,2016-08-07,4425.0,0.42,29.4,clear
+676,Black Gram (Urd Beans),Mottagaon,2016-08-07,4425.0,0.32,29.4,clear
+677,Green Gram (Moong),Dhenkanal,2016-08-07,4650.0,0.22,29.4,clear
+678,Green Gram (Moong),Mottagaon,2016-08-07,4650.0,0.21,29.4,clear
+679,Black Gram (Urd Beans),Dhenkanal,2016-09-07,4425.0,0.36,28.0,clear
+680,Green Gram (Moong),Dhenkanal,2016-09-07,4650.0,0.29,28.0,clear
+681,Black Gram (Urd Beans),Dhenkanal,2016-10-07,4425.0,0.35,27.8,clear
+682,Green Gram (Moong),Dhenkanal,2016-10-07,4650.0,0.21,27.8,clear
+683,Green Gram (Moong),Mottagaon,2016-10-07,4650.0,0.22,27.8,clear
+684,Black Gram (Urd Beans),Dhenkanal,2016-11-07,4425.0,0.33,26.0,clear
+685,Black Gram (Urd Beans),Mottagaon,2016-11-07,4425.0,0.27,26.0,clear
+686,Green Gram (Moong),Dhenkanal,2016-11-07,4650.0,0.22,26.0,clear
+687,Green Gram (Moong),Mottagaon,2016-11-07,4650.0,0.21,26.0,clear
+688,Black Gram (Urd Beans),Dhenkanal,2016-12-07,4425.0,0.43,24.8,clear
+689,Black Gram (Urd Beans),Mottagaon,2016-12-07,4425.0,0.21,24.8,clear
+690,Green Gram (Moong),Dhenkanal,2016-12-07,4650.0,0.13,24.8,clear
+691,Green Gram (Moong),Mottagaon,2016-12-07,4650.0,0.24,24.8,clear
+692,Black Gram (Urd Beans),Dhenkanal,2016-07-13,4425.0,0.39,31.4,clear
+693,Black Gram (Urd Beans),Mottagaon,2016-07-13,4425.0,0.42,31.4,clear
+694,Green Gram (Moong),Dhenkanal,2016-07-13,4650.0,0.23,31.4,clear
+695,Green Gram (Moong),Mottagaon,2016-07-13,4650.0,0.22,31.4,clear
+696,Black Gram (Urd Beans),Dhenkanal,2016-07-14,4425.0,0.29,31.0,clear
+697,Black Gram (Urd Beans),Mottagaon,2016-07-14,4425.0,0.31,31.0,clear
+698,Green Gram (Moong),Dhenkanal,2016-07-14,4650.0,0.24,31.0,clear
+699,Green Gram (Moong),Mottagaon,2016-07-14,4650.0,0.2,31.0,clear
+700,Black Gram (Urd Beans),Dhenkanal,2016-07-15,4425.0,0.42,28.0,clear
+701,Black Gram (Urd Beans),Mottagaon,2016-07-15,4425.0,0.29,28.0,clear
+702,Green Gram (Moong),Dhenkanal,2016-07-15,4650.0,0.28,28.0,clear
+703,Green Gram (Moong),Mottagaon,2016-07-15,4650.0,0.21,28.0,clear
+704,Black Gram (Urd Beans),Dhenkanal,2016-07-16,4425.0,0.41,27.2,clear
+705,Black Gram (Urd Beans),Mottagaon,2016-07-16,4425.0,0.29,27.2,clear
+706,Green Gram (Moong),Dhenkanal,2016-07-16,6500.0,0.2,27.2,clear
+707,Green Gram (Moong),Mottagaon,2016-07-16,4650.0,0.21,27.2,clear
+708,Black Gram (Urd Beans),Dhenkanal,2016-07-17,4425.0,0.33,30.4,clear
+709,Black Gram (Urd Beans),Mottagaon,2016-07-17,4425.0,0.33,30.4,clear
+710,Green Gram (Moong),Dhenkanal,2016-07-17,4650.0,0.22,30.4,clear
+711,Green Gram (Moong),Mottagaon,2016-07-17,4650.0,0.21,30.4,clear
+712,Black Gram (Urd Beans),Dhenkanal,2016-07-18,4425.0,0.25,28.6,clear
+713,Black Gram (Urd Beans),Mottagaon,2016-07-18,4425.0,0.29,28.6,clear
+714,Green Gram (Moong),Dhenkanal,2016-07-18,4650.0,0.23,28.6,clear
+715,Green Gram (Moong),Mottagaon,2016-07-18,4650.0,0.23,28.6,clear
+716,Black Gram (Urd Beans),Dhenkanal,2016-07-19,4425.0,0.31,33.0,clear
+717,Black Gram (Urd Beans),Mottagaon,2016-07-19,4425.0,0.35,33.0,clear
+718,Green Gram (Moong),Dhenkanal,2016-07-19,4650.0,0.21,33.0,clear
+719,Green Gram (Moong),Mottagaon,2016-07-19,4650.0,0.23,33.0,clear
+720,Black Gram (Urd Beans),Dhenkanal,2016-07-20,4425.0,0.42,33.0,clear
+721,Black Gram (Urd Beans),Mottagaon,2016-07-20,4425.0,0.39,33.0,clear
+722,Green Gram (Moong),Dhenkanal,2016-07-20,4650.0,0.26,33.0,clear
+723,Green Gram (Moong),Mottagaon,2016-07-20,4650.0,0.31,33.0,clear
+724,Black Gram (Urd Beans),Dhenkanal,2016-07-21,4425.0,0.43,31.0,clear
+725,Black Gram (Urd Beans),Mottagaon,2016-07-21,4425.0,0.3,31.0,clear
+726,Green Gram (Moong),Dhenkanal,2016-07-21,4650.0,0.23,31.0,clear
+727,Green Gram (Moong),Mottagaon,2016-07-21,4650.0,0.23,31.0,clear
+728,Black Gram (Urd Beans),Dhenkanal,2016-07-22,4425.0,0.43,28.2,clear
+729,Black Gram (Urd Beans),Mottagaon,2016-07-22,4425.0,0.36,28.2,clear
+730,Green Gram (Moong),Dhenkanal,2016-07-22,4650.0,0.31,28.2,clear
+731,Green Gram (Moong),Mottagaon,2016-07-22,4650.0,0.21,28.2,clear
+732,Black Gram (Urd Beans),Dhenkanal,2016-07-23,4425.0,0.36,30.2,clear
+733,Black Gram (Urd Beans),Mottagaon,2016-07-23,4425.0,0.33,30.2,clear
+734,Green Gram (Moong),Dhenkanal,2016-07-23,4650.0,0.26,30.2,clear
+735,Green Gram (Moong),Mottagaon,2016-07-23,4650.0,0.24,30.2,clear
+736,Black Gram (Urd Beans),Dhenkanal,2016-07-24,4425.0,0.34,29.6,clear
+737,Black Gram (Urd Beans),Mottagaon,2016-07-24,4425.0,0.33,29.6,clear
+738,Green Gram (Moong),Dhenkanal,2016-07-24,4650.0,0.22,29.6,clear
+739,Green Gram (Moong),Mottagaon,2016-07-24,4650.0,0.21,29.6,clear
+740,Black Gram (Urd Beans),Dhenkanal,2016-07-25,4425.0,0.43,29.4,clear
+741,Black Gram (Urd Beans),Mottagaon,2016-07-25,4425.0,0.31,29.4,clear
+742,Green Gram (Moong),Dhenkanal,2016-07-25,4650.0,0.25,29.4,clear
+743,Green Gram (Moong),Mottagaon,2016-07-25,4650.0,0.25,29.4,clear
+744,Black Gram (Urd Beans),Dhenkanal,2016-07-27,4425.0,0.46,30.0,clear
+745,Black Gram (Urd Beans),Mottagaon,2016-07-27,4425.0,0.32,30.0,clear
+746,Green Gram (Moong),Dhenkanal,2016-07-27,4650.0,0.23,30.0,clear
+747,Green Gram (Moong),Mottagaon,2016-07-27,4650.0,0.21,30.0,clear
+748,Black Gram (Urd Beans),Dhenkanal,2016-07-28,4425.0,0.47,32.4,clear
+749,Black Gram (Urd Beans),Mottagaon,2016-07-28,4425.0,0.3,32.4,clear
+750,Green Gram (Moong),Dhenkanal,2016-07-28,4650.0,0.23,32.4,clear
+751,Green Gram (Moong),Mottagaon,2016-07-28,4650.0,0.24,32.4,clear
+752,Black Gram (Urd Beans),Dhenkanal,2016-01-08,4425.0,0.44,25.6,clear
+753,Green Gram (Moong),Dhenkanal,2016-01-08,4650.0,0.22,25.6,clear
+754,Black Gram (Urd Beans),Dhenkanal,2016-02-08,4425.0,0.44,28.6,clear
+755,Green Gram (Moong),Dhenkanal,2016-02-08,4650.0,0.21,28.6,clear
+756,Black Gram (Urd Beans),Dhenkanal,2016-03-08,4425.0,0.25,32.4,clear
+757,Black Gram (Urd Beans),Mottagaon,2016-03-08,4425.0,0.42,32.4,clear
+758,Green Gram (Moong),Dhenkanal,2016-03-08,4650.0,0.19,32.4,clear
+759,Green Gram (Moong),Mottagaon,2016-03-08,4650.0,0.25,32.4,clear
+760,Black Gram (Urd Beans),Dhenkanal,2016-04-08,4425.0,0.46,34.0,clear
+761,Black Gram (Urd Beans),Mottagaon,2016-04-08,4425.0,0.42,34.0,clear
+762,Green Gram (Moong),Dhenkanal,2016-04-08,4650.0,0.21,34.0,clear
+763,Green Gram (Moong),Mottagaon,2016-04-08,4650.0,0.28,34.0,clear
+764,Black Gram (Urd Beans),Dhenkanal,2016-05-08,4425.0,0.42,31.6,clear
+765,Black Gram (Urd Beans),Mottagaon,2016-05-08,4425.0,0.35,31.6,clear
+766,Green Gram (Moong),Dhenkanal,2016-05-08,4650.0,0.24,31.6,clear
+767,Green Gram (Moong),Mottagaon,2016-05-08,4650.0,0.22,31.6,clear
+768,Black Gram (Urd Beans),Dhenkanal,2016-06-08,4425.0,0.33,30.6,clear
+769,Black Gram (Urd Beans),Mottagaon,2016-06-08,4425.0,0.31,30.6,clear
+770,Green Gram (Moong),Dhenkanal,2016-06-08,4650.0,0.21,30.6,clear
+771,Green Gram (Moong),Mottagaon,2016-06-08,4650.0,0.25,30.6,clear
+772,Black Gram (Urd Beans),Dhenkanal,2016-08-08,4425.0,0.46,28.6,clear
+773,Black Gram (Urd Beans),Mottagaon,2016-08-08,4425.0,0.31,28.6,clear
+774,Green Gram (Moong),Dhenkanal,2016-08-08,4650.0,0.24,28.6,clear
+775,Green Gram (Moong),Mottagaon,2016-08-08,4650.0,0.21,28.6,clear
+776,Black Gram (Urd Beans),Dhenkanal,2016-10-08,4425.0,0.41,29.0,clear
+777,Black Gram (Urd Beans),Mottagaon,2016-10-08,4425.0,0.31,29.0,clear
+778,Green Gram (Moong),Dhenkanal,2016-10-08,4650.0,0.3,29.0,clear
+779,Green Gram (Moong),Mottagaon,2016-10-08,4650.0,0.22,29.0,clear
+780,Black Gram (Urd Beans),Dhenkanal,2016-11-08,4425.0,0.43,25.0,clear
+781,Black Gram (Urd Beans),Mottagaon,2016-11-08,4425.0,0.33,25.0,clear
+782,Green Gram (Moong),Dhenkanal,2016-11-08,4650.0,0.29,25.0,clear
+783,Green Gram (Moong),Mottagaon,2016-11-08,4650.0,0.21,25.0,clear
+784,Black Gram (Urd Beans),Dhenkanal,2016-12-08,4425.0,0.45,24.2,clear
+785,Black Gram (Urd Beans),Mottagaon,2016-12-08,4425.0,0.35,24.2,clear
+786,Green Gram (Moong),Dhenkanal,2016-12-08,4650.0,0.27,24.2,clear
+787,Green Gram (Moong),Mottagaon,2016-12-08,4650.0,0.21,24.2,clear
+788,Black Gram (Urd Beans),Dhenkanal,2016-08-13,4425.0,0.41,32.0,clear
+789,Black Gram (Urd Beans),Mottagaon,2016-08-13,4425.0,0.33,32.0,clear
+790,Green Gram (Moong),Dhenkanal,2016-08-13,4650.0,0.22,32.0,clear
+791,Green Gram (Moong),Mottagaon,2016-08-13,4650.0,0.19,32.0,clear
+792,Black Gram (Urd Beans),Dhenkanal,2016-08-20,4425.0,0.42,33.0,clear
+793,Black Gram (Urd Beans),Mottagaon,2016-08-20,4425.0,0.4,33.0,clear
+794,Green Gram (Moong),Dhenkanal,2016-08-20,4650.0,0.29,33.0,clear
+795,Green Gram (Moong),Mottagaon,2016-08-20,4650.0,0.3,33.0,clear
+796,Black Gram (Urd Beans),Dhenkanal,2016-08-21,4425.0,0.42,31.2,clear
+797,Black Gram (Urd Beans),Mottagaon,2016-08-21,4425.0,0.31,31.2,clear
+798,Green Gram (Moong),Dhenkanal,2016-08-21,4650.0,0.23,31.2,clear
+799,Black Gram (Urd Beans),Dhenkanal,2016-08-22,4425.0,0.4,26.6,clear
+800,Green Gram (Moong),Dhenkanal,2016-08-22,4650.0,0.22,26.6,clear
+801,Black Gram (Urd Beans),Dhenkanal,2016-08-23,4425.0,0.43,28.8,clear
+802,Black Gram (Urd Beans),Mottagaon,2016-08-23,4425.0,0.32,28.8,clear
+803,Green Gram (Moong),Dhenkanal,2016-08-23,4650.0,0.27,28.8,clear
+804,Green Gram (Moong),Mottagaon,2016-08-23,4650.0,0.3,28.8,clear
+805,Black Gram (Urd Beans),Dhenkanal,2016-08-24,4425.0,0.41,30.4,clear
+806,Black Gram (Urd Beans),Mottagaon,2016-08-24,4425.0,0.34,30.4,clear
+807,Green Gram (Moong),Dhenkanal,2016-08-24,4650.0,0.34,30.4,clear
+808,Green Gram (Moong),Mottagaon,2016-08-24,4650.0,0.29,30.4,clear
+809,Black Gram (Urd Beans),Dhenkanal,2016-08-25,4425.0,0.42,30.0,clear
+810,Green Gram (Moong),Dhenkanal,2016-08-25,4650.0,0.28,30.0,clear
+811,Black Gram (Urd Beans),Dhenkanal,2016-08-26,4425.0,0.41,29.2,clear
+812,Green Gram (Moong),Dhenkanal,2016-08-26,4650.0,0.21,29.2,clear
+813,Black Gram (Urd Beans),Dhenkanal,2016-08-28,4575.0,0.32,31.0,clear
+814,Black Gram (Urd Beans),Mottagaon,2016-08-28,4575.0,0.29,31.0,clear
+815,Green Gram (Moong),Dhenkanal,2016-08-28,4800.0,0.31,31.0,clear
+816,Green Gram (Moong),Mottagaon,2016-08-28,4800.0,0.28,31.0,clear
+817,Black Gram (Urd Beans),Dhenkanal,2016-08-29,4575.0,0.41,30.4,clear
+818,Black Gram (Urd Beans),Mottagaon,2016-08-29,4575.0,0.31,30.4,clear
+819,Green Gram (Moong),Dhenkanal,2016-08-29,4800.0,0.33,30.4,clear
+820,Green Gram (Moong),Mottagaon,2016-08-29,4800.0,0.21,30.4,clear
+821,Black Gram (Urd Beans),Dhenkanal,2016-08-30,4575.0,0.42,31.0,clear
+822,Black Gram (Urd Beans),Mottagaon,2016-08-30,4575.0,0.32,31.0,clear
+823,Green Gram (Moong),Dhenkanal,2016-08-30,4800.0,0.32,31.0,clear
+824,Green Gram (Moong),Mottagaon,2016-08-30,4800.0,0.22,31.0,clear
+825,Black Gram (Urd Beans),Dhenkanal,2016-08-31,4575.0,0.41,29.4,clear
+826,Green Gram (Moong),Dhenkanal,2016-08-31,4800.0,0.22,29.4,clear
+827,Black Gram (Urd Beans),Dhenkanal,2016-01-09,4575.0,0.42,27.0,clear
+828,Black Gram (Urd Beans),Dhenkanal,2016-07-09,4575.0,0.42,29.0,clear
+829,Black Gram (Urd Beans),Mottagaon,2016-07-09,4575.0,0.38,29.0,clear
+830,Green Gram (Moong),Dhenkanal,2016-07-09,4800.0,0.22,29.0,clear
+831,Green Gram (Moong),Mottagaon,2016-07-09,4800.0,0.18,29.0,clear
+832,Black Gram (Urd Beans),Dhenkanal,2016-08-09,4575.0,0.39,28.0,clear
+833,Black Gram (Urd Beans),Mottagaon,2016-08-09,4575.0,0.32,28.0,clear
+834,Green Gram (Moong),Dhenkanal,2016-08-09,4800.0,0.18,28.0,clear
+835,Green Gram (Moong),Mottagaon,2016-08-09,4800.0,0.22,28.0,clear
+836,Black Gram (Urd Beans),Dhenkanal,2016-09-09,4575.0,0.37,30.6,clear
+837,Black Gram (Urd Beans),Mottagaon,2016-09-09,4575.0,0.33,30.6,clear
+838,Green Gram (Moong),Dhenkanal,2016-09-09,4800.0,0.21,30.6,clear
+839,Green Gram (Moong),Mottagaon,2016-09-09,4800.0,0.22,30.6,clear
+840,Black Gram (Urd Beans),Dhenkanal,2016-10-09,4575.0,0.43,28.6,clear
+841,Black Gram (Urd Beans),Mottagaon,2016-10-09,4575.0,0.33,28.6,clear
+842,Green Gram (Moong),Dhenkanal,2016-10-09,4800.0,0.2,28.6,clear
+843,Green Gram (Moong),Mottagaon,2016-10-09,4800.0,0.21,28.6,clear
+844,Black Gram (Urd Beans),Dhenkanal,2016-11-09,4575.0,0.41,25.4,clear
+845,Black Gram (Urd Beans),Mottagaon,2016-11-09,4575.0,0.32,25.4,clear
+846,Green Gram (Moong),Dhenkanal,2016-11-09,4800.0,0.24,25.4,clear
+847,Green Gram (Moong),Mottagaon,2016-11-09,4800.0,0.21,25.4,clear
+848,Black Gram (Urd Beans),Dhenkanal,2016-12-09,4575.0,0.45,24.2,clear
+849,Black Gram (Urd Beans),Mottagaon,2016-12-09,4575.0,0.3,24.2,clear
+850,Green Gram (Moong),Dhenkanal,2016-12-09,4800.0,0.21,24.2,clear
+851,Green Gram (Moong),Mottagaon,2016-12-09,4800.0,0.19,24.2,clear
+852,Black Gram (Urd Beans),Dhenkanal,2016-09-14,4575.0,0.42,29.2,clear
+853,Black Gram (Urd Beans),Mottagaon,2016-09-14,4575.0,0.35,29.2,clear
+854,Green Gram (Moong),Dhenkanal,2016-09-14,4800.0,0.27,29.2,clear
+855,Green Gram (Moong),Mottagaon,2016-09-14,4800.0,0.22,29.2,clear
+856,Black Gram (Urd Beans),Dhenkanal,2016-09-15,4575.0,0.42,28.4,clear
+857,Black Gram (Urd Beans),Mottagaon,2016-09-15,4575.0,0.33,28.4,clear
+858,Green Gram (Moong),Dhenkanal,2016-09-15,4800.0,0.23,28.4,clear
+859,Black Gram (Urd Beans),Dhenkanal,2016-09-16,4575.0,0.43,29.4,clear
+860,Black Gram (Urd Beans),Mottagaon,2016-09-16,4575.0,0.33,29.4,clear
+861,Green Gram (Moong),Dhenkanal,2016-09-16,4800.0,0.25,29.4,clear
+862,Green Gram (Moong),Mottagaon,2016-09-16,4800.0,0.23,29.4,clear
+863,Black Gram (Urd Beans),Dhenkanal,2016-09-17,4575.0,0.4,30.0,clear
+864,Black Gram (Urd Beans),Mottagaon,2016-09-17,4575.0,0.33,30.0,clear
+865,Green Gram (Moong),Dhenkanal,2016-09-17,4800.0,0.23,30.0,clear
+866,Green Gram (Moong),Mottagaon,2016-09-17,4800.0,0.22,30.0,clear
+867,Black Gram (Urd Beans),Dhenkanal,2016-09-18,4575.0,0.42,29.4,clear
+868,Black Gram (Urd Beans),Mottagaon,2016-09-18,4575.0,0.24,29.4,clear
+869,Green Gram (Moong),Dhenkanal,2016-09-18,4800.0,0.29,29.4,clear
+870,Green Gram (Moong),Mottagaon,2016-09-18,4800.0,0.21,29.4,clear
+871,Black Gram (Urd Beans),Dhenkanal,2016-09-19,4575.0,0.4,31.0,clear
+872,Black Gram (Urd Beans),Mottagaon,2016-09-19,4575.0,0.31,31.0,clear
+873,Green Gram (Moong),Dhenkanal,2016-09-19,4800.0,0.29,31.0,clear
+874,Green Gram (Moong),Mottagaon,2016-09-19,4800.0,0.2,31.0,clear
+875,Black Gram (Urd Beans),Dhenkanal,2016-09-20,4575.0,0.4,31.4,clear
+876,Green Gram (Moong),Dhenkanal,2016-09-20,4800.0,0.22,31.4,clear
+877,Black Gram (Urd Beans),Dhenkanal,2016-09-21,4575.0,0.4,29.6,clear
+878,Green Gram (Moong),Dhenkanal,2016-09-21,4800.0,0.22,29.6,clear
+879,Black Gram (Urd Beans),Dhenkanal,2016-09-22,4575.0,0.37,29.6,clear
+880,Green Gram (Moong),Dhenkanal,2016-09-22,4800.0,0.21,29.6,clear
+881,Black Gram (Urd Beans),Dhenkanal,2016-09-24,4575.0,0.36,27.4,clear
+882,Black Gram (Urd Beans),Mottagaon,2016-09-24,4575.0,0.31,27.4,clear
+883,Green Gram (Moong),Dhenkanal,2016-09-24,4800.0,0.23,27.4,clear
+884,Green Gram (Moong),Mottagaon,2016-09-24,4800.0,0.21,27.4,clear
+885,Black Gram (Urd Beans),Dhenkanal,2016-09-25,4575.0,0.3,28.6,clear
+886,Black Gram (Urd Beans),Mottagaon,2016-09-25,4575.0,0.3,28.6,clear
+887,Green Gram (Moong),Dhenkanal,2016-09-25,4800.0,0.21,28.6,clear
+888,Green Gram (Moong),Mottagaon,2016-09-25,4800.0,0.18,28.6,clear
+889,Black Gram (Urd Beans),Dhenkanal,2016-09-26,4575.0,0.32,29.4,clear
+890,Black Gram (Urd Beans),Mottagaon,2016-09-26,4575.0,0.31,29.4,clear
+891,Green Gram (Moong),Dhenkanal,2016-09-26,4800.0,0.22,29.4,clear
+892,Green Gram (Moong),Mottagaon,2016-09-26,4800.0,0.21,29.4,clear
+893,Black Gram (Urd Beans),Dhenkanal,2016-09-28,4575.0,0.42,28.0,clear
+894,Black Gram (Urd Beans),Mottagaon,2016-09-28,4575.0,0.3,28.0,clear
+895,Green Gram (Moong),Dhenkanal,2016-09-28,4800.0,0.21,28.0,clear
+896,Green Gram (Moong),Mottagaon,2016-09-28,4800.0,0.19,28.0,clear
+897,Black Gram (Urd Beans),Dhenkanal,2016-09-29,4575.0,0.42,28.0,clear
+898,Black Gram (Urd Beans),Mottagaon,2016-09-29,4575.0,0.21,28.0,clear
+899,Green Gram (Moong),Dhenkanal,2016-09-29,4800.0,0.21,28.0,clear
+900,Green Gram (Moong),Mottagaon,2016-09-29,4800.0,0.21,28.0,clear
+901,Black Gram (Urd Beans),Dhenkanal,2016-09-30,4575.0,0.42,28.0,clear
+902,Black Gram (Urd Beans),Mottagaon,2016-09-30,4575.0,0.31,28.0,clear
+903,Green Gram (Moong),Dhenkanal,2016-09-30,4800.0,0.29,28.0,clear
+904,Green Gram (Moong),Mottagaon,2016-09-30,4800.0,0.22,28.0,clear
+905,Black Gram (Urd Beans),Dhenkanal,2016-01-10,4575.0,0.27,24.6,clear
+906,Black Gram (Urd Beans),Mottagaon,2016-01-10,4575.0,0.35,24.6,clear
+907,Green Gram (Moong),Dhenkanal,2016-01-10,4800.0,0.3,24.6,clear
+908,Green Gram (Moong),Mottagaon,2016-01-10,4800.0,0.22,24.6,clear
+909,Black Gram (Urd Beans),Dhenkanal,2016-02-10,4575.0,0.42,29.2,clear
+910,Black Gram (Urd Beans),Mottagaon,2016-02-10,4575.0,0.28,29.2,clear
+911,Green Gram (Moong),Dhenkanal,2016-02-10,4800.0,0.31,29.2,clear
+912,Green Gram (Moong),Mottagaon,2016-02-10,4800.0,0.16,29.2,clear
+913,Black Gram (Urd Beans),Dhenkanal,2016-03-10,4575.0,0.36,33.0,clear
+914,Black Gram (Urd Beans),Mottagaon,2016-03-10,4575.0,0.31,33.0,clear
+915,Green Gram (Moong),Dhenkanal,2016-03-10,4800.0,0.23,33.0,clear
+916,Green Gram (Moong),Mottagaon,2016-03-10,4800.0,0.14,33.0,clear
+917,Black Gram (Urd Beans),Dhenkanal,2016-06-10,4575.0,0.29,34.0,clear
+918,Black Gram (Urd Beans),Mottagaon,2016-06-10,4575.0,0.31,34.0,clear
+919,Green Gram (Moong),Dhenkanal,2016-06-10,4800.0,0.2,34.0,clear
+920,Green Gram (Moong),Mottagaon,2016-06-10,4800.0,0.25,34.0,clear
+921,Black Gram (Urd Beans),Dhenkanal,2016-10-10,4575.0,0.32,28.0,clear
+922,Black Gram (Urd Beans),Mottagaon,2016-10-10,4575.0,0.33,28.0,clear
+923,Green Gram (Moong),Dhenkanal,2016-10-10,4800.0,0.21,28.0,clear
+924,Green Gram (Moong),Mottagaon,2016-10-10,4800.0,0.22,28.0,clear
+925,Black Gram (Urd Beans),Dhenkanal,2016-11-10,4575.0,0.32,25.4,clear
+926,Black Gram (Urd Beans),Mottagaon,2016-11-10,4575.0,0.29,25.4,clear
+927,Green Gram (Moong),Dhenkanal,2016-11-10,4800.0,0.22,25.4,clear
+928,Black Gram (Urd Beans),Dhenkanal,2016-10-13,4575.0,0.33,29.0,clear
+929,Black Gram (Urd Beans),Mottagaon,2016-10-13,4575.0,0.35,29.0,clear
+930,Green Gram (Moong),Dhenkanal,2016-10-13,4800.0,0.29,29.0,clear
+931,Green Gram (Moong),Mottagaon,2016-10-13,4800.0,0.21,29.0,clear
+932,Black Gram (Urd Beans),Dhenkanal,2016-10-14,4575.0,0.43,28.0,clear
+933,Black Gram (Urd Beans),Mottagaon,2016-10-14,4575.0,0.31,28.0,clear
+934,Green Gram (Moong),Dhenkanal,2016-10-14,4800.0,0.22,28.0,clear
+935,Green Gram (Moong),Mottagaon,2016-10-14,4800.0,0.2,28.0,clear
+936,Black Gram (Urd Beans),Dhenkanal,2016-10-15,4575.0,0.35,28.0,clear
+937,Black Gram (Urd Beans),Mottagaon,2016-10-15,4575.0,0.24,28.0,clear
+938,Green Gram (Moong),Dhenkanal,2016-10-15,4800.0,0.21,28.0,clear
+939,Green Gram (Moong),Mottagaon,2016-10-15,4800.0,0.21,28.0,clear
+940,Black Gram (Urd Beans),Dhenkanal,2016-10-17,4575.0,0.42,29.4,clear
+941,Black Gram (Urd Beans),Mottagaon,2016-10-17,4575.0,0.33,29.4,clear
+942,Green Gram (Moong),Dhenkanal,2016-10-17,4800.0,0.31,29.4,clear
+943,Green Gram (Moong),Mottagaon,2016-10-17,4800.0,0.26,29.4,clear
+944,Black Gram (Urd Beans),Dhenkanal,2016-10-18,4575.0,0.44,26.4,clear
+945,Black Gram (Urd Beans),Mottagaon,2016-10-18,4575.0,0.32,26.4,clear
+946,Green Gram (Moong),Dhenkanal,2016-10-18,4800.0,0.23,26.4,clear
+947,Green Gram (Moong),Mottagaon,2016-10-18,4800.0,0.21,26.4,clear
+948,Black Gram (Urd Beans),Dhenkanal,2016-10-19,4575.0,0.35,29.4,clear
+949,Black Gram (Urd Beans),Mottagaon,2016-10-19,4575.0,0.42,29.4,clear
+950,Green Gram (Moong),Dhenkanal,2016-10-19,4800.0,0.23,29.4,clear
+951,Green Gram (Moong),Mottagaon,2016-10-19,4800.0,0.21,29.4,clear
+952,Black Gram (Urd Beans),Dhenkanal,2016-10-20,4575.0,0.41,29.2,clear
+953,Black Gram (Urd Beans),Mottagaon,2016-10-20,4575.0,0.33,29.2,clear
+954,Green Gram (Moong),Dhenkanal,2016-10-20,4800.0,0.14,29.2,clear
+955,Green Gram (Moong),Mottagaon,2016-10-20,4800.0,0.21,29.2,clear
+956,Black Gram (Urd Beans),Dhenkanal,2016-10-21,4575.0,0.29,29.0,clear
+957,Black Gram (Urd Beans),Mottagaon,2016-10-21,4575.0,0.26,29.0,clear
+958,Green Gram (Moong),Dhenkanal,2016-10-21,4800.0,0.22,29.0,clear
+959,Green Gram (Moong),Mottagaon,2016-10-21,4800.0,0.18,29.0,clear
+960,Black Gram (Urd Beans),Dhenkanal,2016-10-22,4575.0,0.41,29.4,clear
+961,Black Gram (Urd Beans),Mottagaon,2016-10-22,4575.0,0.31,29.4,clear
+962,Green Gram (Moong),Dhenkanal,2016-10-22,4800.0,0.21,29.4,clear
+963,Green Gram (Moong),Mottagaon,2016-10-22,4800.0,0.18,29.4,clear
+964,Black Gram (Urd Beans),Dhenkanal,2016-10-23,4575.0,0.42,29.6,clear
+965,Black Gram (Urd Beans),Mottagaon,2016-10-23,4575.0,0.28,29.6,clear
+966,Green Gram (Moong),Dhenkanal,2016-10-23,4800.0,0.21,29.6,clear
+967,Green Gram (Moong),Mottagaon,2016-10-23,4800.0,0.2,29.6,clear
+968,Black Gram (Urd Beans),Dhenkanal,2016-10-24,4575.0,0.43,28.4,clear
+969,Black Gram (Urd Beans),Mottagaon,2016-10-24,4575.0,0.22,28.4,clear
+970,Green Gram (Moong),Dhenkanal,2016-10-24,4800.0,0.22,28.4,clear
+971,Green Gram (Moong),Mottagaon,2016-10-24,4800.0,0.17,28.4,clear
+972,Black Gram (Urd Beans),Dhenkanal,2016-10-25,4575.0,0.42,28.6,clear
+973,Black Gram (Urd Beans),Mottagaon,2016-10-25,4575.0,0.31,28.6,clear
+974,Green Gram (Moong),Dhenkanal,2016-10-25,4800.0,0.22,28.6,clear
+975,Green Gram (Moong),Mottagaon,2016-10-25,4800.0,0.18,28.6,clear
+976,Black Gram (Urd Beans),Dhenkanal,2016-10-26,4575.0,0.44,29.2,clear
+977,Black Gram (Urd Beans),Mottagaon,2016-10-26,4575.0,0.33,29.2,clear
+978,Green Gram (Moong),Dhenkanal,2016-10-26,4800.0,0.22,29.2,clear
+979,Green Gram (Moong),Mottagaon,2016-10-26,4800.0,0.21,29.2,clear
+980,Black Gram (Urd Beans),Dhenkanal,2016-10-27,4575.0,0.37,27.4,clear
+981,Black Gram (Urd Beans),Mottagaon,2016-10-27,4575.0,0.3,27.4,clear
+982,Green Gram (Moong),Dhenkanal,2016-10-27,4800.0,0.22,27.4,clear
+983,Green Gram (Moong),Mottagaon,2016-10-27,4800.0,0.22,27.4,clear
+984,Black Gram (Urd Beans),Dhenkanal,2016-10-28,4575.0,0.31,29.4,clear
+985,Black Gram (Urd Beans),Mottagaon,2016-10-28,4575.0,0.25,29.4,clear
+986,Green Gram (Moong),Dhenkanal,2016-10-28,4800.0,0.23,29.4,clear
+987,Green Gram (Moong),Mottagaon,2016-10-28,4800.0,0.18,29.4,clear
+988,Black Gram (Urd Beans),Dhenkanal,2016-10-29,4575.0,0.35,29.0,clear
+989,Black Gram (Urd Beans),Mottagaon,2016-10-29,4575.0,0.24,29.0,clear
+990,Green Gram (Moong),Dhenkanal,2016-10-29,4800.0,0.2,29.0,clear
+991,Green Gram (Moong),Mottagaon,2016-10-29,4800.0,0.13,29.0,clear
+992,Black Gram (Urd Beans),Dhenkanal,2016-10-30,4575.0,0.3,28.8,clear
+993,Black Gram (Urd Beans),Mottagaon,2016-10-30,4575.0,0.22,28.8,clear
+994,Green Gram (Moong),Dhenkanal,2016-10-30,4800.0,0.22,28.8,clear
+995,Green Gram (Moong),Mottagaon,2016-10-30,4800.0,0.18,28.8,clear
+996,Black Gram (Urd Beans),Dhenkanal,2016-01-11,4575.0,0.32,22.6,clear
+997,Black Gram (Urd Beans),Mottagaon,2016-01-11,4575.0,0.26,22.6,clear
+998,Green Gram (Moong),Dhenkanal,2016-01-11,4800.0,0.24,22.6,clear
+999,Green Gram (Moong),Mottagaon,2016-01-11,4800.0,0.22,22.6,clear
+1000,Black Gram (Urd Beans),Dhenkanal,2016-02-11,4575.0,0.41,28.6,clear
+1001,Black Gram (Urd Beans),Mottagaon,2016-02-11,4575.0,0.25,28.6,clear
+1002,Green Gram (Moong),Dhenkanal,2016-02-11,4800.0,0.16,28.6,clear
+1003,Green Gram (Moong),Mottagaon,2016-02-11,4800.0,0.21,28.6,clear
+1004,Black Gram (Urd Beans),Dhenkanal,2016-03-11,4575.0,0.35,33.4,clear
+1005,Black Gram (Urd Beans),Mottagaon,2016-03-11,4575.0,0.31,33.4,clear
+1006,Green Gram (Moong),Dhenkanal,2016-03-11,4800.0,0.21,33.4,clear
+1007,Green Gram (Moong),Mottagaon,2016-03-11,4800.0,0.2,33.4,clear
+1008,Black Gram (Urd Beans),Dhenkanal,2016-04-11,4575.0,0.41,38.6,clear
+1009,Black Gram (Urd Beans),Mottagaon,2016-04-11,4575.0,0.23,38.6,clear
+1010,Green Gram (Moong),Dhenkanal,2016-04-11,4800.0,0.21,38.6,clear
+1011,Green Gram (Moong),Mottagaon,2016-04-11,4800.0,0.17,38.6,clear
+1012,Black Gram (Urd Beans),Dhenkanal,2016-05-11,4575.0,0.39,30.6,clear
+1013,Black Gram (Urd Beans),Mottagaon,2016-05-11,4575.0,0.42,30.6,clear
+1014,Green Gram (Moong),Dhenkanal,2016-05-11,4800.0,0.22,30.6,clear
+1015,Green Gram (Moong),Mottagaon,2016-05-11,4800.0,0.21,30.6,clear
+1016,Black Gram (Urd Beans),Dhenkanal,2016-06-11,4575.0,0.33,34.0,clear
+1017,Black Gram (Urd Beans),Mottagaon,2016-06-11,4575.0,0.2,34.0,clear
+1018,Green Gram (Moong),Dhenkanal,2016-06-11,4800.0,0.18,34.0,clear
+1019,Green Gram (Moong),Mottagaon,2016-06-11,4800.0,0.18,34.0,clear
+1020,Black Gram (Urd Beans),Dhenkanal,2016-07-11,4575.0,0.38,28.6,clear
+1021,Black Gram (Urd Beans),Mottagaon,2016-07-11,4575.0,0.22,28.6,clear
+1022,Green Gram (Moong),Dhenkanal,2016-07-11,4800.0,0.22,28.6,clear
+1023,Green Gram (Moong),Mottagaon,2016-07-11,4800.0,0.16,28.6,clear
+1024,Black Gram (Urd Beans),Dhenkanal,2016-08-11,4575.0,0.31,27.6,clear
+1025,Black Gram (Urd Beans),Mottagaon,2016-08-11,4575.0,0.29,27.6,clear
+1026,Green Gram (Moong),Dhenkanal,2016-08-11,4800.0,0.21,27.6,clear
+1027,Green Gram (Moong),Mottagaon,2016-08-11,4800.0,0.18,27.6,clear
+1028,Black Gram (Urd Beans),Dhenkanal,2016-09-11,4575.0,0.36,29.4,clear
+1029,Black Gram (Urd Beans),Mottagaon,2016-09-11,4575.0,0.22,29.4,clear
+1030,Green Gram (Moong),Dhenkanal,2016-09-11,4800.0,0.22,29.4,clear
+1031,Green Gram (Moong),Mottagaon,2016-09-11,4800.0,0.22,29.4,clear
+1032,Black Gram (Urd Beans),Dhenkanal,2016-10-11,4575.0,0.28,31.4,clear
+1033,Black Gram (Urd Beans),Mottagaon,2016-10-11,4575.0,0.22,31.4,clear
+1034,Green Gram (Moong),Dhenkanal,2016-10-11,4800.0,0.22,31.4,clear
+1035,Green Gram (Moong),Mottagaon,2016-10-11,4800.0,0.17,31.4,clear
+1036,Black Gram (Urd Beans),Dhenkanal,2016-11-11,4575.0,0.42,25.0,clear
+1037,Black Gram (Urd Beans),Mottagaon,2016-11-11,4575.0,0.26,25.0,clear
+1038,Green Gram (Moong),Dhenkanal,2016-11-11,4800.0,0.3,25.0,clear
+1039,Green Gram (Moong),Mottagaon,2016-11-11,4800.0,0.18,25.0,clear
+1040,Black Gram (Urd Beans),Dhenkanal,2016-12-11,4575.0,0.33,23.8,clear
+1041,Black Gram (Urd Beans),Mottagaon,2016-12-11,4575.0,0.21,23.8,clear
+1042,Green Gram (Moong),Dhenkanal,2016-12-11,4800.0,0.22,23.8,clear
+1043,Green Gram (Moong),Mottagaon,2016-12-11,4800.0,0.22,23.8,clear
+1044,Black Gram (Urd Beans),Dhenkanal,2016-11-13,4575.0,0.38,26.4,clear
+1045,Black Gram (Urd Beans),Mottagaon,2016-11-13,4575.0,0.33,26.4,clear
+1046,Green Gram (Moong),Dhenkanal,2016-11-13,4800.0,0.2,26.4,clear
+1047,Green Gram (Moong),Mottagaon,2016-11-13,4800.0,0.21,26.4,clear
+1048,Black Gram (Urd Beans),Dhenkanal,2016-11-14,4575.0,0.33,27.0,clear
+1049,Black Gram (Urd Beans),Mottagaon,2016-11-14,4575.0,0.31,27.0,clear
+1050,Green Gram (Moong),Dhenkanal,2016-11-14,4800.0,0.29,27.0,clear
+1051,Green Gram (Moong),Mottagaon,2016-11-14,4800.0,0.18,27.0,clear
+1052,Black Gram (Urd Beans),Dhenkanal,2016-11-15,4575.0,0.29,26.0,clear
+1053,Black Gram (Urd Beans),Mottagaon,2016-11-15,4575.0,0.22,26.0,clear
+1054,Green Gram (Moong),Dhenkanal,2016-11-15,4800.0,0.2,26.0,clear
+1055,Green Gram (Moong),Mottagaon,2016-11-15,4800.0,0.18,26.0,clear
+1056,Black Gram (Urd Beans),Dhenkanal,2016-11-16,4575.0,0.33,25.4,clear
+1057,Black Gram (Urd Beans),Dhenkanal,2016-11-18,4575.0,0.33,24.6,clear
+1058,Black Gram (Urd Beans),Mottagaon,2016-11-18,4575.0,0.29,24.6,clear
+1059,Green Gram (Moong),Mottagaon,2016-11-18,4800.0,0.18,24.6,clear
+1060,Black Gram (Urd Beans),Dhenkanal,2016-11-19,4575.0,0.39,24.6,clear
+1061,Green Gram (Moong),Dhenkanal,2016-11-19,4800.0,0.22,24.6,clear
+1062,Black Gram (Urd Beans),Dhenkanal,2016-11-20,4575.0,0.33,25.0,clear
+1063,Green Gram (Moong),Dhenkanal,2016-11-20,4800.0,0.21,25.0,clear
+1064,Black Gram (Urd Beans),Dhenkanal,2016-11-21,4575.0,0.27,25.0,clear
+1065,Green Gram (Moong),Dhenkanal,2016-11-21,4800.0,0.2,25.0,clear
+1066,Black Gram (Urd Beans),Dhenkanal,2016-11-22,4575.0,0.33,24.0,clear
+1067,Black Gram (Urd Beans),Mottagaon,2016-11-22,4575.0,0.28,24.0,clear
+1068,Green Gram (Moong),Dhenkanal,2016-11-22,4800.0,0.19,24.0,clear
+1069,Green Gram (Moong),Mottagaon,2016-11-22,4800.0,0.15,24.0,clear
+1070,Black Gram (Urd Beans),Dhenkanal,2016-11-23,4575.0,0.36,25.0,clear
+1071,Black Gram (Urd Beans),Mottagaon,2016-11-23,4575.0,0.22,25.0,clear
+1072,Green Gram (Moong),Dhenkanal,2016-11-23,4800.0,0.22,25.0,clear
+1073,Green Gram (Moong),Mottagaon,2016-11-23,4800.0,0.24,25.0,clear
+1074,Black Gram (Urd Beans),Dhenkanal,2016-11-24,4575.0,0.33,25.0,clear
+1075,Black Gram (Urd Beans),Mottagaon,2016-11-24,4575.0,0.32,25.0,clear
+1076,Green Gram (Moong),Dhenkanal,2016-11-24,4800.0,0.22,25.0,clear
+1077,Green Gram (Moong),Mottagaon,2016-11-24,4800.0,0.28,25.0,clear
+1078,Black Gram (Urd Beans),Dhenkanal,2016-11-26,4575.0,0.32,25.0,clear
+1079,Black Gram (Urd Beans),Mottagaon,2016-11-26,4575.0,0.29,25.0,clear
+1080,Green Gram (Moong),Dhenkanal,2016-11-26,4800.0,0.22,25.0,clear
+1081,Green Gram (Moong),Mottagaon,2016-11-26,4800.0,0.22,25.0,clear
+1082,Black Gram (Urd Beans),Dhenkanal,2016-11-27,4575.0,0.21,26.0,clear
+1083,Black Gram (Urd Beans),Mottagaon,2016-11-27,4575.0,0.32,26.0,clear
+1084,Green Gram (Moong),Dhenkanal,2016-11-27,4800.0,0.18,26.0,clear
+1085,Green Gram (Moong),Mottagaon,2016-11-27,4800.0,0.19,26.0,clear
+1086,Black Gram (Urd Beans),Dhenkanal,2016-11-28,4575.0,0.31,25.0,clear
+1087,Black Gram (Urd Beans),Mottagaon,2016-11-28,4575.0,0.22,25.0,clear
+1088,Green Gram (Moong),Dhenkanal,2016-11-28,4800.0,0.18,25.0,clear
+1089,Green Gram (Moong),Mottagaon,2016-11-28,4800.0,0.18,25.0,clear
+1090,Black Gram (Urd Beans),Dhenkanal,2016-11-29,4575.0,0.32,24.4,clear
+1091,Black Gram (Urd Beans),Mottagaon,2016-11-29,4575.0,0.3,24.4,clear
+1092,Green Gram (Moong),Dhenkanal,2016-11-29,4800.0,0.21,24.4,clear
+1093,Green Gram (Moong),Mottagaon,2016-11-29,4800.0,0.18,24.4,clear
+1094,Black Gram (Urd Beans),Dhenkanal,2016-01-12,4575.0,0.33,23.0,clear
+1095,Black Gram (Urd Beans),Dhenkanal,2016-02-12,4575.0,0.31,31.0,clear
+1096,Black Gram (Urd Beans),Mottagaon,2016-02-12,4575.0,0.32,31.0,clear
+1097,Green Gram (Moong),Dhenkanal,2016-02-12,4800.0,0.22,31.0,clear
+1098,Green Gram (Moong),Mottagaon,2016-02-12,4800.0,0.22,31.0,clear
+1099,Black Gram (Urd Beans),Dhenkanal,2016-03-12,4575.0,0.3,33.0,clear
+1100,Black Gram (Urd Beans),Mottagaon,2016-03-12,4575.0,0.22,33.0,clear
+1101,Green Gram (Moong),Dhenkanal,2016-03-12,4800.0,0.22,33.0,clear
+1102,Green Gram (Moong),Mottagaon,2016-03-12,4800.0,0.21,33.0,clear
+1103,Black Gram (Urd Beans),Dhenkanal,2016-04-12,4575.0,0.29,36.2,clear
+1104,Black Gram (Urd Beans),Mottagaon,2016-04-12,4575.0,0.25,36.2,clear
+1105,Green Gram (Moong),Dhenkanal,2016-04-12,4800.0,0.22,36.2,clear
+1106,Green Gram (Moong),Mottagaon,2016-04-12,4800.0,0.16,36.2,clear
+1107,Black Gram (Urd Beans),Dhenkanal,2016-05-12,4575.0,0.3,34.4,clear
+1108,Black Gram (Urd Beans),Mottagaon,2016-05-12,4575.0,0.19,34.4,clear
+1109,Green Gram (Moong),Dhenkanal,2016-05-12,4800.0,0.18,34.4,clear
+1110,Green Gram (Moong),Mottagaon,2016-05-12,4800.0,0.22,34.4,clear
+1111,Black Gram (Urd Beans),Dhenkanal,2016-07-12,4575.0,0.31,29.6,clear
+1112,Black Gram (Urd Beans),Mottagaon,2016-07-12,4575.0,0.22,29.6,clear
+1113,Green Gram (Moong),Dhenkanal,2016-07-12,4800.0,0.22,29.6,clear
+1114,Green Gram (Moong),Mottagaon,2016-07-12,4800.0,0.15,29.6,clear
+1115,Black Gram (Urd Beans),Dhenkanal,2016-09-12,4575.0,0.36,28.0,clear
+1116,Black Gram (Urd Beans),Mottagaon,2016-09-12,4575.0,0.27,28.0,clear
+1117,Green Gram (Moong),Dhenkanal,2016-09-12,4800.0,0.23,28.0,clear
+1118,Green Gram (Moong),Mottagaon,2016-09-12,4800.0,0.22,28.0,clear
+1119,Black Gram (Urd Beans),Dhenkanal,2016-10-12,4575.0,0.4,31.0,clear
+1120,Black Gram (Urd Beans),Mottagaon,2016-10-12,4575.0,0.26,31.0,clear
+1121,Green Gram (Moong),Dhenkanal,2016-10-12,4800.0,0.22,31.0,clear
+1122,Green Gram (Moong),Mottagaon,2016-10-12,4800.0,0.18,31.0,clear
+1123,Black Gram (Urd Beans),Dhenkanal,2016-12-12,4575.0,0.41,25.0,clear
+1124,Black Gram (Urd Beans),Mottagaon,2016-12-12,4575.0,0.28,25.0,clear
+1125,Green Gram (Moong),Dhenkanal,2016-12-12,4800.0,0.27,25.0,clear
+1126,Green Gram (Moong),Mottagaon,2016-12-12,4800.0,0.17,25.0,clear
+1127,Black Gram (Urd Beans),Dhenkanal,2016-12-13,4575.0,0.33,24.4,clear
+1128,Black Gram (Urd Beans),Mottagaon,2016-12-13,4575.0,0.22,24.4,clear
+1129,Green Gram (Moong),Dhenkanal,2016-12-13,4800.0,0.22,24.4,clear
+1130,Green Gram (Moong),Mottagaon,2016-12-13,4800.0,0.25,24.4,clear
+1131,Black Gram (Urd Beans),Dhenkanal,2016-12-14,4575.0,0.36,25.0,clear
+1132,Black Gram (Urd Beans),Mottagaon,2016-12-14,4575.0,0.33,25.0,clear
+1133,Green Gram (Moong),Dhenkanal,2016-12-14,4800.0,0.28,25.0,clear
+1134,Green Gram (Moong),Mottagaon,2016-12-14,4800.0,0.21,25.0,clear
+1135,Black Gram (Urd Beans),Dhenkanal,2016-12-15,4575.0,0.41,24.0,clear
+1136,Black Gram (Urd Beans),Mottagaon,2016-12-15,4575.0,0.32,24.0,clear
+1137,Green Gram (Moong),Dhenkanal,2016-12-15,4800.0,0.21,24.0,clear
+1138,Green Gram (Moong),Mottagaon,2016-12-15,4800.0,0.18,24.0,clear
+1139,Black Gram (Urd Beans),Dhenkanal,2016-12-16,4575.0,0.33,25.0,clear
+1140,Black Gram (Urd Beans),Mottagaon,2016-12-16,4575.0,0.21,25.0,clear
+1141,Green Gram (Moong),Dhenkanal,2016-12-16,4800.0,0.19,25.0,clear
+1142,Green Gram (Moong),Mottagaon,2016-12-16,4800.0,0.13,25.0,clear
+1143,Black Gram (Urd Beans),Dhenkanal,2016-12-17,4575.0,0.42,23.0,clear
+1144,Black Gram (Urd Beans),Mottagaon,2016-12-17,4575.0,0.29,23.0,clear
+1145,Green Gram (Moong),Dhenkanal,2016-12-17,4800.0,0.23,23.0,clear
+1146,Green Gram (Moong),Mottagaon,2016-12-17,4800.0,0.21,23.0,clear
+1147,Black Gram (Urd Beans),Dhenkanal,2016-12-18,4575.0,0.34,22.8,clear
+1148,Black Gram (Urd Beans),Mottagaon,2016-12-18,4575.0,0.3,22.8,clear
+1149,Green Gram (Moong),Dhenkanal,2016-12-18,4800.0,0.25,22.8,clear
+1150,Green Gram (Moong),Mottagaon,2016-12-18,4800.0,0.27,22.8,clear
+1151,Black Gram (Urd Beans),Dhenkanal,2016-12-19,4575.0,0.36,23.4,clear
+1152,Black Gram (Urd Beans),Mottagaon,2016-12-19,4575.0,0.33,23.4,clear
+1153,Green Gram (Moong),Dhenkanal,2016-12-19,4800.0,0.22,23.4,clear
+1154,Green Gram (Moong),Mottagaon,2016-12-19,4800.0,0.22,23.4,clear
+1155,Black Gram (Urd Beans),Dhenkanal,2016-12-20,4575.0,0.4,24.2,clear
+1156,Black Gram (Urd Beans),Mottagaon,2016-12-20,4575.0,0.33,24.2,clear
+1157,Green Gram (Moong),Dhenkanal,2016-12-20,4800.0,0.21,24.2,clear
+1158,Green Gram (Moong),Mottagaon,2016-12-20,4800.0,0.21,24.2,clear
+1159,Black Gram (Urd Beans),Dhenkanal,2016-12-21,4575.0,0.32,23.6,clear
+1160,Black Gram (Urd Beans),Mottagaon,2016-12-21,4575.0,0.33,23.6,clear
+1161,Green Gram (Moong),Dhenkanal,2016-12-21,4800.0,0.27,23.6,clear
+1162,Green Gram (Moong),Mottagaon,2016-12-21,4800.0,0.21,23.6,clear
+1163,Black Gram (Urd Beans),Dhenkanal,2016-12-22,4575.0,0.44,23.0,clear
+1164,Black Gram (Urd Beans),Mottagaon,2016-12-22,4575.0,0.29,23.0,clear
+1165,Green Gram (Moong),Dhenkanal,2016-12-22,5000.0,0.18,23.0,clear
+1166,Green Gram (Moong),Mottagaon,2016-12-22,4800.0,0.21,23.0,clear
+1167,Black Gram (Urd Beans),Dhenkanal,2016-12-23,4575.0,0.46,23.2,clear
+1168,Black Gram (Urd Beans),Mottagaon,2016-12-23,4575.0,0.34,23.2,clear
+1169,Green Gram (Moong),Dhenkanal,2016-12-23,4800.0,0.31,23.2,clear
+1170,Green Gram (Moong),Mottagaon,2016-12-23,4800.0,0.28,23.2,clear
+1171,Black Gram (Urd Beans),Dhenkanal,2016-12-24,4575.0,0.51,23.0,clear
+1172,Black Gram (Urd Beans),Mottagaon,2016-12-24,4575.0,0.42,23.0,clear
+1173,Green Gram (Moong),Dhenkanal,2016-12-24,4800.0,0.33,23.0,clear
+1174,Green Gram (Moong),Mottagaon,2016-12-24,4800.0,0.22,23.0,clear
+1175,Black Gram (Urd Beans),Dhenkanal,2016-12-25,4575.0,0.39,25.0,clear
+1176,Black Gram (Urd Beans),Mottagaon,2016-12-25,4575.0,0.42,25.0,clear
+1177,Green Gram (Moong),Dhenkanal,2016-12-25,4800.0,0.22,25.0,clear
+1178,Green Gram (Moong),Mottagaon,2016-12-25,4800.0,0.21,25.0,clear
+1179,Black Gram (Urd Beans),Dhenkanal,2016-12-26,4575.0,0.37,24.4,clear
+1180,Black Gram (Urd Beans),Mottagaon,2016-12-26,4575.0,0.37,24.4,clear
+1181,Green Gram (Moong),Dhenkanal,2016-12-26,4800.0,0.21,24.4,clear
+1182,Green Gram (Moong),Mottagaon,2016-12-26,4800.0,0.21,24.4,clear
+1183,Black Gram (Urd Beans),Dhenkanal,2016-12-27,4575.0,0.32,19.6,clear
+1184,Black Gram (Urd Beans),Mottagaon,2016-12-27,4575.0,0.42,19.6,clear
+1185,Green Gram (Moong),Dhenkanal,2016-12-27,4800.0,0.18,19.6,clear
+1186,Green Gram (Moong),Mottagaon,2016-12-27,4800.0,0.21,19.6,clear
+1187,Black Gram (Urd Beans),Dhenkanal,2016-12-28,4575.0,0.42,23.1,clear
+1188,Black Gram (Urd Beans),Mottagaon,2016-12-28,4575.0,0.33,23.1,clear
+1189,Green Gram (Moong),Dhenkanal,2016-12-28,4800.0,0.22,23.1,clear
+1190,Green Gram (Moong),Mottagaon,2016-12-28,4800.0,0.22,23.1,clear
+1191,Black Gram (Urd Beans),Dhenkanal,2016-12-29,4575.0,0.33,24.4,clear
+1192,Black Gram (Urd Beans),Mottagaon,2016-12-29,4575.0,0.3,24.4,clear
+1193,Green Gram (Moong),Dhenkanal,2016-12-29,4800.0,0.21,24.4,clear
+1194,Green Gram (Moong),Mottagaon,2016-12-29,4800.0,0.21,24.4,clear
+1195,Black Gram (Urd Beans),Mottagaon,2016-01-25,4425.0,0.63,25.0,clear
+1196,Green Gram (Moong),Dhenkanal,2016-01-25,4650.0,0.53,25.0,clear
+1197,Green Gram (Moong),Mottagaon,2016-01-25,4650.0,0.57,25.0,clear
+1198,Black Gram (Urd Beans),Mottagaon,2016-01-29,4425.0,0.71,26.4,clear
+1199,Green Gram (Moong),Mottagaon,2016-01-29,4650.0,0.62,26.4,clear
+1200,Black Gram (Urd Beans),Mottagaon,2016-01-30,4425.0,0.68,28.0,clear
+1201,Green Gram (Moong),Mottagaon,2016-01-30,4650.0,0.53,28.0,clear
+1202,Black Gram (Urd Beans),Mottagaon,2016-07-02,4425.0,0.51,29.6,clear
+1203,Green Gram (Moong),Mottagaon,2016-07-02,4650.0,0.33,29.6,clear
+1204,Black Gram (Urd Beans),Mottagaon,2016-08-02,4425.0,0.53,27.4,clear
+1205,Green Gram (Moong),Mottagaon,2016-08-02,4650.0,0.32,27.4,clear
+1206,Black Gram (Urd Beans),Mottagaon,2016-10-02,4425.0,0.51,29.6,clear
+1207,Green Gram (Moong),Mottagaon,2016-10-02,4650.0,0.32,29.6,clear
+1208,Black Gram (Urd Beans),Mottagaon,2016-11-02,4425.0,0.41,27.4,clear
+1209,Green Gram (Moong),Mottagaon,2016-11-02,4650.0,0.32,27.4,clear
+1210,Black Gram (Urd Beans),Mottagaon,2016-02-28,4425.0,0.24,29.0,clear
+1211,Green Gram (Moong),Mottagaon,2016-02-28,4650.0,0.32,29.0,clear
+1212,Black Gram (Urd Beans),Mottagaon,2016-02-29,4425.0,0.31,29.2,clear
+1213,Green Gram (Moong),Mottagaon,2016-02-29,4650.0,0.32,29.2,clear
+1214,Black Gram (Urd Beans),Mottagaon,2016-03-18,4425.0,0.31,32.2,clear
+1215,Green Gram (Moong),Mottagaon,2016-03-18,4650.0,0.25,32.2,clear
+1216,Black Gram (Urd Beans),Mottagaon,2016-04-17,4425.0,0.31,33.0,clear
+1217,Green Gram (Moong),Mottagaon,2016-04-17,4650.0,0.31,33.0,clear
+1218,Black Gram (Urd Beans),Mottagaon,2016-05-23,4425.0,0.32,36.4,clear
+1219,Green Gram (Moong),Mottagaon,2016-05-23,4650.0,0.22,36.4,clear
+1220,Black Gram (Urd Beans),Mottagaon,2016-05-24,4425.0,0.29,33.8,clear
+1221,Green Gram (Moong),Mottagaon,2016-05-24,4650.0,0.25,33.8,clear
+1222,Black Gram (Urd Beans),Mottagaon,2016-05-30,4425.0,0.31,32.4,clear
+1223,Green Gram (Moong),Mottagaon,2016-05-30,4650.0,0.24,32.4,clear
+1224,Black Gram (Urd Beans),Mottagaon,2016-06-07,4425.0,0.33,31.6,clear
+1225,Green Gram (Moong),Mottagaon,2016-06-07,4650.0,0.21,31.6,clear
+1226,Black Gram (Urd Beans),Mottagaon,2016-07-26,4425.0,0.33,26.0,clear
+1227,Green Gram (Moong),Mottagaon,2016-07-26,4650.0,0.26,26.0,clear
+1228,Black Gram (Urd Beans),Mottagaon,2016-07-29,4425.0,0.32,32.0,clear
+1229,Green Gram (Moong),Mottagaon,2016-07-29,4650.0,0.21,32.0,clear
+1230,Black Gram (Urd Beans),Mottagaon,2016-07-30,4425.0,0.25,31.0,clear
+1231,Green Gram (Moong),Mottagaon,2016-07-30,4650.0,0.2,31.0,clear
+1232,Black Gram (Urd Beans),Mottagaon,2016-07-08,4425.0,0.3,26.0,clear
+1233,Green Gram (Moong),Mottagaon,2016-07-08,4650.0,0.23,26.0,clear
+1234,Black Gram (Urd Beans),Mottagaon,2016-09-08,4425.0,0.34,28.6,clear
+1235,Green Gram (Moong),Mottagaon,2016-09-08,4650.0,0.22,28.6,clear
+1236,Black Gram (Urd Beans),Mottagaon,2016-08-14,4425.0,0.33,31.6,clear
+1237,Green Gram (Moong),Mottagaon,2016-08-14,4650.0,0.21,31.6,clear
+1238,Black Gram (Urd Beans),Mottagaon,2016-08-15,4425.0,0.32,30.2,clear
+1239,Green Gram (Moong),Mottagaon,2016-08-15,4650.0,0.2,30.2,clear
+1240,Black Gram (Urd Beans),Mottagaon,2016-08-16,4425.0,0.33,29.4,clear
+1241,Green Gram (Moong),Mottagaon,2016-08-16,4650.0,0.18,29.4,clear
+1242,Black Gram (Urd Beans),Mottagaon,2016-08-17,4425.0,0.42,27.4,clear
+1243,Green Gram (Moong),Mottagaon,2016-08-17,4650.0,0.21,27.4,clear
+1244,Black Gram (Urd Beans),Mottagaon,2016-08-18,4425.0,0.37,29.2,clear
+1245,Green Gram (Moong),Mottagaon,2016-08-18,4650.0,0.21,29.2,clear
+1246,Black Gram (Urd Beans),Mottagaon,2016-08-19,4425.0,0.42,31.2,clear
+1247,Green Gram (Moong),Mottagaon,2016-08-19,4650.0,0.25,31.2,clear
+1248,Black Gram (Urd Beans),Mottagaon,2016-09-13,4575.0,0.31,29.0,clear
+1249,Green Gram (Moong),Mottagaon,2016-09-13,4800.0,0.2,29.0,clear
+1250,Black Gram (Urd Beans),Mottagaon,2016-09-23,4575.0,0.32,29.6,clear
+1251,Green Gram (Moong),Mottagaon,2016-09-23,4800.0,0.2,29.6,clear
+1252,Black Gram (Urd Beans),Mottagaon,2016-09-27,4575.0,0.33,28.2,clear
+1253,Green Gram (Moong),Mottagaon,2016-09-27,4800.0,0.21,28.2,clear
+1254,Black Gram (Urd Beans),Mottagaon,2016-04-10,4575.0,0.33,36.2,clear
+1255,Green Gram (Moong),Mottagaon,2016-04-10,4800.0,0.2,36.2,clear
+1256,Black Gram (Urd Beans),Mottagaon,2016-05-10,4575.0,0.3,33.0,clear
+1257,Green Gram (Moong),Mottagaon,2016-05-10,4800.0,0.17,33.0,clear
+1258,Black Gram (Urd Beans),Mottagaon,2016-12-10,4575.0,0.32,24.4,clear
+1259,Green Gram (Moong),Mottagaon,2016-12-10,4800.0,0.22,24.4,clear
+1260,Black Gram (Urd Beans),Mottagaon,2016-10-31,4575.0,0.29,29.6,clear
+1261,Green Gram (Moong),Mottagaon,2016-10-31,4800.0,0.18,29.6,clear
+1262,Black Gram (Urd Beans),Mottagaon,2016-11-25,4575.0,0.36,25.0,clear
+1263,Green Gram (Moong),Mottagaon,2016-11-25,4800.0,0.22,25.0,clear
+1264,Black Gram (Urd Beans),Mottagaon,2016-11-30,4575.0,0.21,25.4,clear
+1265,Green Gram (Moong),Mottagaon,2016-11-30,4800.0,0.18,25.4,clear
+1266,Black Gram (Urd Beans),Mottagaon,2016-06-12,4575.0,0.22,35.6,clear
+1267,Green Gram (Moong),Mottagaon,2016-06-12,4800.0,0.21,35.6,clear
+1268,Black Gram (Urd Beans),Mottagaon,2016-08-12,4575.0,0.22,32.4,clear
+1269,Green Gram (Moong),Mottagaon,2016-08-12,4800.0,0.26,32.4,clear
+1270,Black Gram (Urd Beans),Mottagaon,2016-11-12,4575.0,0.21,26.0,clear
+1271,Green Gram (Moong),Mottagaon,2016-11-12,4800.0,0.2,26.0,clear
+1272,Black Gram (Urd Beans),Mottagaon,2016-12-30,4575.0,0.36,24.0,clear
+1273,Green Gram (Moong),Mottagaon,2016-12-30,4800.0,0.18,24.0,clear
+1274,Black Gram (Urd Beans),Mottagaon,2016-12-31,4575.0,0.3,24.0,clear
+1275,Green Gram (Moong),Mottagaon,2016-12-31,4800.0,0.22,24.0,clear
+1276,Green Gram (Moong),Dhenkanal,2016-01-15,4650.0,0.61,25.0,clear
+1277,Black Gram (Urd Beans),Dhenkanal,2017-01-01,4575.0,0.42,24.0,clear
+1278,Black Gram (Urd Beans),Mottagaon,2017-01-01,4575.0,0.51,24.0,clear
+1279,Green Gram (Moong),Dhenkanal,2017-01-01,4800.0,0.3,24.0,clear
+1280,Green Gram (Moong),Mottagaon,2017-01-01,4800.0,0.22,24.0,clear
+1281,Black Gram (Urd Beans),Dhenkanal,2017-02-01,4575.0,0.51,28.0,clear
+1282,Black Gram (Urd Beans),Mottagaon,2017-02-01,4575.0,0.42,28.0,clear
+1283,Green Gram (Moong),Dhenkanal,2017-02-01,4800.0,0.23,28.0,clear
+1284,Green Gram (Moong),Mottagaon,2017-02-01,4800.0,0.31,28.0,clear
+1285,Black Gram (Urd Beans),Dhenkanal,2017-03-01,4575.0,0.41,31.2,clear
+1286,Black Gram (Urd Beans),Mottagaon,2017-03-01,4575.0,0.31,31.2,clear
+1287,Green Gram (Moong),Dhenkanal,2017-03-01,4800.0,0.31,31.2,clear
+1288,Green Gram (Moong),Mottagaon,2017-03-01,4800.0,0.29,31.2,clear
+1289,Black Gram (Urd Beans),Dhenkanal,2017-04-01,4575.0,0.41,31.8,clear
+1290,Black Gram (Urd Beans),Mottagaon,2017-04-01,4575.0,0.36,31.8,clear
+1291,Green Gram (Moong),Dhenkanal,2017-04-01,4800.0,0.33,31.8,clear
+1292,Green Gram (Moong),Mottagaon,2017-04-01,4800.0,0.3,31.8,clear
+1293,Black Gram (Urd Beans),Dhenkanal,2017-05-01,4575.0,0.44,32.0,clear
+1294,Black Gram (Urd Beans),Mottagaon,2017-05-01,4575.0,0.32,32.0,clear
+1295,Green Gram (Moong),Dhenkanal,2017-05-01,4800.0,0.35,32.0,clear
+1296,Green Gram (Moong),Mottagaon,2017-05-01,4800.0,0.2,32.0,clear
+1297,Black Gram (Urd Beans),Dhenkanal,2017-06-01,4575.0,0.51,32.0,clear
+1298,Black Gram (Urd Beans),Mottagaon,2017-06-01,4575.0,0.3,32.0,clear
+1299,Green Gram (Moong),Dhenkanal,2017-06-01,4800.0,0.22,32.0,clear
+1300,Green Gram (Moong),Mottagaon,2017-06-01,4800.0,0.22,32.0,clear
+1301,Black Gram (Urd Beans),Dhenkanal,2017-07-01,4575.0,0.41,29.2,clear
+1302,Black Gram (Urd Beans),Mottagaon,2017-07-01,4575.0,0.35,29.2,clear
+1303,Green Gram (Moong),Dhenkanal,2017-07-01,4800.0,0.29,29.2,clear
+1304,Green Gram (Moong),Mottagaon,2017-07-01,4800.0,0.25,29.2,clear
+1305,Black Gram (Urd Beans),Dhenkanal,2017-08-01,4575.0,0.42,32.0,clear
+1306,Black Gram (Urd Beans),Mottagaon,2017-08-01,4575.0,0.41,32.0,clear
+1307,Green Gram (Moong),Dhenkanal,2017-08-01,4800.0,0.33,32.0,clear
+1308,Green Gram (Moong),Mottagaon,2017-08-01,4800.0,0.31,32.0,clear
+1309,Black Gram (Urd Beans),Dhenkanal,2017-09-01,4575.0,0.46,29.4,clear
+1310,Black Gram (Urd Beans),Mottagaon,2017-09-01,4575.0,0.62,29.4,clear
+1311,Green Gram (Moong),Dhenkanal,2017-09-01,4800.0,0.31,29.4,clear
+1312,Green Gram (Moong),Mottagaon,2017-09-01,4800.0,0.22,29.4,clear
+1313,Black Gram (Urd Beans),Dhenkanal,2017-10-01,4575.0,0.47,29.4,clear
+1314,Black Gram (Urd Beans),Mottagaon,2017-10-01,4575.0,0.41,29.4,clear
+1315,Green Gram (Moong),Dhenkanal,2017-10-01,4800.0,0.4,29.4,clear
+1316,Green Gram (Moong),Mottagaon,2017-10-01,4800.0,0.31,29.4,clear
+1317,Black Gram (Urd Beans),Dhenkanal,2017-11-01,4575.0,0.44,26.4,clear
+1318,Black Gram (Urd Beans),Mottagaon,2017-11-01,4575.0,0.42,26.4,clear
+1319,Green Gram (Moong),Dhenkanal,2017-11-01,4800.0,0.22,26.4,clear
+1320,Green Gram (Moong),Mottagaon,2017-11-01,4800.0,0.33,26.4,clear
+1321,Black Gram (Urd Beans),Dhenkanal,2017-12-01,4575.0,0.48,20.0,clear
+1322,Black Gram (Urd Beans),Mottagaon,2017-12-01,4575.0,0.35,20.0,clear
+1323,Green Gram (Moong),Dhenkanal,2017-12-01,4800.0,0.31,20.0,clear
+1324,Green Gram (Moong),Mottagaon,2017-12-01,4800.0,0.3,20.0,clear
+1325,Black Gram (Urd Beans),Dhenkanal,2017-01-13,4575.0,0.52,21.6,clear
+1326,Black Gram (Urd Beans),Mottagaon,2017-01-13,4575.0,0.52,21.6,clear
+1327,Green Gram (Moong),Dhenkanal,2017-01-13,4800.0,0.33,21.6,clear
+1328,Green Gram (Moong),Mottagaon,2017-01-13,4800.0,0.3,21.6,clear
+1329,Black Gram (Urd Beans),Dhenkanal,2017-01-14,4575.0,0.36,21.6,clear
+1330,Black Gram (Urd Beans),Mottagaon,2017-01-14,4575.0,0.44,21.6,clear
+1331,Green Gram (Moong),Dhenkanal,2017-01-14,4800.0,0.34,21.6,clear
+1332,Green Gram (Moong),Mottagaon,2017-01-14,4800.0,0.31,21.6,clear
+1333,Black Gram (Urd Beans),Dhenkanal,2017-01-15,4575.0,0.52,22.6,clear
+1334,Black Gram (Urd Beans),Mottagaon,2017-01-15,4575.0,0.43,22.6,clear
+1335,Green Gram (Moong),Dhenkanal,2017-01-15,4800.0,0.26,22.6,clear
+1336,Green Gram (Moong),Mottagaon,2017-01-15,4800.0,0.31,22.6,clear
+1337,Black Gram (Urd Beans),Dhenkanal,2017-01-16,4575.0,0.43,23.6,clear
+1338,Black Gram (Urd Beans),Mottagaon,2017-01-16,4575.0,0.51,23.6,clear
+1339,Green Gram (Moong),Dhenkanal,2017-01-16,4800.0,0.4,23.6,clear
+1340,Green Gram (Moong),Mottagaon,2017-01-16,4800.0,0.24,23.6,clear
+1341,Black Gram (Urd Beans),Dhenkanal,2017-01-17,4575.0,0.51,26.0,clear
+1342,Black Gram (Urd Beans),Mottagaon,2017-01-17,4575.0,0.32,26.0,clear
+1343,Green Gram (Moong),Mottagaon,2017-01-17,4800.0,0.25,26.0,clear
+1344,Black Gram (Urd Beans),Dhenkanal,2017-01-18,4575.0,0.52,25.2,clear
+1345,Black Gram (Urd Beans),Mottagaon,2017-01-18,4575.0,0.42,25.2,clear
+1346,Green Gram (Moong),Dhenkanal,2017-01-18,4800.0,0.21,25.2,clear
+1347,Green Gram (Moong),Mottagaon,2017-01-18,4800.0,0.28,25.2,clear
+1348,Black Gram (Urd Beans),Dhenkanal,2017-01-19,4575.0,0.41,25.0,clear
+1349,Black Gram (Urd Beans),Mottagaon,2017-01-19,4575.0,0.31,25.0,clear
+1350,Green Gram (Moong),Dhenkanal,2017-01-19,4800.0,0.24,25.0,clear
+1351,Green Gram (Moong),Mottagaon,2017-01-19,4800.0,0.34,25.0,clear
+1352,Black Gram (Urd Beans),Dhenkanal,2017-01-20,4575.0,0.62,26.0,clear
+1353,Black Gram (Urd Beans),Mottagaon,2017-01-20,4575.0,0.52,26.0,clear
+1354,Green Gram (Moong),Dhenkanal,2017-01-20,4800.0,0.29,26.0,clear
+1355,Green Gram (Moong),Mottagaon,2017-01-20,4800.0,0.32,26.0,clear
+1356,Black Gram (Urd Beans),Dhenkanal,2017-01-21,4575.0,0.51,25.0,clear
+1357,Black Gram (Urd Beans),Mottagaon,2017-01-21,4575.0,0.41,25.0,clear
+1358,Green Gram (Moong),Dhenkanal,2017-01-21,4800.0,0.21,25.0,clear
+1359,Green Gram (Moong),Mottagaon,2017-01-21,4800.0,0.31,25.0,clear
+1360,Black Gram (Urd Beans),Dhenkanal,2017-01-22,4575.0,0.62,26.0,clear
+1361,Black Gram (Urd Beans),Mottagaon,2017-01-22,4575.0,0.42,26.0,clear
+1362,Green Gram (Moong),Dhenkanal,2017-01-22,4800.0,0.31,26.0,clear
+1363,Green Gram (Moong),Mottagaon,2017-01-22,4800.0,0.21,26.0,clear
+1364,Black Gram (Urd Beans),Dhenkanal,2017-01-23,4575.0,0.42,26.6,clear
+1365,Black Gram (Urd Beans),Mottagaon,2017-01-23,4575.0,0.33,26.6,clear
+1366,Green Gram (Moong),Dhenkanal,2017-01-23,4800.0,0.21,26.6,clear
+1367,Green Gram (Moong),Mottagaon,2017-01-23,4800.0,0.24,26.6,clear
+1368,Black Gram (Urd Beans),Dhenkanal,2017-01-27,4575.0,0.32,23.0,clear
+1369,Green Gram (Moong),Dhenkanal,2017-01-27,4800.0,0.22,23.0,clear
+1370,Black Gram (Urd Beans),Dhenkanal,2017-01-28,4575.0,0.46,26.6,clear
+1371,Black Gram (Urd Beans),Mottagaon,2017-01-28,4575.0,0.42,26.6,clear
+1372,Green Gram (Moong),Dhenkanal,2017-01-28,4800.0,0.22,26.6,clear
+1373,Green Gram (Moong),Mottagaon,2017-01-28,4800.0,0.18,26.6,clear
+1374,Black Gram (Urd Beans),Dhenkanal,2017-01-29,4575.0,0.36,25.6,clear
+1375,Black Gram (Urd Beans),Mottagaon,2017-01-29,4575.0,0.42,25.6,clear
+1376,Green Gram (Moong),Dhenkanal,2017-01-29,4800.0,0.24,25.6,clear
+1377,Green Gram (Moong),Mottagaon,2017-01-29,4800.0,0.18,25.6,clear
+1378,Black Gram (Urd Beans),Dhenkanal,2017-01-30,4575.0,0.41,25.6,clear
+1379,Green Gram (Moong),Dhenkanal,2017-01-30,4800.0,0.24,25.6,clear
+1380,Black Gram (Urd Beans),Dhenkanal,2017-01-31,4575.0,0.41,26.4,clear
+1381,Black Gram (Urd Beans),Mottagaon,2017-01-31,4575.0,0.32,26.4,clear
+1382,Green Gram (Moong),Dhenkanal,2017-01-31,4800.0,0.22,26.4,clear
+1383,Green Gram (Moong),Mottagaon,2017-01-31,4800.0,0.22,26.4,clear
+1384,Black Gram (Urd Beans),Dhenkanal,2017-01-02,4575.0,0.45,23.8,clear
+1385,Green Gram (Moong),Dhenkanal,2017-01-02,4800.0,0.22,23.8,clear
+1386,Black Gram (Urd Beans),Dhenkanal,2017-02-02,4575.0,0.41,26.4,clear
+1387,Green Gram (Moong),Dhenkanal,2017-02-02,4800.0,0.23,26.4,clear
+1388,Green Gram (Moong),Mottagaon,2017-02-02,4800.0,0.2,26.4,clear
+1389,Black Gram (Urd Beans),Dhenkanal,2017-03-02,4575.0,0.41,32.0,clear
+1390,Black Gram (Urd Beans),Mottagaon,2017-03-02,4575.0,0.33,32.0,clear
+1391,Green Gram (Moong),Dhenkanal,2017-03-02,4800.0,0.26,32.0,clear
+1392,Green Gram (Moong),Mottagaon,2017-03-02,4800.0,0.2,32.0,clear
+1393,Black Gram (Urd Beans),Dhenkanal,2017-04-02,4575.0,0.44,30.0,clear
+1394,Black Gram (Urd Beans),Mottagaon,2017-04-02,4575.0,0.31,30.0,clear
+1395,Green Gram (Moong),Dhenkanal,2017-04-02,4800.0,0.22,30.0,clear
+1396,Green Gram (Moong),Mottagaon,2017-04-02,4800.0,0.24,30.0,clear
+1397,Black Gram (Urd Beans),Dhenkanal,2017-05-02,4575.0,0.52,33.4,clear
+1398,Black Gram (Urd Beans),Mottagaon,2017-05-02,4575.0,0.35,33.4,clear
+1399,Green Gram (Moong),Dhenkanal,2017-05-02,4800.0,0.25,33.4,clear
+1400,Green Gram (Moong),Mottagaon,2017-05-02,4800.0,0.28,33.4,clear
+1401,Black Gram (Urd Beans),Dhenkanal,2017-06-02,4575.0,0.42,32.4,clear
+1402,Black Gram (Urd Beans),Mottagaon,2017-06-02,4575.0,0.45,32.4,clear
+1403,Green Gram (Moong),Dhenkanal,2017-06-02,4800.0,0.25,32.4,clear
+1404,Green Gram (Moong),Mottagaon,2017-06-02,4800.0,0.21,32.4,clear
+1405,Black Gram (Urd Beans),Dhenkanal,2017-07-02,4575.0,0.4,31.0,clear
+1406,Black Gram (Urd Beans),Mottagaon,2017-07-02,4575.0,0.51,31.0,clear
+1407,Green Gram (Moong),Dhenkanal,2017-07-02,4800.0,0.29,31.0,clear
+1408,Green Gram (Moong),Mottagaon,2017-07-02,4800.0,0.25,31.0,clear
+1409,Black Gram (Urd Beans),Dhenkanal,2017-08-02,4575.0,0.51,30.6,clear
+1410,Black Gram (Urd Beans),Mottagaon,2017-08-02,4575.0,0.32,30.6,clear
+1411,Green Gram (Moong),Dhenkanal,2017-08-02,4800.0,0.29,30.6,clear
+1412,Green Gram (Moong),Mottagaon,2017-08-02,4800.0,0.3,30.6,clear
+1413,Black Gram (Urd Beans),Dhenkanal,2017-09-02,4575.0,0.56,28.4,clear
+1414,Black Gram (Urd Beans),Mottagaon,2017-09-02,4575.0,0.46,28.4,clear
+1415,Green Gram (Moong),Dhenkanal,2017-09-02,4800.0,0.4,28.4,clear
+1416,Green Gram (Moong),Mottagaon,2017-09-02,4800.0,0.3,28.4,clear
+1417,Black Gram (Urd Beans),Dhenkanal,2017-02-13,4575.0,0.51,28.8,clear
+1418,Green Gram (Moong),Dhenkanal,2017-02-13,4800.0,0.25,28.8,clear
+1419,Black Gram (Urd Beans),Dhenkanal,2017-02-14,4575.0,0.63,29.0,clear
+1420,Black Gram (Urd Beans),Mottagaon,2017-02-14,4575.0,0.48,29.0,clear
+1421,Green Gram (Moong),Dhenkanal,2017-02-14,4800.0,0.21,29.0,clear
+1422,Green Gram (Moong),Mottagaon,2017-02-14,4800.0,0.26,29.0,clear
+1423,Black Gram (Urd Beans),Dhenkanal,2017-02-15,4575.0,0.52,29.4,clear
+1424,Black Gram (Urd Beans),Mottagaon,2017-02-15,4575.0,0.51,29.4,clear
+1425,Green Gram (Moong),Dhenkanal,2017-02-15,4800.0,0.22,29.4,clear
+1426,Green Gram (Moong),Mottagaon,2017-02-15,4800.0,0.23,29.4,clear
+1427,Black Gram (Urd Beans),Dhenkanal,2017-02-16,4575.0,0.72,29.4,clear
+1428,Black Gram (Urd Beans),Mottagaon,2017-02-16,4575.0,0.42,29.4,clear
+1429,Green Gram (Moong),Dhenkanal,2017-02-16,4800.0,0.29,29.4,clear
+1430,Green Gram (Moong),Mottagaon,2017-02-16,4800.0,0.31,29.4,clear
+1431,Black Gram (Urd Beans),Dhenkanal,2017-02-17,4575.0,0.62,29.4,clear
+1432,Black Gram (Urd Beans),Mottagaon,2017-02-17,4575.0,0.41,29.4,clear
+1433,Green Gram (Moong),Dhenkanal,2017-02-17,4800.0,0.24,29.4,clear
+1434,Green Gram (Moong),Mottagaon,2017-02-17,4800.0,0.24,29.4,clear
+1435,Black Gram (Urd Beans),Dhenkanal,2017-02-18,4575.0,0.52,29.6,clear
+1436,Black Gram (Urd Beans),Mottagaon,2017-02-18,4575.0,0.45,29.6,clear
+1437,Green Gram (Moong),Dhenkanal,2017-02-18,4800.0,0.21,29.6,clear
+1438,Green Gram (Moong),Mottagaon,2017-02-18,4800.0,0.23,29.6,clear
+1439,Black Gram (Urd Beans),Dhenkanal,2017-02-19,4575.0,0.51,30.8,clear
+1440,Black Gram (Urd Beans),Mottagaon,2017-02-19,4575.0,0.61,30.8,clear
+1441,Green Gram (Moong),Dhenkanal,2017-02-19,4800.0,0.22,30.8,clear
+1442,Green Gram (Moong),Mottagaon,2017-02-19,4800.0,0.22,30.8,clear
+1443,Black Gram (Urd Beans),Dhenkanal,2017-02-20,4575.0,0.52,30.2,clear
+1444,Black Gram (Urd Beans),Mottagaon,2017-02-20,4575.0,0.53,30.2,clear
+1445,Green Gram (Moong),Dhenkanal,2017-02-20,4800.0,0.22,30.2,clear
+1446,Green Gram (Moong),Mottagaon,2017-02-20,4800.0,0.24,30.2,clear
+1447,Black Gram (Urd Beans),Dhenkanal,2017-02-21,4575.0,0.52,30.0,clear
+1448,Black Gram (Urd Beans),Mottagaon,2017-02-21,4575.0,0.45,30.0,clear
+1449,Green Gram (Moong),Dhenkanal,2017-02-21,4800.0,0.26,30.0,clear
+1450,Green Gram (Moong),Mottagaon,2017-02-21,4800.0,0.24,30.0,clear
+1451,Black Gram (Urd Beans),Dhenkanal,2017-02-22,4575.0,0.61,29.4,clear
+1452,Black Gram (Urd Beans),Mottagaon,2017-02-22,4575.0,0.51,29.4,clear
+1453,Green Gram (Moong),Dhenkanal,2017-02-22,4800.0,0.29,29.4,clear
+1454,Green Gram (Moong),Mottagaon,2017-02-22,4800.0,0.31,29.4,clear
+1455,Black Gram (Urd Beans),Dhenkanal,2017-02-23,4575.0,0.51,32.0,clear
+1456,Black Gram (Urd Beans),Mottagaon,2017-02-23,4575.0,0.42,32.0,clear
+1457,Green Gram (Moong),Dhenkanal,2017-02-23,4800.0,0.29,32.0,clear
+1458,Green Gram (Moong),Mottagaon,2017-02-23,4800.0,0.32,32.0,clear
+1459,Black Gram (Urd Beans),Dhenkanal,2017-02-24,4575.0,0.51,30.4,clear
+1460,Black Gram (Urd Beans),Mottagaon,2017-02-24,4575.0,0.46,30.4,clear
+1461,Green Gram (Moong),Dhenkanal,2017-02-24,4800.0,0.4,30.4,clear
+1462,Green Gram (Moong),Mottagaon,2017-02-24,4800.0,0.22,30.4,clear
+1463,Black Gram (Urd Beans),Dhenkanal,2017-02-25,4575.0,0.46,29.4,clear
+1464,Black Gram (Urd Beans),Mottagaon,2017-02-25,4575.0,0.41,29.4,clear
+1465,Green Gram (Moong),Dhenkanal,2017-02-25,4800.0,0.4,29.4,clear
+1466,Green Gram (Moong),Mottagaon,2017-02-25,4800.0,0.31,29.4,clear
+1467,Black Gram (Urd Beans),Dhenkanal,2017-02-26,4575.0,0.42,30.6,clear
+1468,Black Gram (Urd Beans),Mottagaon,2017-02-26,4575.0,0.44,30.6,clear
+1469,Green Gram (Moong),Dhenkanal,2017-02-26,4800.0,0.4,30.6,clear
+1470,Black Gram (Urd Beans),Dhenkanal,2017-02-27,4575.0,0.51,31.6,clear
+1471,Black Gram (Urd Beans),Mottagaon,2017-02-27,4575.0,0.52,31.6,clear
+1472,Green Gram (Moong),Dhenkanal,2017-02-27,4800.0,0.32,31.6,clear
+1473,Green Gram (Moong),Mottagaon,2017-02-27,4800.0,0.23,31.6,clear
+1474,Black Gram (Urd Beans),Dhenkanal,2017-02-28,4575.0,0.43,31.0,clear
+1475,Black Gram (Urd Beans),Mottagaon,2017-02-28,4575.0,0.39,31.0,clear
+1476,Green Gram (Moong),Dhenkanal,2017-02-28,4800.0,0.22,31.0,clear
+1477,Green Gram (Moong),Mottagaon,2017-02-28,4800.0,0.22,31.0,clear
+1478,Black Gram (Urd Beans),Dhenkanal,2017-01-03,4575.0,0.51,23.8,clear
+1479,Black Gram (Urd Beans),Mottagaon,2017-01-03,4575.0,0.41,23.8,clear
+1480,Green Gram (Moong),Dhenkanal,2017-01-03,4800.0,0.33,23.8,clear
+1481,Green Gram (Moong),Mottagaon,2017-01-03,4800.0,0.33,23.8,clear
+1482,Black Gram (Urd Beans),Dhenkanal,2017-02-03,4575.0,0.61,27.0,clear
+1483,Black Gram (Urd Beans),Mottagaon,2017-02-03,4575.0,0.51,27.0,clear
+1484,Green Gram (Moong),Dhenkanal,2017-02-03,4800.0,0.36,27.0,clear
+1485,Green Gram (Moong),Mottagaon,2017-02-03,4800.0,0.31,27.0,clear
+1486,Black Gram (Urd Beans),Dhenkanal,2017-03-03,4575.0,0.32,32.6,clear
+1487,Black Gram (Urd Beans),Mottagaon,2017-03-03,4575.0,0.42,32.6,clear
+1488,Green Gram (Moong),Dhenkanal,2017-03-03,4800.0,0.22,32.6,clear
+1489,Green Gram (Moong),Mottagaon,2017-03-03,4800.0,0.31,32.6,clear
+1490,Black Gram (Urd Beans),Dhenkanal,2017-04-03,4575.0,0.33,33.0,clear
+1491,Black Gram (Urd Beans),Mottagaon,2017-04-03,4575.0,0.42,33.0,clear
+1492,Green Gram (Moong),Dhenkanal,2017-04-03,4800.0,0.25,33.0,clear
+1493,Green Gram (Moong),Mottagaon,2017-04-03,4800.0,0.32,33.0,clear
+1494,Black Gram (Urd Beans),Dhenkanal,2017-05-03,4575.0,0.41,33.0,clear
+1495,Black Gram (Urd Beans),Mottagaon,2017-05-03,4575.0,0.52,33.0,clear
+1496,Green Gram (Moong),Dhenkanal,2017-05-03,4800.0,0.22,33.0,clear
+1497,Green Gram (Moong),Mottagaon,2017-05-03,4800.0,0.22,33.0,clear
+1498,Black Gram (Urd Beans),Dhenkanal,2017-06-03,4575.0,0.43,34.6,clear
+1499,Black Gram (Urd Beans),Mottagaon,2017-06-03,4575.0,0.32,34.6,clear
+1500,Green Gram (Moong),Dhenkanal,2017-06-03,4800.0,0.22,34.6,clear
+1501,Green Gram (Moong),Mottagaon,2017-06-03,4800.0,0.22,34.6,clear
+1502,Black Gram (Urd Beans),Dhenkanal,2017-07-03,4575.0,0.52,29.0,clear
+1503,Black Gram (Urd Beans),Mottagaon,2017-07-03,4575.0,0.35,29.0,clear
+1504,Green Gram (Moong),Dhenkanal,2017-07-03,4800.0,0.4,29.0,clear
+1505,Green Gram (Moong),Mottagaon,2017-07-03,4800.0,0.31,29.0,clear
+1506,Black Gram (Urd Beans),Dhenkanal,2017-08-03,4575.0,0.51,31.6,clear
+1507,Black Gram (Urd Beans),Mottagaon,2017-08-03,4575.0,0.31,31.6,clear
+1508,Green Gram (Moong),Dhenkanal,2017-08-03,4800.0,0.41,31.6,clear
+1509,Green Gram (Moong),Mottagaon,2017-08-03,4800.0,0.24,31.6,clear
+1510,Black Gram (Urd Beans),Dhenkanal,2017-09-03,4575.0,0.51,31.0,clear
+1511,Black Gram (Urd Beans),Mottagaon,2017-09-03,4575.0,0.51,31.0,clear
+1512,Green Gram (Moong),Dhenkanal,2017-09-03,4800.0,0.31,31.0,clear
+1513,Green Gram (Moong),Mottagaon,2017-09-03,4800.0,0.36,31.0,clear
+1514,Black Gram (Urd Beans),Dhenkanal,2017-10-03,4575.0,0.42,28.4,clear
+1515,Green Gram (Moong),Dhenkanal,2017-10-03,4800.0,0.21,28.4,clear
+1516,Black Gram (Urd Beans),Dhenkanal,2017-11-03,4575.0,0.51,25.6,clear
+1517,Green Gram (Moong),Dhenkanal,2017-11-03,4800.0,0.22,25.6,clear
+1518,Black Gram (Urd Beans),Dhenkanal,2017-03-13,4575.0,0.32,26.6,clear
+1519,Black Gram (Urd Beans),Mottagaon,2017-03-13,4575.0,0.43,26.6,clear
+1520,Green Gram (Moong),Dhenkanal,2017-03-13,4800.0,0.29,26.6,clear
+1521,Green Gram (Moong),Mottagaon,2017-03-13,4800.0,0.29,26.6,clear
+1522,Black Gram (Urd Beans),Dhenkanal,2017-03-14,4575.0,0.49,29.0,clear
+1523,Black Gram (Urd Beans),Mottagaon,2017-03-14,4575.0,0.43,29.0,clear
+1524,Green Gram (Moong),Dhenkanal,2017-03-14,4800.0,0.33,29.0,clear
+1525,Green Gram (Moong),Mottagaon,2017-03-14,4800.0,0.31,29.0,clear
+1526,Black Gram (Urd Beans),Dhenkanal,2017-03-15,4575.0,0.59,30.2,clear
+1527,Black Gram (Urd Beans),Mottagaon,2017-03-15,4575.0,0.42,30.2,clear
+1528,Green Gram (Moong),Dhenkanal,2017-03-15,4800.0,0.31,30.2,clear
+1529,Green Gram (Moong),Mottagaon,2017-03-15,4800.0,0.23,30.2,clear
+1530,Black Gram (Urd Beans),Dhenkanal,2017-03-16,4575.0,0.52,31.0,clear
+1531,Black Gram (Urd Beans),Mottagaon,2017-03-16,4575.0,0.53,31.0,clear
+1532,Green Gram (Moong),Dhenkanal,2017-03-16,4800.0,0.31,31.0,clear
+1533,Green Gram (Moong),Mottagaon,2017-03-16,4800.0,0.32,31.0,clear
+1534,Black Gram (Urd Beans),Dhenkanal,2017-03-17,4575.0,0.42,30.6,clear
+1535,Black Gram (Urd Beans),Mottagaon,2017-03-17,4575.0,0.47,30.6,clear
+1536,Green Gram (Moong),Dhenkanal,2017-03-17,4800.0,0.31,30.6,clear
+1537,Green Gram (Moong),Mottagaon,2017-03-17,4800.0,0.33,30.6,clear
+1538,Black Gram (Urd Beans),Dhenkanal,2017-03-18,4575.0,0.42,31.2,clear
+1539,Black Gram (Urd Beans),Mottagaon,2017-03-18,4575.0,0.42,31.2,clear
+1540,Green Gram (Moong),Dhenkanal,2017-03-18,4800.0,0.33,31.2,clear
+1541,Green Gram (Moong),Mottagaon,2017-03-18,4800.0,0.29,31.2,clear
+1542,Black Gram (Urd Beans),Dhenkanal,2017-03-21,4575.0,0.42,31.0,clear
+1543,Black Gram (Urd Beans),Mottagaon,2017-03-21,4575.0,0.41,31.0,clear
+1544,Green Gram (Moong),Dhenkanal,2017-03-21,4800.0,0.33,31.0,clear
+1545,Green Gram (Moong),Mottagaon,2017-03-21,4800.0,0.33,31.0,clear
+1546,Black Gram (Urd Beans),Dhenkanal,2017-03-22,4575.0,0.41,30.4,clear
+1547,Black Gram (Urd Beans),Mottagaon,2017-03-22,4575.0,0.42,30.4,clear
+1548,Green Gram (Moong),Dhenkanal,2017-03-22,4800.0,0.33,30.4,clear
+1549,Green Gram (Moong),Mottagaon,2017-03-22,4800.0,0.25,30.4,clear
+1550,Black Gram (Urd Beans),Dhenkanal,2017-03-23,4575.0,0.53,33.4,clear
+1551,Black Gram (Urd Beans),Mottagaon,2017-03-23,4575.0,0.31,33.4,clear
+1552,Green Gram (Moong),Dhenkanal,2017-03-23,4800.0,0.22,33.4,clear
+1553,Green Gram (Moong),Mottagaon,2017-03-23,4800.0,0.29,33.4,clear
+1554,Black Gram (Urd Beans),Dhenkanal,2017-03-24,4575.0,0.53,33.0,clear
+1555,Black Gram (Urd Beans),Mottagaon,2017-03-24,4575.0,0.41,33.0,clear
+1556,Green Gram (Moong),Dhenkanal,2017-03-24,4800.0,0.38,33.0,clear
+1557,Green Gram (Moong),Mottagaon,2017-03-24,4800.0,0.21,33.0,clear
+1558,Black Gram (Urd Beans),Dhenkanal,2017-03-25,4575.0,0.45,31.4,clear
+1559,Black Gram (Urd Beans),Mottagaon,2017-03-25,4575.0,0.43,31.4,clear
+1560,Green Gram (Moong),Dhenkanal,2017-03-25,4800.0,0.34,31.4,clear
+1561,Green Gram (Moong),Mottagaon,2017-03-25,4800.0,0.22,31.4,clear
+1562,Black Gram (Urd Beans),Dhenkanal,2017-03-26,4575.0,0.52,31.6,clear
+1563,Black Gram (Urd Beans),Mottagaon,2017-03-26,4575.0,0.42,31.6,clear
+1564,Green Gram (Moong),Dhenkanal,2017-03-26,4800.0,0.26,31.6,clear
+1565,Green Gram (Moong),Mottagaon,2017-03-26,4800.0,0.29,31.6,clear
+1566,Black Gram (Urd Beans),Dhenkanal,2017-03-27,4575.0,0.22,31.0,clear
+1567,Black Gram (Urd Beans),Mottagaon,2017-03-27,4575.0,0.42,31.0,clear
+1568,Green Gram (Moong),Dhenkanal,2017-03-27,4800.0,0.29,31.0,clear
+1569,Green Gram (Moong),Mottagaon,2017-03-27,4800.0,0.22,31.0,clear
+1570,Black Gram (Urd Beans),Dhenkanal,2017-03-28,4575.0,0.35,31.0,clear
+1571,Black Gram (Urd Beans),Mottagaon,2017-03-28,4575.0,0.52,31.0,clear
+1572,Green Gram (Moong),Dhenkanal,2017-03-28,4800.0,0.21,31.0,clear
+1573,Green Gram (Moong),Mottagaon,2017-03-28,4800.0,0.21,31.0,clear
+1574,Black Gram (Urd Beans),Dhenkanal,2017-03-29,4575.0,0.39,31.0,clear
+1575,Black Gram (Urd Beans),Mottagaon,2017-03-29,4575.0,0.42,31.0,clear
+1576,Green Gram (Moong),Dhenkanal,2017-03-29,4800.0,0.12,31.0,clear
+1577,Green Gram (Moong),Mottagaon,2017-03-29,4800.0,0.23,31.0,clear
+1578,Black Gram (Urd Beans),Dhenkanal,2017-03-30,4575.0,0.33,31.4,clear
+1579,Black Gram (Urd Beans),Mottagaon,2017-03-30,4575.0,31.0,31.4,clear
+1580,Green Gram (Moong),Dhenkanal,2017-03-30,4800.0,0.21,31.4,clear
+1581,Green Gram (Moong),Mottagaon,2017-03-30,4800.0,0.21,31.4,clear
+1582,Black Gram (Urd Beans),Dhenkanal,2017-03-31,4575.0,0.22,32.4,clear
+1583,Black Gram (Urd Beans),Mottagaon,2017-03-31,4575.0,0.41,32.4,clear
+1584,Green Gram (Moong),Dhenkanal,2017-03-31,4800.0,0.18,32.4,clear
+1585,Green Gram (Moong),Mottagaon,2017-03-31,4800.0,0.21,32.4,clear
+1586,Black Gram (Urd Beans),Dhenkanal,2017-01-04,4575.0,0.51,23.4,clear
+1587,Black Gram (Urd Beans),Mottagaon,2017-01-04,4575.0,0.42,23.4,clear
+1588,Green Gram (Moong),Dhenkanal,2017-01-04,4800.0,0.21,23.4,clear
+1589,Green Gram (Moong),Mottagaon,2017-01-04,4800.0,0.23,23.4,clear
+1590,Black Gram (Urd Beans),Dhenkanal,2017-02-04,4575.0,0.32,25.2,clear
+1591,Green Gram (Moong),Dhenkanal,2017-02-04,4800.0,0.29,25.2,clear
+1592,Black Gram (Urd Beans),Dhenkanal,2017-03-04,4575.0,0.33,30.0,clear
+1593,Black Gram (Urd Beans),Mottagaon,2017-03-04,4575.0,0.39,30.0,clear
+1594,Green Gram (Moong),Dhenkanal,2017-03-04,4800.0,0.22,30.0,clear
+1595,Green Gram (Moong),Mottagaon,2017-03-04,4800.0,0.06,30.0,clear
+1596,Black Gram (Urd Beans),Dhenkanal,2017-04-04,4575.0,0.45,31.0,clear
+1597,Black Gram (Urd Beans),Mottagaon,2017-04-04,4575.0,0.41,31.0,clear
+1598,Green Gram (Moong),Dhenkanal,2017-04-04,4800.0,0.06,31.0,clear
+1599,Green Gram (Moong),Mottagaon,2017-04-04,4800.0,0.29,31.0,clear
+1600,Black Gram (Urd Beans),Dhenkanal,2017-05-04,4575.0,0.33,34.0,clear
+1601,Black Gram (Urd Beans),Mottagaon,2017-05-04,4575.0,0.62,34.0,clear
+1602,Green Gram (Moong),Dhenkanal,2017-05-04,4800.0,0.23,34.0,clear
+1603,Green Gram (Moong),Mottagaon,2017-05-04,4800.0,0.31,34.0,clear
+1604,Black Gram (Urd Beans),Dhenkanal,2017-06-04,4575.0,0.47,37.6,clear
+1605,Black Gram (Urd Beans),Mottagaon,2017-06-04,4575.0,0.41,37.6,clear
+1606,Green Gram (Moong),Dhenkanal,2017-06-04,4800.0,0.25,37.6,clear
+1607,Green Gram (Moong),Mottagaon,2017-06-04,4800.0,0.22,37.6,clear
+1608,Black Gram (Urd Beans),Dhenkanal,2017-07-04,4575.0,0.42,30.0,clear
+1609,Black Gram (Urd Beans),Mottagaon,2017-07-04,4575.0,0.43,30.0,clear
+1610,Green Gram (Moong),Dhenkanal,2017-07-04,4800.0,0.32,30.0,clear
+1611,Green Gram (Moong),Mottagaon,2017-07-04,4800.0,0.23,30.0,clear
+1612,Black Gram (Urd Beans),Dhenkanal,2017-08-04,4575.0,0.41,28.2,clear
+1613,Black Gram (Urd Beans),Mottagaon,2017-08-04,4575.0,0.42,28.2,clear
+1614,Green Gram (Moong),Dhenkanal,2017-08-04,4800.0,0.21,28.2,clear
+1615,Green Gram (Moong),Mottagaon,2017-08-04,4800.0,0.24,28.2,clear
+1616,Black Gram (Urd Beans),Dhenkanal,2017-09-04,4575.0,0.52,33.0,clear
+1617,Black Gram (Urd Beans),Mottagaon,2017-09-04,4575.0,0.3,33.0,clear
+1618,Green Gram (Moong),Dhenkanal,2017-09-04,4800.0,0.35,33.0,clear
+1619,Green Gram (Moong),Mottagaon,2017-09-04,4800.0,0.23,33.0,clear
+1620,Black Gram (Urd Beans),Dhenkanal,2017-10-04,4575.0,0.42,28.4,clear
+1621,Black Gram (Urd Beans),Mottagaon,2017-10-04,4575.0,0.45,28.4,clear
+1622,Green Gram (Moong),Dhenkanal,2017-10-04,4800.0,0.22,28.4,clear
+1623,Green Gram (Moong),Mottagaon,2017-10-04,4800.0,0.32,28.4,clear
+1624,Black Gram (Urd Beans),Dhenkanal,2017-11-04,4575.0,0.42,27.0,clear
+1625,Black Gram (Urd Beans),Mottagaon,2017-11-04,4575.0,0.43,27.0,clear
+1626,Green Gram (Moong),Dhenkanal,2017-11-04,4800.0,0.21,27.0,clear
+1627,Green Gram (Moong),Mottagaon,2017-11-04,4800.0,0.21,27.0,clear
+1628,Black Gram (Urd Beans),Dhenkanal,2017-12-04,4575.0,0.42,22.0,clear
+1629,Black Gram (Urd Beans),Mottagaon,2017-12-04,4575.0,0.33,22.0,clear
+1630,Green Gram (Moong),Dhenkanal,2017-12-04,4800.0,0.26,22.0,clear
+1631,Green Gram (Moong),Mottagaon,2017-12-04,4800.0,0.22,22.0,clear
+1632,Black Gram (Urd Beans),Dhenkanal,2017-04-13,4575.0,0.52,33.4,clear
+1633,Black Gram (Urd Beans),Mottagaon,2017-04-13,4575.0,0.42,33.4,clear
+1634,Green Gram (Moong),Dhenkanal,2017-04-13,4800.0,0.26,33.4,clear
+1635,Black Gram (Urd Beans),Dhenkanal,2017-04-14,4575.0,0.44,32.6,clear
+1636,Black Gram (Urd Beans),Mottagaon,2017-04-14,4575.0,0.42,32.6,clear
+1637,Green Gram (Moong),Dhenkanal,2017-04-14,4800.0,0.26,32.6,clear
+1638,Green Gram (Moong),Mottagaon,2017-04-14,4800.0,0.21,32.6,clear
+1639,Black Gram (Urd Beans),Dhenkanal,2017-04-15,4575.0,0.52,32.2,clear
+1640,Black Gram (Urd Beans),Mottagaon,2017-04-15,4575.0,0.33,32.2,clear
+1641,Green Gram (Moong),Dhenkanal,2017-04-15,4800.0,0.24,32.2,clear
+1642,Green Gram (Moong),Mottagaon,2017-04-15,4800.0,0.22,32.2,clear
+1643,Black Gram (Urd Beans),Dhenkanal,2017-04-16,4575.0,0.51,31.4,clear
+1644,Black Gram (Urd Beans),Mottagaon,2017-04-16,4575.0,0.45,31.4,clear
+1645,Green Gram (Moong),Dhenkanal,2017-04-16,4800.0,0.21,31.4,clear
+1646,Green Gram (Moong),Mottagaon,2017-04-16,4800.0,0.25,31.4,clear
+1647,Black Gram (Urd Beans),Dhenkanal,2017-04-17,4575.0,0.22,31.0,clear
+1648,Black Gram (Urd Beans),Mottagaon,2017-04-17,4575.0,0.53,31.0,clear
+1649,Green Gram (Moong),Dhenkanal,2017-04-17,4800.0,0.22,31.0,clear
+1650,Green Gram (Moong),Mottagaon,2017-04-17,4800.0,0.24,31.0,clear
+1651,Black Gram (Urd Beans),Dhenkanal,2017-04-18,4575.0,0.4,32.0,clear
+1652,Black Gram (Urd Beans),Mottagaon,2017-04-18,4575.0,0.51,32.0,clear
+1653,Green Gram (Moong),Dhenkanal,2017-04-18,4800.0,0.18,32.0,clear
+1654,Green Gram (Moong),Mottagaon,2017-04-18,4800.0,0.22,32.0,clear
+1655,Black Gram (Urd Beans),Dhenkanal,2017-04-19,4575.0,0.42,31.4,clear
+1656,Black Gram (Urd Beans),Mottagaon,2017-04-19,4575.0,0.33,31.4,clear
+1657,Green Gram (Moong),Dhenkanal,2017-04-19,4800.0,0.24,31.4,clear
+1658,Green Gram (Moong),Mottagaon,2017-04-19,4800.0,0.21,31.4,clear
+1659,Black Gram (Urd Beans),Dhenkanal,2017-04-20,4575.0,0.41,31.6,clear
+1660,Green Gram (Moong),Dhenkanal,2017-04-20,4800.0,0.22,31.6,clear
+1661,Black Gram (Urd Beans),Dhenkanal,2017-04-24,4575.0,0.42,33.4,clear
+1662,Black Gram (Urd Beans),Mottagaon,2017-04-24,4575.0,0.42,33.4,clear
+1663,Green Gram (Moong),Dhenkanal,2017-04-24,4800.0,0.29,33.4,clear
+1664,Green Gram (Moong),Mottagaon,2017-04-24,4800.0,0.22,33.4,clear
+1665,Black Gram (Urd Beans),Dhenkanal,2017-04-25,4575.0,0.41,35.2,clear
+1666,Black Gram (Urd Beans),Mottagaon,2017-04-25,4575.0,0.21,35.2,clear
+1667,Green Gram (Moong),Dhenkanal,2017-04-25,4800.0,0.22,35.2,clear
+1668,Green Gram (Moong),Mottagaon,2017-04-25,4800.0,0.22,35.2,clear
+1669,Black Gram (Urd Beans),Dhenkanal,2017-04-26,4575.0,0.35,34.6,clear
+1670,Black Gram (Urd Beans),Mottagaon,2017-04-26,4575.0,0.22,34.6,clear
+1671,Green Gram (Moong),Dhenkanal,2017-04-26,4800.0,0.22,34.6,clear
+1672,Green Gram (Moong),Mottagaon,2017-04-26,4800.0,0.21,34.6,clear
+1673,Black Gram (Urd Beans),Dhenkanal,2017-04-27,4575.0,0.43,34.0,clear
+1674,Black Gram (Urd Beans),Mottagaon,2017-04-27,4575.0,0.33,34.0,clear
+1675,Green Gram (Moong),Dhenkanal,2017-04-27,4800.0,0.22,34.0,clear
+1676,Green Gram (Moong),Mottagaon,2017-04-27,4800.0,0.12,34.0,clear
+1677,Black Gram (Urd Beans),Dhenkanal,2017-04-28,4575.0,0.32,35.6,clear
+1678,Black Gram (Urd Beans),Mottagaon,2017-04-28,4575.0,0.22,35.6,clear
+1679,Green Gram (Moong),Dhenkanal,2017-04-28,4800.0,0.21,35.6,clear
+1680,Green Gram (Moong),Mottagaon,2017-04-28,4800.0,0.22,35.6,clear
+1681,Black Gram (Urd Beans),Dhenkanal,2017-04-29,4575.0,0.32,33.0,clear
+1682,Black Gram (Urd Beans),Mottagaon,2017-04-29,4575.0,0.35,33.0,clear
+1683,Green Gram (Moong),Dhenkanal,2017-04-29,4800.0,0.22,33.0,clear
+1684,Green Gram (Moong),Mottagaon,2017-04-29,4800.0,0.21,33.0,clear
+1685,Black Gram (Urd Beans),Dhenkanal,2017-04-30,4575.0,0.35,33.0,clear
+1686,Black Gram (Urd Beans),Mottagaon,2017-04-30,4575.0,0.32,33.0,clear
+1687,Green Gram (Moong),Dhenkanal,2017-04-30,4800.0,0.21,33.0,clear
+1688,Green Gram (Moong),Mottagaon,2017-04-30,4800.0,0.22,33.0,clear
+1689,Black Gram (Urd Beans),Dhenkanal,2017-01-05,4575.0,0.41,24.2,clear
+1690,Black Gram (Urd Beans),Mottagaon,2017-01-05,4575.0,0.33,24.2,clear
+1691,Green Gram (Moong),Dhenkanal,2017-01-05,4800.0,0.22,24.2,clear
+1692,Green Gram (Moong),Mottagaon,2017-01-05,4800.0,0.22,24.2,clear
+1693,Black Gram (Urd Beans),Dhenkanal,2017-02-05,4575.0,0.33,27.4,clear
+1694,Black Gram (Urd Beans),Mottagaon,2017-02-05,4575.0,0.31,27.4,clear
+1695,Green Gram (Moong),Dhenkanal,2017-02-05,4800.0,0.24,27.4,clear
+1696,Green Gram (Moong),Mottagaon,2017-02-05,4800.0,0.21,27.4,clear
+1697,Black Gram (Urd Beans),Dhenkanal,2017-03-05,4575.0,0.32,31.0,clear
+1698,Black Gram (Urd Beans),Mottagaon,2017-03-05,4575.0,0.33,31.0,clear
+1699,Green Gram (Moong),Dhenkanal,2017-03-05,4800.0,0.21,31.0,clear
+1700,Green Gram (Moong),Mottagaon,2017-03-05,4800.0,0.21,31.0,clear
+1701,Black Gram (Urd Beans),Dhenkanal,2017-04-05,4575.0,0.31,30.6,clear
+1702,Black Gram (Urd Beans),Mottagaon,2017-04-05,4575.0,0.29,30.6,clear
+1703,Green Gram (Moong),Dhenkanal,2017-04-05,4800.0,0.24,30.6,clear
+1704,Green Gram (Moong),Mottagaon,2017-04-05,4800.0,0.21,30.6,clear
+1705,Black Gram (Urd Beans),Dhenkanal,2017-05-05,4575.0,0.41,32.0,clear
+1706,Green Gram (Moong),Dhenkanal,2017-05-05,4800.0,0.21,32.0,clear
+1707,Black Gram (Urd Beans),Dhenkanal,2017-08-05,4575.0,0.25,29.0,clear
+1708,Black Gram (Urd Beans),Mottagaon,2017-08-05,4575.0,0.22,29.0,clear
+1709,Green Gram (Moong),Dhenkanal,2017-08-05,4800.0,0.21,29.0,clear
+1710,Green Gram (Moong),Mottagaon,2017-08-05,4800.0,0.21,29.0,clear
+1711,Black Gram (Urd Beans),Dhenkanal,2017-09-05,4575.0,0.24,32.2,clear
+1712,Black Gram (Urd Beans),Mottagaon,2017-09-05,4575.0,0.31,32.2,clear
+1713,Green Gram (Moong),Dhenkanal,2017-09-05,4800.0,0.22,32.2,clear
+1714,Green Gram (Moong),Mottagaon,2017-09-05,4800.0,0.21,32.2,clear
+1715,Black Gram (Urd Beans),Dhenkanal,2017-12-05,4575.0,0.31,22.8,clear
+1716,Black Gram (Urd Beans),Mottagaon,2017-12-05,4575.0,0.22,22.8,clear
+1717,Green Gram (Moong),Dhenkanal,2017-12-05,4800.0,0.21,22.8,clear
+1718,Green Gram (Moong),Mottagaon,2017-12-05,4800.0,0.22,22.8,clear
+1719,Black Gram (Urd Beans),Dhenkanal,2017-05-13,4575.0,0.28,35.0,clear
+1720,Black Gram (Urd Beans),Mottagaon,2017-05-13,4575.0,0.22,35.0,clear
+1721,Green Gram (Moong),Dhenkanal,2017-05-13,4800.0,0.18,35.0,clear
+1722,Green Gram (Moong),Mottagaon,2017-05-13,4800.0,0.22,35.0,clear
+1723,Black Gram (Urd Beans),Dhenkanal,2017-05-14,4575.0,0.31,35.0,clear
+1724,Black Gram (Urd Beans),Mottagaon,2017-05-14,4575.0,0.25,35.0,clear
+1725,Green Gram (Moong),Dhenkanal,2017-05-14,4800.0,0.22,35.0,clear
+1726,Green Gram (Moong),Mottagaon,2017-05-14,4800.0,0.21,35.0,clear
+1727,Black Gram (Urd Beans),Dhenkanal,2017-05-15,4575.0,0.22,35.0,clear
+1728,Black Gram (Urd Beans),Mottagaon,2017-05-15,4575.0,0.33,35.0,clear
+1729,Green Gram (Moong),Dhenkanal,2017-05-15,4800.0,0.18,35.0,clear
+1730,Green Gram (Moong),Mottagaon,2017-05-15,4800.0,0.22,35.0,clear
+1731,Black Gram (Urd Beans),Dhenkanal,2017-05-16,4575.0,0.31,35.0,clear
+1732,Black Gram (Urd Beans),Mottagaon,2017-05-16,4575.0,0.29,35.0,clear
+1733,Green Gram (Moong),Dhenkanal,2017-05-16,4800.0,0.17,35.0,clear
+1734,Green Gram (Moong),Mottagaon,2017-05-16,4800.0,0.21,35.0,clear
+1735,Black Gram (Urd Beans),Dhenkanal,2017-05-17,4575.0,0.31,33.0,clear
+1736,Black Gram (Urd Beans),Mottagaon,2017-05-17,4575.0,0.32,33.0,clear
+1737,Green Gram (Moong),Dhenkanal,2017-05-17,4800.0,0.21,33.0,clear
+1738,Green Gram (Moong),Mottagaon,2017-05-17,4800.0,0.22,33.0,clear
+1739,Black Gram (Urd Beans),Dhenkanal,2017-05-18,4575.0,0.41,35.0,clear
+1740,Black Gram (Urd Beans),Mottagaon,2017-05-18,4575.0,0.33,35.0,clear
+1741,Green Gram (Moong),Dhenkanal,2017-05-18,4800.0,0.24,35.0,clear
+1742,Green Gram (Moong),Mottagaon,2017-05-18,4800.0,0.21,35.0,clear
+1743,Black Gram (Urd Beans),Dhenkanal,2017-05-19,4575.0,0.31,36.4,clear
+1744,Black Gram (Urd Beans),Mottagaon,2017-05-19,4575.0,0.33,36.4,clear
+1745,Green Gram (Moong),Dhenkanal,2017-05-19,4800.0,0.22,36.4,clear
+1746,Green Gram (Moong),Mottagaon,2017-05-19,4800.0,0.22,36.4,clear
+1747,Black Gram (Urd Beans),Dhenkanal,2017-05-20,4575.0,0.36,36.4,clear
+1748,Black Gram (Urd Beans),Mottagaon,2017-05-20,4575.0,0.42,36.4,clear
+1749,Green Gram (Moong),Dhenkanal,2017-05-20,4800.0,0.18,36.4,clear
+1750,Green Gram (Moong),Mottagaon,2017-05-20,4800.0,0.23,36.4,clear
+1751,Black Gram (Urd Beans),Dhenkanal,2017-05-22,4575.0,0.32,32.4,clear
+1752,Black Gram (Urd Beans),Mottagaon,2017-05-22,4575.0,0.31,32.4,clear
+1753,Green Gram (Moong),Dhenkanal,2017-05-22,4800.0,0.21,32.4,clear
+1754,Green Gram (Moong),Mottagaon,2017-05-22,4800.0,0.21,32.4,clear
+1755,Black Gram (Urd Beans),Dhenkanal,2017-05-27,4575.0,0.33,31.0,clear
+1756,Black Gram (Urd Beans),Mottagaon,2017-05-27,4575.0,0.33,31.0,clear
+1757,Green Gram (Moong),Dhenkanal,2017-05-27,4800.0,0.21,31.0,clear
+1758,Green Gram (Moong),Mottagaon,2017-05-27,4800.0,0.2,31.0,clear
+1759,Black Gram (Urd Beans),Dhenkanal,2017-05-28,4575.0,0.22,32.0,clear
+1760,Black Gram (Urd Beans),Mottagaon,2017-05-28,4575.0,0.29,32.0,clear
+1761,Green Gram (Moong),Dhenkanal,2017-05-28,4800.0,0.21,32.0,clear
+1762,Green Gram (Moong),Mottagaon,2017-05-28,4800.0,0.21,32.0,clear
+1763,Black Gram (Urd Beans),Dhenkanal,2017-05-29,4575.0,0.34,35.4,clear
+1764,Black Gram (Urd Beans),Mottagaon,2017-05-29,4575.0,0.22,35.4,clear
+1765,Green Gram (Moong),Dhenkanal,2017-05-29,4800.0,0.21,35.4,clear
+1766,Green Gram (Moong),Mottagaon,2017-05-29,4800.0,0.17,35.4,clear
+1767,Black Gram (Urd Beans),Dhenkanal,2017-05-30,4575.0,0.41,37.4,clear
+1768,Black Gram (Urd Beans),Mottagaon,2017-05-30,4575.0,0.31,37.4,clear
+1769,Green Gram (Moong),Dhenkanal,2017-05-30,4800.0,0.23,37.4,clear
+1770,Green Gram (Moong),Mottagaon,2017-05-30,4800.0,0.22,37.4,clear
+1771,Black Gram (Urd Beans),Dhenkanal,2017-05-31,4575.0,0.31,34.0,clear
+1772,Green Gram (Moong),Dhenkanal,2017-05-31,4800.0,0.21,34.0,clear
+1773,Black Gram (Urd Beans),Dhenkanal,2017-01-06,4575.0,0.34,24.8,clear
+1774,Green Gram (Moong),Dhenkanal,2017-01-06,4800.0,0.21,24.8,clear
+1775,Black Gram (Urd Beans),Dhenkanal,2017-02-06,4575.0,0.33,28.0,clear
+1776,Black Gram (Urd Beans),Mottagaon,2017-02-06,4575.0,0.31,28.0,clear
+1777,Green Gram (Moong),Dhenkanal,2017-02-06,4800.0,0.22,28.0,clear
+1778,Green Gram (Moong),Mottagaon,2017-02-06,4800.0,0.18,28.0,clear
+1779,Black Gram (Urd Beans),Dhenkanal,2017-03-06,4575.0,0.34,34.1,clear
+1780,Black Gram (Urd Beans),Mottagaon,2017-03-06,4575.0,0.31,34.1,clear
+1781,Green Gram (Moong),Mottagaon,2017-03-06,4800.0,0.21,34.1,clear
+1782,Black Gram (Urd Beans),Dhenkanal,2017-04-06,4575.0,0.22,31.0,clear
+1783,Black Gram (Urd Beans),Mottagaon,2017-04-06,4575.0,0.22,31.0,clear
+1784,Green Gram (Moong),Dhenkanal,2017-04-06,4800.0,0.18,31.0,clear
+1785,Green Gram (Moong),Mottagaon,2017-04-06,4800.0,0.21,31.0,clear
+1786,Black Gram (Urd Beans),Dhenkanal,2017-05-06,4575.0,0.31,31.6,clear
+1787,Black Gram (Urd Beans),Mottagaon,2017-05-06,4575.0,0.21,31.6,clear
+1788,Green Gram (Moong),Dhenkanal,2017-05-06,4800.0,0.19,31.6,clear
+1789,Green Gram (Moong),Mottagaon,2017-05-06,4800.0,0.21,31.6,clear
+1790,Black Gram (Urd Beans),Dhenkanal,2017-06-06,4575.0,0.31,32.4,clear
+1791,Black Gram (Urd Beans),Mottagaon,2017-06-06,4575.0,0.21,32.4,clear
+1792,Green Gram (Moong),Dhenkanal,2017-06-06,4800.0,0.23,32.4,clear
+1793,Green Gram (Moong),Mottagaon,2017-06-06,4800.0,0.23,32.4,clear
+1794,Black Gram (Urd Beans),Dhenkanal,2017-07-06,4575.0,0.28,31.0,clear
+1795,Black Gram (Urd Beans),Mottagaon,2017-07-06,4575.0,0.22,31.0,clear
+1796,Green Gram (Moong),Dhenkanal,2017-07-06,4800.0,0.18,31.0,clear
+1797,Green Gram (Moong),Mottagaon,2017-07-06,4800.0,0.18,31.0,clear
+1798,Black Gram (Urd Beans),Dhenkanal,2017-08-06,4575.0,0.31,30.4,clear
+1799,Black Gram (Urd Beans),Mottagaon,2017-08-06,4575.0,0.22,30.4,clear
+1800,Green Gram (Moong),Dhenkanal,2017-08-06,4800.0,0.18,30.4,clear
+1801,Green Gram (Moong),Mottagaon,2017-08-06,4800.0,0.21,30.4,clear
+1802,Black Gram (Urd Beans),Dhenkanal,2017-09-06,4575.0,0.29,31.6,clear
+1803,Black Gram (Urd Beans),Mottagaon,2017-09-06,4575.0,0.22,31.6,clear
+1804,Green Gram (Moong),Dhenkanal,2017-09-06,4800.0,0.21,31.6,clear
+1805,Green Gram (Moong),Mottagaon,2017-09-06,4800.0,0.11,31.6,clear
+1806,Black Gram (Urd Beans),Dhenkanal,2017-10-06,4575.0,0.29,26.8,clear
+1807,Black Gram (Urd Beans),Mottagaon,2017-10-06,4575.0,0.21,26.8,clear
+1808,Green Gram (Moong),Dhenkanal,2017-10-06,4800.0,0.21,26.8,clear
+1809,Green Gram (Moong),Mottagaon,2017-10-06,4800.0,0.21,26.8,clear
+1810,Black Gram (Urd Beans),Dhenkanal,2017-11-06,4575.0,0.39,27.4,clear
+1811,Black Gram (Urd Beans),Mottagaon,2017-11-06,4575.0,0.31,27.4,clear
+1812,Green Gram (Moong),Dhenkanal,2017-11-06,4800.0,0.18,27.4,clear
+1813,Green Gram (Moong),Mottagaon,2017-11-06,4800.0,0.19,27.4,clear
+1814,Black Gram (Urd Beans),Dhenkanal,2017-12-06,4575.0,0.31,22.2,clear
+1815,Black Gram (Urd Beans),Mottagaon,2017-12-06,4575.0,0.29,22.2,clear
+1816,Green Gram (Moong),Dhenkanal,2017-12-06,4800.0,0.15,22.2,clear
+1817,Green Gram (Moong),Mottagaon,2017-12-06,4800.0,0.18,22.2,clear
+1818,Black Gram (Urd Beans),Dhenkanal,2017-06-13,4575.0,0.28,32.6,clear
+1819,Green Gram (Moong),Dhenkanal,2017-06-13,4800.0,0.13,32.6,clear
+1820,Black Gram (Urd Beans),Dhenkanal,2017-06-14,5500.0,0.31,31.0,clear
+1821,Black Gram (Urd Beans),Mottagaon,2017-06-14,5500.0,0.32,31.0,clear
+1822,Green Gram (Moong),Dhenkanal,2017-06-14,5580.0,0.11,31.0,clear
+1823,Green Gram (Moong),Mottagaon,2017-06-14,5575.0,0.12,31.0,clear
+1824,Black Gram (Urd Beans),Dhenkanal,2017-06-16,5400.0,0.31,31.8,clear
+1825,Black Gram (Urd Beans),Mottagaon,2017-06-16,5400.0,0.32,31.8,clear
+1826,Green Gram (Moong),Dhenkanal,2017-06-16,5575.0,0.22,31.8,clear
+1827,Green Gram (Moong),Mottagaon,2017-06-16,5575.0,0.21,31.8,clear
+1828,Black Gram (Urd Beans),Dhenkanal,2017-06-17,5400.0,0.27,33.4,clear
+1829,Black Gram (Urd Beans),Mottagaon,2017-06-17,5400.0,0.22,33.4,clear
+1830,Green Gram (Moong),Dhenkanal,2017-06-17,5575.0,0.21,33.4,clear
+1831,Green Gram (Moong),Mottagaon,2017-06-17,5575.0,0.22,33.4,clear
+1832,Black Gram (Urd Beans),Dhenkanal,2017-06-18,5400.0,0.21,33.0,clear
+1833,Black Gram (Urd Beans),Mottagaon,2017-06-18,5400.0,0.22,33.0,clear
+1834,Green Gram (Moong),Dhenkanal,2017-06-18,5575.0,0.21,33.0,clear
+1835,Green Gram (Moong),Mottagaon,2017-06-18,5575.0,0.11,33.0,clear
+1836,Black Gram (Urd Beans),Dhenkanal,2017-06-19,5400.0,0.32,34.4,clear
+1837,Black Gram (Urd Beans),Mottagaon,2017-06-19,5400.0,0.22,34.4,clear
+1838,Green Gram (Moong),Dhenkanal,2017-06-19,5575.0,0.16,34.4,clear
+1839,Green Gram (Moong),Mottagaon,2017-06-19,5575.0,0.14,34.4,clear
+1840,Black Gram (Urd Beans),Dhenkanal,2017-06-20,5400.0,0.21,31.2,clear
+1841,Black Gram (Urd Beans),Mottagaon,2017-06-20,5400.0,0.14,31.2,clear
+1842,Green Gram (Moong),Dhenkanal,2017-06-20,5575.0,0.23,31.2,clear
+1843,Green Gram (Moong),Mottagaon,2017-06-20,5575.0,0.21,31.2,clear
+1844,Black Gram (Urd Beans),Dhenkanal,2017-06-21,5400.0,0.22,30.2,clear
+1845,Black Gram (Urd Beans),Mottagaon,2017-06-21,5400.0,0.21,30.2,clear
+1846,Green Gram (Moong),Dhenkanal,2017-06-21,5575.0,0.16,30.2,clear
+1847,Green Gram (Moong),Mottagaon,2017-06-21,5575.0,0.14,30.2,clear
+1848,Black Gram (Urd Beans),Dhenkanal,2017-06-22,5400.0,0.22,28.4,clear
+1849,Black Gram (Urd Beans),Mottagaon,2017-06-22,5400.0,0.2,28.4,clear
+1850,Green Gram (Moong),Dhenkanal,2017-06-22,5575.0,0.13,28.4,clear
+1851,Green Gram (Moong),Mottagaon,2017-06-22,5575.0,0.22,28.4,clear
+1852,Black Gram (Urd Beans),Dhenkanal,2017-06-23,5400.0,0.21,31.6,clear
+1853,Black Gram (Urd Beans),Mottagaon,2017-06-23,5400.0,0.18,31.6,clear
+1854,Green Gram (Moong),Dhenkanal,2017-06-23,5575.0,0.18,31.6,clear
+1855,Green Gram (Moong),Mottagaon,2017-06-23,5575.0,0.16,31.6,clear
+1856,Black Gram (Urd Beans),Dhenkanal,2017-06-24,5400.0,0.21,28.2,clear
+1857,Black Gram (Urd Beans),Mottagaon,2017-06-24,5400.0,0.22,28.2,clear
+1858,Green Gram (Moong),Dhenkanal,2017-06-24,5575.0,0.21,28.2,clear
+1859,Green Gram (Moong),Mottagaon,2017-06-24,5575.0,0.17,28.2,clear
+1860,Black Gram (Urd Beans),Dhenkanal,2017-06-25,5400.0,0.31,30.0,clear
+1861,Black Gram (Urd Beans),Mottagaon,2017-06-25,5400.0,0.22,30.0,clear
+1862,Green Gram (Moong),Dhenkanal,2017-06-25,5575.0,0.21,30.0,clear
+1863,Green Gram (Moong),Mottagaon,2017-06-25,5575.0,0.15,30.0,clear
+1864,Black Gram (Urd Beans),Dhenkanal,2017-06-26,5400.0,0.3,30.0,clear
+1865,Black Gram (Urd Beans),Mottagaon,2017-06-26,5400.0,0.22,30.0,clear
+1866,Green Gram (Moong),Dhenkanal,2017-06-26,5575.0,0.22,30.0,clear
+1867,Green Gram (Moong),Mottagaon,2017-06-26,5575.0,0.22,30.0,clear
+1868,Black Gram (Urd Beans),Dhenkanal,2017-06-27,5400.0,0.25,30.0,clear
+1869,Black Gram (Urd Beans),Mottagaon,2017-06-27,5400.0,0.32,30.0,clear
+1870,Green Gram (Moong),Dhenkanal,2017-06-27,5575.0,0.16,30.0,clear
+1871,Green Gram (Moong),Mottagaon,2017-06-27,5575.0,0.21,30.0,clear
+1872,Black Gram (Urd Beans),Dhenkanal,2017-06-28,5400.0,0.18,29.4,clear
+1873,Black Gram (Urd Beans),Mottagaon,2017-06-28,5400.0,0.21,29.4,clear
+1874,Green Gram (Moong),Mottagaon,2017-06-28,5575.0,0.21,29.4,clear
+1875,Black Gram (Urd Beans),Dhenkanal,2017-06-29,5400.0,0.21,30.4,clear
+1876,Black Gram (Urd Beans),Mottagaon,2017-06-29,5400.0,0.21,30.4,clear
+1877,Green Gram (Moong),Dhenkanal,2017-06-29,5575.0,0.13,30.4,clear
+1878,Green Gram (Moong),Mottagaon,2017-06-29,5575.0,0.21,30.4,clear
+1879,Black Gram (Urd Beans),Dhenkanal,2017-06-30,5400.0,0.24,29.0,clear
+1880,Black Gram (Urd Beans),Mottagaon,2017-06-30,5400.0,0.18,29.0,clear
+1881,Green Gram (Moong),Dhenkanal,2017-06-30,5575.0,0.11,29.0,clear
+1882,Black Gram (Urd Beans),Dhenkanal,2017-01-07,5400.0,0.18,24.6,clear
+1883,Black Gram (Urd Beans),Mottagaon,2017-01-07,5400.0,0.21,24.6,clear
+1884,Green Gram (Moong),Dhenkanal,2017-01-07,5575.0,0.12,24.6,clear
+1885,Green Gram (Moong),Mottagaon,2017-01-07,5575.0,0.11,24.6,clear
+1886,Black Gram (Urd Beans),Dhenkanal,2017-04-07,5400.0,0.21,32.6,clear
+1887,Green Gram (Moong),Dhenkanal,2017-04-07,5575.0,0.18,32.6,clear
+1888,Black Gram (Urd Beans),Dhenkanal,2017-07-07,5400.0,0.22,31.2,clear
+1889,Black Gram (Urd Beans),Mottagaon,2017-07-07,5400.0,0.21,31.2,clear
+1890,Green Gram (Moong),Dhenkanal,2017-07-07,5575.0,0.11,31.2,clear
+1891,Green Gram (Moong),Mottagaon,2017-07-07,5575.0,0.18,31.2,clear
+1892,Black Gram (Urd Beans),Dhenkanal,2017-08-07,5400.0,0.21,30.4,clear
+1893,Black Gram (Urd Beans),Mottagaon,2017-08-07,5400.0,0.12,30.4,clear
+1894,Green Gram (Moong),Dhenkanal,2017-08-07,5575.0,0.2,30.4,clear
+1895,Green Gram (Moong),Mottagaon,2017-08-07,5575.0,0.21,30.4,clear
+1896,Black Gram (Urd Beans),Dhenkanal,2017-09-07,5400.0,0.31,30.4,clear
+1897,Black Gram (Urd Beans),Mottagaon,2017-09-07,5400.0,0.17,30.4,clear
+1898,Green Gram (Moong),Mottagaon,2017-09-07,5575.0,0.13,30.4,clear
+1899,Black Gram (Urd Beans),Dhenkanal,2017-07-13,5400.0,0.36,29.4,clear
+1900,Black Gram (Urd Beans),Mottagaon,2017-07-13,5400.0,0.14,29.4,clear
+1901,Green Gram (Moong),Mottagaon,2017-07-13,5575.0,0.12,29.4,clear
+1902,Black Gram (Urd Beans),Dhenkanal,2017-07-15,5400.0,0.32,29.0,clear
+1903,Black Gram (Urd Beans),Mottagaon,2017-07-15,5400.0,0.21,29.0,clear
+1904,Green Gram (Moong),Dhenkanal,2017-07-15,5575.0,0.13,29.0,clear
+1905,Green Gram (Moong),Mottagaon,2017-07-15,5575.0,0.21,29.0,clear
+1906,Black Gram (Urd Beans),Dhenkanal,2017-07-16,5400.0,0.31,28.2,clear
+1907,Green Gram (Moong),Dhenkanal,2017-07-16,5575.0,0.14,28.2,clear
+1908,Black Gram (Urd Beans),Dhenkanal,2017-07-17,5400.0,0.31,27.4,clear
+1909,Black Gram (Urd Beans),Mottagaon,2017-07-17,5400.0,0.29,27.4,clear
+1910,Green Gram (Moong),Dhenkanal,2017-07-17,5575.0,0.2,27.4,clear
+1911,Green Gram (Moong),Mottagaon,2017-07-17,5575.0,0.18,27.4,clear
+1912,Black Gram (Urd Beans),Dhenkanal,2017-07-18,5400.0,0.23,28.6,clear
+1913,Green Gram (Moong),Dhenkanal,2017-07-18,5575.0,0.22,28.6,clear
+1914,Black Gram (Urd Beans),Dhenkanal,2017-07-19,5400.0,0.29,28.4,clear
+1915,Black Gram (Urd Beans),Mottagaon,2017-07-19,5400.0,0.21,28.4,clear
+1916,Green Gram (Moong),Dhenkanal,2017-07-19,5575.0,0.07,28.4,clear
+1917,Green Gram (Moong),Mottagaon,2017-07-19,5575.0,0.13,28.4,clear
+1918,Black Gram (Urd Beans),Dhenkanal,2017-07-20,5400.0,0.22,27.0,clear
+1919,Black Gram (Urd Beans),Mottagaon,2017-07-20,5400.0,0.2,27.0,clear
+1920,Green Gram (Moong),Dhenkanal,2017-07-20,5575.0,0.18,27.0,clear
+1921,Green Gram (Moong),Mottagaon,2017-07-20,5575.0,0.18,27.0,clear
+1922,Black Gram (Urd Beans),Dhenkanal,2017-07-21,5400.0,0.21,31.0,clear
+1923,Green Gram (Moong),Dhenkanal,2017-07-21,5575.0,0.23,31.0,clear
+1924,Black Gram (Urd Beans),Dhenkanal,2017-07-22,5400.0,0.27,29.0,clear
+1925,Black Gram (Urd Beans),Mottagaon,2017-07-22,5400.0,0.18,29.0,clear
+1926,Green Gram (Moong),Dhenkanal,2017-07-22,5575.0,0.11,29.0,clear
+1927,Green Gram (Moong),Mottagaon,2017-07-22,5575.0,0.14,29.0,clear
+1928,Black Gram (Urd Beans),Dhenkanal,2017-07-23,5400.0,0.22,28.2,clear
+1929,Black Gram (Urd Beans),Mottagaon,2017-07-23,5400.0,0.18,28.2,clear
+1930,Green Gram (Moong),Dhenkanal,2017-07-23,5575.0,0.11,28.2,clear
+1931,Green Gram (Moong),Mottagaon,2017-07-23,5575.0,0.14,28.2,clear
+1932,Black Gram (Urd Beans),Dhenkanal,2017-07-24,5400.0,0.21,27.6,clear
+1933,Black Gram (Urd Beans),Mottagaon,2017-07-24,5400.0,0.16,27.6,clear
+1934,Green Gram (Moong),Dhenkanal,2017-07-24,5575.0,0.12,27.6,clear
+1935,Green Gram (Moong),Mottagaon,2017-07-24,5575.0,0.14,27.6,clear
+1936,Black Gram (Urd Beans),Dhenkanal,2017-07-25,5400.0,0.22,31.0,clear
+1937,Green Gram (Moong),Dhenkanal,2017-07-25,5575.0,0.2,31.0,clear
+1938,Black Gram (Urd Beans),Dhenkanal,2017-07-26,5400.0,0.19,30.0,clear
+1939,Black Gram (Urd Beans),Mottagaon,2017-07-26,5400.0,0.24,30.0,clear
+1940,Green Gram (Moong),Dhenkanal,2017-07-26,5575.0,0.14,30.0,clear
+1941,Black Gram (Urd Beans),Dhenkanal,2017-07-27,5400.0,0.23,29.4,clear
+1942,Black Gram (Urd Beans),Mottagaon,2017-07-27,5400.0,0.21,29.4,clear
+1943,Green Gram (Moong),Dhenkanal,2017-07-27,5575.0,0.14,29.4,clear
+1944,Green Gram (Moong),Mottagaon,2017-07-27,5575.0,0.14,29.4,clear
+1945,Black Gram (Urd Beans),Dhenkanal,2017-07-28,5400.0,0.21,32.0,clear
+1946,Black Gram (Urd Beans),Mottagaon,2017-07-28,5400.0,0.16,32.0,clear
+1947,Green Gram (Moong),Dhenkanal,2017-07-28,5575.0,0.14,32.0,clear
+1948,Green Gram (Moong),Mottagaon,2017-07-28,5575.0,0.12,32.0,clear
+1949,Black Gram (Urd Beans),Dhenkanal,2017-07-29,5400.0,0.21,31.0,clear
+1950,Black Gram (Urd Beans),Mottagaon,2017-07-29,5400.0,0.23,31.0,clear
+1951,Green Gram (Moong),Dhenkanal,2017-07-29,5575.0,0.12,31.0,clear
+1952,Green Gram (Moong),Mottagaon,2017-07-29,5575.0,0.13,31.0,clear
+1953,Black Gram (Urd Beans),Dhenkanal,2017-07-30,5400.0,0.21,31.4,clear
+1954,Black Gram (Urd Beans),Mottagaon,2017-07-30,5400.0,0.2,31.4,clear
+1955,Green Gram (Moong),Dhenkanal,2017-07-30,5575.0,0.16,31.4,clear
+1956,Green Gram (Moong),Mottagaon,2017-07-30,5575.0,0.18,31.4,clear
+1957,Black Gram (Urd Beans),Dhenkanal,2017-07-31,5400.0,0.2,29.6,clear
+1958,Black Gram (Urd Beans),Mottagaon,2017-07-31,5400.0,0.18,29.6,clear
+1959,Green Gram (Moong),Dhenkanal,2017-07-31,5575.0,0.13,29.6,clear
+1960,Green Gram (Moong),Mottagaon,2017-07-31,5575.0,0.11,29.6,clear
+1961,Black Gram (Urd Beans),Dhenkanal,2017-01-08,5400.0,0.14,25.4,clear
+1962,Black Gram (Urd Beans),Mottagaon,2017-01-08,5400.0,0.17,25.4,clear
+1963,Green Gram (Moong),Dhenkanal,2017-01-08,5575.0,0.11,25.4,clear
+1964,Green Gram (Moong),Mottagaon,2017-01-08,5575.0,0.14,25.4,clear
+1965,Black Gram (Urd Beans),Dhenkanal,2017-02-08,5400.0,0.13,28.0,clear
+1966,Black Gram (Urd Beans),Mottagaon,2017-02-08,5400.0,0.12,28.0,clear
+1967,Green Gram (Moong),Dhenkanal,2017-02-08,5575.0,0.19,28.0,clear
+1968,Green Gram (Moong),Mottagaon,2017-02-08,5575.0,0.11,28.0,clear
+1969,Black Gram (Urd Beans),Dhenkanal,2017-03-08,5400.0,0.21,25.0,clear
+1970,Black Gram (Urd Beans),Mottagaon,2017-03-08,5400.0,0.21,25.0,clear
+1971,Green Gram (Moong),Dhenkanal,2017-03-08,5575.0,0.12,25.0,clear
+1972,Green Gram (Moong),Mottagaon,2017-03-08,5575.0,0.13,25.0,clear
+1973,Black Gram (Urd Beans),Dhenkanal,2017-04-08,5400.0,0.18,32.6,clear
+1974,Black Gram (Urd Beans),Mottagaon,2017-04-08,5400.0,0.12,32.6,clear
+1975,Green Gram (Moong),Dhenkanal,2017-04-08,5575.0,0.14,32.6,clear
+1976,Green Gram (Moong),Mottagaon,2017-04-08,5575.0,0.13,32.6,clear
+1977,Black Gram (Urd Beans),Dhenkanal,2017-09-08,5400.0,0.21,31.0,clear
+1978,Black Gram (Urd Beans),Mottagaon,2017-09-08,5400.0,0.21,31.0,clear
+1979,Green Gram (Moong),Dhenkanal,2017-09-08,5575.0,0.11,31.0,clear
+1980,Green Gram (Moong),Mottagaon,2017-09-08,5575.0,0.11,31.0,clear
+1981,Black Gram (Urd Beans),Dhenkanal,2017-10-08,5400.0,0.21,28.0,clear
+1982,Black Gram (Urd Beans),Mottagaon,2017-10-08,5400.0,0.15,28.0,clear
+1983,Green Gram (Moong),Dhenkanal,2017-10-08,5575.0,0.11,28.0,clear
+1984,Green Gram (Moong),Mottagaon,2017-10-08,5575.0,0.12,28.0,clear
+1985,Black Gram (Urd Beans),Dhenkanal,2017-11-08,5400.0,0.16,27.0,clear
+1986,Black Gram (Urd Beans),Mottagaon,2017-11-08,5400.0,0.16,27.0,clear
+1987,Green Gram (Moong),Dhenkanal,2017-11-08,5575.0,0.05,27.0,clear
+1988,Green Gram (Moong),Mottagaon,2017-11-08,5575.0,0.14,27.0,clear
+1989,Black Gram (Urd Beans),Dhenkanal,2017-12-08,5400.0,0.18,20.4,clear
+1990,Black Gram (Urd Beans),Mottagaon,2017-12-08,5400.0,0.15,20.4,clear
+1991,Green Gram (Moong),Dhenkanal,2017-12-08,5575.0,0.1,20.4,clear
+1992,Green Gram (Moong),Mottagaon,2017-12-08,5575.0,0.12,20.4,clear
+1993,Black Gram (Urd Beans),Dhenkanal,2017-08-13,5400.0,0.22,31.0,clear
+1994,Black Gram (Urd Beans),Mottagaon,2017-08-13,5400.0,0.14,31.0,clear
+1995,Green Gram (Moong),Dhenkanal,2017-08-13,5575.0,0.11,31.0,clear
+1996,Green Gram (Moong),Mottagaon,2017-08-13,5575.0,0.14,31.0,clear
+1997,Black Gram (Urd Beans),Dhenkanal,2017-08-14,5400.0,0.17,31.0,clear
+1998,Black Gram (Urd Beans),Mottagaon,2017-08-14,5400.0,0.13,31.0,clear
+1999,Green Gram (Moong),Dhenkanal,2017-08-14,5575.0,0.13,31.0,clear
+2000,Green Gram (Moong),Mottagaon,2017-08-14,5575.0,0.11,31.0,clear
+2001,Black Gram (Urd Beans),Dhenkanal,2017-08-15,5400.0,0.17,29.6,clear
+2002,Black Gram (Urd Beans),Mottagaon,2017-08-15,5400.0,0.21,29.6,clear
+2003,Green Gram (Moong),Dhenkanal,2017-08-15,5575.0,0.14,29.6,clear
+2004,Green Gram (Moong),Mottagaon,2017-08-15,5575.0,0.11,29.6,clear
+2005,Black Gram (Urd Beans),Dhenkanal,2017-08-16,5400.0,0.18,29.2,clear
+2006,Black Gram (Urd Beans),Mottagaon,2017-08-16,5400.0,0.15,29.2,clear
+2007,Green Gram (Moong),Dhenkanal,2017-08-16,5575.0,0.13,29.2,clear
+2008,Green Gram (Moong),Mottagaon,2017-08-16,5575.0,0.13,29.2,clear
+2009,Black Gram (Urd Beans),Dhenkanal,2017-08-17,5400.0,0.21,28.4,clear
+2010,Black Gram (Urd Beans),Mottagaon,2017-08-17,5400.0,0.15,28.4,clear
+2011,Green Gram (Moong),Dhenkanal,2017-08-17,5575.0,0.14,28.4,clear
+2012,Green Gram (Moong),Mottagaon,2017-08-17,5575.0,0.11,28.4,clear
+2013,Black Gram (Urd Beans),Dhenkanal,2017-08-18,5400.0,0.21,29.4,clear
+2014,Black Gram (Urd Beans),Mottagaon,2017-08-18,5400.0,0.13,29.4,clear
+2015,Green Gram (Moong),Dhenkanal,2017-08-18,5575.0,0.13,29.4,clear
+2016,Green Gram (Moong),Mottagaon,2017-08-18,5575.0,0.08,29.4,clear
+2017,Black Gram (Urd Beans),Dhenkanal,2017-08-19,5400.0,0.21,29.4,clear
+2018,Black Gram (Urd Beans),Mottagaon,2017-08-19,5400.0,0.16,29.4,clear
+2019,Green Gram (Moong),Dhenkanal,2017-08-19,5575.0,0.11,29.4,clear
+2020,Green Gram (Moong),Mottagaon,2017-08-19,5575.0,0.13,29.4,clear
+2021,Black Gram (Urd Beans),Dhenkanal,2017-08-20,5400.0,0.23,30.0,clear
+2022,Black Gram (Urd Beans),Mottagaon,2017-08-20,5400.0,0.13,30.0,clear
+2023,Green Gram (Moong),Dhenkanal,2017-08-20,5575.0,0.13,30.0,clear
+2024,Green Gram (Moong),Mottagaon,2017-08-20,5575.0,0.14,30.0,clear
+2025,Black Gram (Urd Beans),Dhenkanal,2017-08-21,5400.0,0.22,31.0,clear
+2026,Black Gram (Urd Beans),Mottagaon,2017-08-21,5400.0,0.15,31.0,clear
+2027,Green Gram (Moong),Dhenkanal,2017-08-21,5575.0,0.11,31.0,clear
+2028,Green Gram (Moong),Mottagaon,2017-08-21,5575.0,0.11,31.0,clear
+2029,Black Gram (Urd Beans),Dhenkanal,2017-08-22,5400.0,0.23,30.0,clear
+2030,Green Gram (Moong),Dhenkanal,2017-08-22,5575.0,0.12,30.0,clear
+2031,Black Gram (Urd Beans),Dhenkanal,2017-08-23,5400.0,0.2,29.4,clear
+2032,Black Gram (Urd Beans),Mottagaon,2017-08-23,5400.0,0.17,29.4,clear
+2033,Green Gram (Moong),Dhenkanal,2017-08-23,5575.0,0.13,29.4,clear
+2034,Green Gram (Moong),Mottagaon,2017-08-23,5575.0,0.11,29.4,clear
+2035,Black Gram (Urd Beans),Dhenkanal,2017-08-24,5400.0,0.21,29.6,clear
+2036,Green Gram (Moong),Dhenkanal,2017-08-24,5575.0,0.1,29.6,clear
+2037,Black Gram (Urd Beans),Dhenkanal,2017-08-25,5400.0,0.19,29.4,clear
+2038,Black Gram (Urd Beans),Mottagaon,2017-08-25,5400.0,0.21,29.4,clear
+2039,Green Gram (Moong),Dhenkanal,2017-08-25,5575.0,0.11,29.4,clear
+2040,Green Gram (Moong),Mottagaon,2017-08-25,5575.0,0.07,29.4,clear
+2041,Black Gram (Urd Beans),Dhenkanal,2017-08-26,5400.0,0.24,29.4,clear
+2042,Black Gram (Urd Beans),Mottagaon,2017-08-26,5400.0,0.11,29.4,clear
+2043,Green Gram (Moong),Dhenkanal,2017-08-26,5575.0,0.11,29.4,clear
+2044,Green Gram (Moong),Mottagaon,2017-08-26,5575.0,0.11,29.4,clear
+2045,Black Gram (Urd Beans),Dhenkanal,2017-08-27,5400.0,0.24,29.2,clear
+2046,Black Gram (Urd Beans),Mottagaon,2017-08-27,5400.0,0.14,29.2,clear
+2047,Green Gram (Moong),Mottagaon,2017-08-27,5575.0,0.13,29.2,clear
+2048,Black Gram (Urd Beans),Dhenkanal,2017-08-28,5400.0,0.22,29.0,clear
+2049,Black Gram (Urd Beans),Mottagaon,2017-08-28,5400.0,0.18,29.0,clear
+2050,Green Gram (Moong),Dhenkanal,2017-08-28,5575.0,0.11,29.0,clear
+2051,Green Gram (Moong),Mottagaon,2017-08-28,5575.0,0.11,29.0,clear
+2052,Black Gram (Urd Beans),Dhenkanal,2017-08-29,5400.0,0.18,28.0,clear
+2053,Black Gram (Urd Beans),Mottagaon,2017-08-29,5400.0,0.16,28.0,clear
+2054,Green Gram (Moong),Dhenkanal,2017-08-29,5575.0,0.13,28.0,clear
+2055,Green Gram (Moong),Mottagaon,2017-08-29,5575.0,0.13,28.0,clear
+2056,Black Gram (Urd Beans),Dhenkanal,2017-08-30,5400.0,0.21,30.2,clear
+2057,Black Gram (Urd Beans),Mottagaon,2017-08-30,5400.0,0.14,30.2,clear
+2058,Green Gram (Moong),Dhenkanal,2017-08-30,5575.0,0.11,30.2,clear
+2059,Green Gram (Moong),Mottagaon,2017-08-30,5575.0,0.11,30.2,clear
+2060,Black Gram (Urd Beans),Dhenkanal,2017-08-31,5400.0,0.18,29.2,clear
+2061,Black Gram (Urd Beans),Mottagaon,2017-08-31,5400.0,0.16,29.2,clear
+2062,Green Gram (Moong),Dhenkanal,2017-08-31,5575.0,0.11,29.2,clear
+2063,Black Gram (Urd Beans),Dhenkanal,2017-01-09,5400.0,0.21,26.0,clear
+2064,Black Gram (Urd Beans),Mottagaon,2017-01-09,5400.0,0.2,26.0,clear
+2065,Green Gram (Moong),Dhenkanal,2017-01-09,5575.0,0.15,26.0,clear
+2066,Green Gram (Moong),Mottagaon,2017-01-09,5575.0,0.08,26.0,clear
+2067,Black Gram (Urd Beans),Dhenkanal,2017-02-09,5400.0,0.18,28.2,clear
+2068,Black Gram (Urd Beans),Mottagaon,2017-02-09,5400.0,0.21,28.2,clear
+2069,Green Gram (Moong),Dhenkanal,2017-02-09,5575.0,0.14,28.2,clear
+2070,Green Gram (Moong),Mottagaon,2017-02-09,5575.0,0.11,28.2,clear
+2071,Black Gram (Urd Beans),Dhenkanal,2017-03-09,5400.0,0.18,29.2,clear
+2072,Black Gram (Urd Beans),Mottagaon,2017-03-09,5400.0,0.18,29.2,clear
+2073,Green Gram (Moong),Dhenkanal,2017-03-09,5575.0,0.11,29.2,clear
+2074,Green Gram (Moong),Mottagaon,2017-03-09,5575.0,0.09,29.2,clear
+2075,Black Gram (Urd Beans),Dhenkanal,2017-07-09,5400.0,0.14,29.0,clear
+2076,Black Gram (Urd Beans),Mottagaon,2017-07-09,5400.0,0.23,29.0,clear
+2077,Green Gram (Moong),Dhenkanal,2017-07-09,5575.0,0.13,29.0,clear
+2078,Green Gram (Moong),Mottagaon,2017-07-09,5575.0,0.11,29.0,clear
+2079,Black Gram (Urd Beans),Dhenkanal,2017-08-09,5400.0,0.2,31.0,clear
+2080,Black Gram (Urd Beans),Mottagaon,2017-08-09,5400.0,0.21,31.0,clear
+2081,Green Gram (Moong),Dhenkanal,2017-08-09,5575.0,0.11,31.0,clear
+2082,Green Gram (Moong),Mottagaon,2017-08-09,5575.0,0.11,31.0,clear
+2083,Black Gram (Urd Beans),Dhenkanal,2017-09-13,5400.0,0.22,28.6,clear
+2084,Black Gram (Urd Beans),Mottagaon,2017-09-13,5400.0,0.18,28.6,clear
+2085,Green Gram (Moong),Dhenkanal,2017-09-13,5575.0,0.11,28.6,clear
+2086,Green Gram (Moong),Mottagaon,2017-09-13,5575.0,0.11,28.6,clear
+2087,Black Gram (Urd Beans),Dhenkanal,2017-09-14,5400.0,0.21,29.0,clear
+2088,Black Gram (Urd Beans),Mottagaon,2017-09-14,5400.0,0.21,29.0,clear
+2089,Green Gram (Moong),Dhenkanal,2017-09-14,5575.0,0.11,29.0,clear
+2090,Green Gram (Moong),Mottagaon,2017-09-14,5575.0,0.08,29.0,clear
+2091,Black Gram (Urd Beans),Dhenkanal,2017-09-15,5400.0,0.21,29.0,clear
+2092,Black Gram (Urd Beans),Mottagaon,2017-09-15,5400.0,0.17,29.0,clear
+2093,Green Gram (Moong),Dhenkanal,2017-09-15,5575.0,0.12,29.0,clear
+2094,Green Gram (Moong),Mottagaon,2017-09-15,5575.0,0.11,29.0,clear
+2095,Black Gram (Urd Beans),Dhenkanal,2017-09-16,5400.0,0.25,30.6,clear
+2096,Black Gram (Urd Beans),Mottagaon,2017-09-16,5400.0,0.21,30.6,clear
+2097,Green Gram (Moong),Dhenkanal,2017-09-16,5575.0,0.11,30.6,clear
+2098,Green Gram (Moong),Mottagaon,2017-09-16,5575.0,0.14,30.6,clear
+2099,Black Gram (Urd Beans),Dhenkanal,2017-09-17,5400.0,0.22,31.4,clear
+2100,Black Gram (Urd Beans),Mottagaon,2017-09-17,5400.0,0.23,31.4,clear
+2101,Green Gram (Moong),Dhenkanal,2017-09-17,5575.0,0.13,31.4,clear
+2102,Green Gram (Moong),Mottagaon,2017-09-17,5575.0,0.14,31.4,clear
+2103,Black Gram (Urd Beans),Dhenkanal,2017-09-18,5400.0,0.26,28.6,clear
+2104,Black Gram (Urd Beans),Mottagaon,2017-09-18,5400.0,0.18,28.6,clear
+2105,Green Gram (Moong),Dhenkanal,2017-09-18,5575.0,0.13,28.6,clear
+2106,Green Gram (Moong),Mottagaon,2017-09-18,5575.0,0.13,28.6,clear
+2107,Black Gram (Urd Beans),Dhenkanal,2017-09-19,5400.0,0.22,27.2,clear
+2108,Black Gram (Urd Beans),Mottagaon,2017-09-19,5400.0,0.17,27.2,clear
+2109,Green Gram (Moong),Dhenkanal,2017-09-19,5575.0,0.11,27.2,clear
+2110,Green Gram (Moong),Mottagaon,2017-09-19,5575.0,0.12,27.2,clear
+2111,Black Gram (Urd Beans),Dhenkanal,2017-09-20,5400.0,0.18,29.4,clear
+2112,Black Gram (Urd Beans),Mottagaon,2017-09-20,5400.0,0.16,29.4,clear
+2113,Green Gram (Moong),Dhenkanal,2017-09-20,5575.0,0.11,29.4,clear
+2114,Green Gram (Moong),Mottagaon,2017-09-20,5575.0,0.11,29.4,clear
+2115,Black Gram (Urd Beans),Dhenkanal,2017-09-21,5400.0,0.26,29.6,clear
+2116,Black Gram (Urd Beans),Mottagaon,2017-09-21,5400.0,0.16,29.6,clear
+2117,Green Gram (Moong),Dhenkanal,2017-09-21,5575.0,0.13,29.6,clear
+2118,Green Gram (Moong),Mottagaon,2017-09-21,5575.0,0.13,29.6,clear
+2119,Black Gram (Urd Beans),Dhenkanal,2017-09-22,5400.0,0.27,31.0,clear
+2120,Black Gram (Urd Beans),Mottagaon,2017-09-22,5400.0,0.13,31.0,clear
+2121,Green Gram (Moong),Dhenkanal,2017-09-22,5575.0,0.11,31.0,clear
+2122,Green Gram (Moong),Mottagaon,2017-09-22,5575.0,0.11,31.0,clear
+2123,Black Gram (Urd Beans),Dhenkanal,2017-09-23,5400.0,0.32,32.0,clear
+2124,Black Gram (Urd Beans),Mottagaon,2017-09-23,5400.0,0.14,32.0,clear
+2125,Green Gram (Moong),Dhenkanal,2017-09-23,5575.0,0.13,32.0,clear
+2126,Green Gram (Moong),Mottagaon,2017-09-23,5575.0,0.09,32.0,clear
+2127,Black Gram (Urd Beans),Dhenkanal,2017-09-24,5400.0,0.32,31.8,clear
+2128,Black Gram (Urd Beans),Mottagaon,2017-09-24,5400.0,0.14,31.8,clear
+2129,Green Gram (Moong),Dhenkanal,2017-09-24,5575.0,0.11,31.8,clear
+2130,Green Gram (Moong),Mottagaon,2017-09-24,5575.0,0.11,31.8,clear
+2131,Black Gram (Urd Beans),Dhenkanal,2017-09-25,5400.0,0.27,31.0,clear
+2132,Black Gram (Urd Beans),Mottagaon,2017-09-25,5400.0,0.15,31.0,clear
+2133,Green Gram (Moong),Dhenkanal,2017-09-25,5575.0,0.14,31.0,clear
+2134,Green Gram (Moong),Mottagaon,2017-09-25,5575.0,0.11,31.0,clear
+2135,Black Gram (Urd Beans),Dhenkanal,2017-09-26,5400.0,0.18,31.0,clear
+2136,Black Gram (Urd Beans),Mottagaon,2017-09-26,5400.0,0.13,31.0,clear
+2137,Green Gram (Moong),Dhenkanal,2017-09-26,5575.0,0.12,31.0,clear
+2138,Green Gram (Moong),Mottagaon,2017-09-26,5575.0,0.11,31.0,clear
+2139,Black Gram (Urd Beans),Dhenkanal,2017-09-27,5400.0,0.21,30.0,clear
+2140,Black Gram (Urd Beans),Mottagaon,2017-09-27,5400.0,0.13,30.0,clear
+2141,Green Gram (Moong),Dhenkanal,2017-09-27,5575.0,0.11,30.0,clear
+2142,Black Gram (Urd Beans),Dhenkanal,2017-09-28,5400.0,0.18,28.4,clear
+2143,Black Gram (Urd Beans),Mottagaon,2017-09-28,5400.0,0.21,28.4,clear
+2144,Green Gram (Moong),Dhenkanal,2017-09-28,5575.0,0.13,28.4,clear
+2145,Green Gram (Moong),Mottagaon,2017-09-28,5575.0,0.13,28.4,clear
+2146,Black Gram (Urd Beans),Dhenkanal,2017-09-29,5400.0,0.21,28.4,clear
+2147,Black Gram (Urd Beans),Mottagaon,2017-09-29,5400.0,0.21,28.4,clear
+2148,Green Gram (Moong),Dhenkanal,2017-09-29,5575.0,0.13,28.4,clear
+2149,Green Gram (Moong),Mottagaon,2017-09-29,5575.0,0.12,28.4,clear
+2150,Black Gram (Urd Beans),Dhenkanal,2017-09-30,5400.0,0.21,28.2,clear
+2151,Black Gram (Urd Beans),Mottagaon,2017-09-30,5400.0,0.16,28.2,clear
+2152,Green Gram (Moong),Mottagaon,2017-09-30,5575.0,0.14,28.2,clear
+2153,Black Gram (Urd Beans),Dhenkanal,2017-02-10,5400.0,0.14,31.2,clear
+2154,Black Gram (Urd Beans),Mottagaon,2017-02-10,5400.0,0.19,31.2,clear
+2155,Green Gram (Moong),Dhenkanal,2017-02-10,5575.0,0.11,31.2,clear
+2156,Green Gram (Moong),Mottagaon,2017-02-10,5575.0,0.14,31.2,clear
+2157,Black Gram (Urd Beans),Dhenkanal,2017-03-10,5400.0,0.13,28.6,clear
+2158,Black Gram (Urd Beans),Mottagaon,2017-03-10,5400.0,0.2,28.6,clear
+2159,Green Gram (Moong),Dhenkanal,2017-03-10,5575.0,0.13,28.6,clear
+2160,Green Gram (Moong),Mottagaon,2017-03-10,5575.0,0.11,28.6,clear
+2161,Black Gram (Urd Beans),Dhenkanal,2017-04-10,5400.0,0.26,33.4,clear
+2162,Black Gram (Urd Beans),Mottagaon,2017-04-10,5400.0,0.12,33.4,clear
+2163,Green Gram (Moong),Dhenkanal,2017-04-10,5575.0,0.11,33.4,clear
+2164,Green Gram (Moong),Mottagaon,2017-04-10,5575.0,0.12,33.4,clear
+2165,Black Gram (Urd Beans),Dhenkanal,2017-10-10,5400.0,0.22,28.8,clear
+2166,Black Gram (Urd Beans),Mottagaon,2017-10-10,5400.0,0.21,28.8,clear
+2167,Green Gram (Moong),Dhenkanal,2017-10-10,5575.0,0.13,28.8,clear
+2168,Green Gram (Moong),Mottagaon,2017-10-10,5575.0,0.12,28.8,clear
+2169,Black Gram (Urd Beans),Dhenkanal,2017-11-10,5400.0,0.21,26.0,clear
+2170,Black Gram (Urd Beans),Mottagaon,2017-11-10,5400.0,0.21,26.0,clear
+2171,Green Gram (Moong),Dhenkanal,2017-11-10,5575.0,0.11,26.0,clear
+2172,Green Gram (Moong),Mottagaon,2017-11-10,5575.0,0.11,26.0,clear
+2173,Black Gram (Urd Beans),Dhenkanal,2017-12-10,5400.0,0.21,27.0,clear
+2174,Black Gram (Urd Beans),Mottagaon,2017-12-10,5400.0,0.16,27.0,clear
+2175,Green Gram (Moong),Dhenkanal,2017-12-10,5575.0,0.11,27.0,clear
+2176,Green Gram (Moong),Mottagaon,2017-12-10,5575.0,0.12,27.0,clear
+2177,Black Gram (Urd Beans),Dhenkanal,2017-10-14,5400.0,0.18,30.0,clear
+2178,Black Gram (Urd Beans),Mottagaon,2017-10-14,5400.0,0.18,30.0,clear
+2179,Green Gram (Moong),Dhenkanal,2017-10-14,5575.0,0.11,30.0,clear
+2180,Green Gram (Moong),Mottagaon,2017-10-14,5575.0,0.13,30.0,clear
+2181,Black Gram (Urd Beans),Dhenkanal,2017-10-15,5400.0,0.22,30.4,clear
+2182,Black Gram (Urd Beans),Mottagaon,2017-10-15,5400.0,0.13,30.4,clear
+2183,Green Gram (Moong),Dhenkanal,2017-10-15,5575.0,0.11,30.4,clear
+2184,Green Gram (Moong),Mottagaon,2017-10-15,5575.0,0.13,30.4,clear
+2185,Black Gram (Urd Beans),Dhenkanal,2017-10-16,5400.0,0.18,30.4,clear
+2186,Black Gram (Urd Beans),Mottagaon,2017-10-16,5400.0,0.12,30.4,clear
+2187,Green Gram (Moong),Dhenkanal,2017-10-16,5575.0,0.13,30.4,clear
+2188,Green Gram (Moong),Mottagaon,2017-10-16,5575.0,0.11,30.4,clear
+2189,Black Gram (Urd Beans),Dhenkanal,2017-10-17,5400.0,0.21,29.4,clear
+2190,Black Gram (Urd Beans),Mottagaon,2017-10-17,5400.0,0.16,29.4,clear
+2191,Green Gram (Moong),Dhenkanal,2017-10-17,5575.0,0.11,29.4,clear
+2192,Green Gram (Moong),Mottagaon,2017-10-17,5575.0,0.08,29.4,clear
+2193,Black Gram (Urd Beans),Dhenkanal,2017-10-18,5400.0,0.18,28.2,clear
+2194,Black Gram (Urd Beans),Mottagaon,2017-10-18,5400.0,0.16,28.2,clear
+2195,Green Gram (Moong),Dhenkanal,2017-10-18,5575.0,0.08,28.2,clear
+2196,Green Gram (Moong),Mottagaon,2017-10-18,5575.0,0.1,28.2,clear
+2197,Black Gram (Urd Beans),Dhenkanal,2017-10-19,5400.0,0.21,25.6,clear
+2198,Black Gram (Urd Beans),Mottagaon,2017-10-19,5400.0,0.17,25.6,clear
+2199,Green Gram (Moong),Dhenkanal,2017-10-19,5575.0,0.08,25.6,clear
+2200,Green Gram (Moong),Mottagaon,2017-10-19,5575.0,0.09,25.6,clear
+2201,Black Gram (Urd Beans),Dhenkanal,2017-10-20,5400.0,0.21,25.4,clear
+2202,Black Gram (Urd Beans),Mottagaon,2017-10-20,5400.0,0.18,25.4,clear
+2203,Green Gram (Moong),Dhenkanal,2017-10-20,5575.0,0.11,25.4,clear
+2204,Green Gram (Moong),Mottagaon,2017-10-20,5575.0,0.07,25.4,clear
+2205,Black Gram (Urd Beans),Dhenkanal,2017-10-21,5400.0,0.16,29.6,clear
+2206,Black Gram (Urd Beans),Mottagaon,2017-10-21,5400.0,0.18,29.6,clear
+2207,Green Gram (Moong),Dhenkanal,2017-10-21,5575.0,0.11,29.6,clear
+2208,Green Gram (Moong),Mottagaon,2017-10-21,5575.0,0.11,29.6,clear
+2209,Black Gram (Urd Beans),Dhenkanal,2017-10-22,5400.0,0.16,30.4,clear
+2210,Black Gram (Urd Beans),Mottagaon,2017-10-22,5400.0,0.21,30.4,clear
+2211,Green Gram (Moong),Dhenkanal,2017-10-22,5575.0,0.13,30.4,clear
+2212,Green Gram (Moong),Mottagaon,2017-10-22,5575.0,0.14,30.4,clear
+2213,Black Gram (Urd Beans),Dhenkanal,2017-10-23,5400.0,0.21,30.8,clear
+2214,Black Gram (Urd Beans),Mottagaon,2017-10-23,5400.0,0.21,30.8,clear
+2215,Green Gram (Moong),Dhenkanal,2017-10-23,5575.0,0.12,30.8,clear
+2216,Green Gram (Moong),Mottagaon,2017-10-23,5575.0,0.12,30.8,clear
+2217,Black Gram (Urd Beans),Dhenkanal,2017-10-24,5400.0,0.15,30.6,clear
+2218,Black Gram (Urd Beans),Mottagaon,2017-10-24,5400.0,0.21,30.6,clear
+2219,Green Gram (Moong),Dhenkanal,2017-10-24,5575.0,0.11,30.6,clear
+2220,Green Gram (Moong),Mottagaon,2017-10-24,5575.0,0.11,30.6,clear
+2221,Black Gram (Urd Beans),Dhenkanal,2017-10-25,5400.0,0.11,29.0,clear
+2222,Black Gram (Urd Beans),Mottagaon,2017-10-25,5400.0,0.2,29.0,clear
+2223,Green Gram (Moong),Dhenkanal,2017-10-25,5575.0,0.07,29.0,clear
+2224,Green Gram (Moong),Mottagaon,2017-10-25,5575.0,0.14,29.0,clear
+2225,Black Gram (Urd Beans),Dhenkanal,2017-10-26,5400.0,0.12,29.0,clear
+2226,Black Gram (Urd Beans),Mottagaon,2017-10-26,5400.0,0.16,29.0,clear
+2227,Green Gram (Moong),Dhenkanal,2017-10-26,5575.0,0.16,29.0,clear
+2228,Green Gram (Moong),Mottagaon,2017-10-26,5575.0,0.11,29.0,clear
+2229,Black Gram (Urd Beans),Dhenkanal,2017-10-27,5400.0,0.21,28.4,clear
+2230,Black Gram (Urd Beans),Mottagaon,2017-10-27,5400.0,0.16,28.4,clear
+2231,Green Gram (Moong),Dhenkanal,2017-10-27,5575.0,0.13,28.4,clear
+2232,Green Gram (Moong),Mottagaon,2017-10-27,5575.0,0.07,28.4,clear
+2233,Black Gram (Urd Beans),Dhenkanal,2017-10-28,5400.0,0.21,27.8,clear
+2234,Black Gram (Urd Beans),Mottagaon,2017-10-28,5400.0,0.14,27.8,clear
+2235,Green Gram (Moong),Dhenkanal,2017-10-28,5575.0,0.11,27.8,clear
+2236,Green Gram (Moong),Mottagaon,2017-10-28,5575.0,0.1,27.8,clear
+2237,Black Gram (Urd Beans),Dhenkanal,2017-10-29,5400.0,0.12,27.1,clear
+2238,Black Gram (Urd Beans),Mottagaon,2017-10-29,5400.0,0.14,27.1,clear
+2239,Green Gram (Moong),Dhenkanal,2017-10-29,5575.0,0.11,27.1,clear
+2240,Green Gram (Moong),Mottagaon,2017-10-29,5575.0,0.11,27.1,clear
+2241,Black Gram (Urd Beans),Dhenkanal,2017-10-30,5400.0,0.16,27.0,clear
+2242,Black Gram (Urd Beans),Mottagaon,2017-10-30,5400.0,0.11,27.0,clear
+2243,Green Gram (Moong),Dhenkanal,2017-10-30,5575.0,0.11,27.0,clear
+2244,Green Gram (Moong),Mottagaon,2017-10-30,5575.0,0.11,27.0,clear
+2245,Black Gram (Urd Beans),Dhenkanal,2017-10-31,5400.0,0.16,27.0,clear
+2246,Black Gram (Urd Beans),Mottagaon,2017-10-31,5400.0,0.11,27.0,clear
+2247,Green Gram (Moong),Dhenkanal,2017-10-31,5575.0,0.11,27.0,clear
+2248,Green Gram (Moong),Mottagaon,2017-10-31,5575.0,0.11,27.0,clear
+2249,Black Gram (Urd Beans),Mottagaon,2017-01-25,4575.0,0.36,25.0,clear
+2250,Green Gram (Moong),Mottagaon,2017-01-25,4800.0,0.31,25.0,clear
+2251,Black Gram (Urd Beans),Mottagaon,2017-01-26,4575.0,0.46,26.2,clear
+2252,Green Gram (Moong),Mottagaon,2017-01-26,4800.0,0.23,26.2,clear
+2253,Black Gram (Urd Beans),Mottagaon,2017-10-02,4575.0,0.42,29.0,clear
+2254,Green Gram (Moong),Mottagaon,2017-10-02,4800.0,0.31,29.0,clear
+2255,Black Gram (Urd Beans),Mottagaon,2017-03-19,4575.0,0.42,29.6,clear
+2256,Green Gram (Moong),Mottagaon,2017-03-19,4800.0,0.33,29.6,clear
+2257,Black Gram (Urd Beans),Mottagaon,2017-03-20,4575.0,0.58,29.0,clear
+2258,Green Gram (Moong),Mottagaon,2017-03-20,4800.0,0.32,29.0,clear
+2259,Black Gram (Urd Beans),Mottagaon,2017-05-21,4575.0,0.22,35.6,clear
+2260,Green Gram (Moong),Mottagaon,2017-05-21,4800.0,0.21,35.6,clear
+2261,Black Gram (Urd Beans),Mottagaon,2017-05-23,4575.0,0.31,34.6,clear
+2262,Black Gram (Urd Beans),Mottagaon,2017-02-07,5400.0,0.22,29.4,clear
+2263,Green Gram (Moong),Mottagaon,2017-02-07,5575.0,0.12,29.4,clear
+2264,Black Gram (Urd Beans),Mottagaon,2017-03-07,5400.0,0.18,27.2,clear
+2265,Green Gram (Moong),Mottagaon,2017-03-07,5575.0,0.18,27.2,clear
+2266,Black Gram (Urd Beans),Mottagaon,2017-10-07,5400.0,0.22,29.8,clear
+2267,Green Gram (Moong),Mottagaon,2017-10-07,5575.0,0.16,29.8,clear
+2268,Black Gram (Urd Beans),Mottagaon,2017-11-07,5400.0,0.18,27.0,clear
+2269,Green Gram (Moong),Mottagaon,2017-11-07,5575.0,0.14,27.0,clear
+2270,Black Gram (Urd Beans),Mottagaon,2017-12-07,5400.0,0.14,22.8,clear
+2271,Green Gram (Moong),Mottagaon,2017-12-07,5575.0,0.12,22.8,clear
+2272,Black Gram (Urd Beans),Mottagaon,2017-05-08,5400.0,0.21,33.0,clear
+2273,Black Gram (Urd Beans),Mottagaon,2017-04-09,5400.0,0.17,32.0,clear
+2274,Green Gram (Moong),Mottagaon,2017-04-09,5575.0,0.15,32.0,clear
+2275,Black Gram (Urd Beans),Mottagaon,2017-01-10,5400.0,0.16,25.4,clear
+2276,Green Gram (Moong),Mottagaon,2017-01-10,5575.0,0.13,25.4,clear
+2277,Green Gram (Moong),Mottagaon,2017-01-24,4800.0,0.31,26.6,clear

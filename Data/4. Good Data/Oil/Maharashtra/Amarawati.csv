@@ -1,0 +1,2655 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Soyabean,Achalpur,2015-12-10,3645.0,49.0,29.8,clear
+1,Soyabean,Morshi,2015-12-10,3419.0,41.0,29.8,clear
+2,Soyabean,Achalpur,2015-12-12,3475.0,25.0,30.6,clear
+3,Soyabean,Amarawati,2015-12-12,3000.0,330.0,30.6,clear
+4,Soyabean,Chandur Railway,2015-12-12,3450.0,12.0,30.6,clear
+5,Soyabean,Dhamngaon-Railway,2015-12-12,3400.0,50.0,30.6,clear
+6,Soyabean,Morshi,2015-12-12,3129.0,35.0,30.6,clear
+7,Soyabean,Nanggaon,2015-12-12,3295.0,85.0,30.6,clear
+8,Soyabean,Achalpur,2015-12-14,3485.0,98.0,30.8,clear
+9,Soyabean,Amarawati,2015-12-14,3575.0,400.0,30.8,clear
+10,Soyabean,Chandur Railway,2015-12-14,3500.0,27.0,30.8,clear
+11,Soyabean,Morshi,2015-12-14,3164.0,15.0,30.8,clear
+12,Soyabean,Nanggaon,2015-12-14,3307.0,107.0,30.8,clear
+13,Soyabean,Achalpur,2015-12-15,3550.0,89.0,28.6,clear
+14,Soyabean,Chandur Railway,2015-12-15,3460.0,35.0,28.6,clear
+15,Soyabean,Daryapur,2015-12-15,3375.0,59.0,28.6,clear
+16,Soyabean,Dhamngaon-Railway,2015-12-15,3450.0,120.0,28.6,clear
+17,Soyabean,Nanggaon,2015-12-15,3321.0,74.0,28.6,clear
+18,Soyabean,Achalpur,2015-12-17,3350.0,55.0,30.6,clear
+19,Soyabean,Amarawati,2015-12-17,3100.0,338.0,30.6,clear
+20,Soyabean,Dhamngaon-Railway,2015-12-17,3400.0,70.0,30.6,clear
+21,Soyabean,Nanggaon,2015-12-17,3285.0,68.0,30.6,clear
+22,Soyabean,Varud(Rajura Bazar),2015-12-17,3196.0,4.0,30.6,clear
+23,Soyabean,Achalpur,2015-12-18,3425.0,4.0,27.6,clear
+24,Soyabean,Anajngaon,2015-12-18,3300.0,21.0,27.6,clear
+25,Soyabean,Chandur Railway,2015-12-18,3580.0,17.0,27.6,clear
+26,Soyabean,Daryapur,2015-12-18,3320.0,33.0,27.6,clear
+27,Soyabean,Dhamngaon-Railway,2015-12-18,3450.0,100.0,27.6,clear
+28,Soyabean,Morshi,2015-12-18,3146.0,28.0,27.6,clear
+29,Soyabean,Nanggaon,2015-12-18,3320.0,94.0,27.6,clear
+30,Soyabean,Achalpur,2015-12-21,3400.0,94.0,30.2,clear
+31,Soyabean,Amarawati,2015-12-21,3214.0,504.0,30.2,clear
+32,Soyabean,Chandur Railway,2015-12-21,3500.0,20.0,30.2,clear
+33,Soyabean,Daryapur,2015-12-21,3455.0,27.0,30.2,clear
+34,Soyabean,Dhamngaon-Railway,2015-12-21,3500.0,90.0,30.2,clear
+35,Soyabean,Morshi,2015-12-21,3142.0,11.0,30.2,clear
+36,Soyabean,Nanggaon,2015-12-21,3400.0,124.0,30.2,clear
+37,Soyabean,Achalpur,2015-12-22,3410.0,70.0,28.8,clear
+38,Soyabean,Amarawati,2015-12-22,3235.0,490.0,28.8,clear
+39,Soyabean,Chandur Railway,2015-12-22,3500.0,17.0,28.8,clear
+40,Soyabean,Daryapur,2015-12-22,3550.0,60.0,28.8,clear
+41,Soyabean,Nanggaon,2015-12-22,3370.0,123.0,28.8,clear
+42,Soyabean,Achalpur,2015-12-23,3425.0,20.0,28.0,clear
+43,Soyabean,Amarawati,2015-12-23,3250.0,488.0,28.0,clear
+44,Soyabean,Anajngaon,2015-12-23,3400.0,33.0,28.0,clear
+45,Soyabean,Chandur Bazar,2015-12-23,3456.0,67.0,28.0,clear
+46,Soyabean,Chandur Railway,2015-12-23,3550.0,16.0,28.0,clear
+47,Soyabean,Daryapur,2015-12-23,3450.0,74.0,28.0,clear
+48,Soyabean,Dhamngaon-Railway,2015-12-23,3600.0,60.0,28.0,clear
+49,Soyabean,Morshi,2015-12-23,3283.0,29.0,28.0,clear
+50,Soyabean,Nanggaon,2015-12-23,3375.0,93.0,28.0,clear
+51,Soyabean,Achalpur,2015-12-24,3625.0,55.0,24.4,clear
+52,Soyabean,Varud(Rajura Bazar),2015-12-24,3581.0,4.0,24.4,clear
+53,Soyabean,Achalpur,2015-12-25,3625.0,30.0,23.4,clear
+54,Soyabean,Achalpur,2015-12-26,3625.0,20.0,24.4,clear
+55,Soyabean,Amarawati,2015-12-26,3200.0,299.0,24.4,clear
+56,Soyabean,Chandur Railway,2015-12-26,3525.0,14.0,24.4,clear
+57,Soyabean,Daryapur,2015-12-26,3340.0,29.0,24.4,clear
+58,Soyabean,Dhamngaon-Railway,2015-12-26,3350.0,60.0,24.4,clear
+59,Soyabean,Morshi,2015-12-26,3272.0,31.0,24.4,clear
+60,Soyabean,Nanggaon,2015-12-26,3359.0,81.0,24.4,clear
+61,Soyabean,Achalpur,2015-12-28,3550.0,50.0,31.0,clear
+62,Soyabean,Amarawati,2015-12-28,3175.0,424.0,31.0,clear
+63,Soyabean,Chandur Railway,2015-12-28,3580.0,23.0,31.0,clear
+64,Soyabean,Daryapur,2015-12-28,3370.0,51.0,31.0,clear
+65,Soyabean,Dhamngaon-Railway,2015-12-28,3450.0,95.0,31.0,clear
+66,Soyabean,Morshi,2015-12-28,3154.0,5.0,31.0,clear
+67,Soyabean,Nanggaon,2015-12-28,3070.0,129.0,31.0,clear
+68,Soyabean,Achalpur,2015-12-29,3510.0,45.0,32.4,clear
+69,Soyabean,Amarawati,2015-12-29,3299.0,478.0,32.4,clear
+70,Soyabean,Chandur Railway,2015-12-29,3400.0,12.0,32.4,clear
+71,Soyabean,Daryapur,2015-12-29,3405.0,50.0,32.4,clear
+72,Soyabean,Dhamngaon-Railway,2015-12-29,3400.0,105.0,32.4,clear
+73,Soyabean,Nanggaon,2015-12-29,3285.0,58.0,32.4,clear
+74,Soyabean,Achalpur,2015-12-30,3550.0,35.0,29.8,clear
+75,Soyabean,Amarawati,2015-12-30,3234.0,333.0,29.8,clear
+76,Soyabean,Anajngaon,2015-12-30,3400.0,18.0,29.8,clear
+77,Soyabean,Chandur Bazar,2015-12-30,3785.0,35.0,29.8,clear
+78,Soyabean,Chandur Railway,2015-12-30,3500.0,13.0,29.8,clear
+79,Soyabean,Daryapur,2015-12-30,3450.0,22.0,29.8,clear
+80,Soyabean,Dhamngaon-Railway,2015-12-30,3450.0,70.0,29.8,clear
+81,Soyabean,Morshi,2015-12-30,3267.0,32.0,29.8,clear
+82,Soyabean,Nanggaon,2015-12-30,3120.0,66.0,29.8,clear
+83,Soyabean,Achalpur,2015-12-31,3528.0,70.0,32.4,clear
+84,Soyabean,Amarawati,2015-12-31,3225.0,266.0,32.4,clear
+85,Soyabean,Chandur Railway,2015-12-31,3470.0,7.0,32.4,clear
+86,Soyabean,Dhamngaon-Railway,2015-12-31,3550.0,30.0,32.4,clear
+87,Soyabean,Dharni,2015-12-31,3150.0,44.0,32.4,clear
+88,Soyabean,Nanggaon,2015-12-31,3100.0,60.0,32.4,clear
+89,Soyabean,Varud(Rajura Bazar),2015-12-31,3386.0,2.0,32.4,clear
+90,Soyabean,Amarawati,2015-12-08,3250.0,0.0,31.0,clear
+91,Soyabean,Anajngaon,2015-12-08,3100.0,9.0,31.0,clear
+92,Soyabean,Chandur Railway,2015-12-08,3150.0,5.0,31.0,clear
+93,Soyabean,Dhamngaon-Railway,2015-12-08,3100.0,33.0,31.0,clear
+94,Soyabean,Morshi,2015-12-08,3047.0,11.0,31.0,clear
+95,Soyabean,Amarawati,2015-12-11,3435.0,0.0,29.4,clear
+96,Soyabean,Amarawati,2015-12-16,3121.0,445.0,31.4,clear
+97,Soyabean,Anajngaon,2015-12-16,3325.0,21.0,31.4,clear
+98,Soyabean,Chandur Bazar,2015-12-16,3675.0,51.0,31.4,clear
+99,Soyabean,Chandur Railway,2015-12-16,3500.0,25.0,31.4,clear
+100,Soyabean,Daryapur,2015-12-16,3300.0,58.0,31.4,clear
+101,Soyabean,Dhamngaon-Railway,2015-12-16,3450.0,110.0,31.4,clear
+102,Soyabean,Morshi,2015-12-16,3252.0,32.0,31.4,clear
+103,Soyabean,Nanggaon,2015-12-16,3287.0,62.0,31.4,clear
+104,Soyabean,Amarawati,2015-12-19,3214.0,867.0,27.8,clear
+105,Soyabean,Chandur Railway,2015-12-19,3500.0,14.0,27.8,clear
+106,Soyabean,Daryapur,2015-12-19,3400.0,29.0,27.8,clear
+107,Soyabean,Dhamngaon-Railway,2015-12-19,3450.0,60.0,27.8,clear
+108,Soyabean,Morshi,2015-12-19,3284.0,31.0,27.8,clear
+109,Soyabean,Nanggaon,2015-12-19,3375.0,60.0,27.8,clear
+110,Soyabean,Anajngaon,2015-12-07,3270.0,5.0,30.4,clear
+111,Soyabean,Chandur Bazar,2015-12-07,3240.0,55.0,30.4,clear
+112,Soyabean,Anajngaon,2015-12-13,3300.0,42.0,31.0,clear
+113,Soyabean,Chandur Bazar,2015-12-13,3289.0,186.0,31.0,clear
+114,Soyabean,Anajngaon,2015-12-20,3250.0,23.0,27.6,clear
+115,Soyabean,Chandur Bazar,2015-12-20,3541.0,126.0,27.6,clear
+116,Soyabean,Nanggaon,2015-12-20,3400.0,124.0,27.6,clear
+117,Soyabean,Anajngaon,2015-12-27,3400.0,19.0,29.4,clear
+118,Soyabean,Chandur Bazar,2015-12-27,3356.0,115.0,29.4,clear
+119,Mustard,Achalpur,2016-01-16,3140.0,3.0,28.0,clear
+120,Soyabean,Achalpur,2016-01-16,3615.0,54.0,28.0,clear
+121,Soyabean,Amarawati,2016-01-16,3175.0,166.0,28.0,clear
+122,Soyabean,Chandur Railway,2016-01-16,3550.0,12.0,28.0,clear
+123,Soyabean,Daryapur,2016-01-16,3300.0,58.0,28.0,clear
+124,Soyabean,Dhamngaon-Railway,2016-01-16,3500.0,63.0,28.0,clear
+125,Soyabean,Morshi,2016-01-16,3257.0,10.0,28.0,clear
+126,Soyabean,Nanggaon,2016-01-16,3161.0,37.0,28.0,clear
+127,Mustard,Achalpur,2016-01-21,3400.0,0.0,25.2,clear
+128,Soyabean,Achalpur,2016-01-21,3700.0,200.0,25.2,clear
+129,Soyabean,Amarawati,2016-01-21,3240.0,468.0,25.2,clear
+130,Soyabean,Dhamngaon-Railway,2016-01-21,3550.0,147.0,25.2,clear
+131,Soyabean,Nanggaon,2016-01-21,3150.0,67.0,25.2,clear
+132,Soyabean,Varud(Rajura Bazar),2016-01-21,3393.0,2.0,25.2,clear
+133,Mustard,Achalpur,2016-02-18,3300.0,0.0,34.8,clear
+134,Soyabean,Achalpur,2016-02-18,3625.0,100.0,34.8,clear
+135,Soyabean,Amarawati,2016-02-18,3365.0,0.0,34.8,clear
+136,Soyabean,Chandur Railway,2016-02-18,3550.0,16.0,34.8,clear
+137,Soyabean,Dhamngaon-Railway,2016-02-18,3550.0,60.0,34.8,clear
+138,Soyabean,Nanggaon,2016-02-18,3155.0,8.0,34.8,clear
+139,Mustard,Achalpur,2016-03-03,3400.0,0.0,35.2,clear
+140,Soyabean,Achalpur,2016-03-03,3440.0,100.0,35.2,clear
+141,Soyabean,Chandur Railway,2016-03-03,3450.0,6.0,35.2,clear
+142,Soyabean,Dhamngaon-Railway,2016-03-03,3500.0,70.0,35.2,clear
+143,Mustard,Achalpur,2016-03-05,3550.0,0.0,33.4,clear
+144,Soyabean,Daryapur,2016-03-05,3000.0,4.0,33.4,clear
+145,Soyabean,Nanggaon,2016-03-05,3271.0,7.0,33.4,clear
+146,Mustard,Varud(Rajura Bazar),2016-12-05,3150.0,0.0,27.6,clear
+147,Soyabean,Amarawati,2016-12-05,3595.0,232.0,27.6,clear
+148,Soyabean,Chandur Railway,2016-12-05,3775.0,10.0,27.6,clear
+149,Soyabean,Varud(Rajura Bazar),2016-12-05,3416.0,1.0,27.6,clear
+150,Mustard,Varud(Rajura Bazar),2016-09-06,3665.0,0.0,29.8,clear
+151,Soyabean,Achalpur,2016-09-06,3620.0,70.0,29.8,clear
+152,Soyabean,Amarawati,2016-09-06,3245.0,257.0,29.8,clear
+153,Soyabean,Chandur Railway,2016-09-06,3600.0,11.0,29.8,clear
+154,Soyabean,Nanggaon,2016-09-06,3551.0,9.0,29.8,clear
+155,Soyabean,Varud(Rajura Bazar),2016-09-06,3523.0,3.0,29.8,clear
+156,Safflower,Amarawati,2016-12-13,2275.0,0.0,22.0,clear
+157,Soyabean,Achalpur,2016-12-13,2750.0,24.0,22.0,clear
+158,Soyabean,Amarawati,2016-12-13,2741.0,1128.0,22.0,clear
+159,Soyabean,Chandur Railway,2016-12-13,2700.0,55.0,22.0,clear
+160,Soyabean,Daryapur,2016-12-13,2500.0,68.0,22.0,clear
+161,Soyabean,Dhamngaon-Railway,2016-12-13,2700.0,300.0,22.0,clear
+162,Soyabean,Nanggaon,2016-12-13,2600.0,80.0,22.0,clear
+163,Soyabean,Tiwasa,2016-12-13,2750.0,40.0,22.0,clear
+164,Soyabean,Achalpur,2016-01-01,3538.0,100.0,32.2,clear
+165,Soyabean,Amarawati,2016-01-01,3175.0,345.0,32.2,clear
+166,Soyabean,Anajngaon,2016-01-01,3400.0,25.0,32.2,clear
+167,Soyabean,Dhamngaon-Railway,2016-01-01,3350.0,60.0,32.2,clear
+168,Soyabean,Nanggaon,2016-01-01,3110.0,38.0,32.2,clear
+169,Soyabean,Achalpur,2016-02-01,3515.0,45.0,33.2,clear
+170,Soyabean,Chandur Railway,2016-02-01,3500.0,19.0,33.2,clear
+171,Soyabean,Dhamngaon-Railway,2016-02-01,3450.0,40.0,33.2,clear
+172,Soyabean,Morshi,2016-02-01,3277.0,19.0,33.2,clear
+173,Soyabean,Nanggaon,2016-02-01,3150.0,57.0,33.2,clear
+174,Soyabean,Achalpur,2016-04-01,3540.0,66.0,41.0,clear
+175,Soyabean,Amarawati,2016-04-01,3200.0,376.0,41.0,clear
+176,Soyabean,Chandur Railway,2016-04-01,3585.0,21.0,41.0,clear
+177,Soyabean,Dhamngaon-Railway,2016-04-01,3550.0,130.0,41.0,clear
+178,Soyabean,Morshi,2016-04-01,3134.0,3.0,41.0,clear
+179,Soyabean,Nanggaon,2016-04-01,3161.0,85.0,41.0,clear
+180,Soyabean,Achalpur,2016-05-01,3565.0,21.0,42.0,clear
+181,Soyabean,Amarawati,2016-05-01,3185.0,464.0,42.0,clear
+182,Soyabean,Chandur Railway,2016-05-01,3500.0,26.0,42.0,clear
+183,Soyabean,Dhamngaon-Railway,2016-05-01,3650.0,110.0,42.0,clear
+184,Soyabean,Nanggaon,2016-05-01,3160.0,108.0,42.0,clear
+185,Soyabean,Achalpur,2016-06-01,3565.0,20.0,42.4,clear
+186,Soyabean,Amarawati,2016-06-01,3200.0,419.0,42.4,clear
+187,Soyabean,Anajngaon,2016-06-01,3400.0,20.0,42.4,clear
+188,Soyabean,Chandur Bazar,2016-06-01,3250.0,50.0,42.4,clear
+189,Soyabean,Chandur Railway,2016-06-01,3500.0,19.0,42.4,clear
+190,Soyabean,Daryapur,2016-06-01,3395.0,29.0,42.4,clear
+191,Soyabean,Dhamngaon-Railway,2016-06-01,3450.0,120.0,42.4,clear
+192,Soyabean,Morshi,2016-06-01,3247.0,26.0,42.4,clear
+193,Soyabean,Nanggaon,2016-06-01,3161.0,78.0,42.4,clear
+194,Soyabean,Achalpur,2016-07-01,3425.0,120.0,31.0,clear
+195,Soyabean,Amarawati,2016-07-01,3180.0,398.0,31.0,clear
+196,Soyabean,Anajngaon,2016-07-01,3411.0,18.0,31.0,clear
+197,Soyabean,Dhamngaon-Railway,2016-07-01,3500.0,125.0,31.0,clear
+198,Soyabean,Nanggaon,2016-07-01,3113.0,61.0,31.0,clear
+199,Soyabean,Varud(Rajura Bazar),2016-07-01,3300.0,3.0,31.0,clear
+200,Soyabean,Achalpur,2016-09-01,3445.0,70.0,28.6,clear
+201,Soyabean,Amarawati,2016-09-01,3218.0,332.0,28.6,clear
+202,Soyabean,Chandur Railway,2016-09-01,3500.0,19.0,28.6,clear
+203,Soyabean,Daryapur,2016-09-01,3400.0,15.0,28.6,clear
+204,Soyabean,Dhamngaon-Railway,2016-09-01,3550.0,80.0,28.6,clear
+205,Soyabean,Morshi,2016-09-01,3154.0,18.0,28.6,clear
+206,Soyabean,Nanggaon,2016-09-01,3149.0,65.0,28.6,clear
+207,Soyabean,Achalpur,2016-11-01,3485.0,50.0,29.0,clear
+208,Soyabean,Amarawati,2016-11-01,3216.0,449.0,29.0,clear
+209,Soyabean,Chandur Railway,2016-11-01,3400.0,14.0,29.0,clear
+210,Soyabean,Daryapur,2016-11-01,3300.0,26.0,29.0,clear
+211,Soyabean,Dhamngaon-Railway,2016-11-01,3600.0,150.0,29.0,clear
+212,Soyabean,Morshi,2016-11-01,3143.0,4.0,29.0,clear
+213,Soyabean,Nanggaon,2016-11-01,3170.0,83.0,29.0,clear
+214,Soyabean,Achalpur,2016-12-01,3525.0,84.0,29.0,clear
+215,Soyabean,Amarawati,2016-12-01,3234.0,300.0,29.0,clear
+216,Soyabean,Chandur Railway,2016-12-01,3500.0,13.0,29.0,clear
+217,Soyabean,Daryapur,2016-12-01,3250.0,15.0,29.0,clear
+218,Soyabean,Dhamngaon-Railway,2016-12-01,3570.0,205.0,29.0,clear
+219,Soyabean,Nanggaon,2016-12-01,3124.0,70.0,29.0,clear
+220,Soyabean,Achalpur,2016-01-13,3525.0,60.0,29.6,clear
+221,Soyabean,Amarawati,2016-01-13,3240.0,380.0,29.6,clear
+222,Soyabean,Anajngaon,2016-01-13,3400.0,18.0,29.6,clear
+223,Soyabean,Chandur Bazar,2016-01-13,3550.0,25.0,29.6,clear
+224,Soyabean,Chandur Railway,2016-01-13,3500.0,20.0,29.6,clear
+225,Soyabean,Daryapur,2016-01-13,3300.0,47.0,29.6,clear
+226,Soyabean,Dhamngaon-Railway,2016-01-13,3550.0,105.0,29.6,clear
+227,Soyabean,Morshi,2016-01-13,3237.0,29.0,29.6,clear
+228,Soyabean,Nanggaon,2016-01-13,3150.0,82.0,29.6,clear
+229,Soyabean,Achalpur,2016-01-14,3605.0,10.0,30.6,clear
+230,Soyabean,Amarawati,2016-01-14,3200.0,260.0,30.6,clear
+231,Soyabean,Dhamngaon-Railway,2016-01-14,3550.0,130.0,30.6,clear
+232,Soyabean,Nanggaon,2016-01-14,3326.0,48.0,30.6,clear
+233,Soyabean,Varud(Rajura Bazar),2016-01-14,3350.0,3.0,30.6,clear
+234,Soyabean,Achalpur,2016-01-15,3600.0,105.0,29.0,clear
+235,Soyabean,Amarawati,2016-01-15,3250.0,218.0,29.0,clear
+236,Soyabean,Anajngaon,2016-01-15,3400.0,8.0,29.0,clear
+237,Soyabean,Chandur Railway,2016-01-15,3570.0,6.0,29.0,clear
+238,Soyabean,Daryapur,2016-01-15,3385.0,10.0,29.0,clear
+239,Soyabean,Morshi,2016-01-15,3147.0,4.0,29.0,clear
+240,Soyabean,Nanggaon,2016-01-15,3231.0,82.0,29.0,clear
+241,Soyabean,Achalpur,2016-01-18,3600.0,175.0,27.4,clear
+242,Soyabean,Amarawati,2016-01-18,3345.0,253.0,27.4,clear
+243,Soyabean,Chandur Railway,2016-01-18,3500.0,16.0,27.4,clear
+244,Soyabean,Daryapur,2016-01-18,3320.0,38.0,27.4,clear
+245,Soyabean,Dhamngaon-Railway,2016-01-18,3600.0,130.0,27.4,clear
+246,Soyabean,Morshi,2016-01-18,3234.0,4.0,27.4,clear
+247,Soyabean,Nanggaon,2016-01-18,3200.0,90.0,27.4,clear
+248,Soyabean,Achalpur,2016-01-19,3630.0,54.0,27.4,clear
+249,Soyabean,Amarawati,2016-01-19,3245.0,366.0,27.4,clear
+250,Soyabean,Chandur Railway,2016-01-19,3500.0,16.0,27.4,clear
+251,Soyabean,Daryapur,2016-01-19,3100.0,8.0,27.4,clear
+252,Soyabean,Dhamngaon-Railway,2016-01-19,3600.0,150.0,27.4,clear
+253,Soyabean,Achalpur,2016-01-20,3625.0,10.0,26.6,clear
+254,Soyabean,Amarawati,2016-01-20,3270.0,297.0,26.6,clear
+255,Soyabean,Anajngaon,2016-01-20,3200.0,9.0,26.6,clear
+256,Soyabean,Chandur Bazar,2016-01-20,3400.0,19.0,26.6,clear
+257,Soyabean,Chandur Railway,2016-01-20,3560.0,31.0,26.6,clear
+258,Soyabean,Daryapur,2016-01-20,3350.0,16.0,26.6,clear
+259,Soyabean,Dhamngaon-Railway,2016-01-20,3650.0,160.0,26.6,clear
+260,Soyabean,Morshi,2016-01-20,3313.0,10.0,26.6,clear
+261,Soyabean,Nanggaon,2016-01-20,3201.0,83.0,26.6,clear
+262,Soyabean,Achalpur,2016-01-22,3680.0,20.0,25.4,clear
+263,Soyabean,Amarawati,2016-01-22,3254.0,277.0,25.4,clear
+264,Soyabean,Anajngaon,2016-01-22,3250.0,3.0,25.4,clear
+265,Soyabean,Chandur Railway,2016-01-22,3550.0,12.0,25.4,clear
+266,Soyabean,Daryapur,2016-01-22,3415.0,6.0,25.4,clear
+267,Soyabean,Dhamngaon-Railway,2016-01-22,3670.0,150.0,25.4,clear
+268,Soyabean,Morshi,2016-01-22,3214.0,4.0,25.4,clear
+269,Soyabean,Nanggaon,2016-01-22,3150.0,67.0,25.4,clear
+270,Soyabean,Achalpur,2016-01-23,3715.0,50.0,26.4,clear
+271,Soyabean,Amarawati,2016-01-23,3306.0,321.0,26.4,clear
+272,Soyabean,Chandur Railway,2016-01-23,3580.0,12.0,26.4,clear
+273,Soyabean,Dhamngaon-Railway,2016-01-23,3670.0,160.0,26.4,clear
+274,Soyabean,Morshi,2016-01-23,3227.0,20.0,26.4,clear
+275,Soyabean,Nanggaon,2016-01-23,3191.0,65.0,26.4,clear
+276,Soyabean,Achalpur,2016-01-25,3650.0,245.0,27.6,clear
+277,Soyabean,Amarawati,2016-01-25,3284.0,371.0,27.6,clear
+278,Soyabean,Chandur Bazar,2016-01-25,3451.0,69.0,27.6,clear
+279,Soyabean,Chandur Railway,2016-01-25,3650.0,5.0,27.6,clear
+280,Soyabean,Daryapur,2016-01-25,3395.0,6.0,27.6,clear
+281,Soyabean,Dhamngaon-Railway,2016-01-25,3700.0,190.0,27.6,clear
+282,Soyabean,Morshi,2016-01-25,3120.0,3.0,27.6,clear
+283,Soyabean,Nanggaon,2016-01-25,3201.0,67.0,27.6,clear
+284,Soyabean,Achalpur,2016-01-27,3600.0,18.0,31.4,clear
+285,Soyabean,Amarawati,2016-01-27,3240.0,304.0,31.4,clear
+286,Soyabean,Anajngaon,2016-01-27,3300.0,6.0,31.4,clear
+287,Soyabean,Chandur Bazar,2016-01-27,3341.0,29.0,31.4,clear
+288,Soyabean,Chandur Railway,2016-01-27,8900.0,16.0,31.4,clear
+289,Soyabean,Daryapur,2016-01-27,3370.0,11.0,31.4,clear
+290,Soyabean,Dhamngaon-Railway,2016-01-27,3650.0,200.0,31.4,clear
+291,Soyabean,Morshi,2016-01-27,3254.0,10.0,31.4,clear
+292,Soyabean,Nanggaon,2016-01-27,3161.0,66.0,31.4,clear
+293,Soyabean,Achalpur,2016-01-28,3525.0,150.0,26.4,clear
+294,Soyabean,Amarawati,2016-01-28,3225.0,372.0,26.4,clear
+295,Soyabean,Dhamngaon-Railway,2016-01-28,3600.0,140.0,26.4,clear
+296,Soyabean,Nanggaon,2016-01-28,3200.0,75.0,26.4,clear
+297,Soyabean,Varud(Rajura Bazar),2016-01-28,3406.0,3.0,26.4,clear
+298,Soyabean,Achalpur,2016-01-29,3550.0,50.0,31.8,clear
+299,Soyabean,Amarawati,2016-01-29,3190.0,298.0,31.8,clear
+300,Soyabean,Anajngaon,2016-01-29,3250.0,4.0,31.8,clear
+301,Soyabean,Chandur Railway,2016-01-29,3550.0,16.0,31.8,clear
+302,Soyabean,Daryapur,2016-01-29,3300.0,14.0,31.8,clear
+303,Soyabean,Dhamngaon-Railway,2016-01-29,3650.0,200.0,31.8,clear
+304,Soyabean,Morshi,2016-01-29,3107.0,4.0,31.8,clear
+305,Soyabean,Nanggaon,2016-01-29,3171.0,70.0,31.8,clear
+306,Soyabean,Achalpur,2016-01-30,3400.0,25.0,33.8,clear
+307,Soyabean,Amarawati,2016-01-30,3350.0,305.0,33.8,clear
+308,Soyabean,Chandur Railway,2016-01-30,3600.0,12.0,33.8,clear
+309,Soyabean,Morshi,2016-01-30,3252.0,6.0,33.8,clear
+310,Soyabean,Nanggaon,2016-01-30,3151.0,28.0,33.8,clear
+311,Soyabean,Achalpur,2016-01-02,3525.0,45.0,31.2,clear
+312,Soyabean,Amarawati,2016-01-02,3318.0,382.0,31.2,clear
+313,Soyabean,Chandur Railway,2016-01-02,3500.0,19.0,31.2,clear
+314,Soyabean,Dhamngaon-Railway,2016-01-02,3650.0,210.0,31.2,clear
+315,Soyabean,Morshi,2016-01-02,3347.0,3.0,31.2,clear
+316,Soyabean,Nanggaon,2016-01-02,3250.0,61.0,31.2,clear
+317,Soyabean,Achalpur,2016-02-02,3600.0,20.0,32.2,clear
+318,Soyabean,Amarawati,2016-02-02,3238.0,301.0,32.2,clear
+319,Soyabean,Chandur Railway,2016-02-02,3550.0,20.0,32.2,clear
+320,Soyabean,Daryapur,2016-02-02,3350.0,6.0,32.2,clear
+321,Soyabean,Dhamngaon-Railway,2016-02-02,3700.0,160.0,32.2,clear
+322,Soyabean,Nanggaon,2016-02-02,3226.0,59.0,32.2,clear
+323,Soyabean,Achalpur,2016-03-02,3525.0,25.0,34.2,clear
+324,Soyabean,Anajngaon,2016-03-02,3450.0,15.0,34.2,clear
+325,Soyabean,Chandur Bazar,2016-03-02,3125.0,27.0,34.2,clear
+326,Soyabean,Chandur Railway,2016-03-02,3500.0,13.0,34.2,clear
+327,Soyabean,Daryapur,2016-03-02,3390.0,10.0,34.2,clear
+328,Soyabean,Dhamngaon-Railway,2016-03-02,3650.0,174.0,34.2,clear
+329,Soyabean,Morshi,2016-03-02,3276.0,8.0,34.2,clear
+330,Soyabean,Nanggaon,2016-03-02,3240.0,22.0,34.2,clear
+331,Soyabean,Achalpur,2016-04-02,3575.0,80.0,40.2,clear
+332,Soyabean,Amarawati,2016-04-02,3250.0,213.0,40.2,clear
+333,Soyabean,Chandur Railway,2016-04-02,3525.0,16.0,40.2,clear
+334,Soyabean,Dhamngaon-Railway,2016-04-02,3650.0,190.0,40.2,clear
+335,Soyabean,Nanggaon,2016-04-02,3246.0,16.0,40.2,clear
+336,Soyabean,Achalpur,2016-05-02,3500.0,50.0,41.0,clear
+337,Soyabean,Amarawati,2016-05-02,3250.0,377.0,41.0,clear
+338,Soyabean,Anajngaon,2016-05-02,3250.0,6.0,41.0,clear
+339,Soyabean,Daryapur,2016-05-02,3300.0,17.0,41.0,clear
+340,Soyabean,Dhamngaon-Railway,2016-05-02,3680.0,140.0,41.0,clear
+341,Soyabean,Nanggaon,2016-05-02,3250.0,18.0,41.0,clear
+342,Soyabean,Achalpur,2016-06-02,3500.0,35.0,35.4,clear
+343,Soyabean,Amarawati,2016-06-02,3324.0,290.0,35.4,clear
+344,Soyabean,Anajngaon,2016-06-02,3400.0,8.0,35.4,clear
+345,Soyabean,Chandur Railway,2016-06-02,3500.0,19.0,35.4,clear
+346,Soyabean,Daryapur,2016-06-02,3481.0,27.0,35.4,clear
+347,Soyabean,Morshi,2016-06-02,3303.0,10.0,35.4,clear
+348,Soyabean,Nanggaon,2016-06-02,3200.0,16.0,35.4,clear
+349,Soyabean,Achalpur,2016-08-02,3585.0,83.0,25.4,clear
+350,Soyabean,Amarawati,2016-08-02,3250.0,400.0,25.4,clear
+351,Soyabean,Chandur Railway,2016-08-02,3650.0,18.0,25.4,clear
+352,Soyabean,Daryapur,2016-08-02,3300.0,11.0,25.4,clear
+353,Soyabean,Nanggaon,2016-08-02,3206.0,10.0,25.4,clear
+354,Soyabean,Achalpur,2016-09-02,3525.0,46.0,28.6,clear
+355,Soyabean,Chandur Railway,2016-09-02,3560.0,11.0,28.6,clear
+356,Soyabean,Daryapur,2016-09-02,3350.0,6.0,28.6,clear
+357,Soyabean,Dhamngaon-Railway,2016-09-02,3650.0,150.0,28.6,clear
+358,Soyabean,Nanggaon,2016-09-02,3187.0,25.0,28.6,clear
+359,Soyabean,Achalpur,2016-11-02,3550.0,80.0,28.8,clear
+360,Soyabean,Amarawati,2016-11-02,3250.0,256.0,28.8,clear
+361,Soyabean,Chandur Railway,2016-11-02,3580.0,15.0,28.8,clear
+362,Soyabean,Dhamngaon-Railway,2016-11-02,3450.0,150.0,28.8,clear
+363,Soyabean,Nanggaon,2016-11-02,3175.0,11.0,28.8,clear
+364,Soyabean,Achalpur,2016-12-02,3575.0,309.0,28.4,clear
+365,Soyabean,Amarawati,2016-12-02,3340.0,0.0,28.4,clear
+366,Soyabean,Anajngaon,2016-12-02,3300.0,17.0,28.4,clear
+367,Soyabean,Chandur Railway,2016-12-02,3560.0,23.0,28.4,clear
+368,Soyabean,Daryapur,2016-12-02,3500.0,8.0,28.4,clear
+369,Soyabean,Dhamngaon-Railway,2016-12-02,3550.0,130.0,28.4,clear
+370,Soyabean,Nanggaon,2016-12-02,3161.0,9.0,28.4,clear
+371,Soyabean,Achalpur,2016-02-15,3525.0,10.0,33.4,clear
+372,Soyabean,Amarawati,2016-02-15,3278.0,77.0,33.4,clear
+373,Soyabean,Chandur Railway,2016-02-15,3600.0,13.0,33.4,clear
+374,Soyabean,Daryapur,2016-02-15,3300.0,6.0,33.4,clear
+375,Soyabean,Dhamngaon-Railway,2016-02-15,3550.0,120.0,33.4,clear
+376,Soyabean,Nanggaon,2016-02-15,3150.0,10.0,33.4,clear
+377,Soyabean,Achalpur,2016-02-17,3580.0,10.0,33.8,clear
+378,Soyabean,Amarawati,2016-02-17,3350.0,261.0,33.8,clear
+379,Soyabean,Anajngaon,2016-02-17,3375.0,12.0,33.8,clear
+380,Soyabean,Chandur Bazar,2016-02-17,3250.0,19.0,33.8,clear
+381,Soyabean,Chandur Railway,2016-02-17,3500.0,14.0,33.8,clear
+382,Soyabean,Daryapur,2016-02-17,3000.0,10.0,33.8,clear
+383,Soyabean,Dharni,2016-02-17,3350.0,6.0,33.8,clear
+384,Soyabean,Morshi,2016-02-17,3262.0,4.0,33.8,clear
+385,Soyabean,Nanggaon,2016-02-17,3111.0,9.0,33.8,clear
+386,Soyabean,Achalpur,2016-02-23,3455.0,18.0,35.0,clear
+387,Soyabean,Chandur Bazar,2016-02-23,3351.0,48.0,35.0,clear
+388,Soyabean,Chandur Railway,2016-02-23,3550.0,5.0,35.0,clear
+389,Soyabean,Daryapur,2016-02-23,3200.0,12.0,35.0,clear
+390,Soyabean,Dhamngaon-Railway,2016-02-23,3500.0,100.0,35.0,clear
+391,Soyabean,Nanggaon,2016-02-23,3138.0,13.0,35.0,clear
+392,Soyabean,Achalpur,2016-02-25,3475.0,147.0,35.8,clear
+393,Soyabean,Amarawati,2016-02-25,3286.0,0.0,35.8,clear
+394,Soyabean,Chandur Railway,2016-02-25,3570.0,6.0,35.8,clear
+395,Soyabean,Achalpur,2016-02-26,3455.0,186.0,27.8,clear
+396,Soyabean,Amarawati,2016-02-26,3285.0,0.0,27.8,clear
+397,Soyabean,Anajngaon,2016-02-26,3250.0,5.0,27.8,clear
+398,Soyabean,Chandur Railway,2016-02-26,3500.0,17.0,27.8,clear
+399,Soyabean,Morshi,2016-02-26,3225.0,1.0,27.8,clear
+400,Soyabean,Achalpur,2016-02-27,3525.0,54.0,34.8,clear
+401,Soyabean,Amarawati,2016-02-27,3218.0,0.0,34.8,clear
+402,Soyabean,Chandur Railway,2016-02-27,3475.0,11.0,34.8,clear
+403,Soyabean,Daryapur,2016-02-27,3400.0,6.0,34.8,clear
+404,Soyabean,Morshi,2016-02-27,3158.0,11.0,34.8,clear
+405,Soyabean,Achalpur,2016-02-29,3530.0,3.0,31.6,clear
+406,Soyabean,Amarawati,2016-02-29,3125.0,105.0,31.6,clear
+407,Soyabean,Chandur Railway,2016-02-29,3450.0,12.0,31.6,clear
+408,Soyabean,Dhamngaon-Railway,2016-02-29,3450.0,60.0,31.6,clear
+409,Soyabean,Morshi,2016-02-29,3325.0,0.0,31.6,clear
+410,Soyabean,Nanggaon,2016-02-29,3125.0,10.0,31.6,clear
+411,Soyabean,Achalpur,2016-01-03,3550.0,189.0,28.4,clear
+412,Soyabean,Amarawati,2016-01-03,3181.0,81.0,28.4,clear
+413,Soyabean,Chandur Railway,2016-01-03,3425.0,9.0,28.4,clear
+414,Soyabean,Daryapur,2016-01-03,3111.0,5.0,28.4,clear
+415,Soyabean,Achalpur,2016-02-03,3445.0,20.0,31.0,clear
+416,Soyabean,Amarawati,2016-02-03,3237.0,0.0,31.0,clear
+417,Soyabean,Anajngaon,2016-02-03,3200.0,4.0,31.0,clear
+418,Soyabean,Chandur Bazar,2016-02-03,3551.0,25.0,31.0,clear
+419,Soyabean,Chandur Railway,2016-02-03,3475.0,11.0,31.0,clear
+420,Soyabean,Dhamngaon-Railway,2016-02-03,3530.0,50.0,31.0,clear
+421,Soyabean,Morshi,2016-02-03,3180.0,6.0,31.0,clear
+422,Soyabean,Achalpur,2016-04-03,3525.0,20.0,42.2,clear
+423,Soyabean,Anajngaon,2016-04-03,3350.0,5.0,42.2,clear
+424,Soyabean,Chandur Railway,2016-04-03,3560.0,17.0,42.2,clear
+425,Soyabean,Daryapur,2016-04-03,3220.0,15.0,42.2,clear
+426,Soyabean,Morshi,2016-04-03,3125.0,1.0,42.2,clear
+427,Soyabean,Achalpur,2016-05-03,3500.0,35.0,42.0,clear
+428,Soyabean,Amarawati,2016-05-03,3075.0,130.0,42.0,clear
+429,Soyabean,Chandur Railway,2016-05-03,3560.0,15.0,42.0,clear
+430,Soyabean,Daryapur,2016-05-03,3385.0,12.0,42.0,clear
+431,Soyabean,Dhamngaon-Railway,2016-05-03,3600.0,65.0,42.0,clear
+432,Soyabean,Morshi,2016-05-03,3196.0,7.0,42.0,clear
+433,Soyabean,Nanggaon,2016-05-03,3300.0,9.0,42.0,clear
+434,Soyabean,Achalpur,2016-09-03,3500.0,20.0,27.8,clear
+435,Soyabean,Amarawati,2016-09-03,3215.0,129.0,27.8,clear
+436,Soyabean,Anajngaon,2016-09-03,3250.0,5.0,27.8,clear
+437,Soyabean,Chandur Bazar,2016-09-03,3450.0,10.0,27.8,clear
+438,Soyabean,Chandur Railway,2016-09-03,3550.0,10.0,27.8,clear
+439,Soyabean,Daryapur,2016-09-03,3290.0,9.0,27.8,clear
+440,Soyabean,Dhamngaon-Railway,2016-09-03,3550.0,85.0,27.8,clear
+441,Soyabean,Morshi,2016-09-03,3185.0,6.0,27.8,clear
+442,Soyabean,Achalpur,2016-10-03,3525.0,150.0,29.4,clear
+443,Soyabean,Amarawati,2016-10-03,3375.0,129.0,29.4,clear
+444,Soyabean,Chandur Railway,2016-10-03,3611.0,11.0,29.4,clear
+445,Soyabean,Dhamngaon-Railway,2016-10-03,3500.0,110.0,29.4,clear
+446,Soyabean,Nanggaon,2016-10-03,3357.0,5.0,29.4,clear
+447,Soyabean,Achalpur,2016-04-05,3800.0,20.0,37.4,clear
+448,Soyabean,Amarawati,2016-04-05,3580.0,252.0,37.4,clear
+449,Soyabean,Anajngaon,2016-04-05,3500.0,24.0,37.4,clear
+450,Soyabean,Chandur Railway,2016-04-05,3680.0,9.0,37.4,clear
+451,Soyabean,Dhamngaon-Railway,2016-04-05,3500.0,105.0,37.4,clear
+452,Soyabean,Morshi,2016-04-05,3159.0,5.0,37.4,clear
+453,Soyabean,Nanggaon,2016-04-05,3286.0,9.0,37.4,clear
+454,Soyabean,Achalpur,2016-05-05,3940.0,38.0,38.6,clear
+455,Soyabean,Amarawati,2016-05-05,3625.0,344.0,38.6,clear
+456,Soyabean,Chandur Railway,2016-05-05,3650.0,11.0,38.6,clear
+457,Soyabean,Nanggaon,2016-05-05,3251.0,1.0,38.6,clear
+458,Soyabean,Varud(Rajura Bazar),2016-05-05,3388.0,0.0,38.6,clear
+459,Soyabean,Achalpur,2016-06-05,3900.0,280.0,29.0,clear
+460,Soyabean,Amarawati,2016-06-05,3550.0,0.0,29.0,clear
+461,Soyabean,Anajngaon,2016-06-05,3500.0,5.0,29.0,clear
+462,Soyabean,Chandur Railway,2016-06-05,3700.0,3.0,29.0,clear
+463,Soyabean,Daryapur,2016-06-05,3450.0,2.0,29.0,clear
+464,Soyabean,Nanggaon,2016-06-05,3251.0,3.0,29.0,clear
+465,Soyabean,Achalpur,2016-07-05,3850.0,60.0,27.4,clear
+466,Soyabean,Chandur Railway,2016-07-05,3800.0,7.0,27.4,clear
+467,Soyabean,Daryapur,2016-07-05,3794.0,5.0,27.4,clear
+468,Soyabean,Dhamngaon-Railway,2016-07-05,3900.0,90.0,27.4,clear
+469,Soyabean,Morshi,2016-07-05,3247.0,4.0,27.4,clear
+470,Soyabean,Nanggaon,2016-07-05,3205.0,4.0,27.4,clear
+471,Soyabean,Achalpur,2016-09-05,3825.0,93.0,30.0,clear
+472,Soyabean,Achalpur,2016-10-05,3825.0,20.0,30.6,clear
+473,Soyabean,Amarawati,2016-10-05,3550.0,0.0,30.6,clear
+474,Soyabean,Chandur Railway,2016-10-05,3700.0,9.0,30.6,clear
+475,Soyabean,Daryapur,2016-10-05,3565.0,10.0,30.6,clear
+476,Soyabean,Dhamngaon-Railway,2016-10-05,3650.0,100.0,30.6,clear
+477,Soyabean,Nanggaon,2016-10-05,3401.0,7.0,30.6,clear
+478,Soyabean,Achalpur,2016-05-18,3850.0,40.0,44.0,clear
+479,Soyabean,Nanggaon,2016-05-18,3231.0,4.0,44.0,clear
+480,Soyabean,Achalpur,2016-05-19,3600.0,100.0,42.6,clear
+481,Soyabean,Amarawati,2016-05-19,3300.0,256.0,42.6,clear
+482,Soyabean,Dhamngaon-Railway,2016-05-19,3550.0,120.0,42.6,clear
+483,Soyabean,Nanggaon,2016-05-19,3200.0,7.0,42.6,clear
+484,Soyabean,Varud(Rajura Bazar),2016-05-19,3544.0,1.0,42.6,clear
+485,Soyabean,Achalpur,2016-05-20,3900.0,33.0,44.8,clear
+486,Soyabean,Anajngaon,2016-05-20,3450.0,9.0,44.8,clear
+487,Soyabean,Chandur Railway,2016-05-20,3675.0,13.0,44.8,clear
+488,Soyabean,Daryapur,2016-05-20,3575.0,9.0,44.8,clear
+489,Soyabean,Nanggaon,2016-05-20,3221.0,9.0,44.8,clear
+490,Soyabean,Achalpur,2016-05-21,3625.0,116.0,43.2,clear
+491,Soyabean,Dhamngaon-Railway,2016-05-21,3750.0,175.0,43.2,clear
+492,Soyabean,Morshi,2016-05-21,3244.0,4.0,43.2,clear
+493,Soyabean,Achalpur,2016-05-23,3625.0,24.0,41.8,clear
+494,Soyabean,Amarawati,2016-05-23,3350.0,255.0,41.8,clear
+495,Soyabean,Chandur Railway,2016-05-23,3600.0,11.0,41.8,clear
+496,Soyabean,Daryapur,2016-05-23,3650.0,4.0,41.8,clear
+497,Soyabean,Dhamngaon-Railway,2016-05-23,3500.0,100.0,41.8,clear
+498,Soyabean,Nanggaon,2016-05-23,3250.0,12.0,41.8,clear
+499,Soyabean,Achalpur,2016-05-24,3600.0,40.0,42.0,clear
+500,Soyabean,Amarawati,2016-05-24,3425.0,248.0,42.0,clear
+501,Soyabean,Chandur Railway,2016-05-24,3550.0,2.0,42.0,clear
+502,Soyabean,Daryapur,2016-05-24,3500.0,8.0,42.0,clear
+503,Soyabean,Nanggaon,2016-05-24,3250.0,6.0,42.0,clear
+504,Soyabean,Achalpur,2016-05-25,3625.0,10.0,41.0,clear
+505,Soyabean,Amarawati,2016-05-25,3275.0,408.0,41.0,clear
+506,Soyabean,Anajngaon,2016-05-25,3400.0,5.0,41.0,clear
+507,Soyabean,Chandur Railway,2016-05-25,3575.0,5.0,41.0,clear
+508,Soyabean,Daryapur,2016-05-25,3600.0,2.0,41.0,clear
+509,Soyabean,Morshi,2016-05-25,3229.0,4.0,41.0,clear
+510,Soyabean,Nanggaon,2016-05-25,3275.0,7.0,41.0,clear
+511,Soyabean,Achalpur,2016-05-26,3610.0,100.0,41.0,clear
+512,Soyabean,Anajngaon,2016-05-26,3450.0,5.0,41.0,clear
+513,Soyabean,Chandur Railway,2016-05-26,3500.0,4.0,41.0,clear
+514,Soyabean,Dhamngaon-Railway,2016-05-26,3850.0,200.0,41.0,clear
+515,Soyabean,Dharni,2016-05-26,3750.0,10.0,41.0,clear
+516,Soyabean,Nanggaon,2016-05-26,3150.0,0.0,41.0,clear
+517,Soyabean,Varud(Rajura Bazar),2016-05-26,3464.0,1.0,41.0,clear
+518,Soyabean,Achalpur,2016-05-28,3800.0,0.0,40.4,clear
+519,Soyabean,Amarawati,2016-05-28,3260.0,220.0,40.4,clear
+520,Soyabean,Chandur Railway,2016-05-28,3650.0,7.0,40.4,clear
+521,Soyabean,Daryapur,2016-05-28,3685.0,9.0,40.4,clear
+522,Soyabean,Morshi,2016-05-28,3241.0,6.0,40.4,clear
+523,Soyabean,Nanggaon,2016-05-28,3250.0,2.0,40.4,clear
+524,Soyabean,Achalpur,2016-05-30,3650.0,65.0,39.6,clear
+525,Soyabean,Amarawati,2016-05-30,3350.0,361.0,39.6,clear
+526,Soyabean,Chandur Railway,2016-05-30,3560.0,5.0,39.6,clear
+527,Soyabean,Daryapur,2016-05-30,3500.0,12.0,39.6,clear
+528,Soyabean,Dhamngaon-Railway,2016-05-30,3550.0,100.0,39.6,clear
+529,Soyabean,Nanggaon,2016-05-30,3250.0,3.0,39.6,clear
+530,Soyabean,Varud(Rajura Bazar),2016-05-30,3457.0,1.0,39.6,clear
+531,Soyabean,Achalpur,2016-02-06,3450.0,110.0,31.4,clear
+532,Soyabean,Amarawati,2016-02-06,3226.0,229.0,31.4,clear
+533,Soyabean,Chandur Railway,2016-02-06,3500.0,2.0,31.4,clear
+534,Soyabean,Nanggaon,2016-02-06,3100.0,2.0,31.4,clear
+535,Soyabean,Varud(Rajura Bazar),2016-02-06,3350.0,2.0,31.4,clear
+536,Soyabean,Achalpur,2016-04-06,3550.0,10.0,38.4,clear
+537,Soyabean,Amarawati,2016-04-06,3367.0,298.0,38.4,clear
+538,Soyabean,Chandur Railway,2016-04-06,3500.0,4.0,38.4,clear
+539,Soyabean,Daryapur,2016-04-06,3475.0,13.0,38.4,clear
+540,Soyabean,Morshi,2016-04-06,3247.0,10.0,38.4,clear
+541,Soyabean,Nanggaon,2016-04-06,3245.0,10.0,38.4,clear
+542,Soyabean,Achalpur,2016-06-06,3600.0,20.0,40.0,clear
+543,Soyabean,Amarawati,2016-06-06,3362.0,370.0,40.0,clear
+544,Soyabean,Chandur Railway,2016-06-06,3580.0,10.0,40.0,clear
+545,Soyabean,Daryapur,2016-06-06,3550.0,17.0,40.0,clear
+546,Soyabean,Dhamngaon-Railway,2016-06-06,3650.0,170.0,40.0,clear
+547,Soyabean,Nanggaon,2016-06-06,3265.0,7.0,40.0,clear
+548,Soyabean,Achalpur,2016-07-06,3600.0,20.0,27.6,clear
+549,Soyabean,Amarawati,2016-07-06,3350.0,303.0,27.6,clear
+550,Soyabean,Chandur Railway,2016-07-06,3500.0,5.0,27.6,clear
+551,Soyabean,Nanggaon,2016-07-06,3551.0,3.0,27.6,clear
+552,Soyabean,Achalpur,2016-08-06,3600.0,10.0,28.2,clear
+553,Soyabean,Amarawati,2016-08-06,3355.0,241.0,28.2,clear
+554,Soyabean,Anajngaon,2016-08-06,3600.0,8.0,28.2,clear
+555,Soyabean,Chandur Railway,2016-08-06,3488.0,5.0,28.2,clear
+556,Soyabean,Daryapur,2016-08-06,3655.0,10.0,28.2,clear
+557,Soyabean,Dhamngaon-Railway,2016-08-06,3650.0,160.0,28.2,clear
+558,Soyabean,Morshi,2016-08-06,3253.0,10.0,28.2,clear
+559,Soyabean,Nanggaon,2016-08-06,3300.0,13.0,28.2,clear
+560,Soyabean,Achalpur,2016-10-06,3600.0,50.0,29.8,clear
+561,Soyabean,Amarawati,2016-10-06,3350.0,324.0,29.8,clear
+562,Soyabean,Anajngaon,2016-10-06,3500.0,10.0,29.8,clear
+563,Soyabean,Chandur Railway,2016-10-06,3625.0,6.0,29.8,clear
+564,Soyabean,Daryapur,2016-10-06,3500.0,12.0,29.8,clear
+565,Soyabean,Dhamngaon-Railway,2016-10-06,3755.0,200.0,29.8,clear
+566,Soyabean,Nanggaon,2016-10-06,3311.0,15.0,29.8,clear
+567,Soyabean,Achalpur,2016-11-06,3620.0,27.0,29.2,clear
+568,Soyabean,Amarawati,2016-11-06,3375.0,234.0,29.2,clear
+569,Soyabean,Chandur Railway,2016-11-06,3525.0,4.0,29.2,clear
+570,Soyabean,Daryapur,2016-11-06,3505.0,6.0,29.2,clear
+571,Soyabean,Dhamngaon-Railway,2016-11-06,3775.0,150.0,29.2,clear
+572,Soyabean,Morshi,2016-11-06,3365.0,6.0,29.2,clear
+573,Soyabean,Nanggaon,2016-11-06,3250.0,16.0,29.2,clear
+574,Soyabean,Achalpur,2016-06-13,3675.0,50.0,39.6,clear
+575,Soyabean,Amarawati,2016-06-13,3407.0,247.0,39.6,clear
+576,Soyabean,Chandur Railway,2016-06-13,3600.0,9.0,39.6,clear
+577,Soyabean,Daryapur,2016-06-13,3650.0,10.0,39.6,clear
+578,Soyabean,Nanggaon,2016-06-13,3406.0,4.0,39.6,clear
+579,Soyabean,Achalpur,2016-06-14,3700.0,19.0,38.6,clear
+580,Soyabean,Amarawati,2016-06-14,3375.0,224.0,38.6,clear
+581,Soyabean,Chandur Railway,2016-06-14,3550.0,10.0,38.6,clear
+582,Soyabean,Daryapur,2016-06-14,3800.0,3.0,38.6,clear
+583,Soyabean,Nanggaon,2016-06-14,3250.0,4.0,38.6,clear
+584,Soyabean,Achalpur,2016-06-15,3600.0,60.0,38.4,clear
+585,Soyabean,Amarawati,2016-06-15,3325.0,239.0,38.4,clear
+586,Soyabean,Anajngaon,2016-06-15,3400.0,13.0,38.4,clear
+587,Soyabean,Chandur Railway,2016-06-15,3400.0,2.0,38.4,clear
+588,Soyabean,Daryapur,2016-06-15,3450.0,2.0,38.4,clear
+589,Soyabean,Dhamngaon-Railway,2016-06-15,3550.0,100.0,38.4,clear
+590,Soyabean,Morshi,2016-06-15,3400.0,5.0,38.4,clear
+591,Soyabean,Achalpur,2016-06-16,3750.0,100.0,37.8,clear
+592,Soyabean,Amarawati,2016-06-16,3389.0,145.0,37.8,clear
+593,Soyabean,Chandur Railway,2016-06-16,3520.0,6.0,37.8,clear
+594,Soyabean,Dhamngaon-Railway,2016-06-16,3725.0,150.0,37.8,clear
+595,Soyabean,Nanggaon,2016-06-16,3300.0,2.0,37.8,clear
+596,Soyabean,Varud(Rajura Bazar),2016-06-16,3634.0,4.0,37.8,clear
+597,Soyabean,Achalpur,2016-06-17,3750.0,45.0,31.0,clear
+598,Soyabean,Amarawati,2016-06-17,3346.0,113.0,31.0,clear
+599,Soyabean,Anajngaon,2016-06-17,3400.0,18.0,31.0,clear
+600,Soyabean,Chandur Railway,2016-06-17,3448.0,3.0,31.0,clear
+601,Soyabean,Nanggaon,2016-06-17,3501.0,3.0,31.0,clear
+602,Soyabean,Achalpur,2016-06-18,3700.0,20.0,25.2,clear
+603,Soyabean,Amarawati,2016-06-18,3345.0,151.0,25.2,clear
+604,Soyabean,Chandur Railway,2016-06-18,3560.0,7.0,25.2,clear
+605,Soyabean,Daryapur,2016-06-18,3570.0,9.0,25.2,clear
+606,Soyabean,Dhamngaon-Railway,2016-06-18,3700.0,123.0,25.2,clear
+607,Soyabean,Morshi,2016-06-18,3450.0,8.0,25.2,clear
+608,Soyabean,Nanggaon,2016-06-18,3587.0,8.0,25.2,clear
+609,Soyabean,Achalpur,2016-06-20,3800.0,3.0,33.2,clear
+610,Soyabean,Amarawati,2016-06-20,3356.0,220.0,33.2,clear
+611,Soyabean,Chandur Railway,2016-06-20,3500.0,5.0,33.2,clear
+612,Soyabean,Daryapur,2016-06-20,3450.0,5.0,33.2,clear
+613,Soyabean,Nanggaon,2016-06-20,3251.0,8.0,33.2,clear
+614,Soyabean,Achalpur,2016-06-21,3800.0,20.0,36.4,clear
+615,Soyabean,Amarawati,2016-06-21,3350.0,178.0,36.4,clear
+616,Soyabean,Chandur Railway,2016-06-21,3475.0,1.0,36.4,clear
+617,Soyabean,Daryapur,2016-06-21,3600.0,3.0,36.4,clear
+618,Soyabean,Dhamngaon-Railway,2016-06-21,3550.0,60.0,36.4,clear
+619,Soyabean,Nanggaon,2016-06-21,3161.0,4.0,36.4,clear
+620,Soyabean,Achalpur,2016-06-22,4000.0,1.0,37.2,clear
+621,Soyabean,Amarawati,2016-06-22,3275.0,109.0,37.2,clear
+622,Soyabean,Anajngaon,2016-06-22,3700.0,29.0,37.2,clear
+623,Soyabean,Chandur Railway,2016-06-22,3560.0,5.0,37.2,clear
+624,Soyabean,Daryapur,2016-06-22,3590.0,7.0,37.2,clear
+625,Soyabean,Morshi,2016-06-22,3467.0,7.0,37.2,clear
+626,Soyabean,Nanggaon,2016-06-22,3230.0,4.0,37.2,clear
+627,Soyabean,Achalpur,2016-06-23,3625.0,110.0,30.8,clear
+628,Soyabean,Amarawati,2016-06-23,3380.0,149.0,30.8,clear
+629,Soyabean,Chandur Railway,2016-06-23,3600.0,0.0,30.8,clear
+630,Soyabean,Dhamngaon-Railway,2016-06-23,3650.0,100.0,30.8,clear
+631,Soyabean,Nanggaon,2016-06-23,3250.0,4.0,30.8,clear
+632,Soyabean,Varud(Rajura Bazar),2016-06-23,3560.0,2.0,30.8,clear
+633,Soyabean,Achalpur,2016-06-24,3600.0,50.0,34.4,clear
+634,Soyabean,Amarawati,2016-06-24,3385.0,71.0,34.4,clear
+635,Soyabean,Anajngaon,2016-06-24,3450.0,27.0,34.4,clear
+636,Soyabean,Chandur Railway,2016-06-24,3500.0,0.0,34.4,clear
+637,Soyabean,Daryapur,2016-06-24,3580.0,7.0,34.4,clear
+638,Soyabean,Morshi,2016-06-24,3143.0,10.0,34.4,clear
+639,Soyabean,Nanggaon,2016-06-24,3351.0,1.0,34.4,clear
+640,Soyabean,Achalpur,2016-06-25,3650.0,20.0,32.8,clear
+641,Soyabean,Amarawati,2016-06-25,3388.0,112.0,32.8,clear
+642,Soyabean,Chandur Railway,2016-06-25,3500.0,5.0,32.8,clear
+643,Soyabean,Daryapur,2016-06-25,3570.0,3.0,32.8,clear
+644,Soyabean,Dhamngaon-Railway,2016-06-25,3650.0,40.0,32.8,clear
+645,Soyabean,Morshi,2016-06-25,3496.0,8.0,32.8,clear
+646,Soyabean,Nanggaon,2016-06-25,3181.0,2.0,32.8,clear
+647,Soyabean,Achalpur,2016-06-27,3700.0,20.0,26.4,clear
+648,Soyabean,Amarawati,2016-06-27,3407.0,123.0,26.4,clear
+649,Soyabean,Chandur Railway,2016-06-27,3500.0,0.0,26.4,clear
+650,Soyabean,Daryapur,2016-06-27,3205.0,1.0,26.4,clear
+651,Soyabean,Nanggaon,2016-06-27,3325.0,4.0,26.4,clear
+652,Soyabean,Achalpur,2016-06-30,3625.0,100.0,29.0,clear
+653,Soyabean,Amarawati,2016-06-30,3330.0,106.0,29.0,clear
+654,Soyabean,Chandur Railway,2016-06-30,3522.0,1.0,29.0,clear
+655,Soyabean,Dhamngaon-Railway,2016-06-30,3550.0,100.0,29.0,clear
+656,Soyabean,Nanggaon,2016-06-30,3200.0,2.0,29.0,clear
+657,Soyabean,Varud(Rajura Bazar),2016-06-30,3457.0,1.0,29.0,clear
+658,Soyabean,Achalpur,2016-01-07,3600.0,100.0,29.4,clear
+659,Soyabean,Amarawati,2016-01-07,3462.0,117.0,29.4,clear
+660,Soyabean,Anajngaon,2016-01-07,3400.0,20.0,29.4,clear
+661,Soyabean,Chandur Railway,2016-01-07,3487.0,6.0,29.4,clear
+662,Soyabean,Daryapur,2016-01-07,3600.0,2.0,29.4,clear
+663,Soyabean,Nanggaon,2016-01-07,3201.0,5.0,29.4,clear
+664,Soyabean,Achalpur,2016-02-07,3675.0,25.0,31.0,clear
+665,Soyabean,Amarawati,2016-02-07,3438.0,85.0,31.0,clear
+666,Soyabean,Chandur Railway,2016-02-07,3585.0,3.0,31.0,clear
+667,Soyabean,Daryapur,2016-02-07,3250.0,2.0,31.0,clear
+668,Soyabean,Dhamngaon-Railway,2016-02-07,3550.0,45.0,31.0,clear
+669,Soyabean,Morshi,2016-02-07,3400.0,4.0,31.0,clear
+670,Soyabean,Nanggaon,2016-02-07,3226.0,6.0,31.0,clear
+671,Soyabean,Achalpur,2016-05-07,3650.0,20.0,37.2,clear
+672,Soyabean,Amarawati,2016-05-07,3350.0,186.0,37.2,clear
+673,Soyabean,Chandur Railway,2016-05-07,3500.0,3.0,37.2,clear
+674,Soyabean,Daryapur,2016-05-07,3470.0,5.0,37.2,clear
+675,Soyabean,Dhamngaon-Railway,2016-05-07,3650.0,90.0,37.2,clear
+676,Soyabean,Nanggaon,2016-05-07,3250.0,4.0,37.2,clear
+677,Soyabean,Achalpur,2016-06-07,3550.0,18.0,40.2,clear
+678,Soyabean,Morshi,2016-06-07,3411.0,5.0,40.2,clear
+679,Soyabean,Achalpur,2016-07-07,3500.0,110.0,28.4,clear
+680,Soyabean,Amarawati,2016-07-07,3346.0,87.0,28.4,clear
+681,Soyabean,Chandur Railway,2016-07-07,3250.0,0.0,28.4,clear
+682,Soyabean,Dhamngaon-Railway,2016-07-07,3550.0,35.0,28.4,clear
+683,Soyabean,Nanggaon,2016-07-07,3150.0,1.0,28.4,clear
+684,Soyabean,Varud(Rajura Bazar),2016-07-07,3617.0,2.0,28.4,clear
+685,Soyabean,Achalpur,2016-08-07,3600.0,40.0,25.4,clear
+686,Soyabean,Achalpur,2016-09-07,3550.0,40.0,30.2,clear
+687,Soyabean,Chandur Railway,2016-09-07,3430.0,1.0,30.2,clear
+688,Soyabean,Daryapur,2016-09-07,3345.0,3.0,30.2,clear
+689,Soyabean,Nanggaon,2016-09-07,3101.0,5.0,30.2,clear
+690,Soyabean,Achalpur,2016-11-07,3600.0,18.0,30.6,clear
+691,Soyabean,Achalpur,2016-07-21,3350.0,50.0,28.6,clear
+692,Soyabean,Chandur Railway,2016-07-21,3385.0,4.0,28.6,clear
+693,Soyabean,Nanggaon,2016-07-21,3332.0,1.0,28.6,clear
+694,Soyabean,Varud(Rajura Bazar),2016-07-21,3720.0,7.0,28.6,clear
+695,Soyabean,Achalpur,2016-07-28,3475.0,55.0,30.2,clear
+696,Soyabean,Amarawati,2016-07-28,3425.0,28.0,30.2,clear
+697,Soyabean,Chandur Railway,2016-07-28,3200.0,2.0,30.2,clear
+698,Soyabean,Nanggaon,2016-07-28,3350.0,5.0,30.2,clear
+699,Soyabean,Varud(Rajura Bazar),2016-07-28,3372.0,9.0,30.2,clear
+700,Soyabean,Achalpur,2016-07-29,3400.0,100.0,28.4,clear
+701,Soyabean,Amarawati,2016-07-29,3200.0,57.0,28.4,clear
+702,Soyabean,Anajngaon,2016-07-29,3200.0,5.0,28.4,clear
+703,Soyabean,Chandur Railway,2016-07-29,3100.0,0.0,28.4,clear
+704,Soyabean,Nanggaon,2016-07-29,3330.0,1.0,28.4,clear
+705,Soyabean,Achalpur,2016-04-08,3350.0,30.0,40.6,clear
+706,Soyabean,Amarawati,2016-04-08,3425.0,114.0,40.6,clear
+707,Soyabean,Nanggaon,2016-04-08,3200.0,1.0,40.6,clear
+708,Soyabean,Achalpur,2016-08-08,3375.0,3.0,25.6,clear
+709,Soyabean,Amarawati,2016-08-08,3437.0,79.0,25.6,clear
+710,Soyabean,Dhamngaon-Railway,2016-08-08,3200.0,40.0,25.6,clear
+711,Soyabean,Nanggaon,2016-08-08,3250.0,1.0,25.6,clear
+712,Soyabean,Achalpur,2016-11-08,3450.0,15.0,30.4,clear
+713,Soyabean,Amarawati,2016-11-08,3425.0,122.0,30.4,clear
+714,Soyabean,Chandur Railway,2016-11-08,3285.0,1.0,30.4,clear
+715,Soyabean,Nanggaon,2016-11-08,3225.0,1.0,30.4,clear
+716,Soyabean,Varud(Rajura Bazar),2016-11-08,3403.0,2.0,30.4,clear
+717,Soyabean,Achalpur,2016-12-08,3400.0,177.0,28.6,clear
+718,Soyabean,Amarawati,2016-12-08,3405.0,132.0,28.6,clear
+719,Soyabean,Anajngaon,2016-12-08,3200.0,4.0,28.6,clear
+720,Soyabean,Chandur Railway,2016-12-08,3200.0,1.0,28.6,clear
+721,Soyabean,Dhamngaon-Railway,2016-12-08,3250.0,175.0,28.6,clear
+722,Soyabean,Nanggaon,2016-12-08,3155.0,2.0,28.6,clear
+723,Soyabean,Achalpur,2016-08-19,3300.0,50.0,28.2,clear
+724,Soyabean,Amarawati,2016-08-19,3245.0,199.0,28.2,clear
+725,Soyabean,Anajngaon,2016-08-19,3200.0,8.0,28.2,clear
+726,Soyabean,Chandur Railway,2016-08-19,3200.0,4.0,28.2,clear
+727,Soyabean,Daryapur,2016-08-19,3220.0,13.0,28.2,clear
+728,Soyabean,Nanggaon,2016-08-19,3175.0,3.0,28.2,clear
+729,Soyabean,Achalpur,2016-08-25,3300.0,35.0,31.6,clear
+730,Soyabean,Amarawati,2016-08-25,3088.0,70.0,31.6,clear
+731,Soyabean,Chandur Railway,2016-08-25,3170.0,1.0,31.6,clear
+732,Soyabean,Nanggaon,2016-08-25,2922.0,2.0,31.6,clear
+733,Soyabean,Varud(Rajura Bazar),2016-08-25,3317.0,1.0,31.6,clear
+734,Soyabean,Achalpur,2016-08-26,3350.0,30.0,32.2,clear
+735,Soyabean,Amarawati,2016-08-26,3276.0,88.0,32.2,clear
+736,Soyabean,Anajngaon,2016-08-26,3000.0,4.0,32.2,clear
+737,Soyabean,Chandur Railway,2016-08-26,3140.0,2.0,32.2,clear
+738,Soyabean,Daryapur,2016-08-26,3085.0,13.0,32.2,clear
+739,Soyabean,Dhamngaon-Railway,2016-08-26,3160.0,60.0,32.2,clear
+740,Soyabean,Nanggaon,2016-08-26,3000.0,0.0,32.2,clear
+741,Soyabean,Achalpur,2016-08-30,3200.0,23.0,29.0,clear
+742,Soyabean,Amarawati,2016-08-30,2975.0,68.0,29.0,clear
+743,Soyabean,Nanggaon,2016-08-30,2965.0,3.0,29.0,clear
+744,Soyabean,Achalpur,2016-01-09,3100.0,25.0,30.0,clear
+745,Soyabean,Achalpur,2016-08-09,3025.0,15.0,28.0,clear
+746,Soyabean,Amarawati,2016-08-09,3012.0,59.0,28.0,clear
+747,Soyabean,Chandur Railway,2016-08-09,3100.0,0.0,28.0,clear
+748,Soyabean,Dharni,2016-08-09,7750.0,5.0,28.0,clear
+749,Soyabean,Nanggaon,2016-08-09,3075.0,0.0,28.0,clear
+750,Soyabean,Varud(Rajura Bazar),2016-08-09,3150.0,1.0,28.0,clear
+751,Soyabean,Achalpur,2016-09-09,3050.0,50.0,30.2,clear
+752,Soyabean,Achalpur,2016-12-09,3050.0,15.0,29.0,clear
+753,Soyabean,Amarawati,2016-12-09,3100.0,25.0,29.0,clear
+754,Soyabean,Daryapur,2016-12-09,2950.0,4.0,29.0,clear
+755,Soyabean,Nanggaon,2016-12-09,2995.0,0.0,29.0,clear
+756,Soyabean,Achalpur,2016-09-15,3050.0,25.0,26.6,clear
+757,Soyabean,Amarawati,2016-09-15,3012.0,15.0,26.6,clear
+758,Soyabean,Chandur Railway,2016-09-15,3111.0,1.0,26.6,clear
+759,Soyabean,Nanggaon,2016-09-15,2975.0,0.0,26.6,clear
+760,Soyabean,Varud(Rajura Bazar),2016-09-15,3318.0,1.0,26.6,clear
+761,Soyabean,Achalpur,2016-09-22,3175.0,25.0,32.0,clear
+762,Soyabean,Achalpur,2016-09-29,3077.0,40.0,31.6,clear
+763,Soyabean,Chandur Railway,2016-09-29,3020.0,1.0,31.6,clear
+764,Soyabean,Dhamngaon-Railway,2016-09-29,2900.0,30.0,31.6,clear
+765,Soyabean,Nanggaon,2016-09-29,2880.0,2.0,31.6,clear
+766,Soyabean,Achalpur,2016-09-30,3000.0,40.0,27.4,clear
+767,Soyabean,Achalpur,2016-01-10,3050.0,45.0,29.8,clear
+768,Soyabean,Amarawati,2016-01-10,2965.0,105.0,29.8,clear
+769,Soyabean,Daryapur,2016-01-10,2800.0,26.0,29.8,clear
+770,Soyabean,Achalpur,2016-03-10,3000.0,18.0,38.0,clear
+771,Soyabean,Amarawati,2016-03-10,3050.0,96.0,38.0,clear
+772,Soyabean,Chandur Railway,2016-03-10,3125.0,0.0,38.0,clear
+773,Soyabean,Nanggaon,2016-03-10,2762.0,1.0,38.0,clear
+774,Soyabean,Achalpur,2016-04-10,2950.0,15.0,40.2,clear
+775,Soyabean,Amarawati,2016-04-10,3000.0,109.0,40.2,clear
+776,Soyabean,Achalpur,2016-05-10,3000.0,45.0,38.6,clear
+777,Soyabean,Amarawati,2016-05-10,3010.0,228.0,38.6,clear
+778,Soyabean,Chandur Railway,2016-05-10,2900.0,0.0,38.6,clear
+779,Soyabean,Morshi,2016-05-10,2780.0,8.0,38.6,clear
+780,Soyabean,Achalpur,2016-06-10,2925.0,60.0,35.8,clear
+781,Soyabean,Achalpur,2016-08-10,2850.0,20.0,27.6,clear
+782,Soyabean,Amarawati,2016-08-10,3030.0,457.0,27.6,clear
+783,Soyabean,Achalpur,2016-10-10,2885.0,40.0,26.8,clear
+784,Soyabean,Amarawati,2016-10-10,3012.0,529.0,26.8,clear
+785,Soyabean,Achalpur,2016-10-13,2788.0,80.0,31.4,clear
+786,Sunflower,Amarawati,2016-10-13,5750.0,144.0,31.4,clear
+787,Soyabean,Achalpur,2016-10-19,2720.0,40.0,28.2,clear
+788,Soyabean,Amarawati,2016-10-19,2450.0,1706.0,28.2,clear
+789,Soyabean,Anajngaon,2016-10-19,2250.0,475.0,28.2,clear
+790,Soyabean,Chandur Bazar,2016-10-19,2714.0,372.0,28.2,clear
+791,Soyabean,Chandur Railway,2016-10-19,2500.0,38.0,28.2,clear
+792,Soyabean,Daryapur,2016-10-19,2360.0,109.0,28.2,clear
+793,Soyabean,Dhamngaon-Railway,2016-10-19,2450.0,82.0,28.2,clear
+794,Soyabean,Dharni,2016-10-19,2600.0,15.0,28.2,clear
+795,Soyabean,Morshi,2016-10-19,2514.0,160.0,28.2,clear
+796,Soyabean,Nanggaon,2016-10-19,2350.0,59.0,28.2,clear
+797,Soyabean,Achalpur,2016-10-20,2695.0,200.0,27.6,clear
+798,Soyabean,Amarawati,2016-10-20,2416.0,1353.0,27.6,clear
+799,Soyabean,Chandur Railway,2016-10-20,2500.0,50.0,27.6,clear
+800,Soyabean,Dhamngaon-Railway,2016-10-20,2250.0,110.0,27.6,clear
+801,Soyabean,Dharni,2016-10-20,2550.0,42.0,27.6,clear
+802,Soyabean,Nanggaon,2016-10-20,2530.0,40.0,27.6,clear
+803,Soyabean,Varud(Rajura Bazar),2016-10-20,2768.0,14.0,27.6,clear
+804,Soyabean,Achalpur,2016-10-21,2700.0,200.0,29.2,clear
+805,Soyabean,Amarawati,2016-10-21,2375.0,,29.2,clear
+806,Soyabean,Anajngaon,2016-10-21,2300.0,380.0,29.2,clear
+807,Soyabean,Daryapur,2016-10-21,2700.0,195.0,29.2,clear
+808,Soyabean,Dhamngaon-Railway,2016-10-21,2500.0,125.0,29.2,clear
+809,Soyabean,Morshi,2016-10-21,2569.0,44.0,29.2,clear
+810,Soyabean,Nanggaon,2016-10-21,2576.0,62.0,29.2,clear
+811,Soyabean,Achalpur,2016-10-24,2730.0,150.0,27.6,clear
+812,Soyabean,Amarawati,2016-10-24,2400.0,,27.6,clear
+813,Soyabean,Chandur Railway,2016-10-24,2580.0,90.0,27.6,clear
+814,Soyabean,Daryapur,2016-10-24,2650.0,280.0,27.6,clear
+815,Soyabean,Dhamngaon-Railway,2016-10-24,2450.0,210.0,27.6,clear
+816,Soyabean,Dharni,2016-10-24,2450.0,35.0,27.6,clear
+817,Soyabean,Nanggaon,2016-10-24,2501.0,160.0,27.6,clear
+818,Sunflower,Amarawati,2016-10-24,5625.0,0.0,27.6,clear
+819,Soyabean,Achalpur,2016-10-25,2700.0,50.0,22.8,clear
+820,Soyabean,Amarawati,2016-10-25,2495.0,2095.0,22.8,clear
+821,Soyabean,Chandur Railway,2016-10-25,2550.0,80.0,22.8,clear
+822,Soyabean,Daryapur,2016-10-25,2650.0,209.0,22.8,clear
+823,Soyabean,Dhamngaon-Railway,2016-10-25,2550.0,220.0,22.8,clear
+824,Soyabean,Dharni,2016-10-25,2550.0,11.0,22.8,clear
+825,Soyabean,Nanggaon,2016-10-25,2376.0,130.0,22.8,clear
+826,Soyabean,Achalpur,2016-10-26,2775.0,70.0,30.2,clear
+827,Soyabean,Amarawati,2016-10-26,2597.0,2005.0,30.2,clear
+828,Soyabean,Anajngaon,2016-10-26,2500.0,304.0,30.2,clear
+829,Soyabean,Chandur Bazar,2016-10-26,3010.0,498.0,30.2,clear
+830,Soyabean,Chandur Railway,2016-10-26,2550.0,75.0,30.2,clear
+831,Soyabean,Daryapur,2016-10-26,2550.0,189.0,30.2,clear
+832,Soyabean,Dhamngaon-Railway,2016-10-26,2450.0,160.0,30.2,clear
+833,Soyabean,Dharni,2016-10-26,2550.0,46.0,30.2,clear
+834,Soyabean,Morshi,2016-10-26,2675.0,159.0,30.2,clear
+835,Soyabean,Nanggaon,2016-10-26,2550.0,83.0,30.2,clear
+836,Soyabean,Achalpur,2016-02-11,2750.0,25.0,33.0,clear
+837,Soyabean,Amarawati,2016-02-11,2596.0,,33.0,clear
+838,Soyabean,Anajngaon,2016-02-11,2400.0,127.0,33.0,clear
+839,Soyabean,Chandur Bazar,2016-02-11,2785.0,350.0,33.0,clear
+840,Soyabean,Chandur Railway,2016-02-11,2640.0,48.0,33.0,clear
+841,Soyabean,Dhamngaon-Railway,2016-02-11,2775.0,2.0,33.0,clear
+842,Soyabean,Morshi,2016-02-11,2710.0,103.0,33.0,clear
+843,Soyabean,Nanggaon,2016-02-11,2465.0,67.0,33.0,clear
+844,Sunflower,Amarawati,2016-02-11,5531.0,0.0,33.0,clear
+845,Soyabean,Achalpur,2016-03-11,2775.0,200.0,38.2,clear
+846,Soyabean,Amarawati,2016-03-11,2563.0,,38.2,clear
+847,Soyabean,Chandur Railway,2016-03-11,2700.0,93.0,38.2,clear
+848,Soyabean,Dhamngaon-Railway,2016-03-11,2450.0,120.0,38.2,clear
+849,Soyabean,Dharni,2016-03-11,2650.0,26.0,38.2,clear
+850,Soyabean,Nanggaon,2016-03-11,2650.0,101.0,38.2,clear
+851,Soyabean,Achalpur,2016-04-11,2750.0,150.0,40.8,clear
+852,Soyabean,Amarawati,2016-04-11,2512.0,1693.0,40.8,clear
+853,Soyabean,Anajngaon,2016-04-11,2550.0,184.0,40.8,clear
+854,Soyabean,Chandur Railway,2016-04-11,2650.0,55.0,40.8,clear
+855,Soyabean,Daryapur,2016-04-11,2750.0,191.0,40.8,clear
+856,Soyabean,Dhamngaon-Railway,2016-04-11,2550.0,140.0,40.8,clear
+857,Soyabean,Dharni,2016-04-11,2550.0,21.0,40.8,clear
+858,Soyabean,Morshi,2016-04-11,2700.0,9.0,40.8,clear
+859,Soyabean,Nanggaon,2016-04-11,2650.0,101.0,40.8,clear
+860,Soyabean,Tiwasa,2016-04-11,2450.0,70.0,40.8,clear
+861,Soyabean,Varud,2016-04-11,2636.0,22.0,40.8,clear
+862,Soyabean,Achalpur,2016-05-11,2750.0,12.0,40.4,clear
+863,Soyabean,Amarawati,2016-05-11,2475.0,,40.4,clear
+864,Soyabean,Chandur Railway,2016-05-11,2600.0,90.0,40.4,clear
+865,Soyabean,Daryapur,2016-05-11,2650.0,105.0,40.4,clear
+866,Soyabean,Nanggaon,2016-05-11,2475.0,103.0,40.4,clear
+867,Sunflower,Amarawati,2016-05-11,5466.0,0.0,40.4,clear
+868,Soyabean,Achalpur,2016-07-11,2700.0,20.0,24.2,clear
+869,Soyabean,Amarawati,2016-07-11,2325.0,,24.2,clear
+870,Soyabean,Chandur Railway,2016-07-11,2500.0,45.0,24.2,clear
+871,Soyabean,Daryapur,2016-07-11,2600.0,132.0,24.2,clear
+872,Soyabean,Dhamngaon-Railway,2016-07-11,2550.0,200.0,24.2,clear
+873,Soyabean,Dharni,2016-07-11,2550.0,13.0,24.2,clear
+874,Soyabean,Nanggaon,2016-07-11,2451.0,121.0,24.2,clear
+875,Soyabean,Varud,2016-07-11,2657.0,21.0,24.2,clear
+876,Sunflower,Amarawati,2016-07-11,5350.0,0.0,24.2,clear
+877,Soyabean,Achalpur,2016-08-11,2555.0,20.0,28.0,clear
+878,Soyabean,Amarawati,2016-08-11,2383.0,,28.0,clear
+879,Soyabean,Chandur Railway,2016-08-11,2650.0,105.0,28.0,clear
+880,Soyabean,Daryapur,2016-08-11,2500.0,29.0,28.0,clear
+881,Soyabean,Dhamngaon-Railway,2016-08-11,2550.0,250.0,28.0,clear
+882,Soyabean,Dharni,2016-08-11,2550.0,19.0,28.0,clear
+883,Soyabean,Morshi,2016-08-11,2640.0,111.0,28.0,clear
+884,Soyabean,Nanggaon,2016-08-11,2450.0,100.0,28.0,clear
+885,Soyabean,Tiwasa,2016-08-11,2450.0,48.0,28.0,clear
+886,Sunflower,Amarawati,2016-08-11,5150.0,0.0,28.0,clear
+887,Soyabean,Achalpur,2016-09-11,2600.0,16.0,29.2,clear
+888,Soyabean,Amarawati,2016-09-11,2375.0,1449.0,29.2,clear
+889,Soyabean,Chandur Bazar,2016-09-11,2651.0,175.0,29.2,clear
+890,Soyabean,Daryapur,2016-09-11,2440.0,68.0,29.2,clear
+891,Soyabean,Dharni,2016-09-11,2550.0,14.0,29.2,clear
+892,Soyabean,Morshi,2016-09-11,2605.0,146.0,29.2,clear
+893,Soyabean,Nanggaon,2016-09-11,2375.0,54.0,29.2,clear
+894,Soyabean,Achalpur,2016-10-11,2600.0,100.0,30.8,clear
+895,Soyabean,Amarawati,2016-10-11,2468.0,437.0,30.8,clear
+896,Soyabean,Dhamngaon-Railway,2016-10-11,2450.0,190.0,30.8,clear
+897,Soyabean,Nanggaon,2016-10-11,2325.0,241.0,30.8,clear
+898,Soyabean,Achalpur,2016-11-11,2636.0,15.0,27.6,clear
+899,Soyabean,Amarawati,2016-11-11,2475.0,501.0,27.6,clear
+900,Soyabean,Anajngaon,2016-11-11,2600.0,122.0,27.6,clear
+901,Soyabean,Chandur Railway,2016-11-11,2550.0,45.0,27.6,clear
+902,Soyabean,Dhamngaon-Railway,2016-11-11,2450.0,160.0,27.6,clear
+903,Soyabean,Morshi,2016-11-11,2675.0,31.0,27.6,clear
+904,Soyabean,Tiwasa,2016-11-11,2550.0,20.0,27.6,clear
+905,Soyabean,Varud,2016-11-11,2775.0,7.0,27.6,clear
+906,Sunflower,Amarawati,2016-11-11,4700.0,0.0,27.6,clear
+907,Soyabean,Achalpur,2016-11-17,2600.0,100.0,28.6,clear
+908,Soyabean,Amarawati,2016-11-17,2681.0,734.0,28.6,clear
+909,Soyabean,Chandur Railway,2016-11-17,2611.0,31.0,28.6,clear
+910,Soyabean,Dhamngaon-Railway,2016-11-17,2500.0,220.0,28.6,clear
+911,Soyabean,Nanggaon,2016-11-17,2602.0,46.0,28.6,clear
+912,Soyabean,Varud(Rajura Bazar),2016-11-17,2800.0,12.0,28.6,clear
+913,Soyabean,Achalpur,2016-11-21,2620.0,44.0,30.2,clear
+914,Soyabean,Amarawati,2016-11-21,2616.0,1154.0,30.2,clear
+915,Soyabean,Chandur Railway,2016-11-21,2550.0,70.0,30.2,clear
+916,Soyabean,Daryapur,2016-11-21,2740.0,68.0,30.2,clear
+917,Soyabean,Dhamngaon-Railway,2016-11-21,2550.0,220.0,30.2,clear
+918,Soyabean,Morshi,2016-11-21,2842.0,50.0,30.2,clear
+919,Soyabean,Nanggaon,2016-11-21,2550.0,49.0,30.2,clear
+920,Soyabean,Achalpur,2016-11-22,2625.0,8.0,30.2,clear
+921,Soyabean,Amarawati,2016-11-22,2666.0,1109.0,30.2,clear
+922,Soyabean,Daryapur,2016-11-22,2670.0,34.0,30.2,clear
+923,Soyabean,Dhamngaon-Railway,2016-11-22,2550.0,230.0,30.2,clear
+924,Soyabean,Nanggaon,2016-11-22,2550.0,81.0,30.2,clear
+925,Soyabean,Tiwasa,2016-11-22,2800.0,40.0,30.2,clear
+926,Soyabean,Achalpur,2016-11-24,2675.0,152.0,29.2,clear
+927,Soyabean,Amarawati,2016-11-24,2466.0,,29.2,clear
+928,Soyabean,Chandur Railway,2016-11-24,2650.0,55.0,29.2,clear
+929,Soyabean,Nanggaon,2016-11-24,2556.0,78.0,29.2,clear
+930,Soyabean,Varud(Rajura Bazar),2016-11-24,2700.0,14.0,29.2,clear
+931,Soyabean,Achalpur,2016-11-25,2750.0,37.0,30.4,clear
+932,Soyabean,Amarawati,2016-11-25,2600.0,,30.4,clear
+933,Soyabean,Anajngaon,2016-11-25,2550.0,82.0,30.4,clear
+934,Soyabean,Chandur Railway,2016-11-25,2625.0,55.0,30.4,clear
+935,Soyabean,Daryapur,2016-11-25,2700.0,84.0,30.4,clear
+936,Soyabean,Dhamngaon-Railway,2016-11-25,2550.0,240.0,30.4,clear
+937,Soyabean,Morshi,2016-11-25,2825.0,30.0,30.4,clear
+938,Soyabean,Nanggaon,2016-11-25,2612.0,73.0,30.4,clear
+939,Soyabean,Tiwasa,2016-11-25,2800.0,74.0,30.4,clear
+940,Soyabean,Varud,2016-11-25,2526.0,10.0,30.4,clear
+941,Soyabean,Achalpur,2016-11-26,2780.0,21.0,31.6,clear
+942,Soyabean,Amarawati,2016-11-26,2660.0,1629.0,31.6,clear
+943,Soyabean,Chandur Railway,2016-11-26,2650.0,40.0,31.6,clear
+944,Soyabean,Daryapur,2016-11-26,2650.0,40.0,31.6,clear
+945,Soyabean,Dhamngaon-Railway,2016-11-26,2550.0,180.0,31.6,clear
+946,Soyabean,Dharni,2016-11-26,2750.0,13.0,31.6,clear
+947,Soyabean,Morshi,2016-11-26,2690.0,96.0,31.6,clear
+948,Soyabean,Nanggaon,2016-11-26,2650.0,46.0,31.6,clear
+949,Soyabean,Achalpur,2016-11-28,2750.0,35.0,29.8,clear
+950,Soyabean,Amarawati,2016-11-28,2463.0,1419.0,29.8,clear
+951,Soyabean,Dharni,2016-11-28,2850.0,15.0,29.8,clear
+952,Soyabean,Morshi,2016-11-28,2789.0,35.0,29.8,clear
+953,Soyabean,Nanggaon,2016-11-28,2651.0,86.0,29.8,clear
+954,Soyabean,Varud,2016-11-28,2803.0,8.0,29.8,clear
+955,Soyabean,Achalpur,2016-11-29,2780.0,45.0,31.2,clear
+956,Soyabean,Amarawati,2016-11-29,2541.0,1717.0,31.2,clear
+957,Soyabean,Chandur Railway,2016-11-29,2680.0,80.0,31.2,clear
+958,Soyabean,Daryapur,2016-11-29,2700.0,91.0,31.2,clear
+959,Soyabean,Dhamngaon-Railway,2016-11-29,2650.0,63.0,31.2,clear
+960,Soyabean,Dharni,2016-11-29,2550.0,16.0,31.2,clear
+961,Soyabean,Nanggaon,2016-11-29,2542.0,100.0,31.2,clear
+962,Soyabean,Tiwasa,2016-11-29,2800.0,69.0,31.2,clear
+963,Soyabean,Achalpur,2016-11-30,2750.0,41.0,30.4,clear
+964,Soyabean,Amarawati,2016-11-30,2725.0,1561.0,30.4,clear
+965,Soyabean,Anajngaon,2016-11-30,2660.0,95.0,30.4,clear
+966,Soyabean,Chandur Bazar,2016-11-30,2825.0,192.0,30.4,clear
+967,Soyabean,Chandur Railway,2016-11-30,2630.0,70.0,30.4,clear
+968,Soyabean,Daryapur,2016-11-30,2650.0,70.0,30.4,clear
+969,Soyabean,Dhamngaon-Railway,2016-11-30,2550.0,210.0,30.4,clear
+970,Soyabean,Morshi,2016-11-30,2780.0,118.0,30.4,clear
+971,Soyabean,Nanggaon,2016-11-30,2537.0,66.0,30.4,clear
+972,Soyabean,Achalpur,2016-01-12,2730.0,228.0,30.2,clear
+973,Soyabean,Amarawati,2016-01-12,2550.0,1256.0,30.2,clear
+974,Soyabean,Chandur Railway,2016-01-12,2700.0,70.0,30.2,clear
+975,Soyabean,Dhamngaon-Railway,2016-01-12,2550.0,160.0,30.2,clear
+976,Soyabean,Dharni,2016-01-12,2850.0,5.0,30.2,clear
+977,Soyabean,Nanggaon,2016-01-12,2560.0,74.0,30.2,clear
+978,Soyabean,Achalpur,2016-02-12,2800.0,38.0,33.0,clear
+979,Soyabean,Amarawati,2016-02-12,2821.0,1094.0,33.0,clear
+980,Soyabean,Anajngaon,2016-02-12,2600.0,66.0,33.0,clear
+981,Soyabean,Chandur Railway,2016-02-12,2700.0,60.0,33.0,clear
+982,Soyabean,Daryapur,2016-02-12,2700.0,51.0,33.0,clear
+983,Soyabean,Dhamngaon-Railway,2016-02-12,2610.0,220.0,33.0,clear
+984,Soyabean,Morshi,2016-02-12,2785.0,42.0,33.0,clear
+985,Soyabean,Nanggaon,2016-02-12,2601.0,94.0,33.0,clear
+986,Soyabean,Tiwasa,2016-02-12,2800.0,63.0,33.0,clear
+987,Soyabean,Varud,2016-02-12,2635.0,12.0,33.0,clear
+988,Soyabean,Achalpur,2016-03-12,2800.0,11.0,38.4,clear
+989,Soyabean,Amarawati,2016-03-12,2750.0,1460.0,38.4,clear
+990,Soyabean,Chandur Railway,2016-03-12,2695.0,42.0,38.4,clear
+991,Soyabean,Dhamngaon-Railway,2016-03-12,2700.0,300.0,38.4,clear
+992,Soyabean,Morshi,2016-03-12,2700.0,97.0,38.4,clear
+993,Soyabean,Nanggaon,2016-03-12,2462.0,62.0,38.4,clear
+994,Soyabean,Achalpur,2016-05-12,2800.0,29.0,37.0,clear
+995,Soyabean,Amarawati,2016-05-12,2770.0,1305.0,37.0,clear
+996,Soyabean,Chandur Railway,2016-05-12,2735.0,66.0,37.0,clear
+997,Soyabean,Daryapur,2016-05-12,2700.0,53.0,37.0,clear
+998,Soyabean,Dhamngaon-Railway,2016-05-12,2750.0,270.0,37.0,clear
+999,Soyabean,Morshi,2016-05-12,2675.0,25.0,37.0,clear
+1000,Soyabean,Nanggaon,2016-05-12,2545.0,90.0,37.0,clear
+1001,Soyabean,Varud,2016-05-12,2642.0,9.0,37.0,clear
+1002,Soyabean,Achalpur,2016-06-12,2800.0,74.0,39.2,clear
+1003,Soyabean,Amarawati,2016-06-12,2738.0,1520.0,39.2,clear
+1004,Soyabean,Chandur Railway,2016-06-12,2748.0,69.0,39.2,clear
+1005,Soyabean,Daryapur,2016-06-12,2700.0,68.0,39.2,clear
+1006,Soyabean,Dhamngaon-Railway,2016-06-12,2650.0,340.0,39.2,clear
+1007,Soyabean,Dharni,2016-06-12,2850.0,7.0,39.2,clear
+1008,Soyabean,Nanggaon,2016-06-12,2570.0,86.0,39.2,clear
+1009,Soyabean,Tiwasa,2016-06-12,2800.0,78.0,39.2,clear
+1010,Soyabean,Achalpur,2016-08-12,2800.0,179.0,27.4,clear
+1011,Soyabean,Amarawati,2016-08-12,2710.0,1302.0,27.4,clear
+1012,Soyabean,Chandur Railway,2016-08-12,2647.0,50.0,27.4,clear
+1013,Soyabean,Dhamngaon-Railway,2016-08-12,2650.0,280.0,27.4,clear
+1014,Soyabean,Nanggaon,2016-08-12,2500.0,66.0,27.4,clear
+1015,Soyabean,Varud,2016-08-12,2580.0,15.0,27.4,clear
+1016,Soyabean,Achalpur,2016-09-12,2750.0,38.0,28.6,clear
+1017,Soyabean,Amarawati,2016-09-12,2710.0,1371.0,28.6,clear
+1018,Soyabean,Anajngaon,2016-09-12,2400.0,70.0,28.6,clear
+1019,Soyabean,Chandur Railway,2016-09-12,2625.0,51.0,28.6,clear
+1020,Soyabean,Daryapur,2016-09-12,2510.0,60.0,28.6,clear
+1021,Soyabean,Dhamngaon-Railway,2016-09-12,2650.0,180.0,28.6,clear
+1022,Soyabean,Morshi,2016-09-12,2766.0,35.0,28.6,clear
+1023,Soyabean,Nanggaon,2016-09-12,2566.0,83.0,28.6,clear
+1024,Soyabean,Tiwasa,2016-09-12,2770.0,34.0,28.6,clear
+1025,Soyabean,Varud,2016-09-12,2631.0,6.0,28.6,clear
+1026,Soyabean,Achalpur,2016-10-12,2750.0,13.0,32.2,clear
+1027,Soyabean,Amarawati,2016-10-12,2675.0,1201.0,32.2,clear
+1028,Soyabean,Chandur Railway,2016-10-12,2668.0,15.0,32.2,clear
+1029,Soyabean,Daryapur,2016-10-12,2500.0,67.0,32.2,clear
+1030,Soyabean,Dhamngaon-Railway,2016-10-12,2650.0,180.0,32.2,clear
+1031,Soyabean,Morshi,2016-10-12,2705.0,65.0,32.2,clear
+1032,Soyabean,Nanggaon,2016-10-12,2566.0,43.0,32.2,clear
+1033,Soyabean,Achalpur,2016-12-15,2775.0,200.0,28.4,clear
+1034,Soyabean,Amarawati,2016-12-15,2725.0,1342.0,28.4,clear
+1035,Soyabean,Chandur Railway,2016-12-15,2670.0,73.0,28.4,clear
+1036,Soyabean,Dhamngaon-Railway,2016-12-15,2750.0,380.0,28.4,clear
+1037,Soyabean,Nanggaon,2016-12-15,2600.0,102.0,28.4,clear
+1038,Soyabean,Achalpur,2016-12-16,2775.0,48.0,29.8,clear
+1039,Soyabean,Amarawati,2016-12-16,2681.0,1418.0,29.8,clear
+1040,Soyabean,Anajngaon,2016-12-16,2600.0,76.0,29.8,clear
+1041,Soyabean,Chandur Railway,2016-12-16,2650.0,46.0,29.8,clear
+1042,Soyabean,Daryapur,2016-12-16,2600.0,63.0,29.8,clear
+1043,Soyabean,Dhamngaon-Railway,2016-12-16,2750.0,310.0,29.8,clear
+1044,Soyabean,Morshi,2016-12-16,2712.0,34.0,29.8,clear
+1045,Soyabean,Nanggaon,2016-12-16,2570.0,86.0,29.8,clear
+1046,Soyabean,Tiwasa,2016-12-16,2800.0,44.0,29.8,clear
+1047,Soyabean,Varud,2016-12-16,2675.0,8.0,29.8,clear
+1048,Soyabean,Achalpur,2016-12-17,2765.0,24.0,28.8,clear
+1049,Soyabean,Amarawati,2016-12-17,2716.0,1156.0,28.8,clear
+1050,Soyabean,Chandur Railway,2016-12-17,2662.0,29.0,28.8,clear
+1051,Soyabean,Daryapur,2016-12-17,2555.0,32.0,28.8,clear
+1052,Soyabean,Dhamngaon-Railway,2016-12-17,2650.0,230.0,28.8,clear
+1053,Soyabean,Dharni,2016-12-17,2550.0,20.0,28.8,clear
+1054,Soyabean,Morshi,2016-12-17,2785.0,45.0,28.8,clear
+1055,Soyabean,Nanggaon,2016-12-17,2500.0,59.0,28.8,clear
+1056,Soyabean,Achalpur,2016-12-19,2775.0,26.0,26.0,clear
+1057,Soyabean,Amarawati,2016-12-19,2690.0,1195.0,26.0,clear
+1058,Soyabean,Chandur Railway,2016-12-19,2625.0,50.0,26.0,clear
+1059,Soyabean,Daryapur,2016-12-19,2615.0,40.0,26.0,clear
+1060,Soyabean,Dhamngaon-Railway,2016-12-19,2650.0,280.0,26.0,clear
+1061,Soyabean,Morshi,2016-12-19,2675.0,33.0,26.0,clear
+1062,Soyabean,Nanggaon,2016-12-19,2560.0,96.0,26.0,clear
+1063,Soyabean,Varud,2016-12-19,2742.0,2.0,26.0,clear
+1064,Soyabean,Achalpur,2016-12-20,2765.0,23.0,27.0,clear
+1065,Soyabean,Amarawati,2016-12-20,2658.0,916.0,27.0,clear
+1066,Soyabean,Chandur Railway,2016-12-20,2672.0,23.0,27.0,clear
+1067,Soyabean,Daryapur,2016-12-20,2550.0,49.0,27.0,clear
+1068,Soyabean,Dhamngaon-Railway,2016-12-20,2750.0,240.0,27.0,clear
+1069,Soyabean,Dharni,2016-12-20,2550.0,5.0,27.0,clear
+1070,Soyabean,Nanggaon,2016-12-20,2550.0,70.0,27.0,clear
+1071,Soyabean,Tiwasa,2016-12-20,2730.0,45.0,27.0,clear
+1072,Soyabean,Achalpur,2016-12-22,2635.0,100.0,28.6,clear
+1073,Soyabean,Amarawati,2016-12-22,2681.0,851.0,28.6,clear
+1074,Soyabean,Chandur Railway,2016-12-22,2630.0,29.0,28.6,clear
+1075,Soyabean,Dhamngaon-Railway,2016-12-22,2600.0,250.0,28.6,clear
+1076,Soyabean,Nanggaon,2016-12-22,2475.0,109.0,28.6,clear
+1077,Soyabean,Varud,2016-12-22,2655.0,8.0,28.6,clear
+1078,Sunflower,Achalpur,2016-12-22,2575.0,0.0,28.6,clear
+1079,Soyabean,Achalpur,2016-12-23,2650.0,25.0,29.4,clear
+1080,Soyabean,Amarawati,2016-12-23,2625.0,8.0,29.4,clear
+1081,Soyabean,Anajngaon,2016-12-23,2450.0,63.0,29.4,clear
+1082,Soyabean,Chandur Railway,2016-12-23,2635.0,33.0,29.4,clear
+1083,Soyabean,Daryapur,2016-12-23,2525.0,49.0,29.4,clear
+1084,Soyabean,Dhamngaon-Railway,2016-12-23,2650.0,210.0,29.4,clear
+1085,Soyabean,Morshi,2016-12-23,2705.0,38.0,29.4,clear
+1086,Soyabean,Nanggaon,2016-12-23,2549.0,46.0,29.4,clear
+1087,Soyabean,Tiwasa,2016-12-23,2750.0,33.0,29.4,clear
+1088,Soyabean,Varud,2016-12-23,2642.0,5.0,29.4,clear
+1089,Soyabean,Achalpur,2016-12-24,2700.0,5.0,29.2,clear
+1090,Soyabean,Amarawati,2016-12-24,2652.0,768.0,29.2,clear
+1091,Soyabean,Chandur Railway,2016-12-24,2625.0,24.0,29.2,clear
+1092,Soyabean,Daryapur,2016-12-24,2650.0,39.0,29.2,clear
+1093,Soyabean,Morshi,2016-12-24,2675.0,55.0,29.2,clear
+1094,Soyabean,Nanggaon,2016-12-24,2545.0,42.0,29.2,clear
+1095,Soyabean,Achalpur,2016-12-26,2700.0,22.0,27.8,clear
+1096,Soyabean,Chandur Railway,2016-12-26,2578.0,42.0,27.8,clear
+1097,Soyabean,Daryapur,2016-12-26,2570.0,32.0,27.8,clear
+1098,Soyabean,Dhamngaon-Railway,2016-12-26,2550.0,230.0,27.8,clear
+1099,Soyabean,Morshi,2016-12-26,2700.0,15.0,27.8,clear
+1100,Soyabean,Nanggaon,2016-12-26,2500.0,54.0,27.8,clear
+1101,Soyabean,Varud,2016-12-26,2645.0,7.0,27.8,clear
+1102,Soyabean,Achalpur,2016-12-27,2725.0,17.0,26.2,clear
+1103,Soyabean,Amarawati,2016-12-27,2706.0,699.0,26.2,clear
+1104,Soyabean,Chandur Bazar,2016-12-27,2715.0,52.0,26.2,clear
+1105,Soyabean,Chandur Railway,2016-12-27,2715.0,32.0,26.2,clear
+1106,Soyabean,Daryapur,2016-12-27,2650.0,37.0,26.2,clear
+1107,Soyabean,Dhamngaon-Railway,2016-12-27,2650.0,210.0,26.2,clear
+1108,Soyabean,Nanggaon,2016-12-27,2505.0,59.0,26.2,clear
+1109,Soyabean,Tiwasa,2016-12-27,2800.0,25.0,26.2,clear
+1110,Soyabean,Achalpur,2016-12-29,2773.0,80.0,29.2,clear
+1111,Soyabean,Amarawati,2016-12-29,2650.0,812.0,29.2,clear
+1112,Soyabean,Chandur Railway,2016-12-29,2624.0,30.0,29.2,clear
+1113,Soyabean,Dhamngaon-Railway,2016-12-29,2650.0,170.0,29.2,clear
+1114,Soyabean,Varud,2016-12-29,2694.0,5.0,29.2,clear
+1115,Sunflower,Achalpur,2016-12-29,2725.0,0.0,29.2,clear
+1116,Soyabean,Achalpur,2016-12-30,2773.0,28.0,30.4,clear
+1117,Soyabean,Amarawati,2016-12-30,2700.0,665.0,30.4,clear
+1118,Soyabean,Anajngaon,2016-12-30,2550.0,62.0,30.4,clear
+1119,Soyabean,Chandur Railway,2016-12-30,2728.0,45.0,30.4,clear
+1120,Soyabean,Daryapur,2016-12-30,2625.0,47.0,30.4,clear
+1121,Soyabean,Morshi,2016-12-30,2778.0,25.0,30.4,clear
+1122,Soyabean,Tiwasa,2016-12-30,2800.0,27.0,30.4,clear
+1123,Soyabean,Varud,2016-12-30,2733.0,5.0,30.4,clear
+1124,Soyabean,Achalpur,2016-12-31,2775.0,22.0,29.2,clear
+1125,Soyabean,Chandur Railway,2016-12-31,2667.0,35.0,29.2,clear
+1126,Soyabean,Daryapur,2016-12-31,2635.0,31.0,29.2,clear
+1127,Soyabean,Dhamngaon-Railway,2016-12-31,2550.0,70.0,29.2,clear
+1128,Soyabean,Morshi,2016-12-31,2725.0,40.0,29.2,clear
+1129,Soyabean,Nanggaon,2016-12-31,2525.0,25.0,29.2,clear
+1130,Soyabean,Amarawati,2016-08-01,3185.0,350.0,26.8,clear
+1131,Soyabean,Anajngaon,2016-08-01,3411.0,18.0,26.8,clear
+1132,Soyabean,Chandur Railway,2016-08-01,3500.0,17.0,26.8,clear
+1133,Soyabean,Daryapur,2016-08-01,3385.0,27.0,26.8,clear
+1134,Soyabean,Dhamngaon-Railway,2016-08-01,3500.0,120.0,26.8,clear
+1135,Soyabean,Dharni,2016-08-01,3250.0,10.0,26.8,clear
+1136,Soyabean,Morshi,2016-08-01,3219.0,5.0,26.8,clear
+1137,Soyabean,Nanggaon,2016-08-01,3190.0,80.0,26.8,clear
+1138,Soyabean,Amarawati,2016-10-02,3312.0,363.0,30.4,clear
+1139,Soyabean,Anajngaon,2016-10-02,3275.0,20.0,30.4,clear
+1140,Soyabean,Chandur Bazar,2016-10-02,3475.0,38.0,30.4,clear
+1141,Soyabean,Chandur Railway,2016-10-02,3500.0,20.0,30.4,clear
+1142,Soyabean,Daryapur,2016-10-02,3435.0,21.0,30.4,clear
+1143,Soyabean,Dhamngaon-Railway,2016-10-02,3500.0,143.0,30.4,clear
+1144,Soyabean,Morshi,2016-10-02,3302.0,6.0,30.4,clear
+1145,Soyabean,Nanggaon,2016-10-02,3181.0,14.0,30.4,clear
+1146,Soyabean,Amarawati,2016-02-13,3250.0,202.0,32.2,clear
+1147,Soyabean,Chandur Railway,2016-02-13,3560.0,6.0,32.2,clear
+1148,Soyabean,Daryapur,2016-02-13,3455.0,5.0,32.2,clear
+1149,Soyabean,Morshi,2016-02-13,3247.0,11.0,32.2,clear
+1150,Soyabean,Nanggaon,2016-02-13,3121.0,9.0,32.2,clear
+1151,Soyabean,Amarawati,2016-02-16,3318.0,0.0,33.8,clear
+1152,Soyabean,Chandur Railway,2016-02-16,3500.0,22.0,33.8,clear
+1153,Soyabean,Daryapur,2016-02-16,3200.0,10.0,33.8,clear
+1154,Soyabean,Nanggaon,2016-02-16,3155.0,14.0,33.8,clear
+1155,Soyabean,Amarawati,2016-02-20,3383.0,354.0,35.0,clear
+1156,Soyabean,Chandur Railway,2016-02-20,3500.0,12.0,35.0,clear
+1157,Soyabean,Daryapur,2016-02-20,3380.0,9.0,35.0,clear
+1158,Soyabean,Dhamngaon-Railway,2016-02-20,3450.0,250.0,35.0,clear
+1159,Soyabean,Morshi,2016-02-20,3253.0,5.0,35.0,clear
+1160,Soyabean,Nanggaon,2016-02-20,3100.0,10.0,35.0,clear
+1161,Soyabean,Amarawati,2016-02-22,3150.0,457.0,35.2,clear
+1162,Soyabean,Chandur Railway,2016-02-22,3500.0,12.0,35.2,clear
+1163,Soyabean,Daryapur,2016-02-22,3290.0,4.0,35.2,clear
+1164,Soyabean,Nanggaon,2016-02-22,3137.0,16.0,35.2,clear
+1165,Soyabean,Amarawati,2016-02-24,3225.0,0.0,35.0,clear
+1166,Soyabean,Anajngaon,2016-02-24,3350.0,9.0,35.0,clear
+1167,Soyabean,Chandur Bazar,2016-02-24,3600.0,5.0,35.0,clear
+1168,Soyabean,Chandur Railway,2016-02-24,3500.0,18.0,35.0,clear
+1169,Soyabean,Morshi,2016-02-24,3189.0,46.0,35.0,clear
+1170,Soyabean,Amarawati,2016-08-03,3432.0,0.0,26.8,clear
+1171,Soyabean,Chandur Railway,2016-08-03,3500.0,3.0,26.8,clear
+1172,Soyabean,Daryapur,2016-08-03,3325.0,10.0,26.8,clear
+1173,Soyabean,Dhamngaon-Railway,2016-08-03,3500.0,50.0,26.8,clear
+1174,Soyabean,Amarawati,2016-11-03,3240.0,0.0,30.8,clear
+1175,Soyabean,Anajngaon,2016-11-03,3300.0,4.0,30.8,clear
+1176,Soyabean,Chandur Railway,2016-11-03,3575.0,11.0,30.8,clear
+1177,Soyabean,Daryapur,2016-11-03,3150.0,2.0,30.8,clear
+1178,Soyabean,Nanggaon,2016-11-03,3325.0,5.0,30.8,clear
+1179,Soyabean,Amarawati,2016-12-03,3375.0,122.0,28.4,clear
+1180,Soyabean,Chandur Railway,2016-12-03,3575.0,8.0,28.4,clear
+1181,Soyabean,Daryapur,2016-12-03,3365.0,9.0,28.4,clear
+1182,Soyabean,Dhamngaon-Railway,2016-12-03,3450.0,150.0,28.4,clear
+1183,Soyabean,Amarawati,2016-03-14,3637.0,0.0,35.4,clear
+1184,Soyabean,Chandur Railway,2016-03-14,3560.0,18.0,35.4,clear
+1185,Soyabean,Daryapur,2016-03-14,3300.0,3.0,35.4,clear
+1186,Soyabean,Dhamngaon-Railway,2016-03-14,3650.0,140.0,35.4,clear
+1187,Soyabean,Amarawati,2016-03-15,3600.0,84.0,34.2,clear
+1188,Soyabean,Chandur Railway,2016-03-15,3560.0,12.0,34.2,clear
+1189,Soyabean,Daryapur,2016-03-15,3400.0,4.0,34.2,clear
+1190,Soyabean,Amarawati,2016-03-16,3560.0,0.0,35.0,clear
+1191,Soyabean,Anajngaon,2016-03-16,3225.0,7.0,35.0,clear
+1192,Soyabean,Chandur Bazar,2016-03-16,3450.0,13.0,35.0,clear
+1193,Soyabean,Chandur Railway,2016-03-16,3460.0,9.0,35.0,clear
+1194,Soyabean,Dhamngaon-Railway,2016-03-16,3580.0,180.0,35.0,clear
+1195,Soyabean,Morshi,2016-03-16,3282.0,5.0,35.0,clear
+1196,Soyabean,Amarawati,2016-03-17,3150.0,170.0,36.6,clear
+1197,Soyabean,Chandur Railway,2016-03-17,3385.0,12.0,36.6,clear
+1198,Soyabean,Amarawati,2016-03-18,3575.0,318.0,38.2,clear
+1199,Soyabean,Anajngaon,2016-03-18,3225.0,5.0,38.2,clear
+1200,Soyabean,Chandur Railway,2016-03-18,3500.0,13.0,38.2,clear
+1201,Soyabean,Daryapur,2016-03-18,3250.0,2.0,38.2,clear
+1202,Soyabean,Dhamngaon-Railway,2016-03-18,3500.0,120.0,38.2,clear
+1203,Soyabean,Amarawati,2016-03-19,3565.0,163.0,36.8,clear
+1204,Soyabean,Chandur Railway,2016-03-19,3460.0,16.0,36.8,clear
+1205,Soyabean,Daryapur,2016-03-19,3395.0,7.0,36.8,clear
+1206,Soyabean,Morshi,2016-03-19,3177.0,5.0,36.8,clear
+1207,Soyabean,Amarawati,2016-03-21,3525.0,219.0,37.6,clear
+1208,Soyabean,Chandur Railway,2016-03-21,3700.0,21.0,37.6,clear
+1209,Soyabean,Daryapur,2016-03-21,3205.0,14.0,37.6,clear
+1210,Soyabean,Morshi,2016-03-21,3134.0,1.0,37.6,clear
+1211,Soyabean,Amarawati,2016-03-22,3662.0,81.0,38.0,clear
+1212,Soyabean,Chandur Railway,2016-03-22,3556.0,14.0,38.0,clear
+1213,Soyabean,Daryapur,2016-03-22,3575.0,8.0,38.0,clear
+1214,Soyabean,Morshi,2016-03-22,3164.0,2.0,38.0,clear
+1215,Soyabean,Amarawati,2016-02-04,3825.0,151.0,30.6,clear
+1216,Soyabean,Morshi,2016-02-04,3284.0,9.0,30.6,clear
+1217,Soyabean,Nanggaon,2016-02-04,3200.0,9.0,30.6,clear
+1218,Soyabean,Amarawati,2016-04-04,3550.0,201.0,41.0,clear
+1219,Soyabean,Chandur Railway,2016-04-04,3750.0,8.0,41.0,clear
+1220,Soyabean,Daryapur,2016-04-04,3800.0,6.0,41.0,clear
+1221,Soyabean,Nanggaon,2016-04-04,3600.0,20.0,41.0,clear
+1222,Soyabean,Amarawati,2016-05-04,3368.0,211.0,41.6,clear
+1223,Soyabean,Chandur Railway,2016-05-04,3785.0,11.0,41.6,clear
+1224,Soyabean,Daryapur,2016-05-04,3875.0,6.0,41.6,clear
+1225,Soyabean,Dhamngaon-Railway,2016-05-04,3750.0,250.0,41.6,clear
+1226,Soyabean,Nanggaon,2016-05-04,3500.0,25.0,41.6,clear
+1227,Soyabean,Amarawati,2016-06-04,3525.0,29.0,43.2,clear
+1228,Soyabean,Anajngaon,2016-06-04,3700.0,2.0,43.2,clear
+1229,Soyabean,Chandur Railway,2016-06-04,3650.0,9.0,43.2,clear
+1230,Soyabean,Daryapur,2016-06-04,3500.0,12.0,43.2,clear
+1231,Soyabean,Morshi,2016-06-04,3427.0,9.0,43.2,clear
+1232,Soyabean,Amarawati,2016-07-04,3600.0,224.0,25.8,clear
+1233,Soyabean,Chandur Railway,2016-07-04,3765.0,6.0,25.8,clear
+1234,Soyabean,Dhamngaon-Railway,2016-07-04,3750.0,90.0,25.8,clear
+1235,Soyabean,Amarawati,2016-09-04,3850.0,0.0,30.2,clear
+1236,Soyabean,Chandur Railway,2016-09-04,3700.0,7.0,30.2,clear
+1237,Soyabean,Daryapur,2016-09-04,3705.0,11.0,30.2,clear
+1238,Soyabean,Morshi,2016-09-04,3543.0,20.0,30.2,clear
+1239,Soyabean,Amarawati,2016-11-04,3550.0,277.0,30.0,clear
+1240,Soyabean,Chandur Railway,2016-11-04,3800.0,13.0,30.0,clear
+1241,Soyabean,Daryapur,2016-11-04,3880.0,6.0,30.0,clear
+1242,Soyabean,Amarawati,2016-12-04,3525.0,27.0,27.8,clear
+1243,Soyabean,Chandur Railway,2016-12-04,3700.0,15.0,27.8,clear
+1244,Soyabean,Daryapur,2016-12-04,3640.0,11.0,27.8,clear
+1245,Soyabean,Dhamngaon-Railway,2016-12-04,3750.0,160.0,27.8,clear
+1246,Soyabean,Amarawati,2016-04-13,3550.0,85.0,39.8,clear
+1247,Soyabean,Anajngaon,2016-04-13,3750.0,6.0,39.8,clear
+1248,Soyabean,Chandur Bazar,2016-04-13,3515.0,16.0,39.8,clear
+1249,Soyabean,Chandur Railway,2016-04-13,3785.0,13.0,39.8,clear
+1250,Soyabean,Daryapur,2016-04-13,3800.0,14.0,39.8,clear
+1251,Soyabean,Morshi,2016-04-13,3256.0,17.0,39.8,clear
+1252,Soyabean,Amarawati,2016-04-16,3575.0,354.0,43.2,clear
+1253,Soyabean,Chandur Railway,2016-04-16,3625.0,6.0,43.2,clear
+1254,Soyabean,Daryapur,2016-04-16,3715.0,18.0,43.2,clear
+1255,Soyabean,Amarawati,2016-04-18,3575.0,300.0,42.2,clear
+1256,Soyabean,Chandur Railway,2016-04-18,3760.0,8.0,42.2,clear
+1257,Soyabean,Daryapur,2016-04-18,3665.0,15.0,42.2,clear
+1258,Soyabean,Dhamngaon-Railway,2016-04-18,3550.0,65.0,42.2,clear
+1259,Soyabean,Amarawati,2016-04-21,3550.0,277.0,42.4,clear
+1260,Soyabean,Chandur Railway,2016-04-21,3750.0,10.0,42.4,clear
+1261,Soyabean,Dhamngaon-Railway,2016-04-21,3750.0,165.0,42.4,clear
+1262,Soyabean,Nanggaon,2016-04-21,3525.0,19.0,42.4,clear
+1263,Soyabean,Amarawati,2016-04-23,3525.0,299.0,39.0,clear
+1264,Soyabean,Chandur Railway,2016-04-23,3750.0,4.0,39.0,clear
+1265,Soyabean,Daryapur,2016-04-23,3615.0,10.0,39.0,clear
+1266,Soyabean,Morshi,2016-04-23,3539.0,10.0,39.0,clear
+1267,Soyabean,Nanggaon,2016-04-23,3525.0,6.0,39.0,clear
+1268,Soyabean,Amarawati,2016-04-25,3675.0,266.0,41.0,clear
+1269,Soyabean,Chandur Railway,2016-04-25,3680.0,13.0,41.0,clear
+1270,Soyabean,Daryapur,2016-04-25,3625.0,12.0,41.0,clear
+1271,Soyabean,Dhamngaon-Railway,2016-04-25,3750.0,120.0,41.0,clear
+1272,Soyabean,Nanggaon,2016-04-25,3386.0,12.0,41.0,clear
+1273,Soyabean,Amarawati,2016-04-26,3500.0,270.0,42.4,clear
+1274,Soyabean,Chandur Railway,2016-04-26,3650.0,6.0,42.4,clear
+1275,Soyabean,Daryapur,2016-04-26,3750.0,9.0,42.4,clear
+1276,Soyabean,Nanggaon,2016-04-26,3374.0,14.0,42.4,clear
+1277,Soyabean,Amarawati,2016-04-27,3425.0,129.0,42.4,clear
+1278,Soyabean,Anajngaon,2016-04-27,3250.0,2.0,42.4,clear
+1279,Soyabean,Chandur Railway,2016-04-27,3650.0,3.0,42.4,clear
+1280,Soyabean,Daryapur,2016-04-27,3670.0,10.0,42.4,clear
+1281,Soyabean,Dhamngaon-Railway,2016-04-27,3500.0,30.0,42.4,clear
+1282,Soyabean,Morshi,2016-04-27,3261.0,5.0,42.4,clear
+1283,Soyabean,Nanggaon,2016-04-27,3171.0,10.0,42.4,clear
+1284,Soyabean,Amarawati,2016-04-28,3520.0,209.0,42.0,clear
+1285,Soyabean,Chandur Railway,2016-04-28,3700.0,3.0,42.0,clear
+1286,Soyabean,Dhamngaon-Railway,2016-04-28,3700.0,55.0,42.0,clear
+1287,Soyabean,Nanggaon,2016-04-28,3425.0,3.0,42.0,clear
+1288,Soyabean,Amarawati,2016-04-29,3425.0,160.0,32.8,clear
+1289,Soyabean,Anajngaon,2016-04-29,3600.0,6.0,32.8,clear
+1290,Soyabean,Chandur Railway,2016-04-29,3700.0,4.0,32.8,clear
+1291,Soyabean,Daryapur,2016-04-29,3570.0,3.0,32.8,clear
+1292,Soyabean,Dhamngaon-Railway,2016-04-29,3700.0,50.0,32.8,clear
+1293,Soyabean,Nanggaon,2016-04-29,3251.0,5.0,32.8,clear
+1294,Soyabean,Amarawati,2016-02-05,3525.0,167.0,31.6,clear
+1295,Soyabean,Chandur Railway,2016-02-05,3680.0,7.0,31.6,clear
+1296,Soyabean,Daryapur,2016-02-05,3375.0,3.0,31.6,clear
+1297,Soyabean,Dhamngaon-Railway,2016-02-05,3300.0,70.0,31.6,clear
+1298,Soyabean,Nanggaon,2016-02-05,3281.0,2.0,31.6,clear
+1299,Soyabean,Amarawati,2016-11-05,3575.0,216.0,30.0,clear
+1300,Soyabean,Anajngaon,2016-11-05,3550.0,5.0,30.0,clear
+1301,Soyabean,Chandur Railway,2016-11-05,3750.0,6.0,30.0,clear
+1302,Soyabean,Daryapur,2016-11-05,3655.0,11.0,30.0,clear
+1303,Soyabean,Dhamngaon-Railway,2016-11-05,3800.0,100.0,30.0,clear
+1304,Soyabean,Morshi,2016-11-05,3251.0,5.0,30.0,clear
+1305,Soyabean,Nanggaon,2016-11-05,3351.0,10.0,30.0,clear
+1306,Soyabean,Amarawati,2016-05-13,3400.0,207.0,43.8,clear
+1307,Soyabean,Anajngaon,2016-05-13,3550.0,5.0,43.8,clear
+1308,Soyabean,Chandur Railway,2016-05-13,3700.0,14.0,43.8,clear
+1309,Soyabean,Daryapur,2016-05-13,3600.0,9.0,43.8,clear
+1310,Soyabean,Amarawati,2016-05-14,3550.0,287.0,42.8,clear
+1311,Soyabean,Chandur Railway,2016-05-14,3650.0,10.0,42.8,clear
+1312,Soyabean,Dhamngaon-Railway,2016-05-14,3650.0,70.0,42.8,clear
+1313,Soyabean,Morshi,2016-05-14,3247.0,8.0,42.8,clear
+1314,Soyabean,Amarawati,2016-05-16,3525.0,415.0,42.6,clear
+1315,Soyabean,Chandur Railway,2016-05-16,3650.0,13.0,42.6,clear
+1316,Soyabean,Nanggaon,2016-05-16,3300.0,13.0,42.6,clear
+1317,Soyabean,Amarawati,2016-05-17,3500.0,236.0,44.0,clear
+1318,Soyabean,Chandur Railway,2016-05-17,3680.0,6.0,44.0,clear
+1319,Soyabean,Nanggaon,2016-05-17,3250.0,6.0,44.0,clear
+1320,Soyabean,Amarawati,2016-05-27,3250.0,210.0,31.2,clear
+1321,Soyabean,Anajngaon,2016-05-27,3450.0,5.0,31.2,clear
+1322,Soyabean,Chandur Railway,2016-05-27,3600.0,7.0,31.2,clear
+1323,Soyabean,Daryapur,2016-05-27,3500.0,7.0,31.2,clear
+1324,Soyabean,Dhamngaon-Railway,2016-05-27,3500.0,70.0,31.2,clear
+1325,Soyabean,Amarawati,2016-05-31,3225.0,325.0,41.2,clear
+1326,Soyabean,Chandur Railway,2016-05-31,3300.0,5.0,41.2,clear
+1327,Soyabean,Daryapur,2016-05-31,3500.0,2.0,41.2,clear
+1328,Soyabean,Nanggaon,2016-05-31,3200.0,2.0,41.2,clear
+1329,Soyabean,Amarawati,2016-01-06,3585.0,88.0,30.2,clear
+1330,Soyabean,Anajngaon,2016-01-06,3300.0,5.0,30.2,clear
+1331,Soyabean,Chandur Railway,2016-01-06,3574.0,1.0,30.2,clear
+1332,Soyabean,Daryapur,2016-01-06,3315.0,5.0,30.2,clear
+1333,Soyabean,Morshi,2016-01-06,3304.0,9.0,30.2,clear
+1334,Soyabean,Nanggaon,2016-01-06,3200.0,10.0,30.2,clear
+1335,Soyabean,Amarawati,2016-03-06,3225.0,220.0,34.8,clear
+1336,Soyabean,Anajngaon,2016-03-06,3450.0,2.0,34.8,clear
+1337,Soyabean,Chandur Railway,2016-03-06,3600.0,6.0,34.8,clear
+1338,Soyabean,Daryapur,2016-03-06,3370.0,11.0,34.8,clear
+1339,Soyabean,Dhamngaon-Railway,2016-03-06,3650.0,120.0,34.8,clear
+1340,Soyabean,Nanggaon,2016-03-06,3402.0,3.0,34.8,clear
+1341,Soyabean,Amarawati,2016-06-28,3258.0,35.0,30.2,clear
+1342,Soyabean,Chandur Railway,2016-06-28,3585.0,2.0,30.2,clear
+1343,Soyabean,Daryapur,2016-06-28,3550.0,4.0,30.2,clear
+1344,Soyabean,Dhamngaon-Railway,2016-06-28,3500.0,70.0,30.2,clear
+1345,Soyabean,Nanggaon,2016-06-28,3261.0,1.0,30.2,clear
+1346,Soyabean,Amarawati,2016-06-29,3450.0,46.0,27.2,clear
+1347,Soyabean,Anajngaon,2016-06-29,3450.0,7.0,27.2,clear
+1348,Soyabean,Chandur Railway,2016-06-29,3600.0,2.0,27.2,clear
+1349,Soyabean,Daryapur,2016-06-29,3550.0,1.0,27.2,clear
+1350,Soyabean,Morshi,2016-06-29,3500.0,8.0,27.2,clear
+1351,Soyabean,Nanggaon,2016-06-29,3250.0,5.0,27.2,clear
+1352,Soyabean,Amarawati,2016-04-07,3356.0,107.0,38.4,clear
+1353,Soyabean,Chandur Railway,2016-04-07,3460.0,6.0,38.4,clear
+1354,Soyabean,Dharni,2016-04-07,3950.0,5.0,38.4,clear
+1355,Soyabean,Nanggaon,2016-04-07,3260.0,4.0,38.4,clear
+1356,Soyabean,Amarawati,2016-07-30,3350.0,48.0,29.2,clear
+1357,Soyabean,Nanggaon,2016-07-30,3145.0,3.0,29.2,clear
+1358,Soyabean,Amarawati,2016-01-08,3440.0,65.0,30.2,clear
+1359,Soyabean,Nanggaon,2016-01-08,3213.0,3.0,30.2,clear
+1360,Soyabean,Amarawati,2016-02-08,3450.0,116.0,32.0,clear
+1361,Soyabean,Nanggaon,2016-02-08,3250.0,8.0,32.0,clear
+1362,Soyabean,Amarawati,2016-03-08,3443.0,45.0,36.2,clear
+1363,Soyabean,Anajngaon,2016-03-08,3200.0,1.0,36.2,clear
+1364,Soyabean,Nanggaon,2016-03-08,3425.0,4.0,36.2,clear
+1365,Soyabean,Amarawati,2016-05-08,3495.0,16.0,37.6,clear
+1366,Soyabean,Anajngaon,2016-05-08,3150.0,5.0,37.6,clear
+1367,Soyabean,Nanggaon,2016-05-08,3226.0,2.0,37.6,clear
+1368,Soyabean,Amarawati,2016-06-08,3374.0,84.0,41.4,clear
+1369,Soyabean,Morshi,2016-06-08,3150.0,5.0,41.4,clear
+1370,Soyabean,Nanggaon,2016-06-08,3100.0,2.0,41.4,clear
+1371,Soyabean,Amarawati,2016-09-08,3420.0,138.0,32.2,clear
+1372,Soyabean,Chandur Railway,2016-09-08,3150.0,1.0,32.2,clear
+1373,Soyabean,Nanggaon,2016-09-08,3250.0,5.0,32.2,clear
+1374,Soyabean,Amarawati,2016-10-08,3360.0,164.0,27.4,clear
+1375,Soyabean,Anajngaon,2016-10-08,3850.0,3.0,27.4,clear
+1376,Soyabean,Chandur Railway,2016-10-08,3200.0,0.0,27.4,clear
+1377,Soyabean,Dhamngaon-Railway,2016-10-08,3250.0,45.0,27.4,clear
+1378,Soyabean,Morshi,2016-10-08,3362.0,6.0,27.4,clear
+1379,Soyabean,Nanggaon,2016-10-08,3300.0,4.0,27.4,clear
+1380,Soyabean,Amarawati,2016-08-13,3350.0,104.0,24.8,clear
+1381,Soyabean,Chandur Railway,2016-08-13,3225.0,1.0,24.8,clear
+1382,Soyabean,Morshi,2016-08-13,3140.0,5.0,24.8,clear
+1383,Soyabean,Nanggaon,2016-08-13,3200.0,1.0,24.8,clear
+1384,Soyabean,Amarawati,2016-08-16,3155.0,117.0,29.2,clear
+1385,Soyabean,Chandur Railway,2016-08-16,3300.0,1.0,29.2,clear
+1386,Soyabean,Daryapur,2016-08-16,3255.0,11.0,29.2,clear
+1387,Soyabean,Dhamngaon-Railway,2016-08-16,3200.0,65.0,29.2,clear
+1388,Soyabean,Nanggaon,2016-08-16,3175.0,4.0,29.2,clear
+1389,Soyabean,Amarawati,2016-08-20,3305.0,87.0,25.2,clear
+1390,Soyabean,Chandur Railway,2016-08-20,3200.0,2.0,25.2,clear
+1391,Soyabean,Daryapur,2016-08-20,3200.0,4.0,25.2,clear
+1392,Soyabean,Dhamngaon-Railway,2016-08-20,3150.0,70.0,25.2,clear
+1393,Soyabean,Morshi,2016-08-20,3155.0,9.0,25.2,clear
+1394,Soyabean,Nanggaon,2016-08-20,3075.0,4.0,25.2,clear
+1395,Soyabean,Amarawati,2016-08-22,3240.0,151.0,25.4,clear
+1396,Soyabean,Chandur Railway,2016-08-22,3100.0,0.0,25.4,clear
+1397,Soyabean,Daryapur,2016-08-22,3200.0,4.0,25.4,clear
+1398,Soyabean,Dhamngaon-Railway,2016-08-22,3150.0,65.0,25.4,clear
+1399,Soyabean,Nanggaon,2016-08-22,3116.0,2.0,25.4,clear
+1400,Soyabean,Amarawati,2016-08-23,3098.0,166.0,29.0,clear
+1401,Soyabean,Chandur Railway,2016-08-23,3331.0,2.0,29.0,clear
+1402,Soyabean,Daryapur,2016-08-23,3140.0,26.0,29.0,clear
+1403,Soyabean,Nanggaon,2016-08-23,3050.0,6.0,29.0,clear
+1404,Soyabean,Amarawati,2016-08-24,3090.0,140.0,31.2,clear
+1405,Soyabean,Anajngaon,2016-08-24,3300.0,12.0,31.2,clear
+1406,Soyabean,Daryapur,2016-08-24,3175.0,10.0,31.2,clear
+1407,Soyabean,Dhamngaon-Railway,2016-08-24,3200.0,70.0,31.2,clear
+1408,Soyabean,Morshi,2016-08-24,3211.0,6.0,31.2,clear
+1409,Soyabean,Nanggaon,2016-08-24,3088.0,2.0,31.2,clear
+1410,Soyabean,Amarawati,2016-08-27,3252.0,72.0,29.6,clear
+1411,Soyabean,Chandur Railway,2016-08-27,2925.0,2.0,29.6,clear
+1412,Soyabean,Daryapur,2016-08-27,3035.0,4.0,29.6,clear
+1413,Soyabean,Morshi,2016-08-27,2855.0,5.0,29.6,clear
+1414,Soyabean,Nanggaon,2016-08-27,2910.0,1.0,29.6,clear
+1415,Soyabean,Amarawati,2016-08-29,3000.0,72.0,33.2,clear
+1416,Soyabean,Chandur Railway,2016-08-29,2900.0,1.0,33.2,clear
+1417,Soyabean,Daryapur,2016-08-29,2995.0,9.0,33.2,clear
+1418,Soyabean,Dhamngaon-Railway,2016-08-29,3000.0,30.0,33.2,clear
+1419,Soyabean,Nanggaon,2016-08-29,3021.0,1.0,33.2,clear
+1420,Soyabean,Amarawati,2016-08-31,2949.0,66.0,25.6,clear
+1421,Soyabean,Chandur Railway,2016-08-31,2965.0,297.0,25.6,clear
+1422,Soyabean,Daryapur,2016-08-31,3145.0,1.0,25.6,clear
+1423,Soyabean,Dhamngaon-Railway,2016-08-31,3000.0,11.0,25.6,clear
+1424,Soyabean,Morshi,2016-08-31,3150.0,4.0,25.6,clear
+1425,Soyabean,Amarawati,2016-03-09,3010.0,52.0,36.6,clear
+1426,Soyabean,Daryapur,2016-03-09,3115.0,9.0,36.6,clear
+1427,Soyabean,Morshi,2016-03-09,2963.0,5.0,36.6,clear
+1428,Soyabean,Nanggaon,2016-03-09,3200.0,0.0,36.6,clear
+1429,Soyabean,Amarawati,2016-06-09,3040.0,40.0,35.0,clear
+1430,Soyabean,Chandur Railway,2016-06-09,2923.0,2.0,35.0,clear
+1431,Soyabean,Nanggaon,2016-06-09,3090.0,2.0,35.0,clear
+1432,Soyabean,Amarawati,2016-07-09,3025.0,65.0,25.2,clear
+1433,Soyabean,Anajngaon,2016-07-09,2850.0,6.0,25.2,clear
+1434,Soyabean,Chandur Railway,2016-07-09,3020.0,0.0,25.2,clear
+1435,Soyabean,Daryapur,2016-07-09,3000.0,6.0,25.2,clear
+1436,Soyabean,Dhamngaon-Railway,2016-07-09,3050.0,30.0,25.2,clear
+1437,Soyabean,Morshi,2016-07-09,3042.0,10.0,25.2,clear
+1438,Soyabean,Nanggaon,2016-07-09,2865.0,1.0,25.2,clear
+1439,Soyabean,Amarawati,2016-10-09,3025.0,46.0,31.0,clear
+1440,Soyabean,Chandur Railway,2016-10-09,3100.0,1.0,31.0,clear
+1441,Soyabean,Daryapur,2016-10-09,3000.0,3.0,31.0,clear
+1442,Soyabean,Morshi,2016-10-09,2966.0,3.0,31.0,clear
+1443,Soyabean,Nanggaon,2016-10-09,3075.0,1.0,31.0,clear
+1444,Soyabean,Amarawati,2016-09-14,3100.0,53.0,26.8,clear
+1445,Soyabean,Chandur Railway,2016-09-14,2800.0,0.0,26.8,clear
+1446,Soyabean,Daryapur,2016-09-14,3050.0,5.0,26.8,clear
+1447,Soyabean,Dhamngaon-Railway,2016-09-14,3100.0,13.0,26.8,clear
+1448,Soyabean,Morshi,2016-09-14,2811.0,4.0,26.8,clear
+1449,Soyabean,Nanggaon,2016-09-14,2800.0,0.0,26.8,clear
+1450,Soyabean,Amarawati,2016-09-16,3013.0,40.0,29.4,clear
+1451,Soyabean,Chandur Railway,2016-09-16,2900.0,0.0,29.4,clear
+1452,Soyabean,Daryapur,2016-09-16,3050.0,2.0,29.4,clear
+1453,Soyabean,Dhamngaon-Railway,2016-09-16,3000.0,7.0,29.4,clear
+1454,Soyabean,Nanggaon,2016-09-16,2975.0,0.0,29.4,clear
+1455,Soyabean,Amarawati,2016-09-17,3000.0,44.0,30.6,clear
+1456,Soyabean,Chandur Railway,2016-09-17,3115.0,1.0,30.6,clear
+1457,Soyabean,Daryapur,2016-09-17,2900.0,2.0,30.6,clear
+1458,Soyabean,Morshi,2016-09-17,2960.0,5.0,30.6,clear
+1459,Soyabean,Nanggaon,2016-09-17,2950.0,0.0,30.6,clear
+1460,Soyabean,Amarawati,2016-09-19,3037.0,74.0,29.4,clear
+1461,Soyabean,Chandur Railway,2016-09-19,3125.0,1.0,29.4,clear
+1462,Soyabean,Daryapur,2016-09-19,3000.0,1.0,29.4,clear
+1463,Soyabean,Dhamngaon-Railway,2016-09-19,3250.0,50.0,29.4,clear
+1464,Soyabean,Nanggaon,2016-09-19,2926.0,3.0,29.4,clear
+1465,Soyabean,Amarawati,2016-09-20,3194.0,62.0,30.8,clear
+1466,Soyabean,Daryapur,2016-09-20,3140.0,3.0,30.8,clear
+1467,Soyabean,Dhamngaon-Railway,2016-09-20,3200.0,25.0,30.8,clear
+1468,Soyabean,Amarawati,2016-09-23,3057.0,144.0,27.2,clear
+1469,Soyabean,Chandur Railway,2016-09-23,3000.0,1.0,27.2,clear
+1470,Soyabean,Nanggaon,2016-09-23,2925.0,2.0,27.2,clear
+1471,Soyabean,Amarawati,2016-09-24,3086.0,37.0,25.2,clear
+1472,Soyabean,Chandur Railway,2016-09-24,2900.0,3.0,25.2,clear
+1473,Soyabean,Morshi,2016-09-24,2863.0,4.0,25.2,clear
+1474,Soyabean,Nanggaon,2016-09-24,2900.0,3.0,25.2,clear
+1475,Soyabean,Amarawati,2016-09-26,3000.0,56.0,28.2,clear
+1476,Soyabean,Chandur Railway,2016-09-26,2970.0,4.0,28.2,clear
+1477,Soyabean,Nanggaon,2016-09-26,2900.0,5.0,28.2,clear
+1478,Soyabean,Amarawati,2016-09-27,3018.0,65.0,32.2,clear
+1479,Soyabean,Daryapur,2016-09-27,2950.0,4.0,32.2,clear
+1480,Soyabean,Dhamngaon-Railway,2016-09-27,3000.0,60.0,32.2,clear
+1481,Soyabean,Nanggaon,2016-09-27,2705.0,1.0,32.2,clear
+1482,Soyabean,Amarawati,2016-09-28,3020.0,106.0,32.0,clear
+1483,Soyabean,Chandur Railway,2016-09-28,3055.0,1.0,32.0,clear
+1484,Soyabean,Daryapur,2016-09-28,2850.0,8.0,32.0,clear
+1485,Soyabean,Dhamngaon-Railway,2016-09-28,3100.0,15.0,32.0,clear
+1486,Soyabean,Morshi,2016-09-28,2800.0,5.0,32.0,clear
+1487,Soyabean,Amarawati,2016-10-22,2482.0,1584.0,28.2,clear
+1488,Soyabean,Daryapur,2016-10-22,2450.0,201.0,28.2,clear
+1489,Soyabean,Dhamngaon-Railway,2016-10-22,1950.0,180.0,28.2,clear
+1490,Soyabean,Morshi,2016-10-22,2677.0,159.0,28.2,clear
+1491,Soyabean,Nanggaon,2016-10-22,2545.0,76.0,28.2,clear
+1492,Soyabean,Amarawati,2016-12-11,2581.0,452.0,30.6,clear
+1493,Soyabean,Dhamngaon-Railway,2016-12-11,2500.0,160.0,30.6,clear
+1494,Soyabean,Dharni,2016-12-11,2550.0,12.0,30.6,clear
+1495,Soyabean,Morshi,2016-12-11,2655.0,128.0,30.6,clear
+1496,Soyabean,Amarawati,2016-11-15,2425.0,856.0,28.8,clear
+1497,Soyabean,Chandur Railway,2016-11-15,2600.0,51.0,28.8,clear
+1498,Soyabean,Daryapur,2016-11-15,2450.0,99.0,28.8,clear
+1499,Soyabean,Dhamngaon-Railway,2016-11-15,2350.0,200.0,28.8,clear
+1500,Soyabean,Nanggaon,2016-11-15,2455.0,27.0,28.8,clear
+1501,Soyabean,Tiwasa,2016-11-15,2450.0,27.0,28.8,clear
+1502,Soyabean,Amarawati,2016-11-16,2490.0,903.0,30.4,clear
+1503,Soyabean,Chandur Bazar,2016-11-16,2785.0,75.0,30.4,clear
+1504,Soyabean,Chandur Railway,2016-11-16,2875.0,2.0,30.4,clear
+1505,Soyabean,Daryapur,2016-11-16,2500.0,29.0,30.4,clear
+1506,Soyabean,Dhamngaon-Railway,2016-11-16,2450.0,65.0,30.4,clear
+1507,Soyabean,Morshi,2016-11-16,2700.0,150.0,30.4,clear
+1508,Soyabean,Nanggaon,2016-11-16,2501.0,51.0,30.4,clear
+1509,Soyabean,Amarawati,2016-11-18,2556.0,1072.0,28.8,clear
+1510,Soyabean,Anajngaon,2016-11-18,2500.0,118.0,28.8,clear
+1511,Soyabean,Chandur Railway,2016-11-18,2400.0,55.0,28.8,clear
+1512,Soyabean,Daryapur,2016-11-18,2800.0,29.0,28.8,clear
+1513,Soyabean,Dharni,2016-11-18,2550.0,6.0,28.8,clear
+1514,Soyabean,Morshi,2016-11-18,2700.0,45.0,28.8,clear
+1515,Soyabean,Nanggaon,2016-11-18,2600.0,72.0,28.8,clear
+1516,Soyabean,Tiwasa,2016-11-18,2650.0,21.0,28.8,clear
+1517,Soyabean,Varud,2016-11-18,2992.0,4.0,28.8,clear
+1518,Soyabean,Amarawati,2016-11-19,2531.0,638.0,28.6,clear
+1519,Soyabean,Chandur Railway,2016-11-19,2600.0,75.0,28.6,clear
+1520,Soyabean,Daryapur,2016-11-19,2600.0,53.0,28.6,clear
+1521,Soyabean,Dhamngaon-Railway,2016-11-19,2550.0,140.0,28.6,clear
+1522,Soyabean,Morshi,2016-11-19,2700.0,100.0,28.6,clear
+1523,Soyabean,Nanggaon,2016-11-19,2510.0,50.0,28.6,clear
+1524,Soyabean,Amarawati,2016-11-23,2585.0,1406.0,29.0,clear
+1525,Soyabean,Anajngaon,2016-11-23,2600.0,85.0,29.0,clear
+1526,Soyabean,Chandur Bazar,2016-11-23,2785.0,102.0,29.0,clear
+1527,Soyabean,Chandur Railway,2016-11-23,2600.0,50.0,29.0,clear
+1528,Soyabean,Daryapur,2016-11-23,2750.0,70.0,29.0,clear
+1529,Soyabean,Dhamngaon-Railway,2016-11-23,2550.0,250.0,29.0,clear
+1530,Soyabean,Morshi,2016-11-23,2850.0,90.0,29.0,clear
+1531,Soyabean,Nanggaon,2016-11-23,2560.0,80.0,29.0,clear
+1532,Soyabean,Amarawati,2016-07-12,2741.0,1388.0,26.0,clear
+1533,Soyabean,Anajngaon,2016-07-12,2600.0,62.0,26.0,clear
+1534,Soyabean,Chandur Bazar,2016-07-12,2800.0,117.0,26.0,clear
+1535,Soyabean,Chandur Railway,2016-07-12,2681.0,76.0,26.0,clear
+1536,Soyabean,Daryapur,2016-07-12,2650.0,86.0,26.0,clear
+1537,Soyabean,Dhamngaon-Railway,2016-07-12,2750.0,340.0,26.0,clear
+1538,Soyabean,Dharni,2016-07-12,2650.0,15.0,26.0,clear
+1539,Soyabean,Morshi,2016-07-12,2675.0,85.0,26.0,clear
+1540,Soyabean,Nanggaon,2016-07-12,2570.0,63.0,26.0,clear
+1541,Soyabean,Amarawati,2016-12-14,2730.0,1567.0,27.2,clear
+1542,Soyabean,Anajngaon,2016-12-14,2550.0,79.0,27.2,clear
+1543,Soyabean,Chandur Bazar,2016-12-14,2750.0,123.0,27.2,clear
+1544,Soyabean,Chandur Railway,2016-12-14,2650.0,40.0,27.2,clear
+1545,Soyabean,Daryapur,2016-12-14,2600.0,52.0,27.2,clear
+1546,Soyabean,Dhamngaon-Railway,2016-12-14,2650.0,280.0,27.2,clear
+1547,Soyabean,Morshi,2016-12-14,2650.0,75.0,27.2,clear
+1548,Soyabean,Nanggaon,2016-12-14,2557.0,78.0,27.2,clear
+1549,Soyabean,Amarawati,2016-12-21,2690.0,1017.0,28.6,clear
+1550,Soyabean,Anajngaon,2016-12-21,2500.0,73.0,28.6,clear
+1551,Soyabean,Chandur Bazar,2016-12-21,2750.0,57.0,28.6,clear
+1552,Soyabean,Chandur Railway,2016-12-21,2672.0,37.0,28.6,clear
+1553,Soyabean,Daryapur,2016-12-21,2550.0,44.0,28.6,clear
+1554,Soyabean,Dhamngaon-Railway,2016-12-21,2650.0,230.0,28.6,clear
+1555,Soyabean,Morshi,2016-12-21,2760.0,65.0,28.6,clear
+1556,Soyabean,Amarawati,2016-12-28,2708.0,740.0,26.6,clear
+1557,Soyabean,Anajngaon,2016-12-28,2550.0,81.0,26.6,clear
+1558,Soyabean,Chandur Bazar,2016-12-28,2712.0,52.0,26.6,clear
+1559,Soyabean,Chandur Railway,2016-12-28,2695.0,38.0,26.6,clear
+1560,Soyabean,Daryapur,2016-12-28,2705.0,82.0,26.6,clear
+1561,Soyabean,Dhamngaon-Railway,2016-12-28,2650.0,215.0,26.6,clear
+1562,Soyabean,Morshi,2016-12-28,2710.0,61.0,26.6,clear
+1563,Soyabean,Nanggaon,2016-12-28,2583.0,47.0,26.6,clear
+1564,Soyabean,Anajngaon,2016-03-01,3350.0,18.0,33.8,clear
+1565,Soyabean,Chandur Bazar,2016-03-01,3550.0,124.0,33.8,clear
+1566,Soyabean,Anajngaon,2016-10-01,3325.0,8.0,27.6,clear
+1567,Soyabean,Chandur Bazar,2016-10-01,3580.0,76.0,27.6,clear
+1568,Soyabean,Dharni,2016-10-01,3350.0,6.0,27.6,clear
+1569,Soyabean,Anajngaon,2016-01-17,3400.0,15.0,26.6,clear
+1570,Soyabean,Chandur Bazar,2016-01-17,3412.0,36.0,26.6,clear
+1571,Soyabean,Nanggaon,2016-01-17,3111.0,65.0,26.6,clear
+1572,Soyabean,Anajngaon,2016-01-24,3400.0,8.0,29.0,clear
+1573,Soyabean,Chandur Bazar,2016-01-24,3292.0,78.0,29.0,clear
+1574,Soyabean,Anajngaon,2016-07-02,3250.0,17.0,31.4,clear
+1575,Soyabean,Chandur Bazar,2016-07-02,3200.0,74.0,31.4,clear
+1576,Soyabean,Anajngaon,2016-02-14,3425.0,10.0,32.2,clear
+1577,Soyabean,Chandur Bazar,2016-02-14,3359.0,123.0,32.2,clear
+1578,Soyabean,Daryapur,2016-02-14,3300.0,7.0,32.2,clear
+1579,Soyabean,Anajngaon,2016-02-21,3250.0,14.0,35.4,clear
+1580,Soyabean,Anajngaon,2016-02-28,3250.0,5.0,31.0,clear
+1581,Soyabean,Chandur Bazar,2016-02-28,3550.0,32.0,31.0,clear
+1582,Soyabean,Dharni,2016-02-28,3450.0,16.0,31.0,clear
+1583,Soyabean,Anajngaon,2016-06-03,3000.0,4.0,40.0,clear
+1584,Soyabean,Chandur Bazar,2016-06-03,3487.0,39.0,40.0,clear
+1585,Soyabean,Anajngaon,2016-03-13,3250.0,5.0,34.8,clear
+1586,Soyabean,Chandur Bazar,2016-03-13,3451.0,27.0,34.8,clear
+1587,Soyabean,Anajngaon,2016-03-20,3200.0,4.0,36.8,clear
+1588,Soyabean,Anajngaon,2016-03-23,3400.0,2.0,38.4,clear
+1589,Soyabean,Morshi,2016-03-23,3146.0,7.0,38.4,clear
+1590,Soyabean,Anajngaon,2016-03-27,3400.0,2.0,33.6,clear
+1591,Soyabean,Chandur Bazar,2016-03-27,3700.0,42.0,33.6,clear
+1592,Soyabean,Anajngaon,2016-03-30,3400.0,2.0,40.2,clear
+1593,Soyabean,Chandur Bazar,2016-03-30,3522.0,14.0,40.2,clear
+1594,Soyabean,Morshi,2016-03-30,3266.0,11.0,40.2,clear
+1595,Soyabean,Anajngaon,2016-03-04,3650.0,2.0,35.0,clear
+1596,Soyabean,Chandur Bazar,2016-03-04,3731.0,32.0,35.0,clear
+1597,Soyabean,Anajngaon,2016-10-04,3500.0,3.0,30.2,clear
+1598,Soyabean,Chandur Bazar,2016-10-04,3735.0,44.0,30.2,clear
+1599,Soyabean,Anajngaon,2016-04-17,3600.0,2.0,41.0,clear
+1600,Soyabean,Chandur Bazar,2016-04-17,3750.0,30.0,41.0,clear
+1601,Soyabean,Anajngaon,2016-04-20,3600.0,2.0,43.0,clear
+1602,Soyabean,Chandur Bazar,2016-04-20,3452.0,17.0,43.0,clear
+1603,Soyabean,Nanggaon,2016-04-20,3600.0,18.0,43.0,clear
+1604,Soyabean,Anajngaon,2016-04-24,3450.0,4.0,39.4,clear
+1605,Soyabean,Chandur Bazar,2016-04-24,3700.0,41.0,39.4,clear
+1606,Soyabean,Anajngaon,2016-08-05,3450.0,9.0,30.8,clear
+1607,Soyabean,Chandur Bazar,2016-08-05,3600.0,24.0,30.8,clear
+1608,Soyabean,Anajngaon,2016-05-15,3450.0,5.0,43.0,clear
+1609,Soyabean,Chandur Bazar,2016-05-15,3600.0,84.0,43.0,clear
+1610,Soyabean,Anajngaon,2016-05-22,3300.0,6.0,41.6,clear
+1611,Soyabean,Chandur Bazar,2016-05-22,4005.0,31.0,41.6,clear
+1612,Soyabean,Anajngaon,2016-05-29,3450.0,2.0,39.4,clear
+1613,Soyabean,Chandur Bazar,2016-05-29,3951.0,30.0,39.4,clear
+1614,Soyabean,Anajngaon,2016-05-06,3450.0,15.0,29.4,clear
+1615,Soyabean,Chandur Bazar,2016-05-06,3854.0,45.0,29.4,clear
+1616,Soyabean,Anajngaon,2016-12-06,3650.0,15.0,28.0,clear
+1617,Soyabean,Chandur Bazar,2016-12-06,3950.0,33.0,28.0,clear
+1618,Soyabean,Anajngaon,2016-06-19,3450.0,25.0,29.2,clear
+1619,Soyabean,Chandur Bazar,2016-06-19,3561.0,21.0,29.2,clear
+1620,Soyabean,Anajngaon,2016-06-26,3300.0,13.0,27.6,clear
+1621,Soyabean,Chandur Bazar,2016-06-26,3855.0,12.0,27.6,clear
+1622,Soyabean,Anajngaon,2016-03-07,3300.0,18.0,34.4,clear
+1623,Soyabean,Chandur Bazar,2016-03-07,3369.0,17.0,34.4,clear
+1624,Soyabean,Anajngaon,2016-07-20,3000.0,6.0,30.2,clear
+1625,Soyabean,Chandur Railway,2016-07-20,3350.0,1.0,30.2,clear
+1626,Soyabean,Daryapur,2016-07-20,3350.0,6.0,30.2,clear
+1627,Soyabean,Morshi,2016-07-20,3410.0,4.0,30.2,clear
+1628,Soyabean,Nanggaon,2016-07-20,3300.0,9.0,30.2,clear
+1629,Soyabean,Anajngaon,2016-07-22,3000.0,18.0,25.8,clear
+1630,Soyabean,Chandur Railway,2016-07-22,3425.0,1.0,25.8,clear
+1631,Soyabean,Nanggaon,2016-07-22,3250.0,2.0,25.8,clear
+1632,Soyabean,Anajngaon,2016-07-24,3300.0,16.0,29.2,clear
+1633,Soyabean,Chandur Bazar,2016-07-24,3350.0,16.0,29.2,clear
+1634,Soyabean,Anajngaon,2016-07-27,3200.0,5.0,25.2,clear
+1635,Soyabean,Nanggaon,2016-07-27,3308.0,3.0,25.2,clear
+1636,Soyabean,Anajngaon,2016-07-31,3200.0,9.0,28.2,clear
+1637,Soyabean,Chandur Bazar,2016-07-31,3200.0,13.0,28.2,clear
+1638,Soyabean,Anajngaon,2016-08-14,3200.0,9.0,29.0,clear
+1639,Soyabean,Chandur Bazar,2016-08-14,3085.0,22.0,29.0,clear
+1640,Soyabean,Anajngaon,2016-08-21,3200.0,6.0,28.4,clear
+1641,Soyabean,Chandur Bazar,2016-08-21,3150.0,6.0,28.4,clear
+1642,Soyabean,Anajngaon,2016-08-28,3000.0,8.0,27.2,clear
+1643,Soyabean,Chandur Bazar,2016-08-28,3100.0,18.0,27.2,clear
+1644,Soyabean,Anajngaon,2016-02-09,2850.0,1.0,31.4,clear
+1645,Soyabean,Daryapur,2016-02-09,3100.0,1.0,31.4,clear
+1646,Soyabean,Anajngaon,2016-04-09,2800.0,7.0,39.8,clear
+1647,Soyabean,Chandur Bazar,2016-04-09,2911.0,2.0,39.8,clear
+1648,Soyabean,Anajngaon,2016-11-09,2850.0,3.0,29.2,clear
+1649,Soyabean,Anajngaon,2016-10-23,2300.0,378.0,28.4,clear
+1650,Soyabean,Chandur Bazar,2016-10-23,2740.0,798.0,28.4,clear
+1651,Soyabean,Dharni,2016-10-23,2500.0,26.0,28.4,clear
+1652,Soyabean,Anajngaon,2016-06-11,2500.0,267.0,39.2,clear
+1653,Soyabean,Chandur Bazar,2016-06-11,2775.0,642.0,39.2,clear
+1654,Soyabean,Anajngaon,2016-11-13,2500.0,162.0,28.4,clear
+1655,Soyabean,Chandur Bazar,2016-11-13,2775.0,226.0,28.4,clear
+1656,Soyabean,Anajngaon,2016-11-20,2600.0,98.0,29.4,clear
+1657,Soyabean,Chandur Bazar,2016-11-20,2785.0,180.0,29.4,clear
+1658,Soyabean,Anajngaon,2016-04-12,2600.0,65.0,40.4,clear
+1659,Soyabean,Chandur Bazar,2016-04-12,2750.0,245.0,40.4,clear
+1660,Soyabean,Dharni,2016-04-12,2850.0,6.0,40.4,clear
+1661,Soyabean,Anajngaon,2016-11-12,2500.0,73.0,28.0,clear
+1662,Soyabean,Chandur Bazar,2016-11-12,2700.0,159.0,28.0,clear
+1663,Soyabean,Dharni,2016-11-12,2850.0,5.0,28.0,clear
+1664,Soyabean,Anajngaon,2016-12-18,2400.0,72.0,27.0,clear
+1665,Soyabean,Chandur Bazar,2016-12-18,2625.0,233.0,27.0,clear
+1666,Soyabean,Chandur Bazar,2016-01-31,3698.0,76.0,33.6,clear
+1667,Soyabean,Chandur Bazar,2016-07-17,3400.0,10.0,27.6,clear
+1668,Soyabean,Chandur Bazar,2016-09-18,3025.0,14.0,31.6,clear
+1669,Soyabean,Chandur Bazar,2016-09-25,2978.0,23.0,24.2,rain
+1670,Soyabean,Chandur Railway,2016-03-28,3700.0,8.0,37.6,clear
+1671,Soyabean,Daryapur,2016-03-28,3750.0,5.0,37.6,clear
+1672,Soyabean,Chandur Railway,2016-03-29,3750.0,8.0,39.4,clear
+1673,Soyabean,Chandur Railway,2016-07-18,3400.0,1.0,28.8,clear
+1674,Soyabean,Nanggaon,2016-07-18,3275.0,8.0,28.8,clear
+1675,Soyabean,Chandur Railway,2016-07-23,3200.0,0.0,25.2,clear
+1676,Soyabean,Nanggaon,2016-07-23,3300.0,1.0,25.2,clear
+1677,Soyabean,Chandur Railway,2016-07-25,3185.0,1.0,30.8,clear
+1678,Soyabean,Nanggaon,2016-07-25,3260.0,2.0,30.8,clear
+1679,Soyabean,Chandur Railway,2016-07-26,3250.0,0.0,26.0,clear
+1680,Soyabean,Nanggaon,2016-07-26,3235.0,1.0,26.0,clear
+1681,Soyabean,Chandur Railway,2016-10-27,2575.0,78.0,30.4,clear
+1682,Soyabean,Dhamngaon-Railway,2016-10-27,2450.0,85.0,30.4,clear
+1683,Soyabean,Nanggaon,2016-10-27,2650.0,60.0,30.4,clear
+1684,Soyabean,Varud(Rajura Bazar),2016-10-27,2816.0,32.0,30.4,clear
+1685,Soyabean,Daryapur,2016-07-16,3375.0,7.0,32.6,clear
+1686,Soyabean,Nanggaon,2016-07-16,3237.0,0.0,32.6,clear
+1687,Soyabean,Daryapur,2016-10-18,2620.0,134.0,29.2,clear
+1688,Soyabean,Dhamngaon-Railway,2016-10-18,2450.0,90.0,29.2,clear
+1689,Soyabean,Dhamngaon-Railway,2016-09-21,3000.0,10.0,31.0,clear
+1690,Soyabean,Dhamngaon-Railway,2016-10-14,2250.0,70.0,30.4,clear
+1691,Soyabean,Dharni,2016-01-26,3350.0,15.0,20.4,clear
+1692,Soyabean,Dharni,2016-04-22,3550.0,10.0,41.4,clear
+1693,Soyabean,Dharni,2016-10-31,2550.0,16.0,29.4,clear
+1694,Soyabean,Dharni,2016-01-11,2550.0,36.0,30.0,clear
+1695,Soyabean,Morshi,2016-07-03,3122.0,1.0,30.2,clear
+1696,Soyabean,Morshi,2016-03-26,3581.0,7.0,41.0,clear
+1697,Soyabean,Morshi,2016-08-17,3100.0,3.0,29.0,clear
+1698,Soyabean,Morshi,2016-10-28,2614.0,86.0,29.2,clear
+1699,Soyabean,Nanggaon,2016-10-28,2656.0,19.0,29.2,clear
+1700,Soyabean,Tiwasa,2016-10-28,2525.0,33.0,29.2,clear
+1701,Soyabean,Varud,2016-10-28,100.0,611.0,29.2,clear
+1702,Soyabean,Morshi,2016-11-14,2600.0,30.0,28.0,clear
+1703,Soyabean,Varud,2016-11-14,2767.0,4.0,28.0,clear
+1704,Soyabean,Morshi,2016-12-12,2675.0,13.0,29.8,clear
+1705,Soyabean,Nanggaon,2016-01-04,3200.0,4.0,30.2,clear
+1706,Soyabean,Nanggaon,2016-07-15,3450.0,0.0,31.8,clear
+1707,Soyabean,Nanggaon,2016-07-19,3257.0,3.0,28.6,clear
+1708,Soyabean,Varud(Rajura Bazar),2016-07-14,3541.0,1.0,32.4,clear
+1709,Soyabean,Varud(Rajura Bazar),2016-08-18,3205.0,6.0,30.8,clear
+1710,Mustard,Achalpur,2017-02-16,3100.0,0.0,32.8,clear
+1711,Soyabean,Achalpur,2017-02-16,2725.0,100.0,32.8,clear
+1712,Soyabean,Amarawati,2017-02-16,2682.0,484.0,32.8,clear
+1713,Soyabean,Chandur Railway,2017-02-16,2650.0,24.0,32.8,clear
+1714,Soyabean,Dhamngaon-Railway,2017-02-16,2550.0,170.0,32.8,clear
+1715,Soyabean,Dharni,2017-02-16,2550.0,10.0,32.8,clear
+1716,Soyabean,Varud,2017-02-16,2632.0,1.0,32.8,clear
+1717,Mustard,Achalpur,2017-03-23,3450.0,0.0,39.0,clear
+1718,Soyabean,Achalpur,2017-03-23,2750.0,150.0,39.0,clear
+1719,Soyabean,Amarawati,2017-03-23,2685.0,626.0,39.0,clear
+1720,Soyabean,Chandur Railway,2017-03-23,2550.0,25.0,39.0,clear
+1721,Soyabean,Daryapur,2017-03-23,2650.0,8.0,39.0,clear
+1722,Soyabean,Dhamngaon-Railway,2017-03-23,2650.0,205.0,39.0,clear
+1723,Soyabean,Nanggaon,2017-03-23,2562.0,30.0,39.0,clear
+1724,Soyabean,Achalpur,2017-02-01,2760.0,31.0,31.4,clear
+1725,Soyabean,Amarawati,2017-02-01,2738.0,786.0,31.4,clear
+1726,Soyabean,Chandur Railway,2017-02-01,2676.0,35.0,31.4,clear
+1727,Soyabean,Daryapur,2017-02-01,2750.0,38.0,31.4,clear
+1728,Soyabean,Morshi,2017-02-01,2788.0,38.0,31.4,clear
+1729,Soyabean,Nanggaon,2017-02-01,2605.0,70.0,31.4,clear
+1730,Soyabean,Varud,2017-02-01,2805.0,15.0,31.4,clear
+1731,Soyabean,Achalpur,2017-03-01,2750.0,47.0,36.2,clear
+1732,Soyabean,Amarawati,2017-03-01,2707.0,,36.2,clear
+1733,Soyabean,Chandur Railway,2017-03-01,2650.0,54.0,36.2,clear
+1734,Soyabean,Daryapur,2017-03-01,2750.0,42.0,36.2,clear
+1735,Soyabean,Dharni,2017-03-01,2650.0,5.0,36.2,clear
+1736,Soyabean,Nanggaon,2017-03-01,2595.0,94.0,36.2,clear
+1737,Soyabean,Tiwasa,2017-03-01,2750.0,46.0,36.2,clear
+1738,Soyabean,Achalpur,2017-05-01,2737.0,150.0,38.2,clear
+1739,Soyabean,Amarawati,2017-05-01,2776.0,963.0,38.2,clear
+1740,Soyabean,Chandur Railway,2017-05-01,2650.0,193.0,38.2,clear
+1741,Soyabean,Nanggaon,2017-05-01,2520.0,47.0,38.2,clear
+1742,Soyabean,Varud,2017-05-01,2689.0,5.0,38.2,clear
+1743,Soyabean,Achalpur,2017-06-01,2790.0,26.0,34.8,clear
+1744,Soyabean,Amarawati,2017-06-01,2678.0,,34.8,clear
+1745,Soyabean,Chandur Railway,2017-06-01,2722.0,66.0,34.8,clear
+1746,Soyabean,Daryapur,2017-06-01,2705.0,94.0,34.8,clear
+1747,Soyabean,Morshi,2017-06-01,2622.0,61.0,34.8,clear
+1748,Soyabean,Nanggaon,2017-06-01,2531.0,69.0,34.8,clear
+1749,Soyabean,Tiwasa,2017-06-01,2700.0,22.0,34.8,clear
+1750,Soyabean,Varud,2017-06-01,2768.0,27.0,34.8,clear
+1751,Soyabean,Achalpur,2017-07-01,2790.0,26.0,27.2,clear
+1752,Soyabean,Amarawati,2017-07-01,2679.0,1.0,27.2,clear
+1753,Soyabean,Chandur Railway,2017-07-01,2653.0,32.0,27.2,clear
+1754,Soyabean,Daryapur,2017-07-01,2625.0,47.0,27.2,clear
+1755,Soyabean,Dhamngaon-Railway,2017-07-01,2550.0,140.0,27.2,clear
+1756,Soyabean,Morshi,2017-07-01,2715.0,55.0,27.2,clear
+1757,Soyabean,Nanggaon,2017-07-01,2500.0,45.0,27.2,clear
+1758,Sunflower,Achalpur,2017-07-01,2900.0,1.0,27.2,clear
+1759,Soyabean,Achalpur,2017-09-01,2775.0,28.0,30.2,clear
+1760,Soyabean,Amarawati,2017-09-01,2670.0,,30.2,clear
+1761,Soyabean,Daryapur,2017-09-01,2600.0,100.0,30.2,clear
+1762,Soyabean,Dhamngaon-Railway,2017-09-01,2550.0,250.0,30.2,clear
+1763,Soyabean,Morshi,2017-09-01,2695.0,55.0,30.2,clear
+1764,Soyabean,Nanggaon,2017-09-01,2470.0,94.0,30.2,clear
+1765,Soyabean,Varud,2017-09-01,2721.0,11.0,30.2,clear
+1766,Soyabean,Achalpur,2017-10-01,2760.0,32.0,35.4,clear
+1767,Soyabean,Amarawati,2017-10-01,2650.0,1135.0,35.4,clear
+1768,Soyabean,Daryapur,2017-10-01,2445.0,40.0,35.4,clear
+1769,Soyabean,Dhamngaon-Railway,2017-10-01,2550.0,250.0,35.4,clear
+1770,Soyabean,Nanggaon,2017-10-01,2470.0,91.0,35.4,clear
+1771,Soyabean,Tiwasa,2017-10-01,2700.0,38.0,35.4,clear
+1772,Soyabean,Achalpur,2017-12-01,2750.0,150.0,28.8,clear
+1773,Soyabean,Amarawati,2017-12-01,2670.0,852.0,28.8,clear
+1774,Soyabean,Dhamngaon-Railway,2017-12-01,2550.0,300.0,28.8,clear
+1775,Soyabean,Nanggaon,2017-12-01,2525.0,69.0,28.8,clear
+1776,Soyabean,Varud,2017-12-01,2671.0,12.0,28.8,clear
+1777,Soyabean,Achalpur,2017-01-13,2750.0,3.0,22.6,clear
+1778,Soyabean,Amarawati,2017-01-13,2700.0,656.0,22.6,clear
+1779,Soyabean,Anajngaon,2017-01-13,2500.0,112.0,22.6,clear
+1780,Soyabean,Dhamngaon-Railway,2017-01-13,2550.0,150.0,22.6,clear
+1781,Soyabean,Morshi,2017-01-13,2715.0,44.0,22.6,clear
+1782,Soyabean,Nanggaon,2017-01-13,2555.0,36.0,22.6,clear
+1783,Soyabean,Tiwasa,2017-01-13,4950.0,20.0,22.6,clear
+1784,Soyabean,Varud,2017-01-13,2716.0,18.0,22.6,clear
+1785,Soyabean,Achalpur,2017-01-14,2775.0,10.0,25.8,clear
+1786,Soyabean,Amarawati,2017-01-14,2690.0,615.0,25.8,clear
+1787,Soyabean,Daryapur,2017-01-14,2650.0,19.0,25.8,clear
+1788,Soyabean,Dhamngaon-Railway,2017-01-14,2650.0,150.0,25.8,clear
+1789,Soyabean,Morshi,2017-01-14,2688.0,65.0,25.8,clear
+1790,Soyabean,Nanggaon,2017-01-14,2543.0,46.0,25.8,clear
+1791,Soyabean,Achalpur,2017-01-16,2770.0,12.0,27.6,clear
+1792,Soyabean,Amarawati,2017-01-16,2683.0,1186.0,27.6,clear
+1793,Soyabean,Dhamngaon-Railway,2017-01-16,2550.0,225.0,27.6,clear
+1794,Soyabean,Dharni,2017-01-16,2650.0,25.0,27.6,clear
+1795,Soyabean,Morshi,2017-01-16,2702.0,43.0,27.6,clear
+1796,Soyabean,Nanggaon,2017-01-16,2522.0,77.0,27.6,clear
+1797,Soyabean,Varud,2017-01-16,2726.0,28.0,27.6,clear
+1798,Soyabean,Achalpur,2017-01-17,2775.0,10.0,29.0,clear
+1799,Soyabean,Amarawati,2017-01-17,2700.0,0.0,29.0,clear
+1800,Soyabean,Daryapur,2017-01-17,2620.0,82.0,29.0,clear
+1801,Soyabean,Dhamngaon-Railway,2017-01-17,2650.0,210.0,29.0,clear
+1802,Soyabean,Nanggaon,2017-01-17,2559.0,82.0,29.0,clear
+1803,Soyabean,Achalpur,2017-01-23,2800.0,27.0,29.8,clear
+1804,Soyabean,Morshi,2017-01-23,2680.0,47.0,29.8,clear
+1805,Soyabean,Achalpur,2017-01-27,2750.0,15.0,27.6,clear
+1806,Soyabean,Amarawati,2017-01-27,2698.0,888.0,27.6,clear
+1807,Soyabean,Anajngaon,2017-01-27,2500.0,63.0,27.6,clear
+1808,Soyabean,Dhamngaon-Railway,2017-01-27,2550.0,150.0,27.6,clear
+1809,Soyabean,Morshi,2017-01-27,2650.0,47.0,27.6,clear
+1810,Soyabean,Nanggaon,2017-01-27,2484.0,60.0,27.6,clear
+1811,Soyabean,Achalpur,2017-01-28,2750.0,20.0,29.2,clear
+1812,Soyabean,Amarawati,2017-01-28,2634.0,655.0,29.2,clear
+1813,Soyabean,Dhamngaon-Railway,2017-01-28,2600.0,85.0,29.2,clear
+1814,Soyabean,Morshi,2017-01-28,2590.0,30.0,29.2,clear
+1815,Soyabean,Nanggaon,2017-01-28,2503.0,35.0,29.2,clear
+1816,Soyabean,Achalpur,2017-01-30,2750.0,42.0,19.4,clear
+1817,Soyabean,Amarawati,2017-01-30,2651.0,863.0,19.4,clear
+1818,Soyabean,Morshi,2017-01-30,2600.0,19.0,19.4,clear
+1819,Soyabean,Nanggaon,2017-01-30,2493.0,72.0,19.4,clear
+1820,Soyabean,Achalpur,2017-01-31,2770.0,4.0,31.4,clear
+1821,Soyabean,Amarawati,2017-01-31,2708.0,656.0,31.4,clear
+1822,Soyabean,Nanggaon,2017-01-31,2500.0,26.0,31.4,clear
+1823,Soyabean,Achalpur,2017-02-02,2688.0,150.0,31.8,clear
+1824,Soyabean,Amarawati,2017-02-02,2709.0,671.0,31.8,clear
+1825,Soyabean,Nanggaon,2017-02-02,2530.0,42.0,31.8,clear
+1826,Soyabean,Achalpur,2017-03-02,2725.0,10.0,35.4,clear
+1827,Soyabean,Amarawati,2017-03-02,2665.0,776.0,35.4,clear
+1828,Soyabean,Anajngaon,2017-03-02,2500.0,68.0,35.4,clear
+1829,Soyabean,Dhamngaon-Railway,2017-03-02,2550.0,190.0,35.4,clear
+1830,Soyabean,Morshi,2017-03-02,2687.0,13.0,35.4,clear
+1831,Soyabean,Nanggaon,2017-03-02,2518.0,39.0,35.4,clear
+1832,Soyabean,Tiwasa,2017-03-02,2700.0,16.0,35.4,clear
+1833,Soyabean,Achalpur,2017-04-02,2750.0,12.0,40.2,clear
+1834,Soyabean,Amarawati,2017-04-02,2681.0,637.0,40.2,clear
+1835,Soyabean,Dhamngaon-Railway,2017-04-02,2550.0,150.0,40.2,clear
+1836,Soyabean,Morshi,2017-04-02,2675.0,23.0,40.2,clear
+1837,Soyabean,Nanggaon,2017-04-02,2575.0,35.0,40.2,clear
+1838,Soyabean,Achalpur,2017-06-02,2745.0,20.0,34.2,clear
+1839,Soyabean,Chandur Railway,2017-06-02,2600.0,32.0,34.2,clear
+1840,Soyabean,Morshi,2017-06-02,2675.0,21.0,34.2,clear
+1841,Soyabean,Nanggaon,2017-06-02,2513.0,41.0,34.2,clear
+1842,Soyabean,Varud,2017-06-02,2733.0,18.0,34.2,clear
+1843,Soyabean,Achalpur,2017-07-02,2738.0,19.0,27.8,clear
+1844,Soyabean,Amarawati,2017-07-02,2693.0,958.0,27.8,clear
+1845,Soyabean,Chandur Railway,2017-07-02,2650.0,29.0,27.8,clear
+1846,Soyabean,Dharni,2017-07-02,2650.0,20.0,27.8,clear
+1847,Soyabean,Morshi,2017-07-02,2675.0,35.0,27.8,clear
+1848,Soyabean,Nanggaon,2017-07-02,2522.0,66.0,27.8,clear
+1849,Soyabean,Achalpur,2017-09-02,2662.0,110.0,31.0,clear
+1850,Soyabean,Nanggaon,2017-09-02,2699.0,59.0,31.0,clear
+1851,Soyabean,Varud,2017-09-02,2702.0,7.0,31.0,clear
+1852,Soyabean,Achalpur,2017-10-02,2700.0,40.0,35.4,clear
+1853,Soyabean,Amarawati,2017-10-02,2676.0,780.0,35.4,clear
+1854,Soyabean,Anajngaon,2017-10-02,2550.0,68.0,35.4,clear
+1855,Soyabean,Daryapur,2017-10-02,2600.0,38.0,35.4,clear
+1856,Soyabean,Dhamngaon-Railway,2017-10-02,2650.0,250.0,35.4,clear
+1857,Soyabean,Morshi,2017-10-02,2700.0,21.0,35.4,clear
+1858,Soyabean,Nanggaon,2017-10-02,2680.0,44.0,35.4,clear
+1859,Soyabean,Achalpur,2017-11-02,2713.0,3.0,31.0,clear
+1860,Soyabean,Amarawati,2017-11-02,2663.0,747.0,31.0,clear
+1861,Soyabean,Daryapur,2017-11-02,2575.0,18.0,31.0,clear
+1862,Soyabean,Dhamngaon-Railway,2017-11-02,2550.0,110.0,31.0,clear
+1863,Soyabean,Dharni,2017-11-02,2550.0,10.0,31.0,clear
+1864,Soyabean,Morshi,2017-11-02,2675.0,30.0,31.0,clear
+1865,Soyabean,Nanggaon,2017-11-02,2665.0,43.0,31.0,clear
+1866,Soyabean,Achalpur,2017-02-13,2725.0,24.0,30.4,clear
+1867,Soyabean,Amarawati,2017-02-13,2642.0,757.0,30.4,clear
+1868,Soyabean,Chandur Railway,2017-02-13,2655.0,40.0,30.4,clear
+1869,Soyabean,Dhamngaon-Railway,2017-02-13,2650.0,200.0,30.4,clear
+1870,Soyabean,Dharni,2017-02-13,2550.0,23.0,30.4,clear
+1871,Soyabean,Nanggaon,2017-02-13,2550.0,49.0,30.4,clear
+1872,Soyabean,Achalpur,2017-02-14,2750.0,14.0,31.2,clear
+1873,Soyabean,Amarawati,2017-02-14,2665.0,529.0,31.2,clear
+1874,Soyabean,Chandur Railway,2017-02-14,2600.0,34.0,31.2,clear
+1875,Soyabean,Dharni,2017-02-14,2550.0,13.0,31.2,clear
+1876,Soyabean,Morshi,2017-02-14,2621.0,25.0,31.2,clear
+1877,Soyabean,Nanggaon,2017-02-14,2637.0,55.0,31.2,clear
+1878,Soyabean,Tiwasa,2017-02-14,2600.0,15.0,31.2,clear
+1879,Soyabean,Achalpur,2017-02-23,2650.0,150.0,34.0,clear
+1880,Soyabean,Amarawati,2017-02-23,2640.0,221.0,34.0,clear
+1881,Soyabean,Achalpur,2017-02-28,2700.0,28.0,34.0,clear
+1882,Soyabean,Amarawati,2017-02-28,2659.0,523.0,34.0,clear
+1883,Soyabean,Chandur Railway,2017-02-28,2675.0,30.0,34.0,clear
+1884,Soyabean,Daryapur,2017-02-28,2675.0,17.0,34.0,clear
+1885,Soyabean,Morshi,2017-02-28,2590.0,19.0,34.0,clear
+1886,Soyabean,Nanggaon,2017-02-28,2600.0,45.0,34.0,clear
+1887,Soyabean,Achalpur,2017-02-03,2695.0,150.0,31.0,clear
+1888,Soyabean,Amarawati,2017-02-03,2675.0,0.0,31.0,clear
+1889,Soyabean,Chandur Railway,2017-02-03,2650.0,15.0,31.0,clear
+1890,Soyabean,Dharni,2017-02-03,2550.0,20.0,31.0,clear
+1891,Soyabean,Nanggaon,2017-02-03,2585.0,40.0,31.0,clear
+1892,Soyabean,Achalpur,2017-03-03,2675.0,7.0,35.4,clear
+1893,Soyabean,Amarawati,2017-03-03,2690.0,608.0,35.4,clear
+1894,Soyabean,Anajngaon,2017-03-03,2500.0,23.0,35.4,clear
+1895,Soyabean,Chandur Railway,2017-03-03,2640.0,28.0,35.4,clear
+1896,Soyabean,Daryapur,2017-03-03,2615.0,27.0,35.4,clear
+1897,Soyabean,Dharni,2017-03-03,2550.0,18.0,35.4,clear
+1898,Soyabean,Morshi,2017-03-03,2600.0,20.0,35.4,clear
+1899,Soyabean,Nanggaon,2017-03-03,2592.0,34.0,35.4,clear
+1900,Soyabean,Achalpur,2017-04-03,2700.0,18.0,39.2,clear
+1901,Soyabean,Daryapur,2017-04-03,2600.0,3.0,39.2,clear
+1902,Soyabean,Morshi,2017-04-03,2625.0,20.0,39.2,clear
+1903,Soyabean,Nanggaon,2017-04-03,2592.0,37.0,39.2,clear
+1904,Soyabean,Achalpur,2017-06-03,2675.0,27.0,41.8,clear
+1905,Soyabean,Chandur Railway,2017-06-03,2575.0,21.0,41.8,clear
+1906,Soyabean,Daryapur,2017-06-03,2640.0,15.0,41.8,clear
+1907,Soyabean,Morshi,2017-06-03,2625.0,10.0,41.8,clear
+1908,Soyabean,Nanggaon,2017-06-03,2580.0,46.0,41.8,clear
+1909,Soyabean,Achalpur,2017-07-03,2650.0,15.0,30.4,clear
+1910,Soyabean,Chandur Railway,2017-07-03,2550.0,19.0,30.4,clear
+1911,Soyabean,Daryapur,2017-07-03,2500.0,19.0,30.4,clear
+1912,Soyabean,Dhamngaon-Railway,2017-07-03,2600.0,120.0,30.4,clear
+1913,Soyabean,Dharni,2017-07-03,2650.0,20.0,30.4,clear
+1914,Soyabean,Morshi,2017-07-03,2600.0,28.0,30.4,clear
+1915,Soyabean,Nanggaon,2017-07-03,2536.0,32.0,30.4,clear
+1916,Soyabean,Achalpur,2017-09-03,2613.0,200.0,30.0,clear
+1917,Soyabean,Amarawati,2017-09-03,2605.0,460.0,30.0,clear
+1918,Soyabean,Chandur Railway,2017-09-03,2600.0,22.0,30.0,clear
+1919,Soyabean,Dhamngaon-Railway,2017-09-03,2650.0,35.0,30.0,clear
+1920,Soyabean,Dharni,2017-09-03,2550.0,15.0,30.0,clear
+1921,Soyabean,Nanggaon,2017-09-03,2530.0,38.0,30.0,clear
+1922,Soyabean,Varud,2017-09-03,2634.0,4.0,30.0,clear
+1923,Soyabean,Achalpur,2017-10-03,2660.0,10.0,34.6,clear
+1924,Soyabean,Amarawati,2017-10-03,2615.0,545.0,34.6,clear
+1925,Soyabean,Anajngaon,2017-10-03,2425.0,30.0,34.6,clear
+1926,Soyabean,Chandur Railway,2017-10-03,2600.0,19.0,34.6,clear
+1927,Soyabean,Daryapur,2017-10-03,2550.0,20.0,34.6,clear
+1928,Soyabean,Dhamngaon-Railway,2017-10-03,2550.0,150.0,34.6,clear
+1929,Soyabean,Morshi,2017-10-03,2600.0,10.0,34.6,clear
+1930,Soyabean,Nanggaon,2017-10-03,2550.0,33.0,34.6,clear
+1931,Soyabean,Varud,2017-10-03,2664.0,16.0,34.6,clear
+1932,Soyabean,Achalpur,2017-03-14,2640.0,5.0,34.2,clear
+1933,Soyabean,Amarawati,2017-03-14,2610.0,326.0,34.2,clear
+1934,Soyabean,Daryapur,2017-03-14,2550.0,8.0,34.2,clear
+1935,Soyabean,Morshi,2017-03-14,2615.0,7.0,34.2,clear
+1936,Soyabean,Nanggaon,2017-03-14,2525.0,10.0,34.2,clear
+1937,Soyabean,Achalpur,2017-03-16,2653.0,100.0,32.2,clear
+1938,Soyabean,Amarawati,2017-03-16,2590.0,417.0,32.2,clear
+1939,Soyabean,Nanggaon,2017-03-16,2515.0,20.0,32.2,clear
+1940,Soyabean,Achalpur,2017-03-17,2660.0,18.0,35.0,clear
+1941,Soyabean,Amarawati,2017-03-17,2630.0,457.0,35.0,clear
+1942,Soyabean,Anajngaon,2017-03-17,2475.0,32.0,35.0,clear
+1943,Soyabean,Daryapur,2017-03-17,2600.0,8.0,35.0,clear
+1944,Soyabean,Dhamngaon-Railway,2017-03-17,2550.0,200.0,35.0,clear
+1945,Soyabean,Morshi,2017-03-17,2600.0,15.0,35.0,clear
+1946,Soyabean,Nanggaon,2017-03-17,2535.0,28.0,35.0,clear
+1947,Soyabean,Achalpur,2017-03-18,2650.0,15.0,34.8,clear
+1948,Soyabean,Amarawati,2017-03-18,2630.0,467.0,34.8,clear
+1949,Soyabean,Daryapur,2017-03-18,2500.0,8.0,34.8,clear
+1950,Soyabean,Dhamngaon-Railway,2017-03-18,2600.0,90.0,34.8,clear
+1951,Soyabean,Dharni,2017-03-18,2550.0,16.0,34.8,clear
+1952,Soyabean,Morshi,2017-03-18,2625.0,11.0,34.8,clear
+1953,Soyabean,Achalpur,2017-03-21,2660.0,20.0,36.2,clear
+1954,Soyabean,Amarawati,2017-03-21,2660.0,685.0,36.2,clear
+1955,Soyabean,Chandur Railway,2017-03-21,2525.0,24.0,36.2,clear
+1956,Soyabean,Daryapur,2017-03-21,2600.0,9.0,36.2,clear
+1957,Soyabean,Dhamngaon-Railway,2017-03-21,2550.0,215.0,36.2,clear
+1958,Soyabean,Dharni,2017-03-21,2550.0,13.0,36.2,clear
+1959,Soyabean,Morshi,2017-03-21,2635.0,16.0,36.2,clear
+1960,Soyabean,Achalpur,2017-03-24,2725.0,10.0,39.8,clear
+1961,Soyabean,Amarawati,2017-03-24,2675.0,658.0,39.8,clear
+1962,Soyabean,Chandur Railway,2017-03-24,2550.0,22.0,39.8,clear
+1963,Soyabean,Achalpur,2017-03-28,2725.0,19.0,41.0,clear
+1964,Soyabean,Achalpur,2017-03-30,2725.0,180.0,42.4,clear
+1965,Soyabean,Dharni,2017-03-30,2550.0,15.0,42.4,clear
+1966,Soyabean,Varud(Rajura Bazar),2017-03-30,2697.0,12.0,42.4,clear
+1967,Soyabean,Achalpur,2017-06-04,2700.0,280.0,40.2,clear
+1968,Soyabean,Amarawati,2017-06-04,2705.0,393.0,40.2,clear
+1969,Soyabean,Achalpur,2017-07-04,2693.0,15.0,26.6,clear
+1970,Soyabean,Anajngaon,2017-07-04,2550.0,18.0,26.6,clear
+1971,Soyabean,Dhamngaon-Railway,2017-07-04,2600.0,300.0,26.6,clear
+1972,Soyabean,Morshi,2017-07-04,2667.0,14.0,26.6,clear
+1973,Soyabean,Achalpur,2017-08-04,2670.0,15.0,28.8,clear
+1974,Soyabean,Amarawati,2017-08-04,2700.0,219.0,28.8,clear
+1975,Soyabean,Daryapur,2017-08-04,2500.0,12.0,28.8,clear
+1976,Soyabean,Morshi,2017-08-04,2625.0,20.0,28.8,clear
+1977,Soyabean,Achalpur,2017-11-04,2700.0,25.0,30.2,clear
+1978,Soyabean,Morshi,2017-11-04,2695.0,13.0,30.2,clear
+1979,Soyabean,Achalpur,2017-04-13,2785.0,200.0,41.2,clear
+1980,Soyabean,Amarawati,2017-04-13,2715.0,681.0,41.2,clear
+1981,Soyabean,Achalpur,2017-04-14,2775.0,28.0,43.0,clear
+1982,Soyabean,Achalpur,2017-04-15,2750.0,8.0,43.2,clear
+1983,Soyabean,Amarawati,2017-04-15,2725.0,819.0,43.2,clear
+1984,Soyabean,Dharni,2017-04-15,2550.0,12.0,43.2,clear
+1985,Soyabean,Morshi,2017-04-15,2775.0,30.0,43.2,clear
+1986,Soyabean,Achalpur,2017-04-17,2750.0,7.0,43.6,clear
+1987,Soyabean,Amarawati,2017-04-17,2750.0,782.0,43.6,clear
+1988,Soyabean,Daryapur,2017-04-17,2700.0,6.0,43.6,clear
+1989,Soyabean,Dhamngaon-Railway,2017-04-17,2700.0,90.0,43.6,clear
+1990,Soyabean,Morshi,2017-04-17,2800.0,10.0,43.6,clear
+1991,Soyabean,Achalpur,2017-04-18,2775.0,11.0,43.0,clear
+1992,Soyabean,Amarawati,2017-04-18,2770.0,991.0,43.0,clear
+1993,Soyabean,Daryapur,2017-04-18,2675.0,7.0,43.0,clear
+1994,Soyabean,Dharni,2017-04-18,2450.0,18.0,43.0,clear
+1995,Soyabean,Morshi,2017-04-18,2790.0,15.0,43.0,clear
+1996,Soyabean,Achalpur,2017-04-20,2835.0,300.0,41.8,clear
+1997,Soyabean,Amarawati,2017-04-20,2794.0,436.0,41.8,clear
+1998,Soyabean,Achalpur,2017-04-21,2825.0,6.0,41.2,clear
+1999,Soyabean,Amarawati,2017-04-21,2800.0,489.0,41.2,clear
+2000,Soyabean,Anajngaon,2017-04-21,2600.0,36.0,41.2,clear
+2001,Soyabean,Morshi,2017-04-21,2825.0,4.0,41.2,clear
+2002,Soyabean,Achalpur,2017-04-22,2830.0,4.0,39.4,clear
+2003,Soyabean,Amarawati,2017-04-22,2820.0,629.0,39.4,clear
+2004,Soyabean,Daryapur,2017-04-22,2750.0,8.0,39.4,clear
+2005,Soyabean,Morshi,2017-04-22,2775.0,20.0,39.4,clear
+2006,Soyabean,Achalpur,2017-04-24,2835.0,9.0,38.6,clear
+2007,Soyabean,Amarawati,2017-04-24,2840.0,1147.0,38.6,clear
+2008,Soyabean,Daryapur,2017-04-24,2675.0,9.0,38.6,clear
+2009,Soyabean,Achalpur,2017-04-25,2820.0,4.0,39.2,clear
+2010,Soyabean,Amarawati,2017-04-25,2810.0,768.0,39.2,clear
+2011,Soyabean,Morshi,2017-04-25,2790.0,10.0,39.2,clear
+2012,Soyabean,Achalpur,2017-04-27,2712.0,200.0,40.2,clear
+2013,Soyabean,Amarawati,2017-04-27,2806.0,945.0,40.2,clear
+2014,Soyabean,Achalpur,2017-04-28,2750.0,10.0,39.6,clear
+2015,Soyabean,Achalpur,2017-04-29,2725.0,5.0,39.6,clear
+2016,Soyabean,Daryapur,2017-04-29,2650.0,14.0,39.6,clear
+2017,Soyabean,Dhamngaon-Railway,2017-04-29,2650.0,170.0,39.6,clear
+2018,Soyabean,Morshi,2017-04-29,2750.0,10.0,39.6,clear
+2019,Soyabean,Achalpur,2017-02-05,2750.0,3.0,31.2,clear
+2020,Soyabean,Amarawati,2017-02-05,2770.0,520.0,31.2,clear
+2021,Soyabean,Chandur Railway,2017-02-05,2575.0,22.0,31.2,clear
+2022,Soyabean,Morshi,2017-02-05,2715.0,3.0,31.2,clear
+2023,Soyabean,Amarawati,2017-04-01,2680.0,,40.8,clear
+2024,Soyabean,Anajngaon,2017-04-01,2500.0,51.0,40.8,clear
+2025,Soyabean,Chandur Railway,2017-04-01,2663.0,36.0,40.8,clear
+2026,Soyabean,Daryapur,2017-04-01,2625.0,62.0,40.8,clear
+2027,Soyabean,Dharni,2017-04-01,2750.0,18.0,40.8,clear
+2028,Soyabean,Morshi,2017-04-01,2700.0,48.0,40.8,clear
+2029,Soyabean,Nanggaon,2017-04-01,2585.0,0.0,40.8,clear
+2030,Soyabean,Amarawati,2017-11-01,2620.0,856.0,31.2,clear
+2031,Soyabean,Anajngaon,2017-11-01,2500.0,117.0,31.2,clear
+2032,Soyabean,Chandur Bazar,2017-11-01,2627.0,54.0,31.2,clear
+2033,Soyabean,Chandur Railway,2017-11-01,2780.0,50.0,31.2,clear
+2034,Soyabean,Daryapur,2017-11-01,2595.0,43.0,31.2,clear
+2035,Soyabean,Dhamngaon-Railway,2017-11-01,2600.0,220.0,31.2,clear
+2036,Soyabean,Morshi,2017-11-01,2650.0,45.0,31.2,clear
+2037,Soyabean,Nanggaon,2017-11-01,2500.0,81.0,31.2,clear
+2038,Soyabean,Amarawati,2017-01-18,2722.0,888.0,28.6,clear
+2039,Soyabean,Anajngaon,2017-01-18,2600.0,93.0,28.6,clear
+2040,Soyabean,Chandur Bazar,2017-01-18,2875.0,104.0,28.6,clear
+2041,Soyabean,Daryapur,2017-01-18,2650.0,51.0,28.6,clear
+2042,Soyabean,Dhamngaon-Railway,2017-01-18,2650.0,200.0,28.6,clear
+2043,Soyabean,Dharni,2017-01-18,2650.0,12.0,28.6,clear
+2044,Soyabean,Morshi,2017-01-18,2725.0,70.0,28.6,clear
+2045,Soyabean,Nanggaon,2017-01-18,2615.0,82.0,28.6,clear
+2046,Soyabean,Amarawati,2017-01-19,2700.0,,27.6,clear
+2047,Soyabean,Dhamngaon-Railway,2017-01-19,2650.0,195.0,27.6,clear
+2048,Soyabean,Nanggaon,2017-01-19,2613.0,82.0,27.6,clear
+2049,Soyabean,Amarawati,2017-01-24,2706.0,995.0,30.2,clear
+2050,Soyabean,Nanggaon,2017-01-24,2566.0,70.0,30.2,clear
+2051,Soyabean,Tiwasa,2017-01-24,2700.0,23.0,30.2,clear
+2052,Soyabean,Amarawati,2017-01-25,2681.0,1061.0,29.4,clear
+2053,Soyabean,Anajngaon,2017-01-25,2550.0,79.0,29.4,clear
+2054,Soyabean,Chandur Bazar,2017-01-25,2887.0,92.0,29.4,clear
+2055,Soyabean,Morshi,2017-01-25,2650.0,50.0,29.4,clear
+2056,Soyabean,Amarawati,2017-01-02,2587.0,652.0,28.4,clear
+2057,Soyabean,Anajngaon,2017-01-02,2500.0,81.0,28.4,clear
+2058,Soyabean,Chandur Bazar,2017-01-02,2728.0,61.0,28.4,clear
+2059,Soyabean,Dhamngaon-Railway,2017-01-02,2600.0,200.0,28.4,clear
+2060,Soyabean,Morshi,2017-01-02,2600.0,40.0,28.4,clear
+2061,Soyabean,Nanggaon,2017-01-02,2500.0,29.0,28.4,clear
+2062,Soyabean,Amarawati,2017-08-02,2670.0,1006.0,32.4,clear
+2063,Soyabean,Anajngaon,2017-08-02,2550.0,119.0,32.4,clear
+2064,Soyabean,Chandur Bazar,2017-08-02,2651.0,73.0,32.4,clear
+2065,Soyabean,Daryapur,2017-08-02,2455.0,34.0,32.4,clear
+2066,Soyabean,Dhamngaon-Railway,2017-08-02,2600.0,200.0,32.4,clear
+2067,Soyabean,Dharni,2017-08-02,2550.0,12.0,32.4,clear
+2068,Soyabean,Morshi,2017-08-02,2658.0,51.0,32.4,clear
+2069,Soyabean,Nanggaon,2017-08-02,2508.0,48.0,32.4,clear
+2070,Soyabean,Amarawati,2017-02-15,2670.0,543.0,32.0,clear
+2071,Soyabean,Anajngaon,2017-02-15,2500.0,62.0,32.0,clear
+2072,Soyabean,Chandur Bazar,2017-02-15,2652.0,63.0,32.0,clear
+2073,Soyabean,Chandur Railway,2017-02-15,2650.0,29.0,32.0,clear
+2074,Soyabean,Daryapur,2017-02-15,2600.0,14.0,32.0,clear
+2075,Soyabean,Dhamngaon-Railway,2017-02-15,2500.0,160.0,32.0,clear
+2076,Soyabean,Morshi,2017-02-15,2675.0,50.0,32.0,clear
+2077,Soyabean,Nanggaon,2017-02-15,2537.0,50.0,32.0,clear
+2078,Soyabean,Amarawati,2017-02-17,2634.0,574.0,34.0,clear
+2079,Soyabean,Anajngaon,2017-02-17,2575.0,51.0,34.0,clear
+2080,Soyabean,Chandur Railway,2017-02-17,2670.0,25.0,34.0,clear
+2081,Soyabean,Daryapur,2017-02-17,2665.0,22.0,34.0,clear
+2082,Soyabean,Dhamngaon-Railway,2017-02-17,2600.0,130.0,34.0,clear
+2083,Soyabean,Morshi,2017-02-17,2540.0,11.0,34.0,clear
+2084,Soyabean,Varud,2017-02-17,2680.0,34.0,34.0,clear
+2085,Soyabean,Amarawati,2017-02-22,2645.0,391.0,34.6,clear
+2086,Soyabean,Chandur Bazar,2017-02-22,2700.0,12.0,34.6,clear
+2087,Soyabean,Dhamngaon-Railway,2017-02-22,2550.0,120.0,34.6,clear
+2088,Soyabean,Dharni,2017-02-22,2550.0,10.0,34.6,clear
+2089,Soyabean,Morshi,2017-02-22,2675.0,40.0,34.6,clear
+2090,Soyabean,Nanggaon,2017-02-22,2552.0,20.0,34.6,clear
+2091,Soyabean,Amarawati,2017-02-27,2659.0,360.0,35.2,clear
+2092,Soyabean,Chandur Railway,2017-02-27,2600.0,40.0,35.2,clear
+2093,Soyabean,Dhamngaon-Railway,2017-02-27,2500.0,130.0,35.2,clear
+2094,Soyabean,Morshi,2017-02-27,2625.0,10.0,35.2,clear
+2095,Soyabean,Varud,2017-02-27,2705.0,23.0,35.2,clear
+2096,Soyabean,Amarawati,2017-01-03,2681.0,393.0,28.0,clear
+2097,Soyabean,Anajngaon,2017-01-03,2500.0,28.0,28.0,clear
+2098,Soyabean,Chandur Bazar,2017-01-03,2654.0,31.0,28.0,clear
+2099,Soyabean,Chandur Railway,2017-01-03,2675.0,40.0,28.0,clear
+2100,Soyabean,Daryapur,2017-01-03,2600.0,13.0,28.0,clear
+2101,Soyabean,Dharni,2017-01-03,2550.0,21.0,28.0,clear
+2102,Soyabean,Morshi,2017-01-03,2625.0,30.0,28.0,clear
+2103,Soyabean,Nanggaon,2017-01-03,2605.0,42.0,28.0,clear
+2104,Soyabean,Amarawati,2017-08-03,2651.0,322.0,28.0,clear
+2105,Soyabean,Anajngaon,2017-08-03,2500.0,30.0,28.0,clear
+2106,Soyabean,Chandur Bazar,2017-08-03,2651.0,9.0,28.0,clear
+2107,Soyabean,Chandur Railway,2017-08-03,2550.0,10.0,28.0,clear
+2108,Soyabean,Daryapur,2017-08-03,2610.0,29.0,28.0,clear
+2109,Soyabean,Dhamngaon-Railway,2017-08-03,2450.0,150.0,28.0,clear
+2110,Soyabean,Morshi,2017-08-03,2625.0,23.0,28.0,clear
+2111,Soyabean,Nanggaon,2017-08-03,2540.0,30.0,28.0,clear
+2112,Soyabean,Amarawati,2017-03-15,2600.0,0.0,34.0,clear
+2113,Soyabean,Anajngaon,2017-03-15,2500.0,31.0,34.0,clear
+2114,Soyabean,Daryapur,2017-03-15,2600.0,8.0,34.0,clear
+2115,Soyabean,Dhamngaon-Railway,2017-03-15,2650.0,200.0,34.0,clear
+2116,Soyabean,Morshi,2017-03-15,2625.0,43.0,34.0,clear
+2117,Soyabean,Nanggaon,2017-03-15,2497.0,20.0,34.0,clear
+2118,Soyabean,Amarawati,2017-03-20,2645.0,645.0,35.0,clear
+2119,Soyabean,Daryapur,2017-03-20,2600.0,9.0,35.0,clear
+2120,Soyabean,Dharni,2017-03-20,2550.0,10.0,35.0,clear
+2121,Soyabean,Morshi,2017-03-20,2625.0,5.0,35.0,clear
+2122,Soyabean,Nanggaon,2017-03-20,2575.0,21.0,35.0,clear
+2123,Soyabean,Varud,2017-03-20,2683.0,27.0,35.0,clear
+2124,Soyabean,Amarawati,2017-03-22,2650.0,498.0,38.2,clear
+2125,Soyabean,Anajngaon,2017-03-22,2500.0,27.0,38.2,clear
+2126,Soyabean,Chandur Railway,2017-03-22,2575.0,29.0,38.2,clear
+2127,Soyabean,Daryapur,2017-03-22,2625.0,9.0,38.2,clear
+2128,Soyabean,Morshi,2017-03-22,2625.0,5.0,38.2,clear
+2129,Soyabean,Nanggaon,2017-03-22,2575.0,33.0,38.2,clear
+2130,Soyabean,Amarawati,2017-03-25,2708.0,564.0,40.6,clear
+2131,Soyabean,Anajngaon,2017-03-25,2500.0,23.0,40.6,clear
+2132,Soyabean,Chandur Railway,2017-03-25,2500.0,22.0,40.6,clear
+2133,Soyabean,Dhamngaon-Railway,2017-03-25,2550.0,170.0,40.6,clear
+2134,Soyabean,Morshi,2017-03-25,2625.0,31.0,40.6,clear
+2135,Soyabean,Amarawati,2017-03-27,2675.0,497.0,40.2,clear
+2136,Soyabean,Daryapur,2017-03-27,2600.0,22.0,40.2,clear
+2137,Soyabean,Morshi,2017-03-27,2625.0,10.0,40.2,clear
+2138,Soyabean,Amarawati,2017-03-04,2625.0,441.0,34.4,clear
+2139,Soyabean,Chandur Railway,2017-03-04,2600.0,14.0,34.4,clear
+2140,Soyabean,Daryapur,2017-03-04,2575.0,8.0,34.4,clear
+2141,Soyabean,Amarawati,2017-05-04,2690.0,594.0,41.0,clear
+2142,Soyabean,Anajngaon,2017-05-04,2525.0,19.0,41.0,clear
+2143,Soyabean,Chandur Bazar,2017-05-04,2552.0,21.0,41.0,clear
+2144,Soyabean,Chandur Railway,2017-05-04,2648.0,11.0,41.0,clear
+2145,Soyabean,Daryapur,2017-05-04,2570.0,3.0,41.0,clear
+2146,Soyabean,Morshi,2017-05-04,2665.0,10.0,41.0,clear
+2147,Soyabean,Amarawati,2017-10-04,2709.0,736.0,36.4,clear
+2148,Soyabean,Amarawati,2017-12-04,2730.0,670.0,29.0,clear
+2149,Soyabean,Daryapur,2017-12-04,2665.0,11.0,29.0,clear
+2150,Soyabean,Dhamngaon-Railway,2017-12-04,2700.0,210.0,29.0,clear
+2151,Soyabean,Morshi,2017-12-04,2625.0,10.0,29.0,clear
+2152,Soyabean,Amarawati,2017-04-19,2754.0,1131.0,42.2,clear
+2153,Soyabean,Anajngaon,2017-04-19,2600.0,36.0,42.2,clear
+2154,Soyabean,Chandur Bazar,2017-04-19,2745.0,89.0,42.2,clear
+2155,Soyabean,Daryapur,2017-04-19,2600.0,12.0,42.2,clear
+2156,Soyabean,Dhamngaon-Railway,2017-04-19,2650.0,200.0,42.2,clear
+2157,Soyabean,Morshi,2017-04-19,2780.0,20.0,42.2,clear
+2158,Soyabean,Amarawati,2017-04-05,2747.0,223.0,39.2,clear
+2159,Soyabean,Amarawati,2017-05-05,2643.0,252.0,42.0,clear
+2160,Soyabean,Chandur Railway,2017-05-05,2700.0,9.0,42.0,clear
+2161,Soyabean,Amarawati,2017-08-05,2735.0,218.0,30.0,clear
+2162,Soyabean,Amarawati,2017-12-05,2730.0,0.0,28.4,clear
+2163,Soyabean,Anajngaon,2017-12-05,2575.0,16.0,28.4,clear
+2164,Soyabean,Chandur Railway,2017-12-05,2700.0,8.0,28.4,clear
+2165,Soyabean,Dharni,2017-12-05,2550.0,8.0,28.4,clear
+2166,Soyabean,Amarawati,2017-05-15,2703.0,450.0,42.4,clear
+2167,Soyabean,Chandur Railway,2017-05-15,2620.0,5.0,42.4,clear
+2168,Soyabean,Amarawati,2017-05-16,2655.0,507.0,42.0,clear
+2169,Soyabean,Daryapur,2017-05-16,2500.0,11.0,42.0,clear
+2170,Soyabean,Amarawati,2017-05-17,2625.0,287.0,41.4,clear
+2171,Soyabean,Dharni,2017-05-17,2550.0,10.0,41.4,clear
+2172,Soyabean,Amarawati,2017-05-19,2664.0,331.0,42.8,clear
+2173,Soyabean,Anajngaon,2017-05-19,2450.0,20.0,42.8,clear
+2174,Soyabean,Morshi,2017-05-19,2625.0,5.0,42.8,clear
+2175,Soyabean,Amarawati,2017-05-20,2670.0,331.0,41.2,clear
+2176,Soyabean,Amarawati,2017-08-06,2575.0,44.0,28.6,clear
+2177,Soyabean,Varud(Rajura Bazar),2017-08-06,2606.0,1.0,28.6,clear
+2178,Soyabean,Amarawati,2017-09-06,2575.0,212.0,31.8,clear
+2179,Soyabean,Anajngaon,2017-09-06,2550.0,27.0,31.8,clear
+2180,Soyabean,Dharni,2017-09-06,2550.0,20.0,31.8,clear
+2181,Soyabean,Morshi,2017-09-06,2575.0,4.0,31.8,clear
+2182,Soyabean,Amarawati,2017-10-06,2546.0,261.0,33.8,clear
+2183,Soyabean,Morshi,2017-10-06,2525.0,10.0,33.8,clear
+2184,Soyabean,Amarawati,2017-12-06,2565.0,386.0,29.4,clear
+2185,Soyabean,Amarawati,2017-06-13,2550.0,408.0,27.0,clear
+2186,Soyabean,Amarawati,2017-06-14,2525.0,255.0,36.0,clear
+2187,Soyabean,Anajngaon,2017-06-14,2500.0,35.0,36.0,clear
+2188,Soyabean,Chandur Railway,2017-06-14,2560.0,12.0,36.0,clear
+2189,Soyabean,Daryapur,2017-06-14,2500.0,12.0,36.0,clear
+2190,Soyabean,Morshi,2017-06-14,2488.0,11.0,36.0,clear
+2191,Soyabean,Nanggaon,2017-06-14,2600.0,7.0,36.0,clear
+2192,Soyabean,Amarawati,2017-06-15,2615.0,296.0,28.2,clear
+2193,Soyabean,Chandur Railway,2017-06-15,2550.0,10.0,28.2,clear
+2194,Soyabean,Varud(Rajura Bazar),2017-06-15,2556.0,2.0,28.2,clear
+2195,Soyabean,Amarawati,2017-06-16,2620.0,320.0,35.0,clear
+2196,Soyabean,Anajngaon,2017-06-16,2450.0,35.0,35.0,clear
+2197,Soyabean,Chandur Railway,2017-06-16,2570.0,13.0,35.0,clear
+2198,Soyabean,Daryapur,2017-06-16,2560.0,12.0,35.0,clear
+2199,Soyabean,Nanggaon,2017-06-16,2625.0,2.0,35.0,clear
+2200,Soyabean,Amarawati,2017-06-17,2600.0,332.0,33.4,clear
+2201,Soyabean,Chandur Railway,2017-06-17,2540.0,6.0,33.4,clear
+2202,Soyabean,Daryapur,2017-06-17,2550.0,15.0,33.4,clear
+2203,Soyabean,Morshi,2017-06-17,2500.0,11.0,33.4,clear
+2204,Soyabean,Amarawati,2017-06-19,2597.0,314.0,36.8,clear
+2205,Soyabean,Chandur Railway,2017-06-19,2500.0,6.0,36.8,clear
+2206,Soyabean,Dharni,2017-06-19,2550.0,10.0,36.8,clear
+2207,Soyabean,Amarawati,2017-06-20,2613.0,372.0,37.0,clear
+2208,Soyabean,Chandur Railway,2017-06-20,2620.0,9.0,37.0,clear
+2209,Soyabean,Daryapur,2017-06-20,2600.0,16.0,37.0,clear
+2210,Soyabean,Amarawati,2017-06-21,2660.0,317.0,37.6,clear
+2211,Soyabean,Anajngaon,2017-06-21,2570.0,17.0,37.6,clear
+2212,Soyabean,Daryapur,2017-06-21,2650.0,18.0,37.6,clear
+2213,Soyabean,Dharni,2017-06-21,2550.0,20.0,37.6,clear
+2214,Soyabean,Morshi,2017-06-21,2555.0,10.0,37.6,clear
+2215,Soyabean,Amarawati,2017-06-23,2691.0,369.0,33.8,clear
+2216,Soyabean,Anajngaon,2017-06-23,2500.0,12.0,33.8,clear
+2217,Soyabean,Daryapur,2017-06-23,2600.0,15.0,33.8,clear
+2218,Soyabean,Amarawati,2017-06-27,2725.0,186.0,31.0,clear
+2219,Soyabean,Chandur Railway,2017-06-27,2675.0,0.0,31.0,clear
+2220,Soyabean,Amarawati,2017-06-28,2635.0,207.0,32.4,clear
+2221,Soyabean,Anajngaon,2017-06-28,2550.0,18.0,32.4,clear
+2222,Soyabean,Chandur Railway,2017-06-28,2580.0,3.0,32.4,clear
+2223,Soyabean,Dhamngaon-Railway,2017-06-28,2650.0,15.0,32.4,clear
+2224,Soyabean,Morshi,2017-06-28,2550.0,10.0,32.4,clear
+2225,Soyabean,Amarawati,2017-06-29,2693.0,283.0,32.2,clear
+2226,Soyabean,Chandur Railway,2017-06-29,2635.0,3.0,32.2,clear
+2227,Soyabean,Dhamngaon-Railway,2017-06-29,2675.0,28.0,32.2,clear
+2228,Soyabean,Varud(Rajura Bazar),2017-06-29,2642.0,2.0,32.2,clear
+2229,Soyabean,Amarawati,2017-06-30,2610.0,265.0,33.4,clear
+2230,Soyabean,Anajngaon,2017-06-30,2550.0,11.0,33.4,clear
+2231,Soyabean,Chandur Railway,2017-06-30,2610.0,3.0,33.4,clear
+2232,Soyabean,Daryapur,2017-06-30,2550.0,21.0,33.4,clear
+2233,Soyabean,Amarawati,2017-07-15,2603.0,183.0,28.0,clear
+2234,Soyabean,Dhamngaon-Railway,2017-07-15,2675.0,22.0,28.0,clear
+2235,Soyabean,Morshi,2017-07-15,2675.0,10.0,28.0,clear
+2236,Soyabean,Amarawati,2017-07-17,2650.0,218.0,28.2,clear
+2237,Soyabean,Chandur Railway,2017-07-17,2675.0,2.0,28.2,clear
+2238,Soyabean,Daryapur,2017-07-17,2575.0,1.0,28.2,clear
+2239,Soyabean,Dhamngaon-Railway,2017-07-17,2700.0,13.0,28.2,clear
+2240,Soyabean,Dharni,2017-07-17,2550.0,17.0,28.2,clear
+2241,Soyabean,Nanggaon,2017-07-17,2637.0,6.0,28.2,clear
+2242,Soyabean,Amarawati,2017-07-18,2632.0,177.0,30.6,clear
+2243,Soyabean,Daryapur,2017-07-18,2600.0,5.0,30.6,clear
+2244,Soyabean,Dhamngaon-Railway,2017-07-18,2660.0,20.0,30.6,clear
+2245,Soyabean,Amarawati,2017-07-19,2814.0,77.0,27.0,clear
+2246,Soyabean,Anajngaon,2017-07-19,2550.0,4.0,27.0,clear
+2247,Soyabean,Chandur Railway,2017-07-19,2700.0,1.0,27.0,clear
+2248,Soyabean,Daryapur,2017-07-19,2405.0,0.0,27.0,clear
+2249,Soyabean,Morshi,2017-07-19,2725.0,20.0,27.0,clear
+2250,Soyabean,Amarawati,2017-07-20,2625.0,248.0,25.6,clear
+2251,Soyabean,Chandur Railway,2017-07-20,2600.0,4.0,25.6,clear
+2252,Soyabean,Dhamngaon-Railway,2017-07-20,2700.0,35.0,25.6,clear
+2253,Soyabean,Dharni,2017-07-20,2550.0,11.0,25.6,clear
+2254,Soyabean,Amarawati,2017-07-21,2572.0,172.0,28.2,clear
+2255,Soyabean,Chandur Railway,2017-07-21,2670.0,2.0,28.2,clear
+2256,Soyabean,Dhamngaon-Railway,2017-07-21,2700.0,25.0,28.2,clear
+2257,Soyabean,Amarawati,2017-07-22,2635.0,206.0,30.2,clear
+2258,Soyabean,Chandur Railway,2017-07-22,2801.0,1.0,30.2,clear
+2259,Soyabean,Dhamngaon-Railway,2017-07-22,2650.0,21.0,30.2,clear
+2260,Soyabean,Morshi,2017-07-22,2730.0,10.0,30.2,clear
+2261,Soyabean,Amarawati,2017-07-24,2588.0,244.0,25.2,clear
+2262,Soyabean,Daryapur,2017-07-24,2550.0,2.0,25.2,clear
+2263,Soyabean,Dhamngaon-Railway,2017-07-24,2700.0,18.0,25.2,clear
+2264,Soyabean,Dharni,2017-07-24,2550.0,15.0,25.2,clear
+2265,Soyabean,Amarawati,2017-07-25,2575.0,262.0,26.0,clear
+2266,Soyabean,Dhamngaon-Railway,2017-07-25,2700.0,25.0,26.0,clear
+2267,Soyabean,Amarawati,2017-07-26,2621.0,159.0,24.8,clear
+2268,Soyabean,Amarawati,2017-07-28,2676.0,296.0,27.8,clear
+2269,Soyabean,Anajngaon,2017-07-28,2500.0,8.0,27.8,clear
+2270,Soyabean,Dhamngaon-Railway,2017-07-28,2600.0,35.0,27.8,clear
+2271,Soyabean,Amarawati,2017-07-29,2672.0,315.0,28.4,clear
+2272,Soyabean,Chandur Railway,2017-07-29,2700.0,1.0,28.4,clear
+2273,Soyabean,Morshi,2017-07-29,2689.0,5.0,28.4,clear
+2274,Soyabean,Amarawati,2017-07-31,2400.0,410.0,31.0,clear
+2275,Soyabean,Chandur Railway,2017-07-31,2700.0,2.0,31.0,clear
+2276,Soyabean,Amarawati,2017-01-08,2625.0,394.0,27.6,clear
+2277,Soyabean,Amarawati,2017-02-08,2625.0,335.0,30.4,clear
+2278,Soyabean,Anajngaon,2017-02-08,2500.0,2.0,30.4,clear
+2279,Soyabean,Dhamngaon-Railway,2017-02-08,2600.0,40.0,30.4,clear
+2280,Soyabean,Morshi,2017-02-08,2700.0,5.0,30.4,clear
+2281,Soyabean,Amarawati,2017-03-08,2593.0,345.0,33.2,clear
+2282,Soyabean,Dhamngaon-Railway,2017-03-08,2600.0,40.0,33.2,clear
+2283,Soyabean,Varud(Rajura Bazar),2017-03-08,2847.0,2.0,33.2,clear
+2284,Soyabean,Amarawati,2017-04-08,2610.0,268.0,39.6,clear
+2285,Soyabean,Anajngaon,2017-04-08,2550.0,3.0,39.6,clear
+2286,Soyabean,Dhamngaon-Railway,2017-04-08,2550.0,41.0,39.6,clear
+2287,Soyabean,Amarawati,2017-05-08,2538.0,174.0,41.4,clear
+2288,Soyabean,Dhamngaon-Railway,2017-05-08,2560.0,25.0,41.4,clear
+2289,Soyabean,Morshi,2017-05-08,2750.0,10.0,41.4,clear
+2290,Soyabean,Amarawati,2017-08-08,2620.0,247.0,27.0,clear
+2291,Soyabean,Daryapur,2017-08-08,2500.0,6.0,27.0,clear
+2292,Soyabean,Dhamngaon-Railway,2017-08-08,2650.0,33.0,27.0,clear
+2293,Soyabean,Amarawati,2017-09-08,2625.0,107.0,29.0,clear
+2294,Soyabean,Anajngaon,2017-09-08,2650.0,15.0,29.0,clear
+2295,Soyabean,Daryapur,2017-09-08,2700.0,1.0,29.0,clear
+2296,Soyabean,Morshi,2017-09-08,2725.0,10.0,29.0,clear
+2297,Soyabean,Amarawati,2017-10-08,2692.0,223.0,30.6,clear
+2298,Soyabean,Chandur Railway,2017-10-08,2780.0,1.0,30.6,clear
+2299,Soyabean,Dhamngaon-Railway,2017-10-08,2700.0,65.0,30.6,clear
+2300,Soyabean,Amarawati,2017-11-08,2670.0,217.0,32.0,clear
+2301,Soyabean,Anajngaon,2017-11-08,2800.0,7.0,32.0,clear
+2302,Soyabean,Chandur Railway,2017-11-08,2771.0,2.0,32.0,clear
+2303,Soyabean,Amarawati,2017-12-08,2671.0,217.0,31.0,clear
+2304,Soyabean,Dhamngaon-Railway,2017-12-08,2750.0,18.0,31.0,clear
+2305,Soyabean,Morshi,2017-12-08,2750.0,10.0,31.0,clear
+2306,Soyabean,Amarawati,2017-08-14,2715.0,158.0,30.0,clear
+2307,Soyabean,Amarawati,2017-08-16,2667.0,242.0,31.4,clear
+2308,Soyabean,Anajngaon,2017-08-16,2675.0,9.0,31.4,clear
+2309,Soyabean,Chandur Railway,2017-08-16,2832.0,6.0,31.4,clear
+2310,Soyabean,Dharni,2017-08-16,2750.0,12.0,31.4,clear
+2311,Soyabean,Morshi,2017-08-16,2725.0,5.0,31.4,clear
+2312,Soyabean,Amarawati,2017-08-18,2715.0,246.0,28.0,clear
+2313,Soyabean,Anajngaon,2017-08-18,2850.0,5.0,28.0,clear
+2314,Soyabean,Chandur Railway,2017-08-18,2850.0,6.0,28.0,clear
+2315,Soyabean,Amarawati,2017-08-19,2720.0,188.0,26.0,clear
+2316,Soyabean,Morshi,2017-08-19,2950.0,5.0,26.0,clear
+2317,Soyabean,Amarawati,2017-08-23,2794.0,107.0,29.8,clear
+2318,Soyabean,Chandur Railway,2017-08-23,2861.0,1.0,29.8,clear
+2319,Soyabean,Daryapur,2017-08-23,2900.0,1.0,29.8,clear
+2320,Soyabean,Dharni,2017-08-23,2550.0,10.0,29.8,clear
+2321,Soyabean,Morshi,2017-08-23,2775.0,5.0,29.8,clear
+2322,Soyabean,Amarawati,2017-08-26,2850.0,262.0,30.0,clear
+2323,Soyabean,Chandur Railway,2017-08-26,2850.0,1.0,30.0,clear
+2324,Soyabean,Dhamngaon-Railway,2017-08-26,2850.0,27.0,30.0,clear
+2325,Soyabean,Morshi,2017-08-26,2775.0,5.0,30.0,clear
+2326,Soyabean,Amarawati,2017-08-31,2717.0,85.0,30.8,clear
+2327,Soyabean,Chandur Railway,2017-08-31,2830.0,3.0,30.8,clear
+2328,Soyabean,Dhamngaon-Railway,2017-08-31,2850.0,38.0,30.8,clear
+2329,Soyabean,Amarawati,2017-01-09,2764.0,251.0,26.6,clear
+2330,Soyabean,Anajngaon,2017-01-09,2650.0,11.0,26.6,clear
+2331,Soyabean,Chandur Railway,2017-01-09,2860.0,4.0,26.6,clear
+2332,Soyabean,Amarawati,2017-04-09,2726.0,181.0,40.0,clear
+2333,Soyabean,Chandur Railway,2017-04-09,2760.0,4.0,40.0,clear
+2334,Soyabean,Dhamngaon-Railway,2017-04-09,2850.0,50.0,40.0,clear
+2335,Soyabean,Amarawati,2017-05-09,2760.0,79.0,41.4,clear
+2336,Soyabean,Chandur Railway,2017-05-09,3070.0,1.0,41.4,clear
+2337,Soyabean,Amarawati,2017-06-09,2745.0,191.0,32.8,clear
+2338,Soyabean,Anajngaon,2017-06-09,2750.0,3.0,32.8,clear
+2339,Soyabean,Chandur Railway,2017-06-09,2971.0,5.0,32.8,clear
+2340,Soyabean,Daryapur,2017-06-09,2900.0,5.0,32.8,clear
+2341,Soyabean,Dhamngaon-Railway,2017-06-09,2850.0,58.0,32.8,clear
+2342,Soyabean,Morshi,2017-06-09,2800.0,5.0,32.8,clear
+2343,Soyabean,Amarawati,2017-07-09,2483.0,264.0,34.2,clear
+2344,Soyabean,Chandur Railway,2017-07-09,3036.0,1.0,34.2,clear
+2345,Soyabean,Dhamngaon-Railway,2017-07-09,2700.0,65.0,34.2,clear
+2346,Soyabean,Varud(Rajura Bazar),2017-07-09,3062.0,1.0,34.2,clear
+2347,Soyabean,Amarawati,2017-08-09,2700.0,199.0,25.2,clear
+2348,Soyabean,Anajngaon,2017-08-09,2600.0,4.0,25.2,clear
+2349,Soyabean,Chandur Railway,2017-08-09,2500.0,0.0,25.2,clear
+2350,Soyabean,Dhamngaon-Railway,2017-08-09,2750.0,35.0,25.2,clear
+2351,Soyabean,Amarawati,2017-09-09,2750.0,188.0,28.2,clear
+2352,Soyabean,Chandur Railway,2017-09-09,2885.0,2.0,28.2,clear
+2353,Soyabean,Dhamngaon-Railway,2017-09-09,2750.0,33.0,28.2,clear
+2354,Soyabean,Morshi,2017-09-09,2775.0,5.0,28.2,clear
+2355,Soyabean,Amarawati,2017-11-09,2675.0,251.0,31.6,clear
+2356,Soyabean,Chandur Railway,2017-11-09,2850.0,2.0,31.6,clear
+2357,Soyabean,Dhamngaon-Railway,2017-11-09,2650.0,60.0,31.6,clear
+2358,Soyabean,Nanggaon,2017-11-09,2700.0,1.0,31.6,clear
+2359,Soyabean,Amarawati,2017-12-09,2710.0,189.0,31.4,clear
+2360,Soyabean,Chandur Railway,2017-12-09,2826.0,3.0,31.4,clear
+2361,Soyabean,Dharni,2017-12-09,2550.0,10.0,31.4,clear
+2362,Soyabean,Nanggaon,2017-12-09,2700.0,1.0,31.4,clear
+2363,Soyabean,Amarawati,2017-09-13,2757.0,286.0,28.6,clear
+2364,Soyabean,Anajngaon,2017-09-13,2650.0,17.0,28.6,clear
+2365,Soyabean,Chandur Railway,2017-09-13,2800.0,3.0,28.6,clear
+2366,Soyabean,Morshi,2017-09-13,2825.0,2.0,28.6,clear
+2367,Soyabean,Nanggaon,2017-09-13,2725.0,4.0,28.6,clear
+2368,Soyabean,Amarawati,2017-09-14,2835.0,168.0,28.0,clear
+2369,Soyabean,Chandur Railway,2017-09-14,2816.0,3.0,28.0,clear
+2370,Soyabean,Dhamngaon-Railway,2017-09-14,2650.0,20.0,28.0,clear
+2371,Soyabean,Nanggaon,2017-09-14,2650.0,0.0,28.0,clear
+2372,Soyabean,Amarawati,2017-09-15,2715.0,183.0,27.8,clear
+2373,Soyabean,Anajngaon,2017-09-15,2650.0,4.0,27.8,clear
+2374,Soyabean,Chandur Railway,2017-09-15,2761.0,4.0,27.8,clear
+2375,Soyabean,Dhamngaon-Railway,2017-09-15,2700.0,30.0,27.8,clear
+2376,Soyabean,Amarawati,2017-09-16,2703.0,158.0,30.2,clear
+2377,Soyabean,Chandur Railway,2017-09-16,2827.0,2.0,30.2,clear
+2378,Soyabean,Dhamngaon-Railway,2017-09-16,2700.0,20.0,30.2,clear
+2379,Soyabean,Morshi,2017-09-16,2812.0,5.0,30.2,clear
+2380,Soyabean,Amarawati,2017-09-18,2650.0,120.0,29.0,clear
+2381,Soyabean,Daryapur,2017-09-18,3795.0,9.0,29.0,clear
+2382,Soyabean,Amarawati,2017-09-19,2675.0,125.0,29.8,clear
+2383,Soyabean,Amarawati,2017-09-20,2660.0,134.0,30.0,clear
+2384,Soyabean,Anajngaon,2017-09-20,2500.0,4.0,30.0,clear
+2385,Soyabean,Daryapur,2017-09-20,2800.0,8.0,30.0,clear
+2386,Soyabean,Morshi,2017-09-20,2725.0,5.0,30.0,clear
+2387,Soyabean,Amarawati,2017-09-21,2530.0,182.0,27.0,clear
+2388,Soyabean,Chandur Railway,2017-09-21,2850.0,2.0,27.0,clear
+2389,Soyabean,Amarawati,2017-09-22,2787.0,165.0,24.8,clear
+2390,Soyabean,Anajngaon,2017-09-22,2500.0,4.0,24.8,clear
+2391,Soyabean,Chandur Railway,2017-09-22,2851.0,2.0,24.8,clear
+2392,Soyabean,Daryapur,2017-09-22,3700.0,3.0,24.8,clear
+2393,Soyabean,Nanggaon,2017-09-22,2720.0,2.0,24.8,clear
+2394,Soyabean,Amarawati,2017-09-23,2656.0,180.0,30.8,clear
+2395,Soyabean,Chandur Railway,2017-09-23,2811.0,1.0,30.8,clear
+2396,Soyabean,Daryapur,2017-09-23,2700.0,1.0,30.8,clear
+2397,Soyabean,Morshi,2017-09-23,2765.0,6.0,30.8,clear
+2398,Soyabean,Amarawati,2017-09-25,2700.0,291.0,29.8,clear
+2399,Soyabean,Chandur Railway,2017-09-25,2788.0,2.0,29.8,clear
+2400,Soyabean,Daryapur,2017-09-25,2700.0,3.0,29.8,clear
+2401,Soyabean,Dhamngaon-Railway,2017-09-25,2600.0,55.0,29.8,clear
+2402,Soyabean,Amarawati,2017-09-26,2650.0,322.0,32.8,clear
+2403,Soyabean,Chandur Railway,2017-09-26,2760.0,2.0,32.8,clear
+2404,Soyabean,Daryapur,2017-09-26,2600.0,2.0,32.8,clear
+2405,Soyabean,Amarawati,2017-09-27,2670.0,150.0,33.0,clear
+2406,Soyabean,Anajngaon,2017-09-27,2550.0,19.0,33.0,clear
+2407,Soyabean,Daryapur,2017-09-27,2750.0,4.0,33.0,clear
+2408,Soyabean,Dhamngaon-Railway,2017-09-27,2550.0,70.0,33.0,clear
+2409,Soyabean,Morshi,2017-09-27,2730.0,15.0,33.0,clear
+2410,Soyabean,Amarawati,2017-09-28,2640.0,219.0,33.6,clear
+2411,Soyabean,Amarawati,2017-03-10,2675.0,430.0,32.2,clear
+2412,Soyabean,Chandur Railway,2017-03-10,2601.0,6.0,32.2,clear
+2413,Soyabean,Dhamngaon-Railway,2017-03-10,2450.0,150.0,32.2,clear
+2414,Soyabean,Amarawati,2017-04-10,2563.0,421.0,39.4,clear
+2415,Soyabean,Anajngaon,2017-04-10,2400.0,54.0,39.4,clear
+2416,Soyabean,Chandur Railway,2017-04-10,2598.0,14.0,39.4,clear
+2417,Soyabean,Morshi,2017-04-10,2500.0,41.0,39.4,clear
+2418,Soyabean,Amarawati,2017-05-10,2690.0,512.0,41.2,clear
+2419,Soyabean,Dhamngaon-Railway,2017-05-10,2450.0,130.0,41.2,clear
+2420,Soyabean,Amarawati,2017-06-10,2613.0,356.0,31.4,clear
+2421,Soyabean,Anajngaon,2017-06-10,2500.0,31.0,31.4,clear
+2422,Soyabean,Dhamngaon-Railway,2017-06-10,2500.0,120.0,31.4,clear
+2423,Soyabean,Morshi,2017-06-10,2590.0,39.0,31.4,clear
+2424,Soyabean,Amarawati,2017-07-10,2610.0,744.0,32.2,clear
+2425,Soyabean,Dhamngaon-Railway,2017-07-10,2550.0,170.0,32.2,clear
+2426,Soyabean,Morshi,2017-07-10,2689.0,64.0,32.2,clear
+2427,Soyabean,Amarawati,2017-09-10,2400.0,594.0,30.0,clear
+2428,Soyabean,Dhamngaon-Railway,2017-09-10,2450.0,110.0,30.0,clear
+2429,Soyabean,Amarawati,2017-10-10,2413.0,616.0,27.4,clear
+2430,Soyabean,Daryapur,2017-10-10,2370.0,17.0,27.4,clear
+2431,Soyabean,Dhamngaon-Railway,2017-10-10,2450.0,80.0,27.4,clear
+2432,Soyabean,Morshi,2017-10-10,2525.0,32.0,27.4,clear
+2433,Soyabean,Amarawati,2017-11-10,2421.0,774.0,30.0,clear
+2434,Soyabean,Anajngaon,2017-11-10,2400.0,23.0,30.0,clear
+2435,Soyabean,Daryapur,2017-11-10,2405.0,27.0,30.0,clear
+2436,Soyabean,Dhamngaon-Railway,2017-11-10,2450.0,40.0,30.0,clear
+2437,Soyabean,Morshi,2017-11-10,2559.0,75.0,30.0,clear
+2438,Soyabean,Amarawati,2017-12-10,2450.0,766.0,28.0,clear
+2439,Soyabean,Dhamngaon-Railway,2017-12-10,2320.0,10.0,28.0,clear
+2440,Soyabean,Amarawati,2017-10-13,2325.0,984.0,31.4,clear
+2441,Soyabean,Anajngaon,2017-10-13,2400.0,22.0,31.4,clear
+2442,Soyabean,Dhamngaon-Railway,2017-10-13,2450.0,135.0,31.4,clear
+2443,Soyabean,Morshi,2017-10-13,2425.0,51.0,31.4,clear
+2444,Soyabean,Amarawati,2017-10-14,2275.0,986.0,32.6,clear
+2445,Soyabean,Chandur Railway,2017-10-14,2300.0,60.0,32.6,clear
+2446,Soyabean,Daryapur,2017-10-14,2450.0,12.0,32.6,clear
+2447,Soyabean,Dhamngaon-Railway,2017-10-14,2400.0,180.0,32.6,clear
+2448,Soyabean,Morshi,2017-10-14,2584.0,79.0,32.6,clear
+2449,Soyabean,Amarawati,2017-10-16,2410.0,1120.0,34.6,clear
+2450,Soyabean,Chandur Railway,2017-10-16,2425.0,36.0,34.6,clear
+2451,Soyabean,Daryapur,2017-10-16,2500.0,78.0,34.6,clear
+2452,Soyabean,Dharni,2017-10-16,2650.0,10.0,34.6,clear
+2453,Soyabean,Morshi,2017-10-16,2250.0,100.0,34.6,clear
+2454,Soyabean,Amarawati,2017-10-23,2450.0,,33.4,clear
+2455,Soyabean,Chandur Railway,2017-10-23,2150.0,60.0,33.4,clear
+2456,Soyabean,Daryapur,2017-10-23,2450.0,83.0,33.4,clear
+2457,Soyabean,Morshi,2017-10-23,2235.0,133.0,33.4,clear
+2458,Soyabean,Amarawati,2017-10-24,2425.0,1742.0,33.0,clear
+2459,Soyabean,Chandur Railway,2017-10-24,2300.0,66.0,33.0,clear
+2460,Soyabean,Daryapur,2017-10-24,2400.0,74.0,33.0,clear
+2461,Soyabean,Amarawati,2017-10-25,2461.0,1458.0,33.0,clear
+2462,Soyabean,Anajngaon,2017-10-25,2450.0,254.0,33.0,clear
+2463,Soyabean,Daryapur,2017-10-25,2350.0,64.0,33.0,clear
+2464,Soyabean,Dharni,2017-10-25,2550.0,18.0,33.0,clear
+2465,Soyabean,Morshi,2017-10-25,2412.0,283.0,33.0,clear
+2466,Soyabean,Nanggaon,2017-10-25,2440.0,128.0,33.0,clear
+2467,Soyabean,Amarawati,2017-10-26,2500.0,1753.0,31.8,clear
+2468,Soyabean,Nanggaon,2017-10-26,2400.0,83.0,31.8,clear
+2469,Soyabean,Amarawati,2017-10-28,2026.0,1739.0,32.0,clear
+2470,Soyabean,Daryapur,2017-10-28,2400.0,88.0,32.0,clear
+2471,Soyabean,Morshi,2017-10-28,2255.0,158.0,32.0,clear
+2472,Soyabean,Amarawati,2017-10-30,2025.0,2265.0,32.2,clear
+2473,Soyabean,Dharni,2017-10-30,2550.0,20.0,32.2,clear
+2474,Soyabean,Morshi,2017-10-30,2243.0,154.0,32.2,clear
+2475,Soyabean,Amarawati,2017-10-31,1950.0,1443.0,32.2,clear
+2476,Soyabean,Dhamngaon-Railway,2017-10-31,2250.0,205.0,32.2,clear
+2477,Soyabean,Dharni,2017-10-31,2550.0,60.0,32.2,clear
+2478,Soyabean,Amarawati,2017-01-11,2061.0,1274.0,24.0,clear
+2479,Soyabean,Anajngaon,2017-01-11,2350.0,121.0,24.0,clear
+2480,Soyabean,Dhamngaon-Railway,2017-01-11,2350.0,160.0,24.0,clear
+2481,Soyabean,Dharni,2017-01-11,2650.0,28.0,24.0,clear
+2482,Soyabean,Morshi,2017-01-11,2210.0,203.0,24.0,clear
+2483,Soyabean,Nanggaon,2017-01-11,2255.0,102.0,24.0,clear
+2484,Soyabean,Amarawati,2017-02-11,2229.0,,30.4,clear
+2485,Soyabean,Dhamngaon-Railway,2017-02-11,2550.0,210.0,30.4,clear
+2486,Soyabean,Nanggaon,2017-02-11,2300.0,85.0,30.4,clear
+2487,Soyabean,Amarawati,2017-03-11,2123.0,1553.0,30.6,clear
+2488,Soyabean,Anajngaon,2017-03-11,2400.0,112.0,30.6,clear
+2489,Soyabean,Dhamngaon-Railway,2017-03-11,2450.0,220.0,30.6,clear
+2490,Soyabean,Morshi,2017-03-11,2211.0,218.0,30.6,clear
+2491,Soyabean,Nanggaon,2017-03-11,2375.0,59.0,30.6,clear
+2492,Soyabean,Anajngaon,2017-01-01,2500.0,51.0,28.6,clear
+2493,Soyabean,Chandur Bazar,2017-01-01,2865.0,99.0,28.6,clear
+2494,Soyabean,Anajngaon,2017-08-01,2500.0,106.0,31.8,clear
+2495,Soyabean,Chandur Bazar,2017-08-01,2700.0,244.0,31.8,clear
+2496,Soyabean,Anajngaon,2017-01-15,2500.0,94.0,27.0,clear
+2497,Soyabean,Chandur Bazar,2017-01-15,2780.0,252.0,27.0,clear
+2498,Soyabean,Anajngaon,2017-12-02,2500.0,61.0,28.4,clear
+2499,Soyabean,Anajngaon,2017-02-26,2500.0,30.0,35.4,clear
+2500,Soyabean,Chandur Bazar,2017-02-26,2547.0,129.0,35.4,clear
+2501,Soyabean,Anajngaon,2017-05-03,2550.0,37.0,41.8,clear
+2502,Soyabean,Chandur Bazar,2017-05-03,2622.0,77.0,41.8,clear
+2503,Soyabean,Anajngaon,2017-03-19,2500.0,26.0,34.6,clear
+2504,Soyabean,Chandur Bazar,2017-03-19,2642.0,65.0,34.6,clear
+2505,Soyabean,Anajngaon,2017-03-29,2500.0,19.0,41.6,clear
+2506,Soyabean,Chandur Railway,2017-03-29,2550.0,11.0,41.6,clear
+2507,Soyabean,Morshi,2017-03-29,2575.0,10.0,41.6,clear
+2508,Soyabean,Nanggaon,2017-03-29,2550.0,14.0,41.6,clear
+2509,Soyabean,Anajngaon,2017-02-04,2400.0,18.0,29.8,clear
+2510,Soyabean,Chandur Bazar,2017-02-04,2640.0,46.0,29.8,clear
+2511,Soyabean,Anajngaon,2017-04-16,2600.0,38.0,43.2,clear
+2512,Soyabean,Chandur Bazar,2017-04-16,2658.0,89.0,43.2,clear
+2513,Soyabean,Anajngaon,2017-04-23,2600.0,33.0,37.2,clear
+2514,Soyabean,Chandur Bazar,2017-04-23,2750.0,57.0,37.2,clear
+2515,Soyabean,Anajngaon,2017-04-26,2600.0,22.0,38.8,clear
+2516,Soyabean,Chandur Bazar,2017-04-26,2727.0,16.0,38.8,clear
+2517,Soyabean,Daryapur,2017-04-26,2700.0,10.0,38.8,clear
+2518,Soyabean,Dhamngaon-Railway,2017-04-26,2600.0,300.0,38.8,clear
+2519,Soyabean,Morshi,2017-04-26,2725.0,10.0,38.8,clear
+2520,Soyabean,Anajngaon,2017-04-30,2575.0,32.0,38.2,clear
+2521,Soyabean,Chandur Bazar,2017-04-30,2665.0,53.0,38.2,clear
+2522,Soyabean,Dharni,2017-04-30,2550.0,15.0,38.2,clear
+2523,Soyabean,Anajngaon,2017-05-21,2500.0,24.0,41.2,clear
+2524,Soyabean,Anajngaon,2017-05-24,2500.0,26.0,42.2,clear
+2525,Soyabean,Morshi,2017-05-24,2625.0,10.0,42.2,clear
+2526,Soyabean,Anajngaon,2017-05-26,2500.0,20.0,41.2,clear
+2527,Soyabean,Morshi,2017-05-26,2625.0,1.0,41.2,clear
+2528,Soyabean,Anajngaon,2017-05-31,2450.0,19.0,33.8,clear
+2529,Soyabean,Morshi,2017-05-31,2412.0,10.0,33.8,clear
+2530,Soyabean,Anajngaon,2017-06-18,2400.0,24.0,36.6,clear
+2531,Soyabean,Chandur Bazar,2017-06-18,2658.0,42.0,36.6,clear
+2532,Soyabean,Anajngaon,2017-06-25,2500.0,8.0,27.4,clear
+2533,Soyabean,Chandur Bazar,2017-06-25,2654.0,14.0,27.4,clear
+2534,Soyabean,Anajngaon,2017-02-07,2500.0,8.0,31.2,clear
+2535,Soyabean,Anajngaon,2017-05-07,2550.0,7.0,40.0,clear
+2536,Soyabean,Dhamngaon-Railway,2017-05-07,2650.0,50.0,40.0,clear
+2537,Soyabean,Dharni,2017-05-07,2650.0,11.0,40.0,clear
+2538,Soyabean,Morshi,2017-05-07,2675.0,10.0,40.0,clear
+2539,Soyabean,Nanggaon,2017-05-07,2475.0,5.0,40.0,clear
+2540,Soyabean,Anajngaon,2017-07-07,2500.0,5.0,33.8,clear
+2541,Soyabean,Dhamngaon-Railway,2017-07-07,2650.0,50.0,33.8,clear
+2542,Soyabean,Nanggaon,2017-07-07,2608.0,4.0,33.8,clear
+2543,Soyabean,Anajngaon,2017-12-07,2500.0,765.0,29.6,clear
+2544,Soyabean,Chandur Railway,2017-12-07,2781.0,2.0,29.6,clear
+2545,Soyabean,Dhamngaon-Railway,2017-12-07,2550.0,35.0,29.6,clear
+2546,Soyabean,Morshi,2017-12-07,2650.0,10.0,29.6,clear
+2547,Soyabean,Nanggaon,2017-12-07,2785.0,3.0,29.6,clear
+2548,Soyabean,Anajngaon,2017-07-14,2550.0,2.0,29.4,clear
+2549,Soyabean,Nanggaon,2017-07-14,2675.0,6.0,29.4,clear
+2550,Soyabean,Anajngaon,2017-07-16,2550.0,5.0,27.2,clear
+2551,Soyabean,Chandur Bazar,2017-07-16,2740.0,39.0,27.2,clear
+2552,Soyabean,Anajngaon,2017-07-30,2600.0,6.0,30.2,clear
+2553,Soyabean,Chandur Bazar,2017-07-30,2665.0,34.0,30.2,clear
+2554,Soyabean,Anajngaon,2017-06-08,2500.0,19.0,35.6,clear
+2555,Soyabean,Anajngaon,2017-08-13,2800.0,10.0,31.2,clear
+2556,Soyabean,Chandur Bazar,2017-08-13,2756.0,35.0,31.2,clear
+2557,Soyabean,Anajngaon,2017-08-20,2600.0,5.0,29.0,clear
+2558,Soyabean,Anajngaon,2017-08-27,2700.0,13.0,27.8,clear
+2559,Soyabean,Chandur Bazar,2017-08-27,2940.0,32.0,27.8,clear
+2560,Soyabean,Anajngaon,2017-03-09,2600.0,7.0,33.4,clear
+2561,Soyabean,Chandur Bazar,2017-03-09,2840.0,31.0,33.4,clear
+2562,Soyabean,Anajngaon,2017-10-09,2600.0,8.0,26.2,clear
+2563,Soyabean,Chandur Bazar,2017-10-09,2868.0,20.0,26.2,clear
+2564,Soyabean,Anajngaon,2017-09-17,2750.0,10.0,30.6,clear
+2565,Soyabean,Chandur Bazar,2017-09-17,2658.0,26.0,30.6,clear
+2566,Soyabean,Anajngaon,2017-09-24,2650.0,6.0,32.0,clear
+2567,Soyabean,Anajngaon,2017-09-29,2550.0,17.0,30.0,clear
+2568,Soyabean,Anajngaon,2017-08-10,2450.0,43.0,30.8,clear
+2569,Soyabean,Chandur Bazar,2017-08-10,2465.0,224.0,30.8,clear
+2570,Soyabean,Anajngaon,2017-10-15,2450.0,32.0,34.2,clear
+2571,Soyabean,Dharni,2017-10-15,2650.0,17.0,34.2,clear
+2572,Soyabean,Anajngaon,2017-10-18,2450.0,16.0,31.8,clear
+2573,Soyabean,Morshi,2017-10-18,2496.0,13.0,31.8,clear
+2574,Soyabean,Anajngaon,2017-10-22,2400.0,157.0,33.8,clear
+2575,Soyabean,Chandur Bazar,2017-10-22,2322.0,467.0,33.8,clear
+2576,Soyabean,Anajngaon,2017-10-27,2250.0,146.0,32.4,clear
+2577,Soyabean,Daryapur,2017-10-27,2400.0,65.0,32.4,clear
+2578,Soyabean,Anajngaon,2017-10-29,2400.0,120.0,32.2,clear
+2579,Soyabean,Chandur Bazar,2017-10-29,2150.0,680.0,32.2,clear
+2580,Soyabean,Chandur Bazar,2017-05-02,2726.0,161.0,40.2,clear
+2581,Soyabean,Chandur Bazar,2017-09-04,2626.0,79.0,30.2,clear
+2582,Soyabean,Chandur Bazar,2017-03-05,2626.0,22.0,34.0,clear
+2583,Soyabean,Chandur Railway,2017-03-05,2650.0,12.0,34.0,clear
+2584,Soyabean,Morshi,2017-03-05,2725.0,5.0,34.0,clear
+2585,Soyabean,Chandur Bazar,2017-07-05,2652.0,28.0,31.2,clear
+2586,Soyabean,Chandur Bazar,2017-05-14,2652.0,51.0,44.0,clear
+2587,Soyabean,Chandur Bazar,2017-05-28,2700.0,24.0,40.0,clear
+2588,Soyabean,Chandur Bazar,2017-04-06,2468.0,59.0,40.0,clear
+2589,Soyabean,Chandur Bazar,2017-11-06,2448.0,49.0,31.2,clear
+2590,Soyabean,Chandur Bazar,2017-09-07,2740.0,24.0,31.0,clear
+2591,Soyabean,Chandur Bazar,2017-07-23,3240.0,74.0,27.2,clear
+2592,Soyabean,Chandur Bazar,2017-02-10,2645.0,43.0,20.4,clear
+2593,Soyabean,Chandur Railway,2017-02-25,2600.0,40.0,33.0,clear
+2594,Soyabean,Chandur Railway,2017-11-03,2550.0,7.0,31.2,clear
+2595,Soyabean,Daryapur,2017-11-03,2500.0,12.0,31.2,clear
+2596,Soyabean,Dhamngaon-Railway,2017-11-03,2550.0,105.0,31.2,clear
+2597,Soyabean,Morshi,2017-11-03,2625.0,10.0,31.2,clear
+2598,Soyabean,Nanggaon,2017-11-03,2535.0,16.0,31.2,clear
+2599,Soyabean,Chandur Railway,2017-06-05,2650.0,3.0,34.8,clear
+2600,Soyabean,Chandur Railway,2017-11-05,2700.0,9.0,30.0,clear
+2601,Soyabean,Chandur Railway,2017-05-13,2650.0,16.0,38.4,clear
+2602,Soyabean,Dharni,2017-05-13,2550.0,10.0,38.4,clear
+2603,Soyabean,Chandur Railway,2017-11-07,2650.0,5.0,31.2,clear
+2604,Soyabean,Dhamngaon-Railway,2017-11-07,2700.0,30.0,31.2,clear
+2605,Soyabean,Nanggaon,2017-11-07,2650.0,18.0,31.2,clear
+2606,Soyabean,Chandur Railway,2017-07-13,2600.0,2.0,28.2,clear
+2607,Soyabean,Nanggaon,2017-07-13,2725.0,2.0,28.2,clear
+2608,Soyabean,Varud(Rajura Bazar),2017-07-13,2664.0,3.0,28.2,clear
+2609,Soyabean,Chandur Railway,2017-08-24,2800.0,2.0,28.0,clear
+2610,Soyabean,Dhamngaon-Railway,2017-08-24,2900.0,50.0,28.0,clear
+2611,Soyabean,Varud(Rajura Bazar),2017-08-24,3045.0,4.0,28.0,clear
+2612,Soyabean,Chandur Railway,2017-08-28,2985.0,4.0,26.2,clear
+2613,Soyabean,Dhamngaon-Railway,2017-08-28,2850.0,35.0,26.2,clear
+2614,Soyabean,Dharni,2017-08-28,2550.0,5.0,26.2,clear
+2615,Soyabean,Chandur Railway,2017-08-29,2781.0,4.0,25.2,clear
+2616,Soyabean,Daryapur,2017-02-20,2575.0,7.0,35.2,clear
+2617,Soyabean,Nanggaon,2017-02-20,2538.0,31.0,35.2,clear
+2618,Soyabean,Varud,2017-02-20,2708.0,19.0,35.2,clear
+2619,Soyabean,Daryapur,2017-06-24,2700.0,10.0,36.0,clear
+2620,Soyabean,Morshi,2017-06-24,2450.0,10.0,36.0,clear
+2621,Soyabean,Daryapur,2017-01-07,2400.0,14.0,27.2,clear
+2622,Soyabean,Morshi,2017-01-07,2625.0,10.0,27.2,clear
+2623,Soyabean,Daryapur,2017-03-07,2650.0,3.0,33.2,clear
+2624,Soyabean,Nanggaon,2017-03-07,2605.0,4.0,33.2,clear
+2625,Soyabean,Dhamngaon-Railway,2017-06-07,2500.0,35.0,33.0,clear
+2626,Soyabean,Nanggaon,2017-06-07,2525.0,4.0,33.0,clear
+2627,Soyabean,Varud(Rajura Bazar),2017-06-07,2681.0,6.0,33.0,clear
+2628,Soyabean,Dhamngaon-Railway,2017-08-07,2700.0,17.0,27.4,clear
+2629,Soyabean,Morshi,2017-08-07,4725.0,10.0,27.4,clear
+2630,Soyabean,Nanggaon,2017-08-07,2687.0,3.0,27.4,clear
+2631,Soyabean,Dhamngaon-Railway,2017-10-07,2700.0,30.0,32.4,clear
+2632,Soyabean,Nanggaon,2017-10-07,2701.0,4.0,32.4,clear
+2633,Soyabean,Dharni,2017-01-22,2550.0,11.0,29.6,clear
+2634,Soyabean,Dharni,2017-03-13,2650.0,15.0,32.2,clear
+2635,Soyabean,Dharni,2017-01-04,2550.0,10.0,27.2,clear
+2636,Soyabean,Morshi,2017-01-04,2625.0,30.0,27.2,clear
+2637,Soyabean,Dharni,2017-07-06,2550.0,15.0,32.8,clear
+2638,Soyabean,Morshi,2017-07-06,2450.0,10.0,32.8,clear
+2639,Soyabean,Dharni,2017-10-21,2650.0,50.0,33.4,clear
+2640,Soyabean,Morshi,2017-03-31,2640.0,3.0,41.4,clear
+2641,Soyabean,Morshi,2017-04-04,2650.0,15.0,40.0,clear
+2642,Soyabean,Morshi,2017-05-23,2625.0,2.0,41.0,clear
+2643,Soyabean,Morshi,2017-05-27,2550.0,10.0,34.0,clear
+2644,Soyabean,Morshi,2017-05-30,2550.0,2.0,34.0,clear
+2645,Soyabean,Morshi,2017-03-06,2550.0,5.0,33.2,clear
+2646,Soyabean,Morshi,2017-06-06,2525.0,1.0,29.0,clear
+2647,Soyabean,Morshi,2017-08-30,2750.0,5.0,29.8,clear
+2648,Soyabean,Morshi,2017-10-17,2311.0,47.0,35.0,clear
+2649,Soyabean,Morshi,2017-04-11,2345.0,154.0,39.6,clear
+2650,Soyabean,Nanggaon,2017-04-07,2550.0,7.0,39.0,clear
+2651,Soyabean,Varud(Rajura Bazar),2017-06-22,2613.0,5.0,35.6,clear
+2652,Soyabean,Varud(Rajura Bazar),2017-07-27,2775.0,0.0,25.2,clear
+2653,Soyabean,Varud(Rajura Bazar),2017-08-17,3054.0,3.0,32.6,clear

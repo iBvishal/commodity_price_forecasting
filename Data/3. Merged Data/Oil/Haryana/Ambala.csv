@@ -1,0 +1,267 @@
+,comm_name,market_center_name,ArrivalDate,MODALPRICE,arrivalquantity,T,weather
+0,Mustard,Naraingarh,2015-12-22,3600.0,0.9,18.6,clear
+1,Mustard,Ambala City,2016-01-19,3450.0,1.5,11.4,clear
+2,Mustard,"New Grain Market , Ambala",2016-01-19,3450.0,1.5,11.4,clear
+3,Mustard,Ambala City,2016-01-20,3360.0,1.0,14.0,clear
+4,Mustard,"New Grain Market , Ambala",2016-01-20,3350.0,1.0,14.0,clear
+5,Mustard,Ambala City,2016-01-21,3360.0,1.0,10.0,clear
+6,Mustard,"New Grain Market , Ambala",2016-01-21,3360.0,1.0,10.0,clear
+7,Mustard,Ambala City,2016-01-23,3390.0,1.2,13.8,clear
+8,Mustard,"New Grain Market , Ambala",2016-01-23,3390.0,1.2,13.8,clear
+9,Mustard,Ambala City,2016-01-25,3350.0,0.2,10.0,clear
+10,Mustard,"New Grain Market , Ambala",2016-01-25,3350.0,0.2,10.0,clear
+11,Mustard,Ambala City,2016-01-29,3350.0,2.3,22.0,clear
+12,Mustard,"New Grain Market , Ambala",2016-01-29,3350.0,2.3,22.0,clear
+13,Mustard,Ambala City,2016-01-30,3350.0,3.2,23.4,clear
+14,Mustard,Naraingarh,2016-01-30,3750.0,2.2,23.4,clear
+15,Mustard,"New Grain Market , Ambala",2016-01-30,3350.0,3.2,23.4,clear
+16,Mustard,Ambala City,2016-01-31,3360.0,2.5,19.4,clear
+17,Mustard,"New Grain Market , Ambala",2016-01-31,3360.0,2.5,19.4,clear
+18,Mustard,Ambala City,2016-08-02,3720.0,3.3,34.0,clear
+19,Mustard,"New Grain Market , Ambala",2016-08-02,3720.0,3.3,34.0,clear
+20,Mustard,Ambala City,2016-09-02,3720.0,4.0,32.0,clear
+21,Mustard,Naraingarh,2016-09-02,3695.0,0.5,32.0,clear
+22,Mustard,"New Grain Market , Ambala",2016-09-02,3720.0,4.0,32.0,clear
+23,Mustard,Ambala City,2016-10-02,3650.0,1.4,33.8,clear
+24,Mustard,Naraingarh,2016-10-02,3850.0,2.4,33.8,clear
+25,Mustard,"New Grain Market , Ambala",2016-10-02,3600.0,1.4,33.8,clear
+26,Mustard,Ambala City,2016-11-02,3600.0,1.1,31.1,clear
+27,Mustard,"New Grain Market , Ambala",2016-11-02,3600.0,1.4,31.1,clear
+28,Mustard,Ambala City,2016-12-02,3658.0,1.4,24.2,clear
+29,Mustard,"New Grain Market , Ambala",2016-12-02,3680.0,1.4,24.2,clear
+30,Mustard,Ambala City,2016-02-13,3750.0,4.3,20.0,clear
+31,Mustard,"New Grain Market , Ambala",2016-02-13,3750.0,4.3,20.0,clear
+32,Mustard,Ambala City,2016-02-14,3650.0,5.5,23.8,clear
+33,Mustard,"New Grain Market , Ambala",2016-02-14,3650.0,5.5,23.8,clear
+34,Mustard,Ambala City,2016-02-15,3680.0,2.3,22.0,clear
+35,Mustard,Naraingarh,2016-02-15,4000.0,3.9,22.0,clear
+36,Mustard,"New Grain Market , Ambala",2016-02-15,3680.0,2.3,22.0,clear
+37,Mustard,Ambala City,2016-02-16,3620.0,3.5,22.6,clear
+38,Mustard,Naraingarh,2016-02-16,3950.0,2.5,22.6,clear
+39,Mustard,"New Grain Market , Ambala",2016-02-16,3620.0,3.5,22.6,clear
+40,Mustard,Ambala City,2016-02-17,3540.0,4.1,25.0,clear
+41,Mustard,Naraingarh,2016-02-17,3950.0,4.1,25.0,clear
+42,Mustard,"New Grain Market , Ambala",2016-02-17,3560.0,4.1,25.0,clear
+43,Mustard,Ambala City,2016-02-18,3690.0,1.5,25.0,clear
+44,Mustard,Naraingarh,2016-02-18,4000.0,4.3,25.0,clear
+45,Mustard,"New Grain Market , Ambala",2016-02-18,3690.0,1.5,25.0,clear
+46,Mustard,Ambala City,2016-02-19,3690.0,1.6,25.0,clear
+47,Mustard,"New Grain Market , Ambala",2016-02-19,3690.0,1.6,25.0,clear
+48,Mustard,Ambala City,2016-02-21,3680.0,3.1,22.4,clear
+49,Mustard,"New Grain Market , Ambala",2016-02-21,3680.0,3.1,22.4,clear
+50,Mustard,Ambala City,2016-02-22,3780.0,2.3,25.4,clear
+51,Mustard,Naraingarh,2016-02-22,4000.0,4.6,25.4,clear
+52,Mustard,"New Grain Market , Ambala",2016-02-22,3780.0,2.3,25.4,clear
+53,Mustard,Ambala City,2016-02-23,3860.0,2.8,25.0,clear
+54,Mustard,Naraingarh,2016-02-23,4050.0,5.1,25.0,clear
+55,Mustard,"New Grain Market , Ambala",2016-02-23,3680.0,5.6,25.0,clear
+56,Mustard,Ambala City,2016-02-24,3850.0,6.6,26.4,clear
+57,Mustard,"New Grain Market , Ambala",2016-02-24,3850.0,2.8,26.4,clear
+58,Mustard,Ambala City,2016-02-25,3800.0,5.6,27.0,clear
+59,Mustard,Naraingarh,2016-02-25,4000.0,1.5,27.0,clear
+60,Mustard,"New Grain Market , Ambala",2016-02-25,3661.0,2.0,27.0,clear
+61,Mustard,Ambala City,2016-02-26,3700.0,4.6,27.8,clear
+62,Mustard,Naraingarh,2016-02-26,4050.0,3.7,27.8,clear
+63,Mustard,"New Grain Market , Ambala",2016-02-26,3850.0,6.6,27.8,clear
+64,Mustard,Ambala City,2016-02-27,3625.0,1.8,26.8,clear
+65,Mustard,Naraingarh,2016-02-27,4100.0,3.5,26.8,clear
+66,Mustard,"New Grain Market , Ambala",2016-02-27,3650.0,4.6,26.8,clear
+67,Mustard,Ambala City,2016-02-29,3661.0,2.0,26.8,clear
+68,Mustard,Naraingarh,2016-02-29,4100.0,5.2,26.8,clear
+69,Mustard,"New Grain Market , Ambala",2016-02-29,3661.0,2.0,26.8,clear
+70,Mustard,Ambala City,2016-02-03,3350.0,4.7,20.2,clear
+71,Mustard,Naraingarh,2016-02-03,4000.0,6.8,20.2,clear
+72,Mustard,"New Grain Market , Ambala",2016-02-03,3350.0,4.7,20.2,clear
+73,Mustard,Ambala City,2016-04-03,3560.0,2.4,36.4,clear
+74,Mustard,"New Grain Market , Ambala",2016-04-03,3500.0,2.4,36.4,clear
+75,Mustard,Ambala City,2016-07-03,3560.0,1.9,30.2,clear
+76,Mustard,Naraingarh,2016-07-03,4000.0,3.5,30.2,clear
+77,Mustard,"New Grain Market , Ambala",2016-07-03,3500.0,1.9,30.2,clear
+78,Mustard,Ambala City,2016-08-03,3560.0,1.2,36.6,clear
+79,Mustard,Naraingarh,2016-08-03,4040.0,1.9,36.6,clear
+80,Mustard,"New Grain Market , Ambala",2016-08-03,3561.0,1.2,36.6,clear
+81,Mustard,Ambala City,2016-09-03,3416.0,1.3,32.4,clear
+82,Mustard,"New Grain Market , Ambala",2016-09-03,3416.0,1.3,32.4,clear
+83,Mustard,Ambala City,2016-10-03,3540.0,1.6,33.8,clear
+84,Mustard,Naraingarh,2016-10-03,4000.0,3.7,33.8,clear
+85,Mustard,"New Grain Market , Ambala",2016-10-03,3363.0,1.6,33.8,clear
+86,Mustard,Ambala City,2016-03-15,3800.0,1.3,26.8,clear
+87,Mustard,Naraingarh,2016-03-15,3970.0,2.6,26.8,clear
+88,Mustard,"New Grain Market , Ambala",2016-03-15,3680.0,1.3,26.8,clear
+89,Mustard,Ambala City,2016-03-16,3400.0,2.9,25.6,clear
+90,Mustard,Naraingarh,2016-03-16,4053.0,2.4,25.6,clear
+91,Mustard,"New Grain Market , Ambala",2016-03-16,3450.0,2.9,25.6,clear
+92,Mustard,Ambala City,2016-03-17,3350.0,2.0,24.4,clear
+93,Mustard,"New Grain Market , Ambala",2016-03-17,3350.0,2.0,24.4,clear
+94,Mustard,Ambala City,2016-03-18,3450.0,5.2,29.4,clear
+95,Mustard,Naraingarh,2016-03-18,4000.0,7.7,29.4,clear
+96,Mustard,"New Grain Market , Ambala",2016-03-18,3380.0,1.2,29.4,clear
+97,Mustard,Ambala City,2016-03-19,3450.0,1.4,31.6,clear
+98,Mustard,Naraingarh,2016-03-19,3760.0,2.8,31.6,clear
+99,Mustard,"New Grain Market , Ambala",2016-03-19,3500.0,5.2,31.6,clear
+100,Mustard,Ambala City,2016-03-20,3350.0,3.8,29.4,clear
+101,Mustard,"New Grain Market , Ambala",2016-03-20,3450.0,1.4,29.4,clear
+102,Mustard,Ambala City,2016-03-21,3350.0,2.0,29.0,clear
+103,Mustard,Naraingarh,2016-03-21,3800.0,5.0,29.0,clear
+104,Mustard,"New Grain Market , Ambala",2016-03-21,3650.0,3.5,29.0,clear
+105,Mustard,Ambala City,2016-03-22,3390.0,1.1,27.6,clear
+106,Mustard,Naraingarh,2016-03-22,3800.0,1.0,27.6,clear
+107,Mustard,"New Grain Market , Ambala",2016-03-22,3390.0,1.1,27.6,clear
+108,Mustard,Ambala City,2016-03-25,3350.0,4.4,31.4,clear
+109,Mustard,Naraingarh,2016-03-25,3800.0,0.8,31.4,clear
+110,Mustard,"New Grain Market , Ambala",2016-03-25,3350.0,4.4,31.4,clear
+111,Mustard,Ambala City,2016-03-26,3350.0,1.0,30.2,clear
+112,Mustard,Naraingarh,2016-03-26,3600.0,2.3,30.2,clear
+113,Mustard,"New Grain Market , Ambala",2016-03-26,3350.0,1.0,30.2,clear
+114,Mustard,Ambala City,2016-03-28,3550.0,1.5,30.8,clear
+115,Mustard,Naraingarh,2016-03-28,3730.0,1.9,30.8,clear
+116,Mustard,"New Grain Market , Ambala",2016-03-28,3550.0,1.5,30.8,clear
+117,Mustard,Ambala City,2016-03-29,3351.0,0.5,31.0,clear
+118,Mustard,"New Grain Market , Ambala",2016-03-29,3351.0,0.5,31.0,clear
+119,Mustard,Naraingarh,2016-05-01,3250.0,0.2,40.4,clear
+120,Mustard,Naraingarh,2016-06-01,3691.0,0.2,39.6,clear
+121,Mustard,Naraingarh,2016-08-01,3350.0,0.3,31.0,clear
+122,Mustard,Naraingarh,2016-12-01,3400.0,0.3,26.8,clear
+123,Mustard,Naraingarh,2016-01-18,3600.0,0.9,16.8,clear
+124,Mustard,Naraingarh,2016-01-22,3600.0,0.4,11.4,clear
+125,Mustard,Naraingarh,2016-01-27,3600.0,1.9,20.2,clear
+126,Mustard,Naraingarh,2016-01-28,3800.0,0.5,21.2,clear
+127,Mustard,Naraingarh,2016-03-02,3700.0,1.7,28.6,clear
+128,Mustard,Naraingarh,2016-05-02,3750.0,1.5,43.0,clear
+129,Mustard,Naraingarh,2016-06-02,3700.0,2.0,41.0,clear
+130,Mustard,Naraingarh,2016-02-20,4000.0,5.1,27.0,clear
+131,Mustard,Naraingarh,2016-01-03,3800.0,4.0,20.0,clear
+132,Mustard,Naraingarh,2016-05-03,3901.0,1.9,35.6,clear
+133,Mustard,Naraingarh,2016-11-03,3950.0,1.6,30.8,clear
+134,Mustard,Naraingarh,2016-03-14,3600.0,0.8,25.4,clear
+135,Mustard,Naraingarh,2016-03-23,3750.0,1.6,30.0,clear
+136,Mustard,Naraingarh,2016-03-30,3650.0,1.4,32.2,clear
+137,Mustard,Naraingarh,2016-01-04,3600.0,2.6,20.4,clear
+138,Mustard,Naraingarh,2016-12-04,3620.0,1.6,23.4,clear
+139,Sunflower,Ambala City,2016-01-06,3450.0,110.0,23.4,clear
+140,Sunflower,Naraingarh,2016-01-06,3200.0,6.7,23.4,clear
+141,Sunflower,"New Grain Market , Ambala",2016-01-06,3050.0,110.0,23.4,clear
+142,Sunflower,Shahzadpur,2016-01-06,3150.0,4.8,23.4,clear
+143,Sunflower,Ambala City,2016-02-06,3150.0,120.0,20.8,rain
+144,Sunflower,Naraingarh,2016-02-06,3100.0,2.1,20.8,rain
+145,Sunflower,"New Grain Market , Ambala",2016-02-06,3150.0,120.0,20.8,rain
+146,Sunflower,Shahzadpur,2016-02-06,3041.0,3.1,20.8,rain
+147,Sunflower,Ambala City,2016-04-06,3100.0,125.0,33.6,clear
+148,Sunflower,Naraingarh,2016-04-06,3050.0,1.6,33.6,clear
+149,Sunflower,"New Grain Market , Ambala",2016-04-06,3100.0,123.0,33.6,clear
+150,Sunflower,Shahzadpur,2016-04-06,3025.0,0.5,33.6,clear
+151,Sunflower,Ambala City,2016-06-06,3150.0,68.9,35.8,clear
+152,Sunflower,Naraingarh,2016-06-06,3050.0,3.9,35.8,clear
+153,Sunflower,"New Grain Market , Ambala",2016-06-06,3150.0,68.9,35.8,clear
+154,Sunflower,Shahzadpur,2016-06-06,3100.0,1.0,35.8,clear
+155,Sunflower,Ambala City,2016-07-06,3150.0,56.8,34.2,clear
+156,Sunflower,Naraingarh,2016-07-06,3000.0,0.2,34.2,clear
+157,Sunflower,"New Grain Market , Ambala",2016-07-06,3150.0,56.8,34.2,clear
+158,Sunflower,Barara,2016-03-06,3000.0,175.0,24.2,rain
+159,Sunflower,Naraingarh,2016-03-06,3150.0,4.2,24.2,rain
+160,Sunflower,"New Grain Market , Ambala",2016-03-06,3080.0,110.0,24.2,rain
+161,Sunflower,Shahzadpur,2016-03-06,3050.0,2.5,24.2,rain
+162,Sunflower,Naraingarh,2016-05-19,2825.0,0.5,40.4,clear
+163,Sunflower,Shahzadpur,2016-05-19,3380.0,3.4,40.4,clear
+164,Sunflower,Naraingarh,2016-05-21,3060.0,0.6,38.2,clear
+165,Sunflower,Shahzadpur,2016-05-21,3000.0,7.6,38.2,clear
+166,Sunflower,Naraingarh,2016-05-23,2850.0,1.3,35.4,rain
+167,Sunflower,Shahzadpur,2016-05-23,3000.0,10.5,35.4,rain
+168,Sunflower,Naraingarh,2016-05-24,2945.0,2.3,31.4,clear
+169,Sunflower,Shahzadpur,2016-05-24,3200.0,4.5,31.4,clear
+170,Sunflower,Naraingarh,2016-05-25,3050.0,8.3,36.6,clear
+171,Sunflower,Shahzadpur,2016-05-25,3009.0,5.6,36.6,clear
+172,Sunflower,Naraingarh,2016-05-26,3060.0,5.8,37.8,clear
+173,Sunflower,Shahzadpur,2016-05-26,3060.0,5.3,37.8,clear
+174,Sunflower,Naraingarh,2016-05-27,3150.0,5.9,40.0,clear
+175,Sunflower,Shahzadpur,2016-05-27,3065.0,8.9,40.0,clear
+176,Sunflower,Naraingarh,2016-05-28,3100.0,6.3,39.4,rain
+177,Sunflower,Shahzadpur,2016-05-28,3070.0,17.1,39.4,rain
+178,Sunflower,Naraingarh,2016-05-30,3100.0,5.9,32.0,clear
+179,Sunflower,Shahzadpur,2016-05-30,3100.0,20.0,32.0,clear
+180,Sunflower,Naraingarh,2016-05-31,3170.0,4.7,38.0,clear
+181,Sunflower,Shahzadpur,2016-05-31,3041.0,7.5,38.0,clear
+182,Sunflower,Naraingarh,2016-05-06,3000.0,2.3,35.4,clear
+183,Sunflower,"New Grain Market , Ambala",2016-05-06,3050.0,126.0,35.4,clear
+184,Sunflower,Naraingarh,2016-08-06,3150.0,8.2,29.8,clear
+185,Sunflower,Shahzadpur,2016-08-06,3200.0,6.2,29.8,clear
+186,Sunflower,Naraingarh,2016-09-06,3150.0,1.2,33.0,clear
+187,Sunflower,Naraingarh,2016-10-06,3150.0,1.2,33.2,clear
+188,Sunflower,Shahzadpur,2016-10-06,3280.0,7.4,33.2,clear
+189,Sunflower,Naraingarh,2016-11-06,3180.0,2.4,28.0,clear
+190,Sunflower,Shahzadpur,2016-11-06,2700.0,2.0,28.0,clear
+191,Sunflower,Naraingarh,2016-06-13,3150.0,0.6,40.0,clear
+192,Sunflower,Shahzadpur,2016-06-13,3210.0,6.7,40.0,clear
+193,Sunflower,Naraingarh,2016-06-14,3200.0,3.5,37.6,clear
+194,Sunflower,Shahzadpur,2016-06-14,3290.0,5.4,37.6,clear
+195,Sunflower,Naraingarh,2016-06-17,3100.0,0.8,35.4,clear
+196,Sunflower,Shahzadpur,2016-06-17,3260.0,5.0,35.4,clear
+197,Sunflower,Naraingarh,2016-06-21,3117.0,0.4,36.0,clear
+198,Sunflower,Shahzadpur,2016-06-21,3280.0,4.0,36.0,clear
+199,Sunflower,Naraingarh,2016-06-22,3000.0,0.4,33.2,clear
+200,Sunflower,Naraingarh,2016-06-27,2800.0,0.5,35.6,clear
+201,Sunflower,Naraingarh,2016-05-07,3081.0,0.4,36.6,clear
+202,Sunflower,Naraingarh,2016-07-13,3050.0,4.9,36.0,clear
+203,Sunflower,Naraingarh,2016-07-14,3150.0,4.7,29.4,clear
+204,Sunflower,Naraingarh,2016-07-15,3050.0,5.1,32.2,clear
+205,Sunflower,Naraingarh,2016-07-19,3040.0,0.3,35.0,clear
+206,Sunflower,Shahzadpur,2016-05-18,3050.0,3.0,42.8,clear
+207,Sunflower,Shahzadpur,2016-05-20,3380.0,7.0,40.4,clear
+208,Sunflower,Shahzadpur,2016-06-24,2750.0,0.9,38.6,clear
+209,Sunflower,Shahzadpur,2016-04-07,3270.0,6.0,33.6,rain
+210,Mustard,Naraingarh,2017-01-17,3551.0,0.7,11.6,clear
+211,Mustard,Naraingarh,2017-01-19,3690.0,1.5,17.4,clear
+212,Mustard,Naraingarh,2017-01-30,3500.0,5.4,20.2,clear
+213,Mustard,Naraingarh,2017-01-31,3550.0,1.6,18.6,clear
+214,Mustard,Naraingarh,2017-04-02,3581.0,5.1,36.0,clear
+215,Mustard,Naraingarh,2017-06-02,3600.0,14.6,39.6,clear
+216,Mustard,Naraingarh,2017-07-02,3640.0,6.3,31.8,clear
+217,Mustard,Naraingarh,2017-08-02,3600.0,5.7,28.2,rain
+218,Mustard,Naraingarh,2017-09-02,3650.0,9.6,30.8,clear
+219,Mustard,Naraingarh,2017-10-02,3800.0,7.3,33.8,clear
+220,Mustard,Naraingarh,2017-11-02,3850.0,6.8,26.8,clear
+221,Mustard,Naraingarh,2017-02-13,3700.0,14.1,23.6,clear
+222,Mustard,Naraingarh,2017-02-14,3750.0,11.0,23.6,clear
+223,Mustard,Naraingarh,2017-02-15,3800.0,8.5,23.0,clear
+224,Mustard,Naraingarh,2017-02-16,3800.0,9.8,23.0,clear
+225,Mustard,Naraingarh,2017-02-17,3700.0,11.4,27.4,clear
+226,Mustard,Naraingarh,2017-02-18,3700.0,11.5,27.6,clear
+227,Mustard,Naraingarh,2017-02-20,3700.0,12.8,27.0,clear
+228,Mustard,Naraingarh,2017-02-21,3650.0,15.9,24.6,clear
+229,Mustard,Naraingarh,2017-02-22,3700.0,11.2,24.2,clear
+230,Mustard,Naraingarh,2017-02-23,3700.0,13.6,23.8,clear
+231,Mustard,Naraingarh,2017-02-24,3700.0,12.5,24.0,clear
+232,Mustard,Naraingarh,2017-02-25,3800.0,10.8,25.0,clear
+233,Mustard,Naraingarh,2017-02-27,3700.0,10.2,26.6,clear
+234,Mustard,Naraingarh,2017-02-28,3750.0,7.8,25.6,clear
+235,Mustard,Naraingarh,2017-01-03,3700.0,11.8,21.6,clear
+236,Mustard,Naraingarh,2017-02-03,3750.0,11.7,20.2,clear
+237,Mustard,Naraingarh,2017-03-03,3700.0,6.0,25.2,clear
+238,Mustard,Naraingarh,2017-04-03,3700.0,8.3,35.4,clear
+239,Mustard,Naraingarh,2017-06-03,3700.0,9.8,41.2,clear
+240,Mustard,Naraingarh,2017-07-03,3750.0,5.8,35.0,clear
+241,Mustard,Naraingarh,2017-08-03,3750.0,0.2,32.0,clear
+242,Mustard,Naraingarh,2017-09-03,3750.0,3.6,31.8,clear
+243,Mustard,Naraingarh,2017-10-03,3700.0,5.2,32.6,clear
+244,Mustard,Naraingarh,2017-11-03,3700.0,2.8,26.0,clear
+245,Mustard,Naraingarh,2017-03-14,3750.0,4.4,23.8,clear
+246,Mustard,Naraingarh,2017-03-15,3700.0,3.6,26.2,clear
+247,Mustard,Naraingarh,2017-03-17,3600.0,6.6,25.4,clear
+248,Mustard,Shahzadpur,2017-03-17,3394.0,2.3,25.4,clear
+249,Mustard,Naraingarh,2017-03-18,3500.0,2.2,26.6,clear
+250,Mustard,Naraingarh,2017-03-20,3800.0,1.8,28.8,clear
+251,Mustard,Naraingarh,2017-03-21,3810.0,1.5,30.6,clear
+252,Mustard,Naraingarh,2017-03-22,3700.0,3.7,32.0,clear
+253,Mustard,Naraingarh,2017-03-23,3550.0,3.0,32.4,clear
+254,Mustard,Naraingarh,2017-03-24,3750.0,2.8,33.4,clear
+255,Mustard,Naraingarh,2017-03-25,3760.0,0.8,32.4,clear
+256,Mustard,Naraingarh,2017-03-27,3450.0,2.2,35.8,clear
+257,Mustard,Shahzadpur,2017-03-27,3415.0,1.9,35.8,clear
+258,Mustard,Naraingarh,2017-03-28,3650.0,1.6,36.4,clear
+259,Mustard,Naraingarh,2017-03-29,3700.0,0.4,37.6,clear
+260,Mustard,Naraingarh,2017-01-04,3600.0,3.2,22.4,clear
+261,Mustard,Naraingarh,2017-03-04,3500.0,2.2,25.4,clear
+262,Mustard,Naraingarh,2017-04-04,3551.0,0.7,33.0,clear
+263,Mustard,Naraingarh,2017-07-04,3645.0,0.8,36.2,clear
+264,Sunflower,Naraingarh,2017-07-07,2503.0,29.0,34.4,clear
+265,Sunflower,Naraingarh,2017-03-08,2800.0,0.5,21.0,clear
