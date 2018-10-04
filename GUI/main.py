@@ -22,14 +22,14 @@ except ImportError:
     import tkinter.ttk as ttk
     py3 = True
 
-import find_support
+import support_file
 
 def vp_start_gui():
     '''Starting point when module is the main routine.'''
     global val, w, root
     root = Tk()
     top = Commodity_Price_Forecasting (root)
-    find_support.init(root, top)
+    support_file.init(root, top)
     root.mainloop()
 
 w = None
@@ -39,7 +39,7 @@ def create_Commodity_Price_Forecasting(root, *args, **kwargs):
     rt = root
     w = Toplevel (root)
     top = Commodity_Price_Forecasting (w)
-    find_support.init(w, top, *args, **kwargs)
+    support_file.init(w, top, *args, **kwargs)
     return (w, top)
 
 def destroy_Commodity_Price_Forecasting():
